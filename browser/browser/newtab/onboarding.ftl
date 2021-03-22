@@ -179,7 +179,7 @@ onboarding-multistage-pin-default-subtitle = 每次上網時，都能保持快�
 # The "settings" here refers to "Windows 10 Settings App" and not the browser's
 onboarding-multistage-pin-default-waiting-subtitle = 開啟設定畫面後，在「網頁瀏覽器」下選擇 { -brand-short-name }
 # The "settings" here refers to "Windows 10 Settings App" and not the browser's
-onboarding-multistage-pin-default-help-text = 將把 { -brand-short-name } 釘選到工具列並開啟設定畫面
+onboarding-multistage-pin-default-help-text = 將把 { -brand-short-name } 釘選到工作列並開啟設定畫面
 onboarding-multistage-pin-default-primary-button-label = 將 { -brand-short-name } 設為我的預設瀏覽器
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
