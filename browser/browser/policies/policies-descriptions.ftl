@@ -107,6 +107,7 @@ policy-SearchEngines = 配置搜索引擎设置。此策略仅适用于延长支
 policy-SearchSuggestEnabled = 启用或禁用搜索建议。
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = 安装 PKCS #11 模块。
+policy-ShowHomeButton = 在工具栏显示“主页”按钮
 policy-SSLVersionMax = 设置最高 SSL 版本。
 policy-SSLVersionMin = 设置最低 SSL 版本。
 policy-SupportMenu = 向帮助菜单自选添加技术支持项目。
