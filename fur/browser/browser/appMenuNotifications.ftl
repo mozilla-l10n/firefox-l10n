@@ -43,6 +43,10 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = Va ben, capît!
     .buttonaccesskey = V
 appmenu-addon-post-install-message = Gjestìs lis tôs zontis fasint clic <image data-l10n-name='addon-install-icon'></image> intal menù <image data-l10n-name='addon-menu-icon'></image>.
+appmenu-addon-private-browsing-installed2 =
+    .buttonlabel = Va ben
+    .buttonaccesskey = V
+appmenu-addon-post-install-message2 = Gjestìs lis tôs estensions e i temis midiant il menù aplicazion.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Permet a cheste estension di zirâ tai barcons privâts
     .accesskey = P

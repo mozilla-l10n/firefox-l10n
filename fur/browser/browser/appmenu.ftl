@@ -7,6 +7,12 @@
 
 appmenuitem-update-banner =
     .label-update-downloading = Daûr a discjariâ l'inzornament di { -brand-shorter-name }
+appmenuitem-update-banner2 =
+    .label-update-downloading = Daûr a discjariâ l'inzornament di { -brand-shorter-name }
+    .label-update-available = Inzornament disponibil — discjame cumò
+    .label-update-manual = Inzornament disponibil — discjame cumò
+    .label-update-unsupported = Impussibil inzornâ
+    .label-update-restart = Inzornament disponibil — torne invie cumò
 appmenuitem-protection-dashboard-title = Panel des protezions
 appmenuitem-customize-mode =
     .label = Personalize…
@@ -21,6 +27,8 @@ appmenuitem-passwords =
     .label = Passwords
 appmenuitem-extensions-and-themes =
     .label = Estensions e temis
+appmenuitem-addons-and-themes =
+    .label = Zontis e temis
 appmenuitem-find-in-page =
     .label = Cjate te pagjine…
 appmenuitem-more-tools =
@@ -163,6 +171,9 @@ appmenu-help-safe-mode-with-addons =
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-enter-troubleshoot-mode2 =
+    .label = Modalitât risoluzion problemis…
+    .accesskey = M
 appmenu-help-exit-troubleshoot-mode =
     .label = Distude modalitât risoluzion problemis
     .accesskey = M

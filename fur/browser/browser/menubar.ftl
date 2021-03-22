@@ -252,9 +252,9 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Jentre su { -brand-product-name }…
     .accesskey = J
-menu-tools-extensions =
-    .label = Estensions e temis
-    .accesskey = e
+menu-tools-addons-and-themes =
+    .label = Zontis e temis
+    .accesskey = Z
 menu-tools-fxa-sign-in2 =
     .label = Jentre
     .accesskey = J
@@ -270,12 +270,25 @@ menu-tools-fxa-re-auth =
 menu-tools-web-developer =
     .label = Svilupadôr Web
     .accesskey = W
+menu-tools-browser-tools =
+    .label = Struments dal navigadôr
+    .accesskey = n
+menu-tools-task-manager =
+    .label = Gjestôr ativitâts
+    .accesskey = G
 menu-tools-page-source =
     .label = Codiç sorzint de pagjine
     .accesskey = S
 menu-tools-page-info =
     .label = Informazions su cheste pagjine
     .accesskey = I
+menu-settings =
+    .label = Impostazions
+    .accesskey =
+        { PLATFORM() ->
+            [windows] I
+           *[other] m
+        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -286,13 +299,6 @@ menu-preferences =
         { PLATFORM() ->
             [windows] O
            *[other] P
-        }
-menu-settings =
-    .label = Impostazions
-    .accesskey =
-        { PLATFORM() ->
-            [windows] I
-           *[other] m
         }
 menu-tools-layout-debugger =
     .label = Debugger de disposizion
@@ -306,15 +312,6 @@ menu-window-bring-all-to-front =
     .label = Puarte dut in prin plan
 
 ## Help Menu
-
-
-# NOTE: For Engineers, any additions or changes to Help menu strings should
-# also be reflected in the related strings in appmenu.ftl. Those strings, by
-# convention, will have the same ID as these, but prefixed with "app".
-# Example: appmenu-help-product
-#
-# These strings are duplicated to allow for different casing depending on
-# where the strings appear.
 
 
 # NOTE: For Engineers, any additions or changes to Help menu strings should
@@ -346,11 +343,11 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = Informazions pe risoluzion problemis…
     .accesskey = n
+menu-help-taskmanager =
+    .label = Gjestôr des ativitâts
 menu-help-more-troubleshooting-info =
     .label = Plui informazions pe risoluzion dai problemis
     .accesskey = t
-menu-help-taskmanager =
-    .label = Gjestôr des ativitâts
 menu-help-report-site-issue =
     .label = Segnale probleme cul sît…
 menu-help-feedback-page =
@@ -362,8 +359,8 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Torne invie cu lis zontis abilitadis
     .accesskey = r
-menu-help-enter-troubleshoot-mode =
-    .label = Modalitât risoluzion problemis
+menu-help-enter-troubleshoot-mode2 =
+    .label = Modalitât risoluzion problemis…
     .accesskey = M
 menu-help-exit-troubleshoot-mode =
     .label = Distude modalitât risoluzion problemis
@@ -376,6 +373,3 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = Chest nol è un sît ingjanôs…
     .accesskey = s
-menu-help-check-for-update =
-    .label = Cîr inzornaments…
-    .accesskey = C
