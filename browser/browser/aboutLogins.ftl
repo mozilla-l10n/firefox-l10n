@@ -8,7 +8,7 @@ about-logins-page-title = Пријаве и лозинке
 # "Google Play" and "App Store" are both branding and should not be translated
 
 login-app-promo-title = Понесите ваше лозинке са собом
-login-app-promo-subtitle = Преузмите бесплатну { -lockwise-brand-name } апликацију
+login-app-promo-subtitle = Преузмите бесплатан програм { -lockwise-brand-name }
 login-app-promo-android =
     .alt = Преузмите на Google Play
 login-app-promo-apple =
