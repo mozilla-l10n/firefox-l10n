@@ -60,7 +60,7 @@ policy-EncryptedMediaExtensions = Encrypted Media Extensions’ı etkinleştir v
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
-policy-Extensions = Eklentileri yükle, kaldır veya kilitle. Yükleme seçeneğinde parametre olarak URL veya yol kullanılır. Kaldırma ve kilitleme seçeneklerinde ise eklenti kimliği kullanılır.
+policy-Extensions = Uzantıları yükle, kaldır veya kilitle. Yükleme seçeneğinde parametre olarak URL veya yol kullanılır. Kaldırma ve kilitleme seçeneklerinde ise uzantı kimliği kullanılır.
 policy-ExtensionSettings = Uzantı kurulumunun tüm yönlerini yönet.
 policy-ExtensionUpdate = Otomatik uzantı güncellemelerini aç veya kapat.
 policy-FirefoxHome = Firefox giriş sayfasını yapılandır.
@@ -69,7 +69,7 @@ policy-Handlers = Varsayılan uygulama işleyicilerini yapılandır.
 policy-HardwareAcceleration = false ise donanım ivmelenmesini kapat.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Giriş sayfasını ayarla ve isteğe bağlı olarak kilitle.
-policy-InstallAddonsPermission = Belirli websitelerinin eklenti yüklemesine izin ver.
+policy-InstallAddonsPermission = Belirli web sitelerinin eklenti yüklemesine izin ver.
 policy-LegacyProfiles = Her kurulum için ayrı bir profil oluşturmayı zorunlu tutan özelliği devre dışı bırak
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
