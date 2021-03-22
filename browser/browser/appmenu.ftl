@@ -7,6 +7,12 @@
 
 appmenuitem-update-banner =
     .label-update-downloading = Telecargament de la mesa a jorn de { -brand-shorter-name }
+appmenuitem-update-banner2 =
+    .label-update-downloading = Telecargament de la mesa a jorn de { -brand-shorter-name }
+    .label-update-available = Mesa a jorn disponibla — la telecargar ara
+    .label-update-manual = Mesa a jorn disponibla — la telecargar ara
+    .label-update-unsupported = Mesa a jorn impossibla
+    .label-update-restart = Mesa a jorn disponibla — reaviar ara
 appmenuitem-protection-dashboard-title = Taula de bòrd de las proteccions
 appmenuitem-customize-mode =
     .label = Personalizar…
