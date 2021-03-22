@@ -13,6 +13,7 @@ fxa-disconnect-dialog-title = Адлучыць { -brand-product-name }?
 fxa-disconnect-dialog-body = { -brand-product-name } адключыцца ад вашага ўліковага запісу, але не выдаліць дадзеныя аглядання на гэтай прыладзе.
 sync-disconnect-dialog-button = Адлучыць
 fxa-signout-dialog-heading = Выйсці з { -fxaccount-brand-name }?
+fxa-signout-dialog2-title = Выйсцi з { -fxaccount-brand-name(capitalization: "sentence") }?
 fxa-signout-dialog-body = Сінхранізаваныя дадзеныя застануцца ў вашым уліковым запісе.
 fxa-signout-checkbox =
     .label = Выдаліць дадзеныя з гэтай прылады (лагіны, паролі, гісторыю, закладкі і г.д.).
