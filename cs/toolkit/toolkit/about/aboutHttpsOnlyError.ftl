@@ -26,3 +26,6 @@ about-httpsonly-link-learn-more = Zjistit více…
 ## Variables:
 ##   $websiteUrl (String) - Url of the website that can be securely loded with these alternatives. Example: example.com
 
+about-httpsonly-suggestion-box-header = Možná alternativa
+about-httpsonly-suggestion-box-www-text = Našli jsme zabezpečenou verzi webu <em>www.{ $websiteUrl }</em>. Místo <em>{ $websiteUrl }</em> můžete zkusit navštívit tu.
+about-httpsonly-suggestion-box-www-button = Přejít na www.{ $websiteUrl }
