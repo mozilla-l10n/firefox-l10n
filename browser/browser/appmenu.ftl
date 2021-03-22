@@ -7,6 +7,12 @@
 
 appmenuitem-update-banner =
     .label-update-downloading = בתהליך הורדת עדכון ל־{ -brand-shorter-name }
+appmenuitem-update-banner2 =
+    .label-update-downloading = בתהליך הורדת עדכון ל־{ -brand-shorter-name }
+    .label-update-available = עדכון זמין — הורדה כעת
+    .label-update-manual = עדכון זמין — הורדה כעת
+    .label-update-unsupported = לא ניתן לעדכן
+    .label-update-restart = עדכון זמין — הפעלה מחדש כעת
 appmenuitem-protection-dashboard-title = לוח הגנות
 appmenuitem-customize-mode =
     .label = התאמה אישית…
