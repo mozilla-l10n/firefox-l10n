@@ -29,6 +29,7 @@ menu =
 about-logins-menu-menuitem-import-from-another-browser = Внасяне от друг мрежов четец…
 about-logins-menu-menuitem-import-from-a-file = Внасяне от файл…
 about-logins-menu-menuitem-export-logins = Изнасяне на регистрации…
+about-logins-menu-menuitem-remove-all-logins = Премахване на всички регистрации…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Настройки
@@ -160,6 +161,16 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Изтриване на регистрацията?
 confirm-delete-dialog-message = Действието е необратимо.
 about-logins-confirm-remove-dialog-confirm-button = Премахване
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [one] Премахване
+       *[other] Премахване на всички
+    }
+about-logins-confirm-remove-all-dialog-checkbox-label =
+    { $count ->
+        [one] Да, премахване на регистрацията
+       *[other] Да, премахване на регистрациите
+    }
 about-logins-confirm-export-dialog-title = Изнасяне на регистрации и пароли
 about-logins-confirm-export-dialog-message = Вашите пароли ще бъдат запазени като четим текст (например Лош@Пар0ла), така че всеки, който има достъп до изнесения файл ще може да ги види.
 about-logins-confirm-export-dialog-confirm-button = Изнасяне…
@@ -223,3 +234,21 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] Документ на CSV
        *[other] Файл на CSV
     }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+
+## Logins import report page
+

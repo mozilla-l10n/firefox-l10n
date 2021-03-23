@@ -100,6 +100,9 @@ profiler-popup-description = Сътрудничете си по проблеми
 profiler-popup-learn-more = Научете повече
 profiler-popup-settings =
     .value = Настройки
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings = Промяна на настройки…
+profiler-popup-disabled = В момента профилаторът е изключен, най-вероятно защото има отворен прозорец за поверително разглеждане.
 profiler-popup-recording-screen = Записване…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
@@ -144,6 +147,9 @@ appmenu-help-troubleshooting-info =
     .accesskey = И
 appmenu-help-taskmanager =
     .label = Диспечер на задачите
+appmenu-help-more-troubleshooting-info =
+    .label = Повече информация за отстраняване на неизправности
+    .accesskey = и
 appmenu-help-report-site-issue =
     .label = Докладване на проблем със страницата…
 appmenu-help-feedback-page =
@@ -166,6 +172,9 @@ appmenu-help-safe-mode-with-addons =
 appmenu-help-enter-troubleshoot-mode2 =
     .label = Режим за отстраняване на неизправности
     .accesskey = н
+appmenu-help-exit-troubleshoot-mode =
+    .label = Режим за отстраняване на неизправности изключен
+    .accesskey = и
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
