@@ -25,6 +25,10 @@ main-context-menu-back-2 =
     .tooltiptext = Torna indietro di una pagina ({ $shortcut })
     .aria-label = Indietro
     .accesskey = I
+# This menuitem is only visible on macOS
+main-context-menu-back-mac =
+    .label = Indietro
+    .accesskey = I
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -46,6 +50,10 @@ main-context-menu-forward-2 =
     .tooltiptext = Vai avanti di una pagina ({ $shortcut })
     .aria-label = Avanti
     .accesskey = A
+# This menuitem is only visible on macOS
+main-context-menu-forward-mac =
+    .label = Avanti
+    .accesskey = A
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
@@ -56,6 +64,10 @@ toolbar-button-forward-2 =
 main-context-menu-reload =
     .aria-label = Ricarica
     .accesskey = R
+# This menuitem is only visible on macOS
+main-context-menu-reload-mac =
+    .label = Ricarica
+    .accesskey = R
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
@@ -63,6 +75,10 @@ toolbar-button-reload =
 
 main-context-menu-stop =
     .aria-label = Stop
+    .accesskey = S
+# This menuitem is only visible on macOS
+main-context-menu-stop-mac =
+    .label = Stop
     .accesskey = S
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
@@ -134,6 +150,11 @@ main-context-menu-save-link-to-pocket =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+
+## The access keys for "Copy Link" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
 main-context-menu-copy-email =
     .label = Copia indirizzo email
     .accesskey = e
@@ -185,7 +206,6 @@ main-context-menu-media-play-speed-faster =
 main-context-menu-media-play-speed-fastest =
     .label = Smodata (2×)
     .accesskey = S
-
 main-context-menu-media-play-speed-2 =
     .label = Velocità
     .accesskey = V
@@ -199,7 +219,6 @@ main-context-menu-media-play-speed-faster-2 =
     .label = 1.5×
 main-context-menu-media-play-speed-fastest-2 =
     .label = 2×
-
 main-context-menu-media-loop =
     .label = Ripeti
     .accesskey = R
@@ -241,7 +260,7 @@ main-context-menu-video-view =
     .accesskey = V
 main-context-menu-image-view-new-tab =
     .label = Apri immagine in nuova scheda
-     .accesskey = v
+    .accesskey = v
 main-context-menu-video-view-new-tab =
     .label = Apri video in nuova scheda
     .accesskey = v
@@ -275,12 +294,12 @@ main-context-menu-image-email =
 main-context-menu-image-set-as-background =
     .label = Imposta come sfondo del desktop…
     .accesskey = p
-main-context-menu-image-set-image-as-background =
-    .label = Imposta immagine come sfondo del desktop…
-    .accesskey = p
 main-context-menu-image-info =
     .label = Visualizza informazioni immagine
     .accesskey = u
+main-context-menu-image-set-image-as-background =
+    .label = Imposta immagine come sfondo del desktop…
+    .accesskey = p
 main-context-menu-image-desc =
     .label = Visualizza descrizione
     .accesskey = d
@@ -295,7 +314,7 @@ main-context-menu-video-image-save-as =
     .accesskey = f
 main-context-menu-video-take-snapshot =
     .label = Cattura istantanea…
-   .accesskey = s
+    .accesskey = s
 main-context-menu-video-email =
     .label = Invia video per email…
     .accesskey = n
@@ -328,7 +347,6 @@ main-context-menu-generate-new-password =
 main-context-menu-use-saved-login =
     .label = Utilizza credenziali salvate
     .accesskey = U
-
 main-context-menu-use-saved-password =
     .label = Utilizza password salvata
     .accesskey = U
@@ -338,7 +356,6 @@ main-context-menu-use-saved-password =
 main-context-menu-suggest-strong-password =
     .label = Suggerisci password complessa…
     .accesskey = S
-
 main-context-menu-manage-logins =
     .label = Gestisci credenziali…
     .accesskey = G
