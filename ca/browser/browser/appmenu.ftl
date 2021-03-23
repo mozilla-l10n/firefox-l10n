@@ -45,6 +45,10 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sincronitza ara
+appmenu-fxa-signed-in-label = Inicia la sessió
+appmenu-fxa-setup-sync =
+    .label = Activa la sincronització…
+appmenu-fxa-show-more-tabs = Mostra més pestanyes
 appmenuitem-save-page =
     .label = Anomena i desa la pàgina…
 
@@ -118,6 +122,9 @@ appmenu-help-troubleshooting-info =
     .accesskey = r
 appmenu-help-taskmanager =
     .label = Gestor de tasques
+appmenu-help-more-troubleshooting-info =
+    .label = Més informació de resolució de problemes
+    .accesskey = n
 appmenu-help-report-site-issue =
     .label = Informa d'un problema amb el lloc…
 appmenu-help-feedback-page =
@@ -137,6 +144,9 @@ appmenu-help-safe-mode-with-addons =
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-exit-troubleshoot-mode =
+    .label = Desactiva el mode de resolució de problemes
+    .accesskey = m
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
