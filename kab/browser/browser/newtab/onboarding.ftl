@@ -173,6 +173,12 @@ onboarding-multistage-set-default-subtitle = D arurad, d aɣellsan yerna iḥerr
 onboarding-multistage-set-default-primary-button-label = Eg amezwer
 onboarding-multistage-set-default-secondary-button-label = Mačči tura
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-pin-default-header = Bdu s tririt <span data-l10n-name="zap">{ -brand-short-name } s usiti kan
+onboarding-multistage-pin-default-subtitle = Tunigin taruradt, taɣellsant, tusligt yal mi ara tesqedceḍ web.
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-waiting-subtitle = Fren { -brand-short-name } deg yiminig web mi ara ldin yiɣewwaren
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Kter awalen-ik·im uffiren, <br/>ticraḍ n yisebtar d <span data-l10n-name="zap">wugar</span>
 onboarding-multistage-import-subtitle = Truḥeḍ-d seg yiminig-nniḍen? Yeshel ad d-taweḍ kullec ɣer { -brand-short-name }.

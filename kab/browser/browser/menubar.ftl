@@ -252,8 +252,8 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Qqen ɣer { -brand-product-name }...
     .accesskey = q
-menu-tools-extensions =
-    .label = Iseɣzaf d yisental
+menu-tools-addons-and-themes =
+    .label = Izegrar d yisental
     .accesskey = I
 menu-tools-fxa-sign-in2 =
     .label = Kcem
@@ -351,6 +351,9 @@ menu-help-safe-mode-without-addons =
     .accesskey = A
 menu-help-safe-mode-with-addons =
     .label = Ales asenker s yizegrar urmiden
+    .accesskey = A
+menu-help-exit-troubleshoot-mode =
+    .label = Sens askar n ferru n wuguren
     .accesskey = A
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.

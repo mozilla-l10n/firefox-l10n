@@ -330,9 +330,15 @@ main-context-menu-generate-new-password =
 main-context-menu-use-saved-login =
     .label = Seqdec inekcam yettwakelsen
     .accesskey = k
+main-context-menu-use-saved-password =
+    .label = Seqdec awal uffir yettwaskelsen
+    .accesskey = a
 
 ##
 
+main-context-menu-suggest-strong-password =
+    .label = SuƔer awal uffir iǧehden…
+    .accesskey = S
 main-context-menu-manage-logins =
     .label = Sefrek inekcam
     .accesskey = S
@@ -378,6 +384,9 @@ main-context-menu-print-selection =
 main-context-menu-view-selection-source =
     .label = Wali tangalt taɣbalut n tefrant
     .accesskey = e
+main-context-menu-take-screenshot =
+    .label = Ṭṭef agdil
+    .accesskey = Ṭ
 main-context-menu-view-page-source =
     .label = Tangalt taɣbalut n usebter
     .accesskey = T

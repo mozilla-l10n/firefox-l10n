@@ -200,12 +200,15 @@ cfr-doorhanger-cryptominers-description = Aqadeṛ n tudert-ik tusligt d ayen me
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (Number) - The date we began recording the count of blocked trackers
+#   $date (String) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
         [one] { -brand-short-name } iwḥel i { $blockedCount }</b> uneḍfar seg
        *[other] { $date }!
     }
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Datetime) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading2 =
     { $blockedCount ->
         [one] { -brand-short-name } yettusewḥel ugar n <b>{ $blockedCount }</b>uneḍfar seg { DATETIME($date, month: "long", year: "numeric") }!
@@ -213,8 +216,6 @@ cfr-doorhanger-milestone-heading2 =
     }
 cfr-doorhanger-milestone-ok-button = Wali akk
     .accesskey = W
-cfr-doorhanger-milestone-close-button = Mdel
-    .accesskey = C
 
 ## What’s New Panel Content for Firefox 76
 
@@ -239,6 +240,12 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Tignit n tugna-deg-tugna
 
 ## Protections Dashboard message
 
+cfr-doorhanger-milestone-close-button = Mdel
+    .accesskey = C
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
+
 cfr-whatsnew-protections-header = Ammesten deg teṛmect n tiṭ
 cfr-whatsnew-protections-body = Tafelwit n usenqed n ummesten tegber-d agzul n y ineqqisen ɣef trewliwin n yisefka d usefrek n wawalen uffiren. Tzemreḍ tura ad ḍefreḍ acḥal n trewliwin i tseɣtaḍ, rnu a twaliḍ ma yella yiwen seg wawalen-inek/inem uffiren yettwaskelsen iban-d deg trewliwin n yisefka.
 cfr-whatsnew-protections-cta-link = Wali tafelwit n usenqed
@@ -255,6 +262,8 @@ cfr-doorhanger-doh-body = Aqader n tudert-ik tabaḍnit yeεna-aɣ. { -brand-sho
 cfr-doorhanger-doh-header = Inadiyen DNS s wugar n tɣellist d uwgelhen
 cfr-doorhanger-doh-primary-button = IH awi-t-id
     .accesskey = o
+cfr-doorhanger-doh-primary-button-2 = Ih
+    .accesskey = I
 cfr-doorhanger-doh-secondary-button = Sens
     .accesskey = D
 

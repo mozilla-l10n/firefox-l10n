@@ -288,6 +288,8 @@ identity-passive-loaded = Kra n yiḥricen deg usebter-a mačči d iɣelsanen (a
 identity-active-loaded = Tessenseḍ ammesten deg usebter-a.
 identity-weak-encryption = Asebter-a isseqdac awgelhen fessusen.
 identity-insecure-login-forms = Isem n useqdac d wawal uffir i tesqedceḍ deg usmel-a zemren ad ttwakren.
+identity-permissions =
+    .value = Tisirag
 identity-https-only-connection-upgraded = (leqqem ɣer HTTPS)
 identity-https-only-label = Askar HTTPS-Only
 identity-https-only-dropdown-on =
@@ -299,8 +301,6 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Rmed askar HTTPS-Only i usmel-a ma tebɣiḍ { -brand-short-name } i uleqqem n tuqqna melmi tzemreḍ.
 identity-https-only-info-turn-off2 = Ma asebter yettban yerreẓ, tzemreḍ ad tsenseḍ kan askar HTTPS i usmel-a akken ad talseḍ asali s useqdec n HTTP araɣellsan.
 identity-https-only-info-no-upgrade = Aleqqem n tuggna seg HTTP d awezɣi.
-identity-permissions =
-    .value = Tisirag
 identity-permissions-storage-access-header = Inagan n tuqqna gar yismal
 identity-permissions-storage-access-hint = Imdanen-a zemren ad sxedmen inagan n tuqqna n gar yismal d yisefka n usmel mi ara tiliḍ deg usmel-a.
 identity-permissions-reload-hint = Ahat tesriḍ ad d-tessaliḍ tikelt-nniḍen asebter akken ad yemmed wayen i tbeddleḍ.
@@ -348,8 +348,6 @@ browser-window-close-button =
 
 ## Tab actions
 
-browser-tab-audio-playing = Iteddu
-browser-tab-audio-muted = Isusem
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-playing2 = TAΓURI
 # This label should be written in all capital letters if your locale supports them.
@@ -358,6 +356,23 @@ browser-tab-audio-muted2 = ISUSEM
 browser-tab-audio-blocked = TAΓURI TAWURMANT TETTUSEWḤEL
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = TUGNA-DEG-TUGNA
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+browser-tab-mute =
+    { $count ->
+        [1] Sgugem iccer
+        [one] Sgugem iccer
+       *[other] Sgugem accaren { $count }
+    }
+browser-tab-unmute =
+    { $count ->
+        [1] Kkes asgugem n yiccer
+        [one] Kkes asgugem n yiccer
+       *[other] Kkes asgugem n waccaren { $count }
+    }
 
 ## Bookmarks toolbar items
 
@@ -550,8 +565,6 @@ crashed-subframe-submit =
 
 bookmarks-show-all-bookmarks =
     .label = Sken akk ticraḍ n yisebtar
-bookmarks-recent-bookmarks =
-    .value = Wid ittwacerḍen melmi kan
 bookmarks-manage-bookmarks =
     .label = Sefrek ticraḍ n yisebtar
 bookmarks-recent-bookmarks-panel =
@@ -572,12 +585,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] Ffer agalis n tecraḍ n yisebtar
            *[other] Sken agalis n tecraḍ n yisebtar
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] Ffer afeggag n tecraḍ n yisebtar
-           *[other] Sken afeggag n tecraḍ n yisebtar
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -624,10 +631,6 @@ bookmarks-current-tab =
 
 library-bookmarks-menu =
     .label = Ticraḍ n yisebtar
-library-bookmarks-bookmark-this-page =
-    .label = Creḍ asebter-a
-library-bookmarks-bookmark-edit =
-    .label = Ẓreg tacreḍṭ n usebter-a
 library-recent-activity-title =
     .value = Armud n melmi kan
 
