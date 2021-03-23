@@ -36,10 +36,13 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = Да, разбрах
     .buttonaccesskey = а
 appmenu-addon-post-install-message = Управлявайте добавките си като изберете <image data-l10n-name='addon-install-icon'></image> от менюто <image data-l10n-name='addon-menu-icon'></image>.
+appmenu-addon-private-browsing-installed2 =
+    .buttonlabel = Добре
+    .buttonaccesskey = о
+appmenu-addon-post-install-message2 = Управлявайте разширения и теми от менюто на приложението.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Позволете на разширението да работи в поверителни прозорци
     .accesskey = з
-    
 appmenu-new-tab-controlled =
     .label = Новият раздел е променен
     .buttonlabel = Запазване

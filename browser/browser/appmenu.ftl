@@ -35,6 +35,12 @@ appmenuitem-more-tools =
     .label = Още инструменти
 appmenuitem-exit =
     .label = Изход
+appmenu-menu-button-closed =
+    .tooltiptext = Отваря менюто на приложението
+    .label = { -brand-shorter-name }
+appmenu-menu-button-opened =
+    .tooltiptext = Затваря менюто на приложението
+    .label = { -brand-shorter-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -62,6 +68,8 @@ appmenu-fxa-header =
 # 3 hours ago, etc.)
 appmenu-fxa-last-sync = Последна синхронизация { $time }
     .label = Последна синхронизация { $time }
+appmenu-fxa-sync-and-save-data =
+    .value = Синхронизиране и запазване на данни
 appmenu-fxa-signed-in-label = Вход
 appmenu-fxa-setup-sync =
     .label = Включване синхронизиране
@@ -84,6 +92,7 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
+profiler-popup-learn-more = Научете повече
 profiler-popup-settings =
     .value = Настройки
 profiler-popup-recording-screen = Записване…
@@ -112,9 +121,13 @@ profiler-popup-capture-shortcut =
 
 appmenu-manage-history =
     .label = Управление на история
+appmenu-reopen-all-tabs = Възстановяване на всички раздели
+appmenu-reopen-all-windows = Възстановяване на всички прозорци
 
 ## Help panel
 
+appmenu-help-header =
+    .title = Помощ за { -brand-shorter-name }
 appmenu-about =
     .label = Относно { -brand-shorter-name }
     .accesskey = О
@@ -161,5 +174,8 @@ appmenu-help-not-deceptive =
 
 ## More Tools
 
+appmenu-customizetoolbar =
+    .label = Настройки на лентата с инструменти…
 appmenu-taskmanager =
-    .label = Диспечер на задачите
+    .label = Диспечер на задачи
+appmenu-developer-tools-subheader = Инструменти за четеца
