@@ -507,15 +507,15 @@
 <!ENTITY folderContextMarkAllFoldersRead.label "Merkitse kaikki kansiot luetuiksi">
 <!ENTITY folderContextMarkAllFoldersRead.accesskey "M">
 <!ENTITY folderContextOpenNewWindow.label "Avaa uuteen ikkunaan">
-<!ENTITY folderContextOpenNewWindow.accesskey "i">
+<!ENTITY folderContextOpenNewWindow.accesskey "A">
 <!ENTITY folderContextOpenNewTab.label "Avaa uuteen välilehteen">
-<!ENTITY folderContextOpenNewTab.accesskey "A">
+<!ENTITY folderContextOpenNewTab.accesskey "v">
 <!ENTITY folderContextRename.label "Nimeä uudelleen">
 <!ENTITY folderContextRename.accesskey "N">
 <!ENTITY folderContextRemove.label "Poista">
 <!ENTITY folderContextRemove.accesskey "P">
 <!ENTITY folderContextCompact.label "Tiivistä kansio">
-<!ENTITY folderContextCompact.accesskey "v">
+<!ENTITY folderContextCompact.accesskey "T">
 <!ENTITY folderContextEmptyTrash.label "Tyhjennä roskakori">
 <!ENTITY folderContextEmptyTrash.accesskey "y">
 <!ENTITY folderContextEmptyJunk.label "Tyhjennä roskapostit">
