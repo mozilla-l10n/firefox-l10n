@@ -82,7 +82,7 @@ show-dir-label =
        *[other] 디렉터리 열기
     }
 environment-variables-title = 환경 변수
-environment-variables-name = Name
+environment-variables-name = 이름
 environment-variables-value = 값
 experimental-features-title = 실험적인 기능
 experimental-features-name = 이름
