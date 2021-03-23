@@ -12,8 +12,8 @@ menu-copy =
 select-all =
     .key = A
 menu-select-all =
-    .label = לבחור הכול
-    .accesskey = כ
+    .label = בחירת הכול
+    .accesskey = ב
 close-dialog =
     .key = w
 general-tab =
@@ -115,6 +115,9 @@ security-site-data-cookies = כן, עוגיות ו־‎{ $value } { $unit } של
 security-site-data-only = כן, ‎{ $value } { $unit } של נתוני אתרים
 security-site-data-cookies-only = כן, עוגיות
 security-site-data-no = לא
+
+##
+
 image-size-unknown = לא ידוע
 page-info-not-specified =
     .value = לא צוין
