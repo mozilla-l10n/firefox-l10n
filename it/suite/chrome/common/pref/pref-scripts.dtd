@@ -21,8 +21,12 @@
 <!ENTITY allowHideStatusBar.label        "Nascondere la barra di stato">
 
 <!ENTITY debugging.label                  "Debugging JavaScript">
-<!ENTITY debugEnableDump.label            "Abilita output JavaScript dump()">
+<!ENTITY debugEnableDump.label            "Abilita l'output di JavaScript dump()">
 <!ENTITY debugEnableDump.accesskey        "A">
+<!ENTITY debugStrictJavascript.label      'Mostra avvisi "strict" di JavaScript'>
+<!ENTITY debugStrictJavascript.accesskey  "M">
+<!ENTITY debugConsoleJavascript.label     "Mostra errori e avvisi di JavaScript relativi al chrome">
+<!ENTITY debugConsoleJavascript.accesskey "c">
 
 <!ENTITY enablePlugins.label             "Abilita plugin per">
 <!ENTITY enablePluginForSuite.label      "Suite">
