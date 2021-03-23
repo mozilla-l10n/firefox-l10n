@@ -361,6 +361,21 @@ browser-tab-audio-pip = IMATGE SOBRE IMATGE
 ## Variables:
 ##  $count (number): number of affected tabs
 
+browser-tab-mute =
+    { $count ->
+        [1] SILENCIA LA PESTANYA
+       *[other] SILENCIA { $count } PESTANYES
+    }
+browser-tab-unmute =
+    { $count ->
+        [1] NO SILENCIÏS LA PESTANYA
+       *[other] NO SILENCIÏS { $count } PESTANYES
+    }
+browser-tab-unblock =
+    { $count ->
+        [1] REPRODUEIX LA PESTANYA
+       *[other] REPRODUEIX { $count } PESTANYES
+    }
 
 ## Bookmarks toolbar items
 

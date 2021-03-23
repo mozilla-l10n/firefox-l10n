@@ -172,6 +172,7 @@ onboarding-multistage-set-default-header = Feu que el { -brand-short-name } sigu
 onboarding-multistage-set-default-subtitle = Velocitat, seguretat i privadesa sempre que navegueu.
 onboarding-multistage-set-default-primary-button-label = Fes que sigui el navegador per defecte
 onboarding-multistage-set-default-secondary-button-label = Ara no
+onboarding-multistage-pin-default-subtitle = Navegació ràpida, segura i privada cada vegada que utilitzeu el web.
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Importeu les vostres contrasenyes, <br/>adreces d'interès i <span data-l10n-name = "zap">més</span>
