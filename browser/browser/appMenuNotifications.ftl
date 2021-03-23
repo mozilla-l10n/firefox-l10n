@@ -43,6 +43,10 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = Entesos
     .buttonaccesskey = E
 appmenu-addon-post-install-message = Gestioneu els vostres complements fent clic a <image data-l10n-name='addon-install-icon'></image> al menú <image data-l10n-name='addon-menu-icon'></image>.
+appmenu-addon-private-browsing-installed2 =
+    .buttonlabel = D'acord
+    .buttonaccesskey = D
+appmenu-addon-post-install-message2 = Gestioneu les vostres extensions i temes mitjançant el menú de l'aplicació.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Permet que aquesta extensió s'executi en finestres privades
     .accesskey = P
