@@ -20,3 +20,5 @@ fxa-signout-dialog =
     .title = Kirjaudu ulos { -fxaccount-brand-name(case: "ablative") }
     .style = min-width: 375px;
     .buttonlabelaccept = Kirjaudu ulos
+fxa-signout-dialog2-button = Kirjaudu ulos
+fxa-signout-dialog2-checkbox = Poista tiedot tältä laitteelta (salasanat, historia, kirjanmerkit jne.)

@@ -9,10 +9,6 @@ about-httpsonly-insecure-explanation-unavailable = Selaat ”Vain HTTPS” -tila
 about-httpsonly-insecure-explanation-reasons = Todennäköisesti sivusto ei tue HTTPS:ää, mutta on myös mahdollista, että hyökkääjä estää HTTPS-version käytön.
 about-httpsonly-insecure-explanation-exception = Vaikka tietoturvariski on pieni, jos päätät vierailla sivuston HTTP-versiossa, sinun ei pidä kirjoittaa sinne mitään arkaluontoisia tietoja, kuten salasanoja, sähköpostiosoitteita tai luottokorttitietoja.
 about-httpsonly-button-make-exception = Ota riski ja jatka sivustolle
-about-httpsonly-title = { -brand-short-name } havaitsi mahdollisen tietoturvaongelman
-# Variables:
-#   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
-about-httpsonly-explanation-unavailable = Selaaminen on ”Vain HTTPS” -tilassa ja sivuston <em>{ $websiteUrl }</em> suojattu HTTPS-versio ei ole käytettävissä.
 about-httpsonly-title-alert = Vain HTTPS -tilan varoitus
 about-httpsonly-title-connection-not-available = Suojattua yhteyttä ei ole käytettävissä
 # Variables:
@@ -21,8 +17,15 @@ about-httpsonly-explanation-unavailable2 = Olet ottanut käyttöön Vain HTTPS -
 about-httpsonly-explanation-question = Mistä tämä johtuu?
 about-httpsonly-explanation-nosupport = Todennäköisesti sivusto ei tue HTTPS:ää.
 about-httpsonly-explanation-risk = On myös mahdollista, että takana on hyökkääjä. Jos päätät vierailla sivustolla, sivustolle ei pitäisi kirjoittaa arkaluonteisia tietoja, kuten salasanoja, sähköpostiosoitteita tai luottokorttitietoja.
-about-httpsonly-button-accept-and-continue = Ota riski ja jatka
 about-httpsonly-explanation-continue = Jos jatkat, Vain HTTPS -tila poistetaan käytöstä väliaikaisesti tämän sivuston kohdalla.
 about-httpsonly-button-continue-to-site = Jatka HTTP-sivustolle
 about-httpsonly-button-go-back = Palaa takaisin
 about-httpsonly-link-learn-more = Lue lisää…
+
+## Suggestion Box that only shows up if a secure connection to www can be established
+## Variables:
+##   $websiteUrl (String) - Url of the website that can be securely loded with these alternatives. Example: example.com
+
+about-httpsonly-suggestion-box-header = Mahdollinen vaihtoehto
+about-httpsonly-suggestion-box-www-text = Sivustosta <em>www.{ $websiteUrl }</em> on tarjolla suojattu versio. Voit käydä kyseisellä sivulla sivun <em>{ $websiteUrl }</em> sijaan.
+about-httpsonly-suggestion-box-www-button = Siirry osoitteeseen www.{ $websiteUrl }
