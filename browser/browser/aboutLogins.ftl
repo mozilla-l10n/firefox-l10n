@@ -283,6 +283,11 @@ about-logins-import-dialog-error-conflicting-values-title = Множество �
 about-logins-import-dialog-error-file-permission-title = Грешка при прочитане на файл
 about-logins-import-dialog-error-file-permission-description = { -brand-short-name } няма права за четене върху файла. Променете правата на файла.
 about-logins-import-dialog-error-unable-to-read-title = Грешка при анализ на файл
+about-logins-import-dialog-error-unable-to-read-description = Уверете се, че избраният файл е CSV или TSV.
+about-logins-import-dialog-error-no-logins-imported = Не са внесени регистраци
+about-logins-import-dialog-error-learn-more = Научете повече
+about-logins-import-dialog-error-try-again = Нов опит…
+about-logins-import-dialog-error-cancel = Отказ
 
 ##
 ## Variables:
