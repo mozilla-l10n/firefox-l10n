@@ -37,6 +37,8 @@ site-data-settings-dialog =
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 site-storage-usage =
     .value = { $value } { $unit }
+site-storage-persistent =
+    .value = { site-storage-usage.value } (ធន់)
 site-data-remove-all =
     .label = លុប​ចេញ​ទាំងអស់
     .accesskey = e
