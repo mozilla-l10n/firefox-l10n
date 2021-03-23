@@ -171,9 +171,21 @@ about-logins-confirm-remove-all-dialog-checkbox-label =
         [one] Да, премахване на регистрацията
        *[other] Да, премахване на регистрациите
     }
+about-logins-confirm-remove-all-dialog-title =
+    { $count ->
+        [one] Премахване на { $count } регистрация?
+       *[other] Премахване на { $count } регистрации?
+    }
+about-logins-confirm-remove-all-sync-dialog-title =
+    { $count ->
+        [one] Премахване на { $count } регистрация от всички устройства?
+       *[other] Премахване на { $count } регистрации от всички устройства?
+    }
 about-logins-confirm-export-dialog-title = Изнасяне на регистрации и пароли
 about-logins-confirm-export-dialog-message = Вашите пароли ще бъдат запазени като четим текст (например Лош@Пар0ла), така че всеки, който има достъп до изнесения файл ще може да ги види.
 about-logins-confirm-export-dialog-confirm-button = Изнасяне…
+about-logins-alert-import-title = Внасянето е завършено
+about-logins-alert-import-message = Подробен доклад за процеса
 confirm-discard-changes-dialog-title = Отказвате се от промените?
 confirm-discard-changes-dialog-message = Незапазените промени ще бъдат изгубени.
 confirm-discard-changes-dialog-confirm-button = Отхвърляне
