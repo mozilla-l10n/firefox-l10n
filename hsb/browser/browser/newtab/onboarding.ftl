@@ -172,6 +172,9 @@ onboarding-multistage-set-default-header = { -brand-short-name } jako <span data
 onboarding-multistage-set-default-subtitle = Spěšnosć, wěstota a priwatnosć kóždy raz, hdyž přehladujeće.
 onboarding-multistage-set-default-primary-button-label = K standardej činić
 onboarding-multistage-set-default-secondary-button-label = Nic nětko
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-pin-default-header = Započńće, zo by <span data-l10n-name="zap">{ -brand-short-name }</span> jenož jedne kliknjenje zdaleny był
 onboarding-multistage-pin-default-subtitle = Spěšne, wěste a priwatne přehladowanje kóždy raz, hdyž web wužiwaće.
 # The "settings" here refers to "Windows 10 Settings App" and not the browser's
 onboarding-multistage-pin-default-waiting-subtitle = Wubjerće { -brand-short-name } z webwobhladowakow, hdyž waše nastajenja wočinjeće
