@@ -14,6 +14,7 @@ policy-3rdparty = Aseta käytäntöjä, joita WebExtensionit voivat käyttää c
 policy-AppAutoUpdate = Käytä tai poista käytöstä sovelluksen automaattiset päivitykset.
 policy-AppUpdateURL = Aseta oma sovelluksen päivittämisen URL-osoite.
 policy-Authentication = Määritä sisäänrakennettu tunnistautuminen sivustoille, jotka tukevat sitä.
+policy-BackgroundAppUpdate2 = Ota käyttöön tai poista käytöstä taustalla suoritettavien päivitysten toiminnallisuus.
 policy-BlockAboutAddons = Estä pääsy lisäosien hallintaan (about:addons).
 policy-BlockAboutConfig = Estä pääsy about:config-sivulle.
 policy-BlockAboutProfiles = Estä pääsy about:profiles-sivulle.
@@ -106,6 +107,7 @@ policy-SearchEngines = Aseta hakukoneasetukset. Tämä käytäntö on käytettä
 policy-SearchSuggestEnabled = Ota käyttöön tai poista käytöstä hakuehdotukset.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Asenna PKCS #11 -moduulit.
+policy-ShowHomeButton = Näytä kotipainike työkalupalkissa.
 policy-SSLVersionMax = Aseta SSL:n enimmäisversio.
 policy-SSLVersionMin = Aseta SSL:n vähimmäisversio.
 policy-SupportMenu = Lisää Ohje-valikkoon oma valikkokohta tukea varten.
