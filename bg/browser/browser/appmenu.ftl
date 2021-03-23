@@ -92,6 +92,11 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
+profiler-popup-reveal-description-button =
+    .aria-label = Показване на повече информация
+profiler-popup-description-title =
+    .value = Записвайте, анализирайте, споделяйте
+profiler-popup-description = Сътрудничете си по проблеми с производителността, като публикувате профили, които да споделяте с екипа си.
 profiler-popup-learn-more = Научете повече
 profiler-popup-settings =
     .value = Настройки
