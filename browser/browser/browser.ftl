@@ -574,6 +574,8 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Аудио или видеозапис от страницата използва софтуер за DRM, който може да ограничи какво { -brand-short-name } ви позволява да правите с тях.
+eme-notifications-drm-content-playing-dismiss = Прекратяване
+eme-notifications-drm-content-playing-dismiss-accesskey = р
 
 ## Password save/update panel
 
