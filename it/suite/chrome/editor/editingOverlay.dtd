@@ -29,6 +29,26 @@
 <!ENTITY publishSettings.label "Impostazioni pubblicazione…">
 <!ENTITY publishSettings.accesskey "m">
 
+<!-- Insert menu items -->
+<!ENTITY insertFormMenu.label "Modulo">
+<!ENTITY insertFormMenu.accesskey "M">
+<!ENTITY insertFormCmd.label "Definisci modulo…">
+<!ENTITY insertFormCmd.accesskey "D">
+<!ENTITY insertInputTagCmd.label "Campo del modulo…">
+<!ENTITY insertInputTagCmd.accesskey "C">
+<!ENTITY insertInputImageCmd.label "Immagine del modulo…">
+<!ENTITY insertInputImageCmd.accesskey "n">
+<!ENTITY insertTextAreaCmd.label "Area di testo…">
+<!ENTITY insertTextAreaCmd.accesskey "A">
+<!ENTITY insertSelectCmd.label "Lista di selezione…">
+<!ENTITY insertSelectCmd.accesskey "L">
+<!ENTITY insertButtonCmd.label "Definisci pulsante…">
+<!ENTITY insertButtonCmd.accesskey "s">
+<!ENTITY insertLabelCmd.label "Definisci etichetta">
+<!ENTITY insertLabelCmd.accesskey "e">
+<!ENTITY insertFieldSetCmd.label "Definisci insieme di elementi…">
+<!ENTITY insertFieldSetCmd.accesskey "d">
+
 <!-- Toolbar buttons/items -->
 <!ENTITY newToolbarCmd.label "Nuovo">
 <!ENTITY newToolbarCmd.tooltip "Crea una nuova pagina con Composer">

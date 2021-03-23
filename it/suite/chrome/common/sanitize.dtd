@@ -29,11 +29,13 @@
 <!ENTITY itemCookiesS.accesskey          "i">
 <!ENTITY itemOfflineApps.label           "Dati non in linea dei siti web">
 <!ENTITY itemOfflineApps.accesskey       "n">
+<!ENTITY itemOfflineAppsS.accesskey      "t">
 <!ENTITY itemPasswords.label             "Password salvate">
 <!ENTITY itemPasswords.accesskey         "P">
 <!ENTITY itemPasswordsS.accesskey        "v">
 <!ENTITY itemSessions.label              "Sessioni con autenticazione">
 <!ENTITY itemSessions.accesskey          "S">
 
+<!ENTITY itemSessionsS.accesskey         "a">
 
 <!ENTITY sanitizeButton.label            "Svuota dati personali ora">
