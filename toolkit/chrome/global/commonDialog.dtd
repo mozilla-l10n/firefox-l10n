@@ -6,4 +6,5 @@
 <!ENTITY editfield1.label "ססמה:"> 
 <!ENTITY copyCmd.label    "העתקה">
 <!ENTITY copyCmd.accesskey "ה">
+<!ENTITY selectAllCmd.label "בחירת הכול">
 <!ENTITY selectAllCmd.accesskey "ב">
