@@ -32,5 +32,5 @@ screenshots-self-screenshot-error-title = Не можете да направи�
 screenshots-empty-selection-error-title = Ваша селекција је премала
 screenshots-private-window-error-title = Услуга { -screenshots-brand-name } је онемогућена у режиму приватног прегледања
 screenshots-private-window-error-details = Извињавамо се на непријатности. Радимо на додавању ове функције.
-screenshots-generic-error-title = Ајој! { -screenshots-brand-name } је пошашавио.
+screenshots-generic-error-title = Ау! Услуга { -screenshots-brand-name } је престала са радом.
 screenshots-generic-error-details = Нисмо сигурни шта се управо догодило. Желите ли покушати поново или да усликате другачију страницу?
