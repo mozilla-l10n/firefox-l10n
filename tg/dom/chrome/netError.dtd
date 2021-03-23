@@ -1,0 +1,43 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!-- Specific error messages -->
+
+
+
+
+
+
+
+
+
+
+<!ENTITY netOffline.title "Реҷаи офлайн">
+
+<!ENTITY contentEncodingError.title "Хатои рамзгузории муҳтаво">
+
+<!ENTITY unsafeContentType.title "Навъи файли беэътимод">
+
+<!ENTITY netReset.title "Пайвастшавӣ қатъ карда шуд">
+
+<!ENTITY netTimeout.title "Вақти интизори шабака ба анҷом расид">
+
+<!ENTITY unknownProtocolFound.title "Протоколи номаълум">
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+
+
