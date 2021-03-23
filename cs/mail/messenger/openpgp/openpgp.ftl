@@ -352,7 +352,7 @@ keyserver-error-server-error = Server klíčů ohlásil chybu.
 keyserver-error-import-error = Import staženého klíče se nezdařil.
 keyserver-error-unavailable = Server klíčů není dostupný.
 keyserver-error-security-error = Server klíčů nepodporuje šifrovaný přístup.
-keyserver-error-certificate-error = Serveru klíčů používá neplatný certifikát.
+keyserver-error-certificate-error = Server klíčů používá neplatný certifikát.
 keyserver-error-unsupported = Tento server klíčů není podporován.
 # Strings in mimeWkdHandler.jsm
 wkd-message-body-req =
