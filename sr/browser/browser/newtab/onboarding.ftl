@@ -101,14 +101,14 @@ onboarding-data-sync-title = Понесите своја подешавања с
 onboarding-data-sync-text2 = Синхронизујте своје забелешке, лозинке и остало свуда где користите { -brand-product-name }.
 onboarding-data-sync-button2 = Пријавите се у { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Будите у приправности од повреде података
-onboarding-firefox-monitor-text2 = { -monitor-brand-name } надгледа вашу имејл адресу ако се појави у познатом цурењу података и обавестиће вас уколико је открије.
+onboarding-firefox-monitor-text2 = { -monitor-brand-name } прати да ли се ваша имејл-адреса појавила у познатим базама података које су процуреле на интернету и обавештава вас уколико јесте.
 onboarding-firefox-monitor-button = Пријавите се за упозорења
 onboarding-browse-privately-title = Прегледајте приватно
 onboarding-browse-privately-text = Приватно прегледање брише историју претраге и прегледања како би остала скривена од било кога ко користи ваш рачунар.
 onboarding-browse-privately-button = Отвори приватни прозор
 onboarding-firefox-send-title = Држите своје дељене датотеке приватним
-onboarding-firefox-send-text2 = Пренесите датотеке на { -send-brand-name } да их поделите с енкрипцијом с-краја-на-крај и везом која аутоматски истиче.
-onboarding-firefox-send-button = Испробајте { -send-brand-name }
+onboarding-firefox-send-text2 = Датотеке отпремљене на { -send-brand-name(case: "acc") } заштићене су шифровањем с краја на крај и линк до њих аутоматски истиче.
+onboarding-firefox-send-button = Испробајте { -send-brand-name(case: "acc") }
 onboarding-mobile-phone-title = Преузмите { -brand-product-name } на Ваш телефон
 onboarding-mobile-phone-text = Преузмите { -brand-product-name } за iOS или Андроид и синхронизујте податке између уређаја.
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
