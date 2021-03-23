@@ -200,19 +200,20 @@ cfr-doorhanger-cryptominers-description = La vostra privadesa és important. Ara
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (Number) - The date we began recording the count of blocked trackers
+#   $date (String) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
        *[other] El { -brand-short-name } ha blocat més de <b>{ $blockedCount }</b> elements de seguiment des del { $date }
     }
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Datetime) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading2 =
     { $blockedCount ->
        *[other] El { -brand-short-name } ha blocat més de <b>{ $blockedCount }</b> elements de seguiment des del { DATETIME($date, month: "long", year: "numeric") }
     }
 cfr-doorhanger-milestone-ok-button = Mostra-ho tot
     .accesskey = M
-cfr-doorhanger-milestone-close-button = Tanca
-    .accesskey = c
 
 ## What’s New Panel Content for Firefox 76
 
@@ -237,6 +238,12 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Icona d'Imatge sobre imatge
 
 ## Protections Dashboard message
 
+cfr-doorhanger-milestone-close-button = Tanca
+    .accesskey = c
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
+
 cfr-whatsnew-protections-header = Totes les proteccions d'un cop d'ull
 cfr-whatsnew-protections-body = El Tauler de proteccions inclou un resum de les filtracions de dades i gestió de contrasenyes. Ara podeu fer el seguiment de les filtracions que heu resolt i comprovar si alguna de les vostres contrasenyes desades podrien haver estat exposades en una filtració de dades.
 cfr-whatsnew-protections-cta-link = Mostra el tauler de proteccions
@@ -253,6 +260,8 @@ cfr-doorhanger-doh-body = La vostra privadesa és important. Ara el { -brand-sho
 cfr-doorhanger-doh-header = Consultes DNS més segures i xifrades
 cfr-doorhanger-doh-primary-button = Entesos
     .accesskey = o
+cfr-doorhanger-doh-primary-button-2 = D'acord
+    .accesskey = D
 cfr-doorhanger-doh-secondary-button = Inhabilita
     .accesskey = h
 
