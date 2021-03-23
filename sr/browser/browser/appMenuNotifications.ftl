@@ -3,11 +3,17 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 appmenu-update-available =
-    .label = Ажурирање { -brand-shorter-name }-а је доступно.
+    .label =
+        Доступно је ажурирање { -brand-shorter-name.gender ->
+            [masculine] { -brand-shorter-name(case: "gen") }
+            [feminine] { -brand-shorter-name(case: "gen") }
+            [neuter] { -brand-shorter-name(case: "gen") }
+           *[other] програма { -brand-shorter-name }
+        }
     .buttonlabel = Преузми ажурирање
-    .buttonaccesskey = D
-    .secondarybuttonlabel = Не сада
-    .secondarybuttonaccesskey = N
+    .buttonaccesskey = П
+    .secondarybuttonlabel = Касније
+    .secondarybuttonaccesskey = К
 appmenu-update-available-message = Ажурирајте ваш { -brand-shorter-name } за нове могућности.
 appmenu-update-manual =
     .label = { -brand-shorter-name } се не може ажурирати на последњу верзију.
