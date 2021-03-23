@@ -288,6 +288,8 @@ identity-passive-loaded = Parts d'aquesta pàgina no són segures (com les imatg
 identity-active-loaded = Heu desactivat la protecció en aquesta pàgina.
 identity-weak-encryption = Aquesta pàgina utilitza xifratge feble.
 identity-insecure-login-forms = Les dades d'inici de sessió que introduïu en aquesta pàgina podrien estar en risc.
+identity-permissions =
+    .value = Permisos
 identity-https-only-connection-upgraded = (actualitzat a HTTPS)
 identity-https-only-label = Mode només HTTPS
 identity-https-only-dropdown-on =
@@ -299,8 +301,6 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Activeu el mode només HTTPS per a aquest lloc si voleu que el { -brand-short-name } canviï a una connexió segura quan sigui possible.
 identity-https-only-info-turn-off2 = Si sembla que la pàgina no funciona bé, podeu provar de desactivar el mode només HTTPS per a aquest lloc per tornar-lo a carregar amb HTTP insegur.
 identity-https-only-info-no-upgrade = No s'ha pogut actualitzar la connexió des d'HTTP.
-identity-permissions =
-    .value = Permisos
 identity-permissions-storage-access-header = Galetes entre llocs
 identity-permissions-storage-access-hint = Aquests subjectes poden utilitzar galetes entre llocs i dades del lloc mentre esteu en aquest lloc.
 identity-permissions-reload-hint = Potser cal que actualitzeu la pàgina per aplicar els canvis.
@@ -348,8 +348,6 @@ browser-window-close-button =
 
 ## Tab actions
 
-browser-tab-audio-playing = S'està reproduint
-browser-tab-audio-muted = Silenciat
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-playing2 = REPRODUINT
 # This label should be written in all capital letters if your locale supports them.
@@ -358,6 +356,11 @@ browser-tab-audio-muted2 = SILENCIADA
 browser-tab-audio-blocked = REPRODUC, AUTOMÀTICA BLOCADA
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = IMATGE SOBRE IMATGE
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
 
 ## Bookmarks toolbar items
 
@@ -374,6 +377,16 @@ popup-select-camera =
 popup-select-microphone =
     .value = Micròfon per compartir:
     .accesskey = M
+popup-select-camera-device =
+    .value = Càmera:
+    .accesskey = C
+popup-select-camera-icon =
+    .tooltiptext = Càmera
+popup-select-microphone-device =
+    .value = Micròfon:
+    .accesskey = M
+popup-select-microphone-icon =
+    .tooltiptext = Micròfon
 popup-all-windows-shared = Es compartiran totes les finestres visibles de la pantalla.
 popup-screen-sharing-not-now =
     .label = Ara no
@@ -383,6 +396,13 @@ popup-screen-sharing-never =
     .accesskey = N
 popup-silence-notifications-checkbox = Desactiva les notificacions del { -brand-short-name } mentre s'estigui compartint
 popup-silence-notifications-checkbox-warning = El { -brand-short-name } no mostrarà notificacions mentre estigueu compartint.
+popup-screen-sharing-block =
+    .label = Bloca
+    .accesskey = B
+popup-screen-sharing-always-block =
+    .label = Bloca sempre
+    .accesskey = s
+popup-mute-notifications-checkbox = Silencia les notificacions del lloc web mentre s'està compartint
 
 ## WebRTC window or screen share tab switch warning
 
@@ -533,8 +553,6 @@ crashed-subframe-submit =
 
 bookmarks-show-all-bookmarks =
     .label = Mostra totes les adreces d'interès
-bookmarks-recent-bookmarks =
-    .value = Afegides recentment
 bookmarks-manage-bookmarks =
     .label = Gestiona les adreces d'interès
 bookmarks-recent-bookmarks-panel =
@@ -555,12 +573,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] Amaga la barra lateral d'adreces d'interès
            *[other] Mostra la barra lateral de les adreces d'interès
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] Amaga la barra d'eines d'adreces d'interès
-           *[other] Mostra la barra de les adreces d'interès
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -607,10 +619,6 @@ bookmarks-current-tab =
 
 library-bookmarks-menu =
     .label = Adreces d'interès
-library-bookmarks-bookmark-this-page =
-    .label = Afegeix la pàgina a les adreces d'interès
-library-bookmarks-bookmark-edit =
-    .label = Edita aquesta adreça d'interès
 library-recent-activity-title =
     .value = Activitat recent
 
@@ -627,3 +635,15 @@ eme-notifications-drm-content-playing-manage = Gestiona els paràmetres
 eme-notifications-drm-content-playing-manage-accesskey = G
 eme-notifications-drm-content-playing-dismiss = Descarta
 eme-notifications-drm-content-playing-dismiss-accesskey = D
+
+## Password save/update panel
+
+panel-save-update-username = Nom d'usuari
+panel-save-update-password = Contrasenya
+
+## Add-on removal warning
+
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = Voleu eliminar { $name }?
+addon-removal-abuse-report-checkbox = Informeu d'aquesta extensió a { -vendor-short-name }

@@ -111,6 +111,9 @@ menu-edit =
 menu-edit-find-on =
     .label = Cerca en aquesta pàgina…
     .accesskey = r
+menu-edit-find-in-page =
+    .label = Cerca a la pàgina…
+    .accesskey = C
 menu-edit-find-again =
     .label = Torna a cercar
     .accesskey = o
@@ -128,6 +131,9 @@ menu-view-toolbars-menu =
     .accesskey = a
 menu-view-customize-toolbar =
     .label = Personalitza…
+    .accesskey = P
+menu-view-customize-toolbar2 =
+    .label = Personalitza la barra d'eines…
     .accesskey = P
 menu-view-sidebar =
     .label = Barra lateral
@@ -219,6 +225,8 @@ menu-bookmarks-show-all =
     .label = Mostra totes les adreces d'interès
 menu-bookmark-this-page =
     .label = Afegeix la pàgina a les adreces d'interès
+menu-bookmark-current-tab =
+    .label = Afegeix la pestanya actual a les adreces d'interès
 menu-bookmark-edit =
     .label = Edita aquesta adreça d'interès
 menu-bookmarks-all-tabs =
@@ -244,6 +252,9 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Inicia la sessió al { -brand-product-name }…
     .accesskey = F
+menu-tools-fxa-sign-in2 =
+    .label = Inicia la sessió
+    .accesskey = I
 menu-tools-turn-on-sync =
     .label = Activa el { -sync-brand-short-name }…
     .accesskey = n
@@ -262,6 +273,13 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Informació de la pàgina
     .accesskey = I
+menu-settings =
+    .label = Paràmetres
+    .accesskey =
+        { PLATFORM() ->
+            [windows] P
+           *[other] m
+        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -285,15 +303,6 @@ menu-window-bring-all-to-front =
     .label = Porta-ho tot a davant
 
 ## Help Menu
-
-
-# NOTE: For Engineers, any additions or changes to Help menu strings should
-# also be reflected in the related strings in appmenu.ftl. Those strings, by
-# convention, will have the same ID as these, but prefixed with "app".
-# Example: appmenu-help-product
-#
-# These strings are duplicated to allow for different casing depending on
-# where the strings appear.
 
 
 # NOTE: For Engineers, any additions or changes to Help menu strings should
@@ -325,11 +334,11 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = Informació de resolució de problemes
     .accesskey = r
+menu-help-taskmanager =
+    .label = Gestor de tasques
 menu-help-more-troubleshooting-info =
     .label = Més informació de resolució de problemes
     .accesskey = i
-menu-help-taskmanager =
-    .label = Gestor de tasques
 menu-help-report-site-issue =
     .label = Informa d'un problema amb el lloc…
 menu-help-feedback-page =
@@ -341,9 +350,6 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Reinicia amb els complements habilitats
     .accesskey = R
-menu-help-enter-troubleshoot-mode =
-    .label = Mode de resolució de problemes
-    .accesskey = M
 menu-help-exit-troubleshoot-mode =
     .label = Desactiva el mode de resolució de problemes
     .accesskey = m
@@ -355,6 +361,3 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = No és cap lloc enganyós…
     .accesskey = N
-menu-help-check-for-update =
-    .label = Cerca actualitzacions…
-    .accesskey = C

@@ -244,6 +244,12 @@ main-context-menu-image-view =
 main-context-menu-video-view =
     .label = Visualitza el vídeo
     .accesskey = i
+main-context-menu-image-view-new-tab =
+    .label = Obre la imatge en una pestanya nova
+    .accesskey = i
+main-context-menu-video-view-new-tab =
+    .label = Obre el vídeo en una pestanya nova
+    .accesskey = v
 main-context-menu-image-copy =
     .label = Copia la imatge
     .accesskey = m
@@ -292,6 +298,9 @@ main-context-menu-audio-save-as =
 main-context-menu-video-image-save-as =
     .label = Anomena i desa una instantània…
     .accesskey = s
+main-context-menu-video-take-snapshot =
+    .label = Fes una instantània…
+    .accesskey = F
 main-context-menu-video-email =
     .label = Envia el vídeo per correu…
     .accesskey = a
@@ -321,9 +330,18 @@ main-context-menu-generate-new-password =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-use-saved-login =
+    .label = Utilitza un inici de sessió desat
+    .accesskey = U
+main-context-menu-use-saved-password =
+    .label = Utilitza una contrasenya desada
+    .accesskey = U
 
 ##
 
+main-context-menu-suggest-strong-password =
+    .label = Suggereix una contrasenya segura…
+    .accesskey = S
 main-context-menu-manage-logins =
     .label = Gestiona els inicis de sessió…
     .accesskey = G
@@ -369,6 +387,9 @@ main-context-menu-print-selection =
 main-context-menu-view-selection-source =
     .label = Codi font de la selecció
     .accesskey = e
+main-context-menu-take-screenshot =
+    .label = Fes una captura de pantalla
+    .accesskey = F
 main-context-menu-view-page-source =
     .label = Codi font de la pàgina
     .accesskey = f
