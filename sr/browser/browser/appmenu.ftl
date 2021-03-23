@@ -6,7 +6,13 @@
 ## App Menu
 
 appmenuitem-update-banner =
-    .label-update-downloading = Преузимање { -brand-shorter-name } ажурирања
+    .label-update-downloading =
+        Преузимање ажурирања { -brand-shorter-name.gender ->
+            [masculine] { -brand-shorter-name(case: "gen") }
+            [feminine] { -brand-shorter-name(case: "gen") }
+            [neuter] { -brand-shorter-name(case: "gen") }
+           *[other] програма { -brand-shorter-name }
+        }
 appmenuitem-protection-dashboard-title = Сигурносна командна табла
 appmenuitem-customize-mode =
     .label = Прилагоди…

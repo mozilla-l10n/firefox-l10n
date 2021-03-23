@@ -15,7 +15,13 @@ update-checkForUpdatesButton =
     .label = Провери да ли постоје ажурирања
     .accesskey = C
 update-updateButton =
-    .label = Рестартуј { -brand-shorter-name(case: "acc") } ради ажурирања
+    .label =
+        Рестартуј и ажурирај { -brand-shorter-name.gender ->
+            [masculine] { -brand-shorter-name(case: "acc") }
+            [feminine] { -brand-shorter-name(case: "acc") }
+            [neuter] { -brand-shorter-name(case: "acc") }
+           *[other] програм { -brand-shorter-name }
+        }
     .accesskey = Р
 update-checkingForUpdates = Провера надоградњи…
 update-downloading = <img data-l10n-name="icon"/>Преузимам надоградњу — <label data-l10n-name="download-status"/>
