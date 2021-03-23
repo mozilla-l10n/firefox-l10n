@@ -7,6 +7,12 @@
 
 appmenuitem-update-banner =
     .label-update-downloading = Emboguejy { -brand-shorter-name } mbohekopyahu
+appmenuitem-update-banner2 =
+    .label-update-downloading = Emboguejy { -brand-shorter-name } ñembohekopyahu
+    .label-update-available = Embohekopyahukuaa — emboguejy ko’ág̃a
+    .label-update-manual = Embohekopyahukuaa — emboguejy ko’ág̃a
+    .label-update-unsupported = Ndaikatúi embohekopyahu
+    .label-update-restart = Embohekopyahukuaa — emoñepyrũjey ko’ág̃a
 appmenuitem-protection-dashboard-title = Ñemo’ãha renda
 appmenuitem-customize-mode =
     .label = Ñemomba’e…
@@ -21,6 +27,8 @@ appmenuitem-passwords =
     .label = Ñe’ẽñemi
 appmenuitem-extensions-and-themes =
     .label = Jepysokue ha Téma
+appmenuitem-addons-and-themes =
+    .label = Moĩmbaha ha Téma
 appmenuitem-find-in-page =
     .label = Kuatiaroguépe jejuhu…
 appmenuitem-more-tools =
