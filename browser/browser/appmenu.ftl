@@ -13,6 +13,18 @@ appmenuitem-update-banner =
             [neuter] { -brand-shorter-name(case: "gen") }
            *[other] програма { -brand-shorter-name }
         }
+appmenuitem-update-banner2 =
+    .label-update-downloading =
+        Преузимање ажурирања { -brand-shorter-name.gender ->
+            [masculine] { -brand-shorter-name(case: "gen") }
+            [feminine] { -brand-shorter-name(case: "gen") }
+            [neuter] { -brand-shorter-name(case: "gen") }
+           *[other] програма { -brand-shorter-name }
+        }
+    .label-update-available = Доступно је ажурирање – преузмите га
+    .label-update-manual = Доступно је ажурирање – преузмите га
+    .label-update-unsupported = Ажурирање није успело
+    .label-update-restart = Доступно је ажурирање – рестартујте сада
 appmenuitem-protection-dashboard-title = Сигурносна командна табла
 appmenuitem-customize-mode =
     .label = Прилагоди…
@@ -33,6 +45,12 @@ appmenuitem-more-tools =
     .label = Више алатки
 appmenuitem-exit =
     .label = Излаз
+appmenu-menu-button-closed =
+    .tooltiptext = Отвори мени програма
+    .label = { -brand-shorter-name }
+appmenu-menu-button-opened =
+    .tooltiptext = Затвори мени програма
+    .label = { -brand-shorter-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -116,7 +134,7 @@ appmenu-reopen-all-windows = Поново отвори све прозоре
 ## Help panel
 
 appmenu-help-header =
-    .title = { -brand-shorter-name } помоћ
+    .title = Помоћ за { -brand-shorter-name }
 appmenu-about =
     .label = О програму { -brand-shorter-name }
     .accesskey = О
