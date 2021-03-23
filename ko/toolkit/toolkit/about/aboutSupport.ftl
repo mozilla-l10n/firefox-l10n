@@ -47,7 +47,7 @@ app-basics-update-dir =
        *[other] 업데이트 폴더
     }
 app-basics-update-history = 업데이트 기록
-app-basics-show-update-history = 업데이트 기록 표시
+app-basics-show-update-history = 업데이트 기록 보기
 # Represents the path to the binary used to start the application.
 app-basics-binary = 애플리케이션 바이너리
 app-basics-profile-dir =
