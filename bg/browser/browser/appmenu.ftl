@@ -7,6 +7,12 @@
 
 appmenuitem-update-banner =
     .label-update-downloading = Изтегляне на обновяване на { -brand-shorter-name }
+appmenuitem-update-banner2 =
+    .label-update-downloading = Изтегляне на обновяване на { -brand-shorter-name }
+    .label-update-available = Налично е обновяване - изтегляне сега
+    .label-update-manual = Налично е обновяване - изтегляне сега
+    .label-update-unsupported = Грешка при обновяван
+    .label-update-restart = Налично е обновяване - нужен рестарт
 appmenuitem-protection-dashboard-title = Табло със защити
 appmenuitem-customize-mode =
     .label = Персонализиране…
@@ -17,6 +23,22 @@ appmenuitem-new-window =
     .label = Нов прозорец
 appmenuitem-new-private-window =
     .label = Поверителен прозорец
+appmenuitem-passwords =
+    .label = Пароли
+appmenuitem-extensions-and-themes =
+    .label = Разширения и теми
+appmenuitem-addons-and-themes =
+    .label = Добавки и теми
+appmenuitem-find-in-page =
+    .label = Търсене в страницата
+appmenuitem-more-tools =
+    .label = Още инструменти
+appmenuitem-exit =
+    .label = Изход
+# Settings is now used to access the browser settings across all platforms,
+# instead of Options or Preferences.
+appmenuitem-settings =
+    .label = Настройки
 
 ## Zoom and Fullscreen Controls
 
@@ -31,6 +53,19 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Синхронизиране
+appmenuitem-fxa-toolbar-sync-now2 = Синхронизиране
+appmenuitem-fxa-manage-account = Управление на сметка
+appmenu-fxa-header =
+    .title = { -fxaccount-brand-name }
+# Variables
+# $time (string) - Localized relative time since last sync (e.g. 1 second ago,
+# 3 hours ago, etc.)
+appmenu-fxa-last-sync = Последна синхронизация { $time }
+    .label = Последна синхронизация { $time }
+appmenu-fxa-signed-in-label = Вход
+appmenu-fxa-setup-sync =
+    .label = Включване синхронизиране
+appmenu-fxa-show-more-tabs = Показване на повече раздели
 appmenuitem-save-page =
     .label = Запазване като…
 
@@ -47,15 +82,45 @@ whatsnew-panel-footer-checkbox =
 ## performance profiles. To enable it go to profiler.firefox.com and click
 ## "Enable Profiler Menu Button".
 
+profiler-popup-title =
+    .value = { -profiler-brand-name }
+profiler-popup-settings =
+    .value = Настройки
+profiler-popup-recording-screen = Записване…
+# The profiler presets list is generated elsewhere, but the custom preset is defined
+# here only.
+profiler-popup-presets-custom =
+    .label = По избор
+profiler-popup-start-recording-button =
+    .label = Начало на запис
+profiler-popup-discard-button =
+    .label = Отхвърляне
+profiler-popup-capture-button =
+    .label = Прехващане
+profiler-popup-start-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧1
+       *[other] Ctrl+Shift+1
+    }
+profiler-popup-capture-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧2
+       *[other] Ctrl+Shift+2
+    }
 
 ## History panel
 
+appmenu-manage-history =
+    .label = Управление на история
 
 ## Help panel
 
 appmenu-about =
     .label = Относно { -brand-shorter-name }
     .accesskey = О
+appmenu-get-help =
+    .label = Получете помощ
+    .accesskey = П
 appmenu-help-troubleshooting-info =
     .label = Отстраняване на неизправности
     .accesskey = И
@@ -80,6 +145,9 @@ appmenu-help-safe-mode-with-addons =
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-enter-troubleshoot-mode2 =
+    .label = Режим за отстраняване на неизправности
+    .accesskey = н
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
