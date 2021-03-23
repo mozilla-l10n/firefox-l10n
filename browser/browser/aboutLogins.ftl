@@ -203,6 +203,7 @@ about-logins-breach-alert-learn-more-link = Научете повече
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Уязвима парола
+about-logins-vulnerable-alert-text2 = Тази парола е използвана в друга сметка, вероятно жертва на изтичане на данни. Преизползването на информация за удостоверяване излага на риск всички ваши сметки. Сменете паролата.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = Към { $hostname }
@@ -246,11 +247,42 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] Документ на CSV
        *[other] Файл на CSV
     }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] Документ на TSV
+       *[other] Файл на TSV
+    }
 
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-dialog-title = Внасянето е завършено
+about-logins-import-dialog-items-added =
+    { $count ->
+       *[other] <span>Добавени регистрации:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified =
+    { $count ->
+       *[other] <span>Обновени регистрации:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+       *[other] <span>Намерени дублиращи се регистрации:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-error =
+    { $count ->
+        [one] <span>Грешки:</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(не внесена)</span>
+       *[other] <span>Грешки:</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(не внесени)</span>
+    }
+about-logins-import-dialog-done = Готово
+about-logins-import-dialog-error-title = Грешка при внасяне
+about-logins-import-dialog-error-conflicting-values-title = Множество конфликтни стойности за една регистрация
+about-logins-import-dialog-error-file-permission-title = Грешка при прочитане на файл
+about-logins-import-dialog-error-file-permission-description = { -brand-short-name } няма права за четене върху файла. Променете правата на файла.
+about-logins-import-dialog-error-unable-to-read-title = Грешка при анализ на файл
 
 ##
 ## Variables:
