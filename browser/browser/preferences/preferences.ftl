@@ -469,6 +469,10 @@ update-application-manual =
     .label = Non controllare mai la disponibilità di aggiornamenti (non consigliato)
     .accesskey = N
 
+update-application-background-enabled =
+    .label = Quando { -brand-short-name } non è in esecuzione
+    .accesskey = Q
+
 update-application-warning-cross-user-setting = Questa impostazione verrà applicata a tutti gli account di Windows e ai profili di { -brand-short-name } utilizzati da questa installazione del browser.
 
 update-application-use-service =
