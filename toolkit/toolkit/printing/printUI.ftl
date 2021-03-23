@@ -38,7 +38,6 @@ printui-scale-fit-to-page-width = Ajusta a l'amplada de la pàgina
 printui-scale-pcent = Escala
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Impressió a doble cara
-printui-duplex-checkbox = Imprimeix a doble cara
 printui-two-sided-printing-off = Desactivada
 # Flip the sheet as if it were bound along its long edge.
 printui-two-sided-printing-long-edge = Gira en el costat llarg
@@ -105,4 +104,4 @@ printui-error-invalid-copies = El nombre de còpies ha de ser entre 1 i 10000.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = L'interval ha de ser un nombre entre 1 i { $numPages }.
-printui-error-invalid-start-overflow = El número de pàgina inicial ha de ser superior al número de pàgina final.
+printui-error-invalid-start-overflow = El número de pàgina inicial ha de ser inferior al número de pàgina final.
