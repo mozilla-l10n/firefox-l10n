@@ -6,6 +6,8 @@ key-wizard-learn-more = Научете повече
 
 ## Generate key section
 
+openpgp-keygen-dismiss =
+    .label = Отказ
 
 ## Import Key section
 
