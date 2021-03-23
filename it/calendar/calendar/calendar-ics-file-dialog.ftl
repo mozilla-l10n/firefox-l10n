@@ -32,4 +32,14 @@ calendar-ics-file-dialog-progress-message = Importazione in corso…
 calendar-ics-file-import-success = Importato con successo!
 calendar-ics-file-import-error = Si è verificato un errore e l'importazione è fallita.
 calendar-ics-file-import-complete = Importazione completata.
+calendar-ics-file-import-duplicates =
+    { $duplicatesCount ->
+        [one] Un elemento è stato ignorato dato che esiste già nel calendario di destinazione.
+       *[other] { $duplicatesCount } elementi sono stati ignorati dato che esistono già nel calendario di destinazione.
+    }
+calendar-ics-file-import-errors =
+    { $errorsCount ->
+        [one] L'importazione di un elemento è fallita. Controllare la Console degli errori per i dettagli.
+       *[other] L'importazione di { $errorsCount } elementi è fallita. Controllare la Console degli errori per i dettagli.
+    }
 calendar-ics-file-dialog-no-calendars = Non ci sono calendari in grado di importare eventi o attività.
