@@ -102,21 +102,36 @@ main-context-menu-bookmark-add =
     .aria-label = Aggiungi pagina ai segnalibri
     .accesskey = u
     .tooltiptext = Aggiungi ai segnalibri
+
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-add-mac =
+    .label = Aggiungi pagina ai segnalibri
+    .accesskey = n
+
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-edit-mac =
+    .label = Modifica segnalibro
+    .accesskey = n
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-add-with-shortcut =
     .aria-label = Aggiungi pagina ai segnalibri
-    .accesskey = u
+    .accesskey = n
     .tooltiptext = Aggiungi ai segnalibri ({ $shortcut })
 main-context-menu-bookmark-change =
     .aria-label = Modifica segnalibro
-    .accesskey = u
+    .accesskey = n
     .tooltiptext = Modifica questo segnalibro
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-bookmark-change-with-shortcut =
     .aria-label = Modifica segnalibro
-    .accesskey = u
+    .accesskey = n
     .tooltiptext = Modifica questo segnalibro ({ $shortcut })
 main-context-menu-open-link =
     .label = Apri link
