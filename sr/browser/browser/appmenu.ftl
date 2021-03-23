@@ -134,9 +134,21 @@ appmenu-reopen-all-windows = Поново отвори све прозоре
 ## Help panel
 
 appmenu-help-header =
-    .title = Помоћ за { -brand-shorter-name }
+    .title =
+        Помоћ за { -brand-shorter-name.gender ->
+            [masculine] { -brand-shorter-name(case: "acc") }
+            [feminine] { -brand-shorter-name(case: "acc") }
+            [neuter] { -brand-shorter-name(case: "acc") }
+           *[other] програм { -brand-shorter-name }
+        }
 appmenu-about =
-    .label = О програму { -brand-shorter-name }
+    .label =
+        О { -brand-shorter-name.gender ->
+            [masculine] { -brand-shorter-name(case: "loc") }
+            [feminine] { -brand-shorter-name(case: "loc") }
+            [neuter] { -brand-shorter-name(case: "loc") }
+           *[other] програму { -brand-shorter-name }
+        }
     .accesskey = О
 appmenu-get-help =
     .label = Потражи помоћ
