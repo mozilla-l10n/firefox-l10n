@@ -14,7 +14,13 @@ appmenu-update-available =
     .buttonaccesskey = П
     .secondarybuttonlabel = Касније
     .secondarybuttonaccesskey = К
-appmenu-update-available-message = Ажурирајте ваш { -brand-shorter-name } за нове могућности.
+appmenu-update-available-message =
+    Ажурирајте { -brand-shorter-name.gender ->
+        [masculine] { -brand-shorter-name(case: "loc") }
+        [feminine] { -brand-shorter-name(case: "loc") }
+        [neuter] { -brand-shorter-name(case: "loc") }
+       *[other] програм { -brand-shorter-name }
+    } ради побољшања брзине и приватности.
 appmenu-update-manual =
     .label = { -brand-shorter-name } се не може ажурирати на последњу верзију.
     .buttonlabel = Преузми { -brand-shorter-name }
