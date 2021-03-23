@@ -38,7 +38,6 @@ printui-scale-fit-to-page-width = Fit to page width
 printui-scale-pcent = Scale
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Two-sided printing
-printui-duplex-checkbox = Print on both sides
 printui-two-sided-printing-off = Off
 # Flip the sheet as if it were bound along its long edge.
 printui-two-sided-printing-long-edge = Flip on long edge
@@ -57,14 +56,19 @@ printui-margins-default = Default
 printui-margins-min = Minimum
 printui-margins-none = None
 printui-margins-custom-inches = Custom (inches)
+printui-margins-custom-mm = Custom (mm)
 printui-margins-custom-top = Top
 printui-margins-custom-top-inches = Top (inches)
+printui-margins-custom-top-mm = Top (mm)
 printui-margins-custom-bottom = Bottom
 printui-margins-custom-bottom-inches = Bottom (inches)
+printui-margins-custom-bottom-mm = Bottom (mm)
 printui-margins-custom-left = Left
 printui-margins-custom-left-inches = Left (inches)
+printui-margins-custom-left-mm = Left (mm)
 printui-margins-custom-right = Right
 printui-margins-custom-right-inches = Right (inches)
+printui-margins-custom-right-mm = Right (mm)
 printui-system-dialog-link = Print using the system dialog…
 printui-primary-button = Print
 printui-primary-button-save = Save

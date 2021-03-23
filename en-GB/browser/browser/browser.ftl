@@ -288,6 +288,8 @@ identity-passive-loaded = Parts of this page are not secure (such as images).
 identity-active-loaded = You have disabled protection on this page.
 identity-weak-encryption = This page uses weak encryption.
 identity-insecure-login-forms = Logins entered on this page could be compromised.
+identity-permissions =
+    .value = Permissions
 identity-https-only-connection-upgraded = (upgraded to HTTPS)
 identity-https-only-label = HTTPS-Only Mode
 identity-https-only-dropdown-on =
@@ -299,8 +301,6 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Turn on HTTPS-Only Mode for this site if you want { -brand-short-name } to upgrade the connection when possible.
 identity-https-only-info-turn-off2 = If the page seems broken, you may want to turn off HTTPS-Only Mode for this site to reload using insecure HTTP.
 identity-https-only-info-no-upgrade = Unable to upgrade connection from HTTP.
-identity-permissions =
-    .value = Permissions
 identity-permissions-storage-access-header = Cross-site cookies
 identity-permissions-storage-access-hint = These parties can use cross-site cookies and site data while you are on this site.
 identity-permissions-reload-hint = You may need to reload the page for changes to apply.
@@ -348,8 +348,6 @@ browser-window-close-button =
 
 ## Tab actions
 
-browser-tab-audio-playing = Playing
-browser-tab-audio-muted = Muted
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-playing2 = PLAYING
 # This label should be written in all capital letters if your locale supports them.
@@ -358,6 +356,26 @@ browser-tab-audio-muted2 = MUTED
 browser-tab-audio-blocked = AUTOPLAY BLOCKED
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = PICTURE-IN-PICTURE
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+browser-tab-mute =
+    { $count ->
+        [1] MUTE TAB
+       *[other] MUTE { $count } TABS
+    }
+browser-tab-unmute =
+    { $count ->
+        [1] UNMUTE TAB
+       *[other] UNMUTE { $count } TABS
+    }
+browser-tab-unblock =
+    { $count ->
+        [1] PLAY TAB
+       *[other] PLAY { $count } TABS
+    }
 
 ## Bookmarks toolbar items
 
@@ -377,9 +395,13 @@ popup-select-microphone =
 popup-select-camera-device =
     .value = Camera:
     .accesskey = C
+popup-select-camera-icon =
+    .tooltiptext = Camera
 popup-select-microphone-device =
     .value = Microphone:
     .accesskey = M
+popup-select-microphone-icon =
+    .tooltiptext = Microphone
 popup-all-windows-shared = All visible windows on your screen will be shared.
 popup-screen-sharing-not-now =
     .label = Not Now
@@ -546,8 +568,6 @@ crashed-subframe-submit =
 
 bookmarks-show-all-bookmarks =
     .label = Show All Bookmarks
-bookmarks-recent-bookmarks =
-    .value = Recently Bookmarked
 bookmarks-manage-bookmarks =
     .label = Manage Bookmarks
 bookmarks-recent-bookmarks-panel =
@@ -568,12 +588,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] Hide Bookmarks Sidebar
            *[other] View Bookmarks Sidebar
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] Hide Bookmarks Toolbar
-           *[other] View Bookmarks Toolbar
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -620,10 +634,6 @@ bookmarks-current-tab =
 
 library-bookmarks-menu =
     .label = Bookmarks
-library-bookmarks-bookmark-this-page =
-    .label = Bookmark This Page
-library-bookmarks-bookmark-edit =
-    .label = Edit This Bookmark
 library-recent-activity-title =
     .value = Recent Activity
 
@@ -640,3 +650,15 @@ eme-notifications-drm-content-playing-manage = Manage Settings
 eme-notifications-drm-content-playing-manage-accesskey = M
 eme-notifications-drm-content-playing-dismiss = Dismiss
 eme-notifications-drm-content-playing-dismiss-accesskey = D
+
+## Password save/update panel
+
+panel-save-update-username = Username
+panel-save-update-password = Password
+
+## Add-on removal warning
+
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = Remove { $name }?
+addon-removal-abuse-report-checkbox = Report this extension to { -vendor-short-name }
