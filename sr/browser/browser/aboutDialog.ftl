@@ -15,7 +15,7 @@ update-checkForUpdatesButton =
     .label = Провери да ли постоје ажурирања
     .accesskey = C
 update-updateButton =
-    .label = Рестартуј { -brand-shorter-name } ради ажурирања
+    .label = Рестартуј { -brand-shorter-name(case: "acc") } ради ажурирања
     .accesskey = Р
 update-checkingForUpdates = Провера надоградњи…
 update-downloading = <img data-l10n-name="icon"/>Преузимам надоградњу — <label data-l10n-name="download-status"/>
@@ -43,7 +43,7 @@ bottomLinks-privacy = Политика приватности
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1
 #   $bits (Number): bits of the architecture (32 or 64)
-aboutDialog-version = { $version } ({ $bits }-бита)
+aboutDialog-version = { $version } ({ $bits } бита)
 # Example of resulting string: 66.0a1 (2019-01-16) (64-bit)
 # Variables:
 #   $version (String): version of Firefox for Nightly builds, e.g. 66.0a1
