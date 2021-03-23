@@ -13,6 +13,8 @@
 <!ENTITY prefWindow.size "width: 120ch; height: 41em;">
 <!ENTITY prefWindowMac.size "width: 60em; height: 41em;">
 <!ENTITY prefWindowWin.size "width: 125ch; height: 45em;">
+<!ENTITY prefWindowMac2.size "width: 70em; height: 41em;">
+<!ENTITY prefWindowWin2.size "width: 125ch; height: 44em;">
 <!ENTITY categoryHeader "Categoria:">
 
 <!ENTITY appear.label "Aspetto">
@@ -54,5 +56,7 @@
 <!ENTITY httpnetworking.label "Trasferimenti HTTP">
 <!ENTITY smart.label "Installazione programmi">
 <!ENTITY mousewheel.label "Rotellina mouse">
+
+<!ENTITY debugging.label "Debugging">
 
 <!ENTITY focusSearch.key "f">

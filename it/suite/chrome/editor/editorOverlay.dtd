@@ -11,11 +11,12 @@
 <!ENTITY pasteNoFormatting.label "Incolla senza formattazione">
 <!ENTITY pasteNoFormatting.accesskey "f">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "Incolla come">
-<!ENTITY pasteAs.accesskey "o">
 <!ENTITY pasteAsQuotationCmd.label "Incolla come citazione">
 <!ENTITY pasteAsQuotationCmd.accesskey "n">
 <!ENTITY pasteAsQuotationCmd.key "o">
+<!ENTITY editRewrapCmd.label "Manda a capo">
+<!ENTITY editRewrapCmd.key "R">
+<!ENTITY editRewrapCmd.accesskey "M">
 <!ENTITY findBarCmd.label "Trova…">
 <!ENTITY findReplaceCmd.label "Trova e sostituisci…">
 <!ENTITY enableInlineSpellChecker.label "Controllo ortografico durante la digitazione">
@@ -294,8 +295,6 @@
 <!ENTITY cutToolbarCmd.tooltip "Taglia">
 <!ENTITY copyToolbarCmd.tooltip "Copia">
 <!ENTITY pasteToolbarCmd.tooltip "Incolla">
-<!ENTITY printToolbarCmd.label "Stampa">
-<!ENTITY printToolbarCmd.tooltip "Stampa la pagina">
 <!ENTITY findToolbarCmd.label "Trova">
 <!ENTITY findToolbarCmd.tooltip "Trova testo nella pagina">
 <!ENTITY spellToolbarCmd.label "Ortografia">
@@ -313,8 +312,6 @@
 <!ENTITY colorButtons.title "Colori">
 <!ENTITY TextColorButton.tooltip "Scegli il colore del testo">
 <!ENTITY BackgroundColorButton.tooltip "Scegli il colore dello sfondo">
-<!ENTITY throbber.tooltip "Vai alla pagina iniziale di &vendorShortName;">
-<!ENTITY throbber.tooltip2 "Vai alla pagina iniziale di &brandShortName;">
 <!ENTITY HighlightColorButton.label "Evidenziatore">
 <!ENTITY HighlightColorButton.tooltip "Scegli il colore di selezione testo">
 
