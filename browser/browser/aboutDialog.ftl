@@ -13,7 +13,7 @@ update-updateButton =
     .accesskey = о
 update-checkingForUpdates = Перевірка оновлень…
 update-downloading = <img data-l10n-name="icon"/>Оновлення завантажується — <label data-l10n-name="download-status"/>
-update-downloading-message = Завантаження оновлення — <label data-l10n-name="download-status"/>
+update-downloading-message = Оновлення завантажується — <label data-l10n-name="download-status"/>
 update-applying = Оновлення застосовується…
 update-failed = Не вдалося оновити. <label data-l10n-name="failed-link">Завантажити останню версію</label>
 update-failed-main = Не вдалося оновити. <a data-l10n-name="failed-link-main">Завантажити останню версію</a>
