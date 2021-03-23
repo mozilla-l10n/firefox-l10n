@@ -7,6 +7,12 @@
 
 appmenuitem-update-banner =
     .label-update-downloading = Đang tải xuống bản cập nhật { -brand-shorter-name }
+appmenuitem-update-banner2 =
+    .label-update-downloading = Đang tải xuống bản cập nhật { -brand-shorter-name }
+    .label-update-available = Bản cập nhật đã có sẵn — tải xuống ngay
+    .label-update-manual = Bản cập nhật đã có sẵn — tải xuống ngay
+    .label-update-unsupported = Không thể cập nhật
+    .label-update-restart = Bản cập nhật đã có sẵn — khởi động lại ngay
 appmenuitem-protection-dashboard-title = Bảng điều khiển bảo vệ
 appmenuitem-customize-mode =
     .label = Tùy biến…
@@ -20,6 +26,8 @@ appmenuitem-new-private-window =
 appmenuitem-passwords =
     .label = Mật khẩu
 appmenuitem-extensions-and-themes =
+    .label = Tiện ích mở rộng và chủ đề
+appmenuitem-addons-and-themes =
     .label = Tiện ích mở rộng và chủ đề
 appmenuitem-find-in-page =
     .label = Tìm trong trang…
