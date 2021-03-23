@@ -46,6 +46,7 @@ appmenu-addon-post-install-message = Sefrek izegrar inek s usebbed γef <image d
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Ih
     .buttonaccesskey = H
+appmenu-addon-post-install-message2 = Sefrek isiɣzaf d yisental inek·inem deg wumuɣ n usnas.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Sireg asiɣzef-agi ad yeddu deg isfuyla usligen
     .accesskey = S
