@@ -56,7 +56,7 @@ protections-panel-not-found-label = Não detectado:
 
 ##
 
-protections-panel-settings-label = Configurações de proteção
+protections-panel-settings-label = Configuração de proteção
 # This should match the "appmenuitem-protection-dashboard-title" string in browser/appmenu.ftl.
 protections-panel-protectionsdashboard-label = Painel de proteções
 
@@ -75,13 +75,13 @@ protections-panel-site-not-working-view-send-report = Enviar um relato
 
 ##
 
-protections-panel-cross-site-tracking-cookies = Esses cookies seguem você de um site para outro para coletar dados sobre o que você faz online. Eles são criados por terceiros, como anunciantes e empresas analíticas.
+protections-panel-cross-site-tracking-cookies = Esses cookies tentam te seguir de um site para outro para coletar dados sobre o que você faz online. Eles são criados por terceiros, como anunciantes e empresas analíticas.
 protections-panel-cryptominers = Criptomineradores usam o poder computacional do seu sistema para minerar moedas digitais. Scripts de criptomineradores drenam sua bateria, fazem seu computador ficar mais lento e podem aumentar sua conta de energia elétrica.
 protections-panel-fingerprinters = Fingerprinters coletam configurações do seu navegador e do seu computador para traçar um perfil seu. Usando esta identidade digital, eles podem rastrear você em vários sites.
 protections-panel-tracking-content = Sites podem carregar anúncios, vídeos e outros conteúdos externos com código de rastreamento. Bloquear conteúdo de rastreamento pode ajudar a carregar sites mais rápido, mas alguns botões, formulários e campos de acesso a contas podem não funcionar.
 protections-panel-social-media-trackers = Redes sociais colocam rastreadores em outros sites para seguir o que você faz, vê e assiste online. Isto permite que empresas de mídias sociais saibam mais sobre você, muito além do que você compartilha nos perfis de suas mídias sociais.
 protections-panel-content-blocking-manage-settings =
-    .label = Gerenciar configurações de proteção
+    .label = Gerenciar configuração de proteção
     .accesskey = G
 protections-panel-content-blocking-breakage-report-view =
     .title = Relatar um site com problemas
