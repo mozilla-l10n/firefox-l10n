@@ -288,6 +288,8 @@ identity-passive-loaded = Tällä sivulla on suojaamatonta sisältöä (kuten ku
 identity-active-loaded = Suojaamattoman sisällön estäminen on otettu pois päältä sivustolla.
 identity-weak-encryption = Sivusto käyttää heikkoa salausta.
 identity-insecure-login-forms = Tälle sivulle kirjoitettujen kirjautumistietojen turvallisuus voi vaarantua.
+identity-permissions =
+    .value = Käyttöoikeudet
 identity-https-only-connection-upgraded = (päivitetty HTTPS:ksi)
 identity-https-only-label = Vain HTTPS -tila
 identity-https-only-dropdown-on =
@@ -299,8 +301,6 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Ota Vain HTTPS -tila käyttöön tälle sivustolle, jos haluat, että { -brand-short-name } päivittää suojattuun yhteyteen mikäli mahdollista.
 identity-https-only-info-turn-off2 = Jos sivu näyttää rikkinäiseltä, saatat haluta poistaa Vain HTTPS -tilan käytöstä ja näin ladata sivun uudestaan käyttäen suojaamatonta HTTP:tä.
 identity-https-only-info-no-upgrade = Yhteyden päivittäminen HTTP:stä epäonnistui.
-identity-permissions =
-    .value = Käyttöoikeudet
 identity-permissions-storage-access-header = Sivustorajat ylittävät evästeet
 identity-permissions-storage-access-hint = Nämä osapuolet voivat käyttää sivustorajat ylittäviä evästeitä ja sivustotietoja, kun olet tällä sivustolla.
 identity-permissions-reload-hint = Sivu tarvitsee ehkä päivittää, jotta muutokset tulevat voimaan.
@@ -348,8 +348,6 @@ browser-window-close-button =
 
 ## Tab actions
 
-browser-tab-audio-playing = Toistetaan
-browser-tab-audio-muted = Vaimennettu
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-playing2 = TOISTETAAN
 # This label should be written in all capital letters if your locale supports them.
@@ -358,6 +356,11 @@ browser-tab-audio-muted2 = VAIMENNETTU
 browser-tab-audio-blocked = ÄÄNENTOISTO ESTETTY
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = KUVA KUVASSA
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
 
 ## Bookmarks toolbar items
 
@@ -377,9 +380,13 @@ popup-select-microphone =
 popup-select-camera-device =
     .value = Kamera:
     .accesskey = K
+popup-select-camera-icon =
+    .tooltiptext = Kamera
 popup-select-microphone-device =
     .value = Mikrofoni:
     .accesskey = M
+popup-select-microphone-icon =
+    .tooltiptext = Mikrofoni
 popup-all-windows-shared = Kaikki näkyvissä olevat ikkunat jaetaan.
 popup-screen-sharing-not-now =
     .label = Ei nyt
@@ -546,8 +553,6 @@ crashed-subframe-submit =
 
 bookmarks-show-all-bookmarks =
     .label = Näytä kaikki kirjanmerkit
-bookmarks-recent-bookmarks =
-    .value = Viimeksi lisätyt
 bookmarks-manage-bookmarks =
     .label = Järjestele kirjanmerkkejä
 bookmarks-recent-bookmarks-panel =
@@ -568,12 +573,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] Piilota kirjanmerkkien sivupaneeli
            *[other] Näytä kirjanmerkkien sivupaneeli
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] Piilota kirjanmerkkipalkki
-           *[other] Näytä kirjanmerkkipalkki
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -620,10 +619,6 @@ bookmarks-current-tab =
 
 library-bookmarks-menu =
     .label = Kirjanmerkit
-library-bookmarks-bookmark-this-page =
-    .label = Lisää sivu kirjanmerkkeihin
-library-bookmarks-bookmark-edit =
-    .label = Muokkaa kirjanmerkkiä
 library-recent-activity-title =
     .value = Viimeisin toiminta
 
@@ -640,3 +635,14 @@ eme-notifications-drm-content-playing-manage = Hallitse asetuksia
 eme-notifications-drm-content-playing-manage-accesskey = H
 eme-notifications-drm-content-playing-dismiss = Hylkää
 eme-notifications-drm-content-playing-dismiss-accesskey = Y
+
+## Password save/update panel
+
+panel-save-update-username = Käyttäjätunnus
+panel-save-update-password = Salasana
+
+## Add-on removal warning
+
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = Poistetaanko { $name }?

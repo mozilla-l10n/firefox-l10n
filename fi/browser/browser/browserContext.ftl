@@ -187,6 +187,19 @@ main-context-menu-media-play-speed-faster =
 main-context-menu-media-play-speed-fastest =
     .label = Älytön (2×)
     .accesskey = Ä
+main-context-menu-media-play-speed-2 =
+    .label = Nopeus
+    .accesskey = N
+main-context-menu-media-play-speed-slow-2 =
+    .label = 0.5×
+main-context-menu-media-play-speed-normal-2 =
+    .label = 1.0×
+main-context-menu-media-play-speed-fast-2 =
+    .label = 1.25×
+main-context-menu-media-play-speed-faster-2 =
+    .label = 1.5×
+main-context-menu-media-play-speed-fastest-2 =
+    .label = 2×
 main-context-menu-media-loop =
     .label = Jatkuva toisto
     .accesskey = J
@@ -213,6 +226,11 @@ main-context-menu-media-video-leave-fullscreen =
 # content area when the Picture-in-Picture feature is enabled.
 main-context-menu-media-pip =
     .label = Kuva kuvassa
+    .accesskey = K
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-watch-pip =
+    .label = Katso Kuva kuvassa -tilassa
     .accesskey = K
 main-context-menu-image-reload =
     .label = Lataa kuva
