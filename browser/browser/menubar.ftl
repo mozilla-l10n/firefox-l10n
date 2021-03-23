@@ -252,9 +252,9 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Sign In To { -brand-product-name }…
     .accesskey = g
-menu-tools-extensions =
-    .label = Extensions and Themes
-    .accesskey = E
+menu-tools-addons-and-themes =
+    .label = Add-ons and Themes
+    .accesskey = A
 menu-tools-fxa-sign-in2 =
     .label = Sign In
     .accesskey = g
@@ -270,12 +270,25 @@ menu-tools-fxa-re-auth =
 menu-tools-web-developer =
     .label = Web Developer
     .accesskey = W
+menu-tools-browser-tools =
+    .label = Browser Tools
+    .accesskey = B
+menu-tools-task-manager =
+    .label = Task Manager
+    .accesskey = M
 menu-tools-page-source =
     .label = Page Source
     .accesskey = o
 menu-tools-page-info =
     .label = Page Info
     .accesskey = I
+menu-settings =
+    .label = Settings
+    .accesskey =
+        { PLATFORM() ->
+            [windows] S
+           *[other] n
+        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -285,13 +298,6 @@ menu-preferences =
     .accesskey =
         { PLATFORM() ->
             [windows] O
-           *[other] n
-        }
-menu-settings =
-    .label = Settings
-    .accesskey =
-        { PLATFORM() ->
-            [windows] S
            *[other] n
         }
 menu-tools-layout-debugger =
@@ -306,15 +312,6 @@ menu-window-bring-all-to-front =
     .label = Bring All to Front
 
 ## Help Menu
-
-
-# NOTE: For Engineers, any additions or changes to Help menu strings should
-# also be reflected in the related strings in appmenu.ftl. Those strings, by
-# convention, will have the same ID as these, but prefixed with "app".
-# Example: appmenu-help-product
-#
-# These strings are duplicated to allow for different casing depending on
-# where the strings appear.
 
 
 # NOTE: For Engineers, any additions or changes to Help menu strings should
@@ -346,11 +343,11 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = Troubleshooting Information
     .accesskey = T
+menu-help-taskmanager =
+    .label = Task Manager
 menu-help-more-troubleshooting-info =
     .label = More Troubleshooting Information
     .accesskey = T
-menu-help-taskmanager =
-    .label = Task Manager
 menu-help-report-site-issue =
     .label = Report Site Issue…
 menu-help-feedback-page =
@@ -362,8 +359,8 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Restart With Add-ons Enabled
     .accesskey = R
-menu-help-enter-troubleshoot-mode =
-    .label = Troubleshoot Mode
+menu-help-enter-troubleshoot-mode2 =
+    .label = Troubleshoot Mode…
     .accesskey = M
 menu-help-exit-troubleshoot-mode =
     .label = Turn Troubleshoot Mode Off
@@ -376,6 +373,3 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = This Isn’t a Deceptive Site…
     .accesskey = D
-menu-help-check-for-update =
-    .label = Check for Updates…
-    .accesskey = C
