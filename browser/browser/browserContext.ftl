@@ -111,9 +111,6 @@ main-context-menu-open-link-new-tab =
 main-context-menu-open-link-container-tab =
     .label = Obre l'enllaç en una pestanya de contenidor nova
     .accesskey = b
-main-context-menu-open-link-container =
-    .label = Obre l'enllaç en un contenidor nou
-    .accesskey = r
 main-context-menu-open-link-new-window =
     .label = Obre l'enllaç en una finestra nova
     .accesskey = f
@@ -193,6 +190,19 @@ main-context-menu-media-play-speed-faster =
 main-context-menu-media-play-speed-fastest =
     .label = Màxima velocitat (×2)
     .accesskey = M
+main-context-menu-media-play-speed-2 =
+    .label = Velocitat
+    .accesskey = V
+main-context-menu-media-play-speed-slow-2 =
+    .label = 0,5×
+main-context-menu-media-play-speed-normal-2 =
+    .label = 1,0×
+main-context-menu-media-play-speed-fast-2 =
+    .label = 1,25×
+main-context-menu-media-play-speed-faster-2 =
+    .label = 1,5×
+main-context-menu-media-play-speed-fastest-2 =
+    .label = 2×
 main-context-menu-media-loop =
     .label = Repetició
     .accesskey = R
@@ -219,6 +229,11 @@ main-context-menu-media-video-leave-fullscreen =
 # content area when the Picture-in-Picture feature is enabled.
 main-context-menu-media-pip =
     .label = Imatge sobre imatge
+    .accesskey = I
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-watch-pip =
+    .label = Mostra en mode d'Imatge sobre Imatge
     .accesskey = I
 main-context-menu-image-reload =
     .label = Recarrega la imatge
@@ -301,6 +316,14 @@ main-context-menu-view-background-image =
 main-context-menu-generate-new-password =
     .label = Utilitza una contrasenya generada…
     .accesskey = g
+
+## The access keys for "Use Saved Login" and "Use Saved Password"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+
+##
+
 main-context-menu-manage-logins =
     .label = Gestiona els inicis de sessió…
     .accesskey = G
