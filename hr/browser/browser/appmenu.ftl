@@ -7,6 +7,12 @@
 
 appmenuitem-update-banner =
     .label-update-downloading = Preuzimanje nadogradnje za { -brand-shorter-name }
+appmenuitem-update-banner2 =
+    .label-update-downloading = Preuzimanje dopune za { -brand-shorter-name }
+    .label-update-available = Dostupna je dopuna — preuzmi sada
+    .label-update-manual = Dostupna je dopuna — preuzmi sada
+    .label-update-unsupported = Nije moguće ažurirati
+    .label-update-restart = Dostupna je dopuna — ponovno pokreni sada
 appmenuitem-protection-dashboard-title = Nadzorna ploča zaštite
 appmenuitem-customize-mode =
     .label = Prilagodi …
@@ -21,6 +27,8 @@ appmenuitem-passwords =
     .label = Lozinke
 appmenuitem-extensions-and-themes =
     .label = Proširenja i teme
+appmenuitem-addons-and-themes =
+    .label = Dodaci i teme
 appmenuitem-find-in-page =
     .label = Pronađi na stranici …
 appmenuitem-more-tools =
