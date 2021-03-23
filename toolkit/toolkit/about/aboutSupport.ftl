@@ -144,7 +144,7 @@ restart-button-label = 다시 시작
 
 audio-backend = 오디오 백엔드
 max-audio-channels = 최대 채널
-sample-rate = 기본 샘플 비율
+sample-rate = 기본 샘플 레이트
 roundtrip-latency = 왕복 지연 시간 (표준 편차)
 media-title = 미디어
 media-output-devices-title = 출력 기기
@@ -156,7 +156,7 @@ media-device-state = 상태
 media-device-preferred = 기본
 media-device-format = 형식
 media-device-channels = 채널
-media-device-rate = 비율
+media-device-rate = 레이트
 media-device-latency = 지연 시간
 media-capabilities-title = 미디어 기능
 # List all the entries of the database.
