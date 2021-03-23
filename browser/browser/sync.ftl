@@ -13,6 +13,7 @@ fxa-disconnect-dialog-title = Odspojiti { -brand-product-name }?
 fxa-disconnect-dialog-body = { -brand-product-name } će se odspojiti od tvog račun, ali neće izbrisati podatke o tvom pregledavanju na ovom uređaju.
 sync-disconnect-dialog-button = Odspoji
 fxa-signout-dialog-heading = Odjaviti se iz usluge { -fxaccount-brand-name }?
+fxa-signout-dialog2-title = Odjaviti se iz servisa { -fxaccount-brand-name }?
 fxa-signout-dialog-body = Sinkronizirani podatci ostat će pohranjeni u tvom računu.
 fxa-signout-checkbox =
     .label = Izbriši podatke s ovog uređaja (prijave, lozinke, povijest, zabilješke, itd.)
