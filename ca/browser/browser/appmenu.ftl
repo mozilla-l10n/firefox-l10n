@@ -7,6 +7,12 @@
 
 appmenuitem-update-banner =
     .label-update-downloading = S'està baixant l'actualització del { -brand-shorter-name }
+appmenuitem-update-banner2 =
+    .label-update-downloading = S'està baixant l'actualització del { -brand-shorter-name }
+    .label-update-available = Actualització disponible — baixa-la ara
+    .label-update-manual = Actualització disponible — baixa-la ara
+    .label-update-unsupported = No s'ha pogut actualitzar
+    .label-update-restart = Actualització disponible — reinicia ara
 appmenuitem-protection-dashboard-title = Tauler de proteccions
 appmenuitem-customize-mode =
     .label = Personalitza…
@@ -21,6 +27,8 @@ appmenuitem-passwords =
     .label = Contrasenyes
 appmenuitem-extensions-and-themes =
     .label = Extensions i temes
+appmenuitem-addons-and-themes =
+    .label = Complements i temes
 appmenuitem-find-in-page =
     .label = Cerca a la pàgina…
 appmenuitem-more-tools =
@@ -51,6 +59,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sincronitza ara
+appmenuitem-fxa-toolbar-sync-now2 = Sincronitza ara
 appmenuitem-fxa-manage-account = Gestiona el compte
 appmenu-fxa-header =
     .title = { -fxaccount-brand-name }
@@ -160,6 +169,9 @@ appmenu-help-safe-mode-with-addons =
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-enter-troubleshoot-mode2 =
+    .label = Mode de resolució de problemes…
+    .accesskey = M
 appmenu-help-exit-troubleshoot-mode =
     .label = Desactiva el mode de resolució de problemes
     .accesskey = m
