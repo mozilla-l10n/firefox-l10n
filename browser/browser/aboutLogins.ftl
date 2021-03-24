@@ -268,10 +268,6 @@ about-logins-import-dialog-items-modified =
     { $count ->
        *[other] <span>Обновени регистрации:</span> <span data-l10n-name="count">{ $count }</span>
     }
-about-logins-import-dialog-items-no-change =
-    { $count ->
-       *[other] <span>Намерени дублиращи се регистрации:</span> <span data-l10n-name="count">{ $count }</span>
-    }
 about-logins-import-dialog-items-error =
     { $count ->
         [one] <span>Грешки:</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(не внесена)</span>
