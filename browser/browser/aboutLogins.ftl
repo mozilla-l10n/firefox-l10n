@@ -76,7 +76,7 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Тражите сачуване лозинке? Подесите { -sync-brand-short-name(case: "acc") }.
-about-logins-login-intro-heading-logged-out = Тражите сачуване пријаве? Подесите { -sync-brand-short-name } или их увезите.
+about-logins-login-intro-heading-logged-out = Тражите сачуване лозинке? Увезите их или подесите { -sync-brand-short-name(case: "acc") }.
 about-logins-login-intro-heading-logged-in = Нису пронађене синхронизоване пријаве.
 login-intro-description = Уколико сте пријаве сачували у програму { -brand-product-name } на неком другом уређају, следите ове кораке:
 login-intro-instruction-fxa = Региструјте се или се пријавите на { -fxaccount-brand-name(case: "acc") } на уређају на ком сте сачували лозинке
