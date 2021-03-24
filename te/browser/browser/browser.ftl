@@ -277,6 +277,8 @@ identity-passive-loaded = ఈ పేజీలోని కొన్ని భా
 identity-active-loaded = ఈ పేజీకి రక్షణను మీరు అచేతనం చేసారు.
 identity-weak-encryption = ఈ పేజీ బలహీనమైన ఎన్‌క్రిప్షన్ వాడుతోంది.
 identity-insecure-login-forms = ఈ పేజీలో మీరు ఇచ్చే లాగిన్లు రాజీపడవచ్చు.
+identity-permissions =
+    .value = అనుమతులు
 identity-https-only-label = HTTPS-మాత్రమే రీతి
 identity-https-only-dropdown-on =
     .label = చేతనం
@@ -284,8 +286,6 @@ identity-https-only-dropdown-off =
     .label = అచేతనం
 identity-https-only-dropdown-off-temporarily =
     .label = తాత్కాలికంగా అచేతనం
-identity-permissions =
-    .value = అనుమతులు
 identity-permissions-storage-access-header = క్రాస్-సైటు కుకీలు
 identity-permissions-reload-hint = మార్పులు ప్రతిఫలించడానికి మీరు ఈ పేజీని మళ్ళీ లోడు చెయ్యాల్సిరావచ్చు.
 identity-permissions-empty = ఈ సైటుకి మీరు ఎటువంటి ప్రత్యేక అనుమతులు ఇవ్వలేదు.
@@ -331,6 +331,11 @@ browser-window-close-button =
 ## Tab actions
 
 
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+
 ## Bookmarks toolbar items
 
 
@@ -349,6 +354,9 @@ popup-screen-sharing-not-now =
 popup-screen-sharing-never =
     .label = ఎప్పటికీ అనుమతించవద్దు
     .accesskey = N
+popup-screen-sharing-block =
+    .label = నిరోధించు
+    .accesskey = B
 
 ## WebRTC window or screen share tab switch warning
 
@@ -460,8 +468,6 @@ crashed-subframe-learnmore =
 
 bookmarks-show-all-bookmarks =
     .label = ఇష్టాంశాలన్నింటినీ చూపించు
-bookmarks-recent-bookmarks =
-    .value = ఇటీవల ఇష్టాంశాలుగా చేసినవి
 bookmarks-toolbar-chevron =
     .tooltiptext = మరిన్ని ఇష్టాంశాలను చూపించు
 bookmarks-sidebar-content =
@@ -477,12 +483,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] ఇష్టాంశాల ప్రక్కపట్టీని దాచు
            *[other] ఇష్టాంశాల ప్రక్కపట్టీని చూడండి
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] ఇష్టాంశాల పనిముట్లపట్టీని దాచు
-           *[other] ఇష్టాంశాల పట్టీని చూడండి
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -520,10 +520,6 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-menu =
     .label = ఇష్టాంశాలు
-library-bookmarks-bookmark-this-page =
-    .label = ఈ పేజీని ఇష్టాంశంగా చేయి
-library-bookmarks-bookmark-edit =
-    .label = ఈ ఇష్టాంశాన్ని సరిదిద్దు
 library-recent-activity-title =
     .value = ఇటీవలి కార్యకలాపం
 
@@ -536,3 +532,17 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = ఈ సైటు లోని ఆడియో లేదా వీడియో DRM సాఫ్ట్‌వేరును వాడుతోంది, అది { -brand-short-name } మిమ్మల్ని ఏమేం చేయనివ్వగలదో పరిమితం చేయవచ్చు.
+eme-notifications-drm-content-playing-manage-accesskey = M
+eme-notifications-drm-content-playing-dismiss = విస్మరించు
+eme-notifications-drm-content-playing-dismiss-accesskey = D
+
+## Password save/update panel
+
+panel-save-update-username = వాడుకరి పేరు
+panel-save-update-password = సంకేతపదం
+
+## Add-on removal warning
+
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = { $name }‌ను తీసివేయారా?

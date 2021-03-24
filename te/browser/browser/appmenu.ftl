@@ -64,6 +64,10 @@ profiler-popup-reveal-description-button =
 profiler-popup-learn-more = ఇంకా తెలుసుకోండి
 profiler-popup-settings =
     .value = అమరికలు
+# The profiler presets list is generated elsewhere, but the custom preset is defined
+# here only.
+profiler-popup-presets-custom =
+    .label = అభిమతం
 profiler-popup-discard-button =
     .label = విస్మరించు
 

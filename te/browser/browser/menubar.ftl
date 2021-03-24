@@ -252,12 +252,22 @@ menu-tools-fxa-re-auth =
 menu-tools-web-developer =
     .label = వెబ్ అభివృద్దికారి
     .accesskey = W
+menu-tools-browser-tools =
+    .label = విహారిణి పనిముట్లు
+    .accesskey = B
 menu-tools-page-source =
     .label = పేజీ మూలం
     .accesskey = o
 menu-tools-page-info =
     .label = పేజీ సమాచారం
     .accesskey = I
+menu-settings =
+    .label = అమరికలు
+    .accesskey =
+        { PLATFORM() ->
+            [windows] S
+           *[other] n
+        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -281,15 +291,6 @@ menu-window-bring-all-to-front =
     .label = అన్నీ ముందుకు తీసుకునిరా
 
 ## Help Menu
-
-
-# NOTE: For Engineers, any additions or changes to Help menu strings should
-# also be reflected in the related strings in appmenu.ftl. Those strings, by
-# convention, will have the same ID as these, but prefixed with "app".
-# Example: appmenu-help-product
-#
-# These strings are duplicated to allow for different casing depending on
-# where the strings appear.
 
 
 # NOTE: For Engineers, any additions or changes to Help menu strings should
@@ -340,6 +341,3 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = ఇది ఒక మోసపూరిత సైట్ కాదు...
     .accesskey = d
-menu-help-check-for-update =
-    .label = తాజాకరణలకై చూడు…
-    .accesskey = C

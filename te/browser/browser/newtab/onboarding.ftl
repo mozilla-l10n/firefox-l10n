@@ -42,7 +42,6 @@ onboarding-join-form-signin-label = ఇప్పటికే ఖాతా ఉం
 # Text for link to submit the sign in form
 onboarding-join-form-signin = ప్రవేశించండి
 onboarding-start-browsing-button-label = విహరించడం మొదలుపెట్టండి
-onboarding-not-now-button-label = ఇప్పుడు కాదు
 onboarding-cards-dismiss =
     .title = విస్మరించు
     .aria-label = విస్మరించు
@@ -73,48 +72,6 @@ onboarding-sync-form-sub-header = { -sync-brand-name }కి కొనసాగ�
 onboarding-benefit-sync-title = { -sync-brand-short-name }
 onboarding-benefit-monitor-title = { -monitor-brand-short-name }
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
-
-## Custom Return To AMO onboarding strings
-
-
-## Multistage 3-screen onboarding flow strings (about:welcome pages)
-
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
-# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
-onboarding-multistage-welcome-header = <span data-l10n-name="zap">{ -brand-short-name }</span>కి స్వాగతం
-onboarding-multistage-welcome-primary-button-label = అమర్పు మొదలుపెట్టు
-onboarding-multistage-welcome-secondary-button-label = ప్రవేశించు
-onboarding-multistage-welcome-secondary-button-text = ఖాతా ఉందా?
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
-# automatically added to the text inside it. "more" should stay inside the span.
-onboarding-multistage-import-header = మీ సంకేతపదాలను, ఇష్టాంశాలను <br/>, ఇంకా <span data-l10n-name="zap">మరెన్నిటినో</span> దిగుమతి చేసుకోండి
-onboarding-multistage-import-subtitle = మరో విహారిణి నుండి వస్తున్నారా? కావలసిన వాటన్నింటినీ { -brand-short-name }‌కి తెచ్చుకోవడం చాలా తేలిక.
-onboarding-multistage-import-primary-button-label = దిగుమతిని మొదలుపెట్టు
-onboarding-multistage-import-secondary-button-label = ఇప్పుడు కాదు
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-onboarding-welcome-steps-indicator =
-    .aria-label = మొదలుపెట్టండి: { $total } తెరలలో { $current }
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
-# automatically added to the text inside it. "look" should stay inside the span.
-onboarding-multistage-theme-header = ఒక <span data-l10n-name="zap">రూపం</span> ఎంచుకోండి
-onboarding-multistage-theme-subtitle = ఒక అలంకారంతో { -brand-short-name }‌ని వ్యక్తిగతీకరించుకోండి.
-onboarding-multistage-theme-primary-button-label = అలంకారాన్ని భద్రపరుచు
-onboarding-multistage-theme-secondary-button-label = ఇప్పుడు కాదు
-# Automatic theme uses operating system color settings
-onboarding-multistage-theme-label-automatic = స్వయంచాలకం
-onboarding-multistage-theme-label-light = తెల్లని
-onboarding-multistage-theme-label-dark = నల్లని
-# "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
-onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
-
-## Please make sure to split the content of the title attribute into lines whose
-## width corresponds to about 40 Latin characters, to ensure that the tooltip
-## doesn't become too long. Line breaks will be preserved when displaying the
-## tooltip.
-
 
 ## These strings belong to the individual onboarding messages.
 
@@ -151,3 +108,47 @@ onboarding-personal-data-promise-button = మా వాగ్దానాన్�
 return-to-amo-sub-header = అద్భుతం, మీరు { -brand-short-name }‌ను తెచ్చుకున్నారు
 return-to-amo-extension-button = పొడగింతను చేర్చు
 return-to-amo-get-started-button = { -brand-short-name }తో మెదలుపెట్టండి
+onboarding-not-now-button-label = ఇప్పుడు కాదు
+
+## Custom Return To AMO onboarding strings
+
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-welcome-header = <span data-l10n-name="zap">{ -brand-short-name }</span>కి స్వాగతం
+onboarding-multistage-welcome-primary-button-label = అమర్పు మొదలుపెట్టు
+onboarding-multistage-welcome-secondary-button-label = ప్రవేశించు
+onboarding-multistage-welcome-secondary-button-text = ఖాతా ఉందా?
+onboarding-multistage-set-default-secondary-button-label = ఇప్పుడు కాదు
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "more" should stay inside the span.
+onboarding-multistage-import-header = మీ సంకేతపదాలను, ఇష్టాంశాలను <br/>, ఇంకా <span data-l10n-name="zap">మరెన్నిటినో</span> దిగుమతి చేసుకోండి
+onboarding-multistage-import-subtitle = మరో విహారిణి నుండి వస్తున్నారా? కావలసిన వాటన్నింటినీ { -brand-short-name }‌కి తెచ్చుకోవడం చాలా తేలిక.
+onboarding-multistage-import-primary-button-label = దిగుమతిని మొదలుపెట్టు
+onboarding-multistage-import-secondary-button-label = ఇప్పుడు కాదు
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+onboarding-welcome-steps-indicator =
+    .aria-label = మొదలుపెట్టండి: { $total } తెరలలో { $current }
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "look" should stay inside the span.
+onboarding-multistage-theme-header = ఒక <span data-l10n-name="zap">రూపం</span> ఎంచుకోండి
+onboarding-multistage-theme-subtitle = ఒక అలంకారంతో { -brand-short-name }‌ని వ్యక్తిగతీకరించుకోండి.
+onboarding-multistage-theme-primary-button-label = అలంకారాన్ని భద్రపరుచు
+onboarding-multistage-theme-secondary-button-label = ఇప్పుడు కాదు
+# Automatic theme uses operating system color settings
+onboarding-multistage-theme-label-automatic = స్వయంచాలకం
+onboarding-multistage-theme-label-light = తెల్లని
+onboarding-multistage-theme-label-dark = నల్లని
+# "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
+onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+

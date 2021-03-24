@@ -131,6 +131,11 @@ main-context-menu-save-link-to-pocket =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+
+## The access keys for "Copy Link" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
 main-context-menu-copy-email =
     .label = ఈమెయిలు చిరునామాను కాపీచేయి
     .accesskey = E
@@ -179,6 +184,19 @@ main-context-menu-media-play-speed-faster =
 main-context-menu-media-play-speed-fastest =
     .label = హాస్యాస్పదం (2×)
     .accesskey = L
+main-context-menu-media-play-speed-2 =
+    .label = వేగం
+    .accesskey = d
+main-context-menu-media-play-speed-slow-2 =
+    .label = 0.5×
+main-context-menu-media-play-speed-normal-2 =
+    .label = 1.0×
+main-context-menu-media-play-speed-fast-2 =
+    .label = 1.25×
+main-context-menu-media-play-speed-faster-2 =
+    .label = 1.5×
+main-context-menu-media-play-speed-fastest-2 =
+    .label = 2×
 main-context-menu-media-loop =
     .label = లూప్
     .accesskey = L
@@ -275,6 +293,14 @@ main-context-menu-view-background-image =
 main-context-menu-generate-new-password =
     .label = సృష్టించిన సంకేతపదాన్ని వాడు…
     .accesskey = G
+
+## The access keys for "Use Saved Login" and "Use Saved Password"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+
+##
+
 main-context-menu-keyword =
     .label = ఈ శోధనకు కీలక పదాన్ని చేర్చండి…
     .accesskey = K
