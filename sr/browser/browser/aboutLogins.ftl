@@ -51,12 +51,18 @@ login-list-count =
     }
 login-list-sort-label-text = Поређај по:
 login-list-name-option = Називу (A–Z)
-login-list-name-reverse-option = Назив (А-Ш)
+login-list-name-reverse-option = Називу (Z–A)
 about-logins-login-list-alerts-option = Упозорења
-login-list-last-changed-option = Последња измена
-login-list-last-used-option = Последњи пут коришћено
-login-list-intro-title = Нема пронађених пријава
-login-list-intro-description = Када сачувате лозинку унутар програма { -brand-product-name }, појавиће се и овде.
+login-list-last-changed-option = Последњој измени
+login-list-last-used-option = Последњем коришћењу
+login-list-intro-title = Лозинке нису пронађене
+login-list-intro-description =
+    Овде ће се појавити лозинке које сачувате у { -brand-product-name.gender ->
+        [masculine] { -brand-product-name(case: "loc") }
+        [feminine] { -brand-product-name(case: "loc") }
+        [neuter] { -brand-product-name(case: "loc") }
+       *[other] програму { -brand-product-name }
+    }.
 about-logins-login-list-empty-search-title = Нису пронађене пријаве
 about-logins-login-list-empty-search-description = Нема резултата који одговарају критеријумима претраге.
 login-list-item-title-new-login = Нова пријава
