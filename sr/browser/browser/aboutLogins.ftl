@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
-about-logins-page-title = Пријаве и лозинке
+about-logins-page-title = Лозинке
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
@@ -14,9 +14,9 @@ login-app-promo-android =
 login-app-promo-apple =
     .alt = Преузмите на App Store-у
 login-filter =
-    .placeholder = Претражите пријаве
-create-login-button = Направите нову пријаву
-fxaccounts-sign-in-text = Пронађите своје лозинке на свим својим уређајима
+    .placeholder = Претражите лозинке
+create-login-button = Направите нову лозинку
+fxaccounts-sign-in-text = Приступите лозинкама на другим уређајима
 fxaccounts-sign-in-button = Пријавите се у { -sync-brand-short-name }
 fxaccounts-avatar-button =
     .title = Управљај налогом
