@@ -285,6 +285,8 @@ identity-passive-loaded = Alcuni elementi di questa pagina non sono sicuri (ad e
 identity-active-loaded = La protezione è disattivata per questa pagina.
 identity-weak-encryption = Questa pagina utilizza una crittografia debole.
 identity-insecure-login-forms = Gli accessi effettuati in questa pagina potrebbero essere vulnerabili.
+identity-permissions =
+    .value = Permessi
 identity-https-only-connection-upgraded = (aggiornato a HTTPS)
 identity-https-only-label = Modalità solo HTTPS
 identity-https-only-dropdown-on =
@@ -296,8 +298,6 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Attivare la modalità solo HTTPS per fare in modo che { -brand-short-name } aggiorni la connessione quando possibile.
 identity-https-only-info-turn-off2 = Se la pagina non funziona correttamente, provare a disattivare per questo sito la modalità solo HTTPS per ricaricare utilizzando una connessione non sicura HTTP.
 identity-https-only-info-no-upgrade = Impossibile aggiornare la connessione da HTTP.
-identity-permissions =
-    .value = Permessi
 identity-permissions-storage-access-header = Cookie intersito
 identity-permissions-storage-access-hint = Questi soggetti possono utilizzare cookie intersito e dati dei siti web quando ti trovi in questo sito.
 identity-permissions-reload-hint = Potrebbe essere necessario ricaricare la pagina per rendere effettive le modifiche.
@@ -363,13 +363,11 @@ browser-tab-mute =
         [1] DISATTIVA AUDIO
        *[other] DISATTIVA AUDIO ({ $count } SCHEDE)
     }
-
 browser-tab-unmute =
     { $count ->
         [1] ATTIVA AUDIO
        *[other] ATTIVA AUDIO ({ $count } SCHEDE)
     }
-
 browser-tab-unblock =
     { $count ->
         [1] AVVIA RIPRODUZIONE
@@ -408,16 +406,15 @@ popup-screen-sharing-not-now =
 popup-screen-sharing-never =
     .label = Mai
     .accesskey = M
+popup-silence-notifications-checkbox = Disattiva notifiche di { -brand-short-name } durante la condivisione
+popup-silence-notifications-checkbox-warning = { -brand-short-name } non visualizzerà notifiche durante la condivisione.
 popup-screen-sharing-block =
     .label = Blocca
     .accesskey = B
 popup-screen-sharing-always-block =
     .label = Blocca sempre
     .accesskey = s
-
 popup-mute-notifications-checkbox = Disattiva notifiche dai siti web durante la condivisione
-popup-silence-notifications-checkbox = Disattiva notifiche di { -brand-short-name } durante la condivisione
-popup-silence-notifications-checkbox-warning = { -brand-short-name } non visualizzerà notifiche durante la condivisione.
 
 ## WebRTC window or screen share tab switch warning
 
@@ -634,6 +631,12 @@ library-bookmarks-menu =
     .label = Segnalibri
 library-recent-activity-title =
     .value = Attività recente
+
+## Pocket toolbar button
+
+save-to-pocket-button =
+    .label = Salva in { -pocket-brand-name }
+    .tooltiptext = Salva in { -pocket-brand-name }
 
 ## More items
 
