@@ -2,14 +2,21 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY loadError.label "Хатои боркунии саҳифа">
+<!ENTITY retry.label "Аз нав кӯшиш кардан">
 
 <!-- Specific error messages -->
 
 
 
+<!ENTITY dnsNotFound.title "Нишонӣ ёфт нашуд">
 
+<!ENTITY fileNotFound.title "Файл ёфт нашуд">
 
+<!ENTITY fileAccessDenied.title "Дастрасӣ ба файл манъ карда шуд">
 
+<!ENTITY generic.title "Дархостро ба анҷом расонида наметавонад">
+<!ENTITY generic.longDesc "<p>Маълумоти иловагӣ дар бораи ин мушкилӣ ё хато ҳоло дастнорас аст.</p>">
 
 
 
