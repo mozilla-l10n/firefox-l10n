@@ -9,6 +9,18 @@ about-private-browsing-info-title = Ti trovi in una finestra anonima
 about-private-browsing-info-myths = Miti da sfatare sulla navigazione anonima
 about-private-browsing =
     .title = Cerca sul Web
+
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff =
+    .title = Cerca con { $engine } o inserisci un indirizzo
+about-private-browsing-handoff-no-engine =
+    .title = Cerca o inserisci un indirizzo
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff-text = Cerca con { $engine } o inserisci un indirizzo
+about-private-browsing-handoff-text-no-engine = Cerca o inserisci un indirizzo
+
 about-private-browsing-not-private = Questa non è una finestra anonima.
 about-private-browsing-info-description = { -brand-short-name } cancella la cronologia di ricerca e navigazione quando si chiude l’applicazione o vengono chiuse tutte le finestre e schede in Navigazione anonima. Nonostante questa modalità non ti renda completamente anonimo nei confronti dei siti web o del tuo fornitore di servizi internet, si tratta comunque di uno strumento utile per impedire ad altri utilizzatori di questo computer di ottenere informazioni sulla tua attività online.
 

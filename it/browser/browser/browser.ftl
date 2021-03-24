@@ -435,9 +435,9 @@ enable-devtools-popup-description = Per utilizzare la scorciatoia da tastiera F1
 ## URL Bar
 
 urlbar-default-placeholder =
-    .defaultPlaceholder = Inserisci un indirizzo o avvia una ricerca
+    .defaultPlaceholder = Cerca o inserisci un indirizzo
 urlbar-placeholder =
-    .placeholder = Inserisci un indirizzo o avvia una ricerca
+    .placeholder = Cerca o inserisci un indirizzo
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
