@@ -14,7 +14,7 @@ policy-3rdparty = Establece políticas a las que WebExtensions pueden acceder a 
 policy-AppAutoUpdate = Activar o desactivar actualizaciones automáticas de la aplicación.
 policy-AppUpdateURL = Establecer la URL de actualización de aplicación personalizada.
 policy-Authentication = Configurar la autenticación integrada para sitios web que la admitan.
-policy-BackgroundAppUpdate = Activa o desactiva el actualizador en segundo plano, que actualiza el navegador cuando no se está ejecutando.
+policy-BackgroundAppUpdate2 = Activar o desactivar la actualización en segundo plano.
 policy-BlockAboutAddons = Bloquear acceso al Administrador de complementos (about:addons).
 policy-BlockAboutConfig = Bloquear acceso a la página about:config.
 policy-BlockAboutProfiles = Bloquear acceso a la página about:profiles.
@@ -107,6 +107,7 @@ policy-SearchEngines = Configurar ajustes de motores de búsqueda. Esta polític
 policy-SearchSuggestEnabled = Activar o desactivar sugerencias de búsqueda.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Instala módulos PKCS #11.
+policy-ShowHomeButton = Mostrar el botón de inicio en la barra de herramientas.
 policy-SSLVersionMax = Establecer la versión máxima de SSL.
 policy-SSLVersionMin = Establecer la versión mínima de SSL.
 policy-SupportMenu = Añadir un menú de ayuda personalizado al menú de ayuda.
