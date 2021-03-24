@@ -38,7 +38,6 @@ printui-scale-fit-to-page-width = გვერდის სიგანეზე
 printui-scale-pcent = მასშტაბი
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = ორმხრივი ბეჭდვა
-printui-duplex-checkbox = ამობეჭდვა ორივე მხარეს
 printui-two-sided-printing-off = გამორთ.
 # Flip the sheet as if it were bound along its long edge.
 printui-two-sided-printing-long-edge = გადაბრუნება გრძელ კიდეზე
@@ -57,14 +56,19 @@ printui-margins-default = ნაგულისხმევი
 printui-margins-min = უმცირესი
 printui-margins-none = არცერთი
 printui-margins-custom-inches = მორგებული (დუიმი)
+printui-margins-custom-mm = მორგებული (მმ)
 printui-margins-custom-top = ზედა
 printui-margins-custom-top-inches = ზედა (დუიმი)
+printui-margins-custom-top-mm = ზედა (მმ)
 printui-margins-custom-bottom = ქვედა
 printui-margins-custom-bottom-inches = ქვედა (დუიმი)
+printui-margins-custom-bottom-mm = ქვედა (მმ)
 printui-margins-custom-left = მარცხენა
 printui-margins-custom-left-inches = მარცხენა (დუიმი)
+printui-margins-custom-left-mm = მარცხენა (მმ)
 printui-margins-custom-right = მარჯვენა
 printui-margins-custom-right-inches = მარჯვენა (დუიმი)
+printui-margins-custom-right-mm = მარჯვენა (მმ)
 printui-system-dialog-link = ამობეჭდვა სისტემის ფანჯრიდან…
 printui-primary-button = ამობეჭდვა
 printui-primary-button-save = შენახვა
