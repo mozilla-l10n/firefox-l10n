@@ -336,15 +336,11 @@ about-logins-import-file-picker-tsv-filter-title =
 about-logins-import-dialog-title = Увоз је завршен
 about-logins-import-dialog-items-added =
     { $count ->
-        [one] <span>Додана је нова пријава:</span> <span data-l10n-name="count">{ $count }</span>
-        [few] <span>Додане су нове пријаве:</span> <span data-l10n-name="count">{ $count }</span>
-       *[other] <span>Додано је нових пријава:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Додато нових лозинки:</span> <span data-l10n-name="count">{ $count }</span>
     }
 about-logins-import-dialog-items-modified =
     { $count ->
-        [one] <span>Ажурирана постојећа пријава:</span> <span data-l10n-name="count">{ $count }</span>
-        [few] <span>Ажуриране постојеће пријаве:</span> <span data-l10n-name="count">{ $count }</span>
-       *[other] <span>Ажурирано постојећих пријава:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Ажурирано лозинки:</span> <span data-l10n-name="count">{ $count }</span>
     }
 about-logins-import-dialog-items-no-change =
     { $count ->
