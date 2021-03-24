@@ -44,16 +44,34 @@ menu-quit =
         }
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
-    .label = Затвори { -brand-shorter-name }
+    .label =
+        Изађи из { -brand-shorter-name.gender ->
+            [masculine] { -brand-shorter-name(case: "gen") }
+            [feminine] { -brand-shorter-name(case: "gen") }
+            [neuter] { -brand-shorter-name(case: "gen") }
+           *[other] програма { -brand-shorter-name }
+        }
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
-    .tooltip = Изађи из { -brand-shorter-name }
+    .tooltip =
+        Изађи из { -brand-shorter-name.gender ->
+            [masculine] { -brand-shorter-name(case: "gen") }
+            [feminine] { -brand-shorter-name(case: "gen") }
+            [neuter] { -brand-shorter-name(case: "gen") }
+           *[other] програма { -brand-shorter-name }
+        }
 menu-about =
-    .label = О програму { -brand-shorter-name }
+    .label =
+        О { -brand-shorter-name.gender ->
+            [masculine] { -brand-shorter-name(case: "loc") }
+            [feminine] { -brand-shorter-name(case: "loc") }
+            [neuter] { -brand-shorter-name(case: "loc") }
+           *[other] програму { -brand-shorter-name }
+        }
     .accesskey = О
 
 ## File Menu
@@ -305,11 +323,23 @@ menu-help =
     .label = Помоћ
     .accesskey = H
 menu-help-product =
-    .label = Помоћ за { -brand-shorter-name }
-    .accesskey = H
+    .label =
+        Помоћ за { -brand-shorter-name.gender ->
+            [masculine] { -brand-shorter-name(case: "acc") }
+            [feminine] { -brand-shorter-name(case: "acc") }
+            [neuter] { -brand-shorter-name(case: "acc") }
+           *[other] програм { -brand-shorter-name }
+        }
+    .accesskey = П
 menu-help-show-tour =
-    .label = { -brand-shorter-name } водич
-    .accesskey = o
+    .label =
+        Водич кроз { -brand-shorter-name.gender ->
+            [masculine] { -brand-shorter-name(case: "acc") }
+            [feminine] { -brand-shorter-name(case: "acc") }
+            [neuter] { -brand-shorter-name(case: "acc") }
+           *[other] програм { -brand-shorter-name }
+        }
+    .accesskey = В
 menu-help-import-from-another-browser =
     .label = Увезите из другог прегледача…
     .accesskey = I
