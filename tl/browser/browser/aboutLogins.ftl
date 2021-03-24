@@ -262,6 +262,20 @@ about-logins-import-dialog-error-file-permission-title = Hindi mabasa ang File
 about-logins-import-dialog-error-learn-more = Karagdagang kaalaman
 about-logins-import-dialog-error-try-again = Subukan Muli...
 about-logins-import-dialog-error-cancel = Kanselahin
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = Hanay { $number }
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
 
 ## Logins import report page
 
