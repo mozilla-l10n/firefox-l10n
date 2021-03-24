@@ -547,9 +547,9 @@ home-prefs-snippets-description-new = Savjeti i vijesti od { -vendor-short-name 
 home-prefs-sections-rows-option =
     .label =
         { $num ->
-            [one] { $num } red
-            [few] { $num } reda
-           *[other] { $num } reda
+            [one] { $num } redak
+            [few] { $num } retka
+           *[other] { $num } redaka
         }
 
 ## Search Section

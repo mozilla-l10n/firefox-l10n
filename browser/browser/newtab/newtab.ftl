@@ -200,7 +200,7 @@ newtab-discovery-empty-section-topstories-content = Kasnije potraži daljnje pri
 newtab-discovery-empty-section-topstories-try-again-button = Pokušaj ponovo
 newtab-discovery-empty-section-topstories-loading = Učitavanje…
 # Displays when a layout in a section took too long to fetch articles.
-newtab-discovery-empty-section-topstories-timed-out = Uh! Skoro smo učitali ovaj odjeljak, ali nismo uspjeli do kraja.
+newtab-discovery-empty-section-topstories-timed-out = Uh! Nismo potpuno učitali ovaj odjeljak.
 
 ## Pocket Content Section.
 
@@ -223,9 +223,9 @@ newtab-custom-shortcuts-title = Prečaci
 newtab-custom-shortcuts-subtitle = Stranice koje spremiš ili posjetiš
 newtab-custom-row-selector =
     { $num ->
-        [one] { $num } red
-        [few] { $num } reda
-       *[other] { $num } redova
+        [one] { $num } redak
+        [few] { $num } retka
+       *[other] { $num } redaka
     }
 newtab-custom-sponsored-sites = Sponzorirani prečaci
 newtab-custom-pocket-title = Preporuke iz { -pocket-brand-name }a
