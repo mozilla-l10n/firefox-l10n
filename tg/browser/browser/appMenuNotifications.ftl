@@ -43,6 +43,10 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = Хуб, фаҳмидам
     .buttonaccesskey = Х
 appmenu-addon-post-install-message = Бо зеркунии <image data-l10n-name='addon-install-icon'></image> дар менюи <image data-l10n-name='addon-menu-icon'></image> ҷузъҳои иловагии худро идора намоед.
+appmenu-addon-private-browsing-installed2 =
+    .buttonlabel = Хуб
+    .buttonaccesskey = О
+appmenu-addon-post-install-message2 = Васеъшавиҳо ва мавзӯъҳои худро тавассути менюи барномаҳо идора намоед.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Иҷозат додани иҷрокунии васеъшавӣ дар равзанаи махфӣ
     .accesskey = A
