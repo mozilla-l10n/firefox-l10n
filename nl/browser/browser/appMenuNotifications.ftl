@@ -43,6 +43,10 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = Oké, begrepen
     .buttonaccesskey = O
 appmenu-addon-post-install-message = Beheer uw add-ons door op <image data-l10n-name='addon-install-icon'></image> in het menu <image data-l10n-name='addon-menu-icon'></image> te klikken.
+appmenu-addon-private-browsing-installed2 =
+    .buttonlabel = Oké
+    .buttonaccesskey = O
+appmenu-addon-post-install-message2 = Beheer uw extensies en thema’s via het toepassingsmenu.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Deze extensie in privévensters laten uitvoeren
     .accesskey = D

@@ -7,6 +7,12 @@
 
 appmenuitem-update-banner =
     .label-update-downloading = { -brand-shorter-name }-update wordt gedownload
+appmenuitem-update-banner2 =
+    .label-update-downloading = { -brand-shorter-name }-update downloaden
+    .label-update-available = Update beschikbaar – nu downloaden
+    .label-update-manual = Update beschikbaar – nu downloaden
+    .label-update-unsupported = Kan niet bijwerken
+    .label-update-restart = Update beschikbaar – nu herstarten
 appmenuitem-protection-dashboard-title = Beveiligingsdashboard
 appmenuitem-customize-mode =
     .label = Aanpassen…
@@ -21,6 +27,8 @@ appmenuitem-passwords =
     .label = Wachtwoorden
 appmenuitem-extensions-and-themes =
     .label = Extensies en Thema’s
+appmenuitem-addons-and-themes =
+    .label = Add-ons en thema’s
 appmenuitem-find-in-page =
     .label = Zoeken op pagina…
 appmenuitem-more-tools =
@@ -163,6 +171,9 @@ appmenu-help-safe-mode-with-addons =
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-enter-troubleshoot-mode2 =
+    .label = Probleemoplossingsmodus…
+    .accesskey = u
 appmenu-help-exit-troubleshoot-mode =
     .label = Probleemoplossingsmodus uitschakelen
     .accesskey = m

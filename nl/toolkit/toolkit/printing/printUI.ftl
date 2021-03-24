@@ -38,7 +38,6 @@ printui-scale-fit-to-page-width = Aan paginabreedte aanpassen
 printui-scale-pcent = Schaal
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Dubbelzijdig afdrukken
-printui-duplex-checkbox = Op beide zijden afdrukken
 printui-two-sided-printing-off = Uit
 # Flip the sheet as if it were bound along its long edge.
 printui-two-sided-printing-long-edge = Draaien op lange zijde
@@ -57,14 +56,19 @@ printui-margins-default = Standaard
 printui-margins-min = Minimum
 printui-margins-none = Geen
 printui-margins-custom-inches = Aangepast (inches)
+printui-margins-custom-mm = Aangepast (mm)
 printui-margins-custom-top = Boven
 printui-margins-custom-top-inches = Bovenzijde (inches)
+printui-margins-custom-top-mm = Bovenzijde (mm)
 printui-margins-custom-bottom = Onder
 printui-margins-custom-bottom-inches = Onderzijde (inches)
+printui-margins-custom-bottom-mm = Onderzijde (mm)
 printui-margins-custom-left = Links
 printui-margins-custom-left-inches = Links (inches)
+printui-margins-custom-left-mm = Links (mm)
 printui-margins-custom-right = Rechts
 printui-margins-custom-right-inches = Rechts (inches)
+printui-margins-custom-right-mm = Rechts (mm)
 printui-system-dialog-link = Afdrukken via het systeemdialoogvenster…
 printui-primary-button = Afdrukken
 printui-primary-button-save = Opslaan

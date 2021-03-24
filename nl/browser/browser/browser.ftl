@@ -290,6 +290,8 @@ identity-passive-loaded = Onderdelen van deze pagina zijn niet beveiligd (zoals 
 identity-active-loaded = U hebt bescherming op deze pagina uitgeschakeld.
 identity-weak-encryption = Deze pagina gebruikt zwakke versleuteling.
 identity-insecure-login-forms = Ingevoerde aanmeldingen op deze pagina zouden kunnen worden onderschept.
+identity-permissions =
+    .value = Toestemmingen
 identity-https-only-connection-upgraded = (geüpgraded naar HTTPS)
 identity-https-only-label = Alleen-HTTPS-modus
 identity-https-only-dropdown-on =
@@ -301,8 +303,6 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Schakel Alleen-HTTPS voor deze website in als u wilt dat { -brand-short-name } indien mogelijk de verbinding upgradet.
 identity-https-only-info-turn-off2 = Als de website niet lijkt te werken, dan kunt u proberen de Alleen-HTTPS-modus voor deze website uit te schakelen en de pagina te vernieuwen met het onveilige HTTP.
 identity-https-only-info-no-upgrade = Kan HTTP-verbinding niet upgraden.
-identity-permissions =
-    .value = Toestemmingen
 identity-permissions-storage-access-header = Cross-sitecookies
 identity-permissions-storage-access-hint = Deze partijen kunnen tijdens uw bezoek aan deze website cross-sitecookies en websitegegevens gebruiken.
 identity-permissions-reload-hint = Mogelijk dient u de pagina te vernieuwen om wijzigingen van kracht te laten worden.
@@ -350,8 +350,6 @@ browser-window-close-button =
 
 ## Tab actions
 
-browser-tab-audio-playing = Wordt afgespeeld
-browser-tab-audio-muted = Gedempt
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-playing2 = AFSPELEN
 # This label should be written in all capital letters if your locale supports them.
@@ -360,6 +358,29 @@ browser-tab-audio-muted2 = GEDEMPT
 browser-tab-audio-blocked = AUTOMATISCH AFSPELEN GEBLOKKEERD
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = PICTURE-IN-PICTURE
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+browser-tab-mute =
+    { $count ->
+        [1] TABBLAD DEMPEN
+        [one] TABBLAD DEMPEN
+       *[other] { $count } TABBLADEN DEMPEN
+    }
+browser-tab-unmute =
+    { $count ->
+        [1] TABBLAD DEMPEN OPHEFFEN
+        [one] TABBLAD DEMPEN OPHEFFEN
+       *[other] { $count } TABBLADEN DEMPEN OPHEFFEN
+    }
+browser-tab-unblock =
+    { $count ->
+        [1] TABBLAD AFSPELEN
+        [one] TABBLAD AFSPELEN
+       *[other] { $count } TABBLADEN AFSPELEN
+    }
 
 ## Bookmarks toolbar items
 
@@ -552,8 +573,6 @@ crashed-subframe-submit =
 
 bookmarks-show-all-bookmarks =
     .label = Alle bladwijzers tonen
-bookmarks-recent-bookmarks =
-    .value = Recent aangemaakte bladwijzers
 bookmarks-manage-bookmarks =
     .label = Bladwijzers beheren
 bookmarks-recent-bookmarks-panel =
@@ -574,12 +593,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] Bladwijzerzijbalk verbergen
            *[other] Bladwijzerzijbalk weergeven
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] Bladwijzerwerkbalk verbergen
-           *[other] Bladwijzerwerkbalk weergeven
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -626,10 +639,6 @@ bookmarks-current-tab =
 
 library-bookmarks-menu =
     .label = Bladwijzers
-library-bookmarks-bookmark-this-page =
-    .label = Bladwijzer voor deze pagina maken
-library-bookmarks-bookmark-edit =
-    .label = Deze bladwijzer bewerken
 library-recent-activity-title =
     .value = Recente activiteit
 
