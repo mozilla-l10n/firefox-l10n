@@ -93,11 +93,11 @@ about-logins-intro-import2 = Ако се ваше лозинке налазе в
 
 ## Login
 
-login-item-new-login-title = Направите нову пријаву
+login-item-new-login-title = Направите нову лозинку
 login-item-edit-button = Уреди
 about-logins-login-item-remove-button = Уклони
-login-item-origin-label = Адреса веб странице
-login-item-tooltip-message = Проверите да ли се ово подудара са адресом веб странице где се пријављујете.
+login-item-origin-label = Адреса веб-сајта
+login-item-tooltip-message = Проверите исправност адресе веб-сајта на који се пријављујете.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Корисничко име
@@ -110,7 +110,7 @@ login-item-password-reveal-checkbox =
     .aria-label = Прикажи лозинку
 login-item-copy-password-button-text = Копирај
 login-item-copied-password-button-text = Копирано!
-login-item-save-changes-button = Сачувај промене
+login-item-save-changes-button = Сачувај
 login-item-save-new-button = Сачувај
 login-item-cancel-button = Откажи
 login-item-time-changed = Последња измена: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
@@ -129,7 +129,7 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 about-logins-edit-login-os-auth-dialog-message-win = Из безбедносних разлога потребно је да унесете податке за пријаву на Windows да бисте уредили запис.
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-edit-login-os-auth-dialog-message-macosx = уредите сачувану пријаву
+about-logins-edit-login-os-auth-dialog-message-macosx = уреди сачувану лозинку
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Из безбедносних разлога потребно је да унесете податке за пријаву на Windows да бисте видели лозинку.
 # This message can be seen when attempting to reveal a password in about:logins
