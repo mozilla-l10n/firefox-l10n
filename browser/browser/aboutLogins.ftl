@@ -358,9 +358,9 @@ about-logins-import-report-added =
     }
 about-logins-import-report-modified =
     { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">postojeća prijava ažurirana</div>
-        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">postojeće prijave ažurirane</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">postojećih prijava ažurirano</div>
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">postojeća prijava je aktualizirana</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">postojeće prijave su aktualizirane</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">postojećih prijava je aktualizirano</div>
     }
 about-logins-import-report-no-change =
     { $count ->
