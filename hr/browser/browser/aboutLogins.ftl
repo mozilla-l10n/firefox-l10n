@@ -298,9 +298,9 @@ about-logins-import-dialog-items-added =
     }
 about-logins-import-dialog-items-modified =
     { $count ->
-        [one] <span>Ažurirano postojećih prijava:</span> <span data-l10n-name="count">{ $count }</span>
-        [few] <span>Ažurirano postojećih prijava:</span> <span data-l10n-name="count">{ $count }</span>
-       *[other] <span>Ažurirano postojećih prijava:</span> <span data-l10n-name="count">{ $count }</span>
+        [one] <span>Aktualizirane su postojeće prijave:</span> <span data-l10n-name="count">{ $count }</span>
+        [few] <span>Aktualizirane su postojeće prijave:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Aktualizirane su postojeće prijave:</span> <span data-l10n-name="count">{ $count }</span>
     }
 about-logins-import-dialog-items-no-change =
     { $count ->
@@ -333,9 +333,9 @@ about-logins-import-report-description = Prijave i lozinke uvezene u { -brand-sh
 #
 # Variables:
 #  $number (number) - The number of the row
-about-logins-import-report-row-index = Redak { $number }
+about-logins-import-report-row-index = { $number }. redak
 about-logins-import-report-row-description-no-change = Duplikat: točno podudaranje postojeće prijave
-about-logins-import-report-row-description-modified = Postojeća prijava je ažurirana
+about-logins-import-report-row-description-modified = Postojeća prijava je aktualizirana
 about-logins-import-report-row-description-added = Dodana je nova prijava
 about-logins-import-report-row-description-error = Greška: nedostaje polje
 
