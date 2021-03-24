@@ -149,9 +149,16 @@ newtab-section-menu-privacy-notice = Огоҳиномаи махфият
 
 ## Section aria-labels
 
+newtab-section-collapse-section-label =
+    .aria-label = Пинҳон кардани қисмат
+newtab-section-expand-section-label =
+    .aria-label = Нишон додани қисмат
 
 ## Section Headers.
 
+newtab-section-header-topsites = Сомонаҳои беҳтарин
+newtab-section-header-highlights = Нуқтаҳои асосӣ
+newtab-section-header-recent-activity = Фаъолияти охирин
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -171,3 +178,6 @@ newtab-pocket-learn-more = Маълумоти бештар
 
 ## Customization Menu
 
+newtab-custom-recent-title = Фаъолияти охирин
+newtab-custom-close-button = Пӯшидан
+newtab-custom-settings = Идоракунии танзимоти бештар

@@ -26,10 +26,16 @@ onboarding-button-label-get-started = Оғози кор
 ## Welcome page strings
 
 onboarding-welcome-header = Хуш омадед ба { -brand-short-name }
+onboarding-welcome-learn-more = Маълумоти бештар дар бораи бартариҳо
 onboarding-welcome-form-header = Аз ин ҷо оғоз кунед
 onboarding-join-form-body = Барои оғози кор нишонии почтаи электронии худро ворид намоед.
 onboarding-join-form-email =
     .placeholder = Почтаи электрониро ворид намоед
+onboarding-join-form-continue = Идома додан
+# This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
+onboarding-join-form-signin-label = Аллакай ҳисобе доред?
+# Text for link to submit the sign in form
+onboarding-join-form-signin = Ворид шудан
 
 ## Welcome full page string
 
@@ -38,8 +44,10 @@ onboarding-fullpage-form-email =
 
 ## Firefox Sync modal dialog strings.
 
+onboarding-sync-welcome-learn-more-link = Маълумоти бештар дар бораи ҳисобҳои Firefox
 onboarding-sync-form-input =
     .placeholder = Почтаи электронӣ
+onboarding-sync-form-continue-button = Идома додан
 
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
@@ -56,16 +64,38 @@ onboarding-sync-form-header = Почтаи электронии худро во�
 ## Each message also has an associated button for the user to try the feature.
 ## The string for the button is found above, in the UI strings section
 
+onboarding-data-sync-button2 = Ба { -sync-brand-short-name } ворид шавед
 onboarding-browse-privately-button = Кушодани равзанаи махфӣ
+onboarding-lockwise-strong-passwords-button = Идоракунии воридшавиҳои худ
+onboarding-facebook-container-button = Илова кардани васеъшавӣ
+onboarding-import-browser-settings-button = Ворид кардани маълумоти Chrome
 
 ## Message strings belonging to the Return to AMO flow
 
+return-to-amo-extension-button = Илова кардани васеъшавӣ
 
 ## Custom Return To AMO onboarding strings
 
+return-to-amo-add-extension-label = Илова кардани васеъшавӣ
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-welcome-header = Хуш омадед ба <span data-l10n-name="zap">{ -brand-short-name }</span>
+onboarding-multistage-welcome-secondary-button-label = Ворид шудан
+onboarding-multistage-welcome-secondary-button-text = Ҳисобе доред?
+onboarding-multistage-set-default-secondary-button-label = Ҳоло не
+onboarding-multistage-import-secondary-button-label = Ҳоло не
+onboarding-multistage-theme-primary-button-label = Нигоҳ доштани мавзӯъ
+onboarding-multistage-theme-primary-button-label2 = Тайёр
+onboarding-multistage-theme-secondary-button-label = Ҳоло не
+# Automatic theme uses operating system color settings
+onboarding-multistage-theme-label-automatic = Худкор
+onboarding-multistage-theme-label-light = Равшан
+onboarding-multistage-theme-label-dark = Торик
+# "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
+onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
