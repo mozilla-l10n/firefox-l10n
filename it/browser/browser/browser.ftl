@@ -663,3 +663,9 @@ panel-save-update-password = Password
 #  $name (String): The name of the addon that will be removed.
 addon-removal-title = Rimuovere { $name }?
 addon-removal-abuse-report-checkbox = Segnala questa estensione a { -vendor-short-name }
+
+## Remote / Synced tabs
+
+remote-tabs-manage-account =
+    .label = Gestisci account
+remote-tabs-sync-now = Sincronizza adesso
