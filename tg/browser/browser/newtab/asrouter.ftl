@@ -94,9 +94,13 @@ cfr-whatsnew-permission-prompt-cta = Маълумоти бештар
 
 ## Bookmark Sync
 
+cfr-doorhanger-sync-bookmarks-ok-button = Фаъол кардани { -sync-brand-short-name }
+    .accesskey = Ф
 
 ## Login Sync
 
+cfr-doorhanger-sync-logins-ok-button = Фаъол кардани { -sync-brand-short-name }
+    .accesskey = Ф
 
 ## Send Tab
 
@@ -137,6 +141,7 @@ cfr-doorhanger-milestone-close-button = Пӯшидан
 ## What’s New Panel Content for Firefox 76
 ## Protections Dashboard message
 
+cfr-whatsnew-protections-icon-alt = Нишони сипар
 
 ## Better PDF message
 
@@ -162,6 +167,7 @@ cfr-doorhanger-fission-secondary-button = Маълумоти бештар
 
 ## What's new: Media controls message
 
+cfr-whatsnew-media-keys-header = Унсурҳои идоракунии иловагӣ барои медиа
 
 ## What's new: Search shortcuts
 

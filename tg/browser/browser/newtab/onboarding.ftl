@@ -66,16 +66,24 @@ onboarding-sync-form-header = Почтаи электронии худро во�
 
 onboarding-data-sync-button2 = Ба { -sync-brand-short-name } ворид шавед
 onboarding-browse-privately-button = Кушодани равзанаи махфӣ
+onboarding-firefox-send-button = { -send-brand-name }-ро озмоед
+onboarding-mobile-phone-title = { -brand-product-name }-ро дар телефони худ насб намоед
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Боргирӣ кардани браузери мобилӣ
 onboarding-lockwise-strong-passwords-button = Идоракунии воридшавиҳои худ
 onboarding-facebook-container-button = Илова кардани васеъшавӣ
 onboarding-import-browser-settings-button = Ворид кардани маълумоти Chrome
 
 ## Message strings belonging to the Return to AMO flow
 
+return-to-amo-sub-header = Аҷоиб, шумо { -brand-short-name } доред
 return-to-amo-extension-button = Илова кардани васеъшавӣ
+onboarding-not-now-button-label = Ҳоло не
 
 ## Custom Return To AMO onboarding strings
 
+return-to-amo-subtitle = Аҷоиб, шумо { -brand-short-name } доред
 return-to-amo-add-extension-label = Илова кардани васеъшавӣ
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
@@ -86,6 +94,7 @@ onboarding-multistage-welcome-header = Хуш омадед ба <span data-l10n-
 onboarding-multistage-welcome-secondary-button-label = Ворид шудан
 onboarding-multistage-welcome-secondary-button-text = Ҳисобе доред?
 onboarding-multistage-set-default-secondary-button-label = Ҳоло не
+onboarding-multistage-import-primary-button-label = Оғоз кардани воридкунӣ
 onboarding-multistage-import-secondary-button-label = Ҳоло не
 onboarding-multistage-theme-primary-button-label = Нигоҳ доштани мавзӯъ
 onboarding-multistage-theme-primary-button-label2 = Тайёр

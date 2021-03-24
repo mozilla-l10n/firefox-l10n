@@ -268,6 +268,8 @@ browser-window-close-button =
 
 ## Tab actions
 
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = РАСМ-ДАР-РАСМ
 
 ## These labels should be written in all capital letters if your locale supports them.
 ## Variables:

@@ -170,6 +170,7 @@ newtab-discovery-empty-section-topstories-loading = Бор шуда истода
 
 ## Pocket Content Section.
 
+newtab-pocket-more-recommendations = Тавсияҳои бештар
 newtab-pocket-learn-more = Маълумоти бештар
 
 ## Error Fallback Content.
