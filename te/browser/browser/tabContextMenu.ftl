@@ -14,6 +14,8 @@ duplicate-tab =
 duplicate-tabs =
     .label = ట్యాబుని నకలుతీయి
     .accesskey = ట్యాబుని నకలుతీయి
+# The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = కుడివైపు ట్యాబులను మూసివేయి
     .accesskey = i
@@ -53,6 +55,8 @@ move-to-end =
 move-to-new-window =
     .label = కొత్త విండోకి తరలించు
     .accesskey = W
+tab-context-share-more =
+    .label = మరిన్ని…
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
