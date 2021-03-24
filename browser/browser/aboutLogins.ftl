@@ -143,19 +143,19 @@ about-logins-copy-password-os-auth-dialog-message-macosx = копирајте с
 
 ## Master Password notification
 
-master-password-notification-message = Унесите своју главну лозинку да бисте видели сачуване пријаве и лозинке
+master-password-notification-message = Унесите главну лозинку да бисте видели сачуване лозинке
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Из безбедносних разлога потребно је да унесете податке за пријаву на Windows да бисте извезли записе.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-export-password-os-auth-dialog-message-macosx = извезите сачуване пријаве и лозинке
+about-logins-export-password-os-auth-dialog-message-macosx = извези сачуване лозинке
 
 ## Primary Password notification
 
-about-logins-primary-password-notification-message = Унесите вашу главну лозинку да бисте видели сачуване пријаве и лозинке
+about-logins-primary-password-notification-message = Унесите главну лозинку да бисте видели сачуване лозинке
 master-password-reload-button =
-    .label = Пријава
-    .accesskey = L
+    .label = Пријави ме
+    .accesskey = П
 
 ## Password Sync notification
 
@@ -180,7 +180,7 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Откажи
 confirmation-dialog-dismiss-button =
     .title = Откажи
-about-logins-confirm-remove-dialog-title = Уклонити ову пријаву?
+about-logins-confirm-remove-dialog-title = Уклонити ову лозинку?
 confirm-delete-dialog-message = Ова радња се не може опозвати.
 about-logins-confirm-remove-dialog-confirm-button = Уклони
 about-logins-confirm-remove-all-dialog-confirm-button-label =
@@ -192,16 +192,14 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
     }
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
-        [1] Да, уклони ову пријаву
-        [one] Да, уклони ову пријаву
-        [few] Да, уклони ове пријаве
-       *[other] Да, уклони ове пријаве
+        [1] Да, уклони ову лозинку
+       *[other] Да, уклони ове лозинке
     }
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
-        [one] Уклонити { $count } пријаву?
-        [few] Уклонити { $count } пријаве?
-       *[other] Уклонити { $count } пријава?
+        [one] Уклонити { $count } лозинку?
+        [few] Уклонити { $count } лозинке?
+       *[other] Уклонити { $count } лозинки?
     }
 about-logins-confirm-remove-all-dialog-message =
     { $count ->
