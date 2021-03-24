@@ -17,7 +17,7 @@ login-filter =
     .placeholder = Претражите лозинке
 create-login-button = Направите нову лозинку
 fxaccounts-sign-in-text = Приступите лозинкама на другим уређајима
-fxaccounts-sign-in-button = Пријавите се у { -sync-brand-short-name }
+fxaccounts-sign-in-button = Пријавите се на { -sync-brand-short-name(case: "acc") }
 fxaccounts-avatar-button =
     .title = Управљај налогом
 
@@ -27,9 +27,9 @@ menu =
     .title = Отвори мени
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Увези из другог прегледача…
-about-logins-menu-menuitem-import-from-a-file = Увезите из датотеке:…
-about-logins-menu-menuitem-export-logins = Извезите пријаве…
-about-logins-menu-menuitem-remove-all-logins = Уклони све пријаве…
+about-logins-menu-menuitem-import-from-a-file = Увези из датотеке…
+about-logins-menu-menuitem-export-logins = Извези лозинке…
+about-logins-menu-menuitem-remove-all-logins = Уклони све лозинке…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Подешавања
@@ -42,7 +42,7 @@ menu-menuitem-iphone-app = { -lockwise-brand-short-name } за iPhone и iPad
 ## Login List
 
 login-list =
-    .aria-label = Пријаве подударне са појмом претраге
+    .aria-label = Пронађене лозинке
 login-list-count =
     { $count ->
         [one] { $count } пријава
