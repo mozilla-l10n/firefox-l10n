@@ -5,10 +5,16 @@
 <!ENTITY sanitizeDialog.title            "პირად მონაცემთა დასუფთავება">
 <!ENTITY sanitizeItems.label             "შემდეგი ელემენტების ახლავე ამოშლა:">
 
+<!--LOCALIZATION NOTE : Make sure to not have overlapped  accesskeys with
+    pref-privatedata.dtd. These entities are also used in the private data
+    preferences dialog.
+-->
 <!ENTITY itemHistory.label               "ისტორია">
-<!ENTITY itemHistory.accesskey           "B">
+<!ENTITY itemHistory.accesskey           "ტ">
+<!ENTITY itemHistoryS.accesskey          "r">
 <!ENTITY itemUrlBar.label                "მისამართების პანელის ისტორია">
 <!ENTITY itemUrlBar.accesskey            "L">
+<!ENTITY itemUrlBarS.accesskey           "t">
 <!ENTITY itemDownloads.label             "ჩამოტვირთვების ისტორია">
 <!ENTITY itemDownloads.accesskey         "D">
 <!ENTITY itemFormSearchHistory.label     "შენახული ფორმა და ძიების ისტორია">
@@ -23,5 +29,6 @@
 <!ENTITY itemPasswords.accesskey         "P">
 <!ENTITY itemSessions.label              "ანგარიშზე შესვლის სეანსები">
 <!ENTITY itemSessions.accesskey          "S">
+
 
 <!ENTITY sanitizeButton.label            "პირად მონაცემთა გასუფთავება ახლავე">
