@@ -81,11 +81,23 @@ appmenu-update-restart =
     .secondarybuttonaccesskey = К
 appmenu-update-restart-message = Након рестартовања { -brand-shorter-name } ће вратити све отворене картице и прозоре који нису у режиму приватног прегледања.
 appmenu-update-other-instance =
-    .label = { -brand-shorter-name } се не може аутоматски ажурирати на најновију верзију.
-    .buttonlabel = Ипак ажурирај { -brand-shorter-name }
-    .buttonaccesskey = U
-    .secondarybuttonlabel = Не сада
-    .secondarybuttonaccesskey = N
+    .label =
+        Није могуће инсталирати најновију верзију { -brand-shorter-name.gender ->
+            [masculine] { -brand-shorter-name(case: "gen") }
+            [feminine] { -brand-shorter-name(case: "gen") }
+            [neuter] { -brand-shorter-name(case: "gen") }
+           *[other] програма { -brand-shorter-name }
+        }.
+    .buttonlabel =
+        Ипак ажурирај { -brand-shorter-name.gender ->
+            [masculine] { -brand-shorter-name(case: "acc") }
+            [feminine] { -brand-shorter-name(case: "acc") }
+            [neuter] { -brand-shorter-name(case: "acc") }
+           *[other] програм { -brand-shorter-name }
+        }
+    .buttonaccesskey = а
+    .secondarybuttonlabel = Касније
+    .secondarybuttonaccesskey = К
 appmenu-update-other-instance-message = Доступно је ажурирање за { -brand-shorter-name }, али се не може инсталирати јер је покренута друга копија { -brand-shorter-name }-а. Затворите је да наставите са ажурирањем или одаберите да ажурирате (друга копија можда неће радити исправно док је поново не покренете).
 appmenu-addon-private-browsing-installed =
     .buttonlabel = У реду, разумем
