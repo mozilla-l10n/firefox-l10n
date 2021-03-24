@@ -60,13 +60,25 @@ appmenu-update-unsupported =
     .buttonaccesskey = С
     .secondarybuttonlabel = Затвори
     .secondarybuttonaccesskey = З
-appmenu-update-unsupported-message = Најновија { -brand-shorter-name } верзија није подржана на вашем систему.
+appmenu-update-unsupported-message =
+    Ваш систем не подржава најновију верзију { -brand-shorter-name.gender ->
+        [masculine] { -brand-shorter-name(case: "gen") }
+        [feminine] { -brand-shorter-name(case: "gen") }
+        [neuter] { -brand-shorter-name(case: "gen") }
+       *[other] програма { -brand-shorter-name }
+    }.
 appmenu-update-restart =
-    .label = Рестартуј да се { -brand-shorter-name } ажурира.
-    .buttonlabel = Рестартуј и обнови
-    .buttonaccesskey = R
-    .secondarybuttonlabel = Не сада
-    .secondarybuttonaccesskey = N
+    .label =
+        Рестартуј и ажурирај { -brand-shorter-name.gender ->
+            [masculine] { -brand-shorter-name(case: "acc") }
+            [feminine] { -brand-shorter-name(case: "acc") }
+            [neuter] { -brand-shorter-name(case: "acc") }
+           *[other] програм { -brand-shorter-name }
+        }.
+    .buttonlabel = Рестартуј и врати
+    .buttonaccesskey = Р
+    .secondarybuttonlabel = Касније
+    .secondarybuttonaccesskey = К
 appmenu-update-restart-message = Након рестартовања { -brand-shorter-name } ће вратити све отворене картице и прозоре који нису у режиму приватног прегледања.
 appmenu-update-other-instance =
     .label = { -brand-shorter-name } се не може аутоматски ажурирати на најновију верзију.
