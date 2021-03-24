@@ -5,12 +5,42 @@
 
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
+newtab-page-title = Варақаи нав
+newtab-settings-button =
+    .title = Танзим кардани саҳифаи худ дар варақаи нав
+newtab-personalize-button-label = Танзимоти шахсӣ
+    .title = Танзимоти шахсии варақаи нав
+    .aria-label = Танзимоти шахсии варақаи нав
 
 ## Search box component.
 
+# "Search" is a verb/action
+newtab-search-box-search-button =
+    .title = Ҷустуҷӯ
+    .aria-label = Ҷустуҷӯ
+newtab-search-box-search-the-web-text = Ҷустуҷӯ дар Интернет
+newtab-search-box-search-the-web-input =
+    .placeholder = Ҷустуҷӯ дар Интернет
+    .title = Ҷустуҷӯ дар Интернет
+    .aria-label = Ҷустуҷӯ дар Интернет
+newtab-search-box-text = Ҷустуҷӯ дар Интернет
+newtab-search-box-input =
+    .placeholder = Ҷустуҷӯ дар Интернет
+    .aria-label = Ҷустуҷӯ дар Интернет
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-search-engine-header = Илова кардани низоми ҷустуҷӯӣ
+newtab-topsites-add-topsites-header = Сомонаи беҳтарини нав
+newtab-topsites-add-shortcut-header = Миёнбури нав
+newtab-topsites-edit-topsites-header = Таҳрир кардани сомонаи беҳтарин
+newtab-topsites-edit-shortcut-header = Таҳрир кардани миёнбур
+newtab-topsites-title-label = Сарлавҳа
+newtab-topsites-title-input =
+    .placeholder = Сарлавҳаро ворид намоед
+newtab-topsites-url-label = Нишонии URL
+newtab-topsites-url-input =
+    .placeholder = Нишонии URL-ро ворид кунед ё гузоред
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
