@@ -12,23 +12,30 @@
 <!ENTITY itemHistory.label               "ისტორია">
 <!ENTITY itemHistory.accesskey           "ტ">
 <!ENTITY itemHistoryS.accesskey          "r">
-<!ENTITY itemUrlBar.label                "მისამართების პანელის ისტორია">
-<!ENTITY itemUrlBar.accesskey            "L">
+<!ENTITY itemUrlBar.label                "მისამართების ზოლის ისტორია">
+<!ENTITY itemUrlBar.accesskey            "ზ">
 <!ENTITY itemUrlBarS.accesskey           "t">
 <!ENTITY itemDownloads.label             "ჩამოტვირთვების ისტორია">
-<!ENTITY itemDownloads.accesskey         "D">
-<!ENTITY itemFormSearchHistory.label     "შენახული ფორმა და ძიების ისტორია">
-<!ENTITY itemFormSearchHistory.accesskey "F">
+<!ENTITY itemDownloads.accesskey         "ჩ">
+<!ENTITY itemDownloadsS.accesskey        "ო">
+<!ENTITY itemFormSearchHistory.label     "შევსებული ველებისა და ძიების ისტორია">
+<!ENTITY itemFormSearchHistory.accesskey "შ">
+<!ENTITY itemFormSearchHistoryS.accesskey "ე">
 <!ENTITY itemCache.label                 "ბუფერი">
-<!ENTITY itemCache.accesskey             "a">
+<!ENTITY itemCache.accesskey             "ე">
+<!ENTITY itemCacheS.accesskey            "ი">
 <!ENTITY itemCookies.label               "ფუნთუშები">
 <!ENTITY itemCookies.accesskey           "ფ">
-<!ENTITY itemOfflineApps.label           "გარე ვებსაიტის მონაცემები">
-<!ENTITY itemOfflineApps.accesskey       "O">
+<!ENTITY itemCookiesS.accesskey          "ნ">
+<!ENTITY itemOfflineApps.label           "კავშირგარეშე მონაცემები">
+<!ENTITY itemOfflineApps.accesskey       "კ">
+<!ENTITY itemOfflineAppsS.accesskey      "რ">
 <!ENTITY itemPasswords.label             "შენახული პაროლები">
-<!ENTITY itemPasswords.accesskey         "P">
+<!ENTITY itemPasswords.accesskey         "პ">
+<!ENTITY itemPasswordsS.accesskey        "ლ">
 <!ENTITY itemSessions.label              "ანგარიშზე შესვლის სეანსები">
-<!ENTITY itemSessions.accesskey          "S">
+<!ENTITY itemSessions.accesskey          "გ">
 
+<!ENTITY itemSessionsS.accesskey         "ბ">
 
 <!ENTITY sanitizeButton.label            "პირად მონაცემთა გასუფთავება ახლავე">
