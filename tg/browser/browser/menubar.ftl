@@ -252,9 +252,9 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Ворид шудан ба { -brand-product-name }…
     .accesskey = В
-menu-tools-extensions =
-    .label = Васеъшавиҳо ва мавзӯъҳо
-    .accesskey = В
+menu-tools-addons-and-themes =
+    .label = Ҷузъҳои иловагӣ ва мавзӯъҳо
+    .accesskey = Ҷ
 menu-tools-fxa-sign-in2 =
     .label = Ворид шудан
     .accesskey = В
@@ -270,12 +270,25 @@ menu-tools-fxa-re-auth =
 menu-tools-web-developer =
     .label = Барномарезии сомонаҳо
     .accesskey = Б
+menu-tools-browser-tools =
+    .label = Абзорҳои браузер
+    .accesskey = А
+menu-tools-task-manager =
+    .label = Мудири вазифаҳо
+    .accesskey = М
 menu-tools-page-source =
     .label = Рамзи манбаи саҳифа
     .accesskey = Р
 menu-tools-page-info =
     .label = Маълумот дар бораи саҳифа
     .accesskey = М
+menu-settings =
+    .label = Танзимот
+    .accesskey =
+        { PLATFORM() ->
+            [windows] Т
+           *[other] т
+        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -286,13 +299,6 @@ menu-preferences =
         { PLATFORM() ->
             [windows] И
            *[other] Х
-        }
-menu-settings =
-    .label = Танзимот
-    .accesskey =
-        { PLATFORM() ->
-            [windows] Т
-           *[other] т
         }
 menu-tools-layout-debugger =
     .label = Ислоҳи нуқсонҳои тарҳрезӣ
@@ -306,15 +312,6 @@ menu-window-bring-all-to-front =
     .label = Ҳамаи равзанаҳо ба пеш гузошта шаванд
 
 ## Help Menu
-
-
-# NOTE: For Engineers, any additions or changes to Help menu strings should
-# also be reflected in the related strings in appmenu.ftl. Those strings, by
-# convention, will have the same ID as these, but prefixed with "app".
-# Example: appmenu-help-product
-#
-# These strings are duplicated to allow for different casing depending on
-# where the strings appear.
 
 
 # NOTE: For Engineers, any additions or changes to Help menu strings should
@@ -346,11 +343,11 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = Маълумот барои ислоҳи нуқсонҳо
     .accesskey = М
+menu-help-taskmanager =
+    .label = Мудири вазифаҳо
 menu-help-more-troubleshooting-info =
     .label = Маълумоти бештар оид ба ислоҳи нуқсонҳо
     .accesskey = М
-menu-help-taskmanager =
-    .label = Мудири вазифаҳо
 menu-help-report-site-issue =
     .label = Гузориш дар бораи мушкилии сомона…
 menu-help-feedback-page =
@@ -362,8 +359,8 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Аз нав оғоз кардани барнома бо ҷузъи иловагии фаъолшуда
     .accesskey = А
-menu-help-enter-troubleshoot-mode =
-    .label = Реҷаи ислоҳи нуқсонҳо
+menu-help-enter-troubleshoot-mode2 =
+    .label = Реҷаи ислоҳи нуқсонҳо…
     .accesskey = Р
 menu-help-exit-troubleshoot-mode =
     .label = Хомӯш кардани реҷаи ислоҳи нуқсонҳо
@@ -375,7 +372,4 @@ menu-help-report-deceptive-site =
     .accesskey = Г
 menu-help-not-deceptive =
     .label = Сомонаи ҷорӣ фиребанда нест…
-    .accesskey = С
-menu-help-check-for-update =
-    .label = Санҷиши навсозиҳо…
     .accesskey = С

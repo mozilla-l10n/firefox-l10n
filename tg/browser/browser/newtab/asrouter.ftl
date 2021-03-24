@@ -5,6 +5,8 @@
 
 ## These messages are used as headings in the recommendation doorhanger
 
+cfr-doorhanger-extension-heading = Васеъшавии тавсияшуда
+cfr-doorhanger-feature-heading = Хусусияти тавсияшуда
 
 ##
 
@@ -14,6 +16,9 @@ cfr-doorhanger-extension-learn-more-link = Маълумоти бештар
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Тавсия
+cfr-doorhanger-extension-notification2 = Тавсия
+    .tooltiptext = Тавсияи васеъшавӣ
+    .a11y-announcement = Тавсияи васеъшавӣ дастрас аст
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Тавсия
@@ -24,9 +29,26 @@ cfr-doorhanger-feature-notification = Тавсия
 ## These strings are used to display the total number of
 ## users and rating for an add-on. They are shown next to each other.
 
+# Variables:
+#   $total (Number) - The rating of the add-on from 1 to 5
+cfr-doorhanger-extension-rating =
+    .tooltiptext =
+        { $total ->
+            [one] { $total } ситора
+           *[other] { $total } ситора
+        }
+# Variables:
+#   $total (Number) - The total number of users using the add-on
+cfr-doorhanger-extension-total-users =
+    { $total ->
+        [one] { $total } корбар
+       *[other] { $total } корбар
+    }
 
 ## These messages are steps on how to use the feature and are shown together.
 
+cfr-doorhanger-pintab-animation-pause = Таваққуф кардан
+cfr-doorhanger-pintab-animation-resume = Давом додан
 
 ## Firefox Accounts Message
 
@@ -44,6 +66,8 @@ cfr-whatsnew-button =
     .label = Чӣ нав аст
     .tooltiptext = Чӣ нав аст
 cfr-whatsnew-panel-header = Чӣ нав аст
+cfr-whatsnew-tracking-blocked-link-text = Дидани гузориш
+cfr-whatsnew-lockwise-take-link-text = Барномаро гиред
 
 ## Search Bar
 
@@ -73,12 +97,18 @@ cfr-whatsnew-permission-prompt-cta = Маълумоти бештар
 
 ## Firefox Send
 
+cfr-doorhanger-firefox-send-ok-button = { -send-brand-name }-ро озмоед
+    .accesskey = р
 
 ## Social Tracking Protection
 
+cfr-doorhanger-socialtracking-close-button = Пӯшидан
+    .accesskey = П
 
 ## Enhanced Tracking Protection Milestones
 
+cfr-doorhanger-milestone-ok-button = Ҳамаро дидан
+    .accesskey = Ҳ
 
 ## What’s New Panel Content for Firefox 76
 
@@ -91,9 +121,12 @@ cfr-whatsnew-permission-prompt-cta = Маълумоти бештар
 
 ## Picture-in-Picture fullscreen message
 
+cfr-whatsnew-pip-fullscreen-icon-alt = Нишонаи «Расм-дар-расм»
 
 ## Protections Dashboard message
 
+cfr-doorhanger-milestone-close-button = Пӯшидан
+    .accesskey = П
 
 ## What’s New Panel Content for Firefox 76
 ## Protections Dashboard message
@@ -104,6 +137,12 @@ cfr-whatsnew-permission-prompt-cta = Маълумоти бештар
 
 ## DOH Message
 
+cfr-doorhanger-doh-primary-button = Хуб, фаҳмидам
+    .accesskey = Х
+cfr-doorhanger-doh-primary-button-2 = Хуб
+    .accesskey = Х
+cfr-doorhanger-doh-secondary-button = Ғайрифаъол кардан
+    .accesskey = Ғ
 
 ## Fission Experiment Message
 

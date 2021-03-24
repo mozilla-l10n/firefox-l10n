@@ -7,6 +7,11 @@
 ### Firefox" and "version" is used to mean "the specific revision number of a
 ### given Firefox channel". These terms are not synonymous.
 
+title = Ахбори муҳим
+heading = Тағйирот ба профили { -brand-short-name }-и шумо
+changed-title = Чӣ тағйир ёфт?
+options-title = Имконоти ман кадоманд?
+resources = Манбаъҳо:
 sync-label = Почтаи электронии худро ворид кунед
 sync-input =
     .placeholder = Почтаи электронӣ
