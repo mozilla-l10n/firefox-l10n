@@ -148,7 +148,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> je vjerojatno sigurna stranica, ali se s njom ne može uspostaviti sigurna veza. Uzrok problemu je program <span class='mitm-name'/>, koji se nalazi na tvom računalu ili tvojoj mreži.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Ukoliko tvoj antivirusni program uključuje mogućnost skeniranja sigurnih veza (koje se često zove “web skeniranje” ili “https skeniranje”), možeš isključiti ovu mogućnost. Ukoliko to ne riješi problem, možeš ukloniti i ponovo instalirati antivirusni program.">
-<!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Ukoliko se nalazite u korporativnoj mreži, možete kontaktirati svoj IT odjel.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Ako se nalaziš u korporativnoj mreži, možeš kontaktirati svoj IT odjel.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Ako ne poznaš <span class='mitm-name'/>, onda se možda radi o napadu i nemoj nastaviti s posjećivanjem te stranice.">
 <!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Ako ne poznaš <span class='mitm-name'/>, onda se možda radi o napadu i ne možeš ništa učiniti kako bi pristupio/la stranici.">
 
