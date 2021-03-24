@@ -7,6 +7,12 @@
 
 appmenuitem-update-banner =
     .label-update-downloading = Дар ҳоли боргирии навсозии { -brand-shorter-name }
+appmenuitem-update-banner2 =
+    .label-update-downloading = Дар ҳоли боргирии навсозии { -brand-shorter-name }
+    .label-update-available = Навсозӣ дастрас аст — ҳозир боргирӣ кунед
+    .label-update-manual = Навсозӣ дастрас аст — ҳозир боргирӣ кунед
+    .label-update-unsupported = Навсозӣ карда намешавад
+    .label-update-restart = Навсозӣ дастрас аст — ҳозир аз нав оғоз кунед
 appmenuitem-protection-dashboard-title = Лавҳаи вазъияти муҳофизат
 appmenuitem-customize-mode =
     .label = Фармоишдиҳӣ…
@@ -21,6 +27,8 @@ appmenuitem-passwords =
     .label = Ниҳонвожаҳо
 appmenuitem-extensions-and-themes =
     .label = Васеъшавиҳо ва мавзӯъҳо
+appmenuitem-addons-and-themes =
+    .label = Ҷузъҳои иловагӣ ва мавзӯъҳо
 appmenuitem-find-in-page =
     .label = Ҷустуҷӯ дар саҳифа…
 appmenuitem-more-tools =
@@ -163,6 +171,9 @@ appmenu-help-safe-mode-with-addons =
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-enter-troubleshoot-mode2 =
+    .label = Реҷаи ислоҳи нуқсонҳо…
+    .accesskey = Р
 appmenu-help-exit-troubleshoot-mode =
     .label = Хомӯш кардани реҷаи ислоҳи нуқсонҳо
     .accesskey = Х

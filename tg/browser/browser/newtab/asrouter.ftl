@@ -12,6 +12,8 @@ cfr-doorhanger-feature-heading = Хусусияти тавсияшуда
 
 cfr-doorhanger-extension-cancel-button = Ҳоло не
     .accesskey = н
+cfr-doorhanger-extension-ok-button = Ҳозир илова карда шавад
+    .accesskey = Ҳ
 cfr-doorhanger-extension-learn-more-link = Маълумоти бештар
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
@@ -52,6 +54,10 @@ cfr-doorhanger-pintab-animation-resume = Давом додан
 
 ## Firefox Accounts Message
 
+cfr-doorhanger-bookmark-fxa-link-text = Хатбаракҳо ҳозир ҳамоҳанг карда шаванд…
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .aria-label = Тугмаи «Пӯшидан»
+    .title = Пӯшидан
 
 ## Protections panel
 
@@ -146,6 +152,8 @@ cfr-doorhanger-doh-secondary-button = Ғайрифаъол кардан
 
 ## Fission Experiment Message
 
+cfr-doorhanger-fission-primary-button = Хуб, фаҳмидам
+    .accesskey = Х
 cfr-doorhanger-fission-secondary-button = Маълумоти бештар
     .accesskey = М
 
