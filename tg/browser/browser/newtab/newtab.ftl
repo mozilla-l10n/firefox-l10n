@@ -41,17 +41,22 @@ newtab-topsites-title-input =
 newtab-topsites-url-label = Нишонии URL
 newtab-topsites-url-input =
     .placeholder = Нишонии URL-ро ворид кунед ё гузоред
+newtab-topsites-url-validation = Нишонии URL-и эътибор лозим аст
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Бекор кардан
 newtab-topsites-delete-history-button = Нест кардан аз таърих
+newtab-topsites-save-button = Нигоҳ доштан
+newtab-topsites-preview-button = Пешнамоиш
+newtab-topsites-add-button = Илова кардан
 
 ## Top Sites - Delete history confirmation dialog.
 
 
 ## Top Sites - Sponsored label
 
+newtab-topsite-sponsored = Сарпарастӣ
 
 ## Context Menu - Action Tooltips.
 
@@ -79,13 +84,26 @@ newtab-menu-topsites-placeholder-tooltip =
 newtab-menu-edit-topsites = Таҳрир кардан
 newtab-menu-open-new-window = Кушодан дар равзанаи нав
 newtab-menu-open-new-private-window = Кушодан дар равзанаи махфии нав
+newtab-menu-dismiss = Нодида гузарондан
+newtab-menu-pin = Васл кардан
+newtab-menu-unpin = Ҷудо кардан
 newtab-menu-delete-history = Нест кардан аз таърих
+newtab-menu-save-to-pocket = Нигоҳ доштан ба { -pocket-brand-name }
+newtab-menu-delete-pocket = Нест кардан аз { -pocket-brand-name }
+newtab-menu-archive-pocket = Бойгонӣ кардан ба { -pocket-brand-name }
+newtab-menu-show-privacy-info = Сарпарастони мо ва махфияти шумо
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
+newtab-privacy-modal-button-done = Тайёр
+newtab-privacy-modal-link = Маълумот гиред, ки чӣ тавр махфият дар варақаи нав риоя карда мешавад
 
 ##
 
+# Bookmark is a noun in this case, "Remove bookmark".
+newtab-menu-remove-bookmark = Тоза кардани хатбаракҳо
+# Bookmark is a verb here.
+newtab-menu-bookmark = Хатбарак
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
@@ -118,6 +136,16 @@ newtab-label-download = Боргиришуда
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
+newtab-section-menu-remove-section = Тоза кардани қисмат
+newtab-section-menu-collapse-section = Пинҳон кардани қисмат
+newtab-section-menu-expand-section = Нишон додани қисмат
+newtab-section-menu-manage-section = Идоракунии қисмат
+newtab-section-menu-manage-webext = Идоракунии васеъшавӣ
+newtab-section-menu-add-topsite = Илова кардан ба сомонаҳои беҳтарин
+newtab-section-menu-add-search-engine = Илова кардани низоми ҷустуҷӯӣ
+newtab-section-menu-move-up = Ба боло гузоштан
+newtab-section-menu-move-down = Ба поён гузоштан
+newtab-section-menu-privacy-notice = Огоҳиномаи махфият
 
 ## Section aria-labels
 
