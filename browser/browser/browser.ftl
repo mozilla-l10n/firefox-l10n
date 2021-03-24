@@ -288,6 +288,8 @@ identity-passive-loaded = ამ გვერდის გარკვეულ�
 identity-active-loaded = ამ გვერდზე დაცვა გამორთული გაქვთ.
 identity-weak-encryption = ეს გვერდი სუსტ დაშიფვრას იყენებს.
 identity-insecure-login-forms = ამ გვერდზე შეყვანილი ანგარიშის მონაცემები შესაძლოა მოიპარონ.
+identity-permissions =
+    .value = ნებართვები
 identity-https-only-connection-upgraded = (განახლებული HTTPS-ზე)
 identity-https-only-label = მხოლოდ-HTTPS რეჟიმი
 identity-https-only-dropdown-on =
@@ -299,8 +301,6 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = ჩართეთ მხოლოდ-HTTPS რეჟიმი და { -brand-short-name } შეეცდება უსაფრთხო კავშირზე გადაყვანას, შესაძლო შემთხვევებში.
 identity-https-only-info-turn-off2 = თუ გვერდს ხარვეზები ექნება, დაგჭირდებათ მხოლოდ-HTTPS რეჟიმის გამორთვა ამ საიტისთვის და გვერდის არასაიმედო HTTP-ით ჩატვირთვა.
 identity-https-only-info-no-upgrade = ვერ ხერხდება გადასვლა HTTP-დან.
-identity-permissions =
-    .value = ნებართვები
 identity-permissions-storage-access-header = საიტთაშორისი ფუნთუშები
 identity-permissions-storage-access-hint = ამ მხარეებს შეუძლია გამოიყენოს საიტთაშორისი ფუნთუშები და მონაცემები, სანამ ამ საიტზე ხართ.
 identity-permissions-reload-hint = ცვლილებების ასამოქმედებლად შესაძლოა გვერდის ხელახლა ჩატვირთვა დაგჭირდეთ.
@@ -348,8 +348,6 @@ browser-window-close-button =
 
 ## Tab actions
 
-browser-tab-audio-playing = გაშვებულია
-browser-tab-audio-muted = დადუმებულია
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-playing2 = ᲒᲐᲨᲕᲔᲑᲣᲚᲘ
 # This label should be written in all capital letters if your locale supports them.
@@ -358,6 +356,26 @@ browser-tab-audio-muted2 = ᲓᲐᲓᲣᲛᲔᲑᲣᲚᲘ
 browser-tab-audio-blocked = ᲗᲕᲘᲗᲒᲐᲨᲕᲔᲑᲐ ᲨᲔᲘᲖᲦᲣᲓᲐ
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = ᲔᲙᲠᲐᲜᲘ-ᲔᲙᲠᲐᲜᲨᲘ
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+browser-tab-mute =
+    { $count ->
+        [1] ᲩᲐᲜᲐᲠᲗᲘᲡ ᲓᲐᲓᲣᲛᲔᲑᲐ
+       *[other] { $count } ᲩᲐᲜᲐᲠᲗᲘᲡ ᲓᲐᲓᲣᲛᲔᲑᲐ
+    }
+browser-tab-unmute =
+    { $count ->
+        [1] ᲩᲐᲜᲐᲠᲗᲘᲡ ᲐᲮᲛᲝᲕᲐᲜᲔᲑᲐ
+       *[other] { $count } ᲩᲐᲜᲐᲠᲗᲘᲡ ᲐᲮᲛᲝᲕᲐᲜᲔᲑᲐ
+    }
+browser-tab-unblock =
+    { $count ->
+        [1] ᲒᲐᲨᲕᲔᲑᲐ ᲩᲐᲜᲐᲠᲗᲨᲘ
+       *[other] { $count } ᲩᲐᲜᲐᲠᲗᲨᲘ ᲒᲐᲨᲕᲔᲑᲐ
+    }
 
 ## Bookmarks toolbar items
 
@@ -550,8 +568,6 @@ crashed-subframe-submit =
 
 bookmarks-show-all-bookmarks =
     .label = ყველა სანიშნის ჩვენება
-bookmarks-recent-bookmarks =
-    .value = ბოლოს ჩანიშნული
 bookmarks-manage-bookmarks =
     .label = სანიშნების მართვა
 bookmarks-recent-bookmarks-panel =
@@ -572,12 +588,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] სანიშნების გვერდითი ზოლის დამალვა
            *[other] სანიშნების გვერდითი ზოლის ჩვენება
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] სანიშნების ხელსაწყოთა ზოლის დამალვა
-           *[other] სანიშნების ხელსაწყოთა ზოლის ჩვენება
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -624,10 +634,6 @@ bookmarks-current-tab =
 
 library-bookmarks-menu =
     .label = სანიშნები
-library-bookmarks-bookmark-this-page =
-    .label = გვერდის ჩანიშვნა
-library-bookmarks-bookmark-edit =
-    .label = სანიშნის ჩასწორება
 library-recent-activity-title =
     .value = ბოლო მოქმედებები
 

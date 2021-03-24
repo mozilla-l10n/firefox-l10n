@@ -252,9 +252,9 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = { -brand-product-name } – შესვლა...
     .accesskey = ვ
-menu-tools-extensions =
-    .label = გაფართოებები და თემები
-    .accesskey = ფ
+menu-tools-addons-and-themes =
+    .label = დამატებები და თემები
+    .accesskey = დ
 menu-tools-fxa-sign-in2 =
     .label = შესვლა
     .accesskey = ვ
@@ -270,25 +270,31 @@ menu-tools-fxa-re-auth =
 menu-tools-web-developer =
     .label = ვებშემუშავება
     .accesskey = ვ
+menu-tools-browser-tools =
+    .label = ბრაუზერის ხელსაწყოები
+    .accesskey = ბ
+menu-tools-task-manager =
+    .label = ამოცანათა მმართველი
+    .accesskey = რ
 menu-tools-page-source =
     .label = გვერდის წყარო
     .accesskey = წ
 menu-tools-page-info =
     .label = გვერდის მონაცემები
     .accesskey = ი
+menu-settings =
+    .label = პარამეტრები
+    .accesskey =
+        { PLATFORM() ->
+            [windows] პ
+           *[other] ტ
+        }
 menu-preferences =
     .label =
         { PLATFORM() ->
             [windows] პარამეტრები
            *[other] პარამეტრები
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] პ
-           *[other] ტ
-        }
-menu-settings =
-    .label = პარამეტრები
     .accesskey =
         { PLATFORM() ->
             [windows] პ
@@ -306,15 +312,6 @@ menu-window-bring-all-to-front =
     .label = ყველას წინ გადმოტანა
 
 ## Help Menu
-
-
-# NOTE: For Engineers, any additions or changes to Help menu strings should
-# also be reflected in the related strings in appmenu.ftl. Those strings, by
-# convention, will have the same ID as these, but prefixed with "app".
-# Example: appmenu-help-product
-#
-# These strings are duplicated to allow for different casing depending on
-# where the strings appear.
 
 
 # NOTE: For Engineers, any additions or changes to Help menu strings should
@@ -346,11 +343,11 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = ხარვეზის აღმოფხვრის მონაცემები
     .accesskey = ფ
+menu-help-taskmanager =
+    .label = ამოცანათა მმართველი
 menu-help-more-troubleshooting-info =
     .label = ხარვეზის აღმოფხვრის ვრცელი მონაცემები
     .accesskey = ფ
-menu-help-taskmanager =
-    .label = ამოცანათა მმართველი
 menu-help-report-site-issue =
     .label = საიტის ხარვეზის მოხსენება…
 menu-help-feedback-page =
@@ -362,9 +359,9 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = ჩართული დამატებებით გაშვება
     .accesskey = ჩ
-menu-help-enter-troubleshoot-mode =
-    .label = ხარვეზის აღმოფხვრის რეჟიმი
-    .accesskey = ჟ
+menu-help-enter-troubleshoot-mode2 =
+    .label = ხარვეზის აღმოფხვრის რეჟიმი…
+    .accesskey = ხ
 menu-help-exit-troubleshoot-mode =
     .label = ხარვეზის აღმოფხვრის რეჟიმის გამორთვა
     .accesskey = ჟ
@@ -376,6 +373,3 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = ეს თაღლითური საიტი არაა…
     .accesskey = ე
-menu-help-check-for-update =
-    .label = შემოწმება განახლებებზე…
-    .accesskey = წ
