@@ -14,7 +14,13 @@
 menu-application-services =
     .label = Услуге
 menu-application-hide-this =
-    .label = Сакриј { -brand-shorter-name }
+    .label =
+        Сакриј { -brand-shorter-name.gender ->
+            [masculine] { -brand-shorter-name(case: "acc") }
+            [feminine] { -brand-shorter-name(case: "acc") }
+            [neuter] { -brand-shorter-name(case: "acc") }
+           *[other] програм { -brand-shorter-name }
+        }
 menu-application-hide-other =
     .label = Сакриј остале
 menu-application-show-all =

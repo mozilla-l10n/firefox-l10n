@@ -98,7 +98,18 @@ appmenu-update-other-instance =
     .buttonaccesskey = а
     .secondarybuttonlabel = Касније
     .secondarybuttonaccesskey = К
-appmenu-update-other-instance-message = Доступно је ажурирање за { -brand-shorter-name }, али се не може инсталирати јер је покренута друга копија { -brand-shorter-name }-а. Затворите је да наставите са ажурирањем или одаберите да ажурирате (друга копија можда неће радити исправно док је поново не покренете).
+appmenu-update-other-instance-message =
+    Доступно је ново ажурирање { -brand-shorter-name.gender ->
+        [masculine] { -brand-shorter-name(case: "gen") }
+        [feminine] { -brand-shorter-name(case: "gen") }
+        [neuter] { -brand-shorter-name(case: "gen") }
+       *[other] програма { -brand-shorter-name }
+    }, али се не може инсталирати јер је покренут други примерак { -brand-shorter-name.gender ->
+        [masculine] { -brand-shorter-name(case: "gen") }
+        [feminine] { -brand-shorter-name(case: "gen") }
+        [neuter] { -brand-shorter-name(case: "gen") }
+       *[other] програма { -brand-shorter-name }
+    }. Затворите га или ажурирајте упркос томе (други примерак можда неће радити док га не рестартујете).
 appmenu-addon-private-browsing-installed =
     .buttonlabel = У реду, разумем
     .buttonaccesskey = O
