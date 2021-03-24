@@ -22,20 +22,44 @@ appmenu-update-available-message =
        *[other] програм { -brand-shorter-name }
     } ради побољшања брзине и приватности.
 appmenu-update-manual =
-    .label = { -brand-shorter-name } се не може ажурирати на последњу верзију.
-    .buttonlabel = Преузми { -brand-shorter-name }
-    .buttonaccesskey = D
-    .secondarybuttonlabel = Не сада
-    .secondarybuttonaccesskey = N
-appmenu-update-manual-message = Преузмите { -brand-shorter-name } и ми ћемо вам помоћи да га инсталирате.
+    .label =
+        Није могуће инсталирати најновију верзију { -brand-shorter-name.gender ->
+            [masculine] { -brand-shorter-name(case: "gen") }
+            [feminine] { -brand-shorter-name(case: "gen") }
+            [neuter] { -brand-shorter-name(case: "gen") }
+           *[other] програма { -brand-shorter-name }
+        }.
+    .buttonlabel =
+        Преузми { -brand-shorter-name.gender ->
+            [masculine] { -brand-shorter-name(case: "acc") }
+            [feminine] { -brand-shorter-name(case: "acc") }
+            [neuter] { -brand-shorter-name(case: "acc") }
+           *[other] програм { -brand-shorter-name }
+        }
+    .buttonaccesskey = П
+    .secondarybuttonlabel = Касније
+    .secondarybuttonaccesskey = К
+appmenu-update-manual-message =
+    Преузмите нову верзију { -brand-shorter-name.gender ->
+        [masculine] { -brand-shorter-name(case: "gen") }
+        [feminine] { -brand-shorter-name(case: "gen") }
+        [neuter] { -brand-shorter-name(case: "gen") }
+       *[other] програма { -brand-shorter-name }
+    } а ми ћемо вам помоћи да је инсталирате.
 appmenu-update-whats-new =
     .value = Погледајте шта је ново.
 appmenu-update-unsupported =
-    .label = { -brand-shorter-name } не може ажурирати на најновију верзију.
+    .label =
+        Није могуће инсталирати најновију верзију { -brand-shorter-name.gender ->
+            [masculine] { -brand-shorter-name(case: "gen") }
+            [feminine] { -brand-shorter-name(case: "gen") }
+            [neuter] { -brand-shorter-name(case: "gen") }
+           *[other] програма { -brand-shorter-name }
+        }.
     .buttonlabel = Сазнајте више
-    .buttonaccesskey = L
+    .buttonaccesskey = С
     .secondarybuttonlabel = Затвори
-    .secondarybuttonaccesskey = C
+    .secondarybuttonaccesskey = З
 appmenu-update-unsupported-message = Најновија { -brand-shorter-name } верзија није подржана на вашем систему.
 appmenu-update-restart =
     .label = Рестартуј да се { -brand-shorter-name } ажурира.
