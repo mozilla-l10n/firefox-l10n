@@ -18,4 +18,3 @@
 
 <!-- Reflow Event Debugging -->
 <!ENTITY debugReflowShowFrameCounts.label        "Mostra il numero di frame">
-<!ENTITY debugReflowDumpFrameCounts.label        "">
