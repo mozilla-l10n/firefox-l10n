@@ -63,10 +63,10 @@ login-list-intro-description =
         [neuter] { -brand-product-name(case: "loc") }
        *[other] програму { -brand-product-name }
     }.
-about-logins-login-list-empty-search-title = Нису пронађене пријаве
+about-logins-login-list-empty-search-title = Лозинке нису пронађене
 about-logins-login-list-empty-search-description = Нема резултата који одговарају критеријумима претраге.
-login-list-item-title-new-login = Нова пријава
-login-list-item-subtitle-new-login = Унесите своје податке за пријаву
+login-list-item-title-new-login = Нова лозинка
+login-list-item-subtitle-new-login = Унесите податке за пријаву
 login-list-item-subtitle-missing-username = (без корисничког имена)
 about-logins-list-item-breach-icon =
     .title = Веб страница на којој долази до цурења података
@@ -75,7 +75,7 @@ about-logins-list-item-vulnerable-password-icon =
 
 ## Introduction screen
 
-login-intro-heading = Тражите сачуване пријаве? Подесите { -sync-brand-short-name }.
+login-intro-heading = Тражите сачуване лозинке? Подесите { -sync-brand-short-name(case: "acc") }.
 about-logins-login-intro-heading-logged-out = Тражите сачуване пријаве? Подесите { -sync-brand-short-name } или их увезите.
 about-logins-login-intro-heading-logged-in = Нису пронађене синхронизоване пријаве.
 login-intro-description = Уколико сте пријаве сачували у програму { -brand-product-name } на неком другом уређају, следите ове кораке:
