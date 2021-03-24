@@ -6,7 +6,13 @@
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } користи неважећи безбедносни сертификат.
 cert-error-mitm-intro = Веб странице доказују свој идентитет путем сертификата које издају сертификациона тела.
-cert-error-mitm-mozilla = { -brand-short-name } је подржан од непрофитне организације Mozilla, која управља потпуно отвореном продавницом сертификационих тела (СТ). Продавница осигурава да се сертификациона тела придржавају најбољих сигурносних пракси.
+cert-error-mitm-mozilla =
+    Иза { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "gen") }
+        [feminine] { -brand-short-name(case: "gen") }
+        [neuter] { -brand-short-name(case: "gen") }
+       *[other] програма { -brand-short-name }
+    } стоји непрофитна организација Mozilla, која управља отвореним складиштем сертификационих тела (CA). Ово складиште осигурава да се сертификациона тела придржавају најбољих безбедносних процедура.
 cert-error-mitm-connection = { -brand-short-name } користи Mozilla CA складиште како би се проверила безбедност везе, а не сертификате које је испоручио оперативни систем корисника. Ако антивирусни програм или мрежа пресрећу везу са безбедносним сертификатом ког је издао CA који није у Mozilla CA складишту, веза се сматра небезбедном.
 cert-error-trust-unknown-issuer-intro = Неко можда покушава да лажира сајт и не би требало да наставите.
 # Variables:
