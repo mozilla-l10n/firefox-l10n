@@ -250,6 +250,21 @@ about-logins-import-dialog-error-title = దిగుమతి లోపం
 about-logins-import-dialog-error-learn-more = ఇంకా తెలుసుకోండి
 about-logins-import-dialog-error-try-again = మళ్ళీ ప్రయత్నించండి…
 about-logins-import-dialog-error-cancel = రద్దుచేయి
+about-logins-import-report-title = దిగుమతి సారాంశం
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = అడ్డువరుస{ $number }
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
 
 ## Logins import report page
 

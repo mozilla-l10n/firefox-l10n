@@ -116,6 +116,9 @@ cfr-whatsnew-lockwise-take-link-text = అనువర్తనాన్ని �
 
 cfr-whatsnew-searchbar-title = తక్కువ టైప్ చేయండి, చిరునామా పట్టీతో ఎక్కువ కనుగొనండి
 cfr-whatsnew-searchbar-body-topsites = ఇప్పుడు, కేవలం చిరునామా పట్టీని ఎంచుకోండి, మీ మేటి సైట్లతో ఒక పెట్టె తెరుచుకుంటుంది.
+
+## Search bar
+
 cfr-whatsnew-searchbar-icon-alt-text = భూతద్దపు ప్రతీకం
 
 ## Picture-in-Picture
@@ -194,8 +197,6 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = అన్నింటినీ చూడండి
     .accesskey = S
-cfr-doorhanger-milestone-close-button = మూసివేయి
-    .accesskey = C
 
 ## What’s New Panel Content for Firefox 76
 
@@ -215,6 +216,12 @@ cfr-whatsnew-passwords-icon-alt = బలహీన సంకేతపదపు �
 
 ## Protections Dashboard message
 
+cfr-doorhanger-milestone-close-button = మూసివేయి
+    .accesskey = C
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
+
 cfr-whatsnew-protections-header = ఒక్కచూపులో సంరక్షణలు
 cfr-whatsnew-protections-cta-link = సంరక్షణల డాష్‌బోర్డ్ చూడండి
 
@@ -226,6 +233,8 @@ cfr-whatsnew-better-pdf-header = మెరుగైన PDF అనుభవం
 
 cfr-doorhanger-doh-header = మరింత సురక్షితం, ఎన్‌క్రిప్ట్ అయిన DNS శోధనలు
 cfr-doorhanger-doh-primary-button = సరే, అర్థమయ్యింది
+    .accesskey = O
+cfr-doorhanger-doh-primary-button-2 = సరే
     .accesskey = O
 cfr-doorhanger-doh-secondary-button = అచేతనించు
     .accesskey = D
@@ -247,4 +256,13 @@ cfr-whatsnew-media-keys-header = మరిన్ని మాధ్యమ ని
 cfr-whatsnew-media-keys-button = ఎలానో తెలుసుకోండి
 
 ## What's new: Search shortcuts
+
+
+## What's new: Cookies protection
+
+
+## What's new: Better bookmarking
+
+
+## What's new: Cross-site cookie tracking
 
