@@ -24,4 +24,6 @@
 
 <!-- Reflow Event Debugging -->
 <!ENTITY debugReflowEvents.label                 "Přeformátovat události">
-<!ENTITY debugReflowShowFrameCounts.label        "Zobrazit počty snímků">
+<!ENTITY debugReflowShowFrameCounts.label        "Zobrazit započtené snímky">
+<!ENTITY debugReflowDumpFrameCounts.label        "Dump započtených snímků">
+<!ENTITY debugReflowDumpFrameByFrameCounts.label "Dump snímek po snímku">
