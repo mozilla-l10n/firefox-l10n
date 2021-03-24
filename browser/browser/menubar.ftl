@@ -252,9 +252,9 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Aanmelden bij { -brand-product-name }…
     .accesskey = m
-menu-tools-extensions =
-    .label = Extensies en Thema’s
-    .accesskey = E
+menu-tools-addons-and-themes =
+    .label = Add-ons en thema’s
+    .accesskey = A
 menu-tools-fxa-sign-in2 =
     .label = Aanmelden
     .accesskey = m
@@ -270,12 +270,25 @@ menu-tools-fxa-re-auth =
 menu-tools-web-developer =
     .label = Webontwikkelaar
     .accesskey = W
+menu-tools-browser-tools =
+    .label = Browserhulpmidelen
+    .accesskey = B
+menu-tools-task-manager =
+    .label = Taakbeheerder
+    .accesskey = b
 menu-tools-page-source =
     .label = Paginabron
     .accesskey = b
 menu-tools-page-info =
     .label = Pagina-info
     .accesskey = i
+menu-settings =
+    .label = Instellingen
+    .accesskey =
+        { PLATFORM() ->
+            [windows] I
+           *[other] n
+        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -286,13 +299,6 @@ menu-preferences =
         { PLATFORM() ->
             [windows] O
            *[other] V
-        }
-menu-settings =
-    .label = Instellingen
-    .accesskey =
-        { PLATFORM() ->
-            [windows] I
-           *[other] n
         }
 menu-tools-layout-debugger =
     .label = Lay-out-debugger
@@ -306,15 +312,6 @@ menu-window-bring-all-to-front =
     .label = Alles naar voren brengen
 
 ## Help Menu
-
-
-# NOTE: For Engineers, any additions or changes to Help menu strings should
-# also be reflected in the related strings in appmenu.ftl. Those strings, by
-# convention, will have the same ID as these, but prefixed with "app".
-# Example: appmenu-help-product
-#
-# These strings are duplicated to allow for different casing depending on
-# where the strings appear.
 
 
 # NOTE: For Engineers, any additions or changes to Help menu strings should
@@ -346,11 +343,11 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = Probleemoplossingsinformatie
     .accesskey = P
+menu-help-taskmanager =
+    .label = Taakbeheerder
 menu-help-more-troubleshooting-info =
     .label = Meer probleemoplossingsinformatie
     .accesskey = p
-menu-help-taskmanager =
-    .label = Taakbeheerder
 menu-help-report-site-issue =
     .label = Websiteprobleem melden…
 menu-help-feedback-page =
@@ -362,9 +359,9 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Herstarten met ingeschakelde add-ons
     .accesskey = r
-menu-help-enter-troubleshoot-mode =
-    .label = Probleemoplossingsmodus
-    .accesskey = m
+menu-help-enter-troubleshoot-mode2 =
+    .label = Probleemoplossingsmodus…
+    .accesskey = u
 menu-help-exit-troubleshoot-mode =
     .label = Probleemoplossingsmodus uitschakelen
     .accesskey = m
@@ -376,6 +373,3 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = Dit is geen misleidende website…
     .accesskey = m
-menu-help-check-for-update =
-    .label = Controleren op updates…
-    .accesskey = C
