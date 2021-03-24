@@ -45,12 +45,12 @@ login-list =
     .aria-label = Пронађене лозинке
 login-list-count =
     { $count ->
-        [one] { $count } пријава
-        [few] { $count } пријаве
-       *[other] { $count } пријава
+        [one] { $count } лозинка
+        [few] { $count } лозинке
+       *[other] { $count } лозинки
     }
 login-list-sort-label-text = Поређај по:
-login-list-name-option = Назив (А-Ш)
+login-list-name-option = Називу (A–Z)
 login-list-name-reverse-option = Назив (А-Ш)
 about-logins-login-list-alerts-option = Упозорења
 login-list-last-changed-option = Последња измена
