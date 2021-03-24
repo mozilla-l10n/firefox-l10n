@@ -53,6 +53,8 @@ urlbar-identity-button =
 
 urlbar-services-notification-anchor =
     .tooltiptext = Кушодани лавҳаи иттилоотӣ оид ба насбкунӣ
+urlbar-web-notification-anchor =
+    .tooltiptext = Иваз кардани имконияти қабули огоҳиҳо аз ин сомона
 urlbar-midi-notification-anchor =
     .tooltiptext = Кушодани лавҳаи MIDI
 urlbar-eme-notification-anchor =
