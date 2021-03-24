@@ -21,6 +21,7 @@
 
 <!ENTITY clearDataSettings.label          "Als ik &brandShortName; vraag mijn privégegevens te wissen, moet het volgende worden verwijderd:">
 
+<!ENTITY clearData.label "Deze items in uw privégegevens wissen:">
 <!ENTITY clearData.cpd.label "Handmatig">
 <!ENTITY clearData.onShutdown.label "Bij afsluiten">
 
