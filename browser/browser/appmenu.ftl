@@ -7,6 +7,12 @@
 
 appmenuitem-update-banner =
     .label-update-downloading = Bajar actualización de { -brand-shorter-name }
+appmenuitem-update-banner2 =
+    .label-update-downloading = Bajar actualización de { -brand-shorter-name }
+    .label-update-available = Actualización disponible — bajar ahora
+    .label-update-manual = Actualización disponible — bajar ahora
+    .label-update-unsupported = No se pudo actualizar
+    .label-update-restart = Actualización disponible — reiniciar ahora
 appmenuitem-protection-dashboard-title = Panel de protecciones
 appmenuitem-customize-mode =
     .label = Personalizar…
@@ -21,6 +27,8 @@ appmenuitem-passwords =
     .label = Contraseñas
 appmenuitem-extensions-and-themes =
     .label = Extensiones y temas
+appmenuitem-addons-and-themes =
+    .label = Complementos y temas
 appmenuitem-find-in-page =
     .label = Buscar en la página…
 appmenuitem-more-tools =
@@ -161,6 +169,9 @@ appmenu-help-safe-mode-with-addons =
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-enter-troubleshoot-mode2 =
+    .label = Modo de resolución de problemas…
+    .accesskey = M
 appmenu-help-exit-troubleshoot-mode =
     .label = Desactivar modo de resolución de problemas
     .accesskey = M

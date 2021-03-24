@@ -252,9 +252,9 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Conectarse a { -brand-product-name }…
     .accesskey = g
-menu-tools-extensions =
-    .label = Extensiones y temas
-    .accesskey = E
+menu-tools-addons-and-themes =
+    .label = Complementos y temas
+    .accesskey = A
 menu-tools-fxa-sign-in2 =
     .label = Conectarse
     .accesskey = g
@@ -270,12 +270,25 @@ menu-tools-fxa-re-auth =
 menu-tools-web-developer =
     .label = Desarrollador web
     .accesskey = w
+menu-tools-browser-tools =
+    .label = Herramientas del navegador
+    .accesskey = B
+menu-tools-task-manager =
+    .label = Administrador de tareas
+    .accesskey = M
 menu-tools-page-source =
     .label = Código fuente de la página
     .accesskey = o
 menu-tools-page-info =
     .label = Información de la página
     .accesskey = I
+menu-settings =
+    .label = Ajustes
+    .accesskey =
+        { PLATFORM() ->
+            [windows] S
+           *[other] n
+        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -285,13 +298,6 @@ menu-preferences =
     .accesskey =
         { PLATFORM() ->
             [windows] O
-           *[other] n
-        }
-menu-settings =
-    .label = Ajustes
-    .accesskey =
-        { PLATFORM() ->
-            [windows] S
            *[other] n
         }
 menu-tools-layout-debugger =
@@ -337,11 +343,11 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = Información para resolver problemas
     .accesskey = T
+menu-help-taskmanager =
+    .label = Administrador de tareas
 menu-help-more-troubleshooting-info =
     .label = Más información para resolver problemas
     .accesskey = T
-menu-help-taskmanager =
-    .label = Administrador de tareas
 menu-help-report-site-issue =
     .label = Reportar problema con el sitio…
 menu-help-feedback-page =
@@ -353,8 +359,8 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Reiniciar con los complementos habilitados…
     .accesskey = R
-menu-help-enter-troubleshoot-mode =
-    .label = Modo de resolución de problemas
+menu-help-enter-troubleshoot-mode2 =
+    .label = Modo de resolución de problemas…
     .accesskey = M
 menu-help-exit-troubleshoot-mode =
     .label = Desactivar modo de resolución de problemas
