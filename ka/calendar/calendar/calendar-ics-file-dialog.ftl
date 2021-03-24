@@ -14,6 +14,20 @@ calendar-ics-file-dialog-message-2 = ფაილიდან გადმოტ
 calendar-ics-file-dialog-calendar-menu-label = კალენდარში გადმოტანა:
 calendar-ics-file-dialog-items-loading-message =
     .value = იტვირთება ჩანაწერები…
+calendar-ics-file-dialog-search-input =
+    .placeholder = ჩანაწერების გამორჩევა…
+calendar-ics-file-dialog-sort-start-ascending =
+    .label = დალაგება საწყისი თარიღით (პირველიდან ბოლოსკენ)
+calendar-ics-file-dialog-sort-start-descending =
+    .label = დალაგება საწყისი თარიღით (ბოლოდან პირველისკენ)
+# "A > Z" is used as a concise way to say "alphabetical order".
+# You may replace it with something appropriate to your language.
+calendar-ics-file-dialog-sort-title-ascending =
+    .label = დალაგება სათაურით (ანბანურად)
+# "Z > A" is used as a concise way to say "reverse alphabetical order".
+# You may replace it with something appropriate to your language.
+calendar-ics-file-dialog-sort-title-descending =
+    .label = დალაგება სათაურით (უკუანბანურად)
 calendar-ics-file-dialog-progress-message = გადმოტანა…
 calendar-ics-file-import-success = წარმატებითაა გადმოტანილი!
 calendar-ics-file-import-error = მოხდა შეცდომა და გადმოტანა ვერ მოხერხდა.
