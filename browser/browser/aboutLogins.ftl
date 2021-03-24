@@ -203,16 +203,26 @@ about-logins-confirm-remove-all-dialog-title =
     }
 about-logins-confirm-remove-all-dialog-message =
     { $count ->
-        [1] Ово ће уклонити пријаву коју сте сачували у { -brand-short-name }-у и било које упозорење о цурењу података које се појављује овде. Ову радњу није могуће поништити.
-        [one] Ово ће уклонити пријаву коју сте сачували у { -brand-short-name }-у и било које упозорење о цурењу података које се појављује овде. Ову радњу није могуће поништити.
-        [few] Ово ће уклонити пријаве које сте сачували у { -brand-short-name }-у и било које упозорење о цурењу података које се појављује овде. Ову радњу није могуће поништити.
-       *[other] Ово ће уклонити пријава које сте сачували у { -brand-short-name }-у и било које упозорење о цурењу података које се појављује овде. Ову радњу није могуће поништити.
-    }
+        [1]
+            Овим ћете уклонити лозинку коју сте сачували у { -brand-short-name.gender ->
+                [masculine] { -brand-short-name(case: "loc") }
+                [feminine] { -brand-short-name(case: "loc") }
+                [neuter] { -brand-short-name(case: "loc") }
+               *[other] програму { -brand-short-name }
+            }
+       *[other]
+            Овим ћете уклонити лозинке коју сте сачували у { -brand-short-name.gender ->
+                [masculine] { -brand-short-name(case: "loc") }
+                [feminine] { -brand-short-name(case: "loc") }
+                [neuter] { -brand-short-name(case: "loc") }
+               *[other] програму { -brand-short-name }
+            }
+    }, као и упозорења о цурењу података која се појављују овде. Ова радња се не може опозвати.
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
-        [one] Уклонити { $count } пријаву на свим уређајима?
-        [few] Уклонити { $count } пријаве на свим уређајима?
-       *[other] Уклонити { $count } пријава на свим уређајима?
+        [one] Уклонити { $count } лозинку са свих уређаја?
+        [few] Уклонити { $count } лозинке са свих уређаја?
+       *[other] Уклонити { $count } лозинки са свих уређаја?
     }
 about-logins-confirm-remove-all-sync-dialog-message =
     { $count ->
@@ -245,7 +255,7 @@ about-logins-confirm-remove-all-sync-dialog-message =
                *[other] програму { -brand-short-name }
             } на свим уређајима синхронизованим са { -fxaccount-brand-name(case: "ins") }, као и упозорења о цурењу података која се појављују овде. Ова радња се не може опозвати.
     }
-about-logins-confirm-export-dialog-title = Извезите пријаве и лозинке
+about-logins-confirm-export-dialog-title = Извезите лозинке
 about-logins-confirm-export-dialog-message = Ваше лозинке ће бити сачуване као читљив текст (нпр. BadP@ssw0rd) тако да може погледати свако ко може да отвори извезену датотеку.
 about-logins-confirm-export-dialog-confirm-button = Извоз…
 about-logins-alert-import-title = Увоз је завршен
@@ -286,7 +296,7 @@ about-logins-error-message-default = Дошло је до грешке прил�
 ## Login Export Dialog
 
 # Title of the file picker dialog
-about-logins-export-file-picker-title = Извези датотеке пријаве
+about-logins-export-file-picker-title = Извоз датотеке са лозинкама
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = logins.csv
@@ -302,7 +312,7 @@ about-logins-export-file-picker-csv-filter-title =
 ## Login Import Dialog
 
 # Title of the file picker dialog
-about-logins-import-file-picker-title = Увези пријавну датотеку
+about-logins-import-file-picker-title = Увоз датотеке са лозинкама
 about-logins-import-file-picker-import-button = Увези
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
