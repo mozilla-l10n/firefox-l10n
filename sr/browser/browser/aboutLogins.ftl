@@ -77,8 +77,14 @@ about-logins-list-item-vulnerable-password-icon =
 
 login-intro-heading = Тражите сачуване лозинке? Подесите { -sync-brand-short-name(case: "acc") }.
 about-logins-login-intro-heading-logged-out = Тражите сачуване лозинке? Увезите их или подесите { -sync-brand-short-name(case: "acc") }.
-about-logins-login-intro-heading-logged-in = Нису пронађене синхронизоване пријаве.
-login-intro-description = Уколико сте пријаве сачували у програму { -brand-product-name } на неком другом уређају, следите ове кораке:
+about-logins-login-intro-heading-logged-in = Синхронизоване лозинке нису пронађене.
+login-intro-description =
+    Ако сте сачували лозинке у { -brand-product-name.gender ->
+        [masculine] { -brand-product-name(case: "loc") }
+        [feminine] { -brand-product-name(case: "loc") }
+        [neuter] { -brand-product-name(case: "loc") }
+       *[other] програму { -brand-product-name }
+    }на другом уређају, ево како их можете преузети овде:
 login-intro-instruction-fxa = Региструјте се или се пријавите на { -fxaccount-brand-name(case: "acc") } на уређају на ком сте сачували лозинке
 login-intro-instruction-fxa-settings = Уверите се да сте штиклирали „Пријаве“ { -sync-brand-short-name } подешавањима
 about-logins-intro-instruction-help = Посетите <a data-l10n-name="help-link">страницу подршке за { -lockwise-brand-short-name }</a>
