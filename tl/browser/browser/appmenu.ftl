@@ -58,6 +58,8 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-title =
     .value = { -profiler-brand-name }
 profiler-popup-learn-more = Alamin
+profiler-popup-settings =
+    .value = Mga Setting
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
@@ -77,6 +79,9 @@ profiler-popup-capture-shortcut =
 appmenu-about =
     .label = Tungkol sa { -brand-shorter-name }
     .accesskey = A
+appmenu-get-help =
+    .label = Humingi ng Tulong
+    .accesskey = H
 appmenu-help-troubleshooting-info =
     .label = Impormasyon para sa Troubleshooting
     .accesskey = T
