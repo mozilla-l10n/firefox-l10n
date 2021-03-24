@@ -43,6 +43,10 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = კარგი, გასაგებია
     .buttonaccesskey = გ
 appmenu-addon-post-install-message = მართეთ თქვენი დამატებები <image data-l10n-name='addon-install-icon'></image> ხატულაზე დაწკაპებით, <image data-l10n-name='addon-menu-icon'></image> მენიუში.
+appmenu-addon-private-browsing-installed2 =
+    .buttonlabel = კარგი
+    .buttonaccesskey = კ
+appmenu-addon-post-install-message2 = მართეთ თქვენი გაფართოებები და თემები პროგრამის მენიუდან.
 appmenu-addon-post-install-incognito-checkbox =
     .label = დაშვება ამ გაფართოების, პირად ფანჯრებში
     .accesskey = დ

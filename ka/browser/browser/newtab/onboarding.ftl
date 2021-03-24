@@ -173,6 +173,15 @@ onboarding-multistage-set-default-subtitle = სიჩქარე, უსაფ
 onboarding-multistage-set-default-primary-button-label = ნაგულისხმევად დაყენება
 onboarding-multistage-set-default-secondary-button-label = ახლა არა
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-pin-default-header = გამოიყენეთ ხოლმე <span data-l10n-name="zap">{ -brand-short-name }</span> ერთი წკაპით
+onboarding-multistage-pin-default-subtitle = სწრაფი, უსაფრთხო და პირადული მოგზაურობა ვებსივრცეში.
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-waiting-subtitle = ბრაუზერებში აირჩიეთ { -brand-short-name }, პარამეტრების გახსნისას
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-help-text = შედეგად, { -brand-short-name } მიმაგრდება ამოცანათა ზოლზე და გაიხსნება პარამეტრები
+onboarding-multistage-pin-default-primary-button-label = გახდეს { -brand-short-name } ჩემი ძირითადი ბრაუზერი
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = გადმოწერეთ თქვენი პაროლები, სანიშნები და <span data-l10n-name="zap">სხვა</span>
 onboarding-multistage-import-subtitle = სხვა ბრაუზერიდან მოდიხართ? მარტივად გადმოიტანს ყველაფერს { -brand-short-name }.

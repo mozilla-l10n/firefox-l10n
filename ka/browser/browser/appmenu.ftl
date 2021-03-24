@@ -7,6 +7,12 @@
 
 appmenuitem-update-banner =
     .label-update-downloading = { -brand-shorter-name } განახლების ჩამოტვირთვა
+appmenuitem-update-banner2 =
+    .label-update-downloading = ჩამოიტვირთება ახალი { -brand-shorter-name }
+    .label-update-available = განახლება ხელმისაწვდომია — ახლავე ჩამოტვირთვა
+    .label-update-manual = განახლება ხელმისაწვდომია — ახლავე ჩამოტვირთვა
+    .label-update-unsupported = განახლება ვერ ხერხდება
+    .label-update-restart = განახლება ხელმისაწვდომია — ახლავე გადატვირთვა
 appmenuitem-protection-dashboard-title = დაცვის მაჩვენებლები
 appmenuitem-customize-mode =
     .label = მორგება…
@@ -21,6 +27,8 @@ appmenuitem-passwords =
     .label = პაროლები
 appmenuitem-extensions-and-themes =
     .label = გაფართოებები და თემები
+appmenuitem-addons-and-themes =
+    .label = დამატებები და თემები
 appmenuitem-find-in-page =
     .label = პოვნა გვერდზე...
 appmenuitem-more-tools =
@@ -142,7 +150,7 @@ appmenu-help-troubleshooting-info =
 appmenu-help-taskmanager =
     .label = ამოცანათა მმართველი
 appmenu-help-more-troubleshooting-info =
-    .label = ხარვეზის აღმოფხვრის ვრცელი მონაცემები
+    .label = მონაცემები ხარვეზის აღმოსაფხვრელად
     .accesskey = ფ
 appmenu-help-report-site-issue =
     .label = საიტის ხარვეზის მოხსენება…
@@ -163,6 +171,9 @@ appmenu-help-safe-mode-with-addons =
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-enter-troubleshoot-mode2 =
+    .label = ხარვეზის აღმოფხვრის რეჟიმი…
+    .accesskey = ხ
 appmenu-help-exit-troubleshoot-mode =
     .label = ხარვეზის აღმოფხვრის რეჟიმის გამორთვა
     .accesskey = ჟ
