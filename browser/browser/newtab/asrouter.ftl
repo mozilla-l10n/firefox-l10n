@@ -235,7 +235,7 @@ cfr-doorhanger-milestone-ok-button = Погледај све
 ## Lockwise message
 
 cfr-whatsnew-lockwise-header = Лако правите сигурне лозинке
-cfr-whatsnew-lockwise-body = Није лако смислити јединствене и сигурне лозинке за сваки налог. Када правите лозинку, изаберите одговарајуће поље да бисте добили сигурну лозинку, коју смишља { -brand-shorter-name }.
+cfr-whatsnew-lockwise-body = Није лако смислити јединствене и безбедне лозинке за сваки налог. Зато препустите то { -brand-shorter-name(case: "loc") }; генерисаће се безбедна лозинка када изаберете поље за унос лозинке.
 cfr-whatsnew-lockwise-icon-alt = { -lockwise-brand-short-name } иконица
 
 ## Vulnerable Passwords message
