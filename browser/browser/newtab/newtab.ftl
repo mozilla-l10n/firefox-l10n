@@ -49,9 +49,9 @@ newtab-topsites-image-validation = Нисам успео да учитам сл�
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Откажи
-newtab-topsites-delete-history-button = Уклони из историјата
+newtab-topsites-delete-history-button = Избриши из историје
 newtab-topsites-save-button = Сачувај
-newtab-topsites-preview-button = Преглед
+newtab-topsites-preview-button = Прегледај
 newtab-topsites-add-button = Додај
 
 ## Top Sites - Delete history confirmation dialog.
@@ -93,7 +93,7 @@ newtab-menu-open-new-private-window = Отвори у новом приватн�
 newtab-menu-dismiss = Уклони
 newtab-menu-pin = Закачи
 newtab-menu-unpin = Откачи
-newtab-menu-delete-history = Уклони из историјата
+newtab-menu-delete-history = Избриши из историје
 newtab-menu-save-to-pocket = Сачувај у { -pocket-brand-name(case: "loc") }
 newtab-menu-delete-pocket = Избриши из { -pocket-brand-name(case: "gen") }
 newtab-menu-archive-pocket = Архивирај у { -pocket-brand-name(case: "loc") }
@@ -109,12 +109,12 @@ newtab-privacy-modal-paragraph-2 =
     пажљиво проверен садржаје одабраних спонзора. Будите сигурни, <strong>ваши подаци претраживања
     никада не остављају вашу личну { -brand-product-name } копију</strong> — ми их не видимо,
     као ни наши спонзори.
-newtab-privacy-modal-link = Сазнајте како ради приватност на новом језичку
+newtab-privacy-modal-link = Сазнајте више о приватности на новој картици
 
 ##
 
 # Bookmark is a noun in this case, "Remove bookmark".
-newtab-menu-remove-bookmark = Уклони забелешку
+newtab-menu-remove-bookmark = Уклони обележивач
 # Bookmark is a verb here.
 newtab-menu-bookmark = Забележи
 
@@ -142,7 +142,7 @@ newtab-menu-open-file = Отвори датотеку
 
 newtab-label-visited = Посећено
 newtab-label-bookmarked = Забележено
-newtab-label-removed-bookmark = Забелешка је уклоњена
+newtab-label-removed-bookmark = Обележивач је уклоњен
 newtab-label-recommended = У тренду
 newtab-label-saved = Сачувано у { -pocket-brand-name(case: "loc") }
 newtab-label-download = Преузето
@@ -178,7 +178,7 @@ newtab-section-expand-section-label =
 
 ## Section Headers.
 
-newtab-section-header-topsites = Омиљени сајтови
+newtab-section-header-topsites = Популарни сајтови
 newtab-section-header-highlights = Истакнуто
 newtab-section-header-recent-activity = Недавна активност
 # Variables:

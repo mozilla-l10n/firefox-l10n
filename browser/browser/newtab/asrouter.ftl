@@ -263,24 +263,26 @@ cfr-whatsnew-protections-icon-alt = Икона штита
 
 ## Better PDF message
 
-cfr-whatsnew-better-pdf-header = Боље PDF искуство
+cfr-whatsnew-better-pdf-header = Побољшан рад са PDF документима
 cfr-whatsnew-better-pdf-body = PDF документи се сада отварају директно у { -brand-short-name }-у, олакшавајући ток рада.
 
 ## DOH Message
 
-cfr-doorhanger-doh-body = Ваша приватност је битна. { -brand-short-name } сада безбедно усмерава ваше DNS захтеве, кад год је то могуће, до партнерског сервиса како би вас заштитио док прегледате.
+cfr-doorhanger-doh-body = Ваша приватност је важна. Из безбедносних разлога { -brand-short-name }, када је то могуће, безбедно усмерава ваше DNS захтеве на партнерску услугу.
 cfr-doorhanger-doh-header = Још сигурнији, шифровани DNS упити
-cfr-doorhanger-doh-primary-button = У реду, разумем
-    .accesskey = O
+cfr-doorhanger-doh-primary-button = Разумем
+    .accesskey = Р
+cfr-doorhanger-doh-primary-button-2 = У реду
+    .accesskey = У
 cfr-doorhanger-doh-secondary-button = Онемогући
-    .accesskey = D
+    .accesskey = О
 
 ## Fission Experiment Message
 
 cfr-doorhanger-fission-body-approved = Ваша приватност је битна. { -brand-short-name } сада изолује веб странице, што хакерима отежава крађу лозинки, бројева кредитних картица и других осетљивих података.
 cfr-doorhanger-fission-header = Изолација сајта
-cfr-doorhanger-fission-primary-button = У реду, разумем
-    .accesskey = O
+cfr-doorhanger-fission-primary-button = Разумем
+    .accesskey = Р
 cfr-doorhanger-fission-secondary-button = Сазнајте више
     .accesskey = L
 
@@ -288,7 +290,7 @@ cfr-doorhanger-fission-secondary-button = Сазнајте више
 
 cfr-whatsnew-clear-cookies-header = Аутоматска заштита од подмуклих тактика праћења
 cfr-whatsnew-clear-cookies-body = Неки пратиоци вас преусмеравају на друге странице које тајно постављају колачиће. { -brand-short-name } сада аутоматски брише ове колачиће тако да вас не прате.
-cfr-whatsnew-clear-cookies-image-alt = Колачић је блокирао илустрацију
+cfr-whatsnew-clear-cookies-image-alt = Илустрација блокираног колачића
 
 ## What's new: Media controls message
 
@@ -298,20 +300,20 @@ cfr-whatsnew-media-keys-button = Сазнајте како
 
 ## What's new: Search shortcuts
 
-cfr-whatsnew-search-shortcuts-header = Пречице за претраживање у адресној траци
+cfr-whatsnew-search-shortcuts-header = Пречице за претрагу у траци за адресу
 cfr-whatsnew-search-shortcuts-body = Сада кад у адресну траку укуцате неки претраживач или одређени сајт, појавиће се плава пречица у предлозима за претраживање испод. Изаберите ту пречицу за довршавање претраживања дирекнто у адресној траци.
 
 ## What's new: Cookies protection
 
 cfr-whatsnew-supercookies-header = Заштита од злонамерних супер колачића
-cfr-whatsnew-supercookies-body = Сајтови могу да тајно поставе тзв. супер колачиће у ваш прегледач, преко којих могу пратити вашу активност на интернету чак и након брисања колачића. { -brand-short-name } пружа снажну заштиту од супер колачића како не би пратили ваше прегледање на различитим страницама.
+cfr-whatsnew-supercookies-body = Сајтови могу да у ваш прегледач тајно уграде „суперколачић” који вас може пратити на интернету, чак и након што обришете колачиће. { -brand-short-name } пружа моћну заштиту од суперколачића, спречавајући их да прате вашу активност на различитим сајтовима.
 
 ## What's new: Better bookmarking
 
-cfr-whatsnew-bookmarking-header = Боље обележавање
-cfr-whatsnew-bookmarking-body = Праћење омиљених страница постало је лакше. { -brand-short-name } сада памти ваше омиљено место за сачуване забелешке, подразумевано приказује траку забелешки на новим језичцима и омогућава лак приступ осталим обележивачима путем фасцикле на траци са алаткама.
+cfr-whatsnew-bookmarking-header = Побољшани обележивачи
+cfr-whatsnew-bookmarking-body = Праћење омиљених страница постало је лакше. { -brand-short-name } сада памти ваше омиљено место за сачуване обележиваче, подразумевано приказује траку са обележивачима на новим картицама и омогућава лак приступ осталим обележивачима путем фасцикле на траци са алаткама.
 
 ## What's new: Cross-site cookie tracking
 
 cfr-whatsnew-cross-site-tracking-header = Свеобухватна заштита од праћења путем међустраничних колачића
-cfr-whatsnew-cross-site-tracking-body = Сада можете одабрати бољу заштиту од праћења активности колачића. { -brand-short-name } може да изолује ваше активности и податке на тренутној страници, спречавајући да се информације сачуване у прегледачу деле између различитих сајтова.
+cfr-whatsnew-cross-site-tracking-body = Сада можете да укључите побољшану заштиту од праћења помоћу колачића. { -brand-short-name } може да изолује ваше активности и податке на сајту на ком се тренутно налазите, спречавајући да се подаци сачувани у прегледачу преносе на друге сајтове.

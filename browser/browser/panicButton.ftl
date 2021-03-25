@@ -27,5 +27,5 @@ panic-button-day =
 
 panic-button-action-desc = Поступак ће:
 panic-button-delete-cookies = Избрисати недавне <strong>колачиће</strong>
-panic-button-delete-history = Избрисати недавни <strong>историјат</strong>
+panic-button-delete-history = брисање <strong>историје</strong>
 panic-button-delete-tabs-and-windows = Затворити све <strong>језичке</strong> и <strong>прозоре</strong>
