@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+experimental-features-devtools-execution-context-selector-description = تعرض هذه الميزة زرًا في سطر أوامر المِعراض يُتيح لك تغيير سياق التعبير الذي أدخلته حين يُنفّذ. طالِع <a data-l10n-name="bugzilla1">علة 1605154</a> و<a data-l10n-name="bugzilla2">علة 1605153</a> لتفاصيل أكثر.
 # Fission is the name of the feature and should not be translated.
 experimental-features-fission =
     .label = الانشطار (عزل المواقع)
