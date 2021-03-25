@@ -214,7 +214,7 @@ newtab-pocket-cta-text = Сачувајте приче које вам се св
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
-newtab-error-fallback-info = Упс, дошло је до грешке приликом учитавања овог садржаја.
+newtab-error-fallback-info = Дошло је до грешке при учитавању овог садржаја.
 newtab-error-fallback-refresh-link = Освежите страницу да покушате поново.
 
 ## Customization Menu

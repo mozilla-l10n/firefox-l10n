@@ -291,7 +291,7 @@ about-logins-vulnerable-alert-learn-more-link = Сазнајте више
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Унос { $loginTitle } са овим корисничким именом већ постоји. <a data-l10n-name="duplicate-link">Идите на постојећи унос?</a>
 # This is a generic error message.
-about-logins-error-message-default = Дошло је до грешке приликом покушаја чувања лозинке.
+about-logins-error-message-default = Дошло је до грешке при чувању лозинке.
 
 ## Login Export Dialog
 
@@ -344,27 +344,23 @@ about-logins-import-dialog-items-modified =
     }
 about-logins-import-dialog-items-no-change =
     { $count ->
-        [one] <span>Пронађен дупликат пријава:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(није увезено)</span>
-        [few] <span>Пронађена дупликата пријава:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(није увезено)</span>
-       *[other] <span>Пронађено дупликата пријава:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(није увезено)</span>
+       *[other] <span>Пронађено дупликата:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(није увезено)</span>
     }
 about-logins-import-dialog-items-error =
     { $count ->
-        [one] <span>Грешке:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(није увезено)</span>
-        [few] <span>Грешке:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(није увезено)</span>
-       *[other] <span>Грешке:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(није увезено)</span>
+       *[other] <span>Грешака:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(није увезено)</span>
     }
 about-logins-import-dialog-done = Готово
 about-logins-import-dialog-error-title = Грешка при увозу
-about-logins-import-dialog-error-conflicting-values-title = Више конфликтних вредности за једну пријаву
-about-logins-import-dialog-error-conflicting-values-description = Нпр: више корисничких имена, лозинки, адреса, и др. за једну пријаву.
+about-logins-import-dialog-error-conflicting-values-title = Више конфликтних вредности за исти запис
+about-logins-import-dialog-error-conflicting-values-description = На пример: више корисничких имена, лозинки или URL адреса за један запис.
 about-logins-import-dialog-error-file-format-title = Грешка формата датотеке
-about-logins-import-dialog-error-file-format-description = Погрешна или недостају заглавља колона. Уверите се да датотека садржи колоне за корисничко име, лозинку и адресу.
+about-logins-import-dialog-error-file-format-description = Заглавља колона су неважећа или недостају. Проверите да ли датотека садржи колоне за корисничко име, лозинку и адресу.
 about-logins-import-dialog-error-file-permission-title = Није могуће прочитати датотеку
 about-logins-import-dialog-error-file-permission-description = { -brand-short-name } нема дозволу да прочита датотеку. Покушајте да промените дозволе датотеке.
 about-logins-import-dialog-error-unable-to-read-title = Није могуће обрадити датотеку
 about-logins-import-dialog-error-unable-to-read-description = Уверите се да сте одабрали CSV или TSV датотеку.
-about-logins-import-dialog-error-no-logins-imported = Ниједна пријава није увезена
+about-logins-import-dialog-error-no-logins-imported = Ниједна лозинка није увезена
 about-logins-import-dialog-error-learn-more = Сазнајте више
 about-logins-import-dialog-error-try-again = Покушај поново…
 about-logins-import-dialog-error-cancel = Откажи
