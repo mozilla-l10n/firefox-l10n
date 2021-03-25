@@ -171,7 +171,7 @@ onboarding-multistage-welcome-secondary-button-text = Du hast ein Konto?
 onboarding-multistage-set-default-header = { -brand-short-name } als <span data-l10n-name="zap">Standard</span> festlegen
 onboarding-multistage-set-default-subtitle = Geschwindigkeit, Sicherheit und Datenschutz bei jedem Surfen.
 onboarding-multistage-set-default-primary-button-label = Als Standard festlegen
-onboarding-multistage-set-default-secondary-button-label = Nicht jetzt
+onboarding-multistage-set-default-secondary-button-label = Jetzt nicht
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Importiere deine Passwörter, Lesezeichen und <span data-l10n-name="zap">mehr</span>
