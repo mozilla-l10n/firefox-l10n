@@ -4,7 +4,7 @@
 
 screenshots-context-menu = Capturar tela
 screenshot-toolbarbutton =
-    .label = Capturar de tela
+    .label = Capturar tela
     .tooltiptext = Capturar imagem da tela
 screenshots-my-shots-button = Minhas capturas
 screenshots-instructions = Clique e arraste, ou aponte e clique, para selecionar uma região. Tecle ESC para cancelar.
