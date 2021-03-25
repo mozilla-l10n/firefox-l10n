@@ -288,6 +288,8 @@ identity-passive-loaded = Underdielen fan dizze side binne net befeilige (lykas 
 identity-active-loaded = Jo hawwe befeiliging op dizze side útskeakele.
 identity-weak-encryption = Dizze side brûkt swakke befeiliging.
 identity-insecure-login-forms = Ynfierde oanmeldingen op dizze side soene oernommen wurde kinne.
+identity-permissions =
+    .value = Tastimmingen
 identity-https-only-connection-upgraded = (opwurdearre nei HTTPS)
 identity-https-only-label = Allinnich-HTTPS-modus
 identity-https-only-dropdown-on =
@@ -299,8 +301,6 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Skeakelje Allinnich-HTTPS foar dizze website yn as jo wolle dat { -brand-short-name } wannear mooglik de ferbining opwurdearret.
 identity-https-only-info-turn-off2 = As de website net liket te wurkje, dan kinne jo probearje de Allinnich-HTTPS-modus foar dizze website út te skeakeljen en de side te fernijen mei it ûnfeilige HTTP.
 identity-https-only-info-no-upgrade = Kin HTTP-ferbining net fernije.
-identity-permissions =
-    .value = Tastimmingen
 identity-permissions-storage-access-header = Cross-sitecookies
 identity-permissions-storage-access-hint = Dizze partijen kinne wylst jo besite oan dizze website cross-sitecookies en websitegegevens brûke.
 identity-permissions-reload-hint = It is mooglik dat jo de side opnij lade moatte om de wizigingen aktyf te meitsjen.
@@ -348,8 +348,6 @@ browser-window-close-button =
 
 ## Tab actions
 
-browser-tab-audio-playing = Wurdt ôfspile
-browser-tab-audio-muted = Lûd út
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-playing2 = ÔFSPYLJE
 # This label should be written in all capital letters if your locale supports them.
@@ -358,6 +356,29 @@ browser-tab-audio-muted2 = LÛD ÚT
 browser-tab-audio-blocked = AUTOMATYSK ÔFSPYLJEN BLOKKEARRE
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = PICTURE-IN-PICTURE
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+browser-tab-mute =
+    { $count ->
+        [1] LJEPBLÊD DÔVJE
+        [one] LJEPBLÊD DÔVJE
+       *[other] { $count } LJEPBLÊDEN DÔVJE
+    }
+browser-tab-unmute =
+    { $count ->
+        [1] LJEPBLÊD DÔVJE STOPJE
+        [one] LJEPBLÊD DÔVJE STOPJE
+       *[other] { $count } LJEPBLÊDEN DÔVJE STOPJE
+    }
+browser-tab-unblock =
+    { $count ->
+        [1] LJEPBLÊD ÔFSPYLJE
+        [one] LJEPBLÊD ÔFSPYLJE
+       *[other] { $count } LJEPBLÊDEN ÔFSPYLJE
+    }
 
 ## Bookmarks toolbar items
 
@@ -550,8 +571,6 @@ crashed-subframe-submit =
 
 bookmarks-show-all-bookmarks =
     .label = Alle blêdwizers toane
-bookmarks-recent-bookmarks =
-    .value = Resint oanmakke blêdwizers
 bookmarks-manage-bookmarks =
     .label = Blêdwizers beheare
 bookmarks-recent-bookmarks-panel =
@@ -572,12 +591,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] Blêdwizersydbalke ferstopje
            *[other] Blêdwizersydbalke werjaan
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] Blêdwizerarkbalke ferstopje
-           *[other] Blêdwizerarkbalke werjaan
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -624,10 +637,6 @@ bookmarks-current-tab =
 
 library-bookmarks-menu =
     .label = Blêdwizers
-library-bookmarks-bookmark-this-page =
-    .label = Blêdwizer foar dizze side meitsje
-library-bookmarks-bookmark-edit =
-    .label = Dizze blêdwizer bewurkje
 library-recent-activity-title =
     .value = Resinte aktiviteit
 
