@@ -5,23 +5,37 @@
 <!ENTITY sanitizeDialog.title            "Privégegevens wissen">
 <!ENTITY sanitizeItems.label             "De volgende gegevens nu wissen:">
 
+<!--LOCALIZATION NOTE : Make sure to not have overlapped  accesskeys with
+    pref-privatedata.dtd. These entities are also used in the private data
+    preferences dialog.
+-->
 <!ENTITY itemHistory.label               "Navigatiegeschiedenis">
 <!ENTITY itemHistory.accesskey           "N">
+<!ENTITY itemHistoryS.accesskey          "r">
 <!ENTITY itemUrlBar.label                "Locatiebalkgeschiedenis">
 <!ENTITY itemUrlBar.accesskey            "L">
+<!ENTITY itemUrlBarS.accesskey           "t">
 <!ENTITY itemDownloads.label             "Downloadgeschiedenis">
 <!ENTITY itemDownloads.accesskey         "D">
+<!ENTITY itemDownloadsS.accesskey        "y">
 <!ENTITY itemFormSearchHistory.label     "Opgeslagen formulier- en zoekgeschiedenis">
 <!ENTITY itemFormSearchHistory.accesskey "f">
+<!ENTITY itemFormSearchHistoryS.accesskey "m">
 <!ENTITY itemCache.label                 "Buffer">
 <!ENTITY itemCache.accesskey             "B">
+<!ENTITY itemCacheS.accesskey            "e">
 <!ENTITY itemCookies.label               "Cookies">
 <!ENTITY itemCookies.accesskey           "C">
+<!ENTITY itemCookiesS.accesskey          "k">
 <!ENTITY itemOfflineApps.label           "Offlinewebsitegegevens">
 <!ENTITY itemOfflineApps.accesskey       "O">
+<!ENTITY itemOfflineAppsS.accesskey      "i">
 <!ENTITY itemPasswords.label             "Opgeslagen wachtwoorden">
 <!ENTITY itemPasswords.accesskey         "w">
+<!ENTITY itemPasswordsS.accesskey        "v">
 <!ENTITY itemSessions.label              "Geauthenticeerde sessies">
 <!ENTITY itemSessions.accesskey          "s">
+
+<!ENTITY itemSessionsS.accesskey         "u">
 
 <!ENTITY sanitizeButton.label            "Privégegevens nu wissen">
