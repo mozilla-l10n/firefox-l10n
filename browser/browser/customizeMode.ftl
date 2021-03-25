@@ -4,7 +4,7 @@
 
 customize-mode-restore-defaults =
     .label = Врати на подразумевано
-customize-mode-menu-and-toolbars-header = Превуците ваше омиљене ставке на алатну траку или у додатни мени.
+customize-mode-menu-and-toolbars-header = Превуците своје омиљене ставке на траку са алаткама или у додатни мени.
 customize-mode-overflow-list-title = Додатни мени
 customize-mode-uidensity =
     .label = Збијеност
@@ -14,7 +14,7 @@ customize-mode-lwthemes-menu-manage =
     .label = Управљај
     .accesskey = M
 customize-mode-toolbars =
-    .label = Алатне траке
+    .label = Траке са алаткама
 customize-mode-titlebar =
     .label = Насловна трака
 customize-mode-uidensity-menu-touch =
@@ -44,4 +44,4 @@ customize-mode-undo-cmd =
 customize-mode-lwthemes-my-themes =
     .value = Моје теме
 customize-mode-touchbar-cmd =
-    .label = Прилагодите додирну траку…
+    .label = Прилагоди додирну траку…

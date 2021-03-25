@@ -443,7 +443,7 @@ urlbar-placeholder-search-mode-other-tabs =
 urlbar-placeholder-with-name =
     .placeholder = Претражите помоћу услуге { $name } или унесите адресу
 urlbar-remote-control-notification-anchor =
-    .tooltiptext = Прегледач је под удаљеним управљањем
+    .tooltiptext = Прегледач је под даљинским управљањем
 urlbar-permissions-granted =
     .tooltiptext = Дали сте овој страници додатне дозволе.
 urlbar-switch-to-tab =
@@ -466,14 +466,14 @@ urlbar-pocket-button =
 # "Search", and we would like to avoid strings like "Search MSN Search".
 # Variables
 #  $engine (String): the name of a search engine
-urlbar-result-action-search-in-private-w-engine = Претражите уз { $engine } у приватном режиму
+urlbar-result-action-search-in-private-w-engine = Претражите помоћу услуге { $engine } у приватном прозору
 # Used when the private browsing engine is the same as the default engine.
 urlbar-result-action-search-in-private = Претражите у приватном режиму
 # The "with" format was chosen because the search engine name can end with
 # "Search", and we would like to avoid strings like "Search MSN Search".
 # Variables
 #  $engine (String): the name of a search engine
-urlbar-result-action-search-w-engine = Претражи са { $engine }
+urlbar-result-action-search-w-engine = Претражи помоћу услуге { $engine }
 urlbar-result-action-sponsored = Спонзорисано
 urlbar-result-action-switch-tab = Пребаци на језичак
 urlbar-result-action-visit = Посети
@@ -492,7 +492,7 @@ urlbar-result-action-before-tabtosearch-other = Притисните Tab за п
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
-urlbar-result-action-tabtosearch-web = Претражите помоћу { $engine }-а директно из адресне траке
+urlbar-result-action-tabtosearch-web = Претражите помоћу услуге { $engine } директно из траке за адресу
 # Variables
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
@@ -535,65 +535,65 @@ crashed-subframe-submit =
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
-    .label = Прикажи све забелешке
+    .label = Прикажи све обележиваче
 bookmarks-manage-bookmarks =
     .label = Управљај обележивачима
 bookmarks-recent-bookmarks-panel =
     .value = Недавни обележивачи
 bookmarks-recent-bookmarks-panel-subheader = Недавни обележивачи
 bookmarks-toolbar-chevron =
-    .tooltiptext = Прикажи још забелешки
+    .tooltiptext = Прикажи још обележивача
 bookmarks-sidebar-content =
-    .aria-label = Забелешке
+    .aria-label = Обележивачи
 bookmarks-menu-button =
-    .label = Мени са забелешкама
+    .label = Мени са обележивачима
 bookmarks-other-bookmarks-menu =
-    .label = Остале забелешке
+    .label = Други обележивачи
 bookmarks-mobile-bookmarks-menu =
-    .label = Мобилне забелешке
+    .label = Мобилни обележивачи
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
-            [true] Сакриј палету са забелешкама
-           *[other] Прикажи у бочној палети
+            [true] Сакриј панел са обележивачима
+           *[other] Прикажи панел са обележивачима
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
         { $isVisible ->
-            [true] Сакриј траку са забелешкама
-           *[other] Прикажи траку са забелешкама
+            [true] Сакриј траку са обележивачима
+           *[other] Прикажи траку са обележивачима
         }
 bookmarks-tools-toolbar-visibility-panel =
     .label =
         { $isVisible ->
-            [true] Сакриј траку са забелешкама
-           *[other] Прикажи траку са забелешкама
+            [true] Сакриј траку са обележивачима
+           *[other] Прикажи траку са обележивачима
         }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
-            [true] Уклони мени са забелешкама са алатне траке
-           *[other] Додај мени са забелешкама на траку са алатима
+            [true] Уклони засебни мени са траке с алаткама
+           *[other] Додај засебни мени на траку с алаткама
         }
 bookmarks-search =
-    .label = Претражи забелешке
+    .label = Претражи обележиваче
 bookmarks-tools =
-    .label = Алатке за забелешке
+    .label = Алатке за обележиваче
 bookmarks-bookmark-edit-panel =
-    .label = Уреди ову забелешку
+    .label = Уреди овај обележивач
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
 bookmarks-toolbar =
-    .toolbarname = Трака са забелешкама
-    .accesskey = з
-    .aria-label = Ознаке
+    .toolbarname = Трака са обележивачима
+    .accesskey = б
+    .aria-label = Обележивачи
 bookmarks-toolbar-menu =
-    .label = Трака са забелешкама
+    .label = Трака са обележивачима
 bookmarks-toolbar-placeholder =
-    .title = Забележи ставке из алатне траке
+    .title = Ставке на траци са обележивачима
 bookmarks-toolbar-placeholder-button =
-    .label = Забележи ставке из алатне траке
+    .label = Ставке на траци са обележивачима
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Обележи тренутни језичак
@@ -601,15 +601,15 @@ bookmarks-current-tab =
 ## Library Panel items
 
 library-bookmarks-menu =
-    .label = Забелешке
+    .label = Обележивачи
 library-recent-activity-title =
     .value = Недавна активност
 
 ## More items
 
 more-menu-go-offline =
-    .label = Рад ван мреже
-    .accesskey = k
+    .label = Офлајн режим
+    .accesskey = ф
 
 ## EME notification panel
 
