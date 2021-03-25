@@ -6,17 +6,17 @@
     SYSTEM "chrome://branding/locale/brand.dtd">
   %brandDTD;
 
-<!ENTITY playButton.playLabel "Пуштање">
-<!ENTITY playButton.pauseLabel "Пауза">
-<!ENTITY muteButton.muteLabel "Искљ. звук">
-<!ENTITY muteButton.unmuteLabel "Пусти тон">
-<!ENTITY fullscreenButton.enterfullscreenlabel "Користи цео екран">
+<!ENTITY playButton.playLabel "Пусти">
+<!ENTITY playButton.pauseLabel "Паузирај">
+<!ENTITY muteButton.muteLabel "Искључи звук">
+<!ENTITY muteButton.unmuteLabel "Укључи звук">
+<!ENTITY fullscreenButton.enterfullscreenlabel "Режим приказа преко целог екрана">
 <!ENTITY fullscreenButton.exitfullscreenlabel "Изађи из режима целог екрана">
 <!ENTITY castingButton.castingLabel "Пребаци на екран">
 <!ENTITY closedCaption.off "Искључено">
 <!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
      accessibility software to clarify what the slider is for. -->
-<!ENTITY volumeScrubber.label "Клизач за јачину звука">
+<!ENTITY volumeScrubber.label "Регулатор јачине звука">
 
 <!-- LOCALIZATION NOTE (pictureInPicture.label): This string is used as part of
 the Picture-in-Picture video toggle button when the mouse is hovering it. -->
@@ -25,20 +25,20 @@ the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!-- LOCALIZATION NOTE (pictureInPictureToggle.label): This string is used as the
 label for a variation of the Picture-in-Picture video toggle button when the mouse is
 hovering over the video. -->
-<!ENTITY pictureInPictureToggle.label "Гледајте у слика-у-слици">
+<!ENTITY pictureInPictureToggle.label "Гледај у режиму „Слика у слици”">
 <!-- LOCALIZATION NOTE (pictureInPictureExplainer): This string is used as part of
 a variation of the Picture-in-Picture video toggle button. When using this variation,
 this string appears below the toggle when the mouse hovers the toggle. -->
-<!ENTITY pictureInPictureExplainer "Репродукујте видео клипове у првом плану док радите у &brandShortName;">
+<!ENTITY pictureInPictureExplainer "Репродукујте видео-снимке у предњем плану док радите друге ствари у &brandShortName;-у">
 
-<!ENTITY error.aborted "Учитавање видео снимка је заустављено.">
-<!ENTITY error.network "Пуштање видео снимка је прекинуто због грешке на мрежи.">
+<!ENTITY error.aborted "Учитавање видео-снимка је заустављено.">
+<!ENTITY error.network "Репродукција видео-снимка је прекинута због грешке на мрежи.">
 <!ENTITY error.decode "Видео-снимак не може да се пусти јер је датотека оштећена.">
-<!ENTITY error.srcNotSupported "Видео формат или MIME врста није подржана.">
-<!ENTITY error.noSource2 "Нема видео снимака са подржаним форматом и MIME врстом.">
-<!ENTITY error.generic "Извођење видео снимка је прекинуто због непознате грешке.">
+<!ENTITY error.srcNotSupported "Видео-формат или MIME тип нису подржани.">
+<!ENTITY error.noSource2 "Није пронађен ниједан видео-снимак са подржаним форматом и MIME типом.">
+<!ENTITY error.generic "Репродукција видео-снимка је прекинута због непознате грешке.">
 
-<!ENTITY status.pictureInPicture "Овај видео се репродукује у режиму слика у слици.">
+<!ENTITY status.pictureInPicture "Овај видео се репродукује у режиму „Слика у слици”.">
 
 <!-- LOCALIZATION NOTE (positionAndDuration.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at

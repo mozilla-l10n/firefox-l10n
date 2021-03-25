@@ -191,6 +191,7 @@ was trying to connect. -->
 <!ENTITY blockedByPolicy.title "Блокиране странице">
 
 <!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> је највероватније безбедна веб страница, али није могуће успоставити безбедну везу са њом. Овај проблем узрокује програм <span class='mitm-name'/>, који се налази на вашем рачунару или на вашој мрежи.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Ако ваш антивирусни програм садржи функцију која скенира шифроване везе (позната под називом „веб-скенирање” или „HTTPS скенирање”), онемогућите је. Ако то не помогне, уклоните и поново инсталирате антивирусни програм.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Ако сте у корпоративној мрежи, можете се обратити свом ИТ одељењу.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Ако вам <span class='mitm-name'/> страница није позната, ово може да представља напад и не би требало да наставите на ту страницу.">
 <!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Ако вам <span class='mitm-name'/> страница није позната, ово може да представљата напад и не можете ништа учинити како бисте приступили тој страници.">
