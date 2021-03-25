@@ -846,12 +846,12 @@ history-header = التأريخ
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label = { -brand-short-name } سوف
-    .accesskey = س
+history-remember-label = اجعل { -brand-short-name }
+    .accesskey = ع
 history-remember-option-all =
     .label = يتذكر التأريخ
 history-remember-option-never =
-    .label = لن يتذكر التأريخ أبدًا
+    .label = لا يتذكر التأريخ أبدًا
 history-remember-option-custom =
     .label = يستخدم إعدادات مخصصة للتأريخ
 history-remember-description = سيتذكر { -brand-short-name } تأريخ التصفح، و التنزيلات، و الاستمارات، و البحث.
@@ -1107,7 +1107,7 @@ collection-backlogged-crash-reports-link = اطّلع على المزيد
 security-header = الأمان
 security-browsing-protection = الحماية من المحتوى المخادع و البرمجيات الخبيثة
 security-enable-safe-browsing =
-    .label = احجب المحتوي الخطير و المخادع
+    .label = احجب المحتوى الخطير و المخادع
     .accesskey = ح
 security-enable-safe-browsing-link = اطّلع على المزيد
 security-block-downloads =

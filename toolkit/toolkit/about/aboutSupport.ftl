@@ -64,6 +64,7 @@ app-basics-performance = الأداء
 app-basics-service-workers = عمّال الخدمة المسجلين
 app-basics-profiles = ملفات الإعدادات
 app-basics-multi-process-support = نوافذ متعددة السيرورات
+app-basics-fission-support = النوافذ المنشطرة
 app-basics-remote-processes-count = العمليات البعيدة
 app-basics-enterprise-policies = سياسات المؤسسات
 app-basics-location-service-key-google = مفتاح خدمة التموضع من جوجل
@@ -322,6 +323,14 @@ multi-process-status-6 = عطّله إدخال النصوص غير المدعو�
 multi-process-status-7 = عطّلته الإضافات
 multi-process-status-8 = عطّل إجبارًا
 multi-process-status-unknown = الحالة غير معروفة
+# Variables
+# $fissionWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+fission-windows = { $fissionWindows }/‏{ $totalWindows }
+fission-status-experiment-treatment = فعّلتها ميزة تجريبية
+fission-status-enabled-by-env = فعّلتها البيئة
+fission-status-enabled-by-default = مفعّلة مبدئيًا
+fission-status-enabled-by-user-pref = فعّلها المستخدم
 async-pan-zoom = التقريب غير المتزامن
 apz-none = لا شيء
 wheel-enabled = إدخال البكرة مُفعّل
@@ -341,3 +350,9 @@ touch-warning = إدخال اللمس غير المتزامن مُعطّل بس�
 policies-inactive = غير نشط
 policies-active = نشط
 policies-error = خطأ
+
+## Printing section
+
+
+## Normandy sections
+

@@ -145,6 +145,9 @@ legacy-extensions =
     .value = امتدادات عتيقة
 legacy-extensions-description = لا تحقق هذه الامتدادات معايير { -brand-short-name } الحالية، لذا عُطّلت. <label data-l10n-name="legacy-learn-more">تعرّف على التغييرات على الإضافات</label>
 private-browsing-description2 = بدأ { -brand-short-name } بتغيير كيفية عمل الامتدادات في التصفح الخاص. مبدئيًا، لن تعمل أي امتدادات جديدة تُضيفها إلى { -brand-short-name } في النوافذ الخاصة. إن لم تغيّر ذلك وتسمح به في الإعدادات فلن يعمل الامتداد وأنت في التصفح الخاص، ولن يملك حق الوصول إلى نشاطك على الوِب فيها. أجرينا هذا التغيير ليكون التصفح الخاص خاصًا بحق. <label data-l10n-name="private-browsing-learn-more">اطّلع على طريقة إدارة إعدادات الامتدادات</label>
+addon-category-discover = مُقترحة عليك
+addon-category-discover-title =
+    .title = مُقترحة عليك
 addon-category-extension = الامتدادات
 addon-category-extension-title =
     .title = الامتدادات
@@ -260,7 +263,7 @@ header-back-button =
 ## Recommended add-ons page
 
 # Notice to make user aware that the recommendations are personalized.
-discopane-notice-recommendations = بعض هذه التوصيات مخصّصة لك، إذ تعتمد على الامتدادات التي ثبّتها وتفضيلات الملف الشخصي وإحصاءات الاستخدام.
+discopane-notice-recommendations = بعض هذه المُقترحات مخصّصة لك، إذ تعتمد على الامتدادات التي ثبّتها وتفضيلات الملف الشخصي وإحصاءات الاستخدام.
 discopane-notice-learn-more = اطّلع على المزيد
 privacy-policy = سياسة الخصوصية
 # Refers to the author of an add-on, shown below the name of the add-on.
@@ -372,12 +375,6 @@ addon-detail-private-browsing-disallow = غير مسموح
 addon-badge-recommended2 =
     .title = يوصي { -brand-product-name } ويقترح فقط الامتدادات التي تلبي معاييرنا للأمان والأداء.
     .aria-label = { addon-badge-recommended2.title }
-addon-badge-line =
-    .title = صنع مطوّري { -brand-product-name } هذا الامتداد
-    .aria-label = { addon-badge-line.title }
-addon-badge-verified =
-    .title = جرت مراجعة كود هذا الامتداد لضمان أمنه
-    .aria-label = { addon-badge-verified.title }
 
 ##
 

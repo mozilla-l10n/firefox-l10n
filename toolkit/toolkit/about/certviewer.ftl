@@ -23,6 +23,7 @@ certificate-viewer-distribution-point = نقطة التوزيع
 certificate-viewer-dns-name = اسم DNS
 certificate-viewer-ip-address = عنوان IP
 certificate-viewer-other-name = الاسم الآخر
+certificate-viewer-key-size = حجم المفتاح
 certificate-viewer-name = الاسم
 certificate-viewer-not-after = ليس بعد
 certificate-viewer-not-before = ليس قبل
@@ -41,8 +42,11 @@ certificate-viewer-value = القيمة
 certificate-viewer-version = الإصدارة
 certificate-viewer-issuer-name = اسم المُصدِر
 certificate-viewer-validity = الصلاحية
+certificate-viewer-public-key-info = معلومات المفتاح العمومي
 certificate-viewer-miscellaneous = متنوّع
 certificate-viewer-fingerprints = البصمات
+certificate-viewer-basic-constraints = القيود الأساسية
+certificate-viewer-extended-key-usages = استخدامات المفاتيح الموسّعة
 # This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = نزّل
