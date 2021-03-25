@@ -363,7 +363,7 @@ browser-tab-audio-muted2 = مكتوم
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-blocked = حُجب التشغيل التلقائي
 # This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-pip = الڤديو المعترِض
+browser-tab-audio-pip = ڤديو معترِض
 
 ## These labels should be written in all capital letters if your locale supports them.
 ## Variables:
