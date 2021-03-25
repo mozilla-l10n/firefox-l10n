@@ -49,7 +49,7 @@ cert-error-expired-now = Веб странице доказују свој ид�
 cert-error-not-yet-valid-now = Веб странице доказују свој идентитет путем сертификата, који важи само за одређени временски период. Сертификат за { $hostname } ће постати важећи од { $not-before-local-time }.
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
-cert-error-code-prefix-link = Код грешке: <a data-l10n-name="error-code-link">{ $error }</a>
+cert-error-code-prefix-link = Кôд грешке: <a data-l10n-name="error-code-link">{ $error }</a>
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-symantec-distrust-description = Сајтови доказују свој идентитет путем сертификата које издају сертификациона тела. Већина прегледача више не верује сертификатима које издају GeoTrust, RapidSSL, Symantec, Thawte и VeriSign. { $hostname } користи сертификат једног од ових издаваоца, па се идентитет сајта не може доказати.
