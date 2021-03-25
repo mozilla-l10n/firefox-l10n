@@ -7,6 +7,12 @@
 
 appmenuitem-update-banner =
     .label-update-downloading = { -brand-shorter-name }-fernijing wurdt download
+appmenuitem-update-banner2 =
+    .label-update-downloading = { -brand-shorter-name }-fernijingen downloade
+    .label-update-available = Update beschikbaar – no downloade
+    .label-update-manual = Update beschikbaar – no downloade
+    .label-update-unsupported = Kin net bywurkje
+    .label-update-restart = Fernijing beskikber – no opnij starte
 appmenuitem-protection-dashboard-title = Befeiligingsdashboerd
 appmenuitem-customize-mode =
     .label = Oanpasse…
@@ -21,6 +27,8 @@ appmenuitem-passwords =
     .label = Wachtwurden
 appmenuitem-extensions-and-themes =
     .label = Utwreidingen en Tema’s
+appmenuitem-addons-and-themes =
+    .label = Add-ons en tema’s
 appmenuitem-find-in-page =
     .label = Sykje op side…
 appmenuitem-more-tools =
@@ -163,6 +171,9 @@ appmenu-help-safe-mode-with-addons =
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-enter-troubleshoot-mode2 =
+    .label = Probleemoplossingsmodus…
+    .accesskey = u
 appmenu-help-exit-troubleshoot-mode =
     .label = Probleemoplossingsmodus útskeakelje
     .accesskey = m

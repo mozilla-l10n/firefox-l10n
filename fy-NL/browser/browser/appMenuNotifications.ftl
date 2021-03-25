@@ -43,6 +43,10 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = Oké, begrepen
     .buttonaccesskey = O
 appmenu-addon-post-install-message = Behear jo add-ons troch op <image data-l10n-name='addon-install-icon'></image> yn it menu <image data-l10n-name='addon-menu-icon'></image> te klikken.
+appmenu-addon-private-browsing-installed2 =
+    .buttonlabel = Oké
+    .buttonaccesskey = O
+appmenu-addon-post-install-message2 = Behear jo útwreidingen en tema’s fia it tapassingsmenu.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Dizze útwreiding yn priveefinsters útfiere litte
     .accesskey = D
