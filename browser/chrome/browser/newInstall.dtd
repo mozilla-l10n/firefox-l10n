@@ -9,7 +9,7 @@
 
 <!ENTITY window.title "Важне вести">
 <!ENTITY window.style "width: 510px">
-<!ENTITY sync "Да бисте синхронизовали податке које сте сачували у Firefox-у са овом инсталацијом програма &brandShortName;, пријавите се на ваш &syncBrand.fxAccount.label; налог.">
+<!ENTITY sync "Пријавите се на &syncBrand.fxAccount.label; да бисте синхронизовали сачуване податке на овој инсталацији &brandShortName;-а.">
 <!ENTITY continue-button "Настави">
 
 <!ENTITY mainText "Ова инсталација програма &brandShortName; има нови профил. Не дели обележиваче, лозинке и подешавања корисника са другим инсталацијама Firefox-а (укључујући Firefox, Firefox ESR, Firefox Beta, Firefox Developer Edition и Firefox Nightly) на овом рачунару.">

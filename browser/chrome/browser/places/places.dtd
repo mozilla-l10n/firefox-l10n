@@ -8,7 +8,7 @@
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "Организовање">
 <!ENTITY organize.accesskey    "О">
-<!ENTITY organize.tooltip      "Организујте своје забелешке">
+<!ENTITY organize.tooltip      "Организујте обележиваче">
 
 <!ENTITY file.close.label               "Затвори">
 <!ENTITY file.close.accesskey           "З">
@@ -27,16 +27,16 @@
 <!ENTITY view.sortDescending.label      "Опадајући редослед">
 <!ENTITY view.sortDescending.accesskey  "О">
 
-<!ENTITY importBookmarksFromHTML.label     "Увези забелешке из HTML…">
+<!ENTITY importBookmarksFromHTML.label     "Увези обележиваче из HTML-а…">
 <!ENTITY importBookmarksFromHTML.accesskey "У">
-<!ENTITY exportBookmarksToHTML.label       "Извези забелешке у HTML…">
+<!ENTITY exportBookmarksToHTML.label       "Извези обележиваче у HTML…">
 <!ENTITY exportBookmarksToHTML.accesskey   "И">
 <!ENTITY importOtherBrowser.label          "Увези податке из другог прегледача…">
 <!ENTITY importOtherBrowser.accesskey      "в">
 
 <!ENTITY cmd.backup.label               "Архивирај…">
 <!ENTITY cmd.backup.accesskey           "А">
-<!ENTITY cmd.restore2.label             "Обнови">
+<!ENTITY cmd.restore2.label             "Врати">
 <!ENTITY cmd.restore2.accesskey         "О">
 <!ENTITY cmd.restoreFromFile.label      "Избор датотеке…">
 <!ENTITY cmd.restoreFromFile.accesskey  "И">
@@ -53,11 +53,10 @@
 
 <!ENTITY maintenance.label      "Увоз и архивирање">
 <!ENTITY maintenance.accesskey  "У">
-<!ENTITY maintenance.tooltip    "Увезите своје забелешке и направите резервну копију">
+<!ENTITY maintenance.tooltip    "Увезите и направите резервну копију обележивача">
 
 <!ENTITY backButton.tooltip  "Назад">
 
 <!ENTITY forwardButton.tooltip  "Напред">
 
-<!ENTITY detailsPane.selectAnItemText.description "Изаберите ставку за преглед и уредите њена својства">
-
+<!ENTITY detailsPane.selectAnItemText.description "Изаберите ставку да бисте прегледали и уредили њена својства">
