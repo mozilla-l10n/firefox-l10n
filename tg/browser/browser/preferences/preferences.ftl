@@ -33,6 +33,8 @@ containers-disable-alert-cancel-button = Фаъолшуда нигоҳ дошт�
 
 ## General Section - Files and Applications
 
+applications-action-save =
+    .label = Нигоҳ доштани файл
 applications-open-inapp =
     .label = Кушодан дар { -brand-short-name }
 
@@ -40,6 +42,8 @@ applications-open-inapp =
 ## selected label element based on the string from
 ## the selected menu item.
 
+applications-action-save-label =
+    .value = { applications-action-save.label }
 applications-open-inapp-label =
     .value = { applications-open-inapp.label }
 
@@ -114,6 +118,13 @@ sync-currently-syncing-tabs = Варақаҳои кушодашуда
 
 ## The "Choose what to sync" dialog.
 
+sync-choose-what-to-sync-dialog =
+    .title = Интихоб кунед, ки чӣ ҳамоҳанг карда мешавад
+    .style = width: 36em; min-height: 35em;
+    .buttonlabelaccept = Нигоҳ доштани тағйирот
+    .buttonaccesskeyaccept = Н
+    .buttonlabelextra2 = Қатъ кардани пайваст…
+    .buttonaccesskeyextra2 = П
 sync-engine-bookmarks =
     .label = Хатбаракҳо
     .accesskey = Х
@@ -125,12 +136,19 @@ sync-engine-logins-passwords =
     .label = Воридшавиҳо ва ниҳонвожаҳо
     .tooltiptext = Воридшавиҳо ва ниҳонвожаҳое, ки шумо нигоҳ дошта бошед
     .accesskey = В
+sync-engine-addresses =
+    .label = Нишониҳо
+    .tooltiptext = Нишониҳои почтае, ки нигоҳ дошта шуданд (танҳо мизи корӣ)
+    .accesskey = Н
 
 ## The device name controls.
 
 sync-device-name-cancel =
     .label = Бекор кардан
     .accesskey = Б
+sync-device-name-save =
+    .label = Нигоҳ доштан
+    .accesskey = Н
 
 ## Privacy Section
 
@@ -138,6 +156,9 @@ sync-device-name-cancel =
 ## Privacy Section - Logins and Passwords
 
 forms-breach-alerts-learn-more-link = Маълумоти бештар
+forms-saved-logins =
+    .label = Воридшавиҳои нигоҳдошташуда…
+    .accesskey = В
 forms-primary-pw-learn-more-link = Маълумоти бештар
 
 ## OS Authentication dialog
@@ -215,3 +236,7 @@ httpsonly-learn-more = Маълумоти бештар
 
 ## The following strings are used in the Download section of settings
 
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = Нигоҳ доштани файлҳо ба { $service-name }

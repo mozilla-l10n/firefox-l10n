@@ -11,6 +11,12 @@ permissions-remove-all =
 permissions-button-cancel =
     .label = Бекор кардан
     .accesskey = Б
+permissions-button-ok =
+    .label = Нигоҳ доштани тағйирот
+    .accesskey = Н
+permission-dialog =
+    .buttonlabelaccept = Нигоҳ доштани тағйирот
+    .buttonaccesskeyaccept = Н
 
 ## Invalid Hostname Dialog
 
@@ -26,6 +32,10 @@ permissions-button-cancel =
 
 ## Exceptions - Saved Logins
 
+permissions-exceptions-saved-logins-window =
+    .title = Истисно - Воридшавиҳои нигоҳдошташуда
+    .style = { permissions-window.style }
+permissions-exceptions-saved-logins-desc = Воридшавиҳо барои сомонаҳои зерин нигоҳ дошта намешаванд
 
 ## Exceptions - Add-ons
 
