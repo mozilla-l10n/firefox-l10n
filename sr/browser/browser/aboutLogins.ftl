@@ -161,13 +161,7 @@ enable-password-sync-notification-message =
        *[other] Желите да приступите подацима за пријаву свуда где користите { -brand-product-name }? Отворите подешавања { -sync-brand-short-name }-а и означите поље „Подаци за пријаву”.
     }
 enable-password-sync-preferences-button =
-    .label =
-        Отвори подешавања { -brand-short-name.gender ->
-            [masculine] { -brand-short-name(case: "gen") }
-            [feminine] { -brand-short-name(case: "gen") }
-            [neuter] { -brand-short-name(case: "gen") }
-           *[other] програма { -brand-short-name }
-        }
+    .label = Отвори подешавања { -sync-brand-short-name(case: "gen") }
     .accesskey = О
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = Не питај ме поново
