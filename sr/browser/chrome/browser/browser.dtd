@@ -16,16 +16,16 @@ used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
-<!ENTITY  pinTab.label                       "Закачи језичак">
+<!ENTITY  pinTab.label                       "Закачи картицу">
 <!ENTITY  unpinTab.label                     "Откачи језичак">
 
 <!ENTITY  listAllTabs.label      "Наброј све језичке">
 
 <!ENTITY tabCmd.label "Нови језичак">
 <!ENTITY openFileCmd.label "Отвори датотеку…">
-<!ENTITY printCmd.label "Штампај…">
+<!ENTITY printCmd.label "Одштампај…">
 
-<!ENTITY taskManagerCmd.label "Управник задатака">
+<!ENTITY taskManagerCmd.label "Менаџер задатака">
 
 <!ENTITY menubarCmd.label "Трака са менијем">
 <!ENTITY menubarCmd.accesskey "Т">
@@ -33,17 +33,17 @@ can reach it easily. -->
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY navbar.accessibleLabel "Навигација">
-<!ENTITY personalbarCmd.label "Трака са забелешкама">
+<!ENTITY personalbarCmd.label "Трака са обележивачима">
 <!ENTITY personalbarCmd.accesskey "з">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
-<!ENTITY personalbar.accessibleLabel "Ознаке">
-<!ENTITY bookmarksToolbarItem.label "Забележи ставке из алатне траке">
+<!ENTITY personalbar.accessibleLabel "Обележивачи">
+<!ENTITY bookmarksToolbarItem.label "Ставке на траци са обележивачима">
 
 <!ENTITY fullScreenCmd.label "Користи цео екран">
 
-<!ENTITY pictureInPictureHideToggle.label "Сакриј преклоп слика-у-слици">
+<!ENTITY pictureInPictureHideToggle.label "Сакриј прекидач „Слика у слици”">
 <!ENTITY pictureInPictureHideToggle.accesskey "С">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
@@ -52,7 +52,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.syncSettings2.label "Подешавања &syncBrand.shortName.label;-а">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Повежи други уређај…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
-<!ENTITY fxa.menu.signin.label "Пријавите се у &brandProductName;">
+<!ENTITY fxa.menu.signin.label "Пријавите се на &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Укључите &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "&brandProductName; услуге">
 <!ENTITY fxa.menu.account.label "Налог">
@@ -64,7 +64,7 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
-<!ENTITY fxa.service.sendTab.description "У трену пошаљите језичак на било који други уређај где сте већ пријављени.">
+<!ENTITY fxa.service.sendTab.description "Одмах пошаљите картицу на било који уређај на ком сте пријављени.">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -90,12 +90,12 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY pointerlockWarning.afterDomain.label "управља са вашим показивачем. Притисните Esc да преузмете контролу.">
 <!ENTITY pointerlockWarning.generic.label "Овај документ управља са вашим показивачем. Притисните Esc да преузмете контролу.">
 
-<!ENTITY showAllBookmarks2.label "Прикажи све забелешке">
+<!ENTITY showAllBookmarks2.label "Прикажи све обележиваче">
 <!ENTITY recentBookmarks.label "Недавно забележене">
-<!ENTITY bookmarksToolbarChevron.tooltip "Прикажи још забелешки">
+<!ENTITY bookmarksToolbarChevron.tooltip "Прикажи још обележивача">
 
 <!ENTITY printButton.label            "Штампање">
-<!ENTITY printButton.tooltip          "Штампај ову страницу">
+<!ENTITY printButton.tooltip          "Одштампај ову страницу">
 
 <!ENTITY searchItem.title             "Претрага">
 
@@ -103,22 +103,22 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY homeButton.label             "Почетна">
 <!ENTITY homeButton.defaultPage.tooltip "&brandShortName; почетна страница">
 
-<!ENTITY bookmarksButton.label          "Забелешке">
+<!ENTITY bookmarksButton.label          "Обележивачи">
 
-<!ENTITY bookmarksSubview.label             "Забелешке">
-<!ENTITY bookmarksMenuButton2.label         "Мени са забелешкама">
-<!ENTITY bookmarksMenuButton.other.label    "Остале забелешке">
-<!ENTITY bookmarksMenuButton.mobile.label   "Мобилне забелешке">
+<!ENTITY bookmarksSubview.label             "Обележивачи">
+<!ENTITY bookmarksMenuButton2.label         "Мени са обележивачима">
+<!ENTITY bookmarksMenuButton.other.label    "Други обележивачи">
+<!ENTITY bookmarksMenuButton.mobile.label   "Мобилни обележивачи">
 <!ENTITY viewBookmarksSidebar2.label        "Прикажи у бочној палети">
-<!ENTITY hideBookmarksSidebar.label         "Сакриј палету са забелешкама">
-<!ENTITY viewBookmarksToolbar.label         "Прикажи траку са забелешкама">
-<!ENTITY hideBookmarksToolbar.label         "Сакриј траку са забелешкама">
-<!ENTITY searchBookmarks.label              "Претражи забелешке">
-<!ENTITY bookmarkingTools.label             "Алатке за забелешке">
-<!ENTITY addBookmarksMenu.label             "Додај мени са забелешкама на траку са алатима">
-<!ENTITY removeBookmarksMenu.label          "Уклони мени са забелешкама са алатне траке">
+<!ENTITY hideBookmarksSidebar.label         "Сакриј панел са обележивачима">
+<!ENTITY viewBookmarksToolbar.label         "Прикажи траку са обележивачима">
+<!ENTITY hideBookmarksToolbar.label         "Сакриј траку са обележивачима">
+<!ENTITY searchBookmarks.label              "Претражи обележиваче">
+<!ENTITY bookmarkingTools.label             "Алатке за обележиваче">
+<!ENTITY addBookmarksMenu.label             "Додај засебни мени на траку с алаткама">
+<!ENTITY removeBookmarksMenu.label          "Уклони засебни мени са траке с алаткама">
 
-<!ENTITY historyButton.label            "Историјат">
+<!ENTITY historyButton.label            "Историја">
 
 <!ENTITY downloads.label              "Преузимања">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
@@ -134,26 +134,26 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY editMenu.label         "Уређивање">
 <!ENTITY preferencesCmd2.label       "Подешавања">
 <!ENTITY preferencesCmdUnix.label       "Подешавања">
-<!ENTITY logins.label                           "Пријаве и лозинке">
+<!ENTITY logins.label                           "Лозинке">
 
-<!ENTITY overflowCustomizeToolbar.label       "Прилагоди алатну траку…">
+<!ENTITY overflowCustomizeToolbar.label       "Прилагоди траку са алаткама…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "г">
 
-<!ENTITY historyMenu.label "Историјат">
+<!ENTITY historyMenu.label "Историја">
 <!ENTITY historyUndoMenu.label "Недавно затворени језичци">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Недавно затворени прозори">
 
 <!ENTITY appMenuHistory.showAll.label "Прикажи целу историју">
 
-<!ENTITY appMenuHistory.clearRecent.label "Обриши историјат…">
+<!ENTITY appMenuHistory.clearRecent.label "Обриши историју…">
 <!ENTITY appMenuHistory.restoreSession.label "Врати претходну сесију">
-<!ENTITY appMenuHistory.viewSidebar.label "Прикажи палету историјата">
-<!ENTITY appMenuHistory.hideSidebar.label "Сакријте бочну траку историје">
-<!ENTITY appMenuHistory.recentHistory.label "Недавни историјат">
+<!ENTITY appMenuHistory.viewSidebar.label "Прикажи панел са историјом">
+<!ENTITY appMenuHistory.hideSidebar.label "Сакриј панел са историјом">
+<!ENTITY appMenuHistory.recentHistory.label "Недавна историја">
 <!ENTITY appMenuHelp.label "Помоћ">
 
-<!ENTITY appMenuRemoteTabs.label "Синхронизовани језичци">
+<!ENTITY appMenuRemoteTabs.label "Синхронизоване картице">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Нема отворених језичака">
@@ -175,13 +175,13 @@ this container is a toolbar. This avoids double-speaking. -->
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Желите да овде видите језичке са осталих уређаја?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Отвори подешавања Sync-а">
-<!ENTITY appMenuRemoteTabs.welcome.label "Погледајте списак језичака са ваших других уређаја.">
+<!ENTITY appMenuRemoteTabs.welcome.label "Погледајте листу картица са других уређаја.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Ваш налог мора бити потврђен.">
-<!ENTITY appMenuRemoteTabs.signintosync.label "Пријавите се у &syncBrand.shortName.label;…">
+<!ENTITY appMenuRemoteTabs.signintosync.label "Пријавите се на &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.turnonsync.label "Укључите &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Управљај уређајима…">
-<!ENTITY appMenuRemoteTabs.sidebar.label "Прикажи траку са син. језичцима">
-<!ENTITY appMenuRemoteTabs.hidesidebar.label "Сакријте бочну траку са синхронизованим језичцима">
+<!ENTITY appMenuRemoteTabs.sidebar.label "Прикажи панел са синхронизованим картицама">
+<!ENTITY appMenuRemoteTabs.hidesidebar.label "Сакријте панел са синхронизованим картицама">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Повежите други уређај">
 
 <!ENTITY appMenuRecentHighlights.label "Недавно истакнуто">
@@ -219,10 +219,10 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
-<!ENTITY saveToPocketCmd.label        "Сачувај страницу са услугом Pocket">
-<!ENTITY pocketMenuitem.label         "Погледај Pocket списак">
+<!ENTITY saveToPocketCmd.label        "Сачувај страницу у Pocket-у">
+<!ENTITY pocketMenuitem.label         "Прикажи листу у Pocket-у">
 
-<!ENTITY emailPageCmd.label           "Веза е-поште…">
+<!ENTITY emailPageCmd.label           "Пошаљи линк имејлом…">
 
 <!ENTITY fullZoom.label                 "Увећај">
 
@@ -267,14 +267,14 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY updateAvailable.panelUI.label "Ажурирај &brandShorterName;">
 <!ENTITY updateManual.panelUI.label "Преузмите &brandShorterName;">
 <!ENTITY updateUnsupported.panelUI.label "Не можете вршити додатна ажурирања">
-<!ENTITY updateRestart.panelUI.label2 "Рестартуј да се &brandShorterName; ажурира">
+<!ENTITY updateRestart.panelUI.label2 "Рестартуј &brandShorterName; ради ажурирања">
 
 <!ENTITY sendToDevice.syncNotReady.label "Синхронизујем уређаје…">
 
 <!ENTITY pageAction.shareUrl.label "Подели">
 <!ENTITY pageAction.shareMore.label "Још…">
 
-<!ENTITY libraryButton.tooltip "Погледајте историјат, сачуване забелешке и више">
+<!ENTITY libraryButton.tooltip "Погледајте историју, сачуване обележиваче и друго">
 
 <!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also

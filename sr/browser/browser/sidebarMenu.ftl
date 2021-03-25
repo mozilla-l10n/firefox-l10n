@@ -3,13 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sidebar-menu-bookmarks =
-    .label = Забелешке
-
+    .label = Обележивачи
 sidebar-menu-history =
-    .label = Историјат
-
+    .label = Историја
 sidebar-menu-synced-tabs =
-    .label = Синхронизовани језичци
-
+    .label = Синхронизоване картице
 sidebar-menu-close =
     .label = Затвори бочну палету

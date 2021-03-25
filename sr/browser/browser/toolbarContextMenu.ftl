@@ -9,68 +9,59 @@ toolbar-context-menu-reload-selected-tabs =
     .label = Поново учитај изабране језичке
     .accesskey = П
 toolbar-context-menu-bookmark-selected-tab =
-    .label = Забележи изабрани језичак…
-    .accesskey = ј
+    .label = Обележи изабрану картицу…
+    .accesskey = б
 toolbar-context-menu-bookmark-selected-tabs =
     .label = Забележи изабране језичке…
     .accesskey = ј
 toolbar-context-menu-select-all-tabs =
-    .label = Изабери све језичке
+    .label = Изабери све картице
     .accesskey = И
 toolbar-context-menu-undo-close-tabs =
     .label =
         { $tabCount ->
-            [1] Врати затворене језичке
-            [one] Врати затворен језичак
-            [few] Врати затворена језичка
-           *[other] Врати затворених језичака
+            [1] Врати затворену картицу
+            [one] Врати затворену картицу
+            [few] Врати затворене картице
+           *[other] Врати затворених картица
         }
-    .accesskey = U
+    .accesskey = р
 toolbar-context-menu-manage-extension =
-    .label = Управљај екстензијама
-    .accesskey = е
+    .label = Управљај проширењем
+    .accesskey = в
 toolbar-context-menu-remove-extension =
-    .label = Обриши екстензију
-    .accesskey = ш
+    .label = Уклони проширење
+    .accesskey = к
 # This label is used in the extensions toolbar buttons context menus,
 # a user can use this command to submit to Mozilla an abuse report
 # related to that extension. "Report" is a verb.
 toolbar-context-menu-report-extension =
     .label = Пријави проширење
-    .accesskey = о
+    .accesskey = р
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.
 toolbar-context-menu-pin-to-overflow-menu =
-    .label = Закачи за додатни мени
+    .label = Закачи на додатни мени
     .accesskey = З
 toolbar-context-menu-auto-hide-downloads-button =
-    .label = Аутоматски сакриј у алатној траци
+    .label = Аутоматски сакриј на траци са алаткама
     .accesskey = А
 toolbar-context-menu-remove-from-toolbar =
     .label = Уклони
     .accesskey = у
 toolbar-context-menu-view-customize-toolbar =
     .label = Прилагоди…
-    .accesskey = ш
-toolbar-context-menu-bookmarks-toolbar-always-show =
-    .label = Увек
-    .accesskey = A
-toolbar-context-menu-bookmarks-toolbar-never-show =
-    .label = Никад
-    .accesskey = N
-toolbar-context-menu-bookmarks-toolbar-on-new-tab =
-    .label = Само у новом језичку
-    .accesskey = O
+    .accesskey = П
 toolbar-context-menu-bookmarks-toolbar-always-show-2 =
-    .label = Увек прикажи
-    .accesskey = A
+    .label = Увек приказуј
+    .accesskey = У
 toolbar-context-menu-bookmarks-toolbar-never-show-2 =
     .label = Никад не приказуј
-    .accesskey = N
+    .accesskey = Н
 toolbar-context-menu-bookmarks-toolbar-on-new-tab-2 =
-    .label = Прикажи само у новом језичку
-    .accesskey = O
+    .label = Приказуј само на новој картици
+    .accesskey = П
 toolbar-context-menu-bookmarks-show-other-bookmarks =
     .label = Прикажи остале обележиваче
     .accesskey = h

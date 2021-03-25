@@ -3,59 +3,61 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 reload-tab =
-    .label = Обнови језичак
-    .accesskey = О
+    .label = Поново учитај картицу
+    .accesskey = у
 select-all-tabs =
-    .label = Изабери све језичке
+    .label = Изабери све картице
     .accesskey = И
 duplicate-tab =
-    .label = Удвостручи језичак
-    .accesskey = д
+    .label = Дуплирај картицу
+    .accesskey = Д
 duplicate-tabs =
-    .label = Удвостручи језичке
+    .label = Дуплирај картице
     .accesskey = д
+# The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
-    .label = Затвори језичке удесно
-    .accesskey = д
-close-other-tabs =
-    .label = Затвори остале језичке
+    .label = Затвори картице са десне стране
     .accesskey = З
+close-other-tabs =
+    .label = Затвори друге картице
+    .accesskey = д
 reload-tabs =
     .label = Поново учитај језичке
     .accesskey = П
 pin-tab =
-    .label = Закачи језичак
-    .accesskey = а
+    .label = Закачи картицу
+    .accesskey = З
 unpin-tab =
     .label = Откачи језичак
     .accesskey = т
 pin-selected-tabs =
-    .label = Закачи језичке
+    .label = Закачи картице
     .accesskey = З
 unpin-selected-tabs =
     .label = Откачи језичке
     .accesskey = О
 bookmark-selected-tabs =
-    .label = Јежичци забелешки…
-    .accesskey = ж
+    .label = Обележи картице…
+    .accesskey = б
 bookmark-tab =
-    .label = Забележи језичак
+    .label = Обележи картицу
     .accesskey = б
 reopen-in-container =
     .label = Поново отвори у контејнеру
     .accesskey = о
 move-to-start =
-    .label = Помери на почетак
-    .accesskey = о
+    .label = На почетак
+    .accesskey = п
 move-to-end =
-    .label = Помери на крај
+    .label = На крај
     .accesskey = к
 move-to-new-window =
-    .label = Премести у нови прозор
+    .label = У нови прозор
     .accesskey = н
 tab-context-close-multiple-tabs =
-    .label = Затвори вишеструке језичке
-    .accesskey = M
+    .label = Затвори више картица
+    .accesskey = ш
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
@@ -63,15 +65,15 @@ tab-context-close-multiple-tabs =
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->
-            [1] Врати затворене језичке
-            [one] Врати затворен језичак
-            [few] Врати затворена језичка
-           *[other] Врати затворених језичака
+            [1] Врати затворену картицу
+            [one] Врати затворену картицу
+            [few] Врати затворене картице
+           *[other] Врати затворених картица
         }
-    .accesskey = U
+    .accesskey = р
 close-tab =
-    .label = Затвори језичак
-    .accesskey = ч
+    .label = Затвори картицу
+    .accesskey = а
 close-tabs =
     .label = Затвори језичке
     .accesskey = З
@@ -79,23 +81,23 @@ move-tabs =
     .label = Помери језичке
     .accesskey = м
 move-tab =
-    .label = Помери језичак
+    .label = Помери картицу
     .accesskey = м
 tab-context-close-tabs =
     .label =
         { $tabCount ->
-            [1] Затвори језичак
-            [one] Затвори језичак
-            [few] Затвори језичка
-           *[other] Затвори језичака
+            [1] Затвори картицу
+            [one] Затвори картицу
+            [few] Затвори картице
+           *[other] Затвори картица
         }
-    .accesskey = C
+    .accesskey = а
 tab-context-move-tabs =
     .label =
         { $tabCount ->
-            [1] Помери језичак
-            [one] Помери језичак
-            [few] Помери језичка
-           *[other] Помери језичака
+            [1] Помери картицу
+            [one] Помери картицу
+            [few] Помери картице
+           *[other] Помери картица
         }
-    .accesskey = v
+    .accesskey = м
