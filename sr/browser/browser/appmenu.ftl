@@ -25,7 +25,7 @@ appmenuitem-update-banner2 =
     .label-update-manual = Доступно је ажурирање – преузмите га
     .label-update-unsupported = Ажурирање није успело
     .label-update-restart = Доступно је ажурирање – рестартујте сада
-appmenuitem-protection-dashboard-title = Сигурносна командна табла
+appmenuitem-protection-dashboard-title = Контролна табла заштите
 appmenuitem-customize-mode =
     .label = Прилагоди…
 
@@ -59,7 +59,7 @@ appmenuitem-settings =
 ## Zoom and Fullscreen Controls
 
 appmenuitem-zoom-enlarge =
-    .label = Увећајте
+    .label = Увећај
 appmenuitem-zoom-reduce =
     .label = Смањите
 appmenuitem-fullscreen =
@@ -80,8 +80,8 @@ whatsnew-panel-header = Шта је ново
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
-    .label = Обавести о новим функцијама
-    .accesskey = f
+    .label = Обавести ме о новим функцијама
+    .accesskey = О
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -99,9 +99,7 @@ profiler-popup-settings =
     .value = Подешавања
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Уреди подешавања…
-profiler-popup-disabled =
-    Profiler је тренутно онемогућен, вероватно због отвореног прозора
-    за приватно прегледање.
+profiler-popup-disabled = Profiler је тренутно онемогућен, највероватније због отвореног прозора за приватно прегледање
 profiler-popup-recording-screen = Снимање…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
@@ -152,24 +150,24 @@ appmenu-about =
     .accesskey = О
 appmenu-get-help =
     .label = Потражи помоћ
-    .accesskey = H
+    .accesskey = П
 appmenu-help-troubleshooting-info =
-    .label = Подаци о решавању проблема
-    .accesskey = T
+    .label = Подаци за решавање проблема
+    .accesskey = ц
 appmenu-help-taskmanager =
-    .label = Управник задатака
+    .label = Менаџер задатака
 appmenu-help-report-site-issue =
     .label = Пријави проблем на сајту…
 appmenu-help-feedback-page =
     .label = Пошаљи повратне информације
-    .accesskey = S
+    .accesskey = ш
 
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
 appmenu-help-safe-mode-without-addons =
     .label = Рестартуј са онемогућеним додацима
-    .accesskey = R
+    .accesskey = Р
 appmenu-help-safe-mode-with-addons =
     .label = Рестартуј са омогућеним додацима
     .accesskey = R
@@ -191,7 +189,7 @@ appmenu-help-not-deceptive =
 ## More Tools
 
 appmenu-customizetoolbar =
-    .label = Прилагоди алатну траку…
+    .label = Прилагоди траку са алаткама…
 appmenu-taskmanager =
     .label = Управник задатака
-appmenu-developer-tools-subheader = Алати прегледача
+appmenu-developer-tools-subheader = Алатке прегледача
