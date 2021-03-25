@@ -137,7 +137,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY logins.label                           "Contas e senhas">
 
 <!ENTITY overflowCustomizeToolbar.label       "Personalizar barra de ferramentas…">
-<!ENTITY overflowCustomizeToolbar.accesskey   "C">
+<!ENTITY overflowCustomizeToolbar.accesskey   "P">
 
 <!ENTITY historyMenu.label "Histórico">
 <!ENTITY historyUndoMenu.label "Abas fechadas recentemente">
