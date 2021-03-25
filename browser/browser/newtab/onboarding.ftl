@@ -173,6 +173,15 @@ onboarding-multistage-set-default-subtitle = Snelheid, feilichheid en privacy, h
 onboarding-multistage-set-default-primary-button-label = Standert meitsje
 onboarding-multistage-set-default-secondary-button-label = No net
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-pin-default-header = Begjin troch <span data-l10n-name="zap">{ -brand-short-name }</span> ien klik fuortsmiten te meitsjen
+onboarding-multistage-pin-default-subtitle = Fluch, feilich en privee sneupe, elke kear as jo it web brûke.
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-waiting-subtitle = Kies { -brand-short-name } ûnder Webbrowser as jo ynstellingen iepene wurde
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-help-text = Dit makket { -brand-short-name } fêst oan de taakbalke en iepenet ynstellingen
+onboarding-multistage-pin-default-primary-button-label = { -brand-short-name } myn foarkarsbrowser meitsje
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Ymportearje jo wachtwurden, blêdwizers en <span data-l10n-name = "zap">mear</span>
 onboarding-multistage-import-subtitle = Hawwe jo in oare browser brûkt? It is ienfâldich om alles nei { -brand-short-name } oer te bringen.
