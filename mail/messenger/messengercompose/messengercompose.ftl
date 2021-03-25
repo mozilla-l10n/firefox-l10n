@@ -49,6 +49,8 @@ ctrl-cmd-shift-pretty-prefix =
         [macos] ⇧ ⌘{ " " }
        *[other] Ctrl+Shift+
     }
+trigger-attachment-picker-key = A
+toggle-attachment-pane-key = M
 menuitem-toggle-attachment-pane =
     .label = Ek bölmesi
     .accesskey = m

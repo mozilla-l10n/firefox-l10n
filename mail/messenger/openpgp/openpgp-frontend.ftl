@@ -32,7 +32,18 @@ openpgp-broken-exchange-info = Bu ileti, görünüşe göre MS-Exchange tarafın
 openpgp-broken-exchange-repair =
     .label = İletiyi onar
 openpgp-broken-exchange-wait = Lütfen bekleyin…
+openpgp-cannot-decrypt-because-mdc =
+    Bu ileti, eski ve güvenlik açığı bulunan bir mekanizmayla şifrelenmiş.
+    İletinin taşınması sırasında içeriğini çalmak amacıyla iletide değişiklik yapılmış olabilir.
+    Bu riski önlemek için ileti içeriği gösterilmemektedir.
 openpgp-cannot-decrypt-because-missing-key = Bu iletinin şifresini çözmek için gereken gizli anahtar mevcut değil.
+openpgp-partially-signed =
+    Bu iletinin yalnızca bir alt kümesi ile kullanılarak dijital olarak imzalanmış.
+    Doğrula düğmesini tıklatırsanız, korunmayan parçalar gizlenir ve dijital imzanın durumu gösterilir.
+openpgp-partially-encrypted =
+    Bu iletinin yalnızca bir alt kümesi OpenPGP ile şifrelenmiş.
+    İletinin ekranda gördüğünüz okunabilir kısımları şifrelenmemiş.
+    Şifreyi çöz düğmesini tıklarsanız şifrelenen kısımların da içeriği gösterilecektir.
 openpgp-reminder-partial-display = Hatırlatma: Aşağıda gösterilen ileti, asıl iletinin yalnızca bir alt kümesidir.
 openpgp-partial-verify-button = Doğrula
 openpgp-partial-decrypt-button = Şifreyi çöz
