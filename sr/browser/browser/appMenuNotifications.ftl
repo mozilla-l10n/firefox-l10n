@@ -113,10 +113,10 @@ appmenu-update-other-instance-message =
 appmenu-addon-private-browsing-installed =
     .buttonlabel = Разумем
     .buttonaccesskey = Р
-appmenu-addon-post-install-message = Управљајте вашим додацима кликом на <image data-l10n-name='addon-install-icon'></image> у <image data-l10n-name='addon-menu-icon'></image> менију.
+appmenu-addon-post-install-message = Управљајте додацима кликом на <image data-l10n-name='addon-install-icon'></image> у менију <image data-l10n-name='addon-menu-icon'></image>.
 appmenu-addon-post-install-incognito-checkbox =
-    .label = Дозволите рад овог проширења у приватним прозорима
-    .accesskey = A
+    .label = Дозволи овом проширењу да ради у приватним прозорима
+    .accesskey = Д
 appmenu-new-tab-controlled =
     .label = Ваша страница новог језичка се променила.
     .buttonlabel = Задржи промене

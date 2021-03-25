@@ -5,16 +5,16 @@
 navbar-tooltip-instruction =
     .value =
         { PLATFORM() ->
-            [macos] Падајући мени показује историјат
-           *[other] Десни клик или мени за приказ историјата
+            [macos] За приказ историје превуците надоле
+           *[other] За приказ историје кликните десним тастером или превуците надоле
         }
 
 ## Back
 
 main-context-menu-back =
-    .tooltiptext = Назад за једну страну
+    .tooltiptext = Иди на претходну страницу
     .aria-label = Назад
-    .accesskey = B
+    .accesskey = Н
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
 toolbar-button-back =
@@ -22,9 +22,9 @@ toolbar-button-back =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Назад за једну страну ({ $shortcut })
+    .tooltiptext = Иди на претходну страницу ({ $shortcut })
     .aria-label = Назад
-    .accesskey = B
+    .accesskey = Н
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -93,27 +93,27 @@ main-context-menu-bookmark-add-with-shortcut =
     .accesskey = m
     .tooltiptext = Забележи ову страницу ({ $shortcut })
 main-context-menu-bookmark-change =
-    .aria-label = Уреди ову забелешку
-    .accesskey = m
-    .tooltiptext = Уреди ову забелешку
+    .aria-label = Уреди овај обележивач
+    .accesskey = б
+    .tooltiptext = Уреди овај обележивач
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-bookmark-change-with-shortcut =
-    .aria-label = Уреди ову забелешку
-    .accesskey = m
-    .tooltiptext = Уреди ову забелешку ({ $shortcut })
+    .aria-label = Уреди овај обележивач
+    .accesskey = б
+    .tooltiptext = Уреди овај обележивач ({ $shortcut })
 main-context-menu-open-link =
     .label = Отвори везу
     .accesskey = O
 main-context-menu-open-link-new-tab =
-    .label = Отвори у новом језичку
-    .accesskey = T
+    .label = Отвори линк на новој картици
+    .accesskey = О
 main-context-menu-open-link-container-tab =
     .label = Отвори у новом контејнеру
     .accesskey = b
 main-context-menu-open-link-new-window =
-    .label = Отвори у новом прозору
-    .accesskey = W
+    .label = Отвори линк у новом прозору
+    .accesskey = т
 main-context-menu-open-link-new-private-window =
     .label = Отвори нови приватан прозор
     .accesskey = P
@@ -159,8 +159,8 @@ main-context-menu-media-pause =
 ##
 
 main-context-menu-media-mute =
-    .label = Искљ. звук
-    .accesskey = M
+    .label = Искључи звук
+    .accesskey = И
 main-context-menu-media-unmute =
     .label = Укљ. звук
     .accesskey = m
@@ -218,8 +218,8 @@ main-context-menu-image-view =
     .label = Прикажи слику
     .accesskey = I
 main-context-menu-video-view =
-    .label = Преглед видеа
-    .accesskey = i
+    .label = Прикажи видео
+    .accesskey = в
 main-context-menu-image-copy =
     .label = Копирај слику
     .accesskey = y
@@ -242,11 +242,11 @@ main-context-menu-image-set-as-background =
     .label = Постави на радну површину…
     .accesskey = S
 main-context-menu-image-info =
-    .label = Преглед података о слици
-    .accesskey = f
+    .label = Прикажи податке о слици
+    .accesskey = с
 main-context-menu-image-desc =
-    .label = Преглед описа
-    .accesskey = D
+    .label = Прикажи опис
+    .accesskey = о
 main-context-menu-video-save-as =
     .label = Сачувај видео као…
     .accesskey = v
@@ -301,14 +301,14 @@ main-context-menu-frame-show-this =
     .label = Прикажи само овај оквир
     .accesskey = S
 main-context-menu-frame-open-tab =
-    .label = Отвори оквир у новом језичку
-    .accesskey = T
+    .label = Отвори оквир на новој картици
+    .accesskey = т
 main-context-menu-frame-open-window =
     .label = Отвори оквир у новом прозору
-    .accesskey = W
+    .accesskey = т
 main-context-menu-frame-reload =
-    .label = Обнови оквир
-    .accesskey = R
+    .label = Поново учитај оквир
+    .accesskey = П
 main-context-menu-frame-bookmark =
     .label = Забележи овај оквир
     .accesskey = m
