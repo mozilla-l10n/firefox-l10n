@@ -8,7 +8,7 @@ containers-window-new =
 # Variables
 #   $name (String) - Name of the container
 containers-window-update =
-    .title = { $name } поставке контејнера
+    .title = Подешавања контејнера { $name }
     .style = width: 45em
 containers-window-close =
     .key = w

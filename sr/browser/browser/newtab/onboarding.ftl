@@ -25,25 +25,25 @@ onboarding-button-label-get-started = Први кораци
 
 ## Welcome page strings
 
-onboarding-welcome-header = Добродошли у { -brand-short-name }
-onboarding-welcome-body = Имате прегледач. <br/>Упознајте и остатак { -brand-product-name } екипе.
+onboarding-welcome-header = Добро дошли у { -brand-short-name }
+onboarding-welcome-body = Сада имате прегледач.<br/>Упознајте се са { -brand-product-name }-ом.
 onboarding-welcome-learn-more = Сазнајте више о предностима.
-onboarding-welcome-modal-get-body = Имате прегледач.<br/>А сада искористите максимум из { -brand-product-name }.
+onboarding-welcome-modal-get-body = Сада имате прегледач.<br/>Извуците максимум из { -brand-product-name }-а.
 onboarding-welcome-modal-supercharge-body = Појачајте заштиту приватности.
-onboarding-welcome-modal-privacy-body = Инсталација прегледача је завршена. Додајмо сада још више заштите приватности.
+onboarding-welcome-modal-privacy-body = Сада имате прегледач. Подигнимо приватност на виши ниво.
 onboarding-welcome-modal-family-learn-more = Сазнајте више о { -brand-product-name } породици производа.
 onboarding-welcome-form-header = Почните овде
 onboarding-join-form-body = Унесите своју е-адресу да бисте започели.
 onboarding-join-form-email =
     .placeholder = Унесите е-адресу
-onboarding-join-form-email-error = Потребна је важећа е-адреса
+onboarding-join-form-email-error = Потребна је важећа имејл-адреса
 onboarding-join-form-legal = Настављањем даље, слажете се са <a data-l10n-name="terms">условима коришћења</a> и <a data-l10n-name="privacy">изјавом о политици приватности</a>.
 onboarding-join-form-continue = Настави
 # This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
 onboarding-join-form-signin-label = Већ имате налог?
 # Text for link to submit the sign in form
 onboarding-join-form-signin = Пријавите се
-onboarding-start-browsing-button-label = Почните са прегледањем
+onboarding-start-browsing-button-label = Претражујте интернет
 onboarding-cards-dismiss =
     .title = Уклони
     .aria-label = Уклони
@@ -52,12 +52,12 @@ onboarding-cards-dismiss =
 
 onboarding-fullpage-welcome-subheader = Хајде да истражимо шта све можете да урадите.
 onboarding-fullpage-form-email =
-    .placeholder = Ваша адреса е-поште…
+    .placeholder = Ваша имејл-адреса…
 
 ## Firefox Sync modal dialog strings.
 
 onboarding-sync-welcome-header = Понесите { -brand-product-name } са собом
-onboarding-sync-welcome-content = Имајте све забелешке, историјат, лозинке и друге поставке на свим вашим уређајима.
+onboarding-sync-welcome-content = Приступите обележивачима, историји, лозинкама и другим подешавањима на свим уређајима.
 onboarding-sync-welcome-learn-more-link = Сазнајте више о Firefox Accounts
 onboarding-sync-form-input =
     .placeholder = Адреса е-поште
@@ -66,7 +66,7 @@ onboarding-sync-form-skip-login-button = Прескочи овај корак
 
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
-onboarding-sync-form-header = Унесите вашу адресу е-поште
+onboarding-sync-form-header = Унесите имејл-адресу
 onboarding-sync-form-sub-header = да бисте наставили на { -sync-brand-name(case: "acc") }.
 
 ## These are individual benefit messages shown with an image, title and
@@ -98,12 +98,12 @@ onboarding-tracking-protection-text2 = { -brand-short-name } помаже вам
 onboarding-tracking-protection-button2 = Како то ради
 onboarding-data-sync-title = Понесите своја подешавања са собом
 # "Sync" is short for synchronize.
-onboarding-data-sync-text2 = Синхронизујте своје забелешке, лозинке и остало свуда где користите { -brand-product-name }.
-onboarding-data-sync-button2 = Пријавите се у { -sync-brand-short-name }
+onboarding-data-sync-text2 = Синхронизујте обележиваче, лозинке и остало где год користите { -brand-product-name }.
+onboarding-data-sync-button2 = Пријавите се на { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Будите у приправности од повреде података
 onboarding-firefox-monitor-text2 = { -monitor-brand-name } проверава да ли је ваша имејл-адреса процурила у јавност и упозорава вас о новим цурењима.
 onboarding-firefox-monitor-button = Пријавите се за упозорења
-onboarding-browse-privately-title = Прегледајте приватно
+onboarding-browse-privately-title = Претражујте интернет приватно
 onboarding-browse-privately-text = Приватно прегледање брише историју претраге и прегледања како би остала скривена од било кога ко користи ваш рачунар.
 onboarding-browse-privately-button = Отвори приватни прозор
 onboarding-firefox-send-title = Држите своје дељене датотеке приватним
@@ -113,11 +113,11 @@ onboarding-mobile-phone-title = Преузмите { -brand-product-name } на 
 onboarding-mobile-phone-text = Преузмите { -brand-product-name } за iOS или Андроид и синхронизујте податке између уређаја.
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
-onboarding-mobile-phone-button = Преузмите мобилни прегледач
+onboarding-mobile-phone-button = Преузми мобилни прегледач
 onboarding-send-tabs-title = Пошаљите себи отворене језичке
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
-onboarding-send-tabs-text2 = Једноставно шаљите језичке са једног уређаја на други - без копирања и лепљења веза или напуштања прегледача.
+onboarding-send-tabs-text2 = Једноставно делите странице са уређајима, не морате да копирате линкове нити да излазите из прегледача.
 onboarding-send-tabs-button = Почните да користите слање језичака
 onboarding-pocket-anywhere-title = Читајте и слушајте било где
 onboarding-pocket-anywhere-text2 = Сачувајте омиљени садржај у { -pocket-brand-name(case: "loc") } и читајте, слушајте и гледајте га без интернета у било које време.
@@ -125,12 +125,12 @@ onboarding-pocket-anywhere-button = Испробајте { -pocket-brand-name(ca
 onboarding-lockwise-strong-passwords-title = Стварајте и чувајте јаке лозинке
 onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } генерише јаке лозинке за трен и чува их на једном месту.
 onboarding-lockwise-strong-passwords-button = Управљајте вашим пријавама
-onboarding-facebook-container-title = Поставите границе с Facebook-ом
+onboarding-facebook-container-title = Поставите границе за Facebook
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } раздваја ваш профил од свега осталог, што отежава Facebook-у да вам приказује циљане рекламе.
 onboarding-facebook-container-button = Додајте проширење
-onboarding-import-browser-settings-title = Увезите ваше обележиваче, лозинке и више
+onboarding-import-browser-settings-title = Увезите обележиваче, лозинке и друго
 onboarding-import-browser-settings-text = Слободно истражите — понесите са собом Chrome странице и подешавања.
-onboarding-import-browser-settings-button = Увезите Chrome податке
+onboarding-import-browser-settings-button = Увези податке из Chrome-а
 onboarding-personal-data-promise-title = Дизајниран за приватност
 onboarding-personal-data-promise-text = { -brand-product-name } поштује ваше податке тако што их прикупља мање, штити их и даје до знања на који начин их користи.
 onboarding-personal-data-promise-button = Прочитајте наше обећање
@@ -161,7 +161,7 @@ return-to-amo-add-extension-label = Додајте проширење
 
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. { -brand-short-name } should stay inside the span.
-onboarding-multistage-welcome-header = Добродошли у <span data-l10n-name="zap">{ -brand-short-name }</span>
+onboarding-multistage-welcome-header = Добро дошли у <span data-l10n-name="zap">{ -brand-short-name }</span>
 onboarding-multistage-welcome-subtitle = Брз, сигуран и приватни прегледач који је подржан од непрофитне организације.
 onboarding-multistage-welcome-primary-button-label = Покрените подешавање
 onboarding-multistage-welcome-secondary-button-label = Пријавите се
@@ -174,7 +174,7 @@ onboarding-multistage-set-default-primary-button-label = Постави као �
 onboarding-multistage-set-default-secondary-button-label = Не сада
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
-onboarding-multistage-import-header = Увезите ваше лозинке, обележиваче и <span data-l10n-name="zap">друго</span>
+onboarding-multistage-import-header = Увезите лозинке, <br/>обележиваче и <span data-l10n-name="zap">друго</span>
 onboarding-multistage-import-subtitle = Долазите од другог прегледача? Све можете лако увести у { -brand-short-name }.
 onboarding-multistage-import-primary-button-label = Покрени увоз
 onboarding-multistage-import-secondary-button-label = Не сада

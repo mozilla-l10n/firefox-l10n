@@ -52,4 +52,4 @@ browser-languages-select-language =
     .placeholder = Изаберите жељени језик…
 browser-languages-installed-label = Инсталирани језици
 browser-languages-available-label = Доступни језици
-browser-languages-error = { -brand-short-name } не може ажурирати ваше језике у овом тренутку. Проверите да ли сте повезани на интернет или покушајте поново.
+browser-languages-error = { -brand-short-name } тренутно не може да ажурира списак језика. Проверите да ли сте повезани на интернет или покушајте поново.
