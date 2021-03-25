@@ -14,6 +14,20 @@ calendar-ics-file-dialog-message-2 = Ut bestân ymportearje:
 calendar-ics-file-dialog-calendar-menu-label = Yn aginda ymportearje:
 calendar-ics-file-dialog-items-loading-message =
     .value = Items lade…
+calendar-ics-file-dialog-search-input =
+    .placeholder = Items filterje…
+calendar-ics-file-dialog-sort-start-ascending =
+    .label = Sortearje op startdatum (earste oant lêste)
+calendar-ics-file-dialog-sort-start-descending =
+    .label = Sortearje op startdatum (lêste oant earste)
+# "A > Z" is used as a concise way to say "alphabetical order".
+# You may replace it with something appropriate to your language.
+calendar-ics-file-dialog-sort-title-ascending =
+    .label = Sortearje op titel (A > Z)
+# "Z > A" is used as a concise way to say "reverse alphabetical order".
+# You may replace it with something appropriate to your language.
+calendar-ics-file-dialog-sort-title-descending =
+    .label = Sortearje op titel (Z > A)
 calendar-ics-file-dialog-progress-message = Ymportearje…
 calendar-ics-file-import-success = Mei sukses ymportearre!
 calendar-ics-file-import-error = Der is in flater bard en it ymportearjen is mislearre.
