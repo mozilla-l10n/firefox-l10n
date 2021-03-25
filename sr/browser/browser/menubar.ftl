@@ -26,7 +26,7 @@ menu-application-hide-other =
 menu-application-show-all =
     .label = Прикажи све
 menu-application-touch-bar =
-    .label = Прилагодите додирну траку…
+    .label = Прилагоди додирну траку…
 
 ##
 
@@ -109,23 +109,23 @@ menu-file-save-page =
     .label = Сачувај страницу као…
     .accesskey = A
 menu-file-email-link =
-    .label = Веза е-поште…
-    .accesskey = E
+    .label = Пошаљи линк имејлом…
+    .accesskey = л
 menu-file-print-setup =
     .label = Подеси страницу…
     .accesskey = u
 menu-file-print-preview =
-    .label = Преглед пре штампе
-    .accesskey = v
+    .label = Преглед пре штампања
+    .accesskey = П
 menu-file-print =
-    .label = Штампај…
-    .accesskey = P
+    .label = Одштампај…
+    .accesskey = ш
 menu-file-import-from-another-browser =
     .label = Увези из другог прегледача…
     .accesskey = I
 menu-file-go-offline =
-    .label = Рад ван мреже
-    .accesskey = k
+    .label = Офлајн режим
+    .accesskey = ф
 
 ## Edit Menu
 
@@ -145,29 +145,29 @@ menu-edit-bidi-switch-text-direction =
 ## View Menu
 
 menu-view =
-    .label = Преглед
-    .accesskey = V
+    .label = Приказ
+    .accesskey = р
 menu-view-toolbars-menu =
-    .label = Алатне траке
-    .accesskey = T
+    .label = Траке са алаткама
+    .accesskey = Т
 menu-view-customize-toolbar =
     .label = Прилагоди…
-    .accesskey = C
+    .accesskey = П
 menu-view-sidebar =
     .label = Бочна трака
     .accesskey = e
 menu-view-bookmarks =
-    .label = Забелешке
+    .label = Обележивачи
 menu-view-history-button =
-    .label = Историјат
+    .label = Историја
 menu-view-synced-tabs-sidebar =
-    .label = Синхронизовани језичци
+    .label = Синхронизоване картице
 menu-view-full-zoom =
-    .label = Увећај
-    .accesskey = Z
+    .label = Зумирање
+    .accesskey = З
 menu-view-full-zoom-enlarge =
-    .label = Увеличај
-    .accesskey = I
+    .label = Увећај
+    .accesskey = в
 menu-view-full-zoom-reduce =
     .label = Умањи
     .accesskey = O
@@ -215,14 +215,14 @@ menu-view-bidi-switch-page-direction =
 ## History Menu
 
 menu-history =
-    .label = Историјат
-    .accesskey = s
+    .label = Историја
+    .accesskey = И
 menu-history-show-all-history =
-    .label = Преглед целог историјата
+    .label = Прикажи сву историју
 menu-history-clear-recent-history =
-    .label = Обриши историјат…
+    .label = Обриши историју…
 menu-history-synced-tabs =
-    .label = Синхронизовани језичци
+    .label = Синхронизоване картице
 menu-history-restore-last-session =
     .label = Врати претходну сесију
 menu-history-hidden-tabs =
@@ -237,22 +237,22 @@ menu-history-reopen-all-windows = Поново отвори све прозор�
 ## Bookmarks Menu
 
 menu-bookmarks-menu =
-    .label = Забелешке
-    .accesskey = B
+    .label = Обележивачи
+    .accesskey = б
 menu-bookmarks-show-all =
-    .label = Прикажи све забелешке
+    .label = Прикажи све обележиваче
 menu-bookmark-this-page =
     .label = Забележи ову страницу
 menu-bookmark-edit =
-    .label = Уреди ову забелешку
+    .label = Уреди овај обележивач
 menu-bookmarks-all-tabs =
     .label = Забележи све језичке…
 menu-bookmarks-toolbar =
-    .label = Трака са забелешкама
+    .label = Трака са обележивачима
 menu-bookmarks-other =
-    .label = Остале забелешке
+    .label = Други обележивачи
 menu-bookmarks-mobile =
-    .label = Мобилне забелешке
+    .label = Мобилни обележивачи
 
 ## Tools Menu
 
@@ -266,8 +266,8 @@ menu-tools-addons =
     .label = Додаци
     .accesskey = A
 menu-tools-fxa-sign-in =
-    .label = Пријавите се у { -brand-product-name }…
-    .accesskey = g
+    .label = Пријавите се на { -brand-product-name }…
+    .accesskey = П
 menu-tools-turn-on-sync =
     .label = Укључите { -sync-brand-short-name }…
     .accesskey = n
@@ -341,19 +341,19 @@ menu-help-show-tour =
         }
     .accesskey = В
 menu-help-import-from-another-browser =
-    .label = Увезите из другог прегледача…
-    .accesskey = I
+    .label = Увези из другог прегледача…
+    .accesskey = У
 menu-help-keyboard-shortcuts =
-    .label = Пречице на тастатури
-    .accesskey = K
+    .label = Тастерске пречице
+    .accesskey = Т
 menu-get-help =
     .label = Потражи помоћ
-    .accesskey = H
+    .accesskey = П
 menu-help-troubleshooting-info =
-    .label = Подаци о решавању проблема
-    .accesskey = T
+    .label = Подаци за решавање проблема
+    .accesskey = ц
 menu-help-taskmanager =
-    .label = Управник задатака
+    .label = Менаџер задатака
 menu-help-report-site-issue =
     .label = Пријави проблем на сајту…
 menu-help-feedback-page =
@@ -361,10 +361,10 @@ menu-help-feedback-page =
     .accesskey = S
 menu-help-safe-mode-without-addons =
     .label = Рестартуј са онемогућеним додацима
-    .accesskey = R
+    .accesskey = Р
 menu-help-safe-mode-with-addons =
     .label = Рестартуј са омогућеним додацима
-    .accesskey = R
+    .accesskey = Р
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
