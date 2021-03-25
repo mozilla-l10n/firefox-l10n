@@ -28,7 +28,7 @@ about-telemetry-histograms-section = رسوم بيانية
 about-telemetry-keyed-histogram-section = رسوم بيانية مفتاحية
 about-telemetry-events-section = الأحداث
 about-telemetry-simple-measurements-section = قياسات بسيطة
-about-telemetry-slow-sql-section = استعلامات SQL بطيئة
+about-telemetry-slow-sql-section = إفادات SQL بطيئة
 about-telemetry-addon-details-section = تفاصيل الإضافة
 about-telemetry-captured-stacks-section = المكدسات المُلتقطة
 about-telemetry-late-writes-section = كتابات متأخرّة
@@ -92,8 +92,8 @@ about-telemetry-telemetry-ping-type-all = الكل
 # button label to copy the histogram
 about-telemetry-histogram-copy = انسخ
 # these strings are used in the “Slow SQL Statements” section
-about-telemetry-slow-sql-main = أظهر بيانات SQL في الخيط الرئيسي
-about-telemetry-slow-sql-other = بيانات SQL بطيئة في الخيوط المساعدة
+about-telemetry-slow-sql-main = أظهر إفادات SQL في الخيط الرئيسي
+about-telemetry-slow-sql-other = إفادات SQL بطيئة في الخيوط المساعدة
 about-telemetry-slow-sql-hits = الإصابات
 about-telemetry-slow-sql-average = متوسط الوقت (ms)
 about-telemetry-slow-sql-statement = الاستعلام
