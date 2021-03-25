@@ -49,7 +49,7 @@ import-from-firefox =
 import-from-360se =
     .label = 360 Secure Browser
     .accesskey = 3
-no-migration-sources = Није пронађен ниједан програм који садржи забелешке, историјат или лозинке.
+no-migration-sources = Није пронађен ниједан програм који садржи обележиваче, историју или лозинке.
 import-source-page-title = Увоз подешавања и података
 import-items-page-title = Ставке за увоз
 import-items-description = Изаберите ставке за увоз:
@@ -62,7 +62,7 @@ import-select-profile-page-title = Избор профила
 import-select-profile-description = Следеће профиле можете увести из:
 import-done-page-title = Увоз је завршен
 import-done-description = Следеће ставке су успешно увезене:
-import-close-source-browser = Затворите одабрани прегледач пре него што наставите.
+import-close-source-browser = Затворите изабрани прегледач пре него што наставите.
 # Displays which browser the bookmarks are being imported from
 #
 # Variables:

@@ -8,21 +8,27 @@
 ### given Firefox channel". These terms are not synonymous.
 
 title = Важне вести
-heading = Промене у вашем { -brand-short-name } профилу
+heading =
+    Промене у употреби профила { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "gen") }
+        [feminine] { -brand-short-name(case: "gen") }
+        [neuter] { -brand-short-name(case: "gen") }
+       *[other] програма { -brand-short-name }
+    }
 changed-title = Шта је промењено?
 changed-desc-profiles = Ова инсталација програма { -brand-short-name } има нови профил. Профил је скуп датотека у којима Firefox чува податке као што су обележивачи, лозинке и подешавања корисника.
-changed-desc-dedicated = Да бисмо осигурали лакше и безбедније измене између различитих инсталација Firefox-а (укључујући Firefox, Firefox ESR, Firefox Beta, Firefox Developer Edition и Firefox Nightly), ова инсталација сада користи засебан профил. Она не дели самостално ваше сачуване податке са другим Firefox инсталацијама.
-lost = <b>Нисте изгубили било шта од ваших личних података и прилагођавања.</b> Ако сте већ сачували податке у Firefox-у на овом рачунару, и даље су ту у тој другој Firefox инсталацији.
-options-title = Које су моје опције?
-options-do-nothing = Ако не урадите било шта, ваши подаци из профила програма { -brand-short-name } ће бити другачији у односу на податке из профила других Firefox инсталација.
+changed-desc-dedicated = Како би било лакше и безбедније да пређете са једне инсталације Firefox-а на другу (укључујући Firefox, Firefox ESR, Firefox Beta, Firefox Developer Edition и Firefox Nightly), разграничили смо им профиле. Ваши сачувани подаци се не деле са другим инсталацијама Firefox-а.
+lost = <b>Нисте изгубили личне податке ни прилагођавања.</b> Ако сте већ сачували податке у Firefox-у на овом рачунару, доступни су и даље у другој инсталацији Firefox-а.
+options-title = Треба ли нешто да предузмем?
+options-do-nothing = Ако не учините ништа, подаци из профила у програму { -brand-short-name } ће се разликовати од оних из других инсталација Firefox-а.
 options-use-sync = Уколико желите да све инсталације Firefox-а користе исти профил, користите { -fxaccount-brand-name(case: "acc") } да бисте га синхронизовали.
 resources = Ресурси:
-support-link = Коришћење Управника профила - чланак подршке
+support-link = Управљање профилима – чланак подршке
 sync-header = Региструјте се или се пријавите на { -fxaccount-brand-name(case: "acc") }
-sync-label = Унесите вашу е-адресу
+sync-label = Унесите имејл-адресу
 sync-input =
-    .placeholder = Е-адреса
+    .placeholder = Имејл-адреса
 sync-button = Настави
-sync-terms = Настављањем изражавате да се слажете са <a data-l10n-name="terms">условима услуге</a> и <a data-l10n-name="privacy">политиком приватности</a>.
+sync-terms = Уколико наставите, слажете се са <a data-l10n-name="terms">условима коришћења услуге</a> и <a data-l10n-name="privacy">политиком приватности</a>.
 sync-first = Први пут користите { -sync-brand-name(case: "acc") }? Мораћете да се пријавите на свакој инсталацији Firefox-а да бисте синхронизовали своје податке.
 sync-learn = Сазнајте више
