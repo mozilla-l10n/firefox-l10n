@@ -245,16 +245,16 @@
 <!ENTITY event.priority2.label                            "Blaenoriaeth:">
 
 <!ENTITY event.reminder.none.label                        "Dim atgoffwr " >
-<!ENTITY event.reminder.0minutes.before.label             "0 munud cyn" >
-<!ENTITY event.reminder.5minutes.before.label             "5 munud cyn" >
-<!ENTITY event.reminder.15minutes.before.label            "15 munud cyn" >
-<!ENTITY event.reminder.30minutes.before.label            "30 munud cyn" >
-<!ENTITY event.reminder.1hour.before.label                "1 awr cyn" >
-<!ENTITY event.reminder.2hours.before.label               "2 awr cyn" >
-<!ENTITY event.reminder.12hours.before.label              "12 awr cyn" >
-<!ENTITY event.reminder.1day.before.label                 "1 diwrnod cyn" >
-<!ENTITY event.reminder.2days.before.label                "2 diwrnod cyn" >
-<!ENTITY event.reminder.1week.before.label                "1 wythnos cyn" >
+<!ENTITY event.reminder.0minutes.before.label             "0 munud cyn hynny" >
+<!ENTITY event.reminder.5minutes.before.label             "5 munud cyn hynny" >
+<!ENTITY event.reminder.15minutes.before.label            "15 munud cyn hynny" >
+<!ENTITY event.reminder.30minutes.before.label            "30 munud cyn hynny" >
+<!ENTITY event.reminder.1hour.before.label                "1 awr cyn hynny" >
+<!ENTITY event.reminder.2hours.before.label               "2 awr cyn hynny" >
+<!ENTITY event.reminder.12hours.before.label              "12 awr cyn hynny" >
+<!ENTITY event.reminder.1day.before.label                 "1 diwrnod cyn hynny" >
+<!ENTITY event.reminder.2days.before.label                "2 diwrnod cyn hynny" >
+<!ENTITY event.reminder.1week.before.label                "1 wythnos cyn hynny" >
 <!ENTITY event.reminder.custom.label                      "Cyfaddasu…" >
 
 <!ENTITY event.reminder.multiple.label                    "Atgoffwyr Niferus…" >
