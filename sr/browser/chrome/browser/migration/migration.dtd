@@ -35,7 +35,7 @@
 <!ENTITY importFrom360se.label          "360 Secure Browser">
 <!ENTITY importFrom360se.accesskey      "3">
 
-<!ENTITY noMigrationSources.label       "Није пронађен ниједан програм који садржи забелешке, историјат или лозинке.">
+<!ENTITY noMigrationSources.label       "Није пронађен ниједан програм који садржи обележиваче, историју или лозинке.">
 
 <!ENTITY importSource.title             "Увоз подешавања и података">
 <!ENTITY importItems.title              "Ставке за увоз">
@@ -50,4 +50,4 @@
 <!ENTITY done.title                     "Увоз је завршен">
 <!ENTITY done.label                     "Следеће ставке су успешно увезене:">
 
-<!ENTITY closeSourceBrowser.label       "Затворите одабрани прегледач пре него што наставите.">
+<!ENTITY closeSourceBrowser.label       "Затворите изабрани прегледач пре него што наставите.">
