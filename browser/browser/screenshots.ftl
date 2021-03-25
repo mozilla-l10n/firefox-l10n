@@ -17,13 +17,13 @@ screenshots-meta-key =
         [macos] ⌘
        *[other] Ctrl
     }
-screenshots-notification-link-copied-title = Веза копирана
-screenshots-notification-link-copied-details = Веза коју сте забележили је копирана у бележницу. Притисните { screenshots-meta-key }-V да налепите.
+screenshots-notification-link-copied-title = Линк је копиран
+screenshots-notification-link-copied-details = Линк до вашег снимка екрана је копиран у привремену меморију. Налепите га помоћу { screenshots-meta-key }-V.
 screenshots-notification-image-copied-title = Снимак је копиран
 screenshots-notification-image-copied-details = Ваш снимак је копиран. Притисните { screenshots-meta-key }-V да налепите.
 screenshots-request-error-title = Не ради.
 screenshots-request-error-details = Нажалост, није могуће сачувати снимак екрана. Покушајте касније.
-screenshots-connection-error-title = Не можемо се повезати на ваше снимке.
+screenshots-connection-error-title = Повезивање са вашим снимцима екрана није могуће.
 screenshots-connection-error-details = Проверите да ли сте повезани на интернет. Уколико јесте, онда можда постоји привремени проблем са услугом { -screenshots-brand-name }.
 screenshots-login-error-details = Није могуће сачувати снимак екрана због проблема са услугом { -screenshots-brand-name }. Покушајте касније.
 screenshots-unshootable-page-error-title = Не можемо забележити снимак ове странице.

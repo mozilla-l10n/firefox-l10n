@@ -8,12 +8,12 @@ sanitize-prefs =
 sanitize-prefs-style =
     .style = width: 17em
 dialog-title =
-    .title = Обриши историјат
+    .title = Обриши историју
     .style = width: 34em
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 dialog-title-everything =
-    .title = Обриши сав историјат
+    .title = Обриши сву историју
     .style = width: 34em
 clear-data-settings-label = При затварању { -brand-short-name } аутоматски брише све
 
@@ -44,22 +44,22 @@ clear-time-duration-suffix =
 ## These strings are used as section comments and checkboxes
 ## to select the items to remove
 
-history-section-label = Историјат
+history-section-label = Историја
 item-history-and-downloads =
-    .label = Историјат читања и преузимања
+    .label = Историја прегледања и преузимања
     .accesskey = И
 item-cookies =
     .label = Колачићи
     .accesskey = К
 item-active-logins =
-    .label = Активне пријаве
+    .label = Активне сесије
     .accesskey = А
 item-cache =
     .label = Кеш
     .accesskey = ш
 item-form-search-history =
-    .label = Историјат формулара и претрага
-    .accesskey = ф
+    .label = Историја образаца и претраге
+    .accesskey = з
 data-section-label = Подаци
 item-site-preferences =
     .label = Подешавања сајтова
@@ -79,7 +79,7 @@ sanitize-button-clearing =
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has not modified the default set
 # of history items to clear.
-sanitize-everything-warning = Цео историјат ће бити обрисан.
+sanitize-everything-warning = Обрисаће се сва историја.
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has modified the default set of
 # history items to clear.

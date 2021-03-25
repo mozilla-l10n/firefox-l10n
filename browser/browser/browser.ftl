@@ -179,9 +179,9 @@ page-action-send-tabs-panel =
 page-action-send-tabs-urlbar =
     .tooltiptext =
         { $tabCount ->
-            [one] Пошаљи језичак на уређај
-            [few] Пошаљи { $tabCount } језичка на уређај
-           *[other] Пошаљи { $tabCount } језичака на уређај
+            [one] Пошаљи картицу на уређај
+            [few] Пошаљи { $tabCount } картице на уређај
+           *[other] Пошаљи { $tabCount } картица на уређај
         }
 page-action-pocket-panel =
     .label = Сачувај страницу у { -pocket-brand-name(case: "loc") }
