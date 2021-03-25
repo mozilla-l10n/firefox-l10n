@@ -47,7 +47,10 @@ perftools-request-to-stop-profiler = يُوقف التسجيل
 
 perftools-button-start-recording = ابدأ التسجيل
 perftools-button-cancel-recording = ألغِ التسجيل
-perftools-button-save-settings = احفظ الإعدادات وُعد
+perftools-button-save-settings = احفظ الإعدادات وعُد
+perftools-button-restart = أعِد التشغيل
+perftools-button-remove-directory = أزِل المحدد
+perftools-button-edit-settings = عدّل الإعدادات…
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 

@@ -24,6 +24,12 @@ serviceworker-worker-unregister = ألغِ التسجيل
 # displayed when the link is disabled.
 serviceworker-worker-debug = نقّح
     .title = يمكنك تنقيح أخطاء عمّال الخدمات فقط
+# Alt text for the image icon displayed inside a debug link for a service worker.
+serviceworker-worker-inspect-icon =
+    .alt = افحص
+# Text for the start link displayed for a registered but not running Service Worker.
+# Clicking on the link will attempt to start the service worker.
+serviceworker-worker-start3 = ابدأ
 # Text displayed for the updated time of the service worker. The <time> element will
 # display the last update time of the service worker script.
 serviceworker-worker-updated = حُدّث في <time>{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>
