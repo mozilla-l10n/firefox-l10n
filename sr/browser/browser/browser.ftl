@@ -16,9 +16,9 @@
 #  $content-title (String): the title of the web content.
 browser-main-window =
     .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } (Приватно прегледање)
-    .data-content-title-default = { $content-title } - { -brand-full-name }
-    .data-content-title-private = { $content-title } - { -brand-full-name } (Приватно прегледање)
+    .data-title-private = { -brand-full-name } (приватно прегледање)
+    .data-content-title-default = { $content-title } – { -brand-full-name }
+    .data-content-title-private = { $content-title } – { -brand-full-name } (приватно прегледање)
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -35,9 +35,9 @@ browser-main-window =
 #  $content-title (String): the title of the web content.
 browser-main-window-mac =
     .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } - (Приватно прегледање)
+    .data-title-private = { -brand-full-name } – (приватно прегледање)
     .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } - (Приватно прегледање)
+    .data-content-title-private = { $content-title } – (приватно прегледање)
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -72,7 +72,7 @@ urlbar-geolocation-notification-anchor =
 urlbar-xr-notification-anchor =
     .tooltiptext = Отворите панел дозвола за виртуелну стварност
 urlbar-storage-access-anchor =
-    .tooltiptext = Отвори површ са дозволама за активности прегледања
+    .tooltiptext = Отвори панел са дозволама при прегледању
 urlbar-translate-notification-anchor =
     .tooltiptext = Преведи ову страницу
 urlbar-web-rtc-share-screen-notification-anchor =
@@ -107,8 +107,8 @@ urlbar-tip-icon-description =
 ## Variables:
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
-urlbar-search-tips-onboard = Укуцајте мање, пронађите више: претражујте { $engineName } директно из ваше адресне траке.
-urlbar-search-tips-redirect-2 = Започните вашу претрагу у адресној траци да бисте видели { $engineName } предлоге и вашу историју прегледања.
+urlbar-search-tips-onboard = Куцајте мање, нађите више: користите претраживач { $engineName } директно из траке за адресу.
+urlbar-search-tips-redirect-2 = Почните да куцате у траци за адресу и приказаће вам се предлози које обезбеђује { $engineName } и историја прегледања.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Изаберите ову пречицу за бржу претраживање.
@@ -148,7 +148,7 @@ urlbar-install-blocked =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
-    .tooltiptext = Уреди ову забелешку ({ $shortcut })
+    .tooltiptext = Уреди овај обележивач ({ $shortcut })
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -172,9 +172,9 @@ page-action-remove-extension =
 page-action-send-tabs-panel =
     .label =
         { $tabCount ->
-            [one] Пошаљи језичак на уређај
-            [few] Пошаљи { $tabCount } језичка на уређај
-           *[other] Пошаљи { $tabCount } језичака на уређај
+            [one] Пошаљи картицу на уређај
+            [few] Пошаљи { $tabCount } картице на уређај
+           *[other] Пошаљи { $tabCount } картица на уређај
         }
 page-action-send-tabs-urlbar =
     .tooltiptext =
@@ -190,9 +190,9 @@ page-action-copy-url-panel =
 page-action-copy-url-urlbar =
     .tooltiptext = Копирај везу
 page-action-email-link-panel =
-    .label = Веза е-поште…
+    .label = Пошаљи линк имејлом…
 page-action-email-link-urlbar =
-    .tooltiptext = Веза е-поште…
+    .tooltiptext = Пошаљи линк имејлом…
 page-action-share-url-panel =
     .label = Подели
 page-action-share-url-urlbar =
@@ -201,12 +201,6 @@ page-action-share-more-panel =
     .label = Још…
 page-action-send-tab-not-ready =
     .label = Синхронизујем уређаје…
-# "Pin" is being used as a metaphor for expressing the fact that these tabs
-# are "pinned" to the left edge of the tabstrip. Really we just want the
-# string to express the idea that this is a lightweight and reversible
-# action that keeps your tab where you can reach it easily.
-page-action-pin-tab-panel =
-    .label = Закачи језичак
 page-action-pin-tab-urlbar =
     .tooltiptext = Закачи језичак
 page-action-unpin-tab-panel =
