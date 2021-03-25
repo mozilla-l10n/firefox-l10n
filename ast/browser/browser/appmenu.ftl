@@ -21,12 +21,20 @@ appmenuitem-passwords =
     .label = Contraseñes
 appmenuitem-extensions-and-themes =
     .label = Estensiones y estilos
+appmenuitem-addons-and-themes =
+    .label = Complementos y Estilos
 appmenuitem-find-in-page =
     .label = Atopar na páxina…
 appmenuitem-more-tools =
     .label = Más ferramientes
 appmenuitem-exit =
     .label = Colar
+appmenu-menu-button-closed =
+    .tooltiptext = Abrir el menú de l'aplicación
+    .label = { -brand-shorter-name }
+appmenu-menu-button-opened =
+    .tooltiptext = Zarrar el menú de l'aplicación
+    .label = { -brand-shorter-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =

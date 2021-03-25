@@ -81,12 +81,21 @@ certmgr-delete-builtin =
 certmgr-restore =
     .label = Importar…
     .accesskey = m
+certmgr-add-exception =
+    .label = Amestar una esceición…
+    .accesskey = e
 exception-mgr-supplemental-warning = Los bancos, les tiendes y otros sitios públicos llexítimos nun van pidite facer esto.
 exception-mgr-cert-location-url =
     .value = Allugamientu:
+exception-mgr-cert-location-download =
+    .label = Consiguir el certificáu
+    .accesskey = C
 exception-mgr-cert-status-view-cert =
     .label = Ver…
     .accesskey = V
+exception-mgr-permanent =
+    .label = Atroxar esta esceición pa siempres
+    .accesskey = s
 pkcs12-dup-data = El certificáu y la clave privada yá esisten nel preséu de seguranza.
 
 ## PKCS#12 file dialogs
