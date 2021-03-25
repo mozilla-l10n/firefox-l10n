@@ -14,7 +14,7 @@ policy-3rdparty = Beliedsrigels ynstelle dy't troch WebExtensions benadere wurde
 policy-AppAutoUpdate = Automatyske applikaasjefernijing yn- of útskeakelje.
 policy-AppUpdateURL = Oanpaste app-fernijings-URL ynstelle.
 policy-Authentication = Yntegrearre autentikaasje konfigurearje foar websites dy't dit stypje.
-policy-BackgroundAppUpdate = Bywurkjen op de eftergrûn yn- of útskeakelje, wêrtroch de browser bywurke wurdt wannear't dizze net aktyf is.
+policy-BackgroundAppUpdate2 = Eftergrûnfernijingen yn- of útskeakelje.
 policy-BlockAboutAddons = Tagong ta de Add-onbehearder (about:addons) blokkearje.
 policy-BlockAboutConfig = Tagong ta de about:config-side blokkearje.
 policy-BlockAboutProfiles = Tagong ta de about:profiles-side blokkearje.
@@ -107,6 +107,7 @@ policy-SearchEngines = Ynstellingen foar sykmasinen konfigurearje. Dizze belieds
 policy-SearchSuggestEnabled = Syksuggestjes ynskeakelje of útskeakelje.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = PKCS #11-modules ynstallearje.
+policy-ShowHomeButton = De startsideknop op de arkbalke toane.
 policy-SSLVersionMax = De maksimale SSL-ferzje ynstelle.
 policy-SSLVersionMin = De minimale SSL-ferzje ynstelle.
 policy-SupportMenu = In oanpast menu-item foar stipe oan it menu Help tafoegje.
