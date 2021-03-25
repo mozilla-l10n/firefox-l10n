@@ -111,8 +111,8 @@ appmenu-update-other-instance-message =
        *[other] програма { -brand-shorter-name }
     }. Затворите га или ажурирајте упркос томе (други примерак можда неће радити док га не рестартујете).
 appmenu-addon-private-browsing-installed =
-    .buttonlabel = У реду, разумем
-    .buttonaccesskey = O
+    .buttonlabel = Разумем
+    .buttonaccesskey = Р
 appmenu-addon-post-install-message = Управљајте вашим додацима кликом на <image data-l10n-name='addon-install-icon'></image> у <image data-l10n-name='addon-menu-icon'></image> менију.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Дозволите рад овог проширења у приватним прозорима

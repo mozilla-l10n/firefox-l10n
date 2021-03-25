@@ -3,16 +3,16 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashed-title = Извештавач о рушењу језичака
-crashed-close-tab-button = Затвори језичак
+crashed-close-tab-button = Затвори картицу
 crashed-restore-tab-button = Обнови овај језичак
 crashed-restore-all-button = Обнови све срушене језичке
 crashed-header = Језичак се срушио.
-crashed-offer-help = Можемо помоћи!
-crashed-single-offer-help-message = Изаберите { crashed-restore-tab-button } да обновите страницу.
-crashed-multiple-offer-help-message = Изаберите { crashed-restore-tab-button } или { crashed-restore-all-button } да обновите страницу/странице.
+crashed-offer-help = Можемо вам помоћи!
+crashed-single-offer-help-message = Одаберите { crashed-restore-tab-button } да бисте поново учитали страницу.
+crashed-multiple-offer-help-message = Одаберите { crashed-restore-tab-button } или { crashed-restore-all-button } да бисте поново учитали страницу/странице.
 crashed-request-help = Желите да нам помогнете?
 crashed-request-help-message = Извештаји о отказивању нам помажу да откријемо проблеме и побољшамо { -brand-short-name }.
-crashed-request-report-title = Пријавите овај језичак
+crashed-request-report-title = Пријавите ову картицу
 crashed-send-report = Аутоматски шаљите извештај о отказивању како бисмо могли да исправимо сличне грешке.
 crashed-send-report-2 = Аутоматски шаљите извештај о отказивању како бисмо могли да исправимо сличне грешке
 crashed-comment =

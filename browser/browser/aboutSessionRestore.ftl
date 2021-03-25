@@ -35,6 +35,6 @@ welcome-back-page-info = { -brand-short-name } је спреман.
 welcome-back-restore-button =
     .label = Идемо!
     .accesskey = L
-welcome-back-restore-all-label = Обновите све прозоре и језичке
+welcome-back-restore-all-label = Вратите све прозоре и картице
 welcome-back-restore-some-label = Обновите само оне које желите
 welcome-back-page-info-link = Ваши додаци и прилагођавања су уклоњена и подешавања прегледача су враћена на подразумевана. Ако ово није решило проблем, <a data-l10n-name="link-more">сазнајте шта можете да урадите.</a>
