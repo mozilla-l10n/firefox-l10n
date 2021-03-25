@@ -318,6 +318,7 @@ about-logins-import-dialog-error-learn-more = Lleer más
 about-logins-import-dialog-error-try-again = Retentar…
 about-logins-import-dialog-error-cancel = Encaboxar
 about-logins-import-report-title = Sumariu de la importación
+about-logins-import-report-description = Anicios de sesión y contraseñes importaes a { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
@@ -333,6 +334,11 @@ about-logins-import-report-row-description-error-missing-field = Fallu: Falta { 
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-report-added =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Aniciu de sesión nuevu</div>
+       *[other] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Anicios de sesión nuevos</div>
+    }
 
 ## Logins import report page
 
