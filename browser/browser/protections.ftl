@@ -6,9 +6,9 @@
 #   $count (Number) - Number of tracking events blocked.
 graph-week-summary =
     { $count ->
-        [one] { -brand-short-name } је блокирао { $count } софтвер за праћење током протекле недеље
-        [few] { -brand-short-name } је блокирао { $count } софтвера за праћење током протекле недеље
-       *[other] { -brand-short-name } је блокирао { $count } софтвера за праћење током протекле недеље
+        [one] { -brand-short-name } је блокирао { $count } елемент за праћење током протекле недеље
+        [few] { -brand-short-name } је блокирао { $count } елемента за праћење током протекле недеље
+       *[other] { -brand-short-name } је блокирао { $count } елемената за праћење током протекле недеље
     }
 # Variables:
 #   $count (Number) - Number of tracking events blocked.
@@ -16,16 +16,16 @@ graph-week-summary =
 # earliest date recorded in the database.
 graph-total-tracker-summary =
     { $count ->
-        [one] <b>{ $count }</b> софтвер за праћење блокиран од { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
-        [few] <b>{ $count }</b> софтвера за праћење блокирано од { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
-       *[other] <b>{ $count }</b> софтвера за праћење блокирано од { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+        [one] Од { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } блокиран је <b>{ $count }</b> елемент за праћење
+        [few] Од { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } блокирана су <b>{ $count }</b> елемента за праћење
+       *[other] Од { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } блокирано је <b>{ $count }</b> елемената за праћење
     }
 # Text displayed instead of the graph when in Private Mode
 graph-private-window = { -brand-short-name } наставља да блокира пратиоце у приватном режиму, али не води евиденцију о томе шта је блокирано.
 # Weekly summary of the graph when the graph is empty in Private Mode
 graph-week-summary-private-window = Пратиоци које је { -brand-short-name } блокирао ове седмице
-protection-report-webpage-title = Сигурносна командна табла
-protection-report-page-content-title = Сигурносна командна табла
+protection-report-webpage-title = Контролна табла заштите
+protection-report-page-content-title = Контролна табла заштите
 # This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
 protection-report-page-summary = { -brand-short-name } може заштитити вашу приватност у позадини док прегледате. Ево персонализованог сажетка ових заштита, са алаткама за преузимање контроле над вашом безбедношћу на мрежи.
 # This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
@@ -43,10 +43,10 @@ graph-today = Данас
 graph-legend-description = Графикон који садржи укупан број сваке врсте пратилаца блокираних ове седмице.
 social-tab-title = Пратиоци с друштвених мрежа
 social-tab-contant = Друштвене мреже постављају софтвер за праћење на друге веб странице како би пратили шта радите, читате или гледате на мрежи. То друштвеним мрежама омогућава да о вама сазна много више од онога што делите на својим профилима. <a data-l10n-name="learn-more-link">Сазнајте више</a>
-cookie-tab-title = Вишестранични колачићи-пратиоци
+cookie-tab-title = Колачићи за праћење трећих страна
 cookie-tab-content = Ови колачићи вас прате с једне странице на другу ради прикупљања података о вашим онлајн навикама. Објављују их треће стране, попут оглашивача или компанија за анализу података. Блокирањем колачића с унакрсних страница може се смањити број огласа који вас прате по страницама. <a data-l10n-name="learn-more-link">Сазнајте више</a>
 tracker-tab-title = Садржај који прати
-tracker-tab-description = Веб странице могу да учитају огласе, видео записе и други садржај који садржи код за праћење. Блокирање овог садржаја може убрзати учитавање страница, али неки тастери, обрасци или поља за пријаву можда неће радити. <a data-l10n-name="learn-more-link">Сазнајте више</a>
+tracker-tab-description = Сајтови могу да учитавају спољне рекламе, видео-снимке и други садржај са елементима за праћење. Ако их блокирате, сајтови ће се учитавати брже, али нека дугмад, обрасци и поља за пријаву можда неће радити. <a data-l10n-name="learn-more-link">Сазнајте више</a>
 fingerprinter-tab-title = Хватачи отиска
 fingerprinter-tab-content = Хватачи отисака прикупљају подешавања вашег прегледача и рачунара како би створили ваш профил. Помоћу овог дигиталног отиска прста вас могу пратити преко различитих веб страница. <a data-l10n-name="learn-more-link">Сазнајте више</a>
 cryptominer-tab-title = Крипто-рудари
@@ -192,12 +192,12 @@ bar-tooltip-social =
            *[other] { $count } пратилаца с друштвених мрежа ({ $percentage }%)
         }
 bar-tooltip-cookie =
-    .title = Вишестранични колачићи-пратиоци
+    .title = Колачићи за праћење трећих страна
     .aria-label =
         { $count ->
-            [one] { $count } вишестранични колачић-пратилац ({ $percentage }%)
-            [few] { $count } вишестранична колачића-пратиоца ({ $percentage }%)
-           *[other] { $count } вишестраничних колачића-пратилаца ({ $percentage }%)
+            [one] { $count } колачић за праћење треће стране ({ $percentage }%)
+            [few] { $count } колачића за праћење треће стране ({ $percentage }%)
+           *[other] { $count } колачића за праћење треће стране ({ $percentage }%)
         }
 bar-tooltip-tracker =
     .title = Садржај који се користи за праћење
