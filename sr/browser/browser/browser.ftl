@@ -201,8 +201,14 @@ page-action-share-more-panel =
     .label = Још…
 page-action-send-tab-not-ready =
     .label = Синхронизујем уређаје…
+# "Pin" is being used as a metaphor for expressing the fact that these tabs
+# are "pinned" to the left edge of the tabstrip. Really we just want the
+# string to express the idea that this is a lightweight and reversible
+# action that keeps your tab where you can reach it easily.
+page-action-pin-tab-panel =
+    .label = Закачи картицу
 page-action-pin-tab-urlbar =
-    .tooltiptext = Закачи језичак
+    .tooltiptext = Закачи картицу
 page-action-unpin-tab-panel =
     .label = Откачи језичак
 page-action-unpin-tab-urlbar =
@@ -211,8 +217,8 @@ page-action-unpin-tab-urlbar =
 ## Auto-hide Context Menu
 
 full-screen-autohide =
-    .label = Сакриј алатне траке
-    .accesskey = H
+    .label = Сакриј траке са алаткама
+    .accesskey = т
 full-screen-exit =
     .label = Обустави приказ преко целог екрана
     .accesskey = F
@@ -221,7 +227,7 @@ full-screen-exit =
 
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
-search-one-offs-with-title = Овај пут потражи користећи:
+search-one-offs-with-title = Овог пута претражи помоћу:
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
@@ -273,11 +279,11 @@ bookmark-panel =
 
 ## Identity Panel
 
-identity-connection-not-secure = Небезбедна веза
-identity-connection-secure = Безбедна веза
+identity-connection-not-secure = Веза није безбедна
+identity-connection-secure = Веза је безбедна
 identity-connection-internal = Ово је безбедна { -brand-short-name } страница.
 identity-connection-file = Ова страница се складишти на рачунару.
-identity-extension-page = Ова страница је учитана са екстензије.
+identity-extension-page = Ову страницу је отворило проширење.
 identity-active-blocked = { -brand-short-name } је блокирао делове странице које нису безбедне.
 identity-custom-root = Везу је проверио издавач сертификата који Mozilla не препознаје.
 identity-passive-loaded = Делови ове странице нису безбедни (као што су слике).
@@ -287,38 +293,38 @@ identity-insecure-login-forms = Пријаве које су унесене на
 identity-permissions =
     .value = Дозволе
 identity-https-only-connection-upgraded = (надограђено на HTTPS)
-identity-https-only-label = HTTPS-Only режим
+identity-https-only-label = Режим „Само HTTPS”
 identity-https-only-dropdown-on =
-    .label = Укљ.
+    .label = Укључено
 identity-https-only-dropdown-off =
-    .label = Искљ.
+    .label = Искључено
 identity-https-only-dropdown-off-temporarily =
     .label = Привремено искључено
 identity-https-only-info-turn-on2 = Укључите режим „Само HTTPS” за овај сајт ако желите да { -brand-short-name } надогради везу кад је то могуће.
-identity-https-only-info-turn-off2 = Ако страница делује неисправно, можете искључити HTTPS-Only режим и поново учитати страницу преко несигурног HTTP-а.
+identity-https-only-info-turn-off2 = Ако страница делује неисправно, можете искључити режим „Само HTTPS” и поново је учитати преко небезбедног HTTP-а.
 identity-https-only-info-no-upgrade = Није могуће надоградити HTTP везу.
-identity-permissions-storage-access-header = Вишестранични колачићи
+identity-permissions-storage-access-header = Колачићи трећих страна
 identity-permissions-storage-access-hint = Ове стране могу користити вишестраничне колачиће и страничне податке током ваше посете страници.
 identity-permissions-reload-hint = Можда ћете морати поново учитати страницу да примените промене.
 identity-permissions-empty = Овом сајту нису додељене никакве посебне дозволе.
 identity-clear-site-data =
     .label = Обриши колачиће и податке сајта…
-identity-connection-not-secure-security-view = Нисте безбедно повезани са овом страницом.
-identity-connection-verified = Безбедно сте повезани са овом страницом.
+identity-connection-not-secure-security-view = Веза са овим сајтом није безбедна.
+identity-connection-verified = Веза са овим сајтом је безбедна.
 identity-ev-owner-label = Сертификат издан за:
 identity-description-custom-root = Mozilla не препознаје издавача овог сертификата. Можда је додат из вашег оперативног система или од стране администратора. <label data-l10n-name="link">Сазнајте више</label>
 identity-remove-cert-exception =
     .label = Уклони изузетак
     .accesskey = R
-identity-description-insecure = Веза до овог сајта није приватна. Информације које шаљете могу бити прочитане од стране других (као што су лозинке, поруке, кредитне картице, итд.).
+identity-description-insecure = Веза са овим сајтом није приватна. Информације које пошаљете (нпр. лозинке, поруке, кредитне картице итд.) могу видети други.
 identity-description-insecure-login-forms = Информације за пријаву које сте унели на овој страницу нису сигурне и могу бити угрожене.
-identity-description-weak-cipher-intro = Веза до овог сајта користи слабо шифровање и није приватна.
+identity-description-weak-cipher-intro = Веза са овим сајтом користи слабо шифровање и није приватна.
 identity-description-weak-cipher-risk = Друге особе могу да виде ваше информације или да модификују понашање веб сајта.
 identity-description-active-blocked = { -brand-short-name } је лоцирао делове сајта који нису сигурни. <label data-l10n-name="link">Сазнајте више</label>
-identity-description-passive-loaded = Веза није приватна и информације које делите могу бити прочитане од стране других.
+identity-description-passive-loaded = Веза са овим сајтом није приватна и информације које делите са њим могу видети други.
 identity-description-passive-loaded-insecure = Сајт садржи садржај који није безбедан (као што су слике). <label data-l10n-name="link">Сазнајте више</label>
 identity-description-passive-loaded-mixed = Иако је { -brand-short-name } блокирао неки садржај, још увек има садржаја на странци који није безбедан (као што су слике). <label data-l10n-name="link">Сазнајте више</label>
-identity-description-active-loaded = Сајт садржи садржај који није безбедан (као што су скрипте) и веза није приватна.
+identity-description-active-loaded = Овај сајт има садржај који није безбедан (попут скрипти) и веза са њим није приватна.
 identity-description-active-loaded-insecure = Информације које делите могу бити виђене од стране осталих (као што су лозинке, поруке, кредитне картице, итд.).
 identity-learn-more =
     .value = Сазнајте више
@@ -362,7 +368,7 @@ browser-tab-audio-pip = СЛИКА У СЛИЦИ
 
 browser-import-button2 =
     .label = Увези обележиваче…
-    .tooltiptext = Увези обележиваче из другог прегледача у { -brand-short-name }.
+    .tooltiptext = Увезите обележиваче из другог прегледача у { -brand-short-name }.
 bookmarks-toolbar-empty-message = Брзо приступите обележивачима тако што ћете их поставити овде на траку обележивача. <a data-l10n-name="manage-bookmarks">Управљајте обележивачима…</a>
 
 ## WebRTC Pop-up notifications
@@ -378,8 +384,8 @@ popup-screen-sharing-not-now =
     .label = Не сада
     .accesskey = w
 popup-screen-sharing-never =
-    .label = Немој никада
-    .accesskey = N
+    .label = Не питај поново
+    .accesskey = Н
 popup-silence-notifications-checkbox = Онемогућите обавештења од { -brand-short-name }-а током дељења
 popup-silence-notifications-checkbox-warning = { -brand-short-name } неће приказивати обавештења док делите.
 
@@ -410,8 +416,8 @@ urlbar-placeholder =
 #  $name (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
 urlbar-placeholder-search-mode-web-2 =
-    .placeholder = Претражи веб
-    .aria-label = Претражи  уз { $name }
+    .placeholder = Претражите интернет
+    .aria-label = Претрага помоћу услуге { $name }
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
@@ -422,8 +428,8 @@ urlbar-placeholder-search-mode-other-engine =
     .aria-label = Претражи { $name }
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
-    .placeholder = Унеси појмове за претрагу
-    .aria-label = Претражи забелешке
+    .placeholder = Унесите термин за претрагу
+    .aria-label = Претрага обележивача
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .placeholder = Унеси појмове за претрагу
@@ -435,7 +441,7 @@ urlbar-placeholder-search-mode-other-tabs =
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
-    .placeholder = Претражи уз { $name } или унеси адресу
+    .placeholder = Претражите помоћу услуге { $name } или унесите адресу
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Прегледач је под удаљеним управљањем
 urlbar-permissions-granted =
