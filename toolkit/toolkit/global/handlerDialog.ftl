@@ -9,53 +9,55 @@
 ##  $scheme - the type of link that's being opened.
 ##  $appName - Name of the application that will be opened.
 
-permission-dialog-description = Дозволити овој страници да отвори { $scheme } везу?
-permission-dialog-description-file = Дозволити овој датотеци да отвори { $scheme } везу?
-permission-dialog-description-host = Дозволити { $host } да отвори { $scheme } везу?
-permission-dialog-description-app = Дозволити овој страници да отвори { $scheme } везу преко { $appName }?
-permission-dialog-description-host-app = Дозволити { $host } да отвори { $scheme } везу преко { $appName }?
-permission-dialog-description-file-app = Дозволити овој датотеци да отвори { $scheme } везу преко { $appName }?
+permission-dialog-description = Дозволити овом сајту да отвори линк типа { $scheme }?
+permission-dialog-description-file = Дозволити овој датотеци да отвори линк типа { $scheme }?
+permission-dialog-description-host = Дозволити сајту { $host } да отвори линк типа { $scheme }?
+permission-dialog-description-app = Дозволити овом сајту да отвори линк типа { $scheme } помоћу програма { $appName }?
+permission-dialog-description-host-app = Дозволити сајту { $host } да отвори линк типа { $scheme } помоћу програма { $appName }?
+permission-dialog-description-file-app = Дозволити овој датотеци да отвори линк типа { $scheme } помоћу програма { $appName }?
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
 ## of the sentence as your language's grammar allows.
 
-permission-dialog-remember = Увек дозволи <strong>{ $host }</strong> да отвори <strong>{ $scheme }</strong> везе
-permission-dialog-remember-file = Увек дозволи овој датотеци да отвори <strong>{ $scheme }</strong> везе
+permission-dialog-remember = Увек дозволи сајту <strong>{ $host }</strong> да отвори линк типа <strong>{ $scheme }</strong>
+permission-dialog-remember-file = Увек дозволи овој датотеци да отвара линкове типа <strong>{ $scheme }</strong>
 
 ##
 
 permission-dialog-btn-open-link =
-    .label = Отвори везу
-    .accessKey = O
+    .label = Отвори линк
+    .accessKey = л
 permission-dialog-btn-choose-app =
-    .label = Изабери апликацију
-    .accessKey = A
-permission-dialog-unset-description = Мораћете да изабере апликацију.
-permission-dialog-set-change-app-link = Изаберите неку другу апликацију.
+    .label = Одабери програм
+    .accessKey = п
+permission-dialog-unset-description = Морате да изаберете програм.
+permission-dialog-set-change-app-link = Одаберите други програм.
 
 ## Chooser dialog
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
 chooser-window =
-    .title = Изабери апликацију
+    .title = Одабери програм
     .style = min-width: 26em; min-height: 26em;
 chooser-dialog =
-    .buttonlabelaccept = Отвори везу
-    .buttonaccesskeyaccept = O
-chooser-dialog-description = Изаберите апликацију за отварање { $scheme } везе.
+    .buttonlabelaccept = Отвори линк
+    .buttonaccesskeyaccept = л
+chooser-dialog-description = Одаберите програм којим ћете отворити линк типа { $scheme }.
 # Please keep the emphasis around the scheme (ie the `<strong>` HTML tags).
-chooser-dialog-remember = Увек користи ову апликацију за отварање <strong>{ $scheme }</strong> веза
+chooser-dialog-remember = Увек користи овај програм да отвара линкове типа <strong>{ $scheme }</strong>
 chooser-dialog-remember-extra =
-    { PLATFORM() ->
-        [windows] Ово се може променити у { -brand-short-name } опцијама.
-       *[other] Ово се може променити у { -brand-short-name } подешавањима.
-    }
-choose-other-app-description = Избор друге апликације
+    Ово можете да промените у подешавањима { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "gen") }
+        [feminine] { -brand-short-name(case: "gen") }
+        [neuter] { -brand-short-name(case: "gen") }
+       *[other] програма { -brand-short-name }
+    }.
+choose-other-app-description = Одаберите други програм
 choose-app-btn =
-    .label = Избор…
-    .accessKey = И
-choose-other-app-window-title = Неки други програм…
+    .label = Одабери…
+    .accessKey = О
+choose-other-app-window-title = Други програм…
 # Displayed under the name of a protocol handler in the Launch Application dialog.
 choose-dialog-privatebrowsing-disabled = Онемогућено у приватним прозорима

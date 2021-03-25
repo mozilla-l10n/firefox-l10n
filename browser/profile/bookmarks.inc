@@ -7,11 +7,11 @@
 # your locale code, and link to your translated pages as soon as they're
 # live.
 
-#define bookmarks_title Забелешке
-#define bookmarks_heading Забелешке
+#define bookmarks_title Обележивачи
+#define bookmarks_heading Обележивачи
 
-#define bookmarks_toolbarfolder Алатна трака са забелешкама
-#define bookmarks_toolbarfolder_description Додајте забелешке у овај директоријум како би биле приказане у алатној траци за забелешке
+#define bookmarks_toolbarfolder Фасцикла траке са обележивачима
+#define bookmarks_toolbarfolder_description Додајте обележиваче у ову фасциклу како би били приказани у траци са обележивачима
 
 # LOCALIZATION NOTE (getting_started):
 # link title for https://www.mozilla.org/en-US/firefox/central/

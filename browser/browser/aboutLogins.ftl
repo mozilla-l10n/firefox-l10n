@@ -30,11 +30,7 @@ about-logins-menu-menuitem-import-from-another-browser = Увези из дру�
 about-logins-menu-menuitem-import-from-a-file = Увези из датотеке…
 about-logins-menu-menuitem-export-logins = Извези лозинке…
 about-logins-menu-menuitem-remove-all-logins = Уклони све лозинке…
-menu-menuitem-preferences =
-    { PLATFORM() ->
-        [windows] Подешавања
-       *[other] Подешавања
-    }
+menu-menuitem-preferences = Подешавања
 about-logins-menu-menuitem-help = Помоћ
 menu-menuitem-android-app = { -lockwise-brand-short-name } за Андроид
 menu-menuitem-iphone-app = { -lockwise-brand-short-name } за iPhone и iPad
@@ -166,9 +162,11 @@ enable-password-sync-notification-message =
     }
 enable-password-sync-preferences-button =
     .label =
-        { PLATFORM() ->
-            [windows] Отвори подешавања { -sync-brand-short-name }-а
-           *[other] Отвори подешавања { -sync-brand-short-name }-а
+        Отвори подешавања { -brand-short-name.gender ->
+            [masculine] { -brand-short-name(case: "gen") }
+            [feminine] { -brand-short-name(case: "gen") }
+            [neuter] { -brand-short-name(case: "gen") }
+           *[other] програма { -brand-short-name }
         }
     .accesskey = О
 about-logins-enable-password-sync-dont-ask-again-button =
