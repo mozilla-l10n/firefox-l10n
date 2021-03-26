@@ -28,6 +28,18 @@ search-input-box =
             [windows] In Einstellungen suchen
            *[other] In Einstellungen suchen
         }
+settings-page-title = Einstellungen
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box2 =
+    .style = width: 15.4em
+    .placeholder = In Einstellungen suchen
 managed-notice = Der Browser wird durch Ihre Organisation verwaltet.
 category-list =
     .aria-label = Kategorien
@@ -52,6 +64,7 @@ category-experimental =
 pane-experimental-subtitle = Vorsicht!
 pane-experimental-search-results-header = { -brand-short-name } Experimente: Vorsicht!
 pane-experimental-description = Das Ändern von erweiterten Konfigurationseinstellungen kann sich auf die Leistung und Sicherheit von { -brand-short-name } auswirken.
+pane-experimental-description2 = Das Ändern von erweiterten Konfigurationseinstellungen kann sich auf die Leistung und Sicherheit von { -brand-short-name } auswirken.
 pane-experimental-reset =
     .label = Standard wiederherstellen
     .accesskey = w
@@ -121,6 +134,8 @@ search-results-empty-message =
         [windows] Keine Treffer in den Einstellungen für "<span data-l10n-name="query"></span>".
        *[other] Keine Treffer in den Einstellungen für "<span data-l10n-name="query"></span>".
     }
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 = Keine Treffer in den Einstellungen für "<span data-l10n-name="query"></span>".
 search-results-help-link = Benötigen Sie Hilfe? Dann besuchen Sie die <a data-l10n-name="url">Hilfeseite für { -brand-short-name }</a>.
 
 ## General Section
