@@ -660,6 +660,12 @@ library-bookmarks-menu =
 library-recent-activity-title =
     .value = Gweithgareddau Diweddar
 
+## Pocket toolbar button
+
+save-to-pocket-button =
+    .label = Cadw i { -pocket-brand-name }
+    .tooltiptext = Cadw i { -pocket-brand-name }
+
 ## More items
 
 more-menu-go-offline =
@@ -685,3 +691,6 @@ panel-save-update-password = Cyfrinair
 #  $name (String): The name of the addon that will be removed.
 addon-removal-title = Tynnu { $name }?
 addon-removal-abuse-report-checkbox = Adroddwch yr estyniad hwn i { -vendor-short-name }
+
+## Remote / Synced tabs
+
