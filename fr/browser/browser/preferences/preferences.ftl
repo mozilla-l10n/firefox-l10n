@@ -28,6 +28,18 @@ search-input-box =
             [windows] Rechercher dans les options
            *[other] Rechercher dans les préférences
         }
+settings-page-title = Paramètres
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box2 =
+    .style = width: 19em
+    .placeholder = Rechercher dans les paramètres
 managed-notice = Votre navigateur est géré par votre organisation.
 category-list =
     .aria-label = Catégories
@@ -52,6 +64,7 @@ category-experimental =
 pane-experimental-subtitle = Agissez avec précaution
 pane-experimental-search-results-header = Expériences de { -brand-short-name } : gardez l’œil ouvert
 pane-experimental-description = Modifier les préférences de configuration avancées peut affecter les performances et la sécurité de { -brand-short-name }.
+pane-experimental-description2 = Modifier les paramètres de configuration avancés peut affecter les performances et la sécurité de { -brand-short-name }.
 pane-experimental-reset =
     .label = Configuration par défaut
     .accesskey = d
@@ -121,6 +134,8 @@ search-results-empty-message =
         [windows] Désolé, il n’y a aucun résultat dans les options pour « <span data-l10n-name="query"></span> ».
        *[other] Désolé, il n’y a aucun résultat dans les préférences pour « <span data-l10n-name="query"></span> ».
     }
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 = Désolé, il n’y a aucun résultat dans les paramètres pour « <span data-l10n-name="query"></span> ».
 search-results-help-link = Besoin d’aide ? Consultez <a data-l10n-name="url">l’assistance de { -brand-short-name }</a>
 
 ## General Section
@@ -382,6 +397,7 @@ update-setting-write-failure-message =
     { -brand-short-name } a rencontré une erreur et n’a pas enregistré cette modification. Notez que modifier cette préférence de mise à jour nécessite la permission d’écriture pour le fichier ci-dessous. Vous, ou un administrateur système, pouvez peut-être corriger l’erreur en accordant au groupe Users l’accès complet à ce fichier.
     
     Écriture impossible dans le fichier : { $path }
+update-setting-write-failure-title2 = Erreur lors de l’enregistrement des paramètres de mise à jour
 update-in-progress-title = Mise à jour en cours
 update-in-progress-message = Voulez-vous que { -brand-short-name } continue cette mise à jour ?
 update-in-progress-ok-button = &Abandonner
