@@ -25,6 +25,10 @@ main-context-menu-back-2 =
     .tooltiptext = সর্বশেষ পূর্ববর্তী পৃষ্ঠায় প্রত্যাবর্তন করুন ({ $shortcut })
     .aria-label = পূর্ববর্তী
     .accesskey = B
+# This menuitem is only visible on macOS
+main-context-menu-back-mac =
+    .label = পূর্ববর্তী
+    .accesskey = B
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -46,6 +50,10 @@ main-context-menu-forward-2 =
     .tooltiptext = প্রদর্শিত পৃষ্ঠার অনুক্রম অনুযায়ী, পরবর্তী পৃষ্ঠায় এগিয়ে চলুন ({ $shortcut })
     .aria-label = পরবর্তী
     .accesskey = F
+# This menuitem is only visible on macOS
+main-context-menu-forward-mac =
+    .label = পরবর্তী
+    .accesskey = F
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
@@ -56,6 +64,10 @@ toolbar-button-forward-2 =
 main-context-menu-reload =
     .aria-label = নতুন করে প্রদর্শন করুন
     .accesskey = R
+# This menuitem is only visible on macOS
+main-context-menu-reload-mac =
+    .label = নতুন করে প্রদর্শন করুন
+    .accesskey = R
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
@@ -63,6 +75,10 @@ toolbar-button-reload =
 
 main-context-menu-stop =
     .aria-label = থামান
+    .accesskey = S
+# This menuitem is only visible on macOS
+main-context-menu-stop-mac =
+    .label = থামান
     .accesskey = S
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
@@ -125,6 +141,11 @@ main-context-menu-save-link =
     .accesskey = ন
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+
+## The access keys for "Copy Link" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
@@ -261,6 +282,14 @@ main-context-menu-send-to-device =
 main-context-menu-view-background-image =
     .label = পটভূমির ছবি প্রদর্শন
     .accesskey = প
+
+## The access keys for "Use Saved Login" and "Use Saved Password"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+
+##
+
 main-context-menu-keyword =
     .label = অনুসন্ধান করার উদ্দেশ্যে কোনো শব্দ লিখুন...
     .accesskey = K
