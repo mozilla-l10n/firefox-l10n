@@ -640,6 +640,12 @@ library-bookmarks-menu =
 library-recent-activity-title =
     .value = Friss tevékenység
 
+## Pocket toolbar button
+
+save-to-pocket-button =
+    .label = Mentés a { -pocket-brand-name }be
+    .tooltiptext = Mentés a { -pocket-brand-name }be
+
 ## More items
 
 more-menu-go-offline =
@@ -665,3 +671,6 @@ panel-save-update-password = Jelszó
 #  $name (String): The name of the addon that will be removed.
 addon-removal-title = Eltávoltja a következőt: { $name }?
 addon-removal-abuse-report-checkbox = A kiegészítő jelentése a { -vendor-short-name } felé
+
+## Remote / Synced tabs
+
