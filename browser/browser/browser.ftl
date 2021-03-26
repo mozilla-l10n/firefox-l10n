@@ -629,6 +629,12 @@ library-bookmarks-menu =
 library-recent-activity-title =
     .value = Hoạt động gần đây
 
+## Pocket toolbar button
+
+save-to-pocket-button =
+    .label = Lưu vào { -pocket-brand-name }
+    .tooltiptext = Lưu vào { -pocket-brand-name }
+
 ## More items
 
 more-menu-go-offline =
@@ -654,3 +660,6 @@ panel-save-update-password = Mật khẩu
 #  $name (String): The name of the addon that will be removed.
 addon-removal-title = Xóa { $name }?
 addon-removal-abuse-report-checkbox = Báo cáo tiện ích mở rộng này cho { -vendor-short-name }
+
+## Remote / Synced tabs
+
