@@ -635,6 +635,12 @@ library-bookmarks-menu =
 library-recent-activity-title =
     .value = פעילות אחרונה
 
+## Pocket toolbar button
+
+save-to-pocket-button =
+    .label = שמירה אל { -pocket-brand-name }
+    .tooltiptext = שמירה אל { -pocket-brand-name }
+
 ## More items
 
 more-menu-go-offline =
@@ -660,3 +666,6 @@ panel-save-update-password = ססמה
 #  $name (String): The name of the addon that will be removed.
 addon-removal-title = להסיר את { $name }?
 addon-removal-abuse-report-checkbox = דיווח על הרחבה זו ל־{ -vendor-short-name }
+
+## Remote / Synced tabs
+
