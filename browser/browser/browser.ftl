@@ -221,6 +221,11 @@ browser-window-close-button =
 ## Tab actions
 
 
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+
 ## Bookmarks toolbar items
 
 
@@ -297,8 +302,6 @@ pointerlock-warning-no-domain = Olu xwebhu lulawula ipoyinta yakho. Cofa uEsc uk
 
 bookmarks-show-all-bookmarks =
     .label = Bonisa zonke iibhukhmakhi
-bookmarks-recent-bookmarks =
-    .value = Okufakwe Ibhukmakhi Kutshanje
 bookmarks-toolbar-chevron =
     .tooltiptext = Bonisa iibhukhmakhi ezininzi
 bookmarks-sidebar-content =
@@ -320,10 +323,9 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
-library-bookmarks-bookmark-this-page =
-    .label = Faka ibhukhmakhi kweli khasi
-library-bookmarks-bookmark-edit =
-    .label = Hlela Le Bhukhmakhi
+
+## Pocket toolbar button
+
 
 ## More items
 
@@ -334,3 +336,12 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Enye into evakalayo okanye ividiyo kule sayithi isebenzisa i-DRM software, which may limit what { -brand-short-name } can let you do with it.
+
+## Password save/update panel
+
+
+## Add-on removal warning
+
+
+## Remote / Synced tabs
+
