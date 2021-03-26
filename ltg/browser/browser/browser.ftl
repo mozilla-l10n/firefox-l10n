@@ -266,6 +266,11 @@ browser-window-close-button =
 ## Tab actions
 
 
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+
 ## Bookmarks toolbar items
 
 
@@ -346,8 +351,6 @@ pointerlock-warning-no-domain = Itys dokuments kontrolej kursoru. Damīdz tauste
 
 bookmarks-show-all-bookmarks =
     .label = Ruodeit vysys gruomotzeimes
-bookmarks-recent-bookmarks =
-    .value = Naseņ saglobuotuos
 bookmarks-toolbar-chevron =
     .tooltiptext = Ruodeit vairuok gruomotzeimju
 bookmarks-sidebar-content =
@@ -363,12 +366,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] Paslēpt gruomotzeimju suonjūsla
            *[other] Attaiseit gruomotzeimes suonjūslā
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] Paslēpt gruomotzeimju suonjūsla
-           *[other] Attāloj gruomotzeimes suonu juslā
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -399,10 +396,9 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-menu =
     .label = Gruomotzeimes
-library-bookmarks-bookmark-this-page =
-    .label = Saglobuot itū lopu gruomotzeimēs
-library-bookmarks-bookmark-edit =
-    .label = Redigeit itū gruomotzeimi
+
+## Pocket toolbar button
+
 
 ## More items
 
@@ -413,3 +409,12 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Some audio or video on this site uses DRM software, which may limit what { -brand-short-name } can let you do with it.
+
+## Password save/update panel
+
+
+## Add-on removal warning
+
+
+## Remote / Synced tabs
+
