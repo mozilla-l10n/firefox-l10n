@@ -28,6 +28,18 @@ search-input-box =
             [windows] Zoeken in opties
            *[other] Zoeken in voorkeuren
         }
+settings-page-title = Instellingen
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box2 =
+    .style = width: 15.4em
+    .placeholder = Zoeken in Instellingen
 managed-notice = Uw browser wordt door uw organisatie beheerd.
 category-list =
     .aria-label = Categorieën
@@ -52,6 +64,7 @@ category-experimental =
 pane-experimental-subtitle = Ga voorzichtig verder
 pane-experimental-search-results-header = { -brand-short-name }-experimenten: voorzichtigheid geadviseerd
 pane-experimental-description = Het wijzigen van geavanceerde configuratievoorkeuren kan de prestaties of veiligheid van { -brand-short-name } beïnvloeden.
+pane-experimental-description2 = Het wijzigen van geavanceerde configuratie-instellingen kan de prestaties of veiligheid van { -brand-short-name } beïnvloeden.
 pane-experimental-reset =
     .label = Standaardwaarden herstellen
     .accesskey = h
@@ -121,6 +134,8 @@ search-results-empty-message =
         [windows] Sorry! Er zijn geen resultaten in Opties voor ‘<span data-l10n-name="query"></span>’.
        *[other] Sorry! Er zijn geen resultaten in Voorkeuren voor ‘<span data-l10n-name="query"></span>’.
     }
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 = Sorry! Er zijn geen resultaten in Instellingen voor ‘<span data-l10n-name="query"></span>’.
 search-results-help-link = Hulp nodig? Bezoek <a data-l10n-name="url">{ -brand-short-name } Support</a>
 
 ## General Section
@@ -369,6 +384,9 @@ update-application-check-choose =
 update-application-manual =
     .label = Nooit controleren op updates (niet aanbevolen)
     .accesskey = N
+update-application-background-enabled =
+    .label = Als { -brand-short-name } niet wordt uitgevoerd
+    .accesskey = A
 update-application-warning-cross-user-setting = Deze instelling is van toepassing op alle Windows-accounts en { -brand-short-name }-profielen die deze installatie van { -brand-short-name } gebruiken.
 update-application-use-service =
     .label = Een achtergrondservice gebruiken om updates te installeren
