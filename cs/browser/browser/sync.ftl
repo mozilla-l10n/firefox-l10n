@@ -26,3 +26,5 @@ fxa-signout-dialog =
     .title = Odhlášení od { -fxaccount-brand-name(case: "gen", capitalization: "lower") }
     .style = min-width: 375px;
     .buttonlabelaccept = Odhlásit se
+fxa-signout-dialog2-button = Odhlásit se
+fxa-signout-dialog2-checkbox = Odstranit data z tohoto zařízení (přihlašovací údaje, historii, záložky atd.).

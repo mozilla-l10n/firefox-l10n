@@ -96,6 +96,9 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = Ok, rozumím
     .buttonaccesskey = O
 appmenu-addon-post-install-message = Své doplňky spravujte klepnutím na <image data-l10n-name='addon-install-icon'></image> v nabídce <image data-l10n-name='addon-menu-icon'></image>.
+appmenu-addon-private-browsing-installed2 =
+    .buttonlabel = OK
+    .buttonaccesskey = O
 appmenu-addon-post-install-incognito-checkbox =
     .label = Povolit toto rozšíření v anonymních oknech
     .accesskey = P

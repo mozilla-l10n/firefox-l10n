@@ -11,6 +11,8 @@
 
 ## Application Menu (macOS only)
 
+menu-application-preferences =
+    .label = Předvolby
 menu-application-services =
     .label = Služby
 menu-application-hide-this =
@@ -274,9 +276,6 @@ menu-tools-fxa-sign-in =
            *[other] aplikaci { -brand-product-name }
         }…
     .accesskey = p
-menu-tools-extensions =
-    .label = Rozšíření a motivy vzhledu
-    .accesskey = e
 menu-tools-fxa-sign-in2 =
     .label = Přihlásit se
     .accesskey = P
@@ -311,8 +310,8 @@ menu-settings =
     .label = Nastavení
     .accesskey =
         { PLATFORM() ->
-            [windows] N
-           *[other] N
+            [windows] s
+           *[other] s
         }
 menu-preferences =
     .label =

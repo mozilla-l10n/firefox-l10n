@@ -28,6 +28,18 @@ search-input-box =
             [windows] Najít v možnostech
            *[other] Najít v předvolbách
         }
+settings-page-title = Nastavení
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box2 =
+    .style = width: 15.4em
+    .placeholder = Najít nastavení
 managed-notice = Tento prohlížeč je spravován vaší organizací.
 category-list =
     .aria-label = Kategorie
@@ -52,6 +64,13 @@ category-experimental =
 pane-experimental-subtitle = Tady pozor!
 pane-experimental-search-results-header = Experimenty { -brand-short-name(case: "gen") }: Postupujte obezřetně!
 pane-experimental-description = Změny v pokročilé konfiguraci mohou negativně ovlivnit výkon a bezpečnost aplikace { -brand-short-name }.
+pane-experimental-description2 =
+    Změny v pokročilém nastavení mohou negativně ovlivnit výkon a bezpečnost { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "gen") }
+        [feminine] { -brand-short-name(case: "gen") }
+        [neuter] { -brand-short-name(case: "gen") }
+       *[other] aplikace { -brand-short-name }
+    }.
 pane-experimental-reset =
     .label = Obnovit výchozí nastavení
     .accesskey = O
@@ -157,6 +176,8 @@ search-results-empty-message =
         [windows] Je nám líto, pro „<span data-l10n-name="query"></span>“ jsme v možnostech nic nenašli.
        *[other] Je nám líto, pro „<span data-l10n-name="query"></span>“ jsme v předvolbách nic nenašli.
     }
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 = Je nám líto, pro „<span data-l10n-name="query"></span>“ jsme v nastavení nic nenašli.
 search-results-help-link =
     Potřebujete pomoc? Navštivte <a data-l10n-name="url">Podporu { -brand-short-name.gender ->
         [masculine] { -brand-short-name(case: "gen") }
@@ -481,6 +502,7 @@ update-setting-write-failure-message =
     } problém při ukládání změny nastavení. Změna těchto nastavení vyžaduje oprávnění k zápisu do níže uvedeného souboru. Vy nebo správce vašeho systému můžete tento problém vyřešit přidělením úplných oprávnění k tomuto souboru pro skupinu Users.
     
     Není možný zápis do souboru: { $path }
+update-setting-write-failure-title2 = Chyba při ukládání nastavení aktualizací
 update-in-progress-title = Probíhá aktualizace
 update-in-progress-message =
     { -brand-short-name.gender ->
@@ -708,6 +730,7 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Našeptávat dotazy pro vyhledávač také v anonymních oknech
 suggestions-addressbar-settings-generic = Změnit předvolby našeptávání v adresním řádku
+suggestions-addressbar-settings-generic2 = Změnit nastavení našeptávání v adresním řádku
 search-suggestions-cant-show =
     Návrhy vyhledávání se nebudou adresním řádku zobrazovat, protože jste { -brand-short-name.gender ->
         [masculine] { -brand-short-name(case: "acc") }
@@ -753,6 +776,8 @@ containers-back-button =
             [windows] Zpět do Možností
            *[other] Zpět do Předvoleb
         }
+containers-back-button2 =
+    .aria-label = Zpět do nastavení
 containers-header = Kontejnerové panely
 containers-add-button =
     .label = Přidat kontejner
@@ -762,6 +787,8 @@ containers-new-tab-check =
     .accesskey = t
 containers-preferences-button =
     .label = Předvolby
+containers-settings-button =
+    .label = Nastavení
 containers-remove-button =
     .label = Odstranit
 
@@ -770,6 +797,7 @@ containers-remove-button =
 
 sync-signedout-caption = Vezměte si web s sebou
 sync-signedout-description = Synchronizujte své záložky, historii, panely, hesla, doplňky a předvolby ve všech svých zařízeních.
+sync-signedout-description2 = Synchronizujte své záložky, historii, panely, hesla, doplňky a nastavení ve všech svých zařízeních.
 sync-signedout-account-signin2 =
     .label = Přihlášení k { -sync-brand-short-name(case: "dat") }…
     .accesskey = i
@@ -812,6 +840,7 @@ prefs-sync-setup =
     .label = Nastavit { -sync-brand-short-name(case: "acc") }…
     .accesskey = N
 prefs-sync-offer-setup-label = Synchronizujte své záložky, historii, panely, hesla, doplňky a předvolby ve všech svých zařízeních.
+prefs-sync-offer-setup-label2 = Synchronizujte své záložky, historii, panely, hesla, doplňky a nastavení ve všech svých zařízeních.
 prefs-sync-now =
     .labelnotsyncing = Synchronizovat
     .accesskeynotsyncing = S
@@ -832,6 +861,7 @@ sync-currently-syncing-prefs =
         [windows] Možnosti
        *[other] Předvolby
     }
+sync-currently-syncing-settings = Nastavení
 sync-change-options =
     .label = Změnit…
     .accesskey = Z
@@ -883,6 +913,10 @@ sync-engine-prefs =
             [windows] M
            *[other] P
         }
+sync-engine-settings =
+    .label = Nastavení
+    .tooltiptext = Nastavení v sekcích Obecné a Soukromí a zabezpečení
+    .accesskey = s
 
 ## The device name controls.
 
@@ -1374,6 +1408,9 @@ space-alert-under-5gb-message =
         [neuter] { -brand-short-name(case: "dat") }
        *[other] Aplikaci { -brand-short-name }
     } dochází místo na disku. Obsah webové stránky se nemusí zobrazit správně. Klepněte na „Dozvědět se více“ o optimalizaci využití disku k lepšímu prohlížení webu.
+space-alert-over-5gb-settings-button =
+    .label = Otevřít Nastavení
+    .accesskey = O
 
 ## Privacy Section - HTTPS-Only
 
