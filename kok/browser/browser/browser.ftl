@@ -135,6 +135,11 @@ browser-window-close-button =
 ## Tab actions
 
 
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+
 ## Bookmarks toolbar items
 
 
@@ -199,10 +204,9 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
-library-bookmarks-bookmark-this-page =
-    .label = ह्या पानाक बूकमार्क करचें
-library-bookmarks-bookmark-edit =
-    .label = हो बूकमार्क संपादीत करचो
+
+## Pocket toolbar button
+
 
 ## More items
 
@@ -213,3 +217,12 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = ह्या सायटीवयलो काय ऑडियो वो व्हिडियो DRM सॉफ्टवेअर वापरता, जे { -brand-short-name } तुमका ताजेसंयत किदे करपाक दिंव शकता हाजेर मर्यादा हाडपाक शकता.
+
+## Password save/update panel
+
+
+## Add-on removal warning
+
+
+## Remote / Synced tabs
+
