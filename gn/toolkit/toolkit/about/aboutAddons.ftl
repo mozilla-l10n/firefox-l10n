@@ -34,6 +34,9 @@ sidebar-preferences-button-title =
             [windows] { -brand-short-name } Poravopyrã
            *[other] { -brand-short-name } Jerohoryvéva
         }
+addons-settings-button = { -brand-short-name } Ñemboheko
+sidebar-settings-button-title =
+    .title = { -brand-short-name } Ñemboheko
 show-unsigned-extensions-button =
     .label = Heta pukukue ndaikatúi kuri ojehechajey
 show-all-extensions-button =
@@ -374,9 +377,6 @@ addon-detail-private-browsing-disallow = Ani emoneĩ
 addon-badge-recommended2 =
     .title = { -brand-product-name } omoneĩ jepysokue oguerekóva tekorosã ha tembiapokue
     .aria-label = { addon-badge-recommended2.title }
-addon-badge-line2 =
-    .title = Kóva ha’e jepysokue omboguatáva umi { -brand-product-name } moheñoihára.
-    .aria-label = { addon-badge-line2.title }
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =

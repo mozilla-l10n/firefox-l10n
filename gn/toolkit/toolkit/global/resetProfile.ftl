@@ -12,3 +12,4 @@ refresh-profile-remove = Eipe’a umi moĩmbaha ha mba’eteéva
 refresh-profile-restore = Embojevyjey pe kundaha ñemboheko yjypykuéva repykuépe
 refresh-profile = Eme’ẽ { -brand-short-name } omoĩ hag̃ua hendaitépe
 refresh-profile-button = { -brand-short-name } mbopiro’y…
+refresh-profile-learn-more = Kuaave
