@@ -642,6 +642,12 @@ library-bookmarks-menu =
 library-recent-activity-title =
     .value = Нещодавня активність
 
+## Pocket toolbar button
+
+save-to-pocket-button =
+    .label = Зберегти в { -pocket-brand-name }
+    .tooltiptext = Зберегти в { -pocket-brand-name }
+
 ## More items
 
 more-menu-go-offline =
@@ -667,3 +673,6 @@ panel-save-update-password = Пароль
 #  $name (String): The name of the addon that will be removed.
 addon-removal-title = Вилучити { $name }?
 addon-removal-abuse-report-checkbox = Поскаржитись на це розширення до { -vendor-short-name }
+
+## Remote / Synced tabs
+
