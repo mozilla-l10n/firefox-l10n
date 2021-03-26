@@ -7,6 +7,12 @@
 
 appmenuitem-update-banner =
     .label-update-downloading = Preberá sa aktualizácia aplikácie { -brand-shorter-name }
+appmenuitem-update-banner2 =
+    .label-update-downloading = Preberá sa aktualizácia pre { -brand-shorter-name }
+    .label-update-available = Je dostupná aktualizácia — prevziať
+    .label-update-manual = Je dostupná aktualizácia — prevziať
+    .label-update-unsupported = Nie je možné aktualizovať
+    .label-update-restart = Je dostupná aktualizácia — reštartovať
 appmenuitem-protection-dashboard-title = Nástenka ochrany súkromia
 appmenuitem-customize-mode =
     .label = Prispôsobiť…
@@ -21,12 +27,20 @@ appmenuitem-passwords =
     .label = Heslá
 appmenuitem-extensions-and-themes =
     .label = Rozšírenia a témy vzhľadu
+appmenuitem-addons-and-themes =
+    .label = Doplnky a témy
 appmenuitem-find-in-page =
     .label = Hľadať na stránke…
 appmenuitem-more-tools =
     .label = Ďalšie nástroje
 appmenuitem-exit =
     .label = Ukončiť
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Ukončiť
+           *[other] Ukončiť
+        }
 appmenu-menu-button-closed =
     .tooltiptext = Otvorí ponuku aplikácie
     .label = { -brand-shorter-name }
