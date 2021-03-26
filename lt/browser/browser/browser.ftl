@@ -679,3 +679,6 @@ addon-removal-abuse-report-checkbox = Pranešti apie šį priedą į „{ -vendo
 
 ## Remote / Synced tabs
 
+remote-tabs-manage-account =
+    .label = Tvarkyti paskyrą
+remote-tabs-sync-now = Sinchronizuoti dabar
