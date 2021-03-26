@@ -270,6 +270,11 @@ browser-window-close-button =
 ## Tab actions
 
 
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+
 ## Bookmarks toolbar items
 
 
@@ -350,8 +355,6 @@ pointerlock-warning-no-domain = Dokumen ini mempunyai kawalan ke atas penunjuk a
 
 bookmarks-show-all-bookmarks =
     .label = Papar Semua Tandabuku
-bookmarks-recent-bookmarks =
-    .value = Tandabuku Terkini
 bookmarks-toolbar-chevron =
     .tooltiptext = Papar tandabuku selanjutnya
 bookmarks-sidebar-content =
@@ -367,12 +370,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] Sorok Bar sisi Tandabuku
            *[other] Papar Tandabuku Bar Sisi
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] Sorok Bar alat Tandabuku
-           *[other] Papar Bar alat Tandabuku
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -403,10 +400,9 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-menu =
     .label = Tandabuku
-library-bookmarks-bookmark-this-page =
-    .label = Tandabuku Halaman Ini
-library-bookmarks-bookmark-edit =
-    .label = Edit Tandabuku Ini
+
+## Pocket toolbar button
+
 
 ## More items
 
@@ -417,3 +413,12 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Beberapa audio atau video pada laman ini menggunakan perisian DRM, yang mungkin mengehadkan penggunaan anda dengan { -brand-short-name }.
+
+## Password save/update panel
+
+
+## Add-on removal warning
+
+
+## Remote / Synced tabs
+
