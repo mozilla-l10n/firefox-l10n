@@ -294,6 +294,11 @@ browser-window-close-button =
 ## Tab actions
 
 
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+
 ## Bookmarks toolbar items
 
 
@@ -406,8 +411,6 @@ pointerlock-warning-no-domain = Jami eni Tye ki twero i kom lacim ma megi. Dii E
 
 bookmarks-show-all-bookmarks =
     .label = Nyut alamabuk weng
-bookmarks-recent-bookmarks =
-    .value = Ma kiketo Alamabuk cokki
 bookmarks-toolbar-chevron =
     .tooltiptext = Nyut alama buk mukene
 bookmarks-sidebar-content =
@@ -423,12 +426,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] Kan lanyut nget me alamabuk
            *[other] Nen gintic alama buk ma inget
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] Kan gitic me alamabuk
-           *[other] Nen gintic alama buk
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -466,10 +463,9 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-menu =
     .label = Alamabuk
-library-bookmarks-bookmark-this-page =
-    .label = Ket alama buk i pot buk man
-library-bookmarks-bookmark-edit =
-    .label = Yub alama buk man
+
+## Pocket toolbar button
+
 
 ## More items
 
@@ -480,3 +476,12 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Dwon ki vidio mogo i kakube man tiyo ki purugram me DRM, ma romo gengo { -brand-short-name } mene ma weko itiyo kwede.
+
+## Password save/update panel
+
+
+## Add-on removal warning
+
+
+## Remote / Synced tabs
+
