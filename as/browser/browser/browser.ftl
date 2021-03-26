@@ -441,6 +441,9 @@ library-bookmarks-menu =
 
 ## Pocket toolbar button
 
+save-to-pocket-button =
+    .label = { -pocket-brand-name }-ত সাঁচি থওক
+    .tooltiptext = { -pocket-brand-name }-ত সাঁচি থওক
 
 ## More items
 
