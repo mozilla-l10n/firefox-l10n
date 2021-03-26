@@ -34,6 +34,9 @@ sidebar-preferences-button-title =
             [windows] Nastajenja { -brand-short-name }
            *[other] Nastajenja { -brand-short-name }
         }
+addons-settings-button = Nastajenja { -brand-short-name }
+sidebar-settings-button-title =
+    .title = Nastajenja { -brand-short-name }
 show-unsigned-extensions-button =
     .label = Někotre rozšěrjenja njedachu so wobkrućić
 show-all-extensions-button =
@@ -378,9 +381,6 @@ addon-detail-private-browsing-disallow = Njedowolić
 addon-badge-recommended2 =
     .title = { -brand-product-name } jenož rozšěrjenja doporučuje, kotrež našim standardam za wěstotu a wukon wotpowěduja.
     .aria-label = { addon-badge-recommended2.title }
-addon-badge-line2 =
-    .title = To je oficielne rozšěrjenje, kotrež je so wot wuwiwarjow { -brand-product-name } wuwiło
-    .aria-label = { addon-badge-line2.title }
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
