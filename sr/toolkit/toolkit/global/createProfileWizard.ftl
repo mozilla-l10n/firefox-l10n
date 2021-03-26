@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 create-profile-window =
-    .title = Чаробњак за прављење профила
-    .style = width: 50em; height: 35em;
+    .title = Помоћник за израду профила
+    .style = width: 45em; height: 32em;
 
 ## First wizard page
 
