@@ -19,6 +19,20 @@ newtab-search-box-search-button =
     .title = Pytać
     .aria-label = Pytać
 newtab-search-box-search-the-web-text = Web přepytać
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-text = Pytajće z { $engine } abo zapodajće adresu
+newtab-search-box-handoff-text-no-engine = Pytać abo adresu zapodać
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-input =
+    .placeholder = Pytajće z { $engine } abo zapodajće adresu
+    .title = Pytajće z { $engine } abo zapodajće adresu
+    .aria-label = Pytajće z { $engine } abo zapodajće adresu
+newtab-search-box-handoff-input-no-engine =
+    .placeholder = Pytać abo adresu zapodać
+    .title = Pytać abo adresu zapodać
+    .aria-label = Pytać abo adresu zapodać
 newtab-search-box-search-the-web-input =
     .placeholder = Web přepytać
     .title = Web přepytać

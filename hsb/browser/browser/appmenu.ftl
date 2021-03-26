@@ -35,6 +35,12 @@ appmenuitem-more-tools =
     .label = Dalše nastroje
 appmenuitem-exit =
     .label = Skónčić
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Skónčić
+           *[other] Skónčić
+        }
 appmenu-menu-button-closed =
     .tooltiptext = Nałoženski meni wočinić
     .label = { -brand-shorter-name }
