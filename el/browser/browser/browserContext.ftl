@@ -25,6 +25,10 @@ main-context-menu-back-2 =
     .tooltiptext = Μετάβαση μια σελίδα πίσω ({ $shortcut })
     .aria-label = Πίσω
     .accesskey = Π
+# This menuitem is only visible on macOS
+main-context-menu-back-mac =
+    .label = Πίσω
+    .accesskey = Π
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -46,6 +50,10 @@ main-context-menu-forward-2 =
     .tooltiptext = Μετάβαση μια σελίδα μπροστά ({ $shortcut })
     .aria-label = Μπροστά
     .accesskey = Μ
+# This menuitem is only visible on macOS
+main-context-menu-forward-mac =
+    .label = Μπροστά
+    .accesskey = Μ
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
@@ -56,6 +64,10 @@ toolbar-button-forward-2 =
 main-context-menu-reload =
     .aria-label = Ανανέωση
     .accesskey = Α
+# This menuitem is only visible on macOS
+main-context-menu-reload-mac =
+    .label = Ανανέωση
+    .accesskey = Α
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
@@ -63,6 +75,10 @@ toolbar-button-reload =
 
 main-context-menu-stop =
     .aria-label = Διακοπή
+    .accesskey = Δ
+# This menuitem is only visible on macOS
+main-context-menu-stop-mac =
+    .label = Διακοπή
     .accesskey = Δ
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
