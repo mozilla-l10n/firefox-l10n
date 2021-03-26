@@ -530,6 +530,9 @@ library-bookmarks-menu =
 
 ## Pocket toolbar button
 
+save-to-pocket-button =
+    .label = Alzar en { -pocket-brand-name }
+    .tooltiptext = Alzar en { -pocket-brand-name }
 
 ## More items
 
