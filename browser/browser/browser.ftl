@@ -674,3 +674,6 @@ addon-removal-abuse-report-checkbox = Dizze útwreiding rapportearje oan { -vend
 
 ## Remote / Synced tabs
 
+remote-tabs-manage-account =
+    .label = Account beheare
+remote-tabs-sync-now = No syngronisearje
