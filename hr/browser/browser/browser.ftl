@@ -679,3 +679,6 @@ addon-removal-abuse-report-checkbox = Prijavi ovaj dodatak prodavaču { -vendor-
 
 ## Remote / Synced tabs
 
+remote-tabs-manage-account =
+    .label = Upravljaj računom
+remote-tabs-sync-now = Sinkroniziraj sada
