@@ -79,6 +79,11 @@ preferences-zoom-header = Танзими андоза
 
 ## General Section - Files and Applications
 
+files-and-applications-title = Файлҳо ва барномаҳо
+download-header = Боргириҳо
+download-save-to =
+    .label = Нигоҳ доштани файлҳо ба
+    .accesskey = Н
 download-choose-folder =
     .label =
         { PLATFORM() ->
@@ -90,6 +95,15 @@ download-choose-folder =
             [macos] И
            *[other] К
         }
+applications-header = Барномаҳо
+applications-filter =
+    .placeholder = Ҷустуҷӯи навъи файлҳо ё барномаҳо
+applications-type-column =
+    .label = Навъи муҳтаво
+    .accesskey = Н
+applications-action-column =
+    .label = Амал
+    .accesskey = А
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = Файли { $extension }
@@ -110,6 +124,13 @@ applications-use-os-default =
             [windows] Истифодаи барномаи пешфарзи Windows
            *[other] Истифодаи барномаи пешфарзи низомӣ
         }
+applications-use-other =
+    .label = Истифодаи дигар…
+applications-select-helper = Интихоби барномаи ёридиҳанда
+applications-manage-app =
+    .label = Тафсилоти барнома…
+applications-always-ask =
+    .label = Ҳамеша пурсидан
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
@@ -242,6 +263,8 @@ containers-remove-button =
 
 ## Firefox Account - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Иваз кардани расми профил
 sync-remove-account =
     .label = Тоза кардани ҳисоб
     .accesskey = Т
@@ -384,6 +407,9 @@ security-enable-safe-browsing-link = Маълумоти бештар
 
 ## Privacy Section - Certificates
 
+certs-view =
+    .label = Дидани гувоҳиномаҳо…
+    .accesskey = Д
 space-alert-learn-more-button =
     .label = Маълумоти бештар
     .accesskey = М

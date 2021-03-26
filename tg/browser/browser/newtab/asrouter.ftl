@@ -72,6 +72,7 @@ cfr-whatsnew-button =
     .label = Чӣ нав аст
     .tooltiptext = Чӣ нав аст
 cfr-whatsnew-panel-header = Чӣ нав аст
+cfr-whatsnew-tracking-protect-link-text = Намоиш додани гузориши ман
 cfr-whatsnew-tracking-blocked-link-text = Дидани гузориш
 cfr-whatsnew-lockwise-take-link-text = Барномаро гиред
 
@@ -143,6 +144,7 @@ cfr-doorhanger-milestone-close-button = Пӯшидан
 ## What’s New Panel Content for Firefox 76
 ## Protections Dashboard message
 
+cfr-whatsnew-protections-cta-link = Намоиш додани лавҳаи вазъияти муҳофизат
 cfr-whatsnew-protections-icon-alt = Нишони сипар
 
 ## Better PDF message
