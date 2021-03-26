@@ -1196,6 +1196,7 @@ space-alert-over-5gb-settings-button =
     .label = Ldi iɣewwaren
     .accesskey = L
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } iteddu ad iεeddi i tallunt n udebṣi. Igburen n usmel web ur d-ttbanen ara akken iwata. Tzemreḍ ad tsefḍeḍ isefka n usmel deg yiɣewwaren > Tabaḍnit & Taɣellist > Inagan n tuqqna d yisefka n usmel.
+space-alert-under-5gb-message2 = <strong>{ -brand-short-name }iteddu ad iεeddi i tallunt n uḍebsi. </strong> Igburen n usmel web yezmer ur d-ttbanen ara akken iwata.  Ddu ɣer "Issin ugar" akken ad tseggmeḍ aseqdec n udebṣi-inek·inem akken tarmit n tunigin ad tuɣal tgerrez.
 
 ## Privacy Section - HTTPS-Only
 
