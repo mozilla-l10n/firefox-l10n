@@ -24,15 +24,19 @@ help-button = Подршка за додатке
 sidebar-help-button-title =
     .title = Подршка за додатке
 preferences =
-    { PLATFORM() ->
-        [windows] { -brand-short-name } опције
-       *[other] { -brand-short-name } поставке
+    Подешавања { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "gen") }
+        [feminine] { -brand-short-name(case: "gen") }
+        [neuter] { -brand-short-name(case: "gen") }
+       *[other] програма { -brand-short-name }
     }
 sidebar-preferences-button-title =
     .title =
-        { PLATFORM() ->
-            [windows] { -brand-short-name } опције
-           *[other] { -brand-short-name } поставке
+        Подешавања { -brand-short-name.gender ->
+            [masculine] { -brand-short-name(case: "gen") }
+            [feminine] { -brand-short-name(case: "gen") }
+            [neuter] { -brand-short-name(case: "gen") }
+           *[other] програма { -brand-short-name }
         }
 show-unsigned-extensions-button =
     .label = Неке екстензије нису могле бити потврђене
@@ -45,16 +49,8 @@ cmd-find-updates =
     .label = Нађи ажурирања
     .accesskey = Н
 cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Поставке
-           *[other] Поставке
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] П
-           *[other] П
-        }
+    .label = Подешавања
+    .accesskey = П
 cmd-enable-theme =
     .label = Укључи тему
     .accesskey = У
@@ -115,21 +111,9 @@ detail-check-for-updates =
     .accesskey = и
     .tooltiptext = Проверите да ли постоје унапређења овог додатка
 detail-show-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Могућности
-           *[other] Поставке
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] М
-           *[other] П
-        }
-    .tooltiptext =
-        { PLATFORM() ->
-            [windows] Промени опције овог додатка
-           *[other] Промени подешавања овог додатка
-        }
+    .label = Подешавања
+    .accesskey = П
+    .tooltiptext = Промените подешавања овог додатка
 detail-rating =
     .value = Оцена
 addon-restart-now =
@@ -303,11 +287,7 @@ enable-addon-button = Омогући
 # is always its label.
 extension-enable-addon-button-label =
     .aria-label = Омогући
-preferences-addon-button =
-    { PLATFORM() ->
-        [windows] Подешавања
-       *[other] Поставке
-    }
+preferences-addon-button = Подешавања
 details-addon-button = Детаљи
 release-notes-addon-button = Белешке о издању
 permissions-addon-button = Дозволе
