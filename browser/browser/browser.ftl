@@ -280,6 +280,11 @@ browser-window-close-button =
 ## Tab actions
 
 
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+
 ## Bookmarks toolbar items
 
 
@@ -360,8 +365,6 @@ pointerlock-warning-no-domain = Šis dokuments kontrolē kursoru. Nospiediet tau
 
 bookmarks-show-all-bookmarks =
     .label = Rādīt visas grāmatzīmes
-bookmarks-recent-bookmarks =
-    .value = Nesen saglabātās
 bookmarks-toolbar-chevron =
     .tooltiptext = Rādīt vairāk grāmatzīmju
 bookmarks-sidebar-content =
@@ -377,12 +380,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] Paslēpt grāmatzīmju sānjoslu
            *[other] Atvērt grāmatzīmes sānjoslā
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] Paslēpt grāmatzīmju sānjoslu
-           *[other] Attēlo grāmatzīmes sānu joslā
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -413,10 +410,9 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-menu =
     .label = Grāmatzīmes
-library-bookmarks-bookmark-this-page =
-    .label = Saglabāt šo lapu grāmatzīmēs
-library-bookmarks-bookmark-edit =
-    .label = Rediģēt šo grāmatzīmi
+
+## Pocket toolbar button
+
 
 ## More items
 
@@ -427,3 +423,12 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Daži audio un video šajā lapā izmanto DRM, kas var ierobežot ko { -brand-short-name } var darīt ar tiem.
+
+## Password save/update panel
+
+
+## Add-on removal warning
+
+
+## Remote / Synced tabs
+
