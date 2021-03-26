@@ -25,6 +25,10 @@ main-context-menu-back-2 =
     .tooltiptext = Undur satu halaman ({ $shortcut })
     .aria-label = Undur
     .accesskey = U
+# This menuitem is only visible on macOS
+main-context-menu-back-mac =
+    .label = Undur
+    .accesskey = U
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -56,6 +60,10 @@ toolbar-button-forward-2 =
 main-context-menu-reload =
     .aria-label = Muat semula
     .accesskey = M
+# This menuitem is only visible on macOS
+main-context-menu-reload-mac =
+    .label = Muat semula
+    .accesskey = M
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
@@ -63,6 +71,10 @@ toolbar-button-reload =
 
 main-context-menu-stop =
     .aria-label = Berhenti
+    .accesskey = B
+# This menuitem is only visible on macOS
+main-context-menu-stop-mac =
+    .label = Berhenti
     .accesskey = B
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
@@ -125,6 +137,11 @@ main-context-menu-save-link =
     .accesskey = a
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+
+## The access keys for "Copy Link" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
@@ -261,6 +278,14 @@ main-context-menu-send-to-device =
 main-context-menu-view-background-image =
     .label = Papar Imej Latar belakang
     .accesskey = g
+
+## The access keys for "Use Saved Login" and "Use Saved Password"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+
+##
+
 main-context-menu-keyword =
     .label = Tambah Kata kunci untuk Carian ini…
     .accesskey = K
