@@ -282,6 +282,11 @@ browser-window-close-button =
 ## Tab actions
 
 
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+
 ## Bookmarks toolbar items
 
 
@@ -364,8 +369,6 @@ pointerlock-warning-no-domain = Bu vesiqa ibreñizni muraqabe ete. Kontrolni ker
 
 bookmarks-show-all-bookmarks =
     .label = Saife-imleriniñ Episini Köster
-bookmarks-recent-bookmarks =
-    .value = Demin İmlengen
 bookmarks-toolbar-chevron =
     .tooltiptext = Daa çoq saife-imi köster
 bookmarks-sidebar-content =
@@ -381,12 +384,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] Saife-imleri Yan-çubuğını Gizle
            *[other] Saifeimleri Alet Çubuğını Köster
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] Saife-imleri Alet-çubuğını Gizle
-           *[other] Saife-imleri Alet Çubuğını Köster
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -417,10 +414,12 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-menu =
     .label = Saife-imleri
-library-bookmarks-bookmark-this-page =
-    .label = Bu Saifeni İmle
-library-bookmarks-bookmark-edit =
-    .label = Bu Saifeimini Tarir Et
+
+## Pocket toolbar button
+
+save-to-pocket-button =
+    .label = { -pocket-brand-name }’ke Saqla
+    .tooltiptext = { -pocket-brand-name }’ke Saqla
 
 ## More items
 
@@ -431,3 +430,12 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Bu sayttaki bazı audio yaki video DRM yazılımı qullana ki bu { -brand-short-name } uyğulamasınıñ onıñ ile ne yapmañızğa imkân berebilecegini belki sıñırlar.
+
+## Password save/update panel
+
+
+## Add-on removal warning
+
+
+## Remote / Synced tabs
+
