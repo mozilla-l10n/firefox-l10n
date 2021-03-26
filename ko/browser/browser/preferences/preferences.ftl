@@ -385,10 +385,18 @@ update-setting-write-failure-title = 업데이트 설정 저장 중 오류 발�
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message =
-    오류가 발생하여 { -brand-short-name }가 이 변경 내용을 저장하지 않았습니다. 이 업데이트 환경 설정을 하려면 아래 파일에 쓰기 권한이 필요합니다. 사용자나 시스템 관리자가 사용자 그룹에 이 파일에 대한 모든 권한을 부여하여 오류를 해결할 수 있습니다.
+    오류가 발생하여 { -brand-short-name }가 이 변경 내용을 저장하지 않았습니다. 이 업데이트 설정을 하려면 아래 파일에 쓰기 권한이 필요합니다. 사용자나 시스템 관리자가 사용자 그룹에 이 파일에 대한 모든 권한을 부여하여 오류를 해결할 수 있습니다.
     
     파일에 쓸 수 없음: { $path }
 update-setting-write-failure-title2 = 업데이트 설정 저장 중 오류 발생
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message2 =
+    오류가 발생하여 { -brand-short-name }가 이 변경 내용을 저장하지 않았습니다. 이 업데이트 설정을 변경하려면 아래 파일에 쓰기 권한이 필요합니다. 사용자나 시스템 관리자가 사용자 그룹에 이 파일에 대한 모든 권한을 부여하여 오류를 해결할 수 있습니다.
+    
+    파일에 쓸 수 없음: { $path }
 update-in-progress-title = 업데이트 진행 중
 update-in-progress-message = { -brand-short-name }가 이 업데이트를 계속하길 원하십니까?
 update-in-progress-ok-button = 취소(&D)
@@ -638,6 +646,7 @@ containers-remove-button =
 
 sync-signedout-caption = 웹과 함께 하세요.
 sync-signedout-description = 북마크, 기록, 탭, 비밀번호, 부가 기능, 설정을 모든 기기에 걸쳐 동기화하세요.
+sync-signedout-description2 = 북마크, 기록, 탭, 비밀번호, 부가 기능, 설정을 모든 기기에 걸쳐 동기화하세요.
 sync-signedout-account-signin2 =
     .label = { -sync-brand-short-name }에 로그인…
     .accesskey = i
@@ -680,6 +689,7 @@ prefs-sync-setup =
     .label = { -sync-brand-short-name } 설정…
     .accesskey = S
 prefs-sync-offer-setup-label = 북마크, 기록, 탭, 비밀번호, 부가 기능 및 설정을 모든 기기에 걸쳐 동기화하세요.
+prefs-sync-offer-setup-label2 = 북마크, 기록, 탭, 비밀번호, 부가 기능, 설정을 모든 기기에 걸쳐 동기화하세요.
 prefs-sync-now =
     .labelnotsyncing = 지금 동기화
     .accesskeynotsyncing = N
@@ -1169,6 +1179,7 @@ space-alert-under-5gb-message = { -brand-short-name } 디스크 용량이 부족
 space-alert-over-5gb-settings-button =
     .label = 설정 열기
     .accesskey = O
+space-alert-over-5gb-message2 = <strong>{ -brand-short-name } 디스크 용량이 부족합니다.</strong> 웹 사이트 내용이 제대로 표시되지 않을 수 있습니다. 설정 > 개인 정보 및 보안 > 쿠키 및 사이트 데이터에서 저장된 데이터를 지울 수 있습니다.
 
 ## Privacy Section - HTTPS-Only
 
