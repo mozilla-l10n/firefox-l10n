@@ -34,16 +34,8 @@ menu-application-touch-bar =
 
 # These menu-quit strings are only used on Windows and Linux.
 menu-quit =
-    .label =
-        { PLATFORM() ->
-            [windows] Изађи
-           *[other] Изађи
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] И
-           *[other] И
-        }
+    .label = Изађи
+    .accesskey = И
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label =
@@ -288,17 +280,12 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Подаци о страници
     .accesskey = I
+menu-settings =
+    .label = Подешавања
+    .accesskey = П
 menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Подешавања
-           *[other] Подешавања
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] П
-           *[other] П
-        }
+    .label = Подешавања
+    .accesskey = П
 menu-tools-layout-debugger =
     .label = Исправљач грешака у распореду
     .accesskey = L

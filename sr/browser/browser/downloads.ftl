@@ -43,23 +43,11 @@ downloads-cmd-always-use-system-default =
     .label = Увек отвори у системском прегледачу
     .accesskey = У
 downloads-cmd-show-button =
-    .tooltiptext =
-        { PLATFORM() ->
-            [macos] Прикажи у Finder-у
-           *[other] Отвори фасциклу са преузетим садржајем
-        }
+    .tooltiptext = Прикажи у фасцикли
 downloads-cmd-show-panel =
-    .aria-label =
-        { PLATFORM() ->
-            [macos] Прикажи у Finder-у
-           *[other] Отвори фасциклу са преузетим садржајем
-        }
+    .aria-label = Прикажи у фасцикли
 downloads-cmd-show-description =
-    .value =
-        { PLATFORM() ->
-            [macos] Прикажи у Finder-у
-           *[other] Отвори фасциклу са преузетим садржајем
-        }
+    .value = Прикажи у фасцикли
 downloads-cmd-show-downloads =
     .label = Отвори фасциклу са преузимањима
 downloads-cmd-retry =

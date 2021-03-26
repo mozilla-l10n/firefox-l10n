@@ -129,11 +129,7 @@ newtab-menu-remove-download = Уклони из историје
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
 ## system for each operating system.
 
-newtab-menu-show-file =
-    { PLATFORM() ->
-        [macos] Прикажи у Finder-у
-       *[other] Отвори фасциклу са преузетим садржајем
-    }
+newtab-menu-show-file = Прикажи у фасцикли
 newtab-menu-open-file = Отвори датотеку
 
 ## Card Labels: These labels are associated to pages to give
