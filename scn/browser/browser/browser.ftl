@@ -269,6 +269,11 @@ browser-window-close-button =
 ## Tab actions
 
 
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+
 ## Bookmarks toolbar items
 
 
@@ -341,8 +346,6 @@ pointerlock-warning-no-domain = Sta pàggini teni cuntrollu dâ to freccia. Munc
 
 bookmarks-show-all-bookmarks =
     .label = Mustra tutti i nzingalibbri
-bookmarks-recent-bookmarks =
-    .value = Nzingati di picca
 bookmarks-toolbar-chevron =
     .tooltiptext = Mustra cchiù nzingalibbri
 bookmarks-sidebar-content =
@@ -358,12 +361,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] Ammuccia a sbarra di ciancu dî nzingalibbri
            *[other] Talìa a sbarra di ciancu dî nzingalibbri
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] Ammuccia a sbarra dî nzingalibbri
-           *[other] Talìa sbarra dî nzingalibbri
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -401,13 +398,27 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-menu =
     .label = Nzingalibbri
-library-bookmarks-bookmark-this-page =
-    .label = Agghiunci sta pàggina ê nzingalibbri
-library-bookmarks-bookmark-edit =
-    .label = Cancia stu nzingalibbru
+
+## Pocket toolbar button
+
+save-to-pocket-button =
+    .label = Sarba nne { -pocket-brand-name }
+    .tooltiptext = Sarba nne { -pocket-brand-name }
 
 ## More items
 
 more-menu-go-offline =
     .label = Travagghia sculligatu
     .accesskey = s
+
+## EME notification panel
+
+
+## Password save/update panel
+
+
+## Add-on removal warning
+
+
+## Remote / Synced tabs
+
