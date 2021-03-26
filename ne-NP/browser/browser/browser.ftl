@@ -241,6 +241,11 @@ browser-window-close-button =
 ## Tab actions
 
 
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+
 ## Bookmarks toolbar items
 
 
@@ -321,8 +326,6 @@ pointerlock-warning-no-domain = तपाईँको पोइन्टर य�
 
 bookmarks-show-all-bookmarks =
     .label = सबै पुस्तकचिनोहरू देखाउनुहोस्
-bookmarks-recent-bookmarks =
-    .value = हालसालै थपिएको पुस्तकचिनो
 bookmarks-toolbar-chevron =
     .tooltiptext = अरू पुस्तकचिनोहरू देखाउनुहोस्
 bookmarks-sidebar-content =
@@ -337,12 +340,6 @@ bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
             [true] पुस्तकचिनो साइडबार लुकाउनुहोस्
-           *[other] पुस्तकचिनो उपकरणपट्टि देखाउनुहोस्
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] पुस्तकचिनो उपकरणपट्टि लुकाउनुहोस्
            *[other] पुस्तकचिनो उपकरणपट्टि देखाउनुहोस्
         }
 bookmarks-tools-toolbar-visibility-menuitem =
@@ -374,10 +371,9 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-menu =
     .label = पुस्तकचिनोहरू
-library-bookmarks-bookmark-this-page =
-    .label = यस पृष्ठमा पुस्तकचिनो लगाउनुहोस्
-library-bookmarks-bookmark-edit =
-    .label = यो पुस्तकचिनोलाई सम्पादन गर्नुहोस्
+
+## Pocket toolbar button
+
 
 ## More items
 
@@ -388,3 +384,12 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = यो साइटमा रहेको केही अडियो या भिडियोले DRM प्रयोग गर्दछन्, तपाईँद्वारा { -brand-short-name } मार्फत गर्ने कुरामा कमी ल्याउन सक्छ।
+
+## Password save/update panel
+
+
+## Add-on removal warning
+
+
+## Remote / Synced tabs
+
