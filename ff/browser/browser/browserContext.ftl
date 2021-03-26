@@ -25,6 +25,10 @@ main-context-menu-back-2 =
     .tooltiptext = Rutto hello wooto ({ $shortcut })
     .aria-label = Rutto
     .accesskey = B
+# This menuitem is only visible on macOS
+main-context-menu-back-mac =
+    .label = Rutto
+    .accesskey = B
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -46,6 +50,10 @@ main-context-menu-forward-2 =
     .tooltiptext = Yah yeeso hello wooto ({ $shortcut })
     .aria-label = Yeeso
     .accesskey = F
+# This menuitem is only visible on macOS
+main-context-menu-forward-mac =
+    .label = Yeeso
+    .accesskey = F
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
@@ -56,6 +64,10 @@ toolbar-button-forward-2 =
 main-context-menu-reload =
     .aria-label = Hesɗitin
     .accesskey = R
+# This menuitem is only visible on macOS
+main-context-menu-reload-mac =
+    .label = Hesɗitin
+    .accesskey = R
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
@@ -63,6 +75,10 @@ toolbar-button-reload =
 
 main-context-menu-stop =
     .aria-label = Dartin
+    .accesskey = S
+# This menuitem is only visible on macOS
+main-context-menu-stop-mac =
+    .label = Dartin
     .accesskey = S
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
@@ -128,6 +144,11 @@ main-context-menu-save-link-to-pocket =
     .accesskey = D
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+
+## The access keys for "Copy Link" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
@@ -275,6 +296,14 @@ main-context-menu-view-background-image =
 main-context-menu-generate-new-password =
     .label = Huutoro finnde yeñtinaande…
     .accesskey = G
+
+## The access keys for "Use Saved Login" and "Use Saved Password"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+
+##
+
 main-context-menu-keyword =
     .label = Ɓeydi Helmere tesko e oo Njiilaw…
     .accesskey = H
