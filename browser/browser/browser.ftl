@@ -671,3 +671,6 @@ addon-removal-abuse-report-checkbox = Αναφορά επέκτασης στη {
 
 ## Remote / Synced tabs
 
+remote-tabs-manage-account =
+    .label = Διαχείριση λογαριασμού
+remote-tabs-sync-now = Συγχρονισμός τώρα
