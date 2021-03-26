@@ -12,9 +12,9 @@ navbar-tooltip-instruction =
 ## Back
 
 main-context-menu-back =
-    .tooltiptext = Иди на претходну страницу
+    .tooltiptext = Назад за једну страну
     .aria-label = Назад
-    .accesskey = Н
+    .accesskey = B
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
 toolbar-button-back =
