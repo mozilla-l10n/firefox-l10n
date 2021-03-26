@@ -19,6 +19,20 @@ newtab-search-box-search-button =
     .title = 搜索
     .aria-label = 搜索
 newtab-search-box-search-the-web-text = 在网络上搜索
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-text = 使用 { $engine } 搜索，或者输入网址
+newtab-search-box-handoff-text-no-engine = 搜索或输入网址
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-input =
+    .placeholder = 使用 { $engine } 搜索，或者输入网址
+    .title = 使用 { $engine } 搜索，或者输入网址
+    .aria-label = 使用 { $engine } 搜索，或者输入网址
+newtab-search-box-handoff-input-no-engine =
+    .placeholder = 搜索或输入网址
+    .title = 搜索或输入网址
+    .aria-label = 搜索或输入网址
 newtab-search-box-search-the-web-input =
     .placeholder = 在网络上搜索
     .title = 在网络上搜索

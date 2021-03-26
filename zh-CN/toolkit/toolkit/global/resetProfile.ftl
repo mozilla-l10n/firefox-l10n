@@ -12,3 +12,4 @@ refresh-profile-remove = 移除您的附加组件和个性化调整
 refresh-profile-restore = 恢复您的浏览器设置至初始状态
 refresh-profile = 保养一下 { -brand-short-name }
 refresh-profile-button = 翻新 { -brand-short-name }…
+refresh-profile-learn-more = 详细了解
