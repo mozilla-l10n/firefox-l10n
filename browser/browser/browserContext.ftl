@@ -25,6 +25,10 @@ main-context-menu-back-2 =
     .tooltiptext = Иди на претходну страницу ({ $shortcut })
     .aria-label = Назад
     .accesskey = Н
+# This menuitem is only visible on macOS
+main-context-menu-back-mac =
+    .label = Назад
+    .accesskey = Н
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
