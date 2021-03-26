@@ -676,3 +676,6 @@ addon-removal-abuse-report-checkbox = Deze extensie rapporteren aan { -vendor-sh
 
 ## Remote / Synced tabs
 
+remote-tabs-manage-account =
+    .label = Account beheren
+remote-tabs-sync-now = Nu synchroniseren
