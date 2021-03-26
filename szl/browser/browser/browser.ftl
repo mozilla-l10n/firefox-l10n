@@ -629,3 +629,6 @@ eme-notifications-drm-content-playing = Klang abo filmy na tyj strōnie używaj�
 
 ## Remote / Synced tabs
 
+remote-tabs-manage-account =
+    .label = Regiyruj kōntym
+remote-tabs-sync-now = Synchrōnizuj teroz
