@@ -292,6 +292,8 @@ identity-passive-loaded = Части этой страницы (такие ка�
 identity-active-loaded = Вы отключили защиту на этой странице.
 identity-weak-encryption = Эта страница использует слабое шифрование.
 identity-insecure-login-forms = Учётные данные, вводимые на этой странице, могут быть скомпрометированы.
+identity-permissions =
+    .value = Разрешения
 identity-https-only-connection-upgraded = (переключено на HTTPS)
 identity-https-only-label = Режим «Только HTTPS»
 identity-https-only-dropdown-on =
@@ -303,8 +305,6 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Включите для этого сайта Режим «Только HTTPS», если хотите, чтобы { -brand-short-name } по возможности переключался на безопасное соединение.
 identity-https-only-info-turn-off2 = Если страница кажется сломанной, вы можете отключить для этого сайта режим «Только HTTPS», чтобы перезагрузить его с использованием незащищённого HTTP.
 identity-https-only-info-no-upgrade = Невозможно переключить соединение с HTTP.
-identity-permissions =
-    .value = Разрешения
 identity-permissions-storage-access-header = Межсайтовые куки
 identity-permissions-storage-access-hint = Следующие стороны могут использовать межсайтовые куки и данные сайта, пока вы находитесь на этом сайте.
 identity-permissions-reload-hint = Чтобы изменения возымели действие, вам, возможно, потребуется перезагрузить страницу.
@@ -352,8 +352,6 @@ browser-window-close-button =
 
 ## Tab actions
 
-browser-tab-audio-playing = Проигрывается
-browser-tab-audio-muted = Звук отключён
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-playing2 = ВОСПРОИЗВОДИТСЯ
 # This label should be written in all capital letters if your locale supports them.
@@ -362,6 +360,11 @@ browser-tab-audio-muted2 = БЕЗ ЗВУКА
 browser-tab-audio-blocked = АВТОВОСПРОИЗВЕДЕНИЕ ЗАБЛОКИРОВАНО
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = КАРТИНКА-В-КАРТИНКЕ
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
 
 ## Bookmarks toolbar items
 
@@ -554,8 +557,6 @@ crashed-subframe-submit =
 
 bookmarks-show-all-bookmarks =
     .label = Показать все закладки
-bookmarks-recent-bookmarks =
-    .value = Недавно добавленные закладки
 bookmarks-manage-bookmarks =
     .label = Управление закладками
 bookmarks-recent-bookmarks-panel =
@@ -576,12 +577,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] Скрыть боковую панель закладок
            *[other] Показать боковую панель закладок
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] Скрыть панель закладок
-           *[other] Показать панель закладок
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -628,12 +623,11 @@ bookmarks-current-tab =
 
 library-bookmarks-menu =
     .label = Закладки
-library-bookmarks-bookmark-this-page =
-    .label = Добавить страницу в закладки
-library-bookmarks-bookmark-edit =
-    .label = Редактировать эту закладку
 library-recent-activity-title =
     .value = Последние действия
+
+## Pocket toolbar button
+
 
 ## More items
 
@@ -660,3 +654,6 @@ panel-save-update-password = Пароль
 #  $name (String): The name of the addon that will be removed.
 addon-removal-title = Удалить { $name }?
 addon-removal-abuse-report-checkbox = Пожаловаться на это расширение в { -vendor-short-name }
+
+## Remote / Synced tabs
+
