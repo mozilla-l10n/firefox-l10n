@@ -387,3 +387,6 @@ panel-save-update-password = Contraseña
 
 ## Remote / Synced tabs
 
+remote-tabs-manage-account =
+    .label = Xestionar la cuenta
+remote-tabs-sync-now = Sincronizar agora
