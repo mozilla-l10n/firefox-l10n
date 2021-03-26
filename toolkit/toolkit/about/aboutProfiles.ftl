@@ -43,15 +43,15 @@ profiles-invalid-profile-name-title = Неисправно име профила
 # Variables:
 #   $name (String) - Name of the profile
 profiles-invalid-profile-name = Име профила "{ $name }" није дозвољено.
-profiles-delete-profile-title = Обриши профил
+profiles-delete-profile-title = Брисање профила
 # Variables:
 #   $dir (String) - Path to be displayed
 profiles-delete-profile-confirm =
     Брисање профила ће уклонити профил са листе доступних профила и не може да се опозове.
     Такође можете да обришете датотеке профила, укључујући ваше поставке, сертификате и остале корисничке податке. Ова опција ће обрисати фасциклу "{ $dir }" и не може да се опозове.
     Да ли желите да обришете датотеке профила?
-profiles-delete-files = Обриши датотеке
-profiles-dont-delete-files = Немој обрисати датотеке
+profiles-delete-files = Избриши датотеке
+profiles-dont-delete-files = Не бриши датотеке
 profiles-delete-profile-failed-title = Грешка
 profiles-delete-profile-failed-message = Дошло је до грешке приликом брисања овог профила.
 profiles-opendir = Прикажи у фасцикли
