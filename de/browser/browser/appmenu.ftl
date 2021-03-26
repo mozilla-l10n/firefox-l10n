@@ -7,6 +7,12 @@
 
 appmenuitem-update-banner =
     .label-update-downloading = { -brand-shorter-name }-Update wird heruntergeladen
+appmenuitem-update-banner2 =
+    .label-update-downloading = { -brand-shorter-name }-Update wird heruntergeladen
+    .label-update-available = Update verfügbar — jetzt herunterladen
+    .label-update-manual = Update verfügbar — jetzt herunterladen
+    .label-update-unsupported = Update nicht möglich
+    .label-update-restart = Update verfügbar — jetzt neu starten
 appmenuitem-protection-dashboard-title = Schutzmaßnahmen-Übersicht
 appmenuitem-customize-mode =
     .label = Anpassen…
@@ -29,6 +35,12 @@ appmenuitem-more-tools =
     .label = Weitere Werkzeuge
 appmenuitem-exit =
     .label = Beenden
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Beenden
+           *[other] Beenden
+        }
 appmenu-menu-button-closed =
     .tooltiptext = Anwendungsmenü öffnen
     .label = { -brand-shorter-name }
