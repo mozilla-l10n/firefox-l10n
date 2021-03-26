@@ -64,6 +64,10 @@ toolbar-button-forward-2 =
 main-context-menu-reload =
     .aria-label = განახლება
     .accesskey = ნ
+# This menuitem is only visible on macOS
+main-context-menu-reload-mac =
+    .label = განახლება
+    .accesskey = ნ
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
@@ -71,6 +75,10 @@ toolbar-button-reload =
 
 main-context-menu-stop =
     .aria-label = შეჩერება
+    .accesskey = ჩ
+# This menuitem is only visible on macOS
+main-context-menu-stop-mac =
+    .label = შეჩერება
     .accesskey = ჩ
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
