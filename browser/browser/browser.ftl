@@ -290,6 +290,8 @@ identity-passive-loaded = Niektóre elementy tej strony (np. obrazy) nie były p
 identity-active-loaded = Ochrona na tej stronie została wyłączona przez użytkownika.
 identity-weak-encryption = Strona używa słabego szyfrowania.
 identity-insecure-login-forms = Dane logowania wprowadzone na tej stronie nie są chronione.
+identity-permissions =
+    .value = Uprawnienia
 identity-https-only-connection-upgraded = (przełączono na protokół HTTPS)
 identity-https-only-label = Tryb używania wyłącznie protokołu HTTPS
 identity-https-only-dropdown-on =
@@ -301,8 +303,6 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Włącz tryb używania wyłącznie protokołu HTTPS dla tej witryny, jeśli chcesz, aby { -brand-short-name } przełączał na zabezpieczone połączenie, kiedy to możliwe.
 identity-https-only-info-turn-off2 = Jeśli strona wydaje się niepoprawnie działać, możesz wyłączyć tryb używania wyłącznie protokołu HTTPS dla tej witryny, aby odświeżyć ją za pomocą niezabezpieczonego protokołu HTTP.
 identity-https-only-info-no-upgrade = Nie można przełączyć połączenia z protokołu HTTP.
-identity-permissions =
-    .value = Uprawnienia
 identity-permissions-storage-access-header = Ciasteczka między witrynami
 identity-permissions-storage-access-hint = Te strony mogą używać ciasteczek i danych między witrynami, kiedy jesteś na tej witrynie.
 identity-permissions-reload-hint = Ponowne wczytanie strony może być konieczne, aby wprowadzone zmiany przyniosły skutek.
@@ -350,8 +350,6 @@ browser-window-close-button =
 
 ## Tab actions
 
-browser-tab-audio-playing = Odtwarzanie
-browser-tab-audio-muted = Wyciszone
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-playing2 = ODTWARZANIE
 # This label should be written in all capital letters if your locale supports them.
@@ -360,6 +358,11 @@ browser-tab-audio-muted2 = WYCISZONE
 browser-tab-audio-blocked = ZABLOKOWANO AUTOMATYCZNE ODTWARZANIE
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = OBRAZ W OBRAZIE
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
 
 ## Bookmarks toolbar items
 
@@ -552,8 +555,6 @@ crashed-subframe-submit =
 
 bookmarks-show-all-bookmarks =
     .label = Wyświetl wszystkie zakładki
-bookmarks-recent-bookmarks =
-    .value = Ostatnio dodane
 bookmarks-manage-bookmarks =
     .label = Zarządzaj zakładkami
 bookmarks-recent-bookmarks-panel =
@@ -574,12 +575,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] Ukryj panel zakładek
            *[other] Wyświetl panel zakładek
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] Ukryj pasek zakładek
-           *[other] Wyświetl pasek zakładek
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -626,12 +621,14 @@ bookmarks-current-tab =
 
 library-bookmarks-menu =
     .label = Zakładki
-library-bookmarks-bookmark-this-page =
-    .label = Dodaj zakładkę
-library-bookmarks-bookmark-edit =
-    .label = Edytuj zakładkę
 library-recent-activity-title =
     .value = Ostatnia aktywność
+
+## Pocket toolbar button
+
+save-to-pocket-button =
+    .label = Wyślij do { -pocket-brand-name }
+    .tooltiptext = Wyślij do { -pocket-brand-name }
 
 ## More items
 
@@ -658,3 +655,6 @@ panel-save-update-password = Hasło
 #  $name (String): The name of the addon that will be removed.
 addon-removal-title = Czy usunąć „{ $name }”?
 addon-removal-abuse-report-checkbox = Zgłoś to rozszerzenie do organizacji { -vendor-short-name }
+
+## Remote / Synced tabs
+
