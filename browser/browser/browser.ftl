@@ -364,19 +364,16 @@ browser-tab-audio-pip = PICTURE-IN-PICTURE
 browser-tab-mute =
     { $count ->
         [1] MUTE TAB
-        [one] MUTE { $count } TAB
        *[other] MUTE { $count } TABS
     }
 browser-tab-unmute =
     { $count ->
         [1] UNMUTE TAB
-        [one] UNMUTE { $count } TAB
        *[other] UNMUTE { $count } TABS
     }
 browser-tab-unblock =
     { $count ->
         [1] PLAY TAB
-        [one] PLAY { $count } TAB
        *[other] PLAY { $count } TABS
     }
 
