@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = 翻新 { -brand-short-name }
+refresh-profile-dialog-title = 要将 { -brand-short-name } 翻新为默认设置吗？
 refresh-profile-dialog-button =
     .label = 翻新 { -brand-short-name }
 refresh-profile-description = 从头开始，以修复问题、恢复性能。
