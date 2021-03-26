@@ -46,6 +46,10 @@ main-context-menu-forward-2 =
     .tooltiptext = Aẓ ɣer zdat s yiwen usebter ({ $shortcut })
     .aria-label = Ɣer zdat
     .accesskey = Z
+# This menuitem is only visible on macOS
+main-context-menu-forward-mac =
+    .label = Ɣer zdat
+    .accesskey = Z
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
@@ -56,6 +60,10 @@ toolbar-button-forward-2 =
 main-context-menu-reload =
     .aria-label = Smiren
     .accesskey = M
+# This menuitem is only visible on macOS
+main-context-menu-reload-mac =
+    .label = Smiren
+    .accesskey = M
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
@@ -63,6 +71,10 @@ toolbar-button-reload =
 
 main-context-menu-stop =
     .aria-label = Seḥbes
+    .accesskey = Ḥ
+# This menuitem is only visible on macOS
+main-context-menu-stop-mac =
+    .label = Seḥbes
     .accesskey = Ḥ
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
