@@ -635,3 +635,6 @@ eme-notifications-drm-content-playing = ਇਹ ਸਾਈਟ ਉੱਤੇ ਕੁ�
 
 ## Remote / Synced tabs
 
+remote-tabs-manage-account =
+    .label = ਖਾਤੇ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
+remote-tabs-sync-now = ਹੁਣੇ ਸਿੰਕ ਕਰੋ
