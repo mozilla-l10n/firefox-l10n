@@ -6,11 +6,14 @@
 %brandDTD;
 
 <!ENTITY retry.label "Аз нав кӯшиш кардан">
+<!ENTITY returnToPreviousPage.label "Бозгашт">
+<!ENTITY returnToPreviousPage1.label "Бозгашт (тавсия дода мешавад)">
 
 <!-- Specific error messages -->
 
 
 
+<!ENTITY dnsNotFound.pageTitle "Сервер ёфт нашуд">
 
 
 
