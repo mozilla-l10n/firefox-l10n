@@ -216,6 +216,11 @@ browser-window-close-button =
 ## Tab actions
 
 
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+
 ## Bookmarks toolbar items
 
 
@@ -292,8 +297,6 @@ pointerlock-warning-no-domain = Takaddaa woo ga war cebejiyoo juwal. Esc naagu k
 
 bookmarks-show-all-bookmarks =
     .label = Doo-šilbawey kul cebe
-bookmarks-recent-bookmarks =
-    .value = Kokor doo-šilbantey
 bookmarks-toolbar-chevron =
     .tooltiptext = Doo-šilbay tontoney cebe
 bookmarks-sidebar-content =
@@ -315,10 +318,9 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
-library-bookmarks-bookmark-this-page =
-    .label = Moɲoo woo šilbay
-library-bookmarks-bookmark-edit =
-    .label = Doo-šilbaa woo fasal
+
+## Pocket toolbar button
+
 
 ## More items
 
@@ -329,3 +331,12 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Jinde wala widewo foo interneti nungoo woo ra ga goy nda DRM goyjinay kaŋ ga hin ka goyey kaŋ { -brand-short-name } ga naŋ war m'i tee nd'a nakaši.
+
+## Password save/update panel
+
+
+## Add-on removal warning
+
+
+## Remote / Synced tabs
+
