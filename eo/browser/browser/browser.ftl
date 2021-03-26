@@ -624,6 +624,9 @@ library-recent-activity-title =
 
 ## Pocket toolbar button
 
+save-to-pocket-button =
+    .label = Konservi en { -pocket-brand-name }
+    .tooltiptext = Konservi en { -pocket-brand-name }
 
 ## More items
 
