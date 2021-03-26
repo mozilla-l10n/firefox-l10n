@@ -524,6 +524,12 @@ bookmarks-toolbar-placeholder-button =
 library-bookmarks-menu =
     .label = Էջանիշեր
 
+## Pocket toolbar button
+
+save-to-pocket-button =
+    .label = Պահպանել { -pocket-brand-name }-ում
+    .tooltiptext = Պահպանել { -pocket-brand-name }-ում
+
 ## More items
 
 more-menu-go-offline =
@@ -538,4 +544,7 @@ eme-notifications-drm-content-playing = Այս կայքում որոշ ձայն�
 
 
 ## Add-on removal warning
+
+
+## Remote / Synced tabs
 
