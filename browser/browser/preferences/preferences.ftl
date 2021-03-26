@@ -503,6 +503,19 @@ update-setting-write-failure-message =
     
     Není možný zápis do souboru: { $path }
 update-setting-write-failure-title2 = Chyba při ukládání nastavení aktualizací
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message2 =
+    { -brand-short-name.gender ->
+        [masculine] { -brand-short-name } zaznamenal
+        [feminine] { -brand-short-name } zaznamenala
+        [neuter] { -brand-short-name } zaznamenalo
+       *[other] Aplikace { -brand-short-name } zaznamenala
+    } problém při ukládání změny nastavení. Změna těchto nastavení vyžaduje oprávnění k zápisu do níže uvedeného souboru. Vy nebo správce vašeho systému můžete tento problém vyřešit přidělením úplných oprávnění k tomuto souboru pro skupinu Users.
+    
+        Není možný zápis do souboru: { $path }
 update-in-progress-title = Probíhá aktualizace
 update-in-progress-message =
     { -brand-short-name.gender ->
@@ -1411,6 +1424,20 @@ space-alert-under-5gb-message =
 space-alert-over-5gb-settings-button =
     .label = Otevřít Nastavení
     .accesskey = O
+space-alert-over-5gb-message2 =
+    <strong>{ -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "dat") }
+        [feminine] { -brand-short-name(case: "dat") }
+        [neuter] { -brand-short-name(case: "dat") }
+       *[other] Aplikaci { -brand-short-name }
+    } dochází místo na disku.</strong> Obsah webové stránky se nemusí zobrazit správně. Uložená data stránky můžete vymazat v Nastavení  > Soukromí a zabezpečení > Cookies a data stránek.
+space-alert-under-5gb-message2 =
+    <strong>{ -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "dat") }
+        [feminine] { -brand-short-name(case: "dat") }
+        [neuter] { -brand-short-name(case: "dat") }
+       *[other] Aplikaci { -brand-short-name }
+    } dochází místo na disku.</strong> Obsah webové stránky se nemusí zobrazit správně. Klepněte na „Dozvědět se více“ o optimalizaci využití disku k lepšímu prohlížení webu.
 
 ## Privacy Section - HTTPS-Only
 
