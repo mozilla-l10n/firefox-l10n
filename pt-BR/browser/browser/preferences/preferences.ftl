@@ -1195,6 +1195,8 @@ space-alert-under-5gb-message = { -brand-short-name } está ficando sem espaço 
 space-alert-over-5gb-settings-button =
     .label = Abrir configurações
     .accesskey = A
+space-alert-over-5gb-message2 = <strong>O { -brand-short-name } está ficando sem espaço em disco.</strong> Conteúdos de sites podem não ser exibidos corretamente. Você pode limpar o armazenamento de dados em Configurações > Privacidade e Segurança > Cookies e dados de sites.
+space-alert-under-5gb-message2 = <strong>O { -brand-short-name } está ficando sem espaço em disco.</strong> Conteúdos de sites podem não ser exibidos corretamente. Acesse “Saiba mais” para otimizar seu uso de disco para ter uma melhor experiência de navegação.
 
 ## Privacy Section - HTTPS-Only
 
