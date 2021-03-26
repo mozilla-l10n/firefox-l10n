@@ -131,7 +131,7 @@ pkcs12-decode-err = Dataja njeda so dekodowaće.  Pak njeje we formaće PKCS #12
 pkcs12-unknown-err-restore = Dataja PKCS #12 njeda so z njeznatych přičinow wobnowić.
 pkcs12-unknown-err-backup = Zawěsćenska dataja PKCS #12 njeda z njeznatych přičinow wutworić.
 pkcs12-unknown-err = Operacija PKCS #12 njeje so z njeznatych přičinow poradźiła.
-pkcs12-info-no-smartcard-backup = Njejo móžno, certifikaty z hardwaroweho wěstotneho grata zawěsćić, kaž na př. ze smartkarty.
+pkcs12-info-no-smartcard-backup = Njeje móžno, certifikaty z hardwaroweho wěstotneho grata zawěsćić, kaž na př. ze smartkarty.
 pkcs12-dup-data = Certifikat a priwatny kluč hižo eksistujetej na wěstotnym graće.
 
 ## PKCS#12 file dialogs
