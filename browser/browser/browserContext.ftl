@@ -19,6 +19,10 @@ main-context-menu-back-2 =
     .tooltiptext = Buyela emva ikhasi linye ({ $shortcut })
     .aria-label = Emva
     .accesskey = E
+# This menuitem is only visible on macOS
+main-context-menu-back-mac =
+    .label = Emva
+    .accesskey = E
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -40,6 +44,10 @@ main-context-menu-forward-2 =
     .tooltiptext = Iya phambili ikhasi linye ({ $shortcut })
     .aria-label = Phambili
     .accesskey = P
+# This menuitem is only visible on macOS
+main-context-menu-forward-mac =
+    .label = Phambili
+    .accesskey = P
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
@@ -50,6 +58,10 @@ toolbar-button-forward-2 =
 main-context-menu-reload =
     .aria-label = Layitjha godu
     .accesskey = L
+# This menuitem is only visible on macOS
+main-context-menu-reload-mac =
+    .label = Layitjha godu
+    .accesskey = L
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
@@ -57,6 +69,10 @@ toolbar-button-reload =
 
 main-context-menu-stop =
     .aria-label = Jama
+    .accesskey = J
+# This menuitem is only visible on macOS
+main-context-menu-stop-mac =
+    .label = Jama
     .accesskey = J
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
@@ -87,6 +103,11 @@ main-context-menu-save-link =
     .accesskey = i
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+
+## The access keys for "Copy Link" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
@@ -131,6 +152,14 @@ main-context-menu-image-set-as-background =
 main-context-menu-view-background-image =
     .label = Bona ingemuva lesithombe
     .accesskey = b
+
+## The access keys for "Use Saved Login" and "Use Saved Password"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+
+##
+
 main-context-menu-keyword =
     .label = Ngeza ibizo elisihlokwana kurhubhululweli...
     .accesskey = I
