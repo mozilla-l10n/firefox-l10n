@@ -653,3 +653,6 @@ addon-removal-abuse-report-checkbox = گزارش این افزونه به { -ven
 
 ## Remote / Synced tabs
 
+remote-tabs-manage-account =
+    .label = مدیریت حساب
+remote-tabs-sync-now = انجام همگام‌سازی
