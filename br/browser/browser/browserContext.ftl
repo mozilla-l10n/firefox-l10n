@@ -25,6 +25,10 @@ main-context-menu-back-2 =
     .tooltiptext = Mont d’ar bajennad kent ({ $shortcut })
     .aria-label = Kent
     .accesskey = K
+# This menuitem is only visible on macOS
+main-context-menu-back-mac =
+    .label = Kent
+    .accesskey = K
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -45,6 +49,10 @@ toolbar-button-forward =
 main-context-menu-forward-2 =
     .tooltiptext = Mont d’ar bajennad war-lerc’h ({ $shortcut })
     .aria-label = War-lerc’h
+    .accesskey = W
+# This menuitem is only visible on macOS
+main-context-menu-forward-mac =
+    .label = War-lerc’h
     .accesskey = W
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
