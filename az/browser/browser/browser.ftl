@@ -298,6 +298,11 @@ browser-window-close-button =
 ## Tab actions
 
 
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+
 ## Bookmarks toolbar items
 
 
@@ -388,8 +393,6 @@ pointerlock-warning-no-domain = Bu sənəd kursorunuzu idarə edir. İdarəni ge
 
 bookmarks-show-all-bookmarks =
     .label = Bütün əlfəcinləri göstər
-bookmarks-recent-bookmarks =
-    .value = Yeni əlfəcinlənmiş
 bookmarks-toolbar-chevron =
     .tooltiptext = Daha çox əlfəcin göstər
 bookmarks-sidebar-content =
@@ -405,12 +408,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] Əlfəcin yan panelini gizlət
            *[other] Əlfəcin yan panelini göstər
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] Əlfəcin alət sətrini gizlət
-           *[other] Əlfəcin alət sətrini gör
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -441,10 +438,9 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-menu =
     .label = Əlfəcinlər
-library-bookmarks-bookmark-this-page =
-    .label = Səhifəni əlfəcinlə
-library-bookmarks-bookmark-edit =
-    .label = Bu əlfəcini düzəlt
+
+## Pocket toolbar button
+
 
 ## More items
 
@@ -455,3 +451,12 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Bu saytda olan bəzi səs və ya video DRM proqramını işlədir, bu { -brand-short-name } tərəfindən sizə verilən servisləri limitləyir.
+
+## Password save/update panel
+
+
+## Add-on removal warning
+
+
+## Remote / Synced tabs
+
