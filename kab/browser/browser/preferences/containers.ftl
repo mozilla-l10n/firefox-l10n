@@ -10,6 +10,11 @@ containers-window-new =
 containers-window-update =
     .title = Ismenyifen n umagbar { $name }
     .style = width: 45em
+# Variables
+#   $name (String) - Name of the container
+containers-window-update-settings =
+    .title = Iɣewwaren n umagbar { $name }
+    .style = width: 45em
 containers-window-close =
     .key = w
 # This is a term to store style to be applied

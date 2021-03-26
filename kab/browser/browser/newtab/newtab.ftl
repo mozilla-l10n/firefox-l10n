@@ -19,6 +19,20 @@ newtab-search-box-search-button =
     .title = Nadi
     .aria-label = Nadi
 newtab-search-box-search-the-web-text = Nadi di Web
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-text = Nadi s { $engine } neɣ sekcem tansa
+newtab-search-box-handoff-text-no-engine = Nadi neɣ sekcem tansa
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-input =
+    .placeholder = Nadi s { $engine } neɣ sekcem tansa
+    .title = Nadi s { $engine } neɣ sekcem tansa
+    .aria-label = Nadi s { $engine } neɣ sekcem tansa
+newtab-search-box-handoff-input-no-engine =
+    .placeholder = Nadi neɣ sekcem tansa
+    .title = Nadi neɣ sekcem tansa
+    .aria-label = Nadi neɣ sekcem tansa
 newtab-search-box-search-the-web-input =
     .placeholder = Nadi di Web
     .title = Nadi di Web

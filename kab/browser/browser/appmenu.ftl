@@ -35,6 +35,12 @@ appmenuitem-more-tools =
     .label = Ugar n yifecka
 appmenuitem-exit =
     .label = Ffeɣ
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Eǧǧ
+           *[other] Ffeɣ
+        }
 appmenu-menu-button-closed =
     .tooltiptext = Ldi umuɣ n usnas
     .label = { -brand-shorter-name }

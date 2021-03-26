@@ -27,7 +27,7 @@ main-context-menu-back-2 =
     .accesskey = D
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
-    .label = Γer deffir
+    .label = Ɣer deffir
     .accesskey = D
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
@@ -52,8 +52,8 @@ main-context-menu-forward-2 =
     .accesskey = Z
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
-    .label = Ɣer zdat
-    .accesskey = Z
+    .label = Ɣer sdat
+    .accesskey = S
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
@@ -67,7 +67,7 @@ main-context-menu-reload =
 # This menuitem is only visible on macOS
 main-context-menu-reload-mac =
     .label = Smiren
-    .accesskey = M
+    .accesskey = S
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
@@ -79,7 +79,7 @@ main-context-menu-stop =
 # This menuitem is only visible on macOS
 main-context-menu-stop-mac =
     .label = Seḥbes
-    .accesskey = Ḥ
+    .accesskey = S
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -102,6 +102,18 @@ main-context-menu-bookmark-add =
     .aria-label = Creḍ asebter-a
     .accesskey = c
     .tooltiptext = Creḍ asebter-a
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-add-mac =
+    .label = Creḍ asebter
+    .accesskey = ḍ
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-edit-mac =
+    .label = Ẓreg tacreḍt n usebter
+    .accesskey = ḍ
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-add-with-shortcut =
@@ -314,6 +326,9 @@ main-context-menu-audio-save-as =
 main-context-menu-video-image-save-as =
     .label = Sekles anɣel n ugdil s yisem…
     .accesskey = S
+main-context-menu-video-take-snapshot =
+    .label = Ṭṭef agdil…
+    .accesskey = A
 main-context-menu-video-email =
     .label = Azen tavidyut s yimayl…
     .accesskey = a

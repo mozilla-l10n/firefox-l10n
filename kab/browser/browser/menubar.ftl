@@ -11,6 +11,8 @@
 
 ## Application Menu (macOS only)
 
+menu-application-preferences =
+    .label = Ismenyifen
 menu-application-services =
     .label = Tanfiwin
 menu-application-hide-this =
@@ -351,6 +353,9 @@ menu-help-safe-mode-without-addons =
     .accesskey = A
 menu-help-safe-mode-with-addons =
     .label = Ales asenker s yizegrar urmiden
+    .accesskey = A
+menu-help-enter-troubleshoot-mode2 =
+    .label = Askar n usellek…
     .accesskey = A
 menu-help-exit-troubleshoot-mode =
     .label = Sens askar n ferru n wuguren
