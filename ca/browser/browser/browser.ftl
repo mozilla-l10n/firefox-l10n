@@ -637,6 +637,12 @@ library-bookmarks-menu =
 library-recent-activity-title =
     .value = Activitat recent
 
+## Pocket toolbar button
+
+save-to-pocket-button =
+    .label = Desa al { -pocket-brand-name }
+    .tooltiptext = Desa al { -pocket-brand-name }
+
 ## More items
 
 more-menu-go-offline =
@@ -662,3 +668,6 @@ panel-save-update-password = Contrasenya
 #  $name (String): The name of the addon that will be removed.
 addon-removal-title = Voleu eliminar { $name }?
 addon-removal-abuse-report-checkbox = Informeu d'aquesta extensió a { -vendor-short-name }
+
+## Remote / Synced tabs
+
