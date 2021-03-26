@@ -25,6 +25,10 @@ main-context-menu-back-2 =
     .tooltiptext = Ir un pagina retro ({ $shortcut })
     .aria-label = Retro
     .accesskey = R
+# This menuitem is only visible on macOS
+main-context-menu-back-mac =
+    .label = Retro
+    .accesskey = R
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -45,6 +49,10 @@ toolbar-button-forward =
 main-context-menu-forward-2 =
     .tooltiptext = Ir un pagina avante ({ $shortcut })
     .aria-label = Avante
+    .accesskey = A
+# This menuitem is only visible on macOS
+main-context-menu-forward-mac =
+    .label = Avante
     .accesskey = A
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
