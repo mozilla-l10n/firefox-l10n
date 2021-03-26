@@ -102,6 +102,18 @@ main-context-menu-bookmark-add =
     .aria-label = Закласти цю сторінку
     .accesskey = к
     .tooltiptext = Закласти цю сторінку
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-add-mac =
+    .label = Закласти сторінку
+    .accesskey = З
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-edit-mac =
+    .label = Редагувати закладку
+    .accesskey = Р
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-add-with-shortcut =

@@ -34,6 +34,9 @@ sidebar-preferences-button-title =
             [windows] Налаштування { -brand-short-name }
            *[other] Налаштування { -brand-short-name }
         }
+addons-settings-button = Налаштування { -brand-short-name }
+sidebar-settings-button-title =
+    .title = Налаштування { -brand-short-name }
 show-unsigned-extensions-button =
     .label = Деякі розширення не можуть бути перевірені
 show-all-extensions-button =
@@ -382,9 +385,6 @@ addon-detail-private-browsing-disallow = Не дозволяти
 addon-badge-recommended2 =
     .title = { -brand-product-name } рекомендує лише розширення, що задовольняють наші стандарти безпеки та швидкодії
     .aria-label = { addon-badge-recommended2.title }
-addon-badge-line2 =
-    .title = Це офіційне розширення, створене розробниками { -brand-product-name }
-    .aria-label = { addon-badge-line2.title }
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =

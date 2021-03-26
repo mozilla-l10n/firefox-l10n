@@ -19,6 +19,20 @@ newtab-search-box-search-button =
     .title = Пошук
     .aria-label = Пошук
 newtab-search-box-search-the-web-text = Пошук в Інтернеті
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-text = Шукайте з { $engine } або введіть адресу
+newtab-search-box-handoff-text-no-engine = Введіть запит чи адресу
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-input =
+    .placeholder = Шукайте з { $engine } або введіть адресу
+    .title = Шукайте з { $engine } або введіть адресу
+    .aria-label = Шукайте з { $engine } або введіть адресу
+newtab-search-box-handoff-input-no-engine =
+    .placeholder = Введіть запит чи адресу
+    .title = Введіть запит чи адресу
+    .aria-label = Введіть запит чи адресу
 newtab-search-box-search-the-web-input =
     .placeholder = Пошук в Інтернеті
     .title = Пошук в Інтернеті
