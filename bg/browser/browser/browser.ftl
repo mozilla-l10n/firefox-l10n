@@ -594,3 +594,6 @@ eme-notifications-drm-content-playing-dismiss-accesskey = р
 
 ## Remote / Synced tabs
 
+remote-tabs-manage-account =
+    .label = Управление на сметка
+remote-tabs-sync-now = Синхронизиране
