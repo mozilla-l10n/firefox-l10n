@@ -50,6 +50,10 @@ main-context-menu-forward-2 =
     .tooltiptext = Maju satu laman ({ $shortcut })
     .aria-label = Maju
     .accesskey = M
+# This menuitem is only visible on macOS
+main-context-menu-forward-mac =
+    .label = Maju
+    .accesskey = M
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
@@ -60,6 +64,10 @@ toolbar-button-forward-2 =
 main-context-menu-reload =
     .aria-label = Muat Ulang
     .accesskey = U
+# This menuitem is only visible on macOS
+main-context-menu-reload-mac =
+    .label = Muat Ulang
+    .accesskey = U
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
@@ -67,6 +75,10 @@ toolbar-button-reload =
 
 main-context-menu-stop =
     .aria-label = Stop
+    .accesskey = S
+# This menuitem is only visible on macOS
+main-context-menu-stop-mac =
+    .label = Stop
     .accesskey = S
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
