@@ -131,6 +131,11 @@ browser-window-close-button =
 ## Tab actions
 
 
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+
 ## Bookmarks toolbar items
 
 
@@ -198,8 +203,9 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
-library-bookmarks-bookmark-edit =
-    .label = नोवा पुथी चिनहा़ सासापड़ाव में.
+
+## Pocket toolbar button
+
 
 ## More items
 
@@ -210,3 +216,12 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = नोवा साइट रे तिनाक् गान आंजोमाक्  आर बाङ बिडियो   DRM  सोफ्टवेयार बेभाराक् , ओका दो  ओका दो सिमा़ भितिर दाड़ेयाक् चेत् नोवा सांव आम का़मी होचो दाड़ेयामा { -brand-short-name } .
+
+## Password save/update panel
+
+
+## Add-on removal warning
+
+
+## Remote / Synced tabs
+
