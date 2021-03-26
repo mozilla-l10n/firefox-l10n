@@ -46,6 +46,10 @@ main-context-menu-forward-2 =
     .tooltiptext = Գնալ յաջորդ Էջ ({ $shortcut })
     .aria-label = Փոխանցել
     .accesskey = F
+# This menuitem is only visible on macOS
+main-context-menu-forward-mac =
+    .label = Փոխանցել
+    .accesskey = F
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
@@ -56,6 +60,10 @@ toolbar-button-forward-2 =
 main-context-menu-reload =
     .aria-label = Վերբեռնել
     .accesskey = R
+# This menuitem is only visible on macOS
+main-context-menu-reload-mac =
+    .label = Վերբեռնել
+    .accesskey = R
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
@@ -63,6 +71,10 @@ toolbar-button-reload =
 
 main-context-menu-stop =
     .aria-label = Ընդհատել
+    .accesskey = S
+# This menuitem is only visible on macOS
+main-context-menu-stop-mac =
+    .label = Ընդհատել
     .accesskey = S
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
@@ -287,6 +299,14 @@ main-context-menu-view-background-image =
 main-context-menu-generate-new-password =
     .label = Աւգտագործել ստեղծուած գաղտնաբառը…
     .accesskey = G
+
+## The access keys for "Use Saved Login" and "Use Saved Password"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+
+##
+
 main-context-menu-keyword =
     .label = Որոնմանն աւելացնել բանալի բառ…
     .accesskey = K
