@@ -717,3 +717,6 @@ panel-save-update-password = Heslo
 
 ## Remote / Synced tabs
 
+remote-tabs-manage-account =
+    .label = Správa účtu
+remote-tabs-sync-now = Synchronizovat
