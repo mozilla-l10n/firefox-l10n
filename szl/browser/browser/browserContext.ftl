@@ -76,6 +76,10 @@ toolbar-button-reload =
 main-context-menu-stop =
     .aria-label = Zastow
     .accesskey = Z
+# This menuitem is only visible on macOS
+main-context-menu-stop-mac =
+    .label = Zastow
+    .accesskey = Z
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
