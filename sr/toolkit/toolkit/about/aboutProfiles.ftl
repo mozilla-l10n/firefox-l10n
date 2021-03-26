@@ -54,9 +54,4 @@ profiles-delete-files = Обриши датотеке
 profiles-dont-delete-files = Немој обрисати датотеке
 profiles-delete-profile-failed-title = Грешка
 profiles-delete-profile-failed-message = Дошло је до грешке приликом брисања овог профила.
-profiles-opendir =
-    { PLATFORM() ->
-        [macos] Прикажи у Finder-у
-        [windows] Отвори фасциклу
-       *[other] Отвори директоријум
-    }
+profiles-opendir = Прикажи у фасцикли

@@ -44,20 +44,12 @@ app-basics-distribution-id = ID дистрибуције
 app-basics-update-channel = Канал за ажурирање
 # This message refers to the folder used to store updates on the device,
 # as in "Folder for updates". "Update" is a noun, not a verb.
-app-basics-update-dir =
-    { PLATFORM() ->
-        [linux] Директоријум за ажурирања
-       *[other] Фасцикла за ажурирања
-    }
+app-basics-update-dir = Фасцикла за ажурирања
 app-basics-update-history = Историја ажурирања
 app-basics-show-update-history = Прикажи историјат ажурирања
 # Represents the path to the binary used to start the application.
 app-basics-binary = Бинарна апликација
-app-basics-profile-dir =
-    { PLATFORM() ->
-        [linux] Фасцикла профила
-       *[other] Фасцикла профила
-    }
+app-basics-profile-dir = Фасцикла профила
 app-basics-enabled-plugins = Активирани прикључци
 app-basics-build-config = Конфигурација изградње
 app-basics-user-agent = Корисник
@@ -78,12 +70,7 @@ app-basics-location-service-key-google = Google кључ за услуге ло�
 app-basics-safebrowsing-key-google = Google кључ за безбедно прегледање
 app-basics-key-mozilla = Кључ Mozilla сервиса за локацију
 app-basics-safe-mode = Безбедни режим
-show-dir-label =
-    { PLATFORM() ->
-        [macos] Прикажи у Finder-у
-        [windows] Отвори фасциклу
-       *[other] Отвори фасциклу
-    }
+show-dir-label = Прикажи у фасцикли
 environment-variables-title = Варијабле окружења
 environment-variables-name = Назив
 environment-variables-value = Вредност
