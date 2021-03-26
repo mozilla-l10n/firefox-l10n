@@ -420,6 +420,9 @@ library-bookmarks-menu =
 
 ## Pocket toolbar button
 
+save-to-pocket-button =
+    .label = Vista í { -pocket-brand-name }
+    .tooltiptext = Vista í { -pocket-brand-name }
 
 ## More items
 
