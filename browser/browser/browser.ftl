@@ -684,3 +684,6 @@ addon-removal-abuse-report-checkbox = { -vendor-short-name } toś to rozšyrjenj
 
 ## Remote / Synced tabs
 
+remote-tabs-manage-account =
+    .label = Konto zastojaś
+remote-tabs-sync-now = Něnto synchronizěrowaś
