@@ -35,6 +35,12 @@ appmenuitem-more-tools =
     .label = Ulteriurs utensils
 appmenuitem-exit =
     .label = Terminar
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Terminar
+           *[other] Terminar
+        }
 appmenu-menu-button-closed =
     .tooltiptext = Avrir il menu d'applicaziun
     .label = { -brand-shorter-name }

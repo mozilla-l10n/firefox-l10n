@@ -9,6 +9,16 @@ about-private-browsing-info-title = Ti ta chattas en ina fanestra privata
 about-private-browsing-info-myths = Mitus frequents areguard il modus privat
 about-private-browsing =
     .title = Tschertgar en il web
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff =
+    .title = Tschertgar cun { $engine } u endatar in'adressa
+about-private-browsing-handoff-no-engine =
+    .title = Tschertgar u endatar in'adressa
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff-text = Tschertgar cun { $engine } u endatar in'adressa
+about-private-browsing-handoff-text-no-engine = Tschertgar u endatar in'adressa
 about-private-browsing-not-private = Ti n'es actualmain betg en ina fanestra privata.
 about-private-browsing-info-description = { -brand-short-name } stizza tia cronologia da tschertga e navigaziun cura che ti termineschas l'applicaziun u serras tut las fanestras e tut ils tabs privats. Cumbain che quai na ta renda betg anonim visavi websites u tes purschider dad internet, èsi in instrument util per impedir che autras persunas che utiliseschan quest computer vegnian ad infurmaziuns davart tias activitads online.
 about-private-browsing-need-more-privacy = Vuls proteger meglier tias datas?
