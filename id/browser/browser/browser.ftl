@@ -663,3 +663,6 @@ addon-removal-abuse-report-checkbox = Laporkan ekstensi ini ke { -vendor-short-n
 
 ## Remote / Synced tabs
 
+remote-tabs-manage-account =
+    .label = Kelola Akun
+remote-tabs-sync-now = Sinkronkan Sekarang
