@@ -333,6 +333,11 @@ browser-window-close-button =
 ## Tab actions
 
 
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+
 ## Bookmarks toolbar items
 
 
@@ -470,8 +475,6 @@ pointerlock-warning-no-domain = Iste documento tien lo control d'o puntero. Pret
 
 bookmarks-show-all-bookmarks =
     .label = Amostrar totz os marcapachinas
-bookmarks-recent-bookmarks =
-    .value = Pachinas marcadas recientment
 bookmarks-toolbar-chevron =
     .tooltiptext = Amostrar mas marcapachinas
 bookmarks-sidebar-content =
@@ -487,12 +490,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] Amagar la barra lateral de marcapachinas
            *[other] Amostrar a barra lateral de marcapachinas
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] Amagar la barra de ferramientas de marcapachinas
-           *[other] Veyer a barra de marcapachinas
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -530,10 +527,9 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-menu =
     .label = Marcapachinas
-library-bookmarks-bookmark-this-page =
-    .label = Marcar ista pachina con marcapachinas
-library-bookmarks-bookmark-edit =
-    .label = Editar iste marcapachinas
+
+## Pocket toolbar button
+
 
 ## More items
 
@@ -544,3 +540,12 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Bell audio u video d'iste puesto fan servir software DRM, o qual puet limitar o que { -brand-short-name } le deixará fer con ell.
+
+## Password save/update panel
+
+
+## Add-on removal warning
+
+
+## Remote / Synced tabs
+
