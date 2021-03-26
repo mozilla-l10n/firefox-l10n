@@ -516,3 +516,6 @@ addon-removal-title = { $name }-ро тоза мекунед?
 
 ## Remote / Synced tabs
 
+remote-tabs-manage-account =
+    .label = Идоракунии ҳисоб
+remote-tabs-sync-now = Ҳозир ҳамоҳанг кунед
