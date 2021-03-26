@@ -655,3 +655,6 @@ addon-removal-title = Poistetaanko { $name }?
 
 ## Remote / Synced tabs
 
+remote-tabs-manage-account =
+    .label = Hallinnoi tiliä
+remote-tabs-sync-now = Synkronoi nyt
