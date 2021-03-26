@@ -60,6 +60,10 @@ toolbar-button-forward-2 =
 main-context-menu-reload =
     .aria-label = Athlódáil
     .accesskey = A
+# This menuitem is only visible on macOS
+main-context-menu-reload-mac =
+    .label = Athlódáil
+    .accesskey = A
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
