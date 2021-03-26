@@ -674,3 +674,6 @@ addon-removal-abuse-report-checkbox = Tiya' rutzijol re k'amal re' pa { -vendor-
 
 ## Remote / Synced tabs
 
+remote-tabs-manage-account =
+    .label = Tinuk'samajïx Rub'i' Taqoya'l
+remote-tabs-sync-now = Tixim Wakami
