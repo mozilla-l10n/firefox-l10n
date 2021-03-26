@@ -276,6 +276,11 @@ browser-window-close-button =
 ## Tab actions
 
 
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+
 ## Bookmarks toolbar items
 
 
@@ -358,8 +363,6 @@ pointerlock-warning-no-domain = ह्या दस्तऐवजाकडे �
 
 bookmarks-show-all-bookmarks =
     .label = सर्व वाचणखूणा दाखवा
-bookmarks-recent-bookmarks =
-    .value = अलिकडील वाचनखूणा
 bookmarks-toolbar-chevron =
     .tooltiptext = आणखी वाचनखूणा दर्शवा
 bookmarks-sidebar-content =
@@ -374,12 +377,6 @@ bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
             [true] वाचनखूणांची बाजूपट्टी दृष्टीआड ठेवा
-           *[other] वाचनखूणा साधनपट्टी दृष्य
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] वाचनखूणांची साधनपट्टी दृष्टीआड ठेवा
            *[other] वाचनखूणा साधनपट्टी दृष्य
         }
 bookmarks-tools-toolbar-visibility-menuitem =
@@ -418,10 +415,9 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-menu =
     .label = वाचनखूणा
-library-bookmarks-bookmark-this-page =
-    .label = या पृष्ठास वाचनखूण लावा
-library-bookmarks-bookmark-edit =
-    .label = ही वाचनखूण संपादीत करा
+
+## Pocket toolbar button
+
 
 ## More items
 
@@ -432,3 +428,12 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = या साईट वरील काही ऑडियो आणि व्हिडीओ DRM सॉफ्टवेअर वापरतात, ज्यामुळे { -brand-short-name } आपणास जे करू देऊ शकते त्यावर मर्यादा येतील
+
+## Password save/update panel
+
+
+## Add-on removal warning
+
+
+## Remote / Synced tabs
+
