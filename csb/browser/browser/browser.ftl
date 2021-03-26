@@ -119,6 +119,14 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = Zamkni
 
+## Tab actions
+
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+
 ## Bookmarks toolbar items
 
 
@@ -160,6 +168,9 @@ urlbar-go-button =
 ## Full Screen and Pointer Lock UI
 
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -177,11 +188,24 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
-library-bookmarks-bookmark-this-page =
-    .label = Dodôj do załóżków
+
+## Pocket toolbar button
+
 
 ## More items
 
 more-menu-go-offline =
     .label = Robi offline
     .accesskey = R
+
+## EME notification panel
+
+
+## Password save/update panel
+
+
+## Add-on removal warning
+
+
+## Remote / Synced tabs
+
