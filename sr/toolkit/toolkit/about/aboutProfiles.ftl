@@ -17,14 +17,14 @@ profiles-flush-restart-button = Рестартуј { -brand-short-name }
 #   $name (String) - Name of the profile
 profiles-name = Профил: { $name }
 profiles-is-default = Подразумевани профил
-profiles-rootdir = Основни директоријум
+profiles-rootdir = Основна фасцикла
 # localDir is used to show the directory corresponding to
 # the main profile directory that exists for the purpose of storing data on the
 # local filesystem, including cache files or other data files that may not
 # represent critical user data. (e.g., this directory may not be included as
 # part of a backup scheme.)
 # In case localDir and rootDir are equal, localDir is not shown.
-profiles-localdir = Локални директоријум
+profiles-localdir = Локална фасцикла
 profiles-current-profile = Овај профил се тренутно користи и не може бити обрисан.
 profiles-in-use-profile = Овај профил се користи на другој апликацији и не може бити обрисан.
 profiles-rename = Преименуј
