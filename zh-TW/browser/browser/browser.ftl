@@ -663,3 +663,6 @@ addon-removal-abuse-report-checkbox = 回報此擴充套件給 { -vendor-short-n
 
 ## Remote / Synced tabs
 
+remote-tabs-manage-account =
+    .label = 管理帳號
+remote-tabs-sync-now = 立刻同步
