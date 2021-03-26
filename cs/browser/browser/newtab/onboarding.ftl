@@ -220,6 +220,7 @@ onboarding-multistage-set-default-header = Nastavte si { -brand-short-name(case:
 onboarding-multistage-set-default-subtitle = Rychlost, bezpečnost a soukromí pro vaše prohlížení.
 onboarding-multistage-set-default-primary-button-label = Nastavit jako výchozí
 onboarding-multistage-set-default-secondary-button-label = Teď ne
+onboarding-multistage-pin-default-subtitle = Rychlé, bezpečné a soukromé prohlížení kdykoliv jste na webu.
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Importujte svá hesla, <br/> záložky a <span data-l10n-name="zap">další data</span>

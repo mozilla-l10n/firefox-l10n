@@ -714,6 +714,16 @@ panel-save-update-password = Heslo
 
 ## Add-on removal warning
 
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = Opravdu chcete odebrat rozšíření { $name }?
+addon-removal-abuse-report-checkbox =
+    Nahlásit toto rozšíření { -vendor-short-name.gender ->
+        [masculine] { -vendor-short-name(case: "dat") }
+        [feminine] { -vendor-short-name(case: "dat") }
+        [neuter] { -vendor-short-name(case: "dat") }
+       *[other] organizaci { -vendor-short-name }
+    }
 
 ## Remote / Synced tabs
 
