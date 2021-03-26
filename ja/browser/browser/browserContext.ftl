@@ -19,17 +19,14 @@ navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
 toolbar-button-back =
     .label = { main-context-menu-back.aria-label }
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext =前のページへ戻ります ({ $shortcut })
+    .tooltiptext = 前のページへ戻ります ({ $shortcut })
     .aria-label = 戻る
     .accesskey = B
-
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
-
 toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
@@ -43,17 +40,14 @@ navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
 toolbar-button-forward =
     .label = { main-context-menu-forward.aria-label }
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
     .tooltiptext = 次のページへ進みます ({ $shortcut })
     .aria-label = 進む
     .accesskey = F
-
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
-
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
 
@@ -117,11 +111,6 @@ main-context-menu-open-link-new-tab =
 main-context-menu-open-link-container-tab =
     .label = リンクを新しいコンテナータブで開く
     .accesskey = b
-
-main-context-menu-open-link-container =
-    .label = リンクを新しいコンテナーで開く
-    .accesskey = w
-
 main-context-menu-open-link-new-window =
     .label = リンクを新しいウィンドウで開く
     .accesskey = d
@@ -131,11 +120,9 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-bookmark-this-link =
     .label = このリンクをブックマーク
     .accesskey = L
-
 main-context-menu-bookmark-link =
     .label = リンクをブックマーク
     .accesskey = B
-
 main-context-menu-save-link =
     .label = 名前を付けてリンク先を保存...
     .accesskey = k
@@ -147,6 +134,7 @@ main-context-menu-save-link-to-pocket =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+
 ## The access keys for "Copy Link" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
@@ -157,7 +145,6 @@ main-context-menu-copy-email =
 main-context-menu-copy-link =
     .label = リンクの URL をコピー
     .accesskey = a
-
 main-context-menu-copy-link-simple =
     .label = リンクをコピー
     .accesskey = L
@@ -251,19 +238,15 @@ main-context-menu-video-copy-location =
 main-context-menu-audio-copy-location =
     .label = 音声の URL をコピー
     .accesskey = o
-
 main-context-menu-image-copy-link =
     .label = 画像のリンクをコピー
     .accesskey = o
-
 main-context-menu-video-copy-link =
     .label = 動画のリンクをコピー
     .accesskey = o
-
 main-context-menu-audio-copy-link =
     .label = 音声のリンクをコピー
     .accesskey = o
-
 main-context-menu-image-save-as =
     .label = 名前を付けて画像を保存...
     .accesskey = v
@@ -276,11 +259,9 @@ main-context-menu-image-set-as-background =
 main-context-menu-image-info =
     .label = 画像の情報を表示
     .accesskey = f
-
 main-context-menu-image-set-image-as-background =
     .label = 画像をデスクトップの背景に設定...
     .accesskey = S
-
 main-context-menu-image-desc =
     .label = 画像の詳細情報を表示
     .accesskey = D
@@ -314,15 +295,20 @@ main-context-menu-send-to-device =
 main-context-menu-view-background-image =
     .label = 背景画像だけを表示
     .accesskey = w
-
 main-context-menu-generate-new-password =
     .label = 生成パスワードを使う...
     .accesskey = G
 
+## The access keys for "Use Saved Login" and "Use Saved Password"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+
+##
+
 main-context-menu-manage-logins =
     .label = ログイン情報を管理...
     .accesskey = M
-
 main-context-menu-keyword =
     .label = この検索にキーワードを設定...
     .accesskey = K
@@ -359,11 +345,9 @@ main-context-menu-frame-view-source =
 main-context-menu-frame-view-info =
     .label = フレームの情報を表示
     .accesskey = I
-
 main-context-menu-print-selection =
     .label = 選択した部分を印刷
     .accesskey = r
-
 main-context-menu-view-selection-source =
     .label = 選択した部分のソースを表示
     .accesskey = e
@@ -382,11 +366,9 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = 要素を調査
     .accesskey = Q
-
 main-context-menu-inspect =
     .label = 調査
     .accesskey = Q
-
 main-context-menu-inspect-a11y-properties =
     .label = アクセシビリティプロパティを調査
 main-context-menu-eme-learn-more =
