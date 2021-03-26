@@ -288,6 +288,8 @@ identity-passive-loaded = Partes de esta página no son seguras (por ejemplo im�
 identity-active-loaded = Has deshabilitado la protección en esta página.
 identity-weak-encryption = Esta página usa encriptación débil.
 identity-insecure-login-forms = Inicios de sesión ingresados en esta página pueden ser peligrosos.
+identity-permissions =
+    .value = Permisos
 identity-https-only-connection-upgraded = (actualizado a HTTPS)
 identity-https-only-label = Modo solo HTTPS
 identity-https-only-dropdown-on =
@@ -299,8 +301,6 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Activa el modo solo HTTPS para este sitio si quieres que { -brand-short-name } actualice la conexión cuando sea posible.
 identity-https-only-info-turn-off2 = Si el sitio no funciona correctamente, es posible que quieras desactivar el modo solo HTTPS para volver a cargarlo usando una conexión HTTP insegura.
 identity-https-only-info-no-upgrade = No se puede actualizar la conexión desde HTTP.
-identity-permissions =
-    .value = Permisos
 identity-permissions-storage-access-header = Cookies entre sitios
 identity-permissions-storage-access-hint = Estas partes pueden usar cookies de sitios cruzados y datos del sitio mientras está en este sitio.
 identity-permissions-reload-hint = Puede que tengas que recargar la página para que se apliquen los cambios.
@@ -347,6 +347,11 @@ browser-window-close-button =
     .tooltiptext = Cerrar
 
 ## Tab actions
+
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
 
 
 ## Bookmarks toolbar items
@@ -514,8 +519,6 @@ pointerlock-warning-no-domain = Este documento tiene el control de tu puntero. P
 
 bookmarks-show-all-bookmarks =
     .label = Mostrar todos los marcadores
-bookmarks-recent-bookmarks =
-    .value = Agregados recientemente a Marcadores
 bookmarks-toolbar-chevron =
     .tooltiptext = Mostrar más marcadores
 bookmarks-sidebar-content =
@@ -531,12 +534,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] Ocultar barra lateral de marcadores
            *[other] Ver el panel lateral de marcadores
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] Ocultar barra de marcadores
-           *[other] Ver la barra de marcadores
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -574,12 +571,11 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-menu =
     .label = Marcadores
-library-bookmarks-bookmark-this-page =
-    .label = Agregar esta página a marcadores
-library-bookmarks-bookmark-edit =
-    .label = Modificar este marcador
 library-recent-activity-title =
     .value = Actividad reciente
+
+## Pocket toolbar button
+
 
 ## More items
 
@@ -590,3 +586,12 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Algún audio o video en este sitio usa software DRM, que puede limitar lo que { -brand-short-name } te permite hacer con él.
+
+## Password save/update panel
+
+
+## Add-on removal warning
+
+
+## Remote / Synced tabs
+
