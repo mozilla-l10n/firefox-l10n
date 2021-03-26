@@ -53,6 +53,7 @@ category-experimental =
 pane-experimental-subtitle = Dikkatli olun
 pane-experimental-search-results-header = { -brand-short-name } deneyleri: dikkatli olun
 pane-experimental-description = Gelişmiş yapılandırma tercihlerini değiştirmek { -brand-short-name } performansını veya güvenliğini etkileyebilir.
+pane-experimental-description2 = Gelişmiş yapılandırma ayarlarını değiştirmek { -brand-short-name } performansını veya güvenliğini etkileyebilir.
 pane-experimental-reset =
     .label = Varsayılanları geri yükle
     .accesskey = V
@@ -122,6 +123,8 @@ search-results-empty-message =
         [windows] Kusura bakmayın, seçeneklerde “<span data-l10n-name="query"></span>” ile ilgili bir sonuç bulamadık.
        *[other] Kusura bakmayın, tercihlerde “<span data-l10n-name="query"></span>” ile ilgili bir sonuç bulamadık.
     }
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 = Kusura bakmayın, ayarlarda “<span data-l10n-name="query"></span>” ile ilgili bir sonuç bulamadık.
 search-results-help-link = Yardım mı gerekiyor? <a data-l10n-name="url">{ -brand-short-name } Destek</a>’i ziyaret edin.
 
 ## General Section
@@ -383,6 +386,15 @@ update-setting-write-failure-message =
     { -brand-short-name } bir hatayla karşılaştı ve bu değişikliği kaydetmedi. Bu güncelleme tercihinin ayarlanması için aşağıdaki dosyaya yazma izninizin olması gerekir. Siz veya sistem yöneticiniz bu dosya için Kullanıcılar grubuna tam denetim vererek hatayı giderebilirsiniz.
     
     Dosyaya yazılamadı: { $path }
+update-setting-write-failure-title2 = Güncelleme ayarları kaydedilirken hata oluştu
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message2 =
+    { -brand-short-name } bir hatayla karşılaştı ve bu değişikliği kaydetmedi. Bu güncelleme ayarının değiştirilmesi için aşağıdaki dosyaya yazma izninizin olması gerekir. Siz veya sistem yöneticiniz bu dosya için Kullanıcılar grubuna tam denetim vererek hatayı giderebilirsiniz.
+    
+    Dosyaya yazılamadı: { $path }
 update-in-progress-title = Güncelleme sürüyor
 update-in-progress-message = { -brand-short-name } bu güncellemeyi uygulamaya devam etsin mi?
 update-in-progress-ok-button = &Vazgeç
@@ -580,6 +592,7 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Gizli pencerelerde arama önerilerini göster
 suggestions-addressbar-settings-generic = Diğer adres çubuğu önerileri için tercihleri değiştir
+suggestions-addressbar-settings-generic2 = Diğer adres çubuğu önerileri için ayarları değiştir
 search-suggestions-cant-show = { -brand-short-name } tarayıcısını geçmişi hatırlamayacak şekilde ayarladığınız için konum çubuğu sonuçlarında arama önerileri gösterilmeyecektir.
 search-one-click-header = Tek tıklamalı arama motorları
 search-one-click-header2 = Arama kısayolları
@@ -614,6 +627,8 @@ containers-back-button =
             [windows] Seçeneklere geri dön
            *[other] Tercihlere geri dön
         }
+containers-back-button2 =
+    .aria-label = Ayarlara dön
 containers-header = Kapsayıcı sekmeler
 containers-add-button =
     .label = Yeni kapsayıcı ekle
@@ -623,6 +638,8 @@ containers-new-tab-check =
     .accesskey = H
 containers-preferences-button =
     .label = Tercihler
+containers-settings-button =
+    .label = Ayarlar
 containers-remove-button =
     .label = Sil
 
@@ -631,6 +648,7 @@ containers-remove-button =
 
 sync-signedout-caption = Web’inizi yanınızda taşıyın
 sync-signedout-description = Yer imlerinizi, geçmişinizi, sekmelerinizi, eklentilerinizi ve tercihlerinizi tüm cihazlarınız arasında senkronize edin.
+sync-signedout-description2 = Yer imlerinizi, geçmişinizi, sekmelerinizi, parolalarınızı, eklentilerinizi ve ayarlarınızı tüm cihazlarınız arasında senkronize edin.
 sync-signedout-account-signin2 =
     .label = { -sync-brand-short-name }’e giriş yap…
     .accesskey = r
@@ -673,6 +691,7 @@ prefs-sync-setup =
     .label = { -sync-brand-short-name }’i kur…
     .accesskey = S
 prefs-sync-offer-setup-label = Yer imlerinizi, geçmişinizi, sekmelerinizi, eklentilerinizi ve tercihlerinizi tüm cihazlarınız arasında senkronize edin.
+prefs-sync-offer-setup-label2 = Yer imlerinizi, geçmişinizi, sekmelerinizi, parolalarınızı, eklentilerinizi ve ayarlarınızı tüm cihazlarınız arasında senkronize edin.
 prefs-sync-now =
     .labelnotsyncing = Şimdi eşitle
     .accesskeynotsyncing = m
@@ -1155,6 +1174,7 @@ space-alert-under-5gb-ok-button =
     .label = Anladım
     .accesskey = A
 space-alert-under-5gb-message = { -brand-short-name } tarafından kulllanılabilen disk alanı azaldı. Site içerikleri düzgün görüntülenemeyebilir. Daha iyi bir gezinti deneyimi içi disk kullanımınızı iyileştirmek isterseniz “Daha fazla bilgi al” sayfasını ziyaret edin.
+space-alert-under-5gb-message2 = <strong>{ -brand-short-name } tarafından kulllanılabilen disk alanı azaldı.</strong> Site içerikleri düzgün görüntülenemeyebilir. Daha iyi bir gezinti deneyimi içi disk kullanımınızı iyileştirmek isterseniz “Daha fazla bilgi al” sayfasını ziyaret edin.
 
 ## Privacy Section - HTTPS-Only
 
