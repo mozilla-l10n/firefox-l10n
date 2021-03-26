@@ -64,6 +64,7 @@ category-experimental =
 pane-experimental-subtitle = 주의해서 진행하세요
 pane-experimental-search-results-header = { -brand-short-name } 실험: 주의해서 진행하세요
 pane-experimental-description = 고급 구성 설정을 변경하면 { -brand-short-name }의 성능 또는 보안에 영향을 줄 수 있습니다.
+pane-experimental-description2 = 고급 구성 설정을 변경하면 { -brand-short-name }의 성능 또는 보안에 영향을 줄 수 있습니다.
 pane-experimental-reset =
     .label = 기본값으로 복원
     .accesskey = R
@@ -133,6 +134,8 @@ search-results-empty-message =
         [windows] 죄송합니다! “<span data-l10n-name="query"></span>”옵션에 대한 결과가 없습니다.
        *[other] 죄송합니다! “<span data-l10n-name="query"></span>”설정에 대한 결과가 없습니다.
     }
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 = 죄송합니다! 설정에서 “<span data-l10n-name="query"></span>”에 대한 결과가 없습니다.
 search-results-help-link = 도움이 필요하세요? <a data-l10n-name="url">{ -brand-short-name } 지원</a>에 방문하세요.
 
 ## General Section
@@ -369,6 +372,9 @@ update-application-check-choose =
 update-application-manual =
     .label = 업데이트 확인 안 함 (권장하지 않음)
     .accesskey = N
+update-application-background-enabled =
+    .label = { -brand-short-name }가 실행 중이 아닐 때
+    .accesskey = W
 update-application-warning-cross-user-setting = 이 설정은 이 { -brand-short-name } 설치를 사용하는 모든 Windows 계정 및 { -brand-short-name } 프로필에 적용됩니다.
 update-application-use-service =
     .label = 업데이트 설치 시 백그라운드 작업으로 하기
@@ -382,6 +388,7 @@ update-setting-write-failure-message =
     오류가 발생하여 { -brand-short-name }가 이 변경 내용을 저장하지 않았습니다. 이 업데이트 환경 설정을 하려면 아래 파일에 쓰기 권한이 필요합니다. 사용자나 시스템 관리자가 사용자 그룹에 이 파일에 대한 모든 권한을 부여하여 오류를 해결할 수 있습니다.
     
     파일에 쓸 수 없음: { $path }
+update-setting-write-failure-title2 = 업데이트 설정 저장 중 오류 발생
 update-in-progress-title = 업데이트 진행 중
 update-in-progress-message = { -brand-short-name }가 이 업데이트를 계속하길 원하십니까?
 update-in-progress-ok-button = 취소(&D)
@@ -575,6 +582,7 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = 사생활 보호 창에 검색 제안 표시
 suggestions-addressbar-settings-generic = 다른 주소 표시줄 제안에 대한 설정 변경
+suggestions-addressbar-settings-generic2 = 다른 주소 표시줄 제안에 대한 설정 변경
 search-suggestions-cant-show = 방문 기록을 저장하지 않도록 { -brand-short-name }를 설정했기 때문에 검색 제안이 주소 표시 줄 결과에 표시되지 않습니다.
 search-one-click-header = 원클릭 검색 엔진
 search-one-click-header2 = 검색 바로 가기
@@ -609,6 +617,8 @@ containers-back-button =
             [windows] 설정으로 돌아가기
            *[other] 설정으로 돌아가기
         }
+containers-back-button2 =
+    .aria-label = 설정으로 돌아가기
 containers-header = 컨테이너 탭
 containers-add-button =
     .label = 새 컨테이너 추가
@@ -617,6 +627,8 @@ containers-new-tab-check =
     .label = 새 탭마다 컨테이너 선택
     .accesskey = S
 containers-preferences-button =
+    .label = 설정
+containers-settings-button =
     .label = 설정
 containers-remove-button =
     .label = 삭제
@@ -736,6 +748,10 @@ sync-engine-prefs =
         }
     .tooltiptext = 사용자가 변경한 일반, 개인 정보 및 보안 설정
     .accesskey = S
+sync-engine-settings =
+    .label = 설정
+    .tooltiptext = 변경한 일반, 개인 정보 및 보안 설정
+    .accesskey = s
 
 ## The device name controls.
 
@@ -1150,6 +1166,9 @@ space-alert-under-5gb-ok-button =
     .label = 확인
     .accesskey = K
 space-alert-under-5gb-message = { -brand-short-name } 디스크 용량이 부족합니다. 웹 사이트 내용이 제대로 표시되지 않을 수 있습니다. 더 나은 인터넷 경험을 위해 디스크 용량을 최적화하는 방법을 알아보려면 “더 알아보기”를 방문하세요.
+space-alert-over-5gb-settings-button =
+    .label = 설정 열기
+    .accesskey = O
 
 ## Privacy Section - HTTPS-Only
 
