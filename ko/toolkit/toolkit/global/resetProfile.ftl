@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = { -brand-short-name } 새로 설정
+refresh-profile-dialog-title = { -brand-short-name }를 기본 설정으로 새로 설정하시겠습니까?
 refresh-profile-dialog-button =
     .label = { -brand-short-name } 새로 설정
 refresh-profile-description = 문제 해결과 성능 향상을 위해서 새로 설정을 시작합니다.
