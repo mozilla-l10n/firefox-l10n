@@ -34,6 +34,9 @@ sidebar-preferences-button-title =
             [windows] Tùy chọn { -brand-short-name }
            *[other] Tùy chỉnh { -brand-short-name }
         }
+addons-settings-button = Cài đặt { -brand-short-name }
+sidebar-settings-button-title =
+    .title = Cài đặt { -brand-short-name }
 show-unsigned-extensions-button =
     .label = Không thể xác thực một số tiện ích
 show-all-extensions-button =
@@ -381,9 +384,6 @@ addon-detail-private-browsing-disallow = Không cho phép
 addon-badge-recommended2 =
     .title = { -brand-product-name } chỉ đề xuất các tiện ích mở rộng đáp ứng các tiêu chuẩn của chúng tôi về bảo mật và hiệu suất
     .aria-label = { addon-badge-recommended2.title }
-addon-badge-line2 =
-    .title = Đây là tiện ích mở rộng chính thức do những người tạo ra { -brand-product-name } xây dựng
-    .aria-label = { addon-badge-line2.title }
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =

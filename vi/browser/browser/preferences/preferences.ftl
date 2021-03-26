@@ -28,6 +28,18 @@ search-input-box =
             [windows] Tìm trong phần tùy chọn
            *[other] Tìm trong phần tùy chỉnh
         }
+settings-page-title = Cài đặt
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box2 =
+    .style = width: 15.4em
+    .placeholder = Tìm kiếm trong Cài đặt
 managed-notice = Trình duyệt của bạn đang được quản lý bởi tổ chức của bạn.
 category-list =
     .aria-label = Thể loại
@@ -52,6 +64,7 @@ category-experimental =
 pane-experimental-subtitle = Tiến hành thận trọng
 pane-experimental-search-results-header = Thử nghiệm { -brand-short-name }: Tiến hành thận trọng
 pane-experimental-description = Thay đổi tùy chọn cấu hình nâng cao có thể ảnh hưởng đến hiệu suất hoặc bảo mật { -brand-short-name }.
+pane-experimental-description2 = Thay đổi cài đặt cấu hình nâng cao có thể ảnh hưởng đến hiệu suất hoặc bảo mật của { -brand-short-name }.
 pane-experimental-reset =
     .label = Khôi phục về mặc định
     .accesskey = R
@@ -121,6 +134,8 @@ search-results-empty-message =
         [windows] Xin lỗi! Không có kết quả trong phần Tùy chọn cho “<span data-l10n-name="query"></span>”.
        *[other] Xin lỗi! Không có kết quả trong phần Tùy chỉnh cho “<span data-l10n-name="query"></span>”.
     }
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 = Xin lỗi! Không có kết quả nào trong Cài đặt cho “<span data-l10n-name="query">”.
 search-results-help-link = Cần trợ giúp? Đi đến <a data-l10n-name="url">Hỗ trợ { -brand-short-name }</a>
 
 ## General Section
@@ -357,6 +372,9 @@ update-application-check-choose =
 update-application-manual =
     .label = Không bao giờ kiểm tra các bản cập nhật (không khuyến nghị)
     .accesskey = N
+update-application-background-enabled =
+    .label = Khi { -brand-short-name } không chạy
+    .accesskey = W
 update-application-warning-cross-user-setting = Cài đặt này sẽ áp dụng cho tất cả các tài khoản Windows và hồ sơ { -brand-short-name } bằng cách sử dụng cài đặt { -brand-short-name } này.
 update-application-use-service =
     .label = Sử dụng dịch vụ chạy nền để cài đặt các cập nhật
@@ -370,6 +388,15 @@ update-setting-write-failure-message =
     { -brand-short-name } đã gặp lỗi và đã không lưu thay đổi này. Lưu ý rằng thiết lập tùy chọn cập nhật này yêu cầu quyền ghi vào tập tin bên dưới. Bạn hoặc quản trị viên hệ thống có thể giải quyết lỗi bằng cách cấp cho nhóm Người dùng toàn quyền kiểm soát tệp này.
     
     Không thể ghi vào tệp: { $path }
+update-setting-write-failure-title2 = Lỗi khi lưu cài đặt Cập nhật
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message2 =
+    { -brand-short-name } đã gặp lỗi và đã không lưu thay đổi này. Lưu ý rằng cài đặt tùy chỉnh cập nhật này yêu cầu quyền ghi vào tập tin bên dưới. Bạn hoặc quản trị viên hệ thống có thể giải quyết lỗi bằng cách cấp cho nhóm Người dùng toàn quyền kiểm soát tập tin này.
+    
+    Không thể ghi vào tập tin: { $path }
 update-in-progress-title = Đang cập nhật
 update-in-progress-message = Bạn có muốn { -brand-short-name } tiếp tục với bản cập nhật này không?
 update-in-progress-ok-button = &Hủy bỏ
@@ -563,6 +590,7 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Hiển thị đề xuất tìm kiếm trong cửa sổ riêng tư
 suggestions-addressbar-settings-generic = Thay đổi tùy chọn cho các đề xuất trên thanh địa chỉ khác
+suggestions-addressbar-settings-generic2 = Thay đổi cài đặt cho các đề xuất khác trên thanh địa chỉ
 search-suggestions-cant-show = Gợi ý tìm kiếm sẽ không được hiện ở thanh địa chỉ vì bạn đã thiết lập { -brand-short-name } không bao giờ ghi nhớ lịch sử.
 search-one-click-header = Công cụ tìm kiếm với một lần nhấn
 search-one-click-header2 = Lối tắt tìm kiếm
@@ -597,6 +625,8 @@ containers-back-button =
             [windows] Quay lại Tùy chọn
            *[other] Quay lại Tùy chỉnh
         }
+containers-back-button2 =
+    .aria-label = Quay lại Cài đặt
 containers-header = Ngăn chứa thẻ
 containers-add-button =
     .label = Thêm ngăn chứa mới
@@ -606,6 +636,8 @@ containers-new-tab-check =
     .accesskey = S
 containers-preferences-button =
     .label = Tùy chỉnh
+containers-settings-button =
+    .label = Cài đặt
 containers-remove-button =
     .label = Loại bỏ
 
@@ -614,6 +646,7 @@ containers-remove-button =
 
 sync-signedout-caption = Mang trang web theo bạn
 sync-signedout-description = Đồng bộ dấu trang, lịch sử, thẻ, mật khẩu, tiện ích và tùy chỉnh tới tất cả các thiết bị của bạn.
+sync-signedout-description2 = Đồng bộ trang đánh dấu, lịch sử, thẻ, mật khẩu, tiện ích và cài đặt tới tất cả các thiết bị của bạn.
 sync-signedout-account-signin2 =
     .label = Đăng nhập vào { -sync-brand-short-name }…
     .accesskey = i
@@ -656,6 +689,7 @@ prefs-sync-setup =
     .label = Thiết lập { -sync-brand-short-name }…
     .accesskey = S
 prefs-sync-offer-setup-label = Đồng bộ dấu trang, lịch sử, thẻ, mật khẩu, tiện ích và tùy chỉnh tới tất cả các thiết bị của bạn.
+prefs-sync-offer-setup-label2 = Đồng bộ trang đánh dấu, lịch sử, thẻ, mật khẩu, tiện ích và cài đặt tới tất cả các thiết bị của bạn.
 prefs-sync-now =
     .labelnotsyncing = Đồng bộ hóa ngay
     .accesskeynotsyncing = N
@@ -676,6 +710,7 @@ sync-currently-syncing-prefs =
         [windows] Tùy chọn
        *[other] Tùy chỉnh
     }
+sync-currently-syncing-settings = Cài đặt
 sync-change-options =
     .label = Thay đổi…
     .accesskey = C
@@ -722,6 +757,10 @@ sync-engine-prefs =
            *[other] Tùy chỉnh
         }
     .tooltiptext = Các cài đặt chung, cài đặt về sự riêng tư, và bảo mật mà bạn đã thay đổi
+    .accesskey = s
+sync-engine-settings =
+    .label = Cài đặt
+    .tooltiptext = Cài đặt tổng quát, riêng tư và bảo mật mà bạn đã thay đổi
     .accesskey = s
 
 ## The device name controls.
@@ -1137,6 +1176,11 @@ space-alert-under-5gb-ok-button =
     .label = OK, đã hiểu
     .accesskey = K
 space-alert-under-5gb-message = Không đủ dung lượng đĩa cho { -brand-short-name }. Nội dung trang web có thể không hiển thị chính xác. Truy cập “Tìm hiểu thêm” để tối ưu hóa việc sử dụng đĩa của bạn để có trải nghiệm duyệt web tốt hơn.
+space-alert-over-5gb-settings-button =
+    .label = Mở Cài đặt
+    .accesskey = O
+space-alert-over-5gb-message2 = <strong>{ -brand-short-name } sắp hết dung lượng đĩa.</strong> Nội dung trang web có thể không hiển thị chính xác. Bạn có thể xóa dữ liệu được lưu trữ trong Cài đặt > Riêng tư & Bảo mật > Cookie và dữ liệu trang.
+space-alert-under-5gb-message2 = <strong>{ -brand-short-name } sắp hết dung lượng đĩa. </strong>Nội dung trang web có thể không hiển thị chính xác. Truy cập “Tìm hiểu thêm” để tối ưu hóa việc sử dụng đĩa của bạn để có trải nghiệm duyệt web tốt hơn.
 
 ## Privacy Section - HTTPS-Only
 

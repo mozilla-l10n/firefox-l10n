@@ -52,7 +52,7 @@ main-context-menu-forward-2 =
     .accesskey = F
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
-    .label = Tiếc tục
+    .label = Tiến
     .accesskey = F
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
@@ -102,6 +102,18 @@ main-context-menu-bookmark-add =
     .aria-label = Đánh dấu trang này
     .accesskey = m
     .tooltiptext = Đánh dấu trang này
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-add-mac =
+    .label = Đánh dấu trang
+    .accesskey = m
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-edit-mac =
+    .label = Chỉnh sửa dấu trang
+    .accesskey = m
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-add-with-shortcut =

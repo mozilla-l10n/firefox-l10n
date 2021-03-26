@@ -19,6 +19,20 @@ newtab-search-box-search-button =
     .title = Tìm kiếm
     .aria-label = Tìm kiếm
 newtab-search-box-search-the-web-text = Tìm trên mạng
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-text = Tìm kiếm với { $engine } hoặc nhập địa chỉ
+newtab-search-box-handoff-text-no-engine = Tìm kiếm hoặc nhập địa chỉ
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-input =
+    .placeholder = Tìm kiếm với { $engine } hoặc nhập địa chỉ
+    .title = Tìm kiếm với { $engine } hoặc nhập địa chỉ
+    .aria-label = Tìm kiếm với { $engine } hoặc nhập địa chỉ
+newtab-search-box-handoff-input-no-engine =
+    .placeholder = Tìm kiếm hoặc nhập địa chỉ
+    .title = Tìm kiếm hoặc nhập địa chỉ
+    .aria-label = Tìm kiếm hoặc nhập địa chỉ
 newtab-search-box-search-the-web-input =
     .placeholder = Tìm trên mạng
     .title = Tìm trên mạng
