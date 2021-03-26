@@ -289,14 +289,14 @@ identity-passive-loaded = এই পৃষ্ঠাখনৰ কিছুমা�
 identity-active-loaded = আপুনি এই পৃষ্ঠাখনত সুৰক্ষা নিষ্ক্ৰিয় কৰিছে।
 identity-weak-encryption = এই পৃষ্ঠাখনে দুৰ্বল এনক্ৰীপশ্যন ব্যৱহাৰ কৰে।
 identity-insecure-login-forms = এই পৃষ্ঠাখনত প্ৰৱিষ্ট কৰা লগিনসমূহ আপোচ কৰা হ'ব পাৰে।
+identity-permissions =
+    .value = অনুমতিসমূহ
 identity-https-only-connection-upgraded = (HTTPSলৈ আপগ্ৰেড কৰা হৈছে)
 identity-https-only-dropdown-on =
     .label = চালু
 identity-https-only-dropdown-off =
     .label = বন্ধ
 identity-https-only-info-turn-off2 = যদি পৃষ্ঠাখন নষ্ট যেন লাগে তেন্তে আপুনি অসুৰক্ষিত HTTP ব্যৱহাৰ কৰি পুনৰ ল'ড কৰিবলৈ এই ছাইটৰ বাবে কেৱল-HTTPS ম'ড বন্ধ কৰিব বিচাৰিব পাৰে।
-identity-permissions =
-    .value = অনুমতিসমূহ
 identity-permissions-storage-access-header = ক্ৰ'ছ-ছাইট কুকিজ
 identity-permissions-reload-hint = সাল-সলনি প্ৰয়োগ কৰিবলৈ আপুনি পৃষ্ঠাখন ৰিল'ড কৰিব লাগিব পাৰে।
 identity-permissions-empty = আপুনি এই ছাইটটোক কোনো বিশেষ অনুমতি প্ৰদান কৰা নাই।
@@ -330,6 +330,11 @@ browser-window-close-button =
     .tooltiptext = বন্ধ কৰক
 
 ## Tab actions
+
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
 
 
 ## Bookmarks toolbar items
@@ -433,13 +438,24 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-menu =
     .label = বুকমাৰ্কসমূহ
-library-bookmarks-bookmark-this-page =
-    .label = এই পৃষ্ঠা পত্ৰচিহ্নিত কৰক
-library-bookmarks-bookmark-edit =
-    .label = এই পত্ৰচিহ্ন সম্পাদন কৰক
+
+## Pocket toolbar button
+
 
 ## More items
 
 more-menu-go-offline =
     .label = অফলাইন কাম কৰক
     .accesskey = k
+
+## EME notification panel
+
+
+## Password save/update panel
+
+
+## Add-on removal warning
+
+
+## Remote / Synced tabs
+
