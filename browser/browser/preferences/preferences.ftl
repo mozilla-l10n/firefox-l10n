@@ -400,6 +400,15 @@ update-setting-write-failure-message =
     { -brand-short-name } heeft een fout aangetroffen en heeft deze wijziging niet opgeslagen. Merk op dat voor het instellen van deze updatevoorkeur schrijfrechten voor onderstaand bestand benodigd zijn. U of uw systeembeheerder kan deze fout oplossen door de groep Gebruikers volledige toegang tot dit bestand te geven.
     
     Kon niet schrijven naar bestand: { $path }
+update-setting-write-failure-title2 = Fout bij opslaan update-instellingen
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message2 =
+    { -brand-short-name } heeft een fout aangetroffen en heeft deze wijziging niet opgeslagen. Merk op dat voor het instellen van deze update-instelling schrijfrechten voor onderstaand bestand benodigd zijn. U of uw systeembeheerder kan deze fout oplossen door de groep Gebruikers volledige toegang tot dit bestand te geven.
+    
+    Kon niet schrijven naar bestand: { $path }
 update-in-progress-title = Update wordt uitgevoerd
 update-in-progress-message = Wilt u dat { -brand-short-name } doorgaat met deze update?
 update-in-progress-ok-button = &Verwerpen
@@ -597,6 +606,7 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Zoeksuggesties weergeven in privévensters
 suggestions-addressbar-settings-generic = Voorkeuren voor overige adresbalksuggesties wijzigen
+suggestions-addressbar-settings-generic2 = Instellingen voor overige adresbalksuggesties wijzigen
 search-suggestions-cant-show = Zoeksuggesties worden niet in locatiebalkresultaten getoond, omdat u { -brand-short-name } hebt geconfigureerd om nooit geschiedenis te onthouden.
 search-one-click-header = Eén-klik-zoekmachines
 search-one-click-header2 = Zoeksnelkoppelingen
@@ -631,6 +641,8 @@ containers-back-button =
             [windows] Terug naar Opties
            *[other] Terug naar Voorkeuren
         }
+containers-back-button2 =
+    .aria-label = Terug naar Instellingen
 containers-header = Containertabbladen
 containers-add-button =
     .label = Nieuwe container toevoegen
@@ -640,6 +652,8 @@ containers-new-tab-check =
     .accesskey = S
 containers-preferences-button =
     .label = Voorkeuren
+containers-settings-button =
+    .label = Instellingen
 containers-remove-button =
     .label = Verwijderen
 
@@ -648,6 +662,7 @@ containers-remove-button =
 
 sync-signedout-caption = Neem uw web mee
 sync-signedout-description = Synchroniseer uw bladwijzers, geschiedenis, tabbladen, wachtwoorden, add-ons en voorkeuren op al uw apparaten.
+sync-signedout-description2 = Synchroniseer uw bladwijzers, geschiedenis, tabbladen, wachtwoorden, add-ons en instellingen op al uw apparaten.
 sync-signedout-account-signin2 =
     .label = Aanmelden bij { -sync-brand-short-name }…
     .accesskey = A
@@ -690,6 +705,7 @@ prefs-sync-setup =
     .label = { -sync-brand-short-name } instellen…
     .accesskey = s
 prefs-sync-offer-setup-label = Synchroniseer uw bladwijzers, geschiedenis, tabbladen, wachtwoorden, add-ons en voorkeuren op al uw apparaten.
+prefs-sync-offer-setup-label2 = Synchroniseer uw bladwijzers, geschiedenis, tabbladen, wachtwoorden, add-ons en instellingen op al uw apparaten.
 prefs-sync-now =
     .labelnotsyncing = Nu synchroniseren
     .accesskeynotsyncing = N
@@ -710,6 +726,7 @@ sync-currently-syncing-prefs =
         [windows] Opties
        *[other] Voorkeuren
     }
+sync-currently-syncing-settings = Instellingen
 sync-change-options =
     .label = Wijzigen…
     .accesskey = W
@@ -757,6 +774,10 @@ sync-engine-prefs =
         }
     .tooltiptext = Algemene, privacy- en beveiligingsinstellingen die u hebt gewijzigd
     .accesskey = O
+sync-engine-settings =
+    .label = Instellingen
+    .tooltiptext = Door u gewijzigde algemene, privacy- en beveiligingsinstellingen
+    .accesskey = s
 
 ## The device name controls.
 
@@ -1171,6 +1192,11 @@ space-alert-under-5gb-ok-button =
     .label = OK, begrepen
     .accesskey = K
 space-alert-under-5gb-message = { -brand-short-name } heeft bijna geen schijfruimte meer. Inhoud van websites wordt mogelijk niet goed weergegeven. Bezoek ‘Meer info’ om uw schijfgebruik te optimaliseren voor betere prestaties.
+space-alert-over-5gb-settings-button =
+    .label = Instellingen openen
+    .accesskey = o
+space-alert-over-5gb-message2 = <strong>{ -brand-short-name } heeft bijna geen schijfruimte meer.</strong> Inhoud van websites wordt mogelijk niet goed weergegeven. U kunt opgeslagen gegevens wissen in Instellingen > Privacy & Beveiliging > Cookies en websitegegevens.
+space-alert-under-5gb-message2 = <strong>{ -brand-short-name } heeft bijna geen schijfruimte meer.</strong> Inhoud van websites wordt mogelijk niet goed weergegeven. Bezoek ‘Meer info’ om uw schijfgebruik te optimaliseren voor betere prestaties.
 
 ## Privacy Section - HTTPS-Only
 
