@@ -134,6 +134,11 @@ browser-window-close-button =
 ## Tab actions
 
 
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+
 ## Bookmarks toolbar items
 
 
@@ -191,8 +196,6 @@ fullscreen-exit-mac-button = Mb-ròɁ lô (Esc)
 
 bookmarks-show-all-bookmarks =
     .label = Mb-lòɁ ré tá kó ndó~làz=ná
-bookmarks-recent-bookmarks =
-    .value = Ko pénta tón ná loo ndó~làz=ná
 bookmarks-toolbar-chevron =
     .tooltiptext = Mb-lòɁ kó ndó~làz=ná
 bookmarks-sidebar-content =
@@ -214,13 +217,24 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
-library-bookmarks-bookmark-this-page =
-    .label = Tób kùe loo ndó~làz=ná
-library-bookmarks-bookmark-edit =
-    .label = Tùs kùe Ndó~làz=ná
+
+## Pocket toolbar button
+
 
 ## More items
 
 more-menu-go-offline =
     .label = Kee xhin sin Internet
     .accesskey = x
+
+## EME notification panel
+
+
+## Password save/update panel
+
+
+## Add-on removal warning
+
+
+## Remote / Synced tabs
+
