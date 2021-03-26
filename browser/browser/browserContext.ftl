@@ -46,6 +46,10 @@ main-context-menu-forward-2 =
     .tooltiptext = Leathanach amháin ar aghaidh ({ $shortcut })
     .aria-label = Ar Aghaidh
     .accesskey = A
+# This menuitem is only visible on macOS
+main-context-menu-forward-mac =
+    .label = Ar Aghaidh
+    .accesskey = A
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
@@ -63,6 +67,10 @@ toolbar-button-reload =
 
 main-context-menu-stop =
     .aria-label = Stad
+    .accesskey = S
+# This menuitem is only visible on macOS
+main-context-menu-stop-mac =
+    .label = Stad
     .accesskey = S
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
@@ -128,6 +136,11 @@ main-context-menu-save-link-to-pocket =
     .accesskey = o
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+
+## The access keys for "Copy Link" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
@@ -275,6 +288,14 @@ main-context-menu-view-background-image =
 main-context-menu-generate-new-password =
     .label = Úsáid Focal Faire Ginte…
     .accesskey = G
+
+## The access keys for "Use Saved Login" and "Use Saved Password"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+
+##
+
 main-context-menu-keyword =
     .label = Cuir lorgfhocal leis an gcuardach seo…
     .accesskey = l
