@@ -622,6 +622,12 @@ library-bookmarks-menu =
 library-recent-activity-title =
     .value = Viimeisin toiminta
 
+## Pocket toolbar button
+
+save-to-pocket-button =
+    .label = Tallenna { -pocket-brand-name }-palveluun
+    .tooltiptext = Tallenna { -pocket-brand-name }-palveluun
+
 ## More items
 
 more-menu-go-offline =
@@ -646,3 +652,6 @@ panel-save-update-password = Salasana
 # Variables:
 #  $name (String): The name of the addon that will be removed.
 addon-removal-title = Poistetaanko { $name }?
+
+## Remote / Synced tabs
+
