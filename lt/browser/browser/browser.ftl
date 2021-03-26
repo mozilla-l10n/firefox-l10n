@@ -645,6 +645,12 @@ library-bookmarks-menu =
 library-recent-activity-title =
     .value = Paskiausia veikla
 
+## Pocket toolbar button
+
+save-to-pocket-button =
+    .label = Įrašyti į „{ -pocket-brand-name }“
+    .tooltiptext = Įrašyti į „{ -pocket-brand-name }“
+
 ## More items
 
 more-menu-go-offline =
@@ -670,3 +676,6 @@ panel-save-update-password = Slaptažodis
 #  $name (String): The name of the addon that will be removed.
 addon-removal-title = Pašalinti „{ $name }“?
 addon-removal-abuse-report-checkbox = Pranešti apie šį priedą į „{ -vendor-short-name }“
+
+## Remote / Synced tabs
+
