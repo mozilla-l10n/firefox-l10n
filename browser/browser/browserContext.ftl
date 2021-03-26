@@ -25,6 +25,10 @@ main-context-menu-back-2 =
     .tooltiptext = ఒక పేజీ వెనుకకు వెళ్ళండి ({ $shortcut })
     .aria-label = వెనుకకు
     .accesskey = B
+# This menuitem is only visible on macOS
+main-context-menu-back-mac =
+    .label = వెనుకకు
+    .accesskey = B
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -46,6 +50,10 @@ main-context-menu-forward-2 =
     .tooltiptext = ఒక పేజీ ముందుకు వెళ్ళండి ({ $shortcut })
     .aria-label = ముందుకు
     .accesskey = F
+# This menuitem is only visible on macOS
+main-context-menu-forward-mac =
+    .label = ముందుకు
+    .accesskey = F
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
@@ -56,6 +64,10 @@ toolbar-button-forward-2 =
 main-context-menu-reload =
     .aria-label = మళ్ళీ లోడుచేయి
     .accesskey = R
+# This menuitem is only visible on macOS
+main-context-menu-reload-mac =
+    .label = మళ్ళీ లోడుచేయి
+    .accesskey = R
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
@@ -63,6 +75,10 @@ toolbar-button-reload =
 
 main-context-menu-stop =
     .aria-label = ఆపివేయి
+    .accesskey = S
+# This menuitem is only visible on macOS
+main-context-menu-stop-mac =
+    .label = ఆపివేయి
     .accesskey = S
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
