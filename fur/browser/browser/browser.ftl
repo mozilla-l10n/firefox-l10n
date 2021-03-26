@@ -640,6 +640,12 @@ library-bookmarks-menu =
 library-recent-activity-title =
     .value = Ativitât resinte
 
+## Pocket toolbar button
+
+save-to-pocket-button =
+    .label = Salve su { -pocket-brand-name }
+    .tooltiptext = Salve su { -pocket-brand-name }
+
 ## More items
 
 more-menu-go-offline =
@@ -665,3 +671,6 @@ panel-save-update-password = Password
 #  $name (String): The name of the addon that will be removed.
 addon-removal-title = Gjavâ { $name }?
 addon-removal-abuse-report-checkbox = Segnale cheste estension a { -vendor-short-name }
+
+## Remote / Synced tabs
+
