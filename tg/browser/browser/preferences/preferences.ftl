@@ -3,6 +3,18 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-learn-more = Маълумоти бештар
+category-general =
+    .tooltiptext = { pane-general-title }
+category-home =
+    .tooltiptext = { pane-home-title }
+category-search =
+    .tooltiptext = { pane-search-title }
+category-privacy =
+    .tooltiptext = { pane-privacy-title }
+category-sync2 =
+    .tooltiptext = { pane-sync-title2 }
+category-experimental =
+    .tooltiptext = Озмоишҳои { -brand-short-name }
 
 ## Browser Restart Dialog
 
@@ -33,8 +45,52 @@ containers-disable-alert-cancel-button = Фаъолшуда нигоҳ дошт�
 
 ## General Section - Files and Applications
 
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] Интихоб кардан…
+           *[other] Кушодан…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] И
+           *[other] К
+        }
+# Variables:
+#   $extension (String) - file extension (e.g .TXT)
+applications-file-ending = Файли { $extension }
 applications-action-save =
     .label = Нигоҳ доштани файл
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app =
+    .label = Истифодаи { $app-name }
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app-default =
+    .label = Истифодаи { $app-name } (пешфарз)
+applications-use-os-default =
+    .label =
+        { PLATFORM() ->
+            [macos] Истифодаи барномаи пешфарзи macOS
+            [windows] Истифодаи барномаи пешфарзи Windows
+           *[other] Истифодаи барномаи пешфарзи низомӣ
+        }
+# Variables:
+#   $type (String) - the MIME type (e.g application/binary)
+applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
+# Variables:
+#   $type-description (String) - Description of the type (e.g "Portable Document Format")
+#   $type (String) - the MIME type (e.g application/binary)
+applications-type-description-with-type = { $type-description } ({ $type })
+# Variables:
+#   $extension (String) - file extension (e.g .TXT)
+#   $type (String) - the MIME type (e.g application/binary)
+applications-file-ending-with-type = { applications-file-ending } ({ $type })
+# Variables:
+#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+applications-use-plugin-in =
+    .label = Истифодаи { $plugin-name } (дар { -brand-short-name })
 applications-open-inapp =
     .label = Кушодан дар { -brand-short-name }
 
@@ -42,14 +98,28 @@ applications-open-inapp =
 ## selected label element based on the string from
 ## the selected menu item.
 
+applications-use-plugin-in-label =
+    .value = { applications-use-plugin-in.label }
 applications-action-save-label =
     .value = { applications-action-save.label }
+applications-use-app-label =
+    .value = { applications-use-app.label }
 applications-open-inapp-label =
     .value = { applications-open-inapp.label }
+applications-always-ask-label =
+    .value = { applications-always-ask.label }
+applications-use-app-default-label =
+    .value = { applications-use-app-default.label }
+applications-use-other-label =
+    .value = { applications-use-other.label }
+applications-use-os-default-label =
+    .value = { applications-use-os-default.label }
 
 ##
 
 play-drm-content-learn-more = Маълумоти бештар
+update-application-title = Навсозиҳои { -brand-short-name }
+update-application-version = Версияи { $version } <a data-l10n-name="learn-more">Чӣ нав аст</a>
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Идома додан

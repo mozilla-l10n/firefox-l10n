@@ -10,6 +10,9 @@ cert-error-mitm-mozilla = { -brand-short-name } аз ҷониби созмони
 cert-error-mitm-connection = Барои тасдиқи бехатарии пайвастшавӣ, { -brand-short-name } ба ҷойи истифодаи гувоҳиномаҳое, ки аз тарафи низоми амалкунандаи компютерии корбар пешниҳод карда мешаванд, аз гувоҳиномаҳои анбори мақомоти иҷозатномадиҳандаи Mozilla истифода мебарад. Бинобар ин, агар ягон барномаи антивирус ё шабака бо истифодаи гувоҳиномаи амниятие, ки аз тарафи мақомоти иҷозатномадиҳанда бароварда шудааст, аммо ба анбори мақомоти иҷозатномадиҳандаи Mozilla мувофиқат намекунад, пайвастро қатъ кунад, ҷунин пайваст ҳамчун пайвасти беэътимод ҳисоб карда мешавад.
 cert-error-trust-unknown-issuer-intro = Касе кӯшиш карда, метавонад сомонаи ҳақиқиро сохтакорӣ намояд ва шумо бояд идома надиҳед.
 # Variables:
+# $hostname (String) - Hostname of the website with cert error.
+cert-error-trust-unknown-issuer = Сомонаҳо айнияти худро тавассути гувоҳиномаҳо исбот мекунанд. { -brand-short-name } ба { $hostname } эътимод надорад, зеро ки барорандаи гувоҳинома номаълум аст, гувоҳинома ба таври худ имзо кардааст ё сервер гувоҳиномаҳои ёридиҳандаи дурустро намефиристонад.
+# Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Рамзи хато: <a data-l10n-name="error-code-link">{ $error }</a>
 cert-error-details-cert-chain-label = Занҷири гувоҳинома:
