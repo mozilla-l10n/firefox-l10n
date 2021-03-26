@@ -4,7 +4,7 @@
 
 migration-wizard =
     .title = Чаробњак за увоз
-import-from = Увези подешавања, обележиваче, историју, лозинке и друге податке из:
+import-from = Увези подешавања, обележиваче, историју, лозинке и остало из:
 import-from-bookmarks = Увези забелешке из:
 import-from-ie =
     .label = Microsoft Internet Explorer

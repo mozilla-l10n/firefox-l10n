@@ -5,8 +5,8 @@
 
 <!ENTITY migrationWizard.title          "Чаробњак за увоз">
 
-<!ENTITY importFrom.label               "Увези подешавања, обележиваче, историју, лозинке и друге податке из:">
-<!ENTITY importFromUnix.label           "Увези подешавања, обележиваче, историју, лозинке и друге податке из:">
+<!ENTITY importFrom.label               "Увези подешавања, обележиваче, историју, лозинке и остало из:">
+<!ENTITY importFromUnix.label           "Увези подешавања, обележиваче, историју, лозинке и остало из:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">
