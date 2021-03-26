@@ -640,6 +640,12 @@ library-bookmarks-menu =
 library-recent-activity-title =
     .value = Tembiapo ramovegua
 
+## Pocket toolbar button
+
+save-to-pocket-button =
+    .label = Eñongatu { -pocket-brand-name }-pe
+    .tooltiptext = Eñongatu { -pocket-brand-name }-pe
+
 ## More items
 
 more-menu-go-offline =
@@ -665,3 +671,6 @@ panel-save-update-password = Ñe’ẽñemi
 #  $name (String): The name of the addon that will be removed.
 addon-removal-title = ¿Emboguete { $name }?
 addon-removal-abuse-report-checkbox = Emomarandu ko jepysokue rehegua { -vendor-short-name }-pe
+
+## Remote / Synced tabs
+
