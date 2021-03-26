@@ -275,6 +275,11 @@ browser-window-close-button =
 ## Tab actions
 
 
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+
 ## Bookmarks toolbar items
 
 
@@ -353,8 +358,6 @@ pointerlock-warning-no-domain = Ovaj dokument ima kontrolu nad vašim pointerom.
 
 bookmarks-show-all-bookmarks =
     .label = Prikaži sve zabilješke
-bookmarks-recent-bookmarks =
-    .value = Nedavno zabilježeno
 bookmarks-toolbar-chevron =
     .tooltiptext = Prikaži više zabilješki
 bookmarks-sidebar-content =
@@ -369,12 +372,6 @@ bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
             [true] Sakrij bočnu traku sa zabilješkama
-           *[other] Prikaži traku sa zabilješkama
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] Sakrij traku sa zabilješkama
            *[other] Prikaži traku sa zabilješkama
         }
 bookmarks-tools-toolbar-visibility-menuitem =
@@ -413,10 +410,9 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-menu =
     .label = Zabilješke
-library-bookmarks-bookmark-this-page =
-    .label = Zabilježi ovu stranicu
-library-bookmarks-bookmark-edit =
-    .label = Uredi ovu Zabilješku
+
+## Pocket toolbar button
+
 
 ## More items
 
@@ -427,3 +423,12 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Neki audio ili video sadržaji na ovoj stranici koriste DRM softver, što može ograničiti šta { -brand-short-name } može uraditi s njima.
+
+## Password save/update panel
+
+
+## Add-on removal warning
+
+
+## Remote / Synced tabs
+
