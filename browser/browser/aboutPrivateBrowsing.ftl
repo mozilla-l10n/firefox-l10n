@@ -9,6 +9,16 @@ about-private-browsing-info-title = Jste v anonymním okně
 about-private-browsing-info-myths = Časté omyly o fungování anonymního prohlížení
 about-private-browsing =
     .title = Vyhledat na webu
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff =
+    .title = Zadejte webovou adresu nebo dotaz pro vyhledávač { $engine }
+about-private-browsing-handoff-no-engine =
+    .title = Zadejte webovou adresu nebo dotaz pro vyhledávač
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff-text = Zadejte webovou adresu nebo dotaz pro vyhledávač { $engine }
+about-private-browsing-handoff-text-no-engine = Zadejte webovou adresu nebo dotaz pro vyhledávač
 about-private-browsing-not-private = Nyní nejste v anonymním okně.
 about-private-browsing-info-description =
     { -brand-short-name } vymaže vaši historii vyhledávání a navštívených stránek po ukončení aplikace nebo zavření všech anonymních panelů a oken.
