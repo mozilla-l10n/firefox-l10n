@@ -25,6 +25,10 @@ main-context-menu-back-2 =
     .tooltiptext = Přejde na předchozí stránku ({ $shortcut })
     .aria-label = Zpět
     .accesskey = Z
+# This menuitem is only visible on macOS
+main-context-menu-back-mac =
+    .label = Zpět
+    .accesskey = Z
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -46,6 +50,10 @@ main-context-menu-forward-2 =
     .tooltiptext = Přejde na následující stránku ({ $shortcut })
     .aria-label = Vpřed
     .accesskey = V
+# This menuitem is only visible on macOS
+main-context-menu-forward-mac =
+    .label = Vpřed
+    .accesskey = V
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
@@ -56,6 +64,10 @@ toolbar-button-forward-2 =
 main-context-menu-reload =
     .aria-label = Znovu načíst
     .accesskey = o
+# This menuitem is only visible on macOS
+main-context-menu-reload-mac =
+    .label = Znovu načíst
+    .accesskey = o
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
@@ -63,6 +75,10 @@ toolbar-button-reload =
 
 main-context-menu-stop =
     .aria-label = Zastavit
+    .accesskey = s
+# This menuitem is only visible on macOS
+main-context-menu-stop-mac =
+    .label = Zastavit
     .accesskey = s
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
