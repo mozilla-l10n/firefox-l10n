@@ -46,6 +46,10 @@ main-context-menu-forward-2 =
     .tooltiptext = Tiến đến một trang ({ $shortcut })
     .aria-label = Tiếc tục
     .accesskey = F
+# This menuitem is only visible on macOS
+main-context-menu-forward-mac =
+    .label = Tiếc tục
+    .accesskey = F
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
@@ -56,6 +60,10 @@ toolbar-button-forward-2 =
 main-context-menu-reload =
     .aria-label = Tải lại
     .accesskey = R
+# This menuitem is only visible on macOS
+main-context-menu-reload-mac =
+    .label = Tải lại
+    .accesskey = R
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
@@ -63,6 +71,10 @@ toolbar-button-reload =
 
 main-context-menu-stop =
     .aria-label = Dừng
+    .accesskey = S
+# This menuitem is only visible on macOS
+main-context-menu-stop-mac =
+    .label = Dừng
     .accesskey = S
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
