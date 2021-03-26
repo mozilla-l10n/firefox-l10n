@@ -676,3 +676,4 @@ addon-removal-abuse-report-checkbox = Поскаржитись на це роз�
 
 ## Remote / Synced tabs
 
+remote-tabs-sync-now = Синхронізувати
