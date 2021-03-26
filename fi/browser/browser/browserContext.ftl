@@ -25,6 +25,10 @@ main-context-menu-back-2 =
     .tooltiptext = Siirry sivu taaksepäin ({ $shortcut })
     .aria-label = Edellinen
     .accesskey = E
+# This menuitem is only visible on macOS
+main-context-menu-back-mac =
+    .label = Edellinen
+    .accesskey = E
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -46,6 +50,10 @@ main-context-menu-forward-2 =
     .tooltiptext = Siirry sivu eteenpäin ({ $shortcut })
     .aria-label = Seuraava
     .accesskey = e
+# This menuitem is only visible on macOS
+main-context-menu-forward-mac =
+    .label = Seuraava
+    .accesskey = e
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
@@ -56,6 +64,10 @@ toolbar-button-forward-2 =
 main-context-menu-reload =
     .aria-label = Päivitä
     .accesskey = P
+# This menuitem is only visible on macOS
+main-context-menu-reload-mac =
+    .label = Päivitä
+    .accesskey = P
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
@@ -63,6 +75,10 @@ toolbar-button-reload =
 
 main-context-menu-stop =
     .aria-label = Pysäytä
+    .accesskey = P
+# This menuitem is only visible on macOS
+main-context-menu-stop-mac =
+    .label = Pysäytä
     .accesskey = P
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
