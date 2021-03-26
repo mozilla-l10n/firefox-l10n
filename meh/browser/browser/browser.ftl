@@ -288,6 +288,8 @@ identity-passive-loaded = Sava página ya´a ntu iyo vatu (kua da tutu nátava).
 identity-active-loaded = Nnakasɨnɨ a kumi noo´o nuu página ya´a.
 identity-weak-encryption = Nuu ya´a ni´i encriptación ntu nakui.
 identity-insecure-login-forms = Da nuu kajie´e sesión nuu página ya´a sana kuvi sá´á xeen.
+identity-permissions =
+    .value = Permisos
 identity-https-only-connection-upgraded = (actualizado a HTTPS)
 identity-https-only-label = Ntu xini HTTPS
 identity-https-only-dropdown-on =
@@ -296,8 +298,6 @@ identity-https-only-dropdown-off =
     .label = Xina´va
 identity-https-only-info-turn-off2 = De ntu íyo tiñu, sana kuvinu xitanu HTTPS je nachu'unu tuku je ni'inu iin conexión HTTP ntu vatu.
 identity-https-only-info-no-upgrade = Nkuvi sa actualizar conexión ji HTTP.
-identity-permissions =
-    .value = Permisos
 identity-permissions-storage-access-header = Cookies ji da sitios
 identity-permissions-reload-hint = Sana nejika nakivɨ tuku página saa kuvi sama nke´inu
 identity-permissions-empty = Ntu kuminu ni´i permiso nuu web ya´a
@@ -344,9 +344,13 @@ browser-window-close-button =
 
 ## Tab actions
 
-browser-tab-audio-muted = Sá'á nii
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = PICTURE-IN-PICTURE
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
 
 ## Bookmarks toolbar items
 
@@ -519,8 +523,6 @@ crashed-subframe-submit =
 
 bookmarks-show-all-bookmarks =
     .label = Xituvi kuaiyo a ta´a ini noo´o
-bookmarks-recent-bookmarks =
-    .value = A ta´a ini noo´o skuata ntee
 bookmarks-toolbar-chevron =
     .tooltiptext = Xituvi kuaiyo a ta´a ini noo´o
 bookmarks-sidebar-content =
@@ -536,12 +538,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] Chiyu'u barra kuá´á marcadores
            *[other] Síne barra kuá´á marcadores
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] Chiyu'u barra a ta´a ini noo´o
-           *[other] Kune'ya barra a ta´a ini noo´o
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -579,15 +575,29 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-menu =
     .label = A ta´a ini noo´o
-library-bookmarks-bookmark-this-page =
-    .label = Tee página ya´a nuu a ta´an ini noo´o
-library-bookmarks-bookmark-edit =
-    .label = Sama a ta´an ini noo´o ya´a
 library-recent-activity-title =
     .value = Da a skuata nsá´á
+
+## Pocket toolbar button
+
+save-to-pocket-button =
+    .label = Chuva´a nuu { -pocket-brand-name }
+    .tooltiptext = Chuva´a nuu { -pocket-brand-name }
 
 ## More items
 
 more-menu-go-offline =
     .label = Satiñu nko conexión
     .accesskey = S
+
+## EME notification panel
+
+
+## Password save/update panel
+
+
+## Add-on removal warning
+
+
+## Remote / Synced tabs
+
