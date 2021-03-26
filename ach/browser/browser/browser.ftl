@@ -466,6 +466,9 @@ library-bookmarks-menu =
 
 ## Pocket toolbar button
 
+save-to-pocket-button =
+    .label = Gwok i { -pocket-brand-name }
+    .tooltiptext = Gwok i { -pocket-brand-name }
 
 ## More items
 
