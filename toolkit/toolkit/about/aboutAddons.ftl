@@ -34,6 +34,9 @@ sidebar-preferences-button-title =
             [windows] { -brand-short-name } 选项
            *[other] { -brand-short-name } 首选项
         }
+addons-settings-button = { -brand-short-name } 设置
+sidebar-settings-button-title =
+    .title = { -brand-short-name } 设置
 show-unsigned-extensions-button =
     .label = 一些扩展未通过验证
 show-all-extensions-button =
@@ -370,9 +373,6 @@ addon-detail-private-browsing-disallow = 不允许
 addon-badge-recommended2 =
     .title = { -brand-product-name } 只推荐符合我们的安全和性能标准的扩展。
     .aria-label = { addon-badge-recommended2.title }
-addon-badge-line2 =
-    .title = 这是由 { -brand-product-name } 开发商构建的官方扩展
-    .aria-label = { addon-badge-line2.title }
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
