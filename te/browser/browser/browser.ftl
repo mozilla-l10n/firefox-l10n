@@ -523,6 +523,12 @@ library-bookmarks-menu =
 library-recent-activity-title =
     .value = ఇటీవలి కార్యకలాపం
 
+## Pocket toolbar button
+
+save-to-pocket-button =
+    .label = { -pocket-brand-name }‌కి భద్రపరుచు
+    .tooltiptext = { -pocket-brand-name }‌కి భద్రపరుచు
+
 ## More items
 
 more-menu-go-offline =
@@ -546,3 +552,6 @@ panel-save-update-password = సంకేతపదం
 # Variables:
 #  $name (String): The name of the addon that will be removed.
 addon-removal-title = { $name }‌ను తీసివేయారా?
+
+## Remote / Synced tabs
+
