@@ -25,6 +25,10 @@ main-context-menu-back-2 =
     .tooltiptext = Алдыңғы бетке қайту ({ $shortcut })
     .aria-label = Артқа
     .accesskey = а
+# This menuitem is only visible on macOS
+main-context-menu-back-mac =
+    .label = Артқа
+    .accesskey = а
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -46,6 +50,10 @@ main-context-menu-forward-2 =
     .tooltiptext = Келесі бетке өту ({ $shortcut })
     .aria-label = Алға
     .accesskey = л
+# This menuitem is only visible on macOS
+main-context-menu-forward-mac =
+    .label = Алға
+    .accesskey = л
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
@@ -56,6 +64,10 @@ toolbar-button-forward-2 =
 main-context-menu-reload =
     .aria-label = Жаңарту
     .accesskey = й
+# This menuitem is only visible on macOS
+main-context-menu-reload-mac =
+    .label = Жаңарту
+    .accesskey = й
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
@@ -63,6 +75,10 @@ toolbar-button-reload =
 
 main-context-menu-stop =
     .aria-label = Тоқтату
+    .accesskey = т
+# This menuitem is only visible on macOS
+main-context-menu-stop-mac =
+    .label = Тоқтату
     .accesskey = т
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
