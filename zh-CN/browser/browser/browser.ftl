@@ -663,3 +663,6 @@ addon-removal-abuse-report-checkbox = 向 { -vendor-short-name } 举报此扩展
 
 ## Remote / Synced tabs
 
+remote-tabs-manage-account =
+    .label = 管理账户
+remote-tabs-sync-now = 立即同步
