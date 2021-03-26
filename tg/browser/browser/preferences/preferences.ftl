@@ -275,6 +275,7 @@ sync-remove-account =
 ## The list of things currently syncing.
 
 sync-currently-syncing-bookmarks = Хатбаракҳо
+sync-currently-syncing-history = Таърих
 sync-currently-syncing-tabs = Варақаҳои кушодашуда
 sync-currently-syncing-prefs =
     { PLATFORM() ->
@@ -297,6 +298,9 @@ sync-choose-what-to-sync-dialog =
 sync-engine-bookmarks =
     .label = Хатбаракҳо
     .accesskey = Х
+sync-engine-history =
+    .label = Таърих
+    .accesskey = Т
 sync-engine-tabs =
     .label = Варақаҳои кушодашуда
     .tooltiptext = Рӯйхати маводи кушодашуда дар ҳамаи дастгоҳҳои ҳамоҳангшуда
@@ -347,6 +351,17 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
 
+history-header = Таърих
+history-remember-option-all =
+    .label = Таърих дар хотир дошта шавад
+history-remember-option-never =
+    .label = Таърих ҳеҷ гоҳ дар хотир дошта нашавад
+history-clear-on-close-settings =
+    .label = Танзимот…
+    .accesskey = Т
+history-clear-button =
+    .label = Пок кардани таърих…
+    .accesskey = П
 
 ## Privacy Section - Site Data
 
@@ -354,6 +369,9 @@ sitedata-learn-more = Маълумоти бештар
 
 ## Privacy Section - Address Bar
 
+addressbar-locbar-history-option =
+    .label = Таърихи тамошо
+    .accesskey = Т
 addressbar-locbar-bookmarks-option =
     .label = Хатбаракҳо
     .accesskey = Х

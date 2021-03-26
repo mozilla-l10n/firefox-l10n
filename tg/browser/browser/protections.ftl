@@ -8,6 +8,8 @@ protections-close-button2 =
     .title = Пӯшидан
 protection-report-save-passwords-button = Нигоҳ доштани ниҳонвожаҳо
     .title = Нигоҳ доштани ниҳонвожаҳо дар { -lockwise-brand-short-name }
+monitor-view-report-link = Дидани гузориш
+    .title = Ислоҳ кардани вайроншавӣ дар { -monitor-brand-short-name }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.

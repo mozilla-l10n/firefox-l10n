@@ -9,6 +9,7 @@
 <!ENTITY retry.label "Аз нав кӯшиш кардан">
 <!ENTITY returnToPreviousPage.label "Бозгашт">
 <!ENTITY returnToPreviousPage1.label "Бозгашт (тавсия дода мешавад)">
+<!ENTITY viewCertificate.label "Дидани гувоҳинома">
 
 <!-- Specific error messages -->
 

@@ -98,6 +98,7 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY appMenuHistory.showAll.label "Намоиш додани таърихи пурра">
 
+<!ENTITY appMenuHistory.viewSidebar.label "Намоиш додани навори ҷонибии таърих">
 
 <!ENTITY appMenuRemoteTabs.label "Варақаҳои ҳамоҳангшуда">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath

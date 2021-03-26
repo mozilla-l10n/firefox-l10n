@@ -33,8 +33,23 @@ protections-panel-not-blocking-label = Иҷозат дода мешавад
 ## In the Site Not Working? view, we suggest turning off protections if
 ## the user is experiencing issues with any of a variety of functionality.
 
+protections-panel-site-not-working-view-issue-list-forms = Шаклҳо
+protections-panel-site-not-working-view-issue-list-payments = Прадохтҳо
+protections-panel-site-not-working-view-issue-list-comments = Шарҳҳо
+protections-panel-site-not-working-view-issue-list-videos = Видеоҳо
+protections-panel-site-not-working-view-send-report = Фиристодани гузориш
 
 ##
 
+protections-panel-content-blocking-breakage-report-view =
+    .title = Гузориш дар бораи сомонаи вайроншуда
+protections-panel-content-blocking-breakage-report-view-collection-url = Нишонии URL
+protections-panel-content-blocking-breakage-report-view-collection-url-label =
+    .aria-label = Нишонии URL
+protections-panel-content-blocking-breakage-report-view-collection-comments = Ихтиёрӣ: Масъаларо шарҳ диҳед
+protections-panel-content-blocking-breakage-report-view-collection-comments-label =
+    .aria-label = Ихтиёрӣ: Масъаларо шарҳ диҳед
 protections-panel-content-blocking-breakage-report-view-cancel =
     .label = Бекор кардан
+protections-panel-content-blocking-breakage-report-view-send-report =
+    .label = Фиристодани гузориш
