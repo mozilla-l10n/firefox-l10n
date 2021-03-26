@@ -25,6 +25,10 @@ main-context-menu-back-2 =
     .tooltiptext = Mundur satu laman ({ $shortcut })
     .aria-label = Mundur
     .accesskey = K
+# This menuitem is only visible on macOS
+main-context-menu-back-mac =
+    .label = Mundur
+    .accesskey = K
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
