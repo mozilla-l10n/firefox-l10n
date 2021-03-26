@@ -288,6 +288,8 @@ identity-passive-loaded = Այս էջի մասերը անվտանգ չէն (օր
 identity-active-loaded = Դուք անջատել եք պաշտպանութիւնը այս էջում:
 identity-weak-encryption = Այս էջն աւգտագործում է թոյղ գաղտնագրում:
 identity-insecure-login-forms = Այս էջից մուտքագրումները կարող են վտանգուած լինել:
+identity-permissions =
+    .value = Թոյղտուութիւններ
 identity-https-only-connection-upgraded = (Նորացրած HTTPS -ը)
 identity-https-only-label = «Միայն HTTPS» աշխատակերպ
 identity-https-only-dropdown-on =
@@ -299,8 +301,6 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Միացնել HTTPS-Only կերպն այս կայքի համար, եթե ուզում էք, որպէսզի { -brand-short-name }֊ը հնարաւորութեան դէպքում կապը թարմացուի։
 identity-https-only-info-turn-off2 = Եթե էջը թուում է կոտրուած, կարող էք անջատել «Միայն HTTPS» աշխատակերպը, որպէսզի այս կայքը վերբեռնուի՝ աւգտագործելով անապահով HTTP:
 identity-https-only-info-no-upgrade = Հնարաւոր չէ նորացնել կապը HTTP -ում:
-identity-permissions =
-    .value = Թոյղտուութիւններ
 identity-permissions-storage-access-header = Միջկայքային նշոցիկներ
 identity-permissions-storage-access-hint = Հետեւեալ կողմերը կարող են օգտագործել միջկայքային նշոցիկներ եւ կայքային տուեալներ, մինչ դուք կայքում էք։
 identity-permissions-reload-hint = Ձեզ անհրաժեշտ կլինի թարմացնել էջը, որպէսզի կիրառուեն փոփոխութիւններ։
@@ -348,8 +348,6 @@ browser-window-close-button =
 
 ## Tab actions
 
-browser-tab-audio-playing = Նուագարկում
-browser-tab-audio-muted = Լռեցուած
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-playing2 = Նուագարկուում է
 # This label should be written in all capital letters if your locale supports them.
@@ -358,6 +356,11 @@ browser-tab-audio-muted2 = ԼՌԵՑՈՒԱԾ
 browser-tab-audio-blocked = Ինքնանուագարկումն արգելափակուած է
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = ՆԿԱՐ֊ՆԿԱՐՈՒՄ
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
 
 ## Bookmarks toolbar items
 
@@ -531,8 +534,6 @@ crashed-subframe-submit =
 
 bookmarks-show-all-bookmarks =
     .label = Ցուցադրել բոլոր էջանիշները
-bookmarks-recent-bookmarks =
-    .value = Վերջերս էջանշուած
 bookmarks-manage-bookmarks =
     .label = Կառավարէք էջանիշներ
 bookmarks-recent-bookmarks-panel =
@@ -553,12 +554,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] Թաքցնել էջանիշների կողագաւտին
            *[other] Դիտել էջանիշների կողագաւտին
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] Թաքցնել էջանիշների գործեգաւտին
-           *[other] Դիտել էջանիշների գործեգաւտին
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -605,12 +600,14 @@ bookmarks-current-tab =
 
 library-bookmarks-menu =
     .label = Էջանիշներ
-library-bookmarks-bookmark-this-page =
-    .label = Էջանշել այս էջը
-library-bookmarks-bookmark-edit =
-    .label = Խմբագրել այս էջանիշը
 library-recent-activity-title =
     .value = Վերջին գործողութիւնը
+
+## Pocket toolbar button
+
+save-to-pocket-button =
+    .label = Պահպանել { -pocket-brand-name }-ում
+    .tooltiptext = Պահպանել { -pocket-brand-name }-ում
 
 ## More items
 
@@ -626,4 +623,7 @@ eme-notifications-drm-content-playing = Այս կայքում որոշ ձայն�
 
 
 ## Add-on removal warning
+
+
+## Remote / Synced tabs
 
