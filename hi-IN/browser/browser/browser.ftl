@@ -499,6 +499,9 @@ library-bookmarks-menu =
 
 ## Pocket toolbar button
 
+save-to-pocket-button =
+    .label = { -pocket-brand-name } में सहेजें
+    .tooltiptext = { -pocket-brand-name } में सहेजें
 
 ## More items
 
