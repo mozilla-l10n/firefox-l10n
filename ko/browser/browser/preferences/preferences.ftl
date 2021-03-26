@@ -28,6 +28,18 @@ search-input-box =
             [windows] 설정에서 찾기
            *[other] 설정에서 찾기
         }
+settings-page-title = 설정
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box2 =
+    .style = width: 15.4em
+    .placeholder = 설정에서 찾기
 managed-notice = 조직에서 브라우저를 관리하고 있습니다.
 category-list =
     .aria-label = 카테고리
@@ -676,6 +688,7 @@ sync-currently-syncing-prefs =
         [windows] 설정
        *[other] 설정
     }
+sync-currently-syncing-settings = 설정
 sync-change-options =
     .label = 변경…
     .accesskey = C
