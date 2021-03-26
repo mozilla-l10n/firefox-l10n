@@ -276,6 +276,9 @@ menu-tools-fxa-sign-in =
            *[other] aplikaci { -brand-product-name }
         }…
     .accesskey = p
+menu-tools-addons-and-themes =
+    .label = Doplňky a vzhledy
+    .accesskey = a
 menu-tools-fxa-sign-in2 =
     .label = Přihlásit se
     .accesskey = P
@@ -297,6 +300,9 @@ menu-tools-fxa-re-auth =
 menu-tools-web-developer =
     .label = Nástroje pro vývojáře
     .accesskey = v
+menu-tools-browser-tools =
+    .label = Nástroje prohlížeče
+    .accesskey = j
 menu-tools-task-manager =
     .label = Správce úloh
     .accesskey = h

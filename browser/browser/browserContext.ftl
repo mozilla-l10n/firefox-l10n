@@ -102,6 +102,18 @@ main-context-menu-bookmark-add =
     .aria-label = Přidat stránku do záložek
     .accesskey = P
     .tooltiptext = Přidá tuto stránku do záložek
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-add-mac =
+    .label = Přidat stránku do záložek
+    .accesskey = P
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-edit-mac =
+    .label = Upravit záložku
+    .accesskey = p
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-add-with-shortcut =
@@ -260,6 +272,12 @@ main-context-menu-image-view =
 main-context-menu-video-view =
     .label = Zobrazit video
     .accesskey = Z
+main-context-menu-image-view-new-tab =
+    .label = Otevřít obrázek v novém panelu
+    .accesskey = e
+main-context-menu-video-view-new-tab =
+    .label = Otevřít video v novém panelu
+    .accesskey = e
 main-context-menu-image-copy =
     .label = Kopírovat obrázek
     .accesskey = r
@@ -308,6 +326,9 @@ main-context-menu-audio-save-as =
 main-context-menu-video-image-save-as =
     .label = Uložit snímek jako…
     .accesskey = U
+main-context-menu-video-take-snapshot =
+    .label = Pořídit snímek…
+    .accesskey = s
 main-context-menu-video-email =
     .label = Poslat video e-mailem…
     .accesskey = a
@@ -394,6 +415,9 @@ main-context-menu-print-selection =
 main-context-menu-view-selection-source =
     .label = Zobrazit zdrojový kód výběru
     .accesskey = j
+main-context-menu-take-screenshot =
+    .label = Pořídit snímek
+    .accesskey = s
 main-context-menu-view-page-source =
     .label = Zobrazit zdrojový kód stránky
     .accesskey = r
