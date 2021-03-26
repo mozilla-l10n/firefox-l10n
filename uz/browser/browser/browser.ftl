@@ -318,6 +318,11 @@ browser-window-close-button =
 ## Tab actions
 
 
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+
 ## Bookmarks toolbar items
 
 
@@ -426,8 +431,6 @@ pointerlock-warning-no-domain = Bu hujat ko‘rsatkichingiz ustidan nazorat o‘
 
 bookmarks-show-all-bookmarks =
     .label = Barcha xatcho‘plarni ko‘rsatish
-bookmarks-recent-bookmarks =
-    .value = Soʻnggi xatchoʻpga qoʻshilgan saytlar
 bookmarks-toolbar-chevron =
     .tooltiptext = Ko‘proq xatcho‘plarni ko‘rsatish
 bookmarks-sidebar-content =
@@ -443,12 +446,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] Xatcho‘plar yon panelini berkitish
            *[other] Xatcho‘plarni yon panelda ko‘rsatish
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] Xatcho‘plar panelini berkitish
-           *[other] Xatcho‘plar panelini ko‘rsatish
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -486,10 +483,12 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-menu =
     .label = Xatcho‘plar
-library-bookmarks-bookmark-this-page =
-    .label = Sahifani xatcho‘plarga qo‘shish
-library-bookmarks-bookmark-edit =
-    .label = Ushbu xatcho‘pni o‘zgartirish
+
+## Pocket toolbar button
+
+save-to-pocket-button =
+    .label = { -pocket-brand-name } xizmatiga saqlash
+    .tooltiptext = { -pocket-brand-name } xizmatiga saqlash
 
 ## More items
 
@@ -500,3 +499,12 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Ushbu saytdagi bir nechta audio yoki video DRM dasturiy ta’minotidan foydalanadi. Ushbu dasturiy ta’minot { -brand-short-name } imkoniyatlarini cheklashi mumkin.
+
+## Password save/update panel
+
+
+## Add-on removal warning
+
+
+## Remote / Synced tabs
+
