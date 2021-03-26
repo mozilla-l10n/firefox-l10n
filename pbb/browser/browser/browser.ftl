@@ -177,6 +177,11 @@ browser-window-close-button =
 ## Tab actions
 
 
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+
 ## Bookmarks toolbar items
 
 
@@ -255,13 +260,24 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
-library-bookmarks-bookmark-this-page =
-    .label = Kãjãhn na's txhuden ki'phwa'ja's.
-library-bookmarks-bookmark-edit =
-    .label = Ki'phni kase'k
+
+## Pocket toolbar button
+
 
 ## More items
 
 more-menu-go-offline =
     .label = Mjinxi' çxkitxanxime' & ũ'sa
     .accesskey = k
+
+## EME notification panel
+
+
+## Password save/update panel
+
+
+## Add-on removal warning
+
+
+## Remote / Synced tabs
+
