@@ -108,11 +108,7 @@ extension-controlled-enable = Како бисте омогућили ексте�
 
 search-results-header = Резултати претраге
 # `<span data-l10n-name="query"></span>` will be replaced by the search term.
-search-results-empty-message =
-    { PLATFORM() ->
-        [windows] У подешавањима нема резултата за „<span data-l10n-name="query"></span>”.
-       *[other] У подешавањима нема резултата за „<span data-l10n-name="query"></span>”.
-    }
+search-results-empty-message = У подешавањима нема резултата за „<span data-l10n-name="query"></span>”.
 search-results-help-link = Потребна вам је помоћ? Посетите <a data-l10n-name="url">{ -brand-short-name } подршка</a>
 
 ## General Section

@@ -12,7 +12,7 @@ about-private-browsing =
 about-private-browsing-not-private = Тренутно нисте у приватном прозору.
 about-private-browsing-info-description = { -brand-short-name } чисти вашу историју претраживања и прегледања када затворите програм или када затворите све приватне језичке и прозоре. Иако вас ово не чини анонимним вашем интернет провајдеру или на веб сајтовима, ово вам олакшава да сакријете ваше радње на вебу од других корисника овог рачунара.
 about-private-browsing-need-more-privacy = Треба вам више приватности?
-about-private-browsing-turn-on-vpn = Испробајте { -mozilla-vpn-brand-name(case: "acc") }
+about-private-browsing-turn-on-vpn = Испробајте { -mozilla-vpn-brand-name }
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
