@@ -25,6 +25,10 @@ main-context-menu-back-2 =
     .tooltiptext = मोनसे पेस उनफिन ({ $shortcut })
     .aria-label = उनथिं
     .accesskey = B
+# This menuitem is only visible on macOS
+main-context-menu-back-mac =
+    .label = उनथिं
+    .accesskey = B
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -46,6 +50,10 @@ main-context-menu-forward-2 =
     .tooltiptext = मोनसे पेज बारहो ({ $shortcut })
     .aria-label = दावगा हो
     .accesskey = F
+# This menuitem is only visible on macOS
+main-context-menu-forward-mac =
+    .label = दावगा हो
+    .accesskey = F
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
@@ -56,6 +64,10 @@ toolbar-button-forward-2 =
 main-context-menu-reload =
     .aria-label = फिन ल'ड खालाम
     .accesskey = R
+# This menuitem is only visible on macOS
+main-context-menu-reload-mac =
+    .label = फिन ल'ड खालाम
+    .accesskey = R
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
@@ -63,6 +75,10 @@ toolbar-button-reload =
 
 main-context-menu-stop =
     .aria-label = बन्द खालाम
+    .accesskey = S
+# This menuitem is only visible on macOS
+main-context-menu-stop-mac =
+    .label = बन्द खालाम
     .accesskey = S
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
@@ -125,6 +141,11 @@ main-context-menu-save-link =
     .accesskey = k
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+
+## The access keys for "Copy Link" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
@@ -238,6 +259,14 @@ main-context-menu-plugin-hide =
 main-context-menu-view-background-image =
     .label = सावगारिनि उनथिं थानाय मुसुखाखौ नाय
     .accesskey = w
+
+## The access keys for "Use Saved Login" and "Use Saved Password"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+
+##
+
 main-context-menu-keyword =
     .label = बे नागिरनायनि थाखाय मोनसे गाहाय सोदोबखौ दाजाबदेर...
     .accesskey = K
