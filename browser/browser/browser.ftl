@@ -441,6 +441,9 @@ library-bookmarks-menu =
 
 ## Pocket toolbar button
 
+save-to-pocket-button =
+    .label = { -pocket-brand-name }-ə Saxla
+    .tooltiptext = { -pocket-brand-name }-ə Saxla
 
 ## More items
 
