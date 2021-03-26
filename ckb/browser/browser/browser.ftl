@@ -269,13 +269,13 @@ identity-passive-loaded = بەشێک لەم پەڕەیە پارێزراو نیە
 identity-active-loaded = تۆ پارێزگاریت ناچالاک کرد بۆ ئەم پەڕەیە.
 identity-weak-encryption = ئەم پەڕە شێوازی پارێزگاری لاواز بەکاردێنێت.
 identity-insecure-login-forms = چوونەژوورەوەکان لە م پەڕەیە لەوانەیە دزەبکات.
+identity-permissions =
+    .value = ڕێگەپێدانەکان
 identity-https-only-connection-upgraded = (بەرزکرایەوە بۆ https)
 identity-https-only-dropdown-on =
     .label = کارا
 identity-https-only-dropdown-off =
     .label = ناکارا
-identity-permissions =
-    .value = ڕێگەپێدانەکان
 identity-permissions-reload-hint = لەوانیە پێویست بێت پەڕەکە نوێبکەیتەوە بۆ جێبەجێکردنی گۆڕانکارییەکان.
 identity-permissions-empty = هیچ دەسەڵاتێکی تایبەتت نەداوە بەم پەڕەیە.
 identity-clear-site-data =
@@ -309,6 +309,11 @@ browser-window-close-button =
     .tooltiptext = داخستن
 
 ## Tab actions
+
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
 
 
 ## Bookmarks toolbar items
@@ -453,8 +458,6 @@ pointerlock-warning-no-domain = ئەم بەڵگەنامەیە جڵەوگیری �
 
 bookmarks-show-all-bookmarks =
     .label = هەموو دڵخوازەکان پیشان بدە
-bookmarks-recent-bookmarks =
-    .value = دووا دڵخوازکراو
 bookmarks-toolbar-chevron =
     .tooltiptext = دڵخوازی زیاتر پیشان بدە
 bookmarks-sidebar-content =
@@ -470,12 +473,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] لاتەنیشتی دڵخوازەکان بشارەوە
            *[other] لاتەنیشتی دڵخوازەکان ببینە
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] توڵامرازی دڵخوازەکان بشارەوە
-           *[other] توڵامرازی دڵخوازەکان ببینە
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -513,13 +510,27 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-menu =
     .label = دڵخوازەکان
-library-bookmarks-bookmark-this-page =
-    .label = ئەم پەرەیە دڵخواز بکە
-library-bookmarks-bookmark-edit =
-    .label = ئەم دڵخوازە دەستکاریبکە
+
+## Pocket toolbar button
+
+save-to-pocket-button =
+    .label = پاشەکەوتی بکە لە { -pocket-brand-name }
+    .tooltiptext = پاشەکەوتی بکە لە { -pocket-brand-name }
 
 ## More items
 
 more-menu-go-offline =
     .label = بەدەرهێڵ کاربکە
     .accesskey = ک
+
+## EME notification panel
+
+
+## Password save/update panel
+
+
+## Add-on removal warning
+
+
+## Remote / Synced tabs
+
