@@ -605,6 +605,12 @@ library-bookmarks-menu =
 library-recent-activity-title =
     .value = Недавна активност
 
+## Pocket toolbar button
+
+save-to-pocket-button =
+    .label = Сачувај у { -pocket-brand-name(case: "loc") }
+    .tooltiptext = Сачувај у { -pocket-brand-name(case: "loc") }
+
 ## More items
 
 more-menu-go-offline =
@@ -619,4 +625,7 @@ eme-notifications-drm-content-playing = Неки аудио или видео н
 
 
 ## Add-on removal warning
+
+
+## Remote / Synced tabs
 
