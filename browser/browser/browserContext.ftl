@@ -56,6 +56,10 @@ toolbar-button-forward-2 =
 main-context-menu-reload =
     .aria-label = Učitaj ponovo
     .accesskey = U
+# This menuitem is only visible on macOS
+main-context-menu-reload-mac =
+    .label = Učitaj ponovo
+    .accesskey = U
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
