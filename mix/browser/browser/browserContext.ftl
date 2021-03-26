@@ -35,6 +35,10 @@ toolbar-button-reload =
 main-context-menu-stop =
     .aria-label = Tsi kui'n
     .accesskey = S
+# This menuitem is only visible on macOS
+main-context-menu-stop-mac =
+    .label = Tsi kui'n
+    .accesskey = S
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -55,6 +59,11 @@ main-context-menu-open-link =
     .accesskey = O
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+
+## The access keys for "Copy Link" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
@@ -122,3 +131,11 @@ main-context-menu-image-copy =
 main-context-menu-image-info =
     .label = Kunchee tu'un tsa tutu ndatavana
     .accesskey = f
+
+## The access keys for "Use Saved Login" and "Use Saved Password"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+
+##
+
