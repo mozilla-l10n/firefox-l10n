@@ -637,6 +637,12 @@ library-bookmarks-menu =
 library-recent-activity-title =
     .value = ბოლო მოქმედებები
 
+## Pocket toolbar button
+
+save-to-pocket-button =
+    .label = { -pocket-brand-name }-ში შენახვა
+    .tooltiptext = { -pocket-brand-name }-ში შენახვა
+
 ## More items
 
 more-menu-go-offline =
@@ -662,3 +668,6 @@ panel-save-update-password = პაროლი
 #  $name (String): The name of the addon that will be removed.
 addon-removal-title = მოცილდეს { $name }?
 addon-removal-abuse-report-checkbox = გაფართოებაზე საჩივარი { -vendor-short-name }-სთვის
+
+## Remote / Synced tabs
+
