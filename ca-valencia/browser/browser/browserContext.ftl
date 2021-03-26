@@ -25,6 +25,10 @@ main-context-menu-back-2 =
     .tooltiptext = Vés una pàgina arrere ({ $shortcut })
     .aria-label = Arrere
     .accesskey = r
+# This menuitem is only visible on macOS
+main-context-menu-back-mac =
+    .label = Arrere
+    .accesskey = r
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -46,6 +50,10 @@ main-context-menu-forward-2 =
     .tooltiptext = Vés una pàgina avant ({ $shortcut })
     .aria-label = Avant
     .accesskey = t
+# This menuitem is only visible on macOS
+main-context-menu-forward-mac =
+    .label = Avant
+    .accesskey = t
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
@@ -56,6 +64,10 @@ toolbar-button-forward-2 =
 main-context-menu-reload =
     .aria-label = Actualitza
     .accesskey = z
+# This menuitem is only visible on macOS
+main-context-menu-reload-mac =
+    .label = Actualitza
+    .accesskey = z
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
@@ -63,6 +75,10 @@ toolbar-button-reload =
 
 main-context-menu-stop =
     .aria-label = Para
+    .accesskey = P
+# This menuitem is only visible on macOS
+main-context-menu-stop-mac =
+    .label = Para
     .accesskey = P
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
@@ -128,6 +144,11 @@ main-context-menu-save-link-to-pocket =
     .accesskey = o
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+
+## The access keys for "Copy Link" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
@@ -275,6 +296,14 @@ main-context-menu-view-background-image =
 main-context-menu-generate-new-password =
     .label = Utilitza una contrasenya generada…
     .accesskey = g
+
+## The access keys for "Use Saved Login" and "Use Saved Password"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+
+##
+
 main-context-menu-keyword =
     .label = Afig una paraula clau per a esta cerca…
     .accesskey = p
