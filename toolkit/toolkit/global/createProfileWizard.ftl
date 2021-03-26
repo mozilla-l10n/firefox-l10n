@@ -29,15 +29,15 @@ create-profile-last-page-header =
         [macos] Завршавање
        *[other] { create-profile-window.title } – завршавање
     }
-profile-creation-intro = Ако направите неколико профила, можете их разликовати по имену. Можете користити овде наведено име профила или можете уписати своје.
-profile-prompt = Унесите име новог профила:
+profile-creation-intro = Ако направите неколико профила, можете их разликовати по називу. Осмислите назив самостално или користите доленаведени.
+profile-prompt = Унесите назив профила:
     .accesskey = У
 profile-default-name =
     .value = Подразумевани корисник
-profile-directory-explanation = Ваша корисничка подешавања, поставке и остали подаци биће чувани у:
+profile-directory-explanation = Подешавања и други кориснички подаци ће се чувати у:
 create-profile-choose-folder =
-    .label = Избор фасцикле…
-    .accesskey = И
+    .label = Одабери фасциклу…
+    .accesskey = О
 create-profile-use-default =
-    .label = Користи изворну фасциклу
+    .label = Користи подразумевану фасциклу
     .accesskey = К
