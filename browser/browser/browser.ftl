@@ -313,6 +313,11 @@ browser-window-close-button =
 ## Tab actions
 
 
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+
 ## Bookmarks toolbar items
 
 
@@ -408,8 +413,6 @@ pointerlock-warning-no-domain = এই নথিতে পয়েন্টা�
 
 bookmarks-show-all-bookmarks =
     .label = সব বুকমার্ক প্রদর্শন
-bookmarks-recent-bookmarks =
-    .value = সম্প্রতি বুকমার্ক করা
 bookmarks-toolbar-chevron =
     .tooltiptext = আরও বুকমার্ক প্রদর্শন
 bookmarks-sidebar-content =
@@ -425,12 +428,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] বুকমার্ক সাইডবার লুকাও
            *[other] বুকমার্ক সাইডবার প্রদর্শন
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] বুকমার্ক টুলবার লুকাও
-           *[other] বুকমার্ক টুলবার প্রদর্শন
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -468,10 +465,9 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-menu =
     .label = বুকমার্ক
-library-bookmarks-bookmark-this-page =
-    .label = এই পাতা বুকমার্ক করুন
-library-bookmarks-bookmark-edit =
-    .label = বুকমার্ক সম্পাদনা
+
+## Pocket toolbar button
+
 
 ## More items
 
@@ -482,3 +478,12 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = এই সাইটের কিছু অডিও এবং ভিডিও DRM সফটওয়্যার ব্যবহার করে, যেটা আপনাকে সীমিত রাখতে পারে যা আপনাকে { -brand-short-name } করতে দেয়।
+
+## Password save/update panel
+
+
+## Add-on removal warning
+
+
+## Remote / Synced tabs
+
