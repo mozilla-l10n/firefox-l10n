@@ -622,6 +622,12 @@ library-bookmarks-menu =
 library-recent-activity-title =
     .value = Azken jarduera
 
+## Pocket toolbar button
+
+save-to-pocket-button =
+    .label = Gorde { -pocket-brand-name }-en
+    .tooltiptext = Gorde { -pocket-brand-name }-en
+
 ## More items
 
 more-menu-go-offline =
@@ -646,3 +652,6 @@ panel-save-update-password = Pasahitza
 # Variables:
 #  $name (String): The name of the addon that will be removed.
 addon-removal-title = { $name } kendu?
+
+## Remote / Synced tabs
+
