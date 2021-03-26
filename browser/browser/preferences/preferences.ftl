@@ -407,6 +407,14 @@ update-setting-write-failure-message =
     
     Njedajo se do dataje pisaś: { $path }
 update-setting-write-failure-title2 = Zmólka pśi składowanju aktualizěrowańskich nastajenjow
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message2 =
+    { -brand-short-name } jo starcył na zmólku a njejo toś tu změnu składł. Źiwajśo na to, až se změnjanje toś togo aktualizěrowańskego nastajenja pisańske pšawo za slědujucu dataju pomina. Wy abo systemowy administrator móžotej zmólku pórěźiś, gaž wužywarskej kupce połnu kontrolu nad toś teju dataju dajotej.
+    
+    Njedajo se do dataje pisaś: { $path }
 update-in-progress-title = Aktualizacija běžy
 update-in-progress-message = Cośo, až { -brand-short-name } z toś teju aktualizaciju pókšacujo?
 update-in-progress-ok-button = &Zachyśiś
@@ -606,6 +614,7 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Pytańske naraźenja w priwatnych woknach pokazaś
 suggestions-addressbar-settings-generic = Nastajenja za druge naraźenja adresowego póla změniś
+suggestions-addressbar-settings-generic2 = Nastajenja za druge naraźenja adresowego póla změniś
 search-suggestions-cant-show = Pytańske naraźenja njebudu se we wuslědkach adresowego póla pokazaś, dokulaž sćo { -brand-short-name } tak konfigurěrował, až njespomnjejo se nigda historiju.
 search-one-click-header = Pytnice z jadnym kliknjenim
 search-one-click-header2 = Pytańske skrotconki
@@ -640,6 +649,8 @@ containers-back-button =
             [windows] Slědk k nastajenjam
            *[other] Slědk k nastajenjam
         }
+containers-back-button2 =
+    .aria-label = Slědk k nastajenjam
 containers-header = Kontejnerowe rejtariki
 containers-add-button =
     .label = Nowy kontejner pśidaś
@@ -649,6 +660,8 @@ containers-new-tab-check =
     .accesskey = K
 containers-preferences-button =
     .label = Nastajenja
+containers-settings-button =
+    .label = Nastajenja
 containers-remove-button =
     .label = Wótwónoźeś
 
@@ -657,6 +670,7 @@ containers-remove-button =
 
 sync-signedout-caption = Wzejśo swój web sobu
 sync-signedout-description = Synchronizěrujśo swóje cytańske znamjenja, historiju, rejtariki, gronidła, dodanki a nastajenja mjazy wšymi wašymi rědami.
+sync-signedout-description2 = Synchronizěrujśo swóje cytańske znamjenja, historiju, rejtarki, gronidła, dodanki a nastajenja mjazy wšymi wašymi rědami.
 sync-signedout-account-signin2 =
     .label = Se pla { -sync-brand-short-name } pśizjawiś…
     .accesskey = l
@@ -699,6 +713,7 @@ prefs-sync-setup =
     .label = { -sync-brand-short-name } konfigurěrowaś
     .accesskey = k
 prefs-sync-offer-setup-label = Synchronizěrujśo swóje cytańske znamjenja, historiju, rejtariki, gronidła, dodanki a nastajenja mjazy wšymi wašymi rědami.
+prefs-sync-offer-setup-label2 = Synchronizěrujśo swóje cytańske znamjenja, historiju, rejtarki, gronidła, dodanki a nastajenja mjazy wšymi wašymi rědami.
 prefs-sync-now =
     .labelnotsyncing = Něnto synchronizěrowaś
     .accesskeynotsyncing = N
@@ -719,6 +734,7 @@ sync-currently-syncing-prefs =
         [windows] Nastajenja
        *[other] Nastajenja
     }
+sync-currently-syncing-settings = Nastajenja
 sync-change-options =
     .label = Změniś…
     .accesskey = Z
@@ -765,6 +781,10 @@ sync-engine-prefs =
            *[other] Nastajenja
         }
     .tooltiptext = Powšykne nastajenja, nastajenja priwatnosći a wěstoty, kótarež sćo změnił
+    .accesskey = N
+sync-engine-settings =
+    .label = Nastajenja
+    .tooltiptext = Powšykne nastajenja a nastajenja priwatnosći a wěstoty su se změnili
     .accesskey = N
 
 ## The device name controls.
@@ -1180,6 +1200,11 @@ space-alert-under-5gb-ok-button =
     .label = W pórěźe, som zrozměł
     .accesskey = z
 space-alert-under-5gb-message = { -brand-short-name } njama wěcej dosć składowańskego ruma. Wopśimjeśe websedła se snaź korektnje njezwobraznijo. Móžośo na “Dalšne informacije” kliknuś, aby swój składowe wužyśe za lěpše pśeglědowańske dožywjenje opiměrował.
+space-alert-over-5gb-settings-button =
+    .label = Nastajenja wócyniś
+    .accesskey = c
+space-alert-over-5gb-message2 = <strong> { -brand-short-name } njama wěcej dosć składowańskego ruma.</strong> Wopśimjeśe websedła se snaź korektnje njezwobraznijo. Móžośo skłaźone daty w Nastajenja > Priwatnosć a wěstota > Cookieje a sedłowe daty lašowaś.
+space-alert-under-5gb-message2 = <strong>{ -brand-short-name } njama wěcej dosć składowańskego ruma.</strong> Wopśimjeśe websedła se snaź korektnje njezwobraznijo. Móžośo na “Dalšne informacije” kliknuś, aby swój składowe wužyśe za lěpše pśeglědowańske dožywjenje opiměrował.
 
 ## Privacy Section - HTTPS-Only
 
