@@ -118,6 +118,11 @@ browser-window-minimize-button =
 ## Tab actions
 
 
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+
 ## Bookmarks toolbar items
 
 
@@ -183,11 +188,24 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-menu =
     .label = Alamisho
-library-bookmarks-bookmark-edit =
-    .label = Hariri Alamisho Hili
+
+## Pocket toolbar button
+
 
 ## More items
 
 more-menu-go-offline =
     .label = Fanya kazi Nje ya Mtandao
     .accesskey = F
+
+## EME notification panel
+
+
+## Password save/update panel
+
+
+## Add-on removal warning
+
+
+## Remote / Synced tabs
+
