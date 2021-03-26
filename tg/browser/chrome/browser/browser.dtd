@@ -7,6 +7,7 @@
 
 <!ENTITY appmenu.tooltip                     "Кушодани меню">
 
+<!ENTITY navbarOverflow.label                "Абзорҳои бештар…">
 
 <!-- Tab context menu -->
 
@@ -82,6 +83,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY addBookmarksMenu.label             "Илова кардани менюи хатбаракҳо ба навори абзорҳо">
 <!ENTITY removeBookmarksMenu.label          "Тоза кардани менюи хатбаракҳо аз навори абзорҳо">
 
+<!ENTITY historyButton.label            "Таърих">
 
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
@@ -93,12 +95,19 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY preferencesCmdUnix.label       "Хусусиятҳо">
 
 
+<!ENTITY historyMenu.label "Таърих">
 <!ENTITY historyUndoMenu.label "Варақаҳои ба наздикӣ пӯшидашуда">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
+<!ENTITY historyUndoWindowMenu.label "Равзанаҳои ба наздикӣ пӯшидашуда">
 
 <!ENTITY appMenuHistory.showAll.label "Намоиш додани таърихи пурра">
 
+<!ENTITY appMenuHistory.clearRecent.label "Пок кардани таърихи охирин…">
+<!ENTITY appMenuHistory.restoreSession.label "Барқарор кардани ҷаласаи қаблӣ">
 <!ENTITY appMenuHistory.viewSidebar.label "Намоиш додани навори ҷонибии таърих">
+<!ENTITY appMenuHistory.hideSidebar.label "Пинҳон кардани навори ҷонибии таърих">
+<!ENTITY appMenuHistory.recentHistory.label "Таърихи охирин">
+<!ENTITY appMenuHelp.label "Кумак">
 
 <!ENTITY appMenuRemoteTabs.label "Варақаҳои ҳамоҳангшуда">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -162,6 +171,7 @@ this container is a toolbar. This avoids double-speaking. -->
 
 
 
+<!ENTITY panicButton.thankyou.msg1                "Таърихи охирини шумо тоза карда шуд.">
 
 
 

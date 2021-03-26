@@ -202,6 +202,8 @@ network-proxy-connection-learn-more = Маълумоти бештар
 
 ## Home Section - Home Page Customization
 
+home-homepage-custom-url =
+    .placeholder = Гузоштани нишонии URL…
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should

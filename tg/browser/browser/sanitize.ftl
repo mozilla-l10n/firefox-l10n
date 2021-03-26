@@ -31,6 +31,20 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Таърих
+item-history-and-downloads =
+    .label = Таърихи тамошо ва боргирӣ
+    .accesskey = Т
+item-form-search-history =
+    .label = Таърихи шаклҳо ва ҷустуҷӯ
+    .accesskey = Т
 item-site-preferences =
     .label = Хусусиятҳои сомона
     .accesskey = Х
+# Warning that appears when "Time range to clear" is set to "Everything" in Clear
+# Recent History dialog, provided that the user has not modified the default set
+# of history items to clear.
+sanitize-everything-warning = Ҳамаи таърих тоза карда мешавад.
+# Warning that appears when "Time range to clear" is set to "Everything" in Clear
+# Recent History dialog, provided that the user has modified the default set of
+# history items to clear.
+sanitize-selected-warning = Ҳамаи ҷузъҳои интихобшуда тоза карда мешаванд.
