@@ -25,6 +25,10 @@ main-context-menu-back-2 =
     .tooltiptext = Shkoni mbrapsht një faqe ({ $shortcut })
     .aria-label = Mbrapsht
     .accesskey = M
+# This menuitem is only visible on macOS
+main-context-menu-back-mac =
+    .label = Mbrapsht
+    .accesskey = M
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -46,6 +50,10 @@ main-context-menu-forward-2 =
     .tooltiptext = Shkoni para një faqe ({ $shortcut })
     .aria-label = Para
     .accesskey = P
+# This menuitem is only visible on macOS
+main-context-menu-forward-mac =
+    .label = Para
+    .accesskey = P
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
@@ -56,6 +64,10 @@ toolbar-button-forward-2 =
 main-context-menu-reload =
     .aria-label = Ringarkoje
     .accesskey = R
+# This menuitem is only visible on macOS
+main-context-menu-reload-mac =
+    .label = Ringarkoje
+    .accesskey = R
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
@@ -63,6 +75,10 @@ toolbar-button-reload =
 
 main-context-menu-stop =
     .aria-label = Ndale
+    .accesskey = N
+# This menuitem is only visible on macOS
+main-context-menu-stop-mac =
+    .label = Ndale
     .accesskey = N
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
@@ -111,9 +127,6 @@ main-context-menu-open-link-new-tab =
 main-context-menu-open-link-container-tab =
     .label = Hape Lidhjen në Skedë të Re Kontejneri
     .accesskey = K
-main-context-menu-open-link-container =
-    .label = Hape Lidhjen në Skedë të Re Kontejneri
-    .accesskey = H
 main-context-menu-open-link-new-window =
     .label = Hape Lidhjen në Dritare të Re
     .accesskey = D
