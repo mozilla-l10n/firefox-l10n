@@ -578,6 +578,9 @@ library-recent-activity-title =
 
 ## Pocket toolbar button
 
+save-to-pocket-button =
+    .label = Enrollañ etrezek { -pocket-brand-name }
+    .tooltiptext = Enrollañ etrezek { -pocket-brand-name }
 
 ## More items
 
