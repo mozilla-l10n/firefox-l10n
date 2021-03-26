@@ -110,6 +110,11 @@ browser-window-minimize-button =
 ## Tab actions
 
 
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+
 ## Bookmarks toolbar items
 
 
@@ -171,11 +176,24 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
-library-bookmarks-bookmark-edit =
-    .label = Longoosa Akalambe Kano
+
+## Pocket toolbar button
+
 
 ## More items
 
 more-menu-go-offline =
     .label = Kola nga toli ku Mutimbagano
     .accesskey = K
+
+## EME notification panel
+
+
+## Password save/update panel
+
+
+## Add-on removal warning
+
+
+## Remote / Synced tabs
+
