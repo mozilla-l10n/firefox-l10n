@@ -371,6 +371,9 @@ library-bookmarks-menu =
 
 ## Pocket toolbar button
 
+save-to-pocket-button =
+    .label = Sábháil i b{ -pocket-brand-name }
+    .tooltiptext = Sábháil i b{ -pocket-brand-name }
 
 ## More items
 
