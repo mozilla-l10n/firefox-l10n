@@ -239,10 +239,10 @@ search-one-offs-context-open-new-tab =
     .accesskey = T
 search-one-offs-context-set-as-default =
     .label = Постави као подразумевани претраживач
-    .accesskey = D
+    .accesskey = П
 search-one-offs-context-set-as-default-private =
-    .label = Постави као подразумевани претраживач за приватни Windows
-    .accesskey = P
+    .label = Постави као подразумевани претраживач у приватним прозорима
+    .accesskey = о
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
