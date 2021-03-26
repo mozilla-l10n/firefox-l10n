@@ -645,6 +645,12 @@ library-bookmarks-menu =
 library-recent-activity-title =
     .value = Nedavna aktivnost
 
+## Pocket toolbar button
+
+save-to-pocket-button =
+    .label = Spremi u { -pocket-brand-name }
+    .tooltiptext = Spremi u { -pocket-brand-name }
+
 ## More items
 
 more-menu-go-offline =
@@ -670,3 +676,6 @@ panel-save-update-password = Lozinka
 #  $name (String): The name of the addon that will be removed.
 addon-removal-title = Ukloniti { $name }?
 addon-removal-abuse-report-checkbox = Prijavi ovaj dodatak prodavaču { -vendor-short-name }
+
+## Remote / Synced tabs
+
