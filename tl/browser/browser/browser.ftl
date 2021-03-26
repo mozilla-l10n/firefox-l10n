@@ -554,6 +554,9 @@ library-bookmarks-menu =
 
 ## Pocket toolbar button
 
+save-to-pocket-button =
+    .label = I-save sa { -pocket-brand-name }
+    .tooltiptext = I-save sa { -pocket-brand-name }
 
 ## More items
 
