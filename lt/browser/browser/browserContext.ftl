@@ -25,6 +25,10 @@ main-context-menu-back-2 =
     .tooltiptext = Vienu tinklalapiu atgal ({ $shortcut })
     .aria-label = Atgal
     .accesskey = A
+# This menuitem is only visible on macOS
+main-context-menu-back-mac =
+    .label = Atgal
+    .accesskey = A
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -46,6 +50,10 @@ main-context-menu-forward-2 =
     .tooltiptext = Vienu tinklalapiu pirmyn ({ $shortcut })
     .aria-label = Pirmyn
     .accesskey = P
+# This menuitem is only visible on macOS
+main-context-menu-forward-mac =
+    .label = Pirmyn
+    .accesskey = P
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
@@ -56,6 +64,10 @@ toolbar-button-forward-2 =
 main-context-menu-reload =
     .aria-label = Įkelti iš naujo
     .accesskey = n
+# This menuitem is only visible on macOS
+main-context-menu-reload-mac =
+    .label = Įkelti iš naujo
+    .accesskey = n
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
@@ -63,6 +75,10 @@ toolbar-button-reload =
 
 main-context-menu-stop =
     .aria-label = Stabdyti
+    .accesskey = S
+# This menuitem is only visible on macOS
+main-context-menu-stop-mac =
+    .label = Stabdyti
     .accesskey = S
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
