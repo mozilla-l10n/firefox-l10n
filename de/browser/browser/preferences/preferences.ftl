@@ -384,6 +384,9 @@ update-application-check-choose =
 update-application-manual =
     .label = Nicht nach Updates suchen (nicht empfohlen)
     .accesskey = d
+update-application-background-enabled =
+    .label = Wenn { -brand-short-name } nicht ausgeführt wird
+    .accesskey = W
 update-application-warning-cross-user-setting = Diese Einstellung betrifft alle Windows-Konten und { -brand-short-name }-Profile, welche diese Installation von { -brand-short-name } verwenden.
 update-application-use-service =
     .label = Einen Hintergrunddienst verwenden, um Updates zu installieren
@@ -395,6 +398,15 @@ update-setting-write-failure-title = Fehler beim Speichern der Update-Einstellun
 # intentional so the path is easier to identify.
 update-setting-write-failure-message =
     { -brand-short-name } bemerkte einen Fehler und hat diese Änderung nicht gespeichert. Das Setzen dieser Update-Einstellung benötigt Schreibrechte für die unten genannte Datei. Sie oder ein Systemadministrator können das Problem eventuell beheben, indem Sie der Gruppe "Benutzer" vollständige Kontrolle über die Datei gewähren.
+    
+    Konnte folgende Datei nicht speichern: { $path }
+update-setting-write-failure-title2 = Fehler beim Speichern der Update-Einstellungen
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message2 =
+    { -brand-short-name } bemerkte einen Fehler und hat diese Änderung nicht gespeichert. Das Ändern dieser Update-Einstellung benötigt Schreibrechte für die unten genannte Datei. Sie oder ein Systemadministrator können das Problem eventuell beheben, indem Sie der Gruppe "Benutzer" vollständige Kontrolle über die Datei gewähren.
     
     Konnte folgende Datei nicht speichern: { $path }
 update-in-progress-title = Update wird durchgeführt
@@ -594,6 +606,7 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Suchvorschläge in privaten Fenstern anzeigen
 suggestions-addressbar-settings-generic = Einstellungen für andere Vorschläge in der Adressleiste ändern
+suggestions-addressbar-settings-generic2 = Einstellungen für andere Vorschläge in der Adressleiste ändern
 search-suggestions-cant-show = Suchvorschläge werden nicht in der Adressleiste angezeigt, weil { -brand-short-name } angewiesen wurde, keine Chronik zu speichern.
 search-one-click-header = Ein-Klick-Suchmaschinen
 search-one-click-header2 = Suchmaschinen-Schlüsselwörter
@@ -628,6 +641,8 @@ containers-back-button =
             [windows] Zurück zu den Einstellungen
            *[other] Zurück zu den Einstellungen
         }
+containers-back-button2 =
+    .aria-label = Zurück zu den Einstellungen
 containers-header = Tab-Umgebungen
 containers-add-button =
     .label = Neue Umgebung hinzufügen
@@ -637,6 +652,8 @@ containers-new-tab-check =
     .accesskey = w
 containers-preferences-button =
     .label = Einstellungen
+containers-settings-button =
+    .label = Einstellungen
 containers-remove-button =
     .label = Löschen
 
@@ -645,6 +662,7 @@ containers-remove-button =
 
 sync-signedout-caption = So haben Sie das Web überall dabei.
 sync-signedout-description = Synchronisieren Sie Ihre Lesezeichen, Chronik, Tabs, Passwörter, Add-ons und Einstellungen zwischen allen Ihren Geräten.
+sync-signedout-description2 = Synchronisieren Sie Ihre Lesezeichen, Chronik, Tabs, Passwörter, Add-ons und Einstellungen zwischen allen Ihren Geräten.
 sync-signedout-account-signin2 =
     .label = Bei { -sync-brand-short-name } anmelden…
     .accesskey = B
@@ -687,6 +705,7 @@ prefs-sync-setup =
     .label = { -sync-brand-short-name } einrichten…
     .accesskey = e
 prefs-sync-offer-setup-label = Synchronisieren Sie Ihre Lesezeichen, Chronik, Tabs, Passwörter, Add-ons und Einstellungen zwischen allen Ihren Geräten.
+prefs-sync-offer-setup-label2 = Synchronisieren Sie Ihre Lesezeichen, Chronik, Tabs, Passwörter, Add-ons und Einstellungen zwischen allen Ihren Geräten.
 prefs-sync-now =
     .labelnotsyncing = Jetzt synchronisieren
     .accesskeynotsyncing = J
@@ -707,6 +726,7 @@ sync-currently-syncing-prefs =
         [windows] Einstellungen
        *[other] Einstellungen
     }
+sync-currently-syncing-settings = Einstellungen
 sync-change-options =
     .label = Ändern…
     .accesskey = Ä
@@ -752,6 +772,10 @@ sync-engine-prefs =
             [windows] Einstellungen
            *[other] Einstellungen
         }
+    .tooltiptext = Durch Sie geänderte allgemeine, Datenschutz- und Sicherheitseinstellungen
+    .accesskey = E
+sync-engine-settings =
+    .label = Einstellungen
     .tooltiptext = Durch Sie geänderte allgemeine, Datenschutz- und Sicherheitseinstellungen
     .accesskey = E
 
@@ -1168,6 +1192,11 @@ space-alert-under-5gb-ok-button =
     .label = OK
     .accesskey = O
 space-alert-under-5gb-message = { -brand-short-name } verfügt über nur noch wenig freien Speicherplatz. Website-Inhalte werden vielleicht nicht richtig angezeigt. Besuchen Sie "Weitere Informationen", um die Speichernutzung für ein besseres Weberlebnis zu optimieren.
+space-alert-over-5gb-settings-button =
+    .label = Einstellungen öffnen
+    .accesskey = ö
+space-alert-over-5gb-message2 = <strong>{ -brand-short-name } verfügt über nur noch wenig freien Speicherplatz.</strong> Website-Inhalte werden vielleicht nicht richtig angezeigt. Sie können gespeicherte Daten im Menü Einstellungen > Datenschutz & Sicherheit > Cookies und Website-Daten löschen.
+space-alert-under-5gb-message2 = <strong>{ -brand-short-name } verfügt über nur noch wenig freien Speicherplatz.</strong> Website-Inhalte werden vielleicht nicht richtig angezeigt. Besuchen Sie "Weitere Informationen", um die Speichernutzung für ein besseres Weberlebnis zu optimieren.
 
 ## Privacy Section - HTTPS-Only
 
