@@ -25,6 +25,10 @@ main-context-menu-back-2 =
     .tooltiptext = Torne indaûr di une pagjine ({ $shortcut })
     .aria-label = Indaûr
     .accesskey = D
+# This menuitem is only visible on macOS
+main-context-menu-back-mac =
+    .label = Indaûr
+    .accesskey = D
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -46,6 +50,10 @@ main-context-menu-forward-2 =
     .tooltiptext = Va indenant di une pagjine ({ $shortcut })
     .aria-label = Indenant
     .accesskey = I
+# This menuitem is only visible on macOS
+main-context-menu-forward-mac =
+    .label = Indenant
+    .accesskey = I
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
@@ -56,6 +64,10 @@ toolbar-button-forward-2 =
 main-context-menu-reload =
     .aria-label = Torne cjarie
     .accesskey = R
+# This menuitem is only visible on macOS
+main-context-menu-reload-mac =
+    .label = Torne cjarie
+    .accesskey = R
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
@@ -63,6 +75,10 @@ toolbar-button-reload =
 
 main-context-menu-stop =
     .aria-label = Ferme
+    .accesskey = F
+# This menuitem is only visible on macOS
+main-context-menu-stop-mac =
+    .label = Ferme
     .accesskey = F
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
