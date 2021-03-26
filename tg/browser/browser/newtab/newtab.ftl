@@ -181,4 +181,9 @@ newtab-pocket-learn-more = Маълумоти бештар
 
 newtab-custom-recent-title = Фаъолияти охирин
 newtab-custom-close-button = Пӯшидан
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+newtab-custom-snippets-title = Ёддоштҳо
 newtab-custom-settings = Идоракунии танзимоти бештар

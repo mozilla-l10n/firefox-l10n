@@ -6,3 +6,8 @@ screenshots-cancel-button = Бекор кардан
 screenshots-save-page-button = Нигоҳ доштани саҳифаи пурра
 screenshots-copy-button = Нусха бардоштан
 screenshots-copy-button-tooltip = Нусха бардоштани акси экран ба ҳофизаи муваққатӣ
+screenshots-meta-key =
+    { PLATFORM() ->
+        [macos] ⌘
+       *[other] Ctrl
+    }

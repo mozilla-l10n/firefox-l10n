@@ -3,6 +3,37 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-learn-more = Маълумоти бештар
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Имконот
+       *[other] Хусусиятҳо
+    }
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box =
+    .style = width: 15.4em
+    .placeholder =
+        { PLATFORM() ->
+            [windows] Ҷустуҷӯ дар имконот
+           *[other] Ҷустуҷӯ дар хусусиятҳо
+        }
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box2 =
+    .style = width: 15.4em
+    .placeholder = Ҷустуҷӯ дар танзимот
 category-general =
     .tooltiptext = { pane-general-title }
 category-home =
@@ -33,6 +64,7 @@ cancel-no-restart-button = Бекор кардан
 
 ## Preferences UI Search Results
 
+search-results-header = Натиҷаи ҷустуҷӯ
 
 ## General Section
 
@@ -42,6 +74,8 @@ containers-disable-alert-cancel-button = Фаъолшуда нигоҳ дошт�
 
 ## General Section - Language & Appearance
 
+# Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header = Танзими андоза
 
 ## General Section - Files and Applications
 
@@ -176,6 +210,12 @@ home-prefs-recommended-by-header =
 home-prefs-recommended-by-learn-more = Чӣ тавр кор мекунад
 home-prefs-highlights-options-bookmarks =
     .label = Хатбаракҳо
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = Ёддоштҳо
 
 ## Search Section
 
@@ -185,6 +225,14 @@ search-remove-engine =
 
 ## Containers Section
 
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] Бозгашт ба имконот
+           *[other] Бозгашт ба хусусиятҳо
+        }
+containers-preferences-button =
+    .label = Хусусиятҳо
 containers-remove-button =
     .label = Тоза кардан
 
@@ -210,6 +258,9 @@ sync-currently-syncing-prefs =
         [windows] Имконот
        *[other] Хусусиятҳо
     }
+sync-change-options =
+    .label = Тағйир додан…
+    .accesskey = Т
 
 ## The "Choose what to sync" dialog.
 

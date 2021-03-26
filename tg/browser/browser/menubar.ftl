@@ -11,6 +11,8 @@
 
 ## Application Menu (macOS only)
 
+menu-application-preferences =
+    .label = Хусусиятҳо
 menu-application-services =
     .label = Хизматҳо
 menu-application-hide-this =
