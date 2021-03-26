@@ -28,6 +28,7 @@ search-input-box =
             [windows] Pesquisar em opções
            *[other] Pesquisar em preferências
         }
+settings-page-title = Configurações
 managed-notice = Seu navegador está sendo gerenciado por nossa organização.
 category-list =
     .aria-label = Categorias
