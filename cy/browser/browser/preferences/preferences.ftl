@@ -28,6 +28,18 @@ search-input-box =
             [windows] Canfod yn Opsiynau
            *[other] Canfod yn Dewisiadau
         }
+settings-page-title = Gosodiadau
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box2 =
+    .style = width: 15.4em
+    .placeholder = Canfod yn y Gosodiadau
 managed-notice = Mae eich porwr yn cael ei reoli gan eich sefydliad.
 category-list =
     .aria-label = Categorïau
@@ -52,6 +64,7 @@ category-experimental =
 pane-experimental-subtitle = Gofal!
 pane-experimental-search-results-header = Arbrofion { -brand-short-name }: Byddwch yn Ofalus
 pane-experimental-description = Gall newid dewisiadau ffurfweddiad uwch effeithio ar berfformiad neu ddiogelwch { -brand-short-name }.
+pane-experimental-description2 = Gall newid dewisiadau ffurfweddiad uwch effeithio ar berfformiad neu ddiogelwch { -brand-short-name }.
 pane-experimental-reset =
     .label = Adfer y Rhagosodiadau
     .accesskey = A
@@ -121,6 +134,8 @@ search-results-empty-message =
         [windows] Ymddiheuriadau! Nid oes canlyniadau yn yr Opsiynau ar gyfer “<span data-l10n-name="query"></span>”.
        *[other] Ymddiheuriadau! Nid os canlyniadau yn y Dewisiada.u ar gyfer “<span data-l10n-name="query"></span>”.
     }
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 = Ymddiheuriadau! Nid oes canlyniadau yn y Dewisiadau ar gyfer “<span data-l10n-name="query"></span>”.
 search-results-help-link = Angen help? Ewch i <a data-l10n-name="url">Cefnogaeth { -brand-short-name }</a>
 
 ## General Section
@@ -381,6 +396,9 @@ update-application-check-choose =
 update-application-manual =
     .label = Byth gwirio am ddiweddariadau (ddim yn argymell)
     .accesskey = B
+update-application-background-enabled =
+    .label = Pan nad yw { -brand-short-name } yn rhedeg
+    .accesskey = P
 update-application-warning-cross-user-setting = Bydd y gosodiad hwn yn berthnasol i bob cyfrif Windows a proffiliau { -brand-short-name } sy'n ddefnyddio'r gosodiad { -brand-short-name } hwn.
 update-application-use-service =
     .label = Defnyddio gwasanaethau cefndirol i osod diweddariadau
@@ -394,6 +412,15 @@ update-setting-write-failure-message =
     Bu gwall ar { -brand-short-name } ac nid yw wedi cadw'r newid hwn. Noder bod gosod caniatâd ar gyfer y diweddariad hwn yn gofyn am ganiatâd i ysgrifennu at y ffeil isod. Efallai y byddwch chi neu weinyddwr system yn gallu datrys y gwall trwy roi rheolaeth lawn i'r ffeil hon i'r grŵp Defnyddwyr.
     
     Doedd dim modd ysgrifennu i ffeil: { $path }
+update-setting-write-failure-title2 = Gwall wrth gadw dewisiadau Diweddaru
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message2 =
+    Bu gwall ar { -brand-short-name } ac nid yw wedi cadw'r newid hwn. Sylwch fod gosod caniatâd ar gyfer y diweddariad hwn yn gofyn am ganiatâd i ysgrifennu at y ffeil isod. Efallai y byddwch chi neu weinyddwr system yn gallu datrys y gwall trwy roi rheolaeth lawn i'r ffeil hon i'r grŵp Defnyddwyr.
+    
+    Methu ysgrifennu i ffeil: { $path }
 update-in-progress-title = Wrthi'n Diweddaru
 update-in-progress-message = Hoffech chi i { -brand-short-name } barhau gyda'r diweddariad hwn?
 update-in-progress-ok-button = &Dileu
@@ -595,6 +622,7 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Dangos awgrymiadau chwilio mewn Ffenestri Preifat
 suggestions-addressbar-settings-generic = Newid dewisiadau awgrymiadau eraill y bar cyfeiriad
+suggestions-addressbar-settings-generic2 = Newid dewisiadau awgrymiadau eraill y bar cyfeiriad
 search-suggestions-cant-show = Ni fydd awgrymiadau chwilio'n cael eu dangos yn y bar lleoliad gan eich bod wedi ffurfweddu { -brand-short-name } i byth cofio hanes.
 search-one-click-header = Peiriannau Chwilio Un Clic
 search-one-click-header2 = Chwilio'r Llwybrau Byr
@@ -629,6 +657,8 @@ containers-back-button =
             [windows] Nôl i Opsiynau
            *[other] Nol i Dewisiadau
         }
+containers-back-button2 =
+    .aria-label = Nôl i'r Gosodiadau
 containers-header = Tabiau Cynwysyddion
 containers-add-button =
     .label = Ychwanegu Cynhwysydd Newydd
@@ -638,6 +668,8 @@ containers-new-tab-check =
     .accesskey = g
 containers-preferences-button =
     .label = Dewisiadau
+containers-settings-button =
+    .label = Gosodiadau
 containers-remove-button =
     .label = Tynnu
 
@@ -646,6 +678,7 @@ containers-remove-button =
 
 sync-signedout-caption = Mynd â'ch  Gwe gyda Chi
 sync-signedout-description = Cydweddwch eich nodau tudalen, hanes, tabiau, cyfrineiriau, ychwanegion a dewisiadau ymysg eich dyfeisiau i gyd.
+sync-signedout-description2 = Cydweddwch eich nodau tudalen, hanes, tabiau, cyfrineiriau, ychwanegion a dewisiadau ar draws eich holl ddyfeisiau.
 sync-signedout-account-signin2 =
     .label = Mewngofnodi i { -sync-brand-short-name }…
     .accesskey = M
@@ -688,6 +721,7 @@ prefs-sync-setup =
     .label = Gosod { -sync-brand-short-name }
     .accesskey = G
 prefs-sync-offer-setup-label = Cydweddwch eich nodau tudalen, hanes, tabiau, cyfrineiriau, ychwanegion a dewisiadau ar draws eich dyfeisiau i gyd.
+prefs-sync-offer-setup-label2 = Cydweddwch eich nodau tudalen, hanes, tabiau, cyfrineiriau, ychwanegion a dewisiadau ar draws eich holl ddyfeisiau.
 prefs-sync-now =
     .labelnotsyncing = Cydweddu Nawr
     .accesskeynotsyncing = N
@@ -708,6 +742,7 @@ sync-currently-syncing-prefs =
         [windows] Opsiynau
        *[other] Dewisiadau
     }
+sync-currently-syncing-settings = Gosodiadau
 sync-change-options =
     .label = Newid…
     .accesskey = N
@@ -755,6 +790,10 @@ sync-engine-prefs =
         }
     .tooltiptext = Gosodiadau Cyffredinol, Preifatrwydd a Diogelwch rydych wedi eu newid
     .accesskey = O
+sync-engine-settings =
+    .label = Gosodiadau
+    .tooltiptext = Gosodiadau Cyffredinol, Preifatrwydd a Diogelwch rydych wedi'u newid
+    .accesskey = G
 
 ## The device name controls.
 
@@ -1169,6 +1208,11 @@ space-alert-under-5gb-ok-button =
     .label = Iawn
     .accesskey = I
 space-alert-under-5gb-message = Mae { -brand-short-name } yn brin o le ar ddisg. Efallai na fydd cynnwys gwefan yn cael ei ddangos yn iawn. Ewch i “Learn More” i wella'r defnydd o'r disg ar gyfer gwell profiad pori.
+space-alert-over-5gb-settings-button =
+    .label = Agor y Gosodiadau
+    .accesskey = A
+space-alert-over-5gb-message2 = Mae { -brand-short-name } yn brin o le ar ddisg. Efallai na fydd cynnwys gwefan yn cael ei ddangos yn iawn. Mae modd i chi glirio data wedi ei storio yn Dewisiadau > Preifatrwydd a Diogelwch > Cwcis a Data Gwefan.
+space-alert-under-5gb-message2 = Mae { -brand-short-name } yn brin o le ar ddisg. Efallai na fydd cynnwys gwefan yn cael ei ddangos yn iawn. Ewch i “Learn More” i wella'r defnydd o'r disg ar gyfer gwell profiad pori.
 
 ## Privacy Section - HTTPS-Only
 

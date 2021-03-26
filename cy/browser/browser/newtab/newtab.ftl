@@ -21,7 +21,7 @@ newtab-search-box-search-button =
 newtab-search-box-search-the-web-text = Chwilio'r We
 # Variables
 #  $engine (String): the name of the user's default search engine
-newtab-search-box-handoff-text = Chwilio gyda { $engine } neu roi'r cyfeiriad
+newtab-search-box-handoff-text = Chwilio gyda { $engine } neu roi cyfeiriad
 newtab-search-box-handoff-text-no-engine = Chwilio neu roi cyfeiriad
 # Variables
 #  $engine (String): the name of the user's default search engine
