@@ -645,6 +645,12 @@ library-bookmarks-menu =
 library-recent-activity-title =
     .value = Nedávna aktivita
 
+## Pocket toolbar button
+
+save-to-pocket-button =
+    .label = Uložiť do { -pocket-brand-name }u
+    .tooltiptext = Uložiť do { -pocket-brand-name }u
+
 ## More items
 
 more-menu-go-offline =
@@ -670,3 +676,6 @@ panel-save-update-password = Heslo
 #  $name (String): The name of the addon that will be removed.
 addon-removal-title = Odstrániť { $name }?
 addon-removal-abuse-report-checkbox = Nahlásiť toto rozšírenie spoločnosti { -vendor-short-name }
+
+## Remote / Synced tabs
+
