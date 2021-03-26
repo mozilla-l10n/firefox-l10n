@@ -621,6 +621,12 @@ library-bookmarks-menu =
 library-recent-activity-title =
     .value = Nedavne dejavnosti
 
+## Pocket toolbar button
+
+save-to-pocket-button =
+    .label = Shrani v { -pocket-brand-name }
+    .tooltiptext = Shrani v { -pocket-brand-name }
+
 ## More items
 
 more-menu-go-offline =
@@ -641,4 +647,7 @@ panel-save-update-username = Uporabniško ime
 panel-save-update-password = Geslo
 
 ## Add-on removal warning
+
+
+## Remote / Synced tabs
 
