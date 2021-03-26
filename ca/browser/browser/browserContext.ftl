@@ -64,6 +64,10 @@ toolbar-button-forward-2 =
 main-context-menu-reload =
     .aria-label = Actualitza
     .accesskey = z
+# This menuitem is only visible on macOS
+main-context-menu-reload-mac =
+    .label = Actualitza
+    .accesskey = z
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
@@ -71,6 +75,10 @@ toolbar-button-reload =
 
 main-context-menu-stop =
     .aria-label = Atura
+    .accesskey = A
+# This menuitem is only visible on macOS
+main-context-menu-stop-mac =
+    .label = Atura
     .accesskey = A
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
