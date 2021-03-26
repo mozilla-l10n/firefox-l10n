@@ -99,6 +99,11 @@ browser-window-minimize-button =
 ## Tab actions
 
 
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+
 ## Bookmarks toolbar items
 
 
@@ -137,8 +142,6 @@ urlbar-go-button =
 
 bookmarks-show-all-bookmarks =
     .label = Show All Bookmarks
-bookmarks-recent-bookmarks =
-    .value = Nabiit a Napannanda
 bookmarks-toolbar-chevron =
     .tooltiptext = Show more bookmarks
 bookmarks-sidebar-content =
@@ -154,11 +157,24 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
-library-bookmarks-bookmark-edit =
-    .label = Baliwan Daytoy a Pannanda
+
+## Pocket toolbar button
+
 
 ## More items
 
 more-menu-go-offline =
     .label = Work Offline
     .accesskey = W
+
+## EME notification panel
+
+
+## Password save/update panel
+
+
+## Add-on removal warning
+
+
+## Remote / Synced tabs
+
