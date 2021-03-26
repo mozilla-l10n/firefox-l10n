@@ -548,3 +548,5 @@ eme-notifications-drm-content-playing = Այս կայքում որոշ ձայն�
 
 ## Remote / Synced tabs
 
+remote-tabs-manage-account =
+    .label = Կառավարել հաշիվը
