@@ -774,6 +774,10 @@ sync-engine-prefs =
         }
     .tooltiptext = Allmänna, sekretess och säkerhetsinställningar du har ändrat
     .accesskey = n
+sync-engine-settings =
+    .label = Inställningar
+    .tooltiptext = Allmänna, sekretess- och säkerhetsinställningar som du har ändrat
+    .accesskey = s
 
 ## The device name controls.
 
@@ -1188,6 +1192,11 @@ space-alert-under-5gb-ok-button =
     .label = Ok, jag förstår
     .accesskey = k
 space-alert-under-5gb-message = { -brand-short-name } håller på att få slut på diskutrymme. Webbplatsens innehåll kanske inte visas korrekt. Besök “Läs mer” för att optimera din diskanvändning för en bättre webbupplevelse.
+space-alert-over-5gb-settings-button =
+    .label = Öppna inställningar
+    .accesskey = n
+space-alert-over-5gb-message2 = <strong>{ -brand-short-name } håller på att få slut på diskutrymme.</strong> Webbplatsens innehåll kanske inte visas korrekt. Du kan rensa lagrad data i Inställningar>Sekretess & säkerhet>Kakor och webbplatsdata.
+space-alert-under-5gb-message2 = <strong>{ -brand-short-name } håller på att få slut på diskutrymme.</strong> Webbplatsens innehåll kanske inte visas korrekt. Besök "Läs mer" för att optimera din diskanvändning för bättre surfupplevelse.
 
 ## Privacy Section - HTTPS-Only
 
