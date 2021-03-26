@@ -25,6 +25,10 @@ main-context-menu-back-2 =
     .tooltiptext = عُد للخلف صفحة واحدة ({ $shortcut })
     .aria-label = السابق
     .accesskey = س
+# This menuitem is only visible on macOS
+main-context-menu-back-mac =
+    .label = السابق
+    .accesskey = س
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -55,6 +59,10 @@ toolbar-button-forward-2 =
 
 main-context-menu-reload =
     .aria-label = أعد التحميل
+    .accesskey = ع
+# This menuitem is only visible on macOS
+main-context-menu-reload-mac =
+    .label = أعد التحميل
     .accesskey = ع
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
