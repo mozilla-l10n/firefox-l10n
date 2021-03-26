@@ -637,6 +637,12 @@ library-bookmarks-menu =
 library-recent-activity-title =
     .value = Πρόσφατη δραστηριότητα
 
+## Pocket toolbar button
+
+save-to-pocket-button =
+    .label = Αποθήκευση στο { -pocket-brand-name }
+    .tooltiptext = Αποθήκευση στο { -pocket-brand-name }
+
 ## More items
 
 more-menu-go-offline =
@@ -662,3 +668,6 @@ panel-save-update-password = Κωδικός πρόσβασης
 #  $name (String): The name of the addon that will be removed.
 addon-removal-title = Αφαίρεση του { $name };
 addon-removal-abuse-report-checkbox = Αναφορά επέκτασης στη { -vendor-short-name }
+
+## Remote / Synced tabs
+
