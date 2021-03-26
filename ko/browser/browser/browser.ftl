@@ -629,6 +629,12 @@ library-bookmarks-menu =
 library-recent-activity-title =
     .value = 최근 활동
 
+## Pocket toolbar button
+
+save-to-pocket-button =
+    .label = { -pocket-brand-name }에 저장
+    .tooltiptext = { -pocket-brand-name }에 저장
+
 ## More items
 
 more-menu-go-offline =
@@ -654,3 +660,6 @@ panel-save-update-password = 비밀번호
 #  $name (String): The name of the addon that will be removed.
 addon-removal-title = { $name } 부가 기능을 제거하시겠습니까?
 addon-removal-abuse-report-checkbox = 이 확장 기능을 { -vendor-short-name }에 신고
+
+## Remote / Synced tabs
+
