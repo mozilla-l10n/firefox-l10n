@@ -634,6 +634,12 @@ library-bookmarks-menu =
 library-recent-activity-title =
     .value = Armud n melmi kan
 
+## Pocket toolbar button
+
+save-to-pocket-button =
+    .label = Sekles ɣer { -pocket-brand-name }
+    .tooltiptext = Sekles ɣer { -pocket-brand-name }
+
 ## More items
 
 more-menu-go-offline =
@@ -657,3 +663,6 @@ panel-save-update-password = Awal uffir
 #  $name (String): The name of the addon that will be removed.
 addon-removal-title = Kkes { $name }?
 addon-removal-abuse-report-checkbox = Mmel asiɣzef-a i { -vendor-short-name }
+
+## Remote / Synced tabs
+
