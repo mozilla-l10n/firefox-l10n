@@ -624,6 +624,9 @@ library-recent-activity-title =
 
 ## Pocket toolbar button
 
+save-to-pocket-button =
+    .label = { -pocket-brand-name }-ке сақтау
+    .tooltiptext = { -pocket-brand-name }-ке сақтау
 
 ## More items
 
