@@ -4,3 +4,5 @@
 
 add-on-options-button =
     .title = Opções de extensões
+atn-addons-heading-search-input =
+    .placeholder = Pesquisar em addons.thunderbird.net
