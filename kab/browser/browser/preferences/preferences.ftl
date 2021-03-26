@@ -641,6 +641,8 @@ containers-back-button =
             [windows] Uɣal ɣer iɣewwaṛen
            *[other] Uɣal ɣer ismenyifen
         }
+containers-back-button2 =
+    .aria-label = Uɣal ɣer yiɣewwaren
 containers-header = Iccaren imagbaren
 containers-add-button =
     .label = Rnu amagbar-nniḍen
@@ -650,6 +652,8 @@ containers-new-tab-check =
     .accesskey = F
 containers-preferences-button =
     .label = Ismenyifen
+containers-settings-button =
+    .label = Iɣewwaren
 containers-remove-button =
     .label = Kkes
 
@@ -770,6 +774,10 @@ sync-engine-prefs =
         }
     .tooltiptext = Amatu, tabaḍnit, akked yiɣewwaren n tɣellist ttubeddlen
     .accesskey = y
+sync-engine-settings =
+    .label = Iɣewwaren
+    .tooltiptext = Iɣewwaren s umata, n tbaḍnit akked tɣellist i tbeddleḍ
+    .accesskey = i
 
 ## The device name controls.
 
@@ -1184,6 +1192,10 @@ space-alert-under-5gb-ok-button =
     .label = IH awi-t-id
     .accesskey = H
 space-alert-under-5gb-message = Amkan n udebṣi iteddu ad yaweḍ ar { -brand-short-name }. Igburen n usmel web ur d-ttbanen ara akken iwata.  Ddu ar "Issin ugar" akken ad tseggmeḍ aseqdec n udebṣi-ik akken tarmit n tunigin ad tuɣal tfaz.
+space-alert-over-5gb-settings-button =
+    .label = Ldi iɣewwaren
+    .accesskey = L
+space-alert-over-5gb-message2 = <strong>{ -brand-short-name } iteddu ad iεeddi i tallunt n udebṣi. Igburen n usmel web ur d-ttbanen ara akken iwata. Tzemreḍ ad tsefḍeḍ isefka n usmel deg yiɣewwaren > Tabaḍnit & Taɣellist > Inagan n tuqqna d yisefka n usmel.
 
 ## Privacy Section - HTTPS-Only
 

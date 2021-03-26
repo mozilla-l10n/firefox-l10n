@@ -650,7 +650,9 @@ more-menu-go-offline =
 
 eme-notifications-drm-content-playing = Kra n imeslawen neɣ timwaliyin n usmel-a seqdacen aseɣẓan DRM, ayen ad igen talast i tigawin i yessirig { -brand-short-name } ɣef iferdisen-a.
 eme-notifications-drm-content-playing-manage = Sefrek iɣewwaren
+eme-notifications-drm-content-playing-manage-accesskey = M
 eme-notifications-drm-content-playing-dismiss = Zgel
+eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Password save/update panel
 
