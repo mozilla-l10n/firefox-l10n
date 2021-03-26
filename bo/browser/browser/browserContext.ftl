@@ -25,6 +25,10 @@ main-context-menu-back-2 =
     .tooltiptext = དྲ་ངོས་ཤིག་ཕྱིར་ལོག ({ $shortcut })
     .aria-label = ཕྱིར་ལོག
     .accesskey = B
+# This menuitem is only visible on macOS
+main-context-menu-back-mac =
+    .label = ཕྱིར་ལོག
+    .accesskey = B
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -46,6 +50,10 @@ main-context-menu-forward-2 =
     .tooltiptext = དྲ་ངོས་ཤིག་མདུན་སྐྱོད ({ $shortcut })
     .aria-label = མདུན་སྐྱོད
     .accesskey = F
+# This menuitem is only visible on macOS
+main-context-menu-forward-mac =
+    .label = མདུན་སྐྱོད
+    .accesskey = F
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
@@ -56,6 +64,10 @@ toolbar-button-forward-2 =
 main-context-menu-reload =
     .aria-label = བསྐྱར་འཇུག
     .accesskey = R
+# This menuitem is only visible on macOS
+main-context-menu-reload-mac =
+    .label = བསྐྱར་འཇུག
+    .accesskey = R
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
@@ -63,6 +75,10 @@ toolbar-button-reload =
 
 main-context-menu-stop =
     .aria-label = མཚམས་འཇོག
+    .accesskey = S
+# This menuitem is only visible on macOS
+main-context-menu-stop-mac =
+    .label = མཚམས་འཇོག
     .accesskey = S
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
@@ -125,6 +141,11 @@ main-context-menu-save-link =
     .accesskey = k
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+
+## The access keys for "Copy Link" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
@@ -261,6 +282,14 @@ main-context-menu-send-to-device =
 main-context-menu-view-background-image =
     .label = རྒྱབ་ལྗོངས་ཀྱི་པར་རིས་ལྟ་བ
     .accesskey = w
+
+## The access keys for "Use Saved Login" and "Use Saved Password"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+
+##
+
 main-context-menu-keyword =
     .label = འཚོལ་བཤེར་འདི་ལ་གནད་ཚིག་ཞིག་ཁ་སྣོན…
     .accesskey = K
