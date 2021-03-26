@@ -487,6 +487,12 @@ library-bookmarks-menu =
 library-recent-activity-title =
     .value = Фаъолияти охирин
 
+## Pocket toolbar button
+
+save-to-pocket-button =
+    .label = Нигоҳ доштан ба { -pocket-brand-name }
+    .tooltiptext = Нигоҳ доштан ба { -pocket-brand-name }
+
 ## More items
 
 more-menu-go-offline =
@@ -507,3 +513,6 @@ panel-save-update-password = Ниҳонвожа
 # Variables:
 #  $name (String): The name of the addon that will be removed.
 addon-removal-title = { $name }-ро тоза мекунед?
+
+## Remote / Synced tabs
+
