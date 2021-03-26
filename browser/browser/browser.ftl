@@ -656,3 +656,6 @@ addon-removal-abuse-report-checkbox = Rapporter denne udvidelse til { -vendor-sh
 
 ## Remote / Synced tabs
 
+remote-tabs-manage-account =
+    .label = Håndter konto
+remote-tabs-sync-now = Synkroniser nu
