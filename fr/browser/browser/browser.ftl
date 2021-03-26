@@ -674,3 +674,6 @@ addon-removal-abuse-report-checkbox = Signaler cette extension à { -vendor-shor
 
 ## Remote / Synced tabs
 
+remote-tabs-manage-account =
+    .label = Gestion du compte
+remote-tabs-sync-now = Synchroniser maintenant
