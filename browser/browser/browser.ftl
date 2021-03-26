@@ -651,3 +651,6 @@ panel-save-update-password = Geslo
 
 ## Remote / Synced tabs
 
+remote-tabs-manage-account =
+    .label = Upravljanje računa
+remote-tabs-sync-now = Sinhroniziraj zdaj
