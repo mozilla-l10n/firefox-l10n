@@ -162,6 +162,7 @@ about-logins-confirm-remove-all-sync-dialog-title =
 about-logins-confirm-export-dialog-title = Содир кардани воридшавиҳо ва ниҳонвожаҳо
 about-logins-confirm-export-dialog-confirm-button = Содирот…
 about-logins-alert-import-title = Воридот анҷом ёфт
+about-logins-alert-import-message = Дидани ҷамъбасти муфассал оид ба воридот
 confirm-discard-changes-dialog-title = Тағйироти захиранашударо бекор мекунед?
 confirm-discard-changes-dialog-message = Ҳамаи тағироти захиранашуда гум мешаванд.
 confirm-discard-changes-dialog-confirm-button = Рад кардан

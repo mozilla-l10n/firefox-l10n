@@ -73,6 +73,9 @@ network-proxy-connection-learn-more = Маълумоти бештар
 
 ## Home Section - Home Page Customization
 
+choose-bookmark =
+    .label = Истифодаи хатбарак…
+    .accesskey = И
 
 ## Home Section - Firefox Home Content Customization
 

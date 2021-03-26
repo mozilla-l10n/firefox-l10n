@@ -102,6 +102,18 @@ main-context-menu-bookmark-add =
     .aria-label = Гузоштани хатбарак барои ин саҳифа
     .accesskey = Г
     .tooltiptext = Гузоштани хатбарак барои ин саҳифа
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-add-mac =
+    .label = Гузоштани хатбарак барои ин саҳифа
+    .accesskey = Г
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-edit-mac =
+    .label = Таҳрир кардани хатбарак
+    .accesskey = Т
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-add-with-shortcut =

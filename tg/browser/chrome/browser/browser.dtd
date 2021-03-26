@@ -57,6 +57,8 @@ this container is a toolbar. This avoids double-speaking. -->
      sentence to their language. -->
 
 <!ENTITY showAllBookmarks2.label "Намоиш додани ҳамаи хатбаракҳо">
+<!ENTITY recentBookmarks.label "Хатбаракҳои охирин">
+<!ENTITY bookmarksToolbarChevron.tooltip "Намоиш додани хатбаракҳои дигар">
 
 
 
@@ -73,6 +75,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY viewBookmarksToolbar.label         "Намоиш додани навори хатбаракҳо">
 <!ENTITY hideBookmarksToolbar.label         "Пинҳон кардани навори хатбаракҳо">
 <!ENTITY searchBookmarks.label              "Ҷустуҷӯи хатбаракҳо">
+<!ENTITY bookmarkingTools.label             "Воситаҳои хатбаракҳо">
 <!ENTITY addBookmarksMenu.label             "Илова кардани менюи хатбаракҳо ба навори абзорҳо">
 <!ENTITY removeBookmarksMenu.label          "Тоза кардани менюи хатбаракҳо аз навори абзорҳо">
 
@@ -156,6 +159,7 @@ this container is a toolbar. This avoids double-speaking. -->
 
 
 
+<!ENTITY libraryButton.tooltip "Намоиш додани таърих, хатбаракҳои нигоҳдошташуда ва ғайра">
 
 <!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
