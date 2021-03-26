@@ -25,6 +25,10 @@ main-context-menu-back-2 =
     .tooltiptext = Назад на одну сторінку ({ $shortcut })
     .aria-label = Назад
     .accesskey = Н
+# This menuitem is only visible on macOS
+main-context-menu-back-mac =
+    .label = Назад
+    .accesskey = Н
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -46,6 +50,10 @@ main-context-menu-forward-2 =
     .tooltiptext = Вперед на одну сторінку ({ $shortcut })
     .aria-label = Вперед
     .accesskey = В
+# This menuitem is only visible on macOS
+main-context-menu-forward-mac =
+    .label = Вперед
+    .accesskey = В
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
@@ -56,6 +64,10 @@ toolbar-button-forward-2 =
 main-context-menu-reload =
     .aria-label = Оновити
     .accesskey = О
+# This menuitem is only visible on macOS
+main-context-menu-reload-mac =
+    .label = Оновити
+    .accesskey = О
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
@@ -63,6 +75,10 @@ toolbar-button-reload =
 
 main-context-menu-stop =
     .aria-label = Зупинити
+    .accesskey = З
+# This menuitem is only visible on macOS
+main-context-menu-stop-mac =
+    .label = Зупинити
     .accesskey = З
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
