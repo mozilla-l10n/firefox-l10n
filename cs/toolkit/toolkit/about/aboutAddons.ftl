@@ -44,6 +44,21 @@ sidebar-preferences-button-title =
             [neuter] { -brand-short-name(case: "gen") }
            *[other] aplikace
         }
+addons-settings-button =
+    Nastavení { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "gen") }
+        [feminine] { -brand-short-name(case: "gen") }
+        [neuter] { -brand-short-name(case: "gen") }
+       *[other] aplikace
+    }
+sidebar-settings-button-title =
+    .title =
+        Nastavení { -brand-short-name.gender ->
+            [masculine] { -brand-short-name(case: "gen") }
+            [feminine] { -brand-short-name(case: "gen") }
+            [neuter] { -brand-short-name(case: "gen") }
+           *[other] aplikace
+        }
 show-unsigned-extensions-button =
     .label = Některá rozšíření nemohla být ověřena
 show-all-extensions-button =
@@ -426,9 +441,6 @@ addon-detail-private-browsing-disallow = Nepovolit
 addon-badge-recommended2 =
     .title = { -brand-product-name } doporučuje jen rozšíření, která splňují naše standardy pro bezpečnost a výkon
     .aria-label = { addon-badge-recommended2.title }
-addon-badge-line2 =
-    .title = Toto je oficiální rozšíření od tvůrců { -brand-product-name(case: "gen") }
-    .aria-label = { addon-badge-line2.title }
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
