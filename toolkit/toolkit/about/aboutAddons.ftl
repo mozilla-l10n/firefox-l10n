@@ -44,6 +44,10 @@ sidebar-preferences-button-title =
            *[other] Preferenze di { -brand-short-name }
         }
 
+addons-settings-button = Impostazioni di { -brand-short-name }
+sidebar-settings-button-title =
+    .title = Impostazioni di { -brand-short-name }
+
 show-unsigned-extensions-button =
     .label = Non è stato possibile verificare alcune estensioni
 

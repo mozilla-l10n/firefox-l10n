@@ -15,6 +15,8 @@ pref-page-title =
        *[other] Preferenze
     }
 
+settings-page-title = Impostazioni
+
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -30,6 +32,10 @@ search-input-box =
             [windows] Cerca nelle opzioni
            *[other] Cerca nelle preferenze
         }
+
+search-input-box2 =
+    .style = width: 16em
+    .placeholder = Cerca nelle impostazioni
 
 managed-notice = Il browser è gestito dalla propria azienda.
 
@@ -63,6 +69,7 @@ category-experimental =
 pane-experimental-subtitle = Procedere con cautela
 pane-experimental-search-results-header = Esperimenti di { -brand-short-name }: procedere con cautela
 pane-experimental-description = La modifica delle impostazioni avanzate di configurazione può compromettere le prestazioni e la sicurezza di { -brand-short-name }.
+pane-experimental-description2 = La modifica delle impostazioni avanzate di configurazione può compromettere le prestazioni e la sicurezza di { -brand-short-name }.
 
 pane-experimental-reset =
   .label = Ripristina predefiniti
@@ -143,6 +150,7 @@ search-results-empty-message =
         [windows] Siamo spiacenti, nessun risultato trovato per “<span data-l10n-name="query"></span>” nelle opzioni.
        *[other] Siamo spiacenti, nessun risultato trovato per “<span data-l10n-name="query"></span>” nelle preferenze.
     }
+search-results-empty-message2 = Siamo spiacenti, nessun risultato trovato per “<span data-l10n-name="query"></span>” nelle impostazioni.
 
 search-results-help-link = Hai bisogno di aiuto? Visita <a data-l10n-name="url">il sito web di supporto per { -brand-short-name }</a>.
 
@@ -480,9 +488,15 @@ update-application-use-service =
     .accesskey = U
 
 update-setting-write-failure-title = Errore durante il salvataggio delle preferenze
+update-setting-write-failure-title2 = Errore durante il salvataggio delle impostazioni
 
 update-setting-write-failure-message =
     Si è verificato un errore e questa modifica non è stata salvata. Per aggiornare le preferenze è necessario avere i permessi di scrittura sul file indicato in seguito. Dovrebbe essere possibile correggere il problema assegnando al gruppo Utenti il pieno controllo di questo file.
+
+    Impossibile scrivere il file: { $path }
+
+update-setting-write-failure-message2 =
+    Si è verificato un errore e questa modifica non è stata salvata. Per aggiornare le impostazioni è necessario avere i permessi di scrittura sul file indicato in seguito. Dovrebbe essere possibile correggere il problema assegnando al gruppo Utenti il pieno controllo di questo file.
 
     Impossibile scrivere il file: { $path }
 
@@ -723,6 +737,7 @@ search-show-suggestions-private-windows =
     .label = Visualizza suggerimenti di ricerca nelle finestre anonime
 
 suggestions-addressbar-settings-generic = Modifica le impostazioni per altri tipi di suggerimenti nella barra degli indirizzi
+suggestions-addressbar-settings-generic2 = Modifica le impostazioni per altri tipi di suggerimenti nella barra degli indirizzi
 
 search-suggestions-cant-show = I suggerimenti di ricerca non verranno visualizzati tra i risultati della barra degli indirizzi in quanto { -brand-short-name } è configurato per non salvare la cronologia.
 
@@ -765,6 +780,8 @@ containers-back-button =
             [windows] Torna alle opzioni
            *[other] Torna alle preferenze
         }
+containers-back-button2 =
+    .aria-label = Torna alle impostazioni
 containers-header = Schede contenitore
 containers-add-button =
     .label = Aggiungi nuovo contenitore
@@ -776,6 +793,8 @@ containers-new-tab-check =
 
 containers-preferences-button =
     .label = Preferenze
+containers-settings-button =
+    .label = Impostazioni
 containers-remove-button =
     .label = Rimuovi
 
@@ -787,6 +806,7 @@ containers-remove-button =
 
 sync-signedout-caption = Il tuo Web, sempre con te
 sync-signedout-description = Sincronizza segnalibri, cronologia, schede, password, componenti aggiuntivi e impostazioni attraverso tutti i tuoi dispositivi.
+sync-signedout-description2 = Sincronizza segnalibri, cronologia, schede, password, componenti aggiuntivi e impostazioni attraverso tutti i tuoi dispositivi.
 
 sync-signedout-account-signin2 =
     .label = Accedi a { -sync-brand-short-name }…
@@ -843,6 +863,7 @@ prefs-sync-setup =
     .accesskey = C
 
 prefs-sync-offer-setup-label = Sincronizza segnalibri, cronologia, schede, password, componenti aggiuntivi e impostazioni attraverso tutti i tuoi dispositivi.
+prefs-sync-offer-setup-label2 = Sincronizza segnalibri, cronologia, schede, password, componenti aggiuntivi e impostazioni attraverso tutti i tuoi dispositivi.
 
 prefs-sync-now =
     .labelnotsyncing = Sincronizza adesso
@@ -865,6 +886,7 @@ sync-currently-syncing-prefs =
         [windows] Opzioni
        *[other] Preferenze
     }
+sync-currently-syncing-settings = Impostazioni
 
 sync-change-options =
     .label = Cambia…
@@ -919,6 +941,11 @@ sync-engine-prefs =
             [windows] Opzioni
            *[other] Preferenze
         }
+    .tooltiptext = Impostazioni modificate nei pannelli “Generale” e “Privacy e sicurezza”
+    .accesskey = z
+
+sync-engine-settings =
+    .label = Impostazioni
     .tooltiptext = Impostazioni modificate nei pannelli “Generale” e “Privacy e sicurezza”
     .accesskey = z
 
@@ -1395,6 +1422,10 @@ space-alert-over-5gb-pref-button =
             [windows] A
            *[other] A
         }
+
+space-alert-over-5gb-settings-button =
+    .label = Apri impostazioni
+    .accesskey = A
 
 space-alert-over-5gb-message =
     { PLATFORM() ->
