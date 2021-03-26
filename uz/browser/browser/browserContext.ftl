@@ -50,6 +50,10 @@ main-context-menu-forward-2 =
     .tooltiptext = Bir sahifa oldinga oʻtish ({ $shortcut })
     .aria-label = Oldinga
     .accesskey = F
+# This menuitem is only visible on macOS
+main-context-menu-forward-mac =
+    .label = Oldinga
+    .accesskey = F
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
