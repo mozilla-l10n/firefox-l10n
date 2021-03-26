@@ -25,6 +25,10 @@ main-context-menu-back-2 =
     .tooltiptext = Dir p'atrás una páxina ({ $shortcut })
     .aria-label = Atrás
     .accesskey = A
+# This menuitem is only visible on macOS
+main-context-menu-back-mac =
+    .label = Atrás
+    .accesskey = A
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -46,6 +50,10 @@ main-context-menu-forward-2 =
     .tooltiptext = Dir p'alantre una páxina ({ $shortcut })
     .aria-label = Alantre
     .accesskey = l
+# This menuitem is only visible on macOS
+main-context-menu-forward-mac =
+    .label = Alantre
+    .accesskey = l
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
@@ -56,6 +64,10 @@ toolbar-button-forward-2 =
 main-context-menu-reload =
     .aria-label = Volver cargar
     .accesskey = r
+# This menuitem is only visible on macOS
+main-context-menu-reload-mac =
+    .label = Volver cargar
+    .accesskey = r
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
@@ -63,6 +75,10 @@ toolbar-button-reload =
 
 main-context-menu-stop =
     .aria-label = Parar
+    .accesskey = P
+# This menuitem is only visible on macOS
+main-context-menu-stop-mac =
+    .label = Parar
     .accesskey = P
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
