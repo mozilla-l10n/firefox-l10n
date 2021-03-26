@@ -38,6 +38,10 @@ toolbar-button-reload =
 main-context-menu-stop =
     .aria-label = Maja
     .accesskey = M
+# This menuitem is only visible on macOS
+main-context-menu-stop-mac =
+    .label = Maja
+    .accesskey = M
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }{ main-context-menu-stop.aria-label }
 
@@ -58,6 +62,11 @@ toolbar-button-page-save =
 
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+
+## The access keys for "Copy Link" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
@@ -113,3 +122,11 @@ main-context-menu-image-view =
 main-context-menu-image-copy =
     .label = eesa ivatz u  vatzib'ale'
     .accesskey = e
+
+## The access keys for "Use Saved Login" and "Use Saved Password"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+
+##
+
