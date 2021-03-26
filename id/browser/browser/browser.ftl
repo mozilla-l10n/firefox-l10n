@@ -629,6 +629,12 @@ library-bookmarks-menu =
 library-recent-activity-title =
     .value = Aktivitas Terkini
 
+## Pocket toolbar button
+
+save-to-pocket-button =
+    .label = Simpan ke { -pocket-brand-name }
+    .tooltiptext = Simpan ke { -pocket-brand-name }
+
 ## More items
 
 more-menu-go-offline =
@@ -654,3 +660,6 @@ panel-save-update-password = Kata Sandi
 #  $name (String): The name of the addon that will be removed.
 addon-removal-title = Hapus { $name }?
 addon-removal-abuse-report-checkbox = Laporkan ekstensi ini ke { -vendor-short-name }
+
+## Remote / Synced tabs
+
