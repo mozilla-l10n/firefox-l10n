@@ -11,6 +11,7 @@ refresh-profile-description = 从头开始，以修复问题、恢复性能。
 refresh-profile-description-details = 这将：
 refresh-profile-remove = 移除您的附加组件和个性化调整
 refresh-profile-restore = 恢复您的浏览器设置至初始状态
+refresh-profile-dialog-description = 从头再来，以解决性能问题。这将删除您的所有扩展和定制项，但不会丢失书签和密码等重要信息。
 refresh-profile = 保养一下 { -brand-short-name }
 refresh-profile-button = 翻新 { -brand-short-name }…
 refresh-profile-learn-more = 详细了解
