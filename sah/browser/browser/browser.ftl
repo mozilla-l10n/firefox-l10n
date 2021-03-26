@@ -126,6 +126,11 @@ browser-window-minimize-button =
 ## Tab actions
 
 
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+
 ## Bookmarks toolbar items
 
 
@@ -189,11 +194,24 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
-library-bookmarks-bookmark-edit =
-    .label = Бэлиэни уларытыы
+
+## Pocket toolbar button
+
 
 ## More items
 
 more-menu-go-offline =
     .label = Холбоммокко үлэ
     .accesskey = л
+
+## EME notification panel
+
+
+## Password save/update panel
+
+
+## Add-on removal warning
+
+
+## Remote / Synced tabs
+
