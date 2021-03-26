@@ -25,6 +25,10 @@ main-context-menu-back-2 =
     .tooltiptext = یەک پەڕە بچۆ دواوە ({ $shortcut })
     .aria-label = دواوە
     .accesskey = و
+# This menuitem is only visible on macOS
+main-context-menu-back-mac =
+    .label = دواوە
+    .accesskey = و
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -46,6 +50,10 @@ main-context-menu-forward-2 =
     .tooltiptext = یەک پەڕە بچۆ پێشتر ({ $shortcut })
     .aria-label = پێشتر
     .accesskey = پ
+# This menuitem is only visible on macOS
+main-context-menu-forward-mac =
+    .label = پێشتر
+    .accesskey = پ
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
@@ -56,6 +64,10 @@ toolbar-button-forward-2 =
 main-context-menu-reload =
     .aria-label = بارکردنەوە
     .accesskey = ن
+# This menuitem is only visible on macOS
+main-context-menu-reload-mac =
+    .label = بارکردنەوە
+    .accesskey = ن
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
@@ -63,6 +75,10 @@ toolbar-button-reload =
 
 main-context-menu-stop =
     .aria-label = بوەستە
+    .accesskey = ت
+# This menuitem is only visible on macOS
+main-context-menu-stop-mac =
+    .label = بوەستە
     .accesskey = ت
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
@@ -128,6 +144,11 @@ main-context-menu-save-link-to-pocket =
     .accesskey = س
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+
+## The access keys for "Copy Link" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
@@ -275,6 +296,14 @@ main-context-menu-view-background-image =
 main-context-menu-generate-new-password =
     .label = وشەی تێپەڕبوونی بەرهەمهێنراو بەکاربێنە...
     .accesskey = ش
+
+## The access keys for "Use Saved Login" and "Use Saved Password"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+
+##
+
 main-context-menu-keyword =
     .label = کلیلە وشە زیادبکە بۆ ئەم گەڕانە...
     .accesskey = ک
