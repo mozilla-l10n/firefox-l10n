@@ -215,6 +215,11 @@ browser-window-close-button =
 ## Tab actions
 
 
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+
 ## Bookmarks toolbar items
 
 
@@ -287,8 +292,6 @@ pointerlock-warning-no-domain = Dié dokument beheer tans die wyser. Druk Esc om
 
 bookmarks-show-all-bookmarks =
     .label = Wys alle boekmerke
-bookmarks-recent-bookmarks =
-    .value = Onlangs geboekmerk
 bookmarks-toolbar-chevron =
     .tooltiptext = Wys meer boekmerke
 bookmarks-sidebar-content =
@@ -308,10 +311,9 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
-library-bookmarks-bookmark-this-page =
-    .label = Boekmerk hierdie bladsy
-library-bookmarks-bookmark-edit =
-    .label = Redigeer hierdie boekmerk
+
+## Pocket toolbar button
+
 
 ## More items
 
@@ -322,3 +324,12 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Sommige klank of video op dié werf gebruik DRM-sagteware, wat moontlik beperk wat { -brand-short-name } mens toelaat.
+
+## Password save/update panel
+
+
+## Add-on removal warning
+
+
+## Remote / Synced tabs
+
