@@ -674,3 +674,6 @@ addon-removal-abuse-report-checkbox = Emomarandu ko jepysokue rehegua { -vendor-
 
 ## Remote / Synced tabs
 
+remote-tabs-manage-account =
+    .label = Mba’ete Ñangarekoha
+remote-tabs-sync-now = Embojuehe ko’ág̃a
