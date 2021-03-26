@@ -637,6 +637,12 @@ library-bookmarks-menu =
 library-recent-activity-title =
     .value = Veprimtari Së fundi
 
+## Pocket toolbar button
+
+save-to-pocket-button =
+    .label = Ruajeni te { -pocket-brand-name }
+    .tooltiptext = Ruajeni te { -pocket-brand-name }
+
 ## More items
 
 more-menu-go-offline =
@@ -662,3 +668,6 @@ panel-save-update-password = Fjalëkalim
 #  $name (String): The name of the addon that will be removed.
 addon-removal-title = Të hiqet { $name }?
 addon-removal-abuse-report-checkbox = Raportojeni këtë zgjerim te { -vendor-short-name }
+
+## Remote / Synced tabs
+
