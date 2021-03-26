@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 create-profile-window =
-    .title = Помоћник за израду профила
+    .title = Израда профила
     .style = width: 45em; height: 32em;
 
 ## First wizard page
@@ -11,7 +11,7 @@ create-profile-window =
 create-profile-first-page-header =
     { PLATFORM() ->
         [macos] Увод
-       *[other] Добро дошли у { create-profile-window.title }
+       *[other] { create-profile-window.title } – почетак
     }
 profile-creation-explanation-1 = { -brand-short-name } чува податке о вашим поставкама, подешавањима итд. у вашем профилу.
 profile-creation-explanation-2 = Ако делите овај примерак програма { -brand-short-name } са другим корисницима, можете да користите профиле како бисте податке свих корисника чували засебно. Да би ово било могуће, сваки корисник мора да направи сопствени профил.
