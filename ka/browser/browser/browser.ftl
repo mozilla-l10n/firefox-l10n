@@ -671,3 +671,6 @@ addon-removal-abuse-report-checkbox = გაფართოებაზე ს�
 
 ## Remote / Synced tabs
 
+remote-tabs-manage-account =
+    .label = ანგარიშის მართვა
+remote-tabs-sync-now = დასინქრონება ახლავე
