@@ -102,6 +102,18 @@ main-context-menu-bookmark-add =
     .aria-label = Titz'aqatisäx re ruxaq re' pa taq yaketal
     .accesskey = m
     .tooltiptext = Titz'aqatisäx re ruxaq k'amaya'l re' pa taq yaketal
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-add-mac =
+    .label = Yaketal Ruxaq
+    .accesskey = e
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-edit-mac =
+    .label = Tinuk' Yaketal
+    .accesskey = e
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-add-with-shortcut =

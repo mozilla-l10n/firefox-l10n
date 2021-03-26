@@ -19,6 +19,20 @@ newtab-search-box-search-button =
     .title = Tikanöx
     .aria-label = Tikanöx
 newtab-search-box-search-the-web-text = Tikanöx pan Ajk'amaya'l
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-text = Takanoj pa { $engine } o tatz'ib'aj ri rochochib'al
+newtab-search-box-handoff-text-no-engine = Tikanöx chuqa' titz'ib'äx ri ochochib'äl
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-input =
+    .placeholder = Takanoj pa { $engine } o tatz'ib'aj ri rochochib'al
+    .title = Takanoj pa { $engine } o tatz'ib'aj ri rochochib'al
+    .aria-label = Takanoj pa { $engine } o tatz'ib'aj ri rochochib'al
+newtab-search-box-handoff-input-no-engine =
+    .placeholder = Tikanöx chuqa' titz'ib'äx ri ochochib'äl
+    .title = Tikanöx chuqa' titz'ib'äx ri ochochib'äl
+    .aria-label = Tikanöx chuqa' titz'ib'äx ri ochochib'äl
 newtab-search-box-search-the-web-input =
     .placeholder = Tikanöx pan Ajk'amaya'l
     .title = Tikanöx pan Ajk'amaya'l

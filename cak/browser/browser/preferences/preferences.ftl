@@ -28,6 +28,18 @@ search-input-box =
             [windows] Tikanöx pa Taq Cha'oj
            *[other] Tikanöx pa Taq Ajowab'äl
         }
+settings-page-title = Taq Runuk'ulem
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box2 =
+    .style = width: 15.4em
+    .placeholder = Tikanöx pa Runuk'ulem
 managed-notice = Ri awokik'amaya'l ninuk'samajiïx ruma ri amoloj.
 category-list =
     .aria-label = Taq ruwäch
@@ -52,6 +64,7 @@ category-experimental =
 pane-experimental-subtitle = Tachajij awi' chi Rub'anik
 pane-experimental-search-results-header = { -brand-short-name } Taq tojtob'äl: Eqal Tab'ana'
 pane-experimental-description = Kejal ri q'axinäq taq rajowab'al nuk'ulem, nitikïr nutz'ila' rub'eyal nisamäj o ri rujikomal { -brand-short-name }.
+pane-experimental-description2 = Kejal ri q'axinäq taq runuk'ik runuk'ulem, nitikir nutz'ila' rub'eyal nisamäj o ri rujikomal { -brand-short-name }.
 pane-experimental-reset =
     .label = Ke'atzolij ri e K'o wi
     .accesskey = e
@@ -121,6 +134,8 @@ search-results-empty-message =
         [windows] ¡Kojakuyu'! Majun achike xqïl pa Taq Cha'oj richin ri “<span data-l10n-name="query"></span>”.
        *[other] ¡Kojakuyu'! Majun achike xqïl pa Taq Ajowab'äl richin ri “<span data-l10n-name="query"></span>”.
     }
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 = ¡Kojakuyu'! Majun achike xqïl pa taq Runuk'ulem richin ri “<span data-l10n-name="query"></span>”.
 search-results-help-link = ¿La nawajo' ato'ik? Tatz'eta' <a data-l10n-name="url">{ -brand-short-name } To'ïk</a>
 
 ## General Section

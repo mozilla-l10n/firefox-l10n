@@ -11,6 +11,8 @@
 
 ## Application Menu (macOS only)
 
+menu-application-preferences =
+    .label = Taq ajowab'äl
 menu-application-services =
     .label = Taq samaj
 menu-application-hide-this =

@@ -35,6 +35,12 @@ appmenuitem-more-tools =
     .label = Ch'aqa' Samajib'äl
 appmenuitem-exit =
     .label = Tel
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Tel
+           *[other] Tel
+        }
 appmenu-menu-button-closed =
     .tooltiptext = Tijaq Ruk'utsamaj Chokoy
     .label = { -brand-shorter-name }
