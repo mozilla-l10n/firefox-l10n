@@ -30,6 +30,10 @@ toolbar-button-forward-2 =
 main-context-menu-reload =
     .aria-label = Rechargér
     .accesskey = R
+# This menuitem is only visible on macOS
+main-context-menu-reload-mac =
+    .label = Rechargér
+    .accesskey = R
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
@@ -52,6 +56,11 @@ toolbar-button-page-save =
 
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+
+## The access keys for "Copy Link" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
@@ -87,3 +96,11 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = Recondre l’agllèton
     .accesskey = H
+
+## The access keys for "Use Saved Login" and "Use Saved Password"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+
+##
+
