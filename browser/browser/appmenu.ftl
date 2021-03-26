@@ -35,6 +35,12 @@ appmenuitem-more-tools =
     .label = Mai d’aisinas…
 appmenuitem-exit =
     .label = Sortir
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Quitar
+           *[other] Sortir
+        }
 appmenu-menu-button-closed =
     .tooltiptext = Dobrir lo menú d’aplicacion
     .label = { -brand-shorter-name }

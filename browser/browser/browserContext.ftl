@@ -102,6 +102,18 @@ main-context-menu-bookmark-add =
     .aria-label = Marcar aquesta pagina
     .accesskey = m
     .tooltiptext = Marcar aquesta pagina
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-add-mac =
+    .label = Marcar la pagina
+    .accesskey = M
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-edit-mac =
+    .label = Modificar lo marcapagina
+    .accesskey = M
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-add-with-shortcut =
