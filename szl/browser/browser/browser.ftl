@@ -290,6 +290,8 @@ identity-passive-loaded = Party tyj strōny sōm niyzabezpieczōne (bez przikło
 identity-active-loaded = Ôchrōna na tyj strōnie je zastawiōno ôd ciebie.
 identity-weak-encryption = Ta strōna używo słabego szyfrowanio.
 identity-insecure-login-forms = Dane logowanio wkludzōne na tyj strōnie mogōm być wyzdradzōne.
+identity-permissions =
+    .value = Zgody
 identity-https-only-connection-upgraded = (sztajgniynte do HTTPS)
 identity-https-only-label = Tryb "ino HTTPS"
 identity-https-only-dropdown-on =
@@ -301,8 +303,6 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Załōncz tryb "Ino HTTPS" do tyj strōny, jak chcesz, coby aplikacyjo { -brand-short-name } przełōnczała na niego, kej ino idzie.
 identity-https-only-info-turn-off2 = Jak strōna wyglōndo na felerno, może bydziesz chcieć wyłōnczyć tryb "Ino HTTPS" do tyj strōny, coby przeladować jōm we trybie niyzabezpieczōnego HTTP.
 identity-https-only-info-no-upgrade = Niy idzie sztajgnōńć połōnczynio ze HTTP.
-identity-permissions =
-    .value = Zgody
 identity-permissions-storage-access-header = Cookies, co śledzōm miyndzy strōnami
 identity-permissions-storage-access-hint = Te strōny poradzōm używać cookies, co śledzōm cie miyndzy strōnami, i mieć dostymp do danych tyj strōny, jak żeś na nij je.
 identity-permissions-reload-hint = Możno bydzie trza zaladować strōna jeszcze roz, coby wkludzić zmiany.
@@ -350,8 +350,6 @@ browser-window-close-button =
 
 ## Tab actions
 
-browser-tab-audio-playing = Puszczōne
-browser-tab-audio-muted = Wyłōnczōny klang
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-playing2 = PUSZCZANIE
 # This label should be written in all capital letters if your locale supports them.
@@ -360,6 +358,11 @@ browser-tab-audio-muted2 = BEZ KLANGU
 browser-tab-audio-blocked = AUTOPUSZCZANIE JE ZASZPEROWANE
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = ÔBROZ WE ÔBRAZIE
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
 
 ## Bookmarks toolbar items
 
@@ -533,8 +536,6 @@ crashed-subframe-submit =
 
 bookmarks-show-all-bookmarks =
     .label = Pokoż wszyskie zokłodki
-bookmarks-recent-bookmarks =
-    .value = Niydowno przidane
 bookmarks-manage-bookmarks =
     .label = Regiyruj zokłodkami
 bookmarks-recent-bookmarks-panel =
@@ -555,12 +556,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] Skryj posek ze zokłodkami na rancie
            *[other] Pokoż posek ze zokłodkami na rancie
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] Skryj posek ze zokłodkami
-           *[other] Pokoż posek ze zokłodkami
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -607,12 +602,11 @@ bookmarks-current-tab =
 
 library-bookmarks-menu =
     .label = Zokłodki
-library-bookmarks-bookmark-this-page =
-    .label = Przidej ta strōna do zokłodek
-library-bookmarks-bookmark-edit =
-    .label = Edytuj ta zokłodka
 library-recent-activity-title =
     .value = Niydowno aktywność
+
+## Pocket toolbar button
+
 
 ## More items
 
@@ -623,3 +617,12 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Klang abo filmy na tyj strōnie używajōm softwaru DRM, co może zmyńszyć to, co { -brand-short-name } poradzi zrobić.
+
+## Password save/update panel
+
+
+## Add-on removal warning
+
+
+## Remote / Synced tabs
+
