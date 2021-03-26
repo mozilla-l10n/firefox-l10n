@@ -294,6 +294,8 @@ identity-passive-loaded = Arvarus eo lodennoù eus ar bajennad (skeudennoù, da 
 identity-active-loaded = Diweredekaet ho peus ar gwarez war ar bajenn-mañ.
 identity-weak-encryption = Enrinegañ gwan a vez arveret gant ar bajenn-mañ.
 identity-insecure-login-forms = Treuzvarc'het e c'hall bezañ an titouroù kennaskañ enanket er bajenn-mañ.
+identity-permissions =
+    .value = Aotreoù
 identity-https-only-connection-upgraded = (hizivaet da HTTPS)
 identity-https-only-label = Mod HTTPS hepken
 identity-https-only-dropdown-on =
@@ -305,8 +307,6 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Gweredekait ar mod HTTPS hepken evit al lec’hienn-mañ ma fell deoc’h vefe hizivaet ar c‘hennask gant { -brand-short-name } p’eo posupl.
 identity-https-only-info-turn-off2 = Ma seblant bezañ torret ar bajenn e c’hallit diweredekaat ar mod HTTPS hepken evit ma vefe adkarget al lec’hienn gant HTTP diziogel.
 identity-https-only-info-no-upgrade = N'haller ket gwellaat ar c'hennask HTTP.
-identity-permissions =
-    .value = Aotreoù
 identity-permissions-storage-access-header = Toupinoù etrelec'hienn
 identity-permissions-reload-hint = Ret eo deoc'h adkargañ ar bajenn evit arloañ ar c'hemmoù.
 identity-permissions-empty = N'ho peus roet aotre arbennik ebet d'al lec'hienn-mañ.
@@ -353,8 +353,11 @@ browser-window-close-button =
 
 ## Tab actions
 
-browser-tab-audio-playing = O lenn
-browser-tab-audio-muted = Mudet
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
 
 ## Bookmarks toolbar items
 
@@ -518,8 +521,6 @@ crashed-subframe-submit =
 
 bookmarks-show-all-bookmarks =
     .label = Diskouez an holl sinedoù
-bookmarks-recent-bookmarks =
-    .value = Lakaet war ur sined nevez zo
 bookmarks-toolbar-chevron =
     .tooltiptext = Diskouez meur a sined
 bookmarks-sidebar-content =
@@ -535,12 +536,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] Kuzhat barrenn gostez ar sinedoù
            *[other] Gwelout barrenn gostez ar sinedoù
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] Kuzhat barrenn ostilhoù ar sinedoù
-           *[other] Gwelout barrenn ostilhoù ar sinedoù
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -578,12 +573,11 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-menu =
     .label = Sinedoù
-library-bookmarks-bookmark-this-page =
-    .label = Lakaat ur sined war ar bajenn-mañ
-library-bookmarks-bookmark-edit =
-    .label = Embann ar sined-mañ
 library-recent-activity-title =
     .value = Oberiantiz a-nevez
+
+## Pocket toolbar button
+
 
 ## More items
 
@@ -594,3 +588,12 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Bez ez eus aodio ha video war ar bajenn-mañ a arver meziantoù DRM, ar pezh a c'hell bevenniñ ar pezh a vezoc'h laosket gant { -brand-short-name } d'ober ganto.
+
+## Password save/update panel
+
+
+## Add-on removal warning
+
+
+## Remote / Synced tabs
+
