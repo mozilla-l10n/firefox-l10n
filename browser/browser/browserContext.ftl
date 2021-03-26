@@ -76,6 +76,10 @@ toolbar-button-reload =
 main-context-menu-stop =
     .aria-label = أوقف
     .accesskey = ق
+# This menuitem is only visible on macOS
+main-context-menu-stop-mac =
+    .label = أوقف
+    .accesskey = ق
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
