@@ -674,3 +674,6 @@ addon-removal-abuse-report-checkbox = Segnale cheste estension a { -vendor-short
 
 ## Remote / Synced tabs
 
+remote-tabs-manage-account =
+    .label = Gjestìs account
+remote-tabs-sync-now = Sincronize cumò
