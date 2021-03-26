@@ -288,6 +288,8 @@ identity-passive-loaded = قسمت‌هایی از این صفحه امن نیس
 identity-active-loaded = شما محافظت را در این صفحه غیرفعال کرده‌اید.
 identity-weak-encryption = این صفحه از کدگذاری ضعیفی استفاده می‌کند.
 identity-insecure-login-forms = اطلاعات ورودی که در این صفحه وارد می‌کنید می‌توانند فاش شوند.
+identity-permissions =
+    .value = مجوزها
 identity-https-only-connection-upgraded = (ارتقا یافته به HTTPS)
 identity-https-only-label = حالت فقط HTTPS
 identity-https-only-dropdown-on =
@@ -299,8 +301,6 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = اگر می‌خواهید در صورت امکان { -brand-short-name } اتصال را ارتقا دهد، حالت فقط HTTPS را برای این سایت روشن کنید.
 identity-https-only-info-turn-off2 = اگر صفحه خراب به نظر می‌رسد، ممکن است بخواهید حالت فقط HTTPS را برای این سایت خاموش کنید تا سایت در حال غیر امن HTTP بارگیری شود.
 identity-https-only-info-no-upgrade = ارتقا اتصال از HTTP امکان‌پذیر نبود.
-identity-permissions =
-    .value = مجوزها
 identity-permissions-reload-hint = ممکن است لازم باشد که صفحه را برای اعمال تغییرات دوباره بارگیری کنید.
 identity-permissions-empty = شما به این سایت هیچ دسترسی خاصی نداده‌اید.
 identity-clear-site-data =
@@ -346,8 +346,6 @@ browser-window-close-button =
 
 ## Tab actions
 
-browser-tab-audio-playing = در حال پخش
-browser-tab-audio-muted = بی‌صدا
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-playing2 = ‏‏در حال پخش
 # This label should be written in all capital letters if your locale supports them.
@@ -356,6 +354,11 @@ browser-tab-audio-muted2 = بی‌صدا
 browser-tab-audio-blocked = پخش خودکار مسدود شد
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = تصویر در تصویر
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
 
 ## Bookmarks toolbar items
 
@@ -547,8 +550,6 @@ crashed-subframe-submit =
 
 bookmarks-show-all-bookmarks =
     .label = نمایش همهٔ نشانک‌ها
-bookmarks-recent-bookmarks =
-    .value = به تازگی نشانک‌گذاری شده
 bookmarks-manage-bookmarks =
     .label = مدیریت نشانک‌ها
 bookmarks-recent-bookmarks-panel =
@@ -568,12 +569,6 @@ bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
             [true] مخفی کردن نوار کناری نشانک‌ها
-           *[other] نمایش نوار ابزار نشانک‌ها
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] مخفی کردن نوار ابزار نشانک‌ها
            *[other] نمایش نوار ابزار نشانک‌ها
         }
 bookmarks-tools-toolbar-visibility-menuitem =
@@ -621,12 +616,11 @@ bookmarks-current-tab =
 
 library-bookmarks-menu =
     .label = نشانک ها
-library-bookmarks-bookmark-this-page =
-    .label = نشانک‌گذاری این صفحه
-library-bookmarks-bookmark-edit =
-    .label = ویرایش این نشانک
 library-recent-activity-title =
     .value = فعالیت‌های اخیر
+
+## Pocket toolbar button
+
 
 ## More items
 
@@ -653,3 +647,6 @@ panel-save-update-password = گذرواژه
 #  $name (String): The name of the addon that will be removed.
 addon-removal-title = { $name } حذف شود؟
 addon-removal-abuse-report-checkbox = گزارش این افزونه به { -vendor-short-name }
+
+## Remote / Synced tabs
+
