@@ -171,6 +171,11 @@ browser-window-close-button =
 ## Tab actions
 
 
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+
 ## Bookmarks toolbar items
 
 
@@ -228,8 +233,6 @@ pointerlock-warning-no-domain = Dëst Dokument huet d'Kontroll iwwert d'Maus. Dr
 
 bookmarks-show-all-bookmarks =
     .label = All Lieszeeche weisen
-bookmarks-recent-bookmarks =
-    .value = Rezent Lieszeechen
 bookmarks-toolbar-chevron =
     .tooltiptext = Méi Lieszeeche weisen
 bookmarks-sidebar-content =
@@ -255,13 +258,24 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-menu =
     .label = Lieszeechen
-library-bookmarks-bookmark-this-page =
-    .label = E Lieszeechen fir des Säit dobäisetzen
-library-bookmarks-bookmark-edit =
-    .label = Dëst Lieszeechen änneren
+
+## Pocket toolbar button
+
 
 ## More items
 
 more-menu-go-offline =
     .label = Offline schaffen
     .accesskey = k
+
+## EME notification panel
+
+
+## Password save/update panel
+
+
+## Add-on removal warning
+
+
+## Remote / Synced tabs
+
