@@ -35,6 +35,12 @@ appmenuitem-more-tools =
     .label = Інші інструменти
 appmenuitem-exit =
     .label = Вийти
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Вийти
+           *[other] Вийти
+        }
 appmenu-menu-button-closed =
     .tooltiptext = Відкрити меню програми
     .label = { -brand-shorter-name }

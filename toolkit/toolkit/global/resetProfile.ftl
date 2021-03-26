@@ -4,11 +4,14 @@
 
 refresh-profile-dialog =
     .title = Відновити { -brand-short-name }
+refresh-profile-dialog-title = Відновити { -brand-short-name } до типових налаштувань?
 refresh-profile-dialog-button =
     .label = Відновити { -brand-short-name }
 refresh-profile-description = Почніть начисто, щоб розв'язати проблеми та відновити швидкодію.
 refresh-profile-description-details = Це призведе до:
 refresh-profile-remove = Видалення ваших додатків та налаштувань зовнішнього вигляду
 refresh-profile-restore = Відновлення типових налаштувань браузера
+refresh-profile-dialog-description = Розпочніть заново, щоб виправити проблеми зі швидкодією. Це спричинить вилучення ваших розширень та налаштувань. Ви не втратите важливу інформацію, як-от закладки та паролі.
 refresh-profile = Налагодження { -brand-short-name }
 refresh-profile-button = Відновити { -brand-short-name }…
+refresh-profile-learn-more = Докладніше
