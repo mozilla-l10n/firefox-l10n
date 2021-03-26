@@ -285,6 +285,11 @@ browser-window-close-button =
 ## Tab actions
 
 
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+
 ## Bookmarks toolbar items
 
 
@@ -367,8 +372,6 @@ pointerlock-warning-no-domain = Þetta skjal hefur nú stjórnina á bendi. Ýtt
 
 bookmarks-show-all-bookmarks =
     .label = Sýna öll bókamerki
-bookmarks-recent-bookmarks =
-    .value = Nýlega sett í bókamerki
 bookmarks-toolbar-chevron =
     .tooltiptext = Sýna fleiri bókamerki
 bookmarks-sidebar-content =
@@ -384,12 +387,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] Fela bókamerki í hliðslá
            *[other] Birta bókamerki í hliðslá
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] Fela bókamerkjaslá
-           *[other] Skoða bókamerkjaslá
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -420,10 +417,9 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-menu =
     .label = Bókamerki
-library-bookmarks-bookmark-this-page =
-    .label = Setja síðu í bókamerki
-library-bookmarks-bookmark-edit =
-    .label = Breyta bókamerki
+
+## Pocket toolbar button
+
 
 ## More items
 
@@ -434,3 +430,12 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Sumar hljóðskrár eða myndbönd á þessu vefsvæði nota DRM hugbúnað, sem gæti hugsanlega takmarkað hvað { -brand-short-name } getur gert með það efni.
+
+## Password save/update panel
+
+
+## Add-on removal warning
+
+
+## Remote / Synced tabs
+
