@@ -669,3 +669,6 @@ addon-removal-abuse-report-checkbox = דיווח על הרחבה זו ל־{ -ven
 
 ## Remote / Synced tabs
 
+remote-tabs-manage-account =
+    .label = ניהול חשבון
+remote-tabs-sync-now = סנכרון כעת
