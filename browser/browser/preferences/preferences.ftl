@@ -1101,21 +1101,15 @@ space-alert-learn-more-button =
     .label = Сазнајте више
     .accesskey = С
 space-alert-over-5gb-pref-button =
-    .label =
-        { PLATFORM() ->
-            [windows] Отвори подешавања
-           *[other] Отвори подешавања
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] П
-           *[other] П
-        }
+    .label = Отвори подешавања
+    .accesskey = О
 space-alert-over-5gb-message =
-    { PLATFORM() ->
-        [windows] Понестаје слободног простора за { -brand-short-name }. Садржај веб-сајтова се можда неће правилно приказивати. Ускладиштене податке можете обрисати у одељку Подешавања → Приватност и безбедност→ Колачићи и подаци о сајтовима.
-       *[other] Понестаје слободног простора за { -brand-short-name }. Садржај веб-сајтова се можда неће правилно приказивати. Ускладиштене податке можете обрисати у одељку Подешавања → Приватност и безбедност→ Колачићи и подаци о сајтовима.
-    }
+    { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "loc") }
+        [feminine] { -brand-short-name(case: "loc") }
+        [neuter] { -brand-short-name(case: "loc") }
+       *[other] Програму { -brand-short-name }
+    } понестаје слободног простора на диску. Садржај веб-сајтова се можда неће правилно приказивати. Ускладиштене податке можете обрисати у одељку Подешавања → Приватност и безбедност → Колачићи и подаци о сајтовима.
 space-alert-under-5gb-ok-button =
     .label = Разумем
     .accesskey = Р
