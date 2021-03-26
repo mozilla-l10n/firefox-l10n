@@ -34,6 +34,9 @@ sidebar-preferences-button-title =
             [windows] Iɣewwaren n { -brand-short-name }
            *[other] Ismenyifen n { -brand-short-name }
         }
+addons-settings-button = Iɣewwaren n { -brand-short-name }
+sidebar-settings-button-title =
+    .title = Iɣewwaren n { -brand-short-name }
 show-unsigned-extensions-button =
     .label = Kra n iseɣzaf ur ţwasenqeden ara
 show-all-extensions-button =
@@ -377,9 +380,6 @@ addon-detail-private-browsing-disallow = Ur ttaǧǧa ara
 addon-badge-recommended2 =
     .title = { -brand-product-name } ur ittwelleh ala isiɣzaf yemṣadan d yilugan-nneɣ icudden ɣer tɣellist akked timellit.
     .aria-label = { addon-badge-recommended2.title }
-addon-badge-line2 =
-    .title = Asiɣzef-a unṣib i bnan imesnulfuyen n { -brand-product-name }
-    .aria-label = { addon-badge-line2.title }
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
