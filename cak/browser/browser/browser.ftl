@@ -640,6 +640,12 @@ library-bookmarks-menu =
 library-recent-activity-title =
     .value = K'ak'a' Samaj
 
+## Pocket toolbar button
+
+save-to-pocket-button =
+    .label = Tiyak pa { -pocket-brand-name }
+    .tooltiptext = Tiyak pa { -pocket-brand-name }
+
 ## More items
 
 more-menu-go-offline =
@@ -665,3 +671,6 @@ panel-save-update-password = Ewan tzij
 #  $name (String): The name of the addon that will be removed.
 addon-removal-title = ¿La niyuj { $name }?
 addon-removal-abuse-report-checkbox = Tiya' rutzijol re k'amal re' pa { -vendor-short-name }
+
+## Remote / Synced tabs
+
