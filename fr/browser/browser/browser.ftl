@@ -640,6 +640,12 @@ library-bookmarks-menu =
 library-recent-activity-title =
     .value = Activité récente
 
+## Pocket toolbar button
+
+save-to-pocket-button =
+    .label = Enregistrer dans { -pocket-brand-name }
+    .tooltiptext = Enregistrer dans { -pocket-brand-name }
+
 ## More items
 
 more-menu-go-offline =
@@ -665,3 +671,6 @@ panel-save-update-password = Mot de passe
 #  $name (String): The name of the addon that will be removed.
 addon-removal-title = Supprimer { $name } ?
 addon-removal-abuse-report-checkbox = Signaler cette extension à { -vendor-short-name }
+
+## Remote / Synced tabs
+
