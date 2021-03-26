@@ -272,6 +272,11 @@ browser-window-close-button =
 ## Tab actions
 
 
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+
 ## Bookmarks toolbar items
 
 
@@ -352,8 +357,6 @@ pointerlock-warning-no-domain = This document has control of your pointer. Press
 
 bookmarks-show-all-bookmarks =
     .label = ཡན་ལག་ངོས་ཡོངས་སྟོན་པ
-bookmarks-recent-bookmarks =
-    .value = ཉེ་ཆར་བཞག་པའི་ཡིག་རྟགས
 bookmarks-toolbar-chevron =
     .tooltiptext = ཡིག་རྟགས་དེ་ལས་མང་བ་སྟོན་པ
 bookmarks-sidebar-content =
@@ -369,12 +372,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] ཟུར་ངོས་ཡིག་རྟགས་སྐུང་པ
            *[other] ཟུར་ངོས་ཡིག་རྟགས་ལ་ལྟ་བ
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] ཡིག་རྟགས་ལག་ཆའི་ངོས་སྐུང་པ
-           *[other] ཡིག་རྟགས་ལག་ཆའི་ངོས་ལྟ་བ
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -405,10 +402,9 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-menu =
     .label = ཡིག་རྟགས
-library-bookmarks-bookmark-this-page =
-    .label = དྲ་ངོས་འདི་ལ་ཡིག་རྟགས་འཇོག་པ
-library-bookmarks-bookmark-edit =
-    .label = ཡིག་རྟགས་འདི་རྩོམ་སྒྲིག
+
+## Pocket toolbar button
+
 
 ## More items
 
@@ -419,3 +415,12 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Some audio or video on this site uses DRM software, which may limit what { -brand-short-name } can let you do with it.
+
+## Password save/update panel
+
+
+## Add-on removal warning
+
+
+## Remote / Synced tabs
+
