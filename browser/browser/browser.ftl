@@ -613,6 +613,9 @@ library-recent-activity-title =
 
 ## Pocket toolbar button
 
+save-to-pocket-button =
+    .label = { -pocket-brand-name } ਵਿੱਚ ਸੰਭਾਲੋ
+    .tooltiptext = { -pocket-brand-name } ਵਿੱਚ ਸੰਭਾਲੋ
 
 ## More items
 
