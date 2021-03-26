@@ -9,6 +9,16 @@ about-private-browsing-info-title = Sètz sus una fenèstra de navegacion privad
 about-private-browsing-info-myths = Mites màgers de la navegacion privada
 about-private-browsing =
     .title = Recèrca sul web
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff =
+    .title = Recercar amb { $engine } o picar una adreça
+about-private-browsing-handoff-no-engine =
+    .title = Picar un tèrme de recercar o una adreça
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff-text = Recercar amb { $engine } o picar una adreça
+about-private-browsing-handoff-text-no-engine = Picar un tèrme de recercar o una adreça
 about-private-browsing-not-private = Pel moment, sètz pas dins una fenèstra de navegacion privada.
 about-private-browsing-info-description = { -brand-short-name } escafa vòstre istoric de recèrcas e de navegacion quand quitatz l’aplicacion o tampatz totes los onglets e fenèstras de navegacion privada. Malgrat qu’aquò vos faga pas venir anonim pels sites web o vòstre provesidor Internet, fa venir mai simple de gardar privat çò que fasètz en linha pels autres qu’utilizan aqueste ordenador.
 about-private-browsing-need-more-privacy = Volètz mai de confidencialitat ?

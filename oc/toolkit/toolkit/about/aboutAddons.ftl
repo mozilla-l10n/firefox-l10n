@@ -34,6 +34,9 @@ sidebar-preferences-button-title =
             [windows] Opcions { -brand-short-name }
            *[other] Preferéncias { -brand-short-name }
         }
+addons-settings-button = Paramètres de { -brand-short-name }
+sidebar-settings-button-title =
+    .title = Paramètres de { -brand-short-name }
 show-unsigned-extensions-button =
     .label = Unas extensions an pas pogut èsser verificadas
 show-all-extensions-button =
@@ -384,9 +387,6 @@ addon-detail-private-browsing-disallow = Autorizar pas
 addon-badge-recommended2 =
     .title = { -brand-product-name } recomanda pas que las extensions que respèctan nòstres estandards de seguretat e performança
     .aria-label = { addon-badge-recommended2.title }
-addon-badge-line2 =
-    .title = Aquò es l’extension oficiala creada pels creadors de { -brand-product-name }
-    .aria-label = { addon-badge-line2.title }
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
