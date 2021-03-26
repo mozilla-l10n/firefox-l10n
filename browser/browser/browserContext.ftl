@@ -25,6 +25,10 @@ main-context-menu-back-2 =
     .tooltiptext = Tagasi üks leht ({ $shortcut })
     .aria-label = Tagasi
     .accesskey = T
+# This menuitem is only visible on macOS
+main-context-menu-back-mac =
+    .label = Tagasi
+    .accesskey = T
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -46,6 +50,10 @@ main-context-menu-forward-2 =
     .tooltiptext = Edasi üks leht ({ $shortcut })
     .aria-label = Edasi
     .accesskey = E
+# This menuitem is only visible on macOS
+main-context-menu-forward-mac =
+    .label = Edasi
+    .accesskey = E
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
@@ -56,6 +64,10 @@ toolbar-button-forward-2 =
 main-context-menu-reload =
     .aria-label = Laadi uuesti
     .accesskey = L
+# This menuitem is only visible on macOS
+main-context-menu-reload-mac =
+    .label = Laadi uuesti
+    .accesskey = L
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
@@ -63,6 +75,10 @@ toolbar-button-reload =
 
 main-context-menu-stop =
     .aria-label = Peata
+    .accesskey = P
+# This menuitem is only visible on macOS
+main-context-menu-stop-mac =
+    .label = Peata
     .accesskey = P
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
@@ -128,6 +144,11 @@ main-context-menu-save-link-to-pocket =
     .accesskey = l
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+
+## The access keys for "Copy Link" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
@@ -272,6 +293,14 @@ main-context-menu-send-to-device =
 main-context-menu-view-background-image =
     .label = Vaata taustapilti
     .accesskey = s
+
+## The access keys for "Use Saved Login" and "Use Saved Password"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+
+##
+
 main-context-menu-keyword =
     .label = Lisa võti sellele otsingule...
     .accesskey = v
