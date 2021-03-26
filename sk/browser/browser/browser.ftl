@@ -679,3 +679,6 @@ addon-removal-abuse-report-checkbox = Nahlásiť toto rozšírenie spoločnosti 
 
 ## Remote / Synced tabs
 
+remote-tabs-manage-account =
+    .label = Spravovať účet
+remote-tabs-sync-now = Synchronizovať teraz
