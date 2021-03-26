@@ -660,3 +660,6 @@ addon-removal-abuse-report-checkbox = Пожаловаться на это ра�
 
 ## Remote / Synced tabs
 
+remote-tabs-manage-account =
+    .label = Управление аккаунтом
+remote-tabs-sync-now = Синхронизировать
