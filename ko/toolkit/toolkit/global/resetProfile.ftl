@@ -12,3 +12,4 @@ refresh-profile-remove = 부가 기능과 사용자 지정 삭제
 refresh-profile-restore = 브라우저 설정을 기본값으로 복원
 refresh-profile = { -brand-short-name } 조정
 refresh-profile-button = { -brand-short-name } 새로 설정…
+refresh-profile-learn-more = 더 알아보기
