@@ -209,6 +209,11 @@ browser-window-close-button =
 ## Tab actions
 
 
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+
 ## Bookmarks toolbar items
 
 
@@ -286,8 +291,6 @@ pointerlock-warning-no-domain = ເອກະສານນີ້ໄດ້ຄວບ
 
 bookmarks-show-all-bookmarks =
     .label = ສະແດງບຸກມາກທັງຫມົດ
-bookmarks-recent-bookmarks =
-    .value = ຫາກໍບຸກມາກມື້ກີ້ນີ້
 bookmarks-toolbar-chevron =
     .tooltiptext = ສະແດງບຸກມາກເພີ່ມເຕີມ
 bookmarks-sidebar-content =
@@ -303,12 +306,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] ເຊື່ອງແຖບຂ້າງບຸກມາກ
            *[other] ເບິງແຖບຂ້າງບຸກມາກ
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] ເຊື່ອງແຖບເຄື່ອງມືບຸກມາກ
-           *[other] ເບິງແຖບເຄື່ອງມືບຸກມາກ
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -339,10 +336,9 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-menu =
     .label = ບຸກມາກ
-library-bookmarks-bookmark-this-page =
-    .label = ບຸກມາກໜ້ານີ້
-library-bookmarks-bookmark-edit =
-    .label = ແກ້ໄຂບຸກມາກນີ້
+
+## Pocket toolbar button
+
 
 ## More items
 
@@ -353,3 +349,12 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = ສຽງ ຫລື ວີດີໂອບາງສ່ວນໃນເວັບໄຊທ໌ນີ້ໃຊ້ຊອບແວ DRM, ເຊິ່ງອາດຈະຈຳກັດສິ່ງທີ່ { -brand-short-name } ສາມາດໃຫ້ທ່ານເຮັດໄດ້.
+
+## Password save/update panel
+
+
+## Add-on removal warning
+
+
+## Remote / Synced tabs
+
