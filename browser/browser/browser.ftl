@@ -206,6 +206,11 @@ browser-window-close-button =
 ## Tab actions
 
 
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+
 ## Bookmarks toolbar items
 
 
@@ -280,8 +285,6 @@ pointerlock-warning-no-domain = Овој документ ви ја презем
 
 bookmarks-show-all-bookmarks =
     .label = Прикажи ги сите обележувачи
-bookmarks-recent-bookmarks =
-    .value = Неодамна обележани
 bookmarks-toolbar-chevron =
     .tooltiptext = Покажува уште обележувачи
 bookmarks-sidebar-content =
@@ -297,12 +300,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] Скриј странична лента со обележувачи
            *[other] Прикажи странична лента со обележувачи
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] Скриј алатник со обележувачи
-           *[other] Прикажи алатник со обележувачи
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -333,13 +330,24 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-menu =
     .label = Обележувачи
-library-bookmarks-bookmark-this-page =
-    .label = Обележи ја оваа страница
-library-bookmarks-bookmark-edit =
-    .label = Уреди го овој обележувач
+
+## Pocket toolbar button
+
 
 ## More items
 
 more-menu-go-offline =
     .label = Работи локално
     .accesskey = Р
+
+## EME notification panel
+
+
+## Password save/update panel
+
+
+## Add-on removal warning
+
+
+## Remote / Synced tabs
+
