@@ -25,6 +25,10 @@ main-context-menu-back-2 =
     .tooltiptext = წინა გვერდი ({ $shortcut })
     .aria-label = წინა
     .accesskey = წ
+# This menuitem is only visible on macOS
+main-context-menu-back-mac =
+    .label = წინა
+    .accesskey = წ
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -45,6 +49,10 @@ toolbar-button-forward =
 main-context-menu-forward-2 =
     .tooltiptext = მომდევნო გვერდი ({ $shortcut })
     .aria-label = მომდევნო
+    .accesskey = მ
+# This menuitem is only visible on macOS
+main-context-menu-forward-mac =
+    .label = მომდევნო
     .accesskey = მ
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
