@@ -173,6 +173,11 @@ browser-window-close-button =
 ## Tab actions
 
 
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+
 ## Bookmarks toolbar items
 
 
@@ -250,10 +255,9 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
-library-bookmarks-bookmark-this-page =
-    .label = Tshwaya Tsebe e
-library-bookmarks-bookmark-edit =
-    .label = Tseleganya letshwaotsebe le
+
+## Pocket toolbar button
+
 
 ## More items
 
@@ -264,3 +268,12 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Modumo mongwe kgotsa bidio mo saeteng e, e dirisa serweboleta sa DRM se seka lekanyetsang se o { -brand-short-name } ka kgonang go se dira ka yone.
+
+## Password save/update panel
+
+
+## Add-on removal warning
+
+
+## Remote / Synced tabs
+
