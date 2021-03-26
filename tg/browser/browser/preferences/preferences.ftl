@@ -127,6 +127,10 @@ update-in-progress-cancel-button = &Идома додан
 ## General Section - Performance
 
 performance-settings-learn-more = Маълумоти бештар
+# Variables:
+#   $num - default value of the `dom.ipc.processCount` pref.
+performance-default-content-process-count =
+    .label = { $num } (пешфарз)
 
 ## General Section - Browsing
 
@@ -143,6 +147,17 @@ network-proxy-connection-learn-more = Маълумоти бештар
 
 ## Home Section - Home Page Customization
 
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Истифодаи саҳифаи ҷорӣ
+           *[other] Истифодаи саҳифаҳои ҷорӣ
+        }
+    .accesskey = И
 choose-bookmark =
     .label = Истифодаи хатбарак…
     .accesskey = И
@@ -153,6 +168,8 @@ choose-bookmark =
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+home-prefs-recommended-by-header =
+    .label = Аз тарафи { $provider } тавсия карда мешавад
 
 ##
 
@@ -188,6 +205,11 @@ sync-remove-account =
 
 sync-currently-syncing-bookmarks = Хатбаракҳо
 sync-currently-syncing-tabs = Варақаҳои кушодашуда
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] Имконот
+       *[other] Хусусиятҳо
+    }
 
 ## The "Choose what to sync" dialog.
 
@@ -213,6 +235,14 @@ sync-engine-addresses =
     .label = Нишониҳо
     .tooltiptext = Нишониҳои почтае, ки нигоҳ дошта шуданд (танҳо мизи корӣ)
     .accesskey = Н
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Имконот
+           *[other] Хусусиятҳо
+        }
+    .tooltiptext = Танзимоти умумӣ, махфият ва амнияте, ки шумо иваз кардед
+    .accesskey = И
 
 ## The device name controls.
 
@@ -228,6 +258,9 @@ sync-device-name-save =
 
 ## Privacy Section - Logins and Passwords
 
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = Воридшавиҳо ва ниҳонвожаҳо
+    .searchkeywords = { -lockwise-brand-short-name }
 forms-breach-alerts-learn-more-link = Маълумоти бештар
 forms-saved-logins =
     .label = Воридшавиҳои нигоҳдошташуда…
@@ -236,6 +269,7 @@ forms-primary-pw-learn-more-link = Маълумоти бештар
 
 ## OS Authentication dialog
 
+master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
 
