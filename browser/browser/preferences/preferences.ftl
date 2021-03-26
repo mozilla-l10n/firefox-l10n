@@ -8,11 +8,7 @@ do-not-track-option-default-content-blocking-known =
     .label = Само када је { -brand-short-name } подешен да блокира познате пратиоце
 do-not-track-option-always =
     .label = Увек
-pref-page-title =
-    { PLATFORM() ->
-        [windows] Подешавања
-       *[other] Подешавања
-    }
+pref-page-title = Подешавања
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -22,12 +18,8 @@ pref-page-title =
 # is the name of the CSS property. It is intended only to adjust the element's width.
 # Do not translate.
 search-input-box =
+    .placeholder = Пронађите у подешавањима
     .style = width: 15.4em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] Пронађите у подешавањима
-           *[other] Пронађите у подешавањима
-        }
 managed-notice = Вашим прегледачем управља ваша организација.
 category-list =
     .aria-label = Категорије
