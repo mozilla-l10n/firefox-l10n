@@ -38,8 +38,11 @@ printui-scale-fit-to-page-width = Ṣeggem almend n tehri n tferkit
 printui-scale-pcent = Sellum
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Asiggez ɣef sin wudmawen
-printui-duplex-checkbox = Siggez ɣef sin wudmawen
 printui-two-sided-printing-off = Yensa
+# Flip the sheet as if it were bound along its long edge.
+printui-two-sided-printing-long-edge = Uɣal ɣer tama ɣezzifen
+# Flip the sheet as if it were bound along its short edge.
+printui-two-sided-printing-short-edge = Uɣal ɣer tama wezzilen
 # Section title for miscellaneous print options
 printui-options = Iɣewwaren
 printui-headers-footers-checkbox = Siggez iqerra d yiḍarren n usebter
@@ -53,6 +56,7 @@ printui-margins-default = Amezwer
 printui-margins-min = Adday
 printui-margins-none = Ulac
 printui-margins-custom-inches = Sagen (idebbuzen)
+printui-margins-custom-mm = Aggan (mm)
 printui-margins-custom-top = Afellay
 printui-margins-custom-top-inches = Afellay (idebbuzen)
 printui-margins-custom-bottom = Adday
