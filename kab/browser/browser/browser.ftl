@@ -666,3 +666,6 @@ addon-removal-abuse-report-checkbox = Mmel asiɣzef-a i { -vendor-short-name }
 
 ## Remote / Synced tabs
 
+remote-tabs-manage-account =
+    .label = Sefrek amiḍan
+remote-tabs-sync-now = Mtawi tura
