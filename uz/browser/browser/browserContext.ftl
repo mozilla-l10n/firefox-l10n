@@ -25,6 +25,10 @@ main-context-menu-back-2 =
     .tooltiptext = Bir sahifa orqaga qaytish ({ $shortcut })
     .aria-label = Orqaga
     .accesskey = B
+# This menuitem is only visible on macOS
+main-context-menu-back-mac =
+    .label = Orqaga
+    .accesskey = B
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -56,6 +60,10 @@ toolbar-button-forward-2 =
 main-context-menu-reload =
     .aria-label = Qayta yuklash
     .accesskey = R
+# This menuitem is only visible on macOS
+main-context-menu-reload-mac =
+    .label = Qayta yuklash
+    .accesskey = R
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
@@ -63,6 +71,10 @@ toolbar-button-reload =
 
 main-context-menu-stop =
     .aria-label = To‘xtatish
+    .accesskey = S
+# This menuitem is only visible on macOS
+main-context-menu-stop-mac =
+    .label = To‘xtatish
     .accesskey = S
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
@@ -128,6 +140,11 @@ main-context-menu-save-link-to-pocket =
     .accesskey = o
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+
+## The access keys for "Copy Link" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
@@ -275,6 +292,14 @@ main-context-menu-view-background-image =
 main-context-menu-generate-new-password =
     .label = Yaratilgan paroldan foydalanish
     .accesskey = Y
+
+## The access keys for "Use Saved Login" and "Use Saved Password"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+
+##
+
 main-context-menu-keyword =
     .label = Ushbu qidiruv uchun kalit soʻzni qoʻshish…
     .accesskey = k
