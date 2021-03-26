@@ -270,14 +270,14 @@ identity-passive-loaded = اس صفحے کے حصے قابل بھروسا نہی
 identity-active-loaded = آپ نے اس صفحے پر حفاظت نا اہل بنا دی ہے۔
 identity-weak-encryption = یہ صفحہ کمزور خفیہ کاری استعمال کرتا ہے۔
 identity-insecure-login-forms = اس صفحہ پر داخل کردہ لاگ ان اشتباہ کیا جا سکتا ہے۔
+identity-permissions =
+    .value = اجازتیں
 identity-https-only-dropdown-on =
     .label = چالو
 identity-https-only-dropdown-off =
     .label = بند
 identity-https-only-dropdown-off-temporarily =
     .label = عارضی طور پر بندکریں
-identity-permissions =
-    .value = اجازتیں
 identity-permissions-reload-hint = تبدیلی کو لگانے کے لیئے آپکو صفحہ کو دوبارہ لوڈ کرنے کی شاید ظرورت ہو۔
 identity-permissions-empty = آپ نے اس سائٹ کو کوئی خاص اجازتیں نہیں دیں ہے۔
 identity-clear-site-data =
@@ -321,6 +321,11 @@ browser-window-close-button =
     .tooltiptext = بند کریں
 
 ## Tab actions
+
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
 
 
 ## Bookmarks toolbar items
@@ -438,8 +443,6 @@ pointerlock-warning-no-domain = اس دستاویز کہ پاس آپ کہ نشا
 
 bookmarks-show-all-bookmarks =
     .label = تمام بک مارک دکھائیں
-bookmarks-recent-bookmarks =
-    .value = حالیہ بک مارک کردہ
 bookmarks-toolbar-chevron =
     .tooltiptext = مزید بک مارک دکھائیں
 bookmarks-sidebar-content =
@@ -455,12 +458,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] بک مارک سائڈبار چھپائیں
            *[other] بغلی بار میں بک مارک دیکھیں
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] بک مارک ٹولبار چھپائیں
-           *[other] بک مارک ٹولبار دیکھیں
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -501,12 +498,11 @@ bookmarks-current-tab =
 
 library-bookmarks-menu =
     .label = بک مارک
-library-bookmarks-bookmark-this-page =
-    .label = یہ صفحہ نشان زد کریں
-library-bookmarks-bookmark-edit =
-    .label = اس بک مارک کی تدوین کریں
 library-recent-activity-title =
     .value = حالیہ سرگرمی
+
+## Pocket toolbar button
+
 
 ## More items
 
@@ -517,3 +513,12 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = اس سائٹ پر کچھ آڈیو یا وڈیو DRM سافٹ ویئر استعمال کرتی ہے جس کی وجہ سے جو { -brand-short-name } اس کے ساتھ آپ کو کرنے دے گا، اس پر کچھ حدود ہوں گی۔
+
+## Password save/update panel
+
+
+## Add-on removal warning
+
+
+## Remote / Synced tabs
+
