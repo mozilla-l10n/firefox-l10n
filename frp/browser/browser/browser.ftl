@@ -115,6 +115,11 @@ identity-remove-cert-exception =
 ## Tab actions
 
 
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+
 ## Bookmarks toolbar items
 
 
@@ -153,12 +158,6 @@ bookmarks-tools-sidebar-visibility =
             [true] Recondre la barra latèrala de marca-pâge
            *[other] &Bârra de mârca pâges
         }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] Recondre la barra d’otils de mârca pâges
-           *[other] &Bârra de mârca pâges
-        }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
         { $isVisible ->
@@ -171,5 +170,20 @@ bookmarks-toolbar-menu =
 ## Library Panel items
 
 
+## Pocket toolbar button
+
+
 ## More items
+
+
+## EME notification panel
+
+
+## Password save/update panel
+
+
+## Add-on removal warning
+
+
+## Remote / Synced tabs
 
