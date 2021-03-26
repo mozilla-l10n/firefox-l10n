@@ -7,7 +7,9 @@ unknowncontenttype-handleinternally =
     .accesskey = е
 unknowncontenttype-settingschange =
     .value =
-        { PLATFORM() ->
-            [windows] Подешавања могу да се промене у { -brand-short-name } поставкама.
-           *[other] Подешавања могу да се промене у { -brand-short-name } поставкама.
-        }
+        Параметре можете да промените у подешавањима { -brand-short-name.gender ->
+            [masculine] { -brand-short-name(case: "gen") }
+            [feminine] { -brand-short-name(case: "gen") }
+            [neuter] { -brand-short-name(case: "gen") }
+           *[other] програма { -brand-short-name }
+        }.
