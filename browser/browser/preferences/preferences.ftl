@@ -380,7 +380,16 @@ update-setting-write-failure-title = Error en enregistrant las preferéncias de 
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message =
-    { -brand-short-name } a rencontrat una error e pas enregistrat aquesta modificacion. Notatz que modificar aqueste preferéncia de mesa a jorn requerís la permission d’escriure sul fichièr çai-jos. Vosautres o un administrator sistèma podètz benlèu corregir aquò en donant al grop Users l’accès complet a aqueste fichièr.
+    { -brand-short-name } a rencontrat una error e pas enregistrat aquesta modificacion. Notatz que modificar aquesta preferéncia de mesa a jorn requerís la permission d’escriure sul fichièr çai-jos. Vosautres o un administrator sistèma podètz benlèu corregir aquò en donant al grop Users l’accès complet a aqueste fichièr.
+    
+    Escritura impossibla sul fichièr : { $path }
+update-setting-write-failure-title2 = Error en enregistrant los paramètres de mesas a jorn
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message2 =
+    { -brand-short-name } a rencontrat una error e a pas enregistrat aquesta modificacion. Notatz que definir aqueste paramètre de mesa a jorn requerís la permission d’escriure sul fichièr çai-jos. Vosautres o un administrator sistèma podètz benlèu corregir aquò en donant al grop Users l’accès complet a aqueste fichièr.
     
     Escritura impossibla sul fichièr : { $path }
 update-in-progress-title = Actualizacion en cors
@@ -1160,6 +1169,9 @@ space-alert-under-5gb-ok-button =
     .label = Òc, plan comprés
     .accesskey = O
 space-alert-under-5gb-message = { -brand-short-name } a pas mai d'espaci disc. Los contenguts del site web pòdon s'afichar pas coma cal. Clicatz « Ne saber mai » per optimizar l'utilizacion de vòstre disc per melhorar la navegacion.
+space-alert-over-5gb-settings-button =
+    .label = Dobrir los paramètres
+    .accesskey = D
 
 ## Privacy Section - HTTPS-Only
 
