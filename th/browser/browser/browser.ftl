@@ -663,3 +663,6 @@ addon-removal-abuse-report-checkbox = รายงานส่วนขยาย
 
 ## Remote / Synced tabs
 
+remote-tabs-manage-account =
+    .label = จัดการบัญชี
+remote-tabs-sync-now = ซิงค์ตอนนี้
