@@ -4,3 +4,5 @@
 
 add-on-options-button =
     .title = Dewisiadau Ychwanegion
+atn-addons-heading-search-input =
+    .placeholder = Chwilio addons.thunderbird.net
