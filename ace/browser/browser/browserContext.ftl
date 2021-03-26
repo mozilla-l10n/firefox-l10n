@@ -30,6 +30,10 @@ toolbar-button-forward-2 =
 main-context-menu-reload =
     .aria-label = Peuhah keulayi
     .accesskey = R
+# This menuitem is only visible on macOS
+main-context-menu-reload-mac =
+    .label = Peuhah keulayi
+    .accesskey = R
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
@@ -58,6 +62,11 @@ main-context-menu-save-link =
     .accesskey = k
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+
+## The access keys for "Copy Link" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
@@ -96,6 +105,14 @@ main-context-menu-image-copy =
 main-context-menu-send-to-device =
     .label = Peu'ét Laman u Alat
     .accesskey = n
+
+## The access keys for "Use Saved Login" and "Use Saved Password"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+
+##
+
 main-context-menu-link-send-to-device =
     .label = Peu'ét Peunawôt u Alat
     .accesskey = n
