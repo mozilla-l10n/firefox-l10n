@@ -629,6 +629,12 @@ library-bookmarks-menu =
 library-recent-activity-title =
     .value = 近期動態
 
+## Pocket toolbar button
+
+save-to-pocket-button =
+    .label = 儲存至 { -pocket-brand-name }
+    .tooltiptext = 儲存至 { -pocket-brand-name }
+
 ## More items
 
 more-menu-go-offline =
@@ -654,3 +660,6 @@ panel-save-update-password = 密碼
 #  $name (String): The name of the addon that will be removed.
 addon-removal-title = 要移除 { $name } 嗎？
 addon-removal-abuse-report-checkbox = 回報此擴充套件給 { -vendor-short-name }
+
+## Remote / Synced tabs
+
