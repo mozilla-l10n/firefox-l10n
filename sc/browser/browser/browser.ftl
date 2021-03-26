@@ -146,6 +146,11 @@ browser-window-close-button =
 ## Tab actions
 
 
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+
 ## Bookmarks toolbar items
 
 
@@ -197,8 +202,6 @@ fullscreen-exit-mac-button = Essi dae sa mannària prena (esc)
 
 bookmarks-show-all-bookmarks =
     .label = Ammustra totu sos signa-libros
-bookmarks-recent-bookmarks =
-    .value = Postu de reghente in sos signa-libros
 bookmarks-toolbar-chevron =
     .tooltiptext = Ammustra àteros signa-libros
 bookmarks-sidebar-content =
@@ -218,10 +221,21 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
-library-bookmarks-bookmark-this-page =
-    .label = Pone custa pàgina in sos signa-libros
-library-bookmarks-bookmark-edit =
-    .label = Modìfica custu signa-libru
+
+## Pocket toolbar button
+
 
 ## More items
+
+
+## EME notification panel
+
+
+## Password save/update panel
+
+
+## Add-on removal warning
+
+
+## Remote / Synced tabs
 
