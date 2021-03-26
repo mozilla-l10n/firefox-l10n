@@ -568,6 +568,12 @@ bookmarks-toolbar-placeholder-button =
 library-bookmarks-menu =
     .label = Отметки
 
+## Pocket toolbar button
+
+save-to-pocket-button =
+    .label = Запазване в { -pocket-brand-name }
+    .tooltiptext = Запазване в { -pocket-brand-name }
+
 ## More items
 
 more-menu-go-offline =
@@ -584,4 +590,7 @@ eme-notifications-drm-content-playing-dismiss-accesskey = р
 
 
 ## Add-on removal warning
+
+
+## Remote / Synced tabs
 
