@@ -25,6 +25,10 @@ main-context-menu-back-2 =
     .tooltiptext = Jedna strōna nazod ({ $shortcut })
     .aria-label = Nazod
     .accesskey = N
+# This menuitem is only visible on macOS
+main-context-menu-back-mac =
+    .label = Nazod
+    .accesskey = N
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -46,6 +50,10 @@ main-context-menu-forward-2 =
     .tooltiptext = Jedna strōna do przodku ({ $shortcut })
     .aria-label = Do przodku
     .accesskey = P
+# This menuitem is only visible on macOS
+main-context-menu-forward-mac =
+    .label = Do przodku
+    .accesskey = P
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
@@ -55,6 +63,10 @@ toolbar-button-forward-2 =
 
 main-context-menu-reload =
     .aria-label = Przeladuj
+    .accesskey = P
+# This menuitem is only visible on macOS
+main-context-menu-reload-mac =
+    .label = Przeladuj
     .accesskey = P
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
@@ -111,9 +123,6 @@ main-context-menu-open-link-new-tab =
 main-context-menu-open-link-container-tab =
     .label = Ôtwōrz link we nowyj kōntynerowyj karcie
     .accesskey = r
-main-context-menu-open-link-container =
-    .label = Ôdewrzij link we nowym kōntynerze
-    .accesskey = w
 main-context-menu-open-link-new-window =
     .label = Ôtwōrz link we nowym ôknie
     .accesskey = N
@@ -301,6 +310,14 @@ main-context-menu-view-background-image =
 main-context-menu-generate-new-password =
     .label = Użyj wygenerowanego hasła…
     .accesskey = G
+
+## The access keys for "Use Saved Login" and "Use Saved Password"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+
+##
+
 main-context-menu-keyword =
     .label = Przidej kluczowe słowo do tego wyszukowanio…
     .accesskey = K
