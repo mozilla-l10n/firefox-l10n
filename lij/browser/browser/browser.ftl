@@ -302,6 +302,11 @@ browser-window-close-button =
 ## Tab actions
 
 
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+
 ## Bookmarks toolbar items
 
 
@@ -392,8 +397,6 @@ pointerlock-warning-no-domain = Sto documento o l'à o contròllo do teu pontat�
 
 bookmarks-show-all-bookmarks =
     .label = Fanni vedde tutti i segnalibbri
-bookmarks-recent-bookmarks =
-    .value = Segnalibbri reçenti
 bookmarks-toolbar-chevron =
     .tooltiptext = Fanni vedde ciù segnalibbri
 bookmarks-sidebar-content =
@@ -409,12 +412,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] Ascondi bara di segnalibbri
            *[other] Veddi a bara de scianco segnalibbri
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] Ascondi bara di segnalibbri
-           *[other] Fanni vedde a bara di segnalibbri
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -445,10 +442,9 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-menu =
     .label = Segnalibbri
-library-bookmarks-bookmark-this-page =
-    .label = Azonzi questa pagina a-i segnalibbri
-library-bookmarks-bookmark-edit =
-    .label = Cangia segnalibbro
+
+## Pocket toolbar button
+
 
 ## More items
 
@@ -459,3 +455,12 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Quarche contegnuo aodio ò video in sto scito deuvia software DRM. Porieivan esighe de limitaçioin a-e açioin pe l’utente in { -brand-short-name }.
+
+## Password save/update panel
+
+
+## Add-on removal warning
+
+
+## Remote / Synced tabs
+
