@@ -210,6 +210,11 @@ browser-window-close-button =
 ## Tab actions
 
 
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+
 ## Bookmarks toolbar items
 
 
@@ -304,13 +309,24 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-menu =
     .label = बुकमाकॅफोर
-library-bookmarks-bookmark-this-page =
-    .label = बे बिलाइखौ बुकमार्क हो...
-library-bookmarks-bookmark-edit =
-    .label = बे बुकमार्कखौ सुजु
+
+## Pocket toolbar button
+
 
 ## More items
 
 more-menu-go-offline =
     .label = खामानि अफलाइन
     .accesskey = k
+
+## EME notification panel
+
+
+## Password save/update panel
+
+
+## Add-on removal warning
+
+
+## Remote / Synced tabs
+
