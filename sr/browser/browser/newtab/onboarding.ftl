@@ -168,7 +168,13 @@ onboarding-multistage-welcome-secondary-button-label = Пријавите се
 onboarding-multistage-welcome-secondary-button-text = Имате налог?
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "default" should stay inside the span.
-onboarding-multistage-set-default-header = Поставите { -brand-short-name } као <span data-l10n-name="zap">подразумевани</span>
+onboarding-multistage-set-default-header =
+    Поставите { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "acc") }
+        [feminine] { -brand-short-name(case: "acc") }
+        [neuter] { -brand-short-name(case: "acc") }
+       *[other] програм { -brand-short-name }
+    } као <span data-l10n-name="zap">подразумевани</span>
 onboarding-multistage-set-default-subtitle = Брзина, сигурност и приватност сваки пут када прегледате.
 onboarding-multistage-set-default-primary-button-label = Постави као подразумевани
 onboarding-multistage-set-default-secondary-button-label = Не сада
