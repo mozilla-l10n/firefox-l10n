@@ -532,6 +532,9 @@ library-bookmarks-menu =
 
 ## Pocket toolbar button
 
+save-to-pocket-button =
+    .label = Salvează în { -pocket-brand-name }
+    .tooltiptext = Salvează în { -pocket-brand-name }
 
 ## More items
 
