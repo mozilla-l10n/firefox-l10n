@@ -35,6 +35,12 @@ appmenuitem-more-tools =
     .label = 더 많은 도구
 appmenuitem-exit =
     .label = 종료
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] 종료
+           *[other] 종료
+        }
 appmenu-menu-button-closed =
     .tooltiptext = 애플리케이션 메뉴 열기
     .label = { -brand-shorter-name }

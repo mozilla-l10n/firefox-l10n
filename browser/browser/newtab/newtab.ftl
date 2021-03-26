@@ -19,6 +19,20 @@ newtab-search-box-search-button =
     .title = 검색
     .aria-label = 검색
 newtab-search-box-search-the-web-text = 웹 검색
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-text = { $engine } 검색 또는 주소 입력
+newtab-search-box-handoff-text-no-engine = 검색어 또는 주소 입력
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-input =
+    .placeholder = { $engine } 검색 또는 주소 입력
+    .title = { $engine } 검색 또는 주소 입력
+    .aria-label = { $engine } 검색 또는 주소 입력
+newtab-search-box-handoff-input-no-engine =
+    .placeholder = 검색어 또는 주소 입력
+    .title = 검색어 또는 주소 입력
+    .aria-label = 검색어 또는 주소 입력
 newtab-search-box-search-the-web-input =
     .placeholder = 웹 검색
     .title = 웹 검색
