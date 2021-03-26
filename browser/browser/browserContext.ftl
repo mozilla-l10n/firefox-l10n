@@ -64,6 +64,10 @@ toolbar-button-forward-2 =
 main-context-menu-reload =
     .aria-label = Ponovno naloži
     .accesskey = P
+# This menuitem is only visible on macOS
+main-context-menu-reload-mac =
+    .label = Ponovno naloži
+    .accesskey = P
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
@@ -71,6 +75,10 @@ toolbar-button-reload =
 
 main-context-menu-stop =
     .aria-label = Ustavi
+    .accesskey = U
+# This menuitem is only visible on macOS
+main-context-menu-stop-mac =
+    .label = Ustavi
     .accesskey = U
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
