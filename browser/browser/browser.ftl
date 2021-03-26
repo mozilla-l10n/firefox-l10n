@@ -674,3 +674,6 @@ addon-removal-abuse-report-checkbox = A kiegészítő jelentése a { -vendor-sho
 
 ## Remote / Synced tabs
 
+remote-tabs-manage-account =
+    .label = Fiók kezelése
+remote-tabs-sync-now = Szinkronizálás most
