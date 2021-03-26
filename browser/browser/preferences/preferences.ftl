@@ -630,6 +630,8 @@ containers-back-button =
             [windows] 返回“选项”
            *[other] 返回“首选项”
         }
+containers-back-button2 =
+    .aria-label = 回到设置
 containers-header = 身份标签页
 containers-add-button =
     .label = 添加新身份
