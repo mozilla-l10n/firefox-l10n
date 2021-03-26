@@ -288,6 +288,8 @@ identity-passive-loaded = ਇਸ ਸਫ਼ੇ ਦੇ ਕੁਝ ਭਾਗ ਸੁਰ�
 identity-active-loaded = ਤੁਸੀਂ ਇਸ ਸਫ਼ੇ ਉੱਤੇ ਸੁਰੱਖਿਆ ਨੂੰ ਅਸਮਰੱਥ ਕਰ ਚੁੱਕੇ ਹੋ।
 identity-weak-encryption = ਇਹ ਸਫ਼ਾ ਕਮਜ਼ੋਰ ਇੰਕ੍ਰਿਪਸ਼ਨ ਵਰਤਦਾ ਹੈ।
 identity-insecure-login-forms = ਇਸ ਸਫ਼ੇ ਉੱਤੇ ਦਿੱਤੇ ਲਾਗਇਨਾਂ ਦੀ ਗਲਤ ਵਰਤੋ ਹੋ ਸਕਦੀ ਹੈ।
+identity-permissions =
+    .value = ਇਜਾਜ਼ਤਾਂ
 identity-https-only-connection-upgraded = (HTTPS ਲਈ ਅੱਪਗਰੇਡ ਕੀਤਾ)
 identity-https-only-label = ਸਿਰਫ਼-HTTPS ਹੀ ਮੋਡ
 identity-https-only-dropdown-on =
@@ -303,8 +305,6 @@ identity-https-only-info-turn-off2 =
     ਜੇ ਸਫ਼ਾ ਠੀਕ ਤਰ੍ਹਾਂ ਕੰਮ ਨਹੀਂ ਕਰਦਾ ਤਾਂ ਤੁਸੀਂ ਇਸ ਸਾਈਟ ਨੂੰ ਅਸੁਰੱਖਿਅਤ HTTP
     ਰਾਹੀਂ ਮੁੜ-ਲੋਡ ਕਰਨ ਵਾਸਤੇ ਸਿਰਫ਼-HTTPS ਮੋਡ ਨੂੰ ਬੰਦ ਕਰਕੇ ਵੇਖ ਸਕਦੇ ਹੋ।
 identity-https-only-info-no-upgrade = HTTP ਤੋਂ ਕਨੈਕਸ਼ਨ ਅੱਪਗਰੇਡ ਕਰਨ ਅਸਮਰੱਥ ਹੈ।
-identity-permissions =
-    .value = ਇਜਾਜ਼ਤਾਂ
 identity-permissions-storage-access-header = ਅੰਤਰ-ਸਾਈਟ ਕੂਕੀਜ਼
 identity-permissions-storage-access-hint =
     ਤੁਹਾਡੇ ਵਲੋਂ ਇਸ ਸਾਈਟ ਖੋਲ੍ਹਣ ਦੇ ਦੌਰਾਨ ਇਹ ਧਿਰਾਂ ਅੰਤਰ-ਸਾਈਟ ਕੂਕੀਜ਼ ਤੇ ਸਾਈਟ ਡਾਟੇ ਨੂੰ
@@ -354,8 +354,6 @@ browser-window-close-button =
 
 ## Tab actions
 
-browser-tab-audio-playing = ਚੱਲ ਰਿਹਾ ਹੈ
-browser-tab-audio-muted = ਮੌਨ ਹੈ
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-playing2 = ਚੱਲ ਰਿਹਾ ਹੈ
 # This label should be written in all capital letters if your locale supports them.
@@ -364,6 +362,11 @@ browser-tab-audio-muted2 = ਮੌਨ ਕੀਤਾ
 browser-tab-audio-blocked = ਆਪੇ-ਚੱਲਣ ਉੱਤੇ ਰੋਕ ਲੱਗੀ
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = ਤਸਵੀਰ-ਵਿੱਚ-ਤਸਵੀਰ
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
 
 ## Bookmarks toolbar items
 
@@ -539,8 +542,6 @@ crashed-subframe-submit =
 
 bookmarks-show-all-bookmarks =
     .label = ਸਭ ਬੁੱਕਮਾਰਕਾਂ ਨੂੰ ਵੇਖੋ
-bookmarks-recent-bookmarks =
-    .value = ਤਾਜ਼ਾ ਬੁੱਕਮਾਰਕ ਕੀਤੇ
 bookmarks-manage-bookmarks =
     .label = ਬੁੱਕਮਾਰਕਾਂ ਇੰਤਜ਼ਾਮ
 bookmarks-recent-bookmarks-panel =
@@ -561,12 +562,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] ਬੁੱਕਮਾਰਕ ਬਾਹੀ ਓਹਲੇ ਕਰੋ
            *[other] ਬੁੱਕਮਾਰਕ ਬਾਹੀ ਵੇਖੋ
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] ਬੁੱਕਮਾਰਕ ਟੂਲਬਾਰ ਓਹਲੇ ਕਰੋ
-           *[other] ਬੁੱਕਮਾਰਕ ਟੂਲਬਾਰ ਵੇਖੋ
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -613,12 +608,11 @@ bookmarks-current-tab =
 
 library-bookmarks-menu =
     .label = ਬੁੱਕਮਾਰਕ
-library-bookmarks-bookmark-this-page =
-    .label = ਇਹ ਸਫ਼ੇ ਨੂੰ ਬੁੱਕਮਾਰਕ ਕਰੋ
-library-bookmarks-bookmark-edit =
-    .label = ਇਹ ਬੁੱਕਮਾਰਕ ਨੂੰ ਸੋਧੋ
 library-recent-activity-title =
     .value = ਹਾਲੀਆ ਸਰਗਰਮੀ
+
+## Pocket toolbar button
+
 
 ## More items
 
@@ -629,3 +623,12 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = ਇਹ ਸਾਈਟ ਉੱਤੇ ਕੁਝ ਆਡੀਓ ਜਾਂ ਵੀਡੀਓ DRM ਸਾਫਟਵੇਅਰ ਵਰਤਦੇ ਹਨ, ਜੋ ਕਿ ਤੁਹਾਨੂੰ { -brand-short-name } ਨਾਲ ਕੰਮ ਕਰਨ ਨੂੰ ਸੀਮਤ ਕਰ ਸਕਦਾ ਹੈ।
+
+## Password save/update panel
+
+
+## Add-on removal warning
+
+
+## Remote / Synced tabs
+
