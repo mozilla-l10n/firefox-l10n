@@ -50,6 +50,10 @@ main-context-menu-forward-2 =
     .tooltiptext = انتقل للأمام صفحة واحدة ({ $shortcut })
     .aria-label = التالي
     .accesskey = ت
+# This menuitem is only visible on macOS
+main-context-menu-forward-mac =
+    .label = التالي
+    .accesskey = ت
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
