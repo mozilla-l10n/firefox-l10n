@@ -25,6 +25,10 @@ main-context-menu-back-2 =
     .tooltiptext = Trở lại trang trước ({ $shortcut })
     .aria-label = Quay lại
     .accesskey = B
+# This menuitem is only visible on macOS
+main-context-menu-back-mac =
+    .label = Quay lại
+    .accesskey = B
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
