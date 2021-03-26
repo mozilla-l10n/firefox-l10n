@@ -503,6 +503,9 @@ library-recent-activity-title =
 
 ## Pocket toolbar button
 
+save-to-pocket-button =
+    .label = { -pocket-brand-name } میں محفوظ کریں
+    .tooltiptext = { -pocket-brand-name } میں محفوظ کریں
 
 ## More items
 
