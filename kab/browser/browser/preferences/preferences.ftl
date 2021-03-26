@@ -400,6 +400,7 @@ update-setting-write-failure-message =
     { -brand-short-name } yemmuger-d tuccḍa ihi ur izmir ara ad isekles abeddel-a. Ẓeṛ d akken abeddel n usmenyif-a n uleqqem, yesra tasiregt n tira deg ufaylu ddaw-a. Kečč neɣ andbal n unagraw, tzemreḍ ahat ad tesseɣtiḍ tuccḍa s umuddun n tisrag ummid ɣer ufaylu-a i ugraw Users.
     
     Ur yezmir ad yaru deg ufaylu: { $path }
+update-setting-write-failure-title2 = Tuccḍa deg usekles n yiɣewwaren n uleqqem
 update-in-progress-title = Aleqqem itteddu
 update-in-progress-message = Tebɣiḍ { -brand-short-name } ad ikemmel aleqqem-agi?
 update-in-progress-ok-button = &Kkes

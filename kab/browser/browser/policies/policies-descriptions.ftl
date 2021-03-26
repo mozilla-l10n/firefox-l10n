@@ -14,6 +14,7 @@ policy-3rdparty = Ad yeǧǧ ad srekdeḍ tistṛatijiyin anida zemren ad kecmen 
 policy-AppAutoUpdate = Rmed neɣ gdel alqem awurman n yisnasen.
 policy-AppUpdateURL = Sbadu URL n uleqqem udmawan i usnas.
 policy-Authentication = Swel asesteb usliɣ i yesmal web i ten-yessefraken.
+policy-BackgroundAppUpdate2 = Rmed neɣ sens aleqqam n ugilal.
 policy-BlockAboutAddons = Sewḥel anekcum ɣer umsefrek n izegrar  (about:addons).
 policy-BlockAboutConfig = Sewḥel anekcum ɣer usebter n about:config.
 policy-BlockAboutProfiles = Sewḥel anekcum ɣer usebter n about:profiles.
@@ -106,6 +107,7 @@ policy-SearchEngines = Swel iƔewwaren n umsedday n unadi. Tasertit-agi tella ka
 policy-SearchSuggestEnabled = Ad yermed neɣ ad yessens isumar n unadi.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Sebded izegrar n PKCS #11.
+policy-ShowHomeButton = Sken taqeffalt n usebtar agejdan deg ufeggag n yifecka.
 policy-SSLVersionMax = Sbadu lqem afellay n SSL.
 policy-SSLVersionMin = Sbadu lqem adday n SSL.
 policy-SupportMenu = Ad yernu anekcum udmawan ɣer wumuɣ n tallelt i uɛiwen.
