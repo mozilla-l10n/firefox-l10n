@@ -35,6 +35,12 @@ appmenuitem-more-tools =
     .label = Rhagor o Offer
 appmenuitem-exit =
     .label = Gadael
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Gadael
+           *[other] Gadael
+        }
 appmenu-menu-button-closed =
     .tooltiptext = Agor Dewislen y Rhaglen
     .label = { -brand-shorter-name }

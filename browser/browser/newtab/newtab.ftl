@@ -19,6 +19,20 @@ newtab-search-box-search-button =
     .title = Chwilio
     .aria-label = Chwilio
 newtab-search-box-search-the-web-text = Chwilio'r We
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-text = Chwilio gyda { $engine } neu roi'r cyfeiriad
+newtab-search-box-handoff-text-no-engine = Chwilio neu roi cyfeiriad
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-input =
+    .placeholder = Chwilio gyda { $engine } neu roi cyfeiriad
+    .title = Chwilio gyda { $engine } neu roi cyfeiriad
+    .aria-label = Chwilio gyda { $engine } neu roi cyfeiriad
+newtab-search-box-handoff-input-no-engine =
+    .placeholder = Chwilio neu roi cyfeiriad
+    .title = Chwilio neu roi cyfeiriad
+    .aria-label = Chwilio neu roi cyfeiriad
 newtab-search-box-search-the-web-input =
     .placeholder = Chwilio'r We
     .title = Chwilio'r We
