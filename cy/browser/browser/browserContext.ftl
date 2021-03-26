@@ -102,6 +102,18 @@ main-context-menu-bookmark-add =
     .aria-label = Gosod Nod Tudalen i'r Dudalen
     .accesskey = N
     .tooltiptext = Gosod nod tudalen i'r dudalen
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-add-mac =
+    .label = Gosod Nod i Dudalen
+    .accesskey = N
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-edit-mac =
+    .label = Golygu Nod Tudalen
+    .accesskey = G
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-add-with-shortcut =
