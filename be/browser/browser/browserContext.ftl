@@ -25,6 +25,10 @@ main-context-menu-back-2 =
     .tooltiptext = Папярэдняя старонка ({ $shortcut })
     .aria-label = Назад
     .accesskey = Н
+# This menuitem is only visible on macOS
+main-context-menu-back-mac =
+    .label = Назад
+    .accesskey = Н
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -46,6 +50,10 @@ main-context-menu-forward-2 =
     .tooltiptext = Наступная старонка ({ $shortcut })
     .aria-label = Наперад
     .accesskey = Н
+# This menuitem is only visible on macOS
+main-context-menu-forward-mac =
+    .label = Наперад
+    .accesskey = Н
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
@@ -56,6 +64,10 @@ toolbar-button-forward-2 =
 main-context-menu-reload =
     .aria-label = Абнавіць
     .accesskey = А
+# This menuitem is only visible on macOS
+main-context-menu-reload-mac =
+    .label = Абнавіць
+    .accesskey = А
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
@@ -63,6 +75,10 @@ toolbar-button-reload =
 
 main-context-menu-stop =
     .aria-label = Спыніць
+    .accesskey = С
+# This menuitem is only visible on macOS
+main-context-menu-stop-mac =
+    .label = Спыніць
     .accesskey = С
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
@@ -111,9 +127,6 @@ main-context-menu-open-link-new-tab =
 main-context-menu-open-link-container-tab =
     .label = Адкрыць спасылку ў новай картцы кантэйнера
     .accesskey = ы
-main-context-menu-open-link-container =
-    .label = Адкрыць спасылку ў новым кантэйнеры
-    .accesskey = ц
 main-context-menu-open-link-new-window =
     .label = Адкрыць спасылку ў новым акне
     .accesskey = п
