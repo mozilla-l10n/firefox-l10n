@@ -137,6 +137,7 @@ policy-SearchEngines = Nastavení vyhledávačů. Toto pravidlo je dostupné jen
 policy-SearchSuggestEnabled = Povolení nebo zákaz našeptávání dotazů pro vyhledávač.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Instalace modulů PKCS #11.
+policy-ShowHomeButton = Zobrazení domovského tlačítka na liště.
 policy-SSLVersionMax = Nastavení maximální verze SSL.
 policy-SSLVersionMin = Nastavení minimální verze SSL.
 policy-SupportMenu = Přidání vlastní položky nabídky s nápovědou.
