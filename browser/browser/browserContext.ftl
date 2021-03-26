@@ -111,9 +111,6 @@ main-context-menu-open-link-new-tab =
 main-context-menu-open-link-container-tab =
     .label = Ireki lotura edukiontzi-fitxa berrian
     .accesskey = b
-main-context-menu-open-link-container =
-    .label = Ireki lotura edukiontzi berrian
-    .accesskey = d
 main-context-menu-open-link-new-window =
     .label = Ireki leiho berrian
     .accesskey = l
@@ -301,6 +298,14 @@ main-context-menu-view-background-image =
 main-context-menu-generate-new-password =
     .label = Erabili sortutako pasahitza…
     .accesskey = s
+
+## The access keys for "Use Saved Login" and "Use Saved Password"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+
+##
+
 main-context-menu-manage-logins =
     .label = Kudeatu saio-hasierak…
     .accesskey = K
