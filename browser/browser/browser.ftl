@@ -673,3 +673,6 @@ addon-removal-abuse-report-checkbox = Bu uzantıyı { -vendor-short-name }’ya 
 
 ## Remote / Synced tabs
 
+remote-tabs-manage-account =
+    .label = Hesabı yönet
+remote-tabs-sync-now = Şimdi eşitle
