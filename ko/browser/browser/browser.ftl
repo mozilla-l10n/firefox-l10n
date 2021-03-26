@@ -663,3 +663,6 @@ addon-removal-abuse-report-checkbox = 이 확장 기능을 { -vendor-short-name 
 
 ## Remote / Synced tabs
 
+remote-tabs-manage-account =
+    .label = 계정 관리
+remote-tabs-sync-now = 지금 동기화
