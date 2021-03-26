@@ -50,6 +50,10 @@ main-context-menu-forward-2 =
     .tooltiptext = Maju satu halaman ({ $shortcut })
     .aria-label = Seterusnya
     .accesskey = S
+# This menuitem is only visible on macOS
+main-context-menu-forward-mac =
+    .label = Seterusnya
+    .accesskey = S
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
