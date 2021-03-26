@@ -247,6 +247,11 @@ browser-window-close-button =
 ## Tab actions
 
 
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+
 ## Bookmarks toolbar items
 
 
@@ -329,8 +334,6 @@ pointerlock-warning-no-domain = Tá an cháipéis seo i gceannas ar do chúrsói
 
 bookmarks-show-all-bookmarks =
     .label = Taispeáin Gach Leabharmharc
-bookmarks-recent-bookmarks =
-    .value = Leabharmharc leo le déanaí
 bookmarks-toolbar-chevron =
     .tooltiptext = Tuilleadh leabharmharcanna
 bookmarks-sidebar-content =
@@ -365,10 +368,9 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-menu =
     .label = Leabharmharcanna
-library-bookmarks-bookmark-this-page =
-    .label = Cruthaigh Leabharmharc don Leathanach Seo
-library-bookmarks-bookmark-edit =
-    .label = Cuir an Leabharmharc Seo in Eagar
+
+## Pocket toolbar button
+
 
 ## More items
 
@@ -379,3 +381,12 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Baineann roinnt comhad fuaime nó físe ar an suíomh seo leas as bogearraí DRM, rud a chuireann teorainn leis na rudaí is féidir le { -brand-short-name } a dhéanamh leis.
+
+## Password save/update panel
+
+
+## Add-on removal warning
+
+
+## Remote / Synced tabs
+
