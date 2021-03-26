@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
-about-logins-page-title = Лозинке
+about-logins-page-title = Пријаве и лозинке
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
 login-app-promo-title = Понесите ваше лозинке са собом
-login-app-promo-subtitle = Преузмите бесплатан програм { -lockwise-brand-name }
+login-app-promo-subtitle = Преузмите бесплатну { -lockwise-brand-name } апликацију
 login-app-promo-android =
     .alt = Преузмите на Google Play
 login-app-promo-apple =
@@ -29,7 +29,7 @@ menu =
 about-logins-menu-menuitem-import-from-another-browser = Увези из другог прегледача…
 about-logins-menu-menuitem-import-from-a-file = Увези из датотеке…
 about-logins-menu-menuitem-export-logins = Извези лозинке…
-about-logins-menu-menuitem-remove-all-logins = Уклони све лозинке…
+about-logins-menu-menuitem-remove-all-logins = Уклони све пријаве…
 menu-menuitem-preferences = Подешавања
 about-logins-menu-menuitem-help = Помоћ
 menu-menuitem-android-app = { -lockwise-brand-short-name } за Андроид
@@ -41,13 +41,13 @@ login-list =
     .aria-label = Пронађене лозинке
 login-list-count =
     { $count ->
-        [one] { $count } лозинка
-        [few] { $count } лозинке
-       *[other] { $count } лозинки
+        [one] { $count } пријава
+        [few] { $count } пријаве
+       *[other] { $count } пријава
     }
 login-list-sort-label-text = Поређај по:
-login-list-name-option = Називу (A–Z)
-login-list-name-reverse-option = Називу (Z–A)
+login-list-name-option = Назив (А-Ш)
+login-list-name-reverse-option = Назив (А-Ш)
 about-logins-login-list-alerts-option = Упозорења
 login-list-last-changed-option = Последњој измени
 login-list-last-used-option = Последњем коришћењу
@@ -304,13 +304,12 @@ about-logins-export-file-picker-csv-filter-title = CSV датотека
 # Title of the file picker dialog
 about-logins-import-file-picker-title = Увоз датотеке са лозинкама
 about-logins-import-file-picker-import-button = Увези
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-import-file-picker-csv-filter-title = CSV датотека
 # A description for the .tsv file format that may be shown as the file type
 # filter by the operating system. TSV is short for 'tab separated values'.
-about-logins-import-file-picker-tsv-filter-title =
-    { PLATFORM() ->
-        [macos] TSV документ
-       *[other] TSV датотека
-    }
+about-logins-import-file-picker-tsv-filter-title = TSV датотека
 
 ##
 ## Variables:

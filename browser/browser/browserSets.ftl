@@ -37,8 +37,8 @@ search-find-selection-shortcut =
 search-focus-shortcut-alt =
     .key =
         { PLATFORM() ->
-            [linux] j
-           *[other] e
+            [linux] J
+           *[other] E
         }
 # Verify what shortcut for that operation
 # are recommended by the Human Interface Guidelines
@@ -46,8 +46,8 @@ search-focus-shortcut-alt =
 downloads-shortcut =
     .key =
         { PLATFORM() ->
-            [linux] y
-           *[other] j
+            [linux] Y
+           *[other] J
         }
 addons-shortcut =
     .key = A
@@ -113,8 +113,8 @@ bookmark-this-page-shortcut =
 bookmark-show-all-shortcut =
     .key =
         { PLATFORM() ->
-            [linux] o
-           *[other] b
+            [linux] O
+           *[other] B
         }
 # Verify what shortcut for that operation
 # are recommended by the Human Interface Guidelines
@@ -125,7 +125,7 @@ bookmark-show-library-shortcut =
 # are recommended by the Human Interface Guidelines
 # of each platform for your locale.
 bookmark-show-sidebar-shortcut =
-    .key = b
+    .key = B
 # Verify what shortcut for that operation
 # are recommended by the Human Interface Guidelines
 # of each platform for your locale.
