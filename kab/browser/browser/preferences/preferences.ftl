@@ -401,6 +401,14 @@ update-setting-write-failure-message =
     
     Ur yezmir ad yaru deg ufaylu: { $path }
 update-setting-write-failure-title2 = Tuccḍa deg usekles n yiɣewwaren n uleqqem
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message2 =
+    { -brand-short-name } yemmuger-d tuccḍa ihi ur izmir ara ad isekles abeddel-a. Ẓer belli abeddel n uɣewwar-a n uleqqem, yesra tasiregt n tira deg ufaylu ddaw-a. Kečč neɣ andbal n unagraw, tzemreḍ ahat ad tesseɣtiḍ tuccḍa s umuddun n tisrag ummid ɣer ufaylu-a i ugraw Users.
+    
+    Ur yezmir ad yaru deg ufaylu: { $path }
 update-in-progress-title = Aleqqem itteddu
 update-in-progress-message = Tebɣiḍ { -brand-short-name } ad ikemmel aleqqem-agi?
 update-in-progress-ok-button = &Kkes
@@ -598,6 +606,7 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Sken isumar n unadi deg isfuyla n tunigin tusligin
 suggestions-addressbar-settings-generic = Snifel ismenyifen i yisumar n ufeggag n tansa
+suggestions-addressbar-settings-generic2 = Snifel iɣewwaren i yisumar n ufeggag n tansa
 search-suggestions-cant-show = Anadi n isumar ur d ittwaskan ara deg yigmaḍ n ufeggag n tansa acku tsewleḍ { -brand-short-name } akken ur iḥerrez ara azray.
 search-one-click-header = Imseddayen n unadi ara tkecmeḍ s yiwen n usiti
 search-one-click-header2 = Nadi inegzumen
