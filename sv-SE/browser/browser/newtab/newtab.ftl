@@ -19,6 +19,20 @@ newtab-search-box-search-button =
     .title = Sök
     .aria-label = Sök
 newtab-search-box-search-the-web-text = Sök på webben
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-text = Sök med { $engine } eller ange en adress
+newtab-search-box-handoff-text-no-engine = Sök eller ange adress
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-input =
+    .placeholder = Sök med { $engine } eller ange en adress
+    .title = Sök med { $engine } eller ange en adress
+    .aria-label = Sök med { $engine } eller ange en adress
+newtab-search-box-handoff-input-no-engine =
+    .placeholder = Sök eller ange adress
+    .title = Sök eller ange adress
+    .aria-label = Sök eller ange adress
 newtab-search-box-search-the-web-input =
     .placeholder = Sök på webben
     .title = Sök på webben
