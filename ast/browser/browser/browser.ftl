@@ -363,6 +363,12 @@ library-bookmarks-menu =
 library-recent-activity-title =
     .value = Actividá recién
 
+## Pocket toolbar button
+
+save-to-pocket-button =
+    .label = Guardar en { -pocket-brand-name }
+    .tooltiptext = Guardar en { -pocket-brand-name }
+
 ## More items
 
 more-menu-go-offline =
@@ -377,4 +383,7 @@ more-menu-go-offline =
 panel-save-update-password = Contraseña
 
 ## Add-on removal warning
+
+
+## Remote / Synced tabs
 
