@@ -64,6 +64,10 @@ toolbar-button-forward-2 =
 main-context-menu-reload =
     .aria-label = Recargar
     .accesskey = R
+# This menuitem is only visible on macOS
+main-context-menu-reload-mac =
+    .label = Recargar
+    .accesskey = R
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
@@ -71,6 +75,10 @@ toolbar-button-reload =
 
 main-context-menu-stop =
     .aria-label = Stoppar
+    .accesskey = S
+# This menuitem is only visible on macOS
+main-context-menu-stop-mac =
+    .label = Stoppar
     .accesskey = S
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
