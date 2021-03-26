@@ -35,6 +35,12 @@ appmenuitem-more-tools =
     .label = Daha fazla araç
 appmenuitem-exit =
     .label = Çık
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Çık
+           *[other] Çık
+        }
 appmenu-menu-button-closed =
     .tooltiptext = Uygulama menüsünü aç
     .label = { -brand-shorter-name }
