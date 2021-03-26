@@ -25,6 +25,10 @@ main-context-menu-back-2 =
     .tooltiptext = Bumalik nang isang pahina ({ $shortcut })
     .aria-label = Bumalik
     .accesskey = B
+# This menuitem is only visible on macOS
+main-context-menu-back-mac =
+    .label = Bumalik
+    .accesskey = B
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
