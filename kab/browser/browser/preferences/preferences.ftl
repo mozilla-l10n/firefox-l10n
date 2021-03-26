@@ -658,6 +658,7 @@ containers-remove-button =
 
 sync-signedout-caption = Awi web-inek yid-k
 sync-signedout-description = Semtawi ticraḍ-inek n yisebtar, azray, accaren, awalen uffiren, izegrar, akked yismenyifen d yibenkan-inek akk.
+sync-signedout-description2 = Semtawi ticraḍ-inek n isebtar, amazray, awalen uffiren, izegrar, d yiɣewwaren akked ibenkan-inek akk.
 sync-signedout-account-signin2 =
     .label = Qqen ɣer { -sync-brand-short-name }…
     .accesskey = Q
@@ -700,6 +701,7 @@ prefs-sync-setup =
     .label = Sbadu { -sync-brand-short-name }...
     .accesskey = S
 prefs-sync-offer-setup-label = Mtawi ticraḍ-ik n yisebtar, azray, iccaren, awalen uffiren, izegrar akked ismenyifen gar yibenkan-ik.
+prefs-sync-offer-setup-label2 = Semtawi ticraḍ-inek n isebtar, amazray, awalen uffiren, izegrar, d yiɣewwaren akked ibenkan-inek akk.
 prefs-sync-now =
     .labelnotsyncing = Mtawi tura
     .accesskeynotsyncing = T
@@ -720,6 +722,7 @@ sync-currently-syncing-prefs =
         [windows] Iɣewwaṛen
        *[other] Ismenyifen
     }
+sync-currently-syncing-settings = Iɣewwaren
 sync-change-options =
     .label = Snifel…
     .accesskey = f
