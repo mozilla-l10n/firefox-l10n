@@ -12,3 +12,4 @@ refresh-profile-remove = Ke'elesäx el ri taq atz'aqat chuqa' taq awichinaxik
 refresh-profile-restore = Ke'atzolij chik ri runuk'ulem awokik'amaya'l rik'in ri taq wachinel e k'o wi
 refresh-profile = Tiya' jun rukamuluxik chi re { -brand-short-name }
 refresh-profile-button = Titzolïx { -brand-short-name }…
+refresh-profile-learn-more = Tetamäx ch'aqa' chik
