@@ -694,3 +694,6 @@ addon-removal-abuse-report-checkbox = أبلِغ { -vendor-short-name } عن ه�
 
 ## Remote / Synced tabs
 
+remote-tabs-manage-account =
+    .label = أدِر الحساب
+remote-tabs-sync-now = زامِن الآن
