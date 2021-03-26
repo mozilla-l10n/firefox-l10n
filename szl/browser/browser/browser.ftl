@@ -607,6 +607,9 @@ library-recent-activity-title =
 
 ## Pocket toolbar button
 
+save-to-pocket-button =
+    .label = Spamiyntej do { -pocket-brand-name(case: "gen") }
+    .tooltiptext = Spamiyntej do { -pocket-brand-name(case: "gen") }
 
 ## More items
 
