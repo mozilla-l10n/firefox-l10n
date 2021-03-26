@@ -671,4 +671,6 @@ addon-removal-abuse-report-checkbox = Informeu d'aquesta extensió a { -vendor-s
 
 ## Remote / Synced tabs
 
+remote-tabs-manage-account =
+    .label = Gestiona el compte
 remote-tabs-sync-now = Sincronitza ara
