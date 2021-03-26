@@ -35,6 +35,12 @@ appmenuitem-more-tools =
     .label = Dalšne rědy
 appmenuitem-exit =
     .label = Skóńcyś
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Skóńcyś
+           *[other] Skóńcyś
+        }
 appmenu-menu-button-closed =
     .tooltiptext = Nałožeński meni wócyniś
     .label = { -brand-shorter-name }

@@ -28,6 +28,18 @@ search-input-box =
             [windows] W nastajenjach pytaś
            *[other] W nastajenjach pytaś
         }
+settings-page-title = Nastajenja
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box2 =
+    .style = width: 15.4em
+    .placeholder = W nastajenjach pytaś
 managed-notice = Waš wobglědowak se wót wašeje organizacije zastoj.
 category-list =
     .aria-label = Kategorije
@@ -52,6 +64,7 @@ category-experimental =
 pane-experimental-subtitle = Z glědanim pókšacowaś
 pane-experimental-search-results-header = Eksperimenty { -brand-short-name }: pókšacujśo z glědanim
 pane-experimental-description = Gaž nastajenja rozšyrjoneje konfiguracije změnijośo, móžo to wugbaśe abo wěstotu { -brand-short-name } wobwliwowaś.
+pane-experimental-description2 = Gaž nastajenja rozšyrjoneje konfiguracije změnijośo, móžo to wugbaśe abo wěstotu { -brand-short-name } wobwliwowaś.
 pane-experimental-reset =
     .label = Standard wótnowiś
     .accesskey = S
@@ -121,6 +134,8 @@ search-results-empty-message =
         [windows] Bóžko žedne wuslědki njejsu w nastajenjach za “<span data-l10n-name="query"></span>”.
        *[other] Bóžko žedne wuslědki njejsu w nastajenjach za “<span data-l10n-name="query"></span>”.
     }
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 = Bóžko žedne wuslědki njejsu w nastajenjach za “<span data-l10n-name="query"></span>”.
 search-results-help-link = Trjebaśo pomoc? Woglědajśo k <a data-l10n-name="url">Pomoc za { -brand-short-name }</a>
 
 ## General Section
@@ -375,6 +390,9 @@ update-application-check-choose =
 update-application-manual =
     .label = Nigda za aktualizacijami njepytaś (njepśiraźijo se)
     .accesskey = i
+update-application-background-enabled =
+    .label = Gaž { -brand-short-name } njeběžy
+    .accesskey = G
 update-application-warning-cross-user-setting = Toś to nastajenje se na wšykne konta Windows a profile { -brand-short-name } nałožujo, kótarež toś tu instalaciju { -brand-short-name } wužywaju.
 update-application-use-service =
     .label = Slězynowu słužbu za instalěrowanje aktualizacijow wužywaś
@@ -388,6 +406,7 @@ update-setting-write-failure-message =
     { -brand-short-name } jo starcył na zmólku a njejo toś tu změnu składł. Źiwajśo na to, až se toś to aktualizěrowańske nastajenje pisańske pšawo za slědujucu dataju pomina. Wy abo systemowy administrator móžotej zmólku pórěźiś, gaž wužywaŕskej kupce połnu kontrolu nad toś teju dataju dajotej.
     
     Njedajo se do dataje pisaś: { $path }
+update-setting-write-failure-title2 = Zmólka pśi składowanju aktualizěrowańskich nastajenjow
 update-in-progress-title = Aktualizacija běžy
 update-in-progress-message = Cośo, až { -brand-short-name } z toś teju aktualizaciju pókšacujo?
 update-in-progress-ok-button = &Zachyśiś

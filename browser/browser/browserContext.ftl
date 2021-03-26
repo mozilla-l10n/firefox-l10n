@@ -102,6 +102,18 @@ main-context-menu-bookmark-add =
     .aria-label = Toś ten bok ako cytańske znamje składowaś
     .accesskey = c
     .tooltiptext = Toś ten bok ako cytańske znamje składowaś
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-add-mac =
+    .label = Bok ako cytańske znamje składowaś
+    .accesskey = B
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-edit-mac =
+    .label = Cytańske znamje wobźěłaś
+    .accesskey = C
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-add-with-shortcut =
