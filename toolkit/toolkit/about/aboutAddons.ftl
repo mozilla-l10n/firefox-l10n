@@ -34,6 +34,9 @@ sidebar-preferences-button-title =
             [windows] { -brand-short-name } 설정
            *[other] { -brand-short-name } 설정
         }
+addons-settings-button = { -brand-short-name } 설정
+sidebar-settings-button-title =
+    .title = { -brand-short-name } 설정
 show-unsigned-extensions-button =
     .label = 몇몇 확장 기능은 확인을 할 수 없음
 show-all-extensions-button =
