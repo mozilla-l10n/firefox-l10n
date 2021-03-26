@@ -25,6 +25,10 @@ main-context-menu-back-2 =
     .tooltiptext = Idi jednu stranicu natrag ({ $shortcut })
     .aria-label = Natrag
     .accesskey = N
+# This menuitem is only visible on macOS
+main-context-menu-back-mac =
+    .label = Natrag
+    .accesskey = N
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -45,6 +49,10 @@ toolbar-button-forward =
 main-context-menu-forward-2 =
     .tooltiptext = Idi jednu stranicu naprijed ({ $shortcut })
     .aria-label = Naprijed
+    .accesskey = a
+# This menuitem is only visible on macOS
+main-context-menu-forward-mac =
+    .label = Naprijed
     .accesskey = a
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
@@ -67,6 +75,10 @@ toolbar-button-reload =
 
 main-context-menu-stop =
     .aria-label = Zaustavi
+    .accesskey = s
+# This menuitem is only visible on macOS
+main-context-menu-stop-mac =
+    .label = Zaustavi
     .accesskey = s
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
