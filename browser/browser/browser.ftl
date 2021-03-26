@@ -694,3 +694,6 @@ addon-removal-abuse-report-checkbox = Adroddwch yr estyniad hwn i { -vendor-shor
 
 ## Remote / Synced tabs
 
+remote-tabs-manage-account =
+    .label = Rheoli Cyfrif
+remote-tabs-sync-now = Cydweddu Nawr
