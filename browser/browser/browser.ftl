@@ -656,3 +656,6 @@ addon-removal-abuse-report-checkbox = Бұл кеңейту туралы { -vend
 
 ## Remote / Synced tabs
 
+remote-tabs-manage-account =
+    .label = Тіркелгіні басқару
+remote-tabs-sync-now = Қазір синхрондау
