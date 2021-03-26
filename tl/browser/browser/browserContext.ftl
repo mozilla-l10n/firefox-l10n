@@ -50,6 +50,10 @@ main-context-menu-forward-2 =
     .tooltiptext = Pumunta sa susunod na pahina ({ $shortcut })
     .aria-label = Magpatuloy
     .accesskey = F
+# This menuitem is only visible on macOS
+main-context-menu-forward-mac =
+    .label = Magpatuloy
+    .accesskey = F
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
@@ -59,6 +63,10 @@ toolbar-button-forward-2 =
 
 main-context-menu-reload =
     .aria-label = Mag-reload
+    .accesskey = R
+# This menuitem is only visible on macOS
+main-context-menu-reload-mac =
+    .label = Mag-reload
     .accesskey = R
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
