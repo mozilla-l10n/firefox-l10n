@@ -621,6 +621,9 @@ library-recent-activity-title =
 
 ## Pocket toolbar button
 
+save-to-pocket-button =
+    .label = ذخیره‌سازی در { -pocket-brand-name }
+    .tooltiptext = ذخیره‌سازی در { -pocket-brand-name }
 
 ## More items
 
