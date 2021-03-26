@@ -25,6 +25,10 @@ main-context-menu-back-2 =
     .tooltiptext = Leathanach amháin siar ({ $shortcut })
     .aria-label = Siar
     .accesskey = s
+# This menuitem is only visible on macOS
+main-context-menu-back-mac =
+    .label = Siar
+    .accesskey = s
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
