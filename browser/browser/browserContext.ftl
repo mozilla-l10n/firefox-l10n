@@ -25,6 +25,10 @@ main-context-menu-back-2 =
     .tooltiptext = ย้อนกลับไปหนึ่งหน้า ({ $shortcut })
     .aria-label = ย้อนกลับ
     .accesskey = ย
+# This menuitem is only visible on macOS
+main-context-menu-back-mac =
+    .label = ย้อนกลับ
+    .accesskey = ย
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -46,6 +50,10 @@ main-context-menu-forward-2 =
     .tooltiptext = เดินหน้าไปหนึ่งหน้า ({ $shortcut })
     .aria-label = เดินหน้า
     .accesskey = ด
+# This menuitem is only visible on macOS
+main-context-menu-forward-mac =
+    .label = เดินหน้า
+    .accesskey = ด
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
@@ -56,6 +64,10 @@ toolbar-button-forward-2 =
 main-context-menu-reload =
     .aria-label = โหลดใหม่
     .accesskey = ห
+# This menuitem is only visible on macOS
+main-context-menu-reload-mac =
+    .label = โหลดใหม่
+    .accesskey = ห
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
@@ -63,6 +75,10 @@ toolbar-button-reload =
 
 main-context-menu-stop =
     .aria-label = หยุด
+    .accesskey = ห
+# This menuitem is only visible on macOS
+main-context-menu-stop-mac =
+    .label = หยุด
     .accesskey = ห
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
