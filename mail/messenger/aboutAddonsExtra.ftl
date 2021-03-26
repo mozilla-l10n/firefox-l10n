@@ -4,3 +4,5 @@
 
 add-on-options-button =
     .title = Alternativ för tillägg
+atn-addons-heading-search-input =
+    .placeholder = Sök på addons.thunderbird.net
