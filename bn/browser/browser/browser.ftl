@@ -468,6 +468,9 @@ library-bookmarks-menu =
 
 ## Pocket toolbar button
 
+save-to-pocket-button =
+    .label = { -pocket-brand-name } এ সংরক্ষণ করুন
+    .tooltiptext = { -pocket-brand-name } এ সংরক্ষণ করুন
 
 ## More items
 
