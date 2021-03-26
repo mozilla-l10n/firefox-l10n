@@ -28,6 +28,7 @@ search-input-box =
             [windows] Eheka Jeporavorãme
            *[other] Eheka Jerohoryvévape
         }
+settings-page-title = Ñemboheko
 managed-notice = Pe kundaha rehe oñangareko atyguasu.
 category-list =
     .aria-label = Mboja’opy
@@ -613,6 +614,8 @@ containers-back-button =
             [windows] Eguevi Jeporavorãme
            *[other] Eguevi Jeguerohoryvévape
         }
+containers-back-button2 =
+    .aria-label = Eguevi ñembohekópe
 containers-header = Tendayke guerekoha
 containers-add-button =
     .label = Embojuaju guerekoha pyahu
@@ -622,6 +625,8 @@ containers-new-tab-check =
     .accesskey = S
 containers-preferences-button =
     .label = Jerohoryvéva
+containers-settings-button =
+    .label = Ñemboheko
 containers-remove-button =
     .label = Mboguete
 
@@ -692,6 +697,7 @@ sync-currently-syncing-prefs =
         [windows] Jerohoryvéva
        *[other] Jerohoryvéva
     }
+sync-currently-syncing-settings = Ñemboheko
 sync-change-options =
     .label = Moambue
     .accesskey = M
@@ -1153,6 +1159,9 @@ space-alert-under-5gb-ok-button =
     .label = OK, arekóma
     .accesskey = K
 space-alert-under-5gb-message = { -brand-short-name } opyta disco pa’ũ’ỹre. Ikatu hína ñanduti renda retepy ndojehechaukái hekopete. Eike “Kuaave” eipuru porã hag̃ua disco ne kundaha hekoresãi hag̃ua avei.
+space-alert-over-5gb-settings-button =
+    .label = Embojuruja ñemboheko
+    .accesskey = O
 
 ## Privacy Section - HTTPS-Only
 

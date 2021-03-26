@@ -35,6 +35,12 @@ appmenuitem-more-tools =
     .label = Tembipuruve
 appmenuitem-exit =
     .label = Ñesẽ
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Hejarei
+           *[other] Ñesẽ
+        }
 appmenu-menu-button-closed =
     .tooltiptext = Embojuruja tembipuru’i poravorã
     .label = { -brand-shorter-name }

@@ -11,6 +11,8 @@
 
 ## Application Menu (macOS only)
 
+menu-application-preferences =
+    .label = Jerohoryvéva
 menu-application-services =
     .label = Mba’epytyvõrã
 menu-application-hide-this =
