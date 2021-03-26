@@ -10,6 +10,9 @@ containers-window-new =
 containers-window-update =
     .title = Preferenze contenitore “{ $name }”
     .style = width: 45em
+containers-window-update-settings =
+    .title = Impostazioni contenitore “{ $name }”
+    .style = width: 45em
 containers-window-close =
     .key = w
 # This is a term to store style to be applied
