@@ -19,6 +19,10 @@ main-context-menu-back-2 =
     .tooltiptext = Vai na pàggina nn'arrè ({ $shortcut })
     .aria-label = Nn'arrè
     .accesskey = a
+# This menuitem is only visible on macOS
+main-context-menu-back-mac =
+    .label = Nn'arrè
+    .accesskey = a
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -40,6 +44,10 @@ main-context-menu-forward-2 =
     .tooltiptext = Vai avanti di na pàggina ({ $shortcut })
     .aria-label = Avanti
     .accesskey = A
+# This menuitem is only visible on macOS
+main-context-menu-forward-mac =
+    .label = Avanti
+    .accesskey = A
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
@@ -50,6 +58,10 @@ toolbar-button-forward-2 =
 main-context-menu-reload =
     .aria-label = Càrrica arrè
     .accesskey = C
+# This menuitem is only visible on macOS
+main-context-menu-reload-mac =
+    .label = Càrrica arrè
+    .accesskey = C
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
@@ -57,6 +69,10 @@ toolbar-button-reload =
 
 main-context-menu-stop =
     .aria-label = Ferma
+    .accesskey = F
+# This menuitem is only visible on macOS
+main-context-menu-stop-mac =
+    .label = Ferma
     .accesskey = F
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
@@ -122,6 +138,11 @@ main-context-menu-save-link-to-pocket =
     .accesskey = S
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+
+## The access keys for "Copy Link" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
@@ -221,6 +242,14 @@ main-context-menu-audio-save-as =
 main-context-menu-audio-email =
     .label = Manna u sonu…
     .accesskey = a
+
+## The access keys for "Use Saved Login" and "Use Saved Password"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+
+##
+
 main-context-menu-frame =
     .label = Stu quatru
     .accesskey = t
