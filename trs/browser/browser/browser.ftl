@@ -447,6 +447,9 @@ library-bookmarks-menu =
 
 ## Pocket toolbar button
 
+save-to-pocket-button =
+    .label = Nanín sa'aj riña { -pocket-brand-name }
+    .tooltiptext = Nanín sa'aj riña { -pocket-brand-name }
 
 ## More items
 
