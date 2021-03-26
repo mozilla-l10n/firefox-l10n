@@ -102,6 +102,18 @@ main-context-menu-bookmark-add =
     .aria-label = Lesezeichen für diese Seite hinzufügen
     .accesskey = L
     .tooltiptext = Lesezeichen für diese Seite setzen
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-add-mac =
+    .label = Lesezeichen für Seite hinzufügen
+    .accesskey = L
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-edit-mac =
+    .label = Lesezeichen bearbeiten
+    .accesskey = L
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-add-with-shortcut =

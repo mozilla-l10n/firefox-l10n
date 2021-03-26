@@ -22,6 +22,17 @@ newtab-search-box-search-the-web-text = Das Web durchsuchen
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = Mit { $engine } suchen oder Adresse eingeben
+newtab-search-box-handoff-text-no-engine = Suche oder Adresse eingeben
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-input =
+    .placeholder = Mit { $engine } suchen oder Adresse eingeben
+    .title = Mit { $engine } suchen oder Adresse eingeben
+    .aria-label = Mit { $engine } suchen oder Adresse eingeben
+newtab-search-box-handoff-input-no-engine =
+    .placeholder = Suche oder Adresse eingeben
+    .title = Suche oder Adresse eingeben
+    .aria-label = Suche oder Adresse eingeben
 newtab-search-box-search-the-web-input =
     .placeholder = Das Web durchsuchen
     .title = Das Web durchsuchen
