@@ -650,6 +650,12 @@ library-bookmarks-menu =
 library-recent-activity-title =
     .value = Nejnowša aktiwita
 
+## Pocket toolbar button
+
+save-to-pocket-button =
+    .label = Pla { -pocket-brand-name } składowaś
+    .tooltiptext = Pla { -pocket-brand-name } składowaś
+
 ## More items
 
 more-menu-go-offline =
@@ -675,3 +681,6 @@ panel-save-update-password = Gronidło
 #  $name (String): The name of the addon that will be removed.
 addon-removal-title = { $name } wótwónoźeś?
 addon-removal-abuse-report-checkbox = { -vendor-short-name } toś to rozšyrjenje k wěsći daś
+
+## Remote / Synced tabs
+
