@@ -290,6 +290,8 @@ identity-passive-loaded = Некаторыя часткі гэтай старо�
 identity-active-loaded = Вы адключылі ахову на гэтай старонцы.
 identity-weak-encryption = Гэта старонка ўжывае слабы тып шыфравання.
 identity-insecure-login-forms = Лагіны, уведзеныя на гэтай старонцы, могуць быць скампраметаваны.
+identity-permissions =
+    .value = Дазволы
 identity-https-only-connection-upgraded = (абноўлена да HTTPS)
 identity-https-only-label = Рэжым «Толькі HTTPS»
 identity-https-only-dropdown-on =
@@ -301,8 +303,6 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Уключыце рэжым "толькі HTTPS", калі хочаце, каб { -brand-short-name } па магчымасці абнаўляў злучэння.
 identity-https-only-info-turn-off2 = Калі старонка выглядае няспраўнай, магчыма, вы захочаце адключыць рэжым "Толькі HTTPS" для гэтага сайта, каб перазагрузіць праз небяспечны HTTP.
 identity-https-only-info-no-upgrade = Не ўдалося абнавіць злучэнне з HTTP.
-identity-permissions =
-    .value = Дазволы
 identity-permissions-storage-access-header = Міжсайтавыя кукі
 identity-permissions-storage-access-hint = Гэтыя ўдзельнікі могуць выкарыстоўваць міжсайтавыя кукі і дадзеныя сайта, пакуль вы знаходзіцеся на гэтым сайце.
 identity-permissions-reload-hint = Магчыма, вам спатрэбіцца перазагрузіць старонку, каб змены пачалі дзейнічаць.
@@ -350,8 +350,6 @@ browser-window-close-button =
 
 ## Tab actions
 
-browser-tab-audio-playing = Граецца
-browser-tab-audio-muted = Без гуку
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-playing2 = ПРАЙГРАЕЦЦА
 # This label should be written in all capital letters if your locale supports them.
@@ -360,6 +358,11 @@ browser-tab-audio-muted2 = БЕЗ ГУКУ
 browser-tab-audio-blocked = АЎТАПРАЙГРАВАННЕ ЗАБЛАКАВАНА
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = ВЫЯВА-Ў-ВЫЯВЕ
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
 
 ## Bookmarks toolbar items
 
@@ -552,8 +555,6 @@ crashed-subframe-submit =
 
 bookmarks-show-all-bookmarks =
     .label = Паказаць усе закладкі
-bookmarks-recent-bookmarks =
-    .value = Нядаўнія закладкі
 bookmarks-manage-bookmarks =
     .label = Кіраванне закладкамі
 bookmarks-recent-bookmarks-panel =
@@ -574,12 +575,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] Схаваць бакавую панэль закладак
            *[other] Паказаць бакавую панэль закладак
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] Схаваць паліцу закладак
-           *[other] Паказаць паліцу закладак
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -626,12 +621,11 @@ bookmarks-current-tab =
 
 library-bookmarks-menu =
     .label = Закладкі
-library-bookmarks-bookmark-this-page =
-    .label = Дадаць закладку на старонку
-library-bookmarks-bookmark-edit =
-    .label = Правіць гэтую закладку
 library-recent-activity-title =
     .value = Апошняя актыўнасць
+
+## Pocket toolbar button
+
 
 ## More items
 
@@ -658,3 +652,6 @@ panel-save-update-password = Пароль
 #  $name (String): The name of the addon that will be removed.
 addon-removal-title = Выдаліць { $name }?
 addon-removal-abuse-report-checkbox = Паведаміць пра гэта пашырэнне ў { -vendor-short-name }
+
+## Remote / Synced tabs
+
