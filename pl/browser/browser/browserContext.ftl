@@ -25,6 +25,10 @@ main-context-menu-back-2 =
     .tooltiptext = Przejdź do poprzedniej strony ({ $shortcut })
     .aria-label = Wstecz
     .accesskey = W
+# This menuitem is only visible on macOS
+main-context-menu-back-mac =
+    .label = Wstecz
+    .accesskey = W
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -46,6 +50,10 @@ main-context-menu-forward-2 =
     .tooltiptext = Przejdź do następnej strony ({ $shortcut })
     .aria-label = Do przodu
     .accesskey = D
+# This menuitem is only visible on macOS
+main-context-menu-forward-mac =
+    .label = Do przodu
+    .accesskey = D
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
@@ -56,6 +64,10 @@ toolbar-button-forward-2 =
 main-context-menu-reload =
     .aria-label = Odśwież
     .accesskey = O
+# This menuitem is only visible on macOS
+main-context-menu-reload-mac =
+    .label = Odśwież
+    .accesskey = O
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
@@ -63,6 +75,10 @@ toolbar-button-reload =
 
 main-context-menu-stop =
     .aria-label = Zatrzymaj
+    .accesskey = Z
+# This menuitem is only visible on macOS
+main-context-menu-stop-mac =
+    .label = Zatrzymaj
     .accesskey = Z
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
