@@ -156,10 +156,12 @@ master-password-reload-button =
 ## Password Sync notification
 
 enable-password-sync-notification-message =
-    { PLATFORM() ->
-        [windows] Желите да приступите подацима за пријаву свуда где користите { -brand-product-name }? Отворите подешавања { -sync-brand-short-name }-а и означите поље „Подаци за пријаву”.
-       *[other] Желите да приступите подацима за пријаву свуда где користите { -brand-product-name }? Отворите подешавања { -sync-brand-short-name }-а и означите поље „Подаци за пријаву”.
-    }
+    Желите да приступите лозинкама свуда где користите { -brand-product-name.gender ->
+        [masculine] { -brand-product-name(case: "acc") }
+        [feminine] { -brand-product-name(case: "acc") }
+        [neuter] { -brand-product-name(case: "acc") }
+       *[other] програм { -brand-product-name }
+    }? Отворите подешавања { -sync-brand-short-name(case: "gen") } и означите поље „Лозинке”.
 enable-password-sync-preferences-button =
     .label = Отвори подешавања { -sync-brand-short-name(case: "gen") }
     .accesskey = О
@@ -295,24 +297,13 @@ about-logins-export-file-picker-default-filename = logins.csv
 about-logins-export-file-picker-export-button = Извоз
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
-about-logins-export-file-picker-csv-filter-title =
-    { PLATFORM() ->
-        [macos] CSV документ
-       *[other] CSV датотека
-    }
+about-logins-export-file-picker-csv-filter-title = CSV датотека
 
 ## Login Import Dialog
 
 # Title of the file picker dialog
 about-logins-import-file-picker-title = Увоз датотеке са лозинкама
 about-logins-import-file-picker-import-button = Увези
-# A description for the .csv file format that may be shown as the file type
-# filter by the operating system.
-about-logins-import-file-picker-csv-filter-title =
-    { PLATFORM() ->
-        [macos] CSV документ
-       *[other] CSV датотека
-    }
 # A description for the .tsv file format that may be shown as the file type
 # filter by the operating system. TSV is short for 'tab separated values'.
 about-logins-import-file-picker-tsv-filter-title =
