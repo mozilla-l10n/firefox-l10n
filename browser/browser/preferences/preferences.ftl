@@ -28,6 +28,18 @@ search-input-box =
             [windows] W nastajenjach pytać
            *[other] W nastajenjach pytać
         }
+settings-page-title = Nastajenja
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box2 =
+    .style = width: 15.4em
+    .placeholder = W nastajenjach pytać
 managed-notice = Waš wobhladowka so wot wašeje organizacije rjaduje.
 category-list =
     .aria-label = Kategorije
@@ -52,6 +64,7 @@ category-experimental =
 pane-experimental-subtitle = Pokročujće z kedźbliwosću
 pane-experimental-search-results-header = Eksperimenty { -brand-short-name }: pokročujće z kedźbliwosću
 pane-experimental-description = Hdyž nastajenja rozšěrjeneje konfiguracije změniće, móže to wukon abo wěstotu { -brand-short-name } wobwliwować.
+pane-experimental-description2 = Hdyž nastajenja rozšěrjeneje konfiguracije změniće, móže to wukon abo wěstotu { -brand-short-name } wobwliwować.
 pane-experimental-reset =
     .label = Standard wobnowić
     .accesskey = S
@@ -121,6 +134,8 @@ search-results-empty-message =
         [windows] Bohužel žane wuslědki w nastajenjach za “<span data-l10n-name="query"></span>” njejsu.
        *[other] Bohužel žane wuslědki w nastajenjach za “<span data-l10n-name="query"></span>” njejsu.
     }
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 = Bohužel žane wuslědki w nastajenjach za “<span data-l10n-name="query"></span>” njejsu.
 search-results-help-link = Trjebaće pomoc? Wopytajće <a data-l10n-name="url">Pomoc za { -brand-short-name }</a>
 
 ## General Section
@@ -375,6 +390,9 @@ update-application-check-choose =
 update-application-manual =
     .label = Ženje za aktualizacijemi njepytać (njeporuča so)
     .accesskey = e
+update-application-background-enabled =
+    .label = Hdyž { -brand-short-name } njeběži
+    .accesskey = H
 update-application-warning-cross-user-setting = Tute nastajenje so na wšě konta Windows a profile { -brand-short-name } nałožuje, kotrež tutu instalaciju { -brand-short-name } wužiwaja.
 update-application-use-service =
     .label = Pozadkowu słužbu za instalowanje aktualizacijow wužiwać
@@ -386,6 +404,15 @@ update-setting-write-failure-title = Zmylk při składowanju aktualizowanskich n
 # intentional so the path is easier to identify.
 update-setting-write-failure-message =
     { -brand-short-name } je na zmylk storčił a njeje tutu změnu składował. Dźiwajće na to, zo sej tute aktualizowanske nastajenje pisanske prawo za slědowacu dataju wužaduje. Wy abo systemowy administrator móžetej zmylk porjedźić, hdyž wužiwarskej skupinje połnu kontrolu nad tutej dataju datej.
+    
+    Njeda so do dataje pisać: { $path }
+update-setting-write-failure-title2 = Zmylk při składowanju aktualizowanskich nastajenjow
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message2 =
+    { -brand-short-name } je na zmylk storčił a njeje tutu změnu składował. Dźiwajće na to, zo sej měnjenje tutoho aktualizowanskeho nastajenja pisanske prawo za slědowacu dataju wužaduje. Wy abo systemowy administrator móžetej zmylk porjedźić, hdyž wužiwarskej skupinje połnu kontrolu nad tutej dataju datej.
     
     Njeda so do dataje pisać: { $path }
 update-in-progress-title = Aktualizacija běži
@@ -587,6 +614,7 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Pytanske namjety w priwatnych woknach pokazać
 suggestions-addressbar-settings-generic = Nastajenja za druhe namjety adresoweho pola změnić
+suggestions-addressbar-settings-generic2 = Nastajenja za druhe namjety adresoweho pola změnić
 search-suggestions-cant-show = Pytanske namjety njebudu so we wuslědkach adresoweho pola pokazać, dokelž sće { -brand-short-name } tak konfigurował, zo sej ženje historiju njespomjatkuje.
 search-one-click-header = Pytawy z jednym kliknjenjom
 search-one-click-header2 = Pytanske skrótšenki
@@ -621,6 +649,8 @@ containers-back-button =
             [windows] Wróćo k nastajenjam
            *[other] Wróćo k nastajenjam
         }
+containers-back-button2 =
+    .aria-label = Wróćo k nastajenjam
 containers-header = Kontejnerowe rajtarki
 containers-add-button =
     .label = Nowy kontejner přidać
@@ -630,6 +660,8 @@ containers-new-tab-check =
     .accesskey = K
 containers-preferences-button =
     .label = Nastajenja
+containers-settings-button =
+    .label = Nastajenja
 containers-remove-button =
     .label = Wotstronić
 
@@ -638,6 +670,7 @@ containers-remove-button =
 
 sync-signedout-caption = Wzmiće swój web sobu
 sync-signedout-description = Synchronizujće swoje zapołožki, historiju, rajtarki, hesła, přidatki a nastajenja mjez wšěmi wašimi gratami.
+sync-signedout-description2 = Synchronizujće swoje zapołožki, historiju, rajtarki, hesła, přidatki a nastajenja mjez wšěmi wašimi gratami.
 sync-signedout-account-signin2 =
     .label = So pola { -sync-brand-short-name } přizjewić…
     .accesskey = S
@@ -680,6 +713,7 @@ prefs-sync-setup =
     .label = { -sync-brand-short-name } konfigurować
     .accesskey = k
 prefs-sync-offer-setup-label = Synchronizujće swoje zapołožki, historiju, rajtarki, hesła, přidatki a nastajenja mjez wšěmi wašimi gratami.
+prefs-sync-offer-setup-label2 = Synchronizujće swoje zapołožki, historiju, rajtarki, hesła, přidatki a nastajenja mjez wšěmi wašimi gratami.
 prefs-sync-now =
     .labelnotsyncing = Nětko synchronizować
     .accesskeynotsyncing = N
@@ -700,6 +734,7 @@ sync-currently-syncing-prefs =
         [windows] Nastajenja
        *[other] Nastajenja
     }
+sync-currently-syncing-settings = Nastajenja
 sync-change-options =
     .label = Změnić…
     .accesskey = Z
@@ -746,6 +781,10 @@ sync-engine-prefs =
            *[other] Nastajenja
         }
     .tooltiptext = Powšitkowne nastajenja, nastajenja priwatnosće a wěstoty, kotrež sće změnił
+    .accesskey = N
+sync-engine-settings =
+    .label = Nastajenja
+    .tooltiptext = Powšitkowne nastajenja a nastajenja priwatnosće a wěstoty su so změnili
     .accesskey = N
 
 ## The device name controls.
@@ -1161,6 +1200,11 @@ space-alert-under-5gb-ok-button =
     .label = W porjadku, sym zrozumił
     .accesskey = r
 space-alert-under-5gb-message = { -brand-short-name } hižo dosć składowanskeho ruma nima. Wobsah websydła so snano korektnje njezwobrazni. Móžeće na “Dalše informacije” kliknyć, zo byšće swój składowe wužiće za lěpše přehladowanske dožiwjenje opiměrował.
+space-alert-over-5gb-settings-button =
+    .label = Nastajenja wočinić
+    .accesskey = o
+space-alert-over-5gb-message2 = <strong>{ -brand-short-name } hižo dosć składowanskeho ruma nima.</strong> Wobsah websydła so snano korektnje njezwobrazni. Móžeće składowane daty w Nastajenja > Priwatnosć a wěstota > Placki a sydłowe daty zhašeć.
+space-alert-under-5gb-message2 = <strong>{ -brand-short-name } hižo dosć składowanskeho ruma nima.</strong> Wobsah websydła so snano korektnje njezwobrazni. Móžeće na “Dalše informacije” kliknyć, zo byšće swój składowe wužiće za lěpše přehladowanske dožiwjenje opiměrował.
 
 ## Privacy Section - HTTPS-Only
 

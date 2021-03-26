@@ -9,6 +9,16 @@ about-private-browsing-info-title = Sće w priwatnym woknje
 about-private-browsing-info-myths = Časte myty wo priwatnym modusu
 about-private-browsing =
     .title = Web přepytać
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff =
+    .title = Pytajće z { $engine } abo zapodajće adresu
+about-private-browsing-handoff-no-engine =
+    .title = Pytać abo adresu zapodać
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff-text = Pytajće z { $engine } abo zapodajće adresu
+about-private-browsing-handoff-text-no-engine = Pytać abo adresu zapodać
 about-private-browsing-not-private = Tuchwilu njejsće w priwatnym woknje.
 about-private-browsing-info-description = { -brand-short-name } wašu pytansku a přehladowansku historjiu wuprózdni, hdyž nałoženje wopušćiće abo wšě rajtarki a wokna priwatneho modus začiniće. Přez to so wosnadnja, před druhimi, kotřiž tutón ličak wužiwaja, schować, štož online činiće, hačrunjež to was za websydła abo wašeho poskićowarja internetneje słužby njeanonymizuje.
 about-private-browsing-need-more-privacy = Trjebaće wjace priwatnosće?

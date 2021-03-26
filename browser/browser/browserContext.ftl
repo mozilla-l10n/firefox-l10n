@@ -102,6 +102,18 @@ main-context-menu-bookmark-add =
     .aria-label = Tutu stronu jako zapołožku składować
     .accesskey = z
     .tooltiptext = Tutu stronu jako zapołožku składować
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-add-mac =
+    .label = Stronu jako zapołožku składować
+    .accesskey = S
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-edit-mac =
+    .label = Zapołožku wobdźěłać
+    .accesskey = Z
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-add-with-shortcut =
