@@ -25,6 +25,10 @@ main-context-menu-back-2 =
     .tooltiptext = Uɣal ɣer deffir s yiwen usebter ({ $shortcut })
     .aria-label = Γer deffir
     .accesskey = D
+# This menuitem is only visible on macOS
+main-context-menu-back-mac =
+    .label = Γer deffir
+    .accesskey = D
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
