@@ -35,6 +35,12 @@ appmenuitem-more-tools =
     .label = Meer hulpmiddelen
 appmenuitem-exit =
     .label = Afsluiten
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Afsluiten
+           *[other] Afsluiten
+        }
 appmenu-menu-button-closed =
     .tooltiptext = Toepassingsmenu openen
     .label = { -brand-shorter-name }
