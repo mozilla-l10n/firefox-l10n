@@ -25,6 +25,10 @@ main-context-menu-back-2 =
     .tooltiptext = Nôl un tudalen ({ $shortcut })
     .aria-label = Nôl
     .accesskey = N
+# This menuitem is only visible on macOS
+main-context-menu-back-mac =
+    .label = Nôl
+    .accesskey = N
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -46,6 +50,10 @@ main-context-menu-forward-2 =
     .tooltiptext = Ymlaen un tudalen ({ $shortcut })
     .aria-label = Ymlaen
     .accesskey = Y
+# This menuitem is only visible on macOS
+main-context-menu-forward-mac =
+    .label = Ymlaen
+    .accesskey = Y
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
@@ -56,6 +64,10 @@ toolbar-button-forward-2 =
 main-context-menu-reload =
     .aria-label = Ail-lwytho
     .accesskey = A
+# This menuitem is only visible on macOS
+main-context-menu-reload-mac =
+    .label = Ail-lwytho
+    .accesskey = A
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
@@ -63,6 +75,10 @@ toolbar-button-reload =
 
 main-context-menu-stop =
     .aria-label = Atal
+    .accesskey = t
+# This menuitem is only visible on macOS
+main-context-menu-stop-mac =
+    .label = Atal
     .accesskey = t
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
