@@ -384,6 +384,9 @@ update-application-check-choose =
 update-application-manual =
     .label = Majub'ey kekanöx taq k'exoj ruwäch (we man echilab'en ta)
     .accesskey = M
+update-application-background-enabled =
+    .label = Toq { -brand-short-name } man nitikirisäx ta
+    .accesskey = T
 update-application-warning-cross-user-setting = Re runuk'ulem re' xtisamajïx pa ronojel taq rub'i' kitaqoya'l Windows chuqa' ri taq ruwäch rub'i' { -brand-short-name } rik'in rokisaxik re ruyakoj { -brand-short-name }.
 update-application-use-service =
     .label = Tokisäx jun samaj pa ruka'n b'ey richin yeyak ri taq k'exoj ruwäch
@@ -395,6 +398,15 @@ update-setting-write-failure-title = Xsach toq xyak ri Ruk'exoj taq ajowab'äl
 # intentional so the path is easier to identify.
 update-setting-write-failure-message =
     { -brand-short-name } xrïl jun sachoj ruma ri' toq man xuyäk ta re jaloj re'. Tatz'eta' chi re runuk'ulem re rajowab'al jaloj re' nrajo' chi niya' q'ij richin nitz'ib'äx pa ri yakb'äl. Rik'in jub'a' rat o jun runuk'samajel q'inoj yixtikïr nisöl re sachoj, rik'in ruchajixik chijun ri yakb'äl ruma ri molaj okisanela'. 
+    
+    Man tikirel ta xtz'ib'äx chupam ri yakb'äl: { $path }
+update-setting-write-failure-title2 = Xsach toq xyak ri Ruk'exoj taq runuk'ulem
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message2 =
+    { -brand-short-name } xrïl jun sachoj ruma ri' toq man xuyäk ta re jaloj re'. Tatz'eta' chi re runuk'ulem jaloj re' nrajo' chi niya' q'ij richin nitz'ib'äx pa ri yakb'äl. Rik'in jub'a' rat o jun runuk'samajel q'inoj yixtikïr nisöl re sachoj, rik'in ruchajixik chijun ri yakb'äl ruma ri molaj okisanela'. 
     
     Man tikirel ta xtz'ib'äx chupam ri yakb'äl: { $path }
 update-in-progress-title = Nitajin Nik'ex
@@ -594,6 +606,7 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Kek'ut pe taq kichilab'exik kanoxik pa Ichinan taq Tzuwäch
 suggestions-addressbar-settings-generic = Kek'ex ri taq kajowab'al ch'aqa' chik taq kichilab'enik kikajtz'ik ochochib'äl
+suggestions-addressbar-settings-generic2 = Kek'ex ri taq runuk'ulem ch'aqa' chik taq kichilab'enik kikajtz'ik ochochib'äl
 search-suggestions-cant-show = Man xkeq'alajin ta pe ri taq chilab'exïk richin nikanöx pa rukajtz'ik ochochib'äl ruma chi anuk'un ri { -brand-short-name } richin majub'ey tunataj ri anatab'al.
 search-one-click-header = Samajel taq kanob'äl rik'in jupitz'oj
 search-one-click-header2 = Kekanöx Ruq'a' Okem
@@ -628,6 +641,8 @@ containers-back-button =
             [windows] Titzolin pa taq Cha'oj
            *[other] Titzolin pa taq Ajowab'äl
         }
+containers-back-button2 =
+    .aria-label = Tib'an chik Runuk'ulem
 containers-header = Ajk'wayöl taq ruwi'
 containers-add-button =
     .label = Titz'aqatisäx k'ak'a' k'wayöl
@@ -637,6 +652,8 @@ containers-new-tab-check =
     .accesskey = T
 containers-preferences-button =
     .label = Taq ajowab'äl
+containers-settings-button =
+    .label = Taq runuk'ulem
 containers-remove-button =
     .label = Tiyuj
 
@@ -645,6 +662,7 @@ containers-remove-button =
 
 sync-signedout-caption = Tak'waj awik'in ri Ajk'amaya'l
 sync-signedout-description = Ke'axima' ri taq ayaketal, natab'äl, taq ruwi', taq ewan tzij, taq tz'aqat chuqa' taq ajowab'äl chi kikojol konojel ri taq awokisaxel.
+sync-signedout-description2 = Ke'axima' ri taq ayaketal, natab'äl, taq ruwi', taq ewan tzij, taq tz'aqat chuqa' taq runuk'ulem chi kikojol konojel ri taq awokisaxel.
 sync-signedout-account-signin2 =
     .label = Tatz'ib'aj ab'i' pa { -sync-brand-short-name }…
     .accesskey = p
@@ -687,6 +705,7 @@ prefs-sync-setup =
     .label = Tib'an runuk'ulem { -sync-brand-short-name }...
     .accesskey = n
 prefs-sync-offer-setup-label = Ke'axima' ri taq ayaketal, natab'äl, taq ruwi', taq ewan tzij, taq tz'aqat chuqa' taq ajowab'äl chi kikojol konojel ri taq awokisaxel.
+prefs-sync-offer-setup-label2 = Ke'axima' ri taq ayaketal, natab'äl, taq ruwi', taq ewan tzij, taq tz'aqat chuqa' taq runuk'ulem chi kikojol konojel ri taq awokisaxel.
 prefs-sync-now =
     .labelnotsyncing = Tixim Wakami
     .accesskeynotsyncing = W
@@ -707,6 +726,7 @@ sync-currently-syncing-prefs =
         [windows] Taq cha'oj
        *[other] Taq ajowab'äl
     }
+sync-currently-syncing-settings = Taq runuk'ulem
 sync-change-options =
     .label = Tijal…
     .accesskey = j
@@ -754,6 +774,10 @@ sync-engine-prefs =
         }
     .tooltiptext = Chijun Runuk'ulem, Ichinanem chuqa' Jikomal e'ajalon
     .accesskey = a
+sync-engine-settings =
+    .label = Taq runuk'ulem
+    .tooltiptext = Xjal Chijun, Ichinan, chuqa' Jikïl runuk'ulem
+    .accesskey = r
 
 ## The device name controls.
 
@@ -1168,6 +1192,11 @@ space-alert-under-5gb-ok-button =
     .label = ÜTZ, Wetaman chik
     .accesskey = T
 space-alert-under-5gb-message = { -brand-short-name } tajin majun rupam nikanaj kan pa rujolom. Rik'in jub'a' man ütz ta nik'ut pe ri rupam ruxaq k'amaya'l. Tab'etz'eta' “Tetamäx ch'aqa' chik” richin nutziläx toq nokisäx rujolom richin tik'asäs nawokisaj awetamab'al rik'in ri okem pa k'amaya'l.
+space-alert-over-5gb-settings-button =
+    .label = Tijaq taq runuk'ulem
+    .accesskey = T
+space-alert-over-5gb-message2 = <strong>{ -brand-short-name } majun chik rupam nikanaj kan pa rujolom.</strong> Rik'in jub'a' man ütz ta yek'ut pe ri rupam Ajk'amaya'l ruxaq. Yatikïr ye'ayüj el ri taq tzij eyakon pa Taq Runuk'ulem> Ichinanem & Jikomal > Taq Kaxlanwey chuqa' Rutzij Ruxaq K'amaya'l.
+space-alert-under-5gb-message2 = <strong>{ -brand-short-name } tajin majun rupam nikanaj kan pa rujolom.</strong> Rik'in jub'a' man ütz ta nik'ut pe ri rupam ruxaq k'amaya'l. Tab'etz'eta' “Tetamäx ch'aqa' chik” richin nutziläx toq nokisäx rujolom richin tik'asäs nawokisaj awetamab'al rik'in ri okem pa k'amaya'l.
 
 ## Privacy Section - HTTPS-Only
 

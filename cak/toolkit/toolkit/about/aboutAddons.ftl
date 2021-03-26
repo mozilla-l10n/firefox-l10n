@@ -34,6 +34,9 @@ sidebar-preferences-button-title =
             [windows] { -brand-short-name } Taq Cha'oj
            *[other] { -brand-short-name } Taq Ajowab'äl
         }
+addons-settings-button = { -brand-short-name } Taq Runuk'ulem
+sidebar-settings-button-title =
+    .title = { -brand-short-name } Taq Runuk'ulem
 show-unsigned-extensions-button =
     .label = Jujun taq k'amal man tikirel ta yenik'öx
 show-all-extensions-button =
