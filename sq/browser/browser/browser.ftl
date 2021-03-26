@@ -671,3 +671,6 @@ addon-removal-abuse-report-checkbox = Raportojeni këtë zgjerim te { -vendor-sh
 
 ## Remote / Synced tabs
 
+remote-tabs-manage-account =
+    .label = Administroni Llogari
+remote-tabs-sync-now = Njëkohësoji Tani
