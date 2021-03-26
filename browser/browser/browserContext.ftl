@@ -25,6 +25,10 @@ main-context-menu-back-2 =
     .tooltiptext = 한 페이지 뒤로 가기 ({ $shortcut })
     .aria-label = 뒤로
     .accesskey = B
+# This menuitem is only visible on macOS
+main-context-menu-back-mac =
+    .label = 뒤로
+    .accesskey = B
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -46,6 +50,10 @@ main-context-menu-forward-2 =
     .tooltiptext = 한 페이지 앞으로 가기 ({ $shortcut })
     .aria-label = 앞으로
     .accesskey = F
+# This menuitem is only visible on macOS
+main-context-menu-forward-mac =
+    .label = 앞으로
+    .accesskey = F
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
@@ -56,6 +64,10 @@ toolbar-button-forward-2 =
 main-context-menu-reload =
     .aria-label = 새로 고침
     .accesskey = R
+# This menuitem is only visible on macOS
+main-context-menu-reload-mac =
+    .label = 새로 고침
+    .accesskey = R
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
@@ -63,6 +75,10 @@ toolbar-button-reload =
 
 main-context-menu-stop =
     .aria-label = 중지
+    .accesskey = S
+# This menuitem is only visible on macOS
+main-context-menu-stop-mac =
+    .label = 중지
     .accesskey = S
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
@@ -111,9 +127,6 @@ main-context-menu-open-link-new-tab =
 main-context-menu-open-link-container-tab =
     .label = 새 컨테이너 탭에 링크 열기
     .accesskey = C
-main-context-menu-open-link-container =
-    .label = 새 컨테이너에 링크 열기
-    .accesskey = w
 main-context-menu-open-link-new-window =
     .label = 새 창에 링크 열기
     .accesskey = W
