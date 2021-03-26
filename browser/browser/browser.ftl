@@ -379,7 +379,7 @@ browser-tab-unblock =
 browser-import-button2 =
     .label = Importa segnalibri…
     .tooltiptext = Importa i segnalibri di un altro browser in { -brand-short-name }.
-bookmarks-toolbar-empty-message = Salva i tuoi segnalibri qui, nella Barra dei segnalibri, per accedervi più rapidamente. <a data-l10n-name="manage-bookmarks">Gestisci i segnalibri…</a>
+bookmarks-toolbar-empty-message = Salva i tuoi segnalibri qui, nella barra dei segnalibri, per accedervi più rapidamente. <a data-l10n-name="manage-bookmarks">Gestisci i segnalibri…</a>
 
 ## WebRTC Pop-up notifications
 
