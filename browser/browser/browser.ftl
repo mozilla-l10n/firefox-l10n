@@ -448,6 +448,9 @@ library-bookmarks-menu =
 
 ## Pocket toolbar button
 
+save-to-pocket-button =
+    .label = Danndu e { -pocket-brand-name }
+    .tooltiptext = Danndu e { -pocket-brand-name }
 
 ## More items
 
