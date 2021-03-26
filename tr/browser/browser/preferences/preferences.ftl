@@ -28,6 +28,7 @@ search-input-box =
             [windows] Seçeneklerde ara
            *[other] Tercihlerde ara
         }
+settings-page-title = Ayarlar
 managed-notice = Tarayıcınız kuruluşunuz tarafından yönetiliyor.
 category-list =
     .aria-label = Kategoriler
@@ -692,6 +693,7 @@ sync-currently-syncing-prefs =
         [windows] Seçenekler
        *[other] Tercihler
     }
+sync-currently-syncing-settings = Ayarlar
 sync-change-options =
     .label = Değiştir…
     .accesskey = D
