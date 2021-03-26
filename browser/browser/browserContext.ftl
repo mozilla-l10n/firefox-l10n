@@ -25,6 +25,10 @@ main-context-menu-back-2 =
     .tooltiptext = Bir sayfa geriye ({ $shortcut })
     .aria-label = Geri
     .accesskey = G
+# This menuitem is only visible on macOS
+main-context-menu-back-mac =
+    .label = Geri
+    .accesskey = G
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -46,6 +50,10 @@ main-context-menu-forward-2 =
     .tooltiptext = Bir sayfa ileriye ({ $shortcut })
     .aria-label = İleri
     .accesskey = e
+# This menuitem is only visible on macOS
+main-context-menu-forward-mac =
+    .label = İleri
+    .accesskey = e
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
@@ -56,6 +64,10 @@ toolbar-button-forward-2 =
 main-context-menu-reload =
     .aria-label = Tazele
     .accesskey = z
+# This menuitem is only visible on macOS
+main-context-menu-reload-mac =
+    .label = Tazele
+    .accesskey = z
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
@@ -63,6 +75,10 @@ toolbar-button-reload =
 
 main-context-menu-stop =
     .aria-label = Durdur
+    .accesskey = D
+# This menuitem is only visible on macOS
+main-context-menu-stop-mac =
+    .label = Durdur
     .accesskey = D
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
