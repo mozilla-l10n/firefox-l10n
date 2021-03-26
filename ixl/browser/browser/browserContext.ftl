@@ -30,6 +30,10 @@ toolbar-button-forward-2 =
 main-context-menu-reload =
     .aria-label = Oksa  tuul
     .accesskey = O
+# This menuitem is only visible on macOS
+main-context-menu-reload-mac =
+    .label = Oksa  tuul
+    .accesskey = O
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }{ main-context-menu-reload.aria-label }
 
