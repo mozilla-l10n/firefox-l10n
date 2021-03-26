@@ -628,6 +628,9 @@ library-recent-activity-title =
 
 ## Pocket toolbar button
 
+save-to-pocket-button =
+    .label = Сохранить в { -pocket-brand-name }
+    .tooltiptext = Сохранить в { -pocket-brand-name }
 
 ## More items
 
