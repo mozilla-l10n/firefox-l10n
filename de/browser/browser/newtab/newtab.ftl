@@ -19,6 +19,9 @@ newtab-search-box-search-button =
     .title = Suchen
     .aria-label = Suchen
 newtab-search-box-search-the-web-text = Das Web durchsuchen
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-text = Mit { $engine } suchen oder Adresse eingeben
 newtab-search-box-search-the-web-input =
     .placeholder = Das Web durchsuchen
     .title = Das Web durchsuchen
