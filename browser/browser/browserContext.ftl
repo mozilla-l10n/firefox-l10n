@@ -25,6 +25,10 @@ main-context-menu-back-2 =
     .tooltiptext = Unu paĝo malantaŭen ({ $shortcut })
     .aria-label = Malantaŭen
     .accesskey = M
+# This menuitem is only visible on macOS
+main-context-menu-back-mac =
+    .label = Malantaŭen
+    .accesskey = M
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -46,6 +50,10 @@ main-context-menu-forward-2 =
     .tooltiptext = Unu paĝo antaŭen ({ $shortcut })
     .aria-label = Antaŭen
     .accesskey = A
+# This menuitem is only visible on macOS
+main-context-menu-forward-mac =
+    .label = Antaŭen
+    .accesskey = A
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
@@ -56,6 +64,10 @@ toolbar-button-forward-2 =
 main-context-menu-reload =
     .aria-label = Reŝargi
     .accesskey = R
+# This menuitem is only visible on macOS
+main-context-menu-reload-mac =
+    .label = Reŝargi
+    .accesskey = R
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
@@ -63,6 +75,10 @@ toolbar-button-reload =
 
 main-context-menu-stop =
     .aria-label = Halti
+    .accesskey = H
+# This menuitem is only visible on macOS
+main-context-menu-stop-mac =
+    .label = Halti
     .accesskey = H
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
