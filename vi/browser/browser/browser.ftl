@@ -663,3 +663,6 @@ addon-removal-abuse-report-checkbox = Báo cáo tiện ích mở rộng này cho
 
 ## Remote / Synced tabs
 
+remote-tabs-manage-account =
+    .label = Quản lý tài khoản
+remote-tabs-sync-now = Đồng bộ ngay
