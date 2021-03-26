@@ -486,6 +486,9 @@ library-bookmarks-menu =
 
 ## Pocket toolbar button
 
+save-to-pocket-button =
+    .label = Salvesta { -pocket-brand-name }isse
+    .tooltiptext = Salvesta { -pocket-brand-name }isse
 
 ## More items
 
