@@ -658,3 +658,6 @@ addon-removal-abuse-report-checkbox = Zgłoś to rozszerzenie do organizacji { -
 
 ## Remote / Synced tabs
 
+remote-tabs-manage-account =
+    .label = Zarządzaj kontem
+remote-tabs-sync-now = Synchronizuj teraz
