@@ -25,6 +25,10 @@ main-context-menu-back-2 =
     .tooltiptext = Een pagina terug gaan ({ $shortcut })
     .aria-label = Terug
     .accesskey = T
+# This menuitem is only visible on macOS
+main-context-menu-back-mac =
+    .label = Terug
+    .accesskey = T
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -46,6 +50,10 @@ main-context-menu-forward-2 =
     .tooltiptext = Een pagina vooruit gaan ({ $shortcut })
     .aria-label = Vooruit
     .accesskey = V
+# This menuitem is only visible on macOS
+main-context-menu-forward-mac =
+    .label = Vooruit
+    .accesskey = V
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
@@ -56,6 +64,10 @@ toolbar-button-forward-2 =
 main-context-menu-reload =
     .aria-label = Vernieuwen
     .accesskey = r
+# This menuitem is only visible on macOS
+main-context-menu-reload-mac =
+    .label = Vernieuwen
+    .accesskey = r
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
@@ -63,6 +75,10 @@ toolbar-button-reload =
 
 main-context-menu-stop =
     .aria-label = Stoppen
+    .accesskey = S
+# This menuitem is only visible on macOS
+main-context-menu-stop-mac =
+    .label = Stoppen
     .accesskey = S
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
