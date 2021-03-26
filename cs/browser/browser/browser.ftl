@@ -681,6 +681,12 @@ library-bookmarks-menu =
 library-recent-activity-title =
     .value = Nedávná aktivita
 
+## Pocket toolbar button
+
+save-to-pocket-button =
+    .label = Uloží do { -pocket-brand-name(case: "gen") }
+    .tooltiptext = Uloží do { -pocket-brand-name(case: "gen") }
+
 ## More items
 
 more-menu-go-offline =
@@ -707,4 +713,7 @@ panel-save-update-username = Uživatelské jméno
 panel-save-update-password = Heslo
 
 ## Add-on removal warning
+
+
+## Remote / Synced tabs
 
