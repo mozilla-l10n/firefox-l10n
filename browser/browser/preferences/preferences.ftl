@@ -1401,12 +1401,15 @@ space-alert-over-5gb-message =
         [windows] Lo spazio a disposizione di { -brand-short-name } sta per esaurirsi. Il contenuto dei siti web potrebbe non essere visualizzato correttamente. È possibile eliminare i dati salvati dai siti web in Opzioni > Privacy e sicurezza > Cookie e dati dei siti web.
        *[other] Lo spazio a disposizione di { -brand-short-name } sta per esaurirsi. Il contenuto dei siti web potrebbe non essere visualizzato correttamente. È possibile eliminare i dati salvati dai siti web in Preferenze > Privacy e sicurezza > Cookie e dati dei siti web.
     }
+space-alert-over-5gb-message2 = <strong>Lo spazio a disposizione di { -brand-short-name } sta per esaurirsi.</strong> Il contenuto dei siti web potrebbe non essere visualizzato correttamente. È possibile eliminare i dati salvati dai siti web in Impostazioni > Privacy e sicurezza > Cookie e dati dei siti web.
 
 space-alert-under-5gb-ok-button =
     .label = OK, ricevuto
     .accesskey = K
 
 space-alert-under-5gb-message = Lo spazio a disposizione di { -brand-short-name } sta per esaurirsi. Il contenuto dei siti web potrebbe non essere visualizzato correttamente. Visita il link “Ulteriori informazioni” per scoprire come ottimizzare l’utilizzo dello spazio su disco e migliorare l’esperienza di navigazione.
+
+space-alert-under-5gb-message2 = <strong>Lo spazio a disposizione di { -brand-short-name } sta per esaurirsi.</strong> Il contenuto dei siti web potrebbe non essere visualizzato correttamente. Visita il link “Ulteriori informazioni” per scoprire come ottimizzare l’utilizzo dello spazio su disco e migliorare l’esperienza di navigazione.
 
 ## Privacy Section - HTTPS-Only
 
