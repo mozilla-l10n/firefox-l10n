@@ -247,6 +247,11 @@ browser-window-close-button =
 ## Tab actions
 
 
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+
 ## Bookmarks toolbar items
 
 
@@ -327,8 +332,6 @@ pointerlock-warning-no-domain = මෙම ලේඛනය හට ඔබගේ �
 
 bookmarks-show-all-bookmarks =
     .label = සියළු පිටුසලකුණු පෙන්වන්න…
-bookmarks-recent-bookmarks =
-    .value = මෑතදී පිටුසලකුණු කළ
 bookmarks-toolbar-chevron =
     .tooltiptext = තවත් පිටුසලකුණු පෙන්වන්න
 bookmarks-sidebar-content =
@@ -344,12 +347,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] පිටු සලකුණු පැති තීරුව සඟවන්න
            *[other] පිටුලකුණු පැති තීරුව පෙන්වන්න
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] පිටු සලකුණු මෙවලම් තීරුව සඟවන්න
-           *[other] පිටුලකුණු මෙවලම්තීරුව පෙන්වන්න
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -380,13 +377,24 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-menu =
     .label = පිටු සලකුණු
-library-bookmarks-bookmark-this-page =
-    .label = මෙම පිටුව සලකුණු කරගන්න
-library-bookmarks-bookmark-edit =
-    .label = මෙම පිටු සලකුණ සකසන්න
+
+## Pocket toolbar button
+
 
 ## More items
 
 more-menu-go-offline =
     .label = නොබැඳිව ක්‍රියා කරන්න
     .accesskey = k
+
+## EME notification panel
+
+
+## Password save/update panel
+
+
+## Add-on removal warning
+
+
+## Remote / Synced tabs
+
