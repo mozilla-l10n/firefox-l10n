@@ -637,6 +637,12 @@ library-bookmarks-menu =
 library-recent-activity-title =
     .value = Recente activitate
 
+## Pocket toolbar button
+
+save-to-pocket-button =
+    .label = Salvar in { -pocket-brand-name }
+    .tooltiptext = Salvar in { -pocket-brand-name }
+
 ## More items
 
 more-menu-go-offline =
@@ -662,3 +668,6 @@ panel-save-update-password = Contrasigno
 #  $name (String): The name of the addon that will be removed.
 addon-removal-title = Remover { $name }?
 addon-removal-abuse-report-checkbox = Signalar iste extension a { -vendor-short-name }
+
+## Remote / Synced tabs
+
