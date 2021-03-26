@@ -288,6 +288,8 @@ identity-passive-loaded = Partoj de tiu ĉi paĝo ne estas sekuraj (bildoj, ekze
 identity-active-loaded = Mi malaktivigis protekton en tiu ĉi paĝo.
 identity-weak-encryption = Tiu ĉi paĝo uzas malfortan ĉifradon.
 identity-insecure-login-forms = Akreditiloj uzitaj en tiu ĉi paĝo povus esti riskitaj.
+identity-permissions =
+    .value = Permesoj
 identity-https-only-connection-upgraded = (ŝanĝita al HTTPS)
 identity-https-only-label = HTTPS-nura reĝimo
 identity-https-only-dropdown-on =
@@ -299,8 +301,6 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Ŝaltu la HTTPS-nuran reĝimon por tiu ĉi retejo se vi volas ke { -brand-short-name } ŝanĝu la konekton, se tio eblas.
 identity-https-only-info-turn-off2 = Se la paĝo ne bone funkcias, vi povas malŝalti la HTTPS-nuran reĝimon por tiu ĉi retejo, por reŝargi ĝin per nesekura HTTP.
 identity-https-only-info-no-upgrade = Ne eblas ŝanĝi la konekton HTTP.
-identity-permissions =
-    .value = Permesoj
 identity-permissions-storage-access-header = Interretejaj kuketoj
 identity-permissions-storage-access-hint = Tiuj ĉi aliaj partoprenantoj povas uzi interretejajn kuketojn kaj retejajn datumojn dum vi estas en tiu ĉi retejo,
 identity-permissions-reload-hint = Vi eble bezonos reŝargi la paĝon por ke la ŝanĝoj estu aplikitaj.
@@ -348,8 +348,6 @@ browser-window-close-button =
 
 ## Tab actions
 
-browser-tab-audio-playing = Ludanta
-browser-tab-audio-muted = Silentigita
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-playing2 = LUDANTA
 # This label should be written in all capital letters if your locale supports them.
@@ -358,6 +356,11 @@ browser-tab-audio-muted2 = SILENTIGITA
 browser-tab-audio-blocked = AŬTOMATA LUDADO BLOKITA
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = BILDO-EN-BILDO
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
 
 ## Bookmarks toolbar items
 
@@ -550,8 +553,6 @@ crashed-subframe-submit =
 
 bookmarks-show-all-bookmarks =
     .label = Montri ĉiujn legosignojn
-bookmarks-recent-bookmarks =
-    .value = Ĵusaj legosignoj
 bookmarks-manage-bookmarks =
     .label = Administri legosignojn
 bookmarks-recent-bookmarks-panel =
@@ -572,12 +573,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] Kaŝi flankan strion de legosignoj
            *[other] Montri flankan strion de legosignoj
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] Kaŝi ilaron de legosignoj
-           *[other] Montri ilaron de legosignoj
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -624,12 +619,11 @@ bookmarks-current-tab =
 
 library-bookmarks-menu =
     .label = Legosignoj
-library-bookmarks-bookmark-this-page =
-    .label = Aldoni legosignon por tiu ĉi paĝo
-library-bookmarks-bookmark-edit =
-    .label = Redakti tiun ĉi legosignon
 library-recent-activity-title =
     .value = Ĵusa agado
+
+## Pocket toolbar button
+
 
 ## More items
 
@@ -656,3 +650,6 @@ panel-save-update-password = Pasvorto
 #  $name (String): The name of the addon that will be removed.
 addon-removal-title = Ĉu forigi { $name }?
 addon-removal-abuse-report-checkbox = Denunci tiun ĉi etendaĵon al { -vendor-short-name }
+
+## Remote / Synced tabs
+
