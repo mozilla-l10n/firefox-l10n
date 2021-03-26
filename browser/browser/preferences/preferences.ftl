@@ -247,16 +247,8 @@ download-save-to =
     .label = Сачувај датотеке у
     .accesskey = С
 download-choose-folder =
-    .label =
-        { PLATFORM() ->
-            [macos] Избор…
-           *[other] Избор…
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [macos] И
-           *[other] И
-        }
+    .label = Потражи…
+    .accesskey = П
 download-always-ask-where =
     .label = Увек питај где да се сачувају датотеке
     .accesskey = У
@@ -284,12 +276,7 @@ applications-use-app =
 applications-use-app-default =
     .label = Користи { $app-name } (подразумевано)
 applications-use-os-default =
-    .label =
-        { PLATFORM() ->
-            [macos] Користите macOS подразумевану апликацију
-            [windows] Користите Windows подразумевану апликацију
-           *[other] Користите системску подразумевану апликацију
-        }
+    .label = Користи подразумевани програм система
 applications-use-other =
     .label = Користи друго…
 applications-select-helper = Избор помоћног програма
@@ -600,11 +587,7 @@ search-keyword-warning-bookmark = Одабрали сте кључну реч к
 ## Containers Section
 
 containers-back-button =
-    .aria-label =
-        { PLATFORM() ->
-            [windows] Назад на подешавања
-           *[other] Назад на подешавања
-        }
+    .aria-label = Назад на подешавања
 containers-header = Контејнер језичци
 containers-add-button =
     .label = Додај нови контејнер
@@ -679,11 +662,7 @@ sync-currently-syncing-logins-passwords = Пријаве и лозинке
 sync-currently-syncing-addresses = Адресе
 sync-currently-syncing-creditcards = Кредитне картице
 sync-currently-syncing-addons = Додаци
-sync-currently-syncing-prefs =
-    { PLATFORM() ->
-        [windows] Подешавања
-       *[other] Подешавања
-    }
+sync-currently-syncing-prefs = Подешавања
 sync-change-options =
     .label = Промена…
     .accesskey = П
@@ -724,12 +703,8 @@ sync-engine-addons =
     .tooltiptext = Екстензије и теме за Firefox десктоп
     .accesskey = Д
 sync-engine-prefs =
-    .label =
-        { PLATFORM() ->
-            [windows] Подешавања
-           *[other] Подешавања
-        }
-    .tooltiptext = Промењена подешавања
+    .label = Подешавања
+    .tooltiptext = Подешавања која сте променили
     .accesskey = П
 
 ## The device name controls.
@@ -1162,7 +1137,7 @@ httpsonly-radio-disabled =
 
 desktop-folder-name = Радна површина
 downloads-folder-name = Преузимања
-choose-download-folder-title = Одаберите фасциклу за преузимања:
+choose-download-folder-title = Избор фасцикле за преузимања
 # Variables:
 #   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
 save-files-to-cloud-storage =
