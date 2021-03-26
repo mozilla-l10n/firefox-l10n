@@ -640,6 +640,12 @@ library-bookmarks-menu =
 library-recent-activity-title =
     .value = Resinte aktiviteit
 
+## Pocket toolbar button
+
+save-to-pocket-button =
+    .label = Bewarje nei { -pocket-brand-name }
+    .tooltiptext = Bewarje nei { -pocket-brand-name }
+
 ## More items
 
 more-menu-go-offline =
@@ -665,3 +671,6 @@ panel-save-update-password = Wachtwurd
 #  $name (String): The name of the addon that will be removed.
 addon-removal-title = { $name } fuortsmite?
 addon-removal-abuse-report-checkbox = Dizze útwreiding rapportearje oan { -vendor-short-name }
+
+## Remote / Synced tabs
+
