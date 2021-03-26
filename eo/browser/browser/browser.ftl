@@ -656,3 +656,6 @@ addon-removal-abuse-report-checkbox = Denunci tiun ĉi etendaĵon al { -vendor-s
 
 ## Remote / Synced tabs
 
+remote-tabs-manage-account =
+    .label = Administri konton
+remote-tabs-sync-now = Speguli nun
