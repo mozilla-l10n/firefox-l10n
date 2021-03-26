@@ -293,6 +293,11 @@ browser-window-close-button =
 ## Tab actions
 
 
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+
 ## Bookmarks toolbar items
 
 
@@ -375,8 +380,6 @@ pointerlock-warning-no-domain = આ દસ્તાવેજ આપના પો
 
 bookmarks-show-all-bookmarks =
     .label = બધા બુકમાર્ક્સને બતાવો
-bookmarks-recent-bookmarks =
-    .value = તાજેતરમાં કરેલ બુકમાર્ક
 bookmarks-toolbar-chevron =
     .tooltiptext = વધુ બુકમાર્ક્સ બતાવો
 bookmarks-sidebar-content =
@@ -392,12 +395,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] બુકમાર્ક્સ સાઇડબાર છુપાવો
            *[other] બુકમાર્ક બાજુપટ્ટીને જુઓ
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] બુકમાર્ક્સ ટૂલબાર છુપાવો
-           *[other] બુકમાર્ક સાધનપટ્ટીને દર્શાવો
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -428,10 +425,9 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-menu =
     .label = બુકમાર્ક્સ
-library-bookmarks-bookmark-this-page =
-    .label = આ પાનાંને બુકમાર્ક કરો
-library-bookmarks-bookmark-edit =
-    .label = આ બુકમાર્કમાં ફેરફાર કરો
+
+## Pocket toolbar button
+
 
 ## More items
 
@@ -442,3 +438,12 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = આ સાઇટ પરના કેટલાક ઑડિઓ અથવા વિડિઓ DRM સૉફ્ટવેરનો ઉપયોગ કરે છે, જે { -brand-short-name } તમને તેની સાથે શું કરી શકે છે તે મર્યાદિત કરી શકે છે.
+
+## Password save/update panel
+
+
+## Add-on removal warning
+
+
+## Remote / Synced tabs
+
