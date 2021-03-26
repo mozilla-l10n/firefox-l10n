@@ -18,6 +18,7 @@ can reach it easily. -->
 
 
 <!ENTITY openFileCmd.label "Кушодани файл…">
+<!ENTITY printCmd.label "Чоп кардан ...">
 
 
 <!ENTITY menubarCmd.label "Навори меню">
@@ -60,6 +61,8 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY recentBookmarks.label "Хатбаракҳои охирин">
 <!ENTITY bookmarksToolbarChevron.tooltip "Намоиш додани хатбаракҳои дигар">
 
+<!ENTITY printButton.label            "Чоп кардан">
+<!ENTITY printButton.tooltip          "Чоп кардани саҳифаи ҷорӣ">
 
 
 <!-- Toolbar items -->
@@ -147,6 +150,7 @@ this container is a toolbar. This avoids double-speaking. -->
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
 
+<!ENTITY findOnCmd.label     "Ҷустуҷӯ дар ин саҳифа…">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -160,6 +164,8 @@ this container is a toolbar. This avoids double-speaking. -->
 
 
 
+<!ENTITY pageAction.shareUrl.label "Мубодила кардан">
+<!ENTITY pageAction.shareMore.label "Бештар…">
 
 <!ENTITY libraryButton.tooltip "Намоиш додани таърих, хатбаракҳои нигоҳдошташуда ва ғайра">
 

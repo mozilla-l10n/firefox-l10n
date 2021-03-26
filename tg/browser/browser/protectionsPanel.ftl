@@ -16,6 +16,7 @@
 
 ##
 
+protections-panel-content-blocking-fingerprinters-label = Хонандаи изи ангушт
 
 ## In the protections panel, Content Blocking category items are in three sections:
 ##   "Blocked" for categories being blocked in the current page,
@@ -23,6 +24,8 @@
 ##   "None Detected" for categories not detected in the current page.
 ##   These strings are used in the header labels of each of these sections.
 
+protections-panel-blocking-label = Манъ карда мешавад
+protections-panel-not-blocking-label = Иҷозат дода мешавад
 
 ##
 

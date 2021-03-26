@@ -337,6 +337,10 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Варақаҳои кушодашуда
     .accesskey = В
+# Shortcuts refers to the shortcut tiles on the new tab page, previously known as top sites. Translation should be consistent.
+addressbar-locbar-shortcuts-option =
+    .label = Миёнбурҳо
+    .accesskey = М
 
 ## Privacy Section - Content Blocking
 
@@ -348,6 +352,12 @@ content-blocking-learn-more = Маълумоти бештар
 
 ##
 
+content-blocking-fingerprinters = Хонандаи изи ангушт
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = Хонандаи изи ангушт
+    .accesskey = Х
 
 ## Privacy Section - Tracking
 
@@ -369,6 +379,7 @@ collection-backlogged-crash-reports-link = Маълумоти бештар
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = Амният
 security-enable-safe-browsing-link = Маълумоти бештар
 
 ## Privacy Section - Certificates

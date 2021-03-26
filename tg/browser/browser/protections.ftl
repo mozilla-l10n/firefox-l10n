@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+fingerprinter-tab-title = Хонандаи изи ангушт
 protections-close-button2 =
     .aria-label = Пӯшидан
     .title = Пӯшидан
@@ -15,3 +16,10 @@ protection-report-save-passwords-button = Нигоҳ доштани ниҳонв
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-fingerprinter =
+    .title = Хонандаи изи ангушт
+    .aria-label =
+        { $count ->
+            [one] { $count } хонандаи изи ангушт ({ $percentage }%)
+           *[other] { $count } хонандаи изи ангушт ({ $percentage }%)
+        }
