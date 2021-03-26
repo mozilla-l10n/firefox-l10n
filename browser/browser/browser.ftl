@@ -445,6 +445,9 @@ library-bookmarks-menu =
 
 ## Pocket toolbar button
 
+save-to-pocket-button =
+    .label = Sarva in { -pocket-brand-name }
+    .tooltiptext = Sarva in { -pocket-brand-name }
 
 ## More items
 
