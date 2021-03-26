@@ -35,6 +35,12 @@ appmenuitem-more-tools =
     .label = Thêm công cụ
 appmenuitem-exit =
     .label = Thoát
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Thoát
+           *[other] Thoát
+        }
 appmenu-menu-button-closed =
     .tooltiptext = Mở menu ứng dụng
     .label = { -brand-shorter-name }
