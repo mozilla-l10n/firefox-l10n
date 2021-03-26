@@ -28,6 +28,7 @@ search-input-box =
             [windows] Recercar dins Opcions
            *[other] Recercar dins Preferéncias
         }
+settings-page-title = Paramètres
 managed-notice = Vòstra organizacion gerís vòstre navegador.
 category-list =
     .aria-label = Categorias
@@ -613,6 +614,8 @@ containers-back-button =
             [windows] Tornar a las opcions
            *[other] Tornar a las preferéncias
         }
+containers-back-button2 =
+    .aria-label = Tornar als paramètres
 containers-header = Onglets de contenedor
 containers-add-button =
     .label = Apondre un contenedor novèl
@@ -622,6 +625,8 @@ containers-new-tab-check =
     .accesskey = S
 containers-preferences-button =
     .label = Preferéncias
+containers-settings-button =
+    .label = Paramètres
 containers-remove-button =
     .label = Suprimir
 
@@ -630,6 +635,7 @@ containers-remove-button =
 
 sync-signedout-caption = Emportatz vòstre Web pertot
 sync-signedout-description = Sincronizatz vòstres marcapaginas, istoric, onglets, senhals, moduls, e preferéncias per totes vòstres periferics.
+sync-signedout-description2 = Sincronizar vòstres marcapaginas, istoric, onglets, senhals, moduls, e paramètres per totes vòstres periferics.
 sync-signedout-account-signin2 =
     .label = Se connectar a { -sync-brand-short-name }…
     .accesskey = c
@@ -692,6 +698,7 @@ sync-currently-syncing-prefs =
         [windows] Opcions
        *[other] Preferéncias
     }
+sync-currently-syncing-settings = Paramètres
 sync-change-options =
     .label = Modificar…
     .accesskey = M
