@@ -6,6 +6,8 @@
 <!ENTITY pref.advanced.title              "Napredno">
 
 <!ENTITY systemPref.caption               "Sistemske nastavitve">
+<!ENTITY systemPrefCheck.label            "Uporabi nastavitve sistema">
+<!ENTITY systemPref.desc                  "S to možnostjo &brandShortName; podeduje nastavitve iz sistema. Sistemske nastavitve bodo preglasile nastavitve programa &brandShortName;.">
 
 
 
