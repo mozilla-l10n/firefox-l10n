@@ -384,6 +384,9 @@ update-application-check-choose =
 update-application-manual =
     .label = Ne jamais vérifier les mises à jour (déconseillé)
     .accesskey = N
+update-application-background-enabled =
+    .label = Quand { -brand-short-name } n'est pas lancé
+    .accesskey = Q
 update-application-warning-cross-user-setting = Ce paramètre s’appliquera à tous les comptes Windows et profils { -brand-short-name } utilisant cette installation de { -brand-short-name }.
 update-application-use-service =
     .label = Utiliser un service en arrière-plan pour installer les mises à jour
@@ -398,6 +401,14 @@ update-setting-write-failure-message =
     
     Écriture impossible dans le fichier : { $path }
 update-setting-write-failure-title2 = Erreur lors de l’enregistrement des paramètres de mise à jour
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message2 =
+    { -brand-short-name } a rencontré une erreur et n’a pas enregistré cette modification. Notez que modifier ce paramètre de mise à jour nécessite la permission d’écriture pour le fichier ci-dessous. Vous, ou un administrateur système, pouvez peut-être corriger l’erreur en accordant au groupe Users l’accès complet à ce fichier.
+    
+    Écriture impossible dans le fichier : { $path }
 update-in-progress-title = Mise à jour en cours
 update-in-progress-message = Voulez-vous que { -brand-short-name } continue cette mise à jour ?
 update-in-progress-ok-button = &Abandonner
@@ -595,6 +606,7 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Afficher les suggestions de recherche dans les fenêtres de navigation privée
 suggestions-addressbar-settings-generic = Modifier les préférences pour les suggestions de la barre d’adresse
+suggestions-addressbar-settings-generic2 = Modifier les paramètres pour les suggestions de la barre d’adresse
 search-suggestions-cant-show = Les suggestions de recherche ne seront pas affichées parmi les résultats de la barre d’adresse car vous avez configuré { -brand-short-name } de façon à ce qu’il ne conserve jamais l’historique.
 search-one-click-header = Moteurs de recherche accessibles en un clic
 search-one-click-header2 = Raccourcis de recherche
@@ -629,6 +641,8 @@ containers-back-button =
             [windows] Retour aux options
            *[other] Retour aux préférences
         }
+containers-back-button2 =
+    .aria-label = Retour aux paramètres
 containers-header = Onglets conteneurs
 containers-add-button =
     .label = Ajouter un nouveau conteneur
@@ -638,6 +652,8 @@ containers-new-tab-check =
     .accesskey = S
 containers-preferences-button =
     .label = Préférences
+containers-settings-button =
+    .label = Paramètres
 containers-remove-button =
     .label = Supprimer
 
@@ -646,6 +662,7 @@ containers-remove-button =
 
 sync-signedout-caption = Emportez votre Web partout avec vous
 sync-signedout-description = Synchronisez marque-pages, historique, onglets, mots de passe, modules complémentaires et préférences entre tous vos appareils.
+sync-signedout-description2 = Synchronisez marque-pages, historique, onglets, mots de passe, modules complémentaires et paramètres entre tous vos appareils.
 sync-signedout-account-signin2 =
     .label = Se connecter à { -sync-brand-short-name }…
     .accesskey = S
@@ -688,6 +705,7 @@ prefs-sync-setup =
     .label = Configurer { -sync-brand-short-name }…
     .accesskey = C
 prefs-sync-offer-setup-label = Synchronisez marque-pages, historique, onglets, mots de passe, modules complémentaires et préférences entre tous vos appareils.
+prefs-sync-offer-setup-label2 = Synchronisez marque-pages, historique, onglets, mots de passe, modules complémentaires et paramètres entre tous vos appareils.
 prefs-sync-now =
     .labelnotsyncing = Synchroniser maintenant
     .accesskeynotsyncing = m
@@ -708,6 +726,7 @@ sync-currently-syncing-prefs =
         [windows] Options
        *[other] Préférences
     }
+sync-currently-syncing-settings = Paramètres
 sync-change-options =
     .label = Modifier…
     .accesskey = M
@@ -753,6 +772,10 @@ sync-engine-prefs =
             [windows] Options
            *[other] Préférences
         }
+    .tooltiptext = Les paramètres que vous avez modifiés dans les sections Général, Vie privée et Sécurité
+    .accesskey = s
+sync-engine-settings =
+    .label = Paramètres
     .tooltiptext = Les paramètres que vous avez modifiés dans les sections Général, Vie privée et Sécurité
     .accesskey = s
 
@@ -1169,6 +1192,11 @@ space-alert-under-5gb-ok-button =
     .label = OK
     .accesskey = K
 space-alert-under-5gb-message = { -brand-short-name } n’a plus assez d’espace disque. Le contenu des sites web pourrait ne pas s’afficher correctement. Cliquez sur « En savoir plus » pour optimiser l’utilisation de votre disque et ainsi améliorer votre navigation.
+space-alert-over-5gb-settings-button =
+    .label = Ouvrir les paramètres
+    .accesskey = O
+space-alert-over-5gb-message2 = <strong>{ -brand-short-name } n’a plus assez d’espace disque.</strong> Le contenu des sites web pourrait ne pas s’afficher correctement. Vous pouvez effacer les données de sites enregistrées depuis Paramètres > Vie privée et sécurité > Cookies et données de sites.
+space-alert-under-5gb-message2 = <strong>{ -brand-short-name } n’a plus assez d’espace disque.</strong> Le contenu des sites web pourrait ne pas s’afficher correctement. Cliquez sur « En savoir plus » pour optimiser l’utilisation de votre disque et ainsi améliorer votre navigation.
 
 ## Privacy Section - HTTPS-Only
 
