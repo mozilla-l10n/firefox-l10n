@@ -43,6 +43,10 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = Ок, понятно
     .buttonaccesskey = я
 appmenu-addon-post-install-message = Управляйте своими дополнениями, щёлкнув по <image data-l10n-name='addon-install-icon'></image> в меню <image data-l10n-name='addon-menu-icon'></image>.
+appmenu-addon-private-browsing-installed2 =
+    .buttonlabel = Хорошо
+    .buttonaccesskey = ш
+appmenu-addon-post-install-message2 = Управляйте своими расширениями и темами через меню приложений.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Разрешить этому расширению работать в приватных окнах
     .accesskey = ш
