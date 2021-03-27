@@ -93,6 +93,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY editMenu.label         "Таҳрир кардан">
 <!ENTITY preferencesCmd2.label       "Имконот">
 <!ENTITY preferencesCmdUnix.label       "Хусусиятҳо">
+<!ENTITY logins.label                           "Воридшавиҳо ва ниҳонвожаҳо">
 
 
 <!ENTITY historyMenu.label "Таърих">

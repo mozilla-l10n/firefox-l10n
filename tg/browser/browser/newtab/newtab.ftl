@@ -42,6 +42,8 @@ newtab-topsites-url-label = Нишонии URL
 newtab-topsites-url-input =
     .placeholder = Нишонии URL-ро ворид кунед ё гузоред
 newtab-topsites-url-validation = Нишонии URL-и эътибор лозим аст
+newtab-topsites-image-url-label = Нишонии URL-и тасвири шахсӣ
+newtab-topsites-use-image-link = Истифодаи тасвири шахсӣ…
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 

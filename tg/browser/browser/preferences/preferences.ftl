@@ -68,6 +68,7 @@ search-results-header = Натиҷаи ҷустуҷӯ
 
 ## General Section
 
+get-started-not-logged-in = Ба { -sync-brand-short-name } ворид шавед…
 get-started-configured = Кушодани хусусиятҳои { -sync-brand-short-name }
 browser-containers-learn-more = Маълумоти бештар
 containers-disable-alert-cancel-button = Фаъолшуда нигоҳ дошта шавад
@@ -279,6 +280,7 @@ sync-remove-account =
 sync-currently-syncing-bookmarks = Хатбаракҳо
 sync-currently-syncing-history = Таърих
 sync-currently-syncing-tabs = Варақаҳои кушодашуда
+sync-currently-syncing-logins-passwords = Воридшавиҳо ва ниҳонвожаҳо
 sync-currently-syncing-prefs =
     { PLATFORM() ->
         [windows] Имконот
@@ -341,11 +343,19 @@ sync-device-name-save =
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
 pane-privacy-logins-and-passwords-header = Воридшавиҳо ва ниҳонвожаҳо
     .searchkeywords = { -lockwise-brand-short-name }
+forms-exceptions =
+    .label = Истисноҳо…
+    .accesskey = И
 forms-breach-alerts-learn-more-link = Маълумоти бештар
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-logins-and-passwords =
+    .label = Ба таври худкор пур кардани воридшавиҳо ва ниҳонвожаҳо
+    .accesskey = Б
 forms-saved-logins =
     .label = Воридшавиҳои нигоҳдошташуда…
     .accesskey = В
 forms-primary-pw-learn-more-link = Маълумоти бештар
+forms-master-pw-fips-desc = Ниҳонвожа тағйир дода нашуд
 
 ## OS Authentication dialog
 
