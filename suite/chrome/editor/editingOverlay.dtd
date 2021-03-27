@@ -37,6 +37,7 @@
 <!ENTITY insertInputTagCmd.label "Pole formulára…">
 <!ENTITY insertInputTagCmd.accesskey "e">
 <!ENTITY insertInputImageCmd.label "Obrázok formulára…">
+<!ENTITY insertInputImageCmd.accesskey "O">
 <!ENTITY insertTextAreaCmd.label "Textová plocha…">
 <!ENTITY insertTextAreaCmd.accesskey "T">
 
