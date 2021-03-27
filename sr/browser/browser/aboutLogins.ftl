@@ -28,7 +28,7 @@ menu =
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Увези из другог прегледача…
 about-logins-menu-menuitem-import-from-a-file = Увези из датотеке…
-about-logins-menu-menuitem-export-logins = Извези лозинке…
+about-logins-menu-menuitem-export-logins = Извези пријаве…
 about-logins-menu-menuitem-remove-all-logins = Уклони све пријаве…
 menu-menuitem-preferences = Подешавања
 about-logins-menu-menuitem-help = Помоћ
@@ -73,9 +73,9 @@ about-logins-list-item-vulnerable-password-icon =
 
 login-intro-heading = Тражите сачуване пријаве? Подесите { -sync-brand-short-name }.
 about-logins-login-intro-heading-logged-out = Тражите сачуване пријаве? Подесите { -sync-brand-short-name } или их увезите.
-about-logins-login-intro-heading-logged-in = Синхронизоване лозинке нису пронађене.
+about-logins-login-intro-heading-logged-in = Синхронизоване пријаве нису пронађене.
 login-intro-description =
-    Ако сте сачували лозинке у { -brand-product-name.gender ->
+    Ако сте сачували пријаве у { -brand-product-name.gender ->
         [masculine] { -brand-product-name(case: "loc") }
         [feminine] { -brand-product-name(case: "loc") }
         [neuter] { -brand-product-name(case: "loc") }
@@ -125,17 +125,17 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 about-logins-edit-login-os-auth-dialog-message-win = Да бисте уредили пријаву, унесите ваше податке за пријаву у Windows. Ово помаже у заштити ваших налога.
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-edit-login-os-auth-dialog-message-macosx = уредите сачувану пријаву
+about-logins-edit-login-os-auth-dialog-message-macosx = уреди сачувану пријаву
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Да бисте видели лозинку, унестие ваше податке за пријаву у Windows. Ово помаже у заштити ваших налога.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-reveal-password-os-auth-dialog-message-macosx = откријте сачувану лозинку
+about-logins-reveal-password-os-auth-dialog-message-macosx = прикажи сачувану лозинку
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Да бисте копирали лозинку, унесите ваше податке за пријаву у Windows. Ово помаже у заштити ваших налога.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-copy-password-os-auth-dialog-message-macosx = копирајте сачувану лозинку
+about-logins-copy-password-os-auth-dialog-message-macosx = копирај сачувану лозинку
 
 ## Master Password notification
 
@@ -144,11 +144,11 @@ master-password-notification-message = Унесите своју главну л
 about-logins-export-password-os-auth-dialog-message-win = Да бисте извезли ваше пријаве, унесите ваше Windows податке за пријаву. Ово помаже у заштити ваших налога.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-export-password-os-auth-dialog-message-macosx = извезите сачуване пријаве и лозинке
+about-logins-export-password-os-auth-dialog-message-macosx = извези сачуване податке за пријаву
 
 ## Primary Password notification
 
-about-logins-primary-password-notification-message = Унесите вашу главну лозинку да бисте видели сачуване пријаве и лозинке
+about-logins-primary-password-notification-message = Унесите главну лозинку да бисте видели сачуване податке за пријаву
 master-password-reload-button =
     .label = Пријави ме
     .accesskey = П
@@ -187,8 +187,6 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Да, уклони ову пријаву
-        [one] Да, уклони ову пријаву
-        [few] Да, уклони ове пријаве
        *[other] Да, уклони ове пријаве
     }
 about-logins-confirm-remove-all-dialog-title =
@@ -216,9 +214,9 @@ about-logins-confirm-remove-all-dialog-message =
     }, као и упозорења о цурењу података која се појављују овде. Ова радња се не може опозвати.
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
-        [one] Уклонити { $count } пријаву на свим уређајима?
-        [few] Уклонити { $count } пријаве на свим уређајима?
-       *[other] Уклонити { $count } пријава на свим уређајима?
+        [one] Уклонити { $count } пријаву са свих уређаја?
+        [few] Уклонити { $count } пријаве са свих уређаја?
+       *[other] Уклонити { $count } пријава са свих уређаја?
     }
 about-logins-confirm-remove-all-sync-dialog-message =
     { $count ->
