@@ -51,6 +51,9 @@ permissions-exceptions-saved-logins-desc = Воридшавиҳо барои с�
 
 ## Site Permissions - Location
 
+permissions-site-location-window =
+    .title = Танзимот - Иҷозатҳои ҷойгиршавӣ
+    .style = { permissions-window.style }
 
 ## Site Permissions - Virtual Reality
 

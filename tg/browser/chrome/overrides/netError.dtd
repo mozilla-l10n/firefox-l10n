@@ -21,6 +21,9 @@
 
 
 <!ENTITY captivePortal.title "Ворид шудан ба шабака">
+<!ENTITY captivePortal.longDesc2 "
+<p>Пеш аз пайдо кардани дастрасӣ ба Интернет, шумо бояд ба ин шабака ворид шавед.</p>
+">
 
 <!ENTITY openPortalLoginPage.label2 "Кушодани саҳифа барои ворид шудан ба шабака">
 

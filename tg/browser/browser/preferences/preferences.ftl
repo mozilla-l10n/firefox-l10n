@@ -429,6 +429,10 @@ content-blocking-fingerprinters-label =
 
 ## Privacy Section - Permissions
 
+permissions-location = Ҷойгиршавӣ
+permissions-location-settings =
+    .label = Танзимот…
+    .accesskey = Т
 permissions-notification-link = Маълумоти бештар
 permissions-a11y-privacy-link = Маълумоти бештар
 
