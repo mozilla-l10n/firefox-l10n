@@ -771,6 +771,10 @@ sync-engine-prefs =
         }
     .tooltiptext = Generelle, personvern- og sikkerhetsinnstillinger du har endret
     .accesskey = I
+sync-engine-settings =
+    .label = Innstillinger
+    .tooltiptext = Generelle, personvern- og sikkerhetsinnstillinger du har endret
+    .accesskey = n
 
 ## The device name controls.
 
@@ -1185,6 +1189,11 @@ space-alert-under-5gb-ok-button =
     .label = OK, jeg skjønner
     .accesskey = K
 space-alert-under-5gb-message = { -brand-short-name } er i ferd med å gå tom for plass på disken. Det kan hende at innholdet på nettsiden ikke vises ordentlig. Gå til «Les mer» for å optimalisere diskbruken din for en bedre nettleseropplevelse.
+space-alert-over-5gb-settings-button =
+    .label = Åpne Innstillinger
+    .accesskey = p
+space-alert-over-5gb-message2 = <strong>{ -brand-short-name } er i ferd med å gå tom for plass på disken.</strong> Det kan hende at innholdet på nettstedet ikke vises ordentlig. Du kan tømme lagret data i Innstillinger > Personern og sikkerhet > Infokapsler og nettstedsdata.
+space-alert-under-5gb-message2 = <strong>{ -brand-short-name } er i ferd med å gå tom for plass på disken.</strong> Det kan hende at innholdet på nettsiden ikke vises ordentlig. Gå til «Les mer» for å optimalisere diskbruken din for en bedre nettleseropplevelse.
 
 ## Privacy Section - HTTPS-Only
 
