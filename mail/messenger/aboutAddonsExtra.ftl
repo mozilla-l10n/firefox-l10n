@@ -4,3 +4,5 @@
 
 add-on-options-button =
     .title = Možnosti doplnku
+atn-addons-heading-search-input =
+    .placeholder = Hľadať na stránke addons.thunderbird.net
