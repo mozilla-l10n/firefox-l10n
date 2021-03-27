@@ -25,7 +25,7 @@ deniedPortAccess-title = Нишонии ҷорӣ маҳдуд шудааст
 fileNotFound-title = Файл ёфт нашуд
 fileAccessDenied-title = Дастрасӣ ба файл манъ карда шуд
 generic-title = Оҳ!
-captivePortal-title = Даромад ба шабака
+captivePortal-title = Ворид шудан ба шабака
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 malformedURI-title = Хм. Ин нишонӣ дуруст ба назар намерасад.

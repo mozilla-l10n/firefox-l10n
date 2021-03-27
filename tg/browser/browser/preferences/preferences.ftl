@@ -77,6 +77,9 @@ containers-disable-alert-cancel-button = Фаъолшуда нигоҳ дошт�
 
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Танзими андоза
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = Тарҷумаҳо аз ҷониби <img data-l10n-name="logo"/>
 
 ## General Section - Files and Applications
 
@@ -268,6 +271,7 @@ containers-remove-button =
 
 sync-profile-picture =
     .tooltiptext = Иваз кардани расми профил
+sync-signedin-login-failure = Лутфан, барои аз нав пайваст кардани { $email } ворид шавед
 sync-remove-account =
     .label = Тоза кардани ҳисоб
     .accesskey = Т
@@ -317,6 +321,10 @@ sync-engine-addresses =
     .label = Нишониҳо
     .tooltiptext = Нишониҳои почтае, ки нигоҳ дошта шуданд (танҳо мизи корӣ)
     .accesskey = Н
+sync-engine-addons =
+    .label = Ҷузъҳои иловагӣ
+    .tooltiptext = Ҷузъҳои иловагӣ ва мавзӯъҳо барои Firefox-и мизи корӣ
+    .accesskey = Ҷ
 sync-engine-prefs =
     .label =
         { PLATFORM() ->
@@ -325,6 +333,10 @@ sync-engine-prefs =
         }
     .tooltiptext = Танзимоти умумӣ, махфият ва амнияте, ки шумо иваз кардед
     .accesskey = И
+sync-engine-settings =
+    .label = Танзимот
+    .tooltiptext = Танзимоти умумӣ, махфият ва амнияте, ки шумо иваз кардед
+    .accesskey = Т
 
 ## The device name controls.
 

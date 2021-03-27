@@ -33,6 +33,8 @@ protections-panel-not-blocking-label = Иҷозат дода мешавад
 ## In the Site Not Working? view, we suggest turning off protections if
 ## the user is experiencing issues with any of a variety of functionality.
 
+# The list items, shown in a <ul>
+protections-panel-site-not-working-view-issue-list-login-fields = Майдонҳои воридшавӣ
 protections-panel-site-not-working-view-issue-list-forms = Шаклҳо
 protections-panel-site-not-working-view-issue-list-payments = Прадохтҳо
 protections-panel-site-not-working-view-issue-list-comments = Шарҳҳо

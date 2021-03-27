@@ -6,6 +6,7 @@ fingerprinter-tab-title = Хонандаи изи ангушт
 protections-close-button2 =
     .aria-label = Пӯшидан
     .title = Пӯшидан
+lockwise-title-logged-in2 = Идоракунии ниҳонвожаҳо
 protection-report-save-passwords-button = Нигоҳ доштани ниҳонвожаҳо
     .title = Нигоҳ доштани ниҳонвожаҳо дар { -lockwise-brand-short-name }
 monitor-view-report-link = Дидани гузориш

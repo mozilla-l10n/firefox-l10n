@@ -49,6 +49,7 @@ onboarding-sync-welcome-learn-more-link = Маълумоти бештар дар
 onboarding-sync-form-input =
     .placeholder = Почтаи электронӣ
 onboarding-sync-form-continue-button = Идома додан
+onboarding-sync-form-skip-login-button = Нодида гузарондани ин қадам
 
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
