@@ -43,6 +43,9 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = ਠੀਕ ਹੈ, ਸਮਝ ਗਏ
     .buttonaccesskey = O
 appmenu-addon-post-install-message = <image data-l10n-name='addon-install-icon'></image> ਮੇਨੂ ਵਿੱਚ <image data-l10n-name='addon-menu-icon'></image> ਤੇ ਕਲਿੱਕ ਕਰਕੇ ਆਪਣੇ ਐਡਆਨ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋੋ।
+appmenu-addon-private-browsing-installed2 =
+    .buttonlabel = ਠੀਕ ਹੈ
+    .buttonaccesskey = O
 appmenu-addon-post-install-incognito-checkbox =
     .label = ਇਸ ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਜ਼ ਵਿੱਚ ਚੱਲਣ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ
     .accesskey = A
