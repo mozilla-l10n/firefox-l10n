@@ -17,5 +17,5 @@ all-tabs-menu-new-user-context =
 all-tabs-menu-hidden-tabs =
     .label = Schedas celate
 all-tabs-menu-manage-user-context =
-    .label = Gerer le continitores
+    .label = Gerer le contextos
     .accesskey = o

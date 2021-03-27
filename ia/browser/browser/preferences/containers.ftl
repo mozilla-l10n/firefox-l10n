@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 containers-window-new =
-    .title = Adder un nove continitor
+    .title = Adder un nove contexto
     .style = width: 45em
 # Variables
 #   $name (String) - Name of the container
