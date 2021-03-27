@@ -134,6 +134,8 @@ search-results-empty-message =
         [windows] Desculpe! Não existem resultados nas opções para “<span data-l10n-name="query"></span>”.
        *[other] Desculpe! Não existem resultados nas preferências para “<span data-l10n-name="query"></span>”.
     }
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 = Pedimos desculpa mas não existem resultados nas Definições para “<span data-l10n-name="query"></span>”.
 search-results-help-link = Precisa de ajuda? Visite o <a data-l10n-name="url">Apoio do { -brand-short-name }</a>
 
 ## General Section
@@ -382,6 +384,9 @@ update-application-check-choose =
 update-application-manual =
     .label = Nunca procurar atualizações (não recomendado)
     .accesskey = N
+update-application-background-enabled =
+    .label = Quando o { -brand-short-name } não estiver em execução
+    .accesskey = u
 update-application-warning-cross-user-setting = Esta definição irá ser aplicada a todas as contas do Windows e perfis do { -brand-short-name } a utilizar esta instalação do { -brand-short-name }.
 update-application-use-service =
     .label = Utilizar um serviço em segundo plano para instalar atualizações
@@ -393,6 +398,15 @@ update-setting-write-failure-title = Erro ao guardar as preferências de atualiz
 # intentional so the path is easier to identify.
 update-setting-write-failure-message =
     O { -brand-short-name } encontrou um erro e não guardou esta alteração. Note que definir esta atualização requer permissão para escrever no ficheiro abaixo. Você ou um administrador do sistema pode resolver o erro ao conceder ao grupo Utilizadores controlo total para este ficheiro.
+    
+    Não foi possível escrever para ficheiro: { $path }
+update-setting-write-failure-title2 = Erro ao guardar as definições de atualização
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message2 =
+    O { -brand-short-name } encontrou um erro e não guardou esta alteração. Note que alterar esta definição de atualização requer permissão para escrever no ficheiro abaixo. Você ou um administrador do sistema pode resolver o erro atribuindo ao grupo Utilizadores controlo total para este ficheiro.
     
     Não foi possível escrever para ficheiro: { $path }
 update-in-progress-title = Atualização em progresso
@@ -592,6 +606,7 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Mostrar sugestões de pesquisa em janelas privadas
 suggestions-addressbar-settings-generic = Alterar preferências para outras sugestões da barra de endereços
+suggestions-addressbar-settings-generic2 = Alterar definições para outras sugestões da barra de endereços
 search-suggestions-cant-show = Sugestões de pesquisa não serão apresentadas nos resultados da barra de localização porque configurou o { -brand-short-name } para nunca memorizar histórico.
 search-one-click-header = Motores de pesquisa de um clique
 search-one-click-header2 = Pesquisar atalhos
@@ -626,6 +641,8 @@ containers-back-button =
             [windows] Voltar às Opções
            *[other] Voltar às Preferências
         }
+containers-back-button2 =
+    .aria-label = Voltar para as Definições
 containers-header = Separadores contentores
 containers-add-button =
     .label = Adicionar novo contentor
@@ -635,6 +652,8 @@ containers-new-tab-check =
     .accesskey = S
 containers-preferences-button =
     .label = Preferências
+containers-settings-button =
+    .label = Definições
 containers-remove-button =
     .label = Remover
 
@@ -643,6 +662,7 @@ containers-remove-button =
 
 sync-signedout-caption = Leve a sua Web consigo
 sync-signedout-description = Sincronize os seus marcadores, histórico, separadores, palavras-passe, extras e preferências entre todos os seus dispositivos.
+sync-signedout-description2 = Sincronize os marcadores, histórico, separadores, palavras-passe, extras e definições entre dispositivos.
 sync-signedout-account-signin2 =
     .label = Iniciar sessão no { -sync-brand-short-name }…
     .accesskey = i
