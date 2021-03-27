@@ -3,6 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 screenshots-context-menu = Сделать скриншот
+screenshot-toolbarbutton =
+    .label = Скриншот
+    .tooltiptext = Сделать скриншот
 screenshots-my-shots-button = Мои снимки
 screenshots-instructions = Потяните мышью или щёлкните по странице, чтобы выбрать область. Нажмите ESC для отмены.
 screenshots-cancel-button = Отмена
