@@ -19,6 +19,20 @@ newtab-search-box-search-button =
     .title = Keresés
     .aria-label = Keresés
 newtab-search-box-search-the-web-text = Keresés a weben
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-text = Keressen a(z) { $engine } keresővel vagy adjon meg egy címet
+newtab-search-box-handoff-text-no-engine = Keressen, vagy adjon meg címet
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-input =
+    .placeholder = Keressen a(z) { $engine } keresővel vagy adjon meg egy címet
+    .title = Keressen a(z) { $engine } keresővel vagy adjon meg egy címet
+    .aria-label = Keressen a(z) { $engine } keresővel vagy adjon meg egy címet
+newtab-search-box-handoff-input-no-engine =
+    .placeholder = Keressen, vagy adjon meg címet
+    .title = Keressen, vagy adjon meg címet
+    .aria-label = Keressen, vagy adjon meg címet
 newtab-search-box-search-the-web-input =
     .placeholder = Keresés a weben
     .title = Keresés a weben

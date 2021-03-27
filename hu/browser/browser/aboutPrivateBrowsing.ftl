@@ -9,6 +9,16 @@ about-private-browsing-info-title = Jelenleg privát ablakban van
 about-private-browsing-info-myths = Gyakori tévhitek a privát böngészésről
 about-private-browsing =
     .title = Keresés a weben
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff =
+    .title = Keressen a(z) { $engine } keresővel vagy adjon meg egy címet
+about-private-browsing-handoff-no-engine =
+    .title = Keressen, vagy adjon meg címet
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff-text = Keressen a(z) { $engine } keresővel vagy adjon meg egy címet
+about-private-browsing-handoff-text-no-engine = Keressen, vagy adjon meg címet
 about-private-browsing-not-private = Jelenleg nem privát ablakot használ.
 about-private-browsing-info-description = A { -brand-short-name } törli a keresési és böngészési előzményeit, ha kilép az alkalmazásból, vagy bezárja az összes privát böngészési lapot és ablakot. Ugyan ez nem teszi névtelenné a weboldalak vagy a szolgáltatója felé, könnyebbé teszi, hogy bizalmasan kezelje az online tevékenységét, és más ne tudjon róla, aki ezt a számítógépet használja.
 about-private-browsing-need-more-privacy = Több adatvédelemre van szüksége?

@@ -11,6 +11,8 @@
 
 ## Application Menu (macOS only)
 
+menu-application-preferences =
+    .label = Beállítások
 menu-application-services =
     .label = Szolgáltatások
 menu-application-hide-this =
