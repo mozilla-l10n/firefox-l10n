@@ -19,6 +19,20 @@ newtab-search-box-search-button =
     .title = 搜尋
     .aria-label = 搜尋
 newtab-search-box-search-the-web-text = 搜尋 Web
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-text = 使用 { $engine } 搜尋或輸入網址
+newtab-search-box-handoff-text-no-engine = 搜尋或輸入網址
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-input =
+    .placeholder = 使用 { $engine } 搜尋或輸入網址
+    .title = 使用 { $engine } 搜尋或輸入網址
+    .aria-label = 使用 { $engine } 搜尋或輸入網址
+newtab-search-box-handoff-input-no-engine =
+    .placeholder = 搜尋或輸入網址
+    .title = 搜尋或輸入網址
+    .aria-label = 搜尋或輸入網址
 newtab-search-box-search-the-web-input =
     .placeholder = 搜尋 Web
     .title = 搜尋 Web

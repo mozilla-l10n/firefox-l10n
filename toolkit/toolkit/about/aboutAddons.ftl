@@ -34,6 +34,9 @@ sidebar-preferences-button-title =
             [windows] { -brand-short-name } 選項
            *[other] { -brand-short-name } 偏好設定
         }
+addons-settings-button = { -brand-short-name } 選項
+sidebar-settings-button-title =
+    .title = { -brand-short-name } 選項
 show-unsigned-extensions-button =
     .label = 無法驗證某些擴充套件
 show-all-extensions-button =
@@ -368,9 +371,6 @@ addon-detail-private-browsing-disallow = 不允許
 addon-badge-recommended2 =
     .title = { -brand-product-name } 僅推薦符合我們的安全性與效能標準的擴充套件
     .aria-label = { addon-badge-recommended2.title }
-addon-badge-line2 =
-    .title = 這是由 { -brand-product-name } 開發者打造的官方擴充套件
-    .aria-label = { addon-badge-line2.title }
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =

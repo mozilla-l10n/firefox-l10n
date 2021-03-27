@@ -9,6 +9,16 @@ about-private-browsing-info-title = 您在隱私瀏覽視窗當中
 about-private-browsing-info-myths = 隱私瀏覽功能的常見迷思
 about-private-browsing =
     .title = 搜尋 Web
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff =
+    .title = 使用 { $engine } 搜尋或輸入網址
+about-private-browsing-handoff-no-engine =
+    .title = 搜尋或輸入網址
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff-text = 使用 { $engine } 搜尋或輸入網址
+about-private-browsing-handoff-text-no-engine = 搜尋或輸入網址
 about-private-browsing-not-private = 您目前不在隱私瀏覽視窗當中。
 about-private-browsing-info-description = { -brand-short-name } 會在結束或關閉所有隱私瀏覽分頁與視窗時，清除您的搜尋與上網紀錄。雖然這樣做不會讓您對網站或電信業者匿名，但還是可以更簡單就讓與您使用相同電腦的人無法得知您在線上做了什麼事。
 about-private-browsing-need-more-privacy = 需要更多隱私嗎？
