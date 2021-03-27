@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = Фонтови
-
 fonts-window-close =
     .key = w
 
@@ -12,7 +11,6 @@ fonts-window-close =
 
 fonts-langgroup-header = Фонтови за
     .accesskey = F
-
 fonts-langgroup-arabic =
     .label = арапски
 fonts-langgroup-armenian =
@@ -75,35 +73,26 @@ fonts-langgroup-other =
 
 ## Default fonts and their sizes
 
-fonts-proportional-header = Сразмерно
-    .accesskey = P
-
+fonts-proportional-header = Пропорционални:
+    .accesskey = П
 fonts-default-serif =
-    .label = Серифни
+    .label = серифни
 fonts-default-sans-serif =
-    .label = Без серифа
-
-fonts-proportional-size = Величина
+    .label = бесерифни
+fonts-proportional-size = Величина:
     .accesskey = В
-
-fonts-serif = Серифни
+fonts-serif = Серифни:
     .accesskey = С
-
-fonts-sans-serif = Безсерифни
+fonts-sans-serif = Бесерифни:
     .accesskey = Б
-
-fonts-monospace = Ширине
-    .accesskey = Ш
-
+fonts-monospace = Непропорционални:
+    .accesskey = Н
 fonts-monospace-size = Величина
     .accesskey = е
-
-fonts-minsize = Најмања величина фонта
-    .accesskey = о
-
+fonts-minsize = Минимална величина фонта:
+    .accesskey = М
 fonts-minsize-none =
-    .label = ниједна
-
+    .label = нема
 fonts-allow-own =
     .label = Дозволи страницама да изаберу сопствене фонтове, уместо дефинисаних
     .accesskey = Д
@@ -115,10 +104,8 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Кодирање текста за застарели садржај
 fonts-languages-fallback-desc = Ово кодирање текста се користи за застарели садражај који не успева да декларише кодирање.
-
 fonts-languages-fallback-label = Одступно кодирање текста
     .accesskey = т
-
 fonts-languages-fallback-name-auto =
     .label = Подразумевано за овај локал
 fonts-languages-fallback-name-arabic =
@@ -151,10 +138,9 @@ fonts-languages-fallback-name-vietnamese =
     .label = вијетнамски
 fonts-languages-fallback-name-other =
     .label = други (са западноевропским)
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
-    .label = Подразумеван ({ $name })
+    .label = подразумевани ({ $name })
 fonts-label-default-unnamed =
     .label = Подразумевано
