@@ -5,6 +5,7 @@
 support-addons-title = Ҷузъҳои иловагӣ
 app-basics-location-service-key-google = Калиди хидмати ҷойгиршавии Google
 app-basics-key-mozilla = Калиди хидмати ҷойгиршавии Mozilla
+restart-in-safe-mode-label = Аз нав оғоз кардани барнома бо ҷузъҳои иловагии ғайрифаъолшуда…
 
 ## Media titles
 
@@ -36,6 +37,7 @@ support-third-party-modules-folder-icon =
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+multi-process-status-7 = Аз тарафи ҷузъҳои иловагӣ ғайрифаъол карда шудааст
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
