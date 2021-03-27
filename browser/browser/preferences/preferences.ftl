@@ -28,6 +28,18 @@ search-input-box =
             [windows] Keresés a beállításokban
            *[other] Keresés a beállításokban
         }
+settings-page-title = Beállítások
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box2 =
+    .style = width: 15.4em
+    .placeholder = Keresés a Beállításokban
 managed-notice = A böngészőjét a szervezete kezeli.
 category-list =
     .aria-label = Kategóriák
@@ -52,6 +64,7 @@ category-experimental =
 pane-experimental-subtitle = Óvatosan haladjon tovább
 pane-experimental-search-results-header = { -brand-short-name }-kísérletek: Óvatosan menjen tovább
 pane-experimental-description = A speciális beállítások megváltoztatása befolyásolhatja a { -brand-short-name } teljesítményét vagy biztonságát.
+pane-experimental-description2 = A speciális beállítások megváltoztatása befolyásolhatja a { -brand-short-name } teljesítményét vagy biztonságát.
 pane-experimental-reset =
     .label = Alapértelmezések visszaállítása
     .accesskey = v
@@ -121,6 +134,8 @@ search-results-empty-message =
         [windows] Elnézését, nincs találat a Beállítások közt erre: „<span data-l10n-name="query"></span>”.
        *[other] Elnézését, nincs találat a Beállítások közt erre: „<span data-l10n-name="query"></span>”.
     }
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 = Elnézését, nincs találat a Beállítások közt erre: „<span data-l10n-name="query"></span>”.
 search-results-help-link = Segítségre van szüksége? Látogasson el ide: <a data-l10n-name="url">{ -brand-short-name } támogatás</a>
 
 ## General Section
@@ -369,6 +384,9 @@ update-application-check-choose =
 update-application-manual =
     .label = Ne legyen frissítve (nem ajánlott)
     .accesskey = N
+update-application-background-enabled =
+    .label = Ha nem fut a { -brand-short-name }
+    .accesskey = H
 update-application-warning-cross-user-setting = Ez a beállítás érvényes az összes Windows fiókra és { -brand-short-name } profilra, amely ezt a { -brand-short-name } telepítést használja.
 update-application-use-service =
     .label = Háttérben futó szolgáltatás intézze a frissítést
@@ -379,6 +397,15 @@ update-setting-write-failure-title = Hiba történt a Frissítési beállítása
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message =
+    A { -brand-short-name } hibát észlelt, és nem mentette ezt a változtatást. Ne feledje, hogy ezen frissítési beállítás megadásához írási engedély szükségesen a lenti fájlon. Ön vagy a rendszergazdája megoldhatja a hibát azzal, hogy a Felhasználók csoportnak teljes jogosultságot ad a fájlhoz.
+    
+    Nem sikerült a fájlba írni: { $path }
+update-setting-write-failure-title2 = Hiba történt a Frissítési beállítások mentésekor
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message2 =
     A { -brand-short-name } hibát észlelt, és nem mentette ezt a változtatást. Ne feledje, hogy ezen frissítési beállítás megadásához írási engedély szükségesen a lenti fájlon. Ön vagy a rendszergazdája megoldhatja a hibát azzal, hogy a Felhasználók csoportnak teljes jogosultságot ad a fájlhoz.
     
     Nem sikerült a fájlba írni: { $path }
@@ -579,6 +606,7 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Keresési javaslatok megjelenítése a privát ablakokban
 suggestions-addressbar-settings-generic = Címsávjavaslatok beállításainak módosítása
+suggestions-addressbar-settings-generic2 = Címsávjavaslatok beállításainak módosítása
 search-suggestions-cant-show = A keresési javaslatok nem jelennek meg a címsáv találatai között, mert a { -brand-short-name } nem jegyzi meg az előzményeket.
 search-one-click-header = Egy kattintásos keresőszolgáltatások
 search-one-click-header2 = Keresési gyorsparancsok
@@ -613,6 +641,8 @@ containers-back-button =
             [windows] Vissza a Beállításokhoz
            *[other] Vissza a Beállításokhoz
         }
+containers-back-button2 =
+    .aria-label = Vissza a Beállításokhoz
 containers-header = Konténer lapok
 containers-add-button =
     .label = Új konténer hozzáadása
@@ -622,6 +652,8 @@ containers-new-tab-check =
     .accesskey = K
 containers-preferences-button =
     .label = Beállítások
+containers-settings-button =
+    .label = Beállítások
 containers-remove-button =
     .label = Eltávolítás
 
@@ -630,6 +662,7 @@ containers-remove-button =
 
 sync-signedout-caption = Vigye magával a webet
 sync-signedout-description = Szinkronizálja könyvjelzőit, előzményeit, lapjait, jelszavait, kiegészítőit és beállításait minden eszközén.
+sync-signedout-description2 = Szinkronizálja könyvjelzőit, előzményeit, lapjait, jelszavait, kiegészítőit és beállításait minden eszközén.
 sync-signedout-account-signin2 =
     .label = Bejelentkezés a { -sync-brand-short-name }be…
     .accesskey = j
@@ -672,6 +705,7 @@ prefs-sync-setup =
     .label = { -sync-brand-short-name } beállítása…
     .accesskey = S
 prefs-sync-offer-setup-label = Szinkronizálja könyvjelzőit, előzményeit, lapjait, jelszavait, kiegészítőit és beállításait minden eszközén.
+prefs-sync-offer-setup-label2 = Szinkronizálja könyvjelzőit, előzményeit, lapjait, jelszavait, kiegészítőit és beállításait minden eszközén.
 prefs-sync-now =
     .labelnotsyncing = Szinkronizálás most
     .accesskeynotsyncing = m
@@ -692,6 +726,7 @@ sync-currently-syncing-prefs =
         [windows] Beállítások
        *[other] Beállítások
     }
+sync-currently-syncing-settings = Beállítások
 sync-change-options =
     .label = Módosítás…
     .accesskey = M
@@ -739,6 +774,10 @@ sync-engine-prefs =
         }
     .tooltiptext = Módosított általános, adatvédelmi és biztonsági beállítások
     .accesskey = B
+sync-engine-settings =
+    .label = Beállítások
+    .tooltiptext = Módosított általános, adatvédelmi és biztonsági beállítások
+    .accesskey = k
 
 ## The device name controls.
 
@@ -1026,7 +1065,7 @@ permissions-header = Engedélyek
 permissions-location = Hely
 permissions-location-settings =
     .label = Beállítások…
-    .accesskey = H
+    .accesskey = B
 permissions-xr = Virtuális valóság
 permissions-xr-settings =
     .label = Beállítások…
@@ -1034,15 +1073,15 @@ permissions-xr-settings =
 permissions-camera = Kamera
 permissions-camera-settings =
     .label = Beállítások…
-    .accesskey = K
+    .accesskey = B
 permissions-microphone = Mikrofon
 permissions-microphone-settings =
     .label = Beállítások…
-    .accesskey = m
+    .accesskey = B
 permissions-notification = Értesítések
 permissions-notification-settings =
     .label = Beállítások…
-    .accesskey = e
+    .accesskey = B
 permissions-notification-link = További tudnivalók
 permissions-notification-pause =
     .label = Értesítések kikapcsolása a { -brand-short-name } újraindulásáig
@@ -1153,6 +1192,11 @@ space-alert-under-5gb-ok-button =
     .label = Rendben, értem
     .accesskey = R
 space-alert-under-5gb-message = A { -brand-short-name } kezd kifogyni a lemezhelyből. A weboldalak tartalma nem feltétlenül jelenik meg helyesen. A lemezhasználat optimalizálásával a böngészés simábbá tehető, olvassa el a „További tudnivalókat”.
+space-alert-over-5gb-settings-button =
+    .label = Beállítások megnyitása
+    .accesskey = m
+space-alert-over-5gb-message2 = <strong>A { -brand-short-name } kezd kifogyni a lemezhelyből.</strong> A weboldalak tartalma nem feltétlenül jelenik meg helyesen. Az oldalak tárolt adatait a Beállítások > Adatvédelem és biztonság > Sütik és oldaladatok alatt törölheti.
+space-alert-under-5gb-message2 = <strong>A { -brand-short-name } kezd kifogyni a lemezhelyből.</strong> A weboldalak tartalma nem feltétlenül jelenik meg helyesen. A lemezhasználat optimalizálásával a böngészés simábbá tehető, olvassa el a „További tudnivalókat”.
 
 ## Privacy Section - HTTPS-Only
 

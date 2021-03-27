@@ -34,6 +34,9 @@ sidebar-preferences-button-title =
             [windows] { -brand-short-name } beállítások
            *[other] { -brand-short-name } beállítások
         }
+addons-settings-button = { -brand-short-name } Beállítások
+sidebar-settings-button-title =
+    .title = { -brand-short-name } Beállítások
 show-unsigned-extensions-button =
     .label = Néhány kiegészítő nem ellenőrizhető
 show-all-extensions-button =
@@ -384,9 +387,6 @@ addon-detail-private-browsing-disallow = Tiltás
 addon-badge-recommended2 =
     .title = A { -brand-product-name } csak olyan kiegészítőket ajánl, amelyek megfelelnek a biztonsági és a teljesítménybeli követelményeinknek.
     .aria-label = { addon-badge-recommended2.title }
-addon-badge-line2 =
-    .title = Ez egy hivatalos kiegészítő, melyet a { -brand-product-name } készítői fejlesztettek
-    .aria-label = { addon-badge-line2.title }
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =

@@ -35,6 +35,12 @@ appmenuitem-more-tools =
     .label = További eszközök
 appmenuitem-exit =
     .label = Kilépés
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Kilépés
+           *[other] Kilépés
+        }
 appmenu-menu-button-closed =
     .tooltiptext = Alkalmazásmenü megnyitása
     .label = { -brand-shorter-name }
