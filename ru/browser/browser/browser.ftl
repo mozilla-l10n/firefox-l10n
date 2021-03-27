@@ -379,6 +379,13 @@ browser-tab-unmute =
         [few] ВОССТАНОВИТЬ ЗВУК В { $count } ВКЛАДКАХ
        *[many] ВОССТАНОВИТЬ ЗВУК В { $count } ВКЛАДКАХ
     }
+browser-tab-unblock =
+    { $count ->
+        [1] ВОСПРОИЗВЕСТИ ЗВУК ВО ВКЛАДКЕ
+        [one] ВОСПРОИЗВЕСТИ ЗВУК В { $count } ВКЛАДКЕ
+        [few] ВОСПРОИЗВЕСТИ ЗВУК В { $count } ВКЛАДКАХ
+       *[many] ВОСПРОИЗВЕСТИ ЗВУК В { $count } ВКЛАДКАХ
+    }
 
 ## Bookmarks toolbar items
 

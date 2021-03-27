@@ -9,6 +9,16 @@ about-private-browsing-info-title = Вы в приватном окне
 about-private-browsing-info-myths = Распространённые мифы о приватном просмотре
 about-private-browsing =
     .title = Поиск в Интернете
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff =
+    .title = Найдите в { $engine } или введите адрес
+about-private-browsing-handoff-no-engine =
+    .title = Введите запрос или адрес
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff-text = Найдите в { $engine } или введите адрес
+about-private-browsing-handoff-text-no-engine = Введите запрос или адрес
 about-private-browsing-not-private = Сейчас вы не находитесь в приватном окне.
 about-private-browsing-info-description = { -brand-short-name } удаляет историю поиска и просмотра страниц, когда вы выходите из приложения или закрываете все приватные вкладки и окна. Хотя это не делает вас анонимными для веб-сайтов или вашего Интернет-провайдера, вам будет легче сохранить конфиденциальность ваших действий в Интернете от других людей, которые используют этот компьютер.
 about-private-browsing-need-more-privacy = Хотите большей приватности?

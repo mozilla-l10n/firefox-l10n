@@ -135,9 +135,9 @@ restart-in-troubleshoot-mode-label = Безопасный режим…
 clear-startup-cache-title = Попробуйте очистить кэш запуска
 clear-startup-cache-label = Очистить кэш запуска…
 startup-cache-dialog-title = Очистка кэша запуска
-startup-cache-dialog-body = Перезапустите { -brand-short-name }, чтобы очистить кэш запуска. Это не изменит ваши настройки и не удалит расширения, которые вы добавили в { -brand-short-name }.
+startup-cache-dialog-body = Перезапустите { -brand-short-name }, чтобы очистить кэш запуска. Это действие не изменит ваши настройки и не удалит расширения, которые вы добавили в { -brand-short-name }.
 startup-cache-dialog-title2 = Перезапустить { -brand-short-name } чтобы очистить кэш запуска?
-startup-cache-dialog-body2 = Это не изменит ваши настройки и не удалит расширения.
+startup-cache-dialog-body2 = Это действие не изменит ваши настройки и не удалит расширения.
 restart-button-label = Перезапустить
 
 ## Media titles
