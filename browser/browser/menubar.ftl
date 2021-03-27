@@ -11,6 +11,8 @@
 
 ## Application Menu (macOS only)
 
+menu-application-preferences =
+    .label = Настройки
 menu-application-services =
     .label = Службы
 menu-application-hide-this =
@@ -252,9 +254,9 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Войти в { -brand-product-name }…
     .accesskey = й
-menu-tools-extensions =
-    .label = Расширения и темы
-    .accesskey = ш
+menu-tools-addons-and-themes =
+    .label = Дополнения и темы
+    .accesskey = п
 menu-tools-fxa-sign-in2 =
     .label = Войти
     .accesskey = й
@@ -270,25 +272,31 @@ menu-tools-fxa-re-auth =
 menu-tools-web-developer =
     .label = Веб-разработка
     .accesskey = б
+menu-tools-browser-tools =
+    .label = Инструменты браузера
+    .accesskey = н
+menu-tools-task-manager =
+    .label = Диспетчер задач
+    .accesskey = п
 menu-tools-page-source =
     .label = Исходный код страницы
     .accesskey = х
 menu-tools-page-info =
     .label = Информация о странице
     .accesskey = ф
+menu-settings =
+    .label = Настройки
+    .accesskey =
+        { PLATFORM() ->
+            [windows] а
+           *[other] а
+        }
 menu-preferences =
     .label =
         { PLATFORM() ->
             [windows] Настройки
            *[other] Настройки
         }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] а
-           *[other] а
-        }
-menu-settings =
-    .label = Настройки
     .accesskey =
         { PLATFORM() ->
             [windows] а
@@ -306,15 +314,6 @@ menu-window-bring-all-to-front =
     .label = Все окна — на передний план
 
 ## Help Menu
-
-
-# NOTE: For Engineers, any additions or changes to Help menu strings should
-# also be reflected in the related strings in appmenu.ftl. Those strings, by
-# convention, will have the same ID as these, but prefixed with "app".
-# Example: appmenu-help-product
-#
-# These strings are duplicated to allow for different casing depending on
-# where the strings appear.
 
 
 # NOTE: For Engineers, any additions or changes to Help menu strings should
@@ -346,11 +345,11 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = Информация для решения проблем
     .accesskey = а
+menu-help-taskmanager =
+    .label = Диспетчер задач
 menu-help-more-troubleshooting-info =
     .label = Информация для решения проблем
     .accesskey = а
-menu-help-taskmanager =
-    .label = Диспетчер задач
 menu-help-report-site-issue =
     .label = Сообщить о проблеме с сайтом…
 menu-help-feedback-page =
@@ -362,9 +361,9 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Перезапустить с дополнениями
     .accesskey = е
-menu-help-enter-troubleshoot-mode =
-    .label = Безопасный режим
-    .accesskey = п
+menu-help-enter-troubleshoot-mode2 =
+    .label = Безопасный режим…
+    .accesskey = й
 menu-help-exit-troubleshoot-mode =
     .label = Отключить безопасный режим
     .accesskey = ю
@@ -376,6 +375,3 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = Это не поддельный сайт…
     .accesskey = е
-menu-help-check-for-update =
-    .label = Проверить наличие обновлений…
-    .accesskey = в

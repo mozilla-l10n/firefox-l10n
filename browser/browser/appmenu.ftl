@@ -7,6 +7,12 @@
 
 appmenuitem-update-banner =
     .label-update-downloading = Загрузка обновления { -brand-shorter-name }
+appmenuitem-update-banner2 =
+    .label-update-downloading = Загрузка обновления { -brand-shorter-name }
+    .label-update-available = Обновление доступно — загрузить сейчас
+    .label-update-manual = Обновление доступно — загрузить сейчас
+    .label-update-unsupported = Не удалось выполнить обновление
+    .label-update-restart = Обновление доступно — перезапустить сейчас
 appmenuitem-protection-dashboard-title = Панель состояния защиты
 appmenuitem-customize-mode =
     .label = Персонализация…
@@ -21,12 +27,20 @@ appmenuitem-passwords =
     .label = Пароли
 appmenuitem-extensions-and-themes =
     .label = Расширения и темы
+appmenuitem-addons-and-themes =
+    .label = Дополнения и темы
 appmenuitem-find-in-page =
     .label = Найти на странице…
 appmenuitem-more-tools =
     .label = Другие инструменты
 appmenuitem-exit =
     .label = Выход
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Выход
+           *[other] Выход
+        }
 appmenu-menu-button-closed =
     .tooltiptext = Открыть меню приложения
     .label = { -brand-shorter-name }
@@ -163,6 +177,9 @@ appmenu-help-safe-mode-with-addons =
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-enter-troubleshoot-mode2 =
+    .label = Безопасный режим…
+    .accesskey = й
 appmenu-help-exit-troubleshoot-mode =
     .label = Отключить безопасный режим
     .accesskey = п
