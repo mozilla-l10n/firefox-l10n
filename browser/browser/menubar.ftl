@@ -11,6 +11,8 @@
 
 ## Application Menu (macOS only)
 
+menu-application-preferences =
+    .label = Innstillinger
 menu-application-services =
     .label = Tjenester
 menu-application-hide-this =
