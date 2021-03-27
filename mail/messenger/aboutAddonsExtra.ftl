@@ -4,3 +4,5 @@
 
 add-on-options-button =
     .title = 附加元件選項
+atn-addons-heading-search-input =
+    .placeholder = 搜尋 addons.thunderbird.net 上的附加元件
