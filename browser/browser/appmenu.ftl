@@ -7,6 +7,12 @@
 
 appmenuitem-update-banner =
     .label-update-downloading = { -brand-shorter-name } ਅੱਪਡੇਟ ਡਾਊਨਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
+appmenuitem-update-banner2 =
+    .label-update-downloading = { -brand-shorter-name } ਅੱਪਡੇਟ ਡਾਊਨਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
+    .label-update-available = ਅੱਪਡੇਟ ਮੌਜੂਦ ਹੈ — ਹੁਣੇ ਡਾਊਨਲੋਡ ਕਰੋ
+    .label-update-manual = ਅੱਪਡੇਟ ਮੌਜੂਦ ਹੈ — ਹੁਣੇ ਡਾਊਨਲੋਡ ਕਰੋ
+    .label-update-unsupported = ਅੱਪਡੇਟ ਲਈ ਅਸਮਰੱਥ ਹੈ
+    .label-update-restart = ਅੱਪਡੇਫ ਮੌਜੂਦ ਹੈ — ਹੁਣੇ ਮੁੜ-ਚਾਲੂ ਕਰੋ
 appmenuitem-protection-dashboard-title = ਸੁਰੱਖਿਆ ਡੈਸ਼ਬੋਰਡ
 appmenuitem-customize-mode =
     .label = …ਪਸੰਦ
@@ -21,12 +27,20 @@ appmenuitem-passwords =
     .label = ਪਾਸਵਰਡ
 appmenuitem-extensions-and-themes =
     .label = ਇਕਸਟੈਨਸ਼ਨਾਂ ਤੇ ਥੀਮ
+appmenuitem-addons-and-themes =
+    .label = ਐਡ-ਆਨ ਅਤੇ ਥੀਮ
 appmenuitem-find-in-page =
     .label = …ਸਫ਼ੇ ਵਿੱਚ ਲੱਭੋ
 appmenuitem-more-tools =
     .label = ਹੋਰ ਟੂਲ
 appmenuitem-exit =
     .label = ਬਾਹਰ
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] ਬਾਹਰ
+           *[other] ਬਾਹਰ
+        }
 appmenu-menu-button-closed =
     .tooltiptext = ਐਪਲੀਕੇਸ਼ਨ ਮੇਨੂ ਖੋਲ੍ਹੋ
     .label = { -brand-shorter-name }
@@ -161,6 +175,9 @@ appmenu-help-safe-mode-with-addons =
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-enter-troubleshoot-mode2 =
+    .label = ਸਮੱਸਿਆ ਨਿਪਟਾਰਾ ਢੰਗ…
+    .accesskey = M
 appmenu-help-exit-troubleshoot-mode =
     .label = ਸਮੱਸਿਆ ਨਿਪਟਾਰਾ ਢੰਗ ਬੰਦ ਹੈ
     .accesskey = M
