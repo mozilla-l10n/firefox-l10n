@@ -56,13 +56,7 @@ about-webrtc-ice-pair-bytes-sent = Послато бајтова:
 about-webrtc-ice-pair-bytes-received = Примљено бајтова:
 about-webrtc-ice-component-id = ИБ компоненте
 
-##
-
-
 ## "Avg." is an abbreviation for Average. These are used as data labels.
-
-
-##
 
 
 ## These adjectives are used to label a line of statistics collected for a peer
@@ -88,7 +82,7 @@ about-webrtc-debug-mode-on-state-label = Заустави режим за отк
 about-webrtc-stats-heading = Статистике сесије
 about-webrtc-stats-clear = Обриши историјат
 about-webrtc-log-heading = Дневник конекције
-about-webrtc-log-clear = Обриши дневник
+about-webrtc-log-clear = Обриши евиденцију
 about-webrtc-log-show-msg = Прикажи дневник
     .title = кликните да проширите овај одељак
 about-webrtc-log-hide-msg = Сакриј дневник

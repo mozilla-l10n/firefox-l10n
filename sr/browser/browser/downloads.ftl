@@ -120,7 +120,7 @@ downloads-details =
     .title = Детаљи преузимања
 downloads-clear-downloads-button =
     .label = Обриши преузимања
-    .tooltiptext = Брише завршена, отказана и неуспела преузимања
+    .tooltiptext = Брише завршена, отказана и неуспешна преузимања
 # This string is shown when there are no items in the Downloads view, when it
 # is displayed inside a browser tab.
 downloads-list-empty =
