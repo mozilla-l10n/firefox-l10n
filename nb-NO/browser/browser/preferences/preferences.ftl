@@ -64,6 +64,7 @@ category-experimental =
 pane-experimental-subtitle = Fortsett med forsiktighet
 pane-experimental-search-results-header = { -brand-short-name }-eksperimenter: Fortsett med forsiktighet
 pane-experimental-description = Endrer du avanserte konfigurasjonsinnstillinger kan det påvirke ytelse eller sikkerhet i { -brand-short-name }.
+pane-experimental-description2 = Endrer du avanserte konfigurasjonsinnstillinger kan det påvirke ytelse eller sikkerhet i { -brand-short-name }.
 pane-experimental-reset =
     .label = Gjenopprett standard
     .accesskey = G
@@ -133,6 +134,8 @@ search-results-empty-message =
         [windows] Beklager! Det er ingen resultat i innstillinger for «<span data-l10n-name="query"></span>».
        *[other] Beklager! Det er ingen resultat i innstillinger for «<span data-l10n-name="query"></span>».
     }
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 = Beklager! Det er ingen resultat i innstillinger for «<span data-l10n-name="query"></span>».
 search-results-help-link = Trenger du hjelp? Gå til <a data-l10n-name="url">{ -brand-short-name } brukerstøtte</a>
 
 ## General Section

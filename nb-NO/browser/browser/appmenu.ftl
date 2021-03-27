@@ -35,6 +35,12 @@ appmenuitem-more-tools =
     .label = Flere verktøy …
 appmenuitem-exit =
     .label = Avslutt
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Avslutt
+           *[other] Avslutt
+        }
 appmenu-menu-button-closed =
     .tooltiptext = Åpne program-meny
     .label = { -brand-shorter-name }
