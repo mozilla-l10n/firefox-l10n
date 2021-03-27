@@ -58,8 +58,9 @@
 <!ENTITY printButton.label            "Natisni">
 <!ENTITY printButton.tooltip          "Natisni to stran">
 
-
 <!ENTITY locationBar.tooltip          "Vnesite iskalni izraz, ključno besedo ali spletni naslov">
+<!ENTITY locationBar.accesskey        "N">
+<!ENTITY locationBar.title            "Naslov">
 <!ENTITY proxyIcon.tooltip            "Povlecite in spustite to ikono, da ustvarite povezavo do te strani">
 
 <!ENTITY searchItem.title             "Išči">

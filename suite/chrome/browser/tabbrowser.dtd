@@ -18,6 +18,8 @@ left instead of right. -->
 <!ENTITY  reloadAllTabs.accesskey         "a">
 <!ENTITY  reloadTab.label        "Ponovno naloži zavihek">
 <!ENTITY  reloadTab.accesskey         "n">
+<!ENTITY  bookmarkGroup.label    "Dodaj skupino zavihkov med zaznamke">
+<!ENTITY  bookmarkGroup.accesskey  "D">
 <!ENTITY  closeTabButton.tooltip   "Zapri trenutni zavihek">
 <!ENTITY  newTabButton.tooltip   "Odpri nov zavihek">
 <!ENTITY  listAllTabs.tooltip    "Seznam vseh zavihkov">

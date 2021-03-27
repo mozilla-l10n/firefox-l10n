@@ -5,6 +5,7 @@
 <!-- LOCALIZATION NOTE (tabs.otherComputers.label): Keep this in sync with syncTabsMenu.label from navigator.dtd -->
 <!ENTITY tabs.otherComputers.label               "Zavihki z drugih računalnikov">
 
+<!ENTITY tabs.searchText.label                   "Tipkajte za iskanje zavihkov …">
 
 <!-- LOCALIZATION NOTE (tabs.context.openTab.accesskey, tabs.context.openMultipleTabs.accesskey;
      tabs.context.bookmarkSingleTab.accesskey, tabs.context.bookmarkMultipleTabs.accesskey):
