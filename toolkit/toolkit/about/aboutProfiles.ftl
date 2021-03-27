@@ -35,10 +35,10 @@ profiles-cannot-set-as-default-title = Није могуће поставити 
 profiles-cannot-set-as-default-message = Подразумевани профил се не може мењати за { -brand-short-name }.
 profiles-yes = да
 profiles-no = не
-profiles-rename-profile-title = Преименуј профил
+profiles-rename-profile-title = Преименовање профила
 # Variables:
 #   $name (String) - Name of the profile
-profiles-rename-profile = Преименуј профил { $name }
+profiles-rename-profile = Изаберите нови назив профила „{ $name }”:
 profiles-invalid-profile-name-title = Неисправно име профила
 # Variables:
 #   $name (String) - Name of the profile
