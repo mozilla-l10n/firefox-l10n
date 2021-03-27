@@ -203,7 +203,7 @@ containers-remove-cancel-button = Немој уклонити овај конт�
 
 language-and-appearance-header = Језик и изглед
 fonts-and-colors-header = Фонт и боје
-default-font = Подразумевани фонт:
+default-font = Фонт:
     .accesskey = ф
 default-font-size = Величина
     .accesskey = В
@@ -215,7 +215,7 @@ colors-settings =
     .accesskey = Б
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Зумирање
-preferences-default-zoom = Подразумевани ниво зумирања:
+preferences-default-zoom = Ниво зумирања:
     .accesskey = з
 preferences-default-zoom-value =
     .label = { $percentage }%
