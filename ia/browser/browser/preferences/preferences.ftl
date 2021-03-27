@@ -28,6 +28,7 @@ search-input-box =
             [windows] Cercar in le optiones
            *[other] Cercar in le preferentias
         }
+settings-page-title = Parametros
 managed-notice = Tu navigator debe ser gerite per tu organisation.
 category-list =
     .aria-label = Categorias
