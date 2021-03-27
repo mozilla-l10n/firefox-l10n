@@ -52,7 +52,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.syncSettings2.label "Подешавања &syncBrand.shortName.label;-а">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Повежи други уређај…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
-<!ENTITY fxa.menu.signin.label "Пријавите се на &brandProductName;">
+<!ENTITY fxa.menu.signin.label "Пријавите се у &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Укључите &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "&brandProductName; услуге">
 <!ENTITY fxa.menu.account.label "Налог">
@@ -177,7 +177,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Отвори подешавања Sync-а">
 <!ENTITY appMenuRemoteTabs.welcome.label "Погледајте листу картица са других уређаја.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Ваш налог мора бити потврђен.">
-<!ENTITY appMenuRemoteTabs.signintosync.label "Пријавите се на &syncBrand.shortName.label;…">
+<!ENTITY appMenuRemoteTabs.signintosync.label "Пријавите се у &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.turnonsync.label "Укључите &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Управљај уређајима…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Прикажи панел са синхронизованим картицама">
