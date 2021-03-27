@@ -406,6 +406,8 @@ urlbar-result-action-search-in-private = Ҷустуҷӯ дар равзанаи 
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Ҷустуҷӯ тавассути { $engine }
+urlbar-result-action-switch-tab = Ба варақа гузаштан
+urlbar-result-action-visit = Боздид
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
