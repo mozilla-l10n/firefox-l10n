@@ -18,8 +18,19 @@ pref-page-title = Подешавања
 # is the name of the CSS property. It is intended only to adjust the element's width.
 # Do not translate.
 search-input-box =
-    .placeholder = Пронађите у подешавањима
     .style = width: 15.4em
+    .placeholder = Пронађите у подешавањима
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box2 =
+    .style = width: 15.4em
+    .placeholder = Пронађите у подешавањима
 managed-notice = Вашим прегледачем управља ваша организација.
 category-list =
     .aria-label = Категорије
@@ -700,7 +711,7 @@ sync-engine-creditcards =
     .accesskey = К
 sync-engine-addons =
     .label = Додаци
-    .tooltiptext = Екстензије и теме за Firefox десктоп
+    .tooltiptext = Проширења и теме за Firefox на рачунару
     .accesskey = Д
 sync-engine-prefs =
     .label = Подешавања
@@ -728,7 +739,7 @@ privacy-header = Приватност прегледача
 ## Privacy Section - Logins and Passwords
 
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
-pane-privacy-logins-and-passwords-header = Пријаве и лозинке
+pane-privacy-logins-and-passwords-header = Лозинке
     .searchkeywords = { -lockwise-brand-short-name }
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
@@ -1056,7 +1067,7 @@ addon-recommendations-link = Сазнајте више
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Слање података је онемогућено за ову конфигурацију за изградњу
 collection-backlogged-crash-reports =
-    .label = Дозволи да { -brand-short-name } шаље заостале извештаје о грешкама у моје име
+    .label = Дозволи да { -brand-short-name } шаље заостале извештаје о отказивањима у моје име
     .accesskey = Д
 collection-backlogged-crash-reports-link = Сазнајте више
 
