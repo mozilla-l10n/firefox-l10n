@@ -52,7 +52,7 @@ cert-error-not-yet-valid-now = Веб странице доказују свој
 cert-error-code-prefix-link = Кôд грешке: <a data-l10n-name="error-code-link">{ $error }</a>
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = Веб странице доказују свој идентитет путем сертификата које издају сертификациона тела. Већина прегледача више не верује у сертификате које издају GeoTrust, RapidSSL, Symantec, Thawte, and VeriSign. { $hostname } користи сертификат једног од ових тела и зато се не може доказати идентитет веб странице.
+cert-error-symantec-distrust-description = Веб-сајтови доказују свој идентитет путем сертификата које издају сертификациона тела. Већина прегледача више не верује сертификатима које издају GeoTrust, RapidSSL, Symantec, Thawte и VeriSign. { $hostname } користи сертификат једног од ових издаваоца, па се идентитет сајта не може доказати.
 cert-error-symantec-distrust-admin = Можете да обавестите администратора веб странице о овом проблему.
 # Variables:
 # $hasHSTS (Boolean) - Indicates whether HSTS header is present.
