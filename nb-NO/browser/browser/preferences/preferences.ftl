@@ -28,6 +28,18 @@ search-input-box =
             [windows] Søk i innstillinger
            *[other] Søk i innstillinger
         }
+settings-page-title = Innstillinger
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box2 =
+    .style = width: 15.4em
+    .placeholder = Søk i innstillinger
 managed-notice = Nettleseren din administreres av organisasjonen din.
 category-list =
     .aria-label = Kategorier
@@ -369,6 +381,9 @@ update-application-check-choose =
 update-application-manual =
     .label = Se aldri etter oppdateringer (anbefales ikke)
     .accesskey = s
+update-application-background-enabled =
+    .label = Når { -brand-short-name } ikke kjører
+    .accesskey = N
 update-application-warning-cross-user-setting = Denne innstillingen gjelder for alle Windows-kontoer og { -brand-short-name }-profiler som bruker denne installasjonen av { -brand-short-name }.
 update-application-use-service =
     .label = Bruk en bakgrunnstjeneste for å installere oppdateringer
@@ -379,6 +394,15 @@ update-setting-write-failure-title = Kunne ikke lagre oppdateringsinnstillinger
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message =
+    { -brand-short-name } oppdaget en feil og lagret ikke denne endringen. Merk, for å kunne lagre endringen av denne oppdateringsinnstillingen, kreves det tillatelse til å skrive til filen nedenfor. Du eller en systemadministrator kan muligens løse feilen ved å gi gruppen Brukere full tilgang til denne filen.
+    
+    Kunne ikke skrive til filen: { $path }
+update-setting-write-failure-title2 = Kunne ikke lagre oppdateringsinnstillinger
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message2 =
     { -brand-short-name } oppdaget en feil og lagret ikke denne endringen. Merk, for å kunne lagre endringen av denne oppdateringsinnstillingen, kreves det tillatelse til å skrive til filen nedenfor. Du eller en systemadministrator kan muligens løse feilen ved å gi gruppen Brukere full tilgang til denne filen.
     
     Kunne ikke skrive til filen: { $path }
@@ -579,6 +603,7 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Vis søkeforslag i private vindu
 suggestions-addressbar-settings-generic = Endre innstillinger for andre adresselinjeforslag
+suggestions-addressbar-settings-generic2 = Endre innstillinger for andre adresselinjeforslag
 search-suggestions-cant-show = Søkeforslag vil ikke vises i adresselinjeresultatene fordi du har konfigurert { -brand-short-name } til å aldri huske historikk.
 search-one-click-header = Ettklikks søkemotorer
 search-one-click-header2 = Søkesnarveier
@@ -613,6 +638,8 @@ containers-back-button =
             [windows] Tilbake til innstillinger
            *[other] Tilbake til innstillinger
         }
+containers-back-button2 =
+    .aria-label = Tilbake til innstillinger
 containers-header = Innholdsfaner
 containers-add-button =
     .label = Legg til ny beholder
@@ -622,6 +649,8 @@ containers-new-tab-check =
     .accesskey = V
 containers-preferences-button =
     .label = Innstillinger
+containers-settings-button =
+    .label = Innstillinger
 containers-remove-button =
     .label = Fjern
 
@@ -630,6 +659,7 @@ containers-remove-button =
 
 sync-signedout-caption = Ta med deg webben
 sync-signedout-description = Synkroniser bokmerker, historikk, faner, passord, utvidelser og innstillinger på tvers av alle enhetene dine.
+sync-signedout-description2 = Synkroniser bokmerker, historikk, faner, passord, utvidelser og innstillinger på tvers av alle enhetene dine.
 sync-signedout-account-signin2 =
     .label = Logg inn på { -sync-brand-short-name }…
     .accesskey = i
@@ -672,6 +702,7 @@ prefs-sync-setup =
     .label = Konfigurer { -sync-brand-short-name }
     .accesskey = K
 prefs-sync-offer-setup-label = Synkroniser bokmerker, historikk, faner, passord, utvidelser og innstillinger på tvers av alle enhetene dine.
+prefs-sync-offer-setup-label2 = Synkroniser bokmerker, historikk, faner, passord, utvidelser og innstillinger på tvers av alle enhetene dine.
 prefs-sync-now =
     .labelnotsyncing = Synkroniser nå
     .accesskeynotsyncing = n
@@ -692,6 +723,7 @@ sync-currently-syncing-prefs =
         [windows] Innstillinger
        *[other] Innstillinger
     }
+sync-currently-syncing-settings = Innstillinger
 sync-change-options =
     .label = Endre…
     .accesskey = E
