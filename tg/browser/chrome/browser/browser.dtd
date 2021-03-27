@@ -87,6 +87,7 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
+<!ENTITY addons.label                 "Ҷузъҳои иловагӣ">
 
 
 
@@ -136,6 +137,7 @@ this container is a toolbar. This avoids double-speaking. -->
      customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. -->
+<!ENTITY customizeMenu.addToOverflowMenu.label "Илова кардан ба менюи васеъшуда">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
