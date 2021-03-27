@@ -35,6 +35,12 @@ appmenuitem-more-tools =
     .label = Абзорҳои бештар
 appmenuitem-exit =
     .label = Баромад
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Хориҷ шудан
+           *[other] Баромад
+        }
 appmenu-menu-button-closed =
     .tooltiptext = Кушодани менюи барномаҳо
     .label = { -brand-shorter-name }

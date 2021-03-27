@@ -263,11 +263,19 @@ browser-window-minimize-button =
     .tooltiptext = Ҳадди ақал сохтан
 browser-window-maximize-button =
     .tooltiptext = Ҳадди аксар сохтан
+browser-window-restore-down-button =
+    .tooltiptext = Бозгашт ба равзана
 browser-window-close-button =
     .tooltiptext = Пӯшидан
 
 ## Tab actions
 
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = ДАР ҲОЛИ ПАХШ
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = БЕСАДО
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = ПАХШИ ХУДКОР МАНЪ ШУД
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = РАСМ-ДАР-РАСМ
 
@@ -275,6 +283,21 @@ browser-tab-audio-pip = РАСМ-ДАР-РАСМ
 ## Variables:
 ##  $count (number): number of affected tabs
 
+browser-tab-mute =
+    { $count ->
+        [1] БЕСАДО КАРДАНИ ВАРАҚА
+       *[other] БЕСАДО КАРДАНИ { $count } ВАРАҚА
+    }
+browser-tab-unmute =
+    { $count ->
+        [1] ФАЪОЛ КАРДАНИ САДОИ ВАРАҚА
+       *[other] ФАЪОЛ КАРДАНИ САДОИ { $count } ВАРАҚА
+    }
+browser-tab-unblock =
+    { $count ->
+        [1] ПАХШ КАРДАНИ ВАРАҚА
+       *[other] ПАХШ КАРДАНИ { $count } ВАРАҚА
+    }
 
 ## Bookmarks toolbar items
 
