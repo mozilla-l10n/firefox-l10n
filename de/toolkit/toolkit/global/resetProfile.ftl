@@ -11,6 +11,7 @@ refresh-profile-description = Ein Neuanfang löst Probleme mit der Anwendung und
 refresh-profile-description-details = Dies wird:
 refresh-profile-remove = Ihre Add-ons und Anpassungen entfernen
 refresh-profile-restore = Die Browser-Einstellungen auf den Standard zurücksetzen
+refresh-profile-dialog-description = Fangen Sie neu an, um Probleme mit der Leistung zu beheben. Dadurch werden Ihre Erweiterungen und Anpassungen entfernt. Sie verlieren keine wichtigen Informationen wie Lesezeichen und Passwörter.
 refresh-profile = { -brand-short-name } wieder flottmachen
 refresh-profile-button = { -brand-short-name } bereinigen…
 refresh-profile-learn-more = Weitere Informationen
