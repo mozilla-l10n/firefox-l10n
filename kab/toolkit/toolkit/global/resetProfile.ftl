@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = Smiren { -brand-short-name }
+refresh-profile-dialog-title = Smiren { -brand-short-name } ɣer yiɣewwaren-ines imezwer?
 refresh-profile-dialog-button =
     .label = Smiren { -brand-short-name }
 refresh-profile-description = Senker tirirt tawurmant i weseɣti n wuguren d tmellit n yiminig.
