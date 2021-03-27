@@ -9,6 +9,16 @@ about-private-browsing-info-title = Шумо дар равзанаи махфӣ 
 about-private-browsing-info-myths = Афсонаҳои маъмул дар бораи тамошокунии махфӣ
 about-private-browsing =
     .title = Ҷустуҷӯ дар Интернет
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff =
+    .title = Нишониеро тавассути { $engine } ҷустуҷӯ кунед ё ворид намоед
+about-private-browsing-handoff-no-engine =
+    .title = Нишониеро ҷустуҷӯ кунед ё ворид намоед
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff-text = Нишониеро тавассути { $engine } ҷустуҷӯ кунед ё ворид намоед
+about-private-browsing-handoff-text-no-engine = Нишониеро ҷустуҷӯ кунед ё ворид намоед
 about-private-browsing-not-private = Айни ҳол шумо дар равзанаи махфӣ қарор надоред.
 about-private-browsing-info-description = Вақте ки шумо барномаро хомӯш мекунед ё ҳамаи варақаҳо ва равзанаҳои тамошокунии махфиро мепӯшед { -brand-short-name } таърихи тамошокунӣ ва ҷустуҷӯи шуморо пок мекунад. Ин амал шуморо аз сомонаҳо ё провайдери хизматрасонии интернет пинҳон намекунад, аммо аз корбарони дигаре, ки ин дастгоҳро истифода мебаранд, фаъолияти онлайни шуморо ба осонӣ махфӣ карда, нигоҳ медорад.
 about-private-browsing-need-more-privacy = Ба махфияти бештар ниёз доред?

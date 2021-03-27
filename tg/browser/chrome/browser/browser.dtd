@@ -65,6 +65,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY printButton.label            "Чоп кардан">
 <!ENTITY printButton.tooltip          "Чоп кардани саҳифаи ҷорӣ">
 
+<!ENTITY searchItem.title             "Ҷустуҷӯ">
 
 <!-- Toolbar items -->
 
@@ -144,9 +145,12 @@ this container is a toolbar. This avoids double-speaking. -->
     secondary commands. -->
 <!ENTITY moreMenu.label "Бештар">
 
+<!ENTITY contentSearchSubmit.tooltip  "Иҷро кардани ҷустуҷӯ">
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
      This string is displayed in the search box when the input field is empty. -->
+<!ENTITY searchInput.placeholder      "Ҷустуҷӯ">
+<!ENTITY searchIcon.tooltip           "Ҷустуҷӯ">
 
 
 <!ENTITY pageAction.copyLink.label    "Нусха бардоштани пайванд">

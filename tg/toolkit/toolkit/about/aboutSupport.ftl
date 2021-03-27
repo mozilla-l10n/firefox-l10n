@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 support-addons-title = Ҷузъҳои иловагӣ
+features-title = Хусусиятҳои { -brand-short-name }
 app-basics-location-service-key-google = Калиди хидмати ҷойгиршавии Google
 app-basics-key-mozilla = Калиди хидмати ҷойгиршавии Mozilla
 restart-in-safe-mode-label = Аз нав оғоз кардани барнома бо ҷузъҳои иловагии ғайрифаъолшуда…

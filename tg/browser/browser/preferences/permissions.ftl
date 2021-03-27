@@ -20,6 +20,8 @@ permissions-button-ok =
 permission-dialog =
     .buttonlabelaccept = Нигоҳ доштани тағйирот
     .buttonaccesskeyaccept = Н
+permissions-searchbox =
+    .placeholder = Ҷустуҷӯи сомонаҳо
 
 ## Invalid Hostname Dialog
 

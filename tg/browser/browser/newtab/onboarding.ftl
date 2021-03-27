@@ -78,6 +78,7 @@ onboarding-mobile-phone-title = { -brand-product-name }-ро дар телефо
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = Боргирӣ кардани браузери мобилӣ
+onboarding-pocket-anywhere-button = { -pocket-brand-name }-ро озмоед
 onboarding-lockwise-strong-passwords-button = Идоракунии воридшавиҳои худ
 onboarding-facebook-container-button = Илова кардани васеъшавӣ
 onboarding-import-browser-settings-button = Ворид кардани маълумоти Chrome

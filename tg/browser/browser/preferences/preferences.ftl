@@ -38,6 +38,7 @@ category-general =
     .tooltiptext = { pane-general-title }
 category-home =
     .tooltiptext = { pane-home-title }
+pane-search-title = Ҷустуҷӯ
 category-search =
     .tooltiptext = { pane-search-title }
 category-privacy =
@@ -225,6 +226,8 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-search-header =
+    .label = Ҷустуҷӯ дар Интернет
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -246,9 +249,19 @@ home-prefs-snippets-header =
 
 ## Search Section
 
+search-bar-header = Навори ҷустуҷӯ
+search-suggestions-header = Пешниҳодҳои ҷустуҷӯ
+search-one-click-header2 = Миёнбурҳои низомҳои ҷустуҷӯӣ
+search-choose-engine-column =
+    .label = Низоми ҷустуҷӯӣ
+search-choose-keyword-column =
+    .label = Калимаи калидӣ
 search-remove-engine =
     .label = Тоза кардан
     .accesskey = Т
+search-add-engine =
+    .label = Илова кардан
+    .accesskey = И
 
 ## Containers Section
 
@@ -407,6 +420,9 @@ addressbar-locbar-openpage-option =
 addressbar-locbar-shortcuts-option =
     .label = Миёнбурҳо
     .accesskey = М
+addressbar-locbar-engines-option =
+    .label = Низомҳои ҷустуҷӯӣ
+    .accesskey = Н
 
 ## Privacy Section - Content Blocking
 

@@ -10,6 +10,20 @@ list-empty-button =
 help-button = Дастгирии ҷузъҳои иловагӣ
 sidebar-help-button-title =
     .title = Дастгирии ҷузъҳои иловагӣ
+preferences =
+    { PLATFORM() ->
+        [windows] Имконоти { -brand-short-name }
+       *[other] Хусусиятҳои { -brand-short-name }
+    }
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Имконоти { -brand-short-name }
+           *[other] Хусусиятҳои { -brand-short-name }
+        }
+addons-settings-button = Танзимоти { -brand-short-name }
+sidebar-settings-button-title =
+    .title = Танзимоти { -brand-short-name }
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = Дар равзанаҳои махфӣ иҷозат дода намешавад
@@ -64,9 +78,16 @@ addon-options-button =
 
 ## Add-on actions
 
+# This string is used to show that an add-on is disabled.
+# Variables:
+#   $name (string) - The name of the add-on
+addon-name-disabled = { $name } (ғайрифаъол)
 
 ## Pending uninstall message bar
 
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> тоза карда шуд.
 
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
