@@ -14,6 +14,20 @@ calendar-ics-file-dialog-message-2 = Uvozi iz datoteke:
 calendar-ics-file-dialog-calendar-menu-label = Uvozi v koledar:
 calendar-ics-file-dialog-items-loading-message =
     .value = Nalaganje …
+calendar-ics-file-dialog-search-input =
+    .placeholder = Filtriraj predmete …
+calendar-ics-file-dialog-sort-start-ascending =
+    .label = Razvrsti po datumu začetka (od prvega do zadnjega)
+calendar-ics-file-dialog-sort-start-descending =
+    .label = Razvrsti po datumu začetka (od zadnjega do prvega)
+# "A > Z" is used as a concise way to say "alphabetical order".
+# You may replace it with something appropriate to your language.
+calendar-ics-file-dialog-sort-title-ascending =
+    .label = Razvrsti po naslovu (A > Ž)
+# "Z > A" is used as a concise way to say "reverse alphabetical order".
+# You may replace it with something appropriate to your language.
+calendar-ics-file-dialog-sort-title-descending =
+    .label = Razvrsti po naslovu (Ž > A)
 calendar-ics-file-dialog-progress-message = Uvoz ...
 calendar-ics-file-import-success = Uspešno uvoženo!
 calendar-ics-file-import-error = Prišlo je do napake in uvoz ni uspel.
