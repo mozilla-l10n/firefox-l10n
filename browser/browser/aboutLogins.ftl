@@ -7,7 +7,7 @@ about-logins-page-title = Пријаве и лозинке
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-app-promo-title = Понесите ваше лозинке са собом
+login-app-promo-title = Понесите лозинке са собом
 login-app-promo-subtitle = Преузмите бесплатну { -lockwise-brand-name } апликацију
 login-app-promo-android =
     .alt = Преузмите на Google Play
@@ -17,7 +17,7 @@ login-filter =
     .placeholder = Претражите пријаве
 create-login-button = Направите нову пријаву
 fxaccounts-sign-in-text = Приступите лозинкама на другим уређајима
-fxaccounts-sign-in-button = Пријавите се у { -sync-brand-short-name }
+fxaccounts-sign-in-button = Пријавите се у { -sync-brand-short-name(case: "acc") }
 fxaccounts-avatar-button =
     .title = Управљај налогом
 
