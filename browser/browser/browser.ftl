@@ -159,7 +159,7 @@ urlbar-star-add-bookmark =
 page-action-add-to-urlbar =
     .label = Додај адресној траци
 page-action-manage-extension =
-    .label = Управљај екстензијама…
+    .label = Управљај проширењем…
 page-action-remove-from-urlbar =
     .label = Уклони са адресне траке
 page-action-remove-extension =
@@ -450,7 +450,7 @@ urlbar-switch-to-tab =
     .value = Премести на језичак:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
-    .value = Екстензија:
+    .value = Проширење:
 urlbar-go-button =
     .tooltiptext = Приказ адресе уписане у траку за адресе
 urlbar-page-action-button =
