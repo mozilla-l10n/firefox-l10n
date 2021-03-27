@@ -38,7 +38,7 @@ menu-menuitem-iphone-app = { -lockwise-brand-short-name } за iPhone и iPad
 ## Login List
 
 login-list =
-    .aria-label = Пријаве подударне са појмом претраге
+    .aria-label = Пронађене пријаве
 login-list-count =
     { $count ->
         [one] { $count } пријава
@@ -59,7 +59,7 @@ login-list-intro-description =
         [neuter] { -brand-product-name(case: "loc") }
        *[other] програму { -brand-product-name }
     }.
-about-logins-login-list-empty-search-title = Нису пронађене пријаве
+about-logins-login-list-empty-search-title = Пријаве нису пронађене
 about-logins-login-list-empty-search-description = Нема резултата који одговарају критеријумима претраге.
 login-list-item-title-new-login = Нова пријава
 login-list-item-subtitle-new-login = Унесите своје податке за пријаву
@@ -72,7 +72,7 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Тражите сачуване пријаве? Подесите { -sync-brand-short-name }.
-about-logins-login-intro-heading-logged-out = Тражите сачуване пријаве? Подесите { -sync-brand-short-name } или их увезите.
+about-logins-login-intro-heading-logged-out = Тражите сачуване пријаве? Увезите их или подесите { -sync-brand-short-name(case: "acc") }.
 about-logins-login-intro-heading-logged-in = Синхронизоване пријаве нису пронађене.
 login-intro-description =
     Ако сте сачували пријаве у { -brand-product-name.gender ->
@@ -122,7 +122,7 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## notes are only valid for English. Please test in your respected locale.
 
 # This message can be seen when attempting to edit a login in about:logins on Windows.
-about-logins-edit-login-os-auth-dialog-message-win = Да бисте уредили пријаву, унесите ваше податке за пријаву у Windows. Ово помаже у заштити ваших налога.
+about-logins-edit-login-os-auth-dialog-message-win = Из безбедносних разлога потребно је да унесете податке за пријаву на Windows да бисте уредили пријаву.
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = уреди сачувану пријаву
@@ -132,7 +132,7 @@ about-logins-reveal-password-os-auth-dialog-message-win = Да бисте вид
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = прикажи сачувану лозинку
 # This message can be seen when attempting to copy a password in about:logins on Windows.
-about-logins-copy-password-os-auth-dialog-message-win = Да бисте копирали лозинку, унесите ваше податке за пријаву у Windows. Ово помаже у заштити ваших налога.
+about-logins-copy-password-os-auth-dialog-message-win = Из безбедносних разлога потребно је да унесете податке за пријаву на Windows да бисте копирали лозинку.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = копирај сачувану лозинку
@@ -141,7 +141,7 @@ about-logins-copy-password-os-auth-dialog-message-macosx = копирај сач
 
 master-password-notification-message = Унесите своју главну лозинку да бисте видели сачуване пријаве и лозинке
 # This message can be seen when attempting to export a password in about:logins on Windows.
-about-logins-export-password-os-auth-dialog-message-win = Да бисте извезли ваше пријаве, унесите ваше Windows податке за пријаву. Ово помаже у заштити ваших налога.
+about-logins-export-password-os-auth-dialog-message-win = Из безбедносних разлога потребно је да унесете податке за пријаву на Windows да бисте извезли записе.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = извези сачуване податке за пријаву
@@ -249,7 +249,7 @@ about-logins-confirm-remove-all-sync-dialog-message =
                *[other] програму { -brand-short-name }
             } на свим уређајима синхронизованим са { -fxaccount-brand-name(case: "ins") }, као и упозорења о цурењу података која се појављују овде. Ова радња се не може опозвати.
     }
-about-logins-confirm-export-dialog-title = Извезите пријаве и лозинке
+about-logins-confirm-export-dialog-title = Извезите податке за пријаву
 about-logins-confirm-export-dialog-message = Ваше лозинке ће бити сачуване као читљив текст (нпр. BadP@ssw0rd) тако да може погледати свако ко може да отвори извезену датотеку.
 about-logins-confirm-export-dialog-confirm-button = Извоз…
 about-logins-alert-import-title = Увоз је завршен
@@ -290,7 +290,7 @@ about-logins-error-message-default = Дошло је до грешке при ч
 ## Login Export Dialog
 
 # Title of the file picker dialog
-about-logins-export-file-picker-title = Извези датотеке пријаве
+about-logins-export-file-picker-title = Извоз датотеке са пријавама
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = logins.csv
@@ -302,7 +302,7 @@ about-logins-export-file-picker-csv-filter-title = CSV датотека
 ## Login Import Dialog
 
 # Title of the file picker dialog
-about-logins-import-file-picker-title = Увези пријавну датотеку
+about-logins-import-file-picker-title = Увоз датотеке са пријавама
 about-logins-import-file-picker-import-button = Увези
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -318,15 +318,11 @@ about-logins-import-file-picker-tsv-filter-title = TSV датотека
 about-logins-import-dialog-title = Увоз је завршен
 about-logins-import-dialog-items-added =
     { $count ->
-        [one] <span>Додана је нова пријава:</span> <span data-l10n-name="count">{ $count }</span>
-        [few] <span>Додане су нове пријаве:</span> <span data-l10n-name="count">{ $count }</span>
-       *[other] <span>Додано је нових пријава:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Додато нових пријава:</span> <span data-l10n-name="count">{ $count }</span>
     }
 about-logins-import-dialog-items-modified =
     { $count ->
-        [one] <span>Ажурирана постојећа пријава:</span> <span data-l10n-name="count">{ $count }</span>
-        [few] <span>Ажуриране постојеће пријаве:</span> <span data-l10n-name="count">{ $count }</span>
-       *[other] <span>Ажурирано постојећих пријава:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Ажурирано пријава:</span> <span data-l10n-name="count">{ $count }</span>
     }
 about-logins-import-dialog-items-no-change =
     { $count ->
@@ -343,7 +339,7 @@ about-logins-import-dialog-items-error =
 about-logins-import-dialog-done = Готово
 about-logins-import-dialog-error-title = Грешка при увозу
 about-logins-import-dialog-error-conflicting-values-title = Више конфликтних вредности за једну пријаву
-about-logins-import-dialog-error-conflicting-values-description = Нпр: више корисничких имена, лозинки, адреса, и др. за једну пријаву.
+about-logins-import-dialog-error-conflicting-values-description = На пример: више корисничких имена, лозинки или URL адреса за једну пријаву.
 about-logins-import-dialog-error-file-format-title = Грешка формата датотеке
 about-logins-import-dialog-error-file-format-description = Заглавља колона су неважећа или недостају. Проверите да ли датотека садржи колоне за корисничко име, лозинку и адресу.
 about-logins-import-dialog-error-file-permission-title = Није могуће прочитати датотеку
