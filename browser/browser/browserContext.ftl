@@ -53,7 +53,7 @@ main-context-menu-forward-2 =
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
     .label = Напред
-    .accesskey = F
+    .accesskey = а
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
@@ -67,7 +67,7 @@ main-context-menu-reload =
 # This menuitem is only visible on macOS
 main-context-menu-reload-mac =
     .label = Поново учитај
-    .accesskey = R
+    .accesskey = П
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
@@ -79,7 +79,7 @@ main-context-menu-stop =
 # This menuitem is only visible on macOS
 main-context-menu-stop-mac =
     .label = Заустави
-    .accesskey = S
+    .accesskey = З
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 

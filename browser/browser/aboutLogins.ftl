@@ -47,7 +47,7 @@ login-list-count =
     }
 login-list-sort-label-text = Поређај по:
 login-list-name-option = Назив (А-Ш)
-login-list-name-reverse-option = Назив (А-Ш)
+login-list-name-reverse-option = Називу (Z–A)
 about-logins-login-list-alerts-option = Упозорења
 login-list-last-changed-option = Последњој измени
 login-list-last-used-option = Последњем коришћењу
@@ -127,7 +127,7 @@ about-logins-edit-login-os-auth-dialog-message-win = Из безбедносни
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = уреди сачувану пријаву
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
-about-logins-reveal-password-os-auth-dialog-message-win = Да бисте видели лозинку, унестие ваше податке за пријаву у Windows. Ово помаже у заштити ваших налога.
+about-logins-reveal-password-os-auth-dialog-message-win = Из безбедносних разлога потребно је да унесете податке за пријаву на Windows да бисте видели лозинку.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = прикажи сачувану лозинку
