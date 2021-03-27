@@ -133,7 +133,7 @@ cfr-whatsnew-searchbar-icon-alt-text = Значок увеличительног
 ## Picture-in-Picture
 
 cfr-whatsnew-pip-header = Смотрите видео во время веб-сёрфинга
-cfr-whatsnew-pip-body = Функция Картинка-в-картинке помещает видео в плавающее окно, чтобы вы могли смотреть его, работая в других вкладках.
+cfr-whatsnew-pip-body = Функция «Картинка в картинке» помещает видео в плавающее окно, чтобы вы могли смотреть его, работая в других вкладках.
 cfr-whatsnew-pip-cta = Подробнее
 
 ## Permission Prompt
@@ -224,8 +224,6 @@ cfr-doorhanger-milestone-heading2 =
     }
 cfr-doorhanger-milestone-ok-button = Посмотреть всё
     .accesskey = о
-cfr-doorhanger-milestone-close-button = Закрыть
-    .accesskey = к
 
 ## What’s New Panel Content for Firefox 76
 
@@ -250,6 +248,8 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Значок «Картинка в кар
 
 ## Protections Dashboard message
 
+cfr-doorhanger-milestone-close-button = Закрыть
+    .accesskey = к
 
 ## What’s New Panel Content for Firefox 76
 ## Protections Dashboard message

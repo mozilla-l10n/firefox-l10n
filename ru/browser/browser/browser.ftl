@@ -359,12 +359,26 @@ browser-tab-audio-muted2 = БЕЗ ЗВУКА
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-blocked = АВТОВОСПРОИЗВЕДЕНИЕ ЗАБЛОКИРОВАНО
 # This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-pip = КАРТИНКА-В-КАРТИНКЕ
+browser-tab-audio-pip = КАРТИНКА В КАРТИНКЕ
 
 ## These labels should be written in all capital letters if your locale supports them.
 ## Variables:
 ##  $count (number): number of affected tabs
 
+browser-tab-mute =
+    { $count ->
+        [1] УБРАТЬ ЗВУК ВО ВКЛАДКЕ
+        [one] УБРАТЬ ЗВУК В { $count } ВКЛАДКЕ
+        [few] УБРАТЬ ЗВУК В { $count } ВКЛАДКАХ
+       *[many] УБРАТЬ ЗВУК В { $count } ВКЛАДКАХ
+    }
+browser-tab-unmute =
+    { $count ->
+        [1] ВОССТАНОВИТЬ ЗВУК ВО ВКЛАДКЕ
+        [one] ВОССТАНОВИТЬ ЗВУК В { $count } ВКЛАДКЕ
+        [few] ВОССТАНОВИТЬ ЗВУК В { $count } ВКЛАДКАХ
+       *[many] ВОССТАНОВИТЬ ЗВУК В { $count } ВКЛАДКАХ
+    }
 
 ## Bookmarks toolbar items
 

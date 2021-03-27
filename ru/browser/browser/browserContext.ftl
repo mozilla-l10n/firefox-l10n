@@ -102,6 +102,18 @@ main-context-menu-bookmark-add =
     .aria-label = Добавить страницу в закладки
     .accesskey = в
     .tooltiptext = Добавить страницу в закладки
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-add-mac =
+    .label = Добавить в закладки
+    .accesskey = в
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-edit-mac =
+    .label = Изменить закладку
+    .accesskey = м
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-add-with-shortcut =
@@ -249,7 +261,7 @@ main-context-menu-media-pip =
 # This is used when right-clicking on a video in the
 # content area when the Picture-in-Picture feature is enabled.
 main-context-menu-media-watch-pip =
-    .label = Смотреть в режиме «Картинка-в-картинке»
+    .label = Смотреть в режиме «Картинка в картинке»
     .accesskey = а
 main-context-menu-image-reload =
     .label = Перезагрузить изображение
