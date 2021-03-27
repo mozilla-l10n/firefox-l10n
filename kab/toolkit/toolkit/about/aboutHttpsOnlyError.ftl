@@ -9,10 +9,6 @@ about-httpsonly-insecure-explanation-unavailable = Tettinigeḍ deg uskar HTTPS 
 about-httpsonly-insecure-explanation-reasons = Ahat, asmel web ur isefrak ara HTTPS, maca yezmer lḥal amaker ad isewḥel lqem HTTPS.
 about-httpsonly-insecure-explanation-exception = Γas akken ugur n tɣellist yenqes aṭas, ma yella tenwiḍ ad terzuḍ ɣer lqem HTTP n usmel web, ur ilaq ara ad teskecmeḍ kra seg talɣut tabaḍnit am wawalen uffiren, imaylen neɣ ttfaṣil n tkarḍa n usellek.
 about-httpsonly-button-make-exception = Qbel ugur syen kemmel ɣef usmel
-about-httpsonly-title = { -brand-short-name } Yufa-d yezmer ad yili wugur n tɣellist
-# Variables:
-#   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
-about-httpsonly-explanation-unavailable = Tettinigeḍ deg uskar HTTPS kan, yerna lqem n HTTPS aɣelsan n <em>{ $websiteUrl }</em> ulac-it.
 about-httpsonly-title-alert = Alɣu n uskar HTTPS-Only
 about-httpsonly-title-connection-not-available = Ulac tuqqna taɣellsant
 # Variables:
@@ -21,8 +17,13 @@ about-httpsonly-explanation-unavailable2 = Tremdeḍ askarHTTPS-Only  i tɣellis
 about-httpsonly-explanation-question = D acu i d-yeglan s wugur-a?
 about-httpsonly-explanation-nosupport = Ahat, asmel web ur isefrak ara s sshala HTTPS.
 about-httpsonly-explanation-risk = Yezmer daɣen yella uẓeddam yettekkan. Ma yella tenwiḍ ad terzuḍ ɣer usmel web, ur ilaq ara ad teskecmeḍ kra seg talɣut tabaḍnit am wawalen uffiren, imaylen neɣ ttfaṣil n tkarḍa n usellek.
-about-httpsonly-button-accept-and-continue = Qbel ugur, tkemmleḍ
 about-httpsonly-explanation-continue = Ma tkemmleḍ, askar HTTPS-Only ad yettwasens i kra n wakud i usmel-a.
 about-httpsonly-button-continue-to-site = Kemmel ɣer usmel HTTP
 about-httpsonly-button-go-back = Uɣal ɣer deffir
 about-httpsonly-link-learn-more = Issin ugar…
+
+## Suggestion Box that only shows up if a secure connection to www can be established
+## Variables:
+##   $websiteUrl (String) - Url of the website that can be securely loded with these alternatives. Example: example.com
+
+about-httpsonly-suggestion-box-www-button = Rzu ɣer www.{ $websiteUrl }
