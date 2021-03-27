@@ -684,8 +684,8 @@ library-recent-activity-title =
 ## Pocket toolbar button
 
 save-to-pocket-button =
-    .label = Uloží do { -pocket-brand-name(case: "gen") }
-    .tooltiptext = Uloží do { -pocket-brand-name(case: "gen") }
+    .label = Uložit do { -pocket-brand-name(case: "gen") }
+    .tooltiptext = Uloží stránku do { -pocket-brand-name(case: "gen") }
 
 ## More items
 
