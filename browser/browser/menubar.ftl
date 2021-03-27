@@ -11,6 +11,8 @@
 
 ## Application Menu (macOS only)
 
+menu-application-preferences =
+    .label = Možnosti
 menu-application-services =
     .label = Služby
 menu-application-hide-this =
@@ -252,9 +254,9 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Prihlásiť sa do aplikácie { -brand-product-name }…
     .accesskey = i
-menu-tools-extensions =
-    .label = Rozšírenia a témy vzhľadu
-    .accesskey = t
+menu-tools-addons-and-themes =
+    .label = Doplnky a témy
+    .accesskey = D
 menu-tools-fxa-sign-in2 =
     .label = Prihlásiť sa
     .accesskey = P
