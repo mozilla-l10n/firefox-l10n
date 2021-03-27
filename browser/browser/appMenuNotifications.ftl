@@ -48,6 +48,7 @@ appmenu-addon-private-browsing-installed2 =
     .buttonaccesskey = O
 appmenu-addon-post-install-message = Gestisci i componenti aggiuntivi facendo clic su <image data-l10n-name='addon-install-icon'></image> nel menu <image data-l10n-name='addon-menu-icon'></image>.
 appmenu-addon-post-install-message2 = Gestisci estensioni e temi nel menu applicazione.
+appmenu-addon-post-install-message3 = Gestisci componenti aggiuntivi e temi nel menu applicazione.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Consenti il funzionamento di questa estensione in finestre anonime
     .accesskey = C
