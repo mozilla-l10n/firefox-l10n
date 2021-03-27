@@ -39,7 +39,6 @@ printui-scale-fit-to-page-width = По ширине страницы
 printui-scale-pcent = Масштаб
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Двусторонняя печать
-printui-duplex-checkbox = Печатать на обоих сторонах
 printui-two-sided-printing-off = Отключена
 # Flip the sheet as if it were bound along its long edge.
 printui-two-sided-printing-long-edge = Переплет по длинной стороне
@@ -58,14 +57,19 @@ printui-margins-default = По умолчанию
 printui-margins-min = Минимальные
 printui-margins-none = Нет
 printui-margins-custom-inches = Настраиваемые (дюймы)
+printui-margins-custom-mm = Настраиваемые (мм)
 printui-margins-custom-top = Верхнее
 printui-margins-custom-top-inches = Верхнее (дюймы)
+printui-margins-custom-top-mm = Верхнее (мм)
 printui-margins-custom-bottom = Нижнее
 printui-margins-custom-bottom-inches = Нижнее (дюймы)
+printui-margins-custom-bottom-mm = Нижнее (мм)
 printui-margins-custom-left = Левое
 printui-margins-custom-left-inches = Левое (дюймы)
+printui-margins-custom-left-mm = Левое (мм)
 printui-margins-custom-right = Правое
 printui-margins-custom-right-inches = Правое (дюймы)
+printui-margins-custom-right-mm = Правое (мм)
 printui-system-dialog-link = Печатать, используя системный диалог…
 printui-primary-button = Печать
 printui-primary-button-save = Сохранить
