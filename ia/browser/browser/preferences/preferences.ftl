@@ -622,6 +622,8 @@ containers-new-tab-check =
     .accesskey = S
 containers-preferences-button =
     .label = Preferentias
+containers-settings-button =
+    .label = Parametros
 containers-remove-button =
     .label = Remover
 
@@ -692,6 +694,7 @@ sync-currently-syncing-prefs =
         [windows] Optiones
        *[other] Preferentias
     }
+sync-currently-syncing-settings = Parametros
 sync-change-options =
     .label = Cambiar…
     .accesskey = C

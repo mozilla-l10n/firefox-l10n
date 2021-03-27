@@ -9,6 +9,12 @@ about-private-browsing-info-title = Tu es in un fenestra private
 about-private-browsing-info-myths = Mythos commun sur le navigation private
 about-private-browsing =
     .title = Cercar in le Web
+about-private-browsing-handoff-no-engine =
+    .title = Cercar o inserer un adresse
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff-text = Cercar con { $engine } o inserer un adresse
+about-private-browsing-handoff-text-no-engine = Cercar o inserer un adresse
 about-private-browsing-not-private = Tu non es actualmente in un fenestra private.
 about-private-browsing-info-description = { -brand-short-name } cancella tu chronologia de navigation e de recerca quando tu quita le application o claude tote le schedas e fenestras de navigation private. Isto non te rende anonyme pro sitos web ni pro tu providitor de servicio internet, ma rende plus facile guardar tu activitates in linea private ab altere personas que usa iste computator.
 about-private-browsing-need-more-privacy = Require plus confidentialitate?

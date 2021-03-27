@@ -21,12 +21,20 @@ appmenuitem-passwords =
     .label = Contrasignos
 appmenuitem-extensions-and-themes =
     .label = Extensiones e themas
+appmenuitem-addons-and-themes =
+    .label = Additivos e themas
 appmenuitem-find-in-page =
     .label = Trovar in pagina…
 appmenuitem-more-tools =
     .label = Altere utensiles
 appmenuitem-exit =
     .label = Exir
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Quitar
+           *[other] Exir
+        }
 appmenu-menu-button-closed =
     .tooltiptext = Aperir menu del application
     .label = { -brand-shorter-name }

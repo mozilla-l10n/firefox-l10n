@@ -11,6 +11,8 @@
 
 ## Application Menu (macOS only)
 
+menu-application-preferences =
+    .label = Preferentias
 menu-application-services =
     .label = Servicios
 menu-application-hide-this =
@@ -252,9 +254,6 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Aperir session in { -brand-product-name }…
     .accesskey = A
-menu-tools-extensions =
-    .label = Extensiones e themas
-    .accesskey = E
 menu-tools-fxa-sign-in2 =
     .label = Aperir session
     .accesskey = g
