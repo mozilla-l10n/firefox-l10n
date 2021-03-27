@@ -8,7 +8,7 @@ containers-window-new =
 # Variables
 #   $name (String) - Name of the container
 containers-window-update =
-    .title = Preferentias del continitor { $name }
+    .title = Preferentias del contexto { $name }
     .style = width: 45em
 # Variables
 #   $name (String) - Name of the container
@@ -31,7 +31,7 @@ containers-name-label = Nomine
     .accesskey = N
     .style = { -containers-labels-style }
 containers-name-text =
-    .placeholder = Insere un nomine pro le continitor
+    .placeholder = Scribe un nomine pro le contexto
 containers-icon-label = Icone
     .accesskey = I
     .style = { -containers-labels-style }

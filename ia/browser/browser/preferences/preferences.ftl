@@ -187,16 +187,16 @@ containers-disable-alert-ok-button =
        *[other] Clauder { $tabCount } schedas contextual
     }
 containers-disable-alert-cancel-button = Mantener active
-containers-remove-alert-title = Remover iste continitor?
+containers-remove-alert-title = Remover iste contexto?
 # Variables:
 #   $count (Number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
-        [one] Si tu remove iste continitor ora, { $count } scheda del continitor essera claudite. Es tu secur de voler remover iste continitor?
-       *[other] Si tu remove iste continitor ora, { $count } schedas continitor essera claudite. Es tu secur de voler remover iste continitor?
+        [one] Si tu remove iste contexto ora, { $count } scheda contextual essera claudite. Es tu secur de voler remover iste contexto?
+       *[other] Si tu remove iste contexto ora, { $count } schedas contextual essera claudite. Es tu secur de voler remover iste contexto?
     }
-containers-remove-ok-button = Remover iste continitor
-containers-remove-cancel-button = Non remover iste continitor
+containers-remove-ok-button = Remover iste contexto
+containers-remove-cancel-button = Non remover iste contexto
 
 ## General Section - Language & Appearance
 
@@ -616,10 +616,10 @@ containers-back-button =
         }
 containers-header = Schedas contextual
 containers-add-button =
-    .label = Adder un nove continitor
+    .label = Adder un nove contexto
     .accesskey = A
 containers-new-tab-check =
-    .label = Seliger un continitor pro cata nove scheda
+    .label = Seliger un contexto pro cata nove scheda
     .accesskey = S
 containers-preferences-button =
     .label = Preferentias
