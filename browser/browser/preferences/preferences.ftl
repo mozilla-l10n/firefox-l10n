@@ -458,7 +458,7 @@ browsing-search-on-start-typing =
     .label = Искать текст на странице по мере его набора
     .accesskey = а
 browsing-picture-in-picture-toggle-enabled =
-    .label = Включить управление видео «картинка в картинке»
+    .label = Включить управление видео «Картинка в картинке»
     .accesskey = ю
 browsing-picture-in-picture-learn-more = Подробнее
 browsing-media-control =
@@ -730,6 +730,7 @@ sync-currently-syncing-prefs =
         [windows] Настройки
        *[other] Настройки
     }
+sync-currently-syncing-settings = Настройки
 sync-change-options =
     .label = Изменить…
     .accesskey = м
@@ -777,6 +778,10 @@ sync-engine-prefs =
         }
     .tooltiptext = Изменённые вами настройки: Общие, Приватность и Защита
     .accesskey = й
+sync-engine-settings =
+    .label = Настройки
+    .tooltiptext = Изменённые вами общие настройки, настройки приватности и безопасности
+    .accesskey = а
 
 ## The device name controls.
 
@@ -1191,6 +1196,11 @@ space-alert-under-5gb-ok-button =
     .label = OK, понятно
     .accesskey = я
 space-alert-under-5gb-message = У { -brand-short-name } заканчивается место на диске. Содержимое веб-сайтов может отображаться неправильно. Щёлкните «Подробнее», чтобы оптимизировать использование вашего диска для улучшения веб-сёрфинга.
+space-alert-over-5gb-settings-button =
+    .label = Открыть Настройки
+    .accesskey = к
+space-alert-over-5gb-message2 = <strong>У { -brand-short-name } заканчивается место на диске.</strong> Содержимое веб-сайтов может отображаться некорректно. Вы можете удалить сохранённые данные через Настройки > Приватность и Защита > Куки и данные сайтов.
+space-alert-under-5gb-message2 = <strong>У { -brand-short-name } заканчивается место на диске.</strong> Содержимое веб-сайтов может отображаться некорректно. Щёлкните «Подробнее», чтобы оптимизировать использование вашего диска для улучшения веб-сёрфинга.
 
 ## Privacy Section - HTTPS-Only
 
