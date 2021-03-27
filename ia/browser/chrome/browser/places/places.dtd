@@ -45,7 +45,7 @@
 <!ENTITY col.tags.label          "Etiquettas">
 <!ENTITY col.url.label           "Adresse">
 <!ENTITY col.mostrecentvisit.label "Visita plus recente">
-<!ENTITY col.visitcount.label    "Quantitate de visitas">
+<!ENTITY col.visitcount.label    "Numero de visitas">
 <!ENTITY col.dateadded.label     "Addite">
 <!ENTITY col.lastmodified.label  "Ultime modification">
 
@@ -60,4 +60,3 @@
 <!ENTITY forwardButton.tooltip  "Avantiar">
 
 <!ENTITY detailsPane.selectAnItemText.description "Selige un elemento pro vider e modificar su proprietates">
-

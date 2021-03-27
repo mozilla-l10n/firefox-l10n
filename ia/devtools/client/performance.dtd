@@ -48,9 +48,9 @@
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 <!ENTITY performanceUI.table.totalDuration            "Tempore total">
-<!ENTITY performanceUI.table.totalDuration.tooltip    "Le quantitate de tempore expendite in iste function e in le functiones que illo appella.">
+<!ENTITY performanceUI.table.totalDuration.tooltip    "Le quantitate de tempore passate in iste function e in le functiones que illo appella.">
 <!ENTITY performanceUI.table.selfDuration             "Durata individual">
-<!ENTITY performanceUI.table.selfDuration.tooltip     "Le quantitate de tempore expendite solmente intra iste function.">
+<!ENTITY performanceUI.table.selfDuration.tooltip     "Le quantitate de tempore passate solmente in iste function.">
 <!ENTITY performanceUI.table.totalPercentage          "Costo total">
 <!ENTITY performanceUI.table.totalPercentage.tooltip  "Le percentage de tempore expendite in iste functiones e in le functiones que illo appella.">
 <!ENTITY performanceUI.table.selfPercentage           "Costo individual">
@@ -59,7 +59,7 @@
 <!ENTITY performanceUI.table.samples.tooltip          "Le numero de vices que iste function era in le pila quando le analysator de rendimento prendeva un specimen.">
 <!ENTITY performanceUI.table.function                 "Function">
 <!ENTITY performanceUI.table.function.tooltip         "Le nomine e le adresse del codice fonte del function prendite.">
-<!ENTITY performanceUI.table.totalAlloc               "Quantitate de allocationes prendite">
+<!ENTITY performanceUI.table.totalAlloc               "Total de allocationes prendite">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Le numero total de allocationes de objectos prendite a iste loco e in appellates.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
