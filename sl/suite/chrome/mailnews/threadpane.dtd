@@ -8,15 +8,24 @@
 <!ENTITY attachmentColumn.label "Priloge">
 <!ENTITY subjectColumn.label "Zadeva">
 <!ENTITY dateColumn.label "Datum">
+<!ENTITY priorityColumn.label "Prednost">
+<!ENTITY tagsColumn.label "Oznake">
 <!ENTITY accountColumn.label "Račun">
+<!ENTITY statusColumn.label "Stanje">
 <!ENTITY sizeColumn.label "Velikost">
+<!ENTITY unreadColumn.label "Neprebrano v niti">
+<!ENTITY totalColumn.label "Skupno v niti">
+<!ENTITY readColumn.label "Prebrano">
+<!ENTITY receivedColumn.label "Prejeto">
 
 <!--Tooltips-->
 <!ENTITY columnChooser2.tooltip "Izberite stolpce za prikaz">
 <!ENTITY recipientColumn2.tooltip "Razvrsti po prejemniku">
+<!ENTITY attachmentColumn2.tooltip "Razvrsti po priponkah">
 <!ENTITY subjectColumn2.tooltip "Razvrsti po zadevi">
 <!ENTITY dateColumn2.tooltip "Razvrsti po datumu">
 <!ENTITY priorityColumn2.tooltip "Razvrsti po prednosti">
 <!ENTITY tagsColumn2.tooltip "Razvrsti po oznakah">
 <!ENTITY accountColumn2.tooltip "Razvrsti po računu">
+<!ENTITY statusColumn2.tooltip "Razvrsti po stanju">
 <!ENTITY sizeColumn2.tooltip "Razvrsti po velikosti">
