@@ -19,6 +19,20 @@ newtab-search-box-search-button =
     .title = Ҷустуҷӯ
     .aria-label = Ҷустуҷӯ
 newtab-search-box-search-the-web-text = Ҷустуҷӯ дар Интернет
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-text = Нишониеро тавассути { $engine } ҷустуҷӯ кунед ё ворид намоед
+newtab-search-box-handoff-text-no-engine = Нишониеро ҷустуҷӯ кунед ё ворид намоед
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-input =
+    .placeholder = Нишониеро тавассути { $engine } ҷустуҷӯ кунед ё ворид намоед
+    .title = Нишониеро тавассути { $engine } ҷустуҷӯ кунед ё ворид намоед
+    .aria-label = Нишониеро тавассути { $engine } ҷустуҷӯ кунед ё ворид намоед
+newtab-search-box-handoff-input-no-engine =
+    .placeholder = Нишониеро ҷустуҷӯ кунед ё ворид намоед
+    .title = Нишониеро ҷустуҷӯ кунед ё ворид намоед
+    .aria-label = Нишониеро ҷустуҷӯ кунед ё ворид намоед
 newtab-search-box-search-the-web-input =
     .placeholder = Ҷустуҷӯ дар Интернет
     .title = Ҷустуҷӯ дар Интернет
@@ -44,6 +58,7 @@ newtab-topsites-url-input =
 newtab-topsites-url-validation = Нишонии URL-и эътибор лозим аст
 newtab-topsites-image-url-label = Нишонии URL-и тасвири шахсӣ
 newtab-topsites-use-image-link = Истифодаи тасвири шахсӣ…
+newtab-topsites-image-validation = Тасвир бор карда нашуд. Нишонии URL-и дигареро кӯшиш кунед.
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
@@ -55,6 +70,8 @@ newtab-topsites-add-button = Илова кардан
 
 ## Top Sites - Delete history confirmation dialog.
 
+# "This action" refers to deleting a page from history.
+newtab-confirm-delete-history-p2 = Ин амал бекор карда намешавад.
 
 ## Top Sites - Sponsored label
 
@@ -98,6 +115,7 @@ newtab-menu-show-privacy-info = Сарпарастони мо ва махфия�
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = Тайёр
+newtab-privacy-modal-header = Махфияти шумо муҳим аст.
 newtab-privacy-modal-link = Маълумот гиред, ки чӣ тавр махфият дар варақаи нав риоя карда мешавад
 
 ##
@@ -161,6 +179,9 @@ newtab-section-expand-section-label =
 newtab-section-header-topsites = Сомонаҳои беҳтарин
 newtab-section-header-highlights = Нуқтаҳои асосӣ
 newtab-section-header-recent-activity = Фаъолияти охирин
+# Variables:
+#  $provider (String): Name of the corresponding content provider.
+newtab-section-header-pocket = Аз тарафи { $provider } тавсия карда мешавад
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -172,8 +193,11 @@ newtab-discovery-empty-section-topstories-loading = Бор шуда истода
 
 ## Pocket Content Section.
 
+# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
+newtab-pocket-read-more = Мавзӯъҳои маъмул:
 newtab-pocket-more-recommendations = Тавсияҳои бештар
 newtab-pocket-learn-more = Маълумоти бештар
+newtab-pocket-cta-button = { -pocket-brand-name }-ро бор кунед
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

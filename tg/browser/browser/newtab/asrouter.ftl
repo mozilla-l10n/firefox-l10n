@@ -172,6 +172,7 @@ cfr-doorhanger-fission-secondary-button = Маълумоти бештар
 ## What's new: Media controls message
 
 cfr-whatsnew-media-keys-header = Унсурҳои идоракунии иловагӣ барои медиа
+cfr-whatsnew-media-keys-button = Бифаҳмед, ки чӣ тавр
 
 ## What's new: Search shortcuts
 

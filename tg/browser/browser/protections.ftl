@@ -9,6 +9,10 @@ protections-close-button2 =
 lockwise-title-logged-in2 = Идоракунии ниҳонвожаҳо
 protection-report-save-passwords-button = Нигоҳ доштани ниҳонвожаҳо
     .title = Нигоҳ доштани ниҳонвожаҳо дар { -lockwise-brand-short-name }
+protection-report-manage-passwords-button = Идоракунии ниҳонвожаҳо
+    .title = Идоракунии ниҳонвожаҳо дар { -lockwise-brand-short-name }
+turn-on-sync = Фаъол кардани { -sync-brand-short-name }…
+    .title = Ба хусусиятҳои ҳамоҳангсозӣ гузаред
 monitor-view-report-link = Дидани гузориш
     .title = Ислоҳ кардани вайроншавӣ дар { -monitor-brand-short-name }
 

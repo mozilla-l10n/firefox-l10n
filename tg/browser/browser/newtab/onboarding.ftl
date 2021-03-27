@@ -45,6 +45,7 @@ onboarding-fullpage-form-email =
 
 ## Firefox Sync modal dialog strings.
 
+onboarding-sync-welcome-header = { -brand-product-name }-ро бо худ гиред
 onboarding-sync-welcome-learn-more-link = Маълумоти бештар дар бораи ҳисобҳои Firefox
 onboarding-sync-form-input =
     .placeholder = Почтаи электронӣ
@@ -58,6 +59,9 @@ onboarding-sync-form-header = Почтаи электронии худро во�
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 
 ## These strings belong to the individual onboarding messages.
 
@@ -66,6 +70,7 @@ onboarding-sync-form-header = Почтаи электронии худро во�
 ## Each message also has an associated button for the user to try the feature.
 ## The string for the button is found above, in the UI strings section
 
+onboarding-tracking-protection-button2 = Чӣ тавр кор мекунад
 onboarding-data-sync-button2 = Ба { -sync-brand-short-name } ворид шавед
 onboarding-browse-privately-button = Кушодани равзанаи махфӣ
 onboarding-firefox-send-button = { -send-brand-name }-ро озмоед
