@@ -9,6 +9,16 @@ about-private-browsing-info-title = You’re in a Private Window
 about-private-browsing-info-myths = Common myths about private browsing
 about-private-browsing =
     .title = Search the Web
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff =
+    .title = Search with { $engine } or enter address
+about-private-browsing-handoff-no-engine =
+    .title = Search or enter address
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff-text = Search with { $engine } or enter address
+about-private-browsing-handoff-text-no-engine = Search or enter address
 about-private-browsing-not-private = You are currently not in a private window.
 about-private-browsing-info-description = { -brand-short-name } clears your search and browsing history when you quit the app or close all Private Browsing tabs and windows. While this doesn’t make you anonymous to web sites or your internet service provider, it makes it easier to keep what you do online private from anyone else who uses this computer.
 about-private-browsing-need-more-privacy = Need more privacy?
