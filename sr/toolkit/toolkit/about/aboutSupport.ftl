@@ -12,7 +12,7 @@ crashes-id = ID извештаја
 crashes-send-date = Послато
 crashes-all-reports = Сви извештаји о рушењу
 crashes-no-config = Ова апликација није подешена да приказује извештаје о рушењу.
-extensions-title = Екстензије
+extensions-title = Проширења
 extensions-name = Назив
 extensions-enabled = Укључен
 extensions-version = Издање
@@ -289,13 +289,13 @@ gpu-active = Активан
 webgl1-wsiinfo = WebGL 1 WSI информације драјвера
 webgl1-renderer = WebGL 1 Driver Renderer
 webgl1-version = WebGL 1 верзија драјвера
-webgl1-driver-extensions = WebGL 1 екстензија драјвера
-webgl1-extensions = WebGL 1 екстензије
+webgl1-driver-extensions = WebGL 1 – проширења драјвера
+webgl1-extensions = WebGL 1 – проширења
 webgl2-wsiinfo = WebGL 2 WSI информације драјвера
 webgl2-renderer = WebGL2 Renderer
 webgl2-version = WebGL 2 верзија драјвера
-webgl2-driver-extensions = WebGL 2 екстензија драјвера
-webgl2-extensions = WebGL 2 екстензије
+webgl2-driver-extensions = WebGL 2 – проширења драјвера
+webgl2-extensions = WebGL 2 – проширења
 blocklisted-bug = На црној листи због познатих проблема
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla

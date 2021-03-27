@@ -139,6 +139,8 @@ addon-category-discover = Препоруке
 addon-category-discover-title =
     .title = Препоруке
 addon-category-extension = Проширења
+addon-category-extension-title =
+    .title = Проширења
 addon-category-theme = Теме
 addon-category-theme-title =
     .title = Теме
@@ -211,8 +213,8 @@ addon-open-about-debugging = Испитај додатке
 ## Extension shortcut management
 
 # This is displayed in the page options menu
-addon-manage-extensions-shortcuts = Управљај пречицама екстензија
-    .accesskey = с
+addon-manage-extensions-shortcuts = Управљај пречицама проширења
+    .accesskey = У
 shortcuts-no-addons = Немате омогућених проширења.
 shortcuts-no-commands = Следећа проширења немају пречице:
 shortcuts-input =
@@ -383,14 +385,14 @@ recommended-theme-1 = Креативни сте? <a data-l10n-name="link">Нап
 
 ## Page headings
 
-extension-heading = Управљајте вашим екстензијама
+extension-heading = Управљајте проширењима
 theme-heading = Управљајте вашим темама
 plugin-heading = Управљајте вашим прикључцима
 dictionary-heading = Управљајте вашим речницима
 locale-heading = Управљајте вашим језицима
 updates-heading = Управљајте вашим ажурирањима
 discover-heading = Персонализујте ваш { -brand-short-name }
-shortcuts-heading = Управљај пречицама екстензија
+shortcuts-heading = Управљајте пречицама проширења
 default-heading-search-label = Пронађите још додатака
 addons-heading-search-input =
     .placeholder = Претражи сајт addons.mozilla.org
