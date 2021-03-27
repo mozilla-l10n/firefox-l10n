@@ -189,6 +189,7 @@ newtab-custom-row-selector =
     }
 newtab-custom-sponsored-sites = Миёнбурҳои сарпарастӣ
 newtab-custom-pocket-title = Аз тарафи { -pocket-brand-name } тавсия карда мешавад
+newtab-custom-pocket-sponsored = Мақолаҳои сарпарастӣ
 newtab-custom-recent-title = Фаъолияти охирин
 newtab-custom-close-button = Пӯшидан
 # For the "Snippets" feature traditionally on about:home.
