@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 containers-window-new =
-    .title = Adder un nove contexto
+    .title = Adder un nove continitor
     .style = width: 45em
 # Variables
 #   $name (String) - Name of the container
 containers-window-update =
-    .title = Preferentias del contexto { $name }
+    .title = Preferentias del continitor { $name }
     .style = width: 45em
 # Variables
 #   $name (String) - Name of the container
@@ -31,7 +31,7 @@ containers-name-label = Nomine
     .accesskey = N
     .style = { -containers-labels-style }
 containers-name-text =
-    .placeholder = Scribe un nomine pro le contexto
+    .placeholder = Insere un nomine pro le continitor
 containers-icon-label = Icone
     .accesskey = I
     .style = { -containers-labels-style }
