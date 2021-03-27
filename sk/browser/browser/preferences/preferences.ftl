@@ -610,6 +610,7 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Zobrazovať návrhy vyhľadávania v súkromnom prehliadaní
 suggestions-addressbar-settings-generic = Zmeniť nastavenia návrhov v paneli s adresou
+suggestions-addressbar-settings-generic2 = Zmeniť nastavenia návrhov v paneli s adresou
 search-suggestions-cant-show = Návrhy vyhľadávania nebudú zobrazené vo výsledkoch panela s adresou, pretože ste { -brand-short-name } nastavili tak, aby si nepamätal históriu.
 search-one-click-header = Vyhľadávacie moduly na jedno kliknutie
 search-one-click-header2 = Skratky vyhľadávania
@@ -665,6 +666,7 @@ containers-remove-button =
 
 sync-signedout-caption = Vezmite si svoj web so sebou
 sync-signedout-description = Synchronizujte si svoje záložky, históriu, karty, heslá, doplnky a nastavenia so všetkými svojimi zariadeniami.
+sync-signedout-description2 = Synchronizujte si svoje záložky, históriu, karty, heslá, doplnky a nastavenia so všetkými svojimi zariadeniami.
 sync-signedout-account-signin2 =
     .label = Prihlásiť sa do služby { -sync-brand-short-name }…
     .accesskey = i
@@ -776,6 +778,10 @@ sync-engine-prefs =
         }
     .tooltiptext = Možnosti v sekciách Všeobecné, Súkromie a bezpečnosť, ktoré boli zmenené
     .accesskey = s
+sync-engine-settings =
+    .label = Nastavenia
+    .tooltiptext = Zmenené nastavenia v sekciách Všeobecné, Súkromie a bezpečnosť
+    .accesskey = a
 
 ## The device name controls.
 
@@ -1190,6 +1196,11 @@ space-alert-under-5gb-ok-button =
     .label = OK, rozumiem
     .accesskey = K
 space-alert-under-5gb-message = Aplikácii { -brand-short-name } dochádza miesto na disku. Obsah webovej stránky sa nemusí zobrazovať správne. Kliknutím na “Ďalšie informácie” sa dozviete viac o optimalizovaní vyžitia disku pre lepší zážitok z prehliadania.
+space-alert-over-5gb-settings-button =
+    .label = Otvoriť nastavenia
+    .accesskey = O
+space-alert-over-5gb-message2 = <strong>Aplikácii { -brand-short-name } dochádza miesto na disku.</strong> Obsah webovej stránky sa nemusí zobrazovať správne. Uložené údaje stránok môžete odstrániť v ponuke Možnosti > Súkromie a bezpečnosť > Cookies a údaje stránok.
+space-alert-under-5gb-message2 = <strong>Aplikácii { -brand-short-name } dochádza miesto na disku.</strong> Obsah webovej stránky sa nemusí zobrazovať správne. Kliknutím na “Ďalšie informácie” sa dozviete viac o optimalizovaní vyžitia disku pre lepší zážitok z prehliadania.
 
 ## Privacy Section - HTTPS-Only
 
