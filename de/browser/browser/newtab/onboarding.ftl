@@ -173,6 +173,10 @@ onboarding-multistage-set-default-subtitle = Geschwindigkeit, Sicherheit und Dat
 onboarding-multistage-set-default-primary-button-label = Als Standard festlegen
 onboarding-multistage-set-default-secondary-button-label = Jetzt nicht
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-pin-default-header = Sorge zuerst dafür, dass <span data-l10n-name="zap">{ -brand-short-name }</span> nur einen Klick entfernt ist
+onboarding-multistage-pin-default-subtitle = Schnelles, sicheres und privates Surfen immer dann, wenn du das Internet nutzt.
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Importiere deine Passwörter, Lesezeichen und <span data-l10n-name="zap">mehr</span>
 onboarding-multistage-import-subtitle = Kommst du von einem anderen Browser? Es ist einfach, alles zu { -brand-short-name } zu bringen.
