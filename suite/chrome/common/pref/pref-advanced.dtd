@@ -10,5 +10,6 @@
 <!ENTITY systemPref.desc                  "S to možnostjo &brandShortName; podeduje nastavitve iz sistema. Sistemske nastavitve bodo preglasile nastavitve programa &brandShortName;.">
 
 
+<!ENTITY printing.label                   "Tiskanje">
 
 
