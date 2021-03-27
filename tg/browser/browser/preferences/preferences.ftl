@@ -285,6 +285,7 @@ sync-currently-syncing-bookmarks = Хатбаракҳо
 sync-currently-syncing-history = Таърих
 sync-currently-syncing-tabs = Варақаҳои кушодашуда
 sync-currently-syncing-logins-passwords = Воридшавиҳо ва ниҳонвожаҳо
+sync-currently-syncing-addons = Ҷузъҳои иловагӣ
 sync-currently-syncing-prefs =
     { PLATFORM() ->
         [windows] Имконот
