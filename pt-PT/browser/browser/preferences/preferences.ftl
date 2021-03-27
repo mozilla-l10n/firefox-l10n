@@ -28,6 +28,18 @@ search-input-box =
             [windows] Localizar nas opções
            *[other] Localizar nas preferências
         }
+settings-page-title = Definições
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box2 =
+    .style = width: 15.4em
+    .placeholder = Procurar nas definições
 managed-notice = O seu navegador está a ser gerido pela sua organização.
 category-list =
     .aria-label = Categorias
@@ -52,6 +64,7 @@ category-experimental =
 pane-experimental-subtitle = Avançar com cuidado
 pane-experimental-search-results-header = Experiências { -brand-short-name }: Prosseguir com cuidado
 pane-experimental-description = Alterar as preferências avançadas de configuração pode interferir com o desempenho ou segurança do { -brand-short-name }.
+pane-experimental-description2 = Alterar definições de configuração avançadas pode interferir com o desempenho ou segurança do { -brand-short-name }.
 pane-experimental-reset =
     .label = Repor predefinições
     .accesskey = R
