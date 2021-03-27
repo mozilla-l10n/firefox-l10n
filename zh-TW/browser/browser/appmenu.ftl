@@ -35,6 +35,12 @@ appmenuitem-more-tools =
     .label = 更多工具
 appmenuitem-exit =
     .label = 結束
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] 離開
+           *[other] 結束
+        }
 appmenu-menu-button-closed =
     .tooltiptext = 開啟應用程式選單
     .label = { -brand-shorter-name }

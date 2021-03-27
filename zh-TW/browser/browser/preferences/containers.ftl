@@ -10,6 +10,11 @@ containers-window-new =
 containers-window-update =
     .title = { $name } 容器偏好設定
     .style = width: 45em
+# Variables
+#   $name (String) - Name of the container
+containers-window-update-settings =
+    .title = { $name } 容器設定
+    .style = width: 45em
 containers-window-close =
     .key = w
 # This is a term to store style to be applied

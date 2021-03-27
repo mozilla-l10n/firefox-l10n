@@ -12,3 +12,4 @@ refresh-profile-remove = 移除您的附加元件與自訂調整
 refresh-profile-restore = 將您的瀏覽器選項還原成預設值
 refresh-profile = 保養一下 { -brand-short-name }
 refresh-profile-button = 重新整理 { -brand-short-name }…
+refresh-profile-learn-more = 了解更多
