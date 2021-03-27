@@ -11,6 +11,8 @@
 
 ## Application Menu (macOS only)
 
+menu-application-preferences =
+    .label = ਮੇਰੀਆਂ ਪਸੰਦਾਂ
 menu-application-services =
     .label = ਸਰਵਿਸਾਂ
 menu-application-hide-this =
@@ -110,6 +112,9 @@ menu-edit =
     .accesskey = E
 menu-edit-find-on =
     .label = …ਇਸ ਸਫ਼ੇ ਉੱਤੇ ਲੱਭੋ
+    .accesskey = F
+menu-edit-find-in-page =
+    .label = …ਸਫ਼ੇ ਵਿੱਚ ਲੱਭੋ
     .accesskey = F
 menu-edit-find-again =
     .label = ਮੁੜ ਖੋਜ
@@ -290,15 +295,6 @@ menu-window-bring-all-to-front =
 # NOTE: For Engineers, any additions or changes to Help menu strings should
 # also be reflected in the related strings in appmenu.ftl. Those strings, by
 # convention, will have the same ID as these, but prefixed with "app".
-# Example: appmenu-help-product
-#
-# These strings are duplicated to allow for different casing depending on
-# where the strings appear.
-
-
-# NOTE: For Engineers, any additions or changes to Help menu strings should
-# also be reflected in the related strings in appmenu.ftl. Those strings, by
-# convention, will have the same ID as these, but prefixed with "app".
 # Example: appmenu-get-help
 #
 # These strings are duplicated to allow for different casing depending on
@@ -325,11 +321,11 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = ਸਮੱਸਿਆ ਹੱਲ ਜਾਣਕਾਰੀ
     .accesskey = T
+menu-help-taskmanager =
+    .label = ਟਾਸਕ ਮੈਨੇਜਰ
 menu-help-more-troubleshooting-info =
     .label = ਹੋਰ ਸਮੱਸਿਆ ਹੱਲ ਜਾਣਕਾਰੀ
     .accesskey = T
-menu-help-taskmanager =
-    .label = ਟਾਸਕ ਮੈਨੇਜਰ
 menu-help-report-site-issue =
     .label = …ਸਾਈਟ ਮਸਲੇ ਬਾਰੇ ਜਾਣਕਾਰੀ ਦਿਓ
 menu-help-feedback-page =
@@ -341,9 +337,6 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = ਐਡ-ਆਨ ਸਮਰੱਥ ਕਰਕੇ ਮੁੜ-ਚਾਲੂ ਕਰੋ
     .accesskey = R
-menu-help-enter-troubleshoot-mode =
-    .label = ਸਮੱਸਿਆ ਨਿਪਟਾਰਾ ਢੰਗ
-    .accesskey = M
 menu-help-exit-troubleshoot-mode =
     .label = ਸਮੱਸਿਆ ਨਿਪਟਾਰਾ ਢੰਗ ਬੰਦ ਹੈ
     .accesskey = M
@@ -355,6 +348,3 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = ਇਹ ਭਰਮਪੂਰਨ ਸਾਈਟ ਨਹੀਂ ਹੈ…
     .accesskey = d
-menu-help-check-for-update =
-    .label = …ਅੱਪਡੇਟਾਂ ਲਈ ਜਾਂਚ ਕਰੋ
-    .accesskey = C

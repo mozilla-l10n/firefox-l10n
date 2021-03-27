@@ -367,6 +367,21 @@ browser-tab-audio-pip = ਤਸਵੀਰ-ਵਿੱਚ-ਤਸਵੀਰ
 ## Variables:
 ##  $count (number): number of affected tabs
 
+browser-tab-mute =
+    { $count ->
+        [1] ਟੈਬ ਤੋਂ ਆਵਾਜ਼ ਬੰਦ ਕਰੋ
+       *[other] { $count } ਟੈਬਾਂ ਤੋਂ ਆਵਾਜ਼ ਬੰਦ ਕਰੋ
+    }
+browser-tab-unmute =
+    { $count ->
+        [1] ਟੈਬ ਦੀ ਆਵਾਜ਼ ਸੁਣਾਓ
+       *[other] { $count } ਟੈਬਾਂ ਦੀ ਆਵਾਜ਼ ਸੁਣਾਓ
+    }
+browser-tab-unblock =
+    { $count ->
+        [1] ਟੈਬ ਚਲਾਓ
+       *[other] { $count } ਟੈਬਾਂ ਚਲਾਓ
+    }
 
 ## Bookmarks toolbar items
 
@@ -385,6 +400,16 @@ popup-select-camera =
 popup-select-microphone =
     .value = ਸਾਂਝਾ ਕਰਨ ਲਈ ਮਾਈਕਰੋਫੋਨ:
     .accesskey = M
+popup-select-camera-device =
+    .value = ਕੈਮਰਾ:
+    .accesskey = C
+popup-select-camera-icon =
+    .tooltiptext = ਕੈਮਰਾ
+popup-select-microphone-device =
+    .value = ਮਾਈਕਰੋਫ਼ੋਨ:
+    .accesskey = M
+popup-select-microphone-icon =
+    .tooltiptext = ਮਾਈਕਰੋਫ਼ੋਨ
 popup-all-windows-shared = ਆਪਣੀ ਸਕਰੀਨ ਤੋਂ ਸਭ ਵਿਖਾਈ ਦਿੰਦੀਆਂ ਵਿੰਡੋਜ਼ ਨੂੰ ਸਾਂਝਾ ਕੀਤਾ ਕੀਤਾ ਜਾਵੇਗਾ।
 popup-screen-sharing-not-now =
     .label = ਹੁਣੇ ਨਹੀਂ
@@ -394,6 +419,13 @@ popup-screen-sharing-never =
     .accesskey = N
 popup-silence-notifications-checkbox = ਸਾਂਝਾ ਕਰਨ ਦੇ ਦੌਰਾਨ { -brand-short-name } ਤੋਂ ਨੋਟੀਫਿਕੇਸ਼ਨ ਅਸਮਰੱਥ ਕਰੋ
 popup-silence-notifications-checkbox-warning = ਜਦੋਂ ਤੁਸੀਂ ਸਾਂਝਾ ਕਰੋ ਤਾਂ { -brand-short-name } ਨੋਟੀਫਿਕੇਸ਼ਨ ਨਹੀਂ ਦਿਖਾਏਗਾ।
+popup-screen-sharing-block =
+    .label = ਪਾਬੰਦੀ ਲਾਓ
+    .accesskey = B
+popup-screen-sharing-always-block =
+    .label = ਹਮੇਸ਼ਾਂ ਪਾਬੰਦੀ ਲਾਓ
+    .accesskey = w
+popup-mute-notifications-checkbox = ਜਦੋਂ ਸਾਂਝਾ ਕਰ ਰਹੇ ਹੋਵੋ ਤਾਂ ਵੈੱਬਸਾਈਟ ਨੋਟੀਫਿਕੋਸ਼ਨ ਬੰਦ ਕਰੋ
 
 ## WebRTC window or screen share tab switch warning
 
@@ -534,6 +566,8 @@ crashed-subframe-message = <strong>ਇਸ ਸਫ਼ੇ ਦਾ ਹਿੱਸਾ ਨ�
 crashed-subframe-learnmore =
     .label = ਹੋਰ ਸਿੱਖੋ
     .accesskey = L
+crashed-subframe-learnmore-link =
+    .value = ਹੋਰ ਜਾਣੋ
 crashed-subframe-submit =
     .label = ਰਿਪੋਰਟ ਭੇਜੋ
     .accesskey = S
@@ -626,12 +660,22 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = ਇਹ ਸਾਈਟ ਉੱਤੇ ਕੁਝ ਆਡੀਓ ਜਾਂ ਵੀਡੀਓ DRM ਸਾਫਟਵੇਅਰ ਵਰਤਦੇ ਹਨ, ਜੋ ਕਿ ਤੁਹਾਨੂੰ { -brand-short-name } ਨਾਲ ਕੰਮ ਕਰਨ ਨੂੰ ਸੀਮਤ ਕਰ ਸਕਦਾ ਹੈ।
+eme-notifications-drm-content-playing-manage = ਸੈਟਿੰਗਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
+eme-notifications-drm-content-playing-manage-accesskey = M
+eme-notifications-drm-content-playing-dismiss = ਖ਼ਾਰਜ ਕਰੋ
+eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Password save/update panel
 
+panel-save-update-username = ਵਰਤੋਂਕਾਰ-ਨਾਂ
+panel-save-update-password = ਪਾਸਵਰਡ
 
 ## Add-on removal warning
 
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = { $name } ਹਟਾਉਣਾ ਹੈ?
+addon-removal-abuse-report-checkbox = ਇਸ ਇਕਸਟੈਨਸ਼ਨ ਬਾਰੇ { -vendor-short-name } ਨੂੰ ਰਿਪੋਰਟ ਦਿਓ
 
 ## Remote / Synced tabs
 
