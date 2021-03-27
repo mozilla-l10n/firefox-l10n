@@ -173,6 +173,15 @@ onboarding-multistage-set-default-subtitle = Скорость, безопасн�
 onboarding-multistage-set-default-primary-button-label = Установить по умолчанию
 onboarding-multistage-set-default-secondary-button-label = Не сейчас
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-pin-default-header = Для начала поместите <span data-l10n-name="zap">{ -brand-short-name }</span> на расстояние одного щелчка
+onboarding-multistage-pin-default-subtitle = Быстрый, безопасный и приватный просмотр страниц при каждом выходе в Интернет.
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-waiting-subtitle = Выберите { -brand-short-name } в пункте «Веб-браузер», когда откроются настройки
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-help-text = Это действие закрепит { -brand-short-name } на панели задач и откроет настройки
+onboarding-multistage-pin-default-primary-button-label = Сделать { -brand-short-name } моим основным браузером
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Импортируйте свои пароли, закладки и <span data-l10n-name="zap">многое другое</span>
 onboarding-multistage-import-subtitle = Переходите с другого браузера? Вы легко можете перенести всё в { -brand-short-name }.

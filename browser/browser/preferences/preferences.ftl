@@ -28,6 +28,18 @@ search-input-box =
             [windows] Найти в Настройках
            *[other] Найти в Настройках
         }
+settings-page-title = Настройки
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box2 =
+    .style = width: 15.4em
+    .placeholder = Найти в Настройках
 managed-notice = Ваш браузер управляется Вашей организацией.
 category-list =
     .aria-label = Категории
@@ -52,6 +64,7 @@ category-experimental =
 pane-experimental-subtitle = Используйте с осторожностью
 pane-experimental-search-results-header = Эксперименты { -brand-short-name }: Используйте с осторожностью
 pane-experimental-description = Изменение расширенных настроек может затронуть производительность или безопасность { -brand-short-name }.
+pane-experimental-description2 = Изменение расширенных настроек может затронуть производительность или безопасность { -brand-short-name }.
 pane-experimental-reset =
     .label = Восстановить значения по умолчанию
     .accesskey = с
@@ -121,6 +134,8 @@ search-results-empty-message =
         [windows] Извините! В настройках не найдено результатов для «<span data-l10n-name="query"></span>».
        *[other] Извините! В настройках не найдено результатов для «<span data-l10n-name="query"></span>».
     }
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 = Извините! В настройках не найдено результатов для «<span data-l10n-name="query"></span>».
 search-results-help-link = Нужна помощь? Посетите <a data-l10n-name="url">Сайт поддержки { -brand-short-name }</a>
 
 ## General Section
@@ -372,6 +387,9 @@ update-application-check-choose =
 update-application-manual =
     .label = Никогда не проверять наличие обновлений (не рекомендуется)
     .accesskey = и
+update-application-background-enabled =
+    .label = Когда { -brand-short-name } не запущен
+    .accesskey = а
 update-application-warning-cross-user-setting = Этот параметр применится ко всем учётным записям Windows и профилям { -brand-short-name }, использующим эту установку { -brand-short-name }.
 update-application-use-service =
     .label = Использовать фоновую службу для установки обновлений
@@ -383,6 +401,15 @@ update-setting-write-failure-title = Ошибка при сохранении н
 # intentional so the path is easier to identify.
 update-setting-write-failure-message =
     { -brand-short-name } столкнулся с ошибкой и не смог сохранить это изменение. Обратите внимание, что для установки этой настройки обновления требуется разрешение на запись в файл, указанный ниже. Вы или системный администратор можете исправить эту проблему, если предоставите группе «Пользователи» полный доступ к этому файлу.
+    
+    Не удалось произвести запись в файл: { $path }
+update-setting-write-failure-title2 = Ошибка при сохранении настроек обновления
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message2 =
+    { -brand-short-name } столкнулся с ошибкой и не смог сохранить это изменение. Обратите внимание, что для изменения этой настройки обновления необходимо разрешение на запись в указанный ниже файл. Вы или системный администратор можете исправить эту проблему, если предоставите группе «Пользователи» полный доступ к этому файлу.
     
     Не удалось произвести запись в файл: { $path }
 update-in-progress-title = Идёт обновление
@@ -583,6 +610,7 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Отображать поисковые предложения в Приватных окнах
 suggestions-addressbar-settings-generic = Изменить другие настройки предложений в адресной строке
+suggestions-addressbar-settings-generic2 = Изменить другие настройки предложений в адресной строке
 search-suggestions-cant-show = При использовании панели адреса поисковые предложения отображаться не будут, так как вы настроили { -brand-short-name } никогда не запоминать историю.
 search-one-click-header = Поиск одним щелчком
 search-one-click-header2 = Значки поисковых систем
@@ -617,6 +645,8 @@ containers-back-button =
             [windows] Вернуться в настройки
            *[other] Вернуться в настройки
         }
+containers-back-button2 =
+    .aria-label = Вернуться в настройки
 containers-header = Вкладки в контейнере
 containers-add-button =
     .label = Добавить новый контейнер
@@ -626,6 +656,8 @@ containers-new-tab-check =
     .accesskey = ы
 containers-preferences-button =
     .label = Настройки
+containers-settings-button =
+    .label = Настройки
 containers-remove-button =
     .label = Удалить
 
@@ -634,6 +666,7 @@ containers-remove-button =
 
 sync-signedout-caption = Возьмите свой Интернет с собой
 sync-signedout-description = Синхронизируйте свои закладки, историю, вкладки, пароли, дополнения и настройки на всех ваших устройствах.
+sync-signedout-description2 = Синхронизируйте свои закладки, историю, вкладки, пароли, дополнения и настройки со всеми своими устройствами.
 sync-signedout-account-signin2 =
     .label = Войти в { -sync-brand-short-name(case: "accusative") }…
     .accesskey = о
@@ -676,6 +709,7 @@ prefs-sync-setup =
     .label = Настроить { -sync-brand-short-name(case: "accusative") }…
     .accesskey = а
 prefs-sync-offer-setup-label = Синхронизируйте свои закладки, историю, вкладки, пароли, дополнения и настройки на всех ваших устройствах.
+prefs-sync-offer-setup-label2 = Синхронизируйте свои закладки, историю, вкладки, пароли, дополнения и настройки со всеми своими устройствами.
 prefs-sync-now =
     .labelnotsyncing = Синхронизировать
     .accesskeynotsyncing = х

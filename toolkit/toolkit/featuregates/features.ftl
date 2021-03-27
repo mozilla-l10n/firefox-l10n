@@ -25,25 +25,6 @@ experimental-features-web-api-inputmode =
 experimental-features-web-api-inputmode-description = Наша реализация глобального атрибута <a data-l10n-name="mdn-inputmode">inputmode</a> была обновлена в соответствии со <a data-l10n-name="whatwg">спецификацией WHATWG</a>, однако нам нужно произвести дополнительные изменения, такие как обеспечить его доступность для "contenteditable" содержимого. Дополнительная информация доступна в <a data-l10n-name="bugzilla">баге 1205133</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
-experimental-features-web-api-link-preload =
-    .label = Web API: <link rel="preload">
-# Do not translate "rel", "preload" or "link" here, as they are all HTML spec
-# values that do not get translated.
-experimental-features-web-api-link-preload-description = Атрибут <a data-l10n-name="rel">rel</a> со значением <code>"preload"</code> в элементе <a data-l10n-name="link">&lt;link&gt;</a> предназначен для повышения производительности, позволяя вам загружать ресурсы на более ранних этапах жизненного цикла страницы, гарантируя, что они будут доступны раньше и с меньшей вероятностью будут блокировать рендеринг страниц. Для получения дополнительной информации прочитайте <a data-l10n-name="readmore">“Предзагрузка содержимого с помощью <code>rel="preload"</code>”</a> или прочитайте <a data-l10n-name="bugzilla">баг 1583604</a>.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-css-focus-visible =
-    .label = CSS: Pseudo-class: :focus-visible
-experimental-features-css-focus-visible-description = Позволяет применять стили фокусировки к таким элементам, как кнопки и элементы управления формами, только тогда, когда на них переведён фокус с помощью клавиатуры (например, при перемещении между элементами), а не когда на них переведён фокус с помощью мыши или другого указательного устройства. Для получения дополнительной информации прочитайте <a data-l10n-name="bugzilla">баг 1617600</a>.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-web-api-beforeinput =
-    .label = Web API: beforeinput Event
-# The terms "beforeinput", "input", "textarea", and "contenteditable" are technical terms
-# and shouldn't be translated.
-experimental-features-web-api-beforeinput-description = Глобальное событие <a data-l10n-name="mdn-beforeinput">beforeinput</a> запускается для элементов <a data-l10n-name="mdn-input">&lt;input&gt;</a> и <a data-l10n-name="mdn-textarea">&lt;textarea&gt;</a> или любого элемента, у которого включён атрибут <a data-l10n-name="mdn-contenteditable">contenteditable</a>, непосредственно перед изменением значения элемента. Это событие позволяет веб-приложениям переопределять поведение браузера по умолчанию для взаимодействия с пользователем, например, веб-приложения могут отменять пользовательский ввод данных только для определённых символов или могут изменять стиль вставляемого текста на утверждённые стили.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
 experimental-features-css-constructable-stylesheets-description = Добавление конструктора к интерфейсу <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a>, а также ряд связанных с этим изменений позволяют напрямую создавать новые таблицы стилей без необходимости добавления листа в HTML. Это значительно упрощает создание таблиц стилей многократного использования с <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. Для получения дополнительной информации прочитайте  <a data-l10n-name="bugzilla">баг 1520690</a>.
@@ -69,9 +50,6 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Кук
 experimental-features-abouthome-startup-cache =
     .label = Кэш запуска about:home
 experimental-features-abouthome-startup-cache-description = Кэш для изначального документа about:home, который загружается по умолчанию при запуске. Целью кеша является повышение скорости запуска.
-experimental-features-print-preview-tab-modal =
-    .label = Переработанный предварительный просмотр печати
-experimental-features-print-preview-tab-modal-description = Активирует переработанный предварительный просмотр печати, а также добавляет предварительный просмотр печати на macOS. Потенциально, это может привести к ошибкам, и не включает в себя все настройки, связанные с печатью. Чтобы открыть все настройки, связанные с печатью, выберите «Печатать, используя системный диалог…» из панели «Печать».
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
@@ -96,8 +74,8 @@ experimental-features-fission =
 experimental-features-fission-description = Fission (изоляция сайта) — это экспериментальная функция в { -brand-short-name }, обеспечивающая дополнительный уровень защиты от ошибок системы безопасности. Изолируя каждый сайт в отдельный процесс, Fission затрудняет доступ вредоносных веб-сайтов к информации с других посещаемых вами страниц. Это серьезное архитектурное изменение в { -brand-short-name }, и мы будем благодарны вас за тестирование и сообщения о любых проблемах, с которыми вы можете столкнуться. Для получения дополнительных сведений прочтите <a data-l10n-name="wiki">вики</a>.
 # Support for having multiple Picture-in-Picture windows open simultaneously
 experimental-features-multi-pip =
-    .label = Поддержка нескольких окон «Картинка-в-картинке»
-experimental-features-multi-pip-description = Экспериментальная поддержка, позволяющая одновременно открывать несколько окон «Картинка-в-картинке».
+    .label = Поддержка нескольких окон «Картинка в картинке»
+experimental-features-multi-pip-description = Экспериментальная поддержка, позволяющая одновременно открывать несколько окон «Картинка в картинке».
 experimental-features-http3 =
     .label = Протокол HTTP/3
 experimental-features-http3-description = Экспериментальная поддержка протокола HTTP/3.
