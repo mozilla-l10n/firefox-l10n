@@ -176,9 +176,19 @@ newtab-pocket-learn-more = Маълумоти бештар
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
+newtab-error-fallback-refresh-link = Барои аз нав кӯшиш кардан саҳифаро навсозӣ намоед.
 
 ## Customization Menu
 
+newtab-custom-shortcuts-title = Миёнбурҳо
+newtab-custom-shortcuts-subtitle = Сомонаҳое, ки шумо нигоҳ медоред ё ба онҳо ворид мешавед
+newtab-custom-row-selector =
+    { $num ->
+        [one] { $num } сатр
+       *[other] { $num } сатр
+    }
+newtab-custom-sponsored-sites = Миёнбурҳои сарпарастӣ
+newtab-custom-pocket-title = Аз тарафи { -pocket-brand-name } тавсия карда мешавад
 newtab-custom-recent-title = Фаъолияти охирин
 newtab-custom-close-button = Пӯшидан
 # For the "Snippets" feature traditionally on about:home.
