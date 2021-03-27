@@ -107,6 +107,7 @@ policy-SearchEngines = Nakonfiguruje nastavenie vyhľadávacích modulov. Toto p
 policy-SearchSuggestEnabled = Povolí alebo zakáže návrhy vyhľadávania.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Nainštaluje moduly PKCS #11.
+policy-ShowHomeButton = Zobrazí tlačidlo Domov na paneli nástrojov.
 policy-SSLVersionMax = Nastaví maximálnu verziu SSL.
 policy-SSLVersionMin = Nastaví minimálnu verziu SSL.
 policy-SupportMenu = Pridá vlastnú položku do ponuky pomocníka.
