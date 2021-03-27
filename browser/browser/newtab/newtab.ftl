@@ -19,6 +19,20 @@ newtab-search-box-search-button =
     .title = Hľadať
     .aria-label = Hľadať
 newtab-search-box-search-the-web-text = Vyhľadávanie na webe
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-text = Vyhľadávajte cez { $engine } alebo zadajte webovú adresu
+newtab-search-box-handoff-text-no-engine = Zadajte adresu alebo výraz vyhľadávania
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-input =
+    .placeholder = Vyhľadávajte cez { $engine } alebo zadajte webovú adresu
+    .title = Vyhľadávajte cez { $engine } alebo zadajte webovú adresu
+    .aria-label = Vyhľadávajte cez { $engine } alebo zadajte webovú adresu
+newtab-search-box-handoff-input-no-engine =
+    .placeholder = Zadajte adresu alebo výraz vyhľadávania
+    .title = Zadajte adresu alebo výraz vyhľadávania
+    .aria-label = Zadajte adresu alebo výraz vyhľadávania
 newtab-search-box-search-the-web-input =
     .placeholder = Vyhľadávanie na webe
     .title = Vyhľadávanie na webe
