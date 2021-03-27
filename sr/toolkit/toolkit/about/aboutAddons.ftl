@@ -39,9 +39,9 @@ sidebar-preferences-button-title =
            *[other] програма { -brand-short-name }
         }
 show-unsigned-extensions-button =
-    .label = Неке екстензије нису могле бити потврђене
+    .label = Нека проширења се не могу верификовати
 show-all-extensions-button =
-    .label = Прикажи све екстензије
+    .label = Прикажи сва проширења
 cmd-show-details =
     .label = Прикажи више информација
     .accesskey = в
@@ -124,9 +124,9 @@ disabled-unsigned-description = Следећи додаци нису могли 
 disabled-unsigned-learn-more = Сазнајте више како да помогнете да Вас одржимо сигурним на мрежи.
 disabled-unsigned-devinfo = Програмери који желе да потврде њихове додатке могу да прочитају наша <label data-l10n-name="learn-more">упутства</label>.
 plugin-deprecation-description = Нешто недостаје? { -brand-short-name } више не подржава неке прикључке. <label data-l10n-name="learn-more">Сазнајте више.</label>
-legacy-warning-show-legacy = Прикажи застареле екстензије
+legacy-warning-show-legacy = Прикажи застарела проширења
 legacy-extensions =
-    .value = Застареле екстензије
+    .value = Застарела проширења
 legacy-extensions-description = Ове екстензије не подржавају тренутни { -brand-short-name } стандард тако да су онемогућене. <label data-l10n-name="legacy-learn-more">Сазнајте више о променама додатака</label>
 private-browsing-description2 =
     { -brand-short-name } мења начин рада екстензија у режиму приватног прегледања. Нове екстензије које 
@@ -138,9 +138,7 @@ private-browsing-description2 =
 addon-category-discover = Препоруке
 addon-category-discover-title =
     .title = Препоруке
-addon-category-extension = Екстензије
-addon-category-extension-title =
-    .title = Екстензије
+addon-category-extension = Проширења
 addon-category-theme = Теме
 addon-category-theme-title =
     .title = Теме
