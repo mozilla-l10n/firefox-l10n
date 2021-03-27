@@ -24,7 +24,7 @@ appmenuitem-update-banner2 =
     .label-update-available = Доступно је ажурирање – преузмите га
     .label-update-manual = Доступно је ажурирање – преузмите га
     .label-update-unsupported = Ажурирање није успело
-    .label-update-restart = Доступно је ажурирање – рестартујте сада
+    .label-update-restart = Доступно је ажурирање – рестартујте прегледач
 appmenuitem-protection-dashboard-title = Контролна табла заштите
 appmenuitem-customize-mode =
     .label = Прилагоди…
@@ -75,6 +75,7 @@ fxa-toolbar-sync-now =
     .label = Синхронизуј сада
 appmenu-fxa-header =
     .title = { -fxaccount-brand-name }
+appmenu-fxa-signed-in-label = Пријави ме
 appmenuitem-save-page =
     .label = Сачувај страницу као…
 
