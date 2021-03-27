@@ -46,6 +46,7 @@ appmenu-addon-post-install-message = <image data-l10n-name='addon-install-icon'>
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = ਠੀਕ ਹੈ
     .buttonaccesskey = O
+appmenu-addon-post-install-message2 = ਆਪਣੀਆਂ ਇਕਸਟੈਨਸ਼ਨਾਂ ਅਤੇ ਥੀਮਾਂ ਦਾ ਐਪਲੀਕੇਸ਼ਨ ਮੀਨੂ ਰਾਹੀਂ ਇੰਤਜ਼ਾਮ ਕਰੋ।
 appmenu-addon-post-install-incognito-checkbox =
     .label = ਇਸ ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਜ਼ ਵਿੱਚ ਚੱਲਣ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ
     .accesskey = A
