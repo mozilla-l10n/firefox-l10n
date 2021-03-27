@@ -9,6 +9,16 @@ about-private-browsing-info-title = ਤੁਸੀਂ ਨਿੱਜੀ ਵਿੰਡ
 about-private-browsing-info-myths = ਪ੍ਰਾਈਵਏਟ ਬਰਾਊਜ਼ਿੰਗ ਬਾਰੇ ਆਮ ਮਿੱਥਾਂ
 about-private-browsing =
     .title = ਵੈੱਬ ‘ਤੇ ਲੱਭੋ
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff =
+    .title = { $engine } ਨਾਲ ਖੋਜ ਜਾਂ ਸਿਰਨਾਵਾਂ ਦਿਓ
+about-private-browsing-handoff-no-engine =
+    .title = ਖੋਜੋ ਜਾਂ ਸਿਰਨਾਵਾਂ ਦਿਓ
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff-text = { $engine } ਨਾਲ ਖੋਜ ਜਾਂ ਸਿਰਨਾਵਾਂ ਦਿਓ
+about-private-browsing-handoff-text-no-engine = ਖੋਜੋ ਜਾਂ ਸਿਰਨਾਵਾਂ ਦਿਓ
 about-private-browsing-not-private = ਇਸ ਸਮੇਂ ਤੁਸੀਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਨੂੰ ਨਹੀਂ ਵਰਤ ਰਹੇ ਹੋ।
 about-private-browsing-info-description = ਜਦੋਂ ਤੁਸੀਂ ਐਪ ਤੋਂ ਬਾਹਰ ਜਾਂਦੇ ਹੋ ਜਾਂ ਸਾਰੀਆਂ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ ਕੀਤੀਆਂ ਟੈਬਾਂ ਅਤੇ ਵਿੰਡੋਆਂ ਨੂੰ ਬੰਦ ਕਰਦੇ ਹੋ ਤਾਂ { -brand-short-name } ਤੁਹਾਡੀ ਖੋਜ ਅਤੇ ਬਰਾਊਜ਼ਿੰਗ ਅਤੀਤ ਨੂੰ ਸਾਫ ਕਰਦਾ ਹੈ। ਹਾਲਾਂਕਿ ਇਹ ਤੁਹਾਨੂੰ ਵੈਬਸਾਈਟਾਂ ਜਾਂ ਤੁਹਾਡੇ ਇੰਟਰਨੈੱਟ ਦੇਣ ਵਾਲੇ ਲਈ ਅਣਪਛਾਤਾ ਨਹੀਂ ਬਣਾਉਂਦਾ, ਪਰ ਇਸ ਨਾਲ¶ ਇਸ ਡਿਵਾਈਸ ਨੂੰ ਵਰਤੇ ਵਾਲੇ ਕਿਸੇ ਤੋਂ ਵੀ ਤੁਹਾਡੇ ਵਲੋਂ ਆਨਲਾਈਨ ਕੀਤੇ ਨੂੰ ਪ੍ਰਾਈਵੇਟ ਰੱਖਣਾ ਹੋਰ ਸੌਖਾ ਹੋ ਜਾਂਦਾ ਹੈ।
 about-private-browsing-need-more-privacy = ਹੋਰ ਪਰਦੇਦਾਰੀ ਦੀ ਲੋੜ ਹੈ?
