@@ -28,6 +28,18 @@ search-input-box =
             [windows] Hľadať
            *[other] Hľadať
         }
+settings-page-title = Nastavenia
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box2 =
+    .style = width: 15.4em
+    .placeholder = Hľadať v nastaveniach
 managed-notice = Váš prehliadač spravuje vaša organizácia.
 category-list =
     .aria-label = Kategórie
@@ -52,6 +64,7 @@ category-experimental =
 pane-experimental-subtitle = Buďte obozretní
 pane-experimental-search-results-header = Experimenty { -brand-short-name(case: "gen") }: Pokračujte s opatrnosťou
 pane-experimental-description = Zmeny v pokročilej konfigurácii môžu ovplyvniť výkon a bezpečnosť prehliadača { -brand-short-name }.
+pane-experimental-description2 = Zmeny v pokročilej konfigurácii môžu ovplyvniť výkon a bezpečnosť prehliadača { -brand-short-name }.
 pane-experimental-reset =
     .label = Obnoviť predvolené nastavenia
     .accesskey = O
@@ -121,6 +134,8 @@ search-results-empty-message =
         [windows] Mrzí nás to, no pre hľadaný výraz “<span data-l10n-name="query"></span>” sme v možnostiach nič nenašli.
        *[other] Mrzí nás to, no pre hľadaný výraz “<span data-l10n-name="query"></span>” sme v možnostiach nič nenašli.
     }
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 = Mrzí nás to, ale pre hľadaný výraz “<span data-l10n-name="query"></span>” sme v možnostiach nič nenašli.
 search-results-help-link = Potrebujete pomoc? Navštívte <a data-l10n-name="url">stránku podpory pre prehliadač { -brand-short-name }</a>
 
 ## General Section
@@ -372,6 +387,9 @@ update-application-check-choose =
 update-application-manual =
     .label = Nevyhľadávať aktualizácie (neodporúča sa)
     .accesskey = N
+update-application-background-enabled =
+    .label = Ak { -brand-short-name } nie je spustený
+    .accesskey = A
 update-application-warning-cross-user-setting = Toto nastavenie sa vzťahuje na všetky účty v systéme Windows a profily aplikácie { -brand-short-name } používajúce túto inštaláciu aplikácie { -brand-short-name }.
 update-application-use-service =
     .label = Na inštaláciu aktualizácií používať službu na pozadí
@@ -383,6 +401,15 @@ update-setting-write-failure-title = Chyba pri ukladaní nastavení aktualizáci
 # intentional so the path is easier to identify.
 update-setting-write-failure-message =
     Aplikácia { -brand-short-name } sa stretla s chybou a túto zmenu neuložila. Berte na vedomie, že upravenie tejto možnosti vyžaduje povolenie na zápis do tohto súboru. Vy alebo váš správca systému môžete túto chybu vyriešiť udelením správnych povolení.
+    
+    Nebolo možné zapísať do súboru: { $path }
+update-setting-write-failure-title2 = Chyba pri ukladaní nastavení pre aktualizácie
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message2 =
+    Aplikácia { -brand-short-name } zaznamenala chybu a túto zmenu neuložila. Berte na vedomie, že upravenie toho nastavenia vyžaduje povolenie na zápis do nižšie uvedeného súboru. Vy alebo váš správca systému môžete túto chybu vyriešiť udelením správnych povolení pre skupinu Používatelia,
     
     Nebolo možné zapísať do súboru: { $path }
 update-in-progress-title = Prebieha aktualizácia
@@ -617,6 +644,8 @@ containers-back-button =
             [windows] Späť na Možnosti
            *[other] Späť na Možnosti
         }
+containers-back-button2 =
+    .aria-label = Späť na nastavenia
 containers-header = Kontajnerové karty
 containers-add-button =
     .label = Pridať nový kontajner
@@ -625,6 +654,8 @@ containers-new-tab-check =
     .label = Zobraziť výber kontajnera pri otvorení novej karty
     .accesskey = z
 containers-preferences-button =
+    .label = Nastavenia
+containers-settings-button =
     .label = Nastavenia
 containers-remove-button =
     .label = Odstrániť
@@ -676,6 +707,7 @@ prefs-sync-setup =
     .label = Nastaviť { -sync-brand-short-name }…
     .accesskey = N
 prefs-sync-offer-setup-label = Synchronizujte si svoje záložky, históriu, karty, heslá, doplnky a nastavenia so všetkými svojimi zariadeniami.
+prefs-sync-offer-setup-label2 = Synchronizujte si svoje záložky, históriu, karty, heslá, doplnky a nastavenia so všetkými svojimi zariadeniami.
 prefs-sync-now =
     .labelnotsyncing = Synchronizovať
     .accesskeynotsyncing = n
@@ -696,6 +728,7 @@ sync-currently-syncing-prefs =
         [windows] Možnosti
        *[other] Možnosti
     }
+sync-currently-syncing-settings = Nastavenia
 sync-change-options =
     .label = Zmeniť…
     .accesskey = Z
