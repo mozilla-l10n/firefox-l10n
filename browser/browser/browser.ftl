@@ -363,6 +363,20 @@ browser-tab-audio-pip = СЛИКА У СЛИЦИ
 ## Variables:
 ##  $count (number): number of affected tabs
 
+browser-tab-mute =
+    { $count ->
+        [1] ИСКЉУЧИ ЗВУК КАРТИЦЕ
+        [one] ИСКЉУЧИ ЗВУК { $count } КАРТИЦЕ
+        [few] ИСКЉУЧИ ЗВУК { $count } КАРТИЦЕ
+       *[other] ИСКЉУЧИ ЗВУК { $count } КАРТИЦА
+    }
+browser-tab-unmute =
+    { $count ->
+        [1] УКЉУЧИ ЗВУК КАРТИЦЕ
+        [one] УКЉУЧИ ЗВУК { $count } КАРТИЦЕ
+        [few] УКЉУЧИ ЗВУК { $count } КАРТИЦЕ
+       *[other] УКЉУЧИ ЗВУК { $count } КАРТИЦА
+    }
 
 ## Bookmarks toolbar items
 
