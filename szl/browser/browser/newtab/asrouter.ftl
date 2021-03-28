@@ -204,17 +204,24 @@ cfr-doorhanger-cryptominers-description = Mōmy w zocy twoja prywatność. Teroz
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (Number) - The date we began recording the count of blocked trackers
+#   $date (String) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
         [one] { -brand-short-name } zaszperowoł wiyncyj jak <b>{ $blockedCount }</b>śledzōncy elymynt ôd { $date }!
         [few] { -brand-short-name } zaszperowoł wiyncyj jak <b>{ $blockedCount }</b>śledzōnce elymynty ôd { $date }!
        *[many] { -brand-short-name } zaszperowoł wiyncyj jak <b>{ $blockedCount }</b>śledzōncych elymyntōw ôd { $date }!
     }
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Datetime) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading2 =
+    { $blockedCount ->
+        [one] { -brand-short-name } zaszperowoł wiyncyj jak <b>{ $blockedCount }</b> śledzōncy elymynt ôd { DATETIME($date, month: "long", year: "numeric") }!
+        [few] { -brand-short-name } zaszperowoł wiyncyj jak <b>{ $blockedCount }</b> śledzōnce elymynty ôd { DATETIME($date, month: "long", year: "numeric") }!
+       *[many] { -brand-short-name } zaszperowoł wiyncyj jak <b>{ $blockedCount }</b> śledzōncych elymyntōw ôd { DATETIME($date, month: "long", year: "numeric") }!
+    }
 cfr-doorhanger-milestone-ok-button = Pokoż wszyskie
     .accesskey = P
-cfr-doorhanger-milestone-close-button = Zawrzij
-    .accesskey = Z
 
 ## What’s New Panel Content for Firefox 76
 
@@ -239,6 +246,12 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Ikōna ôbrazu w ôbrazie
 
 ## Protections Dashboard message
 
+cfr-doorhanger-milestone-close-button = Zawrzij
+    .accesskey = Z
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
+
 cfr-whatsnew-protections-header = Wejzdrzynie na ôchrōna
 cfr-whatsnew-protections-body = Na panelu ôchrōny sōm pozbiyrane raporty ô wyciekach danych i regiyrowaniu hasłami. Idzie teroz zaglōndać, wiela wyciekōw danych je rozwiōnzanych, abo jeźli je ryzyko, iże jakie spamiyntane hasła mogły wyciyknōnć.
 cfr-whatsnew-protections-cta-link = Pokoż panel ôchrōny
@@ -254,6 +267,8 @@ cfr-whatsnew-better-pdf-body = Dokumynta PDF ôtwiyrajōm sie teroz dyrekt w apl
 cfr-doorhanger-doh-body = Twoja prywatność je we wercie. Teroz, jak ino idzie, { -brand-short-name } bezpiecznie keruje twoje prośby DNS do partnerskij usugi, coby chrōnić cie, jak przeglōndosz internet.
 cfr-doorhanger-doh-header = Bezpieczniyjsze, zaszyfrowane szukania DNS
 cfr-doorhanger-doh-primary-button = OK
+    .accesskey = O
+cfr-doorhanger-doh-primary-button-2 = OK
     .accesskey = O
 cfr-doorhanger-doh-secondary-button = Zastow
     .accesskey = Z
@@ -296,3 +311,5 @@ cfr-whatsnew-bookmarking-body = Filowanie na swoje ulubiōne zokłodki je snadni
 
 ## What's new: Cross-site cookie tracking
 
+cfr-whatsnew-cross-site-tracking-header = Pozorna ôchrōna ôd cookies, co śledzōm miyndzy strōnami
+cfr-whatsnew-cross-site-tracking-body = Teroz idzie se załōnczyć lepszo ôchrōna ôd cookies, co śledzōm miyndzy strōnami. { -brand-short-name } poradzi izolować twoja aktywność i dane na strōnie, na keryj żeś prawie je, tak co informacyje schrōniōne w przeglōndarce niy bydōm udostympniane miyndzy strōnami.

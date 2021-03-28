@@ -19,6 +19,20 @@ newtab-search-box-search-button =
     .title = Szukej
     .aria-label = Szukej
 newtab-search-box-search-the-web-text = Szukej w internecie
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-text = Szukej ze { $engine } abo wkludź adresa
+newtab-search-box-handoff-text-no-engine = Szukej abo wkludź adresa
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-input =
+    .placeholder = Szukej ze { $engine } abo wkludź adresa
+    .title = Szukej ze { $engine } abo wkludź adresa
+    .aria-label = Szukej ze { $engine } abo wkludź adresa
+newtab-search-box-handoff-input-no-engine =
+    .placeholder = Szukej abo wkludź adresa
+    .title = Szukej abo wkludź adresa
+    .aria-label = Szukej abo wkludź adresa
 newtab-search-box-search-the-web-input =
     .placeholder = Szukej w internecie
     .title = Szukej w internecie
