@@ -4,11 +4,14 @@
 
 refresh-profile-dialog =
     .title = Refrescar { -brand-short-name }
+refresh-profile-dialog-title = ¿Refrescar { -brand-short-name } a sus preferencias predeterminadas?
 refresh-profile-dialog-button =
     .label = Refrescar { -brand-short-name }
 refresh-profile-description = Refresque para solucionar problemas y restaurar rendimiento.
 refresh-profile-description-details = Esta opción:
 refresh-profile-remove = Eliminará sus complementos y personalizaciones
 refresh-profile-restore = Restaurará las opciones del navegador a sus valores predeterminados
+refresh-profile-dialog-description = Empiece de cero para solucionar problemas de rendimiento. Esto eliminará sus complementos y personalizaciones. No perderá información esencial como marcadores y contraseñas.
 refresh-profile = Darle a { -brand-short-name } una puesta a punto
 refresh-profile-button = Refrescar { -brand-short-name }…
+refresh-profile-learn-more = Conocer más
