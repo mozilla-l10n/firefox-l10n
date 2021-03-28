@@ -438,11 +438,11 @@ enable-devtools-popup-description = Par doprâ lis scurtis F12, vierç prime i s
 ## URL Bar
 
 urlbar-default-placeholder =
-    .defaultPlaceholder = Cîr o inserìs direzion
+    .defaultPlaceholder = Cîr o inserìs une direzion
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
-    .placeholder = Cîr o inserìs direzion
+    .placeholder = Cîr o inserìs une direzion
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
