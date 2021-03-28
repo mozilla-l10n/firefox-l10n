@@ -46,6 +46,7 @@ appmenu-addon-post-install-message = Administrer tillegga dine ved å klikke på
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = OK
     .buttonaccesskey = O
+appmenu-addon-post-install-message2 = Handter utvidingar og tema via applikasjonsmenyen.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Tillat denne utvidinga å kløyre i private vindauge
     .accesskey = T
