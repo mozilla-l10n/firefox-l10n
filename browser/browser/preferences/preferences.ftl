@@ -29,6 +29,17 @@ search-input-box =
            *[other] Tercihlerde ara
         }
 settings-page-title = Ayarlar
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box2 =
+    .style = width: 15.4em
+    .placeholder = Ayarlarda ara
 managed-notice = Tarayıcınız kuruluşunuz tarafından yönetiliyor.
 category-list =
     .aria-label = Kategoriler
@@ -1174,6 +1185,10 @@ space-alert-under-5gb-ok-button =
     .label = Anladım
     .accesskey = A
 space-alert-under-5gb-message = { -brand-short-name } tarafından kulllanılabilen disk alanı azaldı. Site içerikleri düzgün görüntülenemeyebilir. Daha iyi bir gezinti deneyimi içi disk kullanımınızı iyileştirmek isterseniz “Daha fazla bilgi al” sayfasını ziyaret edin.
+space-alert-over-5gb-settings-button =
+    .label = Ayarları aç
+    .accesskey = A
+space-alert-over-5gb-message2 = <strong>{ -brand-short-name } tarafından kulllanılabilen disk alanı azaldı.</strong> Site içerikleri düzgün görüntülenemeyebilir. Depolanan verileri Ayarlar > Gizlilik ve Güvenlik > Çerezler ve site verileri kısmından temizleyebilirsiniz.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } tarafından kulllanılabilen disk alanı azaldı.</strong> Site içerikleri düzgün görüntülenemeyebilir. Daha iyi bir gezinti deneyimi içi disk kullanımınızı iyileştirmek isterseniz “Daha fazla bilgi al” sayfasını ziyaret edin.
 
 ## Privacy Section - HTTPS-Only
