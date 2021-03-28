@@ -20,9 +20,9 @@ list-empty-find-updates =
     .label = Vyhľadať aktualizácie
 list-empty-button =
     .label = Ďalšie informácie o doplnkoch
-help-button = Podpora doplnkov
+help-button = Podpora pre doplnky
 sidebar-help-button-title =
-    .title = Podpora doplnkov
+    .title = Podpora pre doplnky
 preferences =
     { PLATFORM() ->
         [windows] Možnosti aplikácie { -brand-short-name }
@@ -34,9 +34,9 @@ sidebar-preferences-button-title =
             [windows] Možnosti aplikácie { -brand-short-name }
            *[other] Možnosti aplikácie { -brand-short-name }
         }
-addons-settings-button = Nastavenia { -brand-short-name }u
+addons-settings-button = Nastavenia aplikácie { -brand-short-name }
 sidebar-settings-button-title =
-    .title = Nastavenia { -brand-short-name }u
+    .title = Nastavenia aplikácie { -brand-short-name }
 show-unsigned-extensions-button =
     .label = Niektoré rozšírenia nemohli byť overené
 show-all-extensions-button =
