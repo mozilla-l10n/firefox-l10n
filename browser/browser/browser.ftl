@@ -441,7 +441,7 @@ urlbar-placeholder-search-mode-other-tabs =
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
-    .placeholder = Претражите помоћу услуге { $name } или унесите адресу
+    .placeholder = Претражите претраживачем { $name } или унесите адресу
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Прегледач је под даљинским управљањем
 urlbar-permissions-granted =
@@ -466,14 +466,14 @@ urlbar-pocket-button =
 # "Search", and we would like to avoid strings like "Search MSN Search".
 # Variables
 #  $engine (String): the name of a search engine
-urlbar-result-action-search-in-private-w-engine = Претражите помоћу услуге { $engine } у приватном прозору
+urlbar-result-action-search-in-private-w-engine = Претражите претраживачем { $engine } у приватном прозору
 # Used when the private browsing engine is the same as the default engine.
 urlbar-result-action-search-in-private = Претражите у приватном режиму
 # The "with" format was chosen because the search engine name can end with
 # "Search", and we would like to avoid strings like "Search MSN Search".
 # Variables
 #  $engine (String): the name of a search engine
-urlbar-result-action-search-w-engine = Претражи помоћу услуге { $engine }
+urlbar-result-action-search-w-engine = Претражи претраживачем { $engine }
 urlbar-result-action-sponsored = Спонзорисано
 urlbar-result-action-switch-tab = Пребаци на језичак
 urlbar-result-action-visit = Посети
