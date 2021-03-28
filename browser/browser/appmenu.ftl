@@ -7,6 +7,12 @@
 
 appmenuitem-update-banner =
     .label-update-downloading = Descargando actualización de { -brand-shorter-name }
+appmenuitem-update-banner2 =
+    .label-update-downloading = Descargando la actualización de { -brand-shorter-name }
+    .label-update-available = Actualización disponible, descargar ahora
+    .label-update-manual = Actualización disponible, descargar ahora
+    .label-update-unsupported = No se ha podido actualizar
+    .label-update-restart = Actualización disponible, reiniciar ahora
 appmenuitem-protection-dashboard-title = Panel de protecciones
 appmenuitem-customize-mode =
     .label = Personalizar…
@@ -21,12 +27,20 @@ appmenuitem-passwords =
     .label = Contraseñas
 appmenuitem-extensions-and-themes =
     .label = Extensiones y temas
+appmenuitem-addons-and-themes =
+    .label = Complementos y temas
 appmenuitem-find-in-page =
     .label = Buscar en la página…
 appmenuitem-more-tools =
     .label = Más herramientas
 appmenuitem-exit =
     .label = Salir
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Salir
+           *[other] Salir
+        }
 appmenu-menu-button-closed =
     .tooltiptext = Abrir el menú de la aplicación
     .label = { -brand-shorter-name }

@@ -102,6 +102,18 @@ main-context-menu-bookmark-add =
     .aria-label = Añadir esta página a marcadores
     .accesskey = m
     .tooltiptext = Añadir esta página a marcadores
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-add-mac =
+    .label = Añadir página a marcadores
+    .accesskey = m
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-edit-mac =
+    .label = Editar marcador
+    .accesskey = m
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-add-with-shortcut =
