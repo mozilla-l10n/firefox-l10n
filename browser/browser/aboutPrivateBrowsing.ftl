@@ -15,6 +15,10 @@ about-private-browsing-handoff =
     .title = Претражите претраживачем { $engine } или унесите адресу
 about-private-browsing-handoff-no-engine =
     .title = Претражите или унесите адресу
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff-text = Претражите претраживачем { $engine } или унесите адресу
+about-private-browsing-handoff-text-no-engine = Претражите или унесите адресу
 about-private-browsing-not-private = Тренутно нисте у приватном прозору.
 about-private-browsing-info-description = { -brand-short-name } чисти вашу историју претраживања и прегледања када затворите програм или када затворите све приватне језичке и прозоре. Иако вас ово не чини анонимним вашем интернет провајдеру или на веб сајтовима, ово вам олакшава да сакријете ваше радње на вебу од других корисника овог рачунара.
 about-private-browsing-need-more-privacy = Треба вам више приватности?
