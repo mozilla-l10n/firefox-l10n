@@ -11,6 +11,18 @@
 
 # Sidebar strings
 
+# Display name of the runtime for the currently running instance of Firefox. Used in the
+# Sidebar and in the Setup page.
+about-debugging-this-firefox-runtime-name = Ин { -brand-shorter-name }
+# Sidebar heading for selecting the currently running instance of Firefox
+about-debugging-sidebar-this-firefox =
+    .name = { about-debugging-this-firefox-runtime-name }
+# Sidebar heading for connecting to some remote source
+about-debugging-sidebar-setup =
+    .name = Танзимкунӣ
+# Title for runtime sidebar items that are related to a specific device (USB, WiFi).
+about-debugging-sidebar-runtime-item-name =
+    .title = { $displayName } ({ $deviceName })
 # Title for runtime sidebar items where we cannot get device information (network
 # locations).
 about-debugging-sidebar-runtime-item-name-no-device =
