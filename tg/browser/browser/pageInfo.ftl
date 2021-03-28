@@ -81,8 +81,13 @@ security-view-identity-owner =
     .value = Соҳиб:
 security-view-identity-domain =
     .value = Сомона:
+security-view-identity-validity =
+    .value = Анҷоми муҳлат:
 security-view-privacy =
     .value = Махфият ва таърих
+security-view-privacy-clearsitedata =
+    .label = Пок кардани кукиҳо ва иттилооти сомона
+    .accesskey = П
 security-view-technical =
     .value = Тафсилоти техникӣ
 help-button =
@@ -94,6 +99,7 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies-only = Ҳа, кукиҳо
 security-site-data-no = Не
 
 ##
@@ -118,6 +124,10 @@ saved-passwords-yes = Ҳа
 saved-passwords-no = Не
 no-page-title =
     .value = Саҳифаи беном:
+general-quirks-mode =
+    .value = Реҷаи мувофиқат
+media-unknown-not-cached =
+    .value = Номаълум (ҳифз нашудааст)
 security-no-visits = Не
 # This string is used to display the number of times
 # the user has visited the website prior
