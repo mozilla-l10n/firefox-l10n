@@ -354,12 +354,17 @@ sync-engine-settings =
 
 ## The device name controls.
 
+sync-device-name-header = Номи дастгоҳ
+sync-device-name-change =
+    .label = Иваз кардани номи дастгоҳ…
+    .accesskey = И
 sync-device-name-cancel =
     .label = Бекор кардан
     .accesskey = Б
 sync-device-name-save =
     .label = Нигоҳ доштан
     .accesskey = Н
+sync-connect-another-device = Пайваст кардани дастгоҳи дигар
 
 ## Privacy Section
 
@@ -390,6 +395,17 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 ## Privacy Section - History
 
 history-header = Таърих
+# This label is followed, on the same line, by a dropdown list of options
+# (Remember history, etc.).
+# In English it visually creates a full sentence, e.g.
+# "Firefox will" + "Remember history".
+#
+# If this doesn't work for your language, you can translate this message:
+#   - Simply as "Firefox", moving the verb into each option.
+#     This will result in "Firefox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Firefox history settings:".
+history-remember-label = { -brand-short-name }
+    .accesskey = w
 history-remember-option-all =
     .label = Таърих дар хотир дошта шавад
 history-remember-option-never =
@@ -451,7 +467,11 @@ content-blocking-cross-site-cookies = Кукиҳои байнисомонавӣ
 content-blocking-cross-site-tracking-cookies = Кукиҳои васоити пайгирӣ байни сомонаҳо
 content-blocking-all-cookies = Ҳамаи кукиҳо
 content-blocking-unvisited-cookies = Кукиҳо аз сомонаҳои боқимонда
+content-blocking-all-third-party-cookies = Ҳамаи кукиҳои тарафҳои сеюм
 content-blocking-fingerprinters = Хонандаи изи ангушт
+content-blocking-cookies-label =
+    .label = Кукиҳо
+    .accesskey = К
 # Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
 # that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
 content-blocking-fingerprinters-label =
@@ -518,6 +538,8 @@ httpsonly-learn-more = Маълумоти бештар
 
 ## The following strings are used in the Download section of settings
 
+desktop-folder-name = Мизи корӣ
+downloads-folder-name = Боргириҳо
 # Variables:
 #   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
 save-files-to-cloud-storage =

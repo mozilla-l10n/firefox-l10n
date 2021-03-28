@@ -38,6 +38,10 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
+<!ENTITY fxa.menu.signin.label "Ворид шудан ба &brandProductName;">
+<!ENTITY fxa.menu.turnOnSync.label "Фаъол кардани &syncBrand.shortName.label;">
+<!ENTITY fxa.menu.firefoxServices.label "Хидматҳои &brandProductName;">
+<!ENTITY fxa.menu.setupSync.label "Танзим кардани &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -68,6 +72,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY searchItem.title             "Ҷустуҷӯ">
 
 <!-- Toolbar items -->
+<!ENTITY homeButton.defaultPage.tooltip "Саҳифаи асосии &brandShortName;">
 
 <!ENTITY bookmarksButton.label          "Хатбаракҳо">
 
@@ -174,12 +179,14 @@ this container is a toolbar. This avoids double-speaking. -->
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Варақаҳои браузер">
 
+<!ENTITY syncBrand.shortName.label    "Ҳамоҳангсозӣ">
 
 
 
 
 <!ENTITY panicButton.thankyou.msg1                "Таърихи охирини шумо тоза карда шуд.">
 
+<!ENTITY updateAvailable.panelUI.label "Боргирӣ кардани навсозии &brandShorterName;">
 
 
 <!ENTITY pageAction.shareUrl.label "Мубодила кардан">
