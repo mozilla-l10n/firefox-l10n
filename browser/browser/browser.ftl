@@ -482,13 +482,13 @@ urlbar-result-action-visit = Посети
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
-urlbar-result-action-before-tabtosearch-web = Притисните Tab за претраживање { $engine }-ом
+urlbar-result-action-before-tabtosearch-web = Притисните Tab да бисте претражили претраживачем { $engine }
 # Directs a user to press the Tab key to perform a search with the specified
 # engine.
 # Variables
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
-urlbar-result-action-before-tabtosearch-other = Притисните Tab за претрагу { $engine }-а
+urlbar-result-action-before-tabtosearch-other = Притисните Tab да бисте претражили претраживачем { $engine }
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
