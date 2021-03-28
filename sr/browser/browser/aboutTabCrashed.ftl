@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-crashed-title = Извештаји о отказивању картица
+crashed-title = Пријава отказивања картица
 crashed-close-tab-button = Затвори језичак
 crashed-restore-tab-button = Обнови овај језичак
 crashed-restore-all-button = Обнови све срушене језичке
