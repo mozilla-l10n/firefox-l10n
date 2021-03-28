@@ -32,4 +32,16 @@ calendar-ics-file-dialog-progress-message = Probíhá import…
 calendar-ics-file-import-success = Import proběhl úspěšně!
 calendar-ics-file-import-error = Import se nezdařil kvůli chybě.
 calendar-ics-file-import-complete = Import byl dokončen.
+calendar-ics-file-import-duplicates =
+    { $duplicatesCount ->
+        [one] Jedna položka byla ignorována, protože už v cílovém kalendáři existuje.
+        [few] { $duplicatesCount } položky byly ignorovány, protože už v cílovém kalendáři existují.
+       *[other] { $duplicatesCount } položek bylo ignorováno, protože už v cílovém kalendáři existují.
+    }
+calendar-ics-file-import-errors =
+    { $errorsCount ->
+        [one] Jednu položku
+        [few] { $errorsCount } položky
+       *[other] { $errorsCount } položek
+    } se nepodařilo naimportovat. Podrobnosti najdete v chybové konzoli.
 calendar-ics-file-dialog-no-calendars = Nemáte žádné kalendáře, do kterých by bylo možné události nebo úkoly naimportovat.
