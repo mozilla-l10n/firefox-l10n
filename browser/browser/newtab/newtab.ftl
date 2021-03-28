@@ -19,6 +19,20 @@ newtab-search-box-search-button =
     .title = Buscar
     .aria-label = Buscar
 newtab-search-box-search-the-web-text = Buscar na Web
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-text = Buscar con { $engine } ou escribir enderezo
+newtab-search-box-handoff-text-no-engine = Buscar ou introducir enderezo
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-input =
+    .placeholder = Buscar con { $engine } ou introducir enderezo
+    .title = Buscar con { $engine } ou introducir enderezo
+    .aria-label = Buscar con { $engine } ou introducir enderezo
+newtab-search-box-handoff-input-no-engine =
+    .placeholder = Buscar ou introducir enderezo
+    .title = Buscar ou introducir enderezo
+    .aria-label = Buscar ou introducir enderezo
 newtab-search-box-search-the-web-input =
     .placeholder = Buscar na Web
     .title = Buscar na Web
