@@ -771,6 +771,10 @@ sync-engine-prefs =
         }
     .tooltiptext = הגדרות כלליות, פרטיות ואבטחה ששינית
     .accesskey = ת
+sync-engine-settings =
+    .label = הגדרות
+    .tooltiptext = הגדרות כלליות, פרטיות ואבטחה ששינית
+    .accesskey = ת
 
 ## The device name controls.
 
@@ -1179,6 +1183,11 @@ space-alert-under-5gb-ok-button =
     .label = בסדר, הבנתי
     .accesskey = ב
 space-alert-under-5gb-message = ל־{ -brand-short-name } אוזל שטח הדיסק. יתכן שנתוני אתרים לא יוצגו כשורה. ניתן לבקר בקישור של “מידע נוסף” כדי לייעל את אופן השימוש בדיסק לחוויית גלישה טובה יותר.
+space-alert-over-5gb-settings-button =
+    .label = פתיחת הגדרות
+    .accesskey = ה
+space-alert-over-5gb-message2 = <strong>ל־{ -brand-short-name } אוזל שטח הדיסק.</strong> יתכן שתכני אתרים לא יוצגו כשורה. ניתן למחוק נתונים שמורים בהגדרות > פרטיות ואבטחה > עוגיות ונתוני אתרים.
+space-alert-under-5gb-message2 = <strong>ל־{ -brand-short-name } אוזל שטח הדיסק.</strong> יתכן שנתוני אתרים לא יוצגו כשורה. ניתן לבקר בקישור של “מידע נוסף” כדי לייעל את אופן השימוש בדיסק לחוויית גלישה טובה יותר.
 
 ## Privacy Section - HTTPS-Only
 
