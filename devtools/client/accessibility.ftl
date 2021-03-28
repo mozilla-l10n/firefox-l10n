@@ -22,6 +22,11 @@ accessibility-best-practices =
 ## that describe that currently selected accessible object has an accessibility issue
 ## with its text label or accessible name.
 
+accessibility-text-label-issue-area = Na označenie prvkov <div>area</div>, ktoré majú atribút <span>href</span> použite atribút <code>alt</code>. <a>Ďalšie informácie</a>
+accessibility-text-label-issue-dialog = Dialógy by mali byť označené. <a>Ďalšie informácie</a>
+accessibility-text-label-issue-document-title = Dokumenty musia mať atribút <code>title</code>. <a>Ďalšie informácie</a>
+accessibility-text-label-issue-embed = Vložený obsah musí byť označený. <a>Ďalšie informácie</a>
+accessibility-text-label-issue-figure = Obrázky s voliteľnými titulkami by mali byť označené. <a>Ďalšie informácie</a>
 accessibility-text-label-issue-fieldset = Prvky <code>fieldset</code> musia byť označené. <a>Ďalšie informácie</a>
 
 ## Text entries for a paragraph used in the accessibility panel sidebar's checks section
