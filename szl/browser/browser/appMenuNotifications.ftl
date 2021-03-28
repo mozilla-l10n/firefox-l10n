@@ -43,6 +43,10 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = Rozumia
     .buttonaccesskey = R
 appmenu-addon-post-install-message = Regyruj swojimi przidowkami bez klikniyńcie <image data-l10n-name='addon-install-icon'></image> w myni <image data-l10n-name='addon-menu-icon'></image>.
+appmenu-addon-private-browsing-installed2 =
+    .buttonlabel = OK
+    .buttonaccesskey = O
+appmenu-addon-post-install-message2 = Regiyruj rozszyrzyniami i tymatami z myni aplikacyje.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Zgoda, coby te rozszyrzynie fungowało we prywatnych ôknach
     .accesskey = Z

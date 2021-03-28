@@ -7,6 +7,12 @@
 
 appmenuitem-update-banner =
     .label-update-downloading = Pobiyranie aktualizacyje aplikacyje { -brand-shorter-name }
+appmenuitem-update-banner2 =
+    .label-update-downloading = Pobiyranie aktualizacyje aplikacyje { -brand-shorter-name }
+    .label-update-available = Dostympno je aktualizacyjo — pobier teroz
+    .label-update-manual = Dostympno je aktualizacyjo — pobier teroz
+    .label-update-unsupported = Niy idzie zaktualizować
+    .label-update-restart = Dostympno je aktualizacyjo — resztartnij teroz
 appmenuitem-protection-dashboard-title = Przeglōnd ôchrōny
 appmenuitem-customize-mode =
     .label = Przipasuj…
@@ -21,12 +27,26 @@ appmenuitem-passwords =
     .label = Hasła
 appmenuitem-extensions-and-themes =
     .label = Rozszyrzynia i motywy
+appmenuitem-addons-and-themes =
+    .label = Rozszyrzynia i motywy
 appmenuitem-find-in-page =
     .label = Znojdź na strōnie…
 appmenuitem-more-tools =
     .label = Wiyncyj noczyń
 appmenuitem-exit =
     .label = Skōńcz
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Skōńcz
+           *[other] Skōńcz
+        }
+appmenu-menu-button-closed =
+    .tooltiptext = Ôdewrzij myni aplikacyje
+    .label = { -brand-shorter-name }
+appmenu-menu-button-opened =
+    .tooltiptext = Zawrzij myni aplikacyje
+    .label = { -brand-shorter-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -59,6 +79,7 @@ appmenu-fxa-sync-and-save-data =
 appmenu-fxa-signed-in-label = Wloguj
 appmenu-fxa-setup-sync =
     .label = Załōncz synchronizacyjo…
+appmenu-fxa-show-more-tabs = Pokoż wiyncyj kart
 appmenuitem-save-page =
     .label = Spamiyntej strōna za…
 
@@ -132,6 +153,9 @@ appmenu-help-troubleshooting-info =
     .accesskey = b
 appmenu-help-taskmanager =
     .label = Mynedżer zadań
+appmenu-help-more-troubleshooting-info =
+    .label = Wiyncyj ô rozwiōnzowaniu problymōw
+    .accesskey = W
 appmenu-help-report-site-issue =
     .label = Dej znać ô problymie ze strōnōm…
 appmenu-help-feedback-page =
@@ -151,6 +175,12 @@ appmenu-help-safe-mode-with-addons =
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-enter-troubleshoot-mode2 =
+    .label = Tryb rozwiōnzowanio problymōw…
+    .accesskey = P
+appmenu-help-exit-troubleshoot-mode =
+    .label = Wyłōncz tryb rozwiōnzowanio problymōw
+    .accesskey = W
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

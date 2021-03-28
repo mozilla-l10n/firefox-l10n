@@ -9,6 +9,16 @@ about-private-browsing-info-title = Je żeś we prywatnym ôknie
 about-private-browsing-info-myths = Czynste mity ô prywatnym przeglōndaniu
 about-private-browsing =
     .title = Szukej w internecie
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff =
+    .title = Szukej ze { $engine } abo wkludź adresa
+about-private-browsing-handoff-no-engine =
+    .title = Szukej abo wkludź adresa
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff-text = Szukej ze { $engine } abo wkludź adresa
+about-private-browsing-handoff-text-no-engine = Szukej abo wkludź adresa
 about-private-browsing-not-private = Niy je żeś teroz we prywatnym ôknie.
 about-private-browsing-info-description = { -brand-short-name } ôprōznio historyjo wyszukowanio i przeglōndanio, jak wyłōnczysz aplikacyjo abo jak zawrzisz wszyske prywatne karty i ôkna. Skuli tego niy je sie anonimowym do strōn ani dostowcōw necowych usug. Snadnij ale możesz skryć swoja aktywność w internecie przed inkszymi, co używajōm tego kōmputra.
 about-private-browsing-need-more-privacy = Potrzebujesz wiynkszyj prywatności?

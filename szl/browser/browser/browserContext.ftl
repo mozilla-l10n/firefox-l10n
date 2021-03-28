@@ -102,6 +102,18 @@ main-context-menu-bookmark-add =
     .aria-label = Przidej ta strōna do zokłodek
     .accesskey = z
     .tooltiptext = Przidej ta strōna do zokłodek
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-add-mac =
+    .label = Przidej strōna do zokłodek
+    .accesskey = p
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-edit-mac =
+    .label = Edytuj zokłodka
+    .accesskey = p
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-add-with-shortcut =
@@ -206,6 +218,19 @@ main-context-menu-media-play-speed-faster =
 main-context-menu-media-play-speed-fastest =
     .label = Absurdalnie (2×)
     .accesskey = A
+main-context-menu-media-play-speed-2 =
+    .label = Gibkość
+    .accesskey = g
+main-context-menu-media-play-speed-slow-2 =
+    .label = 0.5×
+main-context-menu-media-play-speed-normal-2 =
+    .label = 1.0×
+main-context-menu-media-play-speed-fast-2 =
+    .label = 1.25×
+main-context-menu-media-play-speed-faster-2 =
+    .label = 1.5×
+main-context-menu-media-play-speed-fastest-2 =
+    .label = 2×
 main-context-menu-media-loop =
     .label = Pyntla
     .accesskey = P
@@ -233,6 +258,11 @@ main-context-menu-media-video-leave-fullscreen =
 main-context-menu-media-pip =
     .label = Ôbroz we ôbrazie
     .accesskey = i
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-watch-pip =
+    .label = Ôglōndej ze "Ôbroz w ôbrazie"
+    .accesskey = o
 main-context-menu-image-reload =
     .label = Przeladuj ôbroz
     .accesskey = P
@@ -242,6 +272,12 @@ main-context-menu-image-view =
 main-context-menu-video-view =
     .label = Pokoż video
     .accesskey = i
+main-context-menu-image-view-new-tab =
+    .label = Ôdewrzij ôbroz w nowyj karcie
+    .accesskey = b
+main-context-menu-video-view-new-tab =
+    .label = Ôdewrzij film w nowyj karcie
+    .accesskey = d
 main-context-menu-image-copy =
     .label = Skopiuj ôbroz
     .accesskey = j
