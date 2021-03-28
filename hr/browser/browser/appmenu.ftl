@@ -35,6 +35,12 @@ appmenuitem-more-tools =
     .label = Više alata
 appmenuitem-exit =
     .label = Izlaz
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Izlaz
+           *[other] Izlaz
+        }
 appmenu-menu-button-closed =
     .tooltiptext = Otvori izbornik aplikacije
     .label = { -brand-shorter-name }
