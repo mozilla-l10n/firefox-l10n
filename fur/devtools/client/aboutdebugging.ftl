@@ -106,6 +106,35 @@ about-debugging-setup-usb-status-updating = Daûr a inzornâ…
 about-debugging-setup-usb-step-enable-dev-menu2 = Ative il menù Svilupadôr sul to dispositîf Android.
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-debug2 = Ative lis operazions di debug vie USB intal menù Svilupadôr di Android.
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug-firefox2 = Ative lis operazions di debug vie USB in Firefox sul dispositîf Android.
+# USB section step by step guide
+about-debugging-setup-usb-step-plug-device = Conet il dispositîf Android al computer.
+# Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://developer.mozilla.org/docs/Tools/Remote_Debugging/Debugging_over_USB
+about-debugging-setup-usb-troubleshoot = Problemis a conetisi al dispositîf USB? <a>Risoluzion problemis</a>
+# Network section of the Setup page
+about-debugging-setup-network =
+    .title = Percors di rêt
+# Text shown in the Network section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://developer.mozilla.org/en-US/docs/Tools/Remote_Debugging/Debugging_over_a_network
+about-debugging-setup-network-troubleshoot = Problemis a conetisi vie percors di rêt? <a>Risoluzion problemis</a>
+# Text of a button displayed after the network locations "Host" input.
+# Clicking on it will add the new network location to the list.
+about-debugging-network-locations-add-button = Zonte
+# Text to display when there are no locations to show.
+about-debugging-network-locations-empty-text = Nol è stât zontât ancjemò nissun percors di rêt.
+# Text of the label for the text input that allows users to add new network locations in
+# the Connect page. A host is a hostname and a port separated by a colon, as suggested by
+# the input's placeholder "localhost:6080".
+about-debugging-network-locations-host-input-label = Host
+# Text of a button displayed next to existing network locations in the Connect page.
+# Clicking on it removes the network location from the list.
+about-debugging-network-locations-remove-button = Gjave
+# Text used as error message if the format of the input value was invalid in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-invalid = Host “{ $host-value }” no valit. Il formât spietât al è “nonhost:numarpuarte”.
 
 # Runtime Page strings
 
