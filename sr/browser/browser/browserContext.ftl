@@ -311,6 +311,9 @@ main-context-menu-image-set-as-background =
 main-context-menu-image-info =
     .label = Прикажи податке о слици
     .accesskey = с
+main-context-menu-image-set-image-as-background =
+    .label = Постави као позадину радне површине…
+    .accesskey = П
 main-context-menu-image-desc =
     .label = Прикажи опис
     .accesskey = о
@@ -323,6 +326,9 @@ main-context-menu-audio-save-as =
 main-context-menu-video-image-save-as =
     .label = Сачувај слику као…
     .accesskey = S
+main-context-menu-video-take-snapshot =
+    .label = Направи снимак екрана…
+    .accesskey = с
 main-context-menu-video-email =
     .label = Шаљи видео…
     .accesskey = a
@@ -352,9 +358,18 @@ main-context-menu-generate-new-password =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-use-saved-login =
+    .label = Користи сачувано корисничко име
+    .accesskey = К
+main-context-menu-use-saved-password =
+    .label = Користи сачувану лозинку
+    .accesskey = К
 
 ##
 
+main-context-menu-suggest-strong-password =
+    .label = Предложи јаку лозинку…
+    .accesskey = ж
 main-context-menu-keyword =
     .label = Додај кључну реч за ову претрагу…
     .accesskey = K
