@@ -134,6 +134,8 @@ search-results-empty-message =
         [windows] ¡Lo sentimos! No hay resultados para "<span data-l10n-name="query"></span>" en Opciones.
        *[other] ¡Lo sentimos! No hay resultados para "<span data-l10n-name="query"></span>" en Preferencias.
     }
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 = ¡Lo sentimos! No hay resultados para "<span data-l10n-name="query"></span>" en los ajustes.
 search-results-help-link = ¿Necesita ayuda? Visite <a data-l10n-name="url">Ayuda de { -brand-short-name }</a>
 
 ## General Section
@@ -382,6 +384,9 @@ update-application-check-choose =
 update-application-manual =
     .label = No buscar actualizaciones (no recomendado)
     .accesskey = N
+update-application-background-enabled =
+    .label = Cuando { -brand-short-name } no se esté ejecutando
+    .accesskey = C
 update-application-warning-cross-user-setting = Esta configuración se aplicará a todas las cuentas de Windows y los perfiles { -brand-short-name } usando esta instalación de { -brand-short-name }.
 update-application-use-service =
     .label = Usar un servicio en segundo plano para instalar actualizaciones
@@ -393,6 +398,15 @@ update-setting-write-failure-title = Error al guardar las preferencias de actual
 # intentional so the path is easier to identify.
 update-setting-write-failure-message =
     { -brand-short-name } ha encontrado un error y no ha guardado los cambios.  Tenga en cuenta que establecer esta preferencia de actualización requiere permiso para escribir en el archivo indicado a continuación. Usted o un administrador del sistema pueden resolver el error otorgando al grupo de Usuarios el control total de este archivo.
+    
+    No se puede escribir en el archivo: { $path }
+update-setting-write-failure-title2 = Error al guardar los ajustes de actualización
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message2 =
+    { -brand-short-name } ha encontrado un error y no ha guardado este cambio.  Tenga en cuenta que establecer este ajuste de actualización requiere permiso para escribir en el archivo indicado a continuación. Usted o un administrador del sistema pueden resolver el error otorgando al grupo de Usuarios el control total de este archivo.
     
     No se puede escribir en el archivo: { $path }
 update-in-progress-title = Actualización en curso
@@ -627,6 +641,8 @@ containers-back-button =
             [windows] Volver a Opciones
            *[other] Volver a Preferencias
         }
+containers-back-button2 =
+    .aria-label = Volver a los ajustes
 containers-header = Pestañas contenedoras
 containers-add-button =
     .label = Añadir nuevo contenedor
@@ -636,6 +652,8 @@ containers-new-tab-check =
     .accesskey = S
 containers-preferences-button =
     .label = Preferencias
+containers-settings-button =
+    .label = Ajustes
 containers-remove-button =
     .label = Eliminar
 
@@ -708,6 +726,7 @@ sync-currently-syncing-prefs =
         [windows] Opciones
        *[other] Preferencias
     }
+sync-currently-syncing-settings = Ajustes
 sync-change-options =
     .label = Cambiar…
     .accesskey = C
@@ -755,6 +774,10 @@ sync-engine-prefs =
         }
     .tooltiptext = Configuración general, de privacidad y de seguridad que ha cambiado
     .accesskey = S
+sync-engine-settings =
+    .label = Ajustes
+    .tooltiptext = Cambios en los ajustes de General, Privacidad y Seguridad
+    .accesskey = s
 
 ## The device name controls.
 
@@ -1169,6 +1192,9 @@ space-alert-under-5gb-ok-button =
     .label = De acuerdo, entendido
     .accesskey = u
 space-alert-under-5gb-message = { -brand-short-name } se está quedando sin espacio en disco. Los contenidos del sitio web pueden no mostrarse correctamente. Visite "Saber más" para optimizar su uso de disco para mejorar la experiencia de navegación.
+space-alert-over-5gb-settings-button =
+    .label = Abrir ajustes
+    .accesskey = A
 
 ## Privacy Section - HTTPS-Only
 
