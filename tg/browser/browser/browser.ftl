@@ -61,12 +61,18 @@ urlbar-eme-notification-anchor =
     .tooltiptext = Идоракунии истифодаи нармафзори DRM
 urlbar-web-authn-anchor =
     .tooltiptext = Кушодани лавҳаи санҷиши ҳаққоният дар сомона
+urlbar-canvas-notification-anchor =
+    .tooltiptext = Идора кардани иҷозати дастрасӣ ба маълумот дар canvas
+urlbar-web-rtc-share-microphone-notification-anchor =
+    .tooltiptext = Идора кардани иҷозати дастрасӣ ба микрофон дар сомона
 urlbar-default-notification-anchor =
     .tooltiptext = Кушодани лавҳаи паёмҳо
 urlbar-geolocation-notification-anchor =
     .tooltiptext = Кушодани лавҳаи дархости маконҳо
 urlbar-translate-notification-anchor =
     .tooltiptext = Тарҷума кардани саҳифаи ҷорӣ
+urlbar-web-rtc-share-screen-notification-anchor =
+    .tooltiptext = Идора кардани иҷозати дастрасӣ ба равзанаҳо ё экрани шумо дар сомона
 urlbar-translated-notification-anchor =
     .tooltiptext = Идоракунии тарҷумаи саҳифа
 urlbar-plugins-notification-anchor =
@@ -96,6 +102,18 @@ urlbar-search-mode-history = Таърих
 
 ##
 
+urlbar-geolocation-blocked =
+    .tooltiptext = Шумо барои ин сомона маълумоти ҷойгиршавиро манъ кардед.
+urlbar-camera-blocked =
+    .tooltiptext = Шумо барои ин сомона камераи худро манъ кардед.
+urlbar-microphone-blocked =
+    .tooltiptext = Шумо барои ин сомона микрофони худро манъ кардед.
+urlbar-screen-blocked =
+    .tooltiptext = Шумо барои ин сомона мубодилаи экрани худро манъ кардед.
+urlbar-persistent-storage-blocked =
+    .tooltiptext = Шумо барои ин сомона захирагоҳи доимии худро манъ кардед.
+urlbar-popup-blocked =
+    .tooltiptext = Шумо барои ин сомона равзанаҳои зоҳиршавандаро манъ кардед.
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
