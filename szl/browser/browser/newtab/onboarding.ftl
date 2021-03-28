@@ -173,6 +173,15 @@ onboarding-multistage-set-default-subtitle = Gibkość, bezpieczyństwo a ôchr�
 onboarding-multistage-set-default-primary-button-label = Nastow za bazowo
 onboarding-multistage-set-default-secondary-button-label = Niy teroz
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-pin-default-header = Sztartnij i nojprzōd patrz, coby <span data-l10n-name="zap">{ -brand-short-name }</span> bōł niy dalij jak na jedne klikniyńcie
+onboarding-multistage-pin-default-subtitle = Gibke, bezpieczne i prywatne przeglōndanie kożdy roz jak używosz internetu.
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-waiting-subtitle = Ôbier { -brand-short-name } za swoja przeglōndarka, jak sie ôdewrzōm sztalōnki
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-help-text = To przipnie { -brand-short-name } to poska zadań i ôdewrzi sztalōnki
+onboarding-multistage-pin-default-primary-button-label = Nastow aplikacyjo { -brand-short-name } za bazowo przeglōndarka
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Importuj swoje hasła, <br/>zokłodki a <span data-l10n-name="zap">wiyncyj</span>
 onboarding-multistage-import-subtitle = Przichodzisz z inkszyj przeglōndarki? Leko idzie przeniyść wszysko do aplikacyje { -brand-short-name }.
@@ -192,6 +201,7 @@ onboarding-welcome-steps-indicator =
 onboarding-multistage-theme-header = Ôbier se <span data-l10n-name="zap">wyglōnd</span>
 onboarding-multistage-theme-subtitle = Nastow se aplikacyjo { -brand-short-name } z motywym.
 onboarding-multistage-theme-primary-button-label = Spamiyntej motyw
+onboarding-multistage-theme-primary-button-label2 = Fertich
 onboarding-multistage-theme-secondary-button-label = Niy teroz
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = Autōmatyczny
