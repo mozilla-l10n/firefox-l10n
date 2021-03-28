@@ -9,6 +9,16 @@ about-private-browsing-info-title = Está nunha xanela privada
 about-private-browsing-info-myths = Mitos comúns sobre a navegación privada
 about-private-browsing =
     .title = Buscar na Rede
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff =
+    .title = Buscar con { $engine } ou escribir enderezo
+about-private-browsing-handoff-no-engine =
+    .title = Buscar ou introducir enderezo
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff-text = Buscar con { $engine } ou escribir enderezo
+about-private-browsing-handoff-text-no-engine = Buscar ou escribir enderezo
 about-private-browsing-not-private = Actualmente non está nunha xanela privada.
 about-private-browsing-info-description = { -brand-short-name } borra o historial de busca e navegación cando saia do aplicativo ou peche todas as lapelas e xanelas de navegación privada. Aínda que isto non conserva o seu anonimato en sitios web para o seu fornecedor de servizos de internet, si facilita manter en privado o que fai na rede para calquera outra persoa que utilice este ordenador.
 about-private-browsing-need-more-privacy = Precisa de máis privacidade?
