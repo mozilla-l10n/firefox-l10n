@@ -363,6 +363,20 @@ browser-tab-audio-pip = ÔBROZ WE ÔBRAZIE
 ## Variables:
 ##  $count (number): number of affected tabs
 
+browser-tab-mute =
+    { $count ->
+        [1] Wyłōncz klang karty
+        [one] Wyłōncz klang { $count } karty
+        [few] Wyłōncz klang { $count } kartōw
+       *[many] Wyłōncz klang { $count } kartōw
+    }
+browser-tab-unmute =
+    { $count ->
+        [1] Załōncz klang { $count } karty
+        [one] Załōncz klang { $count } karty
+        [few] Załōncz klang { $count } kartōw
+       *[many] Załōncz klang { $count } kartōw
+    }
 
 ## Bookmarks toolbar items
 

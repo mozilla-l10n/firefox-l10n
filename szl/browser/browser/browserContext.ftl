@@ -326,6 +326,9 @@ main-context-menu-audio-save-as =
 main-context-menu-video-image-save-as =
     .label = Spamiyntej migowka za…
     .accesskey = S
+main-context-menu-video-take-snapshot =
+    .label = Chyć migowka…
+    .accesskey = C
 main-context-menu-video-email =
     .label = Poślij emaila z wideo…
     .accesskey = a
@@ -355,9 +358,21 @@ main-context-menu-generate-new-password =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-use-saved-login =
+    .label = Użyj spamiyntanych danych logowanio
+    .accesskey = u
+main-context-menu-use-saved-password =
+    .label = Użyj spamiyntanego hasła
+    .accesskey = u
 
 ##
 
+main-context-menu-suggest-strong-password =
+    .label = Doradź siylne hasło…
+    .accesskey = S
+main-context-menu-manage-logins =
+    .label = Regiyruj danymi logowanio…
+    .accesskey = R
 main-context-menu-keyword =
     .label = Przidej kluczowe słowo do tego wyszukowanio…
     .accesskey = K
@@ -400,6 +415,9 @@ main-context-menu-print-selection =
 main-context-menu-view-selection-source =
     .label = Pokoż zdrzōdło wyboru
     .accesskey = w
+main-context-menu-take-screenshot =
+    .label = Zrōb ôbroz ekranu
+    .accesskey = Z
 main-context-menu-view-page-source =
     .label = Pokoż zdrzōdło strōny
     .accesskey = P
