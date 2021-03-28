@@ -1,0 +1,19 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY  openWith.label              "Кушодан бо">
+<!ENTITY  openWith.accesskey          "o">
+<!ENTITY  other.label                 "Дигар…">
+
+<!ENTITY  saveFile.label              "Нигоҳ доштани файл">
+
+
+
+<!ENTITY  chooseHandlerMac.label      "Интихоб кунед ...">
+<!ENTITY  chooseHandlerMac.accesskey  "C">
+<!ENTITY  chooseHandler.label         "Кушодан…">
+<!ENTITY  chooseHandler.accesskey     "B">
+
+<!ENTITY  unknownPromptText.label     "Шумо мехоҳед, ки ин файлро нигоҳ доред?">
