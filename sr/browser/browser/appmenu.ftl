@@ -195,6 +195,12 @@ appmenu-help-safe-mode-with-addons =
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-enter-troubleshoot-mode2 =
+    .label = Режим за решавање проблема…
+    .accesskey = ж
+appmenu-help-exit-troubleshoot-mode =
+    .label = Искључи режим за решавање проблема
+    .accesskey = ж
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
