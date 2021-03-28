@@ -466,7 +466,14 @@ collection-backlogged-crash-reports-link = Маълумоти бештар
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Амният
+security-browsing-protection = Муҳтавои дурӯғӣ ва муҳофизат аз нармафзори зараровар
+security-enable-safe-browsing =
+    .label = Манъ кардани муҳтавои дурӯғӣ ва зараровар
+    .accesskey = М
 security-enable-safe-browsing-link = Маълумоти бештар
+security-block-downloads =
+    .label = Манъ кардани боргириҳои зараровар
+    .accesskey = М
 
 ## Privacy Section - Certificates
 
