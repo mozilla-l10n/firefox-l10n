@@ -7,6 +7,12 @@
 
 appmenuitem-update-banner =
     .label-update-downloading = Lastar ned ned { -brand-shorter-name }-oppdatering
+appmenuitem-update-banner2 =
+    .label-update-downloading = Lastar ned { -brand-shorter-name }-oppdatering
+    .label-update-available = Oppdatering tilgjengeleg — last ned no
+    .label-update-manual = Oppdatering tilgjengeleg — last ned no
+    .label-update-unsupported = Klarte ikkje å oppdatere
+    .label-update-restart = Oppdatering tilgjengeleg — start på nytt
 appmenuitem-protection-dashboard-title = Tryggingspanel
 appmenuitem-customize-mode =
     .label = Tilpass…
@@ -21,12 +27,20 @@ appmenuitem-passwords =
     .label = Passord
 appmenuitem-extensions-and-themes =
     .label = Utvidingar og tema
+appmenuitem-addons-and-themes =
+    .label = Tillegg og tema
 appmenuitem-find-in-page =
     .label = Finn på sida…
 appmenuitem-more-tools =
     .label = Fleire verktøy
 appmenuitem-exit =
     .label = Avslutt
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Avslutt
+           *[other] Avslutt
+        }
 appmenu-menu-button-closed =
     .tooltiptext = Opne program-meny
     .label = { -brand-shorter-name }
