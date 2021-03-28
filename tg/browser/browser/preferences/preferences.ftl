@@ -64,10 +64,20 @@ pane-experimental-reset =
     .label = Барқарор кардани пешфарзҳо
     .accesskey = Б
 help-button-label = Дастгирии { -brand-short-name }
+addons-button-label = Васеъшавиҳо ва мавзӯъҳо
+focus-search =
+    .key = f
+close-button =
+    .aria-label = Пӯшидан
 
 ## Browser Restart Dialog
 
+feature-enable-requires-restart = Барои фаъол кардани ин хусусият { -brand-short-name } бояд аз нав оғоз карда шавад.
+feature-disable-requires-restart = Барои ғайрифаъол кардани ин хусусият { -brand-short-name } бояд аз нав оғоз карда шавад.
+should-restart-title = Аз нав оғоз кардани { -brand-short-name }
+should-restart-ok = { -brand-short-name } ҳозир аз нав оғоз карда шавад
 cancel-no-restart-button = Бекор кардан
+restart-later = Баъдтар аз нав оғоз карда шавад
 
 ## Extension Control Notifications
 ##
@@ -86,15 +96,57 @@ search-results-header = Натиҷаи ҷустуҷӯ
 
 ## General Section
 
+startup-header = Оғози кор
 get-started-not-logged-in = Ба { -sync-brand-short-name } ворид шавед…
 get-started-configured = Кушодани хусусиятҳои { -sync-brand-short-name }
+startup-restore-previous-session =
+    .label = Барқарор кардани ҷаласаи қаблӣ
+    .accesskey = Б
+disable-extension =
+    .label = Ғайрифаъол кардани васеъшавӣ
+tabs-group-header = Варақаҳо
 browser-containers-learn-more = Маълумоти бештар
+browser-containers-settings =
+    .label = Танзимот…
+    .accesskey = Т
+containers-disable-alert-ok-button =
+    { $tabCount ->
+        [one] Пӯшидани { $tabCount } варақаи дарбаргиранда
+       *[other] Пӯшидани { $tabCount } варақаи дарбаргиранда
+    }
 containers-disable-alert-cancel-button = Фаъолшуда нигоҳ дошта шавад
+containers-remove-alert-title = Ин дарбаргирандаро тоза мекунед?
+containers-remove-ok-button = Тоза кардани ин дарбаргиранда
+containers-remove-cancel-button = Ин дарбаргиранда тоза карда нашавад
 
 ## General Section - Language & Appearance
 
+language-and-appearance-header = Забон ва намуди зоҳирӣ
+fonts-and-colors-header = Шрифтҳо ва рангҳо
+default-font = Шрифти пешфарз
+    .accesskey = Ш
+default-font-size = Андоза
+    .accesskey = А
+advanced-fonts =
+    .label = Иловагӣ…
+    .accesskey = И
+colors-settings =
+    .label = Рангҳо…
+    .accesskey = Р
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Танзими андоза
+preferences-default-zoom-value =
+    .label = { $percentage }%
+language-header = Забон
+choose-language-description = Забони дилхоҳатонро барои намоиши саҳифаҳо интихоб намоед
+choose-button =
+    .label = Интихоб кунед ...
+    .accesskey = И
+choose-browser-language-description = Забонҳоро барои намоиш додани менюҳо, паёмҳо ва огоҳиномаҳо аз { -brand-short-name } интихоб намоед.
+confirm-browser-language-change-button = Татбиқ ва аз нав оғоз кардан
+translate-web-pages =
+    .label = Тарҷума кардани муҳтавои сомона
+    .accesskey = Т
 # The <img> element is replaced by the logo of the provider
 # used to provide machine translations for web pages.
 translate-attribution = Тарҷумаҳо аз ҷониби <img data-l10n-name="logo"/>
