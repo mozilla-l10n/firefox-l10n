@@ -11,6 +11,7 @@ refresh-profile-description = Comece de cero para solucionar problemas e restaur
 refresh-profile-description-details = Isto:
 refresh-profile-remove = Retirara os seus complementos e personalizacións
 refresh-profile-restore = Restaurará a configuración do seu navegador aos valores predeterminados
+refresh-profile-dialog-description = Comece de novo para solucionar problemas de rendemento. Isto eliminará as súas extensións e personalizacións. Non perderá información esencial como marcadores e contrasinais.
 refresh-profile = Facer un cambio de imaxe a { -brand-short-name }
 refresh-profile-button = Refrescar { -brand-short-name }…
 refresh-profile-learn-more = Máis información

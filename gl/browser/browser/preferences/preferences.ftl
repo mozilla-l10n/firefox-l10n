@@ -1195,6 +1195,8 @@ space-alert-under-5gb-message = { -brand-short-name } xa non ten suficiente espa
 space-alert-over-5gb-settings-button =
     .label = Abrir configuración
     .accesskey = o
+space-alert-over-5gb-message2 = <strong>{ -brand-short-name } xa non ten suficiente espazo en disco.</strong> É posíbel que o contido dos sitios web non se amose correctamente. Pode borrar os datos gardados dende Configuración > Privacidade e seguranza > Cookies e datos do sitio.
+space-alert-under-5gb-message2 = <strong>{ -brand-short-name } xa non ten suficiente espazo en disco.</strong> É posíbel que o contido dos sitios web non se amose correctamente. Visite a ligazón «Máis información» para optimizar o seu uso de disco para mellorar a experiencia de navegación.
 
 ## Privacy Section - HTTPS-Only
 
