@@ -166,8 +166,8 @@ enable-password-sync-preferences-button =
     .label = Отвори подешавања { -sync-brand-short-name(case: "gen") }
     .accesskey = О
 about-logins-enable-password-sync-dont-ask-again-button =
-    .label = Не питај ме поново
-    .accesskey = D
+    .label = Не питај поново
+    .accesskey = Н
 
 ## Dialogs
 
