@@ -7,6 +7,12 @@
 
 appmenuitem-update-banner =
     .label-update-downloading = Atsiunčiamas „{ -brand-shorter-name };“ naujinimas
+appmenuitem-update-banner2 =
+    .label-update-downloading = Atsiunčiamas „{ -brand-shorter-name }“ naujinimas
+    .label-update-available = Galimas naujinimas — atsiųsti dabar
+    .label-update-manual = Galimas naujinimas — atsiųsti dabar
+    .label-update-unsupported = Naujinimas nepavyko
+    .label-update-restart = Galimas naujinimas — paleisti iš naujo dabar
 appmenuitem-protection-dashboard-title = Apsaugos skydelis
 appmenuitem-customize-mode =
     .label = Tvarkyti…
@@ -21,12 +27,20 @@ appmenuitem-passwords =
     .label = Slaptažodžiai
 appmenuitem-extensions-and-themes =
     .label = Priedai ir grafiniai apvalkalai
+appmenuitem-addons-and-themes =
+    .label = Priedai ir grafiniai apvalkalai
 appmenuitem-find-in-page =
     .label = Rasti tinklalapyje…
 appmenuitem-more-tools =
     .label = Daugiau priemonių
 appmenuitem-exit =
     .label = Išeiti
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Išeiti
+           *[other] Išeiti
+        }
 appmenu-menu-button-closed =
     .tooltiptext = Atverti programos meniu
     .label = { -brand-shorter-name }

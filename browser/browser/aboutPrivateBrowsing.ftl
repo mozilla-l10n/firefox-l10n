@@ -9,6 +9,16 @@ about-private-browsing-info-title = Esate privačiojo naršymo lange
 about-private-browsing-info-myths = Dažni mitai apie privatųjį naršymą
 about-private-browsing =
     .title = Ieškokite saityne
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff =
+    .title = Įveskite adresą arba ieškokite per „{ $engine }“
+about-private-browsing-handoff-no-engine =
+    .title = Įveskite adresą arba paieškos žodžius
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff-text = Įveskite adresą arba ieškokite per „{ $engine }“
+about-private-browsing-handoff-text-no-engine = Įveskite adresą arba paieškos žodžius
 about-private-browsing-not-private = Šiuo metu jūs esate ne privačiajame lange.
 about-private-browsing-info-description = „{ -brand-short-name }“ išvalo jūsų paieškos ir naršymo žurnalą kai išjungiate programą, arba užveriate visas privačiojo naršymo korteles ir langus. Nors tai ir nepadaro jūsų anonimu internete, taip lengviau galite išlaikyti savo privatumą nuo kitų šiuo kompiuteriu besinaudojančių žmonių.
 about-private-browsing-need-more-privacy = Reikia daugiau privatumo?
