@@ -150,6 +150,9 @@ translate-web-pages =
 # The <img> element is replaced by the logo of the provider
 # used to provide machine translations for web pages.
 translate-attribution = Тарҷумаҳо аз ҷониби <img data-l10n-name="logo"/>
+translate-exceptions =
+    .label = Истисноҳо…
+    .accesskey = И
 
 ## General Section - Files and Applications
 
@@ -249,6 +252,9 @@ applications-use-os-default-label =
 play-drm-content-learn-more = Маълумоти бештар
 update-application-title = Навсозиҳои { -brand-short-name }
 update-application-version = Версияи { $version } <a data-l10n-name="learn-more">Чӣ нав аст</a>
+update-history =
+    .label = Намоиши таърихи навсозиҳо…
+    .accesskey = Н
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Идома додан

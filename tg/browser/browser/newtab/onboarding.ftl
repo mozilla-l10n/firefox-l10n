@@ -37,6 +37,10 @@ onboarding-join-form-continue = Идома додан
 onboarding-join-form-signin-label = Аллакай ҳисобе доред?
 # Text for link to submit the sign in form
 onboarding-join-form-signin = Ворид шудан
+onboarding-start-browsing-button-label = Оғоз кардани тамошо
+onboarding-cards-dismiss =
+    .title = Нодида гузарондан
+    .aria-label = Нодида гузарондан
 
 ## Welcome full page string
 

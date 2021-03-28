@@ -15,3 +15,11 @@ ssl-connection-error = Ҳангоми пайвастшавӣ ба { $hostname } 
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Рамзи хато: { $error }
+sec-error-cert-valid = Ин гувоҳинома эътибор дорад.
+sec-error-cert-not-valid = Ин гувоҳинома эътибор надорад.
+sec-error-message-send-aborted = Паём фиристода нашуд.
+sec-error-js-invalid-module-name = Номи модул нодуруст аст.
+sec-error-js-invalid-dll = Номи файл/масири модул нодуруст аст.
+sec-error-js-add-mod-failure = Модул илова карда намешавад
+sec-error-js-del-mod-failure = Модул нест карда намешавад
+sec-error-expired-password = Муҳлати ниҳонвожа ба анҷом расид.
