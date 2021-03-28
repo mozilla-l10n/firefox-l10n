@@ -4,8 +4,9 @@
 
 refresh-profile-dialog =
     .title = Refrescar { -brand-short-name }
+refresh-profile-dialog-title = Restabilir { -brand-short-name } a su parametros predefinite?
 refresh-profile-dialog-button =
-    .label = Refrescar { -brand-short-name }
+    .label = Restabilir { -brand-short-name }
 refresh-profile-description = Recomenciar ab un stato pristine pro eliminar problemas e restaurar le rendimento.
 refresh-profile-description-details = Isto:
 refresh-profile-remove = Removera tu additivos e personalisationes
