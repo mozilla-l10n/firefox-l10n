@@ -747,6 +747,10 @@ sync-engine-prefs =
         }
     .tooltiptext = Parametros gederal, de confidentialitate e de securitate que tu modificava
     .accesskey = S
+sync-engine-settings =
+    .label = Parametros
+    .tooltiptext = Parametros general, de confidentialitate e securitate que tu ha cambiate
+    .accesskey = s
 
 ## The device name controls.
 
@@ -1161,6 +1165,9 @@ space-alert-under-5gb-ok-button =
     .label = De accordo
     .accesskey = D
 space-alert-under-5gb-message = { -brand-short-name } non ha bastante spatio de disco disponibile. Le contento de sitos web pote non esser monstrate correctemente. Visita “Apprender plus” pro optimisar le uso de tu disco pro un melior experientia de navigation.
+space-alert-over-5gb-settings-button =
+    .label = Aperir le parametros
+    .accesskey = A
 
 ## Privacy Section - HTTPS-Only
 
