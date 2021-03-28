@@ -11,6 +11,8 @@
 
 ## Application Menu (macOS only)
 
+menu-application-preferences =
+    .label = Nuostatos
 menu-application-services =
     .label = Paslaugos
 menu-application-hide-this =
@@ -252,7 +254,7 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Prisijungti prie „{ -brand-product-name }“…
     .accesskey = g
-menu-tools-extensions =
+menu-tools-addons-and-themes =
     .label = Priedai ir grafiniai apvalkalai
     .accesskey = P
 menu-tools-fxa-sign-in2 =

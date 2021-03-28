@@ -19,6 +19,20 @@ newtab-search-box-search-button =
     .title = Ieškoti
     .aria-label = Ieškoti
 newtab-search-box-search-the-web-text = Ieškokite saityne
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-text = Įveskite adresą arba ieškokite per „{ $engine }“
+newtab-search-box-handoff-text-no-engine = Įveskite adresą arba paieškos žodžius
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-input =
+    .placeholder = Įveskite adresą arba ieškokite per „{ $engine }“
+    .title = Įveskite adresą arba ieškokite per „{ $engine }“
+    .aria-label = Įveskite adresą arba ieškokite per „{ $engine }“
+newtab-search-box-handoff-input-no-engine =
+    .placeholder = Įveskite adresą arba paieškos žodžius
+    .title = Įveskite adresą arba paieškos žodžius
+    .aria-label = Įveskite adresą arba paieškos žodžius
 newtab-search-box-search-the-web-input =
     .placeholder = Ieškokite saityne
     .title = Ieškokite saityne

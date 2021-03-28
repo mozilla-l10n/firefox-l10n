@@ -28,6 +28,18 @@ search-input-box =
             [windows] Rasti nuostatose
            *[other] Rasti nuostatose
         }
+settings-page-title = Nuostatos
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box2 =
+    .style = width: 15.4em
+    .placeholder = Rasti nuostatose
 managed-notice = Jūsų naršyklę tvarko jūsų organizacija.
 category-list =
     .aria-label = Kategorijos
@@ -52,6 +64,7 @@ category-experimental =
 pane-experimental-subtitle = Elkitės atsargiai
 pane-experimental-search-results-header = „{ -brand-short-name }“ eksperimentai: elkitės atsargiai
 pane-experimental-description = Išplėstinių nuostatų keitimas gali paveikti „{ -brand-short-name }“ veikimą arba saugumą.
+pane-experimental-description2 = Išplėstinių nuostatų keitimas gali paveikti „{ -brand-short-name }“ veikimą arba saugumą.
 pane-experimental-reset =
     .label = Atstatyti numatytuosius
     .accesskey = A
@@ -121,6 +134,8 @@ search-results-empty-message =
         [windows] Deja! Nuostatose nėra rezultatų, atitinkančių „<span data-l10n-name="query"></span>“.
        *[other] Deja! Nuostatose nėra rezultatų, atitinkančių „<span data-l10n-name="query"></span>“.
     }
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 = Deja! Nuostatose nėra rezultatų, atitinkančių „<span data-l10n-name="query"></span>“.
 search-results-help-link = Reikia pagalbos? Aplankykite <a data-l10n-name="url">„{ -brand-short-name }“ pagalbą</a>
 
 ## General Section
@@ -372,6 +387,9 @@ update-application-check-choose =
 update-application-manual =
     .label = niekada netikrinti ar yra naujinimų (nerekomenduojama)
     .accesskey = N
+update-application-background-enabled =
+    .label = Kai „{ -brand-short-name }“ yra išjungta
+    .accesskey = K
 update-application-warning-cross-user-setting = Ši nuostata bus pritaikyta visoms „Windows“ paskyroms ir „{ -brand-short-name }“ profiliams, naudojantiems šią „{ -brand-short-name }“ įdiegtį.
 update-application-use-service =
     .label = naujinimų įdiegimui naudoti fone veikiančią tarnybą
@@ -384,6 +402,15 @@ update-setting-write-failure-title = Klaida įrašant naujinimų nuostatas
 update-setting-write-failure-message =
     „{ -brand-short-name }“ susidūrė su klaida ir neįrašė šio pakeitimo. Atminkite, kad norint pakeisti šią naujinimų nuostatą, reikalingas leidimas rašyti į žemiau nurodytą failą. Jūs, arba sistemos prižiūrėtojas, gali pabandyti tai sutvarkyti, suteikiant visišką šio failo valdymo teisę „Users“ grupei.
     
+    Nepavyko rašymas į failą: { $path }
+update-setting-write-failure-title2 = Klaida įrašant naujinimų nuostatas
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message2 =
+    „{ -brand-short-name }“ susidūrė su klaida ir neįrašė šio pakeitimo. Atminkite, kad norint pakeisti šią naujinimų nuostatą, reikalingas leidimas rašyti į žemiau nurodytą failą. Jūs, arba sistemos prižiūrėtojas, gali pabandyti tai sutvarkyti, suteikiant visišką šio failo valdymo teisę „Users“ grupei.¶
+    ¶
     Nepavyko rašymas į failą: { $path }
 update-in-progress-title = Vyksta naujinimas
 update-in-progress-message = Ar norite, kad „{ -brand-short-name }“ tęstų šį naujinimą?
@@ -583,6 +610,7 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Rodyti paieškos žodžių siūlymus privačiojo naršymo languose.
 suggestions-addressbar-settings-generic = Keisti kitų adreso juostos siūlymų nuostatas
+suggestions-addressbar-settings-generic2 = Keisti kitų adreso juostos siūlymų nuostatas
 search-suggestions-cant-show = Paieškos žodžių siūlymai adreso lauke nebus rodomi, kadangi esate nustatę, jog „{ -brand-short-name }“ niekada nevestų žurnalo.
 search-one-click-header = Ieškyklės vienu spustelėjimu
 search-one-click-header2 = Paieškos leistukai
@@ -617,6 +645,8 @@ containers-back-button =
             [windows] Grįžti į nuostatas
            *[other] Grįžti į nuostatas
         }
+containers-back-button2 =
+    .aria-label = Grįžti į nuostatas
 containers-header = Sudėtinio rodinio kortelės
 containers-add-button =
     .label = Pridėti naują sudėtinį rodinį
@@ -626,6 +656,8 @@ containers-new-tab-check =
     .accesskey = s
 containers-preferences-button =
     .label = Nuostatos
+containers-settings-button =
+    .label = Nuostatos
 containers-remove-button =
     .label = Pašalinti
 
@@ -634,6 +666,7 @@ containers-remove-button =
 
 sync-signedout-caption = Pasiimkite savo saityną kartu
 sync-signedout-description = Sinchronizuokite savo adresyną, žurnalą, korteles, slaptažodžius, priedus bei nuostatas visuose savo įrenginiuose.
+sync-signedout-description2 = Sinchronizuokite savo adresyną, žurnalą, korteles, slaptažodžius, priedus, ir nuostatas visuose savo įrenginiuose.
 sync-signedout-account-signin2 =
     .label = Jungtis prie „{ -sync-brand-short-name }“…
     .accesskey = i
@@ -676,6 +709,7 @@ prefs-sync-setup =
     .label = Įjungti „{ -sync-brand-short-name }“…
     .accesskey = j
 prefs-sync-offer-setup-label = Sinchronizuokite savo adresyną, žurnalą, korteles, slaptažodžius, priedus bei nuostatas visuose savo įrenginiuose.
+prefs-sync-offer-setup-label2 = Sinchronizuokite savo adresyną, žurnalą, korteles, slaptažodžius, priedus, ir nuostatas visuose savo įrenginiuose.
 prefs-sync-now =
     .labelnotsyncing = Sinchronizuoti dabar
     .accesskeynotsyncing = d
@@ -696,6 +730,7 @@ sync-currently-syncing-prefs =
         [windows] Nuostatos
        *[other] Nuostatos
     }
+sync-currently-syncing-settings = Nuostatos
 sync-change-options =
     .label = Pakeisti…
     .accesskey = C
@@ -743,6 +778,10 @@ sync-engine-prefs =
         }
     .tooltiptext = Bendros, privatumo ir saugumo nuostatos, kurias keitėte
     .accesskey = n
+sync-engine-settings =
+    .label = Nuostatos
+    .tooltiptext = Jūsų pakeistos bendros, privatumo, ir saugumo nuostatos
+    .accesskey = s
 
 ## The device name controls.
 
@@ -1157,6 +1196,11 @@ space-alert-under-5gb-ok-button =
     .label = Gerai, supratau
     .accesskey = G
 space-alert-under-5gb-message = „{ -brand-short-name }“ tuoj pritrūks vietos diske. Svetainių turinys gali būti atvaizduojamas netinkamai. Spustelėkite „Sužinoti daugiau“, norėdami optimizuoti savo disko naudojimą efektyvesniam naršymui.
+space-alert-over-5gb-settings-button =
+    .label = Atverti nuostatas
+    .accesskey = A
+space-alert-over-5gb-message2 = <strong>„{ -brand-short-name }“ tuoj pritrūks vietos diske.</strong> Svetainių turinys gali būti atvaizduojamas netinkamai. Galite išvalyti įrašytus duomenis per „Nuostatos“ > „Privatumas ir saugumas“ > „Slapukai ir svetainių duomenys“.
+space-alert-under-5gb-message2 = <strong>„{ -brand-short-name }“ tuoj pritrūks vietos diske.</strong> Svetainių turinys gali būti atvaizduojamas netinkamai. Spustelėkite „Sužinoti daugiau“, norėdami optimizuoti savo disko naudojimą efektyvesniam naršymui.
 
 ## Privacy Section - HTTPS-Only
 

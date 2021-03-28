@@ -34,6 +34,9 @@ sidebar-preferences-button-title =
             [windows] „{ -brand-short-name }“ nuostatos
            *[other] „{ -brand-short-name }“ nuostatos
         }
+addons-settings-button = „{ -brand-short-name }“ nuostatos
+sidebar-settings-button-title =
+    .title = „{ -brand-short-name }“ nuostatos
 show-unsigned-extensions-button =
     .label = Kai kurių plėtinių patikrinti nepavyko
 show-all-extensions-button =
@@ -385,9 +388,6 @@ addon-detail-private-browsing-disallow = Neleisti
 addon-badge-recommended2 =
     .title = „{ -brand-product-name }“ rekomenduoja tik mūsų saugumo ir našumo reikalavimus atitinkančius priedus
     .aria-label = { addon-badge-recommended2.title }
-addon-badge-line2 =
-    .title = Šį oficialių priedą sukūrė „{ -brand-product-name }“ autoriai
-    .aria-label = { addon-badge-line2.title }
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
