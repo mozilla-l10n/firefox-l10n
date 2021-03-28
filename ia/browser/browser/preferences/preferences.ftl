@@ -614,6 +614,8 @@ containers-back-button =
             [windows] Retornar al optiones
            *[other] Retornar al preferentias
         }
+containers-back-button2 =
+    .aria-label = Retornar al configuration
 containers-header = Schedas contextual
 containers-add-button =
     .label = Adder un nove contexto
@@ -633,6 +635,7 @@ containers-remove-button =
 
 sync-signedout-caption = Porta le web con te
 sync-signedout-description = Synchronisa tu marcapaginas, chronologia, contrasignos, additivos, e preferentias inter tote tu apparatos.
+sync-signedout-description2 = Synchronisa tu marcapaginas, chronologia, contrasignos, additivos, e parametros inter tote tu apparatos.
 sync-signedout-account-signin2 =
     .label = Aperir session in { -sync-brand-short-name }…
     .accesskey = A
@@ -675,6 +678,7 @@ prefs-sync-setup =
     .label = Configuration de { -sync-brand-short-name }…
     .accesskey = C
 prefs-sync-offer-setup-label = Synchronisa tu marcapaginas, chronologia, contrasignos, additivos e preferentias inter tote tu apparatos.
+prefs-sync-offer-setup-label2 = Synchronisa tu marcapaginas, chronologia, contrasignos, additivos, e parametros inter tote tu apparatos.
 prefs-sync-now =
     .labelnotsyncing = Synchronisar ora
     .accesskeynotsyncing = o

@@ -178,6 +178,9 @@ onboarding-multistage-pin-default-header = Initia per render <span data-l10n-nam
 onboarding-multistage-pin-default-subtitle = Un navigation rapide, secur e private cata vice que tu usa le Web.
 # The "settings" here refers to "Windows 10 Settings App" and not the browser's
 onboarding-multistage-pin-default-waiting-subtitle = Elige { -brand-short-name } in le navigatores web al apertura de tu parametros
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-help-text = Isto appunctara { -brand-short-name } al barra de activitates e aperira le parametros
+onboarding-multistage-pin-default-primary-button-label = Render { -brand-short-name } mi navigator primari
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Importa contrasignos, marcapaginas e <span data-l10n-name="zap">plus</span>
