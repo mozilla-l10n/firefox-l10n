@@ -107,6 +107,7 @@ policy-SearchEngines = Konfigūruoti ieškyklių nuostatas. Ši strategija galim
 policy-SearchSuggestEnabled = Įjungti arba išjungti paieškos žodžių siūlymus.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Diegti PKCS #11 modulius.
+policy-ShowHomeButton = Rodyti pradžios mygtuką priemonių juostoje.
 policy-SSLVersionMax = Nustatyti didžiausią SSL versiją.
 policy-SSLVersionMin = Nustatyti mažiausią SSL versiją.
 policy-SupportMenu = Pridėti specialų pagalbos meniu elementą į žinyno meniu.
