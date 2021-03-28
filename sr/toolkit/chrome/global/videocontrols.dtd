@@ -29,7 +29,7 @@ hovering over the video. -->
 <!-- LOCALIZATION NOTE (pictureInPictureExplainer): This string is used as part of
 a variation of the Picture-in-Picture video toggle button. When using this variation,
 this string appears below the toggle when the mouse hovers the toggle. -->
-<!ENTITY pictureInPictureExplainer "Репродукујте видео-снимке у предњем плану док радите друге ствари у &brandShortName;-у">
+<!ENTITY pictureInPictureExplainer "Пуштајте видео-снимке у предњем плану док радите нешто друго у програму &brandShortName;">
 
 <!ENTITY error.aborted "Учитавање видео-снимка је заустављено.">
 <!ENTITY error.network "Репродукција видео-снимка је прекинута због грешке на мрежи.">
