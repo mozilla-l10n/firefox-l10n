@@ -8,9 +8,9 @@ about-logins-page-title = Пријаве и лозинке
 # "Google Play" and "App Store" are both branding and should not be translated
 
 login-app-promo-title = Понесите лозинке са собом
-login-app-promo-subtitle = Преузмите бесплатну { -lockwise-brand-name } апликацију
+login-app-promo-subtitle = Преузмите бесплатну апликацију { -lockwise-brand-name }
 login-app-promo-android =
-    .alt = Преузмите на Google Play
+    .alt = Преузмите на Google Play-у
 login-app-promo-apple =
     .alt = Преузмите на App Store-у
 login-filter =
@@ -45,7 +45,7 @@ login-list-count =
         [few] { $count } пријаве
        *[other] { $count } пријава
     }
-login-list-sort-label-text = Поређај по:
+login-list-sort-label-text = Сортирај по:
 login-list-name-option = Назив (А-Ш)
 login-list-name-reverse-option = Називу (Z–A)
 about-logins-login-list-alerts-option = Упозорења
