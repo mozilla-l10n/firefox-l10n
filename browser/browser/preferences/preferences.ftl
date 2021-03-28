@@ -28,6 +28,18 @@ search-input-box =
             [windows] חיפוש באפשרויות
            *[other] חיפוש בהעדפות
         }
+settings-page-title = הגדרות
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box2 =
+    .style = width: 15.4em
+    .placeholder = חיפוש בהגדרות
 managed-notice = הדפדפן שלך מנוהל על־ידי הארגון שלך.
 category-list =
     .aria-label = קטגוריות
@@ -52,6 +64,7 @@ category-experimental =
 pane-experimental-subtitle = נא להמשיך בזהירות
 pane-experimental-search-results-header = ניסויים של { -brand-short-name }: נא להמשיך בזהירות
 pane-experimental-description = שינוי העדפות התצורה המתקדמות עשוי להשפיע על הביצועים או אבטחה של { -brand-short-name }.
+pane-experimental-description2 = שינוי הגדרות התצורה המתקדמות עשוי להשפיע על הביצועים או אבטחה של { -brand-short-name }.
 pane-experimental-reset =
     .label = שחזור ברירות מחדל
     .accesskey = ש
@@ -121,6 +134,8 @@ search-results-empty-message =
         [windows] אין תוצאות באפשרויות לביטוי „<span data-l10n-name="query"></span>“, עמך הסליחה.
        *[other] אין תוצאות בהעדפות לביטוי „<span data-l10n-name="query"></span>“, עמך הסליחה.
     }
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 = אין תוצאות בהגדרות לביטוי ״<span data-l10n-name="query"></span>״, עמך הסליחה.
 search-results-help-link = לעזרה נוספת, נא לפנות אל <a data-l10n-name="url">אתר התמיכה של { -brand-short-name }</a>
 
 ## General Section
@@ -382,6 +397,15 @@ update-setting-write-failure-message =
     ‏{ -brand-short-name } נתקל בשגיאה ולא שמר את השינוי הזה. נא לשים לב כי שינוי ההגדרה של העדפת העדכון דורשת הרשאה לכתוב לקובץ שלהלן. ייתכן שתהיה לך או למנהל מערכת אפשרות לתקן את השגיאה על־ידי הענקת שליטה מלאה לקבוצה 'משתמשים' עבור קובץ זה.
     
     לא ניתן לכתוב לקובץ: { $path }
+update-setting-write-failure-title2 = שגיאה בשמירת הגדרות העדכון
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message2 =
+    ‏{ -brand-short-name } נתקל בשגיאה ולא שמר את השינוי הזה. נא לשים לב כי שינוי הגדרת העדכון דורשת הרשאת כתיבה לקובץ שלהלן. ייתכן שתהיה לך או למנהל מערכת אפשרות לתקן את השגיאה על־ידי הענקת שליטה מלאה לקבוצה 'משתמשים' עבור קובץ זה.
+    
+    לא ניתן לכתוב לקובץ: { $path }
 update-in-progress-title = העדכון בתהליך
 update-in-progress-message = האם ברצונך ש־{ -brand-short-name } ימשיך בעדכון זה?
 update-in-progress-ok-button = &ביטול
@@ -579,6 +603,7 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = הצגת הצעות חיפוש בחלונות פרטיים
 suggestions-addressbar-settings-generic = שינוי העדפות עבור הצעות אחרות של שורת הכתובת
+suggestions-addressbar-settings-generic2 = שינוי הגדרות עבור הצעות אחרות של שורת הכתובת
 search-suggestions-cant-show = הצעות חיפוש לא יופיעו בתוצאות סרגל המיקום מכיוון שהגדרת ש־{ -brand-short-name } לעולם לא לזכור היסטוריה.
 search-one-click-header = מנועי חיפוש בלחיצה אחת
 search-one-click-header2 = קיצורי דרך לחיפוש
@@ -613,6 +638,8 @@ containers-back-button =
             [windows] חזרה לאפשרויות
            *[other] חזרה להעדפות
         }
+containers-back-button2 =
+    .aria-label = חזרה להגדרות
 containers-header = מגירת לשוניות
 containers-add-button =
     .label = הוספת מגירה חדשה
@@ -622,6 +649,8 @@ containers-new-tab-check =
     .accesskey = ב
 containers-preferences-button =
     .label = העדפות
+containers-settings-button =
+    .label = הגדרות
 containers-remove-button =
     .label = הסרה
 
@@ -630,6 +659,7 @@ containers-remove-button =
 
 sync-signedout-caption = קחו את הרשת עמכם
 sync-signedout-description = סנכרון הסימניות, ההיסטוריה, הלשוניות, הססמאות, ההרחבות, וההעדפות בין כל מכשיריך.
+sync-signedout-description2 = סנכרון הסימניות, ההיסטוריה, הלשוניות, הססמאות, ההרחבות וההגדרות בין כל המכשירים שלך.
 sync-signedout-account-signin2 =
     .label = התחברות אל { -sync-brand-short-name }…
     .accesskey = ה
@@ -672,6 +702,7 @@ prefs-sync-setup =
     .label = הגדרת { -sync-brand-short-name }…
     .accesskey = ג
 prefs-sync-offer-setup-label = סנכרון הסימניות, ההיסטוריה, הלשוניות, הססמאות, ההרחבות, וההעדפות בין כל המכשירים שלך.
+prefs-sync-offer-setup-label2 = סנכרון הסימניות, ההיסטוריה, הלשוניות, הססמאות, ההרחבות וההגדרות בין כל המכשירים שלך.
 prefs-sync-now =
     .labelnotsyncing = סנכרון כעת
     .accesskeynotsyncing = ס
@@ -692,6 +723,7 @@ sync-currently-syncing-prefs =
         [windows] אפשרויות
        *[other] העדפות
     }
+sync-currently-syncing-settings = הגדרות
 sync-change-options =
     .label = שינוי…
     .accesskey = ש
