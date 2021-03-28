@@ -19,6 +19,20 @@ newtab-search-box-search-button =
     .title = Traži
     .aria-label = Traži
 newtab-search-box-search-the-web-text = Pretraži web
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-text = Traži pomoću { $engine } ili upiši adresu
+newtab-search-box-handoff-text-no-engine = Traži ili upiši adresu
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-input =
+    .placeholder = Traži pomoću { $engine } ili upiši adresu
+    .title = Traži pomoću { $engine } ili upiši adresu
+    .aria-label = Traži pomoću { $engine } ili upiši adresu
+newtab-search-box-handoff-input-no-engine =
+    .placeholder = Traži ili upiši adresu
+    .title = Traži ili upiši adresu
+    .aria-label = Traži ili upiši adresu
 newtab-search-box-search-the-web-input =
     .placeholder = Pretraži web
     .title = Pretraži web
