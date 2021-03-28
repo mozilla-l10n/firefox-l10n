@@ -19,6 +19,20 @@ newtab-search-box-search-button =
     .title = Претражи
     .aria-label = Претражи
 newtab-search-box-search-the-web-text = Претражи веб
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-text = Претражите у претраживачу { $engine } или унесите адресу
+newtab-search-box-handoff-text-no-engine = Претражите или унесите адресу
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-input =
+    .placeholder = Претражите у претраживачу { $engine } или унесите адресу
+    .title = Претражите у претраживачу { $engine } или унесите адресу
+    .aria-label = Претражите у претраживачу { $engine } или унесите адресу
+newtab-search-box-handoff-input-no-engine =
+    .placeholder = Претражите или унесите адресу
+    .title = Претражите или унесите адресу
+    .aria-label = Претражите или унесите адресу
 newtab-search-box-search-the-web-input =
     .placeholder = Претражи веб
     .title = Претражи веб
