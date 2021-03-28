@@ -5,7 +5,7 @@
 window-minimize-command =
     .label = Ridûs a icone
 window-zoom-command =
-    .label = Zoom
+    .label = Ingrandiment
 window-new-shortcut =
     .key = N
 window-minimize-shortcut =

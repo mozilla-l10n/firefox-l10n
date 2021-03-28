@@ -220,14 +220,11 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY saveToPocketCmd.label        "Salve pagjine su Pocket">
-
-<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
-  "Pocket" is a brand name. -->
 <!ENTITY pocketMenuitem.label         "Viôt la liste di Pocket">
 
 <!ENTITY emailPageCmd.label           "Mande colegament vie e-mail...">
 
-<!ENTITY fullZoom.label                 "Zoom">
+<!ENTITY fullZoom.label                 "Ingrandiment">
 
 <!ENTITY sidebarCloseButton.tooltip     "Siere la sbare laterâl">
 

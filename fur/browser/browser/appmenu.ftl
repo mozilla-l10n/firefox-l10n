@@ -35,6 +35,12 @@ appmenuitem-more-tools =
     .label = Plui struments
 appmenuitem-exit =
     .label = Jes
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Jes
+           *[other] Jes
+        }
 appmenu-menu-button-closed =
     .tooltiptext = Vierç menù aplicazion
     .label = { -brand-shorter-name }
