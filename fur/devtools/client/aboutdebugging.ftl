@@ -135,9 +135,73 @@ about-debugging-network-locations-remove-button = Gjave
 # Variables:
 #   $host-value (string) - The input value submitted by the user in the network locations form
 about-debugging-network-location-form-invalid = Host “{ $host-value }” no valit. Il formât spietât al è “nonhost:numarpuarte”.
+# Text used as error message if the input value was already registered in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-duplicate = L'host “{ $host-value }” al è za regjistrât
 
 # Runtime Page strings
 
+# Below are the titles for the various categories of debug targets that can be found
+# on "runtime" pages of about:debugging.
+# Title of the temporary extensions category (only available for "This Firefox" runtime).
+about-debugging-runtime-temporary-extensions =
+    .name = Estensions temporaniis
+# Title of the extensions category.
+about-debugging-runtime-extensions =
+    .name = Estensions
+# Title of the tabs category.
+about-debugging-runtime-tabs =
+    .name = Schedis
+# Title of the service workers category.
+about-debugging-runtime-service-workers =
+    .name = Service Workers
+# Title of the shared workers category.
+about-debugging-runtime-shared-workers =
+    .name = Workers condividûts
+# Title of the other workers category.
+about-debugging-runtime-other-workers =
+    .name = Altris Workers
+# Title of the processes category.
+about-debugging-runtime-processes =
+    .name = Procès
+# Label of the button opening the performance profiler panel in runtime pages for remote
+# runtimes.
+about-debugging-runtime-profile-button2 = Cree profîl prestazions
+# This string is displayed in the runtime page if the current configuration of the
+# target runtime is incompatible with service workers. "Learn more" points to MDN.
+# https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
+about-debugging-runtime-service-workers-not-compatible = La tô configurazion dal navigadôr no je compatibile cui Service Workers. <a>Plui informazions</a>
+# This string is displayed in the runtime page if the remote browser version is too old.
+# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/about:debugging#Troubleshooting
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+# { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
+about-debugging-browser-version-too-old = Il browser conetût al à une version vecje ({ $runtimeVersion }). La version minime supuartade e je ({ $minVersion }). Cheste no je une configurazion supuartade e e podarès fâ falî i struments dai disvilupadôrs. Par plasê inzorne il navigadôr conetût. <a>Risoluzion problemis</a>
+# Dedicated message for a backward compatibility issue that occurs when connecting:
+# from Fx 70+ to the old Firefox for Android (aka Fennec) which uses Fx 68.
+about-debugging-browser-version-too-old-fennec = Cheste version di Firefox no pues esegui il debug a Firefox par Android (68). O conseìn di instalâ Firefox par Android Nightly sul to telefon par provâ. <a>Plui detais</a>
+# This string is displayed in the runtime page if the remote browser version is too recent.
+# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/about:debugging#Troubleshooting
+# { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)
+# { $localID } is the build ID of the current Firefox instance (same format)
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+# { $localVersion } is the version of your current browser (same format)
+about-debugging-browser-version-too-recent = Il browser conetût al è plui resint ({ $runtimeVersion }, buildID { $runtimeID }) di chel dal to { -brand-shorter-name } ({ $localVersion }, buildID { $localID }). Cheste no je une configurazion supuartade e e podarès fâ falî i struments dai disvilupadôrs. Par plasê inzorne Firefox. <a>Risoluzion problemis</a>
+# Displayed for runtime info in runtime pages.
+# { $name } is brand name such as "Firefox Nightly"
+# { $version } is version such as "64.0a1"
+about-debugging-runtime-name = { $name } ({ $version })
+# Text of a button displayed in Runtime pages for remote runtimes.
+# Clicking on the button will close the connection to the runtime.
+about-debugging-runtime-disconnect-button = Disconet
+# Text of the connection prompt button displayed in Runtime pages, when the preference
+# "devtools.debugger.prompt-connection" is false on the target runtime.
+about-debugging-connection-prompt-enable-button = Ative la richieste di conession
+# Text of the connection prompt button displayed in Runtime pages, when the preference
+# "devtools.debugger.prompt-connection" is true on the target runtime.
+about-debugging-connection-prompt-disable-button = Disative la richieste di conession
+# Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
+about-debugging-profiler-dialog-title2 = Profiladôr
 
 # Debug Targets strings
 
