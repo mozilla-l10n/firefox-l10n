@@ -441,7 +441,7 @@ urlbar-placeholder-search-mode-other-tabs =
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
-    .placeholder = Претражите претраживачем { $name } или унесите адресу
+    .placeholder = Претражите у претраживачу { $name } или унесите адресу
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Прегледач је под даљинским управљањем
 urlbar-permissions-granted =
@@ -466,14 +466,14 @@ urlbar-pocket-button =
 # "Search", and we would like to avoid strings like "Search MSN Search".
 # Variables
 #  $engine (String): the name of a search engine
-urlbar-result-action-search-in-private-w-engine = Претражите претраживачем { $engine } у приватном прозору
+urlbar-result-action-search-in-private-w-engine = Претражите у претраживачу { $engine } у приватном прозору
 # Used when the private browsing engine is the same as the default engine.
 urlbar-result-action-search-in-private = Претражите у приватном режиму
 # The "with" format was chosen because the search engine name can end with
 # "Search", and we would like to avoid strings like "Search MSN Search".
 # Variables
 #  $engine (String): the name of a search engine
-urlbar-result-action-search-w-engine = Претражи претраживачем { $engine }
+urlbar-result-action-search-w-engine = Претражи у претраживачу { $engine }
 urlbar-result-action-sponsored = Спонзорисано
 urlbar-result-action-switch-tab = Пребаци на језичак
 urlbar-result-action-visit = Посети
@@ -482,13 +482,13 @@ urlbar-result-action-visit = Посети
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
-urlbar-result-action-before-tabtosearch-web = Притисните Tab да бисте претражили претраживачем { $engine }
+urlbar-result-action-before-tabtosearch-web = Притисните Tab да бисте претражили у претраживачу { $engine }
 # Directs a user to press the Tab key to perform a search with the specified
 # engine.
 # Variables
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
-urlbar-result-action-before-tabtosearch-other = Притисните Tab да бисте претражили претраживачем { $engine }
+urlbar-result-action-before-tabtosearch-other = Притисните Tab да бисте претражили у претраживачу { $engine }
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
