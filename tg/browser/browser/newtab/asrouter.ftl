@@ -74,6 +74,8 @@ cfr-whatsnew-button =
 cfr-whatsnew-panel-header = Чӣ нав аст
 cfr-whatsnew-tracking-protect-link-text = Намоиш додани гузориши ман
 cfr-whatsnew-tracking-blocked-link-text = Дидани гузориш
+cfr-whatsnew-lockwise-backup-title = Эҷод кардани нусхаи эҳтиётии ниҳонвожаҳо
+cfr-whatsnew-lockwise-backup-link-text = Фаъол кардани нусхаҳои эҳтиётӣ
 cfr-whatsnew-lockwise-take-link-text = Барномаро гиред
 
 ## Search Bar

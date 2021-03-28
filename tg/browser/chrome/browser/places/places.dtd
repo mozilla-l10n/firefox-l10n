@@ -27,11 +27,19 @@
 <!ENTITY view.sortDescending.label      "Тартиби мураттаб аз Я > А">
 <!ENTITY view.sortDescending.accesskey  "Я">
 
+<!ENTITY importBookmarksFromHTML.label     "Ворид кардани хатбаракҳо аз HTML…">
+<!ENTITY importBookmarksFromHTML.accesskey "I">
+<!ENTITY importOtherBrowser.label          "Ворид кардани маълумот аз браузери дигар…">
+<!ENTITY importOtherBrowser.accesskey      "A">
 
+<!ENTITY cmd.backup.label               "Нусхаи эҳтиётӣ…">
+<!ENTITY cmd.backup.accesskey           "B">
 <!ENTITY cmd.restoreFromFile.label      "Интихоб кардани файл…">
 
 
 
+<!ENTITY maintenance.label      "Воридот ва нусхаи эҳтиётӣ">
+<!ENTITY maintenance.tooltip    "Воридот ва нусхаи эҳтиётии хатбаракҳо">
 
 
 
