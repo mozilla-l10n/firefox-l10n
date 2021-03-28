@@ -350,6 +350,18 @@ about-logins-import-dialog-error-no-logins-imported = Ниједна прија�
 about-logins-import-dialog-error-learn-more = Сазнајте више
 about-logins-import-dialog-error-try-again = Покушај поново…
 about-logins-import-dialog-error-cancel = Откажи
+about-logins-import-report-title = Сажетак увоза
+about-logins-import-report-description =
+    Подаци за пријаву су увезени у { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "acc") }
+        [feminine] { -brand-short-name(case: "acc") }
+        [neuter] { -brand-short-name(case: "acc") }
+       *[other] програм { -brand-short-name }
+    }.
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = { $number }. ред
 
 ##
 ## Variables:
