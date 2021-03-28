@@ -179,6 +179,16 @@ onboarding-multistage-set-default-subtitle = Брзина, сигурност и
 onboarding-multistage-set-default-primary-button-label = Постави као подразумевани
 onboarding-multistage-set-default-secondary-button-label = Не сада
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-pin-default-header =
+    За почетак сместите <span data-l10n-name="zap">{ -brand-shorter-name.gender ->
+        [masculine] { -brand-short-name(case: "acc") }
+        [feminine] { -brand-short-name(case: "acc") }
+        [neuter] { -brand-short-name(case: "acc") }
+       *[other] програм { -brand-short-name }
+    }</span> надохват руке
+onboarding-multistage-pin-default-subtitle = Претражујте интернет брзо, безбедно и приватно.
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Увезите лозинке, <br/>обележиваче и <span data-l10n-name="zap">друго</span>
 onboarding-multistage-import-subtitle = Долазите од другог прегледача? Све можете лако увести у { -brand-short-name }.
@@ -198,6 +208,7 @@ onboarding-welcome-steps-indicator =
 onboarding-multistage-theme-header = Изаберите <span data-l10n-name="zap">изглед</span>
 onboarding-multistage-theme-subtitle = Прилагодите { -brand-short-name } темом.
 onboarding-multistage-theme-primary-button-label = Сачувај тему
+onboarding-multistage-theme-primary-button-label2 = Готово
 onboarding-multistage-theme-secondary-button-label = Не сада
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = Аутоматски
