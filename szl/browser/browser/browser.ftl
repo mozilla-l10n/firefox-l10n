@@ -377,6 +377,13 @@ browser-tab-unmute =
         [few] Załōncz klang { $count } kartōw
        *[many] Załōncz klang { $count } kartōw
     }
+browser-tab-unblock =
+    { $count ->
+        [1] Puść we karcie
+        [one] Puść w { $count } karcie
+        [few] Puść we { $count } kartach
+       *[many] Puść we { $count } kartach
+    }
 
 ## Bookmarks toolbar items
 
@@ -393,6 +400,16 @@ popup-select-camera =
 popup-select-microphone =
     .value = Mikrofōn do udostympniynio:
     .accesskey = M
+popup-select-camera-device =
+    .value = Kamera:
+    .accesskey = K
+popup-select-camera-icon =
+    .tooltiptext = Kamera
+popup-select-microphone-device =
+    .value = Mikrofōn:
+    .accesskey = M
+popup-select-microphone-icon =
+    .tooltiptext = Mikrofōn
 popup-all-windows-shared = Wszyske ôkna widziane na ekranie bydōm udostympniōne.
 popup-screen-sharing-not-now =
     .label = Niy teroz
@@ -402,6 +419,13 @@ popup-screen-sharing-never =
     .accesskey = N
 popup-silence-notifications-checkbox = Zastow powiadōmiynia ôd { -brand-short-name } przi udostympnianiu
 popup-silence-notifications-checkbox-warning = { -brand-short-name } niy bydzie pokazować powiadōmiyń w czasie udostympnianio.
+popup-screen-sharing-block =
+    .label = Szperuj
+    .accesskey = S
+popup-screen-sharing-always-block =
+    .label = Zawdy szperuj
+    .accesskey = w
+popup-mute-notifications-checkbox = Wyłōncz powiadōmiynia ze strōn przi udostympnianiu
 
 ## WebRTC window or screen share tab switch warning
 
@@ -542,6 +566,8 @@ crashed-subframe-message = <strong>Kōnsek tyj strōny mo awaryjo.</strong>. Po�
 crashed-subframe-learnmore =
     .label = Przewiydz sie wiyncyj
     .accesskey = P
+crashed-subframe-learnmore-link =
+    .value = Przewiydz sie wiyncyj
 crashed-subframe-submit =
     .label = Poślij rapaort
     .accesskey = R
@@ -634,12 +660,22 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Klang abo filmy na tyj strōnie używajōm softwaru DRM, co może zmyńszyć to, co { -brand-short-name } poradzi zrobić.
+eme-notifications-drm-content-playing-manage = Regiyruj sztalōnkami
+eme-notifications-drm-content-playing-manage-accesskey = R
+eme-notifications-drm-content-playing-dismiss = Ôdkoż
+eme-notifications-drm-content-playing-dismiss-accesskey = O
 
 ## Password save/update panel
 
+panel-save-update-username = Miano ôd używocza
+panel-save-update-password = Hasło
 
 ## Add-on removal warning
 
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = Skasować { $name }?
+addon-removal-abuse-report-checkbox = Dej znac ô tym rozszyrzyniu do { -vendor-short-name }
 
 ## Remote / Synced tabs
 

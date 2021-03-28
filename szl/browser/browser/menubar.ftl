@@ -11,6 +11,8 @@
 
 ## Application Menu (macOS only)
 
+menu-application-preferences =
+    .label = Preferyncyje
 menu-application-services =
     .label = Usugi
 menu-application-hide-this =
@@ -111,6 +113,9 @@ menu-edit =
 menu-edit-find-on =
     .label = Znojdź na tyj strōnie…
     .accesskey = Z
+menu-edit-find-in-page =
+    .label = Znojdź na strōnie…
+    .accesskey = Z
 menu-edit-find-again =
     .label = Znojdź zaś
     .accesskey = n
@@ -129,6 +134,9 @@ menu-view-toolbars-menu =
 menu-view-customize-toolbar =
     .label = Przipasuj…
     .accesskey = u
+menu-view-customize-toolbar2 =
+    .label = Przipasuj posek z noczyniami…
+    .accesskey = P
 menu-view-sidebar =
     .label = Boczny posek
     .accesskey = B
@@ -219,6 +227,8 @@ menu-bookmarks-show-all =
     .label = Pokoż wszyskie zokłodki
 menu-bookmark-this-page =
     .label = Przidej ta strōna do zokłodek
+menu-bookmark-current-tab =
+    .label = Przidej aktualno karta do zookłodek
 menu-bookmark-edit =
     .label = Edytuj ta zokłodka
 menu-bookmarks-all-tabs =
@@ -244,6 +254,12 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Zaloguj sie do aplikacyje { -brand-product-name }…
     .accesskey = l
+menu-tools-addons-and-themes =
+    .label = Rozszyrzynia i motywy
+    .accesskey = R
+menu-tools-fxa-sign-in2 =
+    .label = Wloguj
+    .accesskey = W
 menu-tools-turn-on-sync =
     .label = Załōncz { -sync-brand-short-name }…
     .accesskey = n
@@ -256,12 +272,25 @@ menu-tools-fxa-re-auth =
 menu-tools-web-developer =
     .label = Do deweloperōw
     .accesskey = w
+menu-tools-browser-tools =
+    .label = Noczynia przeglōndarki
+    .accesskey = N
+menu-tools-task-manager =
+    .label = Mynedżer zadań
+    .accesskey = M
 menu-tools-page-source =
     .label = Zdrzōdło strōny
     .accesskey = o
 menu-tools-page-info =
     .label = Informacyje ô strōnie
     .accesskey = I
+menu-settings =
+    .label = Sztalōnki
+    .accesskey =
+        { PLATFORM() ->
+            [windows] S
+           *[other] n
+        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -285,15 +314,6 @@ menu-window-bring-all-to-front =
     .label = Przeniyś wszysko do przodku
 
 ## Help Menu
-
-
-# NOTE: For Engineers, any additions or changes to Help menu strings should
-# also be reflected in the related strings in appmenu.ftl. Those strings, by
-# convention, will have the same ID as these, but prefixed with "app".
-# Example: appmenu-help-product
-#
-# These strings are duplicated to allow for different casing depending on
-# where the strings appear.
 
 
 # NOTE: For Engineers, any additions or changes to Help menu strings should
@@ -327,6 +347,9 @@ menu-help-troubleshooting-info =
     .accesskey = b
 menu-help-taskmanager =
     .label = Mynedżer zadań
+menu-help-more-troubleshooting-info =
+    .label = Wiyncyj ô rozwiōnzowaniu problymōw
+    .accesskey = r
 menu-help-report-site-issue =
     .label = Dej znać ô problymie ze strōnōm…
 menu-help-feedback-page =
@@ -338,6 +361,12 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Resztartuj ze załōnczōnymi roszyrzyniami
     .accesskey = R
+menu-help-enter-troubleshoot-mode2 =
+    .label = Tryb rozwiōnzowanio problymōw…
+    .accesskey = T
+menu-help-exit-troubleshoot-mode =
+    .label = Wyłōncz tryb rozwiōnzowanio problymōw
+    .accesskey = T
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
@@ -346,6 +375,3 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = To niy ma ôszydno strōna…
     .accesskey = c
-menu-help-check-for-update =
-    .label = Badnij za aktualizacyjami…
-    .accesskey = B
