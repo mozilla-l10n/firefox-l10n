@@ -389,6 +389,14 @@ update-setting-write-failure-message =
     
     無法寫入下列檔案: { $path }
 update-setting-write-failure-title2 = 儲存更新設定時發生錯誤
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message2 =
+    { -brand-short-name } 遇到錯誤，並未儲存此變更。請注意: 調整此更新選項，需要能夠寫入下列檔案的權限。您或您的系統管理員可以透過授予使用者此檔案的完整控制權，來解決本問題。
+    
+    無法寫入下列檔案: { $path }
 update-in-progress-title = 更新中
 update-in-progress-message = 您希望 { -brand-short-name } 使用此更新繼續嗎？
 update-in-progress-ok-button = 捨棄 (&D)
@@ -1171,6 +1179,8 @@ space-alert-under-5gb-message = { -brand-short-name } 的磁碟空間不足，�
 space-alert-over-5gb-settings-button =
     .label = 開啟選項
     .accesskey = O
+space-alert-over-5gb-message2 = <strong>{ -brand-short-name } 的磁碟空間不足。</strong>網站內容可能無法正確顯示。您可以到「選項 > 隱私權與安全性 > Cookie 與網站資料」清除目前儲存的網站資料。
+space-alert-under-5gb-message2 = <strong>{ -brand-short-name } 的磁碟空間不足。</strong>網站內容可能無法正確顯示。請點擊「瞭解更多」清理磁碟空間，讓您有更好的瀏覽體驗。
 
 ## Privacy Section - HTTPS-Only
 
