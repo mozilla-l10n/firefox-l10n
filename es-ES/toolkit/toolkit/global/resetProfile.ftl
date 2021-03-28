@@ -12,3 +12,4 @@ refresh-profile-remove = Eliminará sus complementos y personalizaciones
 refresh-profile-restore = Reiniciará la configuración de su navegador a sus valores predetermiinados
 refresh-profile = Dar un repaso a { -brand-short-name }
 refresh-profile-button = Restablecer { -brand-short-name }…
+refresh-profile-learn-more = Saber más

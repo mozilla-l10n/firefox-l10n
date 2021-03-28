@@ -28,6 +28,18 @@ search-input-box =
             [windows] Encontrar en Opciones
            *[other] Encontrar en Preferencias
         }
+settings-page-title = Ajustes
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box2 =
+    .style = width: 15.4em
+    .placeholder = Buscar en ajustes
 managed-notice = Su navegador está siendo administrado por su organización.
 category-list =
     .aria-label = Categorías
@@ -52,6 +64,7 @@ category-experimental =
 pane-experimental-subtitle = Continuar con precaución
 pane-experimental-search-results-header = Experimentos de { -brand-short-name }: Proceder con precaución
 pane-experimental-description = Cambiar las preferencias de configuración avanzada puede afectar el rendimiento o la seguridad de { -brand-short-name }.
+pane-experimental-description2 = Cambiar los ajustes de configuración avanzada puede afectar el rendimiento o la seguridad de { -brand-short-name }.
 pane-experimental-reset =
     .label = Restaurar predeterminados
     .accesskey = R
@@ -579,6 +592,7 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Mostrar sugerencias de búsqueda en ventanas privadas
 suggestions-addressbar-settings-generic = Cambiar preferencias para otras sugerencias de la barra de direcciones
+suggestions-addressbar-settings-generic2 = Cambiar configuración para otras sugerencias de la barra de direcciones
 search-suggestions-cant-show = Las sugerencias de búsqueda no se mostrarán en los resultados de la barra de direcciones porque ha configurado { -brand-short-name } para que nunca recuerde el historial.
 search-one-click-header = Buscadores con un clic
 search-one-click-header2 = Atajos de búsqueda
@@ -630,6 +644,7 @@ containers-remove-button =
 
 sync-signedout-caption = Llévese la web con usted
 sync-signedout-description = Sincronice sus marcadores, historial, pestañas, contraseñas, complementos y preferencias en todos sus dispositivos.
+sync-signedout-description2 = Sincronice sus marcadores, historial, pestañas, contraseñas, complementos y ajustes en todos sus dispositivos.
 sync-signedout-account-signin2 =
     .label = Iniciar sesión en{ -sync-brand-short-name }…
     .accesskey = I
@@ -672,6 +687,7 @@ prefs-sync-setup =
     .label = Configurar { -sync-brand-short-name }…
     .accesskey = C
 prefs-sync-offer-setup-label = Sincronice sus marcadores, historial, pestañas, contraseñas, complementos y preferencias en todos sus dispositivos.
+prefs-sync-offer-setup-label2 = Sincronice sus marcadores, historial, pestañas, contraseñas, complementos y ajustes en todos sus dispositivos.
 prefs-sync-now =
     .labelnotsyncing = Sincronizar ahora
     .accesskeynotsyncing = N
