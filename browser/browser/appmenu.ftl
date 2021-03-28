@@ -11,7 +11,7 @@ appmenuitem-update-banner =
             [masculine] { -brand-shorter-name(case: "gen") }
             [feminine] { -brand-shorter-name(case: "gen") }
             [neuter] { -brand-shorter-name(case: "gen") }
-           *[other] aplikace { -brand-shorter-name }
+           *[other] { "" }
         }
 appmenuitem-update-banner2 =
     .label-update-downloading =
@@ -19,12 +19,12 @@ appmenuitem-update-banner2 =
             [masculine] { -brand-shorter-name(case: "gen") }
             [feminine] { -brand-shorter-name(case: "gen") }
             [neuter] { -brand-shorter-name(case: "gen") }
-           *[other] aplikace { -brand-shorter-name }
+           *[other] { "" }
         }
-    .label-update-available = Je k dispozici nová aktualizace — stáhnout
-    .label-update-manual = Je k dispozici nová aktualizace — stáhnout
-    .label-update-unsupported = Nelze nainstalovat aktualizaci
-    .label-update-restart = Je k dispozici nová aktualizace — restartovat
+    .label-update-available = Nová aktualizace — stáhnout
+    .label-update-manual = Nová aktualizace — stáhnout
+    .label-update-unsupported = Nelze nainstalovat novou aktualizaci
+    .label-update-restart = Nová aktualizace — restartovat
 appmenuitem-protection-dashboard-title = Přehled ochrany soukromí
 appmenuitem-customize-mode =
     .label = Nastavení tlačítek a lišt…
