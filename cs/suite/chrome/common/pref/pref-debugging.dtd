@@ -20,10 +20,17 @@
 <!ENTITY debugPaintFlashingChrome.label "Zvýrazňování překreslování Chrome">
 <!ENTITY debugPaintFlashingChrome.accesskey "e">
 <!ENTITY debugPaintDumping.label "Dump vykreslení">
+<!ENTITY debugPaintDumping.accesskey "v">
 <!ENTITY debugEventDumping.label "Dump události">
+<!ENTITY debugEventDumping.accesskey "d">
+<!ENTITY debugMotionEventDumping.label "Dump události pohybu">
+<!ENTITY debugMotionEventDumping.accesskey "p">
 
 <!-- Reflow Event Debugging -->
 <!ENTITY debugReflowEvents.label                 "Přeformátovat události">
 <!ENTITY debugReflowShowFrameCounts.label        "Zobrazit započtené snímky">
+<!ENTITY debugReflowShowFrameCounts.accesskey    "s">
 <!ENTITY debugReflowDumpFrameCounts.label        "Dump započtených snímků">
+<!ENTITY debugReflowDumpFrameCounts.accesskey    "D">
 <!ENTITY debugReflowDumpFrameByFrameCounts.label "Dump snímek po snímku">
+<!ENTITY debugReflowDumpFrameByFrameCounts.accesskey "u">
