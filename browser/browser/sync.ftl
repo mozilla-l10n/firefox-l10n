@@ -13,6 +13,7 @@ fxa-disconnect-dialog-title = Desconectar { -brand-product-name }?
 fxa-disconnect-dialog-body = { -brand-product-name } deterá a sincronización coa súa conta, pero non eliminará ningún dos seus datos de navegación neste dispositivo.
 sync-disconnect-dialog-button = Desconectar
 fxa-signout-dialog-heading = Desconectar do { -fxaccount-brand-name }
+fxa-signout-dialog2-title = Desexa pechar sesión en { -fxaccount-brand-name }?
 fxa-signout-dialog-body = Os datos sincronizados permanecerán na súa conta.
 fxa-signout-checkbox =
     .label = Eliminar os datos deste dispositivo (contas de acceso, contrasinais, historial, marcadores, etc.).

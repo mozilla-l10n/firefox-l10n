@@ -7,6 +7,12 @@
 
 appmenuitem-update-banner =
     .label-update-downloading = Descargando a actualización de { -brand-shorter-name }
+appmenuitem-update-banner2 =
+    .label-update-downloading = Estase a descargar unha actualización de { -brand-shorter-name }
+    .label-update-available = Actualización dispoñíbel — descargar agora
+    .label-update-manual = Actualización dispoñíbel — descargar agora
+    .label-update-unsupported = Non foi posíbel actualizar
+    .label-update-restart = Actualización dispoñíbel — reiniciar agora
 appmenuitem-protection-dashboard-title = Panel de proteccións
 appmenuitem-customize-mode =
     .label = Personalizar…
@@ -21,12 +27,20 @@ appmenuitem-passwords =
     .label = Contrasinais
 appmenuitem-extensions-and-themes =
     .label = Extensións e temas
+appmenuitem-addons-and-themes =
+    .label = Complementos e temas
 appmenuitem-find-in-page =
     .label = Atopar na páxina…
 appmenuitem-more-tools =
     .label = Máis ferramentas
 appmenuitem-exit =
     .label = Saír
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Saír
+           *[other] Saír
+        }
 appmenu-menu-button-closed =
     .tooltiptext = Abrir menú da aplicación
     .label = { -brand-shorter-name }
@@ -163,6 +177,9 @@ appmenu-help-safe-mode-with-addons =
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-enter-troubleshoot-mode2 =
+    .label = Modo de resolución de problemas…
+    .accesskey = r
 appmenu-help-exit-troubleshoot-mode =
     .label = Desactivar o modo de resolución de problemas
     .accesskey = M

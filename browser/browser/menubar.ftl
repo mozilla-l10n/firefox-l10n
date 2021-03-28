@@ -11,6 +11,8 @@
 
 ## Application Menu (macOS only)
 
+menu-application-preferences =
+    .label = Preferencias
 menu-application-services =
     .label = Servizos
 menu-application-hide-this =
@@ -252,9 +254,9 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Iniciar sesión en { -brand-product-name } ...
     .accesskey = I
-menu-tools-extensions =
-    .label = Extensións e temas
-    .accesskey = E
+menu-tools-addons-and-themes =
+    .label = Complementos e temas
+    .accesskey = C
 menu-tools-fxa-sign-in2 =
     .label = Identificarse
     .accesskey = I
@@ -270,12 +272,25 @@ menu-tools-fxa-re-auth =
 menu-tools-web-developer =
     .label = Web Developer
     .accesskey = W
+menu-tools-browser-tools =
+    .label = Ferramentas do navegador
+    .accesskey = F
+menu-tools-task-manager =
+    .label = Xestor de tarefas
+    .accesskey = X
 menu-tools-page-source =
     .label = Código da páxina
     .accesskey = C
 menu-tools-page-info =
     .label = Información da páxina
     .accesskey = n
+menu-settings =
+    .label = Configuración
+    .accesskey =
+        { PLATFORM() ->
+            [windows] S
+           *[other] n
+        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -285,13 +300,6 @@ menu-preferences =
     .accesskey =
         { PLATFORM() ->
             [windows] O
-           *[other] n
-        }
-menu-settings =
-    .label = Configuración
-    .accesskey =
-        { PLATFORM() ->
-            [windows] S
            *[other] n
         }
 menu-tools-layout-debugger =
@@ -337,11 +345,11 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = Información para solucionar problemas
     .accesskey = b
+menu-help-taskmanager =
+    .label = Xestor de tarefas
 menu-help-more-troubleshooting-info =
     .label = Máis información para solucionar problemas
     .accesskey = P
-menu-help-taskmanager =
-    .label = Xestor de tarefas
 menu-help-report-site-issue =
     .label = Informar dunha incidencia no sitio…
 menu-help-feedback-page =
@@ -353,9 +361,9 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Reiniciar cos complementos activados
     .accesskey = R
-menu-help-enter-troubleshoot-mode =
-    .label = Modo de resolución de problemas
-    .accesskey = M
+menu-help-enter-troubleshoot-mode2 =
+    .label = Modo de resolución de problemas…
+    .accesskey = r
 menu-help-exit-troubleshoot-mode =
     .label = Desactivar o modo de resolución de problemas
     .accesskey = M
