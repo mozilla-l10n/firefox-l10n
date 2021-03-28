@@ -400,6 +400,16 @@ popup-select-camera =
 popup-select-microphone =
     .value = Микрофон за дељење:
     .accesskey = M
+popup-select-camera-device =
+    .value = Камера:
+    .accesskey = К
+popup-select-camera-icon =
+    .tooltiptext = Камера
+popup-select-microphone-device =
+    .value = Микрофон
+    .accesskey = М
+popup-select-microphone-icon =
+    .tooltiptext = Микрофон
 popup-all-windows-shared = Сви видљиви прозори на екрану ће бити подељени.
 popup-screen-sharing-not-now =
     .label = Не сада
@@ -409,6 +419,13 @@ popup-screen-sharing-never =
     .accesskey = Н
 popup-silence-notifications-checkbox = Онемогућите обавештења од { -brand-short-name }-а током дељења
 popup-silence-notifications-checkbox-warning = { -brand-short-name } неће приказивати обавештења док делите.
+popup-screen-sharing-block =
+    .label = Блокирај
+    .accesskey = Б
+popup-screen-sharing-always-block =
+    .label = Увек блокирај
+    .accesskey = У
+popup-mute-notifications-checkbox = Током дељења искључи обавештења веб-сајтова
 
 ## WebRTC window or screen share tab switch warning
 
@@ -549,6 +566,8 @@ crashed-subframe-message = <strong>Део странице се срушио. </
 crashed-subframe-learnmore =
     .label = Сазнајте више
     .accesskey = L
+crashed-subframe-learnmore-link =
+    .value = Сазнајте више
 crashed-subframe-submit =
     .label = Поднесите извештај
     .accesskey = S
@@ -641,9 +660,15 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Неки аудио или видео на овом сајту користи DRM софтвер, што може ограничити могућности које { -brand-short-name } допушта да урадите са њим.
+eme-notifications-drm-content-playing-manage = Управљање подешавањима
+eme-notifications-drm-content-playing-manage-accesskey = У
+eme-notifications-drm-content-playing-dismiss = Одбаци
+eme-notifications-drm-content-playing-dismiss-accesskey = О
 
 ## Password save/update panel
 
+panel-save-update-username = Корисничко име
+panel-save-update-password = Лозинка
 
 ## Add-on removal warning
 

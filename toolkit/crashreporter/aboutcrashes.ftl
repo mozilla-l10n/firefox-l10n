@@ -10,7 +10,7 @@ delete-unsubmitted-description = Ово ће избрисати све недо�
 delete-submitted-description = Ово ће уклонити листу достављених извештаја о паду, али неће избрисати достављене податке. Ово се не може поништити.
 crashes-unsubmitted-label = Извештаји о рушењу који нису послати
 id-heading = ID извештаја
-date-crashed-heading = Датум рушења
+date-crashed-heading = Датум отказивања
 submit-crash-button-label = Пошаљи
 # This text is used to replace the label of the crash submit button
 # if the crash submission fails.
