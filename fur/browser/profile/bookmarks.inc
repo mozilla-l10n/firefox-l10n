@@ -63,7 +63,7 @@
 
 # LOCALIZATION NOTE (crashes):
 # Nightly builds only, link title for about:crashes
-#define crashes All your crashes
+#define crashes Ducj i tiei colàs
 
 # LOCALIZATION NOTE (planet):
 # Nightly builds only, link title for https://planet.mozilla.org/
