@@ -6,7 +6,7 @@ restore-page-tab-title = Обнови сесију
 # The title is intended to be apologetic and disarming, expressing dismay
 # and regret that we are unable to restore the session for the user
 restore-page-error-title = Жао нам је. Имамо проблем са повраћајем ваших страница.
-restore-page-problem-desc = Имамо проблем са обнављањем ваше последње сесије. Покушајте поново да је обновите кликом на Обнови сесију дугме.
+restore-page-problem-desc = Није могуће вратити вашу последњу сесију. Покушајте поново кликом на дугме „Врати сесију”.
 restore-page-try-this = И даље не можете обновити сесију? Понекад неки језичак изазива овакав проблем. Прегледајте ваше језичке, одзначите оне које не желите да обновите и онда покушајте поново.
 restore-page-hide-tabs = Сакриј претходне језичке
 restore-page-show-tabs = Прикажи претходне језичке
