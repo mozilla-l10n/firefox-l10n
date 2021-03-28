@@ -269,6 +269,7 @@ identity-https-only-dropdown-off =
     .label = Ғайрифаъол
 identity-https-only-dropdown-off-temporarily =
     .label = Муваққатан ғайрифаъол
+identity-ev-owner-label = Гувоҳинома дода шуд ба:
 identity-remove-cert-exception =
     .label = Тоза кардани истисно
     .accesskey = Т

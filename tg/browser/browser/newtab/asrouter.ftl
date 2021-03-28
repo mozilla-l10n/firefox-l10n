@@ -130,6 +130,7 @@ cfr-doorhanger-milestone-ok-button = Ҳамаро дидан
 
 ## Lockwise message
 
+cfr-whatsnew-lockwise-icon-alt = Нишони { -lockwise-brand-short-name }
 
 ## Vulnerable Passwords message
 

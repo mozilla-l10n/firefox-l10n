@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-learn-more = Маълумоти бештар
+do-not-track-option-always =
+    .label = Ҳамеша
 pref-page-title =
     { PLATFORM() ->
         [windows] Имконот
@@ -23,6 +25,7 @@ search-input-box =
             [windows] Ҷустуҷӯ дар имконот
            *[other] Ҷустуҷӯ дар хусусиятҳо
         }
+settings-page-title = Танзимот
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -34,19 +37,33 @@ search-input-box =
 search-input-box2 =
     .style = width: 15.4em
     .placeholder = Ҷустуҷӯ дар танзимот
+managed-notice = Браузери шумо аз тарафи ташкилоти шумо идора карда мешавад.
+category-list =
+    .aria-label = Категорияҳо
+pane-general-title = Умумӣ
 category-general =
     .tooltiptext = { pane-general-title }
+pane-home-title = Саҳифаи асосӣ
 category-home =
     .tooltiptext = { pane-home-title }
 pane-search-title = Ҷустуҷӯ
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title = Махфият ва амният
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
+pane-experimental-title = Озмоишҳои { -brand-short-name }
 category-experimental =
     .tooltiptext = Озмоишҳои { -brand-short-name }
+pane-experimental-subtitle = Бо эҳтиёт идома диҳед
+pane-experimental-search-results-header = Озмоишҳои { -brand-short-name }: Бо эҳтиёт идома диҳед
+pane-experimental-reset =
+    .label = Барқарор кардани пешфарзҳо
+    .accesskey = Б
+help-button-label = Дастгирии { -brand-short-name }
 
 ## Browser Restart Dialog
 
