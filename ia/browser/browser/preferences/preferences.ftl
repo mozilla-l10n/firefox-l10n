@@ -29,6 +29,17 @@ search-input-box =
            *[other] Cercar in le preferentias
         }
 settings-page-title = Parametros
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box2 =
+    .style = width: 16em
+    .placeholder = Cercar in parametros
 managed-notice = Tu navigator debe ser gerite per tu organisation.
 category-list =
     .aria-label = Categorias
@@ -53,6 +64,7 @@ category-experimental =
 pane-experimental-subtitle = Proceder con cautela
 pane-experimental-search-results-header = Experimentos { -brand-short-name }: continuar con attention
 pane-experimental-description = Cambiar le preferentias avantiate de configuration pote haber impacto sur le prestationes e le securitate de { -brand-short-name }.
+pane-experimental-description2 = Cambiar parametros de configuration avantiate pote haber impacto sur le prestationes e le securitate de { -brand-short-name }.
 pane-experimental-reset =
     .label = Restaurar predefinitiones
     .accesskey = R
@@ -122,6 +134,8 @@ search-results-empty-message =
         [windows] Pardono! Il ha nulle resultato in le optiones pro “<span data-l10n-name="query"></span>”.
        *[other] Pardono! Il ha nulle resultato in le preferentias pro “<span data-l10n-name="query"></span>”.
     }
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 = Pardono! Il ha nulle resultato in le parametros pro “<span data-l10n-name="query"></span>”.
 search-results-help-link = Require adjuta? Visita <a data-l10n-name="url">Assistentia de { -brand-short-name }</a>
 
 ## General Section
@@ -370,6 +384,9 @@ update-application-check-choose =
 update-application-manual =
     .label = Non cercar jammais actualisationes (non recommendate)
     .accesskey = N
+update-application-background-enabled =
+    .label = Quando { -brand-short-name } non es in execution
+    .accesskey = Q
 update-application-warning-cross-user-setting = Iste configuration sera applicate a tote le contos de Windows e profilos de { -brand-short-name } per iste installation de { -brand-short-name }.
 update-application-use-service =
     .label = Usar un servicio in secunde plano pro installar le actualisationes
@@ -381,6 +398,15 @@ update-setting-write-failure-title = Impossibile registrar preferentias de actua
 # intentional so the path is easier to identify.
 update-setting-write-failure-message =
     { -brand-short-name } ha incontrate un error e non ha potite registrar iste cambiamento. Nota que modificar iste preferentia de actualisation necessita le permission de scriber al file mentionate infra. Tu, o un administrator de systema, pote forsan corriger le problema per conceder al gruppo Usatores le controlo complete de iste file.
+    
+    Impossibile scriber al file: { $path }
+update-setting-write-failure-title2 = Impossibile registrar parametros de actualisation
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message2 =
+    { -brand-short-name } ha incontrate un error e non ha potite registrar iste cambiamento. Nota que modificar iste parametro de actualisation necessita le permission de scriber al file mentionate infra. Tu, o un administrator de systema, pote forsan corriger le problema per conceder al gruppo Usatores le controlo complete de iste file.
     
     Impossibile scriber al file: { $path }
 update-in-progress-title = Actualisation in curso
