@@ -8,9 +8,15 @@ safe-mode-window =
 start-safe-mode =
     .label = Покрени у безбедном режиму
 refresh-profile =
-    .label = Освежи { -brand-short-name }
+    .label =
+        Освежавање { -brand-short-name.gender ->
+            [masculine] { -brand-short-name(case: "acc") }
+            [feminine] { -brand-short-name(case: "acc") }
+            [neuter] { -brand-short-name(case: "acc") }
+           *[other] програма { -brand-short-name }
+        }
 safe-mode-description = Безбедни режим је специјалан режим { -brand-short-name } који се користи да би се решили проблеми.
 safe-mode-description-details = Ваша подешавања додатака и прилагођена подешавања ће бити привремено онемогућена и могућности програма { -brand-short-name } можда неће радити као што је то предвиђено.
 refresh-profile-instead = Такође можете прескочити решавање проблема и пробати освежити { -brand-short-name }.
-# Shown on the safe mode dialog after multiple startup crashes. 
+# Shown on the safe mode dialog after multiple startup crashes.
 auto-safe-mode-description = { -brand-short-name } се неочекивано затворио при покретању. Ово може бити проузроковано од стране додатака или других проблема. Можете пробати да решите проблем тако што ћете отворити безбедни режим.
