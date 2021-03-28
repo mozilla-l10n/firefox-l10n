@@ -35,6 +35,12 @@ appmenuitem-more-tools =
     .label = Más herramientas
 appmenuitem-exit =
     .label = Salir
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Salir
+           *[other] Salir
+        }
 appmenu-menu-button-closed =
     .tooltiptext = Abrir el menú de la aplicación
     .label = { -brand-shorter-name }
