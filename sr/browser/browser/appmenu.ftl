@@ -73,9 +73,21 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Синхронизуј сада
+appmenuitem-fxa-toolbar-sync-now2 = Синхронизуј
+appmenuitem-fxa-manage-account = Управљај налогом
 appmenu-fxa-header =
     .title = { -fxaccount-brand-name }
+# Variables
+# $time (string) - Localized relative time since last sync (e.g. 1 second ago,
+# 3 hours ago, etc.)
+appmenu-fxa-last-sync = Последња синхронизација { $time }
+    .label = Последња синхронизација { $time }
+appmenu-fxa-sync-and-save-data =
+    .value = Синхронизуј и сачувај податке
 appmenu-fxa-signed-in-label = Пријави ме
+appmenu-fxa-setup-sync =
+    .label = Укључи синхронизацију…
+appmenu-fxa-show-more-tabs = Прикажи још картица
 appmenuitem-save-page =
     .label = Сачувај страницу као…
 
