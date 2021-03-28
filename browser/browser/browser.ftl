@@ -377,6 +377,13 @@ browser-tab-unmute =
         [few] УКЉУЧИ ЗВУК { $count } КАРТИЦЕ
        *[other] УКЉУЧИ ЗВУК { $count } КАРТИЦА
     }
+browser-tab-unblock =
+    { $count ->
+        [1] ПУСТИ КАРТИЦУ
+        [one] ПУСТИ { $count } КАРТИЦУ
+        [few] ПУСТИ { $count } КАРТИЦЕ
+       *[other] ПУСТИ { $count } КАРТИЦА
+    }
 
 ## Bookmarks toolbar items
 
