@@ -362,11 +362,17 @@ about-logins-import-report-description =
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = { $number }. ред
+about-logins-import-report-row-description-no-change = Дупликат: таква пријава већ постоји
+about-logins-import-report-row-description-modified = Ажурирана је постојећа пријава
+about-logins-import-report-row-description-added = Додата је нова пријава
+about-logins-import-report-row-description-error = Грешка: недостаје поље
 
 ##
 ## Variables:
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
+about-logins-import-report-row-description-error-multiple-values = Грешка: више вредности за поље { $field }
+about-logins-import-report-row-description-error-missing-field = Грешка: недостаје поље { $field }
 
 ##
 ## Variables:
@@ -377,6 +383,12 @@ about-logins-import-report-added =
         [one] Додата је <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">нова пријава</div>
         [few] Додате су <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">нове пријаве</div>
        *[other] Додато је <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">нових пријава</div>
+    }
+about-logins-import-report-modified =
+    { $count ->
+        [one] Ажурирана је <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">пријава</div>
+        [few] Ажуриране су <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">пријаве</div>
+       *[other] Ажурирано је <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">пријава</div>
     }
 about-logins-import-report-no-change =
     { $count ->
