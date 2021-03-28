@@ -11,6 +11,7 @@ refresh-profile-description = Recomenciar ab un stato pristine pro eliminar prob
 refresh-profile-description-details = Isto:
 refresh-profile-remove = Removera tu additivos e personalisationes
 refresh-profile-restore = Restaurara le parametros de tu navigator a lor predefinitiones
+refresh-profile-dialog-description = Comencia de novo pro resolver problemas de rendimento. Isto removera tu extensiones e personalisationes. Tu non perdera informationes essential como marcapaginas e contrasignos.
 refresh-profile = Da a { -brand-short-name } un affinamento
 refresh-profile-button = Refrescar { -brand-short-name }…
 refresh-profile-learn-more = Saper plus
