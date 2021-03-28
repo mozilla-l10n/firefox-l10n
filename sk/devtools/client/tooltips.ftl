@@ -20,7 +20,7 @@ inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> nemá na ten
 inactive-css-not-grid-item = <strong>{ $property }</strong> nemá na tento prvok žiadny vplyv, pretože nejde o grid položku.
 inactive-css-not-grid-container = <strong>{ $property }</strong> nemá na tento prvok žiadny vplyv, pretože nejde o grid kontajner.
 inactive-css-not-flex-item = <strong>{ $property }</strong> nemá na tento prvok žiadny vplyv, pretože nejde o položku kontajnera typu flex.
-inactive-css-not-flex-container = <strong>{ $property }</strong> nemá na tento prvok žiadny vplyv, pretože nejde o flex kontajner.
+inactive-css-not-flex-container = <strong>{ $property }</strong> nemá na tento prvok žiadny vplyv, pretože nejde o kontajner typu flex.
 inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> nemá na tento prvok žiadny vplyv, pretože nejde o vložený prvok ani prvok tabuľky.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
