@@ -527,6 +527,9 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing-manage = Идоракунии танзимот
+eme-notifications-drm-content-playing-manage-accesskey = M
+eme-notifications-drm-content-playing-dismiss = Нодида гузарондан
+eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Password save/update panel
 
@@ -538,6 +541,7 @@ panel-save-update-password = Ниҳонвожа
 # Variables:
 #  $name (String): The name of the addon that will be removed.
 addon-removal-title = { $name }-ро тоза мекунед?
+addon-removal-abuse-report-checkbox = Фиристодани гузориш дар бораи ин васеъшавӣ ба { -vendor-short-name }
 
 ## Remote / Synced tabs
 
