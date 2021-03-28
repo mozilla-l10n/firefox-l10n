@@ -372,6 +372,24 @@ about-logins-import-report-row-index = { $number }. ред
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-report-added =
+    { $count ->
+        [one] Додата је <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">нова пријава</div>
+        [few] Додате су <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">нове пријаве</div>
+       *[other] Додато је <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">нових пријава</div>
+    }
+about-logins-import-report-no-change =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">дупликат пријаве</div> <div data-l10n-name="not-imported">(није увезено)</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">дупликата пријава</div> <div data-l10n-name="not-imported">(није увезено)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">дупликата пријава</div> <div data-l10n-name="not-imported">(није увезено)</div>
+    }
+about-logins-import-report-error =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">грешка</div> <div data-l10n-name="not-imported">(није увезено)</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">грешке</div> <div data-l10n-name="not-imported">(није увезено)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">грешака</div> <div data-l10n-name="not-imported">(није увезено)</div>
+    }
 
 ## Logins import report page
 
