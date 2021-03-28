@@ -219,3 +219,67 @@ about-debugging-debug-target-inspect-button = Ispezione
 # Text of a button displayed in the "This Firefox" page, in the Temporary Extension
 # section. Clicking on the button will open a file picker to load a temporary extension
 about-debugging-tmp-extension-install-button = Cjame une zonte temporanie…
+# Text displayed when trying to install a temporary extension in the "This Firefox" page.
+about-debugging-tmp-extension-install-error = Al è vignût fûr un erôr dilunc la instalazion de zonte temporanie.
+# Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
+# Clicking on the button will reload the extension.
+about-debugging-tmp-extension-reload-button = Torne cjame
+# Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
+# Clicking on the button will uninstall the extension and remove it from the page.
+about-debugging-tmp-extension-remove-button = Gjave
+# Message displayed in the file picker that opens to select a temporary extension to load
+# (triggered by the button using "about-debugging-tmp-extension-install-button")
+# manifest.json .xpi and .zip should not be localized.
+# Note: this message is only displayed in Windows and Linux platforms.
+about-debugging-tmp-extension-install-message = selezione un file manifest.json opûr un archivi .xpi/.zip
+# This string is displayed as a message about the add-on having a temporaryID.
+about-debugging-tmp-extension-temporary-id = Cheste WebExtension e à un ID temporani. <a>Plui informazions</a>
+# Text displayed for extensions in "runtime" pages, before displaying a link the extension's
+# manifest URL.
+about-debugging-extension-manifest-url =
+    .label = URL dal manifest
+# Text displayed for extensions in "runtime" pages, before displaying the extension's uuid.
+# UUIDs look like b293e463-481e-5148-a487-5aaf7a130429
+about-debugging-extension-uuid =
+    .label = UUID interni
+# Text displayed for extensions (temporary extensions only) in "runtime" pages, before
+# displaying the location of the temporary extension.
+about-debugging-extension-location =
+    .label = Posizion
+# Text displayed for extensions in "runtime" pages, before displaying the extension's ID.
+# For instance "geckoprofiler@mozilla.com" or "{ed26ddcb-5611-4512-a89a-51b8db81cfb2}".
+about-debugging-extension-id =
+    .label = ID de estension
+# This string is displayed as a label of the button that pushes a test payload
+# to a service worker.
+# Note this relates to the "Push" API, which is normally not localized so it is
+# probably better to not localize it.
+about-debugging-worker-action-push2 = Push
+    .disabledTitle = Pal moment il push dal Service Worker al è disativât pe version multiprocès di { -brand-shorter-name }
+# This string is displayed as a label of the button that starts a service worker.
+about-debugging-worker-action-start2 = Start
+    .disabledTitle = Pal moment l'inviament dal Service Worker al è disativât pe version multiprocès di { -brand-shorter-name }
+# This string is displayed as a label of the button that unregisters a service worker.
+about-debugging-worker-action-unregister = Deregjistre
+# Displayed for service workers in runtime pages that listen to Fetch events.
+about-debugging-worker-fetch-listening =
+    .label = Fetch
+    .value = Daûr a scoltâ i events fetch
+# Displayed for service workers in runtime pages that do not listen to Fetch events.
+about-debugging-worker-fetch-not-listening =
+    .label = Fetch
+    .value = No si sta scoltant i events fetch
+# Displayed for service workers in runtime pages that are currently running (service
+# worker instance is active).
+about-debugging-worker-status-running = In esecuzion
+# Displayed for service workers in runtime pages that are registered but stopped.
+about-debugging-worker-status-stopped = Fermât
+# Displayed for service workers in runtime pages that are registering.
+about-debugging-worker-status-registering = Daûr a regjistrâ
+# Displayed for service workers in runtime pages, to label the scope of a worker
+about-debugging-worker-scope =
+    .label = Ambit
+# Displayed for service workers in runtime pages, to label the push service endpoint (url)
+# of a worker
+about-debugging-worker-push-service =
+    .label = Servizi Push
