@@ -7,6 +7,12 @@
 
 appmenuitem-update-banner =
     .label-update-downloading = Discargamento in curso del actualisation de { -brand-shorter-name }
+appmenuitem-update-banner2 =
+    .label-update-downloading = Discargamento in curso del actualisation de { -brand-shorter-name }
+    .label-update-available = Actualisation disponibile — discargar ora
+    .label-update-manual = Actualisation disponibile — discargar ora
+    .label-update-unsupported = Impossibile actualisar
+    .label-update-restart = Actualisation disponibile — reinitiar ora
 appmenuitem-protection-dashboard-title = Pannello del protectiones
 appmenuitem-customize-mode =
     .label = Personalisar…

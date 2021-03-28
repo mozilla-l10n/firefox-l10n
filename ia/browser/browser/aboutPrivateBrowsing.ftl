@@ -9,6 +9,10 @@ about-private-browsing-info-title = Tu es in un fenestra private
 about-private-browsing-info-myths = Mythos commun sur le navigation private
 about-private-browsing =
     .title = Cercar in le Web
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff =
+    .title = Cercar con { $engine } o inserer un adresse
 about-private-browsing-handoff-no-engine =
     .title = Cercar o inserer un adresse
 # Variables
