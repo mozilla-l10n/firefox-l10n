@@ -120,6 +120,8 @@ urlbar-canvas-blocked =
     .tooltiptext = Шумо барои ин сомона гирифтани маълумотро аз canvas манъ кардед.
 urlbar-midi-blocked =
     .tooltiptext = Шумо барои ин сомона дастрасии MIDI-ро манъ кардед.
+urlbar-install-blocked =
+    .tooltiptext = Шумо барои ин сомона насбкунии ҷузъи иловагиро манъ кардед.
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =

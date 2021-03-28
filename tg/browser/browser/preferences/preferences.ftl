@@ -403,7 +403,20 @@ history-clear-button =
 
 ## Privacy Section - Site Data
 
+sitedata-header = Кукиҳо ва иттилооти сомона
 sitedata-learn-more = Маълумоти бештар
+sitedata-allow-cookies-option =
+    .label = Қабул кардани кукиҳо ва иттилооти сомона
+    .accesskey = Қ
+sitedata-disallow-cookies-option =
+    .label = Манъ кардани кукиҳо ва иттилооти сомона
+    .accesskey = М
+sitedata-cookies-permissions =
+    .label = Идоракунии иҷозатҳо…
+    .accesskey = И
+sitedata-cookies-exceptions =
+    .label = Идоракунии истисноҳо…
+    .accesskey = И
 
 ## Privacy Section - Address Bar
 
@@ -434,6 +447,10 @@ content-blocking-learn-more = Маълумоти бештар
 
 ##
 
+content-blocking-cross-site-cookies = Кукиҳои байнисомонавӣ
+content-blocking-cross-site-tracking-cookies = Кукиҳои васоити пайгирӣ байни сомонаҳо
+content-blocking-all-cookies = Ҳамаи кукиҳо
+content-blocking-unvisited-cookies = Кукиҳо аз сомонаҳои боқимонда
 content-blocking-fingerprinters = Хонандаи изи ангушт
 # Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
 # that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
