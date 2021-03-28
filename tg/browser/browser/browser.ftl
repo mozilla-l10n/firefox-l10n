@@ -114,6 +114,12 @@ urlbar-persistent-storage-blocked =
     .tooltiptext = Шумо барои ин сомона захирагоҳи доимии худро манъ кардед.
 urlbar-popup-blocked =
     .tooltiptext = Шумо барои ин сомона равзанаҳои зоҳиршавандаро манъ кардед.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = Шумо барои ин сомона пахши худкори медиаи овоздорро манъ кардед.
+urlbar-canvas-blocked =
+    .tooltiptext = Шумо барои ин сомона гирифтани маълумотро аз canvas манъ кардед.
+urlbar-midi-blocked =
+    .tooltiptext = Шумо барои ин сомона дастрасии MIDI-ро манъ кардед.
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
