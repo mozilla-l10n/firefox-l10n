@@ -28,6 +28,18 @@ search-input-box =
             [windows] Buscar en opciones
            *[other] Buscar en preferencias
         }
+settings-page-title = Preferencias
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box2 =
+    .style = width: 15.4em
+    .placeholder = Buscar en Configuración
 managed-notice = El navegador está administrado por su organización.
 category-list =
     .aria-label = Categorías
@@ -52,6 +64,7 @@ category-experimental =
 pane-experimental-subtitle = Proceder con precaución
 pane-experimental-search-results-header = { -brand-short-name } Experimentos: proceder con precaución
 pane-experimental-description = Cambiar las preferencias de configuración avanzada puede afectar el rendimiento o la seguridad de { -brand-short-name }.
+pane-experimental-description2 = Cambiar las preferencias de configuración avanzada puede afectar el rendimiento o la seguridad de { -brand-short-name }.
 pane-experimental-reset =
     .label = Restaurar predeterminados
     .accesskey = R
@@ -121,6 +134,8 @@ search-results-empty-message =
         [windows] ¡Lo sentimos! No hay resultados en opciones para “<span data-l10n-name="query"></span>”.
        *[other] ¡Lo sentimos! No hay resultados en preferencias para “<span data-l10n-name="query"></span>”.
     }
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 = ¡Disculpe! No hay resultados en Preferencias para “<span data-l10n-name="query"></span>”.
 search-results-help-link = ¿Necesita ayuda? Visite <a data-l10n-name="url">Ayuda de { -brand-short-name }</a>
 
 ## General Section
@@ -369,6 +384,9 @@ update-application-check-choose =
 update-application-manual =
     .label = No buscar actualizaciones (no recomendado)
     .accesskey = N
+update-application-background-enabled =
+    .label = Cuando { -brand-short-name } no se esté ejecutando
+    .accesskey = W
 update-application-warning-cross-user-setting = Esta configuración se aplicará a todas las cuentas de Windows y los perfiles de { -brand-short-name } usando esta instalación de { -brand-short-name }.
 update-application-use-service =
     .label = Usar un servicio en segundo plano para instalar actualizaciones
@@ -380,6 +398,15 @@ update-setting-write-failure-title = Error al guardar las preferencias de actual
 # intentional so the path is easier to identify.
 update-setting-write-failure-message =
     { -brand-short-name } encontró un error y no guardó este cambio. Tenga en cuenta que la configuración de esta preferencia de actualización requiere permiso para escribir en el archivo a continuación. Es posible que usted o un administrador del sistema puedan resolver el error otorgando al grupo de Usuarios el control total de este archivo.
+    
+    No se pudo escribir en el archivo: { $path }
+update-setting-write-failure-title2 = Error al guardar la configuración de actualizaciones
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message2 =
+    { -brand-short-name } encontró un error y no guardó este cambio. Tenga en cuenta que cambiar la configuración de esta preferencia de actualización requiere permiso para escribir en el archivo que se encuentra a continuación. Es posible que usted o un administrador del sistema puedan resolver el error otorgando el control total de este archivo al grupo de Usuarios.
     
     No se pudo escribir en el archivo: { $path }
 update-in-progress-title = Actualización en curso
@@ -579,6 +606,7 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Mostrar sugerencias de búsqueda en pestañas privadas
 suggestions-addressbar-settings-generic = Cambiar preferencias para otras sugerencias de la barra de direcciones
+suggestions-addressbar-settings-generic2 = Cambiar preferencias para otras sugerencias de la barra de direcciones
 search-suggestions-cant-show = Las sugerencias de búsqueda no se mostrarán en la barra de direcciones porque ha configurado { -brand-short-name } para que nunca recuerde el historial.
 search-one-click-header = Buscadores con un clic
 search-one-click-header2 = Atajos de búsqueda
@@ -613,6 +641,8 @@ containers-back-button =
             [windows] Regresar a Opciones
            *[other] Regresar a Preferencias
         }
+containers-back-button2 =
+    .aria-label = Volver a Preferencias
 containers-header = Pestañas contenedoras
 containers-add-button =
     .label = Agregar nuevo contenedor
@@ -622,6 +652,8 @@ containers-new-tab-check =
     .accesskey = S
 containers-preferences-button =
     .label = Preferencias
+containers-settings-button =
+    .label = Preferencias
 containers-remove-button =
     .label = Eliminar
 
@@ -630,6 +662,7 @@ containers-remove-button =
 
 sync-signedout-caption = Llévese la web con usted
 sync-signedout-description = Sincronice marcadores, historial, pestañas, contraseñas, complementos y preferencias en todos sus dispositivos.
+sync-signedout-description2 = Sincronice marcadores, historial, pestañas, contraseñas, complementos y preferencias en todos sus dispositivos.
 sync-signedout-account-signin2 =
     .label = Iniciar sesión en { -sync-brand-short-name }…
     .accesskey = i
@@ -672,6 +705,7 @@ prefs-sync-setup =
     .label = Configurar { -sync-brand-short-name }…
     .accesskey = S
 prefs-sync-offer-setup-label = Sincronice marcadores, historial, pestañas, contraseñas, complementos y preferencias en todos sus dispositivos.
+prefs-sync-offer-setup-label2 = Sincronice marcadores, historial, pestañas, contraseñas, complementos y preferencias en todos sus dispositivos.
 prefs-sync-now =
     .labelnotsyncing = Sincronizar ahora
     .accesskeynotsyncing = N
@@ -692,6 +726,7 @@ sync-currently-syncing-prefs =
         [windows] Opciones
        *[other] Preferencias
     }
+sync-currently-syncing-settings = Preferencias
 sync-change-options =
     .label = Cambiar…
     .accesskey = C
@@ -738,6 +773,10 @@ sync-engine-prefs =
            *[other] Preferencias
         }
     .tooltiptext = Configuración general, de provacidad y de seguridad que hayan cambiado
+    .accesskey = s
+sync-engine-settings =
+    .label = Preferencias
+    .tooltiptext = Usted hizo cambios en las preferencias General, y  Privacidad y seguridad
     .accesskey = s
 
 ## The device name controls.
@@ -1153,6 +1192,11 @@ space-alert-under-5gb-ok-button =
     .label = Perfecto, lo entiendo
     .accesskey = P
 space-alert-under-5gb-message = { -brand-short-name } se está quedando sin espacio en disco. Contenidos del sitio web pueden no mostrarse correctamente. Ver “Conocer más” para optimizar el uso del disco para una mejor experiencia de navegación.
+space-alert-over-5gb-settings-button =
+    .label = Abrir Preferencias
+    .accesskey = O
+space-alert-over-5gb-message2 = <strong>{ -brand-short-name } se está quedando sin espacio en el disco. </strong> Puede que los contenidos de los sitios web no se muestren adecuadamente. Puede eliminar los datos almacenados en Preferencias > Privacidad y seguridad > Cookies y Datos del sitio.
+space-alert-under-5gb-message2 = <strong>{ -brand-short-name } se está quedando sin espacio en el disco.</strong> Los contenidos del sitio web pueden no mostrarse correctamente. Visite "Conocer más" para optimizar el uso del disco y mejorar la experiencia de navegación.
 
 ## Privacy Section - HTTPS-Only
 
