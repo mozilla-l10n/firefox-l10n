@@ -102,6 +102,18 @@ main-context-menu-bookmark-add =
     .aria-label = Забележи ову страницу
     .accesskey = m
     .tooltiptext = Забележи ову страницу
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-add-mac =
+    .label = Обележи страницу
+    .accesskey = б
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-edit-mac =
+    .label = Уреди обележивач
+    .accesskey = б
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-add-with-shortcut =
@@ -136,6 +148,9 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-bookmark-this-link =
     .label = Забележи ову везу
     .accesskey = L
+main-context-menu-bookmark-link =
+    .label = Обележи линк
+    .accesskey = б
 main-context-menu-save-link =
     .label = Сачувај везу као…
     .accesskey = k
