@@ -23,13 +23,7 @@ appmenuitem-update-banner2 =
         }
     .label-update-available = Je k dispozici nová aktualizace — stáhnout
     .label-update-manual = Je k dispozici nová aktualizace — stáhnout
-    .label-update-unsupported =
-        { -brand-shorter-name.gender ->
-            [masculine] { -brand-shorter-name(case: "acc") }
-            [feminine] { -brand-shorter-name(case: "acc") }
-            [neuter] { -brand-shorter-name(case: "acc") }
-           *[other] Aplikaci { -brand-shorter-name }
-        } nelze aktualizovat
+    .label-update-unsupported = Nelze nainstalovat aktualizaci
     .label-update-restart = Je k dispozici nová aktualizace — restartovat
 appmenuitem-protection-dashboard-title = Přehled ochrany soukromí
 appmenuitem-customize-mode =
