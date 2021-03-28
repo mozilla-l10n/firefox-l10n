@@ -80,6 +80,32 @@ about-debugging-refresh-usb-devices-button = Inzorne i dispositîfs
 
 # Title of the Setup page.
 about-debugging-setup-title = Configurazion
+# Introduction text in the Setup page to explain how to configure remote debugging.
+about-debugging-setup-intro = Configure il metodi di conession che tu desideris doprâ par eseguî il debug di lontan dal to dispositîf.
+# Explanatory text in the Setup page about what the 'This Firefox' page is for
+about-debugging-setup-this-firefox2 = Dopre <a>{ about-debugging-this-firefox-runtime-name }</a> par eseguî il debug di estensions e di “service workers” su cheste version di { -brand-shorter-name }.
+# Title of the heading Connect section of the Setup page.
+about-debugging-setup-connect-heading = Conet un dispositîf
+# USB section of the Setup page
+about-debugging-setup-usb-title = USB
+# Explanatory text displayed in the Setup page when USB debugging is disabled
+about-debugging-setup-usb-disabled = Ativant chest, tu discjamarâs e zontarâs a { -brand-shorter-name } i components necessaris pal debug vie USB di Android.
+# Text of the button displayed in the USB section of the setup page when USB debugging is disabled.
+# Clicking on it will download components needed to debug USB Devices remotely.
+about-debugging-setup-usb-enable-button = Ative dispositîfs USB
+# Text of the button displayed in the USB section of the setup page when USB debugging is enabled.
+about-debugging-setup-usb-disable-button = Disative dispositîfs USB
+# Text of the button displayed in the USB section of the setup page while USB debugging
+# components are downloaded and installed.
+about-debugging-setup-usb-updating-button = Daûr a inzornâ…
+# USB section of the Setup page (USB status)
+about-debugging-setup-usb-status-enabled = Ativât
+about-debugging-setup-usb-status-disabled = Disativât
+about-debugging-setup-usb-status-updating = Daûr a inzornâ…
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-dev-menu2 = Ative il menù Svilupadôr sul to dispositîf Android.
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug2 = Ative lis operazions di debug vie USB intal menù Svilupadôr di Android.
 
 # Runtime Page strings
 
