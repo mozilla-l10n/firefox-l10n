@@ -113,6 +113,7 @@ onboarding-multistage-welcome-secondary-button-label = Ворид шудан
 onboarding-multistage-welcome-secondary-button-text = Ҳисобе доред?
 onboarding-multistage-set-default-primary-button-label = Ҳамчун пешфарз танзим кунед
 onboarding-multistage-set-default-secondary-button-label = Ҳоло не
+onboarding-multistage-pin-default-primary-button-label = Таъин кардани { -brand-short-name } ҳамчун браузери асосии ман
 onboarding-multistage-import-primary-button-label = Оғоз кардани воридкунӣ
 onboarding-multistage-import-secondary-button-label = Ҳоло не
 onboarding-multistage-theme-primary-button-label = Нигоҳ доштани мавзӯъ

@@ -148,8 +148,13 @@ colors-settings =
     .accesskey = Р
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Танзими андоза
+preferences-default-zoom = Андозаи пешфарз
+    .accesskey = А
 preferences-default-zoom-value =
     .label = { $percentage }%
+preferences-zoom-text-only =
+    .label = Калон кардани танҳо андозаи матн
+    .accesskey = К
 language-header = Забон
 choose-language-description = Забони дилхоҳатонро барои намоиши саҳифаҳо интихоб намоед
 choose-button =
@@ -711,7 +716,9 @@ content-blocking-all-cookies = Ҳамаи кукиҳо
 content-blocking-unvisited-cookies = Кукиҳо аз сомонаҳои боқимонда
 content-blocking-all-windows-tracking-content = Муҳтавои пайгирикунанда дар ҳамаи равзанаҳо
 content-blocking-all-third-party-cookies = Ҳамаи кукиҳои тарафҳои сеюм
+content-blocking-cryptominers = Криптомайнерҳо
 content-blocking-fingerprinters = Хонандаи изи ангушт
+content-blocking-warning-title = Диққат!
 content-blocking-warning-learn-how = Бифаҳмед, ки чӣ тавр
 content-blocking-reload-description = Барои татбиқ кардани ин тағйирот шумо бояд варақаҳои худро аз нав бор кунед.
 content-blocking-reload-tabs-button =
@@ -815,8 +822,12 @@ security-block-downloads =
 
 ## Privacy Section - Certificates
 
+certs-header = Гувоҳиномаҳо
 certs-view =
     .label = Дидани гувоҳиномаҳо…
+    .accesskey = Д
+certs-devices =
+    .label = Дастгоҳҳои амниятӣ…
     .accesskey = Д
 space-alert-learn-more-button =
     .label = Маълумоти бештар
@@ -832,15 +843,29 @@ space-alert-over-5gb-pref-button =
             [windows] И
            *[other] Х
         }
+space-alert-under-5gb-ok-button =
+    .label = Хуб, фаҳмидам
+    .accesskey = Х
+space-alert-over-5gb-settings-button =
+    .label = Кушодани танзимот
+    .accesskey = К
 
 ## Privacy Section - HTTPS-Only
 
+httpsonly-header = Реҷаи «Танҳо HTTPS»
 httpsonly-learn-more = Маълумоти бештар
+httpsonly-radio-enabled =
+    .label = Фаъол кардани реҷаи «Танҳо HTTPS» дар ҳамаи равзанаҳо
+httpsonly-radio-enabled-pbm =
+    .label = Фаъол кардани реҷаи «Танҳо HTTPS» танҳо дар равзанаҳои махфӣ
+httpsonly-radio-disabled =
+    .label = Реҷаи «Танҳо HTTPS» фаъол карда нашавад
 
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Мизи корӣ
 downloads-folder-name = Боргириҳо
+choose-download-folder-title = Интихоби ҷузвдон барои боргириҳо:
 # Variables:
 #   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
 save-files-to-cloud-storage =
