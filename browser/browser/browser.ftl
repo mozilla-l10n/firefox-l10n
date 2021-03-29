@@ -430,7 +430,7 @@ popup-mute-notifications-checkbox = Током дељења искључи об�
 ## WebRTC window or screen share tab switch warning
 
 sharing-warning-window = Делите { -brand-short-name }. Други људи могу да виде када пређете на нови језичак.
-sharing-warning-screen = Делите цео екран. Други људи могу да виде када пређете на нови језичак.
+sharing-warning-screen = Делите цео екран. Други људи могу да виде када пређете на нову картицу.
 sharing-warning-proceed-to-tab =
     .label = Наставите на језичак
 sharing-warning-disable-for-session =
