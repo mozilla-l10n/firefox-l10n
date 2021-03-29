@@ -99,16 +99,29 @@ search-results-header = Натиҷаи ҷустуҷӯ
 startup-header = Оғози кор
 get-started-not-logged-in = Ба { -sync-brand-short-name } ворид шавед…
 get-started-configured = Кушодани хусусиятҳои { -sync-brand-short-name }
+set-as-my-default-browser =
+    .label = Ҳамчун пешфарз танзим кунед…
+    .accesskey = Ҳ
 startup-restore-previous-session =
     .label = Барқарор кардани ҷаласаи қаблӣ
     .accesskey = Б
 disable-extension =
     .label = Ғайрифаъол кардани васеъшавӣ
 tabs-group-header = Варақаҳо
+switch-links-to-new-tabs =
+    .label = Вақте ки варақаи нав кушода мешавад, он бояд дарҳол намоиш дода шавад
+    .accesskey = h
+show-tabs-in-taskbar =
+    .label = Намоиш додани пешнамоиши варақа дар навори вазифаи равзанаҳо
+    .accesskey = Н
+browser-containers-enabled =
+    .label = Фаъол кардани варақаи дарбаргиранда
+    .accesskey = Ф
 browser-containers-learn-more = Маълумоти бештар
 browser-containers-settings =
     .label = Танзимот…
     .accesskey = Т
+containers-disable-alert-title = Ҳамаи варақаҳои дарбаргирандаро мепӯшед?
 containers-disable-alert-ok-button =
     { $tabCount ->
         [one] Пӯшидани { $tabCount } варақаи дарбаргиранда
@@ -255,12 +268,18 @@ update-application-version = Версияи { $version } <a data-l10n-name="lear
 update-history =
     .label = Намоиши таърихи навсозиҳо…
     .accesskey = Н
+update-in-progress-title = Навсозӣ идома дорад
+update-in-progress-ok-button = &Рад кардан
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Идома додан
 
 ## General Section - Performance
 
+performance-title = Самаранокӣ
+performance-use-recommended-settings-checkbox =
+    .label = Истифодаи танзимоти самаранокии тавсияшуда
+    .accesskey = И
 performance-settings-learn-more = Маълумоти бештар
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.

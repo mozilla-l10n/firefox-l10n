@@ -67,6 +67,8 @@ connection-proxy-reload =
 connection-dns-over-https =
     .label = Фаъол кардани DNS тавассути HTTPS
     .accesskey = Ф
+connection-dns-over-https-url-resolver = Истифодаи таъминкунанда
+    .accesskey = И
 # Variables:
 #   $name (String) - Display name or URL for the DNS over HTTPS provider
 connection-dns-over-https-url-item-default =
