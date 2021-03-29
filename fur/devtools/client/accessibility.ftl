@@ -34,8 +34,16 @@ accessibility-text-label-issue-form-visible = I elements dal formulari a àn di 
 accessibility-text-label-issue-frame = I elements <code>frame</code> a scugnin vê une etichete. <a>Plui informazions</a>
 accessibility-text-label-issue-glyph = Dopre l'atribût <code>alt</code> par etichetâ i elements <span>mglyph</span>. <a>Plui informazions</a>
 accessibility-text-label-issue-heading = Lis intestazions a scugnin vê une etichete. <a>Plui informazions</a>
+accessibility-text-label-issue-heading-content = Lis informazions a àn di vê un contignût di test visibil. <a>Plui informazions</a>
+accessibility-text-label-issue-iframe = Dopre l'atribût <code>title</code> par descrivi il contignût <span>iframe</span>. <a>Plui informazions</a>
+accessibility-text-label-issue-image = I contignûts cum imagjins a scugnin vê une etichete. <a>Plui informazions</a>
+accessibility-text-label-issue-interactive = I elements interatîfs a scugnin vê une etichete. <a>Plui informazions</a>
+accessibility-text-label-issue-optgroup-label2 = Dopre un atribût <code>label</code> par etichetâ un <span>optgroup</span>. <a>Plui informazions</a>
+accessibility-text-label-issue-toolbar = Lis sbaris dai struments a scugnin vê une etichete cuant che a 'nd è plui di une. <a>Plui informazions</a>
 
 ## Text entries for a paragraph used in the accessibility panel sidebar's checks section
 ## that describe that currently selected accessible object has a keyboard accessibility
 ## issue.
 
+accessibility-keyboard-issue-tabindex = Evite di doprâ l'atribût <code>tabindex</code> cun valôrs plui grancj di zero. <a>Plui informazions</a>
+accessibility-keyboard-issue-action = Si scugne rivâ a ativâ i elements interatîfs doprant une tastiere. <a>Plui informazions</a>
