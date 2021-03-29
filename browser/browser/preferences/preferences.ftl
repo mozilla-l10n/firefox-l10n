@@ -29,6 +29,17 @@ search-input-box =
            *[other] Recercar dins Preferéncias
         }
 settings-page-title = Paramètres
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box2 =
+    .style = width: 19em
+    .placeholder = Cercar pels paramètres
 managed-notice = Vòstra organizacion gerís vòstre navegador.
 category-list =
     .aria-label = Categorias
@@ -53,6 +64,7 @@ category-experimental =
 pane-experimental-subtitle = Agissètz amb prudéncia
 pane-experimental-search-results-header = Experiéncias de { -brand-short-name } : siatz atentiu
 pane-experimental-description = Cambiar las configuracions avançadas pòt influenciar las performanças o la seguretat de { -brand-short-name }.
+pane-experimental-description2 = Cambiar las configuracions avançadas pòt influenciar las performanças o la seguretat de { -brand-short-name }.
 pane-experimental-reset =
     .label = Restablir los paramètres per defaut
     .accesskey = R
@@ -122,6 +134,8 @@ search-results-empty-message =
         [windows] Desolat ! I a pas de resultats dins Opcions per « <span data-l10n-name="query"></span> ».
        *[other] Desolat ! I a pas de resultats dins Preferéncias per « <span data-l10n-name="query"></span> ».
     }
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 = Desolat ! I a pas de resultats dins los Paramètres per « <span data-l10n-name="query"></span> ».
 search-results-help-link = Vos cal d’ajuda ? Consultatz l’<a data-l10n-name="url">Assisténcia de { -brand-short-name }</a>
 
 ## General Section
@@ -370,6 +384,9 @@ update-application-check-choose =
 update-application-manual =
     .label = Verificar pas jamai las mesas a jorns (pas recomandat)
     .accesskey = N
+update-application-background-enabled =
+    .label = Quand { -brand-short-name } es pas aviat
+    .accesskey = Q
 update-application-warning-cross-user-setting = Aqueste paramètres s’aplicarà a totes los comptes Windows e perfils { -brand-short-name } qu’utilizant aquesta installacion de { -brand-short-name }.
 update-application-use-service =
     .label = Utilizar un servici en rèireplan per installar las mesas a jorn
@@ -589,6 +606,7 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Mostrar las suggestions de recèrca en navegacion privada
 suggestions-addressbar-settings-generic = Cambiar las preferéncias per las suggestions de la barra d’adreça
+suggestions-addressbar-settings-generic2 = Cambiar los paramètres per las suggestions de la barra d’adreça
 search-suggestions-cant-show = Recercar las suggestions que son pas afichadas dins los resultats de la barra d'adreça qu'avètz configurat { -brand-short-name } per pas jamai servar l'istoric.
 search-one-click-header = Motor de recèrca en un clic
 search-one-click-header2 = Acorchis de recèrca
@@ -687,6 +705,7 @@ prefs-sync-setup =
     .label = Configurar { -sync-brand-short-name }…
     .accesskey = C
 prefs-sync-offer-setup-label = Sincronizar vòstres marcapaginas, istoric, onglets, senhals, moduls, e preferéncias per totes vòstres periferics.
+prefs-sync-offer-setup-label2 = Sincronizar vòstres marcapaginas, istoric, onglets, senhals, moduls, e paramètres per totes vòstres periferics.
 prefs-sync-now =
     .labelnotsyncing = Sincronizar ara
     .accesskeynotsyncing = n
@@ -755,6 +774,10 @@ sync-engine-prefs =
         }
     .tooltiptext = Los paramètres qu’avètz cambiat dins General, Vida Privada e Seguretat
     .accesskey = s
+sync-engine-settings =
+    .label = Paramètres
+    .tooltiptext = Paramètres generals, de confidencialitat e de seguretat que cambiaretz
+    .accesskey = P
 
 ## The device name controls.
 
@@ -1172,6 +1195,8 @@ space-alert-under-5gb-message = { -brand-short-name } a pas mai d'espaci disc. L
 space-alert-over-5gb-settings-button =
     .label = Dobrir los paramètres
     .accesskey = D
+space-alert-over-5gb-message2 = { -brand-short-name } manca d’espaci disc. Lo contengut dels sites web poiriá s’afichar mal. Podètz escafar las donadas de site enregistradas dins Paramètres > Vida privada e seguretat > Cookies e donadas de sites.
+space-alert-under-5gb-message2 = <strong>{ -brand-short-name } a pas mai d'espaci disc.</strong> Los contenguts del site web pòdon s'afichar pas coma cal. Clicatz « Ne saber mai » per optimizar l'utilizacion de vòstre disc per melhorar la navegacion.
 
 ## Privacy Section - HTTPS-Only
 
