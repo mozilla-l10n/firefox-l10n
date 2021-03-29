@@ -3,6 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 screenshots-context-menu = Ta eit skjermbilde
+screenshot-toolbarbutton =
+    .label = Skjermbilde
+    .tooltiptext = Ta eit skjermbilde
 screenshots-my-shots-button = Mine skjermbilde
 screenshots-instructions = Drag eller klikk på sida for å velje eit område. Trykk på ESC for å avbryte.
 screenshots-cancel-button = Avbryt
