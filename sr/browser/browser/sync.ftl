@@ -21,3 +21,5 @@ fxa-signout-dialog =
     .title = Одјава са { -fxaccount-brand-name(case: "gen") }
     .style = min-width: 375px;
     .buttonlabelaccept = Одјави ме
+fxa-signout-dialog2-button = Одјави ме
+fxa-signout-dialog2-checkbox = Избриши податке са овог уређаја (лозинке, историју, обележиваче итд.)

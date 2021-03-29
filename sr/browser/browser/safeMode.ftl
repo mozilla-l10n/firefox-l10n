@@ -7,6 +7,17 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = Покрени у безбедном режиму
+troubleshoot-mode-window =
+    .title =
+        Отворити { -brand-short-name.gender ->
+            [masculine] { -brand-short-name(case: "acc") }
+            [feminine] { -brand-short-name(case: "acc") }
+            [neuter] { -brand-short-name(case: "acc") }
+           *[other] програм { -brand-short-name }
+        } у режиму за решавање проблема?
+    .style = max-width: 400px
+start-troubleshoot-mode =
+    .label = Отвори
 refresh-profile =
     .label =
         Освежавање { -brand-short-name.gender ->
