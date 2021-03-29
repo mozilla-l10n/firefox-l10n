@@ -9,6 +9,16 @@ about-private-browsing-info-title = Eikehína ovetã ñemíme
 about-private-browsing-info-myths = Mombe’uguau kundaha ñemi rehegua
 about-private-browsing =
     .title = Eheka ñandutípe
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff =
+    .title = Eheka { $engine } ndive térã emoinge kundaharape
+about-private-browsing-handoff-no-engine =
+    .title = Eheka térã ehai kundaharape
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff-text = Eheka { $engine } ndive térã emoinge kundaharape
+about-private-browsing-handoff-text-no-engine = Eheka térã ehai kundaharape
 about-private-browsing-not-private = Ko’ag̃aite nereiméi peteĩ ovetã ñemíme.
 about-private-browsing-info-description = { -brand-short-name } ombogue jeheka ha kundaha rembiasakue esẽvo tembipuru’ígui térã embotykuévo opaite ovetã ha tendayke kundaha ñemi rehegua. Kóva nandekuaukáiramo jepe ñanduti rendápe térã ne ñanduti me’ẽhárape g̃uarã, nombohasýi eime ñemi hag̃ua ñandutípe opaite tapicha oipurúva ko mohendaha renondépe.
 about-private-browsing-need-more-privacy = ¿Eikotevẽvépa ñemigua?
