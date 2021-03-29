@@ -57,7 +57,7 @@
 
 <!ENTITY quitApplicationCmd.label         "Salir">
 <!ENTITY quitApplicationCmd.key           "Q">
-<!ENTITY quitApplicationCmd.accesskey     "x">
+<!ENTITY quitApplicationCmd.accesskey     "S">
 <!ENTITY quitApplicationCmdMac.label      "Salir de &brandShortName;">
 <!ENTITY quitApplicationCmdMac.accesskey  "Q">
 <!ENTITY quitApplicationCmdUnix.label     "Salir">
@@ -133,17 +133,17 @@
 
 <!ENTITY helpMenu.label                   "Ayuda">
 <!ENTITY helpMenu.accesskey               "y">
-
 <!-- LOCALIZATION NOTE some localizations of Windows use "?"
      for the help button in the menubar. -->
 <!ENTITY helpMenuWin.label                "Ayuda">
-<!ENTITY helpMenuWin.accesskey            "H">
+<!ENTITY helpMenuWin.accesskey            "y">
 <!ENTITY openHelpCmd.label                "Contenido de la ayuda">
 <!ENTITY openHelpCmd.accesskey            "H">
 <!ENTITY openHelpCmd.key                  "VK_F1">
 
 <!ENTITY helpForIEUsers.label               "Para usuarios de Internet Explorer">
 <!ENTITY helpForIEUsers.accesskey           "I">
+
 <!ENTITY helpTroubleshootingInfo.label      "Solución de problemas">
 <!ENTITY helpTroubleshootingInfo.accesskey  "S">
 <!ENTITY releaseCmd.label                   "Notas de la versión">
