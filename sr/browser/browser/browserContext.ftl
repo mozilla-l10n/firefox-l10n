@@ -233,7 +233,7 @@ main-context-menu-media-play-speed-fastest-2 =
     .label = 2×
 main-context-menu-media-loop =
     .label = Понављај
-    .accesskey = L
+    .accesskey = П
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
