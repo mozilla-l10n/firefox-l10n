@@ -4,6 +4,8 @@
 
 support-addons-title = Ҷузъҳои иловагӣ
 features-title = Хусусиятҳои { -brand-short-name }
+app-basics-update-history = Таърихи навсозиҳо
+app-basics-show-update-history = Намоиши таърихи навсозиҳо
 app-basics-location-service-key-google = Калиди хидмати ҷойгиршавии Google
 app-basics-key-mozilla = Калиди хидмати ҷойгиршавии Mozilla
 restart-in-safe-mode-label = Аз нав оғоз кардани барнома бо ҷузъҳои иловагии ғайрифаъолшуда…
