@@ -14,7 +14,7 @@ policy-3rdparty = Spesifiser policyar som WebExtensions kan få tilgang til via 
 policy-AppAutoUpdate = Slå på eller slå av automatiske programoppdateringar.
 policy-AppUpdateURL = Spesifiser eigendefinert programoppdateringsadresse.
 policy-Authentication = Konfigurer integrert godkjenning for nettsider som støttar det.
-policy-BackgroundAppUpdate = Slå på eller av bakgrunnsoppdateraren som oppdaterer nettlesaren når han ikkje køyrer.
+policy-BackgroundAppUpdate2 = Slå på eller av bakgrunnsoppdateraren.
 policy-BlockAboutAddons = Blokker tilgang til Tilleggshandteraren (about:addons)
 policy-BlockAboutConfig = Blokker tilgang til about:config-sida.
 policy-BlockAboutProfiles = Blokker tilgang til about:profiles-sida.
@@ -107,6 +107,7 @@ policy-SearchEngines = Konfigurer søkjemotorinnstillingar. Denne policyen er ku
 policy-SearchSuggestEnabled = Slå på eller av søkjeforslag.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Installer PKCS #11-modular.
+policy-ShowHomeButton = Vis heimknappen på verktøylinja.
 policy-SSLVersionMax = Still inn den maksimale SSL-versjonen.
 policy-SSLVersionMin = Still inn den minimale SSL-versjonen.
 policy-SupportMenu = Legg til eit tilpassa menyelement med hjelp i hjelpemenyen.
