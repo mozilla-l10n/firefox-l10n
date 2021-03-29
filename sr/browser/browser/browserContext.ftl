@@ -12,9 +12,9 @@ navbar-tooltip-instruction =
 ## Back
 
 main-context-menu-back =
-    .tooltiptext = Назад за једну страну
+    .tooltiptext = Иди на претходну страницу
     .aria-label = Назад
-    .accesskey = B
+    .accesskey = Н
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
 toolbar-button-back =
@@ -37,9 +37,9 @@ toolbar-button-back-2 =
 ## Forward
 
 main-context-menu-forward =
-    .tooltiptext = Напред за једну страну
+    .tooltiptext = Иди на следећу страницу
     .aria-label = Напред
-    .accesskey = F
+    .accesskey = а
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
 toolbar-button-forward =
@@ -47,9 +47,9 @@ toolbar-button-forward =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = Напред за једну страну ({ $shortcut })
+    .tooltiptext = Иди на следећу страницу ({ $shortcut })
     .aria-label = Напред
-    .accesskey = F
+    .accesskey = а
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
     .label = Напред
@@ -63,7 +63,7 @@ toolbar-button-forward-2 =
 
 main-context-menu-reload =
     .aria-label = Поново учитај
-    .accesskey = R
+    .accesskey = П
 # This menuitem is only visible on macOS
 main-context-menu-reload-mac =
     .label = Поново учитај
@@ -75,7 +75,7 @@ toolbar-button-reload =
 
 main-context-menu-stop =
     .aria-label = Заустави
-    .accesskey = S
+    .accesskey = З
 # This menuitem is only visible on macOS
 main-context-menu-stop-mac =
     .label = Заустави
@@ -92,16 +92,16 @@ toolbar-button-stop-reload =
 
 main-context-menu-page-save =
     .label = Сачувај страницу као…
-    .accesskey = P
+    .accesskey = С
 toolbar-button-page-save =
     .label = { main-context-menu-page-save.label }
 
 ## Simple menu items
 
 main-context-menu-bookmark-add =
-    .aria-label = Забележи ову страницу
-    .accesskey = m
-    .tooltiptext = Забележи ову страницу
+    .aria-label = Обележи страницу
+    .accesskey = б
+    .tooltiptext = Обележи страницу
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
 # so should probably have the same access key if possible.
@@ -113,26 +113,26 @@ main-context-menu-bookmark-add-mac =
 # so should probably have the same access key if possible.
 main-context-menu-bookmark-edit-mac =
     .label = Уреди обележивач
-    .accesskey = б
+    .accesskey = р
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-add-with-shortcut =
-    .aria-label = Забележи ову страницу
-    .accesskey = m
-    .tooltiptext = Забележи ову страницу ({ $shortcut })
-main-context-menu-bookmark-change =
-    .aria-label = Уреди овај обележивач
+    .aria-label = Обележи страницу
     .accesskey = б
-    .tooltiptext = Уреди овај обележивач
+    .tooltiptext = Обележи страницу ({ $shortcut })
+main-context-menu-bookmark-change =
+    .aria-label = Уреди обележивач
+    .accesskey = р
+    .tooltiptext = Уреди обележивач
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-bookmark-change-with-shortcut =
-    .aria-label = Уреди овај обележивач
-    .accesskey = б
-    .tooltiptext = Уреди овај обележивач ({ $shortcut })
+    .aria-label = Уреди обележивач
+    .accesskey = р
+    .tooltiptext = Уреди обележивач ({ $shortcut })
 main-context-menu-open-link =
-    .label = Отвори везу
-    .accesskey = O
+    .label = Отвори линк
+    .accesskey = т
 main-context-menu-open-link-new-tab =
     .label = Отвори линк на новој картици
     .accesskey = О
@@ -352,7 +352,7 @@ main-context-menu-view-background-image =
     .accesskey = з
 main-context-menu-generate-new-password =
     .label = Користи генерисану лозинку…
-    .accesskey = G
+    .accesskey = г
 
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
