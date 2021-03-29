@@ -408,7 +408,7 @@ popup-select-microphone-icon =
 popup-all-windows-shared = Todas las ventanas visibles de su pantalla serán compartidas.
 popup-screen-sharing-not-now =
     .label = Ahora no
-    .accesskey = w
+    .accesskey = n
 popup-screen-sharing-never =
     .label = Nunca permitir
     .accesskey = N
@@ -419,7 +419,7 @@ popup-screen-sharing-block =
     .accesskey = B
 popup-screen-sharing-always-block =
     .label = Bloquear siempre
-    .accesskey = W
+    .accesskey = B
 popup-mute-notifications-checkbox = Silenciar las notificaciones de sitios web mientras se comparten
 
 ## WebRTC window or screen share tab switch warning

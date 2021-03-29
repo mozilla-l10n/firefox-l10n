@@ -185,7 +185,7 @@ cfr-doorhanger-send-tab-ok-button = Pruebe enviar pestaña
 cfr-doorhanger-firefox-send-header = Compartir este PDF de forma segura
 cfr-doorhanger-firefox-send-body = Mantenga sus documentos confidenciales a salvo de miradas indiscretas con cifrado de extremo a extremo y un enlace que desaparece cuando termina.
 cfr-doorhanger-firefox-send-ok-button = Probar { -send-brand-name }
-    .accesskey = T
+    .accesskey = P
 
 ## Social Tracking Protection
 
@@ -221,8 +221,6 @@ cfr-doorhanger-milestone-heading2 =
     }
 cfr-doorhanger-milestone-ok-button = Ver todo
     .accesskey = S
-cfr-doorhanger-milestone-close-button = Cerrar
-    .accesskey = C
 
 ## What’s New Panel Content for Firefox 76
 
@@ -247,6 +245,8 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Ícono de picture-in-picture
 
 ## Protections Dashboard message
 
+cfr-doorhanger-milestone-close-button = Cerrar
+    .accesskey = C
 
 ## What’s New Panel Content for Firefox 76
 ## Protections Dashboard message
@@ -268,7 +268,7 @@ cfr-doorhanger-doh-header = Búsquedas DNS más seguras y encriptadas
 cfr-doorhanger-doh-primary-button = Perfecto, lo entiendo
     .accesskey = O
 cfr-doorhanger-doh-primary-button-2 = Aceptar
-    .accesskey = O
+    .accesskey = A
 cfr-doorhanger-doh-secondary-button = Deshabilitar
     .accesskey = D
 
