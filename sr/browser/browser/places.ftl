@@ -100,3 +100,15 @@ managed-bookmarks-subfolder =
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Остали обележивачи
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-remove-bookmark =
+    .label =
+        { $count ->
+            [1] Уклони обележивач
+           *[other] Уклони обележиваче
+        }
+    .accesskey = к
+places-manage-bookmarks =
+    .label = Управљај обележивачима
+    .accesskey = У
