@@ -410,17 +410,35 @@ search-separate-default-engine =
     .label = Истифодаи ин низоми ҷустуҷӯӣ дар равзанаҳои махфӣ
     .accesskey = И
 search-suggestions-header = Пешниҳодҳои ҷустуҷӯ
+search-suggestions-desc = Интихоб кунед, ки чӣ тавр пешниҳодҳо аз низомҳои ҷустуҷӯӣ пайдо мешаванд.
+search-suggestions-option =
+    .label = Намоиш додани пешниҳодҳои ҷустуҷӯ
+    .accesskey = Н
+search-show-suggestions-url-bar-option =
+    .label = Намоиш додани пешниҳодҳои ҷустуҷӯ дар натиҷаҳои навори нишонӣ
+    .accesskey = Н
+search-show-suggestions-private-windows =
+    .label = Намоиш додани пешниҳодҳои ҷустуҷӯ дар равзанаҳои махфӣ
+suggestions-addressbar-settings-generic = Иваз кардани хусусиятҳо барои пешниҳодҳои дигар дар навори нишонӣ
+suggestions-addressbar-settings-generic2 = Иваз кардани танзимот барои пешниҳодҳои дигар дар навори нишонӣ
 search-one-click-header2 = Миёнбурҳои низомҳои ҷустуҷӯӣ
 search-choose-engine-column =
     .label = Низоми ҷустуҷӯӣ
 search-choose-keyword-column =
     .label = Калимаи калидӣ
+search-restore-default =
+    .label = Барқарор кардани низомҳои ҷустуҷӯии пешфарз
+    .accesskey = Б
 search-remove-engine =
     .label = Тоза кардан
     .accesskey = Т
 search-add-engine =
     .label = Илова кардан
     .accesskey = И
+search-find-more-link = Ёфтани низомҳои ҷустуҷӯии бештар
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Калимаи калидии такрорӣ
 
 ## Containers Section
 
@@ -430,39 +448,76 @@ containers-back-button =
             [windows] Бозгашт ба имконот
            *[other] Бозгашт ба хусусиятҳо
         }
+containers-back-button2 =
+    .aria-label = Бозгашт ба Танзимот
+containers-header = Варақаҳои дарбаргиранда
+containers-add-button =
+    .label = Илова кардани дарбаргирандаи нав
+    .accesskey = И
+containers-new-tab-check =
+    .label = Интихоб кардани дарбаргиранда барои ҳар як варақаи нав
+    .accesskey = И
 containers-preferences-button =
     .label = Хусусиятҳо
+containers-settings-button =
+    .label = Танзимот
 containers-remove-button =
     .label = Тоза кардан
 
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+sync-signedout-caption = Сомонаҳо худро бо худ гиред
+sync-signedout-account-signin2 =
+    .label = Ба { -sync-brand-short-name } ворид шавед…
+    .accesskey = Б
 
 ## Firefox Account - Signed in
 
 sync-profile-picture =
     .tooltiptext = Иваз кардани расми профил
+sync-manage-account = Идоракунии ҳисобҳо
+    .accesskey = И
+sync-signedin-unverified = { $email } тасдиқ нашудааст.
 sync-signedin-login-failure = Лутфан, барои аз нав пайваст кардани { $email } ворид шавед
+sync-resend-verification =
+    .label = Аз нав фиристодани тасдиқ
+    .accesskey = А
 sync-remove-account =
     .label = Тоза кардани ҳисоб
     .accesskey = Т
+sync-sign-in =
+    .label = Ворид шудан
+    .accesskey = В
 
 ## Sync section - enabling or disabling sync.
 
+prefs-syncing-on = Ҳамоҳангсозӣ: Фаъол
+prefs-syncing-off = Ҳамоҳангсозӣ: Ғайрифаъол
+prefs-sync-setup =
+    .label = Танзимоти { -sync-brand-short-name }…
+    .accesskey = Т
+prefs-sync-now =
+    .labelnotsyncing = Ҳозир ҳамоҳанг кунед
+    .accesskeynotsyncing = Ҳ
+    .labelsyncing = Ҳамоҳангсозӣ…
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-heading = Шумо маводи зеринро ҳамоҳанг карда истодаед:
 sync-currently-syncing-bookmarks = Хатбаракҳо
 sync-currently-syncing-history = Таърих
 sync-currently-syncing-tabs = Варақаҳои кушодашуда
 sync-currently-syncing-logins-passwords = Воридшавиҳо ва ниҳонвожаҳо
+sync-currently-syncing-addresses = Нишониҳо
+sync-currently-syncing-creditcards = Кортҳои насия
 sync-currently-syncing-addons = Ҷузъҳои иловагӣ
 sync-currently-syncing-prefs =
     { PLATFORM() ->
         [windows] Имконот
        *[other] Хусусиятҳо
     }
+sync-currently-syncing-settings = Танзимот
 sync-change-options =
     .label = Тағйир додан…
     .accesskey = Т
@@ -494,6 +549,10 @@ sync-engine-addresses =
     .label = Нишониҳо
     .tooltiptext = Нишониҳои почтае, ки нигоҳ дошта шуданд (танҳо мизи корӣ)
     .accesskey = Н
+sync-engine-creditcards =
+    .label = Кортҳои насия
+    .tooltiptext = Номҳо, рақамҳо ва санаҳои анҷоми муҳлат (танҳо барои мизи корӣ)
+    .accesskey = К
 sync-engine-addons =
     .label = Ҷузъҳои иловагӣ
     .tooltiptext = Ҷузъҳои иловагӣ ва мавзӯъҳо барои Firefox-и мизи корӣ
@@ -527,6 +586,7 @@ sync-connect-another-device = Пайваст кардани дастгоҳи д�
 
 ## Privacy Section
 
+privacy-header = Махфияти тамошокунӣ
 
 ## Privacy Section - Logins and Passwords
 
@@ -586,6 +646,12 @@ sitedata-allow-cookies-option =
 sitedata-disallow-cookies-option =
     .label = Манъ кардани кукиҳо ва иттилооти сомона
     .accesskey = М
+sitedata-clear =
+    .label = Пок кардани маълумот…
+    .accesskey = П
+sitedata-settings =
+    .label = Идора кардани маълумот…
+    .accesskey = И
 sitedata-cookies-permissions =
     .label = Идоракунии иҷозатҳо…
     .accesskey = И
@@ -595,6 +661,7 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-header = Навори нишонӣ
 addressbar-locbar-history-option =
     .label = Таърихи тамошо
     .accesskey = Т
@@ -608,28 +675,66 @@ addressbar-locbar-openpage-option =
 addressbar-locbar-shortcuts-option =
     .label = Миёнбурҳо
     .accesskey = М
+addressbar-locbar-topsites-option =
+    .label = Сомонаҳои беҳтарин
+    .accesskey = С
 addressbar-locbar-engines-option =
     .label = Низомҳои ҷустуҷӯӣ
     .accesskey = Н
+addressbar-suggestions-settings = Иваз кардани хусусиятҳо барои пешниҳодҳои низоми ҷустуҷӯӣ
 
 ## Privacy Section - Content Blocking
 
+content-blocking-enhanced-tracking-protection = Муҳофизати такмилёфта аз пайгирӣ
 content-blocking-learn-more = Маълумоти бештар
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
 
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = Стандартӣ
+    .accesskey = С
+enhanced-tracking-protection-setting-strict =
+    .label = Ҷиддӣ
+    .accesskey = Ҷ
+enhanced-tracking-protection-setting-custom =
+    .label = Фармоишӣ
+    .accesskey = Ф
 
 ##
 
+content-blocking-private-windows = Муҳтавои пайгирикунанда дар равзанаҳои махфӣ
 content-blocking-cross-site-cookies = Кукиҳои байнисомонавӣ
 content-blocking-cross-site-tracking-cookies = Кукиҳои васоити пайгирӣ байни сомонаҳо
 content-blocking-all-cookies = Ҳамаи кукиҳо
 content-blocking-unvisited-cookies = Кукиҳо аз сомонаҳои боқимонда
+content-blocking-all-windows-tracking-content = Муҳтавои пайгирикунанда дар ҳамаи равзанаҳо
 content-blocking-all-third-party-cookies = Ҳамаи кукиҳои тарафҳои сеюм
 content-blocking-fingerprinters = Хонандаи изи ангушт
+content-blocking-warning-learn-how = Бифаҳмед, ки чӣ тавр
+content-blocking-reload-description = Барои татбиқ кардани ин тағйирот шумо бояд варақаҳои худро аз нав бор кунед.
+content-blocking-reload-tabs-button =
+    .label = Аз нав бор кардани ҳамаи варақаҳо
+    .accesskey = А
+content-blocking-tracking-content-label =
+    .label = Муҳтавои пайгирикунанда
+    .accesskey = М
+content-blocking-tracking-protection-option-all-windows =
+    .label = Дар ҳамаи равзанаҳо
+    .accesskey = Д
+content-blocking-option-private =
+    .label = Танҳо дар равзанаҳои махфӣ
+    .accesskey = Т
+content-blocking-tracking-protection-change-block-list = Тағйир додани рӯйхати манъкунӣ
 content-blocking-cookies-label =
     .label = Кукиҳо
+    .accesskey = К
+content-blocking-expand-section =
+    .tooltiptext = Маълумоти бештар
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = Криптомайнерҳо
     .accesskey = К
 # Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
 # that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
@@ -639,13 +744,22 @@ content-blocking-fingerprinters-label =
 
 ## Privacy Section - Tracking
 
+tracking-manage-exceptions =
+    .label = Идоракунии истисноҳо…
+    .accesskey = И
 
 ## Privacy Section - Permissions
 
+permissions-header = Иҷозатҳо
 permissions-location = Ҷойгиршавӣ
 permissions-location-settings =
     .label = Танзимот…
     .accesskey = Т
+permissions-xr = Ҳақиқати виртуалӣ
+permissions-xr-settings =
+    .label = Танзимот…
+    .accesskey = Т
+permissions-camera = Камера
 permissions-notification-link = Маълумоти бештар
 permissions-a11y-privacy-link = Маълумоти бештар
 
