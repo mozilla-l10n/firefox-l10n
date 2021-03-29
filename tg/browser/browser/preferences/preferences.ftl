@@ -609,11 +609,29 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Воридшавиҳои нигоҳдошташуда…
     .accesskey = В
+forms-master-pw-use =
+    .label = Истифода кардани ниҳонвожаи хусусӣ
+    .accesskey = И
 forms-primary-pw-learn-more-link = Маълумоти бештар
+# This string uses the former name of the Primary Password feature
+# ("Master Password" in English) so that the preferences can be found
+# when searching for the old name. The accesskey is unused.
+forms-master-pw-change =
+    .label = Тағйир додани ниҳонвожаи хусусӣ…
+    .accesskey = Т
+# Leave this message empty if the translation for "Primary Password" matches
+# "Master Password" in your language. If you're editing the FTL file directly,
+# use { "" } as the value.
+forms-primary-pw-former-name = Пештар бо номи «ниҳонвожаи хусусӣ» номида мешуд
 forms-master-pw-fips-desc = Ниҳонвожа тағйир дода нашуд
 
 ## OS Authentication dialog
 
+# This message can be seen by trying to add a Master Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+master-password-os-auth-dialog-message-macosx = ниҳонвожаи хусусиро эҷод кунад
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
