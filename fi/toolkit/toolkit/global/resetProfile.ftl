@@ -12,3 +12,4 @@ refresh-profile-remove = Poistaa lisäosat ja tehdyt muokkaukset
 refresh-profile-restore = Palauttaa selaimen oletusasetukset
 refresh-profile = Viritä { -brand-short-name }
 refresh-profile-button = Palauta { -brand-short-name }…
+refresh-profile-learn-more = Lue lisää
