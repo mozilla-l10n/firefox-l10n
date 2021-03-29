@@ -140,6 +140,7 @@ cfr-doorhanger-sync-logins-ok-button = Фаъол кардани { -sync-brand-s
 
 ## Send Tab
 
+cfr-doorhanger-send-tab-header = Дар роҳ хонед
 
 ## Firefox Send
 
@@ -199,6 +200,7 @@ cfr-doorhanger-doh-secondary-button = Ғайрифаъол кардан
 
 ## Fission Experiment Message
 
+cfr-doorhanger-fission-header = Маҳдудкунии сомона
 cfr-doorhanger-fission-primary-button = Хуб, фаҳмидам
     .accesskey = Х
 cfr-doorhanger-fission-secondary-button = Маълумоти бештар

@@ -24,6 +24,16 @@ dialog-title-everything =
 ## This results in English:
 ## Time range to clear: (Last Hour, Today, etc.)
 
+clear-time-duration-value-last-hour =
+    .label = Як соати охир
+clear-time-duration-value-last-2-hours =
+    .label = Ду соати охир
+clear-time-duration-value-last-4-hours =
+    .label = Чор соати охир
+clear-time-duration-value-today =
+    .label = Имрӯз
+clear-time-duration-value-everything =
+    .label = Комилан
 clear-time-duration-suffix =
     .value = { "" }
 
@@ -40,12 +50,28 @@ item-cookies =
 item-active-logins =
     .label = Воридшавиҳои фаъол
     .accesskey = В
+item-cache =
+    .label = Зерҳофиза
+    .accesskey = З
 item-form-search-history =
     .label = Таърихи шаклҳо ва ҷустуҷӯ
     .accesskey = Т
+data-section-label = Иттилоот
 item-site-preferences =
     .label = Хусусиятҳои сомона
     .accesskey = Х
+item-offline-apps =
+    .label = Иттилооти сомонаҳои офлайн
+    .accesskey = И
+sanitize-everything-undo-warning = Ин амал бекор карда намешавад.
+window-close =
+    .key = w
+sanitize-button-ok =
+    .label = Ҳозир пок карда шавад
+# The label for the default button between the user clicking it and the window
+# closing.  Indicates the items are being cleared.
+sanitize-button-clearing =
+    .label = Тозакунӣ
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has not modified the default set
 # of history items to clear.

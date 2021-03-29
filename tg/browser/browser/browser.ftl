@@ -427,6 +427,8 @@ urlbar-remote-control-notification-anchor =
     .tooltiptext = Браузер дар зери назорати дурдаст қарор дорад
 urlbar-permissions-granted =
     .tooltiptext = Шумо барои ин сомона иҷозатҳои иловагиро таъин кардед.
+urlbar-switch-to-tab =
+    .value = Ба варақа гузаштан:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Васеъшавӣ:
@@ -451,6 +453,7 @@ urlbar-result-action-search-in-private = Ҷустуҷӯ дар равзанаи 
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Ҷустуҷӯ тавассути { $engine }
+urlbar-result-action-sponsored = Сарпарастӣ
 urlbar-result-action-switch-tab = Ба варақа гузаштан
 urlbar-result-action-visit = Боздид
 

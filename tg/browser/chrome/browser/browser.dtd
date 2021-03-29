@@ -144,6 +144,8 @@ this container is a toolbar. This avoids double-speaking. -->
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Илова кардан ба менюи васеъшуда">
+<!ENTITY customizeMenu.removeFromToolbar.label "Тоза кардан аз навори абзорҳо">
+<!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
