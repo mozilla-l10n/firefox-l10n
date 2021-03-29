@@ -184,6 +184,20 @@ about-logins-confirm-remove-all-dialog-title =
         [one] ដកការចូល { $count } ចេញ?
        *[other] ដកការចូល { $count } ទាំងអស់ចេញ?
     }
+about-logins-confirm-remove-all-dialog-message =
+    { $count ->
+        [1] វា​នឹង​លុប​ការចូល​ដែល​អ្នក​បាន​រក្សាទុក​នៅក្នុង { -brand-short-name } និង​ការជូនដំណឹង​អំពី​បំពាន​ទាំងឡាយ​ដែល​បង្ហាញ​នៅត្រង់នេះ។ អ្នក​នឹង​មិន​អាច​ត្រឡប់​សកម្មភាព​នេះដូចដើមវិញ​បាន​ទេ។
+       *[other] វា​នឹង​លុប​ការចូល​ដែល​អ្នក​បាន​រក្សាទុក​នៅក្នុង { -brand-short-name } និង​ការបំពាន​ទាំងឡាយ​ដែល​បង្ហាញ​នៅត្រង់នេះ។ អ្នក​នឹង​មិន​អាច​ត្រឡប់​សកម្មភាព​នេះដូចដើមវិញ​បាន​ទេ។
+    }
+about-logins-confirm-remove-all-sync-dialog-title =
+    { $count ->
+       *[other] លុបការចូល { $count } ពី​ឧបករណ៍​ទាំងអស់​ដែរ​ឬ​ទេ?
+    }
+about-logins-confirm-remove-all-sync-dialog-message =
+    { $count ->
+        [1] វា​នឹង​លុប​ការចូល​ដែល​អ្នក​បាន​រក្សាទុក​នៅក្នុង { -brand-short-name } លើ​ឧបករណ៍​ទាំងអស់​ដែល​បាន​ធ្វើសមកាលកម្ម​ទៅ { -fxaccount-brand-name } របស់អ្នក។ វា​ក៏​នឹង​លុប​ការជូនដំណឹង​អំពី​ការបំពាន​ដែល​បង្ហាញ​នៅត្រង់​នេះ​ផងដែរ។ អ្នក​នឹងមិន​អាច​ត្រឡប់​សកម្មភាព​នេះ​ដូចដើមវិញ​បាន​ទេ។
+       *[other] This will remove all logins you’ve saved to { -brand-short-name } on all devices synced to your { -fxaccount-brand-name }. This will also remove breach alerts that appear here. You won’t be able to undo this action.
+    }
 about-logins-confirm-export-dialog-title = នាំចេញការចូលនិងពាក្យសម្ងាត់
 about-logins-confirm-export-dialog-confirm-button = នាំចេញ…
 confirm-discard-changes-dialog-title = បោះបង់​ការផ្លាស់ប្ដូរ​ដែល​មិន​បាន​រក្សាទុក?
