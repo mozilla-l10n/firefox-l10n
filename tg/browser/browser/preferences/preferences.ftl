@@ -288,19 +288,44 @@ performance-default-content-process-count =
 
 ## General Section - Browsing
 
+browsing-title = Тамошокунӣ
+browsing-use-autoscroll =
+    .label = Истифодаи варақзании худкор
+    .accesskey = И
+browsing-use-smooth-scrolling =
+    .label = Истифодаи варақзании мунтазам
+    .accesskey = И
 browsing-picture-in-picture-learn-more = Маълумоти бештар
 browsing-media-control-learn-more = Маълумоти бештар
 browsing-cfr-recommendations-learn-more = Маълумоти бештар
 
 ## General Section - Proxy
 
+network-settings-title = Танзимоти шабака
 network-proxy-connection-learn-more = Маълумоти бештар
+network-proxy-connection-settings =
+    .label = Танзимот…
+    .accesskey = Т
 
 ## Home Section
 
+home-new-windows-tabs-header = Равзанаҳо ва варақаҳои нав
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = Саҳифаи асосӣ ва равзанаҳои нав
+home-newtabs-mode-label = Варақаҳои нав
+home-restore-defaults =
+    .label = Барқарор кардани пешфарзҳо
+    .accesskey = Б
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Саҳифаи асосии Firefox (Пешфарз)
+home-mode-choice-custom =
+    .label = Нишониҳои URL-и фармоишӣ…
+home-mode-choice-blank =
+    .label = Саҳифаи холӣ
 home-homepage-custom-url =
     .placeholder = Гузоштани нишонии URL…
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -320,8 +345,11 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-content-header = Муҳтавои саҳифаи асосии Firefox
 home-prefs-search-header =
     .label = Ҷустуҷӯ дар Интернет
+home-prefs-topsites-header =
+    .label = Сомонаҳои беҳтарин
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
