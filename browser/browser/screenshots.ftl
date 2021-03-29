@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-screenshots-context-menu = Усликај екран
+screenshots-context-menu = Направи снимак екрана
 screenshot-toolbarbutton =
     .label = Снимак екрана
     .tooltiptext = Направи снимак екрана
