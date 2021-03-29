@@ -146,14 +146,14 @@ main-context-menu-open-link-new-private-window =
     .label = Отвори нови приватан прозор
     .accesskey = P
 main-context-menu-bookmark-this-link =
-    .label = Забележи ову везу
-    .accesskey = L
+    .label = Обележи овај линк
+    .accesskey = б
 main-context-menu-bookmark-link =
     .label = Обележи линк
     .accesskey = б
 main-context-menu-save-link =
-    .label = Сачувај везу као…
-    .accesskey = k
+    .label = Сачувај линк као…
+    .accesskey = С
 main-context-menu-save-link-to-pocket =
     .label = Сачувај линк у { -pocket-brand-name(case: "loc") }
     .accesskey = а
@@ -168,14 +168,14 @@ main-context-menu-save-link-to-pocket =
 ## are mutually exclusive.
 
 main-context-menu-copy-email =
-    .label = Копирај адресу е-поште
-    .accesskey = A
+    .label = Копирај имејл-адресу
+    .accesskey = К
 main-context-menu-copy-link =
-    .label = Копирај одредиште везе
-    .accesskey = a
+    .label = Копирај адресу линка
+    .accesskey = К
 main-context-menu-copy-link-simple =
     .label = Копирај линк
-    .accesskey = л
+    .accesskey = К
 
 ## Media (video/audio) controls
 ##
@@ -185,10 +185,10 @@ main-context-menu-copy-link-simple =
 
 main-context-menu-media-play =
     .label = Пусти
-    .accesskey = P
+    .accesskey = П
 main-context-menu-media-pause =
-    .label = Пауза
-    .accesskey = P
+    .label = Паузирај
+    .accesskey = П
 
 ##
 
@@ -196,14 +196,14 @@ main-context-menu-media-mute =
     .label = Искључи звук
     .accesskey = И
 main-context-menu-media-unmute =
-    .label = Укљ. звук
-    .accesskey = m
+    .label = Укључи звук
+    .accesskey = У
 main-context-menu-media-play-speed =
-    .label = Брзина пуштања
-    .accesskey = d
+    .label = Брзина репродукције
+    .accesskey = Б
 main-context-menu-media-play-speed-slow =
-    .label = Споро (0.5×)
-    .accesskey = S
+    .label = Спора (0,5×)
+    .accesskey = С
 main-context-menu-media-play-speed-normal =
     .label = Нормално
     .accesskey = N
