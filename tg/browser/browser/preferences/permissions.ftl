@@ -114,6 +114,9 @@ permissions-site-location-window =
 
 ## Site Permissions - Virtual Reality
 
+permissions-site-xr-window =
+    .title = Танзимот - Иҷозатҳои ҳақиқати виртуалӣ
+    .style = { permissions-window.style }
 
 ## Site Permissions - Camera
 
