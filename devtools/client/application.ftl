@@ -65,3 +65,33 @@ serviceworker-empty-suggestions-debugger = Step through your Service Worker regi
 serviceworker-empty-suggestions-aboutdebugging = Inspect Service Workers from other domains. <a>Open about:debugging</a>
 # Link will open https://developer.mozilla.org/docs/Web/API/Service_Worker_API/Using_Service_Workers
 serviceworker-empty-intro-link = Сазнајте више
+# Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
+manifest-item-warnings = Грешке и упозорења
+# Header for the Identity section of Manifest inspection displayed in the application panel.
+manifest-item-identity = Идентитет
+# Header for the Presentation section of Manifest inspection displayed in the application panel.
+manifest-item-presentation = Презентација
+# Header for the Icon section of Manifest inspection displayed in the application panel.
+manifest-item-icons = Иконе
+# Text displayed at manifest icons to label their purpose, as declared
+# in the manifest.
+manifest-icon-purpose = Намена: <code>{ $purpose }</code>
+# Text displayed as the alt attribute for <img> tags showing the icons in the
+# manifest.
+manifest-icon-img =
+    .alt = Икона
+# Text displayed as the title attribute for <img> tags showing the icons in the
+# manifest. `$sizes` is a user-dependent string that has been parsed as a
+# space-separated list of `<width>x<height>` sizes or the keyword `any`.
+manifest-icon-img-title = Икона са величинама: { $sizes }
+# Text displayed as the title attribute for <img> tags showing the icons in the
+# manifest, in case there's no icon size specified by the user
+manifest-icon-img-title-no-sizes = Икона ненаведене величине
+# Text for the ALT and TITLE attributes of the warning icon
+icon-warning =
+    .alt = Икона упозорења
+    .title = Упозорење
+# Text for the ALT and TITLE attributes of the error icon
+icon-error =
+    .alt = Икона грешке
+    .title = Грешка
