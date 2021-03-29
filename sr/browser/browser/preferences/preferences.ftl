@@ -737,7 +737,7 @@ sync-engine-addons =
     .accesskey = Д
 sync-engine-prefs =
     .label = Подешавања
-    .tooltiptext = Подешавања која сте променили
+    .tooltiptext = Промењена општа подешавања, подешавања приватности и безбедности
     .accesskey = П
 sync-engine-settings =
     .label = Подешавања
@@ -1151,6 +1151,16 @@ space-alert-under-5gb-ok-button =
     .label = Разумем
     .accesskey = Р
 space-alert-under-5gb-message = { -brand-short-name } остаје без места на диску. Садржај веб сајта можда неће бити правилно приказан. Посетите “Сазнајте више” да оптимизујете коришћење диска за боље искуство прегледања.
+space-alert-over-5gb-settings-button =
+    .label = Отвори подешавања
+    .accesskey = О
+space-alert-over-5gb-message2 =
+    { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "loc") }
+        [feminine] { -brand-short-name(case: "loc") }
+        [neuter] { -brand-short-name(case: "loc") }
+       *[other] Програму { -brand-short-name }
+    } понестаје слободног простора на диску. Садржај веб-сајтова се можда неће правилно приказивати. Ускладиштене податке можете обрисати у одељку Подешавања → Приватност и безбедност → Колачићи и подаци о сајтовима.
 
 ## Privacy Section - HTTPS-Only
 
