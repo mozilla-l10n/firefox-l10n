@@ -28,6 +28,7 @@ search-input-box =
             [windows] Hae asetuksista
            *[other] Hae asetuksista
         }
+settings-page-title = Asetukset
 managed-notice = Organisaatiosi hallitsee selaimesi asetuksia.
 category-list =
     .aria-label = Luokat
@@ -369,6 +370,9 @@ update-application-check-choose =
 update-application-manual =
     .label = Älä hae päivityksiä (ei suositella)
     .accesskey = Ä
+update-application-background-enabled =
+    .label = Kun { -brand-short-name } ei ole käynnissä
+    .accesskey = K
 update-application-warning-cross-user-setting = Tämä asetus koskee kaikkia Windows-tilejä ja { -brand-short-name }-profiileja, jotka käyttävät tätä { -brand-short-name }-asennusta.
 update-application-use-service =
     .label = Asenna päivitykset taustalla toimivalla palvelulla
@@ -613,6 +617,8 @@ containers-back-button =
             [windows] Takaisin asetuksiin
            *[other] Takaisin asetuksiin
         }
+containers-back-button2 =
+    .aria-label = Takaisin asetuksiin
 containers-header = Eristetyt välilehdet
 containers-add-button =
     .label = Lisää uusi eristystila
@@ -622,6 +628,8 @@ containers-new-tab-check =
     .accesskey = V
 containers-preferences-button =
     .label = Asetukset
+containers-settings-button =
+    .label = Asetukset
 containers-remove-button =
     .label = Poista
 
@@ -630,6 +638,7 @@ containers-remove-button =
 
 sync-signedout-caption = Pidä oma selain aina mukanasi
 sync-signedout-description = Synkronoi kirjanmerkit, sivuhistoria, välilehdet, salasanat, lisäosat ja asetukset kaikilla laitteillasi.
+sync-signedout-description2 = Synkronoi kirjanmerkit, sivuhistoria, välilehdet, salasanat, lisäosat ja asetukset kaikilla laitteillasi.
 sync-signedout-account-signin2 =
     .label = Kirjaudu { -sync-brand-short-name }-palveluun…
     .accesskey = i
@@ -672,6 +681,7 @@ prefs-sync-setup =
     .label = Määritä { -sync-brand-short-name }…
     .accesskey = M
 prefs-sync-offer-setup-label = Synkronoi kirjanmerkit, historia, välilehdet, salasanat, lisäosat ja asetukset kaikkien laitteidesi välillä.
+prefs-sync-offer-setup-label2 = Synkronoi kirjanmerkit, sivuhistoria, välilehdet, salasanat, lisäosat ja asetukset kaikilla laitteillasi.
 prefs-sync-now =
     .labelnotsyncing = Synkronoi nyt
     .accesskeynotsyncing = N
@@ -692,6 +702,7 @@ sync-currently-syncing-prefs =
         [windows] Asetukset
        *[other] Asetukset
     }
+sync-currently-syncing-settings = Asetukset
 sync-change-options =
     .label = Muuta…
     .accesskey = M
@@ -1153,6 +1164,9 @@ space-alert-under-5gb-ok-button =
     .label = Selvä
     .accesskey = S
 space-alert-under-5gb-message = { -brand-short-name(case: "ablative") } loppuu kohta levytila. Sivustojen sisällöt eivät ehkä näy oikein. Voit lukea levyn käytön optimoimisesta selaamisen sujuvoittamiseksi painamalla ”Lue lisää”.
+space-alert-over-5gb-settings-button =
+    .label = Avaa asetukset
+    .accesskey = A
 
 ## Privacy Section - HTTPS-Only
 
