@@ -263,6 +263,7 @@ about-logins-import-dialog-error-title = Хатои воридот
 about-logins-import-dialog-error-conflicting-values-description = Барои мисол: якчанд номи корбар, ниҳонвожа, нишонии URL ва ғайра барои як воридшавӣ.
 about-logins-import-dialog-error-file-format-title = Формати файл мушкилӣ дорад
 about-logins-import-dialog-error-file-permission-title = Файл хонда нашуд
+about-logins-import-dialog-error-unable-to-read-title = Файл таҷзия карда намешавад
 about-logins-import-dialog-error-unable-to-read-description = Мутмаин шавед, ки шумо файли CSV ё TSV-ро интихоб кардед.
 about-logins-import-dialog-error-no-logins-imported = Ягон воридшавӣ ворид карда нашудааст
 about-logins-import-dialog-error-learn-more = Маълумоти бештар
