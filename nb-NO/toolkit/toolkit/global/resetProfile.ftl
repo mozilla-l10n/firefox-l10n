@@ -4,12 +4,14 @@
 
 refresh-profile-dialog =
     .title = Tilbakestill { -brand-short-name }
+refresh-profile-dialog-title = Tilbakestill { -brand-short-name } til standardinnstillingene?
 refresh-profile-dialog-button =
     .label = Tilbakestill { -brand-short-name }
 refresh-profile-description = Start på ny frisk for å rette problemer og få tilbake normal ytelse.
 refresh-profile-description-details = Dette vil:
 refresh-profile-remove = Fjerne utvidelser og tilpasninger
 refresh-profile-restore = Gjenopprette nettleserinnstillinger til standardverdier
+refresh-profile-dialog-description = Begynn på nytt for å løse ytelsesproblemer. Dette fjerner utvidelser og tilpasninger. Du mister ikke viktig informasjon som bokmerker og passord.
 refresh-profile = Gi { -brand-short-name } en overhaling
 refresh-profile-button = Tilbakestill { -brand-short-name }…
 refresh-profile-learn-more = Les mer
