@@ -11,7 +11,7 @@
 <!ENTITY reminder.reminderDetails.label                    "Деталі нагадування">
 <!ENTITY reminder.action.label                             "Виберіть дію для нагадування">
 
-<!ENTITY reminder.action.alert.label                       "Показати виринаюче вікно">
+<!ENTITY reminder.action.alert.label                       "Показати спливне вікно">
 <!ENTITY reminder.action.email.label                       "Надіслати E-Mail">
 
 <!ENTITY alarm.units.minutes                               "хвилин" >
