@@ -7,14 +7,27 @@
 
 cfr-doorhanger-extension-heading = Васеъшавии тавсияшуда
 cfr-doorhanger-feature-heading = Хусусияти тавсияшуда
+cfr-doorhanger-pintab-heading = Кӯшиш кунед: Васлкунии варақаҳо
 
 ##
 
+cfr-doorhanger-extension-sumo-link =
+    .tooltiptext = Чаро ман инро дида истодаам?
 cfr-doorhanger-extension-cancel-button = Ҳоло не
     .accesskey = н
 cfr-doorhanger-extension-ok-button = Ҳозир илова карда шавад
     .accesskey = Ҳ
+cfr-doorhanger-pintab-ok-button = Васл кардани ин варақа
+    .accesskey = В
+cfr-doorhanger-extension-manage-settings-button = Идоракунии танзимоти тавсияшуда
+    .accesskey = И
+cfr-doorhanger-extension-never-show-recommendation = Ин тавсия дигар нишон дода нашавад
+    .accesskey = И
 cfr-doorhanger-extension-learn-more-link = Маълумоти бештар
+# This string is used on a new line below the add-on name
+# Variables:
+#   $name (String) - Add-on author name
+cfr-doorhanger-extension-author = аз { $name }
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Тавсия
@@ -73,6 +86,14 @@ cfr-whatsnew-button =
     .tooltiptext = Чӣ нав аст
 cfr-whatsnew-panel-header = Чӣ нав аст
 cfr-whatsnew-tracking-protect-link-text = Намоиш додани гузориши ман
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+        [one] Васоити пайгирии манъшуда
+       *[other] Васоити пайгирии манъшуда
+    }
 cfr-whatsnew-tracking-blocked-subtitle = Аз санаи { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Дидани гузориш
 cfr-whatsnew-lockwise-backup-title = Эҷод кардани нусхаи эҳтиётии ниҳонвожаҳо
@@ -96,6 +117,14 @@ cfr-whatsnew-permission-prompt-cta = Маълумоти бештар
 
 ## Fingerprinter Counter
 
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $fingerprinterCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-fingerprinter-counter-header =
+    { $fingerprinterCount ->
+        [one] Хонандаи изи ангушти манъшуда
+       *[other] Хонандаи изи ангушти манъшуда
+    }
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Хонандаи изи ангушт
 
@@ -185,12 +214,14 @@ cfr-whatsnew-media-keys-button = Бифаҳмед, ки чӣ тавр
 
 ## What's new: Search shortcuts
 
+cfr-whatsnew-search-shortcuts-header = Миёнбурҳо барои ҷустуҷӯ дар навори нишонӣ
 
 ## What's new: Cookies protection
 
 
 ## What's new: Better bookmarking
 
+cfr-whatsnew-bookmarking-header = Хатбаракгузории такмилёфта
 
 ## What's new: Cross-site cookie tracking
 
