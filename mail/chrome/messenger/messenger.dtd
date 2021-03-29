@@ -43,7 +43,7 @@
 <!ENTITY  newContactCmd.label "Contacto de la libreta de direcciones…">
 <!ENTITY  newContactCmd.accesskey "C">
 <!ENTITY openMenuCmd.label "Abrir">
-<!ENTITY openMenuCmd.accesskey "O">
+<!ENTITY openMenuCmd.accesskey "A">
 <!ENTITY openMessageFileCmd.label "Abrir mensaje guardado…">
 <!ENTITY openMessageFileCmd.accesskey "A">
 <!ENTITY saveAsMenu.label "Guardar como">
@@ -719,7 +719,6 @@
 <!ENTITY locationColumn.label "Ubicación">
 <!ENTITY idColumn.label "Orden de recepción">
 <!ENTITY attachmentColumn.label "Adjuntos">
-
 <!ENTITY deleteColumn.label "Eliminar">
 
 <!-- Thread Pane Tooltips -->
@@ -745,7 +744,6 @@
 <!ENTITY locationColumn2.tooltip "Ordenar por ubicación">
 <!ENTITY idColumn2.tooltip "Ordenar por orden de recepción">
 <!ENTITY attachmentColumn2.tooltip "Ordenar por adjuntos">
-
 <!ENTITY deleteColumn.tooltip "Eliminar un mensaje">
 
 <!-- Thread Pane Context Menu -->
