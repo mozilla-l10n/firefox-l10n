@@ -45,5 +45,9 @@ accessibility-text-label-issue-toolbar = Lis sbaris dai struments a scugnin vê 
 ## that describe that currently selected accessible object has a keyboard accessibility
 ## issue.
 
+accessibility-keyboard-issue-semantics = I elements che a puedin ricevi il focus a àn di vê semantichis interativis. <a>Plui informazions</a>
 accessibility-keyboard-issue-tabindex = Evite di doprâ l'atribût <code>tabindex</code> cun valôrs plui grancj di zero. <a>Plui informazions</a>
 accessibility-keyboard-issue-action = Si scugne rivâ a ativâ i elements interatîfs doprant une tastiere. <a>Plui informazions</a>
+accessibility-keyboard-issue-focusable = I elements interatîfs a scugnin podê ricevi il focus. <a>Plui informazions</a>
+accessibility-keyboard-issue-focus-visible = Al element che al pues ricevi il focus al podarès mancjâ il stîl dal focus. <a>Plui informazions</a>
+accessibility-keyboard-issue-mouse-only = I elements che a puedin ricevi i clic dal mouse a scugnin vê la pussibilitât di ricevi il focus e a àn di vê semantichis interativis. <a>Plui informazions</a>
