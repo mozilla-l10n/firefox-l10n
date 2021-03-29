@@ -347,5 +347,5 @@ mozilla-pkix-error-validity-too-long = Сервер је презентовао 
 mozilla-pkix-error-required-tls-feature-missing = TLS могућност недостаје.
 mozilla-pkix-error-invalid-integer-encoding = Сервер је приказао сертификат који садржи неисправно шифровање броја. Чести узроци су негативни серијски број, негативни RSA модули и шифровање које је дуже него што је неопходно.
 mozilla-pkix-error-empty-issuer-name = Сервер је представио сертификат са празним именом издавача.
-mozilla-pkix-error-additional-policy-constraint-failed = При провери овог сертификата утврђено је кршење ограничења које налаже додатна смерница.
+mozilla-pkix-error-additional-policy-constraint-failed = При провери овог сертификата утврђено је кршење ограничења које налаже додатна политика.
 mozilla-pkix-error-self-signed-cert = Сертификат није од поверења јер је самопотписан.
