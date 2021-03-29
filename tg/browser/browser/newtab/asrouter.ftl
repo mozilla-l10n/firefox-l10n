@@ -139,6 +139,7 @@ cfr-whatsnew-lockwise-icon-alt = Нишони { -lockwise-brand-short-name }
 
 ## Picture-in-Picture fullscreen message
 
+cfr-whatsnew-pip-fullscreen-header = «Расм-дар-расм» дар реҷаи экрани пурра
 cfr-whatsnew-pip-fullscreen-icon-alt = Нишонаи «Расм-дар-расм»
 
 ## Protections Dashboard message

@@ -375,6 +375,8 @@ popup-screen-sharing-always-block =
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-disable-for-session =
+    .label = Ғайрифаъол кардани муҳофизати дастрасии умумӣ барои ин ҷаласа
 
 ## DevTools F12 popup
 
@@ -419,6 +421,10 @@ urlbar-placeholder-search-mode-other-tabs =
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Нишониеро тавассути { $name } ҷустуҷӯ кунед ё ворид намоед
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Браузер дар зери назорати дурдаст қарор дорад
+urlbar-permissions-granted =
+    .tooltiptext = Шумо барои ин сомона иҷозатҳои иловагиро таъин кардед.
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Васеъшавӣ:
