@@ -87,15 +87,15 @@
 <!ENTITY cmd.find.key  "f">
 
 <!ENTITY detailsPane.more.label "Más">
-<!ENTITY detailsPane.more.accesskey "e">
+<!ENTITY detailsPane.more.accesskey "M">
 <!ENTITY detailsPane.less.label "Menos">
 <!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.selectAnItemText.description "Seleccione un ítem para mostrar y editar sus propiedades">
 
 <!ENTITY view.label               "Ver">
-<!ENTITY view.accesskey           "w">
+<!ENTITY view.accesskey           "V">
 <!ENTITY byDate.label             "Por fecha">
-<!ENTITY byDate.accesskey         "D">
+<!ENTITY byDate.accesskey         "f">
 <!ENTITY bySite.label             "Por sitio">
 <!ENTITY bySite.accesskey         "S">
 <!ENTITY byMostVisited.label      "Por más visitado">
