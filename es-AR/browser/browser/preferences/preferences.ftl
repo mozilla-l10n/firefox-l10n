@@ -970,7 +970,7 @@ addressbar-locbar-bookmarks-option =
     .accesskey = d
 addressbar-locbar-openpage-option =
     .label = Abrir pestañas
-    .accesskey = O
+    .accesskey = t
 # Shortcuts refers to the shortcut tiles on the new tab page, previously known as top sites. Translation should be consistent.
 addressbar-locbar-shortcuts-option =
     .label = Atajos
@@ -1069,7 +1069,7 @@ permissions-location-settings =
 permissions-xr = Realidad virtual
 permissions-xr-settings =
     .label = Opciones…
-    .accesskey = t
+    .accesskey = O
 permissions-camera = Cámara
 permissions-camera-settings =
     .label = Configuración…
@@ -1194,7 +1194,7 @@ space-alert-under-5gb-ok-button =
 space-alert-under-5gb-message = { -brand-short-name } se está quedando sin espacio en disco. Contenidos del sitio web pueden no mostrarse correctamente. Ver “Conocer más” para optimizar el uso del disco para una mejor experiencia de navegación.
 space-alert-over-5gb-settings-button =
     .label = Abrir Preferencias
-    .accesskey = O
+    .accesskey = P
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } se está quedando sin espacio en el disco. </strong> Puede que los contenidos de los sitios web no se muestren adecuadamente. Puede eliminar los datos almacenados en Preferencias > Privacidad y seguridad > Cookies y Datos del sitio.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } se está quedando sin espacio en el disco.</strong> Los contenidos del sitio web pueden no mostrarse correctamente. Visite "Conocer más" para optimizar el uso del disco y mejorar la experiencia de navegación.
 
