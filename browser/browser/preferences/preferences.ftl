@@ -381,6 +381,9 @@ update-application-check-choose =
 update-application-manual =
     .label = Sjå aldri etter oppdateringar (ikkje tilrådd)
     .accesskey = a
+update-application-background-enabled =
+    .label = Når { -brand-short-name } ikkje køyrer
+    .accesskey = N
 update-application-warning-cross-user-setting = Denne innstillinga gjeld for alle Windows-kontoar og { -brand-short-name }-profilar som brukar denne installasjonen av { -brand-short-name }.
 update-application-use-service =
     .label = Bruk ei bakgrunnsteneste for å installere oppdateringar
@@ -625,6 +628,8 @@ containers-back-button =
             [windows] Tilbake til innstillingar
            *[other] Tilbake til innstillingar
         }
+containers-back-button2 =
+    .aria-label = Tilbake til innstillingar
 containers-header = Innhaldsfaner
 containers-add-button =
     .label = Legg til ny behaldar
@@ -633,6 +638,8 @@ containers-new-tab-check =
     .label = Vel ein behaldar for kvar ny fane
     .accesskey = V
 containers-preferences-button =
+    .label = Innstillingar
+containers-settings-button =
     .label = Innstillingar
 containers-remove-button =
     .label = Fjern
@@ -704,6 +711,7 @@ sync-currently-syncing-prefs =
         [windows] Innstillingar
        *[other] Innstillingar
     }
+sync-currently-syncing-settings = Innstillingar
 sync-change-options =
     .label = Endre…
     .accesskey = E
@@ -750,6 +758,10 @@ sync-engine-prefs =
            *[other] Innstillingar
         }
     .tooltiptext = Generelle, personvern og sikkerheitsinnstillingar du har endra
+    .accesskey = n
+sync-engine-settings =
+    .label = Innstillingar
+    .tooltiptext = Generelle, personvern- og sikkerheitsinnstillingar du har endra
     .accesskey = n
 
 ## The device name controls.
@@ -1165,6 +1177,9 @@ space-alert-under-5gb-ok-button =
     .label = OK, eg forstår det
     .accesskey = K
 space-alert-under-5gb-message = { -brand-short-name } er i ferd med å gå tom for diskplass. Det kan vere at nettinnhaldet på sida ikkje vert vist korrekt. Gå til «Les meir» for å optimere diskbruken din for ei betre nettlesaroppleving.
+space-alert-over-5gb-settings-button =
+    .label = Opne Innstillingar
+    .accesskey = p
 
 ## Privacy Section - HTTPS-Only
 
