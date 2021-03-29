@@ -397,6 +397,7 @@ update-setting-write-failure-message =
     { -brand-short-name } ojuhu jejavy ha noñongatúi ko moambuepy. Ehechakuaáke pe ñemboheko ko jegueroryvéva ñemboheko rehegua oikotevẽ ñemoneĩ ehai hag̃ua marandurendápe ag̃a guive. Ikatuhína nde térã peteĩ ñangarekoha apopyvusu rehegua ikatu omoĩporã jejavy ome’ẽvo Puruha atýpe oñangarekóvo ko marandurenda rehe.
     
     Ndaikatúi ojehai marandurendápe: { $path }
+update-setting-write-failure-title2 = Ojavy eñongatúvo mbohekopyahu ñemboheko
 update-in-progress-title = Oñembohekopyahuhína
 update-in-progress-message = ¿Eipotápa { -brand-short-name } omongu’ejey ñembohekopyahu?
 update-in-progress-ok-button = &Hejarei
@@ -594,6 +595,7 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Ehechauka jehekaha Windows ñemiguávape
 suggestions-addressbar-settings-generic = Emoambue erohoryvéva ambue ñe’ãporãpe g̃uarã kundaharape rendápe
+suggestions-addressbar-settings-generic2 = Emoambue ñemboheko ambue ñe’ãporãpe g̃uarã kundaharape rendápe
 search-suggestions-cant-show = Jeheka je’epyréva ndojekuaamo’ãi kundaharape renda apopyrépe, oñembohekóma rupi { -brand-short-name } aníke nemandu’a tembiasakuére.
 search-one-click-header = Jehekaha mongu’eha jekutu peteĩva
 search-one-click-header2 = Jeheka mbopya’eha
