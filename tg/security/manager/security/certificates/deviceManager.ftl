@@ -12,4 +12,5 @@
 ## Token Manager
 
 add-module-failure = Модул илова карда намешавад
+del-module-warning = Шумо мутмаин ҳастед, ки мехоҳед ин модули амниятиро нест намоед?
 del-module-error = Модул нест карда намешавад

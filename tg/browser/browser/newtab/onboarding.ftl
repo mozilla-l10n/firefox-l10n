@@ -32,6 +32,7 @@ onboarding-welcome-form-header = Аз ин ҷо оғоз кунед
 onboarding-join-form-body = Барои оғози кор нишонии почтаи электронии худро ворид намоед.
 onboarding-join-form-email =
     .placeholder = Почтаи электрониро ворид намоед
+onboarding-join-form-email-error = Почтаи электронии дуруст лозим аст
 onboarding-join-form-continue = Идома додан
 # This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
 onboarding-join-form-signin-label = Аллакай ҳисобе доред?

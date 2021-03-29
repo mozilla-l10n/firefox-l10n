@@ -267,6 +267,9 @@ applications-use-os-default-label =
 
 ##
 
+play-drm-content =
+    .label = Пахш кардани муҳтавои идорашавандаи DRM
+    .accesskey = П
 play-drm-content-learn-more = Маълумоти бештар
 update-application-title = Навсозиҳои { -brand-short-name }
 update-application-version = Версияи { $version } <a data-l10n-name="learn-more">Чӣ нав аст</a>

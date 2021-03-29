@@ -5,6 +5,8 @@
 clear-site-data-window =
     .title = Пок кардани маълумот
     .style = width: 35em
+clear-site-data-close-key =
+    .key = w
 # The parameters in parentheses in this string describe disk usage
 # in the format ($amount $unit), e.g. "Cookies and Site Data (24 KB)"
 # Variables:

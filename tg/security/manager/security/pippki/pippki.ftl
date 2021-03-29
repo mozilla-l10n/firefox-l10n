@@ -14,6 +14,7 @@ reset-password-window =
     .title = Аз нав танзим кардани ниҳонвожаи хусусӣ
     .style = width: 40em
 pippki-failed-pw-change = Ниҳонвожа тағйир дода намешавад.
+pippki-pw-erased-ok = Шумо ниҳонвожаи худро нест кардед. { pippki-pw-empty-warning }
 
 ## Reset Primary Password dialog
 
