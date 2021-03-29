@@ -188,6 +188,29 @@ onboarding-multistage-pin-default-header =
        *[other] програм { -brand-short-name }
     }</span> надохват руке
 onboarding-multistage-pin-default-subtitle = Претражујте интернет брзо, безбедно и приватно.
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-waiting-subtitle =
+    Када се отворе подешавања, у одељку „Веб-прегледач” одаберите { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "acc") }
+        [feminine] { -brand-short-name(case: "acc") }
+        [neuter] { -brand-short-name(case: "acc") }
+       *[other] програм { -brand-short-name }
+    }
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-help-text =
+    Овим ћете закачити { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "acc") }
+        [feminine] { -brand-short-name(case: "acc") }
+        [neuter] { -brand-short-name(case: "acc") }
+       *[other] програм { -brand-short-name }
+    } на траку задатака и отворити подешавања
+onboarding-multistage-pin-default-primary-button-label =
+    Постави { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "acc") }
+        [feminine] { -brand-short-name(case: "acc") }
+        [neuter] { -brand-short-name(case: "acc") }
+       *[other] програм { -brand-short-name }
+    } као подразумевани прегледач
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Увезите лозинке, <br/>обележиваче и <span data-l10n-name="zap">друго</span>
