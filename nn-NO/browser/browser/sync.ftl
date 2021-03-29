@@ -22,3 +22,4 @@ fxa-signout-dialog =
     .style = min-width: 375px;
     .buttonlabelaccept = Logg ut
 fxa-signout-dialog2-button = Logg ut
+fxa-signout-dialog2-checkbox = Slett data frå denne eininga (passord, historikk, bokmerke osv.).
