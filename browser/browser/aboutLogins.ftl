@@ -142,7 +142,7 @@ about-logins-export-password-os-auth-dialog-message-macosx = exportar inicios de
 about-logins-primary-password-notification-message = Ingrese su contraseña maestra para ver los inicios de sesión y contraseñas guardados
 master-password-reload-button =
     .label = Ingresar
-    .accesskey = L
+    .accesskey = I
 
 ## Password Sync notification
 
