@@ -95,7 +95,7 @@ permissions-exceptions-saved-logins-desc = Пријаве за следеће с
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window =
-    .title = Омогућени веб сајтови - инсталације додатака
+    .title = Дозвољени веб-сајтови – инсталација додатака
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Можете да наведете веб-сајтове који смеју да инсталирају додатке. Унесите тачну адресу сајта и кликните на „Дозволи”.
 
