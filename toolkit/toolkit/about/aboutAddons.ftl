@@ -35,6 +35,8 @@ sidebar-preferences-button-title =
            *[other] Innstillingar for { -brand-short-name }
         }
 addons-settings-button = { -brand-short-name }-innstillingar
+sidebar-settings-button-title =
+    .title = { -brand-short-name }-innstillingar
 show-unsigned-extensions-button =
     .label = Nokre utvidingar kunne ikkje stadfestast
 show-all-extensions-button =
