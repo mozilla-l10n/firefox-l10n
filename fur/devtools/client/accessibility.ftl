@@ -25,6 +25,15 @@ accessibility-best-practices =
 accessibility-text-label-issue-area = Dopre l'atribût <code>alt</code> par etichetâ i elements <div>area</div> che a àn l'atribût <span>href</span>. <a>Plui informazions</a>
 accessibility-text-label-issue-dialog = I dialics a àn di vê une etichete. <a>Plui informazions</a>
 accessibility-text-label-issue-document-title = I documents a scugnin vê un <code>title</code>. <a>Plui informazions</a>
+accessibility-text-label-issue-embed = I contignûts incorporâts a scugnin vê une etichete. <a>Plui informazions</a>
+accessibility-text-label-issue-figure = Lis figuris cun didascaliis opzionâls a àn di vê une etichete. <a>Plui informazions</a>
+accessibility-text-label-issue-fieldset = I elements <code>fieldset</code> a scugnin vê une etichete. <a>Plui informazions</a>
+accessibility-text-label-issue-fieldset-legend2 = Dopre un element <code>legend</code> par etichetâ un <span>fieldset</span>. <a>Plui informazions</a>
+accessibility-text-label-issue-form = I elements dal formulari a scugnin vê une etichete. <a>Plui informazions</a>
+accessibility-text-label-issue-form-visible = I elements dal formulari a àn di vê une etichete di test visibile. <a>Plui informazions</a>
+accessibility-text-label-issue-frame = I elements <code>frame</code> a scugnin vê une etichete. <a>Plui informazions</a>
+accessibility-text-label-issue-glyph = Dopre l'atribût <code>alt</code> par etichetâ i elements <span>mglyph</span>. <a>Plui informazions</a>
+accessibility-text-label-issue-heading = Lis intestazions a scugnin vê une etichete. <a>Plui informazions</a>
 
 ## Text entries for a paragraph used in the accessibility panel sidebar's checks section
 ## that describe that currently selected accessible object has a keyboard accessibility
