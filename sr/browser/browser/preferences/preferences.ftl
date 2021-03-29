@@ -1150,7 +1150,13 @@ space-alert-over-5gb-message =
 space-alert-under-5gb-ok-button =
     .label = Разумем
     .accesskey = Р
-space-alert-under-5gb-message = { -brand-short-name } остаје без места на диску. Садржај веб сајта можда неће бити правилно приказан. Посетите “Сазнајте више” да оптимизујете коришћење диска за боље искуство прегледања.
+space-alert-under-5gb-message =
+    { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "loc") }
+        [feminine] { -brand-short-name(case: "loc") }
+        [neuter] { -brand-short-name(case: "loc") }
+       *[other] Програму { -brand-short-name }
+    } понестаје слободног простора на диску. Садржај веб-сајтова се можда неће правилно приказивати. Кликните на „Сазнајте више” да бисте оптимизовали коришћење диска ради бољег угођаја при претраживању интернета.
 space-alert-over-5gb-settings-button =
     .label = Отвори подешавања
     .accesskey = О
@@ -1161,6 +1167,13 @@ space-alert-over-5gb-message2 =
         [neuter] { -brand-short-name(case: "loc") }
        *[other] Програму { -brand-short-name }
     } понестаје слободног простора на диску. Садржај веб-сајтова се можда неће правилно приказивати. Ускладиштене податке можете обрисати у одељку Подешавања → Приватност и безбедност → Колачићи и подаци о сајтовима.
+space-alert-under-5gb-message2 =
+    { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "loc") }
+        [feminine] { -brand-short-name(case: "loc") }
+        [neuter] { -brand-short-name(case: "loc") }
+       *[other] Програму { -brand-short-name }
+    } понестаје слободног простора на диску. Садржај веб-сајтова се можда неће правилно приказивати. Кликните на „Сазнајте више” да бисте оптимизовали коришћење диска ради бољег угођаја при претраживању интернета.
 
 ## Privacy Section - HTTPS-Only
 
