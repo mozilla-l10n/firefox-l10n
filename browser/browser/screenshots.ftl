@@ -3,15 +3,18 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 screenshots-context-menu = Усликај екран
+screenshot-toolbarbutton =
+    .label = Снимак екрана
+    .tooltiptext = Направи снимак екрана
 screenshots-my-shots-button = Моји снимци
-screenshots-instructions = Превуците или кликните на страницу да изаберете област. Притисните ESC да прекинете.
+screenshots-instructions = Изаберите област превлачењем мишем или кликом на страницу. Притисните Esc да бисте отказали.
 screenshots-cancel-button = Откажи
 screenshots-save-visible-button = Сачувај видљиво
 screenshots-save-page-button = Сачувај целу страницу
 screenshots-download-button = Преузми
-screenshots-download-button-tooltip = Преузми снимак
+screenshots-download-button-tooltip = Преузми снимак екрана
 screenshots-copy-button = Копирај
-screenshots-copy-button-tooltip = Копирај снимак екрана у оставу
+screenshots-copy-button-tooltip = Копирај снимак екрана у привремену меморију
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
