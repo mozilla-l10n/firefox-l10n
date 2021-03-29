@@ -45,7 +45,7 @@ pippki-reset-password-confirmation-message = Ваша главна лозинк�
 ## Downloading cert dialog
 
 download-cert-window =
-    .title = Пријем сертификата
+    .title = Преузимање сертификата
     .style = width: 46em
 download-cert-message = Тражено је да верујете новом сертификационом телу (СА).
 download-cert-trust-ssl =
