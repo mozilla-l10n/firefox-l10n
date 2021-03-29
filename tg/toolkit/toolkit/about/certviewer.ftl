@@ -16,6 +16,9 @@ certificate-viewer-location = Ҷойгиршавӣ
 
 ##
 
+# Label for a tab where we haven't found a better label:
+certificate-viewer-unknown-group-label = (номаълум)
 
 ## Labels for tabs displayed in stand-alone about:certificate page
 
+certificate-viewer-tab-unkonwn = Номаълум
