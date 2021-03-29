@@ -108,6 +108,12 @@ main-context-menu-bookmark-add =
 main-context-menu-bookmark-add-mac =
     .label = Bokmerk sida
     .accesskey = m
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-edit-mac =
+    .label = Rediger bokmerke
+    .accesskey = m
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-add-with-shortcut =

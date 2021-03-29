@@ -11,6 +11,8 @@
 
 ## Application Menu (macOS only)
 
+menu-application-preferences =
+    .label = Innstillingar
 menu-application-services =
     .label = Tenester
 menu-application-hide-this =
@@ -252,6 +254,9 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Logg inn på { -brand-product-name }…
     .accesskey = g
+menu-tools-addons-and-themes =
+    .label = Tillegg og tema
+    .accesskey = T
 menu-tools-fxa-sign-in2 =
     .label = Logg inn
     .accesskey = L
