@@ -116,9 +116,13 @@ about-logins-edit-login-os-auth-dialog-message-win = ដើម្បីកែស
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = កែសម្រួលការចូលដែលបានរក្សាទុក
+# This message can be seen when attempting to reveal a password in about:logins on Windows.
+about-logins-reveal-password-os-auth-dialog-message-win = ដើម្បីមើល​ពាក្យសម្ងាត់​របស់អ្នក សូម​បញ្ចូល​ព័ត៌មាន​ផ្ទៀងផ្ទាត់​ការចូល​ Windows របស់​អ្នក។ វា​ជួយ​ការពារ​សុវត្ថិភាព​គណនី​របស់​អ្នក។
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = បង្ហាញពាក្យសម្ងាត់ដែលបានរក្សាទុក
+# This message can be seen when attempting to copy a password in about:logins on Windows.
+about-logins-copy-password-os-auth-dialog-message-win = ដើម្បី​ចម្លង​ពាក្យ​សម្ងាត់​របស់អ្នក សូម​បញ្ចូល​ព័ត៌មាន​ផ្ទៀងផ្ទាត់​ការចូល Windows ​របស់អ្នក។ វា​ជួយ​ការពារ​សុវត្ថិភាព​គណនី​របស់​អ្នក។
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = ចម្លងពាក្យសម្ងាត់ដែលបានរក្សាទុក
@@ -126,6 +130,8 @@ about-logins-copy-password-os-auth-dialog-message-macosx = ចម្លងពា
 ## Master Password notification
 
 master-password-notification-message = សូម​បញ្ចូល​ពាក្យសម្ងាត់​មេ​របស់​អ្នក ដើម្បី​មើល​ការចូល និង​ពាក្យ​សម្ងាត់​ដែល​បាន​រក្សាទុក
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message-win = ដើម្បីនាំចេញ​ការចូល​របស់អ្នក សូមបញ្ចូល​ព័ត៌មាន​ផ្ទៀងផ្ទាត់​ការចូល Windows របស់ង្នក។ វា​ជួយ​ការពារ​សុវត្ថិភាព​គណនី​របស់​អ្នក។
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = នាំចេញការចូលនិងពាក្យសម្ងាត់ដែលបានរក្សាទុក
@@ -163,6 +169,21 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = លុបការចូលនេះចេញ?
 confirm-delete-dialog-message = សកម្មភាព​នេះ​មិន​អាច​ត្រឡប់​វិញ​បាន​ទេ។
 about-logins-confirm-remove-dialog-confirm-button = លុប​ចេញ
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] លុបចេញ
+       *[other] លុបចេញ​ទាំងអស់
+    }
+about-logins-confirm-remove-all-dialog-checkbox-label =
+    { $count ->
+        [1] បាទ/ចាស ដកការចូលនេះចេញ
+       *[other] បាទ/ចាស ដកការចូលទាំងនេះចេញ
+    }
+about-logins-confirm-remove-all-dialog-title =
+    { $count ->
+        [one] ដកការចូល { $count } ចេញ?
+       *[other] ដកការចូល { $count } ទាំងអស់ចេញ?
+    }
 about-logins-confirm-export-dialog-title = នាំចេញការចូលនិងពាក្យសម្ងាត់
 about-logins-confirm-export-dialog-confirm-button = នាំចេញ…
 confirm-discard-changes-dialog-title = បោះបង់​ការផ្លាស់ប្ដូរ​ដែល​មិន​បាន​រក្សាទុក?
