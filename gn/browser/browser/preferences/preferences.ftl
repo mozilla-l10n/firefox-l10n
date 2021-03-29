@@ -29,6 +29,17 @@ search-input-box =
            *[other] Eheka Jerohoryvévape
         }
 settings-page-title = Ñemboheko
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box2 =
+    .style = width: 15.4em
+    .placeholder = Eheka ñembohekópe
 managed-notice = Pe kundaha rehe oñangareko atyguasu.
 category-list =
     .aria-label = Mboja’opy
@@ -370,6 +381,9 @@ update-application-check-choose =
 update-application-manual =
     .label = Ani eheka ñembohekopyahu (jerovia’ỹ)
     .accesskey = N
+update-application-background-enabled =
+    .label = { -brand-short-name } nomba’apói jave
+    .accesskey = W
 update-application-warning-cross-user-setting = Ko ñemboheko ojogueraháta opaite Windows mba’ete ndive ha umi teratee { -brand-short-name } rehegua oipurúvo ko { -brand-short-name } ñemohenda.
 update-application-use-service =
     .label = Eipuru peteĩ mba’epytyvõrã mokõiha pegua remboguejy hag̃ua tekopyahu
@@ -744,6 +758,10 @@ sync-engine-prefs =
            *[other] Jerohoryvéva
         }
     .tooltiptext = Ñangareko Pavẽ, Rekovepypegua ha Tekorosã rehegua remoambuévakuri
+    .accesskey = s
+sync-engine-settings =
+    .label = Ñemboheko
+    .tooltiptext = Ñembokeo tuichaháicha, ñemigua ha tekorosã emoambuéva
     .accesskey = s
 
 ## The device name controls.

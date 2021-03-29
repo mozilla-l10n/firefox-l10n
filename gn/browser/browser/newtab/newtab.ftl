@@ -19,6 +19,20 @@ newtab-search-box-search-button =
     .title = Eheka
     .aria-label = Eheka
 newtab-search-box-search-the-web-text = Ñandutivevépe Jeheka
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-text = Eheka { $engine } ndive térã emoinge kundaharape
+newtab-search-box-handoff-text-no-engine = Eheka térã ehai kundaharape
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-input =
+    .placeholder = Eheka { $engine } ndive térã emoinge kundaharape
+    .title = Eheka { $engine } ndive térã emoinge kundaharape
+    .aria-label = Eheka { $engine } ndive térã emoinge kundaharape
+newtab-search-box-handoff-input-no-engine =
+    .placeholder = Eheka térã ehai kundaharape
+    .title = Eheka térã ehai kundaharape
+    .aria-label = Eheka térã ehai kundaharape
 newtab-search-box-search-the-web-input =
     .placeholder = Ñandutivevépe Jeheka
     .title = Ñandutivevépe Jeheka
