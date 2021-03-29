@@ -26,6 +26,13 @@ toolbar-context-menu-undo-close-tabs =
            *[other] Врати затворених картица
         }
     .accesskey = р
+toolbar-context-menu-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Врати затворену картицу
+           *[other] Врати затворене картице
+        }
+    .accesskey = В
 toolbar-context-menu-manage-extension =
     .label = Управљај проширењем
     .accesskey = в
@@ -47,11 +54,17 @@ toolbar-context-menu-pin-to-overflow-menu =
 toolbar-context-menu-auto-hide-downloads-button =
     .label = Аутоматски сакриј на траци са алаткама
     .accesskey = А
+toolbar-context-menu-auto-hide-downloads-button-2 =
+    .label = Сакриј дугме када је листа празна
+    .accesskey = С
 toolbar-context-menu-remove-from-toolbar =
     .label = Уклони
     .accesskey = у
 toolbar-context-menu-view-customize-toolbar =
     .label = Прилагоди…
+    .accesskey = П
+toolbar-context-menu-view-customize-toolbar-2 =
+    .label = Прилагоди траку са алаткама…
     .accesskey = П
 toolbar-context-menu-bookmarks-toolbar-always-show-2 =
     .label = Увек приказуј
