@@ -74,8 +74,11 @@ onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 ## Each message also has an associated button for the user to try the feature.
 ## The string for the button is found above, in the UI strings section
 
+onboarding-tracking-protection-title2 = Муҳофизат аз пайгирӣ
 onboarding-tracking-protection-button2 = Чӣ тавр кор мекунад
+onboarding-data-sync-title = Танзимоти худро бо худ гиред
 onboarding-data-sync-button2 = Ба { -sync-brand-short-name } ворид шавед
+onboarding-browse-privately-title = Тамошокунии махфӣ
 onboarding-browse-privately-button = Кушодани равзанаи махфӣ
 onboarding-firefox-send-button = { -send-brand-name }-ро озмоед
 onboarding-mobile-phone-title = { -brand-product-name }-ро дар телефони худ насб намоед
@@ -86,11 +89,13 @@ onboarding-pocket-anywhere-button = { -pocket-brand-name }-ро озмоед
 onboarding-lockwise-strong-passwords-button = Идоракунии воридшавиҳои худ
 onboarding-facebook-container-button = Илова кардани васеъшавӣ
 onboarding-import-browser-settings-button = Ворид кардани маълумоти Chrome
+onboarding-personal-data-promise-button = Ваъдаи моро хонед
 
 ## Message strings belonging to the Return to AMO flow
 
 return-to-amo-sub-header = Аҷоиб, шумо { -brand-short-name } доред
 return-to-amo-extension-button = Илова кардани васеъшавӣ
+return-to-amo-get-started-button = Оғози кор бо { -brand-short-name }
 onboarding-not-now-button-label = Ҳоло не
 
 ## Custom Return To AMO onboarding strings
@@ -103,8 +108,10 @@ return-to-amo-add-extension-label = Илова кардани васеъшавӣ
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. { -brand-short-name } should stay inside the span.
 onboarding-multistage-welcome-header = Хуш омадед ба <span data-l10n-name="zap">{ -brand-short-name }</span>
+onboarding-multistage-welcome-primary-button-label = Оғози танзимкунӣ
 onboarding-multistage-welcome-secondary-button-label = Ворид шудан
 onboarding-multistage-welcome-secondary-button-text = Ҳисобе доред?
+onboarding-multistage-set-default-primary-button-label = Ҳамчун пешфарз танзим кунед
 onboarding-multistage-set-default-secondary-button-label = Ҳоло не
 onboarding-multistage-import-primary-button-label = Оғоз кардани воридкунӣ
 onboarding-multistage-import-secondary-button-label = Ҳоло не

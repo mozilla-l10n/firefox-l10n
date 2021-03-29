@@ -119,6 +119,8 @@ cfr-doorhanger-firefox-send-ok-button = { -send-brand-name }-ро озмоед
 
 ## Social Tracking Protection
 
+cfr-doorhanger-socialtracking-ok-button = Намоиши муҳофизатҳо
+    .accesskey = Н
 cfr-doorhanger-socialtracking-close-button = Пӯшидан
     .accesskey = П
 
@@ -150,6 +152,7 @@ cfr-doorhanger-milestone-close-button = Пӯшидан
 ## What’s New Panel Content for Firefox 76
 ## Protections Dashboard message
 
+cfr-whatsnew-protections-header = Муҳофизатҳо дар як нигоҳ
 cfr-whatsnew-protections-cta-link = Намоиш додани лавҳаи вазъияти муҳофизат
 cfr-whatsnew-protections-icon-alt = Нишони сипар
 
