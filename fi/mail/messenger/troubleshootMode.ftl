@@ -5,6 +5,9 @@
 troubleshoot-mode-disable-addons =
     .label = Poista käytöstä kaikki lisäosat
     .accesskey = P
+troubleshoot-mode-change-and-restart =
+    .label = Toteuta muutokset ja käynnistä uudelleen
+    .accesskey = T
 troubleshoot-mode-quit =
     .label =
         { PLATFORM() ->
