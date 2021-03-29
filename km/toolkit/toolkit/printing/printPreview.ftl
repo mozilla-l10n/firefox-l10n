@@ -31,6 +31,7 @@ printpreview-print =
     .accesskey = ម
 printpreview-of =
     .value = នៃ
+printpreview-custom-scale-prompt-title = មាត្រដ្ឋាន​ផ្ទាល់ខ្លួន
 printpreview-page-setup =
     .label = ការ​រៀបចំ​ទំព័រ…
     .accesskey = u
@@ -42,6 +43,8 @@ printpreview-page =
 ## $percent (integer) - menuitem percent label
 ## $arrow (String) - UTF-8 arrow character for navigation buttons
 
+printpreview-percentage-value =
+    .label = { $percent }%
 printpreview-homearrow =
     .label = { $arrow }
     .tooltiptext = ទំព័រ​ដំបូង
@@ -54,4 +57,3 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = ទំព័រ​ចុង​ក្រោយ
-
