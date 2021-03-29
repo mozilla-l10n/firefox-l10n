@@ -1,0 +1,23 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
+<!ENTITY tapToPlayPlugin                                     "Барои фаъол кардани плагин дар ин ҷо зарба занед.">
+<!ENTITY clickToActivatePlugin                               "Фаъол кардани плагин.">
+<!ENTITY checkForUpdates                                     "Санҷиши навсозиҳо…">
+<!ENTITY blockedPlugin.label                                 "Барои муҳофизати шумо ин плагин манъ карда шуд.">
+<!ENTITY hidePluginBtn.label                                 "Пинҳон кардани плагин">
+<!ENTITY managePlugins                                       "Идоракунии плагинҳо…">
+
+<!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
+<!ENTITY reloadPlugin.pre                                    "">
+<!ENTITY reloadPlugin.middle                                 "Аз нав бор кардани саҳифа">
+<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+
+<!ENTITY plugin.file                                         "Файл">
+<!ENTITY plugin.mimeTypes                                    "Намудҳои MIME">
+<!ENTITY plugin.flashProtectedMode.label                     "Фаъол кардани реҷаи муҳофизат барои Adobe Flash">
+<!ENTITY plugin.enableBlocklists.label                       "Манъ кардани муҳтавои Flash-и зараровар ва безоркунанда">
