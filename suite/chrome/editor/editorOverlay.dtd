@@ -163,7 +163,7 @@
 <!ENTITY heading6Cmd.label "Título 6">
 <!ENTITY heading6Cmd.accesskey "6">
 <!ENTITY paragraphAddressCmd.label "Dirección">
-<!ENTITY paragraphAddressCmd.accesskey "A">
+<!ENTITY paragraphAddressCmd.accesskey "D">
 <!ENTITY paragraphPreformatCmd.label "Preformato">
 <!ENTITY paragraphPreformatCmd.accesskey "A">
 
