@@ -81,9 +81,9 @@ permissions-exceptions-cookie-desc = Ви можете вказати, яким 
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window =
-    .title = Дозволені вебсайти - Виринаючі вікна
+    .title = Дозволені вебсайти - Спливні вікна
     .style = { permissions-window.style }
-permissions-exceptions-popup-desc = Ви можете вказати, яким сайтам дозволено відкривати виринаючі вікна. Введіть точну адресу для кожного сайту і натисніть кнопку Дозволити.
+permissions-exceptions-popup-desc = Ви можете вказати, яким сайтам дозволено відкривати спливні вікна. Введіть точну адресу для кожного сайту і натисніть кнопку Дозволити.
 
 ## Exceptions - Saved Logins
 

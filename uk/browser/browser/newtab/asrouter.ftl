@@ -142,8 +142,8 @@ cfr-whatsnew-pip-cta = Докладніше
 
 ## Permission Prompt
 
-cfr-whatsnew-permission-prompt-header = Менше дратівливих виринаючих вікон сайтів
-cfr-whatsnew-permission-prompt-body = { -brand-shorter-name } тепер блокує сайти, що автоматично запитують про надсилання вам виринаючих повідомлень.
+cfr-whatsnew-permission-prompt-header = Менше дратівливих спливних вікон сайтів
+cfr-whatsnew-permission-prompt-body = { -brand-shorter-name } тепер блокує сайти, що автоматично запитують про надсилання вам спливних повідомлень.
 cfr-whatsnew-permission-prompt-cta = Докладніше
 
 ## Fingerprinter Counter
@@ -228,8 +228,6 @@ cfr-doorhanger-milestone-heading2 =
     }
 cfr-doorhanger-milestone-ok-button = Дивитись все
     .accesskey = в
-cfr-doorhanger-milestone-close-button = Закрити
-    .accesskey = З
 
 ## What’s New Panel Content for Firefox 76
 
@@ -254,6 +252,8 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Піктограма зображення
 
 ## Protections Dashboard message
 
+cfr-doorhanger-milestone-close-button = Закрити
+    .accesskey = З
 
 ## What’s New Panel Content for Firefox 76
 ## Protections Dashboard message
