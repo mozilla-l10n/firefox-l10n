@@ -199,7 +199,10 @@ about-logins-confirm-remove-all-sync-dialog-message =
        *[other] This will remove all logins you’ve saved to { -brand-short-name } on all devices synced to your { -fxaccount-brand-name }. This will also remove breach alerts that appear here. You won’t be able to undo this action.
     }
 about-logins-confirm-export-dialog-title = នាំចេញការចូលនិងពាក្យសម្ងាត់
+about-logins-confirm-export-dialog-message = ពាក្យសម្ងាត់​របស់​អ្នក​នឹង​ត្រូវបាន​រក្សាទុក​ជាអត្ថបទ​ដែល​អាច​អាន​បាន (ឧ. BadP@ssw0rd) ដូច្នេះ​នរណា​ដែល​អាច​បើក​ឯកសារ​ដែល​បាន​នាំចេញ​ អាច​មើលពាក្យ​សម្ងាត់​ទាំងនោះបាន។
 about-logins-confirm-export-dialog-confirm-button = នាំចេញ…
+about-logins-alert-import-title = ការនាំចូល​បាន​បញ្ចប់
+about-logins-alert-import-message = មើល​សេចក្ដី​សង្ខេប​អំពី​ការនាំចូល​លម្អិត
 confirm-discard-changes-dialog-title = បោះបង់​ការផ្លាស់ប្ដូរ​ដែល​មិន​បាន​រក្សាទុក?
 confirm-discard-changes-dialog-message = ការផ្លាស់ប្ដូរ​ដែល​មិន​បាន​រក្សាទុក​ទាំងអស់​នឹង​បាត់។
 confirm-discard-changes-dialog-confirm-button = បោះបង់
@@ -208,6 +211,7 @@ confirm-discard-changes-dialog-confirm-button = បោះបង់
 
 about-logins-breach-alert-title = ការបំពានគេហទំព័រ
 breach-alert-text = ពាក្យ​សម្ងាត់​ត្រូវបាន​បែកធ្លាយ ឬ​លួច​ពី​គេហទំព័រ​នេះ ចាប់តាំង​ពី​អ្នក​បាន​ធ្វើបច្ចុប្បន្នភាព​​ព័ត៌មាន​លម្អិត​ការចូល​របស់​អ្នក​ចុងក្រោយ។ សូម​ប្ដូរ​ពាក្យ​សម្ងាត់​របស់​អ្នក ដើម្បី​ការពារ​គណនី​របស់​អ្នក។
+about-logins-breach-alert-date = ការបំពាន​នេះ​បាន​កើតឡើង​នៅថ្ងៃ  { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = ទៅកាន់ { $hostname }
