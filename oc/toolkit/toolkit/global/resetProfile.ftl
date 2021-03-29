@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = Reïnicializar { -brand-short-name }
+refresh-profile-dialog-title = Reviscolar { -brand-short-name } en restablissent sos paramètres per defaut ?
 refresh-profile-dialog-button =
     .label = Reïnicializar { -brand-short-name }
 refresh-profile-description = Tornar partir per reparar los problèmas e restablir las performanças.
