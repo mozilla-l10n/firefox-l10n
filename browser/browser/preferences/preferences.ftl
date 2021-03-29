@@ -20,6 +20,7 @@ pref-page-title = Подешавања
 search-input-box =
     .style = width: 15.4em
     .placeholder = Пронађите у подешавањима
+settings-page-title = Подешавања
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -55,6 +56,13 @@ category-experimental =
 pane-experimental-subtitle = Наставите с опрезом
 pane-experimental-search-results-header = { -brand-short-name } експерименти: наставите с опрезом
 pane-experimental-description = Промена напредних подешавања може да утиче на перформансе или безбедност { -brand-short-name }-а.
+pane-experimental-description2 =
+    Промена напредних подешавања може негативно да утиче на перформансе и безбедност { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "gen") }
+        [feminine] { -brand-short-name(case: "gen") }
+        [neuter] { -brand-short-name(case: "gen") }
+       *[other] програма { -brand-short-name }
+    }.
 pane-experimental-reset =
     .label = Врати подразумевано
     .accesskey = В
@@ -120,6 +128,8 @@ extension-controlled-enable = Како бисте омогућили ексте�
 search-results-header = Резултати претраге
 # `<span data-l10n-name="query"></span>` will be replaced by the search term.
 search-results-empty-message = У подешавањима нема резултата за „<span data-l10n-name="query"></span>”.
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 = У подешавањима нема резултата за „<span data-l10n-name="query"></span>”.
 search-results-help-link = Потребна вам је помоћ? Посетите <a data-l10n-name="url">{ -brand-short-name } подршка</a>
 
 ## General Section

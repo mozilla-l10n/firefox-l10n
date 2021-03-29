@@ -14,7 +14,7 @@ policy-3rdparty = Поставите правила којим WebExtensions м�
 policy-AppAutoUpdate = Омогућите или онемогућите аутоматско ажурирање апликације.
 policy-AppUpdateURL = Подеси прилагођену адресу за ажурирање програма.
 policy-Authentication = Подесите уграђену идентификацију за сајтове који то подржавају.
-policy-BackgroundAppUpdate2 = Enable or disable the background updater.
+policy-BackgroundAppUpdate2 = Омогућава или онемогућава ажурирање у позадини.
 policy-BlockAboutAddons = Блокирај приступ управнику додатака (about:addons).
 policy-BlockAboutConfig = Блокирај приступ страници about:config.
 policy-BlockAboutProfiles = Блокирај приступ страници about:profiles.
@@ -107,6 +107,7 @@ policy-SearchEngines = Подеси поставке претраживача. �
 policy-SearchSuggestEnabled = Омогућите или онемогућите предлоге за претрагу.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Инсталирај PKCS #11 модуле.
+policy-ShowHomeButton = Приказује дугме „Почетна” на траци са алаткама.
 policy-SSLVersionMax = Постави највеће могуће издање SSL-a.
 policy-SSLVersionMin = Постави најмање могуће издање SSL-a.
 policy-SupportMenu = Додај прилагођену ставку за подршку у менију помоћи.
