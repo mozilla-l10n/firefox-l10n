@@ -140,14 +140,14 @@ openpgp-key-man-ctx-copy-fprs =
             [one] Huella dactilar
            *[other] Huellas dactilares
         }
-    .accesskey = F
+    .accesskey = H
 openpgp-key-man-ctx-copy-key-ids =
     .label =
         { $count ->
             [one] Clave de ID
            *[other] Clave de IDs
         }
-    .accesskey = K
+    .accesskey = I
 openpgp-key-man-ctx-copy-public-keys =
     .label =
         { $count ->

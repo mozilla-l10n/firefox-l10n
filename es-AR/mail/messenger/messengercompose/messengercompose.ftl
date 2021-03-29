@@ -33,14 +33,14 @@ pill-action-edit =
     .label = Editar dirección
     .accesskey = e
 pill-action-move-to =
-    .label = Mover a
+    .label = Mover a Destinatario
     .accesskey = t
 pill-action-move-cc =
     .label = Mover a CC
     .accesskey = c
 pill-action-move-bcc =
     .label = Mover a CCO
-    .accesskey = b
+    .accesskey = o
 
 # Attachment widget
 

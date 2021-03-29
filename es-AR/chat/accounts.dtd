@@ -23,9 +23,9 @@
 <!ENTITY account.connect.label        "Conectar">
 <!ENTITY account.connect.accesskey    "o">
 <!ENTITY account.disconnect.label     "Desconectar">
-<!ENTITY account.disconnect.accesskey "i">
+<!ENTITY account.disconnect.accesskey "D">
 <!ENTITY account.delete.label         "Eliminar">
-<!ENTITY account.delete.accesskey     "D">
+<!ENTITY account.delete.accesskey     "E">
 <!ENTITY account.edit.label           "Propiedades">
 <!ENTITY account.edit.accesskey       "P">
 <!ENTITY account.moveup.label         "Mover arriba">
