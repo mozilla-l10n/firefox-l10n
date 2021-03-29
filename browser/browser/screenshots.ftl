@@ -4,8 +4,8 @@
 
 screenshots-context-menu = Зробити знімок екрана
 screenshot-toolbarbutton =
-    .label = Знімок екрану
-    .tooltiptext = Зробити знімок екрану
+    .label = Знімок екрана
+    .tooltiptext = Зробити знімок екрана
 screenshots-my-shots-button = Мої знімки
 screenshots-instructions = Потягніть або клацніть на сторінці для вибору області. Натисніть ESC для скасування.
 screenshots-cancel-button = Скасувати
