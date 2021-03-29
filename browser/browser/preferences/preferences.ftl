@@ -368,6 +368,9 @@ update-application-check-choose =
 update-application-manual =
     .label = Никадa не проверава ажурирања (не препоручује се)
     .accesskey = Н
+update-application-background-enabled =
+    .label = Када { -brand-short-name } није покренут
+    .accesskey = К
 update-application-warning-cross-user-setting = Ово подешавање ће бити примењено на све Windows налоге и на { -brand-short-name } профиле који користе ову инсталацију програма { -brand-short-name }.
 update-application-use-service =
     .label = Употреби позадинске сервисе за инсталацију надоградњи
@@ -381,6 +384,7 @@ update-setting-write-failure-message =
     { -brand-short-name } је наишао на грешку и није сачувао ову промену. Имајте на уму да је за промену овог подешавања потребна дозвола за писање у датотеку испод. Ви или администратор система можете да решите грешку тако што ћете корисничкој групи дати потпуну контролу над овом датотеком.
     
     Није могуће писати у датотеку: { $path }
+update-setting-write-failure-title2 = Грешка при чувању подешавања ажурирања
 update-in-progress-title = Ажурирање у току
 update-in-progress-message = Желите ли да { -brand-short-name } настави са ажурирањем?
 update-in-progress-ok-button = &Одбаци
@@ -579,6 +583,7 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Прикажи предлоге за претрагу у приватном прегледању
 suggestions-addressbar-settings-generic = Измените посдешавања предлога претраживања
+suggestions-addressbar-settings-generic2 = Промени подешавања предлога у траци за адресу
 search-suggestions-cant-show = Предлози претраге неће бити приказани у траци за локацију зато што сте подесили да { -brand-short-name } никада не памти историју.
 search-one-click-header = One-click претраживачи
 search-one-click-header2 = Пречице за претрагу
@@ -609,6 +614,8 @@ search-keyword-warning-bookmark = Одабрали сте кључну реч к
 
 containers-back-button =
     .aria-label = Назад на подешавања
+containers-back-button2 =
+    .aria-label = Назад на подешавања
 containers-header = Контејнер језичци
 containers-add-button =
     .label = Додај нови контејнер
@@ -618,6 +625,8 @@ containers-new-tab-check =
     .accesskey = S
 containers-preferences-button =
     .label = Подешавања
+containers-settings-button =
+    .label = Подешавања
 containers-remove-button =
     .label = Уклони
 
@@ -626,6 +635,7 @@ containers-remove-button =
 
 sync-signedout-caption = Понесите веб са собом
 sync-signedout-description = Синхронизујте обележиваче, историју, картице, лозинке, додатке и подешавања на свим уређајима.
+sync-signedout-description2 = Синхронизујте обележиваче, историју, картице, лозинке, додатке и подешавања на свим уређајима.
 sync-signedout-account-signin2 =
     .label = Пријавите се на { -sync-brand-short-name }…
     .accesskey = П
@@ -668,6 +678,7 @@ prefs-sync-setup =
     .label = Поставите { -sync-brand-short-name }…
     .accesskey = П
 prefs-sync-offer-setup-label = Синхронизујте обележиваче, историју, картице, лозинке, додатке и подешавања на свим уређајима.
+prefs-sync-offer-setup-label2 = Синхронизујте обележиваче, историју, картице, лозинке, додатке и подешавања на свим уређајима.
 prefs-sync-now =
     .labelnotsyncing = Синхронизујте сада
     .accesskeynotsyncing = С
@@ -684,6 +695,7 @@ sync-currently-syncing-addresses = Адресе
 sync-currently-syncing-creditcards = Кредитне картице
 sync-currently-syncing-addons = Додаци
 sync-currently-syncing-prefs = Подешавања
+sync-currently-syncing-settings = Подешавања
 sync-change-options =
     .label = Промена…
     .accesskey = П
@@ -726,6 +738,10 @@ sync-engine-addons =
 sync-engine-prefs =
     .label = Подешавања
     .tooltiptext = Подешавања која сте променили
+    .accesskey = П
+sync-engine-settings =
+    .label = Подешавања
+    .tooltiptext = Промењена општа подешавања, подешавања приватности и безбедности
     .accesskey = П
 
 ## The device name controls.
