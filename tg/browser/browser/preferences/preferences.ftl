@@ -350,6 +350,14 @@ home-prefs-search-header =
     .label = Ҷустуҷӯ дар Интернет
 home-prefs-topsites-header =
     .label = Сомонаҳои беҳтарин
+home-prefs-topsites-description = Сомонаҳое, ки шумо бештар боздид мекунед
+home-prefs-topsites-by-option-sponsored =
+    .label = Сомонаҳои беҳтарини сарпарастӣ
+home-prefs-shortcuts-header =
+    .label = Миёнбурҳо
+home-prefs-shortcuts-description = Сомонаҳое, ки шумо нигоҳ медоред ё ба онҳо ворид мешавед
+home-prefs-shortcuts-by-option-sponsored =
+    .label = Миёнбурҳои сарпарастӣ
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -360,18 +368,47 @@ home-prefs-recommended-by-header =
 ##
 
 home-prefs-recommended-by-learn-more = Чӣ тавр кор мекунад
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = Мақолаҳои сарпарастӣ
+home-prefs-highlights-header =
+    .label = Нуқтаҳои асосӣ
+home-prefs-highlights-option-visited-pages =
+    .label = Саҳифаҳои кушодашуда
 home-prefs-highlights-options-bookmarks =
     .label = Хатбаракҳо
+home-prefs-highlights-option-most-recent-download =
+    .label = Боргириҳои охирин
+home-prefs-highlights-option-saved-to-pocket =
+    .label = Саҳифаҳое, ки ба { -pocket-brand-name } нигоҳ дошта шудаанд
+home-prefs-recent-activity-header =
+    .label = Фаъолияти охирин
+home-prefs-recent-activity-description = Интихоби сомонаҳо ва муҳтавои охирин
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = Ёддоштҳо
+home-prefs-snippets-description = Навсозиҳо аз { -vendor-short-name } ва { -brand-product-name }
+home-prefs-snippets-description-new = Маслиҳатҳо ва ахбор аз { -vendor-short-name } ва { -brand-product-name }
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } сатр
+           *[other] { $num } сатр
+        }
 
 ## Search Section
 
 search-bar-header = Навори ҷустуҷӯ
+search-bar-hidden =
+    .label = Истифодаи навори нишонӣ барои ҷустуҷӯ ва паймоиш
+search-bar-shown =
+    .label = Илова кардани навори ҷустуҷӯ ба навори абзорҳо
+search-engine-default-header = Низоми ҷустуҷӯии пешфарз
+search-separate-default-engine =
+    .label = Истифодаи ин низоми ҷустуҷӯӣ дар равзанаҳои махфӣ
+    .accesskey = И
 search-suggestions-header = Пешниҳодҳои ҷустуҷӯ
 search-one-click-header2 = Миёнбурҳои низомҳои ҷустуҷӯӣ
 search-choose-engine-column =
