@@ -240,38 +240,38 @@ main-context-menu-media-loop =
 
 main-context-menu-media-show-controls =
     .label = Прикажи контроле
-    .accesskey = C
+    .accesskey = к
 main-context-menu-media-hide-controls =
     .label = Сакриј контроле
-    .accesskey = C
+    .accesskey = к
 
 ##
 
 main-context-menu-media-video-fullscreen =
-    .label = Користи цео екран
-    .accesskey = F
+    .label = Режим целог екрана
+    .accesskey = Р
 main-context-menu-media-video-leave-fullscreen =
-    .label = Обустави приказ преко целог екрана
-    .accesskey = u
+    .label = Изађи из режима целог екрана
+    .accesskey = И
 # This is used when right-clicking on a video in the
 # content area when the Picture-in-Picture feature is enabled.
 main-context-menu-media-pip =
     .label = Слика у слици
-    .accesskey = u
+    .accesskey = С
 # This is used when right-clicking on a video in the
 # content area when the Picture-in-Picture feature is enabled.
 main-context-menu-media-watch-pip =
     .label = Гледај у режиму „Слика у слици”
     .accesskey = Г
 main-context-menu-image-reload =
-    .label = Учитај поново слике
-    .accesskey = R
+    .label = Поново учитај слику
+    .accesskey = П
 main-context-menu-image-view =
     .label = Прикажи слику
-    .accesskey = I
+    .accesskey = р
 main-context-menu-video-view =
     .label = Прикажи видео
-    .accesskey = в
+    .accesskey = р
 main-context-menu-image-view-new-tab =
     .label = Отвори слику на новој картици
     .accesskey = т
@@ -280,13 +280,13 @@ main-context-menu-video-view-new-tab =
     .accesskey = т
 main-context-menu-image-copy =
     .label = Копирај слику
-    .accesskey = y
+    .accesskey = К
 main-context-menu-image-copy-location =
-    .label = Копирај одредиште слике
-    .accesskey = o
+    .label = Копирај адресу слике
+    .accesskey = а
 main-context-menu-video-copy-location =
-    .label = Копирај одредиште видеа
-    .accesskey = o
+    .label = Копирај адресу видео-снимка
+    .accesskey = а
 main-context-menu-audio-copy-location =
     .label = Копирај одредиште за аудио
     .accesskey = o
