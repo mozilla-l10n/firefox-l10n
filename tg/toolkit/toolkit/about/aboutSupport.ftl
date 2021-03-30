@@ -4,8 +4,11 @@
 
 support-addons-title = Ҷузъҳои иловагӣ
 features-title = Хусусиятҳои { -brand-short-name }
+app-basics-title = Асосҳои барнома
 app-basics-update-history = Таърихи навсозиҳо
 app-basics-show-update-history = Намоиши таърихи навсозиҳо
+# Represents the path to the binary used to start the application.
+app-basics-binary = Файли дуии барнома
 app-basics-location-service-key-google = Калиди хидмати ҷойгиршавии Google
 app-basics-key-mozilla = Калиди хидмати ҷойгиршавии Mozilla
 restart-in-safe-mode-label = Аз нав оғоз кардани барнома бо ҷузъҳои иловагии ғайрифаъолшуда…
@@ -15,6 +18,7 @@ restart-in-safe-mode-label = Аз нав оғоз кардани барнома 
 
 ##
 
+intl-app-title = Танзимоти барнома
 
 ## Remote Debugging
 ##

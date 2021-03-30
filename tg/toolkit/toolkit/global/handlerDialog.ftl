@@ -28,6 +28,10 @@ permission-dialog-remember-file = Ба ин файл ҳамеша иҷозат �
 permission-dialog-btn-open-link =
     .label = Кушодани пайванд
     .accessKey = К
+permission-dialog-btn-choose-app =
+    .label = Пӯшидани барнома
+    .accessKey = П
+permission-dialog-unset-description = Шумо бояд барномаеро интихоб намоед.
 permission-dialog-set-change-app-link = Интихоби барномаи дигар.
 
 ## Chooser dialog

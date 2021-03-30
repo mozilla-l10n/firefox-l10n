@@ -43,6 +43,8 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.signin.label "Ворид шудан ба &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Фаъол кардани &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "Хидматҳои &brandProductName;">
+<!ENTITY fxa.menu.settings.label "Танзимот">
+<!ENTITY fxa.menu.accountSettings.label "Танзимоти ҳисоб">
 <!ENTITY fxa.menu.setupSync.label "Танзим кардани &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
@@ -188,6 +190,9 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
+<!ENTITY editPopupSettingsUnix.label "Таҳрир кардани хусусиятҳои манъкунандаи равзанаҳои зоҳиршаванда…">
+<!ENTITY editPopupSettings.label "Таҳрир кардани имконоти манъкунандаи равзанаҳои зоҳиршаванда…">
+<!ENTITY editPopupSettings.accesskey "E">
 
 <!ENTITY findOnCmd.label     "Ҷустуҷӯ дар ин саҳифа…">
 

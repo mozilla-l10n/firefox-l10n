@@ -21,3 +21,46 @@
 serviceworker-worker-status-running = Иҷро шуда истодааст
 # Link will open https://developer.mozilla.org/docs/Web/API/Service_Worker_API/Using_Service_Workers
 serviceworker-empty-intro-link = Маълумоти бештар
+# Header for the Identity section of Manifest inspection displayed in the application panel.
+manifest-item-identity = Муайянкунӣ
+# Header for the Presentation section of Manifest inspection displayed in the application panel.
+manifest-item-presentation = Тақдим
+# Header for the Icon section of Manifest inspection displayed in the application panel.
+manifest-item-icons = Нишонаҳо
+# Text displayed while we are loading the manifest file
+manifest-loading = Манифест бор карда мешавад…
+# Text displayed when the manifest has been successfully loaded
+manifest-loaded-ok = Манифест бор карда шуд.
+# Text displayed as a caption when there has been an error while trying to
+# load the manifest
+manifest-loaded-error = Ҳангоми боркунии манифест хато ба миён омад:
+# Text displayed as an error when there has been a Firefox DevTools error while
+# trying to load the manifest
+manifest-loaded-devtools-error = Хатои абзорҳои барномарезии Firefox
+# Text displayed when the page has no manifest available
+manifest-non-existing = Ягон манифест барои санҷиш ёфт нашуд.
+# Text displayed when the page has a manifest embedded in a Data URL and
+# thus we cannot link to it.
+manifest-json-link-data-url = Манифест ба нишонии URL-и маълумот ҷойгир карда шудааст.
+# Text displayed at manifest icons to label their purpose, as declared
+# in the manifest.
+manifest-icon-purpose = Мақсад: <code>{ $purpose }</code>
+# Text displayed as the alt attribute for <img> tags showing the icons in the
+# manifest.
+manifest-icon-img =
+    .alt = Нишона
+# Text displayed as the title attribute for <img> tags showing the icons in the
+# manifest. `$sizes` is a user-dependent string that has been parsed as a
+# space-separated list of `<width>x<height>` sizes or the keyword `any`.
+manifest-icon-img-title = Нишона бо андозаҳо: { $sizes }
+# Text displayed as the title attribute for <img> tags showing the icons in the
+# manifest, in case there's no icon size specified by the user
+manifest-icon-img-title-no-sizes = Андозаи номуайян барои нишона
+# Sidebar navigation item for Manifest sidebar item section
+sidebar-item-manifest = Манифест
+    .alt = Нишонаи манифест
+    .title = Манифест
+# Text for the ALT and TITLE attributes of the error icon
+icon-error =
+    .alt = Нишонаи хато
+    .title = Хато
