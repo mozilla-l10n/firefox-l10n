@@ -102,6 +102,18 @@ main-context-menu-bookmark-add =
     .aria-label = יצירת סימנייה לדף זה
     .accesskey = ס
     .tooltiptext = יצירת סימנייה לדף זה
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-add-mac =
+    .label = הוספת העמוד לסימניות
+    .accesskey = ס
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-edit-mac =
+    .label = עריכת סימנייה
+    .accesskey = ס
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-add-with-shortcut =
