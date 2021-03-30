@@ -705,6 +705,7 @@ prefs-sync-setup =
     .label = Configurar o { -sync-brand-short-name }…
     .accesskey = g
 prefs-sync-offer-setup-label = Sincronize os marcadores, histórico, separadores, palavras-passe, extras, e as preferências em todos os seus dispositivos.
+prefs-sync-offer-setup-label2 = Sincronize os marcadores, histórico, separadores, palavras-passe, extras e definições entre todos os seus dispositivos.
 prefs-sync-now =
     .labelnotsyncing = Sincronizar agora
     .accesskeynotsyncing = N
@@ -725,6 +726,7 @@ sync-currently-syncing-prefs =
         [windows] Opções
        *[other] Preferências
     }
+sync-currently-syncing-settings = Definições
 sync-change-options =
     .label = Alterar...
     .accesskey = A
@@ -772,6 +774,10 @@ sync-engine-prefs =
         }
     .tooltiptext = Definições gerais, de privacidade, e segurança que alterou
     .accesskey = s
+sync-engine-settings =
+    .label = Definições
+    .tooltiptext = Definições gerais, de privacidade e de segurança que alterou
+    .accesskey = D
 
 ## The device name controls.
 
@@ -1186,6 +1192,11 @@ space-alert-under-5gb-ok-button =
     .label = OK, entendi
     .accesskey = K
 space-alert-under-5gb-message = O { -brand-short-name } está a ficar sem espaço em disco. Os conteúdos de sites podem não ser apresentados corretamente. Visite “Saber mais” para otimizar a utilização do seu disco e melhorar a experiência de navegação.
+space-alert-over-5gb-settings-button =
+    .label = Abrir definições
+    .accesskey = A
+space-alert-over-5gb-message2 = <strong>O { -brand-short-name } está a ficar sem espaço em disco</strong>. Os conteúdos dos sites podem não ser apresentados corretamente. Pode limpar os dados armazenados em Definições > Privacidade e segurança > Cookies e Dados de sites.
+space-alert-under-5gb-message2 = <strong>O { -brand-short-name } está a ficar sem espaço em disco</strong>. Os conteúdos de sites podem não ser apresentados corretamente. Visite “Saber mais” para otimizar a utilização do seu disco e melhorar a experiência de navegação.
 
 ## Privacy Section - HTTPS-Only
 
