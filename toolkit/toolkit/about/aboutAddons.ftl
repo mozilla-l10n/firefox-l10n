@@ -34,6 +34,9 @@ sidebar-preferences-button-title =
             [windows] אפשרויות של { -brand-short-name }
            *[other] העדפות של { -brand-short-name }
         }
+addons-settings-button = הגדרות של { -brand-short-name }
+sidebar-settings-button-title =
+    .title = הגדרות של { -brand-short-name }
 show-unsigned-extensions-button =
     .label = אין אפשרות לאמת חלק מההרחבות
 show-all-extensions-button =
@@ -362,9 +365,6 @@ addon-detail-private-browsing-disallow = לא לאפשר
 addon-badge-recommended2 =
     .title = ‏{ -brand-product-name } ממליץ רק על הרחבות שעומדות בתקנים שלנו לאבטחה וביצועים
     .aria-label = { addon-badge-recommended2.title }
-addon-badge-line2 =
-    .title = זוהי הרחבה רשמית מבית היוצר של { -brand-product-name }
-    .aria-label = { addon-badge-line2.title }
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =

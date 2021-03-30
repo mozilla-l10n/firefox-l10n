@@ -164,6 +164,8 @@ onboarding-multistage-set-default-subtitle = מהירות, בטיחות ופרט
 onboarding-multistage-set-default-primary-button-label = הגדרה כדפדפן ברירת מחדל
 onboarding-multistage-set-default-secondary-button-label = לא כעת
 onboarding-multistage-pin-default-subtitle = גלישה מהירה, בטוחה ופרטית בכל פעם שגולשים ברשת.
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-help-text = פעולה זו תצמיד את { -brand-short-name } לשורת המשימות ותפתח את ההגדרות
 onboarding-multistage-pin-default-primary-button-label = להפוך את { -brand-short-name } לדפדפן הראשי שלי
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
