@@ -28,6 +28,18 @@ search-input-box =
             [windows] Εύρεση στις επιλογές
            *[other] Εύρεση στις προτιμήσεις
         }
+settings-page-title = Ρυθμίσεις
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box2 =
+    .style = width: 15.4em
+    .placeholder = Εύρεση στις ρυθμίσεις
 managed-notice = Το πρόγραμμα περιήγησής σας ρυθμίζεται από τον οργανισμό σας.
 category-list =
     .aria-label = Κατηγορίες
@@ -369,6 +381,9 @@ update-application-check-choose =
 update-application-manual =
     .label = Να μην γίνεται ποτέ έλεγχος για ενημερώσεις (δεν προτείνεται)
     .accesskey = Ν
+update-application-background-enabled =
+    .label = Όταν δεν εκτελείται το { -brand-short-name }
+    .accesskey = Ό
 update-application-warning-cross-user-setting = Αυτή η ρύθμιση θα εφαρμοστεί σε όλους τους λογαριασμούς των Windows και τα προφίλ του { -brand-short-name } που χρησιμοποιούν αυτή την εγκατάσταση του { -brand-short-name }.
 update-application-use-service =
     .label = Χρήση μιας υπηρεσίας παρασκηνίου για την εγκατάσταση ενημερώσεων
@@ -622,6 +637,8 @@ containers-new-tab-check =
     .accesskey = Ε
 containers-preferences-button =
     .label = Προτιμήσεις
+containers-settings-button =
+    .label = Ρυθμίσεις
 containers-remove-button =
     .label = Αφαίρεση
 
@@ -692,6 +709,7 @@ sync-currently-syncing-prefs =
         [windows] Επιλογές
        *[other] Προτιμήσεις
     }
+sync-currently-syncing-settings = Ρυθμίσεις
 sync-change-options =
     .label = Αλλαγή…
     .accesskey = Α
@@ -739,6 +757,10 @@ sync-engine-prefs =
         }
     .tooltiptext = Γενικές ρυθμίσεις, ρυθμίσεις απορρήτου και ασφάλειας που έχετε αλλάξει
     .accesskey = ς
+sync-engine-settings =
+    .label = Ρυθμίσεις
+    .tooltiptext = Ρυθμίσεις που έχετε αλλάξει στις ενότητες "Γενικά" και "Απόρρητο & ασφάλεια"
+    .accesskey = θ
 
 ## The device name controls.
 
@@ -1153,6 +1175,9 @@ space-alert-under-5gb-ok-button =
     .label = OK, το 'πιασα
     .accesskey = K
 space-alert-under-5gb-message = Το { -brand-short-name } δεν έχει επαρκή χώρο δίσκου. Το περιεχόμενο των ιστοσελίδων ενδέχεται να μην εμφανίζεται σωστά. Επισκεφθείτε το “Μάθετε περισσότερα” για να βελτιστοποιήσετε τη χρήση δίσκου σας για καλύτερη εμπειρία περιήγησης.
+space-alert-over-5gb-settings-button =
+    .label = Άνοιγμα ρυθμίσεων
+    .accesskey = Ά
 
 ## Privacy Section - HTTPS-Only
 

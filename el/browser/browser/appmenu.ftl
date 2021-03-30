@@ -35,6 +35,12 @@ appmenuitem-more-tools =
     .label = Περισσότερα εργαλεία
 appmenuitem-exit =
     .label = Έξοδος
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Έξοδος
+           *[other] Έξοδος
+        }
 appmenu-menu-button-closed =
     .tooltiptext = Άνοιγμα μενού εφαρμογής
     .label = { -brand-shorter-name }
