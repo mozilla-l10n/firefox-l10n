@@ -136,7 +136,7 @@ menu-view-customize-toolbar =
     .accesskey = P
 menu-view-customize-toolbar2 =
     .label = Personalizar barra de herramientas…
-    .accesskey = C
+    .accesskey = z
 menu-view-sidebar =
     .label = Barra lateral
     .accesskey = e
@@ -259,7 +259,7 @@ menu-tools-addons-and-themes =
     .accesskey = A
 menu-tools-fxa-sign-in2 =
     .label = Iniciar sesión
-    .accesskey = g
+    .accesskey = I
 menu-tools-turn-on-sync =
     .label = Habilitar { -sync-brand-short-name }...
     .accesskey = n
@@ -304,7 +304,7 @@ menu-preferences =
         }
 menu-tools-layout-debugger =
     .label = Depurador de diseño
-    .accesskey = L
+    .accesskey = u
 
 ## Window Menu
 
@@ -349,7 +349,7 @@ menu-help-taskmanager =
     .label = Administrador de tareas
 menu-help-more-troubleshooting-info =
     .label = Más información para resolución de problemas
-    .accesskey = T
+    .accesskey = r
 menu-help-report-site-issue =
     .label = Informar problema con el sitio…
 menu-help-feedback-page =

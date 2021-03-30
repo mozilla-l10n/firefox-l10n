@@ -194,7 +194,7 @@ cfr-doorhanger-socialtracking-ok-button = Ver protecciones
 cfr-doorhanger-socialtracking-close-button = Cerrar
     .accesskey = C
 cfr-doorhanger-socialtracking-dont-show-again = No volver a mostrarme mensajes como este
-    .accesskey = D
+    .accesskey = N
 cfr-doorhanger-socialtracking-heading = { -brand-short-name } impidió que una red social lo rastreara aquí
 cfr-doorhanger-socialtracking-description = Su privacidad es importante. { -brand-short-name } ahora bloquea los rastreadores de redes sociales comunes, limitando la cantidad de datos que pueden recopilar sobre lo que hace en línea.
 cfr-doorhanger-fingerprinters-heading = { -brand-short-name } bloqueó un detector de huellas digitales en esta página
@@ -220,7 +220,7 @@ cfr-doorhanger-milestone-heading2 =
        *[other] { -brand-short-name } bloqueado en <b>{ $blockCount }</b> rastreadores desde { DATETIME($date, month: "long", year: "numeric") }
     }
 cfr-doorhanger-milestone-ok-button = Ver todo
-    .accesskey = S
+    .accesskey = V
 
 ## What’s New Panel Content for Firefox 76
 
@@ -279,7 +279,7 @@ cfr-doorhanger-fission-header = Aislamiento del sitio
 cfr-doorhanger-fission-primary-button = ¡Listo, entendido!
     .accesskey = O
 cfr-doorhanger-fission-secondary-button = Conocer más
-    .accesskey = L
+    .accesskey = o
 
 ## What's new: Cookies message
 
