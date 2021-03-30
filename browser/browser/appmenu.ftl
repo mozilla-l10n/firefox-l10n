@@ -43,6 +43,12 @@ appmenu-menu-button-closed =
 appmenu-menu-button-opened =
     .tooltiptext = Chiudi menu applicazione
     .label = { -brand-shorter-name }
+appmenu-menu-button-closed2 =
+    .tooltiptext = Apri menu applicazione
+    .label = { -brand-short-name }
+appmenu-menu-button-opened2 =
+    .tooltiptext = Chiudi menu applicazione
+    .label = { -brand-short-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
