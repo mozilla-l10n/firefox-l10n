@@ -63,11 +63,11 @@ add-attachment-notification-reminder =
     .tooltiptext = { toolbar-button-add-attachment.tooltiptext }
 menuitem-attach-files =
     .label = Archivo(s)…
-    .accesskey = F
+    .accesskey = A
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
 context-menuitem-attach-files =
     .label = Adjuntar archivo(s)…
-    .accesskey = F
+    .accesskey = j
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
 #   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count =
