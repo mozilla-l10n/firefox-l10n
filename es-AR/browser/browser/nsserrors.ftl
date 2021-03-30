@@ -79,6 +79,7 @@ ssl-error-rx-unknown-record-type = SSL recibió un registro con un tipo de conte
 ssl-error-rx-unknown-handshake = SSL received a handshake message with an unknown message type.
 ssl-error-rx-unknown-alert = SSL recibió un registro de alerta con una descripción de alerta desconocida.
 ssl-error-close-notify-alert = El par SSL ha cerrado esta conexión.
+ssl-error-handshake-unexpected-alert = El otro extremo de la conexión SSL no esperaba el mensaje de negociación que recibió.
 ssl-error-decompression-failure-alert = SSL peer was unable to successfully decompress an SSL record it received.
 ssl-error-handshake-failure-alert = El par SSL no pudo negociar un conjunto aceptable de parámetros de seguridad.
 ssl-error-illegal-parameter-alert = SSL peer rejected a handshake message for unacceptable content.
