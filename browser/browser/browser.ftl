@@ -511,7 +511,7 @@ urlbar-result-action-search-in-private = Vyhľadať v súkromnom okne
 # "Search", and we would like to avoid strings like "Search MSN Search".
 # Variables
 #  $engine (String): the name of a search engine
-urlbar-result-action-search-w-engine = Vyhľadať pomocou { $engine }
+urlbar-result-action-search-w-engine = Hľadať pomocou vyhľadávača { $engine }
 urlbar-result-action-sponsored = Sponzorované
 urlbar-result-action-switch-tab = Prepnúť na kartu
 urlbar-result-action-visit = Navštíviť
