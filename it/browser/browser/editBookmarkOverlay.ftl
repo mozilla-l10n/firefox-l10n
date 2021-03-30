@@ -6,9 +6,21 @@ bookmark-overlay-name =
     .value = Nome:
     .accesskey = N
 
+bookmark-overlay-name-2 =
+    .value = Nome
+    .accesskey = N
+
+bookmark-overlay-url =
+    .value = URL
+    .accesskey = U
+
 bookmark-overlay-location =
     .value = Indirizzo:
     .accesskey = I
+
+bookmark-overlay-location-2 =
+    .value = Posizione
+    .accesskey = z
 
 bookmark-overlay-folder =
     .value = Cartella:
@@ -29,6 +41,10 @@ bookmark-overlay-tags =
     .value = Etichette:
     .accesskey = E
 
+bookmark-overlay-tags-2 =
+    .value = Etichette
+    .accesskey = E
+
 bookmark-overlay-tags-empty-description =
     .placeholder = Separare più etichette con una virgola
 
@@ -39,4 +55,8 @@ bookmark-overlay-tags-expander =
 
 bookmark-overlay-keyword =
     .value = Parola chiave:
+    .accesskey = P
+
+bookmark-overlay-keyword-2 =
+    .value = Parola chiave
     .accesskey = P
