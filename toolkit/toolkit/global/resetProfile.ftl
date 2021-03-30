@@ -12,3 +12,4 @@ refresh-profile-remove = Odstranili dodatke in prilagoditve.
 refresh-profile-restore = Povrnili nastavitve brskalnika na privzete vrednosti.
 refresh-profile = Opravite čiščenje { -brand-short-name }a
 refresh-profile-button = Osveži { -brand-short-name } …
+refresh-profile-learn-more = Več o tem
