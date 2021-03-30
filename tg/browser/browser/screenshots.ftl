@@ -14,3 +14,4 @@ screenshots-meta-key =
         [macos] ⌘
        *[other] Ctrl
     }
+screenshots-notification-link-copied-title = Пайванд нусха бардошта шуд

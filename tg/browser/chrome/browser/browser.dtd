@@ -140,6 +140,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "Мохоҳед, ки варақаҳоро аз дастгоҳҳои дигар дар ин ҷо бинед?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Кушодани хусусиятҳои ҳамоҳангсозӣ">
 <!ENTITY appMenuRemoteTabs.signintosync.label "Ба &syncBrand.shortName.label; ворид шавед…">
 <!ENTITY appMenuRemoteTabs.turnonsync.label "Фаъол кардани &syncBrand.shortName.label;…">
@@ -168,6 +169,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY searchInput.placeholder      "Ҷустуҷӯ">
 <!ENTITY searchIcon.tooltip           "Ҷустуҷӯ">
 
+<!ENTITY openLinkCmdInTab.accesskey   "T">
 
 <!ENTITY pageAction.copyLink.label    "Нусха бардоштани пайванд">
 
