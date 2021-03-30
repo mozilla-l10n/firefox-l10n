@@ -60,3 +60,7 @@ bookmark-overlay-keyword =
 bookmark-overlay-keyword-2 =
     .value = Parola chiave
     .accesskey = P
+
+bookmark-overlay-tags-caption-label = Utilizza le etichette per organizzare i tuoi siti preferiti e cercare nei segnalibri usando la barra degli indirizzi
+
+bookmark-overlay-keyword-caption-label = Utilizza le parole chiave per aprire i segnalibri direttamente dalla barra degli indirizzi
