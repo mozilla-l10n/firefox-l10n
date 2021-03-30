@@ -24,6 +24,9 @@ sidebar-preferences-button-title =
 addons-settings-button = Танзимоти { -brand-short-name }
 sidebar-settings-button-title =
     .title = Танзимоти { -brand-short-name }
+cmd-show-details =
+    .label = Намоиш додани маълумоти бештар
+    .accesskey = Н
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = Дар равзанаҳои махфӣ иҷозат дода намешавад
@@ -98,6 +101,7 @@ pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</sp
 
 ##
 
+addon-permissions-learnmore = Маълумоти бештар дар бораи иҷозатҳо
 
 ## Page headings
 
