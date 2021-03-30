@@ -102,6 +102,18 @@ main-context-menu-bookmark-add =
     .aria-label = Dodaj stran med zaznamke
     .accesskey = r
     .tooltiptext = Dodaj stran med zaznamke
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-add-mac =
+    .label = Dodaj stran med zaznamke
+    .accesskey = D
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-edit-mac =
+    .label = Uredi zaznamek
+    .accesskey = U
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-add-with-shortcut =
@@ -206,6 +218,19 @@ main-context-menu-media-play-speed-faster =
 main-context-menu-media-play-speed-fastest =
     .label = Komično (2 x)
     .accesskey = K
+main-context-menu-media-play-speed-2 =
+    .label = Hitrost
+    .accesskey = H
+main-context-menu-media-play-speed-slow-2 =
+    .label = 0,5×
+main-context-menu-media-play-speed-normal-2 =
+    .label = 1,0×
+main-context-menu-media-play-speed-fast-2 =
+    .label = 1,25×
+main-context-menu-media-play-speed-faster-2 =
+    .label = 1,5×
+main-context-menu-media-play-speed-fastest-2 =
+    .label = 2×
 main-context-menu-media-loop =
     .label = Zanka
     .accesskey = Z
@@ -242,6 +267,12 @@ main-context-menu-image-view =
 main-context-menu-video-view =
     .label = Pokaži video
     .accesskey = I
+main-context-menu-image-view-new-tab =
+    .label = Odpri sliko v novem zavihku
+    .accesskey = l
+main-context-menu-video-view-new-tab =
+    .label = Odpri videoposnetek v novem zavihku
+    .accesskey = n
 main-context-menu-image-copy =
     .label = Kopiraj sliko
     .accesskey = a
@@ -376,6 +407,9 @@ main-context-menu-print-selection =
 main-context-menu-view-selection-source =
     .label = Pokaži izvorno kodo izbora
     .accesskey = r
+main-context-menu-take-screenshot =
+    .label = Zajemi posnetek zaslona
+    .accesskey = p
 main-context-menu-view-page-source =
     .label = Pokaži izvorno kodo strani
     .accesskey = V

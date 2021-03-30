@@ -7,6 +7,12 @@
 
 appmenuitem-update-banner =
     .label-update-downloading = Prenašanje posodobitve za { -brand-shorter-name }
+appmenuitem-update-banner2 =
+    .label-update-downloading = Prenašanje posodobitve za { -brand-shorter-name }
+    .label-update-available = Na voljo je posodobitev – prenesi zdaj
+    .label-update-manual = Na voljo je posodobitev – prenesi zdaj
+    .label-update-unsupported = Posodobitev ni mogoča
+    .label-update-restart = Na voljo je posodobitev – zaženi znova
 appmenuitem-protection-dashboard-title = Nadzorna plošča zaščit
 appmenuitem-customize-mode =
     .label = Prilagodi …
@@ -21,12 +27,20 @@ appmenuitem-passwords =
     .label = Gesla
 appmenuitem-extensions-and-themes =
     .label = Razširitve in teme
+appmenuitem-addons-and-themes =
+    .label = Dodatki in teme
 appmenuitem-find-in-page =
     .label = Najdi na strani …
 appmenuitem-more-tools =
     .label = Več orodij
 appmenuitem-exit =
     .label = Izhod
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Zapri
+           *[other] Izhod
+        }
 appmenu-menu-button-closed =
     .tooltiptext = Odpri meni programa
     .label = { -brand-shorter-name }
@@ -159,6 +173,9 @@ appmenu-help-safe-mode-with-addons =
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-enter-troubleshoot-mode2 =
+    .label = Način za odpravljanje težav …
+    .accesskey = r
 appmenu-help-exit-troubleshoot-mode =
     .label = Izključi način za odpravljanje težav
     .accesskey = n

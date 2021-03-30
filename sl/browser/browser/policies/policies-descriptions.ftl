@@ -14,6 +14,7 @@ policy-3rdparty = Nastavi, do katerih pravilnikov lahko dostopajo razširitve We
 policy-AppAutoUpdate = Omogoči ali onemogoči samodejne posodobitve programa.
 policy-AppUpdateURL = Nastavi poljuben URL za posodobitve programa.
 policy-Authentication = Nastavi integrirano overjanje za spletne strani, ki ga podpirajo.
+policy-BackgroundAppUpdate2 = Omogoči ali onemogoči storitev za posodobitve v ozadju.
 policy-BlockAboutAddons = Zavrni dostop do upravitelja dodatkov (about:addons).
 policy-BlockAboutConfig = Zavrni dostop do strani about:config.
 policy-BlockAboutProfiles = Zavrni dostop do strani about:profiles.
@@ -106,6 +107,7 @@ policy-SearchEngines = Nastavi iskalnike. Ta pravilnik je na voljo le v izdaji E
 policy-SearchSuggestEnabled = Omogoči ali onemogoči predloge iskanja.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Namesti module PKCS #11.
+policy-ShowHomeButton = Prikaži gumb Domov v orodni vrstici.
 policy-SSLVersionMax = Nastavi najnovejšo dovoljeno različico SSL.
 policy-SSLVersionMin = Nastavi najstarejšo dovoljeno različico SSL.
 policy-SupportMenu = Dodaj poljubno povezavo za podporo v meni Pomoč.
