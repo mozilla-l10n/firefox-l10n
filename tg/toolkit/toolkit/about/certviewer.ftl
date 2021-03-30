@@ -9,6 +9,9 @@
 ## Certificate information labels
 
 certificate-viewer-location = Ҷойгиршавӣ
+# This message is used as a row header in the Miscellaneous section.
+# The associated data cell contains links to download the certificate.
+certificate-viewer-download = Боргирӣ кардан
 
 ## Variables:
 ##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
