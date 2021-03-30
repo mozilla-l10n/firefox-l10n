@@ -27,7 +27,6 @@
 <!ENTITY signingGroupTitle.label "Firma digital">
 <!ENTITY signMessage2.label "Agregar mi firma digital de manera predeterminada">
 <!ENTITY signMessage.accesskey "d">
-
 <!ENTITY signingCert2.message "Certificado personal para la firma digital:">
 
 <!ENTITY sendingDefaults.label "Configuraciones predeterminadas para enviar mensajes">
@@ -37,8 +36,8 @@
 <!ENTITY certificates2.label "S/MIME">
 <!ENTITY manageCerts3.label "Gestionar certificados S/MIME">
 <!ENTITY manageCerts3.accesskey "M">
-<!ENTITY manageDevices2.label "Dispositivos de seguridad S / MIME">
-<!ENTITY manageDevices2.accesskey "y">
+<!ENTITY manageDevices2.label "Dispositivos de seguridad S/MIME">
+<!ENTITY manageDevices2.accesskey "S">
 
 <!ENTITY technologySMIME.label "Preferir S/MIME">
 <!ENTITY technologyOpenPGP.label "Preferir OpenPGP">

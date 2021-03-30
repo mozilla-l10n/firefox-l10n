@@ -11,7 +11,7 @@ otr-encryption-caption = Para permitir que otros verifiquen su identidad en los 
 otr-fingerprint-label = Su huella digital:
 view-fingerprint-button =
     .label = Administrar huellas digitales de contactos
-    .accesskey = F
+    .accesskey = h
 otr-settings-title = Ajustes OTR
 otr-log =
     .label = Incluir mensajes cifrados OTR en los registros de la conversación
@@ -23,6 +23,4 @@ otr-require-encryption-info =
     no se van a mostrar como parte de la conversación normal y tampoco se van a registrar.
 otr-verifyNudge =
     .label = Siempre recordarme verificar un contacto no verificado
-
 otr-notYetAvailable = no disponible todavía
-
