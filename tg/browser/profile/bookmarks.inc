@@ -14,6 +14,7 @@
 
 # LOCALIZATION NOTE (getting_started):
 # link title for https://www.mozilla.org/en-US/firefox/central/
+#define getting_started Саҳифаи аввал
 
 # LOCALIZATION NOTE (firefox_heading):
 # Firefox links folder name
@@ -29,12 +30,15 @@
 
 # LOCALIZATION NOTE (firefox_customize):
 # link title for https://www.mozilla.org/en-US/firefox/customize/
+#define firefox_customize Фармоишдиҳии Firefox
 
 # LOCALIZATION NOTE (firefox_community):
 # link title for https://www.mozilla.org/en-US/contribute/
+#define firefox_community Ҳамроҳ шудан
 
 # LOCALIZATION NOTE (firefox_about):
 # link title for https://www.mozilla.org/en-US/about/
+#define firefox_about Дар бораи мо
 
 # LOCALIZATION NOTE (nightly_heading):
 # Firefox Nightly links folder name
