@@ -20,6 +20,14 @@ about-debugging-sidebar-this-firefox =
 # Sidebar heading for connecting to some remote source
 about-debugging-sidebar-setup =
     .name = Танзимкунӣ
+# Connection status (connected) for runtime items in the sidebar
+aboutdebugging-sidebar-runtime-connection-status-connected = Пайваст шуд
+# Connection status (disconnected) for runtime items in the sidebar
+aboutdebugging-sidebar-runtime-connection-status-disconnected = Пайваст қатъ карда шуд
+# Text displayed in buttons found in sidebar items when the connection failed.
+about-debugging-sidebar-item-connect-button-connection-failed = Пайваст нашуд
+# Text displayed as connection error in sidebar item when the connection has timed out.
+about-debugging-sidebar-item-connect-button-connection-timeout = Вақти пайвастшавӣ ба анҷом расид
 # Title for runtime sidebar items that are related to a specific device (USB, WiFi).
 about-debugging-sidebar-runtime-item-name =
     .title = { $displayName } ({ $deviceName })
@@ -55,6 +63,15 @@ about-debugging-network-location-form-duplicate = Мизбони «{ $host-value
 
 # Runtime Page strings
 
+# Text of a button displayed in Runtime pages for remote runtimes.
+# Clicking on the button will close the connection to the runtime.
+about-debugging-runtime-disconnect-button = Қатъ кардани пайваст
+# Text of the connection prompt button displayed in Runtime pages, when the preference
+# "devtools.debugger.prompt-connection" is false on the target runtime.
+about-debugging-connection-prompt-enable-button = Фаъол кардани дархост барои пайвастшавӣ
+# Text of the connection prompt button displayed in Runtime pages, when the preference
+# "devtools.debugger.prompt-connection" is true on the target runtime.
+about-debugging-connection-prompt-disable-button = Ғайрифаъол кардани дархост барои пайвастшавӣ
 
 # Debug Targets strings
 
