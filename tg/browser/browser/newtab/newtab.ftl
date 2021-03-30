@@ -188,6 +188,7 @@ newtab-section-header-pocket = Аз тарафи { $provider } тавсия ка
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
+newtab-discovery-empty-section-topstories-header = Шумо ҳамаро хондед!
 newtab-discovery-empty-section-topstories-try-again-button = Аз нав кӯшиш кардан
 newtab-discovery-empty-section-topstories-loading = Бор шуда истодааст…
 

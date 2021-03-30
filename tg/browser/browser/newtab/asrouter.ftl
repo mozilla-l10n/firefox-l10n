@@ -130,11 +130,13 @@ cfr-whatsnew-fingerprinter-counter-header-alt = Хонандаи изи ангу
 
 ## Bookmark Sync
 
+cfr-doorhanger-sync-bookmarks-header = Ин хатбаракро ба телефони худ гузоред
 cfr-doorhanger-sync-bookmarks-ok-button = Фаъол кардани { -sync-brand-short-name }
     .accesskey = Ф
 
 ## Login Sync
 
+cfr-doorhanger-sync-logins-header = Ниҳонвожаи худро дигар фаромӯш накунед
 cfr-doorhanger-sync-logins-ok-button = Фаъол кардани { -sync-brand-short-name }
     .accesskey = Ф
 
