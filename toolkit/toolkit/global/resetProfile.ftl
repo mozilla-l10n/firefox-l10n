@@ -11,6 +11,7 @@ refresh-profile-description = Tornar partir per reparar los problèmas e restabl
 refresh-profile-description-details = En contunhant anatz :
 refresh-profile-remove = Suprimir vòstres moduls e personalizacions
 refresh-profile-restore = Restablir los paramètres de vòstre navegador per defaut
+refresh-profile-dialog-description = Tornatz al començament per reglar los problèmas de performanças. Aquò suprimirà las extensions e las personalizacions. Perdretz pas cap d’informacion essencialas coma los marcapaginas e senhals.
 refresh-profile = Rejovenir { -brand-short-name }
 refresh-profile-button = Reïnicializar { -brand-short-name }…
 refresh-profile-learn-more = Ne saber mai
