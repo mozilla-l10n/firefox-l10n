@@ -386,7 +386,7 @@ update-application-manual =
     .accesskey = N
 update-application-background-enabled =
     .label = Cuando { -brand-short-name } no se esté ejecutando
-    .accesskey = W
+    .accesskey = u
 update-application-warning-cross-user-setting = Esta configuración se aplicará a todas las cuentas de Windows y los perfiles de { -brand-short-name } usando esta instalación de { -brand-short-name }.
 update-application-use-service =
     .label = Usar un servicio en segundo plano para instalar actualizaciones
@@ -753,7 +753,7 @@ sync-engine-tabs =
 sync-engine-logins-passwords =
     .label = Inicios de sesión y contraseñas
     .tooltiptext = Nombres de usuario y contraseñas guardadas
-    .accesskey = L
+    .accesskey = I
 sync-engine-addresses =
     .label = Direcciones
     .tooltiptext = Direcciones postales que se hayan guardado (solo escritorio)
@@ -839,7 +839,7 @@ forms-master-pw-change =
 forms-master-pw-fips-title = Se encuentra actualmente en modo FIPS. FIPS requiera una contraseña maestra no vacía.
 forms-primary-pw-change =
     .label = Cambiar la contraseña maestra…
-    .accesskey = P
+    .accesskey = b
 # Leave this message empty if the translation for "Primary Password" matches
 # "Master Password" in your language. If you're editing the FTL file directly,
 # use { "" } as the value.
@@ -1089,7 +1089,7 @@ permissions-notification-pause =
 permissions-autoplay = Autoreproducción
 permissions-autoplay-settings =
     .label = Configuración…
-    .accesskey = t
+    .accesskey = u
 permissions-block-popups =
     .label = Bloquear ventanas emergentes
     .accesskey = B
