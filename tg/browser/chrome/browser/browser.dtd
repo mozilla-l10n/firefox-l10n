@@ -26,6 +26,7 @@ can reach it easily. -->
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY navbar.accessibleLabel "Паймоиш">
 <!ENTITY personalbarCmd.label "Навори хатбаракҳо">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
@@ -38,6 +39,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
+<!ENTITY fxa.menu.syncSettings2.label "Танзимоти &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.signin.label "Ворид шудан ба &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Фаъол кардани &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "Хидматҳои &brandProductName;">
@@ -72,6 +74,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY searchItem.title             "Ҷустуҷӯ">
 
 <!-- Toolbar items -->
+<!ENTITY homeButton.label             "Саҳифаи асосӣ">
 <!ENTITY homeButton.defaultPage.tooltip "Саҳифаи асосии &brandShortName;">
 
 <!ENTITY bookmarksButton.label          "Хатбаракҳо">
@@ -104,6 +107,8 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY preferencesCmdUnix.label       "Хусусиятҳо">
 <!ENTITY logins.label                           "Воридшавиҳо ва ниҳонвожаҳо">
 
+<!ENTITY overflowCustomizeToolbar.label       "Танзимоти навори абзорҳо…">
+<!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
 <!ENTITY historyMenu.label "Таърих">
 <!ENTITY historyUndoMenu.label "Варақаҳои ба наздикӣ пӯшидашуда">
@@ -141,6 +146,8 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuRemoteTabs.managedevices.label "Идоракунии дастгоҳҳо…">
 
 
+<!ENTITY customizeMenu.addToToolbar.label "Илова кардан ба навори абзорҳо">
+<!ENTITY customizeMenu.addToToolbar.accesskey "A">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
