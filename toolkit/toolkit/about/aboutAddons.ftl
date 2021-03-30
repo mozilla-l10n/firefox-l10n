@@ -34,6 +34,9 @@ sidebar-preferences-button-title =
             [windows] Επιλογές { -brand-short-name }
            *[other] Προτιμήσεις { -brand-short-name }
         }
+addons-settings-button = Ρυθμίσεις { -brand-short-name }
+sidebar-settings-button-title =
+    .title = Ρυθμίσεις { -brand-short-name }
 show-unsigned-extensions-button =
     .label = Δεν ήταν δυνατή η επαλήθευση ορισμένων πρόσθετων
 show-all-extensions-button =
@@ -382,9 +385,6 @@ addon-detail-private-browsing-disallow = Απόρριψη
 addon-badge-recommended2 =
     .title = Το { -brand-product-name } προτείνει μόνο επεκτάσεις που πληρούν τα πρότυπα ασφαλείας και επιδόσεών μας
     .aria-label = { addon-badge-recommended2.title }
-addon-badge-line2 =
-    .title = Αυτή είναι μια επίσημη επέκταση που αναπτύχθηκε από τους δημιουργούς του { -brand-product-name }
-    .aria-label = { addon-badge-line2.title }
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =

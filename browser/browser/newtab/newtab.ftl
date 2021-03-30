@@ -19,6 +19,20 @@ newtab-search-box-search-button =
     .title = Αναζήτηση
     .aria-label = Αναζήτηση
 newtab-search-box-search-the-web-text = Αναζήτηση στο διαδίκτυο
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-text = Αναζήτηση με { $engine } ή εισαγωγή διεύθυνσης
+newtab-search-box-handoff-text-no-engine = Αναζήτηση ή εισαγωγή διεύθυνσης
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-input =
+    .placeholder = Αναζήτηση με { $engine } ή εισαγωγή διεύθυνσης
+    .title = Αναζήτηση με { $engine } ή εισαγωγή διεύθυνσης
+    .aria-label = Αναζήτηση με { $engine } ή εισαγωγή διεύθυνσης
+newtab-search-box-handoff-input-no-engine =
+    .placeholder = Αναζήτηση ή εισαγωγή διεύθυνσης
+    .title = Αναζήτηση ή εισαγωγή διεύθυνσης
+    .aria-label = Αναζήτηση ή εισαγωγή διεύθυνσης
 newtab-search-box-search-the-web-input =
     .placeholder = Αναζήτηση στο διαδίκτυο
     .title = Αναζήτηση στο διαδίκτυο
