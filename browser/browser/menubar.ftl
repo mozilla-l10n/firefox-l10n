@@ -11,6 +11,8 @@
 
 ## Application Menu (macOS only)
 
+menu-application-preferences =
+    .label = Nastavitve
 menu-application-services =
     .label = Storitve
 menu-application-hide-this =
@@ -252,9 +254,9 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Prijava v { -brand-product-name } …
     .accesskey = j
-menu-tools-extensions =
-    .label = Razširitve in teme
-    .accesskey = š
+menu-tools-addons-and-themes =
+    .label = Dodatki in teme
+    .accesskey = D
 menu-tools-fxa-sign-in2 =
     .label = Prijava
     .accesskey = j
@@ -270,12 +272,25 @@ menu-tools-fxa-re-auth =
 menu-tools-web-developer =
     .label = Spletni razvoj
     .accesskey = S
+menu-tools-browser-tools =
+    .label = Orodja brskalnika
+    .accesskey = O
+menu-tools-task-manager =
+    .label = Upravitelj opravil
+    .accesskey = U
 menu-tools-page-source =
     .label = Izvorna koda strani
     .accesskey = v
 menu-tools-page-info =
     .label = Podatki o strani
     .accesskey = I
+menu-settings =
+    .label = Nastavitve
+    .accesskey =
+        { PLATFORM() ->
+            [windows] N
+           *[other] N
+        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -286,13 +301,6 @@ menu-preferences =
         { PLATFORM() ->
             [windows] M
            *[other] n
-        }
-menu-settings =
-    .label = Nastavitve
-    .accesskey =
-        { PLATFORM() ->
-            [windows] N
-           *[other] N
         }
 menu-tools-layout-debugger =
     .label = Razhroščevalnik postavitve
@@ -337,11 +345,11 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = Odpravljanje težav
     .accesskey = R
+menu-help-taskmanager =
+    .label = Upravitelj opravil
 menu-help-more-troubleshooting-info =
     .label = Več podatkov za odpravljanje težav
     .accesskey = r
-menu-help-taskmanager =
-    .label = Upravitelj opravil
 menu-help-report-site-issue =
     .label = Prijavi napako strani …
 menu-help-feedback-page =
@@ -353,9 +361,9 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Ponovno zaženi z omogočenimi dodatki
     .accesskey = n
-menu-help-enter-troubleshoot-mode =
-    .label = Način za odpravljanje težav
-    .accesskey = č
+menu-help-enter-troubleshoot-mode2 =
+    .label = Način za odpravljanje težav …
+    .accesskey = r
 menu-help-exit-troubleshoot-mode =
     .label = Izključi način za odpravljanje težav
     .accesskey = I

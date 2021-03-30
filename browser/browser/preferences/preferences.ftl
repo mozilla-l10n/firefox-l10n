@@ -1157,6 +1157,11 @@ space-alert-under-5gb-ok-button =
     .label = V redu, razumem
     .accesskey = V
 space-alert-under-5gb-message = Brskalniku { -brand-short-name } zmanjkuje prostora na disku. Strani se morda ne bodo prikazovale pravilno. Obiščite "Več o tem" za optimizacijo uporabe prostora na disku in boljšo izkušnjo brskanja po spletu.
+space-alert-over-5gb-settings-button =
+    .label = Odpri nastavitve
+    .accesskey = O
+space-alert-over-5gb-message2 = <strong>{ -brand-short-name }u zmanjkuje prostora.</strong> Vsebina spletnih strani morda ne bo prikazana pravilno. Shranjene podatke lahko izbrišete v Nastavitve > Zasebnost in varnost > Piškotki in podatki strani.
+space-alert-under-5gb-message2 = <strong>{ -brand-short-name }u zmanjkuje prostora na disku.</strong> Strani se morda ne bodo prikazovale pravilno. Kliknite "Več o tem" za optimizacijo uporabe prostora na disku in boljšo izkušnjo pri brskanju po spletu.
 
 ## Privacy Section - HTTPS-Only
 
