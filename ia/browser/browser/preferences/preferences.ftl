@@ -111,7 +111,7 @@ extension-controlled-web-notifications = Un extension, <img data-l10n-name="icon
 extension-controlled-default-search = Un extension, <img data-l10n-name="icon"/> { $name }, ha definite le motor de recerca ordinari.
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
-extension-controlled-privacy-containers = Un extension, <img data-l10n-name="icon"/> { $name }, require schedas contextual.
+extension-controlled-privacy-containers = Un extension, <img data-l10n-name="icon"/> { $name }, require schedas contentor.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlled-websites-content-blocking-all-trackers = Le extension <img data-l10n-name="icon"/>{ $name } controla iste configuration.
@@ -183,34 +183,34 @@ show-tabs-in-taskbar =
     .label = Monstrar vistas preliminar del schedas in le barra de cargas de Windows
     .accesskey = v
 browser-containers-enabled =
-    .label = Activar schedas contextual
+    .label = Activar schedas contentor
     .accesskey = n
 browser-containers-learn-more = Saper plus
 browser-containers-settings =
     .label = Parametros…
     .accesskey = P
-containers-disable-alert-title = Clauder tote le schedas contextual?
+containers-disable-alert-title = Clauder tote le schedas contentor?
 containers-disable-alert-desc =
     { $tabCount ->
-        [one] Si tu disactiva le schedas contextual ora, { $tabCount } scheda contextual essera claudite. Desira tu vermente disactivar le schedas contextual?
-       *[other] Si tu disactiva le schedas contextual ora, { $tabCount } schedas contextual essera claudite. Desira tu vermente disactivar le schedas contextual?
+        [one] Si tu disactiva le schedas contentor ora, { $tabCount } scheda contentor essera claudite. Desira tu vermente disactivar le schedas contentor?
+       *[other] Si tu disactiva le schedas contentor ora, { $tabCount } schedas contentor essera claudite. Desira tu vermente disactivar le schedas contentor?
     }
 containers-disable-alert-ok-button =
     { $tabCount ->
-        [one] Clauder { $tabCount } scheda contextual
-       *[other] Clauder { $tabCount } schedas contextual
+        [one] Clauder { $tabCount } scheda contentor
+       *[other] Clauder { $tabCount } schedas contentor
     }
 containers-disable-alert-cancel-button = Mantener active
-containers-remove-alert-title = Remover iste contexto?
+containers-remove-alert-title = Remover iste contentor?
 # Variables:
 #   $count (Number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
-        [one] Si tu remove iste contexto ora, { $count } scheda contextual essera claudite. Es tu secur de voler remover iste contexto?
-       *[other] Si tu remove iste contexto ora, { $count } schedas contextual essera claudite. Es tu secur de voler remover iste contexto?
+        [one] Si tu remove iste contentor ora, { $count } scheda contentor essera claudite. Es tu secur de voler remover iste contentor?
+       *[other] Si tu remove iste contentor ora, { $count } schedas contentor essera claudite. Es tu secur de voler remover iste contentor?
     }
-containers-remove-ok-button = Remover iste contexto
-containers-remove-cancel-button = Non remover iste contexto
+containers-remove-ok-button = Remover iste contentor
+containers-remove-cancel-button = Non remover iste contentor
 
 ## General Section - Language & Appearance
 
@@ -643,12 +643,12 @@ containers-back-button =
         }
 containers-back-button2 =
     .aria-label = Retornar al configuration
-containers-header = Schedas contextual
+containers-header = Schedas contentor
 containers-add-button =
-    .label = Adder un nove contexto
+    .label = Adder un nove contentor
     .accesskey = A
 containers-new-tab-check =
-    .label = Seliger un contexto pro cata nove scheda
+    .label = Seliger un contentor pro cata nove scheda
     .accesskey = S
 containers-preferences-button =
     .label = Preferentias
