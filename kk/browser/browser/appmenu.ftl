@@ -21,12 +21,20 @@ appmenuitem-passwords =
     .label = Парольдер
 appmenuitem-extensions-and-themes =
     .label = Кеңейтулер және темалар
+appmenuitem-addons-and-themes =
+    .label = Кеңейтулер және темалар
 appmenuitem-find-in-page =
     .label = Беттен табу…
 appmenuitem-more-tools =
     .label = Көбірек саймандар
 appmenuitem-exit =
     .label = Шығу
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Шығу
+           *[other] Шығу
+        }
 appmenu-menu-button-closed =
     .tooltiptext = Қолданбалар мәзірін ашу
     .label = { -brand-shorter-name }
@@ -163,6 +171,9 @@ appmenu-help-safe-mode-with-addons =
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-enter-troubleshoot-mode2 =
+    .label = Мәселелерді шешу режимі…
+    .accesskey = М
 appmenu-help-exit-troubleshoot-mode =
     .label = Мәселелерді шешу режимін сөндіру
     .accesskey = М

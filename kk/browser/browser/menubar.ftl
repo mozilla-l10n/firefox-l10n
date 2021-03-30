@@ -11,6 +11,8 @@
 
 ## Application Menu (macOS only)
 
+menu-application-preferences =
+    .label = Баптаулар
 menu-application-services =
     .label = Қызметтер
 menu-application-hide-this =
@@ -252,9 +254,9 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = { -brand-product-name } ішіне кіру…
     .accesskey = к
-menu-tools-extensions =
+menu-tools-addons-and-themes =
     .label = Кеңейтулер және темалар
-    .accesskey = е
+    .accesskey = а
 menu-tools-fxa-sign-in2 =
     .label = Кіру
     .accesskey = р
@@ -270,12 +272,25 @@ menu-tools-fxa-re-auth =
 menu-tools-web-developer =
     .label = Веб-әзірлеуші
     .accesskey = В
+menu-tools-browser-tools =
+    .label = Браузер құралдары
+    .accesskey = Б
+menu-tools-task-manager =
+    .label = Тапсырмалар басқарушысы
+    .accesskey = б
 menu-tools-page-source =
     .label = Беттің бастапқы коды
     .accesskey = б
 menu-tools-page-info =
     .label = Бет ақпараты
     .accesskey = а
+menu-settings =
+    .label = Баптаулар
+    .accesskey =
+        { PLATFORM() ->
+            [windows] п
+           *[other] п
+        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -286,13 +301,6 @@ menu-preferences =
         { PLATFORM() ->
             [windows] ц
            *[other] м
-        }
-menu-settings =
-    .label = Баптаулар
-    .accesskey =
-        { PLATFORM() ->
-            [windows] п
-           *[other] п
         }
 menu-tools-layout-debugger =
     .label = Жайма жөндегіші
@@ -306,15 +314,6 @@ menu-window-bring-all-to-front =
     .label = Барлығын алдына қою
 
 ## Help Menu
-
-
-# NOTE: For Engineers, any additions or changes to Help menu strings should
-# also be reflected in the related strings in appmenu.ftl. Those strings, by
-# convention, will have the same ID as these, but prefixed with "app".
-# Example: appmenu-help-product
-#
-# These strings are duplicated to allow for different casing depending on
-# where the strings appear.
 
 
 # NOTE: For Engineers, any additions or changes to Help menu strings should
@@ -346,11 +345,11 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = Техникалық ақпарат
     .accesskey = а
+menu-help-taskmanager =
+    .label = Тапсырмалар басқарушысы
 menu-help-more-troubleshooting-info =
     .label = Мәселелерді шешудің көбірек ақпараты
     .accesskey = с
-menu-help-taskmanager =
-    .label = Тапсырмалар басқарушысы
 menu-help-report-site-issue =
     .label = Сайт мәселесі жөнінде хабарлау…
 menu-help-feedback-page =
@@ -362,9 +361,9 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Іске қосылған қосымшалармен қайта қосу
     .accesskey = р
-menu-help-enter-troubleshoot-mode =
-    .label = Мәселелерді шешу режимі
-    .accesskey = м
+menu-help-enter-troubleshoot-mode2 =
+    .label = Мәселелерді шешу режимі…
+    .accesskey = М
 menu-help-exit-troubleshoot-mode =
     .label = Мәселелерді шешу режимін сөндіру
     .accesskey = м
@@ -376,6 +375,3 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = Бұл фишингті сайт емес…
     .accesskey = ш
-menu-help-check-for-update =
-    .label = Жаңартуларды тексеру…
-    .accesskey = с
