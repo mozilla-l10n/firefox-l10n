@@ -133,11 +133,13 @@ sandbox-sys-call-number = Sistemski klic
 sandbox-sys-call-args = Argumenti
 safe-mode-title = Poskusite varni način
 restart-in-safe-mode-label = Ponovno zaženi z onemogočenimi dodatki …
+troubleshoot-mode-title = Odkrivanje težav
 restart-in-troubleshoot-mode-label = Način za odpravljanje težav …
 clear-startup-cache-title = Poskusite počistiti predpomnilnik zagona
 clear-startup-cache-label = Počisti predpomnilnik zagona …
 startup-cache-dialog-title = Počistite predpomnilnik zagona
 startup-cache-dialog-body = Ponovno zaženite { -brand-short-name }, da počistite predpomnilnik zagona. To ne bo spremenilo vaših nastavitev ali odstranilo razširitev, ki ste jih dodali v { -brand-short-name }.
+startup-cache-dialog-body2 = S tem ne boste spremenili svojih nastavitev ali odstranili razširitev.
 restart-button-label = Ponovno zaženi
 
 ## Media titles
