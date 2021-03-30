@@ -7,6 +7,8 @@
 <!ENTITY popupWindowRejectCmd.accesskey "R">
 <!ENTITY popupWindowAllowCmd.label      "Permitir ventanas emergentes de este sitio">
 <!ENTITY popupWindowAllowCmd.accesskey  "a">
+
+<!-- Context Menu -->
 <!ENTITY openLinkCmdInTab.label       "Abrir enlace en nueva pestaña">
 <!ENTITY openLinkCmdInTab.accesskey   "t">
 <!ENTITY openLinkCmd.label            "Abrir enlace en nueva ventana">
@@ -157,11 +159,11 @@ items are mutually exclusive. -->
 <!ENTITY spellAddDictionaries.accesskey "D">
 
 <!ENTITY fillLoginMenu.label          "Llenar con inicio de sesión">
-<!ENTITY fillLoginMenu.accesskey      "F">
+<!ENTITY fillLoginMenu.accesskey      "s">
 <!ENTITY fillPasswordMenu.label       "Llenar con contraseña">
-<!ENTITY fillPasswordMenu.accesskey   "F">
+<!ENTITY fillPasswordMenu.accesskey   "c">
 <!ENTITY fillUsernameMenu.label       "Llenar con nombre de usuario">
-<!ENTITY fillUsernameMenu.accesskey   "F">
+<!ENTITY fillUsernameMenu.accesskey   "u">
 <!ENTITY noLoginSuggestions.label     "(Sin sugerencias de inicio de sesión)">
 <!ENTITY viewSavedLogins.label        "Ver inicios de sesión guardados">
 
