@@ -18,6 +18,7 @@ login-filter =
 create-login-button = Nowe přizjewjenje załožić
 fxaccounts-sign-in-text = Přinjesće swoje hesła do wašich druhich gratow
 fxaccounts-sign-in-button = So pola { -sync-brand-short-name } přizjewić
+fxaccounts-sign-in-sync-button = Pola Sync přizjewić
 fxaccounts-avatar-button =
     .title = Konto rjadować
 
@@ -77,6 +78,8 @@ login-intro-description = Jeli sće swoje přizjewjenja { -brand-product-name } 
 login-intro-instruction-fxa = Załožće abo přizjewće so pola swojeho { -fxaccount-brand-name } na graće, hdźež waše přizjewjenja su składowane
 login-intro-instruction-fxa-settings = Přeswědčće so, zo sće kontrolny kašćik přizjewjenjow w nastajenjach { -sync-brand-short-name } wubrał
 about-logins-intro-instruction-help = Wopytajće <a data-l10n-name="help-link">pomoc { -lockwise-brand-short-name }</a> za wjace pomocy
+login-intro-instructions-fxa = Załožće abo přizjewće so pola swojeho { -fxaccount-brand-name } na graće, hdźež waše přizjewjenja su składowane
+login-intro-instructions-fxa-help = Wopytajće <a data-l10n-name="help-link">pomoc { -lockwise-brand-short-name }</a> za wjace pomocy.
 about-logins-intro-import = Jeli waše přizjewjenja su składowane w druhim wobhladowaku, móžeće <a data-l10n-name="import-link">je do { -lockwise-brand-short-name } importować</a>
 about-logins-intro-import2 = Jeli waše přizjewjenja so zwonka { -brand-product-name } składuja, móžeće <a data-l10n-name="import-browser-link">je z druheho wobhladowaka importować</a>, abo <a data-l10n-name="import-file-link">z dataje</a>
 

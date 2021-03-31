@@ -35,18 +35,24 @@ appmenuitem-more-tools =
     .label = Dalše nastroje
 appmenuitem-exit =
     .label = Skónčić
-appmenuitem-exit2 =
-    .label =
-        { PLATFORM() ->
-            [linux] Skónčić
-           *[other] Skónčić
-        }
 appmenu-menu-button-closed =
     .tooltiptext = Nałoženski meni wočinić
     .label = { -brand-shorter-name }
 appmenu-menu-button-opened =
     .tooltiptext = Nałoženski meni začinić
     .label = { -brand-shorter-name }
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Skónčić
+           *[other] Skónčić
+        }
+appmenu-menu-button-closed2 =
+    .tooltiptext = Nałoženski meni wočinić
+    .label = { -brand-short-name }
+appmenu-menu-button-opened2 =
+    .tooltiptext = Nałoženski meni začinić
+    .label = { -brand-short-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -65,6 +71,10 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Nětko synchronizować
+appmenu-remote-tabs-sign-into-sync =
+    .label = Pola Sync přizjewić…
+appmenu-remote-tabs-turn-on-sync =
+    .label = Sync zmóžnić…
 appmenuitem-fxa-toolbar-sync-now2 = Nětko synchronizować
 appmenuitem-fxa-manage-account = Manage Account
 appmenu-fxa-header =

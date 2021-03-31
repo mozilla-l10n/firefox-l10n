@@ -268,11 +268,15 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = Zapołožku přidać
+bookmarks-edit-bookmark = Zapołožku wobdźěłać
 bookmark-panel-show-editor-checkbox =
     .label = Editor při składowanju pokazać
     .accesskey = E
 bookmark-panel-done-button =
     .label = Dokónčeny
+bookmark-panel-save-button =
+    .label = Składować
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
