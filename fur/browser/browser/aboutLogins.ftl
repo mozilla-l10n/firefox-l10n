@@ -78,6 +78,8 @@ login-intro-instruction-fxa = Cree o jentre tal to { -fxaccount-brand-name } sul
 login-intro-instruction-fxa-settings = Siguriti di vê selezionât la casele di selezion des credenziâls  intes impostazions di { -sync-brand-short-name }
 about-logins-intro-instruction-help = Par vê jutori, visite <a data-l10n-name="help-link"> il supuart di { -lockwise-brand-short-name }</a>
 login-intro-instructions-fxa = Cree o jentre sul to { -fxaccount-brand-name(capitalization: "sentence") } sul dispositîf dulà che tu âs salvadis lis tôs credenziâls.
+login-intro-instructions-fxa-settings = Va su Impostazions > Sincronizazion > Ative la sincronizazion… e selezione la casele Credenziâls e passwords.
+login-intro-instructions-fxa-help = Par vê jutori, visite <a data-l10n-name="help-link"> il supuart di { -lockwise-brand-short-name }</a>.
 about-logins-intro-import = Se lis tôs credenziâls a son stadis salvadis intun altri navigadôr, tu puedis <a data-l10n-name="import-link">impuartâlis in { -lockwise-brand-short-name }</a>
 about-logins-intro-import2 = Se lis tôs credenziâls a son stadis salvadis fûr di { -brand-product-name }, tu puedis <a data-l10n-name="import-browser-link">impuartâlis di un altri navigadôr</a> opûr <a data-l10n-name="import-file-link">di un file</a>
 

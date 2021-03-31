@@ -35,18 +35,18 @@ appmenuitem-more-tools =
     .label = Plui struments
 appmenuitem-exit =
     .label = Jes
-appmenuitem-exit2 =
-    .label =
-        { PLATFORM() ->
-            [linux] Jes
-           *[other] Jes
-        }
 appmenu-menu-button-closed =
     .tooltiptext = Vierç menù aplicazion
     .label = { -brand-shorter-name }
 appmenu-menu-button-opened =
     .tooltiptext = Siere menù aplicazion
     .label = { -brand-shorter-name }
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Jes
+           *[other] Jes
+        }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -65,6 +65,10 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sincronize cumò
+appmenu-remote-tabs-sign-into-sync =
+    .label = Jentre par sincronizâ…
+appmenu-remote-tabs-turn-on-sync =
+    .label = Ative la sincronizazion…
 appmenuitem-fxa-toolbar-sync-now2 = Sincronize cumò
 appmenuitem-fxa-manage-account = Gjestìs account
 appmenu-fxa-header =

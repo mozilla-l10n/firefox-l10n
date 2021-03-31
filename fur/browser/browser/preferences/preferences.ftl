@@ -46,6 +46,9 @@ category-privacy =
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
+pane-sync-title3 = Sincronizazion
+category-sync3 =
+    .tooltiptext = { pane-sync-title3 }
 pane-experimental-title = Esperiments di { -brand-short-name }
 category-experimental =
     .tooltiptext = Esperiments di { -brand-short-name }
@@ -633,6 +636,10 @@ sync-signedout-description = Sincronize i tiei segnelibris, la cronologjie, lis 
 sync-signedout-account-signin2 =
     .label = Jentre su { -sync-brand-short-name }…
     .accesskey = J
+sync-signedout-description2 = Sincronize segnelibris, cronologjie, schedis, passwords, zontis e impostazions tra ducj i tiei dispositîfs.
+sync-signedout-account-signin3 =
+    .label = Jentre par sincronizâ…
+    .accesskey = J
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -672,6 +679,10 @@ prefs-sync-setup =
     .label = Configure { -sync-brand-short-name }…
     .accesskey = C
 prefs-sync-offer-setup-label = Sincronize i segnelibris, la storie, lis schedis, lis passwords, lis zontis e preferencis su ducj i tiei dispositîfs.
+prefs-sync-turn-on-syncing =
+    .label = Ative la sincronizazion…
+    .accesskey = s
+prefs-sync-offer-setup-label2 = Sincronize segnelibris, cronologjie, schedis, passwords, zontis e impostazions tra ducj i tiei dispositîfs.
 prefs-sync-now =
     .labelnotsyncing = Sincronize cumò
     .accesskeynotsyncing = u
@@ -692,6 +703,7 @@ sync-currently-syncing-prefs =
         [windows] Opzions
        *[other] Preferencis
     }
+sync-currently-syncing-settings = Impostazions
 sync-change-options =
     .label = Cambie…
     .accesskey = C
@@ -738,6 +750,10 @@ sync-engine-prefs =
            *[other] Preferencis
         }
     .tooltiptext = Lis impostazions gjenerâls, di riservatece e di sigurece che tu âs modificât
+    .accesskey = s
+sync-engine-settings =
+    .label = Impostazions
+    .tooltiptext = Lis impostazions gjenerâls, di riservatece e sigurece che tu âs cambiât
     .accesskey = s
 
 ## The device name controls.
