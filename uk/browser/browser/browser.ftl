@@ -266,11 +266,15 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = Додати закладку
+bookmarks-edit-bookmark = Редагувати закладку
 bookmark-panel-show-editor-checkbox =
     .label = Показати редактор при збереженні
     .accesskey = к
 bookmark-panel-done-button =
     .label = Готово
+bookmark-panel-save-button =
+    .label = Зберегти
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
