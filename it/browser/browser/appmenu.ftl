@@ -62,6 +62,10 @@ appmenuitem-zoom-reduce =
     .label = Riduci zoom
 appmenuitem-fullscreen =
     .label = Schermo intero
+appmenu-remote-tabs-sign-into-sync =
+  .label = Accedi per sincronizzare…
+appmenu-remote-tabs-turn-on-sync =
+  .label = Attiva sincronizzazione…
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
