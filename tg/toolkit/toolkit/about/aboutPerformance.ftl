@@ -8,6 +8,7 @@
 
 ## Special values for the Name column
 
+ghost-windows = Варақаҳои ба наздикӣ пӯшидашуда
 
 ## Values for the Type column
 

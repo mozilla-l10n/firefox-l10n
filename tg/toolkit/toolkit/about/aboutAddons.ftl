@@ -47,6 +47,22 @@ detail-private-browsing-label = Иҷро кардан дар равзанаҳо�
 detail-private-disallowed-label = Дар равзанаҳои махфӣ иҷозат дода намешавад
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Дастрасӣ ба равзанаҳои махфӣ лозим аст
+detail-show-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Имконот
+           *[other] Хусусиятҳо
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] И
+           *[other] Х
+        }
+    .tooltiptext =
+        { PLATFORM() ->
+            [windows] Тағйир додани ин имкони ҷузъи иловагӣ
+           *[other] Тағйир додани ин хусусияти ҷузъи иловагӣ
+        }
 disabled-unsigned-heading =
     .value = Баъзеи ҷузъҳои иловагӣ ғайрифаъол карда шудаанд
 
@@ -99,6 +115,11 @@ addon-options-button =
 
 ## Add-on actions
 
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] Имконот
+       *[other] Хусусиятҳо
+    }
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -109,6 +130,11 @@ addon-name-disabled = { $name } (ғайрифаъол)
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> тоза карда шуд.
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed2 =
+    .title = Дар равзанаҳои махфӣ иҷозат дода мешавад
+    .aria-label = { addon-badge-private-browsing-allowed2.title }
 
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
