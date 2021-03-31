@@ -18,6 +18,7 @@ login-filter =
 create-login-button = Créer un nouvel identifiant
 fxaccounts-sign-in-text = Accédez à vos mots de passe sur vos autres appareils
 fxaccounts-sign-in-button = Se connecter à { -sync-brand-short-name }
+fxaccounts-sign-in-sync-button = Se connecter pour synchroniser
 fxaccounts-avatar-button =
     .title = Gérer le compte
 
@@ -70,11 +71,15 @@ about-logins-list-item-vulnerable-password-icon =
 
 login-intro-heading = Vous recherchez vos identifiants enregistrés ? Configurez { -sync-brand-short-name }.
 about-logins-login-intro-heading-logged-out = Vous recherchez vos identifiants enregistrés ? Configurez { -sync-brand-short-name } ou importez-les.
+about-logins-login-intro-heading-logged-out2 = Vous cherchez vos identifiants enregistrés ? Activez la synchronisation ou importez-les.
 about-logins-login-intro-heading-logged-in = Aucun identifiant synchronisé trouvé.
 login-intro-description = Si vous avez enregistré vos identifiants dans { -brand-product-name } sur un autre appareil, voici comment y accéder ici :
 login-intro-instruction-fxa = Connectez-vous ou créez un { -fxaccount-brand-name } sur l’appareil où vos identifiants sont enregistrés.
 login-intro-instruction-fxa-settings = Assurez-vous d’avoir coché la case Identifiants dans les paramètres de { -sync-brand-short-name }.
 about-logins-intro-instruction-help = Pour obtenir de l’aide, visitez l’<a data-l10n-name="help-link">assistance de { -lockwise-brand-short-name }</a>.
+login-intro-instructions-fxa = Connectez-vous ou créez un { -fxaccount-brand-name } sur l’appareil où vos identifiants sont enregistrés.
+login-intro-instructions-fxa-settings = Allez dans Paramètres > Synchronisation > Activer la synchronisation… et sélectionnez la case Identifiants et mots de passe.
+login-intro-instructions-fxa-help = Pour obtenir de l’aide, visitez l’<a data-l10n-name="help-link">assistance de { -lockwise-brand-short-name }</a>.
 about-logins-intro-import = Si vos identifiants sont enregistrés dans un autre navigateur, vous pouvez <a data-l10n-name="import-link">les importer dans { -lockwise-brand-short-name }</a>
 about-logins-intro-import2 = Si vos identifiants de connexion et mots de passe sont enregistrés en dehors de { -brand-product-name }, vous pouvez <a data-l10n-name="import-browser-link">les importer depuis un autre navigateur</a> ou <a data-l10n-name="import-file-link">depuis un fichier</a>
 
