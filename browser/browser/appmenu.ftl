@@ -35,18 +35,24 @@ appmenuitem-more-tools =
     .label = Dalšne rědy
 appmenuitem-exit =
     .label = Skóńcyś
-appmenuitem-exit2 =
-    .label =
-        { PLATFORM() ->
-            [linux] Skóńcyś
-           *[other] Skóńcyś
-        }
 appmenu-menu-button-closed =
     .tooltiptext = Nałožeński meni wócyniś
     .label = { -brand-shorter-name }
 appmenu-menu-button-opened =
     .tooltiptext = Nałožeński meni zacyniś
     .label = { -brand-shorter-name }
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Skóńcyś
+           *[other] Skóńcyś
+        }
+appmenu-menu-button-closed2 =
+    .tooltiptext = Nałožeński meni wócyniś
+    .label = { -brand-short-name }
+appmenu-menu-button-opened2 =
+    .tooltiptext = Nałožeński meni zacyniś
+    .label = { -brand-short-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -65,6 +71,10 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Něnto synchronizěrowaś
+appmenu-remote-tabs-sign-into-sync =
+    .label = Pla Sync pśizjawiś…
+appmenu-remote-tabs-turn-on-sync =
+    .label = Sync zmóžniś…
 appmenuitem-fxa-toolbar-sync-now2 = Něnto synchronizěrowaś
 appmenuitem-fxa-manage-account = Konto zastojaś
 appmenu-fxa-header =
