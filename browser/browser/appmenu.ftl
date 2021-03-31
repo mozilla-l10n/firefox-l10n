@@ -35,18 +35,24 @@ appmenuitem-more-tools =
     .label = Weitere Werkzeuge
 appmenuitem-exit =
     .label = Beenden
-appmenuitem-exit2 =
-    .label =
-        { PLATFORM() ->
-            [linux] Beenden
-           *[other] Beenden
-        }
 appmenu-menu-button-closed =
     .tooltiptext = Anwendungsmenü öffnen
     .label = { -brand-shorter-name }
 appmenu-menu-button-opened =
     .tooltiptext = Anwendungsmenü schließen
     .label = { -brand-shorter-name }
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Beenden
+           *[other] Beenden
+        }
+appmenu-menu-button-closed2 =
+    .tooltiptext = Anwendungsmenü öffnen
+    .label = { -brand-short-name }
+appmenu-menu-button-opened2 =
+    .tooltiptext = Anwendungsmenü schließen
+    .label = { -brand-short-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =

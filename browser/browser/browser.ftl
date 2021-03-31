@@ -264,11 +264,15 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = Lesezeichen hinzufügen
+bookmarks-edit-bookmark = Lesezeichen bearbeiten
 bookmark-panel-show-editor-checkbox =
     .label = Eigenschaften beim Speichern bearbeiten
     .accesskey = g
 bookmark-panel-done-button =
     .label = Fertig
+bookmark-panel-save-button =
+    .label = Speichern
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
