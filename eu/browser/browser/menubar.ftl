@@ -11,6 +11,8 @@
 
 ## Application Menu (macOS only)
 
+menu-application-preferences =
+    .label = Hobespenak
 menu-application-services =
     .label = Zerbitzuak
 menu-application-hide-this =
@@ -252,6 +254,9 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Hasi saioa { -brand-product-name }(e)n…
     .accesskey = H
+menu-tools-addons-and-themes =
+    .label = Gehigarriak eta itxurak
+    .accesskey = G
 menu-tools-fxa-sign-in2 =
     .label = Hasi saioa
     .accesskey = H

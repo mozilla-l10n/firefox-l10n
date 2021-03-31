@@ -233,6 +233,11 @@ main-context-menu-media-video-leave-fullscreen =
 main-context-menu-media-pip =
     .label = Bideoa beste leiho batean
     .accesskey = b
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-watch-pip =
+    .label = Ikusi bideoa beste leiho batean
+    .accesskey = k
 main-context-menu-image-reload =
     .label = Berritu irudia
     .accesskey = r
@@ -242,6 +247,12 @@ main-context-menu-image-view =
 main-context-menu-video-view =
     .label = Ikusi bideoa
     .accesskey = k
+main-context-menu-image-view-new-tab =
+    .label = Ireki irudia fitxa berrian
+    .accesskey = d
+main-context-menu-video-view-new-tab =
+    .label = Ireki bideoa fitxa berrian
+    .accesskey = b
 main-context-menu-image-copy =
     .label = Kopiatu irudia
     .accesskey = K
@@ -290,6 +301,9 @@ main-context-menu-audio-save-as =
 main-context-menu-video-image-save-as =
     .label = Gorde argazkia honela…
     .accesskey = G
+main-context-menu-video-take-snapshot =
+    .label = Hartu argazkia…
+    .accesskey = z
 main-context-menu-video-email =
     .label = Bidali bideoa postaz…
     .accesskey = a
@@ -319,9 +333,18 @@ main-context-menu-generate-new-password =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-use-saved-login =
+    .label = Erabili gordetako saio-hasiera
+    .accesskey = s
+main-context-menu-use-saved-password =
+    .label = Erabili gordetako pasahitza
+    .accesskey = h
 
 ##
 
+main-context-menu-suggest-strong-password =
+    .label = Gomendatu pasahitz sendoa…
+    .accesskey = n
 main-context-menu-manage-logins =
     .label = Kudeatu saio-hasierak…
     .accesskey = K
@@ -367,6 +390,9 @@ main-context-menu-print-selection =
 main-context-menu-view-selection-source =
     .label = Ikusi aukeraren iturburua
     .accesskey = u
+main-context-menu-take-screenshot =
+    .label = Hartu pantaila-argazkia
+    .accesskey = H
 main-context-menu-view-page-source =
     .label = Ikusi orriaren iturburua
     .accesskey = o

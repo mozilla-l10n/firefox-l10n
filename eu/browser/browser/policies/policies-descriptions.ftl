@@ -14,6 +14,7 @@ policy-3rdparty = Ezarri politikak WebExtension gehigarriek chrome.storage.manag
 policy-AppAutoUpdate = Gaitu edo desgaitu aplikazioaren eguneraketa automatikoa.
 policy-AppUpdateURL = Ezarri aplikazioa-eguneraketen URL pertsonalizatua
 policy-Authentication = Konfiguratu onartzen duten webguneentzat integratutako autentifikazioa.
+policy-BackgroundAppUpdate2 = Gaitu edo desgaitu atzeko planoko eguneraketak.
 policy-BlockAboutAddons = Blokeatu gehigarrien kudeatzailerako sarbidea (about:addons).
 policy-BlockAboutConfig = Blokeatu about:config orrirako sarbidea.
 policy-BlockAboutProfiles = Blokeatu about:profiles orrirako sarbidea.
@@ -106,6 +107,7 @@ policy-SearchEngines = Konfiguratu bilaketa-motorren ezarpenak. Politika hau Ext
 policy-SearchSuggestEnabled = Gaitu edo desgaitu bilaketa-iradokizunak.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Instalatu PKCS #11 moduluak.
+policy-ShowHomeButton = Erakutsi hasiera-orriko botoia tresna-barran.
 policy-SSLVersionMax = Ezarri SSL bertsio maximoa.
 policy-SSLVersionMin = Ezarri SSL bertsio minimoa.
 policy-SupportMenu = Gehitu euskarrirako menu-elementu pertsonalizatua laguntzaren menuan.
