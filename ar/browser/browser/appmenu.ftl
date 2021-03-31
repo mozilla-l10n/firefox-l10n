@@ -71,6 +71,8 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = زامِن الآن
+appmenu-remote-tabs-turn-on-sync =
+    .label = فعّل المزامنة…
 appmenuitem-fxa-toolbar-sync-now2 = زامِن الآن
 appmenuitem-fxa-manage-account = أدِر الحساب
 appmenu-fxa-header =
