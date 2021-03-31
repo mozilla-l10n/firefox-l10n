@@ -264,11 +264,15 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = Ajouter un marque-page
+bookmarks-edit-bookmark = Modifier le marque-page
 bookmark-panel-show-editor-checkbox =
     .label = Afficher l’éditeur lors de l’enregistrement
     .accesskey = A
 bookmark-panel-done-button =
     .label = Terminer
+bookmark-panel-save-button =
+    .label = Enregistrer
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
