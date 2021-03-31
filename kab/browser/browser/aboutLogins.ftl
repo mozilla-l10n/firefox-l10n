@@ -18,6 +18,7 @@ login-filter =
 create-login-button = Rnu anekcum amaynut
 fxaccounts-sign-in-text = Kcem ɣer wawalen-ik uffiren ɣef yibenkan-nniḍen
 fxaccounts-sign-in-button = Qqen ɣer { -sync-brand-short-name }
+fxaccounts-sign-in-sync-button = Kcem akken ad yemtawi
 fxaccounts-avatar-button =
     .title = Sefrek amiḍan
 
