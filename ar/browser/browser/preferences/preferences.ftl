@@ -28,6 +28,18 @@ search-input-box =
             [windows] ابحث في الخيارات
            *[other] ابحث في التفضيلات
         }
+settings-page-title = الإعدادات
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box2 =
+    .style = width: 15.4em
+    .placeholder = ابحث في الإعدادات
 managed-notice = تُدير منظّمتك المتصفح الذي تستخدم الآن.
 category-list =
     .aria-label = الفئات
@@ -121,6 +133,8 @@ search-results-empty-message =
         [windows] للأسف لا نتائج في الخيارات عن ”<span data-l10n-name="query"></span>“.
        *[other] للأسف لا نتائج في التفضيلات عن ”<span data-l10n-name="query"></span>“.
     }
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 = للأسف لا نتائج في الإعدادات عن ”<span data-l10n-name="query"></span>“.
 search-results-help-link = أتحتاج للمساعدة؟ زُر <a data-l10n-name="url">دعم { -brand-short-name }</a>
 
 ## General Section
@@ -621,6 +635,8 @@ containers-back-button =
             [windows] عُد إلى الخيارات
            *[other] عُد إلى التفضيلات
         }
+containers-back-button2 =
+    .aria-label = عُد إلى الإعدادات
 containers-header = الألسنة الحاوية
 containers-add-button =
     .label = أضف حاوية جديدة
@@ -630,6 +646,8 @@ containers-new-tab-check =
     .accesskey = خ
 containers-preferences-button =
     .label = التفضيلات
+containers-settings-button =
+    .label = الإعدادات
 containers-remove-button =
     .label = أزِل
 
@@ -641,6 +659,7 @@ sync-signedout-description = زامن علاماتك، و تأريخك، و أ
 sync-signedout-account-signin2 =
     .label = لِج إلى { -sync-brand-short-name }…
     .accesskey = ل
+sync-signedout-description2 = زامن علاماتك، و تأريخك، و ألسنتك، و كلمات سرك، و إضافاتك و الإعدادات بين كل أجهزتك.
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -680,6 +699,7 @@ prefs-sync-setup =
     .label = اضبط { -sync-brand-short-name }…
     .accesskey = ض
 prefs-sync-offer-setup-label = زامن علاماتك، و تأريخك، و ألسنتك، و كلمات سرك، و إضافاتك و التفضيلات بين كل أجهزتك.
+prefs-sync-offer-setup-label2 = زامن علاماتك، و تأريخك، و ألسنتك، و كلمات سرك، و إضافاتك و الإعدادات بين كل أجهزتك.
 prefs-sync-now =
     .labelnotsyncing = زامِن الآن
     .accesskeynotsyncing = م
@@ -700,6 +720,7 @@ sync-currently-syncing-prefs =
         [windows] الخيارات
        *[other] التفضيلات
     }
+sync-currently-syncing-settings = الإعدادات
 sync-change-options =
     .label = غيّرها…
     .accesskey = غ
@@ -747,6 +768,10 @@ sync-engine-prefs =
         }
     .tooltiptext = الإعدادات العامة، و إعدادات الخصوصية و الأمن التي غيرتها
     .accesskey = ت
+sync-engine-settings =
+    .label = الإعدادات
+    .tooltiptext = الإعدادات العامة وإعدادات الخصوصية والأمن التي غيّرتها
+    .accesskey = ع
 
 ## The device name controls.
 
@@ -1159,6 +1184,10 @@ space-alert-under-5gb-ok-button =
     .label = حسنًا، فهمت
     .accesskey = ح
 space-alert-under-5gb-message = مساحة القرص قاربت على النفاذ من { -brand-short-name }. قد لا يُعرض محتوى المواقع كما ينبغي. انتقل إلى ”اطّلع على المزيد“ لتحسين استخدام القرص لتصفح أحسن.
+space-alert-over-5gb-settings-button =
+    .label = افتح الإعدادات
+    .accesskey = ف
+space-alert-over-5gb-message2 = <strong>مساحة القرص قاربت على النفاذ من { -brand-short-name }</strong>. قد لا يُعرض محتوى المواقع كما ينبغي. يمكنك مسح البيانات المحفوظة من ”الإعدادات ← الخصوصية والأمان ← الكعكات وبيانات المواقع“.
 
 ## Privacy Section - HTTPS-Only
 

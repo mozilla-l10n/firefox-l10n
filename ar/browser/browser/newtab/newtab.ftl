@@ -19,6 +19,20 @@ newtab-search-box-search-button =
     .title = ابحث
     .aria-label = ابحث
 newtab-search-box-search-the-web-text = ابحث في الوِب
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-text = ‫ابحث مستعملًا { $engine } أو أدخِل عنوانا
+newtab-search-box-handoff-text-no-engine = ابحث أو أدخِل عنوانا
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-input =
+    .placeholder = ‫ابحث مستعملًا { $engine } أو أدخِل عنوانا
+    .title = ‫ابحث مستعملًا { $engine } أو أدخِل عنوانا
+    .aria-label = ‫ابحث مستعملًا { $engine } أو أدخِل عنوانا
+newtab-search-box-handoff-input-no-engine =
+    .placeholder = ابحث أو أدخِل عنوانا
+    .title = ابحث أو أدخِل عنوانا
+    .aria-label = ابحث أو أدخِل عنوانا
 newtab-search-box-search-the-web-input =
     .placeholder = ابحث في الوِب
     .title = ابحث في الوِب

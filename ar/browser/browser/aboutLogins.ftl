@@ -18,6 +18,7 @@ login-filter =
 create-login-button = أنشئ جلسة ولوج جديدة
 fxaccounts-sign-in-text = استعمل كلمات السر لحساباتك في أجهزتك الأخرى
 fxaccounts-sign-in-button = لِج إلى { -sync-brand-short-name }
+fxaccounts-sign-in-sync-button = لِج كي تبدأ المزامنة
 fxaccounts-avatar-button =
     .title = أدِر الحساب
 
@@ -74,11 +75,13 @@ about-logins-list-item-vulnerable-password-icon =
 
 login-intro-heading = أتبحث عن جلسات ولوجك المحفوظة؟ إذًا اضبط { -sync-brand-short-name }.
 about-logins-login-intro-heading-logged-out = أتبحث عن جلسات ولوجك المحفوظة؟ إذًا اضبط { -sync-brand-short-name } أو استورِدها.
+about-logins-login-intro-heading-logged-out2 = أتبحث عن جلسات ولوجك المحفوظة؟ فعّل المزامنة أو استورِدها.
 about-logins-login-intro-heading-logged-in = لم نجد أيّ جلسة ولوج متزامنة.
 login-intro-description = إن حفظت جلسات ولوجك في { -brand-product-name } على جهاز آخر، فهكذا يمكنك أن تزامنها هنا:
 login-intro-instruction-fxa = أنشِئ أو لِج إلى { -fxaccount-brand-name } على الأجهزة التي لديك عليها جلسات ولوج محفوظة
 login-intro-instruction-fxa-settings = تحقّق من تحديد مربع ”جلسات الولوج“ في إعدادات { -sync-brand-short-name }
 about-logins-intro-instruction-help = زُر <a data-l10n-name="help-link">دعم { -lockwise-brand-short-name }</a> لمزيد من المساعدة
+login-intro-instructions-fxa = أنشِئ أو لِج إلى { -fxaccount-brand-name } على الأجهزة التي لديك عليها جلسات ولوج محفوظة
 about-logins-intro-import = لو كانت جلسات ولوجك محفوظة في متصفّح آخر فيمكنك <a data-l10n-name="import-link">استيرادها إلى { -lockwise-brand-short-name }</a>
 about-logins-intro-import2 = إن حفظت جلسات الولوج خارج { -brand-product-name } فيمكنك <a data-l10n-name="import-browser-link">استيرادها من متصفّح آخر</a> أو <a data-l10n-name="import-file-link">من ملف</a>
 

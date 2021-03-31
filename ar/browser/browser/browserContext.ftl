@@ -102,6 +102,18 @@ main-context-menu-bookmark-add =
     .aria-label = علّم هذه الصفحة
     .accesskey = ه
     .tooltiptext = علّم هذه الصفحة
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-add-mac =
+    .label = علِّم الصفحة
+    .accesskey = ع
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-edit-mac =
+    .label = حرّر العلامة
+    .accesskey = ح
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-add-with-shortcut =
@@ -360,6 +372,9 @@ main-context-menu-suggest-strong-password =
     .accesskey = ق
 main-context-menu-manage-logins =
     .label = أدِر جلسات الولوج…
+    .accesskey = د
+main-context-menu-manage-logins2 =
+    .label = أدِر جلسات الولوج
     .accesskey = د
 main-context-menu-keyword =
     .label = أضِف كلمة رئيسية لهذا البحث…
