@@ -62,6 +62,9 @@ category-privacy =
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
+pane-sync-title3 = Sincronizzazione
+category-sync3 =
+    .tooltiptext = { pane-sync-title3 }
 
 pane-experimental-title = Esperimenti di { -brand-short-name }
 category-experimental =
@@ -811,6 +814,9 @@ sync-signedout-description2 = Sincronizza segnalibri, cronologia, schede, passwo
 sync-signedout-account-signin2 =
     .label = Accedi a { -sync-brand-short-name }…
     .accesskey = d
+sync-signedout-account-signin3 =
+    .label = Accedi per sincronizzare…
+    .accesskey = d
 
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -861,6 +867,9 @@ prefs-syncing-off = Sincronizzazione: DISATTIVATA
 prefs-sync-setup =
     .label = Configura { -sync-brand-short-name }…
     .accesskey = C
+prefs-sync-turn-on-syncing =
+    .label = Attiva sincronizzazione…
+    .accesskey = c
 
 prefs-sync-offer-setup-label = Sincronizza segnalibri, cronologia, schede, password, componenti aggiuntivi e impostazioni attraverso tutti i tuoi dispositivi.
 prefs-sync-offer-setup-label2 = Sincronizza segnalibri, cronologia, schede, password, componenti aggiuntivi e impostazioni attraverso tutti i tuoi dispositivi.
