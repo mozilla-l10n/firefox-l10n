@@ -13,7 +13,6 @@ fxa-disconnect-dialog-title = ตัดการเชื่อมต่อ { -b
 fxa-disconnect-dialog-body = { -brand-product-name } จะตัดการเชื่อมต่อจากบัญชีของคุณ แต่จะไม่ลบข้อมูลการเรียกดูใด ๆ ของคุณบนอุปกรณ์นี้
 sync-disconnect-dialog-button = ตัดการเชื่อมต่อ
 fxa-signout-dialog-heading = ลงชื่อออก { -fxaccount-brand-name } หรือไม่?
-fxa-signout-dialog2-title = ต้องการออกจากระบบ { -fxaccount-brand-name(capitalization: "sentence") } หรือไม่
 fxa-signout-dialog-body = ข้อมูลที่ซิงค์จะยังคงอยู่ในบัญชีของคุณ
 fxa-signout-checkbox =
     .label = ลบข้อมูลจากอุปกรณ์นี้ (การเข้าสู่ระบบ รหัสผ่าน ประวัติ ที่คั่นหน้า ฯลฯ)
