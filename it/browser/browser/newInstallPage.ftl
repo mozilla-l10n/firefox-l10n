@@ -29,4 +29,5 @@ sync-input =
 sync-button = Continua
 sync-terms = Proseguendo, accetti le <a data-l10n-name="terms">condizioni di utilizzo del servizio</a> e l’<a data-l10n-name="privacy">informativa sulla privacy</a>.
 sync-first = È la prima volta che utilizzi { -sync-brand-name }? Dovrai accedere in ogni installazione di Firefox per sincronizzare i dati.
+new-install-sync-first = È la prima volta che utilizzi la sincronizzazione? Dovrai accedere in ogni installazione di Firefox per sincronizzare i dati.
 sync-learn = Ulteriori informazioni
