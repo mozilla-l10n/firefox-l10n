@@ -106,6 +106,8 @@ urlbar-search-mode-history = Таърих
 
 urlbar-geolocation-blocked =
     .tooltiptext = Шумо барои ин сомона маълумоти ҷойгиршавиро манъ кардед.
+urlbar-web-notifications-blocked =
+    .tooltiptext = Шумо барои ин сомона огоҳиҳоро манъ кардед.
 urlbar-camera-blocked =
     .tooltiptext = Шумо барои ин сомона камераи худро манъ кардед.
 urlbar-microphone-blocked =
