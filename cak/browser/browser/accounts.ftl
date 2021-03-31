@@ -8,3 +8,6 @@ account-finish-account-setup = Tik'is Runuk'ulem K'ak'a' Rub'i' Taqoya'l
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-reconnect-to-fxa = Chupun Rub'i' Taqoya'l
+# Used as the FxA toolbar menu item title when the user
+# needs to reconnect their account.
+account-disconnected = Xachüp
