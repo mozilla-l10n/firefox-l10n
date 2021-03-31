@@ -18,6 +18,7 @@ login-filter =
 create-login-button = Lag ny innlogging
 fxaccounts-sign-in-text = Få passorda dine på dei andre einingane dine
 fxaccounts-sign-in-button = Logg inn på { -sync-brand-short-name }
+fxaccounts-sign-in-sync-button = Logg inn for å synkronisere
 fxaccounts-avatar-button =
     .title = Handter konto
 
