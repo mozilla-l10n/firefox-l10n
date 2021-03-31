@@ -58,12 +58,16 @@ category-privacy =
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
+pane-sync-title3 = المزامنة
+category-sync3 =
+    .tooltiptext = { pane-sync-title3 }
 pane-experimental-title = تجارب { -brand-short-name }
 category-experimental =
     .tooltiptext = تجارب { -brand-short-name }
 pane-experimental-subtitle = واصِل وأنت حذر
 pane-experimental-search-results-header = تجارب { -brand-short-name }: واصِل وأنت حذر
 pane-experimental-description = يمكن أن يؤثّر التغيير على تفضيلات الضبط المتقدمة أداء { -brand-short-name } وأمنه.
+pane-experimental-description2 = يمكن أن يؤثّر التغيير على إعدادات الضبط المتقدمة أداء { -brand-short-name } وأمنه.
 pane-experimental-reset =
     .label = استعد المبدئيات
     .accesskey = س
@@ -405,6 +409,12 @@ update-setting-write-failure-message =
     واجه { -brand-short-name } عُطلًا ولم يحفظ هذا التغيير. كي تضبط تفضيل التحديث هذا سيكون عليك تقديم تصريحك للكتابة في الملف أدناه. يمكنك أنت أو يمكن لمدير النظام أن يحلّ هذا العُطل بمنح مجموعة ”المستخدمين/Users“ التصريح الكامل للتحكّم بهذا الملف.
     
     تعذّرت الكتابة في الملف: { $path }
+update-setting-write-failure-title2 = حدث عُطل أثناء تحديث الإعدادات
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message2 = واجه { -brand-short-name } عُطلًا ولم يحفظ هذا التغيير. كي تغيّر إعداد التحديث هذا سيكون عليك تقديم تصريحك للكتابة في الملف أدناه. يمكنك أنت أو يمكن لمدير النظام أن يحلّ هذا العُطل بمنح مجموعة ”المستخدمين/Users“ التصريح الكامل للتحكّم بهذا الملف.
 update-in-progress-title = يجري الآن التحديث
 update-in-progress-message = أتريد من { -brand-short-name } مواصلة العمل على هذا التحديث؟
 update-in-progress-ok-button = أ&همِل
@@ -525,6 +535,7 @@ home-prefs-topsites-by-option-sponsored =
     .label = أهم المواقع المموّلة
 home-prefs-shortcuts-header =
     .label = الاختصارات
+home-prefs-shortcuts-description = المواقع التي حفظتها أو زُرتها
 home-prefs-shortcuts-by-option-sponsored =
     .label = الاختصارات المموّلة
 
@@ -601,6 +612,7 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = اعرض اقتراحات البحث في النوافذ الخاصة
 suggestions-addressbar-settings-generic = غيّر تفضيلات اقتراحات شريط العنوان
+suggestions-addressbar-settings-generic2 = غيّر إعدادات اقتراحات شريط العنوان
 search-suggestions-cant-show = لن تظهر اقتراحات البحث في نتائج شريط الموقع لأنّك أعددت { -brand-short-name } على ألّا يتذكر التأريخ.
 search-one-click-header = محركات البحث بنقرة واحدة
 search-one-click-header2 = اختصارات البحث
@@ -699,6 +711,9 @@ prefs-sync-setup =
     .label = اضبط { -sync-brand-short-name }…
     .accesskey = ض
 prefs-sync-offer-setup-label = زامن علاماتك، و تأريخك، و ألسنتك، و كلمات سرك، و إضافاتك و التفضيلات بين كل أجهزتك.
+prefs-sync-turn-on-syncing =
+    .label = فعّل المزامنة…
+    .accesskey = ف
 prefs-sync-offer-setup-label2 = زامن علاماتك، و تأريخك، و ألسنتك، و كلمات سرك، و إضافاتك و الإعدادات بين كل أجهزتك.
 prefs-sync-now =
     .labelnotsyncing = زامِن الآن
@@ -1188,6 +1203,7 @@ space-alert-over-5gb-settings-button =
     .label = افتح الإعدادات
     .accesskey = ف
 space-alert-over-5gb-message2 = <strong>مساحة القرص قاربت على النفاذ من { -brand-short-name }</strong>. قد لا يُعرض محتوى المواقع كما ينبغي. يمكنك مسح البيانات المحفوظة من ”الإعدادات ← الخصوصية والأمان ← الكعكات وبيانات المواقع“.
+space-alert-under-5gb-message2 = <strong>مساحة القرص قاربت على النفاذ من { -brand-short-name }</strong>. قد لا يُعرض محتوى المواقع كما ينبغي. انتقل إلى ”اطّلع على المزيد“ لتحسين استخدام القرص لتصفح أحسن.
 
 ## Privacy Section - HTTPS-Only
 
