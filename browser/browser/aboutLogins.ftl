@@ -18,6 +18,7 @@ login-filter =
 create-login-button = Lag ny innlogging
 fxaccounts-sign-in-text = Få passordene dine på de andre enheter dine
 fxaccounts-sign-in-button = Logg inn på { -sync-brand-short-name }
+fxaccounts-sign-in-sync-button = Logg inn for å synkronisere
 fxaccounts-avatar-button =
     .title = Behandle konto
 
@@ -70,11 +71,15 @@ about-logins-list-item-vulnerable-password-icon =
 
 login-intro-heading = Ser du etter lagrede innlogginger? Konfigurer { -sync-brand-short-name }.
 about-logins-login-intro-heading-logged-out = Ser du etter lagrede innlogginger? Konfigurer { -sync-brand-short-name } eller importer dem.
+about-logins-login-intro-heading-logged-out2 = Ser du etter dine lagrede innlogginger? Slå på synkronisering eller importer dem.
 about-logins-login-intro-heading-logged-in = Ingen synkroniserte innlogginger funnet.
 login-intro-description = Slik kan du få dine { -brand-product-name } innlogginger hit, om du har lagret de på en annen enhet
 login-intro-instruction-fxa = Lag eller logg inn på din { -fxaccount-brand-name } på enheten der dine innlogginger er lagret
 login-intro-instruction-fxa-settings = Forsikre deg om at du har markert avkryssingsboksen for innlogginger i { -sync-brand-short-name }-innstillingene
 about-logins-intro-instruction-help = Gå til <a data-l10n-name="help-link">{ -lockwise-brand-short-name } Support</a> for mer hjelp
+login-intro-instructions-fxa = Lag eller logg inn på din { -fxaccount-brand-name } på enheten der dine innlogginger er lagret
+login-intro-instructions-fxa-settings = Gå til Innstillinger > Synkronisering > Slå på synkronisering … Merk av for innlogginger og passord.
+login-intro-instructions-fxa-help = Gå til <a data-l10n-name="help-link">{ -lockwise-brand-short-name }-brukerstøtte</a> for mer hjelp.
 about-logins-intro-import = Hvis innloggingene dine er lagret i en annen nettleser, kan du <a data-l10n-name="import-link">importere dem til { -lockwise-brand-short-name }</a>
 about-logins-intro-import2 = Hvis innloggingene dine er lagret utenfor { -brand-product-name }, kan du <a data-l10n-name="import-browser-link">importere dem fra en annen nettleser</a> eller <a data-l10n-name="import-file-link">fra en fil</a>
 
