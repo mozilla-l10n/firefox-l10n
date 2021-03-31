@@ -34,6 +34,9 @@ sidebar-preferences-button-title =
             [windows] ตัวเลือก { -brand-short-name }
            *[other] ค่ากำหนด { -brand-short-name }
         }
+addons-settings-button = การตั้งค่า { -brand-short-name }
+sidebar-settings-button-title =
+    .title = การตั้งค่า { -brand-short-name }
 show-unsigned-extensions-button =
     .label = ไม่สามารถยืนยันส่วนขยายบางตัว
 show-all-extensions-button =
