@@ -14,6 +14,20 @@ calendar-ics-file-dialog-message-2 = Tuo tiedostosta:
 calendar-ics-file-dialog-calendar-menu-label = Tuo kalenteriin:
 calendar-ics-file-dialog-items-loading-message =
     .value = Ladataan merkintöjä…
+calendar-ics-file-dialog-search-input =
+    .placeholder = Suodata merkintöjä…
+calendar-ics-file-dialog-sort-start-ascending =
+    .label = Järjestä aloituspäivän mukaan (ensimmäisestä viimeiseen)
+calendar-ics-file-dialog-sort-start-descending =
+    .label = Järjestä aloituspäivän mukaan (viimeisestä ensimmäiseen)
+# "A > Z" is used as a concise way to say "alphabetical order".
+# You may replace it with something appropriate to your language.
+calendar-ics-file-dialog-sort-title-ascending =
+    .label = Järjestä otsikon mukaan (A > Ö)
+# "Z > A" is used as a concise way to say "reverse alphabetical order".
+# You may replace it with something appropriate to your language.
+calendar-ics-file-dialog-sort-title-descending =
+    .label = Järjestä otsikon mukaan (Ö > A)
 calendar-ics-file-dialog-progress-message = Tuodaan…
 calendar-ics-file-import-success = Tuominen onnistui!
 calendar-ics-file-import-error = Tapahtui virhe ja tuonti epäonnistui.
