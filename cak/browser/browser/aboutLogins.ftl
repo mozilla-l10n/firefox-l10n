@@ -18,6 +18,7 @@ login-filter =
 create-login-button = Titz'uk K'ak'a' Tikirib'äl Molojri'ïl
 fxaccounts-sign-in-text = Ke'ak'ulu' ewan taq kitzij ru ch'aqa' chik taq okisab'äl
 fxaccounts-sign-in-button = Titikirisäx molojri'ïl pa { -sync-brand-short-name }
+fxaccounts-sign-in-sync-button = Tatikirisaj molojri'ïl pa yaximon
 fxaccounts-avatar-button =
     .title = Tinuk'samajïx rub'i' taqoya'l
 
