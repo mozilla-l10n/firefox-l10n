@@ -18,6 +18,7 @@ login-filter =
 create-login-button = Nieuwe aanmelding maken
 fxaccounts-sign-in-text = Breng uw wachtwoorden naar uw andere apparaten
 fxaccounts-sign-in-button = Aanmelden bij { -sync-brand-short-name }
+fxaccounts-sign-in-sync-button = Aanmelden om te synchroniseren
 fxaccounts-avatar-button =
     .title = Account beheren
 
@@ -70,11 +71,15 @@ about-logins-list-item-vulnerable-password-icon =
 
 login-intro-heading = Op zoek naar uw opgeslagen aanmeldingen? Stel { -sync-brand-short-name } in.
 about-logins-login-intro-heading-logged-out = Op zoek naar uw opgeslagen aanmeldingen? Stel { -sync-brand-short-name } in of importeer ze.
+about-logins-login-intro-heading-logged-out2 = Op zoek naar uw opgeslagen aanmeldingen? Schakel synchronisatie in of importeer ze.
 about-logins-login-intro-heading-logged-in = Geen gesynchroniseerde aanmeldingen gevonden.
 login-intro-description = Als u uw aanmeldgegevens bij { -brand-product-name } op een ander apparaat hebt opgeslagen, kunt u ze zo ophalen:
 login-intro-instruction-fxa = Maak op het apparaat waarop uw aanmeldgegevens staan een { -fxaccount-brand-name } of meld u aan
 login-intro-instruction-fxa-settings = Zorg ervoor dat u het veld Aanmeldingen in de instellingen van { -sync-brand-short-name } hebt aangevinkt
 about-logins-intro-instruction-help = Bezoek <a data-l10n-name="help-link">Ondersteuning voor { -lockwise-brand-short-name }</a> voor meer hulp
+login-intro-instructions-fxa = Maak op het apparaat waarop uw aanmeldgegevens staan een { -fxaccount-brand-name } of meld u aan.
+login-intro-instructions-fxa-settings = Ga naar Instellingen > Sync > Synchronisatie inschakelen… Plaats een vinkje bij Aanmeldingen en wachtwoorden.
+login-intro-instructions-fxa-help = Bezoek <a data-l10n-name="help-link">Ondersteuning voor { -lockwise-brand-short-name }</a> voor meer hulp.
 about-logins-intro-import = Als uw aanmeldingen in een andere browser worden opgeslagen, kunt u <a data-l10n-name="import-link">ze importeren in { -lockwise-brand-short-name }</a>
 about-logins-intro-import2 = Als uw aanmeldingen buiten { -brand-product-name } zijn opgeslagen, dan kunt u ze importeren <a data-l10n-name="import-browser-link">vanuit een andere browser</a> of <a data-l10n-name = "import-file-link">vanuit een bestand</a>
 
