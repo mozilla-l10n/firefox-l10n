@@ -256,11 +256,15 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = 新建书签
+bookmarks-edit-bookmark = 编辑书签
 bookmark-panel-show-editor-checkbox =
     .label = 保存时显示编辑器
     .accesskey = S
 bookmark-panel-done-button =
     .label = 完成
+bookmark-panel-save-button =
+    .label = 保存
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
