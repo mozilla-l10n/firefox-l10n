@@ -470,7 +470,7 @@
 <!ENTITY addressBookCmd.key "b">
 <!ENTITY addons.label "Extensões">
 <!ENTITY addons.accesskey "E">
-<!ENTITY addonPrefs.label "Opções de extensões">
+<!ENTITY addonPrefs.label "Opções da extensão">
 <!ENTITY addonPrefs.accesskey "O">
 <!ENTITY addonPrefsUnix.label "Preferências de extensões">
 <!ENTITY addonPrefsUnix.accesskey "P">

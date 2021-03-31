@@ -20,9 +20,9 @@
 
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly builds. It is only shown in this version. -->
-<!ENTITY warningDesc.version        "O &brandShortName; é experimental e pode estar instável.">
+<!ENTITY warningDesc.version        "O &brandShortName; é experimental e pode ficar instável.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly builds automatically send Telemetry data back to Mozilla. It is only shown in this version. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetryDesc  "Ele envia automaticamente para a &vendorShortName; informações sobre desempenho, dispositivos, uso e personalizações para ajudar a melhorar o &brandShortName;.">
+<!ENTITY warningDesc.telemetryDesc  "Informações de desempenho, dispositivos, uso e personalizações são enviadas automaticamente para &vendorShortName; para ajudar a melhorar o &brandShortName;.">
 
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly builds, instead of the other "community.*" strings below. -->
 <!ENTITY community.exp.start        "">
