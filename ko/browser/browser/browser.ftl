@@ -256,11 +256,15 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = 북마크 추가
+bookmarks-edit-bookmark = 북마크 편집
 bookmark-panel-show-editor-checkbox =
     .label = 저장할 때 편집기 표시
     .accesskey = S
 bookmark-panel-done-button =
     .label = 완료
+bookmark-panel-save-button =
+    .label = 저장
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.

@@ -47,6 +47,12 @@ appmenuitem-exit2 =
             [linux] 종료
            *[other] 종료
         }
+appmenu-menu-button-closed2 =
+    .tooltiptext = 애플리케이션 메뉴 열기
+    .label = { -brand-short-name }
+appmenu-menu-button-opened2 =
+    .tooltiptext = 애플리케이션 메뉴 닫기
+    .label = { -brand-short-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
