@@ -261,11 +261,15 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = Aggiungi segnalibro
+bookmarks-edit-bookmark = Modifica segnalibro
 bookmark-panel-show-editor-checkbox =
     .label = Visualizza editor quando si salva
     .accesskey = V
 bookmark-panel-done-button =
     .label = Fatto
+bookmark-panel-save-button =
+    .label = Salva
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
