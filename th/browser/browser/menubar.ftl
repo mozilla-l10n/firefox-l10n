@@ -11,6 +11,8 @@
 
 ## Application Menu (macOS only)
 
+menu-application-preferences =
+    .label = ค่ากำหนด
 menu-application-services =
     .label = บริการ
 menu-application-hide-this =
@@ -252,8 +254,8 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = ลงชื่อเข้า { -brand-product-name }…
     .accesskey = g
-menu-tools-extensions =
-    .label = ส่วนขยายและชุดตกแต่ง
+menu-tools-addons-and-themes =
+    .label = ส่วนเสริมและชุดตกแต่ง
     .accesskey = ส
 menu-tools-fxa-sign-in2 =
     .label = ลงชื่อเข้า

@@ -173,6 +173,15 @@ onboarding-multistage-set-default-subtitle = รวดเร็ว ปลอด�
 onboarding-multistage-set-default-primary-button-label = ทำให้เป็นค่าเริ่มต้น
 onboarding-multistage-set-default-secondary-button-label = ไม่ใช่ตอนนี้
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-pin-default-header = เริ่มใช้งานโดยการทำให้ <span data-l10n-name="zap">{ -brand-short-name }</span> เป็นเบราว์เซอร์หลักเพียงคลิกเดียว
+onboarding-multistage-pin-default-subtitle = ให้คุณใช้เว็บได้อย่างรวดเร็ว ปลอดภัย และเป็นส่วนตัวในทุกครั้ง
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-waiting-subtitle = เลือก { -brand-short-name } ภายใต้ เว็บเบราว์เซอร์ เมื่อการตั้งค่าของคุณเปิด
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-help-text = การดำเนินการนี้จะปักหมุด { -brand-short-name } ที่แถบงานและเปิดการตั้งค่า
+onboarding-multistage-pin-default-primary-button-label = ทำให้ { -brand-short-name } เป็นเบราว์เซอร์หลักของฉัน
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = นำเข้ารหัสผ่าน <br/>ที่คั่นหน้า และ<span data-l10n-name="zap">อื่น ๆ</span>
 onboarding-multistage-import-subtitle = มาจากเบราว์เซอร์อื่นหรือไม่? คุณสามารถนำทุกอย่างมาสู่ { -brand-short-name } ได้ง่าย ๆ
