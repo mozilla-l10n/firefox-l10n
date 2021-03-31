@@ -25,6 +25,7 @@ create-login-button = Inserisci nuove credenziali
 
 fxaccounts-sign-in-text = Ritrova le tue password su tutti i tuoi dispositivi
 fxaccounts-sign-in-button = Accedi a { -sync-brand-short-name }
+fxaccounts-sign-in-sync-button = Accedi per sincronizzare
 fxaccounts-avatar-button =
     .title = Gestisci account
 
@@ -74,11 +75,15 @@ about-logins-list-item-vulnerable-password-icon =
 login-intro-heading = Stai cercando le credenziali che hai salvato? Configura { -sync-brand-short-name }.
 
 about-logins-login-intro-heading-logged-out = Stai cercando le credenziali che hai salvato? Configura { -sync-brand-short-name } o importale.
+about-logins-login-intro-heading-logged-out2 = Stai cercando le credenziali che hai salvato? Attiva la sincronizzazione o importale.
 about-logins-login-intro-heading-logged-in = Credenziali sincronizzate non trovate.
 login-intro-description = Se le credenziali sono salvate in { -brand-product-name } su un altro dispositivo, ecco come renderle disponibili qui:
 login-intro-instruction-fxa = Accedi o crea un { -fxaccount-brand-name } sul dispositivo dove sono salvate le credenziali
 login-intro-instruction-fxa-settings = Assicurati che la casella “Credenziali” sia selezionata nelle impostazioni di { -sync-brand-short-name }
 about-logins-intro-instruction-help = Visita il <a data-l10n-name="help-link">supporto per { -lockwise-brand-short-name }</a> per ulteriori informazioni
+login-intro-instructions-fxa = Accedi o crea un { -fxaccount-brand-name } sul dispositivo dove sono salvate le credenziali.
+login-intro-instructions-fxa-settings = Apri Impostazioni > Sincronizzazione > Attiva sincronizzazione… e seleziona la casella Credenziali e password.
+login-intro-instructions-fxa-help = Visita il <a data-l10n-name="help-link">supporto per { -lockwise-brand-short-name }</a> per ulteriori informazioni.
 about-logins-intro-import = Se le credenziali sono salvate in un altro browser, è possibile <a data-l10n-name="import-link">importarle in { -lockwise-brand-short-name }</a>
 
 about-logins-intro-import2 = Se le credenziali sono salvate al di fuori di { -brand-product-name }, è possibile <a data-l10n-name="import-browser-link">importarle da un altro browser</a> o <a data-l10n-name="import-file-link">da un file</a>
