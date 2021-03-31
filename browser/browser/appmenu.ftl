@@ -35,18 +35,18 @@ appmenuitem-more-tools =
     .label = Fleire verktøy
 appmenuitem-exit =
     .label = Avslutt
-appmenuitem-exit2 =
-    .label =
-        { PLATFORM() ->
-            [linux] Avslutt
-           *[other] Avslutt
-        }
 appmenu-menu-button-closed =
     .tooltiptext = Opne program-meny
     .label = { -brand-shorter-name }
 appmenu-menu-button-opened =
     .tooltiptext = Lat att program-meny
     .label = { -brand-shorter-name }
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Avslutt
+           *[other] Avslutt
+        }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -65,6 +65,10 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Synkroniser no
+appmenu-remote-tabs-sign-into-sync =
+    .label = Logg inn for å synkronisere…
+appmenu-remote-tabs-turn-on-sync =
+    .label = Slå på Sync…
 appmenuitem-fxa-toolbar-sync-now2 = Synkroniser no
 appmenuitem-fxa-manage-account = Handter kontoen
 appmenu-fxa-header =
