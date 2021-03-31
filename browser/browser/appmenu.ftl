@@ -35,18 +35,24 @@ appmenuitem-more-tools =
     .label = 更多工具
 appmenuitem-exit =
     .label = 結束
-appmenuitem-exit2 =
-    .label =
-        { PLATFORM() ->
-            [linux] 離開
-           *[other] 結束
-        }
 appmenu-menu-button-closed =
     .tooltiptext = 開啟應用程式選單
     .label = { -brand-shorter-name }
 appmenu-menu-button-opened =
     .tooltiptext = 關閉應用程式選單
     .label = { -brand-shorter-name }
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] 離開
+           *[other] 結束
+        }
+appmenu-menu-button-closed2 =
+    .tooltiptext = 開啟應用程式選單
+    .label = { -brand-short-name }
+appmenu-menu-button-opened2 =
+    .tooltiptext = 關閉應用程式選單
+    .label = { -brand-short-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -65,6 +71,10 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = 立刻同步
+appmenu-remote-tabs-sign-into-sync =
+    .label = 登入進行同步…
+appmenu-remote-tabs-turn-on-sync =
+    .label = 開啟同步…
 appmenuitem-fxa-toolbar-sync-now2 = 立刻同步
 appmenuitem-fxa-manage-account = 管理帳號
 appmenu-fxa-header =

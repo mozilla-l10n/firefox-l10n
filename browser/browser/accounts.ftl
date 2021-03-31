@@ -8,3 +8,6 @@ account-finish-account-setup = 完成帳號設定
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-reconnect-to-fxa = 已取消連結帳號
+# Used as the FxA toolbar menu item title when the user
+# needs to reconnect their account.
+account-disconnected = 您已取消連線

@@ -18,6 +18,7 @@ login-filter =
 create-login-button = 新增登入資訊
 fxaccounts-sign-in-text = 在其他裝置上使用您的密碼
 fxaccounts-sign-in-button = 登入 { -sync-brand-short-name }
+fxaccounts-sign-in-sync-button = 登入進行同步
 fxaccounts-avatar-button =
     .title = 管理帳號
 
@@ -74,6 +75,8 @@ login-intro-description = 若您在其他裝置上儲存登入資訊到 { -brand
 login-intro-instruction-fxa = 在您儲存登入資訊的裝置，註冊或登入 { -fxaccount-brand-name }
 login-intro-instruction-fxa-settings = 確定在 { -sync-brand-short-name } 設定中勾選了「登入資訊」選取盒
 about-logins-intro-instruction-help = 若需協助，請到 <a data-l10n-name="help-link">{ -lockwise-brand-short-name } 技術支援站</a>
+login-intro-instructions-fxa = 在您儲存登入資訊的裝置註冊或登入 { -fxaccount-brand-name }。
+login-intro-instructions-fxa-help = 若需協助，請到 <a data-l10n-name="help-link">{ -lockwise-brand-short-name } 技術支援站</a>。
 about-logins-intro-import = 若登入資訊儲存在其他瀏覽器，您可以<a data-l10n-name="import-link">匯入到 { -lockwise-brand-short-name }</a>
 about-logins-intro-import2 = 若您的登入資訊並未儲存於 { -brand-product-name }，可以<a data-l10n-name="import-browser-link">從另一套瀏覽器</a>或<a data-l10n-name="import-file-link">檔案</a>匯入
 
