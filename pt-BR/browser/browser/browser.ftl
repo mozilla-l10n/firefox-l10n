@@ -264,11 +264,15 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = Adicionar favorito
+bookmarks-edit-bookmark = Editar favorito
 bookmark-panel-show-editor-checkbox =
     .label = Exibir editor ao salvar
     .accesskey = S
 bookmark-panel-done-button =
     .label = Concluído
+bookmark-panel-save-button =
+    .label = Salvar
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
