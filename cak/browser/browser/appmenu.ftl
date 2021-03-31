@@ -50,6 +50,9 @@ appmenuitem-exit2 =
 appmenu-menu-button-closed2 =
     .tooltiptext = Tijaq Ruk'utsamaj Chokoy
     .label = { -brand-short-name }
+appmenu-menu-button-opened2 =
+    .tooltiptext = Titz'apïx Ruk'utsamaj Chokoy
+    .label = { -brand-short-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -68,6 +71,10 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Tixim Wakami
+appmenu-remote-tabs-sign-into-sync =
+    .label = Titikirisäx molojri'ïl pa Ximoj…
+appmenu-remote-tabs-turn-on-sync =
+    .label = Titzij Ximoj…
 appmenuitem-fxa-toolbar-sync-now2 = Tixim Wakami
 appmenuitem-fxa-manage-account = Tinuk'samajïx Rub'i' Taqoya'l
 appmenu-fxa-header =
