@@ -37,7 +37,6 @@ printui-scale-fit-to-page-width = พอดีกับความกว้า�
 printui-scale-pcent = มาตราส่วน
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = การพิมพ์สองด้าน
-printui-duplex-checkbox = พิมพ์ทั้งสองด้าน
 printui-two-sided-printing-off = ปิด
 # Flip the sheet as if it were bound along its long edge.
 printui-two-sided-printing-long-edge = พลิกตามขอบยาว
@@ -56,14 +55,19 @@ printui-margins-default = ค่าเริ่มต้น
 printui-margins-min = ต่ำสุด
 printui-margins-none = ไม่มี
 printui-margins-custom-inches = กำหนดเอง (นิ้ว)
+printui-margins-custom-mm = กำหนดเอง (มม.)
 printui-margins-custom-top = ด้านบน
 printui-margins-custom-top-inches = ด้านบน (นิ้ว)
+printui-margins-custom-top-mm = บน (มม.)
 printui-margins-custom-bottom = ด้านล่าง
 printui-margins-custom-bottom-inches = ด้านล่าง (นิ้ว)
+printui-margins-custom-bottom-mm = ล่าง (มม.)
 printui-margins-custom-left = ด้านซ้าย
 printui-margins-custom-left-inches = ด้านซ้าย (นิ้ว)
+printui-margins-custom-left-mm = ซ้าย (มม.)
 printui-margins-custom-right = ด้านขวา
 printui-margins-custom-right-inches = ด้านขวา (นิ้ว)
+printui-margins-custom-right-mm = ขวา (มม.)
 printui-system-dialog-link = พิมพ์โดยใช้กล่องโต้ตอบระบบ…
 printui-primary-button = พิมพ์
 printui-primary-button-save = บันทึก
