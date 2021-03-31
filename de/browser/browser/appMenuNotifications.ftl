@@ -32,6 +32,7 @@ appmenu-update-restart =
     .secondarybuttonlabel = Nicht jetzt
     .secondarybuttonaccesskey = N
 appmenu-update-restart-message = Nach einem schnellen Neustart des Browsers wird { -brand-shorter-name } alle offenen Tabs und Fenster wiederherstellen, die sich nicht im Privaten Modus befinden.
+appmenu-update-unsupported-message2 = Ihr Betriebssystem ist nicht mit der neuesten Version von { -brand-shorter-name } kompatibel.
 appmenu-update-other-instance =
     .label = { -brand-shorter-name } kann nicht automatisch auf die neueste Version aktualisiert werden.
     .buttonlabel = { -brand-shorter-name } trotzdem aktualisieren
