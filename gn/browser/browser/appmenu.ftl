@@ -35,18 +35,24 @@ appmenuitem-more-tools =
     .label = Tembipuruve
 appmenuitem-exit =
     .label = Ñesẽ
-appmenuitem-exit2 =
-    .label =
-        { PLATFORM() ->
-            [linux] Hejarei
-           *[other] Ñesẽ
-        }
 appmenu-menu-button-closed =
     .tooltiptext = Embojuruja tembipuru’i poravorã
     .label = { -brand-shorter-name }
 appmenu-menu-button-opened =
     .tooltiptext = Emboty tembipuru’i poravorã
     .label = { -brand-shorter-name }
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Hejarei
+           *[other] Ñesẽ
+        }
+appmenu-menu-button-closed2 =
+    .tooltiptext = Embojuruja Tembipuru’i Poravorã
+    .label = { -brand-short-name }
+appmenu-menu-button-opened2 =
+    .tooltiptext = Emboty Tembipuru’i Poravorã
+    .label = { -brand-short-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -65,6 +71,10 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Embojuehe ko’ág̃a
+appmenu-remote-tabs-sign-into-sync =
+    .label = Eike embojuehe hag̃ua…
+appmenu-remote-tabs-turn-on-sync =
+    .label = Emyandy Ñembojuehe…
 appmenuitem-fxa-toolbar-sync-now2 = Embojuehe ko’ág̃a
 appmenuitem-fxa-manage-account = Mba’ete Ñangarekoha
 appmenu-fxa-header =
