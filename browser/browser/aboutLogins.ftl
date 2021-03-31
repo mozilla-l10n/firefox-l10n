@@ -18,6 +18,7 @@ login-filter =
 create-login-button = Crear nueva credencial
 fxaccounts-sign-in-text = Ten tus contraseñas en tus otros dispositivos
 fxaccounts-sign-in-button = Conectarse a { -sync-brand-short-name }
+fxaccounts-sign-in-sync-button = Conectarse para sincronizar
 fxaccounts-avatar-button =
     .title = Administrar cuenta
 
