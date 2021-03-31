@@ -41,3 +41,4 @@ synced-tabs-context-sync-now =
     .accesskey = S
 fxa-sign-in = Logg inn på { -sync-brand-short-name }
 turn-on-sync = Slå på { -sync-brand-short-name }
+synced-tabs-fxa-sign-in = Logg inn for å synkronisere

@@ -8,6 +8,7 @@ fxa-toolbar-sync-syncing-tabs =
     .label = Synkroniserer faner…
 fxa-toolbar-sync-syncing2 = Synkroniserer…
 sync-disconnect-dialog-title = Kople frå { -sync-brand-short-name }?
+sync-disconnect-dialog-title2 = Kople frå?
 sync-disconnect-dialog-body = { -brand-product-name } vil slutte å synkronisere kontoen din, men slettar ikkje nettlesardata på denne eininga.
 fxa-disconnect-dialog-title = Kople frå { -brand-product-name }?
 fxa-disconnect-dialog-body = { -brand-product-name } vil kople frå denne kontoen, men slettar ikkje nettlesardata på denne eininga.
