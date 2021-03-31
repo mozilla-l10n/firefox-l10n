@@ -655,3 +655,6 @@ addon-removal-title = { $name } kendu?
 
 ## Remote / Synced tabs
 
+remote-tabs-manage-account =
+    .label = Kudeatu kontua
+remote-tabs-sync-now = Sinkronizatu orain

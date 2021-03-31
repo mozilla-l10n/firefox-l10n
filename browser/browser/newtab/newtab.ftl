@@ -19,6 +19,14 @@ newtab-search-box-search-button =
     .title = Bilatu
     .aria-label = Bilatu
 newtab-search-box-search-the-web-text = Bilatu webean
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-text = Bilatu { $engine } erabiliz edo idatzi helbidea
+newtab-search-box-handoff-text-no-engine = Bilatu edo idatzi helbidea
+newtab-search-box-handoff-input-no-engine =
+    .placeholder = Bilatu edo idatzi helbidea
+    .title = Bilatu edo idatzi helbidea
+    .aria-label = Bilatu edo idatzi helbidea
 newtab-search-box-search-the-web-input =
     .placeholder = Bilatu webean
     .title = Bilatu webean
