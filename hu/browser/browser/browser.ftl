@@ -264,11 +264,15 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = Könyvjelző hozzáadása
+bookmarks-edit-bookmark = Könyvjelző szerkesztése
 bookmark-panel-show-editor-checkbox =
     .label = Szerkesztő megjelenítése mentéskor
     .accesskey = e
 bookmark-panel-done-button =
     .label = Kész
+bookmark-panel-save-button =
+    .label = Mentés
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.

@@ -35,18 +35,24 @@ appmenuitem-more-tools =
     .label = További eszközök
 appmenuitem-exit =
     .label = Kilépés
-appmenuitem-exit2 =
-    .label =
-        { PLATFORM() ->
-            [linux] Kilépés
-           *[other] Kilépés
-        }
 appmenu-menu-button-closed =
     .tooltiptext = Alkalmazásmenü megnyitása
     .label = { -brand-shorter-name }
 appmenu-menu-button-opened =
     .tooltiptext = Alkalmazásmenü bezárása
     .label = { -brand-shorter-name }
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Kilépés
+           *[other] Kilépés
+        }
+appmenu-menu-button-closed2 =
+    .tooltiptext = Alkalmazásmenü megnyitása
+    .label = { -brand-short-name }
+appmenu-menu-button-opened2 =
+    .tooltiptext = Alkalmazásmenü bezárása
+    .label = { -brand-short-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -65,6 +71,10 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Szinkronizálás
+appmenu-remote-tabs-sign-into-sync =
+    .label = Jelentkezzen be a Syncbe…
+appmenu-remote-tabs-turn-on-sync =
+    .label = Szinkronizálás bekapcsolása…
 appmenuitem-fxa-toolbar-sync-now2 = Szinkronizálás most
 appmenuitem-fxa-manage-account = Fiók kezelése
 appmenu-fxa-header =
