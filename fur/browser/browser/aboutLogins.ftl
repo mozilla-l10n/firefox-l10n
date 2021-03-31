@@ -18,6 +18,7 @@ login-filter =
 create-login-button = Cree gnove credenziâl
 fxaccounts-sign-in-text = Torne a cjatâ lis tôs passwords sui tiei altris dispositîfs
 fxaccounts-sign-in-button = Jentre su { -sync-brand-short-name }
+fxaccounts-sign-in-sync-button = Jentre par sincronizâ
 fxaccounts-avatar-button =
     .title = Gjestìs account
 
@@ -70,11 +71,13 @@ about-logins-list-item-vulnerable-password-icon =
 
 login-intro-heading = Stâstu cirint lis tôs credenziâls di acès salvadis? Configure { -sync-brand-short-name }.
 about-logins-login-intro-heading-logged-out = Stâstu cirint lis tôs credenziâls di acès? Configure { -sync-brand-short-name } o impuartilis.
+about-logins-login-intro-heading-logged-out2 = Stâstu cirint lis tôs credenziâls salvadis? Ative la sincronizazion o impuartilis.
 about-logins-login-intro-heading-logged-in = Nissune credenziâl sincronizade cjatade.
 login-intro-description = Se tu âs salvât lis tôs credenziâls su { -brand-product-name } suntun altri dispositîf, chi al spieghe cemût otignîlis achì:
 login-intro-instruction-fxa = Cree o jentre tal to { -fxaccount-brand-name } sul dispositîf dulà che tu âs salvât lis credenziâls
 login-intro-instruction-fxa-settings = Siguriti di vê selezionât la casele di selezion des credenziâls  intes impostazions di { -sync-brand-short-name }
 about-logins-intro-instruction-help = Par vê jutori, visite <a data-l10n-name="help-link"> il supuart di { -lockwise-brand-short-name }</a>
+login-intro-instructions-fxa = Cree o jentre sul to { -fxaccount-brand-name(capitalization: "sentence") } sul dispositîf dulà che tu âs salvadis lis tôs credenziâls.
 about-logins-intro-import = Se lis tôs credenziâls a son stadis salvadis intun altri navigadôr, tu puedis <a data-l10n-name="import-link">impuartâlis in { -lockwise-brand-short-name }</a>
 about-logins-intro-import2 = Se lis tôs credenziâls a son stadis salvadis fûr di { -brand-product-name }, tu puedis <a data-l10n-name="import-browser-link">impuartâlis di un altri navigadôr</a> opûr <a data-l10n-name="import-file-link">di un file</a>
 
