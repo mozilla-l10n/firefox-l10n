@@ -14,7 +14,7 @@ bookmark-overlay-name-2 =
     .value = 名称
     .accesskey = N
 bookmark-overlay-url =
-    .value = URL
+    .value = 网址 / URL
     .accesskey = U
 # Location refers to the position of the bookmark within the browser's
 # bookmarks, not to its URL or address.
@@ -48,4 +48,5 @@ bookmark-overlay-keyword =
 bookmark-overlay-keyword-2 =
     .value = 关键词
     .accesskey = K
+bookmark-overlay-tags-caption-label = 使用标签从地址栏搜索书签或进行管理
 bookmark-overlay-keyword-caption-label = 使用关键词直接从地址栏打开书签
