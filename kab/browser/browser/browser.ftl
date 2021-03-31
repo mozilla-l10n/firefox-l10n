@@ -264,11 +264,15 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = Rnu tacreḍt n usebter
+bookmarks-edit-bookmark = Ẓreg tacreḍt n usebter
 bookmark-panel-show-editor-checkbox =
     .label = Sken amaẓrag deg usekles
     .accesskey = k
 bookmark-panel-done-button =
     .label = Immed
+bookmark-panel-save-button =
+    .label = Sekles
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -372,6 +376,12 @@ browser-tab-unmute =
         [1] Kkes asgugem n yiccer
         [one] Kkes asgugem n yiccer
        *[other] Kkes asgugem n waccaren { $count }
+    }
+browser-tab-unblock =
+    { $count ->
+        [1] ΓEṚ ICCER
+        [one] ΓEṚ ICCER
+       *[other] ΓEṚ ACCAREN N { $count }
     }
 
 ## Bookmarks toolbar items
