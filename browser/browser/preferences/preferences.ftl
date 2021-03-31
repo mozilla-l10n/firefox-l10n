@@ -58,6 +58,9 @@ category-privacy =
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
+pane-sync-title3 = Eşitleme
+category-sync3 =
+    .tooltiptext = { pane-sync-title3 }
 pane-experimental-title = { -brand-short-name } Deneyleri
 category-experimental =
     .tooltiptext = { -brand-short-name } Deneyleri
@@ -384,6 +387,9 @@ update-application-check-choose =
 update-application-manual =
     .label = Hiçbir zaman denetlenmesin (Önerilmez)
     .accesskey = H
+update-application-background-enabled =
+    .label = { -brand-short-name } kapalıyken
+    .accesskey = k
 update-application-warning-cross-user-setting = Bu ayar, bu { -brand-short-name } kurulumunu kullanan tüm Windows hesaplarına ve { -brand-short-name } profillerine uygulanacaktır.
 update-application-use-service =
     .label = Güncellemeleri yüklemek için arka plan hizmetini kullan
@@ -659,10 +665,13 @@ containers-remove-button =
 
 sync-signedout-caption = Web’inizi yanınızda taşıyın
 sync-signedout-description = Yer imlerinizi, geçmişinizi, sekmelerinizi, eklentilerinizi ve tercihlerinizi tüm cihazlarınız arasında senkronize edin.
-sync-signedout-description2 = Yer imlerinizi, geçmişinizi, sekmelerinizi, parolalarınızı, eklentilerinizi ve ayarlarınızı tüm cihazlarınız arasında senkronize edin.
 sync-signedout-account-signin2 =
     .label = { -sync-brand-short-name }’e giriş yap…
     .accesskey = r
+sync-signedout-description2 = Yer imlerinizi, geçmişinizi, sekmelerinizi, parolalarınızı, eklentilerinizi ve ayarlarınızı tüm cihazlarınız arasında senkronize edin.
+sync-signedout-account-signin3 =
+    .label = Eşitlemek için giriş yap…
+    .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -702,6 +711,9 @@ prefs-sync-setup =
     .label = { -sync-brand-short-name }’i kur…
     .accesskey = S
 prefs-sync-offer-setup-label = Yer imlerinizi, geçmişinizi, sekmelerinizi, eklentilerinizi ve tercihlerinizi tüm cihazlarınız arasında senkronize edin.
+prefs-sync-turn-on-syncing =
+    .label = Eşitlemeyi başlat…
+    .accesskey = E
 prefs-sync-offer-setup-label2 = Yer imlerinizi, geçmişinizi, sekmelerinizi, parolalarınızı, eklentilerinizi ve ayarlarınızı tüm cihazlarınız arasında senkronize edin.
 prefs-sync-now =
     .labelnotsyncing = Şimdi eşitle
@@ -771,6 +783,10 @@ sync-engine-prefs =
         }
     .tooltiptext = Değiştirdiğiniz Genel, Gizlilik ve Güvenlik ayarları
     .accesskey = e
+sync-engine-settings =
+    .label = Ayarlar
+    .tooltiptext = Değiştirdiğiniz genel ayarlar, gizlilik ayarları ve güvenlik ayarları
+    .accesskey = A
 
 ## The device name controls.
 

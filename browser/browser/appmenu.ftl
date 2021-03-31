@@ -35,18 +35,24 @@ appmenuitem-more-tools =
     .label = Daha fazla araç
 appmenuitem-exit =
     .label = Çık
-appmenuitem-exit2 =
-    .label =
-        { PLATFORM() ->
-            [linux] Çık
-           *[other] Çık
-        }
 appmenu-menu-button-closed =
     .tooltiptext = Uygulama menüsünü aç
     .label = { -brand-shorter-name }
 appmenu-menu-button-opened =
     .tooltiptext = Uygulama menüsünü kapat
     .label = { -brand-shorter-name }
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Çık
+           *[other] Çık
+        }
+appmenu-menu-button-closed2 =
+    .tooltiptext = Uygulama menüsünü aç
+    .label = { -brand-short-name }
+appmenu-menu-button-opened2 =
+    .tooltiptext = Uygulama menüsünü kapat
+    .label = { -brand-short-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -65,6 +71,10 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Şimdi eşitle
+appmenu-remote-tabs-sign-into-sync =
+    .label = Eşitlemek için giriş yap…
+appmenu-remote-tabs-turn-on-sync =
+    .label = Eşitlemeyi başlat…
 appmenuitem-fxa-toolbar-sync-now2 = Şimdi eşitle
 appmenuitem-fxa-manage-account = Hesabı yönet
 appmenu-fxa-header =
