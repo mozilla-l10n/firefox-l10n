@@ -18,6 +18,7 @@ login-filter =
 create-login-button = 새 로그인 만들기
 fxaccounts-sign-in-text = 다른 기기에서 비밀번호 받기
 fxaccounts-sign-in-button = { -sync-brand-short-name }에 로그인
+fxaccounts-sign-in-sync-button = Sync에 로그인
 fxaccounts-avatar-button =
     .title = 계정 관리
 
@@ -69,11 +70,13 @@ about-logins-list-item-vulnerable-password-icon =
 
 login-intro-heading = 저장된 로그인을 찾으십니까? { -sync-brand-short-name }를 설정하세요.
 about-logins-login-intro-heading-logged-out = 저장된 로그인을 찾으세요? { -sync-brand-short-name }를 설정하거나 가져오세요.
+about-logins-login-intro-heading-logged-out2 = 저장된 로그인을 찾으십니까? Sync를 켜거나 가져오세요.
 about-logins-login-intro-heading-logged-in = 동기화된 로그인을 찾을 수 없습니다.
 login-intro-description = 다른 기기에 { -brand-product-name }의 로그인을 저장한 경우, 다음 방법을 참조하세요:
 login-intro-instruction-fxa = 로그인이 저장된 기기에서 { -fxaccount-brand-name }을 만들거나 로그인하세요
 login-intro-instruction-fxa-settings = { -sync-brand-short-name } 설정에서 로그인 확인란을 선택했는지 확인하세요
 about-logins-intro-instruction-help = 더 많은 도움이 필요하면 <a data-l10n-name="help-link">{ -lockwise-brand-short-name } 지원</a>을 방문하세요
+login-intro-instructions-fxa-settings = 설정> Sync> 동기화 켜기…로 이동해서, 로그인 및 비밀번호 확인란을 선택하세요.
 about-logins-intro-import = 로그인이 다른 브라우저에 저장된 경우, <a data-l10n-name="import-link">{ -lockwise-brand-short-name }로 가져올 수 있습니다</a>
 about-logins-intro-import2 = 로그인이 { -brand-product-name }의 외부에 저장된 경우, <a data-l10n-name="import-browser-link">다른 브라우저</a> 또는 <a data-l10n-name="import-file-link">파일</a>에서 가져올 수 있습니다
 

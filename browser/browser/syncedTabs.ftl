@@ -41,3 +41,4 @@ synced-tabs-context-sync-now =
     .accesskey = S
 fxa-sign-in = { -sync-brand-short-name }에 로그인
 turn-on-sync = { -sync-brand-short-name } 켜기
+synced-tabs-turn-on-sync = Sync 켜기
