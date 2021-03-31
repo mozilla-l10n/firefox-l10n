@@ -7,6 +7,12 @@
 
 appmenuitem-update-banner =
     .label-update-downloading = กำลังดาวน์โหลดการอัปเดต { -brand-shorter-name }
+appmenuitem-update-banner2 =
+    .label-update-downloading = กำลังดาวน์โหลดการอัปเดต { -brand-shorter-name }
+    .label-update-available = มีการอัปเดต — ดาวน์โหลดเลย
+    .label-update-manual = มีการอัปเดต — ดาวน์โหลดเลย
+    .label-update-unsupported = ไม่สามารถอัปเดตได้
+    .label-update-restart = มีการอัปเดต — เริ่มการทำงานใหม่เลย
 appmenuitem-protection-dashboard-title = แดชบอร์ดการป้องกัน
 appmenuitem-customize-mode =
     .label = ปรับแต่ง…
@@ -21,12 +27,20 @@ appmenuitem-passwords =
     .label = รหัสผ่าน
 appmenuitem-extensions-and-themes =
     .label = ส่วนขยายและชุดตกแต่ง
+appmenuitem-addons-and-themes =
+    .label = ส่วนเสริมและชุดตกแต่ง
 appmenuitem-find-in-page =
     .label = ค้นหาในหน้า…
 appmenuitem-more-tools =
     .label = เครื่องมือเพิ่มเติม
 appmenuitem-exit =
     .label = ออก
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] ออก
+           *[other] ออก
+        }
 appmenu-menu-button-closed =
     .tooltiptext = เปิดเมนูแอปพลิเคชัน
     .label = { -brand-shorter-name }

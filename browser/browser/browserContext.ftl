@@ -102,6 +102,18 @@ main-context-menu-bookmark-add =
     .aria-label = เพิ่มที่คั่นหน้าสำหรับหน้านี้
     .accesskey = พ
     .tooltiptext = เพิ่มที่คั่นหน้าสำหรับหน้านี้
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-add-mac =
+    .label = เพิ่มที่คั่นหน้าสำหรับหน้า
+    .accesskey = ท
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-edit-mac =
+    .label = แก้ไขที่คั่นหน้า
+    .accesskey = ท
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-add-with-shortcut =

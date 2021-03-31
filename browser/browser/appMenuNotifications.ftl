@@ -46,6 +46,7 @@ appmenu-addon-post-install-message = จัดการส่วนเสริ�
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = ตกลง
     .buttonaccesskey = O
+appmenu-addon-post-install-message2 = จัดการส่วนขยายและชุดตกแต่งของคุณได้ผ่านเมนูแอปพลิเคชัน
 appmenu-addon-post-install-incognito-checkbox =
     .label = อนุญาตให้ส่วนขยายนี้ทำงานในหน้าต่างส่วนตัว
     .accesskey = อ

@@ -19,6 +19,20 @@ newtab-search-box-search-button =
     .title = ค้นหา
     .aria-label = ค้นหา
 newtab-search-box-search-the-web-text = ค้นหาเว็บ
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-text = ค้นหาด้วย { $engine } หรือป้อนที่อยู่
+newtab-search-box-handoff-text-no-engine = ค้นหาหรือป้อนที่อยู่
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-input =
+    .placeholder = ค้นหาด้วย { $engine } หรือป้อนที่อยู่
+    .title = ค้นหาด้วย { $engine } หรือป้อนที่อยู่
+    .aria-label = ค้นหาด้วย { $engine } หรือป้อนที่อยู่
+newtab-search-box-handoff-input-no-engine =
+    .placeholder = ค้นหาหรือป้อนที่อยู่
+    .title = ค้นหาหรือป้อนที่อยู่
+    .aria-label = ค้นหาหรือป้อนที่อยู่
 newtab-search-box-search-the-web-input =
     .placeholder = ค้นหาเว็บ
     .title = ค้นหาเว็บ
