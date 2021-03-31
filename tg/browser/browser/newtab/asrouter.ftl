@@ -166,6 +166,7 @@ cfr-doorhanger-milestone-ok-button = Ҳамаро дидан
 
 ## Lockwise message
 
+cfr-whatsnew-lockwise-header = Ниҳонвожаҳои бехатарро ба осонӣ эҷод намоед
 cfr-whatsnew-lockwise-icon-alt = Нишони { -lockwise-brand-short-name }
 
 ## Vulnerable Passwords message
