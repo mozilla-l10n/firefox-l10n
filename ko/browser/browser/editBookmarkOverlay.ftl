@@ -48,3 +48,5 @@ bookmark-overlay-keyword =
 bookmark-overlay-keyword-2 =
     .value = 키워드
     .accesskey = K
+bookmark-overlay-tags-caption-label = 태그를 사용하여 주소 표시줄에서 북마크를 구성하고 검색하세요
+bookmark-overlay-keyword-caption-label = 키워드를 사용하여 주소 표시줄에서 직접 북마크를 여세요
