@@ -79,6 +79,7 @@ login-intro-instruction-fxa-settings = Se till att du har markerat kryssrutan f�
 about-logins-intro-instruction-help = Besök <a data-l10n-name="help-link">{ -lockwise-brand-short-name } support</a> för mer hjälp
 login-intro-instructions-fxa = Skapa eller logga in på ditt { -fxaccount-brand-name } på enheten där dina inloggningar sparas.
 login-intro-instructions-fxa-settings = Gå till Inställningar > Synkronisering > Aktivera synkronisering… Markera kryssrutan Inloggningar och lösenord.
+login-intro-instructions-fxa-help = Besök <a data-l10n-name="help-link">{ -lockwise-brand-short-name } support</a> för mer hjälp.
 about-logins-intro-import = Om dina inloggningar finns sparade i en annan webbläsare kan du <a data-l10n-name="import-link">importera dem till { -lockwise-brand-short-name }</a>
 about-logins-intro-import2 = Om dina inloggningar sparas utanför { -brand-product-name } kan du  <a data-l10n-name="import-browser-link">importera dem från en annan webbläsare</a> eller <a data-l10n-name="import-file-link">från en fil</a>
 
