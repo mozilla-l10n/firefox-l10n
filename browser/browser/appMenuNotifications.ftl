@@ -59,6 +59,7 @@ appmenu-update-restart2 =
     .buttonaccesskey = U
     .secondarybuttonlabel = 忽略
     .secondarybuttonaccesskey = m
+appmenu-update-restart-message2 = 升级至最新版 { -brand-shorter-name } 。打开的标签页和窗口将在下次启动时恢复。
 appmenu-update-other-instance =
     .label = { -brand-shorter-name } 无法自动更新至最新版本。
     .buttonlabel = 仍要更新 { -brand-shorter-name }
