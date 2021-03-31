@@ -35,18 +35,24 @@ appmenuitem-more-tools =
     .label = Абзорҳои бештар
 appmenuitem-exit =
     .label = Баромад
-appmenuitem-exit2 =
-    .label =
-        { PLATFORM() ->
-            [linux] Хориҷ шудан
-           *[other] Баромад
-        }
 appmenu-menu-button-closed =
     .tooltiptext = Кушодани менюи барномаҳо
     .label = { -brand-shorter-name }
 appmenu-menu-button-opened =
     .tooltiptext = Пӯшидани менюи барномаҳо
     .label = { -brand-shorter-name }
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Хориҷ шудан
+           *[other] Баромад
+        }
+appmenu-menu-button-closed2 =
+    .tooltiptext = Кушодани менюи барномаҳо
+    .label = { -brand-short-name }
+appmenu-menu-button-opened2 =
+    .tooltiptext = Пӯшидани менюи барномаҳо
+    .label = { -brand-short-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -65,6 +71,10 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Ҳозир ҳамоҳанг кунед
+appmenu-remote-tabs-sign-into-sync =
+    .label = Барои ҳамоҳангсозӣ ворид шавед…
+appmenu-remote-tabs-turn-on-sync =
+    .label = Фаъол кардани ҳамоҳангсозӣ…
 appmenuitem-fxa-toolbar-sync-now2 = Ҳозир ҳамоҳанг кунед
 appmenuitem-fxa-manage-account = Идоракунии ҳисоб
 appmenu-fxa-header =

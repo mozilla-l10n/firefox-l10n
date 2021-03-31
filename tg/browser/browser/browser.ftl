@@ -245,11 +245,15 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = Илова кардани хатбарак
+bookmarks-edit-bookmark = Таҳрир кардани хатбарак
 bookmark-panel-show-editor-checkbox =
     .label = Нишон додани муҳаррир ҳангоми нигоҳдорӣ
     .accesskey = Н
 bookmark-panel-done-button =
     .label = Тайёр
+bookmark-panel-save-button =
+    .label = Нигоҳ доштан
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
