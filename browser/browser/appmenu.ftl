@@ -41,6 +41,18 @@ appmenu-menu-button-closed =
 appmenu-menu-button-opened =
     .tooltiptext = أغلِق قائمة التطبيق
     .label = { -brand-shorter-name }
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] غادِر
+           *[other] اخرج
+        }
+appmenu-menu-button-closed2 =
+    .tooltiptext = افتح قائمة التطبيق
+    .label = { -brand-short-name }
+appmenu-menu-button-opened2 =
+    .tooltiptext = أغلِق قائمة التطبيق
+    .label = { -brand-short-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =

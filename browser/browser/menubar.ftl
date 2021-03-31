@@ -11,6 +11,8 @@
 
 ## Application Menu (macOS only)
 
+menu-application-preferences =
+    .label = التفضيلات
 menu-application-services =
     .label = الخدمات
 menu-application-hide-this =
@@ -261,6 +263,9 @@ menu-tools-fxa-sign-in2 =
 menu-tools-turn-on-sync =
     .label = فعّل { -sync-brand-short-name }…
     .accesskey = ف
+menu-tools-turn-on-sync2 =
+    .label = فعّل المزامنة…
+    .accesskey = ن
 menu-tools-sync-now =
     .label = زامِن الآن
     .accesskey = ز

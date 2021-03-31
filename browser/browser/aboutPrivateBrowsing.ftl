@@ -9,6 +9,16 @@ about-private-browsing-info-title = أنت في نافذة خاصة
 about-private-browsing-info-myths = الخرافات الشائعة بخصوص التصفح الخاص
 about-private-browsing =
     .title = ابحث في الوِب
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff =
+    .title = ‫ابحث مستعملًا { $engine } أو أدخِل عنوانا
+about-private-browsing-handoff-no-engine =
+    .title = ابحث أو أدخِل عنوانا
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff-text = ‫ابحث مستعملًا { $engine } أو أدخِل عنوانا
+about-private-browsing-handoff-text-no-engine = ابحث أو أدخِل عنوانا
 about-private-browsing-not-private = لستَ حاليا في نافذة خاصة.
 about-private-browsing-info-description = يمسح { -brand-short-name } تأريخ البحث والتصفح لديك عندما تُنهي التطبيق أو تُغلق كل الألسنة والنوافذ بوضع التصفح الخاص. على الرغم من أن هذا لا يجعلك مجهول الهوية إلى المواقع أو مقدّم خدمة الإنترنت لديك، إلا أنه يسهّل عليك إخفاء ما تفعله في الشبكة على أي شخص آخر يستخدم هذا الحاسوب.
 about-private-browsing-need-more-privacy = هل ترغب برفع مستوى الخصوصية؟
