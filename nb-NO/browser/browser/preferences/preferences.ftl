@@ -58,6 +58,8 @@ category-privacy =
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
+category-sync3 =
+    .tooltiptext = { pane-sync-title3 }
 pane-experimental-title = { -brand-short-name }-eksperiment
 category-experimental =
     .tooltiptext = { -brand-short-name }-eksperiment
@@ -662,10 +664,10 @@ containers-remove-button =
 
 sync-signedout-caption = Ta med deg webben
 sync-signedout-description = Synkroniser bokmerker, historikk, faner, passord, utvidelser og innstillinger på tvers av alle enhetene dine.
-sync-signedout-description2 = Synkroniser bokmerker, historikk, faner, passord, utvidelser og innstillinger på tvers av alle enhetene dine.
 sync-signedout-account-signin2 =
     .label = Logg inn på { -sync-brand-short-name }…
     .accesskey = i
+sync-signedout-description2 = Synkroniser bokmerker, historikk, faner, passord, utvidelser og innstillinger på tvers av alle enhetene dine.
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
