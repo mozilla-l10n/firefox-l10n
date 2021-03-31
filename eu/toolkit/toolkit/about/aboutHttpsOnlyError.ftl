@@ -21,3 +21,11 @@ about-httpsonly-explanation-continue = Jarraituz gero, HTTPS-Only modua behin-be
 about-httpsonly-button-continue-to-site = Jarraitu HTTP gunera
 about-httpsonly-button-go-back = Joan atzera
 about-httpsonly-link-learn-more = Argibide gehiago…
+
+## Suggestion Box that only shows up if a secure connection to www can be established
+## Variables:
+##   $websiteUrl (String) - Url of the website that can be securely loded with these alternatives. Example: example.com
+
+about-httpsonly-suggestion-box-header = Ordezko posiblea
+about-httpsonly-suggestion-box-www-text = <em>www.{ $websiteUrl }</em> gunearen bertsio seguru bat erabilgarri dago. Orri hau bisita dezakezu <em>{ $websiteUrl }</em> orriaren ordez.
+about-httpsonly-suggestion-box-www-button = Joan www.{ $websiteUrl } helbidera
