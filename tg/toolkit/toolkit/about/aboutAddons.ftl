@@ -24,9 +24,24 @@ sidebar-preferences-button-title =
 addons-settings-button = Танзимоти { -brand-short-name }
 sidebar-settings-button-title =
     .title = Танзимоти { -brand-short-name }
+show-all-extensions-button =
+    .label = Намоиш додани ҳамаи васеъшавиҳо
 cmd-show-details =
     .label = Намоиш додани маълумоти бештар
     .accesskey = Н
+cmd-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Имконот
+           *[other] Хусусиятҳо
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] И
+           *[other] Х
+        }
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = Иҷро кардан дар равзанаҳои махфӣ
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = Дар равзанаҳои махфӣ иҷозат дода намешавад

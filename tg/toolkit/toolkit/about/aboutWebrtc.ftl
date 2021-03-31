@@ -47,6 +47,7 @@ about-webrtc-stats-clear = Пок кардани таърих
 
 ##
 
+about-webrtc-show-tab-label = Намоиш додани варақа
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
