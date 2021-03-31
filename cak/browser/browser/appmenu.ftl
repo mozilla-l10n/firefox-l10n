@@ -35,18 +35,21 @@ appmenuitem-more-tools =
     .label = Ch'aqa' Samajib'äl
 appmenuitem-exit =
     .label = Tel
-appmenuitem-exit2 =
-    .label =
-        { PLATFORM() ->
-            [linux] Tel
-           *[other] Tel
-        }
 appmenu-menu-button-closed =
     .tooltiptext = Tijaq Ruk'utsamaj Chokoy
     .label = { -brand-shorter-name }
 appmenu-menu-button-opened =
     .tooltiptext = Titz'apïx Ruk'utsamaj Chokoy
     .label = { -brand-shorter-name }
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Tel
+           *[other] Tel
+        }
+appmenu-menu-button-closed2 =
+    .tooltiptext = Tijaq Ruk'utsamaj Chokoy
+    .label = { -brand-short-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
