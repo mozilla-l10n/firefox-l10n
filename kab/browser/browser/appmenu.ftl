@@ -35,18 +35,24 @@ appmenuitem-more-tools =
     .label = Ugar n yifecka
 appmenuitem-exit =
     .label = Ffeɣ
-appmenuitem-exit2 =
-    .label =
-        { PLATFORM() ->
-            [linux] Eǧǧ
-           *[other] Ffeɣ
-        }
 appmenu-menu-button-closed =
     .tooltiptext = Ldi umuɣ n usnas
     .label = { -brand-shorter-name }
 appmenu-menu-button-opened =
     .tooltiptext = Mdel umuɣ n usnas
     .label = { -brand-shorter-name }
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Eǧǧ
+           *[other] Ffeɣ
+        }
+appmenu-menu-button-closed2 =
+    .tooltiptext = Ldi umuɣ n usnas
+    .label = { -brand-short-name }
+appmenu-menu-button-opened2 =
+    .tooltiptext = Mdel umuɣ n usnas
+    .label = { -brand-short-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -65,6 +71,10 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Mtawi tura
+appmenu-remote-tabs-sign-into-sync =
+    .label = Qqen ɣer Sync…
+appmenu-remote-tabs-turn-on-sync =
+    .label = Rmed amtawi…
 appmenuitem-fxa-toolbar-sync-now2 = Mtawi tura
 appmenuitem-fxa-manage-account = Sefrek amiḍan
 appmenu-fxa-header =

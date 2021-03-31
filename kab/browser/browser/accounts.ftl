@@ -8,3 +8,6 @@ account-finish-account-setup = Fak asebded n umiḍan
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-reconnect-to-fxa = Amiḍan yeffeɣ seg tuqnna
+# Used as the FxA toolbar menu item title when the user
+# needs to reconnect their account.
+account-disconnected = Tegzem tuqqna-inek·inem

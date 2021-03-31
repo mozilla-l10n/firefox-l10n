@@ -71,11 +71,14 @@ about-logins-list-item-vulnerable-password-icon =
 
 login-intro-heading = Tettnadiḍ inekcam-ik yettwaskelsen? Swel { -sync-brand-short-name }.
 about-logins-login-intro-heading-logged-out = Tettnadiḍ inekcam-ik/im yettwaskelsen? Swel { -sync-brand-short-name } neɣ kter-iten-id.
+about-logins-login-intro-heading-logged-out2 = Tettnadiḍ ɣef yinekcam-ik·im yettwaskelsen? Rmed amtawi neɣ kter-iten-id.
 about-logins-login-intro-heading-logged-in = Ulac inekcam yemtawin i yettwafen.
 login-intro-description = Ma teskelseḍ inekcam-ik deg { -brand-product-name } ɣef ddeqs n yibenkan, a-t-an amek ara tkecmeḍ ɣur-sen.
 login-intro-instruction-fxa = Rnu neɣ qqen ɣer { -fxaccount-brand-name } inek ɣef yibenk anida ttwaskelsen yinekcam-ik.
 login-intro-instruction-fxa-settings = Ḍmed d akken trecmeḍ inekcam-ik deg yiɣewwaṛen n { -sync-brand-short-name }.
 about-logins-intro-instruction-help = Rzu ɣer <a data-l10n-name="help-link"> tallelt n { -lockwise-brand-short-name }</a> i wugar n yisallen.
+login-intro-instructions-fxa-settings = Ddu ɣer yiɣewwaren > Rmed amtawi… Ṛcem tibewwaḍin n yinekcam akked wawalen uffiren
+login-intro-instructions-fxa-help = Rzu ɣer <a data-l10n-name="help-link">{ -lockwise-brand-short-name } tallalt</a> i wugar n yisallen.
 about-logins-intro-import = Ma yella tuqqna-inek tettwasekles deg yiminig-nniḍen, tzemreḍ <a data-l10n-name="import-link"> ad ten-id-ktereḍ seg { -lockwise-brand-short-name }
 about-logins-intro-import2 = Ma yella inekcam-ik/im ttwaskelsen beṛṛa n { -brand-product-name }, tzemreḍ <a data-l10n-name="import-browser-link"> ad ten-id-tketreḍ seg yiminig-nniḍen</a> neɣ <a data-l10n-name="import-file-link">seg ufaylu</a>
 
