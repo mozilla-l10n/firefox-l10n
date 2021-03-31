@@ -45,6 +45,7 @@ appmenu-update-manual2 =
     .buttonaccesskey = D
     .secondarybuttonlabel = 忽略
     .secondarybuttonaccesskey = m
+appmenu-update-manual-message2 = { -brand-shorter-name } 无法自动更新。请下载最新安装程序覆盖安装 — 您不会丢失任何已保存的信息或定制项。
 appmenu-update-unsupported2 =
     .label = 无法更新
     .buttonlabel = 详细了解
