@@ -35,18 +35,18 @@ appmenuitem-more-tools =
     .label = 더 많은 도구
 appmenuitem-exit =
     .label = 종료
-appmenuitem-exit2 =
-    .label =
-        { PLATFORM() ->
-            [linux] 종료
-           *[other] 종료
-        }
 appmenu-menu-button-closed =
     .tooltiptext = 애플리케이션 메뉴 열기
     .label = { -brand-shorter-name }
 appmenu-menu-button-opened =
     .tooltiptext = 애플리케이션 메뉴 닫기
     .label = { -brand-shorter-name }
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] 종료
+           *[other] 종료
+        }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -65,6 +65,10 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = 지금 동기화
+appmenu-remote-tabs-sign-into-sync =
+    .label = Sync에 로그인…
+appmenu-remote-tabs-turn-on-sync =
+    .label = Sync 켜기…
 appmenuitem-fxa-toolbar-sync-now2 = 지금 동기화
 appmenuitem-fxa-manage-account = 계정 관리
 appmenu-fxa-header =

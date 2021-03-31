@@ -23,3 +23,6 @@ fxa-signout-dialog =
     .buttonlabelaccept = 로그아웃
 fxa-signout-dialog2-button = 로그아웃
 fxa-signout-dialog2-checkbox = 이 기기에서 데이터 삭제 (비밀번호, 기록, 북마크 등)
+fxa-menu-turn-on-sync =
+    .value = Sync 켜기
+fxa-menu-turn-on-sync-default = Sync 켜기
