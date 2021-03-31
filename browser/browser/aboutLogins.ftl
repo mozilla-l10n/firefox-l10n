@@ -18,6 +18,7 @@ login-filter =
 create-login-button = Створити новий запис
 fxaccounts-sign-in-text = Отримайте доступ до своїх паролів на інших пристроях
 fxaccounts-sign-in-button = Увійдіть в { -sync-brand-short-name(case: "acc") }
+fxaccounts-sign-in-sync-button = Увійти до синхронізації
 fxaccounts-avatar-button =
     .title = Керувати обліковим записом
 
@@ -71,11 +72,15 @@ about-logins-list-item-vulnerable-password-icon =
 
 login-intro-heading = Шукаєте свої збережені паролі? Налаштуйте { -sync-brand-short-name(case: "acc") }.
 about-logins-login-intro-heading-logged-out = Шукаєте свої збережені паролі? Налаштуйте { -sync-brand-short-name } для їхнього імпорту.
+about-logins-login-intro-heading-logged-out2 = Шукаєте збережені паролі? Увімкніть синхронізацію або імпортуйте їх.
 about-logins-login-intro-heading-logged-in = Не знайдено синхронізованих паролів.
 login-intro-description = Якщо ви зберегли паролі в { -brand-product-name } на іншому пристрої, ось як отримати їх тут:
 login-intro-instruction-fxa = Зареєструйтеся чи увійдіть до свого { -fxaccount-brand-name(case: "gen") } на пристрої, де збережено ваші паролі
 login-intro-instruction-fxa-settings = Переконайтеся, що встановлено прапорець на Паролі в Налаштуваннях { -sync-brand-short-name(case: "dat") }
 about-logins-intro-instruction-help = Відвідайте <a data-l10n-name="help-link">Підтримку { -lockwise-brand-short-name }</a> для отримання допомоги
+login-intro-instructions-fxa = Зареєструйтеся чи увійдіть до свого { -fxaccount-brand-name(capitalization: "sentence") } на пристрої, де збережено ваші паролі
+login-intro-instructions-fxa-settings = Перейдіть до Налаштування > Синхронізація > Увімкнути синхронізацію… Позначте паролі.
+login-intro-instructions-fxa-help = Відвідайте <a data-l10n-name="help-link">Підтримку { -lockwise-brand-short-name }</a> для отримання допомоги.
 about-logins-intro-import = Якщо ваші паролі збережено в іншому браузері, ви можете <a data-l10n-name="import-link">імпортувати їх в { -lockwise-brand-short-name }</a>
 about-logins-intro-import2 = Якщо ваші паролі зберігаються не в { -brand-product-name }, ви можете <a data-l10n-name="import-browser-link">імпортувати їх з іншого браузера</a> або <a data-l10n-name="import-file-link">з файлу</a>
 

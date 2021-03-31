@@ -35,18 +35,24 @@ appmenuitem-more-tools =
     .label = Інші інструменти
 appmenuitem-exit =
     .label = Вийти
-appmenuitem-exit2 =
-    .label =
-        { PLATFORM() ->
-            [linux] Вийти
-           *[other] Вийти
-        }
 appmenu-menu-button-closed =
     .tooltiptext = Відкрити меню програми
     .label = { -brand-shorter-name }
 appmenu-menu-button-opened =
     .tooltiptext = Закрити меню програми
     .label = { -brand-shorter-name }
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Вийти
+           *[other] Вийти
+        }
+appmenu-menu-button-closed2 =
+    .tooltiptext = Відкрити меню програми
+    .label = { -brand-short-name }
+appmenu-menu-button-opened2 =
+    .tooltiptext = Закрити меню програми
+    .label = { -brand-short-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -65,6 +71,10 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Синхронізувати зараз
+appmenu-remote-tabs-sign-into-sync =
+    .label = Увійти до Синхронізації…
+appmenu-remote-tabs-turn-on-sync =
+    .label = Увімкнути синхронізацію…
 appmenuitem-fxa-toolbar-sync-now2 = Синхронізувати
 appmenuitem-fxa-manage-account = Керувати обліковим записом
 appmenu-fxa-header =
