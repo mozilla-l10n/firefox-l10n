@@ -18,6 +18,7 @@ login-filter =
 create-login-button = יצירת כניסה חדשה
 fxaccounts-sign-in-text = קבלת הססמאות שלך במכשירים האחרים שלך
 fxaccounts-sign-in-button = כניסה ל־{ -sync-brand-short-name }
+fxaccounts-sign-in-sync-button = כניסה לסנכרון
 fxaccounts-avatar-button =
     .title = ניהול חשבון
 
@@ -69,9 +70,12 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 about-logins-login-intro-heading-logged-out = תהית איפה הכניסות ששמרת? באפשרותך להגדיר את { -sync-brand-short-name } או לייבא אותם.
+about-logins-login-intro-heading-logged-out2 = תהית איפה הכניסות השמורות שלך? ניתן לסנכרן או לייבא אותם.
 about-logins-login-intro-heading-logged-in = לא נמצאו כניסות מסונכרנות.
 login-intro-description = אם שמרת את הכניסות שלך ל־{ -brand-product-name } במכשיר אחר, כך ניתן לקבל אותן כאן:
 about-logins-intro-instruction-help = ניתן לבקר <a data-l10n-name="help-link">בתמיכה של { -lockwise-brand-short-name }</a> לעזרה נוספת
+login-intro-instructions-fxa = יש ליצור חשבון או להתחבר ל{ -fxaccount-brand-name(case: "the") } שלך במכשיר שבו שמורות הכניסות שלך.
+login-intro-instructions-fxa-help = ניתן לבקר <a data-l10n-name="help-link">בתמיכה של { -lockwise-brand-short-name }</a> לעזרה נוספת.
 about-logins-intro-import = אם הכניסות שלך שמורות בדפדפן אחר, באפשרותך <a data-l10n-name="import-link">לייבא אותם אל תוך { -lockwise-brand-short-name }</a>
 about-logins-intro-import2 = אם הכניסות שלך שמורות מחוץ ל־{ -brand-product-name }, באפשרותך <a data-l10n-name="import-browser-link">לייבא אותם מדפדפן אחר</a> או <a data-l10n-name="import-file-link">מקובץ</a>
 
