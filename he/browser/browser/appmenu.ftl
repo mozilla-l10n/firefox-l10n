@@ -35,18 +35,24 @@ appmenuitem-more-tools =
     .label = כלים נוספים
 appmenuitem-exit =
     .label = יציאה
-appmenuitem-exit2 =
-    .label =
-        { PLATFORM() ->
-            [linux] יציאה
-           *[other] יציאה
-        }
 appmenu-menu-button-closed =
     .tooltiptext = פתיחת תפריט היישום
     .label = { -brand-shorter-name }
 appmenu-menu-button-opened =
     .tooltiptext = סגירת תפריט היישום
     .label = { -brand-shorter-name }
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] יציאה
+           *[other] יציאה
+        }
+appmenu-menu-button-closed2 =
+    .tooltiptext = פתיחת תפריט היישום
+    .label = { -brand-short-name }
+appmenu-menu-button-opened2 =
+    .tooltiptext = סגירת תפריט היישום
+    .label = { -brand-short-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
