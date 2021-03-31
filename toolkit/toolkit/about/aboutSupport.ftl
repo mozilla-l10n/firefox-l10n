@@ -130,10 +130,14 @@ sandbox-sys-call-number = Sistema-deia
 sandbox-sys-call-args = Argumentuak
 safe-mode-title = Probatu modu segurua
 restart-in-safe-mode-label = Berrabiarazi gehigarriak desgaituta…
+troubleshoot-mode-title = Diagnostikatu arazoak
+restart-in-troubleshoot-mode-label = Arazoak konpontzeko modua…
 clear-startup-cache-title = Saiatu abioko cachea garbitzen
 clear-startup-cache-label = Garbitu abioko cachea…
 startup-cache-dialog-title = Garbitu abioko cachea
 startup-cache-dialog-body = Berrabiarazi { -brand-short-name } abioko cachea garbitzeko. Honek ez du zure ezarpenik aldatuko edo { -brand-short-name }(e)n gehitu duzun gehigarririk kenduko.
+startup-cache-dialog-title2 = Barrabiarazi { -brand-short-name } abioko cachea garbitzeko?
+startup-cache-dialog-body2 = Honek ez du zure ezarpen edo hedapenik aldatuko.
 restart-button-label = Berrabiarazi
 
 ## Media titles
@@ -403,3 +407,13 @@ support-printing-clear-settings-button = Garbitu gordetako inprimatze-ezarpenak
 support-printing-modified-settings = Aldatutako inprimatze-ezarpenak
 support-printing-prefs-name = Izena
 support-printing-prefs-value = Balioa
+
+## Normandy sections
+
+support-remote-experiments-title = Urruneko esperimentuak
+support-remote-experiments-name = Izena
+support-remote-experiments-branch = Esperimentuaren adarra
+support-remote-experiments-see-about-studies = Argibide gehiagorako, ikusi <a data-l10n-name="support-about-studies-link">about:studies</a>. Esperimentu jakinak desgaitzeko edo etorkizunean { -brand-short-name }(e)n esperimenturik ez egiteko informazioa aurkituko duzu.
+support-remote-features-title = Urruneko eginbideak
+support-remote-features-name = Izena
+support-remote-features-status = Egoera

@@ -34,6 +34,9 @@ sidebar-preferences-button-title =
             [windows] { -brand-short-name } aukerak
            *[other] { -brand-short-name } hobespenak
         }
+addons-settings-button = { -brand-short-name } ezarpenak
+sidebar-settings-button-title =
+    .title = { -brand-short-name } ezarpenak
 show-unsigned-extensions-button =
     .label = Zenbait gehigarri ezin izan dira egiaztatu
 show-all-extensions-button =
@@ -370,9 +373,6 @@ addon-detail-private-browsing-disallow = Ez baimendu
 addon-badge-recommended2 =
     .title = Segurtasun eta errendimendurako gure estandarrak betetzen dituzten hedapenak gomendatzen ditu { -brand-product-name }(e)k
     .aria-label = { addon-badge-recommended2.title }
-addon-badge-line2 =
-    .title = { -brand-product-name }(r)en egileek sortutako gehigarri ofiziala da hau.
-    .aria-label = { addon-badge-line2.title }
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =

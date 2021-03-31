@@ -38,7 +38,11 @@ printui-scale-fit-to-page-width = Doitu orriaren zabalerara
 printui-scale-pcent = Eskala
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Bi aldeko inprimatzea
-printui-duplex-checkbox = Inprimatu bi aldeetan
+printui-two-sided-printing-off = Desaktibatuta
+# Flip the sheet as if it were bound along its long edge.
+printui-two-sided-printing-long-edge = Irauli ertz luzean
+# Flip the sheet as if it were bound along its short edge.
+printui-two-sided-printing-short-edge = Irauli ertz laburrean
 # Section title for miscellaneous print options
 printui-options = Aukerak
 printui-headers-footers-checkbox = Inprimatu goiburu eta oinak
@@ -52,14 +56,19 @@ printui-margins-default = Lehenetsia
 printui-margins-min = Gutxienekoa
 printui-margins-none = Bat ere ez
 printui-margins-custom-inches = Pertsonalizatua (hazbeteak)
+printui-margins-custom-mm = Pertsonalizatua (mm)
 printui-margins-custom-top = Goia
 printui-margins-custom-top-inches = Goia (hazbeteak)
+printui-margins-custom-top-mm = Goia (mm)
 printui-margins-custom-bottom = Behea
 printui-margins-custom-bottom-inches = Behea (hazbeteak)
+printui-margins-custom-bottom-mm = Behea (mm)
 printui-margins-custom-left = Ezkerra
 printui-margins-custom-left-inches = Ezkerra (hazbeteak)
+printui-margins-custom-left-mm = Ezkerra (mm)
 printui-margins-custom-right = Eskuina
 printui-margins-custom-right-inches = Eskuina (hazbeteak)
+printui-margins-custom-right-mm = Eskuina (mm)
 printui-system-dialog-link = Inprimatu sistemaren elkarrizketa-koadroa erabiliz…
 printui-primary-button = Inprimatu
 printui-primary-button-save = Gorde
@@ -96,6 +105,7 @@ printui-paper-tabloid = Tabloidea
 
 printui-error-invalid-scale = Eskala 10 eta 200 arteko zenbakia izan behar da.
 printui-error-invalid-margin = Sartu baliozko marjina hautatutako paper-tamainarako.
+printui-error-invalid-copies = Kopiak 1 eta 10000 arteko zenbakia izan behar du.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Barrutiak 1 eta { $numPages } arteko zenbakia izan behar du.
