@@ -41,6 +41,8 @@ about-processes-web-process-name = الوِب (العملية { $pid }، مشت�
 ##    $unit (String) The unit in which to display $total. See the definitions
 ##                   of `duration-unit-*`.
 
+# Special case: process or thread is currently idle.
+about-processes-cpu-user-and-kernel-idle = خامل ({ NUMBER($total, maximumFractionDigits: 2) }{ $unit })
 
 ## Displaying Memory (total and delta)
 ## Variables:
