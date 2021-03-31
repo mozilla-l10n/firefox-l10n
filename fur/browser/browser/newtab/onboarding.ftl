@@ -45,8 +45,8 @@ onboarding-join-form-signin-label = Âstu za un account?
 onboarding-join-form-signin = Jentre
 onboarding-start-browsing-button-label = Scomence a navigâ
 onboarding-cards-dismiss =
-    .title = Bandone
-    .aria-label = Bandone
+    .title = Scarte
+    .aria-label = Scarte
 
 ## Welcome full page string
 
