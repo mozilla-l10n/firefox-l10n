@@ -264,11 +264,15 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = Lägg till bokmärke
+bookmarks-edit-bookmark = Redigera bokmärke
 bookmark-panel-show-editor-checkbox =
     .label = Visa redigeraren när du sparar
     .accesskey = V
 bookmark-panel-done-button =
     .label = Klar
+bookmark-panel-save-button =
+    .label = Spara
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
