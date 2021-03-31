@@ -71,6 +71,10 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Synka nu
+appmenu-remote-tabs-sign-into-sync =
+    .label = Logga in för att synkronisera…
+appmenu-remote-tabs-turn-on-sync =
+    .label = Aktivera synkronisering…
 appmenuitem-fxa-toolbar-sync-now2 = Synkronisera nu
 appmenuitem-fxa-manage-account = Hantera konto
 appmenu-fxa-header =
