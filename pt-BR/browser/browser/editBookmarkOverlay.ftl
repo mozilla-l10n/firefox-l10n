@@ -48,3 +48,5 @@ bookmark-overlay-keyword =
 bookmark-overlay-keyword-2 =
     .value = Palavra-chave
     .accesskey = P
+bookmark-overlay-tags-caption-label = Use etiquetas para organizar e procurar favoritos a partir da barra de endereços
+bookmark-overlay-keyword-caption-label = Use palavras-chave para abrir favoritos diretamente a partir da barra de endereços

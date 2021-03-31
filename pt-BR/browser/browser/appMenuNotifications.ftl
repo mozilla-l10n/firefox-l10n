@@ -45,6 +45,7 @@ appmenu-update-manual2 =
     .buttonaccesskey = B
     .secondarybuttonlabel = Descartar
     .secondarybuttonaccesskey = e
+appmenu-update-manual-message2 = O { -brand-shorter-name } não pôde ser atualizado automaticamente. Baixe a nova versão. Você não perderá informações salvas nem personalizações.
 appmenu-update-unsupported2 =
     .label = Não foi possível atualizar
     .buttonlabel = Saiba mais
