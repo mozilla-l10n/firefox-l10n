@@ -5,6 +5,12 @@
 openpgp-manage-keys-openpgp-cmd =
     .label = OpenPGP управник кључева
     .accesskey = O
+openpgp-ctx-import-key =
+    .label = Увези OpenPGP кључ
+    .accesskey = к
+openpgp-has-sender-key = Ова порука тврди да садржи OpenPGP јавни кључ пошиљаоца
+openpgp-import-sender-key =
+    .label = Увези…
 openpgp-search-keys-openpgp =
     .label = Потражи OpenPGP кључ
 openpgp-missing-signature-key = Ова порука је потписана кључем чију копију за сада немате.
