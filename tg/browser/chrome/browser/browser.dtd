@@ -16,7 +16,9 @@ used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
+<!ENTITY  pinTab.label                       "Васл кардани варақа">
 
+<!ENTITY  listAllTabs.label      "Рӯйхати ҳамаи варақаҳо">
 
 <!ENTITY openFileCmd.label "Кушодани файл…">
 <!ENTITY printCmd.label "Чоп кардан ...">
@@ -139,6 +141,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showAll.label "Ҳамаро намоиш додан">
+<!ENTITY appMenuRemoteTabs.showAll.tooltip "Намоиш додани ҳамаи варақаҳо аз ин дастгоҳ">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown

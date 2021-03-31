@@ -99,6 +99,8 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = Ҳа, кукиҳо ва { $value } { $unit } иттилооти сомона
+security-site-data-only = Ҳа, { $value } { $unit } иттилооти сомона
 security-site-data-cookies-only = Ҳа, кукиҳо
 security-site-data-no = Не
 
