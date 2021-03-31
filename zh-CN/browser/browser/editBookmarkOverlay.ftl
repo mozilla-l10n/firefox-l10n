@@ -13,6 +13,14 @@ bookmark-overlay-folder =
 bookmark-overlay-name-2 =
     .value = 名称
     .accesskey = N
+bookmark-overlay-url =
+    .value = URL
+    .accesskey = U
+# Location refers to the position of the bookmark within the browser's
+# bookmarks, not to its URL or address.
+bookmark-overlay-location-2 =
+    .value = 位置
+    .accesskey = L
 bookmark-overlay-choose =
     .label = 选择…
 bookmark-overlay-folders-expander =
@@ -36,4 +44,7 @@ bookmark-overlay-tags-expander =
     .tooltiptextup = 隐藏
 bookmark-overlay-keyword =
     .value = 关键词：
+    .accesskey = K
+bookmark-overlay-keyword-2 =
+    .value = 关键词
     .accesskey = K
