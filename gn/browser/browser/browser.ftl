@@ -264,11 +264,15 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = Embojuaju Techaukaha
+bookmarks-edit-bookmark = Embosako’i Techaukaha
 bookmark-panel-show-editor-checkbox =
     .label = Ehechauka mbosako’iha eñongatúvo
     .accesskey = S
 bookmark-panel-done-button =
     .label = Mohu’ã
+bookmark-panel-save-button =
+    .label = Ñongatu
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
