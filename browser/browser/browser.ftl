@@ -264,6 +264,7 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = Legg til bokmerke
 bookmark-panel-show-editor-checkbox =
     .label = Vis redigerer ved lagring
     .accesskey = s
