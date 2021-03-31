@@ -268,11 +268,15 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = Cytańske znamje pśidaś
+bookmarks-edit-bookmark = Cytańske znamje wobźěłaś
 bookmark-panel-show-editor-checkbox =
     .label = Editor pśi składowanju pokazaś
     .accesskey = E
 bookmark-panel-done-button =
     .label = Dokóńcony
+bookmark-panel-save-button =
+    .label = Składowaś
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
