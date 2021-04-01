@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "Мәзірді ашу">
+
 <!ENTITY navbarOverflow.label                "Көбірек құралдар…">
 
 <!-- Tab context menu -->
@@ -42,7 +43,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY fullScreenCmd.label "Толық экран режимі">
 
-
 <!ENTITY pictureInPictureHideToggle.label "Суреттегі сурет қосқышын жасыру">
 <!ENTITY pictureInPictureHideToggle.accesskey "ы">
 
@@ -50,9 +50,12 @@ this container is a toolbar. This avoids double-speaking. -->
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.syncSettings2.label "&syncBrand.shortName.label; баптаулары">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     followed by the user's email. -->
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Басқа құрылғыны байланыстыру…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
-
 <!ENTITY fxa.menu.signin.label "&brandProductName; ішіне кіру">
 <!ENTITY fxa.menu.turnOnSync.label "&syncBrand.shortName.label; іске қосу">
 <!ENTITY fxa.menu.firefoxServices.label "&brandProductName; қызметтері">
@@ -119,7 +122,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY addBookmarksMenu.label             "Бетбелгілер мәзірін құралдар панеліне қосу">
 <!ENTITY removeBookmarksMenu.label          "Бетбелгілер мәзірін құралдар панелінен алып тастау">
 
-<!ENTITY historyButton.label            "Тарихы">
+<!ENTITY historyButton.label            "Тарих">
 
 <!ENTITY downloads.label              "Жүктемелер">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
@@ -140,26 +143,30 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.label       "Құралдар панелін баптау…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "б">
 
-<!ENTITY historyMenu.label "Тарихы">
+<!ENTITY historyMenu.label "Тарих">
 <!ENTITY historyUndoMenu.label "Жақында жабылған беттер">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Жақында жабылған терезелер">
 
 <!ENTITY appMenuHistory.showAll.label "Бүкіл тарихты көрсету">
+
 <!ENTITY appMenuHistory.clearRecent.label "Жуырдағы тарихты өшіру…">
 <!ENTITY appMenuHistory.restoreSession.label "Алдыңғы сессияны қалпына келтіру">
 <!ENTITY appMenuHistory.viewSidebar.label "Тарихтың бүйір панелін көрсету">
 <!ENTITY appMenuHistory.hideSidebar.label "Тарих бүйір панелін жабу">
-<!ENTITY appMenuHistory.recentHistory.label "Жуырдағы тарихы">
+<!ENTITY appMenuHistory.recentHistory.label "Жуырдағы тарих">
 <!ENTITY appMenuHelp.label "Көмек">
 
 <!ENTITY appMenuRemoteTabs.label "Синхрондалған беттер">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Ашық беттер жоқ">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showMore.label "Көбірек көрсету">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.tooltip):
+     This is shown after the tabs list if we can display more tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showMore.tooltip "Бұл құрылғыдан көбірек беттерді көрсету">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
@@ -222,14 +229,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY emailPageCmd.label           "Сілтемені эл. поштамен жіберу…">
 
-<!-- Media (video/audio) controls -->
-
-<!-- LOCALIZATION NOTE :
-fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
-fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
-If shift key is needed with your locale popular keyboard for them,
-you can use these alternative items. Otherwise, their values should be empty.  -->
-
 <!ENTITY fullZoom.label                 "Масштаб">
 
 <!ENTITY sidebarCloseButton.tooltip     "Бүйір панелін жабу">
@@ -255,7 +254,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Сөздіктерді қосу…">
 <!ENTITY spellAddDictionaries.accesskey "С">
 
-
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Браузер беттері">
@@ -267,7 +265,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY uiTour.infoPanel.close "Жабу">
 
-<!ENTITY panicButton.thankyou.msg1                "Жуырдағы тарихыңыз өшірілген.">
+<!ENTITY panicButton.thankyou.msg1                "Жуырдағы тарих өшірілді.">
 <!ENTITY panicButton.thankyou.msg2                "Қауіпсіз шолу!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Рахмет!">
 
