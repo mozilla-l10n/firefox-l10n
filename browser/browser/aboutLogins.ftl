@@ -18,6 +18,7 @@ login-filter =
 create-login-button = Δημιουργία νέας σύνδεσης
 fxaccounts-sign-in-text = Αποκτήστε πρόσβαση στους κωδικούς πρόσβασής σας από άλλες συσκευές
 fxaccounts-sign-in-button = Σύνδεση στο { -sync-brand-short-name }
+fxaccounts-sign-in-sync-button = Σύνδεση για συγχρονισμό
 fxaccounts-avatar-button =
     .title = Διαχείριση λογαριασμού
 
@@ -75,6 +76,7 @@ login-intro-description = Αν αποθηκεύσατε τις συνδέσει�
 login-intro-instruction-fxa = Στη συσκευή όπου έχουν αποθηκευτεί οι συνδέσεις σας, δημιουργήστε λογαριασμό ή συνδεθείτε στο { -fxaccount-brand-name }
 login-intro-instruction-fxa-settings = Στις Ρυθμίσεις του { -sync-brand-short-name }, φροντίστε να επιλέξετε το κουτάκι Συνδέσεις.
 about-logins-intro-instruction-help = Αν χρειάζεστε περισσότερη βοήθεια, επισκεφτείτε την ενότητα <a data-l10n-name="help-link">Υποστήριξη { -lockwise-brand-short-name }</a>
+login-intro-instructions-fxa-help = Επισκεφθείτε την <a data-l10n-name="help-link">Υποστήριξη { -lockwise-brand-short-name }</a> για περισσότερη βοήθεια.
 about-logins-intro-import = Αν οι συνδέσεις σας είναι αποθηκευμένες σε άλλο πρόγραμμα περιήγησης, μπορείτε να <a data-l10n-name="import-link">τις εισάγετε στο { -lockwise-brand-short-name }</a>
 about-logins-intro-import2 = Εάν οι συνδέσεις σας αποθηκεύονται εκτός του { -brand-product-name }, μπορείτε να τις <a data-l10n-name="import-browser-link">εισαγάγετε από άλλο πρόγραμμα περιήγησης</a> ή <a data-l10n-name="import-file-link">από κάποιο αρχείο</a>
 

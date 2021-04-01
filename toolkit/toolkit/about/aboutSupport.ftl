@@ -94,7 +94,7 @@ modified-key-prefs-title = Σημαντικές τροποποιημένες π�
 modified-prefs-name = Όνομα
 modified-prefs-value = Τιμή
 user-js-title = Προτιμήσεις user.js
-user-js-description = Ο φάκελος του προφίλ σας περιέχει το <a data-l10n-name="user-js-link">αρχείο user.js</a>, το οποίο περιέχει προτιμήσεις που δεν δημιουργήθηκαν από το { -brand-short-name }.
+user-js-description = Ο φάκελος του προφίλ σας περιέχει το <a data-l10n-name="user-js-link">αρχείο user.js</a>, στο οποίο αποθηκεύονται οι προτιμήσεις που δεν δημιουργήθηκαν από το { -brand-short-name }.
 locked-key-prefs-title = Σημαντικές κλειδωμένες προτιμήσεις
 locked-prefs-name = Όνομα
 locked-prefs-value = Τιμή
