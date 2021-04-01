@@ -264,11 +264,15 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = הוספת סימנייה
+bookmarks-edit-bookmark = עריכת סימנייה
 bookmark-panel-show-editor-checkbox =
     .label = הצגת העורך בזמן שמירה
     .accesskey = ה
 bookmark-panel-done-button =
     .label = סיום
+bookmark-panel-save-button =
+    .label = שמירה
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
