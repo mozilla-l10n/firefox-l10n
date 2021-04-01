@@ -18,6 +18,7 @@ login-filter =
 create-login-button = Crear un identificant novèl
 fxaccounts-sign-in-text = Accedissètz a vòstres senhals sus vòstres periferics
 fxaccounts-sign-in-button = Se connectar a { -sync-brand-short-name }
+fxaccounts-sign-in-sync-button = Se connectar per sincronizar
 fxaccounts-avatar-button =
     .title = Gestion del compte
 
