@@ -600,6 +600,7 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Εμφάνιση προτάσεων αναζήτησης σε ιδιωτικά παράθυρα
 suggestions-addressbar-settings-generic = Αλλαγή προτιμήσεων για άλλες προτάσεις στη γραμμή διευθύνσεων
+suggestions-addressbar-settings-generic2 = Αλλαγή ρυθμίσεων για άλλες προτάσεις της γραμμής διευθύνσεων
 search-suggestions-cant-show = Οι προτάσεις αναζήτησης δεν θα εμφανίζονται στη γραμμή διευθύνσεων, καθώς έχετε ρυθμίσει το { -brand-short-name } ώστε να μην διατηρεί ποτέ το ιστορικό.
 search-one-click-header = Μηχανές αναζήτησης με ένα κλικ
 search-one-click-header2 = Συντομεύσεις αναζήτησης
