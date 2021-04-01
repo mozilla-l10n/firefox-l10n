@@ -43,3 +43,4 @@ synced-tabs-context-sync-now =
 fxa-sign-in = Titikirisäx molojri'ïl pa { -sync-brand-short-name }
 turn-on-sync = Titzij { -sync-brand-short-name }
 synced-tabs-fxa-sign-in = Tatikirisaj molojri'ïl pa ximoj
+synced-tabs-turn-on-sync = Titzij ximoj
