@@ -396,6 +396,9 @@ update-application-check-choose =
 update-application-manual =
     .label = لا يلتمس التحديثات أبدًا (غير مستحسن)
     .accesskey = د
+update-application-background-enabled =
+    .label = حين لا يعمل { -brand-short-name }
+    .accesskey = ح
 update-application-warning-cross-user-setting = سيُطبّق هذا الإعداد على كل حسابات وِندوز وملفات { -brand-short-name } الشخصية التي تستخدم هذه النسخة من { -brand-short-name }.
 update-application-use-service =
     .label = استخدم خدمة تعمل في الخلفية لتنصيب التحديثات
@@ -566,6 +569,7 @@ home-prefs-highlights-option-saved-to-pocket =
     .label = الصفحات المحفوظة في { -pocket-brand-name }
 home-prefs-recent-activity-header =
     .label = أحدث الأنشطة
+home-prefs-recent-activity-description = مختارات من المواقع والمحتويات الحديثة
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -573,6 +577,7 @@ home-prefs-recent-activity-header =
 home-prefs-snippets-header =
     .label = المقتطفات
 home-prefs-snippets-description = التحديثات من { -vendor-short-name } و{ -brand-product-name }
+home-prefs-snippets-description-new = فوائد وأخبار من { -vendor-short-name } و{ -brand-product-name }
 home-prefs-sections-rows-option =
     .label =
         { $num ->
