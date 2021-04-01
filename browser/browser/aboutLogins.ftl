@@ -78,7 +78,7 @@ login-intro-description = Якщо ви зберегли паролі в { -bran
 login-intro-instruction-fxa = Зареєструйтеся чи увійдіть до свого { -fxaccount-brand-name(case: "gen") } на пристрої, де збережено ваші паролі
 login-intro-instruction-fxa-settings = Переконайтеся, що встановлено прапорець на Паролі в Налаштуваннях { -sync-brand-short-name(case: "dat") }
 about-logins-intro-instruction-help = Відвідайте <a data-l10n-name="help-link">Підтримку { -lockwise-brand-short-name }</a> для отримання допомоги
-login-intro-instructions-fxa = Зареєструйтеся чи увійдіть до свого { -fxaccount-brand-name(capitalization: "sentence") } на пристрої, де збережено ваші паролі
+login-intro-instructions-fxa = Зареєструйтеся чи увійдіть до свого { -fxaccount-brand-name(case: "gen") } на пристрої, де збережено ваші паролі
 login-intro-instructions-fxa-settings = Перейдіть до Налаштування > Синхронізація > Увімкнути синхронізацію… Позначте паролі.
 login-intro-instructions-fxa-help = Відвідайте <a data-l10n-name="help-link">Підтримку { -lockwise-brand-short-name }</a> для отримання допомоги.
 about-logins-intro-import = Якщо ваші паролі збережено в іншому браузері, ви можете <a data-l10n-name="import-link">імпортувати їх в { -lockwise-brand-short-name }</a>
