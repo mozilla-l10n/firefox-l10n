@@ -5,38 +5,43 @@
 bookmark-overlay-name =
     .value = Nombre:
     .accesskey = N
-
 bookmark-overlay-location =
     .value = Dirección:
     .accesskey = e
-
 bookmark-overlay-folder =
     .value = Carpeta:
-
+bookmark-overlay-name-2 =
+    .value = Nombre
+    .accesskey = N
+bookmark-overlay-url =
+    .value = URL
+    .accesskey = U
+# Location refers to the position of the bookmark within the browser's
+# bookmarks, not to its URL or address.
+bookmark-overlay-location-2 =
+    .value = Dirección
+    .accesskey = D
 bookmark-overlay-choose =
     .label = Seleccionar…
-
 bookmark-overlay-folders-expander =
     .tooltiptext = Mostrar todas las carpetas de marcadores
     .tooltiptextdown = { bookmark-overlay-folders-expander.tooltiptext }
     .tooltiptextup = Ocultar
-
 bookmark-overlay-new-folder-button =
     .label = Nueva carpeta
     .accesskey = N
-
 bookmark-overlay-tags =
     .value = Etiquetas
     .accesskey = t
-
+bookmark-overlay-tags-2 =
+    .value = Etiquetas
+    .accesskey = t
 bookmark-overlay-tags-empty-description =
     .placeholder = Separar etiquetas con comas
-
 bookmark-overlay-tags-expander =
     .tooltiptext = Mostrar todas las etiquetas
     .tooltiptextdown = { bookmark-overlay-tags-expander.tooltiptext }
     .tooltiptextup = Ocultar
-
 bookmark-overlay-keyword =
     .value = Palabra clave:
     .accesskey = v
