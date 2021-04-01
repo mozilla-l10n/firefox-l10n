@@ -13,6 +13,7 @@
 ##
 ## Reference: https://www.mozilla.org/styleguide/communications/translation/
 
+
 ## Firefox and Mozilla Brand
 ##
 ## Firefox and Mozilla must be treated as a brand.
@@ -34,4 +35,4 @@
 # remain unchanged across different versions (Nightly, Beta, etc.).
 -brand-product-name = Firefox
 -vendor-short-name = Mozilla
-trademarkInfo = Το Firefox και τα λογότυπα του Firefox αποτελούν εμπορικά σήματα του Ιδρύματος Mozilla.
+trademarkInfo = Το Firefox και τα λογότυπα του Firefox αποτελούν εμπορικά σήματα του Mozilla Foundation.
