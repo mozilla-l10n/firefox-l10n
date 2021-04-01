@@ -101,3 +101,44 @@ manifest-item-icons = Iconis
 manifest-loading = Daûr a cjariâ il manifest…
 # Text displayed when the manifest has been successfully loaded
 manifest-loaded-ok = Manifest cjariât.
+# Text displayed as a caption when there has been an error while trying to
+# load the manifest
+manifest-loaded-error = Al è vignût fûr un erôr intant che si cjariave il manifest:
+# Text displayed as an error when there has been a Firefox DevTools error while
+# trying to load the manifest
+manifest-loaded-devtools-error = Erôr di DevTools di Firefox
+# Text displayed when the page has no manifest available
+manifest-non-existing = Nol è stât cjatât nissun manifest di ispezionâ.
+# Text displayed when the page has a manifest embedded in a Data URL and
+# thus we cannot link to it.
+manifest-json-link-data-url = Il manifest al è incorporât intun URL di dâts.
+# Text displayed at manifest icons to label their purpose, as declared
+# in the manifest.
+manifest-icon-purpose = Finalitât: <code>{ $purpose }</code>
+# Text displayed as the alt attribute for <img> tags showing the icons in the
+# manifest.
+manifest-icon-img =
+    .alt = Icone
+# Text displayed as the title attribute for <img> tags showing the icons in the
+# manifest. `$sizes` is a user-dependent string that has been parsed as a
+# space-separated list of `<width>x<height>` sizes or the keyword `any`.
+manifest-icon-img-title = Icone cun dimensions: { $sizes }
+# Text displayed as the title attribute for <img> tags showing the icons in the
+# manifest, in case there's no icon size specified by the user
+manifest-icon-img-title-no-sizes = Icone di dimension no specificade
+# Sidebar navigation item for Manifest sidebar item section
+sidebar-item-manifest = Manifest
+    .alt = Icone di manifest
+    .title = Manifest
+# Sidebar navigation item for Service Workers sidebar item section
+sidebar-item-service-workers = Service Workers
+    .alt = Icone dai Service Workers
+    .title = Service Workers
+# Text for the ALT and TITLE attributes of the warning icon
+icon-warning =
+    .alt = Icone di avertiment
+    .title = Avertiment
+# Text for the ALT and TITLE attributes of the error icon
+icon-error =
+    .alt = Icone di erôr
+    .title = Erôr
