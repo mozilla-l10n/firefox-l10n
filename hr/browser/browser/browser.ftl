@@ -266,11 +266,15 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = Dodaj zabilješku
+bookmarks-edit-bookmark = Uredi zabilješku
 bookmark-panel-show-editor-checkbox =
     .label = Prikaži uređivač prilikom spremanja
     .accesskey = s
 bookmark-panel-done-button =
     .label = Gotovo
+bookmark-panel-save-button =
+    .label = Spremi
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
