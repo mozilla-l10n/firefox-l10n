@@ -404,6 +404,14 @@ update-setting-write-failure-message =
     
     Klarte ikkje å skrive til fila: { $path }
 update-setting-write-failure-title2 = Klarte ikkje å lagre oppdateringsinnstillingar
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message2 =
+    { -brand-short-name } oppdaga ein feil og lagra ikkje denne endringa. Merk, for å kunne lagre endringa av denne oppdateringsinnstillinga, vert det krevd løyve til å skrive til fila nedanfor. Du eller ein systemadministrator kan kanskje rette feilen ved å gi gruppa Brukarar full tilgang til denne fila.
+    
+    Kunne ikke skrive til filen: { $path }
 update-in-progress-title = Oppdatering i framdrift
 update-in-progress-message = Vil du at { -brand-short-name } skal fortsetje med denne oppdateringa?
 update-in-progress-ok-button = &Avvis
@@ -706,6 +714,7 @@ prefs-sync-offer-setup-label = Synkroniser bokmerke, historikk, faner, passord, 
 prefs-sync-turn-on-syncing =
     .label = Slå på synkronisering…
     .accesskey = S
+prefs-sync-offer-setup-label2 = Synkroniser bokmerke, historikk, faner, passord, utvidingar og innstillingar på tvers av alle einingane dine.
 prefs-sync-now =
     .labelnotsyncing = Synkroniser no
     .accesskeynotsyncing = n
@@ -1195,6 +1204,7 @@ space-alert-under-5gb-message = { -brand-short-name } er i ferd med å gå tom f
 space-alert-over-5gb-settings-button =
     .label = Opne Innstillingar
     .accesskey = p
+space-alert-over-5gb-message2 = <strong>{ -brand-short-name } er i ferd med å gå tom for plass på disken.</strong> Det kan hende at innhaldet på nettstaden ikkje vert vist skikkeleg. Du kan tøme lagra data i Innstillingar > Personvern og sikkerheit > Infokapslar og nettstaddata.
 
 ## Privacy Section - HTTPS-Only
 
