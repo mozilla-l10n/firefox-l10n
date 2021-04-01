@@ -143,7 +143,7 @@ menu-view-sidebar =
 menu-view-bookmarks =
     .label = Бетбелгілер
 menu-view-history-button =
-    .label = Тарихы
+    .label = Тарих
 menu-view-synced-tabs-sidebar =
     .label = Синхрондалған беттер
 menu-view-full-zoom =
@@ -199,7 +199,7 @@ menu-view-bidi-switch-page-direction =
 ## History Menu
 
 menu-history =
-    .label = Тарихы
+    .label = Тарих
     .accesskey = х
 menu-history-show-all-history =
     .label = Бүкіл тарихты көрсету
