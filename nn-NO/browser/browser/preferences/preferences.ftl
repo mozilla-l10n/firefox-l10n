@@ -1205,6 +1205,7 @@ space-alert-over-5gb-settings-button =
     .label = Opne Innstillingar
     .accesskey = p
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } er i ferd med å gå tom for plass på disken.</strong> Det kan hende at innhaldet på nettstaden ikkje vert vist skikkeleg. Du kan tøme lagra data i Innstillingar > Personvern og sikkerheit > Infokapslar og nettstaddata.
+space-alert-under-5gb-message2 = <strong>{ -brand-short-name } er i ferd med å gå tom for plass på disken.</strong> Det kan hende at innhaldet på nettsida ikkje vert vist skikkeleg. Gå til «Les meir» for å optimalisere diskbruken din for ei betre nettoppleving.
 
 ## Privacy Section - HTTPS-Only
 
