@@ -652,6 +652,9 @@ sync-signedout-description = Synkroniser bokmerke, historikk, faner, passord, ut
 sync-signedout-account-signin2 =
     .label = Logg inn på { -sync-brand-short-name }…
     .accesskey = i
+sync-signedout-account-signin3 =
+    .label = Logg in for å synkronisere…
+    .accesskey = L
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
