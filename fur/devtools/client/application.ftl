@@ -60,3 +60,6 @@ serviceworker-empty-intro = Tu scugnis regjistrâ un Service Worker par ispezion
 # Text displayed when there are no Service Workers to display for the current page,
 # introducing hints to debug Service Worker issues.
 serviceworker-empty-suggestions = Se la pagjine curinte e varès di vê un service worker, chi a son un pocjis di robis che tu puedis provâ
+# Suggestion to check for errors in the Console to investigate why a service worker is not
+# registered. Clicking on the link opens the webconsole.
+serviceworker-empty-suggestions-console = Verifiche la presince di erôrs te console. <a>Vierç la console</a>
