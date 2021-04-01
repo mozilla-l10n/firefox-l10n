@@ -18,7 +18,7 @@ login-filter =
 create-login-button = יצירת כניסה חדשה
 fxaccounts-sign-in-text = קבלת הססמאות שלך במכשירים האחרים שלך
 fxaccounts-sign-in-button = כניסה ל־{ -sync-brand-short-name }
-fxaccounts-sign-in-sync-button = כניסה לסנכרון
+fxaccounts-sign-in-sync-button = כניסה כדי לסנכרן
 fxaccounts-avatar-button =
     .title = ניהול חשבון
 
