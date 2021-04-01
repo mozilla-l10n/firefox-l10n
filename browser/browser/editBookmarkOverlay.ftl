@@ -14,7 +14,7 @@ bookmark-overlay-name-2 =
     .value = 名称
     .accesskey = N
 bookmark-overlay-url =
-    .value = 网址 / URL
+    .value = 网址
     .accesskey = U
 # Location refers to the position of the bookmark within the browser's
 # bookmarks, not to its URL or address.
