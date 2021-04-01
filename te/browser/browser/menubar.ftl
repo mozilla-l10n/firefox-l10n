@@ -11,6 +11,8 @@
 
 ## Application Menu (macOS only)
 
+menu-application-preferences =
+    .label = అభిరుచులు
 menu-application-services =
     .label = సేవలు
 menu-application-hide-this =
