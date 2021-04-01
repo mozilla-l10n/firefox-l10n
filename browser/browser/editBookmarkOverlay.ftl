@@ -5,38 +5,46 @@
 bookmark-overlay-name =
     .value = Όνομα:
     .accesskey = ν
-
 bookmark-overlay-location =
     .value = Τοποθεσία:
     .accesskey = θ
-
 bookmark-overlay-folder =
     .value = Φάκελος:
-
+bookmark-overlay-name-2 =
+    .value = Όνομα
+    .accesskey = Ό
+bookmark-overlay-url =
+    .value = URL
+    .accesskey = U
+# Location refers to the position of the bookmark within the browser's
+# bookmarks, not to its URL or address.
+bookmark-overlay-location-2 =
+    .value = Τοποθεσία
+    .accesskey = Τ
 bookmark-overlay-choose =
     .label = Επιλογή…
-
 bookmark-overlay-folders-expander =
     .tooltiptext = Προβολή όλων των φακέλων σελιδοδεικτών
     .tooltiptextdown = { bookmark-overlay-folders-expander.tooltiptext }
     .tooltiptextup = Απόκρυψη
-
 bookmark-overlay-new-folder-button =
     .label = Νέος φάκελος
     .accesskey = ο
-
 bookmark-overlay-tags =
     .value = Ετικέτες:
     .accesskey = τ
-
+bookmark-overlay-tags-2 =
+    .value = Ετικέτες
+    .accesskey = Ε
 bookmark-overlay-tags-empty-description =
     .placeholder = Διαχωρίστε τις ετικέτες με κόμματα
-
 bookmark-overlay-tags-expander =
     .tooltiptext = Προβολή όλων των ετικετών
     .tooltiptextdown = { bookmark-overlay-tags-expander.tooltiptext }
     .tooltiptextup = Απόκρυψη
-
 bookmark-overlay-keyword =
     .value = Λέξη-κλειδί:
     .accesskey = κ
+bookmark-overlay-keyword-2 =
+    .value = Λέξη-κλειδί
+    .accesskey = Λ
