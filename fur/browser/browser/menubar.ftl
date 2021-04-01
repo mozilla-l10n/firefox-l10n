@@ -304,7 +304,7 @@ menu-preferences =
            *[other] P
         }
 menu-tools-layout-debugger =
-    .label = Debugger de disposizion
+    .label = Strument di debug de disposizion
     .accesskey = u
 
 ## Window Menu

@@ -63,3 +63,41 @@ serviceworker-empty-suggestions = Se la pagjine curinte e varès di vê un servi
 # Suggestion to check for errors in the Console to investigate why a service worker is not
 # registered. Clicking on the link opens the webconsole.
 serviceworker-empty-suggestions-console = Verifiche la presince di erôrs te console. <a>Vierç la console</a>
+# Suggestion to use the debugger to investigate why a service worker is not registered.
+# Clicking on the link will switch from the Application panel to the debugger.
+serviceworker-empty-suggestions-debugger = Analize a pas a pas la regjistrazion dal Service Worker e cîr lis ecezions. <a>Vierç il strument pal debug</a>
+# Suggestion to go to about:debugging in order to see Service Workers for all domains.
+# Clicking on the link will open about:debugging in a new tab.
+serviceworker-empty-suggestions-aboutdebugging = Ispezione di un altri domini i Service Workers. <a>Vierç about:debugging</a>
+# Text displayed when no service workers are visible for the current page.
+serviceworker-empty-intro2 = Nissun service worker cjatât
+# Link will open https://developer.mozilla.org/docs/Web/API/Service_Worker_API/Using_Service_Workers
+serviceworker-empty-intro-link = Plui informazions
+# Text displayed when there are no Service Workers to display for the current page,
+# introducing hints to debug Service Worker issues.
+# <a> and <span> are links that will open the webconsole and the debugger, respectively.
+serviceworker-empty-suggestions2 = Se cheste pagjine e varès di vê une service worker, tu puedi cirî i erôrs te <a>console</a> opûr passâ dute la regjistrazion dal service worker tal <span>Strument pal debug</span>.
+# Suggestion to go to about:debugging in order to see Service Workers for all domains.
+# Link will open about:debugging in a new tab.
+serviceworker-empty-suggestions-aboutdebugging2 = Visualize di un altri domini i service workers
+# Header for the Manifest page when we have an actual manifest
+manifest-view-header = Manifest de aplicazion
+# Header for the Manifest page when there's no manifest to inspect
+# The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
+manifest-empty-intro = Tu scugnis zontâ un manifest di aplicazion web par ispezionâle achì. <a>Plui informazions</a>
+# Header for the Manifest page when there's no manifest to inspect
+manifest-empty-intro2 = Nissun manifest di aplicazion web rilevât
+# The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
+manifest-empty-intro-link = Scuvierç cemût zontâ un manifest
+# Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
+manifest-item-warnings = Erôrs e avertiments
+# Header for the Identity section of Manifest inspection displayed in the application panel.
+manifest-item-identity = Identitât
+# Header for the Presentation section of Manifest inspection displayed in the application panel.
+manifest-item-presentation = Presentazion
+# Header for the Icon section of Manifest inspection displayed in the application panel.
+manifest-item-icons = Iconis
+# Text displayed while we are loading the manifest file
+manifest-loading = Daûr a cjariâ il manifest…
+# Text displayed when the manifest has been successfully loaded
+manifest-loaded-ok = Manifest cjariât.
