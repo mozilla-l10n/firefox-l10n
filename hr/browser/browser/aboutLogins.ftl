@@ -18,6 +18,7 @@ login-filter =
 create-login-button = Stvori novu prijavu
 fxaccounts-sign-in-text = Preuzmi lozinke na drugim uređajima
 fxaccounts-sign-in-button = Prijavi se u { -sync-brand-short-name }
+fxaccounts-sign-in-sync-button = Prijavi se za sinkronizaciju
 fxaccounts-avatar-button =
     .title = Upravljaj računom
 
@@ -71,6 +72,7 @@ about-logins-list-item-vulnerable-password-icon =
 
 login-intro-heading = Tražiš svoje spremljene prijave? Postavi { -sync-brand-short-name }.
 about-logins-login-intro-heading-logged-out = Tražiš svoje spremljene prijave? Postavi { -sync-brand-short-name } ili ih uvezi.
+about-logins-login-intro-heading-logged-out2 = Tražiš spremljene prijave? Uključi sinkronizaciju ili ih uvezi.
 about-logins-login-intro-heading-logged-in = Nema sinkroniziranih prijava.
 login-intro-description = Ako su tvoje prijave spremljene u { -brand-product-name }u na jednom drugom uređaju, evo kako ih ovdje možeš preuzeti:
 login-intro-instruction-fxa = Otvori račun ili se prijavi na svoj { -fxaccount-brand-name }, na uređaju gdje su tvoje prijave spremljene
