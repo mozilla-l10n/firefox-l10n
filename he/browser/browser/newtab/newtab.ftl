@@ -22,12 +22,17 @@ newtab-search-box-search-the-web-text = חיפוש ברשת
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = ‏ניתן לחפש עם { $engine } או להקליד כתובת
+newtab-search-box-handoff-text-no-engine = חיפוש או הכנסת כתובת
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-input =
     .placeholder = ‏ניתן לחפש עם { $engine } או להקליד כתובת
     .title = ‏ניתן לחפש עם { $engine } או להקליד כתובת
     .aria-label = ‏ניתן לחפש עם { $engine } או להקליד כתובת
+newtab-search-box-handoff-input-no-engine =
+    .placeholder = חיפוש או הכנסת כתובת
+    .title = חיפוש או הכנסת כתובת
+    .aria-label = חיפוש או הכנסת כתובת
 newtab-search-box-search-the-web-input =
     .placeholder = חיפוש ברשת
     .title = חיפוש ברשת
