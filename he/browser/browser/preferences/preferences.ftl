@@ -669,6 +669,9 @@ sync-signedout-account-signin2 =
     .label = התחברות אל { -sync-brand-short-name }…
     .accesskey = ה
 sync-signedout-description2 = סנכרון הסימניות, ההיסטוריה, הלשוניות, הססמאות, ההרחבות וההגדרות בין כל המכשירים שלך.
+sync-signedout-account-signin3 =
+    .label = כניסה כדי לסנכרן
+    .accesskey = ס
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
