@@ -35,7 +35,7 @@
 <!ENTITY account.copyDebugLog.label     "Copiar registro de depuración">
 <!ENTITY account.copyDebugLog.accesskey "C">
 <!ENTITY account.showDebugLog.label     "Mostrar registro de depuración">
-<!ENTITY account.showDebugLog.accesskey "H">
+<!ENTITY account.showDebugLog.accesskey "r">
 <!ENTITY account.connecting           "Conectando…">
 <!ENTITY account.disconnecting        "Desconectando…">
 <!ENTITY account.disconnected         "No conectado">
