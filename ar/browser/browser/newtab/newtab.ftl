@@ -241,6 +241,7 @@ newtab-custom-row-selector =
        *[other] { $num } صف
     }
 newtab-custom-sponsored-sites = الاختصارات الممولة
+newtab-custom-pocket-title = مُقترح من { -pocket-brand-name }
 newtab-custom-pocket-subtitle = محتوى مميّز جمعه لك { -pocket-brand-name }، وهو جزء من عائلة { -brand-product-name }
 newtab-custom-pocket-sponsored = قصص مموّلة
 newtab-custom-recent-title = أحدث الأنشطة

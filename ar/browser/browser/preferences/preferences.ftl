@@ -414,7 +414,10 @@ update-setting-write-failure-title2 = حدث عُطل أثناء تحديث ال
 #   $path (String) - Path to the configuration file
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
-update-setting-write-failure-message2 = واجه { -brand-short-name } عُطلًا ولم يحفظ هذا التغيير. كي تغيّر إعداد التحديث هذا سيكون عليك تقديم تصريحك للكتابة في الملف أدناه. يمكنك أنت أو يمكن لمدير النظام أن يحلّ هذا العُطل بمنح مجموعة ”المستخدمين/Users“ التصريح الكامل للتحكّم بهذا الملف.
+update-setting-write-failure-message2 =
+    واجه { -brand-short-name } عُطلًا ولم يحفظ هذا التغيير. كي تغيّر إعداد التحديث هذا سيكون عليك تقديم تصريحك للكتابة في الملف أدناه. يمكنك أنت أو يمكن لمدير النظام أن يحلّ هذا العُطل بمنح مجموعة ”المستخدمين/Users“ التصريح الكامل للتحكّم بهذا الملف.
+    
+    تعذّرت الكتابة في الملف: { $path }
 update-in-progress-title = يجري الآن التحديث
 update-in-progress-message = أتريد من { -brand-short-name } مواصلة العمل على هذا التحديث؟
 update-in-progress-ok-button = أ&همِل
