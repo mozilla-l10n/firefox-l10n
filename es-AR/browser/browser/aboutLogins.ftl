@@ -18,6 +18,7 @@ login-filter =
 create-login-button = Crear nuevo inicio de sesión
 fxaccounts-sign-in-text = Obtenga sus contraseñas en sus otros dispositivos
 fxaccounts-sign-in-button = Inicie sesión en { -sync-brand-short-name }
+fxaccounts-sign-in-sync-button = Ingresar para sincronizar
 fxaccounts-avatar-button =
     .title = Administrar cuenta
 
@@ -70,11 +71,13 @@ about-logins-list-item-vulnerable-password-icon =
 
 login-intro-heading = ¿Está buscando sus inicios de sesión guardados? Configure { -sync-brand-short-name }.
 about-logins-login-intro-heading-logged-out = ¿Está buscando sus inicios de sesión guardados? Configure { -sync-brand-short-name } o impórtelos.
+about-logins-login-intro-heading-logged-out2 = ¿Buscando los ingresos guardados? Hay que habilitar la sincronización o importarlos.
 about-logins-login-intro-heading-logged-in = No se encontraron inicios de sesión sincronizados.
 login-intro-description = Si guardó sus inicios de sesión en { -brand-product-name } en un dispositivo diferente, estos son los pasos a seguir para tenerlas aquí también:
 login-intro-instruction-fxa = Cree o inicie sesión en su { -fxaccount-brand-name } en el dispositivo donde guardó sus inicios de sesión
 login-intro-instruction-fxa-settings = Asegúrese de haber seleccionado la casilla de verificación Inicios de sesión en la Configuración de { -sync-brand-short-name }
 about-logins-intro-instruction-help = Vaya a <a data-l10n-name="help-link"> { -lockwise-brand-short-name } Ayuda</a> para obtener más ayuda
+login-intro-instructions-fxa-help = Visite <a data-l10n-name="help-link">{ -lockwise-brand-short-name }Soporte</a> para más ayuda.
 about-logins-intro-import = Si sus inicios de sesión se guardan en otro navegador, puede <a data-l10n-name="import-link"> importarlos a { -lockwise-brand-short-name }</a>
 about-logins-intro-import2 = Si sus inicios de sesión se guardan fuera de { -brand-product-name }, puede <a data-l10n-name="import-browser-link">importarlos desde otro navegador</a> o <a data-l10n-name="import-file-link">desde un archivo</a>
 
