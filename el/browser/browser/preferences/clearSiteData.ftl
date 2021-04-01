@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 clear-site-data-window =
-    .title = Εκκαθάριση δεδομένων
+    .title = Απαλοιφή δεδομένων
     .style = width: 35em
 clear-site-data-description = Η εκκαθάριση όλων των cookies και των δεδομένων ιστοσελίδων που αποθηκεύονται από το { -brand-short-name } ενδέχεται να σάς αποσυνδέσει από ιστοσελίδες και να αφαιρέσει διαδικτυακό περιεχόμενο εκτός σύνδεσης. Η εκκαθάριση της προσωρινής μνήμης δεν θα επηρεάσει τις συνδέσεις σας.
 clear-site-data-close-key =
@@ -46,8 +46,8 @@ clear-site-data-cancel =
     .label = Ακύρωση
     .accesskey = Α
 clear-site-data-clear =
-    .label = Εκκαθάριση
-    .accesskey = κ
+    .label = Απαλοιφή
+    .accesskey = λ
 clear-site-data-dialog =
-    .buttonlabelaccept = Εκκαθάριση
-    .buttonaccesskeyaccept = κ
+    .buttonlabelaccept = Απαλοιφή
+    .buttonaccesskeyaccept = λ
