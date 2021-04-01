@@ -34,14 +34,14 @@
 <!ENTITY preferDisplayName.label        "Siempre preferir el nombre para mostrar sobre el encabezado del mensaje">
 <!ENTITY preferDisplayName.accesskey    "y">
 <!ENTITY NickName.label                 "Apodo:">
-<!ENTITY NickName.accesskey             "B">
+<!ENTITY NickName.accesskey             "o">
 
 <!ENTITY PrimaryEmail.label             "Correo electrónico:">
 <!ENTITY PrimaryEmail.accesskey         "E">
 <!ENTITY SecondEmail.label              "Otro correo electrónico:">
 <!ENTITY SecondEmail.accesskey          "i">
 <!ENTITY PreferMailFormat.label         "Prefiere recibir el mensaje formateado como:">
-<!ENTITY PreferMailFormat.accesskey     "v">
+<!ENTITY PreferMailFormat.accesskey     "f">
 <!ENTITY PlainText.label                "Texto sin formato">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Desconocido">
@@ -85,7 +85,7 @@
 <!ENTITY Work.tab                       "Trabajo">
 <!ENTITY Work.accesskey                 "W">
 <!ENTITY JobTitle.label                 "Título:">
-<!ENTITY JobTitle.accesskey             "i">
+<!ENTITY JobTitle.accesskey             "u">
 <!ENTITY Department.label               "Departamento:">
 <!ENTITY Department.accesskey           "m">
 <!ENTITY Company.label                  "Organización:">
