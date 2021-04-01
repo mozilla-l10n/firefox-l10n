@@ -36,6 +36,9 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = సరే, అర్థమయ్యింది
     .buttonaccesskey = O
 appmenu-addon-post-install-message = పొడిగింతల నిర్వహణకై <image data-l10n-name='addon-menu-icon'></image> మెనూ లోని <image data-l10n-name='addon-install-icon'></image> మీద నొక్కండి.
+appmenu-addon-private-browsing-installed2 =
+    .buttonlabel = సరే
+    .buttonaccesskey = O
 appmenu-addon-post-install-incognito-checkbox =
     .label = ఈ పొడగింతను అంతరంగీక కిటికీలలో నడవడానికి అనుమతించు
     .accesskey = A
