@@ -266,11 +266,15 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = Pridať záložku
+bookmarks-edit-bookmark = Upraviť záložku
 bookmark-panel-show-editor-checkbox =
     .label = Pri ukladaní zobrazovať editor
     .accesskey = u
 bookmark-panel-done-button =
     .label = Hotovo
+bookmark-panel-save-button =
+    .label = Uložiť
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
