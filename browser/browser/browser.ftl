@@ -258,6 +258,8 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = S
 bookmark-panel-done-button =
     .label = పూర్తయింది
+bookmark-panel-save-button =
+    .label = భద్రపరుచు
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -463,11 +465,19 @@ pointerlock-warning-no-domain = మీ పాయింటర్ ఈ పత్ర
 crashed-subframe-learnmore =
     .label = ఇంకా తెలుసుకోండి
     .accesskey = L
+crashed-subframe-learnmore-link =
+    .value = ఇంకా తెలుసుకోండి
+crashed-subframe-submit =
+    .label = నివేదిక దాఖలుచేయి
+    .accesskey = S
 
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
     .label = ఇష్టాంశాలన్నింటినీ చూపించు
+bookmarks-recent-bookmarks-panel =
+    .value = ఇటీవలి ఇష్టాంశాలు
+bookmarks-recent-bookmarks-panel-subheader = ఇటీవలి ఇష్టాంశాలు
 bookmarks-toolbar-chevron =
     .tooltiptext = మరిన్ని ఇష్టాంశాలను చూపించు
 bookmarks-sidebar-content =

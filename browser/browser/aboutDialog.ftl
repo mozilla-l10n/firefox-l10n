@@ -13,6 +13,7 @@ update-updateButton =
     .accesskey = R
 update-checkingForUpdates = తాజాకరణల కొరకు చూస్తున్నాం…
 update-downloading = <img data-l10n-name="icon"/>తాజాకరణను దింపుకుంటోంది — <label data-l10n-name="download-status"/>
+update-downloading-message = తాజాకరణను దింపుకుంటూంది — <label data-l10n-name="download-status"/>
 update-applying = తాజాకరణను ఆపాదిస్తోంది…
 update-failed = తాజాకరణ విఫలమైంది. <label data-l10n-name="failed-link">సరికొత్త వెర్షన్‌ను దింపుకోండి</label>
 update-failed-main = తాజాకరణ విఫలమైంది. <a data-l10n-name="failed-link-main">సరికొత్త వెర్షన్‌ను దింపుకోండి</a>
