@@ -11,6 +11,8 @@
 
 ## Application Menu (macOS only)
 
+menu-application-preferences =
+    .label = Preferences
 menu-application-services =
     .label = Services
 menu-application-hide-this =
@@ -260,6 +262,9 @@ menu-tools-fxa-sign-in2 =
     .accesskey = g
 menu-tools-turn-on-sync =
     .label = Turn on { -sync-brand-short-name }…
+    .accesskey = n
+menu-tools-turn-on-sync2 =
+    .label = Turn on Sync…
     .accesskey = n
 menu-tools-sync-now =
     .label = Sync Now

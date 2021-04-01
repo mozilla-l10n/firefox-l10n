@@ -102,6 +102,18 @@ main-context-menu-bookmark-add =
     .aria-label = Bookmark This Page
     .accesskey = m
     .tooltiptext = Bookmark this page
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-add-mac =
+    .label = Bookmark Page
+    .accesskey = m
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-edit-mac =
+    .label = Edit Bookmark
+    .accesskey = m
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-add-with-shortcut =
@@ -360,6 +372,9 @@ main-context-menu-suggest-strong-password =
     .accesskey = S
 main-context-menu-manage-logins =
     .label = Manage Logins…
+    .accesskey = M
+main-context-menu-manage-logins2 =
+    .label = Manage Logins
     .accesskey = M
 main-context-menu-keyword =
     .label = Add a Keyword for this Search…
