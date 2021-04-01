@@ -13,9 +13,12 @@ about-private-browsing =
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff =
     .title = ‏ניתן לחפש עם { $engine } או להקליד כתובת
+about-private-browsing-handoff-no-engine =
+    .title = חיפוש או הכנסת כתובת
 # Variables
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff-text = ‏ניתן לחפש עם { $engine } או להקליד כתובת
+about-private-browsing-handoff-text-no-engine = חיפוש או הכנסת כתובת
 about-private-browsing-not-private = אינך כעת בחלון גלישה פרטית.
 about-private-browsing-info-description = { -brand-short-name } מנקה את היסטוריית החיפוש והגלישה שלך כשהיישום נסגר או בעת סגירת כל הלשוניות והחלונות של גלישה פרטית. פעולה זו אמנם לא הופכת אותך לאלמוני כלפי אתרים או ספק האינטרנט שלך, אבל כן מקלה עליך בשמירה על הפעולות המקוונות שלך מפני כל מי שמשתמש במחשב זה.
 about-private-browsing-need-more-privacy = יש לך צורך בעוד פרטיות?
