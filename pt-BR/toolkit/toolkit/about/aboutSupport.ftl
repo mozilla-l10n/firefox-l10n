@@ -55,7 +55,7 @@ app-basics-show-update-history = Mostrar histórico de atualizações
 app-basics-binary = Binário da aplicação
 app-basics-profile-dir =
     { PLATFORM() ->
-        [linux] Diretório do perfil
+        [linux] Pasta do perfil
        *[other] Pasta do perfil
     }
 app-basics-enabled-plugins = Plugins ativados
@@ -82,7 +82,7 @@ show-dir-label =
     { PLATFORM() ->
         [macos] Mostrar no Finder
         [windows] Abrir pasta
-       *[other] Abrir diretório
+       *[other] Abrir pasta
     }
 environment-variables-title = Variáveis de ambiente
 environment-variables-name = Nome
