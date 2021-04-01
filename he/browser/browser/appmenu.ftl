@@ -71,6 +71,8 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = סנכרון כעת
+appmenu-remote-tabs-sign-into-sync =
+    .label = התחברות לסנכרון…
 appmenu-remote-tabs-turn-on-sync =
     .label = הפעלת סנכרון…
 appmenuitem-fxa-toolbar-sync-now2 = סנכרון כעת
