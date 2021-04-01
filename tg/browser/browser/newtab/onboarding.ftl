@@ -28,6 +28,7 @@ onboarding-button-label-get-started = Оғози кор
 onboarding-welcome-header = Хуш омадед ба { -brand-short-name }
 onboarding-welcome-body = Акнун шумо браузер доред.<br/>Бо қисми боқимондаи { -brand-product-name } шинос шавед.
 onboarding-welcome-learn-more = Маълумоти бештар дар бораи бартариҳо
+onboarding-welcome-modal-family-learn-more = Маълумоти бештар дар бораи оилаи маҳсулоти { -brand-product-name }.
 onboarding-welcome-form-header = Аз ин ҷо оғоз кунед
 onboarding-join-form-body = Барои оғози кор нишонии почтаи электронии худро ворид намоед.
 onboarding-join-form-email =
