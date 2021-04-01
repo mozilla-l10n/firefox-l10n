@@ -75,8 +75,6 @@
 <!ENTITY manual-config.accesskey         "m">
 <!ENTITY open-provisioner.label          "Obtener una nueva dirección de correo electrónico…">
 <!ENTITY open-provisioner.accesskey      "d">
-
-
 <!ENTITY get-help.label                  "Obtener ayuda">
 <!ENTITY get-help.accesskey              "y">
 
@@ -105,7 +103,7 @@
 <!ENTITY contactYourProvider.description "&brandShortName; le permite obtener su correo usando la configuarción provista. Sin embargo, debería contacta a su administrador o proveedor de correo acerca de estas conexiones improper. Vea las FAQ de Thunderbird para más información.">
 
 <!ENTITY insecureServer.tooltip.title    "¡Advertencia! Éste es un servidor inseguro.">
-<!ENTITY insecureServer.tooltip.details  "Click circle for more details.">
+<!ENTITY insecureServer.tooltip.details  "Clic en el círculo para más detalles.">
 
 <!ENTITY insecureUnencrypted.description "El correo electrónico y autenticación son enviados sin cifrar, así que su contraseña (y su mensaje) puede ser leído fácilmente por otras personas. &brandShortName; le permitirá obtener su correo, pero debería contactar a su proveedor de correo electrónico para que configure el servidor con una conexión segura.">
 <!ENTITY insecureSelfSigned.description  "El servidor usa un certificado en el que no podemos confiar, así que no se puede asegurar que alguien no esté interceptando el tráfico entre &brandShortName; y su servidor. &brandShortName; le permitirá obtener su correo, pero deberia solicitarle a su proveedor de correo electrónico que configure el certificado con un certificado confiable.">
