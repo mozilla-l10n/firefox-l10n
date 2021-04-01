@@ -8,6 +8,7 @@ synced-tabs-sidebar-intro = Mostrar la lista dels onglets de vòstres autres per
 synced-tabs-sidebar-unverified = Cal que verifiquetz vòstre compte.
 synced-tabs-sidebar-notabs = Cap d’onglet pas dobèrt
 synced-tabs-sidebar-openprefs = Dobrir las preferénciias del { -sync-brand-short-name }
+synced-tabs-sidebar-open-settings = Dobrir los paramètres de sincronizacion
 synced-tabs-sidebar-tabsnotsyncing = Activatz la sincronizacion dels onglets per afichar la lista dels onglets dels vòstres autres periferics.
 synced-tabs-sidebar-connect-another-device = Connectar un autre periferic
 synced-tabs-sidebar-search =
