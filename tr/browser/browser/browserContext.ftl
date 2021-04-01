@@ -156,7 +156,7 @@ main-context-menu-save-link =
     .accesskey = f
 main-context-menu-save-link-to-pocket =
     .label = Bağlantıyı { -pocket-brand-name }’a kaydet
-    .accesskey = o
+    .accesskey = P
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -292,7 +292,7 @@ main-context-menu-audio-copy-location =
     .accesskey = o
 main-context-menu-image-copy-link =
     .label = Resim bağlantısını kopyala
-    .accesskey = o
+    .accesskey = l
 main-context-menu-video-copy-link =
     .label = Video bağlantısını kopyala
     .accesskey = o
@@ -343,7 +343,7 @@ main-context-menu-plugin-hide =
     .accesskey = u
 main-context-menu-save-to-pocket =
     .label = Sayfayı { -pocket-brand-name }’a kaydet
-    .accesskey = k
+    .accesskey = P
 main-context-menu-send-to-device =
     .label = Sayfayı cihaza gönder
     .accesskey = ö
