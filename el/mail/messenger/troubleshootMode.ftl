@@ -5,6 +5,7 @@
 troubleshoot-mode-window =
     .title = Λειτουργία επίλυσης προβλημάτων του { -brand-short-name }
     .style = width: 37em;
+troubleshoot-mode-description = Χρησιμοποιήστε τη λειτουργία επίλυσης προβλημάτων του { -brand-short-name } για τη διάγνωση ζητημάτων. Τα πρόσθετα και οι προσαρμογές σας θα απενεργοποιηθούν προσωρινά.
 troubleshoot-mode-description2 = Μπορείτε να οριστικοποιήσετε κάποιες ή όλες τις αλλαγές:
 troubleshoot-mode-disable-addons =
     .label = Απενεργοποίηση όλων των προσθέτων
