@@ -680,6 +680,7 @@ sync-currently-syncing-prefs =
         [windows] Opciones
        *[other] Preferencies
     }
+sync-currently-syncing-settings = Axustes
 sync-change-options =
     .label = Camudar…
     .accesskey = C
