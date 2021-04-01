@@ -35,18 +35,24 @@ appmenuitem-more-tools =
     .label = Ďalšie nástroje
 appmenuitem-exit =
     .label = Ukončiť
-appmenuitem-exit2 =
-    .label =
-        { PLATFORM() ->
-            [linux] Ukončiť
-           *[other] Ukončiť
-        }
 appmenu-menu-button-closed =
     .tooltiptext = Otvorí ponuku aplikácie
     .label = { -brand-shorter-name }
 appmenu-menu-button-opened =
     .tooltiptext = Zavrie ponuku aplikácie
     .label = { -brand-shorter-name }
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Ukončiť
+           *[other] Ukončiť
+        }
+appmenu-menu-button-closed2 =
+    .tooltiptext = Otvorí ponuku aplikácie
+    .label = { -brand-short-name }
+appmenu-menu-button-opened2 =
+    .tooltiptext = Zavrie ponuku aplikácie
+    .label = { -brand-short-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =

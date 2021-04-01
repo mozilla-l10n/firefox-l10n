@@ -5,38 +5,46 @@
 bookmark-overlay-name =
     .value = Názov:
     .accesskey = N
-
 bookmark-overlay-location =
     .value = Adresa:
     .accesskey = A
-
 bookmark-overlay-folder =
     .value = Priečinok:
-
+bookmark-overlay-name-2 =
+    .value = Názov
+    .accesskey = N
+bookmark-overlay-url =
+    .value = Adresa URL
+    .accesskey = A
+# Location refers to the position of the bookmark within the browser's
+# bookmarks, not to its URL or address.
+bookmark-overlay-location-2 =
+    .value = Umiestnenie
+    .accesskey = U
 bookmark-overlay-choose =
     .label = Vybrať…
-
 bookmark-overlay-folders-expander =
     .tooltiptext = Zobrazí všetky priečinky záložiek
     .tooltiptextdown = { bookmark-overlay-folders-expander.tooltiptext }
     .tooltiptextup = Skryť
-
 bookmark-overlay-new-folder-button =
     .label = Nový priečinok
     .accesskey = o
-
 bookmark-overlay-tags =
     .value = Značky:
     .accesskey = Z
-
+bookmark-overlay-tags-2 =
+    .value = Značky
+    .accesskey = Z
 bookmark-overlay-tags-empty-description =
     .placeholder = Značky oddeľte čiarkami
-
 bookmark-overlay-tags-expander =
     .tooltiptext = Zobrazí všetky značky
     .tooltiptextdown = { bookmark-overlay-tags-expander.tooltiptext }
     .tooltiptextup = Skryť
-
 bookmark-overlay-keyword =
     .value = Kľúčové slovo:
+    .accesskey = K
+bookmark-overlay-keyword-2 =
+    .value = Kľúčové slovo
     .accesskey = K
