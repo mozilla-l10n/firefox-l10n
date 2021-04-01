@@ -32,6 +32,15 @@ serviceworker-worker-debug-forbidden = Scomence il debug
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start2 = Invie
     .title = Al è pussibil inviâ i service workers dome se multi e10s al è disativât
+# Alt text for the image icon displayed inside a debug link for a service worker.
+serviceworker-worker-inspect-icon =
+    .alt = Ispezione
+# Text for the start link displayed for a registered but not running Service Worker.
+# Clicking on the link will attempt to start the service worker.
+serviceworker-worker-start3 = Invie
+# Text displayed for the updated time of the service worker. The <time> element will
+# display the last update time of the service worker script.
+serviceworker-worker-updated = Ultin inzornament: <time>{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>
 
 ## Service Worker status strings: all serviceworker-worker-status-* strings are also
 ## defined in aboutdebugging.properties and should be synchronized with them.
