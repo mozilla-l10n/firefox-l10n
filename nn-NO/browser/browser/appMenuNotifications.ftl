@@ -38,6 +38,7 @@ appmenu-update-available2 =
     .buttonaccesskey = L
     .secondarybuttonlabel = Avvis
     .secondarybuttonaccesskey = A
+appmenu-update-available-message2 = Last ned den siste versjonen av { -brand-shorter-name }.
 appmenu-update-manual2 =
     .label = Oppdatering er tilgjengeleg
     .buttonlabel = Last ned
