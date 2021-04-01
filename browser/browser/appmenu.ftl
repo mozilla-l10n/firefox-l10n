@@ -35,18 +35,24 @@ appmenuitem-more-tools =
     .label = Više alata
 appmenuitem-exit =
     .label = Izlaz
-appmenuitem-exit2 =
-    .label =
-        { PLATFORM() ->
-            [linux] Izlaz
-           *[other] Izlaz
-        }
 appmenu-menu-button-closed =
     .tooltiptext = Otvori izbornik aplikacije
     .label = { -brand-shorter-name }
 appmenu-menu-button-opened =
     .tooltiptext = Zatvori izbornik aplikacije
     .label = { -brand-shorter-name }
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Izlaz
+           *[other] Izlaz
+        }
+appmenu-menu-button-closed2 =
+    .tooltiptext = Otvori izbornik aplikacije
+    .label = { -brand-short-name }
+appmenu-menu-button-opened2 =
+    .tooltiptext = Zatvori izbornik aplikacije
+    .label = { -brand-short-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -65,6 +71,10 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sinkroniziraj sada
+appmenu-remote-tabs-sign-into-sync =
+    .label = Prijavi se za sinkronizaciju…
+appmenu-remote-tabs-turn-on-sync =
+    .label = Uključi sinkronizaciju…
 appmenuitem-fxa-toolbar-sync-now2 = Sinkroniziraj sada
 appmenuitem-fxa-manage-account = Upravljaj računom
 appmenu-fxa-header =
