@@ -48,3 +48,5 @@ bookmark-overlay-keyword =
 bookmark-overlay-keyword-2 =
     .value = Λέξη-κλειδί
     .accesskey = Λ
+bookmark-overlay-tags-caption-label = Χρησιμοποιήστε ετικέτες για να οργανώσετε και να αναζητήσετε σελιδοδείκτες από τη γραμμή διευθύνσεων
+bookmark-overlay-keyword-caption-label = Χρησιμοποιήστε λέξεις-κλειδιά για να ανοίξετε σελιδοδείκτες απευθείας από τη γραμμή διευθύνσεων

@@ -115,6 +115,9 @@ security-site-data-cookies = Ναι, cookies και { $value } { $unit } δεδ�
 security-site-data-only = Ναι, { $value } { $unit } δεδομένων ιστοσελίδων
 security-site-data-cookies-only = Ναι, cookies
 security-site-data-no = Όχι
+
+##
+
 image-size-unknown = Άγνωστο
 page-info-not-specified =
     .value = Δεν έχει καθοριστεί
@@ -141,7 +144,7 @@ general-strict-mode =
     .value = Λειτουργία σύμφωνα με τα πρότυπα
 page-info-security-no-owner =
     .value = Αυτή η ιστοσελίδα δεν παρέχει πληροφορίες ιδιοκτησίας.
-media-select-folder = Επιλέξτε ένα φάκελο για αποθήκευση εικόνων
+media-select-folder = Επιλέξτε έναν φάκελο για αποθήκευση εικόνων
 media-unknown-not-cached =
     .value = Άγνωστο (όχι σε μνήμη cache)
 permissions-use-default =
