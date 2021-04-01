@@ -5,8 +5,8 @@
 
 <!ENTITY migrationWizard.title          "Импорт шебері">
 
-<!ENTITY importFrom.label               "Баптаулар, бетбелгілер, тарихы, парольдерді және т.б. ақпаратты импорттау келесіден:">
-<!ENTITY importFromUnix.label           "Баптаулар, бетбелгілер, тарихы, парольдерді және т.б. ақпаратты импорттау келесіден:">
+<!ENTITY importFrom.label               "Баптаулар, бетбелгілер, шолу тарихы, парольдерді және т.б. ақпаратты келесіден импорттау:">
+<!ENTITY importFromUnix.label           "Баптаулар, бетбелгілер, шолу тарихы, парольдер және т.б. ақпаратты келесіден импорттау:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">
@@ -35,7 +35,7 @@
 <!ENTITY importFrom360se.label          "360 қауіпсіз браузері">
 <!ENTITY importFrom360se.accesskey      "3">
 
-<!ENTITY noMigrationSources.label       "Құрамында бетбелгілер, тарихы немесе парольдері бар бірде-бір бағдарлама табылмаған.">
+<!ENTITY noMigrationSources.label       "Құрамында бетбелгілер, шолу тарихы немесе парольдері бар бірде-бір бағдарлама табылмаған.">
 
 <!ENTITY importSource.title             "Баптаулар мен мәліметтер импорты">
 <!ENTITY importItems.title              "Импортталатын объектілер">
