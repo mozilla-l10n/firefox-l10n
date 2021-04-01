@@ -8,3 +8,6 @@ account-finish-account-setup = Ολοκλήρωση ρύθμισης λογαρ�
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-reconnect-to-fxa = Ο λογαριασμός αποσυνδέθηκε
+# Used as the FxA toolbar menu item title when the user
+# needs to reconnect their account.
+account-disconnected = Έχετε αποσυνδεθεί
