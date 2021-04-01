@@ -10,10 +10,10 @@ toolbar-context-menu-reload-selected-tabs =
     .accesskey = z
 toolbar-context-menu-bookmark-selected-tab =
     .label = Seçili sekmeyi yer imlerine ekle…
-    .accesskey = m
+    .accesskey = S
 toolbar-context-menu-bookmark-selected-tabs =
     .label = Seçili sekmeleri yer imlerine ekle…
-    .accesskey = r
+    .accesskey = S
 toolbar-context-menu-select-all-tabs =
     .label = Tüm sekmeleri seç
     .accesskey = ü
@@ -31,7 +31,7 @@ toolbar-context-menu-reopen-closed-tabs =
             [1] Kapatılan sekmeyi yeniden aç
            *[other] Kapatılan sekmeleri yeniden aç
         }
-    .accesskey = K
+    .accesskey = a
 toolbar-context-menu-manage-extension =
     .label = Uzantıyı yönet
     .accesskey = U
