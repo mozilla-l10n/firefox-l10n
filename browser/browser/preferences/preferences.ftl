@@ -135,6 +135,8 @@ search-results-empty-message =
         [windows] Λυπούμαστε! Δεν υπάρχουν αποτελέσματα για το “<span data-l10n-name="query"></span>” στις Επιλογές.
        *[other] Λυπούμαστε! Δεν υπάρχουν αποτελέσματα για το “<span data-l10n-name="query"></span>” στις Προτιμήσεις.
     }
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 = Λυπούμαστε! Δεν υπάρχουν αποτελέσματα για το “<span data-l10n-name="query"></span>” στις ρυθμίσεις.
 search-results-help-link = Χρειάζεστε βοήθεια; Επισκεφθείτε την <a data-l10n-name="url">Υποστήριξη { -brand-short-name }</a>
 
 ## General Section
@@ -399,6 +401,7 @@ update-setting-write-failure-message =
     Το { -brand-short-name } αντιμετώπισε σφάλμα και δεν αποθήκευσε αυτή την αλλαγή. Σημειώστε ότι η ρύθμιση αυτής της προτίμησης ενημερώσεων απαιτεί δικαίωμα εγγραφής στο παρακάτω αρχείο. Εσείς ή κάποιος διαχειριστής συστήματος ενδέχεται να μπορέσει να επιλύσει το σφάλμα, χορηγώντας στην ομάδα Χρήστες τον πλήρη έλεγχο για αυτό το αρχείο.
     
     Αδυναμία εγγραφής στο αρχείο: { $path }
+update-setting-write-failure-title2 = Σφάλμα αποθήκευσης ρυθμίσεων ενημερώσεων
 update-in-progress-title = Ενημέρωση σε εξέλιξη
 update-in-progress-message = Θέλετε το { -brand-short-name } να συνεχίσει με αυτή την ενημέρωση;
 update-in-progress-ok-button = &Απόρριψη
@@ -630,6 +633,8 @@ containers-back-button =
             [windows] Πίσω στις επιλογές
            *[other] Πίσω στις προτιμήσεις
         }
+containers-back-button2 =
+    .aria-label = Πίσω στις ρυθμίσεις
 containers-header = Θεματικές καρτέλες
 containers-add-button =
     .label = Προσθήκη νέας θεματικής ενότητας
@@ -691,6 +696,9 @@ prefs-sync-setup =
     .label = Ρύθμιση { -sync-brand-short-name }…
     .accesskey = Ρ
 prefs-sync-offer-setup-label = Συγχρονίστε τους σελιδοδείκτες, το ιστορικό, τις καρτέλες, τους κωδικούς πρόσβασης, τα πρόσθετα και τις προτιμήσεις σας με όλες τις συσκευές σας.
+prefs-sync-turn-on-syncing =
+    .label = Ενεργοποίηση συγχρονισμού…
+    .accesskey = ρ
 prefs-sync-now =
     .labelnotsyncing = Συγχρονισμός τώρα
     .accesskeynotsyncing = τ

@@ -41,3 +41,5 @@ synced-tabs-context-sync-now =
     .accesskey = Σ
 fxa-sign-in = Σύνδεση στο { -sync-brand-short-name }
 turn-on-sync = Ενεργοποίηση { -sync-brand-short-name }
+synced-tabs-fxa-sign-in = Σύνδεση για συγχρονισμό
+synced-tabs-turn-on-sync = Ενεργοποίηση συγχρονισμού
