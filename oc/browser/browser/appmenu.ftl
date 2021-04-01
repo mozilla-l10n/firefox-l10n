@@ -35,18 +35,24 @@ appmenuitem-more-tools =
     .label = Mai d’aisinas…
 appmenuitem-exit =
     .label = Sortir
-appmenuitem-exit2 =
-    .label =
-        { PLATFORM() ->
-            [linux] Quitar
-           *[other] Sortir
-        }
 appmenu-menu-button-closed =
     .tooltiptext = Dobrir lo menú d’aplicacion
     .label = { -brand-shorter-name }
 appmenu-menu-button-opened =
     .tooltiptext = Tampar lo menú d’aplicacion
     .label = { -brand-shorter-name }
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Quitar
+           *[other] Sortir
+        }
+appmenu-menu-button-closed2 =
+    .tooltiptext = Dobrir lo menú d’aplicacion
+    .label = { -brand-short-name }
+appmenu-menu-button-opened2 =
+    .tooltiptext = Tampar lo menú d’aplicacion
+    .label = { -brand-short-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -65,6 +71,10 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sincronizar ara
+appmenu-remote-tabs-sign-into-sync =
+    .label = Se connectar a la sincronizacion…
+appmenu-remote-tabs-turn-on-sync =
+    .label = Activar la sincronizacion…
 appmenuitem-fxa-toolbar-sync-now2 = Sincronizar ara
 appmenuitem-fxa-manage-account = Gestion del compte
 appmenu-fxa-header =

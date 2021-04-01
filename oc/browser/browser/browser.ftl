@@ -264,11 +264,15 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = Apondre als marcapaginas
+bookmarks-edit-bookmark = Modificar lo marcapagina
 bookmark-panel-show-editor-checkbox =
     .label = Mostrar l’editor en enregistrant
     .accesskey = M
 bookmark-panel-done-button =
     .label = Acabar
+bookmark-panel-save-button =
+    .label = Enregistrar
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
