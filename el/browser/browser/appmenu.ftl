@@ -35,18 +35,24 @@ appmenuitem-more-tools =
     .label = Περισσότερα εργαλεία
 appmenuitem-exit =
     .label = Έξοδος
-appmenuitem-exit2 =
-    .label =
-        { PLATFORM() ->
-            [linux] Έξοδος
-           *[other] Έξοδος
-        }
 appmenu-menu-button-closed =
     .tooltiptext = Άνοιγμα μενού εφαρμογής
     .label = { -brand-shorter-name }
 appmenu-menu-button-opened =
     .tooltiptext = Κλείσιμο μενού εφαρμογής
     .label = { -brand-shorter-name }
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Έξοδος
+           *[other] Έξοδος
+        }
+appmenu-menu-button-closed2 =
+    .tooltiptext = Άνοιγμα μενού εφαρμογής
+    .label = { -brand-short-name }
+appmenu-menu-button-opened2 =
+    .tooltiptext = Κλείσιμο μενού εφαρμογής
+    .label = { -brand-short-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -65,6 +71,10 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Συγχρονισμός τώρα
+appmenu-remote-tabs-sign-into-sync =
+    .label = Σύνδεση στο Sync…
+appmenu-remote-tabs-turn-on-sync =
+    .label = Ενεργοποίηση Sync…
 appmenuitem-fxa-toolbar-sync-now2 = Συγχρονισμός τώρα
 appmenuitem-fxa-manage-account = Διαχείριση λογαριασμού
 appmenu-fxa-header =

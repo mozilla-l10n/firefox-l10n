@@ -264,11 +264,15 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = Προσθήκη σελιδοδείκτη
+bookmarks-edit-bookmark = Επεξεργασία σελιδοδείκτη
 bookmark-panel-show-editor-checkbox =
     .label = Εμφάνιση επεξεργαστή κατά την αποθήκευση
     .accesskey = Ε
 bookmark-panel-done-button =
     .label = Τέλος
+bookmark-panel-save-button =
+    .label = Αποθήκευση
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
