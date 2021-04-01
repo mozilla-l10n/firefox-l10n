@@ -5,6 +5,9 @@
 places-open =
     .label = తెరువు
     .accesskey = O
+places-open-in-tab =
+    .label = కొత్త ట్యాబులో తెరువు
+    .accesskey = w
 places-open-tab =
     .label = కొత్త ట్యాబులో తెరువు
     .accesskey = w
