@@ -47,6 +47,12 @@ appmenuitem-exit2 =
             [linux] Avslutt
            *[other] Avslutt
         }
+appmenu-menu-button-closed2 =
+    .tooltiptext = Opne program-meny
+    .label = { -brand-short-name }
+appmenu-menu-button-opened2 =
+    .tooltiptext = Lat att program-meny
+    .label = { -brand-short-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
