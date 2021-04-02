@@ -18,6 +18,7 @@ login-filter =
 create-login-button = Luo uusi kirjautumistieto
 fxaccounts-sign-in-text = Käytä salasanojasi kaikilla laitteillasi
 fxaccounts-sign-in-button = Kirjaudu { -sync-brand-short-name }-palveluun
+fxaccounts-sign-in-sync-button = Kirjaudu synkronoidaksesi
 fxaccounts-avatar-button =
     .title = Hallitse tiliä
 

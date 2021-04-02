@@ -206,19 +206,20 @@ cfr-doorhanger-cryptominers-description = Yksityisyytesi on tärkeää. { -brand
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (Number) - The date we began recording the count of blocked trackers
+#   $date (String) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
        *[other] { -brand-short-name } on estänyt yli <b>{ $blockedCount }</b> seurainta { $date } lähtien!
     }
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Datetime) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading2 =
     { $blockedCount ->
        *[other] { -brand-short-name } on estänyt yli <b>{ $blockedCount }</b> seurainta { DATETIME($date, month: "long", year: "numeric") } alkaen!
     }
 cfr-doorhanger-milestone-ok-button = Näytä kaikki
     .accesskey = N
-cfr-doorhanger-milestone-close-button = Sulje
-    .accesskey = S
 
 ## What’s New Panel Content for Firefox 76
 
@@ -243,6 +244,12 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Kuva kuvassa -kuvake
 
 ## Protections Dashboard message
 
+cfr-doorhanger-milestone-close-button = Sulje
+    .accesskey = S
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
+
 cfr-whatsnew-protections-header = Suojausten yhteenveto
 cfr-whatsnew-protections-body = Suojausten yhteenveto sisältää yhteenvetoraportit tietovuodoista ja salasanojen hallinnasta. Voit nyt katsoa, kuinka monta tietovuotoa olet selvittänyt ja onko tallentamiasi salasanoja vuotanut tietovuodossa.
 cfr-whatsnew-protections-cta-link = Näytä suojausten yhteenveto
@@ -259,6 +266,8 @@ cfr-doorhanger-doh-body = Yksityisyydelläsi on merkitystä. { -brand-short-name
 cfr-doorhanger-doh-header = Turvallisemmat, salatut DNS-haut
 cfr-doorhanger-doh-primary-button = Selvä
     .accesskey = S
+cfr-doorhanger-doh-primary-button-2 = OK
+    .accesskey = O
 cfr-doorhanger-doh-secondary-button = Poista käytöstä
     .accesskey = P
 

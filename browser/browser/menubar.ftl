@@ -11,6 +11,8 @@
 
 ## Application Menu (macOS only)
 
+menu-application-preferences =
+    .label = Asetukset
 menu-application-services =
     .label = Palvelut
 menu-application-hide-this =
@@ -261,6 +263,9 @@ menu-tools-fxa-sign-in2 =
 menu-tools-turn-on-sync =
     .label = Ota { -sync-brand-short-name } käyttöön…
     .accesskey = O
+menu-tools-turn-on-sync2 =
+    .label = Ota synkronointi käyttöön…
+    .accesskey = O
 menu-tools-sync-now =
     .label = Synkronoi
     .accesskey = S
@@ -270,6 +275,12 @@ menu-tools-fxa-re-auth =
 menu-tools-web-developer =
     .label = Web-työkalut (englanninkielisiä)
     .accesskey = W
+menu-tools-browser-tools =
+    .label = Selaintyökalut
+    .accesskey = S
+menu-tools-task-manager =
+    .label = Tehtävienhallinta
+    .accesskey = T
 menu-tools-page-source =
     .label = Sivun lähdekoodi
     .accesskey = n
@@ -347,6 +358,9 @@ menu-help-troubleshooting-info =
     .accesskey = T
 menu-help-taskmanager =
     .label = Tehtävienhallinta
+menu-help-more-troubleshooting-info =
+    .label = Lisää vianmääritystietoja
+    .accesskey = L
 menu-help-report-site-issue =
     .label = Ilmoita sivuston ongelmasta…
 menu-help-feedback-page =
@@ -358,6 +372,12 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Käynnistä uudelleen lisäosat päällä
     .accesskey = K
+menu-help-enter-troubleshoot-mode2 =
+    .label = Vianmääritystila…
+    .accesskey = V
+menu-help-exit-troubleshoot-mode =
+    .label = Poista vianmääritystila käytöstä
+    .accesskey = P
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =

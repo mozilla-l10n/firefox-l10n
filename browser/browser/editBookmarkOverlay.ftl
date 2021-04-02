@@ -46,5 +46,5 @@ bookmark-overlay-keyword =
     .value = Pikakomento:
     .accesskey = P
 bookmark-overlay-keyword-2 =
-    .value = Avainsana
-    .accesskey = A
+    .value = Pikakomento
+    .accesskey = P

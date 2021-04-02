@@ -32,6 +32,7 @@ appmenu-update-restart =
     .secondarybuttonlabel = Ei nyt
     .secondarybuttonaccesskey = E
 appmenu-update-restart-message = Nopean uudelleenkäynnistyksen jälkeen { -brand-shorter-name } palauttaa kaikki välilehdet ja ikkunat, jotka eivät olleet yksityisen selauksen tilassa.
+appmenu-update-available-message2 = Lataa uusin { -brand-shorter-name }-versio.
 appmenu-update-other-instance =
     .label = { -brand-shorter-name } ei pysty automaattisesti päivittymään uusimpaan versioon.
     .buttonlabel = Päivitä { -brand-shorter-name } silti

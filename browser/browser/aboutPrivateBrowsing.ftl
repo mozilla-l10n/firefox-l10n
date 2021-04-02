@@ -14,11 +14,11 @@ about-private-browsing =
 about-private-browsing-handoff =
     .title = Hae hakukoneella { $engine } tai kirjoita osoite
 about-private-browsing-handoff-no-engine =
-    .title = Kirjoita osoite tai hakutermi
+    .title = Kirjoita osoite tai hakusana
 # Variables
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff-text = Hae hakukoneella { $engine } tai kirjoita osoite
-about-private-browsing-handoff-text-no-engine = Kirjoita osoite tai hakutermi
+about-private-browsing-handoff-text-no-engine = Kirjoita osoite tai hakusana
 about-private-browsing-not-private = Tämä ei ole yksityinen selausikkuna.
 about-private-browsing-info-description = { -brand-short-name } poistaa haku- ja selaushistorian, kun ohjelma suljetaan tai kaikki yksityisen selauksen välilehdet ja ikkunat suljetaan. Tämä ei tee sinusta anonyymiä sivustoille tai internetpalveluntarjoajallesi, mutta helpottaa pitämään verkossa tekemäsi asiat yksityisinä muilta, jotka käyttävät tätä tietokonetta.
 about-private-browsing-need-more-privacy = Tarvitsetko lisää yksityisyyttä?
