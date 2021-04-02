@@ -23,9 +23,25 @@ compatibility-issue-deprecated-experimental-prefixneeded = (deplorât, speriment
 compatibility-settings-button-label = Impostazions
 compatibility-settings-button-title =
     .title = Impostazions
+compatibility-feedback-button-label = Opinions
+compatibility-feedback-button-title =
+    .title = Opinions
 
 ## Messages used as headers in settings pane
 
+compatibility-settings-header = Impostazions
+compatibility-target-browsers-header = Navigadôrs obietîfs
 
 ##
 
+# Text used as the label for the number of nodes where the issue occurred
+# Variables:
+#   $number (Number) - The number of nodes where the issue occurred
+compatibility-issue-occurrences =
+    { $number ->
+        [one] { $number } câs
+       *[other] { $number } câs
+    }
+compatibility-no-issues-found = Nissun probleme di compatibilitât cjatât.
+compatibility-close-settings-button =
+    .title = Siere lis impostazions
