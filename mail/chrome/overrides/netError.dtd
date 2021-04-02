@@ -133,5 +133,9 @@ functionality specific to thunderbird. -->
 <!ENTITY inadequateSecurityError.title "A conexión non é segura">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> usa tecnoloxía de seguranza que está obsoleta e é vulnerábel a un ataque. Un atacante podería doadamente obter información que vostede considera segura. O administrador do sitio web debe corrixir o servidor antes de que vostede poida visitar o sitio</p><p>Código de erro: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
+<!ENTITY blockedByPolicy.title "Páxina bloqueada">
 
+<!ENTITY networkProtocolError.title "Erro do protocolo de rede">
+<!ENTITY networkProtocolError.longDesc "<p>Non é posíbel amosar a páxina a que está a tentar acceder porque se detectou un erro no protocolo da rede.</p><ul><li>Contacte coas persoas propietarias do sitio web para informalas deste problema.</li></ul>">
