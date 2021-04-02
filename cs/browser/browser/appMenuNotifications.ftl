@@ -99,6 +99,7 @@ appmenu-addon-post-install-message = Své doplňky spravujte klepnutím na <imag
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = OK
     .buttonaccesskey = O
+appmenu-addon-post-install-message2 = Spravujte svá rozšíření a vzhledy z hlavní nabídky aplikace.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Povolit toto rozšíření v anonymních oknech
     .accesskey = P
