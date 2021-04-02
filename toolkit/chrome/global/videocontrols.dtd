@@ -8,7 +8,7 @@
 
 <!ENTITY playButton.playLabel "Toista">
 <!ENTITY playButton.pauseLabel "Pysäytä">
-<!ENTITY muteButton.muteLabel "Mykistä ääni">
+<!ENTITY muteButton.muteLabel "Vaimenna ääni">
 <!ENTITY muteButton.unmuteLabel "Palauta ääni">
 <!ENTITY fullscreenButton.enterfullscreenlabel "Kokoruututila">
 <!ENTITY fullscreenButton.exitfullscreenlabel "Poistu kokoruututilasta">
