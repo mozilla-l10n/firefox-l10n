@@ -60,6 +60,7 @@ was trying to connect. -->
 
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc2 "Маълумоти муфассал: SSL_ERROR_UNSUPPORTED_VERSION">
 
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
