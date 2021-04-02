@@ -21,6 +21,14 @@
 <!ENTITY savePageCmd.commandkey "S">
 <!ENTITY pageSetupCmd.label "Configuración da páxina…">
 <!ENTITY pageSetupCmd.accesskey "u">
+<!ENTITY printPreviewCmd.label "Vista previa da impresión">
+<!ENTITY printPreviewCmd.accesskey "v">
+<!ENTITY printCmd.label "Imprimir…">
+<!ENTITY printCmd.accesskey "p">
+<!ENTITY printCmd.commandkey "P">
+<!ENTITY closeCmd.label "Pechar">
+<!ENTITY closeCmd.accesskey "c">
+<!ENTITY closeCmd.commandkey "W">
 
 <!-- LOCALIZATION NOTE :
 textEnlarge.commandkey3, textReduce.commandkey2 and
@@ -28,8 +36,23 @@ textReset.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
+<!ENTITY textEnlarge.commandkey "+">
+<!ENTITY textEnlarge.commandkey2 "=">
+<!ENTITY textEnlarge.commandkey3 "">
+<!ENTITY textReduce.commandkey "-">
+<!ENTITY textReduce.commandkey2 "">
+<!ENTITY textReset.commandkey "0">
+<!ENTITY textReset.commandkey2 "">
 
+<!ENTITY goToLineCmd.label "Ir á liña…">
+<!ENTITY goToLineCmd.accesskey "I">
+<!ENTITY goToLineCmd.commandkey "l">
 
+<!ENTITY viewMenu.label           "Ver">
+<!ENTITY viewMenu.accesskey       "V">
+<!ENTITY reloadCmd.label "Recargar">
+<!ENTITY reloadCmd.accesskey "R">
+<!ENTITY reloadCmd.commandkey "r">
 
 
 
