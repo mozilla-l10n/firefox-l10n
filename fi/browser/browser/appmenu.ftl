@@ -7,6 +7,12 @@
 
 appmenuitem-update-banner =
     .label-update-downloading = Ladataan { -brand-shorter-name }-päivitystä
+appmenuitem-update-banner2 =
+    .label-update-downloading = Ladataan { -brand-shorter-name }-päivitystä
+    .label-update-available = Päivitys saatavilla – lataa nyt
+    .label-update-manual = Päivitys saatavilla – lataa nyt
+    .label-update-unsupported = Päivittäminen ei onnistu
+    .label-update-restart = Päivitys saatavilla – käynnistä uudelleen nyt
 appmenuitem-protection-dashboard-title = Suojausten yhteenveto
 appmenuitem-customize-mode =
     .label = Muokkaa…
@@ -147,6 +153,9 @@ appmenu-help-troubleshooting-info =
     .accesskey = T
 appmenu-help-taskmanager =
     .label = Tehtävienhallinta
+appmenu-help-more-troubleshooting-info =
+    .label = Lisää vianmääritystietoja
+    .accesskey = v
 appmenu-help-report-site-issue =
     .label = Ilmoita sivuston ongelmasta…
 appmenu-help-feedback-page =
@@ -166,6 +175,12 @@ appmenu-help-safe-mode-with-addons =
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-enter-troubleshoot-mode2 =
+    .label = Vianmääritystila…
+    .accesskey = m
+appmenu-help-exit-troubleshoot-mode =
+    .label = Poista vianmääritystila käytöstä
+    .accesskey = P
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
