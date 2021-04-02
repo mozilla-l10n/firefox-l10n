@@ -29,6 +29,17 @@ search-input-box =
            *[other] Hae asetuksista
         }
 settings-page-title = Asetukset
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box2 =
+    .style = width: 15.4em
+    .placeholder = Hae asetuksista
 managed-notice = Organisaatiosi hallitsee selaimesi asetuksia.
 category-list =
     .aria-label = Luokat
@@ -47,12 +58,16 @@ category-privacy =
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
+pane-sync-title3 = Synkronointi
+category-sync3 =
+    .tooltiptext = { pane-sync-title3 }
 pane-experimental-title = { -brand-short-name }-kokeilut
 category-experimental =
     .tooltiptext = { -brand-short-name }-kokeilut
 pane-experimental-subtitle = Jatka varoen
 pane-experimental-search-results-header = { -brand-short-name }-kokeilut: jatka varoen
 pane-experimental-description = Lisäasetusten muuttaminen voi vaikuttaa { -brand-short-name }in suorituskykyyn tai tietoturvaan.
+pane-experimental-description2 = Lisäasetusten muuttaminen voi vaikuttaa { -brand-short-name }in suorituskykyyn tai tietoturvaan.
 pane-experimental-reset =
     .label = Palauta oletukset
     .accesskey = P
@@ -122,6 +137,8 @@ search-results-empty-message =
         [windows] Ei hakutuloksia asetuksista haulle ”<span data-l10n-name="query"></span>”.
        *[other] Ei hakutuloksia asetuksista haulle ”<span data-l10n-name="query"></span>”.
     }
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 = Ei hakutuloksia asetuksista haulle ”<span data-l10n-name="query"></span>”.
 search-results-help-link = Tarvitsetko apua? Avaa <a data-l10n-name="url">{ -brand-short-name }-tuki</a>
 
 ## General Section
@@ -386,6 +403,7 @@ update-setting-write-failure-message =
     { -brand-short-name } havaitsi virheen eikä tallentanut tätä muutosta. Huomaa, että tämän päivitysasetuksen muuttaminen vaatii oikeuden kirjoittaa alla olevaan tiedostoon. Sinä tai järjestelmän ylläpitäjä voi pystyä ratkaisemaan virheen antamalla täydet oikeudet tähän tiedostoon Käyttäjät-ryhmälle.
     
     Ei onnistuttu kirjoittamaan tiedostoon: { $path }
+update-setting-write-failure-title2 = Päivitysasetusten tallennusvirhe
 update-in-progress-title = Päivitys meneillään
 update-in-progress-message = Haluatko, että { -brand-short-name } jatkaa tämän päivityksen asentamista?
 update-in-progress-ok-button = &Hylkää
@@ -638,10 +656,10 @@ containers-remove-button =
 
 sync-signedout-caption = Pidä oma selain aina mukanasi
 sync-signedout-description = Synkronoi kirjanmerkit, sivuhistoria, välilehdet, salasanat, lisäosat ja asetukset kaikilla laitteillasi.
-sync-signedout-description2 = Synkronoi kirjanmerkit, sivuhistoria, välilehdet, salasanat, lisäosat ja asetukset kaikilla laitteillasi.
 sync-signedout-account-signin2 =
     .label = Kirjaudu { -sync-brand-short-name }-palveluun…
     .accesskey = i
+sync-signedout-description2 = Synkronoi kirjanmerkit, sivuhistoria, välilehdet, salasanat, lisäosat ja asetukset kaikilla laitteillasi.
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download

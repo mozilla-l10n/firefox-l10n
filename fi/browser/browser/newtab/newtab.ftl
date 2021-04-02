@@ -19,6 +19,16 @@ newtab-search-box-search-button =
     .title = Haku
     .aria-label = Haku
 newtab-search-box-search-the-web-text = Verkkohaku
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-text = Hae hakukoneella { $engine } tai kirjoita osoite
+newtab-search-box-handoff-text-no-engine = Kirjoita osoite tai hakusana
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-input =
+    .placeholder = Hae hakukoneella { $engine } tai kirjoita osoite
+    .title = Hae hakukoneella { $engine } tai kirjoita osoite
+    .aria-label = Hae hakukoneella { $engine } tai kirjoita osoite
 newtab-search-box-handoff-input-no-engine =
     .placeholder = Kirjoita osoite tai hakusana
     .title = Kirjoita osoite tai hakusana
