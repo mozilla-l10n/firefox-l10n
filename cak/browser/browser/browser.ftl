@@ -346,7 +346,7 @@ browser-window-minimize-button =
 browser-window-maximize-button =
     .tooltiptext = Tinimirisäx
 browser-window-restore-down-button =
-    .tooltiptext = Tichojmirisäx Ikim
+    .tooltiptext = Tich'utinisäx Ikim
 browser-window-close-button =
     .tooltiptext = Titz'apïx
 
