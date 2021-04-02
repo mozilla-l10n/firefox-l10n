@@ -37,3 +37,4 @@ synced-tabs-context-sync-now =
     .accesskey = Ҳ
 fxa-sign-in = Ба { -sync-brand-short-name } ворид шавед
 turn-on-sync = Фаъол кардани { -sync-brand-short-name }
+synced-tabs-fxa-sign-in = Барои ҳамоҳангсозӣ ворид шавед

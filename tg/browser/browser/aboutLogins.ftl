@@ -18,6 +18,7 @@ login-filter =
 create-login-button = Эҷод кардани воридшавии нав
 fxaccounts-sign-in-text = Ниҳонвожаҳои худро дар дастгоҳҳои дигари худ ба даст оред
 fxaccounts-sign-in-button = Ба { -sync-brand-short-name } ворид шавед
+fxaccounts-sign-in-sync-button = Барои ҳамоҳангсозӣ ворид шавед
 fxaccounts-avatar-button =
     .title = Идоракунии ҳисобҳо
 

@@ -10,6 +10,7 @@ fxa-toolbar-sync-syncing2 = Ҳамоҳангсозӣ…
 sync-disconnect-dialog-title = Пайвасти { -sync-brand-short-name }-ро қатъ мекунед?
 fxa-disconnect-dialog-title = Пайвасти { -brand-product-name }-ро қатъ мекунед?
 sync-disconnect-dialog-button = Қатъ кардани пайваст
+fxa-signout-dialog-heading = Аз { -fxaccount-brand-name } хориҷ мешавед?
 fxa-signout-checkbox =
     .label = Нест кардани маълумот аз ин дастгоҳ (воридшавиҳо, таърих, хатбаракҳо ва ғайра)
 fxa-signout-dialog2-checkbox = Нест кардани маълумот аз ин дастгоҳ (ниҳонвожаҳо, таърих, хатбаракҳо ва ғайра)

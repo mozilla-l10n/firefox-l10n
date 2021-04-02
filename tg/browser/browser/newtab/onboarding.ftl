@@ -80,6 +80,7 @@ onboarding-tracking-protection-title2 = Муҳофизат аз пайгирӣ
 onboarding-tracking-protection-button2 = Чӣ тавр кор мекунад
 onboarding-data-sync-title = Танзимоти худро бо худ гиред
 onboarding-data-sync-button2 = Ба { -sync-brand-short-name } ворид шавед
+onboarding-firefox-monitor-button = Барои огоҳиҳо обуна шавед
 onboarding-browse-privately-title = Тамошокунии махфӣ
 onboarding-browse-privately-button = Кушодани равзанаи махфӣ
 onboarding-firefox-send-button = { -send-brand-name }-ро озмоед

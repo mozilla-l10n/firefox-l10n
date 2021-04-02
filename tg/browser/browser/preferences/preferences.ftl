@@ -490,11 +490,17 @@ sync-signedout-caption = Сомонаҳо худро бо худ гиред
 sync-signedout-account-signin2 =
     .label = Ба { -sync-brand-short-name } ворид шавед…
     .accesskey = Б
+sync-signedout-account-signin3 =
+    .label = Барои ҳамоҳангсозӣ ворид шавед…
+    .accesskey = Б
 
 ## Firefox Account - Signed in
 
 sync-profile-picture =
     .tooltiptext = Иваз кардани расми профил
+sync-sign-out =
+    .label = Баромадан…
+    .accesskey = Б
 sync-manage-account = Идоракунии ҳисобҳо
     .accesskey = И
 sync-signedin-unverified = { $email } тасдиқ нашудааст.

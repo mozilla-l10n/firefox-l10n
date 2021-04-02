@@ -42,6 +42,11 @@ this container is a toolbar. This avoids double-speaking. -->
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.syncSettings2.label "Танзимоти &syncBrand.shortName.label;">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     followed by the user's email. -->
+<!ENTITY fxa.menu.connectAnotherDevice2.label "Пайваст кардани дастгоҳи дигар…">
 <!ENTITY fxa.menu.signin.label "Ворид шудан ба &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Фаъол кардани &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "Хидматҳои &brandProductName;">
@@ -129,6 +134,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuHelp.label "Кумак">
 
 <!ENTITY appMenuRemoteTabs.label "Варақаҳои ҳамоҳангшуда">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Ягон варақаи кушодашуда нест">
