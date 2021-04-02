@@ -58,13 +58,7 @@ about-webrtc-ice-pair-bytes-sent = Tavuja lähetetty:
 about-webrtc-ice-pair-bytes-received = Tavuja vastaanotettu:
 about-webrtc-ice-component-id = Komponentin tunniste
 
-##
-
-
 ## "Avg." is an abbreviation for Average. These are used as data labels.
-
-
-##
 
 
 ## These adjectives are used to label a line of statistics collected for a peer
@@ -179,6 +173,30 @@ about-webrtc-aec-logging-off-state-msg = kaapatut lokitiedostot kohteessa: { $pa
 
 ##
 
+# This is the total number of packets received on the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets received.
+about-webrtc-received-label =
+    { $packets ->
+        [one] Vastaanotettu { $packets } paketti
+       *[other] Vastaanotettu { $packets } pakettia
+    }
+# This is the total number of packets lost by the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets lost.
+about-webrtc-lost-label =
+    { $packets ->
+        [one] Kadotettu { $packets } paketti
+       *[other] Kadotettu { $packets } pakettia
+    }
+# This is the total number of packets sent by the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets sent.
+about-webrtc-sent-label =
+    { $packets ->
+        [one] Lähetetty { $packets } paketti
+       *[other] Lähetetty { $packets } pakettia
+    }
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:

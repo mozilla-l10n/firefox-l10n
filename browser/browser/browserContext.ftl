@@ -102,6 +102,18 @@ main-context-menu-bookmark-add =
     .aria-label = Lisää sivu kirjanmerkkeihin
     .accesskey = k
     .tooltiptext = Lisää kirjanmerkki
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-add-mac =
+    .label = Lisää sivu kirjanmerkkeihin
+    .accesskey = m
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-edit-mac =
+    .label = Muokkaa kirjanmerkkiä
+    .accesskey = M
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-add-with-shortcut =
@@ -136,6 +148,9 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-bookmark-this-link =
     .label = Lisää kohde kirjanmerkkeihin
     .accesskey = A
+main-context-menu-bookmark-link =
+    .label = Lisää linkki kirjanmerkkeihin
+    .accesskey = L
 main-context-menu-save-link =
     .label = Tallenna kohde levylle…
     .accesskey = T
@@ -257,6 +272,12 @@ main-context-menu-image-view =
 main-context-menu-video-view =
     .label = Näytä video
     .accesskey = N
+main-context-menu-image-view-new-tab =
+    .label = Avaa kuva uuteen välilehteen
+    .accesskey = A
+main-context-menu-video-view-new-tab =
+    .label = Avaa video uuteen välilehteen
+    .accesskey = v
 main-context-menu-image-copy =
     .label = Kopioi kuva
     .accesskey = u
@@ -305,6 +326,9 @@ main-context-menu-audio-save-as =
 main-context-menu-video-image-save-as =
     .label = Tallenna ruutukaappaus nimellä…
     .accesskey = T
+main-context-menu-video-take-snapshot =
+    .label = Ota kuva…
+    .accesskey = O
 main-context-menu-video-email =
     .label = Lähetä video…
     .accesskey = L
@@ -391,6 +415,9 @@ main-context-menu-print-selection =
 main-context-menu-view-selection-source =
     .label = Näytä valinnan lähdekoodi
     .accesskey = n
+main-context-menu-take-screenshot =
+    .label = Ota kuvakaappaus
+    .accesskey = O
 main-context-menu-view-page-source =
     .label = Näytä sivun lähdekoodi
     .accesskey = k
