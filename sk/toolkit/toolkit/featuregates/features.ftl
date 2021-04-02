@@ -17,7 +17,7 @@ experimental-features-media-avif-description = Ak je táto funkcia povolená, ap
 experimental-features-web-api-inputmode =
     .label = Web API: inputmode
 # "inputmode" and "contenteditable" are technical terms and shouldn't be translated.
-experimental-features-web-api-inputmode-description = Naša implementácia globálneho atribútu <a data-l10n-name="mdn-inputmode"> inputmode </a> bola aktualizovaná podľa <a data-l10n-name="whatwg"> špecifikácie WHATWG </a>, ale stále musíme urobiť ďalšie zmeny, napríklad sprístupniť ho pre upraviteľný obsah. Ďalšie informácie nájdete v <a data-l10n-name="bugzilla">bugzille, bug 1205133</a>.
+experimental-features-web-api-inputmode-description = Naša implementácia globálneho atribútu <a data-l10n-name="mdn-inputmode"> inputmode </a> bola aktualizovaná podľa <a data-l10n-name="whatwg"> špecifikácie WHATWG </a>, ale stále musíme urobiť ďalšie zmeny, napríklad sprístupniť ho pre upraviteľný obsah definovaný pomocou atribútu “contenteditable”. Ďalšie informácie nájdete v <a data-l10n-name="bugzilla">bugzille, bug 1205133</a>.
 experimental-features-devtools-color-scheme-simulation =
     .label = Nástroje pre vývojárov: Simulácia farebnej schémy
 experimental-features-devtools-color-scheme-simulation-description = Pridáva možnosť simulovať rôzne farebné schémy, čo vám umožňuje testovať media queries <a data-l10n-name="mdn-preferscolorscheme">@prefers-color-scheme</a>. Použitie tejto media query umožní vašej šablóne so štýlmi reagovať na to, či používateľ uprednostňuje svetlé alebo tmavé používateľské rozhranie. Táto funkcia umožňuje otestovať váš kód bez toho, aby ste museli meniť nastavenia v prehliadači (alebo operačnom systéme, ak prehliadač dodržiava nastavenie farebnej schémy v celom systéme). Ďalšie informácie nájdete v bugzille <a data-l10n-name="bugzilla1">bug 1550804</a> a <a data-l10n-name="bugzilla2">bug 1137699</a>.
@@ -27,6 +27,7 @@ experimental-features-devtools-compatibility-panel-description = Bočný panel n
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Cookies: SameSite=Lax v predvolenom nastavení
+experimental-features-cookie-samesite-lax-by-default2-description = Ak nie je špecifikovaný atribút “SameSite”, štandardne sa pre súbory cookie použije hodnota “SameSite=Lax”. Súčasný stav neobmedzeného používania cookies je nutné po zapnutí tejto voľby explicitne určiť v kóde stránky nastavením hodnoty “SameSite=None”.
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
     .label = Nástroje pre vývojárov: ladenie skriptov typu worker
