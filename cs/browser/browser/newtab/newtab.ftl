@@ -8,7 +8,7 @@
 newtab-page-title = Nový panel
 newtab-settings-button =
     .title = Přizpůsobení stránky nového panelu
-newtab-personalize-button-label = Přizpůsobení
+newtab-personalize-button-label = Přizpůsobit
     .title = Přizpůsobení nového panelu
     .aria-label = Přizpůsobení nového panelu
 
