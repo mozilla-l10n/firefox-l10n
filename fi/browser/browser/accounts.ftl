@@ -8,3 +8,6 @@ account-finish-account-setup = Viimeistele tilin käyttöönotto
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-reconnect-to-fxa = Yhteys tiliin katkaistu
+# Used as the FxA toolbar menu item title when the user
+# needs to reconnect their account.
+account-disconnected = Yhteys on katkaistu

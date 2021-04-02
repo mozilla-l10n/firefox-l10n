@@ -71,6 +71,10 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Synkronoi
+appmenu-remote-tabs-sign-into-sync =
+    .label = Kirjaudu synkronoidaksesi…
+appmenu-remote-tabs-turn-on-sync =
+    .label = Ota synkronointi käyttöön…
 appmenuitem-fxa-toolbar-sync-now2 = Synkronoi nyt
 appmenuitem-fxa-manage-account = Hallinnoi tiliä
 appmenu-fxa-header =

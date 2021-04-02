@@ -440,11 +440,11 @@ enable-devtools-popup-description = Voit käyttää F12-pikanäppäintä, kun ol
 ## URL Bar
 
 urlbar-default-placeholder =
-    .defaultPlaceholder = Kirjoita osoite tai hakutermi
+    .defaultPlaceholder = Kirjoita osoite tai hakusana
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
-    .placeholder = Kirjoita osoite tai hakutermi
+    .placeholder = Kirjoita osoite tai hakusana
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
