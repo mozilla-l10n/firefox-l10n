@@ -18,6 +18,7 @@ login-filter =
 create-login-button = Creu Mewngofnod Newydd
 fxaccounts-sign-in-text = Defnyddiwch eich cyfrineiriau ar eich dyfeisiau eraill
 fxaccounts-sign-in-button = Mewngofnodi i { -sync-brand-short-name }
+fxaccounts-sign-in-sync-button = Mewngofnodi i gydweddu
 fxaccounts-avatar-button =
     .title = Rheoli cyfrif
 
@@ -74,6 +75,7 @@ about-logins-list-item-vulnerable-password-icon =
 
 login-intro-heading = Chwilio am eich mewngofnodi wedi'u cadw? Gosodwch { -sync-brand-short-name }.
 about-logins-login-intro-heading-logged-out = Chwilio am eich mewngofnodion wedi'u cadw? Gosodwch { -sync-brand-short-name } neu eu Mewnforio.
+about-logins-login-intro-heading-logged-out2 = Yn chwilio am eich mewngofnodi wedi'u cadw? Trowch cydweddu ymlaen neu eu mewnforio.
 about-logins-login-intro-heading-logged-in = Heb ganfod mewngofnodion wedi'u cydweddu.
 login-intro-description = Os gwnaethoch gadw eich mewngofnodion i { -brand-product-name } ar ddyfais wahanol, dyma sut i'w cael yma:
 login-intro-instruction-fxa = Creu neu fewngofnodi i'ch { -fxaccount-brand-name } ar y ddyfais lle mae'ch mewngofnodion yn cael eu cadw
