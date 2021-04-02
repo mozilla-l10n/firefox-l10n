@@ -54,7 +54,7 @@ experimental-features-abouthome-startup-cache-description = Vyrovnávacia pamä�
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
     .label = Súbory cookie: správanie Schemeful SameSite
-experimental-features-cookie-samesite-schemeful-description = Zaobchádzajte so súbormi cookie z tej istej domény, ale s rôznymi schémami (napr. http://priklad.sk a https://priklad.sk), ako s cookies tretích strán. Zvyšuje bezpečnosť, ale potenciálne vedie k rozbitiu stránok.
+experimental-features-cookie-samesite-schemeful-description = Zaobchádzajte so súbormi cookie z tej istej domény, ale s rôznymi schémami (napr. http://example.com a https://example.com), ako s cookies tretích strán. Zvyšuje bezpečnosť, ale potenciálne vedie k rozbitiu stránok.
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
     .label = Nástroje pre vývojárov: ladenie skriptov typu worker
