@@ -71,6 +71,7 @@ about-logins-list-item-vulnerable-password-icon =
 
 login-intro-heading = Suchen Sie Ihre gespeicherten Zugangsdaten? Richten Sie { -sync-brand-short-name } ein.
 about-logins-login-intro-heading-logged-out = Suchen Sie Ihre gespeicherten Zugangsdaten? Richten Sie { -sync-brand-short-name } ein oder importieren Sie diese.
+about-logins-login-intro-heading-logged-out2 = Suchen Sie Ihre gespeicherten Zugangsdaten? Aktivieren Sie die Synchronisation oder importieren Sie diese.
 about-logins-login-intro-heading-logged-in = Keine synchronisierten Zugangsdaten gefunden.
 login-intro-description = Wenn Sie Ihre Zugangsdaten in { -brand-product-name } auf einem anderen Gerät gespeichert haben, können Sie diese hier abrufen:
 login-intro-instruction-fxa = Auf dem Gerät mit Ihren gespeicherten Zugangsdaten: Erstellen Sie ein { -fxaccount-brand-name } oder melden Sie sich damit an.
