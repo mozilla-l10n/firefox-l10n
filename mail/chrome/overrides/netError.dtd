@@ -22,6 +22,13 @@
 <!ENTITY fileNotFound.title "Non se atopou o ficheiro">
 <!ENTITY fileNotFound.longDesc "<ul><li>Comprobe o uso de maiúsculas no nome do ficheiro ou outros erros de escrita.</li><li>Comprobe se o ficheiro foi movido, renomeado ou borrado.</li></ul>">
 
+<!ENTITY fileAccessDenied.title "Denegouse o acceso ao ficheiro">
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>Pode que fosen eliminados, movidos ou que os permisos do ficheiro impidan o acceso .</li>
+</ul>
+">
+
 <!ENTITY generic.title "Vaites.">
 <!ENTITY generic.longDesc "<p>Non é posíbel que &brandShortName; cargue esta páxina por algunha razón.</p>
 ">
@@ -99,6 +106,9 @@
 <!ENTITY cspBlocked.title "Bloqueado pola política de seguranza de contidos">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; impediu que esta páxina se cargue desta forma porque a páxina ten una política de seguranza de contido que non o permite.</p>">
 
+<!ENTITY xfoBlocked.title "Bloqueado pola política X-Frame-Options">
+
+
 <!ENTITY securityOverride.linkText "Ou pode engadir unha excepción…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Sáqueme de aquí!">
 <!ENTITY securityOverride.exceptionButtonLabel "Engadir excepción…">
@@ -116,4 +126,8 @@ functionality specific to thunderbird. -->
 
 <!ENTITY remoteXUL.title "XUL remoto">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Contacte cos propietarios do sitio web para informalos deste problema.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+
 
