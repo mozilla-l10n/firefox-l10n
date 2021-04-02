@@ -41,6 +41,18 @@ appmenu-menu-button-closed =
 appmenu-menu-button-opened =
     .tooltiptext = პროგრამის მენიუს დახურვა
     .label = { -brand-shorter-name }
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] დახურვა
+           *[other] გასვლა
+        }
+appmenu-menu-button-closed2 =
+    .tooltiptext = პროგრამის მენიუს გახსნა
+    .label = { -brand-short-name }
+appmenu-menu-button-opened2 =
+    .tooltiptext = პროგრამის მენიუს დახურვა
+    .label = { -brand-short-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -59,6 +71,10 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = დასინქრონება ახლავე
+appmenu-remote-tabs-sign-into-sync =
+    .label = სინქრონიზაციაში შესვლა…
+appmenu-remote-tabs-turn-on-sync =
+    .label = დასინქრონების ჩართვა…
 appmenuitem-fxa-toolbar-sync-now2 = დასინქრონება ახლავე
 appmenuitem-fxa-manage-account = ანგარიშის მართვა
 appmenu-fxa-header =
