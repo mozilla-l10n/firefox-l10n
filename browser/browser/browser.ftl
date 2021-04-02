@@ -371,6 +371,12 @@ browser-tab-unmute =
         [1] PALAUTA ÄÄNI VÄLILEHTEEN
        *[other] PALAUTA ÄÄNI { $count } VÄLILEHTEEN
     }
+browser-tab-unblock =
+    { $count ->
+        [1] TOISTA ÄÄNI VÄLILEHDELLÄ
+        [one] TOISTA ÄÄNI VÄLILEHDELLÄ
+       *[other] TOISTA ÄÄNI { $count } VÄLILEHDELLÄ
+    }
 
 ## Bookmarks toolbar items
 
@@ -662,6 +668,7 @@ panel-save-update-password = Salasana
 # Variables:
 #  $name (String): The name of the addon that will be removed.
 addon-removal-title = Poistetaanko { $name }?
+addon-removal-abuse-report-checkbox = Raportoi tämä laajennus { -vendor-short-name }lle
 
 ## Remote / Synced tabs
 
