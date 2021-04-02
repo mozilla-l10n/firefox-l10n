@@ -35,18 +35,24 @@ appmenuitem-more-tools =
     .label = Thêm công cụ
 appmenuitem-exit =
     .label = Thoát
-appmenuitem-exit2 =
-    .label =
-        { PLATFORM() ->
-            [linux] Thoát
-           *[other] Thoát
-        }
 appmenu-menu-button-closed =
     .tooltiptext = Mở menu ứng dụng
     .label = { -brand-shorter-name }
 appmenu-menu-button-opened =
     .tooltiptext = Đóng menu ứng dụng
     .label = { -brand-shorter-name }
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Thoát
+           *[other] Thoát
+        }
+appmenu-menu-button-closed2 =
+    .tooltiptext = Mở menu ứng dụng
+    .label = { -brand-short-name }
+appmenu-menu-button-opened2 =
+    .tooltiptext = Đóng menu ứng dụng
+    .label = { -brand-short-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -65,6 +71,10 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Đồng bộ ngay
+appmenu-remote-tabs-sign-into-sync =
+    .label = Đăng nhập để đồng bộ hóa…
+appmenu-remote-tabs-turn-on-sync =
+    .label = Bật đồng bộ hóa…
 appmenuitem-fxa-toolbar-sync-now2 = Đồng bộ ngay
 appmenuitem-fxa-manage-account = Quản lý tài khoản
 appmenu-fxa-header =
