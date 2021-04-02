@@ -56,6 +56,7 @@ printui-margins-default = Standard
 printui-margins-min = Minimum
 printui-margins-none = Ingen
 printui-margins-custom-inches = Eigendefinert (tommar)
+printui-margins-custom-mm = Tilpassa (mm)
 printui-margins-custom-top = Topp
 printui-margins-custom-top-inches = Topp (tommar)
 printui-margins-custom-top-mm = Topp (mm)
