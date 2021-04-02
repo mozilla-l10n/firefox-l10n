@@ -53,6 +53,24 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY reloadCmd.label "Recargar">
 <!ENTITY reloadCmd.accesskey "R">
 <!ENTITY reloadCmd.commandkey "r">
+<!ENTITY menu_wrapLongLines.title "Axustar as liñas longas">
+<!ENTITY menu_wrapLongLines.accesskey "L">
+<!ENTITY menu_highlightSyntax.label "Realce da sintaxe">
+<!ENTITY menu_highlightSyntax.accesskey "s">
+<!ENTITY menu_textSize.label "Tamaño do texto">
+<!ENTITY menu_textSize.accesskey "T">
+<!ENTITY menu_textEnlarge.label "Aumentar">
+<!ENTITY menu_textEnlarge.accesskey "A">
+<!ENTITY menu_textReduce.label "Reducir">
+<!ENTITY menu_textReduce.accesskey "d">
+<!ENTITY menu_textReset.label "Normal">
+<!ENTITY menu_textReset.accesskey "N">
 
+<!ENTITY findOnCmd.label     "Buscar nesta páxina…">
+<!ENTITY findOnCmd.accesskey "B">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label  "Buscar de novo">
+<!ENTITY findAgainCmd.accesskey "o">
+<!ENTITY findAgainCmd.commandkey "g">
 
 
