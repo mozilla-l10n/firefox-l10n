@@ -78,6 +78,9 @@ login-intro-description = Ak ste si uložili prihlasovacie údaje do aplikácie 
 login-intro-instruction-fxa = Vytvorte si { -fxaccount-brand-name } alebo sa doň prihláste na zariadení, kde máte prihlasovacie údaje uložené
 login-intro-instruction-fxa-settings = Uistite sa, že máte v nastaveniach služby { -sync-brand-short-name } na danom zariadení zaškrtnutú možnosť synchronizácie prihlasovacích údajov
 about-logins-intro-instruction-help = Ak potrebujete ďalšiu pomoc, navštívte <a data-l10n-name="help-link">pomocníka { -lockwise-brand-short-name }</a>
+login-intro-instructions-fxa = Vytvorte si  účet { -fxaccount-brand-name } alebo sa doň prihláste na zariadení, kde máte prihlasovacie údaje uložené.
+login-intro-instructions-fxa-settings = Prejdite do okna Nastavenia > Synchronizácia > Zapnúť synchronizáciu... Začiarknite pole Prihlasovacie údaje.
+login-intro-instructions-fxa-help = Ďalšiu pomoc nájdete na stránke <a data-l10n-name="help-link"> Podpora pre { -lockwise-brand-short-name } </a>.
 about-logins-intro-import = Ak máte prihlasovacie údaje uložené v inom prehliadači, môžete ich <a data-l10n-name="import-link">do { -lockwise-brand-short-name } importovať</a>
 about-logins-intro-import2 = Ak máte prihlasovacie údaje uložené mimo aplikácie { -brand-product-name }, môžete ich <a data-l10n-name="import-browser-link">importovať z iného prehliadača</a> alebo <a data-l10n-name="import-file-link">zo súboru</a>
 
@@ -87,7 +90,7 @@ login-item-new-login-title = Nové prihlasovacie údaje
 login-item-edit-button = Upraviť
 about-logins-login-item-remove-button = Odstrániť
 login-item-origin-label = Adresa webovej stránky
-login-item-tooltip-message = Uistite sa, že zodpovedá adresu stránky, na ktorú sa prihlasujete.
+login-item-tooltip-message = Uistite sa, že zodpovedá adrese stránky, na ktorú sa prihlasujete.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Používateľské meno

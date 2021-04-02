@@ -48,3 +48,5 @@ bookmark-overlay-keyword =
 bookmark-overlay-keyword-2 =
     .value = Kľúčové slovo
     .accesskey = K
+bookmark-overlay-tags-caption-label = Pomocou značiek môžete usporiadať a vyhľadávať záložky z panela s adresou
+bookmark-overlay-keyword-caption-label = Na otvorenie záložiek priamo z panela s adresou použite kľúčové slová
