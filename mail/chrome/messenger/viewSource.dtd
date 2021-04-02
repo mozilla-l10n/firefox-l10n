@@ -12,6 +12,15 @@
 <!ENTITY mainWindow.titlemodifierseparator " - ">
 <!ENTITY mainWindow.preface "Código fonte de: ">
 
+<!ENTITY editMenu.label "Modificar">
+<!ENTITY editMenu.accesskey "M">
+<!ENTITY fileMenu.label "Ficheiro">
+<!ENTITY fileMenu.accesskey "F">
+<!ENTITY savePageCmd.label "Gardar páxina como…">
+<!ENTITY savePageCmd.accesskey "c">
+<!ENTITY savePageCmd.commandkey "S">
+<!ENTITY pageSetupCmd.label "Configuración da páxina…">
+<!ENTITY pageSetupCmd.accesskey "u">
 
 <!-- LOCALIZATION NOTE :
 textEnlarge.commandkey3, textReduce.commandkey2 and
