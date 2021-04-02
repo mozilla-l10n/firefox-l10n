@@ -8,3 +8,6 @@ account-finish-account-setup = Dokončiť nastavenie účtu
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-reconnect-to-fxa = Účet je odpojený
+# Used as the FxA toolbar menu item title when the user
+# needs to reconnect their account.
+account-disconnected = Boli ste odpojení

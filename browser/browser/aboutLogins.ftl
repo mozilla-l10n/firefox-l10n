@@ -18,6 +18,7 @@ login-filter =
 create-login-button = Nové prihlasovacie údaje
 fxaccounts-sign-in-text = Synchronizujte svoje heslá aj do ostatných zariadení
 fxaccounts-sign-in-button = Prihlásiť sa do služby { -sync-brand-short-name }
+fxaccounts-sign-in-sync-button = Prihlásiť sa k synchronizácii
 fxaccounts-avatar-button =
     .title = Správa účtu
 
@@ -71,6 +72,7 @@ about-logins-list-item-vulnerable-password-icon =
 
 login-intro-heading = Hľadáte svoje uložené prihlasovacie údaje? Nastavte si { -sync-brand-short-name }.
 about-logins-login-intro-heading-logged-out = Hľadáte svoje uložené prihlasovacie údaje? Nastavte si { -sync-brand-short-name } alebo si ich importujte.
+about-logins-login-intro-heading-logged-out2 = Hľadáte svoje uložené prihlásenia? Zapnite synchronizáciu alebo ich importujte.
 about-logins-login-intro-heading-logged-in = Neboli nájdené žiadne synchronizované prihlasovacie údaje.
 login-intro-description = Ak ste si uložili prihlasovacie údaje do aplikácie { -brand-product-name } na inom zariadení, môžete ich získať takto:
 login-intro-instruction-fxa = Vytvorte si { -fxaccount-brand-name } alebo sa doň prihláste na zariadení, kde máte prihlasovacie údaje uložené
