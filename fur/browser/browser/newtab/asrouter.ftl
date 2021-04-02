@@ -125,7 +125,7 @@ cfr-whatsnew-lockwise-take-link-text = Oten la app
 ## Search Bar
 
 cfr-whatsnew-searchbar-title = Scrîf di mancul, cjate di plui cu la sbare de direzion
-cfr-whatsnew-searchbar-body-topsites = Cumò al baste selezionâ la sbare de direzion e si pandarà un ricuadri cui colegaments ai tiei sîts principâls.
+cfr-whatsnew-searchbar-body-topsites = Cumò al baste selezionâ la sbare de direzion e si slargjarà un ricuadri cui colegaments ai tiei sîts principâls.
 
 ## Search bar
 
