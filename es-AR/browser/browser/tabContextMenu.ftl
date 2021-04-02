@@ -68,7 +68,7 @@ tab-context-close-multiple-tabs =
     .accesskey = e
 tab-context-share-url =
     .label = Compartir
-    .accesskey = h
+    .accesskey = m
 tab-context-share-more =
     .label = Más…
 
