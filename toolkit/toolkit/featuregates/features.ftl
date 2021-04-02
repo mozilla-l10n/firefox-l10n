@@ -6,15 +6,20 @@
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = Web API: WebGPU
+experimental-features-web-gpu-description2 = Toto nové API poskytuje podporu na nízkej úrovni pri výpočtoch a grafickom vykresľovaní pomocou <a data-l10n-name="wikipedia">grafického procesora (GPU)</a> zariadenia alebo počítača používateľa. <a data-l10n-name="spec">Špecifikácia</a> sa však stále vyvíja. Ďalšie informácie nájdete v <a data-l10n-name="bugzilla">bugzille, bug 1602129</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-avif =
     .label = Médiá: AVIF
-experimental-features-media-avif-description = Ak je táto funkcia povolená, aplikácia { -brand-short-name } podporuje formát obrazového súboru AV1 (AVIF). Toto je formát súboru statického obrázka, ktorý využíva možnosti algoritmov kompresie videa AV1 na zmenšenie veľkosti obrázka. Ďalšie informácie nájdete v <a data-l10n-name="bugzilla">bugzille</a>.
+experimental-features-media-avif-description = Ak je táto funkcia povolená, aplikácia { -brand-short-name } podporuje formát obrazového súboru AV1 (AVIF). Toto je formát súboru statického obrázka, ktorý využíva možnosti algoritmov kompresie videa AV1 na zmenšenie veľkosti obrázka. Ďalšie informácie nájdete v <a data-l10n-name="bugzilla">bugzille, bug 1443863</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
     .label = Web API: inputmode
+# "inputmode" and "contenteditable" are technical terms and shouldn't be translated.
+experimental-features-web-api-inputmode-description = Naša implementácia globálneho atribútu <a data-l10n-name="mdn-inputmode"> inputmode </a> bola aktualizovaná podľa <a data-l10n-name="whatwg"> špecifikácie WHATWG </a>, ale stále musíme urobiť ďalšie zmeny, napríklad sprístupniť ho pre upraviteľný obsah. Ďalšie informácie nájdete v <a data-l10n-name="bugzilla">bugzille, bug 1205133</a>.
+experimental-features-devtools-color-scheme-simulation =
+    .label = Nástroje pre vývojárov: Simulácia farebnej schémy
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
     .label = Nástroje pre vývojárov: ladenie skriptov typu worker
@@ -27,7 +32,7 @@ experimental-features-js-warp-description = Povoľte projekt Warp, ktorý má zl
 # Fission is the name of the feature and should not be translated.
 experimental-features-fission =
     .label = Fission (izolácia stránok)
-experimental-features-fission-description = Fission (izolácia stránok) je experimentálna funkcia v aplikácii { -brand-short-name }, ktorá poskytuje ďalšiu vrstvu obrany proti bezpečnostným chybám. Izolovaním každého webu do samostatného procesu Fission sťažuje škodlivým webovým serverom prístup k informáciám z iných stránok, ktoré navštevujete. Toto je veľká architektonická zmena v aplikácii { -brand-short-name } a oceňujeme, že ste testovali a hlásili akékoľvek problémy, na ktoré narazíte. Ďalšie informácie nájdete na stránkach <a data-l10n-name="wiki">wiki</a>.
+experimental-features-fission-description = Fission (izolácia stránok) je experimentálna funkcia v aplikácii { -brand-short-name }, ktorá poskytuje ďalšiu vrstvu obrany proti bezpečnostným chybám. Izolovaním každého webu do samostatného procesu Fission sťažuje škodlivým webovým serverom prístup k informáciám z iných stránok, ktoré navštevujete. Toto je veľká architektonická zmena v aplikácii { -brand-short-name } a oceníme, ak ju budete testovať a hlásiť akékoľvek problémy, na ktoré narazíte. Ďalšie informácie nájdete na stránkach <a data-l10n-name="wiki">wiki</a>.
 # Support for having multiple Picture-in-Picture windows open simultaneously
 experimental-features-multi-pip =
     .label = Podpora viacerých obrazov v obraze
