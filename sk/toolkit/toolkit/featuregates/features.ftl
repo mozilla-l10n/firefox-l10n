@@ -36,7 +36,7 @@ experimental-features-devtools-execution-context-selector =
 experimental-features-devtools-execution-context-selector-description = Táto funkcia zobrazuje tlačidlo na príkazovom riadku konzoly, ktoré umožňuje meniť kontext, v ktorom sa zadaný výraz vykoná. Ďalšie informácie nájdete v bugzille, <a data-l10n-name="bugzilla1">bug 1605154</a> a <a data-l10n-name="bugzilla2">bug 1605153</a>.
 experimental-features-devtools-compatibility-panel =
     .label = Nástroje pre vývojárov: panel Kompatibilita
-experimental-features-devtools-compatibility-panel-description = Bočný panel nástroja Prieskumník stránky, ktorý zobrazuje podrobné informáce o kompatibilite vašej aplikácie s rôznymi prehliadačmi. Ďalšie informácie nájdete v bugzille, <a data-l10n-name="bugzilla">bug 1584464</a>.
+experimental-features-devtools-compatibility-panel-description = Bočný panel nástroja Prieskumník stránky, ktorý zobrazuje podrobné informácie o kompatibilite vašej aplikácie s rôznymi prehliadačmi. Ďalšie informácie nájdete v bugzille, <a data-l10n-name="bugzilla">bug 1584464</a>.
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Cookies: SameSite=Lax v predvolenom nastavení
