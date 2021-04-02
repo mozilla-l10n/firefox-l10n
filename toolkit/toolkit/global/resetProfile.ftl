@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = { -brand-short-name } – შეკეთება
+refresh-profile-dialog-title = შეკეთდეს { -brand-short-name } ნაგულისხმევ პარამეტრებზე დაბრუნებით?
 refresh-profile-dialog-button =
     .label = { -brand-short-name } – შეკეთება
 refresh-profile-description = გაუშვით Firefox პირვანდელი მდგომარეობით, გაუმართაობების გასწორებისა და წარმადობის აღსადგენად.
@@ -12,3 +13,4 @@ refresh-profile-remove = მოცილდება დამატებებ
 refresh-profile-restore = ბრაუზერი ნაგულისხმევ პარამეტრებზე დაბრუნდება
 refresh-profile = მოაწესრიგეთ { -brand-short-name }
 refresh-profile-button = { -brand-short-name } – შეკეთება…
+refresh-profile-learn-more = ვრცლად
