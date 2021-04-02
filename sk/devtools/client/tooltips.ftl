@@ -22,6 +22,9 @@ inactive-css-not-grid-container = <strong>{ $property }</strong> nemá na tento 
 inactive-css-not-flex-item = <strong>{ $property }</strong> nemá na tento prvok žiadny vplyv, pretože nejde o položku kontajnera typu flex.
 inactive-css-not-flex-container = <strong>{ $property }</strong> nemá na tento prvok žiadny vplyv, pretože nejde o kontajner typu flex.
 inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> nemá na tento prvok žiadny vplyv, pretože nejde o vložený prvok ani prvok tabuľky.
+inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> nemá žiadny vplyv na interné prvky tabuľky.
+inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> nemá žiadny vplyv na interné prvky tabuľky okrem buniek tabuľky.
+inactive-css-not-table = <strong>{ $property }</strong> nemá žiadny vplyv na tento prvok, pretože nejde o tabuľku.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
