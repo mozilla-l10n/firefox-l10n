@@ -302,6 +302,10 @@ about-logins-import-dialog-error-learn-more = Lisätietoja
 about-logins-import-dialog-error-try-again = Yritä uudelleen…
 about-logins-import-dialog-error-cancel = Peruuta
 about-logins-import-report-title = Tuonnin yhteenveto
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = Rivi { $number }
 about-logins-import-report-row-description-modified = Olemassa oleva kirjautumistieto päivitetty
 about-logins-import-report-row-description-added = Uusi kirjautumistieto lisätty
 about-logins-import-report-row-description-error = Virhe: Puuttuva kenttä

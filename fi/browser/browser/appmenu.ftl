@@ -35,6 +35,12 @@ appmenu-menu-button-closed =
 appmenu-menu-button-opened =
     .tooltiptext = Sulje sovellusvalikko
     .label = { -brand-shorter-name }
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Sulje
+           *[other] Sulje
+        }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
