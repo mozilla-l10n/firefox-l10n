@@ -107,7 +107,10 @@
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; impediu que esta páxina se cargue desta forma porque a páxina ten una política de seguranza de contido que non o permite.</p>">
 
 <!ENTITY xfoBlocked.title "Bloqueado pola política X-Frame-Options">
+<!ENTITY xfoBlocked.longDesc "<p>&brandShortName; impediu que esta páxina se cargase neste contexto porque a páxina ten unha política de X-Frame-Options que non o permite.</p>">
 
+<!ENTITY corruptedContentErrorv2.title "Erro de contido corrompido">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Non se pode amosar a páxina que tenta ver porque se detectou un erro na transmisión dos datos.</p><ul><li>Contacte cos propietarios do sitio web para informalos deste problema.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Ou pode engadir unha excepción…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Sáqueme de aquí!">
@@ -127,6 +130,7 @@ functionality specific to thunderbird. -->
 <!ENTITY remoteXUL.title "XUL remoto">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Contacte cos propietarios do sitio web para informalos deste problema.</li></ul></p>">
 
+<!ENTITY inadequateSecurityError.title "A conexión non é segura">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 
