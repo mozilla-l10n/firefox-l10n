@@ -361,6 +361,16 @@ browser-tab-audio-pip = KUVA KUVASSA
 ## Variables:
 ##  $count (number): number of affected tabs
 
+browser-tab-mute =
+    { $count ->
+        [1] VAIMENNA VÄLILEHTI
+       *[other] VAIMENNA { $count } VÄLILEHTEÄ
+    }
+browser-tab-unmute =
+    { $count ->
+        [1] PALAUTA ÄÄNI VÄLILEHTEEN
+       *[other] PALAUTA ÄÄNI { $count } VÄLILEHTEEN
+    }
 
 ## Bookmarks toolbar items
 
@@ -402,7 +412,7 @@ popup-screen-sharing-block =
 popup-screen-sharing-always-block =
     .label = Estä aina
     .accesskey = a
-popup-mute-notifications-checkbox = Mykistä verkkosivustojen ilmoitukset jakamisen aikana
+popup-mute-notifications-checkbox = Vaimenna sivustojen ilmoitukset jakamisen aikana
 
 ## WebRTC window or screen share tab switch warning
 

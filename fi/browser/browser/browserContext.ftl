@@ -193,8 +193,8 @@ main-context-menu-media-pause =
 ##
 
 main-context-menu-media-mute =
-    .label = Mykistä ääni
-    .accesskey = M
+    .label = Vaimenna ääni
+    .accesskey = V
 main-context-menu-media-unmute =
     .label = Palauta ääni
     .accesskey = ä
