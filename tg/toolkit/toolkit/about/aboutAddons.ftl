@@ -93,6 +93,8 @@ addon-install-from-file-filter-name = Ҷузъҳои иловагӣ
 ## Extension shortcut management
 
 shortcuts-browserAction2 = Фаъол кардани тугмаи навори абзорҳо
+header-back-button =
+    .title = Бозгашт
 
 ## Recommended add-ons page
 

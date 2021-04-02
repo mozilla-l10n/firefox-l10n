@@ -85,6 +85,9 @@ about-debugging-connection-prompt-disable-button = Ғайрифаъол кард
 
 # Debug Targets strings
 
+# Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
+# Clicking on the button will uninstall the extension and remove it from the page.
+about-debugging-tmp-extension-remove-button = Тоза кардан
 # Text displayed for extensions (temporary extensions only) in "runtime" pages, before
 # displaying the location of the temporary extension.
 about-debugging-extension-location =

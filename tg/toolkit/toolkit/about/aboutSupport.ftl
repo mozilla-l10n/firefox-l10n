@@ -29,6 +29,7 @@ intl-app-title = Танзимоти барнома
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
+remote-debugging-url = Нишонии URL
 
 ##
 
