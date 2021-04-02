@@ -11,8 +11,6 @@
 <!ENTITY pasteNoFormatting.label "Prilepiť bez formátovania">
 <!ENTITY pasteNoFormatting.accesskey "f">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "Prilepiť ako">
-<!ENTITY pasteAs.accesskey "a">
 <!ENTITY pasteAsQuotationCmd.label "Prilepiť ako citáciu">
 <!ENTITY pasteAsQuotationCmd.accesskey "c">
 <!ENTITY pasteAsQuotationCmd.key "o">
@@ -294,8 +292,6 @@
 <!ENTITY cutToolbarCmd.tooltip "Vystrihnúť">
 <!ENTITY copyToolbarCmd.tooltip "Kopírovať">
 <!ENTITY pasteToolbarCmd.tooltip "Prilepiť">
-<!ENTITY printToolbarCmd.label "Tlačiť">
-<!ENTITY printToolbarCmd.tooltip "Tlačiť stránku">
 <!ENTITY findToolbarCmd.label "Hľadať">
 <!ENTITY findToolbarCmd.tooltip "Hľadať text na stránke">
 <!ENTITY spellToolbarCmd.label "Pravopis">
@@ -313,8 +309,6 @@
 <!ENTITY colorButtons.title "Farby">
 <!ENTITY TextColorButton.tooltip "Vyberte farbu pre text">
 <!ENTITY BackgroundColorButton.tooltip "Vyberte farbu pozadia">
-<!ENTITY throbber.tooltip "Prejsť na domovskú stránku &vendorShortName;">
-<!ENTITY throbber.tooltip2 "Prejsť na domovskú stránku aplikácie &brandShortName;">
 <!ENTITY HighlightColorButton.label "Zvýrazňovač">
 <!ENTITY HighlightColorButton.tooltip "Vyberte farbu pre označený text">
 
@@ -342,7 +336,7 @@
 <!ENTITY AlignPopupButton.label "Zarovnanie">
 <!ENTITY AlignPopupButton.tooltip "Nastaviť zarovnanie textu">
 <!ENTITY InsertPopupButton.label "Vložiť">
-<!ENTITY InsertPopupButton.tooltip "Vložií odkaz, kotvu, obrázok, vodorovnú čiaru alebo tabuľku">
+<!ENTITY InsertPopupButton.tooltip "Vloží odkaz, kotvu, obrázok, vodorovnú čiaru alebo tabuľku">
 <!ENTITY alignLeftButton.label "Zarovnať doľava">
 <!ENTITY alignLeftButton.tooltip "Zarovnať text podľa ľavého okraja">
 <!ENTITY alignCenterButton.label "Zarovnať na stred">
