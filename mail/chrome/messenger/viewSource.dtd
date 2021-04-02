@@ -72,5 +72,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.label  "Buscar de novo">
 <!ENTITY findAgainCmd.accesskey "o">
 <!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY findSelectionCmd.commandkey "e">
 
+<!ENTITY backCmd.label "Atrás">
+<!ENTITY backCmd.accesskey "A">
+<!ENTITY forwardCmd.label "Adiante">
+<!ENTITY forwardCmd.accesskey "t">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
 
+<!ENTITY copyLinkCmd.label "Copiar o enderezo da ligazón">
+<!ENTITY copyLinkCmd.accesskey "z">
+<!ENTITY copyEmailCmd.label "Copiar o enderezo do correo electrónico">
+<!ENTITY copyEmailCmd.accesskey "e">
