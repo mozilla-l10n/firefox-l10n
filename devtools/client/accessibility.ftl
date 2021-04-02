@@ -45,6 +45,9 @@ accessibility-text-label-issue-toolbar = Panely s nástrojmi musia byť označen
 ## that describe that currently selected accessible object has a keyboard accessibility
 ## issue.
 
+accessibility-keyboard-issue-semantics = Prvky dosiahnuteľné klávesnicou by mali mať interaktívnu sémantiku. <a>Ďalšie informácie</a>
 accessibility-keyboard-issue-tabindex = Nepoužívajte atribút <code>tabindex</code> s hodnotou väčšou ako nula. <a>Ďalšie informácie</a>
 accessibility-keyboard-issue-action = Interaktívne prvky musia byť aktivovateľné pomocou klávesnice. <a>Ďalšie informácie</a>
 accessibility-keyboard-issue-focusable = Prvky formulára musia byť dosiahnuteľné klávesnicou. <a>Ďalšie informácie</a>
+accessibility-keyboard-issue-focus-visible = Pre prvok dosiahnuteľný klávesnicou nie je zrejme nastavený štýl v prípade jeho aktivovania. <a>Ďalšie informácie</a>
+accessibility-keyboard-issue-mouse-only = Klikateľné prvky musia byť dosiahnuteľné klávesnicou a mali by mať interaktívnu sémantiku. <a>Ďalšie informácie</a>
