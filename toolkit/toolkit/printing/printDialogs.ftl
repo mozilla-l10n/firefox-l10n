@@ -66,17 +66,17 @@ hf-center-label =
 hf-right-label =
     .value = Vpravo:
 header-left-tip =
-    .tooltiptext = Hlavička na ľavo
+    .tooltiptext = Hlavička naľavo
 header-center-tip =
     .tooltiptext = Hlavička v strede
 header-right-tip =
-    .tooltiptext = Hlavička na pravo
+    .tooltiptext = Hlavička napravo
 footer-left-tip =
-    .tooltiptext = Päta na ľavo
+    .tooltiptext = Päta naľavo
 footer-center-tip =
     .tooltiptext = Päta v strede
 footer-right-tip =
-    .tooltiptext = Päta na pravo
+    .tooltiptext = Päta napravo
 hf-blank =
     .label = --prázdne--
 hf-title =
@@ -103,7 +103,6 @@ print-window =
     .title = Tlačí sa
 print-complete =
     .value = Tlač je dokončená.
-
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =
