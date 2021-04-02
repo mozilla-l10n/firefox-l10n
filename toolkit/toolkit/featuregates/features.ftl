@@ -4,6 +4,11 @@
 
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
+experimental-features-css-masonry2 =
+    .label = CSS: podpora Masonry Layout
+experimental-features-css-masonry-description = Povolí podporu pre experimentálnu funkciu CSS Masonry Layout. Ďalšie informácie nájdete v <a data-l10n-name="explainer">v podrobnom popise funkcie</a>. Ak chcete poskytnúť spätnú väzbu, komentujte ju <a data-l10n-name="w3c-issue">na GitHube </a> alebo v <a data-l10n-name="bug">bugzille</a>.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = Web API: WebGPU
 experimental-features-web-gpu-description2 = Toto nové API poskytuje podporu na nízkej úrovni pri výpočtoch a grafickom vykresľovaní pomocou <a data-l10n-name="wikipedia">grafického procesora (GPU)</a> zariadenia alebo počítača používateľa. <a data-l10n-name="spec">Špecifikácia</a> sa však stále vyvíja. Ďalšie informácie nájdete v <a data-l10n-name="bugzilla">bugzille, bug 1602129</a>.
@@ -28,6 +33,10 @@ experimental-features-devtools-compatibility-panel-description = Bočný panel n
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Cookies: SameSite=Lax v predvolenom nastavení
 experimental-features-cookie-samesite-lax-by-default2-description = Ak nie je špecifikovaný atribút “SameSite”, štandardne sa pre súbory cookie použije hodnota “SameSite=Lax”. Súčasný stav neobmedzeného používania cookies je nutné po zapnutí tejto voľby explicitne určiť v kóde stránky nastavením hodnoty “SameSite=None”.
+# Do not translate 'SameSite', 'Lax' and 'None'.
+experimental-features-cookie-samesite-none-requires-secure2 =
+    .label = Cookies: SameSite=none vyžaduje atribút secure
+experimental-features-cookie-samesite-none-requires-secure2-description = Súbory cookie s atribútom “SameSite=None” vyžadujú atribút secure. Táto funkcia vyžaduje zapnúť voľbu “Cookies: SameSite=Lax v predvolenom nastavení”.
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
     .label = Nástroje pre vývojárov: ladenie skriptov typu worker
