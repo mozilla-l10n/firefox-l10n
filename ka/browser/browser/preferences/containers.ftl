@@ -10,6 +10,11 @@ containers-window-new =
 containers-window-update =
     .title = { $name } სათავსის პარამეტრები
     .style = width: 45em
+# Variables
+#   $name (String) - Name of the container
+containers-window-update-settings =
+    .title = { $name } სათავსის პარამეტრები
+    .style = width: 45em
 containers-window-close =
     .key = w
 # This is a term to store style to be applied

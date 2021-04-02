@@ -264,11 +264,15 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = სანიშნის დამატება
+bookmarks-edit-bookmark = სანიშნის ჩასწორება
 bookmark-panel-show-editor-checkbox =
     .label = ჩასწორების შესაძლებლობა შენახვისას
     .accesskey = ჩ
 bookmark-panel-done-button =
     .label = მზადაა
+bookmark-panel-save-button =
+    .label = შენახვა
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
