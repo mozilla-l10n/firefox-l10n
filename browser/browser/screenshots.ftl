@@ -14,7 +14,7 @@ screenshots-save-page-button = Uložiť celú stránku
 screenshots-download-button = Prevziať
 screenshots-download-button-tooltip = Prevziať snímku obrazovky
 screenshots-copy-button = Kopírovať
-screenshots-copy-button-tooltip = Skopírovať snímok do schránky
+screenshots-copy-button-tooltip = Skopírovať snímku do schránky
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘

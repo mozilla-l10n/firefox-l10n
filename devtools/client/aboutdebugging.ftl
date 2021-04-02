@@ -285,7 +285,7 @@ about-debugging-worker-push-service =
     .label = Služba Push
 # Displayed as title of the inspect button when service worker debugging is disabled.
 about-debugging-worker-inspect-action-disabled =
-    .title = Preskúmanie skriptov typu worker je pre multiprocesový prehliadač { -brand-shorter-name } zakázené
+    .title = Preskúmanie skriptov typu worker je pre multiprocesový prehliadač { -brand-shorter-name } zakázané
 # Displayed as title of the inspect button for zombie tabs (e.g. tabs loaded via a session restore).
 about-debugging-zombie-tab-inspect-action-disabled =
     .title = Karta nie je plne načítaná a nemôže byť preskúmaná
