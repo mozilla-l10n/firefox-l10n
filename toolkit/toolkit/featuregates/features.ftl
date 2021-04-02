@@ -20,6 +20,13 @@ experimental-features-web-api-inputmode =
 experimental-features-web-api-inputmode-description = Naša implementácia globálneho atribútu <a data-l10n-name="mdn-inputmode"> inputmode </a> bola aktualizovaná podľa <a data-l10n-name="whatwg"> špecifikácie WHATWG </a>, ale stále musíme urobiť ďalšie zmeny, napríklad sprístupniť ho pre upraviteľný obsah. Ďalšie informácie nájdete v <a data-l10n-name="bugzilla">bugzille, bug 1205133</a>.
 experimental-features-devtools-color-scheme-simulation =
     .label = Nástroje pre vývojárov: Simulácia farebnej schémy
+experimental-features-devtools-color-scheme-simulation-description = Pridáva možnosť simulovať rôzne farebné schémy, čo vám umožňuje testovať media queries <a data-l10n-name="mdn-preferscolorscheme">@prefers-color-scheme</a>. Použitie tejto media query umožní vašej šablóne so štýlmi reagovať na to, či používateľ uprednostňuje svetlé alebo tmavé používateľské rozhranie. Táto funkcia umožňuje otestovať váš kód bez toho, aby ste museli meniť nastavenia v prehliadači (alebo operačnom systéme, ak prehliadač dodržiava nastavenie farebnej schémy v celom systéme). Ďalšie informácie nájdete v bugzille <a data-l10n-name="bugzilla1">bug 1550804</a> a <a data-l10n-name="bugzilla2">bug 1137699</a>.
+experimental-features-devtools-compatibility-panel =
+    .label = Nástroje pre vývojárov: panel Kompatibilita
+experimental-features-devtools-compatibility-panel-description = Bočný panel nástroja Prieskumník stránky, ktorý zobrazuje podrobné informáce o kompatibilite vašej aplikácie s rôznymi prehliadačmi. Ďalšie informácie nájdete v časti <a data-l10n-name="bugzilla">bugzille, bug 1584464</a>.
+# Do not translate 'SameSite', 'Lax' and 'None'.
+experimental-features-cookie-samesite-lax-by-default2 =
+    .label = Cookies: SameSite=Lax v predvolenom nastavení
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
     .label = Nástroje pre vývojárov: ladenie skriptov typu worker
