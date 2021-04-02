@@ -244,7 +244,7 @@ openpgp-key-details-fingerprint-label = Odtlačok
 openpgp-key-details-sel-action =
     .label = Vybrať akciu...
     .accesskey = V
-openpgp-key-details-also-known-label = Údajné alternatívne identity vlastníka klúča:
+openpgp-key-details-also-known-label = Údajné alternatívne identity vlastníka kľúča:
 openpgp-card-details-close-window-label =
     .buttonlabelaccept = Zavrieť
 openpgp-acceptance-label =
@@ -294,8 +294,8 @@ openpgp-add-key-button =
     .label = Pridať kľúč...
     .accesskey = P
 e2e-learn-more = Ďalšie informácie
-openpgp-keygen-success = OpenPGP klúč bol úspešne vytvorený!
-openpgp-keygen-import-success = OpenPGP klúče boli úspešne importované!
+openpgp-keygen-success = OpenPGP kľúč bol úspešne vytvorený!
+openpgp-keygen-import-success = OpenPGP kľúče boli úspešne importované!
 openpgp-keygen-external-success = ID externého kľúča GnuPG bolo uložené!
 
 ## OpenPGP Key selection area

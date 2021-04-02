@@ -287,7 +287,7 @@
 <!ENTITY outdentToolbarCmd.tooltip "Odsadiť text doľava">
 <!ENTITY indentToolbarCmd.tooltip "Odsadiť text doprava">
 <!ENTITY AlignPopupButton.tooltip "Nastaviť zarovnanie textu">
-<!ENTITY InsertPopupButton.tooltip "Vložií odkaz, kotvu, obrázok, vodorovnú čiaru alebo tabuľku">
+<!ENTITY InsertPopupButton.tooltip "Vloží odkaz, kotvu, obrázok, vodorovnú čiaru alebo tabuľku">
 <!ENTITY alignLeftButton.tooltip "Zarovnať text podľa ľavého okraja">
 <!ENTITY alignCenterButton.tooltip "Zarovnať text na stred">
 <!ENTITY alignRightButton.tooltip "Zarovnať text podľa pravého okraja">
