@@ -18,6 +18,7 @@ login-filter =
 create-login-button = Tạo đăng nhập mới
 fxaccounts-sign-in-text = Nhận mật khẩu của bạn trên các thiết bị khác của bạn
 fxaccounts-sign-in-button = Đăng nhập vào { -sync-brand-short-name }
+fxaccounts-sign-in-sync-button = Đăng nhập vào đồng bộ hóa
 fxaccounts-avatar-button =
     .title = Quản lý tài khoản
 
@@ -69,11 +70,15 @@ about-logins-list-item-vulnerable-password-icon =
 
 login-intro-heading = Đang tìm kiếm thông tin đăng nhập đã lưu của bạn? Thiết lập { -sync-brand-short-name }.
 about-logins-login-intro-heading-logged-out = Đang tìm kiếm thông tin đăng nhập đã lưu của bạn? Thiết lập { -sync-brand-short-name } hoặc nhập chúng.
+about-logins-login-intro-heading-logged-out2 = Tìm kiếm thông tin đăng nhập đã lưu của bạn? Bật đồng bộ hóa hoặc nhập chúng.
 about-logins-login-intro-heading-logged-in = Không tìm thấy thông tin đăng nhập được đồng bộ hóa.
 login-intro-description = Nếu bạn đã lưu thông tin đăng nhập của mình vào { -brand-product-name } trên một thiết bị khác, thì đây là cách để có được chúng ở đây:
 login-intro-instruction-fxa = Tạo hoặc đăng nhập vào { -fxaccount-brand-name } trên thiết bị nơi đăng nhập của bạn được lưu
 login-intro-instruction-fxa-settings = Đảm bảo rằng bạn đã chọn hộp kiểm Đăng nhập trong Cài đặt { -sync-brand-short-name }
 about-logins-intro-instruction-help = Truy cập <a data-l10n-name="help-link">hỗ trợ của { -lockwise-brand-short-name }</a> để được trợ giúp thêm
+login-intro-instructions-fxa = Tạo hoặc đăng nhập vào { -fxaccount-brand-name } của bạn trên thiết bị lưu thông tin đăng nhập của bạn.
+login-intro-instructions-fxa-settings = Đi đến Cài đặt > Đồng bộ hóa > Bật đồng bộ hóa… Chọn hộp kiểm Đăng nhập và mật khẩu.
+login-intro-instructions-fxa-help = Truy cập <a data-l10n-name="help-link">hỗ trợ của { -lockwise-brand-short-name }</a> để được trợ giúp.
 about-logins-intro-import = Nếu thông tin đăng nhập của bạn được lưu trong một trình duyệt khác, bạn có thể <a data-l10n-name="import-link"> nhập chúng vào { -lockwise-brand-short-name }</a>
 about-logins-intro-import2 = Nếu thông tin đăng nhập của bạn được lưu bên ngoài { -brand-product-name }, bạn có thể <a data-l10n-name="import-browser-link">nhập chúng từ trình duyệt khác</a> hoặc <a data-l10n-name="import-file-link">từ một tập tin</a>
 

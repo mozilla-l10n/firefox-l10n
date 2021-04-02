@@ -256,11 +256,15 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = Thêm dấu trang
+bookmarks-edit-bookmark = Chỉnh sửa dấu trang
 bookmark-panel-show-editor-checkbox =
     .label = Hiển thị trình chỉnh sửa khi lưu
     .accesskey = S
 bookmark-panel-done-button =
     .label = Xong
+bookmark-panel-save-button =
+    .label = Lưu
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
