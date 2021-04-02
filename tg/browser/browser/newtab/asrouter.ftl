@@ -223,6 +223,7 @@ cfr-whatsnew-search-shortcuts-header = Миёнбурҳо барои ҷусту�
 
 ## What's new: Cookies protection
 
+cfr-whatsnew-supercookies-header = Муҳофизат аз суперкукиҳои зараровар
 
 ## What's new: Better bookmarking
 

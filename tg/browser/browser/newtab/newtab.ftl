@@ -115,6 +115,7 @@ newtab-menu-show-privacy-info = Сарпарастони мо ва махфия�
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = Тайёр
+newtab-privacy-modal-button-manage = Идоракунии танзимоти муҳтавои сарпарастӣ
 newtab-privacy-modal-header = Махфияти шумо муҳим аст.
 newtab-privacy-modal-link = Маълумот гиред, ки чӣ тавр махфият дар варақаи нав риоя карда мешавад
 
