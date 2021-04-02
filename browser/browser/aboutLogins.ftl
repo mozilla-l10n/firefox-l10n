@@ -18,6 +18,7 @@ login-filter =
 create-login-button = Zugangsdaten hinzufügen
 fxaccounts-sign-in-text = Nutzen Sie Ihre Passwörter auf anderen Geräten
 fxaccounts-sign-in-button = Bei { -sync-brand-short-name } anmelden
+fxaccounts-sign-in-sync-button = Zum Synchronisieren anmelden
 fxaccounts-avatar-button =
     .title = Konto verwalten
 
@@ -75,6 +76,8 @@ login-intro-description = Wenn Sie Ihre Zugangsdaten in { -brand-product-name } 
 login-intro-instruction-fxa = Auf dem Gerät mit Ihren gespeicherten Zugangsdaten: Erstellen Sie ein { -fxaccount-brand-name } oder melden Sie sich damit an.
 login-intro-instruction-fxa-settings = Überprüfen Sie, dass das Kontrollfeld "Zugangsdaten" in den { -sync-brand-short-name }-Einstellungen ausgewählt ist.
 about-logins-intro-instruction-help = Weitere Hilfe finden Sie auf der <a data-l10n-name="help-link">Support-Seite für { -lockwise-brand-short-name }</a>.
+login-intro-instructions-fxa = Auf dem Gerät mit Ihren gespeicherten Zugangsdaten: Erstellen Sie ein { -fxaccount-brand-name } oder melden Sie sich damit an.
+login-intro-instructions-fxa-help = Weitere Hilfe finden Sie auf der <a data-l10n-name="help-link">Support-Seite für { -lockwise-brand-short-name }</a>.
 about-logins-intro-import = Wenn Ihre Zugangsdaten in einem anderen Browser gespeichert sind, können Sie diese in { -lockwise-brand-short-name } <a data-l10n-name="import-link">importieren</a>.
 about-logins-intro-import2 = Wenn Ihre Zugangsdaten außerhalb von { -brand-product-name } gespeichert sind, können Sie diese <a data-l10n-name="import-browser-link">aus einem anderen Browser</a> oder <a data-l10n-name="import-file-link">aus einer Datei</a> importieren.
 
