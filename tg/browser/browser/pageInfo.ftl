@@ -88,6 +88,9 @@ security-view-privacy =
 security-view-privacy-clearsitedata =
     .label = Пок кардани кукиҳо ва иттилооти сомона
     .accesskey = П
+security-view-privacy-viewpasswords =
+    .label = Дидани ниҳонвожаҳои нигоҳдошташуда
+    .accesskey = Д
 security-view-technical =
     .value = Тафсилоти техникӣ
 help-button =
@@ -130,6 +133,8 @@ general-quirks-mode =
     .value = Реҷаи мувофиқат
 media-unknown-not-cached =
     .value = Номаълум (ҳифз нашудааст)
+permissions-use-default =
+    .label = Истифодаи пешфарз
 security-no-visits = Не
 # This string is used to display the number of times
 # the user has visited the website prior
@@ -157,6 +162,12 @@ properties-general-size =
 #   $type (string) - The type of an image
 media-image-type =
     .value = Тасвири { $type }
+# This string is used to display the size of an image in pixels
+# Variables:
+#   $dimx (number) - The horizontal size of an image
+#   $dimy (number) - The vertical size of an image
+media-dimensions =
+    .value = { $dimx }пикс. × { $dimy }пикс.
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
