@@ -26,6 +26,9 @@ experimental-features-web-api-inputmode-description = Naša implementácia glob�
 experimental-features-devtools-color-scheme-simulation =
     .label = Nástroje pre vývojárov: Simulácia farebnej schémy
 experimental-features-devtools-color-scheme-simulation-description = Pridáva možnosť simulovať rôzne farebné schémy, čo vám umožňuje testovať media queries <a data-l10n-name="mdn-preferscolorscheme">@prefers-color-scheme</a>. Použitie tejto media query umožní vašej šablóne so štýlmi reagovať na to, či používateľ uprednostňuje svetlé alebo tmavé používateľské rozhranie. Táto funkcia umožňuje otestovať váš kód bez toho, aby ste museli meniť nastavenia v prehliadači (alebo operačnom systéme, ak prehliadač dodržiava nastavenie farebnej schémy v celom systéme). Ďalšie informácie nájdete v bugzille <a data-l10n-name="bugzilla1">bug 1550804</a> a <a data-l10n-name="bugzilla2">bug 1137699</a>.
+experimental-features-devtools-execution-context-selector =
+    .label = Nástroje pre vývojárov: selektor kontextu spustenia
+experimental-features-devtools-execution-context-selector-description = Táto funkcia zobrazuje tlačidlo na príkazovom riadku konzoly, ktoré umožňuje meniť kontext, v ktorom sa zadaný výraz vykoná. Ďalšie informácie nájdete v bugzille, <a data-l10n-name="bugzilla1">bug 1605154</a> a <a data-l10n-name="bugzilla2">bug 1605153</a>.
 experimental-features-devtools-compatibility-panel =
     .label = Nástroje pre vývojárov: panel Kompatibilita
 experimental-features-devtools-compatibility-panel-description = Bočný panel nástroja Prieskumník stránky, ktorý zobrazuje podrobné informáce o kompatibilite vašej aplikácie s rôznymi prehliadačmi. Ďalšie informácie nájdete v časti <a data-l10n-name="bugzilla">bugzille, bug 1584464</a>.
@@ -37,11 +40,25 @@ experimental-features-cookie-samesite-lax-by-default2-description = Ak nie je š
 experimental-features-cookie-samesite-none-requires-secure2 =
     .label = Cookies: SameSite=none vyžaduje atribút secure
 experimental-features-cookie-samesite-none-requires-secure2-description = Súbory cookie s atribútom “SameSite=None” vyžadujú atribút secure. Táto funkcia vyžaduje zapnúť voľbu “Cookies: SameSite=Lax v predvolenom nastavení”.
+# about:home should be kept in English, as it refers to the the URI for
+# the internal default home page.
+experimental-features-abouthome-startup-cache =
+    .label = Vyrovnávacia pamäť spustenia pre about:home
+experimental-features-abouthome-startup-cache-description = Vyrovnávacia pamäť pre úvodný dokument about:home, ktorý sa predvolene načítava pri štarte. Účelom vyrovnávacej pamäte je zlepšiť výkon pri štarte.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-cookie-samesite-schemeful =
+    .label = Súbory cookie: správanie Schemeful SameSite
+experimental-features-cookie-samesite-schemeful-description = Zaobchádzajte so súbormi cookie z tej istej domény, ale s rôznymi schémami (napr. http://priklad.sk a https://priklad.sk), ako s cookies tretích strán. Zvyšuje bezpečnosť, ale potenciálne vedie k rozbitiu stránok.
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
     .label = Nástroje pre vývojárov: ladenie skriptov typu worker
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = Povolí experimentálnu podporu pre skripty typu worker v paneli Ladenie. Táto funkcia môže spomaliť Nástroje pre vývojárov a zvýšiť spotrebu pamäte.
+# WebRTC global mute toggle controls
+experimental-features-webrtc-global-mute-toggles =
+    .label = Prepínač globálneho stlmenia WebRTC
+experimental-features-webrtc-global-mute-toggles-description = Pridá do indikátora globálneho zdieľania WebRTC ovládacie prvky, ktoré umožňujú používateľom globálne stlmiť kanál mikrofónu a kamery.
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
