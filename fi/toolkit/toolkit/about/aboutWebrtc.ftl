@@ -60,6 +60,8 @@ about-webrtc-ice-component-id = Komponentin tunniste
 
 ## "Avg." is an abbreviation for Average. These are used as data labels.
 
+about-webrtc-avg-bitrate-label = Keskim. bittinopeus:
+about-webrtc-avg-framerate-label = Keskim. ruudunpäivitys:
 
 ## These adjectives are used to label a line of statistics collected for a peer
 ## connection. The data represents either the local or remote end of the
@@ -116,6 +118,8 @@ about-webrtc-fold-show-msg = näytä tiedot
     .title = laajenna napsauttamalla
 about-webrtc-fold-hide-msg = piilota tiedot
     .title = kutista napsauttamalla
+about-webrtc-dropped-frames-label = Pudotetut kehykset:
+about-webrtc-discarded-packets-label = Hylätyt paketit:
 about-webrtc-decoder-label = Purkaja
 about-webrtc-encoder-label = Enkoodaaja
 about-webrtc-show-tab-label = Näytä välilehti
@@ -160,6 +164,11 @@ about-webrtc-pacer-delay-ms = Pakettien välinen viive ms
 # The amount of time it takes for a packet to travel from the local machine to the remote machine,
 # and then have a packet return
 about-webrtc-round-trip-time-ms = RTT ms
+# This is a section heading for video frame statistics for a MediaStreamTrack.
+# see https://developer.mozilla.org/en-US/docs/Web/API/MediaStreamTrack.
+# Variables:
+#   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
+about-webrtc-frame-stats-heading = Videon kehystilastot - MediaStreamTrack-tunniste: { $track-identifier }
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.

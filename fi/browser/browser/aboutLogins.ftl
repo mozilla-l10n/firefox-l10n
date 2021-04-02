@@ -302,6 +302,7 @@ about-logins-import-dialog-error-learn-more = Lisätietoja
 about-logins-import-dialog-error-try-again = Yritä uudelleen…
 about-logins-import-dialog-error-cancel = Peruuta
 about-logins-import-report-title = Tuonnin yhteenveto
+about-logins-import-report-description = { -brand-short-name }iin tuotavat käyttäjätunnukset ja salasanat.
 #
 # Variables:
 #  $number (number) - The number of the row
