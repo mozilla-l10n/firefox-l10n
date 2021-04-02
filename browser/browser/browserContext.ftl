@@ -102,6 +102,18 @@ main-context-menu-bookmark-add =
     .aria-label = გვერდის ჩანიშვნა
     .accesskey = გ
     .tooltiptext = გვერდის ჩანიშვნა
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-add-mac =
+    .label = გვერდის ჩანიშვნა
+    .accesskey = ნ
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-edit-mac =
+    .label = სანიშნის ჩასწორება
+    .accesskey = წ
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-add-with-shortcut =
@@ -361,6 +373,9 @@ main-context-menu-suggest-strong-password =
 main-context-menu-manage-logins =
     .label = ანგარიშების მართვა…
     .accesskey = ვ
+main-context-menu-manage-logins2 =
+    .label = ანგარიშების მართვა…
+    .accesskey = მ
 main-context-menu-keyword =
     .label = ძიებისთვის საკვანძო სიტყვის მინიჭება…
     .accesskey = მ

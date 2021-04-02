@@ -11,6 +11,8 @@
 
 ## Application Menu (macOS only)
 
+menu-application-preferences =
+    .label = პარამეტრები
 menu-application-services =
     .label = მომსახურებები
 menu-application-hide-this =
@@ -261,6 +263,9 @@ menu-tools-fxa-sign-in2 =
 menu-tools-turn-on-sync =
     .label = ჩართეთ { -sync-brand-short-name }...
     .accesskey = ჩ
+menu-tools-turn-on-sync2 =
+    .label = ჩართეთ დასინქრონება…
+    .accesskey = ე
 menu-tools-sync-now =
     .label = დასინქრონება ახლავე
     .accesskey = ს

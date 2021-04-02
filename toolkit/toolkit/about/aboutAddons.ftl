@@ -34,6 +34,9 @@ sidebar-preferences-button-title =
             [windows] { -brand-short-name } პარამეტრები
            *[other] { -brand-short-name } პარამეტრები
         }
+addons-settings-button = { -brand-short-name } – პარამეტრები
+sidebar-settings-button-title =
+    .title = { -brand-short-name } – პარამეტრები
 show-unsigned-extensions-button =
     .label = ზოგიერთი გაფართოება ვერ გადამოწმდა
 show-all-extensions-button =

@@ -19,6 +19,20 @@ newtab-search-box-search-button =
     .title = ძიება
     .aria-label = ძიება
 newtab-search-box-search-the-web-text = ინტერნეტში ძიება
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-text = მოძებნეთ { $engine } საძიებოთი ან შეიყვანეთ მისამართი
+newtab-search-box-handoff-text-no-engine = მოძებნეთ ან შეიყვანეთ მისამართი
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-input =
+    .placeholder = მოძებნეთ { $engine } საძიებოთი ან შეიყვანეთ მისამართი
+    .title = მოძებნეთ { $engine } საძიებოთი ან შეიყვანეთ მისამართი
+    .aria-label = მოძებნეთ { $engine } საძიებოთი ან შეიყვანეთ მისამართი
+newtab-search-box-handoff-input-no-engine =
+    .placeholder = მოძებნეთ ან შეიყვანეთ მისამართი
+    .title = მოძებნეთ ან შეიყვანეთ მისამართი
+    .aria-label = მოძებნეთ ან შეიყვანეთ მისამართი
 newtab-search-box-search-the-web-input =
     .placeholder = ინტერნეტში ძიება
     .title = ინტერნეტში ძიება
