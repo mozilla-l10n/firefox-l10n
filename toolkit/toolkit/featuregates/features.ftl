@@ -11,23 +11,23 @@ experimental-features-css-masonry-description = Povolí podporu pre experimentá
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = Web API: WebGPU
-experimental-features-web-gpu-description2 = Toto nové API poskytuje podporu na nízkej úrovni pri výpočtoch a grafickom vykresľovaní pomocou <a data-l10n-name="wikipedia">grafického procesora (GPU)</a> zariadenia alebo počítača používateľa. <a data-l10n-name="spec">Špecifikácia</a> sa však stále vyvíja. Ďalšie informácie nájdete v <a data-l10n-name="bugzilla">bugzille, bug 1602129</a>.
+experimental-features-web-gpu-description2 = Toto nové API poskytuje podporu na nízkej úrovni pri výpočtoch a grafickom vykresľovaní pomocou <a data-l10n-name="wikipedia">grafického procesora (GPU)</a> zariadenia alebo počítača používateľa. <a data-l10n-name="spec">Špecifikácia</a> sa však stále vyvíja. Ďalšie informácie nájdete v bugzille, <a data-l10n-name="bugzilla">bug 1602129</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-avif =
     .label = Médiá: AVIF
-experimental-features-media-avif-description = Ak je táto funkcia povolená, aplikácia { -brand-short-name } podporuje formát obrazového súboru AV1 (AVIF). Toto je formát súboru statického obrázka, ktorý využíva možnosti algoritmov kompresie videa AV1 na zmenšenie veľkosti obrázka. Ďalšie informácie nájdete v <a data-l10n-name="bugzilla">bugzille, bug 1443863</a>.
+experimental-features-media-avif-description = Ak je táto funkcia povolená, aplikácia { -brand-short-name } podporuje formát obrazového súboru AV1 (AVIF). Toto je formát súboru statického obrázka, ktorý využíva možnosti algoritmov kompresie videa AV1 na zmenšenie veľkosti obrázka. Ďalšie informácie nájdete v bugzille, <a data-l10n-name="bugzilla">bug 1443863</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
     .label = Web API: inputmode
 # "inputmode" and "contenteditable" are technical terms and shouldn't be translated.
-experimental-features-web-api-inputmode-description = Naša implementácia globálneho atribútu <a data-l10n-name="mdn-inputmode"> inputmode </a> bola aktualizovaná podľa <a data-l10n-name="whatwg"> špecifikácie WHATWG </a>, ale stále musíme urobiť ďalšie zmeny, napríklad sprístupniť ho pre upraviteľný obsah definovaný pomocou atribútu “contenteditable”. Ďalšie informácie nájdete v <a data-l10n-name="bugzilla">bugzille, bug 1205133</a>.
+experimental-features-web-api-inputmode-description = Naša implementácia globálneho atribútu <a data-l10n-name="mdn-inputmode"> inputmode </a> bola aktualizovaná podľa <a data-l10n-name="whatwg"> špecifikácie WHATWG </a>, ale stále musíme urobiť ďalšie zmeny, napríklad sprístupniť ho pre upraviteľný obsah definovaný pomocou atribútu “contenteditable”. Ďalšie informácie nájdete v bugzille, <a data-l10n-name="bugzilla">bug 1205133</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
     .label = CSS: podpora Constructable Stylesheets
-experimental-features-css-constructable-stylesheets-description = Pridanie konštruktora k rozhraniu <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a>, ako aj celý rad súvisiacich zmien, umožňuje priame vytváranie nových šablón štýlov bez nutnosti pridania hárku štýlov do HTML. Takto je oveľa jednoduchšie vytvárať opakovane použiteľné šablóny štýlov na použitie s <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. Ďalšie informácie nájdete v <a data-l10n-name="bugzilla">bugzille, bug 1520690</a>.
+experimental-features-css-constructable-stylesheets-description = Pridanie konštruktora k rozhraniu <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a>, ako aj celý rad súvisiacich zmien, umožňuje priame vytváranie nových šablón štýlov bez nutnosti pridania hárku štýlov do HTML. Takto je oveľa jednoduchšie vytvárať opakovane použiteľné šablóny štýlov na použitie s <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. Ďalšie informácie nájdete v bugzille, <a data-l10n-name="bugzilla">bug 1520690</a>.
 experimental-features-devtools-color-scheme-simulation =
     .label = Nástroje pre vývojárov: Simulácia farebnej schémy
 experimental-features-devtools-color-scheme-simulation-description = Pridáva možnosť simulovať rôzne farebné schémy, čo vám umožňuje testovať media queries <a data-l10n-name="mdn-preferscolorscheme">@prefers-color-scheme</a>. Použitie tejto media query umožní vašej šablóne so štýlmi reagovať na to, či používateľ uprednostňuje svetlé alebo tmavé používateľské rozhranie. Táto funkcia umožňuje otestovať váš kód bez toho, aby ste museli meniť nastavenia v prehliadači (alebo operačnom systéme, ak prehliadač dodržiava nastavenie farebnej schémy v celom systéme). Ďalšie informácie nájdete v bugzille, <a data-l10n-name="bugzilla1">bug 1550804</a> a <a data-l10n-name="bugzilla2">bug 1137699</a>.
@@ -36,7 +36,7 @@ experimental-features-devtools-execution-context-selector =
 experimental-features-devtools-execution-context-selector-description = Táto funkcia zobrazuje tlačidlo na príkazovom riadku konzoly, ktoré umožňuje meniť kontext, v ktorom sa zadaný výraz vykoná. Ďalšie informácie nájdete v bugzille, <a data-l10n-name="bugzilla1">bug 1605154</a> a <a data-l10n-name="bugzilla2">bug 1605153</a>.
 experimental-features-devtools-compatibility-panel =
     .label = Nástroje pre vývojárov: panel Kompatibilita
-experimental-features-devtools-compatibility-panel-description = Bočný panel nástroja Prieskumník stránky, ktorý zobrazuje podrobné informáce o kompatibilite vašej aplikácie s rôznymi prehliadačmi. Ďalšie informácie nájdete v časti <a data-l10n-name="bugzilla">bugzille, bug 1584464</a>.
+experimental-features-devtools-compatibility-panel-description = Bočný panel nástroja Prieskumník stránky, ktorý zobrazuje podrobné informáce o kompatibilite vašej aplikácie s rôznymi prehliadačmi. Ďalšie informácie nájdete v bugzille, <a data-l10n-name="bugzilla">bug 1584464</a>.
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Cookies: SameSite=Lax v predvolenom nastavení
