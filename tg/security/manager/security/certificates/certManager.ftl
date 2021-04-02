@@ -37,6 +37,13 @@ delete-email-cert-confirm = Шумо мутмаин ҳастед, ки мехо�
 
 ## Cert Viewer
 
+# Add usage
+verify-ssl-client =
+    .value = Гувоҳиномаи муштарии SSL
+verify-ssl-server =
+    .value = Гувоҳиномаи сервери SSL
+verify-ssl-ca =
+    .value = Мақомоти иҷозатномадиҳандаи SSL
 
 ## Used to show whether an override is temporary or permanent
 
