@@ -264,11 +264,15 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = Kirjanmerkin lisääminen
+bookmarks-edit-bookmark = Kirjanmerkin muokkaus
 bookmark-panel-show-editor-checkbox =
     .label = Näytä muokkaus tallennettaessa
     .accesskey = m
 bookmark-panel-done-button =
     .label = Valmis
+bookmark-panel-save-button =
+    .label = Tallenna
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
