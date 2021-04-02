@@ -52,9 +52,9 @@
 <!ENTITY performanceUI.table.selfDuration             "Čas vo funkcii">
 <!ENTITY performanceUI.table.selfDuration.tooltip     "Množstvo času stráveného v tejto funkcii">
 <!ENTITY performanceUI.table.totalPercentage          "Celkové vyťaženie">
-<!ENTITY performanceUI.table.totalPercentage.tooltip  "Percento času strávehého v tejto funkcii a vo funkciách, ktoré volá">
+<!ENTITY performanceUI.table.totalPercentage.tooltip  "Percento času stráveného v tejto funkcii a vo funkciách, ktoré volá">
 <!ENTITY performanceUI.table.selfPercentage           "Vyťaženie vo funkcii">
-<!ENTITY performanceUI.table.selfPercentage.tooltip   "Percento času strávehého v tejto funkcii">
+<!ENTITY performanceUI.table.selfPercentage.tooltip   "Percento času stráveného v tejto funkcii">
 <!ENTITY performanceUI.table.samples                  "Vzorky">
 <!ENTITY performanceUI.table.samples.tooltip          "Počet výskytov tejto funkcie v zásobníku v čase, keď nástroj profilovania zaznamenával vzorku">
 <!ENTITY performanceUI.table.function                 "Funkcia">
@@ -113,8 +113,8 @@
 <!-- LOCALIZATION NOTE (performanceUI.enableFramerate): This string
   -  is displayed next to a checkbox determining whether or not framerate
   -  is recorded. -->
-<!ENTITY performanceUI.enableFramerate             "Zaznamenávať frekvenciu snímkov">
-<!ENTITY performanceUI.enableFramerate.tooltiptext "Zaznamenávať frekvenciu snímkov počas profilovania">
+<!ENTITY performanceUI.enableFramerate             "Zaznamenávať frekvenciu snímok">
+<!ENTITY performanceUI.enableFramerate.tooltiptext "Zaznamenávať frekvenciu snímok počas profilovania">
 
 <!-- LOCALIZATION NOTE (performanceUI.console.recordingNoticeStart/recordingNoticeEnd):
   -  This string is displayed when a recording is selected that started via console.profile.

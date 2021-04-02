@@ -36,7 +36,7 @@ features-network-title = Sieťová aktivita
 features-network-desc = Monitorujte sieťové požiadavky, ktoré spomaľujú alebo blokujú vašu stránku. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-storage-title = Úložisko
 features-storage-desc = Pridávajte, upravujte alebo odstraňujte vyrovnávaciu pamäť, cookies, databázy či údaje relácií. <a data-l10n-name="learn-more">{ features-learn-more }</a>
-features-responsive-title = Režim Responsive Design
+features-responsive-title = Režim Responzívny dizajn
 features-responsive-desc = Testujte stránky na emulátore zariadení priamo v prehliadači. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-visual-editing-title = Vizuálne úpravy
 features-visual-editing-desc = Vylaďte animácie, zarovnanie a odsadenie. <a data-l10n-name="learn-more">{ features-learn-more }</a>

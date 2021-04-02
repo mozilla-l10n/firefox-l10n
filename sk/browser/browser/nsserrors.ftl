@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
@@ -11,20 +12,16 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Pri pripájaní k { $hostname } sa vyskytla chyba. { $errorMessage }
-
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Kód chyby: { $error }
-
 psmerr-ssl-disabled = Nie je možné bezpečne sa pripojiť, pretože protokol SSL je zakázaný.
 psmerr-ssl2-disabled = Nie je možné bezpečne sa pripojiť, pretože server používa staršiu a nie veľmi bezpečnú verziu protokolu SSL.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Prijali ste neplatný certifikát. Obráťte sa na správcu servera alebo odosielateľa e-mailovej správy a poskytnite im tieto informácie:
     
     Váš certifikát obsahuje rovnaké sériové číslo ako iný certifikát vydaný certifikačnou autoritou. Je potrebné získať nový certifikát obsahujúci jedinečné sériové číslo.
-
 ssl-error-export-only-server = Nie je možné bezpečne sa pripojiť. Partner nepodporuje prvotriedne šifrovanie.
 ssl-error-us-only-server = Nie je možné bezpečne komunikovať. Partner vyžaduje prvotriedne šifrovanie, ktoré nie je podporované.
 ssl-error-no-cypher-overlap = S partnerom nie je možné bezpečne komunikovať: žiadny spoločný šifrovací algoritmus.
@@ -149,7 +146,7 @@ ssl-error-rx-malformed-hello-verify-request = Protokol SSL prijal poškodenú in
 ssl-error-rx-unexpected-hello-verify-request = Protokol SSL prijal neočakávanú inicializačnú správu Hello Verify Request.
 ssl-error-feature-not-supported-for-version = Funkcia SSL nie podporovaná pre danú verziu protokolu.
 ssl-error-rx-unexpected-cert-status = Protokol SSL prijal neočakávanú inicializačnú správu Certificate Status.
-ssl-error-unsupported-hash-algorithm = Partner TLS použil neplatný hašovací algoritmus.
+ssl-error-unsupported-hash-algorithm = Partner TLS použil neplatný hashovací algoritmus.
 ssl-error-digest-failure = Chyba funkcie extraktu.
 ssl-error-incorrect-signature-algorithm = V digitálne podpísanom prvku je určený nesprávny podpisový algoritmus.
 ssl-error-next-protocol-no-callback = Rozšírenie vyjednávania o ďalšom protokole bolo povolené, ale fronta bola vyčistená ešte predtým než bola potrebná.
