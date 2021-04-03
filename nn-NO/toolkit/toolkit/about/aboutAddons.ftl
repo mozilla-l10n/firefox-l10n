@@ -226,7 +226,7 @@ addon-install-from-file = Installer tillegg frå ei fil…
 addon-install-from-file-dialog-title = Vel eit tillegg å installere å installera
 addon-install-from-file-filter-name = Tillegg
 addon-open-about-debugging = Feilsøk tillegg
-    .accesskey = D
+    .accesskey = F
 
 ## Extension shortcut management
 
