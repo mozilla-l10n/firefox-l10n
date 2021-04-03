@@ -8,6 +8,7 @@ fxa-toolbar-sync-syncing-tabs =
     .label = Probíhá synchronizace panelů…
 fxa-toolbar-sync-syncing2 = Probíhá synchronizace…
 sync-disconnect-dialog-title = Odpojit { -sync-brand-short-name(case: "acc") }?
+sync-disconnect-dialog-title2 = Chcete se odpojit?
 sync-disconnect-dialog-body = { -brand-product-name } ukončí synchronizaci s vaším účtem, ale nesmaže z tohoto zařízení žádná vaše data.
 fxa-disconnect-dialog-title =
     Odpojit { -brand-product-name.gender ->
@@ -29,3 +30,8 @@ fxa-signout-dialog =
     .buttonlabelaccept = Odhlásit se
 fxa-signout-dialog2-button = Odhlásit se
 fxa-signout-dialog2-checkbox = Smazat data z tohoto zařízení (přihlašovací údaje, historii, záložky atd.).
+fxa-menu-sync-settings =
+    .label = Nastavení synchronizace
+fxa-menu-turn-on-sync =
+    .value = Zapnout synchronizaci
+fxa-menu-turn-on-sync-default = Zapnout synchronizaci

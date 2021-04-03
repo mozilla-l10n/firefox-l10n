@@ -68,6 +68,58 @@ appmenu-update-restart =
     .secondarybuttonlabel = Teď ne
     .secondarybuttonaccesskey = n
 appmenu-update-restart-message = Po rychlém restartu obnoví { -brand-shorter-name } všechny otevřené panely a okna, která nejsou v režimu anonymního prohlížení.
+appmenu-update-available2 =
+    .label = Nová aktualizace
+    .buttonlabel = Stáhnout
+    .buttonaccesskey = S
+    .secondarybuttonlabel = Zavřít
+    .secondarybuttonaccesskey = Z
+appmenu-update-available-message2 =
+    Stáhněte si nejnovější verzi { -brand-shorter-name.gender ->
+        [masculine] { -brand-shorter-name(case: "gen") }
+        [feminine] { -brand-shorter-name(case: "gen") }
+        [neuter] { -brand-shorter-name(case: "gen") }
+       *[other] aplikace { -brand-shorter-name }
+    }.
+appmenu-update-manual2 =
+    .label = Nová aktualizace
+    .buttonlabel = Stáhnout
+    .buttonaccesskey = S
+    .secondarybuttonlabel = Zavřít
+    .secondarybuttonaccesskey = Z
+appmenu-update-manual-message2 =
+    { -brand-shorter-name.gender ->
+        [masculine] { -brand-shorter-name } nemohl
+        [feminine] { -brand-shorter-name } nemohla
+        [neuter] { -brand-shorter-name } nemohlo
+       *[other] Aplikace { -brand-shorter-name } nemohla
+    } automaticky nainstalovat novou aktualizaci. Stáhněte si novou verzi ručně. O svá uložená data ani nastavení nepřijdete.
+appmenu-update-unsupported2 =
+    .label = Nelze nainstalovat novou aktualizaci
+    .buttonlabel = Zjistit více
+    .buttonaccesskey = v
+    .secondarybuttonlabel = Zavřít
+    .secondarybuttonaccesskey = Z
+appmenu-update-unsupported-message2 =
+    Váš operační systém není kompatibilní s nejnovější verzí { -brand-shorter-name.gender ->
+        [masculine] { -brand-shorter-name(case: "gen") }
+        [feminine] { -brand-shorter-name(case: "gen") }
+        [neuter] { -brand-shorter-name(case: "gen") }
+       *[other] aplikace { -brand-shorter-name }
+    }.
+appmenu-update-restart2 =
+    .label = Nová aktualizace
+    .buttonlabel = Nainstalovat a restartovat
+    .buttonaccesskey = N
+    .secondarybuttonlabel = Zavřít
+    .secondarybuttonaccesskey = Z
+appmenu-update-restart-message2 =
+    Stáhněte si nejnovější verzi { -brand-shorter-name.gender ->
+        [masculine] { -brand-shorter-name(case: "gen") }
+        [feminine] { -brand-shorter-name(case: "gen") }
+        [neuter] { -brand-shorter-name(case: "gen") }
+       *[other] aplikace { -brand-shorter-name }
+    }. O otevřené panely ani okna nepřijdete.
 appmenu-update-other-instance =
     .label = { -brand-shorter-name } se nedokáže automaticky aktualizovat na nejnovější verzi.
     .buttonlabel =
@@ -100,6 +152,7 @@ appmenu-addon-private-browsing-installed2 =
     .buttonlabel = OK
     .buttonaccesskey = O
 appmenu-addon-post-install-message2 = Spravujte svá rozšíření a vzhledy z hlavní nabídky aplikace.
+appmenu-addon-post-install-message3 = Spravujte své doplňky a vzhledy z hlavní nabídky aplikace.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Povolit toto rozšíření v anonymních oknech
     .accesskey = P

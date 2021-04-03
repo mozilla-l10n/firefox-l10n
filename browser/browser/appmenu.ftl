@@ -47,14 +47,20 @@ appmenuitem-more-tools =
     .label = Další nástroje
 appmenuitem-exit =
     .label = Ukončit
-appmenuitem-exit2 =
-    .label = Ukončit
 appmenu-menu-button-closed =
     .tooltiptext = Otevře nabídku aplikace
     .label = { -brand-shorter-name }
 appmenu-menu-button-opened =
     .tooltiptext = Zavře nabídku aplikace
     .label = { -brand-shorter-name }
+appmenuitem-exit2 =
+    .label = Ukončit
+appmenu-menu-button-closed2 =
+    .tooltiptext = Otevře nabídku aplikace
+    .label = { -brand-short-name }
+appmenu-menu-button-opened2 =
+    .tooltiptext = Zavře nabídku aplikace
+    .label = { -brand-short-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -73,6 +79,10 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Synchronizovat
+appmenu-remote-tabs-sign-into-sync =
+    .label = Přihlásit se k synchronizaci…
+appmenu-remote-tabs-turn-on-sync =
+    .label = Zapnout synchronizaci…
 appmenuitem-fxa-toolbar-sync-now2 = Synchronizovat
 appmenuitem-fxa-manage-account = Správa účtu
 appmenu-fxa-header =
