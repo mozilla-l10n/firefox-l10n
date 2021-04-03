@@ -1312,13 +1312,7 @@ collection-description =
        *[other] aplikace { -brand-short-name }
     }. Před odesíláním osobních dat vždy žádáme o váš souhlas.
 collection-privacy-notice = Zásady ochrany osobních údajů
-collection-health-report-telemetry-disabled =
-    Odesílat { -vendor-short-name.gender ->
-        [masculine] { -vendor-short-name(case: "dat") }
-        [feminine] { -vendor-short-name(case: "dat") }
-        [neuter] { -vendor-short-name(case: "dat") }
-       *[other] společnosti { -vendor-short-name }
-    } technická data a data o interakcích není nadále povoleno. Všechna historická data budou smazána během 30 dnů.
+collection-health-report-telemetry-disabled = Odesílat { -vendor-short-name(case: "dat") } technická data a data o interakcích není nadále povoleno. Všechna historická data budou smazána během 30 dnů.
 collection-health-report-telemetry-disabled-link = Zjistit více
 collection-health-report =
     .label =
