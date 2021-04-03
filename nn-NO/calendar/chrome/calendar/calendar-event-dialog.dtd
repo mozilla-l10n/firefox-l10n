@@ -224,7 +224,7 @@
 <!ENTITY event.until.label                                "Til:">
 <!ENTITY event.until.accesskey                            "T">
 <!ENTITY event.reminder.label                             "Påminning:" >
-<!ENTITY event.reminder.accesskey                         "u">
+<!ENTITY event.reminder.accesskey                         "m">
 <!ENTITY event.description.label                          "Skildring:" >
 <!ENTITY event.description.accesskey                      "S">
 <!ENTITY event.attachments.label                          "Vedlegg:" >
