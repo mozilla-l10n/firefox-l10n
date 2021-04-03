@@ -43,4 +43,5 @@ sync-input =
 sync-button = Pokračovat
 sync-terms = Pokračováním souhlasíte s <a data-l10n-name="terms">podmínkami poskytování služby</a> a <a data-l10n-name="privacy">zásadami ochrany osobních údajů</a>.
 sync-first = Používáte { -sync-brand-name(case: "acc") } poprvé? Pro synchronizaci svých dat se přihlaste stejným účtem ve všech instalacích Firefoxu.
+new-install-sync-first = Používáte syncronizaci poprvé? Pro synchronizaci svých dat se přihlaste stejným účtem ve všech instalacích Firefoxu.
 sync-learn = Zjistit více
