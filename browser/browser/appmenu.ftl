@@ -41,6 +41,18 @@ appmenu-menu-button-closed =
 appmenu-menu-button-opened =
     .tooltiptext = Tanca el menú de l'aplicació
     .label = { -brand-shorter-name }
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Surt
+           *[other] Surt
+        }
+appmenu-menu-button-closed2 =
+    .tooltiptext = Obre el menú de l'aplicació
+    .label = { -brand-short-name }
+appmenu-menu-button-opened2 =
+    .tooltiptext = Tanca el menú de l'aplicació
+    .label = { -brand-short-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -59,6 +71,10 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sincronitza ara
+appmenu-remote-tabs-sign-into-sync =
+    .label = Inicia la sessió al Sync…
+appmenu-remote-tabs-turn-on-sync =
+    .label = Activa la sincronització…
 appmenuitem-fxa-toolbar-sync-now2 = Sincronitza ara
 appmenuitem-fxa-manage-account = Gestiona el compte
 appmenu-fxa-header =
