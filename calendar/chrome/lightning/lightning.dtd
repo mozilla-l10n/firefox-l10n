@@ -19,12 +19,6 @@
 <!ENTITY lightning.menupopup.new.calendar.accesskey "a">
 
 <!-- Open menu popup in File menu -->
-<!ENTITY lightning.menupopup.open.label               "Otvoriť">
-<!ENTITY lightning.menupopup.open.accesskey           "O">
-<!ENTITY lightning.menupopup.open.message.label       "Uloženú správu…">
-<!ENTITY lightning.menupopup.open.message.accesskey   "U">
-
-<!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.calendar.label      "Súbor kalendára…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "k">
 
@@ -75,7 +69,7 @@
 <!ENTITY lightning.imipbar.btnMore.label                                    "Ďalšie">
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Ďalšie možnosti">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Opäť potvrdiť">
-<!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Odošlať opätovné potvrdenie organizátorovi">
+<!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Odoslať opätovné potvrdenie organizátorovi">
 <!ENTITY lightning.imipbar.btnReschedule.label                              "Preplánovať">
 <!ENTITY lightning.imipbar.btnReschedule.tooltiptext                        "Preplánovať udalosť">
 <!ENTITY lightning.imipbar.btnSaveCopy.label                                "Uložiť kópiu">
