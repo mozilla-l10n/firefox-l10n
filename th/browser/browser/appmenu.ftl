@@ -35,18 +35,24 @@ appmenuitem-more-tools =
     .label = เครื่องมือเพิ่มเติม
 appmenuitem-exit =
     .label = ออก
-appmenuitem-exit2 =
-    .label =
-        { PLATFORM() ->
-            [linux] ออก
-           *[other] ออก
-        }
 appmenu-menu-button-closed =
     .tooltiptext = เปิดเมนูแอปพลิเคชัน
     .label = { -brand-shorter-name }
 appmenu-menu-button-opened =
     .tooltiptext = ปิดเมนูแอปพลิเคชัน
     .label = { -brand-shorter-name }
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] ออก
+           *[other] ออก
+        }
+appmenu-menu-button-closed2 =
+    .tooltiptext = เปิดเมนูแอปพลิเคชัน
+    .label = { -brand-short-name }
+appmenu-menu-button-opened2 =
+    .tooltiptext = ปิดเมนูแอปพลิเคชัน
+    .label = { -brand-short-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -65,6 +71,10 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = ซิงค์ตอนนี้
+appmenu-remote-tabs-sign-into-sync =
+    .label = ลงชื่อเข้า Sync…
+appmenu-remote-tabs-turn-on-sync =
+    .label = เปิด Sync…
 appmenuitem-fxa-toolbar-sync-now2 = ซิงค์ตอนนี้
 appmenuitem-fxa-manage-account = จัดการบัญชี
 appmenu-fxa-header =
