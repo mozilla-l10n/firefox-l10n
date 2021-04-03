@@ -36,6 +36,8 @@ about-webrtc-local-sdp-heading-answer = Místní SDP (Answer)
 about-webrtc-remote-sdp-heading = Vzdálené SDP
 about-webrtc-remote-sdp-heading-offer = Vzdálené SDP (Offer)
 about-webrtc-remote-sdp-heading-answer = Vzdálené SDP (Answer)
+about-webrtc-sdp-history-heading = Historie SDP
+about-webrtc-sdp-parsing-errors-heading = Chyby parsování SDP
 
 ##
 
@@ -132,6 +134,14 @@ about-webrtc-rotation-degrees = Otočení (stupně)
 
 ##
 
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-custom-webrtc-configuration-heading = Uživatelská nastavení WebRTC
+# Section header for estimated bandwidths of WebRTC media flows
+about-webrtc-bandwidth-stats-heading = Odhadovaná šířka pásma
+# The estimated bandwidth available for sending WebRTC media in bytes per second
+about-webrtc-send-bandwidth-bytes-sec = Šířka pásma pro odesílání (bajty/s)
+# The estimated bandwidth available for receiving WebRTC media in bytes per second
+about-webrtc-receive-bandwidth-bytes-sec = Šířka pásma pro příjem (bajty/s)
 # The amount of time it takes for a packet to travel from the local machine to the remote machine,
 # and then have a packet return
 about-webrtc-round-trip-time-ms = RTT ms
@@ -148,6 +158,33 @@ about-webrtc-aec-logging-off-state-msg = soubory sběru protokolu můžete nalé
 
 ##
 
+# This is the total number of packets received on the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets received.
+about-webrtc-received-label =
+    { $packets ->
+        [one] Přijatý { $packets } paket
+        [few] Přijaty { $packets } pakety
+       *[other] Přijato { $packets } paketů
+    }
+# This is the total number of packets lost by the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets lost.
+about-webrtc-lost-label =
+    { $packets ->
+        [one] Ztracen { $packets } paket
+        [few] Ztraceny { $packets } pakety
+       *[other] Ztraceno { $packets } paketů
+    }
+# This is the total number of packets sent by the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets sent.
+about-webrtc-sent-label =
+    { $packets ->
+        [one] Odeslán { $packets } paket
+        [few] Odeslány { $packets } pakety
+       *[other] Odesláno { $packets } paketů
+    }
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
