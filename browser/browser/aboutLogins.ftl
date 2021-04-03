@@ -18,6 +18,7 @@ login-filter =
 create-login-button = Criar nova credencial
 fxaccounts-sign-in-text = Obtenha as suas palavras-passe nos seus outros dispositivos
 fxaccounts-sign-in-button = Iniciar sessão no { -sync-brand-short-name }
+fxaccounts-sign-in-sync-button = Iniciar sessão para sincronizar
 fxaccounts-avatar-button =
     .title = Gerir conta
 
@@ -70,6 +71,7 @@ about-logins-list-item-vulnerable-password-icon =
 
 login-intro-heading = Está à procura das suas credenciais guardadas? Configure o { -sync-brand-short-name }.
 about-logins-login-intro-heading-logged-out = Está à procura das suas credenciais guardadas? Configure o { -sync-brand-short-name } ou importe as credenciais.
+about-logins-login-intro-heading-logged-out2 = À procura das suas credenciais guardadas? Ative a sincronização ou importe as credenciais.
 about-logins-login-intro-heading-logged-in = Não foram encontradas credenciais sincronizadas.
 login-intro-description = Se guardou as suas credenciais para o { -brand-product-name } num dispositivo diferente, eis como as obter aqui:
 login-intro-instruction-fxa = Crie ou inicie a sessão na sua { -fxaccount-brand-name } no dispositivo onde as suas credenciais estão guardadas
