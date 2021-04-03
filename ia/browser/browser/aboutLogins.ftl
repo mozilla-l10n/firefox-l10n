@@ -79,6 +79,7 @@ login-intro-instruction-fxa-settings = Assecura te que le quadrato Credentiales 
 about-logins-intro-instruction-help = Visita le <a data-l10n-name="help-link">supporto pro { -lockwise-brand-short-name }</a> pro plus adjuta
 login-intro-instructions-fxa = Aperi session o crea un { -fxaccount-brand-name(capitalization: "sentence") } sur le apparato ubi se trova tu credentiales.
 login-intro-instructions-fxa-settings = Va a Parametros > Sync > Activar synchronisation… Selige le quadrato ‘Contos e contrasignos’.
+login-intro-instructions-fxa-help = Visita <a data-l10n-name="help-link">{ -lockwise-brand-short-name } Support</a> pro obtener adjuta.
 about-logins-intro-import = Si tu credentiales es salvate in un altere navigator, tu pote <a data-l10n-name="import-link">importar los in { -lockwise-brand-short-name }</a
 about-logins-intro-import2 = Si tu credentiales es salvate foras de { -brand-product-name }, tu pote <a data-l10n-name="import-browser-link">importar los ab un altere navigator</a> o <a data-l10n-name="import-file-link">ab un file</a>
 

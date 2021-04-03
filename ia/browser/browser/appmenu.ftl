@@ -47,6 +47,12 @@ appmenuitem-exit2 =
             [linux] Quitar
            *[other] Exir
         }
+appmenu-menu-button-closed2 =
+    .tooltiptext = Aperir le menu del application
+    .label = { -brand-short-name }
+appmenu-menu-button-opened2 =
+    .tooltiptext = Clauder le menu del application
+    .label = { -brand-short-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -65,6 +71,10 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Synchronisar ora
+appmenu-remote-tabs-sign-into-sync =
+    .label = Aperir session in Sync…
+appmenu-remote-tabs-turn-on-sync =
+    .label = Activar Sync…
 appmenuitem-fxa-toolbar-sync-now2 = Synchronisar ora
 appmenuitem-fxa-manage-account = Gerer conto
 appmenu-fxa-header =
