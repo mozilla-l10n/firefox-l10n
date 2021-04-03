@@ -5,38 +5,35 @@
 bookmark-overlay-name =
     .value = नाम:
     .accesskey = N
-
 bookmark-overlay-location =
     .value = स्थान:
     .accesskey = L
-
 bookmark-overlay-folder =
     .value = फ़ोल्डर‌:
-
+bookmark-overlay-name-2 =
+    .value = नाम
+    .accesskey = N
+bookmark-overlay-url =
+    .value = URL
+    .accesskey = U
 bookmark-overlay-choose =
     .label = ‌चुनें…
-
 bookmark-overlay-folders-expander =
     .tooltiptext = सभी बुकमार्क फ़ोल्डर दिखाएँ‌
     .tooltiptextdown = { bookmark-overlay-folders-expander.tooltiptext }
     .tooltiptextup = छिपाएँ‌
-
 bookmark-overlay-new-folder-button =
     .label = नया फ़ोल्डर
     .accesskey = o
-
 bookmark-overlay-tags =
     .value = टैग:
     .accesskey = T
-
 bookmark-overlay-tags-empty-description =
     .placeholder = अल्पविराम से टैग अलग करें
-
 bookmark-overlay-tags-expander =
     .tooltiptext = सभी टैग दिखाएँ‌
     .tooltiptextdown = { bookmark-overlay-tags-expander.tooltiptext }
     .tooltiptextup = छिपाएँ‌
-
 bookmark-overlay-keyword =
     .value = बीजशब्द:
     .accesskey = K
