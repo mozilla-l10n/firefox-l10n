@@ -35,18 +35,24 @@ appmenuitem-more-tools =
     .label = Mais ferramentas
 appmenuitem-exit =
     .label = Sair
-appmenuitem-exit2 =
-    .label =
-        { PLATFORM() ->
-            [linux] Sair
-           *[other] Sair
-        }
 appmenu-menu-button-closed =
     .tooltiptext = Abrir menu da aplicação
     .label = { -brand-shorter-name }
 appmenu-menu-button-opened =
     .tooltiptext = Fechar menu da aplicação
     .label = { -brand-shorter-name }
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Sair
+           *[other] Sair
+        }
+appmenu-menu-button-closed2 =
+    .tooltiptext = Abrir menu da aplicação
+    .label = { -brand-short-name }
+appmenu-menu-button-opened2 =
+    .tooltiptext = Fechar menu da aplicação
+    .label = { -brand-short-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -65,6 +71,10 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sincronizar agora
+appmenu-remote-tabs-sign-into-sync =
+    .label = Iniciar sessão para sincronizar…
+appmenu-remote-tabs-turn-on-sync =
+    .label = Ativar a sincronização…
 appmenuitem-fxa-toolbar-sync-now2 = Sincronizar agora
 appmenuitem-fxa-manage-account = Gerir conta
 appmenu-fxa-header =
