@@ -58,7 +58,7 @@
 <!ENTITY  font.langGroup.telugu                   "Telugu">
 <!ENTITY  font.langGroup.kannada                  "Kannada">
 <!ENTITY  font.langGroup.sinhala                  "Singalesisk">
-<!ENTITY  font.langGroup.tibetan                  "">
+<!ENTITY  font.langGroup.tibetan                  "Tibetansk">
 <!ENTITY  font.langGroup.other                    "Andre skriftsystem">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Minimum storleik:">
