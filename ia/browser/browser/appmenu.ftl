@@ -35,18 +35,18 @@ appmenuitem-more-tools =
     .label = Altere utensiles
 appmenuitem-exit =
     .label = Exir
-appmenuitem-exit2 =
-    .label =
-        { PLATFORM() ->
-            [linux] Quitar
-           *[other] Exir
-        }
 appmenu-menu-button-closed =
     .tooltiptext = Aperir menu del application
     .label = { -brand-shorter-name }
 appmenu-menu-button-opened =
     .tooltiptext = Clauder menu del application
     .label = { -brand-shorter-name }
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Quitar
+           *[other] Exir
+        }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -78,7 +78,7 @@ appmenu-fxa-sync-and-save-data =
     .value = Synchronisar e salvar datos
 appmenu-fxa-signed-in-label = Aperir session
 appmenu-fxa-setup-sync =
-    .label = Activation synchronisation…
+    .label = Activar synchronisation…
 appmenu-fxa-show-more-tabs = Monstrar altere schedas
 appmenuitem-save-page =
     .label = Salvar le pagina como…

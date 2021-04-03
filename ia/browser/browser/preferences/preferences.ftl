@@ -662,10 +662,10 @@ containers-remove-button =
 
 sync-signedout-caption = Porta le web con te
 sync-signedout-description = Synchronisa tu marcapaginas, chronologia, contrasignos, additivos, e preferentias inter tote tu apparatos.
-sync-signedout-description2 = Synchronisa tu marcapaginas, chronologia, contrasignos, additivos, e parametros inter tote tu apparatos.
 sync-signedout-account-signin2 =
     .label = Aperir session in { -sync-brand-short-name }…
     .accesskey = A
+sync-signedout-description2 = Synchronisa tu marcapaginas, chronologia, contrasignos, additivos, e parametros inter tote tu apparatos.
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -705,6 +705,9 @@ prefs-sync-setup =
     .label = Configuration de { -sync-brand-short-name }…
     .accesskey = C
 prefs-sync-offer-setup-label = Synchronisa tu marcapaginas, chronologia, contrasignos, additivos e preferentias inter tote tu apparatos.
+prefs-sync-turn-on-syncing =
+    .label = Activar synchronisation…
+    .accesskey = s
 prefs-sync-offer-setup-label2 = Synchronisa tu marcapaginas, chronologia, contrasignos, additivos, e parametros inter tote tu apparatos.
 prefs-sync-now =
     .labelnotsyncing = Synchronisar ora
@@ -717,7 +720,7 @@ sync-currently-syncing-heading = Tu synchronisa actualmente iste elementos:
 sync-currently-syncing-bookmarks = Marcapaginas
 sync-currently-syncing-history = Chronologia
 sync-currently-syncing-tabs = Schedas aperte
-sync-currently-syncing-logins-passwords = Connexiones e contrasignos
+sync-currently-syncing-logins-passwords = Contos e contrasignos
 sync-currently-syncing-addresses = Adresses
 sync-currently-syncing-creditcards = Cartas de credito
 sync-currently-syncing-addons = Additivos
@@ -751,7 +754,7 @@ sync-engine-tabs =
     .tooltiptext = Un lista de lo que es aperte sur tote le apparatos synchronisate
     .accesskey = T
 sync-engine-logins-passwords =
-    .label = Credentiales e contrasignos
+    .label = Contos e contrasignos
     .tooltiptext = Nomines de usator e contrasignos que tu ha salvate
     .accesskey = C
 sync-engine-addresses =
@@ -800,11 +803,11 @@ privacy-header = Confidentialitate del navigator
 ## Privacy Section - Logins and Passwords
 
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
-pane-privacy-logins-and-passwords-header = Authenticationes e contrasignos
+pane-privacy-logins-and-passwords-header = Contos e contrasignos
     .searchkeywords = { -lockwise-brand-short-name }
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
-    .label = Demanda de salvar authenticationes e contrasignos de sito
+    .label = Proponer de salvar contos e contrasignos pro sitos web
     .accesskey = r
 forms-exceptions =
     .label = Exceptiones…

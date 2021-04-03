@@ -18,6 +18,7 @@ login-filter =
 create-login-button = Crear nove credentiales
 fxaccounts-sign-in-text = Accede a tu credentiales sur tote tu apparatos
 fxaccounts-sign-in-button = Aperir session in { -sync-brand-short-name }
+fxaccounts-sign-in-sync-button = Aperi session pro synchronisar
 fxaccounts-avatar-button =
     .title = Gerer conto
 
@@ -70,11 +71,14 @@ about-logins-list-item-vulnerable-password-icon =
 
 login-intro-heading = Cerca tu le credentiales salvate? Configura { -sync-brand-short-name }.
 about-logins-login-intro-heading-logged-out = Cerca tu le credentiales salvate? Configura { -sync-brand-short-name }  o importa los.
+about-logins-login-intro-heading-logged-out2 = Cerca tu le credentiales que tu ha salvate? Activa le synchronisation o importa los.
 about-logins-login-intro-heading-logged-in = Nulle credentiales synchronisate trovate.
 login-intro-description = Si tu ha salvate tu credentiales in { -brand-product-name } sur un altere apparato, ecce como render los disponibile hic:
 login-intro-instruction-fxa = Crea o identifica te a tu { -fxaccount-brand-name } sur le apparato ubi tu credentiales es salvate
 login-intro-instruction-fxa-settings = Assecura te que le quadrato Credentiales es seligite in le parametros de { -sync-brand-short-name }
 about-logins-intro-instruction-help = Visita le <a data-l10n-name="help-link">supporto pro { -lockwise-brand-short-name }</a> pro plus adjuta
+login-intro-instructions-fxa = Aperi session o crea un { -fxaccount-brand-name(capitalization: "sentence") } sur le apparato ubi se trova tu credentiales.
+login-intro-instructions-fxa-settings = Va a Parametros > Sync > Activar synchronisation… Selige le quadrato ‘Contos e contrasignos’.
 about-logins-intro-import = Si tu credentiales es salvate in un altere navigator, tu pote <a data-l10n-name="import-link">importar los in { -lockwise-brand-short-name }</a
 about-logins-intro-import2 = Si tu credentiales es salvate foras de { -brand-product-name }, tu pote <a data-l10n-name="import-browser-link">importar los ab un altere navigator</a> o <a data-l10n-name="import-file-link">ab un file</a>
 
