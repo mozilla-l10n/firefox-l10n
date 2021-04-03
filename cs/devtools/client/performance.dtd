@@ -113,8 +113,8 @@
 <!-- LOCALIZATION NOTE (performanceUI.enableFramerate): This string
   -  is displayed next to a checkbox determining whether or not framerate
   -  is recorded. -->
-<!ENTITY performanceUI.enableFramerate             "Zaznamenávat frekvenci snímkování">
-<!ENTITY performanceUI.enableFramerate.tooltiptext "Zaznamenává frekvenci snímkování během profilování.">
+<!ENTITY performanceUI.enableFramerate             "Zaznamenávat frekvenci snímků">
+<!ENTITY performanceUI.enableFramerate.tooltiptext "Zaznamenává frekvenci snímků během profilování.">
 
 <!-- LOCALIZATION NOTE (performanceUI.console.recordingNoticeStart/recordingNoticeEnd):
   -  This string is displayed when a recording is selected that started via console.profile.

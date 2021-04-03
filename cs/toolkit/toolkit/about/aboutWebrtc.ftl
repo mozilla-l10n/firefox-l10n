@@ -56,14 +56,10 @@ about-webrtc-ice-pair-bytes-sent = Odesláno bajtů:
 about-webrtc-ice-pair-bytes-received = Staženo bajtů:
 about-webrtc-ice-component-id = ID komponenty
 
-##
-
-
 ## "Avg." is an abbreviation for Average. These are used as data labels.
 
-
-##
-
+about-webrtc-avg-bitrate-label = Prům. přenos:
+about-webrtc-avg-framerate-label = Prům. frekvence snímků:
 
 ## These adjectives are used to label a line of statistics collected for a peer
 ## connection. The data represents either the local or remote end of the
@@ -120,14 +116,25 @@ about-webrtc-fold-show-msg = zobrazit detaily
     .title = klepněte pro rozbalení této sekce
 about-webrtc-fold-hide-msg = skrýt detaily
     .title = klepněte pro zabalení této sekce
+about-webrtc-dropped-frames-label = Vynecháno snímků:
+about-webrtc-discarded-packets-label = Zahozeno paketů:
 about-webrtc-decoder-label = Dekodér
 about-webrtc-encoder-label = Kodér
+about-webrtc-show-tab-label = Zobrazit panel
+about-webrtc-width-px = Šířka (px)
+about-webrtc-height-px = Výška (px)
+about-webrtc-time-elapsed = Uplynulý čas (s)
+about-webrtc-estimated-framerate = Odhadovaná frekvence snímků
+about-webrtc-rotation-degrees = Otočení (stupně)
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
 
 ##
 
+# The amount of time it takes for a packet to travel from the local machine to the remote machine,
+# and then have a packet return
+about-webrtc-round-trip-time-ms = RTT ms
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
