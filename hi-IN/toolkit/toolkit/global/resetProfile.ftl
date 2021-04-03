@@ -12,3 +12,4 @@ refresh-profile-remove = अपने ऐड-ओंस और अनुकूल
 refresh-profile-restore = अपने ब्राउज़र सेटिंग्स डिफ़ॉल्ट रूप में पुनर्स्थापित करें
 refresh-profile = { -brand-short-name } एक धुन दे दो
 refresh-profile-button = { -brand-short-name } रिसेट करें…
+refresh-profile-learn-more = अधिक जानें
