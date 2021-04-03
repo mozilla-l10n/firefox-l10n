@@ -170,6 +170,7 @@ biff-use-system-alert =
 tray-icon-unread-label =
     .label = Mostrar um ícone no tabuleiro para mensagens não lidas
     .accesskey = t
+tray-icon-unread-description = Recomendado ao utilizar botões pequenos na barra de tarefas
 mail-system-sound-label =
     .label = Som pré-definido para novo correio
     .accesskey = d
