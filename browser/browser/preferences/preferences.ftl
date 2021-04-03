@@ -774,7 +774,7 @@ sync-engine-creditcards =
 sync-engine-addons =
     .label = Tillegg
     .tooltiptext = Tillegg og tema for Firefox desktop
-    .accesskey = U
+    .accesskey = T
 sync-engine-prefs =
     .label =
         { PLATFORM() ->
