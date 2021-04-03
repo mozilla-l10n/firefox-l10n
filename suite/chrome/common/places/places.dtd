@@ -64,7 +64,7 @@
 
 <!ENTITY cmd.new_bookmark.label            "Nytt bokmerke…">
 <!ENTITY cmd.new_bookmark.accesskey        "b">
-<!ENTITY cmd.new_folder.label              "">
+<!ENTITY cmd.new_folder.label              "Ny mappe…">
 <!ENTITY cmd.new_folder.accesskey          "a">
 <!ENTITY cmd.context_new_folder.accesskey  "e">
 <!ENTITY cmd.new_separator.label           "Ny skiljelinje">
@@ -101,6 +101,6 @@
 <!ENTITY byMostVisited.label      "Etter mest besøkt">
 <!ENTITY byMostVisited.accesskey  "b">
 <!ENTITY byLastVisited.label      "Etter sist besøkt">
-<!ENTITY byLastVisited.accesskey  "">
+<!ENTITY byLastVisited.accesskey  "b">
 <!ENTITY byDayAndSite.label       "Etter dato og nettstad">
 <!ENTITY byDayAndSite.accesskey   "t">

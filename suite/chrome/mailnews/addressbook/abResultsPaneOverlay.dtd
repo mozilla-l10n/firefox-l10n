@@ -28,12 +28,10 @@
 <!ENTITY HomePhone.accesskey                   "H">
 <!ENTITY WorkPhone.label                       "Arbeidstelefon">
 <!ENTITY WorkPhone.accesskey                   "t">
-<!ENTITY ScreenName.label                      "Skjermnamn">
-<!ENTITY ScreenName.accesskey                  "S">
 <!ENTITY sortAscending.label                   "Stigande">
 <!ENTITY sortAscending.accesskey               "S">
 <!ENTITY sortDescending.label                  "Søkkande">
-<!ENTITY sortDescending.accesskey              "y">
+<!ENTITY sortDescending.accesskey              "ø">
 
 <!-- context menu -->
 <!ENTITY composeEmail.label                    "Skriv e-post til">
