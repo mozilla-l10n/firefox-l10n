@@ -76,7 +76,6 @@ login-intro-description = หากคุณบันทึกการเข้
 login-intro-instruction-fxa = สร้างหรือลงชื่อเข้าใช้ { -fxaccount-brand-name } ของคุณบนอุปกรณ์ที่บันทึกการเข้าสู่ระบบของคุณ
 login-intro-instruction-fxa-settings = ตรวจสอบให้แน่ใจว่าคุณได้เลือกกล่องกาเครื่องหมายการเข้าสู่ระบบในการตั้งค่า { -sync-brand-short-name }
 about-logins-intro-instruction-help = เยี่ยมชม<a data-l10n-name="help-link">ฝ่ายสนับสนุน { -lockwise-brand-short-name }</a> สำหรับวิธีใช้เพิ่มเติม
-login-intro-instructions-fxa = สร้างหรือลงชื่อเข้าใช้ { -fxaccount-brand-name(capitalization: "sentence") } ของคุณบนอุปกรณ์ที่บันทึกการเข้าสู่ระบบของคุณ
 login-intro-instructions-fxa-help = เยี่ยมชม<a data-l10n-name="help-link">ฝ่ายสนับสนุน { -lockwise-brand-short-name }</a> สำหรับวิธีใช้เพิ่มเติม
 about-logins-intro-import = หากการเข้าสู่ระบบของคุณถูกบันทึกไว้ในเบราว์เซอร์อื่น คุณสามารถ<a data-l10n-name="import-link">นำเข้าข้อมูลเหล่านี้ใน { -lockwise-brand-short-name }</a> ได้
 about-logins-intro-import2 = หากการเข้าสู่ระบบของคุณถูกบันทึกไว้ภายนอก { -brand-product-name } คุณสามารถ<a data-l10n-name="import-browser-link">นำเข้าจากเบราว์เซอร์อื่น</a>หรือ<a data-l10n-name="import-file-link">จากไฟล์</a>ได้
