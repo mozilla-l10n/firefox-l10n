@@ -8,35 +8,13 @@
 # Variables:
 #   $month (String): Numeric month the credit card expires
 #   $year (String): Four-digit year the credit card expires
-credit-card-expiration = 유효기간 { $month }/{ $year }
+credit-card-expiration = 유효 기간 { $month }/{ $year }
 
 ## These labels serve as a description of a credit card.
 ## The description must include a credit card number, and may optionally
 ## include a cardholder name, an expiration date, or both, so we have
 ## four variations.
 
-# Label for a credit card with a number only
-#
-# Variables:
-#   $number (String): Partially-redacted credit card number
-credit-card-label-number = { $number }
-# Label for a credit card with a number and name
-#
-# Variables:
-#   $number (String): Partially-redacted credit card number
-#   $name (String): Cardholder name
-credit-card-label-number-name = { $number }, { $name }
-# Label for a credit card with a number and expiration date
-#
-# Variables:
-#   $number (String): Partially-redacted credit card number
-credit-card-label-number-expiration = { $number }, { credit-card-expiration }
-# Label for a credit card with a number, name, and expiration date
-#
-# Variables:
-#   $number (String): Partially-redacted credit card number
-#   $name (String): Cardholder name
-credit-card-label-number-name-expiration = { $number }, { $name }, { credit-card-expiration }
 # Label for a credit card with a number only
 #
 # Variables:
