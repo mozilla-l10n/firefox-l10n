@@ -34,6 +34,9 @@ sidebar-preferences-button-title =
             [windows] { -brand-short-name } विकल्प
            *[other] { -brand-short-name } प्राथमिकताएं
         }
+addons-settings-button = { -brand-short-name } सेटिंग
+sidebar-settings-button-title =
+    .title = { -brand-short-name } सेटिंग
 show-unsigned-extensions-button =
     .label = कुछ विस्तार सत्यापित नही किया जा सका
 show-all-extensions-button =
