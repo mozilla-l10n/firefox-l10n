@@ -481,6 +481,15 @@ update-application-check-choose =
 update-application-manual =
     .label = Nikdy nevyhledávat aktualizace (nedoporučeno)
     .accesskey = N
+update-application-background-enabled =
+    .label =
+        { -brand-short-name.gender ->
+            [masculine] Když je { -brand-short-name } vypnutý
+            [feminine] Když je { -brand-short-name } vypnutá
+            [neuter] Když je { -brand-short-name } vypnuté
+           *[other] Když je aplikace vypnutá
+        }
+    .accesskey = v
 update-application-warning-cross-user-setting =
     Toto nastavení ovlivní všechny uživatele systému Windows a jejich profily { -brand-short-name.gender ->
         [masculine] { -brand-short-name(case: "gen") }
