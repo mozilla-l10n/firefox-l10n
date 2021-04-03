@@ -307,3 +307,8 @@ policies-error = त्रुटि
 ## Printing section
 
 support-printing-prefs-name = नाम
+
+## Normandy sections
+
+support-remote-experiments-name = नाम
+support-remote-features-name = नाम

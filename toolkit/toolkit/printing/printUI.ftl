@@ -7,11 +7,11 @@ printui-page-range-all = सभी
 printui-page-range-label = पृष्ठ
 printui-landscape = लैंडस्केप
 printui-portrait = पोर्ट्रेट
+printui-destination-pdf-label = PDF में सहेजें
 printui-more-settings = अधिक सेटिंग
 printui-less-settings = कम सेटिंग
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = दो तरफा प्रिंटिंग
-printui-duplex-checkbox = दोनों तरफ प्रिंट करें
 # Section title for miscellaneous print options
 printui-options = विकल्प
 printui-headers-footers-checkbox = हेडर और फुटर प्रिंट करें
