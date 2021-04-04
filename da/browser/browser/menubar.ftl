@@ -11,6 +11,8 @@
 
 ## Application Menu (macOS only)
 
+menu-application-preferences =
+    .label = Indstillinger
 menu-application-services =
     .label = Tjenester
 menu-application-hide-this =
@@ -252,12 +254,18 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Log ind på { -brand-product-name }…
     .accesskey = g
+menu-tools-addons-and-themes =
+    .label = Tilføjelser og temaer
+    .accesskey = T
 menu-tools-fxa-sign-in2 =
     .label = Log ind
     .accesskey = L
 menu-tools-turn-on-sync =
     .label = Aktiver { -sync-brand-short-name }…
     .accesskey = A
+menu-tools-turn-on-sync2 =
+    .label = Slå synkronisering til
+    .accesskey = S
 menu-tools-sync-now =
     .label = Synkroniser nu
     .accesskey = S
@@ -267,6 +275,12 @@ menu-tools-fxa-re-auth =
 menu-tools-web-developer =
     .label = Webudvikler
     .accesskey = W
+menu-tools-browser-tools =
+    .label = Browser-værktøj
+    .accesskey = B
+menu-tools-task-manager =
+    .label = Jobliste
+    .accesskey = J
 menu-tools-page-source =
     .label = Sidens kildekode
     .accesskey = k
