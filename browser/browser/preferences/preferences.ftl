@@ -662,10 +662,10 @@ containers-remove-button =
 
 sync-signedout-caption = Llévese la web con usted
 sync-signedout-description = Sincronice sus marcadores, historial, pestañas, contraseñas, complementos y preferencias en todos sus dispositivos.
-sync-signedout-description2 = Sincronice sus marcadores, historial, pestañas, contraseñas, complementos y ajustes en todos sus dispositivos.
 sync-signedout-account-signin2 =
     .label = Iniciar sesión en{ -sync-brand-short-name }…
     .accesskey = I
+sync-signedout-description2 = Sincronice sus marcadores, historial, pestañas, contraseñas, complementos y ajustes en todos sus dispositivos.
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -1002,7 +1002,7 @@ enhanced-tracking-protection-setting-strict =
     .accesskey = r
 enhanced-tracking-protection-setting-custom =
     .label = Personalizado
-    .accesskey = C
+    .accesskey = P
 
 ##
 
