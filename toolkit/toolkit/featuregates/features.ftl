@@ -16,6 +16,13 @@ experimental-features-web-gpu-description2 = Toto nové API poskytuje nízkoúro
 # by various online articles and is technical in nature.
 experimental-features-media-avif =
     .label = Média: AVIF
+experimental-features-media-avif-description =
+    Zapne { -brand-short-name.gender ->
+        [masculine] ve { -brand-short-name(case: "loc") }
+        [feminine] v { -brand-short-name(case: "loc") }
+        [neuter] v { -brand-short-name(case: "loc") }
+       *[other] v aplikaci { -brand-short-name }
+    } podporu pro formát AVIF založený na AV1. Jde o statický obrazový formát, který využívá možnosti formátu videa AV1 pro zmenšení velikosti obrázků. Podrobnosti najdete v <a data-l10n-name="bugzilla">bugu 1443863</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
@@ -39,17 +46,21 @@ experimental-features-devtools-compatibility-panel-description = Postranní pane
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Cookies: výchozí nastavení SameSite=Lax
+experimental-features-cookie-samesite-lax-by-default2-description = Pokud není uveden žádný atribut „SameSite“, je s cookies nakládáno, jako by měly atribut „SameSite=Lax“. Pokud potřebují dnes běžné chování odpovídající „SameSite=None“, musí jej vývojáři explicitně vyžádat.
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-none-requires-secure2 =
     .label = Cookies: SameSite=None pouze s atributem secure
+experimental-features-cookie-samesite-none-requires-secure2-description = Cookies s atributem „SameSite=None“ vyžadují také atribut secure.Tato funkce vyžaduje „Cookies: SameSite=None by default“.
 # about:home should be kept in English, as it refers to the the URI for
 # the internal default home page.
 experimental-features-abouthome-startup-cache =
     .label = Mezipaměť about:home
+experimental-features-abouthome-startup-cache-description = Obsah mezipaměti pro výchozí dokument about:home, bude připraven během spuštění. Její účel je zrychlit spouštění.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
     .label = Cookies: Schemeful SameSite
+experimental-features-cookie-samesite-schemeful-description = Nakládá s cookies ze stejné domény, ale s různým schématem (např. http://example.com oproti https://example.com) jako s cross-site cookies. To zvyšuje bezpečnost, ale může potenciálně vést k rozbití některých funkcí.
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
     .label = Nástroje pro vývojáře: ladění service workerů
@@ -66,6 +77,18 @@ experimental-features-js-warp-description = Povolí projekt Warp, který má zle
 # Fission is the name of the feature and should not be translated.
 experimental-features-fission =
     .label = Fission (izolace stránek)
+experimental-features-fission-description =
+    Fission (izolace stránek) je experimentální funkce { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "gen") }
+        [feminine] { -brand-short-name(case: "gen") }
+        [neuter] { -brand-short-name(case: "gen") }
+       *[other] aplikace { -brand-short-name }
+    } poskytující dalších vrstvu ochrany před bezpečnostními chybami. Oddělení jednotlivých stránek do vlastních procesů komplikuje škodlivým stránkám přístup k informacím z ostatních stránek, které prohlížíte. Jde o velkou architektonickou změnu { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "gen") }
+        [feminine] { -brand-short-name(case: "gen") }
+        [neuter] { -brand-short-name(case: "gen") }
+       *[other] aplikace { -brand-short-name }
+    } a velmi si ceníme vašeho testování a hlášení případných chyb. Podrobnosti najdete na <a data-l10n-name="wiki">wiki</a>.
 # Support for having multiple Picture-in-Picture windows open simultaneously
 experimental-features-multi-pip =
     .label = Podpora více oken obraz v obraze
@@ -73,3 +96,7 @@ experimental-features-multi-pip-description = Zapne experimentální podporu pro
 experimental-features-http3 =
     .label = Protokol HTTP/3
 experimental-features-http3-description = Experimentální podpora protokolu HTTP/3.
+# Search during IME
+experimental-features-ime-search =
+    .label = Adresní řádek: zobrazovat výsledky při použití IME
+experimental-features-ime-search-description = IME (Input Method Editor) je nástroj pro zadávání komplexních symbolů, jako jsou znaky východoasijských nebo indických jazyků, pomocí běžné klávesnice. Po zapnutí tohoto experimentu bude panel adresního řádku zobrazovat výsledky vyhledávání a návrhy našeptávače i při použití IME pro zadávání textu. Protože IME může zakrýt výsledky adresního řádku, doporučujeme tuto předvolbu použít jen s IME, který toto nedělá.
