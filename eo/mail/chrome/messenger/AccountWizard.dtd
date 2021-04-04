@@ -123,5 +123,5 @@
 <!ENTITY deferStorageDesc.label "Malmarku tion ĉi por konservi retleterojn de tiu ĉi konto en ĝia aparta mesaĝujo. Tiel tiu ĉi konto estos videbla kiel la plej altnivela konto. Aliokaze ĝi estos parto de la ĝenerala mesaĝujo.">
 <!ENTITY deferStorage.label "Uzi ĝeneralan mesaĝujon (konservi retleterojn en “lokaj mesaĝujoj”)">
 <!ENTITY deferStorage.accesskey "l">
-<!ENTITY clickFinish.label "Klaku “farita” por konservi agordon kaj fermi la kont‑kreilon.">
-<!ENTITY clickFinish.labelMac "Klaku “farita” por konservi agordon kaj fermi la kont‑kreilon.">
+<!ENTITY clickFinish.label "Alklaku “farita” por konservi la agordon kaj fermi la kont‑kreilon.">
+<!ENTITY clickFinish.labelMac "Alklaku “farita” por konservi la agordon kaj fermi la kont‑kreilon.">
