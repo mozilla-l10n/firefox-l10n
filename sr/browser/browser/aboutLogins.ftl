@@ -86,6 +86,7 @@ login-intro-description =
 login-intro-instruction-fxa = Региструјте се или се пријавите на { -fxaccount-brand-name(case: "acc") } на уређају на ком сте сачували лозинке
 login-intro-instruction-fxa-settings = Проверите да ли сте означили поље „Лозинке” у подешавањима { -sync-brand-short-name(case: "gen") }
 about-logins-intro-instruction-help = Посетите <a data-l10n-name="help-link">страницу подршке за { -lockwise-brand-short-name }</a>
+login-intro-instructions-fxa = Региструјте се или се пријавите на { -fxaccount-brand-name } на уређају на ком сте сачували лозинке.
 login-intro-instructions-fxa-settings = Идите у Подешавања → Синхронизација → Укључи синхронизацију. Изаберите поље „Лозинке”.
 login-intro-instructions-fxa-help = За више информација посетите <a data-l10n-name="help-link">{ -lockwise-brand-short-name } подршку</a>.
 about-logins-intro-import = Ако су ваше лозинке сачуване у другом прегледачу, можете да их <a data-l10n-name="import-link">увезете у { -lockwise-brand-short-name(case: "acc") }</a>
