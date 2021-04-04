@@ -60,6 +60,8 @@ about-webrtc-ice-component-id = ИБ компоненте
 
 ## "Avg." is an abbreviation for Average. These are used as data labels.
 
+about-webrtc-avg-bitrate-label = Средња брзина преноса:
+about-webrtc-avg-framerate-label = Средња брзина кадрова:
 
 ## These adjectives are used to label a line of statistics collected for a peer
 ## connection. The data represents either the local or remote end of the
@@ -116,8 +118,13 @@ about-webrtc-fold-show-msg = прикажи детаље
     .title = кликните да проширите овај одељак
 about-webrtc-fold-hide-msg = сакриј детаље
     .title = кликните да смањите овај одељак
+about-webrtc-dropped-frames-label = Испуштени кадрови:
+about-webrtc-discarded-packets-label = Одбачени пакети:
 about-webrtc-decoder-label = Декодер
 about-webrtc-encoder-label = Енкодер
+about-webrtc-show-tab-label = Прикажи картицу
+about-webrtc-width-px = Ширина (у пикселима)
+about-webrtc-height-px = Висина (у пикселима)
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
