@@ -10,7 +10,7 @@
 <!ENTITY chat.noConv.description       "Uzu la liston de kontaktoj ĉe maldekstre por ekigi interparoladon.">
 <!ENTITY chat.noPreviousConv.description       "&brandShortName; nuntempe ne havas iujn antaŭajn konservitajn interparoladoj por tiu kontakto.">
 <!ENTITY chat.noAccount.title             "Neniu agordita tujmesaĝila konto">
-<!ENTITY chat.noAccount.description       "Klaku la butonon “nova konto” por ke &brandShortName; gvidu vin tra krei novan tujmesaĝilan konton.">
+<!ENTITY chat.noAccount.description       "Alklaku la butonon “nova konto” por ke &brandShortName; gvidu vin tra krei novan tujmesaĝilan konton.">
 <!ENTITY chat.accountWizard.button       "Nova konto">
 <!ENTITY chat.noConnectedAccount.title             "Viaj tujmesaĝilaj kontoj ne estas konektitaj.">
 <!ENTITY chat.noConnectedAccount.description       "Vi povas konekti ĉe la fenestro “stato de tujmesaĝiloj”:">

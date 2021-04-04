@@ -14,5 +14,5 @@
 <!ENTITY tabCSS.label                   "Entekstaj stiloj">
 <!ENTITY tabJSE.label                   "Ĝavoskript-okazaĵoj">
 
-<!ENTITY editAttribute.label    "Klaku elementon por ŝanĝi ĝian valoron">
+<!ENTITY editAttribute.label    "Alklaku elementon por ŝanĝi ĝian valoron">
 <!ENTITY removeAttribute.label  "Forigi">
