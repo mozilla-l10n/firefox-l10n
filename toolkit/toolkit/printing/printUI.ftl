@@ -39,7 +39,6 @@ printui-scale-fit-to-page-width = Прилагоди ширини страниц
 printui-scale-pcent = Размера
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Двострано штампање
-printui-duplex-checkbox = Штампај на обе странице
 printui-two-sided-printing-off = Искљ.
 # Section title for miscellaneous print options
 printui-options = Опције
@@ -54,14 +53,19 @@ printui-margins-default = Подразумевано
 printui-margins-min = Минимално
 printui-margins-none = Никако
 printui-margins-custom-inches = Прилагођено (инчи)
+printui-margins-custom-mm = Прилагођено (mm)
 printui-margins-custom-top = Врх
 printui-margins-custom-top-inches = Врх (инчи)
+printui-margins-custom-top-mm = Горе (mm)
 printui-margins-custom-bottom = Дно
 printui-margins-custom-bottom-inches = Дно (инчи)
+printui-margins-custom-bottom-mm = Доле (mm)
 printui-margins-custom-left = Лево
 printui-margins-custom-left-inches = Лево (инчи)
+printui-margins-custom-left-mm = Лево (mm)
 printui-margins-custom-right = Десно
 printui-margins-custom-right-inches = Десно (инчи)
+printui-margins-custom-right-mm = Десно (mm)
 printui-system-dialog-link = Штампај помоћу системског дијалога…
 printui-primary-button = Штампај
 printui-primary-button-save = Сачувај
@@ -98,6 +102,7 @@ printui-paper-tabloid = Таблоид
 
 printui-error-invalid-scale = Мера мора бити број између 10 и 200.
 printui-error-invalid-margin = Унесите важећу маргину за изабрану величину папира.
+printui-error-invalid-copies = Број примерака мора бити између 1 и 10.000.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Мера мора бити број између 1 и { $numPages }.
