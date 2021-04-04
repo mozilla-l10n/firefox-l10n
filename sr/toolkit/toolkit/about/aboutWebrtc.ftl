@@ -36,6 +36,8 @@ about-webrtc-local-sdp-heading-answer = Локални SDP (Одговор)
 about-webrtc-remote-sdp-heading = Удаљени SDP
 about-webrtc-remote-sdp-heading-offer = Удаљени SDP (Понуда)
 about-webrtc-remote-sdp-heading-answer = Удаљени SDP (Одговор)
+about-webrtc-sdp-history-heading = Историја SDP-а
+about-webrtc-sdp-parsing-errors-heading = Грешке при рашчлањивању SDP-а
 
 ##
 

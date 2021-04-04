@@ -120,6 +120,8 @@ sandbox-sys-call-number = Системски позив
 sandbox-sys-call-args = Аргументи
 safe-mode-title = Покушај безбедни режим
 restart-in-safe-mode-label = Рестартуј са онемогућеним додацима…
+troubleshoot-mode-title = Дијагностика проблема
+restart-in-troubleshoot-mode-label = Режим за решавање проблема…
 clear-startup-cache-title = Покушајте да избришете предмеморију покретања
 clear-startup-cache-label = Избриши предмеморију покретања…
 startup-cache-dialog-title = Избриши предмеморију покретања
@@ -401,3 +403,8 @@ support-printing-prefs-value = Вредност
 
 ## Normandy sections
 
+support-remote-experiments-title = Удаљени експерименти
+support-remote-experiments-name = Назив
+support-remote-features-title = Удаљене функције
+support-remote-features-name = Назив
+support-remote-features-status = Статус
