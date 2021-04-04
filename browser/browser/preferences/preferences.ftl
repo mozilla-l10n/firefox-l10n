@@ -137,6 +137,8 @@ search-results-empty-message =
         [windows] Der er ingen resultater for "<span data-l10n-name="query"></span>" i indstillingerne.
        *[other] Der er ingen resultater for "<span data-l10n-name="query"></span>" i indstillingerne.
     }
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 = Beklager, der er ingen resultater for "<span data-l10n-name="query">" i indstillingerne.
 search-results-help-link = Har du brug for hjælp? Besøg <a data-l10n-name="url">Hjælp til { -brand-short-name }</a>
 
 ## General Section
@@ -606,6 +608,7 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Vis søgeforslag i private vinduer
 suggestions-addressbar-settings-generic = Skift indstillinger for andre forslag i adressefeltet.
+suggestions-addressbar-settings-generic2 = Skift indstillinger for andre forslag i adressefeltet
 search-suggestions-cant-show = Søgeforslag vil ikke blive vist i adressefeltet, fordi du har sat { -brand-short-name } op til aldrig at gemme historik.
 search-one-click-header = Lyn-søgetjenester
 search-one-click-header2 = Søge-genveje
