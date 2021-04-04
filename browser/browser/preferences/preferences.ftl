@@ -660,7 +660,7 @@ sync-mobile-promo = Преузмите Firefox за <img data-l10n-name="android
 sync-profile-picture =
     .tooltiptext = Промени профилну слику
 sync-sign-out =
-    .label = Одјава…
+    .label = Одјави ме…
     .accesskey = О
 sync-manage-account = Управљајте налогом
     .accesskey = н
@@ -689,9 +689,9 @@ prefs-sync-turn-on-syncing =
     .accesskey = У
 prefs-sync-offer-setup-label2 = Синхронизујте обележиваче, историју, картице, лозинке, додатке и подешавања на свим уређајима.
 prefs-sync-now =
-    .labelnotsyncing = Синхронизујте сада
+    .labelnotsyncing = Синхронизуј
     .accesskeynotsyncing = С
-    .labelsyncing = Синхронизација…
+    .labelsyncing = Синхронизовање…
 
 ## The list of things currently syncing.
 
@@ -755,10 +755,10 @@ sync-engine-settings =
 
 ## The device name controls.
 
-sync-device-name-header = Име уређаја
+sync-device-name-header = Назив уређаја
 sync-device-name-change =
-    .label = Измени име уређаја…
-    .accesskey = у
+    .label = Промени назив уређаја…
+    .accesskey = П
 sync-device-name-cancel =
     .label = Откажи
     .accesskey = т
