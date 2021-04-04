@@ -20,3 +20,4 @@ fxa-signout-dialog =
     .title = Log ud af { -fxaccount-brand-name }
     .style = min-width: 375px;
     .buttonlabelaccept = Log ud
+fxa-signout-dialog2-button = Log ud
