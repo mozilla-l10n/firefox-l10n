@@ -14,7 +14,6 @@ fxa-disconnect-dialog-title = Afbryd { -brand-product-name }?
 fxa-disconnect-dialog-body = { -brand-product-name } afbryder forbindelsen til din konto, men sletter ikke dine browsing-data på denne enhed.
 sync-disconnect-dialog-button = Afbryd
 fxa-signout-dialog-heading = Log ud af { -fxaccount-brand-name }?
-fxa-signout-dialog2-title = Log ud fra { -fxaccount-brand-name(capitalization: "sentence") }?
 fxa-signout-dialog-body = Synkroniserede data vil forblive på din konto.
 fxa-signout-checkbox =
     .label = Slet data fra denne enhed (logins, adgangskoder, historik, bogmærker osv.)
