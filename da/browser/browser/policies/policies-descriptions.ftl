@@ -14,7 +14,7 @@ policy-3rdparty = Indstil politikker, som WebExtensions kan tilgå via chrome.st
 policy-AppAutoUpdate = Slå automatisk opdatering af programmet til eller fra.
 policy-AppUpdateURL = Indstil tilpasset URL for app-opdateringer
 policy-Authentication = Indstil integreret godkendelse for websteder, der understøtter det
-policy-BackgroundAppUpdate = Slå opdatering i baggrunden til eller fra. Dette opdaterer browseren, når den ikke kører.
+policy-BackgroundAppUpdate2 = Slå opdatering i baggrund til og fra.
 policy-BlockAboutAddons = Bloker adgang til fanebladet Tilføjelser (about:addons).
 policy-BlockAboutConfig = Bloker adgang til about:config.
 policy-BlockAboutProfiles = Bloker adgang til about:profiles.
@@ -107,6 +107,7 @@ policy-SearchEngines = Opsæt indstillinger for søgetjenester. Denne politik er
 policy-SearchSuggestEnabled = Slå søgeforslag til eller fra.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Installer PKCS #11 moduler.
+policy-ShowHomeButton = Vis hjem-knappen på værktøjslinjen.
 policy-SSLVersionMax = Angiv den højeste SSL-version.
 policy-SSLVersionMin = Angiv den laveste SSL-version.
 policy-SupportMenu = Føj et tilpasset menupunkt til menuen Hjælp.
