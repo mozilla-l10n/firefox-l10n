@@ -26,3 +26,6 @@ fxa-signout-dialog2-button = Se desconnectar
 fxa-signout-dialog2-checkbox = Suprimir las donadas d’aqueste periferic (senhals, istoric, marcapaginas, etc.).
 fxa-menu-sync-settings =
     .label = Paramètres de sincronizacion
+fxa-menu-turn-on-sync =
+    .value = Activar la sincronizacion
+fxa-menu-turn-on-sync-default = Activar la sincronizacion
