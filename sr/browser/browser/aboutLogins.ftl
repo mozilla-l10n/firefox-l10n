@@ -18,6 +18,7 @@ login-filter =
 create-login-button = Направите нову пријаву
 fxaccounts-sign-in-text = Приступите лозинкама на другим уређајима
 fxaccounts-sign-in-button = Пријавите се у { -sync-brand-short-name(case: "acc") }
+fxaccounts-sign-in-sync-button = Пријавите се ради синхронизације
 fxaccounts-avatar-button =
     .title = Управљај налогом
 
