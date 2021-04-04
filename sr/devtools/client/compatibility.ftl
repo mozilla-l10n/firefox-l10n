@@ -43,3 +43,5 @@ compatibility-issue-occurrences =
         [few] { $number } појављивања
        *[other] { $number } појављивања
     }
+compatibility-close-settings-button =
+    .title = Затвори подешавања
