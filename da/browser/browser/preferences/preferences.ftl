@@ -384,6 +384,9 @@ update-application-check-choose =
 update-application-manual =
     .label = aldrig søge efter opdateringer (frarådes)
     .accesskey = N
+update-application-background-enabled =
+    .label = Når { -brand-short-name } ikke kører
+    .accesskey = N
 update-application-warning-cross-user-setting = Denne indstilling vil gælde alle Windows-konti og { -brand-short-name }-profiler, der anvender denne { -brand-short-name }-installation.
 update-application-use-service =
     .label = bruge en baggrundsservice til at installere opdateringer
@@ -636,6 +639,8 @@ containers-back-button =
             [windows] Gå tilbage til indstillinger
            *[other] Gå tilbage til indstillinger
         }
+containers-back-button2 =
+    .aria-label = Tilbage til indstillinger
 containers-header = Kontekst-faneblade
 containers-add-button =
     .label = Tilføj ny kontekst
@@ -644,6 +649,8 @@ containers-new-tab-check =
     .label = Vælg en kontekst for hvert nyt faneblad
     .accesskey = V
 containers-preferences-button =
+    .label = Indstillinger
+containers-settings-button =
     .label = Indstillinger
 containers-remove-button =
     .label = Fjern
@@ -656,6 +663,10 @@ sync-signedout-description = Synkroniser dine bogmærker, historik, faneblade, a
 sync-signedout-account-signin2 =
     .label = Log ind på { -sync-brand-short-name }…
     .accesskey = i
+sync-signedout-description2 = Synkroniser din historik, dine bogmærker, faneblade, adgangskoder, tilføjelser og indstillinger på tværs af dine enheder.
+sync-signedout-account-signin3 =
+    .label = Log ind for at synkronisere…
+    .accesskey = L
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -695,6 +706,10 @@ prefs-sync-setup =
     .label = Indstil { -sync-brand-short-name }…
     .accesskey = I
 prefs-sync-offer-setup-label = Synkroniser bogmærker, historik, faneblade, adgangskoder, tilføjelser og indstillinger på tværs af alle dine enheder.
+prefs-sync-turn-on-syncing =
+    .label = Slå synkronisering til…
+    .accesskey = S
+prefs-sync-offer-setup-label2 = Synkroniser din historik, dine bogmærker, faneblade, adgangskoder, tilføjelser og indstillinger på tværs af dine enheder.
 prefs-sync-now =
     .labelnotsyncing = Synkroniser nu
     .accesskeynotsyncing = n
@@ -715,6 +730,7 @@ sync-currently-syncing-prefs =
         [windows] Indstillinger
        *[other] Indstillinger
     }
+sync-currently-syncing-settings = Indstillinger
 sync-change-options =
     .label = Skift…
     .accesskey = S
