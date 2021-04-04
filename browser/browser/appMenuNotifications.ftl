@@ -86,6 +86,13 @@ appmenu-update-manual2 =
     .buttonaccesskey = П
     .secondarybuttonlabel = Одбаци
     .secondarybuttonaccesskey = О
+appmenu-update-manual-message2 =
+    Аутоматско ажурирање { -brand-shorter-name.gender ->
+        [masculine] { -brand-shorter-name(case: "gen") }
+        [feminine] { -brand-shorter-name(case: "gen") }
+        [neuter] { -brand-shorter-name(case: "gen") }
+       *[other] програма { -brand-shorter-name }
+    } није успело. Ручно преузмите нову верзију; нећете изгубити сачуване податке ни подешавања.
 appmenu-update-unsupported2 =
     .label = Ажурирање није успело
     .buttonlabel = Сазнајте више
@@ -150,6 +157,7 @@ appmenu-addon-private-browsing-installed2 =
     .buttonlabel = У реду
     .buttonaccesskey = У
 appmenu-addon-post-install-message2 = Управљајте проширењима и темама из менија програма.
+appmenu-addon-post-install-message3 = Управљајте додацима и темама из менија програма.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Дозволи овом проширењу да ради у приватним прозорима
     .accesskey = Д
