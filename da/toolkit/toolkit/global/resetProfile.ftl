@@ -10,5 +10,7 @@ refresh-profile-description = Start forfra for at rette problemer og genoprette 
 refresh-profile-description-details = Dette vil:
 refresh-profile-remove = Fjerne dine tilføjelser og tilpasninger
 refresh-profile-restore = Gendanne din browsers indstillinger til standardindstillingerne
+refresh-profile-dialog-description = Start forfra for at løse problemer med ydelsen. Dette fjerner dine udvidelser og tilpassede indstillinger. Du mister ikke vigtige oplysninger som bogmærker og adgangskoder.
 refresh-profile = Giv { -brand-short-name } en tuning
 refresh-profile-button = Nulstil { -brand-short-name }…
+refresh-profile-learn-more = Læs mere
