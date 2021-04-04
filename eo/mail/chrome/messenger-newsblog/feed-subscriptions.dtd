@@ -49,7 +49,7 @@
 <!ENTITY button.importOPML.accesskey "n">
 <!ENTITY button.exportOPML.label     "Elporti">
 <!ENTITY button.exportOPML.accesskey "l">
-<!ENTITY button.exportOPML.tooltip   "Elporti abonfluojn konservante strukturon de mesaĝujoj; klaku premante la klavon Ctrl por elporti abonfluojn kiel liston">
+<!ENTITY button.exportOPML.tooltip   "Elporti abonfluojn konservante strukturon de mesaĝujoj; alklaku premante la klavon Ctrl por elporti abonfluojn kiel liston">
 
 <!ENTITY cmd.close.commandKey        "w">
 <!ENTITY button.close.label          "Fermi">
