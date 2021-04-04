@@ -80,6 +80,25 @@ appmenu-update-restart =
     .secondarybuttonlabel = Касније
     .secondarybuttonaccesskey = К
 appmenu-update-restart-message = Након рестартовања { -brand-shorter-name } ће вратити све отворене картице и прозоре који нису у режиму приватног прегледања.
+appmenu-update-unsupported2 =
+    .label = Ажурирање није успело
+    .buttonlabel = Сазнајте више
+    .buttonaccesskey = С
+    .secondarybuttonlabel = Одбаци
+    .secondarybuttonaccesskey = О
+appmenu-update-unsupported-message2 =
+    Ваш оперативни систем није компатибилан са најновијом верзијом { -brand-shorter-name.gender ->
+        [masculine] { -brand-shorter-name(case: "acc") }
+        [feminine] { -brand-shorter-name(case: "acc") }
+        [neuter] { -brand-shorter-name(case: "acc") }
+       *[other] програма { -brand-shorter-name }
+    }.
+appmenu-update-restart2 =
+    .label = Доступно је ажурирање
+    .buttonlabel = Ажурирај и рестартуј
+    .buttonaccesskey = А
+    .secondarybuttonlabel = Одбаци
+    .secondarybuttonaccesskey = О
 appmenu-update-other-instance =
     .label =
         Није могуће инсталирати најновију верзију { -brand-shorter-name.gender ->
