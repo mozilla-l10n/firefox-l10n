@@ -51,6 +51,7 @@ appmenu-update-unsupported2 =
     .buttonaccesskey = N
     .secondarybuttonlabel = Ignorar
     .secondarybuttonaccesskey = n
+appmenu-update-unsupported-message2 = Vòstre sistèma operatiu pren pas en carga la darrièra version de { -brand-shorter-name }.
 appmenu-update-restart2 =
     .label = Mesa a jorn disponibla
     .buttonlabel = Metre a jorn e reaviar
