@@ -45,6 +45,7 @@ appmenu-update-manual2 =
     .buttonaccesskey = L
     .secondarybuttonlabel = Elvetés
     .secondarybuttonaccesskey = E
+appmenu-update-manual-message2 = A { -brand-shorter-name } automatikus frissítése nem sikerült. Töltse le az új verziót – nem fogja elveszíteni a mentett információkat vagy a testreszabásokat.
 appmenu-update-unsupported2 =
     .label = Nem lehet frissíteni
     .buttonlabel = További tudnivalók
