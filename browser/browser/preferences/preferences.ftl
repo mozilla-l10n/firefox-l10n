@@ -28,6 +28,18 @@ search-input-box =
             [windows] Søg i indstillinger
            *[other] Søg i indstillinger
         }
+settings-page-title = Indstillinger
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box2 =
+    .style = width: 15.4em
+    .placeholder = Find i indstillinger
 managed-notice = Din browser bliver forvaltet af din organisation.
 category-list =
     .aria-label = Kategorier
@@ -46,6 +58,9 @@ category-privacy =
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
+pane-sync-title3 = Synkronisering
+category-sync3 =
+    .tooltiptext = { pane-sync-title3 }
 pane-experimental-title = { -brand-short-name }-eksperimenter
 category-experimental =
     .tooltiptext = { -brand-short-name }-eksperimenter
@@ -380,6 +395,14 @@ update-setting-write-failure-title = Kunne ikke gemme indstillinger for opdateri
 # intentional so the path is easier to identify.
 update-setting-write-failure-message =
     { -brand-short-name } stødte på en fejl og gemte ikke ændringen. Bemærk, at for at kunne gemme ændringer, skal der være tilladelse til at skrive til den nedennævnte fil. Du eller en systemadministrator kan måske løse problemet ved at give gruppen Users fuld kontrol over filen.
+    
+    Kunne ikke skrive til filen: { $path }
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message2 =
+    { -brand-short-name } stødte på en fejl og gemte ikke denne ændring. Bemærk at det kræver tilladelse til at skrive til filen nedenfor, hvis du vil ændre indstillinger for opdatering. Du eller en systemadministrator kan måske løse problemet ved at give gruppen Users fuld kontrol over denne fil.
     
     Kunne ikke skrive til filen: { $path }
 update-in-progress-title = Opdatering…
