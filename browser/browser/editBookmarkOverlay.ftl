@@ -48,3 +48,5 @@ bookmark-overlay-keyword =
 bookmark-overlay-keyword-2 =
     .value = Kulcsszó
     .accesskey = K
+bookmark-overlay-tags-caption-label = A címkék segítségével rendezheti és kereshet rá a könyvjelzőkre a címsávból
+bookmark-overlay-keyword-caption-label = Használjon kulcsszavakat a könyvjelzők közvetlenül a címsávból történő megnyitásához
