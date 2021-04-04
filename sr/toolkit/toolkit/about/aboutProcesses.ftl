@@ -19,9 +19,35 @@ about-processes-gpu-process-name = GPU (процес { $pid })
 about-processes-vr-process-name = VR (процес { $pid })
 about-processes-rdd-process-name = Декодер података (процес { $pid })
 about-processes-socket-process-name = Мрежа (процес { $pid })
+about-processes-unknown-process-name = Друго ({ $type }, процес { $pid })
+# Process
+# Variables:
+#   $name (String) The name assigned to the process.
+#   $pid (String) The process id of this process, assigned by the OS.
+about-processes-process-name = Процес { $pid }: { $name }
 
 ## Details within processes
 
+# Single-line summary of threads
+# Variables:
+#    $number (Number) The number of threads in the process. Typically larger
+#                     than 30. We don't expect to ever have processes with less
+#                     than 5 threads.
+about-processes-thread-summary = Нити ({ $number })
+# Thread details
+# Variables:
+#   $name (String) The name assigned to the thread.
+#   $tid (String) The thread id of this thread, assigned by the OS.
+about-processes-thread-name = Нит { $tid }: { $name }
+# Tab
+# Variables:
+#   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
+about-processes-tab-name = Картица: { $name }
+about-processes-preloaded-tab = Унапред учитана нова картица
+# Single subframe
+# Variables:
+#   $url (String) The full url of this subframe.
+about-processes-frame-name-one = Подоквир: { $url }
 # Group of subframes
 # Variables:
 #   $number (Number) The number of subframes in this group. Always ≥ 1.
