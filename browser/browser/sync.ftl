@@ -8,6 +8,7 @@ fxa-toolbar-sync-syncing-tabs =
     .label = Синхронизујем језичке…
 fxa-toolbar-sync-syncing2 = Синхронизујем…
 sync-disconnect-dialog-title = Одпојити { -sync-brand-short-name }?
+sync-disconnect-dialog-title2 = Прекинути везу?
 sync-disconnect-dialog-body = { -brand-product-name } ће зауставити синхронизацију са вашим налогом, али неће избрисати податке прегледања на овом уређају.
 fxa-disconnect-dialog-title = Одпојити { -brand-product-name }?
 fxa-disconnect-dialog-body = { -brand-product-name } ће прекинути везу са вашим налогом, али неће избрисати податке прегледања на овом уређају.
