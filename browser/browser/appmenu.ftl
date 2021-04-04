@@ -79,6 +79,10 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Синхронизуј сада
+appmenu-remote-tabs-sign-into-sync =
+    .label = Пријавите се ради синхронизације…
+appmenu-remote-tabs-turn-on-sync =
+    .label = Укључи синхронизацију…
 appmenuitem-fxa-toolbar-sync-now2 = Синхронизуј
 appmenuitem-fxa-manage-account = Управљај налогом
 appmenu-fxa-header =
