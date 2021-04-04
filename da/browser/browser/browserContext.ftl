@@ -102,6 +102,18 @@ main-context-menu-bookmark-add =
     .aria-label = Bogmærk denne side
     .accesskey = m
     .tooltiptext = Bogmærk denne side
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-add-mac =
+    .label = Bogmærk side
+    .accesskey = d
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-edit-mac =
+    .label = Rediger bogmærke
+    .accesskey = d
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-add-with-shortcut =
@@ -316,7 +328,7 @@ main-context-menu-video-image-save-as =
     .accesskey = S
 main-context-menu-video-take-snapshot =
     .label = Tag snapshot…
-    .accesskey = s
+    .accesskey = T
 main-context-menu-video-email =
     .label = Send video…
     .accesskey = d
@@ -360,6 +372,9 @@ main-context-menu-suggest-strong-password =
     .accesskey = r
 main-context-menu-manage-logins =
     .label = Håndter logins…
+    .accesskey = H
+main-context-menu-manage-logins2 =
+    .label = Håndter logins
     .accesskey = H
 main-context-menu-keyword =
     .label = Tilføj en genvej til denne søgning…

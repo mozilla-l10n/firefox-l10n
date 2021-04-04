@@ -264,11 +264,15 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = Tilføj bogmærke
+bookmarks-edit-bookmark = Rediger Bogmærke
 bookmark-panel-show-editor-checkbox =
     .label = Vis editor, når der gemmes
     .accesskey = V
 bookmark-panel-done-button =
     .label = Færdig
+bookmark-panel-save-button =
+    .label = Gem
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -361,6 +365,24 @@ browser-tab-audio-pip = BILLEDE-I-BILLEDE
 ## Variables:
 ##  $count (number): number of affected tabs
 
+browser-tab-mute =
+    { $count ->
+        [1] SLÅ LYD FRA I FANEBLAD
+        [one] SLÅ LYD FRA I FANEBLAD
+       *[other] SLÅ LYD FRA I { $count } FANEBLADE
+    }
+browser-tab-unmute =
+    { $count ->
+        [1] SLÅ LYD TIL I FANEBLAD
+        [one] SLÅ LYD TIL I FANEBLAD
+       *[other] SLÅ LYD TIL I { $count } FANEBLADE
+    }
+browser-tab-unblock =
+    { $count ->
+        [1] AFSPIL FANEBLAD
+        [one] AFSPIL FANEBLAD
+       *[other] AFSPIL { $count } FANEBLADE
+    }
 
 ## Bookmarks toolbar items
 
