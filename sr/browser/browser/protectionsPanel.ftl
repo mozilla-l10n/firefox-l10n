@@ -21,7 +21,7 @@ protections-popup-footer-protection-label-standard = Стандардно
 # The text a screen reader speaks when focused on the info button.
 protections-panel-etp-more-info =
     .aria-label = Више података о побољшаној заштити од праћења
-protections-panel-etp-on-header = Побољшана заштита од праћења је УКЉУЧЕНА на овој страници
+protections-panel-etp-on-header = Побољшана заштита од праћења на овом сајту је укључена
 protections-panel-etp-off-header = Побољшана заштита од праћења је ИСКЉУЧЕНА на овој страници
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Страница не ради?
