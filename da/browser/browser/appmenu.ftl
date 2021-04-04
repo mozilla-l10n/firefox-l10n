@@ -7,6 +7,12 @@
 
 appmenuitem-update-banner =
     .label-update-downloading = Henter { -brand-shorter-name }-opdatering
+appmenuitem-update-banner2 =
+    .label-update-downloading = Henter { -brand-shorter-name }-opdatering
+    .label-update-available = Opdatering tilgængelig — hent nu
+    .label-update-manual = Opdatering tilgængelig — hent nu
+    .label-update-unsupported = Kan ikke opdatere
+    .label-update-restart = Opdatering tilgængelig — genstart nu
 appmenuitem-protection-dashboard-title = Oversigt over beskyttelse
 appmenuitem-customize-mode =
     .label = Tilpas…
@@ -163,6 +169,9 @@ appmenu-help-safe-mode-with-addons =
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-enter-troubleshoot-mode2 =
+    .label = Fejlsøgnings-tilstand…
+    .accesskey = F
 appmenu-help-exit-troubleshoot-mode =
     .label = Slå fejlsøgnings-tilstand fra
     .accesskey = f
