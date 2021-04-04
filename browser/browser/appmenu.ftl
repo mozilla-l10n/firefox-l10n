@@ -47,14 +47,20 @@ appmenuitem-more-tools =
     .label = Више алатки
 appmenuitem-exit =
     .label = Излаз
-appmenuitem-exit2 =
-    .label = Изађи
 appmenu-menu-button-closed =
     .tooltiptext = Отвори мени програма
     .label = { -brand-shorter-name }
 appmenu-menu-button-opened =
     .tooltiptext = Затвори мени програма
     .label = { -brand-shorter-name }
+appmenuitem-exit2 =
+    .label = Изађи
+appmenu-menu-button-closed2 =
+    .tooltiptext = Отвори мени програма
+    .label = { -brand-short-name }
+appmenu-menu-button-opened2 =
+    .tooltiptext = Затвори мени програма
+    .label = { -brand-short-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
