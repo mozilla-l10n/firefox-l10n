@@ -34,3 +34,12 @@ compatibility-target-browsers-header = Циљни прегледачи
 
 ##
 
+# Text used as the label for the number of nodes where the issue occurred
+# Variables:
+#   $number (Number) - The number of nodes where the issue occurred
+compatibility-issue-occurrences =
+    { $number ->
+        [one] { $number } појављивање
+        [few] { $number } појављивања
+       *[other] { $number } појављивања
+    }
