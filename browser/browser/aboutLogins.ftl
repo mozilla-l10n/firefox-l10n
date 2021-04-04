@@ -18,6 +18,7 @@ login-filter =
 create-login-button = Opret nyt login
 fxaccounts-sign-in-text = Få dine adgangkoder på alle dine enheder
 fxaccounts-sign-in-button = Log ind på { -sync-brand-short-name }
+fxaccounts-sign-in-sync-button = Log ind for at synkronisere
 fxaccounts-avatar-button =
     .title = Håndter konto
 
@@ -70,11 +71,14 @@ about-logins-list-item-vulnerable-password-icon =
 
 login-intro-heading = Leder du efter dine gemte logins? Opsæt { -sync-brand-short-name }.
 about-logins-login-intro-heading-logged-out = Leder du efter dine gemte logins? Opsæt { -sync-brand-short-name } eller importer dine logins.
+about-logins-login-intro-heading-logged-out2 = Leder du efter dine gemte logins? Slå synkronisering til eller importer dem.
 about-logins-login-intro-heading-logged-in = Ingen synkroniserede logins fundet.
 login-intro-description = Hvis du har gemt dine logins i { -brand-product-name } på en anden enhed, så skal du gøre sådan for at anvende dem her også:
 login-intro-instruction-fxa = Opret eller log ind på din { -fxaccount-brand-name } på den enhed, hvor dine logins er gemt
 login-intro-instruction-fxa-settings = Vær sikker på, at du har sat et flueben ud for Logins i { -sync-brand-short-name }-indstillingerne.
 about-logins-intro-instruction-help = Besøg <a data-l10n-name="help-link">{ -lockwise-brand-short-name } denne side</a> for at få mere hjælp
+login-intro-instructions-fxa = Opret eller log ind på din { -fxaccount-brand-name(capitalization: "sentence") } på den enhed, hvor dine logins er gemt.
+login-intro-instructions-fxa-settings = Gå til Indstillinger > Sync > Slå synkronisering til… Sæt flueben ud for Logins og adgangskoder.
 about-logins-intro-import = Hvis dine logins er gemt i en anden browser, kan du <a data-l10n-name="import-link">importere dem til { -lockwise-brand-short-name }</a>
 about-logins-intro-import2 = Hvis dine logins er gemt et andet sted end { -brand-product-name }, så kan du <a data-l10n-name="import-browser-link">importere dem fra en anden browser</a> eller <a data-l10n-name="import-file-link">fra en fil</a>
 
