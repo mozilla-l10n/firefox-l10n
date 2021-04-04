@@ -50,6 +50,10 @@ this container is a toolbar. This avoids double-speaking. -->
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.syncSettings2.label "Подешавања &syncBrand.shortName.label;-а">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     followed by the user's email. -->
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Повежи други уређај…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 <!ENTITY fxa.menu.signin.label "Пријавите се у &brandProductName;">
@@ -59,7 +63,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.settings.label "Подешавања">
 <!ENTITY fxa.menu.accountSettings.label "Подешавања налога">
 <!ENTITY fxa.menu.manageAccount2.label "Управљајте налогом">
-<!ENTITY fxa.menu.signOut.label "Одјава…">
+<!ENTITY fxa.menu.signOut.label "Одјави ме…">
 <!ENTITY fxa.menu.setupSync.label "Поставите &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
@@ -154,6 +158,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuHelp.label "Помоћ">
 
 <!ENTITY appMenuRemoteTabs.label "Синхронизоване картице">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Нема отворених језичака">
@@ -269,7 +274,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY updateUnsupported.panelUI.label "Не можете вршити додатна ажурирања">
 <!ENTITY updateRestart.panelUI.label2 "Рестартуј &brandShorterName; ради ажурирања">
 
-<!ENTITY sendToDevice.syncNotReady.label "Синхронизујем уређаје…">
+<!ENTITY sendToDevice.syncNotReady.label "Синхронизовање уређаја…">
 
 <!ENTITY pageAction.shareUrl.label "Подели">
 <!ENTITY pageAction.shareMore.label "Још…">
