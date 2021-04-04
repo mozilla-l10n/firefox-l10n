@@ -125,26 +125,50 @@ about-webrtc-encoder-label = Kodér
 about-webrtc-show-tab-label = Zobrazit panel
 about-webrtc-width-px = Šířka (px)
 about-webrtc-height-px = Výška (px)
+about-webrtc-consecutive-frames = Po sobě jdoucí snímky
 about-webrtc-time-elapsed = Uplynulý čas (s)
 about-webrtc-estimated-framerate = Odhadovaná frekvence snímků
 about-webrtc-rotation-degrees = Otočení (stupně)
+about-webrtc-first-frame-timestamp = Časová značka prvního zaznamenaného snímku
+about-webrtc-last-frame-timestamp = Časová značka posledního zaznamenaného snímku
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
+# This is an SSRC on the local side of the connection that is receiving RTP
+about-webrtc-local-receive-ssrc = Místní příchozí SSRC
+# This is an SSRC on the remote side of the connection that is sending RTP
+about-webrtc-remote-send-ssrc = Vzdálené odchozí SSRC
 
 ##
 
+# An option whose value will not be displayed but instead noted as having been
+# provided
+about-webrtc-configuration-element-provided = Poskytnuto
+# An option whose value will not be displayed but instead noted as having not
+# been provided
+about-webrtc-configuration-element-not-provided = Neposkytnuto
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Uživatelská nastavení WebRTC
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = Odhadovaná šířka pásma
+# The ID of the MediaStreamTrack
+about-webrtc-track-identifier = Identifikátor stopy
 # The estimated bandwidth available for sending WebRTC media in bytes per second
 about-webrtc-send-bandwidth-bytes-sec = Šířka pásma pro odesílání (bajty/s)
 # The estimated bandwidth available for receiving WebRTC media in bytes per second
 about-webrtc-receive-bandwidth-bytes-sec = Šířka pásma pro příjem (bajty/s)
+# Maximum number of bytes per second that will be padding zeros at the ends of packets
+about-webrtc-max-padding-bytes-sec = Maximální výplň (bajty/s)
+# The amount of time inserted between packets to keep them spaced out
+about-webrtc-pacer-delay-ms = Zpoždění mezi pakety (ms)
 # The amount of time it takes for a packet to travel from the local machine to the remote machine,
 # and then have a packet return
 about-webrtc-round-trip-time-ms = RTT ms
+# This is a section heading for video frame statistics for a MediaStreamTrack.
+# see https://developer.mozilla.org/en-US/docs/Web/API/MediaStreamTrack.
+# Variables:
+#   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
+about-webrtc-frame-stats-heading = Statistiky video snímků - MediaStreamTrack ID: { $track-identifier }
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
@@ -198,6 +222,11 @@ about-webrtc-trickle-caption-msg = Trickled candidates (doručené po odpovědi)
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
+# This is used as a header for an SDP section contained in two columns allowing for side-by-side comparisons.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+#  $relative-timestamp (Number) - The timestamp relative to the timestamp of the earliest received SDP.
+about-webrtc-sdp-set-timestamp = Časová značka { NUMBER($timestamp, useGrouping: "false") } (+ { $relative-timestamp } ms)
 
 ##
 
