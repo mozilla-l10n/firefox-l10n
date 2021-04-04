@@ -67,6 +67,7 @@ category-experimental =
 pane-experimental-subtitle = Fortsæt på eget ansvar
 pane-experimental-search-results-header = { -brand-short-name }-eksperimenter: Fortsæt på eget ansvar
 pane-experimental-description = Ved at ændre avancerede indstillinger kan du påvirke ydelse eller sikkerhed for { -brand-short-name }.
+pane-experimental-description2 = Ændring af avancerede indstillinger for opsætning kan påvirke ydelse eller sikkerhed for { -brand-short-name }.
 pane-experimental-reset =
     .label = Gendan standarder
     .accesskey = G
@@ -778,6 +779,10 @@ sync-engine-prefs =
         }
     .tooltiptext = Generelle indstillinger samt indstillinger for privatliv og sikkerhed
     .accesskey = I
+sync-engine-settings =
+    .label = Indstillinger
+    .tooltiptext = Generelle indstillinger, samt indstillinger for privatliv og sikkerhed, som du har ændret
+    .accesskey = I
 
 ## The device name controls.
 
@@ -1192,6 +1197,15 @@ space-alert-under-5gb-ok-button =
     .label = OK
     .accesskey = K
 space-alert-under-5gb-message = { -brand-short-name } er ved at løbe tør for diskplads. Websteds-indhold bliver muligvis ikke vist korrekt. Klik på "Læs mere" og lær, hvordan du kan få en bedre browsing-oplevelse ved at optimere diskforbrug.
+space-alert-over-5gb-settings-button =
+    .label = Åbn indstillinger
+    .accesskey = b
+space-alert-over-5gb-message2 =
+    <strong>{ -brand-short-name } er ved at løbe tør for diskplads</strong> 
+    Indhold på websteder vises måske ikke korrekt. Du kan slette gemte data i Indstillinger > Privatliv & sikkerhed > Cookies og websteds-data
+space-alert-under-5gb-message2 =
+    <strong>{ -brand-short-name } er ved at løbe tør for diskplads</strong> 
+    Indhold på websteder vises måske ikke korrekt. Klik på "Læs mere" for at optimere dit diskforbrug og få en bedre browsing-oplevelse.
 
 ## Privacy Section - HTTPS-Only
 
