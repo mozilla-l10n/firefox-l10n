@@ -18,6 +18,7 @@ login-filter =
 create-login-button = नई लॉगिन बनाएँ
 fxaccounts-sign-in-text = अपने पासवर्ड को अपने अन्य उपकरणों पर प्राप्त करें
 fxaccounts-sign-in-button = { -sync-brand-short-name } में साइन इन करें
+fxaccounts-sign-in-sync-button = सिंक करने के लिए साइन इन करें
 fxaccounts-avatar-button =
     .title = खाता प्रबंधित करें
 
@@ -29,6 +30,7 @@ menu =
 about-logins-menu-menuitem-import-from-another-browser = दूसरे ब्राउज़र से आयात करें…
 about-logins-menu-menuitem-import-from-a-file = इस फ़ाइल से आयात करें…
 about-logins-menu-menuitem-export-logins = लॉगिंस निर्यात करें…
+about-logins-menu-menuitem-remove-all-logins = सभी लॉगिन हटाएं…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] विकल्प
@@ -69,6 +71,7 @@ about-logins-list-item-vulnerable-password-icon =
 
 login-intro-heading = अपने सहेजे गए लॉगिन की खोज़ है? { -sync-brand-short-name } सेट करें।
 about-logins-login-intro-heading-logged-out = अपने सहेजे लॉगिंस खोज रहे हैं? { -sync-brand-short-name } को सेटअप करें या उन्हें आयात करें।
+about-logins-login-intro-heading-logged-out2 = अपने सहेजे गए लॉगिन खोज रहे हैं? सिंक को चालू करें या उन्हें आयात करें।
 about-logins-login-intro-heading-logged-in = कोई संकलित लॉगिन नहीं मिला।
 login-intro-description = यदि आपने अपने लॉगिन को एक अलग डिवाइस पर { -brand-product-name } में सहेजा है, तो उन्हें यहां ऐसे प्राप्त करें:
 login-intro-instruction-fxa = उस उपकरण पर अपना { -fxaccount-brand-name } बनाएं या साइन इन करें जिसपर आपके लॉगिन सहेजे गए हैं
@@ -230,3 +233,16 @@ about-logins-import-file-picker-csv-filter-title =
 about-logins-import-dialog-error-learn-more = अधिक जानें
 about-logins-import-dialog-error-try-again = फिर से कोशिश करें...
 about-logins-import-dialog-error-cancel = रद्द करें
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+
+## Logins import report page
+
