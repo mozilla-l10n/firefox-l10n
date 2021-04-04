@@ -27,6 +27,8 @@ appmenuitem-passwords =
     .label = Adgangskoder
 appmenuitem-extensions-and-themes =
     .label = Udvidelser og temaer
+appmenuitem-addons-and-themes =
+    .label = Tilføjelser og temaer
 appmenuitem-find-in-page =
     .label = Find på side…
 appmenuitem-more-tools =
@@ -39,6 +41,18 @@ appmenu-menu-button-closed =
 appmenu-menu-button-opened =
     .tooltiptext = Luk program-menu
     .label = { -brand-shorter-name }
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Afslut
+           *[other] Afslut
+        }
+appmenu-menu-button-closed2 =
+    .tooltiptext = Åbn program-menu
+    .label = { -brand-short-name }
+appmenu-menu-button-opened2 =
+    .tooltiptext = Luk program-menu
+    .label = { -brand-short-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -57,6 +71,10 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Synkroniser nu
+appmenu-remote-tabs-sign-into-sync =
+    .label = Log ind for at synkronisere…
+appmenu-remote-tabs-turn-on-sync =
+    .label = Slå synkronisering til…
 appmenuitem-fxa-toolbar-sync-now2 = Synkroniser nu
 appmenuitem-fxa-manage-account = Håndter konto
 appmenu-fxa-header =
