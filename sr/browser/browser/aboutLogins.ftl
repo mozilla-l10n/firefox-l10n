@@ -74,6 +74,7 @@ about-logins-list-item-vulnerable-password-icon =
 
 login-intro-heading = Тражите сачуване пријаве? Подесите { -sync-brand-short-name }.
 about-logins-login-intro-heading-logged-out = Тражите сачуване пријаве? Увезите их или подесите { -sync-brand-short-name(case: "acc") }.
+about-logins-login-intro-heading-logged-out2 = Тражите сачуване лозинке? Увезите их или укључите синхронизацију.
 about-logins-login-intro-heading-logged-in = Синхронизоване пријаве нису пронађене.
 login-intro-description =
     Ако сте сачували пријаве у { -brand-product-name.gender ->
@@ -85,6 +86,8 @@ login-intro-description =
 login-intro-instruction-fxa = Региструјте се или се пријавите на { -fxaccount-brand-name(case: "acc") } на уређају на ком сте сачували лозинке
 login-intro-instruction-fxa-settings = Проверите да ли сте означили поље „Лозинке” у подешавањима { -sync-brand-short-name(case: "gen") }
 about-logins-intro-instruction-help = Посетите <a data-l10n-name="help-link">страницу подршке за { -lockwise-brand-short-name }</a>
+login-intro-instructions-fxa-settings = Идите у Подешавања → Синхронизација → Укључи синхронизацију. Изаберите поље „Лозинке”.
+login-intro-instructions-fxa-help = За више информација посетите <a data-l10n-name="help-link">{ -lockwise-brand-short-name } подршку</a>.
 about-logins-intro-import = Ако су ваше лозинке сачуване у другом прегледачу, можете да их <a data-l10n-name="import-link">увезете у { -lockwise-brand-short-name(case: "acc") }</a>
 about-logins-intro-import2 = Ако се ваше лозинке налазе ван { -brand-product-name(case: "gen") }, можете да их <a data-l10n-name="import-browser-link">увезете из другог прегледача</a> или <a data-l10n-name="import-file-link">из датотеке</a>
 
