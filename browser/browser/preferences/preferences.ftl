@@ -678,7 +678,7 @@ sync-sign-in =
 
 ## Sync section - enabling or disabling sync.
 
-prefs-syncing-on = Синхронизација: УКЉУЧЕНА
+prefs-syncing-on = Синхронизација је укључена
 prefs-syncing-off = Синхронизација: ИСКЉУЧЕНА
 prefs-sync-setup =
     .label = Поставите { -sync-brand-short-name }…
