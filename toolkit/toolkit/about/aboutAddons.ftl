@@ -34,6 +34,9 @@ sidebar-preferences-button-title =
             [windows] Indstillinger for { -brand-short-name }
            *[other] Indstillinger for { -brand-short-name }
         }
+addons-settings-button = { -brand-short-name }-indstillinger
+sidebar-settings-button-title =
+    .title = { -brand-short-name }-indstillinger
 show-unsigned-extensions-button =
     .label = Nogle udvidelser kunne ikke bekræftes
 show-all-extensions-button =
@@ -386,9 +389,6 @@ addon-detail-private-browsing-disallow = Tillad ikke
 addon-badge-recommended2 =
     .title = { -brand-product-name } anbefaler kun udvidelser, der overholder vores krav til sikkerhed og ydelse.
     .aria-label = { addon-badge-recommended2.title }
-addon-badge-line2 =
-    .title = Dette er en officiel udvidelse bygget af udviklerne bag { -brand-product-name }
-    .aria-label = { addon-badge-line2.title }
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
