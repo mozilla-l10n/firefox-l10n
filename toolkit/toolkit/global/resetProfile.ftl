@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = Nulstil { -brand-short-name }
+refresh-profile-dialog-title = Nulstil { -brand-short-name } til standard-indstillingerne?
 refresh-profile-dialog-button =
     .label = Nulstil { -brand-short-name }
 refresh-profile-description = Start forfra for at rette problemer og genoprette ydelsen.
