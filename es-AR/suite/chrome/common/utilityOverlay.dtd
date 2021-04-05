@@ -138,7 +138,7 @@
 <!ENTITY helpMenuWin.label                "Ayuda">
 <!ENTITY helpMenuWin.accesskey            "y">
 <!ENTITY openHelpCmd.label                "Contenido de la ayuda">
-<!ENTITY openHelpCmd.accesskey            "H">
+<!ENTITY openHelpCmd.accesskey            "y">
 <!ENTITY openHelpCmd.key                  "VK_F1">
 
 <!ENTITY helpForIEUsers.label               "Para usuarios de Internet Explorer">
