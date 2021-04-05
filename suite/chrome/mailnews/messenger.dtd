@@ -277,7 +277,7 @@
 <!ENTITY prevFlaggedMsgCmd.label "Mensaje destacado">
 <!ENTITY prevFlaggedMsgCmd.accesskey "M">
 <!ENTITY folderMenu.label "Carpeta">
-<!ENTITY folderMenu.accesskey "o">
+<!ENTITY folderMenu.accesskey "p">
 <!ENTITY startPageCmd.label "Página de inicio del correo">
 <!ENTITY startPageCmd.accesskey "i">
 
