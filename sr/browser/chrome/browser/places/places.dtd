@@ -38,7 +38,7 @@
 <!ENTITY cmd.backup.accesskey           "А">
 <!ENTITY cmd.restore2.label             "Врати">
 <!ENTITY cmd.restore2.accesskey         "О">
-<!ENTITY cmd.restoreFromFile.label      "Избор датотеке…">
+<!ENTITY cmd.restoreFromFile.label      "Одабери датотеку…">
 <!ENTITY cmd.restoreFromFile.accesskey  "И">
 
 <!ENTITY col.name.label          "Назив">
