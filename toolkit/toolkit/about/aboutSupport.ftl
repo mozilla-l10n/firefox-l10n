@@ -15,13 +15,13 @@ crashes-no-config = Овај програм није подешен да при�
 extensions-title = Проширења
 extensions-name = Назив
 extensions-enabled = Укључен
-extensions-version = Издање
+extensions-version = Верзија
 extensions-id = ID
 support-addons-title = Додаци
 support-addons-name = Назив
 support-addons-type = Тип
 support-addons-enabled = Омогућено
-support-addons-version = Издање
+support-addons-version = Верзија
 support-addons-id = ID
 security-software-title = Безбедносни софтвер
 security-software-type = Тип
@@ -31,14 +31,14 @@ security-software-antispyware = Антиспајвер
 security-software-firewall = Заштитни зид
 features-title = { -brand-short-name } могућности
 features-name = Назив
-features-version = Издање
+features-version = Верзија
 features-id = ID
 processes-title = Удаљени процеси
 processes-type = Тип
 processes-count = Број
 app-basics-title = Информације о програму
 app-basics-name = Назив
-app-basics-version = Издање
+app-basics-version = Верзија
 app-basics-build-id = ID издања
 app-basics-distribution-id = ID дистрибуције
 app-basics-update-channel = Канал за ажурирање
@@ -252,9 +252,9 @@ text-copied = Текст копиран у бележницу
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
-blocked-driver = Блокирано је за издање графичког драјвера који користите.
+blocked-driver = Блокирано због верзије драјвера графичке картице.
 blocked-gfx-card = Блокирано на графичкој картици због нерешених проблема са драјвером.
-blocked-os-version = Блокирано за издање оперативног система који користите.
+blocked-os-version = Блокирано због верзије оперативног система.
 blocked-mismatched-version = Блокирана верзија драјвера графике јер је дошло до неслагања између регистра и DLL.
 # Variables
 # $driverVersion - The graphics driver version string
@@ -322,8 +322,8 @@ content-uses-tiling = Користи плочице (садржај)
 off-main-thread-paint-enabled = Нит за сликање омогућена
 off-main-thread-paint-worker-count = Thread Painting Worker бројач
 target-frame-rate = Циљана брзина освежавања тј. Framerate
-min-lib-versions = Очекивано минимално издање
-loaded-lib-versions = Издање у употреби
+min-lib-versions = Очекивана минимална верзија
+loaded-lib-versions = Верзија у употреби
 has-seccomp-bpf = Seccomp-BPF (Системско филтрирање позива)
 has-seccomp-tsync = Seccomp синхронизација нити
 has-user-namespaces = Именски простор корисника
