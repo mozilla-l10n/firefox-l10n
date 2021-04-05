@@ -63,7 +63,7 @@ abuse-report-messagebar-action-cancel = Откажи
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
-abuse-report-damage-reason-v2 = Оштетило је мој рачунар или угрозило моје податке
+abuse-report-damage-reason-v2 = Штети рачунару или краде моје податке
 abuse-report-damage-example = Пример: убризгани злонамерни програм тј. malware или украдени подаци
 abuse-report-spam-reason-v2 = Садржи нежељен садржај или убацује непожељне рекламе
 abuse-report-spam-example = Пример: умеће рекламе на веб странице
