@@ -352,9 +352,9 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 multi-process-status-0 = Омогућио корисник
 multi-process-status-1 = Омогућено подразумевано
 multi-process-status-2 = Онемогућено
-multi-process-status-4 = Онемогућено од стране алата приступачности
-multi-process-status-6 = Онемогућено од стране неподржаног уноса текста
-multi-process-status-7 = Онемогућено од стране додатака
+multi-process-status-4 = Онемогућиле алатке приступачности
+multi-process-status-6 = Онемогућио неподржани метод уноса текста
+multi-process-status-7 = Онемогућили додаци
 multi-process-status-8 = Присилно онемогућено
 multi-process-status-unknown = Непознат статус
 # Variables
