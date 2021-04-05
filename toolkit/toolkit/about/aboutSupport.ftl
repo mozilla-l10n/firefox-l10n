@@ -36,7 +36,7 @@ features-id = ID
 processes-title = Удаљени процеси
 processes-type = Тип
 processes-count = Број
-app-basics-title = Основе апликације
+app-basics-title = Информације о програму
 app-basics-name = Назив
 app-basics-version = Издање
 app-basics-build-id = ID издања
@@ -48,7 +48,7 @@ app-basics-update-dir = Фасцикла за ажурирања
 app-basics-update-history = Историја ажурирања
 app-basics-show-update-history = Прикажи историјат ажурирања
 # Represents the path to the binary used to start the application.
-app-basics-binary = Бинарна апликација
+app-basics-binary = Бинарна датотека програма
 app-basics-profile-dir = Фасцикла профила
 app-basics-enabled-plugins = Активирани прикључци
 app-basics-build-config = Конфигурација изградње
@@ -153,10 +153,10 @@ media-capabilities-enumerate = Попис уноса базе података
 ##
 
 intl-title = Интернационализација & Локализација
-intl-app-title = Поставке апликације
+intl-app-title = Подешавања програма
 intl-locales-requested = Захтевани локали
 intl-locales-available = Доступни локали
-intl-locales-supported = Локали апликације
+intl-locales-supported = Језици програма
 intl-locales-default = Подразумевани локал
 intl-os-title = Оперативни систем
 intl-os-prefs-system-locales = Локали система

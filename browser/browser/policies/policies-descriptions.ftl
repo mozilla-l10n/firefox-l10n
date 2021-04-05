@@ -11,7 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Поставите правила којим WebExtensions може приступити преко chrome.storage.managed.
-policy-AppAutoUpdate = Омогућите или онемогућите аутоматско ажурирање апликације.
+policy-AppAutoUpdate = Омогућава или онемогућава аутоматско ажурирање програма.
 policy-AppUpdateURL = Подеси прилагођену адресу за ажурирање програма.
 policy-Authentication = Подесите уграђену идентификацију за сајтове који то подржавају.
 policy-BackgroundAppUpdate2 = Омогућава или онемогућава ажурирање у позадини.
@@ -63,7 +63,7 @@ policy-EncryptedMediaExtensions = Омогућите или онемогућит
 policy-Extensions = Инсталирајте, деинсталирајте или закључавајте проширање. Опција за инсталирање узима URL-ове или путање као параметре. Опције за деинсталирање и закључавање узимау ИБ-јеве проширења.
 policy-ExtensionSettings = Управљајте свим аспектима инсталације проширења.
 policy-ExtensionUpdate = Омогућите или онемогућите аутоматска ажурирања проширења.
-policy-FirefoxHome = Подесите Firefox Home.
+policy-FirefoxHome = Подешава почетну страницу Firefox-а.
 policy-FlashPlugin = Дозволи или забрани коришћење Flash прикључка.
 policy-Handlers = Подесите подразумеване менаџере апликација.
 policy-HardwareAcceleration = Ако је нетачно, искључи хардверско убрзавање.

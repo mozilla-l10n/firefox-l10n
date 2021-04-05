@@ -276,10 +276,10 @@ download-choose-folder =
 download-always-ask-where =
     .label = Увек питај где да се сачувају датотеке
     .accesskey = У
-applications-header = Апликације
+applications-header = Програми
 applications-description = Одаберите како да { -brand-short-name } обрађује датотеке које преузмете или програме које користите док претражујете интернет.
 applications-filter =
-    .placeholder = Претражи типове података или апликација
+    .placeholder = Претражите типове датотека или програме
 applications-type-column =
     .label = Тип садржаја
     .accesskey = Т
@@ -473,7 +473,7 @@ home-restore-defaults =
 # "Firefox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
-    .label = Firefox Home (Подразумевано)
+    .label = почетна страница Firefox-а (подразумевано)
 home-mode-choice-custom =
     .label = Прилагођене адресе...
 home-mode-choice-blank =
