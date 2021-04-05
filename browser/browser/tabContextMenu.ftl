@@ -28,19 +28,19 @@ close-other-tabs =
     .label = Затвори друге картице
     .accesskey = д
 reload-tabs =
-    .label = Поново учитај језичке
+    .label = Поново учитај картице
     .accesskey = П
 pin-tab =
     .label = Закачи картицу
     .accesskey = З
 unpin-tab =
-    .label = Откачи језичак
-    .accesskey = т
+    .label = Откачи картицу
+    .accesskey = О
 pin-selected-tabs =
     .label = Закачи картице
     .accesskey = З
 unpin-selected-tabs =
-    .label = Откачи језичке
+    .label = Откачи картице
     .accesskey = О
 bookmark-selected-tabs =
     .label = Обележи картице…
@@ -88,11 +88,11 @@ close-tab =
     .label = Затвори картицу
     .accesskey = а
 close-tabs =
-    .label = Затвори језичке
+    .label = Затвори картице
     .accesskey = З
 move-tabs =
-    .label = Помери језичке
-    .accesskey = м
+    .label = Премести картице
+    .accesskey = П
 move-tab =
     .label = Помери картицу
     .accesskey = м
@@ -107,17 +107,13 @@ tab-context-close-tabs =
     .label =
         { $tabCount ->
             [1] Затвори картицу
-            [one] Затвори картицу
-            [few] Затвори картице
-           *[other] Затвори картица
+           *[other] Затвори картице
         }
-    .accesskey = а
+    .accesskey = З
 tab-context-move-tabs =
     .label =
         { $tabCount ->
-            [1] Помери картицу
-            [one] Помери картицу
-            [few] Помери картице
-           *[other] Помери картица
+            [1] Премести картицу
+           *[other] Премести картице
         }
-    .accesskey = м
+    .accesskey = П
