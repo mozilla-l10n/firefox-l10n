@@ -94,7 +94,7 @@ fonts-minsize = Минимална величина фонта:
 fonts-minsize-none =
     .label = нема
 fonts-allow-own =
-    .label = Дозволи страницама да изаберу сопствене фонтове, уместо дефинисаних
+    .label = Дозволи веб-сајтовима да користе своје фонтове уместо дефинисаних
     .accesskey = Д
 
 ## Text Encodings
