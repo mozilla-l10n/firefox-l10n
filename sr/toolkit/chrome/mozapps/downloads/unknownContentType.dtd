@@ -10,7 +10,7 @@
 <!ENTITY  openWith.accesskey          "О">
 <!ENTITY  other.label                 "Друго…">
 
-<!ENTITY  saveFile.label              "Сними датотеку">
+<!ENTITY  saveFile.label              "Сачувај датотеку">
 <!ENTITY  saveFile.accesskey          "С">
 
 <!ENTITY  rememberChoice.label        "Користи овај избор за све датотеке овог типа.">

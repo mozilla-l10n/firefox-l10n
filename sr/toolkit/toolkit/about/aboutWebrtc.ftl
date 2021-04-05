@@ -10,7 +10,7 @@
 about-webrtc-document-title = WebRTC
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
-about-webrtc-save-page-dialog-title = сними about:webrtc као
+about-webrtc-save-page-dialog-title = Чување странице about:webrtc
 
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
