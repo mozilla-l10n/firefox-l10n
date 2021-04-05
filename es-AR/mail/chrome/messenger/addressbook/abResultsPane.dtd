@@ -13,7 +13,7 @@
 <!ENTITY _PhoneticName.label                   "Nombre fonético">
 <!ENTITY _PhoneticName.accesskey               "o">
 <!ENTITY NickName.label                        "Apodo">
-<!ENTITY NickName.accesskey                    "i">
+<!ENTITY NickName.accesskey                    "o">
 <!ENTITY SecondEmail.label                     "Otro correo electrónico">
 <!ENTITY SecondEmail.accesskey                 "l">
 <!ENTITY Department.label                      "Departamento">
@@ -21,7 +21,7 @@
 <!ENTITY JobTitle.label                        "Título">
 <!ENTITY JobTitle.accesskey                    "T">
 <!ENTITY CellularNumber.label                  "Teléfono celular">
-<!ENTITY CellularNumber.accesskey              "M">
+<!ENTITY CellularNumber.accesskey              "T">
 <!ENTITY PagerNumber.label                     "Buscapersonas">
 <!ENTITY PagerNumber.accesskey                 "P">
 <!ENTITY FaxNumber.label                       "Fax">

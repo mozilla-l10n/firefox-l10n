@@ -63,7 +63,7 @@ openpgp-key-man-generate-menu =
     .accesskey = G
 openpgp-key-man-keyserver-menu =
     .label = Servidor de clave
-    .accesskey = K
+    .accesskey = v
 openpgp-key-man-import-public-from-file =
     .label = Importar clave(s) pública(s) desde archivo
     .accesskey = I
@@ -85,7 +85,7 @@ openpgp-key-man-send-keys =
     .accesskey = s
 openpgp-key-man-backup-secret-keys =
     .label = Respaldar clave(s) secreta(s) en un archivo
-    .accesskey = B
+    .accesskey = d
 openpgp-key-man-discover-cmd =
     .label = Descubrir claves en línea
     .accesskey = D
@@ -99,7 +99,7 @@ openpgp-key-export-key =
     .accesskey = E
 openpgp-key-backup-key =
     .label = Respaldar clave secreta en un archivo
-    .accesskey = B
+    .accesskey = d
 openpgp-key-send-key =
     .label = Enviar clave pública por correo electrónico
     .accesskey = b
@@ -109,10 +109,10 @@ openpgp-key-man-copy-to-clipbrd =
 openpgp-key-man-copy-key-ids =
     .label =
         { $count ->
-            [one] Copiar clave ID  al portapapeles
-           *[other] Copiar claves IDs  al portapapeles
+            [one] Copiar ID de clave al portapapeles
+           *[other] Copiar IDs de claves al portapapeles
         }
-    .accesskey = K
+    .accesskey = i
 openpgp-key-man-copy-fprs =
     .label =
         { $count ->

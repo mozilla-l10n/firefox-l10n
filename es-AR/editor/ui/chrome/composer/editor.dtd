@@ -34,7 +34,7 @@
 <!ENTITY formatMenu.label "Formato">
 <!ENTITY formatMenu.accesskey "o">
 <!ENTITY grid.label "Cuadrícula de posicionamiento">
-<!ENTITY grid.accesskey "G">
+<!ENTITY grid.accesskey "u">
 <!ENTITY pageProperties.label "Título y propiedades de la página…">
 <!ENTITY pageProperties.accesskey "T">
 

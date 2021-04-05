@@ -22,7 +22,7 @@
 <!ENTITY rememberPassword.label          "Recordar contraseña">
 <!ENTITY rememberPassword.accesskey      "R">
 <!ENTITY usernameEx.label                "Su inicio de sesión:">
-<!ENTITY usernameEx.accesskey            "l">
+<!ENTITY usernameEx.accesskey            "i">
 <!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
 <!ENTITY usernameEx.placeholder          "YOURDOMAIN\sunombredeusuario">
 <!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
