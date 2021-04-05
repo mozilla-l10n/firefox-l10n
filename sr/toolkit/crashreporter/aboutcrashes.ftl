@@ -5,9 +5,9 @@
 crash-reports-title = Извештаји о отказивању
 submit-all-button-label = Пошаљи све
 delete-button-label = Избриши све
-delete-confirm-title = Да ли сте сигурни?
-delete-unsubmitted-description = Ово ће избрисати све недостављене извештаје о падовима и не може се поништити.
-delete-submitted-description = Ово ће уклонити листу достављених извештаја о паду, али неће избрисати достављене податке. Ово се не може поништити.
+delete-confirm-title = Потврда
+delete-unsubmitted-description = Овим ћете избрисати све извештаје о отказивању које нисте послали. Ова радња се не може опозвати.
+delete-submitted-description = Овим ћете уклонити листу послатих извештаја о отказивању, али не и послате податке. Ова радња се не може опозвати.
 crashes-unsubmitted-label = Извештаји о отказивању који нису послати
 id-heading = ID извештаја
 date-crashed-heading = Датум отказивања
@@ -16,7 +16,7 @@ submit-crash-button-label = Пошаљи
 # if the crash submission fails.
 submit-crash-button-failure-label = Неуспешно
 crashes-submitted-label = Послати извештаји о отказивању
-date-submitted-heading = Датум послат
+date-submitted-heading = Датум слања
 view-crash-button-label = Прегледај
 no-reports-label = Извештај о отказивању није послат.
 no-config-label = Овај програм није подешен да приказује извештаје о отказивању. Потребно је да подесите параметар <code>breakpad.reportURL</code>.
