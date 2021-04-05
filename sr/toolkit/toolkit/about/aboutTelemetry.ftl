@@ -118,7 +118,7 @@ about-telemetry-addon-table-id = ID додатка
 about-telemetry-addon-table-details = Детаљи
 # Variables:
 #   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
-about-telemetry-addon-provider = { $addonProvider } провајдер
+about-telemetry-addon-provider = { $addonProvider }
 about-telemetry-keys-header = Својство
 about-telemetry-names-header = Име
 about-telemetry-values-header = Вредност

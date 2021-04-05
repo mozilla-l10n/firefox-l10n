@@ -18,6 +18,8 @@
 about-processes-file-process-name = Датотеке (процес { $pid })
 about-processes-extension-process-name = Проширења (процес { $pid })
 about-processes-privilegedabout-process-name = Странице About (процес { $pid })
+about-processes-plugin-process-name = Додатне компоненте (процес { $pid })
+about-processes-gmp-plugin-process-name = Медијске компоненте Gecko (процес { $pid })
 about-processes-gpu-process-name = GPU (процес { $pid })
 about-processes-vr-process-name = VR (процес { $pid })
 about-processes-rdd-process-name = Декодер података (процес { $pid })
