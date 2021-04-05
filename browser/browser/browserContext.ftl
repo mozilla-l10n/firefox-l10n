@@ -102,6 +102,18 @@ main-context-menu-bookmark-add =
     .aria-label = Дадаць закладку на гэту старонкі
     .accesskey = а
     .tooltiptext = Дадаць старонку ў закладкі
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-add-mac =
+    .label = Зрабіць закладку
+    .accesskey = ь
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-edit-mac =
+    .label = Змяніць закладку
+    .accesskey = ь
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-add-with-shortcut =
@@ -360,6 +372,9 @@ main-context-menu-suggest-strong-password =
     .accesskey = ы
 main-context-menu-manage-logins =
     .label = Кіраваць лагінамі…
+    .accesskey = ь
+main-context-menu-manage-logins2 =
+    .label = Кіраваць лагінамі
     .accesskey = ь
 main-context-menu-keyword =
     .label = Дадаць ключавое слова для гэтага пошуку…
