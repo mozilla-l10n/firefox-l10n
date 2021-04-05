@@ -8,6 +8,7 @@ synced-tabs-sidebar-intro = Peržiūrėkite kituose įrenginiuose esančias kort
 synced-tabs-sidebar-unverified = Jūsų paskyra turi būti patvirtinta.
 synced-tabs-sidebar-notabs = Nėra atvirų kortelių
 synced-tabs-sidebar-openprefs = Atverti „{ -sync-brand-short-name }“ nuostatas
+synced-tabs-sidebar-open-settings = Atverti sinchronizavimo nuostatas
 synced-tabs-sidebar-tabsnotsyncing = Įjunkite kortelių sinchronizavimą, norėdami peržiūrėti kituose įrenginiuose esančias korteles.
 synced-tabs-sidebar-connect-another-device = Susieti kitą įrenginį
 synced-tabs-sidebar-search =
