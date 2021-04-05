@@ -13,7 +13,7 @@ abuse-report-title-theme = Пријави ову тему продавцу { -ve
 abuse-report-subtitle = У чему је проблем?
 # Variables:
 #   $author-name (string) - Name of the add-on author
-abuse-report-addon-authored-by = од <a data-l10n-name="author-name">{ $author-name }</a>
+abuse-report-addon-authored-by = аутор: <a data-l10n-name="author-name">{ $author-name }</a>
 abuse-report-learnmore =
     Нисте сигурни шта да изаберете?
     <a data-l10n-name="learnmore-link">Сазнајте више о пријављивању проширења и тема</a>
