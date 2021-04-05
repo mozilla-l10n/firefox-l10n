@@ -249,5 +249,5 @@ newtab-custom-close-button = Затвори
 # expresses the idea of "a small message, shortened from something else,
 # and non-essential but also not entirely trivial and useless.
 newtab-custom-snippets-title = Исечци
-newtab-custom-snippets-subtitle = Савети и новости од { -vendor-short-name }-а и { -brand-product-name }-а
+newtab-custom-snippets-subtitle = Савети и новости везани за { -brand-product-name(case: "acc") } и организацију { -vendor-short-name }
 newtab-custom-settings = Управљај подешавањима
