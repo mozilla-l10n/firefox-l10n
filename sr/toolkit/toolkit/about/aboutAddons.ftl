@@ -381,7 +381,7 @@ recommended-extensions-heading = Препоручена проширења
 recommended-themes-heading = Препоручене теме
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
-recommended-theme-1 = Креативни сте? <a data-l10n-name="link">Направите своју сопствену тему уз помоћ Firefox Color-а.</a>
+recommended-theme-1 = Креативни сте? <a data-l10n-name="link">Направите сопствену тему помоћу Firefox Color-а.</a>
 
 ## Page headings
 
@@ -393,7 +393,7 @@ locale-heading = Управљајте вашим језицима
 updates-heading = Управљајте вашим ажурирањима
 discover-heading = Персонализујте { -brand-short-name(case: "acc") }
 shortcuts-heading = Управљајте пречицама проширења
-default-heading-search-label = Пронађите још додатака
+default-heading-search-label = Пронађите више додатака
 addons-heading-search-input =
     .placeholder = Претражите addons.mozilla.org
 addon-page-options-button =
