@@ -659,7 +659,7 @@ eme-notifications-drm-content-playing = Einige Audio- oder Videodateien auf dies
 eme-notifications-drm-content-playing-manage = Einstellungen verwalten
 eme-notifications-drm-content-playing-manage-accesskey = v
 eme-notifications-drm-content-playing-dismiss = Schließen
-eme-notifications-drm-content-playing-dismiss-accesskey = S
+eme-notifications-drm-content-playing-dismiss-accesskey = c
 
 ## Password save/update panel
 
