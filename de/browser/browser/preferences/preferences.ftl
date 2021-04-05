@@ -1194,7 +1194,7 @@ space-alert-under-5gb-ok-button =
 space-alert-under-5gb-message = { -brand-short-name } verfügt über nur noch wenig freien Speicherplatz. Website-Inhalte werden vielleicht nicht richtig angezeigt. Besuchen Sie "Weitere Informationen", um die Speichernutzung für ein besseres Weberlebnis zu optimieren.
 space-alert-over-5gb-settings-button =
     .label = Einstellungen öffnen
-    .accesskey = ö
+    .accesskey = E
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } verfügt über nur noch wenig freien Speicherplatz.</strong> Website-Inhalte werden vielleicht nicht richtig angezeigt. Sie können gespeicherte Daten im Menü Einstellungen > Datenschutz & Sicherheit > Cookies und Website-Daten löschen.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } verfügt über nur noch wenig freien Speicherplatz.</strong> Website-Inhalte werden vielleicht nicht richtig angezeigt. Besuchen Sie "Weitere Informationen", um die Speichernutzung für ein besseres Weberlebnis zu optimieren.
 
