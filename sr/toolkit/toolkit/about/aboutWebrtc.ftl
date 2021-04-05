@@ -83,9 +83,9 @@ about-webrtc-save-page-label = Сачувај страницу као…
 about-webrtc-debug-mode-msg-label = Режим за отклањање грешака
 about-webrtc-debug-mode-off-state-label = Покрени режим за отклањање грешака
 about-webrtc-debug-mode-on-state-label = Заустави режим за отклањање грешака
-about-webrtc-stats-heading = Статистике сесије
-about-webrtc-stats-clear = Обриши историјат
-about-webrtc-log-heading = Дневник конекције
+about-webrtc-stats-heading = Статистика сесије
+about-webrtc-stats-clear = Обриши историју
+about-webrtc-log-heading = Евиденција везе
 about-webrtc-log-clear = Обриши евиденцију
 about-webrtc-log-show-msg = Прикажи дневник
     .title = кликните да проширите овај одељак
@@ -138,8 +138,8 @@ about-webrtc-height-px = Висина (у пикселима)
 ##  $path (String) - The path to which the file is saved.
 
 about-webrtc-save-page-msg = страница је снимљена на: { $path }
-about-webrtc-debug-mode-off-state-msg = дневник за праћење се може пронаћи на: { $path }
-about-webrtc-debug-mode-on-state-msg = режим за отклањање грешка је активан, евиденција је у: { $path }
+about-webrtc-debug-mode-off-state-msg = евиденција праћења се налази у: { $path }
+about-webrtc-debug-mode-on-state-msg = режим за отклањање грешака је активан, евиденција праћења је у: { $path }
 about-webrtc-aec-logging-off-state-msg = забележене датотеке дневника можете пронаћи у: { $path }
 
 ##
