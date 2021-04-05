@@ -79,7 +79,7 @@ about-webrtc-nominated = Номиновани
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Одабрани
-about-webrtc-save-page-label = Сними страницу
+about-webrtc-save-page-label = Сачувај страницу као…
 about-webrtc-debug-mode-msg-label = Режим за отклањање грешака
 about-webrtc-debug-mode-off-state-label = Покрени режим за отклањање грешака
 about-webrtc-debug-mode-on-state-label = Заустави режим за отклањање грешака
