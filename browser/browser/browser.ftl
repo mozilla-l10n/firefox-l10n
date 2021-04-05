@@ -157,7 +157,7 @@ urlbar-star-add-bookmark =
 ## Page Action Context Menu
 
 page-action-add-to-urlbar =
-    .label = Додај адресној траци
+    .label = Додај у траку за адресу
 page-action-manage-extension =
     .label = Управљај проширењем…
 page-action-remove-from-urlbar =
