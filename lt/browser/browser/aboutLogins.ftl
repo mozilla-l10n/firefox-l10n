@@ -18,6 +18,7 @@ login-filter =
 create-login-button = Sukurti naują prisijungimą
 fxaccounts-sign-in-text = Turėkite savo slaptažodžius ir kituose įrenginiuose
 fxaccounts-sign-in-button = Prisijungti prie „{ -sync-brand-short-name }“
+fxaccounts-sign-in-sync-button = Prisijungti sinchronizavimui
 fxaccounts-avatar-button =
     .title = Tvarkyti paskyrą
 
@@ -71,6 +72,7 @@ about-logins-list-item-vulnerable-password-icon =
 
 login-intro-heading = Ieškote įrašytų prisijungimų? Naudokite „{ -sync-brand-short-name }“.
 about-logins-login-intro-heading-logged-out = Ieškote savo įrašytų prisijungimų? Naudokite „{ -sync-brand-short-name }“, arba importuokite juos.
+about-logins-login-intro-heading-logged-out2 = Ieškote įrašytų prisijungimų? Įjunkite sinchronizavimą arba importuokite juos.
 about-logins-login-intro-heading-logged-in = Nerasta sinchronizuotų prisijungimų.
 login-intro-description = Jeigu esate įrašę prisijungimus į „{ -brand-product-name }“ kitame įrenginyje, juos galite turėti čia:
 login-intro-instruction-fxa = Susikurkite arba prisijunkite prie savo „{ -fxaccount-brand-name }“ paskyros tame įrenginyje, kur yra prisijungimai.
