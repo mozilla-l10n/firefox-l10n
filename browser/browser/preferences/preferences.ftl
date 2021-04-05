@@ -465,7 +465,7 @@ home-new-windows-tabs-description2 = Изаберите шта желите да
 
 ## Home Section - Home Page Customization
 
-home-homepage-mode-label = Почетна страница и нови прозори
+home-homepage-mode-label = Почетна страница и нови прозори:
 home-newtabs-mode-label = Нове картице
 home-restore-defaults =
     .label = Врати на подразумевано
@@ -475,9 +475,9 @@ home-restore-defaults =
 home-mode-choice-default =
     .label = почетна страница Firefox-а (подразумевано)
 home-mode-choice-custom =
-    .label = Прилагођене адресе...
+    .label = прилагођена адреса…
 home-mode-choice-blank =
-    .label = Празна страница
+    .label = празна страница
 home-homepage-custom-url =
     .placeholder = Налепите URL адресу
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -497,10 +497,10 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
-home-prefs-content-header = Садржај Firefox почетне странице
-home-prefs-content-description = Изаберите садржај који желите видети на вашој Firefox почетној страници.
+home-prefs-content-header = Почетна страница Firefox-а
+home-prefs-content-description = Одаберите садржај који желите на почетној страници Firefox-а.
 home-prefs-search-header =
-    .label = Веб претрага
+    .label = Претрага интернета
 home-prefs-topsites-header =
     .label = Популарни сајтови
 home-prefs-topsites-description = Сајтови које највише посећујете
