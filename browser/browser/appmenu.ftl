@@ -50,6 +50,9 @@ appmenuitem-exit2 =
 appmenu-menu-button-closed2 =
     .tooltiptext = Toepassingsmenu openen
     .label = { -brand-short-name }
+appmenu-menu-button-opened2 =
+    .tooltiptext = Toepassingsmenu sluiten
+    .label = { -brand-short-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -68,6 +71,10 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Nu synchroniseren
+appmenu-remote-tabs-sign-into-sync =
+    .label = Aanmelden bij Sync…
+appmenu-remote-tabs-turn-on-sync =
+    .label = Synchronisatie inschakelen…
 appmenuitem-fxa-toolbar-sync-now2 = Nu synchroniseren
 appmenuitem-fxa-manage-account = Account beheren
 appmenu-fxa-header =

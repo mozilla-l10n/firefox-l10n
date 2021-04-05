@@ -266,11 +266,15 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = Bladwijzer toevoegen
+bookmarks-edit-bookmark = Bladwijzer bewerken
 bookmark-panel-show-editor-checkbox =
     .label = Editor tonen bij opslaan
     .accesskey = E
 bookmark-panel-done-button =
     .label = Gereed
+bookmark-panel-save-button =
+    .label = Opslaan
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
