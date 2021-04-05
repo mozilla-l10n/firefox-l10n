@@ -41,3 +41,5 @@ synced-tabs-context-sync-now =
     .accesskey = S
 fxa-sign-in = Jungtis prie „{ -sync-brand-short-name }“
 turn-on-sync = Įjungti „{ -sync-brand-short-name }“
+synced-tabs-fxa-sign-in = Prisijungti sinchronizavimui
+synced-tabs-turn-on-sync = Įjungti sinchronizavimą
