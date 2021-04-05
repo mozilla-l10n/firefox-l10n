@@ -33,6 +33,7 @@ accessibility-text-label-issue-form = عليك تسمية عناصر الاست�
 accessibility-text-label-issue-form-visible = يجب أن يكون لعناصر الاستمارات تسمية نصوص واضحة. <a>اطّلع على المزيد</a>
 accessibility-text-label-issue-frame = عليك تسمية عناصر <code>frame</code>. <a>اطّلع على المزيد</a>
 accessibility-text-label-issue-glyph = استعمل صفة <code>alt</code> لتسمية عناصر <span>mglyph</span>. <a>اطّلع على المزيد</a>
+accessibility-text-label-issue-heading = عليك تسمية العناوين. <a>اطّلع على المزيد</a>
 accessibility-text-label-issue-iframe = استعمل صفة <code>title</code> لوصف محتوى<span>iframe</span>. <a>اطّلع على المزيد</a>
 accessibility-text-label-issue-image = عليك تسمية المحتوى الذي فيه صور. <a>اطّلع على المزيد</a>
 accessibility-text-label-issue-interactive = عليك تسمية العناصر التفاعلية. <a>اطّلع على المزيد</a>
