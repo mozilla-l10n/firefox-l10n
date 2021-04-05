@@ -5,7 +5,7 @@
 
 ## Error messages
 
-certificate-viewer-error-title = Asocedió daqué malo
+certificate-viewer-error-title = Asocedió daqué malo.
 
 ## Certificate information labels
 
@@ -21,11 +21,20 @@ certificate-viewer-organization = Organización
 certificate-viewer-organizational-unit = Unidá organizativa
 certificate-viewer-policy = Política
 certificate-viewer-protocol = Protolocu
+certificate-viewer-public-value = Valor públicu
 certificate-viewer-sha-1 = SHA-1
 certificate-viewer-sha-256 = SHA-256
 certificate-viewer-serial-number = Númberu de serie
 certificate-viewer-version = Versión
 certificate-viewer-fingerprints = Buelgues
+# This message is used to replace boolean values (true/false) in several certificate fields, e.g. Certificate Authority
+# Variables:
+#   $boolean (String) - true/false value for the specific field
+certificate-viewer-boolean =
+    { $boolean ->
+        [true] Sí
+       *[false] Non
+    }
 
 ## Variables:
 ##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
