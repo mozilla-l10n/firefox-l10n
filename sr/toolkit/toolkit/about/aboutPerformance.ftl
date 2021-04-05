@@ -21,7 +21,7 @@ preloaded-tab = Претходно учитано: { $title }
 
 ## Values for the Type column
 
-type-tab = Језичак
+type-tab = Картица
 type-subframe = Подоквир
 type-tracker = Праћење
 type-addon = Додатак
@@ -54,7 +54,6 @@ close-tab =
     .title = Затвори картицу
 show-addon =
     .title = Прикажи у управнику додатака
-
 # Tooltip when hovering an item of the about:performance table
 # Variables:
 #   $totalDispatches (Number) - how many dispatches occurred for this page since it loaded

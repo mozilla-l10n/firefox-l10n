@@ -3,20 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pictureinpicture-player-title = Слика у слици
-
 pictureinpicture-pause =
     .aria-label = Пауза
 pictureinpicture-play =
     .aria-label = Пуштање
-
 pictureinpicture-mute =
     .aria-label = Искљ. звук
 pictureinpicture-unmute =
     .aria-label = Пусти тон
-
 pictureinpicture-unpip =
-    .aria-label = Пошаљи назад у језичак
-
+    .aria-label = Врати на картицу
 pictureinpicture-close =
     .aria-label = Затвори
-
