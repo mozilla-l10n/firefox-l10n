@@ -73,7 +73,7 @@
      include messages that have been starred/flagged.
      -->
 <!ENTITY quickFilterBar.starred.tooltip
-         "Show only starred messages">
+         "Montri nur mesaĝojn markitajn per steleto">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.inaddrbook.label):
      The label for the filter button that causes us to filter results to only
@@ -81,7 +81,7 @@
      books.
      -->
 <!ENTITY quickFilterBar.inaddrbook.label
-         "Contact">
+         "De kontaktoj">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.inaddrbook.tooltip):
      The tooltip for the filter button that causes us to filter results to only
@@ -89,7 +89,7 @@
      books.
      -->
 <!ENTITY quickFilterBar.inaddrbook.tooltip
-         "Show only messages from people in your address book">
+         "Montri nur mesaĝojn de uloj troviĝantaj en via adresaro">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.tags.label):
      The label for the filter button that causes us to filter results to only
