@@ -139,7 +139,7 @@ about-webrtc-height-px = Висина (у пикселима)
 
 about-webrtc-save-page-msg = страница је снимљена на: { $path }
 about-webrtc-debug-mode-off-state-msg = дневник за праћење се може пронаћи на: { $path }
-about-webrtc-debug-mode-on-state-msg = режим за отклањање грешка је активиран, дневник за праћење на: { $path }
+about-webrtc-debug-mode-on-state-msg = режим за отклањање грешка је активан, евиденција је у: { $path }
 about-webrtc-aec-logging-off-state-msg = забележене датотеке дневника можете пронаћи у: { $path }
 
 ##
