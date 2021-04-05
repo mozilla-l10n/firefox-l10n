@@ -144,7 +144,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "г">
 
 <!ENTITY historyMenu.label "Историја">
-<!ENTITY historyUndoMenu.label "Недавно затворени језичци">
+<!ENTITY historyUndoMenu.label "Недавно затворене картице">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Недавно затворени прозори">
 
@@ -256,7 +256,7 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
-<!ENTITY tabsToolbar.label "Језичци прегледача">
+<!ENTITY tabsToolbar.label "Картице прегледача">
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 

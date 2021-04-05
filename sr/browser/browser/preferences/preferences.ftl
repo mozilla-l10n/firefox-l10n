@@ -19,7 +19,7 @@ pref-page-title = Подешавања
 # Do not translate.
 search-input-box =
     .style = width: 15.4em
-    .placeholder = Пронађите у подешавањима
+    .placeholder = Нађите у подешавањима
 settings-page-title = Подешавања
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
@@ -31,7 +31,7 @@ settings-page-title = Подешавања
 # Do not translate.
 search-input-box2 =
     .style = width: 15.4em
-    .placeholder = Пронађите у подешавањима
+    .placeholder = Нађите у подешавањима
 managed-notice = Вашим прегледачем управља ваша организација.
 category-list =
     .aria-label = Категорије
@@ -160,13 +160,13 @@ startup-restore-warn-on-quit =
     .label = Упозори при изласку из прегледача
 disable-extension =
     .label = Онемогући проширење
-tabs-group-header = Језичци
+tabs-group-header = Картице
 ctrl-tab-recently-used-order =
     .label = Кретање кроз недавно коришћене језичке уз Ctrl+Tab
     .accesskey = ч
 open-new-link-as-tabs =
-    .label = Отварај везе у језичцима уместо унутар нових прозора
-    .accesskey = у
+    .label = Отварај линкове на картицама уместо у новим прозорима
+    .accesskey = т
 warn-on-close-multiple-tabs =
     .label = Упозори ме при затварању више картица
     .accesskey = У
@@ -466,7 +466,7 @@ home-new-windows-tabs-description2 = Изаберите шта желите да
 ## Home Section - Home Page Customization
 
 home-homepage-mode-label = Почетна страница и нови прозори
-home-newtabs-mode-label = Нови језичци
+home-newtabs-mode-label = Нове картице
 home-restore-defaults =
     .label = Врати на подразумевано
     .accesskey = В
@@ -619,7 +619,7 @@ containers-back-button =
     .aria-label = Назад на подешавања
 containers-back-button2 =
     .aria-label = Назад на подешавања
-containers-header = Контејнер језичци
+containers-header = Картице контејнера
 containers-add-button =
     .label = Додај нови контејнер
     .accesskey = Д
@@ -653,7 +653,7 @@ sync-signedout-account-signin3 =
 #
 # They can be moved within the sentence as needed to adapt
 # to your language, but should not be changed or translated.
-sync-mobile-promo = Преузмите Firefox за <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> или <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> да синхронизујете ваше мобилне уређаје.
+sync-mobile-promo = Преузмите Firefox за <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> или <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> да бисте синхронизовали податке са мобилним уређајем.
 
 ## Firefox Account - Signed in
 
@@ -698,7 +698,7 @@ prefs-sync-now =
 sync-currently-syncing-heading = Тренутно синхронизујете следеће ставке:
 sync-currently-syncing-bookmarks = Обележивачи
 sync-currently-syncing-history = Историја
-sync-currently-syncing-tabs = Отворени језичци
+sync-currently-syncing-tabs = Отворене картице
 sync-currently-syncing-logins-passwords = Пријаве и лозинке
 sync-currently-syncing-addresses = Адресе
 sync-currently-syncing-creditcards = Кредитне картице
