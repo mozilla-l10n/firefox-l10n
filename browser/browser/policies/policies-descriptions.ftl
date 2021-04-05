@@ -14,7 +14,7 @@ policy-3rdparty = Afita les polítiques a les que WebExtensions pue acceder per 
 policy-AppAutoUpdate = Des/activa l'anovamientu automáticu de l'aplicación.
 policy-AppUpdateURL = Afita una URL d'anovamientu personalizada.
 policy-Authentication = Configura l'autenticación integrada pa los sitios web que la sofiten.
-policy-BackgroundAppUpdate = Des/activa l'anovador en segundu planu qu'anueva'l restolador cuando nun ta n'execución.
+policy-BackgroundAppUpdate2 = Des/activa l'anovador en segundu planu.
 policy-BlockAboutAddons = Bloquia l'accesu al xestor de complementos (about:addons).
 policy-BlockAboutConfig = Bloquia l'accesu a la páxina «about:config».
 policy-BlockAboutProfiles = Bloquia l'accesu a la páxina «about:profiles».
@@ -107,6 +107,7 @@ policy-SearchEngines = Configura los axustes de los motores de busca. Esta polí
 policy-SearchSuggestEnabled = Des/activa les suxerencies de busca.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Instala módulos de PKCS #11.
+policy-ShowHomeButton = Amuesa'l botón d'aniciu na barra de ferramientes.
 policy-SSLVersionMax = Afita la versión máxima de SSL.
 policy-SSLVersionMin = Afita la versión mínima de SSL.
 policy-SupportMenu = Amiesta un elementu personalizáu de sofitu nel menú d'ayuda
