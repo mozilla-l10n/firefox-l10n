@@ -19,7 +19,7 @@ pref-page-title = Подешавања
 # Do not translate.
 search-input-box =
     .style = width: 15.4em
-    .placeholder = Нађите у подешавањима
+    .placeholder = Претражите подешавања
 settings-page-title = Подешавања
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
@@ -31,7 +31,7 @@ settings-page-title = Подешавања
 # Do not translate.
 search-input-box2 =
     .style = width: 15.4em
-    .placeholder = Нађите у подешавањима
+    .placeholder = Претражите подешавања
 managed-notice = Вашим прегледачем управља ваша организација.
 category-list =
     .aria-label = Категорије
