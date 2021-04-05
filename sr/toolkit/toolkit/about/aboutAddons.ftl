@@ -189,8 +189,8 @@ addon-updates-update-addons-automatically = Аутоматски ажурира�
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
-addon-updates-reset-updates-to-automatic = Све додатке аутоматски ажурирај
-    .accesskey = С
+addon-updates-reset-updates-to-automatic = Аутоматски ажурирај све додатке
+    .accesskey = А
 addon-updates-reset-updates-to-manual = Све додатке мануелно надогради
     .accesskey = м
 
@@ -253,7 +253,7 @@ header-back-button =
 # ("recommends") in the final sentence is a link to external documentation.
 discopane-intro = Проширења и теме су као апликације за ваш прегледач и омогућавају вам да заштитите лозинке, преузмете видео записе, пронађете понуде, блокирате досадне огласе, промените изглед претраживача и још много тога. Ове мале софтверске програме често развија трећа страна. Ево избора које { -brand-product-name } <a data-l10n-name="learn-more-trigger">препоручује</a> за изузетну безбедност, перформансе и употребљивост.
 # Notice to make user aware that the recommendations are personalized.
-discopane-notice-recommendations = Неке од ових препорука су персонализоване. Оне се заснивају на другим проширењима која сте инсталирали, поставкама профила и статистици употребе.
+discopane-notice-recommendations = Неке од ових препорука се заснивају на инсталираним проширењима, подешавањима из профила и статистици употребе.
 discopane-notice-learn-more = Сазнајте више
 privacy-policy = Политика приватности
 # Refers to the author of an add-on, shown below the name of the add-on.
