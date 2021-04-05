@@ -8,8 +8,12 @@ elevation-update-wizard =
 elevation-details-link-label =
     .value = Детаљи
 elevation-error-manual =
-    Програм { -brand-short-name } можете да надоградите ручно, посећивањем ове
-    везе и преузимањем најновијег издања:
+    { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "acc") }
+        [feminine] { -brand-short-name(case: "acc") }
+        [neuter] { -brand-short-name(case: "acc") }
+       *[other] Програм { -brand-short-name }
+    } можете да ажурирате ручно преузимањем најновије верзије са ове странице:
 elevation-finished-page = Ажурирање је спремно за инсталацију
 elevation-finished-background-page =
     Ажурирање за безбедност и стабилност за { -brand-short-name } је преузео
