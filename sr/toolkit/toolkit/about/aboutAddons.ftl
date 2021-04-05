@@ -337,7 +337,7 @@ addon-detail-reviews-link =
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = Додатак <span data-l10n-name="addon-name">{ $addon }</span> је уклоњен.
 pending-uninstall-undo-button = Опозови
-addon-detail-updates-label = Дозволи аутоматско ажурирање
+addon-detail-updates-label = Аутоматско ажурирање
 addon-detail-updates-radio-default = Подразумевано
 addon-detail-updates-radio-on = Укључено
 addon-detail-updates-radio-off = Искључено
@@ -350,7 +350,7 @@ addon-badge-private-browsing-allowed2 =
     .aria-label = { addon-badge-private-browsing-allowed2.title }
 addon-detail-private-browsing-help = Када је дозвољено, проширење ће имати приступ вашим активностима на мрежи у приватном прегледавању. <a data-l10n-name="learn-more">Сазнај више</a>
 addon-detail-private-browsing-allow = Дозволи
-addon-detail-private-browsing-disallow = Не дозволи
+addon-detail-private-browsing-disallow = Блокирај
 
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
