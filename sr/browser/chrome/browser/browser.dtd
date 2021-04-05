@@ -174,7 +174,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuRemoteTabs.showAll.tooltip "Прикажи све језичке са овог уређаја">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Укључите синхронизацију језичака да видите листу језичака са других уређаја.">
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Укључите синхронизацију да бисте видели листу картица са других уређаја.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
