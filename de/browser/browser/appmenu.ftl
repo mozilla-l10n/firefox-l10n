@@ -185,10 +185,10 @@ appmenu-help-safe-mode-with-addons =
 
 appmenu-help-enter-troubleshoot-mode2 =
     .label = Fehlerbehebungsmodus…
-    .accesskey = m
+    .accesskey = F
 appmenu-help-exit-troubleshoot-mode =
     .label = Fehlerbehebungsmodus deaktivieren
-    .accesskey = m
+    .accesskey = F
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
