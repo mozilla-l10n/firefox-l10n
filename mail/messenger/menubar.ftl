@@ -13,7 +13,7 @@ menu-view-charset =
 
 menu-help-enter-troubleshoot-mode =
     .label = Modo de resolución de problemas…
-    .accesskey = T
+    .accesskey = b
 menu-help-exit-troubleshoot-mode =
     .label = Desactivar el modo de resolución de problemas
     .accesskey = O

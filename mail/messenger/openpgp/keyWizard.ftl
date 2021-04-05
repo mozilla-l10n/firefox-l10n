@@ -113,7 +113,7 @@ openpgp-import-created-label = Creado
 openpgp-import-bits-label = Bits
 openpgp-import-key-props =
     .label = Propiedades de la clave
-    .accesskey = K
+    .accesskey = v
 
 ## External Key section
 
