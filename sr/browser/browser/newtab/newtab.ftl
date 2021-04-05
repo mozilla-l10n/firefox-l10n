@@ -7,10 +7,10 @@
 
 newtab-page-title = Нова картица
 newtab-settings-button =
-    .title = Прилагодите страницу новог језичка
+    .title = Прилагодите страницу нове картице
 newtab-personalize-button-label = Персонализуј
-    .title = Персонализуј нови језичак
-    .aria-label = Персонализуј нови језичак
+    .title = Персонализуј нову картицу
+    .aria-label = Персонализуј нову картицу
 
 ## Search box component.
 
@@ -18,7 +18,7 @@ newtab-personalize-button-label = Персонализуј
 newtab-search-box-search-button =
     .title = Претражи
     .aria-label = Претражи
-newtab-search-box-search-the-web-text = Претражи веб
+newtab-search-box-search-the-web-text = Претражи интернет
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = Претражите у претраживачу { $engine } или унесите адресу
