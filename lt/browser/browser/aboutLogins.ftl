@@ -211,10 +211,10 @@ about-logins-confirm-remove-all-sync-dialog-title =
     }
 about-logins-confirm-remove-all-sync-dialog-message =
     { $count ->
-        [1] Bus pašalintas į „{ -brand-short-name }“ įrašytas prisijungimas, iš visų su „{ -fxaccount-brand-name }“ susietų įrenginių. Tuo pačiu bus pašalinti čia matomi nutekėjimų pranešimai. Šis veiksmas galutinis.
-        [one] Bus pašalintas į „{ -brand-short-name }“ įrašytas prisijungimas, iš visų su „{ -fxaccount-brand-name }“ susietų įrenginių. Tuo pačiu bus pašalinti čia matomi nutekėjimų pranešimai. Šis veiksmas galutinis.
-        [few] Bus pašalinti į „{ -brand-short-name }“ įrašyti prisijungimai, iš visų su „{ -fxaccount-brand-name }“ susietų įrenginių. Tuo pačiu bus pašalinti čia matomi nutekėjimų pranešimai. Šis veiksmas galutinis.
-       *[other] Bus pašalinti į „{ -brand-short-name }“ įrašyti prisijungimai, iš visų su „{ -fxaccount-brand-name }“ susietų įrenginių. Tuo pačiu bus pašalinti čia matomi nutekėjimų pranešimai. Šis veiksmas galutinis.
+        [1] Bus pašalintas į „{ -brand-short-name }“ įrašytas prisijungimas, iš visų su „{ -fxaccount-brand-name }“ paskyra susietų įrenginių. Tuo pačiu bus pašalinti čia matomi nutekėjimų pranešimai. Šis veiksmas galutinis.
+        [one] Bus pašalintas į „{ -brand-short-name }“ įrašytas prisijungimas, iš visų su „{ -fxaccount-brand-name }“ paskyra susietų įrenginių. Tuo pačiu bus pašalinti čia matomi nutekėjimų pranešimai. Šis veiksmas galutinis.
+        [few] Bus pašalinti į „{ -brand-short-name }“ įrašyti prisijungimai, iš visų su „{ -fxaccount-brand-name }“ paskyra susietų įrenginių. Tuo pačiu bus pašalinti čia matomi nutekėjimų pranešimai. Šis veiksmas galutinis.
+       *[other] Bus pašalinti į „{ -brand-short-name }“ įrašyti prisijungimai, iš visų su „{ -fxaccount-brand-name }“ paskyra susietų įrenginių. Tuo pačiu bus pašalinti čia matomi nutekėjimų pranešimai. Šis veiksmas galutinis.
     }
 about-logins-confirm-export-dialog-title = Eksportuoti prisijungimus ir slaptažodžius
 about-logins-confirm-export-dialog-message = Jūsų slaptažodžiai bus įrašyti kaip perskaitomas tekstas (pvz., BlogasSl@ptaz0dis), tad bet kas galintis atverti eksportuotą failą galės juos peržiūrėti.
