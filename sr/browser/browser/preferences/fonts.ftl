@@ -9,8 +9,8 @@ fonts-window-close =
 
 ## Font groups by language
 
-fonts-langgroup-header = Фонтови за
-    .accesskey = F
+fonts-langgroup-header = Фонтови:
+    .accesskey = Ф
 fonts-langgroup-arabic =
     .label = арапски
 fonts-langgroup-armenian =
@@ -87,7 +87,7 @@ fonts-sans-serif = Бесерифни:
     .accesskey = Б
 fonts-monospace = Непропорционални:
     .accesskey = Н
-fonts-monospace-size = Величина
+fonts-monospace-size = Величина:
     .accesskey = е
 fonts-minsize = Минимална величина фонта:
     .accesskey = М
