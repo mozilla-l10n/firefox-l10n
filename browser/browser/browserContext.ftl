@@ -92,7 +92,7 @@ toolbar-button-stop-reload =
 
 main-context-menu-page-save =
     .label = Seite speichern unter…
-    .accesskey = u
+    .accesskey = e
 toolbar-button-page-save =
     .label = { main-context-menu-page-save.label }
 
@@ -328,7 +328,7 @@ main-context-menu-video-image-save-as =
     .accesskey = B
 main-context-menu-video-take-snapshot =
     .label = Bildschirmfoto aufnehmen…
-    .accesskey = B
+    .accesskey = c
 main-context-menu-video-email =
     .label = Video per E-Mail senden…
     .accesskey = n
@@ -411,7 +411,7 @@ main-context-menu-frame-view-info =
     .accesskey = I
 main-context-menu-print-selection =
     .label = Auswahl drucken
-    .accesskey = c
+    .accesskey = w
 main-context-menu-view-selection-source =
     .label = Auswahl-Quelltext anzeigen
     .accesskey = A
