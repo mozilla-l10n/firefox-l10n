@@ -138,7 +138,7 @@ search-results-empty-message =
        *[other] Der er ingen resultater for "<span data-l10n-name="query"></span>" i indstillingerne.
     }
 # `<span data-l10n-name="query"></span>` will be replaced by the search term.
-search-results-empty-message2 = Beklager, der er ingen resultater for "<span data-l10n-name="query">" i indstillingerne.
+search-results-empty-message2 = Beklager, der er ingen resultater for "<span data-l10n-name="query"></span>" i indstillingerne.
 search-results-help-link = Har du brug for hjælp? Besøg <a data-l10n-name="url">Hjælp til { -brand-short-name }</a>
 
 ## General Section
