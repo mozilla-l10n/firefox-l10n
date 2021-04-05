@@ -164,8 +164,8 @@ cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } може �
 
 cfr-doorhanger-sync-bookmarks-header = Пренесите овај обележивач на свој телефон
 cfr-doorhanger-sync-bookmarks-body = Синхронизујте забелешке, лозинке, историју и друго на свим уређајима који су пријављени у { -brand-product-name }.
-cfr-doorhanger-sync-bookmarks-ok-button = Укључите { -sync-brand-short-name }
-    .accesskey = T
+cfr-doorhanger-sync-bookmarks-ok-button = Укључи { -sync-brand-short-name(case: "acc") }
+    .accesskey = У
 
 ## Login Sync
 
