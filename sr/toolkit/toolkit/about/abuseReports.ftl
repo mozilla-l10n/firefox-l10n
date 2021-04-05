@@ -7,7 +7,7 @@
 #
 # Variables:
 #   $addon-name (string) - Name of the add-on being reported
-abuse-report-dialog-title = Пријава за { $addon-name }
+abuse-report-dialog-title = Пријава додатка { $addon-name }
 abuse-report-title-extension = Пријави ово проширење продавцу { -vendor-short-name }
 abuse-report-title-theme = Пријави ову тему продавцу { -vendor-short-name }
 abuse-report-subtitle = У чему је проблем?
@@ -43,14 +43,14 @@ abuse-report-submit-button = Пошаљи
 ## Variables:
 ##   $addon-name (string) - Name of the add-on
 
-abuse-report-messagebar-aborted = Пријава за <span data-l10n-name="addon-name">{ $addon-name }</span> је отказана.
+abuse-report-messagebar-aborted = Пријава додатка <span data-l10n-name="addon-name">{ $addon-name }</span> је отказана.
 abuse-report-messagebar-submitting = Слање пријаве за <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-submitted = Хвала вам што сте поднели пријаву. Да ли желите уклонити додатак <span data-l10n-name="addon-name">{ $addon-name }</span>?
 abuse-report-messagebar-submitted-noremove = Хвала вам што сте поднели пријаву.
 abuse-report-messagebar-removed-extension = Хвала вам што сте поднели пријаву. Уклонили сте <span data-l10n-name="addon-name">{ $addon-name }</span> проширење.
 abuse-report-messagebar-removed-theme = Хвала вам што сте поднели пријаву. Уклонили сте <span data-l10n-name="addon-name">{ $addon-name }</span> тему.
 abuse-report-messagebar-error = Дошло је до грешке при слању извештаја о додатку <span data-l10n-name="addon-name">{ $addon-name }</span>.
-abuse-report-messagebar-error-recent-submit = Ваша пријава за <span data-l10n-name="addon-name">{ $addon-name }</span> није послана зато што је друга пријава поднета недавно.
+abuse-report-messagebar-error-recent-submit = Додатак <span data-l10n-name="addon-name">{ $addon-name }</span> није пријављен јер је недавно послата друга пријава.
 
 ## Message bars actions.
 
