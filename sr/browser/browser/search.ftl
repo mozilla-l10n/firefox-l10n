@@ -13,7 +13,7 @@ opensearch-error-duplicate-desc = { -brand-short-name } не може да ин�
 opensearch-error-format-title = Неисправан формат
 opensearch-error-format-desc = { -brand-short-name } не може да инсталира претраживач са адресе { $location-url }
 opensearch-error-download-title = Грешка при прузимању
-opensearch-error-download-desc = { -brand-short-name } није могао да преузме прикључак за претрагу са сајта: { $location-url }
+opensearch-error-download-desc = { -brand-short-name } не може да преузме додатак за претрагу са { $location-url }
 
 ##
 
