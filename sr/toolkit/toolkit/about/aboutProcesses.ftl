@@ -15,6 +15,9 @@
 ##    $origin (String) The domain name for this process.
 ##    $type (String) The raw type for this process. Used for unknown processes.
 
+about-processes-file-process-name = Датотеке (процес { $pid })
+about-processes-extension-process-name = Проширења (процес { $pid })
+about-processes-privilegedabout-process-name = Странице About (процес { $pid })
 about-processes-gpu-process-name = GPU (процес { $pid })
 about-processes-vr-process-name = VR (процес { $pid })
 about-processes-rdd-process-name = Декодер података (процес { $pid })
