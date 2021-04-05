@@ -403,6 +403,7 @@ update-setting-write-failure-message =
     { -brand-short-name } stødte på en fejl og gemte ikke ændringen. Bemærk, at for at kunne gemme ændringer, skal der være tilladelse til at skrive til den nedennævnte fil. Du eller en systemadministrator kan måske løse problemet ved at give gruppen Users fuld kontrol over filen.
     
     Kunne ikke skrive til filen: { $path }
+update-setting-write-failure-title2 = Fejl under lagring af indstillinger for opdatering
 # Variables:
 #   $path (String) - Path to the configuration file
 # The newlines between the main text and the line containing the path is
