@@ -12,8 +12,8 @@ aboutDialog-title =
         }
 releaseNotes-link = Шта је ново
 update-checkForUpdatesButton =
-    .label = Провери да ли постоје ажурирања
-    .accesskey = C
+    .label = Провери доступност ажурирања
+    .accesskey = П
 update-updateButton =
     .label =
         Рестартуј и ажурирај { -brand-shorter-name.gender ->

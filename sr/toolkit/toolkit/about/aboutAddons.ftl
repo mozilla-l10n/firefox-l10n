@@ -6,7 +6,7 @@ addons-window =
     .title = Менаџер додатака
 addons-page-title = Менаџер додатака
 search-header =
-    .placeholder = Претражи сајт addons.mozilla.org
+    .placeholder = Претражите addons.mozilla.org
     .searchbuttonlabel = Претражи
 search-header-shortcut =
     .key = f
@@ -79,7 +79,7 @@ detail-update-default =
     .tooltiptext = Аутоматски ажурирај само ако је то подразумевано
 detail-update-automatic =
     .label = Укључено
-    .tooltiptext = Аутоматски ажурирај додатке
+    .tooltiptext = Аутоматски инсталирај ажурирања
 detail-update-manual =
     .label = Искључено
     .tooltiptext = Немој да аутоматски инсталираш додатке
@@ -174,8 +174,8 @@ extensions-warning-update-security-button = Омогући
 
 addon-updates-check-for-updates = Провери да ли постоје ажурирања
     .accesskey = П
-addon-updates-view-updates = Погледај недавна ажурирања
-    .accesskey = н
+addon-updates-view-updates = Прикажи недавна ажурирања
+    .accesskey = р
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
@@ -189,8 +189,8 @@ addon-updates-update-addons-automatically = Аутоматски ажурира�
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
-addon-updates-reset-updates-to-automatic = Аутоматски ажурирај све додатке
-    .accesskey = А
+addon-updates-reset-updates-to-automatic = Ресетуј све додатке ради аутоматског ажурирања
+    .accesskey = Р
 addon-updates-reset-updates-to-manual = Све додатке мануелно надогради
     .accesskey = м
 
@@ -207,8 +207,8 @@ addon-install-from-file = Инсталирај додатак из датоте�
     .accesskey = И
 addon-install-from-file-dialog-title = Изаберите додатке за инсталирање
 addon-install-from-file-filter-name = Додаци
-addon-open-about-debugging = Испитај додатке
-    .accesskey = д
+addon-open-about-debugging = Отклањање грешака у додацима
+    .accesskey = т
 
 ## Extension shortcut management
 
@@ -395,6 +395,6 @@ discover-heading = Персонализујте { -brand-short-name(case: "acc")
 shortcuts-heading = Управљајте пречицама проширења
 default-heading-search-label = Пронађите још додатака
 addons-heading-search-input =
-    .placeholder = Претражи сајт addons.mozilla.org
+    .placeholder = Претражите addons.mozilla.org
 addon-page-options-button =
     .title = Алатке за све додатке
