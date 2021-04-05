@@ -79,6 +79,7 @@ login-intro-instruction-fxa-settings = Vær sikker på, at du har sat et flueben
 about-logins-intro-instruction-help = Besøg <a data-l10n-name="help-link">{ -lockwise-brand-short-name } denne side</a> for at få mere hjælp
 login-intro-instructions-fxa = Opret eller log ind på din { -fxaccount-brand-name } på den enhed, hvor dine logins er gemt.
 login-intro-instructions-fxa-settings = Gå til Indstillinger > Sync > Slå synkronisering til… Sæt flueben ud for Logins og adgangskoder.
+login-intro-instructions-fxa-help = Besøg siden <a data-l10n-name="help-link">Hjælp til { -lockwise-brand-short-name }</a>
 about-logins-intro-import = Hvis dine logins er gemt i en anden browser, kan du <a data-l10n-name="import-link">importere dem til { -lockwise-brand-short-name }</a>
 about-logins-intro-import2 = Hvis dine logins er gemt et andet sted end { -brand-product-name }, så kan du <a data-l10n-name="import-browser-link">importere dem fra en anden browser</a> eller <a data-l10n-name="import-file-link">fra en fil</a>
 
