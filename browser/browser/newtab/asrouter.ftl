@@ -74,7 +74,7 @@ cfr-doorhanger-pintab-animation-resume = Tęsti
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Sinchronizuokite adresyną visuose įrenginiuose.
-cfr-doorhanger-bookmark-fxa-body = Puikus radinys! O kad nepasigestumėte šio įrašo kituose įrenginiuose, susikurkite „{ -fxaccount-brand-name }“.
+cfr-doorhanger-bookmark-fxa-body = Puikus radinys! O kad nepasigestumėte šio įrašo kituose įrenginiuose, susikurkite „{ -fxaccount-brand-name }“ paskyrą.
 cfr-doorhanger-bookmark-fxa-link-text = Sinchronizuoti adresyną dabar…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Užvėrimo mygtukas
@@ -228,8 +228,6 @@ cfr-doorhanger-milestone-heading2 =
     }
 cfr-doorhanger-milestone-ok-button = Rodyti viską
     .accesskey = R
-cfr-doorhanger-milestone-close-button = Užverti
-    .accesskey = v
 
 ## What’s New Panel Content for Firefox 76
 
@@ -254,6 +252,8 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Vaizdo-vaizde piktograma
 
 ## Protections Dashboard message
 
+cfr-doorhanger-milestone-close-button = Užverti
+    .accesskey = v
 
 ## What’s New Panel Content for Firefox 76
 ## Protections Dashboard message
