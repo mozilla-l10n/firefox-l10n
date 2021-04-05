@@ -18,6 +18,7 @@ login-filter =
 create-login-button = Crear nuevo inicio de sesión
 fxaccounts-sign-in-text = Acceda a sus contraseñas en todos sus dispositivos
 fxaccounts-sign-in-button = Inicia sesión en { -sync-brand-short-name }
+fxaccounts-sign-in-sync-button = Inicie sesión para sincronizar
 fxaccounts-avatar-button =
     .title = Administrar cuenta
 
@@ -70,6 +71,7 @@ about-logins-list-item-vulnerable-password-icon =
 
 login-intro-heading = ¿Busca sus inicios de sesión guardados? Configure { -sync-brand-short-name }.
 about-logins-login-intro-heading-logged-out = ¿Busca inicios de sesión guardados? Configure { -sync-brand-short-name } o impórtelos
+about-logins-login-intro-heading-logged-out2 = ¿Busca sus inicios de sesión guardados? Active Sync o impórtelos.
 about-logins-login-intro-heading-logged-in = No se han encontrado credenciales sincronizadas.
 login-intro-description = Si guardó sus inicios de sesión en { -brand-product-name } en un dispositivo diferente, éstos son los pasos a seguir para tenerlos aquí también:
 login-intro-instruction-fxa = Cree o inicie sesión en su { -fxaccount-brand-name } en el dispositivo donde se guardan sus inicios de sesión

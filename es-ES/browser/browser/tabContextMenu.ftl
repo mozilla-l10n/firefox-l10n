@@ -102,7 +102,7 @@ tab-context-reopen-closed-tabs =
             [one] Reabrir pestaña cerrada
            *[other] Reabrir pestañas cerradas
         }
-    .accesskey = o
+    .accesskey = p
 tab-context-close-tabs =
     .label =
         { $tabCount ->
