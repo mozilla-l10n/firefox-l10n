@@ -187,7 +187,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuRemoteTabs.managedevices.label "Управљај уређајима…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Прикажи панел са синхронизованим картицама">
 <!ENTITY appMenuRemoteTabs.hidesidebar.label "Сакријте панел са синхронизованим картицама">
-<!ENTITY appMenuRemoteTabs.connectdevice.label "Повежите други уређај">
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Повежи други уређај">
 
 <!ENTITY appMenuRecentHighlights.label "Недавно истакнуто">
 
