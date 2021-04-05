@@ -58,6 +58,8 @@ category-privacy =
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
+category-sync3 =
+    .tooltiptext = { pane-sync-title3 }
 pane-experimental-title = Experimentos de { -brand-short-name }
 category-experimental =
     .tooltiptext = Experimentos de { -brand-short-name }
@@ -459,7 +461,7 @@ browsing-picture-in-picture-toggle-enabled =
     .accesskey = A
 browsing-picture-in-picture-learn-more = Saber más
 browsing-media-control =
-    .label = Controle los medios con el teclado, los auriculares o la interfaz virtual
+    .label = Controlar los medios con el teclado, los auriculares o la interfaz virtual
     .accesskey = v
 browsing-media-control-learn-more = Saber más
 browsing-cfr-recommendations =
@@ -1200,15 +1202,15 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } se está quedando
 
 ## Privacy Section - HTTPS-Only
 
-httpsonly-header = Modo sólo-HTTPS
-httpsonly-description = HTTPS proporciona una conexión segura y cifrada entre { -brand-short-name } y los sitios web que visita. La mayoría de los sitios web admiten HTTPS, y si el modo sólo-HTTPS está habilitado, entonces { -brand-short-name } actualizará todas las conexiones a HTTPS.
+httpsonly-header = Modo solo-HTTPS
+httpsonly-description = HTTPS proporciona una conexión segura y cifrada entre { -brand-short-name } y los sitios web que visita. La mayoría de los sitios web admiten HTTPS, y si el modo solo-HTTPS está habilitado, entonces { -brand-short-name } actualizará todas las conexiones a HTTPS.
 httpsonly-learn-more = Más información
 httpsonly-radio-enabled =
-    .label = Activar el modo sólo-HTTPS en todas las ventanas
+    .label = Activar el modo solo-HTTPS en todas las ventanas
 httpsonly-radio-enabled-pbm =
-    .label = Habilite el modo sólo-HTTPS solamente en ventanas privadas
+    .label = Activar el modo solo-HTTPS solamente en ventanas privadas
 httpsonly-radio-disabled =
-    .label = No habilitar el modo sólo-HTTPS
+    .label = No activar el modo solo-HTTPS
 
 ## The following strings are used in the Download section of settings
 
