@@ -35,18 +35,24 @@ appmenuitem-more-tools =
     .label = Daugiau priemonių
 appmenuitem-exit =
     .label = Išeiti
-appmenuitem-exit2 =
-    .label =
-        { PLATFORM() ->
-            [linux] Išeiti
-           *[other] Išeiti
-        }
 appmenu-menu-button-closed =
     .tooltiptext = Atverti programos meniu
     .label = { -brand-shorter-name }
 appmenu-menu-button-opened =
     .tooltiptext = Užverti programos meniu
     .label = { -brand-shorter-name }
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Išeiti
+           *[other] Išeiti
+        }
+appmenu-menu-button-closed2 =
+    .tooltiptext = Atverti programos meniu
+    .label = { -brand-short-name }
+appmenu-menu-button-opened2 =
+    .tooltiptext = Užverti programos meniu
+    .label = { -brand-short-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -65,6 +71,10 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sinchronizuoti dabar
+appmenu-remote-tabs-sign-into-sync =
+    .label = Prisijungti sinchronizavimui…
+appmenu-remote-tabs-turn-on-sync =
+    .label = Įjungti sinchronizavimą…
 appmenuitem-fxa-toolbar-sync-now2 = Sinchronizuoti dabar
 appmenuitem-fxa-manage-account = Tvarkyti paskyrą
 appmenu-fxa-header =
