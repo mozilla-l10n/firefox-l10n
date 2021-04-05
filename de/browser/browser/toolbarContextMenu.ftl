@@ -30,7 +30,7 @@ toolbar-context-menu-reopen-closed-tabs =
             [1] Geschlossenen Tab wieder öffnen
            *[other] Geschlossene Tabs wieder öffnen
         }
-    .accesskey = ö
+    .accesskey = G
 toolbar-context-menu-manage-extension =
     .label = Erweiterung verwalten
     .accesskey = w
@@ -53,8 +53,8 @@ toolbar-context-menu-auto-hide-downloads-button =
     .label = Automatisch aus Symbolleiste ausblenden
     .accesskey = u
 toolbar-context-menu-auto-hide-downloads-button-2 =
-    .label = Schaltfläche ausblenden, wenn leer
-    .accesskey = u
+    .label = Schaltfläche nur bei vorhandenen Downloads anzeigen
+    .accesskey = D
 toolbar-context-menu-remove-from-toolbar =
     .label = Aus Symbolleiste entfernen
     .accesskey = e
