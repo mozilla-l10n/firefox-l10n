@@ -17,7 +17,7 @@ list-empty-available-updates =
 list-empty-recent-updates =
     .value = Нисте недавно ажурирали додатке
 list-empty-find-updates =
-    .label = Провери да ли постоје ажурирања
+    .label = Провери доступност ажурирања
 list-empty-button =
     .label = Сазнајте више о додацима
 help-button = Подршка за додатке
@@ -107,9 +107,9 @@ detail-repository =
 detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
-    .label = Провери да ли постоје ажурирања
-    .accesskey = и
-    .tooltiptext = Проверите да ли постоје унапређења овог додатка
+    .label = Провери доступност ажурирања
+    .accesskey = П
+    .tooltiptext = Проверите да ли постоје ажурирања овог додатка
 detail-show-preferences =
     .label = Подешавања
     .accesskey = П
@@ -172,7 +172,7 @@ extensions-warning-update-security-button = Омогући
 
 ## Strings connected to add-on updates
 
-addon-updates-check-for-updates = Провери да ли постоје ажурирања
+addon-updates-check-for-updates = Провери доступност ажурирања
     .accesskey = П
 addon-updates-view-updates = Прикажи недавна ажурирања
     .accesskey = р
@@ -291,15 +291,15 @@ preferences-addon-button = Подешавања
 details-addon-button = Детаљи
 release-notes-addon-button = Белешке о издању
 permissions-addon-button = Дозволе
-extension-enabled-heading = Омогућено
+extension-enabled-heading = Омогућена
 extension-disabled-heading = Онемогућено
-theme-enabled-heading = Омогућено
+theme-enabled-heading = Омогућене
 theme-disabled-heading = Онемогућено
-plugin-enabled-heading = Омогућено
+plugin-enabled-heading = Омогућени
 plugin-disabled-heading = Онемогућено
-dictionary-enabled-heading = Омогућено
+dictionary-enabled-heading = Омогућени
 dictionary-disabled-heading = Онемогућено
-locale-enabled-heading = Омогућено
+locale-enabled-heading = Омогућени
 locale-disabled-heading = Онемогућено
 ask-to-activate-button = Питај за активирање
 always-activate-button = Увек активирај
@@ -386,7 +386,7 @@ recommended-theme-1 = Креативни сте? <a data-l10n-name="link">Нап
 ## Page headings
 
 extension-heading = Управљајте проширењима
-theme-heading = Управљајте вашим темама
+theme-heading = Управљајте темама
 plugin-heading = Управљајте вашим прикључцима
 dictionary-heading = Управљајте вашим речницима
 locale-heading = Управљајте вашим језицима

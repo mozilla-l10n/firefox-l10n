@@ -24,7 +24,7 @@ update-updateButton =
         }
     .accesskey = Р
 update-checkingForUpdates = Провера доступности ажурирања…
-update-downloading = <img data-l10n-name="icon"/>Преузимам надоградњу — <label data-l10n-name="download-status"/>
+update-downloading = <img data-l10n-name="icon"/>Преузимање ажурирања — <label data-l10n-name="download-status"/>
 update-downloading-message = Преузимање ажурирања — <label data-l10n-name="download-status"/>
 update-applying = Примењујем надоградњу…
 update-failed = Ажурирање није успело. <label data-l10n-name="failed-link">Преузми најновије издање</label>
