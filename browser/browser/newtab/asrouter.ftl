@@ -192,7 +192,7 @@ cfr-doorhanger-firefox-send-ok-button = { -send-brand-name } ausprobieren
 cfr-doorhanger-socialtracking-ok-button = Schutzmaßnahmen anzeigen
     .accesskey = M
 cfr-doorhanger-socialtracking-close-button = Schließen
-    .accesskey = S
+    .accesskey = c
 cfr-doorhanger-socialtracking-dont-show-again = Ähnliche Nachrichten nicht mehr anzeigen
     .accesskey = n
 cfr-doorhanger-socialtracking-heading = { -brand-short-name } hat ein soziales Netzwerk daran gehindert, deine Aktivitäten hier zu verfolgen.
@@ -247,7 +247,7 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Bild-im-Bild-Symbol
 ## Protections Dashboard message
 
 cfr-doorhanger-milestone-close-button = Schließen
-    .accesskey = S
+    .accesskey = c
 
 ## What’s New Panel Content for Firefox 76
 ## Protections Dashboard message
