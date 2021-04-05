@@ -323,7 +323,13 @@ applications-file-ending-with-type = { applications-file-ending } ({ $type })
 # Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
-    .label = Користи { $plugin-name } (за { -brand-short-name })
+    .label =
+        Користи { $plugin-name } (у { -brand-short-name.gender ->
+            [masculine] { -brand-short-name(case: "loc") }
+            [feminine] { -brand-short-name(case: "loc") }
+            [neuter] { -brand-short-name(case: "loc") }
+           *[other] програму { -brand-short-name }
+        })
 applications-open-inapp =
     .label = Отвори у { -brand-short-name }
 
