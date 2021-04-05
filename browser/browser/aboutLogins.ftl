@@ -78,7 +78,7 @@ login-intro-instruction-fxa = Cree o inicie sesión en su { -fxaccount-brand-nam
 login-intro-instruction-fxa-settings = Asegúrese de haber seleccionado la casilla de verificación Inicios de sesión en la Configuración de { -sync-brand-short-name }
 about-logins-intro-instruction-help = Vaya a <a data-l10n-name="help-link"> { -lockwise-brand-short-name } Ayuda</a> para obtener más ayuda
 login-intro-instructions-fxa = Cree o inicie sesión en su { -fxaccount-brand-name }(capitalization: " sentence"en el dispositivo donde guardó sus inicios de sesión.
-login-intro-instructions-fxa-settings = Ir a Ajustes > Sync > Activar la sincronización... Seleccionar la casilla Inicios de sesión y contraseñas.
+login-intro-instructions-fxa-settings = Ir a Ajustes > Sync > Activar la sincronización… Seleccionar la casilla Inicios de sesión y contraseñas.
 login-intro-instructions-fxa-help = Visite <a data-l10n-name="help-link">{ -lockwise-brand-short-name }Soporte</a> para más ayuda.
 about-logins-intro-import = Si sus inicios de sesión se guardan en otro navegador, puede <a data-l10n-name="import-link"> importarlos a { -lockwise-brand-short-name }</a>
 about-logins-intro-import2 = Si sus inicios de sesión se guardan fuera de { -brand-product-name }, puede <a data-l10n-name="import-browser-link">importarlos desde otro navegador</a> o <a data-l10n-name="import-file-link">desde un archivo</a>
