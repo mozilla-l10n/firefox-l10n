@@ -129,14 +129,14 @@
      https://developer.mozilla.org/En/Localization_and_Plurals
      -->
 <!ENTITY quickFilterBar.resultsLabel.some.formatString
-         "#1 mesaĝo;#1 mesaĝoj">
+         "Trovis #1 mesaĝon;#Trovis #1 mesaĝojn">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.resultsLabel.none):
      The contents of the results box when there is a filter active but there
      are no messages matching the filter.
      -->
 <!ENTITY quickFilterBar.resultsLabel.none
-         "Neniu mesaĝo">
+         "Trovis neniun mesaĝon">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.resultsLabel.minWidth):
      The minimum width, in pixels, of the results label.  Please size this
@@ -231,46 +231,46 @@
      arrow scroll box.)
      -->
 <!ENTITY quickFilterBar.textFilter.explanation.label
-         "Filter messages by:">
+         "Filtri mesaĝojn laŭ:">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.sender.label):
      The button label that toggles whether the text filter searches the message
      sender for the string.
      -->
 <!ENTITY quickFilterBar.textFilter.sender.label
-         "Sender">
+         "sendinto">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.recipients.label):
      The button label that toggles whether the text filter searches the message
      recipients (to, cc) for the string.
      -->
 <!ENTITY quickFilterBar.textFilter.recipients.label
-         "Recipients">
+         "ricevontoj">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.subject.label):
      The button label that toggles whether the text filter searches the message
      subject for the string.
      -->
 <!ENTITY quickFilterBar.textFilter.subject.label
-         "Subject">
+         "temo">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.body.label):
      The button label that toggles whether the text filter searches the message
      body for the string.
      -->
 <!ENTITY quickFilterBar.textFilter.body.label
-         "Body">
+         "enhavo">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.glodaUpsell.continueSearch):
      The first line of the panel popup that tells the user we found no matches
      but we can convert to a global search for them.
      -->
 <!ENTITY quickFilterBar.glodaUpsell.continueSearch
-         "Continue this search across all folders">
+         "Pluigi la serĉon en ĉiuj aliaj mesaĝujoj">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.glodaUpsell.pressEnterAndCurrent):
      The second line of the panel popup that tells the user we found no matches.
      This line will have #1 replaced with what the user has typed so far.
      -->
 <!ENTITY quickFilterBar.glodaUpsell.pressEnterAndCurrent
-         "Press 'Enter' again to continue your search for: #1">
+         "Premu la klavon “Enter” por pluigi serĉi: #1">
