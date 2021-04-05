@@ -78,6 +78,7 @@ login-intro-description = Jeigu esate įrašę prisijungimus į „{ -brand-prod
 login-intro-instruction-fxa = Susikurkite arba prisijunkite prie savo „{ -fxaccount-brand-name }“ paskyros tame įrenginyje, kur yra prisijungimai.
 login-intro-instruction-fxa-settings = Įsitikinkite, kad „{ -sync-brand-short-name }“ nuostatose pažymėjote langelį „Prisijungimai“.
 about-logins-intro-instruction-help = Aplankę <a data-l10n-name="help-link">„{ -lockwise-brand-short-name }“ žinyną</a>, rasite daugiau informacijos
+login-intro-instructions-fxa = Susikurkite arba prisijunkite prie savo „{ -fxaccount-brand-name }“ paskyros tame įrenginyje, kur yra prisijungimai.
 login-intro-instructions-fxa-settings = Eikite į „Nuostatos“ > „Sinchronizavimas“ > „Įjungti sinchronizavimą…“ Pažymėkite „Prisijungimai ir slaptažodžiai“ pasirinkimą.
 login-intro-instructions-fxa-help = Aplankę <a data-l10n-name="help-link">„{ -lockwise-brand-short-name }“ žinyną</a>, rasite daugiau informacijos.
 about-logins-intro-import = Jeigu turite kitoje naršyklėje įrašytų prisijungimų, galite <a data-l10n-name="import-link">juos importuoti į „{ -lockwise-brand-short-name }“</a>
