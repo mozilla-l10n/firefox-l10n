@@ -10,6 +10,8 @@
 
 ## All of the headings for the various sections.
 
+perftools-heading-settings = Сва подешавања
+perftools-heading-buffer = Подешавања бафера
 
 ##
 
@@ -19,6 +21,7 @@
 
 ##
 
+perftools-devtools-settings-label = Подешавања
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
