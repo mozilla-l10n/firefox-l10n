@@ -7,11 +7,11 @@ page-subtitle =
     Ова страница садржи техничке податке који могу бити корисни када
     покушавате да решите неки проблем. Ако вам требају одговори на често постављана питања
     о програму { -brand-short-name }, прегледајте наш <a data-l10n-name="support-link">веб сајт за подршку</a>.
-crashes-title = Извештаји о рушењу
+crashes-title = Извештаји о отказивању
 crashes-id = ID извештаја
 crashes-send-date = Послато
-crashes-all-reports = Сви извештаји о рушењу
-crashes-no-config = Ова апликација није подешена да приказује извештаје о рушењу.
+crashes-all-reports = Сви извештаји о отказивању
+crashes-no-config = Овај програм није подешен да приказује извештаје о отказивању.
 extensions-title = Проширења
 extensions-name = Назив
 extensions-enabled = Укључен
@@ -211,9 +211,9 @@ support-third-party-modules-up-icon =
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
     { $days ->
-        [one] Извештаји о рушењу у последњем { $days } дану
-        [few] Извештаји о рушењу у последња { $days } дана
-       *[other] Извештаји о рушењу у последњих { $days } дана
+        [one] Извештаји о отказивању за протекли { $days } дан
+        [few] Извештаји о отказивању за протекла { $days } дана
+       *[other] Извештаји о отказивању за протеклих { $days } дана
     }
 # Variables
 # $minutes (integer) - Number of minutes since crash
@@ -243,9 +243,9 @@ crashes-time-days =
 # $reports (integer) - Number of pending reports
 pending-reports =
     { $reports ->
-        [one] Сви извештаји о рушењу(укључујући { $reports } који чека да буде послат)
-        [few] Сви извештаји о рушењу(укључујући { $reports } који чекају да буду послати)
-       *[other] Сви извештаји о рушењу(укључујући { $reports } који чекају да буду послати)
+        [one] Сви извештаји о отказивању (укључујући { $reports } нерешени случај у датом периоду)
+        [few] Сви извештаји о отказивању (укључујући { $reports } нерешена случаја у датом периоду)
+       *[other] Сви извештаји о отказивању (укључујући { $reports } нерешених случаја у датом периоду)
     }
 raw-data-copied = Подаци копирани у бележницу
 text-copied = Текст копиран у бележницу

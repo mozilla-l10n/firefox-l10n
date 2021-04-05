@@ -17,10 +17,10 @@
 <!ENTITY reloadPlugin.middle                                 "Освежи страницу">
 <!ENTITY reloadPlugin.post                                   " да покушате поново.">
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.please                                       "Пошаљи извештај о рушењу">
+<!ENTITY report.please                                       "Пошаљи извештај о отказивању">
 <!ENTITY report.submitting                                   "Шаљем извештај…">
-<!ENTITY report.submitted                                    "Извештај о рушењу је послат.">
-<!ENTITY report.disabled                                     "Слање извештаја о рушењу је онемогућено.">
+<!ENTITY report.submitted                                    "Извештај о отказивању је послат.">
+<!ENTITY report.disabled                                     "Слање извештаја о отказивању је онемогућено.">
 <!ENTITY report.failed                                       "Не могу да пошаљем.">
 <!ENTITY report.unavailable                                  "Извештај није доступан.">
 <!ENTITY report.comment                                      "Додајте коментар (коментари су јавно доступни)">
