@@ -14,10 +14,10 @@ about-webrtc-save-page-dialog-title = Чување странице about:webrtc
 
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
-about-webrtc-aec-logging-msg-label = AEC бележење
-about-webrtc-aec-logging-off-state-label = Започни AEC бележење
-about-webrtc-aec-logging-on-state-label = Заустави AEC бележење
-about-webrtc-aec-logging-on-state-msg = AEC бележење је активно (причајте са позиваоцем неколико минута и затим зауставите бележење)
+about-webrtc-aec-logging-msg-label = AEC евидентирање
+about-webrtc-aec-logging-off-state-label = Започни AEC евидентирање
+about-webrtc-aec-logging-on-state-label = Заустави AEC евидентирање
+about-webrtc-aec-logging-on-state-msg = AEC евидентирање је активно (разговарајте са позиваоцем неколико минута па зауставите евидентирање)
 
 ##
 
@@ -140,7 +140,7 @@ about-webrtc-height-px = Висина (у пикселима)
 about-webrtc-save-page-msg = страница је снимљена на: { $path }
 about-webrtc-debug-mode-off-state-msg = евиденција праћења се налази у: { $path }
 about-webrtc-debug-mode-on-state-msg = режим за отклањање грешака је активан, евиденција праћења је у: { $path }
-about-webrtc-aec-logging-off-state-msg = забележене датотеке дневника можете пронаћи у: { $path }
+about-webrtc-aec-logging-off-state-msg = датотеке евиденција се налазе у: { $path }
 
 ##
 
