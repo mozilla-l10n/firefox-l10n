@@ -8,3 +8,6 @@ account-finish-account-setup = Finalizar configuración de la cuenta
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-reconnect-to-fxa = Cuenta desconectada
+# Used as the FxA toolbar menu item title when the user
+# needs to reconnect their account.
+account-disconnected = Has sido desconectado

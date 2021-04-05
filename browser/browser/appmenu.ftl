@@ -35,18 +35,24 @@ appmenuitem-more-tools =
     .label = Más herramientas
 appmenuitem-exit =
     .label = Salir
-appmenuitem-exit2 =
-    .label =
-        { PLATFORM() ->
-            [linux] Salir
-           *[other] Salir
-        }
 appmenu-menu-button-closed =
     .tooltiptext = Abrir el menú de la aplicación
     .label = { -brand-shorter-name }
 appmenu-menu-button-opened =
     .tooltiptext = Cerrar el menú de la aplicación
     .label = { -brand-shorter-name }
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Salir
+           *[other] Salir
+        }
+appmenu-menu-button-closed2 =
+    .tooltiptext = Abrir el menú de la aplicación
+    .label = { -brand-short-name }
+appmenu-menu-button-opened2 =
+    .tooltiptext = Cerrar el menú de la aplicación
+    .label = { -brand-short-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -65,6 +71,10 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sincronizar ahora
+appmenu-remote-tabs-sign-into-sync =
+    .label = Iniciar sesión en Sync…
+appmenu-remote-tabs-turn-on-sync =
+    .label = Activar Sync…
 appmenuitem-fxa-toolbar-sync-now2 = Sincronizar ahora
 appmenuitem-fxa-manage-account = Administrar cuenta
 appmenu-fxa-header =
