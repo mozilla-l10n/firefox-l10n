@@ -83,7 +83,7 @@ about-telemetry-data-details-current = Сваки делић података с
 # Variables:
 #   $selectedTitle (String): the section name from the structure of the ping.
 about-telemetry-filter-placeholder =
-    .placeholder = Нађите у { $selectedTitle }
+    .placeholder = Претражите { $selectedTitle }
 about-telemetry-filter-all-placeholder =
     .placeholder = Пронађи све одељке
 # Variables:
