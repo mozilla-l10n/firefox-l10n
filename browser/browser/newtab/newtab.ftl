@@ -5,7 +5,7 @@
 
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
-newtab-page-title = Нови језичак
+newtab-page-title = Нова картица
 newtab-settings-button =
     .title = Прилагодите страницу новог језичка
 newtab-personalize-button-label = Персонализуј
