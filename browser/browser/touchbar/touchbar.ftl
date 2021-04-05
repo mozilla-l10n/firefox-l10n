@@ -29,7 +29,7 @@ search-search-in = Претражите у:
 
 search-bookmarks = Обележивачи
 search-history = Историја
-search-opentabs = Отворени језичци
+search-opentabs = Отворене картице
 search-tags = Етикете
 search-titles = Наслови
 

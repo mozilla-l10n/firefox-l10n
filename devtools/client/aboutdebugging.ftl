@@ -152,7 +152,7 @@ about-debugging-runtime-extensions =
     .name = Extensions
 # Title of the tabs category.
 about-debugging-runtime-tabs =
-    .name = Језичци
+    .name = Картице
 # Title of the service workers category.
 about-debugging-runtime-service-workers =
     .name = Service Workers
