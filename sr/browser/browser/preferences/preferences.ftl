@@ -604,7 +604,7 @@ search-remove-engine =
 search-add-engine =
     .label = Додај
     .accesskey = A
-search-find-more-link = Нађите више претраживача
+search-find-more-link = Пронађите више претраживача
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Постојећа кључна реч
