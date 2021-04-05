@@ -8,7 +8,7 @@
 # Variables:
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = Пријава додатка { $addon-name }
-abuse-report-title-extension = Пријави ово проширење продавцу { -vendor-short-name }
+abuse-report-title-extension = Пријавите ово проширење организацији { -vendor-short-name }
 abuse-report-title-theme = Пријави ову тему продавцу { -vendor-short-name }
 abuse-report-subtitle = У чему је проблем?
 # Variables:
@@ -71,10 +71,10 @@ abuse-report-settings-reason-v2 = Променило је мој претраж�
 abuse-report-settings-suggestions = Пре пријављивања проширења можете покушати да промените подешавања:
 abuse-report-settings-suggestions-search = Промените подразумеване поставке претраге
 abuse-report-settings-suggestions-homepage = Промените почетну страницу и страницу нове картице
-abuse-report-deceptive-reason-v2 = Тврди да је нешто што није
+abuse-report-deceptive-reason-v2 = Лажно представљање
 abuse-report-deceptive-example = Пример: обмањујући опис или слике
-abuse-report-broken-reason-extension-v2 = Не ради, слама странице или успорава { -brand-product-name }
-abuse-report-broken-reason-theme-v2 = Не ради или слама приказ прегледача
+abuse-report-broken-reason-extension-v2 = Не ради, нарушава веб-сајтове или успорава { -brand-product-name(case: "acc") }
+abuse-report-broken-reason-theme-v2 = Не ради или нарушава рад прегледача
 abuse-report-broken-example = Пример: функције су споре, тешке за употребу или не раде; делови веб страница се не учитавају или изгледају неуобичајено
 abuse-report-broken-suggestions-extension =
     Звучи као да сте идентификовали грешку. Поред тога што овде подносите пријаву, најбољи начин
