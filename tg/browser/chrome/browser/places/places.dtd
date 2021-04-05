@@ -35,6 +35,7 @@
 <!ENTITY cmd.backup.label               "Нусхаи эҳтиётӣ…">
 <!ENTITY cmd.backup.accesskey           "B">
 <!ENTITY cmd.restoreFromFile.label      "Интихоб кардани файл…">
+<!ENTITY cmd.restoreFromFile.accesskey  "C">
 
 <!ENTITY col.name.label          "Ном">
 
