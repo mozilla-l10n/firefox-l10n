@@ -420,8 +420,8 @@ popup-screen-sharing-block =
     .accesskey = B
 popup-screen-sharing-always-block =
     .label = Immer blockieren
-    .accesskey = I
-popup-mute-notifications-checkbox = Websitebenachrichtigungen stummschalten, während Ihr Bildschirm oder ein Fenster geteilt wird
+    .accesskey = m
+popup-mute-notifications-checkbox = Website-Benachrichtigungen stummschalten, während ein Bildschirm oder ein Fenster geteilt wird
 
 ## WebRTC window or screen share tab switch warning
 
