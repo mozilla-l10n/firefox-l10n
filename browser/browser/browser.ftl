@@ -116,7 +116,7 @@ urlbar-tabtosearch-onboard = Изаберите ову пречицу за бр�
 ## Local search mode indicator labels in the urlbar
 
 urlbar-search-mode-bookmarks = Обележивачи
-urlbar-search-mode-tabs = Језичци
+urlbar-search-mode-tabs = Картице
 urlbar-search-mode-history = Историја
 
 ##
@@ -260,7 +260,7 @@ search-one-offs-engine-with-alias =
 search-one-offs-bookmarks =
     .tooltiptext = Обележивачи ({ $restrict })
 search-one-offs-tabs =
-    .tooltiptext = Језичци ({ $restrict })
+    .tooltiptext = Картице ({ $restrict })
 search-one-offs-history =
     .tooltiptext = Историја ({ $restrict })
 
