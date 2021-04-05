@@ -266,11 +266,15 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = Įtraukti adresą
+bookmarks-edit-bookmark = Redaguoti adresyno įrašą
 bookmark-panel-show-editor-checkbox =
     .label = Rodyti redagavimo formą įrašant
     .accesskey = R
 bookmark-panel-done-button =
     .label = Atlikta
+bookmark-panel-save-button =
+    .label = Įrašyti
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
