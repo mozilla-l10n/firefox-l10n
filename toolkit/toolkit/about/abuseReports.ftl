@@ -72,7 +72,7 @@ abuse-report-settings-suggestions = Пре пријављивања прошир
 abuse-report-settings-suggestions-search = Промените подразумеване поставке претраге
 abuse-report-settings-suggestions-homepage = Промените почетну страницу и страницу нове картице
 abuse-report-deceptive-reason-v2 = Лажно представљање
-abuse-report-deceptive-example = Пример: обмањујући опис или слике
+abuse-report-deceptive-example = Пример: опис или слика доводе у заблуду
 abuse-report-broken-reason-extension-v2 = Не ради, нарушава веб-сајтове или успорава { -brand-product-name(case: "acc") }
 abuse-report-broken-reason-theme-v2 = Не ради или нарушава рад прегледача
 abuse-report-broken-example = Пример: функције су споре, тешке за употребу или не раде; делови веб страница се не учитавају или изгледају неуобичајено
@@ -86,6 +86,6 @@ abuse-report-broken-suggestions-theme =
     <a data-l10n-name="support-link">Посетите страницу теме</a> да бисте добили податке о програмеру.
 abuse-report-policy-reason-v2 = Садржи мржњу, насилан или илегалан садржај
 abuse-report-policy-suggestions = Напомена: проблеми са ауторским правима и заштитним знаковима морају бити пријављени у одвојеном процесу. <a data-l10n-name="report-infringement-link">Користите ова упутства</a> да пријавите проблем.
-abuse-report-unwanted-reason-v2 = Никад га нисам желео/ла и не знам како да га се решим
+abuse-report-unwanted-reason-v2 = Непожељно проширење које не могу да уклоним
 abuse-report-unwanted-example = Пример: апликација је инсталирала проширење без моје дозволе
 abuse-report-other-reason = Нешто друго
