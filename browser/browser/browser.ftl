@@ -88,7 +88,7 @@ urlbar-plugins-notification-anchor =
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Hantera delning av din kamera och/eller mikrofon med webbplatsen
 urlbar-autoplay-notification-anchor =
-    .tooltiptext = Öppna autoplay-panelen
+    .tooltiptext = Öppna panelen automatisk uppspelning
 urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Lagra data i beständig lagring
 urlbar-addons-notification-anchor =
@@ -357,7 +357,7 @@ browser-tab-audio-playing2 = SPELAR
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-muted2 = TYST
 # This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-blocked = AUTOPLAY BLOCKERAD
+browser-tab-audio-blocked = AUTOMATISK UPPSPELNING BLOCKERAD
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = BILD-I-BILD
 
