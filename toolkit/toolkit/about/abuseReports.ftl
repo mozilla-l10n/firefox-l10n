@@ -65,9 +65,9 @@ abuse-report-messagebar-action-cancel = Откажи
 
 abuse-report-damage-reason-v2 = Штети рачунару или краде моје податке
 abuse-report-damage-example = Пример: убризгани злонамерни програм тј. malware или украдени подаци
-abuse-report-spam-reason-v2 = Садржи нежељен садржај или убацује непожељне рекламе
+abuse-report-spam-reason-v2 = Садржи непожељан садржај или рекламе
 abuse-report-spam-example = Пример: умеће рекламе на веб странице
-abuse-report-settings-reason-v2 = Променило је мој претраживач, почетну страницу или страницу нове картице без претходног обавештења
+abuse-report-settings-reason-v2 = Промењен ми је претраживач, почетна страница или страница нове картице без питања
 abuse-report-settings-suggestions = Пре пријављивања проширења можете покушати да промените подешавања:
 abuse-report-settings-suggestions-search = Промените подразумеване поставке претраге
 abuse-report-settings-suggestions-homepage = Промените почетну страницу и страницу нове картице
@@ -84,7 +84,7 @@ abuse-report-broken-suggestions-theme =
     Звучи као да сте идентификовали грешку. Поред тога што овде подносите пријаву, најбољи начин
     да решите проблем са функционалношћу је да контактирате програмера теме.
     <a data-l10n-name="support-link">Посетите страницу теме</a> да бисте добили податке о програмеру.
-abuse-report-policy-reason-v2 = Садржи мржњу, насилан или илегалан садржај
+abuse-report-policy-reason-v2 = Изазива мржњу или садржи насилан или незаконит садржај
 abuse-report-policy-suggestions = Напомена: проблеми са ауторским правима и заштитним знаковима морају бити пријављени у одвојеном процесу. <a data-l10n-name="report-infringement-link">Користите ова упутства</a> да пријавите проблем.
 abuse-report-unwanted-reason-v2 = Непожељно проширење које не могу да уклоним
 abuse-report-unwanted-example = Пример: апликација је инсталирала проширење без моје дозволе
