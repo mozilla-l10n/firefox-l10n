@@ -186,7 +186,7 @@ browser-containers-learn-more = Сазнајте више
 browser-containers-settings =
     .label = Подешавања…
     .accesskey = П
-containers-disable-alert-title = Затворити све контејнер језичке?
+containers-disable-alert-title = Затворити све картице контејнера?
 containers-disable-alert-desc =
     { $tabCount ->
         [one] Ако онемогућите картице контејнера, затвориће се { $tabCount } таква картица. Желите ли заиста да наставите?

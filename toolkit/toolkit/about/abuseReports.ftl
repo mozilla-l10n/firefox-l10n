@@ -9,7 +9,7 @@
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = Пријава додатка { $addon-name }
 abuse-report-title-extension = Пријавите ово проширење организацији { -vendor-short-name }
-abuse-report-title-theme = Пријави ову тему продавцу { -vendor-short-name }
+abuse-report-title-theme = Пријавите ову тему организацији { -vendor-short-name }
 abuse-report-subtitle = У чему је проблем?
 # Variables:
 #   $author-name (string) - Name of the add-on author
