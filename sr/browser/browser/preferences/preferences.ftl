@@ -466,7 +466,7 @@ home-new-windows-tabs-description2 = Изаберите шта желите да
 ## Home Section - Home Page Customization
 
 home-homepage-mode-label = Почетна страница и нови прозори:
-home-newtabs-mode-label = Нове картице
+home-newtabs-mode-label = Нове картице:
 home-restore-defaults =
     .label = Врати на подразумевано
     .accesskey = В
@@ -545,8 +545,8 @@ home-prefs-recent-activity-description = Избор недавних сајто�
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = Исечци
-home-prefs-snippets-description = Новости од { -vendor-short-name }-е и { -brand-product-name }-а
-home-prefs-snippets-description-new = Савети и новости од { -vendor-short-name }-а и { -brand-product-name }-а
+home-prefs-snippets-description = Новости од организације { -vendor-short-name } и { -brand-product-name(case: "gen") }
+home-prefs-snippets-description-new = Савети и новости од организације { -vendor-short-name } и програма { -brand-product-name }
 home-prefs-sections-rows-option =
     .label =
         { $num ->
