@@ -27,8 +27,8 @@ update-checkingForUpdates = Провера доступности ажурира
 update-downloading = <img data-l10n-name="icon"/>Преузимање ажурирања — <label data-l10n-name="download-status"/>
 update-downloading-message = Преузимање ажурирања — <label data-l10n-name="download-status"/>
 update-applying = Примењујем надоградњу…
-update-failed = Ажурирање није успело. <label data-l10n-name="failed-link">Преузми најновије издање</label>
-update-failed-main = Ажурирање није успело. <a data-l10n-name="failed-link-main">Преузми најновије издање</a>
+update-failed = Ажурирање није успело. <label data-l10n-name="failed-link">Преузмите најновију верзију</label>
+update-failed-main = Ажурирање није успело. <a data-l10n-name="failed-link-main">Преузмите најновију верзију</a>
 update-adminDisabled = Системски администратор је онемогућио ажурирања
 update-noUpdatesFound = { -brand-short-name } је ажуран
 update-otherInstanceHandlingUpdates = { -brand-short-name } се ажурира

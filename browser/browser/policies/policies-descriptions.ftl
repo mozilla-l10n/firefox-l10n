@@ -108,8 +108,8 @@ policy-SearchSuggestEnabled = Омогућите или онемогућите �
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Инсталирај PKCS #11 модуле.
 policy-ShowHomeButton = Приказује дугме „Почетна” на траци са алаткама.
-policy-SSLVersionMax = Постави највеће могуће издање SSL-a.
-policy-SSLVersionMin = Постави најмање могуће издање SSL-a.
+policy-SSLVersionMax = Поставља максималну верзију SSL-a.
+policy-SSLVersionMin = Поставља минималну верзију SSL-a.
 policy-SupportMenu = Додај прилагођену ставку за подршку у менију помоћи.
 policy-UserMessaging = Сакриј одређене поруке намењене кориснику.
 # “format” refers to the format used for the value of this policy.
