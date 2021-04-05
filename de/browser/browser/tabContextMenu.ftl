@@ -7,7 +7,7 @@ reload-tab =
     .accesskey = d
 select-all-tabs =
     .label = Alle Tabs auswählen
-    .accesskey = u
+    .accesskey = a
 duplicate-tab =
     .label = Tab klonen
     .accesskey = k
@@ -100,7 +100,7 @@ tab-context-reopen-closed-tabs =
             [1] Geschlossenen Tab wieder öffnen
            *[other] Geschlossene Tabs wieder öffnen
         }
-    .accesskey = ö
+    .accesskey = G
 tab-context-close-tabs =
     .label =
         { $tabCount ->
