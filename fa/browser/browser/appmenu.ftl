@@ -7,6 +7,12 @@
 
 appmenuitem-update-banner =
     .label-update-downloading = در حال بارگیری به‌روز رسانی { -brand-shorter-name }
+appmenuitem-update-banner2 =
+    .label-update-downloading = در حال دریافت بروزرسانیِ { -brand-shorter-name }
+    .label-update-available = بروزرسانی موجود است — شروع دریافت
+    .label-update-manual = بروزرسانی موجود است — شروع دریافت
+    .label-update-unsupported = بروزرسانی امکان‌پذیر نبود
+    .label-update-restart = بروزرسانی موجود است — راه‌انداری مجدد
 appmenuitem-protection-dashboard-title = تابلوی محافظت‌ها
 appmenuitem-customize-mode =
     .label = سفارشی‌سازی…
@@ -21,6 +27,8 @@ appmenuitem-passwords =
     .label = گذرواژه‌ها
 appmenuitem-extensions-and-themes =
     .label = افزونه‌ها و پوسته‌ها
+appmenuitem-addons-and-themes =
+    .label = افزونه‌ها و تم‌ها
 appmenuitem-find-in-page =
     .label = پیداکردن در صفحه…
 appmenuitem-more-tools =
@@ -33,6 +41,18 @@ appmenu-menu-button-closed =
 appmenu-menu-button-opened =
     .tooltiptext = بستن منوی برنامه
     .label = { -brand-shorter-name }
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] خروج
+           *[other] خروج
+        }
+appmenu-menu-button-closed2 =
+    .tooltiptext = باز کردن منو برنامه
+    .label = { -brand-short-name }
+appmenu-menu-button-opened2 =
+    .tooltiptext = بستن منو برنامه
+    .label = { -brand-short-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -51,6 +71,10 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = انجام هم‌گام‌سازی
+appmenu-remote-tabs-sign-into-sync =
+    .label = برای همگام‌سازی وارد شوید…
+appmenu-remote-tabs-turn-on-sync =
+    .label = روشن کردن همگام‌سازی…
 appmenuitem-fxa-toolbar-sync-now2 = انجام همگام‌سازی
 appmenuitem-fxa-manage-account = مدیریت حساب
 appmenu-fxa-header =
@@ -163,6 +187,9 @@ appmenu-help-safe-mode-with-addons =
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-enter-troubleshoot-mode2 =
+    .label = حالت عیب‌یابی…
+    .accesskey = ح
 appmenu-help-exit-troubleshoot-mode =
     .label = خاموش کردن حالت عیب‌یابی
     .accesskey = M
