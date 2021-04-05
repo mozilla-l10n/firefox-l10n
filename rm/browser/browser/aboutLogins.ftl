@@ -18,6 +18,7 @@ login-filter =
 create-login-button = Crear datas d'annunzia
 fxaccounts-sign-in-text = Acceda a tes pleds-clav cun tut tes apparats
 fxaccounts-sign-in-button = Connectar cun { -sync-brand-short-name }
+fxaccounts-sign-in-sync-button = S'annunziar per sincronisar
 fxaccounts-avatar-button =
     .title = Administrar il conto
 
