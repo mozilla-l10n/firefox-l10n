@@ -18,6 +18,7 @@ login-filter =
 create-login-button = ایجاد کردن ورود جدید
 fxaccounts-sign-in-text = گذرواژه‌هایتان را دستگاه‌های دیگر خود همراه داشته باشید
 fxaccounts-sign-in-button = ورود به { -sync-brand-short-name }
+fxaccounts-sign-in-sync-button = برای همگام‌سازی وارد شوید
 fxaccounts-avatar-button =
     .title = مدیریت حساب
 
@@ -70,11 +71,15 @@ about-logins-list-item-vulnerable-password-icon =
 
 login-intro-heading = دنبال اطلاعات ورود خود می‌گردید؟ { -sync-brand-short-name } را تنظیم کنید.
 about-logins-login-intro-heading-logged-out = به دنبال ورودهای ذخیره شدهٔ خود می‌گردید؟ { -sync-brand-short-name } را انجام دهید یا آنها را درون‌ریزی کنید.
+about-logins-login-intro-heading-logged-out2 = به دنبال ورودهای ذخیره شده خود هستید؟ همگام‌سازی را روشن یا آنها را درون‌ریزی کنید.
 about-logins-login-intro-heading-logged-in = هیچ ورود همگام شده‌ای پیدا نشد
 login-intro-description = اگر شما ورودتون به{ -brand-product-name } را بر روی دستگاه دیگری ذخیره کرده‌اید،‌ به این شکل بدستشون بیارید:
 login-intro-instruction-fxa = { -fxaccount-brand-name } خود را ایجاد کنید یا بر روی دستگاهی که ورودهای خود را ثبت کرده‌اید به این حساب وارد شوید.
 login-intro-instruction-fxa-settings = مطمئن شوید که جعبه ورود در تنظیمات { -sync-brand-short-name } را انتخاب کرده اید.
 about-logins-intro-instruction-help = برای دریافت کمک بیشتری یا پشتیبانی به  <a data-l10n-name="help-link">{ -lockwise-brand-short-name }پشتیبانی</a> مراجعه کنید
+login-intro-instructions-fxa = { -fxaccount-brand-name(capitalization: "sentence") } خود را در دستگاهی که ورودهای شما در آن ذخیره شده‌اند ایجاد یا در آن وارد شوید.
+login-intro-instructions-fxa-settings = به تنظیمات> همگام‌سازی> روشن کردن همگام‌سازی… بروید و گزینهٔ ورودها و گذرواژها را انتخاب کنید.
+login-intro-instructions-fxa-help = برای راهنمایی بیشتر به <a data-l10n-name="help-link">{ -lockwise-brand-short-name }پشتیبانی</a> مراجعه کنید.
 about-logins-intro-import = اگر اطلاعات ورود شما، در مرورگر دیگری ثبت شده است، می‌توانید از طریق <a data-l10n-name="import-link"> آن‌ها را به { -lockwise-brand-short-name }</a> منتقل کنید.
 about-logins-intro-import2 = اگر ورودهای شما خارج از { -brand-product-name } ذخیره شده‌اند، می‌توانید <a data-l10n-name="import-browser-link">آنها را از مرورگری دیگر</a> یا <a data-l10n-name="import-file-link">از طریق یک پرونده</a> وارد کنید
 
