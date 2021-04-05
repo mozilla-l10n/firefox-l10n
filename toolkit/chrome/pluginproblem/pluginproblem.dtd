@@ -3,19 +3,19 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
-<!ENTITY tapToPlayPlugin                                     "Притисните овде да активирате прикључак.">
-<!ENTITY clickToActivatePlugin                               "Активирај прикључак.">
+<!ENTITY tapToPlayPlugin                                     "Притисните овде да бисте активирали додатну компоненту.">
+<!ENTITY clickToActivatePlugin                               "Активирајте додатну компоненту.">
 <!ENTITY checkForUpdates                                     "Провери надоградње…">
-<!ENTITY blockedPlugin.label                                 "Овај прикључак је блокиран ради безбедности.">
-<!ENTITY hidePluginBtn.label                                 "Сакриј прукључак">
-<!ENTITY managePlugins                                       "Управљање прикључцима…">
+<!ENTITY blockedPlugin.label                                 "Ова додатна компонента је блокирана из безбедносних разлога.">
+<!ENTITY hidePluginBtn.label                                 "Сакриј додатну компоненту">
+<!ENTITY managePlugins                                       "Управљај додатним компонентама…">
 
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
 <!ENTITY reloadPlugin.pre                                    "">
-<!ENTITY reloadPlugin.middle                                 "Освежи страницу">
-<!ENTITY reloadPlugin.post                                   " да покушате поново.">
+<!ENTITY reloadPlugin.middle                                 "Поново учитајте страницу">
+<!ENTITY reloadPlugin.post                                   ".">
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
 <!ENTITY report.please                                       "Пошаљи извештај о отказивању">
 <!ENTITY report.submitting                                   "Шаљем извештај…">
