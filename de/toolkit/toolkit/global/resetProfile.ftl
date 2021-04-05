@@ -4,7 +4,7 @@
 
 refresh-profile-dialog =
     .title = { -brand-short-name } bereinigen
-refresh-profile-dialog-title = { -brand-short-name } bereinigen und auf die Standardeinstellungen setzen?
+refresh-profile-dialog-title = { -brand-short-name } bereinigen und auf die Standardeinstellungen zurücksetzen?
 refresh-profile-dialog-button =
     .label = { -brand-short-name } bereinigen
 refresh-profile-description = Ein Neuanfang löst Probleme mit der Anwendung und stellt die Leistung wieder her.
