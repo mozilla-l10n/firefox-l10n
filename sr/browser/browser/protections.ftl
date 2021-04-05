@@ -41,7 +41,7 @@ protection-report-manage-protections = Управљај подешавањима
 graph-today = Данас
 # This string is used to describe the graph for screenreader users.
 graph-legend-description = Графикон који садржи укупан број сваке врсте пратилаца блокираних ове седмице.
-social-tab-title = Пратиоци с друштвених мрежа
+social-tab-title = Елементи за праћење са друштвених мрежа
 social-tab-contant = Друштвене мреже постављају софтвер за праћење на друге веб странице како би пратили шта радите, читате или гледате на мрежи. То друштвеним мрежама омогућава да о вама сазна много више од онога што делите на својим профилима. <a data-l10n-name="learn-more-link">Сазнајте више</a>
 cookie-tab-title = Колачићи за праћење трећих страна
 cookie-tab-content = Ови колачићи вас прате с једне странице на другу ради прикупљања података о вашим онлајн навикама. Објављују их треће стране, попут оглашивача или компанија за анализу података. Блокирањем колачића с унакрсних страница може се смањити број огласа који вас прате по страницама. <a data-l10n-name="learn-more-link">Сазнајте више</a>
@@ -184,12 +184,12 @@ monitor-resolve-breaches-link = Решите цурења података
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
 bar-tooltip-social =
-    .title = Пратиоци с друштвених мрежа
+    .title = Елементи за праћење са друштвених мрежа
     .aria-label =
         { $count ->
-            [one] { $count } пратилац с друштвених мрежа ({ $percentage }%)
-            [few] { $count } пратиоца с друштвених мрежа ({ $percentage }%)
-           *[other] { $count } пратилаца с друштвених мрежа ({ $percentage }%)
+            [one] { $count } елемент за праћење са друштвених мрежа ({ $percentage }%)
+            [few] { $count } елемента за праћење са друштвених мрежа ({ $percentage }%)
+           *[other] { $count } елемената за праћење са друштвених мрежа ({ $percentage }%)
         }
 bar-tooltip-cookie =
     .title = Колачићи за праћење трећих страна

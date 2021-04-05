@@ -40,7 +40,7 @@ protections-panel-not-blocking-why-etp-off-tooltip = Сви програми з�
 
 protections-panel-no-trackers-found = { -brand-short-name } није уочио познате пратиоце на овој страници.
 protections-panel-content-blocking-tracking-protection = Садржаји који прате
-protections-panel-content-blocking-socialblock = Пратиоци с друштвених мрежа
+protections-panel-content-blocking-socialblock = Елементи за праћење са друштвених мрежа
 protections-panel-content-blocking-cryptominers-label = Крипто-рудари
 protections-panel-content-blocking-fingerprinters-label = Хватачи отиска
 
