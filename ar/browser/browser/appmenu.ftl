@@ -84,6 +84,7 @@ appmenu-fxa-last-sync = كانت آخر مزامنة { $time }
     .label = كانت آخر مزامنة { $time }
 appmenu-fxa-sync-and-save-data =
     .value = زامِن واحفظ البيانات
+appmenu-fxa-sync-and-save-data2 = زامِن واحفظ البيانات
 appmenu-fxa-signed-in-label = لِج
 appmenu-fxa-setup-sync =
     .label = فعّل المزامنة…
