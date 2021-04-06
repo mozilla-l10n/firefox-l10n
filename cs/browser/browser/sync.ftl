@@ -35,3 +35,7 @@ fxa-menu-sync-settings =
 fxa-menu-turn-on-sync =
     .value = Zapnout synchronizaci
 fxa-menu-turn-on-sync-default = Zapnout synchronizaci
+fxa-menu-connect-another-device =
+    .label = Připojit další zařízení…
+fxa-menu-sign-out =
+    .label = Odhlásit se…
