@@ -574,6 +574,7 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Amosar les suxerencies de busca nes ventanes privaes
 suggestions-addressbar-settings-generic = Camudar les preferencies pa otres suxerencies de la barra de direiciones
+suggestions-addressbar-settings-generic2 = Camudar los axustes pa otres suxerencies de la barra de direiciones
 search-suggestions-cant-show = Les suxerencies de busca nun van amosase na barra de direiciones porque configuresti { -brand-short-name } pa qu'enxamás recordare l'historial.
 search-one-click-header = Motores de busca nun calcu
 search-one-click-header2 = Atayos de busca
