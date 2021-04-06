@@ -3,8 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
+<!ENTITY migrationWizard.title          "Encontu pa importar">
 
+<!ENTITY importFrom.label               "Importar les axustes, los marcadores, l'historial, les contraseñes y otros datos de:">
+<!ENTITY importFromUnix.label           "Importar les preferencies, los marcadores, l'historial, les contraseñes y otros datos de:">
 
+<!ENTITY importFromIE.label             "Microsoft Internet Explorer">
+<!ENTITY importFromIE.accesskey         "M">
 
 
 
