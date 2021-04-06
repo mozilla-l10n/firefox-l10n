@@ -525,6 +525,11 @@ urlbar-result-action-tabtosearch-web = 直接从地址栏 { $engine } 一下
 urlbar-result-action-tabtosearch-other-engine = 直接从地址栏在 { $engine } 上搜索
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = 复制
+# Shows the result of a formula expression being calculated, the last = sign will be shown
+# as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result = = { $result }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
