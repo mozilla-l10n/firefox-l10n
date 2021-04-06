@@ -70,6 +70,7 @@ appmenu-fxa-last-sync = Terakhir disinkronkan { $time }
     .label = Terakhir disinkronkan { $time }
 appmenu-fxa-sync-and-save-data =
     .value = Sinkronkan dan Simpan Data
+appmenu-fxa-sync-and-save-data2 = Sinkronkan dan Simpan Data
 appmenu-fxa-signed-in-label = Masuk
 appmenu-fxa-setup-sync =
     .label = Aktifkan Sinkronisasi…
