@@ -18,6 +18,7 @@ login-filter =
 create-login-button = Stwōrz nowe dane logowanio
 fxaccounts-sign-in-text = Używej swojich haseł na inkszych maszinach
 fxaccounts-sign-in-button = Wloguj sie do { -sync-brand-short-name }
+fxaccounts-sign-in-sync-button = Wloguj sie do synchrōnizacyje
 fxaccounts-avatar-button =
     .title = Zarzōndzej kōntym
 
@@ -71,11 +72,15 @@ about-logins-list-item-vulnerable-password-icon =
 
 login-intro-heading = Szukosz swojich spamiyntanych danych logowanio? Nastaluj { -sync-brand-short-name }.
 about-logins-login-intro-heading-logged-out = Szukosz swojich spamiyntanych danych logowanio? Nastaluj { -sync-brand-short-name } abo je zaimportuj.
+about-logins-login-intro-heading-logged-out2 = Szukosz za spamiyntanymi danymi logowanio? Załōncz synchrōnizacyjo abo je importnij.
 about-logins-login-intro-heading-logged-in = Niy szło znojś żodnych danych logowanio.
 login-intro-description = Jeźli dane logowanio do aplikacyje { -brand-product-name } były spamiyntane na inkszyj maszinie, idzie je ściōngnōńć takōm metodōm:
 login-intro-instruction-fxa = Zaregistruj abo zaloguj sie do { -fxaccount-brand-name } na maszinie, co na nij sōm spamiyntane dane logowanio
 login-intro-instruction-fxa-settings = Wejzdrzij, żeby ôpcyjo „dane logowanio” była zaznaczōno we sztelōnkach aplikacyje { -sync-brand-short-name }
 about-logins-intro-instruction-help = Nawiydź <a data-l10n-name="help-link">{ -lockwise-brand-short-name } Sparcie</a> po wiyncyj pōmocy
+login-intro-instructions-fxa = Zaregistruj abo zaloguj sie do { -fxaccount-brand-name(capitalization: "sentence") } na maszinie, co na nij sōm spamiyntane dane logowanio
+login-intro-instructions-fxa-settings = Idź do > Sztalōnki > Synchrōnizacyjo > Załōcz synchrōnizacyjo… Ôbznocz ôkiynko danych logowanio i hasłōw.
+login-intro-instructions-fxa-help = Nawiydź <a data-l10n-name="help-link">{ -lockwise-brand-short-name } Sparcie</a> po wiyncyj pōmocy.
 about-logins-intro-import = Jak twoje dane logowanio sōm spamiyntane we inkszyj przeglōndarce, to możesz <a data-l10n-name="import-link">importować je do usugi { -lockwise-brand-short-name }</a>
 about-logins-intro-import2 = Jak dane logowanio mosz spamiyntane kaj indzij jak we przeglōndarce { -brand-product-name }, możesz <a data-l10n-name="import-browser-link">importnōnć je z inkszyj przeglōndarki</a> abo <a data-l10n-name="import-file-link">ze zbioru</a>
 
@@ -325,6 +330,7 @@ about-logins-import-dialog-error-unable-to-read-description = Badnij, jeźli mos
 about-logins-import-dialog-error-no-logins-imported = Żodne dane logowanio niy sōm importniynte
 about-logins-import-dialog-error-learn-more = Przewiydz sie wiyncyj
 about-logins-import-dialog-error-try-again = Sprōbuj jeszcze roz…
+about-logins-import-dialog-error-try-import-again = Sprōbuj importować jeszcze roz…
 about-logins-import-dialog-error-cancel = Pociep
 about-logins-import-report-title = Importuj podsumowanie
 about-logins-import-report-description = Dane logowanio i hasła sōm importniynte do aplikacyje { -brand-short-name }.
