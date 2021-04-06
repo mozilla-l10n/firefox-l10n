@@ -784,8 +784,8 @@ pane-privacy-logins-and-passwords-header = Лозинке
     .searchkeywords = { -lockwise-brand-short-name }
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
-    .label = Питај да сачуваш пријаве и лозинке веб сајтова
-    .accesskey = П
+    .label = Понуди чување лозинки за веб-сајтове
+    .accesskey = ч
 forms-exceptions =
     .label = Изузеци
     .accesskey = е
