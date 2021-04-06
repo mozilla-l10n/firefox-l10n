@@ -25,7 +25,7 @@ policy-CaptivePortal = Activar o disactivar supporto pro portal captive.
 policy-CertificatesDescription = Adde certificatos o usa certificatos integrate.
 policy-Cookies = Permitter o refusar al sitos web de deponer cookies.
 policy-DisabledCiphers = Disactivar cryptographias.
-policy-DefaultDownloadDirectory = Configura le directorio de discarga predefinite.
+policy-DefaultDownloadDirectory = Configurar le directorio predefinite pro discargamentos.
 policy-DisableAppUpdate = Impedir le actualisation del navigator.
 policy-DisableBuiltinPDFViewer = Disactivar PDF.js, le visor de PDF integrate in { -brand-short-name }.
 policy-DisableDefaultBrowserAgent = Impedir que le agente de navigator predefinite exeque alcun action. Applicabile solo a Windows; altere platteformas non ha iste agente.
@@ -53,7 +53,7 @@ policy-DisplayBookmarksToolbar = Monstrar le barra de marcapaginas per configura
 policy-DisplayMenuBar = Monstrar le Barra del menu de ordinario.
 policy-DNSOverHTTPS = Configura DNS sur HTTPS.
 policy-DontCheckDefaultBrowser = Disactivar le controlo Navigator predefinite al lanceamento initial.
-policy-DownloadDirectory = Configura e bloca le plica del discargas.
+policy-DownloadDirectory = Configurar e fixar le directorio de discargamentos.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Activar o disactivar le blocage de contento e optionalmente serrar lo.
 # “lock” means that the user won’t be able to change this setting
