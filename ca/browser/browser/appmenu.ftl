@@ -86,6 +86,7 @@ appmenu-fxa-last-sync = Última sincronització: { $time }
     .label = Última sincronització: { $time }
 appmenu-fxa-sync-and-save-data =
     .value = Sincronitza i desa les dades
+appmenu-fxa-sync-and-save-data2 = Sincronitza i desa les dades
 appmenu-fxa-signed-in-label = Inicia la sessió
 appmenu-fxa-setup-sync =
     .label = Activa la sincronització…
