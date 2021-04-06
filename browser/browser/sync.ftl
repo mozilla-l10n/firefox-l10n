@@ -4,3 +4,7 @@
 
 fxa-disconnect-dialog-title = Dícheangail { -brand-product-name }?
 sync-disconnect-dialog-button = Dícheangail
+fxa-menu-connect-another-device =
+    .label = Ceangail Gléas Eile…
+fxa-menu-sign-out =
+    .label = Logáil Amach…
