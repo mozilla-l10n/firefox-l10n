@@ -48,6 +48,7 @@ fxa-toolbar-sync-now =
 appmenuitem-fxa-manage-account = Կառավարել հաշիվը
 appmenu-fxa-header =
     .title = { -fxaccount-brand-name }
+appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-fxa-signed-in-label = Մուտք գործել
 appmenuitem-save-page =
     .label = Պահպանել Էջը որպես…
