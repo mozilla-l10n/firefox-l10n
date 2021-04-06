@@ -10,9 +10,40 @@
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">
+<!ENTITY importFromEdge.label           "Microsoft Edge">
+<!ENTITY importFromEdge.accesskey       "E">
+<!ENTITY importFromEdgeBeta.label       "Microsoft Edge Beta">
+<!ENTITY importFromEdgeBeta.accesskey   "d">
+<!ENTITY importFromSafari.label         "Safari">
+<!ENTITY importFromSafari.accesskey     "S">
+<!ENTITY importFromCanary.label         "Chrome Canary">
+<!ENTITY importFromCanary.accesskey     "n">
+<!ENTITY importFromChrome.label         "Chrome">
+<!ENTITY importFromChrome.accesskey     "C">
+<!ENTITY importFromChromeBeta.label     "Chrome Beta">
+<!ENTITY importFromChromeBeta.accesskey "B">
+<!ENTITY importFromChromeDev.label      "Chrome Dev">
+<!ENTITY importFromChromeDev.accesskey  "D">
+<!ENTITY importFromChromium.label       "Chromium">
+<!ENTITY importFromChromium.accesskey   "u">
+<!ENTITY importFromFirefox.label        "Firefox">
+<!ENTITY importFromFirefox.accesskey    "x">
+<!ENTITY importFrom360se.label          "360 Secure Browser">
+<!ENTITY importFrom360se.accesskey      "3">
 
+<!ENTITY noMigrationSources.label       "Nun pudieron atopase programes que contuvieren datos de marcadores, historial o contraseñes.">
 
+<!ENTITY importSource.title             "Importación d'axustes y datos">
+<!ENTITY importItems.title              "Elementos a importar">
+<!ENTITY importItems.label              "Esbilla qué elementos importar:">
 
+<!ENTITY migrating.title                "Importando…">
+<!ENTITY migrating.label                "Tán importándose los elementos de darréu…">
 
+<!ENTITY selectProfile.title            "Esbilla d'un perfil">
+<!ENTITY selectProfile.label            "Los perfiles de darréu tán disponibles pa importar dende:">
 
+<!ENTITY done.title                     "Completóse la importación">
+<!ENTITY done.label                     "Importáronse con ésitu los elementos de darréu:">
 
+<!ENTITY closeSourceBrowser.label       "Asegúrate que'l restolador esbilláu ta zarráu enantes de siguir, por favor.">
