@@ -29,3 +29,5 @@ fxa-menu-sync-settings =
 fxa-menu-turn-on-sync =
     .value = 开启同步
 fxa-menu-turn-on-sync-default = 开启同步
+fxa-menu-connect-another-device =
+    .label = 绑定其他设备…
