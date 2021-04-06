@@ -86,6 +86,7 @@ appmenu-fxa-last-sync = ბოლო დასინქრონება { $tim
     .label = ბოლო დასინქრონება { $time }
 appmenu-fxa-sync-and-save-data =
     .value = დასინქრონება და შენახვა
+appmenu-fxa-sync-and-save-data2 = დასინქრონება და შენახვა
 appmenu-fxa-signed-in-label = შესვლა
 appmenu-fxa-setup-sync =
     .label = დასინქრონების ჩართვა…
