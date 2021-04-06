@@ -130,10 +130,14 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Argumente
 safe-mode-title = Provoni Mënyrën e Parrezik
 restart-in-safe-mode-label = Riniseni me Shtesat të Çaktivizuara…
+troubleshoot-mode-title = Diagnostikoni probleme
+restart-in-troubleshoot-mode-label = Mënyrë Diagnostikim…
 clear-startup-cache-title = Provoni spastrimin e fshehtinës së nisjes
 clear-startup-cache-label = Spastroni fshehtinë nisjeje…
 startup-cache-dialog-title = Spastroni fshehtinë nisjeje
 startup-cache-dialog-body = Që të spastrohet fshehtina e nisjes, rinisni { -brand-short-name }-in. Kjo nuk do të ndryshojë rregullimet tuaja apo të heqë zgjerime që keni shtuar te { -brand-short-name }-i.
+startup-cache-dialog-title2 = Të riniset { -brand-short-name }-i për të spastruar fshehtinën e nisjes?
+startup-cache-dialog-body2 = Kjo nuk do të ndryshojë rregullimet tuaja apo të heqë zgjerime.
 restart-button-label = Rinise
 
 ## Media titles
@@ -192,6 +196,8 @@ support-third-party-modules-vendor = Të dhëna Tregtuesi
 support-third-party-modules-occurrence = Përsëritje
 support-third-party-modules-process = Lloj & ID Procesi
 support-third-party-modules-thread = Rrjedhë
+support-third-party-modules-base = Adresë Imagebase
+support-third-party-modules-uptime = Kohë Në Punë e Procesit (ms)
 support-third-party-modules-duration = Kohëzgjatje Ngarkese (ms)
 support-third-party-modules-status = Gjendje
 support-third-party-modules-status-loaded = I ngarkuar
