@@ -11,6 +11,8 @@
 
 ## Application Menu (macOS only)
 
+menu-application-preferences =
+    .label = Налады
 menu-application-services =
     .label = Службы
 menu-application-hide-this =
@@ -252,15 +254,18 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Увайсці ў { -brand-product-name }…
     .accesskey = і
-menu-tools-extensions =
-    .label = Пашырэнні і тэмы
-    .accesskey = П
+menu-tools-addons-and-themes =
+    .label = Дадаткі і тэмы
+    .accesskey = Д
 menu-tools-fxa-sign-in2 =
     .label = Увайсці
     .accesskey = У
 menu-tools-turn-on-sync =
     .label = Уключыць { -sync-brand-short-name }…
     .accesskey = ь
+menu-tools-turn-on-sync2 =
+    .label = Уключыць сінхранізацыю…
+    .accesskey = і
 menu-tools-sync-now =
     .label = Сінхранізаваць зараз
     .accesskey = С
