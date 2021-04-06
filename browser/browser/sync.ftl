@@ -20,3 +20,7 @@ fxa-signout-dialog =
     .title = خروج از { -fxaccount-brand-name }
     .style = min-width: 375px;
     .buttonlabelaccept = خروج
+fxa-menu-connect-another-device =
+    .label = اتصال به دستگاه دیگر…
+fxa-menu-sign-out =
+    .label = خروج…
