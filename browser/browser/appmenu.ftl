@@ -43,6 +43,7 @@ fxa-toolbar-sync-now =
     .label = अब तुल्यकालित करें
 appmenu-fxa-header =
     .title = { -fxaccount-brand-name }
+appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-fxa-signed-in-label = साइन इन
 appmenuitem-save-page =
     .label = पृष्ठ ऐसे सहेजें…
