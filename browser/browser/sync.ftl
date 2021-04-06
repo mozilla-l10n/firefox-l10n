@@ -23,3 +23,5 @@ fxa-signout-dialog =
     .buttonlabelaccept = Keluar
 fxa-signout-dialog2-button = Keluar
 fxa-signout-dialog2-checkbox = Hapus data dari perangkat ini (sandi, riwayat, markah, dll.).
+fxa-menu-connect-another-device =
+    .label = Sambungkan Peranti Lain…
