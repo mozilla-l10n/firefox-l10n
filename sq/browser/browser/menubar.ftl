@@ -11,6 +11,8 @@
 
 ## Application Menu (macOS only)
 
+menu-application-preferences =
+    .label = Parapëlqime
 menu-application-services =
     .label = Shërbime
 menu-application-hide-this =
@@ -252,14 +254,17 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Hyni Te Llogari { -brand-product-name }…
     .accesskey = H
-menu-tools-extensions =
-    .label = Zgjerime dhe Tema
-    .accesskey = Z
+menu-tools-addons-and-themes =
+    .label = Shtesa dhe Tema
+    .accesskey = S
 menu-tools-fxa-sign-in2 =
     .label = Hyni
     .accesskey = H
 menu-tools-turn-on-sync =
     .label = Aktivizoni { -sync-brand-short-name }…
+    .accesskey = A
+menu-tools-turn-on-sync2 =
+    .label = Aktivizoni Sync-un…
     .accesskey = A
 menu-tools-sync-now =
     .label = Njëkohësohu Tani

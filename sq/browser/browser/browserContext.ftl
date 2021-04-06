@@ -114,6 +114,12 @@ main-context-menu-bookmark-add =
 main-context-menu-bookmark-add-mac =
     .label = Faqeruaje Faqen
     .accesskey = F
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-edit-mac =
+    .label = Përpunoni Faqerojtësin
+    .accesskey = P
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-add-with-shortcut =
@@ -361,9 +367,21 @@ main-context-menu-generate-new-password =
 main-context-menu-use-saved-login =
     .label = Përdor Kredenciale Hyrjesh të Ruajtura
     .accesskey = o
+main-context-menu-use-saved-password =
+    .label = Përdorim Fjalëkalimin e Ruajtur
+    .accesskey = F
 
 ##
 
+main-context-menu-suggest-strong-password =
+    .label = Sugjero Fjalëkalim të Fuqishëm…
+    .accesskey = S
+main-context-menu-manage-logins =
+    .label = Administroni Kredenciale Hyrjesh…
+    .accesskey = A
+main-context-menu-manage-logins2 =
+    .label = Administroni Kredenciale Hyrjesh
+    .accesskey = K
 main-context-menu-keyword =
     .label = Shtoni një Fjalëkyç për këtë Kërkim…
     .accesskey = K
@@ -406,6 +424,9 @@ main-context-menu-print-selection =
 main-context-menu-view-selection-source =
     .label = Shihni Burim Përzgjedhjeje
     .accesskey = e
+main-context-menu-take-screenshot =
+    .label = Bëni Foto Ekrani
+    .accesskey = B
 main-context-menu-view-page-source =
     .label = Shihni Burim Faqeje
     .accesskey = u
@@ -421,6 +442,9 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = Shqyrtoje Elementin
     .accesskey = E
+main-context-menu-inspect =
+    .label = Shqyrtoje
+    .accesskey = Q
 main-context-menu-inspect-a11y-properties =
     .label = Mbikëqyrni Veti Përdorshmërie
 main-context-menu-eme-learn-more =
