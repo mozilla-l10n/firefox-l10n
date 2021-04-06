@@ -106,6 +106,7 @@ policy-SearchEngines = Prilagodi postavke tražilice. Ovo pravilo dostupno je sa
 policy-SearchSuggestEnabled = Aktiviraj ili deaktiviraj prijedloge za pretraživanje.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Instaliraj PKCS #11 module.
+policy-ShowHomeButton = Prikaži gumb početne stranice u alatnoj traci.
 policy-SSLVersionMax = Postavi maksimalnu SSL verziju.
 policy-SSLVersionMin = Postavi minimalnu SSL verziju.
 policy-SupportMenu = Dodaj prilagođenu stavku korisničke podrške u izbornik pomoći.
