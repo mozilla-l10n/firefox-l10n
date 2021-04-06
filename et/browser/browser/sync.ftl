@@ -12,3 +12,7 @@ sync-disconnect-dialog-body = { -brand-product-name } lõpetab sinu konto sünkr
 fxa-disconnect-dialog-title = Kas oled kindel, et soovid { -brand-product-name }ist lahti ühendada?
 fxa-disconnect-dialog-body = { -brand-product-name } ühendub sinu kontost lahti, aga ei kustuta lehitsemise andmeid sellest seadmest.
 sync-disconnect-dialog-button = Ühenda lahti
+fxa-menu-connect-another-device =
+    .label = Ühenda teine seade…
+fxa-menu-sign-out =
+    .label = Logi välja…
