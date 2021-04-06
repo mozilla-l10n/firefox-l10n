@@ -318,6 +318,7 @@ about-logins-import-dialog-error-unable-to-read-description = יש לוודא ש
 about-logins-import-dialog-error-no-logins-imported = לא יובאו כניסות
 about-logins-import-dialog-error-learn-more = מידע נוסף
 about-logins-import-dialog-error-try-again = ניסיון חוזר…
+about-logins-import-dialog-error-try-import-again = ניסיון ייבוא חוזר…
 about-logins-import-dialog-error-cancel = ביטול
 about-logins-import-report-title = סיכום הייבוא
 about-logins-import-report-description = כניסות וססמאות יובאו אל { -brand-short-name }.
