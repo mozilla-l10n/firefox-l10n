@@ -86,6 +86,7 @@ appmenu-fxa-last-sync = Utoljára szinkronizálva: { $time }
     .label = Utoljára szinkronizálva: { $time }
 appmenu-fxa-sync-and-save-data =
     .value = Adatok szinkronizálása és mentése
+appmenu-fxa-sync-and-save-data2 = Adatok szinkronizálása és mentése
 appmenu-fxa-signed-in-label = Bejelentkezés
 appmenu-fxa-setup-sync =
     .label = Szinkronizálás bekapcsolása…
