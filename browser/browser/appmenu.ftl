@@ -35,18 +35,18 @@ appmenuitem-more-tools =
     .label = Другие инструменты
 appmenuitem-exit =
     .label = Выход
-appmenuitem-exit2 =
-    .label =
-        { PLATFORM() ->
-            [linux] Выход
-           *[other] Выход
-        }
 appmenu-menu-button-closed =
     .tooltiptext = Открыть меню приложения
     .label = { -brand-shorter-name }
 appmenu-menu-button-opened =
     .tooltiptext = Закрыть меню приложения
     .label = { -brand-shorter-name }
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Выход
+           *[other] Выход
+        }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -76,6 +76,7 @@ appmenu-fxa-last-sync = Последняя синхронизация { $time }
     .label = Последняя синхронизация { $time }
 appmenu-fxa-sync-and-save-data =
     .value = Синхронизация и сохранение данных
+appmenu-fxa-sync-and-save-data2 = Синхронизация и сохранение данных
 appmenu-fxa-signed-in-label = Войти
 appmenu-fxa-setup-sync =
     .label = Включить синхронизацию…
