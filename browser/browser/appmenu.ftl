@@ -86,6 +86,7 @@ appmenu-fxa-last-sync = 上次同步於 { $time }
     .label = 上次同步於 { $time }
 appmenu-fxa-sync-and-save-data =
     .value = 同步並儲存資料
+appmenu-fxa-sync-and-save-data2 = 同步並儲存資料
 appmenu-fxa-signed-in-label = 登入
 appmenu-fxa-setup-sync =
     .label = 開啟同步…
