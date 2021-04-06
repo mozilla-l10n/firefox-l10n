@@ -23,3 +23,7 @@ fxa-signout-dialog =
     .buttonlabelaccept = Logg ut
 fxa-signout-dialog2-button = Logg ut
 fxa-signout-dialog2-checkbox = Slett data fra denne enheten (passord, historikk, bokmerker osv.).
+fxa-menu-connect-another-device =
+    .label = Koble til en annen enhet…
+fxa-menu-sign-out =
+    .label = Logg ut…
