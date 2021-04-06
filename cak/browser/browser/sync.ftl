@@ -29,3 +29,7 @@ fxa-menu-sync-settings =
 fxa-menu-turn-on-sync =
     .value = Titzij pa Ximoj
 fxa-menu-turn-on-sync-default = Titzij pa Ximoj
+fxa-menu-connect-another-device =
+    .label = Tokisäx Jun Chik Okisaxel…
+fxa-menu-sign-out =
+    .label = Titz'apïx Molojri'ïl…
