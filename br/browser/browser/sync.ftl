@@ -12,3 +12,7 @@ sync-disconnect-dialog-body = { -brand-product-name } a baouezo da c'houbredañ 
 fxa-disconnect-dialog-title = Digennaskañ { -brand-product-name }?
 fxa-disconnect-dialog-body = { -brand-product-name } a zigennasko ho kont met na zilamo roadenn ebet eus an trevnad-mañ.
 sync-disconnect-dialog-button = Digennaskañ
+fxa-menu-connect-another-device =
+    .label = Kennaskañ un trevnad all…
+fxa-menu-sign-out =
+    .label = Digennaskañ…
