@@ -86,6 +86,7 @@ appmenu-fxa-last-sync = Posledná synchronizácia { $time }
     .label = Posledná synchronizácia { $time }
 appmenu-fxa-sync-and-save-data =
     .value = Synchronizovať a uložiť údaje
+appmenu-fxa-sync-and-save-data2 = Synchronizovať a uložiť údaje
 appmenu-fxa-signed-in-label = Prihlásiť sa
 appmenu-fxa-setup-sync =
     .label = Zapnúť synchronizáciu…
