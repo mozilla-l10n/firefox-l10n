@@ -23,3 +23,7 @@ fxa-signout-dialog =
     .buttonlabelaccept = Desconectar
 fxa-signout-dialog2-button = Pechar sesión
 fxa-signout-dialog2-checkbox = Eliminar os datos deste dispositivo (contrasinais, historial, marcadores, etc.).
+fxa-menu-connect-another-device =
+    .label = Conectar outro dispositivo…
+fxa-menu-sign-out =
+    .label = Saír…
