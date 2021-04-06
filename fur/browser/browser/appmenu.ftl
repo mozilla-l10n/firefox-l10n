@@ -80,6 +80,7 @@ appmenu-fxa-last-sync = Ultime volte sincronizât: { $time }
     .label = Ultime volte sincronizât: { $time }
 appmenu-fxa-sync-and-save-data =
     .value = Sincronize e salve i dâts
+appmenu-fxa-sync-and-save-data2 = Sincronize e salve i dâts
 appmenu-fxa-signed-in-label = Jentre
 appmenu-fxa-setup-sync =
     .label = Ative la sincronizazion…
