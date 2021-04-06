@@ -48,4 +48,5 @@ bookmark-overlay-keyword =
 bookmark-overlay-keyword-2 =
     .value = Mot clau
     .accesskey = M
+bookmark-overlay-tags-caption-label = Utilizatz las etiquetas per organizar e cercar los marcapaginas a partir de la barra d’adreça
 bookmark-overlay-keyword-caption-label = Utilizatz de mots claus per dobrir los marcapaginas dirèctament de la barra d’adreça estant
