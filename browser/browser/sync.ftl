@@ -23,3 +23,7 @@ fxa-signout-dialog =
     .buttonlabelaccept = Sortir
 fxa-signout-dialog2-button = Sortir
 fxa-signout-dialog2-checkbox = Stizzar las datas da quest apparat (pleds-clav, cronologia, segnapaginas etc.)
+fxa-menu-connect-another-device =
+    .label = Colliar in auter apparat…
+fxa-menu-sign-out =
+    .label = Sortir…
