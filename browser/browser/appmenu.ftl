@@ -94,6 +94,7 @@ appmenu-fxa-last-sync = Последња синхронизација { $time }
     .label = Последња синхронизација { $time }
 appmenu-fxa-sync-and-save-data =
     .value = Синхронизуј и сачувај податке
+appmenu-fxa-sync-and-save-data2 = Синхронизуј и сачувај податке
 appmenu-fxa-signed-in-label = Пријави ме
 appmenu-fxa-setup-sync =
     .label = Укључи синхронизацију
