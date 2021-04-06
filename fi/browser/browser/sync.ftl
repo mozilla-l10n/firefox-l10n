@@ -22,3 +22,7 @@ fxa-signout-dialog =
     .buttonlabelaccept = Kirjaudu ulos
 fxa-signout-dialog2-button = Kirjaudu ulos
 fxa-signout-dialog2-checkbox = Poista tiedot tältä laitteelta (salasanat, historia, kirjanmerkit jne.)
+fxa-menu-connect-another-device =
+    .label = Yhdistä toiseen laitteeseen…
+fxa-menu-sign-out =
+    .label = Kirjaudu ulos…
