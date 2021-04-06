@@ -39,7 +39,7 @@ policy-DisableTelemetry = Disactivar le telemetria.
 policy-DisplayMenuBar = Monstrar le barra de menu per predefinition.
 policy-DNSOverHTTPS = Configurar DNS sur HTTPS.
 policy-DontCheckDefaultClient = Disactivar le verification de cliente predefinite al initio.
-policy-DownloadDirectory = Configurar e blocar le plica del discargas.
+policy-DownloadDirectory = Configurar e fixar le directorio de discargamentos.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Activar o disactivar le blocage de contento e optionalmente serrar lo.
 # “lock” means that the user won’t be able to change this setting
