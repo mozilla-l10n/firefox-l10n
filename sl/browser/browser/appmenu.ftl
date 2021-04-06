@@ -35,18 +35,18 @@ appmenuitem-more-tools =
     .label = Več orodij
 appmenuitem-exit =
     .label = Izhod
-appmenuitem-exit2 =
-    .label =
-        { PLATFORM() ->
-            [linux] Zapri
-           *[other] Izhod
-        }
 appmenu-menu-button-closed =
     .tooltiptext = Odpri meni programa
     .label = { -brand-shorter-name }
 appmenu-menu-button-opened =
     .tooltiptext = Zapri meni programa
     .label = { -brand-shorter-name }
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Zapri
+           *[other] Izhod
+        }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -76,6 +76,7 @@ appmenu-fxa-last-sync = Sinhronizirano ob { $time }
     .label = Sinhronizirano ob { $time }
 appmenu-fxa-sync-and-save-data =
     .value = Sinhroniziraj in shrani podatke
+appmenu-fxa-sync-and-save-data2 = Sinhroniziraj in shrani podatke
 appmenu-fxa-signed-in-label = Prijava
 appmenu-fxa-setup-sync =
     .label = Vklopi sinhronizacijo …
