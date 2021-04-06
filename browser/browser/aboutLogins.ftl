@@ -310,6 +310,7 @@ about-logins-import-dialog-error-unable-to-read-description = Assicurarsi di ave
 about-logins-import-dialog-error-no-logins-imported = Non è stata importata alcuna credenziale
 about-logins-import-dialog-error-learn-more = Ulteriori informazioni
 about-logins-import-dialog-error-try-again = Riprova…
+about-logins-import-dialog-error-try-import-again = Riprova importazione…
 about-logins-import-dialog-error-cancel = Annulla
 
 about-logins-import-report-title = Riepilogo importazione
