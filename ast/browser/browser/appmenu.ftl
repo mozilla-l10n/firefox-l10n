@@ -59,6 +59,7 @@ appmenu-fxa-header =
     .title = { -fxaccount-brand-name }
 appmenu-fxa-sync-and-save-data =
     .value = Sincroniza y guarda datos
+appmenu-fxa-sync-and-save-data2 = Sincroniza y guarda datos
 appmenu-fxa-signed-in-label = Aniciar sesión
 appmenuitem-save-page =
     .label = Guardar la páxina como…
