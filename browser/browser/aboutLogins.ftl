@@ -332,6 +332,7 @@ about-logins-import-dialog-error-unable-to-read-description = Упэўніцес
 about-logins-import-dialog-error-no-logins-imported = Ніводзін лагін не імпартаваны
 about-logins-import-dialog-error-learn-more = Даведацца больш
 about-logins-import-dialog-error-try-again = Паспрабаваць зноў...
+about-logins-import-dialog-error-try-import-again = Паўтарыць спробу імпарту…
 about-logins-import-dialog-error-cancel = Скасаваць
 about-logins-import-report-title = Падсумаванне імпарту
 about-logins-import-report-description = Лагіны і паролі імпартаваны ў { -brand-short-name }.

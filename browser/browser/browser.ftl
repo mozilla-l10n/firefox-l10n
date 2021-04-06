@@ -266,11 +266,15 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = Дадаць закладку
+bookmarks-edit-bookmark = Рэдагаваць закладку
 bookmark-panel-show-editor-checkbox =
     .label = Паказваць рэдактар пры захаванні
     .accesskey = П
 bookmark-panel-done-button =
     .label = Гатова
+bookmark-panel-save-button =
+    .label = Захаваць
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -514,6 +518,13 @@ urlbar-result-action-tabtosearch-web = Шукайце з дапамогай { $e
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = Шукайце ў { $engine } наўпрост з адраснага радка
+# Action text for copying to clipboard.
+urlbar-result-action-copy-to-clipboard = Капіраваць
+# Shows the result of a formula expression being calculated, the last = sign will be shown
+# as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result = = { $result }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -629,6 +640,23 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = Захаваць у { -pocket-brand-name }
     .tooltiptext = Захаваць у { -pocket-brand-name }
+
+## Customize Toolbar Buttons
+
+# Variables:
+#  $shortcut (String): keyboard shortcut to open the add-ons manager
+toolbar-addons-themes-button =
+    .label = Дадаткі і тэмы
+    .tooltiptext = Кіруйце сваімі дадаткамі і тэмамі ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open settings (only on macOS)
+toolbar-settings-button =
+    .label = Налады
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Адкрыць налады ({ $shortcut })
+           *[other] Адкрыць налады
+        }
 
 ## More items
 
