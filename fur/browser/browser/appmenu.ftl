@@ -73,6 +73,7 @@ appmenuitem-fxa-toolbar-sync-now2 = Sincronize cumò
 appmenuitem-fxa-manage-account = Gjestìs account
 appmenu-fxa-header =
     .title = { -fxaccount-brand-name }
+appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
