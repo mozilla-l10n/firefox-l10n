@@ -86,6 +86,7 @@ appmenu-fxa-last-sync = آخرین همگام‌سازی { $time }
     .label = آخرین همگام‌سازی { $time }
 appmenu-fxa-sync-and-save-data =
     .value = همگام‌سازی و ذخیرهٔ داده‌ها
+appmenu-fxa-sync-and-save-data2 = همگام‌سازی و ذخیرهٔ داده‌ها
 appmenu-fxa-signed-in-label = ورود
 appmenu-fxa-setup-sync =
     .label = روشن کردن همگام‌سازی…
