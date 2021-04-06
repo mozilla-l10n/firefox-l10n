@@ -28,6 +28,18 @@ search-input-box =
             [windows] Znojdź we ôpcyjach
            *[other] Znojdź we preferyncyjach
         }
+settings-page-title = Sztalōnki
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box2 =
+    .style = width: 15.4em
+    .placeholder = Znojdź we sztalōnkach
 managed-notice = Tōm przeglōndarkōm regiyruje twoja ôrganizacyjo.
 category-list =
     .aria-label = Kategoryje
@@ -46,12 +58,16 @@ category-privacy =
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
+pane-sync-title3 = Synchrōnizacyjo
+category-sync3 =
+    .tooltiptext = { pane-sync-title3 }
 pane-experimental-title = { -brand-short-name } - Eksperymynta
 category-experimental =
     .tooltiptext = { -brand-short-name } - Eksperymynta
 pane-experimental-subtitle = Pozōr!
 pane-experimental-search-results-header = { -brand-short-name } - Eksperymynta: Dej pozōr
 pane-experimental-description = Skuli zmiany rozszyrzōnych sztalōnkōw może sie pogorszyć wydajność abo bezpieczyństwo { -brand-short-name }.
+pane-experimental-description2 = Skuli zmiany rozszyrzōnych sztalōnkōw może sie pogorszyć wydajność abo bezpieczyństwo { -brand-short-name }.
 pane-experimental-reset =
     .label = Wrōć bazowe
     .accesskey = W
@@ -121,6 +137,8 @@ search-results-empty-message =
         [windows] Do szukanio “<span data-l10n-name="query"></span>” niy ma żodnych wynikōw we ôpcyjach
        *[other] Do szukanio “<span data-l10n-name="query"></span>” niy ma żodnych wynikōw w Preferyncyjach
     }
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 = Do szukanio “<span data-l10n-name="query"></span>” niy ma żodnych wynikōw we sztalōnkach.
 search-results-help-link = Potrzebujesz pōmocy? Nawiydź <a data-l10n-name="url">Spōmożka aplikacyje { -brand-short-name }</a>
 
 ## General Section
@@ -372,6 +390,9 @@ update-application-check-choose =
 update-application-manual =
     .label = Nigdy niy szukać za aktualizacyjami (niyrykōmyndowane)
     .accesskey = N
+update-application-background-enabled =
+    .label = Jak { -brand-short-name } niy funguje
+    .accesskey = J
 update-application-warning-cross-user-setting = Te nasztalowanie bydzie wkludzōne na wszyskich kōntach Windows i profilach aplikacyje { -brand-short-name }, co używajōm tyj aplikacyje.
 update-application-use-service =
     .label = Używej usugi, co funguje na zadku, coby zainsztalować aktualizacyje
@@ -383,6 +404,15 @@ update-setting-write-failure-title = Feler przi spamiyntywaniu preferyncyji aktu
 # intentional so the path is easier to identify.
 update-setting-write-failure-message =
     { -brand-short-name } trefiōł na feler i niy spamiyntoł tyj zmiany. Nasztalowanie tyj prefyryncyji aktualizacyji potrzebuje zgody na zapisowanie do zbioru sam niżyj. Abo ty, abo administatōr systymu możno poradzicie rozwiōnzać tyn feler, jak docie pōłno kōntrola nad tym zbiorym grupie "Użytkowniki". 
+    
+    Niy szło zapisać do zbioru: { $path }
+update-setting-write-failure-title2 = Feler przi spamiyntywaniu sztalōnkōw aktualizacyji
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message2 =
+    { -brand-short-name } trefiōł na feler i niy spamiyntoł tyj zmiany. Zmiana tego sztalōnku aktualizacyji potrzebuje zgody na zapisowanie do zbioru sam niżyj. Abo ty, abo administatōr systymu możno poradzicie rozwiōnzać tyn feler, jak docie pōłno kōntrola nad tym zbiorym grupie "Użytkowniki". 
     
     Niy szło zapisać do zbioru: { $path }
 update-in-progress-title = Aktualizuja...
@@ -585,6 +615,7 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Pokazuj dorady szukanio we prywatnych ôknach
 suggestions-addressbar-settings-generic = Zmiyń preferyncyje doradōw we posku adresy
+suggestions-addressbar-settings-generic2 = Zmiyń sztalōnki doradōw we posku adresy
 search-suggestions-cant-show = Dorady szukanio niy bydōm sie pokazować we posku z adresōm, bo mosz nasztalowane, coby { -brand-short-name } niy spamiyntowoł historyji.
 search-one-click-header = Wyszukowarki z jednym klikniyńciym
 search-one-click-header2 = Skrōty szukanio
@@ -619,6 +650,8 @@ containers-back-button =
             [windows] Nazod do Ôpcyjōw
            *[other] Nazod do Preferyncyjōw
         }
+containers-back-button2 =
+    .aria-label = Nazod do sztalōnkōw
 containers-header = Kōntynerowe karty
 containers-add-button =
     .label = Przidej nowy kōntyner
@@ -628,6 +661,8 @@ containers-new-tab-check =
     .accesskey = O
 containers-preferences-button =
     .label = Preferyncyje
+containers-settings-button =
+    .label = Sztalōnki
 containers-remove-button =
     .label = Skasuj
 
@@ -638,6 +673,10 @@ sync-signedout-caption = Bier swōj nec ze sobōm
 sync-signedout-description = Synchrōnizuj swoje zokłodki, historyjo, karty, hasła, rozszyrzynia i preferyncyje na wszyskich swojich maszinach.
 sync-signedout-account-signin2 =
     .label = Wloguj sie do { -sync-brand-short-name(case: "gen") }…
+    .accesskey = i
+sync-signedout-description2 = Synchrōnizuj swoje zokłodki, historyjo, karty, hasła, rozszyrzynia i sztalōnki na wszyskich swojich maszinach.
+sync-signedout-account-signin3 =
+    .label = …Wloguj sie do synchrōnizacyje…
     .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -678,6 +717,10 @@ prefs-sync-setup =
     .label = Sztaluj { -sync-brand-short-name(case: "acc") }…
     .accesskey = S
 prefs-sync-offer-setup-label = Synchrōnizuj swoje zokłodki, historyjo, karty, hasła, rozszyrzynia i preferyncyje na wszyskich swojich maszinach.
+prefs-sync-turn-on-syncing =
+    .label = Załōncz synchronizacyjo…
+    .accesskey = s
+prefs-sync-offer-setup-label2 = Synchrōnizuj swoje zokłodki, historyjo, karty, hasła, rozszyrzynia i sztalōnki na wszyskich swojich maszinach.
 prefs-sync-now =
     .labelnotsyncing = Synchrōnizuj teroz
     .accesskeynotsyncing = T
@@ -698,6 +741,7 @@ sync-currently-syncing-prefs =
         [windows] Ôpcyje
        *[other] Preferyncyje
     }
+sync-currently-syncing-settings = Sztalōnki
 sync-change-options =
     .label = Zmiyń…
     .accesskey = Z
@@ -744,6 +788,10 @@ sync-engine-prefs =
            *[other] Preferyncyje
         }
     .tooltiptext = Spamiyntane nasztalowania: ôgōlne, prywatności, bezpieczyństwa
+    .accesskey = s
+sync-engine-settings =
+    .label = Sztalōnki
+    .tooltiptext = Pozmiyniane sztalōnki ôgōlne, prywatności i bezpieczyństwa
     .accesskey = s
 
 ## The device name controls.
@@ -1159,6 +1207,11 @@ space-alert-under-5gb-ok-button =
     .label = OK
     .accesskey = K
 space-alert-under-5gb-message = Aplikacyji { -brand-short-name } kōńczy sie plac na dysku. Zawartość strōny może sie niy pokazować dobrze. Wejrzij na "Przewiydz sie wiyncyj", coby zoptymalizować użycie tego dysku i snadnij przeglōndać nec.
+space-alert-over-5gb-settings-button =
+    .label = Ôdewrzij sztalōnki
+    .accesskey = O
+space-alert-over-5gb-message2 = <strong> { -brand-short-name } kōńczy sie plac na dysku.</strong> Zawartość strōny może sie niy pokazować dobrze. Możesz skasować zebrane dane we Sztalōnki > Prywatność i bezpieczyństwo > Cookies i dane strōn.
+space-alert-under-5gb-message2 = <strong>{ -brand-short-name } kōńczy sie plac na dysku.</strong> Zawartość strōny może sie niy pokazować dobrze. Wejrzij na "Przewiydz sie wiyncyj", coby zoptymalizować użycie tego dysku i snadnij przeglōndać nec.
 
 ## Privacy Section - HTTPS-Only
 
