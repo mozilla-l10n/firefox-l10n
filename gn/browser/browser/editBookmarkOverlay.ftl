@@ -45,3 +45,6 @@ bookmark-overlay-tags-expander =
 bookmark-overlay-keyword =
     .value = Jehero:
     .accesskey = J
+bookmark-overlay-keyword-2 =
+    .value = Ñe’ẽ ñemi
+    .accesskey = K
