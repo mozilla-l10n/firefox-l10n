@@ -324,6 +324,7 @@ about-logins-import-dialog-error-unable-to-read-description = Переконай
 about-logins-import-dialog-error-no-logins-imported = Жоден пароль не імпортовано
 about-logins-import-dialog-error-learn-more = Дізнатися більше
 about-logins-import-dialog-error-try-again = Спробувати знову…
+about-logins-import-dialog-error-try-import-again = Повторити спробу імпорту…
 about-logins-import-dialog-error-cancel = Скасувати
 about-logins-import-report-title = Підсумок імпорту
 about-logins-import-report-description = Паролі, імпортовані до { -brand-short-name }.
