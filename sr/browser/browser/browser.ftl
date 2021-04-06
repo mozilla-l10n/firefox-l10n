@@ -695,8 +695,8 @@ eme-notifications-drm-content-playing-dismiss-accesskey = О
 
 ## Password save/update panel
 
-panel-save-update-username = Корисничко име
-panel-save-update-password = Лозинка
+panel-save-update-username = Корисничко име:
+panel-save-update-password = Лозинка:
 
 ## Add-on removal warning
 
