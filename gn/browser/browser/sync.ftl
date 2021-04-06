@@ -29,3 +29,7 @@ fxa-menu-sync-settings =
 fxa-menu-turn-on-sync =
     .value = Emyandy Ñembojuehe
 fxa-menu-turn-on-sync-default = Emyandy Ñembojuehe
+fxa-menu-connect-another-device =
+    .label = Embojuaju ambue mba’e’oka…
+fxa-menu-sign-out =
+    .label = Ñesẽ…
