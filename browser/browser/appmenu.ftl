@@ -29,18 +29,18 @@ appmenuitem-more-tools =
     .label = Көбірек саймандар
 appmenuitem-exit =
     .label = Шығу
-appmenuitem-exit2 =
-    .label =
-        { PLATFORM() ->
-            [linux] Шығу
-           *[other] Шығу
-        }
 appmenu-menu-button-closed =
     .tooltiptext = Қолданбалар мәзірін ашу
     .label = { -brand-shorter-name }
 appmenu-menu-button-opened =
     .tooltiptext = Қолданбалар мәзірін жабу
     .label = { -brand-shorter-name }
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Шығу
+           *[other] Шығу
+        }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -70,6 +70,7 @@ appmenu-fxa-last-sync = Соңғы синхрондалу { $time }
     .label = Соңғы синхрондалу { $time }
 appmenu-fxa-sync-and-save-data =
     .value = Деректерді синхрондау және сақтау
+appmenu-fxa-sync-and-save-data2 = Деректерді синхрондау және сақтау
 appmenu-fxa-signed-in-label = Кіру
 appmenu-fxa-setup-sync =
     .label = Синхрондауды іске қосу…
