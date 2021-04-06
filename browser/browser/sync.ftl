@@ -20,3 +20,7 @@ fxa-signout-dialog =
     .title = Fini seancon en { -fxaccount-brand-name }
     .style = min-width: 375px;
     .buttonlabelaccept = Fini seancon
+fxa-menu-connect-another-device =
+    .label = Konekti alian aparaton…
+fxa-menu-sign-out =
+    .label = Fini seancon…
