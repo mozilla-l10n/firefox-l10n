@@ -4,3 +4,5 @@
 
 add-on-options-button =
     .title = Mundësi Shtese
+atn-addons-heading-search-input =
+    .placeholder = Kërkoni te addons.thunderbird.net
