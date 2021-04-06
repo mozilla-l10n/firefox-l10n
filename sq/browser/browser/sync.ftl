@@ -20,3 +20,7 @@ fxa-signout-dialog =
     .title = Dilni nga { -fxaccount-brand-name }
     .style = min-width: 375px;
     .buttonlabelaccept = Dilni
+fxa-menu-connect-another-device =
+    .label = Lidhni Tjetër Pajisje…
+fxa-menu-sign-out =
+    .label = Dilni…
