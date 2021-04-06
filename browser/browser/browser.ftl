@@ -272,11 +272,15 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = Ychwanegu Nod Tudalen
+bookmarks-edit-bookmark = Golygu Nod Tudalen
 bookmark-panel-show-editor-checkbox =
     .label = Dangos y golygydd wrth gadw
     .accesskey = D
 bookmark-panel-done-button =
     .label = Gorffen
+bookmark-panel-save-button =
+    .label = Cadw
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -550,6 +554,13 @@ urlbar-result-action-tabtosearch-web = Chwilio gyda { $engine } yn syth o'r bar 
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = Chwilio gyda { $engine } yn syth o'r bar cyfeiriad
+# Action text for copying to clipboard.
+urlbar-result-action-copy-to-clipboard = Copïo
+# Shows the result of a formula expression being calculated, the last = sign will be shown
+# as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result = = { $result }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -665,6 +676,23 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = Cadw i { -pocket-brand-name }
     .tooltiptext = Cadw i { -pocket-brand-name }
+
+## Customize Toolbar Buttons
+
+# Variables:
+#  $shortcut (String): keyboard shortcut to open the add-ons manager
+toolbar-addons-themes-button =
+    .label = Ychwanegion a Themâu
+    .tooltiptext = Rheolwch eich ychwanegion a'ch thenâu ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open settings (only on macOS)
+toolbar-settings-button =
+    .label = Gosodiadau
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Agor y gosodiadau ({ $shortcut })
+           *[other] Agor y gosodiadau
+        }
 
 ## More items
 

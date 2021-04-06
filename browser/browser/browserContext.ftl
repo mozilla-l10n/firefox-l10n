@@ -88,6 +88,12 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
+## Firefox Account Button
+
+toolbar-button-fxaccount =
+    .label = { -fxaccount-brand-name(capitalization: "sentence") }
+    .tooltiptext = { -fxaccount-brand-name(capitalization: "sentence") }
+
 ## Save Page
 
 main-context-menu-page-save =
@@ -372,6 +378,9 @@ main-context-menu-suggest-strong-password =
     .accesskey = C
 main-context-menu-manage-logins =
     .label = Rheoli Mewngofnodion…
+    .accesskey = R
+main-context-menu-manage-logins2 =
+    .label = Rheoli Mewngofnodion
     .accesskey = R
 main-context-menu-keyword =
     .label = Ychwanegu Allweddair i'r Chwilio…

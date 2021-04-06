@@ -8,3 +8,6 @@ account-finish-account-setup = Gorffen Creu Cyfrif
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-reconnect-to-fxa = Datgysylltwyd y Cyfrif
+# Used as the FxA toolbar menu item title when the user
+# needs to reconnect their account.
+account-disconnected = Rydych wedi'ch datgysylltu

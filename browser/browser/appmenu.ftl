@@ -47,6 +47,12 @@ appmenuitem-exit2 =
             [linux] Gadael
            *[other] Gadael
         }
+appmenu-menu-button-closed2 =
+    .tooltiptext = Agor Dewislen y Rhaglen
+    .label = { -brand-short-name }
+appmenu-menu-button-opened2 =
+    .tooltiptext = Cau Dewislen y Rhaglen
+    .label = { -brand-short-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -65,6 +71,10 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Cydweddu Nawr
+appmenu-remote-tabs-sign-into-sync =
+    .label = Mewngofnodi i Sync…
+appmenu-remote-tabs-turn-on-sync =
+    .label = Cychwyn Sync…
 appmenuitem-fxa-toolbar-sync-now2 = Cydweddu Nawr
 appmenuitem-fxa-manage-account = Rheoli Cyfrif
 appmenu-fxa-header =
@@ -77,7 +87,7 @@ appmenu-fxa-last-sync = Cydweddwyd diwethaf { $time }
     .label = Cydweddwyd diwethaf { $time }
 appmenu-fxa-sync-and-save-data =
     .value = Cydweddu a Chadw Data
-appmenu-fxa-sync-and-save-data2 = Cydweddu a Chadw Data
+appmenu-fxa-sync-and-save-data2 = Cydweddu a chadw data
 appmenu-fxa-signed-in-label = Mewngofnodi
 appmenu-fxa-setup-sync =
     .label = Cychwyn Cydweddu…
