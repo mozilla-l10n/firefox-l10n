@@ -45,6 +45,7 @@ appmenu-update-manual2 =
     .buttonaccesskey = L
     .secondarybuttonlabel = Avvis
     .secondarybuttonaccesskey = A
+appmenu-update-manual-message2 = Klarte ikke å oppdatere { -brand-shorter-name } automatisk. Last ned den nye versjonen — du mister ikke lagret informasjon eller tilpasninger.
 appmenu-update-unsupported2 =
     .label = Klarte ikke å oppdatere
     .buttonlabel = Les mer
