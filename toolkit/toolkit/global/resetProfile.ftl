@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = Osvežite { -brand-short-name }
+refresh-profile-dialog-title = Osvežim { -brand-short-name } na privzete nastavitve?
 refresh-profile-dialog-button =
     .label = Osveži { -brand-short-name }
 refresh-profile-description = Začnite na novo, brez težav in z več hitrosti.
