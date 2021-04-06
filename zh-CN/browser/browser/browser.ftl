@@ -523,6 +523,8 @@ urlbar-result-action-tabtosearch-web = 直接从地址栏 { $engine } 一下
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = 直接从地址栏在 { $engine } 上搜索
+# Action text for copying to clipboard.
+urlbar-result-action-copy-to-clipboard = 复制
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -638,6 +640,23 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = 保存到 { -pocket-brand-name }
     .tooltiptext = 保存到 { -pocket-brand-name }
+
+## Customize Toolbar Buttons
+
+# Variables:
+#  $shortcut (String): keyboard shortcut to open the add-ons manager
+toolbar-addons-themes-button =
+    .label = 扩展和主题
+    .tooltiptext = 管理您的扩展和主题（{ $shortcut }）
+# Variables:
+#  $shortcut (String): keyboard shortcut to open settings (only on macOS)
+toolbar-settings-button =
+    .label = 设置
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] 打开设置（{ $shortcut }）
+           *[other] 打开设置
+        }
 
 ## More items
 
