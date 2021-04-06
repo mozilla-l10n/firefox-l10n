@@ -28,3 +28,5 @@ fxa-menu-sync-settings =
 fxa-menu-turn-on-sync =
     .value = Rmed amtawi
 fxa-menu-turn-on-sync-default = Rmed amtawi
+fxa-menu-connect-another-device =
+    .label = Qqen ibenk-nniḍen...
