@@ -82,8 +82,8 @@ login-intro-instruction-fxa = Creu neu fewngofnodi i'ch { -fxaccount-brand-name 
 login-intro-instruction-fxa-settings = Sicrhewch eich bod wedi dewis y blwch gwirio Mewngofnodion yng Ngosodiadau { -sync-brand-short-name }
 about-logins-intro-instruction-help = Ewch i <a data-l10n-name="help-link"> Cefnogaeth { -lockwise-brand-short-name }</a> i gael rhagor o gymorth
 login-intro-instructions-fxa = Crëwch neu fewngofnodwch i'ch cyfrif { -fxaccount-brand-name } ar y ddyfais lle mae'ch mewngofnodion yn cael eu cadw
-login-intro-instructions-fxa-settings = Ewch i Gosodiadau> Sync> Cychwyn cydweddu... Dewiswch y blwch ticio Mewngofnodi a chyfrineiriau.
-login-intro-instructions-fxa-help = Ewch i <a data-l10n-name="help-link"> Cefnogaeth { -lockwise-brand-short-name }</a> i gael rhagor o gymorth
+login-intro-instructions-fxa-settings = Ewch i Gosodiadau > Sync > Cychwyn cydweddu... Dewiswch y blwch ticio Mewngofnodi a chyfrineiriau.
+login-intro-instructions-fxa-help = Ewch i <a data-l10n-name="help-link">Gefnogaeth { -lockwise-brand-short-name }</a> i gael rhagor o gymorth
 about-logins-intro-import = Os yw eich mewngofnodion yn cael eu cadw mewn porwr arall, gallwch <a data-l10n-name="import-link">eu mewnforio i { -lockwise-brand-short-name }</a>
 about-logins-intro-import2 = Os yw eich mewngofnodion wedi'u cadw y tu allan i { -brand-product-name }, gallwch <a data-l10n-name="import-browser-link">eu mewnforio o borwr arall</a> neu <a data-l10n-name="import-file-link">o ffeil</a>
 
@@ -365,7 +365,7 @@ about-logins-import-dialog-error-unable-to-read-description = Gwnewch yn siŵr e
 about-logins-import-dialog-error-no-logins-imported = Heb fewnforio unrhyw fewngofnodion
 about-logins-import-dialog-error-learn-more = Dysgu rhagor
 about-logins-import-dialog-error-try-again = Ceisiwch eto…
-about-logins-import-dialog-error-try-import-again = Ceisiwf Fewnforio Eto…
+about-logins-import-dialog-error-try-import-again = Ceisiwch Fewnforio Eto…
 about-logins-import-dialog-error-cancel = Diddymu
 about-logins-import-report-title = Crynodeb Mewnforio
 about-logins-import-report-description = Mewngofnodion a chyfrineiriau wedi'u mewnforio i { -brand-short-name }.
