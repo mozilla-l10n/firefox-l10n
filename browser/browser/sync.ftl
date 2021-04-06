@@ -29,3 +29,7 @@ fxa-menu-sync-settings =
 fxa-menu-turn-on-sync =
     .value = فعّل المزامنة
 fxa-menu-turn-on-sync-default = فعّل المزامنة
+fxa-menu-connect-another-device =
+    .label = صِلْ جهازا آخر…
+fxa-menu-sign-out =
+    .label = اخرج…
