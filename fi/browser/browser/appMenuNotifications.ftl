@@ -51,6 +51,7 @@ appmenu-update-unsupported2 =
     .buttonaccesskey = L
     .secondarybuttonlabel = Hylkää
     .secondarybuttonaccesskey = H
+appmenu-update-unsupported-message2 = Käyttöjärjestelmäsi ei ole yhteensopiva uusimman { -brand-shorter-name }-version kanssa.
 appmenu-update-restart2 =
     .label = Päivitys saatavilla
     .buttonlabel = Päivitä ja käynnistä uudelleen
