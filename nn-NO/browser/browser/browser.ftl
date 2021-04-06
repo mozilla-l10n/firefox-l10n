@@ -531,6 +531,8 @@ urlbar-result-action-tabtosearch-web = Søk med { $engine } direket frå adresse
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = Søk i { $engine } direkte frå adresselinja
+# Action text for copying to clipboard.
+urlbar-result-action-copy-to-clipboard = Kopier
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -646,6 +648,23 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = Lagre til { -pocket-brand-name }
     .tooltiptext = Lagre til { -pocket-brand-name }
+
+## Customize Toolbar Buttons
+
+# Variables:
+#  $shortcut (String): keyboard shortcut to open the add-ons manager
+toolbar-addons-themes-button =
+    .label = Tillegg og tema
+    .tooltiptext = Handter tillegg og tema ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open settings (only on macOS)
+toolbar-settings-button =
+    .label = Innstillingar
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Opne innstillingar ({ $shortcut })
+           *[other] OPne innstillingar
+        }
 
 ## More items
 
