@@ -62,6 +62,7 @@ appmenu-fxa-last-sync = Laste spegulita: { $time }
     .label = Laste spegulita: { $time }
 appmenu-fxa-sync-and-save-data =
     .value = Speguli kaj konservi datumojn
+appmenu-fxa-sync-and-save-data2 = Speguli kaj konservi datumojn
 appmenu-fxa-signed-in-label = Komenci seancon
 appmenu-fxa-setup-sync =
     .label = Ŝalti speguladon…
