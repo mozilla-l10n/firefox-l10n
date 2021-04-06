@@ -14,3 +14,7 @@ fxa-signout-dialog =
     .title = ¿Nakasɨ sesión { -fxaccount-brand-name }?
     .style = min-width: 375px;
     .buttonlabelaccept = Nakasɨ sesión
+fxa-menu-connect-another-device =
+    .label = Chu´un inka ka̱a̱…
+fxa-menu-sign-out =
+    .label = Kasɨ sesión…
