@@ -35,18 +35,18 @@ appmenuitem-more-tools =
     .label = Ulteriurs utensils
 appmenuitem-exit =
     .label = Terminar
-appmenuitem-exit2 =
-    .label =
-        { PLATFORM() ->
-            [linux] Terminar
-           *[other] Terminar
-        }
 appmenu-menu-button-closed =
     .tooltiptext = Avrir il menu d'applicaziun
     .label = { -brand-shorter-name }
 appmenu-menu-button-opened =
     .tooltiptext = Serrar il menu d'applicaziun
     .label = { -brand-shorter-name }
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Terminar
+           *[other] Terminar
+        }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -76,6 +76,7 @@ appmenu-fxa-last-sync = Ultima sincronisaziun: { $time }
     .label = Ultima sincronisaziun: { $time }
 appmenu-fxa-sync-and-save-data =
     .value = Sincronisar e memorisar las datas
+appmenu-fxa-sync-and-save-data2 = Sincronisar e memorisar las datas
 appmenu-fxa-signed-in-label = S'annunziar
 appmenu-fxa-setup-sync =
     .label = Activar la sincronisaziun…
