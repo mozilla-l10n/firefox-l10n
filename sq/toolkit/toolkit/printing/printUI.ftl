@@ -38,7 +38,6 @@ printui-scale-fit-to-page-width = Sa e nxë gjerësia e faqes
 printui-scale-pcent = Shkallë
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Shtypje në të dy faqet
-printui-duplex-checkbox = Shtyp në të dy faqet
 printui-two-sided-printing-off = Off
 # Flip the sheet as if it were bound along its long edge.
 printui-two-sided-printing-long-edge = Ktheje në anë tjetër sipas anës së gjatë
@@ -57,14 +56,19 @@ printui-margins-default = Parazgjedhje
 printui-margins-min = Minimum
 printui-margins-none = Asnjë
 printui-margins-custom-inches = Vetjake (inç)
+printui-margins-custom-mm = Vetjake (mm)
 printui-margins-custom-top = Në Krye
 printui-margins-custom-top-inches = Krye (inç)
+printui-margins-custom-top-mm = Në krye (mm)
 printui-margins-custom-bottom = Në fund
 printui-margins-custom-bottom-inches = Fund (inç)
+printui-margins-custom-bottom-mm = Në fund (mm)
 printui-margins-custom-left = Majtas
 printui-margins-custom-left-inches = Majtas (inç)
+printui-margins-custom-left-mm = Majtas (mm)
 printui-margins-custom-right = Djathtas
 printui-margins-custom-right-inches = Djathtas (inç)
+printui-margins-custom-right-mm = Djathtas (mm)
 printui-system-dialog-link = Shtyp duke përdorur dialogun e sistemit…
 printui-primary-button = Shtype
 printui-primary-button-save = Ruaje
