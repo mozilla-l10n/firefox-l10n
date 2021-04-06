@@ -20,3 +20,7 @@ fxa-signout-dialog =
     .title = { -fxaccount-brand-name } ਲਈ ਸਾਈਨ ਆਉਟ
     .style = min-width: 375px;
     .buttonlabelaccept = ਸਾਈਨ ਆਉਟ
+fxa-menu-connect-another-device =
+    .label = …ਹੋਰ ਡਿਵਾਈਸ ਨਾਲ ਕਨੈਕਟ ਕਰੋ
+fxa-menu-sign-out =
+    .label = …ਸਾਈਨ ਆਉਟ
