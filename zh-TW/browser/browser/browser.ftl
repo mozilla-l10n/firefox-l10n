@@ -523,6 +523,13 @@ urlbar-result-action-tabtosearch-web = 從網址列直接使用 { $engine } 搜�
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = 從網址列直接搜尋 { $engine }
+# Action text for copying to clipboard.
+urlbar-result-action-copy-to-clipboard = 複製
+# Shows the result of a formula expression being calculated, the last = sign will be shown
+# as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result = = { $result }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -638,6 +645,23 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = 儲存至 { -pocket-brand-name }
     .tooltiptext = 儲存至 { -pocket-brand-name }
+
+## Customize Toolbar Buttons
+
+# Variables:
+#  $shortcut (String): keyboard shortcut to open the add-ons manager
+toolbar-addons-themes-button =
+    .label = 附加元件與佈景主題
+    .tooltiptext = 管理您的附加元件與佈景主題（{ $shortcut }）
+# Variables:
+#  $shortcut (String): keyboard shortcut to open settings (only on macOS)
+toolbar-settings-button =
+    .label = 設定
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] 開啟設定頁面（{ $shortcut }）
+           *[other] 開啟設定頁面
+        }
 
 ## More items
 
