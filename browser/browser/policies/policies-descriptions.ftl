@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Поставите правила којим WebExtensions може приступити преко chrome.storage.managed.
+policy-AllowedDomainsForApps = Дефинише домене који могу да приступе Google Workspace-у.
 policy-AppAutoUpdate = Омогућава или онемогућава аутоматско ажурирање програма.
 policy-AppUpdateURL = Подеси прилагођену адресу за ажурирање програма.
 policy-Authentication = Подесите уграђену идентификацију за сајтове који то подржавају.
