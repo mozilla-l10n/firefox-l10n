@@ -20,3 +20,7 @@ fxa-signout-dialog =
     .title = Voleu tancar la sessió del { -fxaccount-brand-name }?
     .style = min-width: 375px;
     .buttonlabelaccept = Tanca la sessió
+fxa-menu-connect-another-device =
+    .label = Connecta un altre dispositiu…
+fxa-menu-sign-out =
+    .label = Tanca la sessió…
