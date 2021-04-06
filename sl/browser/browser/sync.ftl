@@ -20,3 +20,7 @@ fxa-signout-dialog =
     .title = Odjava iz { -fxaccount-brand-name }a
     .style = min-width: 375px;
     .buttonlabelaccept = Odjava
+fxa-menu-connect-another-device =
+    .label = Poveži drugo napravo …
+fxa-menu-sign-out =
+    .label = Odjava …
