@@ -86,6 +86,7 @@ appmenu-fxa-last-sync = Darrièra sincro. { $time }
     .label = Darrièra sincro. { $time }
 appmenu-fxa-sync-and-save-data =
     .value = Sincronizar e enregistrar las donadas
+appmenu-fxa-sync-and-save-data2 = Sincronizar e enregistrar las donadas
 appmenu-fxa-signed-in-label = Connexion
 appmenu-fxa-setup-sync =
     .label = Activar la sincronizacion…
