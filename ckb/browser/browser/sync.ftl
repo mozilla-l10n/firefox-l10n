@@ -12,3 +12,7 @@ sync-disconnect-dialog-body = { -brand-product-name } دەوەستێت لە ها
 fxa-disconnect-dialog-title = دەردەچیت لە { -brand-product-name }؟
 fxa-disconnect-dialog-body = { -brand-product-name } دەسڕێتەوە لە هەژمارەکەت بەڵام هیچ لا زانیارییەکانی گەڕانەکانت ناسڕێتەوە لە ئامێرەکە.
 sync-disconnect-dialog-button = دەرچوون
+fxa-menu-connect-another-device =
+    .label = پەیوەندی بکە بە ئامێرێکی تر...
+fxa-menu-sign-out =
+    .label = بچۆ دەرەوە...
