@@ -343,6 +343,7 @@ about-logins-import-dialog-error-unable-to-read-description = Zawěsćće, zo s�
 about-logins-import-dialog-error-no-logins-imported = Žane přizjewjenja njejsu so importowali.
 about-logins-import-dialog-error-learn-more = Dalše informacije
 about-logins-import-dialog-error-try-again = Hišće raz spytać…
+about-logins-import-dialog-error-try-import-again = Spytajće znowa importować…
 about-logins-import-dialog-error-cancel = Přetorhnyć
 about-logins-import-report-title = Zjeće importować
 about-logins-import-report-description = Přizjewjenja a hesła su so do { -brand-short-name } importowali.
