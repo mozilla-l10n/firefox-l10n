@@ -13,6 +13,11 @@
 perftools-heading-settings = Сва подешавања
 perftools-heading-buffer = Подешавања бафера
 perftools-heading-features = Функције
+perftools-heading-features-default = Функције (подразумевано укључено)
+perftools-heading-features-disabled = Онемогућене функције
+perftools-heading-features-experimental = Експерименталне
+perftools-heading-threads = Нити
+perftools-heading-local-build = Локална компилација
 
 ##
 
@@ -22,6 +27,10 @@ perftools-heading-features = Функције
 
 ##
 
+# The size of the memory buffer used to store things in the profiler.
+perftools-range-entries-label = Величина бафера:
+perftools-devtools-interval-label = Интервал:
+perftools-devtools-threads-label = Нити:
 perftools-devtools-settings-label = Подешавања
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
