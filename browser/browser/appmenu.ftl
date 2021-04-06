@@ -7,6 +7,12 @@
 
 appmenuitem-update-banner =
     .label-update-downloading = Po shkarkohet përditësim { -brand-shorter-name }-i
+appmenuitem-update-banner2 =
+    .label-update-downloading = Shkarkim përditësimi { -brand-shorter-name }
+    .label-update-available = Ka përditësim gati — shkarkojeni tani
+    .label-update-manual = Ka përditësim gati — shkarkojeni tani
+    .label-update-unsupported = S’arrihet të përditësohet
+    .label-update-restart = Ka përditësim gati — riniseni tani
 appmenuitem-protection-dashboard-title = Pult Mbrojtjesh
 appmenuitem-customize-mode =
     .label = Përshtateni…
@@ -21,6 +27,8 @@ appmenuitem-passwords =
     .label = Fjalëkalime
 appmenuitem-extensions-and-themes =
     .label = Zgjerime dhe Tema
+appmenuitem-addons-and-themes =
+    .label = Shtesa dhe Tema
 appmenuitem-find-in-page =
     .label = Gjeni Në Faqe…
 appmenuitem-more-tools =
@@ -33,6 +41,18 @@ appmenu-menu-button-closed =
 appmenu-menu-button-opened =
     .tooltiptext = Mbyll Menu Aplikacionesh
     .label = { -brand-shorter-name }
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Dilni
+           *[other] Dalje
+        }
+appmenu-menu-button-closed2 =
+    .tooltiptext = Hap Menu Aplikacioni
+    .label = { -brand-short-name }
+appmenu-menu-button-opened2 =
+    .tooltiptext = Mbyll Menu Aplikacioni
+    .label = { -brand-short-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -51,6 +71,10 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Njëkohësohu Tani
+appmenu-remote-tabs-sign-into-sync =
+    .label = Hyni në Sync…
+appmenu-remote-tabs-turn-on-sync =
+    .label = Aktivizoni Sync-un…
 appmenuitem-fxa-toolbar-sync-now2 = Njëkohësoji Tani
 appmenuitem-fxa-manage-account = Administroni Llogari
 appmenu-fxa-header =
