@@ -29,5 +29,7 @@ fxa-menu-sync-settings =
 fxa-menu-turn-on-sync =
     .value = เปิดใช้ Sync
 fxa-menu-turn-on-sync-default = เปิดใช้ Sync
+fxa-menu-connect-another-device =
+    .label = เชื่อมต่ออุปกรณ์อื่น…
 fxa-menu-sign-out =
     .label = ลงชื่อออก…
