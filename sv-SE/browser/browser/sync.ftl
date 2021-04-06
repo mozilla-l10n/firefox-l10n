@@ -29,3 +29,5 @@ fxa-menu-sync-settings =
 fxa-menu-turn-on-sync =
     .value = Aktivera synkronisering
 fxa-menu-turn-on-sync-default = Aktivera synkronisering
+fxa-menu-connect-another-device =
+    .label = Ansluta en annan enhet…
