@@ -86,6 +86,7 @@ appmenu-fxa-last-sync = Senast synkroniserad { $time }
     .label = Senast synkroniserad { $time }
 appmenu-fxa-sync-and-save-data =
     .value = Synkronisera och spara data
+appmenu-fxa-sync-and-save-data2 = Synkronisera och spara data
 appmenu-fxa-signed-in-label = Logga in
 appmenu-fxa-setup-sync =
     .label = Aktivera synkronisering…
