@@ -70,6 +70,7 @@ appmenu-fxa-last-sync = Последна синхронизация { $time }
     .label = Последна синхронизация { $time }
 appmenu-fxa-sync-and-save-data =
     .value = Синхронизиране и запазване на данни
+appmenu-fxa-sync-and-save-data2 = Синхронизиране и запазване на данни
 appmenu-fxa-signed-in-label = Вход
 appmenu-fxa-setup-sync =
     .label = Включване синхронизиране
