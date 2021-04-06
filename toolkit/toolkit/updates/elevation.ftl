@@ -13,7 +13,7 @@ elevation-error-manual =
         [feminine] { -brand-short-name(case: "acc") }
         [neuter] { -brand-short-name(case: "acc") }
        *[other] Програм { -brand-short-name }
-    } можете да ажурирате ручно преузимањем најновије верзије са ове странице:
+    } можете да ажурирате ручно преузимањем најновије верзије са ове адресе:
 elevation-finished-page = Ажурирање је спремно за инсталацију
 elevation-finished-background-page =
     Ажурирање за безбедност и стабилност за { -brand-short-name } је преузео
