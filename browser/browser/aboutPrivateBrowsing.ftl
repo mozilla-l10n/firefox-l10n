@@ -9,6 +9,16 @@ about-private-browsing-info-title = Вы ў прыватным акне
 about-private-browsing-info-myths = Шырокавядомыя забабоны пра прыватнае агляданне
 about-private-browsing =
     .title = Пошук у Інтэрнэце
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff =
+    .title = Шукайце з дапамогай { $engine } альбо увядзіце адрас
+about-private-browsing-handoff-no-engine =
+    .title = Увядзіце пошукавы запыт альбо адрас
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff-text = Шукайце з дапамогай { $engine } альбо увядзіце адрас
+about-private-browsing-handoff-text-no-engine = Увядзіце пошукавы запыт альбо адрас
 about-private-browsing-not-private = Вы зараз не ў прыватным акне.
 about-private-browsing-info-description = { -brand-short-name } ачышчае вашу гісторыю пошуку і аглядання, калі вы выходзіце з праграмы або закрываеце ўсе карткі і вокны прыватнага аглядання. У той час як гэта не робіць вас ананімным для вэб-сайтаў і інтэрнэт-правайдара, гэта дазваляе лягчэй трымаць у сакрэце тое, што вы робіце ў сеціве, ад астатніх карыстальнікаў гэтага камп'ютара.
 about-private-browsing-need-more-privacy = Трэба больш прыватнасці?
