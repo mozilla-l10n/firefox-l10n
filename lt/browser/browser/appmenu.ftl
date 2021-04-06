@@ -86,6 +86,7 @@ appmenu-fxa-last-sync = Paskiausiai sinchronizuota { $time }
     .label = Paskiausiai sinchronizuota { $time }
 appmenu-fxa-sync-and-save-data =
     .value = Sinchronizuoti ir įrašyti duomenis
+appmenu-fxa-sync-and-save-data2 = Sinchronizuoti ir įrašyti duomenis
 appmenu-fxa-signed-in-label = Prisijungti
 appmenu-fxa-setup-sync =
     .label = Įjungti sinchronizavimą…
