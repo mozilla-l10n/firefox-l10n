@@ -9,7 +9,7 @@ update-checkForUpdatesButton =
     .label = Preveri posodobitve
     .accesskey = P
 update-updateButton =
-    .label = Ponovno zaženi za posodobitev { -brand-shorter-name }a
+    .label = Ponovno zaženi za posodobitev { -brand-shorter-name(sklon: "rodilnik") }
     .accesskey = Z
 update-checkingForUpdates = Preverjanje posodobitev …
 update-downloading = <img data-l10n-name="icon"/>Prenašanje posodobitev — <label data-l10n-name="download-status"/>
