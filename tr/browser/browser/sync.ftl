@@ -29,3 +29,7 @@ fxa-menu-sync-settings =
 fxa-menu-turn-on-sync =
     .value = Eşitlemeyi başlat
 fxa-menu-turn-on-sync-default = Eşitlemeyi başlat
+fxa-menu-connect-another-device =
+    .label = Başka bir cihaz bağla…
+fxa-menu-sign-out =
+    .label = Çıkış yap…
