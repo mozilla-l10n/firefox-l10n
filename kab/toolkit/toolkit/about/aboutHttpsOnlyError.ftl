@@ -26,4 +26,6 @@ about-httpsonly-link-learn-more = Issin ugar…
 ## Variables:
 ##   $websiteUrl (String) - Url of the website that can be securely loded with these alternatives. Example: example.com
 
+about-httpsonly-suggestion-box-header = Tazmert-nniḍen
+about-httpsonly-suggestion-box-www-text = Yella lqem aɣellsan n <em>www.{ $websiteUrl }</em>. Tzemreḍ ad terzuḍ ɣer usebter-a deg ubdil n <em>{ $websiteUrl }</em>.
 about-httpsonly-suggestion-box-www-button = Rzu ɣer www.{ $websiteUrl }
