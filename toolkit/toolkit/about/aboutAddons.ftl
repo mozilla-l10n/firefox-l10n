@@ -21,6 +21,8 @@ sidebar-preferences-button-title =
 addons-settings-button = Axustes de { -brand-short-name }
 sidebar-settings-button-title =
     .title = Axustes de { -brand-short-name }
+detail-last-updated =
+    .label = Últimu anovamientu
 detail-home-value =
     .value = { detail-home.label }
 detail-repository-value =
@@ -104,8 +106,24 @@ addon-open-about-debugging = Depurar los complementos
 
 ## Recommended add-ons page
 
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro =
+    Les estensiones y los estilos son como aplicaciones pal restolador y déxente
+    protexer contraseñes, baxar vídeos, atopar ufiertes, bloquiar anuncios molestos,
+    camudar l'estilu del restolador y muncho más. Estos programinos suelen tar
+    desendolcaos por terceros. Equí hai una esbilla que { -brand-product-name }
+    <a data-l10n-name="learn-more-trigger">aconseya</a> pa consiguir un nivel
+    esceicional de seguranza, rindimientu y funcionalidá.
 discopane-notice-learn-more = Lleer más
 privacy-policy = Política de privacidá
+# Refers to the author of an add-on, shown below the name of the add-on.
+# Variables:
+#   $author (string) - The name of the add-on developer.
+created-by-author = por <a data-l10n-name="author">{ $author }</a>
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = Xestionar
 # This is a label for the button to open the "more options" menu, it is only
 # used for screen readers.
 addon-options-button =
@@ -113,18 +131,39 @@ addon-options-button =
 
 ## Add-on actions
 
+report-addon-button = Informar
+remove-addon-button = Quitar
+disable-addon-button = Desactivar
+enable-addon-button = Activar
+# This is used for the toggle on the extension card, it's a checkbox and this
+# is always its label.
+extension-enable-addon-button-label =
+    .aria-label = Activar
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] Opciones
+       *[other] Preferencies
+    }
+details-addon-button = Detalles
 permissions-addon-button = Permisos
 addon-detail-version-label = Versión
+addon-detail-last-updated-label = Últimu anovamientu
 addon-detail-rating-label = Valoración
 
 ## Pending uninstall message bar
 
+addon-detail-updates-label = Permitir l'anovamientu automáticu
 addon-detail-private-browsing-allow = Permitir
 addon-detail-private-browsing-disallow = Nun permitir
 
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line3 =
+    .title = Estensión oficial fecha por Mozilla. Cumple colos estándares de seguranza y rindimientu
+    .aria-label = { addon-badge-line3.title }
 
 ##
 
@@ -146,3 +185,4 @@ plugin-heading = Xestiona los plugins
 dictionary-heading = Xestiona los diccionarios
 locale-heading = Xestión de llingües
 updates-heading = Xestiona los anovamientos
+discover-heading = Personaliza { -brand-short-name }
