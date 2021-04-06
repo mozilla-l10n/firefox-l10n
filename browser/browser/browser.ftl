@@ -394,7 +394,7 @@ browser-tab-unblock =
 browser-import-button2 =
     .label = Увези обележиваче…
     .tooltiptext = Увезите обележиваче из другог прегледача у { -brand-short-name }.
-bookmarks-toolbar-empty-message = Брзо приступите обележивачима тако што ћете их поставити овде на траку обележивача. <a data-l10n-name="manage-bookmarks">Управљајте обележивачима…</a>
+bookmarks-toolbar-empty-message = Брзо приступите обележивачима тако што ћете их поставити на ову траку. <a data-l10n-name="manage-bookmarks">Управљајте обележивачима…</a>
 
 ## WebRTC Pop-up notifications
 
