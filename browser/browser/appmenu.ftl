@@ -62,6 +62,7 @@ appmenu-fxa-last-sync = Njëkohësuar së fundi më { $time }
     .label = Njëkohësuar së fundi më { $time }
 appmenu-fxa-sync-and-save-data =
     .value = Njëkohëso dhe Ruaj të Dhëna
+appmenu-fxa-sync-and-save-data2 = Njëkohëso dhe Ruaj të Dhëna
 appmenu-fxa-signed-in-label = Hyni
 appmenu-fxa-setup-sync =
     .label = Aktivizoni Sync-un…
