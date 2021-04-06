@@ -86,6 +86,7 @@ appmenu-fxa-last-sync = Laatst gesynchroniseerd: { $time }
     .label = Laatst gesynchroniseerd: { $time }
 appmenu-fxa-sync-and-save-data =
     .value = Synchroniseren en gegevens opslaan
+appmenu-fxa-sync-and-save-data2 = Synchroniseren en gegevens opslaan
 appmenu-fxa-signed-in-label = Aanmelden
 appmenu-fxa-setup-sync =
     .label = Synchronisatie inschakelen…
