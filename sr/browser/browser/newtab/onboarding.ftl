@@ -80,7 +80,13 @@ onboarding-benefit-products-text = Радите ефикасније са пор
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Све што радимо поштује наше обећање о личним подацима: узми мање података, добро их чувај и без икаквих тајни.
 onboarding-benefit-sync-title = { -sync-brand-short-name }
-onboarding-benefit-sync-text = Синхронизујте ознаке, лозинке, историју и остало свуда где користите { -brand-product-name }.
+onboarding-benefit-sync-text =
+    Приступите обележивачима, лозинкама, историји и другим подацима свуда где користите { -brand-product-name.gender ->
+        [masculine] { -brand-product-name(case: "acc") }
+        [feminine] { -brand-product-name(case: "acc") }
+        [neuter] { -brand-product-name(case: "acc") }
+       *[other] програм { -brand-product-name }
+    }.
 onboarding-benefit-monitor-title = { -monitor-brand-short-name }
 onboarding-benefit-monitor-text = Примите обавештење када се ваши лични подаци појаве у познатом цурењу података.
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
@@ -98,7 +104,13 @@ onboarding-tracking-protection-text2 = { -brand-short-name } помаже вам
 onboarding-tracking-protection-button2 = Како то ради
 onboarding-data-sync-title = Понесите своја подешавања са собом
 # "Sync" is short for synchronize.
-onboarding-data-sync-text2 = Синхронизујте обележиваче, лозинке и остало где год користите { -brand-product-name }.
+onboarding-data-sync-text2 =
+    Приступите обележивачима, лозинкама и другим подацима свуда где користите { -brand-product-name.gender ->
+        [masculine] { -brand-product-name(case: "acc") }
+        [feminine] { -brand-product-name(case: "acc") }
+        [neuter] { -brand-product-name(case: "acc") }
+       *[other] програм { -brand-product-name }
+    }.
 onboarding-data-sync-button2 = Пријавите се на { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Будите у приправности од повреде података
 onboarding-firefox-monitor-text2 = { -monitor-brand-name } проверава да ли је ваша имејл-адреса процурила у јавност и упозорава вас о новим цурењима.
@@ -110,7 +122,13 @@ onboarding-firefox-send-title = Држите своје дељене датот�
 onboarding-firefox-send-text2 = Датотеке отпремљене на { -send-brand-name(case: "acc") } заштићене су шифровањем с краја на крај и линк до њих аутоматски истиче.
 onboarding-firefox-send-button = Испробајте { -send-brand-name(case: "acc") }
 onboarding-mobile-phone-title = Преузмите { -brand-product-name } на Ваш телефон
-onboarding-mobile-phone-text = Преузмите { -brand-product-name } за iOS или Андроид и синхронизујте податке између уређаја.
+onboarding-mobile-phone-text =
+    Преузмите { -brand-product-name.gender ->
+        [masculine] { -brand-product-name(case: "acc") }
+        [feminine] { -brand-product-name(case: "acc") }
+        [neuter] { -brand-product-name(case: "acc") }
+       *[other] апликацију { -brand-product-name }
+    } за Android или iOS и синхронизујте податке са свим уређајима.
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = Преузми мобилни прегледач
