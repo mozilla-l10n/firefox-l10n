@@ -88,6 +88,12 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
+## Firefox Account Button
+
+toolbar-button-fxaccount =
+    .label = { -fxaccount-brand-name(case: "a") }
+    .tooltiptext = { -fxaccount-brand-name(case: "a") }
+
 ## Save Page
 
 main-context-menu-page-save =

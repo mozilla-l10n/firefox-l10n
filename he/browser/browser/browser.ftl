@@ -529,6 +529,13 @@ urlbar-result-action-tabtosearch-web = חיפוש באמצעות { $engine } י�
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = חיפוש ב־{ $engine } ישירות משורת הכתובת
+# Action text for copying to clipboard.
+urlbar-result-action-copy-to-clipboard = העתקה
+# Shows the result of a formula expression being calculated, the last = sign will be shown
+# as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result = = { $result }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -644,6 +651,23 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = שמירה אל { -pocket-brand-name }
     .tooltiptext = שמירה אל { -pocket-brand-name }
+
+## Customize Toolbar Buttons
+
+# Variables:
+#  $shortcut (String): keyboard shortcut to open the add-ons manager
+toolbar-addons-themes-button =
+    .label = תוספות וערכות נושא
+    .tooltiptext = ניהול התוספות וערכות הנושא שלך ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open settings (only on macOS)
+toolbar-settings-button =
+    .label = הגדרות
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] פתיחת הגדרות ({ $shortcut })
+           *[other] פתיחת הגדרות
+        }
 
 ## More items
 
