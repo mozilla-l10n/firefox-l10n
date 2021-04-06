@@ -6,3 +6,7 @@ sync-disconnect-dialog-title = Wek kubo { -sync-brand-short-name }?
 fxa-disconnect-dialog-title = Wek kubo { -brand-product-name }?
 fxa-disconnect-dialog-body = { -brand-product-name } obi weko kube ki akaunt mamegi ento pe bikwanyo data mamegi mo me yeny ki i nyonyo man.
 sync-disconnect-dialog-button = Wek kube
+fxa-menu-connect-another-device =
+    .label = Kub Nyonyo Mukene…
+fxa-menu-sign-out =
+    .label = Kat Woko…
