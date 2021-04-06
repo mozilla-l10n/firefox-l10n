@@ -12,3 +12,7 @@ sync-disconnect-dialog-body = { -brand-product-name } nun sincrunizzarà cchiù 
 fxa-disconnect-dialog-title = Sculligàrisi di { -brand-product-name }?
 fxa-disconnect-dialog-body = { -brand-product-name } sarà sculligatu dû to cuntu ma nun cancillarà nuḍḍu dî to dati di navigazziuni nna stu dispusitivu.
 sync-disconnect-dialog-button = Discunnetti
+fxa-menu-connect-another-device =
+    .label = Cunnetti n'autru dispusitivu…
+fxa-menu-sign-out =
+    .label = Nesci…
