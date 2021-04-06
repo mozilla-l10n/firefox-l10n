@@ -9,6 +9,16 @@ about-private-browsing-info-title = Gjendeni në Dritare Private
 about-private-browsing-info-myths = Mite të rëndomtë mbi shfletimin privat
 about-private-browsing =
     .title = Kërkoni në Web
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff =
+    .title = Kërkoni me { $engine } ose jepni adresë
+about-private-browsing-handoff-no-engine =
+    .title = Kërkoni ose jepni adresë
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff-text = Kërkoni me { $engine } ose jepni adresë
+about-private-browsing-handoff-text-no-engine = Bëni kërkim ose jepni adresë
 about-private-browsing-not-private = Hëpërhë s'gjendeni në dritare private.
 about-private-browsing-info-description = { -brand-short-name }-i e spastron historikun tuaj të kërkimeve dhe shfletimit, kur dilni nga aplikacioni apo mbyllni krejt skedat dhe dritaret e Shfletimit Privat. Edhe pse kjo s’ju bën anonim përballë sajteve apo furnizuesit të shërbimit tuaj internet, e bën më të lehtë mbajtjen private të asaj çka bëni në internet, nga cilido tjetër që përdor këtë kompjuter.
 about-private-browsing-need-more-privacy = Ju duhet më tepër privatësi?

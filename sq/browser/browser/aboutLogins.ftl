@@ -77,6 +77,9 @@ login-intro-description = Nëse ruajtët kredenciale tuajat hyrjesh te { -brand-
 login-intro-instruction-fxa = Krijoni ose hyni te  { -fxaccount-brand-name } e juaj te pajisja ku janë ruajtur kredencialet tuaja të hyrjeve
 login-intro-instruction-fxa-settings = Sigurohuni se keni përzgjedhur kutizën Kredenciale Hyrjeshte Rregullime { -sync-brand-short-name }
 about-logins-intro-instruction-help = Për më tepër ndihmë, vizitoni <a data-l10n-name="help-link">Asistencë { -lockwise-brand-short-name }</a>
+login-intro-instructions-fxa = Krijoni ose hyni te  { -fxaccount-brand-name } juaja te pajisja ku janë ruajtur kredencialet tuaja të hyrjeve
+login-intro-instructions-fxa-settings = Kaloni te Rregullime > Njëkohësim > Aktivizoni njëkohësim… Përzgjidhni kutizën Kredenciale Hyrjesh dhe fjalëkalime.
+login-intro-instructions-fxa-help = Për më tepër ndihmë, vizitoni <a data-l10n-name="help-link">Asistencë { -lockwise-brand-short-name }</a>.
 about-logins-intro-import = Nëse kredencialet tuaj për hyrje janë ruajtur në një shfletues tjetër, mund t’i <a data-l10n-name="import-link">importoni ata te { -lockwise-brand-short-name }</a>
 about-logins-intro-import2 = Nëse kredencialet tuaja për hyrje janë ruajtur jashtë { -brand-product-name }-it, mund t’i <a data-l10n-name="import-browser-link">importoni që nga një shfletues tjetër</a> ose <a data-l10n-name="import-file-link">prej një kartele</a>
 
@@ -310,6 +313,7 @@ about-logins-import-dialog-error-unable-to-read-description = Sigurohuni se për
 about-logins-import-dialog-error-no-logins-imported = S’janë importuar kredenciale
 about-logins-import-dialog-error-learn-more = Mësoni më tepër
 about-logins-import-dialog-error-try-again = Riprovoni…
+about-logins-import-dialog-error-try-import-again = Riprovoni Importim…
 about-logins-import-dialog-error-cancel = Anuloje
 about-logins-import-report-title = Përmbledhje Importimi
 about-logins-import-report-description = Kredenciale hyrjesh dhe fjalëkalime të importuar te { -brand-short-name }.
