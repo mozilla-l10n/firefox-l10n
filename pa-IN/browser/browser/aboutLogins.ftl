@@ -18,6 +18,7 @@ login-filter =
 create-login-button = ਨਵਾਂ ਲਾਗਇਨ ਬਣਾਓ
 fxaccounts-sign-in-text = ਆਪਣੇ ਹੋਰ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਆਪਣੇ ਪਾਸਵਰਡ ਲਵੋ
 fxaccounts-sign-in-button = { -sync-brand-short-name } ਵਿੱਚ ਸਾਇਨ ਇਨ ਕਰੋ
+fxaccounts-sign-in-sync-button = ਸਿੰਕ ਕਰਨ ਲਈ ਸਾਈਨ ਇਨ ਕਰੋ
 fxaccounts-avatar-button =
     .title = ਖਾਤਾ ਦਾ ਇੰਤਜ਼ਾਮ
 
