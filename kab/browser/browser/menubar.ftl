@@ -287,6 +287,13 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Talɣut ɣef usebter
     .accesskey = T
+menu-settings =
+    .label = Iɣewwaren
+    .accesskey =
+        { PLATFORM() ->
+            [windows] S
+           *[other] n
+        }
 menu-preferences =
     .label =
         { PLATFORM() ->

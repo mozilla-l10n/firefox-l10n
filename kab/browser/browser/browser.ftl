@@ -534,6 +534,13 @@ urlbar-result-action-tabtosearch-web = Nadi s { $engine } srid seg ugalis n tans
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = Nadi s { $engine } srid seg ugalis n tansa
+# Action text for copying to clipboard.
+urlbar-result-action-copy-to-clipboard = Nɣel
+# Shows the result of a formula expression being calculated, the last = sign will be shown
+# as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result = = { $result }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -649,6 +656,23 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = Sekles ɣer { -pocket-brand-name }
     .tooltiptext = Sekles ɣer { -pocket-brand-name }
+
+## Customize Toolbar Buttons
+
+# Variables:
+#  $shortcut (String): keyboard shortcut to open the add-ons manager
+toolbar-addons-themes-button =
+    .label = Izegrar d yisental
+    .tooltiptext = Sefrek izegrar d yisental inek·inem ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open settings (only on macOS)
+toolbar-settings-button =
+    .label = Iɣewwaren
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Ldi iɣewwaren ({ $shortcut })
+           *[other] Ldi iɣewwaren
+        }
 
 ## More items
 

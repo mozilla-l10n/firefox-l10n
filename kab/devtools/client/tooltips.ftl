@@ -54,6 +54,7 @@ inactive-css-not-for-internal-table-elements-fix = Ɛreḍ asbadu n tmeẓli-ine
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Ɛreḍ asbadu n tmeẓli-ines <strong>display</strong> ɣef wayeḍ-nniḍen yemgaraden ɣef <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> neɣ <strong>table-footer-group</strong>. { learn-more }
 inactive-outline-radius-when-outline-style-auto-or-none-fix = Ɛreḍ ad tesbaduḍ timeẓli-ines <strong>outline-style</strong> s wazal-nniḍen ur nelli d <strong>auto</strong> neɣ <strong>none</strong>. { learn-more }
 inactive-css-not-table-fix = Ɛreḍ timerna n <strong>display:table</strong> neɣ <strong>display:inline-table</strong>. { learn-more }
+inactive-scroll-padding-when-not-scroll-container-fix = Ɛreḍ ad ternuḍ <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> neɣ <strong>overflow:hidden</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why

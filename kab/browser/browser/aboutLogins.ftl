@@ -316,6 +316,7 @@ about-logins-import-dialog-error-unable-to-read-description = Ḍmen tferneḍ a
 about-logins-import-dialog-error-no-logins-imported = Ulac iɣmisen i d-yettwaktaren
 about-logins-import-dialog-error-learn-more = Issin ugar
 about-logins-import-dialog-error-try-again = Ɛreḍ tikkelt-nniḍen…
+about-logins-import-dialog-error-try-import-again = Ɛreḍ aktar tikkelt-nniḍen…
 about-logins-import-dialog-error-cancel = Sefsex
 about-logins-import-report-title = Agzul n uktar
 about-logins-import-report-description = Inekcam d wawalen uffiren ttwaketren ɣer { -brand-short-name }.

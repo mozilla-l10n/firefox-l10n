@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Ad yeǧǧ ad srekdeḍ tistṛatijiyin anida zemren ad kecmen WebExtensions s chrome.storage.managed.
+policy-AllowedDomainsForApps = Sbadu tiɣula yettusirgen i unekcum ɣer Google Workspace
 policy-AppAutoUpdate = Rmed neɣ gdel alqem awurman n yisnasen.
 policy-AppUpdateURL = Sbadu URL n uleqqem udmawan i usnas.
 policy-Authentication = Swel asesteb usliɣ i yesmal web i ten-yessefraken.
