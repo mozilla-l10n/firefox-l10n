@@ -15,7 +15,7 @@ certificate-viewer-algorithm = Алгоритам
 certificate-viewer-certificate-authority = Сертификационо тело
 certificate-viewer-cipher-suite = Cipher Suite
 certificate-viewer-common-name = Уобичајено име
-certificate-viewer-email-address = Адреса е-поште
+certificate-viewer-email-address = Имејл-адреса
 # Variables:
 #   $firstCertName (String) - Common Name for the displayed certificate
 certificate-viewer-tab-title = Сертификат за { $firstCertName }
