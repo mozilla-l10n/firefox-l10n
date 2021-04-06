@@ -536,6 +536,13 @@ urlbar-result-action-tabtosearch-web = Шукати за допомогою { $e
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = Шукати з { $engine } безпосередньо в панелі адреси
+# Action text for copying to clipboard.
+urlbar-result-action-copy-to-clipboard = Копіювати
+# Shows the result of a formula expression being calculated, the last = sign will be shown
+# as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result = = { $result }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -651,6 +658,23 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = Зберегти в { -pocket-brand-name }
     .tooltiptext = Зберегти в { -pocket-brand-name }
+
+## Customize Toolbar Buttons
+
+# Variables:
+#  $shortcut (String): keyboard shortcut to open the add-ons manager
+toolbar-addons-themes-button =
+    .label = Додатки й теми
+    .tooltiptext = Керування додатками й темами ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open settings (only on macOS)
+toolbar-settings-button =
+    .label = Налаштування
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Відкрити налаштування ({ $shortcut })
+           *[other] Відкрити налаштування
+        }
 
 ## More items
 
