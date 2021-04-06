@@ -43,6 +43,7 @@ fxa-toolbar-sync-now =
     .label = ఇప్పుడు సింక్ చేయి
 appmenu-fxa-header =
     .title = { -fxaccount-brand-name }
+appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenuitem-save-page =
     .label = పేజీని ఇలా భద్రపరచు…
 
