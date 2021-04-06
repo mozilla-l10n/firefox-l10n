@@ -86,6 +86,7 @@ appmenu-fxa-last-sync = סונכרן לאחרונה { $time }
     .label = סונכרן לאחרונה { $time }
 appmenu-fxa-sync-and-save-data =
     .value = סנכרון ושמירת נתונים
+appmenu-fxa-sync-and-save-data2 = סנכרון ושמירת נתונים
 appmenu-fxa-signed-in-label = כניסה
 appmenu-fxa-setup-sync =
     .label = הפעלת סנכרון…
