@@ -29,3 +29,7 @@ fxa-menu-sync-settings =
 fxa-menu-turn-on-sync =
     .value = Увімкнути синхронізацію
 fxa-menu-turn-on-sync-default = Увімкнути синхронізацію
+fxa-menu-connect-another-device =
+    .label = Під'єднати інший пристрій…
+fxa-menu-sign-out =
+    .label = Вийти…
