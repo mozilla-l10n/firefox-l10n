@@ -78,5 +78,5 @@ toolbar-context-menu-bookmarks-toolbar-on-new-tab-2 =
     .label = Толькі на новай картцы
     .accesskey = Т
 toolbar-context-menu-bookmarks-show-other-bookmarks =
-    .label = Паказаць іншыя закладкі
+    .label = Паказваць іншыя закладкі
     .accesskey = П

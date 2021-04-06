@@ -769,6 +769,10 @@ sync-engine-prefs =
         }
     .tooltiptext = Змененыя вамі налады: Агульныя, Прыватнасць і бяспека
     .accesskey = Н
+sync-engine-settings =
+    .label = Налады
+    .tooltiptext = Налады прыватнасці, бяспекі і агульныя налады, якія вы змянілі
+    .accesskey = ы
 
 ## The device name controls.
 
@@ -1183,6 +1187,9 @@ space-alert-under-5gb-ok-button =
     .label = OK, зразумела
     .accesskey = K
 space-alert-under-5gb-message = У { -brand-short-name } сканчаецца месца на дыску. Змесціва вэб-сайтаў можа адлюстроўвацца няправільна. Клікніце “Падрабязней”, каб аптымізаваць выкарыстанне вашага дыска для паляпшэння вэб-сёрфінгу.
+space-alert-over-5gb-settings-button =
+    .label = Адкрыць налады
+    .accesskey = А
 
 ## Privacy Section - HTTPS-Only
 
