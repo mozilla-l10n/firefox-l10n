@@ -321,6 +321,7 @@ about-logins-import-dialog-error-unable-to-read-description = Se till att du har
 about-logins-import-dialog-error-no-logins-imported = Inga inloggningar har importerats
 about-logins-import-dialog-error-learn-more = Läs mer
 about-logins-import-dialog-error-try-again = Försök igen…
+about-logins-import-dialog-error-try-import-again = Försök importera igen…
 about-logins-import-dialog-error-cancel = Avbryt
 about-logins-import-report-title = Importera sammanfattning
 about-logins-import-report-description = Inloggningar och lösenord importerade till { -brand-short-name }.
