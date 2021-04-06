@@ -309,6 +309,7 @@ about-logins-import-dialog-error-unable-to-read-description = 请确保已选择
 about-logins-import-dialog-error-no-logins-imported = 未导入任何登录信息
 about-logins-import-dialog-error-learn-more = 详细了解
 about-logins-import-dialog-error-try-again = 重试…
+about-logins-import-dialog-error-try-import-again = 再次尝试导入…
 about-logins-import-dialog-error-cancel = 取消
 about-logins-import-report-title = 导入摘要
 about-logins-import-report-description = 导入到 { -brand-short-name } 的登录名和密码。
