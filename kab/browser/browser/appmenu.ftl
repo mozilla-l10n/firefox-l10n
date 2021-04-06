@@ -86,6 +86,7 @@ appmenu-fxa-last-sync = Amtawi aneggaru { $time }
     .label = Amtawi aneggaru { $time }
 appmenu-fxa-sync-and-save-data =
     .value = Mtawi sakin sekles isefka
+appmenu-fxa-sync-and-save-data2 = Mtawi sakin sekles isefka
 appmenu-fxa-signed-in-label = Kcem
 appmenu-fxa-setup-sync =
     .label = Rmed amtawi…
