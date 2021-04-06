@@ -531,6 +531,13 @@ urlbar-result-action-tabtosearch-web = Αναζήτηση με { $engine } απ�
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = Αναζήτηση { $engine } απευθείας από τη γραμμή διευθύνσεων
+# Action text for copying to clipboard.
+urlbar-result-action-copy-to-clipboard = Αντιγραφή
+# Shows the result of a formula expression being calculated, the last = sign will be shown
+# as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result = = { $result }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -646,6 +653,23 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = Αποθήκευση στο { -pocket-brand-name }
     .tooltiptext = Αποθήκευση στο { -pocket-brand-name }
+
+## Customize Toolbar Buttons
+
+# Variables:
+#  $shortcut (String): keyboard shortcut to open the add-ons manager
+toolbar-addons-themes-button =
+    .label = Πρόσθετα και θέματα
+    .tooltiptext = Διαχειριστείτε τα πρόσθετα και τα θέματά σας ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open settings (only on macOS)
+toolbar-settings-button =
+    .label = Ρυθμίσεις
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Άνοιγμα ρυθμίσεων ({ $shortcut })
+           *[other] Άνοιγμα ρυθμίσεων
+        }
 
 ## More items
 

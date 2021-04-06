@@ -313,6 +313,7 @@ about-logins-import-dialog-error-unable-to-read-description = Βεβαιωθεί
 about-logins-import-dialog-error-no-logins-imported = Δεν έγινε εισαγωγή συνδέσεων
 about-logins-import-dialog-error-learn-more = Μάθετε περισσότερα
 about-logins-import-dialog-error-try-again = Δοκιμή ξανά…
+about-logins-import-dialog-error-try-import-again = Εισαγωγή ξανά…
 about-logins-import-dialog-error-cancel = Ακύρωση
 about-logins-import-report-title = Περίληψη εισαγωγής
 about-logins-import-report-description = Εισήχθησαν συνδέσεις και κωδικοί πρόσβασης στο { -brand-short-name }.
