@@ -29,3 +29,5 @@ fxa-menu-sync-settings =
 fxa-menu-turn-on-sync =
     .value = Sync 켜기
 fxa-menu-turn-on-sync-default = Sync 켜기
+fxa-menu-connect-another-device =
+    .label = 다른 기기 연결…
