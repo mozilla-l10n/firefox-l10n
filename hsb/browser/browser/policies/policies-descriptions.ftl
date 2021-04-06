@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Prawidła nastajić, na kotrež WebExtensions přez chrome.storage.managed přistup maja.
+policy-AllowedDomainsForApps = Definujće domeny, kotrež smědźa přistup k Google Workspace měć.
 policy-AppAutoUpdate = Awtomatiske aktualizacije nałoženjow zmóžnić abo znjemóžnić.
 policy-AppUpdateURL = Swójski aktualizowanski URL za nałoženje nastajić.
 policy-Authentication = Integrowanu awtentifikaciju za websydła konfigurować, kotrež ju podpěruja.
