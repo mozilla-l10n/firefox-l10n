@@ -86,6 +86,7 @@ appmenu-fxa-last-sync = ซิงค์ล่าสุดเมื่อ { $time
     .label = ซิงค์ล่าสุดเมื่อ { $time }
 appmenu-fxa-sync-and-save-data =
     .value = ซิงค์และบันทึก
+appmenu-fxa-sync-and-save-data2 = ซิงค์และบันทึก
 appmenu-fxa-signed-in-label = ลงชื่อเข้า
 appmenu-fxa-setup-sync =
     .label = เปิดการซิงค์…
