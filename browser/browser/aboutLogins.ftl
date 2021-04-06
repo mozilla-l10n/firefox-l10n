@@ -319,6 +319,7 @@ about-logins-import-dialog-error-unable-to-read-description = Bir CSV veya TSV d
 about-logins-import-dialog-error-no-logins-imported = Hiçbir hesap içe aktarılmadı
 about-logins-import-dialog-error-learn-more = Daha fazla bilgi al
 about-logins-import-dialog-error-try-again = Yeniden dene…
+about-logins-import-dialog-error-try-import-again = Tekrar içe aktarmayı dene…
 about-logins-import-dialog-error-cancel = Vazgeç
 about-logins-import-report-title = İçe Aktarma Özeti
 about-logins-import-report-description = { -brand-short-name } tarayıcınıza aktarılan hesap ve parolalar.
