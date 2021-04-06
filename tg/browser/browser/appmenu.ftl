@@ -86,6 +86,7 @@ appmenu-fxa-last-sync = Ҳамоҳангсозии охирин { $time }
     .label = Ҳамоҳангсозии охирин { $time }
 appmenu-fxa-sync-and-save-data =
     .value = Ҳамоҳангсозӣ ва нигоҳ доштани маълумот
+appmenu-fxa-sync-and-save-data2 = Ҳамоҳангсозӣ ва нигоҳ доштани маълумот
 appmenu-fxa-signed-in-label = Ворид шудан
 appmenu-fxa-setup-sync =
     .label = Фаъол кардани ҳамоҳангсозӣ…
