@@ -115,11 +115,11 @@ browser-data-formdata-label =
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
-    .label = Сачуване пријаве и лозинке
+    .label = Сачувани подаци за пријаву
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
-    .value = Сачуване пријаве и лозинке
+    .value = Сачувани подаци за пријаву
 browser-data-bookmarks-checkbox =
     .label =
         { $browser ->
