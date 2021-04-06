@@ -28,6 +28,18 @@ search-input-box =
             [windows] ਚੋਣਾਂ 'ਚ ਲੱਭੋ
            *[other] ਮੇਰੀ ਪਸੰਦ 'ਚ ਲੱਭੋ
         }
+settings-page-title = ਸੈਟਿੰਗਾਂ
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box2 =
+    .style = width: 15.4em
+    .placeholder = ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਲੱਭੋ
 managed-notice = ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ਦਾ ਬੰਦੋਬਸਤ ਤੁਹਾਡੀ ਸੰਸਥਾ ਵਲੋਂ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ।
 category-list =
     .aria-label = ਵਰਗ
@@ -46,12 +58,16 @@ category-privacy =
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
+pane-sync-title3 = ਸਿੰਕ ਕਰੋ
+category-sync3 =
+    .tooltiptext = { pane-sync-title3 }
 pane-experimental-title = { -brand-short-name } ਤਜਰਬੇ
 category-experimental =
     .tooltiptext = { -brand-short-name } ਤਜਰਬੇ
 pane-experimental-subtitle = ਧਿਆਨ ਨਾਲ ਅੱਗੇ ਵਧੋ
 pane-experimental-search-results-header = { -brand-short-name } ਤਜਰਬਾ: ਧਿਆਨ ਨਾਲ ਜਾਰੀ ਰੱਖੋ
 pane-experimental-description = ਤਕਨੀਕੀ ਸੰਰਚਨਾ ਦੀਆਂ ਪਸੰਦਾਂ ਨੂੰ ਬਦਲਣ ਨਾਲ { -brand-short-name } ਦੀ ਕਾਰਗੁਜ਼ਾਰੀ ਜਾਂ ਸੁਰੱਖਿਆ ਉੱਤੇ ਅਸਰ ਪੈ ਸਕਦਾ ਹੈ।
+pane-experimental-description2 = ਤਕਨੀਕੀ ਸੈਟਿੰਗਾਂ ਬਦਲਣ ਨਾਲ { -brand-short-name } ਦੀ ਕਾਰਗੁਜ਼ਾਰੀ ਜਾਂ ਸੁਰੱਖਿਆ ਪ੍ਰਭਾਵਿਤ ਹੋ ਸਕਦੀ ਹੈ।
 pane-experimental-reset =
     .label = ਮੂਲ ਨੂੰ ਬਹਾਲ ਕਰੋ
     .accesskey = R
@@ -121,6 +137,8 @@ search-results-empty-message =
         [windows] ਅਫ਼ਸੋਸ! “<span data-l10n-name="query"></span>” ਲਈ ਚੋਣਾਂ ਵਿੱਚ ਕੋਈ ਨਤੀਜੇ ਨਹੀਂ ਹਨ।
        *[other] ਅਫ਼ਸੋਸ! “<span data-l10n-name="query"></span>” ਲਈ ਪਸੰਦਾਂ ਵਿੱਚ ਕੋਈ ਨਤੀਜੇ ਨਹੀਂ ਹਨ।
     }
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 = ਅਫ਼ਸੋਸ! “<span data-l10n-name="query"></span>” ਲਈ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਕੋਈ ਨਤੀਜੇ ਨਹੀਂ ਹਨ।
 search-results-help-link = ਮਦਦ ਚਾਹੀਦੀ ਹੈ? <a data-l10n-name="url">{ -brand-short-name } ਸਹਿਯੋਗ</a> ਵੇਖੋ
 
 ## General Section
@@ -369,6 +387,9 @@ update-application-check-choose =
 update-application-manual =
     .label = ਅੱਪਡੇਟ ਲਈ ਕਦੇ ਵੀ ਜਾਂਚ ਨਾ ਕਰੋ (ਸਿਫਾਰਸ਼ੀ ਨਹੀਂ)
     .accesskey = N
+update-application-background-enabled =
+    .label = ਜਦੋਂ { -brand-short-name } ਨਹੀਂ ਚੱਲਦਾ ਹੈ
+    .accesskey = W
 update-application-warning-cross-user-setting = ਇਹ ਸੈਟਿੰਗ { -brand-short-name } ਦੀ ਇੰਸਟਾਲੇਸ਼ਨ ਦੀ ਵਰਤੋਂ ਕਰਨ ਵਾਲੇ ਸਾਰੇ ਵਿੰਡੋਜ਼ ਖਾਤਿਆਂ ਅਤੇ { -brand-short-name } ਪਰੋਫਾਈਲਾਂ ਉੱਤੇ ਲਾਗੂ ਹੋਵੇਗੀ।
 update-application-use-service =
     .label = ਅੱਪਡੇਟ ਇੰਸਟਾਲ ਕਰਨ ਲਈ ਬੈਕਗਰਾਊਂਡ ਸਰਵਿਸ ਵਰਤੋਂ
@@ -382,6 +403,15 @@ update-setting-write-failure-message =
     { -brand-short-name } ਨੂੰ ਇੱਕ ਗਲਤੀ ਮਿਲੀ ਅਤੇ ਉਸਨੇ ਇਸ ਤਬਦੀਲੀ ਨੂੰ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਕੀਤਾ। ਯਾਦ ਰੱਖੋ ਕਿ ਇਸ ਅਪਡੇਟ ਦੀ ਪਸੰਦ ਨੂੰ ਸੈੱਟ ਕਰਨ ਲਈ ਹੇਠਾਂ ਦਿੱਤੀ ਫਾਈਲ ਤੇ ਲਿਖਣ ਲਈ ਮਨਜ਼ੂਰੀ ਦੀ ਲੋੜ ਹੈ। ਤੁਸੀਂ ਜਾਂ ਸਿਸਟਮ ਪ੍ਰਬੰਧਕ ਇਸ ਫਾਈਲ ਲਈ ਵਰਤੋਂਕਾਰ ਗਰੁੱਪ ਨੂੰ ਪੂਰਾ ਅਧਿਕਾਰ ਦੇ ਕੇ ਗਲਤੀ ਨੂੰ ਹੱਲ ਕਰ ਸਕਦੇ ਹਨ।
     
     ਫਾਈਲ ਉੱਤੇ ਲਿਖਿਆ ਨਹੀਂ ਜਾ ਸਕਿਆ: { $path }
+update-setting-write-failure-title2 = ਅੱਪਡੇਟ ਸੈਟਿੰਗਾਂ ਸੰਭਾਲਣ ਦੌਰਾਨ ਗ਼ਲਤੀ ਹੈ
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message2 =
+    { -brand-short-name } ਨੂੰ ਇੱਕ ਗਲਤੀ ਮਿਲੀ ਅਤੇ ਉਸਨੇ ਇਸ ਤਬਦੀਲੀ ਨੂੰ ਨਹੀਂ ਸੰਭਾਲਿਆ। ਯਾਦ ਰੱਖੋ ਕਿ ਇਸ ਅੱਪਡੇਟ ਦੀ ਪਸੰਦ ਨੂੰ ਸੈੱਟ ਕਰਨ ਲਈ ਹੇਠਾਂ ਦਿੱਤੀ ਫਾਇਲ ਉੱਤੇ ਲਿਖਣ ਲਈ ਮਨਜ਼ੂਰੀ ਦੀ ਲੋੜ ਹੈ। ਤੁਸੀਂ ਜਾਂ ਸਿਸਟਮ ਪਰਸ਼ਾਸ਼ਕ ਇਸ ਫਾਇਲ ਲਈ ਵਰਤੋਂਕਾਰ ਗਰੁੱਪ ਨੂੰ ਪੂਰਾ ਅਧਿਕਾਰ ਦੇ ਕੇ ਗਲਤੀ ਨੂੰ ਹੱਲ ਕਰ ਸਕਦੇ ਹਨ।
+    
+    ਫਾਇਲ ਉੱਤੇ ਲਿਖਿਆ ਨਹੀਂ ਜਾ ਸਕਿਆ: { $path }
 update-in-progress-title = ਅੱਪਡੇਟ ਜਾਰੀ ਹੈ
 update-in-progress-message = ਕੀ ਤੁਸੀਂ { -brand-short-name } ਨੂੰ ਇਸ ਅੱਪਡੇਟ ਨਾਲ ਜਾਰੀ ਰੱਖਣ ਦੇਣਾ ਚਾਹੁੰਦੇ ਹੋ?
 update-in-progress-ok-button = ਖਾਰਜ ਕਰੋ(&D)
@@ -579,6 +609,7 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਆਂ ਵਿੱਚ ਖੋਜ ਸੁਝਾਅ ਵੇਖਾਓ
 suggestions-addressbar-settings-generic = ਹੋਰ ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਸੁਝਾਆਵਾਂ ਲਈ ਪਸੰਦਾਂ ਨੂੰ ਬਦਲੋ
+suggestions-addressbar-settings-generic2 = ਹੋਰ ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਸੁਝਾਆਵਾਂ ਲਈ ਸੈਟਿੰਗਾਂ ਬਦਲੋ
 search-suggestions-cant-show = ਟਿਕਾਣਾ ਖੋਜ ਨਤੀਜਿਆਂ ਵਿੱਚ ਖੋਜ ਸੁਝਾਅ ਨਹੀਂ ਵੇਖਾਏ ਜਾਣਗੇ, ਕਿਉਂਕਿ ਤੁਸੀਂ { -brand-short-name } ਨੂੰ ਕਦੇ ਵੀ ਅਤੀਤ ਯਾਦ ਨਾ ਰੱਖਣ ਲਈ ਸੰਰਚਿਤ ਕੀਤਾ ਹੈ।
 search-one-click-header = ਇੱਕ-ਕਲਿੱਕ ਖੋਜ ਇੰਜਣ
 search-one-click-header2 = ਖੋਜ ਸ਼ਾਰਟਕੱਟ
@@ -613,6 +644,8 @@ containers-back-button =
             [windows] ਚੋਣਾਂ ਤੇ ਵਾਪਸ ਜਾਓ
            *[other] ਮੇਰੀ ਪਸੰਦ ਤੇ ਵਾਪਸ ਜਾਓ
         }
+containers-back-button2 =
+    .aria-label = ਸੈਟਿੰਗਾਂ ‘ਤੇ ਵਾਪਸ ਜਾਓ
 containers-header = ਕਨਟਰੇਨਰ ਟੈਬਾਂ
 containers-add-button =
     .label = ਨਵਾਂ ਕਨਟੇਨਰ ਜੋੜੋ
@@ -622,6 +655,8 @@ containers-new-tab-check =
     .accesskey = S
 containers-preferences-button =
     .label = ਤਰਜੀਹਾਂ
+containers-settings-button =
+    .label = ਸੈਟਿੰਗਾਂ
 containers-remove-button =
     .label = ਹਟਾਓ
 
@@ -632,6 +667,10 @@ sync-signedout-caption = ਆਪਣੇ ਵੈੱਬ ਨੂੰ ਆਪਣੇ ਨਾ
 sync-signedout-description = ਆਪਣੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਆਪਣੇ ਬੁੱਕਮਾਰਕਾਂ, ਅਤੀਤ, ਟੈਬਾਂ, ਪਾਸਵਰਡਾਂ, ਐਡ-ਆਨ ਅਤੇ ਪਸੰਦਾਂ ਨੂੰ ਸੈਕਰੋਨਾਈਜ਼ ਕਰੋ।
 sync-signedout-account-signin2 =
     .label = { -sync-brand-short-name } ਵਿੱਚ ਸਾਇਨ ਇਨ ਕਰੋ…
+    .accesskey = i
+sync-signedout-description2 = ਆਪਣੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਆਪਣੇ ਬੁੱਕਮਾਰਕਾਂ, ਅਤੀਤ, ਟੈਬਾਂ, ਪਾਸਵਰਡਾਂ, ਐਡ-ਆਨ ਅਤੇ ਸੈਟਿੰਗਾਂ ਨੂੰ ਸੈਕਰੋਨਾਈਜ਼ ਕਰੋ।
+sync-signedout-account-signin3 =
+    .label = …ਸਿੰਕ ਲਈ ਸਾਈਨ ਇਨ ਕਰੋ
     .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -672,6 +711,10 @@ prefs-sync-setup =
     .label = { -sync-brand-short-name } ਸੈਟਅੱਪ ਕਰੋ…
     .accesskey = S
 prefs-sync-offer-setup-label = ਆਪਣੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਆਪਣੇ ਬੁੱਕਮਾਰਕਾਂ, ਅਤੀਤ, ਟੈਬਾਂ, ਪਾਸਵਰਡਾਂ, ਐਡ-ਆਨ ਅਤੇ ਪਸੰਦਾਂ ਨੂੰ ਸਿੰਕਰੋਨਾਈਜ਼ ਕਰੋ।
+prefs-sync-turn-on-syncing =
+    .label = …ਸਿੰਕ ਕਰਨਾ ਚਾਲੂ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
+    .accesskey = s
+prefs-sync-offer-setup-label2 = ਆਪਣੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਆਪਣੇ ਬੁੱਕਮਾਰਕਾਂ, ਅਤੀਤ, ਟੈਬਾਂ, ਪਾਸਵਰਡਾਂ, ਐਡ-ਆਨ ਅਤੇ ਸੈਟਿੰਗਾਂ ਨੂੰ ਸੈਕਰੋਨਾਈਜ਼ ਕਰੋ।
 prefs-sync-now =
     .labelnotsyncing = ਹੁਣੇ ਸਿੰਕ ਕਰੋ
     .accesskeynotsyncing = N
@@ -692,6 +735,7 @@ sync-currently-syncing-prefs =
         [windows] ਚੋਣਾਂ
        *[other] ਮੇਰੀ ਪਸੰਦ
     }
+sync-currently-syncing-settings = ਸੈਟਿੰਗਾਂ
 sync-change-options =
     .label = ਬਦਲੋ…
     .accesskey = C
@@ -739,6 +783,10 @@ sync-engine-prefs =
         }
     .tooltiptext = ਤੁਹਾਡੇ ਵਲੋਂ ਬਦਲੀਆਂ ਗਈਆਂ ਆਮ, ਪਰਦੇਦਾਰੀ ਅਤੇ ਸੁਰੱਖਿਆ ਸੈਟਿੰਗਾਂ
     .accesskey = S
+sync-engine-settings =
+    .label = ਸੈਟਿੰਗਾਂ
+    .tooltiptext = ਆਮ, ਪਰਦੇਦਾਰੀ ਅਤੇ ਸੁਰੱਖਿਆ ਸੈਟਿੰਗਾਂ, ਜੋ ਤੁਸੀਂ ਬਦਲੀਆਂ ਹਨ
+    .accesskey = s
 
 ## The device name controls.
 
@@ -1158,6 +1206,11 @@ space-alert-under-5gb-ok-button =
     .label = ਠੀਕ ਹੈ, ਸਮਝ ਗਏ
     .accesskey = K
 space-alert-under-5gb-message = { -brand-short-name } ਲਈ ਡਿਸਕ ਥਾਂ ਖਤਮ ਹੋ ਗਈ ਹੈ। ਵੈਬਸਾਈਟ ਸਮੱਗਰੀ ਸ਼ਾਇਦ ਠੀਕ ਤਰ੍ਹਾਂ ਦਿਖਾਈ ਨਾ ਜਾ ਸਕੇ। ਬਰਾਊਜ਼ ਕਰਨ ਦੇ ਬਿਹਤਰ ਤਜਰਬੇ ਲਈ ਆਪਣੀ ਡਿਸਕ ਦੀ ਵਰਤੋਂ ਨੂੰ ਅਨੁਕੂਲ ਬਣਾਉਣ ਲਈ “ਹੋਰ ਜਾਣੋ” ‘ਤੇ ਜਾਓ।
+space-alert-over-5gb-settings-button =
+    .label = ਸੈਟਿੰਗਾਂ ਖੋਲ੍ਹੋ
+    .accesskey = O
+space-alert-over-5gb-message2 = <strong>{ -brand-short-name } ਕੋਲ ਡਿਸਕ ਥਾਂ ਖਤਮ ਹੋ ਗਈ ਹੈ।</strong> ਵੈੱਬਸਾਈਟ ਸਮੱਗਰੀਆਂ ਠੀਕ ਤਰ੍ਹਾਂ ਦਿਖਾਈ ਨਹੀਂ ਵੀ ਦੇ ਸਕਦੀਆਂ ਹਨ। ਤੁਸੀਂ ਸੈਟਿੰਗਾਂ > ਪਰਦੇਦਾਰੀ ਤੇ ਸੁਰੱਖਿਆ > ਕੂਕੀਜ਼ ਤੇ ਸਾਈਟ ਡਾਟੇ ਵਿੱਚ ਸੰਭਾਲੇ ਡਾਟੇ ਨੂੰ ਮਿਟਾ ਸਕਦੇ ਹੋ।
+space-alert-under-5gb-message2 = <strong>{ -brand-short-name } ਲਈ ਡਿਸਕ ਥਾਂ ਖਤਮ ਹੋ ਗਈ ਹੈ। ਵੈਬਸਾਈਟ ਸਮੱਗਰੀ ਸ਼ਾਇਦ ਠੀਕ ਤਰ੍ਹਾਂ ਦਿਖਾਈ ਨਾ ਜਾ ਸਕੇ। ਬਰਾਊਜ਼ ਕਰਨ ਦੇ ਬਿਹਤਰ ਤਜਰਬੇ ਲਈ ਆਪਣੀ ਡਿਸਕ ਦੀ ਵਰਤੋਂ ਨੂੰ ਅਨੁਕੂਲ ਬਣਾਉਣ ਲਈ “ਹੋਰ ਜਾਣੋ” ‘ਤੇ ਜਾਓ।
 
 ## Privacy Section - HTTPS-Only
 
