@@ -86,6 +86,7 @@ appmenu-fxa-last-sync = Senest synkroniseret { $time }
     .label = Senest synkroniseret { $time }
 appmenu-fxa-sync-and-save-data =
     .value = Synkroniser og gem data
+appmenu-fxa-sync-and-save-data2 = Synkroniser og gem data
 appmenu-fxa-signed-in-label = Log ind
 appmenu-fxa-setup-sync =
     .label = Slå synkronisering til…
