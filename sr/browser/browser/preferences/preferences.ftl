@@ -643,11 +643,11 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = Понесите веб са собом
-sync-signedout-description = Синхронизујте обележиваче, историју, картице, лозинке, додатке и подешавања на свим уређајима.
+sync-signedout-description = Синхронизујте обележиваче, историју, картице, лозинке, додатке и подешавања са свим уређајима.
 sync-signedout-account-signin2 =
     .label = Пријавите се на { -sync-brand-short-name }…
     .accesskey = П
-sync-signedout-description2 = Синхронизујте обележиваче, историју, картице, лозинке, додатке и подешавања на свим уређајима.
+sync-signedout-description2 = Синхронизујте обележиваче, историју, картице, лозинке, додатке и подешавања са свим уређајима.
 sync-signedout-account-signin3 =
     .label = Пријавите се ради синхронизације…
     .accesskey = П
@@ -689,11 +689,11 @@ prefs-syncing-off = Синхронизација: ИСКЉУЧЕНА
 prefs-sync-setup =
     .label = Поставите { -sync-brand-short-name }…
     .accesskey = П
-prefs-sync-offer-setup-label = Синхронизујте обележиваче, историју, картице, лозинке, додатке и подешавања на свим уређајима.
+prefs-sync-offer-setup-label = Синхронизујте обележиваче, историју, картице, лозинке, додатке и подешавања са свим уређајима.
 prefs-sync-turn-on-syncing =
     .label = Укључи синхронизацију
     .accesskey = У
-prefs-sync-offer-setup-label2 = Синхронизујте обележиваче, историју, картице, лозинке, додатке и подешавања на свим уређајима.
+prefs-sync-offer-setup-label2 = Синхронизујте обележиваче, историју, картице, лозинке, додатке и подешавања са свим уређајима.
 prefs-sync-now =
     .labelnotsyncing = Синхронизуј
     .accesskeynotsyncing = С

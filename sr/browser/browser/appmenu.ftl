@@ -78,7 +78,7 @@ appmenuitem-fullscreen =
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =
-    .label = Синхронизуј сада
+    .label = Синхронизуј
 appmenu-remote-tabs-sign-into-sync =
     .label = Пријавите се ради синхронизације…
 appmenu-remote-tabs-turn-on-sync =
