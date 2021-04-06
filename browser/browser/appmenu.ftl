@@ -47,6 +47,12 @@ appmenuitem-exit2 =
             [linux] Zapri
            *[other] Izhod
         }
+appmenu-menu-button-closed2 =
+    .tooltiptext = Odpri meni programa
+    .label = { -brand-short-name }
+appmenu-menu-button-opened2 =
+    .tooltiptext = Zapri meni programa
+    .label = { -brand-short-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -65,6 +71,10 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sinhroniziraj
+appmenu-remote-tabs-sign-into-sync =
+    .label = Prijava v Sync …
+appmenu-remote-tabs-turn-on-sync =
+    .label = Vklopi Sync …
 appmenuitem-fxa-toolbar-sync-now2 = Sinhroniziraj zdaj
 appmenuitem-fxa-manage-account = Upravljanje računa
 appmenu-fxa-header =

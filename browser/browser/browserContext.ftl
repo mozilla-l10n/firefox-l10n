@@ -88,6 +88,9 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
+## Firefox Account Button
+
+
 ## Save Page
 
 main-context-menu-page-save =
@@ -258,6 +261,11 @@ main-context-menu-media-video-leave-fullscreen =
 main-context-menu-media-pip =
     .label = Slika v sliki
     .accesskey = v
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-watch-pip =
+    .label = Glejte sliko v sliki
+    .accesskey = s
 main-context-menu-image-reload =
     .label = Ponovno naloži sliko
     .accesskey = P
@@ -364,6 +372,9 @@ main-context-menu-suggest-strong-password =
     .accesskey = m
 main-context-menu-manage-logins =
     .label = Upravljanje prijav …
+    .accesskey = U
+main-context-menu-manage-logins2 =
+    .label = Upravljanje prijav
     .accesskey = U
 main-context-menu-keyword =
     .label = Dodaj ključno besedo k iskanju …
