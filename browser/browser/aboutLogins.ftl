@@ -321,6 +321,7 @@ about-logins-import-dialog-error-unable-to-read-description = Controleer of u ee
 about-logins-import-dialog-error-no-logins-imported = Er zijn geen aanmeldingen geïmporteerd
 about-logins-import-dialog-error-learn-more = Meer info
 about-logins-import-dialog-error-try-again = Opnieuw proberen…
+about-logins-import-dialog-error-try-import-again = Probeer nogmaals te importeren...
 about-logins-import-dialog-error-cancel = Annuleren
 about-logins-import-report-title = Importsamenvatting
 about-logins-import-report-description = Aanmeldingen en wachtwoorden geïmporteerd in { -brand-short-name }.

@@ -536,6 +536,13 @@ urlbar-result-action-tabtosearch-web = Met { $engine } rechtstreeks vanuit de ad
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = { $engine } rechtstreeks vanuit de adresbalk doorzoeken
+# Action text for copying to clipboard.
+urlbar-result-action-copy-to-clipboard = Kopiëren
+# Shows the result of a formula expression being calculated, the last = sign will be shown
+# as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result = = { $result }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -651,6 +658,23 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = Opslaan naar { -pocket-brand-name }
     .tooltiptext = Opslaan naar { -pocket-brand-name }
+
+## Customize Toolbar Buttons
+
+# Variables:
+#  $shortcut (String): keyboard shortcut to open the add-ons manager
+toolbar-addons-themes-button =
+    .label = Add-ons en thema’s
+    .tooltiptext = Uw add-ons en thema’s beheren ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open settings (only on macOS)
+toolbar-settings-button =
+    .label = Instellingen
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Instellingen openen ({ $shortcut })
+           *[other] Instellingen openen
+        }
 
 ## More items
 
