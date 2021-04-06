@@ -29,3 +29,7 @@ fxa-menu-sync-settings =
 fxa-menu-turn-on-sync =
     .value = Synchronizaciju zmóžnić
 fxa-menu-turn-on-sync-default = Synchronizaciju zmóžnić
+fxa-menu-connect-another-device =
+    .label = Dalši grat zwjazać…
+fxa-menu-sign-out =
+    .label = Wotzjewić…
