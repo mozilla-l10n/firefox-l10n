@@ -102,10 +102,10 @@ fonts-allow-own =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
-fonts-languages-fallback-header = Кодирање текста за застарели садржај
-fonts-languages-fallback-desc = Ово кодирање текста се користи за застарели садражај који не успева да декларише кодирање.
-fonts-languages-fallback-label = Одступно кодирање текста
-    .accesskey = т
+fonts-languages-fallback-header = Кодни распоред за застареле веб-странице
+fonts-languages-fallback-desc = Овај кодни распоред се користи за веб-странице које нису навели кодирање.
+fonts-languages-fallback-label = Резервни кодни распоред
+    .accesskey = Р
 fonts-languages-fallback-name-auto =
     .label = Подразумевано за овај локал
 fonts-languages-fallback-name-arabic =
