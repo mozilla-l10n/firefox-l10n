@@ -21,3 +21,7 @@ fxa-signout-dialog =
     .style = min-width: 375px;
     .buttonlabelaccept = Шығу
 fxa-signout-dialog2-button = Шығу
+fxa-menu-connect-another-device =
+    .label = Басқа құрылғыны байланыстыру…
+fxa-menu-sign-out =
+    .label = Шығу…
