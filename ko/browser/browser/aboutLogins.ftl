@@ -310,6 +310,7 @@ about-logins-import-dialog-error-unable-to-read-description = CSV 또는 TSV 파
 about-logins-import-dialog-error-no-logins-imported = 가져온 로그인이 없음
 about-logins-import-dialog-error-learn-more = 더 알아보기
 about-logins-import-dialog-error-try-again = 다시 시도…
+about-logins-import-dialog-error-try-import-again = 가져오기 다시 시도…
 about-logins-import-dialog-error-cancel = 취소
 about-logins-import-report-title = 가져오기 요약
 about-logins-import-report-description = 로그인과 비밀번호를 { -brand-short-name }로 가져왔습니다.

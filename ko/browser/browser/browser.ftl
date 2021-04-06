@@ -523,6 +523,13 @@ urlbar-result-action-tabtosearch-web = 주소 표시줄에서 직접 { $engine }
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = 주소 표시줄에서 직접 { $engine } 검색
+# Action text for copying to clipboard.
+urlbar-result-action-copy-to-clipboard = 복사
+# Shows the result of a formula expression being calculated, the last = sign will be shown
+# as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result = = { $result }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -638,6 +645,23 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = { -pocket-brand-name }에 저장
     .tooltiptext = { -pocket-brand-name }에 저장
+
+## Customize Toolbar Buttons
+
+# Variables:
+#  $shortcut (String): keyboard shortcut to open the add-ons manager
+toolbar-addons-themes-button =
+    .label = 부가 기능 및 테마
+    .tooltiptext = 부가 기능 및 테마 관리 ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open settings (only on macOS)
+toolbar-settings-button =
+    .label = 설정
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] 설정 열기 ({ $shortcut })
+           *[other] 설정 열기
+        }
 
 ## More items
 
