@@ -12,3 +12,5 @@ sync-disconnect-dialog-body = { -brand-product-name } si nagi'iaj nuguàn'anj si
 fxa-disconnect-dialog-title = Gahuīt riña { -brand-product-name } anj?
 fxa-disconnect-dialog-body = { -brand-product-name } narè' akuanj riña si kuendât sanī sī nadure'ej nej nuguan' arâj sunt aché nunt riña aga' nan.
 sync-disconnect-dialog-button = Nitāj si 'iaj sunj ngà'
+fxa-menu-connect-another-device =
+    .label = Duguatûj a'ngô aga'a…
