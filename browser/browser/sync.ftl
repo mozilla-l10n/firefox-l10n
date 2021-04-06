@@ -29,3 +29,7 @@ fxa-menu-sync-settings =
 fxa-menu-turn-on-sync =
     .value = Szinkronizálás bekapcsolása
 fxa-menu-turn-on-sync-default = Szinkronizálás bekapcsolása
+fxa-menu-connect-another-device =
+    .label = Másik eszköz csatlakoztatása…
+fxa-menu-sign-out =
+    .label = Kijelentkezés…
