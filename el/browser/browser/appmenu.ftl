@@ -86,6 +86,7 @@ appmenu-fxa-last-sync = Τελευταίος συγχρονισμός: { $time }
     .label = Τελευταίος συγχρονισμός: { $time }
 appmenu-fxa-sync-and-save-data =
     .value = Συγχρονισμός και αποθήκευση δεδομένων
+appmenu-fxa-sync-and-save-data2 = Συγχρονισμός και αποθήκευση δεδομένων
 appmenu-fxa-signed-in-label = Σύνδεση
 appmenu-fxa-setup-sync =
     .label = Ενεργοποίηση συγχρονισμού…
