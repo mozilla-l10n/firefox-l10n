@@ -29,5 +29,7 @@ fxa-menu-sync-settings =
 fxa-menu-turn-on-sync =
     .value = Activar Sync
 fxa-menu-turn-on-sync-default = Activar Sync
+fxa-menu-connect-another-device =
+    .label = Connecter un altere apparato…
 fxa-menu-sign-out =
     .label = Clauder session…
