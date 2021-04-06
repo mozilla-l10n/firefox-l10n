@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
-about-logins-page-title = Пријаве и лозинке
+about-logins-page-title = Пријаве
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
@@ -50,8 +50,8 @@ login-list-sort-label-text = Сортирај по:
 login-list-name-option = називу (A–Z)
 login-list-name-reverse-option = називу (Z–A)
 about-logins-login-list-alerts-option = Упозорења
-login-list-last-changed-option = Последњој измени
-login-list-last-used-option = Последњем коришћењу
+login-list-last-changed-option = последњој измени
+login-list-last-used-option = последњем коришћењу
 login-list-intro-title = Нема пронађених пријава
 login-list-intro-description =
     Овде ће се појавити лозинке које сачувате у { -brand-product-name.gender ->
@@ -144,7 +144,7 @@ about-logins-copy-password-os-auth-dialog-message-macosx = копирај сач
 
 ## Master Password notification
 
-master-password-notification-message = Унесите своју главну лозинку да бисте видели сачуване пријаве и лозинке
+master-password-notification-message = Унесите главну лозинку да бисте видели сачуване податке за пријаву
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Из безбедносних разлога потребно је да унесете податке за пријаву на Windows да бисте извезли записе.
 # This message can be seen when attempting to export a password in about:logins
