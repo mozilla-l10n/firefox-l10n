@@ -20,5 +20,7 @@ fxa-signout-dialog =
     .title = Mag-sign out sa { -fxaccount-brand-name }
     .style = min-width: 375px;
     .buttonlabelaccept = Mag-sign out
+fxa-menu-connect-another-device =
+    .label = Magkonekta ng Isa Pang Device…
 fxa-menu-sign-out =
     .label = Sign Out…
