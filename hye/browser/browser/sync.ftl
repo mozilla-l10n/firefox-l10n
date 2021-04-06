@@ -20,3 +20,7 @@ fxa-signout-dialog =
     .title = Դուր գալ { -fxaccount-brand-name }֊ից
     .style = min-width: 375px;
     .buttonlabelaccept = Դուրս գալ
+fxa-menu-connect-another-device =
+    .label = Կապակցել այլ սարք…
+fxa-menu-sign-out =
+    .label = Դուրս գալ…
