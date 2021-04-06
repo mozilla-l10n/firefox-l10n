@@ -318,6 +318,7 @@ about-logins-import-dialog-error-unable-to-read-description = Eiporavo marandure
 about-logins-import-dialog-error-no-logins-imported = Noñemba’eguerúi tembiapo ñepyrũ
 about-logins-import-dialog-error-learn-more = Kuaave
 about-logins-import-dialog-error-try-again = Eha’ãjey…
+about-logins-import-dialog-error-try-import-again = Eñeha’ã emba’eguerujey…
 about-logins-import-dialog-error-cancel = Heja
 about-logins-import-report-title = Mba’egueru Ñemomichĩ
 about-logins-import-report-description = Tembiapo ñepyrũ ha ñe’ẽñemi eguerupyre { -brand-short-name }-gui.
