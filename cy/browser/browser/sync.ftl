@@ -23,3 +23,7 @@ fxa-signout-dialog =
     .buttonlabelaccept = Allgofnodi
 fxa-signout-dialog2-button = Allgofnodi
 fxa-signout-dialog2-checkbox = Dileu data o'r ddyfais hon (mewngofnodion, cyfrineiriau, hanes, nodau tudalen, ac ati).
+fxa-menu-connect-another-device =
+    .label = Cysylltu Dyfais Arall…
+fxa-menu-sign-out =
+    .label = Allgofnodi…
