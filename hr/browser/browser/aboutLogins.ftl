@@ -329,6 +329,7 @@ about-logins-import-dialog-error-unable-to-read-description = Provjeri je li oda
 about-logins-import-dialog-error-no-logins-imported = Nije uvezena nijedna prijava
 about-logins-import-dialog-error-learn-more = Saznaj više
 about-logins-import-dialog-error-try-again = Pokušaj ponovno…
+about-logins-import-dialog-error-try-import-again = Pokušaj ponovno uvesti…
 about-logins-import-dialog-error-cancel = Odustani
 about-logins-import-report-title = Sažetak uvoza
 about-logins-import-report-description = Prijave i lozinke uvezene u { -brand-short-name }.
