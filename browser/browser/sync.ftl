@@ -29,3 +29,7 @@ fxa-menu-sync-settings =
 fxa-menu-turn-on-sync =
     .value = Slå synkronisering til
 fxa-menu-turn-on-sync-default = Slå synkronisering til
+fxa-menu-connect-another-device =
+    .label = Opret forbindelse til en ny enhed…
+fxa-menu-sign-out =
+    .label = Log ud…
