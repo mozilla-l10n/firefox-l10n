@@ -20,3 +20,7 @@ fxa-signout-dialog =
     .title = Wyloguj sie ze { -fxaccount-brand-name(case: "gen", capitalization: "lower") }
     .style = min-width: 375px;
     .buttonlabelaccept = Wyloguj sie
+fxa-menu-connect-another-device =
+    .label = Połōncz inkszo maszina…
+fxa-menu-sign-out =
+    .label = Wyloguj sie…
