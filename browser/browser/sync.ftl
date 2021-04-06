@@ -20,3 +20,5 @@ fxa-signout-dialog =
     .title = ¿Cerrar sesión de { -fxaccount-brand-name }?
     .style = min-width: 375px;
     .buttonlabelaccept = Cerrar sesión
+fxa-menu-sign-out =
+    .label = Cerrar sesión…
