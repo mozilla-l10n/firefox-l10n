@@ -18,6 +18,9 @@ sidebar-preferences-button-title =
             [windows] Opciones de { -brand-short-name }
            *[other] Preferencies de { -brand-short-name }
         }
+addons-settings-button = Axustes de { -brand-short-name }
+sidebar-settings-button-title =
+    .title = Axustes de { -brand-short-name }
 detail-home-value =
     .value = { detail-home.label }
 detail-repository-value =
@@ -73,6 +76,8 @@ addon-category-recent-updates-title =
 
 ## Strings connected to add-on updates
 
+addon-updates-view-updates = Ver los anovamientos de recién
+    .accesskey = V
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
@@ -90,6 +95,9 @@ addon-category-recent-updates-title =
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file-filter-name = Complementos
+addon-open-about-debugging = Depurar los complementos
+    .accesskey = D
 
 ## Extension shortcut management
 
@@ -126,6 +134,9 @@ release-notes-loading = Cargando…
 addon-permissions-empty = Esta estensión nun rique nengún permisu
 recommended-extensions-heading = Estensiones aconseyaes
 recommended-themes-heading = Estilos aconseyaos
+# A recommendation for the Firefox Color theme shown at the bottom of the theme
+# list view. The "Firefox Color" name itself should not be translated.
+recommended-theme-1 = ¿Tienes creatividá? <a data-l10n-name="link">Fai'l to estilu con Firefox Color.</a>
 
 ## Page headings
 
