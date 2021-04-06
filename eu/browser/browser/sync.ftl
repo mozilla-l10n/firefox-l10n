@@ -20,3 +20,5 @@ fxa-signout-dialog =
     .title = Itxi { -fxaccount-brand-name } saioa
     .style = min-width: 375px;
     .buttonlabelaccept = Itxi saioa
+fxa-menu-connect-another-device =
+    .label = Konektatu beste gailu bat…
