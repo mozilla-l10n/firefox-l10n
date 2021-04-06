@@ -79,6 +79,8 @@ login-intro-instruction-fxa = Стварыце альбо ўвайдзіце ў 
 login-intro-instruction-fxa-settings = Пераканайцеся, што вы ўстанавілі сцяжок Лагіны у наладах { -sync-brand-short-name }
 about-logins-intro-instruction-help = Для атрымання дадатковай даведкі наведайце <a data-l10n-name="help-link">падтрымку { -lockwise-brand-short-name }</a>
 login-intro-instructions-fxa = Стварыце або ўвайдзіце ў свой { -fxaccount-brand-name } на прыладзе, дзе захоўваюцца вашы лагіны.
+login-intro-instructions-fxa-settings = Прайдзіце ў Налады> Sync> Уключыць сінхранізацыю… Адзначце сцяжок Лагіны і паролі.
+login-intro-instructions-fxa-help = Для атрымання дадатковай даведкі наведайце <a data-l10n-name="help-link">падтрымку { -lockwise-brand-short-name }</a>.
 about-logins-intro-import = Калі вашы паролі захоўваюцца ў іншым браўзеры, вы можаце <a data-l10n-name="import-link">імпартаваць іх у { -lockwise-brand-short-name }</a>
 about-logins-intro-import2 = Калі вашы лагіны захоўваюцца па-за { -brand-product-name }, вы можаце <a data-l10n-name="import-browser-link">імпартаваць іх з іншага браўзера</a> або <a data-l10n-name="import-file-link">з файла</a>
 
