@@ -35,18 +35,18 @@ appmenuitem-more-tools =
     .label = Rhagor o Offer
 appmenuitem-exit =
     .label = Gadael
-appmenuitem-exit2 =
-    .label =
-        { PLATFORM() ->
-            [linux] Gadael
-           *[other] Gadael
-        }
 appmenu-menu-button-closed =
     .tooltiptext = Agor Dewislen y Rhaglen
     .label = { -brand-shorter-name }
 appmenu-menu-button-opened =
     .tooltiptext = Cau Dewislen y Rhaglen
     .label = { -brand-shorter-name }
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Gadael
+           *[other] Gadael
+        }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -76,6 +76,7 @@ appmenu-fxa-last-sync = Cydweddwyd diwethaf { $time }
     .label = Cydweddwyd diwethaf { $time }
 appmenu-fxa-sync-and-save-data =
     .value = Cydweddu a Chadw Data
+appmenu-fxa-sync-and-save-data2 = Cydweddu a Chadw Data
 appmenu-fxa-signed-in-label = Mewngofnodi
 appmenu-fxa-setup-sync =
     .label = Cychwyn Cydweddu…
