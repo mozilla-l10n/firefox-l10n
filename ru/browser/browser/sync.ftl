@@ -23,3 +23,7 @@ fxa-signout-dialog =
     .buttonlabelaccept = Выйти
 fxa-signout-dialog2-button = Выйти
 fxa-signout-dialog2-checkbox = Удалить данные с этого устройства (пароли, историю, закладки и т.д.)
+fxa-menu-connect-another-device =
+    .label = Подключить другое устройство…
+fxa-menu-sign-out =
+    .label = Выйти…
