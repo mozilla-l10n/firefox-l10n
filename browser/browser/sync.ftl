@@ -8,6 +8,7 @@ fxa-toolbar-sync-syncing-tabs =
     .label = Sincronizando les llingüetes…
 fxa-toolbar-sync-syncing2 = Sincronizando…
 sync-disconnect-dialog-title = ¿Desconectase de { -sync-brand-short-name }?
+sync-disconnect-dialog-title2 = ¿Desconectase?
 sync-disconnect-dialog-body = { -brand-product-name } va dexar de sincronizase cola to cuenta mas nun va desaniciar nengún datu d'esti preséu.
 fxa-disconnect-dialog-title = ¿Desconectar { -brand-product-name }?
 fxa-disconnect-dialog-body = { -brand-product-name } va desconectase de la to cuenta mas nun va desaniciar nengún datu de restolar d'esti preséu.

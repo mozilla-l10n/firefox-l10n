@@ -5,6 +5,7 @@
 
 ## Error messages
 
+certificate-viewer-error-message = Nun fuimos a atopar la información del certificáu o'l certificáu ta toyíu. Volvi tentalo, por favor.
 certificate-viewer-error-title = Asocedió daqué malo.
 
 ## Certificate information labels
@@ -26,6 +27,7 @@ certificate-viewer-sha-1 = SHA-1
 certificate-viewer-sha-256 = SHA-256
 certificate-viewer-serial-number = Númberu de serie
 certificate-viewer-version = Versión
+certificate-viewer-public-key-info = Información de la clave pública
 certificate-viewer-fingerprints = Buelgues
 # This message is used to replace boolean values (true/false) in several certificate fields, e.g. Certificate Authority
 # Variables:
@@ -39,6 +41,9 @@ certificate-viewer-boolean =
 ## Variables:
 ##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
 
+# The title attribute for Critical Extension icon
+certificate-viewer-critical-extension =
+    .title = Esta estensión marcóse como crítica lo que significa que los veceros han refugar el certificáu si nun lu entienden.
 
 ##
 
