@@ -29,3 +29,5 @@ fxa-menu-sync-settings =
 fxa-menu-turn-on-sync =
     .value = Uključi sinkronizaciju
 fxa-menu-turn-on-sync-default = Uključi sinkronizaciju
+fxa-menu-connect-another-device =
+    .label = Poveži novi uređaj…
