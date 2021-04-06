@@ -354,6 +354,7 @@ about-logins-import-dialog-error-unable-to-read-description = Уверите с�
 about-logins-import-dialog-error-no-logins-imported = Ниједна пријава није увезена
 about-logins-import-dialog-error-learn-more = Сазнајте више
 about-logins-import-dialog-error-try-again = Покушај поново…
+about-logins-import-dialog-error-try-import-again = Покушај увоз поново…
 about-logins-import-dialog-error-cancel = Откажи
 about-logins-import-report-title = Сажетак увоза
 about-logins-import-report-description =

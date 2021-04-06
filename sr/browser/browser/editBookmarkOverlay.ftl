@@ -48,3 +48,5 @@ bookmark-overlay-keyword =
 bookmark-overlay-keyword-2 =
     .value = Кључна реч
     .accesskey = К
+bookmark-overlay-tags-caption-label = Помоћу ознака можете да организујете обележиваче и претражујете их из траке за адресу
+bookmark-overlay-keyword-caption-label = Помоћу кључних речи можете да отварате обележиваче директно из траке за адресу
