@@ -81,7 +81,7 @@ login-intro-description = Os gwnaethoch gadw eich mewngofnodion i { -brand-produ
 login-intro-instruction-fxa = Creu neu fewngofnodi i'ch { -fxaccount-brand-name } ar y ddyfais lle mae'ch mewngofnodion yn cael eu cadw
 login-intro-instruction-fxa-settings = Sicrhewch eich bod wedi dewis y blwch gwirio Mewngofnodion yng Ngosodiadau { -sync-brand-short-name }
 about-logins-intro-instruction-help = Ewch i <a data-l10n-name="help-link"> Cefnogaeth { -lockwise-brand-short-name }</a> i gael rhagor o gymorth
-login-intro-instructions-fxa = Creu neu fewngofnodi i'ch { -fxaccount-brand-name(capitalization: "sentence") } ar y ddyfais lle mae'ch mewngofnodion yn cael eu cadw
+login-intro-instructions-fxa = Crëwch neu fewngofnodwch i'ch cyfrif { -fxaccount-brand-name } ar y ddyfais lle mae'ch mewngofnodion yn cael eu cadw
 login-intro-instructions-fxa-settings = Ewch i Gosodiadau> Sync> Cychwyn cydweddu... Dewiswch y blwch ticio Mewngofnodi a chyfrineiriau.
 login-intro-instructions-fxa-help = Ewch i <a data-l10n-name="help-link"> Cefnogaeth { -lockwise-brand-short-name }</a> i gael rhagor o gymorth
 about-logins-intro-import = Os yw eich mewngofnodion yn cael eu cadw mewn porwr arall, gallwch <a data-l10n-name="import-link">eu mewnforio i { -lockwise-brand-short-name }</a>
