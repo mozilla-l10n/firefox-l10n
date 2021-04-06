@@ -86,6 +86,7 @@ appmenu-fxa-last-sync = ਪਿਛਲਾ ਸਿੰਕ ਕੀਤਾ { $time }
     .label = ਪਿਛਲਾ ਸਿੰਕ ਕੀਤਾ { $time }
 appmenu-fxa-sync-and-save-data =
     .value = ਡਾਟਾ ਸਿੰਕ ਕਰੋ ਤੇ ਸੰਭਾਲੋ
+appmenu-fxa-sync-and-save-data2 = ਡਾਟਾ ਸਿੰਕ ਕਰੋ ਤੇ ਸੰਭਾਲੋ
 appmenu-fxa-signed-in-label = ਸਾਇਨ ਇਨ
 appmenu-fxa-setup-sync =
     .label = ਸਿੰਕ ਕਰਨਾ ਚਾਲੂ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ…
