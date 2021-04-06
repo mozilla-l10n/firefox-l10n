@@ -21,3 +21,7 @@ fxa-signout-dialog =
     .title = Zarru de sesión en { -fxaccount-brand-name }
     .style = min-width: 375px;
     .buttonlabelaccept = Zarrar sesión
+fxa-menu-connect-another-device =
+    .label = Conectar otru preséu…
+fxa-menu-sign-out =
+    .label = Zarrar sesión…
