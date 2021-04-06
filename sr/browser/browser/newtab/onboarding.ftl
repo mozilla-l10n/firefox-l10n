@@ -60,7 +60,7 @@ onboarding-sync-welcome-header = Понесите { -brand-product-name } са �
 onboarding-sync-welcome-content = Приступите обележивачима, историји, лозинкама и другим подешавањима на свим уређајима.
 onboarding-sync-welcome-learn-more-link = Сазнајте више о Firefox Accounts
 onboarding-sync-form-input =
-    .placeholder = Адреса е-поште
+    .placeholder = Имејл-адреса
 onboarding-sync-form-continue-button = Настави
 onboarding-sync-form-skip-login-button = Прескочи овај корак
 

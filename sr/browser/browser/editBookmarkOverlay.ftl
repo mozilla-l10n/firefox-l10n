@@ -7,7 +7,7 @@ bookmark-overlay-name =
     .accesskey = N
 bookmark-overlay-location =
     .value = Адреса:
-    .accesskey = L
+    .accesskey = А
 bookmark-overlay-folder =
     .value = Фасцикла:
 bookmark-overlay-name-2 =
@@ -15,7 +15,7 @@ bookmark-overlay-name-2 =
     .accesskey = Н
 bookmark-overlay-url =
     .value = Адреса
-    .accesskey = а
+    .accesskey = А
 # Location refers to the position of the bookmark within the browser's
 # bookmarks, not to its URL or address.
 bookmark-overlay-location-2 =
