@@ -4,7 +4,7 @@
 
 bookmark-overlay-name =
     .value = Назив:
-    .accesskey = N
+    .accesskey = Н
 bookmark-overlay-location =
     .value = Адреса:
     .accesskey = А

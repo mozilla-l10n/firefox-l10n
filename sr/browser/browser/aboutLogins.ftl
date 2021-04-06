@@ -47,8 +47,8 @@ login-list-count =
        *[other] { $count } пријава
     }
 login-list-sort-label-text = Сортирај по:
-login-list-name-option = Назив (А-Ш)
-login-list-name-reverse-option = Називу (Z–A)
+login-list-name-option = називу (A–Z)
+login-list-name-reverse-option = називу (Z–A)
 about-logins-login-list-alerts-option = Упозорења
 login-list-last-changed-option = Последњој измени
 login-list-last-used-option = Последњем коришћењу
@@ -63,7 +63,7 @@ login-list-intro-description =
 about-logins-login-list-empty-search-title = Пријаве нису пронађене
 about-logins-login-list-empty-search-description = Нема резултата који одговарају критеријумима претраге.
 login-list-item-title-new-login = Нова пријава
-login-list-item-subtitle-new-login = Унесите своје податке за пријаву
+login-list-item-subtitle-new-login = Унесите податке за пријаву
 login-list-item-subtitle-missing-username = (нема корисничког имена)
 about-logins-list-item-breach-icon =
     .title = Веб страница на којој долази до цурења података
