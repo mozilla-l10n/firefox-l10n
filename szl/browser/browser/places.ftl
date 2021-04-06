@@ -5,16 +5,28 @@
 places-open =
     .label = Ôdewrzij
     .accesskey = O
+places-open-in-tab =
+    .label = Ôdewrzij w nowyj karcie
+    .accesskey = w
 places-open-tab =
     .label = Ôdewrzij w nowyj karcie
     .accesskey = w
+places-open-all-bookmarks =
+    .label = Ôdewrzij wszyskie zokłodki
+    .accesskey = O
 places-open-all-in-tabs =
     .label = Ôdewrzij wszyskie w kartach
     .accesskey = O
 places-open-window =
     .label = Ôdewrzij w nowym ôknie
     .accesskey = N
+places-open-in-window =
+    .label = Ôdewrzij w nowym ôknie
+    .accesskey = N
 places-open-private-window =
+    .label = Ôdewrzij w nowym prywatnym ôknie
+    .accesskey = P
+places-open-in-private-window =
     .label = Ôdewrzij w nowym prywatnym ôknie
     .accesskey = P
 places-new-bookmark =
@@ -28,6 +40,18 @@ places-new-folder =
     .accesskey = K
 places-new-separator =
     .label = Nowy separatōr
+    .accesskey = S
+places-add-bookmark =
+    .label = Przidej zokłodka…
+    .accesskey = Z
+places-add-folder-contextmenu =
+    .label = Przidej katalog…
+    .accesskey = K
+places-add-folder =
+    .label = Przidej katalog…
+    .accesskey = a
+places-add-separator =
+    .label = Przidej separatōr
     .accesskey = S
 places-view =
     .label = Pokoż
@@ -60,6 +84,13 @@ places-sortby-name =
 places-properties =
     .label = Włosności
     .accesskey = i
+# places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
+places-edit-bookmark =
+    .label = Edytuj zokłodka…
+    .accesskey = y
+places-edit-generic =
+    .label = Edytuj…
+    .accesskey = y
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Regiyrowane zokłodki
@@ -69,3 +100,17 @@ managed-bookmarks-subfolder =
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Inksze zokłodki
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-remove-bookmark =
+    .label =
+        { $count ->
+            [1] Wyciep zokłodka
+            [one] Wyciep zokłodka
+            [few] Wyciep zokłodki
+           *[many] Wyciep zokłodki
+        }
+    .accesskey = e
+places-manage-bookmarks =
+    .label = Regiyruj zokłodkami
+    .accesskey = R
