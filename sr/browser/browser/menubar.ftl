@@ -187,7 +187,7 @@ menu-view-page-basic-style =
     .label = Основни стил странице
     .accesskey = B
 menu-view-charset =
-    .label = Кодирање текста
+    .label = Кодни распоред
     .accesskey = К
 
 ## These should match what Safari and other Apple applications
