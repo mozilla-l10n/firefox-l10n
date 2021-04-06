@@ -18,6 +18,7 @@ login-filter =
 create-login-button = Ustvari novo prijavo
 fxaccounts-sign-in-text = Imejte dostop do gesel z vseh svojih naprav
 fxaccounts-sign-in-button = Prijava v { -sync-brand-short-name }
+fxaccounts-sign-in-sync-button = Prijava v Sync
 fxaccounts-avatar-button =
     .title = Upravljanje računa
 
@@ -72,11 +73,13 @@ about-logins-list-item-vulnerable-password-icon =
 
 login-intro-heading = Iščete shranjene prijave? Nastavite { -sync-brand-short-name }.
 about-logins-login-intro-heading-logged-out = Iščete shranjene prijave? Nastavite { -sync-brand-short-name } ali jih uvozite.
+about-logins-login-intro-heading-logged-out2 = Iščete svoje shranjene prijave? Vklopite sinhronizacijo ali jih uvozite.
 about-logins-login-intro-heading-logged-in = Ni najdenih sinhroniziranih prijav.
 login-intro-description = Če ste svoje prijave shranili v { -brand-product-name } v drugi napravi, jih lahko prenesete sem, tako da:
 login-intro-instruction-fxa = Ustvarite { -fxaccount-brand-name } ali se prijavite na napravi, kjer so shranjene vaše prijave
 login-intro-instruction-fxa-settings = Prepričajte se, da ste v Nastavitvah { -sync-brand-short-name }a označili polje Prijave
 about-logins-intro-instruction-help = Za dodatno pomoč obiščite <a data-l10n-name="help-link">Podporo { -lockwise-brand-short-name }</a>
+login-intro-instructions-fxa-help = Za dodatno pomoč obiščite <a data-l10n-name="help-link">Podporo { -lockwise-brand-short-name }</a>.
 about-logins-intro-import = Če so vaše prijave shranjene v drugem brskalniku, jih lahko <a data-l10n-name="import-link">uvozite v { -lockwise-brand-short-name }</a>
 about-logins-intro-import2 = Če so vaše prijave shranjene izven { -brand-product-name }a, jih lahko <a data-l10n-name="import-browser-link">uvozite iz drugega brskalnika</a> ali <a data-l10n-name="import-file-link">datoteke</a>
 
@@ -319,6 +322,8 @@ about-logins-import-dialog-error-no-logins-imported = Uvožena ni bila nobena pr
 about-logins-import-dialog-error-learn-more = Več o tem
 about-logins-import-dialog-error-try-again = Poskusi znova …
 about-logins-import-dialog-error-cancel = Prekliči
+about-logins-import-report-title = Povzetek uvoza
+about-logins-import-report-description = Prijave in gesla, uvožena v { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row

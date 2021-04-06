@@ -28,6 +28,7 @@ search-input-box =
             [windows] Najdi v možnostih
            *[other] Najdi v nastavitvah
         }
+settings-page-title = Nastavitve
 managed-notice = Vaš brskalnik upravlja vaša organizacija.
 category-list =
     .aria-label = Kategorije
@@ -46,12 +47,15 @@ category-privacy =
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
+category-sync3 =
+    .tooltiptext = { pane-sync-title3 }
 pane-experimental-title = { -brand-short-name }ovi poskusi
 category-experimental =
     .tooltiptext = { -brand-short-name }ovi poskusi
 pane-experimental-subtitle = Nadaljujte previdno
 pane-experimental-search-results-header = { -brand-short-name }ovi poskusi: nadaljujte previdno
 pane-experimental-description = Spreminjanje naprednih nastavitev lahko vpliva na delovanje ali varnost { -brand-short-name }a.
+pane-experimental-description2 = Spreminjanje naprednih nastavitev lahko vpliva na delovanje ali varnost { -brand-short-name }a.
 pane-experimental-reset =
     .label = Ponastavi privzeto
     .accesskey = P
@@ -587,6 +591,7 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Prikazuj predloge iskanja v zasebnih oknih
 suggestions-addressbar-settings-generic = Spremeni nastavitve drugih predlogov naslovne vrstice
+suggestions-addressbar-settings-generic2 = Spremeni nastavitve drugih predlogov naslovne vrstice
 search-suggestions-cant-show = Predlogi iskanja v vrstici z naslovom ne bodo prikazani, ker ste { -brand-short-name } nastavili tako, da si nikoli ne zapomni zgodovine.
 search-one-click-header = Iskalniki, dostopni z enim klikom
 search-one-click-header2 = Bližnjice za iskanje
@@ -621,6 +626,8 @@ containers-back-button =
             [windows] Nazaj na možnosti
            *[other] Nazaj na nastavitve
         }
+containers-back-button2 =
+    .aria-label = Nazaj na nastavitve
 containers-header = Vsebniški zavihki
 containers-add-button =
     .label = Dodaj nov vsebnik
@@ -629,6 +636,8 @@ containers-new-tab-check =
     .label = Izberi vsebnik za vsak nov zavihek
     .accesskey = I
 containers-preferences-button =
+    .label = Nastavitve
+containers-settings-button =
     .label = Nastavitve
 containers-remove-button =
     .label = Odstrani
@@ -641,6 +650,10 @@ sync-signedout-description = Sinhronizirajte zaznamke, zgodovino, zavihke, gesla
 sync-signedout-account-signin2 =
     .label = Prijava v { -sync-brand-short-name } …
     .accesskey = i
+sync-signedout-description2 = Sinhronizirajte zaznamke, zgodovino, zavihke, gesla, dodatke in nastavitve vseh vaših naprav.
+sync-signedout-account-signin3 =
+    .label = Prijava v Sync …
+    .accesskey = P
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -680,6 +693,7 @@ prefs-sync-setup =
     .label = Nastavi { -sync-brand-short-name } …
     .accesskey = s
 prefs-sync-offer-setup-label = Sinhronizirajte zaznamke, zgodovino, zavihke, gesla, dodatke in nastavitve vseh vaših naprav.
+prefs-sync-offer-setup-label2 = Sinhronizirajte zaznamke, zgodovino, zavihke, gesla, dodatke in nastavitve vseh vaših naprav.
 prefs-sync-now =
     .labelnotsyncing = Sinhroniziraj zdaj
     .accesskeynotsyncing = z

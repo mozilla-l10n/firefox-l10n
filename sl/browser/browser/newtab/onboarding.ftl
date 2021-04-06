@@ -169,6 +169,11 @@ onboarding-multistage-welcome-secondary-button-text = Imate račun?
 onboarding-multistage-set-default-subtitle = Hitrost, varnost in zasebnost ob vsakem brskanju.
 onboarding-multistage-set-default-primary-button-label = Nastavi za privzeto
 onboarding-multistage-set-default-secondary-button-label = Ne zdaj
+onboarding-multistage-pin-default-subtitle = Hitro, varno in zasebno brskanje vsakič, ko obiščete splet.
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-waiting-subtitle = Ko se odprejo nastavitve, v rubriki Spletni brskalnik izberite { -brand-short-name }
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-help-text = S tem boste { -brand-short-name } pripeli v opravilno vrstico in odprli nastavitve
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Uvozite svoja gesla, zaznamke in <span data-l10n-name="zap">drugo</span>

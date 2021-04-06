@@ -13,6 +13,7 @@
 ##
 ## Reference: https://www.mozilla.org/styleguide/communications/translation/
 
+
 ## Firefox and Mozilla Brand
 ##
 ## Firefox and Mozilla must be treated as a brand.
@@ -27,11 +28,43 @@
 ## For further details, consult:
 ## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
 
--brand-shorter-name = Firefox
--brand-short-name = Firefox
+-brand-shorter-name =
+    { $sklon ->
+       *[imenovalnik] Firefox
+        [rodilnik] Firefoxa
+        [dajalnik] Firefoxu
+        [tozilnik] Firefox
+        [mestnik] Firefoxu
+        [orodnik] Firefoxom
+    }
+-brand-short-name =
+    { $sklon ->
+       *[imenovalnik] Firefox
+        [rodilnik] Firefoxa
+        [dajalnik] Firefoxu
+        [tozilnik] Firefox
+        [mestnik] Firefoxu
+        [orodnik] Firefoxom
+    }
 -brand-full-name = Mozilla Firefox
 # This brand name can be used in messages where the product name needs to
 # remain unchanged across different versions (Nightly, Beta, etc.).
--brand-product-name = Firefox
--vendor-short-name = Mozilla
+-brand-product-name =
+    { $sklon ->
+       *[imenovalnik] Firefox
+        [rodilnik] Firefoxa
+        [dajalnik] Firefoxu
+        [tozilnik] Firefox
+        [mestnik] Firefoxu
+        [orodnik] Firefoxom
+    }
+-vendor-short-name =
+    { $sklon ->
+       *[imenovalnik] Mozilla
+        [rodilnik] Mozille
+        [dajalnik] Mozilli
+        [tozilnik] Mozillo
+        [mestnik] Mozilli
+        [orodnik] Mozillo
+    }
 trademarkInfo = Firefox in logotip Firefoxa sta blagovni znamki Mozilla Foundation.

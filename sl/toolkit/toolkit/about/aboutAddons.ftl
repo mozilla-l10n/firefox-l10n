@@ -34,6 +34,9 @@ sidebar-preferences-button-title =
             [windows] Možnosti { -brand-short-name }a
            *[other] Nastavitve { -brand-short-name }a
         }
+addons-settings-button = Nastavitve { -brand-short-name(sklon: "rodilnik") }
+sidebar-settings-button-title =
+    .title = Nastavitve { -brand-short-name(sklon: "rodilnik") }
 show-unsigned-extensions-button =
     .label = Nekaterih razširitev ni bilo mogoče potrditi
 show-all-extensions-button =
@@ -384,9 +387,6 @@ addon-detail-private-browsing-disallow = Ne dovoli
 addon-badge-recommended2 =
     .title = { -brand-product-name } priporoča samo razširitve, ki ustrezajo našim standardom glede varnosti in učinkovitosti delovanja.
     .aria-label = { addon-badge-recommended2.title }
-addon-badge-line2 =
-    .title = To je uradna razširitev, ki so jo razvili ustvarjalci { -brand-product-name }a
-    .aria-label = { addon-badge-line2.title }
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =

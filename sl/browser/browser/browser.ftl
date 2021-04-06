@@ -265,10 +265,14 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = Dodaj zaznamek
+bookmarks-edit-bookmark = Uredi zaznamek
 bookmark-panel-show-editor-checkbox =
     .label = Pri shranjevanju prikaži urejevalnik
     .accesskey = j
 bookmark-panel-done-button =
+    .label = Shrani
+bookmark-panel-save-button =
     .label = Shrani
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
@@ -627,6 +631,9 @@ save-to-pocket-button =
     .label = Shrani v { -pocket-brand-name }
     .tooltiptext = Shrani v { -pocket-brand-name }
 
+## Customize Toolbar Buttons
+
+
 ## More items
 
 more-menu-go-offline =
@@ -648,6 +655,7 @@ panel-save-update-password = Geslo
 
 ## Add-on removal warning
 
+addon-removal-abuse-report-checkbox = Prijavi to razširitev organizaciji { -vendor-short-name }
 
 ## Remote / Synced tabs
 
