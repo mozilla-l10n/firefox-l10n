@@ -152,7 +152,7 @@ media-capabilities-enumerate = Попис уноса базе података
 
 ##
 
-intl-title = Интернационализација & Локализација
+intl-title = Интернационализација и локализација
 intl-app-title = Подешавања програма
 intl-locales-requested = Захтевани локали
 intl-locales-available = Доступни локали
