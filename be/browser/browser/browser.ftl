@@ -367,6 +367,27 @@ browser-tab-audio-pip = ВЫЯВА-Ў-ВЫЯВЕ
 ## Variables:
 ##  $count (number): number of affected tabs
 
+browser-tab-mute =
+    { $count ->
+        [1] ПРЫБРАЦЬ ГУК КАРТКІ
+        [one] ПРЫБРАЦЬ ГУК КАРТКІ
+        [few] ПРЫБРАЦЬ ГУК { $count } КАРТАК
+       *[many] ПРЫБРАЦЬ ГУК { $count } КАРТАК
+    }
+browser-tab-unmute =
+    { $count ->
+        [1] УЗНАВІЦЬ ГУК КАРТКІ
+        [one] УЗНАВІЦЬ ГУК КАРТКІ
+        [few] УЗНАВІЦЬ ГУК { $count } КАРТАК
+       *[many] УЗНАВІЦЬ ГУК { $count } КАРТАК
+    }
+browser-tab-unblock =
+    { $count ->
+        [1] ПРАЙГРАЦЬ КАРТКУ
+        [one] ПРАЙГРАЦЬ КАРТКУ
+        [few] ПРАЙГРАЦЬ { $count } КАРТКІ
+       *[many] ПРАЙГРАЦЬ { $count } КАРТАК
+    }
 
 ## Bookmarks toolbar items
 

@@ -28,6 +28,18 @@ search-input-box =
             [windows] Знайсці ў наладах
            *[other] Знайсці ў перавагах
         }
+settings-page-title = Налады
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box2 =
+    .style = width: 15.4em
+    .placeholder = Шукаць у наладах
 managed-notice = Вашым браўзерам кіруе ваша арганізацыя.
 category-list =
     .aria-label = Катэгорыі
@@ -46,6 +58,9 @@ category-privacy =
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
+pane-sync-title3 = Сінхранізацыя
+category-sync3 =
+    .tooltiptext = { pane-sync-title3 }
 pane-experimental-title = Эксперыменты { -brand-short-name }
 category-experimental =
     .tooltiptext = Эксперыменты { -brand-short-name }
@@ -617,6 +632,8 @@ containers-back-button =
             [windows] Вярнуцца да наладаў
            *[other] Вярнуцца да параметраў
         }
+containers-back-button2 =
+    .aria-label = Вярнуцца да наладаў
 containers-header = Карткі кантэйнераў
 containers-add-button =
     .label = Дадаць новы кантэйнер
@@ -625,6 +642,8 @@ containers-new-tab-check =
     .label = Выбіраць кантэйнер для кожнай новай карткі
     .accesskey = ы
 containers-preferences-button =
+    .label = Налады
+containers-settings-button =
     .label = Налады
 containers-remove-button =
     .label = Выдаліць
@@ -637,6 +656,9 @@ sync-signedout-description = Сінхранізуйце свае закладк�
 sync-signedout-account-signin2 =
     .label = Увайсці ў { -sync-brand-short-name }…
     .accesskey = ў
+sync-signedout-account-signin3 =
+    .label = Увайсці ў сінхранізацыю
+    .accesskey = і
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -676,6 +698,9 @@ prefs-sync-setup =
     .label = Наладзіць { -sync-brand-short-name }...
     .accesskey = д
 prefs-sync-offer-setup-label = Сінхранізуйце свае закладкі, гісторыю, карткі, паролі, дадаткі і налады на ўсіх сваіх прыладах.
+prefs-sync-turn-on-syncing =
+    .label = Уключыць сінхранізацыю…
+    .accesskey = ы
 prefs-sync-now =
     .labelnotsyncing = Сінхранізаваць зараз
     .accesskeynotsyncing = ь
@@ -696,6 +721,7 @@ sync-currently-syncing-prefs =
         [windows] Налады
        *[other] Параметры
     }
+sync-currently-syncing-settings = Налады
 sync-change-options =
     .label = Змяніць…
     .accesskey = м
