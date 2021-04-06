@@ -97,6 +97,8 @@ about-debugging-setup-usb-status-updating = Нав шуда истодааст�
 about-debugging-setup-usb-step-enable-dev-menu2 = Менюи барномасозро дар дастгоҳи Android-и худ фаъол намоед.
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-debug2 = Реҷаи ислоҳкунии хатоҳои USB-ро дар менюи барномасози Android фаъол намоед.
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug-firefox2 = Реҷаи ислоҳкунии хатоҳои USB-ро ба воситаи Firefox дар дастгоҳи Android фаъол намоед.
 # Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
 # The link goes to https://developer.mozilla.org/docs/Tools/Remote_Debugging/Debugging_over_USB
 about-debugging-setup-usb-troubleshoot = Ҳангоми пайвастшавӣ ба дастгоҳи USB мушкилӣ мекашед? <a>Ислоҳи нуқсонҳо</a>
