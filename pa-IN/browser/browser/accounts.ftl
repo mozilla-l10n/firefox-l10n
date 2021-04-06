@@ -8,3 +8,6 @@ account-finish-account-setup = ਖਾਤਾ ਸੈਟਅੱਪ ਪੂਰਾ ਹ�
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-reconnect-to-fxa = ਖਾਤਾ ਡਿਸ-ਕਨੈਕਟ ਹੈ
+# Used as the FxA toolbar menu item title when the user
+# needs to reconnect their account.
+account-disconnected = ਤੁਸੀਂ ਡਿਸ-ਕਨੈਕਟ ਹੋ ਚੁੱਕੇ ਹੋ

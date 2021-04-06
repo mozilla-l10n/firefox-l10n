@@ -264,11 +264,15 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = ਬੁੱਕਮਾਰਕ ਜੋੜੋ
+bookmarks-edit-bookmark = ਬੁੱਕਮਾਰਕ ਸੋਧੋ
 bookmark-panel-show-editor-checkbox =
     .label = ਸੰਭਾਲਣ ‘ਤੇ ਸੰਪਾਦਕ ਵੇਖੋ
     .accesskey = S
 bookmark-panel-done-button =
     .label = ਮੁਕੰਮਲ
+bookmark-panel-save-button =
+    .label = ਸੰਭਾਲੋ
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.

@@ -19,6 +19,20 @@ newtab-search-box-search-button =
     .title = ਖੋਜ
     .aria-label = ਖੋਜ
 newtab-search-box-search-the-web-text = ਵੈੱਬ ਨੂੰ ਖੋਜੋ
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-text = { $engine } ਨਾਲ ਖੋਜੋ ਜਾਂ ਸਿਰਨਾਵਾਂ ਦਿਓ
+newtab-search-box-handoff-text-no-engine = ਖੋਜੋ ਜਾਂ ਸਿਰਨਾਵਾਂ ਦਿਓ
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-input =
+    .placeholder = { $engine } ਨਾਲ ਖੋਜੋ ਜਾਂ ਸਿਰਨਾਵਾਂ ਦਿਓ
+    .title = { $engine } ਨਾਲ ਖੋਜੋ ਜਾਂ ਸਿਰਨਾਵਾਂ ਦਿਓ
+    .aria-label = { $engine } ਨਾਲ ਖੋਜੋ ਜਾਂ ਸਿਰਨਾਵਾਂ ਦਿਓ
+newtab-search-box-handoff-input-no-engine =
+    .placeholder = ਖੋਜੋ ਜਾਂ ਸਿਰਨਾਵਾਂ ਦਿਓ
+    .title = ਖੋਜੋ ਜਾਂ ਸਿਰਨਾਵਾਂ ਦਿਓ
+    .aria-label = ਖੋਜੋ ਜਾਂ ਸਿਰਨਾਵਾਂ ਦਿਓ
 newtab-search-box-search-the-web-input =
     .placeholder = ਵੈੱਬ ਨੂੰ ਖੋਜੋ
     .title = ਵੈੱਬ ਨੂੰ ਖੋਜੋ

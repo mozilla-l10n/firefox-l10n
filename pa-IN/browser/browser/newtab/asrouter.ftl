@@ -206,19 +206,20 @@ cfr-doorhanger-cryptominers-description = ਤੁਹਾਡੀ ਪਰਦੇਦਾ�
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (Number) - The date we began recording the count of blocked trackers
+#   $date (String) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
        *[other] { -brand-short-name } ਨੇ { $date } ਤੱਕ  <b>{ $blockedCount }</b> ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ ਹੈ।!
     }
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Datetime) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading2 =
     { $blockedCount ->
        *[other] { -brand-short-name } ਨੇ { DATETIME($date, month: "long", year: "numeric") } ਤੱਕ <b>{ $blockedCount }</b> ਟਰੈਕਰਾਂ ਉੱਤੇ ਰੋਕ ਲਾਈ ਹੈ!
     }
 cfr-doorhanger-milestone-ok-button = ਸਾਰੇ ਵੇਖੋ
     .accesskey = S
-cfr-doorhanger-milestone-close-button = ਬੰਦ ਕਰੋ
-    .accesskey = C
 
 ## What’s New Panel Content for Firefox 76
 
@@ -243,6 +244,12 @@ cfr-whatsnew-pip-fullscreen-icon-alt = ਤਸਵੀਰ-ਚ-ਤਸਵੀਰ ਆ�
 
 ## Protections Dashboard message
 
+cfr-doorhanger-milestone-close-button = ਬੰਦ ਕਰੋ
+    .accesskey = C
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
+
 cfr-whatsnew-protections-header = ਸੁਰੱਖਿਆ ਲਈ ਪੰਛੀ ਝਾਤ
 cfr-whatsnew-protections-body = ਸੁਰੱਖਿਆ ਡੈਸ਼ਬੋਰਡ ਵਿੱਚ ਡਾਟਾ ਸੰਨ੍ਹ ਲੱਗਣ ਅਤੇ ਪਾਸਵਰਡ ਇੰਤਜ਼ਾਮ ਦੇ ਬਾਰੇ ਰਿਪੋਰਟਾਂ ਦਾ ਸਾਰ ਹੁੰਦਾ ਹੈ। ਤੁਸੀਂ ਹੁਣ ਪਤਾ ਲਗਾ ਸਕਦੇ ਹੋ ਕਿ ਕਿੰਨੀਆਂ ਲੱਗੀਆਂ ਸੰਨ੍ਹ ਨੂੰ ਤੁਸੀਂ ਠੀਕ ਕਰ ਚੁੱਕੇ ਹੋ ਅਤੇ ਇਹ ਵੀ ਵੇਖ ਸਕਦੇ ਹੋ ਕਿ ਤੁਹਾਡੇ ਵਲੋਂ ਸੰਭਾਲੇ ਪਾਸਵਰਡ ਡਾਟਾ ਸੰਨ੍ਹ ਲੱਗਣ ਵਿੱਚ ਨਸ਼ਰ ਹੋ ਚੁੱਕੇ ਹਨ।
 cfr-whatsnew-protections-cta-link = ਸੁਰੱਖਿਆ ਡੈਸ਼ਬੋਰਡ ਨੂੰ ਵੇਖੋ
@@ -258,6 +265,8 @@ cfr-whatsnew-better-pdf-body = ਆਪਣੇ ਕੰਮ ਨੂੰ ਨਿਰੰਤ�
 cfr-doorhanger-doh-body = ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਮਹੱਤਵਪੂਰਨ ਹੈ। ਜਦੋਂ ਤੁਸੀਂ ਬਰਾਊਜ਼ ਕਰਦੇ ਹੋ ਤਾਂ ਤੁਹਾਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖਣ ਲਈ ਹੁਣ { -brand-short-name } ਤੁਹਾਡੀਆਂ DNS ਬੇਨਤੀਆਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਰਾਊਟ ਕਰਦਾ ਹੈ।
 cfr-doorhanger-doh-header = ਵੱਧ ਸੁਰੱਖਿਅਤ, ਇੰਕ੍ਰਿਪਟ ਕੀਤੀ DNS ਖੋਜ
 cfr-doorhanger-doh-primary-button = ਠੀਕ ਹੈ, ਸਮਝ ਗਏ
+    .accesskey = O
+cfr-doorhanger-doh-primary-button-2 = ਠੀਕ ਹੈ
     .accesskey = O
 cfr-doorhanger-doh-secondary-button = ਅਸਮਰੱਥ ਕਰੋ
     .accesskey = D

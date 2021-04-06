@@ -35,18 +35,24 @@ appmenuitem-more-tools =
     .label = ਹੋਰ ਟੂਲ
 appmenuitem-exit =
     .label = ਬਾਹਰ
-appmenuitem-exit2 =
-    .label =
-        { PLATFORM() ->
-            [linux] ਬਾਹਰ
-           *[other] ਬਾਹਰ
-        }
 appmenu-menu-button-closed =
     .tooltiptext = ਐਪਲੀਕੇਸ਼ਨ ਮੇਨੂ ਖੋਲ੍ਹੋ
     .label = { -brand-shorter-name }
 appmenu-menu-button-opened =
     .tooltiptext = ਐਪਲੀਕੇਸ਼ਨ ਮੇਨੂ ਬੰਦ ਕਰੋ
     .label = { -brand-shorter-name }
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] ਬਾਹਰ
+           *[other] ਬਾਹਰ
+        }
+appmenu-menu-button-closed2 =
+    .tooltiptext = ਐਪਲੀਕੇਸ਼ਨ ਮੇਨੂ ਖੋਲ੍ਹੋ
+    .label = { -brand-short-name }
+appmenu-menu-button-opened2 =
+    .tooltiptext = ਐਪਲੀਕੇਸ਼ਨ ਮੇਨੂ ਬੰਦ ਕਰੋ
+    .label = { -brand-short-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -65,6 +71,10 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = ਹੁਣੇ ਸਿੰਕ ਕਰੋ
+appmenu-remote-tabs-sign-into-sync =
+    .label = …ਸਿੰਕ ਕਰਨ ਲਈ ਸਾਈਨ ਇਨ ਕਰੋ
+appmenu-remote-tabs-turn-on-sync =
+    .label = …ਸਿੰਕ ਚਾਲੂ ਕਰੋ
 appmenuitem-fxa-toolbar-sync-now2 = ਹੁਣੇ ਸਿੰਕ ਕਰੋ
 appmenuitem-fxa-manage-account = ਖਾਤੇ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
 appmenu-fxa-header =

@@ -173,6 +173,15 @@ onboarding-multistage-set-default-subtitle = ਜਦੋਂ ਵੀ ਤੁਸੀਂ
 onboarding-multistage-set-default-primary-button-label = ਮੂਲ ਬਣਾਓ
 onboarding-multistage-set-default-secondary-button-label = ਹੁਣੇ ਨਹੀਂ
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-pin-default-header = <span data-l10n-name="zap">{ -brand-short-name }</span> ਬਣਾ ਕੇ ਸ਼ੁਰੂ ਕਰੋ, ਸਿਰਫ਼ ਇੱਕ ਹੀ ਕਲਿੱਕ ਨਾਲ
+onboarding-multistage-pin-default-subtitle = ਜਦੋਂ ਵੀ ਤੁਸੀਂ ਵੈੱਬ ਵਰਤੋਂ ਤਾਂ ਤੇਜ਼, ਸੁਰੱਖਿਅਤ ਅਤੇ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ ਕਰੋ।
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-waiting-subtitle = ਜਦੋਂ ਤੁਸੀਂ ਸੈਟਿੰਗਾਂ ਖੋਲ੍ਹੋ ਤਾਂ ਵੈੱਬ ਬਰਾਊਜ਼ਰ ਦੇ ਹੇਠ { -brand-short-name } ਨੂੰ ਚੁਣੋ
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-help-text = ਇਹ { -brand-short-name } ਨੂੰ ਟਾਸਕ-ਬਾਰ ਵਿੱਚ ਟੰਗੇਗਾ ਅਤੇ ਸੈਟਿੰਗਾਂ ਖੋਲ੍ਹੇਗਾ।
+onboarding-multistage-pin-default-primary-button-label = { -brand-short-name } ਨੂੰ ਮੇਰਾ ਮੁੱਢਲਾ ਬਰਾਊਜ਼ਰ ਬਣਾਓ
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = ਆਪਣੇ ਪਾਸਵਰਡ, <br/>ਬੁੱਕਮਾਰਕ ਅਤੇ <span data-l10n-name="zap">ਹੋਰਾਂ</span> ਨੂੰ ਦਰਾਮਦ ਕਰੋ
 onboarding-multistage-import-subtitle = ਹੋਰ ਬਰਾਊਜ਼ਰ ਨੂੰ ਛੱਡ ਕੇ ਆ ਰਹੇ ਹੋ? { -brand-short-name } ਲਈ ਹਰ ਚੀਜ਼ ਲਿਆਉਣ ਸੌਖੀ ਹੈ।
