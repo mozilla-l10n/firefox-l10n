@@ -12,3 +12,5 @@ fxa-disconnect-dialog-title = { -brand-product-name } असम्बद्ध �
 sync-disconnect-dialog-button = संपर्क तोड़ें
 fxa-menu-connect-another-device =
     .label = दूसरा डिवाइस जोड़ें…
+fxa-menu-sign-out =
+    .label = साइन आउट…
