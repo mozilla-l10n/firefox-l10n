@@ -29,3 +29,7 @@ fxa-menu-sync-settings =
 fxa-menu-turn-on-sync =
     .value = Bật đồng bộ hóa
 fxa-menu-turn-on-sync-default = Bật đồng bộ hóa
+fxa-menu-connect-another-device =
+    .label = Kết nối thiết bị khác…
+fxa-menu-sign-out =
+    .label = Đăng xuất…
