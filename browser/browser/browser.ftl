@@ -284,7 +284,7 @@ bookmark-panel =
 
 identity-connection-not-secure = Povezava ni varna
 identity-connection-secure = Povezava varna
-identity-connection-internal = To je varna stran { -brand-short-name }a.
+identity-connection-internal = To je varna stran { -brand-short-name(sklon: "rodilnik") }.
 identity-connection-file = Ta stran je shranjena na vašem računalniku.
 identity-extension-page = To stran je naložila razširitev.
 identity-active-blocked = { -brand-short-name } je zavrnil dele strani, ki niso varni.
@@ -397,7 +397,7 @@ popup-screen-sharing-not-now =
 popup-screen-sharing-never =
     .label = Nikoli ne dovoli
     .accesskey = N
-popup-silence-notifications-checkbox = Onemogočite obvestila { -brand-short-name }a med deljenjem
+popup-silence-notifications-checkbox = Onemogočite obvestila { -brand-short-name(sklon: "rodilnik") } med deljenjem
 popup-silence-notifications-checkbox-warning = { -brand-short-name } med deljenjem ne bo prikazoval obvestil.
 popup-screen-sharing-block =
     .label = Zavrni
@@ -515,6 +515,13 @@ urlbar-result-action-tabtosearch-web = Iščite z iskalnikom { $engine } neposre
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = Iščite z iskalnikom { $engine } neposredno iz naslovne vrstice
+# Action text for copying to clipboard.
+urlbar-result-action-copy-to-clipboard = Kopiraj
+# Shows the result of a formula expression being calculated, the last = sign will be shown
+# as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result = = { $result }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -633,6 +640,20 @@ save-to-pocket-button =
 
 ## Customize Toolbar Buttons
 
+# Variables:
+#  $shortcut (String): keyboard shortcut to open the add-ons manager
+toolbar-addons-themes-button =
+    .label = Dodatki in teme
+    .tooltiptext = Upravljajte s svojimi dodatki in temami ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open settings (only on macOS)
+toolbar-settings-button =
+    .label = Nastavitve
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Odpri nastavitve ({ $shortcut })
+           *[other] Odpri nastavitve
+        }
 
 ## More items
 
@@ -642,7 +663,7 @@ more-menu-go-offline =
 
 ## EME notification panel
 
-eme-notifications-drm-content-playing = Zvok ali video na tej strani uporablja DRM, kar lahko omejuje delovanje { -brand-short-name }a.
+eme-notifications-drm-content-playing = Zvok ali video na tej strani uporablja DRM, kar lahko omejuje delovanje { -brand-short-name(sklon: "rodilnik") }.
 eme-notifications-drm-content-playing-manage = Upravljanje nastavitev
 eme-notifications-drm-content-playing-manage-accesskey = U
 eme-notifications-drm-content-playing-dismiss = Zapri

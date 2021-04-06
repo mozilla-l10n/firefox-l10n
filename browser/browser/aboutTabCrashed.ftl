@@ -23,5 +23,5 @@ crashed-email-placeholder = Vnesite svoj e-poštni naslov
 crashed-email-me = Obvesti me po e-pošti, ko bo na voljo več informacij
 crashed-report-sent = Poročilo o sesutju je že bilo poslano. Hvala, da pomagate izboljševati { -brand-short-name }!
 crashed-request-auto-submit-title = Poročilo o zavihkih v ozadju
-crashed-auto-submit-checkbox = Posodobite nastavitve za samodejno pošiljanje poročil ob sesutju { -brand-short-name }a.
-crashed-auto-submit-checkbox-2 = Posodobite nastavitve za samodejno pošiljanje poročil ob sesutju { -brand-short-name }a
+crashed-auto-submit-checkbox = Posodobite nastavitve za samodejno pošiljanje poročil ob sesutju { -brand-short-name(sklon: "rodilnik") }.
+crashed-auto-submit-checkbox-2 = Posodobite nastavitve za samodejno pošiljanje poročil ob sesutju { -brand-short-name(sklon: "rodilnik") }
