@@ -45,6 +45,7 @@ appmenu-update-manual2 =
     .buttonaccesskey = T
     .secondarybuttonlabel = Ignorar
     .secondarybuttonaccesskey = n
+appmenu-update-manual-message2 = { -brand-shorter-name } a pas pogut se metre a jorn automaticament. Telecargatz la version novèla — perdretz pas cap d’informacions o personalizacions.
 appmenu-update-unsupported2 =
     .label = Impossible de metre a jorn
     .buttonlabel = Ne saber mai
