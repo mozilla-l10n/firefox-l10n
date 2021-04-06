@@ -569,6 +569,13 @@ urlbar-result-action-tabtosearch-web = Vyhledat pomocí { $engine } přímo z ad
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = Vyhledat na webu { $engine } přímo z adresního řádku
+# Action text for copying to clipboard.
+urlbar-result-action-copy-to-clipboard = Kopírovat
+# Shows the result of a formula expression being calculated, the last = sign will be shown
+# as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result = = { $result }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -690,6 +697,23 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = Uložit do { -pocket-brand-name(case: "gen") }
     .tooltiptext = Uloží stránku do { -pocket-brand-name(case: "gen") }
+
+## Customize Toolbar Buttons
+
+# Variables:
+#  $shortcut (String): keyboard shortcut to open the add-ons manager
+toolbar-addons-themes-button =
+    .label = Doplňky a vzhledy
+    .tooltiptext = Správa doplňků a motivů vzhledu ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open settings (only on macOS)
+toolbar-settings-button =
+    .label = Nastavení
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Otevře nastavení ({ $shortcut })
+           *[other] Otevře nastavení
+        }
 
 ## More items
 

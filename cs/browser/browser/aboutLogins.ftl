@@ -327,6 +327,7 @@ about-logins-import-dialog-error-unable-to-read-description = Ujistěte se, že 
 about-logins-import-dialog-error-no-logins-imported = Nebyly naimportovány žádné přihlašovací údaje
 about-logins-import-dialog-error-learn-more = Zjistit více
 about-logins-import-dialog-error-try-again = Zkusit znovu
+about-logins-import-dialog-error-try-import-again = Zkusit importovat znovu…
 about-logins-import-dialog-error-cancel = Zrušit
 about-logins-import-report-title = Souhrn
 about-logins-import-report-description =
