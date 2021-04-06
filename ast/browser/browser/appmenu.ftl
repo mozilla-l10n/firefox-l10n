@@ -57,6 +57,7 @@ appmenuitem-fxa-toolbar-sync-now2 = Sincronizar agora
 appmenuitem-fxa-manage-account = Xestionar la cuenta
 appmenu-fxa-header =
     .title = { -fxaccount-brand-name }
+appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-fxa-sync-and-save-data =
     .value = Sincroniza y guarda datos
 appmenu-fxa-sync-and-save-data2 = Sincroniza y guarda datos
