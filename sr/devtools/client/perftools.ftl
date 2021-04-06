@@ -12,6 +12,7 @@
 
 perftools-heading-settings = Сва подешавања
 perftools-heading-buffer = Подешавања бафера
+perftools-heading-features = Функције
 
 ##
 
