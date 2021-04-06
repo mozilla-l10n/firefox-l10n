@@ -86,6 +86,7 @@ appmenu-fxa-last-sync = Ñembojuehe ipyahuvéva { $time }
     .label = Ñembojuehe ipyahuvéva { $time }
 appmenu-fxa-sync-and-save-data =
     .value = Embojuehe ha eñongatu mba’ekuaarã
+appmenu-fxa-sync-and-save-data2 = Embojuehe ha eñongatu mba’ekuaarã
 appmenu-fxa-signed-in-label = Tembiapo ñepyrũ
 appmenu-fxa-setup-sync =
     .label = Emyandy ñembojuehe…
