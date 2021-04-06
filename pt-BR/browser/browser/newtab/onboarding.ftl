@@ -78,7 +78,7 @@ onboarding-benefit-products-text = Faça as coisas com uma família de ferrament
 # Firefox Personal Data Promise is the way we honor your data in everything we
 # make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
-onboarding-benefit-privacy-text = Tudo o que fazemos honra nossa promessa de como lidar com dados pessoais: Coletar pouco. Manter seguro. Sem segredos.
+onboarding-benefit-privacy-text = Tudo o que fazemos honra nosso compromisso de como lidar com dados pessoais: Coletar pouco. Manter seguro. Sem segredos.
 onboarding-benefit-sync-title = { -sync-brand-short-name }
 onboarding-benefit-sync-text = Tenha seus favoritos, senhas, histórico e muito mais onde quer que use o { -brand-product-name }.
 onboarding-benefit-monitor-title = { -monitor-brand-short-name }
