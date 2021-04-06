@@ -35,18 +35,18 @@ appmenuitem-more-tools =
     .label = Wiyncyj noczyń
 appmenuitem-exit =
     .label = Skōńcz
-appmenuitem-exit2 =
-    .label =
-        { PLATFORM() ->
-            [linux] Skōńcz
-           *[other] Skōńcz
-        }
 appmenu-menu-button-closed =
     .tooltiptext = Ôdewrzij myni aplikacyje
     .label = { -brand-shorter-name }
 appmenu-menu-button-opened =
     .tooltiptext = Zawrzij myni aplikacyje
     .label = { -brand-shorter-name }
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Skōńcz
+           *[other] Skōńcz
+        }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -76,6 +76,7 @@ appmenu-fxa-last-sync = Ôstatnio synchrōnizowane { $time }
     .label = Ôstatnio synchrōnizowane { $time }
 appmenu-fxa-sync-and-save-data =
     .value = Synchrōnizuj i spamiyntej dane
+appmenu-fxa-sync-and-save-data2 = Synchrōnizuj i spamiyntej dane
 appmenu-fxa-signed-in-label = Wloguj
 appmenu-fxa-setup-sync =
     .label = Załōncz synchronizacyjo…
