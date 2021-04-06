@@ -536,6 +536,11 @@ urlbar-result-action-tabtosearch-web = Cercar amb { $engine } dirèctament dins 
 urlbar-result-action-tabtosearch-other-engine = Cercar dins { $engine } dirèctament dins la barra d’adreça
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = Copiar
+# Shows the result of a formula expression being calculated, the last = sign will be shown
+# as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result = = { $result }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -654,6 +659,20 @@ save-to-pocket-button =
 
 ## Customize Toolbar Buttons
 
+# Variables:
+#  $shortcut (String): keyboard shortcut to open the add-ons manager
+toolbar-addons-themes-button =
+    .label = Moduls complementaris e tèmas
+    .tooltiptext = Gerissètz los moduls e los tèmas ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open settings (only on macOS)
+toolbar-settings-button =
+    .label = Paramètres
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Dobrir los paramètres ({ $shortcut })
+           *[other] Dobrir los paramètres
+        }
 
 ## More items
 
