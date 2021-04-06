@@ -18,6 +18,7 @@
 <!ENTITY moveHereMenu.accesskey      "s">
 <!ENTITY moveButton.label            "Premakni v">
 <!ENTITY moveButton.accesskey        "v">
+<!ENTITY goToFolderButton.label      "Odpri mapo s sporočilom">
 
 <!-- for ABSearchDialog.xul -->
 <!ENTITY abSearchHeading.label       "Išči v:">
