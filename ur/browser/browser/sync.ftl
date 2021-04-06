@@ -17,5 +17,7 @@ fxa-signout-dialog =
     .title = { -fxaccount-brand-name } سے سائن اوٹ کریں؟
     .style = min-width: 375px;
     .buttonlabelaccept = سائن آؤٹ کریں
+fxa-menu-connect-another-device =
+    .label = ایک اور آلہ جوڑیں…
 fxa-menu-sign-out =
     .label = سائن آؤٹ…
