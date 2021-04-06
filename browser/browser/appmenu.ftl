@@ -79,6 +79,7 @@ appmenuitem-fxa-toolbar-sync-now2 = Sinchronizuoti dabar
 appmenuitem-fxa-manage-account = Tvarkyti paskyrą
 appmenu-fxa-header =
     .title = „{ -fxaccount-brand-name }“ paskyra
+appmenu-fxa-header2 = „{ -fxaccount-brand-name }“ paskyra
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
