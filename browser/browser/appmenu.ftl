@@ -86,6 +86,7 @@ appmenu-fxa-last-sync = Đồng bộ hóa lần cuối { $time }
     .label = Đồng bộ hóa lần cuối { $time }
 appmenu-fxa-sync-and-save-data =
     .value = Đồng bộ hóa và lưu dữ liệu
+appmenu-fxa-sync-and-save-data2 = Đồng bộ hóa và lưu dữ liệu
 appmenu-fxa-signed-in-label = Đăng nhập
 appmenu-fxa-setup-sync =
     .label = Bật đồng bộ hóa…
