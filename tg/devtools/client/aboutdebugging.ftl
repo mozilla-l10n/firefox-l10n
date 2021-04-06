@@ -99,6 +99,8 @@ about-debugging-setup-usb-step-enable-dev-menu2 = Менюи барномасо�
 about-debugging-setup-usb-step-enable-debug2 = Реҷаи ислоҳкунии хатоҳои USB-ро дар менюи барномасози Android фаъол намоед.
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-debug-firefox2 = Реҷаи ислоҳкунии хатоҳои USB-ро ба воситаи Firefox дар дастгоҳи Android фаъол намоед.
+# USB section step by step guide
+about-debugging-setup-usb-step-plug-device = Дастгоҳи Android-ро ба компютери худ пайваст намоед.
 # Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
 # The link goes to https://developer.mozilla.org/docs/Tools/Remote_Debugging/Debugging_over_USB
 about-debugging-setup-usb-troubleshoot = Ҳангоми пайвастшавӣ ба дастгоҳи USB мушкилӣ мекашед? <a>Ислоҳи нуқсонҳо</a>
@@ -127,6 +129,24 @@ about-debugging-network-location-form-duplicate = Мизбони «{ $host-value
 
 # Runtime Page strings
 
+# Below are the titles for the various categories of debug targets that can be found
+# on "runtime" pages of about:debugging.
+# Title of the temporary extensions category (only available for "This Firefox" runtime).
+about-debugging-runtime-temporary-extensions =
+    .name = Васеъшавиҳои муваққатӣ
+# Title of the extensions category.
+about-debugging-runtime-extensions =
+    .name = Васеъшавиҳо
+# Title of the tabs category.
+about-debugging-runtime-tabs =
+    .name = Варақаҳо
+# Title of the processes category.
+about-debugging-runtime-processes =
+    .name = Равандҳо
+# Displayed for runtime info in runtime pages.
+# { $name } is brand name such as "Firefox Nightly"
+# { $version } is version such as "64.0a1"
+about-debugging-runtime-name = { $name } ({ $version })
 # Text of a button displayed in Runtime pages for remote runtimes.
 # Clicking on the button will close the connection to the runtime.
 about-debugging-runtime-disconnect-button = Қатъ кардани пайваст
@@ -140,9 +160,25 @@ about-debugging-connection-prompt-disable-button = Ғайрифаъол кард
 # Debug Targets strings
 
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
+# Clicking on the button will reload the extension.
+about-debugging-tmp-extension-reload-button = Аз нав бор кардан
+# Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
 # Clicking on the button will uninstall the extension and remove it from the page.
 about-debugging-tmp-extension-remove-button = Тоза кардан
+# Text displayed for extensions in "runtime" pages, before displaying the extension's uuid.
+# UUIDs look like b293e463-481e-5148-a487-5aaf7a130429
+about-debugging-extension-uuid =
+    .label = UUID-и дохилӣ
 # Text displayed for extensions (temporary extensions only) in "runtime" pages, before
 # displaying the location of the temporary extension.
 about-debugging-extension-location =
     .label = Ҷойгиршавӣ
+# Displayed as name for the Main Process debug target in the Processes category. Only for
+# remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
+about-debugging-main-process-name = Раванди асосӣ
+# Label text used for the error details of message component.
+about-debugging-message-details-label-error = Тафсилоти хато
+# Label text used for the warning details of message component.
+about-debugging-message-details-label-warning = Тафсилоти огоҳӣ
+# Label text used for default state of details of message component.
+about-debugging-message-details-label = Тафсилот

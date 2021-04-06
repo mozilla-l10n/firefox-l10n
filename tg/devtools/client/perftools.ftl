@@ -10,6 +10,10 @@
 
 ## All of the headings for the various sections.
 
+perftools-heading-settings = Танзимоти пурра
+perftools-heading-buffer = Танзимоти буфер
+perftools-heading-features = Хусусиятҳо
+perftools-heading-features-disabled = Хусусиятҳои ғайрифаъол
 
 ##
 
