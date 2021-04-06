@@ -12,3 +12,7 @@ sync-disconnect-dialog-body = { -brand-product-name } կդադարի համաժ�
 fxa-disconnect-dialog-title = Անջատե՞լ { -brand-product-name }-ը։
 fxa-disconnect-dialog-body = { -brand-product-name } անջատվելու է ձեր հաշվից, բայց չի ջնջվի այս սարքի ձեր զննարկման որևէ տվյալ։
 sync-disconnect-dialog-button = Կապախզել
+fxa-menu-connect-another-device =
+    .label = Կապակցել այլ սարք...
+fxa-menu-sign-out =
+    .label = Դուրս գալ…
