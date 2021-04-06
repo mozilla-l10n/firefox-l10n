@@ -19,6 +19,10 @@ newtab-search-box-search-button =
     .title = Iskanje
     .aria-label = Iskanje
 newtab-search-box-search-the-web-text = Iskanje po spletu
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-text = Iščite z iskalnikom { $engine } ali vnesite naslov
+newtab-search-box-handoff-text-no-engine = Iskanje ali naslov strani
 newtab-search-box-search-the-web-input =
     .placeholder = Iskanje po spletu
     .title = Iskanje po spletu
