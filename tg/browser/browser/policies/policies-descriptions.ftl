@@ -11,6 +11,8 @@
 ## in the documentation section in about:policies.
 
 policy-DisablePrivateBrowsing = Тамошокунии махфиро ғайрифаъол мекунад.
+policy-DNSOverHTTPS = Танзим кардани DNS тавассути HTTPS.
+policy-FirefoxHome = Танзим кардани саҳифаи асосии Firefox.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 

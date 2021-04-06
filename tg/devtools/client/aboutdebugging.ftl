@@ -8,6 +8,11 @@
 
 # Page Title strings
 
+# Page title (ie tab title) for the Setup page
+about-debugging-page-title-setup-page = Ислоҳ кардани хатоҳо - Танзимот
+# Page title (ie tab title) for the Runtime page
+# { $selectedRuntimeId } is the id of the current runtime, such as "this-firefox", "localhost:6080", ...
+about-debugging-page-title-runtime-page = Ислоҳ кардани хатоҳо - Вақти иҷро / { $selectedRuntimeId }
 
 # Sidebar strings
 
@@ -20,14 +25,36 @@ about-debugging-sidebar-this-firefox =
 # Sidebar heading for connecting to some remote source
 about-debugging-sidebar-setup =
     .name = Танзимкунӣ
+# Text displayed in the about:debugging sidebar when USB devices discovery is enabled.
+about-debugging-sidebar-usb-enabled = USB фаъол аст
+# Text displayed in the about:debugging sidebar when USB devices discovery is disabled
+# (for instance because the mandatory ADB extension is not installed).
+about-debugging-sidebar-usb-disabled = USB ғайрифаъол аст
 # Connection status (connected) for runtime items in the sidebar
 aboutdebugging-sidebar-runtime-connection-status-connected = Пайваст шуд
 # Connection status (disconnected) for runtime items in the sidebar
 aboutdebugging-sidebar-runtime-connection-status-disconnected = Пайваст қатъ карда шуд
+# Text displayed in the about:debugging sidebar when no device was found.
+about-debugging-sidebar-no-devices = Ягон дастгоҳ ёфт нашуд
+# Text displayed in buttons found in sidebar items representing remote runtimes.
+# Clicking on the button will attempt to connect to the runtime.
+about-debugging-sidebar-item-connect-button = Пайваст кардан
+# Text displayed in buttons found in sidebar items when the runtime is connecting.
+about-debugging-sidebar-item-connect-button-connecting = Пайваст мешавад…
 # Text displayed in buttons found in sidebar items when the connection failed.
 about-debugging-sidebar-item-connect-button-connection-failed = Пайваст нашуд
 # Text displayed as connection error in sidebar item when the connection has timed out.
 about-debugging-sidebar-item-connect-button-connection-timeout = Вақти пайвастшавӣ ба анҷом расид
+# Temporary text displayed in sidebar items representing remote runtimes after
+# successfully connecting to them. Temporary UI, do not localize.
+about-debugging-sidebar-item-connected-label = Пайваст шуд
+# Text displayed in sidebar items for remote devices where a compatible browser (eg
+# Firefox) has not been detected yet. Typically, Android phones connected via USB with
+# USB debugging enabled, but where Firefox is not started.
+about-debugging-sidebar-runtime-item-waiting-for-browser = Дар интизори браузер…
+# Text displayed in sidebar items for remote devices that have been disconnected from the
+# computer.
+about-debugging-sidebar-runtime-item-unplugged = Ҷудо шуд
 # Title for runtime sidebar items that are related to a specific device (USB, WiFi).
 about-debugging-sidebar-runtime-item-name =
     .title = { $displayName } ({ $deviceName })
@@ -42,9 +69,34 @@ about-debugging-sidebar-support = Дастгирии ислоҳи нуқсонҳ
 # debugging link in the footer of the sidebar
 about-debugging-sidebar-support-icon =
     .alt = Нишони кумак
+# Text displayed in a sidebar button to refresh the list of USB devices. Clicking on it
+# will attempt to update the list of devices displayed in the sidebar.
+about-debugging-refresh-usb-devices-button = Навкунии рӯйхати дастгоҳҳо
 
 # Setup Page strings
 
+# Title of the Setup page.
+about-debugging-setup-title = Танзимот
+# Title of the heading Connect section of the Setup page.
+about-debugging-setup-connect-heading = Дастгоҳеро пайваст намоед
+# USB section of the Setup page
+about-debugging-setup-usb-title = USB
+# Text of the button displayed in the USB section of the setup page when USB debugging is disabled.
+# Clicking on it will download components needed to debug USB Devices remotely.
+about-debugging-setup-usb-enable-button = Фаъол кардани дастгоҳҳои USB
+# Text of the button displayed in the USB section of the setup page when USB debugging is enabled.
+about-debugging-setup-usb-disable-button = Ғайрифаъол кардани дастгоҳҳои USB
+# Text of the button displayed in the USB section of the setup page while USB debugging
+# components are downloaded and installed.
+about-debugging-setup-usb-updating-button = Нав шуда истодааст…
+# USB section of the Setup page (USB status)
+about-debugging-setup-usb-status-enabled = Фаъол аст
+about-debugging-setup-usb-status-disabled = Ғайрифаъол аст
+about-debugging-setup-usb-status-updating = Нав шуда истодааст…
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-dev-menu2 = Менюи барномасозро дар дастгоҳи Android-и худ фаъол намоед.
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug2 = Реҷаи ислоҳкунии хатоҳои USB-ро дар менюи барномасози Android фаъол намоед.
 # Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
 # The link goes to https://developer.mozilla.org/docs/Tools/Remote_Debugging/Debugging_over_USB
 about-debugging-setup-usb-troubleshoot = Ҳангоми пайвастшавӣ ба дастгоҳи USB мушкилӣ мекашед? <a>Ислоҳи нуқсонҳо</a>
