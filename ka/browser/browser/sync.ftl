@@ -29,3 +29,7 @@ fxa-menu-sync-settings =
 fxa-menu-turn-on-sync =
     .value = დასინქრონების ჩართვა
 fxa-menu-turn-on-sync-default = დასინქრონების ჩართვა
+fxa-menu-connect-another-device =
+    .label = სხვა მოწყობილობის დაკავშირება…
+fxa-menu-sign-out =
+    .label = გამოსვლა…
