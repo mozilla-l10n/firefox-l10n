@@ -86,6 +86,7 @@ appmenu-fxa-last-sync = Ruk'isib'äl ximoj { $time }
     .label = Ruk'isib'äl ximoj { $time }
 appmenu-fxa-sync-and-save-data =
     .value = Tixim chuqa' Tiyak Tzij
+appmenu-fxa-sync-and-save-data2 = Tixim chuqa' Tiyak Tzij
 appmenu-fxa-signed-in-label = Titikirisäx Molojri'ïl
 appmenu-fxa-setup-sync =
     .label = Titzij Ximoj…
