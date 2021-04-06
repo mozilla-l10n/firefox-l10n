@@ -23,3 +23,7 @@ fxa-signout-dialog =
     .buttonlabelaccept = Ofmelde
 fxa-signout-dialog2-button = Ofmelde
 fxa-signout-dialog2-checkbox = Gegevens (wachtwurden, skiednis, blêdwizers, ensfh.) fan dit apparaat fuortsmite
+fxa-menu-connect-another-device =
+    .label = In oar apparaat ferbine…
+fxa-menu-sign-out =
+    .label = Ofmelde…
