@@ -20,3 +20,7 @@ fxa-signout-dialog =
     .title = Deconectează-te din { -fxaccount-brand-name }
     .style = min-width: 375px;
     .buttonlabelaccept = Deconectează-te
+fxa-menu-connect-another-device =
+    .label = Conectează alt dispozitiv…
+fxa-menu-sign-out =
+    .label = Deconectează-te…
