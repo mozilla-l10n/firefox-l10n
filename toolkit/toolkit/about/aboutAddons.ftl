@@ -21,6 +21,19 @@ sidebar-preferences-button-title =
 addons-settings-button = Axustes de { -brand-short-name }
 sidebar-settings-button-title =
     .title = Axustes de { -brand-short-name }
+cmd-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Opciones
+           *[other] Preferencies
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
+        }
+detail-version =
+    .label = Versión
 detail-last-updated =
     .label = Últimu anovamientu
 detail-home-value =
@@ -115,6 +128,8 @@ discopane-intro =
     desendolcaos por terceros. Equí hai una esbilla que { -brand-product-name }
     <a data-l10n-name="learn-more-trigger">aconseya</a> pa consiguir un nivel
     esceicional de seguranza, rindimientu y funcionalidá.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations = Dalgunes d'estes recomendaciones son personalizaes. Básense n'otres estensiones qu'instalesti, les preferencies del perfil y les estadístiques d'usu.
 discopane-notice-learn-more = Lleer más
 privacy-policy = Política de privacidá
 # Refers to the author of an add-on, shown below the name of the add-on.
@@ -124,6 +139,7 @@ created-by-author = por <a data-l10n-name="author">{ $author }</a>
 # The label of the button that appears after installing an add-on. Upon click,
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Xestionar
+find-more-addons = Atopar más complementos
 # This is a label for the button to open the "more options" menu, it is only
 # used for screen readers.
 addon-options-button =
@@ -146,6 +162,8 @@ preferences-addon-button =
     }
 details-addon-button = Detalles
 permissions-addon-button = Permisos
+always-activate-button = Activar siempres
+never-activate-button = Nun activar enxamás
 addon-detail-version-label = Versión
 addon-detail-last-updated-label = Últimu anovamientu
 addon-detail-rating-label = Valoración
@@ -186,3 +204,4 @@ dictionary-heading = Xestiona los diccionarios
 locale-heading = Xestión de llingües
 updates-heading = Xestiona los anovamientos
 discover-heading = Personaliza { -brand-short-name }
+default-heading-search-label = Atopa más complementos
