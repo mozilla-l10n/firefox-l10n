@@ -28,6 +28,18 @@ search-input-box =
             [windows] Cerca en les opcions
            *[other] Cerca en les preferències
         }
+settings-page-title = Paràmetres
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box2 =
+    .style = width: 15.4em
+    .placeholder = Cerca en els paràmetres
 managed-notice = El navegador està gestionat per la vostra organització.
 category-list =
     .aria-label = Categories
@@ -52,6 +64,7 @@ category-experimental =
 pane-experimental-subtitle = Aneu amb compte
 pane-experimental-search-results-header = Experiments del { -brand-short-name }: Aneu amb compte
 pane-experimental-description = La modificació de les preferències avançades de configuració pot afectar el rendiment o la seguretat del { -brand-short-name }.
+pane-experimental-description2 = La modificació dels paràmetres avançats de configuració pot afectar el rendiment o la seguretat del { -brand-short-name }.
 pane-experimental-reset =
     .label = Restaura els valors per defecte
     .accesskey = R
@@ -121,6 +134,8 @@ search-results-empty-message =
         [windows] No s'ha trobat «<span data-l10n-name="query"></span>» a les opcions.
        *[other] No s'ha trobat «<span data-l10n-name="query"></span>» a les preferències.
     }
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 = No s'ha trobat «<span data-l10n-name="query"></span>» als paràmetres.
 search-results-help-link = Necessiteu ajuda? Visiteu l'<a data-l10n-name="url">assistència del { -brand-short-name }</a>
 
 ## General Section
@@ -369,6 +384,9 @@ update-application-check-choose =
 update-application-manual =
     .label = No cerquis mai actualitzacions (no recomanat)
     .accesskey = N
+update-application-background-enabled =
+    .label = Quan el { -brand-short-name } no s'estigui executant
+    .accesskey = Q
 update-application-warning-cross-user-setting = Aquest paràmetre s'aplicarà a tots els comptes del Windows i perfils del { -brand-short-name } que utilitzin aquesta instal·lació del { -brand-short-name }.
 update-application-use-service =
     .label = Instal·la les actualitzacions en segon pla
@@ -380,6 +398,15 @@ update-setting-write-failure-title = Error en desar les preferències d'actualit
 # intentional so the path is easier to identify.
 update-setting-write-failure-message =
     El { -brand-short-name } ha trobat un error i no ha desat aquest canvi. Tingueu en compte que, per definir aquesta preferència d'actualització, necessiteu permís per escriure al fitxer següent. Podeu resoldre l’error, o un administrador del sistema, concedint al grup «Usuaris» el control total d'aquest fitxer.
+    
+    No s'ha pogut escriure al fitxer: { $path }
+update-setting-write-failure-title2 = Error en desar els paràmetres d'actualització
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message2 =
+    El { -brand-short-name } ha trobat un error i no ha desat aquest canvi. Tingueu en compte que, per canviar aquest paràmetre d'actualització, necessiteu permís per escriure al fitxer següent. Podeu resoldre l’error, o un administrador del sistema, concedint al grup «Usuaris» el control total d'aquest fitxer.
     
     No s'ha pogut escriure al fitxer: { $path }
 update-in-progress-title = Actualització en curs
@@ -579,6 +606,7 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Mostra suggeriments de cerca en les finestres privades
 suggestions-addressbar-settings-generic = Canvia les preferències d'altres suggeriments de la barra d'adreces
+suggestions-addressbar-settings-generic2 = Canvia els paràmetres d'altres suggeriments de la barra d'adreces
 search-suggestions-cant-show = No es mostraran suggeriments de cerca als resultats de la barra d'ubicació perquè heu configurat el { -brand-short-name } per tal que no recordi mai l'historial.
 search-one-click-header = Motors de cerca amb un sol clic
 search-one-click-header2 = Dreceres de cerca
@@ -613,6 +641,8 @@ containers-back-button =
             [windows] Torna a les opcions
            *[other] Torna a les preferències
         }
+containers-back-button2 =
+    .aria-label = Torna als paràmetres
 containers-header = Pestanyes de contenidor
 containers-add-button =
     .label = Afegeix un contenidor nou
@@ -622,6 +652,8 @@ containers-new-tab-check =
     .accesskey = S
 containers-preferences-button =
     .label = Preferències
+containers-settings-button =
+    .label = Paràmetres
 containers-remove-button =
     .label = Elimina
 
@@ -633,6 +665,7 @@ sync-signedout-description = Sincronitzeu les vostres adreces d'interès, histor
 sync-signedout-account-signin2 =
     .label = Inicia la sessió al { -sync-brand-short-name }…
     .accesskey = I
+sync-signedout-description2 = Sincronitzeu les vostres adreces d'interès, historial, pestanyes, contrasenyes, complements i paràmetres en tots els vostres dispositius.
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -672,6 +705,7 @@ prefs-sync-setup =
     .label = Configura el { -sync-brand-short-name }…
     .accesskey = C
 prefs-sync-offer-setup-label = Sincronitzeu les vostres adreces d'interès, historial, pestanyes, contrasenyes, complements i preferències en tots els vostres dispositius.
+prefs-sync-offer-setup-label2 = Sincronitzeu les vostres adreces d'interès, historial, pestanyes, contrasenyes, complements i paràmetres en tots els vostres dispositius.
 prefs-sync-now =
     .labelnotsyncing = Sincronitza ara
     .accesskeynotsyncing = S
@@ -692,6 +726,7 @@ sync-currently-syncing-prefs =
         [windows] Opcions
        *[other] Preferències
     }
+sync-currently-syncing-settings = Paràmetres
 sync-change-options =
     .label = Canvia…
     .accesskey = C
@@ -739,6 +774,10 @@ sync-engine-prefs =
         }
     .tooltiptext = Paràmetres generals, de privadesa i de seguretat que heu canviat
     .accesskey = s
+sync-engine-settings =
+    .label = Paràmetres
+    .tooltiptext = Paràmetres generals, de privadesa i de seguretat que heu canviat
+    .accesskey = P
 
 ## The device name controls.
 
@@ -1153,6 +1192,9 @@ space-alert-under-5gb-ok-button =
     .label = Entesos
     .accesskey = n
 space-alert-under-5gb-message = El { -brand-short-name } s'està quedant sense espai de disc. És possible que el contingut dels llocs web no es mostri correctament. Vegeu «Més informació» per optimitzar l'ús de disc i millorar l'experiència de navegació.
+space-alert-over-5gb-settings-button =
+    .label = Obre els paràmetres
+    .accesskey = O
 
 ## Privacy Section - HTTPS-Only
 

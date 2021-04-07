@@ -172,7 +172,15 @@ onboarding-multistage-set-default-header = Feu que el { -brand-short-name } sigu
 onboarding-multistage-set-default-subtitle = Velocitat, seguretat i privadesa sempre que navegueu.
 onboarding-multistage-set-default-primary-button-label = Fes que sigui el navegador per defecte
 onboarding-multistage-set-default-secondary-button-label = Ara no
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-pin-default-header = Per començar, feu que el <span data-l10n-name="zap">{ -brand-short-name }</span> estigui a un sol clic
 onboarding-multistage-pin-default-subtitle = Navegació ràpida, segura i privada cada vegada que utilitzeu el web.
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-waiting-subtitle = Quan s'obrin els paràmetres, trieu el { -brand-short-name } com a navegador web
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-help-text = Això fixarà el { -brand-short-name } a la barra de tasques i obrirà els paràmetres
+onboarding-multistage-pin-default-primary-button-label = Fes que el { -brand-short-name } sigui el meu navegador principal
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Importeu les vostres contrasenyes, <br/>adreces d'interès i <span data-l10n-name = "zap">més</span>
