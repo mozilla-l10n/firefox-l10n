@@ -154,8 +154,8 @@ media-capabilities-enumerate = Попис уноса базе података
 
 intl-title = Интернационализација и локализација
 intl-app-title = Подешавања програма
-intl-locales-requested = Захтевани локали
-intl-locales-available = Доступни локали
+intl-locales-requested = Захтевани језици
+intl-locales-available = Доступни језици
 intl-locales-supported = Језици програма
 intl-locales-default = Подразумевани локал
 intl-os-title = Оперативни систем
