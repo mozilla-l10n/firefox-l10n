@@ -1,0 +1,30 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY pref.popups.title              "Pojavna okna">
+
+<!ENTITY pref.popups.caption            "Pojavna okna">
+
+<!ENTITY popupBlock.label               "Zavrni nezahtevana pojavna okna">
+<!ENTITY popupBlock.accesskey           "Z">
+
+<!ENTITY viewPermissions.label          "Upravljanje dovoljenj">
+<!ENTITY viewPermissions.accesskey      "U">
+
+<!ENTITY playSound.label                "Predvajaj zvok:">
+<!ENTITY playSound.accesskey            "P">
+<!ENTITY systemSound.label              "Sistemski pisk">
+<!ENTITY systemSound.accesskey          "S">
+<!ENTITY customSound.label              "Zvočno datoteko po meri">
+<!ENTITY customSound.accesskey          "m">
+
+<!ENTITY selectSound.label              "Prebrskaj …">
+<!ENTITY selectSound.accesskey          "b">
+<!ENTITY playSoundButton.label          "Predvajaj">
+<!ENTITY playSoundButton.accesskey      "d">
+
+<!ENTITY displayIcon.label              "Prikaži ikono v brskalnikovi vrstici stanja">
+<!ENTITY displayIcon.accesskey          "i">
+
+
