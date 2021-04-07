@@ -523,6 +523,13 @@ urlbar-result-action-tabtosearch-web = Tìm kiếm với { $engine } trực ti�
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = Tìm kiếm { $engine } trực tiếp từ thanh địa chỉ
+# Action text for copying to clipboard.
+urlbar-result-action-copy-to-clipboard = Sao chép
+# Shows the result of a formula expression being calculated, the last = sign will be shown
+# as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result = = { $result }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -638,6 +645,23 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = Lưu vào { -pocket-brand-name }
     .tooltiptext = Lưu vào { -pocket-brand-name }
+
+## Customize Toolbar Buttons
+
+# Variables:
+#  $shortcut (String): keyboard shortcut to open the add-ons manager
+toolbar-addons-themes-button =
+    .label = Tiện ích mở rộng và chủ đề
+    .tooltiptext = Quản lý các tiện ích mở rộng và chủ đề của bạn ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open settings (only on macOS)
+toolbar-settings-button =
+    .label = Cài đặt
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Mở cài đặt ({ $shortcut })
+           *[other] Mở cài đặt
+        }
 
 ## More items
 
