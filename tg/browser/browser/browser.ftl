@@ -464,6 +464,13 @@ urlbar-result-action-search-w-engine = Ҷустуҷӯ тавассути { $engi
 urlbar-result-action-sponsored = Сарпарастӣ
 urlbar-result-action-switch-tab = Ба варақа гузаштан
 urlbar-result-action-visit = Боздид
+# Action text for copying to clipboard.
+urlbar-result-action-copy-to-clipboard = Нусха бардоштан
+# Shows the result of a formula expression being calculated, the last = sign will be shown
+# as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result = = { $result }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -573,6 +580,23 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = Нигоҳ доштан ба { -pocket-brand-name }
     .tooltiptext = Нигоҳ доштан ба { -pocket-brand-name }
+
+## Customize Toolbar Buttons
+
+# Variables:
+#  $shortcut (String): keyboard shortcut to open the add-ons manager
+toolbar-addons-themes-button =
+    .label = Ҷузъҳои иловагӣ ва мавзӯъҳо
+    .tooltiptext = Ҷузъҳои иловагӣ ва мавзӯъҳои худро идора кунед ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open settings (only on macOS)
+toolbar-settings-button =
+    .label = Танзимот
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Кушодани танзимот ({ $shortcut })
+           *[other] Кушодани танзимот
+        }
 
 ## More items
 
