@@ -9,7 +9,20 @@
 <!ENTITY systemPrefCheck.label            "Uporabi nastavitve sistema">
 <!ENTITY systemPref.desc                  "S to možnostjo &brandShortName; podeduje nastavitve iz sistema. Sistemske nastavitve bodo preglasile nastavitve programa &brandShortName;.">
 
+<!ENTITY prefCheckDefault.caption         "Vključitev v sistem">
+<!ENTITY prefCheckDefaultClient.label     "Ob zagonu preveri nastavitve privzetih programov">
+<!ENTITY prefCheckDefaultClient.accesskey "r">
 
 <!ENTITY printing.label                   "Tiskanje">
+<!ENTITY useNativePrintDialog.label       "Uporabi sistemsko pogovorno okno tiskanja (kjer je podprto)">
+<!ENTITY useNativePrintDialog.accesskey   "U">
 
+<!ENTITY crashReports.caption             "Poročanje o sesutjih">
+<!ENTITY submitCrashes.label              "Pošiljaj poročila o sesutjih">
+<!ENTITY submitCrashes.accesskey          "š">
 
+<!ENTITY devTools.caption                 "Razvojna orodja">
+<!ENTITY allowDebugger.label              "Dovoli razhroščevalniku, da se poveže s &brandShortName;jem">
+<!ENTITY allowDebugger.accesskey          "D">
+<!ENTITY allowRemoteConnections.label     "Dovoli povezave iz ostalih računalnikov">
+<!ENTITY allowRemoteConnections.accesskey "o">

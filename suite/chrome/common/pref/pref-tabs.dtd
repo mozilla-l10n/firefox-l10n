@@ -1,0 +1,19 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY tabHeader.label "Brskanje z zavihki">
+
+<!ENTITY tabDisplay.label "Prikaz zavihkov">
+<!ENTITY autoHide.label "Skrij vrstico z zavihki, ko je odprt samo en zavihek">
+<!ENTITY autoHide.accesskey2 "k">
+<!ENTITY warnOnClose.label "Opozori me ob zapiranju okna z več zavihki">
+<!ENTITY warnOnClose.accesskey "č">
+<!ENTITY relatedAfterCurrent.label "Odpri sorodne zavihke po trenutnem zavihku">
+<!ENTITY relatedAfterCurrent.accesskey "s">
+
+
+<!ENTITY openDataManager.label "Upravitelj podatkov">
+<!ENTITY openDataManager.accesskey "p">
+<!ENTITY openAddOnsManager.label "Upravitelj dodatkov">
+<!ENTITY openAddOnsManager.accesskey "d">
