@@ -271,8 +271,8 @@ bookmark-panel-cancel =
 bookmark-panel-remove =
     .label =
         { $count ->
-            [one] Elimina segnalibro
-           *[other] { " " }Elimina { $count } segnalibri
+            [1] Elimina segnalibro
+           *[other] Elimina { $count } segnalibri
         }
     .accesskey = s
 bookmark-panel-show-editor-checkbox =
