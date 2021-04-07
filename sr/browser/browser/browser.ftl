@@ -703,7 +703,7 @@ panel-save-update-password = Лозинка:
 # Variables:
 #  $name (String): The name of the addon that will be removed.
 addon-removal-title = Уклонити { $name }?
-addon-removal-abuse-report-checkbox = Пријави овај додатак организацији { -vendor-short-name }
+addon-removal-abuse-report-checkbox = Пријави злоупотребу организацији { -vendor-short-name }
 
 ## Remote / Synced tabs
 
