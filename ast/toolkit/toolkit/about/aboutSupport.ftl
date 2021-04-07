@@ -88,6 +88,7 @@ graphics-window-protocol = Protocolu de ventanes
 # Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
 graphics-desktop-environment = Entornu d'escritoriu
 place-database-integrity = Integridá
+place-database-verify-integrity = Verificar la integridá
 a11y-title = Accesibilidá
 sandbox-sys-call-index = #
 sandbox-sys-call-pid = PID
@@ -120,6 +121,7 @@ intl-regional-prefs = Preferencies rexonales
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
+remote-debugging-title = Depuración remota (protocolu de Chromium)
 remote-debugging-url = URL
 
 ##
@@ -158,6 +160,7 @@ no = Non
 ## not found.
 
 gpu-ram = RAM
+min-lib-versions = Versión mínima que s'espera
 loaded-lib-versions = Versión n'usu
 # Variables
 # $remoteWindows (integer) - Number of remote windows
@@ -174,6 +177,7 @@ policies-error = Fallu
 
 ## Printing section
 
+support-printing-modified-settings = Axustes d'imprentación modificaos
 support-printing-prefs-name = Nome
 support-printing-prefs-value = Valor
 
