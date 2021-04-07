@@ -33,7 +33,7 @@ about-networking-bytes-sent = Бајтова послато
 about-networking-bytes-received = Бајтова примљено
 about-networking-logging = Бележење
 about-networking-log-tutorial = Погледајте <a data-l10n-name="logging">HTTP бележење</a> за инструкције о коришћењу овог алата.
-about-networking-current-log-file = Тренутна датотека за бележење:
+about-networking-current-log-file = Тренутна датотека евиденције:
 about-networking-current-log-modules = Тренутни модули за бележење:
 about-networking-set-log-file = Подеси датотеку за бележење
 about-networking-set-log-modules = Подеси модуле за бележење

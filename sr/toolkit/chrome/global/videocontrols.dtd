@@ -33,7 +33,7 @@ this string appears below the toggle when the mouse hovers the toggle. -->
 
 <!ENTITY error.aborted "Учитавање видео-снимка је заустављено.">
 <!ENTITY error.network "Репродукција видео-снимка је прекинута због грешке на мрежи.">
-<!ENTITY error.decode "Видео-снимак не може да се пусти јер је датотека оштећена.">
+<!ENTITY error.decode "Видео се не може репродуковати јер је датотека оштећена.">
 <!ENTITY error.srcNotSupported "Видео-формат или MIME тип нису подржани.">
 <!ENTITY error.noSource2 "Није пронађен ниједан видео-снимак са подржаним форматом и MIME типом.">
 <!ENTITY error.generic "Репродукција видео-снимка је прекинута због непознате грешке.">
