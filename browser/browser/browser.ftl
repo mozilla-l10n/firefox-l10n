@@ -493,7 +493,7 @@ urlbar-placeholder-with-name =
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Прегледач је под даљинским управљањем
 urlbar-permissions-granted =
-    .tooltiptext = Дали сте овој страници додатне дозволе.
+    .tooltiptext = Овом веб-сајту сте одобрили додатне дозволе.
 urlbar-switch-to-tab =
     .value = Премести на језичак:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
