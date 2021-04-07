@@ -55,21 +55,21 @@ abuse-report-messagebar-error-recent-submit = Додатак <span data-l10n-nam
 ## Message bars actions.
 
 abuse-report-messagebar-action-remove-extension = Да, уклони
-abuse-report-messagebar-action-keep-extension = Не, задржаћу
+abuse-report-messagebar-action-keep-extension = Не, задржи
 abuse-report-messagebar-action-remove-theme = Да, уклони
-abuse-report-messagebar-action-keep-theme = Не, задржаћу
+abuse-report-messagebar-action-keep-theme = Не, задржи
 abuse-report-messagebar-action-retry = Покушај поново
 abuse-report-messagebar-action-cancel = Откажи
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
 abuse-report-damage-reason-v2 = Штетно за мој рачунар или податке
-abuse-report-damage-example = Пример: убризгани злонамерни програм тј. malware или украдени подаци
+abuse-report-damage-example = Пример: малвер или крађа података
 abuse-report-spam-reason-v2 = Садржи непожељан садржај или рекламе
-abuse-report-spam-example = Пример: умеће рекламе на веб странице
+abuse-report-spam-example = Пример: додаје рекламе на веб-странице
 abuse-report-settings-reason-v2 = Промењен ми је претраживач, почетна страница или страница нове картице без питања
-abuse-report-settings-suggestions = Пре пријављивања проширења можете покушати да промените подешавања:
-abuse-report-settings-suggestions-search = Промените подразумеване поставке претраге
+abuse-report-settings-suggestions = Покушајте да промените подешавања пре пријављивања злоупотребе:
+abuse-report-settings-suggestions-search = Промените подразумевана подешавања претраге
 abuse-report-settings-suggestions-homepage = Промените почетну страницу и страницу нове картице
 abuse-report-deceptive-reason-v2 = Лажно представља своју вредност или функције
 abuse-report-deceptive-example = Пример: опис или слика доводе у заблуду
