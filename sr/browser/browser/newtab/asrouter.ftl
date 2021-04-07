@@ -13,8 +13,8 @@ cfr-doorhanger-pintab-heading = Пробајте да закачите карт�
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Зашто видим ово?
-cfr-doorhanger-extension-cancel-button = Касније
-    .accesskey = К
+cfr-doorhanger-extension-cancel-button = Не сада
+    .accesskey = Н
 cfr-doorhanger-extension-ok-button = Додај
     .accesskey = Д
 cfr-doorhanger-pintab-ok-button = Закачи ову картицу
