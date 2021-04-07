@@ -17,9 +17,9 @@ cert-error-mitm-connection = { -brand-short-name } користи складиш
 cert-error-trust-unknown-issuer-intro = Неко можда покушава да опонаша сајт и не би требало да наставите.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
-cert-error-trust-unknown-issuer = Веб странице доказују свој идентитет путем сертификата. { -brand-short-name } не верује { $hostname } зато што је издавач сертификата непознат, сертификат је самопотписан или зато што сервер не шаље исправне посредне сертификате.
-cert-error-trust-cert-invalid = Сертификат није од поверења јер га је издао неважећи ауторитет.
-cert-error-trust-untrusted-issuer = Сертификат није од поверења јер је издавач није од поверења.
+cert-error-trust-unknown-issuer = Веб-сајтови доказују свој идентитет помоћу сертификата. { -brand-short-name } не верује хосту { $hostname } јер је издавалац његовог сертификата непознат, сертификат је самопотписан или сервер не шаље исправне посредне сертификате.
+cert-error-trust-cert-invalid = Сертификат није поуздан јер га је издало неважеће сертификационо тело.
+cert-error-trust-untrusted-issuer = Сертификат није поуздан јер његов издавалац није поуздан.
 cert-error-trust-signature-algorithm-disabled = Сертификат није од поверења јер је коришћен алгоритам који није безбедан.
 cert-error-trust-expired-issuer = Сертификат није од поверења јер је издавачев сертификат истекао.
 cert-error-trust-self-signed = Сертификат није од поверења јер је самопотписан.
