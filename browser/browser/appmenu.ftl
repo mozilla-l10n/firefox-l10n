@@ -64,6 +64,11 @@ appmenuitem-fxa-manage-account = Xestionar la cuenta
 appmenu-fxa-header =
     .title = { -fxaccount-brand-name }
 appmenu-fxa-header2 = { -fxaccount-brand-name }
+# Variables
+# $time (string) - Localized relative time since last sync (e.g. 1 second ago,
+# 3 hours ago, etc.)
+appmenu-fxa-last-sync = Sincronizóse per última vegada { $time }
+    .label = Sincronizóse per última vegada { $time }
 appmenu-fxa-sync-and-save-data =
     .value = Sincroniza y guarda datos
 appmenu-fxa-sync-and-save-data2 = Sincroniza y guarda datos
