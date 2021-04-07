@@ -159,11 +159,11 @@ urlbar-star-add-bookmark =
 page-action-add-to-urlbar =
     .label = Додај у траку за адресу
 page-action-manage-extension =
-    .label = Управљај проширењем…
+    .label = Управљај додатком…
 page-action-remove-from-urlbar =
     .label = Уклони са адресне траке
 page-action-remove-extension =
-    .label = Уклони проширење
+    .label = Уклони додатак
 
 ## Page Action menu
 
@@ -287,7 +287,7 @@ identity-connection-not-secure = Веза није безбедна
 identity-connection-secure = Веза је безбедна
 identity-connection-internal = Ово је безбедна { -brand-short-name } страница.
 identity-connection-file = Ова страница се складишти на рачунару.
-identity-extension-page = Ову страницу је отворило проширење.
+identity-extension-page = Ову страницу је отворио додатак.
 identity-active-blocked = { -brand-short-name } је блокирао делове странице које нису безбедне.
 identity-custom-root = Везу је проверио издавач сертификата који Mozilla не препознаје.
 identity-passive-loaded = Делови ове странице нису безбедни (као што су слике).
@@ -492,7 +492,7 @@ urlbar-switch-to-tab =
     .value = Премести на језичак:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
-    .value = Проширење:
+    .value = Додатак:
 urlbar-go-button =
     .tooltiptext = Приказ адресе уписане у траку за адресе
 urlbar-page-action-button =

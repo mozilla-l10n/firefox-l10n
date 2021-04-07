@@ -145,7 +145,7 @@ onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } генер�
 onboarding-lockwise-strong-passwords-button = Управљајте лозинкама
 onboarding-facebook-container-title = Поставите границе за Facebook
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } раздваја ваш профил од свега осталог, што отежава Facebook-у да вам приказује циљане рекламе.
-onboarding-facebook-container-button = Додај проширење
+onboarding-facebook-container-button = Додај додатак
 onboarding-import-browser-settings-title = Увезите обележиваче, лозинке и друго
 onboarding-import-browser-settings-text = Слободно истражите — понесите са собом Chrome странице и подешавања.
 onboarding-import-browser-settings-button = Увези податке из Chrome-а
@@ -161,7 +161,7 @@ return-to-amo-sub-header = Одлично, добили сте { -brand-short-na
 # Variables:
 #   $addon-name (String) - Name of the add-on
 return-to-amo-addon-header = Сада ћемо вам помоћи са додатком <icon></icon><b>{ $addon-name }.</b>
-return-to-amo-extension-button = Додај проширење
+return-to-amo-extension-button = Додај додатак
 return-to-amo-get-started-button = Крените са коришћењем програма { -brand-short-name }
 onboarding-not-now-button-label = Не сада
 
@@ -173,7 +173,7 @@ return-to-amo-subtitle = Одлично, имате { -brand-short-name }
 # Variables:
 #   $addon-name (String) - Name of the add-on
 return-to-amo-addon-title = Сада преузмите и <img data-l10n-name="icon"/> { $addon-name }</b>.
-return-to-amo-add-extension-label = Додај проширење
+return-to-amo-add-extension-label = Додај додатак
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 

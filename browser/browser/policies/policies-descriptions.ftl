@@ -57,11 +57,11 @@ policy-DownloadDirectory = Поставите и закључајте фасци
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Омогући или онемогући блокирање садржаја и (изборно) закључај подешавање.
 # “lock” means that the user won’t be able to change this setting
-policy-EncryptedMediaExtensions = Омогућите или онемогућите шифрирана проширења медија и опционално закључајте избор.
+policy-EncryptedMediaExtensions = Омогућава или онемогућава функцију Encrypted Media Extensions и опционално је закључава.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
-policy-Extensions = Инсталирајте, деинсталирајте или закључавајте проширање. Опција за инсталирање узима URL-ове или путање као параметре. Опције за деинсталирање и закључавање узимау ИБ-јеве проширења.
+policy-Extensions = Инсталира, деинсталира или закључава додатке. За инсталацију је потребно као параметар задати URL или путању, а за деинсталацију или закључавање ID додатка.
 policy-ExtensionSettings = Управљајте свим аспектима инсталације проширења.
 policy-ExtensionUpdate = Омогућите или онемогућите аутоматска ажурирања проширења.
 policy-FirefoxHome = Подешава почетну страницу Firefox-а.
