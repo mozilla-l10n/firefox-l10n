@@ -14,7 +14,6 @@ policy-3rdparty = WebExtensions chrome.storage.managed арқылы қатына
 policy-AppAutoUpdate = Қолданбаны автожаңартуды іске қосу немесе сөндіру.
 policy-AppUpdateURL = Қолданбаны жаңартудың таңдауыңызша URL-ын орнату.
 policy-Authentication = Құрамдас аутентификациясын қолдайтын веб-сайттары үшін оны баптау.
-policy-BackgroundAppUpdate = Браузер жұмыс істемей тұрған кезде оны жаңартатын фондық жаңартқышты іске қосу немесе сөндіру.
 policy-BlockAboutAddons = Қосымшалар басқарушысына (about:addons) қатынауды бұғаттау.
 policy-BlockAboutConfig = about:config парағына қатынауды бұғаттау.
 policy-BlockAboutProfiles = about:profiles парағына қатынауды бұғаттау.
@@ -103,7 +102,7 @@ policy-Proxy = Прокси баптауларын орнату.
 policy-RequestedLocales = Таңдау ретімен қолданба үшін сұралатын локальдер тізімін орнату.
 policy-SanitizeOnShutdown2 = Сөндірілген кезде навигация деректерін тазарту.
 policy-SearchBar = Іздеу жолағында үнсіз келісім бойынша адресті орнату. Пайдаланушы оны өзгерте алады.
-policy-SearchEngines = Іздеу жүйесі параметрлерін баптау. Бұл саясат тек ұзақ мерзімді қолдауы бар (ESR) нұсқасында қолжетерлік.
+policy-SearchEngines = Іздеу жүйесі параметрлерін баптау. Бұл саясат тек ұзақ мерзімді қолдауы бар (ESR) нұсқасында қолжетімді.
 policy-SearchSuggestEnabled = Іздеу ұсыныстарын іске қосу немесе сөндіру.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = PKCS #11 модульдерін орнату.

@@ -24,10 +24,10 @@
   -  is displayed when the profiler's circular buffer has started to overlap. -->
 <!ENTITY performanceUI.bufferStatusFull "Буфер толып қалды. Ескі мысалдар енді үстінен жазылады.">
 
-<!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
+<!-- LOCALIZATION NOTE (performanceUI.unavailableNoticePB): This is the label shown
   -  in the details view while the profiler is unavailable, for example, while
   -  in Private Browsing mode. -->
-<!ENTITY performanceUI.unavailableNoticePB "Профильді жазу қазір қолжетерсіз. Барлық жекелік шолу терезелерін жауып, қайталап көріңіз.">
+<!ENTITY performanceUI.unavailableNoticePB "Профильді жазу қазір қолжетімсіз. Барлық жекелік шолу терезелерін жауып, қайталап көріңіз.">
 
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
   -  in the details view while loading a profile. -->

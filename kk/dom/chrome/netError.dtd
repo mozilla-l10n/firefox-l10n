@@ -23,7 +23,7 @@
 <!ENTITY fileAccessDenied.longDesc "<ul><li>Ол өшірілген, жылжытылған немесе файл рұқсаттары қатынауға жол бермеуі мүмкін.</li></ul>">
 
 <!ENTITY generic.title "Сұранымды аяқтау мүмкін емес">
-<!ENTITY generic.longDesc "<p>Бұл қате жөнінде қосымша ақпарат қазір қолжетерсіз.</p>">
+<!ENTITY generic.longDesc "<p>Бұл қате жөнінде қосымша ақпарат қазір қолжетімсіз.</p>">
 
 <!ENTITY malformedURI.title "Адрес пішімі қате">
 <!ENTITY malformedURI.longDesc "<p>Енгізілген адрестің пішімі қате. Оның енгізілуін тексеріп, қайта көріңіз.</p>">
