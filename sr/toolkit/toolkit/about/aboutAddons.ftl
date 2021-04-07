@@ -126,7 +126,7 @@ disabled-unsigned-devinfo = Програмери који желе да потв
 plugin-deprecation-description = Нешто недостаје? { -brand-short-name } више не подржава неке додатне компоненте. <label data-l10n-name="learn-more">Сазнајте више.</label>
 legacy-warning-show-legacy = Прикажи застарела проширења
 legacy-extensions =
-    .value = Застарела проширења
+    .value = Застарели додаци
 legacy-extensions-description = Ове екстензије не подржавају тренутни { -brand-short-name } стандард тако да су онемогућене. <label data-l10n-name="legacy-learn-more">Сазнајте више о променама додатака</label>
 private-browsing-description2 =
     { -brand-short-name } мења начин рада екстензија у режиму приватног прегледања. Нове екстензије које 
@@ -138,9 +138,9 @@ private-browsing-description2 =
 addon-category-discover = Препоруке
 addon-category-discover-title =
     .title = Препоруке
-addon-category-extension = Проширења
+addon-category-extension = Додаци
 addon-category-extension-title =
-    .title = Проширења
+    .title = Додаци
 addon-category-theme = Теме
 addon-category-theme-title =
     .title = Теме
@@ -213,10 +213,10 @@ addon-open-about-debugging = Отклањање грешака у додацим
 ## Extension shortcut management
 
 # This is displayed in the page options menu
-addon-manage-extensions-shortcuts = Управљај пречицама проширења
+addon-manage-extensions-shortcuts = Управљај пречицама додатака
     .accesskey = У
-shortcuts-no-addons = Немате омогућених проширења.
-shortcuts-no-commands = Следећа проширења немају пречице:
+shortcuts-no-addons = Нисте омогућили ниједан додатак.
+shortcuts-no-commands = Следећи додаци немају пречице:
 shortcuts-input =
     .placeholder = Унесите пречицу
 shortcuts-browserAction2 = Активирајте тастер на траци са алатима
