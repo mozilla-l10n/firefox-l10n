@@ -153,8 +153,8 @@ monitor-view-report-link = Погледајте извештај
     .title = Решите цурења података уз { -monitor-brand-short-name }
 monitor-breaches-unresolved-title = Решите ваша цурења података
 monitor-breaches-unresolved-description = Након што прегледате детаље о цурењу и предузмете кораке за заштиту ваших података, пропусте можете означити као решене.
-monitor-manage-breaches-link = Управљајте цурењима података
-    .title = Управљајте цурењима података уз { -monitor-brand-short-name }
+monitor-manage-breaches-link = Управљајте упадима у податке
+    .title = Управљање упадима у податке помоћу { -monitor-brand-short-name(case: "gen") }
 monitor-breaches-resolved-title = Супер! Решили сте сва позната цурења података.
 monitor-breaches-resolved-description = Ако се ваша адреса е-поште нађе у новом цурењуу података, обавестићемо вас.
 # Variables:
