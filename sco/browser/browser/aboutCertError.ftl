@@ -14,6 +14,11 @@ cert-error-trust-unknown-issuer-intro = Somebody could be ettlin tae impersonate
 cert-error-trust-unknown-issuer = Websites pruive their identity through certificates. { -brand-short-name } disnae trust { $hostname } acause its certificate issuer isnae kent, the certificate is sel-signed, or the server isnae sendin the richt intermediate certificates.
 cert-error-trust-cert-invalid = The certificate isnae trustit acause it wis issued by a CA certificate that isnae suithfest.
 cert-error-trust-untrusted-issuer = The certificate isnae trustit acause the issuer certificate isnae trustit.
+cert-error-trust-signature-algorithm-disabled = The certificate isnae trustit acause it wis signed yaisin a signature algorithm that wis disabled acause that algorithm isnae siccar.
+cert-error-trust-expired-issuer = The certificate isnae trustit acause the issuer certificate is oot o date.
+cert-error-trust-self-signed = The certificate isnae trustit acause it is sel-signed.
+cert-error-trust-symantec = Certificates issued by GeoTrust, RapidSSL, Symantec, Thawte, and VeriSign are nae langer conseedert sauf acause these certificate authorities hae gaed agley frae security practices in the bygane.
+cert-error-untrusted-default = The certificate disnae come frae a trustit soorce.
 
 ## Messages used for certificate error titles
 
