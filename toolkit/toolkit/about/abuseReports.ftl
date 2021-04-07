@@ -8,9 +8,9 @@
 # Variables:
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = Пријава злоупотребе за { $addon-name }
-abuse-report-title-extension = Пријавите злоупотребу организацији { -vendor-short-name }
-abuse-report-title-theme = Пријавите злоупотребу организацији { -vendor-short-name }
-abuse-report-subtitle = У чему је проблем?
+abuse-report-title-extension = Пријавите додатак организацији { -vendor-short-name }
+abuse-report-title-theme = Пријавите тему организацији { -vendor-short-name }
+abuse-report-subtitle = Тип злоупотребе:
 # Variables:
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = аутор: <a data-l10n-name="author-name">{ $author-name }</a>
@@ -79,7 +79,7 @@ abuse-report-broken-example = Пример: функције су споре, т
 abuse-report-broken-suggestions-extension = Изгледа да сте пронашли грешку. Поред слања овог извештаја, најбољи начин да се проблем отклони је да контактирате програмера. Контакт информације о програмеру потражите на <a data-l10n-name="support-link">веб-сајту додатка</a>.
 abuse-report-broken-suggestions-theme = Изгледа да сте пронашли грешку. Поред слања овог извештаја, најбољи начин да се проблем отклони је да контактирате програмера. Контакт информације о програмеру потражите на <a data-l10n-name="support-link">веб-сајту теме</a>.
 abuse-report-policy-reason-v2 = Садржај који промовише мржњу, насиље или незаконите радње
-abuse-report-policy-suggestions = Напомена: проблеми са ауторским правима и заштитним знаковима морају бити пријављени у одвојеном процесу. <a data-l10n-name="report-infringement-link">Користите ова упутства</a> да пријавите проблем.
-abuse-report-unwanted-reason-v2 = Непожељно проширење које не могу да уклоним
-abuse-report-unwanted-example = Пример: апликација је инсталирала проширење без моје дозволе
+abuse-report-policy-suggestions = Напомена: повреде ауторских права или жига пријављујете помоћу <a data-l10n-name="report-infringement-link">овог упутства</a>.
+abuse-report-unwanted-reason-v2 = Никада нисам желео/ла ову ставку и не знам како да је уклоним
+abuse-report-unwanted-example = Пример: програм је инсталирао додатак без моје дозволе
 abuse-report-other-reason = Нешто друго
