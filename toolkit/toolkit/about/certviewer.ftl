@@ -102,7 +102,7 @@ certificate-viewer-download-pem-chain = PEM (ланац)
     .download = { $fileName }-chain.pem
 # The title attribute for Critical Extension icon
 certificate-viewer-critical-extension =
-    .title = Ово проширење је означено као критично, што значи да би купци требало да одбаце сертификат ако га не разумеју.
+    .title = Овај додатак је означен као критичан, што значи да клијенти морају да одбију сертификат ако га не разумеју.
 certificate-viewer-export = Извоз
     .download = { $fileName }.pem
 

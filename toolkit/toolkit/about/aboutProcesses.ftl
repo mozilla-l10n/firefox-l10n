@@ -16,7 +16,7 @@
 ##    $type (String) The raw type for this process. Used for unknown processes.
 
 about-processes-file-process-name = Датотеке (процес { $pid })
-about-processes-extension-process-name = Проширења (процес { $pid })
+about-processes-extension-process-name = Додаци (процес { $pid })
 about-processes-privilegedabout-process-name = Странице About (процес { $pid })
 about-processes-plugin-process-name = Додатне компоненте (процес { $pid })
 about-processes-gmp-plugin-process-name = Медијске компоненте Gecko (процес { $pid })
