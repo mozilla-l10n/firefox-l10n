@@ -394,6 +394,14 @@ update-setting-write-failure-message =
     
     Није могуће писати у датотеку: { $path }
 update-setting-write-failure-title2 = Грешка при чувању подешавања ажурирања
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message2 =
+    { -brand-short-name } је наишао на грешку и није сачувао ову промену. Имајте на уму да је за промену овог подешавања потребна дозвола за писање у датотеку испод. Ви или администратор система можете да решите грешку тако што ћете корисничкој групи дати потпуну контролу над овом датотеком.
+    
+    Није могуће писати у датотеку: { $path }
 update-in-progress-title = Ажурирање у току
 update-in-progress-message = Желите ли да { -brand-short-name } настави са ажурирањем?
 update-in-progress-ok-button = &Одбаци
