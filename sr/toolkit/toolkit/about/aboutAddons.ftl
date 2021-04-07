@@ -389,9 +389,9 @@ recommended-theme-1 = Креативни сте? <a data-l10n-name="link">Нап
 extension-heading = Управљајте додацима
 theme-heading = Управљајте темама
 plugin-heading = Управљајте додатним компонентама
-dictionary-heading = Управљајте вашим речницима
-locale-heading = Управљајте вашим језицима
-updates-heading = Управљајте вашим ажурирањима
+dictionary-heading = Управљајте речницима
+locale-heading = Управљајте језицима
+updates-heading = Управљајте ажурирањима
 discover-heading = Персонализујте { -brand-short-name(case: "acc") }
 shortcuts-heading = Управљајте пречицама додатака
 default-heading-search-label = Пронађите више додатака
