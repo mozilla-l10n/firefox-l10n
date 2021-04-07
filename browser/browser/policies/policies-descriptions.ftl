@@ -80,7 +80,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Вратите се н
 
 ##
 
-policy-LocalFileLinks = Дозволи одређеним сајтовима везе ка локалним датотекама.
+policy-LocalFileLinks = Дозвољава одређеним веб-сајтовима да наводе на локалне датотеке.
 policy-ManagedBookmarks = Конфигурише списак обележивача којима управља администратор, а које корисник не може мењати.
 policy-MasterPassword = Захтевајте или спречите употребу главне лозинке.
 policy-ManualAppUpdateOnly = Дозволи само ручна ажирирања и не обавештавај корисника о ажурирањима.
