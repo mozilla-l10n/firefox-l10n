@@ -31,7 +31,7 @@ policy-DisableBuiltinPDFViewer = Onemogoči PDF.js, pregledovalnik PDF brskalnik
 policy-DisableDefaultBrowserAgent = Prepreči privzetemu uporabniškemu agentu izvajanje kakršnihkoli ukrepov. To velja samo za Windows, druge platforme nimajo agenta.
 policy-DisableDeveloperTools = Zavrni dostop do razvojnih orodij.
 policy-DisableFeedbackCommands = Onemogoči ukaze v meniju Pomoč za pošiljanje povratnih informacij ("Povratne informacije" in "Prijavi zavajajočo stran").
-policy-DisableFirefoxAccounts = Onemogoči storitve na osnovi { -fxaccount-brand-name }ov, na primer Sync.
+policy-DisableFirefoxAccounts = Onemogoči storitve na osnovi { -fxaccount-brand-name }ov, na primer sinhronizacijo.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Onemogoči možnost Firefox Screenshots.
 policy-DisableFirefoxStudies = { -brand-short-name }u prepreči izvajanje raziskav.
