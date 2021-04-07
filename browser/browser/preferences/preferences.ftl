@@ -58,6 +58,9 @@ category-privacy =
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
+pane-sync-title3 = Sincronització
+category-sync3 =
+    .tooltiptext = { pane-sync-title3 }
 pane-experimental-title = Experiments del { -brand-short-name }
 category-experimental =
     .tooltiptext = Experiments del { -brand-short-name }
@@ -666,6 +669,9 @@ sync-signedout-account-signin2 =
     .label = Inicia la sessió al { -sync-brand-short-name }…
     .accesskey = I
 sync-signedout-description2 = Sincronitzeu les vostres adreces d'interès, historial, pestanyes, contrasenyes, complements i paràmetres en tots els vostres dispositius.
+sync-signedout-account-signin3 =
+    .label = Inicia la sessió per sincronitzar…
+    .accesskey = I
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -705,6 +711,9 @@ prefs-sync-setup =
     .label = Configura el { -sync-brand-short-name }…
     .accesskey = C
 prefs-sync-offer-setup-label = Sincronitzeu les vostres adreces d'interès, historial, pestanyes, contrasenyes, complements i preferències en tots els vostres dispositius.
+prefs-sync-turn-on-syncing =
+    .label = Activa la sincronització…
+    .accesskey = s
 prefs-sync-offer-setup-label2 = Sincronitzeu les vostres adreces d'interès, historial, pestanyes, contrasenyes, complements i paràmetres en tots els vostres dispositius.
 prefs-sync-now =
     .labelnotsyncing = Sincronitza ara
@@ -1195,6 +1204,8 @@ space-alert-under-5gb-message = El { -brand-short-name } s'està quedant sense e
 space-alert-over-5gb-settings-button =
     .label = Obre els paràmetres
     .accesskey = O
+space-alert-over-5gb-message2 = <strong>El { -brand-short-name } s'està quedant sense espai de disc.</strong> És possible que el contingut dels llocs web no es mostri correctament. Podeu esborrar les dades emmagatzemades dels llocs a «Paràmetres > Privadesa i seguretat > Galetes i dades dels llocs».
+space-alert-under-5gb-message2 = <strong>El { -brand-short-name } s'està quedant sense espai de disc.</strong> És possible que el contingut dels llocs web no es mostri correctament. Vegeu «Més informació» per optimitzar l'ús de disc i millorar l'experiència de navegació.
 
 ## Privacy Section - HTTPS-Only
 
