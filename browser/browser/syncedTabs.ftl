@@ -42,4 +42,5 @@ synced-tabs-context-sync-now =
     .accesskey = ز
 fxa-sign-in = لِج إلى { -sync-brand-short-name }
 turn-on-sync = فعّل { -sync-brand-short-name }
+synced-tabs-fxa-sign-in = لِج كي تبدأ المزامنة
 synced-tabs-turn-on-sync = فعّل المزامنة
