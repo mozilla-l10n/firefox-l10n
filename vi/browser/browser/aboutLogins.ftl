@@ -310,6 +310,7 @@ about-logins-import-dialog-error-unable-to-read-description = Đảm bảo rằn
 about-logins-import-dialog-error-no-logins-imported = Không có thông tin đăng nhập nào được nhập
 about-logins-import-dialog-error-learn-more = Tìm hiểu thêm
 about-logins-import-dialog-error-try-again = Thử lại…
+about-logins-import-dialog-error-try-import-again = Thử nhập lần nữa...
 about-logins-import-dialog-error-cancel = Hủy bỏ
 about-logins-import-report-title = Tóm tắt nhập
 about-logins-import-report-description = Thông tin đăng nhập và mật khẩu được nhập vào { -brand-short-name }.
