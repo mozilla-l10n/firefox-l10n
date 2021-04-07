@@ -79,7 +79,7 @@ generic-title = Упс.
 captivePortal-title = Пријавите се на мрежу
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
-malformedURI-title = Неважећа адреса.
+malformedURI-title = Неважећа адреса
 netInterrupt-title = Веза је прекинута
 notCached-title = Документ је истекао
 netOffline-title = Офлајн режим
