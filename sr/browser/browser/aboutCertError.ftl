@@ -98,9 +98,15 @@ corruptedContentError-title = Грешка оштећеног садржаја
 remoteXUL-title = Удаљени XUL
 sslv3Used-title = Безбедна веза није успостављена
 inadequateSecurityError-title = Веза није безбедна
-blockedByPolicy-title = Блокиране странице
+blockedByPolicy-title = Блокирана страница
 clockSkewError-title = Време на вашем рачунару је погрешно
 networkProtocolError-title = Грешка мрежног протокола
-nssBadCert-title = Упозорење: Потенцијални безбедносни ризик
-nssBadCert-sts-title = Успостављање везе није успело: потенцијални безбедносни проблем
-certerror-mitm-title = Програм спречава { -brand-short-name } да се безбедно повеже на ову страницу
+nssBadCert-title = Упозорење: потенцијални безбедносни ризик
+nssBadCert-sts-title = Веза није успостављена: потенцијални безбедносни проблем
+certerror-mitm-title =
+    Софтвер спречава { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "acc") }
+        [feminine] { -brand-short-name(case: "acc") }
+        [neuter] { -brand-short-name(case: "acc") }
+       *[other] програм { -brand-short-name }
+    } да успостави безбедну везу са овим сајтом
