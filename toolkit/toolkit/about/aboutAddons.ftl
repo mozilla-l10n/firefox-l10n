@@ -129,12 +129,13 @@ legacy-extensions =
     .value = Застарели додаци
 legacy-extensions-description = Ове екстензије не подржавају тренутни { -brand-short-name } стандард тако да су онемогућене. <label data-l10n-name="legacy-learn-more">Сазнајте више о променама додатака</label>
 private-browsing-description2 =
-    { -brand-short-name } мења начин рада екстензија у режиму приватног прегледања. Нове екстензије које 
-    будете додали у { -brand-short-name } подразумевано неће радити у приватним прозорима. Осим ако то не 
-    дозволите у подешавањима, екстензија неће радити док сте у режиму приватног прегледања и неће имати 
-    приступ вашим активностима на мрежи. Начинили смо ову измену да бисмо одржали ваше коришћење 
-    интернета у приватном режиму приватним.
-    <label data-l10n-name="private-browsing-learn-more">Сазнајте како да управљате подешавањима екстензија</label>
+    Нови додаци које додате у { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "acc") }
+        [feminine] { -brand-short-name(case: "acc") }
+        [neuter] { -brand-short-name(case: "acc") }
+       *[other] програм { -brand-short-name }
+    } од сада неће радити у приватним прозорима и неће имати приступ вашим активностима на интернету. Увели смо ову промену како бисмо очували вашу приватност док користите режим приватног прегледања.
+    <label data-l10n-name="private-browsing-learn-more">Сазнајте како да промените подешавања додатка</label>
 addon-category-discover = Препоруке
 addon-category-discover-title =
     .title = Препоруке
@@ -348,7 +349,7 @@ install-update-button = Ажурирај
 addon-badge-private-browsing-allowed2 =
     .title = Дозвољено у приватним прозорима
     .aria-label = { addon-badge-private-browsing-allowed2.title }
-addon-detail-private-browsing-help = Ако дозволите, додатак ће имати приступ вашим активностима на интернету у приватним прозорима. <a data-l10n-name="learn-more">Сазнајте више</a>
+addon-detail-private-browsing-help = Ако дозволите, додатак ће имати приступ вашим активностима у приватним прозорима. <a data-l10n-name="learn-more">Сазнајте више</a>
 addon-detail-private-browsing-allow = Дозволи
 addon-detail-private-browsing-disallow = Блокирај
 
