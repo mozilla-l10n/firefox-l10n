@@ -163,9 +163,9 @@ addon-category-dictionary-title =
 addon-category-locale = Тілдер
 addon-category-locale-title =
     .title = Тілдер
-addon-category-available-updates = Қолжетерлік жаңартулар
+addon-category-available-updates = Қолжетімді жаңартулар
 addon-category-available-updates-title =
-    .title = Қолжетерлік жаңартулар
+    .title = Қолжетімді жаңартулар
 addon-category-recent-updates = Соңғы жаңартулар
 addon-category-recent-updates-title =
     .title = Соңғы жаңартулар
@@ -209,7 +209,7 @@ addon-updates-reset-updates-to-manual = Барлық кеңейтулерді т
 addon-updates-updating = Қосымшалар жаңартылуда
 addon-updates-installed = Қосымшаларыңыз жаңартылды.
 addon-updates-none-found = Жаңартулар табылмады
-addon-updates-manual-updates-found = Қолжетерлік жаңартуларды көрсету
+addon-updates-manual-updates-found = Қолжетімді жаңартуларды көрсету
 
 ## Add-on install/debug strings for page options menu
 
@@ -387,7 +387,7 @@ addon-badge-verified2 =
 
 ##
 
-available-updates-heading = Қолжетерлік жаңартулар
+available-updates-heading = Қолжетімді жаңартулар
 recent-updates-heading = Соңғы жаңартулар
 release-notes-loading = Жүктелуде…
 release-notes-error = Кешіріңіз, шығарылым ескертпесін жүктеп алу кезінде қате кетті.

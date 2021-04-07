@@ -237,7 +237,7 @@ add-exception-valid-short = Жарамды сертификат
 add-exception-valid-long = Сайт дұрыс, расталған идентификацияны ұсынып тұр.  Ерекше ережені қосу керек емес.
 add-exception-checking-short = Ақпаратты тексеру жүруде
 add-exception-checking-long = Сайтты анықтап көру…
-add-exception-no-cert-short = Қолжетерлік ақпарат жоқ
+add-exception-no-cert-short = Қолжетімді ақпарат жоқ
 add-exception-no-cert-long = Берілген сайт үшін идентификация күйін алу мүмкін емес.
 
 ## Certificate export "Save as" and error dialogs

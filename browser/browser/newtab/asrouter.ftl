@@ -33,12 +33,12 @@ cfr-doorhanger-extension-author = { $name } шығарған
 cfr-doorhanger-extension-notification = Ұсыныс
 cfr-doorhanger-extension-notification2 = Ұсыныс
     .tooltiptext = Кеңейту ұсынысы
-    .a11y-announcement = Кеңейту ұсынысы қолжетерлік
+    .a11y-announcement = Кеңейту ұсынысы қолжетімді
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Ұсыныс
     .tooltiptext = Мүмкіндік ұсынысы
-    .a11y-announcement = Мүмкіндік ұсынысы қолжетерлік
+    .a11y-announcement = Мүмкіндік ұсынысы қолжетімді
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -216,8 +216,6 @@ cfr-doorhanger-milestone-heading2 =
     }
 cfr-doorhanger-milestone-ok-button = Барлығын қарау
     .accesskey = р
-cfr-doorhanger-milestone-close-button = Жабу
-    .accesskey = Ж
 
 ## What’s New Panel Content for Firefox 76
 
@@ -242,6 +240,8 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Суреттегі сурет таңба�
 
 ## Protections Dashboard message
 
+cfr-doorhanger-milestone-close-button = Жабу
+    .accesskey = Ж
 
 ## What’s New Panel Content for Firefox 76
 ## Protections Dashboard message
