@@ -52,7 +52,7 @@
 
 <!ENTITY openPortalLoginPage.label2 "Отвори страницу за пријаву на мрежу">
 
-<!ENTITY malformedURI.pageTitle "Неисправан URL">
+<!ENTITY malformedURI.pageTitle "Неважећа адреса">
 
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
