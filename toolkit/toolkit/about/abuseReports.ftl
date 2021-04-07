@@ -7,16 +7,16 @@
 #
 # Variables:
 #   $addon-name (string) - Name of the add-on being reported
-abuse-report-dialog-title = Пријава додатка { $addon-name }
-abuse-report-title-extension = Пријавите ово проширење организацији { -vendor-short-name }
-abuse-report-title-theme = Пријавите ову тему организацији { -vendor-short-name }
+abuse-report-dialog-title = Пријава злоупотребе за { $addon-name }
+abuse-report-title-extension = Пријавите злоупотребу организацији { -vendor-short-name }
+abuse-report-title-theme = Пријавите злоупотребу организацији { -vendor-short-name }
 abuse-report-subtitle = У чему је проблем?
 # Variables:
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = аутор: <a data-l10n-name="author-name">{ $author-name }</a>
 abuse-report-learnmore =
     Нисте сигурни шта да изаберете?
-    <a data-l10n-name="learnmore-link">Сазнајте више о пријављивању проширења и тема</a>
+    <a data-l10n-name="learnmore-link">Сазнајте више о пријављивању додатака и тема</a>
 abuse-report-submit-description = Опишите проблем (није обавезно)
 abuse-report-textarea =
     .placeholder = Лакше нам је да решимо проблем ако знамо детаље. Опишите шта сте доживели. Хвала вам што нам помажете да одржимо веб здравим.
@@ -43,7 +43,7 @@ abuse-report-submit-button = Пошаљи
 ## Variables:
 ##   $addon-name (string) - Name of the add-on
 
-abuse-report-messagebar-aborted = Пријава додатка <span data-l10n-name="addon-name">{ $addon-name }</span> је отказана.
+abuse-report-messagebar-aborted = Пријава злоупотребе за <span data-l10n-name="addon-name">{ $addon-name }</span> је отказана.
 abuse-report-messagebar-submitting = Слање пријаве за <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-submitted = Хвала вам што сте поднели пријаву. Да ли желите уклонити додатак <span data-l10n-name="addon-name">{ $addon-name }</span>?
 abuse-report-messagebar-submitted-noremove = Хвала вам што сте поднели пријаву.
@@ -63,7 +63,7 @@ abuse-report-messagebar-action-cancel = Откажи
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
-abuse-report-damage-reason-v2 = Штети рачунару или краде моје податке
+abuse-report-damage-reason-v2 = Штетно за мој рачунар или податке
 abuse-report-damage-example = Пример: убризгани злонамерни програм тј. malware или украдени подаци
 abuse-report-spam-reason-v2 = Садржи непожељан садржај или рекламе
 abuse-report-spam-example = Пример: умеће рекламе на веб странице
@@ -71,7 +71,7 @@ abuse-report-settings-reason-v2 = Промењен ми је претражив�
 abuse-report-settings-suggestions = Пре пријављивања проширења можете покушати да промените подешавања:
 abuse-report-settings-suggestions-search = Промените подразумеване поставке претраге
 abuse-report-settings-suggestions-homepage = Промените почетну страницу и страницу нове картице
-abuse-report-deceptive-reason-v2 = Лажно представљање
+abuse-report-deceptive-reason-v2 = Лажно представља своју вредност или функције
 abuse-report-deceptive-example = Пример: опис или слика доводе у заблуду
 abuse-report-broken-reason-extension-v2 = Не ради, нарушава веб-сајтове или успорава { -brand-product-name(case: "acc") }
 abuse-report-broken-reason-theme-v2 = Не ради или нарушава рад прегледача
