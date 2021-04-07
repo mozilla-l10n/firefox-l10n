@@ -254,6 +254,9 @@ browser-tab-audio-pip = IMAXE SOBRE IMAXE
 
 ## Bookmarks toolbar items
 
+browser-import-button2 =
+    .label = Importar marcadores…
+    .tooltiptext = Importa los marcadores d'otru restolador a { -brand-short-name }.
 
 ## WebRTC Pop-up notifications
 
@@ -263,6 +266,16 @@ popup-select-camera =
 popup-select-microphone =
     .value = Micrófonu pa compartir:
     .accesskey = M
+popup-select-camera-device =
+    .value = Cámara:
+    .accesskey = C
+popup-select-camera-icon =
+    .tooltiptext = Cámara
+popup-select-microphone-device =
+    .value = Micrófonu
+    .accesskey = M
+popup-select-microphone-icon =
+    .tooltiptext = Micrófonu
 popup-all-windows-shared = Van compartise toles ventanes visibles de la pantalla.
 popup-screen-sharing-not-now =
     .label = Agora non
@@ -292,6 +305,11 @@ urlbar-pocket-button =
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 
+# Shows the result of a formula expression being calculated, the last = sign will be shown
+# as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result = = { $result }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -368,6 +386,9 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = Guardar en { -pocket-brand-name }
     .tooltiptext = Guardar en { -pocket-brand-name }
+
+## Customize Toolbar Buttons
+
 
 ## More items
 
