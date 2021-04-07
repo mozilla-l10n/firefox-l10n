@@ -2,5 +2,19 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY spellAddToDictionary.label "Amestar al diccionariu">
+<!ENTITY spellCheckToggle.label "Comprobar la ortografía">
+<!ENTITY spellNoSuggestions.label "(Nun hai suxerencies ortográfiques)">
+<!ENTITY spellDictionaries.label "Llingües">
+<!ENTITY spellDictionaries.accesskey "L">
 
+<!ENTITY searchTextBox.clear.label "Llimpiar">
 
+<!ENTITY fillLoginMenu.label          "Rellenar l'aniciu de sesión">
+<!ENTITY fillLoginMenu.accesskey      "R">
+<!ENTITY fillPasswordMenu.label       "Rellenar la contraseña">
+<!ENTITY fillPasswordMenu.accesskey   "R">
+<!ENTITY fillUsernameMenu.label       "Rellenar el nome d'usuariu">
+<!ENTITY fillUsernameMenu.accesskey   "R">
+<!ENTITY noLoginSuggestions.label     "(Nun hai anicios de sesión pa suxerír)">
+<!ENTITY viewSavedLogins.label        "Ver los anicios de sesión guardaos">
