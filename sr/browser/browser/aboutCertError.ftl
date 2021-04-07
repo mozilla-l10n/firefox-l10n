@@ -23,37 +23,37 @@ cert-error-trust-untrusted-issuer = Сертификат није поуздан
 cert-error-trust-signature-algorithm-disabled = Сертификат није поуздан јер је потписан алгоритмом који није безбедан.
 cert-error-trust-expired-issuer = Сертификат није поуздан јер је истекао његов издавалац.
 cert-error-trust-self-signed = Сертификат није поуздан јер је самопотписан.
-cert-error-trust-symantec = Сертификати које издају GeoTrust, RapidSSL, Symantec, Thawte, and VeriSign се више не сматрају безбедним, зато што ова сертификациона тела нису поштовала сигурносне праксе у прошлости.
-cert-error-untrusted-default = Сертификат не долази из извора од поверења.
+cert-error-trust-symantec = Сертификати које издају GeoTrust, RapidSSL, Symantec, Thawte и VeriSign више се не сматрају безбедним, јер ова сертификациона тела у прошлости нису поштовала безбедносне процедуре.
+cert-error-untrusted-default = Сертификат не долази из поузданог извора.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
-cert-error-domain-mismatch = Веб странице доказују свој идентитет путем сертификата. { -brand-short-name } не верује овој страници зато што користи сертификат који није важећи за { $hostname }.
-# Variables:
-# $hostname (String) - Hostname of the website with cert error.
-# $alt-name (String) - Alternate domain name for which the cert is valid.
-cert-error-domain-mismatch-single = Веб странице доказују свој идентитет путем сертификата. { -brand-short-name } не верује овој страници зато што користи сертификат који није важећи за { $hostname }. Сертификат важи само за <a data-l10n-name="domain-mismatch-link">{ $alt-name }</a>.
+cert-error-domain-mismatch = Веб-сајтови доказују свој идентитет помоћу сертификата. { -brand-short-name } не верује овом сајту јер користи сертификат који је неважећи за { $hostname }.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $alt-name (String) - Alternate domain name for which the cert is valid.
-cert-error-domain-mismatch-single-nolink = Веб странице доказују свој идентитет путем сертификата. { -brand-short-name } не верује овој страници зато што користи сертификат који није важећи за { $hostname }. Сертификат важи само за { $alt-name }.
+cert-error-domain-mismatch-single = Веб-сајтови доказују свој идентитет помоћу сертификата. { -brand-short-name } не верује овом сајту јер користи сертификат који је неважећи за { $hostname }. Сертификат важи само за <a data-l10n-name="domain-mismatch-link">{ $alt-name }</a>.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $alt-name (String) - Alternate domain name for which the cert is valid.
+cert-error-domain-mismatch-single-nolink = Веб-сајтови доказују свој идентитет помоћу сертификата. { -brand-short-name } не верује овом сајту јер користи сертификат који је неважећи за { $hostname }. Сертификат важи само за { $alt-name }.
 # Variables:
 # $subject-alt-names (String) - Alternate domain names for which the cert is valid.
-cert-error-domain-mismatch-multiple = Веб странице доказују свој идентитет путем сертификата. { -brand-short-name } не верује овој страници зато што користи сертификат који није важећи за { $hostname }. Сертификат важи само за следећа имена: { $subject-alt-names }
+cert-error-domain-mismatch-multiple = Веб-странице доказују свој идентитет помоћу сертификата. { -brand-short-name } не верује овом сајту јер користи сертификат који је неважећи за { $hostname }. Сертификат важи само за следеће домене: { $subject-alt-names }
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $not-after-local-time (Date) - Certificate is not valid after this time.
-cert-error-expired-now = Веб странице доказују свој идентитет путем сертификата, који важе само за одређени временски период. Сертификат за { $hostname } је истекао { $not-after-local-time }.
+cert-error-expired-now = Веб-сајтови доказују свој идентитет помоћу сертификата, који важе ограничени временски период. Сертификат за { $hostname } је истекао { $not-after-local-time }.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $not-before-local-time (Date) - Certificate is not valid before this time.
-cert-error-not-yet-valid-now = Веб странице доказују свој идентитет путем сертификата, који важи само за одређени временски период. Сертификат за { $hostname } ће постати важећи од { $not-before-local-time }.
+cert-error-not-yet-valid-now = Веб-сајтови доказују свој идентитет помоћу сертификата, који важи само ограничени временски период. Сертификат за { $hostname } почиње да важи { $not-before-local-time }.
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Кôд грешке: <a data-l10n-name="error-code-link">{ $error }</a>
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = Веб-сајтови доказују свој идентитет путем сертификата које издају сертификациона тела. Већина прегледача више не верује сертификатима које издају GeoTrust, RapidSSL, Symantec, Thawte и VeriSign. { $hostname } користи сертификат једног од ових издаваоца, па се идентитет сајта не може доказати.
-cert-error-symantec-distrust-admin = Можете да обавестите администратора веб странице о овом проблему.
+cert-error-symantec-distrust-description = Веб-сајтови доказују свој идентитет помоћу сертификата, које издају сертификациона тела. Већина прегледача више не верује сертификатима које издају GeoTrust, RapidSSL, Symantec, Thawte и VeriSign. { $hostname } користи сертификат једног од ових издаваоца, па се идентитет сајта не може доказати.
+cert-error-symantec-distrust-admin = О овом проблему можете да обавестите администратора веб-сајта.
 # Variables:
 # $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
