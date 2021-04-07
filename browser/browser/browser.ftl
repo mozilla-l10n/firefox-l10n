@@ -357,7 +357,7 @@ browser-tab-audio-playing2 = REPRODUINT
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-muted2 = SILENCIADA
 # This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-blocked = REPRODUC, AUTOMÀTICA BLOCADA
+browser-tab-audio-blocked = REPRODUCC. AUTOMÀTICA BLOCADA
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = IMATGE SOBRE IMATGE
 
