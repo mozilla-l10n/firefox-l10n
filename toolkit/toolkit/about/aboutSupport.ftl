@@ -159,7 +159,7 @@ intl-locales-available = Доступни локали
 intl-locales-supported = Језици програма
 intl-locales-default = Подразумевани локал
 intl-os-title = Оперативни систем
-intl-os-prefs-system-locales = Локали система
+intl-os-prefs-system-locales = Језици система
 intl-regional-prefs = Регионална подешавања
 
 ## Remote Debugging
