@@ -264,11 +264,15 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = Afegeix a les adreces d'interès
+bookmarks-edit-bookmark = Edita l'adreça d'interès
 bookmark-panel-show-editor-checkbox =
     .label = Mostra l'editor en desar
     .accesskey = s
 bookmark-panel-done-button =
     .label = Fet
+bookmark-panel-save-button =
+    .label = Desa
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -527,6 +531,13 @@ urlbar-result-action-tabtosearch-web = Cerca amb { $engine } directament des de 
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = Cerca en { $engine } directament des de la barra d'adreces
+# Action text for copying to clipboard.
+urlbar-result-action-copy-to-clipboard = Copia
+# Shows the result of a formula expression being calculated, the last = sign will be shown
+# as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result = = { $result }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -642,6 +653,23 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = Desa al { -pocket-brand-name }
     .tooltiptext = Desa al { -pocket-brand-name }
+
+## Customize Toolbar Buttons
+
+# Variables:
+#  $shortcut (String): keyboard shortcut to open the add-ons manager
+toolbar-addons-themes-button =
+    .label = Complements i temes
+    .tooltiptext = Gestioneu els complements i temes ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open settings (only on macOS)
+toolbar-settings-button =
+    .label = Paràmetres
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Obre els paràmetres ({ $shortcut })
+           *[other] Obre els paràmetres
+        }
 
 ## More items
 

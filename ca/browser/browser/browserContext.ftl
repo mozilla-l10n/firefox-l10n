@@ -88,6 +88,12 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
+## Firefox Account Button
+
+toolbar-button-fxaccount =
+    .label = { -fxaccount-brand-name }
+    .tooltiptext = { -fxaccount-brand-name }
+
 ## Save Page
 
 main-context-menu-page-save =
@@ -102,6 +108,18 @@ main-context-menu-bookmark-add =
     .aria-label = Afegeix la pàgina a les adreces d'interès
     .accesskey = d
     .tooltiptext = Afegeix la pàgina a les adreces d'interès
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-add-mac =
+    .label = Afegeix la pàgina a les adreces d'interès
+    .accesskey = A
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-edit-mac =
+    .label = Edita l'adreça d'interès
+    .accesskey = E
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-add-with-shortcut =
@@ -360,6 +378,9 @@ main-context-menu-suggest-strong-password =
     .accesskey = S
 main-context-menu-manage-logins =
     .label = Gestiona els inicis de sessió…
+    .accesskey = G
+main-context-menu-manage-logins2 =
+    .label = Gestiona els inicis de sessió
     .accesskey = G
 main-context-menu-keyword =
     .label = Afegeix una paraula clau per a aquesta cerca…
