@@ -285,7 +285,13 @@ bookmark-panel =
 
 identity-connection-not-secure = Веза није безбедна
 identity-connection-secure = Веза је безбедна
-identity-connection-internal = Ово је безбедна { -brand-short-name } страница.
+identity-connection-internal =
+    Ово је безбедна страница { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "gen") }
+        [feminine] { -brand-short-name(case: "gen") }
+        [neuter] { -brand-short-name(case: "gen") }
+       *[other] програма { -brand-short-name }
+    }.
 identity-connection-file = Ова страница се складишти на рачунару.
 identity-extension-page = Ову страницу је отворио додатак.
 identity-active-blocked = { -brand-short-name } је блокирао делове странице које нису безбедне.
