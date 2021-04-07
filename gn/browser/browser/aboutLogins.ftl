@@ -78,6 +78,7 @@ login-intro-instruction-fxa = Emoheñói térã eike nde { -fxaccount-brand-name
 login-intro-instruction-fxa-settings = Eiporavokuaáke nde jeike { -sync-brand-short-name } ñemoĩporãme
 about-logins-intro-instruction-help = Eho <a data-l10n-name="help-link">-pe { -lockwise-brand-short-name } Pytyvõ</a> eñepytyvõve hag̃ua
 login-intro-instructions-fxa = Emoheñói térã eike nde { -fxaccount-brand-name(capitalization: "sentence") }-pe mba’e’oka eñongatuhápe ne rembiapo ñepyrũ.
+login-intro-instructions-fxa-settings = Eho Ñemoĩporãme > Sync > Emyandy ñembojuehe… Eiporavo Tembiapo ñepyrũ kora ha ñe’ẽñemi.
 login-intro-instructions-fxa-help = Eike <a data-l10n-name="help-link">-pe { -lockwise-brand-short-name } Pytyvõ</a> ejeykekove hag̃ua.
 about-logins-intro-import = Ne rembiapo ñepyrũ oñeñongatúramo ambue kundahárape, ikatu <a data-l10n-name="import-link">ogueru { -lockwise-brand-short-name }pe</a>
 about-logins-intro-import2 = Ne rembiapo ñepyrũ oñeñongatu { -brand-product-name }-gui okápe, ikatu <a data-l10n-name="import-browser-link">egueru ambue kundaháragui</a> térã <a data-l10n-name="import-file-link">maranduredágui</a>
