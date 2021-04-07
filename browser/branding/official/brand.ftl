@@ -80,4 +80,4 @@
         [loc] Mozill-и
     }
     .gender = feminine
-trademarkInfo = Firefox и његови логотипи су заштитни знакови Mozilla Foundation-а.
+trademarkInfo = Firefox и његови логотипи су жигови организације Mozilla Foundation.
