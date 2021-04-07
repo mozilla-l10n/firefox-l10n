@@ -29,6 +29,17 @@ search-input-box =
            *[other] Najdi v nastavitvah
         }
 settings-page-title = Nastavitve
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box2 =
+    .style = width: 15.4em
+    .placeholder = Najdi v nastavitvah
 managed-notice = Vaš brskalnik upravlja vaša organizacija.
 category-list =
     .aria-label = Kategorije
@@ -47,6 +58,7 @@ category-privacy =
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
+pane-sync-title3 = Sinhronizacija
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
 pane-experimental-title = { -brand-short-name }ovi poskusi
@@ -125,6 +137,8 @@ search-results-empty-message =
         [windows] Oprostite! V možnostih ni zadetkov za “<span data-l10n-name="query"></span>”.
        *[other] Oprostite! V nastavitvah ni zadetkov za “<span data-l10n-name="query"></span>”.
     }
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 = Oprostite! V nastavitvah ni zadetkov za “<span data-l10n-name="query"></span>”.
 search-results-help-link = Potrebujete pomoč? Obiščite <a data-l10n-name="url">Podpora za { -brand-short-name }</a>
 
 ## General Section
@@ -379,6 +393,9 @@ update-application-check-choose =
 update-application-manual =
     .label = nikoli ne preverja posodobitev (ni priporočeno)
     .accesskey = N
+update-application-background-enabled =
+    .label = Ko se { -brand-short-name } ne izvaja
+    .accesskey = n
 update-application-warning-cross-user-setting = Ta nastavitev bo uveljavljena v vseh uporabniških računih sistema Windows in profilih { -brand-short-name(sklon: "rodilnik") }, ki uporabljajo to različico.
 update-application-use-service =
     .label = Uporabi storitev za nameščanje posodobitev v ozadju
@@ -390,6 +407,15 @@ update-setting-write-failure-title = Napaka pri shranjevanju nastavitev posodobi
 # intentional so the path is easier to identify.
 update-setting-write-failure-message =
     { -brand-short-name } je naletel na napako in te spremembe ni shranil. Upoštevajte, da takšna nastavitev posodobitev zahteva dovoljenje za pisanje v spodnjo datoteko. Napako lahko morda odpravite sami ali vaš skrbnik sistema, tako da skupini Users omogoči popoln dostop do te datoteke.
+    
+    Ni mogoče pisati v datoteko: { $path }
+update-setting-write-failure-title2 = Napaka pri shranjevanju nastavitev posodobitev
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message2 =
+    { -brand-short-name } je naletel na napako in te spremembe ni shranil. Upoštevajte, da spreminjanje te nastavitve posodobitev zahteva dovoljenje za pisanje v spodnjo datoteko. Napako lahko morda odpravite sami ali vaš skrbnik sistema, tako da skupini Users omogoči popoln dostop do te datoteke.
     
     Ni mogoče pisati v datoteko: { $path }
 update-in-progress-title = Posodobitev v teku
@@ -693,6 +719,9 @@ prefs-sync-setup =
     .label = Nastavi { -sync-brand-short-name } …
     .accesskey = s
 prefs-sync-offer-setup-label = Sinhronizirajte zaznamke, zgodovino, zavihke, gesla, dodatke in nastavitve vseh vaših naprav.
+prefs-sync-turn-on-syncing =
+    .label = Vklopi sinhronizacijo …
+    .accesskey = s
 prefs-sync-offer-setup-label2 = Sinhronizirajte zaznamke, zgodovino, zavihke, gesla, dodatke in nastavitve vseh vaših naprav.
 prefs-sync-now =
     .labelnotsyncing = Sinhroniziraj zdaj
@@ -714,6 +743,7 @@ sync-currently-syncing-prefs =
         [windows] Možnosti
        *[other] Nastavitve
     }
+sync-currently-syncing-settings = Nastavitve
 sync-change-options =
     .label = Spremeni …
     .accesskey = S
@@ -761,6 +791,10 @@ sync-engine-prefs =
         }
     .tooltiptext = Spremenjene splošne nastavitve ter nastavitve zasebnosti in varnosti
     .accesskey = N
+sync-engine-settings =
+    .label = Nastavitve
+    .tooltiptext = Splošne nastavitve ter nastavitve zasebnosti in varnosti, ki ste jih spremenili
+    .accesskey = s
 
 ## The device name controls.
 
