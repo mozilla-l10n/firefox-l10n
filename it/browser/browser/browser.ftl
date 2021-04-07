@@ -263,6 +263,18 @@ search-one-offs-history =
 
 bookmarks-add-bookmark = Aggiungi segnalibro
 bookmarks-edit-bookmark = Modifica segnalibro
+bookmark-panel-cancel =
+    .label = Annulla
+    .accesskey = A
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [one] Elimina segnalibro
+           *[other] { " " }Elimina { $count } segnalibri
+        }
+    .accesskey = s
 bookmark-panel-show-editor-checkbox =
     .label = Visualizza editor quando si salva
     .accesskey = V
@@ -654,17 +666,17 @@ save-to-pocket-button =
 # Variables:
 #  $shortcut (String): keyboard shortcut to open the add-ons manager
 toolbar-addons-themes-button =
-  .label = Componenti aggiuntivi e temi
-  .tooltiptext = Gestisci componenti aggiuntivi e temi ({ $shortcut })
-
+    .label = Componenti aggiuntivi e temi
+    .tooltiptext = Gestisci componenti aggiuntivi e temi ({ $shortcut })
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
 toolbar-settings-button =
-  .label = Impostazioni
-  .tooltiptext = { PLATFORM() ->
-      [macos] Apri le impostazioni ({ $shortcut })
-     *[other] Apri le impostazioni
-  }
+    .label = Impostazioni
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Apri le impostazioni ({ $shortcut })
+           *[other] Apri le impostazioni
+        }
 
 ## More items
 
