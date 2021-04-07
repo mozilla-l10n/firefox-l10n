@@ -8,3 +8,12 @@
 menu-view-charset =
     .label = Kôdna stranica
     .accesskey = c
+
+## Help Menu
+
+
+## Mail Toolbar
+
+toolbar-junk-button =
+    .label = Neželjena pošta
+    .tooltiptext = Označi odabrane poruke kao neželjene
