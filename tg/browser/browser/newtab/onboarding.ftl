@@ -119,6 +119,9 @@ onboarding-multistage-set-default-secondary-button-label = Ҳоло не
 onboarding-multistage-pin-default-primary-button-label = Таъин кардани { -brand-short-name } ҳамчун браузери асосии ман
 onboarding-multistage-import-primary-button-label = Оғоз кардани воридкунӣ
 onboarding-multistage-import-secondary-button-label = Ҳоло не
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "look" should stay inside the span.
+onboarding-multistage-theme-header = <span data-l10n-name="zap">Намуди зоҳириеро</span> интихоб намоед
 onboarding-multistage-theme-primary-button-label = Нигоҳ доштани мавзӯъ
 onboarding-multistage-theme-primary-button-label2 = Тайёр
 onboarding-multistage-theme-secondary-button-label = Ҳоло не
