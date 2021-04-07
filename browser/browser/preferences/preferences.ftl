@@ -452,8 +452,8 @@ browsing-picture-in-picture-toggle-enabled =
     .accesskey = в
 browsing-picture-in-picture-learn-more = Сазнајте више
 browsing-media-control =
-    .label = Управљај медијима преко тастатуре, слушалица или виртуелног интерфејса
-    .accesskey = v
+    .label = Управљај медијима помоћу тастатуре, слушалица или виртуелног интерфејса
+    .accesskey = м
 browsing-media-control-learn-more = Сазнајте више
 browsing-cfr-recommendations =
     .label = Препоручуј додатке при прегледању
@@ -676,8 +676,8 @@ sync-profile-picture =
 sync-sign-out =
     .label = Одјави ме…
     .accesskey = О
-sync-manage-account = Управљајте налогом
-    .accesskey = н
+sync-manage-account = Управљај налогом
+    .accesskey = У
 sync-signedin-unverified = { $email } није потврђен.
 sync-signedin-login-failure = Пријавите се да бисте се поново повезали са { $email }
 sync-resend-verification =
@@ -938,13 +938,13 @@ sitedata-clear =
     .accesskey = б
 sitedata-settings =
     .label = Управљај подацима…
-    .accesskey = У
+    .accesskey = ц
 sitedata-cookies-permissions =
     .label = Управљам овлашћењима…
     .accesskey = п
 sitedata-cookies-exceptions =
     .label = Управљај изузецима…
-    .accesskey = x
+    .accesskey = з
 
 ## Privacy Section - Address Bar
 
@@ -1045,7 +1045,7 @@ content-blocking-fingerprinters-label =
 
 tracking-manage-exceptions =
     .label = Управљај изузецима…
-    .accesskey = ј
+    .accesskey = У
 
 ## Privacy Section - Permissions
 

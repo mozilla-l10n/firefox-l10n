@@ -19,4 +19,4 @@ all-tabs-menu-hidden-tabs =
     .label = Скривене картице
 all-tabs-menu-manage-user-context =
     .label = Управљај контејнерима
-    .accesskey = o
+    .accesskey = У

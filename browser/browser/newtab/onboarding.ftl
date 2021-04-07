@@ -90,7 +90,7 @@ onboarding-benefit-sync-text =
 onboarding-benefit-monitor-title = { -monitor-brand-short-name }
 onboarding-benefit-monitor-text = Примите обавештење када се ваши лични подаци појаве у познатом цурењу података.
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
-onboarding-benefit-lockwise-text = Управљајте лозинкама које су заштићене и преносиве.
+onboarding-benefit-lockwise-text = Управљајте лозинкама, које су заштићене и преносиве.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -142,7 +142,7 @@ onboarding-pocket-anywhere-text2 = Сачувајте омиљени садрж�
 onboarding-pocket-anywhere-button = Испробајте { -pocket-brand-name(case: "acc") }
 onboarding-lockwise-strong-passwords-title = Стварајте и чувајте јаке лозинке
 onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } генерише јаке лозинке за трен и чува их на једном месту.
-onboarding-lockwise-strong-passwords-button = Управљајте лозинкама
+onboarding-lockwise-strong-passwords-button = Управљај лозинкама
 onboarding-facebook-container-title = Поставите границе за Facebook
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } раздваја ваш профил од свега осталог, што отежава Facebook-у да вам приказује циљане рекламе.
 onboarding-facebook-container-button = Додај додатак

@@ -62,7 +62,7 @@ policy-EncryptedMediaExtensions = Омогућава или онемогућав
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Инсталира, деинсталира или закључава додатке. За инсталацију је потребно као параметар задати URL или путању, а за деинсталацију или закључавање – ID додатка.
-policy-ExtensionSettings = Управљајте свим аспектима инсталације додатка.
+policy-ExtensionSettings = Управља свим аспектима инсталације додатка.
 policy-ExtensionUpdate = Омогућава или онемогућава аутоматско ажурирање додатака.
 policy-FirefoxHome = Подешава почетну страницу Firefox-а.
 policy-FlashPlugin = Дозвољава или блокира коришћење додатне компоненте Flash.
