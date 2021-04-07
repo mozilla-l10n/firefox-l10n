@@ -229,7 +229,7 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY emailPageCmd.label           "Пошаљи линк имејлом…">
 
-<!ENTITY fullZoom.label                 "Увећај">
+<!ENTITY fullZoom.label                 "Зумирање">
 
 <!ENTITY sidebarCloseButton.tooltip     "Затвори бочну палету">
 
@@ -249,7 +249,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY editPopupSettings.accesskey "У">
 <!ENTITY dontShowMessage.accesskey "D">
 
-<!ENTITY findOnCmd.label     "Нађи на овој страници…">
+<!ENTITY findOnCmd.label     "Пронађи на овој страници…">
 
 <!ENTITY spellAddDictionaries.label "Додај речнике…">
 <!ENTITY spellAddDictionaries.accesskey "Д">
