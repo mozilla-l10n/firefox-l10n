@@ -12,7 +12,7 @@ crashes-id = ID извештаја
 crashes-send-date = Послато
 crashes-all-reports = Сви извештаји о отказивању
 crashes-no-config = Овај програм није подешен да приказује извештаје о отказивању.
-extensions-title = Проширења
+extensions-title = Додаци
 extensions-name = Назив
 extensions-enabled = Укључен
 extensions-version = Верзија
@@ -125,7 +125,7 @@ restart-in-troubleshoot-mode-label = Режим за решавање пробл
 clear-startup-cache-title = Покушајте да избришете предмеморију покретања
 clear-startup-cache-label = Избриши предмеморију покретања…
 startup-cache-dialog-title = Избриши предмеморију покретања
-startup-cache-dialog-body = Рестартујте { -brand-short-name } да бисте обрисали кеш покретања. Ово неће утицати на подешавања или проширења која сте додали у { -brand-short-name }.
+startup-cache-dialog-body = Рестартујте { -brand-short-name } да бисте обрисали кеш покретања. Ово неће утицати на подешавања или додатке које сте додали у { -brand-short-name }.
 restart-button-label = Рестартуј
 
 ## Media titles

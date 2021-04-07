@@ -348,7 +348,7 @@ install-update-button = Ажурирај
 addon-badge-private-browsing-allowed2 =
     .title = Дозвољено у приватним прозорима
     .aria-label = { addon-badge-private-browsing-allowed2.title }
-addon-detail-private-browsing-help = Када је дозвољено, проширење ће имати приступ вашим активностима на мрежи у приватном прегледавању. <a data-l10n-name="learn-more">Сазнај више</a>
+addon-detail-private-browsing-help = Ако дозволите, додатак ће имати приступ вашим активностима на интернету у приватним прозорима. <a data-l10n-name="learn-more">Сазнајте више</a>
 addon-detail-private-browsing-allow = Дозволи
 addon-detail-private-browsing-disallow = Блокирај
 
@@ -356,12 +356,12 @@ addon-detail-private-browsing-disallow = Блокирај
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 addon-badge-recommended2 =
-    .title = { -brand-product-name } препоручује само проширења која задовољавају наше стандарде сигурности и перформанси
+    .title = { -brand-product-name } препоручује само додатке који задовољавају наше стандарде безбедности и перформанси
     .aria-label = { addon-badge-recommended2.title }
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
-    .title = Званично Mozilla проширење. Испуњава стандарде сигурности и перформанси
+    .title = Званични додатак организације Mozilla. Задовољава стандарде безбедности и перформанси
     .aria-label = { addon-badge-line3.title }
 addon-badge-verified2 =
     .title = Ово проширење је тестирано како би удовољило нашим стандардима безбедности и перформанси
@@ -373,11 +373,11 @@ available-updates-heading = Доступна ажурирања
 recent-updates-heading = Недавна ажурирања
 release-notes-loading = Учитава се...
 release-notes-error = Нажалост, дошло је до грешке при учитавању напомена о издању.
-addon-permissions-empty = Ово проширење не захтева никакве дозволе
+addon-permissions-empty = Овај додатак не захтева никакве дозволе
 addon-permissions-required = Потребне дозволе за основну функционалност:
 addon-permissions-optional = Додатне дозволе за додатну функционалност:
 addon-permissions-learnmore = Сазнајте више о дозволама
-recommended-extensions-heading = Препоручена проширења
+recommended-extensions-heading = Препоручени додаци
 recommended-themes-heading = Препоручене теме
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
@@ -385,14 +385,14 @@ recommended-theme-1 = Креативни сте? <a data-l10n-name="link">Нап
 
 ## Page headings
 
-extension-heading = Управљајте проширењима
+extension-heading = Управљајте додацима
 theme-heading = Управљајте темама
 plugin-heading = Управљајте додатним компонентама
 dictionary-heading = Управљајте вашим речницима
 locale-heading = Управљајте вашим језицима
 updates-heading = Управљајте вашим ажурирањима
 discover-heading = Персонализујте { -brand-short-name(case: "acc") }
-shortcuts-heading = Управљајте пречицама проширења
+shortcuts-heading = Управљајте пречицама додатака
 default-heading-search-label = Пронађите више додатака
 addons-heading-search-input =
     .placeholder = Претражите addons.mozilla.org
