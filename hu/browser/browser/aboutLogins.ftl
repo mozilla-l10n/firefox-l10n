@@ -321,6 +321,7 @@ about-logins-import-dialog-error-unable-to-read-description = Győződjön meg a
 about-logins-import-dialog-error-no-logins-imported = Nem lettek bejelentkezések importálva
 about-logins-import-dialog-error-learn-more = További tudnivalók
 about-logins-import-dialog-error-try-again = Próbálja újra…
+about-logins-import-dialog-error-try-import-again = Importálás újrapróbálása…
 about-logins-import-dialog-error-cancel = Mégse
 about-logins-import-report-title = Importálási összefoglaló
 about-logins-import-report-description = A { -brand-short-name }ba importált bejelentkezési adatok és jelszavak.
