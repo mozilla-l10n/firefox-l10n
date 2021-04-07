@@ -90,7 +90,6 @@ graphics-desktop-environment = Entornu d'escritoriu
 place-database-integrity = Integridá
 a11y-title = Accesibilidá
 sandbox-sys-call-index = #
-sandbox-sys-call-age = Hai segundos
 sandbox-sys-call-pid = PID
 sandbox-sys-call-tid = TID
 sandbox-sys-call-args = Argumentos
@@ -104,7 +103,12 @@ media-device-channels = Canales
 
 ##
 
+intl-locales-requested = Locales solicitaes
+intl-locales-available = Locales disponibles
+intl-locales-supported = Locales de l'aplicación
+intl-locales-default = Locale predeterminada
 intl-os-title = Sistema operativu
+intl-os-prefs-system-locales = Locales del sistema
 intl-regional-prefs = Preferencies rexonales
 
 ## Remote Debugging
@@ -154,6 +158,7 @@ no = Non
 ## not found.
 
 gpu-ram = RAM
+loaded-lib-versions = Versión n'usu
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
