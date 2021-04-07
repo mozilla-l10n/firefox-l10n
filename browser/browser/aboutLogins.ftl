@@ -77,7 +77,6 @@ login-intro-description = ਜੇ ਤੁਸੀਂ ਵੱਖਰੇ ਡਿਵਾਈ
 login-intro-instruction-fxa = ਡਿਵਾਈਸ, ਜਿੱਥੇ ਤੁਹਾਡੇ ਲਾਗਇਨ ਸੰਭਾਲੇ ਹੋਏ ਹਨ, ਉੱਤੇ ਆਪਣਾ { -fxaccount-brand-name } ਬਣਾਓ ਜਾਂ ਸਾਈਨ ਇਨ ਕਰੋ
 login-intro-instruction-fxa-settings = ਪੱਕਾ ਕਰੋ ਕਿ ਤੁਸੀਂ { -sync-brand-short-name } ਸੈਟਿੰਗਾਂ ‘ਚ ਲਾਗਇਨ ਚੋਣ-ਬਕਸੇ ਨੂੰ ਚੁਣਿਆ ਹੈ
 about-logins-intro-instruction-help = ਹੋਰ ਮਦਦ ਲਈ <a data-l10n-name="help-link">{ -lockwise-brand-short-name } ਸਹਿਯੋਗ</a> ਨੂੰ ਵੇਖੋ
-login-intro-instructions-fxa = ਡਿਵਾਈਸ, ਜਿੱਥੇ ਤੁਹਾਡੇ ਲਾਗਇਨ ਸੰਭਾਲੇ ਹਨ, ਉੱਤੇ ਆਪਣਾ { -fxaccount-brand-name(capitalization: "sentence") } ਬਣਾਓ ਜਾਂ ਉਸ ਵਿੱਚ ਲਾਗਇਨ ਕਰੋ।
 login-intro-instructions-fxa-settings = ਸੈਟਿੰਗਾਂ > ਸਿੰਕ > …ਸਿੰਕ ਚਾਲੂ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ, ਵਿੱਚ ਲਾਗਇਨ ਅਤੇ ਪਾਸਵਰਡ ਚੋਣ ਬਾਕਸੇ ਨੂੰ ਚੁਣੋ।
 login-intro-instructions-fxa-help = ਹੋਰ ਮਦਦ ਵਾਸਤੇ <a data-l10n-name="help-link">{ -lockwise-brand-short-name } Support</a> (ਅੰਗਰੇਜ਼ੀ) ਉੱਤੇ ਜਾਓ।
 about-logins-intro-import = ਜੇ ਤੁਸੀਂ ਹੋਰ ਬਰਾਊਜ਼ਰ 'ਚ ਲਾਗਇਨ ਸੰਭਾਲੇ ਹਨ ਤਾਂ ਤੁਸੀਂ { -lockwise-brand-short-name } ਵਿੱਚ ਉਹਨਾਂ ਨੂੰ <a data-l10n-name="import-link">ਇੰਪੋਰਟ ਕਰ</a> ਕਰ ਸਕਦੇ ਹੋ।
