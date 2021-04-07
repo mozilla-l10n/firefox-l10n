@@ -39,9 +39,9 @@ sidebar-preferences-button-title =
            *[other] програма { -brand-short-name }
         }
 show-unsigned-extensions-button =
-    .label = Нека проширења се не могу верификовати
+    .label = Неки додаци се не могу проверити
 show-all-extensions-button =
-    .label = Прикажи сва проширења
+    .label = Прикажи све додатке
 cmd-show-details =
     .label = Прикажи више информација
     .accesskey = в
@@ -88,10 +88,10 @@ detail-private-browsing-label = Рад у приватним прозорима
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = Није дозвољено у приватним прозорима
-detail-private-disallowed-description2 = Ово проширење се не покреће у приватном прегледавању. <a data-l10n-name="learn-more">Сазнајте више</a>
+detail-private-disallowed-description2 = Овај додатак се не покреће у приватним прозорима. <a data-l10n-name="learn-more">Сазнајте више</a>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Захтева приступ приватним прозорима
-detail-private-required-description2 = Ово проширење има приступ вашим активностима у приватном прегледавању. <a data-l10n-name="learn-more">Сазнајте више</a>
+detail-private-required-description2 = Овај додатак има приступ вашим активностима у приватним прозорима. <a data-l10n-name="learn-more">Сазнајте више</a>
 detail-private-browsing-on =
     .label = Дозволи
     .tooltiptext = Омогући у приватном прегледању
@@ -124,7 +124,7 @@ disabled-unsigned-description = Следећи додаци нису могли 
 disabled-unsigned-learn-more = Сазнајте више како да помогнете да Вас одржимо сигурним на мрежи.
 disabled-unsigned-devinfo = Програмери који желе да потврде њихове додатке могу да прочитају наша <label data-l10n-name="learn-more">упутства</label>.
 plugin-deprecation-description = Нешто недостаје? { -brand-short-name } више не подржава неке додатне компоненте. <label data-l10n-name="learn-more">Сазнајте више.</label>
-legacy-warning-show-legacy = Прикажи застарела проширења
+legacy-warning-show-legacy = Прикажи застареле додатке
 legacy-extensions =
     .value = Застарели додаци
 legacy-extensions-description = Ове екстензије не подржавају тренутни { -brand-short-name } стандард тако да су онемогућене. <label data-l10n-name="legacy-learn-more">Сазнајте више о променама додатака</label>
@@ -364,7 +364,7 @@ addon-badge-line3 =
     .title = Званични додатак организације Mozilla. Задовољава стандарде безбедности и перформанси
     .aria-label = { addon-badge-line3.title }
 addon-badge-verified2 =
-    .title = Ово проширење је тестирано како би удовољило нашим стандардима безбедности и перформанси
+    .title = Овај додатак је прегледан и задовољава наше стандарде безбедности и перформанси
     .aria-label = { addon-badge-verified2.title }
 
 ##
