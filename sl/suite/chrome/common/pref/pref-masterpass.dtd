@@ -1,0 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  pref.masterpass.title                  "Glavna gesla">
+
+<!ENTITY  changepassword.caption                 "Sprememba glavnega gesla">
+<!ENTITY  changepassword.text                    "Glavno geslo ščiti občutljive podatke, kot so spletna gesla in digitalna potrdila.">
+<!ENTITY  changepassword.button                  "Spremeni geslo …">
+<!ENTITY  changepassword.accesskey               "S">
+
+<!ENTITY  resetpassword.caption                  "Ponastavitev glavnega gesla">
+<!ENTITY  resetpassword.text                     "S ponastavitvijo glavnega gesla bodo izgubljena vsa shranjena spletna in e-poštna gesla, podatki obrazcev, osebna digitalna potrdila in zasebni ključi.">
+<!ENTITY  resetpassword.button                   "Ponastavi geslo">
+<!ENTITY  resetpassword.accesskey                "n">
