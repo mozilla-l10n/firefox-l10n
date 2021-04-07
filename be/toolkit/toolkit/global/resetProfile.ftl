@@ -12,3 +12,4 @@ refresh-profile-remove = Выдалення вашых дадаткаў і на�
 refresh-profile-restore = Аднаўленне прадвызначаных налад браўзера
 refresh-profile = Наладка { -brand-short-name }
 refresh-profile-button = Аднавіць { -brand-short-name }…
+refresh-profile-learn-more = Падрабязней
