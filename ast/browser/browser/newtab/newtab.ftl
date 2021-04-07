@@ -155,7 +155,7 @@ newtab-custom-row-selector =
        *[other] { $num } fileres
     }
 newtab-custom-recent-title = Actividá recién
-newtab-custom-recent-subtitle = Una esbilla de los sitios y el conteníu de recién
+newtab-custom-recent-subtitle = Una esbilla de los sitios y el conteníu recién
 newtab-custom-close-button = Zarrar
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that

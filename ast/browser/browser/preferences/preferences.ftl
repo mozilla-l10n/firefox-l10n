@@ -527,7 +527,7 @@ home-prefs-highlights-option-saved-to-pocket =
     .label = Páxines guardaes en { -pocket-brand-name }
 home-prefs-recent-activity-header =
     .label = Actividá recién
-home-prefs-recent-activity-description = Una esbilla de sitios y conteníu de recién
+home-prefs-recent-activity-description = Una esbilla de los sitios y conteníu recién
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
