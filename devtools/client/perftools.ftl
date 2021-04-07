@@ -17,7 +17,7 @@ perftools-heading-features-default = Функције (подразумеван�
 perftools-heading-features-disabled = Онемогућене функције
 perftools-heading-features-experimental = Експерименталне
 perftools-heading-threads = Нити
-perftools-heading-local-build = Локална компилација
+perftools-heading-local-build = Локална верзија
 
 ##
 

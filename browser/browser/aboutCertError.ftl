@@ -72,7 +72,7 @@ connectionFailure-title = Повезивање није успело
 deniedPortAccess-title = Приступ овој адреси је ограничен
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
-dnsNotFound-title = Хмм. Имамо проблем са проналажењем тог сајта.
+dnsNotFound-title = Овај сајт није доступан.
 fileNotFound-title = Датотека није пронађена
 fileAccessDenied-title = Приступ датотеци је одбијен
 generic-title = Упс.
