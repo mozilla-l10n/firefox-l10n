@@ -251,9 +251,9 @@ header-back-button =
 
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
-discopane-intro = Проширења и теме су као апликације за ваш прегледач и омогућавају вам да заштитите лозинке, преузмете видео записе, пронађете понуде, блокирате досадне огласе, промените изглед претраживача и још много тога. Ове мале софтверске програме често развија трећа страна. Ево избора које { -brand-product-name } <a data-l10n-name="learn-more-trigger">препоручује</a> за изузетну безбедност, перформансе и употребљивост.
+discopane-intro = Додаци и теме су попут апликација за прегледач и омогућавају вам да заштитите лозинке, преузимате видео-снимке, блокирате досадне рекламе, промените изглед прегледача и још много тога. Њих често развијају независни програмери. { -brand-product-name } <a data-l10n-name="learn-more-trigger">препоручује</a> следеће додатке и теме за изузетну безбедност, перформансе и функционалност.
 # Notice to make user aware that the recommendations are personalized.
-discopane-notice-recommendations = Неке од ових препорука се заснивају на инсталираним проширењима, подешавањима из профила и статистици употребе.
+discopane-notice-recommendations = Неке од ових препорука се заснивају на инсталираним додацима, подешавањима из профила и статистици употребе.
 discopane-notice-learn-more = Сазнајте више
 privacy-policy = Политика приватности
 # Refers to the author of an add-on, shown below the name of the add-on.
