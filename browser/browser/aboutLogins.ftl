@@ -321,6 +321,7 @@ about-logins-import-dialog-error-unable-to-read-description = Assegureu-vos que 
 about-logins-import-dialog-error-no-logins-imported = No s'ha importat cap inici de sessió
 about-logins-import-dialog-error-learn-more = Més informació
 about-logins-import-dialog-error-try-again = Torna-ho a provar…
+about-logins-import-dialog-error-try-import-again = Torna a provar d'importar…
 about-logins-import-dialog-error-cancel = Cancel·la
 about-logins-import-report-title = Resum de la importació
 about-logins-import-report-description = Inici de sessió i contrasenyes importats en el { -brand-short-name }.
