@@ -167,6 +167,14 @@ never-activate-button = Nun activar enxamás
 addon-detail-version-label = Versión
 addon-detail-last-updated-label = Últimu anovamientu
 addon-detail-rating-label = Valoración
+# The number of reviews that an add-on has received on AMO.
+# Variables:
+#   $numberOfReviews (number) - The number of reviews received
+addon-detail-reviews-link =
+    { $numberOfReviews ->
+        [one] { $numberOfReviews } reseña
+       *[other] { $numberOfReviews } reseñes
+    }
 
 ## Pending uninstall message bar
 
