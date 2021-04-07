@@ -20,9 +20,9 @@ list-empty-find-updates =
     .label = Провери доступност ажурирања
 list-empty-button =
     .label = Сазнајте више о додацима
-help-button = Подршка за додатке
+help-button = Помоћ
 sidebar-help-button-title =
-    .title = Подршка за додатке
+    .title = Помоћ
 preferences =
     Подешавања { -brand-short-name.gender ->
         [masculine] { -brand-short-name(case: "gen") }
