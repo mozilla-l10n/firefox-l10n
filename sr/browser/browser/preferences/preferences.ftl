@@ -70,7 +70,7 @@ pane-experimental-reset =
     .label = Врати подразумевано
     .accesskey = В
 help-button-label = { -brand-short-name } подршка
-addons-button-label = Проширења и теме
+addons-button-label = Додаци и теме
 focus-search =
     .key = f
 close-button =
@@ -97,25 +97,25 @@ restart-later = Рестартуј касније
 
 # This string is shown to notify the user that their home page
 # is being controlled by an extension.
-extension-controlled-homepage-override = Проширење <img data-l10n-name="icon"/> { $name } управља почетном страницом.
+extension-controlled-homepage-override = Додатак <img data-l10n-name="icon"/> { $name } управља почетном страницом.
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
-extension-controlled-new-tab-url = Проширење <img data-l10n-name="icon"/> { $name } управља страницом за нову картицу.
+extension-controlled-new-tab-url = Додатак <img data-l10n-name="icon"/> { $name } управља страницом нове картице.
 # This string is shown to notify the user that the password manager setting
 # is being controlled by an extension
-extension-controlled-password-saving = Проширење <img data-l10n-name="icon"/> { $name } управља овим подешавањем.
+extension-controlled-password-saving = Додатак <img data-l10n-name="icon"/> { $name } управља овим подешавањем.
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
-extension-controlled-web-notifications = Проширење <img data-l10n-name="icon"/> { $name } управља овим подешавањем.
+extension-controlled-web-notifications = Додатак <img data-l10n-name="icon"/> { $name } управља овим подешавањем.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
-extension-controlled-default-search = Проширење <img data-l10n-name="icon"/> { $name } је подесило подразумевани претраживач.
+extension-controlled-default-search = Додатак <img data-l10n-name="icon"/> { $name } је подесио подразумевани претраживач.
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
-extension-controlled-privacy-containers = Проширење <img data-l10n-name="icon"/> { $name } захтева картице контејнера.
+extension-controlled-privacy-containers = Додатак <img data-l10n-name="icon"/> { $name } захтева картице контејнера.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
-extension-controlled-websites-content-blocking-all-trackers = Проширење <img data-l10n-name="icon"/> { $name } управља овим подешавањем.
+extension-controlled-websites-content-blocking-all-trackers = Додатак <img data-l10n-name="icon"/> { $name } управља овим подешавањем.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Есктензија <img data-l10n-name="icon"/> { $name } управља начином на који се { -brand-short-name } повезује на интернет.
@@ -159,7 +159,7 @@ startup-restore-previous-session =
 startup-restore-warn-on-quit =
     .label = Упозори при изласку из прегледача
 disable-extension =
-    .label = Онемогући проширење
+    .label = Онемогући додатак
 tabs-group-header = Картице
 ctrl-tab-recently-used-order =
     .label = Кретање кроз недавно коришћене језичке уз Ctrl+Tab
@@ -448,7 +448,7 @@ browsing-media-control =
     .accesskey = v
 browsing-media-control-learn-more = Сазнајте више
 browsing-cfr-recommendations =
-    .label = Препоручи проширења приликом прегледања
+    .label = Препоручуј додатке при прегледању
     .accesskey = р
 browsing-cfr-features =
     .label = Предлажи функције током прегледања
