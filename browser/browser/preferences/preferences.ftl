@@ -748,7 +748,7 @@ sync-engine-creditcards =
     .accesskey = К
 sync-engine-addons =
     .label = Додаци
-    .tooltiptext = Проширења и теме за Firefox на рачунару
+    .tooltiptext = Додаци и теме за Firefox на рачунару
     .accesskey = Д
 sync-engine-prefs =
     .label = Подешавања
@@ -1102,7 +1102,13 @@ collection-studies =
     .label = Дозволи { -brand-short-name }-у да инсталира и покрене студије
 collection-studies-link = Погледајте { -brand-short-name } студије
 addon-recommendations =
-    .label = Дозволи програму { -brand-short-name } давање персонализованих препорука за проширења
+    .label =
+        Дозволи { -brand-short-name.gender ->
+            [masculine] { -brand-short-name(case: "loc") }
+            [feminine] { -brand-short-name(case: "loc") }
+            [neuter] { -brand-short-name(case: "loc") }
+           *[other] програму { -brand-short-name }
+        } да препоручује додатке изабране само за мене
 addon-recommendations-link = Сазнајте више
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
