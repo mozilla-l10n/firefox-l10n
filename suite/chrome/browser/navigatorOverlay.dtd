@@ -53,6 +53,7 @@ left instead of right. -->
 <!ENTITY recentTabs.label "Nedavno zaprti zavihki">
 <!ENTITY recentWindows.label "Nedavno zaprta okna">
 <!ENTITY historyRestoreLastSession.label "Obnovi prejšnjo sejo">
+<!ENTITY syncTabsMenu.label "Zavihki z drugih računalnikov">
 
 <!-- Bookmarks Menu -->
 <!ENTITY bookmarksMenu.label "Zaznamki">
