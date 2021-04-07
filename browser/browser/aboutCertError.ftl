@@ -60,7 +60,7 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 # Variables:
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
-cert-error-details-cert-chain-label = Certificate chain:
+cert-error-details-cert-chain-label = Ланац сертификата:
 open-in-new-window-for-csp-or-xfo-error = Отвори сајт у новом прозору
 # Variables:
 # $hostname (String) - Hostname of the website blocked by csp or xfo error.
@@ -68,14 +68,14 @@ csp-xfo-blocked-long-desc = Из безбедносних разлога { $host
 
 ## Messages used for certificate error titles
 
-connectionFailure-title = Повезивање није успело
+connectionFailure-title = Повезивање није могуће
 deniedPortAccess-title = Приступ овој адреси је ограничен
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Овај сајт није доступан
 fileNotFound-title = Датотека није пронађена
 fileAccessDenied-title = Приступ датотеци је одбијен
-generic-title = Упс.
+generic-title = Грешка
 captivePortal-title = Пријавите се на мрежу
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
@@ -84,19 +84,19 @@ netInterrupt-title = Веза је прекинута
 notCached-title = Документ је истекао
 netOffline-title = Офлајн режим
 contentEncodingError-title = Грешка у кодирању садржаја
-unsafeContentType-title = Небезбедна врста датотеке
+unsafeContentType-title = Небезбедан тип датотеке
 netReset-title = Веза је ресетована
 netTimeout-title = Временско ограничење везе је истекло
-unknownProtocolFound-title = Непознати тип адресе
+unknownProtocolFound-title = Непознати протокол
 proxyConnectFailure-title = Прокси сервер одбија везе
-proxyResolveFailure-title = Не могу да пронађем прокси сервер
-redirectLoop-title = Страница се не преусмерава исправно
-unknownSocketType-title = Неочекиван одговор од сервера
-nssFailure2-title = Успостављање безбедне везе није успело
+proxyResolveFailure-title = Није могуће пронаћи прокси сервер
+redirectLoop-title = Циклическое перенаправление на странице
+unknownSocketType-title = Неочекивани одговор сервера
+nssFailure2-title = Безбедна веза није успостављена
 csp-xfo-error-title = { -brand-short-name } не може да отвори ову страницу
 corruptedContentError-title = Грешка оштећеног садржаја
 remoteXUL-title = Удаљени XUL
-sslv3Used-title = Успостављање безбедне везе није успело
+sslv3Used-title = Безбедна веза није успостављена
 inadequateSecurityError-title = Веза није безбедна
 blockedByPolicy-title = Блокиране странице
 clockSkewError-title = Време на вашем рачунару је погрешно
