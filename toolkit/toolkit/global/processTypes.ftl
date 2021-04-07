@@ -3,6 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 process-type-web = Conteníu web
+# process used to run privileged about pages,
+# such as about:home
+process-type-privilegedabout = Páxines «about» privilexaes
+# process used to run privileged mozilla pages,
+# such as accounts.firefox.com
+process-type-privilegedmozilla = Conteníu privilexáu de Mozilla
 process-type-extension = Estensión
 # process used to open file:// URLs
 process-type-file = Ficheru llocal
