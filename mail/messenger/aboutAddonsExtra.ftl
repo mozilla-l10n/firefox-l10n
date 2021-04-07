@@ -4,3 +4,5 @@
 
 add-on-options-button =
     .title = Tùy chọn tiện ích
+atn-addons-heading-search-input =
+    .placeholder = Tìm kiếm addons.thunderbird.net
