@@ -2,3 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+process-type-web = Conteníu web
+process-type-extension = Estensión
+# process used to open file:// URLs
+process-type-file = Ficheru llocal
+# process used to isolate a webpage from other web pages
+# to improve security
+process-type-webisolated = Conteníu web aislláu
+# process used to communicate with the GPU for
+# graphics acceleration
+process-type-gpu = GPU
+# process used to perform network operations
+process-type-socket = Ralura
