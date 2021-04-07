@@ -321,6 +321,7 @@ about-logins-import-dialog-error-unable-to-read-description = Asegúrate de habe
 about-logins-import-dialog-error-no-logins-imported = No se importaron credenciales
 about-logins-import-dialog-error-learn-more = Aprender más
 about-logins-import-dialog-error-try-again = Volver a intentarlo…
+about-logins-import-dialog-error-try-import-again = Volver a intentar la importación…
 about-logins-import-dialog-error-cancel = Cancelar
 about-logins-import-report-title = Resumen de importación
 about-logins-import-report-description = Credenciales y contraseñas importadas a { -brand-short-name }.
