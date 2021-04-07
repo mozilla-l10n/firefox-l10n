@@ -39,7 +39,7 @@
 
 <!ENTITY col.name.label          "Ном">
 
-<!ENTITY cmd.find.key  "ҷ">
+<!ENTITY cmd.find.key  "f">
 
 <!ENTITY maintenance.label      "Воридот ва нусхаи эҳтиётӣ">
 <!ENTITY maintenance.tooltip    "Воридот ва нусхаи эҳтиётии хатбаракҳо">

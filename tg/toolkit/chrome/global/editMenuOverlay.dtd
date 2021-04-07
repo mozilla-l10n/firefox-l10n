@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY findCmd.label             "Ҷустуҷӯ">
-<!ENTITY findCmd.key               "Ҷ">
+<!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "Ҷ">
 <!ENTITY findAgainCmd.label        "Аз нав ҷустуҷӯ кардан">
 <!ENTITY findAgainCmd.key          "G">
