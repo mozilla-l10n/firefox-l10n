@@ -5,7 +5,7 @@
 
 ## These messages are used as headings in the recommendation doorhanger
 
-cfr-doorhanger-extension-heading = Препоручено проширење
+cfr-doorhanger-extension-heading = Препоручени додатак
 cfr-doorhanger-feature-heading = Препоручена могућност
 cfr-doorhanger-pintab-heading = Пробајте да закачите картицу
 
@@ -32,8 +32,8 @@ cfr-doorhanger-extension-author = Аутор: { $name }
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Препорука
 cfr-doorhanger-extension-notification2 = Препорука
-    .tooltiptext = Препорука проширења
-    .a11y-announcement = Доступна је препорука проширења
+    .tooltiptext = Препорука додатка
+    .a11y-announcement = Доступна је препорука додатка
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Препорука
@@ -126,7 +126,7 @@ cfr-whatsnew-lockwise-take-link-text = Преузмите апликацију
 ## Search Bar
 
 cfr-whatsnew-searchbar-title = Куцајте мање, нађите више помоћу траке за адресу
-cfr-whatsnew-searchbar-body-topsites = Сада изаберите траку за адресу и оквир ће се проширити са линковима до ваших најпосећенијих сајтова.
+cfr-whatsnew-searchbar-body-topsites = Сада изаберите траку за адресу и оквир ће се проширити са линковима до најпосећенијих сајтова.
 
 ## Search bar
 

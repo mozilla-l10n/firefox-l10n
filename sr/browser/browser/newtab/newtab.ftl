@@ -172,7 +172,7 @@ newtab-section-menu-remove-section = Уклони одељак
 newtab-section-menu-collapse-section = Скупи одељак
 newtab-section-menu-expand-section = Прошири одељак
 newtab-section-menu-manage-section = Управљај одељком
-newtab-section-menu-manage-webext = Управљај проширењем
+newtab-section-menu-manage-webext = Управљај додатком
 newtab-section-menu-add-topsite = Додај омиљени сајт
 newtab-section-menu-add-search-engine = Додај претраживач
 newtab-section-menu-move-up = Помери горе
@@ -184,7 +184,7 @@ newtab-section-menu-privacy-notice = Обавештење о приватнос�
 newtab-section-collapse-section-label =
     .aria-label = Скупи одељак
 newtab-section-expand-section-label =
-    .aria-label = Рашири одељак
+    .aria-label = Прошири одељак
 
 ## Section Headers.
 
