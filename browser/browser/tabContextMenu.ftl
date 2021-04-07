@@ -26,7 +26,7 @@ close-tabs-to-the-end =
     .accesskey = e
 close-other-tabs =
     .label = Zarrar les demás llingüetes
-    .accesskey = o
+    .accesskey = e
 reload-tabs =
     .label = Volver cargar les llingüetes
     .accesskey = R
@@ -89,6 +89,14 @@ move-tabs =
 move-tab =
     .label = Mover la llingüeta
     .accesskey = v
+tab-context-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Volver abrir la llingüeta zarrada
+            [one] Volver abrir les llingüetes zarraes
+           *[other] Volver abrir les llingüetes zarraes
+        }
+    .accesskey = a
 tab-context-close-tabs =
     .label =
         { $tabCount ->
