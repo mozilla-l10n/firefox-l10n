@@ -2,8 +2,30 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY pref.download.title            "Prenosi">
 
+<!ENTITY downloadBehavior.label         "Ob začetku prenosa">
+<!ENTITY doNothing.label                "ne odpri ničesar">
+<!ENTITY doNothing.accesskey            "n">
+<!ENTITY openProgressDialog.label       "odpri okence s prikazom napredka">
+<!ENTITY openProgressDialog.accesskey   "o">
+<!ENTITY openDM.label                   "odpri upravitelja prenosov">
+<!ENTITY openDM.accesskey               "u">
+<!ENTITY flashWhenOpen.label            "Samo utripni z upraviteljem prenosov, če je že odprt">
+<!ENTITY flashWhenOpen.accesskey        "t">
 
+<!ENTITY downloadLocation.label         "Ob shranjevanju datoteke">
+<!ENTITY saveTo.label                   "Shrani datoteke v">
+<!ENTITY saveTo.accesskey               "v">
+<!ENTITY chooseDownloadFolder.label     "Izberi mapo …">
+<!ENTITY chooseDownloadFolder.accesskey "b">
+<!ENTITY alwaysAsk.label                "Pri vsakem prenosu vprašaj, kam želim shraniti datoteko">
+<!ENTITY alwaysAsk.accesskey            "p">
 
+<!ENTITY finishedBehavior.label         "Ko se prenos dokonča">
+<!ENTITY playSound.label                "predvajaj zvok">
+<!ENTITY playSound.accesskey            "z">
 <!ENTITY browse.label                   "Prebrskaj …">
 <!ENTITY browse.accesskey               "b">
+<!ENTITY playButton.label               "Predvajaj">
+<!ENTITY playButton.accesskey           "d">

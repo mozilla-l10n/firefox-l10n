@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     tab.cookiesonsystem.label      "Shranjeni piškotki">
+<!ENTITY     div.bannedservers.label        "Določite, katera spletna mesta lahko in katera ne smejo shranjevati piškotkov na vaš računalnik.">
 <!ENTITY     treehead.cookiename.label      "Ime piškotka">
 <!ENTITY     treehead.cookiedomain.label    "Spletno mesto">
 <!ENTITY     treehead.cookieexpires.label   "Preteče">
@@ -32,4 +33,10 @@
 <!ENTITY     blockSite.accesskey            "P">
 <!ENTITY     allowSite.label                "Dovoli">
 <!ENTITY     allowSite.accesskey            "D">
+<!ENTITY     removepermission.label         "Odstrani spletno mesto">
+<!ENTITY     removepermission.accesskey     "O">
+<!ENTITY     removeallpermissions.label     "Odstrani vsa spletna mesta">
+<!ENTITY     removeallpermissions.accesskey "v">
 
+<!ENTITY     futureCookies.label            "Spletnim mestom, ki so nastavila odstranjene piškotke, ne dovoli shranjevati prihodnjih piškotkov">
+<!ENTITY     futureCookies.accesskey        "h">
