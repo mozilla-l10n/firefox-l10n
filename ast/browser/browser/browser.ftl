@@ -389,6 +389,15 @@ save-to-pocket-button =
 
 ## Customize Toolbar Buttons
 
+# Variables:
+#  $shortcut (String): keyboard shortcut to open settings (only on macOS)
+toolbar-settings-button =
+    .label = Axustes
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Abre los axustes ({ $shortcut })
+           *[other] Abre los axustes
+        }
 
 ## More items
 
