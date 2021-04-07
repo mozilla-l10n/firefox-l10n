@@ -95,7 +95,7 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Отвори панел са инсталацијом додатака
 urlbar-tip-help-icon =
     .title = Потражите помоћ
-urlbar-search-tips-confirm = Важи, разумем
+urlbar-search-tips-confirm = Разумем
 # Read out before Urlbar Tip text content so screenreader users know the
 # subsequent text is a tip offered by the browser. It should end in a colon or
 # localized equivalent.

@@ -30,7 +30,7 @@ protection-report-page-content-title = Контролна табла зашти�
 protection-report-page-summary = { -brand-short-name } може заштитити вашу приватност у позадини док прегледате. Ево персонализованог сажетка ових заштита, са алаткама за преузимање контроле над вашом безбедношћу на мрежи.
 # This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
 protection-report-page-summary-default = { -brand-short-name } може заштитити вашу приватност у позадини док прегледате. Ево персонализованог сажетка ових заштита, са алаткама за преузимање контроле над вашом безбедношћу на мрежи.
-protection-report-settings-link = Управљајте подешавањима приватности и сигурности
+protection-report-settings-link = Управљајте подешавањима приватности и безбедности
 etp-card-title-always = Побољшана заштита од праћења: увек укључена
 etp-card-title-custom-not-blocking = Побољшана заштита од праћења: ИСКЉУЧЕНА
 etp-card-content-description = { -brand-short-name } аутоматски спречава компаније да вас потајно прате на мрежи.
@@ -64,7 +64,7 @@ lockwise-header-content-logged-in = Безбедно чувајте и синх�
 protection-report-save-passwords-button = Сачувај лозинке
     .title = Сачувај лозинке у { -lockwise-brand-short-name }
 protection-report-manage-passwords-button = Управљај лозинкама
-    .title = Управљај лозинкама уз { -lockwise-brand-short-name }
+    .title = Управљање лозинкама помоћу { -lockwise-brand-short-name(case: "gen") }
 lockwise-mobile-app-title = Понесите ваше лозинке свугде
 lockwise-no-logins-card-content = Користите лозинке сачуване у { -brand-short-name }-у на било којем уређају.
 lockwise-app-links = { -lockwise-brand-name } за <a data-l10n-name="lockwise-android-inline-link">Android</a> и <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
