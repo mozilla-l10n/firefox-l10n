@@ -550,6 +550,8 @@ home-prefs-shortcuts-by-option-sponsored =
 
 home-prefs-recommended-by-header =
     .label = ينصح به { $provider }
+home-prefs-recommended-by-description-update = محتوى مميّز من أرجاء الوِب جمعه لك { $provider }
+home-prefs-recommended-by-description-new = محتوى مميّز جمعه لك { $provider }، وهو جزء من عائلة { -brand-product-name }
 
 ##
 
@@ -680,6 +682,9 @@ sync-signedout-account-signin2 =
     .label = لِج إلى { -sync-brand-short-name }…
     .accesskey = ل
 sync-signedout-description2 = زامن علاماتك، و تأريخك، و ألسنتك، و كلمات سرك، و إضافاتك و الإعدادات بين كل أجهزتك.
+sync-signedout-account-signin3 =
+    .label = لِج كي تبدأ المزامنة…
+    .accesskey = ل
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download

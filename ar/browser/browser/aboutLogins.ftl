@@ -356,6 +356,7 @@ about-logins-import-dialog-error-unable-to-read-description = تأكّد من ا
 about-logins-import-dialog-error-no-logins-imported = لم تُستورد أيّ جلسات ولوج
 about-logins-import-dialog-error-learn-more = اطّلع على المزيد
 about-logins-import-dialog-error-try-again = أعِد المحاولة…
+about-logins-import-dialog-error-try-import-again = حاوِل الاستيراد ثانيةً…
 about-logins-import-dialog-error-cancel = ألغِ
 about-logins-import-report-title = ملخص الاستيراد
 about-logins-import-report-description = استوردت جلسات الولوج وكلمات السر إلى { -brand-short-name }.
