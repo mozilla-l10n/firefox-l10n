@@ -74,10 +74,10 @@ about-logins-login-intro-heading-logged-out = Ser du etter lagra innloggingar? K
 about-logins-login-intro-heading-logged-out2 = Ser du etter dei lagra innloggingane dine? Slå på synkronisering eller importer dei.
 about-logins-login-intro-heading-logged-in = Fann ingen synkroniserte innloggingar.
 login-intro-description = Slik kan du få { -brand-product-name }-innloggingane dine hit, om du har lagra dei på ei anna eining:
-login-intro-instruction-fxa = Lag eller logg inn på { -fxaccount-brand-name } på eininga der innloggingane dine er lagra
+login-intro-instruction-fxa = Lag eller logg inn på { -fxaccount-brand-name }en din på eininga der innloggingane dine er lagra
 login-intro-instruction-fxa-settings = Forsikre deg om at du har markert avkryssingsboksen for innloggingar i { -sync-brand-short-name }-innstillingane
 about-logins-intro-instruction-help = Gå til <a data-l10n-name="help-link">{ -lockwise-brand-short-name } Support</a> for meir hjelp.
-login-intro-instructions-fxa = Lag eller logg inn på { -fxaccount-brand-name } på eininga der innloggingane dine er lagra.
+login-intro-instructions-fxa = Lag eller logg inn på { -fxaccount-brand-name }en din på eininga der innloggingane dine er lagra.
 login-intro-instructions-fxa-settings = Gå til Innstillingar > Synkronisering > Slå på synkronisering… Merk av for innloggingar og passord.
 login-intro-instructions-fxa-help = Gå til <a data-l10n-name="help-link">{ -lockwise-brand-short-name }-brukarstøtte</a> for meir hjelp.
 about-logins-intro-import = Dersom innloggingane dine er lagra i ein annen nettlesar, kan du <a data-l10n-name="import-link">importere dei til { -lockwise-brand-short-name }</a>
