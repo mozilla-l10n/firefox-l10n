@@ -34,16 +34,16 @@ toolbar-context-menu-reopen-closed-tabs =
         }
     .accesskey = В
 toolbar-context-menu-manage-extension =
-    .label = Управљај проширењем
+    .label = Управљај додатком
     .accesskey = в
 toolbar-context-menu-remove-extension =
-    .label = Уклони проширење
+    .label = Уклони додатак
     .accesskey = к
 # This label is used in the extensions toolbar buttons context menus,
 # a user can use this command to submit to Mozilla an abuse report
 # related to that extension. "Report" is a verb.
 toolbar-context-menu-report-extension =
-    .label = Пријави проширење
+    .label = Пријави додатак
     .accesskey = р
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
