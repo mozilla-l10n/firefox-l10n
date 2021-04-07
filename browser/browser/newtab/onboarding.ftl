@@ -174,6 +174,7 @@ onboarding-multistage-pin-default-subtitle = Hitro, varno in zasebno brskanje vs
 onboarding-multistage-pin-default-waiting-subtitle = Ko se odprejo nastavitve, v rubriki Spletni brskalnik izberite { -brand-short-name }
 # The "settings" here refers to "Windows 10 Settings App" and not the browser's
 onboarding-multistage-pin-default-help-text = S tem boste { -brand-short-name } pripeli v opravilno vrstico in odprli nastavitve
+onboarding-multistage-pin-default-primary-button-label = Nastavi { -brand-short-name } kot moj glavni brskalnik
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Uvozite svoja gesla, zaznamke in <span data-l10n-name="zap">drugo</span>
