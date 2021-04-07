@@ -4,8 +4,8 @@
 
 screenshots-context-menu = Ta et skjermbilde
 screenshot-toolbarbutton =
-    .label = Skjermdump
-    .tooltiptext = Ta et skjermdump
+    .label = Skjermbilde
+    .tooltiptext = Ta et skjermbilde
 screenshots-my-shots-button = Mine skjermbilder
 screenshots-instructions = Dra eller klikk på siden for å velge et område. Trykk på ESC for å avbryte.
 screenshots-cancel-button = Avbryt
