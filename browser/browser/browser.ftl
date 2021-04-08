@@ -205,6 +205,9 @@ search-one-offs-context-set-as-default =
 
 ## Bookmark Panel
 
+bookmark-panel-cancel =
+    .label = បោះបង់
+    .accesskey = C
 bookmark-panel-show-editor-checkbox =
     .label = បង្ហាញកម្មវិធីកែសម្រួលនៅពេលកំពុងរក្សាទុក
     .accesskey = ប
@@ -396,6 +399,9 @@ library-bookmarks-menu =
     .label = ចំណាំ
 
 ## Pocket toolbar button
+
+
+## Customize Toolbar Buttons
 
 
 ## More items
