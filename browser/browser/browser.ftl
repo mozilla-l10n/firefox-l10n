@@ -270,6 +270,20 @@ search-one-offs-history =
 
 bookmarks-add-bookmark = Cytańske znamje pśidaś
 bookmarks-edit-bookmark = Cytańske znamje wobźěłaś
+bookmark-panel-cancel =
+    .label = Pśetergnuś
+    .accesskey = P
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [one] Cytańske znamje wótpóraś
+            [two] { $count } cytańskej znamjeni wótpóraś
+            [few] { $count } cytańske znamjenja wótpóraś
+           *[other] { $count } cytańskich znamjenjow wótpóraś
+        }
+    .accesskey = C
 bookmark-panel-show-editor-checkbox =
     .label = Editor pśi składowanju pokazaś
     .accesskey = E
