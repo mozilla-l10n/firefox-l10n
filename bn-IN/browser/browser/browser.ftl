@@ -221,6 +221,18 @@ search-one-offs-context-set-as-default =
 
 ## Bookmark Panel
 
+bookmark-panel-cancel =
+    .label = বাতিল
+    .accesskey = C
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [one] বুকমার্ক মুছে ফেলুন
+           *[other] বুকমার্ক মুছে ফেলুন { $count }
+        }
+    .accesskey = R
 bookmark-panel-show-editor-checkbox =
     .label = সংরক্ষণ করার সময় এডিটর দেখান
     .accesskey = S
@@ -412,6 +424,9 @@ library-bookmarks-menu =
     .label = বুকমার্কগুলি
 
 ## Pocket toolbar button
+
+
+## Customize Toolbar Buttons
 
 
 ## More items
