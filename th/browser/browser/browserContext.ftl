@@ -88,6 +88,12 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
+## Firefox Account Button
+
+toolbar-button-fxaccount =
+    .label = { -fxaccount-brand-name }
+    .tooltiptext = { -fxaccount-brand-name }
+
 ## Save Page
 
 main-context-menu-page-save =
@@ -373,6 +379,9 @@ main-context-menu-suggest-strong-password =
 main-context-menu-manage-logins =
     .label = จัดการการเข้าสู่ระบบ…
     .accesskey = M
+main-context-menu-manage-logins2 =
+    .label = จัดการการเข้าสู่ระบบ
+    .accesskey = จ
 main-context-menu-keyword =
     .label = เพิ่มคำสำคัญสำหรับการค้นหานี้…
     .accesskey = พ
