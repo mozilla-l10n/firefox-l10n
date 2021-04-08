@@ -223,6 +223,18 @@ search-one-offs-context-set-as-default =
 
 ## Bookmark Panel
 
+bookmark-panel-cancel =
+    .label = Vazgeç
+    .accesskey = z
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [one] Saife-imini Çetleştir
+           *[other] { $count } Saife-imini Çetleştir
+        }
+    .accesskey = r
 bookmark-panel-show-editor-checkbox =
     .label = Saqlağanda muarrirni köster
     .accesskey = S
@@ -420,6 +432,9 @@ library-bookmarks-menu =
 save-to-pocket-button =
     .label = { -pocket-brand-name }’ke Saqla
     .tooltiptext = { -pocket-brand-name }’ke Saqla
+
+## Customize Toolbar Buttons
+
 
 ## More items
 
