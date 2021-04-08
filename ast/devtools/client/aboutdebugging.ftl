@@ -73,6 +73,8 @@ about-debugging-setup-usb-disable-button = Desactivar los preseos USB
 # Text of the button displayed in the USB section of the setup page while USB debugging
 # components are downloaded and installed.
 about-debugging-setup-usb-updating-button = Anovando…
+# USB section of the Setup page (USB status)
+about-debugging-setup-usb-status-enabled = Activóse
 about-debugging-setup-usb-status-updating = Anovando…
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-dev-menu2 = Activa'l menú pa desendolcadores nel preséu Android.
