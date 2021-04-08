@@ -315,6 +315,7 @@ about-logins-import-dialog-error-unable-to-read-description = Assurez-vous d’a
 about-logins-import-dialog-error-no-logins-imported = Aucun identifiant n’a été importé
 about-logins-import-dialog-error-learn-more = En savoir plus
 about-logins-import-dialog-error-try-again = Réessayer…
+about-logins-import-dialog-error-try-import-again = Réessayer d’importer…
 about-logins-import-dialog-error-cancel = Annuler
 about-logins-import-report-title = Résumé de l’importation
 about-logins-import-report-description = Identifiants et mots de passe importés dans { -brand-short-name }.
