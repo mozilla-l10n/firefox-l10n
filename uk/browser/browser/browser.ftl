@@ -268,6 +268,19 @@ search-one-offs-history =
 
 bookmarks-add-bookmark = Додати закладку
 bookmarks-edit-bookmark = Редагувати закладку
+bookmark-panel-cancel =
+    .label = Скасувати
+    .accesskey = С
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [one] Прибрати закладку
+            [few] Прибрати { $count } закладки
+           *[many] Прибрати { $count } закладок
+        }
+    .accesskey = П
 bookmark-panel-show-editor-checkbox =
     .label = Показати редактор при збереженні
     .accesskey = к
