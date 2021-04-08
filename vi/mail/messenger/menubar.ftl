@@ -9,6 +9,17 @@ menu-view-charset =
     .label = Bảng mã văn bản
     .accesskey = c
 
+## Tools Menu
+
+# Since v89 we dropped the platforms distinction between Options or Preferences
+# and consolidated everything with Preferences.
+menu-tools-preferences =
+    .label = Tùy chỉnh
+    .accesskey = P
+menu-addons-and-themes =
+    .label = Tiện ích mở rộng và chủ đề
+    .accesskey = A
+
 ## Help Menu
 
 menu-help-enter-troubleshoot-mode =

@@ -10,6 +10,8 @@ preferences-title =
             [windows] Tùy chọn
            *[other] Tùy chỉnh
         }
+preferences-tab-title =
+    .title = Tùy chỉnh
 category-list =
     .aria-label = Thể loại
 pane-general-title = Tổng quát
@@ -90,6 +92,7 @@ update-in-progress-ok-button = &Loại bỏ
 update-in-progress-cancel-button = &Tiếp tục
 account-button = Cài đặt tài khoản
 addons-button = Tiện ích mở rộng & chủ đề
+open-addons-sidebar-button = Tiện ích mở rộng và chủ đề
 
 ## OS Authentication dialog
 
@@ -708,6 +711,17 @@ search-input-box =
             [windows] Tìm kiếm trong Tùy chọn
            *[other] Tìm kiếm trong Tùy chỉnh
         }
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-preferences-input =
+    .style = width: 15.4em
+    .placeholder = Tìm kiếm trong Tùy chỉnh
 
 ## Preferences UI Search Results
 
