@@ -239,6 +239,18 @@ search-one-offs-context-set-as-default-private =
 
 ## Bookmark Panel
 
+bookmark-panel-cancel =
+    .label = Ləğv et
+    .accesskey = C
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [one] Əlfəcin Sil
+           *[other] { $count } Əlfəcin Sil
+        }
+    .accesskey = R
 bookmark-panel-show-editor-checkbox =
     .label = Yadda saxlarkən redaktoru göstər
     .accesskey = S
@@ -444,6 +456,9 @@ library-bookmarks-menu =
 save-to-pocket-button =
     .label = { -pocket-brand-name }-ə Saxla
     .tooltiptext = { -pocket-brand-name }-ə Saxla
+
+## Customize Toolbar Buttons
+
 
 ## More items
 
