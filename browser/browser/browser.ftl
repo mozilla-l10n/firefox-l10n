@@ -266,6 +266,18 @@ search-one-offs-history =
 
 bookmarks-add-bookmark = Kirjanmerkin lisääminen
 bookmarks-edit-bookmark = Kirjanmerkin muokkaus
+bookmark-panel-cancel =
+    .label = Peruuta
+    .accesskey = P
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [one] Poista kirjanmerkki
+           *[other] Poista { $count } kirjanmerkkiä
+        }
+    .accesskey = P
 bookmark-panel-show-editor-checkbox =
     .label = Näytä muokkaus tallennettaessa
     .accesskey = m
