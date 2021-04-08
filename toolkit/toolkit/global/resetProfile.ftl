@@ -4,11 +4,14 @@
 
 refresh-profile-dialog =
     .title = { -brand-short-name } fernije
+refresh-profile-dialog-title = { -brand-short-name } opfrisse nei de standertynstellingen?
 refresh-profile-dialog-button =
     .label = { -brand-short-name } fernije
 refresh-profile-description = In frisse start om problemen op te lossen en prestaasjes werom te bringen.
 refresh-profile-description-details = Dit sil:
 refresh-profile-remove = Jo add-ons en oanpassingen fuortsmite
 refresh-profile-restore = Jo browserynstellingen nei de standertwearden weromsette
+refresh-profile-dialog-description = Meitsje in frisse start om prestaasjeproblemen op te lossen. Dit smyt jo útwreidingen en oanpassingen fuort. Jo reitsje gjin essinsjele ynformaasje kwyt, lykas blêdwizers en wachtwurden.
 refresh-profile = { -brand-short-name } opfrisse
 refresh-profile-button = { -brand-short-name } opfrisse…
+refresh-profile-learn-more = Mear ynfo
