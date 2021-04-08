@@ -268,6 +268,19 @@ search-one-offs-history =
 
 bookmarks-add-bookmark = Přidat záložku
 bookmarks-edit-bookmark = Upravit záložku
+bookmark-panel-cancel =
+    .label = Zrušit
+    .accesskey = Z
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [one] Odstranit záložku
+            [few] Odstranit { $count } záložky
+           *[other] Odstranit { $count } záložek
+        }
+    .accesskey = O
 bookmark-panel-show-editor-checkbox =
     .label = Zobrazovat editor při ukládání
     .accesskey = u
