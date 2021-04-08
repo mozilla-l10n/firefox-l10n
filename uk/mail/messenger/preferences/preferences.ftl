@@ -10,6 +10,8 @@ preferences-title =
             [windows] Налаштування
            *[other] Налаштування
         }
+preferences-tab-title =
+    .title = Налаштування
 category-list =
     .aria-label = Категорії
 pane-general-title = Загальні
@@ -90,6 +92,7 @@ update-in-progress-ok-button = &Відхилити
 update-in-progress-cancel-button = &Продовжити
 account-button = Налаштування облікового запису
 addons-button = Розширення і теми
+open-addons-sidebar-button = Додатки й теми
 
 ## OS Authentication dialog
 
@@ -708,6 +711,17 @@ search-input-box =
             [windows] Шукати у налаштуваннях
            *[other] Шукати у налаштуваннях
         }
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-preferences-input =
+    .style = width: 15.4em
+    .placeholder = Знайти в налаштуваннях
 
 ## Preferences UI Search Results
 
