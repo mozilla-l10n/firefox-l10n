@@ -5,6 +5,8 @@
 
 ## Strings used to display a warning in about:config
 
+config-about-warning-checkbox =
+    .label = Amosar esta alvertencia la próxima vegada
 
 ## These strings are used for column headers
 
