@@ -266,6 +266,18 @@ search-one-offs-history =
 
 bookmarks-add-bookmark = Ketz'aqatisäx Yaketal
 bookmarks-edit-bookmark = Tinuk' Yaketal
+bookmark-panel-cancel =
+    .label = Tiq'at
+    .accesskey = T
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [one] Tiyuj el re Yaketal
+           *[other] Keyuj el { $count } Yaketal
+        }
+    .accesskey = R
 bookmark-panel-show-editor-checkbox =
     .label = Tik'ut k'exob'äl toq niyak
     .accesskey = k
@@ -649,6 +661,9 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = Tiyak pa { -pocket-brand-name }
     .tooltiptext = Tiyak pa { -pocket-brand-name }
+
+## Customize Toolbar Buttons
+
 
 ## More items
 
