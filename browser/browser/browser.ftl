@@ -235,6 +235,18 @@ search-one-offs-context-set-as-default =
 
 ## Bookmark Panel
 
+bookmark-panel-cancel =
+    .label = Anulla
+    .accesskey = A
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [one] Levâ da mezo o segnalibbro
+           *[other] Levâ da mezo { $count } segnalibbro
+        }
+    .accesskey = R
 bookmark-panel-show-editor-checkbox =
     .label = Fanni vedde l'editô quande sarvo
     .accesskey = F
@@ -448,6 +460,9 @@ library-bookmarks-menu =
 save-to-pocket-button =
     .label = Sarva in { -pocket-brand-name }
     .tooltiptext = Sarva in { -pocket-brand-name }
+
+## Customize Toolbar Buttons
+
 
 ## More items
 
