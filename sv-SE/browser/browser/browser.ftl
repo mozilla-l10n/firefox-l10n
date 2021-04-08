@@ -266,6 +266,9 @@ search-one-offs-history =
 
 bookmarks-add-bookmark = Lägg till bokmärke
 bookmarks-edit-bookmark = Redigera bokmärke
+bookmark-panel-cancel =
+    .label = Avbryt
+    .accesskey = A
 # Variables:
 #  $count (number): number of bookmarks that will be removed
 bookmark-panel-remove =
