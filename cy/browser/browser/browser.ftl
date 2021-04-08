@@ -274,6 +274,22 @@ search-one-offs-history =
 
 bookmarks-add-bookmark = Ychwanegu Nod Tudalen
 bookmarks-edit-bookmark = Golygu Nod Tudalen
+bookmark-panel-cancel =
+    .label = Diddymu
+    .accesskey = D
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [zero] Dileu dim Nodau Tudalen
+            [one] Dileu { $count } Nod Tudalen
+            [two] Dileu { $count } Nod Tudalen
+            [few] Dileu { $count } Nod Tudalen
+            [many] Dileu { $count } Nod Tudalen
+           *[other] Dileu { $count } Nod Tudalen
+        }
+    .accesskey = T
 bookmark-panel-show-editor-checkbox =
     .label = Dangos y golygydd wrth gadw
     .accesskey = D
