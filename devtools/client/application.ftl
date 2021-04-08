@@ -71,6 +71,8 @@ serviceworker-empty-suggestions-debugger = Step through your Service Worker regi
 serviceworker-empty-suggestions-aboutdebugging = Inspect Service Workers from other domains. <a>Open about:debugging</a>
 # Link will open https://developer.mozilla.org/docs/Web/API/Service_Worker_API/Using_Service_Workers
 serviceworker-empty-intro-link = Сазнајте више
+# Header for the Manifest page when we have an actual manifest
+manifest-view-header = Манифест апликације
 # Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
 manifest-item-warnings = Грешке и упозорења
 # Header for the Identity section of Manifest inspection displayed in the application panel.
