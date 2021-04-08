@@ -225,6 +225,18 @@ search-one-offs-context-set-as-default =
 
 ## Bookmark Panel
 
+bookmark-panel-cancel =
+    .label = Hætta við
+    .accesskey = C
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [one] Fjarlægja { $count } bókamerki
+           *[other] Fjarlægja { $count } bókamerki
+        }
+    .accesskey = R
 bookmark-panel-show-editor-checkbox =
     .label = Sýna ritil þegar vistað er
     .accesskey = S
@@ -423,6 +435,9 @@ library-bookmarks-menu =
 save-to-pocket-button =
     .label = Vista í { -pocket-brand-name }
     .tooltiptext = Vista í { -pocket-brand-name }
+
+## Customize Toolbar Buttons
+
 
 ## More items
 
