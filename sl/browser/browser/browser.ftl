@@ -267,6 +267,9 @@ search-one-offs-history =
 
 bookmarks-add-bookmark = Dodaj zaznamek
 bookmarks-edit-bookmark = Uredi zaznamek
+bookmark-panel-cancel =
+    .label = Prekliči
+    .accesskey = P
 # Variables:
 #  $count (number): number of bookmarks that will be removed
 bookmark-panel-remove =
