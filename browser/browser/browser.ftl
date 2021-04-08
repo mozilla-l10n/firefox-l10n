@@ -256,6 +256,9 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmark-panel-cancel =
+    .label = ยกเลิก
+    .accesskey = ย
 bookmark-panel-show-editor-checkbox =
     .label = แสดงตัวแก้ไขเมื่อบันทึก
     .accesskey = ส
@@ -634,6 +637,9 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = บันทึกไปยัง { -pocket-brand-name }
     .tooltiptext = บันทึกไปยัง { -pocket-brand-name }
+
+## Customize Toolbar Buttons
+
 
 ## More items
 
