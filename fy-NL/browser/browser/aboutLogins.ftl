@@ -78,6 +78,8 @@ login-intro-instruction-fxa = Meitsje op it apparaat wêrop jo oanmeldgegevens s
 login-intro-instruction-fxa-settings = Soargje derfoar dat jo it fjild Oanmeldingen yn de ynstellingen fan { -sync-brand-short-name } oanfinkt hawwe
 about-logins-intro-instruction-help = Besykje <a data-l10n-name="help-link">Stipe foar { -lockwise-brand-short-name }</a> foar mear help
 login-intro-instructions-fxa = Meitsje op it apparaat wêrop jo oanmeldgegevens stean in { -fxaccount-brand-name } of meld jo oan.
+login-intro-instructions-fxa-settings = Gean nei Ynstellingen > Sync > Syngronisaasje ynskeakelje… Pleats in finkje by Oanmeldingen en wachtwurden.
+login-intro-instructions-fxa-help = Besykje <a data-l10n-name="help-link">Stipe foar { -lockwise-brand-short-name }</a> foar mear help.
 about-logins-intro-import = As jo oanmeldingen yn in oare browser bewarre wurde, kinne jo <a data-l10n-name="import-link">se ymportearje yn { -lockwise-brand-short-name }</a>
 about-logins-intro-import2 = As jo oanmeldingen bûten { -brand-product-name } bewarre binne, dan kinne jo se ymportearje <a data-l10n-name="import-browser-link">fan in oare browser út</a> of <a data-l10n-name = "import-file-link">fan in bestân út</a>
 
@@ -319,6 +321,7 @@ about-logins-import-dialog-error-unable-to-read-description = Kontrolearje oft j
 about-logins-import-dialog-error-no-logins-imported = Der binne gjin oanmeldingen ymportearre
 about-logins-import-dialog-error-learn-more = Mear ynfo
 about-logins-import-dialog-error-try-again = Opnij probearje…
+about-logins-import-dialog-error-try-import-again = Probearje nochris te ymportearjen...
 about-logins-import-dialog-error-cancel = Annulearje
 about-logins-import-report-title = Ymportgearfetting
 about-logins-import-report-description = Oanmeldingen en wachtwurden ymportearre yn { -brand-short-name }.

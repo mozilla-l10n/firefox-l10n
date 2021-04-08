@@ -9,6 +9,16 @@ about-private-browsing-info-title = Jo binne yn in priveefinster
 about-private-browsing-info-myths = Faaks hearde myten oer priveenavigaasje
 about-private-browsing =
     .title = Sykje op it web
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff =
+    .title = Mei { $engine } sykje of fier adres yn
+about-private-browsing-handoff-no-engine =
+    .title = Fier sykterm of adres yn
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff-text = Mei { $engine } sykje of fier adres yn
+about-private-browsing-handoff-text-no-engine = Fier sykterm of adres yn
 about-private-browsing-not-private = Jo binne op dit stuit net yn in priveefinster.
 about-private-browsing-info-description = { -brand-short-name } wisket jo syk- en browserskiednis sa gau as jo de tapassing ôfslute of alle priveenavigaasjeljepblêden en -finsters slute. Hoewol priveenavigaasje jo net anonym makket foar websites of jo ynternetprovider, makket dit it makliker om wat jo online dogge privee te hâlden tsjinoer oaren dy't dizze kompjûter brûke.
 about-private-browsing-need-more-privacy = Mear privacy nedich?

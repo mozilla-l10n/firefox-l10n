@@ -41,6 +41,18 @@ appmenu-menu-button-closed =
 appmenu-menu-button-opened =
     .tooltiptext = Tapassingsmenu slute
     .label = { -brand-shorter-name }
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Ofslute
+           *[other] Ofslute
+        }
+appmenu-menu-button-closed2 =
+    .tooltiptext = Tapassingsmenu iepenje
+    .label = { -brand-short-name }
+appmenu-menu-button-opened2 =
+    .tooltiptext = Tapassingsmenu slute
+    .label = { -brand-short-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -59,6 +71,10 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = No syngronisearje
+appmenu-remote-tabs-sign-into-sync =
+    .label = Oanmelde by Sync…
+appmenu-remote-tabs-turn-on-sync =
+    .label = Syngronisaasje ynskeakelje…
 appmenuitem-fxa-toolbar-sync-now2 = No syngronisearje
 appmenuitem-fxa-manage-account = Account beheare
 appmenu-fxa-header =
