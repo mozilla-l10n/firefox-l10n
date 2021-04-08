@@ -268,6 +268,19 @@ search-one-offs-history =
 
 bookmarks-add-bookmark = Įtraukti adresą
 bookmarks-edit-bookmark = Redaguoti adresyno įrašą
+bookmark-panel-cancel =
+    .label = Atsisakyti
+    .accesskey = s
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [one] Pašalinti įrašą
+            [few] Pašalinti { $count } įrašus
+           *[other] Pašalinti { $count } įrašų
+        }
+    .accesskey = P
 bookmark-panel-show-editor-checkbox =
     .label = Rodyti redagavimo formą įrašant
     .accesskey = R
@@ -654,6 +667,9 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = Įrašyti į „{ -pocket-brand-name }“
     .tooltiptext = Įrašyti į „{ -pocket-brand-name }“
+
+## Customize Toolbar Buttons
+
 
 ## More items
 
