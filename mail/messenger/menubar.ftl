@@ -9,6 +9,17 @@ menu-view-charset =
     .label = Tekenkodearring
     .accesskey = k
 
+## Tools Menu
+
+# Since v89 we dropped the platforms distinction between Options or Preferences
+# and consolidated everything with Preferences.
+menu-tools-preferences =
+    .label = Foarkarren
+    .accesskey = F
+menu-addons-and-themes =
+    .label = Add-ons en tema’s
+    .accesskey = A
+
 ## Help Menu
 
 menu-help-enter-troubleshoot-mode =

@@ -10,6 +10,8 @@ preferences-title =
             [windows] Opsjes
            *[other] Foarkarren
         }
+preferences-tab-title =
+    .title = Foarkarren
 category-list =
     .aria-label = Kategoryen
 pane-general-title = Algemien
@@ -90,6 +92,7 @@ update-in-progress-ok-button = &Ferwerpe
 update-in-progress-cancel-button = &Trochgean
 account-button = Accountynstellingen
 addons-button = Utwreidingen & Tema's
+open-addons-sidebar-button = Add-ons en tema’s
 
 ## OS Authentication dialog
 
@@ -165,6 +168,12 @@ customize-alert-label =
 tray-icon-label =
     .label = Taakbalkikoantsje toane
     .accesskey = t
+biff-use-system-alert =
+    .label = De systeemmelding brûke
+tray-icon-unread-label =
+    .label = In systeemfekpiktogram foar net lêzen berjochten toane
+    .accesskey = t
+tray-icon-unread-description = Oanrekemmandearre by gebrûk fan lytse taakbalkeknoppen
 mail-system-sound-label =
     .label = Standert systeemlûd foar nije e-mail
     .accesskey = y
@@ -702,6 +711,17 @@ search-input-box =
             [windows] Yn Opsjes sykje
            *[other] Yn Foarkarren sykje
         }
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-preferences-input =
+    .style = width: 15.4em
+    .placeholder = Sykje yn Foarkarren
 
 ## Preferences UI Search Results
 
