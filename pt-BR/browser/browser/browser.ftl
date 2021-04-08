@@ -266,6 +266,18 @@ search-one-offs-history =
 
 bookmarks-add-bookmark = Adicionar favorito
 bookmarks-edit-bookmark = Editar favorito
+bookmark-panel-cancel =
+    .label = Cancelar
+    .accesskey = C
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [one] Remover favorito
+           *[other] Remover { $count } favoritos
+        }
+    .accesskey = E
 bookmark-panel-show-editor-checkbox =
     .label = Exibir editor ao salvar
     .accesskey = S
