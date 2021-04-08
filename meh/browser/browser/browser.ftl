@@ -264,6 +264,9 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmark-panel-cancel =
+    .label = Nkuvi-ka
+    .accesskey = C
 bookmark-panel-show-editor-checkbox =
     .label = Xituvi natee saa chuva´a
     .accesskey = S
@@ -583,6 +586,9 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = Chuva´a nuu { -pocket-brand-name }
     .tooltiptext = Chuva´a nuu { -pocket-brand-name }
+
+## Customize Toolbar Buttons
+
 
 ## More items
 
