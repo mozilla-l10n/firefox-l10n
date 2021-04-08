@@ -23,7 +23,7 @@ browser-main-window =
 # there is no content title:
 #
 # "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
+# "private" - "Mozilla Firefox — (Private Browsing)"
 #
 # The last two are for use when there *is* a content title.
 # Do not use the brand name in the last two attributes, as we do on non-macOS.
@@ -231,7 +231,7 @@ bookmark-panel-remove =
         { $count ->
             [zero] Aizvākt grāmatzīmi
             [one] Aizvākt grāmatzīmes ({ $count })
-           *[other] { " " }Aizvākt grāmatzīmes ({ $count })
+           *[other] Aizvākt grāmatzīmes ({ $count })
         }
     .accesskey = A
 bookmark-panel-show-editor-checkbox =
@@ -321,6 +321,8 @@ popup-all-windows-shared = Visi uz ekrāna redzamie logi tiks koplietoti.
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Ieraksti meklējamo tekstu vai mājas lapas adresi
+# This placeholder is used when not in search mode and the user's default search
+# engine is unknown.
 urlbar-placeholder =
     .placeholder = Ieraksti meklējamo tekstu vai mājas lapas adresi
 # Variables
