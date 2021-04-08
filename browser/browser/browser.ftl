@@ -221,6 +221,19 @@ search-one-offs-context-set-as-default =
 
 ## Bookmark Panel
 
+bookmark-panel-cancel =
+    .label = Atcelt
+    .accesskey = C
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [zero] Aizvākt grāmatzīmi
+            [one] Aizvākt grāmatzīmes ({ $count })
+           *[other] { " " }Aizvākt grāmatzīmes ({ $count })
+        }
+    .accesskey = A
 bookmark-panel-show-editor-checkbox =
     .label = Rādīt redaktoru, saglabājot
     .accesskey = S
@@ -412,6 +425,9 @@ library-bookmarks-menu =
     .label = Grāmatzīmes
 
 ## Pocket toolbar button
+
+
+## Customize Toolbar Buttons
 
 
 ## More items
