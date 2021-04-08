@@ -266,6 +266,18 @@ search-one-offs-history =
 
 bookmarks-add-bookmark = Könyvjelző hozzáadása
 bookmarks-edit-bookmark = Könyvjelző szerkesztése
+bookmark-panel-cancel =
+    .label = Mégse
+    .accesskey = M
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [one] Könyvjelző törlése
+           *[other] { $count } könyvjelző törlése
+        }
+    .accesskey = t
 bookmark-panel-show-editor-checkbox =
     .label = Szerkesztő megjelenítése mentéskor
     .accesskey = e
