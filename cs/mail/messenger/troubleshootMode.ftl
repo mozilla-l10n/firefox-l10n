@@ -17,7 +17,7 @@ troubleshoot-mode-description =
         [feminine] { -brand-short-name(case: "loc") }
         [neuter] { -brand-short-name(case: "loc") }
        *[other] aplikaci { -brand-short-name }
-    }  vám pomůže s řešením potíží. Vaše doplňky a uživatelská nastavení budou dočasně zakázána.
+    }  vám pomůže s diagnostikou problémů. Vaše doplňky a uživatelská nastavení budou dočasně zakázána.
 troubleshoot-mode-description2 = Některé z těchto změn můžete provést natrvalo:
 troubleshoot-mode-disable-addons =
     .label = Zakázat všechny doplňky
