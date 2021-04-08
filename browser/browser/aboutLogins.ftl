@@ -18,6 +18,7 @@ login-filter =
 create-login-button = Buat Info Masuk Baru
 fxaccounts-sign-in-text = Dapatkan kata sandi Anda di perangkat lain
 fxaccounts-sign-in-button = Masuk ke { -sync-brand-short-name }
+fxaccounts-sign-in-sync-button = Masuk untuk sinkronisasi
 fxaccounts-avatar-button =
     .title = Kelola akun
 
@@ -69,11 +70,15 @@ about-logins-list-item-vulnerable-password-icon =
 
 login-intro-heading = Mencari info masuk Anda yang tersimpan? Siapkan { -sync-brand-short-name }.
 about-logins-login-intro-heading-logged-out = Mencari info masuk Anda yang tersimpan? Siapkan { -sync-brand-short-name } atau impor saja.
+about-logins-login-intro-heading-logged-out2 = Mencari info masuk Anda yang simpan? Aktifkan sinkronisasi atau mengimpornya.
 about-logins-login-intro-heading-logged-in = Info masuk yang disinkronkan tidak ditemukan.
 login-intro-description = Jika Anda menyimpan info masuk Anda di { -brand-product-name } pada perangkat lain, berikut cara mendapatkannya di sini:
 login-intro-instruction-fxa = Buat atau masuk ke { -fxaccount-brand-name } Anda pada perangkat tempat info masuk Anda tersimpan
 login-intro-instruction-fxa-settings = Pastikan Anda telah memilih kotak centang Info Masuk pada Pengaturan { -sync-brand-short-name }
 about-logins-intro-instruction-help = Kunjungi <a data-l10n-name="help-link">Bantuan { -lockwise-brand-short-name }</a> untuk bantuan lebih lanjut
+login-intro-instructions-fxa = Buat atau masuk ke { -fxaccount-brand-name } Anda pada perangkat tempat info masuk Anda tersimpan
+login-intro-instructions-fxa-settings = Buka Pengaturan > Sinkronisasi > Aktifkan sinkronisasi… Centang Info masuk dan sandi.
+login-intro-instructions-fxa-help = Kunjungi <a data-l10n-name="help-link">Bantuan { -lockwise-brand-short-name }</a> untuk bantuan lebih lanjut.
 about-logins-intro-import = Jika info masuk Anda tersimpan dalam peramban lain, Anda dapat <a data-l10n-name="import-link">mengimpor data tersebut ke { -lockwise-brand-short-name }</a>
 about-logins-intro-import2 = Jika info masuk Anda tersimpan di luar { -brand-product-name }, Anda bisa <a data-l10n-name="import-browser-link">mengimpornya dari peramban lain</a> atau <a data-l10n-name="import-file-link">mengimpornya dari berkas</a>.
 
@@ -301,6 +306,7 @@ about-logins-import-dialog-error-unable-to-read-description = Pastikan Anda memi
 about-logins-import-dialog-error-no-logins-imported = Tidak ada info masuk yang diimpor
 about-logins-import-dialog-error-learn-more = Pelajari lebih lanjut
 about-logins-import-dialog-error-try-again = Coba Lagi…
+about-logins-import-dialog-error-try-import-again = Coba Impor Lagi…
 about-logins-import-dialog-error-cancel = Batalkan
 about-logins-import-report-title = Ringkasan Impor
 about-logins-import-report-description = Info masuk dan kata sandi yang diimpor ke { -brand-short-name }.
