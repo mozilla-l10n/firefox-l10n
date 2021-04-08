@@ -9,6 +9,17 @@ menu-view-charset =
     .label = Κωδικοποίηση κειμένου
     .accesskey = κ
 
+## Tools Menu
+
+# Since v89 we dropped the platforms distinction between Options or Preferences
+# and consolidated everything with Preferences.
+menu-tools-preferences =
+    .label = Προτιμήσεις
+    .accesskey = Π
+menu-addons-and-themes =
+    .label = Πρόσθετα και θέματα
+    .accesskey = ρ
+
 ## Help Menu
 
 menu-help-enter-troubleshoot-mode =

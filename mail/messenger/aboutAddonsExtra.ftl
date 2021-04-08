@@ -6,3 +6,4 @@ add-on-options-button =
     .title = Επιλογές προσθέτου
 atn-addons-heading-search-input =
     .placeholder = Αναζήτηση στο addons.thunderbird.net
+sidebar-preferences-button-title = Προτιμήσεις { -brand-short-name }
