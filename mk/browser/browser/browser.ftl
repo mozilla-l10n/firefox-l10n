@@ -158,6 +158,9 @@ search-one-offs-context-set-as-default =
 
 ## Bookmark Panel
 
+bookmark-panel-cancel =
+    .label = Откажи
+    .accesskey = О
 bookmark-panel-done-button =
     .label = Во ред
 
@@ -332,6 +335,9 @@ library-bookmarks-menu =
     .label = Обележувачи
 
 ## Pocket toolbar button
+
+
+## Customize Toolbar Buttons
 
 
 ## More items
