@@ -10,6 +10,12 @@ unread-messages-os-tooltip =
     }
 about-rights-notification-text = { -brand-short-name } 是一套自由且開放原始碼的軟體，由來自世界各地數千位成員組成的社群所打造。
 
+## Toolbar
+
+addons-and-themes-button =
+    .label = 附加元件與佈景主題
+    .tooltip = 管理您的附加元件
+
 ## Folder Pane
 
 folder-pane-toolbar =
@@ -42,3 +48,18 @@ show-recent-folders-label =
 folder-toolbar-toggle-folder-compact-view =
     .label = 精簡檢視
     .accesskey = C
+
+## AppMenu
+
+# Since v89 we dropped the platforms distinction between Options or Preferences
+# and consolidated everything with Preferences.
+appmenu-preferences =
+    .label = 偏好設定
+appmenu-addons-and-themes =
+    .label = 附加元件與佈景主題
+appmenu-help-enter-troubleshoot-mode =
+    .label = 疑難排解模式…
+appmenu-help-exit-troubleshoot-mode =
+    .label = 關閉疑難排解模式
+appmenu-help-more-troubleshooting-info =
+    .label = 更多疑難排解資訊
