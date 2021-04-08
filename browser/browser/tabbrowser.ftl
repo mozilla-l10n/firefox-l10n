@@ -5,4 +5,4 @@
 # Variables:
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
-    .label = { $domain }의 이와 같은 알림이 그 도메인의 탭으로 전환하도록 허용
+    .label = { $domain }의 이와 같은 알림이 해당 탭으로 전환하도록 허용
