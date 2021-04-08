@@ -178,6 +178,9 @@ search-one-offs-context-set-as-default-private =
 
 ## Bookmark Panel
 
+bookmark-panel-cancel =
+    .label = नेवसि
+    .accesskey = C
 # Variables:
 #  $count (number): number of bookmarks that will be removed
 bookmark-panel-remove =
