@@ -347,7 +347,7 @@ applications-file-ending-with-type = { applications-file-ending } ({ $type })
 applications-use-plugin-in =
     .label = Uporabi { $plugin-name } (v { -brand-short-name })
 applications-open-inapp =
-    .label = Odpri v { -brand-short-name }u
+    .label = Odpri v { -brand-short-name(sklon: "mestnik") }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -439,7 +439,7 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = Omejitev procesov vsebine
     .accesskey = O
 performance-limit-content-process-enabled-desc = Dodatni procesi vsebine lahko pospešijo delovanje pri uporabi večjega števila zavihkov, a tudi porabijo več pomnilnika.
-performance-limit-content-process-blocked-desc = Število procesov vsebine je mogoče spreminjati samo v večprocesnem { -brand-short-name }u. <a data-l10n-name="learn-more">Kako izveste, ali je večprocesni način omogočen</a>
+performance-limit-content-process-blocked-desc = Število procesov vsebine je mogoče spreminjati samo v večprocesnem { -brand-short-name(sklon: "mestnik") }. <a data-l10n-name="learn-more">Kako izveste, ali je večprocesni način omogočen</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -1132,16 +1132,16 @@ collection-health-report =
     .accesskey = h
 collection-health-report-link = Več o tem
 collection-studies =
-    .label = { -brand-short-name }u dovoli nameščanje in izvajanje raziskav
+    .label = { -brand-short-name(sklon: "dajalnik") } dovoli nameščanje in izvajanje raziskav
 collection-studies-link = Prikaži raziskave { -brand-short-name(sklon: "rodilnik") }
 addon-recommendations =
-    .label = { -brand-short-name }u dovoli prilagojena priporočila o razširitvah
+    .label = { -brand-short-name(sklon: "dajalnik") } dovoli prilagojena priporočila o razširitvah
 addon-recommendations-link = Več o tem
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Pošiljanje podatkov je onemogočeno za to nastavitev graditve
 collection-backlogged-crash-reports =
-    .label = { -brand-short-name }u dovoli, da v vašem imenu pošilja poročila o sesutju iz zaloge
+    .label = { -brand-short-name(sklon: "dajalnik") } dovoli, da v vašem imenu pošilja poročila o sesutjih iz zaloge
     .accesskey = z
 collection-backlogged-crash-reports-link = Več o tem
 
@@ -1208,8 +1208,8 @@ space-alert-under-5gb-message = Brskalniku { -brand-short-name } zmanjkuje prost
 space-alert-over-5gb-settings-button =
     .label = Odpri nastavitve
     .accesskey = O
-space-alert-over-5gb-message2 = <strong>{ -brand-short-name }u zmanjkuje prostora.</strong> Vsebina spletnih strani morda ne bo prikazana pravilno. Shranjene podatke lahko izbrišete v Nastavitve > Zasebnost in varnost > Piškotki in podatki strani.
-space-alert-under-5gb-message2 = <strong>{ -brand-short-name }u zmanjkuje prostora na disku.</strong> Strani se morda ne bodo prikazovale pravilno. Kliknite "Več o tem" za optimizacijo uporabe prostora na disku in boljšo izkušnjo pri brskanju po spletu.
+space-alert-over-5gb-message2 = <strong>{ -brand-short-name(sklon: "dajalnik") } zmanjkuje prostora.</strong> Vsebina spletnih strani morda ne bo prikazana pravilno. Shranjene podatke lahko izbrišete v Nastavitve > Zasebnost in varnost > Piškotki in podatki strani.
+space-alert-under-5gb-message2 = <strong>{ -brand-short-name(sklon: "dajalnik") } zmanjkuje prostora na disku.</strong> Strani se morda ne bodo prikazovale pravilno. Kliknite "Več o tem" za optimizacijo uporabe prostora na disku in boljšo izkušnjo pri brskanju po spletu.
 
 ## Privacy Section - HTTPS-Only
 

@@ -142,7 +142,7 @@ disabled-unsigned-heading =
 disabled-unsigned-description = Naslednji dodatki niso bili potrjeni za uporabo v { -brand-short-name }u. Lahko <label data-l10n-name="find-addons">jih nadomestite</label> ali zaprosite razvijalca, da jih potrdi.
 disabled-unsigned-learn-more = Več o naših prizadevanjih za večjo varnost na spletu.
 disabled-unsigned-devinfo = Razvijalcem, ki želijo potrditi svoje dodatke, priporočamo branje našega <label data-l10n-name="learn-more">priročnika</label>.
-plugin-deprecation-description = Pogrešate kaj? Nekateri vtičniki niso več podprti v { -brand-short-name }u. <label data-l10n-name="learn-more">Več o tem.</label>
+plugin-deprecation-description = Pogrešate kaj? Nekaterih vtičnikov { -brand-short-name } ne podpira več. <label data-l10n-name="learn-more">Več o tem</label>
 legacy-warning-show-legacy = Prikaži zastarele razširitve
 legacy-extensions =
     .value = Zastarele razširitve
