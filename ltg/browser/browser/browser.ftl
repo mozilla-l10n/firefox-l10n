@@ -23,7 +23,7 @@ browser-main-window =
 # there is no content title:
 #
 # "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
+# "private" - "Mozilla Firefox — (Private Browsing)"
 #
 # The last two are for use when there *is* a content title.
 # Do not use the brand name in the last two attributes, as we do on non-macOS.
@@ -217,7 +217,7 @@ bookmark-panel-remove =
         { $count ->
             [zero] Aizvōkt { $count } grōmotzeimi
             [one] Aizvōkt grōmotzeimes { $count }
-           *[other] { " " }Aizvōkt grōmotzeimes { $count }
+           *[other] Aizvōkt grōmotzeimes { $count }
         }
     .accesskey = A
 bookmark-panel-show-editor-checkbox =
@@ -307,6 +307,8 @@ popup-all-windows-shared = All visible windows on your screen will be shared.
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Īrkosti meklejamū tekstu voi sātys lopys adresu
+# This placeholder is used when not in search mode and the user's default search
+# engine is unknown.
 urlbar-placeholder =
     .placeholder = Īrkosti meklejamū tekstu voi sātys lopys adresu
 # Variables
