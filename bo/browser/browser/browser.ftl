@@ -213,6 +213,14 @@ search-one-offs-context-set-as-default =
 
 ## Bookmark Panel
 
+bookmark-panel-cancel =
+    .label = ཕྱིར་འཐེན
+    .accesskey = C
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label = ཡིག་རྟགས་{ $count }་བསུབ་པ
+    .accesskey = R
 bookmark-panel-show-editor-checkbox =
     .label = Show editor when saving
     .accesskey = S
@@ -404,6 +412,9 @@ library-bookmarks-menu =
     .label = ཡིག་རྟགས
 
 ## Pocket toolbar button
+
+
+## Customize Toolbar Buttons
 
 
 ## More items
