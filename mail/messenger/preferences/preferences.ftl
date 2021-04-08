@@ -10,6 +10,8 @@ preferences-title =
             [windows] Opties
            *[other] Voorkeuren
         }
+preferences-tab-title =
+    .title = Voorkeuren
 category-list =
     .aria-label = Categorieën
 pane-general-title = Algemeen
@@ -90,6 +92,7 @@ update-in-progress-ok-button = &Verwerpen
 update-in-progress-cancel-button = &Doorgaan
 account-button = Accountinstellingen
 addons-button = Extensies & Thema’s
+open-addons-sidebar-button = Add-ons en thema’s
 
 ## OS Authentication dialog
 
