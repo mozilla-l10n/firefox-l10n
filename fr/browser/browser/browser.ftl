@@ -266,6 +266,15 @@ search-one-offs-history =
 
 bookmarks-add-bookmark = Ajouter un marque-page
 bookmarks-edit-bookmark = Modifier le marque-page
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [one] Supprimer le marque-page
+           *[other] Supprimer les { $count } marque-pages
+        }
+    .accesskey = S
 bookmark-panel-show-editor-checkbox =
     .label = Afficher l’éditeur lors de l’enregistrement
     .accesskey = A
@@ -649,6 +658,9 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = Enregistrer dans { -pocket-brand-name }
     .tooltiptext = Enregistrer dans { -pocket-brand-name }
+
+## Customize Toolbar Buttons
+
 
 ## More items
 
