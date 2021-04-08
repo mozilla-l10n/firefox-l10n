@@ -266,6 +266,18 @@ search-one-offs-history =
 
 bookmarks-add-bookmark = Adicionar marcador
 bookmarks-edit-bookmark = Editar marcador
+bookmark-panel-cancel =
+    .label = Cancelar
+    .accesskey = C
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [one] Remover marcador
+           *[other] Remover { $count } marcadores
+        }
+    .accesskey = R
 bookmark-panel-show-editor-checkbox =
     .label = Mostrar o editor ao guardar
     .accesskey = s
@@ -649,6 +661,9 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = Guardar no { -pocket-brand-name }
     .tooltiptext = Guardar no { -pocket-brand-name }
+
+## Customize Toolbar Buttons
+
 
 ## More items
 
