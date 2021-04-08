@@ -67,6 +67,7 @@ category-experimental =
 pane-experimental-subtitle = Συνεχίστε με προσοχή
 pane-experimental-search-results-header = Πειράματα { -brand-short-name }: Συνεχίστε με προσοχή
 pane-experimental-description = Η αλλαγή παραμέτρων των σύνθετων προτιμήσεων μπορεί να επηρεάσει την απόδοση ή την ασφάλεια του { -brand-short-name }.
+pane-experimental-description2 = Η αλλαγή παραμέτρων των σύνθετων ρυθμίσεων μπορεί να επηρεάσει την απόδοση ή την ασφάλεια του { -brand-short-name }.
 pane-experimental-reset =
     .label = Επαναφορά προεπιλογών
     .accesskey = Ε
@@ -403,6 +404,14 @@ update-setting-write-failure-message =
     
     Αδυναμία εγγραφής στο αρχείο: { $path }
 update-setting-write-failure-title2 = Σφάλμα αποθήκευσης ρυθμίσεων ενημερώσεων
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message2 =
+    Το { -brand-short-name } αντιμετώπισε σφάλμα και δεν αποθήκευσε αυτή την αλλαγή. Σημειώστε ότι η αλλαγή αυτής της επιλογής ενημερώσεων απαιτεί δικαίωμα εγγραφής στο παρακάτω αρχείο. Εσείς ή κάποιος διαχειριστής συστήματος ενδέχεται να μπορέσει να επιλύσει το σφάλμα, χορηγώντας στην ομάδα "Χρήστες" τον πλήρη έλεγχο για αυτό το αρχείο.
+    
+    Δεν ήταν δυνατή η εγγραφή στο αρχείο: { $path }
 update-in-progress-title = Ενημέρωση σε εξέλιξη
 update-in-progress-message = Θέλετε το { -brand-short-name } να συνεχίσει με αυτή την ενημέρωση;
 update-in-progress-ok-button = &Απόρριψη
@@ -1195,6 +1204,8 @@ space-alert-under-5gb-message = Το { -brand-short-name } δεν έχει επ�
 space-alert-over-5gb-settings-button =
     .label = Άνοιγμα ρυθμίσεων
     .accesskey = Ά
+space-alert-over-5gb-message2 = <strong>Το { -brand-short-name } δεν διαθέτει επαρκή χώρο στον δίσκο.</strong> Το περιεχόμενο των ιστοσελίδων ενδέχεται να μην εμφανίζεται κανονικά. Μπορείτε να εκκαθαρίσετε τα αποθηκευμένα δεδομένα στις Ρυθμίσεις > Απόρρητο & ασφάλεια > Cookies και δεδομένα ιστοσελίδων.
+space-alert-under-5gb-message2 = <strong>Το { -brand-short-name } δεν διαθέτει επαρκή χώρο στον δίσκο.</strong> Το περιεχόμενο των ιστοσελίδων ενδέχεται να μην εμφανίζεται σωστά. Επισκεφθείτε το “Μάθετε περισσότερα” για να βελτιστοποιήσετε τη χρήση δίσκου σας για καλύτερη εμπειρία περιήγησης.
 
 ## Privacy Section - HTTPS-Only
 
