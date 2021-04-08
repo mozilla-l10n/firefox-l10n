@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 profiledowngrade-window =
-    .title = Zagnali ste starejšo različico { -brand-product-name }a
+    .title = Zagnali ste starejšo različico { -brand-product-name(sklon: "rodilnik") }
     .style = width: 490px;
 profiledowngrade-window-create =
     .label = Ustvari nov profil

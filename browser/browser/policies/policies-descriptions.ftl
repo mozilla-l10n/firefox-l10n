@@ -34,7 +34,7 @@ policy-DisableFeedbackCommands = Onemogoči ukaze v meniju Pomoč za pošiljanje
 policy-DisableFirefoxAccounts = Onemogoči storitve na osnovi { -fxaccount-brand-name }ov, na primer sinhronizacijo.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Onemogoči možnost Firefox Screenshots.
-policy-DisableFirefoxStudies = { -brand-short-name }u prepreči izvajanje raziskav.
+policy-DisableFirefoxStudies = { -brand-short-name(sklon: "dajalnik") } prepreči izvajanje raziskav.
 policy-DisableForgetButton = Prepreči dostop do gumba Pozabi.
 policy-DisableFormHistory = Ne shranjuj zgodovine iskanja in obrazcev.
 policy-DisableMasterPasswordCreation = Če je "true", glavnega gesla ni mogoče ustvariti.
