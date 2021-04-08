@@ -266,6 +266,18 @@ search-one-offs-history =
 
 bookmarks-add-bookmark = Shto Faqerojtës
 bookmarks-edit-bookmark = Përpunoni Faqerojtësin
+bookmark-panel-cancel =
+    .label = Anuloje
+    .accesskey = A
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [one] Hiqe Faqerojtësin
+           *[other] Hiqi Faqerojtësit ({ $count })
+        }
+    .accesskey = H
 bookmark-panel-show-editor-checkbox =
     .label = Shfaqe përpunuesin kur bëhen ruajtje
     .accesskey = S
