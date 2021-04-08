@@ -266,6 +266,18 @@ search-one-offs-history =
 
 bookmarks-add-bookmark = Lesezeichen hinzufügen
 bookmarks-edit-bookmark = Lesezeichen bearbeiten
+bookmark-panel-cancel =
+    .label = Abbrechen
+    .accesskey = b
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [one] Lesezeichen entfernen
+           *[other] { $count } Lesezeichen entfernen
+        }
+    .accesskey = e
 bookmark-panel-show-editor-checkbox =
     .label = Eigenschaften beim Speichern bearbeiten
     .accesskey = g
@@ -646,6 +658,9 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = In { -pocket-brand-name } speichern
     .tooltiptext = In { -pocket-brand-name } speichern
+
+## Customize Toolbar Buttons
+
 
 ## More items
 
