@@ -12,6 +12,12 @@ unread-messages-os-tooltip =
     }
 about-rights-notification-text = { -brand-short-name } je svobodný a otevřený software vytvořený komunitou tisíců lidí z celého světa.
 
+## Toolbar
+
+addons-and-themes-button =
+    .label = Doplňky a vzhledy
+    .tooltip = Otevře správce doplňků
+
 ## Folder Pane
 
 folder-pane-toolbar =
@@ -44,3 +50,18 @@ show-recent-folders-label =
 folder-toolbar-toggle-folder-compact-view =
     .label = Kompaktní zobrazení
     .accesskey = K
+
+## AppMenu
+
+# Since v89 we dropped the platforms distinction between Options or Preferences
+# and consolidated everything with Preferences.
+appmenu-preferences =
+    .label = Předvolby
+appmenu-addons-and-themes =
+    .label = Doplňky a vzhledy
+appmenu-help-enter-troubleshoot-mode =
+    .label = Režim řešení potíží…
+appmenu-help-exit-troubleshoot-mode =
+    .label = Ukončit režim řešení potíží
+appmenu-help-more-troubleshooting-info =
+    .label = Další technické informace
