@@ -10,6 +10,8 @@ preferences-title =
             [windows] Nastajenja
            *[other] Nastajenja
         }
+preferences-tab-title =
+    .title = Nastajenja
 category-list =
     .aria-label = Kategorije
 pane-general-title = Powšykne
@@ -90,6 +92,7 @@ update-in-progress-ok-button = &Zachyśiś
 update-in-progress-cancel-button = &Dalej
 account-button = Kontowe nastajenja
 addons-button = Rozšyrjenja a drastwy
+open-addons-sidebar-button = Dodanki a drastwy
 
 ## OS Authentication dialog
 
@@ -165,6 +168,12 @@ customize-alert-label =
 tray-icon-label =
     .label = Symbol we wótkładnicy pokazaś
     .accesskey = t
+biff-use-system-alert =
+    .label = Systemowu powěźeńku wužywaś
+tray-icon-unread-label =
+    .label = Symbol wótkładnice za njecytane powěsći pokazaś
+    .accesskey = S
+tray-icon-unread-description = Pórucony, gaž małe tłocaški nadawkoweje rědki wužywaśo
 mail-system-sound-label =
     .label = Standardny systemowy zuk za nowu e-mail
     .accesskey = S
@@ -702,6 +711,17 @@ search-input-box =
             [windows] W nastajenjach pytaś
            *[other] W nastajenjach pytaś
         }
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-preferences-input =
+    .style = width: 15.4em
+    .placeholder = W nastajenjach namakaś
 
 ## Preferences UI Search Results
 
