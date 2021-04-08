@@ -247,6 +247,18 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmark-panel-cancel =
+    .label = रद्द करें
+    .accesskey = C
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [one] बुकमार्क हटाएँ
+           *[other] { $count } बुकमार्क हटाएँ
+        }
+    .accesskey = R
 bookmark-panel-show-editor-checkbox =
     .label = सहेजते समय संपादक दिखाएं
     .accesskey = S
@@ -512,6 +524,9 @@ library-bookmarks-menu =
 save-to-pocket-button =
     .label = { -pocket-brand-name } में सहेजें
     .tooltiptext = { -pocket-brand-name } में सहेजें
+
+## Customize Toolbar Buttons
+
 
 ## More items
 
