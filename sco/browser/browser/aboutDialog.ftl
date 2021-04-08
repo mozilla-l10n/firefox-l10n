@@ -25,3 +25,10 @@ update-unsupported = Ye cannae mak ony mair updates on this seestem. <label data
 update-restarting = Restertin...
 channel-description = The noo, ye're on the <label data-l10n-name="current-channel"></label> update channel.
 warningDesc-version = { -brand-short-name } is experimental and micht no be stieve.
+aboutdialog-help-user = Hauners
+aboutdialog-submit-feedback = Submit Feedback
+community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> is a <label data-l10n-name="community-exp-creditsLink">warldwide community</label> wirkin thegither tae keep the Wab open, public, and wi ingang fur aw.
+community-2 = { -brand-short-name } is designt by <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, a <label data-l10n-name="community-creditsLink">warldwide community</label> wirkin thegither tae keep the Wab open, public, and wi ingang for aw.
+helpus = Want tae help? <label data-l10n-name="helpus-donateLink">Mak a contreebution</label> or <label data-l10n-name="helpus-getInvolvedLink">get involved!</label>
+bottomLinks-license = Licensin Information
+bottomLinks-rights = End-Yaiser Richts
