@@ -153,6 +153,9 @@ search-one-offs-with-title = cheel,  chuk  tuk'
 
 ## Bookmark Panel
 
+bookmark-panel-cancel =
+    .label = Ya'sakan
+    .accesskey = C
 bookmark-panel-done-button =
     .label = Tzojpiya
 # Width of the bookmark panel.
@@ -176,6 +179,14 @@ browser-window-maximize-button =
     .tooltiptext = Nimb'isamal
 browser-window-close-button =
     .tooltiptext = Jupa
+
+## Tab actions
+
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
 
 ## Bookmarks toolbar items
 
@@ -204,6 +215,9 @@ browser-window-close-button =
 ## Full Screen and Pointer Lock UI
 
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-sidebar-content =
@@ -214,8 +228,26 @@ bookmarks-sidebar-content =
 library-bookmarks-menu =
     .label = Aq'ol texhlal
 
+## Pocket toolbar button
+
+
+## Customize Toolbar Buttons
+
+
 ## More items
 
 more-menu-go-offline =
     .label = Aq'on kuxhtu' tul ye'l Internet ati
     .accesskey = n
+
+## EME notification panel
+
+
+## Password save/update panel
+
+
+## Add-on removal warning
+
+
+## Remote / Synced tabs
+
