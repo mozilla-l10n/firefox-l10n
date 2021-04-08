@@ -266,6 +266,18 @@ search-one-offs-history =
 
 bookmarks-add-bookmark = სანიშნის დამატება
 bookmarks-edit-bookmark = სანიშნის ჩასწორება
+bookmark-panel-cancel =
+    .label = გაუქმება
+    .accesskey = ქ
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [one] სანიშნის მოცილება
+           *[other] { $count } სანიშნის მოცილება
+        }
+    .accesskey = მ
 bookmark-panel-show-editor-checkbox =
     .label = ჩასწორების შესაძლებლობა შენახვისას
     .accesskey = ჩ
@@ -646,6 +658,9 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = { -pocket-brand-name }-ში შენახვა
     .tooltiptext = { -pocket-brand-name }-ში შენახვა
+
+## Customize Toolbar Buttons
+
 
 ## More items
 
