@@ -264,6 +264,18 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmark-panel-cancel =
+    .label = لغو
+    .accesskey = C
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [one] حذف نشانک
+           *[other] حذف { $count } نشانک
+        }
+    .accesskey = R
 bookmark-panel-show-editor-checkbox =
     .label = نمایش ویرایش‌گر هنگام ذخیره‌سازی
     .accesskey = S
@@ -624,6 +636,9 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = ذخیره‌سازی در { -pocket-brand-name }
     .tooltiptext = ذخیره‌سازی در { -pocket-brand-name }
+
+## Customize Toolbar Buttons
+
 
 ## More items
 
