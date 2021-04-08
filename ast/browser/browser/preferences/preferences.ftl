@@ -52,6 +52,7 @@ category-experimental =
 pane-experimental-subtitle = Sigui con curiáu
 pane-experimental-search-results-header = Esperimentos de { -brand-short-name }: Vete con curiáu
 pane-experimental-description = El cambéu de la configuración avanzada pue afeutar al rindimientu o seguranza de { -brand-short-name }.
+pane-experimental-description2 = El cambéu de la configuración avanzada pue afeutar al rindimientu o seguranza de { -brand-short-name }.
 pane-experimental-reset =
     .label = Reafitar
     .accesskey = R
