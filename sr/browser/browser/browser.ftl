@@ -271,6 +271,16 @@ bookmarks-edit-bookmark = Уреди обележивач
 bookmark-panel-cancel =
     .label = Откажи
     .accesskey = О
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [one] Уклони обележивач
+            [few] Уклони { $count } обележивача
+           *[other] Уклони { $count } обележивача
+        }
+    .accesskey = У
 bookmark-panel-show-editor-checkbox =
     .label = Прикажи уређивач приликом чувања
     .accesskey = S
