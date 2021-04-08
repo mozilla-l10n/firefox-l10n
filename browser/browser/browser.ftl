@@ -256,6 +256,14 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmark-panel-cancel =
+    .label = キャンセル
+    .accesskey = C
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label = { $count } 個のブックマークを削除
+    .accesskey = R
 bookmark-panel-show-editor-checkbox =
     .label = 追加時にエディターを表示する
     .accesskey = S
@@ -602,6 +610,9 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = { -pocket-brand-name } に保存
     .tooltiptext = { -pocket-brand-name } に保存
+
+## Customize Toolbar Buttons
+
 
 ## More items
 
