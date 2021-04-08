@@ -264,6 +264,18 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmark-panel-cancel =
+    .label = Չեղարկել
+    .accesskey = C
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [one] Ջնջել Էջանիշը
+           *[other] Ջնջել Էջանիշերը { $count }
+        }
+    .accesskey = R
 bookmark-panel-show-editor-checkbox =
     .label = Ցուցադրել խմբագրիչում, երբ պահպանուում է
     .accesskey = S
@@ -608,6 +620,9 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = Պահպանել { -pocket-brand-name }-ում
     .tooltiptext = Պահպանել { -pocket-brand-name }-ում
+
+## Customize Toolbar Buttons
+
 
 ## More items
 
