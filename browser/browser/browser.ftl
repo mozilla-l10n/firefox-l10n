@@ -264,6 +264,18 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmark-panel-cancel =
+    .label = Interrumper
+    .accesskey = I
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [one] Allontanar il segnapagina
+           *[other] Allontanar ils { $count } segnapaginas
+        }
+    .accesskey = r
 bookmark-panel-show-editor-checkbox =
     .label = Mussar l'editur cun memorisar
     .accesskey = s
@@ -642,6 +654,9 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = Memorisar en { -pocket-brand-name }
     .tooltiptext = Memorisar en { -pocket-brand-name }
+
+## Customize Toolbar Buttons
+
 
 ## More items
 
