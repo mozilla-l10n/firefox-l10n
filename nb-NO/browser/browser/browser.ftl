@@ -266,6 +266,18 @@ search-one-offs-history =
 
 bookmarks-add-bookmark = Legg til bokmerke
 bookmarks-edit-bookmark = Rediger bokmerke
+bookmark-panel-cancel =
+    .label = Avbryt
+    .accesskey = A
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [one] Slett bokmerke
+           *[other] Slett { $count } bokmerker
+        }
+    .accesskey = r
 bookmark-panel-show-editor-checkbox =
     .label = Vis redigerer ved lagring
     .accesskey = s
