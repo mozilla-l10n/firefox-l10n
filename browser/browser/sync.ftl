@@ -14,7 +14,6 @@ fxa-disconnect-dialog-title = ¿Desconectar { -brand-product-name }?
 fxa-disconnect-dialog-body = { -brand-product-name } va desconectase de la to cuenta mas nun va desaniciar nengún datu de restolar d'esti preséu.
 sync-disconnect-dialog-button = Desconectar
 fxa-signout-dialog-heading = ¿Zarrar sesión en { -fxaccount-brand-name }?
-fxa-signout-dialog2-title = ¿Zarrar sesión en { -fxaccount-brand-name(capitalization: "sentence") }?
 fxa-signout-dialog-body = Los datos sincronizaos van quedar na to cuenta.
 fxa-signout-checkbox =
     .label = Desaniciar los datos d'esti preséu (anicios de sesión, contraseeñes, historial, marcadores, etc.).
