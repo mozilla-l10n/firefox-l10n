@@ -210,6 +210,18 @@ search-one-offs-context-set-as-default =
 
 ## Bookmark Panel
 
+bookmark-panel-cancel =
+    .label = रद्द करा
+    .accesskey = C
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [one] वाचनखूण नष्ट करा
+           *[other] { $count } वाचनखूणा नष्ट करा
+        }
+    .accesskey = R
 bookmark-panel-show-editor-checkbox =
     .label = जतन करतांना संपादक दर्शवा
     .accesskey = S
@@ -421,6 +433,9 @@ library-bookmarks-menu =
 save-to-pocket-button =
     .label = { -pocket-brand-name } मध्ये जतन करा
     .tooltiptext = { -pocket-brand-name } मध्ये जतन करा
+
+## Customize Toolbar Buttons
+
 
 ## More items
 
