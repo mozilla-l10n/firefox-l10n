@@ -144,7 +144,7 @@ return-to-amo-sub-header = Odlično, imate { -brand-short-name }
 #   $addon-name (String) - Name of the add-on
 return-to-amo-addon-header = Zdaj pa dodajte <icon></icon><b>{ $addon-name }.</b>
 return-to-amo-extension-button = Dodaj razširitev
-return-to-amo-get-started-button = Začnite s { -brand-short-name }om
+return-to-amo-get-started-button = Začnite s { -brand-short-name(sklon: "orodnik") }
 onboarding-not-now-button-label = Ne zdaj
 
 ## Custom Return To AMO onboarding strings

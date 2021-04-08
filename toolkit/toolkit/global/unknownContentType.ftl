@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 unknowncontenttype-handleinternally =
-    .label = Odpri s { -brand-short-name }om
+    .label = Odpri s { -brand-short-name(sklon: "orodnik") }
     .accesskey = r
 unknowncontenttype-settingschange =
     .value =
