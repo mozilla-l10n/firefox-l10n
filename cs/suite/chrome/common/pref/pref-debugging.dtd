@@ -22,11 +22,13 @@
 <!ENTITY debugPaintDumping.label "Dump vykreslení">
 <!ENTITY debugPaintDumping.accesskey "v">
 <!ENTITY debugInvalidateDumping.label "Dump zneplatnění">
+<!ENTITY debugInvalidateDumping.accesskey "n">
 <!ENTITY debugEventDumping.label "Dump události">
 <!ENTITY debugEventDumping.accesskey "d">
 <!ENTITY debugMotionEventDumping.label "Dump události pohybu">
 <!ENTITY debugMotionEventDumping.accesskey "p">
 <!ENTITY debugCrossingEventDumping.label "Crossing Event Dumping">
+<!ENTITY debugCrossingEventDumping.accesskey "C">
 
 <!-- Reflow Event Debugging -->
 <!ENTITY debugReflowEvents.label                 "Přeformátovat události">
