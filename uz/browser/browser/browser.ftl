@@ -250,6 +250,9 @@ search-one-offs-engine-with-alias =
 
 ## Bookmark Panel
 
+bookmark-panel-cancel =
+    .label = Bekor qilish
+    .accesskey = B
 bookmark-panel-show-editor-checkbox =
     .label = Saqlashda muharrirni ko‘rsatish
     .accesskey = S
@@ -489,6 +492,9 @@ library-bookmarks-menu =
 save-to-pocket-button =
     .label = { -pocket-brand-name } xizmatiga saqlash
     .tooltiptext = { -pocket-brand-name } xizmatiga saqlash
+
+## Customize Toolbar Buttons
+
 
 ## More items
 
