@@ -196,6 +196,15 @@ search-one-offs-context-set-as-default =
 
 ## Bookmark Panel
 
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [one] පිටු සලකුණ මකන්න
+           *[other] පිටු සලකුණු මකන්න ({ $count })
+        }
+    .accesskey = R
 bookmark-panel-done-button =
     .label = කළා
 
@@ -379,6 +388,9 @@ library-bookmarks-menu =
     .label = පිටු සලකුණු
 
 ## Pocket toolbar button
+
+
+## Customize Toolbar Buttons
 
 
 ## More items
