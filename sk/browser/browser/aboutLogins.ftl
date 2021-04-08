@@ -324,6 +324,7 @@ about-logins-import-dialog-error-unable-to-read-description = Uistite sa, že st
 about-logins-import-dialog-error-no-logins-imported = Neboli importované žiadne prihlasovacie údaje
 about-logins-import-dialog-error-learn-more = Ďalšie informácie
 about-logins-import-dialog-error-try-again = Skúsiť znova…
+about-logins-import-dialog-error-try-import-again = Skúste importovať znova...
 about-logins-import-dialog-error-cancel = Zrušiť
 about-logins-import-report-title = Súhrn
 about-logins-import-report-description = Prihlasovacie údaje boli importované do aplikácie { -brand-short-name }.
