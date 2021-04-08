@@ -106,6 +106,9 @@ search-one-offs-context-open-new-tab =
 
 ## Bookmark Panel
 
+bookmark-panel-cancel =
+    .label = Kunchatu
+    .accesskey = C
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -119,6 +122,14 @@ bookmark-panel =
 
 browser-window-close-button =
     .tooltiptext = Kasi
+
+## Tab actions
+
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
 
 ## Bookmarks toolbar items
 
@@ -147,6 +158,9 @@ browser-window-close-button =
 ## Full Screen and Pointer Lock UI
 
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 
@@ -155,8 +169,26 @@ browser-window-close-button =
 library-bookmarks-menu =
     .label = Kaii
 
+## Pocket toolbar button
+
+
+## Customize Toolbar Buttons
+
+
 ## More items
 
 more-menu-go-offline =
     .label = Sachu'un ta koo conexión
     .accesskey = x
+
+## EME notification panel
+
+
+## Password save/update panel
+
+
+## Add-on removal warning
+
+
+## Remote / Synced tabs
+
