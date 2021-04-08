@@ -264,6 +264,18 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmark-panel-cancel =
+    .label = Cancelar
+    .accesskey = C
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [one] Borrar Marcador
+           *[other] Borrar Marcadores ({ $count })
+        }
+    .accesskey = R
 bookmark-panel-show-editor-checkbox =
     .label = Mostrar editor al guardar
     .accesskey = S
@@ -579,6 +591,9 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = Guardar en { -pocket-brand-name }
     .tooltiptext = Guardar en { -pocket-brand-name }
+
+## Customize Toolbar Buttons
+
 
 ## More items
 
