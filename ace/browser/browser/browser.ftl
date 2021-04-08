@@ -109,6 +109,9 @@ search-one-offs-context-open-new-tab =
 
 ## Bookmark Panel
 
+bookmark-panel-cancel =
+    .label = Bateuë
+    .accesskey = B
 bookmark-panel-done-button =
     .label = Seuleusoë
 # Width of the bookmark panel.
@@ -129,6 +132,14 @@ browser-window-minimize-button =
     .tooltiptext = Peuubit
 browser-window-close-button =
     .tooltiptext = Tôp
+
+## Tab actions
+
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
 
 ## Bookmarks toolbar items
 
@@ -165,6 +176,9 @@ fullscreen-exit-button = Teubiet Layeue Peunoh (ESC)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Teubiet Peunoh Layeu (esc)
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-sidebar-content =
@@ -185,8 +199,26 @@ bookmarks-toolbar-placeholder-button =
 library-bookmarks-menu =
     .label = Peutanda
 
+## Pocket toolbar button
+
+
+## Customize Toolbar Buttons
+
+
 ## More items
 
 more-menu-go-offline =
     .label = Mubuet Maté Lèn
     .accesskey = k
+
+## EME notification panel
+
+
+## Password save/update panel
+
+
+## Add-on removal warning
+
+
+## Remote / Synced tabs
+
