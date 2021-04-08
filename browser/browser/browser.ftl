@@ -256,6 +256,14 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmark-panel-cancel =
+    .label = Batal
+    .accesskey = B
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label = Hapus { $count } Markah
+    .accesskey = H
 bookmark-panel-show-editor-checkbox =
     .label = Tampilkan editor saat menyimpan
     .accesskey = e
@@ -634,6 +642,9 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = Simpan ke { -pocket-brand-name }
     .tooltiptext = Simpan ke { -pocket-brand-name }
+
+## Customize Toolbar Buttons
+
 
 ## More items
 
