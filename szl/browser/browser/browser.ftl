@@ -266,6 +266,19 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmark-panel-cancel =
+    .label = Pociep
+    .accesskey = P
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [one] Wyciep zokłodka
+            [few] Wyciep { $count } zokłodki
+           *[many] Wyciep { $count } zokłodek
+        }
+    .accesskey = W
 bookmark-panel-show-editor-checkbox =
     .label = Pokoż edytōr przi spamiyntowaniu
     .accesskey = E
@@ -650,6 +663,9 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = Spamiyntej do { -pocket-brand-name(case: "gen") }
     .tooltiptext = Spamiyntej do { -pocket-brand-name(case: "gen") }
+
+## Customize Toolbar Buttons
+
 
 ## More items
 
