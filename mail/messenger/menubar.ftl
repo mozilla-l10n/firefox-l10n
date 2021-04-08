@@ -9,6 +9,12 @@ menu-view-charset =
     .label = Tekstcodering
     .accesskey = c
 
+## Tools Menu
+
+menu-addons-and-themes =
+    .label = Add-ons en thema’s
+    .accesskey = A
+
 ## Help Menu
 
 menu-help-enter-troubleshoot-mode =

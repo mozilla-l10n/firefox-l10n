@@ -11,6 +11,12 @@ unread-messages-os-tooltip =
     }
 about-rights-notification-text = { -brand-short-name } is vrije en opensourcesoftware, gebouwd door een gemeenschap van duizenden mensen over de hele wereld.
 
+## Toolbar
+
+addons-and-themes-button =
+    .label = Add-ons en thema's
+    .tooltip = Uw add-ons beheren
+
 ## Folder Pane
 
 folder-pane-toolbar =
@@ -43,3 +49,18 @@ show-recent-folders-label =
 folder-toolbar-toggle-folder-compact-view =
     .label = Compacte weergave
     .accesskey = C
+
+## AppMenu
+
+# Since v89 we dropped the platforms distinction between Options or Preferences
+# and consolidated everything with Preferences.
+appmenu-preferences =
+    .label = Voorkeuren
+appmenu-addons-and-themes =
+    .label = Add-ons en thema’s
+appmenu-help-enter-troubleshoot-mode =
+    .label = Probleemoplossingsmodus…
+appmenu-help-exit-troubleshoot-mode =
+    .label = Probleemoplossingsmodus uitschakelen
+appmenu-help-more-troubleshooting-info =
+    .label = Meer probleemoplossingsinformatie
