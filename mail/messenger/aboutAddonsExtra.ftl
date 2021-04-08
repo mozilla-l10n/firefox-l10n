@@ -6,3 +6,4 @@ add-on-options-button =
     .title = 附加组件选项
 atn-addons-heading-search-input =
     .placeholder = 在 addons.thunderbird.net 上搜索
+sidebar-preferences-button-title = { -brand-short-name } 首选项
