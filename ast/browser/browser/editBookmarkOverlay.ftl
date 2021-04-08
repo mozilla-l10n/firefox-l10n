@@ -40,3 +40,6 @@ bookmark-overlay-tags-expander =
 bookmark-overlay-keyword =
     .value = Pallabra clave:
     .accesskey = P
+bookmark-overlay-keyword-2 =
+    .value = Pallabra clave
+    .accesskey = P
