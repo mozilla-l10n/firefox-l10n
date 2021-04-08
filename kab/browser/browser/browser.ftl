@@ -266,6 +266,9 @@ search-one-offs-history =
 
 bookmarks-add-bookmark = Rnu tacreḍt n usebter
 bookmarks-edit-bookmark = Ẓreg tacreḍt n usebter
+bookmark-panel-cancel =
+    .label = Sefsex
+    .accesskey = S
 bookmark-panel-show-editor-checkbox =
     .label = Sken amaẓrag deg usekles
     .accesskey = k
