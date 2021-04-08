@@ -97,3 +97,4 @@ clockSkewError-title = Yer Computer Clock is Wrang
 networkProtocolError-title = Netwark Protocol Error
 nssBadCert-title = Tak Tent: Potential Siccarness Risk Aheid
 nssBadCert-sts-title = Didnae Connect: Potential Siccarness Issue
+certerror-mitm-title = Saftware is Hinderin { -brand-short-name } Fae Saufly Connectin tae This Site
