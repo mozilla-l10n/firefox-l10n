@@ -266,6 +266,9 @@ search-one-offs-history =
 
 bookmarks-add-bookmark = Προσθήκη σελιδοδείκτη
 bookmarks-edit-bookmark = Επεξεργασία σελιδοδείκτη
+bookmark-panel-cancel =
+    .label = Ακύρωση
+    .accesskey = Α
 # Variables:
 #  $count (number): number of bookmarks that will be removed
 bookmark-panel-remove =
