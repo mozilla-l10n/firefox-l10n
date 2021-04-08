@@ -268,6 +268,18 @@ search-one-offs-history =
 
 bookmarks-add-bookmark = Bladwijzer toevoegen
 bookmarks-edit-bookmark = Bladwijzer bewerken
+bookmark-panel-cancel =
+    .label = Annuleren
+    .accesskey = A
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [one] Bladwijzer verwijderen
+           *[other] Bladwijzers verwijderen ({ $count })
+        }
+    .accesskey = v
 bookmark-panel-show-editor-checkbox =
     .label = Editor tonen bij opslaan
     .accesskey = E
