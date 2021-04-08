@@ -266,6 +266,15 @@ search-one-offs-history =
 
 bookmarks-add-bookmark = Lägg till bokmärke
 bookmarks-edit-bookmark = Redigera bokmärke
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [one] Ta bort bokmärke
+           *[other] Ta bort { $count } bokmärken
+        }
+    .accesskey = T
 bookmark-panel-show-editor-checkbox =
     .label = Visa redigeraren när du sparar
     .accesskey = V
