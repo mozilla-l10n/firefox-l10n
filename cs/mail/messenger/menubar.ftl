@@ -9,6 +9,17 @@ menu-view-charset =
     .label = Znaková sada textu
     .accesskey = s
 
+## Tools Menu
+
+# Since v89 we dropped the platforms distinction between Options or Preferences
+# and consolidated everything with Preferences.
+menu-tools-preferences =
+    .label = Předvolby
+    .accesskey = P
+menu-addons-and-themes =
+    .label = Doplňky a vzhledy
+    .accesskey = a
+
 ## Help Menu
 
 menu-help-enter-troubleshoot-mode =
