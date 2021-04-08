@@ -13,6 +13,12 @@ unread-messages-os-tooltip =
     }
 about-rights-notification-text = { -brand-short-name } je brezplačen in odprtokoden program, ki ga ustvarja skupnost tisočev prostovoljcev z vsega sveta.
 
+## Toolbar
+
+addons-and-themes-button =
+    .label = Dodatki in teme
+    .tooltip = Upravljanje dodatkov
+
 ## Folder Pane
 
 folder-pane-toolbar =
@@ -45,3 +51,18 @@ show-recent-folders-label =
 folder-toolbar-toggle-folder-compact-view =
     .label = Zgoščen pogled
     .accesskey = Z
+
+## AppMenu
+
+# Since v89 we dropped the platforms distinction between Options or Preferences
+# and consolidated everything with Preferences.
+appmenu-preferences =
+    .label = Nastavitve
+appmenu-addons-and-themes =
+    .label = Dodatki in teme
+appmenu-help-enter-troubleshoot-mode =
+    .label = Način za odpravljanje težav …
+appmenu-help-exit-troubleshoot-mode =
+    .label = Izključi način za odpravljanje težav
+appmenu-help-more-troubleshooting-info =
+    .label = Več podatkov za odpravljanje težav
