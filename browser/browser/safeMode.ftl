@@ -36,5 +36,6 @@ troubleshoot-mode-description =
     } служи за дијагностику проблема. Додаци и прилагођена подешавања ће бити привремено онемогућени.
 safe-mode-description-details = Ваша подешавања додатака и прилагођена подешавања ће бити привремено онемогућена и могућности програма { -brand-short-name } можда неће радити као што је то предвиђено.
 refresh-profile-instead = Такође можете прескочити решавање проблема и пробати освежити { -brand-short-name }.
+skip-troubleshoot-refresh-profile = Можете и да прескочите решавање проблема и уместо тога освежите { -brand-short-name }.
 # Shown on the safe mode dialog after multiple startup crashes.
 auto-safe-mode-description = { -brand-short-name } се неочекивано затворио при покретању. Ово може бити проузроковано од стране додатака или других проблема. Можете пробати да решите проблем тако што ћете отворити безбедни режим.
