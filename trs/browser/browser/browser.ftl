@@ -233,6 +233,18 @@ search-one-offs-context-set-as-default-private =
 
 ## Bookmark Panel
 
+bookmark-panel-cancel =
+    .label = Duyichin'
+    .accesskey = C
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [one] Guxun' sa raj sun nicho' doj
+           *[other] guxun' { $count } sa rajsun nichro'
+        }
+    .accesskey = R
 bookmark-panel-show-editor-checkbox =
     .label = Digun' sa nagi'iaj 'ngà na'nïnj so'
     .accesskey = S
@@ -450,6 +462,9 @@ library-bookmarks-menu =
 save-to-pocket-button =
     .label = Nanín sa'aj riña { -pocket-brand-name }
     .tooltiptext = Nanín sa'aj riña { -pocket-brand-name }
+
+## Customize Toolbar Buttons
+
 
 ## More items
 
