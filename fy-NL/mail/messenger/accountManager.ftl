@@ -2,7 +2,4 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-add-on-options-button =
-    .title = Add-on-opsjes
-atn-addons-heading-search-input =
-    .placeholder = addons.thunderbird.net trochsykje
+open-addons-sidebar-button = Add-ons en tema’s
