@@ -266,6 +266,18 @@ search-one-offs-history =
 
 bookmarks-add-bookmark = ਬੁੱਕਮਾਰਕ ਜੋੜੋ
 bookmarks-edit-bookmark = ਬੁੱਕਮਾਰਕ ਸੋਧੋ
+bookmark-panel-cancel =
+    .label = ਰੱਦ ਕਰੋ
+    .accesskey = C
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [one] ਬੁੱਕਮਾਰਕ ਨੂੰ ਹਟਾਓ
+           *[other] ਬੁੱਕਮਾਰਕਾਂ ਨੂੰ ਹਟਾਓ ({ $count })
+        }
+    .accesskey = R
 bookmark-panel-show-editor-checkbox =
     .label = ਸੰਭਾਲਣ ‘ਤੇ ਸੰਪਾਦਕ ਵੇਖੋ
     .accesskey = S
@@ -654,6 +666,9 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = { -pocket-brand-name } ਵਿੱਚ ਸੰਭਾਲੋ
     .tooltiptext = { -pocket-brand-name } ਵਿੱਚ ਸੰਭਾਲੋ
+
+## Customize Toolbar Buttons
+
 
 ## More items
 
