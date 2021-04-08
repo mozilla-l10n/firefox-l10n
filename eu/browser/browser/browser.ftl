@@ -264,6 +264,18 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmark-panel-cancel =
+    .label = Utzi
+    .accesskey = z
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [one] Ezabatu laster-marka
+           *[other] Ezabatu { $count } laster-marka
+        }
+    .accesskey = K
 bookmark-panel-show-editor-checkbox =
     .label = Erakutsi editorea gordetzean
     .accesskey = E
@@ -627,6 +639,9 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = Gorde { -pocket-brand-name }-en
     .tooltiptext = Gorde { -pocket-brand-name }-en
+
+## Customize Toolbar Buttons
+
 
 ## More items
 
