@@ -12,7 +12,11 @@ compatibility-all-elements-header = Všechny problémy
 
 compatibility-issue-deprecated = (zastaralé)
 compatibility-issue-experimental = (experimentální)
+compatibility-issue-prefixneeded = (vyžaduje prefix)
 compatibility-issue-deprecated-experimental = (zastaralé, experimentální)
+compatibility-issue-deprecated-prefixneeded = (zastaralé, vyžaduje prefix)
+compatibility-issue-experimental-prefixneeded = (experimentální, vyžaduje prefix)
+compatibility-issue-deprecated-experimental-prefixneeded = (zastaralé, experimentální, vyžaduje prefix)
 
 ## Messages used as labels and titles for buttons in the footer
 
