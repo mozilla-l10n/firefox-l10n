@@ -10,6 +10,8 @@ preferences-title =
             [windows] Options
            *[other] Préférences
         }
+preferences-tab-title =
+    .title = Préférences
 category-list =
     .aria-label = Catégories
 pane-general-title = Général
@@ -90,6 +92,7 @@ update-in-progress-ok-button = &Abandonner
 update-in-progress-cancel-button = &Continuer
 account-button = Paramètres des comptes
 addons-button = Extensions et thèmes
+open-addons-sidebar-button = Modules complémentaires et thèmes
 
 ## OS Authentication dialog
 

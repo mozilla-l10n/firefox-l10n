@@ -11,6 +11,12 @@ unread-messages-os-tooltip =
     }
 about-rights-notification-text = { -brand-short-name } est un logiciel libre et open source, réalisé par une communauté internationale de milliers de personnes.
 
+## Toolbar
+
+addons-and-themes-button =
+    .label = Modules complémentaires et thèmes
+    .tooltip = Gérer vos modules complémentaires
+
 ## Folder Pane
 
 folder-pane-toolbar =
@@ -43,3 +49,18 @@ show-recent-folders-label =
 folder-toolbar-toggle-folder-compact-view =
     .label = Affichage compact
     .accesskey = c
+
+## AppMenu
+
+# Since v89 we dropped the platforms distinction between Options or Preferences
+# and consolidated everything with Preferences.
+appmenu-preferences =
+    .label = Préférences
+appmenu-addons-and-themes =
+    .label = Modules complémentaires et thèmes
+appmenu-help-enter-troubleshoot-mode =
+    .label = Mode de dépannage…
+appmenu-help-exit-troubleshoot-mode =
+    .label = Désactiver le mode de dépannage
+appmenu-help-more-troubleshooting-info =
+    .label = Plus d’informations de dépannage
