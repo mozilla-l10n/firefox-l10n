@@ -223,6 +223,18 @@ search-one-offs-context-set-as-default =
 
 ## Bookmark Panel
 
+bookmark-panel-cancel =
+    .label = বাতিল
+    .accesskey = C
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [one] বুকমার্ক মুছে ফেলা হবে
+           *[other] বুকমার্কগুলো মুছে ফেলা হবে { $count }
+        }
+    .accesskey = R
 bookmark-panel-show-editor-checkbox =
     .label = সংরক্ষণ করার সময় সম্পাদক দেখাও
     .accesskey = S
@@ -420,6 +432,9 @@ library-bookmarks-menu =
 save-to-pocket-button =
     .label = { -pocket-brand-name } এ সংরক্ষণ করুন
     .tooltiptext = { -pocket-brand-name } এ সংরক্ষণ করুন
+
+## Customize Toolbar Buttons
+
 
 ## More items
 
