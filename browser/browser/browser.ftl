@@ -268,6 +268,19 @@ search-one-offs-history =
 
 bookmarks-add-bookmark = Pridať záložku
 bookmarks-edit-bookmark = Upraviť záložku
+bookmark-panel-cancel =
+    .label = Zrušiť
+    .accesskey = Z
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [one] Odstrániť záložku
+            [few] Odstrániť { $count } záložky
+           *[other] Odstrániť { $count } záložiek
+        }
+    .accesskey = O
 bookmark-panel-show-editor-checkbox =
     .label = Pri ukladaní zobrazovať editor
     .accesskey = u
@@ -654,6 +667,9 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = Uložiť do { -pocket-brand-name }u
     .tooltiptext = Uložiť do { -pocket-brand-name }u
+
+## Customize Toolbar Buttons
+
 
 ## More items
 
