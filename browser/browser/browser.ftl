@@ -269,6 +269,15 @@ bookmarks-edit-bookmark = Rediger bokmerke
 bookmark-panel-cancel =
     .label = Avbryt
     .accesskey = A
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [one] Slett bokmerket
+           *[other] Slett { $count } bokmerke
+        }
+    .accesskey = r
 bookmark-panel-show-editor-checkbox =
     .label = Vis redigerar ved lagring
     .accesskey = V
