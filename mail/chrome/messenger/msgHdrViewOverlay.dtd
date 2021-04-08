@@ -93,7 +93,7 @@
 <!ENTITY openAttachment.tooltip "Abrir el archivo adjunto">
 
 <!ENTITY detachedAttachmentFolder.show.label        "Abrir carpeta contenedora">
-<!ENTITY detachedAttachmentFolder.show.accesskey    "F">
+<!ENTITY detachedAttachmentFolder.show.accesskey    "c">
 <!ENTITY detachedAttachmentFolder.showMac.label     "Mostrar en Finder">
 <!ENTITY detachedAttachmentFolder.showMac.accesskey "F">
 
