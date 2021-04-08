@@ -269,6 +269,15 @@ bookmarks-edit-bookmark = Ẓreg tacreḍt n usebter
 bookmark-panel-cancel =
     .label = Sefsex
     .accesskey = S
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [one] Kkes tacreḍṭ n usebter
+           *[other] Kkes { $count } ticraḍ n yisebtar
+        }
+    .accesskey = K
 bookmark-panel-show-editor-checkbox =
     .label = Sken amaẓrag deg usekles
     .accesskey = k
