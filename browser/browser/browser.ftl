@@ -208,6 +208,11 @@ search-one-offs-context-set-as-default =
 bookmark-panel-cancel =
     .label = បោះបង់
     .accesskey = C
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label = លុប​ចំណាំ { $count } ចេញ
+    .accesskey = R
 bookmark-panel-show-editor-checkbox =
     .label = បង្ហាញកម្មវិធីកែសម្រួលនៅពេលកំពុងរក្សាទុក
     .accesskey = ប
