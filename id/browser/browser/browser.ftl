@@ -256,6 +256,8 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = Tambah markah
+bookmarks-edit-bookmark = Edit markah
 bookmark-panel-cancel =
     .label = Batal
     .accesskey = B
@@ -269,6 +271,8 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = e
 bookmark-panel-done-button =
     .label = Selesai
+bookmark-panel-save-button =
+    .label = Simpan
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -527,6 +531,8 @@ urlbar-result-action-tabtosearch-web = Cari dengan { $engine } langsung dari bil
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = Cari dengan { $engine } langsung dari bilah alamat
+# Action text for copying to clipboard.
+urlbar-result-action-copy-to-clipboard = Salin
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -645,6 +651,20 @@ save-to-pocket-button =
 
 ## Customize Toolbar Buttons
 
+# Variables:
+#  $shortcut (String): keyboard shortcut to open the add-ons manager
+toolbar-addons-themes-button =
+    .label = Pengaya dan tema
+    .tooltiptext = Kelola pengaya dan tema ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open settings (only on macOS)
+toolbar-settings-button =
+    .label = Pengaturan
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Buka pengaturan ({ $shortcut })
+           *[other] Buka pengaturan
+        }
 
 ## More items
 

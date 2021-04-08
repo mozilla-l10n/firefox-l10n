@@ -19,6 +19,20 @@ newtab-search-box-search-button =
     .title = Cari
     .aria-label = Cari
 newtab-search-box-search-the-web-text = Cari di Web
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-text = Cari lewat { $engine } atau masukkan alamat
+newtab-search-box-handoff-text-no-engine = Cari atau masukkan alamat
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-input =
+    .placeholder = Cari lewat { $engine } atau masukkan alamat
+    .title = Cari lewat { $engine } atau masukkan alamat
+    .aria-label = Cari lewat { $engine } atau masukkan alamat
+newtab-search-box-handoff-input-no-engine =
+    .placeholder = Cari atau masukkan alamat
+    .title = Cari atau masukkan alamat
+    .aria-label = Cari atau masukkan alamat
 newtab-search-box-search-the-web-input =
     .placeholder = Cari di Web
     .title = Cari di Web

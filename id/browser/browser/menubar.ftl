@@ -11,6 +11,8 @@
 
 ## Application Menu (macOS only)
 
+menu-application-preferences =
+    .label = Pengaturan
 menu-application-services =
     .label = Layanan
 menu-application-hide-this =
@@ -260,6 +262,9 @@ menu-tools-fxa-sign-in2 =
     .accesskey = M
 menu-tools-turn-on-sync =
     .label = Aktifkan { -sync-brand-short-name }…
+    .accesskey = A
+menu-tools-turn-on-sync2 =
+    .label = Aktifkan Sinkronisasi…
     .accesskey = A
 menu-tools-sync-now =
     .label = Sinkronkan Sekarang

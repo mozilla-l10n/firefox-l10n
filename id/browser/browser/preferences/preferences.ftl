@@ -28,6 +28,18 @@ search-input-box =
             [windows] Temukan di Pengaturan
            *[other] Temukan di Pengaturan
         }
+settings-page-title = Pengaturan
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box2 =
+    .style = width: 15.4em
+    .placeholder = Cari di Pengaturan
 managed-notice = Peramban Anda dikelola oleh organisasi Anda.
 category-list =
     .aria-label = Kategori
@@ -46,12 +58,16 @@ category-privacy =
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
+pane-sync-title3 = Sinkronisasi
+category-sync3 =
+    .tooltiptext = { pane-sync-title3 }
 pane-experimental-title = Eksperimen { -brand-short-name }
 category-experimental =
     .tooltiptext = Eksperimen { -brand-short-name }
 pane-experimental-subtitle = Lanjutkan dengan Kehati-hatian
 pane-experimental-search-results-header = Eksperimen { -brand-short-name }: Lanjutkan dengan Hati-hati
 pane-experimental-description = Mengubah pilihan konfigurasi tingkat lanjut dapat mempengaruhi kinerja atau keamanan { -brand-short-name } .
+pane-experimental-description2 = Mengubah pengaturan konfigurasi tingkat lanjut dapat mempengaruhi kinerja atau keamanan { -brand-short-name }.
 pane-experimental-reset =
     .label = Pulihkan Bawaan
     .accesskey = B
@@ -121,6 +137,8 @@ search-results-empty-message =
         [windows] Maaf! Tidak ada hasil di Preferensi untuk “<span data-l10n-name="query"></span>”.
        *[other] Maaf! Tidak ada hasil di Preferensi untuk “<span data-l10n-name="query"></span>”.
     }
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 = Maaf! Tidak ada hasil di Pengaturan untuk “<span data-l10n-name="query"></span>”.
 search-results-help-link = Butuh bantuan? Kunjungi <a data-l10n-name="url">Dukungan { -brand-short-name }</a>
 
 ## General Section
@@ -357,6 +375,9 @@ update-application-check-choose =
 update-application-manual =
     .label = Jangan pernah memeriksa pemutakhiran (tidak disarankan)
     .accesskey = J
+update-application-background-enabled =
+    .label = Ketika { -brand-short-name } sedang tidak berjalan
+    .accesskey = t
 update-application-warning-cross-user-setting = Pengaturan ini akan berlaku untuk semua akun Windows dan profil { -brand-short-name } yang menggunakan pemasangan { -brand-short-name } ini.
 update-application-use-service =
     .label = Gunakan layanan latar belakang untuk memasang pemutakhiran
@@ -370,6 +391,7 @@ update-setting-write-failure-message =
     { -brand-short-name } mengalami kesalahan dan tidak menyimpan perubahan ini. Perhatikan bahwa pengaturan preferensi pembaruan ini memerlukan izin untuk menulis ke file di bawah ini. Anda atau administrator sistem mungkin dapat menyelesaikan kesalahan dengan memberikan kontrol penuh grup Pengguna ke file ini.
     
     Tidak dapat menulis ke file: { $path }
+update-setting-write-failure-title2 = Gagal menyimpan pengaturan Pemutakhiran
 update-in-progress-title = Sedang Memperbarui
 update-in-progress-message = Apakah Anda ingin { -brand-short-name } melanjutkan pembaruan ini?
 update-in-progress-ok-button = &Hapus Perubahan
@@ -563,6 +585,7 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Tampilkan saran pencarian di Jendela Pribadi
 suggestions-addressbar-settings-generic = Ubah preferensi untuk saran bilah alamat lainnya
+suggestions-addressbar-settings-generic2 = Ubah pengaturan untuk saran bilah alamat lainnya
 search-suggestions-cant-show = Saran pencarian tidak akan ditampilkan di hasil bilah lokasi karena Anda telah mengatur { -brand-short-name } agar tidak mengingat riwayat.
 search-one-click-header = Mesin pencari sekali klik
 search-one-click-header2 = Pintasan Pencarian
@@ -597,6 +620,8 @@ containers-back-button =
             [windows] Kembali ke Pengaturan
            *[other] Kembali ke Pengaturan
         }
+containers-back-button2 =
+    .aria-label = Kembali ke Pengaturan
 containers-header = Tab Kontainer
 containers-add-button =
     .label = Tambahkan Kontainer Baru
@@ -605,6 +630,8 @@ containers-new-tab-check =
     .label = Pilih kontainer untuk setiap tab baru
     .accesskey = k
 containers-preferences-button =
+    .label = Pengaturan
+containers-settings-button =
     .label = Pengaturan
 containers-remove-button =
     .label = Hapus
@@ -616,6 +643,10 @@ sync-signedout-caption = Bawalah Web bersama Anda
 sync-signedout-description = Sinkronkan markah, riwayat, tab, sandi, pengaya, dan pengaturan di berbagai peranti Anda.
 sync-signedout-account-signin2 =
     .label = Masuk ke { -sync-brand-short-name }…
+    .accesskey = M
+sync-signedout-description2 = Sinkronkan markah, riwayat, tab, sandi, pengaya, dan pengaturan di berbagai perangkat Anda.
+sync-signedout-account-signin3 =
+    .label = Masuk untuk sinkronisasi…
     .accesskey = M
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -656,6 +687,10 @@ prefs-sync-setup =
     .label = Siapkan { -sync-brand-short-name }…
     .accesskey = S
 prefs-sync-offer-setup-label = Sinkronkan markah, riwayat, tab, sandi, pengaya, dan preferensi di semua perangkat Anda.
+prefs-sync-turn-on-syncing =
+    .label = Aktifkan sinkronisasi…
+    .accesskey = A
+prefs-sync-offer-setup-label2 = Sinkronkan markah, riwayat, tab, sandi, pengaya, dan pengaturan di berbagai perangkat Anda.
 prefs-sync-now =
     .labelnotsyncing = Sinkronkan Sekarang
     .accesskeynotsyncing = S
@@ -676,6 +711,7 @@ sync-currently-syncing-prefs =
         [windows] Pengaturan
        *[other] Preferensi
     }
+sync-currently-syncing-settings = Pengaturan
 sync-change-options =
     .label = Ubah
     .accesskey = U
@@ -1137,6 +1173,9 @@ space-alert-under-5gb-ok-button =
     .label = Oke, Beres
     .accesskey = K
 space-alert-under-5gb-message = { -brand-short-name } kehabisan ruang disk. Konten situs barangkali tidak dapat ditampilkan dengan tepat. Kunjungi “Pelajari Lebih Lanjut” untuk mengoptimalkan penggunaan disk Anda untuk pengalaman penjelajahan yang lebih baik.
+space-alert-over-5gb-settings-button =
+    .label = Buka Pengaturan
+    .accesskey = B
 
 ## Privacy Section - HTTPS-Only
 

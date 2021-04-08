@@ -9,6 +9,16 @@ about-private-browsing-info-title = Anda berada di Jendela Pribadi
 about-private-browsing-info-myths = Mitos umum tentang penjelajahan pribadi
 about-private-browsing =
     .title = Cari di Web
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff =
+    .title = Cari lewat { $engine } atau masukkan alamat
+about-private-browsing-handoff-no-engine =
+    .title = Cari atau masukkan alamat
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff-text = Cari lewat { $engine } atau masukkan alamat
+about-private-browsing-handoff-text-no-engine = Cari atau masukkan alamat
 about-private-browsing-not-private = Anda tidak sedang dalam jendela pribadi.
 about-private-browsing-info-description = { -brand-short-name } menghapus riwayat penjelajahan dan pencarian saat keluar dari aplikasi atau saat menutup semua tab dan jendela Penjelajahan Pribadi. Meskipun hal ini tidak membuat Anda menjadi anonim dalam situs web atau penyedia layanan internet, hal ini mempermudah Anda untuk menjaga apa yang Anda lakukan secara online agar tetap pribadi dari siapa pun yang menggunakan komputer ini.
 about-private-browsing-need-more-privacy = Butuh privasi lebih?

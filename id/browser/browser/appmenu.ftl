@@ -41,6 +41,18 @@ appmenu-menu-button-closed =
 appmenu-menu-button-opened =
     .tooltiptext = Tutup Menu Aplikasi
     .label = { -brand-shorter-name }
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Keluar
+           *[other] Keluar
+        }
+appmenu-menu-button-closed2 =
+    .tooltiptext = Buka Menu Aplikasi
+    .label = { -brand-short-name }
+appmenu-menu-button-opened2 =
+    .tooltiptext = Tutup Menu Aplikasi
+    .label = { -brand-short-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -59,6 +71,10 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sinkronkan Sekarang
+appmenu-remote-tabs-sign-into-sync =
+    .label = Masuk ke Sinkronisasi…
+appmenu-remote-tabs-turn-on-sync =
+    .label = Aktifkan Sinkronisasi…
 appmenuitem-fxa-toolbar-sync-now2 = Sinkronkan Sekarang
 appmenuitem-fxa-manage-account = Kelola Akun
 appmenu-fxa-header =
