@@ -253,6 +253,18 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmark-panel-cancel =
+    .label = రద్దుచేయి
+    .accesskey = C
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [one] ఇష్టాంశాన్ని తొలగించు
+           *[other] { $count } ఇష్టాంశాలను తొలగించు
+        }
+    .accesskey = R
 bookmark-panel-show-editor-checkbox =
     .label = భద్రపరుస్తున్నప్పుడు ఎడిటర్‌ను చూపించు
     .accesskey = S
@@ -538,6 +550,9 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = { -pocket-brand-name }‌కి భద్రపరుచు
     .tooltiptext = { -pocket-brand-name }‌కి భద్రపరుచు
+
+## Customize Toolbar Buttons
+
 
 ## More items
 
