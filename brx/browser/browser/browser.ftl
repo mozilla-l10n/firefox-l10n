@@ -178,6 +178,15 @@ search-one-offs-context-set-as-default-private =
 
 ## Bookmark Panel
 
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [one] बुकमार्कखौ बोखार
+           *[other] { $count } बुकमार्कफोरखौ बोखार
+        }
+    .accesskey = R
 bookmark-panel-done-button =
     .label = जाखांबाइ
 # Width of the bookmark panel.
@@ -311,6 +320,9 @@ library-bookmarks-menu =
     .label = बुकमाकॅफोर
 
 ## Pocket toolbar button
+
+
+## Customize Toolbar Buttons
 
 
 ## More items
