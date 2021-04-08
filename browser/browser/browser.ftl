@@ -258,6 +258,9 @@ search-one-offs-history =
 
 bookmarks-add-bookmark = 북마크 추가
 bookmarks-edit-bookmark = 북마크 편집
+bookmark-panel-cancel =
+    .label = 취소
+    .accesskey = C
 bookmark-panel-show-editor-checkbox =
     .label = 저장할 때 편집기 표시
     .accesskey = S
