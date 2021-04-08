@@ -9,10 +9,10 @@
 # Page Title strings
 
 # Page title (ie tab title) for the Setup page
-about-debugging-page-title-setup-page = Αποσφαλμάτωση - Ρύθμιση
+about-debugging-page-title-setup-page = Έλεγχος σφαλμάτων - Ρύθμιση
 # Page title (ie tab title) for the Runtime page
 # { $selectedRuntimeId } is the id of the current runtime, such as "this-firefox", "localhost:6080", ...
-about-debugging-page-title-runtime-page = Αποσφαλμάτωση - Εκτέλεση/{ $selectedRuntimeId }
+about-debugging-page-title-runtime-page = Έλεγχος σφαλμάτων - Εκτέλεση/{ $selectedRuntimeId }
 
 # Sidebar strings
 
@@ -67,7 +67,7 @@ about-debugging-sidebar-runtime-item-name-no-device =
     .title = { $displayName }
 # Text to show in the footer of the sidebar that links to a help page
 # (currently: https://developer.mozilla.org/docs/Tools/about:debugging)
-about-debugging-sidebar-support = Υποστήριξη αποσφαλμάτωσης
+about-debugging-sidebar-support = Υποστήριξη ελέγχου σφαλμάτων
 # Text to show as the ALT attribute of a help icon that accompanies the help about
 # debugging link in the footer of the sidebar
 about-debugging-sidebar-support-icon =
