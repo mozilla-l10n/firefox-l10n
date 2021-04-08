@@ -266,6 +266,18 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmark-panel-cancel =
+    .label = Anule
+    .accesskey = A
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [one] Gjave segnelibri
+           *[other] Gjave { $count } segnelibris
+        }
+    .accesskey = G
 bookmark-panel-show-editor-checkbox =
     .label = Mostre editôr cuant che si salve
     .accesskey = S
@@ -645,6 +657,9 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = Salve su { -pocket-brand-name }
     .tooltiptext = Salve su { -pocket-brand-name }
+
+## Customize Toolbar Buttons
+
 
 ## More items
 
