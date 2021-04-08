@@ -62,3 +62,10 @@ csp-xfo-blocked-long-desc = Tae bield yer siccarness, { $hostname } willnae let 
 
 ## Messages used for certificate error titles
 
+connectionFailure-title = No able tae connect
+deniedPortAccess-title = This address is restrictit
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = Hmm. We're haein a strauchle findin thon site.
+fileNotFound-title = File no fund
+fileAccessDenied-title = Ingang tae the file wis denied
