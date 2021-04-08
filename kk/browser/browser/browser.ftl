@@ -264,6 +264,18 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmark-panel-cancel =
+    .label = Бас тарту
+    .accesskey = с
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [one] Бетбелгіні өшіру
+           *[other] Бетбелгілерді ({ $count }) өшіру
+        }
+    .accesskey = ш
 bookmark-panel-show-editor-checkbox =
     .label = Сақтау кезінде түзеткішті көрсету
     .accesskey = с
@@ -627,6 +639,9 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = { -pocket-brand-name }-ке сақтау
     .tooltiptext = { -pocket-brand-name }-ке сақтау
+
+## Customize Toolbar Buttons
+
 
 ## More items
 
