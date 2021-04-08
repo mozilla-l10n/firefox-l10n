@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Beliedsrigels ynstelle dy't troch WebExtensions benadere wurde kinne fia chrome.storage.managed.
+policy-AllowedDomainsForApps = Definiearje domeinen dy't tagong hawwe ta Google Workspace.
 policy-AppAutoUpdate = Automatyske applikaasjefernijing yn- of útskeakelje.
 policy-AppUpdateURL = Oanpaste app-fernijings-URL ynstelle.
 policy-Authentication = Yntegrearre autentikaasje konfigurearje foar websites dy't dit stypje.

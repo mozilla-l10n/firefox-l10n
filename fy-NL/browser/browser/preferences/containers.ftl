@@ -10,6 +10,11 @@ containers-window-new =
 containers-window-update =
     .title = { $name } kontenerfoarkarren
     .style = width: 45em
+# Variables
+#   $name (String) - Name of the container
+containers-window-update-settings =
+    .title = Ynstellingen fan kontener { $name }
+    .style = width: 45em
 containers-window-close =
     .key = w
 # This is a term to store style to be applied
