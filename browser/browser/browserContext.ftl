@@ -88,6 +88,12 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
+## Firefox Account Button
+
+toolbar-button-fxaccount =
+    .label = { -fxaccount-brand-name }
+    .tooltiptext = { -fxaccount-brand-name }
+
 ## Save Page
 
 main-context-menu-page-save =
@@ -372,6 +378,9 @@ main-context-menu-suggest-strong-password =
     .accesskey = v
 main-context-menu-manage-logins =
     .label = Zugangsdaten verwalten…
+    .accesskey = v
+main-context-menu-manage-logins2 =
+    .label = Zugangsdaten verwalten
     .accesskey = v
 main-context-menu-keyword =
     .label = Ein Schlüsselwort für diese Suche hinzufügen…
