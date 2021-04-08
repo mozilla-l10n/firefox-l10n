@@ -258,6 +258,14 @@ search-one-offs-history =
 
 bookmarks-add-bookmark = Thêm dấu trang
 bookmarks-edit-bookmark = Chỉnh sửa dấu trang
+bookmark-panel-cancel =
+    .label = Hủy bỏ
+    .accesskey = C
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label = Xóa { $count } dấu trang
+    .accesskey = R
 bookmark-panel-show-editor-checkbox =
     .label = Hiển thị trình chỉnh sửa khi lưu
     .accesskey = S
