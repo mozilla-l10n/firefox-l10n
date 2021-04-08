@@ -230,6 +230,18 @@ search-one-offs-context-set-as-default-private =
 
 ## Bookmark Panel
 
+bookmark-panel-cancel =
+    .label = Juki
+    .accesskey = U
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [one] Kwany alama buk
+           *[other] Kwany alama buk { $count }
+        }
+    .accesskey = K
 bookmark-panel-done-button =
     .label = Otum
 # Width of the bookmark panel.
@@ -469,6 +481,9 @@ library-bookmarks-menu =
 save-to-pocket-button =
     .label = Gwok i { -pocket-brand-name }
     .tooltiptext = Gwok i { -pocket-brand-name }
+
+## Customize Toolbar Buttons
+
 
 ## More items
 
