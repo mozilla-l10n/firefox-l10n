@@ -12,7 +12,7 @@ update-updateButton =
     .label = Επανεκκίνηση για ενημέρωση του { -brand-shorter-name }
     .accesskey = Ε
 update-checkingForUpdates = Γίνεται έλεγχος για ενημερώσεις…
-update-downloading = <img data-l10n-name="icon"/>Γίνεται λήψη της ενημέρωσης — <label data-l10n-name="download-status"/>
+update-downloading = <img data-l10n-name="icon"/>Λήψη ενημέρωσης — <label data-l10n-name="download-status"/>
 update-downloading-message = Λήψη ενημέρωσης — <label data-l10n-name="download-status"/>
 update-applying = Εφαρμογή ενημέρωσης…
 update-failed = Αποτυχία ενημέρωσης. <label data-l10n-name="failed-link">Λήψη της πιο πρόσφατης έκδοσης</label>
