@@ -34,6 +34,9 @@ sidebar-preferences-button-title =
             [windows] { -brand-short-name }-opsjes
            *[other] { -brand-short-name }-foarkarren
         }
+addons-settings-button = { -brand-short-name }-ynstellingen
+sidebar-settings-button-title =
+    .title = { -brand-short-name }-ynstellingen
 show-unsigned-extensions-button =
     .label = Guon útwreidingen koene net ferifiearre wurde
 show-all-extensions-button =
@@ -382,9 +385,6 @@ addon-detail-private-browsing-disallow = Net tastean
 addon-badge-recommended2 =
     .title = { -brand-product-name } rekommandearret allinnich útwreidingen oan dy't foldogge oan ús noarms foar feilichheid en prestaasjes.
     .aria-label = { addon-badge-recommended2.title }
-addon-badge-line2 =
-    .title = Dit is in offisjele útwreiding, boud troch de makkers fan { -brand-product-name }
-    .aria-label = { addon-badge-line2.title }
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
