@@ -59,9 +59,9 @@
 <!ENTITY quitApplicationCmd.key           "Q">
 <!ENTITY quitApplicationCmd.accesskey     "S">
 <!ENTITY quitApplicationCmdMac.label      "Salir de &brandShortName;">
-<!ENTITY quitApplicationCmdMac.accesskey  "Q">
+<!ENTITY quitApplicationCmdMac.accesskey  "S">
 <!ENTITY quitApplicationCmdUnix.label     "Salir">
-<!ENTITY quitApplicationCmdUnix.accesskey "Q">
+<!ENTITY quitApplicationCmdUnix.accesskey "S">
 
 <!ENTITY editMenu.label                   "Editar">
 <!ENTITY editMenu.accesskey               "E">

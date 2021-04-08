@@ -18,7 +18,7 @@
 <!ENTITY debugPaintFlashing.label "Pintado intermitente (permuta el bloqueo de mayúsculas)">
 <!ENTITY debugPaintFlashing.accesskey "P">
 <!ENTITY debugPaintFlashingChrome.label "Pintar chrome intermitente">
-<!ENTITY debugPaintFlashingChrome.accesskey "F">
+<!ENTITY debugPaintFlashingChrome.accesskey "i">
 <!ENTITY debugPaintDumping.label "Volcado de pintura">
 <!ENTITY debugPaintDumping.accesskey "a">
 <!ENTITY debugInvalidateDumping.label "Invalidar volcado">

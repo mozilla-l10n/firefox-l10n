@@ -17,7 +17,7 @@
 <!ENTITY digitalSign.certificate_clear.button "Borrar">
 <!ENTITY digitalSign.certificate_clear.accesskey "B">
 <!ENTITY encryption.certificate.button "Seleccionar…">
-<!ENTITY encryption.certificate.accesskey "t">
+<!ENTITY encryption.certificate.accesskey "l">
 <!ENTITY encryption.certificate_clear.button "Borrar">
 <!ENTITY encryption.certificate_clear.accesskey "B">
 <!ENTITY signingGroupTitle.label "Firma digital">
