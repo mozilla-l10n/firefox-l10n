@@ -240,6 +240,18 @@ search-one-offs-context-set-as-default-private =
 
 ## Bookmark Panel
 
+bookmark-panel-cancel =
+    .label = Haaytu
+    .accesskey = C
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [one] Momtu Maantorol
+           *[other] Momtu Maantore { $count }
+        }
+    .accesskey = R
 bookmark-panel-show-editor-checkbox =
     .label = Hollu taƴtorde kisnugol
     .accesskey = 5
@@ -451,6 +463,9 @@ library-bookmarks-menu =
 save-to-pocket-button =
     .label = Danndu e { -pocket-brand-name }
     .tooltiptext = Danndu e { -pocket-brand-name }
+
+## Customize Toolbar Buttons
+
 
 ## More items
 
