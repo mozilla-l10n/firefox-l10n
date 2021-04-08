@@ -266,6 +266,18 @@ search-one-offs-history =
 
 bookmarks-add-bookmark = Tilføj bogmærke
 bookmarks-edit-bookmark = Rediger Bogmærke
+bookmark-panel-cancel =
+    .label = Afbryd
+    .accesskey = A
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [one] Fjern bogmærke
+           *[other] Fjern { $count } bogmærker
+        }
+    .accesskey = F
 bookmark-panel-show-editor-checkbox =
     .label = Vis editor, når der gemmes
     .accesskey = V
@@ -649,6 +661,9 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = Gem til { -pocket-brand-name }
     .tooltiptext = Gem til { -pocket-brand-name }
+
+## Customize Toolbar Buttons
+
 
 ## More items
 
