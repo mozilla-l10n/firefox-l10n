@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Nastaví, ku ktorým pravidlám majú prístup rozšírenia cez chrome.storage.managed.
+policy-AllowedDomainsForApps = Definuje domény, ktoré majú povolený prístup do služby Google Workspace.
 policy-AppAutoUpdate = Zapne alebo vypne automatické aktualizácie aplikácie.
 policy-AppUpdateURL = Nastaví vlastnú URL adresu pre aktualizáciu aplikácie.
 policy-Authentication = Nakonfiguruje integrovanú autentifikáciu webových stránok, ktoré ju podporujú.
