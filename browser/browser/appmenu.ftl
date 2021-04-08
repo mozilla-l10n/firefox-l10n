@@ -21,6 +21,8 @@ appmenuitem-passwords =
     .label = Паролі
 appmenuitem-extensions-and-themes =
     .label = Пашырэнні і тэмы
+appmenuitem-addons-and-themes =
+    .label = Дадаткі і тэмы
 appmenuitem-find-in-page =
     .label = Знайсці на старонцы…
 appmenuitem-more-tools =
@@ -39,6 +41,12 @@ appmenuitem-exit2 =
             [linux] Выйсці
            *[other] Выйсці
         }
+appmenu-menu-button-closed2 =
+    .tooltiptext = Адкрыць меню праграмы
+    .label = { -brand-short-name }
+appmenu-menu-button-opened2 =
+    .tooltiptext = Закрыць меню праграмы
+    .label = { -brand-short-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -57,6 +65,10 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Сінхранізаваць зараз
+appmenu-remote-tabs-sign-into-sync =
+    .label = Увайсці ў сінхранізацыю…
+appmenu-remote-tabs-turn-on-sync =
+    .label = Уключыць сінхранізацыю…
 appmenuitem-fxa-toolbar-sync-now2 = Сінхранізаваць зараз
 appmenuitem-fxa-manage-account = Кіраванне ўліковым запісам
 appmenu-fxa-header =
