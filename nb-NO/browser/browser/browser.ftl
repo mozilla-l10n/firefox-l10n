@@ -274,10 +274,10 @@ bookmark-panel-cancel =
 bookmark-panel-remove =
     .label =
         { $count ->
-            [one] Slett bokmerke
-           *[other] Slett { $count } bokmerker
+            [1] Fjern bokmerke
+           *[other] Fjern { $count } bokmerker
         }
-    .accesskey = r
+    .accesskey = F
 bookmark-panel-show-editor-checkbox =
     .label = Vis redigerer ved lagring
     .accesskey = s
