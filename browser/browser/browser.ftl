@@ -270,6 +270,20 @@ search-one-offs-history =
 
 bookmarks-add-bookmark = Zapołožku přidać
 bookmarks-edit-bookmark = Zapołožku wobdźěłać
+bookmark-panel-cancel =
+    .label = Přetorhnyć
+    .accesskey = P
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [one] Zapołožku wotstronić
+            [two] { $count } zapołožce wotstronić
+            [few] { $count } zapołožki wotstronić
+           *[other] { $count } zapołožkow wotstronić
+        }
+    .accesskey = Z
 bookmark-panel-show-editor-checkbox =
     .label = Editor při składowanju pokazać
     .accesskey = E
