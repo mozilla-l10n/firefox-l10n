@@ -9,8 +9,6 @@
 <!ENTITY calendar.newevent.button.tooltip         "Crear un nuevo evento" >
 <!ENTITY calendar.newtask.button.tooltip          "Crear una nueva tarea" >
 
-<!ENTITY calendar.unifinder.todoitems.label       "Tareas" >
-
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Mostrar tareas completas">
 
 <!ENTITY calendar.today.button.label          "Hoy">
@@ -208,7 +206,7 @@
 <!ENTITY calendar.context.attendance.all.declined.label         "Declinada">
 <!ENTITY calendar.context.attendance.all.delegated.accesskey    "l">
 <!ENTITY calendar.context.attendance.all.delegated.label        "Delegado">
-<!ENTITY calendar.context.attendance.all.needsaction.accesskey  "l">
+<!ENTITY calendar.context.attendance.all.needsaction.accesskey  "i">
 <!ENTITY calendar.context.attendance.all.needsaction.label      "Aún necesita acción">
 <!ENTITY calendar.context.attendance.all.inprogress.accesskey   "p">
 <!ENTITY calendar.context.attendance.all.inprogress.label       "En proceso">
@@ -355,7 +353,6 @@
 <!ENTITY calendarproperties.color.label                    "Color:">
 <!ENTITY calendarproperties.webdav.label                   "iCalendar (ICS)">
 <!ENTITY calendarproperties.caldav.label                   "CalDAV">
-<!ENTITY calendarproperties.wcap.label                     "Sun Java System Calendar Server (WCAP)">
 <!ENTITY calendarproperties.format.label                   "Formato:">
 <!ENTITY calendarproperties.location.label                 "Dirección:">
 <!ENTITY calendarproperties.refreshInterval.label          "Refrescar calendario:">
@@ -364,7 +361,6 @@
 <!ENTITY calendarproperties.readonly.label                 "Sólo lectura">
 <!ENTITY calendarproperties.firealarms.label               "Mostrar alarmas">
 <!ENTITY calendarproperties.cache3.label                   "Soporte sin conexión">
-<!ENTITY calendarproperties.enabled.label                  "Cambiar a este calendario">
 <!ENTITY calendarproperties.enabled2.label                 "Habilitar este calendario">
 <!ENTITY calendarproperties.forceDisabled.label            "No pudo encontrase el proveedor de este calendario. Ésto pasa a menudo si ha deshabilitado o desinstalado ciertos complementos.">
 <!ENTITY calendarproperties.unsubscribe.label              "Desuscribir">
