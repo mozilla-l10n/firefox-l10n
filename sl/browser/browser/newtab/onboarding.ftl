@@ -161,7 +161,7 @@ return-to-amo-add-extension-label = Dodaj razširitev
 
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. { -brand-short-name } should stay inside the span.
-onboarding-multistage-welcome-header = Dobrodošli v <span data-l10n-name="zap">{ -brand-short-name }u</span>
+onboarding-multistage-welcome-header = Dobrodošli v <span data-l10n-name="zap">{ -brand-short-name(sklon: "mestnik") }</span>
 onboarding-multistage-welcome-subtitle = Hiter, varen in zaseben brskalnik, ki ga podpira neprofitna organizacija.
 onboarding-multistage-welcome-primary-button-label = Začni nastavitev
 onboarding-multistage-welcome-secondary-button-label = Prijava

@@ -272,7 +272,7 @@ cfr-whatsnew-protections-icon-alt = Ikona ščita
 ## Better PDF message
 
 cfr-whatsnew-better-pdf-header = Boljša izkušnja z dokumenti PDF
-cfr-whatsnew-better-pdf-body = Dokumenti PDF se zdaj odpirajo neposredno v { -brand-short-name }u, s čimer je vaše delo enostavnejše.
+cfr-whatsnew-better-pdf-body = Dokumenti PDF se zdaj odpirajo neposredno v { -brand-short-name(sklon: "mestnik") }, s čimer je vaše delo enostavnejše.
 
 ## DOH Message
 

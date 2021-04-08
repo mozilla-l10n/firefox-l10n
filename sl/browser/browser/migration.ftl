@@ -54,7 +54,7 @@ import-source-page-title = Uvoz nastavitev in podatkov
 import-items-page-title = Možnosti uvoza
 import-items-description = Izberite, kaj želite uvoziti:
 # Do not translate "Bookmarks.plist"; the file name is the same everywhere.
-import-permissions-description = macOS zahteva, da { -brand-short-name }u izrecno dovolite odstop do Safarijevih zaznamkov. Kliknite "Continue" in na plošči "File Open", ki se pojavi, izberite datoteko "Bookmarks.plist".
+import-permissions-description = macOS zahteva, da { -brand-short-name(sklon: "dajalnik") } izrecno dovolite odstop do Safarijevih zaznamkov. Kliknite "Continue" in na plošči "File Open", ki se pojavi, izberite datoteko "Bookmarks.plist".
 import-migrating-page-title = Uvoz ...
 import-migrating-description = Trenutno se uvaža ...
 import-select-profile-page-title = Izbira profila
