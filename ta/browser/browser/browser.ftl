@@ -202,6 +202,18 @@ search-one-offs-context-set-as-default =
 
 ## Bookmark Panel
 
+bookmark-panel-cancel =
+    .label = ரத்து
+    .accesskey = C
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [one] புத்தகக்குறியை நீக்கு
+           *[other] புத்தகக்குறிகளை { $count } நீக்கு
+        }
+    .accesskey = R
 bookmark-panel-show-editor-checkbox =
     .label = சேமிக்கும்பொருட்டு தொகுப்பதைக் காண்பி
     .accesskey = S
@@ -389,6 +401,9 @@ library-bookmarks-menu =
     .label = புத்தகக்குறிகள்
 
 ## Pocket toolbar button
+
+
+## Customize Toolbar Buttons
 
 
 ## More items
