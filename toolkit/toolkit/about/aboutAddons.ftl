@@ -5,6 +5,8 @@
 addons-window =
     .title = Xestor de complementos
 addons-page-title = Xestor de complementos
+list-empty-installed =
+    .value = Nun tienes nengún complementu instaláu d'esti tipu
 list-empty-available-updates =
     .value = Nun s'atoparon anovamientos
 preferences =
@@ -36,6 +38,7 @@ detail-version =
     .label = Versión
 detail-last-updated =
     .label = Últimu anovamientu
+detail-private-required-description2 = Esta estensión tien accesu a les tos actividaes en llinia mentanto restoles en privao. <a data-l10n-name="learn-more">Lleer más</a>
 detail-home-value =
     .value = { detail-home.label }
 detail-repository-value =
@@ -116,6 +119,8 @@ addon-open-about-debugging = Depurar los complementos
 
 ## Extension shortcut management
 
+header-back-button =
+    .title = Dir p'atrás
 
 ## Recommended add-ons page
 
