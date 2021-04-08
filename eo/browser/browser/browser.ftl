@@ -264,6 +264,18 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmark-panel-cancel =
+    .label = Nuligi
+    .accesskey = N
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [one] Forigi legosignon
+           *[other] Forigi { $count } legosignojn
+        }
+    .accesskey = F
 bookmark-panel-show-editor-checkbox =
     .label = Montri redaktilon dum konservo
     .accesskey = M
@@ -627,6 +639,9 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = Konservi en { -pocket-brand-name }
     .tooltiptext = Konservi en { -pocket-brand-name }
+
+## Customize Toolbar Buttons
+
 
 ## More items
 
