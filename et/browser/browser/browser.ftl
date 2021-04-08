@@ -264,6 +264,18 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmark-panel-cancel =
+    .label = Loobu
+    .accesskey = L
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [one] Eemalda järjehoidja
+           *[other] Eemalda järjehoidjad ({ $count })
+        }
+    .accesskey = E
 bookmark-panel-show-editor-checkbox =
     .label = Lisamisel kuvatakse seda dialoogi
     .accesskey = d
@@ -489,6 +501,9 @@ library-bookmarks-menu =
 save-to-pocket-button =
     .label = Salvesta { -pocket-brand-name }isse
     .tooltiptext = Salvesta { -pocket-brand-name }isse
+
+## Customize Toolbar Buttons
+
 
 ## More items
 
