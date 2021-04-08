@@ -274,6 +274,22 @@ search-one-offs-history =
 
 bookmarks-add-bookmark = أضِف علامة
 bookmarks-edit-bookmark = حرّر العلامة
+bookmark-panel-cancel =
+    .label = ألغِ
+    .accesskey = ل
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [zero] لا تزل أي علامات
+            [one] أزِل العلامة
+            [two] أزِل العلامتان
+            [few] أزِل { $count } علامات
+            [many] أزِل { $count } علامة
+           *[other] أزل { $count } علامة
+        }
+    .accesskey = ع
 bookmark-panel-show-editor-checkbox =
     .label = اعرض المحرر عند الحفظ
     .accesskey = ظ
