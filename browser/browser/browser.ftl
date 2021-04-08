@@ -196,6 +196,9 @@ search-one-offs-context-set-as-default =
 
 ## Bookmark Panel
 
+bookmark-panel-cancel =
+    .label = අවලංගු කරන්න
+    .accesskey = C
 # Variables:
 #  $count (number): number of bookmarks that will be removed
 bookmark-panel-remove =
