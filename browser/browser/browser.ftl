@@ -264,6 +264,18 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmark-panel-cancel =
+    .label = Отказ
+    .accesskey = о
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [one] Премахване на отметка
+           *[other] Премахване на { $count } отметки
+        }
+    .accesskey = н
 bookmark-panel-show-editor-checkbox =
     .label = Показване на диалога при запазване
     .accesskey = п
@@ -573,6 +585,9 @@ library-bookmarks-menu =
 save-to-pocket-button =
     .label = Запазване в { -pocket-brand-name }
     .tooltiptext = Запазване в { -pocket-brand-name }
+
+## Customize Toolbar Buttons
+
 
 ## More items
 
