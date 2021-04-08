@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY matchAll.label     "Coincidir con todos los siguientes">
-<!ENTITY matchAll.accesskey "a">
+<!ENTITY matchAll.accesskey "g">
 <!ENTITY matchAny.label     "Que cumplan cualquiera de las siguientes">
 <!ENTITY matchAny.accesskey "Q">
 <!ENTITY matchAllMsgs.label     "Todos los mensajes">
