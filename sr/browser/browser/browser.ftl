@@ -268,6 +268,9 @@ search-one-offs-history =
 
 bookmarks-add-bookmark = Додај обележивач
 bookmarks-edit-bookmark = Уреди обележивач
+bookmark-panel-cancel =
+    .label = Откажи
+    .accesskey = О
 bookmark-panel-show-editor-checkbox =
     .label = Прикажи уређивач приликом чувања
     .accesskey = S
