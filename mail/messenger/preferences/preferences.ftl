@@ -10,6 +10,8 @@ preferences-title =
             [windows] Inställningar
            *[other] Inställningar
         }
+preferences-tab-title =
+    .title = Inställningar
 category-list =
     .aria-label = Kategorier
 pane-general-title = Allmänt
@@ -90,6 +92,7 @@ update-in-progress-ok-button = &Ignorera
 update-in-progress-cancel-button = &Fortsätt
 account-button = Kontoinställningar
 addons-button = Tillägg & teman
+open-addons-sidebar-button = Tillägg och teman
 
 ## OS Authentication dialog
 

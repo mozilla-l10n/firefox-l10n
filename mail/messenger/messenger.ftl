@@ -11,6 +11,12 @@ unread-messages-os-tooltip =
     }
 about-rights-notification-text = { -brand-short-name } är fri programvara baserad på öppen källkod, byggd av en community av tusentals personer över hela världen.
 
+## Toolbar
+
+addons-and-themes-button =
+    .label = Tillägg och teman
+    .tooltip = Hantera dina tillägg
+
 ## Folder Pane
 
 folder-pane-toolbar =
@@ -43,3 +49,18 @@ show-recent-folders-label =
 folder-toolbar-toggle-folder-compact-view =
     .label = Kompakt vy
     .accesskey = K
+
+## AppMenu
+
+# Since v89 we dropped the platforms distinction between Options or Preferences
+# and consolidated everything with Preferences.
+appmenu-preferences =
+    .label = Inställningar
+appmenu-addons-and-themes =
+    .label = Tillägg och teman
+appmenu-help-enter-troubleshoot-mode =
+    .label = Felsökningsläge…
+appmenu-help-exit-troubleshoot-mode =
+    .label = Stäng av felsökningsläge
+appmenu-help-more-troubleshooting-info =
+    .label = Mer felsökningsinformation
