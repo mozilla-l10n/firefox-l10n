@@ -705,11 +705,11 @@ chat-header-label =
 # is the name of the CSS property. It is intended only to adjust the element's width.
 # Do not translate.
 search-input-box =
-    .style = width: 15.4em
+    .style = width: 16.4em
     .placeholder =
         { PLATFORM() ->
-            [windows] Procurar nas opções
-           *[other] Procurar nas preferências
+            [windows] Procurar em opções
+           *[other] Procurar em preferências
         }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
@@ -720,7 +720,7 @@ search-input-box =
 # is the name of the CSS property. It is intended only to adjust the element's width.
 # Do not translate.
 search-preferences-input =
-    .style = width: 15.4em
+    .style = width: 16.4em
     .placeholder = Procurar em preferências
 
 ## Preferences UI Search Results
