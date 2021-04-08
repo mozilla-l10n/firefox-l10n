@@ -68,6 +68,12 @@ app-basics-fission-support = Ventanes Fission
 app-basics-remote-processes-count = Procesos remotos
 app-basics-enterprise-policies = Polítiques d'empresa
 app-basics-safe-mode = Mou seguru
+show-dir-label =
+    { PLATFORM() ->
+        [macos] Amosar en Finder
+        [windows] Abrir la carpeta
+       *[other] Abrir el direutoriu
+    }
 environment-variables-title = Variables d'entornu
 environment-variables-name = Nome
 environment-variables-value = Valor
@@ -90,6 +96,8 @@ graphics-desktop-environment = Entornu d'escritoriu
 place-database-integrity = Integridá
 place-database-verify-integrity = Verificar la integridá
 a11y-title = Accesibilidá
+copy-text-to-clipboard-label = Copiar el testu al cartafueyu
+copy-raw-data-to-clipboard-label = Copiar los datos en bruto al cartafueyu
 sandbox-sys-call-index = #
 sandbox-sys-call-pid = PID
 sandbox-sys-call-tid = TID
