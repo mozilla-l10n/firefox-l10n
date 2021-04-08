@@ -266,6 +266,19 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmark-panel-cancel =
+    .label = Anuluj
+    .accesskey = A
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [one] Usuń zakładkę
+            [few] Usuń { $count } zakładki
+           *[many] Usuń { $count } zakładek
+        }
+    .accesskey = U
 bookmark-panel-show-editor-checkbox =
     .label = Wyświetlanie tego okna podczas dodawania
     .accesskey = W
@@ -629,6 +642,9 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = Wyślij do { -pocket-brand-name }
     .tooltiptext = Wyślij do { -pocket-brand-name }
+
+## Customize Toolbar Buttons
+
 
 ## More items
 
