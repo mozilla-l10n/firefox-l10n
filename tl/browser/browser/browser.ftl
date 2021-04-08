@@ -261,6 +261,9 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmark-panel-cancel =
+    .label = Kanselahin
+    .accesskey = C
 bookmark-panel-show-editor-checkbox =
     .label = Ipakita ang editor kapag nagse-save
     .accesskey = S
@@ -557,6 +560,9 @@ library-bookmarks-menu =
 save-to-pocket-button =
     .label = I-save sa { -pocket-brand-name }
     .tooltiptext = I-save sa { -pocket-brand-name }
+
+## Customize Toolbar Buttons
+
 
 ## More items
 
