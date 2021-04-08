@@ -9,13 +9,12 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Trợ giúp">
 <!ENTITY helpMenuWin.accesskey "H">
-<!ENTITY aboutProduct2.label "Thông tin về &brandShorterName;">
+<!ENTITY aboutProduct2.label "Về &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey "A">
 <!ENTITY helpTroubleshootingInfo.label     "Thông tin gỡ rối vấn đề">
 <!ENTITY helpTroubleshootingInfo.accesskey "T">
 <!ENTITY helpSafeMode.label     "Khởi động lại và vô hiệu hóa các tiện ích…">
 <!ENTITY helpSafeMode.accesskey "R">
-
 <!ENTITY helpSafeMode.stop.label     "Khởi động lại và kích hoạt các tiện ích">
 <!ENTITY helpSafeMode.stop.accesskey "R">
 <!ENTITY productHelp.label "Trợ giúp &brandShortName;">
