@@ -168,6 +168,14 @@ search-one-offs-context-set-as-default =
 
 ## Bookmark Panel
 
+bookmark-panel-cancel =
+    .label = ຍົກເລີກ
+    .accesskey = C
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label = ລຶບ { $count } ບຸກມາກ
+    .accesskey = R
 bookmark-panel-done-button =
     .label = ສຳເລັດ
 # Width of the bookmark panel.
@@ -338,6 +346,9 @@ library-bookmarks-menu =
     .label = ບຸກມາກ
 
 ## Pocket toolbar button
+
+
+## Customize Toolbar Buttons
 
 
 ## More items
