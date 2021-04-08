@@ -270,6 +270,21 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmark-panel-cancel =
+    .label = Nullañ
+    .accesskey = N
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [one] Dilemel ar sined
+            [two] Dilemel { $count } sined
+            [few] Dilemel { $count } sined
+            [many] Dilemel { $count } a sinedoù
+           *[other] Dilemel { $count } sined
+        }
+    .accesskey = R
 bookmark-panel-show-editor-checkbox =
     .label = Diskouez an embanner pa enroll
     .accesskey = S
@@ -581,6 +596,9 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = Enrollañ etrezek { -pocket-brand-name }
     .tooltiptext = Enrollañ etrezek { -pocket-brand-name }
+
+## Customize Toolbar Buttons
+
 
 ## More items
 
