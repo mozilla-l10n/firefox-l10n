@@ -28,6 +28,7 @@ search-input-box =
             [windows] Atopar nes opciones
            *[other] Atopar nes preferencies
         }
+settings-page-title = Axustes
 managed-notice = El restolador ta xestionáu pola to organización.
 category-list =
     .aria-label = Estayes

@@ -119,6 +119,10 @@ addon-open-about-debugging = Depurar los complementos
 
 ## Extension shortcut management
 
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = Xestionar los atayos de les estensiones
+    .accesskey = X
+shortcuts-no-commands = Les estensiones de darréu nun tienen atayos:
 header-back-button =
     .title = Dir p'atrás
 
@@ -145,6 +149,7 @@ created-by-author = por <a data-l10n-name="author">{ $author }</a>
 # Variables:
 #   $dailyUsers (number) - The number of daily users.
 user-count = Usuarios: { $dailyUsers }
+install-extension-button = Amestar a { -brand-product-name }
 # The label of the button that appears after installing an add-on. Upon click,
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Xestionar
@@ -221,4 +226,5 @@ dictionary-heading = Xestiona los diccionarios
 locale-heading = Xestión de llingües
 updates-heading = Xestiona los anovamientos
 discover-heading = Personaliza { -brand-short-name }
+shortcuts-heading = Xestión de los atayos de les estensiones
 default-heading-search-label = Atopa más complementos
