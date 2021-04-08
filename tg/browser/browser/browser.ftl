@@ -247,6 +247,18 @@ search-one-offs-history =
 
 bookmarks-add-bookmark = Илова кардани хатбарак
 bookmarks-edit-bookmark = Таҳрир кардани хатбарак
+bookmark-panel-cancel =
+    .label = Бекор кардан
+    .accesskey = Б
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [one] Тоза кардани хатбарак
+           *[other] Тоза кардани  { $count } хатбарак
+        }
+    .accesskey = R
 bookmark-panel-show-editor-checkbox =
     .label = Нишон додани муҳаррир ҳангоми нигоҳдорӣ
     .accesskey = Н
