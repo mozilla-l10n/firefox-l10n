@@ -2,7 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-screenshots-context-menu = スクリーンショットを撮る
+screenshots-context-menu = スクリーンショットを撮影
+
+screenshot-toolbarbutton =
+  .label = スクリーンショット
+  .tooltiptext = スクリーンショットを撮影します
+
 screenshots-my-shots-button = 自分のショット
 screenshots-instructions = ページをドラッグまたはクリックして範囲を選択してください。ESC キーを押すとキャンセルできます。
 screenshots-cancel-button = キャンセル
@@ -18,12 +23,12 @@ screenshots-meta-key =
        *[other] Ctrl
     }
 screenshots-notification-link-copied-title = リンクをコピーしました
-screenshots-notification-link-copied-details = ショットへのリンクがクリップボードへコピーされました。{ screenshots-meta-key }+V キーで貼り付けられます。
+screenshots-notification-link-copied-details = ショットへのリンクがクリップボードへコピーされました。{ screenshots-meta-key }+V キーでペーストできます。
 screenshots-notification-image-copied-title = ショットをコピーしました
-screenshots-notification-image-copied-details = ショットがクリップボードへコピーされました。{ screenshots-meta-key }+V キーで貼り付けられます。
+screenshots-notification-image-copied-details = ショットがクリップボードへコピーされました。{ screenshots-meta-key }+V キーでペーストできます。
 screenshots-request-error-title = 問題が発生しました。
 screenshots-request-error-details = 申し訳ありませんが、ショットを保存できませんでした。また後で試してください。
-screenshots-connection-error-title = Screenshots ライブラリへ接続できません。
+screenshots-connection-error-title = Screenshots ライブラリーに接続できません。
 screenshots-connection-error-details = お使いのインターネット接続を確認してください。インターネットへ接続できる場合は、{ -screenshots-brand-name } サービスに一時的な問題が発生しているものと思われます。
 screenshots-login-error-details = { -screenshots-brand-name } サービスに問題があるため、ショットを保存できませんでした。また後で試してください。
 screenshots-unshootable-page-error-title = このページはスクリーンショットを撮れません。
