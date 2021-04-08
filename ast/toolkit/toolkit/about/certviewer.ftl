@@ -31,6 +31,7 @@ certificate-viewer-public-value = Valor públicu
 certificate-viewer-sha-1 = SHA-1
 certificate-viewer-sha-256 = SHA-256
 certificate-viewer-serial-number = Númberu de serie
+certificate-viewer-timestamp = Marca de tiempu
 certificate-viewer-value = Valor
 certificate-viewer-version = Versión
 certificate-viewer-issuer-name = Nome del emisor
