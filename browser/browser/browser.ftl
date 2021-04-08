@@ -263,6 +263,19 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmark-panel-cancel =
+    .label = Renunță
+    .accesskey = C
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [one] Elimină marcajul
+            [few] Elimină { $count } marcaje
+           *[other] Elimină { $count } de marcaje
+        }
+    .accesskey = R
 bookmark-panel-show-editor-checkbox =
     .label = Afișează editorul la salvare
     .accesskey = S
@@ -535,6 +548,9 @@ library-bookmarks-menu =
 save-to-pocket-button =
     .label = Salvează în { -pocket-brand-name }
     .tooltiptext = Salvează în { -pocket-brand-name }
+
+## Customize Toolbar Buttons
+
 
 ## More items
 
