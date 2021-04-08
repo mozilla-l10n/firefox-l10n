@@ -264,6 +264,18 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmark-panel-cancel =
+    .label = Annulearje
+    .accesskey = A
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [one] Blêdwizer fuortsmite
+           *[other] Blêdwizers fuortsmite ({ $count })
+        }
+    .accesskey = B
 bookmark-panel-show-editor-checkbox =
     .label = By bewarjen editor toane
     .accesskey = e
@@ -645,6 +657,9 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = Bewarje nei { -pocket-brand-name }
     .tooltiptext = Bewarje nei { -pocket-brand-name }
+
+## Customize Toolbar Buttons
+
 
 ## More items
 
