@@ -9,6 +9,17 @@ menu-view-charset =
     .label = 文字編碼
     .accesskey = c
 
+## Tools Menu
+
+# Since v89 we dropped the platforms distinction between Options or Preferences
+# and consolidated everything with Preferences.
+menu-tools-preferences =
+    .label = 偏好設定
+    .accesskey = P
+menu-addons-and-themes =
+    .label = 附加元件與佈景主題
+    .accesskey = A
+
 ## Help Menu
 
 menu-help-enter-troubleshoot-mode =
