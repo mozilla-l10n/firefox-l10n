@@ -223,6 +223,14 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmark-panel-cancel =
+    .label = ပယ်​ဖျက်ပါ
+    .accesskey = C
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label = စာမှတ် { $count } ခုကို ဖျက်ရန်
+    .accesskey = R
 bookmark-panel-done-button =
     .label = ပြီးပြီ
 # Width of the bookmark panel.
@@ -432,6 +440,9 @@ library-bookmarks-menu =
 save-to-pocket-button =
     .label = { -pocket-brand-name } တွင်သိမ်းပါ
     .tooltiptext = { -pocket-brand-name } တွင်သိမ်းပါ
+
+## Customize Toolbar Buttons
+
 
 ## More items
 
