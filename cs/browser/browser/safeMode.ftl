@@ -45,7 +45,7 @@ troubleshoot-mode-description =
         [feminine] { -brand-short-name(case: "gen") }
         [neuter] { -brand-short-name(case: "gen") }
        *[other] aplikace { -brand-short-name }
-    } vám pomůže s řešením potíží. Vaše rozšíření a uživatelská nastavení budou dočasně zakázána.
+    } vám pomůže s diagnostikou problémů. Vaše rozšíření a uživatelská nastavení budou dočasně zakázána.
 safe-mode-description-details =
     Vaše doplňky a vlastní nastavení budou dočasně zakázány a některé funkce { -brand-short-name.gender ->
         [masculine] { -brand-short-name(case: "gen") }
