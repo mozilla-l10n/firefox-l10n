@@ -19,6 +19,20 @@ newtab-search-box-search-button =
     .title = Sykje
     .aria-label = Sykje
 newtab-search-box-search-the-web-text = Sykje op it web
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-text = Mei { $engine } sykje of fier adres yn
+newtab-search-box-handoff-text-no-engine = Fier sykterm of adres yn
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-input =
+    .placeholder = Mei { $engine } sykje of fier adres yn
+    .title = Mei { $engine } sykje of fier adres yn
+    .aria-label = Mei { $engine } sykje of fier adres yn
+newtab-search-box-handoff-input-no-engine =
+    .placeholder = Fier sykterm of adres yn
+    .title = Fier sykterm of adres yn
+    .aria-label = Fier sykterm of adres yn
 newtab-search-box-search-the-web-input =
     .placeholder = Sykje op it web
     .title = Sykje op it web

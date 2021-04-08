@@ -11,6 +11,8 @@
 
 ## Application Menu (macOS only)
 
+menu-application-preferences =
+    .label = Foarkarren
 menu-application-services =
     .label = Tsjinsten
 menu-application-hide-this =
@@ -261,6 +263,9 @@ menu-tools-fxa-sign-in2 =
 menu-tools-turn-on-sync =
     .label = { -sync-brand-short-name } ynskeakelje…
     .accesskey = y
+menu-tools-turn-on-sync2 =
+    .label = Syngronisaasje ynskeakelje…
+    .accesskey = n
 menu-tools-sync-now =
     .label = No syngronisearje
     .accesskey = N
