@@ -644,6 +644,8 @@ containers-back-button =
             [windows] Tebek nei Opsjes
            *[other] Tebek nei Foarkarren
         }
+containers-back-button2 =
+    .aria-label = Tebek nei Ynstellingen
 containers-header = Kontenerljepblêden
 containers-add-button =
     .label = Nije kontener tafoegje
@@ -653,6 +655,8 @@ containers-new-tab-check =
     .accesskey = S
 containers-preferences-button =
     .label = Foarkarren
+containers-settings-button =
+    .label = Ynstellingen
 containers-remove-button =
     .label = Fuortsmite
 
@@ -664,6 +668,10 @@ sync-signedout-description = Syngronisearje jo blêdwizers, skiednis, ljepblêde
 sync-signedout-account-signin2 =
     .label = Oanmelde by { -sync-brand-short-name }…
     .accesskey = O
+sync-signedout-description2 = Syngronisearje jo blêdwizers, skiednis, ljepblêden, wachtwurden, add-ons en ynstellingen op al jo apparaten.
+sync-signedout-account-signin3 =
+    .label = Oanmelde om te syngronisearjen…
+    .accesskey = a
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -703,6 +711,10 @@ prefs-sync-setup =
     .label = { -sync-brand-short-name } ynstelle…
     .accesskey = y
 prefs-sync-offer-setup-label = Syngronisearje jo blêdwizers, skiednis, ljepblêden, wachtwurden, add-ons en foarkarren op al jo apparaten.
+prefs-sync-turn-on-syncing =
+    .label = Syngronisaasje ynskeakelje…
+    .accesskey = S
+prefs-sync-offer-setup-label2 = Syngronisearje jo blêdwizers, skiednis, ljepblêden, wachtwurden, add-ons en ynstellingen op al jo apparaten.
 prefs-sync-now =
     .labelnotsyncing = No syngronisearje
     .accesskeynotsyncing = N
@@ -723,6 +735,7 @@ sync-currently-syncing-prefs =
         [windows] Foarkarren
        *[other] Foarkarren
     }
+sync-currently-syncing-settings = Ynstellingen
 sync-change-options =
     .label = Wizigje…
     .accesskey = W
@@ -770,6 +783,10 @@ sync-engine-prefs =
         }
     .tooltiptext = Algemiene, privacy- en feilichheidsynstellingen dy't jo wizige hawwe
     .accesskey = F
+sync-engine-settings =
+    .label = Ynstellingen
+    .tooltiptext = Troch jo wizige algemiene, privacy- en befeiligingsynstellingen
+    .accesskey = s
 
 ## The device name controls.
 
@@ -1184,6 +1201,11 @@ space-alert-under-5gb-ok-button =
     .label = Ok, begrepen
     .accesskey = k
 space-alert-under-5gb-message = { -brand-short-name } hat hast gjin skiifromte mear. Ynhâld fan websites wurdt mooglik net goed werjûn. Besykje ‘Mear ynfo’ om jo skiifgebrûk te optimalisearjen foar bettere prestaasjes.
+space-alert-over-5gb-settings-button =
+    .label = Ynstellingen iepenje
+    .accesskey = i
+space-alert-over-5gb-message2 = <strong>{ -brand-short-name } hat hast gjin skiifromte mear.</strong> Ynhâld fan websites wurdt mooglik net goed werjûn. Jo kinne bewarre gegevens wiskje yn Ynstellingen > Privacy & Befeiliging > Cookies en websitegegevens.
+space-alert-under-5gb-message2 = <strong>{ -brand-short-name } hat hast gjin skiifromte mear.</strong> Ynhâld fan websites wurdt mooglik net goed werjûn. Besykje ‘Mear ynfo’ om jo skiifgebrûk te optimalisearjen foar bettere prestaasjes.
 
 ## Privacy Section - HTTPS-Only
 
