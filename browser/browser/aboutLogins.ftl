@@ -18,6 +18,7 @@ login-filter =
 create-login-button = Nij oanmelding meitsje
 fxaccounts-sign-in-text = Bring jo wachtwurden nei jo oare apparaten
 fxaccounts-sign-in-button = Meld jo oan by { -sync-brand-short-name }
+fxaccounts-sign-in-sync-button = Oanmelde om te syngronisearjen
 fxaccounts-avatar-button =
     .title = Account beheare
 
@@ -70,11 +71,13 @@ about-logins-list-item-vulnerable-password-icon =
 
 login-intro-heading = Sykje jo bewarre oanmeldingen? Stel { -sync-brand-short-name } yn.
 about-logins-login-intro-heading-logged-out = Op syk nei jo bewarre oanmeldingen? Stel { -sync-brand-short-name } yn of ymportearje se.
+about-logins-login-intro-heading-logged-out2 = Op syk nei jo bewarre oanmeldingen? Skeakelje syngronisaasje yn of ymportearje se.
 about-logins-login-intro-heading-logged-in = Gjin syngronisearre oanmeldingen fûn.
 login-intro-description = As jo jo oanmeldgegevens by { -brand-product-name } op in oar apparaat bewarre hawwe, kinne jo se sa ophelje:
 login-intro-instruction-fxa = Meitsje op it apparaat wêrop jo oanmeldgegevens stean in { -fxaccount-brand-name } of meld jo oan
 login-intro-instruction-fxa-settings = Soargje derfoar dat jo it fjild Oanmeldingen yn de ynstellingen fan { -sync-brand-short-name } oanfinkt hawwe
 about-logins-intro-instruction-help = Besykje <a data-l10n-name="help-link">Stipe foar { -lockwise-brand-short-name }</a> foar mear help
+login-intro-instructions-fxa = Meitsje op it apparaat wêrop jo oanmeldgegevens stean in { -fxaccount-brand-name } of meld jo oan.
 about-logins-intro-import = As jo oanmeldingen yn in oare browser bewarre wurde, kinne jo <a data-l10n-name="import-link">se ymportearje yn { -lockwise-brand-short-name }</a>
 about-logins-intro-import2 = As jo oanmeldingen bûten { -brand-product-name } bewarre binne, dan kinne jo se ymportearje <a data-l10n-name="import-browser-link">fan in oare browser út</a> of <a data-l10n-name = "import-file-link">fan in bestân út</a>
 
