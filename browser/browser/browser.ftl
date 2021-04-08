@@ -267,6 +267,17 @@ search-one-offs-history =
 
 bookmarks-add-bookmark = Dodaj zaznamek
 bookmarks-edit-bookmark = Uredi zaznamek
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [one] Odstrani zaznamek
+            [two] Odstrani { $count } zaznamka
+            [few] Odstrani { $count } zaznamke
+           *[other] Odstrani { $count } zaznamkov
+        }
+    .accesskey = O
 bookmark-panel-show-editor-checkbox =
     .label = Pri shranjevanju prikaži urejevalnik
     .accesskey = j
