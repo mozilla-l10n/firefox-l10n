@@ -18,6 +18,7 @@ login-filter =
 create-login-button = Crear un aniciu de sesión
 fxaccounts-sign-in-text = Consigui les tos contraseñes n'otros preseos
 fxaccounts-sign-in-button = Aniciar sesión en { -sync-brand-short-name }
+fxaccounts-sign-in-sync-button = Aniciar sesión pa sincronizar
 fxaccounts-avatar-button =
     .title = Xestionar la cuenta
 

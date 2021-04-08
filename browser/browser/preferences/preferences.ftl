@@ -630,6 +630,9 @@ sync-signedout-description = Sincroniza los marcadores, les llingüetes, l'histo
 sync-signedout-account-signin2 =
     .label = Aniciar sesión en { -sync-brand-short-name }…
     .accesskey = i
+sync-signedout-account-signin3 =
+    .label = Aniciar sesión pa sincronizar…
+    .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
