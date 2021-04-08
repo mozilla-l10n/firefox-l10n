@@ -48,6 +48,7 @@ appmenu-addon-private-browsing-installed2 =
     .buttonlabel = OK
     .buttonaccesskey = O
 appmenu-addon-post-install-message2 = Erweiterungen und Themes können über das Anwendungsmenü verwaltet werden.
+appmenu-addon-post-install-message3 = Add-ons und Themes können über das Anwendungsmenü verwaltet werden.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Ausführen der Erweiterung in privaten Fenstern erlauben
     .accesskey = e
