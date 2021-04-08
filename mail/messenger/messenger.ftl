@@ -12,6 +12,12 @@ unread-messages-os-tooltip =
     }
 about-rights-notification-text = { -brand-short-name } є вільним програмним забезпеченням з відкритим кодом, створене тисячами людей з усього світу.
 
+## Toolbar
+
+addons-and-themes-button =
+    .label = Додатки й теми
+    .tooltip = Керування вашими додатками
+
 ## Folder Pane
 
 folder-pane-toolbar =
@@ -44,3 +50,18 @@ show-recent-folders-label =
 folder-toolbar-toggle-folder-compact-view =
     .label = Компактне подання
     .accesskey = К
+
+## AppMenu
+
+# Since v89 we dropped the platforms distinction between Options or Preferences
+# and consolidated everything with Preferences.
+appmenu-preferences =
+    .label = Налаштування
+appmenu-addons-and-themes =
+    .label = Додатки й теми
+appmenu-help-enter-troubleshoot-mode =
+    .label = Режим усунення проблем…
+appmenu-help-exit-troubleshoot-mode =
+    .label = Вимкнути режим усунення проблем
+appmenu-help-more-troubleshooting-info =
+    .label = Додаткові відомості про усунення проблем
