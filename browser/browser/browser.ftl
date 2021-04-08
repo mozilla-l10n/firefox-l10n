@@ -266,6 +266,9 @@ search-one-offs-history =
 
 bookmarks-add-bookmark = Legg til bokmerke
 bookmarks-edit-bookmark = Rediger bokmerke
+bookmark-panel-cancel =
+    .label = Avbryt
+    .accesskey = A
 bookmark-panel-show-editor-checkbox =
     .label = Vis redigerar ved lagring
     .accesskey = V
