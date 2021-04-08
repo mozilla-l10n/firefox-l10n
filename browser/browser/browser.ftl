@@ -256,6 +256,8 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = เพิ่มที่คั่นหน้า
+bookmarks-edit-bookmark = แก้ไขที่คั่นหน้า
 bookmark-panel-cancel =
     .label = ยกเลิก
     .accesskey = ย
@@ -269,6 +271,8 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = ส
 bookmark-panel-done-button =
     .label = เสร็จสิ้น
+bookmark-panel-save-button =
+    .label = บันทึก
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -527,6 +531,13 @@ urlbar-result-action-tabtosearch-web = ค้นหาด้วย { $engine } �
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = ค้นหา { $engine } โดยตรงจากแถบที่อยู่
+# Action text for copying to clipboard.
+urlbar-result-action-copy-to-clipboard = คัดลอก
+# Shows the result of a formula expression being calculated, the last = sign will be shown
+# as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result = = { $result }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -645,6 +656,20 @@ save-to-pocket-button =
 
 ## Customize Toolbar Buttons
 
+# Variables:
+#  $shortcut (String): keyboard shortcut to open the add-ons manager
+toolbar-addons-themes-button =
+    .label = ส่วนเสริมและชุดตกแต่ง
+    .tooltiptext = จัดการส่วนเสริมและชุดตกแต่งของคุณ ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open settings (only on macOS)
+toolbar-settings-button =
+    .label = การตั้งค่า
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] เปิดการตั้งค่า ({ $shortcut })
+           *[other] เปิดการตั้งค่า
+        }
 
 ## More items
 
