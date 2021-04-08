@@ -266,6 +266,18 @@ search-one-offs-history =
 
 bookmarks-add-bookmark = Añadir marcador
 bookmarks-edit-bookmark = Editar marcador
+bookmark-panel-cancel =
+    .label = Cancelar
+    .accesskey = C
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [one] Borrar marcador
+           *[other] Borrar marcadores ({ $count })
+        }
+    .accesskey = R
 bookmark-panel-show-editor-checkbox =
     .label = Mostrar editor al guardar
     .accesskey = S
