@@ -266,6 +266,18 @@ search-one-offs-history =
 
 bookmarks-add-bookmark = Afegeix a les adreces d'interès
 bookmarks-edit-bookmark = Edita l'adreça d'interès
+bookmark-panel-cancel =
+    .label = Cancel·la
+    .accesskey = C
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [one] Elimina l'adreça d'interès
+           *[other] Elimina { $count } adreces d'interès
+        }
+    .accesskey = E
 bookmark-panel-show-editor-checkbox =
     .label = Mostra l'editor en desar
     .accesskey = s
