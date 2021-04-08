@@ -409,7 +409,7 @@
 <!-- Toolbar items -->
 <!ENTITY getMsgButton.label "Recibir mensajes">
 <!ENTITY getAllNewMsgCmd.label "Recibir todos los mensajes nuevos">
-<!ENTITY getAllNewMsgCmd.accesskey "G">
+<!ENTITY getAllNewMsgCmd.accesskey "t">
 <!ENTITY newMsgButton.label "Redactar">
 <!ENTITY newHTMLMessageCmd.label "Redactar en HTML">
 <!ENTITY newHTMLMessageCmd.accesskey "H">
