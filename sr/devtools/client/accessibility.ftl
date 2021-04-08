@@ -45,3 +45,4 @@ accessibility-text-label-issue-toolbar = Toolbars must be labeled when there is 
 ## that describe that currently selected accessible object has a keyboard accessibility
 ## issue.
 
+accessibility-keyboard-issue-semantics = Елементи који се могу фокусирати треба да имају интерактивну семантику. <a>Сазнајте више</a>
