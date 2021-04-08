@@ -10,6 +10,8 @@ preferences-title =
             [windows] 选项
            *[other] 首选项
         }
+preferences-tab-title =
+    .title = 首选项
 category-list =
     .aria-label = 分类
 pane-general-title = 常规
@@ -90,6 +92,7 @@ update-in-progress-ok-button = 放弃
 update-in-progress-cancel-button = 继续
 account-button = 账户设置
 addons-button = 扩展和主题
+open-addons-sidebar-button = 扩展和主题
 
 ## OS Authentication dialog
 
@@ -710,6 +713,17 @@ search-input-box =
             [windows] 搜索选项
            *[other] 搜索首选项
         }
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-preferences-input =
+    .style = width: 15.4em
+    .placeholder = 在首选项中查找
 
 ## Preferences UI Search Results
 
