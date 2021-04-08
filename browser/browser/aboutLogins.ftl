@@ -321,6 +321,7 @@ about-logins-import-dialog-error-unable-to-read-description = Asegurate de selec
 about-logins-import-dialog-error-no-logins-imported = No se importaron inicios de sesión
 about-logins-import-dialog-error-learn-more = Conocer más
 about-logins-import-dialog-error-try-again = Intentar de nuevo...
+about-logins-import-dialog-error-try-import-again = Intente importar de nuevo…
 about-logins-import-dialog-error-cancel = Cancelar
 about-logins-import-report-title = Importar resumen
 about-logins-import-report-description = Inicios de sesión y contraseñas importados a { -brand-short-name }.
