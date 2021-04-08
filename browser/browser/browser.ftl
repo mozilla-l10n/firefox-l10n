@@ -266,6 +266,18 @@ search-one-offs-history =
 
 bookmarks-add-bookmark = הוספת סימנייה
 bookmarks-edit-bookmark = עריכת סימנייה
+bookmark-panel-cancel =
+    .label = ביטול
+    .accesskey = ב
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [one] הסרת סימנייה
+           *[other] הסרת { $count } סימניות
+        }
+    .accesskey = ס
 bookmark-panel-show-editor-checkbox =
     .label = הצגת העורך בזמן שמירה
     .accesskey = ה
