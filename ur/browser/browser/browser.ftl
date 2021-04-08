@@ -247,6 +247,9 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmark-panel-cancel =
+    .label = منسوخ کریں
+    .accesskey = C
 bookmark-panel-show-editor-checkbox =
     .label = تدوین کار میں محفوظ کرتے وقت نمائش کریں
     .accesskey = S
@@ -506,6 +509,9 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = { -pocket-brand-name } میں محفوظ کریں
     .tooltiptext = { -pocket-brand-name } میں محفوظ کریں
+
+## Customize Toolbar Buttons
+
 
 ## More items
 
