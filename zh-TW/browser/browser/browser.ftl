@@ -264,7 +264,11 @@ bookmark-panel-cancel =
 # Variables:
 #  $count (number): number of bookmarks that will be removed
 bookmark-panel-remove =
-    .label = 刪除 { $count } 筆書籤
+    .label =
+        { $count ->
+            [1] 移除書籤
+           *[other] 移除 { $count } 筆書籤
+        }
     .accesskey = R
 bookmark-panel-show-editor-checkbox =
     .label = 儲存時顯示編輯器
