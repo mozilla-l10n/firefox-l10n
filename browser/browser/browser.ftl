@@ -259,6 +259,11 @@ search-one-offs-history =
 bookmark-panel-cancel =
     .label = ยกเลิก
     .accesskey = ย
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label = เอา { $count } ที่คั่นหน้าออก
+    .accesskey = อ
 bookmark-panel-show-editor-checkbox =
     .label = แสดงตัวแก้ไขเมื่อบันทึก
     .accesskey = ส
