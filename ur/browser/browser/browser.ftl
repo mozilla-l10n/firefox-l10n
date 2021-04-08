@@ -250,6 +250,15 @@ search-one-offs-history =
 bookmark-panel-cancel =
     .label = منسوخ کریں
     .accesskey = C
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [one] بک مارک ہٹائیں
+           *[other] { $count } بک مارک حٹائیں
+        }
+    .accesskey = R
 bookmark-panel-show-editor-checkbox =
     .label = تدوین کار میں محفوظ کرتے وقت نمائش کریں
     .accesskey = S
