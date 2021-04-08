@@ -261,6 +261,11 @@ bookmarks-edit-bookmark = 북마크 편집
 bookmark-panel-cancel =
     .label = 취소
     .accesskey = C
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label = 북마크 { $count }개 삭제
+    .accesskey = R
 bookmark-panel-show-editor-checkbox =
     .label = 저장할 때 편집기 표시
     .accesskey = S
