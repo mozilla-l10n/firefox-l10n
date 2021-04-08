@@ -266,6 +266,9 @@ search-one-offs-history =
 
 bookmarks-add-bookmark = Ajouter un marque-page
 bookmarks-edit-bookmark = Modifier le marque-page
+bookmark-panel-cancel =
+    .label = Annuler
+    .accesskey = A
 # Variables:
 #  $count (number): number of bookmarks that will be removed
 bookmark-panel-remove =
