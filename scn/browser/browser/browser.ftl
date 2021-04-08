@@ -225,6 +225,9 @@ search-one-offs-context-set-as-default-private =
 
 ## Bookmark Panel
 
+bookmark-panel-cancel =
+    .label = Sfai
+    .accesskey = S
 bookmark-panel-show-editor-checkbox =
     .label = Mustra l'edituri quannu sarbi
     .accesskey = s
@@ -404,6 +407,9 @@ library-bookmarks-menu =
 save-to-pocket-button =
     .label = Sarba nne { -pocket-brand-name }
     .tooltiptext = Sarba nne { -pocket-brand-name }
+
+## Customize Toolbar Buttons
+
 
 ## More items
 
