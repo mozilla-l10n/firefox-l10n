@@ -248,6 +248,20 @@ search-one-offs-context-set-as-default-private =
 
 ## Bookmark Panel
 
+bookmark-panel-cancel =
+    .label = Sguir dheth
+    .accesskey = C
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [one] Thoir air falbh { $count } chomharra-lìn
+            [two] Thoir air falbh { $count } chomharra-lìn
+            [few] Thoir air falbh { $count } chomharran-lìn
+           *[other] Thoir air falbh { $count } comharra-lìn
+        }
+    .accesskey = R
 bookmark-panel-show-editor-checkbox =
     .label = Seall an deasaiche nuair a nithear sàbhaladh
     .accesskey = S
@@ -454,6 +468,9 @@ library-bookmarks-menu =
 save-to-pocket-button =
     .label = Sàbhail ann am { -pocket-brand-name }
     .tooltiptext = Sàbhail ann am { -pocket-brand-name }
+
+## Customize Toolbar Buttons
+
 
 ## More items
 
