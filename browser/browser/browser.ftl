@@ -266,6 +266,18 @@ search-one-offs-history =
 
 bookmarks-add-bookmark = Yer imi ekle
 bookmarks-edit-bookmark = Yer imini düzenle
+bookmark-panel-cancel =
+    .label = Vazgeç
+    .accesskey = z
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [one] Yer imini sil
+           *[other] { $count } yer imini sil
+        }
+    .accesskey = s
 bookmark-panel-show-editor-checkbox =
     .label = Kaydederken düzenleyiciyi göster
     .accesskey = K
