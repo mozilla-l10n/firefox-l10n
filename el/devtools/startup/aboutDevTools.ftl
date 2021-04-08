@@ -30,7 +30,7 @@ features-inspector-title = Επιθεώρηση
 features-inspector-desc = Επιθεώρηση και βελτίωση κώδικα για δημιουργία τέλειων διατάξεων. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-console-title = Κονσόλα
 features-console-desc = Καταγραφή προβλημάτων σε CSS, JavaScript, ασφάλεια και δίκτυο. <a data-l10n-name="learn-more">{ features-learn-more }</a>
-features-debugger-title = Αποσφαλμάτωση
+features-debugger-title = Έλεγχος σφαλμάτων
 features-debugger-desc = Πανίσχυρη αποσφαλμάτωση JavaScript με υποστήριξη για το πλαίσιό σας. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-network-title = Δίκτυο
 features-network-desc = Εποπτεία των αιτημάτων δικτύου που ενδέχεται να καθυστερούν ή να αποκλείσουν την ιστοσελίδα σας. <a data-l10n-name="learn-more">{ features-learn-more }</a>

@@ -306,8 +306,8 @@ menu-preferences =
            *[other] μ
         }
 menu-tools-layout-debugger =
-    .label = Αποσφαλμάτωση διάταξης
-    .accesskey = Δ
+    .label = Έλεγχος σφαλμάτων διάταξης
+    .accesskey = Έ
 
 ## Window Menu
 
