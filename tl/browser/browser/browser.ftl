@@ -264,6 +264,15 @@ search-one-offs-history =
 bookmark-panel-cancel =
     .label = Kanselahin
     .accesskey = C
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [one] Tanggalin ang Bookmark
+           *[other] Magtanggal ng { $count } mga Bookmark
+        }
+    .accesskey = R
 bookmark-panel-show-editor-checkbox =
     .label = Ipakita ang editor kapag nagse-save
     .accesskey = S
