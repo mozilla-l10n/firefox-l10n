@@ -169,6 +169,9 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmark-panel-cancel =
+    .label = Encaboxar
+    .accesskey = E
 bookmark-panel-show-editor-checkbox =
     .label = Amosar l'editor al guardar
     .accesskey = A
