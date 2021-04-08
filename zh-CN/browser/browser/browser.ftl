@@ -258,6 +258,14 @@ search-one-offs-history =
 
 bookmarks-add-bookmark = 新建书签
 bookmarks-edit-bookmark = 编辑书签
+bookmark-panel-cancel =
+    .label = 取消
+    .accesskey = C
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label = 移除 { $count } 个书签
+    .accesskey = R
 bookmark-panel-show-editor-checkbox =
     .label = 保存时显示编辑器
     .accesskey = S
