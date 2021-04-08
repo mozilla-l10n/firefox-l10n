@@ -318,7 +318,7 @@ about-logins-import-dialog-error-learn-more = Lleer más
 about-logins-import-dialog-error-try-again = Retentar…
 about-logins-import-dialog-error-cancel = Encaboxar
 about-logins-import-report-title = Sumariu de la importación
-about-logins-import-report-description = Anicios de sesión y contraseñes importaes a { -brand-short-name }.
+about-logins-import-report-description = Anicios de sesión y contraseñes importaos a { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
