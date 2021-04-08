@@ -6,3 +6,4 @@ add-on-options-button =
     .title = Nastajenja přidatka
 atn-addons-heading-search-input =
     .placeholder = addons.thunderbird.net přepytać
+sidebar-preferences-button-title = Nastajenja { -brand-short-name }

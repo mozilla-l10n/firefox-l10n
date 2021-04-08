@@ -13,6 +13,12 @@ unread-messages-os-tooltip =
     }
 about-rights-notification-text = { -brand-short-name } je darmotna softwara wotewrjeneho žórła, wuwita wot zhromadźenstwa tysacow ludźi z cyłeho swěta.
 
+## Toolbar
+
+addons-and-themes-button =
+    .label = Přidatki a drasty
+    .tooltip = Waše přidatki rjadować
+
 ## Folder Pane
 
 folder-pane-toolbar =
@@ -45,3 +51,18 @@ show-recent-folders-label =
 folder-toolbar-toggle-folder-compact-view =
     .label = Kompaktny napohlad
     .accesskey = K
+
+## AppMenu
+
+# Since v89 we dropped the platforms distinction between Options or Preferences
+# and consolidated everything with Preferences.
+appmenu-preferences =
+    .label = Nastajenja
+appmenu-addons-and-themes =
+    .label = Přidatki a drasty
+appmenu-help-enter-troubleshoot-mode =
+    .label = Modus za rozrisowanje problemow…
+appmenu-help-exit-troubleshoot-mode =
+    .label = Modus za rozrisanje problemow znjemóžnić
+appmenu-help-more-troubleshooting-info =
+    .label = Dalše informacije za rozrisowanje problemow
