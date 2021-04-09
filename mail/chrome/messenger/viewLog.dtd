@@ -3,10 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY viewLog.title "Αρχείο καταγραφής φίλτρου">
-<!ENTITY viewLogInfo.text "Το Αρχείο καταγραφής φίλτρου είναι ένα αρχείο που καταγράφει ποια φίλτρα εκτελούνται. Χρησιμοποιήστε το κουτί επιλογής για να ενεργοποιήσετε την καταγραφή.">
+<!ENTITY viewLogInfo.text "Το αρχείο καταγραφής φίλτρου καταγράφει ποια φίλτρα εκτελούνται σε αυτό τον λογαριασμό. Ενεργοποιήστε την καταγραφή με το παρακάτω πλαίσιο επιλογής.">
 <!ENTITY clearLog.label "Απαλοιφή αρχείου καταγραφής">
 <!ENTITY clearLog.accesskey "Α">
-<!ENTITY enableLog.label "Ενεργοποίηση αρχείου καταγραφής φίλτρου">
+<!ENTITY enableLog.label "Ενεργοποίηση καταγραφής φίλτρου">
 <!ENTITY enableLog.accesskey "Ε">
 <!ENTITY closeLog.label "Κλείσιμο">
 <!ENTITY closeLog.accesskey "λ">
