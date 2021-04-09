@@ -183,15 +183,24 @@ preferences-addon-button =
 details-addon-button = Detalles
 permissions-addon-button = Permisos
 extension-enabled-heading = Activóse
+extension-disabled-heading = Desactivóse
 theme-enabled-heading = Activóse
+theme-disabled-heading = Desactivóse
 plugin-enabled-heading = Activóse
+plugin-disabled-heading = Desactivóse
 dictionary-enabled-heading = Activóse
+dictionary-disabled-heading = Desactivóse
 locale-enabled-heading = Activóse
+locale-disabled-heading = Desactivóse
 always-activate-button = Activar siempres
 never-activate-button = Nun activar enxamás
 addon-detail-version-label = Versión
 addon-detail-last-updated-label = Últimu anovamientu
 addon-detail-rating-label = Valoración
+# This string is used to show that an add-on is disabled.
+# Variables:
+#   $name (string) - The name of the add-on
+addon-name-disabled = { $name } (desactivóse)
 # The number of reviews that an add-on has received on AMO.
 # Variables:
 #   $numberOfReviews (number) - The number of reviews received
