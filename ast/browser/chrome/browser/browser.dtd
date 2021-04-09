@@ -159,6 +159,8 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY appMenuRecentHighlights.label "Destacóse de recién">
 
+<!ENTITY customizeMenu.addToToolbar.label "Amestar a la barra de ferramientes">
+<!ENTITY customizeMenu.addToToolbar.accesskey "A">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)

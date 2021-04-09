@@ -375,6 +375,12 @@ bookmarks-toolbar =
     .toolbarname = Barra de los marcadores
     .accesskey = B
     .aria-label = Marcadores
+bookmarks-toolbar-menu =
+    .label = Barra de los marcadores
+bookmarks-toolbar-placeholder =
+    .title = Elementos de la barra de los marcadores
+bookmarks-toolbar-placeholder-button =
+    .label = Elementos de la barra de los marcadores
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Amestar la llingüeta actual a Marcadores
