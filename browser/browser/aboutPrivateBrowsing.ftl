@@ -9,6 +9,12 @@ about-private-browsing-info-title = మీరు అంతరంగిక వి
 about-private-browsing-info-myths = అంతరంగిక విహారణ గురించి సామాన్య అపోహలు
 about-private-browsing =
     .title = జాలంలో వెతకండి
+about-private-browsing-handoff-no-engine =
+    .title = వెతకండి లేదా చిరునామాను ఇవ్వండి
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff-text = { $engine }‌తో వెతకండి లేదా చిరునామాను ఇవ్వండి
+about-private-browsing-handoff-text-no-engine = వెతకండి లేదా చిరునామాను ఇవ్వండి
 about-private-browsing-not-private = మీరు ప్రస్తుతం అంతరంగిక విండోలో లేరు.
 about-private-browsing-info-description = మీరు అనువర్తనం నుండి నిష్క్రమించినప్పుడు లేదా అన్ని అంతరంగిక విహారణ ట్యాబులను, కిటికీలను మూసివేసినపుడు మీ వెతుకుడు, విహారణ చరిత్రను { -brand-short-name } తుడిచివేస్తుంది. ఇది మిమ్మల్ని వెబ్‌సైట్ల నుండి లేదా మీ అంతర్జాల సేవాదారు నుండి అనామకంగా చేయనప్పటికీ, ఈ కంప్యూటరును వాడే ఇతరుల నుండి మీ జాల కార్యకలాపాన్ని అంతరంగికంగా ఉంచుకోవడంలో తోడ్పడుతుంది.
 about-private-browsing-need-more-privacy = మరింత అంతరంగికత కావాలా?
