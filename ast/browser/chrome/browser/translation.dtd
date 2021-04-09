@@ -17,6 +17,7 @@
 <!ENTITY translation.translate.button           "Sí">
 <!ENTITY translation.notNow.button              "Agora non">
 
+<!ENTITY translation.translatingContent.label   "Traduciendo'l conteníu de la páxina…">
 
 <!-- LOCALIZATION NOTE (translation.translatedFrom.label,
   -                     translation.translatedTo.label,
@@ -33,13 +34,17 @@
   -  translation.translatedToSuffix.label (empty in en-US) is for locales that
   -  need to display some text after the second drop down for the sentence to
   -  be grammatically correct. -->
+<!ENTITY translation.translatedFrom.label       "Esta páxina tradúxose del">
 <!ENTITY translation.translatedTo.label         "al">
 <!ENTITY translation.translatedToSuffix.label   "">
 
+<!ENTITY translation.showOriginal.button        "Amosar lo orixinal">
+<!ENTITY translation.showTranslation.button     "Amosar la traducción">
 
 <!ENTITY translation.errorTranslating.label     "Hebo un fallu al traducir esta páxina.">
 <!ENTITY translation.tryAgain.button            "Retentar">
 
+<!ENTITY translation.serviceUnavailable.label   "La traducción nun ta disponible nesti momentu. Volvi tentalo dempués, por favor.">
 
 <!ENTITY translation.options.menu               "Opciones">
 <!-- LOCALIZATION NOTE (translation.options.neverForSite.accesskey,
@@ -48,4 +53,6 @@
   -  translation.options.neverForLanguage.accesskey in translation.properties
   -->
 <!ENTITY translation.options.neverForSite.label "Nun traducir enxamás esti sitiu">
+<!ENTITY translation.options.neverForSite.accesskey "e">
 <!ENTITY translation.options.preferences.label  "Preferencies de la traducción">
+<!ENTITY translation.options.preferences.accesskey "P">
