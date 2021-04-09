@@ -371,7 +371,7 @@ about-logins-import-report-row-index = { $number }. ред
 about-logins-import-report-row-description-no-change = Дупликат: таква пријава већ постоји
 about-logins-import-report-row-description-modified = Ажурирана је постојећа пријава
 about-logins-import-report-row-description-added = Додата је нова пријава
-about-logins-import-report-row-description-error = Грешка: недостаје поље
+about-logins-import-report-row-description-error = Грешка: нема поља
 
 ##
 ## Variables:
