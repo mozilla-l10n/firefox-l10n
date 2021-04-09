@@ -188,6 +188,10 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY sidebarCloseButton.tooltip     "Zarrar el panel llateral">
 
+<!ENTITY quitApplicationCmdWin2.label       "Colar">
+<!ENTITY quitApplicationCmdWin2.accesskey   "c">
+<!ENTITY quitApplicationCmd.label       "Colar">
+<!ENTITY quitApplicationCmd.accesskey   "C">
 
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
