@@ -59,6 +59,7 @@
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
+<!ENTITY certerror.introPara2 "&brandShortName; detectó una amenaza potencial de seguranza y torgó la conexón a <span class='hostname'/>. Si visites esti sitiu, los atacantes podríen robar información como contraseñes, direiciones de corréu o tarxetes de creitu.">
 
 <!ENTITY certerror.expiredCert.sts.secondPara "Ye probable que'l certificáu del sitiu web caducare, lo qu'evita que &brandShortName; se conecte con seguranza.">
 
@@ -79,6 +80,7 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 
+<!ENTITY certerror.pagetitle2  "Alvertencia: Riesgu potencial de seguranza">
 <!ENTITY certerror.copyToClipboard.label "Copiar el testu al cartafueyu">
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
