@@ -102,6 +102,8 @@ addon-updates-view-updates = Ver los anovamientos de recién
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
+addon-updates-update-addons-automatically = Anovar automáticamente los complementos
+    .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
 ## "Automatically", "Use default global behavior"). These menu items reset the
