@@ -15,6 +15,7 @@
 <!ENTITY views.label                    "Vistes">
 <!ENTITY views.accesskey                "V">
 <!ENTITY views.tooltip                  "Camuda la vista">
+<!ENTITY view.columns.label             "Columnes">
 <!ENTITY view.columns.accesskey         "c">
 <!ENTITY view.sort.label                "Ordenar">
 <!ENTITY view.sort.accesskey            "O">

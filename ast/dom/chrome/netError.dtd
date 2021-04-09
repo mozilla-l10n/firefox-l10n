@@ -94,7 +94,7 @@
 <!ENTITY inadequateSecurityError.title "La conexón nun ye segura">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> usa una teunoloxía de seguranza que nun ta anovada y ye vulnerable a ataques. Un atacante podría revelar cenciellamente información que cuidabes que taba segura. L'alministrador del sitiu web va tener d'iguar primero'l sirvidor enantes de que puedas visitalu.</p><p>Códigu del fallu: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> usa una teunoloxía de seguranza que nun ta anovada y ye vulnerable a ataques. Un atacante podría desvelar cenciellamente información que cuidabes que taba segura. L'alministrador del sitiu web va tener d'iguar primero'l sirvidor enantes de que puedas visitalu.</p><p>Códigu del fallu: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Bloquióse la páxina">
 
