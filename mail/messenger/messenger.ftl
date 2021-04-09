@@ -57,3 +57,11 @@ folder-toolbar-toggle-folder-compact-view =
 # and consolidated everything with Preferences.
 appmenu-preferences =
     .label = Nuostatos
+appmenu-addons-and-themes =
+    .label = Priedai ir grafiniai apvalkalai
+appmenu-help-enter-troubleshoot-mode =
+    .label = Trikčių šalinimo veiksena…
+appmenu-help-exit-troubleshoot-mode =
+    .label = Išjungti trikčių šalinimo veikseną
+appmenu-help-more-troubleshooting-info =
+    .label = Daugiau informacijos apie trikčių šalinimą

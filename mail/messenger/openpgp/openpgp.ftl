@@ -342,6 +342,7 @@ key-accept-warning = Venkite priimti nepatikrintą raktą. Norėdami patikrinti 
 # Strings enigmailMsgComposeOverlay.js
 cannot-use-own-key-because = Nepavyko išsiųsti pranešimo, nes yra problema su jūsų asmeniniu raktu. { $problem }
 cannot-encrypt-because-missing = Nepavyko išsiųsti šio pranešimo su abipusiu šifravimu, nes kilo problemų su šių gavėjų raktais: { $problem }
+window-locked = Kūrimo langas yra užrakintas; siuntimas atšauktas
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-attachment-label = Šifruota pranešimo dalis
 # Strings in keyserver.jsm
@@ -442,6 +443,7 @@ no-key-found = Nepavyko rasti jokių raktų, atitinkančių nurodytus paieškos 
 fail-key-extract = Klaida - nepavyko išgauti rakto
 # Strings used in keyRing.jsm
 fail-cancel = Klaida - rakto gavimą atšaukė vartotojas
+import-key-confirm = Ar importuoti į pranešimą įdėtą(-us) viešąjį raktą(-us)?
 fail-key-import = Klaida - nepavyko importuoti rakto
 # Strings used in trust.jsm
 key-valid-unknown = nežinomas
