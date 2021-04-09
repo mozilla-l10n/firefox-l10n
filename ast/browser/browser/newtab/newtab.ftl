@@ -124,6 +124,7 @@ newtab-section-menu-privacy-notice = Avisu de privacidá
 
 ## Section Headers.
 
+newtab-section-header-topsites = Sitios principales
 newtab-section-header-highlights = Lo destacao
 newtab-section-header-recent-activity = Actividá recién
 
