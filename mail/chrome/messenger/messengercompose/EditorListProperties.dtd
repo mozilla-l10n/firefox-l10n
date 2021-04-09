@@ -6,15 +6,15 @@
 <!-- Window title -->
 <!ENTITY windowTitle.label "Ιδιότητες λίστας">
 
-<!ENTITY ListType.label "Είδος λίστας">
-<!ENTITY bulletStyle.label "Μορφή κουκίδων:">
-<!ENTITY startingNumber.label "Έναρξη σε:">
+<!ENTITY ListType.label "Τύπος λίστας">
+<!ENTITY bulletStyle.label "Μορφή κουκκίδων:">
+<!ENTITY startingNumber.label "Έναρξη από:">
 <!ENTITY startingNumber.accessKey "ξ">
 <!ENTITY none.value "Κανένα">
-<!ENTITY bulletList.value "Μη αριθμημένη λίστα (με κουκίδες)">
+<!ENTITY bulletList.value "Λίστα με κουκκίδες (Μη αριθμημένη)">
 <!ENTITY numberList.value "Αριθμημένη λίστα">
 <!ENTITY definitionList.value "Λίστα ορισμών">
 <!ENTITY changeEntireListRadio.label "Αλλαγή όλης της λίστας">
 <!ENTITY changeEntireListRadio.accessKey "λ">
-<!ENTITY changeSelectedRadio.label "Αλλαγή μόνο των επιλεγμένων αντικειμένων">
+<!ENTITY changeSelectedRadio.label "Αλλαγή μόνο επιλεγμένων στοιχείων">
 <!ENTITY changeSelectedRadio.accessKey "π">
