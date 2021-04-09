@@ -139,6 +139,7 @@ onboarding-welcome-steps-indicator =
 onboarding-multistage-theme-header = ఒక <span data-l10n-name="zap">రూపం</span> ఎంచుకోండి
 onboarding-multistage-theme-subtitle = ఒక అలంకారంతో { -brand-short-name }‌ని వ్యక్తిగతీకరించుకోండి.
 onboarding-multistage-theme-primary-button-label = అలంకారాన్ని భద్రపరుచు
+onboarding-multistage-theme-primary-button-label2 = పూర్తయింది
 onboarding-multistage-theme-secondary-button-label = ఇప్పుడు కాదు
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = స్వయంచాలకం
