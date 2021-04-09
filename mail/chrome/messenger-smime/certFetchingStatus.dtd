@@ -5,5 +5,5 @@
 <!--LOCALIZATION NOTE shown while obtaining certificates from a directory -->
 
 <!ENTITY title.label "Λήψη πιστοποιητικών">
-<!ENTITY info.message "Αναζήτηση του καταλόγου για πιστοποιητικά παραληπτών. Μπορεί να  διαρκέσει λίγα λεπτά.">
+<!ENTITY info.message "Γίνεται αναζήτηση του καταλόγου για πιστοποιητικά παραληπτών. Ενδέχεται να διαρκέσει λίγα λεπτά.">
 <!ENTITY stop.label "Διακοπή αναζήτησης">

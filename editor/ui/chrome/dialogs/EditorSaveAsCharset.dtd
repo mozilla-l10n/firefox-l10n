@@ -10,8 +10,5 @@
 <!ENTITY windowTitle2.label "Αποθήκευση και αλλαγή κωδικοποίησης κειμένου">
 <!ENTITY documentTitleTitle.label "Τίτλος σελίδας">
 <!ENTITY documentCharsetTitle2.label "Κωδικοποίηση κειμένου">
-<!ENTITY documentCharsetDesc2.label "Επιλέξτε την κωδικοποίηση κειμένου που θέλετε να αποθηκεύσετε το έγγραφο:">
+<!ENTITY documentCharsetDesc2.label "Επιλέξτε την κωδικοποίηση κειμένου με την οποία θέλετε να αποθηκεύσετε το έγγραφο:">
 <!ENTITY documentExportToText.label "Εξαγωγή σε κείμενο">
-
-
-

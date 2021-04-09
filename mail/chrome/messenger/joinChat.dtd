@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY joinChatWindow.title           "Σύνδεση στο chat">
+<!ENTITY joinChatWindow.title           "Συμμετοχή στη συνομιλία">
 <!ENTITY name.label                     "Δωμάτιο">
 <!ENTITY optional.label                 "(προαιρετικό)">
 <!ENTITY account.label                  "Λογαριασμός">
-<!ENTITY autojoin.label                 "Αυτόματη είσοδος σε αυτό το δωμάτιο Chat">
+<!ENTITY autojoin.label                 "Αυτόματη είσοδος στο δωμάτιο συνομιλίας">
 <!ENTITY autojoin.accesskey             "Α">

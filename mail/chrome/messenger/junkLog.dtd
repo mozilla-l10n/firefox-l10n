@@ -4,7 +4,7 @@
 
 <!ENTITY adaptiveJunkLog.title "Αρχείο καταγραφής προσαρμόσιμης ανεπιθύμητης αλληλογραφίας">
 <!ENTITY adaptiveJunkLogInfo.label "Αρχείο καταγραφής της δραστηριότητας προσαρμόσιμης ανεπιθύμητης αλληλογραφίας.">
-<!ENTITY clearLog.label "Εκκαθάριση καταγραφής">
-<!ENTITY clearLog.accesskey "θ">
+<!ENTITY clearLog.label "Απαλοιφή αρχείου καταγραφής">
+<!ENTITY clearLog.accesskey "Α">
 <!ENTITY closeLog.label "Κλείσιμο">
-<!ENTITY closeLog.accesskey "Κ">
+<!ENTITY closeLog.accesskey "λ">
