@@ -210,31 +210,102 @@ about-logins-confirm-remove-all-sync-dialog-message =
        *[other] This will remuive aw logins ye've saved tae { -brand-short-name } on aw devices synced tae yer { -fxaccount-brand-name }. Forby, this will remuive breach alerts that kythe here. Ye'll no be able tae undae this action.
     }
 about-logins-confirm-export-dialog-title = Export logins and passwirds
+about-logins-confirm-export-dialog-message = Yer passwirds will be saved as readable text (e.g., BadP@ssw1rd) sae that onybody whae can open the exportit file can see them.
+about-logins-confirm-export-dialog-confirm-button = Export…
+about-logins-alert-import-title = Inbringin Feenisht
+about-logins-alert-import-message = Luik at detailed Inbringin Summary
+confirm-discard-changes-dialog-title = Discaird unsaved chynges?
+confirm-discard-changes-dialog-message = Aw unsaved chynges will be tint.
+confirm-discard-changes-dialog-confirm-button = Discaird
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = Wabsite Breach
+breach-alert-text = Passwirds wir leaked or reived fae this wabsite syne ye last updatit yer login parteeculars. Chynge yer passwird tae bield yer accoont.
+about-logins-breach-alert-date = This breach tuik place on { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = Gang tae { $hostname }
+about-logins-breach-alert-learn-more-link = Lairn mair
 
 ## Vulnerable Password notification
 
+about-logins-vulnerable-alert-title = Unsiccar Passwird
+about-logins-vulnerable-alert-text2 = This passwird has been yaised on anither accoont that wis maist like in a data breach. Yaisin these parteeculars again pits aw yer accoonts in danger. Chynge this passwird.
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = Gang tae { $hostname }
+about-logins-vulnerable-alert-learn-more-link = Lairn mair
 
 ## Error Messages
 
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login-with-link = An entry for { $loginTitle } wi thon yaiser nemme awready exists. <a data-l10n-name="duplicate-link">Gang tae existin entry?</a>
+# This is a generic error message.
+about-logins-error-message-default = An error tuik place while ettlin tae save this passwird.
 
 ## Login Export Dialog
 
+# Title of the file picker dialog
+about-logins-export-file-picker-title = Export Logins File
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = logins.csv
+about-logins-export-file-picker-export-button = Export
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV Document
+       *[other] CSV File
+    }
 
 ## Login Import Dialog
 
+# Title of the file picker dialog
+about-logins-import-file-picker-title = Inbring Logins File
 about-logins-import-file-picker-import-button = inbring
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-import-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV Document
+       *[other] CSV File
+    }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] TSV Document
+       *[other] TSV File
+    }
 
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-dialog-title = Inbringin Feenisht
+about-logins-import-dialog-items-added =
+    { $count ->
+       *[other] <span>New logins eikit:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified =
+    { $count ->
+       *[other] <span>Existin logins updatit:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+       *[other] <span>Duplicate logins fund:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(not imported)</span>
+    }
+about-logins-import-dialog-items-error =
+    { $count ->
+       *[other] <span>Errors:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(no inbrung)</span>
+    }
 about-logins-import-dialog-done = Duin
+about-logins-import-dialog-error-title = Inbringin Error
 about-logins-import-dialog-error-file-permission-title = No Able tae Read File
 
 ##
