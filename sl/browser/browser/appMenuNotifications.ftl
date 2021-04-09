@@ -45,6 +45,7 @@ appmenu-update-manual2 =
     .buttonaccesskey = P
     .secondarybuttonlabel = Skrij
     .secondarybuttonaccesskey = k
+appmenu-update-manual-message2 = { -brand-shorter-name(sklon: "rodilnik") } ni bilo mogoče samodejno posodobiti. Prenesite novo različico – shranjeni podatki in prilagoditve bodo ohranjeni.
 appmenu-update-unsupported2 =
     .label = Posodobitev ni mogoča
     .buttonlabel = Podrobnosti
