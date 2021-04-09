@@ -19,6 +19,7 @@ perftools-heading-buffer = Налады буфера
 perftools-heading-features = Магчымасці
 perftools-heading-features-default = Магчымасці (рэкамендаваныя да ўключэння)
 perftools-heading-features-disabled = Адключаныя магчымасці
+perftools-heading-features-experimental = Эксперыментальныя
 perftools-heading-threads = Патокі
 perftools-heading-local-build = Лакальная зборка
 
