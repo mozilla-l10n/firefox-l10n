@@ -113,6 +113,7 @@ addon-updates-view-updates = Ver los anovamientos de recién
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file-dialog-title = Esbilla d'un complementu pa instalar
 addon-install-from-file-filter-name = Complementos
 addon-open-about-debugging = Depurar los complementos
     .accesskey = D

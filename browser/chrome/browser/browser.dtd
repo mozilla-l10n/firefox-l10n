@@ -17,7 +17,7 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 <!ENTITY  pinTab.label                       "Fixar la llingüeta">
-<!ENTITY  unpinTab.label                     "Soltar la llingüeta">
+<!ENTITY  unpinTab.label                     "Lliberar la llingüeta">
 
 <!ENTITY  listAllTabs.label      "Llistar toles llingüetes">
 
@@ -166,7 +166,7 @@ this container is a toolbar. This avoids double-speaking. -->
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Amestar al menú flotante">
-<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Soltar del menú flotante">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Lliberar del menú flotante">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains

@@ -263,6 +263,7 @@ browser-tab-audio-pip = IMAXE SOBRE IMAXE
 browser-import-button2 =
     .label = Importar marcadores…
     .tooltiptext = Importa los marcadores d'otru restolador a { -brand-short-name }.
+bookmarks-toolbar-empty-message = Pon los marcadores equí, na barra de los marcadores, p'acceder aína a ellos. <a data-l10n-name="manage-bookmarks">Xestionar los marcadores…</a>
 
 ## WebRTC Pop-up notifications
 
