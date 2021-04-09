@@ -156,9 +156,60 @@ enable-password-sync-notification-message =
         [windows] Wante yer logins awwhaur ye yaise { -brand-product-name }? Gang tae yer { -sync-brand-short-name } Options and select the Logins checkbox.
        *[other] Want yer logins awwhaur ye yaise { -brand-product-name }? Gang tae yer { -sync-brand-short-name } Preferences and select the Logins checkbox.
     }
+enable-password-sync-preferences-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Gang tae { -sync-brand-short-name } Options
+           *[other] Gang tae { -sync-brand-short-name } Preferences
+        }
+    .accesskey = V
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = Dinnae speir me again
+    .accesskey = D
 
 ## Dialogs
 
+confirmation-dialog-cancel-button = Cancel
+confirmation-dialog-dismiss-button =
+    .title = Cancel
+about-logins-confirm-remove-dialog-title = Remuive this login?
+confirm-delete-dialog-message = This action cannae be unduin.
+about-logins-confirm-remove-dialog-confirm-button = Remuive
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Remuive
+        [one] Remuive
+       *[other] Remuive Aw
+    }
+about-logins-confirm-remove-all-dialog-checkbox-label =
+    { $count ->
+        [1] Aye, remuive this login
+        [one] Aye, remuive this login
+       *[other] Aye, remuive these logins
+    }
+about-logins-confirm-remove-all-dialog-title =
+    { $count ->
+        [one] Remuive { $count } login?
+       *[other] Remuive aw { $count } logins?
+    }
+about-logins-confirm-remove-all-dialog-message =
+    { $count ->
+        [1] This will remuive the login ye've saved tae { -brand-short-name } and ony breach alerts that kythe here. Ye'll no be able tae undae this action.
+        [one] This will remuive the login ye've saved tae { -brand-short-name } and ony breach alerts that kythe here. Ye'll no be able tae undae this action.
+       *[other] This will remuive the logins ye've saved tae { -brand-short-name } and ony breach alerts that kythe here. Ye'll no be able tae undae this action.
+    }
+about-logins-confirm-remove-all-sync-dialog-title =
+    { $count ->
+        [one] Remuive { $count } login fae aw devices?
+       *[other] Remuive aw { $count } logins fae aw devices?
+    }
+about-logins-confirm-remove-all-sync-dialog-message =
+    { $count ->
+        [1] This will remuive the login ye've saved tae { -brand-short-name } on aw devices synced tae yer { -fxaccount-brand-name }. Forby, this will remuive breach alerts that kythe here. Ye'll no be able tae undae this action.
+        [one] This will remuive the login ye've saved tae { -brand-short-name } on aw devices synced tae yer { -fxaccount-brand-name }. Forby, this will remuive breach alerts that kythe here. Ye'll no be able tae undae this action.
+       *[other] This will remuive aw logins ye've saved tae { -brand-short-name } on aw devices synced tae yer { -fxaccount-brand-name }. Forby, this will remuive breach alerts that kythe here. Ye'll no be able tae undae this action.
+    }
+about-logins-confirm-export-dialog-title = Export logins and passwirds
 
 ## Breach Alert notification
 
