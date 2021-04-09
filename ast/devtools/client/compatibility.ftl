@@ -5,15 +5,19 @@
 
 ## Messages used as headers in the main pane
 
+compatibility-all-elements-header = Tolos problemes
 
 ## Message used as labels for the type of issue
 
+compatibility-issue-experimental = (esperimental)
 
 ## Messages used as labels and titles for buttons in the footer
 
 compatibility-settings-button-label = Axustes
 compatibility-settings-button-title =
     .title = Axustes
+compatibility-feedback-button-title =
+    .title = Opinar
 
 ## Messages used as headers in settings pane
 
@@ -22,3 +26,14 @@ compatibility-target-browsers-header = Restoladores de destín
 
 ##
 
+# Text used as the label for the number of nodes where the issue occurred
+# Variables:
+#   $number (Number) - The number of nodes where the issue occurred
+compatibility-issue-occurrences =
+    { $number ->
+        [one] { $number } coincidencia
+       *[other] { $number } coincidencies
+    }
+compatibility-no-issues-found = Nun s'atoparon problemes de compatibilidá.
+compatibility-close-settings-button =
+    .title = Zarrar los axustes
