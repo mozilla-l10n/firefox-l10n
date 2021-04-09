@@ -13,6 +13,11 @@ bookmark-overlay-folder =
 bookmark-overlay-name-2 =
     .value = పేరు
     .accesskey = N
+# Location refers to the position of the bookmark within the browser's
+# bookmarks, not to its URL or address.
+bookmark-overlay-location-2 =
+    .value = స్థానం
+    .accesskey = L
 bookmark-overlay-choose =
     .label = ఎంచుకో…
 bookmark-overlay-folders-expander =
