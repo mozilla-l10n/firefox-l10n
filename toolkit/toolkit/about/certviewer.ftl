@@ -50,6 +50,10 @@ certificate-viewer-boolean =
 ## Variables:
 ##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
 
+certificate-viewer-download-pem = PEM (certificáu)
+    .download = { $fileName }.pem
+certificate-viewer-download-pem-chain = PEM (cadena)
+    .download = cadena-{ $fileName }.pem
 # The title attribute for Critical Extension icon
 certificate-viewer-critical-extension =
     .title = Esta estensión marcóse como crítica lo que significa que los veceros han refugar el certificáu si nun lu entienden.
