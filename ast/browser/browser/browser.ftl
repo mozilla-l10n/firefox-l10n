@@ -128,6 +128,9 @@ page-action-send-tab-not-ready =
 
 ## Auto-hide Context Menu
 
+full-screen-autohide =
+    .label = Anubrir les barres de ferramientes
+    .accesskey = A
 full-screen-exit =
     .label = Colar del mou de pantalla completa
     .accesskey = C
