@@ -184,6 +184,7 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY fullZoom.label                 "Zoom">
 
+<!ENTITY sidebarCloseButton.tooltip     "Zarrar el panel llateral">
 
 
 <!-- On Windows we use the term "Options" to describe settings, but

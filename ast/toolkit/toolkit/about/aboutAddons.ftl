@@ -211,6 +211,7 @@ available-updates-heading = Anovamientos disponibles
 recent-updates-heading = Anovamientos de recién
 release-notes-loading = Cargando…
 addon-permissions-empty = Esta estensión nun rique nengún permisu
+addon-permissions-learnmore = Lleer más tocante a los permisos
 recommended-extensions-heading = Estensiones aconseyaes
 recommended-themes-heading = Estilos aconseyaos
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
