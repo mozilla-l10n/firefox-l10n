@@ -52,6 +52,10 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.syncSettings2.label "&syncBrand.shortName.label; 설정">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "다른 기기 연결…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     followed by the user's email. -->
 <!ENTITY fxa.menu.signin.label "&brandProductName;에 로그인">
 <!ENTITY fxa.menu.turnOnSync.label "&syncBrand.shortName.label; 켜기">
 <!ENTITY fxa.menu.firefoxServices.label "&brandProductName; 서비스">
@@ -136,7 +140,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY preferencesCmdUnix.label       "환경 설정">
 <!ENTITY logins.label                           "로그인과 비밀번호">
 
-<!ENTITY overflowCustomizeToolbar.label       "사용자 지정…">
+<!ENTITY overflowCustomizeToolbar.label       "도구 모음 사용자 지정…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
 <!ENTITY historyMenu.label "기록">
@@ -154,6 +158,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuHelp.label "도움말">
 
 <!ENTITY appMenuRemoteTabs.label "동기화된 탭">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "열린 탭이 없음">
