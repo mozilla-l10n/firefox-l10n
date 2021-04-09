@@ -121,6 +121,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY logins.label                           "Anicios de sesión y contraseñes">
 
 <!ENTITY overflowCustomizeToolbar.label       "Personalizar la barra de ferramientes…">
+<!ENTITY overflowCustomizeToolbar.accesskey   "P">
 
 <!ENTITY historyMenu.label "Historial">
 <!ENTITY historyUndoMenu.label "Llingüetes zarraes apocayá">
