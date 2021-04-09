@@ -216,6 +216,8 @@ cfr-doorhanger-doh-body = La privacidá ye importante. Agora { -brand-short-name
 cfr-doorhanger-doh-header = Busques DNS más segures y cifraes
 cfr-doorhanger-doh-primary-button = Val, entendílo
     .accesskey = V
+cfr-doorhanger-doh-primary-button-2 = D'acuerdu
+    .accesskey = D
 cfr-doorhanger-doh-secondary-button = Desactivar
     .accesskey = D
 
