@@ -10,6 +10,8 @@ preferences-title =
             [windows] Beállítások
            *[other] Beállítások
         }
+preferences-tab-title =
+    .title = Beállítások
 category-list =
     .aria-label = Kategóriák
 pane-general-title = Általános
@@ -90,6 +92,7 @@ update-in-progress-ok-button = &Elvetés
 update-in-progress-cancel-button = &Folytatás
 account-button = Fiókbeállítások
 addons-button = Kiegészítők és témák
+open-addons-sidebar-button = Kiegészítők és témák
 
 ## OS Authentication dialog
 
@@ -708,6 +711,17 @@ search-input-box =
             [windows] Keresés a Beállításokban
            *[other] Keresés a Beállításokban
         }
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-preferences-input =
+    .style = width: 15.4em
+    .placeholder = Keresés a Beállításokban
 
 ## Preferences UI Search Results
 

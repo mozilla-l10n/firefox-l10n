@@ -9,6 +9,17 @@ menu-view-charset =
     .label = Szövegkódolás
     .accesskey = k
 
+## Tools Menu
+
+# Since v89 we dropped the platforms distinction between Options or Preferences
+# and consolidated everything with Preferences.
+menu-tools-preferences =
+    .label = Beállítások
+    .accesskey = B
+menu-addons-and-themes =
+    .label = Kiegészítők és témák
+    .accesskey = K
+
 ## Help Menu
 
 menu-help-enter-troubleshoot-mode =
