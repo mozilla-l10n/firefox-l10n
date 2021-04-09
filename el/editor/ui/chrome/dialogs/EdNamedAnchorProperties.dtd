@@ -5,6 +5,4 @@
 <!ENTITY windowTitle.label "Ιδιότητες επώνυμης άγκυρας">
 <!ENTITY anchorNameEditField.label "Όνομα άγκυρας:">
 <!ENTITY anchorNameEditField.accessKey "μ">
-<!ENTITY nameInput.tooltip "Καταχωρίστε ένα μοναδικό όνομα για αυτόν το named anchor (προορισμό)">
-
-
+<!ENTITY nameInput.tooltip "Εισάγετε ένα μοναδικό όνομα για την επώνυμη άγκυρα (προορισμός)">

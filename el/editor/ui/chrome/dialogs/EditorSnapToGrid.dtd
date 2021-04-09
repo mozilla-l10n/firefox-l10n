@@ -4,9 +4,9 @@
 
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Προσκόλληση στο πλέγμα">
+<!ENTITY windowTitle.label "Στοίχιση στο πλέγμα">
 
-<!ENTITY enableSnapToGrid.label "ενεργοποίηση προσκόλλησης στο πλέγμα">
+<!ENTITY enableSnapToGrid.label "Ενεργοποίηση στοίχισης στο πλέγμα">
 <!ENTITY enableSnapToGrid.accessKey "ε">
 
 <!ENTITY sizeEditField.label "Μέγεθος:">
