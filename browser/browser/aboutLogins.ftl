@@ -371,14 +371,14 @@ about-logins-import-report-row-index = { $number }. ред
 about-logins-import-report-row-description-no-change = Дупликат: таква пријава већ постоји
 about-logins-import-report-row-description-modified = Ажурирана је постојећа пријава
 about-logins-import-report-row-description-added = Додата је нова пријава
-about-logins-import-report-row-description-error = Грешка: нема поља
+about-logins-import-report-row-description-error = Грешка: недостаје поље
 
 ##
 ## Variables:
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
 about-logins-import-report-row-description-error-multiple-values = Грешка: више вредности за поље { $field }
-about-logins-import-report-row-description-error-missing-field = Грешка: нема поља { $field }
+about-logins-import-report-row-description-error-missing-field = Грешка: недостаје поље { $field }
 
 ##
 ## Variables:
