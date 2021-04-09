@@ -14,14 +14,15 @@ learn-more = <span data-l10n-name="link">Ďalšie informácie</span>
 ##   $property (string) - A CSS property name e.g. "color".
 ##   $display (string) - A CSS display value e.g. "inline-block".
 
-inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> nemá na tento prvok žiadny vplyv, pretože nejde ani o kontajner typu flex ani o kontajner s mriežkou.
-inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $property }</strong> nemá na tento prvok žiadny vplyv, pretože nejde ani o kontajner typu flex, kontajner s mriežkou či kontajner s viacerými stĺpcami.
-inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> nemá na tento prvok žiadny vplyv, pretože nejde o položku kontajnera typu flex ani kontajnera s mriežkou.
-inactive-css-not-grid-item = <strong>{ $property }</strong> nemá na tento prvok žiadny vplyv, pretože nejde o grid položku.
-inactive-css-not-grid-container = <strong>{ $property }</strong> nemá na tento prvok žiadny vplyv, pretože nejde o grid kontajner.
-inactive-css-not-flex-item = <strong>{ $property }</strong> nemá na tento prvok žiadny vplyv, pretože nejde o položku kontajnera typu flex.
-inactive-css-not-flex-container = <strong>{ $property }</strong> nemá na tento prvok žiadny vplyv, pretože nejde o kontajner typu flex.
-inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> nemá na tento prvok žiadny vplyv, pretože nejde o vložený prvok ani prvok tabuľky.
+inactive-css-not-grid-or-flex-container = Vlastnosť <strong>{ $property }</strong> nemá na tento prvok žiadny vplyv, pretože nejde ani o kontajner typu flex ani o kontajner s mriežkou.
+inactive-css-not-grid-or-flex-container-or-multicol-container = Vlastnosť <strong>{ $property }</strong> nemá na tento prvok žiadny vplyv, pretože nejde o kontajner typu flex, kontajner s mriežkou či kontajner s viacerými stĺpcami.
+inactive-css-not-grid-or-flex-item = Vlastnosť <strong>{ $property }</strong> nemá na tento prvok žiadny vplyv, pretože nejde o položku kontajnera typu flex ani kontajnera s mriežkou.
+inactive-css-not-grid-item = Vlastnosť <strong>{ $property }</strong> nemá na tento prvok žiadny vplyv, pretože nejde o grid položku.
+inactive-css-not-grid-container = Vlastnosť <strong>{ $property }</strong> nemá na tento prvok žiadny vplyv, pretože nejde o kontajner s mriežkou.
+inactive-css-not-flex-item = Vlastnosť <strong>{ $property }</strong> nemá na tento prvok žiadny vplyv, pretože nejde o položku kontajnera typu flex.
+inactive-css-not-flex-container = Vlastnosť <strong>{ $property }</strong> nemá na tento prvok žiadny vplyv, pretože nejde o kontajner typu flex.
+inactive-css-not-inline-or-tablecell = Vlastnosť <strong>{ $property }</strong> nemá na tento prvok žiadny vplyv, pretože nejde o vložený prvok ani prvok tabuľky.
+inactive-css-property-because-of-display = Vlastnosť <strong>{ $property }</strong> nemá na tento prvok žiadny vplyv, pretože tento má nastavenú vlastnosť display na hodnotu <strong>{ $display }</strong>.
 inactive-text-overflow-when-no-overflow = Vlastnosť <strong>{ $property }</strong> nemá na tento prvok žiadny vplyv, pretože nie je nastavené <strong>overflow: hidden</strong>.
 inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> nemá žiadny vplyv na interné prvky tabuľky.
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> nemá žiadny vplyv na interné prvky tabuľky okrem buniek tabuľky.
@@ -53,3 +54,10 @@ inactive-text-overflow-when-no-overflow-fix = Skúste pridať <strong>overflow:h
 ##   $rootProperty (string) - A raw CSS property name e.g. "user-select" that is not a platform specific alias.
 
 css-compatibility-default-message = Vlastnosť <strong>{ $property }</strong> nie je podporovaná v nasledujúcich prehliadačoch:
+css-compatibility-deprecated-experimental-message = Vlastnosť <strong>{ $property }</strong> bola experimentálnou vlastnosťou, ktorá je teraz podľa štandardov W3C zastaraná. Nie je podporovaná v nasledujúcich prehliadačoch:
+css-compatibility-deprecated-experimental-supported-message = Vlastnosť <strong>{ $property }</strong> bola experimentálnou vlastnosťou, ktorá je teraz podľa štandardov W3C zastaraná.
+css-compatibility-deprecated-message = Vlastnosť <strong>{ $property }</strong> je podľa štandardov W3C zastaraná. Nie je podporovaná v nasledujúcich prehliadačoch:
+css-compatibility-deprecated-supported-message = Vlastnosť <strong>{ $property }</strong> je podľa štandardov W3C zastaraná.
+css-compatibility-experimental-message = Vlastnosť <strong>{ $property }</strong> je experimentálnou vlastnosťou. Nie je podporovaná v nasledujúcich prehliadačoch:
+css-compatibility-experimental-supported-message = Vlastnosť <strong>{ $property }</strong> je experimentálnou vlastnosťou.
+css-compatibility-learn-more-message = <span data-l10n-name="link">Ďalšie informácie</span> o vlastnosti <strong>{ $rootProperty }</strong>
