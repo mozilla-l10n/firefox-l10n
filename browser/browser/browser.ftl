@@ -690,6 +690,9 @@ panel-save-update-password = Geslo
 
 ## Add-on removal warning
 
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = Odstranim { $name }?
 addon-removal-abuse-report-checkbox = Prijavi to razširitev organizaciji { -vendor-short-name }
 
 ## Remote / Synced tabs
