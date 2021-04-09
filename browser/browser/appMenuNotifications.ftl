@@ -40,9 +40,12 @@ appmenu-update-other-instance =
     .secondarybuttonaccesskey = n
 appmenu-update-other-instance-message = Hai un anovamientu disponible pa { -brand-shorter-name } mas nun pue instalase porque hai otra copia de { -brand-shorter-name } n'execución. Zárrala pa siguir col anovamientu o escueyi «Anovar { -brand-shorter-name } de toes toes» (la otra copia pue nun funcionar correutamente hasta que la reanicies).
 appmenu-addon-private-browsing-installed =
-    .buttonlabel = Val, entendílo
-    .buttonaccesskey = V
+    .buttonlabel = D'acuerdu, entendílo
+    .buttonaccesskey = D
 appmenu-addon-post-install-message = Xestiona los complementos calcando <image data-l10n-name='addon-install-icon'></image> nel <image data-l10n-name='addon-menu-icon'></image> menú.
+appmenu-addon-private-browsing-installed2 =
+    .buttonlabel = D'acuerdu
+    .buttonaccesskey = D
 appmenu-addon-post-install-incognito-checkbox =
     .label = Permitir qu'esta estensión s'execute en ventanes privaes
     .accesskey = P
