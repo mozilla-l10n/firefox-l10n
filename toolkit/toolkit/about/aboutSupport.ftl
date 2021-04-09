@@ -89,6 +89,7 @@ graphics-title = Gráficos
 graphics-features-title = Carauterístiques
 graphics-gpu1-title = GPU #1
 graphics-gpu2-title = GPU #2
+graphics-decision-log-title = Rexistru de decisiones
 # Windowing system in use on Linux (e.g. X11, Wayland).
 graphics-window-protocol = Protocolu de ventanes
 # Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
@@ -108,6 +109,7 @@ sandbox-sys-call-args = Argumentos
 media-output-devices-title = Preseos de salida
 media-input-devices-title = Preseos d'entrada
 media-device-name = Nome
+media-device-group = Grupu
 media-device-channels = Canales
 
 ##
@@ -185,6 +187,7 @@ policies-error = Fallu
 
 ## Printing section
 
+support-printing-troubleshoot = Igua de problemes
 support-printing-modified-settings = Axustes d'imprentación modificaos
 support-printing-prefs-name = Nome
 support-printing-prefs-value = Valor
