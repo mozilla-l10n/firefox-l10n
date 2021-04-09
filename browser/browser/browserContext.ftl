@@ -88,6 +88,9 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
+## Firefox Account Button
+
+
 ## Save Page
 
 main-context-menu-page-save =
@@ -102,6 +105,12 @@ main-context-menu-bookmark-add =
     .aria-label = ఈ పేజీని ఇష్టాంశముచేయి
     .accesskey = m
     .tooltiptext = ఈ పేజీను ఇష్టాంశముచేయుము
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-add-mac =
+    .label = పేజీని ఇష్టాంశంగా గుర్తించు
+    .accesskey = m
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-add-with-shortcut =
@@ -158,6 +167,9 @@ main-context-menu-copy-email =
 main-context-menu-copy-link =
     .label = లింకు స్థానాన్ని కాపీచేయి
     .accesskey = a
+main-context-menu-copy-link-simple =
+    .label = లంకె కాపీచేయి
+    .accesskey = L
 
 ## Media (video/audio) controls
 ##
@@ -260,6 +272,15 @@ main-context-menu-video-copy-location =
     .accesskey = o
 main-context-menu-audio-copy-location =
     .label = ధ్వని స్థానాన్ని కాపీచేయి
+    .accesskey = o
+main-context-menu-image-copy-link =
+    .label = బొమ్మ లంకెను కాపీచేయి
+    .accesskey = o
+main-context-menu-video-copy-link =
+    .label = వీడియో లంకెను కాపీచేయి
+    .accesskey = o
+main-context-menu-audio-copy-link =
+    .label = ఆడియో లంకెను కాపీచేయి
     .accesskey = o
 main-context-menu-image-save-as =
     .label = బొమ్మని ఇలా భద్రపరచు…

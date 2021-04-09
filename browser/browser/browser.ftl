@@ -447,6 +447,11 @@ urlbar-result-action-search-w-engine = { $engine } తో అన్వేషి�
 urlbar-result-action-sponsored = ప్రాయోజితం
 urlbar-result-action-switch-tab = ట్యాబుకు మారండి
 urlbar-result-action-visit = చూడండి
+# Shows the result of a formula expression being calculated, the last = sign will be shown
+# as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result = = { $result }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -553,6 +558,15 @@ save-to-pocket-button =
 
 ## Customize Toolbar Buttons
 
+# Variables:
+#  $shortcut (String): keyboard shortcut to open settings (only on macOS)
+toolbar-settings-button =
+    .label = అమరికలు
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] అమరికలను తెరువు ({ $shortcut })
+           *[other] అమరికలను తెరువు
+        }
 
 ## More items
 

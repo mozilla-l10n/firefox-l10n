@@ -21,8 +21,18 @@ appmenuitem-passwords =
     .label = సంకేతపదాలు
 appmenuitem-extensions-and-themes =
     .label = పొడగింతలు, అలంకారాలు
+appmenuitem-addons-and-themes =
+    .label = పొడగింతలు, అలంకారాలు
 appmenuitem-more-tools =
     .label = మరిన్ని పనిముట్లు
+appmenuitem-exit =
+    .label = నిష్క్రమించు
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] నిష్క్రమించు
+           *[other] నిష్క్రమించు
+        }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -122,3 +132,4 @@ appmenu-help-not-deceptive =
 
 ## More Tools
 
+appmenu-developer-tools-subheader = విహారిణి పనిముట్లు
