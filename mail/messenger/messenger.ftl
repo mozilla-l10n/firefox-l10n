@@ -11,6 +11,12 @@ unread-messages-os-tooltip =
     }
 about-rights-notification-text = { -brand-short-name } es un software gratuito y de código abierto, creado por una comunidad de miles de personas de todo el mundo.
 
+## Toolbar
+
+addons-and-themes-button =
+    .label = Complementos y temas
+    .tooltip = Administrar complementos
+
 ## Folder Pane
 
 folder-pane-toolbar =
@@ -43,3 +49,18 @@ show-recent-folders-label =
 folder-toolbar-toggle-folder-compact-view =
     .label = Vista compacta
     .accesskey = C
+
+## AppMenu
+
+# Since v89 we dropped the platforms distinction between Options or Preferences
+# and consolidated everything with Preferences.
+appmenu-preferences =
+    .label = Preferencias
+appmenu-addons-and-themes =
+    .label = Complementos y temas
+appmenu-help-enter-troubleshoot-mode =
+    .label = Resolución de problemas…
+appmenu-help-exit-troubleshoot-mode =
+    .label = Deshabilitar resolución de problemas
+appmenu-help-more-troubleshooting-info =
+    .label = Más información sobre resolución de problemas
