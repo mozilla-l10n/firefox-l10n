@@ -15,6 +15,8 @@ ssl-connection-error = Asocedió un fallu na conexón a { $hostname }. { $errorM
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Códigu del fallu: { $error }
+ssl-error-bad-client = El sirvidor alcontró datos incorreutos del veceru.
+ssl-error-bad-server = El veceru alcontró datos incorreutos del sirvidor.
 sec-error-invalid-args = biblioteca de seguranza: los argumentos nun son válidos.
 sec-error-invalid-algorithm = biblioteca de seguranza: l'algoritmu nun ye válidu.
 sec-error-cert-valid = Esti certificáu ye válidu.
