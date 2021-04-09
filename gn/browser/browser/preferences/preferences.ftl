@@ -67,6 +67,7 @@ category-experimental =
 pane-experimental-subtitle = Ejapóke mbeguekatu
 pane-experimental-search-results-header = { -brand-short-name } Mba’epyahu: Ejapo mbeguekatu
 pane-experimental-description = Iñambuévo umi eguerohoryvéva ñemboheko ombyaikuaa { -brand-short-name } rembiapokue ýrõ hekorosã.
+pane-experimental-description2 = Emoambue umi moĩporã ñemboheko ombyaikuaáava { -brand-short-name } rembiapokue ýrõ hekorosã.
 pane-experimental-reset =
     .label = Embojevy tekoypykue
     .accesskey = R
@@ -136,6 +137,8 @@ search-results-empty-message =
         [windows] ¡Ambyasy! ndaipóri tembiapokue jeporavorãme “<span data-l10n-name="query"></span>”-pe g̃uarã.
        *[other] ¡Ambyasy! ndaipoóri jerohoryvévape tembiapokue “<span data-l10n-name="query"></span>”.
     }
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 = ¡Rombyasy! ndaipóri tapykuere “<span data-l10n-name="query"></span>” peg̃uarã moĩporãme.
 search-results-help-link = ¿Eokitevẽpa pytyvõ? Eoke <a data-l10n-name="url">{ -brand-short-name } Ñepytyvõ</a> pe
 
 ## General Section
