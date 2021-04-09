@@ -365,7 +365,7 @@ menu-help-enter-troubleshoot-mode2 =
     .label = Mou d'iguar problemes…
     .accesskey = M
 menu-help-exit-troubleshoot-mode =
-    .label = Desactivar el mou pa iguar problemes
+    .label = Desactivar el mou d'iguar problemes
     .accesskey = m
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.

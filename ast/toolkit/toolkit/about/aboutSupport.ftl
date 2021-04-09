@@ -103,6 +103,8 @@ sandbox-sys-call-index = #
 sandbox-sys-call-pid = PID
 sandbox-sys-call-tid = TID
 sandbox-sys-call-args = Argumentos
+restart-in-troubleshoot-mode-label = Mou d'iguar problemes
+clear-startup-cache-label = Llimpiar la caché d'aniciu…
 
 ## Media titles
 

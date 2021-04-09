@@ -172,6 +172,8 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = Amiestu d'un marcador
+bookmarks-edit-bookmark = Edición d'un marcador
 bookmark-panel-cancel =
     .label = Encaboxar
     .accesskey = E
