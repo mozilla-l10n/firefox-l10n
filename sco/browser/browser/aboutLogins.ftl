@@ -42,12 +42,39 @@ menu-menuitem-iphone-app = { -lockwise-brand-short-name } fur iPhone and iPad
 
 ## Login List
 
+login-list =
+    .aria-label = Logins matchin sairch speirin
+login-list-count =
+    { $count ->
+        [one] { $count } login
+       *[other] { $count } logins
+    }
+login-list-sort-label-text = Sort by:
+login-list-name-option = Nemme (A-Z)
+login-list-name-reverse-option = Nemme (Z-A)
+about-logins-login-list-alerts-option = Alerts
+login-list-last-changed-option = Last Chynged
+login-list-last-used-option = Last Yaised
+login-list-intro-title = Nae logins fund
+login-list-intro-description = When ye save a passwird in { -brand-product-name }, it will kythe here.
+about-logins-login-list-empty-search-title = Nae logins fund
+about-logins-login-list-empty-search-description = There are nae results matchin yer sairch.
+login-list-item-title-new-login = New Login
+login-list-item-subtitle-new-login = Inpit yer login parteeculars
+login-list-item-subtitle-missing-username = (nae yaiser nemme)
+about-logins-list-item-breach-icon =
+    .title = Breached wabsite
 
 ## Introduction screen
 
 
 ## Login
 
+login-item-new-login-title = Mak New Login
+login-item-origin-label = Wabsite address
+login-item-username-label = Yaiser nemme
+about-logins-login-item-username =
+    .placeholder = (nae yaiser nemme)
 
 ## OS Authentication dialog
 
@@ -80,14 +107,20 @@ menu-menuitem-iphone-app = { -lockwise-brand-short-name } fur iPhone and iPad
 
 ## Login Export Dialog
 
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename = logins.csv
 
 ## Login Import Dialog
 
+about-logins-import-file-picker-import-button = inbring
 
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-dialog-done = Duin
+about-logins-import-dialog-error-file-permission-title = No Able tae Read File
 
 ##
 ## Variables:
