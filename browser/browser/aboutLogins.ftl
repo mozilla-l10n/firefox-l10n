@@ -378,7 +378,7 @@ about-logins-import-report-row-description-error = Грешка: недоста�
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
 about-logins-import-report-row-description-error-multiple-values = Грешка: више вредности за поље { $field }
-about-logins-import-report-row-description-error-missing-field = Грешка: недостаје поље { $field }
+about-logins-import-report-row-description-error-missing-field = Грешка: нема поља { $field }
 
 ##
 ## Variables:
