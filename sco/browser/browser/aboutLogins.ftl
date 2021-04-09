@@ -87,27 +87,75 @@ about-logins-intro-import2 = If yer logins are saved ootside o { -brand-product-
 
 login-item-new-login-title = Mak New Login
 login-item-edit-button = Edit
+about-logins-login-item-remove-button = Remuive
 login-item-origin-label = Wabsite address
+login-item-tooltip-message = Mak shair this matches the exact address o the wabsite whaur ye log in.
+login-item-origin =
+    .placeholder = https://www.example.com
 login-item-username-label = Yaiser nemme
 about-logins-login-item-username =
     .placeholder = (nae yaiser nemme)
+login-item-copy-username-button-text = Copy
+login-item-copied-username-button-text = Copied!
+login-item-password-label = Passwird
+login-item-password-reveal-checkbox =
+    .aria-label = Kythe passwird
+login-item-copy-password-button-text = Copy
+login-item-copied-password-button-text = Copied!
+login-item-save-changes-button = Save Chynges
+login-item-save-new-button = Save
+login-item-cancel-button = Cancel
+login-item-time-changed = Last chynged: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
+login-item-time-created = Makkit: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
+login-item-time-used = Last yaised: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## OS Authentication dialog
 
+about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 ## The macOS strings are preceded by the operating system with "Firefox is trying to "
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message-win = Tae edit yer login, inpit yer Windows login parteeculars. This helps bield the siccarness o yer accoonts.
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message-macosx = edit the saved login
+# This message can be seen when attempting to reveal a password in about:logins on Windows.
+about-logins-reveal-password-os-auth-dialog-message-win = Tae get a deek at yer passwird, inpit yer Windows login parteeculars. This helps bield the siccarness o yer accoonts.
+# This message can be seen when attempting to reveal a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-reveal-password-os-auth-dialog-message-macosx = kythe the saved passwird
+# This message can be seen when attempting to copy a password in about:logins on Windows.
+about-logins-copy-password-os-auth-dialog-message-win = Tae copy yer passwird, inpit yer Windows login parteeculars. This helps bield the siccarness o yer accoonts.
+# This message can be seen when attempting to copy a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-copy-password-os-auth-dialog-message-macosx = copy the saved passwird
 
 ## Master Password notification
 
+master-password-notification-message = Please enter yer maister passwird tae see saved logins & passwirds
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message-win = Tae export yer logins, inpit yer Windows login parteeculars. This helps bield the siccarness o yer accoonts.
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message-macosx = export saved logins and passwirds
 
 ## Primary Password notification
 
+about-logins-primary-password-notification-message = Please inpit yer Primary Passwird tae see saved logins & passwirds
+master-password-reload-button =
+    .label = Log in
+    .accesskey = L
 
 ## Password Sync notification
 
+enable-password-sync-notification-message =
+    { PLATFORM() ->
+        [windows] Wante yer logins awwhaur ye yaise { -brand-product-name }? Gang tae yer { -sync-brand-short-name } Options and select the Logins checkbox.
+       *[other] Want yer logins awwhaur ye yaise { -brand-product-name }? Gang tae yer { -sync-brand-short-name } Preferences and select the Logins checkbox.
+    }
 
 ## Dialogs
 
