@@ -174,7 +174,7 @@ appmenu-help-enter-troubleshoot-mode2 =
     .label = Mou d'iguar problemes…
     .accesskey = M
 appmenu-help-exit-troubleshoot-mode =
-    .label = Desactivar el mou pa iguar problemes
+    .label = Desactivar el mou d'iguar problemes
     .accesskey = m
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
