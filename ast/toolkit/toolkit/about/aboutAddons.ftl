@@ -155,6 +155,7 @@ created-by-author = por <a data-l10n-name="author">{ $author }</a>
 #   $dailyUsers (number) - The number of daily users.
 user-count = Usuarios: { $dailyUsers }
 install-extension-button = Amestar a { -brand-product-name }
+install-theme-button = Instalar l'estilu
 # The label of the button that appears after installing an add-on. Upon click,
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Xestionar
@@ -240,3 +241,5 @@ updates-heading = Xestiona los anovamientos
 discover-heading = Personaliza { -brand-short-name }
 shortcuts-heading = Xestión de los atayos de les estensiones
 default-heading-search-label = Atopa más complementos
+addon-page-options-button =
+    .title = Ferramientes pa tolos complementos
