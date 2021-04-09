@@ -13,6 +13,9 @@ about-rights-notification-text = { -brand-short-name } è un software gratuito, 
 
 ## Toolbar
 
+addons-and-themes-button =
+    .label = Componenti aggiuntivi e temi
+    .tooltip = Gestisci i tuoi componenti aggiuntivi
 
 ## Folder Pane
 
