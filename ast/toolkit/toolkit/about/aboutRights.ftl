@@ -28,3 +28,15 @@ rights-intro-point-4 =
     Na <a data-l10n-name="mozilla-privacy-policy-link">política de privacidá
     de { -brand-short-name }</a> descríbese cómo usamos la información
     personal y les opiniones unviaes a { -vendor-short-name } per { -brand-short-name }.
+rights-intro-point-5 =
+    Dalgunes carauterístiques de { -brand-short-name } faen usu de servicios
+    d'información basaos na web, por embargu, nun podemos garantizar al
+    100% que seyan precisos o tean llibres de fallos. Nos <a data-l10n-name="mozilla-service-terms-link">términos del serviciu</a>
+    atópense los detalles qu'inclúin información tocante a cómo desactivar les
+    carauterístiques qu'usen esos servicios.
+rights-intro-point-6 =
+    Pa reproducir ciertu tipu de conteníu de videu, { -brand-short-name } baxa
+    módulos de descifráu de conteníu de terceros
+rights-webservices-term-6 =
+    { -vendor-short-name } pue anovar estos términos cuando seya preciso.
+    Estos nun puen modificase o cancelase ensin l'acuerdu escritu de { -vendor-short-name }.
