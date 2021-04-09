@@ -9,6 +9,8 @@
 
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
+about-webrtc-aec-logging-off-state-label = Aniciar el rexistru AEC
+about-webrtc-aec-logging-on-state-label = Parar el rexistru AEC
 
 ##
 
@@ -24,13 +26,7 @@
 ## is an IETF protocol, and should not normally be translated.
 
 
-##
-
-
 ## "Avg." is an abbreviation for Average. These are used as data labels.
-
-
-##
 
 
 ## These adjectives are used to label a line of statistics collected for a peer
@@ -40,6 +36,11 @@
 
 ##
 
+about-webrtc-save-page-label = Guardar la páxina
+about-webrtc-stats-heading = Estadístiques de la sesión
+about-webrtc-stats-clear = Llimpiar l'historial
+about-webrtc-log-heading = Rexistru de conexones
+about-webrtc-log-clear = Llimpiar el rexistru
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
