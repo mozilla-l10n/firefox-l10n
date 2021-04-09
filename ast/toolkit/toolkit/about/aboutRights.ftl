@@ -13,3 +13,8 @@ rights-intro-point-1 =
     amás de poder modificar el so códigu fonte como te pete p'adautalu a les tos
     necesidaes. La Mozilla Public License tamién te da derechu a distribuyir les
     versiones que modifiques.
+rights-intro-point-2 =
+    Nun te concedemos nengún derechu o llicencia en rellación a les marques
+    rexistraes de Mozilla Foundation o filiales, qu'inclúin ensin llende'l nome
+    o logotipu de Firefox. Pues atopar más información tocante a les marques
+    rexistraes <a data-l10n-name="mozilla-trademarks-link">equí</a>.
