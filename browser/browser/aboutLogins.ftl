@@ -179,6 +179,7 @@ about-logins-confirm-remove-all-sync-dialog-title =
 about-logins-confirm-export-dialog-title = ప్రవేశాలను, సంకేతపదాలను ఎగుమతిచేయి
 about-logins-confirm-export-dialog-confirm-button = ఎగుమతించు…
 about-logins-alert-import-title = దిగుమతి పూర్తయింది
+about-logins-alert-import-message = వివరణాత్మక దిగుమతి సారాంశాన్ని చూడండి
 confirm-discard-changes-dialog-title = భద్రపరచని మార్పులను విస్మరించాలా?
 confirm-discard-changes-dialog-message = భద్రపరచని మార్పులన్నీ కోల్పోతారు.
 confirm-discard-changes-dialog-confirm-button = విస్మరించు
@@ -255,6 +256,7 @@ about-logins-import-report-title = దిగుమతి సారాంశం
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = అడ్డువరుస{ $number }
+about-logins-import-report-row-description-added = కొత్త ప్రవేశం చేర్చబడింది
 
 ##
 ## Variables:
