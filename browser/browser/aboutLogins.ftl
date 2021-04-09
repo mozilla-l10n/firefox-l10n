@@ -53,7 +53,6 @@ login-list-sort-label-text = Ordenar por:
 login-list-name-option = Nome (A-Z)
 login-list-name-reverse-option = Nome (Z-A)
 about-logins-login-list-alerts-option = Alertes
-login-list-last-changed-option = Última modificación
 login-list-last-used-option = Últimu usu
 login-list-intro-title = Nun s'atoparon anicios de sesión
 login-list-intro-description = Equí van amosase les contraseñes cuando les guardes en { -brand-product-name }.
@@ -101,7 +100,6 @@ login-item-copied-password-button-text = ¡Copióse!
 login-item-save-changes-button = Guardar los cambeos
 login-item-save-new-button = Guardar
 login-item-cancel-button = Encaboxar
-login-item-time-changed = Última modificación: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
 login-item-time-created = Data de creación: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = Últimu usu: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
