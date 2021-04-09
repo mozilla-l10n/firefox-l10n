@@ -307,6 +307,8 @@ urlbar-permissions-granted =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Estensión:
+urlbar-go-button =
+    .tooltiptext = Dir a la direición de la barra de direiciones
 urlbar-page-action-button =
     .tooltiptext = Aiciones de la páxina
 urlbar-pocket-button =
@@ -315,6 +317,11 @@ urlbar-pocket-button =
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 
+# The "with" format was chosen because the search engine name can end with
+# "Search", and we would like to avoid strings like "Search MSN Search".
+# Variables
+#  $engine (String): the name of a search engine
+urlbar-result-action-search-w-engine = Buscar con { $engine }
 urlbar-result-action-switch-tab = Dir pa la llingüeta
 # Shows the result of a formula expression being calculated, the last = sign will be shown
 # as part of the result (e.g. "= 2").
