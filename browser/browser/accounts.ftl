@@ -8,3 +8,6 @@ account-finish-account-setup = Kontoeinrichtung abschließen
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-reconnect-to-fxa = Konto getrennt
+# Used as the FxA toolbar menu item title when the user
+# needs to reconnect their account.
+account-disconnected = Ihre Verbindung wurde getrennt
