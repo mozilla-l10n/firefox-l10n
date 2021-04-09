@@ -38,6 +38,8 @@ detail-version =
     .label = Versión
 detail-last-updated =
     .label = Últimu anovamientu
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = Execución nes ventanes privaes
 detail-private-required-description2 = Esta estensión tien accesu a les tos actividaes en llinia mentanto restoles en privao. <a data-l10n-name="learn-more">Lleer más</a>
 detail-home-value =
     .value = { detail-home.label }
@@ -193,7 +195,12 @@ addon-detail-reviews-link =
 
 ## Pending uninstall message bar
 
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description = Quitóse <span data-l10n-name="addon-name">{ $addon }</span>
+pending-uninstall-undo-button = Desfacer
 addon-detail-updates-label = Permitir l'anovamientu automáticu
+addon-detail-private-browsing-help = Al permitilo, la estensión va tener accesu a la to actividá en llinia mentanto restoles en privao. <a data-l10n-name="learn-more">Lleer más</a>
 addon-detail-private-browsing-allow = Permitir
 addon-detail-private-browsing-disallow = Nun permitir
 
@@ -212,6 +219,7 @@ available-updates-heading = Anovamientos disponibles
 recent-updates-heading = Anovamientos de recién
 release-notes-loading = Cargando…
 addon-permissions-empty = Esta estensión nun rique nengún permisu
+addon-permissions-required = Los permisos riquíos pa les funciones principales:
 addon-permissions-learnmore = Lleer más tocante a los permisos
 recommended-extensions-heading = Estensiones aconseyaes
 recommended-themes-heading = Estilos aconseyaos
