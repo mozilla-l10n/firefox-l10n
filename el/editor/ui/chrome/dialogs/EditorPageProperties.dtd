@@ -4,14 +4,14 @@
 
 <!-- Window title -->
 <!ENTITY windowTitle.label "Ιδιότητες σελίδας">
-<!ENTITY location.label "Τοποθεσία:">
+<!ENTITY location.label "Διεύθυνση:">
 <!ENTITY lastModified.label "Τελευταία τροποποίηση:">
 <!ENTITY titleInput.label "Τίτλος:">
 <!ENTITY titleInput.accessKey "Τ">
-<!ENTITY authorInput.label "Συγγραφέας:">
-<!ENTITY authorInput.accessKey "Σ">
+<!ENTITY authorInput.label "Δημιουργός:">
+<!ENTITY authorInput.accessKey "Δ">
 <!ENTITY descriptionInput.label "Περιγραφή:">
 <!ENTITY descriptionInput.accessKey "Π">
 <!ENTITY locationNewPage.label "[Νέα σελίδα, μη αποθηκευμένη ακόμα]">
 <!ENTITY EditHEADSource1.label "Προχωρημένοι χρήστες:">
-<!ENTITY EditHEADSource2.label "Για να επεξεργαστείτε τα άλλα περιεχόμενα της περιοχής &lt;head&gt;, χρησιμοποιείστε την επιλογή Kώδικας από το μενού προβολής ή επεξεργασίας.    ">
+<!ENTITY EditHEADSource2.label 'Για να επεξεργαστείτε τα άλλα περιεχόμενα της περιοχής &lt;head&gt;, χρησιμοποιήστε το &quot;Πηγαίος κώδικας HTML&quot; στο μενού "Προβολή" ή τη γραμμή λειτουργίας επεξεργασίας.'>
