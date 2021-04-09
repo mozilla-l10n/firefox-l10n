@@ -16,7 +16,7 @@
 <!ENTITY viewTags.accesskey "τ">
 <!ENTITY viewCustomViews.label "Προσαρμοσμένες προβολές">
 <!ENTITY viewCustomViews.accesskey "ρ">
-<!ENTITY viewVirtualFolder.label "Αποθήκευση προβολής ως φάκελο…">
+<!ENTITY viewVirtualFolder.label "Αποθήκευση προβολής ως φακέλου…">
 <!ENTITY viewVirtualFolder.accesskey "θ">
 <!ENTITY viewCustomizeView.label "Προσαρμογή…">
 <!ENTITY viewCustomizeView.accesskey "σ">
