@@ -42,7 +42,6 @@
 <!ENTITY col.mostrecentvisit.label "Última visita">
 <!ENTITY col.visitcount.label    "Númberu de visites">
 <!ENTITY col.dateadded.label     "Data d'amiestu">
-<!ENTITY col.lastmodified.label  "Última modificación">
 
 
 <!ENTITY maintenance.label      "Importar y esportar">
