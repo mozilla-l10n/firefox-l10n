@@ -44,6 +44,10 @@ newtab-confirm-delete-history-p2 = Esta aición nun pue desfacese.
 
 ## Context Menu - Action Tooltips.
 
+# General tooltip for context menus.
+newtab-menu-section-tooltip =
+    .title = Abrir el menú
+    .aria-label = Abrir el menú
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = Editar esti sitiu
