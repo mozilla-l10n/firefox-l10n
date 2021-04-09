@@ -10,6 +10,8 @@ preferences-title =
             [windows] Nuostatos
            *[other] Nuostatos
         }
+preferences-tab-title =
+    .title = Nuostatos
 category-list =
     .aria-label = Kategorijos
 pane-general-title = Bendrosios
@@ -90,6 +92,7 @@ update-in-progress-ok-button = &Atsisakyti
 update-in-progress-cancel-button = &Tęsti
 account-button = Paskyros nuostatos
 addons-button = Priedai ir grafiniai apvalkalai
+open-addons-sidebar-button = Priedai ir grafiniai apvalkalai
 
 ## OS Authentication dialog
 
@@ -165,6 +168,12 @@ customize-alert-label =
 tray-icon-label =
     .label = Rodyti piktogramą pranešimų srityje
     .accesskey = t
+biff-use-system-alert =
+    .label = Naudoti sistemos pranešimus
+tray-icon-unread-label =
+    .label = Rodyti neskaitytų pranešimų dėklo piktogramą
+    .accesskey = R
+tray-icon-unread-description = Rekomenduojama kai naudojate mažus užduočių juostos mygtukus
 mail-system-sound-label =
     .label = Sistemos numatytasis garsas gavus naują laišką
     .accesskey = S
@@ -702,6 +711,17 @@ search-input-box =
             [windows] ieškoti nuostatose
            *[other] ieškoti nuostatose
         }
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-preferences-input =
+    .style = width: 15.4em
+    .placeholder = Find in Preferences
 
 ## Preferences UI Search Results
 
