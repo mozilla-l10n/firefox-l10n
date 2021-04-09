@@ -141,6 +141,13 @@ remote-debugging-url = URL
 support-third-party-modules-title = Módulos de terceros
 support-third-party-modules-status = Estáu
 # Variables
+# $days (Integer) - Number of days of crashes to log
+report-crash-for-days =
+    { $days ->
+        [one] Informes de casques del últimu día
+       *[other] Informes de casques de los últimos { $days } díes
+    }
+# Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
     { $minutes ->
@@ -171,6 +178,8 @@ no = Non
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+found = Atopóse
+gpu-description = Descripción
 gpu-ram = RAM
 min-lib-versions = Versión mínima que s'espera
 loaded-lib-versions = Versión n'usu
