@@ -14,5 +14,5 @@
 <!ENTITY widthEditField.accessKey "Π">
 <!ENTITY borderEditField.label "Πλαίσιο:">
 <!ENTITY borderEditField.accessKey "λ">
-<!ENTITY borderEditField.tooltip "Εισάγετε ένα μέγεθος για το πλαίσιο πίνακα, ή εισάγετε μηδέν (0) για χωρίς πλαίσιο">
+<!ENTITY borderEditField.tooltip "Εισάγετε ένα μέγεθος για το πλαίσιο πίνακα, ή εισάγετε μηδέν (0) για να μην υπάρχει πλαίσιο">
 <!ENTITY pixels.label "εικονοστοιχεία">

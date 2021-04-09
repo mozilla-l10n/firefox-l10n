@@ -8,7 +8,7 @@
 
 <!ENTITY dimensionsBox.label "Διαστάσεις">
 <!ENTITY heightEditField.label "Ύψος:">
-<!ENTITY heightEditField.accessKey "ψ">
+<!ENTITY heightEditField.accessKey "Ύ">
 <!ENTITY widthEditField.label "Πλάτος:">
 <!ENTITY widthEditField.accessKey "Π">
 <!ENTITY pixelsPopup.value "εικονοστοιχεία">
@@ -22,6 +22,6 @@
 
 <!ENTITY threeDShading.label "Σκίαση 3-D">
 <!ENTITY threeDShading.accessKey "Σ">
-<!ENTITY saveSettings.label "Χρήση ως προεπιλεγμένων">
+<!ENTITY saveSettings.label "Χρήση ως προεπιλογή">
 <!ENTITY saveSettings.accessKey "ρ">
-<!ENTITY saveSettings.tooltip "Αποθήκευση αυτών των ρυθμίσεων προς χρήση όταν γίνεται εισαγωγή νέων οριζοντίων γραμμών">
+<!ENTITY saveSettings.tooltip "Αποθήκευση ρυθμίσεων προς χρήση όταν γίνεται εισαγωγή νέων οριζοντίων γραμμών">
