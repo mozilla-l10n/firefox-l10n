@@ -3,18 +3,14 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 notifications-dialog-window =
-    .title = Προσαρμογή ειδοποίησης νέου μηνύματος
-
-customize-alert-description = Επιλέξτε τα πεδία που θα εμφανίζονται στην ειδοποίηση:
-
+    .title = Προσαρμογή ειδοποίησης νέου email
+customize-alert-description = Επιλέξτε ποια πεδία θα εμφανίζονται στην ειδοποίηση:
 preview-text-checkbox =
     .label = Προεπισκόπηση κειμένου μηνύματος
-    .accesskey = μ
-
+    .accesskey = Π
 subject-checkbox =
     .label = Θέμα
     .accesskey = Θ
-
 sender-checkbox =
     .label = Αποστολέας
     .accesskey = π
@@ -26,8 +22,7 @@ sender-checkbox =
 ## to translate the whole sentence.
 
 open-time-label-before =
-    .value = Εμφάνιση ειδοποίησης νέων μηνυμάτων για
-    .accesskey = φ
-
+    .value = Εμφάνιση ειδοποίησης νέου email για
+    .accesskey = ν
 open-time-label-after =
     .value = δευτερόλεπτα

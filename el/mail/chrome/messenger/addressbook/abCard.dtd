@@ -29,9 +29,9 @@
 <!ENTITY NameField2.accesskey           "ν">
 <!ENTITY PhoneticField1.label           "Φωνητικό:">
 <!ENTITY PhoneticField2.label           "Φωνητικό:">
-<!ENTITY DisplayName.label              "Προβολή:">
+<!ENTITY DisplayName.label              "Προβολή ως:">
 <!ENTITY DisplayName.accesskey          "Π">
-<!ENTITY preferDisplayName.label        "Να προτιμάται πάντα το όνομα εμφάνισης αντί της επικεφαλίδας μηνύματος">
+<!ENTITY preferDisplayName.label        "Να προτιμάται πάντα το εμφανιζόμενο όνομα αντί της επικεφαλίδας μηνύματος">
 <!ENTITY preferDisplayName.accesskey    "φ">
 <!ENTITY NickName.label                 "Ψευδώνυμο:">
 <!ENTITY NickName.accesskey             "Ψ">

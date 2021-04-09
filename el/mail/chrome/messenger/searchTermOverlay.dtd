@@ -2,11 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY matchAll.label "Ταίριασμα όλων των παρακάτω">
+<!ENTITY matchAll.label     "Αντιστοίχιση όλων των παρακάτω">
 <!ENTITY matchAll.accesskey "λ">
-<!ENTITY matchAny.label "Ταίριασμα οποιουδήποτε από τα παρακάτω">
+<!ENTITY matchAny.label     "Αντιστοίχιση όλων των παρακάτω">
 <!ENTITY matchAny.accesskey "π">
-<!ENTITY matchAllMsgs.label "Ταίριασμα όλων των μηνυμάτων">
+<!ENTITY matchAllMsgs.label     "Ταίριασμα όλων των μηνυμάτων">
 <!ENTITY matchAllMsgs.accesskey "μ">
 
 <!-- LOCALIZATION NOTE
