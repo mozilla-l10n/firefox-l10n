@@ -2,7 +2,21 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+# $count (Number) - Number of unread messages.
+unread-messages-os-tooltip =
+    { $count ->
+        [one] neperskaitytas laiškas
+        [few] { $count } neperskaityti laiškai
+       *[other] { $count } neperskaitytų laiškų
+    }
 about-rights-notification-text = „{ -brand-short-name }“ yra nemokama ir atvirojo kodo programinė įranga, sukurta pasaulio bendruomenės.
+
+## Toolbar
+
+addons-and-themes-button =
+    .label = Priedai ir grafiniai apvalkalai
+    .tooltip = Tvarkyti priedus ir grafinius apvalkalus
 
 ## Folder Pane
 
@@ -36,3 +50,10 @@ show-recent-folders-label =
 folder-toolbar-toggle-folder-compact-view =
     .label = Kompaktiškas vaizdas
     .accesskey = K
+
+## AppMenu
+
+# Since v89 we dropped the platforms distinction between Options or Preferences
+# and consolidated everything with Preferences.
+appmenu-preferences =
+    .label = Nuostatos
