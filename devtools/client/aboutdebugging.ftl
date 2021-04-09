@@ -255,7 +255,7 @@ about-debugging-extension-id =
 # Note this relates to the "Push" API, which is normally not localized so it is
 # probably better to not localize it.
 about-debugging-worker-action-push2 = Push
-    .disabledTitle = Push de service worker no momento está desativado para multiprocessamento do { -brand-shorter-name }
+    .disabledTitle = Push de service worker no momento está desativado no multiprocessamento do { -brand-shorter-name }
 # This string is displayed as a label of the button that starts a service worker.
 about-debugging-worker-action-start2 = Start
     .disabledTitle = Start de service worker no momento está desativado para multiprocessamento do { -brand-shorter-name }
