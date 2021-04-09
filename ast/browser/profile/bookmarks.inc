@@ -7,15 +7,23 @@
 # your locale code, and link to your translated pages as soon as they're
 # live.
 
+#define bookmarks_title Marcadores
+#define bookmarks_heading Marcadores
 
 
 # LOCALIZATION NOTE (getting_started):
 # link title for https://www.mozilla.org/en-US/firefox/central/
+#define getting_started Cómo entamar
 
 # LOCALIZATION NOTE (firefox_heading):
 # Firefox links folder name
+#define firefox_heading Mozilla Firefox
 
 # LOCALIZATION NOTE (firefox_help):
+# link title for https://www.mozilla.org/en-US/firefox/help/
+#define firefox_help Ayuda y tutoriales
+
+# LOCALIZATION NOTE (firefox_get_help):
 # link title for https://www.mozilla.org/en-US/firefox/help/
 
 # LOCALIZATION NOTE (firefox_customize):
@@ -23,15 +31,19 @@
 
 # LOCALIZATION NOTE (firefox_community):
 # link title for https://www.mozilla.org/en-US/contribute/
+#define firefox_community Andechar
 
 # LOCALIZATION NOTE (firefox_about):
 # link title for https://www.mozilla.org/en-US/about/
+#define firefox_about Tocante a nós
 
 # LOCALIZATION NOTE (nightly_heading):
 # Firefox Nightly links folder name
+#define nightly_heading Recursos de Firefox Nightly
 
 # LOCALIZATION NOTE (nightly_blog):
 # Nightly builds only, link title for https://blog.nightly.mozilla.org/
+#define nightly_blog Blogue de Firefox Nightly
 
 # LOCALIZATION NOTE (bugzilla):
 # Nightly builds only, link title for https://bugzilla.mozilla.org/
@@ -44,6 +56,7 @@
 
 # LOCALIZATION NOTE (crashes):
 # Nightly builds only, link title for about:crashes
+#define crashes Tolos casques de to
 
 # LOCALIZATION NOTE (planet):
 # Nightly builds only, link title for https://planet.mozilla.org/
