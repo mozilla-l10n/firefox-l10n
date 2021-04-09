@@ -306,17 +306,58 @@ about-logins-import-dialog-items-error =
     }
 about-logins-import-dialog-done = Duin
 about-logins-import-dialog-error-title = Inbringin Error
+about-logins-import-dialog-error-conflicting-values-title = Multiple Conflictin Values fur Ane Login
+about-logins-import-dialog-error-conflicting-values-description = For example: multiple yaiser nemmes, passwirds, URLs, etc. fur ane login
+about-logins-import-dialog-error-file-format-title = File Format Issue
+about-logins-import-dialog-error-file-format-description = Wrang or tint column heiders. Mak shair the file includes columns fur yaiser nemme, passwird and URL.
 about-logins-import-dialog-error-file-permission-title = No Able tae Read File
+about-logins-import-dialog-error-file-permission-description = { -brand-short-name } daesnae hae permeesion tae read the file. Try chyngin the file permeesions.
+about-logins-import-dialog-error-unable-to-read-title = No Able tae Parse File
+about-logins-import-dialog-error-unable-to-read-description = Mak shair ye selectit a CSV or TSV file.
+about-logins-import-dialog-error-no-logins-imported = Nae logins hae been inbrung
+about-logins-import-dialog-error-learn-more = Lairn mair
+about-logins-import-dialog-error-try-again = Try Again...
+about-logins-import-dialog-error-try-import-again = Try Inbring Again...
+about-logins-import-dialog-error-cancel = Cancel
+about-logins-import-report-title = Inbringin Summary
+about-logins-import-report-description = Logins and passwirds inbrung tae { -brand-short-name }.
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = Row { $number }
+about-logins-import-report-row-description-no-change = Duplicate: Exact match o existin login
+about-logins-import-report-row-description-modified = Existin login updatit
+about-logins-import-report-row-description-added = New login eikit
+about-logins-import-report-row-description-error = Error: Tint field
 
 ##
 ## Variables:
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
+about-logins-import-report-row-description-error-multiple-values = Error: Multiple values fur { $field }
+about-logins-import-report-row-description-error-missing-field = Error: Tint { $field }
 
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-report-added =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">New logins eikit</div>
+    }
+about-logins-import-report-modified =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Existin logins updatit</div>
+    }
+about-logins-import-report-no-change =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Duplicate logins</div> <div data-l10n-name="not-imported">(no inbrung)</div>
+    }
+about-logins-import-report-error =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Errors</div> <div data-l10n-name="not-imported">(no inbrung)</div>
+    }
 
 ## Logins import report page
 
+about-logins-import-report-page-title = Inbringin Summary Report
