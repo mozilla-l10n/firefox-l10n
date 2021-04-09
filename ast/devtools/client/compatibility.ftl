@@ -18,6 +18,7 @@ compatibility-settings-button-title =
 ## Messages used as headers in settings pane
 
 compatibility-settings-header = Axustes
+compatibility-target-browsers-header = Restoladores de destín
 
 ##
 
