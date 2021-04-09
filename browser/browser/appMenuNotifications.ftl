@@ -46,6 +46,7 @@ appmenu-addon-post-install-message = Xestiona los complementos calcando <image d
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = D'acuerdu
     .buttonaccesskey = D
+appmenu-addon-post-install-message3 = Xestiona los tos complementos y estilos pente'l menú de l'aplicación.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Permitir qu'esta estensión s'execute en ventanes privaes
     .accesskey = P

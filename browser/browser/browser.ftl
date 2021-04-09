@@ -57,7 +57,7 @@ urlbar-web-rtc-share-screen-notification-anchor =
     .tooltiptext = Xestionar la compartición de les ventanes o la pantalla col sitiu
 urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Atroxar datos nel almacenamientu persistente
-urlbar-search-tips-confirm = Val, entendílo
+urlbar-search-tips-confirm = D'acuerdu, entendílo
 # Read out before Urlbar Tip text content so screenreader users know the
 # subsequent text is a tip offered by the browser. It should end in a colon or
 # localized equivalent.
@@ -435,6 +435,7 @@ panel-save-update-password = Contraseña
 
 ## Add-on removal warning
 
+addon-removal-abuse-report-checkbox = Informar d'esta estensión a { -vendor-short-name }
 
 ## Remote / Synced tabs
 
