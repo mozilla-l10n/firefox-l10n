@@ -10,15 +10,24 @@
 
 ## All of the headings for the various sections.
 
+perftools-heading-settings = Axustes completos
+perftools-heading-buffer = Axustes del buffer
+perftools-heading-features = Carauterístiques
+perftools-heading-features-disabled = Carauterístiques desactivaes
+perftools-heading-features-experimental = Esperimental
+perftools-heading-threads = Filos
 
 ##
 
 
 ## The controls for the interval at which the profiler samples the code.
 
+perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 2) } ms
 
 ##
 
+perftools-devtools-interval-label = Intervalu:
+perftools-devtools-threads-label = Filos:
 perftools-devtools-settings-label = Axustes
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
@@ -29,6 +38,8 @@ perftools-devtools-settings-label = Axustes
 
 ##
 
+perftools-button-add-directory = Amestar al diccionariu
+perftools-button-remove-directory = Quitar lo esbillao
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
