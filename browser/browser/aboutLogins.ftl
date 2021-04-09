@@ -78,6 +78,7 @@ login-intro-instruction-fxa = Auf dem Gerät mit Ihren gespeicherten Zugangsdate
 login-intro-instruction-fxa-settings = Überprüfen Sie, dass das Kontrollfeld "Zugangsdaten" in den { -sync-brand-short-name }-Einstellungen ausgewählt ist.
 about-logins-intro-instruction-help = Weitere Hilfe finden Sie auf der <a data-l10n-name="help-link">Support-Seite für { -lockwise-brand-short-name }</a>.
 login-intro-instructions-fxa = Auf dem Gerät mit Ihren gespeicherten Zugangsdaten: Erstellen Sie ein { -fxaccount-brand-name } oder melden Sie sich damit an.
+login-intro-instructions-fxa-settings = Gehen Sie zu Einstellungen > Synchronisation > Zum Synchronisieren anmelden… Wählen Sie das Kontrollfeld "Zugangsdaten und Passwörter".
 login-intro-instructions-fxa-help = Weitere Hilfe finden Sie auf der <a data-l10n-name="help-link">Support-Seite für { -lockwise-brand-short-name }</a>.
 about-logins-intro-import = Wenn Ihre Zugangsdaten in einem anderen Browser gespeichert sind, können Sie diese in { -lockwise-brand-short-name } <a data-l10n-name="import-link">importieren</a>.
 about-logins-intro-import2 = Wenn Ihre Zugangsdaten außerhalb von { -brand-product-name } gespeichert sind, können Sie diese <a data-l10n-name="import-browser-link">aus einem anderen Browser</a> oder <a data-l10n-name="import-file-link">aus einer Datei</a> importieren.
@@ -320,6 +321,7 @@ about-logins-import-dialog-error-unable-to-read-description = Stellen Sie sicher
 about-logins-import-dialog-error-no-logins-imported = Es wurden keine Zugangsdaten importiert
 about-logins-import-dialog-error-learn-more = Weitere Informationen
 about-logins-import-dialog-error-try-again = Erneut versuchen…
+about-logins-import-dialog-error-try-import-again = Import erneut versuchen…
 about-logins-import-dialog-error-cancel = Abbrechen
 about-logins-import-report-title = Import-Zusammenfassung
 about-logins-import-report-description = Zugangsdaten und Passwörter wurden in { -brand-short-name } importiert.
