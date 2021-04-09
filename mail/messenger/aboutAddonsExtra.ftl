@@ -6,3 +6,4 @@ add-on-options-button =
     .title = Opzioni componente aggiuntivo
 atn-addons-heading-search-input =
     .placeholder = Cerca in addons.thunderbird.net
+sidebar-preferences-button-title = Preferenze di { -brand-short-name }
