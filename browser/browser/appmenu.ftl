@@ -7,6 +7,12 @@
 
 appmenuitem-update-banner =
     .label-update-downloading = { -brand-shorter-name } తాజాకరణ దించుకుంటోంది
+appmenuitem-update-banner2 =
+    .label-update-downloading = { -brand-shorter-name } తాజాకరణను దించుకొంటూంది
+    .label-update-available = తాజాకరణ అందుబాటులో ఉంది — ఇప్పుడే దించుకోండి
+    .label-update-manual = తాజాకరణ అందుబాటులో ఉంది — ఇప్పుడే దించుకోండి
+    .label-update-unsupported = తాజాకరించలేకున్నాం
+    .label-update-restart = తాజాకరణ అందుబాటులో ఉంది — ఇప్పుడే పునఃప్రారంభించండి
 appmenuitem-protection-dashboard-title = సంరక్షణల డాష్‌బోర్డ్
 appmenuitem-customize-mode =
     .label = అభిమతీకరించు…
@@ -57,6 +63,7 @@ appmenuitem-fxa-manage-account = ఖాతా నిర్వహణ
 appmenu-fxa-header =
     .title = { -fxaccount-brand-name }
 appmenu-fxa-header2 = { -fxaccount-brand-name }
+appmenu-fxa-show-more-tabs = మరిన్ని ట్యాబులను చూపించు
 appmenuitem-save-page =
     .label = పేజీని ఇలా భద్రపరచు…
 

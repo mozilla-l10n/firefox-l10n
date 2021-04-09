@@ -460,6 +460,8 @@ urlbar-result-action-search-w-engine = { $engine } తో అన్వేషి�
 urlbar-result-action-sponsored = ప్రాయోజితం
 urlbar-result-action-switch-tab = ట్యాబుకు మారండి
 urlbar-result-action-visit = చూడండి
+# Action text for copying to clipboard.
+urlbar-result-action-copy-to-clipboard = కాపీచేయి
 # Shows the result of a formula expression being calculated, the last = sign will be shown
 # as part of the result (e.g. "= 2").
 # Variables
@@ -607,3 +609,6 @@ addon-removal-title = { $name }‌ను తీసివేయారా?
 
 ## Remote / Synced tabs
 
+remote-tabs-manage-account =
+    .label = ఖాతా నిర్వహణ
+remote-tabs-sync-now = ఇప్పుడే సింక్ చేయి
