@@ -182,6 +182,11 @@ preferences-addon-button =
     }
 details-addon-button = Detalles
 permissions-addon-button = Permisos
+extension-enabled-heading = Activóse
+theme-enabled-heading = Activóse
+plugin-enabled-heading = Activóse
+dictionary-enabled-heading = Activóse
+locale-enabled-heading = Activóse
 always-activate-button = Activar siempres
 never-activate-button = Nun activar enxamás
 addon-detail-version-label = Versión
