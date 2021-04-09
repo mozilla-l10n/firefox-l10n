@@ -7,6 +7,12 @@
 
 appmenuitem-update-banner =
     .label-update-downloading = Сцягваецца абнаўленне { -brand-shorter-name }
+appmenuitem-update-banner2 =
+    .label-update-downloading = Сцягваецца абнаўленне { -brand-shorter-name }
+    .label-update-available = Даступна абнаўленне — сцягнуць зараз
+    .label-update-manual = Даступна абнаўленне — сцягнуць зараз
+    .label-update-unsupported = Не ўдалося абнавіцца
+    .label-update-restart = Даступна абнаўленне — перазапусціць зараз
 appmenuitem-protection-dashboard-title = Панэль аховы
 appmenuitem-customize-mode =
     .label = Уладкаваць…
