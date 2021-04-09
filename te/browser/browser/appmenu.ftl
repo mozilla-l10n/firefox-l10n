@@ -23,6 +23,8 @@ appmenuitem-extensions-and-themes =
     .label = పొడగింతలు, అలంకారాలు
 appmenuitem-addons-and-themes =
     .label = పొడగింతలు, అలంకారాలు
+appmenuitem-find-in-page =
+    .label = పేజీలో వెతుకు…
 appmenuitem-more-tools =
     .label = మరిన్ని పనిముట్లు
 appmenuitem-exit =
@@ -51,6 +53,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = ఇప్పుడు సింక్ చేయి
+appmenuitem-fxa-manage-account = ఖాతా నిర్వహణ
 appmenu-fxa-header =
     .title = { -fxaccount-brand-name }
 appmenu-fxa-header2 = { -fxaccount-brand-name }
@@ -86,6 +89,8 @@ profiler-popup-discard-button =
 
 ## History panel
 
+appmenu-reopen-all-tabs = ట్యాబులన్నింటినీ మళ్లీ తెరువు
+appmenu-reopen-all-windows = కిటికీలన్నిటినీ మళ్ళీ తెరువు
 
 ## Help panel
 
@@ -99,6 +104,9 @@ appmenu-get-help =
     .accesskey = H
 appmenu-help-troubleshooting-info =
     .label = సమస్యాపరిష్కారపు సమాచారం
+    .accesskey = T
+appmenu-help-more-troubleshooting-info =
+    .label = మరింత సమస్యాపరిష్కారపు సమాచారం
     .accesskey = T
 appmenu-help-report-site-issue =
     .label = సైటులోని సమస్యను నివేదించండి…

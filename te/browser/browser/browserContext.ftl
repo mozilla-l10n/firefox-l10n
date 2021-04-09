@@ -90,6 +90,9 @@ toolbar-button-stop-reload =
 
 ## Firefox Account Button
 
+toolbar-button-fxaccount =
+    .label = { -fxaccount-brand-name(capitalization: "sentence") }
+    .tooltiptext = { -fxaccount-brand-name(capitalization: "sentence") }
 
 ## Save Page
 
@@ -335,6 +338,12 @@ main-context-menu-generate-new-password =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-use-saved-login =
+    .label = భద్రపరచిన ప్రవేశాన్ని వాడు
+    .accesskey = o
+main-context-menu-use-saved-password =
+    .label = భద్రపరచిన సంకేతపదాన్ని వాడు
+    .accesskey = o
 
 ##
 

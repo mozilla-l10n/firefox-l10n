@@ -361,6 +361,16 @@ popup-select-camera =
 popup-select-microphone =
     .value = పంచుకోవాల్సిన మైక్రోఫోన్:
     .accesskey = M
+popup-select-camera-device =
+    .value = కెమెరా:
+    .accesskey = C
+popup-select-camera-icon =
+    .tooltiptext = కెమెరా
+popup-select-microphone-device =
+    .value = మైక్రోఫోను:
+    .accesskey = M
+popup-select-microphone-icon =
+    .tooltiptext = మైక్రోఫోను
 popup-all-windows-shared = మీ తెర మీద కనిపించే అన్ని విండోలు పంచుకోబడతాయి.
 popup-screen-sharing-not-now =
     .label = ఇప్పుడు కాదు
@@ -371,6 +381,9 @@ popup-screen-sharing-never =
 popup-screen-sharing-block =
     .label = నిరోధించు
     .accesskey = B
+popup-screen-sharing-always-block =
+    .label = ఎల్లప్పుడూ నిరోధించు
+    .accesskey = w
 
 ## WebRTC window or screen share tab switch warning
 

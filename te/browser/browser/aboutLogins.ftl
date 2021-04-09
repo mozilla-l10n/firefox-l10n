@@ -29,6 +29,7 @@ menu =
 about-logins-menu-menuitem-import-from-another-browser = మరో విహారిణి నుండి దిగుమతిచేయి…
 about-logins-menu-menuitem-import-from-a-file = ఒక దస్త్రం నుండి దిగుమతించు…
 about-logins-menu-menuitem-export-logins = ప్రవేశాలను ఎగుమతించు…
+about-logins-menu-menuitem-remove-all-logins = ప్రవేశాలన్నిటినీ తొలగించు…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] ఎంపికలు
@@ -248,6 +249,7 @@ about-logins-import-file-picker-tsv-filter-title =
 about-logins-import-dialog-title = దిగుమతి పూర్తయింది
 about-logins-import-dialog-done = పూర్తయింది
 about-logins-import-dialog-error-title = దిగుమతి లోపం
+about-logins-import-dialog-error-file-format-title = ఫైలు ఫార్మాటు సమస్య
 about-logins-import-dialog-error-learn-more = ఇంకా తెలుసుకోండి
 about-logins-import-dialog-error-try-again = మళ్ళీ ప్రయత్నించండి…
 about-logins-import-dialog-error-cancel = రద్దుచేయి
@@ -270,3 +272,4 @@ about-logins-import-report-row-description-added = కొత్త ప్రవ�
 
 ## Logins import report page
 
+about-logins-import-report-page-title = దిగుమతి సారాంశ నివేదిక
