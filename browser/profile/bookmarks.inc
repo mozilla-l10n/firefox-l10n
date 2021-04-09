@@ -10,6 +10,8 @@
 #define bookmarks_title Marcadores
 #define bookmarks_heading Marcadores
 
+#define bookmarks_toolbarfolder Carpeta de la barra de los marcadores
+#define bookmarks_toolbarfolder_description Amiesta marcadores a esta carpeta p'amosalos na barra de los marcadores
 
 # LOCALIZATION NOTE (getting_started):
 # link title for https://www.mozilla.org/en-US/firefox/central/
