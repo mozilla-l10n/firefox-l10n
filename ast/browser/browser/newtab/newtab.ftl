@@ -60,7 +60,7 @@ newtab-menu-open-new-window = Abrir nuna ventana nueva
 newtab-menu-open-new-private-window = Abrir nuna ventana privada nueva
 newtab-menu-dismiss = Escartar
 newtab-menu-pin = Fixar
-newtab-menu-unpin = Soltar
+newtab-menu-unpin = Lliberar
 newtab-menu-delete-history = Desaniciar del historial
 newtab-menu-save-to-pocket = Guardar en { -pocket-brand-name }
 newtab-menu-delete-pocket = Desaniciar de { -pocket-brand-name }
@@ -159,6 +159,7 @@ newtab-custom-row-selector =
         [one] { $num } filera
        *[other] { $num } fileres
     }
+newtab-custom-sponsored-sites = Atayos patrocinaos
 newtab-custom-recent-title = Actividá recién
 newtab-custom-recent-subtitle = Una esbilla de los sitios y el conteníu recién
 newtab-custom-close-button = Zarrar
