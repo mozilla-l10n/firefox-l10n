@@ -18,3 +18,13 @@ rights-intro-point-2 =
     rexistraes de Mozilla Foundation o filiales, qu'inclúin ensin llende'l nome
     o logotipu de Firefox. Pues atopar más información tocante a les marques
     rexistraes <a data-l10n-name="mozilla-trademarks-link">equí</a>.
+rights-intro-point-3 =
+    Dalgunes carauterístiques de { -brand-short-name }, como l'Informador
+    de Casques, dante la opción d'apurrir opiniones a { -vendor-short-name }.
+    Si escueyes unviar opiniones, das-y permisu a { -vendor-short-name } pa
+    que les use p'ameyorar los sos productos, espublizales nes sos páxines
+    web y distribuyiles.
+rights-intro-point-4 =
+    Na <a data-l10n-name="mozilla-privacy-policy-link">política de privacidá
+    de { -brand-short-name }</a> descríbese cómo usamos la información
+    personal y les opiniones unviaes a { -vendor-short-name } per { -brand-short-name }.
