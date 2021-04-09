@@ -22,6 +22,9 @@ abuse-report-submit-description = Describi'l problema (opcional)
 ## Panel buttons.
 
 abuse-report-cancel-button = Encaboxar
+abuse-report-next-button = Siguiente
+abuse-report-goback-button = Dir p'atrás
+abuse-report-submit-button = Unviar
 
 ## Message bars descriptions.
 
@@ -35,13 +38,28 @@ abuse-report-cancel-button = Encaboxar
 ## Variables:
 ##   $addon-name (string) - Name of the add-on
 
+abuse-report-messagebar-submitted = Gracies por unviar un informe. ¿Quies quitar <span data-l10n-name="addon-name">{ $addon-name }</span>?
 abuse-report-messagebar-submitted-noremove = Gracies por unviar un informe.
 abuse-report-messagebar-removed-extension = Gracies por unviar un informe. Quitesti la estensión <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-removed-theme = Gracies por unviar un informe. Quitesti l'estilu <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-error = hebo un fallu al unviar l'informe de «<span data-l10n-name="addon-name">{ $addon-name }</span>».
+abuse-report-messagebar-error-recent-submit = L'informe de «<span data-l10n-name="addon-name">{ $addon-name }</span>» nun s'unvió porque yá s'unvió otru apocayá.
 
 ## Message bars actions.
 
+abuse-report-messagebar-action-remove-extension = Sí, quitala
+abuse-report-messagebar-action-remove-theme = Sí, quitalu
 abuse-report-messagebar-action-cancel = Encaboxar
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
+abuse-report-damage-reason-v2 = Estropióme l'ordenador o punxo en riesgu los mios datos
+abuse-report-spam-reason-v2 = Contién spam o inxerta publicidá non deseada
+abuse-report-spam-example = Exemplu: Inxerta anuncios nos sitios web
+abuse-report-settings-reason-v2 = Camudó'l mio motor de busca, la páxina d'aniciu o la páxina «Llingüeta nueva» ensin informame o pidímelo
+abuse-report-broken-reason-extension-v2 = Nun funciona, estropia los sitios web o fai que { -brand-product-name } vaiga lentu
+abuse-report-broken-reason-theme-v2 = Nun funciona o fai que'l restolar nun se vea bien
+abuse-report-policy-reason-v2 = Contién conteníu illegal, d'odiu o violentu
+abuse-report-unwanted-reason-v2 = Enxamás la quixi y nun sé cómo quitala
+abuse-report-unwanted-example = Exemplu: Instalóse una aplicación ensin el mio permisu
+abuse-report-other-reason = Daqué más

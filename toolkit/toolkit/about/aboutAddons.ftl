@@ -143,7 +143,7 @@ discopane-intro =
     <a data-l10n-name="learn-more-trigger">aconseya</a> pa consiguir un nivel
     esceicional de seguranza, rindimientu y funcionalidá.
 # Notice to make user aware that the recommendations are personalized.
-discopane-notice-recommendations = Dalgunes d'estes recomendaciones son personalizaes. Básense n'otres estensiones qu'instalesti, les preferencies del perfil y les estadístiques d'usu.
+discopane-notice-recommendations = Dalgunes d'estes recomendaciones son personalizaes. Básense n'otres estensiones qu'instalesti, nes preferencies del perfil y nes estadístiques d'usu.
 discopane-notice-learn-more = Lleer más
 privacy-policy = Política de privacidá
 # Refers to the author of an add-on, shown below the name of the add-on.
