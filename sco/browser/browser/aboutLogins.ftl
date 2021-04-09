@@ -298,7 +298,7 @@ about-logins-import-dialog-items-modified =
     }
 about-logins-import-dialog-items-no-change =
     { $count ->
-       *[other] <span>Duplicate logins fund:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(not imported)</span>
+       *[other] <span>Duplicate logins fund:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(no inbrung)</span>
     }
 about-logins-import-dialog-items-error =
     { $count ->
@@ -311,7 +311,7 @@ about-logins-import-dialog-error-conflicting-values-description = For example: m
 about-logins-import-dialog-error-file-format-title = File Format Issue
 about-logins-import-dialog-error-file-format-description = Wrang or tint column heiders. Mak shair the file includes columns fur yaiser nemme, passwird and URL.
 about-logins-import-dialog-error-file-permission-title = No Able tae Read File
-about-logins-import-dialog-error-file-permission-description = { -brand-short-name } daesnae hae permeesion tae read the file. Try chyngin the file permeesions.
+about-logins-import-dialog-error-file-permission-description = { -brand-short-name } disnae hae permeesion tae read the file. Try chyngin the file permeesions.
 about-logins-import-dialog-error-unable-to-read-title = No Able tae Parse File
 about-logins-import-dialog-error-unable-to-read-description = Mak shair ye selectit a CSV or TSV file.
 about-logins-import-dialog-error-no-logins-imported = Nae logins hae been inbrung
