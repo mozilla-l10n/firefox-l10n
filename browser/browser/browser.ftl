@@ -682,7 +682,7 @@ eme-notifications-drm-content-playing = Osa sivuston äänitteistä tai videoist
 eme-notifications-drm-content-playing-manage = Hallitse asetuksia
 eme-notifications-drm-content-playing-manage-accesskey = H
 eme-notifications-drm-content-playing-dismiss = Hylkää
-eme-notifications-drm-content-playing-dismiss-accesskey = Y
+eme-notifications-drm-content-playing-dismiss-accesskey = y
 
 ## Password save/update panel
 
