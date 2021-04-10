@@ -57,12 +57,12 @@
 </ul>
 ">
 
-<!ENTITY contentEncodingError.longDesc "<ul> 
-<li>Entre em contato com os proprietários do site para informá-los sobre esse problema.</li> 
+<!ENTITY contentEncodingError.longDesc "<ul>
+  <li>Entre em contato com os proprietários do site para informar este problema.</li>
 </ul>">
 
-<!ENTITY unsafeContentType.longDesc "<ul> 
-<li>Entre em contato com os proprietários do site para informá-los sobre esse problema.</li> 
+<!ENTITY unsafeContentType.longDesc "<ul>
+  <li>Entre em contato com os proprietários do site para informar este problema.</li>
 </ul>">
 
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
