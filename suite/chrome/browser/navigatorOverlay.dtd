@@ -4,7 +4,9 @@
 
 <!-- File Menu -->
 <!ENTITY tabCmd.label "Zavihek brskalnika">
+<!ENTITY tabCmd.commandkey "t">
 <!ENTITY openCmd.label "Odpri spletni naslov …">
+<!ENTITY openCmd.commandkey "l">
 <!ENTITY openFileCmd.label "Odpri datoteko …">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
@@ -29,6 +31,9 @@ left instead of right. -->
 <!ENTITY tabbarCmd.label "Vrstica z zavihki">
 <!ENTITY tabbarCmd.accesskey "z">
 <!ENTITY taskbarCmd.label "Vrstica stanja">
+<!ENTITY taskbarCmd.accesskey "s">
+<!ENTITY componentbarCmd.label "Vrstica komponent">
+<!ENTITY componentbarCmd.accesskey "k">
 
 <!ENTITY fullScreenCmd.label "Celoten zaslon">
 <!ENTITY fullScreenCmd.accesskey "C">
@@ -41,48 +46,77 @@ left instead of right. -->
 <!ENTITY useStyleSheetPersistentOnly.accesskey "P">
 <!ENTITY bidiSwitchPageDirectionItem.label "Preklopi smer strani">
 <!ENTITY pageSourceCmd.label "Vir strani">
+<!ENTITY pageSourceCmd.accesskey "V">
+<!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "Podatki o strani">
+<!ENTITY pageInfoCmd.accesskey "i">
+<!ENTITY pageInfoCmd.commandkey "i">
 
 <!-- Go Menu -->
 <!ENTITY goMenu.label "Pojdi">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY goHomeCmd.label "Domov">
 <!ENTITY historyCmd.label "Zgodovina">
 <!-- LOCALIZATION NOTE (historyCmd.key): This is used only on the mac. -->
 <!-- LOCALIZATION NOTE (history.commandKey): This is used on platforms other
      than the mac instead of historyCmd.key. -->
+<!ENTITY history.commandKey "h">
 <!ENTITY recentTabs.label "Nedavno zaprti zavihki">
+<!ENTITY recentTabs.commandkey "t">
 <!ENTITY recentWindows.label "Nedavno zaprta okna">
+<!ENTITY recentWindows.commandkey "y">
 <!ENTITY historyRestoreLastSession.label "Obnovi prejšnjo sejo">
 <!ENTITY syncTabsMenu.label "Zavihki z drugih računalnikov">
 
 <!-- Bookmarks Menu -->
 <!ENTITY bookmarksMenu.label "Zaznamki">
 <!ENTITY addCurPageCmd.label "Dodaj stran med zaznamke">
+<!ENTITY addCurPageAsCmd.commandkey "d">
+<!ENTITY addCurTabsAsCmd.label "Dodaj skupino zavihkov med zaznamke …">
 <!ENTITY manBookmarksCmd.label "Upravljanje zaznamkov ...">
+<!ENTITY manBookmarksCmd.accesskey "U">
+<!ENTITY manBookmarksCmd.commandkey "b">
 
 <!-- Tools Menu -->
 <!ENTITY searchInternetCmd.label "Iskanje po spletu">
+<!ENTITY searchInternet.commandKey "s">
 <!ENTITY translateMenu.label "Prevedi stran">
 
 <!ENTITY cookieDisplayCookiesCmd.label "Upravljaj shranjene piškotke">
 <!ENTITY cookieAllowCookiesCmd.label "Dovoli piškotke s tega spletnega mesta">
+<!ENTITY cookieAllowCookiesCmd.accesskey "D">
 <!ENTITY cookieAllowCookiesMsg.label "Piškotki s tega spletnega mesta bodo vedno dovoljeni.">
 <!ENTITY cookieAllowSessionCookiesCmd.label "Dovoli piškotke seje s tega spletnega mesta">
+<!ENTITY cookieAllowSessionCookiesCmd.accesskey "s">
 <!ENTITY cookieAllowSessionCookiesMsg.label "Ta spletna stran bo lahko nastavila piškotke samo za trenutno sejo.">
 <!ENTITY cookieCookiesDefaultCmd.label "Uporabi privzeta dovoljenja za piškotke">
+<!ENTITY cookieCookiesDefaultCmd.accesskey "U">
 <!ENTITY cookieCookiesDefaultMsg.label "Piškotki s tega spletnega mesta bodo sprejeti ali zavrnjeni na podlagi privzetih nastavitev.">
-<!ENTITY cookieBlockCookiesCmd.label "Blokiraj piškotke s tega spletnega mesta">
+<!ENTITY cookieBlockCookiesCmd.label "Prepovej piškotke s tega spletnega mesta">
+<!ENTITY cookieBlockCookiesCmd.accesskey "P">
 <!ENTITY cookieBlockCookiesMsg.label "Piškotki s tega spletnega mesta bodo vedno zavrnjeni.">
 
 <!ENTITY cookieImageMessageTitle.label "Dovoljenja slike so spremenjena">
 <!ENTITY cookieDisplayImagesCmd.label "Upravljaj dovoljenja slik">
+<!ENTITY cookieDisplayImagesCmd.accesskey "U">
 <!ENTITY cookieAllowImagesCmd.label "Dovoli slike s tega spletnega mesta">
+<!ENTITY cookieAllowImagesCmd.accesskey "D">
 <!ENTITY cookieAllowImagesMsg.label "Slike s tega spletnega mesta bodo vedno naložene.">
+<!ENTITY cookieImagesDefaultCmd.label "Uporabi privzeta dovoljenja za slike">
+<!ENTITY cookieImagesDefaultCmd.accesskey "U">
+<!ENTITY cookieBlockImagesCmd.label "Prepovej slike s tega spletnega mesta">
+<!ENTITY cookieBlockImagesCmd.accesskey "P">
+<!ENTITY cookieBlockImagesMsg.label "Slike s tega spletnega mesta se ne bodo nikoli prenesle.">
 
 <!ENTITY popupAllowCmd.label "Dovoli pojavna okna s tega spletnega mesta">
+<!ENTITY popupAllowCmd.accesskey "D">
 <!ENTITY popupAllowMsg.label "Pojavna okna s tega spletnega mesta bodo vedno prikazana.">
 <!ENTITY popupDefaultCmd.label "Uporabi privzeta dovoljenja za pojavna okna">
+<!ENTITY popupDefaultCmd.accesskey "U">
 <!ENTITY popupDefaultMsg.label "Pojavna okna s tega spletnega mesta bodo prikazana na podlagi privzetih nastavitev.">
+<!ENTITY popupBlockCmd.label "Prepovej pojavna okna s tega spletnega mesta">
+<!ENTITY popupBlockCmd.accesskey "P">
 <!ENTITY popupBlockMsg.label "Pojavna okna s tega spletnega mesta ne bodo prikazana.">
 <!ENTITY popupsManage.label "Upravljaj pojavna okna">
 
@@ -90,4 +124,8 @@ left instead of right. -->
 <!ENTITY cookieImageManager.label "Upravitelj slik">
 <!ENTITY popupsManager.label "Upravitelj pojavnih oken">
 
+<!ENTITY clearPrivateDataCmd.label "Počisti zasebne podatke …">
+<!ENTITY clearPrivateDataCmd.accesskey "č">
 
+<!ENTITY stopCmd.macCommandKey ".">
+<!ENTITY fullScreenCmd.commandKey "f">
