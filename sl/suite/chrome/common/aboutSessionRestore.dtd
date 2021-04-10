@@ -3,11 +3,16 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY restorepage.tabtitle       "Obnovi sejo">
+<!ENTITY restorepage.pagetitle      "Ali želite obnoviti svojo sejo?">
 <!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
                         you may translate "crash" instead (even though it's IT-speak) -->
+<!ENTITY restorepage.dueToChrome    "Poskusite onemogočiti nedavno dodane razširitve v upravitelju dodatkov.">
+<!ENTITY restorepage.dueToContent   "Poskusite obnoviti sejo brez spletnih strani, za katere sumite, da bi lahko povzročale težavo:">
 
 <!ENTITY restorepage.restoreButton  "Obnovi prejšnjo sejo">
+<!ENTITY restorepage.restore.access "O">
 <!ENTITY restorepage.cancelButton   "Začni novo sejo">
+<!ENTITY restorepage.cancel.access  "n">
 
 <!ENTITY restorepage.restoreHeader  "Obnovi">
 <!ENTITY restorepage.listHeader     "Okna in zavihki">
