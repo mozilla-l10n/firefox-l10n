@@ -18,6 +18,7 @@ login-filter =
 create-login-button = Создать новый логин
 fxaccounts-sign-in-text = Получайте доступ к своим паролям на других устройствах
 fxaccounts-sign-in-button = Войти в { -sync-brand-short-name(case: "accusative") }
+fxaccounts-sign-in-sync-button = Войти в Синхронизацию
 fxaccounts-avatar-button =
     .title = Управление аккаунтом
 
@@ -71,11 +72,15 @@ about-logins-list-item-vulnerable-password-icon =
 
 login-intro-heading = Ищете сохранённые логины? Настройте { -sync-brand-short-name(case: "accusative") }.
 about-logins-login-intro-heading-logged-out = Ищете сохранённые логины? Настройте { -sync-brand-short-name(case: "accusative") } или импортируйте их.
+about-logins-login-intro-heading-logged-out2 = Ищете сохранённые логины? Включите синхронизацию или импортируйте их.
 about-logins-login-intro-heading-logged-in = Синхронизированных логинов не найдено.
 login-intro-description = Если вы сохранили ваши логины в { -brand-product-name } на другом устройстве, то вот как получить к ним доступ здесь:
 login-intro-instruction-fxa = Создайте или войдите в ваш { -fxaccount-brand-name } на устройстве, где сохранены ваши логины
 login-intro-instruction-fxa-settings = Убедитесь, что вы установили флажок «Логины» в настройках { -sync-brand-short-name(case: "genitive") }
 about-logins-intro-instruction-help = Посетите <a data-l10n-name="help-link">Поддержку { -lockwise-brand-short-name }</a> для получения помощи
+login-intro-instructions-fxa = Создайте или войдите в ваш { -fxaccount-brand-name(capitalization: "sentence") } на устройстве, где сохранены ваши логины
+login-intro-instructions-fxa-settings = Выберите «Настройки» > «Синхронизация» > «Включить синхронизацию…». Установите флажок «Логины и пароли».
+login-intro-instructions-fxa-help = Посетите <a data-l10n-name="help-link">Поддержку { -lockwise-brand-short-name }</a> для получения помощи.
 about-logins-intro-import = Если ваши логины сохранены в другом браузере, вы можете <a data-l10n-name="import-link">импортировать их в { -lockwise-brand-short-name }</a>
 about-logins-intro-import2 = Если ваши логины сохранены не в { -brand-product-name }, вы можете <a data-l10n-name="import-browser-link">импортировать их из другого браузера</a> или <a data-l10n-name="import-file-link">из файла</a>
 
@@ -327,6 +332,7 @@ about-logins-import-dialog-error-unable-to-read-description = Проверьте
 about-logins-import-dialog-error-no-logins-imported = Ни один логин не импортирован
 about-logins-import-dialog-error-learn-more = Подробнее
 about-logins-import-dialog-error-try-again = Попробовать снова…
+about-logins-import-dialog-error-try-import-again = Попробовать импортировать ещё раз…
 about-logins-import-dialog-error-cancel = Отмена
 about-logins-import-report-title = Сводка импорта
 about-logins-import-report-description = Логины и пароли, импортированные в { -brand-short-name }.
