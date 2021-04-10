@@ -18,6 +18,7 @@ login-filter =
 create-login-button = Krei novan legitimilon
 fxaccounts-sign-in-text = Spegulu viajn pasvortojn en viaj aliaj aparatoj
 fxaccounts-sign-in-button = Komenci seancon en { -sync-brand-short-name }
+fxaccounts-sign-in-sync-button = Komenci seancon por speguli
 fxaccounts-avatar-button =
     .title = Administri konton
 
@@ -70,11 +71,15 @@ about-logins-list-item-vulnerable-password-icon =
 
 login-intro-heading = Ĉu vi serĉas viajn konservitajn legitimilojn? Agordu { -sync-brand-short-name }.
 about-logins-login-intro-heading-logged-out = Ĉu vi serĉas viajn konservitajn legitimilojn? Agordu { -sync-brand-short-name } aŭ enportu Ilin.
+about-logins-login-intro-heading-logged-out2 = Ĉu vi serĉas viajn konservitajn legitimilojn? Ŝaltu speguladon aŭ enportu ilin.
 about-logins-login-intro-heading-logged-in = Neniu spegulita legitimilo trovita.
 login-intro-description = Se vi konservis viajn legitimilojn en { -brand-product-name } en alia aparato, vi povas havi ilin ankaŭ ĉi tie jene:
 login-intro-instruction-fxa = Krei konton aŭ komencu seancon en { -fxaccount-brand-name } en la aparato, kie la legitimiloj estas konservitaj
 login-intro-instruction-fxa-settings = Certu esti elektinta la markobutonon Legitimiloj en la agordoj de { -sync-brand-short-name }
 about-logins-intro-instruction-help = Vizitu <a data-l10n-name="help-link">helpo pri { -lockwise-brand-short-name }</a> por pli da informo
+login-intro-instructions-fxa = Krei konton aŭ komencu seancon en { -fxaccount-brand-name(capitalization: "sentence") } en la aparato, kie la legitimiloj estas konservitaj
+login-intro-instructions-fxa-settings = Iru al Agordoj->Spegulado->Ŝalti speguladon… Elektu la markobutonon "Legitimiloj kaj pasvortoj".
+login-intro-instructions-fxa-help = Vizitu <a data-l10n-name="help-link">helpo pri { -lockwise-brand-short-name }</a> por pli da informo.
 about-logins-intro-import = Se viaj legitimiloj estas konservitaj en alia retumilo, vi povas <a data-l10n-name="import-link">enporti ilin en { -lockwise-brand-short-name }</a>
 about-logins-intro-import2 = Se viaj legitimiloj estas konservitaj ekster { -brand-product-name }, vi povas <a data-l10n-name="import-browser-link">enporti ilin el alia retumilo</a> aŭ <a data-l10n-name="import-file-link">el dosiero</a>
 
@@ -312,6 +317,7 @@ about-logins-import-dialog-error-unable-to-read-description = Certiĝu ke vi ele
 about-logins-import-dialog-error-no-logins-imported = Neniu legitimilo estis enportita
 about-logins-import-dialog-error-learn-more = Pli da informo
 about-logins-import-dialog-error-try-again = Klopodi denove…
+about-logins-import-dialog-error-try-import-again = Klopodu enporti denove…
 about-logins-import-dialog-error-cancel = Nuligi
 about-logins-import-report-title = Resumo pri enporto
 about-logins-import-report-description = Akreditiloj kaj pasvortoj enportitaj en { -brand-short-name }.
