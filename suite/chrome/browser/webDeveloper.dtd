@@ -40,14 +40,14 @@
 
 <!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
   -  application menu item that opens the browser toolbox UI in the Tools menu. -->
-<!ENTITY browserToolboxMenu.label        "Εργαλειοθήκη περιηγητή">
+<!ENTITY browserToolboxMenu.label        "Εργαλειοθήκη φυλλομετρητή">
 <!ENTITY browserToolboxMenu.accesskey    "η">
 <!ENTITY browserToolboxCmd.commandkey    "I">
 
 <!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
-<!ENTITY browserContentToolboxMenu.label     "Εργαλειοθήκη περιεχομένου περιηγητή">
+<!ENTITY browserContentToolboxMenu.label     "Εργαλειοθήκη περιεχομένου φυλλομετρητή">
 <!ENTITY browserContentToolboxMenu.accesskey "χ">
 
 <!ENTITY devToolbarCloseButton.tooltiptext   "Κλείσιμο εργαλειοθήκης προγραμματιστή">
