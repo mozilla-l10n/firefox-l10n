@@ -9,6 +9,16 @@ about-private-browsing-info-title = Okno w trybie prywatnym
 about-private-browsing-info-myths = Popularne mity na temat przeglądania prywatnego
 about-private-browsing =
     .title = Szukaj w Internecie
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff =
+    .title = Wprowadź adres lub szukaj w { $engine }
+about-private-browsing-handoff-no-engine =
+    .title = Wprowadź adres lub szukaj
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff-text = Wprowadź adres lub szukaj w { $engine }
+about-private-browsing-handoff-text-no-engine = Wprowadź adres lub szukaj
 about-private-browsing-not-private = Okno bez aktywnego trybu prywatnego.
 about-private-browsing-info-description = { -brand-short-name } czyści historię wyszukiwania i przeglądania po wyłączeniu programu lub zamknięciu wszystkich kart i okien w trybie przeglądania prywatnego. Chociaż nie czyni to użytkownika anonimowym wobec stron internetowych ani dostawcy Internetu, to ułatwia zachowanie prywatności przed pozostałymi użytkownikami komputera.
 about-private-browsing-need-more-privacy = Potrzebujesz więcej prywatności?
