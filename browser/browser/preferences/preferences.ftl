@@ -613,6 +613,7 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Podpowiedzi wyszukiwania w prywatnych oknach
 suggestions-addressbar-settings-generic = Zmień preferencje innych podpowiedzi w pasku adresu
+suggestions-addressbar-settings-generic2 = Zmień ustawienia innych podpowiedzi w pasku adresu
 search-suggestions-cant-show = Podpowiedzi wyszukiwania nie będą wyświetlane w wynikach paska adresu, ponieważ wyłączono zachowywanie historii przeglądania programu { -brand-short-name }.
 search-one-click-header = Dodatkowe wyszukiwarki
 search-one-click-header2 = Skróty wyszukiwania
@@ -647,6 +648,8 @@ containers-back-button =
             [windows] Wróć do opcji
            *[other] Wróć do preferencji
         }
+containers-back-button2 =
+    .aria-label = Wróć do ustawień
 containers-header = Karty z kontekstem
 containers-add-button =
     .label = Dodaj kontekst
@@ -656,6 +659,8 @@ containers-new-tab-check =
     .accesskey = W
 containers-preferences-button =
     .label = Preferencje
+containers-settings-button =
+    .label = Ustawienia
 containers-remove-button =
     .label = Usuń
 
@@ -666,6 +671,10 @@ sync-signedout-caption = Zabierz swoją sieć ze sobą
 sync-signedout-description = Synchronizuj zakładki, historię, karty, hasła, dodatki i preferencje między wszystkimi swoimi urządzeniami.
 sync-signedout-account-signin2 =
     .label = Zaloguj się do { -sync-brand-short-name(case: "gen", capitalization: "lower") }…
+    .accesskey = Z
+sync-signedout-description2 = Synchronizuj zakładki, historię, karty, hasła, dodatki i ustawienia między wszystkimi swoimi urządzeniami.
+sync-signedout-account-signin3 =
+    .label = Zaloguj się do synchronizacji…
     .accesskey = Z
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -706,6 +715,10 @@ prefs-sync-setup =
     .label = Skonfiguruj { -sync-brand-short-name(case: "acc", capitalization: "lower") }…
     .accesskey = S
 prefs-sync-offer-setup-label = Synchronizuj zakładki, historię, karty, hasła, dodatki i preferencje między wszystkimi swoimi urządzeniami.
+prefs-sync-turn-on-syncing =
+    .label = Włącz synchronizację…
+    .accesskey = s
+prefs-sync-offer-setup-label2 = Synchronizuj zakładki, historię, karty, hasła, dodatki i ustawienia między wszystkimi swoimi urządzeniami.
 prefs-sync-now =
     .labelnotsyncing = Synchronizuj teraz
     .accesskeynotsyncing = S
@@ -726,6 +739,7 @@ sync-currently-syncing-prefs =
         [windows] opcje
        *[other] preferencje
     }
+sync-currently-syncing-settings = ustawienia
 sync-change-options =
     .label = Zmień…
     .accesskey = m
@@ -773,6 +787,10 @@ sync-engine-prefs =
         }
     .tooltiptext = Zmienione ustawienia ogólne, uruchamiania, wyszukiwania, prywatności i bezpieczeństwa
     .accesskey = e
+sync-engine-settings =
+    .label = ustawienia
+    .tooltiptext = Zmienione ustawienia ogólne, uruchamiania, wyszukiwania, prywatności i bezpieczeństwa
+    .accesskey = u
 
 ## The device name controls.
 
@@ -1187,6 +1205,11 @@ space-alert-under-5gb-ok-button =
     .label = OK
     .accesskey = O
 space-alert-under-5gb-message = Przeglądarce { -brand-short-name } zaczyna brakować miejsca na dysku. Zawartość stron może być wyświetlana niepoprawnie. Skorzystaj z odnośnika „Więcej informacji”, aby zoptymalizować użycie dysku dla lepszego przeglądania.
+space-alert-over-5gb-settings-button =
+    .label = Otwórz ustawienia
+    .accesskey = O
+space-alert-over-5gb-message2 = <strong>Przeglądarce { -brand-short-name } zaczyna brakować miejsca na dysku.</strong> Zawartość stron może być wyświetlana niepoprawnie. Przechowywane dane może wyczyścić w Ustawienia → Prywatność i bezpieczeństwo → Ciasteczka i dane stron.
+space-alert-under-5gb-message2 = <strong>Przeglądarce { -brand-short-name } zaczyna brakować miejsca na dysku.</strong> Zawartość stron może być wyświetlana niepoprawnie. Skorzystaj z odnośnika „Więcej informacji”, aby zoptymalizować użycie dysku dla lepszego przeglądania.
 
 ## Privacy Section - HTTPS-Only
 
