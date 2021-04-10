@@ -995,7 +995,7 @@ addressbar-suggestions-settings = Αλλαγή προτιμήσεων για τ�
 ## Privacy Section - Content Blocking
 
 content-blocking-enhanced-tracking-protection = Ενισχυμένη προστασία από καταγραφή
-content-blocking-section-top-level-description = Οι ιχνηλάτες σάς ακολουθούν στο διαδίκτυο για να συλλέξουν πληροφορίες σχετικά με τις συνήθειες και τα ενδιαφέροντά σας. Το { -brand-short-name } αποκλείει πολλούς από αυτούς τους ιχνηλάτες και άλλα κακόβουλα σενάρια.
+content-blocking-section-top-level-description = Οι ιχνηλάτες σάς ακολουθούν στο διαδίκτυο για να συλλέξουν δεδομένα σχετικά με τις συνήθειες και τα ενδιαφέροντά σας. Το { -brand-short-name } αποκλείει πολλούς από αυτούς τους ιχνηλάτες και άλλα κακόβουλα σενάρια.
 content-blocking-learn-more = Μάθετε περισσότερα
 content-blocking-fpi-incompatibility-warning = Χρησιμοποιείτε τη λειτουργία First Party Isolation (FPI), που παρακάμπτει ορισμένες ρυθμίσεις του { -brand-short-name } σχετικά με τα cookies.
 
