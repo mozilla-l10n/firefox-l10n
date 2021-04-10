@@ -13,3 +13,4 @@
 <!ENTITY storage.popupMenu.deleteAllSessionCookiesLabel "Нест кардани кукиҳои ҳамаи сомонаҳо">
 
 <!-- LOCALIZATION NOTE : Label of popup menu action to copy a storage item. -->
+<!ENTITY storage.popupMenu.copyLabel "Нусха бардоштан">

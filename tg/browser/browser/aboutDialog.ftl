@@ -29,7 +29,7 @@ aboutdialog-help-user = Кумаки { -brand-product-name }
 aboutdialog-submit-feedback = Ирсоли изҳори назар
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> <label data-l10n-name="community-exp-creditsLink">ҷамъияти умумиҷаҳоние</label> мебошад, ки аъзои он барои ҳифзи Интернети кушод, оммавӣ ва ба ҳама дастрас ҳамкорӣ мекунанд.
 community-2 = { -brand-short-name } аз ҷониби <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label> <label data-l10n-name="community-creditsLink">ҷамъияти умумиҷаҳоние</label> эҷод карда шудааст, ки аъзои он барои ҳифзи Интернети кушод, оммавӣ ва ба ҳама дастрас ҳамкорӣ мекунанд.
-helpus = Кумак лозим аст? <label data-l10n-name="helpus-donateLink">Кумаки пулӣ расонед</label> ё <label data-l10n-name="helpus-getInvolvedLink">иштирок кунед!</label>
+helpus = Мехоҳед, ки кумак кунед? <label data-l10n-name="helpus-donateLink">Кумаки пулӣ расонед</label> ё <label data-l10n-name="helpus-getInvolvedLink">иштирок кунед!</label>
 bottomLinks-license = Маълумот дар бораи гувоҳинома
 bottomLinks-rights = Ҳуқуқҳои корбари ниҳоӣ
 bottomLinks-privacy = Сиёсати махфият

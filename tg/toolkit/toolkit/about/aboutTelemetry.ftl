@@ -14,6 +14,8 @@ about-telemetry-filter-placeholder =
     .placeholder = Ҷустуҷӯ дар { $selectedTitle }
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = ҳама
+# button label to copy the histogram
+about-telemetry-histogram-copy = Нусха бардоштан
 # Variables:
 #   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
 about-telemetry-addon-provider = Таъминкунандаи { $addonProvider }
