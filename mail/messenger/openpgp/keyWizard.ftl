@@ -22,7 +22,9 @@ radio-gnupg-key =
 
 ## Generate key section
 
+openpgp-generate-key-title = Ustvari ključ OpenPGP
 openpgp-keygen-expiry-title = Pretek ključa
+openpgp-keygen-expiry-description = Določite datum preteka novo ustvarjenega ključa. Veljavnost lahko pozneje po potrebi podaljšate.
 radio-keygen-expiry =
     .label = Ključ preteče čez
     .accesskey = t
@@ -36,6 +38,7 @@ openpgp-keygen-months-label =
 openpgp-keygen-years-label =
     .label = let
 openpgp-keygen-advanced-title = Napredne nastavitve
+openpgp-keygen-advanced-description = Nadzirajte napredne nastavitve ključa OpenPGP.
 openpgp-keygen-keytype =
     .value = Vrsta ključa:
     .accesskey = V
