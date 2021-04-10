@@ -71,6 +71,7 @@ about-logins-list-item-vulnerable-password-icon =
 
 login-intro-heading = Tschertgas ti tias infurmaziuns d'annunzia memorisadas? Configurescha { -sync-brand-short-name }.
 about-logins-login-intro-heading-logged-out = Tschertgas ti tias infurmaziuns d'annunzia memorisadas? Configurescha { -sync-brand-short-name } u las importescha.
+about-logins-login-intro-heading-logged-out2 = Tschertgas ti tias infurmaziuns d'annunzia memorisadas? Activescha la sincronisaziun u las importescha.
 about-logins-login-intro-heading-logged-in = Chattà naginas infurmaziuns d'annunzia sincronisadas.
 login-intro-description = Sche ti has memorisà tias infurmaziuns d'annunzia en { -brand-product-name } sin in auter apparat, vegns ti a savair qua co acceder ad ellas:
 login-intro-instruction-fxa = Acceda al u creescha in { -fxaccount-brand-name } cun l'apparat nua che las infurmaziuns d'annunzia èn memorisadas
