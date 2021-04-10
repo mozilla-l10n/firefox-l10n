@@ -282,7 +282,7 @@ about-logins-import-dialog-items-modified =
     }
 about-logins-import-dialog-items-no-change =
     { $count ->
-       *[other] <span>Löydettiin päällekkäisiä kirjautumistietoja:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ei tuotu)</span>
+       *[other] <span>Löydettiin kirjautumistietojen kopioita:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ei tuotu)</span>
     }
 about-logins-import-dialog-items-error =
     { $count ->
@@ -332,6 +332,14 @@ about-logins-import-report-added =
 about-logins-import-report-modified =
     { $count ->
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">olemassa olevaa kirjautumistietoa päivitetty</div>
+    }
+about-logins-import-report-no-change =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">kirjautumistietojen kopiota</div> <div data-l10n-name="not-imported">(ei tuotu)</div>
+    }
+about-logins-import-report-error =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">virhettä</div> <div data-l10n-name="not-imported">(ei tuotu)</div>
     }
 
 ## Logins import report page
