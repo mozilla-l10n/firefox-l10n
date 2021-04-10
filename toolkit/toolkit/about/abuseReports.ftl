@@ -59,6 +59,7 @@ abuse-report-spam-example = Exemplu: Inxerta anuncios nos sitios web
 abuse-report-settings-reason-v2 = Camudó'l mio motor de busca, la páxina d'aniciu o la páxina «Llingüeta nueva» ensin informame o pidímelo
 abuse-report-broken-reason-extension-v2 = Nun funciona, estropia los sitios web o fai que { -brand-product-name } vaiga lentu
 abuse-report-broken-reason-theme-v2 = Nun funciona o fai que'l restolar nun se vea bien
+abuse-report-broken-example = Exemplu: Les carauterístiques son lentes, difíciles d'usar o nun funcionen; partes de los sitios web nun carguen o vense raro
 abuse-report-policy-reason-v2 = Contién conteníu illegal, d'odiu o violentu
 abuse-report-unwanted-reason-v2 = Enxamás la quixi y nun sé cómo quitala
 abuse-report-unwanted-example = Exemplu: Instalóse una aplicación ensin el mio permisu
