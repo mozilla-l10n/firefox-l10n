@@ -7,6 +7,12 @@
 
 appmenuitem-update-banner =
     .label-update-downloading = Pobieranie aktualizacji programu { -brand-shorter-name }
+appmenuitem-update-banner2 =
+    .label-update-downloading = Pobieranie aktualizacji programu { -brand-shorter-name }
+    .label-update-available = Aktualizacja jest dostępna — pobierz teraz
+    .label-update-manual = Aktualizacja jest dostępna — pobierz teraz
+    .label-update-unsupported = Nie można uaktualnić
+    .label-update-restart = Aktualizacja jest dostępna — uruchom ponownie
 appmenuitem-protection-dashboard-title = Panel ochrony
 appmenuitem-customize-mode =
     .label = Dostosuj…
@@ -21,6 +27,8 @@ appmenuitem-passwords =
     .label = Hasła
 appmenuitem-extensions-and-themes =
     .label = Rozszerzenia i motywy
+appmenuitem-addons-and-themes =
+    .label = Dodatki i motywy
 appmenuitem-find-in-page =
     .label = Znajdź na stronie…
 appmenuitem-more-tools =
@@ -33,6 +41,18 @@ appmenu-menu-button-closed =
 appmenu-menu-button-opened =
     .tooltiptext = Zamknij menu aplikacji
     .label = { -brand-shorter-name }
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Zakończ
+           *[other] Zakończ
+        }
+appmenu-menu-button-closed2 =
+    .tooltiptext = Otwórz menu aplikacji
+    .label = { -brand-short-name }
+appmenu-menu-button-opened2 =
+    .tooltiptext = Zamknij menu aplikacji
+    .label = { -brand-short-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -51,6 +71,10 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Synchronizuj teraz
+appmenu-remote-tabs-sign-into-sync =
+    .label = Zaloguj się do synchronizacji…
+appmenu-remote-tabs-turn-on-sync =
+    .label = Włącz synchronizację…
 appmenuitem-fxa-toolbar-sync-now2 = Synchronizuj teraz
 appmenuitem-fxa-manage-account = Zarządzaj kontem
 appmenu-fxa-header =
@@ -165,6 +189,9 @@ appmenu-help-safe-mode-with-addons =
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-enter-troubleshoot-mode2 =
+    .label = Tryb rozwiązywania problemów…
+    .accesskey = T
 appmenu-help-exit-troubleshoot-mode =
     .label = Wyłącz tryb rozwiązywania problemów
     .accesskey = t
