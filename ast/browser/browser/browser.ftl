@@ -69,7 +69,7 @@ urlbar-tip-icon-description =
 ## Variables:
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
-urlbar-search-tips-onboard = Teclexa menos, atopa más: Busca en «{ $engineName }» direutamente dende la barra de direiciones.
+urlbar-search-tips-onboard = Teclexa menos, atopa más: Busca direutamente en «{ $engineName }» dende la barra de direiciones.
 urlbar-search-tips-redirect-2 = Comienza la busca na barra de direiciones pa ver les suxerencies de { $engineName } y l'historial de restolar.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
