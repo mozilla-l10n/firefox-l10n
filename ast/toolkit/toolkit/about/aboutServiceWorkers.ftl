@@ -5,6 +5,11 @@
 
 ### The term "Service Workers" and "Workers" should not be translated
 
+# The original title of service workers' information
+#
+# Variables:
+#   $originTitle: original title
+origin-title = Orixe: { $originTitle }
 
 ## These strings are for showing the information of workers.
 ##
@@ -12,3 +17,4 @@
 ##  $name: the name of scope, active cache, waiting cache and the push end point.
 ##  $url: the url of script specification and current worker.
 
+waiting = Esperando…
