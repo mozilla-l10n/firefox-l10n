@@ -77,6 +77,7 @@ login-intro-description = Se guardou as suas credenciais para o { -brand-product
 login-intro-instruction-fxa = Crie ou inicie a sessão na sua { -fxaccount-brand-name } no dispositivo onde as suas credenciais estão guardadas
 login-intro-instruction-fxa-settings = Certifique-se que ativou a opção Credenciais nas definições do { -sync-brand-short-name }
 about-logins-intro-instruction-help = Visite o <a data-l10n-name="help-link">Apoio do { -lockwise-brand-short-name }</a> para mais ajuda
+login-intro-instructions-fxa = Crie ou inicie a sessão na sua { -fxaccount-brand-name } no dispositivo onde as suas credenciais estão guardadas
 login-intro-instructions-fxa-settings = Aceda a Definições > Sincronizar > Ativar sincronização... Marque a caixa de seleção Credenciais e palavras-passe.
 login-intro-instructions-fxa-help = Visite o <a data-l10n-name="help-link">Apoio do { -lockwise-brand-short-name }</a> para mais ajuda.
 about-logins-intro-import = Se as suas credenciais estão guardadas noutro navegador, pode <a data-l10n-name="import-link">importar as mesmas para o { -lockwise-brand-short-name }</a>
@@ -317,6 +318,7 @@ about-logins-import-dialog-error-unable-to-read-description = Certifique-se que 
 about-logins-import-dialog-error-no-logins-imported = Não foram importadas credenciais
 about-logins-import-dialog-error-learn-more = Saber mais
 about-logins-import-dialog-error-try-again = Tentar novamente…
+about-logins-import-dialog-error-try-import-again = Tente importar novamente...
 about-logins-import-dialog-error-cancel = Cancelar
 about-logins-import-report-title = Resumo de importação
 about-logins-import-report-description = Credenciais e palavras-passe importadas para o { -brand-short-name }.
