@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 enable-learn-more-link = Маълумоти бештар дар бораи абзорҳои барномарезӣ
+enable-close-button = Пӯшидани варақаи ҷорӣ
 footer-learn-more-link = Маълумоти бештар
 features-learn-more = Маълумоти бештар
 features-inspector-title = Тафтишкунанда

@@ -28,5 +28,7 @@ ghost-windows = Варақаҳои ба наздикӣ пӯшидашуда
 
 ## Tooltips for the action buttons
 
+close-tab =
+    .title = Пӯшидани варақа
 show-addon =
     .title = Намоиш додан дар мудири ҷузъҳои иловагӣ

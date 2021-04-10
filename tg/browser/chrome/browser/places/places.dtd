@@ -38,6 +38,8 @@
 <!ENTITY cmd.restoreFromFile.accesskey  "C">
 
 <!ENTITY col.name.label          "Ном">
+<!ENTITY col.tags.label          "Барчаспҳо">
+<!ENTITY col.url.label           "Ҷойгиршавӣ">
 
 <!ENTITY cmd.find.key  "f">
 
