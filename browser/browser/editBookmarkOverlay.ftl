@@ -48,5 +48,5 @@ bookmark-overlay-keyword =
 bookmark-overlay-keyword-2 =
     .value = Schlüsselwort
     .accesskey = h
-bookmark-overlay-tags-caption-label = Schlagwörter können verwendet werden, um Lesezeichen zu organisieren und aus der Adressleiste zu suchen
-bookmark-overlay-keyword-caption-label = Schlüsselwörter können verwendet werden, um Lesezeichen direkt aus der Adressleiste zu öffnen
+bookmark-overlay-tags-caption-label = Schlagwörter können verwendet werden, um Lesezeichen zu organisieren und aus der Adressleiste zu suchen.
+bookmark-overlay-keyword-caption-label = Schlüsselwörter ermöglichen das Öffnen von Lesezeichen direkt aus der Adressleiste.

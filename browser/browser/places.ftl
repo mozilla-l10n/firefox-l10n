@@ -108,7 +108,7 @@ places-remove-bookmark =
             [1] Lesezeichen entfernen
            *[other] Lesezeichen entfernen
         }
-    .accesskey = e
+    .accesskey = n
 places-manage-bookmarks =
     .label = Lesezeichen verwalten
     .accesskey = v
