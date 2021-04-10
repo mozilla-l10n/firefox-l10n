@@ -28,6 +28,18 @@ search-input-box =
             [windows] Tschertgar en las preferenzas
            *[other] Tschertgar en las preferenzas
         }
+settings-page-title = Parameters
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box2 =
+    .style = width: 15.4em
+    .placeholder = Tschertgar en ils parameters
 managed-notice = Tes navigatur vegn administrà da tia organisaziun.
 category-list =
     .aria-label = Categorias
@@ -46,12 +58,16 @@ category-privacy =
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
+pane-sync-title3 = Sincronisaziun
+category-sync3 =
+    .tooltiptext = { pane-sync-title3 }
 pane-experimental-title = Experiments da { -brand-short-name }
 category-experimental =
     .tooltiptext = Experiments da { -brand-short-name }
 pane-experimental-subtitle = Proceder cun precauziun
 pane-experimental-search-results-header = Experiments da { -brand-short-name }: Cuntinuar cun precauziun
 pane-experimental-description = La modificaziun da la configuraziun da las preferenzas avanzadas po cumprometter la prestaziun u la segirezza da { -brand-short-name }.
+pane-experimental-description2 = La modificaziun da la configuraziun dals parameters avanzads po cumprometter la prestaziun u la segirezza da { -brand-short-name }.
 pane-experimental-reset =
     .label = Restaurar il standard
     .accesskey = R
@@ -121,6 +137,8 @@ search-results-empty-message =
         [windows] Perstgisa! Impussibel da chattar «<span data-l10n-name="query"></span>» en las preferenzas.
        *[other] Perstgisa! Impussibel da chattar «<span data-l10n-name="query"></span>» en las preferenzas.
     }
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 = Perstgisa! Impussibel da chattar «<span data-l10n-name="query"></span>» en ils parameters.
 search-results-help-link = Dovras agid? Consultescha las paginas <a data-l10n-name="url">{ -brand-short-name }d'agid</a>
 
 ## General Section
@@ -369,6 +387,9 @@ update-application-check-choose =
 update-application-manual =
     .label = Mai tschertgar actualisaziuns (betg recumandà)
     .accesskey = M
+update-application-background-enabled =
+    .label = Cura che { -brand-short-name } n'è betg en funcziun
+    .accesskey = C
 update-application-warning-cross-user-setting = Quest parameter pertutga tut ils contos da Windows e profils da { -brand-short-name } che utiliseschan questa installaziun da { -brand-short-name }.
 update-application-use-service =
     .label = Utilisar in servetsch per installar actualisaziuns senza interrupziun
@@ -379,6 +400,15 @@ update-setting-write-failure-title = Errur cun memorisar preferenzas per actuali
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message =
+    { -brand-short-name } è fruntà sin in problem e n'ha betg memorisà questa midada. Igl è necessari da pudair scriver en la datoteca sutvart per pudair definir quest parameter dad actualisaziuns. Eventualmain pos ti u l'administratur dal sistem schliar il problem cun permetter a la gruppa d'utilisaders l'access cumplain a questa datoteca.
+    
+    Impussibel da scriver en la datoteca: { $path }
+update-setting-write-failure-title2 = Errur cun memorisar ils parameters per actualisaziuns
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message2 =
     { -brand-short-name } è fruntà sin in problem e n'ha betg memorisà questa midada. Igl è necessari da pudair scriver en la datoteca sutvart per pudair definir quest parameter dad actualisaziuns. Eventualmain pos ti u l'administratur dal sistem schliar il problem cun permetter a la gruppa d'utilisaders l'access cumplain a questa datoteca.
     
     Impussibel da scriver en la datoteca: { $path }
@@ -579,6 +609,7 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Mussar propostas da tschertga en fanestras privatas
 suggestions-addressbar-settings-generic = Midar las preferenzas per avair autras propostas en la trav d'adressas
+suggestions-addressbar-settings-generic2 = Midar ils parameters per avair autras propostas en la trav d'adressas
 search-suggestions-cant-show = Propostas da tschertgar na vegnan betg mussadas en la trav d'adressas perquai che ti has configurà { -brand-short-name } uschia che la cronologia na vegn betg memorisada.
 search-one-click-header = Maschinas da tschertgar cun-in-clic
 search-one-click-header2 = Scursanidas per la tschertga
@@ -613,6 +644,8 @@ containers-back-button =
             [windows] Turnar a las preferenzas
            *[other] Turnar a las preferenzas
         }
+containers-back-button2 =
+    .aria-label = Turnar als parameters
 containers-header = Tabs da container
 containers-add-button =
     .label = Agiuntar in nov container
@@ -622,6 +655,8 @@ containers-new-tab-check =
     .accesskey = T
 containers-preferences-button =
     .label = Preferenzas
+containers-settings-button =
+    .label = Parameters
 containers-remove-button =
     .label = Allontanar
 
@@ -633,6 +668,10 @@ sync-signedout-description = Sincronisescha tes segnapaginas, tia cronologia, te
 sync-signedout-account-signin2 =
     .label = S'annunziar tar { -sync-brand-short-name }…
     .accesskey = t
+sync-signedout-description2 = Sincronisescha tes segnapaginas, tia cronologia, tes tabs, tes pleds-clav, tes supplements e tes parameters cun tut tes apparats.
+sync-signedout-account-signin3 =
+    .label = S'annunziar per sincronisar…
+    .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -672,6 +711,10 @@ prefs-sync-setup =
     .label = Configurar { -sync-brand-short-name }…
     .accesskey = C
 prefs-sync-offer-setup-label = Sincronisescha tes segnapaginas, tia cronologia, tes tabs, tes pleds-clav, tes supplements e tias preferenzas cun tut tes apparats.
+prefs-sync-turn-on-syncing =
+    .label = Activar la sincronisaziun…
+    .accesskey = s
+prefs-sync-offer-setup-label2 = Sincronisescha tes segnapaginas, tia cronologia, tes tabs, tes pleds-clav, tes supplements e tes parameters cun tut tes apparats.
 prefs-sync-now =
     .labelnotsyncing = Sincronisar ussa
     .accesskeynotsyncing = u
@@ -692,6 +735,7 @@ sync-currently-syncing-prefs =
         [windows] Preferenzas
        *[other] Preferenzas
     }
+sync-currently-syncing-settings = Parameters
 sync-change-options =
     .label = Modifitgar…
     .accesskey = M
@@ -739,6 +783,10 @@ sync-engine-prefs =
         }
     .tooltiptext = Preferenzas generalas, da la protecziun da datas e da segirezza che ti has midà
     .accesskey = a
+sync-engine-settings =
+    .label = Parameters
+    .tooltiptext = Parameters generals, da la protecziun da datas e da segirezza che ti has midà
+    .accesskey = s
 
 ## The device name controls.
 
@@ -1153,6 +1201,11 @@ space-alert-under-5gb-ok-button =
     .label = OK, chapì
     .accesskey = K
 space-alert-under-5gb-message = La memoria da { -brand-short-name } è prest plaina. Il cuntegn da websites na vegn forsa betg pli visualisà correctamain. Clicca sin «Ulteriuras infurmaziuns» per optimar l'utilisaziun da la memoria e per meglierar la prestaziun durant navigar.
+space-alert-over-5gb-settings-button =
+    .label = Avrir ils parameters
+    .accesskey = A
+space-alert-over-5gb-message2 = <strong>La capacitad da memorisar da { -brand-short-name } è prest exausta.</strong> Il cuntegn da websites na vegn eventualmain betg visualisà endretg. Ti pos stizzar datas memorisadas en Parameters > Protecziun da datas & segirezza > Cookies e datas da websites.
+space-alert-under-5gb-message2 = <strong>La memoria da { -brand-short-name } è prest plaina.</strong> Il cuntegn da websites na vegn eventualmain betg pli visualisà endretg. Clicca sin «Ulteriuras infurmaziuns» per optimar l'utilisaziun da la memoria e per meglierar la prestaziun durant la navigaziun.
 
 ## Privacy Section - HTTPS-Only
 

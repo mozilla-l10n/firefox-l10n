@@ -11,6 +11,8 @@
 
 ## Application Menu (macOS only)
 
+menu-application-preferences =
+    .label = Preferenzas
 menu-application-services =
     .label = Servetschs
 menu-application-hide-this =
@@ -261,6 +263,9 @@ menu-tools-fxa-sign-in2 =
 menu-tools-turn-on-sync =
     .label = Activar { -sync-brand-short-name }…
     .accesskey = v
+menu-tools-turn-on-sync2 =
+    .label = Activar la sincronisaziun…
+    .accesskey = n
 menu-tools-sync-now =
     .label = Sincronisar ussa
     .accesskey = S

@@ -34,6 +34,9 @@ sidebar-preferences-button-title =
             [windows] Preferenzas da { -brand-short-name }
            *[other] Preferenzas da { -brand-short-name }
         }
+addons-settings-button = Parameters da { -brand-short-name }
+sidebar-settings-button-title =
+    .title = Parameters da { -brand-short-name }
 show-unsigned-extensions-button =
     .label = Impussibel da verifitgar tschertas extensiuns
 show-all-extensions-button =
@@ -381,9 +384,6 @@ addon-detail-private-browsing-disallow = Betg permetter
 addon-badge-recommended2 =
     .title = { -brand-product-name } recumonda mo extensiuns che correspundan a noss standards da segirezza e prestaziun
     .aria-label = { addon-badge-recommended2.title }
-addon-badge-line2 =
-    .title = Quai è ina extensiun uffiziala sviluppada dals creaders da { -brand-product-name }
-    .aria-label = { addon-badge-line2.title }
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =

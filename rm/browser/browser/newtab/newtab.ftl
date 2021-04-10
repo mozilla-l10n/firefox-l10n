@@ -19,6 +19,20 @@ newtab-search-box-search-button =
     .title = Tschertgar
     .aria-label = Tschertgar
 newtab-search-box-search-the-web-text = Tschertgar en il Web
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-text = Tschertgar cun { $engine } u endatar in'adressa
+newtab-search-box-handoff-text-no-engine = Tschertgar u endatar in'adressa
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-input =
+    .placeholder = Tschertgar cun { $engine } u endatar in'adressa
+    .title = Tschertgar cun { $engine } u endatar in'adressa
+    .aria-label = Tschertgar cun { $engine } u endatar in'adressa
+newtab-search-box-handoff-input-no-engine =
+    .placeholder = Tschertgar u endatar in'adressa
+    .title = Tschertgar u endatar in'adressa
+    .aria-label = Tschertgar u endatar in'adressa
 newtab-search-box-search-the-web-input =
     .placeholder = Tschertgar en il Web
     .title = Tschertgar en il Web

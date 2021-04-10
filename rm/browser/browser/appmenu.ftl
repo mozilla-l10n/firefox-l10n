@@ -47,6 +47,12 @@ appmenuitem-exit2 =
             [linux] Terminar
            *[other] Terminar
         }
+appmenu-menu-button-closed2 =
+    .tooltiptext = Avrir il menu d'applicaziun
+    .label = { -brand-short-name }
+appmenu-menu-button-opened2 =
+    .tooltiptext = Serrar il menu d'applicaziun
+    .label = { -brand-short-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -65,6 +71,10 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sincronisar ussa
+appmenu-remote-tabs-sign-into-sync =
+    .label = S'annunziar per sincronisar…
+appmenu-remote-tabs-turn-on-sync =
+    .label = Activar la sincronisaziun…
 appmenuitem-fxa-toolbar-sync-now2 = Sincronisar ussa
 appmenuitem-fxa-manage-account = Administrar il conto
 appmenu-fxa-header =

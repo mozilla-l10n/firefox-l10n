@@ -264,6 +264,8 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = Agiuntar in segnapagina
+bookmarks-edit-bookmark = Modifitgar il segnapagina
 bookmark-panel-cancel =
     .label = Interrumper
     .accesskey = I
@@ -281,6 +283,8 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = s
 bookmark-panel-done-button =
     .label = Terminar
+bookmark-panel-save-button =
+    .label = Memorisar
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -539,6 +543,13 @@ urlbar-result-action-tabtosearch-web = Tschertgar cun { $engine } direct en la t
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = Tschertgar en { $engine } direct en la trav d'adressas
+# Action text for copying to clipboard.
+urlbar-result-action-copy-to-clipboard = Copiar
+# Shows the result of a formula expression being calculated, the last = sign will be shown
+# as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result = = { $result }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -657,6 +668,20 @@ save-to-pocket-button =
 
 ## Customize Toolbar Buttons
 
+# Variables:
+#  $shortcut (String): keyboard shortcut to open the add-ons manager
+toolbar-addons-themes-button =
+    .label = Supplements e designs
+    .tooltiptext = Administrescha tes supplements e designs ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open settings (only on macOS)
+toolbar-settings-button =
+    .label = Parameters
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Avrir ils parameters ({ $shortcut })
+           *[other] Avrir ils parameters
+        }
 
 ## More items
 
