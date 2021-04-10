@@ -63,7 +63,7 @@ newtab-topsites-image-validation = Αποτυχία φόρτωσης εικόν�
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Ακύρωση
-newtab-topsites-delete-history-button = Διαγραφή από ιστορικό
+newtab-topsites-delete-history-button = Διαγραφή
 newtab-topsites-save-button = Αποθήκευση
 newtab-topsites-preview-button = Προεπισκόπηση
 newtab-topsites-add-button = Προσθήκη
