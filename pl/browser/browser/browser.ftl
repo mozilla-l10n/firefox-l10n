@@ -380,6 +380,27 @@ browser-tab-audio-pip = OBRAZ W OBRAZIE
 ## Variables:
 ##  $count (number): number of affected tabs
 
+browser-tab-mute =
+    { $count ->
+        [1] WYCISZ KARTĘ
+        [one] WYCISZ { $count } KARTĘ
+        [few] WYCISZ { $count } KARTY
+       *[many] WYCISZ { $count } KART
+    }
+browser-tab-unmute =
+    { $count ->
+        [1] WŁĄCZ DŹWIĘK
+        [one] WŁĄCZ DŹWIĘK W { $count } KARCIE
+        [few] WŁĄCZ DŹWIĘK W { $count } KARTACH
+       *[many] WŁĄCZ DŹWIĘK W { $count } KARTACH
+    }
+browser-tab-unblock =
+    { $count ->
+        [1] ODTWARZAJ
+        [one] ODTWARZAJ W { $count } KARCIE
+        [few] ODTWARZAJ W { $count } KARTACH
+       *[many] ODTWARZAJ W { $count } KARTACH
+    }
 
 ## Bookmarks toolbar items
 
@@ -531,6 +552,13 @@ urlbar-result-action-tabtosearch-web = szukaj w { $engine } prosto z paska adr
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = szukaj na witrynie { $engine } prosto z paska adresu
+# Action text for copying to clipboard.
+urlbar-result-action-copy-to-clipboard = kopiuj
+# Shows the result of a formula expression being calculated, the last = sign will be shown
+# as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result = = { $result }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -649,6 +677,20 @@ save-to-pocket-button =
 
 ## Customize Toolbar Buttons
 
+# Variables:
+#  $shortcut (String): keyboard shortcut to open the add-ons manager
+toolbar-addons-themes-button =
+    .label = Dodatki i motywy
+    .tooltiptext = Zarządzaj dodatkami i motywami ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open settings (only on macOS)
+toolbar-settings-button =
+    .label = Ustawienia
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Otwórz ustawienia ({ $shortcut })
+           *[other] Otwórz ustawienia
+        }
 
 ## More items
 
