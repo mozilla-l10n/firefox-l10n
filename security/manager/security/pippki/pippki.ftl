@@ -5,6 +5,8 @@
 
 ## Change Password dialog
 
+change-password-old = Contraseña actual:
+change-password-new = Contraseña nueva:
 
 ## Reset Password dialog
 
@@ -17,6 +19,7 @@
 
 ## Client Authorization Ask dialog
 
+client-auth-site-description = Esti sitiu solicitó que t'indentifiques con un certificáu:
 
 ## Set password (p12) dialog
 

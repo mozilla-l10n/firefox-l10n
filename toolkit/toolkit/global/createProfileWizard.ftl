@@ -5,6 +5,11 @@
 
 ## First wizard page
 
+create-profile-first-page-header =
+    { PLATFORM() ->
+        [macos] Introducción
+       *[other] Afáyate en { create-profile-window.title }
+    }
 
 ## Second wizard page
 
