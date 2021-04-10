@@ -20,6 +20,7 @@ can reach it easily. -->
 
 <!ENTITY  listAllTabs.label      "Рӯйхати ҳамаи варақаҳо">
 
+<!ENTITY tabCmd.label "Варақаи нав">
 <!ENTITY openFileCmd.label "Кушодани файл…">
 <!ENTITY printCmd.label "Чоп кардан ...">
 
@@ -42,11 +43,11 @@ this container is a toolbar. This avoids double-speaking. -->
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.syncSettings2.label "Танзимоти &syncBrand.shortName.label;">
+<!ENTITY fxa.menu.connectAnotherDevice2.label "Пайваст кардани дастгоҳи дигар…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
-<!ENTITY fxa.menu.connectAnotherDevice2.label "Пайваст кардани дастгоҳи дигар…">
 <!ENTITY fxa.menu.signin.label "Ворид шудан ба &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Фаъол кардани &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "Хидматҳои &brandProductName;">
@@ -193,6 +194,7 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY emailPageCmd.label           "Ирсоли пайванд тавассути почта…">
 
+<!ENTITY fullZoom.label                 "Танзими андоза">
 
 
 
