@@ -6,3 +6,4 @@ crashed-title = Tab crash reporter
 crashed-close-tab-button = Sneck Tab
 crashed-restore-tab-button = Restore This Tab
 crashed-restore-all-button = Restore Aw Crashed Tabs
+crashed-header = Och. Yer tab jist crashed.
