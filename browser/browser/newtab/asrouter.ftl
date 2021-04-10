@@ -128,7 +128,7 @@ cfr-doorhanger-sync-bookmarks-ok-button = Activar { -sync-brand-short-name }
 ## Login Sync
 
 cfr-doorhanger-sync-logins-header = Nun vuelvas escaecer nin una contraseña
-cfr-doorhanger-sync-logins-body = Atroxa y sincroniza de forma segura les contraseñes en tolos preseos de to.
+cfr-doorhanger-sync-logins-body = Atroxa y sincroniza de mou seguru les contraseñes en tolos preseos de to.
 cfr-doorhanger-sync-logins-ok-button = Activar { -sync-brand-short-name }
     .accesskey = A
 
@@ -142,7 +142,7 @@ cfr-doorhanger-send-tab-ok-button = Probar «Unviar la llingüeta»
 
 ## Firefox Send
 
-cfr-doorhanger-firefox-send-header = Comparti esti PDF de forma segura
+cfr-doorhanger-firefox-send-header = Comparti esti PDF de mou seguru
 cfr-doorhanger-firefox-send-body = Caltén los tos documentos confidenciales lloñe de miraes indiscretes col cifráu de puntu a puntu y un enllaz que desapaez cuando acabes.
 cfr-doorhanger-firefox-send-ok-button = Probar { -send-brand-name }
     .accesskey = P

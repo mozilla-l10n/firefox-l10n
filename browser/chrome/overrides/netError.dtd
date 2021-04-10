@@ -80,7 +80,7 @@ was trying to connect. -->
 <!ENTITY certerror.introPara2 "&brandShortName; detectó una amenaza potencial de seguranza y torgó la conexón a <span class='hostname'/>. Si visites esti sitiu, los atacantes podríen robar información como contraseñes, direiciones de corréu o tarxetes de creitu.">
 
 <!ENTITY certerror.expiredCert.introPara "&brandShortName; detectó un fallu y nun siguió hasta <span class='hostname'/>. El sitiu web nun ta bien configuráu o'l reló del ordenador tien mal la hora.">
-<!ENTITY certerror.expiredCert.sts.secondPara "Ye probable que'l certificáu del sitiu web caducare, lo qu'evita que &brandShortName; se conecte con seguranza.">
+<!ENTITY certerror.expiredCert.sts.secondPara "Ye probable que'l certificáu del sitiu web caducare, lo qu'evita que &brandShortName; se conecte de mou seguru.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "¿Qué puedo facer?">
 
@@ -111,6 +111,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.pagetitle2  "Alvertencia: Riesgu potencial de seguranza">
 <!ENTITY certerror.sts.pagetitle  "Nun se conectó: Problema potencial de seguranza">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> tien una política de seguranza llamada HSTS (HTTP Strict Transport Security), lo que significa que &brandShortName; namás pue conectase al agospiador de mou seguru. Nun pues amestar nenguna esceición pa visitar esti sitiu.">
 <!ENTITY certerror.copyToClipboard.label "Copiar el testu al cartafueyu">
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
