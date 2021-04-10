@@ -268,7 +268,7 @@ blocked-os-version = Bloqueado para a versão do seu sistema operacional.
 blocked-mismatched-version = Bloqueado para a sua versão incompatível do driver de video no registro e DLL
 # Variables
 # $driverVersion - The graphics driver version string
-try-newer-driver = Bloqueado para a versão do seu driver gráfico. Tentar atualizá-lo para, pelo menos, a versão { $driverVersion }.
+try-newer-driver = Bloqueado na versão do seu driver gráfico. Tente atualizar seu driver gráfico para a versão { $driverVersion } ou mais recente.
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Parâmetros ClearType

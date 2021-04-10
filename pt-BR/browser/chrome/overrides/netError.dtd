@@ -141,7 +141,7 @@ de que o &brandShortName; esteja autorizado a acessar a web.</li>
 
 <!ENTITY xfoBlocked.longDesc "<p>O &brandShortName; impediu que esta página fosse carregada neste contexto porque a página tem uma diretiva X-Frame-Options que não permite.</p>">
 
-<!ENTITY corruptedContentErrorv2.longDesc "<p>A página que está tentando ver não pode ser vista porque foi detectado um erro na transmissão de dados.</p><ul><li>Entre em contato com os proprietários do site para informá-los sobre este problema.</li></ul>">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>A página que você está tentando ver não pode ser exibida porque foi detectado um erro na transmissão de dados.</p><ul><li>Entre em contato com os proprietários do site para informar este problema.</li></ul>">
 
 <!ENTITY securityOverride.exceptionButton1Label "Aceitar o risco e continuar">
 
