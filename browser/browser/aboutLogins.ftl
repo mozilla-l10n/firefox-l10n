@@ -79,6 +79,8 @@ login-intro-instruction-fxa = Zarejestruj się lub zaloguj na { -fxaccount-brand
 login-intro-instruction-fxa-settings = Upewnij się, że opcja „Dane logowania” jest zaznaczona w ustawieniach { -sync-brand-short-name(case: "gen", capitalization: "lower") }
 about-logins-intro-instruction-help = <a data-l10n-name="help-link">Pomoc usługi { -lockwise-brand-short-name }</a> zawiera więcej informacji
 login-intro-instructions-fxa = Zarejestruj się lub zaloguj na { -fxaccount-brand-name(case: "loc", capitalization: "lower") } na urządzeniu, w którym zachowano dane logowania.
+login-intro-instructions-fxa-settings = Otwórz Ustawienia → Synchronizacja → Włącz synchronizację… i zaznacz pole „dane logowania i hasła”.
+login-intro-instructions-fxa-help = <a data-l10n-name="help-link">Pomoc usługi { -lockwise-brand-short-name }</a> zawiera więcej informacji.
 about-logins-intro-import = Jeśli dane logowania są zachowane w innej przeglądarce, możesz <a data-l10n-name="import-link">zaimportować je do usługi { -lockwise-brand-short-name }</a>
 about-logins-intro-import2 = Jeśli dane logowania są zachowane poza przeglądarką { -brand-product-name }, możesz <a data-l10n-name="import-browser-link">zaimportować je z innej przeglądarki</a> lub <a data-l10n-name="import-file-link">z pliku</a>
 
@@ -320,6 +322,7 @@ about-logins-import-dialog-error-unable-to-read-description = Upewnij się, że 
 about-logins-import-dialog-error-no-logins-imported = Żadne dane logowania nie zostały zaimportowane
 about-logins-import-dialog-error-learn-more = Więcej informacji
 about-logins-import-dialog-error-try-again = Spróbuj ponownie…
+about-logins-import-dialog-error-try-import-again = Spróbuj zaimportować ponownie…
 about-logins-import-dialog-error-cancel = Anuluj
 about-logins-import-report-title = Podsumowanie importowania
 about-logins-import-report-description = Dane logowania i hasła zaimportowane do przeglądarki { -brand-short-name }.
