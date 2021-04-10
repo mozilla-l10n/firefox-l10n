@@ -114,6 +114,8 @@ addon-updates-update-addons-automatically = Anovar automáticamente los compleme
 
 ## Status messages displayed when updating add-ons
 
+addon-updates-updating = Anovando los complementos
+addon-updates-none-found = Nun s'atoparon anovamientos
 
 ## Add-on install/debug strings for page options menu
 
