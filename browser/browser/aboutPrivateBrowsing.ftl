@@ -9,6 +9,16 @@ about-private-browsing-info-title = Vi estas en privata fenestro
 about-private-browsing-info-myths = Oftaj mitoj pri privata retumo
 about-private-browsing =
     .title = Serĉi en la teksaĵo
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff =
+    .title = Serĉi per { $engine } aŭ tajpi adreson
+about-private-browsing-handoff-no-engine =
+    .title = Serĉi aŭ tajpi adreson
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff-text = Serĉi per { $engine } aŭ tajpi adreson
+about-private-browsing-handoff-text-no-engine = Serĉi aŭ tajpi adreson
 about-private-browsing-not-private = Vi ne estas nun en privata fenestro.
 about-private-browsing-info-description = { -brand-short-name } forviŝos vian serĉan kaj retuman historion kiam vi finas la programon aŭ fermas ĉiujn langetojn kaj fenestrojn en privata retumo. Kvankam tio ĉi ne igas vin anonima por retejoj aŭ via reta provizanto, ĝi faciligas la taskon kaŝi vian retumon de aliaj uzantoj en la sama komputilo.
 about-private-browsing-need-more-privacy = Ĉu vi bezonas pli da privateco?
