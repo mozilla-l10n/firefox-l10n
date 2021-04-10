@@ -176,6 +176,9 @@ about-debugging-extension-location =
 # Displayed as name for the Main Process debug target in the Processes category. Only for
 # remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-name = Раванди асосӣ
+# Alt text used for the close icon of message component (warnings, errors and notifications).
+about-debugging-message-close-icon =
+    .alt = Пӯшидани паём
 # Label text used for the error details of message component.
 about-debugging-message-details-label-error = Тафсилоти хато
 # Label text used for the warning details of message component.
