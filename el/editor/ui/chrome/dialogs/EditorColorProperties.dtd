@@ -10,7 +10,7 @@
 <!ENTITY defaultColorsRadio.tooltip "Χρήση των ρυθμίσεων χρώματος από το περιηγητή του αναγνώστη μόνο">
 <!ENTITY customColorsRadio.label "Χρήση προσαρμοσμένων χρωμάτων:">
 <!ENTITY customColorsRadio.accessKey "π">
-<!ENTITY customColorsRadio.tooltip "Αυτές οι ρυθμίσεις χρωμάτων υποκαθιστούν τις ρυθμίσεις του περιηγητή">
+<!ENTITY customColorsRadio.tooltip "Αυτές οι ρυθμίσεις χρωμάτων αντικαθιστούν τις ρυθμίσεις του προγράμματος περιήγησης">
 
 <!ENTITY normalText.label "Κανονικό κείμενο">
 <!ENTITY normalText.accessKey "ν">
