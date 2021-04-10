@@ -78,8 +78,8 @@ appmenu-remote-tabs-turn-on-sync =
 appmenuitem-fxa-toolbar-sync-now2 = Συγχρονισμός τώρα
 appmenuitem-fxa-manage-account = Διαχείριση λογαριασμού
 appmenu-fxa-header =
-    .title = { -fxaccount-brand-name(case: "nom", capitalization: "upper") }
-appmenu-fxa-header2 = { -fxaccount-brand-name(case: "nom", capitalization: "upper") }
+    .title = { -fxaccount-brand-name }
+appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
