@@ -10,6 +10,8 @@ preferences-title =
             [windows] Настройки
            *[other] Настройки
         }
+preferences-tab-title =
+    .title = Настройки
 category-list =
     .aria-label = Категории
 pane-general-title = Основные
@@ -90,6 +92,7 @@ update-in-progress-ok-button = &Отменить
 update-in-progress-cancel-button = &Продолжить
 account-button = Параметры учётной записи
 addons-button = Расширения и темы
+open-addons-sidebar-button = Дополнения и темы
 
 ## OS Authentication dialog
 
@@ -165,6 +168,12 @@ customize-alert-label =
 tray-icon-label =
     .label = Показать значок в трее
     .accesskey = о
+biff-use-system-alert =
+    .label = Использовать системные уведомления
+tray-icon-unread-label =
+    .label = Показывать значок в трее для непрочитанных сообщений
+    .accesskey = а
+tray-icon-unread-description = Рекомендуется при использовании маленьких кнопок панели задач
 mail-system-sound-label =
     .label = Системный звуковой сигнал о приходе почты
     .accesskey = м
@@ -702,6 +711,17 @@ search-input-box =
             [windows] Найти в Настройках
            *[other] Найти в Настройках
         }
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-preferences-input =
+    .style = width: 15.4em
+    .placeholder = Поиск в Настройках
 
 ## Preferences UI Search Results
 
