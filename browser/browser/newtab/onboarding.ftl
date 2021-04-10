@@ -173,6 +173,11 @@ onboarding-multistage-set-default-subtitle = Szybko, bezpiecznie i prywatnie pr
 onboarding-multistage-set-default-primary-button-label = Ustaw jako domyślną
 onboarding-multistage-set-default-secondary-button-label = Nie teraz
 onboarding-multistage-pin-default-subtitle = Szybko, bezpiecznie i prywatnie przeglądaj Internet.
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-waiting-subtitle = Po otwarciu ustawień wybierz „{ -brand-short-name }” w sekcji Przeglądarka sieci Web
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-help-text = Spowoduje to przypięcie przeglądarki { -brand-short-name } do paska zadań i otwarcie ustawień
+onboarding-multistage-pin-default-primary-button-label = Ustaw przeglądarkę { -brand-short-name } jako główną
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Importuj hasła, <br/>zakładki i <span data-l10n-name="zap">więcej</span>
