@@ -10,6 +10,8 @@ about-telemetry-more-information = Маълумоти бештар лозим а
 #   $selectedTitle (String): the section name from the structure of the ping.
 about-telemetry-filter-placeholder =
     .placeholder = Ҷустуҷӯ дар { $selectedTitle }
+# used in the “Ping Type” select
+about-telemetry-telemetry-ping-type-all = ҳама
 # Variables:
 #   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
 about-telemetry-addon-provider = Таъминкунандаи { $addonProvider }

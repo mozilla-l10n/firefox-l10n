@@ -132,6 +132,7 @@ addon-name-disabled = { $name } (ғайрифаъол)
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> тоза карда шуд.
+pending-uninstall-undo-button = Бекор кардан
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =

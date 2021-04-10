@@ -35,6 +35,10 @@ about-webrtc-sdp-history-heading = Таърихи SDP
 
 ##
 
+# This adjective is used to label a table column. Cells in this column contain
+# the localized javascript string representation of "true" or are left blank.
+# This represents an attribute of an ICE candidate.
+about-webrtc-selected = Интихоб шуд
 about-webrtc-stats-clear = Пок кардани таърих
 
 ## These are used to display a header for a PeerConnection.
