@@ -216,8 +216,8 @@ cfr-whatsnew-better-pdf-body = Agora los documentos PDF ábrense direutamente en
 
 cfr-doorhanger-doh-body = La privacidá ye importante. Agora { -brand-short-name } empobina de mou seguru les tos solicitúes DNS, siempres que seya posible, a un serviciu asociáu pa protexete mentanto restoles.
 cfr-doorhanger-doh-header = Busques DNS más segures y cifraes
-cfr-doorhanger-doh-primary-button = Val, entendílo
-    .accesskey = V
+cfr-doorhanger-doh-primary-button = D'acuerdu, entendílo
+    .accesskey = D
 cfr-doorhanger-doh-primary-button-2 = D'acuerdu
     .accesskey = D
 cfr-doorhanger-doh-secondary-button = Desactivar
@@ -227,8 +227,8 @@ cfr-doorhanger-doh-secondary-button = Desactivar
 
 cfr-doorhanger-fission-body-approved = La privacidá ye importante. Agora { -brand-short-name } aislla los sitios web los unos d'otros, lo que fai difícil a crackers el robu de contraseñes, númberos de tarxetes de creitu y otra información sensible.
 cfr-doorhanger-fission-header = Aisllamientu de sitios
-cfr-doorhanger-fission-primary-button = Val, entendílo
-    .accesskey = V
+cfr-doorhanger-fission-primary-button = D'acuerdu, entendílo
+    .accesskey = D
 cfr-doorhanger-fission-secondary-button = Lleer más
     .accesskey = L
 
