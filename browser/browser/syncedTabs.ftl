@@ -42,3 +42,5 @@ synced-tabs-context-sync-now =
     .accesskey = х
 fxa-sign-in = Войти в { -sync-brand-short-name(case: "accusative") }
 turn-on-sync = Включить { -sync-brand-short-name(case: "accusative") }
+synced-tabs-fxa-sign-in = Войти в синхронизацию
+synced-tabs-turn-on-sync = Включить синхронизацию
