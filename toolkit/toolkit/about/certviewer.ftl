@@ -11,14 +11,19 @@ certificate-viewer-error-title = Asocedió daqué malo.
 ## Certificate information labels
 
 certificate-viewer-algorithm = Algoritmu
+certificate-viewer-certificate-authority = Entidá certificadora
 certificate-viewer-common-name = Nome habitual
 certificate-viewer-email-address = Direición de corréu
 certificate-viewer-country = País
+certificate-viewer-distribution-point = ID de distribución
 certificate-viewer-ip-address = Direición IP
 certificate-viewer-other-name = Otru nome
 certificate-viewer-exponent = Esponente
 certificate-viewer-id = ID
+certificate-viewer-key-id = ID de la clave
 certificate-viewer-key-size = Tamañu de la clave
+certificate-viewer-locality = Llugar
+certificate-viewer-location = Allugamientu
 certificate-viewer-method = Métodu
 certificate-viewer-name = Nome
 certificate-viewer-not-after = Dempués de
@@ -28,9 +33,12 @@ certificate-viewer-organizational-unit = Unidá organizativa
 certificate-viewer-policy = Política
 certificate-viewer-protocol = Protocolu
 certificate-viewer-public-value = Valor públicu
+certificate-viewer-qualifier = Calificador
+certificate-viewer-qualifiers = Calificadores
 certificate-viewer-sha-1 = SHA-1
 certificate-viewer-sha-256 = SHA-256
 certificate-viewer-serial-number = Númberu de serie
+certificate-viewer-signature-algorithm = Algoritmu de la robla
 certificate-viewer-timestamp = Marca de tiempu
 certificate-viewer-value = Valor
 certificate-viewer-version = Versión
@@ -38,6 +46,10 @@ certificate-viewer-issuer-name = Nome del emisor
 certificate-viewer-validity = Validez
 certificate-viewer-public-key-info = Información de la clave pública
 certificate-viewer-fingerprints = Buelgues
+certificate-viewer-certificate-policies = Polítiques del certificáu
+# This message is used as a row header in the Miscellaneous section.
+# The associated data cell contains links to download the certificate.
+certificate-viewer-download = Descarga
 # This message is used to replace boolean values (true/false) in several certificate fields, e.g. Certificate Authority
 # Variables:
 #   $boolean (String) - true/false value for the specific field

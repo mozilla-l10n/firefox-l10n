@@ -174,6 +174,7 @@ this container is a toolbar. This avoids double-speaking. -->
     secondary commands. -->
 <!ENTITY moreMenu.label "Más">
 
+<!ENTITY contentSearchSubmit.tooltip  "Unviar la busca">
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
      This string is displayed in the search box when the input field is empty. -->

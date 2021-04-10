@@ -9,6 +9,7 @@
 <!ENTITY retry.label "Retentar">
 <!ENTITY returnToPreviousPage.label "Dir p'atrás">
 <!ENTITY returnToPreviousPage1.label "Dir p'atrás (aconséyase)">
+<!ENTITY advanced2.label "Avanzao…">
 <!ENTITY viewCertificate.label "Ver el certificáu">
 
 <!-- Specific error messages -->
