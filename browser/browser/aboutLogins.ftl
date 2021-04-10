@@ -76,6 +76,7 @@ login-intro-description = Логиндерді басқа құрылғыдағы
 login-intro-instruction-fxa = Логиндеріңіз сақталған құрылғыда { -fxaccount-brand-name } тіркелгісін жасаңыз немесе оған кіріңіз
 login-intro-instruction-fxa-settings = { -sync-brand-short-name } баптауларында Логиндер белгіленгеніне көз жеткізіңіз
 about-logins-intro-instruction-help = Көбірек білу үшін, <a data-l10n-name="help-link">{ -lockwise-brand-short-name } қолдау көрсету сайтын</a> шолыңыз
+login-intro-instructions-fxa = Логиндеріңіз сақталған құрылғыда { -fxaccount-brand-name(capitalization: "sentence") } тіркелгісін жасаңыз немесе оған кіріңіз.
 about-logins-intro-import = Егер сіздің логиндеріңіз басқа браузерде сақталған болса, оларды <a data-l10n-name="import-link">{ -lockwise-brand-short-name } ішіне импорттай аласыз</a>
 about-logins-intro-import2 = Егер сіздің логиндеріңіз { -brand-product-name } сыртында сақталса, оларды <a data-l10n-name="import-browser-link">басқа браузерден</a> немесе <a data-l10n-name="import-file-link">файлдан</a> импорттауға болады
 
