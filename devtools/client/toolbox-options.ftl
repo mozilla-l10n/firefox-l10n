@@ -100,7 +100,7 @@ options-enable-chrome-label = Ενεργοποίηση εργαλειοθηκώ�
 options-enable-chrome-tooltip =
     .title = Η ενεργοποίηση αυτής της επιλογής θα σάς επιτρέψει να χρησιμοποιήσετε διάφορα εργαλεία προγραμματιστή στο πλαίσιο του προγράμματος περιήγησης (μέσω του Εργαλεία > Προγραμματιστής ιστού > Εργαλειοθήκη προγράμματος περιήγησης) και να αποσφαλματώσετε πρόσθετα στη διαχείριση προσθέτων
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
-options-enable-remote-label = Ενεργοποίηση απομακρυσμένης αποσφαλμάτωσης
+options-enable-remote-label = Ενεργοποίηση απομακρυσμένου ελέγχου σφαλμάτων
 options-enable-remote-tooltip2 =
     .title = Η ενεργοποίηση αυτής της επιλογής θα επιτρέψει τον εντοπισμό σφαλμάτων σε αυτό το παράθυρο του προγράμματος περιήγησης απομακρυσμένα
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
