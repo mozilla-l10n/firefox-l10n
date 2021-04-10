@@ -18,7 +18,7 @@
 <!ENTITY accountPasswordManager.label "Tukaj vneseno geslo bo shranjeno v Upravitelju gesel. Pustite to polje prazno, če želite ob prijavi na ta račun geslo vsakič znova vnesti.">
 
 <!ENTITY accountAdvancedTitle.label   "Dodatne možnosti">
-<!ENTITY accountAdvancedInfo.label    "Če želite, ta korak lahko preskočite.">
+<!ENTITY accountAdvancedInfo.label    "Če želite, lahko ta korak preskočite.">
 <!ENTITY accountAdvanced.newMailNotification.label   "Obveščaj o novi pošti">
 <!ENTITY accountAliasGroupbox.caption "Krajevni vzdevek">
 <!ENTITY accountAliasField.label      "Vzdevek:">
