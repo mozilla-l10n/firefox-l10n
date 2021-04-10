@@ -28,6 +28,18 @@ search-input-box =
             [windows] Szukaj w opcjach
            *[other] Szukaj w preferencjach
         }
+settings-page-title = Ustawienia
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box2 =
+    .style = width: 15.4em
+    .placeholder = Szukaj w ustawieniach
 managed-notice = Przeglądarka jest zarządzana przez administratora
 category-list =
     .aria-label = Kategorie
@@ -46,12 +58,16 @@ category-privacy =
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = Ustawienia dotyczące synchronizacji
+pane-sync-title3 = Synchronizacja
+category-sync3 =
+    .tooltiptext = Ustawienia dotyczące synchronizacji
 pane-experimental-title = Eksperymenty
 category-experimental =
     .tooltiptext = Eksperymenty przeglądarki { -brand-short-name }
 pane-experimental-subtitle = Zachowaj ostrożność
 pane-experimental-search-results-header = Eksperymenty przeglądarki { -brand-short-name }: zachowaj ostrożność
 pane-experimental-description = Modyfikacja zaawansowanych preferencji może wpłynąć na wydajność lub bezpieczeństwo przeglądarki { -brand-short-name }.
+pane-experimental-description2 = Modyfikacja zaawansowanych ustawień może wpłynąć na wydajność lub bezpieczeństwo przeglądarki { -brand-short-name }.
 pane-experimental-reset =
     .label = Przywróć domyślne
     .accesskey = P
@@ -121,6 +137,8 @@ search-results-empty-message =
         [windows] Niestety! W opcjach niczego nie odnaleziono dla wyszukiwania „<span data-l10n-name="query"></span>”.
        *[other] Niestety! W preferencjach niczego nie odnaleziono dla wyszukiwania „<span data-l10n-name="query"></span>”.
     }
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 = Niestety! W ustawieniach niczego nie odnaleziono dla wyszukiwania „<span data-l10n-name="query"></span>”.
 search-results-help-link = Potrzebujesz pomocy? Odwiedź <a data-l10n-name="url">pomoc przeglądarki { -brand-short-name }</a>.
 
 ## General Section
@@ -372,6 +390,9 @@ update-application-check-choose =
 update-application-manual =
     .label = niesprawdzanie dostępności aktualizacji (niezalecane)
     .accesskey = n
+update-application-background-enabled =
+    .label = kiedy przeglądarka { -brand-short-name } nie jest włączona
+    .accesskey = k
 update-application-warning-cross-user-setting = To ustawienie będzie obowiązywać dla wszystkich kont systemu Windows i profilów programu { -brand-short-name } używających tej instalacji.
 update-application-use-service =
     .label = Używaj usługi instalowania aktualizacji działającej w tle
@@ -383,6 +404,15 @@ update-setting-write-failure-title = Błąd podczas zachowywania preferencji akt
 # intentional so the path is easier to identify.
 update-setting-write-failure-message =
     W przeglądarce { -brand-short-name } wystąpił błąd i nie zachowano tej zmiany. Zauważ, że ustawienie tej preferencji aktualizacji wymaga uprawnienia do zapisu do poniższego pliku. Ty lub administrator komputera może móc rozwiązać błąd przez udzielenie grupie „Użytkownicy” pełnej kontroli nad tym plikiem.
+    
+    Nie można zapisać do pliku: { $path }
+update-setting-write-failure-title2 = Błąd podczas zachowywania ustawień aktualizacji
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message2 =
+    W przeglądarce { -brand-short-name } wystąpił błąd i nie zachowano tej zmiany. Zauważ, że zmiana tego ustawienia aktualizacji wymaga uprawnienia do zapisu do poniższego pliku. Ty lub administrator komputera może móc rozwiązać błąd przez udzielenie grupie „Użytkownicy” pełnej kontroli nad tym plikiem.
     
     Nie można zapisać do pliku: { $path }
 update-in-progress-title = Trwa aktualizacja
