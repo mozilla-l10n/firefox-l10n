@@ -34,7 +34,7 @@ appmenuitem-find-in-page =
 appmenuitem-more-tools =
     .label = Lisää työkaluja
 appmenuitem-exit =
-    .label = Sulje
+    .label = Sulje selain
 appmenu-menu-button-closed =
     .tooltiptext = Avaa sovellusvalikko
     .label = { -brand-shorter-name }
@@ -44,8 +44,8 @@ appmenu-menu-button-opened =
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
-            [linux] Sulje
-           *[other] Sulje
+            [linux] Sulje selain
+           *[other] Sulje selain
         }
 appmenu-menu-button-closed2 =
     .tooltiptext = Avaa sovellusvalikko
