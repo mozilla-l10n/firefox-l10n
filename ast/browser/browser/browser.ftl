@@ -220,6 +220,7 @@ identity-clear-site-data =
     .label = Llimpiar les cookies y los datos de los sitios…
 identity-connection-not-secure-security-view = Nun tas conectáu de mou seguru a esti sitiu.
 identity-connection-verified = Tas conectáu de mou seguru a esti sitiu.
+identity-ev-owner-label = El certificáu emitióse pa:
 identity-description-custom-root = Mozilla nun reconoz esti emisor de certificaos. Pue ser que lu amestare'l sistema operativu o un alministrador. <label data-l10n-name="link">Lleer más</label>
 identity-description-insecure = La conexón a esti sitiu nun ye privada. La información (contraseñes o tarxetes de creitu) qu'unvies podríen vela terceros.
 identity-description-weak-cipher-intro = La conexón a esti sitiu web usa un cifráu feble y nun ye privada.
