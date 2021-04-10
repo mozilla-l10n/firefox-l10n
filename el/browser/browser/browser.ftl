@@ -487,7 +487,7 @@ urlbar-placeholder-search-mode-other-tabs =
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
-    .placeholder = Αναζήτηση με { $name } ή πληκτρολόγηση διεύθυνσης
+    .placeholder = Αναζήτηση με { $name } ή εισαγωγή διεύθυνσης
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Το πρόγραμμα περιήγησης ελέγχεται απομακρυσμένα
 urlbar-permissions-granted =
