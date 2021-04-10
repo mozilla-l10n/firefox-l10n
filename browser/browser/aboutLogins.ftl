@@ -74,10 +74,10 @@ about-logins-login-intro-heading-logged-out = Ψάχνετε τις αποθηκ
 about-logins-login-intro-heading-logged-out2 = Ψάχνετε τις αποθηκευμένες συνδέσεις σας; Ενεργοποιήστε τον συγχρονισμό ή εισάγετέ τες.
 about-logins-login-intro-heading-logged-in = Δεν βρέθηκαν συγχρονισμένες συνδέσεις.
 login-intro-description = Αν αποθηκεύσατε τις συνδέσεις σας στο { -brand-product-name } άλλης συσκευής, μπορείτε να τις μεταφέρετε εδώ ως εξής:
-login-intro-instruction-fxa = Στη συσκευή όπου έχουν αποθηκευτεί οι συνδέσεις σας, δημιουργήστε ή συνδεθείτε στον { -fxaccount-brand-name } σας
+login-intro-instruction-fxa = Στη συσκευή όπου έχουν αποθηκευτεί οι συνδέσεις σας, δημιουργήστε ή συνδεθείτε στον { -fxaccount-brand-name(case: "acc", capitalization: "lower") } σας
 login-intro-instruction-fxa-settings = Στις Ρυθμίσεις του { -sync-brand-short-name }, φροντίστε να επιλέξετε το κουτάκι Συνδέσεις.
 about-logins-intro-instruction-help = Αν χρειάζεστε περισσότερη βοήθεια, επισκεφτείτε την ενότητα <a data-l10n-name="help-link">Υποστήριξη { -lockwise-brand-short-name }</a>
-login-intro-instructions-fxa = Στη συσκευή όπου έχουν αποθηκευτεί οι συνδέσεις σας, δημιουργήστε ή συνδεθείτε στον { -fxaccount-brand-name } σας.
+login-intro-instructions-fxa = Στη συσκευή όπου έχουν αποθηκευτεί οι συνδέσεις σας, δημιουργήστε ή συνδεθείτε στον { -fxaccount-brand-name(case: "acc", capitalization: "lower") } σας.
 login-intro-instructions-fxa-settings = Μεταβείτε στις Ρυθμίσεις > Συγχρονισμός > Ενεργοποίηση συγχρονισμού… Επιλέξτε "Συνδέσεις και κωδικοί πρόσβασης".
 login-intro-instructions-fxa-help = Επισκεφθείτε την <a data-l10n-name="help-link">Υποστήριξη { -lockwise-brand-short-name }</a> για περισσότερη βοήθεια.
 about-logins-intro-import = Αν οι συνδέσεις σας είναι αποθηκευμένες σε άλλο πρόγραμμα περιήγησης, μπορείτε να <a data-l10n-name="import-link">τις εισάγετε στο { -lockwise-brand-short-name }</a>
@@ -202,8 +202,8 @@ about-logins-confirm-remove-all-sync-dialog-title =
     }
 about-logins-confirm-remove-all-sync-dialog-message =
     { $count ->
-        [1] Θα γίνει διαγραφή της σύνδεσης που έχετε αποθηκεύσει στο { -brand-short-name } σε όλες τις συγχρονισμένες συσκευές του { -fxaccount-brand-name } σας. Θα αφαιρεθούν επίσης και όλες οι ειδοποιήσεις παραβίασης που εμφανίζονται εδώ. Δεν είναι δυνατή η αναίρεση αυτής της ενέργειας.
-       *[other] Θα γίνει διαγραφή των συνδέσεων που έχετε αποθηκεύσει στο { -brand-short-name } σε όλες τις συγχρονισμένες συσκευές του { -fxaccount-brand-name } σας. Θα αφαιρεθούν επίσης και όλες οι ειδοποιήσεις παραβίασης που εμφανίζονται εδώ. Δεν είναι δυνατή η αναίρεση αυτής της ενέργειας.
+        [1] Θα γίνει διαγραφή της σύνδεσης που έχετε αποθηκεύσει στο { -brand-short-name } σε όλες τις συγχρονισμένες συσκευές του { -fxaccount-brand-name(case: "gen", capitalization: "lower") } σας. Θα αφαιρεθούν επίσης και όλες οι ειδοποιήσεις παραβίασης που εμφανίζονται εδώ. Δεν είναι δυνατή η αναίρεση αυτής της ενέργειας.
+       *[other] Θα γίνει διαγραφή των συνδέσεων που έχετε αποθηκεύσει στο { -brand-short-name } σε όλες τις συγχρονισμένες συσκευές του { -fxaccount-brand-name(case: "gen", capitalization: "lower") } σας. Θα αφαιρεθούν επίσης και όλες οι ειδοποιήσεις παραβίασης που εμφανίζονται εδώ. Δεν είναι δυνατή η αναίρεση αυτής της ενέργειας.
     }
 about-logins-confirm-export-dialog-title = Εξαγωγή συνδέσεων και κωδικών πρόσβασης
 about-logins-confirm-export-dialog-message = Οι κωδικοί πρόσβασής σας θα αποθηκευτούν ως αναγνώσιμο κείμενο (π.χ. BadP@ssw0rd), επομένως όποιος ανοίξει το αρχείο θα μπορέσει να τους δει.
