@@ -34,10 +34,12 @@
 <p>&brandShortName; nun pue cargar esta páxina por dalgún motivu.</p>
 ">
 
+<!ENTITY captivePortal.title "Aniciu de sesión na rede">
 <!ENTITY captivePortal.longDesc2 "
 <p>Has aniciar sesión nesta rede enantes de poder acceder a internet.</p>
 ">
 
+<!ENTITY openPortalLoginPage.label2 "Abrir la páxina d'aniciu de sesión">
 
 <!ENTITY malformedURI.pageTitle "La URL nun ye válida">
 
@@ -45,7 +47,17 @@
 
 
 
+<!ENTITY contentEncodingError.longDesc "
+<ul>
+  <li>Ponte en contautu colos propietarios del sitiu web pa informalos d'esti problema, por favor.</li>
+</ul>
+">
 
+<!ENTITY unsafeContentType.longDesc "
+<ul>
+  <li>Ponte en contautu colos propietarios del sitiu web pa informalos d'esti problema, por favor.</li>
+</ul>
+">
 
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
@@ -62,6 +74,7 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara2 "&brandShortName; detectó una amenaza potencial de seguranza y torgó la conexón a <span class='hostname'/>. Si visites esti sitiu, los atacantes podríen robar información como contraseñes, direiciones de corréu o tarxetes de creitu.">
 
+<!ENTITY certerror.expiredCert.introPara "&brandShortName; detectó un fallu y nun siguió hasta <span class='hostname'/>. El sitiu web nun ta bien configuráu o'l reló del ordenador tien mal la hora.">
 <!ENTITY certerror.expiredCert.sts.secondPara "Ye probable que'l certificáu del sitiu web caducare, lo qu'evita que &brandShortName; se conecte con seguranza.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "¿Qué puedo facer?">
@@ -82,11 +95,13 @@ was trying to connect. -->
 
 <!ENTITY securityOverride.exceptionButton1Label "Aceptar el riesgu y siguir">
 
+<!ENTITY errorReporting.automatic2 "Informar de fallos como esti p'ayudar a Mozilla a identificar y a bloquiar sitios maliciosos">
 <!ENTITY errorReporting.learnMore "Lleer más…">
 
 
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc2 "Información avanzada: SSL_ERROR_UNSUPPORTED_VERSION">
 
 <!ENTITY certerror.pagetitle2  "Alvertencia: Riesgu potencial de seguranza">
 <!ENTITY certerror.copyToClipboard.label "Copiar el testu al cartafueyu">
@@ -99,7 +114,7 @@ was trying to connect. -->
 
 
 
-<!ENTITY enableTls10.note "TLS 1.0 and TLS 1.1 van desactivase dafechu nes versiones futures.">
+<!ENTITY enableTls10.note "TLS 1.0 y TLS 1.1 van desactivase dafechu nes versiones futures.">
 <!ENTITY enableTls10.label "Activar TLS 1.0 y 1.1">
 
 <!ENTITY networkProtocolError.longDesc "<p>La páxina que tentes de ver nun pue amosase porque detectóse un fallu nel protocolu de rede.</p><ul><li>Ponte en contautu colos propietarios del sitiu web pa informalos d'esti problema, por favor.</li></ul>">
