@@ -28,6 +28,10 @@ perftools-heading-local-build = Τοπική έκδοση δομής
 perftools-description-intro =
     Οι εγγραφές εκκινούν το <a>profiler.firefox.com</a> σε νέα καρτέλα. Όλα τα δεδομένα αποθηκεύονται
     τοπικά, αλλά μπορείτε να τα μεταφορτώσετε για διαμοιρασμό.
+perftools-description-local-build =
+    Αν δημιουργείτε προφίλ για μια έκδοση που έχετε μεταγλωττίσει μόνοι σας,
+    σε αυτή τη συσκευή, προσθέστε την objdir του έργου σας στην παρακάτω λίστα
+    ώστε να μπορεί να χρησιμοποιηθεί για την αναζήτηση πληροφοριών συμβόλων.
 
 ## The controls for the interval at which the profiler samples the code.
 
@@ -45,6 +49,9 @@ perftools-devtools-settings-label = Ρυθμίσεις
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
+perftools-status-private-browsing-notice =
+    Το εργαλείο προφίλ απενεργοποιείται όταν είναι ενεργή η Ιδιωτική περιήγηση.
+    Κλείστε όλα τα Ιδιωτικά παράθυρα για εκ νέου ενεργοποίησή του
 perftools-status-recording-stopped-by-another-tool = Η εγγραφή τερματίστηκε από άλλο εργαλείο.
 perftools-status-restart-required = Θα πρέπει να επανεκκινήστε το πρόγραμμα περιήγησης για να ενεργοποιήσετε αυτή τη λειτουργία.
 
@@ -76,6 +83,8 @@ perftools-thread-renderer =
     .title = Το νήμα που εκτελεί κλήσεις OpenGL όταν είναι ενεργοποιημένο το WebRender
 perftools-thread-render-backend =
     .title = Το νήμα WebRender RenderBackend
+perftools-thread-paint-worker =
+    .title = Το νήμα στο οποίο γίνεται ο χρωματισμός όταν είναι ενεργός ο χρωματισμός εκτός κύριου νήματος
 perftools-thread-style-thread =
     .title = Ο υπολογισμός στυλ διαχωρίζεται σε πολλά νήματα
 pref-thread-stream-trans =
@@ -86,10 +95,14 @@ perftools-thread-img-decoder =
     .title = Νήματα αποκωδικοποίησης εικόνων
 perftools-thread-dns-resolver =
     .title = Η ανάλυση DNS συμβαίνει σε αυτό το thread
+perftools-thread-js-helper =
+    .title = Εργασία παρασκήνιου της μηχανής JS, όπως μεταγλωττίσεις εκτός του κύριου νήματος
 
 ##
 
 perftools-record-all-registered-threads = Παράκαμψη των παραπάνω επιλογών και εγγραφή όλων των καταχωρημένων νημάτων
+perftools-tools-threads-input-label =
+    .title = Αυτά τα ονόματα νημάτων είναι σε λίστα με διαχωρισμό με κόμματα όπου χρησιμοποιείται για την ενεργοποίηση της δημιουργίας προφίλ για νήματα στο εργαλείο προφίλ. Το όνομα θα πρέπει να περιέχει ένα μέρος του ονόματος του νήματος για αντιστοίχιση. Γίνεται διάκριση στο κενό διάστημα.
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
