@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "Άνοιγμα μενού">
+
 <!ENTITY navbarOverflow.label                "Περισσότερα εργαλεία…">
 
 <!-- Tab context menu -->
@@ -42,7 +43,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY fullScreenCmd.label "Πλήρης οθόνη">
 
-
 <!ENTITY pictureInPictureHideToggle.label "Απόκρυψη διακόπτη εικόνας εντός εικόνας">
 <!ENTITY pictureInPictureHideToggle.accesskey "Α">
 
@@ -53,6 +53,9 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Σύνδεση άλλης συσκευής…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     followed by the user's email. -->
 <!ENTITY fxa.menu.signin.label "Σύνδεση στο &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Ενεργοποίηση &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "Υπηρεσίες &brandProductName;">
@@ -146,6 +149,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY historyUndoWindowMenu.label "Πρόσφατα κλεισμένα παράθυρα">
 
 <!ENTITY appMenuHistory.showAll.label "Προβολή όλου του ιστορικού">
+
 <!ENTITY appMenuHistory.clearRecent.label "Εκκαθάριση πρόσφατου ιστορικού…">
 <!ENTITY appMenuHistory.restoreSession.label "Επαναφορά προηγούμενης συνεδρίας">
 <!ENTITY appMenuHistory.viewSidebar.label "Προβολή στήλης ιστορικού">
@@ -154,12 +158,15 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuHelp.label "Βοήθεια">
 
 <!ENTITY appMenuRemoteTabs.label "Συγχρονισμένες καρτέλες">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Δεν υπάρχουν ανοικτές καρτέλες">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showMore.label "Εμφάνιση περισσότερων">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.tooltip):
+     This is shown after the tabs list if we can display more tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showMore.tooltip "Εμφάνιση περισσότερων καρτελών από αυτή τη συσκευή">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
@@ -222,14 +229,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY emailPageCmd.label           "Αποστολή συνδέσμου…">
 
-<!-- Media (video/audio) controls -->
-
-<!-- LOCALIZATION NOTE :
-fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
-fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
-If shift key is needed with your locale popular keyboard for them,
-you can use these alternative items. Otherwise, their values should be empty.  -->
-
 <!ENTITY fullZoom.label                 "Ζουμ">
 
 <!ENTITY sidebarCloseButton.tooltip     "Κλείσιμο πλευρικής στήλης">
@@ -255,10 +254,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Προσθήκη λεξικών…">
 <!ENTITY spellAddDictionaries.accesskey "θ">
 
-
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
-<!ENTITY tabsToolbar.label "Καρτέλες περιηγητή">
+<!ENTITY tabsToolbar.label "Καρτέλα προγράμματος περιήγησης">
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
