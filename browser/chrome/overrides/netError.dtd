@@ -66,8 +66,15 @@ was trying to connect. -->
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "¿Qué puedo facer?">
 
+<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
+<p>Ye mui probable que'l problema seya del sitiu y nun puedas facer nada pa igualu.</p>
+<p>Si tas nun rede corporativa o uses un software antivirus, pues ponete en contautu colos equipos de sofitu pa tener más asistencia. Tamién pues avisar del problema al alministrador del sitiu web.</p>
+">
 
 
+<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
+<p>Ye mui probable que'l problema seya del sitiu y nun puedas facer nada pa igualu. Pues avisar del problema a los alministradores del sitiu web.</p>
+">
 
 
 
