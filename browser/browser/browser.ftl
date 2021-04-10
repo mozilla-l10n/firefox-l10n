@@ -651,7 +651,7 @@ bookmarks-toolbar-placeholder-button =
     .label = Στοιχεία γραμμής σελιδοδεικτών
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
-    .label = Προσθήκη σελιδοδείκτη καρτέλας
+    .label = Προσθήκη σελιδοδείκτη
 
 ## Library Panel items
 

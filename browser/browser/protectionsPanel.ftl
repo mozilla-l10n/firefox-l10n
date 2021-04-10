@@ -4,7 +4,7 @@
 
 protections-panel-sendreportview-error = Προέκυψε σφάλμα κατά την αποστολή της αναφοράς. Παρακαλούμε δοκιμάστε ξανά αργότερα.
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
-protections-panel-sitefixedsendreport-label = Η ιστοσελίδα διορθώθηκε; Αποστολή αναφοράς
+protections-panel-sitefixedsendreport-label = Διορθώθηκε η ιστοσελίδα; Αποστολή αναφοράς
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -50,9 +50,9 @@ protections-panel-content-blocking-fingerprinters-label = Fingerprinters
 ##   "None Detected" for categories not detected in the current page.
 ##   These strings are used in the header labels of each of these sections.
 
-protections-panel-blocking-label = Αποκλείστηκε
-protections-panel-not-blocking-label = Επιτρέπεται
-protections-panel-not-found-label = Δεν εντοπίστηκε κανένα
+protections-panel-blocking-label = Αποκλείονται
+protections-panel-not-blocking-label = Επιτρέπονται
+protections-panel-not-found-label = Δεν εντοπίστηκαν
 
 ##
 
