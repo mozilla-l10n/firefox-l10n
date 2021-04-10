@@ -266,6 +266,8 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = Dodaj zakładkę
+bookmarks-edit-bookmark = Edytuj zakładkę
 bookmark-panel-cancel =
     .label = Anuluj
     .accesskey = A
@@ -284,6 +286,8 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = W
 bookmark-panel-done-button =
     .label = Gotowe
+bookmark-panel-save-button =
+    .label = Zachowaj
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
