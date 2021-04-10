@@ -24,6 +24,13 @@ toolbar-context-menu-undo-close-tabs =
            *[other] Kumoa välilehtien sulkeminen
         }
     .accesskey = u
+toolbar-context-menu-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Avaa uudelleen suljettu välilehti
+           *[other] Avaa uudelleen suljetut välilehdet
+        }
+    .accesskey = u
 toolbar-context-menu-manage-extension =
     .label = Hallitse laajennusta
     .accesskey = a

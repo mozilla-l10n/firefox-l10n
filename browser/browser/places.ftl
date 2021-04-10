@@ -5,6 +5,9 @@
 places-open =
     .label = Avaa
     .accesskey = A
+places-open-in-tab =
+    .label = Avaa uuteen välilehteen
+    .accesskey = u
 places-open-tab =
     .label = Avaa uuteen välilehteen
     .accesskey = u
@@ -14,7 +17,13 @@ places-open-all-in-tabs =
 places-open-window =
     .label = Avaa uuteen ikkunaan
     .accesskey = v
+places-open-in-window =
+    .label = Avaa uuteen ikkunaan
+    .accesskey = v
 places-open-private-window =
+    .label = Avaa uuteen yksityiseen ikkunaan
+    .accesskey = y
+places-open-in-private-window =
     .label = Avaa uuteen yksityiseen ikkunaan
     .accesskey = y
 places-new-bookmark =
@@ -88,6 +97,15 @@ managed-bookmarks-subfolder =
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Muut kirjanmerkit
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-remove-bookmark =
+    .label =
+        { $count ->
+            [1] Poista kirjanmerkki
+           *[other] Poista kirjanmerkit
+        }
+    .accesskey = o
 places-manage-bookmarks =
     .label = Hallinnoi kirjanmerkkejä
     .accesskey = H

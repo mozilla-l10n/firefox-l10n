@@ -86,6 +86,13 @@ move-tabs =
 move-tab =
     .label = Siirrä välilehti
     .accesskey = r
+tab-context-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Avaa uudelleen suljettu välilehti
+           *[other] Avaa uudelleen suljetut välilehdet
+        }
+    .accesskey = u
 tab-context-close-tabs =
     .label =
         { $tabCount ->
