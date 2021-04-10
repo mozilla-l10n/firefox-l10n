@@ -22,7 +22,7 @@ protections-popup-footer-protection-label-standard = Τυπική
 protections-panel-etp-more-info =
     .aria-label = Περισσότερες πληροφορίες σχετικά με την Ενισχυμένη προστασία από καταγραφή
 protections-panel-etp-on-header = Η ενισχυμένη προστασία από καταγραφή είναι ενεργή για αυτή την ιστοσελίδα
-protections-panel-etp-off-header = Η ενισχυμένη προστασία από καταγραφή είναι ανενεργή για αυτή την ιστοσελίδα
+protections-panel-etp-off-header = Η Ενισχυμένη προστασία από καταγραφή είναι ανενεργή για αυτή την ιστοσελίδα
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Δεν λειτουργεί η ιστοσελίδα;
 # The heading/title of the sub-panel view

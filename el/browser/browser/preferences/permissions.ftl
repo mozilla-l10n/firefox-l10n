@@ -67,7 +67,7 @@ permissions-invalid-uri-label = Παρακαλώ εισάγετε ένα έγκ�
 ## Exceptions - Tracking Protection
 
 permissions-exceptions-etp-window =
-    .title = Εξαιρέσεις για τη βελτιωμένη προστασία από καταγραφή
+    .title = Εξαιρέσεις για την Ενισχυμένη προστασία από καταγραφή
     .style = { permissions-window.style }
 permissions-exceptions-etp-desc = Έχετε απενεργοποιήσει την προστασία σε αυτές τις ιστοσελίδες.
 
