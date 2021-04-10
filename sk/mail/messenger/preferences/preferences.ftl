@@ -10,6 +10,8 @@ preferences-title =
             [windows] Možnosti
            *[other] Možnosti
         }
+preferences-tab-title =
+    .title = Nastavenia
 category-list =
     .aria-label = Kategórie
 pane-general-title = Všeobecné
@@ -90,6 +92,7 @@ update-in-progress-ok-button = &Zrušiť
 update-in-progress-cancel-button = &Pokračovať
 account-button = Nastavenia účtu
 addons-button = Rozšírenia a témy vzhľadu
+open-addons-sidebar-button = Doplnky a témy
 
 ## OS Authentication dialog
 
@@ -708,6 +711,17 @@ search-input-box =
             [windows] Nájsť v možnostiach
            *[other] Nájsť v možnostiach
         }
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-preferences-input =
+    .style = width: 15.4em
+    .placeholder = Hľadať v nastaveniach
 
 ## Preferences UI Search Results
 

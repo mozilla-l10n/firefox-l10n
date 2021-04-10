@@ -9,6 +9,17 @@ menu-view-charset =
     .label = Kódovanie textu
     .accesskey = K
 
+## Tools Menu
+
+# Since v89 we dropped the platforms distinction between Options or Preferences
+# and consolidated everything with Preferences.
+menu-tools-preferences =
+    .label = Nastavenia
+    .accesskey = t
+menu-addons-and-themes =
+    .label = Doplnky a témy
+    .accesskey = D
+
 ## Help Menu
 
 menu-help-enter-troubleshoot-mode =
