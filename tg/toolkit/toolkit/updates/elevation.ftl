@@ -5,3 +5,4 @@
 
 elevation-details-link-label =
     .value = Тафсилот
+elevation-finished-background = Навсозӣ:

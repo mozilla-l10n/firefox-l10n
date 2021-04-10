@@ -13,6 +13,8 @@ options-select-dev-tools-theme-label = Мавзӯъҳо
 
 ## Inspector section
 
+# The heading
+options-context-inspector = Тафтишкунанда
 
 ## "Default Color Unit" options for the Inspector
 
