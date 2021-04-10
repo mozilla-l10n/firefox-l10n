@@ -110,5 +110,5 @@
 <!ENTITY CopyMessageId.accesskey "γ">
 <!ENTITY OpenMessageForMsgId.label "Άνοιγμα μηνύματος για ID">
 <!ENTITY OpenMessageForMsgId.accesskey "ο">
-<!ENTITY OpenBrowserWithMsgId.label "Άνοιγμα περιηγητή με Message-ID">
+<!ENTITY OpenBrowserWithMsgId.label "Άνοιγμα προγράμματος περιήγησης με Message-ID">
 <!ENTITY OpenBrowserWithMsgId.accesskey "π">
