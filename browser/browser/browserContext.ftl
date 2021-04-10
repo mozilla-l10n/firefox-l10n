@@ -375,7 +375,7 @@ main-context-menu-use-saved-password =
 
 main-context-menu-suggest-strong-password =
     .label = Starkes Passwort vorschlagen…
-    .accesskey = v
+    .accesskey = P
 main-context-menu-manage-logins =
     .label = Zugangsdaten verwalten…
     .accesskey = v
