@@ -172,6 +172,7 @@ onboarding-multistage-set-default-header = Ustaw przeglądarkę { -brand-short-n
 onboarding-multistage-set-default-subtitle = Szybko, bezpiecznie i prywatnie przeglądaj Internet.
 onboarding-multistage-set-default-primary-button-label = Ustaw jako domyślną
 onboarding-multistage-set-default-secondary-button-label = Nie teraz
+onboarding-multistage-pin-default-subtitle = Szybko, bezpiecznie i prywatnie przeglądaj Internet.
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Importuj hasła, <br/>zakładki i <span data-l10n-name="zap">więcej</span>
