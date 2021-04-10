@@ -4,3 +4,6 @@
 
 add-on-options-button =
     .title = Opcje dodatku
+atn-addons-heading-search-input =
+    .placeholder = Szukaj na stronie addons.thunderbird.net
+sidebar-preferences-button-title = Preferencje programu
