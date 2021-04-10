@@ -76,6 +76,9 @@ login-intro-description = Sche ti has memorisà tias infurmaziuns d'annunzia en 
 login-intro-instruction-fxa = Acceda al u creescha in { -fxaccount-brand-name } cun l'apparat nua che las infurmaziuns d'annunzia èn memorisadas
 login-intro-instruction-fxa-settings = Controllescha che la chaschetta da controlla «Infurmaziuns d'annunzia» saja activada en las preferenzas da { -sync-brand-short-name }
 about-logins-intro-instruction-help = Per agid, visitar <a data-l10n-name="help-link">il support da { -lockwise-brand-short-name }</a>
+login-intro-instructions-fxa = Acceda al u creescha in { -fxaccount-brand-name(capitalization: "sentence") } cun l'apparat nua che las infurmaziuns d'annunzia èn memorisadas
+login-intro-instructions-fxa-settings = Acceder a Parameters > Sync > Activar la sincronisaziun… Activar la chaschetta da controlla Infurmaziuns d'annunzia e pleds-clav.
+login-intro-instructions-fxa-help = Per agid, visitar <a data-l10n-name="help-link">il support da { -lockwise-brand-short-name }</a>.
 about-logins-intro-import = En cas che las infurmaziuns d'annunzia èn memorisadas en in auter navigatur èsi pussaivel da las <a data-l10n-name="import-link">importar en { -lockwise-brand-short-name }</a>
 about-logins-intro-import2 = Sche tias infurmaziuns d'annunzia èn memorisadas ordaifer { -brand-product-name }, pos ti <a data-l10n-name="import-browser-link">las importar dad in auter navigatur</a> u <a data-l10n-name="import-file-link">dad ina datoteca</a>
 
@@ -310,6 +313,7 @@ about-logins-import-dialog-error-unable-to-read-description = Controllescha che 
 about-logins-import-dialog-error-no-logins-imported = N'importà naginas datas d'annunzia
 about-logins-import-dialog-error-learn-more = Ulteriuras infurmaziuns
 about-logins-import-dialog-error-try-again = Empruvar anc ina giada…
+about-logins-import-dialog-error-try-import-again = Reempruvar dad importar…
 about-logins-import-dialog-error-cancel = Interrumper
 about-logins-import-report-title = Resumaziun da l'import
 about-logins-import-report-description = Annunzias e pleds-clav importads en { -brand-short-name }.
