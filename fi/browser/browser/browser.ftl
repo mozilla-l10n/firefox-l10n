@@ -669,6 +669,20 @@ save-to-pocket-button =
 
 ## Customize Toolbar Buttons
 
+# Variables:
+#  $shortcut (String): keyboard shortcut to open the add-ons manager
+toolbar-addons-themes-button =
+    .label = Lisäosat ja teemat
+    .tooltiptext = Hallitse lisäosia ja teemoja ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open settings (only on macOS)
+toolbar-settings-button =
+    .label = Asetukset
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Avaa asetukset ({ $shortcut })
+           *[other] Avaa asetuket
+        }
 
 ## More items
 
