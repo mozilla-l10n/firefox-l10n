@@ -4,3 +4,6 @@
 
 add-on-options-button =
     .title = Настройки дополнений
+atn-addons-heading-search-input =
+    .placeholder = Поиск на addons.thunderbird.net
+sidebar-preferences-button-title = Настройки { -brand-short-name }

@@ -9,6 +9,17 @@ menu-view-charset =
     .label = Кодировка текста
     .accesskey = о
 
+## Tools Menu
+
+# Since v89 we dropped the platforms distinction between Options or Preferences
+# and consolidated everything with Preferences.
+menu-tools-preferences =
+    .label = Настройки
+    .accesskey = а
+menu-addons-and-themes =
+    .label = Дополнения и темы
+    .accesskey = п
+
 ## Help Menu
 
 menu-help-enter-troubleshoot-mode =
