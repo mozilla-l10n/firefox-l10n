@@ -8,6 +8,7 @@ synced-tabs-sidebar-intro = Просмотрите список вкладок �
 synced-tabs-sidebar-unverified = Ваш аккаунт должен быть подтверждён.
 synced-tabs-sidebar-notabs = Нет открытых вкладок
 synced-tabs-sidebar-openprefs = Открыть настройки { -sync-brand-short-name(case: "genitive") }
+synced-tabs-sidebar-open-settings = Открыть настройки синхронизации
 synced-tabs-sidebar-tabsnotsyncing = Включите синхронизацию вкладок, чтобы увидеть список вкладок с других устройств.
 synced-tabs-sidebar-connect-another-device = Подключить другое устройство
 synced-tabs-sidebar-search =
