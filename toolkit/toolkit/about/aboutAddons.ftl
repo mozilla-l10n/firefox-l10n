@@ -63,6 +63,10 @@ detail-show-preferences =
         }
 detail-rating =
     .value = Valoración
+addon-restart-now =
+    .label = Reaniciar agora
+disabled-unsigned-heading =
+    .value = Desactiváronse dalgunos complementos
 plugin-deprecation-description = ¿Fáltate daqué? { -brand-short-name } yá nun sofita dalgunos complementos. <label data-l10n-name="learn-more">Lleer más</label>
 legacy-extensions =
     .value = Estensiones heredaes
@@ -115,6 +119,7 @@ addon-updates-update-addons-automatically = Anovar automáticamente los compleme
 ## Status messages displayed when updating add-ons
 
 addon-updates-updating = Anovando los complementos
+addon-updates-installed = Anováronse los complementos.
 addon-updates-none-found = Nun s'atoparon anovamientos
 
 ## Add-on install/debug strings for page options menu
