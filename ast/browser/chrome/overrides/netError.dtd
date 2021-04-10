@@ -63,6 +63,11 @@
 
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
+<!ENTITY unknownProtocolFound.longDesc "
+<ul>
+  <li>Quiciabes tengas d'instalar otru software p'abrir esta direición.</li>
+</ul>
+">
 
 
 
@@ -98,12 +103,14 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "Informar de fallos como esti p'ayudar a Mozilla a identificar y a bloquiar sitios maliciosos">
 <!ENTITY errorReporting.learnMore "Lleer más…">
 
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Ponte en contautu colos propietarios del sitiu web pa informalos d'esti problema.</li></ul></p>">
 
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Información avanzada: SSL_ERROR_UNSUPPORTED_VERSION">
 
 <!ENTITY certerror.pagetitle2  "Alvertencia: Riesgu potencial de seguranza">
+<!ENTITY certerror.sts.pagetitle  "Nun se conectó: Problema potencial de seguranza">
 <!ENTITY certerror.copyToClipboard.label "Copiar el testu al cartafueyu">
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
