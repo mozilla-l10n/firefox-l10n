@@ -301,6 +301,7 @@ about-logins-import-dialog-error-unable-to-read-description = Tarkista, että va
 about-logins-import-dialog-error-no-logins-imported = Kirjautumistietoja ei ole tuotu
 about-logins-import-dialog-error-learn-more = Lisätietoja
 about-logins-import-dialog-error-try-again = Yritä uudelleen…
+about-logins-import-dialog-error-try-import-again = Yritä tuontia uudelleen…
 about-logins-import-dialog-error-cancel = Peruuta
 about-logins-import-report-title = Tuonnin yhteenveto
 about-logins-import-report-description = { -brand-short-name }iin tuotavat käyttäjätunnukset ja salasanat.
@@ -308,6 +309,7 @@ about-logins-import-report-description = { -brand-short-name }iin tuotavat käyt
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = Rivi { $number }
+about-logins-import-report-row-description-no-change = Kopio: Olemassa olevan kirjautumistiedon tarkka kopio
 about-logins-import-report-row-description-modified = Olemassa oleva kirjautumistieto päivitetty
 about-logins-import-report-row-description-added = Uusi kirjautumistieto lisätty
 about-logins-import-report-row-description-error = Virhe: Puuttuva kenttä
