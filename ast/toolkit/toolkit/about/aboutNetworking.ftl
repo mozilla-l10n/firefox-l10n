@@ -5,6 +5,7 @@
 about-networking-http = HTTP
 about-networking-sockets = Ralures
 about-networking-dns = DNS
+about-networking-dns-clear-cache-button = Llimpiar la caché de DNS
 about-networking-dns-trr-url = URL de DoH
 about-networking-websockets = WebSockets
 about-networking-refresh = Refrescar
@@ -32,6 +33,9 @@ about-networking-dns-lookup-button = Resolver
 about-networking-dns-domain = Dominiu:
 about-networking-dns-lookup-table-column = IPs
 about-networking-rcwn-status = Estáu de RCWN
+about-networking-rcwn-operation = Operación de la caché
+about-networking-rcwn-avg-short = Media curtia
+about-networking-rcwn-avg-long = Media llarga
 
 ## Link is intended as "network link"
 
