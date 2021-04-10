@@ -77,7 +77,7 @@
 
 <!ENTITY securityOverride.linkText "Ou pode adicionar uma exceção…">
 <!ENTITY securityOverride.warningContent "<p>Você não deve adicionar uma exceção se estiver usando uma conexão com a internet que não confie totalmente ou se não costumava ver um alerta para este servidor.</p> 
-<p>Caso ainda deseje adicionar uma exceção para este site, pode fazê-lo nas configurações avançadas de criptografia.</p>">
+<p>Caso ainda queira adicionar uma exceção para este site, pode fazer isso nas configurações avançadas de criptografia.</p>">
 
 <!ENTITY cspBlocked.title "Bloqueado pela política de segurança de conteúdo">
 <!ENTITY cspBlocked.longDesc "<p>O navegador impediu esta página de carregar desta forma porque a política de segurança de conteúdo da página não permite.</p>">

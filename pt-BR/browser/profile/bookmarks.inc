@@ -11,7 +11,7 @@
 #define bookmarks_heading Favoritos
 
 #define bookmarks_toolbarfolder Pasta da barra de favoritos
-#define bookmarks_toolbarfolder_description Adicionar favoritos nesta pasta para vê-los exibidos na barra de favoritos
+#define bookmarks_toolbarfolder_description Adicione favoritos nesta pasta para aparecer na barra de favoritos
 
 # LOCALIZATION NOTE (getting_started):
 # link title for https://www.mozilla.org/en-US/firefox/central/
