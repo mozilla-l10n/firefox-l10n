@@ -27,6 +27,7 @@ about-networking-messages-received = Mensaxes recibíos
 about-networking-bytes-sent = Bytes unviaos
 about-networking-bytes-received = Bytes recibíos
 about-networking-logging = Rexistru
+about-networking-set-log-file = Afitar el ficheru de rexistru
 about-networking-start-logging = Aniciar el rexistru
 about-networking-stop-logging = Parar el rexistru
 about-networking-dns-lookup-button = Resolver
