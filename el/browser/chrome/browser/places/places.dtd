@@ -43,8 +43,8 @@
 
 <!ENTITY col.name.label          "Όνομα">
 <!ENTITY col.tags.label          "Ετικέτες">
-<!ENTITY col.url.label           "Τοποθεσία">
-<!ENTITY col.mostrecentvisit.label "Πιο πρόσφατη επίσκεψη">
+<!ENTITY col.url.label           "Διεύθυνση">
+<!ENTITY col.mostrecentvisit.label "Τελευταία επίσκεψη">
 <!ENTITY col.visitcount.label    "Αριθμός επισκέψεων">
 <!ENTITY col.dateadded.label     "Προσθήκη">
 <!ENTITY col.lastmodified.label  "Τελευταία τροποποίηση">
