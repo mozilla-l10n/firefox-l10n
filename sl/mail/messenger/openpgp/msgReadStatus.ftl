@@ -5,6 +5,14 @@
 
 ## Message Header Encryption Button
 
+message-header-show-security-info-key = v
+#   $type (String) - the shortcut key defined in the message-header-show-security-info-key
+message-security-button =
+    .title =
+        { PLATFORM() ->
+            [macos] Prikaži varnost sporočila (⌃ ⌘ { message-header-show-security-info-key })
+           *[other] Prikaži varnost sporočila (Ctrl+Alt+{ message-header-show-security-info-key })
+        }
 openpgp-view-signer-key =
     .label = Prikaži ključ podpisnika
 openpgp-view-your-encryption-key =
@@ -24,6 +32,8 @@ openpgp-sig-valid-verified = To sporočilo vključuje veljaven digitalni podpis 
 openpgp-sig-valid-own-key = To sporočilo vključuje veljaven digitalni podpis z vašega osebnega ključa.
 openpgp-sig-key-id = ID podpisnikovega ključa: { $key }
 openpgp-sig-key-id-with-subkey-id = ID podpisnikovega ključa: { $key } (ID podključa: { $subkey })
+openpgp-enc-key-id = ID vašega ključa za dešifriranje: { $key }
+openpgp-enc-key-with-subkey-id = ID vašega ključa za dešifriranje: { $key } (ID podključa: { $subkey })
 openpgp-unknown-key-id = Neznan ključ
 openpgp-other-enc-additional-key-ids = Poleg tega je bilo sporočilo šifrirano lastnikom naslednjih ključev:
 openpgp-other-enc-all-key-ids = Sporočilo je bilo šifrirano lastnikom naslednjih ključev:
