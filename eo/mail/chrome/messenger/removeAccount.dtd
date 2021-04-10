@@ -2,15 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY dialogTitle                  "Remove Account and Data">
-<!ENTITY removeButton.label           "Remove">
-<!ENTITY removeButton.accesskey       "R">
-<!ENTITY removeAccount.label          "Remove account information">
-<!ENTITY removeAccount.accesskey      "a">
-<!ENTITY removeAccount.desc           "Removes only &brandShortName;'s knowledge of this account. Does not affect the account itself on the server.">
-<!ENTITY removeData.label             "Remove message data">
+<!ENTITY dialogTitle                  "Forigi konton kaj datumojn">
+<!ENTITY removeButton.label           "Forigi">
+<!ENTITY removeButton.accesskey       "F">
+<!ENTITY removeAccount.label          "Forigi informojn pri konto">
+<!ENTITY removeAccount.accesskey      "i">
+<!ENTITY removeAccount.desc           "Forigi nur informojn pri la konto en la programo &brandShortName;. Ne efikas sur datumoj ĉe la servilo.">
+<!ENTITY removeData.label             "Forigi datumojn de mesaĝoj">
 <!ENTITY removeData.accesskey         "d">
-<!ENTITY removeDataChat.label         "Remove conversation data">
+<!ENTITY removeDataChat.label         "Forigi datumojn de interparoladoj">
 <!ENTITY removeDataChat.accesskey     "d">
 <!ENTITY removeDataLocalAccount.desc  "Removes all messages, folders and filters associated with this account from your local disk. This does not affect some messages which may still be kept on the server. Do not choose this if you plan to archive the local data or re-use it in &brandShortName; later.">
 <!ENTITY removeDataServerAccount.desc "Removes all messages, folders and filters associated with this account from your local disk. Your messages and folders are still kept on the server.">
