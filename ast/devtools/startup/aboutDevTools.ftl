@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+welcome-title = ¡Afáyate nes ferramientes de desendolcu de Firefox!
+newsletter-title = Boletín pa desendolcadores de Mozilla
 newsletter-thanks-title = ¡Gracies!
 footer-learn-more-link = Lleer más
 features-learn-more = Lleer más
