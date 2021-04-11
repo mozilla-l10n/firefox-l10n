@@ -546,6 +546,8 @@ urlbar-result-action-tabtosearch-web = Søg med { $engine } direkte fra adressef
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = Søg med { $engine } direkte fra adressefeltet
+# Action text for copying to clipboard.
+urlbar-result-action-copy-to-clipboard = Kopiér
 # Shows the result of a formula expression being calculated, the last = sign will be shown
 # as part of the result (e.g. "= 2").
 # Variables

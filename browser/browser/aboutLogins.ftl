@@ -316,6 +316,7 @@ about-logins-import-dialog-error-unable-to-read-description = Kontrollér at det
 about-logins-import-dialog-error-no-logins-imported = Ingen logins er blevet importeret
 about-logins-import-dialog-error-learn-more = Læs mere
 about-logins-import-dialog-error-try-again = Prøv igen…
+about-logins-import-dialog-error-try-import-again = Prøv at importere igen…
 about-logins-import-dialog-error-cancel = Annuller
 about-logins-import-report-title = Oversigt over import
 about-logins-import-report-description = Logins og adgangskoder importeret til { -brand-short-name }.
