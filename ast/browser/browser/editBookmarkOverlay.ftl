@@ -16,6 +16,11 @@ bookmark-overlay-name-2 =
 bookmark-overlay-url =
     .value = URL
     .accesskey = U
+# Location refers to the position of the bookmark within the browser's
+# bookmarks, not to its URL or address.
+bookmark-overlay-location-2 =
+    .value = Allugamientu
+    .accesskey = l
 bookmark-overlay-choose =
     .label = Escoyer…
 bookmark-overlay-folders-expander =
@@ -43,3 +48,5 @@ bookmark-overlay-keyword =
 bookmark-overlay-keyword-2 =
     .value = Pallabra clave
     .accesskey = P
+bookmark-overlay-tags-caption-label = Usa etiquetes pa organizar y buscar marcadores dende la barra de direiciones
+bookmark-overlay-keyword-caption-label = Usa pallabres clave p'abrir marcadores direutamente dende la barra de direiciones
