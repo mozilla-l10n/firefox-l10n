@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 migration-wizard =
-    .title = Помоћник за увоз
+    .title = Чаробњак за увоз
 import-from = Увези подешавања, обележиваче, историју, лозинке и остало из:
 import-from-bookmarks = Увези забелешке из:
 import-from-ie =
