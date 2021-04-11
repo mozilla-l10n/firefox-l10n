@@ -5,8 +5,8 @@
 <!ENTITY safeModeDialog.title             "&brandShortName; – sekura reĝimo">
 <!ENTITY window.width                     "37em">
 
-<!ENTITY safeModeDescription.label        "&brandShortName; is now running in Safe Mode, which temporarily disables your custom settings, themes, and extensions.">
-<!ENTITY safeModeDescription2.label       "You can make some or all of these changes permanent:">
+<!ENTITY safeModeDescription.label        "&brandShortName; funkcias nun en la sekura reĝimo, viaj propraj agordoj, etosoj kaj etendaĵoj estas provizore malaktivigitaj.">
+<!ENTITY safeModeDescription2.label       "Vi povas apliki iujn aŭ ĉiujn el la jenaj ŝanĝoj por daŭre:">
 
 <!ENTITY disableAddons.label              "Disable all add-ons">
 <!ENTITY disableAddons.accesskey          "D">
