@@ -2,18 +2,18 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY sanitizeDialog2.title         "Clear Recent History">
+<!ENTITY sanitizeDialog2.title         "Forviŝi ĵusan historion">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
      See UI mockup at bug 480169 -->
-<!ENTITY clearTimeDuration.label          "Time range to clear: ">
-<!ENTITY clearTimeDuration.accesskey      "T">
+<!ENTITY clearTimeDuration.label          "Forviŝota tempa amplekso: ">
+<!ENTITY clearTimeDuration.accesskey      "F">
 <!ENTITY clearTimeDuration.lastHour       "Last Hour">
-<!ENTITY clearTimeDuration.last2Hours     "Last Two Hours">
-<!ENTITY clearTimeDuration.last4Hours     "Last Four Hours">
-<!ENTITY clearTimeDuration.today          "Today">
-<!ENTITY clearTimeDuration.everything     "Everything">
+<!ENTITY clearTimeDuration.last2Hours     "antaŭaj du horoj">
+<!ENTITY clearTimeDuration.last4Hours     "antaŭaj kvar horoj">
+<!ENTITY clearTimeDuration.today          "hodiaŭ">
+<!ENTITY clearTimeDuration.everything     "ĉio">
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
 <!ENTITY clearTimeDuration.suffix         "">
@@ -21,9 +21,11 @@ that require it.  -->
 <!-- LOCALIZATION NOTE (detailsProgressiveDisclosure.*): Labels and accesskeys
      of the "Details" progressive disclosure button.  See UI mockup at bug
      480169 -->
-<!ENTITY detailsProgressiveDisclosure.label     "Details">
-<!ENTITY detailsProgressiveDisclosure.accesskey "e">
+<!ENTITY detailsProgressiveDisclosure.label     "Detaloj">
+<!ENTITY detailsProgressiveDisclosure.accesskey "D">
 
+
+<!ENTITY historyGroup.label                "historio">
 
 <!ENTITY itemHistory.label                 "Browsing History">
 <!ENTITY itemHistory.accesskey             "B">
