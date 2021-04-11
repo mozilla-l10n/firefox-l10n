@@ -67,6 +67,7 @@ about-logins-list-item-vulnerable-password-icon =
 
 login-intro-heading = Etsitkö tallennettuja kirjautumistietojasi? Ota { -sync-brand-short-name } käyttöön.
 about-logins-login-intro-heading-logged-out = Etsitkö tallennettuja kirjautumistietojasi? Ota { -sync-brand-short-name } käyttöön tai tuo ne.
+about-logins-login-intro-heading-logged-out2 = Etsitkö tallennettuja kirjautumistietojasi? Ota synkronointi käyttöön tai tuo ne.
 about-logins-login-intro-heading-logged-in = Synkronoituja kirjautumistietoja ei löytynyt.
 login-intro-description = Jos tallensit kirjautumistietosi { -brand-product-name }-selaimeen toisella laitteella, saat ne käyttöön seuraavasti:
 login-intro-instruction-fxa = Luo tili tai kirjaudu { -fxaccount-brand-name(case: "allative") } laitteella, jolle kirjautumistietosi on tallennettu
