@@ -5,7 +5,7 @@
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } користи неважећи безбедносни сертификат.
-cert-error-mitm-intro = Веб странице доказују свој идентитет путем сертификата, које издају сертификациона тела.
+cert-error-mitm-intro = Веб-сајтови доказују свој идентитет путем сертификата, које издају сертификациона тела.
 cert-error-mitm-mozilla =
     Иза { -brand-short-name.gender ->
         [masculine] { -brand-short-name(case: "gen") }
