@@ -177,6 +177,8 @@ onboarding-multistage-set-default-secondary-button-label = Ei nyt
 onboarding-multistage-pin-default-header = Aloitetaan tekemällä <span data-l10n-name="zap">{ -brand-short-name }in</span> käynnistäminen helpoksi
 onboarding-multistage-pin-default-subtitle = Nopeaa, turvallista ja yksityistä verkon selaamista.
 # The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-waiting-subtitle = Valitse { -brand-short-name } Selain-kohdasta, kun asetukset avautuu
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
 onboarding-multistage-pin-default-help-text = Tämä kiinnittää { -brand-short-name }in tehtäväpalkkiin ja avaa asetukset
 onboarding-multistage-pin-default-primary-button-label = Vaihda oletusselaimeksi { -brand-short-name }
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
