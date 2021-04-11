@@ -378,6 +378,22 @@ browser-tab-audio-pip = SLIKA V SLIKI
 ## Variables:
 ##  $count (number): number of affected tabs
 
+browser-tab-mute =
+    { $count ->
+        [1] UTIŠAJ ZAVIHEK
+        [one] UTIŠAJ { $count } ZAVIHEK
+        [two] UTIŠAJ { $count } ZAVIHKA
+        [few] UTIŠAJ { $count } ZAVIHKE
+       *[other] UTIŠAJ { $count } ZAVIHKOV
+    }
+browser-tab-unblock =
+    { $count ->
+        [1] PREDVAJAJ ZAVIHEK
+        [one] PREDVAJAJ { $count } ZAVIHEK
+        [two] PREDVAJAJ { $count } ZAVIHKA
+        [few] PREDVAJAJ { $count } ZAVIHKE
+       *[other] PREDVAJAJ { $count } ZAVIHKOV
+    }
 
 ## Bookmarks toolbar items
 
