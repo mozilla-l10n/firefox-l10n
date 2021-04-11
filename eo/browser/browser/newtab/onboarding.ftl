@@ -173,6 +173,9 @@ onboarding-multistage-set-default-subtitle = Via tuta retumo rapida, sekura kaj 
 onboarding-multistage-set-default-primary-button-label = Igi norma
 onboarding-multistage-set-default-secondary-button-label = Ne nun
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-pin-default-header = Unue metu <span data-l10n-name="zap">{ -brand-short-name }</span> je unu alklako
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Enporti viajn pasvortojn, <br/>legosignojn, kaj <span data-l10n-name="zap">pli</span>
 onboarding-multistage-import-subtitle = Ĉu vi venas el alia retumilo? Estas facile porti ĉion al { -brand-short-name }.
