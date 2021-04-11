@@ -5,6 +5,9 @@
 crash-reports-title = Informes de casques
 submit-all-button-label = Unviar too
 delete-button-label = Llimpiar too
+delete-confirm-title = Confirmación
+delete-unsubmitted-description = Esto va desaniciar tolos informes de casques ensin unviar y esta aición nun pue desfacese.
+delete-submitted-description = Esto va desaniciar la llista d'informes de casques unviaos mas nun va desaniciar los datos unviaos. Esta aición nun pue desfacese.
 crashes-unsubmitted-label = Informes ensin unviar
 id-heading = ID del informe
 date-crashed-heading = Data del casque
@@ -15,3 +18,4 @@ submit-crash-button-failure-label = Falló
 crashes-submitted-label = Informes unviaos
 date-submitted-heading = Data d'unviu
 view-crash-button-label = Ver
+no-reports-label = Nun s'unviaron informes de casques.
