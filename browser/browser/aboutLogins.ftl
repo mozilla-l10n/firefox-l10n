@@ -18,7 +18,7 @@ login-filter =
 create-login-button = Ustvari novo prijavo
 fxaccounts-sign-in-text = Imejte dostop do gesel z vseh svojih naprav
 fxaccounts-sign-in-button = Prijava v { -sync-brand-short-name }
-fxaccounts-sign-in-sync-button = Prijava v Sync
+fxaccounts-sign-in-sync-button = Prijava v sinhronizacijo
 fxaccounts-avatar-button =
     .title = Upravljanje računa
 
@@ -79,6 +79,7 @@ login-intro-description = Če ste svoje prijave shranili v { -brand-product-name
 login-intro-instruction-fxa = Ustvarite { -fxaccount-brand-name } ali se prijavite na napravi, kjer so shranjene vaše prijave
 login-intro-instruction-fxa-settings = Prepričajte se, da ste v Nastavitvah { -sync-brand-short-name }a označili polje Prijave
 about-logins-intro-instruction-help = Za dodatno pomoč obiščite <a data-l10n-name="help-link">Podporo { -lockwise-brand-short-name }</a>
+login-intro-instructions-fxa = Ustvarite { -fxaccount-brand-name(capitalization: "sentence") } ali se prijavite na napravi, na kateri so shranjene vaše prijave.
 login-intro-instructions-fxa-help = Za dodatno pomoč obiščite <a data-l10n-name="help-link">Podporo { -lockwise-brand-short-name }</a>.
 about-logins-intro-import = Če so vaše prijave shranjene v drugem brskalniku, jih lahko <a data-l10n-name="import-link">uvozite v { -lockwise-brand-short-name }</a>
 about-logins-intro-import2 = Če so vaše prijave shranjene izven { -brand-product-name }a, jih lahko <a data-l10n-name="import-browser-link">uvozite iz drugega brskalnika</a> ali <a data-l10n-name="import-file-link">datoteke</a>
@@ -341,6 +342,13 @@ about-logins-import-report-row-description-error-missing-field = Napaka: Manjka 
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-report-added =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">nova prijava dodana</div>
+        [two] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">novi prijavi dodani</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">nove prijave dodane</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">novih prijav dodanih</div>
+    }
 
 ## Logins import report page
 

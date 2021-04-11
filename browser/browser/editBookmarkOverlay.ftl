@@ -48,3 +48,5 @@ bookmark-overlay-keyword =
 bookmark-overlay-keyword-2 =
     .value = Ključna beseda
     .accesskey = K
+bookmark-overlay-tags-caption-label = Uporabite oznake za razvrščanje in iskanje zaznamkov v naslovni vrstici
+bookmark-overlay-keyword-caption-label = Uporabite ključne besede za odpiranje zaznamkov neposredno iz naslovne vrstice

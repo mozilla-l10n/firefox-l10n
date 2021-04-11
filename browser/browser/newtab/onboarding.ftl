@@ -166,6 +166,9 @@ onboarding-multistage-welcome-subtitle = Hiter, varen in zaseben brskalnik, ki g
 onboarding-multistage-welcome-primary-button-label = Začni nastavitev
 onboarding-multistage-welcome-secondary-button-label = Prijava
 onboarding-multistage-welcome-secondary-button-text = Imate račun?
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "default" should stay inside the span.
+onboarding-multistage-set-default-header = Nastavite { -brand-short-name } kot <span data-l10n-name="zap">privzet brskalnik</span>
 onboarding-multistage-set-default-subtitle = Hitrost, varnost in zasebnost ob vsakem brskanju.
 onboarding-multistage-set-default-primary-button-label = Nastavi za privzeto
 onboarding-multistage-set-default-secondary-button-label = Ne zdaj
