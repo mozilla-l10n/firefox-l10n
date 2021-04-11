@@ -154,6 +154,7 @@ this container is a toolbar. This avoids double-speaking. -->
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "¿Quies ver equí les llingüetes d'otros preseos de to?">
 <!ENTITY appMenuRemoteTabs.welcome.label "Ve una llista de les llingüetes d'otros preseos de to.">
+<!ENTITY appMenuRemoteTabs.signintosync.label "Aniciar sesión en &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Xestionar los preseos…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Ver la barra llateral de les llingüetes sincronizaes">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Conectar otru preséu">
