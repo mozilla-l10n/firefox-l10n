@@ -404,6 +404,14 @@ update-setting-write-failure-message =
     
     Ei onnistuttu kirjoittamaan tiedostoon: { $path }
 update-setting-write-failure-title2 = Päivitysasetusten tallennusvirhe
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message2 =
+    { -brand-short-name } havaitsi virheen eikä tallentanut tätä muutosta. Huomaa, että tämän päivitysasetuksen muuttaminen vaatii oikeuden kirjoittaa alla olevaan tiedostoon. Sinä tai järjestelmän ylläpitäjä voi pystyä ratkaisemaan virheen antamalla täydet oikeudet tähän tiedostoon Käyttäjät-ryhmälle.
+    
+    Ei onnistuttu kirjoittamaan tiedostoon: { $path }
 update-in-progress-title = Päivitys meneillään
 update-in-progress-message = Haluatko, että { -brand-short-name } jatkaa tämän päivityksen asentamista?
 update-in-progress-ok-button = &Hylkää
