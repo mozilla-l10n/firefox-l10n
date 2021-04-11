@@ -4,3 +4,6 @@
 
 add-on-options-button =
     .title = Eklenti seçenekleri
+atn-addons-heading-search-input =
+    .placeholder = addons.thunderbird.net’te ara
+sidebar-preferences-button-title = { -brand-short-name } tercihleri
