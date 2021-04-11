@@ -27,16 +27,16 @@ that require it.  -->
 
 <!ENTITY historyGroup.label                "historio">
 
-<!ENTITY itemHistory.label                 "Browsing History">
-<!ENTITY itemHistory.accesskey             "B">
-<!ENTITY itemCookies.label                 "Cookies">
-<!ENTITY itemCookies.accesskey             "C">
-<!ENTITY itemCache.label                   "Cache">
-<!ENTITY itemCache.accesskey               "A">
+<!ENTITY itemHistory.label                 "historio de retumo">
+<!ENTITY itemHistory.accesskey             "h">
+<!ENTITY itemCookies.label                 "kuketoj">
+<!ENTITY itemCookies.accesskey             "k">
+<!ENTITY itemCache.label                   "staplo">
+<!ENTITY itemCache.accesskey               "s">
 
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI
      mockup at bug 480169 -->
-<!ENTITY sanitizeEverythingUndoWarning     "This action cannot be undone.">
+<!ENTITY sanitizeEverythingUndoWarning     "Tiu ĉi ago ne povas esti malfarita.">
 
 <!ENTITY dialog.width                 "28em">
