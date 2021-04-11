@@ -10,6 +10,8 @@ preferences-title =
             [windows] Options
            *[other] Preferences
         }
+preferences-tab-title =
+    .title = Preferences
 category-list =
     .aria-label = Categories
 pane-general-title = General
@@ -90,6 +92,7 @@ update-in-progress-ok-button = &Discard
 update-in-progress-cancel-button = &Continue
 account-button = Account Settings
 addons-button = Extensions & Themes
+open-addons-sidebar-button = Add-ons and Themes
 
 ## OS Authentication dialog
 
@@ -708,6 +711,17 @@ search-input-box =
             [windows] Find in Options
            *[other] Find in Preferences
         }
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-preferences-input =
+    .style = width: 15.4em
+    .placeholder = Find in Preferences
 
 ## Preferences UI Search Results
 
