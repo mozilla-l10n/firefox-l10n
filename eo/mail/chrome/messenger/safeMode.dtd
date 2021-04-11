@@ -8,14 +8,14 @@
 <!ENTITY safeModeDescription.label        "&brandShortName; funkcias nun en la sekura reĝimo, viaj propraj agordoj, etosoj kaj etendaĵoj estas provizore malaktivigitaj.">
 <!ENTITY safeModeDescription2.label       "Vi povas apliki iujn aŭ ĉiujn el la jenaj ŝanĝoj por daŭre:">
 
-<!ENTITY disableAddons.label              "Disable all add-ons">
-<!ENTITY disableAddons.accesskey          "D">
+<!ENTITY disableAddons.label              "malaktivigi ĉiujn aldonaĵojn">
+<!ENTITY disableAddons.accesskey          "m">
 
-<!ENTITY resetToolbars.label              "Reset toolbars and controls">
-<!ENTITY resetToolbars.accesskey          "R">
+<!ENTITY resetToolbars.label              "restarigi implicitajn ilarstriojn kaj butonojn">
+<!ENTITY resetToolbars.accesskey          "r">
 
-<!ENTITY changeAndRestartButton.label     "Make Changes and Restart">
-<!ENTITY changeAndRestartButton.accesskey "M">
+<!ENTITY changeAndRestartButton.label     "Apliki ŝanĝojn kaj restartigi">
+<!ENTITY changeAndRestartButton.accesskey "A">
 
-<!ENTITY continueButton.label             "Continue in Safe Mode">
-<!ENTITY continueButton.accesskey         "C">
+<!ENTITY continueButton.label             "Pluigi en sekura reĝimo">
+<!ENTITY continueButton.accesskey         "P">
