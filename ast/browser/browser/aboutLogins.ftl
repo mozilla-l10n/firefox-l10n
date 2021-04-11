@@ -70,6 +70,7 @@ about-logins-list-item-vulnerable-password-icon =
 
 login-intro-heading = ¿Busques los anicios de sesión guardaos? Configura { -sync-brand-short-name }.
 about-logins-login-intro-heading-logged-out = ¿Busques los anicios de sesión guardaos? Configura { -sync-brand-short-name } o impórtalos.
+about-logins-login-intro-heading-logged-out2 = ¿Busques los tos anicios de sesión guardaos? Activa la sincronización pa importalos.
 about-logins-login-intro-heading-logged-in = Nun s'atoparon anicios de sesión sincronizaos.
 login-intro-description = Si guardesti los anicios de sesión nel { -brand-product-name } d'otru preséu, esti ye'l mou de tenelos equí:
 login-intro-instruction-fxa = Crea una { -fxaccount-brand-name } o anicia sesión nel preséu onde se guarden los tos anicios de sesión
