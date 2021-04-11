@@ -24,6 +24,9 @@ dialog-title-everything =
 ## This results in English:
 ## Time range to clear: (Last Hour, Today, etc.)
 
+clear-time-duration-prefix =
+    .value = Фосилаи вақт барои тозакунии таърих:{ " " }
+    .accesskey = T
 clear-time-duration-value-last-hour =
     .label = Як соати охир
 clear-time-duration-value-last-2-hours =
