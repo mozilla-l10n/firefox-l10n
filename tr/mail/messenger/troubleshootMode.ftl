@@ -5,6 +5,8 @@
 troubleshoot-mode-window =
     .title = { -brand-short-name } sorun giderme modu
     .style = width: 37em;
+troubleshoot-mode-description = Sorunları tanılamak için { -brand-short-name } sorun giderme modunu kullanabilirsiniz. Eklentileriniz ve özelleştirmeleriniz geçici olarak devre dışı bırakılacaktır.
+troubleshoot-mode-description2 = Aşağıdaki değişikliklerden istediklerinizi kalıcı yapabilirsiniz:
 troubleshoot-mode-disable-addons =
     .label = Tüm eklentileri devre dışı bırak
     .accesskey = d

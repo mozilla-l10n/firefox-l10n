@@ -9,6 +9,17 @@ menu-view-charset =
     .label = Metin kodlaması
     .accesskey = M
 
+## Tools Menu
+
+# Since v89 we dropped the platforms distinction between Options or Preferences
+# and consolidated everything with Preferences.
+menu-tools-preferences =
+    .label = Tercihler
+    .accesskey = T
+menu-addons-and-themes =
+    .label = Eklentiler ve temalar
+    .accesskey = E
+
 ## Help Menu
 
 menu-help-enter-troubleshoot-mode =

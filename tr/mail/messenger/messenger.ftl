@@ -11,6 +11,12 @@ unread-messages-os-tooltip =
     }
 about-rights-notification-text = { -brand-short-name }, tüm dünyadan binlerce kişinin katkıda bulunduğu, özgür ve açık kaynaklı bir yazılımdır.
 
+## Toolbar
+
+addons-and-themes-button =
+    .label = Eklentiler ve temalar
+    .tooltip = Eklentilerinizi yönetin
+
 ## Folder Pane
 
 folder-pane-toolbar =
@@ -43,3 +49,18 @@ show-recent-folders-label =
 folder-toolbar-toggle-folder-compact-view =
     .label = Yoğun görünüm
     .accesskey = Y
+
+## AppMenu
+
+# Since v89 we dropped the platforms distinction between Options or Preferences
+# and consolidated everything with Preferences.
+appmenu-preferences =
+    .label = Tercihler
+appmenu-addons-and-themes =
+    .label = Eklentiler ve temalar
+appmenu-help-enter-troubleshoot-mode =
+    .label = Sorun giderme modu…
+appmenu-help-exit-troubleshoot-mode =
+    .label = Sorun giderme modunu kapat
+appmenu-help-more-troubleshooting-info =
+    .label = Sorun giderme bilgileri
