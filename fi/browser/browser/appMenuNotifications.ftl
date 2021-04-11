@@ -73,6 +73,7 @@ appmenu-addon-private-browsing-installed2 =
     .buttonlabel = OK
     .buttonaccesskey = O
 appmenu-addon-post-install-message2 = Hallitse omia laajennuksia ja teemoja sovellusvalikosta.
+appmenu-addon-post-install-message3 = Hallitse omia lisäosia ja teemoja sovellusvalikosta.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Salli laajennuksen suoritus yksityisissä ikkunoissa
     .accesskey = a
