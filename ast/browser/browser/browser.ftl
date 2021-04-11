@@ -269,6 +269,24 @@ browser-tab-audio-pip = IMAXE SOBRE IMAXE
 ## Variables:
 ##  $count (number): number of affected tabs
 
+browser-tab-mute =
+    { $count ->
+        [1] DESACTIVAR L'AUDIU
+        [one] DESACTIVAR L'AUDIU
+       *[other] DESACTIVAR L'AUDIU DE { $count } LLINGÜETES
+    }
+browser-tab-unmute =
+    { $count ->
+        [1] ACTIVAR L'AUDIU
+        [one] ACTIVAR L'AUDIU
+       *[other] ACTIVAR L'AUDIU DE { $count } LLINGÜETES
+    }
+browser-tab-unblock =
+    { $count ->
+        [1] REPRODUCIR LA LLINGÜETA
+        [one] REPRODUCIR LA LLINGÜETA
+       *[other] REPRODUCIR { $count } LLINGÜETES
+    }
 
 ## Bookmarks toolbar items
 
@@ -392,6 +410,8 @@ bookmarks-tools-toolbar-visibility-panel =
             [true] Anubrir la barra de los marcadores
            *[other] Amosar la barra de los marcadores
         }
+bookmarks-search =
+    .label = Buscar nos marcadores
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
