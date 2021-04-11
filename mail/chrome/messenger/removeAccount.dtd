@@ -15,8 +15,8 @@
 <!ENTITY removeDataLocalAccount.desc  "Forigi el via loka disko ĉiujn mesaĝojn, mesaĝujojn kaj filtrilojn rilatajn al tiu ĉi konto. Tio ĉi ne efikos sur mesaĝoj, kiuj plue estas tenataj ĉe la servilo. Ne elektu tion ĉi, se vi planas arĥivi la lokajn datumojn aŭ reuzi ilin en la programo &brandShortName; iam poste.">
 <!ENTITY removeDataServerAccount.desc "Forigi el via loka disko ĉiujn mesaĝojn, mesaĝujojn kaj filtrilojn rilatajn al tiu ĉi konto. Viaj mesaĝ(uj)oj plue estos tenataj ĉe la servilo.">
 <!ENTITY removeDataChatAccount.desc   "Forigi ĉiujn protokolojn de interparoladoj konservitajn por tiu ĉi konto en via loka disko.">
-<!ENTITY showData.label               "Show data location">
-<!ENTITY showData.accesskey           "S">
+<!ENTITY showData.label               "Montri dosierujon de datumoj">
+<!ENTITY showData.accesskey           "M">
 <!ENTITY progressPending              "Removing selected data…">
 <!ENTITY progressSuccess              "Removal succeeded.">
 <!ENTITY progressFailure              "Removal failed.">
