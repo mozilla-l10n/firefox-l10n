@@ -108,6 +108,18 @@ main-context-menu-bookmark-add =
     .aria-label = Amestar esta páxina a Marcadores
     .accesskey = m
     .tooltiptext = Amestar esta páxina a Marcadores
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-add-mac =
+    .label = Amestar la páxina a Marcadores
+    .accesskey = M
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-edit-mac =
+    .label = Editar el marcador
+    .accesskey = m
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-add-with-shortcut =
@@ -366,6 +378,9 @@ main-context-menu-suggest-strong-password =
     .accesskey = S
 main-context-menu-manage-logins =
     .label = Xestionar los anicios de sesión…
+    .accesskey = X
+main-context-menu-manage-logins2 =
+    .label = Xestionar los anicios de sesión
     .accesskey = X
 main-context-menu-keyword =
     .label = Amestar una pallabra clave pa esta busca…
