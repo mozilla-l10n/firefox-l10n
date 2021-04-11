@@ -25,25 +25,6 @@ experimental-features-web-api-inputmode =
 experimental-features-web-api-inputmode-description = Наша рэалізацыя глабальнага атрыбута <a data-l10n-name="mdn-inputmode">inputmode</a> была абноўлена ў адпаведнасці з <a data-l10n-name="whatwg">спецыфікацыяй WHATWG</a>, але нам трэба яшчэ ўнесці іншыя змены, напрыклад, зрабіць яго даступным для змесціва contenteditable. Для больш падрабязнай інфармацыі гл. <a data-l10n-name="bugzilla">хiбу 1205133</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
-experimental-features-web-api-link-preload =
-    .label = Web API: <link rel="preload">
-# Do not translate "rel", "preload" or "link" here, as they are all HTML spec
-# values that do not get translated.
-experimental-features-web-api-link-preload-description = Атрыбут <a data-l10n-name="rel">rel</a> са значэннем <code>"preload"</code> на элеменце <a data-l10n-name="link">&lt;link&gt;< /a> прызначаны для павышэння прадукцыйнасці, дазваляючы загружаць рэсурсы на ранейшых этапах жыццёвага цыкла старонкі, гарантуючы, што яны будуць даступныя раней і менш верагодна будуць блакаваць рэндэрынг старонкі. Прачытайце <a data-l10n-name="readmore">“Папярэдняя загрузка змесціва з дапамогай <code>rel ="preload"</code>”</a> альбо гл. <a data-l10n-name="bugzilla">хiбу 1583604</a> для больш падрабязнай інфармацыі.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-css-focus-visible =
-    .label = CSS: Pseudo-class: :focus-visible
-experimental-features-css-focus-visible-description = Дазваляе ўжываць стылі фокусу да такіх элементаў, як кнопкі і элементы кіравання формай, толькі тады, калі яны факусуюцца з дапамогай клавіятуры (напрыклад, пры пераключэннi паміж элементамі), а не тады, калі яны факусуюцца з дапамогай мышы ці іншай паказальнай прылады. Для больш падрабязнай інфармацыі гл. <a data-l10n-name="bugzilla">хiбу 1617600</a>.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-web-api-beforeinput =
-    .label = Web API: beforeinput Event
-# The terms "beforeinput", "input", "textarea", and "contenteditable" are technical terms
-# and shouldn't be translated.
-experimental-features-web-api-beforeinput-description = Глабальная падзея <a data-l10n-name="mdn-beforeinput">beforeinput</a> запускаецца на <a data-l10n-name="mdn-input">&lt;input&gt;</a> і < data-l10n-name = "mdn-textarea">&lt;textarea&gt;</a> элементах, альбо на любых элементах з уключаным атрыбутам <a data-l10n-name="mdn-contenteditable">contenteditable</a>, непасрэдна перад зменай значэння элемента. Падзея дазваляе вэб-праграмам перавызначыць прадвызначаныя паводзіны браўзера пры ўзаемадзеяннi з карыстальнiкам, напрыклад, вэб-праграмы могуць адмяніць увод карыстальніка толькі для пэўных сімвалаў альбо могуць змяніць устаўку стылізаванага тэксту толькі з зацверджанымi стылямі.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
 experimental-features-css-constructable-stylesheets-description = Даданне канструктара ў інтэрфейс <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a>, а таксама мноства звязаных з гэтым змяненняў дазваляе наўпрост ствараць новыя табліцы стыляў без неабходнасці дадаваць iх у HTML. Гэта значна палягчае стварэнне табліц стыляў для шматразовага выкарыстання з <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. Для больш падрабязнай інфармацыі гл. <a data-l10n-name="bugzilla">хiбу 1520690</a>.
@@ -69,9 +50,6 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Кук
 experimental-features-abouthome-startup-cache =
     .label = Кэш запуску about:home
 experimental-features-abouthome-startup-cache-description = Кэш для пачатковага дакумента about:home, які прадвызначана загружаецца пры запуску. Мэта кэша - палепшыць прадукцыйнасць запуску.
-experimental-features-print-preview-tab-modal =
-    .label = Перапрацаванае акно друку
-experimental-features-print-preview-tab-modal-description = Уводзiць перапрацаваны папярэдні прагляд друку і робіць яго даступным на macOS. Гэта патэнцыйна можа прывесцi да памылак і ўключае не ўсе налады, звязаныя з друкам. Каб атрымаць доступ да ўсіх налад, звязаных з друкам, выберыце "Друк з дапамогай сістэмнага дыялогу..." на панэлі "Друк".
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
@@ -104,3 +82,4 @@ experimental-features-http3-description = Эксперыментальная п�
 # Search during IME
 experimental-features-ime-search =
     .label = Адрасны радок: паказваць вынікі ў час складання IME
+experimental-features-ime-search-description = IME (рэдактар метаду ўводу) - гэта інструмент, які дазваляе ўводзіць складаныя сімвалы, напрыклад, што выкарыстоўваюцца ва ўсходнеазіяцкіх ці індыйскіх пісьмовых мовах, пры дапамозе стандартнай клавіятуры. Уключэнне гэтага эксперыменту дазволіць трымаць панэль адраснага радка адкрытай, паказваючы вынікі пошуку і прапановы, пры ўводзе тэксту з дапамогай IME. Звярніце ўвагу, што IME можа паказваць панэль, якая закрывае вынікі адраснага радка, таму гэта налада рэкамендуецца толькі для IME, якая не выкарыстоўвае гэты тып панэлі.
