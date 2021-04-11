@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Nustatykite strategijas, kurias „WebExtensions“ galės pasiekti per „chrome.storage.managed“.
+policy-AllowedDomainsForApps = Nurodyti domenus, kuriems leidžiama pasiekti „Google Workspace“.
 policy-AppAutoUpdate = Įjungti arba išjungti automatinius programos naujinimus.
 policy-AppUpdateURL = Nustatyti pasirinktinį programos naujinimų URL.
 policy-Authentication = Keisti integruotą autentikaciją ją palaikančioms svetainėms.
