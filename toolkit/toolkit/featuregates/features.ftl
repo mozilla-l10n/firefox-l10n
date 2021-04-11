@@ -21,18 +21,6 @@ experimental-features-web-api-inputmode =
     .label = Web API: inputmode
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
-experimental-features-web-api-link-preload =
-    .label = Web API: <link rel="preload">
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-css-focus-visible =
-    .label = CSS: Pseudo-class: :focus-visible
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-web-api-beforeinput =
-    .label = Web API: beforeinput Event
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
 experimental-features-devtools-color-scheme-simulation =
@@ -55,8 +43,6 @@ experimental-features-cookie-samesite-none-requires-secure2-description = “Sam
 experimental-features-abouthome-startup-cache =
     .label = about:home başlangıç önbelleği
 experimental-features-abouthome-startup-cache-description = Başlangıçta varsayılan olarak yüklenen about:home belgesi için önbellek. Bu önbelleğin amacı, başlangıç performansını artırmaktır.
-experimental-features-print-preview-tab-modal =
-    .label = Yeni yazdırma ön izleme tasarımı
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
@@ -77,6 +63,7 @@ experimental-features-js-warp-description = JavaScript performansını ve bellek
 # Fission is the name of the feature and should not be translated.
 experimental-features-fission =
     .label = Fission (Site İzolasyonu)
+experimental-features-fission-description = Fission (site izolasyonu), { -brand-short-name }’ta güvenlik hatalarına karşı ek bir savunma katmanı sağlayan deneysel bir özelliktir. Fission, her bir siteyi ayrı bir işleme izole ederek kötü amaçlı web sitelerinin ziyaret ettiğiniz diğer sayfalardaki bilgilere erişmesini zorlaştırır. Fission, { -brand-short-name } tarayıcısında önemli bir mimari değişimidir. Bu özelliği test eder ve karşılaştığınız sorunları bize bildirirseniz memnun oluruz. Daha fazla bilgi için <a data-l10n-name="wiki">wiki</a>’ye bakın.
 # Support for having multiple Picture-in-Picture windows open simultaneously
 experimental-features-multi-pip =
     .label = Çoklu Görüntü İçinde Görüntü Desteği
