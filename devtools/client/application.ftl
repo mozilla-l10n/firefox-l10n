@@ -18,3 +18,9 @@
 
 # Link will open https://developer.mozilla.org/docs/Web/API/Service_Worker_API/Using_Service_Workers
 serviceworker-empty-intro-link = Lleer más
+# Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
+manifest-item-warnings = Fallos y alvertencies
+# Header for the Identity section of Manifest inspection displayed in the application panel.
+manifest-item-identity = Identidá
+# Header for the Presentation section of Manifest inspection displayed in the application panel.
+manifest-item-presentation = Presentación
