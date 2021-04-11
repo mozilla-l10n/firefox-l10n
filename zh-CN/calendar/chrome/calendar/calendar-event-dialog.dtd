@@ -407,11 +407,6 @@
 <!ENTITY read.only.location.label        "位置：">
 <!ENTITY read.only.category.label        "分类：">
 <!ENTITY read.only.organizer.label       "组织：">
-<!ENTITY read.only.reply.label           "重复：">
-<!ENTITY read.only.accept.label          "我将参加">
-<!ENTITY read.only.decline.label         "我不参加">
-<!ENTITY read.only.tentative.label       "我可能参加">
-<!ENTITY read.only.needs.action.label    "稍后确认">
 <!ENTITY read.only.reminder.label        "提醒：">
 <!ENTITY read.only.attachments.label     "附件：">
 <!ENTITY read.only.attendees.label       "参与者">
@@ -420,7 +415,7 @@
 
 <!-- Summary dialog -->
 <!ENTITY summary.dialog.saveclose.label         "保存并关闭">
-<!ENTITY summary.dialog.saveclose.tooltiptext   "保存变更并关闭窗口，但不更改参与状态、不发送回复">
+<!ENTITY summary.dialog.saveclose.tooltiptext   "保存更改并关闭窗口，但不更改参与状态、不发送回复">
 <!ENTITY summary.dialog.accept.label            "接受">
 <!ENTITY summary.dialog.accept.tooltiptext      "接受邀请">
 <!ENTITY summary.dialog.tentative.label         "暂定">
