@@ -34,6 +34,9 @@ sidebar-preferences-button-title =
             [windows] { -brand-short-name }-asetukset
            *[other] { -brand-short-name }-asetukset
         }
+addons-settings-button = { -brand-short-name }-asetukset
+sidebar-settings-button-title =
+    .title = { -brand-short-name }-asetukset
 show-unsigned-extensions-button =
     .label = Joitain laajennuksia ei voitu varmentaa
 show-all-extensions-button =
@@ -376,9 +379,6 @@ addon-detail-private-browsing-disallow = Älä salli
 addon-badge-recommended2 =
     .title = { -brand-product-name } suosittelee vain laajennuksia, jotka täyttävät standardimme turvallisuuden ja suorituskyvyn suhteen
     .aria-label = { addon-badge-recommended2.title }
-addon-badge-line2 =
-    .title = Tämä on virallinen laajennus, joka on luotu { -brand-product-name }in tekijöiden toimesta
-    .aria-label = { addon-badge-line2.title }
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =

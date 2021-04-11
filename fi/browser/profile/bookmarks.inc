@@ -25,6 +25,10 @@
 # link title for https://www.mozilla.org/en-US/firefox/help/
 #define firefox_help Ohje ja oppaat
 
+# LOCALIZATION NOTE (firefox_get_help):
+# link title for https://www.mozilla.org/en-US/firefox/help/
+#define firefox_get_help Etsi ohjeita
+
 # LOCALIZATION NOTE (firefox_customize):
 # link title for https://www.mozilla.org/en-US/firefox/customize/
 #define firefox_customize Muokkaa Firefox-selainta
@@ -60,10 +64,6 @@
 # LOCALIZATION NOTE (crashes):
 # Nightly builds only, link title for about:crashes
 #define crashes Kaikki kaatumisilmoituksesi
-
-# LOCALIZATION NOTE (irc):
-# Nightly builds only, link title for ircs://irc.mozilla.org/nightly
-#define irc Keskustele Nightlystä IRC:ssä
 
 # LOCALIZATION NOTE (planet):
 # Nightly builds only, link title for https://planet.mozilla.org/
