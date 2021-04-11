@@ -28,6 +28,18 @@ search-input-box =
             [windows] Serĉi en preferoj
            *[other] Serĉi en preferoj
         }
+settings-page-title = Agordoj
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box2 =
+    .style = width: 15.4em
+    .placeholder = Serĉi en agordoj
 managed-notice = Via retumilo estas administrata de via organizo.
 category-list =
     .aria-label = Kategorioj
@@ -46,12 +58,16 @@ category-privacy =
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
+pane-sync-title3 = Spegulado
+category-sync3 =
+    .tooltiptext = { pane-sync-title3 }
 pane-experimental-title = Eksperimentoj de { -brand-short-name }
 category-experimental =
     .tooltiptext = Eksperimentoj de { -brand-short-name }
 pane-experimental-subtitle = Daŭrigu singarde
 pane-experimental-search-results-header = Eksperimentoj de { -brand-short-name }: daŭrigu singarde
 pane-experimental-description = La ŝanĝo de spertulaj agordaj preferoj povas efiki sur la sekureco kaj efikeco de { -brand-short-name }.
+pane-experimental-description2 = Ŝanĝo de spertulaj agordoj povas influi la efikecon aŭ sekurecon de { -brand-short-name }.
 pane-experimental-reset =
     .label = Remeti normojn
     .accesskey = R
@@ -121,6 +137,8 @@ search-results-empty-message =
         [windows] Bedaŭrinde ne estis rezultoj por “<span data-l10n-name="query"></span>” en Preferoj.
        *[other] Bedaŭrinde ne estis rezultoj por “<span data-l10n-name="query"></span>” en Preferoj.
     }
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 = Bedaŭrinde ne estas rezultoj kongruaj kun “<span data-l10n-name="query"></span>” inter la agordoj.
 search-results-help-link = Ĉu vi bezonas helpon? Vizitu <a data-l10n-name="url">Helpo por { -brand-short-name }</a>
 
 ## General Section
@@ -369,6 +387,9 @@ update-application-check-choose =
 update-application-manual =
     .label = Neniam kontroli ĉu estas ĝisdatigoj (malkonsilinda)
     .accesskey = N
+update-application-background-enabled =
+    .label = Kiam { -brand-short-name } ne funkcias
+    .accesskey = K
 update-application-warning-cross-user-setting = Tiu ĉi agordo estos aplikita al ĉiuj kontoj de Windows kaj profiloj de { -brand-short-name }, kiuj uzas tiun ĉi instalitan version de { -brand-short-name }.
 update-application-use-service =
     .label = Uzi fonan servon por instali ĝisdatigojn
@@ -382,6 +403,12 @@ update-setting-write-failure-message =
     { -brand-short-name } trovis eraron kaj ne konservis tiun ĉi ŝanĝon. Bonvolu noti ke oni bezonas povi skribi la suban dosieron, por povi agordi tiun ĉi ĝisdatigan preferon. Vi, aŭ sisteman administranton povus eble solvi la eraron jene: rajtigi al la grupo Users plenan regadon de tiu ĉi dosiero.
     
     Ne eblis skribi la dosieron: { $path }
+update-setting-write-failure-title2 = Eraro dum konservo de ĝistadigaj agordoj
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message2 = { -brand-short-name } trovis eraron kaj ne konservis tiun ĉi ŝanĝon. Bonvolu noti ke oni bezonas povi skribi la suban dosieron, por povi agordi tiun ĉi ĝisdatigan agordon. Vi, aŭ sisteman administranton povus eble solvi la eraron jene: rajtigi al la grupo Users plenan regadon de tiu ĉi dosiero.
 update-in-progress-title = Ĝisdatigo plenumata
 update-in-progress-message = Ĉu vi volas ke { -brand-short-name } daŭrigu tiun ĉi ĝisdatigon?
 update-in-progress-ok-button = &Abandoni
@@ -579,6 +606,7 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Montri serĉajn sugestojn en privataj fenestroj
 suggestions-addressbar-settings-generic = Ŝanĝi preferojn por la aliaj sugestoj de la adresa strio
+suggestions-addressbar-settings-generic2 = Ŝanĝi agordojn por la aliaj sugestoj de la adresa strio
 search-suggestions-cant-show = Sugestoj de serĉiloj ne aperos en la rezultoj de la adresa strio ĉar vi petis al { -brand-short-name } neniam memori la historion.
 search-one-click-header = Serĉiloj per unu alklako
 search-one-click-header2 = Serĉaj ŝparvojoj
@@ -613,6 +641,8 @@ containers-back-button =
             [windows] Reen al preferoj
            *[other] Reen al preferoj
         }
+containers-back-button2 =
+    .aria-label = Reen al agordoj
 containers-header = Ingaj langetoj
 containers-add-button =
     .label = Aldoni novan ingon
@@ -622,6 +652,8 @@ containers-new-tab-check =
     .accesskey = i
 containers-preferences-button =
     .label = Preferoj
+containers-settings-button =
+    .label = Agordoj
 containers-remove-button =
     .label = Forigi
 
@@ -632,6 +664,10 @@ sync-signedout-caption = Kunporti vian Teksaĵon kun vi
 sync-signedout-description = Speguli viajn legosignojn, historion, langetojn, pasvortojn, aldonaĵojn kaj preferojn en ĉiuj viaj aparatoj.
 sync-signedout-account-signin2 =
     .label = Komenci seancon en { -sync-brand-short-name }…
+    .accesskey = K
+sync-signedout-description2 = Speguli viajn legosignojn, historion, langetojn, pasvortojn, aldonaĵojn kaj agordojn en ĉiuj viaj aparatoj.
+sync-signedout-account-signin3 =
+    .label = Komenci seancon por speguli…
     .accesskey = K
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -672,6 +708,10 @@ prefs-sync-setup =
     .label = Agordi { -sync-brand-short-name }…
     .accesskey = A
 prefs-sync-offer-setup-label = Speguli viajn legosignojn, historion, langetojn, pasvortojn, aldonaĵojn kaj preferojn en ĉiuj viaj aparatoj.
+prefs-sync-turn-on-syncing =
+    .label = Ŝalti speguladon…
+    .accesskey = s
+prefs-sync-offer-setup-label2 = Speguli viajn legosignojn, historion, langetojn, pasvortojn, aldonaĵojn kaj agordojn en ĉiuj viaj aparatoj.
 prefs-sync-now =
     .labelnotsyncing = Speguli nun
     .accesskeynotsyncing = n
@@ -692,6 +732,7 @@ sync-currently-syncing-prefs =
         [windows] preferojn
        *[other] preferojn
     }
+sync-currently-syncing-settings = Agordoj
 sync-change-options =
     .label = Ŝanĝi…
     .accesskey = a
@@ -739,6 +780,10 @@ sync-engine-prefs =
         }
     .tooltiptext = Ĝeneralaj, privatecaj kaj sekurecaj agordoj ŝanĝitaj de vi
     .accesskey = p
+sync-engine-settings =
+    .label = Agordoj
+    .tooltiptext = Ĝeneralaj, privatecaj kaj sekurecaj agordoj ŝanĝitaj de vi
+    .accesskey = v
 
 ## The device name controls.
 
