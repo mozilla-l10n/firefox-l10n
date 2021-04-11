@@ -74,7 +74,7 @@ captivePortal-title = Aniciu de sesión na rede
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 malformedURI-title = Eh… Esta direición nun paez correuta.
-netInterrupt-title = Interrumpióse la conexón
+netInterrupt-title = Torgóse la conexón
 notCached-title = El documentu caducó
 netOffline-title = Mou ensin conexón
 contentEncodingError-title = Fallu de codificación del conteníu
