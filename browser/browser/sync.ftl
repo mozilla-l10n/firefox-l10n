@@ -20,6 +20,7 @@ fxa-signout-dialog =
     .title = Odjava iz { -fxaccount-brand-name }a
     .style = min-width: 375px;
     .buttonlabelaccept = Odjava
+fxa-signout-dialog2-button = Odjava
 fxa-signout-dialog2-checkbox = Izbriši podatke s te naprave (gesla, zgodovino, zaznamke itd.)
 fxa-menu-sync-settings =
     .label = Nastavitve sinhronizacije

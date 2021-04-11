@@ -344,3 +344,4 @@ about-logins-import-report-row-description-error-missing-field = Napaka: Manjka 
 
 ## Logins import report page
 
+about-logins-import-report-page-title = Poročilo o uvozu
