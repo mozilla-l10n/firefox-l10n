@@ -264,6 +264,8 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = Aldoni legosignon
+bookmarks-edit-bookmark = Modifi legosignon
 bookmark-panel-cancel =
     .label = Nuligi
     .accesskey = N
@@ -281,6 +283,8 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = M
 bookmark-panel-done-button =
     .label = Preta
+bookmark-panel-save-button =
+    .label = Konservi
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -373,6 +377,21 @@ browser-tab-audio-pip = BILDO-EN-BILDO
 ## Variables:
 ##  $count (number): number of affected tabs
 
+browser-tab-mute =
+    { $count ->
+        [1] SILENTIGI LANGETON
+       *[other] SILENTIGI { $count } LANGETOJN
+    }
+browser-tab-unmute =
+    { $count ->
+        [1] MALSILENTIGI LANGETON
+       *[other] MALSILENTIGI { $count } LANGETOJN
+    }
+browser-tab-unblock =
+    { $count ->
+        [1] LUDI LANGETON
+       *[other] LUDI { $count } LANGETOJN
+    }
 
 ## Bookmarks toolbar items
 
@@ -524,6 +543,13 @@ urlbar-result-action-tabtosearch-web = Serĉi per { $engine } rekte el la adresa
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = Serĉi per { $engine } rekte el la adresa strio
+# Action text for copying to clipboard.
+urlbar-result-action-copy-to-clipboard = Kopii
+# Shows the result of a formula expression being calculated, the last = sign will be shown
+# as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result = = { $result }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -642,6 +668,20 @@ save-to-pocket-button =
 
 ## Customize Toolbar Buttons
 
+# Variables:
+#  $shortcut (String): keyboard shortcut to open the add-ons manager
+toolbar-addons-themes-button =
+    .label = Aldonaĵoj kaj etosoj
+    .tooltiptext = Administri viajn aldonaĵojn kaj etosojn ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open settings (only on macOS)
+toolbar-settings-button =
+    .label = Agordoj
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Malfermi agordojn ({ $shortcut })
+           *[other] Malfermi agordojn
+        }
 
 ## More items
 

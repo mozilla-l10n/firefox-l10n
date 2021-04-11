@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = Refreŝigi { -brand-short-name }
+refresh-profile-dialog-title = Ĉu ripari { -brand-short-name } remetante ĝiajn normajn agordojn?
 refresh-profile-dialog-button =
     .label = Refreŝigi { -brand-short-name }
 refresh-profile-description = Rekomeni freŝe por solvi problemojn kaj rehavi antaŭan efikecon.

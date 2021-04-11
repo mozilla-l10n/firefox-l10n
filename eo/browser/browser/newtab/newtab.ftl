@@ -19,6 +19,20 @@ newtab-search-box-search-button =
     .title = Serĉi
     .aria-label = Serĉi
 newtab-search-box-search-the-web-text = Serĉi en la teksaĵo
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-text = Serĉi per { $engine } aŭ tajpi adreson
+newtab-search-box-handoff-text-no-engine = Serĉi aŭ tajpi adreson
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-input =
+    .placeholder = Serĉi per { $engine } aŭ tajpi adreson
+    .title = Serĉi per { $engine } aŭ tajpi adreson
+    .aria-label = Serĉi per { $engine } aŭ tajpi adreson
+newtab-search-box-handoff-input-no-engine =
+    .placeholder = Serĉi aŭ tajpi adreson
+    .title = Serĉi aŭ tajpi adreson
+    .aria-label = Serĉi aŭ tajpi adreson
 newtab-search-box-search-the-web-input =
     .placeholder = Serĉi en la teksaĵo
     .title = Serĉi en la teksaĵo
