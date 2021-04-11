@@ -678,7 +678,7 @@ sync-signedout-account-signin2 =
     .accesskey = i
 sync-signedout-description2 = Sinhronizirajte zaznamke, zgodovino, zavihke, gesla, dodatke in nastavitve vseh vaših naprav.
 sync-signedout-account-signin3 =
-    .label = Prijava v Sync …
+    .label = Prijava v sinhronizacijo …
     .accesskey = P
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -1024,6 +1024,7 @@ content-blocking-etp-standard-desc = Uravnotežena zaščita in delovanje. Stran
 content-blocking-etp-strict-desc = Močnejša zaščita, ki pa lahko povzroči nedelovanje nekaterih strani ali vsebine.
 content-blocking-etp-custom-desc = Izberite, katere sledilce in skripte želite zavračati.
 content-blocking-private-windows = Sledilno vsebino v zasebnih oknih
+content-blocking-cross-site-cookies = Spletni piškotki
 content-blocking-cross-site-tracking-cookies = Spletne sledilne piškotke
 content-blocking-cross-site-tracking-cookies-plus-isolate = Spletne sledilce in izoliraj preostale piškotke
 content-blocking-social-media-trackers = Sledilce družbenih omrežij

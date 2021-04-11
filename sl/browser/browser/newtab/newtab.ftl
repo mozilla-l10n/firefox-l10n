@@ -23,6 +23,16 @@ newtab-search-box-search-the-web-text = Iskanje po spletu
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = Iščite z iskalnikom { $engine } ali vnesite naslov
 newtab-search-box-handoff-text-no-engine = Iskanje ali naslov strani
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-input =
+    .placeholder = Iščite z iskalnikom { $engine } ali vnesite naslov
+    .title = Iščite z iskalnikom { $engine } ali vnesite naslov
+    .aria-label = Iščite z iskalnikom { $engine } ali vnesite naslov
+newtab-search-box-handoff-input-no-engine =
+    .placeholder = Iskanje ali naslov strani
+    .title = Iskanje ali naslov strani
+    .aria-label = Iskanje ali naslov strani
 newtab-search-box-search-the-web-input =
     .placeholder = Iskanje po spletu
     .title = Iskanje po spletu
