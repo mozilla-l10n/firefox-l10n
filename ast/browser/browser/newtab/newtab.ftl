@@ -6,6 +6,8 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = Llingüeta nueva
+newtab-settings-button =
+    .title = Personalizar la páxina «Llingüeta nueva»
 newtab-personalize-button-label = Personalizar
     .title = Personaliza «Llingüeta nueva»
     .aria-label = Personalizar «Llingüeta nueva»
