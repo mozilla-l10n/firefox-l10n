@@ -34,6 +34,9 @@ sidebar-preferences-button-title =
             [windows] Preferoj de { -brand-short-name }
            *[other] Preferoj de { -brand-short-name }
         }
+addons-settings-button = Agordoj de { -brand-short-name }
+sidebar-settings-button-title =
+    .title = Agordoj de { -brand-short-name }
 show-unsigned-extensions-button =
     .label = Montri etendaĵojn kiuj ne povis esti kontrolitaj
 show-all-extensions-button =
@@ -370,9 +373,6 @@ addon-detail-private-browsing-disallow = Ne permesi
 addon-badge-recommended2 =
     .title = { -brand-product-name } nur rekomendas etendaĵojn, kiuj konformas al niaj normoj pri sekureco kaj efikeco
     .aria-label = { addon-badge-recommended2.title }
-addon-badge-line2 =
-    .title = Tiu ĉi estas neoficiala etendaĵo farita de la kreantoj de { -brand-product-name }
-    .aria-label = { addon-badge-line2.title }
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =

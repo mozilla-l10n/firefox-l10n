@@ -11,10 +11,11 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Difini politikojn, kiujn Webextensions povas aliri per chrome.storage.managed.
+policy-AllowedDomainsForApps = Difini la nomregnojn kiuj rajtas aliri Google Workspace.
 policy-AppAutoUpdate = Aktivigi aŭ malaktivigi aŭtomatan ĝisdatigon de programoj.
 policy-AppUpdateURL = Difini personecigitan ĝisdatigan ligilon por programo.
 policy-Authentication = Agordi internan aŭtentikigon por retejoj, kiuj subtenas ĝin.
-policy-BackgroundAppUpdate = Aktivigi aŭ malaktivigi la fonan ĝisdatigilon, kiu ĝisdatigas la retumilon dum ĝi ne funkcias.
+policy-BackgroundAppUpdate2 = Aktivigi aŭ malaktivigi la fonan ĝisdatigilon.
 policy-BlockAboutAddons = Bloki aliron al administrilo de aldonaĵoj (about:addons).
 policy-BlockAboutConfig = Bloki aliron al la paĝo about:config.
 policy-BlockAboutProfiles = Bloki aliron al la paĝo about:profiles.
@@ -107,6 +108,7 @@ policy-SearchEngines = Agordi serĉilojn. Tiu ĉi politiko nur disponebla en la 
 policy-SearchSuggestEnabled = Aktivigi aŭ malaktivigi serĉajn sugestojn.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Instali modulojn PKCS #11.
+policy-ShowHomeButton = Montri la butonon por eka paĝo en la ilaro.
 policy-SSLVersionMax = Difini la minimuman version de SSL.
 policy-SSLVersionMin = Difini la maksimuman version de SSL.
 policy-SupportMenu = Aldoni personecigitan menueron al la helpa menuo.
