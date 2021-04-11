@@ -323,6 +323,7 @@ about-logins-import-dialog-error-unable-to-read-description = Prepričajte se, d
 about-logins-import-dialog-error-no-logins-imported = Uvožena ni bila nobena prijava
 about-logins-import-dialog-error-learn-more = Več o tem
 about-logins-import-dialog-error-try-again = Poskusi znova …
+about-logins-import-dialog-error-try-import-again = Poskusi znova uvoziti …
 about-logins-import-dialog-error-cancel = Prekliči
 about-logins-import-report-title = Povzetek uvoza
 about-logins-import-report-description = Prijave in gesla, uvožena v { -brand-short-name }.
@@ -330,6 +331,7 @@ about-logins-import-report-description = Prijave in gesla, uvožena v { -brand-s
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = Vrstica { $number }
+about-logins-import-report-row-description-no-change = Podvojitev: popolno ujemanje z obstoječo prijavo
 about-logins-import-report-row-description-modified = Obstoječa prijava posodobljena
 about-logins-import-report-row-description-added = Nova prijava dodana
 about-logins-import-report-row-description-error = Napaka: Manjkajoče polje
@@ -351,6 +353,13 @@ about-logins-import-report-added =
         [two] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">novi prijavi dodani</div>
         [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">nove prijave dodane</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">novih prijav dodanih</div>
+    }
+about-logins-import-report-modified =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">obstoječa prijava posodobljena</div>
+        [two] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">obstoječi prijavi posodobljeni</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">obstoječe prijave posodobljene</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">obstoječih prijav posodobljenih</div>
     }
 
 ## Logins import report page
