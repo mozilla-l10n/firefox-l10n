@@ -80,6 +80,7 @@ login-intro-instruction-fxa = Ustvarite { -fxaccount-brand-name } ali se prijavi
 login-intro-instruction-fxa-settings = Prepričajte se, da ste v Nastavitvah { -sync-brand-short-name }a označili polje Prijave
 about-logins-intro-instruction-help = Za dodatno pomoč obiščite <a data-l10n-name="help-link">Podporo { -lockwise-brand-short-name }</a>
 login-intro-instructions-fxa = Ustvarite { -fxaccount-brand-name(capitalization: "sentence") } ali se prijavite na napravi, na kateri so shranjene vaše prijave.
+login-intro-instructions-fxa-settings = Pojdite v Nastavitve > Sinhronizacija > Vklopi sinhronizacijo … in označite Prijave in gesla.
 login-intro-instructions-fxa-help = Za dodatno pomoč obiščite <a data-l10n-name="help-link">Podporo { -lockwise-brand-short-name }</a>.
 about-logins-intro-import = Če so vaše prijave shranjene v drugem brskalniku, jih lahko <a data-l10n-name="import-link">uvozite v { -lockwise-brand-short-name }</a>
 about-logins-intro-import2 = Če so vaše prijave shranjene izven { -brand-product-name }a, jih lahko <a data-l10n-name="import-browser-link">uvozite iz drugega brskalnika</a> ali <a data-l10n-name="import-file-link">datoteke</a>
@@ -329,6 +330,8 @@ about-logins-import-report-description = Prijave in gesla, uvožena v { -brand-s
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = Vrstica { $number }
+about-logins-import-report-row-description-modified = Obstoječa prijava posodobljena
+about-logins-import-report-row-description-added = Nova prijava dodana
 about-logins-import-report-row-description-error = Napaka: Manjkajoče polje
 
 ##
