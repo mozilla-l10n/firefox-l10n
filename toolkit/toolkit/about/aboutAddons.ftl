@@ -262,5 +262,7 @@ updates-heading = Xestiona los anovamientos
 discover-heading = Personaliza { -brand-short-name }
 shortcuts-heading = Xestión de los atayos de les estensiones
 default-heading-search-label = Atopa más complementos
+addons-heading-search-input =
+    .placeholder = Buscar n'addons.mozilla.org
 addon-page-options-button =
     .title = Ferramientes pa tolos complementos

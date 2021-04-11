@@ -22,3 +22,6 @@
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+choose-app-btn =
+    .label = Escoyer…
+    .accessKey = E
