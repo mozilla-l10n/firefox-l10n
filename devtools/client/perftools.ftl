@@ -38,6 +38,7 @@ perftools-devtools-settings-label = Axustes
 
 ##
 
+perftools-button-start-recording = Aniciar un rexistru
 perftools-button-add-directory = Amestar al diccionariu
 perftools-button-remove-directory = Quitar lo esbillao
 
