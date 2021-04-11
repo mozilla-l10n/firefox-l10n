@@ -26,6 +26,7 @@ newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Teclexa o apiega una URL
 newtab-topsites-url-validation = Ríquese una URL válida
+newtab-topsites-image-url-label = URL d'imaxe personalizada
 newtab-topsites-use-image-link = Usar una imaxe personalizada…
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
