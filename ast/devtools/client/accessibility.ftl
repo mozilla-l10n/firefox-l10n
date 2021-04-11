@@ -6,6 +6,7 @@
 ### These strings are used inside the Accessibility panel.
 
 accessibility-learn-more = Lleer más
+accessibility-text-label-header = Nomes y etiquetes de testu
 
 ## Text entries that are used as text alternative for icons that depict accessibility isses.
 
