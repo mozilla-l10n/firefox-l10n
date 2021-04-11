@@ -6,7 +6,7 @@
 <!ENTITY matchAll.accesskey "λ">
 <!ENTITY matchAny.label     "Αντιστοίχιση όλων των παρακάτω">
 <!ENTITY matchAny.accesskey "π">
-<!ENTITY matchAllMsgs.label     "Ταίριασμα όλων των μηνυμάτων">
+<!ENTITY matchAllMsgs.label     "Αντιστοίχιση όλων των μηνυμάτων">
 <!ENTITY matchAllMsgs.accesskey "μ">
 
 <!-- LOCALIZATION NOTE
