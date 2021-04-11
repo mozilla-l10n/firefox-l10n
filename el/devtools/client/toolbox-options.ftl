@@ -86,7 +86,7 @@ options-sourceeditor-keybinding-default-label = Προεπιλογή
 ## Advanced section
 
 # The heading (this item is also used in perftools.ftl)
-options-context-advanced-settings = Ρυθμίσεις για προχωρημένους
+options-context-advanced-settings = Σύνθετες ρυθμίσεις
 # The label for the checkbox that toggles the HTTP cache on or off
 options-disable-http-cache-label = Απενεργοποίηση HTTP Cache (όταν είναι ανοικτή η εργαλειοθήκη)
 options-disable-http-cache-tooltip =
