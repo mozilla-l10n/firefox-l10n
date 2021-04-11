@@ -100,6 +100,7 @@ a11y-title = Accesibilidá
 copy-text-to-clipboard-label = Copiar el testu al cartafueyu
 copy-raw-data-to-clipboard-label = Copiar los datos en bruto al cartafueyu
 sandbox-sys-call-index = #
+sandbox-sys-call-age = Hai segundos
 sandbox-sys-call-pid = PID
 sandbox-sys-call-tid = TID
 sandbox-sys-call-args = Argumentos
@@ -139,7 +140,10 @@ remote-debugging-url = URL
 ##
 
 support-third-party-modules-title = Módulos de terceros
+support-third-party-modules-thread = Filu
 support-third-party-modules-status = Estáu
+support-third-party-modules-unsigned-icon =
+    .title = Esti módulu nun ta robláu
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -181,12 +185,18 @@ no = Non
 found = Atopóse
 gpu-description = Descripción
 gpu-ram = RAM
+glcontext-crash-guard = OpenGL
 min-lib-versions = Versión mínima que s'espera
 loaded-lib-versions = Versión n'usu
+sandbox-proc-type-content = conteníu
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
+# Variables
+# $fissionWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+fission-windows = { $fissionWindows }/{ $totalWindows }
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
