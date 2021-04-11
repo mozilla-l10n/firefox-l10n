@@ -38,7 +38,6 @@ printui-scale-fit-to-page-width = Sovita sivun leveyteen
 printui-scale-pcent = Koko
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Kaksipuolinen tulostus
-printui-duplex-checkbox = Tulosta molemmille puolille
 printui-two-sided-printing-off = Pois päältä
 # Section title for miscellaneous print options
 printui-options = Valinnat
@@ -53,6 +52,7 @@ printui-margins-default = Oletus
 printui-margins-min = Pienimmät
 printui-margins-none = Ei reunuksia
 printui-margins-custom-inches = Mukautettu (tuumina)
+printui-margins-custom-mm = Oma (mm)
 printui-margins-custom-top = Ylä
 printui-margins-custom-top-inches = Ylä (tuumina)
 printui-margins-custom-bottom = Ala
