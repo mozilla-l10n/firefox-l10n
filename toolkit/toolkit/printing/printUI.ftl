@@ -39,6 +39,10 @@ printui-scale-pcent = Koko
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Kaksipuolinen tulostus
 printui-two-sided-printing-off = Pois päältä
+# Flip the sheet as if it were bound along its long edge.
+printui-two-sided-printing-long-edge = Käännä pitkän reunan ympäri
+# Flip the sheet as if it were bound along its short edge.
+printui-two-sided-printing-short-edge = Käännä lyhyen reunan ympäri
 # Section title for miscellaneous print options
 printui-options = Valinnat
 printui-headers-footers-checkbox = Tulosta ylä- ja alatunnisteet
