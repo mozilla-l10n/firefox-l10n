@@ -601,6 +601,7 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Näytä hakuehdotukset yksityisissä ikkunoissa
 suggestions-addressbar-settings-generic = Muuta osoitepalkin muiden ehdotusten asetuksia
+suggestions-addressbar-settings-generic2 = Muuta osoitepalkin muiden ehdotusten asetuksia
 search-suggestions-cant-show = Hakuehdotuksia ei näytetä osoitepalkista tehtävistä hauista, koska olet valinnut, että { -brand-short-name } ei muista historiaa.
 search-one-click-header = Hakukoneet pikavalikossa
 search-one-click-header2 = Hakuoikotiet
@@ -660,6 +661,9 @@ sync-signedout-account-signin2 =
     .label = Kirjaudu { -sync-brand-short-name }-palveluun…
     .accesskey = i
 sync-signedout-description2 = Synkronoi kirjanmerkit, sivuhistoria, välilehdet, salasanat, lisäosat ja asetukset kaikilla laitteillasi.
+sync-signedout-account-signin3 =
+    .label = Kirjaudu synkronoidaksesi…
+    .accesskey = K
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -699,6 +703,9 @@ prefs-sync-setup =
     .label = Määritä { -sync-brand-short-name }…
     .accesskey = M
 prefs-sync-offer-setup-label = Synkronoi kirjanmerkit, historia, välilehdet, salasanat, lisäosat ja asetukset kaikkien laitteidesi välillä.
+prefs-sync-turn-on-syncing =
+    .label = Ota synkronointi käyttöön…
+    .accesskey = O
 prefs-sync-offer-setup-label2 = Synkronoi kirjanmerkit, sivuhistoria, välilehdet, salasanat, lisäosat ja asetukset kaikilla laitteillasi.
 prefs-sync-now =
     .labelnotsyncing = Synkronoi nyt
@@ -768,6 +775,10 @@ sync-engine-prefs =
         }
     .tooltiptext = Muuttamasi yleiset asetukset sekä tietosuoja- ja turvallisuusasetukset
     .accesskey = e
+sync-engine-settings =
+    .label = Asetukset
+    .tooltiptext = Muuttamasi yleiset asetukset sekä tietosuoja- ja turvallisuusasetukset
+    .accesskey = A
 
 ## The device name controls.
 
@@ -1185,6 +1196,8 @@ space-alert-under-5gb-message = { -brand-short-name(case: "ablative") } loppuu k
 space-alert-over-5gb-settings-button =
     .label = Avaa asetukset
     .accesskey = A
+space-alert-over-5gb-message2 = <strong>{ -brand-short-name(case: "ablative") } loppuu kohta levytila.</strong> Sivustojen sisällöt eivät ehkä näy oikein. Voit tyhjentää sivustotiedot avaamalla Asetukset > Tietosuoja ja turvallisuus > Evästeet ja sivustotiedot.
+space-alert-under-5gb-message2 = <strong>{ -brand-short-name(case: "ablative") } loppuu kohta levytila.</strong> Sivustojen sisällöt eivät ehkä näy oikein. Voit lukea levyn käytön optimoimisesta selaamisen sujuvoittamiseksi painamalla ”Lue lisää”.
 
 ## Privacy Section - HTTPS-Only
 
