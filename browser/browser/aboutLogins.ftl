@@ -332,6 +332,7 @@ about-logins-import-dialog-error-unable-to-read-description = Įsitikinkite, kad
 about-logins-import-dialog-error-no-logins-imported = Neimportuoti jokie prisijungimai
 about-logins-import-dialog-error-learn-more = Sužinoti daugiau
 about-logins-import-dialog-error-try-again = Bandyti dar kartą…
+about-logins-import-dialog-error-try-import-again = Bandyti importuoti iš naujo…
 about-logins-import-dialog-error-cancel = Atsisakyti
 about-logins-import-report-title = Importo suvestinė
 about-logins-import-report-description = Į „{ -brand-short-name }“ importuoti prisijungimai ir slaptažodžiai.
