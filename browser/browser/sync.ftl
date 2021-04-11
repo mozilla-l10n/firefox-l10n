@@ -14,6 +14,7 @@ fxa-disconnect-dialog-title = Irrotetaanko { -brand-product-name }?
 fxa-disconnect-dialog-body = { -brand-product-name } irrotetaan tilistäsi, mutta mitään tämän laitteen selaustietoja ei poisteta.
 sync-disconnect-dialog-button = Katkaise yhteys
 fxa-signout-dialog-heading = Kirjaudutaanko ulos { -fxaccount-brand-name(case: "ablative") }?
+fxa-signout-dialog2-title = Kirjaudutaanko ulos { -fxaccount-brand-name(case: "ablative") }?
 fxa-signout-dialog-body = Synkronoidut tiedot säilyvät tililläsi.
 fxa-signout-checkbox =
     .label = Poista tiedot tältä laitteelta (käyttäjätunnukset, salasanat, historia, kirjanmerkit jne.).
