@@ -288,6 +288,7 @@ cfr-doorhanger-doh-secondary-button = Onemogoči
 ## Fission Experiment Message
 
 cfr-doorhanger-fission-body-approved = Vaša zasebnost je pomembna. { -brand-short-name } zdaj medsebojno izolira spletna mesta ali jih izvaja v peskovnikih, kar napadalcem otežuje krajo gesel, številk kreditnih kartic in ostalih občutljivih podatkov.
+cfr-doorhanger-fission-header = Izolacija mesta
 cfr-doorhanger-fission-primary-button = V redu, razumem
     .accesskey = V
 cfr-doorhanger-fission-secondary-button = Več o tem
@@ -306,6 +307,7 @@ cfr-whatsnew-media-keys-button = Poglejte, kako
 
 ## What's new: Search shortcuts
 
+cfr-whatsnew-search-shortcuts-header = Bližnjice za iskanje v naslovni vrstici
 
 ## What's new: Cookies protection
 
