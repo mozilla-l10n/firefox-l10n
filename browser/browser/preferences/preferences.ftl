@@ -404,11 +404,6 @@ update-setting-write-failure-message =
     
     Ne eblis skribi la dosieron: { $path }
 update-setting-write-failure-title2 = Eraro dum konservo de ĝistadigaj agordoj
-# Variables:
-#   $path (String) - Path to the configuration file
-# The newlines between the main text and the line containing the path is
-# intentional so the path is easier to identify.
-update-setting-write-failure-message2 = { -brand-short-name } trovis eraron kaj ne konservis tiun ĉi ŝanĝon. Bonvolu noti ke oni bezonas povi skribi la suban dosieron, por povi agordi tiun ĉi ĝisdatigan agordon. Vi, aŭ sisteman administranton povus eble solvi la eraron jene: rajtigi al la grupo Users plenan regadon de tiu ĉi dosiero.
 update-in-progress-title = Ĝisdatigo plenumata
 update-in-progress-message = Ĉu vi volas ke { -brand-short-name } daŭrigu tiun ĉi ĝisdatigon?
 update-in-progress-ok-button = &Abandoni
