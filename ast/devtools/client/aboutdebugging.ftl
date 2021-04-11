@@ -66,8 +66,12 @@ about-debugging-refresh-usb-devices-button = Refrescar los preseos
 about-debugging-setup-title = Configuración
 # Introduction text in the Setup page to explain how to configure remote debugging.
 about-debugging-setup-intro = Configura'l métodu de conexón col que quies depurar remotamente'l to preséu.
+# Title of the heading Connect section of the Setup page.
+about-debugging-setup-connect-heading = Conexón d'un preséu
 # USB section of the Setup page
 about-debugging-setup-usb-title = USB
+# Explanatory text displayed in the Setup page when USB debugging is disabled
+about-debugging-setup-usb-disabled = Activar esto va baxar y amestar los componentes riquíos de depuración USB d'Android en { -brand-shorter-name }.
 # Text of the button displayed in the USB section of the setup page when USB debugging is disabled.
 # Clicking on it will download components needed to debug USB Devices remotely.
 about-debugging-setup-usb-enable-button = Activar los preseos USB
