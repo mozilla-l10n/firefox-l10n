@@ -5,6 +5,7 @@
 
 ## Messages used as headers in the main pane
 
+compatibility-selected-element-header = Elementu esbilláu
 compatibility-all-elements-header = Tolos problemes
 
 ## Message used as labels for the type of issue
