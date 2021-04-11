@@ -208,6 +208,7 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
+<!ENTITY customizeMode.autoHideDownloadsButton.label "Anubrir automáticamente">
 
 
 
