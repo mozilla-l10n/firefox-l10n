@@ -6,3 +6,4 @@ add-on-options-button =
     .title = Add-on-opsjes
 atn-addons-heading-search-input =
     .placeholder = addons.thunderbird.net trochsykje
+sidebar-preferences-button-title = { -brand-short-name }-foarkarren
