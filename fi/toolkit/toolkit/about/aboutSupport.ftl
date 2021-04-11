@@ -134,6 +134,7 @@ clear-startup-cache-title = Kokeile tyhjentää käynnistyksen välimuisti
 clear-startup-cache-label = Tyhjennä käynnistyksen välimuisti…
 startup-cache-dialog-title = Käynnistyksen välimuistin tyhjennys
 startup-cache-dialog-body = Käynnistyksen välimuistin tyhjentämiseksi { -brand-short-name } käynnistetään uudestaan. Tämä ei muuta asetuksia eikä poista laajennuksia, jotka on lisätty { -brand-short-name(case: "illative") }.
+startup-cache-dialog-title2 = Käynnistetäänkö { -brand-short-name } uudestaan käynnistyksen välimuistin tyhjentämiseksi?
 startup-cache-dialog-body2 = Tämä ei muuta asetuksiasi tai poista laajennuksia.
 restart-button-label = Käynnistä uudestaan
 
