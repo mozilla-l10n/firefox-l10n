@@ -257,6 +257,12 @@ browser-window-close-button =
 ## Tab actions
 
 # This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = EN REPRODUCCIÓN
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = AUDIU DESACTIVÁU
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = REPROD. AUTO. BLOQUIADA
+# This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = IMAXE SOBRE IMAXE
 
 ## These labels should be written in all capital letters if your locale supports them.
