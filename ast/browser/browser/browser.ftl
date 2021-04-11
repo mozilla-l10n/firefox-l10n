@@ -222,14 +222,17 @@ identity-connection-not-secure-security-view = Nun tas conectáu de mou seguru a
 identity-connection-verified = Tas conectáu de mou seguru a esti sitiu.
 identity-ev-owner-label = El certificáu emitióse pa:
 identity-description-custom-root = Mozilla nun reconoz esti emisor de certificaos. Pue ser que lu amestare'l sistema operativu o un alministrador. <label data-l10n-name="link">Lleer más</label>
+identity-remove-cert-exception =
+    .label = Quitar la esceición
+    .accesskey = Q
 identity-description-insecure = La conexón a esti sitiu nun ye privada. La información (contraseñes o tarxetes de creitu) qu'unvies podríen vela terceros.
 identity-description-weak-cipher-intro = La conexón a esti sitiu web usa un cifráu feble y nun ye privada.
 identity-description-weak-cipher-risk = Terceros puen ver la to información o modificar el comportamientu del sitiu web.
 identity-description-active-blocked = { -brand-short-name } bloquió partes d'esta páxina que nun son segures. <label data-l10n-name="link">Lleer más</label>
 identity-description-passive-loaded = La conexón nun ye privada y la información que compartas col sitiu podríen vela otros.
-identity-description-passive-loaded-insecure = Esti sitiu web contién conteníu que nun ye seguru (como les imáxenes). <label data-l10n-name="link">Lleer más</label>
+identity-description-passive-loaded-insecure = Esti sitiu web inclúi conteníu que nun ye seguru (como les imáxenes). <label data-l10n-name="link">Lleer más</label>
 identity-description-passive-loaded-mixed = Magar que { -brand-short-name } bloquió dalgún conteníu, entá hai conteníu na páxina que nun ye seguru (como imáxenes). <label data-l10n-name="link">Lleer más</label>
-identity-description-active-loaded = Esti sitiu web contién conteníu que nun ye seguru (como los scripts) y la conexón a elli nun ye privada.
+identity-description-active-loaded = Esti sitiu web inclúi conteníu que nun ye seguru (como los scripts) y la conexón a elli nun ye privada.
 identity-description-active-loaded-insecure = La información que compartas con esti sitiu podríen vela otros (contraseñes, mensaxes, tarxetes de creitu, etc.).
 identity-learn-more =
     .value = Lleer más
