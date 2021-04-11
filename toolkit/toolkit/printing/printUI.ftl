@@ -38,7 +38,6 @@ printui-scale-fit-to-page-width = Alĝustigi al larĝo de paĝo
 printui-scale-pcent = Skalo
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Ambaŭflanka presado
-printui-duplex-checkbox = Presi ambaŭflanke
 printui-two-sided-printing-off = Malŝaltita
 # Flip the sheet as if it were bound along its long edge.
 printui-two-sided-printing-long-edge = Ambaŭflanke laŭ la longa rando
@@ -57,14 +56,19 @@ printui-margins-default = Normaj
 printui-margins-min = Minimuma
 printui-margins-none = Neniu
 printui-margins-custom-inches = Personecitiga (coloj)
+printui-margins-custom-mm = Personecigita (mm)
 printui-margins-custom-top = Supre
 printui-margins-custom-top-inches = Supre (coloj)
+printui-margins-custom-top-mm = Supre (mm)
 printui-margins-custom-bottom = Malsupre
 printui-margins-custom-bottom-inches = Malsupre (coloj)
+printui-margins-custom-bottom-mm = Malsupre (mm)
 printui-margins-custom-left = Maldekstre
 printui-margins-custom-left-inches = Maldekstre (coloj)
+printui-margins-custom-left-mm = Maldekstre (mm)
 printui-margins-custom-right = Dekstre
 printui-margins-custom-right-inches = Dekstre (coloj)
+printui-margins-custom-right-mm = Dekstre (mm)
 printui-system-dialog-link = Presi per la sistema dialogo…
 printui-primary-button = Presi
 printui-primary-button-save = Konservi
