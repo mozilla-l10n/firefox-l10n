@@ -318,6 +318,9 @@ popup-screen-sharing-not-now =
     .label = Agora non
     .accesskey = n
 popup-silence-notifications-checkbox-warning = { -brand-short-name } nun va amosar avisos mentanto teas compartiendo.
+popup-screen-sharing-block =
+    .label = Bloquiar
+    .accesskey = B
 popup-mute-notifications-checkbox = Desactivar los avisos de los sitios web mentanto se comparte
 
 ## WebRTC window or screen share tab switch warning
