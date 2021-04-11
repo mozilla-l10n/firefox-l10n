@@ -546,6 +546,11 @@ urlbar-result-action-tabtosearch-web = Søg med { $engine } direkte fra adressef
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = Søg med { $engine } direkte fra adressefeltet
+# Shows the result of a formula expression being calculated, the last = sign will be shown
+# as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result = = { $result }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -664,6 +669,20 @@ save-to-pocket-button =
 
 ## Customize Toolbar Buttons
 
+# Variables:
+#  $shortcut (String): keyboard shortcut to open the add-ons manager
+toolbar-addons-themes-button =
+    .label = Tilføjelser og temaer
+    .tooltiptext = Håndter dine tilføjelser og temaer ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open settings (only on macOS)
+toolbar-settings-button =
+    .label = Indstillinger
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Åbn indstillinger ({ $shortcut })
+           *[other] Åbn indstillinger
+        }
 
 ## More items
 
