@@ -29,8 +29,10 @@ hovering over the video. -->
 <!-- LOCALIZATION NOTE (pictureInPictureExplainer): This string is used as part of
 a variation of the Picture-in-Picture video toggle button. When using this variation,
 this string appears below the toggle when the mouse hovers the toggle. -->
+<!ENTITY pictureInPictureExplainer "Пахш кардани видеоҳо дар ҷойи намоён ҳангоми машғул будан бо чизҳои дигар дар &brandShortName;">
 
 
+<!ENTITY status.pictureInPicture "Ин видео дар реҷаи «Расм-дар-расм» пахш шуда истодааст.">
 
 <!-- LOCALIZATION NOTE (positionAndDuration.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
