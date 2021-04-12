@@ -988,7 +988,7 @@ addressbar-locbar-topsites-option =
     .label = Κορυφαίων ιστοσελίδων
     .accesskey = Κ
 addressbar-locbar-engines-option =
-    .label = Μηχανές αναζήτησης
+    .label = Μηχανών αναζήτησης
     .accesskey = α
 addressbar-suggestions-settings = Αλλαγή προτιμήσεων για τις προτάσεις μηχανών αναζήτησης
 
