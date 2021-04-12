@@ -952,6 +952,8 @@ sitedata-option-block-cross-site-and-social-media-trackers =
     .label = Spletne sledilce in sledilce družbenih omrežij
 sitedata-option-block-cross-site-tracking-cookies-including-social-media =
     .label = Spletne sledilne piškotke – vključuje piškotke družbenih omrežij
+sitedata-option-block-cross-site-cookies-including-social-media =
+    .label = Spletne piškotke – vključuje piškotke družbenih omrežij
 sitedata-option-block-cross-site-and-social-media-trackers-plus-isolate =
     .label = Spletne sledilce in sledilce družbenih omrežij ter izoliraj preostale piškotke
 sitedata-option-block-unvisited =
@@ -1003,6 +1005,7 @@ addressbar-suggestions-settings = Spremeni nastavitve predlogov iskanja
 content-blocking-enhanced-tracking-protection = Izboljšana zaščita pred sledenjem
 content-blocking-section-top-level-description = Sledilci vas spremljajo po spletu ter zbirajo podatke o vaših navadah in zanimanjih. { -brand-short-name } zavrača veliko teh sledilcev in drugih zlonamernih skriptov.
 content-blocking-learn-more = Več o tem
+content-blocking-fpi-incompatibility-warning = Uporabljate First Party Isolation (FPI), ki preglasi nekatere nastavitve piškotkov { -brand-short-name(sklon: "rodilnik") }.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.

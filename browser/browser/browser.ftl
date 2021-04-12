@@ -321,8 +321,10 @@ identity-https-only-dropdown-off =
 identity-https-only-dropdown-off-temporarily =
     .label = Začasno izključeno
 identity-https-only-info-turn-on2 = Vključite način samo HTTPS za to stran, če želite, da { -brand-short-name } nadgradi povezavo, ko je to mogoče.
+identity-https-only-info-turn-off2 = Če se zdi stran pokvarjena, lahko poskusite izklopiti način "Samo HTTPS", ki bo spletno mesto znova naložil z nezavarovanim HTTP.
 identity-https-only-info-no-upgrade = Povezave ni mogoče nadgraditi s HTTP.
 identity-permissions-storage-access-header = Spletni piškotki
+identity-permissions-storage-access-hint = Te stranke lahko uporabljajo spletne piškotke in podatke strani, medtem ko ste vi na tej strani.
 identity-permissions-reload-hint = Za uveljavitev sprememb boste morda morali ponovno naložiti stran.
 identity-permissions-empty = Tej strani niste dodelili posebnih dovoljenj.
 identity-clear-site-data =
@@ -388,6 +390,14 @@ browser-tab-mute =
         [two] UTIŠAJ { $count } ZAVIHKA
         [few] UTIŠAJ { $count } ZAVIHKE
        *[other] UTIŠAJ { $count } ZAVIHKOV
+    }
+browser-tab-unmute =
+    { $count ->
+        [1] POVRNI GLASNOST ZAVIHKA
+        [one] POVRNI GLASNOST { $count } ZAVIHKA
+        [two] POVRNI GLASNOST { $count } ZAVIHKOV
+        [few] POVRNI GLASNOST { $count } ZAVIHKOV
+       *[other] POVRNI GLASNOST { $count } ZAVIHKOV
     }
 browser-tab-unblock =
     { $count ->
