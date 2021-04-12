@@ -21,16 +21,22 @@ experimental-features-media-avif-description = Jika fitur ini diaktifkan, { -bra
 # by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
     .label = API Web: inputmode
+# "inputmode" and "contenteditable" are technical terms and shouldn't be translated.
+experimental-features-web-api-inputmode-description = Implementasi kami untuk atribut global <a data-l10n-name="mdn-inputmode">inputmode</a> telah diperbarui sesuai <a data-l10n-name="whatwg">spesifikasi WHATWG</a>. Namun kami masih perlu membuat perubahan lain juga, seperti memperbarui hal yang sama untuk konten contenteditable. Lihat <a data-l10n-name="bugzilla">bug 1205133</a> untuk detail lebih lanjut.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheet
+experimental-features-css-constructable-stylesheets-description = Penambahan konstruktor untuk antarmuka <a data-l10n-name="mdn-cssstylesheet">CSSylesheet</a> serta berbagai perubahan yang terkait memungkinkan pembuatan stylesheet baru secara langsung tanpa harus menambahkan stylesheet ke HTML. Ini mempermudah penggunaan ulang stylesheet untuk digunakan dengan <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. Lihat <a data-l10n-name="bugzilla">bug 1520690</a> untuk detal lebih lanjut.
 experimental-features-devtools-color-scheme-simulation =
     .label = Alat Pengembang: Simulasi Skema Warna
+experimental-features-devtools-color-scheme-simulation-description = Menambahkan opsi untuk simulasi berbagai skema warna yang memungkinkan Anda untuk menguji media query <a data-l10n-name="mdn-preferscolorscheme">@prefers-color-scheme</a>. Menggunakan query ini memungkinkan stylesheet Anda merespons apakah pengguna lebih suka antarmuka yang terang atau gelap. Fitur ini memungkinkan Anda menguji kode tanpa harus mengubah setelan di peramban (atau sistem operasi, jika peramban mengikuti setelan skema warna keseluruhan sistem). Lihat <a data-l10n-name="bugzilla1">bug 1550804</a> dan <a data-l10n-name="bugzilla2">bug 1137699</a> untuk detail lebih lanjut.
 experimental-features-devtools-execution-context-selector =
     .label = Alat Pengembang: Pemilih Konteks Eksekusi
+experimental-features-devtools-execution-context-selector-description = Fitur ini menampilkan tombol pada baris perintah konsol yang memungkinkan Anda mengubah konteks pada ekspresi yang dimasukkan untuk dieksekusi. Lihat <a data-l10n-name="bugzilla1">bug 1605154</a> dan <a data-l10n-name="bugzilla2">bug 1605153</a> untuk detail lebih lanjut.
 experimental-features-devtools-compatibility-panel =
     .label = Alat Pengembang: Panel Kompabilitas
+experimental-features-devtools-compatibility-panel-description = Panel samping untuk Inspektur Laman yang menampilkan informasi yang merinci status kompatibilitas lintas peramban aplikasi Anda. Lihat <a data-l10n-name="bugzilla">bug 158464</a> untuk detail lebih lanjut.
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Kuki: SameSite=Lax secara baku
@@ -48,9 +54,12 @@ experimental-features-abouthome-startup-cache-description = Tembolok untuk dokum
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
     .label = Kuki: SameSite Berskema
+experimental-features-cookie-samesite-schemeful-description = Perlakukan kuki dari domain sama, tetapi dengan skema berbeda (contoh: http://example.com dan https://example.com) sebagai situs silang dan bukan situs yang sama. Hal ini meningkatkan keamanan tetapi mengandung potensi kerusakan.
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
     .label = Alat Pengembang: Debugging Service Worker
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-devtools-serviceworker-debugger-support-description = Mengaktifkan dukungan eksperimental untuk Service Worker di panel Debugger. Fitur ini mungkin memperlambat Alat Pengembang dan meningkatkan penggunaan memori.
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
