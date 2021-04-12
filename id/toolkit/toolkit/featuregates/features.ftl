@@ -60,6 +60,10 @@ experimental-features-devtools-serviceworker-debugger-support =
     .label = Alat Pengembang: Debugging Service Worker
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = Mengaktifkan dukungan eksperimental untuk Service Worker di panel Debugger. Fitur ini mungkin memperlambat Alat Pengembang dan meningkatkan penggunaan memori.
+# WebRTC global mute toggle controls
+experimental-features-webrtc-global-mute-toggles =
+    .label = Aktifkan/Nonaktifkan Kesenyapan WebRTC Global
+experimental-features-webrtc-global-mute-toggles-description = Tambahkan kontrol ke indikator berbagi global WebRTC yang memungkinkan pengguna menonaktfikan suara mikrofon dan umpan kamera secara global.
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
@@ -67,6 +71,7 @@ experimental-features-js-warp-description = Aktifkan Warp, sebuah proyek untuk m
 # Fission is the name of the feature and should not be translated.
 experimental-features-fission =
     .label = Fission (Isolasi Situs)
+experimental-features-fission-description = Fission (isolasi situs) adalah fitur eksperimental di { -brand-short-name } untuk menyediakan lapisan pertahanan tambahan terhadap bug keamanan. Dengan mengisolasi masing-masing situs ke dalam proses terpisah, Fission mempersulit situs web berbahaya mendapatkan akses ke informasi laman lain yang Anda kunjungi. Ini adalah perubahan arsitektur besar-besaran pada { -brand-short-name } dan kami berterima kasih jika Anda menguji dan melaporkan masalah yang mungkin dialami. Untuk detail lebih lanjut, lihat <a data-l10n-name="wiki">wiki</a>.
 # Support for having multiple Picture-in-Picture windows open simultaneously
 experimental-features-multi-pip =
     .label = Dukungan Beberapa Gambar-dalam-Gambar
@@ -77,3 +82,4 @@ experimental-features-http3-description = Dukungan eksperimental untuk protokol 
 # Search during IME
 experimental-features-ime-search =
     .label = Bilah Alamat: Tampilkan hasil selama komposisi IME
+experimental-features-ime-search-description = IME (Input Method Editor) adalah alat yang memungkinkan Anda memasukkan simbol kompleks, seperti yang digunakan dalam bahasa tulis Asia Timur atau India, menggunakan papan ketik standar. Mengaktifkan eksperimen ini akan membuat panel alamat terbuka, menampilkan hasil pencarian dan saran, ketika menggunakan IME untuk memasukkan teks. Perhatikan bahwa IME mungkin menampilkan panel yang menutupi hasil bilah alamat, karena itu preferensi ini hanya disarankan bagi IME tidak menggunakan panel jenis ini.
