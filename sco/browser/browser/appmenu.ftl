@@ -114,6 +114,18 @@ profiler-popup-reveal-description-button =
     .aria-label = Kythe mair information
 profiler-popup-description-title =
     .value = Record, analyse, share
+profiler-popup-description = Jyne in wi sortin performance issues by furthsettin profiles tae share wi yer team.
+profiler-popup-learn-more = Lairn mair
+profiler-popup-settings =
+    .value = Settins
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings = Edit Settins...
+profiler-popup-disabled = The profile is disabled the noo, maist like acause o a Preevat Stravaigin windae bein open.
+profiler-popup-recording-screen = Recordin...
+# The profiler presets list is generated elsewhere, but the custom preset is defined
+# here only.
+profiler-popup-presets-custom =
+    .label = Custom
 
 ## History panel
 
