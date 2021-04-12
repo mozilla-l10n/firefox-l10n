@@ -1204,6 +1204,8 @@ space-alert-under-5gb-message = { -brand-short-name } opyta disco pa’ũ’ỹr
 space-alert-over-5gb-settings-button =
     .label = Embojuruja ñemboheko
     .accesskey = O
+space-alert-over-5gb-message2 = { -brand-short-name } henyhẽma idísco.</strong> Umi tetepy ñanduti rendagua ikatu ndojehechaporãi. Omopotĩkuaa mba’ekuaarã tenda ñongatupyre Ñemoĩporãme > Tekoñemi ha Tekorosã > Kookie ha tenda mba’ekuaarã.
+space-alert-under-5gb-message2 = <strong>{ -brand-short-name } opyta disco pa’ũ’ỹre.</strong> Ikatu ñanduti renda retepy ndojehechaukaporãi. Eike “Kuaavépe” eipuru porã hag̃ua nde disco ne kundaha hekoresãi hag̃ua avei.
 
 ## Privacy Section - HTTPS-Only
 
