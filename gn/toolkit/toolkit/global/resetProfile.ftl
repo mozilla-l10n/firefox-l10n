@@ -11,6 +11,7 @@ refresh-profile-description = Ñepyrũ pyahu emyatyrõ hag̃ua apañuãi ha embo
 refresh-profile-description-details = Kóva ojapóta:
 refresh-profile-remove = Eipe’a umi moĩmbaha ha mba’eteéva
 refresh-profile-restore = Embojevyjey pe kundaha ñemboheko yjypykuéva repykuépe
+refresh-profile-dialog-description = Eñepyrũete emoĩporã hag̃ua tembiapokue apañuãi. Kóva omboguéta nde jepysosokue ha ñemboava. Ndoguemo’ãi ne marandu emomba’éva ha’éva techaukaha térã ñe’ẽñemi.
 refresh-profile = Eme’ẽ { -brand-short-name } omoĩ hag̃ua hendaitépe
 refresh-profile-button = { -brand-short-name } mbopiro’y…
 refresh-profile-learn-more = Kuaave
