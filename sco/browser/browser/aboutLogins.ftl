@@ -243,7 +243,7 @@ about-logins-vulnerable-alert-learn-more-link = Lairn mair
 # a new login that is identical to an existing saved login.
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
-about-logins-error-message-duplicate-login-with-link = An entry for { $loginTitle } wi thon yaiser nemme awready exists. <a data-l10n-name="duplicate-link">Gang tae existin entry?</a>
+about-logins-error-message-duplicate-login-with-link = An entry fur { $loginTitle } wi thon yaiser nemme awready exists. <a data-l10n-name="duplicate-link">Gang tae existin entry?</a>
 # This is a generic error message.
 about-logins-error-message-default = A mishanter tuik place while ettlin tae save this passwird.
 
@@ -307,7 +307,7 @@ about-logins-import-dialog-items-error =
 about-logins-import-dialog-done = Duin
 about-logins-import-dialog-error-title = Inbringin Mishanter
 about-logins-import-dialog-error-conflicting-values-title = Multiple Conflictin Values fur Ane Login
-about-logins-import-dialog-error-conflicting-values-description = For exemple: multiple yaiser nemmes, passwirds, URLs, etc. fur ane login
+about-logins-import-dialog-error-conflicting-values-description = Fur exemple: multiple yaiser nemmes, passwirds, URLs, etc. fur ane login
 about-logins-import-dialog-error-file-format-title = File Format Issue
 about-logins-import-dialog-error-file-format-description = Wrang or tint column heiders. Mak shair the file includes columns fur yaiser nemme, passwird and URL.
 about-logins-import-dialog-error-file-permission-title = No Able tae Read File

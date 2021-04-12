@@ -28,7 +28,7 @@ warningDesc-version = { -brand-short-name } is experimental and micht no be stie
 aboutdialog-help-user = { -brand-product-name } Hauners
 aboutdialog-submit-feedback = Submit Feedback
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> is a <label data-l10n-name="community-exp-creditsLink">warldwide community</label> wirkin thegither tae keep the Wab open, public, and wi ingang fur aw.
-community-2 = { -brand-short-name } is designt by <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, a <label data-l10n-name="community-creditsLink">warldwide community</label> wirkin thegither tae keep the Wab open, public, and wi ingang for aw.
+community-2 = { -brand-short-name } is designt by <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, a <label data-l10n-name="community-creditsLink">warldwide community</label> wirkin thegither tae keep the Wab open, public, and wi ingang fur aw.
 helpus = Want tae help? <label data-l10n-name="helpus-donateLink">Mak a contreebution</label> or <label data-l10n-name="helpus-getInvolvedLink">get involved!</label>
 bottomLinks-license = Licensin Information
 bottomLinks-rights = End-Yaiser Richts
