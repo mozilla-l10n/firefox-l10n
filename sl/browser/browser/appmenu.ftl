@@ -114,11 +114,13 @@ profiler-popup-reveal-description-button =
     .aria-label = Razkrij več podatkov
 profiler-popup-description-title =
     .value = Spremljajte, analizirajte, delite
+profiler-popup-description = Sodelujte pri izboljšavah učinkovitosti, tako da objavljate profile, ki jih delite s svojo ekipo.
 profiler-popup-learn-more = Več o tem
 profiler-popup-settings =
     .value = Nastavitve
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Uredi nastavitve …
+profiler-popup-disabled = Spremljanje delovanja je trenutno onemogočeno, najverjetneje zato, ker je odprto okno zasebnega brskanja.
 profiler-popup-recording-screen = Spremljanje …
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.

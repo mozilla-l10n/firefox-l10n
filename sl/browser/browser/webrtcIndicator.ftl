@@ -27,6 +27,8 @@ webrtc-camera-unmuted =
     .title = Izklopi kamero
 webrtc-camera-muted =
     .title = Vklopi kamero
+webrtc-minimize =
+    .title = Pomanjšaj pokazatelja
 # This string will display as a tooltip on supported systems where we show
 # device sharing state in the OS notification area. We do not use these strings
 # on macOS, as global menu bar items do not have native tooltips.

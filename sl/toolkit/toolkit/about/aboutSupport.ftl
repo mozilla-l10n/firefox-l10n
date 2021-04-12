@@ -139,6 +139,7 @@ clear-startup-cache-title = Poskusite počistiti predpomnilnik zagona
 clear-startup-cache-label = Počisti predpomnilnik zagona …
 startup-cache-dialog-title = Počistite predpomnilnik zagona
 startup-cache-dialog-body = Ponovno zaženite { -brand-short-name }, da počistite predpomnilnik zagona. To ne bo spremenilo vaših nastavitev ali odstranilo razširitev, ki ste jih dodali v { -brand-short-name }.
+startup-cache-dialog-title2 = Ponovni zagon { -brand-short-name(sklon: "rodilnik") } za čiščenje zagonskega predpomnilnika?
 startup-cache-dialog-body2 = S tem ne boste spremenili svojih nastavitev ali odstranili razširitev.
 restart-button-label = Ponovno zaženi
 
@@ -425,6 +426,7 @@ support-printing-prefs-value = Vrednost
 support-remote-experiments-title = Oddaljeni poskusi
 support-remote-experiments-name = Ime
 support-remote-experiments-branch = Področje poskusa
+support-remote-experiments-see-about-studies = Oglejte si <a data-l10n-name="support-about-studies-link">about:studies</a> za več informacij, med drugim o onemogočanju posameznih poskusov ali preprečevanju, da bi { -brand-short-name } izvajal poskuse te vrste v prihodnje.
 support-remote-features-title = Oddaljene zmogljivosti
 support-remote-features-name = Ime
 support-remote-features-status = Stanje

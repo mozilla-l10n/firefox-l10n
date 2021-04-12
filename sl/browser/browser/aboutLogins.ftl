@@ -369,6 +369,20 @@ about-logins-import-report-modified =
         [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">obstoječe prijave posodobljene</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">obstoječih prijav posodobljenih</div>
     }
+about-logins-import-report-no-change =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">podvojena prijava</div> <div data-l10n-name="not-imported">(ni uvoženo)</div>
+        [two] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">podvojeni prijavi</div> <div data-l10n-name="not-imported">(ni uvoženo)</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">podvojene prijave</div> <div data-l10n-name="not-imported">(ni uvoženo)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">podvojenih prijav</div> <div data-l10n-name="not-imported">(ni uvoženo)</div>
+    }
+about-logins-import-report-error =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">napaka</div> <div data-l10n-name="not-imported">(ni uvoženo)</div>
+        [two] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">napaki</div> <div data-l10n-name="not-imported">(ni uvoženo)</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">napake</div> <div data-l10n-name="not-imported">(ni uvoženo)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">napak</div> <div data-l10n-name="not-imported">(ni uvoženo)</div>
+    }
 
 ## Logins import report page
 
