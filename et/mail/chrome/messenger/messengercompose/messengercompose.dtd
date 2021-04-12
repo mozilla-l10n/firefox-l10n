@@ -242,7 +242,16 @@
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace2.style "width: 8em;">
+<!ENTITY extraRecipients.tooltip "Muud tüüpi aadressiväljad">
+<!ENTITY fromAddr2.label "Saatja">
 <!ENTITY fromAddr.accesskey "j">
+<!ENTITY toAddr2.label "Saaja">
+<!ENTITY ccAddr2.label "Koopia">
+<!ENTITY bccAddr2.label "Pimekoopia">
+<!ENTITY replyAddr2.label "Vastamise aadress">
+<!ENTITY newsgroupsAddr2.label "Uudistegrupp">
+<!ENTITY followupAddr2.label "Järg postitusele">
+<!ENTITY subject2.label "Teema">
 <!ENTITY subject.accesskey "e">
 <!ENTITY attachmentBucketCloseButton.tooltip "Peida manuste paneel">
 
