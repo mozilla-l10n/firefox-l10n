@@ -233,6 +233,7 @@ about-logins-import-file-picker-csv-filter-title =
 about-logins-import-dialog-error-learn-more = अधिक जानें
 about-logins-import-dialog-error-try-again = फिर से कोशिश करें...
 about-logins-import-dialog-error-cancel = रद्द करें
+about-logins-import-report-row-description-added = नया लॉगिन जोड़ा गया
 
 ##
 ## Variables:
