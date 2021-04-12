@@ -171,6 +171,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.pagetitle2  "ਚੇਤਾਵਨੀ: ਅੱਗੇ ਸੰਭਾਵਿਤ ਸੁਰੱਖਿਆ ਖ਼ਤਰਾ ਹੈ">
 <!ENTITY certerror.sts.pagetitle  "ਕਨੈਕਟ ਨਹੀਂ ਹੈ: ਸੰਭਾਵਿਤ ਸੁਰੱਖਿਆ ਮਸਲਾ">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> ਕੋਲ ਸੁਰੱਖਿਆ ਪਾਲਸੀ ਹੈ, ਜਿਸ ਨੂੰ HTTP ਸਟਰਿਕਟ ਟਰਾਂਸਪੋਰਟ ਸਕਿਉਰਟੀ (HSTS) ਕਹਿੰਦੇ ਹਨ, ਜਿਸ ਦਾ ਅਰਥ ਹੈ ਕਿ &brandShortName; ਇਸ ਨਾਲ ਸਿਰਫ਼ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਹੀ ਕਨੈਕਟ ਹੋ ਸਕਦਾ ਹੈ। ਤੁਸੀਂ ਇਸ ਸਾਈਟ ਨੂੰ ਖੋਲ੍ਹਣ ਲਈ ਛੋਟ ਨਹੀਂ ਦੇ ਸਕਦੇ ਹੋ।">
 <!ENTITY certerror.copyToClipboard.label "ਟੈਕਸਟ ਨੂੰ ਕਲਿੱਪਬੋਰਡ ਵਿੱਚ ਕਾਪੀ ਕਰੋ">
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
@@ -179,10 +180,12 @@ was trying to connect. -->
 
 <!ENTITY blockedByPolicy.title "ਪਾਬੰਦੀ ਲਗਾਇਆ ਸਫ਼ਾ">
 
+<!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> ਸ਼ਾਇਦ ਸੁਰੱਖਿਅਤ ਸਾਈਟ ਹੈ, ਪਰ ਸੁਰੱਖਿਅਤ ਕਨੈਕਸ਼ਨ ਬਣਾਇਆ ਨਹੀਂ ਜਾ ਸਕਿਆ ਹੈ। ਇਹ ਮਸਲਾ <span class='mitm-name'/> ਦੇ ਕਰਕੇ ਹੈ, ਜੋ ਕਿ ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ ਦੇ ਸਾਫਟਵੇਅਰ ਕਰਕੇ ਜਾਂ ਤਹੁਾਡੇ ਨੈੱਟਵਰਕ ਕਰਕੇ ਹੈ।">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "ਜੇ ਤੁਸੀਂ ਕਾਰਪੋਰੇਟ ਨੈੱਟਵਰਕ ‘ਤੇ ਹੋ ਤਾਂ ਆਪਣੇ ਆਈ.ਟੀ. ਵਿਭਾਗ ਨਾਲ ਸੰਪਰਕ ਕਰ ਸਕਦੇ ਹੋ।">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "ਜੇ ਤੁਸੀਂ <span class='mitm-name'/> ਨੂੰ ਜਾਣਦੇ ਨਹੀਂ ਹੋ ਤਾਂ ਤਦ ਇਹ ਹਮਲਾ ਹੋ ਸਕਦਾ ਹੈ ਅਤੇ ਤੁਹਾਨੂੰ ਸਾਈਟ ਨਾਲ ਜਾਰੀ ਨਹੀਂ ਰੱਖਣਾ ਚਾਹੀਦਾ ਹੈ।">
 <!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "ਜੇ ਤੁਸੀਂ <span class='mitm-name'/> ਨੂੰ ਜਾਣਦੇ ਨਹੀਂ ਹੋ ਤਾਂ ਤਦ ਇਹ ਹਮਲਾ ਹੋ ਸਕਦਾ ਹੈ ਅਤੇ ਇਹ ਸਾਈਟ ਵਰਤਣ ਲਈ ਤੁਸੀਂ ਕੁਝ ਨਹੀਂ ਕਰ ਸਕਦੇ ਹੋ।">
 
+<!ENTITY clockSkewError.longDesc "ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ ਨੂੰ ਜਾਪਦਾ ਹੈ ਕਿ <span id='wrongSystemTime_systemDate1'/> ਹੈ, ਜੋ ਕਿ &brandShortName; ਨੂੰ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਕਨੈਕਟ ਹੋਣ ਤੋਂ ਰੋਕਦਾ ਹੈ। <span class='hostname'></span> ਖੋਲ੍ਹਣ ਲਈ ਤੁਹਾਡੀਆਂ ਸਿਸਟਮ ਦੀਆਂ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ ਦੀ ਘੜੀ ਨੂੰ ਮੌਜੂਦਾ ਤਾਰੀਖ, ਵੇਲੇ  ਅਤੇ ਵੇਲਾ ਖੇਤਰ ਨਾਲ ਅੱਪਡੇਟ ਕਰਰੋ ਅਤੇ ਫੇਰ ਤਾਜ਼ਾ ਕਰੋ <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "ਜਾਪਦਾ ਹੈ ਕਿ ਤੁਹਾਡੀ ਨੈੱਟਵਰਕ ਸੁਰੱਖਿਆ ਸੈਟਿੰਗਾਂ ਇਸ ਦਾ ਕਾਰਨ ਹੋ ਸਕਦੀਆਂ ਹਨ। ਕੀ ਤੁਸੀਂ ਡਿਫਾਲਟ ਸੈਟਿੰਗਾਂ ਨੂੰ ਬਹਾਲ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?">
 <!ENTITY prefReset.label "ਡਿਫਾਲਟ ਸੈਟਿੰਗਾਂ ਨੂੰ ਬਹਾਲ ਕਰੋ">
