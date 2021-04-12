@@ -6,12 +6,12 @@ migration-wizard =
     .title = ਇੰਪੋਰਟ ਸਹਾਇਕ
 import-from =
     { PLATFORM() ->
-        [windows] ਚੋਣ, ਬੁੱਕਮਾਰਕ, ਅਤੀਤ, ਪਾਸਵਰਡ ਅਤੇ ਹੋਰ ਡਾਟਾ ਇੱਥੋਂ ਇੰਪੋਰਟ ਕਰੋ:
-       *[other] ਚੋਣ, ਬੁੱਕਮਾਰਕ, ਅਤੀਤ, ਪਾਸਵਰਡ ਅਤੇ ਹੋਰ ਡਾਟਾ ਇੱਥੋਂ ਇੰਪੋਰਟ ਕਰੋ:
+        [windows] ਚੋਣਾਂ, ਬੁੱਕਮਾਰਕ, ਅਤੀਤ, ਪਾਸਵਰਡ ਅਤੇ ਹੋਰ ਡਾਟਾ ਇੱਥੋਂ ਇੰਪੋਰਟ ਕਰੋ:
+       *[other] ਚੋਣਾਂ, ਬੁੱਕਮਾਰਕ, ਅਤੀਤ, ਪਾਸਵਰਡ ਅਤੇ ਹੋਰ ਡਾਟਾ ਇੱਥੋਂ ਇੰਪੋਰਟ ਕਰੋ:
     }
 import-from-bookmarks = ਬੁੱਕਮਾਰਕ ਇੱਥੋਂ ਇੰਪੋਰਟ:
 import-from-ie =
-    .label = ਮਾਈਕ੍ਰੋਸਾਫਟ ਇੰਟਰਨੈੱਟ ਐਕਸਪਲੋਰਰ
+    .label = Microsoft Internet Explorer
     .accesskey = M
 import-from-edge =
     .label = Microsoft Edge
@@ -26,19 +26,19 @@ import-from-nothing =
     .label = ਕੁਝ ਵੀ ਇੰਪੋਰਟ ਨਾ ਕਰੋ
     .accesskey = D
 import-from-safari =
-    .label = ਸਫ਼ਾਰੀ
+    .label = Safari
     .accesskey = S
 import-from-canary =
     .label = Chrome Canary
     .accesskey = n
 import-from-chrome =
-    .label = ਕਰੋਮ
+    .label = Chrome
     .accesskey = C
 import-from-chrome-beta =
-    .label = ਕਰੋਮ ਬੀਟਾ
+    .label = Chrome Beta
     .accesskey = B
 import-from-chrome-dev =
-    .label = ਕਰੋਮ ਡਿਵ
+    .label = Chrome Dev
     .accesskey = D
 import-from-chromium =
     .label = Chromium
@@ -47,11 +47,11 @@ import-from-firefox =
     .label = Firefox
     .accesskey = X
 import-from-360se =
-    .label = 360 ਸੁਰੱਖਿਆ ਬਰਾਊਜ਼ਰ
+    .label = 360 ਸੁਰੱਖਿਅਤ ਬਰਾਊਜ਼ਰ
     .accesskey = 3
-no-migration-sources = ਕੋਈ ਵੀ ਅਜੇਹਾ ਪਰੋਗਰਾਮ ਨਹੀਂ ਲੱਭਿਆ ਹੈ, ਜੋ  ਕਿ ਬੁੱਕਮਾਰਕ, ਅਤੀਤ ਜਾਂ ਪਾਸਵਰਡ ਡਾਟਾ ਰੱਖਦਾ ਹੋਵੇ।
-import-source-page-title = ਸੈਟਿੰਗ ਅਤੇ ਡਾਟਾ ਇੰਪੋਰਟ ਕਰੋ
-import-items-page-title = ਇੰਪੋਰਟ ਕਰਨ ਲਈ ਆਈਟਮਾਂ
+no-migration-sources = ਕੋਈ ਵੀ ਪ੍ਰੋਗਰਾਮ ਨਹੀਂ ਲੱਭਿਆ, ਜਿਸ ਵਿੱਚ ਬੁੱਕਮਾਰਕ, ਅਤੀਤ ਜਾਂ ਪਾਸਵਰਡ ਡਾਟਾ ਹੋਵੇ।
+import-source-page-title = ਸੈਟਿੰਗਾਂ ਅਤੇ ਡਾਟਾ ਦਰਾਮਦ ਕਰੋ
+import-items-page-title = ਦਰਾਮਦ ਕਰਨ ਲਈ ਚੀਜ਼ਾਂ
 import-items-description = ਇੰਪੋਰਟ ਕਰਨ ਲਈ ਆਈਟਮਾਂ ਚੁਣੋ:
 import-permissions-page-title = { -brand-short-name } ਨੂੰ ਇਜਾਜ਼ਤਾਂ ਦਿਓ
 # Do not translate "Bookmarks.plist"; the file name is the same everywhere.
