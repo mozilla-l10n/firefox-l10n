@@ -88,6 +88,12 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
+## Firefox Account Button
+
+toolbar-button-fxaccount =
+    .label = { -fxaccount-brand-name(capitalization: "uppercase") }
+    .tooltiptext = { -fxaccount-brand-name(capitalization: "uppercase") }
+
 ## Save Page
 
 main-context-menu-page-save =
@@ -102,6 +108,18 @@ main-context-menu-bookmark-add =
     .aria-label = Met tai segnelibris cheste pagjine
     .accesskey = m
     .tooltiptext = Met un segnelibri a cheste pagjine
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-add-mac =
+    .label = Met la pagjine tai segnelibris
+    .accesskey = m
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-edit-mac =
+    .label = Modifiche il segnelibri
+    .accesskey = m
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-add-with-shortcut =
@@ -360,6 +378,9 @@ main-context-menu-suggest-strong-password =
     .accesskey = S
 main-context-menu-manage-logins =
     .label = Gjestìs credenziâls…
+    .accesskey = G
+main-context-menu-manage-logins2 =
+    .label = Gjestìs lis credenziâls
     .accesskey = G
 main-context-menu-keyword =
     .label = Zonte une peraule clâf par cheste ricercje…

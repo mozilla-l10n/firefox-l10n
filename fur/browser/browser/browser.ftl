@@ -266,6 +266,8 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = Zonte segnelibri
+bookmarks-edit-bookmark = Modifiche segnelibri
 bookmark-panel-cancel =
     .label = Anule
     .accesskey = A
@@ -283,6 +285,8 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = S
 bookmark-panel-done-button =
     .label = Fat
+bookmark-panel-save-button =
+    .label = Salve
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -542,6 +546,13 @@ urlbar-result-action-tabtosearch-web = Cîr cun { $engine } dret de sbare de dir
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = Cîr in { $engine } dret de sbare de direzion
+# Action text for copying to clipboard.
+urlbar-result-action-copy-to-clipboard = Copie
+# Shows the result of a formula expression being calculated, the last = sign will be shown
+# as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result = = { $result }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -660,6 +671,20 @@ save-to-pocket-button =
 
 ## Customize Toolbar Buttons
 
+# Variables:
+#  $shortcut (String): keyboard shortcut to open the add-ons manager
+toolbar-addons-themes-button =
+    .label = Zontis e temis
+    .tooltiptext = Gjestìs lis tôs zontis e i tiei temis ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open settings (only on macOS)
+toolbar-settings-button =
+    .label = Impostazions
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Vierç lis impostazions ({ $shortcut })
+           *[other] Vierç lis impostazions
+        }
 
 ## More items
 
