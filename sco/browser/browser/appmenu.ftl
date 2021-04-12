@@ -126,9 +126,29 @@ profiler-popup-recording-screen = Recordin...
 # here only.
 profiler-popup-presets-custom =
     .label = Custom
+profiler-popup-start-recording-button =
+    .label = Stert Recordin
+profiler-popup-discard-button =
+    .label = Discaird
+profiler-popup-capture-button =
+    .label = Captur
+profiler-popup-start-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧1
+       *[other] Ctrl+Shift+1
+    }
+profiler-popup-capture-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧2
+       *[other] Ctrl+Shift+2
+    }
 
 ## History panel
 
+appmenu-manage-history =
+    .label = Manage Historie
+appmenu-reopen-all-tabs = Reopen Aw Tabs
+appmenu-reopen-all-windows = Reopen Aw Windaes
 
 ## Help panel
 
