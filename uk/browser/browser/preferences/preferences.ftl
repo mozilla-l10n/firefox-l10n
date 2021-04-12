@@ -473,7 +473,7 @@ browsing-cfr-recommendations =
     .accesskey = р
 browsing-cfr-features =
     .label = Рекомендувати функції під час перегляду
-    .accesskey = ф
+    .accesskey = Р
 browsing-cfr-recommendations-learn-more = Докладніше
 
 ## General Section - Proxy
