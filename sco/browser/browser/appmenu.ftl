@@ -168,18 +168,46 @@ appmenu-help-taskmanager =
 appmenu-help-more-troubleshooting-info =
     .label = Mair Fankle-fixin Information
     .accesskey = T
+appmenu-help-report-site-issue =
+    .label = Report Site Issue…
+appmenu-help-feedback-page =
+    .label = Gie Feedback…
+    .accesskey = S
 
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-safe-mode-without-addons =
+    .label = Restert Wi Eik-ons Disabled…
+    .accesskey = R
+appmenu-help-safe-mode-with-addons =
+    .label = Restert Wi Eik-ons Enabled
+    .accesskey = R
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-enter-troubleshoot-mode2 =
+    .label = Fankle-fixin Mode…
+    .accesskey = M
+appmenu-help-exit-troubleshoot-mode =
+    .label = Turn Fankle-fixin Mode Aff
+    .accesskey = M
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-report-deceptive-site =
+    .label = Report Begowkin Site...
+    .accesskey = D
+appmenu-help-not-deceptive =
+    .label = This Isnae a Begowkin Site…
+    .accesskey = D
 
 ## More Tools
 
+appmenu-customizetoolbar =
+    .label = Mak Toolbaur Yer Ain...
+appmenu-taskmanager =
+    .label = Task Manager
+appmenu-developer-tools-subheader = Wab-Stravaiger Tools
