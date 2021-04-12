@@ -58,6 +58,7 @@ perftools-status-restart-required = Каб уключыць гэтую функ�
 ## These are shown briefly when the user is waiting for the profiler to respond.
 
 perftools-request-to-stop-profiler = Спыненне запісу
+perftools-request-to-get-profile-and-stop-profiler = Захоп профілю
 
 ##
 
@@ -72,6 +73,8 @@ perftools-button-edit-settings = Змянiць налады...
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
+perftools-thread-gecko-main =
+    .title = Асноўныя працэсы як для бацькоўскага працэсу, так і для працэсаў зместу
 
 ##
 
