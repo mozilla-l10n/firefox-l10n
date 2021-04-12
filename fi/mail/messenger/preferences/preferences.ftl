@@ -10,6 +10,8 @@ preferences-title =
             [windows] Asetukset
            *[other] Asetukset
         }
+preferences-tab-title =
+    .title = Asetukset
 category-list =
     .aria-label = Luokat
 pane-general-title = Yleiset
@@ -90,6 +92,7 @@ update-in-progress-ok-button = &Hylkää
 update-in-progress-cancel-button = &Jatka
 account-button = Tilin asetukset
 addons-button = Laajennukset ja teemat
+open-addons-sidebar-button = Lisäosat ja teemat
 
 ## OS Authentication dialog
 
