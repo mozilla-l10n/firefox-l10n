@@ -18,6 +18,7 @@ certmgr-mine = Imate digitalna potrdila naslednjih organizacij, ki predstavljajo
 certmgr-remembered = Ta digitalna potrdila se uporabljajo za identifikacijo na spletnih mestih
 certmgr-people = Imate digitalna potrdila, ki predstavljajo naslednje ljudi
 certmgr-servers = Imate digitalna potrdila, ki predstavljajo naslednje strežnike
+certmgr-server = Ti vnosi opredeljujejo izjeme napak strežniškega potrdila
 certmgr-ca = Imate digitalna potrdila, ki predstavljajo naslednje overitelje
 certmgr-detail-general-tab-title =
     .label = Splošno
