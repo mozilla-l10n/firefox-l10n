@@ -9,6 +9,15 @@ menu-view-charset =
     .label = Tekstin merkistö
     .accesskey = T
 
+## Tools Menu
+
+menu-addons-and-themes =
+    .label = Lisäosat ja teemat
+    .accesskey = L
+
+## Help Menu
+
+
 ## Mail Toolbar
 
 toolbar-junk-button =
