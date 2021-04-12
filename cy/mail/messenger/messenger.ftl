@@ -15,6 +15,12 @@ unread-messages-os-tooltip =
     }
 about-rights-notification-text = Mae { -brand-short-name } yn feddalwedd cod agored am ddim, wedi'i adeiladu gan gymuned o filoedd o bob cwr o'r byd.
 
+## Toolbar
+
+addons-and-themes-button =
+    .label = Ychwanegion a Themâu
+    .tooltip = Rheoli eich ychwanegion
+
 ## Folder Pane
 
 folder-pane-toolbar =
@@ -47,3 +53,18 @@ show-recent-folders-label =
 folder-toolbar-toggle-folder-compact-view =
     .label = Golwg Cryno
     .accesskey = G
+
+## AppMenu
+
+# Since v89 we dropped the platforms distinction between Options or Preferences
+# and consolidated everything with Preferences.
+appmenu-preferences =
+    .label = Dewisiadau
+appmenu-addons-and-themes =
+    .label = Ychwanegion a Themâu
+appmenu-help-enter-troubleshoot-mode =
+    .label = Datrys Problemau…
+appmenu-help-exit-troubleshoot-mode =
+    .label = Diffodd y Modd Datrys Problemau
+appmenu-help-more-troubleshooting-info =
+    .label = Rhagor o Wybodaeth i Ddatrys Problemau

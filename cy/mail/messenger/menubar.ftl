@@ -9,6 +9,17 @@ menu-view-charset =
     .label = Amgodiad Testun
     .accesskey = A
 
+## Tools Menu
+
+# Since v89 we dropped the platforms distinction between Options or Preferences
+# and consolidated everything with Preferences.
+menu-tools-preferences =
+    .label = Dewisiadau
+    .accesskey = D
+menu-addons-and-themes =
+    .label = Ychwanegion a Themâu
+    .accesskey = Y
+
 ## Help Menu
 
 menu-help-enter-troubleshoot-mode =
