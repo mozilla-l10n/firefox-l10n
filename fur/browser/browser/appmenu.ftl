@@ -47,6 +47,12 @@ appmenuitem-exit2 =
             [linux] Jes
            *[other] Jes
         }
+appmenu-menu-button-closed2 =
+    .tooltiptext = Vierç il menù aplicazion
+    .label = { -brand-short-name }
+appmenu-menu-button-opened2 =
+    .tooltiptext = Siere il menù aplicazion
+    .label = { -brand-short-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =

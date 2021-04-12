@@ -317,6 +317,7 @@ about-logins-import-dialog-error-unable-to-read-description = Siguriti di selezi
 about-logins-import-dialog-error-no-logins-imported = No je stade impuartade nissune credenziâl
 about-logins-import-dialog-error-learn-more = Par savê di plui
 about-logins-import-dialog-error-try-again = Torne prove…
+about-logins-import-dialog-error-try-import-again = Prove torne a impuartâ…
 about-logins-import-dialog-error-cancel = Anule
 about-logins-import-report-title = Sintesi di importazion
 about-logins-import-report-description = Credenziâls e passwords impuartadis su { -brand-short-name }.
