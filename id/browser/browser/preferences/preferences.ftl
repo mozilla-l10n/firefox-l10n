@@ -392,6 +392,14 @@ update-setting-write-failure-message =
     
     Tidak dapat menulis ke file: { $path }
 update-setting-write-failure-title2 = Gagal menyimpan pengaturan Pemutakhiran
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message2 =
+    { -brand-short-name } mengalami kesalahan dan tidak menyimpan perubahan ini. Perhatikan bahwa perubahan pengaturan pembaruan ini memerlukan izin untuk menulis ke file di bawah ini. Anda atau administrator sistem mungkin dapat menyelesaikan kesalahan dengan memberikan kontrol penuh grup Pengguna ke file ini.
+    
+    Tidak dapat menulis ke file: { $path }
 update-in-progress-title = Sedang Memperbarui
 update-in-progress-message = Apakah Anda ingin { -brand-short-name } melanjutkan pembaruan ini?
 update-in-progress-ok-button = &Hapus Perubahan
@@ -758,6 +766,10 @@ sync-engine-prefs =
            *[other] Pengaturan
         }
     .tooltiptext = Setelan Umum, Privasi, dan Keamanan yang Anda ubah
+    .accesskey = P
+sync-engine-settings =
+    .label = Pengaturan
+    .tooltiptext = Pengaturan Umum, Privasi, dan Keamanan yang Anda ubah
     .accesskey = P
 
 ## The device name controls.
@@ -1176,6 +1188,8 @@ space-alert-under-5gb-message = { -brand-short-name } kehabisan ruang disk. Kont
 space-alert-over-5gb-settings-button =
     .label = Buka Pengaturan
     .accesskey = B
+space-alert-over-5gb-message2 = <strong>{ -brand-short-name } kehabisan ruang disk.</strong> Konten situs web mungkin tidak dapat tampil secara tepat. Anda dapat membersihkan data tersimpan dalam Pengaturan > Privasi & Keamanan > Kuki dan Data Situs.
+space-alert-under-5gb-message2 = <strong>{ -brand-short-name } kehabisan ruang disk.</strong> Konten situs barangkali tidak dapat ditampilkan dengan tepat. Kunjungi “Pelajari Lebih Lanjut” untuk mengoptimalkan penggunaan disk Anda untuk pengalaman penjelajahan yang lebih baik.
 
 ## Privacy Section - HTTPS-Only
 
