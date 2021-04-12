@@ -60,7 +60,7 @@ perftools-request-to-get-profile-and-stop-profiler = Capture du profil
 ##
 
 perftools-button-start-recording = Commencer l’enregistrement
-perftools-button-capture-recording = Démarrer l’enregistrement
+perftools-button-capture-recording = Capturer l’enregistrement
 perftools-button-cancel-recording = Annuler l’enregistrement
 perftools-button-save-settings = Enregistrer les paramètres et revenir en arrière
 perftools-button-restart = Redémarrer
