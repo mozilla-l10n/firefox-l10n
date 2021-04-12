@@ -15,9 +15,15 @@ options-select-dev-tools-theme-label = Мавзӯъҳо
 
 # The heading
 options-context-inspector = Тафтишкунанда
+# The label for the checkbox option to show user agent styles
+options-show-user-agent-styles-label = Намоиш додани услубҳои браузер
 
 ## "Default Color Unit" options for the Inspector
 
+options-default-color-unit-hex = Hex
+options-default-color-unit-hsl = HSL(A)
+options-default-color-unit-rgb = RGB(A)
+options-default-color-unit-name = Номҳои ранг
 
 ## Style Editor section
 
