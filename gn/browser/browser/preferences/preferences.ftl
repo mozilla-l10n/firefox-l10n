@@ -404,6 +404,14 @@ update-setting-write-failure-message =
     
     Ndaikatúi ojehai marandurendápe: { $path }
 update-setting-write-failure-title2 = Ojavy eñongatúvo mbohekopyahu ñemboheko
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message2 =
+    { -brand-short-name } ojuhu jejavy ha noñongatúi ko moambue. Ehecháke ko ñembohekopyahu moĩporã oikotevẽha ñemoneĩ ehai hag̃ua marandurenda oĩmava ko’ág̃a guive. Nde térã ñangarekoha apopyvusu pegua omoĩporãkuaa jejavy eme’ẽvo Puruhára atýpe oñangarekóvo marandurendáre.
+    
+    Ndaikatúi ojehai marandurendápe: { $path }
 update-in-progress-title = Oñembohekopyahuhína
 update-in-progress-message = ¿Eipotápa { -brand-short-name } omongu’ejey ñembohekopyahu?
 update-in-progress-ok-button = &Hejarei
@@ -660,6 +668,7 @@ sync-signedout-description = Embojuehe nde rechaukaha, tembiasakue, tendayke, ñ
 sync-signedout-account-signin2 =
     .label = Eñepyrũ tembiapo { -sync-brand-short-name }-pe…
     .accesskey = i
+sync-signedout-description2 = Embojuehe nde rechaukaha, tembiasakue, tendayke, ñe’ẽñemi, moĩmbaha ha ñemoĩporã opaite ne mba’e’okápe.
 sync-signedout-account-signin3 =
     .label = Eike embojuehe hag̃ua…
     .accesskey = i
@@ -705,6 +714,7 @@ prefs-sync-offer-setup-label = Embojuehe techaukaha, tembiasakue, tendayke, ñe�
 prefs-sync-turn-on-syncing =
     .label = Emyandy ñembojuehe…
     .accesskey = s
+prefs-sync-offer-setup-label2 = Embojuehe nde rechaukaha, tembiasakue, tendayke, ñe’ẽñemi, moĩmbaha ha ñemoĩporã opaite ne mba’e’okápe.
 prefs-sync-now =
     .labelnotsyncing = Embojuehe ko’ág̃a
     .accesskeynotsyncing = N
