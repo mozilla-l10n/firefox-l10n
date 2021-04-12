@@ -152,6 +152,22 @@ appmenu-reopen-all-windows = Reopen Aw Windaes
 
 ## Help panel
 
+appmenu-help-header =
+    .title = { -brand-shorter-name } Hauners
+appmenu-about =
+    .label = Aboot { -brand-shorter-name }
+    .accesskey = A
+appmenu-get-help =
+    .label = Get Hauners
+    .accesskey = H
+appmenu-help-troubleshooting-info =
+    .label = Fankle-fixin Information
+    .accesskey = T
+appmenu-help-taskmanager =
+    .label = Task Manager
+appmenu-help-more-troubleshooting-info =
+    .label = Mair Fankle-fixin Information
+    .accesskey = T
 
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
