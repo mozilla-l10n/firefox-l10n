@@ -34,6 +34,9 @@ sidebar-preferences-button-title =
             [windows] Opsi { -brand-short-name }
            *[other] Preferensi { -brand-short-name }
         }
+addons-settings-button = Pengaturan { -brand-short-name }
+sidebar-settings-button-title =
+    .title = Pengaturan { -brand-short-name }
 show-unsigned-extensions-button =
     .label = Beberapa ekstensi tidak dapat diverifikasi
 show-all-extensions-button =
@@ -377,9 +380,6 @@ addon-detail-private-browsing-disallow = Jangan Izinkan
 addon-badge-recommended2 =
     .title = { -brand-product-name } hanya menyarankan ekstensi yang memenuhi standar keamanan dan kinerja kami.
     .aria-label = { addon-badge-recommended2.title }
-addon-badge-line2 =
-    .title = Ini adalah ekstensi resmi yang dibuat oleh pembuat { -brand-product-name }
-    .aria-label = { addon-badge-line2.title }
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
