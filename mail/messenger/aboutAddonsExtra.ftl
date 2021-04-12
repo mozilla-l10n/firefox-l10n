@@ -6,3 +6,4 @@ add-on-options-button =
     .title = Add-on-opties
 atn-addons-heading-search-input =
     .placeholder = addons.thunderbird.net doorzoeken
+sidebar-preferences-button-title = { -brand-short-name }-voorkeuren
