@@ -245,7 +245,7 @@ about-logins-vulnerable-alert-learn-more-link = Lairn mair
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = An entry for { $loginTitle } wi thon yaiser nemme awready exists. <a data-l10n-name="duplicate-link">Gang tae existin entry?</a>
 # This is a generic error message.
-about-logins-error-message-default = An error tuik place while ettlin tae save this passwird.
+about-logins-error-message-default = A mishanter tuik place while ettlin tae save this passwird.
 
 ## Login Export Dialog
 
@@ -302,10 +302,10 @@ about-logins-import-dialog-items-no-change =
     }
 about-logins-import-dialog-items-error =
     { $count ->
-       *[other] <span>Errors:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(no inbrung)</span>
+       *[other] <span>Mishanters:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(no inbrung)</span>
     }
 about-logins-import-dialog-done = Duin
-about-logins-import-dialog-error-title = Inbringin Error
+about-logins-import-dialog-error-title = Inbringin Mishanter
 about-logins-import-dialog-error-conflicting-values-title = Multiple Conflictin Values fur Ane Login
 about-logins-import-dialog-error-conflicting-values-description = For exemple: multiple yaiser nemmes, passwirds, URLs, etc. fur ane login
 about-logins-import-dialog-error-file-format-title = File Format Issue
@@ -328,14 +328,14 @@ about-logins-import-report-row-index = Row { $number }
 about-logins-import-report-row-description-no-change = Duplicate: Exact match o existin login
 about-logins-import-report-row-description-modified = Existin login updatit
 about-logins-import-report-row-description-added = New login eikit
-about-logins-import-report-row-description-error = Error: Tint field
+about-logins-import-report-row-description-error = Mishanter: Tint field
 
 ##
 ## Variables:
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
-about-logins-import-report-row-description-error-multiple-values = Error: Multiple values fur { $field }
-about-logins-import-report-row-description-error-missing-field = Error: Tint { $field }
+about-logins-import-report-row-description-error-multiple-values = Mishanter: Multiple values fur { $field }
+about-logins-import-report-row-description-error-missing-field = Mishanter: Tint { $field }
 
 ##
 ## Variables:
@@ -355,7 +355,7 @@ about-logins-import-report-no-change =
     }
 about-logins-import-report-error =
     { $count ->
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Errors</div> <div data-l10n-name="not-imported">(no inbrung)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Mishanters</div> <div data-l10n-name="not-imported">(no inbrung)</div>
     }
 
 ## Logins import report page

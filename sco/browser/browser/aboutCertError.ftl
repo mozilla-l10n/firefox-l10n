@@ -43,7 +43,7 @@ cert-error-expired-now = Wabsites pruive their identity through certificates, th
 cert-error-not-yet-valid-now = Websites pruive their identity through certificates, that are suithfest anely fur a set amoont o time. The certificate fur { $hostname } willnae be suithfest until { $not-before-local-time }.
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
-cert-error-code-prefix-link = Error code: <a data-l10n-name="error-code-link">{ $error }</a>
+cert-error-code-prefix-link = Mishanter code: <a data-l10n-name="error-code-link">{ $error }</a>
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-symantec-distrust-description = Wabsites pruive their identity through certificates, that are issued by certificate authorities. Maist wab-stravaigers nae langer trust certificates issued by GeoTrust, RapidSSL, Symantec, Thawte, and VeriSign. { $hostname } yaises a certificate fae ane o these authorities and sae the wabsite's identity cannae be pruiven.
@@ -77,7 +77,7 @@ malformedURI-title = Hmm. Thon address disnae luik richt.
 netInterrupt-title = The connection wis interruptit
 notCached-title = Document Oot o Date
 netOffline-title = Affline mode
-contentEncodingError-title = Content Encodin Error
+contentEncodingError-title = Content Encodin Mishanter
 unsafeContentType-title = File Type No Sauf
 netReset-title = The connection wis reset
 netTimeout-title = The connection has timed oot
@@ -86,15 +86,15 @@ proxyConnectFailure-title = The proxy server is refuisin connections
 proxyResolveFailure-title = No able tae find the proxy server
 redirectLoop-title = The page isnae redirectin richt
 unknownSocketType-title = Unexpectit response fae server
-nssFailure2-title = Siccar Connection Misgied
+nssFailure2-title = Siccar Connection Didnae Wirk
 csp-xfo-error-title = { -brand-short-name } Cannae Open This Page
-corruptedContentError-title = Camshauchlet Content Error
+corruptedContentError-title = Camshauchlet Content Mishanter
 remoteXUL-title = Remote XUL
 sslv3Used-title = No Able tae Connect Siccar
 inadequateSecurityError-title = Yer connection isnae siccar
 blockedByPolicy-title = Blocked Page
 clockSkewError-title = Yer Computer Clock is Wrang
-networkProtocolError-title = Netwark Protocol Error
+networkProtocolError-title = Netwark Protocol Mishanter
 nssBadCert-title = Tak Tent: Potential Siccarness Risk Aheid
 nssBadCert-sts-title = Didnae Connect: Potential Siccarness Issue
 certerror-mitm-title = Saftware is Hinderin { -brand-short-name } Fae Saufly Connectin tae This Site
