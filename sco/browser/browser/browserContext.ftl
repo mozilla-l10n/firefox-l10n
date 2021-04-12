@@ -90,12 +90,79 @@ toolbar-button-stop-reload =
 
 ## Firefox Account Button
 
+toolbar-button-fxaccount =
+    .label = { -fxaccount-brand-name(capitalization: "sentence") }
+    .tooltiptext = { -fxaccount-brand-name(capitalization: "sentence") }
 
 ## Save Page
 
+main-context-menu-page-save =
+    .label = Save Page As…
+    .accesskey = P
+toolbar-button-page-save =
+    .label = { main-context-menu-page-save.label }
 
 ## Simple menu items
 
+main-context-menu-bookmark-add =
+    .aria-label = Buikmerk This Page
+    .accesskey = m
+    .tooltiptext = Buikmerk this page
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-add-mac =
+    .label = Buikmerk Page
+    .accesskey = m
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-edit-mac =
+    .label = Edit Buikmerk
+    .accesskey = m
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = Buikmerk This Page
+    .accesskey = m
+    .tooltiptext = Buikmerk this page ({ $shortcut })
+main-context-menu-bookmark-change =
+    .aria-label = Edit This Buikmerk
+    .accesskey = m
+    .tooltiptext = Edit this buikmerk
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = Edit This Buikmerk
+    .accesskey = m
+    .tooltiptext = Edit this buikmerk ({ $shortcut })
+main-context-menu-open-link =
+    .label = Open Link
+    .accesskey = O
+main-context-menu-open-link-new-tab =
+    .label = Open Link in New Tab
+    .accesskey = T
+main-context-menu-open-link-container-tab =
+    .label = Open Link in New Conteener Tab
+    .accesskey = w
+main-context-menu-open-link-new-window =
+    .label = Open Link in New Windae
+    .accesskey = d
+main-context-menu-open-link-new-private-window =
+    .label = Open Link in New Preevat Windae
+    .accesskey = P
+main-context-menu-bookmark-this-link =
+    .label = Buikmerk This Link
+    .accesskey = L
+main-context-menu-bookmark-link =
+    .label = Buikmerk Link
+    .accesskey = B
+main-context-menu-save-link =
+    .label = Save Link As…
+    .accesskey = k
+main-context-menu-save-link-to-pocket =
+    .label = Save Link tae { -pocket-brand-name }
+    .accesskey = o
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -106,6 +173,15 @@ toolbar-button-stop-reload =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-copy-email =
+    .label = Copy Email Address
+    .accesskey = l
+main-context-menu-copy-link =
+    .label = Copy Link Airtin
+    .accesskey = a
+main-context-menu-copy-link-simple =
+    .label = Copy Link
+    .accesskey = L
 
 ## Media (video/audio) controls
 ##
@@ -113,16 +189,81 @@ toolbar-button-stop-reload =
 ## same because the two context-menu items are
 ## mutually exclusive.
 
+main-context-menu-media-play =
+    .label = Pley
+    .accesskey = P
+main-context-menu-media-pause =
+    .label = Pause
+    .accesskey = P
 
 ##
 
+main-context-menu-media-mute =
+    .label = Wheesht
+    .accesskey = M
+main-context-menu-media-unmute =
+    .label = Unwheesht
+    .accesskey = U
+main-context-menu-media-play-speed =
+    .label = Pley Speed
+    .accesskey = d
+main-context-menu-media-play-speed-slow =
+    .label = Slow (0.5×)
+    .accesskey = S
+main-context-menu-media-play-speed-normal =
+    .label = Ordinar
+    .accesskey = N
+main-context-menu-media-play-speed-fast =
+    .label = Fast (1.25×)
+    .accesskey = F
+main-context-menu-media-play-speed-faster =
+    .label = Faster (1.5×)
+    .accesskey = a
+# "Ludicrous" is a reference to the movie "Space Balls" and is meant
+# to say that this speed is very fast.
+main-context-menu-media-play-speed-fastest =
+    .label = Like Jing (2×)
+    .accesskey = L
+main-context-menu-media-play-speed-2 =
+    .label = Speed
+    .accesskey = d
+main-context-menu-media-play-speed-slow-2 =
+    .label = 0.5×
+main-context-menu-media-play-speed-normal-2 =
+    .label = 1.0×
+main-context-menu-media-play-speed-fast-2 =
+    .label = 1.25×
+main-context-menu-media-play-speed-faster-2 =
+    .label = 1.5×
+main-context-menu-media-play-speed-fastest-2 =
+    .label = 2×
+main-context-menu-media-loop =
+    .label = Loop
+    .accesskey = L
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
 
+main-context-menu-media-show-controls =
+    .label = Show Controls
+    .accesskey = C
+main-context-menu-media-hide-controls =
+    .label = Hide Controls
+    .accesskey = C
 
 ##
 
+main-context-menu-media-video-fullscreen =
+    .label = Hale Screen
+    .accesskey = F
+main-context-menu-media-video-leave-fullscreen =
+    .label = Ootgang Hale Screen
+    .accesskey = u
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-pip =
+    .label = Pictur-in-Pictur
+    .accesskey = u
 
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
