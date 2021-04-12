@@ -111,7 +111,7 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
-security-site-data-cookies = Ναι, cookies και { $value } { $unit } δεδομένων ιστοσελίδων
+security-site-data-cookies = Ναι, cookies και { $value } { $unit } δεδομένων ιστοσελίδας
 security-site-data-only = Ναι, { $value } { $unit } δεδομένων ιστοσελίδων
 security-site-data-cookies-only = Ναι, cookies
 security-site-data-no = Όχι
@@ -146,7 +146,7 @@ page-info-security-no-owner =
     .value = Αυτή η ιστοσελίδα δεν παρέχει πληροφορίες ιδιοκτησίας.
 media-select-folder = Επιλέξτε έναν φάκελο για αποθήκευση εικόνων
 media-unknown-not-cached =
-    .value = Άγνωστο (όχι σε μνήμη cache)
+    .value = Άγνωστο (όχι σε προσωρινή μνήμη)
 permissions-use-default =
     .label = Χρήση προεπιλογής
 security-no-visits = Όχι
