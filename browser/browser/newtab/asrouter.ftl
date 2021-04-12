@@ -239,6 +239,7 @@ cfr-doorhanger-fission-secondary-button = Lleer más
 ## What's new: Media controls message
 
 cfr-whatsnew-media-keys-header = Más controles multimedia
+cfr-whatsnew-media-keys-button = Lleer cómo
 
 ## What's new: Search shortcuts
 
