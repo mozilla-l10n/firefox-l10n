@@ -63,6 +63,7 @@ protection-report-save-passwords-button = Guardar les contraseñes
 protection-report-manage-passwords-button = Xestionar les contraseñes
     .title = Xestiona les contraseñes en { -lockwise-brand-short-name }
 lockwise-mobile-app-title = Lleva les contraseñes contigo
+lockwise-app-links = { -lockwise-brand-name } p'<a data-l10n-name="lockwise-android-inline-link">Android</a> ya <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
 lockwise-how-it-works-link = Cómo funciona
 monitor-link = Cómo funciona
 monitor-breaches-resolved-title = ¡Bien! Resolviesti tolos arrampuñamientos conocíos.
