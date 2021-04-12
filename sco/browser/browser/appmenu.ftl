@@ -33,20 +33,87 @@ appmenuitem-find-in-page =
     .label = Airt-oot in Page...
 appmenuitem-more-tools =
     .label = Mair Tools
+appmenuitem-exit =
+    .label = Ootgang
+appmenu-menu-button-closed =
+    .tooltiptext = Open Application Menu
+    .label = { -brand-shorter-name }
+appmenu-menu-button-opened =
+    .tooltiptext = Sneck Application Menu
+    .label = { -brand-shorter-name }
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Quit
+           *[other] Ootgang
+        }
+appmenu-menu-button-closed2 =
+    .tooltiptext = Open Application Menu
+    .label = { -brand-short-name }
+appmenu-menu-button-opened2 =
+    .tooltiptext = Sneck Application Menu
+    .label = { -brand-short-name }
+# Settings is now used to access the browser settings across all platforms,
+# instead of Options or Preferences.
+appmenuitem-settings =
+    .label = Settins
 
 ## Zoom and Fullscreen Controls
 
+appmenuitem-zoom-enlarge =
+    .label = Zoom in
+appmenuitem-zoom-reduce =
+    .label = Zoom oot
+appmenuitem-fullscreen =
+    .label = Hale Screen
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
+fxa-toolbar-sync-now =
+    .label = Sync Noo
+appmenu-remote-tabs-sign-into-sync =
+    .label = Sign in tae Sync…
+appmenu-remote-tabs-turn-on-sync =
+    .label = Turn on Sync…
+appmenuitem-fxa-toolbar-sync-now2 = Sync Noo
+appmenuitem-fxa-manage-account = Manage Accoont
+appmenu-fxa-header =
+    .title = { -fxaccount-brand-name }
+appmenu-fxa-header2 = { -fxaccount-brand-name }
+# Variables
+# $time (string) - Localized relative time since last sync (e.g. 1 second ago,
+# 3 hours ago, etc.)
+appmenu-fxa-last-sync = Last synced { $time }
+    .label = Last synced { $time }
+appmenu-fxa-sync-and-save-data =
+    .value = Sync and Save Data
+appmenu-fxa-sync-and-save-data2 = Sync and save data
+appmenu-fxa-signed-in-label = Sign In
+appmenu-fxa-setup-sync =
+    .label = Turn On Syncin…
+appmenu-fxa-show-more-tabs = Show Mair Tabs
+appmenuitem-save-page =
+    .label = Save Page As…
 
 ## What's New panel in App menu.
 
+whatsnew-panel-header = Whit's New
+# Checkbox displayed at the bottom of the What's New panel, allowing users to
+# enable/disable What's New notifications.
+whatsnew-panel-footer-checkbox =
+    .label = Let me ken aboot new featurs
+    .accesskey = f
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
 ## "Enable Profiler Menu Button".
 
+profiler-popup-title =
+    .value = { -profiler-brand-name }
+profiler-popup-reveal-description-button =
+    .aria-label = Kythe mair information
+profiler-popup-description-title =
+    .value = Record, analyse, share
 
 ## History panel
 
