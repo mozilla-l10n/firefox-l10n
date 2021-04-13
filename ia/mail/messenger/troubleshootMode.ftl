@@ -5,6 +5,7 @@
 troubleshoot-mode-window =
     .title = { -brand-short-name } Modo diagnostic
     .style = width: 37em;
+troubleshoot-mode-description = Usa modo chassa al errores de { -brand-short-name } pro diagnosticar. Tu extensiones e personalisationes sera temporarimente disactivate.
 troubleshoot-mode-description2 = Tu pote render permanente alcun o tote iste cambios:
 troubleshoot-mode-disable-addons =
     .label = Disactivar tote le additivos
