@@ -88,6 +88,9 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
+## Firefox Account Button
+
+
 ## Save Page
 
 main-context-menu-page-save =
@@ -347,6 +350,9 @@ main-context-menu-suggest-strong-password =
     .accesskey = n
 main-context-menu-manage-logins =
     .label = Kudeatu saio-hasierak…
+    .accesskey = K
+main-context-menu-manage-logins2 =
+    .label = Kudeatu saio-hasierak
     .accesskey = K
 main-context-menu-keyword =
     .label = Gehitu bilaketa honentzat gako-hitza…

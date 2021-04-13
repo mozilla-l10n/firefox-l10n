@@ -264,6 +264,8 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = Gehitu laster-marka
+bookmarks-edit-bookmark = Editatu laster-marka
 bookmark-panel-cancel =
     .label = Utzi
     .accesskey = z
@@ -281,6 +283,8 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = E
 bookmark-panel-done-button =
     .label = Eginda
+bookmark-panel-save-button =
+    .label = Gorde
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -524,6 +528,13 @@ urlbar-result-action-tabtosearch-web = Bilatu { $engine } erabiliz helbide-barra
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = Bilatu { $engine } erabiliz helbide-barratik zuzenean
+# Action text for copying to clipboard.
+urlbar-result-action-copy-to-clipboard = Kopiatu
+# Shows the result of a formula expression being calculated, the last = sign will be shown
+# as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result = = { $result }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -552,9 +563,6 @@ pointerlock-warning-no-domain = Dokumentu honek zure erakuslearen kontrola dauka
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Orriaren zati batek huts egin du</strong>. Arazoaren berri eman eta ahalik eta azkarren konpontzeko, bidali mesedez txostena { -brand-product-name }(r)i.
-crashed-subframe-learnmore =
-    .label = Argibide gehiago
-    .accesskey = A
 crashed-subframe-learnmore-link =
     .value = Argibide gehiago
 crashed-subframe-submit =
@@ -567,8 +575,6 @@ bookmarks-show-all-bookmarks =
     .label = Erakutsi laster-marka guztiak
 bookmarks-manage-bookmarks =
     .label = Kudeatu laster-markak
-bookmarks-recent-bookmarks-panel =
-    .value = Azken laster-markak
 bookmarks-recent-bookmarks-panel-subheader = Azken laster-markak
 bookmarks-toolbar-chevron =
     .tooltiptext = Erakutsi laster-marka gehiago
@@ -642,6 +648,20 @@ save-to-pocket-button =
 
 ## Customize Toolbar Buttons
 
+# Variables:
+#  $shortcut (String): keyboard shortcut to open the add-ons manager
+toolbar-addons-themes-button =
+    .label = Gehigarriak eta itxurak
+    .tooltiptext = Kudeatu zure gehigarriak eta itxurak ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open settings (only on macOS)
+toolbar-settings-button =
+    .label = Ezarpenak
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Ireki ezarpenak ({ $shortcut })
+           *[other] Ireki ezarpenak
+        }
 
 ## More items
 
@@ -667,6 +687,7 @@ panel-save-update-password = Pasahitza
 # Variables:
 #  $name (String): The name of the addon that will be removed.
 addon-removal-title = { $name } kendu?
+addon-removal-abuse-report-checkbox = Salatu hedapen hau { -vendor-short-name }(r)i
 
 ## Remote / Synced tabs
 
