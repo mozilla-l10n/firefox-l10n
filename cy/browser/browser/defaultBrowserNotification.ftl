@@ -7,3 +7,16 @@ default-browser-notification-message = <strong>Gosodwch { -brand-short-name } fe
 default-browser-notification-button =
     .label = Gosod fel y Rhagosodiad
     .accesskey = R
+
+## These strings are used for the default browser prompt. There are 2 variations
+## depending on the operating system (Windows vs other). The checkbox label and
+## secondary button are shared between the variants.
+
+default-browser-prompt-title-pin = Gwneud { -brand-short-name } eich prif borwr?
+default-browser-prompt-message-pin = Cadwch { -brand-short-name } ar flaenau eich bysedd — ei wneud eich porwr rhagosodedig a'i binio i'ch bar tasgau.
+default-browser-prompt-button-primary-pin = Ei wneud eich prif borwr
+default-browser-prompt-title-alt = Gwneud { -brand-short-name } eich prif borwr?
+default-browser-prompt-message-alt = Cael cyflymder, diogelwch a phreifatrwydd bob tro y byddwch chi'n pori.
+default-browser-prompt-button-primary-alt = Gosod fel y porwr ragosodedig
+default-browser-prompt-checkbox-label = Peidio a gofyn eto.
+default-browser-prompt-button-secondary = Nid nawr
