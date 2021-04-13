@@ -83,7 +83,7 @@ feature-enable-requires-restart = { -brand-short-name } se mora ponovo pokrenuti
 feature-disable-requires-restart = { -brand-short-name } se mora ponovo pokrenuti da bi se onemogućila ova funkcija.
 should-restart-title = Ponovo pokreni { -brand-short-name }
 should-restart-ok = Ponovo pokreni { -brand-short-name } sada
-cancel-no-restart-button = Otkaži
+cancel-no-restart-button = Odustani
 restart-later = Ponovo pokreni kasnije
 
 ## Extension Control Notifications

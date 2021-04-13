@@ -119,7 +119,7 @@ downloads-retry-download =
 # Displayed when hovering a download which is able to be cancelled by users,
 # indicates that it's possible to cancel and stop the download.
 downloads-cancel-download =
-    .value = Otkazivanje preuzimanja
+    .value = Prekini preuzimanje
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
@@ -132,7 +132,7 @@ downloads-details =
     .title = Detalji preuzimanja
 downloads-clear-downloads-button =
     .label = Izbriši preuzimanja
-    .tooltiptext = Briše dovršena, otkazana i neuspjela preuzimanja
+    .tooltiptext = Briše dovršena, prekinuta i neuspjela preuzimanja
 # This string is shown when there are no items in the Downloads view, when it
 # is displayed inside a browser tab.
 downloads-list-empty =
