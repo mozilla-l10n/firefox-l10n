@@ -5,14 +5,18 @@
 
 ## App Menu
 
-appmenuitem-update-banner =
-    .label-update-downloading = Llwytho diweddariad { -brand-shorter-name } i lawr
 appmenuitem-update-banner2 =
     .label-update-downloading = Llwytho diweddariad { -brand-shorter-name } i lawr
     .label-update-available = Diweddariad ar gael — llwythwch i lawr nawr
     .label-update-manual = Diweddariad ar gael — llwythwch i lawr nawr
     .label-update-unsupported = Methu diweddaru
     .label-update-restart = Diweddariad ar gael — ail gychwynnwch nawr
+appmenuitem-update-banner3 =
+    .label-update-downloading = Yn llwytho diweddariad { -brand-shorter-name } i lawr
+    .label-update-available = Mae diweddariad ar gael — llwytho i lawr nawr
+    .label-update-manual = Mae diweddariad ar gael — llwytho i lawr nawr
+    .label-update-unsupported = Methu diweddaru — mae'r system yn anghydnaws
+    .label-update-restart = Mae diweddariad ar gael — ailgychwyn nawr
 appmenuitem-protection-dashboard-title = Bwrdd Gwaith Diogelwch
 appmenuitem-customize-mode =
     .label = Cyfaddasu…
@@ -25,8 +29,6 @@ appmenuitem-new-private-window =
     .label = Ffenestr Breifat Newydd
 appmenuitem-passwords =
     .label = Cyfrineiriau
-appmenuitem-extensions-and-themes =
-    .label = Estyniadau a Themâu
 appmenuitem-addons-and-themes =
     .label = Ychwanegion a Themâu
 appmenuitem-find-in-page =
@@ -162,11 +164,6 @@ appmenu-about =
 appmenu-get-help =
     .label = Derbyn Cymorth
     .accesskey = D
-appmenu-help-troubleshooting-info =
-    .label = Gwybodaeth am Ddatrys Problemau
-    .accesskey = G
-appmenu-help-taskmanager =
-    .label = Rheolwr Tasgau
 appmenu-help-more-troubleshooting-info =
     .label = Rhagor o Wybodaeth Datrys Problemau
     .accesskey = D
@@ -174,16 +171,6 @@ appmenu-help-report-site-issue =
     .label = Adrodd ar Fater Gwefan…
 appmenu-help-feedback-page =
     .label = Cyflwyno Adborth…
-    .accesskey = A
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Ailgychwyn gydag Ychwanegion wedi eu Hanalluogi…
-    .accesskey = A
-appmenu-help-safe-mode-with-addons =
-    .label = Ailgychwyn gydag Ychwanegion wedi eu Hanalluogi
     .accesskey = A
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
