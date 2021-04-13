@@ -27,14 +27,15 @@
 <!ENTITY contextOutgoing.accesskey "d">
 <!ENTITY contextArchive.label "Aig àm tasglannaidh">
 <!ENTITY contextArchive.accesskey "a">
+<!ENTITY contextPeriodic.accesskey "e">
 
 <!ENTITY filterActionDesc.label "Dèan na leanas:">
 <!ENTITY filterActionDesc.accesskey "D">
 
 <!ENTITY filterActionOrderWarning.label "An aire: Thèid gnìomhan criathradh a chur an gnìomh ann an òrdugh eadar-dhealaichte.">
 <!ENTITY filterActionOrder.label "Faic òrdugh a' ghnìomhachaidh">
-<!-- New Style Filter Rule Actions -->
 
+<!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Gluais an teachdaireachd gu">
 <!ENTITY copyMessage.label "Cuir lethbhreac dhen teachdaireachd gu">
 <!ENTITY forwardTo.label "Sìn an teachdaireachd air adhart gu">
@@ -62,6 +63,5 @@
      are truncated in the widgets.
   -->
 <!-- Flex Attribute: https://developer.mozilla.org/docs/XUL/Attribute/flex -->
-
 <!ENTITY filterActionTypeFlexValue "3">
 <!ENTITY filterActionTargetFlexValue "6">

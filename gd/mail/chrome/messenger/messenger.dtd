@@ -42,6 +42,8 @@
 <!ENTITY  newMessageCmd.accesskey "m">
 <!ENTITY  newContactCmd.label "Neach-aithne ann an leabhar nan seòladh…">
 <!ENTITY  newContactCmd.accesskey "C">
+<!ENTITY openMenuCmd.label "Fosgail">
+<!ENTITY openMenuCmd.accesskey "O">
 <!ENTITY openMessageFileCmd.label "Fosgail teachdaireachd a chaidh a shàbhaladh…">
 <!ENTITY openMessageFileCmd.accesskey "o">
 <!ENTITY saveAsMenu.label "Sàbhail mar">
@@ -287,6 +289,8 @@
 <!ENTITY searchMailCmd.label "Lorg sna teachdaireachdan…">
 <!ENTITY searchMailCmd.accesskey "L">
 <!ENTITY searchMailCmd.key "f">
+<!ENTITY glodaSearchCmd.label "Lorg uile-choitcheann…">
+<!ENTITY glodaSearchCmd.accesskey "G">
 <!ENTITY searchAddressesCmd.label "Lorg sna seòlaidhean…">
 <!ENTITY searchAddressesCmd.accesskey "s">
 
@@ -574,6 +578,7 @@
 <!ENTITY forwardAsAttachment.tooltip "Sìn air adhart an teachdaireachd a thagh thu mar cheanglachan">
 <!ENTITY fileButton.tooltip "Faidhlich an teachdaireachd a thagh thu">
 <!ENTITY archiveButton.tooltip "Cuir na teachdaireachdan a thagh thu san tasg-lann">
+<!ENTITY openMsgConversationButton.tooltip "Seall còmhradh na teachdaireachd a thagh thu">
 <!ENTITY nextButton.tooltip "Gluais dhan ath-theachdaireachd nach deach a leughadh">
 <!ENTITY nextMsgButton.tooltip "Gluais dhan ath-theachdaireachd">
 <!ENTITY previousButton.tooltip "Gluais dhan teachdaireachd roimhe nach deach a leughadh">
@@ -592,7 +597,6 @@
 <!ENTITY tagButton.tooltip "Cuir taga ris na teachdaireachdan">
 <!ENTITY compactButton.tooltip "Thoir air falbh na teachdaireachdan a chaidh an sguabadh às on phasgan a thagh thu">
 <!ENTITY appmenuButton1.tooltip "Seall clàr-taice &brandShortName;">
-
 <!ENTITY addonsButton.tooltip "Stiùirich na tuilleadain agad">
 
 <!-- Toolbar Button Popup -->
@@ -694,6 +698,7 @@
 <!ENTITY saveAsVirtualFolderMenu.label "Sàbhail an lorg mar phasgan…">
 
 <!-- Thread Pane -->
+<!ENTITY selectColumn.label "Tagh teachdaireachdan">
 <!ENTITY threadColumn.label "Snàth">
 <!ENTITY fromColumn.label "O">
 <!ENTITY recipientColumn.label "Faightear">
@@ -714,9 +719,11 @@
 <!ENTITY locationColumn.label "Àite">
 <!ENTITY idColumn.label "An t-òrdugh san d' fhuaradh iad">
 <!ENTITY attachmentColumn.label "Ceanglachain">
+<!ENTITY deleteColumn.label "Sguab às">
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Tagh na cuilbh a thèid a thaisbeanadh">
+<!ENTITY selectColumn.tooltip "Toglaich taghadh nan teachdaireachdan uile">
 <!ENTITY threadColumn2.tooltip "Seall snàithleanan nan teachdaireachdan">
 <!ENTITY fromColumn2.tooltip "Seòrsaich a-rèir seòladair">
 <!ENTITY recipientColumn2.tooltip "Seòrsaich a-rèir faighteir">
@@ -737,6 +744,7 @@
 <!ENTITY locationColumn2.tooltip "Seòrsaich a-rèir ionaid">
 <!ENTITY idColumn2.tooltip "Seòrsaich a-rèir cuin a fhuaras">
 <!ENTITY attachmentColumn2.tooltip "Seòrsaich a-rèir ceanglachain">
+<!ENTITY deleteColumn.tooltip "Sguab às teachdaireachd">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextNewMsgFromTemplate.label "Teachdaireachd ùr o theamplaid">
@@ -958,3 +966,6 @@
 <!ENTITY writeNewMessageDock.label      "Sgrìobh teachdaireachd ùr">
 <!ENTITY openAddressBookDock.label      "Fosgail leabhar nan seòladh">
 
+<!-- Content tab Navigation buttons -->
+<!ENTITY browseBackButton.tooltip    "Rach duilleag air ais">
+<!ENTITY browseForwardButton.tooltip "Rach duilleag air adhart">
