@@ -40,3 +40,7 @@ default-browser-prompt-title-alt =
         [neuter] { -brand-short-name(case: "acc") }
        *[other] програм { -brand-short-name }
     } као подразумевани прегледач?
+default-browser-prompt-message-alt = Претражујте интернет брзо, безбедно и приватно.
+default-browser-prompt-button-primary-alt = Постави као подразумевани прегледач
+default-browser-prompt-checkbox-label = Не питај поново
+default-browser-prompt-button-secondary = Не сада
