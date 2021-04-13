@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "Otvori izbornik">
+
 <!ENTITY navbarOverflow.label                "Više alata…">
 
 <!-- Tab context menu -->
@@ -51,6 +52,10 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.syncSettings2.label "Postavke za &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Poveži novi uređaj…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     followed by the user's email. -->
 <!ENTITY fxa.menu.signin.label "Prijavi se u &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Uključi &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "&brandProductName; usluge">
@@ -153,12 +158,15 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuHelp.label "Pomoć">
 
 <!ENTITY appMenuRemoteTabs.label "Sinkronizirane kartice">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Nema otvorenih kartica">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showMore.label "Prikaži više">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.tooltip):
+     This is shown after the tabs list if we can display more tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showMore.tooltip "Prikaz više kartica s ovoga uređaja">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
@@ -191,7 +199,7 @@ this container is a toolbar. This avoids double-speaking. -->
      in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Dodaj u dodatni izbornik">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "i">
-<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Izbaci iz dodatnog izbornika">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Ukloni iz dodatnog izbornika">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "I">
 <!ENTITY customizeMenu.removeFromToolbar.label "Ukloni s alatne trake">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "r">
@@ -217,9 +225,6 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY saveToPocketCmd.label        "Spremi stranicu u Pocket">
-
-<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
-  "Pocket" is a brand name. -->
 <!ENTITY pocketMenuitem.label         "Prikaži Pocket popis">
 
 <!ENTITY emailPageCmd.label           "Pošalji poveznicu e-poštom…">
