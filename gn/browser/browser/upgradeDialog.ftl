@@ -26,7 +26,11 @@ upgrade-dialog-new-secondary-button = Ani ko’ág̃a
 upgrade-dialog-theme-title =
     Emoñepyrũ tekopotĩme
     peteĩ téma hekopyahúva ndive
+upgrade-dialog-theme-system = Téma apopyvusu
+    .title = Ehapykueho téma apopyvusu oku'éva votõ, poravorã ha ovetãme g̃uarã
 upgrade-dialog-theme-light = Sakã
     .title = Eipuru téma sakã votõ, poravorã ha ovetãme g̃uarã
+upgrade-dialog-theme-dark = Ypytũ
+    .title = Eipuru téma ypytũ votõ, poravorã ha ovetãme g̃uarã
 upgrade-dialog-theme-primary-button = Eñongatu téma
 upgrade-dialog-theme-secondary-button = Ani ko’ág̃a
