@@ -69,6 +69,8 @@ urlbar-default-notification-anchor =
     .tooltiptext = Open message panel
 urlbar-geolocation-notification-anchor =
     .tooltiptext = Open airtin speirin panel
+urlbar-xr-notification-anchor =
+    .tooltiptext = Open virtual reality permeesion panel
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
