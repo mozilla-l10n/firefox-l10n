@@ -13,6 +13,7 @@ default-browser-notification-button =
 ## secondary button are shared between the variants.
 
 default-browser-prompt-title-pin = 要将 { -brand-short-name } 设为您的主浏览器吗？
+default-browser-prompt-message-pin = 将 { -brand-short-name } 设为默认浏览器并固定到任务栏，方便随手开启。
 default-browser-prompt-button-primary-pin = 设为主浏览器
 default-browser-prompt-title-alt = 要将 { -brand-short-name } 设为您的默认浏览器吗？
 default-browser-prompt-message-alt = 每一次浏览，都有最快速度、安全与隐私保护。
