@@ -7,3 +7,15 @@ default-browser-notification-message = <strong>Sće { -brand-short-name } jako s
 default-browser-notification-button =
     .label = Jako standard nastajić
     .accesskey = J
+
+## These strings are used for the default browser prompt. There are 2 variations
+## depending on the operating system (Windows vs other). The checkbox label and
+## secondary button are shared between the variants.
+
+default-browser-prompt-title-pin = Chceće { -brand-short-name } k swojemu primarnemu wobhladowakej činić?
+default-browser-prompt-button-primary-pin = K primarnemu wobhladowakej činić
+default-browser-prompt-title-alt = Chceće { -brand-short-name } k swojemu standardnemu wobhladowakej činić?
+default-browser-prompt-message-alt = Dóstanće spěšnosć, wěstotu a priwatnosć kóždy raz, hdyž přehladujeće.
+default-browser-prompt-button-primary-alt = Jako standardny wobhladowak nastajić
+default-browser-prompt-checkbox-label = Hižo so njeprašeć
+default-browser-prompt-button-secondary = Nic nětko
