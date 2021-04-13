@@ -4,21 +4,17 @@
 
 fonts-window-close =
     .key = w
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = Bun-roghainn ({ $name })
 fonts-label-default-unnamed =
     .label = Bun-roghainn
-
 fonts-encoding-dialog-title =
     .title = Cruthan-clò ⁊ còdachaidhean
-
 fonts-language-legend =
     .value = Cruthan-clò airson:
     .accesskey = t
-
 fonts-proportional-label =
     .value = Co-rèireach:
     .accesskey = C
@@ -89,45 +85,38 @@ font-language-group-tibetan =
 
 default-font-serif =
     .label = Serif
-
 default-font-sans-serif =
     .label = Sans Serif
-
 font-size-label =
     .value = Meud:
     .accesskey = e
-
+font-size-proportional-label =
+    .value = Meud:
+    .accesskey = e
 font-size-monospace-label =
     .value = Meud:
     .accesskey = i
-
 font-serif-label =
     .value = Serif:
     .accesskey = S
-
 font-sans-serif-label =
     .value = Sans-serif:
     .accesskey = n
-
 font-monospace-label =
     .value = Clò aon-leud:
     .accesskey = C
-
 font-min-size-label =
     .value = Meud as lugha a' chrutha-chlò:
     .accesskey = M
-
 min-size-none =
     .label = Chan eil gin
 
 ## Fonts in message
 
 font-control-legend = Smachd nan cruthan-clò
-
 use-document-fonts-checkbox =
     .label = Leig le teachdaireachdan cruthan-clò eile a chleachdadh
     .accesskey = L
-
 use-fixed-width-plain-checkbox =
     .label = Cleachd cruth-clò de leud suidhichte airson teachdaireachdan ann an teacsa lom
     .accesskey = x
@@ -135,17 +124,13 @@ use-fixed-width-plain-checkbox =
 ## Language settings
 
 text-encoding-legend = Còdachadh teacsa
-
 text-encoding-description = Suidhich an còdachadh teacsa bunaiteach airson post a chur ’s fhaighinn
-
 font-outgoing-email-label =
     .value = Post a-mach:
     .accesskey = P
-
 font-incoming-email-label =
     .value = Post a-steach:
     .accesskey = P
-
 default-font-reply-checkbox =
     .label = Ma ghabhas sin a dhèanamh, cleachd an còdachadh teacsa bunaiteach ’nam fhreagairtean
     .accesskey = h
