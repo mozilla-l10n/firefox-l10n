@@ -7,3 +7,16 @@ default-browser-notification-message = <strong>Зробити { -brand-short-nam
 default-browser-notification-button =
     .label = Встановити типовим
     .accesskey = п
+
+## These strings are used for the default browser prompt. There are 2 variations
+## depending on the operating system (Windows vs other). The checkbox label and
+## secondary button are shared between the variants.
+
+default-browser-prompt-title-pin = Зробити { -brand-short-name } вашим основним браузером?
+default-browser-prompt-message-pin = Тримайте { -brand-short-name } під рукою — зробіть його своїм типовим браузером і закріпіть на панелі завдань.
+default-browser-prompt-button-primary-pin = Зробити основним браузером
+default-browser-prompt-title-alt = Зробити { -brand-short-name } вашим типовим браузером?
+default-browser-prompt-message-alt = Отримайте швидкість, безпеку та приватність завжди під час перегляду.
+default-browser-prompt-button-primary-alt = Встановити типовим браузером
+default-browser-prompt-checkbox-label = Не питати знову
+default-browser-prompt-button-secondary = Не зараз
