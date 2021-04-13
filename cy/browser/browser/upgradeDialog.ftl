@@ -38,3 +38,7 @@ upgrade-dialog-theme-dark = Tywyll
     .title = Defnyddio thema dywyll ar gyfer botymau, dewislenni a ffenestri
 upgrade-dialog-theme-alpenglow = Alpenglow
     .title = Defnyddio thema bywiog a lliwgar ar gyfer botymau, dewislenni a ffenestri
+upgrade-dialog-theme-keep = Cadw'r blaenorol
+    .title = Defnyddio'r thema roeddech wedi'i gosod cyn diweddaru { -brand-short-name }
+upgrade-dialog-theme-primary-button = Cadw'r thema
+upgrade-dialog-theme-secondary-button = Nid nawr
