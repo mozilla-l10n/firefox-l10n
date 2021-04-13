@@ -20,6 +20,7 @@ upgrade-dialog-new-item-icons-description = Te adjuta a trovar tu via con un toc
 upgrade-dialog-new-primary-primary-button = Render { -brand-short-name } mi navigator primari
     .title = Predefini { -brand-short-name } como navigator e lo appuncta in le barra del activitates
 upgrade-dialog-new-primary-default-button = Render { -brand-short-name } mi navigator primari?
+upgrade-dialog-new-primary-pin-button = Adde { -brand-short-name } al barra del applicationes
 upgrade-dialog-new-primary-theme-button = Elige un thema
 upgrade-dialog-new-secondary-button = Non ora
 
@@ -37,5 +38,7 @@ upgrade-dialog-theme-dark = Obscur
     .title = Usar le thema obscur pro buttones, menus e fenestras
 upgrade-dialog-theme-alpenglow = Alpenglow
     .title = Usar un thema dynamic e colorate pro buttones, menus e fenestras
+upgrade-dialog-theme-keep = Mantener existente
+    .title = Continuar a utilisar le thema jam installate ante le actualisation de { -brand-short-name }
 upgrade-dialog-theme-primary-button = Salvar le thema
 upgrade-dialog-theme-secondary-button = Non ora
