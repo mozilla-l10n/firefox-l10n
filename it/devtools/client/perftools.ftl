@@ -113,8 +113,6 @@ perftools-tools-threads-input-label =
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
 ## preferences are true.
 
--profiler-brand-name = Firefox Profiler
-
 perftools-onboarding-message = <b>Novità</b>: { -profiler-brand-name } ora è integrato negli strumenti di sviluppo. <a>Scopri altre informazioni</a> su questo potente strumento.
 
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
