@@ -45,6 +45,12 @@ upgrade-dialog-new-primary-pin-button =
         [neuter] { -brand-short-name(case: "acc") }
        *[other] програм { -brand-short-name }
     } на траку задатака
+upgrade-dialog-new-primary-theme-button = Одабери тему
+upgrade-dialog-new-secondary-button = Не сада
 
 ## Theme selection screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-theme-title = Почните из почетка уз нову тему
+upgrade-dialog-theme-system = Системска тема
+    .title = На основу теме оперативног система (дугмад, менији и прозори)
