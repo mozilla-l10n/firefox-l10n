@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+toolbar-context-menu-open-a-new-tab =
+    .label = Ireki fitxa berria
+    .accesskey = k
 toolbar-context-menu-reload-selected-tab =
     .label = Berritu hautatutako fitxa
     .accesskey = B
@@ -53,6 +56,9 @@ toolbar-context-menu-pin-to-overflow-menu =
 toolbar-context-menu-auto-hide-downloads-button =
     .label = Ezkutatu automatikoki tresna-barran
     .accesskey = z
+toolbar-context-menu-auto-hide-downloads-button-2 =
+    .label = Ezkutatu botoia hutsik dagoenean
+    .accesskey = E
 toolbar-context-menu-remove-from-toolbar =
     .label = Kendu tresna-barratik
     .accesskey = K
