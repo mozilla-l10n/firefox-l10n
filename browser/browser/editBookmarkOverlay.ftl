@@ -48,3 +48,5 @@ bookmark-overlay-keyword =
 bookmark-overlay-keyword-2 =
     .value = Pikakomento
     .accesskey = P
+bookmark-overlay-tags-caption-label = Järjestä ja etsi kirjanmerkkejä osoiteriviltä avainsanojen avulla
+bookmark-overlay-keyword-caption-label = Käytä pikakomentoja avataksesi kirjanmerkkejä suoraan osoiteriviltä
