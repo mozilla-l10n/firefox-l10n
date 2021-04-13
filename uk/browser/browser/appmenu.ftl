@@ -5,14 +5,18 @@
 
 ## App Menu
 
-appmenuitem-update-banner =
-    .label-update-downloading = Завантажується оновлення { -brand-shorter-name }
 appmenuitem-update-banner2 =
     .label-update-downloading = Завантажується оновлення { -brand-shorter-name }
     .label-update-available = Доступне оновлення — завантажити зараз
     .label-update-manual = Доступне оновлення — завантажити зараз
     .label-update-unsupported = Не вдається оновити
     .label-update-restart = Доступне оновлення — перезавантажити зараз
+appmenuitem-update-banner3 =
+    .label-update-downloading = Завантажується оновлення { -brand-shorter-name }
+    .label-update-available = Доступне оновлення — завантажити
+    .label-update-manual = Доступне оновлення — завантажити
+    .label-update-unsupported = Не вдається оновити — несумісна система
+    .label-update-restart = Доступне оновлення — перезавантажити
 appmenuitem-protection-dashboard-title = Панель стану захисту
 appmenuitem-customize-mode =
     .label = Пристосування…
@@ -25,8 +29,6 @@ appmenuitem-new-private-window =
     .label = Приватне вікно
 appmenuitem-passwords =
     .label = Паролі
-appmenuitem-extensions-and-themes =
-    .label = Розширення і теми
 appmenuitem-addons-and-themes =
     .label = Додатки й теми
 appmenuitem-find-in-page =
@@ -162,11 +164,6 @@ appmenu-about =
 appmenu-get-help =
     .label = Отримати допомогу
     .accesskey = д
-appmenu-help-troubleshooting-info =
-    .label = Усунення проблем
-    .accesskey = У
-appmenu-help-taskmanager =
-    .label = Менеджер завдань
 appmenu-help-more-troubleshooting-info =
     .label = Додаткова інформація щодо усунення проблем
     .accesskey = я
@@ -175,16 +172,6 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = Надіслати відгук…
     .accesskey = Н
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Перезапуск з вимкненими додатками…
-    .accesskey = П
-appmenu-help-safe-mode-with-addons =
-    .label = Перезапуск з увімкненими додатками
-    .accesskey = у
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

@@ -227,7 +227,7 @@ full-screen-exit =
 
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
-search-one-offs-with-title = Цього разу, пошук з:
+search-one-offs-with-title = Цього разу шукати з:
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
@@ -584,9 +584,6 @@ pointerlock-warning-no-domain = Цей документ отримав конт�
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Збій частини цієї сторінки.</strong> Надішліть звіт, щоб повідомити { -brand-product-name } про цю проблему для швидшого її розв'язання.
-crashed-subframe-learnmore =
-    .label = Дізнатися більше
-    .accesskey = Д
 crashed-subframe-learnmore-link =
     .value = Докладніше
 crashed-subframe-submit =
@@ -599,8 +596,6 @@ bookmarks-show-all-bookmarks =
     .label = Показати всі закладки
 bookmarks-manage-bookmarks =
     .label = Керувати закладками
-bookmarks-recent-bookmarks-panel =
-    .value = Недавні закладки
 bookmarks-recent-bookmarks-panel-subheader = Недавні закладки
 bookmarks-toolbar-chevron =
     .tooltiptext = Показати інші закладки
