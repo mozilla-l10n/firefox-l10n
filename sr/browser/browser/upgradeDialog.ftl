@@ -17,6 +17,34 @@ upgrade-dialog-new-item-tabs-title = Модерне картице
 upgrade-dialog-new-item-tabs-description = Уредно организоване информације за бољу концентрацију и лакшу навигацију.
 upgrade-dialog-new-item-icons-title = Нове иконе и јасније поруке
 upgrade-dialog-new-item-icons-description = Крећите се кроз програм уз мање труда.
+upgrade-dialog-new-primary-primary-button =
+    Постави { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "acc") }
+        [feminine] { -brand-short-name(case: "acc") }
+        [neuter] { -brand-short-name(case: "acc") }
+       *[other] програм { -brand-short-name }
+    } као примарни прегледач
+    .title =
+        Поставља { -brand-short-name.gender ->
+            [masculine] { -brand-short-name(case: "acc") } као подразумевани прегледач и качи га
+            [feminine] { -brand-short-name(case: "acc") } као подразумевани прегледач и качи је
+            [neuter] { -brand-short-name(case: "acc") } као подразумевани прегледач и качи га
+           *[other] програм { -brand-short-name } као подразумевани прегледач и качи га
+        } на траку задатака
+upgrade-dialog-new-primary-default-button =
+    Постави { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "acc") }
+        [feminine] { -brand-short-name(case: "acc") }
+        [neuter] { -brand-short-name(case: "acc") }
+       *[other] програм { -brand-short-name }
+    } као подразумевани прегледач
+upgrade-dialog-new-primary-pin-button =
+    Закачи { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "acc") }
+        [feminine] { -brand-short-name(case: "acc") }
+        [neuter] { -brand-short-name(case: "acc") }
+       *[other] програм { -brand-short-name }
+    } на траку задатака
 
 ## Theme selection screen
 
