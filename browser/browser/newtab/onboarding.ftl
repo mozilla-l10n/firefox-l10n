@@ -193,7 +193,7 @@ onboarding-multistage-set-default-header =
         [neuter] { -brand-short-name(case: "acc") }
        *[other] програм { -brand-short-name }
     } као <span data-l10n-name="zap">подразумевани</span>
-onboarding-multistage-set-default-subtitle = Брзина, сигурност и приватност сваки пут када прегледате.
+onboarding-multistage-set-default-subtitle = Претражујте интернет брзо, безбедно и приватно.
 onboarding-multistage-set-default-primary-button-label = Постави као подразумевани
 onboarding-multistage-set-default-secondary-button-label = Не сада
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
@@ -248,7 +248,6 @@ onboarding-welcome-steps-indicator =
 # automatically added to the text inside it. "look" should stay inside the span.
 onboarding-multistage-theme-header = Изаберите <span data-l10n-name="zap">изглед</span>
 onboarding-multistage-theme-subtitle = Прилагодите { -brand-short-name } темом.
-onboarding-multistage-theme-primary-button-label = Сачувај тему
 onboarding-multistage-theme-primary-button-label2 = Готово
 onboarding-multistage-theme-secondary-button-label = Не сада
 # Automatic theme uses operating system color settings
