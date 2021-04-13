@@ -32,11 +32,11 @@ this string appears below the toggle when the mouse hovers the toggle. -->
 <!ENTITY pictureInPictureExplainer "Reproduciraj videozapise u prvom planu dok radiš druge stvari u &brandShortName;u">
 
 <!ENTITY error.aborted "Učitavanje videa zaustavljeno.">
-<!ENTITY error.network "Reprodukcija videa je otkazana zbog mrežne greške.">
+<!ENTITY error.network "Reprodukcija videa je prekinuta zbog mrežne greške.">
 <!ENTITY error.decode "Video nije moguće reproducirati jer je datoteka oštećena.">
 <!ENTITY error.srcNotSupported "Video format ili MIME vrsta nisu podržani.">
 <!ENTITY error.noSource2 "Nije pronađen video s podržanim formatom ili MIME vrstom.">
-<!ENTITY error.generic "Reprodukcija videa je otkazana zbog nepoznate greške.">
+<!ENTITY error.generic "Reprodukcija videa je prekinuta zbog nepoznate greške.">
 
 <!ENTITY status.pictureInPicture "Ovaj videozapis reproducira u načinu rada Slika u slici.">
 

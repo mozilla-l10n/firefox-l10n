@@ -269,7 +269,7 @@ search-one-offs-history =
 bookmarks-add-bookmark = Dodaj zabilješku
 bookmarks-edit-bookmark = Uredi zabilješku
 bookmark-panel-cancel =
-    .label = Otkaži
+    .label = Odustani
     .accesskey = d
 # Variables:
 #  $count (number): number of bookmarks that will be removed
@@ -587,9 +587,6 @@ pointerlock-warning-no-domain = Ovaj dokument ima kontrolu nad pokazivačem. Pri
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Dio ove stranice se srušio.</strong> Da bi { -brand-product-name } znao za ovu grešku i ispravio je, pošalji izvješće.
-crashed-subframe-learnmore =
-    .label = Saznaj više
-    .accesskey = S
 crashed-subframe-learnmore-link =
     .value = Saznaj više
 crashed-subframe-submit =
@@ -602,8 +599,6 @@ bookmarks-show-all-bookmarks =
     .label = Prikaži sve zabilješke
 bookmarks-manage-bookmarks =
     .label = Upravljanje zabilješkama
-bookmarks-recent-bookmarks-panel =
-    .value = Nedavne zabilješke
 bookmarks-recent-bookmarks-panel-subheader = Nedavne zabilješke
 bookmarks-toolbar-chevron =
     .tooltiptext = Prikaži više zabilješki
