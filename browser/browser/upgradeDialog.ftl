@@ -18,6 +18,19 @@ upgrade-dialog-new-item-icons-title = Friss ikonok és egyértelműbb üzenetek
 upgrade-dialog-new-primary-primary-button = A { -brand-short-name } elsődleges böngészővé tétele
     .title = Beállítja a { -brand-short-name }ot alapértelmezett böngészőnek, és rögzíti a tálcára
 upgrade-dialog-new-primary-default-button = A { -brand-short-name } alapértelmezett böngészővé tétele
+upgrade-dialog-new-primary-pin-button = A { -brand-short-name } rögzítése a tálcára
+upgrade-dialog-new-primary-theme-button = Válasszon témát
+upgrade-dialog-new-secondary-button = Most nem
 
 ## Theme selection screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-theme-title =
+    Induljon tisztán
+    egy frissített témával
+upgrade-dialog-theme-system = Rendszertéma
+    .title = Az operációs rendszer témájának követése a gomboknál, menüknél és ablakoknál
+upgrade-dialog-theme-light = Világos
+    .title = Világos téma használata a gomboknál, menüknél és ablakoknál
+upgrade-dialog-theme-dark = Sötét
+    .title = Sötét téma használata a gomboknál, menüknél és ablakoknál
