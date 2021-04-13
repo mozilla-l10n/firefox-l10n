@@ -37,7 +37,13 @@ abuse-report-submit-button = Pošalji
 ## Variables:
 ##   $addon-name (string) - Name of the add-on
 
-abuse-report-messagebar-aborted = Prijava za <span data-l10n-name="addon-name">{ $addon-name }</span> je otkazana.
+
+## Message bars descriptions.
+##
+## Variables:
+##   $addon-name (string) - Name of the add-on
+
+abuse-report-messagebar-aborted = Prijava za <span data-l10n-name="addon-name">{ $addon-name }</span> je prekinuta.
 abuse-report-messagebar-submitting = Slanje prijave za <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-submitted = Hvala ti za slanje izvještaja. Želiš li ukloniti <span data-l10n-name="addon-name">{ $addon-name }</span>?
 abuse-report-messagebar-submitted-noremove = Hvala ti za slanje izvještaja.
