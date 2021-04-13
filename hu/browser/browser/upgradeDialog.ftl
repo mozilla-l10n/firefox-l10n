@@ -16,6 +16,7 @@ upgrade-dialog-new-item-menu-description = Priorizálja a fontos dolgokat, hogy 
 upgrade-dialog-new-item-tabs-title = Modern lapok
 upgrade-dialog-new-item-tabs-description = Rendezetten tárolja az információkat, támogatja a fókuszt és a rugalmas mozgatást.
 upgrade-dialog-new-item-icons-title = Friss ikonok és egyértelműbb üzenetek
+upgrade-dialog-new-item-icons-description = Könnyebb érintéssel segít eligazodni.
 upgrade-dialog-new-primary-primary-button = A { -brand-short-name } elsődleges böngészővé tétele
     .title = Beállítja a { -brand-short-name }ot alapértelmezett böngészőnek, és rögzíti a tálcára
 upgrade-dialog-new-primary-default-button = A { -brand-short-name } alapértelmezett böngészővé tétele
