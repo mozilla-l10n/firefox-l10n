@@ -621,8 +621,8 @@ bookmarks-tools-toolbar-visibility-menuitem =
 bookmarks-tools-toolbar-visibility-panel =
     .label =
         { $isVisible ->
-            [true] Vis bokmerkeverktøylinja
-           *[other] Skjul bokmerkeverktøylinja
+            [true] Skjul bokmerkeverktøylinja
+           *[other] Vis bokmerkeverktøylinja
         }
 bookmarks-tools-menu-button-visibility =
     .label =
@@ -640,11 +640,11 @@ bookmarks-bookmark-edit-panel =
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
 bookmarks-toolbar =
-    .toolbarname = Bokmerke
+    .toolbarname = Bokmerkelinje
     .accesskey = B
     .aria-label = Bokmerke
 bookmarks-toolbar-menu =
-    .label = Bokmerke
+    .label = Bokmerkelinje
 bookmarks-toolbar-placeholder =
     .title = Element i bokmerkelinja
 bookmarks-toolbar-placeholder-button =
