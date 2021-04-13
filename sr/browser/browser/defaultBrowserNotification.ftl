@@ -18,4 +18,25 @@ default-browser-notification-button =
 ## depending on the operating system (Windows vs other). The checkbox label and
 ## secondary button are shared between the variants.
 
-default-browser-prompt-title-pin = Поставити { -brand-short-name } као примарни прегледач?
+default-browser-prompt-title-pin =
+    Поставити { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "acc") }
+        [feminine] { -brand-short-name(case: "acc") }
+        [neuter] { -brand-short-name(case: "acc") }
+       *[other] програм { -brand-short-name }
+    } као примарни прегледач?
+default-browser-prompt-message-pin =
+    Нека вам { -brand-short-name.gender ->
+        [masculine] { -brand-short-name } буде надохват руке – поставите га
+        [feminine] { -brand-short-name } буде надохват руке – поставите је
+        [neuter] { -brand-short-name } буде надохват руке – поставите га
+       *[other] програм { -brand-short-name } буде надохват руке – поставите га
+    } као подразумевани прегледач и закачите на траку задатака.
+default-browser-prompt-button-primary-pin = Постави као примарни прегледач
+default-browser-prompt-title-alt =
+    Поставити { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "acc") }
+        [feminine] { -brand-short-name(case: "acc") }
+        [neuter] { -brand-short-name(case: "acc") }
+       *[other] програм { -brand-short-name }
+    } као подразумевани прегледач?
