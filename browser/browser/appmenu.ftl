@@ -5,13 +5,17 @@
 
 ## App Menu
 
-appmenuitem-update-banner =
-    .label-update-downloading = { -brand-shorter-name } güncellemesi indiriliyor
 appmenuitem-update-banner2 =
     .label-update-downloading = { -brand-shorter-name } güncellemesi indiriliyor
     .label-update-available = Güncelleme var: Şimdi indir
     .label-update-manual = Güncelleme var: Şimdi indir
     .label-update-unsupported = Güncelleme yapılamadı
+    .label-update-restart = Güncelleme var: Yeniden başlat
+appmenuitem-update-banner3 =
+    .label-update-downloading = { -brand-shorter-name } güncellemesi indiriliyor
+    .label-update-available = Güncelleme var: Şimdi indir
+    .label-update-manual = Güncelleme var: Şimdi indir
+    .label-update-unsupported = Güncelleme yapılamadı: Sistem uyumsuz
     .label-update-restart = Güncelleme var: Yeniden başlat
 appmenuitem-protection-dashboard-title = Korumalar panosu
 appmenuitem-customize-mode =
@@ -25,8 +29,6 @@ appmenuitem-new-private-window =
     .label = Yeni gizli pencere
 appmenuitem-passwords =
     .label = Parolalar
-appmenuitem-extensions-and-themes =
-    .label = Uzantılar ve temalar
 appmenuitem-addons-and-themes =
     .label = Eklentiler ve temalar
 appmenuitem-find-in-page =
@@ -160,11 +162,6 @@ appmenu-about =
 appmenu-get-help =
     .label = Yardım al
     .accesskey = Y
-appmenu-help-troubleshooting-info =
-    .label = Sorun giderme bilgileri
-    .accesskey = b
-appmenu-help-taskmanager =
-    .label = Görev yöneticisi
 appmenu-help-more-troubleshooting-info =
     .label = Sorun giderme bilgileri
     .accesskey = S
@@ -173,16 +170,6 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = Geri bildirim gönder…
     .accesskey = G
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Eklentileri devre dışı bırakıp başlat…
-    .accesskey = E
-appmenu-help-safe-mode-with-addons =
-    .label = Eklentileri etkinleştirip yeniden başlat
-    .accesskey = E
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

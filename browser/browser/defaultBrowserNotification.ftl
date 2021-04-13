@@ -7,3 +7,9 @@ default-browser-notification-message = <strong>{ -brand-short-name } varsayılan
 default-browser-notification-button =
     .label = Varsayılan olarak ayarla
     .accesskey = V
+
+## These strings are used for the default browser prompt. There are 2 variations
+## depending on the operating system (Windows vs other). The checkbox label and
+## secondary button are shared between the variants.
+
+default-browser-prompt-button-primary-alt = Varsayılan tarayıcı yap
