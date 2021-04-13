@@ -7,3 +7,14 @@ default-browser-notification-message = <strong>{ -brand-short-name }를 기본 �
 default-browser-notification-button =
     .label = 기본값으로 설정
     .accesskey = S
+
+## These strings are used for the default browser prompt. There are 2 variations
+## depending on the operating system (Windows vs other). The checkbox label and
+## secondary button are shared between the variants.
+
+default-browser-prompt-button-primary-pin = 기본 브라우저로 설정
+default-browser-prompt-title-alt = { -brand-short-name }를 기본 브라우저로 설정하시겠습니까?
+default-browser-prompt-message-alt = 탐색할 때마다 속도, 안전 및 개인 정보 보호 기능이 제공됩니다.
+default-browser-prompt-button-primary-alt = 기본 브라우저로 설정
+default-browser-prompt-checkbox-label = 다시 묻지 않기
+default-browser-prompt-button-secondary = 나중에
