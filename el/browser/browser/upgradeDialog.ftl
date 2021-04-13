@@ -10,8 +10,10 @@
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-new-title = Πείτε γεια στο νέο { -brand-short-name }
+upgrade-dialog-new-item-menu-title = Βελτιωμένη γραμμή εργαλείων και μενού
 upgrade-dialog-new-item-tabs-title = Σύγχρονες καρτέλες
 upgrade-dialog-new-item-icons-title = Νέα εικονίδια και σαφέστερα μηνύματα
+upgrade-dialog-new-primary-theme-button = Επιλογή θέματος
 upgrade-dialog-new-secondary-button = Όχι τώρα
 
 ## Theme selection screen
