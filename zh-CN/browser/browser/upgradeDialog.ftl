@@ -8,6 +8,10 @@
 
 ## New changes screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-new-title = 邂逅全新的 { -brand-short-name }
+upgrade-dialog-new-subtitle = 重新设计，只为让您的浏览更轻快
+upgrade-dialog-new-item-menu-title = 更精简的工具栏和菜单
 upgrade-dialog-new-item-tabs-title = 现代化的标签页设计
 upgrade-dialog-new-primary-primary-button = 将 { -brand-short-name } 设为我的主浏览器
     .title = 将 { -brand-short-name } 设为默认浏览器，并固定到任务栏
