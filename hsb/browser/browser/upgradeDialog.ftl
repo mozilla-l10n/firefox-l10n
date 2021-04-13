@@ -34,6 +34,6 @@ upgrade-dialog-theme-dark = Ćmowy
 upgrade-dialog-theme-alpenglow = Alpenglow
     .title = Dynamisku, barbojtu drastu za tłóčatka, menije a wokna wužiwać
 upgrade-dialog-theme-keep = Předchadnu wobchować
-    .title = Drastu wužiwać, kotruž sće před aktualizanjom { -brand-short-name } isntalował
+    .title = Drastu wužiwać, kotruž sće před aktualizanjom { -brand-short-name } instalował
 upgrade-dialog-theme-primary-button = Drastu składować
 upgrade-dialog-theme-secondary-button = Nic nětko
