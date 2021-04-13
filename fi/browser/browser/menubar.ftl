@@ -30,8 +30,8 @@ menu-application-touch-bar =
 menu-quit =
     .label =
         { PLATFORM() ->
-            [windows] Sulje
-           *[other] Sulje
+            [windows] Sulje selain
+           *[other] Sulje selain
         }
     .accesskey =
         { PLATFORM() ->
@@ -350,14 +350,12 @@ menu-help-import-from-another-browser =
 menu-help-keyboard-shortcuts =
     .label = Näppäinkomennot
     .accesskey = N
-menu-get-help =
-    .label = Etsi ohjeita
-    .accesskey = h
 menu-help-troubleshooting-info =
     .label = Tietoja ongelmatilanteisiin
     .accesskey = T
-menu-help-taskmanager =
-    .label = Tehtävienhallinta
+menu-get-help =
+    .label = Etsi ohjeita
+    .accesskey = h
 menu-help-more-troubleshooting-info =
     .label = Lisää vianmääritystietoja
     .accesskey = L
