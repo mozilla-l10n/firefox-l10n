@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+toolbar-context-menu-open-a-new-tab =
+    .label = Avaa uusi välilehti
+    .accesskey = u
 toolbar-context-menu-reload-selected-tab =
     .label = Päivitä valittu välilehti
     .accesskey = P
@@ -30,7 +33,7 @@ toolbar-context-menu-reopen-closed-tabs =
             [1] Avaa uudelleen suljettu välilehti
            *[other] Avaa uudelleen suljetut välilehdet
         }
-    .accesskey = u
+    .accesskey = d
 toolbar-context-menu-manage-extension =
     .label = Hallitse laajennusta
     .accesskey = a

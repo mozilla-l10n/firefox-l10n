@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+tab-context-open-a-new-tab =
+    .label = Avaa uusi välilehti
+    .accesskey = u
 reload-tab =
     .label = Päivitä välilehti
     .accesskey = P
@@ -53,7 +56,7 @@ reopen-in-container =
     .accesskey = e
 tab-context-open-in-new-container-tab =
     .label = Avaa uuteen eristettyyn välilehteen
-    .accesskey = u
+    .accesskey = e
 move-to-start =
     .label = Siirrä alkuun
     .accesskey = a
@@ -66,15 +69,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Sulje useita välilehtiä
     .accesskey = t
-tab-context-share-url =
-    .label = Jaa
-    .accesskey = J
-tab-context-share-more =
-    .label = Lisää…
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->
@@ -94,13 +88,22 @@ move-tabs =
 move-tab =
     .label = Siirrä välilehti
     .accesskey = r
+tab-context-share-url =
+    .label = Jaa
+    .accesskey = J
+tab-context-share-more =
+    .label = Lisää…
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
             [1] Avaa uudelleen suljettu välilehti
            *[other] Avaa uudelleen suljetut välilehdet
         }
-    .accesskey = u
+    .accesskey = d
 tab-context-close-tabs =
     .label =
         { $tabCount ->
