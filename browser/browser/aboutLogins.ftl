@@ -322,11 +322,17 @@ about-logins-import-report-title = Inportazioaren laburpena
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = { $number }. errenkada
+about-logins-import-report-row-description-no-change = Bikoiztua: lehendik dagoen saio-hasiera batekin bat dator
+about-logins-import-report-row-description-modified = Lehendik dagoen saio-hasiera eguneratuta
+about-logins-import-report-row-description-added = Saio-hasiera berria gehituta
+about-logins-import-report-row-description-error = Errorea: eremua falta da
 
 ##
 ## Variables:
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
+about-logins-import-report-row-description-error-multiple-values = Errorea: hainbat balio { $field } eremurako
+about-logins-import-report-row-description-error-missing-field = Errorea { $field } eremua falta da
 
 ##
 ## Variables:
