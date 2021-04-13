@@ -46,9 +46,29 @@ browser-main-window-title = { -brand-full-name }
 
 ##
 
+urlbar-identity-button =
+    .aria-label = View site information
 
 ## Tooltips for images appearing in the address bar
 
+urlbar-services-notification-anchor =
+    .tooltiptext = Open instaw message panel
+urlbar-web-notification-anchor =
+    .tooltiptext = Chynge whether ye can get notifications fae the site
+urlbar-midi-notification-anchor =
+    .tooltiptext = Open MIDI panel
+urlbar-eme-notification-anchor =
+    .tooltiptext = Manage yaise o DRM saftware
+urlbar-web-authn-anchor =
+    .tooltiptext = Open Wab Uphaudin panel
+urlbar-canvas-notification-anchor =
+    .tooltiptext = Manage canvas oothowkin permeesion
+urlbar-web-rtc-share-microphone-notification-anchor =
+    .tooltiptext = Manage sharin yer microphone wi the site
+urlbar-default-notification-anchor =
+    .tooltiptext = Open message panel
+urlbar-geolocation-notification-anchor =
+    .tooltiptext = Open airtin speirin panel
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
