@@ -18,6 +18,7 @@ login-filter =
 create-login-button = Sortu saio-hasiera berria
 fxaccounts-sign-in-text = Eskuratu zure pasahitzak zure beste gailuetan
 fxaccounts-sign-in-button = Hasi saioa { -sync-brand-short-name }(e)n
+fxaccounts-sign-in-sync-button = Hasi saioa sinkronizatzeko
 fxaccounts-avatar-button =
     .title = Kudeatu kontua
 
@@ -75,6 +76,7 @@ login-intro-description = Saio-hasierarik gorde baduzu beste gailu bateko { -bra
 login-intro-instruction-fxa = Sortu edo hasi saioa zure { -fxaccount-brand-name } kontuan saio-hasierak gordeta dituzun gailuan
 login-intro-instruction-fxa-settings = Ziurtatu 'Saio-hasierak' kontrol-laukia hautatu duzula { -sync-brand-short-name } ezarpenetan
 about-logins-intro-instruction-help = Laguntza jasotzeko, bisitatu <a data-l10n-name="help-link">{ -lockwise-brand-short-name } laguntza</a>
+login-intro-instructions-fxa-help = Laguntza jasotzeko, bisitatu <a data-l10n-name="help-link">{ -lockwise-brand-short-name } laguntza</a>.
 about-logins-intro-import = Zure saio-hasierak beste nabigatzaile batean gordeta badituzu, <a data-l10n-name="import-link">{ -lockwise-brand-short-name }(e)n inporta ditzakezu</a>
 about-logins-intro-import2 = Zure saio-hasierak { -brand-product-name }(e)tik kanpo badaude gordeta, <a data-l10n-name="import-browser-link">beste nabigatzaile batetik</a> edo <a data-l10n-name="import-file-link">fitxategi batetik</a> inporta ditzakezu
 
@@ -312,6 +314,16 @@ about-logins-import-dialog-error-no-logins-imported = Ez da saio-hasierarik inpo
 about-logins-import-dialog-error-learn-more = Argibide gehiago
 about-logins-import-dialog-error-try-again = Saiatu berriro…
 about-logins-import-dialog-error-cancel = Utzi
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
 
 ## Logins import report page
 
