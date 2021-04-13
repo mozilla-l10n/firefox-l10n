@@ -8,6 +8,10 @@
 
 ## New changes screen
 
+upgrade-dialog-new-primary-primary-button = 将 { -brand-short-name } 设为我的主浏览器
+    .title = 将 { -brand-short-name } 设为默认浏览器，并固定到任务栏
+upgrade-dialog-new-primary-default-button = 将 { -brand-short-name } 设为我的默认浏览器
+upgrade-dialog-new-primary-pin-button = 将 { -brand-short-name } 固定到我的任务栏
 upgrade-dialog-new-primary-theme-button = 选择主题
 upgrade-dialog-new-secondary-button = 暂时不要
 
@@ -16,6 +20,10 @@ upgrade-dialog-new-secondary-button = 暂时不要
 upgrade-dialog-theme-light = 亮色
     .title = 为按钮、菜单和窗口使用明亮配色的的主题
 upgrade-dialog-theme-dark = 深邃
-    .title = 使用深邃配色的按钮、菜单、窗口的主题
+    .title = 为按钮、菜单和窗口使用深邃配色的的主题
+upgrade-dialog-theme-alpenglow = 染山霞
+    .title = 为按钮、菜单和窗口使用活力多彩配色的的主题
+upgrade-dialog-theme-keep = 保留原设置
+    .title = 使用您更新 { -brand-short-name } 前安装的主题
 upgrade-dialog-theme-primary-button = 保存主题
 upgrade-dialog-theme-secondary-button = 暂时不要
