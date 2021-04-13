@@ -71,11 +71,13 @@ about-logins-list-item-vulnerable-password-icon =
 
 login-intro-heading = Gordetako saio-hasieren bila? Konfiguratu { -sync-brand-short-name }.
 about-logins-login-intro-heading-logged-out = Gordetako saio-hasieren bila? Konfiguratu { -sync-brand-short-name } edo inporta itzazu.
+about-logins-login-intro-heading-logged-out2 = Gordetako saio-hasieren bila? Aktibatu sinkronizazioa edo inporta itzazu.
 about-logins-login-intro-heading-logged-in = Ez da sinkronizatuta saio-hasierarik aurkitu.
 login-intro-description = Saio-hasierarik gorde baduzu beste gailu bateko { -brand-product-name }(e)n, jarraian dituzu hauek hemen eskuratzeko urratsak:
 login-intro-instruction-fxa = Sortu edo hasi saioa zure { -fxaccount-brand-name } kontuan saio-hasierak gordeta dituzun gailuan
 login-intro-instruction-fxa-settings = Ziurtatu 'Saio-hasierak' kontrol-laukia hautatu duzula { -sync-brand-short-name } ezarpenetan
 about-logins-intro-instruction-help = Laguntza jasotzeko, bisitatu <a data-l10n-name="help-link">{ -lockwise-brand-short-name } laguntza</a>
+login-intro-instructions-fxa-settings = Zoaz Ezarpenak > Sinkronizazioa > Gaitu sinkronizazioa… menu-aukerara eta hautatu 'Saio-hasierak eta pasahitzak' kontrol-laukia.
 login-intro-instructions-fxa-help = Laguntza jasotzeko, bisitatu <a data-l10n-name="help-link">{ -lockwise-brand-short-name } laguntza</a>.
 about-logins-intro-import = Zure saio-hasierak beste nabigatzaile batean gordeta badituzu, <a data-l10n-name="import-link">{ -lockwise-brand-short-name }(e)n inporta ditzakezu</a>
 about-logins-intro-import2 = Zure saio-hasierak { -brand-product-name }(e)tik kanpo badaude gordeta, <a data-l10n-name="import-browser-link">beste nabigatzaile batetik</a> edo <a data-l10n-name="import-file-link">fitxategi batetik</a> inporta ditzakezu
@@ -313,7 +315,9 @@ about-logins-import-dialog-error-unable-to-read-description = Ziurtatu CSV edo T
 about-logins-import-dialog-error-no-logins-imported = Ez da saio-hasierarik inportatu
 about-logins-import-dialog-error-learn-more = Argibide gehiago
 about-logins-import-dialog-error-try-again = Saiatu berriro…
+about-logins-import-dialog-error-try-import-again = Saiatu berriz inportatzen…
 about-logins-import-dialog-error-cancel = Utzi
+about-logins-import-report-title = Inportazioaren laburpena
 
 ##
 ## Variables:
