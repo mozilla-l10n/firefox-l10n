@@ -12,6 +12,7 @@
 upgrade-dialog-new-title = 邂逅全新的 { -brand-short-name }
 upgrade-dialog-new-subtitle = 重新设计，只为让您的浏览更轻快
 upgrade-dialog-new-item-menu-title = 更精简的工具栏和菜单
+upgrade-dialog-new-item-menu-description = 依优先级简化重排，操作更便捷
 upgrade-dialog-new-item-tabs-title = 现代化的标签页设计
 upgrade-dialog-new-item-icons-title = 新图标和更清晰直观的消息提示
 upgrade-dialog-new-item-icons-description = 助您快速上手，轻松使用
