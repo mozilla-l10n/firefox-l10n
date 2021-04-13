@@ -14,8 +14,14 @@ upgrade-dialog-new-secondary-button = 現在不要
 ## Theme selection screen
 
 upgrade-dialog-theme-system = 系統佈景主題
-    .title = 使用作業系統設定的按鈕、選單、視窗等佈景主題
+    .title = 依照作業系統設定的佈景主題顯示按鈕、選單、視窗
 upgrade-dialog-theme-light = 亮色
-    .title = 使用亮色按鈕、選單、視窗等佈景主題
+    .title = 為按鈕、選單、視窗使用亮色佈景主題
 upgrade-dialog-theme-dark = 暗色
-    .title = 使用暗色按鈕、選單、視窗等佈景主題
+    .title = 為按鈕、選單、視窗使用暗色佈景主題
+upgrade-dialog-theme-alpenglow = Alpenglow
+    .title = 為按鈕、選單、視窗使用色彩斑斕的佈景主題
+upgrade-dialog-theme-keep = 保留原設定
+    .title = 使用您更新 { -brand-short-name } 前安裝使用的佈景主題
+upgrade-dialog-theme-primary-button = 儲存佈景主題
+upgrade-dialog-theme-secondary-button = 現在不要
