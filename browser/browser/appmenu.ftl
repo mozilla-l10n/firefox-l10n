@@ -5,13 +5,17 @@
 
 ## App Menu
 
-appmenuitem-update-banner =
-    .label-update-downloading = 正在下载 { -brand-shorter-name } 更新
 appmenuitem-update-banner2 =
     .label-update-downloading = 正在下载 { -brand-shorter-name } 更新
     .label-update-available = 有可用更新 — 立即下载
     .label-update-manual = 有可用更新 — 立即下载
     .label-update-unsupported = 无法更新
+    .label-update-restart = 有可用更新 — 立即重启
+appmenuitem-update-banner3 =
+    .label-update-downloading = 正在下载 { -brand-shorter-name } 更新
+    .label-update-available = 有可用更新 — 立即下载
+    .label-update-manual = 有可用更新 — 立即下载
+    .label-update-unsupported = 无法更新 — 系统不兼容
     .label-update-restart = 有可用更新 — 立即重启
 appmenuitem-protection-dashboard-title = 保护信息面板
 appmenuitem-customize-mode =
@@ -25,8 +29,6 @@ appmenuitem-new-private-window =
     .label = 新建隐私窗口
 appmenuitem-passwords =
     .label = 密码
-appmenuitem-extensions-and-themes =
-    .label = 扩展和主题
 appmenuitem-addons-and-themes =
     .label = 扩展和主题
 appmenuitem-find-in-page =
@@ -160,11 +162,6 @@ appmenu-about =
 appmenu-get-help =
     .label = 获取帮助
     .accesskey = H
-appmenu-help-troubleshooting-info =
-    .label = 排障信息
-    .accesskey = T
-appmenu-help-taskmanager =
-    .label = 任务管理器
 appmenu-help-more-troubleshooting-info =
     .label = 更多排障信息
     .accesskey = T
@@ -173,16 +170,6 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = 提交反馈…
     .accesskey = S
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = 以安全模式重启浏览器…
-    .accesskey = R
-appmenu-help-safe-mode-with-addons =
-    .label = 重启浏览器并启用附加组件
-    .accesskey = R
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

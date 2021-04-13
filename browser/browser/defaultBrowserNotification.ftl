@@ -7,3 +7,9 @@ default-browser-notification-message = <strong>要将 { -brand-short-name } 设�
 default-browser-notification-button =
     .label = 设为默认
     .accesskey = S
+
+## These strings are used for the default browser prompt. There are 2 variations
+## depending on the operating system (Windows vs other). The checkbox label and
+## secondary button are shared between the variants.
+
+default-browser-prompt-title-pin = 要将 { -brand-short-name } 设为您的主浏览器吗？
