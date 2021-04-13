@@ -22,6 +22,10 @@ upgrade-dialog-new-secondary-button = Ani ko’ág̃a
 
 ## Theme selection screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-theme-title =
+    Emoñepyrũ tekopotĩme
+    peteĩ téma hekopyahúva ndive
 upgrade-dialog-theme-light = Sakã
     .title = Eipuru téma sakã votõ, poravorã ha ovetãme g̃uarã
 upgrade-dialog-theme-primary-button = Eñongatu téma
