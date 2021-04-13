@@ -13,3 +13,9 @@ default-browser-notification-message =
 default-browser-notification-button =
     .label = Постави као подразумевани
     .accesskey = П
+
+## These strings are used for the default browser prompt. There are 2 variations
+## depending on the operating system (Windows vs other). The checkbox label and
+## secondary button are shared between the variants.
+
+default-browser-prompt-title-pin = Поставити { -brand-short-name } као примарни прегледач?
