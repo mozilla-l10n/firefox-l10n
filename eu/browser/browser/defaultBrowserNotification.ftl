@@ -7,3 +7,11 @@ default-browser-notification-message = <strong>Ezarri { -brand-short-name } nabi
 default-browser-notification-button =
     .label = Ezarri lehenetsi gisa
     .accesskey = h
+
+## These strings are used for the default browser prompt. There are 2 variations
+## depending on the operating system (Windows vs other). The checkbox label and
+## secondary button are shared between the variants.
+
+default-browser-prompt-button-primary-alt = Ezarri nabigatzaile lehenetsi gisa
+default-browser-prompt-checkbox-label = Ez galdetu berriz
+default-browser-prompt-button-secondary = Une honetan ez

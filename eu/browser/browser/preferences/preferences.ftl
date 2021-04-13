@@ -625,6 +625,8 @@ containers-back-button =
             [windows] Itzuli aukeretara
            *[other] Itzuli hobespenetara
         }
+containers-back-button2 =
+    .aria-label = Itzuli ezarpenetara
 containers-header = Edukiontzi-fitxak
 containers-add-button =
     .label = Gehitu edukiontzi berria
@@ -634,6 +636,8 @@ containers-new-tab-check =
     .accesskey = H
 containers-preferences-button =
     .label = Hobespenak
+containers-settings-button =
+    .label = Ezarpenak
 containers-remove-button =
     .label = Kendu
 
@@ -645,6 +649,10 @@ sync-signedout-description = Sinkronizatu laster-markak, historia, fitxak, pasah
 sync-signedout-account-signin2 =
     .label = Hasi saioa { -sync-brand-short-name }(e)n…
     .accesskey = H
+sync-signedout-description2 = Sinkronizatu laster-markak, historia, fitxak, pasahitzak, gehigarriak eta ezarpenak zure gailu guztien artean.
+sync-signedout-account-signin3 =
+    .label = Hasi saioa sinkronizatzeko…
+    .accesskey = s
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -684,6 +692,10 @@ prefs-sync-setup =
     .label = Konfiguratu { -sync-brand-short-name }…
     .accesskey = K
 prefs-sync-offer-setup-label = Sinkronizatu laster-markak, historia, fitxak, pasahitzak, gehigarriak eta hobespenak zure gailu guztien artean.
+prefs-sync-turn-on-syncing =
+    .label = Gaitu sinkronizazioa…
+    .accesskey = s
+prefs-sync-offer-setup-label2 = Sinkronizatu laster-markak, historia, fitxak, pasahitzak, gehigarriak eta ezarpenak zure gailu guztien artean.
 prefs-sync-now =
     .labelnotsyncing = Sinkronizatu orain
     .accesskeynotsyncing = S
@@ -704,6 +716,7 @@ sync-currently-syncing-prefs =
         [windows] Aukerak
        *[other] Hobespenak
     }
+sync-currently-syncing-settings = Ezarpenak
 sync-change-options =
     .label = Aldatu…
     .accesskey = A
@@ -751,6 +764,10 @@ sync-engine-prefs =
         }
     .tooltiptext = Aldatu dituzun 'Orokorra', 'Pribatutasuna' eta 'Segurtasuna' ataletako ezarpenak
     .accesskey = o
+sync-engine-settings =
+    .label = Ezarpenak
+    .tooltiptext = Aldatu dituzun 'Orokorra', 'Pribatutasuna' eta 'Segurtasuna' ataletako ezarpenak
+    .accesskey = z
 
 ## The device name controls.
 
@@ -1165,6 +1182,9 @@ space-alert-under-5gb-ok-button =
     .label = Ados, ulertu dut
     .accesskey = A
 space-alert-under-5gb-message = { -brand-short-name } leku erabilgarririk gabe gelditzen ari da diskoan. Webgunearen edukiak agian ez dira ondo bistaratuko. Bisitatu "Argibide gehiago" diskoaren erabilpena optimizatu eta nabigatze-esperientzia hobetzeko.
+space-alert-over-5gb-settings-button =
+    .label = Ireki ezarpenak
+    .accesskey = k
 
 ## Privacy Section - HTTPS-Only
 
