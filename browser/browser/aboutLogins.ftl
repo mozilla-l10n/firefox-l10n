@@ -318,6 +318,10 @@ about-logins-import-dialog-error-try-again = Saiatu berriro…
 about-logins-import-dialog-error-try-import-again = Saiatu berriz inportatzen…
 about-logins-import-dialog-error-cancel = Utzi
 about-logins-import-report-title = Inportazioaren laburpena
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = { $number }. errenkada
 
 ##
 ## Variables:
