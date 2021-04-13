@@ -7,3 +7,11 @@ default-browser-notification-message = <strong>¿Afitar { -brand-short-name } co
 default-browser-notification-button =
     .label = Predeterminar
     .accesskey = P
+
+## These strings are used for the default browser prompt. There are 2 variations
+## depending on the operating system (Windows vs other). The checkbox label and
+## secondary button are shared between the variants.
+
+default-browser-prompt-title-pin = Convertir a { -brand-short-name } nel restolador primariu?
+default-browser-prompt-button-primary-pin = Convertir
+default-browser-prompt-button-primary-alt = Predeterminar
