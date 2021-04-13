@@ -15,6 +15,7 @@ upgrade-dialog-new-item-menu-title = Поједностављена трака �
 upgrade-dialog-new-item-menu-description = Дајте приоритет стварима које су вам битне.
 upgrade-dialog-new-item-tabs-title = Модерне картице
 upgrade-dialog-new-item-icons-title = Нове иконе и јасније поруке
+upgrade-dialog-new-item-icons-description = Крећите се кроз програм уз мање труда.
 
 ## Theme selection screen
 
