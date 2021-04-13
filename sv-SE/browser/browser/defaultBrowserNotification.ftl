@@ -7,3 +7,16 @@ default-browser-notification-message = <strong>Ange { -brand-short-name } som di
 default-browser-notification-button =
     .label = Ange som standard
     .accesskey = A
+
+## These strings are used for the default browser prompt. There are 2 variations
+## depending on the operating system (Windows vs other). The checkbox label and
+## secondary button are shared between the variants.
+
+default-browser-prompt-title-pin = Gör { -brand-short-name } till din primära webbläsare?
+default-browser-prompt-message-pin = Ha alltid { -brand-short-name } nära till hands — gör den till din standardwebbläsare och fäst den i aktivitetsfältet.
+default-browser-prompt-button-primary-pin = Gör till primär webbläsare
+default-browser-prompt-title-alt = Gör { -brand-short-name } till din standardwebbläsare?
+default-browser-prompt-message-alt = Få hastighet, säkerhet och integritet varje gång du surfar.
+default-browser-prompt-button-primary-alt = Ange som standardwebbläsare
+default-browser-prompt-checkbox-label = Fråga inte igen
+default-browser-prompt-button-secondary = Inte nu
