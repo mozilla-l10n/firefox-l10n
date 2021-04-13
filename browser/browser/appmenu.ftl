@@ -5,14 +5,18 @@
 
 ## App Menu
 
-appmenuitem-update-banner =
-    .label-update-downloading = 正在下載 { -brand-shorter-name } 更新
 appmenuitem-update-banner2 =
     .label-update-downloading = 正在下載 { -brand-shorter-name } 更新
     .label-update-available = 已有更新可用 — 立即下載
     .label-update-manual = 已有更新可用 — 立即下載
     .label-update-unsupported = 無法更新
     .label-update-restart = 已有更新可用 — 立即重新啟動
+appmenuitem-update-banner3 =
+    .label-update-downloading = 正在下載 { -brand-shorter-name } 更新
+    .label-update-available = 已推出更新 — 立即下載
+    .label-update-manual = 已推出更新 — 立即下載
+    .label-update-unsupported = 無法更新 — 系統不相容
+    .label-update-restart = 已推出更新 — 立即重新啟動
 appmenuitem-protection-dashboard-title = 保護資訊儀錶板
 appmenuitem-customize-mode =
     .label = 自訂…
@@ -25,8 +29,6 @@ appmenuitem-new-private-window =
     .label = 新增隱私視窗
 appmenuitem-passwords =
     .label = 密碼
-appmenuitem-extensions-and-themes =
-    .label = 擴充套件和佈景主題
 appmenuitem-addons-and-themes =
     .label = 附加元件與佈景主題
 appmenuitem-find-in-page =
@@ -160,11 +162,6 @@ appmenu-about =
 appmenu-get-help =
     .label = 取得幫助
     .accesskey = H
-appmenu-help-troubleshooting-info =
-    .label = 疑難排解資訊
-    .accesskey = T
-appmenu-help-taskmanager =
-    .label = 工作管理員
 appmenu-help-more-troubleshooting-info =
     .label = 更多疑難排解資訊
     .accesskey = T
@@ -173,16 +170,6 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = 送出意見回饋…
     .accesskey = S
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = 重新啟動但停用附加元件…
-    .accesskey = R
-appmenu-help-safe-mode-with-addons =
-    .label = 重新啟動並啟用附加元件
-    .accesskey = R
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
