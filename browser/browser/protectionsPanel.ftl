@@ -93,6 +93,6 @@ protections-panel-content-blocking-breakage-report-view-collection-comments = Ne
 protections-panel-content-blocking-breakage-report-view-collection-comments-label =
     .aria-label = Neobavezno: opišite problem
 protections-panel-content-blocking-breakage-report-view-cancel =
-    .label = Otkaži
+    .label = Odustani
 protections-panel-content-blocking-breakage-report-view-send-report =
     .label = Pošalji izvještaj
