@@ -264,8 +264,8 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
-bookmarks-add-bookmark = Add Bookmark
-bookmarks-edit-bookmark = Edit Bookmark
+bookmarks-add-bookmark = Add bookmark
+bookmarks-edit-bookmark = Edit bookmark
 bookmark-panel-cancel =
     .label = Cancel
     .accesskey = C
@@ -274,8 +274,8 @@ bookmark-panel-cancel =
 bookmark-panel-remove =
     .label =
         { $count ->
-            [one] Remove Bookmark
-           *[other] Remove { $count } Bookmarks
+            [1] Remove bookmark
+           *[other] Remove { $count } bookmarks
         }
     .accesskey = R
 bookmark-panel-show-editor-checkbox =
@@ -582,7 +582,7 @@ crashed-subframe-learnmore =
     .label = Learn More
     .accesskey = L
 crashed-subframe-learnmore-link =
-    .value = Learn More
+    .value = Learn more
 crashed-subframe-submit =
     .label = Submit report
     .accesskey = S
@@ -692,7 +692,7 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Some audio or video on this site uses DRM software, which may limit what { -brand-short-name } can let you do with it.
-eme-notifications-drm-content-playing-manage = Manage Settings
+eme-notifications-drm-content-playing-manage = Manage settings
 eme-notifications-drm-content-playing-manage-accesskey = M
 eme-notifications-drm-content-playing-dismiss = Dismiss
 eme-notifications-drm-content-playing-dismiss-accesskey = D
