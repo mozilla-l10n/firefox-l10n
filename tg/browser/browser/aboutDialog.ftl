@@ -24,7 +24,7 @@ update-manual = Навсозиҳо дар <label data-l10n-name="manual-link"/> 
 update-unsupported = Шумо дар низоми ҷорӣ навсозиҳои дигар иҷро карда наметавонед. <label data-l10n-name="unsupported-link">Маълумоти бештар</label>
 update-restarting = Дар ҳоли бозоғозӣ…
 channel-description = Айни ҳол шумо дар шабакаи навсозии <label data-l10n-name="current-channel"></label> қарор доред.
-warningDesc-version = { -brand-short-name } дар реҷаи озмоишӣ мебошад ва метавонад ноустувор бошад.
+warningDesc-version = { -brand-short-name } дар реҷаи озмоишӣ мебошад ва метавонад ноустувор кор кунад.
 aboutdialog-help-user = Кумаки { -brand-product-name }
 aboutdialog-submit-feedback = Ирсоли изҳори назар
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> <label data-l10n-name="community-exp-creditsLink">ҷамъияти умумиҷаҳоние</label> мебошад, ки аъзои он барои ҳифзи Интернети кушод, оммавӣ ва ба ҳама дастрас ҳамкорӣ мекунанд.
