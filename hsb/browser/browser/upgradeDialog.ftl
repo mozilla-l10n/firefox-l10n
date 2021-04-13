@@ -21,9 +21,19 @@ upgrade-dialog-new-secondary-button = Nic nětko
 
 ## Theme selection screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-theme-title =
+    Mějće čisty start
+    ze zaktualizowanej drastu
 upgrade-dialog-theme-system = Systemowa drasta
     .title = Drastu dźěłoweho systema za tłóčatka, menije a wokna wužiwać
 upgrade-dialog-theme-light = Swětły
     .title = Swětłu drastu za tłóčatka, menije a wokna wužiwać
 upgrade-dialog-theme-dark = Ćmowy
     .title = Ćmowu drastu za tłóčatka, menije a wokna wužiwać
+upgrade-dialog-theme-alpenglow = Alpenglow
+    .title = Dynamisku, barbojtu drastu za tłóčatka, menije a wokna wužiwać
+upgrade-dialog-theme-keep = Předchadnu wobchować
+    .title = Drastu wužiwać, kotruž sće před aktualizanjom { -brand-short-name } isntalował
+upgrade-dialog-theme-primary-button = Drastu składować
+upgrade-dialog-theme-secondary-button = Nic nětko
