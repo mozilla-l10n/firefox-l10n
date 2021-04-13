@@ -115,7 +115,7 @@ downloads-open-file =
 # Displayed when hovering a download which is able to be retried by users,
 # indicates that it's possible to download this file again.
 downloads-retry-download =
-    .value = Ponavljanje preuzimanja
+    .value = Ponovi preuzimanje
 # Displayed when hovering a download which is able to be cancelled by users,
 # indicates that it's possible to cancel and stop the download.
 downloads-cancel-download =
