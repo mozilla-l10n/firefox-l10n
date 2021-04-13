@@ -5,14 +5,6 @@
 
 ## App Menu
 
-appmenuitem-update-banner =
-    .label-update-downloading =
-        Преузимање ажурирања { -brand-shorter-name.gender ->
-            [masculine] { -brand-shorter-name(case: "gen") }
-            [feminine] { -brand-shorter-name(case: "gen") }
-            [neuter] { -brand-shorter-name(case: "gen") }
-           *[other] програма { -brand-shorter-name }
-        }
 appmenuitem-update-banner2 =
     .label-update-downloading =
         Преузимање ажурирања { -brand-shorter-name.gender ->
@@ -23,7 +15,19 @@ appmenuitem-update-banner2 =
         }
     .label-update-available = Доступно је ажурирање – преузмите га
     .label-update-manual = Доступно је ажурирање – преузмите га
-    .label-update-unsupported = Ажурирање није успело
+    .label-update-unsupported = Ажурирање није могуће
+    .label-update-restart = Доступно је ажурирање – рестартујте прегледач
+appmenuitem-update-banner3 =
+    .label-update-downloading =
+        Преузимање ажурирања { -brand-shorter-name.gender ->
+            [masculine] { -brand-shorter-name(case: "gen") }
+            [feminine] { -brand-shorter-name(case: "gen") }
+            [neuter] { -brand-shorter-name(case: "gen") }
+           *[other] програма { -brand-shorter-name }
+        }
+    .label-update-available = Доступно је ажурирање – преузмите га
+    .label-update-manual = Доступно је ажурирање – преузмите га
+    .label-update-unsupported = Ажурирање није могуће – некомпатибилан систем
     .label-update-restart = Доступно је ажурирање – рестартујте прегледач
 appmenuitem-protection-dashboard-title = Контролна табла заштите
 appmenuitem-customize-mode =
@@ -37,8 +41,6 @@ appmenuitem-new-private-window =
     .label = Нови приватан прозор
 appmenuitem-passwords =
     .label = Лозинке
-appmenuitem-extensions-and-themes =
-    .label = Додаци и теме
 appmenuitem-addons-and-themes =
     .label = Додаци и теме
 appmenuitem-find-in-page =
@@ -180,11 +182,6 @@ appmenu-about =
 appmenu-get-help =
     .label = Потражи помоћ
     .accesskey = П
-appmenu-help-troubleshooting-info =
-    .label = Решавање проблема
-    .accesskey = Р
-appmenu-help-taskmanager =
-    .label = Менаџер задатака
 appmenu-help-more-troubleshooting-info =
     .label = Подаци о решавању проблема
     .accesskey = д
@@ -193,16 +190,6 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = Пошаљи повратне информације
     .accesskey = ш
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Рестартуј са онемогућеним додацима
-    .accesskey = Р
-appmenu-help-safe-mode-with-addons =
-    .label = Рестартуј са омогућеним додацима
-    .accesskey = R
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
