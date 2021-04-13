@@ -262,8 +262,6 @@ cfr-whatsnew-better-pdf-body = Adesso è possibile aprire i documenti PDF dirett
 
 cfr-doorhanger-doh-body = La tua privacy è importante. { -brand-short-name } ora indirizza in modo sicuro le richieste DNS, quando possibile, a un servizio fornito da un partner per proteggerti durante la navigazione.
 cfr-doorhanger-doh-header = Ricerche DNS più sicure e crittate
-cfr-doorhanger-doh-primary-button = OK, ricevuto
-  .accesskey = O
 cfr-doorhanger-doh-primary-button-2 = OK
   .accesskey = O
 cfr-doorhanger-doh-secondary-button = Disattiva
