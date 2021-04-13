@@ -692,8 +692,8 @@
 <!ENTITY searchSubjectMenu.label "Temo">
 <!ENTITY searchFromMenu.label "Sendinto">
 <!ENTITY searchSubjectOrFromMenu.label "Temo aŭ sendinto">
-<!ENTITY searchRecipient.label "Ricevonto aŭ kaŝkopio">
-<!ENTITY searchSubjectOrRecipientMenu.label "Temo, ricevonto aŭ kaŝkopio">
+<!ENTITY searchRecipient.label "Ricevonto aŭ kopio">
+<!ENTITY searchSubjectOrRecipientMenu.label "Temo, ricevonto aŭ kopio">
 <!ENTITY searchMessageBody.label "Tuta mesaĝo">
 <!ENTITY saveAsVirtualFolderMenu.label "Konservi serĉon kiel mesaĝujon…">
 
