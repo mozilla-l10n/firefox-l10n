@@ -13,5 +13,13 @@ upgrade-dialog-new-secondary-button = Ei nyt
 
 ## Theme selection screen
 
+upgrade-dialog-theme-system = Järjestelmän teema
+    .title = Seuraa käyttöjärjestelmän teemaa painikkeille, valikoille ja ikkunoille
+upgrade-dialog-theme-light = Vaalea
+    .title = Käytä vaaleaa teemaa painikkeille, valikoille ja ikkunoille
+upgrade-dialog-theme-dark = Tumma
+    .title = Käytä tummaa teemaa painikkeille, valikoille ja ikkunoille
+upgrade-dialog-theme-alpenglow = Alpenglow
+    .title = Käytä dynaamista, värikästä teemaa painikkeille, valikoille ja ikkunoille
 upgrade-dialog-theme-primary-button = Tallenna teema
 upgrade-dialog-theme-secondary-button = Ei nyt
