@@ -14,3 +14,9 @@ default-browser-notification-button =
 
 default-browser-prompt-title-pin = Tornar o { -brand-short-name } seu navegador principal?
 default-browser-prompt-message-pin = Tenha o { -brand-short-name } na ponta de seus dedos, o torne seu navegador padrão e fixe na barra de tarefas.
+default-browser-prompt-button-primary-pin = Tornar o navegador principal
+default-browser-prompt-title-alt = Tornar o { -brand-short-name } seu navegador padrão?
+default-browser-prompt-message-alt = Tenha velocidade, segurança e privacidade sempre que você navegar.
+default-browser-prompt-button-primary-alt = Definir como navegador padrão
+default-browser-prompt-checkbox-label = Não perguntar novamente
+default-browser-prompt-button-secondary = Agora não
