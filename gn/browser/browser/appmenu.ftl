@@ -5,14 +5,18 @@
 
 ## App Menu
 
-appmenuitem-update-banner =
-    .label-update-downloading = Emboguejy { -brand-shorter-name } mbohekopyahu
 appmenuitem-update-banner2 =
     .label-update-downloading = Emboguejy { -brand-shorter-name } ñembohekopyahu
     .label-update-available = Embohekopyahukuaa — emboguejy ko’ág̃a
     .label-update-manual = Embohekopyahukuaa — emboguejy ko’ág̃a
     .label-update-unsupported = Ndaikatúi embohekopyahu
     .label-update-restart = Embohekopyahukuaa — emoñepyrũjey ko’ág̃a
+appmenuitem-update-banner3 =
+    .label-update-downloading = Amboguejy { -brand-shorter-name } ñembohekopyahu
+    .label-update-available = Eipurukuaáma ñembohekopyahu — Emboguejy ko’ág̃a
+    .label-update-manual = Eipurukuaáma ñembohekopyahu — Emboguejy ko’ág̃a
+    .label-update-unsupported = Ndaikatúi embohekopyahu — ndojokupytýi apopyvusu
+    .label-update-restart = Eipurukuaáma ñembohekopyahu — Emoñepyrũjey ko’ág̃a
 appmenuitem-protection-dashboard-title = Ñemo’ãha renda
 appmenuitem-customize-mode =
     .label = Ñemomba’e…
@@ -25,8 +29,6 @@ appmenuitem-new-private-window =
     .label = Ovetã ñemi pyahu
 appmenuitem-passwords =
     .label = Ñe’ẽñemi
-appmenuitem-extensions-and-themes =
-    .label = Jepysokue ha Téma
 appmenuitem-addons-and-themes =
     .label = Moĩmbaha ha Téma
 appmenuitem-find-in-page =
@@ -162,11 +164,6 @@ appmenu-about =
 appmenu-get-help =
     .label = Eguereko pytyvõ
     .accesskey = H
-appmenu-help-troubleshooting-info =
-    .label = Marandu apañuãi myatyrõrã
-    .accesskey = T
-appmenu-help-taskmanager =
-    .label = Tembiapo ñangarekohára
 appmenu-help-more-troubleshooting-info =
     .label = Maranduve apañuãi ñemyatyrõ rehegua
     .accesskey = T
@@ -175,16 +172,6 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = Temiandu mondo…
     .accesskey = T
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Moĩmbaha oguepyréva moñepyrũjey…
-    .accesskey = M
-appmenu-help-safe-mode-with-addons =
-    .label = Moĩmbaha oguepyréva moñepyrũjey
-    .accesskey = R
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
