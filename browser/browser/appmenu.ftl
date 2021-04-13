@@ -5,13 +5,17 @@
 
 ## App Menu
 
-appmenuitem-update-banner =
-    .label-update-downloading = Λήψη της ενημέρωσης του { -brand-shorter-name }
 appmenuitem-update-banner2 =
     .label-update-downloading = Λήψη ενημέρωσης του { -brand-shorter-name }
     .label-update-available = Διαθέσιμη ενημέρωση — λήψη τώρα
     .label-update-manual = Διαθέσιμη ενημέρωση — λήψη τώρα
     .label-update-unsupported = Αδυναμία ενημέρωσης
+    .label-update-restart = Διαθέσιμη ενημέρωση — επανεκκίνηση τώρα
+appmenuitem-update-banner3 =
+    .label-update-downloading = Λήψη ενημέρωσης του { -brand-shorter-name }
+    .label-update-available = Διαθέσιμη ενημέρωση — λήψη τώρα
+    .label-update-manual = Διαθέσιμη ενημέρωση — λήψη τώρα
+    .label-update-unsupported = Αδυναμία ενημέρωσης — μη συμβατό σύστημα
     .label-update-restart = Διαθέσιμη ενημέρωση — επανεκκίνηση τώρα
 appmenuitem-protection-dashboard-title = Πίνακας προστασίας
 appmenuitem-customize-mode =
@@ -25,8 +29,6 @@ appmenuitem-new-private-window =
     .label = Νέο ιδιωτικό παράθυρο
 appmenuitem-passwords =
     .label = Κωδικοί πρόσβασης
-appmenuitem-extensions-and-themes =
-    .label = Επεκτάσεις και θέματα
 appmenuitem-addons-and-themes =
     .label = Πρόσθετα και θέματα
 appmenuitem-find-in-page =
@@ -162,11 +164,6 @@ appmenu-about =
 appmenu-get-help =
     .label = Λήψη βοήθειας
     .accesskey = β
-appmenu-help-troubleshooting-info =
-    .label = Πληροφορίες επίλυσης προβλημάτων
-    .accesskey = Π
-appmenu-help-taskmanager =
-    .label = Διαχείριση εργασιών
 appmenu-help-more-troubleshooting-info =
     .label = Πληροφορίες επίλυσης προβλημάτων
     .accesskey = Π
@@ -175,16 +172,6 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = Υποβολή σχολίων…
     .accesskey = λ
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Επανεκκίνηση με ανενεργά πρόσθετα…
-    .accesskey = π
-appmenu-help-safe-mode-with-addons =
-    .label = Επανεκκίνηση με ενεργά πρόσθετα
-    .accesskey = π
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
