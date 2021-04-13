@@ -307,7 +307,7 @@ identity-connection-internal =
     }.
 identity-connection-file = Ова страница се складишти на рачунару.
 identity-extension-page = Ову страницу је отворио додатак.
-identity-active-blocked = { -brand-short-name } је блокирао делове странице које нису безбедне.
+identity-active-blocked = { -brand-short-name } је блокирао делове ове странице који нису безбедни.
 identity-custom-root = Везу је проверио издавач сертификата који Mozilla не препознаје.
 identity-passive-loaded = Делови ове странице нису безбедни (као што су слике).
 identity-active-loaded = Заштита на овој страници је искључена.
@@ -593,9 +593,6 @@ pointerlock-warning-no-domain = Овај документ управља са в
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Део странице се срушио. </strong>Пошаљите извештај да би { -brand-product-name } сазнао за овај проблем и брже га решио.
-crashed-subframe-learnmore =
-    .label = Сазнајте више
-    .accesskey = L
 crashed-subframe-learnmore-link =
     .value = Сазнајте више
 crashed-subframe-submit =
@@ -608,8 +605,6 @@ bookmarks-show-all-bookmarks =
     .label = Прикажи све обележиваче
 bookmarks-manage-bookmarks =
     .label = Управљај обележивачима
-bookmarks-recent-bookmarks-panel =
-    .value = Недавни обележивачи
 bookmarks-recent-bookmarks-panel-subheader = Недавни обележивачи
 bookmarks-toolbar-chevron =
     .tooltiptext = Прикажи још обележивача

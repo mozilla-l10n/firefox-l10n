@@ -53,8 +53,20 @@ upgrade-dialog-new-secondary-button = Не сада
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-theme-title = Почните из почетка уз нову тему
 upgrade-dialog-theme-system = Системска тема
-    .title = Тема оперативног система за дугмад, меније и прозоре
+    .title = Користите тему оперативног система за дугмад, меније и прозоре
 upgrade-dialog-theme-light = Светла
-    .title = Светла тема за дугмад, меније и прозоре
+    .title = Користите светлу тему за дугмад, меније и прозоре
 upgrade-dialog-theme-dark = Тамна
-    .title = Тамна тема за дугмад, меније и прозоре
+    .title = Користите тамну тему за дугмад, меније и прозоре
+upgrade-dialog-theme-alpenglow = Алпски жар
+    .title = Користите динамичку и живописну тему за дугмад, меније и прозоре
+upgrade-dialog-theme-keep = Задржи претходну
+    .title =
+        Користите тему која је била инсталирана пре ажурирања { -brand-short-name.gender ->
+            [masculine] { -brand-short-name(case: "gen") }
+            [feminine] { -brand-short-name(case: "gen") }
+            [neuter] { -brand-short-name(case: "gen") }
+           *[other] програма { -brand-short-name }
+        }
+upgrade-dialog-theme-primary-button = Сачувај тему
+upgrade-dialog-theme-secondary-button = Не сада
