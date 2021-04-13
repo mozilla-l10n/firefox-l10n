@@ -14,6 +14,7 @@ upgrade-dialog-new-subtitle = Projetado para te levar onde você quiser, mais r�
 upgrade-dialog-new-item-menu-title = Barra de ferramentas e menus simplificados
 upgrade-dialog-new-item-menu-description = Priorize as coisas importantes para encontrar o que precisa.
 upgrade-dialog-new-item-tabs-title = Abas modernas
+upgrade-dialog-new-item-tabs-description = Contém informações de forma organizada, aceitando foco e movimento flexível.
 upgrade-dialog-new-item-icons-title = Novos ícones e mensagens mais claras
 upgrade-dialog-new-item-icons-description = Ajuda você a encontrar as coisas com um toque mais leve.
 upgrade-dialog-new-primary-primary-button = Tornar o { -brand-short-name } meu navegador principal
