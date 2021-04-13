@@ -5,13 +5,17 @@
 
 ## App Menu
 
-appmenuitem-update-banner =
-    .label-update-downloading = { -brand-shorter-name }-frissítés letöltése
 appmenuitem-update-banner2 =
     .label-update-downloading = { -brand-shorter-name }-frissítés letöltése
     .label-update-available = Frissítés érhető el – letöltés most
     .label-update-manual = Frissítés érhető el – letöltés most
     .label-update-unsupported = Nem frissíthető
+    .label-update-restart = Frissítés érhető el – újraindítás most
+appmenuitem-update-banner3 =
+    .label-update-downloading = { -brand-shorter-name }-frissítés letöltése
+    .label-update-available = Frissítés érhető el – letöltés most
+    .label-update-manual = Frissítés érhető el – letöltés most
+    .label-update-unsupported = Nem lehet frissíteni – a rendszer nem kompatibilis
     .label-update-restart = Frissítés érhető el – újraindítás most
 appmenuitem-protection-dashboard-title = Védelmi vezérlőpult
 appmenuitem-customize-mode =
@@ -25,8 +29,6 @@ appmenuitem-new-private-window =
     .label = Új privát ablak
 appmenuitem-passwords =
     .label = Jelszavak
-appmenuitem-extensions-and-themes =
-    .label = Kiegészítők és témák
 appmenuitem-addons-and-themes =
     .label = Kiegészítők és témák
 appmenuitem-find-in-page =
@@ -162,11 +164,6 @@ appmenu-about =
 appmenu-get-help =
     .label = Segítség kérése
     .accesskey = S
-appmenu-help-troubleshooting-info =
-    .label = Hibakeresési információ
-    .accesskey = H
-appmenu-help-taskmanager =
-    .label = Feladatkezelő
 appmenu-help-more-troubleshooting-info =
     .label = Több hibakeresési információ
     .accesskey = T
@@ -175,16 +172,6 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = Visszajelzés beküldése…
     .accesskey = V
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Újraindítás letiltott kiegészítőkkel…
-    .accesskey = r
-appmenu-help-safe-mode-with-addons =
-    .label = Újraindítás engedélyezett kiegészítőkkel
-    .accesskey = r
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

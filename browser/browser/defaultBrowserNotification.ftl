@@ -7,3 +7,16 @@ default-browser-notification-message = <strong>Beállítja alapértelmezett bön
 default-browser-notification-button =
     .label = Legyen ez az alapértelmezett
     .accesskey = L
+
+## These strings are used for the default browser prompt. There are 2 variations
+## depending on the operating system (Windows vs other). The checkbox label and
+## secondary button are shared between the variants.
+
+default-browser-prompt-title-pin = A { -brand-short-name } legyen az elsődleges böngészője?
+default-browser-prompt-message-pin = Tartsa kéznél a { -brand-short-name }ot – tegye alapértelmezett böngészővé, és rögzítse a tálcára.
+default-browser-prompt-button-primary-pin = Elsődleges böngészővé tétel
+default-browser-prompt-title-alt = A { -brand-short-name } legyen az alapértelmezett böngészője?
+default-browser-prompt-message-alt = Szerezzen gyorsaságot, biztonságot és adatvédelmet minden böngészés során.
+default-browser-prompt-button-primary-alt = Beállítás alapértelmezett böngészőként
+default-browser-prompt-checkbox-label = Ne kérdezze meg újra
+default-browser-prompt-button-secondary = Most nem
