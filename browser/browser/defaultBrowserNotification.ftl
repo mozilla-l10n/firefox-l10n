@@ -7,3 +7,11 @@ default-browser-notification-message = <strong>Asetetaanko { -brand-short-name }
 default-browser-notification-button =
     .label = Aseta oletukseksi
     .accesskey = A
+
+## These strings are used for the default browser prompt. There are 2 variations
+## depending on the operating system (Windows vs other). The checkbox label and
+## secondary button are shared between the variants.
+
+default-browser-prompt-button-primary-alt = Aseta oletusselaimeksi
+default-browser-prompt-checkbox-label = Älä kysy uudestaan
+default-browser-prompt-button-secondary = Ei nyt
