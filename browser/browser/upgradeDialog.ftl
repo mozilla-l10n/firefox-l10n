@@ -11,10 +11,10 @@ upgrade-dialog-new-title =
     Dai il benvenuto a un
     nuovo { -brand-short-name }
 upgrade-dialog-new-subtitle = Progettato per portarti dove ti serve, alla massima velocità.
-upgrade-dialog-new-item-menu-title = Barra degli strumenti e menu semplificati
+upgrade-dialog-new-item-menu-title = Barra degli strumenti e menu più semplici
 upgrade-dialog-new-item-menu-description = Priorità agli elementi più importanti, così potrai trovare al volo ciò che ti serve.
 upgrade-dialog-new-item-tabs-title = Schede moderne
-upgrade-dialog-new-item-tabs-description = Includono tutte le informazioni in modo ordinato, ti aiutano a concentrarti e sono facili da riorganizzare.
+upgrade-dialog-new-item-tabs-description = Includono tutte le informazioni in modo chiaro, ti aiutano a concentrarti e sono facili da riorganizzare.
 upgrade-dialog-new-item-icons-title = Nuove icone e messaggi più chiari
 upgrade-dialog-new-item-icons-description = Trova la tua strada con un tocco più leggero.
 upgrade-dialog-new-primary-primary-button = Imposta { -brand-short-name } come browser principale
@@ -30,7 +30,7 @@ upgrade-dialog-new-secondary-button = Non adesso
 upgrade-dialog-theme-title =
     Inizia al meglio
     con un nuovo tema
-upgrade-dialog-theme-system = Tema del sistema
+upgrade-dialog-theme-system = Tema di sistema
     .title = Utilizza la stessa combinazione di colori del sistema operativo per pulsanti, menu e finestre.
 upgrade-dialog-theme-light = Chiaro
     .title = Utilizza una combinazione di colori chiara per pulsanti, menu e finestre.
