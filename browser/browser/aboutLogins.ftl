@@ -111,7 +111,7 @@ login-item-password-reveal-checkbox =
     .aria-label = Прикажи лозинку
 login-item-copy-password-button-text = Копирај
 login-item-copied-password-button-text = Копирано!
-login-item-save-changes-button = Сачувај промене
+login-item-save-changes-button = Сачувај
 login-item-save-new-button = Сачувај
 login-item-cancel-button = Откажи
 login-item-time-changed = Последња измена: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
@@ -259,8 +259,8 @@ about-logins-confirm-export-dialog-message = Ваше лозинке ће бит
 about-logins-confirm-export-dialog-confirm-button = Извоз…
 about-logins-alert-import-title = Увоз је завршен
 about-logins-alert-import-message = Погледајте детаљан резиме увоза
-confirm-discard-changes-dialog-title = Одбацити несачуване измене?
-confirm-discard-changes-dialog-message = Све несачуване измене ће бити изгубљене.
+confirm-discard-changes-dialog-title = Одбацити несачуване промене?
+confirm-discard-changes-dialog-message = Изгубићете све несачуване промене.
 confirm-discard-changes-dialog-confirm-button = Одбаци
 
 ## Breach Alert notification

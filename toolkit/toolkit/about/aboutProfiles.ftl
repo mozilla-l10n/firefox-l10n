@@ -9,9 +9,9 @@ profiles-restart-title = Рестартовање
 profiles-restart-in-safe-mode = Рестартуј са онемогућеним додацима…
 profiles-restart-normal = Рестартуј у обичном режиму…
 profiles-conflict = Друга копија { -brand-product-name } је направила измене у профилима. Морате поново покренути { -brand-short-name } пре прављења нових измена.
-profiles-flush-fail-title = Измене нису сачуване
+profiles-flush-fail-title = Промене нису сачуване
 profiles-flush-conflict = { profiles-conflict }
-profiles-flush-failed = Неочекивана грешка спречила је да се измене сачувају.
+profiles-flush-failed = Промене нису сачуване због неочекиване грешке.
 profiles-flush-restart-button = Рестартуј { -brand-short-name }
 # Variables:
 #   $name (String) - Name of the profile
