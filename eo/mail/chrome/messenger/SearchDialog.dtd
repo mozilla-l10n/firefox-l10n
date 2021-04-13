@@ -6,7 +6,7 @@
 <!ENTITY searchHeading.label         "Serĉi mesaĝojn en:">
 <!ENTITY searchHeading.accesskey     "e">
 <!ENTITY searchSubfolders.label      "Inkluzivi submesaĝujojn">
-<!ENTITY searchSubfolders.accesskey  "I">
+<!ENTITY searchSubfolders.accesskey  "z">
 <!ENTITY searchOnServer.label        "Serĉi ankaŭ en servilo">
 <!ENTITY searchOnServer.accesskey    "r">
 <!ENTITY resetButton.label           "Forviŝi">
@@ -14,24 +14,24 @@
 <!ENTITY openButton.label            "Malfermi">
 <!ENTITY openButton.accesskey        "M">
 <!ENTITY deleteButton.label          "Forigi">
-<!ENTITY deleteButton.accesskey      "F">
+<!ENTITY deleteButton.accesskey      "i">
 <!ENTITY searchDialogTitle.label     "Serĉi mesaĝojn">
-<!ENTITY results.label               "Results">
-<!ENTITY moveButton.label            "Move To">
-<!ENTITY moveButton.accesskey        "T">
+<!ENTITY results.label               "Rezultoj">
+<!ENTITY moveButton.label            "Movi al">
+<!ENTITY moveButton.accesskey        "v">
 <!ENTITY closeCmd.key                "W">
-<!ENTITY openInFolder.label          "Open in Folder">
-<!ENTITY openInFolder.accesskey      "r">
-<!ENTITY saveAsVFButton.label        "Save as Search Folder">
-<!ENTITY saveAsVFButton.accesskey    "v">
+<!ENTITY openInFolder.label          "Malfermi en mesaĝujo">
+<!ENTITY openInFolder.accesskey      "u">
+<!ENTITY saveAsVFButton.label        "Konservi kiel mesaĝujo de serĉo">
+<!ENTITY saveAsVFButton.accesskey    "K">
 
 <!-- for abSearchDialog.xhtml -->
-<!ENTITY abSearchHeading.label       "Search in:">
-<!ENTITY abSearchHeading.accesskey   "h">
-<!ENTITY propertiesButton.label      "Properties">
-<!ENTITY propertiesButton.accesskey  "P">
-<!ENTITY composeButton.label         "Write">
-<!ENTITY composeButton.accesskey     "W">
-<!ENTITY deleteCardButton.label      "Delete">
-<!ENTITY deleteCardButton.accesskey  "D">
-<!ENTITY abSearchDialogTitle.label   "Advanced Address Book Search">
+<!ENTITY abSearchHeading.label       "Serĉi en:">
+<!ENTITY abSearchHeading.accesskey   "e">
+<!ENTITY propertiesButton.label      "Atributoj">
+<!ENTITY propertiesButton.accesskey  "A">
+<!ENTITY composeButton.label         "Skribi">
+<!ENTITY composeButton.accesskey     "b">
+<!ENTITY deleteCardButton.label      "Forigi">
+<!ENTITY deleteCardButton.accesskey  "i">
+<!ENTITY abSearchDialogTitle.label   "Spertula serĉo de adresoj">

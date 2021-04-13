@@ -52,7 +52,6 @@
 <!ENTITY deleteListsCmd.label                           "Forigi listojn">
 <!ENTITY deleteItemsCmd.label                           "Forigi objektojn">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!ENTITY propertiesMenu.label                           "Atributoj">
 <!ENTITY propertiesMenu.accesskey                       "A">
 <!ENTITY propertiesCmd.key                              "i">
@@ -101,9 +100,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY messengerCmd.label                             "Retpoŝto kaj novaĵgrupoj">
 <!ENTITY messengerCmd.accesskey                         "R">
 <!ENTITY messengerCmd.commandkey                        "1">
-<!ENTITY addressBookCmd.label                           "Adresaro">
-<!ENTITY addressBookCmd.accesskey                       "A">
-<!ENTITY addressBookCmd.key                             "B">
 <!ENTITY searchAddressesCmd.label                       "Serĉi kontaktojn…">
 <!ENTITY searchAddressesCmd.accesskey                   "S">
 <!ENTITY importCmd.label                                "Enporti…">
@@ -154,7 +150,7 @@ because displayed names don't have the comma in between. -->
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Nomo aŭ retpoŝta adreso">
 <!ENTITY SearchNameOrEmail.accesskey                    "N">
-<!ENTITY advancedButton.tooltip                         "Sperta serĉo de adreso">
+<!ENTITY advancedButton.tooltip                         "Spertula serĉo de adreso">
 <!ENTITY quickSearchCmd.key                             "k">
 <!ENTITY searchItem.title "Rapide serĉi">
 
