@@ -988,8 +988,8 @@ addressbar-locbar-topsites-option =
     .label = ykkössivustoista
     .accesskey = y
 addressbar-locbar-engines-option =
-    .label = Hakukoneet
-    .accesskey = H
+    .label = hakukoneista
+    .accesskey = h
 addressbar-suggestions-settings = Muuta hakukoneiden ehdotusten asetuksia
 
 ## Privacy Section - Content Blocking
