@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+tab-context-open-a-new-tab =
+    .label = Nowy rejtarik wócyniś
+    .accesskey = N
 reload-tab =
     .label = Rejtarik znowego zacytaś
     .accesskey = R
@@ -66,15 +69,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Někotare rejtariki zacyniś
     .accesskey = N
-tab-context-share-url =
-    .label = Źěliś
-    .accesskey = i
-tab-context-share-more =
-    .label = Wěcej…
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->
@@ -97,6 +91,15 @@ move-tabs =
 move-tab =
     .label = Rejtarik pśesunuś
     .accesskey = s
+tab-context-share-url =
+    .label = Źěliś
+    .accesskey = i
+tab-context-share-more =
+    .label = Wěcej…
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->

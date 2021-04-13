@@ -5,13 +5,17 @@
 
 ## App Menu
 
-appmenuitem-update-banner =
-    .label-update-downloading = Aktualizaciju { -brand-shorter-name } ześěgnuś
 appmenuitem-update-banner2 =
     .label-update-downloading = Aktualizaciju { -brand-shorter-name } ześěgnuś
     .label-update-available = Aktualizacija k dispoziciji – něnto ześěgnuś
     .label-update-manual = Aktualizacija k dispoziciji – něnto ześěgnuś
     .label-update-unsupported = Aktualizěrowanje njejo móžne
+    .label-update-restart = Aktualizacija k dispoziciji – něnto znowego startowaś
+appmenuitem-update-banner3 =
+    .label-update-downloading = Aktualizaciju { -brand-shorter-name } ześěgnuś
+    .label-update-available = Aktualizacija k dispoziciji – něnto ześěgnuś
+    .label-update-manual = Aktualizacija k dispoziciji – něnto ześěgnuś
+    .label-update-unsupported = Aktulaizacija njejo móžna – system jo inkompatibelny
     .label-update-restart = Aktualizacija k dispoziciji – něnto znowego startowaś
 appmenuitem-protection-dashboard-title = Pśeglěd šćitow
 appmenuitem-customize-mode =
@@ -25,8 +29,6 @@ appmenuitem-new-private-window =
     .label = Nowe priwatne wokno
 appmenuitem-passwords =
     .label = Gronidła
-appmenuitem-extensions-and-themes =
-    .label = Rozšyrjenja a drastwy
 appmenuitem-addons-and-themes =
     .label = Dodanki a drastwy
 appmenuitem-find-in-page =
@@ -162,11 +164,6 @@ appmenu-about =
 appmenu-get-help =
     .label = Pomoc se wobstaraś
     .accesskey = P
-appmenu-help-troubleshooting-info =
-    .label = Informacije za rozwězowanje problemow
-    .accesskey = I
-appmenu-help-taskmanager =
-    .label = Zastojnik nadawkow
 appmenu-help-more-troubleshooting-info =
     .label = Dalšne informacije za rozwězowanje problemow
     .accesskey = D
@@ -175,16 +172,6 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = Pósudk pósłaś…
     .accesskey = P
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Ze znjemóžnjonymi dodankami znowego startowaś…
-    .accesskey = Z
-appmenu-help-safe-mode-with-addons =
-    .label = Ze zmóžnjonymi dodankami znowego startowaś
-    .accesskey = Z
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
