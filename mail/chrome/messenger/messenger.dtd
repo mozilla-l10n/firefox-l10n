@@ -565,7 +565,7 @@
 <!ENTITY appmenuButton.label "Menuo">
 
 <!-- Mail Toolbar Tooltips-->
-<!ENTITY advancedButton.tooltip "Sperta serĉo de mesaĝoj">
+<!ENTITY advancedButton.tooltip "Spertula serĉo de mesaĝoj">
 <!ENTITY getMsgButton.tooltip "Ricevi novajn mesaĝojn">
 <!ENTITY getAllNewMsgCmd.label "Ricevi ĉiujn novajn mesaĝojn">
 <!ENTITY getAllNewMsgCmd.accesskey "R">
