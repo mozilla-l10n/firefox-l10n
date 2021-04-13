@@ -7,3 +7,10 @@ default-browser-notification-message = <strong>Definir o { -brand-short-name } c
 default-browser-notification-button =
     .label = Definir como padrão
     .accesskey = D
+
+## These strings are used for the default browser prompt. There are 2 variations
+## depending on the operating system (Windows vs other). The checkbox label and
+## secondary button are shared between the variants.
+
+default-browser-prompt-title-pin = Tornar o { -brand-short-name } seu navegador principal?
+default-browser-prompt-message-pin = Tenha o { -brand-short-name } na ponta de seus dedos, o torne seu navegador padrão e fixe na barra de tarefas.
