@@ -26,3 +26,15 @@ upgrade-dialog-new-secondary-button = Nid nawr
 
 ## Theme selection screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-theme-title =
+    Dechrau'n lân
+    gyda thema wedi'i diweddaru
+upgrade-dialog-theme-system = Thema'r system
+    .title = Dilyn botymau, dewislenni a ffenestri thema'r system weithredu
+upgrade-dialog-theme-light = Golau
+    .title = Defnyddio thema olau ar gyfer botymau, dewislenni a ffenestri
+upgrade-dialog-theme-dark = Tywyll
+    .title = Defnyddio thema dywyll ar gyfer botymau, dewislenni a ffenestri
+upgrade-dialog-theme-alpenglow = Alpenglow
+    .title = Defnyddio thema bywiog a lliwgar ar gyfer botymau, dewislenni a ffenestri
