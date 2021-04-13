@@ -5,13 +5,17 @@
 
 ## App Menu
 
-appmenuitem-update-banner =
-    .label-update-downloading = Preberá sa aktualizácia aplikácie { -brand-shorter-name }
 appmenuitem-update-banner2 =
     .label-update-downloading = Preberá sa aktualizácia pre { -brand-shorter-name }
     .label-update-available = Dostupná aktualizácia — prevziať
     .label-update-manual = Dostupná aktualizácia — prevziať
     .label-update-unsupported = Nie je možné aktualizovať
+    .label-update-restart = Dostupná aktualizácia — reštartovať
+appmenuitem-update-banner3 =
+    .label-update-downloading = Preberá sa aktualizácia pre { -brand-shorter-name }
+    .label-update-available = Dostupná aktualizácia — prevziať
+    .label-update-manual = Dostupná aktualizácia — prevziať
+    .label-update-unsupported = Dostupná aktualizácia — nekompatibilný systém
     .label-update-restart = Dostupná aktualizácia — reštartovať
 appmenuitem-protection-dashboard-title = Nástenka ochrany súkromia
 appmenuitem-customize-mode =
@@ -25,8 +29,6 @@ appmenuitem-new-private-window =
     .label = Nové súkromné okno
 appmenuitem-passwords =
     .label = Heslá
-appmenuitem-extensions-and-themes =
-    .label = Rozšírenia a témy vzhľadu
 appmenuitem-addons-and-themes =
     .label = Doplnky a témy
 appmenuitem-find-in-page =
@@ -160,11 +162,6 @@ appmenu-about =
 appmenu-get-help =
     .label = Získať pomoc
     .accesskey = Z
-appmenu-help-troubleshooting-info =
-    .label = Informácie pre riešenie problémov
-    .accesskey = n
-appmenu-help-taskmanager =
-    .label = Správca úloh
 appmenu-help-more-troubleshooting-info =
     .label = Ďalšie informácie pre riešenie problémov
     .accesskey = i
@@ -173,16 +170,6 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = Odoslať spätnú väzbu…
     .accesskey = d
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Reštartovať a zakázať doplnky…
-    .accesskey = R
-appmenu-help-safe-mode-with-addons =
-    .label = Reštartovať a povoliť doplnky…
-    .accesskey = R
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
