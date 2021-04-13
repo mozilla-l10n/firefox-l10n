@@ -8,6 +8,7 @@
 
 ## New changes screen
 
+upgrade-dialog-new-item-tabs-title = 现代化的标签页设计
 upgrade-dialog-new-primary-primary-button = 将 { -brand-short-name } 设为我的主浏览器
     .title = 将 { -brand-short-name } 设为默认浏览器，并固定到任务栏
 upgrade-dialog-new-primary-default-button = 将 { -brand-short-name } 设为我的默认浏览器
