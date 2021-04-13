@@ -2,30 +2,30 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- for SearchDialog.xul -->
-<!ENTITY searchHeading.label         "Search for messages in:">
-<!ENTITY searchHeading.accesskey     "h">
-<!ENTITY searchSubfolders.label      "Search subfolders">
-<!ENTITY searchSubfolders.accesskey  "e">
-<!ENTITY searchOnServer.label        "Run search on server">
-<!ENTITY searchOnServer.accesskey    "u">
-<!ENTITY resetButton.label           "Clear">
-<!ENTITY resetButton.accesskey       "C">
-<!ENTITY openButton.label            "Open">
-<!ENTITY openButton.accesskey        "n">
-<!ENTITY deleteButton.label          "Delete">
-<!ENTITY deleteButton.accesskey      "D">
-<!ENTITY searchDialogTitle.label     "Search Messages">
+<!-- for SearchDialog.xhtml -->
+<!ENTITY searchHeading.label         "Serĉi mesaĝojn en:">
+<!ENTITY searchHeading.accesskey     "e">
+<!ENTITY searchSubfolders.label      "Inkluzivi submesaĝujojn">
+<!ENTITY searchSubfolders.accesskey  "I">
+<!ENTITY searchOnServer.label        "Serĉi ankaŭ en servilo">
+<!ENTITY searchOnServer.accesskey    "r">
+<!ENTITY resetButton.label           "Forviŝi">
+<!ENTITY resetButton.accesskey       "F">
+<!ENTITY openButton.label            "Malfermi">
+<!ENTITY openButton.accesskey        "M">
+<!ENTITY deleteButton.label          "Forigi">
+<!ENTITY deleteButton.accesskey      "F">
+<!ENTITY searchDialogTitle.label     "Serĉi mesaĝojn">
 <!ENTITY results.label               "Results">
 <!ENTITY moveButton.label            "Move To">
 <!ENTITY moveButton.accesskey        "T">
-<!ENTITY closeCmd.key                "W"> 
+<!ENTITY closeCmd.key                "W">
 <!ENTITY openInFolder.label          "Open in Folder">
 <!ENTITY openInFolder.accesskey      "r">
 <!ENTITY saveAsVFButton.label        "Save as Search Folder">
 <!ENTITY saveAsVFButton.accesskey    "v">
 
-<!-- for ABSearchDialog.xul -->
+<!-- for abSearchDialog.xhtml -->
 <!ENTITY abSearchHeading.label       "Search in:">
 <!ENTITY abSearchHeading.accesskey   "h">
 <!ENTITY propertiesButton.label      "Properties">
@@ -35,4 +35,3 @@
 <!ENTITY deleteCardButton.label      "Delete">
 <!ENTITY deleteCardButton.accesskey  "D">
 <!ENTITY abSearchDialogTitle.label   "Advanced Address Book Search">
-
