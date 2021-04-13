@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+tab-context-open-a-new-tab =
+    .label = Yeni sekme aç
+    .accesskey = Y
 reload-tab =
     .label = Sekmeyi tazele
     .accesskey = z
@@ -66,15 +69,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Birden çok sekmeyi kapat
     .accesskey = B
-tab-context-share-url =
-    .label = Paylaş
-    .accesskey = P
-tab-context-share-more =
-    .label = Daha fazla…
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->
@@ -95,6 +89,15 @@ move-tabs =
 move-tab =
     .label = Sekmeyi taşı
     .accesskey = t
+tab-context-share-url =
+    .label = Paylaş
+    .accesskey = P
+tab-context-share-more =
+    .label = Daha fazla…
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
