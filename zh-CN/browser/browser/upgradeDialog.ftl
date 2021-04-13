@@ -18,11 +18,11 @@ upgrade-dialog-new-secondary-button = 暂时不要
 ## Theme selection screen
 
 upgrade-dialog-theme-light = 亮色
-    .title = 为按钮、菜单和窗口使用明亮配色的的主题
+    .title = 为按钮、菜单和窗口使用明亮配色主题
 upgrade-dialog-theme-dark = 深邃
-    .title = 为按钮、菜单和窗口使用深邃配色的的主题
+    .title = 为按钮、菜单和窗口使用深邃配色主题
 upgrade-dialog-theme-alpenglow = 染山霞
-    .title = 为按钮、菜单和窗口使用活力多彩配色的的主题
+    .title = 为按钮、菜单和窗口使用活力多彩配色主题
 upgrade-dialog-theme-keep = 保留原设置
     .title = 使用您更新 { -brand-short-name } 前安装的主题
 upgrade-dialog-theme-primary-button = 保存主题
