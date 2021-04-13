@@ -14,6 +14,7 @@ upgrade-dialog-new-subtitle = Води вас на жељену локацију
 upgrade-dialog-new-item-menu-title = Поједностављена трака са алаткама и менији
 upgrade-dialog-new-item-menu-description = Дајте приоритет стварима које су вам битне.
 upgrade-dialog-new-item-tabs-title = Модерне картице
+upgrade-dialog-new-item-tabs-description = Уредно организоване информације за бољу концентрацију и лакшу навигацију.
 upgrade-dialog-new-item-icons-title = Нове иконе и јасније поруке
 upgrade-dialog-new-item-icons-description = Крећите се кроз програм уз мање труда.
 
