@@ -7,3 +7,15 @@ default-browser-notification-message = <strong>Atur { -brand-short-name } sebaga
 default-browser-notification-button =
     .label = Setel menjadi Baku
     .accesskey = S
+
+## These strings are used for the default browser prompt. There are 2 variations
+## depending on the operating system (Windows vs other). The checkbox label and
+## secondary button are shared between the variants.
+
+default-browser-prompt-title-pin = Jadikan { -brand-short-name } peramban utama Anda?
+default-browser-prompt-button-primary-pin = Jadikan sebagai peramban utama
+default-browser-prompt-title-alt = Jadikan { -brand-short-name } peramban baku Anda?
+default-browser-prompt-message-alt = Dapatkan kecepatan, keamanan, dan privasi setiap kali Anda menjelajah.
+default-browser-prompt-button-primary-alt = Setel sebagai peramban baku
+default-browser-prompt-checkbox-label = Jangan tanya lagi
+default-browser-prompt-button-secondary = Jangan sekarang
