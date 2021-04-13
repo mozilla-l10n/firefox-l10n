@@ -5,8 +5,18 @@
 
 ## App Menu
 
-appmenuitem-update-banner =
+appmenuitem-update-banner2 =
     .label-update-downloading = { -brand-shorter-name } eguneraketa deskargatzen
+    .label-update-available = Eguneraketa erabilgarri — deskargatu orain
+    .label-update-manual = Eguneraketa erabilgarri — deskargatu orain
+    .label-update-unsupported = Ezin da eguneratu
+    .label-update-restart = Eguneraketa erabilgarri — berrabiarazi orain
+appmenuitem-update-banner3 =
+    .label-update-downloading = { -brand-shorter-name } eguneraketa deskargatzen
+    .label-update-available = Eguneraketa erabilgarri — deskargatu orain
+    .label-update-manual = Eguneraketa erabilgarri — deskargatu orain
+    .label-update-unsupported = Ezin da eguneratu — sistema bateragaitza
+    .label-update-restart = Eguneraketa erabilgarri — berrabiarazi orain
 appmenuitem-protection-dashboard-title = Babesen arbela
 appmenuitem-customize-mode =
     .label = Pertsonalizatu…
@@ -19,14 +29,32 @@ appmenuitem-new-private-window =
     .label = Leiho pribatu berria
 appmenuitem-passwords =
     .label = Pasahitzak
-appmenuitem-extensions-and-themes =
-    .label = Hedapenak eta itxurak
+appmenuitem-addons-and-themes =
+    .label = Gehigarriak eta itxurak
 appmenuitem-find-in-page =
     .label = Bilatu orrian…
 appmenuitem-more-tools =
     .label = Tresna gehiago
 appmenuitem-exit =
     .label = Irten
+appmenu-menu-button-closed =
+    .tooltiptext = Ireki aplikazio-menua
+    .label = { -brand-shorter-name }
+appmenu-menu-button-opened =
+    .tooltiptext = Itxi aplikazio-menua
+    .label = { -brand-shorter-name }
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Irten
+           *[other] Irten
+        }
+appmenu-menu-button-closed2 =
+    .tooltiptext = Ireki aplikazio-menua
+    .label = { -brand-short-name }
+appmenu-menu-button-opened2 =
+    .tooltiptext = Itxi aplikazio-menua
+    .label = { -brand-short-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -45,6 +73,26 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sinkronizatu orain
+appmenu-remote-tabs-sign-into-sync =
+    .label = Hasi saioa sinkronizatzeko…
+appmenu-remote-tabs-turn-on-sync =
+    .label = Gaitu sinkronizazioa…
+appmenuitem-fxa-toolbar-sync-now2 = Sinkronizatu orain
+appmenuitem-fxa-manage-account = Kudeatu kontua
+appmenu-fxa-header =
+    .title = { -fxaccount-brand-name }
+appmenu-fxa-header2 = { -fxaccount-brand-name }
+# Variables
+# $time (string) - Localized relative time since last sync (e.g. 1 second ago,
+# 3 hours ago, etc.)
+appmenu-fxa-last-sync = Azken sinkronizazioa { $time }
+    .label = Azken sinkronizazioa { $time }
+appmenu-fxa-sync-and-save-data =
+    .value = Sinkronizatu eta gorde datuak
+appmenu-fxa-sync-and-save-data2 = Sinkronizatu eta gorde datuak
+appmenu-fxa-signed-in-label = Hasi saioa
+appmenu-fxa-setup-sync =
+    .label = Gaitu sinkronizazioa…
 appmenu-fxa-show-more-tabs = Erakutsi fitxa gehiago
 appmenuitem-save-page =
     .label = Gorde orria honela…
@@ -116,11 +164,6 @@ appmenu-about =
 appmenu-get-help =
     .label = Lortu laguntza
     .accesskey = L
-appmenu-help-troubleshooting-info =
-    .label = Arazoak konpontzeko informazioa…
-    .accesskey = A
-appmenu-help-taskmanager =
-    .label = Ataza-kudeatzailea
 appmenu-help-more-troubleshooting-info =
     .label = Arazoak konpontzeko informazio gehiago
     .accesskey = f
@@ -130,19 +173,12 @@ appmenu-help-feedback-page =
     .label = Bidali iritzia…
     .accesskey = d
 
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Berrabiarazi gehigarriak desgaituta…
-    .accesskey = r
-appmenu-help-safe-mode-with-addons =
-    .label = Berrabiarazi gehigarriak gaituta
-    .accesskey = r
-
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-enter-troubleshoot-mode2 =
+    .label = Arazoak konpontzeko modua…
+    .accesskey = m
 appmenu-help-exit-troubleshoot-mode =
     .label = Desaktibatu arazoak konpontzeko modua
     .accesskey = m

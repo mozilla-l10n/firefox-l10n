@@ -9,6 +9,16 @@ about-private-browsing-info-title = Leiho pribatuan zaude
 about-private-browsing-info-myths = Nabigatze pribatuari buruzko ohiko mitoak
 about-private-browsing =
     .title = Bilatu webean
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff =
+    .title = Bilatu { $engine } erabiliz edo idatzi helbidea
+about-private-browsing-handoff-no-engine =
+    .title = Bilatu edo idatzi helbidea
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff-text = Bilatu { $engine } erabiliz edo idatzi helbidea
+about-private-browsing-handoff-text-no-engine = Bilatu edo idatzi helbidea
 about-private-browsing-not-private = Une honetan ez zaude leiho pribatu batean.
 about-private-browsing-info-description = { -brand-short-name }(e)k zure bilaketa- eta nabigazio-historia garbitzen du aplikazioa ixtean edo nabigatze pribatuko fitxa eta leiho guztiak ixtean. Honek ez zaitu anonimo egiten webguneen edo zure interneteko zerbitzu-hornitzailearen aurrean baina erraztu egiten du ordenagailu hau erabiltzen duten beste erabiltzaileengandik online duzun jarduera pribatu mantentzea.
 about-private-browsing-need-more-privacy = Pribatutasun gehiago behar duzu?
