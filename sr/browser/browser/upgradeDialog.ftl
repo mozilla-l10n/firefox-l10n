@@ -53,4 +53,8 @@ upgrade-dialog-new-secondary-button = Не сада
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-theme-title = Почните из почетка уз нову тему
 upgrade-dialog-theme-system = Системска тема
-    .title = На основу теме оперативног система (дугмад, менији и прозори)
+    .title = Тема оперативног система за дугмад, меније и прозоре
+upgrade-dialog-theme-light = Светла
+    .title = Светла тема за дугмад, меније и прозоре
+upgrade-dialog-theme-dark = Тамна
+    .title = Тамна тема за дугмад, меније и прозоре
