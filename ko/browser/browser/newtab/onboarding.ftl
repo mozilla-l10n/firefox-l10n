@@ -219,39 +219,39 @@ onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 onboarding-multistage-theme-tooltip-automatic-2 =
     .title =
         버튼, 메뉴 및 창에
-        운영 체제의 모양을 상속.
+        운영 체제의 모양을 상속합니다.
 # Input description for automatic theme
 onboarding-multistage-theme-description-automatic-2 =
     .aria-description =
         버튼, 메뉴 및 창에
-        운영 체제의 모양을 상속.
+        운영 체제의 모양을 상속합니다.
 # Tooltip displayed on hover of light theme
 onboarding-multistage-theme-tooltip-light-2 =
     .title =
         버튼, 메뉴 및 창에
-        밝은 화면 배색을 사용.
+        밝은 화면 배색을 사용합니다.
 # Input description for light theme
 onboarding-multistage-theme-description-light =
     .aria-description =
         버튼, 메뉴 및 창에
-        밝은 화면 배색을 사용.
+        밝은 화면 배색을 사용합니다.
 # Tooltip displayed on hover of dark theme
 onboarding-multistage-theme-tooltip-dark-2 =
     .title =
         버튼, 메뉴 및 창에
-        어두운 화면 배색을 사용.
+        어두운 화면 배색을 사용합니다.
 # Input description for dark theme
 onboarding-multistage-theme-description-dark =
     .aria-description =
         버튼, 메뉴 및 창에
-        어두운 화면 배색을 사용.
+        어두운 화면 배색을 사용합니다.
 # Tooltip displayed on hover of Alpenglow theme
 onboarding-multistage-theme-tooltip-alpenglow-2 =
     .title =
         버튼, 메뉴 및 창에
-        색상형 화면 배색을 사용.
+        색상형 화면 배색을 사용합니다.
 # Input description for Alpenglow theme
 onboarding-multistage-theme-description-alpenglow =
     .aria-description =
         버튼, 메뉴 및 창에
-        색상형 화면 배색을 사용.
+        색상형 화면 배색을 사용합니다.
