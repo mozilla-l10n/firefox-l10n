@@ -12,6 +12,7 @@ default-browser-notification-button =
 ## depending on the operating system (Windows vs other). The checkbox label and
 ## secondary button are shared between the variants.
 
+default-browser-prompt-title-pin = { -brand-short-name }를 기본 브라우저로 설정하시겠습니까?
 default-browser-prompt-button-primary-pin = 기본 브라우저로 설정
 default-browser-prompt-title-alt = { -brand-short-name }를 기본 브라우저로 설정하시겠습니까?
 default-browser-prompt-message-alt = 탐색할 때마다 속도, 안전 및 개인 정보 보호 기능이 제공됩니다.

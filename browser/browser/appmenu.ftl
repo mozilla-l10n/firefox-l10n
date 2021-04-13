@@ -5,13 +5,17 @@
 
 ## App Menu
 
-appmenuitem-update-banner =
-    .label-update-downloading = { -brand-shorter-name } 업데이트 다운로드 중
 appmenuitem-update-banner2 =
     .label-update-downloading = { -brand-shorter-name } 업데이트 다운로드 중
     .label-update-available = 업데이트 사용 가능 — 지금 다운로드
     .label-update-manual = 업데이트 사용 가능 — 지금 다운로드
     .label-update-unsupported = 업데이트할 수 없음
+    .label-update-restart = 업데이트 사용 가능 — 지금 다시 시작
+appmenuitem-update-banner3 =
+    .label-update-downloading = { -brand-shorter-name } 업데이트 다운로드 중
+    .label-update-available = 업데이트 사용 가능 — 지금 다운로드
+    .label-update-manual = 업데이트 사용 가능 — 지금 다운로드
+    .label-update-unsupported = 업데이트할 수 없음 — 시스템이 호환되지 않음
     .label-update-restart = 업데이트 사용 가능 — 지금 다시 시작
 appmenuitem-protection-dashboard-title = 보호 대시보드
 appmenuitem-customize-mode =
@@ -25,8 +29,6 @@ appmenuitem-new-private-window =
     .label = 새 사생활 보호 창
 appmenuitem-passwords =
     .label = 비밀번호
-appmenuitem-extensions-and-themes =
-    .label = 확장 기능 및 테마
 appmenuitem-addons-and-themes =
     .label = 부가 기능 및 테마
 appmenuitem-find-in-page =
@@ -162,11 +164,6 @@ appmenu-about =
 appmenu-get-help =
     .label = 도움 받기
     .accesskey = H
-appmenu-help-troubleshooting-info =
-    .label = 문제 해결 정보…
-    .accesskey = T
-appmenu-help-taskmanager =
-    .label = 작업 관리자
 appmenu-help-more-troubleshooting-info =
     .label = 추가 문제 해결 정보
     .accesskey = T
@@ -175,16 +172,6 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = 사용자 의견 보내기…
     .accesskey = S
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = 부가 기능을 끄고 다시 시작…
-    .accesskey = R
-appmenu-help-safe-mode-with-addons =
-    .label = 부가 기능을 켜고 다시 시작
-    .accesskey = R
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
