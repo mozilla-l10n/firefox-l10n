@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "Opne meny">
+
 <!ENTITY navbarOverflow.label                "Fleire verktøy…">
 
 <!-- Tab context menu -->
@@ -32,7 +33,7 @@ can reach it easily. -->
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY navbar.accessibleLabel "Navigasjon">
-<!ENTITY personalbarCmd.label "Bokmerke">
+<!ENTITY personalbarCmd.label "Bokmerkelinje">
 <!ENTITY personalbarCmd.accesskey "B">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
@@ -41,7 +42,6 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY bookmarksToolbarItem.label "Element i bokmerkelinja">
 
 <!ENTITY fullScreenCmd.label "Fullskjerm">
-
 
 <!ENTITY pictureInPictureHideToggle.label "Gøym bilde-i-bilde-veksleknapp">
 <!ENTITY pictureInPictureHideToggle.accesskey "G">
@@ -53,6 +53,9 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Kople til ei anna eining…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     followed by the user's email. -->
 <!ENTITY fxa.menu.signin.label "Logg inn på &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Slå på &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "&brandProductName;-tenester">
@@ -146,6 +149,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY historyUndoWindowMenu.label "Nyleg attlatne vindauge">
 
 <!ENTITY appMenuHistory.showAll.label "Vis all historikk">
+
 <!ENTITY appMenuHistory.clearRecent.label "Tøm nyleg historikk…">
 <!ENTITY appMenuHistory.restoreSession.label "Bygg oppatt siste programøkt">
 <!ENTITY appMenuHistory.viewSidebar.label "Vis historikksidestolpe">
@@ -154,12 +158,15 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuHelp.label "Hjelp">
 
 <!ENTITY appMenuRemoteTabs.label "Synkroniserte faner">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Ingen opne faner">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showMore.label "Vis meir">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.tooltip):
+     This is shown after the tabs list if we can display more tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showMore.tooltip "Vis fleire faner frå denne eininga">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
@@ -222,14 +229,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY emailPageCmd.label           "Send lenke på e-post…">
 
-<!-- Media (video/audio) controls -->
-
-<!-- LOCALIZATION NOTE :
-fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
-fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
-If shift key is needed with your locale popular keyboard for them,
-you can use these alternative items. Otherwise, their values should be empty.  -->
-
 <!ENTITY fullZoom.label                 "Skalering">
 
 <!ENTITY sidebarCloseButton.tooltip     "Lat att sidestolpen">
@@ -254,7 +253,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY spellAddDictionaries.label "Legg til ordbøker…">
 <!ENTITY spellAddDictionaries.accesskey "L">
-
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
