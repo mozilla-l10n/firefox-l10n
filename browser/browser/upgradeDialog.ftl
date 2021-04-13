@@ -8,7 +8,12 @@
 
 ## New changes screen
 
+upgrade-dialog-new-item-menu-title = 간소화된 도구 모음 및 메뉴
+upgrade-dialog-new-item-menu-description = 중요한 것에 우선순위를 두어서 필요한 것을 찾을 수 있도록 했습니다.
+upgrade-dialog-new-item-tabs-title = 현대적인 탭
+upgrade-dialog-new-item-tabs-description = 정보를 깔끔하게 포함하여 초점과 유연한 움직임을 지원합니다.
 upgrade-dialog-new-item-icons-title = 새로운 아이콘 및 명확한 메시지
+upgrade-dialog-new-item-icons-description = 가벼운 터치로 길을 찾을 수 있도록 도와줍니다.
 upgrade-dialog-new-primary-primary-button = { -brand-short-name }를 기본 브라우저로 설정
     .title = { -brand-short-name }를 기본 브라우저로 설정하고 작업 표시줄에 고정
 upgrade-dialog-new-primary-default-button = { -brand-short-name }를 기본 브라우저로 설정
