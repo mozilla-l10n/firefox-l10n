@@ -10,6 +10,8 @@
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-new-title = { -brand-short-name } у новом руху
+upgrade-dialog-new-subtitle = Води вас на жељену локацију још брже
+upgrade-dialog-new-item-menu-title = Поједностављена трака са алаткама и менији
 
 ## Theme selection screen
 
