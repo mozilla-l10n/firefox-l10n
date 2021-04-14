@@ -129,3 +129,6 @@ move-attachment-last-panel-button =
 button-return-receipt =
     .label = Povratnica
     .tooltiptext = Zahtevaj potrdilo o prejemu za to sporočilo
+many-public-recipients-ignore =
+    .label = Naj bodo prejemniki javni
+    .accesskey = j
