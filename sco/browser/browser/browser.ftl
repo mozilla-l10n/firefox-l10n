@@ -127,12 +127,78 @@ urlbar-xr-blocked =
     .tooltiptext = Ye've blocked virtual reality device access fur this wabsite.
 urlbar-web-notifications-blocked =
     .tooltiptext = Ye've blocked notifications fur this wabsite.
+urlbar-camera-blocked =
+    .tooltiptext = Ye've blocked yer camera fur this wabsite.
+urlbar-microphone-blocked =
+    .tooltiptext = Ye've blocked yer microphone fur this wabsite.
+urlbar-screen-blocked =
+    .tooltiptext = Ye've blocked this wabsite fae sharin yer screen.
+urlbar-persistent-storage-blocked =
+    .tooltiptext = Ye've blocked persistent storage fur this wabsite.
+urlbar-popup-blocked =
+    .tooltiptext = Ye've blocked lowp-ups fur this wabsite.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = Ye've blocked autopley media wi soond fur this wabsite.
+urlbar-canvas-blocked =
+    .tooltiptext = Ye've blocked canvas data oot-howkin fur this wabsite.
+urlbar-midi-blocked =
+    .tooltiptext = Ye've blocked MIDI ingang fur this wabsite.
+urlbar-install-blocked =
+    .tooltiptext = Ye've blocked eik-on instawment fur this wabsite.
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+urlbar-star-edit-bookmark =
+    .tooltiptext = Edit this buikmerk ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+urlbar-star-add-bookmark =
+    .tooltiptext = Buikmerk this page ({ $shortcut })
 
 ## Page Action Context Menu
 
+page-action-add-to-urlbar =
+    .label = Eik-On tae Address Baur
+page-action-manage-extension =
+    .label = Manage Extension…
+page-action-remove-from-urlbar =
+    .label = Remuive fae Address Baur
+page-action-remove-extension =
+    .label = Remuive Extension
 
 ## Page Action menu
 
+# Variables
+# $tabCount (integer) - Number of tabs selected
+page-action-send-tabs-panel =
+    .label =
+        { $tabCount ->
+            [1] Send Tab tae Device
+           *[other] Send { $tabCount } Tabs tae Device
+        }
+page-action-send-tabs-urlbar =
+    .tooltiptext =
+        { $tabCount ->
+            [1] Send Tab tae Device
+           *[other] Send { $tabCount } Tabs tae Device
+        }
+page-action-pocket-panel =
+    .label = Save Page tae { -pocket-brand-name }
+page-action-copy-url-panel =
+    .label = Copy Link
+page-action-copy-url-urlbar =
+    .tooltiptext = Copy Link
+page-action-email-link-panel =
+    .label = Email Link…
+page-action-email-link-urlbar =
+    .tooltiptext = Email Link…
+page-action-share-url-panel =
+    .label = Share
+page-action-share-url-urlbar =
+    .tooltiptext = Share
+page-action-share-more-panel =
+    .label = Mair…
+page-action-send-tab-not-ready =
+    .label = Syncin Devices…
 
 ## Auto-hide Context Menu
 
