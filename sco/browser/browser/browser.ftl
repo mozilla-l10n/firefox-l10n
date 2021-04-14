@@ -326,6 +326,11 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = Ye arenae connectit siccar tae this site.
 identity-connection-verified = Ye're connectit siccar tae this site.
 identity-ev-owner-label = Certificate issued tae:
+identity-description-custom-root = Mozilla disnae ken this certificate issuer. It micht hae been eikit on fae yer operatin seestem or by an admeenistrator. <label data-l10n-name="link">Lairn Mair</label>
+identity-remove-cert-exception =
+    .label = Remuive Exception
+    .accesskey = R
+identity-description-insecure = Yer connection tae this site isnae preevat. Information ye inpit micht be seen by ithers (likesay, passwirds, messages, credit cairds, etc.).
 
 ## Window controls
 
