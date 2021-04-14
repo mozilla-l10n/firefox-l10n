@@ -9,19 +9,19 @@
 ##  $scheme - the type of link that's being opened.
 ##  $appName - Name of the application that will be opened.
 
-permission-dialog-description = Дозволити овом сајту да отвори линк типа { $scheme }?
-permission-dialog-description-file = Дозволити овој датотеци да отвори линк типа { $scheme }?
-permission-dialog-description-host = Дозволити сајту { $host } да отвори линк типа { $scheme }?
-permission-dialog-description-app = Дозволити овом сајту да отвори линк типа { $scheme } помоћу програма { $appName }?
-permission-dialog-description-host-app = Дозволити сајту { $host } да отвори линк типа { $scheme } помоћу програма { $appName }?
-permission-dialog-description-file-app = Дозволити овој датотеци да отвори линк типа { $scheme } помоћу програма { $appName }?
+permission-dialog-description = Дозволити да овај сајт отвори { $scheme } линк?
+permission-dialog-description-file = Дозволити да ова датотека отвори { $scheme } линк?
+permission-dialog-description-host = Дозволити да { $host } отвори { $scheme } линк?
+permission-dialog-description-app = Дозволити да овај сајт отвори { $scheme } линк помоћу програма { $appName }?
+permission-dialog-description-host-app = Дозволити да { $host } отвори { $scheme } линк помоћу програма { $appName }?
+permission-dialog-description-file-app = Дозволити да ова датотека отвара { $scheme } линкове помоћу програма { $appName }?
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
 ## of the sentence as your language's grammar allows.
 
-permission-dialog-remember = Увек дозволи сајту <strong>{ $host }</strong> да отвори линк типа <strong>{ $scheme }</strong>
-permission-dialog-remember-file = Увек дозволи овој датотеци да отвара линкове типа <strong>{ $scheme }</strong>
+permission-dialog-remember = Увек дозволи да <strong>{ $host }</strong> отвара <strong>{ $scheme }</strong> линкове
+permission-dialog-remember-file = Увек дозволи да ова датотека отвара <strong>{ $scheme }</strong> линкове
 
 ##
 
@@ -44,9 +44,9 @@ chooser-window =
 chooser-dialog =
     .buttonlabelaccept = Отвори линк
     .buttonaccesskeyaccept = л
-chooser-dialog-description = Одаберите програм којим ћете отворити линк типа { $scheme }.
+chooser-dialog-description = Одаберите програм којим ћете отворити { $scheme } линк.
 # Please keep the emphasis around the scheme (ie the `<strong>` HTML tags).
-chooser-dialog-remember = Увек користи овај програм да отвара линкове типа <strong>{ $scheme }</strong>
+chooser-dialog-remember = Увек користи овај програм за отварање <strong>{ $scheme }</strong> линкова
 chooser-dialog-remember-extra =
     Ово можете да промените у подешавањима { -brand-short-name.gender ->
         [masculine] { -brand-short-name(case: "gen") }
