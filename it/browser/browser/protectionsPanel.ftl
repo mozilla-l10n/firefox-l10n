@@ -88,6 +88,7 @@ protections-panel-tracking-content = I siti web possono caricare pubblicità, vi
 protections-panel-social-media-trackers = I social network impostano elementi traccianti in altri siti per scoprire cosa fai, leggi e guardi quando sei online. In questo modo sono in grado di raccogliere molte più informazioni rispetto a quello che condividi nei tuoi profili online.
 
 protections-panel-description-shim-allowed = Alcuni elementi traccianti, indicati in seguito, sono stati parzialmente sbloccati in quanto hai interagito con loro.
+protections-panel-description-shim-allowed-learn-more = Ulteriori informazioni
 protections-panel-shim-allowed-indicator =
   .tooltiptext = Elemento tracciante parzialmente sbloccato
 
