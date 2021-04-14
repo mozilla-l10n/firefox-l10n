@@ -136,6 +136,8 @@ search-results-empty-message =
         [windows] ¡Sentímoslo! Nun hai resultaos n'Opciones pa «<span data-l10n-name="query"></span>».
        *[other] ¡Sentímoslo! Nun hai resultaos en Preferencies pa «<span data-l10n-name="query"></span>».
     }
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 = ¡Sentímoslo! Nun hai nengún resultáu n'Axustes pa «<span data-l10n-name="query"></span>»
 search-results-help-link = ¿Precises ayuda? Visita <a data-l10n-name="url">Sofitu de { -brand-short-name }</a>
 
 ## General Section
