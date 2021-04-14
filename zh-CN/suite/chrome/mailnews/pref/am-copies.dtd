@@ -15,7 +15,7 @@
 <!ENTITY ccAddress.accesskey "C">
 <!ENTITY ccAddressList.placeholder "使用逗号分隔地址">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
-<!ENTITY bccAddress.label "密件抄送至此邮件地址：">
+<!ENTITY bccAddress.label "密送至此邮件地址：">
 <!ENTITY bccAddress.accesskey "B">
 <!ENTITY bccAddressList.placeholder "使用逗号分隔地址">
 <!ENTITY saveMessageDlg.label "保存消息时显示确认对话框">

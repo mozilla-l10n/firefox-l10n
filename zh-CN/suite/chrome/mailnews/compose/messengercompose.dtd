@@ -9,7 +9,7 @@
 <!ENTITY fromAddr.accesskey "r">
 <!ENTITY toAddr.label "收件人：">
 <!ENTITY ccAddr.label "抄送：">
-<!ENTITY bccAddr.label "密件抄送：">
+<!ENTITY bccAddr.label "密送：">
 <!ENTITY replyAddr.label "回复地址：">
 <!ENTITY newsgroupsAddr.label "新闻组：">
 <!ENTITY followupAddr.label "跟踪地址：">
@@ -51,6 +51,8 @@
 <!ENTITY editRewrapCmd.label "重新排版">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey  "w">
+
+<!-- Edit menu items -->
 <!ENTITY accountManagerCmd.label "邮件和新闻组账户设置…">
 <!ENTITY accountManagerCmd.accesskey "M">
 
@@ -120,12 +122,12 @@
 <!-- We already inherit &menuBar.tooltip and &mailToolbar.tooltip from messenger.dtd -->
 <!ENTITY addressBar.tooltip "地址栏">
 <!ENTITY formatToolbar.tooltip "格式化工具栏">
-<!ENTITY sendButton.tooltip "现在发送此消息"> 
-<!ENTITY sendlaterButton.tooltip "以后发送此消息"> 
-<!ENTITY addressButton.tooltip "从通讯录中选择一个收件人"> 
-<!ENTITY attachButton.tooltip "添加附件"> 
-<!ENTITY saveButton.tooltip "保存此消息"> 
-<!ENTITY stopButton.tooltip "停止当前的传输"> 
+<!ENTITY sendButton.tooltip "现在发送此消息">
+<!ENTITY sendlaterButton.tooltip "以后发送此消息">
+<!ENTITY addressButton.tooltip "从通讯录中选择一个收件人">
+<!ENTITY attachButton.tooltip "添加附件">
+<!ENTITY saveButton.tooltip "保存此消息">
+<!ENTITY stopButton.tooltip "停止当前的传输">
 
 <!-- context menu items -->
 <!ENTITY openAttachment.label "打开">
