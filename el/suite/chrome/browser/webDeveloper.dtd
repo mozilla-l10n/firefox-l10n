@@ -17,7 +17,7 @@
 <!ENTITY browserConsoleCmd.commandkey    "Ζ">
 <!ENTITY browserConsoleCmd.accesskey     "Κ">
 
-<!ENTITY responsiveDesignTool.label      "Λειτουργία αποκρίσιμου σχεδιασμού">
+<!ENTITY responsiveDesignTool.label      "Προβολή ευελιξίας σχεδίου">
 <!ENTITY responsiveDesignTool.accesskey  "α">
 
 <!ENTITY eyedropper.label                "Σταγονόμετρο χρωμάτων">
