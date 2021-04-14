@@ -7,3 +7,16 @@ default-browser-notification-message = <strong>{ -brand-short-name } instellen a
 default-browser-notification-button =
     .label = Als standaard instellen
     .accesskey = t
+
+## These strings are used for the default browser prompt. There are 2 variations
+## depending on the operating system (Windows vs other). The checkbox label and
+## secondary button are shared between the variants.
+
+default-browser-prompt-title-pin = { -brand-short-name } uw voorkeursbrowser maken?
+default-browser-prompt-message-pin = Houd { -brand-short-name } binnen handbereik – maak het uw standaardbrowser en zet het vast aan uw taakbalk.
+default-browser-prompt-button-primary-pin = Voorkeursbrowser maken
+default-browser-prompt-title-alt = { -brand-short-name } uw standaardbrowser maken?
+default-browser-prompt-message-alt = Ontvang snelheid, veiligheid en privacy, telkens als u surft.
+default-browser-prompt-button-primary-alt = Als standaardbrowser instellen
+default-browser-prompt-checkbox-label = Dit niet meer vragen
+default-browser-prompt-button-secondary = Niet nu
