@@ -303,6 +303,23 @@ identity-custom-root = Connection verified by a certificate issuer that isnae ke
 identity-passive-loaded = Pairt o this page arenae siccar (sic as images).
 identity-active-loaded = Ye've disabled bieldin on this page.
 identity-weak-encryption = The encryption on this page is stintit.
+identity-insecure-login-forms = Logins inpit on this page micht be compromised.
+identity-permissions =
+    .value = Permeesions
+identity-https-only-connection-upgraded = (upgradit tae HTTPS)
+identity-https-only-label = HTTPS-Anely Mode
+identity-https-only-dropdown-on =
+    .label = On
+identity-https-only-dropdown-off =
+    .label = Aff
+identity-https-only-dropdown-off-temporarily =
+    .label = Aff for noo
+identity-https-only-info-turn-on2 = Turn on HTTPS-Anely Mode fur this site if ye want { -brand-short-name } tae upgrade the connection when it can.
+identity-https-only-info-turn-off2 = If this page luiks mogert, ye micht want tae turn aff HTTPS-Anely Mode fur this site tae reload yaisin insiccar HTTP.
+identity-https-only-info-no-upgrade = No able tae upgrade connection fae HTTP.
+identity-permissions-storage-access-header = Cross-site cookies
+identity-permissions-storage-access-hint = These pairties can yaise cross-site cookies and site data while ye're on this site.
+identity-permissions-reload-hint = Ye'll mebbe need tae reload the page for chynges tae wirk.
 
 ## Window controls
 
