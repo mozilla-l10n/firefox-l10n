@@ -489,7 +489,7 @@ containers-remove-button =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
-sync-signedout-caption = Сомонаҳо худро бо худ гиред
+sync-signedout-caption = Сомонаҳои худро бо худ гиред
 sync-signedout-account-signin2 =
     .label = Ба { -sync-brand-short-name } ворид шавед…
     .accesskey = Б
