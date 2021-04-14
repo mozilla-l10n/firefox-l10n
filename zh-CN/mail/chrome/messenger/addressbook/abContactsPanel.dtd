@@ -23,7 +23,7 @@
 <!ENTITY addtoToFieldMenu.accesskey         "A">
 <!ENTITY addtoCcFieldMenu.label             "添加至抄送栏">
 <!ENTITY addtoCcFieldMenu.accesskey         "C">
-<!ENTITY addtoBccFieldMenu.label            "添加至密件抄送栏">
+<!ENTITY addtoBccFieldMenu.label            "添加至密送栏">
 <!ENTITY addtoBccFieldMenu.accesskey        "B">
 <!ENTITY deleteAddrBookCard.label           "删除">
 <!ENTITY deleteAddrBookCard.accesskey       "D">
@@ -45,5 +45,5 @@
 <!ENTITY toButton.accesskey                 "A">
 <!ENTITY ccButton.label                     "添加至抄送：">
 <!ENTITY ccButton.accesskey                 "C">
-<!ENTITY bccButton.label                    "添加至密件抄送:">
+<!ENTITY bccButton.label                    "添加至密送:">
 <!ENTITY bccButton.accesskey                "B">
