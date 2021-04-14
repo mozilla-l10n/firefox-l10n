@@ -45,8 +45,9 @@ accessibility-text-label-issue-toolbar = Toolbars must be labeled when there is 
 ## that describe that currently selected accessible object has a keyboard accessibility
 ## issue.
 
-accessibility-keyboard-issue-semantics = Елементи који се могу фокусирати треба да имају интерактивну семантику. <a>Сазнајте више</a>
+accessibility-keyboard-issue-semantics = Елементи који могу да се фокусирају треба да буду интерактивни. <a>Сазнајте више</a>
 accessibility-keyboard-issue-tabindex = Избегавајте вредност атрибута <code>tabindex</code> која је већа од нуле. <a>Сазнајте више</a>
 accessibility-keyboard-issue-action = Интерактивни елементи треба да имају могућност активације помоћу тастатуре. <a>Сазнајте више</a>
 accessibility-keyboard-issue-focusable = Интерактивни елементи треба да имају могућност фокусирања. <a>Сазнајте више</a>
-accessibility-keyboard-issue-focus-visible = Елементу који се може фокусирати недостаје стил фокусирања. <a>Сазнајте више</a>
+accessibility-keyboard-issue-focus-visible = Елементу који може да се фокусира недостаје стил фокусирања. <a>Сазнајте више</a>
+accessibility-keyboard-issue-mouse-only = Елементи који могу да се кликну треба да имају могућност фокусирања и да буду интерактивни. <a>Сазнајте више</a>
