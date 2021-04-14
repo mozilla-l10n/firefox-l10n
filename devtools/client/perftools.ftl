@@ -7,6 +7,9 @@
 ### the remote profiling panel. There are additional profiler strings in the appmenu.ftl
 ### file that are used for the profiler popup.
 
+perftools-intro-description =
+    Les grabaciones abren <a>profiler.firefox.com</a> nuna llingüeta nueva.
+    Tolos datos atróxense llocalmente mas pues escoyer si xubilos pa compartilos.
 
 ## All of the headings for the various sections.
 
@@ -19,6 +22,7 @@ perftools-heading-threads = Filos
 
 ##
 
+perftools-description-intro = Les grabaciones abren <a>profiler.firefox.com</a> nuna llingüeta nueva. Tolos datos atróxense llocalmente mas pues escoyer si xubilos pa compartilos.
 
 ## The controls for the interval at which the profiler samples the code.
 
