@@ -5,8 +5,6 @@
 
 ## App Menu
 
-appmenuitem-update-banner =
-    .label-update-downloading = Baxando l'anovamientu de { -brand-shorter-name }
 appmenuitem-protection-dashboard-title = Panel de proteiciones
 appmenuitem-customize-mode =
     .label = Personalizar…
@@ -19,8 +17,6 @@ appmenuitem-new-private-window =
     .label = Ventana privada nueva
 appmenuitem-passwords =
     .label = Contraseñes
-appmenuitem-extensions-and-themes =
-    .label = Estensiones y estilos
 appmenuitem-addons-and-themes =
     .label = Complementos y estilos
 appmenuitem-find-in-page =
@@ -35,6 +31,12 @@ appmenu-menu-button-closed =
 appmenu-menu-button-opened =
     .tooltiptext = Zarrar el menú de l'aplicación
     .label = { -brand-shorter-name }
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Colar
+           *[other] Colar
+        }
 appmenu-menu-button-closed2 =
     .tooltiptext = Abrir el menú de l'aplicación
     .label = { -brand-short-name }
@@ -145,11 +147,6 @@ appmenu-about =
 appmenu-get-help =
     .label = Consiguir ayuda
     .accesskey = a
-appmenu-help-troubleshooting-info =
-    .label = Información pa iguar problemes
-    .accesskey = I
-appmenu-help-taskmanager =
-    .label = Xestor de xeres
 appmenu-help-more-troubleshooting-info =
     .label = Más información pa iguar problemes
     .accesskey = a
@@ -158,16 +155,6 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = Opinar…
     .accesskey = O
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Reaniciar colos complementos desactivaos…
-    .accesskey = R
-appmenu-help-safe-mode-with-addons =
-    .label = Reaniciar colos complementos activaos
-    .accesskey = R
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
