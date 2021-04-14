@@ -17,6 +17,7 @@ compatibility-issue-experimental = (esperimental)
 compatibility-settings-button-label = Axustes
 compatibility-settings-button-title =
     .title = Axustes
+compatibility-feedback-button-label = Opinar
 compatibility-feedback-button-title =
     .title = Opinar
 
