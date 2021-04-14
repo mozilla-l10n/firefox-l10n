@@ -115,3 +115,11 @@ move-attachment-last-panel-button =
 button-return-receipt =
     .label = Ontvangstbevestiging
     .tooltiptext = Een ontvangstbevestiging voor dit bericht vragen
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+consider-bcc-notification = De { $count } ontvangers in Aan en Cc kunnen elkaars adres zien. U kunt voorkomen dat ontvangers worden onthuld door in plaats hiervan Bcc te gebruiken.
+many-public-recipients-bcc =
+    .label = In plaats hiervan Bcc gebruiken
+    .accesskey = g
+many-public-recipients-ignore =
+    .label = Ontvangers openbaar laten
+    .accesskey = l
