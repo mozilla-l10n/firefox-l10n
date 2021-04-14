@@ -78,6 +78,13 @@ serviceworker-empty-intro-link = Сазнајте више
 serviceworker-empty-suggestions-aboutdebugging2 = Прикажи service worker-е са других домена
 # Header for the Manifest page when we have an actual manifest
 manifest-view-header = Манифест апликације
+# Header for the Manifest page when there's no manifest to inspect
+# The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
+manifest-empty-intro = Прво додајте манифест веб-апликације да бисте га прегледали овде. <a>Сазнајте више</a>
+# Header for the Manifest page when there's no manifest to inspect
+manifest-empty-intro2 = Манифест веб-апликације није пронађен
+# The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
+manifest-empty-intro-link = Сазнајте како да додате манифест
 # Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
 manifest-item-warnings = Грешке и упозорења
 # Header for the Identity section of Manifest inspection displayed in the application panel.
@@ -86,6 +93,18 @@ manifest-item-identity = Идентитет
 manifest-item-presentation = Презентација
 # Header for the Icon section of Manifest inspection displayed in the application panel.
 manifest-item-icons = Иконе
+# Text displayed while we are loading the manifest file
+manifest-loading = Учитавање манифеста…
+# Text displayed when the manifest has been successfully loaded
+manifest-loaded-ok = Манифест је учитан.
+# Text displayed as a caption when there has been an error while trying to
+# load the manifest
+manifest-loaded-error = Дошло је до грешке при учитавању манифеста:
+# Text displayed as an error when there has been a Firefox DevTools error while
+# trying to load the manifest
+manifest-loaded-devtools-error = Грешка у Firefox-овим алаткама за програмере
+# Text displayed when the page has no manifest available
+manifest-non-existing = Манифест за преглед није пронађен.
 # Text displayed at manifest icons to label their purpose, as declared
 # in the manifest.
 manifest-icon-purpose = Намена: <code>{ $purpose }</code>
