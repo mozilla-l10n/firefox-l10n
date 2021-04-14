@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+tab-context-open-a-new-tab =
+    .label = Neuen Tab öffnen
+    .accesskey = ö
 reload-tab =
     .label = Tab neu laden
     .accesskey = d
@@ -66,15 +69,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Mehrere Tabs schließen
     .accesskey = M
-tab-context-share-url =
-    .label = Teilen
-    .accesskey = T
-tab-context-share-more =
-    .label = Mehr…
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->
@@ -94,6 +88,15 @@ move-tabs =
 move-tab =
     .label = Tab verschieben
     .accesskey = v
+tab-context-share-url =
+    .label = Teilen
+    .accesskey = T
+tab-context-share-more =
+    .label = Mehr…
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
