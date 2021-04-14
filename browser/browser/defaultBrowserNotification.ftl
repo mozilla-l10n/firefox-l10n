@@ -13,3 +13,13 @@ default-browser-notification-message =
 default-browser-notification-button =
     .label = Nastavit jako výchozí
     .accesskey = v
+
+## These strings are used for the default browser prompt. There are 2 variations
+## depending on the operating system (Windows vs other). The checkbox label and
+## secondary button are shared between the variants.
+
+default-browser-prompt-button-primary-pin = Nastavit jako výchozí prohlížeč
+default-browser-prompt-message-alt = Získejte rychlost, bezpečnost a soukromí pro své prohlížení.
+default-browser-prompt-button-primary-alt = Nastavit jako výchozí prohlížeč
+default-browser-prompt-checkbox-label = Příště se už neptat
+default-browser-prompt-button-secondary = Teď ne
