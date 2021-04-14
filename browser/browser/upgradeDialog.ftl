@@ -38,3 +38,7 @@ upgrade-dialog-theme-dark = Oscuro
     .title = Usar un tema oscuro para botones, menús y ventanas
 upgrade-dialog-theme-alpenglow = Alpenglow
     .title = Usar un tema dinámico y colorido para botones, menús y ventanas
+upgrade-dialog-theme-keep = Mantener previo
+    .title = Usar el tema que estaba instalado antes de actualizar { -brand-short-name }
+upgrade-dialog-theme-primary-button = Guardar tema
+upgrade-dialog-theme-secondary-button = No ahora
