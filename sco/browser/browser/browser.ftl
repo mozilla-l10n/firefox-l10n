@@ -302,6 +302,7 @@ identity-active-blocked = { -brand-short-name } has blocked pairts o this page t
 identity-custom-root = Connection verified by a certificate issuer that isnae kent by Mozilla.
 identity-passive-loaded = Pairt o this page arenae siccar (sic as images).
 identity-active-loaded = Ye've disabled bieldin on this page.
+identity-weak-encryption = The encryption on this page is stintit.
 
 ## Window controls
 
