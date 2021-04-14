@@ -129,6 +129,8 @@ move-attachment-last-panel-button =
 button-return-receipt =
     .label = Kwitowanka
     .tooltiptext = Kwitowanku za tutu powěsć požadać
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+consider-bcc-notification = Přijimarjo w polomaj Komu a Kopija móža adresu druhich widźeć. Ličba: { $count }. Wužiwajće město toho polo Schowana kopija, zo byšće tomu zadźěwał, zo so přijimarjo přeradźuja.
 many-public-recipients-bcc =
     .label = Schowanu kopiju město toho wužiwać
     .accesskey = S
