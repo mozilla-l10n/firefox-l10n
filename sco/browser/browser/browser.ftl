@@ -382,39 +382,214 @@ browser-tab-mute =
         [1] WHEESHT TAB
        *[other] WHEESHT { $count } TABS
     }
+browser-tab-unmute =
+    { $count ->
+        [1] UNWHEESHT TAB
+       *[other] UNWHEESHT { $count } TABS
+    }
+browser-tab-unblock =
+    { $count ->
+        [1] PLEY TAB
+       *[other] PLEY { $count } TABS
+    }
 
 ## Bookmarks toolbar items
 
+browser-import-button2 =
+    .label = Inbring buikmerks…
+    .tooltiptext = Inbring buikmerks fae anither wab-stravaiger tae { -brand-short-name }.
+bookmarks-toolbar-empty-message = For quick ingang, pit yer buikmerks here on the buikmerks toolbaur. <a data-l10n-name="manage-bookmarks">Manage buikmerks…</a>
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera =
+    .value = Camera tae share:
+    .accesskey = C
+popup-select-microphone =
+    .value = Microphone tae share:
+    .accesskey = M
+popup-select-camera-device =
+    .value = Camera:
+    .accesskey = C
+popup-select-camera-icon =
+    .tooltiptext = Camera
+popup-select-microphone-device =
+    .value = Microphone:
+    .accesskey = M
+popup-select-microphone-icon =
+    .tooltiptext = Microphone
+popup-all-windows-shared = Aw veesible windaes on yer screen will be shared.
+popup-screen-sharing-not-now =
+    .label = No Jist Noo
+    .accesskey = w
+popup-screen-sharing-never =
+    .label = Never Allow
+    .accesskey = N
+popup-silence-notifications-checkbox = Disable notifications fae { -brand-short-name } while sharin.
+popup-silence-notifications-checkbox-warning = { -brand-short-name } willnae kythe notifications while ye're sharin.
+popup-screen-sharing-block =
+    .label = Block
+    .accesskey = B
+popup-screen-sharing-always-block =
+    .label = Ayeweys block
+    .accesskey = w
+popup-mute-notifications-checkbox = Wheesht wabsite notifications while sharin
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-window = Ye're sharin { -brand-short-name }. Ither fowk can see when ye switch tae a new tab.
+sharing-warning-screen = Ye're sharin yer hale screen. Ither fowk can see when ye switch tae a new tab.
+sharing-warning-proceed-to-tab =
+    .label = Haud Forrit tae Tab
+sharing-warning-disable-for-session =
+    .label = Disable sharin bieldin for this session
 
 ## DevTools F12 popup
 
+enable-devtools-popup-description = Tae yaise the F12 shortcut, first open DevTools through the Wab Developer menu.
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = Sairch or inpit address
+# This placeholder is used when not in search mode and the user's default search
+# engine is unknown.
+urlbar-placeholder =
+    .placeholder = Sairch or inpit address
+# This placeholder is used in search mode with search engines that search the
+# entire web.
+# Variables
+#  $name (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-placeholder-search-mode-web-2 =
+    .placeholder = Sairch the Wab
+    .aria-label = Sairch wi { $name }
+# This placeholder is used in search mode with search engines that search a
+# specific site (e.g., Amazon).
+# Variables
+#  $name (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-placeholder-search-mode-other-engine =
+    .placeholder = Inpit airt-oot terms
+    .aria-label = Sairch { $name }
+# This placeholder is used when searching bookmarks.
+urlbar-placeholder-search-mode-other-bookmarks =
+    .placeholder = Inpit airt-oot terms
+    .aria-label = Sairch buikmerks
+# This placeholder is used when searching history.
+urlbar-placeholder-search-mode-other-history =
+    .placeholder = Inpit airt-oot terms
+    .aria-label = Sairch historie
+# This placeholder is used when searching open tabs.
+urlbar-placeholder-search-mode-other-tabs =
+    .placeholder = Inpit airt-oot terms
+    .aria-label = Sairch tabs
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = Sairch wi { $name } or inpit address
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Wab-stravaiger is unner remote control
+urlbar-permissions-granted =
+    .tooltiptext = Ye've gied this wabsite mair permeesions.
+urlbar-switch-to-tab =
+    .value = Switch tae tab:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = Extension:
+urlbar-go-button =
+    .tooltiptext = Gang tae the address in the Airtin Baur
+urlbar-page-action-button =
+    .tooltiptext = Page actions
+urlbar-pocket-button =
+    .tooltiptext = Save tae { -pocket-brand-name }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 
+# Used when the private browsing engine differs from the default engine.
+# The "with" format was chosen because the search engine name can end with
+# "Search", and we would like to avoid strings like "Search MSN Search".
+# Variables
+#  $engine (String): the name of a search engine
+urlbar-result-action-search-in-private-w-engine = Sairch wi { $engine } in a Preevat Windae
+# Used when the private browsing engine is the same as the default engine.
+urlbar-result-action-search-in-private = Sairch in a Preevat Windae
+# The "with" format was chosen because the search engine name can end with
+# "Search", and we would like to avoid strings like "Search MSN Search".
+# Variables
+#  $engine (String): the name of a search engine
+urlbar-result-action-search-w-engine = Sairch wi { $engine }
+urlbar-result-action-sponsored = Sponsored
+urlbar-result-action-switch-tab = Switch tae Tab:
+urlbar-result-action-visit = Veesit
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-before-tabtosearch-web = Press Tab tae sairch wi { $engine }
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-before-tabtosearch-other = Press Tab tae sairch { $engine }
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-tabtosearch-web = Sairch wi { $engine } straicht fae the address baur
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-tabtosearch-other-engine = Sairch { $engine } straicht fae the address baur
+# Action text for copying to clipboard.
+urlbar-result-action-copy-to-clipboard = Copy
+# Shows the result of a formula expression being calculated, the last = sign will be shown
+# as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result = = { $result }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
+urlbar-result-action-search-bookmarks = Sairch Buikmerks
+urlbar-result-action-search-history = Sairch Historie
+urlbar-result-action-search-tabs = Sairch Tabs
 
 ## Full Screen and Pointer Lock UI
 
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is full screen, e.g. "mozilla.org"
+fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> is noo hale screen
+fullscreen-warning-no-domain = This document is noo hale screen
+fullscreen-exit-button = Ootgang fae Hale Screen (Esc)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-exit-mac-button = Ootgang fae Hale Screen (esc)
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
+pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> has control o yer pynter. Press Esc tae tak control back.
+pointerlock-warning-no-domain = This document has control o yer pynter. Press Esc tae tak control back.
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>Pairt o this page crashed.</strong> Tae let { -brand-product-name } ken aboot this issue and get it sortit faster, gonnae inpit a report.
+crashed-subframe-learnmore-link =
+    .value = Lairn mair
+crashed-subframe-submit =
+    .label = Inpit report
+    .accesskey = S
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-show-all-bookmarks =
+    .label = Kythe Aw Buikmerks
+bookmarks-manage-bookmarks =
+    .label = Manager Buikmerks
 
 ## Library Panel items
 
