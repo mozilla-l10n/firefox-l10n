@@ -117,3 +117,5 @@ move-attachment-last-panel-button =
 button-return-receipt =
     .label = Confirmação
     .tooltiptext = Solicitar uma confirmação de leitura desta mensagem
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+consider-bcc-notification = Os { $count } destinatários em Para e Cc podem ver os endereços uns dos outros. Você pode evitar revelar destinatários usando Cco.
