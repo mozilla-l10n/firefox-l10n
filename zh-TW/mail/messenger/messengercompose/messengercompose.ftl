@@ -112,3 +112,11 @@ move-attachment-last-panel-button =
 button-return-receipt =
     .label = 收件回執
     .tooltiptext = 要求對方收信後寄發回執
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+consider-bcc-notification = 「給」與「副本」收件者共有 { $count } 位，都會看到彼此的收件信箱。您可以改用「密件副本」來避免揭露收件者資訊。
+many-public-recipients-bcc =
+    .label = 改為密件副本收件者
+    .accesskey = U
+many-public-recipients-ignore =
+    .label = 保持收件者名單公開
+    .accesskey = K
