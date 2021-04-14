@@ -36,6 +36,8 @@ about-webrtc-local-sdp-heading-answer = Lokálny SDP (Answer)
 about-webrtc-remote-sdp-heading = Vzdialený SDP
 about-webrtc-remote-sdp-heading-offer = Vzdialený SDP (Offer)
 about-webrtc-remote-sdp-heading-answer = Vzdialený SDP (Answer)
+about-webrtc-sdp-history-heading = História SDP
+about-webrtc-sdp-parsing-errors-heading = Chyby spracovania SDP
 
 ##
 
@@ -56,14 +58,10 @@ about-webrtc-ice-pair-bytes-sent = Odoslané bajty:
 about-webrtc-ice-pair-bytes-received = Prijaté bajty:
 about-webrtc-ice-component-id = ID komponentu
 
-##
-
-
 ## "Avg." is an abbreviation for Average. These are used as data labels.
 
-
-##
-
+about-webrtc-avg-bitrate-label = Priem. dátový tok:
+about-webrtc-avg-framerate-label = Priem. snímok za sek.:
 
 ## These adjectives are used to label a line of statistics collected for a peer
 ## connection. The data represents either the local or remote end of the
@@ -120,17 +118,27 @@ about-webrtc-fold-show-msg = zobraziť podrobnosti
     .title = kliknutím rozbalíte túto sekciu
 about-webrtc-fold-hide-msg = skryť podrobnosti
     .title = kliknutím skryjete túto sekciu
+about-webrtc-dropped-frames-label = Vynechané snímky:
+about-webrtc-discarded-packets-label = Zahodené pakety:
 about-webrtc-decoder-label = Dekodér
 about-webrtc-encoder-label = Enkodér
+about-webrtc-show-tab-label = Zobraziť kartu
 about-webrtc-width-px = Šírka (px)
 about-webrtc-height-px = Výška (px)
+about-webrtc-consecutive-frames = Po sebe idúce snímky
 about-webrtc-time-elapsed = Uplynutý čas (s)
+about-webrtc-estimated-framerate = Odhadovaná frekvencia snímkov
+about-webrtc-rotation-degrees = Rotácia (stupne)
+about-webrtc-first-frame-timestamp = Časová známka príjmu prvého snímku
+about-webrtc-last-frame-timestamp = Časová známka príjmu posledného snímku
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
 
 ##
 
+# Section header for estimated bandwidths of WebRTC media flows
+about-webrtc-bandwidth-stats-heading = Odhadovaná šírka pásma
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
