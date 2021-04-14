@@ -117,3 +117,11 @@ move-attachment-last-panel-button =
 button-return-receipt =
     .label = Recibo
     .tooltiptext = Pedir recibo por este mensaje
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+consider-bcc-notification = Los destinatarios de { $count } en Para y Cc pueden ver la dirección de los otros. Puede evitar revelar destinatarios usando Cco en su lugar.
+many-public-recipients-bcc =
+    .label = Usar Cco En Su Lugar
+    .accesskey = U
+many-public-recipients-ignore =
+    .label = Mantener públicos a los destinatarios
+    .accesskey = K
