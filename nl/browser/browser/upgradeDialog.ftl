@@ -9,7 +9,7 @@
 ## New changes screen
 
 # This title can be explicitly wrapped to control which words are on which line.
-upgrade-dialog-new-title = Zeg hallo tegen een nieuwe { -brand-short-name }
+upgrade-dialog-new-title = Hartelijk welkom bij een nieuwe { -brand-short-name }
 upgrade-dialog-new-subtitle = Ontworpen om u sneller te brengen waar u heen wilt
 upgrade-dialog-new-item-menu-title = Gestroomlijnde werkbalk en menu’s
 upgrade-dialog-new-item-menu-description = Geef prioriteit aan de belangrijke dingen, zodat u vindt wat u nodig hebt.
