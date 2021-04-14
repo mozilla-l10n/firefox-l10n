@@ -112,8 +112,10 @@ move-attachment-last-panel-button =
 button-return-receipt =
     .label = 回执
     .tooltiptext = 要求对方收件后发送回执
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+consider-bcc-notification = “收件人（To）”与“抄送（Cc）”共有 { $count } 位，他们可以看到彼此的邮箱地址。您可以改用“密送”来避免泄露收件人信息。
 many-public-recipients-bcc =
-    .label = 改用密件抄送
+    .label = 改用密送
     .accesskey = U
 many-public-recipients-ignore =
     .label = 保持收件人公开
