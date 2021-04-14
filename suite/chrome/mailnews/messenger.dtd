@@ -158,7 +158,7 @@
 <!ENTITY sortByTagsCmd.accesskey "g">
 <!ENTITY sortByJunkStatusCmd.label "垃圾状态">
 <!ENTITY sortByJunkStatusCmd.accesskey "J">
-<!ENTITY sortBySubjectCmd.label "标题">
+<!ENTITY sortBySubjectCmd.label "主题">
 <!ENTITY sortBySubjectCmd.accesskey "S">
 <!ENTITY sortByFromCmd.label "从">
 <!ENTITY sortByFromCmd.accesskey "F">
@@ -201,7 +201,7 @@
 <!ENTITY ignoredThreadsCmd.label "已忽略的话题">
 <!ENTITY ignoredThreadsCmd.accesskey "I">
 
-<!ENTITY headersMenu.label "标题头">
+<!ENTITY headersMenu.label "标题">
 <!ENTITY headersMenu.accesskey "H">
 <!ENTITY headersAllCmd.label "所有">
 <!ENTITY headersAllCmd.accesskey "A">
