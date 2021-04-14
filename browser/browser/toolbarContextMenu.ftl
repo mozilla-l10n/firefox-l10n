@@ -2,12 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+toolbar-context-menu-open-a-new-tab =
+    .label = Otevřít nový panel
+    .accesskey = O
 toolbar-context-menu-reload-selected-tab =
     .label = Znovu načíst vybraný panel
-    .accesskey = o
+    .accesskey = n
 toolbar-context-menu-reload-selected-tabs =
     .label = Znovu načíst vybrané panely
-    .accesskey = o
+    .accesskey = n
 toolbar-context-menu-bookmark-selected-tab =
     .label = Přidat vybraný panel do záložek…
     .accesskey = P

@@ -5,14 +5,6 @@
 
 ## App Menu
 
-appmenuitem-update-banner =
-    .label-update-downloading =
-        Stahování aktualizace { -brand-shorter-name.gender ->
-            [masculine] { -brand-shorter-name(case: "gen") }
-            [feminine] { -brand-shorter-name(case: "gen") }
-            [neuter] { -brand-shorter-name(case: "gen") }
-           *[other] { "" }
-        }
 appmenuitem-update-banner2 =
     .label-update-downloading =
         Stahování aktualizace { -brand-shorter-name.gender ->
@@ -24,6 +16,18 @@ appmenuitem-update-banner2 =
     .label-update-available = Nová aktualizace — stáhnout
     .label-update-manual = Nová aktualizace — stáhnout
     .label-update-unsupported = Nelze nainstalovat novou aktualizaci
+    .label-update-restart = Nová aktualizace — restartovat
+appmenuitem-update-banner3 =
+    .label-update-downloading =
+        Stahování aktualizace { -brand-shorter-name.gender ->
+            [masculine] { -brand-shorter-name(case: "gen") }
+            [feminine] { -brand-shorter-name(case: "gen") }
+            [neuter] { -brand-shorter-name(case: "gen") }
+           *[other] { "" }
+        }
+    .label-update-available = Nová aktualizace — stáhnout
+    .label-update-manual = Nová aktualizace — stáhnout
+    .label-update-unsupported = Nekompatibilní systém pro novou aktualizaci
     .label-update-restart = Nová aktualizace — restartovat
 appmenuitem-protection-dashboard-title = Přehled ochrany soukromí
 appmenuitem-customize-mode =
@@ -37,8 +41,6 @@ appmenuitem-new-private-window =
     .label = Nové anonymní okno
 appmenuitem-passwords =
     .label = Přihlašovací údaje
-appmenuitem-extensions-and-themes =
-    .label = Rozšíření a vzhledy
 appmenuitem-addons-and-themes =
     .label = Doplňky a vzhledy
 appmenuitem-find-in-page =
@@ -174,11 +176,6 @@ appmenu-about =
 appmenu-get-help =
     .label = Získat pomoc
     .accesskey = p
-appmenu-help-troubleshooting-info =
-    .label = Technické informace
-    .accesskey = T
-appmenu-help-taskmanager =
-    .label = Správce úloh
 appmenu-help-more-troubleshooting-info =
     .label = Další technické informace
     .accesskey = t
@@ -187,16 +184,6 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = Odeslat zpětnou vazbu…
     .accesskey = d
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Restartovat se zakázanými doplňky…
-    .accesskey = R
-appmenu-help-safe-mode-with-addons =
-    .label = Restartovat s povolenými doplňky
-    .accesskey = R
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

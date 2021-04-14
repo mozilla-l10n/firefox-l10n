@@ -18,7 +18,28 @@ default-browser-notification-button =
 ## depending on the operating system (Windows vs other). The checkbox label and
 ## secondary button are shared between the variants.
 
+default-browser-prompt-title-pin =
+    Chcete { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "acc") }
+        [feminine] { -brand-short-name(case: "acc") }
+        [neuter] { -brand-short-name(case: "acc") }
+       *[other] aplikaci { -brand-short-name }
+    } nastavit jako svůj hlavní prohlížeč?
+default-browser-prompt-message-pin =
+    { -brand-short-name.gender ->
+        [masculine] Mějte { -brand-short-name(case: "acc") } nastavený jako výchozí prohlížeč a připnutý na své liště.
+        [feminine] Mějte { -brand-short-name(case: "acc") } nastavenou jako výchozí prohlížeč a připnutou na své liště.
+        [neuter] Mějte { -brand-short-name(case: "acc") } nastavené jako výchozí prohlížeč a připnuté na své liště.
+       *[other] Mějte aplikaci { -brand-short-name } nastavenou jako výchozí prohlížeč a připnutou na své liště.
+    }
 default-browser-prompt-button-primary-pin = Nastavit jako hlavní prohlížeč
+default-browser-prompt-title-alt =
+    Chcete { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "acc") }
+        [feminine] { -brand-short-name(case: "acc") }
+        [neuter] { -brand-short-name(case: "acc") }
+       *[other] aplikaci { -brand-short-name }
+    } nastavit jako svůj výchozí prohlížeč?
 default-browser-prompt-message-alt = Získejte rychlost, bezpečnost a soukromí pro své prohlížení.
 default-browser-prompt-button-primary-alt = Nastavit jako výchozí prohlížeč
 default-browser-prompt-checkbox-label = Příště se už neptat

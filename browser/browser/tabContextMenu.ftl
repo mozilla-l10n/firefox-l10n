@@ -2,9 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+tab-context-open-a-new-tab =
+    .label = Otevřít nový panel
+    .accesskey = O
 reload-tab =
     .label = Znovu načíst panel
-    .accesskey = o
+    .accesskey = n
 select-all-tabs =
     .label = Vybrat všechny panely
     .accesskey = a
@@ -29,7 +32,7 @@ close-other-tabs =
     .accesskey = o
 reload-tabs =
     .label = Znovu načíst panely
-    .accesskey = o
+    .accesskey = n
 pin-tab =
     .label = Připnout panel
     .accesskey = a
@@ -66,15 +69,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Zavřít několik panelů
     .accesskey = k
-tab-context-share-url =
-    .label = Sdílet
-    .accesskey = S
-tab-context-share-more =
-    .label = Další…
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->
@@ -96,6 +90,15 @@ move-tabs =
 move-tab =
     .label = Přesunout panel
     .accesskey = s
+tab-context-share-url =
+    .label = Sdílet
+    .accesskey = S
+tab-context-share-more =
+    .label = Další…
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
