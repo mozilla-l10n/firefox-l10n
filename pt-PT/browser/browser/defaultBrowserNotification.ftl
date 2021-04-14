@@ -13,8 +13,10 @@ default-browser-notification-button =
 ## secondary button are shared between the variants.
 
 default-browser-prompt-title-pin = Tornar o { -brand-short-name } o seu navegador principal?
+default-browser-prompt-message-pin = Manter o { -brand-short-name } na ponta dos seus dedos — torne o mesmo no seu navegador predefinido e fixe-o à sua barra de ferramentas.
 default-browser-prompt-button-primary-pin = Tornar o navegador principal
 default-browser-prompt-title-alt = Tornar o { -brand-short-name } no seu navegador predefinido?
+default-browser-prompt-message-alt = Obtenha velocidade, segurança e privacidade sempre que navega.
 default-browser-prompt-button-primary-alt = Definir como navegador predefinido
 default-browser-prompt-checkbox-label = Não perguntar novamente
 default-browser-prompt-button-secondary = Agora não

@@ -5,13 +5,17 @@
 
 ## App Menu
 
-appmenuitem-update-banner =
-    .label-update-downloading = A transferir atualização do { -brand-shorter-name }
 appmenuitem-update-banner2 =
     .label-update-downloading = A transferir a atualização do { -brand-shorter-name }
     .label-update-available = Atualização disponível — transferir agora
     .label-update-manual = Atualização disponível — transferir agora
     .label-update-unsupported = Não foi possível atualizar
+    .label-update-restart = Atualização disponível — reiniciar agora
+appmenuitem-update-banner3 =
+    .label-update-downloading = A transferir atualização do { -brand-shorter-name }
+    .label-update-available = Atualização disponível — transferir agora
+    .label-update-manual = Atualização disponível — transferir agora
+    .label-update-unsupported = Não foi possível atualizar — sistema incompatível
     .label-update-restart = Atualização disponível — reiniciar agora
 appmenuitem-protection-dashboard-title = Painel das proteções
 appmenuitem-customize-mode =
@@ -25,8 +29,6 @@ appmenuitem-new-private-window =
     .label = Nova janela privada
 appmenuitem-passwords =
     .label = Palavras-passe
-appmenuitem-extensions-and-themes =
-    .label = Temas e extensões
 appmenuitem-addons-and-themes =
     .label = Extras e temas
 appmenuitem-find-in-page =
@@ -162,11 +164,6 @@ appmenu-about =
 appmenu-get-help =
     .label = Obter ajuda
     .accesskey = j
-appmenu-help-troubleshooting-info =
-    .label = Informação para resolução de problemas
-    .accesskey = r
-appmenu-help-taskmanager =
-    .label = Gestor de tarefas
 appmenu-help-more-troubleshooting-info =
     .label = Mais informação para diagnóstico de problemas
     .accesskey = g
@@ -175,16 +172,6 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = Submeter feedback…
     .accesskey = S
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Reiniciar com os extras desativados…
-    .accesskey = R
-appmenu-help-safe-mode-with-addons =
-    .label = Reiniciar com os extras ativados
-    .accesskey = R
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
