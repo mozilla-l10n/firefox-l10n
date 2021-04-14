@@ -7,3 +7,10 @@ default-browser-notification-message = <strong>¿Establecer { -brand-short-name 
 default-browser-notification-button =
     .label = Establecer como predeterminado
     .accesskey = S
+
+## These strings are used for the default browser prompt. There are 2 variations
+## depending on the operating system (Windows vs other). The checkbox label and
+## secondary button are shared between the variants.
+
+default-browser-prompt-checkbox-label = No volver a preguntar
+default-browser-prompt-button-secondary = Ahora no
