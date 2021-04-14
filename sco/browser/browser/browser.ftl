@@ -331,17 +331,57 @@ identity-remove-cert-exception =
     .label = Remuive Exception
     .accesskey = R
 identity-description-insecure = Yer connection tae this site isnae preevat. Information ye inpit micht be seen by ithers (likesay, passwirds, messages, credit cairds, etc.).
+identity-description-insecure-login-forms = The login information ye inpit on this page isnae siccar and micht be compromised.
+identity-description-weak-cipher-intro = Yer connection tae this wabsite isnae preevat and yaises stintit encryption.
+identity-description-weak-cipher-risk = Ither fowk can see yer information or chynge the wabsite's behaviour.
+identity-description-active-blocked = { -brand-short-name } has blocked pairts o this page that arenae siccar. <label data-l10n-name="link">Lairn Mair</label>
+identity-description-passive-loaded = Yer connection isnae preevat and information ye share wi the site micht be seen by ithers.
+identity-description-passive-loaded-insecure = This wabsite haud content that isnae siccar (sic as images). <label data-l10n-name="link">Lairn Mair</label>
+identity-description-passive-loaded-mixed = Although { -brand-short-name } has blocked some content, there is aye content on the page that isnae siccar (sic as images). <label data-l10n-name="link">Lairn Mair</label>
+identity-description-active-loaded = This wabsite hauds content that isnae siccar (sic as scripts) and yer connection tae it isnae preevat.
+identity-description-active-loaded-insecure = Information ye share wi this site micht be seen by ithers (likesay, passwirds, messages, credit cairds, etc.).
+identity-learn-more =
+    .value = Lairn Mair
+identity-disable-mixed-content-blocking =
+    .label = Disable bieldin jist the noo
+    .accesskey = D
+identity-enable-mixed-content-blocking =
+    .label = Enable bieldin
+    .accesskey = E
+identity-more-info-link-text =
+    .label = Mair Information
 
 ## Window controls
 
+browser-window-minimize-button =
+    .tooltiptext = Mak Tottie
+browser-window-maximize-button =
+    .tooltiptext = Mak Muckle
+browser-window-restore-down-button =
+    .tooltiptext = Restore Doon
+browser-window-close-button =
+    .tooltiptext = Sneck
 
 ## Tab actions
 
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = PLAYIN
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = WHEESHT
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = AUTOPLEY BLOCKED
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = PICTUR-IN-PICTUR
 
 ## These labels should be written in all capital letters if your locale supports them.
 ## Variables:
 ##  $count (number): number of affected tabs
 
+browser-tab-mute =
+    { $count ->
+        [1] WHEESHT TAB
+       *[other] WHEESHT { $count } TABS
+    }
 
 ## Bookmarks toolbar items
 
