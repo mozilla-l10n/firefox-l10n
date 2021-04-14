@@ -351,6 +351,9 @@ popup-silence-notifications-checkbox-warning = { -brand-short-name } nun va amos
 popup-screen-sharing-block =
     .label = Bloquiar
     .accesskey = B
+popup-screen-sharing-always-block =
+    .label = Bloquiar siempres
+    .accesskey = s
 popup-mute-notifications-checkbox = Desactivar los avisos de los sitios web mentanto se comparte
 
 ## WebRTC window or screen share tab switch warning
@@ -414,9 +417,6 @@ pointerlock-warning-no-domain = Esti documentu tien el control del punteru. Prim
 
 ## Subframe crash notification
 
-crashed-subframe-learnmore =
-    .label = Lleer más
-    .accesskey = L
 crashed-subframe-learnmore-link =
     .value = Lleer más
 
@@ -424,8 +424,6 @@ crashed-subframe-learnmore-link =
 
 bookmarks-manage-bookmarks =
     .label = Xestionar los marcadores
-bookmarks-recent-bookmarks-panel =
-    .value = Marcadores de recién
 bookmarks-recent-bookmarks-panel-subheader = Marcadores de recién
 bookmarks-toolbar-chevron =
     .tooltiptext = Amosar más marcadores
