@@ -105,6 +105,9 @@ manifest-loaded-error = Дошло је до грешке при учитава�
 manifest-loaded-devtools-error = Грешка у Firefox-овим алаткама за програмере
 # Text displayed when the page has no manifest available
 manifest-non-existing = Манифест за преглед није пронађен.
+# Text displayed when the page has a manifest embedded in a Data URL and
+# thus we cannot link to it.
+manifest-json-link-data-url = Манифест је уграђен у data URL.
 # Text displayed at manifest icons to label their purpose, as declared
 # in the manifest.
 manifest-icon-purpose = Намена: <code>{ $purpose }</code>
