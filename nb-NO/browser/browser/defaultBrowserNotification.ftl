@@ -7,3 +7,10 @@ default-browser-notification-message = <strong>Bruke { -brand-short-name } som s
 default-browser-notification-button =
     .label = Bruk som standard
     .accesskey = B
+
+## These strings are used for the default browser prompt. There are 2 variations
+## depending on the operating system (Windows vs other). The checkbox label and
+## secondary button are shared between the variants.
+
+default-browser-prompt-title-pin = Gjør { -brand-short-name } til din standardnettleser?
+default-browser-prompt-button-primary-pin = Gjør til standardnettleser?
