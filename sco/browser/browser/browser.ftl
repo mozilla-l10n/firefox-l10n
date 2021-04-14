@@ -71,6 +71,26 @@ urlbar-geolocation-notification-anchor =
     .tooltiptext = Open airtin speirin panel
 urlbar-xr-notification-anchor =
     .tooltiptext = Open virtual reality permeesion panel
+urlbar-storage-access-anchor =
+    .tooltiptext = Open wab-stravaigin activity permeesion panel
+urlbar-translate-notification-anchor =
+    .tooltiptext = Owerset this page
+urlbar-web-rtc-share-screen-notification-anchor =
+    .tooltiptext = Manage sharin yer windaes or screen wi the site
+urlbar-indexed-db-notification-anchor =
+    .tooltiptext = Open affline storage message panel
+urlbar-password-notification-anchor =
+    .tooltiptext = Open save passwird message panel
+urlbar-translated-notification-anchor =
+    .tooltiptext = Manage page owersettin
+urlbar-plugins-notification-anchor =
+    .tooltiptext = Manage plug-in yaise
+urlbar-web-rtc-share-devices-notification-anchor =
+    .tooltiptext = Manage sharin yer camera and/or microphone wi the site
+urlbar-autoplay-notification-anchor =
+    .tooltiptext = Open autopley panel
+urlbar-persistent-storage-notification-anchor =
+    .tooltiptext = Store data in Persistent Storage
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
