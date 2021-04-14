@@ -5,13 +5,17 @@
 
 ## App Menu
 
-appmenuitem-update-banner =
-    .label-update-downloading = Lastar ned ned { -brand-shorter-name }-oppdatering
 appmenuitem-update-banner2 =
     .label-update-downloading = Lastar ned { -brand-shorter-name }-oppdatering
     .label-update-available = Oppdatering tilgjengeleg — last ned no
     .label-update-manual = Oppdatering tilgjengeleg — last ned no
     .label-update-unsupported = Klarte ikkje å oppdatere
+    .label-update-restart = Oppdatering tilgjengeleg — start på nytt
+appmenuitem-update-banner3 =
+    .label-update-downloading = Lastar ned { -brand-shorter-name }-oppdatering
+    .label-update-available = Oppdatering tilgjengeleg — last ned no
+    .label-update-manual = Oppdatering tilgjengeleg — last ned no
+    .label-update-unsupported = Kan ikkje oppdatere — systemet er inkompatibelt
     .label-update-restart = Oppdatering tilgjengeleg — start på nytt
 appmenuitem-protection-dashboard-title = Tryggingspanel
 appmenuitem-customize-mode =
@@ -25,8 +29,6 @@ appmenuitem-new-private-window =
     .label = Nytt privat vindauge
 appmenuitem-passwords =
     .label = Passord
-appmenuitem-extensions-and-themes =
-    .label = Utvidingar og tema
 appmenuitem-addons-and-themes =
     .label = Tillegg og tema
 appmenuitem-find-in-page =
@@ -162,11 +164,6 @@ appmenu-about =
 appmenu-get-help =
     .label = Få hjelp
     .accesskey = F
-appmenu-help-troubleshooting-info =
-    .label = Feilsøking
-    .accesskey = e
-appmenu-help-taskmanager =
-    .label = Aktivitetshandterar
 appmenu-help-more-troubleshooting-info =
     .label = Meir feilsøkingsinformasjon
     .accesskey = M
@@ -175,16 +172,6 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = Gje tilbakemelding…
     .accesskey = G
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Start på nytt med avslåtte tillegg…
-    .accesskey = S
-appmenu-help-safe-mode-with-addons =
-    .label = Start på nytt med påslåtte tillegg
-    .accesskey = S
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
