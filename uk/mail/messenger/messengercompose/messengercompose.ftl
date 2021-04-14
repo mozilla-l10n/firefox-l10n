@@ -123,3 +123,11 @@ move-attachment-last-panel-button =
 button-return-receipt =
     .label = Підтвердження отримання
     .tooltiptext = Надсилати запит про підтвердження отримання цього повідомлення
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+consider-bcc-notification = { $count } одержувачі у Кому та Копія можуть бачити адресу одне одного. Ви можете уникнути розголошення одержувачів, використовуючи замість цього приховану копію.
+many-public-recipients-bcc =
+    .label = Використовувати приховану копію натомість
+    .accesskey = В
+many-public-recipients-ignore =
+    .label = Залишити отримувачів видимими
+    .accesskey = З
