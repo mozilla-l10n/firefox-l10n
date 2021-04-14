@@ -89,6 +89,12 @@ onboarding-multistage-set-default-subtitle = Velocidá, seguranza y privacidá a
 onboarding-multistage-set-default-primary-button-label = Predeterminar
 onboarding-multistage-set-default-secondary-button-label = Agora non
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-pin-default-header = Fai que <span data-l10n-name="zap">{ -brand-short-name }</span> tea a un clic
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-help-text = Esto va fixar { -brand-short-name } na barra de xeres y va abrir los axustes
+onboarding-multistage-pin-default-primary-button-label = Convertir a { -brand-short-name } nel restolador primariu
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Importa les tos contraseñes, <br/>marcadores y <span data-l10n-name="zap">más</span>
 onboarding-multistage-import-subtitle = ¿Vienes d'otru restolador? Importalo too a { -brand-short-name } ye perfácil.
@@ -104,7 +110,6 @@ onboarding-welcome-steps-indicator =
 # automatically added to the text inside it. "look" should stay inside the span.
 onboarding-multistage-theme-header = Escoyeta d'un <span data-l10n-name="zap">estilu</span>
 onboarding-multistage-theme-subtitle = Personaliza { -brand-short-name } con un estilu.
-onboarding-multistage-theme-primary-button-label = Guardar l'estilu
 onboarding-multistage-theme-primary-button-label2 = Fecho
 onboarding-multistage-theme-secondary-button-label = Agora non
 # Automatic theme uses operating system color settings
