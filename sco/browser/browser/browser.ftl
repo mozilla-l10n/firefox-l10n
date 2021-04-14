@@ -631,27 +631,81 @@ bookmarks-tools =
     .label = Buikmerkin Tools
 bookmarks-bookmark-edit-panel =
     .label = Edit This Buikmerk
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = Buikmerks Toolbaur
+    .accesskey = B
+    .aria-label = Buikmerks
+bookmarks-toolbar-menu =
+    .label = Buikmerks Toolbaur
+bookmarks-toolbar-placeholder =
+    .title = Buikmerks Toolbaur Items
+bookmarks-toolbar-placeholder-button =
+    .label = Buikmerks Toolbaur Items
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = Buikmerk Current Tab
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = Buikmerks
+library-recent-activity-title =
+    .value = Recent Activity
 
 ## Pocket toolbar button
 
+save-to-pocket-button =
+    .label = Save tae { -pocket-brand-name }
+    .tooltiptext = Save tae { -pocket-brand-name }
 
 ## Customize Toolbar Buttons
 
+# Variables:
+#  $shortcut (String): keyboard shortcut to open the add-ons manager
+toolbar-addons-themes-button =
+    .label = Eik-ons and themes
+    .tooltiptext = Manage yer eik-ons and themes { $shortcut }
+# Variables:
+#  $shortcut (String): keyboard shortcut to open settings (only on macOS)
+toolbar-settings-button =
+    .label = Settins
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Open settins ({ $shortcut })
+           *[other] Open settins
+        }
 
 ## More items
 
+more-menu-go-offline =
+    .label = Wirk Affline
+    .accesskey = k
 
 ## EME notification panel
 
+eme-notifications-drm-content-playing = Some audio or video on this site yaises DRM saftware, and that micht leemit whit { -brand-short-name } can let ye dae wi it.
+eme-notifications-drm-content-playing-manage = Manage settins
+eme-notifications-drm-content-playing-manage-accesskey = M
+eme-notifications-drm-content-playing-dismiss = Dismiss
+eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Password save/update panel
 
+panel-save-update-username = Yaiser nemme
+panel-save-update-password = Passwird
 
 ## Add-on removal warning
 
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = Remuive { $name }?
+addon-removal-abuse-report-checkbox = Report this extension tae { -vendor-short-name }
 
 ## Remote / Synced tabs
 
+remote-tabs-manage-account =
+    .label = Manage Accoont
+remote-tabs-sync-now = Sync Noo
