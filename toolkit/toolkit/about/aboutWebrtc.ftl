@@ -33,10 +33,13 @@ about-webrtc-aec-logging-on-state-label = Parar el rexistru AEC
 ## connection. The data represents either the local or remote end of the
 ## connection.
 
+about-webrtc-type-local = Llocal
 
 ##
 
 about-webrtc-save-page-label = Guardar la páxina
+about-webrtc-debug-mode-off-state-label = Aniciar el mou de depuración
+about-webrtc-debug-mode-on-state-label = Parar el mou de depuración
 about-webrtc-stats-heading = Estadístiques de la sesión
 about-webrtc-stats-clear = Llimpiar l'historial
 about-webrtc-log-heading = Rexistru de conexones
@@ -49,9 +52,16 @@ about-webrtc-log-clear = Llimpiar el rexistru
 ##  $url (String) - The url of the site which opened the PeerConnection.
 ##  $now (Date) - The JavaScript timestamp at the time the report was generated.
 
+about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
+about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (zarróse) { $now }
 
 ##
 
+about-webrtc-local-candidate = Candidatu llocal
+about-webrtc-remote-candidate = Candidatu remotu
+about-webrtc-priority = Prioridá
+about-webrtc-width-px = Anchor (px)
+about-webrtc-height-px = Altor (px)
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
