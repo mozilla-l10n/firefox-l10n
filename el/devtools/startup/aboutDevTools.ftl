@@ -36,7 +36,7 @@ features-network-title = Δίκτυο
 features-network-desc = Εποπτεία των αιτημάτων δικτύου που ενδέχεται να καθυστερούν ή να αποκλείσουν την ιστοσελίδα σας. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-storage-title = Αποθήκευση
 features-storage-desc = Προσθήκη, τροποποίηση και διαγραφή προσωρινής μνήμης, cookies, βάσεων δεδομένων και δεδομένων συνεδρίας. <a data-l10n-name="learn-more">{ features-learn-more }</a>
-features-responsive-title = Λειτ. αποκρίσιμου σχεδιασμού
+features-responsive-title = Δοκιμή ευελιξίας σχεδίου
 features-responsive-desc = Δοκιμή ιστοσελίδων σε εξομοιωτές συσκευών στο πρόγραμμα περιήγησής σας. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-visual-editing-title = Οπτική επεξεργασία
 features-visual-editing-desc = Μικρο-ρύθμιση εφέ κίνησης, στοίχισης και γεμίσματος. <a data-l10n-name="learn-more">{ features-learn-more }</a>
