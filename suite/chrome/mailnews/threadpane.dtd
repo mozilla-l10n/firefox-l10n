@@ -6,7 +6,7 @@
 <!ENTITY fromColumn.label "从">
 <!ENTITY recipientColumn.label "接收者">
 <!ENTITY attachmentColumn.label "附件">
-<!ENTITY subjectColumn.label "标题">
+<!ENTITY subjectColumn.label "主题">
 <!ENTITY dateColumn.label "日期">
 <!ENTITY priorityColumn.label "优先">
 <!ENTITY tagsColumn.label "标签">
