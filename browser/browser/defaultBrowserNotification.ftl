@@ -13,8 +13,10 @@ default-browser-notification-button =
 ## secondary button are shared between the variants.
 
 default-browser-prompt-title-pin = Ορισμός { -brand-short-name } ως κύριου προγράμματος περιήγησης;
+default-browser-prompt-message-pin = Αποκτήστε άμεση πρόσβαση στο { -brand-short-name } — ορίστε το ως προεπιλογή και καρφιτσώστε το στη γραμμή εργασιών.
 default-browser-prompt-button-primary-pin = Ορισμός ως κύριο πρόγραμμα περιήγησης
 default-browser-prompt-title-alt = Ορισμός { -brand-short-name } ως προεπιλεγμένου προγράμματος περιήγησης;
+default-browser-prompt-message-alt = Ταχύτητα, ασφάλεια και ιδιωτικότητα σε κάθε περιήγησή σας.
 default-browser-prompt-button-primary-alt = Ορισμός ως προεπιλεγμένο πρόγραμμα περιήγησης
 default-browser-prompt-checkbox-label = Να μη γίνει ερώτηση ξανά
 default-browser-prompt-button-secondary = Όχι τώρα
