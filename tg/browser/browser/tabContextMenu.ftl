@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+tab-context-open-a-new-tab =
+    .label = Кушодани варақаи нав
+    .accesskey = К
 reload-tab =
     .label = Аз нав бор кардани варақа
     .accesskey = А
@@ -66,15 +69,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Пӯшидани якчанд варақ
     .accesskey = П
-tab-context-share-url =
-    .label = Мубодила кардан
-    .accesskey = М
-tab-context-share-more =
-    .label = Бештар…
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->
@@ -95,6 +89,15 @@ move-tabs =
 move-tab =
     .label = Ҷойгиркунии варақа
     .accesskey = Ҷ
+tab-context-share-url =
+    .label = Мубодила кардан
+    .accesskey = М
+tab-context-share-more =
+    .label = Бештар…
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
