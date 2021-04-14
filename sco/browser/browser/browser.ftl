@@ -589,7 +589,48 @@ crashed-subframe-submit =
 bookmarks-show-all-bookmarks =
     .label = Kythe Aw Buikmerks
 bookmarks-manage-bookmarks =
-    .label = Manager Buikmerks
+    .label = Manage Buikmerks
+bookmarks-recent-bookmarks-panel-subheader = Recent Buikmerks
+bookmarks-toolbar-chevron =
+    .tooltiptext = Kythe mair buikmerks
+bookmarks-sidebar-content =
+    .aria-label = Buikmerks
+bookmarks-menu-button =
+    .label = Buikmerks Menu
+bookmarks-other-bookmarks-menu =
+    .label = Ither Buikmerks
+bookmarks-mobile-bookmarks-menu =
+    .label = Mobile Buikmerks
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Hide Buikmerks Sidebaur
+           *[other] View Buikmerks Sidebaur
+        }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Hide Buikmerks Toolbaur
+           *[other] View Buikmerks Toolbaur
+        }
+bookmarks-tools-toolbar-visibility-panel =
+    .label =
+        { $isVisible ->
+            [true] Hide Buikmerks Toolbaur
+           *[other] Kythe Buikmerks Toolbaur
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] Remuive Buikmerks Menu fae Toolbaur
+           *[other] Eik-on Buikmerks Menu tae Toolbaur
+        }
+bookmarks-search =
+    .label = Sairch Buikmerks
+bookmarks-tools =
+    .label = Buikmerkin Tools
+bookmarks-bookmark-edit-panel =
+    .label = Edit This Buikmerk
 
 ## Library Panel items
 
