@@ -18,3 +18,5 @@ default-browser-prompt-button-primary-pin = Foarkarsbrowser meitsje
 default-browser-prompt-title-alt = { -brand-short-name } jo standertbrowser meitsje?
 default-browser-prompt-message-alt = Untfang snelheid, feilichheid en privacy, hieltyd as jo sneupe.
 default-browser-prompt-button-primary-alt = As standertbrowser ynstelle
+default-browser-prompt-checkbox-label = Dit net mear freegje
+default-browser-prompt-button-secondary = No net
