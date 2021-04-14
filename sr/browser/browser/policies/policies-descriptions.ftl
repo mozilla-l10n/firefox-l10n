@@ -112,6 +112,6 @@ policy-ShowHomeButton = Приказује дугме „Почетна” на 
 policy-SSLVersionMax = Поставља максималну верзију SSL-a.
 policy-SSLVersionMin = Поставља минималну верзију SSL-a.
 policy-SupportMenu = Додај прилагођену ставку за подршку у менију помоћи.
-policy-UserMessaging = Сакриј одређене поруке намењене кориснику.
+policy-UserMessaging = Скрива одређене поруке од корисника.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Блокирај посету веб сајтовима. Погледајте документацију за више детаља о формату.
