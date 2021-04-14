@@ -87,6 +87,10 @@ protections-panel-fingerprinters = I fingerprinter raccolgono informazioni sulle
 protections-panel-tracking-content = I siti web possono caricare pubblicità, video e altri contenuti da fonti esterne che includono elementi traccianti. Il blocco degli elementi traccianti può velocizzare il caricamento dei siti, ma può causare il malfunzionamento di pulsanti, moduli e campi di accesso.
 protections-panel-social-media-trackers = I social network impostano elementi traccianti in altri siti per scoprire cosa fai, leggi e guardi quando sei online. In questo modo sono in grado di raccogliere molte più informazioni rispetto a quello che condividi nei tuoi profili online.
 
+protections-panel-description-shim-allowed = Alcuni elementi traccianti, indicati in seguito, sono stati parzialmente sbloccati in quanto hai interagito con loro.
+protections-panel-shim-allowed-indicator =
+  .tooltiptext = Elemento tracciante parzialmente sbloccato
+
 protections-panel-content-blocking-manage-settings =
     .label = Gestisci impostazioni protezione
     .accesskey = G
