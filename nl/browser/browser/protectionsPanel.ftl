@@ -80,6 +80,7 @@ protections-panel-cryptominers = Cryptominers gebruiken de rekenkracht van uw sy
 protections-panel-fingerprinters = Fingerprinters verzamelen instellingen van uw browser en computer om een profiel van u te maken. Met behulp van deze digitale vingerafdruk kunnen ze u op verschillende websites volgen.
 protections-panel-tracking-content = Websites kunnen externe advertenties, video’s en andere inhoud laden met volgcode. Het blokkeren van volginhoud kan websites helpen sneller te laden, maar sommige knoppen, formulieren en aanmeldvelden werken mogelijk niet.
 protections-panel-social-media-trackers = Sociale netwerken plaatsen trackers op andere websites om te volgen wat u online doet, ziet en bekijkt. Hierdoor kunnen sociale-mediabedrijven meer over u leren dan wat u deelt op uw sociale-mediaprofielen.
+protections-panel-description-shim-allowed = Sommige hieronder gelabelde trackers zijn op deze pagina deels gedeblokkeerd, omdat u er interactie mee hebt gehad.
 protections-panel-description-shim-allowed-learn-more = Meer info
 protections-panel-shim-allowed-indicator =
     .tooltiptext = Tracker deels gedeblokkeerd
