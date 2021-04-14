@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
-<!ENTITY msgComposeWindow.title "编写：（无标题）">
+<!ENTITY msgComposeWindow.title "编写：（无主题）">
 
 <!-- File Menu -->
 <!ENTITY fileMenu.label "文件">
@@ -83,9 +83,6 @@
 <!ENTITY reorderAttachmentsCmd.accesskey "s">
 <!ENTITY reorderAttachmentsCmd.key "x">
 <!ENTITY toggleAttachmentPaneCmd.label "附件窗格">
-<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
-     For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
-     as attachments.accesskey. -->
 <!ENTITY toggleAttachmentPaneCmd.accesskey "m">
 <!ENTITY selectAllCmd.accesskey "A">
 <!ENTITY findBarCmd.label "查找…">

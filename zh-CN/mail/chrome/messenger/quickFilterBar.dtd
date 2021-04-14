@@ -252,7 +252,7 @@
      subject for the string.
      -->
 <!ENTITY quickFilterBar.textFilter.subject.label
-         "标题">
+         "主题">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.body.label):
      The button label that toggles whether the text filter searches the message

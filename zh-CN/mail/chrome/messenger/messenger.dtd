@@ -239,7 +239,7 @@
 <!ENTITY ignoredThreadsCmd.label "已忽略的话题">
 <!ENTITY ignoredThreadsCmd.accesskey "I">
 
-<!ENTITY headersMenu.label "标题头">
+<!ENTITY headersMenu.label "标题">
 <!ENTITY headersMenu.accesskey "H">
 <!ENTITY headersAllCmd.label "全部">
 <!ENTITY headersAllCmd.accesskey "A">
@@ -689,11 +689,11 @@
 <!ENTITY glodaSearchBar.placeholder "搜索消息…">
 
 <!-- Quick Search Menu Bar -->
-<!ENTITY searchSubjectMenu.label "标题">
+<!ENTITY searchSubjectMenu.label "主题">
 <!ENTITY searchFromMenu.label "来自">
-<!ENTITY searchSubjectOrFromMenu.label "标题或来自">
+<!ENTITY searchSubjectOrFromMenu.label "主题或来自">
 <!ENTITY searchRecipient.label "收件人或转发">
-<!ENTITY searchSubjectOrRecipientMenu.label "标题，收件人或者抄送人">
+<!ENTITY searchSubjectOrRecipientMenu.label "主题，收件人或者抄送人">
 <!ENTITY searchMessageBody.label "整条消息">
 <!ENTITY saveAsVirtualFolderMenu.label "将搜索结果保存作为文件夹…">
 
