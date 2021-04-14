@@ -16,6 +16,7 @@ upgrade-dialog-new-item-menu-description = Geef prioriteit aan de belangrijke di
 upgrade-dialog-new-item-tabs-title = Moderne tabbladen
 upgrade-dialog-new-item-tabs-description = Houd gegevens netjes bij elkaar, waardoor u gefocust kunt blijven en flexibel kunt handelen.
 upgrade-dialog-new-item-icons-title = Nieuwe pictogrammen en duidelijkere berichten
+upgrade-dialog-new-item-icons-description = Helpen u op luchtiger manier uw weg te vinden.
 upgrade-dialog-new-primary-primary-button = { -brand-short-name } mijn voorkeursbrowser maken
     .title = Stelt { -brand-short-name } in als standaardbrowser en maakt het vast aan de taakbalk
 upgrade-dialog-new-primary-default-button = { -brand-short-name } mijn voorkeursbrowser maken
