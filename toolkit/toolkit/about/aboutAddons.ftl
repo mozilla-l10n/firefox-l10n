@@ -23,6 +23,9 @@ sidebar-preferences-button-title =
 addons-settings-button = Axustes de { -brand-short-name }
 sidebar-settings-button-title =
     .title = Axustes de { -brand-short-name }
+cmd-show-details =
+    .label = Amosar más información
+    .accesskey = A
 cmd-preferences =
     .label =
         { PLATFORM() ->
