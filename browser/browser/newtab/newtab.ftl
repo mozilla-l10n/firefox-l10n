@@ -17,6 +17,7 @@ newtab-personalize-button-label = Personalizar
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-search-engine-header = Amiestu d'un motor de busca
 newtab-topsites-add-shortcut-header = Atayu nuevu
 newtab-topsites-edit-shortcut-header = Edición d'un atayu
 newtab-topsites-title-label = Títulu
