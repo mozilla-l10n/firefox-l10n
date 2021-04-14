@@ -49,3 +49,4 @@ accessibility-keyboard-issue-semantics = Елементи који се могу
 accessibility-keyboard-issue-tabindex = Избегавајте вредност атрибута <code>tabindex</code> која је већа од нуле. <a>Сазнајте више</a>
 accessibility-keyboard-issue-action = Интерактивни елементи треба да имају могућност активације помоћу тастатуре. <a>Сазнајте више</a>
 accessibility-keyboard-issue-focusable = Интерактивни елементи треба да имају могућност фокусирања. <a>Сазнајте више</a>
+accessibility-keyboard-issue-focus-visible = Елементу који се може фокусирати недостаје стил фокусирања. <a>Сазнајте више</a>
