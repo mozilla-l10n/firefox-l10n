@@ -199,12 +199,54 @@ page-action-share-more-panel =
     .label = Mair…
 page-action-send-tab-not-ready =
     .label = Syncin Devices…
+# "Pin" is being used as a metaphor for expressing the fact that these tabs
+# are "pinned" to the left edge of the tabstrip. Really we just want the
+# string to express the idea that this is a lightweight and reversible
+# action that keeps your tab where you can reach it easily.
+page-action-pin-tab-panel =
+    .label = Peen Tab
+page-action-pin-tab-urlbar =
+    .tooltiptext = Peen Tab
+page-action-unpin-tab-panel =
+    .label = Unpeen Tab
+page-action-unpin-tab-urlbar =
+    .tooltiptext = Unpeen Tab
 
 ## Auto-hide Context Menu
 
+full-screen-autohide =
+    .label = Hide Toolbaurs
+    .accesskey = H
+full-screen-exit =
+    .label = Ootgang fae Hale Screen Mode
+    .accesskey = F
 
 ## Search Engine selection buttons (one-offs)
 
+# This string prompts the user to use the list of search shortcuts in
+# the Urlbar and searchbar.
+search-one-offs-with-title = This time, sairch wi:
+# This string won't wrap, so if the translated string is longer,
+# consider translating it as if it said only "Search Settings".
+search-one-offs-change-settings-button =
+    .label = Chynge Sairch Settings
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = Chynge sairch settins
+search-one-offs-context-open-new-tab =
+    .label = Sairch in New Tab
+    .accesskey = T
+search-one-offs-context-set-as-default =
+    .label = Set as Staunart Airt-oot Engine
+    .accesskey = D
+search-one-offs-context-set-as-default-private =
+    .label = Set as Staunart Airt-oot Engine fur Preevat Windaes
+    .accesskey = P
+# Search engine one-off buttons with an @alias shortcut/keyword.
+# Variables:
+#  $engineName (String): The name of the engine.
+#  $alias (String): The @alias shortcut/keyword.
+search-one-offs-engine-with-alias =
+    .tooltiptext = { $engineName } ({ $alias })
 
 ## Local search mode one-off buttons
 ## Variables:
@@ -213,12 +255,52 @@ page-action-send-tab-not-ready =
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
 
+search-one-offs-bookmarks =
+    .tooltiptext = Buikmerks ({ $restrict })
+search-one-offs-tabs =
+    .tooltiptext = Tabs ({ $restrict })
+search-one-offs-history =
+    .tooltiptext = Historie ({ $restrict })
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = Eik on buikmerk
+bookmarks-edit-bookmark = Edit buikmerk
+bookmark-panel-cancel =
+    .label = Cancel
+    .accesskey = C
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [1] Remuive buikmerk
+           *[other] Remuive { $count } buikmerks
+        }
+    .accesskey = R
+bookmark-panel-show-editor-checkbox =
+    .label = Kythe editor when savin
+    .accesskey = S
+bookmark-panel-done-button =
+    .label = Duin
+bookmark-panel-save-button =
+    .label = Save
+# Width of the bookmark panel.
+# Should be large enough to fully display the Done and
+# Cancel/Remove Bookmark buttons.
+bookmark-panel =
+    .style = min-width: 23em
 
 ## Identity Panel
 
+identity-connection-not-secure = Connection no siccar
+identity-connection-secure = Connection siccar
+identity-connection-internal = This is a siccar { -brand-short-name } page.
+identity-connection-file = This page is keepit on yer computer.
+identity-extension-page = This page is loadit fae an extension.
+identity-active-blocked = { -brand-short-name } has blocked pairts o this page that arenae siccar.
+identity-custom-root = Connection verified by a certificate issuer that isnae kent by Mozilla.
+identity-passive-loaded = Pairt o this page arenae siccar (sic as images).
 
 ## Window controls
 
