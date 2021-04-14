@@ -7,3 +7,14 @@ default-browser-notification-message = <strong>Chcete nastaviť { -brand-short-n
 default-browser-notification-button =
     .label = Nastaviť ako predvolený
     .accesskey = N
+
+## These strings are used for the default browser prompt. There are 2 variations
+## depending on the operating system (Windows vs other). The checkbox label and
+## secondary button are shared between the variants.
+
+default-browser-prompt-title-pin = Nastaviť { -brand-short-name } ako hlavný prehliadač?
+default-browser-prompt-message-pin = Majte { -brand-short-name } na dosah ruky - nastavte si ho ako predvolený prehliadač a pripnite ho na hlavný panel.
+default-browser-prompt-button-primary-pin = Nastaviť ako hlavný prehliadač
+default-browser-prompt-button-primary-alt = Nastaviť ako predvolený prehliadač
+default-browser-prompt-checkbox-label = Nabudúce sa už nepýtať
+default-browser-prompt-button-secondary = Teraz nie
