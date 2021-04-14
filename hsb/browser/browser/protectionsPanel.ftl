@@ -80,6 +80,7 @@ protections-panel-cryptominers = Kryptokopanje ličenski wukon wašeho systema w
 protections-panel-fingerprinters = Porstowe wotćišće zběraja nastajenja z wašeho wobhladowaka a ličaka, zo bychu profil wo was wutworili. Hdyž tutón digitalny porstowy wotćišć wužiwaće, móža wam přez rozdźělne websydła slědować.
 protections-panel-tracking-content = Websydła móža eksterne wabjenje, wideja a druhi wobsah ze slědowacym kodom začitać. Hdyž slědowacy wobsah blokujeće, móže to pomhać, sydła spěšnišo začitać, ale někotre tłóčatka, formulary a přizjewjenske pola snano hižo njebudu fungować.
 protections-panel-social-media-trackers = Socialne syće placěruja přesćěhowaki na druhich websydłach, zo bychu slědowali, što online činiće, widźiće a wobkedźbujeće. To předewzaćam socialnych medijow dowola, wjace wo was zhonił hač w profilach socialnych medijow dźěliće.
+protections-panel-description-shim-allowed = Blokowanje někotrych deleka markěrowanych přesćěhowakow je so zdźěla na tutej stronje zběhnyło, dokelž sće z nimi interagěrował.
 protections-panel-description-shim-allowed-learn-more = Dalše informacije
 protections-panel-shim-allowed-indicator =
     .tooltiptext = Blokowanje přesćěhowaka je zdźěla zběhnjene
