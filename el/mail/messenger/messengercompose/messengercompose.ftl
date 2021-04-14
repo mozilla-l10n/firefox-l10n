@@ -115,3 +115,11 @@ move-attachment-last-panel-button =
 button-return-receipt =
     .label = Αποδεικτικό
     .tooltiptext = Απαίτηση ενός αποδεικτικού επιστροφής για αυτό το μήνυμα
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+consider-bcc-notification = Οι { $count } παραλήπτες στα πεδία "Προς" και "Κοιν." μπορούν να δουν τις διευθύνσεις των άλλων. Μπορείτε να αποφύγετε την αποκάλυψη των παραληπτών με την "Κρ. Κοιν.".
+many-public-recipients-bcc =
+    .label = Χρήση "Κρ. Κοιν."
+    .accesskey = Χ
+many-public-recipients-ignore =
+    .label = Διατήρηση ορατών παραληπτών
+    .accesskey = Δ
