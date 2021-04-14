@@ -69,6 +69,8 @@ options-screenshot-label = Opzioni per la cattura schermate
 options-screenshot-clipboard-label = Salva negli appunti
 options-screenshot-clipboard-tooltip =
     .title = Salva la schermata direttamente negli appunti
+options-screenshot-clipboard-tooltip2 =
+    .title = Salva la schermata direttamente negli appunti
 
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
 options-screenshot-audio-label = Riproduci il suono dell’otturatore
