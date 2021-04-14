@@ -8,6 +8,7 @@
 
 ## New changes screen
 
+upgrade-dialog-new-secondary-button = Nicht jetzt
 
 ## Theme selection screen
 
@@ -19,4 +20,7 @@ upgrade-dialog-theme-dark = Dunkel
     .title = Ein dunkles Theme für Schaltflächen, Menüs und Fenster verwenden
 upgrade-dialog-theme-alpenglow = Alpenglow
     .title = Ein dynamisches, farbenfrohes Theme für Schaltflächen, Menüs und Fenster verwenden
+upgrade-dialog-theme-keep = Vorheriges behalten
+    .title = Das Theme verwenden, welches vor der Aktualisierung von { -brand-short-name } installiert war
 upgrade-dialog-theme-primary-button = Theme speichern
+upgrade-dialog-theme-secondary-button = Nicht jetzt
