@@ -66,7 +66,7 @@ connectionFailure-title = Αδυναμία σύνδεσης
 deniedPortAccess-title = Αυτή η διεύθυνση είναι περιορισμένη
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
-dnsNotFound-title = Χμ. Έχουμε πρόβλημα στην εύρεση του ιστοτόπου.
+dnsNotFound-title = Προέκυψε πρόβλημα με την εύρεση του ιστότοπου.
 fileNotFound-title = Το αρχείο δεν βρέθηκε
 fileAccessDenied-title = Άρνηση πρόσβασης στο αρχείο
 generic-title = Ωχ!
