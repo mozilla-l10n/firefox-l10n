@@ -12,4 +12,9 @@ default-browser-notification-button =
 ## depending on the operating system (Windows vs other). The checkbox label and
 ## secondary button are shared between the variants.
 
+default-browser-prompt-title-pin = Ορισμός { -brand-short-name } ως κύριου προγράμματος περιήγησης;
+default-browser-prompt-button-primary-pin = Ορισμός ως κύριο πρόγραμμα περιήγησης
+default-browser-prompt-title-alt = Ορισμός { -brand-short-name } ως προεπιλεγμένου προγράμματος περιήγησης;
+default-browser-prompt-button-primary-alt = Ορισμός ως προεπιλεγμένο πρόγραμμα περιήγησης
+default-browser-prompt-checkbox-label = Να μη γίνει ερώτηση ξανά
 default-browser-prompt-button-secondary = Όχι τώρα
