@@ -91,18 +91,42 @@ urlbar-autoplay-notification-anchor =
     .tooltiptext = Open autopley panel
 urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Store data in Persistent Storage
+urlbar-addons-notification-anchor =
+    .tooltiptext = Open eik-on instawment message panel
+urlbar-tip-help-icon =
+    .title = Get hauners
+urlbar-search-tips-confirm = Awricht, Got Ye
+# Read out before Urlbar Tip text content so screenreader users know the
+# subsequent text is a tip offered by the browser. It should end in a colon or
+# localized equivalent.
+urlbar-tip-icon-description =
+    .alt = Wysin:
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
 ## Variables:
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
+urlbar-search-tips-onboard = Type less, find mair: Sairch { $engineName } richt fae yer address baur.
+urlbar-search-tips-redirect-2 = Stert yer sairch in the address baur tae see suggestions fae { $engineName } and yer wab-stravaigin historie.
+# Prompts users to use the Urlbar when they are typing in the domain of a
+# search engine, e.g. google.com or amazon.com.
+urlbar-tabtosearch-onboard = Select this shortcut tae airt-oot whit ye're efter faster.
 
 ## Local search mode indicator labels in the urlbar
 
+urlbar-search-mode-bookmarks = Buikmerks
+urlbar-search-mode-tabs = Tabs
+urlbar-search-mode-history = Historie
 
 ##
 
+urlbar-geolocation-blocked =
+    .tooltiptext = Ye've blocked airtin information fur this wabsite.
+urlbar-xr-blocked =
+    .tooltiptext = Ye've blocked virtual reality device access fur this wabsite.
+urlbar-web-notifications-blocked =
+    .tooltiptext = Ye've blocked notifications fur this wabsite.
 
 ## Page Action Context Menu
 
