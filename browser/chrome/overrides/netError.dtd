@@ -18,7 +18,7 @@
 
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.pageTitle "Δε βρέθηκε ο διακομιστής">
+<!ENTITY dnsNotFound.pageTitle "Ο διακομιστής δεν βρέθηκε">
 <!ENTITY dnsNotFound.longDesc1 "
 <strong>Αν η διεύθυνση είναι σωστή, ορίστε τρία ακόμη πράγματα που μπορείτε να δοκιμάσετε:</strong>
 <ul>
