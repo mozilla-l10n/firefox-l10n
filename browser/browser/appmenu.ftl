@@ -5,13 +5,17 @@
 
 ## App Menu
 
-appmenuitem-update-banner =
-    .label-update-downloading = { -brand-shorter-name }-fernijing wurdt download
 appmenuitem-update-banner2 =
     .label-update-downloading = { -brand-shorter-name }-fernijingen downloade
     .label-update-available = Update beschikbaar – no downloade
     .label-update-manual = Update beschikbaar – no downloade
     .label-update-unsupported = Kin net bywurkje
+    .label-update-restart = Fernijing beskikber – no opnij starte
+appmenuitem-update-banner3 =
+    .label-update-downloading = { -brand-shorter-name }-fernijing wurdt download
+    .label-update-available = Fernijing beskikber – no downloade
+    .label-update-manual = Fernijing beskikber – no downloade
+    .label-update-unsupported = Kin net bywurkje – systeem net kompatibel
     .label-update-restart = Fernijing beskikber – no opnij starte
 appmenuitem-protection-dashboard-title = Befeiligingsdashboerd
 appmenuitem-customize-mode =
@@ -25,8 +29,6 @@ appmenuitem-new-private-window =
     .label = Nij priveefinster
 appmenuitem-passwords =
     .label = Wachtwurden
-appmenuitem-extensions-and-themes =
-    .label = Utwreidingen en Tema’s
 appmenuitem-addons-and-themes =
     .label = Add-ons en tema’s
 appmenuitem-find-in-page =
@@ -162,11 +164,6 @@ appmenu-about =
 appmenu-get-help =
     .label = Help krije
     .accesskey = H
-appmenu-help-troubleshooting-info =
-    .label = Probleemoplossingsynformaasje
-    .accesskey = P
-appmenu-help-taskmanager =
-    .label = Taakbehearder
 appmenu-help-more-troubleshooting-info =
     .label = Mear probleemoplossingsynformaasje
     .accesskey = p
@@ -175,16 +172,6 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = Feedback ferstjoere…
     .accesskey = f
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Werstart mei útskeakele add-ons…
-    .accesskey = W
-appmenu-help-safe-mode-with-addons =
-    .label = Opnij starte mei ynskeakele add-ons
-    .accesskey = r
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
