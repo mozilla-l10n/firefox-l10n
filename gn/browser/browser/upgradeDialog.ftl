@@ -34,5 +34,7 @@ upgrade-dialog-theme-dark = Ypytũ
     .title = Eipuru téma ypytũ votõ, poravorã ha ovetãme g̃uarã
 upgrade-dialog-theme-alpenglow = Alpenglow
     .title = Eipuru téma oku’e ha isa’ýva votõ, poravorã ha ovetãme g̃uarã
+upgrade-dialog-theme-keep = Eguereko mboyvegua
+    .title = Eipuru téma emohendáva embohekopyahu mbyve { -brand-short-name }
 upgrade-dialog-theme-primary-button = Eñongatu téma
 upgrade-dialog-theme-secondary-button = Ani ko’ág̃a
