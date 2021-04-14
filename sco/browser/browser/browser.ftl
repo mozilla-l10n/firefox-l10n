@@ -320,6 +320,12 @@ identity-https-only-info-no-upgrade = No able tae upgrade connection fae HTTP.
 identity-permissions-storage-access-header = Cross-site cookies
 identity-permissions-storage-access-hint = These pairties can yaise cross-site cookies and site data while ye're on this site.
 identity-permissions-reload-hint = Ye'll mebbe need tae reload the page for chynges tae wirk.
+identity-permissions-empty = Ye hinnae gied this site ony by-ordinar permeesions.
+identity-clear-site-data =
+    .label = Dicht Cookies and Site Data...
+identity-connection-not-secure-security-view = Ye arenae connectit siccar tae this site.
+identity-connection-verified = Ye're connectit siccar tae this site.
+identity-ev-owner-label = Certificate issued tae:
 
 ## Window controls
 
