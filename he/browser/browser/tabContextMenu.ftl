@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+tab-context-open-a-new-tab =
+    .label = פתיחת לשונית חדשה
+    .accesskey = ל
 reload-tab =
     .label = טעינת לשונית מחדש
     .accesskey = ט
@@ -66,15 +69,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = סגירת לשוניות מרובות
     .accesskey = מ
-tab-context-share-url =
-    .label = שיתוף
-    .accesskey = ש
-tab-context-share-more =
-    .label = עוד…
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->
@@ -95,6 +89,15 @@ move-tabs =
 move-tab =
     .label = העברת לשונית
     .accesskey = ע
+tab-context-share-url =
+    .label = שיתוף
+    .accesskey = ש
+tab-context-share-more =
+    .label = עוד…
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->

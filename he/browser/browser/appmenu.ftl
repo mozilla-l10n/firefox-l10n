@@ -5,13 +5,17 @@
 
 ## App Menu
 
-appmenuitem-update-banner =
-    .label-update-downloading = בתהליך הורדת עדכון ל־{ -brand-shorter-name }
 appmenuitem-update-banner2 =
     .label-update-downloading = בתהליך הורדת עדכון ל־{ -brand-shorter-name }
     .label-update-available = עדכון זמין — הורדה כעת
     .label-update-manual = עדכון זמין — הורדה כעת
     .label-update-unsupported = לא ניתן לעדכן
+    .label-update-restart = עדכון זמין — הפעלה מחדש כעת
+appmenuitem-update-banner3 =
+    .label-update-downloading = בתהליך הורדת עדכון ל־{ -brand-shorter-name }
+    .label-update-available = עדכון זמין — הורדה כעת
+    .label-update-manual = עדכון זמין — הורדה כעת
+    .label-update-unsupported = לא ניתן לעדכן — מערכת לא נתמכת
     .label-update-restart = עדכון זמין — הפעלה מחדש כעת
 appmenuitem-protection-dashboard-title = לוח הגנות
 appmenuitem-customize-mode =
@@ -25,8 +29,6 @@ appmenuitem-new-private-window =
     .label = חלון פרטי חדש
 appmenuitem-passwords =
     .label = ססמאות
-appmenuitem-extensions-and-themes =
-    .label = הרחבות וערכות נושא
 appmenuitem-addons-and-themes =
     .label = תוספות וערכות נושא
 appmenuitem-find-in-page =
@@ -159,11 +161,6 @@ appmenu-about =
 appmenu-get-help =
     .label = קבלת עזרה
     .accesskey = ע
-appmenu-help-troubleshooting-info =
-    .label = מידע לפתרון בעיות
-    .accesskey = מ
-appmenu-help-taskmanager =
-    .label = מנהל משימות
 appmenu-help-more-troubleshooting-info =
     .label = מידע נוסף לפתרון בעיות
     .accesskey = מ
@@ -172,16 +169,6 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = שליחת משוב…
     .accesskey = ש
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = הפעלה מחדש עם תוספות מנוטרלות…
-    .accesskey = מ
-appmenu-help-safe-mode-with-addons =
-    .label = הפעלה מחדש עם תוספות פעילות
-    .accesskey = ח
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
