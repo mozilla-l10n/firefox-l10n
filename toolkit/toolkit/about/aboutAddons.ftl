@@ -116,6 +116,7 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
+extensions-warning-safe-mode = Desactiváronse tolos complementos pol mou seguru
 
 ## Strings connected to add-on updates
 
