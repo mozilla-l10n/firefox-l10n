@@ -120,3 +120,104 @@ perftools-onboarding-reenable-old-panel = (per un periodo limitato di tempo sar√
 
 perftools-onboarding-close-button =
   .aria-label = Chiudi il messaggio introduttivo
+
+## Multistage MR1 onboarding strings (MR1 about:welcome pages)
+
+# "Hero Text" displayed on left side of welcome screen.
+# The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
+# It also signals the passion users bring to Firefox, how they use
+# Firefox to pursue those passions, as well as the boldness in their
+# choice to use Firefox over a larger competitor browser.
+# An alternative title for localization is: "It starts here".
+mr1-welcome-screen-hero-text = Cominciamo da qui
+
+# This button will open system settings to turn on prefers-reduced-motion
+mr1-onboarding-reduce-motion-button-label = Disattiva animazioni
+
+mr1-onboarding-welcome-header = Benvenuto in { -brand-short-name }
+mr1-onboarding-set-default-pin-primary-button-label = Imposta { -brand-short-name } come browser principale
+  .title = Imposta { -brand-short-name } come browser predefinito e lo aggiunge alla barra delle applicazioni
+
+mr1-onboarding-set-default-only-primary-button-label = Imposta { -brand-short-name } come browser predefinito
+mr1-onboarding-set-default-secondary-button-label = Non adesso
+mr1-onboarding-sign-in-button-label = Accedi
+
+mr1-onboarding-import-header = Porta tutto con te
+mr1-onboarding-import-subtitle = Importa password, segnalibri<br/>e altro ancora.
+
+# The primary import button label will depend on whether we can detect which browser was used to download Firefox.
+# Variables:
+#   $previous (Str) - Previous browser name, such as Edge, Chrome
+mr1-onboarding-import-primary-button-label-attribution = Importa da { $previous }
+
+# This string will be used in cases where we can't detect the previous browser name.
+mr1-onboarding-import-primary-button-label-no-attribution = Importa da un browser esistente
+mr1-onboarding-import-secondary-button-label = Non adesso
+
+mr1-onboarding-theme-header = Uno stile unico
+mr1-onboarding-theme-subtitle = Personalizza { -brand-short-name } con un tema.
+mr1-onboarding-theme-primary-button-label = Salva tema
+mr1-onboarding-theme-secondary-button-label = Non adesso
+
+# System theme uses operating system color settings
+mr1-onboarding-theme-label-system = Tema di sistema
+
+mr1-onboarding-theme-label-light = Chiaro
+mr1-onboarding-theme-label-dark = Scuro
+# "Alpenglow" here is the name of the theme, and should be kept in English.
+mr1-onboarding-theme-label-alpenglow = Alpenglow
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
+# Tooltip displayed on hover of system theme
+mr1-onboarding-theme-tooltip-system =
+  .title =
+    Utilizza la stessa combinazione di colori
+    del sistema operativo per pulsanti, menu
+    e finestre.
+
+# Input description for system theme
+mr1-onboarding-theme-description-system =
+  .aria-description =
+    Utilizza la stessa combinazione di colori
+    del sistema operativo per pulsanti, menu
+    e finestre.
+
+# Tooltip displayed on hover of light theme
+mr1-onboarding-theme-tooltip-light =
+  .title =
+    Utilizza una combinazione di colori chiara
+    per pulsanti, menu e finestre.
+
+# Input description for light theme
+mr1-onboarding-theme-description-light =
+  .aria-description =
+    Utilizza una combinazione di colori chiara
+    per pulsanti, menu e finestre.
+
+# Tooltip displayed on hover of dark theme
+mr1-onboarding-theme-tooltip-dark =
+  .title =
+    Utilizza una combinazione di colori scura
+    per pulsanti, menu e finestre.
+
+# Input description for dark theme
+mr1-onboarding-theme-description-dark =
+  .aria-description =
+    Utilizza una combinazione di colori scura
+    per pulsanti, menu e finestre.
+
+# Tooltip displayed on hover of Alpenglow theme
+mr1-onboarding-theme-tooltip-alpenglow =
+  .title =
+    Utilizza una combinazione di colori dinamica
+    e variegata per pulsanti, menu e finestre.
+
+# Input description for Alpenglow theme
+mr1-onboarding-theme-description-alpenglow =
+  .aria-description =
+    Utilizza una combinazione di colori dinamica
+    e variegata per pulsanti, menu e finestre.
