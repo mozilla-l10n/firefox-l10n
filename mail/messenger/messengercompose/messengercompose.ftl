@@ -117,3 +117,11 @@ move-attachment-last-panel-button =
 button-return-receipt =
     .label = Visszaigazolás
     .tooltiptext = Visszaigazolás kérése az üzenetről
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+consider-bcc-notification = A címzett és másolatot kapó { $count } partner láthatja egymás e-mail-címét. Elkerülheti a címzettek közzétételét, ha helyette titkos másolatot használ.
+many-public-recipients-bcc =
+    .label = Helyette titkos másolat használata
+    .accesskey = H
+many-public-recipients-ignore =
+    .label = A címzettek legyenek nyilvánosak
+    .accesskey = l
