@@ -92,12 +92,69 @@ menu-file-email-link =
 menu-file-print-setup =
     .label = Page Setup…
     .accesskey = u
+menu-file-print-preview =
+    .label = Print Preview
+    .accesskey = v
+menu-file-print =
+    .label = Print…
+    .accesskey = P
+menu-file-import-from-another-browser =
+    .label = Inbring Fae Anither Wab-stravaiger…
+    .accesskey = I
+menu-file-go-offline =
+    .label = Wirk Affline
+    .accesskey = k
 
 ## Edit Menu
 
+menu-edit =
+    .label = Edit
+    .accesskey = E
+menu-edit-find-on =
+    .label = Airt-oot in This Page...
+    .accesskey = F
+menu-edit-find-in-page =
+    .label = Airt-oot in Page...
+    .accesskey = F
+menu-edit-find-again =
+    .label = Airt-oot Again
+    .accesskey = g
+menu-edit-bidi-switch-text-direction =
+    .label = Turn Roond Text Direction
+    .accesskey = w
 
 ## View Menu
 
+menu-view =
+    .label = View
+    .accesskey = V
+menu-view-toolbars-menu =
+    .label = Toolbaurs
+    .accesskey = T
+menu-view-customize-toolbar =
+    .label = Mak yer ain...
+    .accesskey = C
+menu-view-customize-toolbar2 =
+    .label = Mak Toolbaur Yer Ain...
+    .accesskey = C
+menu-view-sidebar =
+    .label = Sidebaur
+    .accesskey = e
+menu-view-bookmarks =
+    .label = Buikmerks
+menu-view-history-button =
+    .label = Historie
+menu-view-synced-tabs-sidebar =
+    .label = Synced Tabs
+menu-view-full-zoom =
+    .label = Zoom
+    .accesskey = Z
+menu-view-full-zoom-enlarge =
+    .label = Zoom In
+    .accesskey = I
+menu-view-full-zoom-reduce =
+    .label = Zoom Oot
+    .accesskey = O
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
