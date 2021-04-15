@@ -26,9 +26,12 @@ onboarding-button-label-get-started = Entamar
 ## Welcome page strings
 
 onboarding-welcome-header = Afáyate en { -brand-short-name }
+onboarding-welcome-body = Yá tienes el restolador, agora conoz los demás productos de { -brand-product-name }.
+onboarding-welcome-modal-get-body = Yá tienes el restolador, agora aprovecha al máximu los demás productos de { -brand-product-name }.
 onboarding-join-form-legal = Al siguir, aceptes los <a data-l10n-name="terms">Términos del Serviciu</a> y l'<a data-l10n-name="privacy">Avisu de Privacidá</a>.
 # This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
 onboarding-join-form-signin-label = ¿Yá tienes una cuenta?
+onboarding-start-browsing-button-label = Comenzar a restolar
 onboarding-cards-dismiss =
     .title = Escartar
     .aria-label = Escartar
@@ -50,6 +53,7 @@ onboarding-sync-form-skip-login-button = Saltar esti pasu
 ## description.
 
 onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = Lleva contigo los marcadores, les contraseñes, l'historial y más coses onde uses { -brand-product-name }.
 onboarding-benefit-monitor-title = { -monitor-brand-short-name }
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 
@@ -61,6 +65,13 @@ onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 ## The string for the button is found above, in the UI strings section
 
 onboarding-tracking-protection-button2 = Cómo funciona
+onboarding-data-sync-title = Lleva los axustes contigo
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = Sincroniza los marcadores, les contraseñes y más coses onde uses { -brand-product-name }.
+onboarding-data-sync-button2 = Aniciar sesión en { -sync-brand-short-name }
+onboarding-firefox-monitor-button = Rexistrase pa recibir alertes
+onboarding-browse-privately-title = Restola en privao
+onboarding-browse-privately-button = Abrir una ventana privada
 onboarding-firefox-send-text2 = Xubi ficheros a { -send-brand-name } pa compartilos con cifráu puntu a puntu y un enllaz de caduca automáticamente.
 onboarding-firefox-send-button = Probar { -send-brand-name }
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } caltién el to perfil aislláu de tolo demás, asina ye más difícil que Facebook amuese publicidá personalizada.
