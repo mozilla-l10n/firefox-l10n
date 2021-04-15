@@ -115,6 +115,11 @@ move-attachment-last-panel-button =
 button-return-receipt =
     .label = Ricevuta
     .tooltiptext = Richiedi una ricevuta di ritorno per questo messaggio
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+consider-bcc-notification = I { $count } destinatari in A e Cc possono vedere i rispettivi indirizzi. Puoi evitare di divulgare gli indirizzi dei destinatari utilizzando Ccn.
+many-public-recipients-bcc =
+    .label = Utilizza Ccn
+    .accesskey = U
 many-public-recipients-ignore =
     .label = Mantieni i destinatari visibili
     .accesskey = M
