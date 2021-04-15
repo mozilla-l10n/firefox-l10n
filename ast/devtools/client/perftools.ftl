@@ -8,7 +8,7 @@
 ### file that are used for the profiler popup.
 
 perftools-intro-description =
-    Les grabaciones abren <a>profiler.firefox.com</a> nuna llingüeta nueva.
+    Los rexistros abren profiler.firefox.com nuna llingüeta nueva.
     Tolos datos atróxense llocalmente mas pues escoyer si xubilos pa compartilos.
 
 ## All of the headings for the various sections.
@@ -22,7 +22,7 @@ perftools-heading-threads = Filos
 
 ##
 
-perftools-description-intro = Les grabaciones abren <a>profiler.firefox.com</a> nuna llingüeta nueva. Tolos datos atróxense llocalmente mas pues escoyer si xubilos pa compartilos.
+perftools-description-intro = Los rexistros abren <a>profiler.firefox.com</a> nuna llingüeta nueva. Tolos datos atróxense llocalmente mas pues escoyer si xubilos pa compartilos.
 
 ## The controls for the interval at which the profiler samples the code.
 
@@ -36,6 +36,7 @@ perftools-devtools-settings-label = Axustes
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
+perftools-status-recording-stopped-by-another-tool = El rexistru paró por otra ferramienta.
 
 ## These are shown briefly when the user is waiting for the profiler to respond.
 
@@ -45,6 +46,7 @@ perftools-devtools-settings-label = Axustes
 perftools-button-start-recording = Aniciar un rexistru
 perftools-button-add-directory = Amestar al diccionariu
 perftools-button-remove-directory = Quitar lo esbillao
+perftools-button-edit-settings = Editar los axustes…
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
