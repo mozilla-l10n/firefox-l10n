@@ -10,6 +10,7 @@
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-new-title = 跟全新的 { -brand-short-name } 說聲嗨！
+upgrade-dialog-new-subtitle = 設計來讓您更快抵達想去的地方
 upgrade-dialog-new-item-menu-title = 更精簡的工具列與選單設計
 upgrade-dialog-new-item-menu-description = 重要功能優先，讓您更快完成任務。
 upgrade-dialog-new-item-tabs-title = 新一代的分頁標籤設計
