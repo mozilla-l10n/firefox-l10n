@@ -1223,6 +1223,7 @@ content-blocking-etp-custom-desc = Scegli quali traccianti e script bloccare.
 content-blocking-private-windows = Contenuti traccianti in finestre anonime
 content-blocking-cross-site-cookies = Cookie intersito
 content-blocking-cross-site-tracking-cookies = Cookie traccianti intersito
+content-blocking-all-cross-site-cookies-private-windows = Cookie traccianti intersito in finestre anonime
 content-blocking-cross-site-tracking-cookies-plus-isolate = Cookie traccianti intersito, isola i cookie restanti
 content-blocking-social-media-trackers = Traccianti dei social media
 content-blocking-all-cookies = Tutti i cookie
