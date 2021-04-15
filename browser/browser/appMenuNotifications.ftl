@@ -32,6 +32,16 @@ appmenu-update-restart =
     .secondarybuttonlabel = Agora non
     .secondarybuttonaccesskey = N
 appmenu-update-restart-message = Darréu d'un reaniciu rápidu, { -brand-shorter-name } va restaurar toles llingüetes y ventanes abiertes que nun seyan del mou Restolar en Privao.
+appmenu-addon-private-browsing-installed =
+    .buttonlabel = D'acuerdu, entendílo
+    .buttonaccesskey = D
+appmenu-addon-post-install-message = Xestiona los complementos calcando <image data-l10n-name='addon-install-icon'></image> nel <image data-l10n-name='addon-menu-icon'></image> menú.
+appmenu-update-unsupported2 =
+    .label = Nun ye posible anovar
+    .buttonlabel = Lleer más
+    .buttonaccesskey = L
+    .secondarybuttonlabel = Escartar
+    .secondarybuttonaccesskey = E
 appmenu-update-other-instance =
     .label = { -brand-shorter-name } nun ye a anovase automáticamente a la última versión.
     .buttonlabel = Anovar { -brand-shorter-name } de toes toes
@@ -39,10 +49,6 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Agora non
     .secondarybuttonaccesskey = n
 appmenu-update-other-instance-message = Hai un anovamientu disponible pa { -brand-shorter-name } mas nun pue instalase porque hai otra copia de { -brand-shorter-name } n'execución. Zárrala pa siguir col anovamientu o escueyi «Anovar { -brand-shorter-name } de toes toes» (la otra copia pue nun funcionar correutamente hasta que la reanicies).
-appmenu-addon-private-browsing-installed =
-    .buttonlabel = D'acuerdu, entendílo
-    .buttonaccesskey = D
-appmenu-addon-post-install-message = Xestiona los complementos calcando <image data-l10n-name='addon-install-icon'></image> nel <image data-l10n-name='addon-menu-icon'></image> menú.
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = D'acuerdu
     .buttonaccesskey = D
