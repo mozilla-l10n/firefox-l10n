@@ -45,10 +45,18 @@ cmd-preferences =
 cmd-install-addon =
     .label = Instalar
     .accesskey = I
+cmd-contribute =
+    .label = Collaborar
+    .accesskey = C
+    .tooltiptext = Collabora col desendolcu d'esti complementu
 detail-version =
     .label = Versión
 detail-last-updated =
     .label = Últimu anovamientu
+detail-contributions-description = El desendolcador d'esti complementu pídete que lu ayudes a siguir col so desendolcu faciendo una donación
+detail-contributions-button = Collaborar
+    .title = Collabora col desendolcu d'esti complementu
+    .accesskey = C
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Execución nes ventanes privaes
 detail-private-required-description2 = Esta estensión tien accesu a les tos actividaes en llinia mentanto restoles en privao. <a data-l10n-name="learn-more">Lleer más</a>
