@@ -5,13 +5,17 @@
 
 ## App Menu
 
-appmenuitem-update-banner =
-    .label-update-downloading = Ladataan { -brand-shorter-name }-päivitystä
 appmenuitem-update-banner2 =
     .label-update-downloading = Ladataan { -brand-shorter-name }-päivitystä
     .label-update-available = Päivitys saatavilla – lataa nyt
     .label-update-manual = Päivitys saatavilla – lataa nyt
     .label-update-unsupported = Päivittäminen ei onnistu
+    .label-update-restart = Päivitys saatavilla – käynnistä uudelleen
+appmenuitem-update-banner3 =
+    .label-update-downloading = Ladataan { -brand-shorter-name }-päivitystä
+    .label-update-available = Päivitys saatavilla – lataa nyt
+    .label-update-manual = Päivitys saatavilla – lataa nyt
+    .label-update-unsupported = Päivitys ei onnistu – järjestelmä ei yhteensopiva
     .label-update-restart = Päivitys saatavilla – käynnistä uudelleen
 appmenuitem-protection-dashboard-title = Suojausten yhteenveto
 appmenuitem-customize-mode =
@@ -25,8 +29,6 @@ appmenuitem-new-private-window =
     .label = Uusi yksityinen ikkuna
 appmenuitem-passwords =
     .label = Salasanat
-appmenuitem-extensions-and-themes =
-    .label = Laajennukset ja teemat
 appmenuitem-addons-and-themes =
     .label = Lisäosat ja teemat
 appmenuitem-find-in-page =
@@ -160,11 +162,6 @@ appmenu-about =
 appmenu-get-help =
     .label = Etsi ohjeita
     .accesskey = h
-appmenu-help-troubleshooting-info =
-    .label = Tietoja ongelmatilanteisiin
-    .accesskey = T
-appmenu-help-taskmanager =
-    .label = Tehtävienhallinta
 appmenu-help-more-troubleshooting-info =
     .label = Lisää vianmääritystietoja
     .accesskey = v
@@ -173,16 +170,6 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = Anna palautetta…
     .accesskey = A
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Käynnistä uudelleen ilman lisäosia…
-    .accesskey = K
-appmenu-help-safe-mode-with-addons =
-    .label = Käynnistä uudelleen lisäosat päällä
-    .accesskey = K
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
