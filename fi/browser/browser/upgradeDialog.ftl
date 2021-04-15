@@ -8,9 +8,13 @@
 
 ## New changes screen
 
+upgrade-dialog-new-item-menu-title = Virtaviivaistetut työkalupalkit ja valikot
 upgrade-dialog-new-item-tabs-title = Nykyaikaiset välilehdet
 upgrade-dialog-new-item-icons-title = Uudet kuvakkeet ja selkeämmät viestit
+upgrade-dialog-new-primary-primary-button = Aseta { -brand-short-name } oletusselaimeksi
+    .title = Asettaa { -brand-short-name }in oletusselaimeksi ja kiinnittää sen tehtäväpalkkiin
 upgrade-dialog-new-primary-default-button = Aseta { -brand-short-name } oletusselaimeksi
+upgrade-dialog-new-primary-pin-button = Kiinnitä { -brand-short-name } tehtäväpalkkiin
 upgrade-dialog-new-primary-theme-button = Valitse teema
 upgrade-dialog-new-secondary-button = Ei nyt
 
