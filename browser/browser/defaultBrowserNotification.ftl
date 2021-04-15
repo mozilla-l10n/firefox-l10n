@@ -12,6 +12,9 @@ default-browser-notification-button =
 ## depending on the operating system (Windows vs other). The checkbox label and
 ## secondary button are shared between the variants.
 
+default-browser-prompt-title-pin = Asetetaanko { -brand-short-name } oletusselaimeksi?
+default-browser-prompt-button-primary-pin = Aseta ensisijaiseksi selaimeksi
+default-browser-prompt-title-alt = Asetetaanko { -brand-short-name } oletusselaimeksi?
 default-browser-prompt-button-primary-alt = Aseta oletusselaimeksi
 default-browser-prompt-checkbox-label = Älä kysy uudestaan
 default-browser-prompt-button-secondary = Ei nyt
