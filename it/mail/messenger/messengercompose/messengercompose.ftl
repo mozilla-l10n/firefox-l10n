@@ -115,3 +115,6 @@ move-attachment-last-panel-button =
 button-return-receipt =
     .label = Ricevuta
     .tooltiptext = Richiedi una ricevuta di ritorno per questo messaggio
+many-public-recipients-ignore =
+    .label = Mantieni i destinatari visibili
+    .accesskey = M
