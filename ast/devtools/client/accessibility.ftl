@@ -15,6 +15,8 @@ accessibility-warning =
     .alt = Alvertencia
 accessibility-fail =
     .alt = Fallu
+accessibility-best-practices =
+    .alt = Les meyores práutiques
 
 ## Text entries for a paragraph used in the accessibility panel sidebar's checks section
 ## that describe that currently selected accessible object has an accessibility issue
@@ -26,3 +28,4 @@ accessibility-text-label-issue-image = El conteníu con imáxenes ha tar etiquet
 ## that describe that currently selected accessible object has a keyboard accessibility
 ## issue.
 
+accessibility-keyboard-issue-action = Los elementos interactivos han ser a activase col tecláu. <a>Lleer más</a>
