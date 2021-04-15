@@ -77,7 +77,7 @@ login-intro-description = We xe'ayäk ri rutikirib'al amolojri'ïl pa { -brand-p
 login-intro-instruction-fxa = Tatz'uku' o tatikirisaj molojri'ïl pa { -fxaccount-brand-name } chupam ri okisab'äl, akuchi' e yakäl ri tikirib'äl amolojri'ïl
 login-intro-instruction-fxa-settings = Tatz'eta' chi xacha' ri k'ojlib'äl richin kitikitib'al molojri'ïl pa ri runuk'ulem { -sync-brand-short-name }.
 about-logins-intro-instruction-help = Tatz'eta' <a data-l10n-name="help-link">{ -lockwise-brand-short-name } Tob'äl</a> richin ch'aqa' chik to'ïk.
-login-intro-instructions-fxa = Tatz'uku' o tatikirisaj molojri'ïl pa { -fxaccount-brand-name(capitalization: "sentence") } chupam ri okisab'äl, akuchi' e yakäl ri tikirib'äl amolojri'ïl.
+login-intro-instructions-fxa = Tatz'uku' o tatikirisaj molojri'ïl pa { -fxaccount-brand-name } chupam ri okisab'äl, akuchi' e yakäl ri tikirib'äl amolojri'ïl.
 login-intro-instructions-fxa-settings = Jät pa runuk'ulem > Sync > Titzij ri ximoj… Tacha' ri ruk'ojlem Ruwujil chuqa' ewan taq tzij.
 login-intro-instructions-fxa-help = Tatz'eta' <a data-l10n-name="help-link">{ -lockwise-brand-short-name } Tob'äl</a> richin ch'aqa' chik to'ïk.
 about-logins-intro-import = We ri rutikirib'al amolojri'ïl yakon pa jun chik okik'amaya'l, yatikïr <a data-l10n-name="import-link">ye'ajïk' pa { -lockwise-brand-short-name }</a>
