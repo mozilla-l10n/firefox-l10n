@@ -64,6 +64,11 @@ Somewey or anither <p>&brandShortName; cannae load this page.</p>
 </ul>
 ">
 
+<!ENTITY contentEncodingError.longDesc "
+<ul>
+  <li>Please get in touch wi the wabsite owners tae lat them ken aboot this problem..</li>
+</ul>
+">
 
 
 
