@@ -17,6 +17,7 @@
 
 ##
 
+permission-dialog-unset-description = Vas tener d'escoyer una aplicación.
 
 ## Chooser dialog
 ## Variables:
@@ -25,3 +26,4 @@
 choose-app-btn =
     .label = Escoyer…
     .accessKey = E
+choose-other-app-window-title = Otra aplicación…
