@@ -33,8 +33,8 @@ about-config-pref-delete-button =
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
-about-config-pref-add-type-boolean = Boleanu
-about-config-pref-add-type-number = Númeru
+about-config-pref-add-type-boolean = Valor llóxicu
+about-config-pref-add-type-number = Númberu
 about-config-pref-add-type-string = Cadena
 
 ## Preferences with a non-default value are differentiated visually, and at the
