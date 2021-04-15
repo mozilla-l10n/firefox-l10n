@@ -32,13 +32,13 @@ upgrade-dialog-theme-title =
     整装再出发
 upgrade-dialog-theme-system = 系统主题
     .title = 跟随系统主题配色显示按钮、菜单和窗口
-upgrade-dialog-theme-light = 亮色
+upgrade-dialog-theme-light = 明亮
     .title = 为按钮、菜单和窗口使用明亮配色主题
 upgrade-dialog-theme-dark = 深邃
     .title = 为按钮、菜单和窗口使用深邃配色主题
 upgrade-dialog-theme-alpenglow = 染山霞
     .title = 为按钮、菜单和窗口使用活力多彩配色主题
-upgrade-dialog-theme-keep = 不作改变
+upgrade-dialog-theme-keep = 保留原设置
     .title = 使用您更新 { -brand-short-name } 前安装的主题
 upgrade-dialog-theme-primary-button = 保存主题
 upgrade-dialog-theme-secondary-button = 暂时不要
