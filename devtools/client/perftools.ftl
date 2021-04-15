@@ -40,10 +40,13 @@ perftools-status-recording-stopped-by-another-tool = El rexistru paró por otra 
 
 ## These are shown briefly when the user is waiting for the profiler to respond.
 
+perftools-request-to-get-profile-and-stop-profiler = Capturando'l perfil
 
 ##
 
 perftools-button-start-recording = Aniciar un rexistru
+perftools-button-capture-recording = Rexistru de la captura
+perftools-button-cancel-recording = Encaboxar el rexistru
 perftools-button-add-directory = Amestar al diccionariu
 perftools-button-remove-directory = Quitar lo esbillao
 perftools-button-edit-settings = Editar los axustes…
