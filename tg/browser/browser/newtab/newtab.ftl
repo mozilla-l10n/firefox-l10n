@@ -220,10 +220,12 @@ newtab-custom-sponsored-sites = Миёнбурҳои сарпарастӣ
 newtab-custom-pocket-title = Аз тарафи { -pocket-brand-name } тавсия карда мешавад
 newtab-custom-pocket-sponsored = Мақолаҳои сарпарастӣ
 newtab-custom-recent-title = Фаъолияти охирин
+newtab-custom-recent-subtitle = Интихоби сомонаҳо ва муҳтавои охирин
 newtab-custom-close-button = Пӯшидан
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
 # and non-essential but also not entirely trivial and useless.
 newtab-custom-snippets-title = Ёддоштҳо
+newtab-custom-snippets-subtitle = Маслиҳатҳо ва ахбор аз { -vendor-short-name } ва { -brand-product-name }
 newtab-custom-settings = Идоракунии танзимоти бештар
