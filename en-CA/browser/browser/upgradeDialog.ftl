@@ -28,7 +28,7 @@ upgrade-dialog-new-secondary-button = Not now
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-theme-title =
-    Get a clean start¶
+    Get a clean start
     with an updated theme
 upgrade-dialog-theme-system = System theme
     .title = Follow the operating system theme for buttons, menus, and windows
