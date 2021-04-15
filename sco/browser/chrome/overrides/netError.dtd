@@ -1,0 +1,88 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+
+<!ENTITY loadError.label "Problem loadin page">
+<!ENTITY retry.label "Try Aince Mair">
+<!ENTITY returnToPreviousPage.label "Gang Back">
+<!ENTITY returnToPreviousPage1.label "Gang Back (Recommendit)">
+<!ENTITY advanced2.label "Advancit…">
+<!ENTITY viewCertificate.label "View Certificate">
+
+<!-- Specific error messages -->
+
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+
+<!ENTITY deniedPortAccess.longDesc "">
+
+<!ENTITY dnsNotFound.pageTitle "Server No Fund">
+<!ENTITY dnsNotFound.longDesc1 "
+<strong>Gin thon address is correct, here are three ither things ye can try:</strong>
+<ul>
+  <li>Try again later on.</li>
+  <li>Hae a luik at yer netwark connection.</li>
+  <li>Gin yer connectit but ahint a firewaw, mak siccar that &brandShortName; has permission tae access the Wab.</li>
+</ul>
+">
+
+<!ENTITY fileNotFound.longDesc "
+<ul>
+  <li>Check the file nemme fur capitalisation or ither typin mishanters.</li>
+  <li>Check tae see gin the file wis flittit elsewhaur, gied a new nemme, or deletit.</li>
+</ul>
+">
+
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>It micht hae been remuivit, flittit elsewhaur, or file permissions micht be preventin ingang.</li>
+</ul>
+">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Localization note (certerror.introPara2) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
+     "SSL_ERROR_UNSUPPORTED_VERSION". -->
+
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+
+
+
+
+
+
