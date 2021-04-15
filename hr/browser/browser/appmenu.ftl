@@ -5,14 +5,18 @@
 
 ## App Menu
 
-appmenuitem-update-banner =
-    .label-update-downloading = Preuzimanje nadogradnje za { -brand-shorter-name }
 appmenuitem-update-banner2 =
     .label-update-downloading = Preuzimanje dopune za { -brand-shorter-name }
     .label-update-available = Dostupna je dopuna — preuzmi sada
     .label-update-manual = Dostupna je dopuna — preuzmi sada
     .label-update-unsupported = Nije moguće ažurirati
     .label-update-restart = Dostupna je dopuna — ponovno pokreni sada
+appmenuitem-update-banner3 =
+    .label-update-downloading = Preuzimanje nadogradnje za { -brand-shorter-name }
+    .label-update-available = Dostupna nadogradnja — preuzmi sada
+    .label-update-manual = Dostupna nadogradnja — preuzmi sada
+    .label-update-unsupported = Nije moguće nadograditi — sustav nije kompatibilan
+    .label-update-restart = Dostupna nadogradnja — ponovno pokreni sada
 appmenuitem-protection-dashboard-title = Nadzorna ploča zaštite
 appmenuitem-customize-mode =
     .label = Prilagodi …
@@ -25,8 +29,6 @@ appmenuitem-new-private-window =
     .label = Novi privatni prozor
 appmenuitem-passwords =
     .label = Lozinke
-appmenuitem-extensions-and-themes =
-    .label = Proširenja i teme
 appmenuitem-addons-and-themes =
     .label = Dodaci i teme
 appmenuitem-find-in-page =
@@ -160,11 +162,6 @@ appmenu-about =
 appmenu-get-help =
     .label = Potraži pomoć
     .accesskey = p
-appmenu-help-troubleshooting-info =
-    .label = Rješavanje problema
-    .accesskey = R
-appmenu-help-taskmanager =
-    .label = Upravljač zadataka
 appmenu-help-more-troubleshooting-info =
     .label = Više informacija za rješavanje problema
     .accesskey = v
@@ -173,16 +170,6 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = Pošalji povratne informacije …
     .accesskey = e
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Ponovo pokreni s deaktiviranim dodacima …
-    .accesskey = v
-appmenu-help-safe-mode-with-addons =
-    .label = Ponovo pokreni s aktiviranim dodacima
-    .accesskey = v
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
