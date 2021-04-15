@@ -27,8 +27,8 @@ channel-description = Du brukar no oppdateringskanalen <label data-l10n-name="cu
 warningDesc-version = { -brand-short-name } er eksperimentell, og kan vere ustabil.
 aboutdialog-help-user = { -brand-product-name }-hjelp
 aboutdialog-submit-feedback = Send inn tilbakemelding
-community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> er eit <label data-l10n-name="community-exp-creditsLink">globalt samfunn</label> som jobbar saman for å halde nettet ope, ålment og tilgjengeleg for alle.
-community-2 = { -brand-short-name } er utvikla av <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, eit <label data-l10n-name="community-creditsLink">globalt samfunn</label> som arbeider saman for å halde nettet ope, ålment, og tilgjengeleg for alle.
+community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> er eit <label data-l10n-name="community-exp-creditsLink">globalt samfunn</label> som jobbar saman for å halde nettet ope, allment og tilgjengeleg for alle.
+community-2 = { -brand-short-name } er utvikla av <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, eit <label data-l10n-name="community-creditsLink">globalt samfunn</label> som arbeider saman for å halde nettet ope, allment, og tilgjengeleg for alle.
 helpus = Vil du hjelpe til? <label data-l10n-name="helpus-donateLink">Gje ei pengegåve</label> eller <label data-l10n-name="helpus-getInvolvedLink">ver med!</label>
 bottomLinks-license = Lisensinfo
 bottomLinks-rights = Rettar for sluttbrukarar
