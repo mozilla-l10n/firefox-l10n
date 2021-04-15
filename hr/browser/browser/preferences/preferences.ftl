@@ -402,6 +402,7 @@ update-setting-write-failure-message =
     { -brand-short-name } je naišao na pogrešku i nije spremio ovu promjenu. Uzmi u obzir da postavljanje postavki za ovo aktualiziranje zahtijeva dozvole za pisanje u niže navedenu datoteku. Ti ili tvoj administrator sustava možda možete otkloniti ovu grešku, tako da dozvolite grupi korisnika potpunu kontrolu nad ovom datotekom.
     
     Nije moguće pisati u datoteku: { $path }
+update-setting-write-failure-title2 = Pogreška prilikom spremanju postavki ažuriranja
 update-in-progress-title = Aktualiziranje u tijeku
 update-in-progress-message = Želiš li da { -brand-short-name } nastavi s ovim aktualiziranjem?
 update-in-progress-ok-button = O&dbaci
