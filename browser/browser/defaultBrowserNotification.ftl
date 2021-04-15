@@ -7,3 +7,16 @@ default-browser-notification-message = <strong>Postaviti { -brand-short-name } k
 default-browser-notification-button =
     .label = Postavi kao zadani
     .accesskey = s
+
+## These strings are used for the default browser prompt. There are 2 variations
+## depending on the operating system (Windows vs other). The checkbox label and
+## secondary button are shared between the variants.
+
+default-browser-prompt-title-pin = Postaviti { -brand-short-name } kao primarni preglednik?
+default-browser-prompt-message-pin = Neka { -brand-short-name } bude nadohvat tvoje ruke — postavi ga kao zadani preglednik i prikvači na programsku traku.
+default-browser-prompt-button-primary-pin = Postavi kao primarni preglednik
+default-browser-prompt-title-alt = Postaviti { -brand-short-name } kao zadani preglednik?
+default-browser-prompt-message-alt = Brzina, sigurnost i privatnost svaki put kada surfaš.
+default-browser-prompt-button-primary-alt = Postavi kao zadani preglednik
+default-browser-prompt-checkbox-label = Ne pitaj više
+default-browser-prompt-button-secondary = Ne sada
