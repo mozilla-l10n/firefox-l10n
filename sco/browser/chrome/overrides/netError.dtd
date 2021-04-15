@@ -70,8 +70,15 @@ Somewey or anither <p>&brandShortName; cannae load this page.</p>
 </ul>
 ">
 
+<!ENTITY unsafeContentType.longDesc "
+<ul>
+  <li>Please get in touch wi the wabsite owners tae lat them ken aboot this problem.</li>
+</ul>
+">
 
+<!ENTITY netReset.longDesc "&sharedLongDesc;">
 
+<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 
 
