@@ -41,10 +41,20 @@
 </ul>
 ">
 
+<!ENTITY generic.longDesc "
+Somewey or anither <p>&brandShortName; cannae load this page.</p>
+">
 
+<!ENTITY captivePortal.title "Log in tae netwark">
+<!ENTITY captivePortal.longDesc2 "
+<p>Ye maun log in tae this netwark afore ye can access the Internet.</p>
+">
 
+<!ENTITY openPortalLoginPage.label2 "Open Netwark Login Page">
 
+<!ENTITY malformedURI.pageTitle "No a valid URL">
 
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 
 
