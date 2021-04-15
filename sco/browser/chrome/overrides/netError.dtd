@@ -56,7 +56,13 @@ Somewey or anither <p>&brandShortName; cannae load this page.</p>
 
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
+<!ENTITY notCached.longDesc "<p>The requestit document isnae available in &brandShortName;’s cache.</p><ul><li>As a siccarness precaution, &brandShortName; doesnae automatically re-request sensitive documents.</li><li>Click Try Aince Mair fur tae re-request the document fae the wabsite.</li></ul>">
 
+<!ENTITY netOffline.longDesc2 "
+<ul>
+  <li>Press &quot;Try Aince Mair&quot; tae flit tae online mode and reload the page.</li>
+</ul>
+">
 
 
 
