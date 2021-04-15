@@ -25,6 +25,10 @@ upgrade-dialog-new-secondary-button = 現在不要
 
 ## Theme selection screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-theme-title =
+    使用新佈景主題
+    讓我們重新再出發
 upgrade-dialog-theme-system = 系統佈景主題
     .title = 依照作業系統設定的佈景主題顯示按鈕、選單、視窗
 upgrade-dialog-theme-light = 亮色
