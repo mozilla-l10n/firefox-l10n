@@ -387,8 +387,12 @@ urlbar-pocket-button =
 # "Search", and we would like to avoid strings like "Search MSN Search".
 # Variables
 #  $engine (String): the name of a search engine
-urlbar-result-action-search-w-engine = Buscar con { $engine }
+urlbar-result-action-search-w-engine = Busca con { $engine }
 urlbar-result-action-switch-tab = Dir pa la llingüeta
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-tabtosearch-other-engine = Buscar en «{ $engine }» direutamente dende la barra de direiciones
 # Shows the result of a formula expression being calculated, the last = sign will be shown
 # as part of the result (e.g. "= 2").
 # Variables
