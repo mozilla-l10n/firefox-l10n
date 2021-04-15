@@ -47,7 +47,7 @@
 <!ENTITY col.mostrecentvisit.label "Vizita Më e Freskët">
 <!ENTITY col.visitcount.label    "Numër Vizitash">
 <!ENTITY col.dateadded.label     "Shtuar më">
-<!ENTITY col.lastmodified.label  "Ndryshuar Së Fundi">
+<!ENTITY col.lastmodified.label  "Ndryshuar Së Fundi Më">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -60,4 +60,3 @@
 <!ENTITY forwardButton.tooltip  "Vazhdoni përpara">
 
 <!ENTITY detailsPane.selectAnItemText.description "Përzgjidhni një objekt për ta parë dhe për t&amp;i përpunuar vetitë">
-
