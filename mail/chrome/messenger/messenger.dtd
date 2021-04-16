@@ -518,9 +518,9 @@
 <!ENTITY devToolboxCmd.label "Γραμμή εργαλείων προγραμματιστή">
 <!ENTITY devToolboxCmd.accesskey "λ">
 <!ENTITY devToolboxCmd.commandkey "i">
-<!ENTITY debugAddonsCmd.label "Εντοπισμός σφαλμάτων προσθέτων">
+<!ENTITY debugAddonsCmd.label "Έλεγχος σφαλμάτων προσθέτων">
 <!ENTITY debugAddonsCmd.accesskey "Α">
-<!ENTITY tabsDebugCmd.label "Εντοπισμός σφαλμάτων πλαισίου περιεχομένου">
+<!ENTITY tabsDebugCmd.label "Έλεγχος σφαλμάτων πλαισίου περιεχομένου">
 <!ENTITY tabsDebugCmd.accesskey "Π">
 <!ENTITY errorConsoleCmd.label "Κονσόλα σφαλμάτων">
 <!ENTITY errorConsoleCmd.accesskey "ν">
