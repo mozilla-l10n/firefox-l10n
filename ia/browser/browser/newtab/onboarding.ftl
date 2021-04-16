@@ -200,7 +200,6 @@ onboarding-welcome-steps-indicator =
 # automatically added to the text inside it. "look" should stay inside the span.
 onboarding-multistage-theme-header = Elige un nove <span data-l10n-name="zap">apparentia</span>
 onboarding-multistage-theme-subtitle = Personalisa { -brand-short-name } per un thema.
-onboarding-multistage-theme-primary-button-label = Salvar le thema
 onboarding-multistage-theme-primary-button-label2 = Facite
 onboarding-multistage-theme-secondary-button-label = Non ora
 # Automatic theme uses operating system color settings
@@ -255,3 +254,57 @@ onboarding-multistage-theme-description-alpenglow =
     .aria-description =
         Usa un apparentia colorate pro 
         buttones, menus e fenestras.
+
+## Multistage MR1 onboarding strings (MR1 about:welcome pages)
+
+mr1-onboarding-welcome-header = Benvenite a { -brand-short-name }
+mr1-onboarding-set-default-only-primary-button-label = Render { -brand-short-name } mi navigator primari?
+mr1-onboarding-set-default-secondary-button-label = Non ora
+mr1-onboarding-sign-in-button-label = Aperir session
+mr1-onboarding-import-header = Porta toto con te
+mr1-onboarding-import-secondary-button-label = Non ora
+mr1-onboarding-theme-subtitle = Personalisa { -brand-short-name } per un thema.
+mr1-onboarding-theme-primary-button-label = Salvar le thema
+mr1-onboarding-theme-secondary-button-label = Non ora
+# System theme uses operating system color settings
+mr1-onboarding-theme-label-system = Thema del systema
+mr1-onboarding-theme-label-light = Clar
+mr1-onboarding-theme-label-dark = Obscur
+# "Alpenglow" here is the name of the theme, and should be kept in English.
+mr1-onboarding-theme-label-alpenglow = Alpenglow
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
+# Tooltip displayed on hover of light theme
+mr1-onboarding-theme-tooltip-light =
+    .title =
+        Usa un thema clar pro buttones,
+        menus e fenestras.
+# Input description for light theme
+mr1-onboarding-theme-description-light =
+    .aria-description =
+        Usa un thema clar pro buttones,
+        menus e fenestras.
+# Tooltip displayed on hover of dark theme
+mr1-onboarding-theme-tooltip-dark =
+    .title =
+        Usa un thema obscur pro buttones,
+        menus e fenestras.
+# Input description for dark theme
+mr1-onboarding-theme-description-dark =
+    .aria-description =
+        Usa un thema obscur pro buttones,
+        menus e fenestras.
+# Tooltip displayed on hover of Alpenglow theme
+mr1-onboarding-theme-tooltip-alpenglow =
+    .title =
+        Usa un thema colorate dynamic pro buttones,
+        menus e fenestras.
+# Input description for Alpenglow theme
+mr1-onboarding-theme-description-alpenglow =
+    .aria-description =
+        Usa un thema colorate dynamic pro buttones,
+        menus e fenestras.

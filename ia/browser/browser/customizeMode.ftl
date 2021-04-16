@@ -49,3 +49,5 @@ customize-mode-lwthemes-my-themes =
     .value = Mi themas
 customize-mode-touchbar-cmd =
     .label = Personalisar le barra tactile…
+customize-mode-downloads-button-autohide =
+    .label = Celar le button quando vacue

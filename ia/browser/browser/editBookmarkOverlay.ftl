@@ -49,4 +49,4 @@ bookmark-overlay-keyword-2 =
     .value = Parola clave
     .accesskey = P
 bookmark-overlay-tags-caption-label = Usa etiquettas pro organisar e cercar marcapaginas a partir del barra de adresses
-bookmark-overlay-keyword-caption-label = Usa parolas clave pro aperir marcapaginas directemente desde le barra de adresses
+bookmark-overlay-keyword-caption-label-2 = Usa un sol parola clave pro aperir marcapaginas directemente del barra de adresses
