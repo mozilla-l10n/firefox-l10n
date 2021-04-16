@@ -38,6 +38,8 @@ abuse-report-submit-button = Unviar
 ## Variables:
 ##   $addon-name (string) - Name of the add-on
 
+abuse-report-messagebar-aborted = Encaboxóse l'informe de <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-submitting = Unviando l'informe de <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-submitted = Gracies por unviar un informe. ¿Quies quitar <span data-l10n-name="addon-name">{ $addon-name }</span>?
 abuse-report-messagebar-submitted-noremove = Gracies por unviar un informe.
 abuse-report-messagebar-removed-extension = Gracies por unviar un informe. Quitesti la estensión <span data-l10n-name="addon-name">{ $addon-name }</span>.
