@@ -301,6 +301,7 @@ identity-https-only-dropdown-off =
 identity-https-only-dropdown-off-temporarily =
     .label = తాత్కాలికంగా అచేతనం
 identity-permissions-storage-access-header = క్రాస్-సైటు కుకీలు
+identity-permissions-storage-access-learn-more = ఇంకా తెలుసుకోండి
 identity-permissions-reload-hint = మార్పులు ప్రతిఫలించడానికి మీరు ఈ పేజీని మళ్ళీ లోడు చెయ్యాల్సిరావచ్చు.
 identity-permissions-empty = ఈ సైటుకి మీరు ఎటువంటి ప్రత్యేక అనుమతులు ఇవ్వలేదు.
 identity-clear-site-data =
@@ -494,9 +495,6 @@ pointerlock-warning-no-domain = మీ పాయింటర్ ఈ పత్ర
 
 ## Subframe crash notification
 
-crashed-subframe-learnmore =
-    .label = ఇంకా తెలుసుకోండి
-    .accesskey = L
 crashed-subframe-learnmore-link =
     .value = ఇంకా తెలుసుకోండి
 crashed-subframe-submit =
@@ -507,8 +505,6 @@ crashed-subframe-submit =
 
 bookmarks-show-all-bookmarks =
     .label = ఇష్టాంశాలన్నింటినీ చూపించు
-bookmarks-recent-bookmarks-panel =
-    .value = ఇటీవలి ఇష్టాంశాలు
 bookmarks-recent-bookmarks-panel-subheader = ఇటీవలి ఇష్టాంశాలు
 bookmarks-toolbar-chevron =
     .tooltiptext = మరిన్ని ఇష్టాంశాలను చూపించు
@@ -592,6 +588,7 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = ఈ సైటు లోని ఆడియో లేదా వీడియో DRM సాఫ్ట్‌వేరును వాడుతోంది, అది { -brand-short-name } మిమ్మల్ని ఏమేం చేయనివ్వగలదో పరిమితం చేయవచ్చు.
+eme-notifications-drm-content-playing-manage = అమరికలను నిర్వహించుకోండి
 eme-notifications-drm-content-playing-manage-accesskey = M
 eme-notifications-drm-content-playing-dismiss = విస్మరించు
 eme-notifications-drm-content-playing-dismiss-accesskey = D

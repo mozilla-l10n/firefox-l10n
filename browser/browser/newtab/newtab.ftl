@@ -16,6 +16,17 @@ newtab-search-box-search-button =
     .title = వెతకండి
     .aria-label = వెతకండి
 newtab-search-box-search-the-web-text = జాలంలో వెతకండి
+newtab-search-box-handoff-text-no-engine = వెతకండి లేదా చిరునామాను ఇవ్వండి
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-input =
+    .placeholder = { $engine }‌తో వెతకండి లేదా చిరునామాను ఇవ్వండి
+    .title = { $engine }‌తో వెతకండి లేదా చిరునామాను ఇవ్వండి
+    .aria-label = { $engine }‌తో వెతకండి లేదా చిరునామాను ఇవ్వండి
+newtab-search-box-handoff-input-no-engine =
+    .placeholder = వెతకండి లేదా చిరునామాను ఇవ్వండి
+    .title = వెతకండి లేదా చిరునామాను ఇవ్వండి
+    .aria-label = వెతకండి లేదా చిరునామాను ఇవ్వండి
 newtab-search-box-search-the-web-input =
     .placeholder = జాలంలో వెతకండి
     .title = జాలంలో వెతకండి
