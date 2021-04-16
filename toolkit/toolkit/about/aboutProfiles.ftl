@@ -17,7 +17,7 @@ profiles-flush-restart-button = Επανεκκίνηση του { -brand-short-n
 #   $name (String) - Name of the profile
 profiles-name = Προφίλ: { $name }
 profiles-is-default = Προεπιλεγμένο προφίλ
-profiles-rootdir = Ριζικός κατάλογος
+profiles-rootdir = Κατάλογος ρίζας
 # localDir is used to show the directory corresponding to
 # the main profile directory that exists for the purpose of storing data on the
 # local filesystem, including cache files or other data files that may not
