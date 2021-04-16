@@ -61,6 +61,8 @@ options-screenshot-label = Συμπεριφορά στιγμιότυπου
 options-screenshot-clipboard-label = Στιγμιότυπο στο πρόχειρο
 options-screenshot-clipboard-tooltip =
     .title = Αποθηκεύει το στιγμιότυπο απευθείας στο πρόχειρο
+options-screenshot-clipboard-tooltip2 =
+    .title = Αποθηκεύει το στιγμιότυπο απευθείας στο πρόχειρο
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
 options-screenshot-audio-label = Αναπαραγωγή ήχου κλείστρου κάμερας
 options-screenshot-audio-tooltip =
