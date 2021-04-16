@@ -105,9 +105,9 @@ about-debugging-setup-usb-status-updating = Ενημέρωση…
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-dev-menu2 = Ενεργοποιήστε το μενού προγραμματιστών στην Android συσκευή σας.
 # USB section step by step guide
-about-debugging-setup-usb-step-enable-debug2 = Ενεργοποιήστε την αποσφαλμάτωση μέσω USB στο μενού προγραμματιστών Android.
+about-debugging-setup-usb-step-enable-debug2 = Ενεργοποιήστε το "Εντοπισμός σφαλμάτων μέσω USB" στο μενού προγραμματιστή Android.
 # USB section step by step guide
-about-debugging-setup-usb-step-enable-debug-firefox2 = Ενεργοποιήστε την αποσφαλμάτωση μέσω USB στο Firefox της Android συσκευής σας.
+about-debugging-setup-usb-step-enable-debug-firefox2 = Ενεργοποιήστε τον έλεγχο σφαλμάτων μέσω USB στο Firefox της Android συσκευής σας.
 # USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Συνδέστε τη συσκευή Android στον υπολογιστή σας.
 # Text shown in the USB section of the setup page with a link to troubleshoot connection errors.

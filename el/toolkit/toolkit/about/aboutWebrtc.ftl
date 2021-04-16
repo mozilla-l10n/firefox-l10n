@@ -80,9 +80,9 @@ about-webrtc-nominated = Υποψήφια
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Επιλεγμένα
 about-webrtc-save-page-label = Αποθήκευση σελίδας
-about-webrtc-debug-mode-msg-label = Λειτουργία αποσφαλμάτωσης
+about-webrtc-debug-mode-msg-label = Λειτουργία ελέγχου σφαλμάτων
 about-webrtc-debug-mode-off-state-label = Έναρξη λειτουργίας ελέγχου σφαλμάτων
-about-webrtc-debug-mode-on-state-label = Διακοπή λειτουργίας αποσφαλμάτωσης
+about-webrtc-debug-mode-on-state-label = Διακοπή λειτουργίας ελέγχου σφαλμάτων
 about-webrtc-stats-heading = Στατιστικά συνεδρίας
 about-webrtc-stats-clear = Εκκαθάριση ιστορικού
 about-webrtc-log-heading = Αρχείο καταγραφής σύνδεσης
@@ -177,7 +177,7 @@ about-webrtc-frame-stats-heading = Στατιστικά καρέ βίντεο - 
 
 about-webrtc-save-page-msg = η σελίδα αποθηκεύτηκε στην διαδρομή: { $path }
 about-webrtc-debug-mode-off-state-msg = το αρχείο πληροφοριών μπορεί να βρεθεί στο: { $path }
-about-webrtc-debug-mode-on-state-msg = κατάσταση αποσφαλμάτωσης ενεργή, το αρχείο πληροφοριών είναι στο: { $path }
+about-webrtc-debug-mode-on-state-msg = κατάσταση ελέγχου σφαλμάτων ενεργή, αρχείο καταγραφής στο: { $path }
 about-webrtc-aec-logging-off-state-msg = τα αρχεία καταγραφής μπορούν να βρεθούν στο: { $path }
 
 ##
