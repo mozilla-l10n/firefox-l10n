@@ -49,4 +49,4 @@ bookmark-overlay-keyword-2 =
     .value = Скорочення
     .accesskey = С
 bookmark-overlay-tags-caption-label = Застосовуйте мітки для впорядкування та пошуку закладок з панелі адреси
-bookmark-overlay-keyword-caption-label = За допомогою скорочень відкривайте закладки безпосередньо з панелі адреси
+bookmark-overlay-keyword-caption-label-2 = За допомогою одного скорочення відкривайте закладки безпосередньо з панелі адреси

@@ -322,6 +322,7 @@ identity-https-only-info-turn-off2 = Якщо сторінка виглядає 
 identity-https-only-info-no-upgrade = Не вдалося змінити з'єднання з HTTP.
 identity-permissions-storage-access-header = Куки сторонніх сайтів
 identity-permissions-storage-access-hint = Ці сторони сайти можуть використовувати куки стеження між сайтами та дані сайту, поки ви перебуваєте на поточному вебсайті.
+identity-permissions-storage-access-learn-more = Дізнатись більше
 identity-permissions-reload-hint = Для застосування змін, можливо, доведеться перезавантажити сторінку.
 identity-permissions-empty = Ви не надали цьому сайту жодних спеціальних дозволів.
 identity-clear-site-data =
