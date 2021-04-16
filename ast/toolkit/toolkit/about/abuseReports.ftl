@@ -51,6 +51,7 @@ abuse-report-messagebar-error-recent-submit = L'informe de «<span data-l10n-nam
 
 abuse-report-messagebar-action-remove-extension = Sí, quitala
 abuse-report-messagebar-action-remove-theme = Sí, quitalu
+abuse-report-messagebar-action-retry = Retentar
 abuse-report-messagebar-action-cancel = Encaboxar
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
