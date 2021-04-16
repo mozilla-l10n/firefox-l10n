@@ -325,6 +325,7 @@ identity-https-only-info-turn-off2 = Jeli so zda, zo strona je wobškodźena, ch
 identity-https-only-info-no-upgrade = Zwisk njeda so z HTTP aktualizować.
 identity-permissions-storage-access-header = Placki wjacorych sydłow
 identity-permissions-storage-access-hint = Tući wobdźěleni móža placki a sydłowe daty wjacorych sydłow wužiwać, mjeztym zo sće na tutym sydle.
+identity-permissions-storage-access-learn-more = Dalše informacije
 identity-permissions-reload-hint = Dyrbiće snano stronu znowa začitać, zo bychu so změny wuskutkowali.
 identity-permissions-empty = Njejsće tutomu sydłu wosebite prawa přizwolił.
 identity-clear-site-data =
@@ -593,9 +594,6 @@ pointerlock-warning-no-domain = Tutón dokument ma kontrolu nad wašim pokazowak
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Dźěl tuteje strony je spadnył.</strong> Zo byšće { -brand-product-name } wo tutym problemje informował a jón spěšnišo rozrisował, pósćelće prošu spadowu rozprawu.
-crashed-subframe-learnmore =
-    .label = Dalše informacije
-    .accesskey = D
 crashed-subframe-learnmore-link =
     .value = Dalše informacije
 crashed-subframe-submit =
@@ -608,8 +606,6 @@ bookmarks-show-all-bookmarks =
     .label = Wšě zapołožki pokazać
 bookmarks-manage-bookmarks =
     .label = Zapołožki rjadować
-bookmarks-recent-bookmarks-panel =
-    .value = Najnowše zapołožki
 bookmarks-recent-bookmarks-panel-subheader = Najnowše zapołožki
 bookmarks-toolbar-chevron =
     .tooltiptext = Dalše zapołožki pokazać
