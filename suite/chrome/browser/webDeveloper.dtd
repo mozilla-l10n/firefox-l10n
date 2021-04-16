@@ -4,7 +4,7 @@
 
 <!ENTITY validatePage.label            "Επικύρωση σελίδας">
 <!ENTITY validatePage.accesskey        "Ε">
-<!ENTITY allowRemoteDebugging.label     "Να επιτρέπεται ο απομακρυσμένος εντοπισμός σφαλμάτων">
+<!ENTITY allowRemoteDebugging.label     "Να επιτρέπεται ο απομακρυσμένος έλεγχος σφαλμάτων">
 <!ENTITY allowRemoteDebugging.accesskey "Ν">
 
 <!ENTITY devToolsCmd.keycode             "VK_F12">

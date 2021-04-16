@@ -30,7 +30,7 @@
 <!ENTITY enablePrefetch.label            "Προφόρτωση ιστοσελίδων στην κατάσταση αδράνειας, ώστε να φορτώνονται ταχύτερα οι σύνδεσμοι σε ιστοσελίδες που έχουν σχεδιαστεί για προφόρτωση">
 <!ENTITY enablePrefetch.accesskey        "Π">
 
-<!ENTITY debugCache.label                "Εντοπισμός σφαλμάτων">
+<!ENTITY debugCache.label                "Έλεγχος σφαλμάτων">
 <!ENTITY debugEnableMemCache.label       "Ενεργοποίηση προσωρινής μνήμης μνήμης">
 <!ENTITY debugEnableMemCache.accesskey   "Ε">
 <!ENTITY debugEnableDiskCache.label      "Ενεργοποίηση προσωρινής μνήμης δίσκου">
