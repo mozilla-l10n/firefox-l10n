@@ -24,6 +24,7 @@ sec-error-cert-valid = Esti certificáu ye válidu.
 sec-error-cert-not-valid = Esti certificáu nun ye válidu.
 sec-internal-only = **Módulu NAMÁS internu**
 xp-sec-fortezza-person-not-found = Nun s'atopó la personalidá
+xp-java-delete-privilege-error = Nun puede desaniciase'l privilexu
 sec-error-pkcs12-duplicate-data = Nun s'importó, yá ta na base de datos.
 sec-error-message-send-aborted = El mensaxe nun s'unvió.
 sec-error-ocsp-not-enabled = Has activar OCSP enantes de facer esta operación.
