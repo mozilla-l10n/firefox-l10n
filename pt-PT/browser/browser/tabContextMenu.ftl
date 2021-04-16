@@ -2,9 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-tab-context-open-a-new-tab =
-    .label = Abrir num novo separador
-    .accesskey = b
+tab-context-new-tab =
+    .label = Novo separador
+    .accesskey = v
 reload-tab =
     .label = Recarregar separador
     .accesskey = R

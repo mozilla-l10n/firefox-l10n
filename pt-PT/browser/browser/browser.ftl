@@ -319,6 +319,7 @@ identity-https-only-info-turn-off2 = Se o site parecer estragado, pode querer de
 identity-https-only-info-no-upgrade = Não foi possível atualizar a ligação de HTTP.
 identity-permissions-storage-access-header = Cookies inter-sites
 identity-permissions-storage-access-hint = Estas entidades podem utilizar cookies inter-sites e dados do site enquanto estiver neste site.
+identity-permissions-storage-access-learn-more = Saber mais
 identity-permissions-reload-hint = Poderá ter de recarregar a página para as alterações se aplicarem.
 identity-permissions-empty = Não concedeu quaisquer permissões especiais a este site.
 identity-clear-site-data =
@@ -581,9 +582,6 @@ pointerlock-warning-no-domain = Este documento tem controlo do seu apontador. Pr
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Uma parte desta página falhou.</strong> Para tornar o problema conhecido e ajudar a que o mesmo seja resolvido mais rapidamente no { -brand-product-name }, por favor submeta um relatório.
-crashed-subframe-learnmore =
-    .label = Saber mais
-    .accesskey = b
 crashed-subframe-learnmore-link =
     .value = Saber mais
 crashed-subframe-submit =
@@ -596,8 +594,6 @@ bookmarks-show-all-bookmarks =
     .label = Mostrar todos os marcadores
 bookmarks-manage-bookmarks =
     .label = Gerir marcadores
-bookmarks-recent-bookmarks-panel =
-    .value = Marcadores recentes
 bookmarks-recent-bookmarks-panel-subheader = Marcadores recentes
 bookmarks-toolbar-chevron =
     .tooltiptext = Mostrar mais marcadores
