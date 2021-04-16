@@ -49,4 +49,4 @@ bookmark-overlay-keyword-2 =
     .value = 关键词
     .accesskey = K
 bookmark-overlay-tags-caption-label = 使用标签从地址栏搜索书签或进行管理
-bookmark-overlay-keyword-caption-label = 使用关键词直接从地址栏打开书签
+bookmark-overlay-keyword-caption-label-2 = 使用单个关键词直接从地址栏打开书签
