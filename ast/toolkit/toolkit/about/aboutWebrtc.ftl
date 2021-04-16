@@ -18,6 +18,9 @@ about-webrtc-aec-logging-on-state-label = Parar el rexistru AEC
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
+about-webrtc-sdp-heading = SDP
+about-webrtc-local-sdp-heading = SDP llocal
+about-webrtc-remote-sdp-heading = SDP remotu
 
 ##
 
