@@ -259,7 +259,7 @@ mr1-onboarding-import-primary-button-label-no-attribution = 从先前所用浏�
 mr1-onboarding-import-secondary-button-label = 暂时不要
 mr1-onboarding-theme-subtitle = 换上主题，让 { -brand-short-name } 有您的个性。
 mr1-onboarding-theme-primary-button-label = 保存主题
-mr1-onboarding-theme-secondary-button-label = 现在不要
+mr1-onboarding-theme-secondary-button-label = 暂时不要
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = 系统主题
 mr1-onboarding-theme-label-light = 明亮
