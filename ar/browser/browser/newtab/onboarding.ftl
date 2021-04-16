@@ -288,9 +288,51 @@ mr1-onboarding-theme-secondary-button-label = ليس الآن
 mr1-onboarding-theme-label-system = سمة النظام
 mr1-onboarding-theme-label-light = فاتحة
 mr1-onboarding-theme-label-dark = داكنة
+# "Alpenglow" here is the name of the theme, and should be kept in English.
+mr1-onboarding-theme-label-alpenglow = شفق ألبي (Alpenglow)
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of system theme
+mr1-onboarding-theme-tooltip-system =
+    .title =
+        اتبع سمة نظام التشغيل لعرض
+        الأزرار والقوائم والنوافذ.
+# Input description for system theme
+mr1-onboarding-theme-description-system =
+    .aria-description =
+        اتبع سمة نظام التشغيل لعرض
+        الأزرار والقوائم والنوافذ.
+# Tooltip displayed on hover of light theme
+mr1-onboarding-theme-tooltip-light =
+    .title =
+        استعمل سمة فاتحة لعرض
+        الأزرار والقوائم والنوافذ.
+# Input description for light theme
+mr1-onboarding-theme-description-light =
+    .aria-description =
+        استعمل سمة فاتحة لعرض
+        الأزرار والقوائم والنوافذ.
+# Tooltip displayed on hover of dark theme
+mr1-onboarding-theme-tooltip-dark =
+    .title =
+        استعمل سمة داكنة لعرض
+        الأزرار والقوائم والنوافذ.
+# Input description for dark theme
+mr1-onboarding-theme-description-dark =
+    .aria-description =
+        استعمل سمة داكنة لعرض
+        الأزرار والقوائم والنوافذ.
+# Tooltip displayed on hover of Alpenglow theme
+mr1-onboarding-theme-tooltip-alpenglow =
+    .title =
+        استعمل سمة مفعمة بالألوان
+        لعرض الأزرار والقوائم والنوافذ.
+# Input description for Alpenglow theme
+mr1-onboarding-theme-description-alpenglow =
+    .aria-description =
+        استعمل سمة مفعمة بالألوان
+        لعرض الأزرار والقوائم والنوافذ.
