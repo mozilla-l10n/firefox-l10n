@@ -49,4 +49,4 @@ bookmark-overlay-keyword-2 =
     .value = Pallabra clave
     .accesskey = P
 bookmark-overlay-tags-caption-label = Usa etiquetes pa organizar y buscar marcadores dende la barra de direiciones
-bookmark-overlay-keyword-caption-label = Usa pallabres clave p'abrir marcadores direutamente dende la barra de direiciones
+bookmark-overlay-keyword-caption-label-2 = Usa una pallabra clave p'abrir los marcadores direutamente dende la barra de direiciones
