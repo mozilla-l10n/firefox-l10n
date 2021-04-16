@@ -4,11 +4,11 @@
 
 <!-- extracted from pref-eventdebugging.xul -->
 
-<!ENTITY pref.debugging.title "Εντοπισμός σφαλμάτων">
+<!ENTITY pref.debugging.title "Έλεγχος σφαλμάτων">
 
 <!-- Render Debugging -->
 <!ENTITY debugRendering.label             "Απόδοση">
-<!ENTITY debugXULBox.label                "Εντοπισμός σφαλμάτων πλαισίων XUL">
+<!ENTITY debugXULBox.label                "Έλεγχος σφαλμάτων πλαισίων XUL">
 <!ENTITY debugXULBox.accesskey            "X">
 <!ENTITY debugDisableXULCache.label       "Απενεργοποίηση προσωρινής μνήμης XUL">
 <!ENTITY debugDisableXULCache.accesskey   "L">

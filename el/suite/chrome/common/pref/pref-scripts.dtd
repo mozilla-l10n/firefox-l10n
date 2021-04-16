@@ -20,7 +20,7 @@
 <!ENTITY allowContextmenuDisable.label   "Απενεργοποίηση ή αντικατάσταση μενού επιλογών">
 <!ENTITY allowHideStatusBar.label        "Απόκρυψη γραμμής κατάστασης">
 
-<!ENTITY debugging.label                  "Εντοπισμός σφαλμάτων JavaScript">
+<!ENTITY debugging.label                  "Έλεγχος σφαλμάτων JavaScript">
 <!ENTITY debugEnableDump.label            "Ενεργοποίηση εξόδου JavaScript dump()">
 <!ENTITY debugEnableDump.accesskey        "Ε">
 <!ENTITY debugStrictJavascript.label      "Εμφάνιση αυστηρών προειδοποιήσεων JavaScript">
