@@ -281,10 +281,24 @@ mr1-onboarding-import-primary-button-label-attribution = { $previous }에서 가
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = 이전 브라우저에서 가져오기
 mr1-onboarding-import-secondary-button-label = 나중에
-mr1-onboarding-theme-subtitle = 테마로 { -brand-short-name }를 개인 설정하세요.
+mr1-onboarding-theme-header = 나만의 것으로 만들기
+mr1-onboarding-theme-subtitle = 테마로 { -brand-short-name }를 개인화하세요.
+mr1-onboarding-theme-primary-button-label = 테마 저장
+mr1-onboarding-theme-secondary-button-label = 나중에
+# System theme uses operating system color settings
+mr1-onboarding-theme-label-system = 시스템 테마
+mr1-onboarding-theme-label-light = 밝게
+mr1-onboarding-theme-label-dark = 어둡게
+# "Alpenglow" here is the name of the theme, and should be kept in English.
+mr1-onboarding-theme-label-alpenglow = Alpenglow
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of system theme
+mr1-onboarding-theme-tooltip-system =
+    .title =
+        버튼, 메뉴 및 창에 
+        운영 체제의 테마를 따릅니다.
