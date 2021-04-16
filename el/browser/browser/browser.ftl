@@ -319,6 +319,7 @@ identity-https-only-info-turn-off2 = Αν η σελίδα φαίνεται πρ�
 identity-https-only-info-no-upgrade = Δεν είναι δυνατή η αναβάθμιση της σύνδεσης από HTTP.
 identity-permissions-storage-access-header = Cookies μεταξύ ιστοσελίδων
 identity-permissions-storage-access-hint = Αυτά τα μέρη μπορούν να χρησιμοποιήσουν cookies μεταξύ ιστοσελίδων και δεδομένα ιστότοπων όσο βρίσκεστε σε αυτή την ιστοσελίδα.
+identity-permissions-storage-access-learn-more = Μάθετε περισσότερα
 identity-permissions-reload-hint = Ίσως χρειαστεί να φορτώσετε εκ νέου τη σελίδα για εφαρμογή των αλλαγών.
 identity-permissions-empty = Δεν έχετε χορηγήσει ειδικές άδειες στη σελίδα.
 identity-clear-site-data =
@@ -578,9 +579,6 @@ pointerlock-warning-no-domain = Αυτό το έγγραφο ελέγχει το
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Μέρος της σελίδας κατέρρευσε.</strong> Για να ενημερώσετε το { -brand-product-name } σχετικά με αυτό το ζήτημα, ώστε να διορθωθεί γρηγορότερα, παρακαλούμε υποβάλλετε μια αναφορά.
-crashed-subframe-learnmore =
-    .label = Μάθετε περισσότερα
-    .accesskey = Μ
 crashed-subframe-learnmore-link =
     .value = Μάθετε περισσότερα
 crashed-subframe-submit =
@@ -593,8 +591,6 @@ bookmarks-show-all-bookmarks =
     .label = Προβολή όλων των σελιδοδεικτών
 bookmarks-manage-bookmarks =
     .label = Διαχείριση σελιδοδεικτών
-bookmarks-recent-bookmarks-panel =
-    .value = Πρόσφατοι σελιδοδείκτες
 bookmarks-recent-bookmarks-panel-subheader = Πρόσφατοι σελιδοδείκτες
 bookmarks-toolbar-chevron =
     .tooltiptext = Προβολή περισσότερων σελιδοδεικτών

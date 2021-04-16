@@ -2,9 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-tab-context-open-a-new-tab =
-    .label = Άνοιγμα νέας καρτέλας
-    .accesskey = Ά
+tab-context-new-tab =
+    .label = Νέα καρτέλα
+    .accesskey = κ
 reload-tab =
     .label = Ανανέωση καρτέλας
     .accesskey = Α
