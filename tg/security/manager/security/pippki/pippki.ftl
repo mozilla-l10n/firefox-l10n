@@ -7,6 +7,8 @@
 
 change-password-window =
     .title = Тағйир додани ниҳонвожаи хусусӣ…
+change-password-new = Ниҳонвожаи нав:
+change-password-reenter = Ниҳонвожаи нав (такроран):
 
 ## Reset Password dialog
 

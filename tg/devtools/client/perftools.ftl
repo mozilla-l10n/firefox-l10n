@@ -14,6 +14,7 @@ perftools-heading-settings = Танзимоти пурра
 perftools-heading-buffer = Танзимоти буфер
 perftools-heading-features = Хусусиятҳо
 perftools-heading-features-disabled = Хусусиятҳои ғайрифаъол
+perftools-heading-features-experimental = Таҷрибавӣ
 
 ##
 
@@ -23,6 +24,7 @@ perftools-heading-features-disabled = Хусусиятҳои ғайрифаъо�
 
 ##
 
+perftools-devtools-settings-label = Танзимот
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
@@ -32,7 +34,9 @@ perftools-heading-features-disabled = Хусусиятҳои ғайрифаъо�
 
 ##
 
+perftools-button-add-directory = Илова кардани ҷузвдон
 perftools-button-remove-directory = Тоза кардани маводи интихобшуда
+perftools-button-edit-settings = Таҳрир кардани танзимот…
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 

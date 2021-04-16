@@ -111,6 +111,8 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY addons.label                 "Ҷузъҳои иловагӣ">
 
 
+<!ENTITY newNavigatorCmd.label        "Равзанаи нав">
+<!ENTITY newPrivateWindow.label     "Равзанаи махфии нав">
 
 <!ENTITY editMenu.label         "Таҳрир кардан">
 <!ENTITY preferencesCmd2.label       "Имконот">
