@@ -38,7 +38,7 @@ about-telemetry-captured-stacks-section = Κατειλημμένες Στοίβ�
 about-telemetry-late-writes-section = Καθυστερημένες εγγραφές
 about-telemetry-raw-payload-section = Ακατέργαστο ωφέλιμο φορτίο
 about-telemetry-raw = Ακατέργαστη JSON
-about-telemetry-full-sql-warning = ΣΗΜΕΙΩΣΗ: Η αργή αποσφαλμάτωση SQL είναι ενεργή. Τα πλήρη νήματα SQL ενδέχεται να εμφανίζονται παρακάτω, αλλά δεν θα υποβάλλονται στην Τηλεμετρία.
+about-telemetry-full-sql-warning = ΣΗΜΕΙΩΣΗ: Ο αργός έλεγχος σφαλμάτων SQL είναι ενεργός. Τα πλήρη αλφαριθμητικά SQL ενδέχεται να εμφανίζονται παρακάτω, αλλά δεν θα υποβάλλονται στην Τηλεμετρία.
 about-telemetry-fetch-stack-symbols = Λήψη ονομάτων συναρτήσεων για στοίβες
 about-telemetry-hide-stack-symbols = Εμφάνιση ακατέργαστων δεδομένων στοίβας
 # Selects the correct release version

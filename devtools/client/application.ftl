@@ -65,7 +65,7 @@ serviceworker-empty-suggestions = Εάν η τρέχουσα σελίδα πρέ
 serviceworker-empty-suggestions-console = Αναζήτηση σφαλμάτων στην κονσόλα. <a>Άνοιγμα κονσόλας</a>
 # Suggestion to use the debugger to investigate why a service worker is not registered.
 # Clicking on the link will switch from the Application panel to the debugger.
-serviceworker-empty-suggestions-debugger = Διερευνήστε την καταχώρηση Service Worker προς αναζήτηση εξαιρέσεων. <a>Άνοιγμα αποσφαλμάτωσης</a>
+serviceworker-empty-suggestions-debugger = Καταχωρήστε το service worker σας και αναζητήστε εξαιρέσεις. <a>Άνοιγμα ελέγχου σφαλμάτων</a>
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = Επιθεωρήστε Service Workers από άλλους τομείς. <a>Άνοιγμα about:debugging</a>

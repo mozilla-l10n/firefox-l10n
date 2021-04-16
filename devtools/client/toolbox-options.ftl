@@ -98,7 +98,7 @@ options-disable-javascript-label = Απενεργοποίηση JavaScript *
 options-disable-javascript-tooltip =
     .title = Η ενεργοποίηση αυτής της επιλογής θα απενεργοποιήσει το JavaScript για την τρέχουσα καρτέλα. Αν η καρτέλα ή η εργαλειοθήκη είναι κλειστή, τότε αυτή η ρύθμιση θα ξεχαστεί.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
-options-enable-chrome-label = Ενεργοποίηση εργαλειοθηκών προγράμματος περιήγησης chrome και προσθέτων αποσφαλμάτωσης
+options-enable-chrome-label = Ενεργοποίηση εργαλειοθηκών chrome και προσθέτων ελέγχου σφαλμάτων
 options-enable-chrome-tooltip =
     .title = Η ενεργοποίηση αυτής της επιλογής θα σας επιτρέψει να χρησιμοποιήσετε διάφορα εργαλεία ανάπτυξης στο πλαίσιο του προγράμματος περιήγησης (μέσω του μενού Εργαλεία > Ανάπτυξη web > Εργαλειοθήκη προγράμματος περιήγησης) και να κάνετε έλεγχο σφαλμάτων στα πρόσθετα από τη Διαχείριση προσθέτων
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
