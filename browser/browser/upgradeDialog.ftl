@@ -26,6 +26,10 @@ upgrade-dialog-new-secondary-button = Không phải bây giờ
 
 ## Theme selection screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-theme-title =
+    Khởi đầu dễ dàng
+    với một chủ đề mới
 upgrade-dialog-theme-system = Chủ đề hệ thống
     .title = Áp dụng theo chủ đề hệ điều hành cho các nút, menu và cửa sổ
 upgrade-dialog-theme-light = Sáng
