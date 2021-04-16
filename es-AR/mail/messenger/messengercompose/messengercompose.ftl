@@ -124,4 +124,4 @@ many-public-recipients-bcc =
     .accesskey = U
 many-public-recipients-ignore =
     .label = Mantener públicos a los destinatarios
-    .accesskey = K
+    .accesskey = p
