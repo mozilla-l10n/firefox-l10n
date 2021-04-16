@@ -25,7 +25,7 @@ onboarding-button-label-get-started = 시작하기
 
 ## Welcome page strings
 
-onboarding-welcome-header = { -brand-short-name }를 사용해 주셔서 감사합니다.
+onboarding-welcome-header = { -brand-short-name }에 오신 것을 환영합니다
 onboarding-welcome-body = 이제 브라우저가 있습니다.<br/>{ -brand-product-name }의 나머지를 만나 보세요.
 onboarding-welcome-learn-more = 장점 더 알아보기
 onboarding-welcome-modal-get-body = 이제 브라우저가 있습니다.<br/>{ -brand-product-name }를 최대한 활용해 보세요.
@@ -263,7 +263,25 @@ onboarding-multistage-theme-description-alpenglow =
 # Firefox to pursue those passions, as well as the boldness in their
 # choice to use Firefox over a larger competitor browser.
 # An alternative title for localization is: "It starts here".
-mr1-welcome-screen-hero-text = 불은 여기서 시작
+mr1-welcome-screen-hero-text = 여기서부터 시작합니다
+# This button will open system settings to turn on prefers-reduced-motion
+mr1-onboarding-reduce-motion-button-label = 애니메이션 끄기
+mr1-onboarding-welcome-header = { -brand-short-name }에 오신 것을 환영합니다
+mr1-onboarding-set-default-pin-primary-button-label = { -brand-short-name }를 기본 브라우저로 설정
+    .title = { -brand-short-name }를 기본 브라우저로 설정하고 작업 표시줄에 고정
+mr1-onboarding-set-default-only-primary-button-label = { -brand-short-name }를 기본 브라우저로 설정
+mr1-onboarding-set-default-secondary-button-label = 나중에
+mr1-onboarding-sign-in-button-label = 로그인
+mr1-onboarding-import-header = 모든 것을 가져오기
+mr1-onboarding-import-subtitle = 비밀번호, 북마크 등을 <br/>가져옵니다.
+# The primary import button label will depend on whether we can detect which browser was used to download Firefox.
+# Variables:
+#   $previous (Str) - Previous browser name, such as Edge, Chrome
+mr1-onboarding-import-primary-button-label-attribution = { $previous }에서 가져오기
+# This string will be used in cases where we can't detect the previous browser name.
+mr1-onboarding-import-primary-button-label-no-attribution = 이전 브라우저에서 가져오기
+mr1-onboarding-import-secondary-button-label = 나중에
+mr1-onboarding-theme-subtitle = 테마로 { -brand-short-name }를 개인 설정하세요.
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
