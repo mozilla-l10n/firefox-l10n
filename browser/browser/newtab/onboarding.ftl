@@ -270,6 +270,7 @@ mr1-onboarding-welcome-header = Καλώς ορίσατε στο { -brand-short-
 mr1-onboarding-set-default-secondary-button-label = Όχι τώρα
 mr1-onboarding-sign-in-button-label = Σύνδεση
 mr1-onboarding-import-header = Μεταφέρετε όλα τα δεδομένα σας
+mr1-onboarding-import-subtitle = Εισάγετε κωδικούς πρόσβασης <br/>σελιδοδείκτες και πολλά άλλα.
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
@@ -277,6 +278,7 @@ mr1-onboarding-import-primary-button-label-attribution = Εισαγωγή από
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = Εισαγωγή από προηγούμενο πρόγραμμα περιήγησης
 mr1-onboarding-import-secondary-button-label = Όχι τώρα
+mr1-onboarding-theme-header = Κάντε το δικό σας
 mr1-onboarding-theme-primary-button-label = Αποθήκευση θέματος
 mr1-onboarding-theme-secondary-button-label = Όχι τώρα
 # System theme uses operating system color settings
@@ -291,3 +293,33 @@ mr1-onboarding-theme-label-alpenglow = Alpenglow
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of light theme
+mr1-onboarding-theme-tooltip-light =
+    .title =
+        Χρήση φωτεινού θέματος για τα κουμπιά,
+        τα μενού και τα παράθυρα.
+# Input description for light theme
+mr1-onboarding-theme-description-light =
+    .aria-description =
+        Χρήση φωτεινού θέματος για τα κουμπιά,
+        τα μενού και τα παράθυρα.
+# Tooltip displayed on hover of dark theme
+mr1-onboarding-theme-tooltip-dark =
+    .title =
+        Χρήση σκοτεινού θέματος για τα κουμπιά,
+        τα μενού και τα παράθυρα.
+# Input description for dark theme
+mr1-onboarding-theme-description-dark =
+    .aria-description =
+        Χρήση σκοτεινού θέματος για τα κουμπιά,
+        τα μενού και τα παράθυρα.
+# Tooltip displayed on hover of Alpenglow theme
+mr1-onboarding-theme-tooltip-alpenglow =
+    .title =
+        Χρήση ενός δυναμικού, πολύχρωμου θέματος για τα κουμπιά,
+        τα μενού και τα παράθυρα.
+# Input description for Alpenglow theme
+mr1-onboarding-theme-description-alpenglow =
+    .aria-description =
+        Χρήση ενός δυναμικού, πολύχρωμου θέματος για τα κουμπιά,
+        τα μενού και τα παράθυρα.
