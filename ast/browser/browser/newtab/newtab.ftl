@@ -68,7 +68,7 @@ newtab-menu-unpin = Lliberar
 newtab-menu-delete-history = Desaniciar del historial
 newtab-menu-save-to-pocket = Guardar en { -pocket-brand-name }
 newtab-menu-delete-pocket = Desaniciar de { -pocket-brand-name }
-newtab-menu-archive-pocket = Archivar en{ -pocket-brand-name }
+newtab-menu-archive-pocket = Archivar en { -pocket-brand-name }
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
