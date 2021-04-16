@@ -118,3 +118,15 @@ move-attachment-last-panel-button =
 button-return-receipt =
     .label = Potvrzení o přijetí
     .tooltiptext = Zažádá o potvrzení o přijetí této zprávy
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+consider-bcc-notification =
+    { $count ->
+        [few] Celkem { $count } adresáti v polích Komu a Kopie navzájem uvidí své adresy.
+       *[other] Celkem { $count } adresátů v polích Komu a Kopie navzájem uvidí své adresy.
+    } Pokud se tomu chcete vyhnout, použijte pole Skrytá kopie.
+many-public-recipients-bcc =
+    .label = Použít skrytou kopii
+    .accesskey = u
+many-public-recipients-ignore =
+    .label = Ponechat příjemce veřejně
+    .accesskey = n
