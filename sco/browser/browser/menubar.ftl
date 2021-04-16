@@ -155,19 +155,80 @@ menu-view-full-zoom-enlarge =
 menu-view-full-zoom-reduce =
     .label = Zoom Oot
     .accesskey = O
+menu-view-full-zoom-actual-size =
+    .label = Actual Size
+    .accesskey = A
+menu-view-full-zoom-toggle =
+    .label = Zoom Text Anely
+    .accesskey = T
+menu-view-page-style-menu =
+    .label = Page Style
+    .accesskey = y
+menu-view-page-style-no-style =
+    .label = Nae Style
+    .accesskey = n
+menu-view-page-basic-style =
+    .label = Staunart Page Style
+    .accesskey = B
+menu-view-charset =
+    .label = Text Encodin
+    .accesskey = c
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-enter-full-screen =
+    .label = Ingang tae Hale Screen
+    .accesskey = F
+menu-view-exit-full-screen =
+    .label = Ootgang fae Hale Screen
+    .accesskey = F
+menu-view-full-screen =
+    .label = Hale Screen
+    .accesskey = F
 
 ##
 
+menu-view-show-all-tabs =
+    .label = Kythe aw Tabs
+    .accesskey = A
+menu-view-bidi-switch-page-direction =
+    .label = Turn Roond Page Direction
+    .accesskey = D
 
 ## History Menu
 
+menu-history =
+    .label = Historie
+    .accesskey = s
+menu-history-show-all-history =
+    .label = Kythe Aw Historie
+menu-history-clear-recent-history =
+    .label = Dicht Recent Historie...
+menu-history-synced-tabs =
+    .label = Synced Tabs
+menu-history-restore-last-session =
+    .label = Restore Previous Session
+menu-history-hidden-tabs =
+    .label = Hidden Tabs
+menu-history-undo-menu =
+    .label = Recently Sneckit Tabs
+menu-history-undo-window-menu =
+    .label = Recently Sneckit Windaes
+menu-history-reopen-all-tabs = Reopen Aw Tabs
+menu-history-reopen-all-windows = Reopen Aw Windaes
 
 ## Bookmarks Menu
 
+menu-bookmarks-menu =
+    .label = Buikmerks
+    .accesskey = B
+menu-bookmarks-show-all =
+    .label = Kythe Aw Buikmerks
+menu-bookmark-this-page =
+    .label = Buikmerk This Page
+menu-bookmark-current-tab =
+    .label = Buikmerk Current Tab
 
 ## Tools Menu
 
