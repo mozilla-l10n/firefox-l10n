@@ -16,6 +16,9 @@ newtab-search-box-search-button =
     .title = వెతకండి
     .aria-label = వెతకండి
 newtab-search-box-search-the-web-text = జాలంలో వెతకండి
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-text = { $engine }‌తో వెతకండి లేదా చిరునామాను ఇవ్వండి
 newtab-search-box-handoff-text-no-engine = వెతకండి లేదా చిరునామాను ఇవ్వండి
 # Variables
 #  $engine (String): the name of the user's default search engine
