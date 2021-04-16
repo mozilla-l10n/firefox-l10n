@@ -5,13 +5,17 @@
 
 ## App Menu
 
-appmenuitem-update-banner =
-    .label-update-downloading = Telechargiar l'actualisaziun da { -brand-shorter-name }
 appmenuitem-update-banner2 =
     .label-update-downloading = Telechargiar l'actualisaziun da { -brand-shorter-name }
     .label-update-available = Actualisaziun disponibla – ussa telechargiar
     .label-update-manual = Actualisaziun disponibla – ussa telechargiar
     .label-update-unsupported = Impussibel dad actualisar
+    .label-update-restart = Actualisaziun disponibla – ussa reaviar
+appmenuitem-update-banner3 =
+    .label-update-downloading = Telechargiar l'actualisaziun da { -brand-shorter-name }
+    .label-update-available = Actualisaziun disponibla – ussa telechargiar
+    .label-update-manual = Actualisaziun disponibla – ussa telechargiar
+    .label-update-unsupported = Impussibel dad actualisar – sistem incumpatibel
     .label-update-restart = Actualisaziun disponibla – ussa reaviar
 appmenuitem-protection-dashboard-title = Survista da las protecziuns
 appmenuitem-customize-mode =
@@ -25,8 +29,6 @@ appmenuitem-new-private-window =
     .label = Nova fanestra privata
 appmenuitem-passwords =
     .label = Pleds-clav
-appmenuitem-extensions-and-themes =
-    .label = Extensiuns e designs
 appmenuitem-addons-and-themes =
     .label = Supplements e designs
 appmenuitem-find-in-page =
@@ -162,11 +164,6 @@ appmenu-about =
 appmenu-get-help =
     .label = Ir per agid
     .accesskey = I
-appmenu-help-troubleshooting-info =
-    .label = Infurmaziuns per schliar problems
-    .accesskey = p
-appmenu-help-taskmanager =
-    .label = Task Manager
 appmenu-help-more-troubleshooting-info =
     .label = Dapli infurmaziuns per schliar problems
     .accesskey = D
@@ -175,16 +172,6 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = Trametter in resun…
     .accesskey = s
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Reaviar e deactivar ils supplements…
-    .accesskey = R
-appmenu-help-safe-mode-with-addons =
-    .label = Reaviar ed activar ils supplements
-    .accesskey = R
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
