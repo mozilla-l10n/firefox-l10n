@@ -282,3 +282,9 @@ mr1-onboarding-theme-tooltip-dark =
 # Input description for dark theme
 mr1-onboarding-theme-description-dark =
     .aria-description = 为按钮、菜单和窗口使用深邃配色主题。
+# Tooltip displayed on hover of Alpenglow theme
+mr1-onboarding-theme-tooltip-alpenglow =
+    .title = 为按钮、菜单和窗口使用活力多彩配色主题。
+# Input description for Alpenglow theme
+mr1-onboarding-theme-description-alpenglow =
+    .aria-description = 为按钮、菜单和窗口使用活力多彩配色主题。
