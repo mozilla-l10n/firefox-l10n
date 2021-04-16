@@ -45,3 +45,5 @@ customize-mode-lwthemes-my-themes =
     .value = سِماتي
 customize-mode-touchbar-cmd =
     .label = خصّص شريط اللمس…
+customize-mode-downloads-button-autohide =
+    .label = أخفِ الزر إن لم تكن هناك تنزيلات
