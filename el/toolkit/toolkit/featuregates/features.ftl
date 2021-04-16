@@ -29,13 +29,13 @@ experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
 experimental-features-css-constructable-stylesheets-description = Η προσθήκη κατασκευαστή στο περιβάλλον <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a> καθώς και μια ποικιλία σχετικών αλλαγών καθιστούν δυνατή την απευθείας δημιουργία νέων φύλλων στυλ χωρίς να πρέπει να προσθέσετε το φύλλο στο HTML. Έτσι, γίνεται πολύ πιο εύκολη η δημιουργία επαναχρησιμοποιήσιμων φύλλων στυλ για το <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. Δείτε το <a data-l10n-name="bugzilla">σφάλμα 1520690</a> για περισσότερες λεπτομέρειες.
 experimental-features-devtools-color-scheme-simulation =
-    .label = Εργαλεία προγραμματιστή: Προσομοίωση συνόλου χρωμάτων
+    .label = Εργαλεία ανάπτυξης: Προσομοίωση συνόλου χρωμάτων
 experimental-features-devtools-color-scheme-simulation-description = Προσθέτει μια επιλογή για προσομοίωση διαφορετικών μοτίβων χρωμάτων που σας επιτρέπουν να δοκιμάσετε τα media queries <a data-l10n-name="mdn-preferscolorscheme">@prefers-color-scheme</a>. Με αυτό το media query, το φύλλο στυλ σας μπορεί να αποκριθεί στην προτίμηση του χρήστη για φωτεινό ή σκούρο περιβάλλον χρήστη. Αυτή η λειτουργία σας επιτρέπει να δοκιμάσετε τον κώδικά σας χωρίς να πρέπει να αλλάξετε τις ρυθμίσεις στο πρόγραμμα περιήγησης (ή το λειτουργικό σύστημα, αν χρησιμοποιείται καθολικά η ρύθμιση των μοτίβων χρωμάτων του). Δείτε το <a data-l10n-name="bugzilla1">σφάλμα 1550804</a> και το <a data-l10n-name="bugzilla2">σφάλμα 1137699</a> για περισσότερες λεπτομέρειες.
 experimental-features-devtools-execution-context-selector =
-    .label = Εργαλεία προγραμματιστή: Επιλογή περιβάλλοντος εκτέλεσης
+    .label = Εργαλεία ανάπτυξης: Επιλογή περιβάλλοντος εκτέλεσης
 experimental-features-devtools-execution-context-selector-description = Αυτή η λειτουργία εμφανίζει ένα κουμπί στη γραμμή εντολών της κονσόλας που σας επιτρέπει να αλλάξετε το πλαίσιο στο οποίο θα εκτελεστεί η έκφραση που εισάγετε. Δείτε το <a data-l10n-name="bugzilla1">σφάλμα 1605154</a> και το <a data-l10n-name="bugzilla2">σφάλμα 1605153</a> για περισσότερες λεπτομέρειες.
 experimental-features-devtools-compatibility-panel =
-    .label = Εργαλεία προγραμματιστή: Πίνακας συμβατότητας
+    .label = Εργαλεία ανάπτυξης: Πίνακας συμβατότητας
 experimental-features-devtools-compatibility-panel-description = Ένας πλευρικός πίνακας για την Επιθεώρηση σελίδας που εμφανίζει πληροφορίες που περιγράφουν την κατάσταση συμβατότητας μεταξύ προγραμμάτων περιήγησης της εφαρμογής σας. Δείτε το <a data-l10n-name="bugzilla">σφάλμα 1584464 </a> για περισσότερες λεπτομέρειες.
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
@@ -59,7 +59,7 @@ experimental-features-cookie-samesite-schemeful-description = Διαχείρισ
 experimental-features-devtools-serviceworker-debugger-support =
     .label = Εργαλεία ανάπτυξης: Έλεγχος σφαλμάτων service worker
 # "Service Worker" is an API name and is usually not translated.
-experimental-features-devtools-serviceworker-debugger-support-description = Ενεργοποιεί την πειραματική υποστήριξη για Service Workers στον πίνακα εντοπισμού σφαλμάτων. Αυτή η δυνατότητα ενδέχεται να επιβραδύνει τα εργαλεία προγραμματιστή και να αυξήσει την κατανάλωση μνήμης.
+experimental-features-devtools-serviceworker-debugger-support-description = Ενεργοποιεί την πειραματική υποστήριξη για service worker στον πίνακα ελέγχου σφαλμάτων. Αυτή η δυνατότητα ενδέχεται να επιβραδύνει τα εργαλεία ανάπτυξης και να αυξήσει την κατανάλωση μνήμης.
 # WebRTC global mute toggle controls
 experimental-features-webrtc-global-mute-toggles =
     .label = Καθολικοί διακόπτες σίγασης WebRTC
