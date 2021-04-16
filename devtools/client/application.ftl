@@ -76,7 +76,7 @@ serviceworker-empty-intro-link = Μάθετε περισσότερα
 # Text displayed when there are no Service Workers to display for the current page,
 # introducing hints to debug Service Worker issues.
 # <a> and <span> are links that will open the webconsole and the debugger, respectively.
-serviceworker-empty-suggestions2 = Αν η τρέχουσα σελίδα θα έπρεπε να έχει service worker, μπορείτε να αναζητήσετε σφάλματα στην <a>Κονσόλα</a> ή κάντε την εγγραφή του service worker σας στον <span>Εντοπισμό σφαλμάτων</span>.
+serviceworker-empty-suggestions2 = Αν η τρέχουσα σελίδα θα έπρεπε να έχει service worker, μπορείτε να αναζητήσετε σφάλματα στην <a>Κονσόλα</a> ή να καταγράψετε το service worker σας στον <span>Έλεγχο σφαλμάτων</span>.
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging2 = Προβολή service workers από άλλους τομείς
