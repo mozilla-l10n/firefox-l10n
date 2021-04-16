@@ -49,3 +49,5 @@ customize-mode-lwthemes-my-themes =
     .value = Moje drasty
 customize-mode-touchbar-cmd =
     .label = Dótknjensku lajstu přiměrić…
+customize-mode-downloads-button-autohide =
+    .label = Tłóčatko schować, hdyž prózdne
