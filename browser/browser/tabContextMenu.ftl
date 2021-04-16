@@ -2,9 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-tab-context-open-a-new-tab =
+tab-context-new-tab =
     .label = 新建标签页
-    .accesskey = O
+    .accesskey = w
 reload-tab =
     .label = 重载标签页
     .accesskey = R
