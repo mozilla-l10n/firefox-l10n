@@ -134,6 +134,7 @@ was trying to connect. -->
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Si'l to software antivirus inclúi dalguna carauterística qu'escania conexones cifraes (a vegaes llámase «escanéu web» o «escanéu http»), pues desactivala. Si esto nun funciona, pues volver instalar el software antivirus.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Si tas nuna rede corporativa, pue ponete en contautu col departamentu d'informática.">
 
+<!ENTITY clockSkewError.longDesc "L'ordenador cuida que tamos a <span id='wrongSystemTime_systemDate1'/>, lo qu'evita que &brandShortName; se conecte con seguranza. Pa visitar <span class='hostname'></span> anueva los axustes del reló, la data y el fusu horariu del sistema, y refresca <span class='hostname'></span>.">
 
 <!ENTITY prefReset.label "Reafitar los axustes">
 
