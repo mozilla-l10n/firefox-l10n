@@ -12,8 +12,14 @@
 upgrade-dialog-new-title = Πείτε γεια στο νέο { -brand-short-name }
 upgrade-dialog-new-subtitle = Σχεδιάστηκε για να σας μεταφέρει εκεί που θέλετε, γρηγορότερα
 upgrade-dialog-new-item-menu-title = Βελτιωμένη γραμμή εργαλείων και μενού
+upgrade-dialog-new-item-menu-description = Δώστε προτεραιότητα στα πιο σημαντικά πράγματα.
 upgrade-dialog-new-item-tabs-title = Σύγχρονες καρτέλες
+upgrade-dialog-new-item-tabs-description = Τακτοποιημένη προβολή πληροφοριών για καλύτερη εστίαση και ευελιξία.
 upgrade-dialog-new-item-icons-title = Νέα εικονίδια και σαφέστερα μηνύματα
+upgrade-dialog-new-item-icons-description = Βρείτε τον δρόμο σας με μια πιο ανάλαφρη πινελιά.
+upgrade-dialog-new-primary-primary-button = Ορισμός { -brand-short-name } ως κύριου φυλλομετρητή
+    .title = Ορίζει το { -brand-short-name } ως το προεπιλεγμένο πρόγραμμα περιήγησης και το καρφιτσώνει στη γραμμή εργασιών
+upgrade-dialog-new-primary-default-button = Ορισμός { -brand-short-name } ως προεπιλεγμένου φυλλομετρητή
 upgrade-dialog-new-primary-pin-button = Καρφίτσωμα { -brand-short-name } στη γραμμή εργασιών
 upgrade-dialog-new-primary-theme-button = Επιλογή θέματος
 upgrade-dialog-new-secondary-button = Όχι τώρα
