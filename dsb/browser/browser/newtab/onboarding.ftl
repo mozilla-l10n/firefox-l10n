@@ -204,7 +204,6 @@ onboarding-welcome-steps-indicator =
 # automatically added to the text inside it. "look" should stay inside the span.
 onboarding-multistage-theme-header = Wubjeŕśo <span data-l10n-name="zap">naglěd</span>
 onboarding-multistage-theme-subtitle = Personalizěrujśo { -brand-short-name } z drastwu.
-onboarding-multistage-theme-primary-button-label = Drastwu składowaś
 onboarding-multistage-theme-primary-button-label2 = Dokóńcony
 onboarding-multistage-theme-secondary-button-label = Nic něnto
 # Automatic theme uses operating system color settings
@@ -259,3 +258,86 @@ onboarding-multistage-theme-description-alpenglow =
     .aria-description =
         Barwny naglěd za tłocaški,
         menije a wokna.
+
+## Multistage MR1 onboarding strings (MR1 about:welcome pages)
+
+# "Hero Text" displayed on left side of welcome screen.
+# The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
+# It also signals the passion users bring to Firefox, how they use
+# Firefox to pursue those passions, as well as the boldness in their
+# choice to use Firefox over a larger competitor browser.
+# An alternative title for localization is: "It starts here".
+mr1-welcome-screen-hero-text = Zachopinamy wót how
+# This button will open system settings to turn on prefers-reduced-motion
+mr1-onboarding-reduce-motion-button-label = Animacije znjemóžniś
+mr1-onboarding-welcome-header = Witajśo k { -brand-short-name }
+mr1-onboarding-set-default-pin-primary-button-label = { -brand-short-name } k primarnemu wobglědowakoju cyniś
+    .title = Nastaja { -brand-short-name } ako standardny wobglědowak a pśipina jen k nadawkowej rědce
+mr1-onboarding-set-default-only-primary-button-label = { -brand-short-name } k strandardnemu wobglědowakoju cyniś
+mr1-onboarding-set-default-secondary-button-label = Nic něnto
+mr1-onboarding-sign-in-button-label = Pśizjawiś
+mr1-onboarding-import-header = Wzejśo wšykno sobu
+mr1-onboarding-import-subtitle = Importěrujśo swóje gronidła, <br/>cytańske znamjenja a wěcej.
+# The primary import button label will depend on whether we can detect which browser was used to download Firefox.
+# Variables:
+#   $previous (Str) - Previous browser name, such as Edge, Chrome
+mr1-onboarding-import-primary-button-label-attribution = Z { $previous } importěrowaś
+# This string will be used in cases where we can't detect the previous browser name.
+mr1-onboarding-import-primary-button-label-no-attribution = Z pjerwjejšnego wobglědowaka importěrowaś
+mr1-onboarding-import-secondary-button-label = Nic něnto
+mr1-onboarding-theme-header = Pśiswójśo se jen
+mr1-onboarding-theme-subtitle = Personalizěrujśo { -brand-short-name } z drastwu.
+mr1-onboarding-theme-primary-button-label = Drastwu składowaś
+mr1-onboarding-theme-secondary-button-label = Nic něnto
+# System theme uses operating system color settings
+mr1-onboarding-theme-label-system = Systemowa drastwa
+mr1-onboarding-theme-label-light = Swětły
+mr1-onboarding-theme-label-dark = Śamny
+# "Alpenglow" here is the name of the theme, and should be kept in English.
+mr1-onboarding-theme-label-alpenglow = Alpenglow
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
+# Tooltip displayed on hover of system theme
+mr1-onboarding-theme-tooltip-system =
+    .title =
+        Drastwu źěłowego systema
+        za tłocaški, menije a wokna wužywaś.
+# Input description for system theme
+mr1-onboarding-theme-description-system =
+    .aria-description =
+        Drastwu źěłowego systema
+        za tłocaški, menije a wokna wužywaś.
+# Tooltip displayed on hover of light theme
+mr1-onboarding-theme-tooltip-light =
+    .title =
+        Swětłu drastwu za tłocaški,
+        menije a wokna wužywaś.
+# Input description for light theme
+mr1-onboarding-theme-description-light =
+    .aria-description =
+        Swětłu drastwu za tłocaški,
+        menije a wokna wužywaś.
+# Tooltip displayed on hover of dark theme
+mr1-onboarding-theme-tooltip-dark =
+    .title =
+        Śamnu drastwu za tłocaški,
+        menije a wokna wužywaś.
+# Input description for dark theme
+mr1-onboarding-theme-description-dark =
+    .aria-description =
+        Śamnu drastwu za tłocaški,
+        menije a wokna wužywaś.
+# Tooltip displayed on hover of Alpenglow theme
+mr1-onboarding-theme-tooltip-alpenglow =
+    .title =
+        Dynamisku, barwojtu drastwu za tłocaški,
+        menije a wokna wužywaś.
+# Input description for Alpenglow theme
+mr1-onboarding-theme-description-alpenglow =
+    .aria-description =
+        Dynamisku, barwojtu drastwu za tłocaški,
+        menije a wokna wužywaś.

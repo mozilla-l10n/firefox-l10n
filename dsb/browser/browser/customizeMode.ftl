@@ -49,3 +49,5 @@ customize-mode-lwthemes-my-themes =
     .value = Móje drastwy
 customize-mode-touchbar-cmd =
     .label = Dotyknjeńsku rědku pśiměriś…
+customize-mode-downloads-button-autohide =
+    .label = Tłocašk schowaś, gaž prozny

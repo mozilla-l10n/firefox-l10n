@@ -49,4 +49,4 @@ bookmark-overlay-keyword-2 =
     .value = Klucowe słowo
     .accesskey = K
 bookmark-overlay-tags-caption-label = Wužywajśo wobznamjenja, aby cytańske znamjenja organizěrował a z adresowego póla pytał
-bookmark-overlay-keyword-caption-label = Wužywajśo klucowe słowa, aby cytańske znamjenja direktnje z adresowego póla wócynił
+bookmark-overlay-keyword-caption-label-2 = Wužywajśo jadnotliwe klucowe słowo, aby cytańske znamjenja direktnje z adresowego póla wócynił
