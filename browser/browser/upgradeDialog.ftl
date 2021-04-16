@@ -11,7 +11,7 @@
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-new-title = Witajće k nowemu { -brand-short-name }
 upgrade-dialog-new-subtitle = Wuwity, zo by was tam přewodźił, hdźež sće, spěšniši
-upgrade-dialog-new-item-menu-title = Moderne symbolowa lajsta a menije
+upgrade-dialog-new-item-menu-title = Moderna symbolowa lajsta a moderne menije
 upgrade-dialog-new-item-menu-description = Dajće wažnym wěcam prioritu, zo byšće namakał, štož trjebaće.
 upgrade-dialog-new-item-tabs-title = Moderne rajtarki
 upgrade-dialog-new-item-icons-title = Nowe symbole a jasniše powěsće
