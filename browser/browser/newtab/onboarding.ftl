@@ -249,6 +249,9 @@ onboarding-multistage-theme-description-alpenglow =
 
 ## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 
+mr1-onboarding-set-default-secondary-button-label = Une honetan ez
+mr1-onboarding-sign-in-button-label = Hasi saioa
+mr1-onboarding-import-secondary-button-label = Une honetan ez
 mr1-onboarding-theme-subtitle = Pertsonalizatu { -brand-short-name } itxura batekin.
 mr1-onboarding-theme-primary-button-label = Gorde itxura
 mr1-onboarding-theme-secondary-button-label = Une honetan ez
