@@ -8,9 +8,22 @@
 
 ## New changes screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-new-title = Yeni { -brand-short-name } ile tanışın
 upgrade-dialog-new-item-tabs-title = Modern sekmeler
+upgrade-dialog-new-secondary-button = Daha sonra
 
 ## Theme selection screen
 
+upgrade-dialog-theme-system = Sistem teması
+    .title = Düğmeler, menüler ve pencerelerde işletim sisteminin temasını kullan
+upgrade-dialog-theme-light = Açık
+    .title = Düğmeler, menüler ve pencereler için açık bir tema kullan
+upgrade-dialog-theme-dark = Koyu
+    .title = Düğmeler, menüler ve pencereler için koyu bir tema kullan
+upgrade-dialog-theme-alpenglow = Alpenglow
+    .title = Düğmeler, menüler ve pencereler için dinamik, renkli bir tema kullan
+upgrade-dialog-theme-keep = Öncekini kullanmaya devam et
+    .title = { -brand-short-name }’u güncellemeden önce yüklediğim temayı kullan
 upgrade-dialog-theme-primary-button = Temayı kaydet
 upgrade-dialog-theme-secondary-button = Daha sonra
