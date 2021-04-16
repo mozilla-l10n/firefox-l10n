@@ -234,7 +234,7 @@ newtab-error-fallback-refresh-link = Ανανεώστε τη σελίδα για
 ## Customization Menu
 
 newtab-custom-shortcuts-title = Συντομεύσεις
-newtab-custom-shortcuts-subtitle = Ιστοσελίδες που αποθηκεύετε ή επισκέπτεστε
+newtab-custom-shortcuts-subtitle = Ιστοσελίδες από σελιδοδείκτες και ιστορικό
 newtab-custom-row-selector =
     { $num ->
         [one] { $num } σειρά
@@ -252,5 +252,5 @@ newtab-custom-close-button = Κλείσιμο
 # expresses the idea of "a small message, shortened from something else,
 # and non-essential but also not entirely trivial and useless.
 newtab-custom-snippets-title = Αποσπάσματα
-newtab-custom-snippets-subtitle = Συμβουλές και ειδήσεις από τη { -vendor-short-name } και το { -brand-product-name }
+newtab-custom-snippets-subtitle = Συμβουλές και νέα από τη { -vendor-short-name } και το { -brand-product-name }
 newtab-custom-settings = Διαχείριση περισσότερων ρυθμίσεων

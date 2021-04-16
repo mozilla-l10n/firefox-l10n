@@ -532,7 +532,7 @@ home-prefs-topsites-by-option-sponsored =
     .label = Χορηγούμενες κορυφαίες ιστοσελίδες
 home-prefs-shortcuts-header =
     .label = Συντομεύσεις
-home-prefs-shortcuts-description = Ιστοσελίδες που αποθηκεύετε ή επισκέπτεστε
+home-prefs-shortcuts-description = Ιστοσελίδες από σελιδοδείκτες και ιστορικό
 home-prefs-shortcuts-by-option-sponsored =
     .label = Χορηγούμενες συντομεύσεις
 
@@ -570,7 +570,7 @@ home-prefs-recent-activity-description = Μια συλλογή πρόσφατω�
 home-prefs-snippets-header =
     .label = Αποσπάσματα
 home-prefs-snippets-description = Ενημερώσεις από τη { -vendor-short-name } και το { -brand-product-name }
-home-prefs-snippets-description-new = Συμβουλές και ειδήσεις από τη { -vendor-short-name } και το { -brand-product-name }
+home-prefs-snippets-description-new = Συμβουλές και νέα από τη { -vendor-short-name } και το { -brand-product-name }
 home-prefs-sections-rows-option =
     .label =
         { $num ->
