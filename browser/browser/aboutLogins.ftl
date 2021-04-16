@@ -343,7 +343,7 @@ about-logins-import-report-added =
     }
 about-logins-import-report-modified =
     { $count ->
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">υπάρχουσες συνδέσεις ενημερώθηκαν</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">συνδέσεις ενημερώθηκαν</div>
     }
 about-logins-import-report-no-change =
     { $count ->
