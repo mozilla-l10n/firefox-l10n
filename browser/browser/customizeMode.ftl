@@ -49,3 +49,5 @@ customize-mode-lwthemes-my-themes =
     .value = Mina teman
 customize-mode-touchbar-cmd =
     .label = Anpassa menyrad för Touch...
+customize-mode-downloads-button-autohide =
+    .label = Dölj knappen när den är tom

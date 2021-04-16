@@ -275,6 +275,7 @@ mr1-onboarding-set-default-pin-primary-button-label = Gör { -brand-short-name }
 mr1-onboarding-set-default-only-primary-button-label = Gör { -brand-short-name } till min standardwebbläsare
 mr1-onboarding-set-default-secondary-button-label = Inte nu
 mr1-onboarding-sign-in-button-label = Logga in
+mr1-onboarding-import-header = Ta med dig allt
 mr1-onboarding-import-subtitle = Importera dina lösenord, <br/>bokmärken och mer.
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
@@ -313,4 +314,29 @@ mr1-onboarding-theme-description-system =
 mr1-onboarding-theme-tooltip-light =
     .title =
         Använd ett ljust tema för knappar,
+        menyer och fönster.
+# Input description for light theme
+mr1-onboarding-theme-description-light =
+    .aria-description =
+        Använd ett ljust tema för knappar,
+        menyer och fönster.
+# Tooltip displayed on hover of dark theme
+mr1-onboarding-theme-tooltip-dark =
+    .title =
+        Använd ett mörkt tema för knappar,
+        menyer och fönster.
+# Input description for dark theme
+mr1-onboarding-theme-description-dark =
+    .aria-description =
+        Använd ett mörkt tema för knappar,
+        menyer och fönster.
+# Tooltip displayed on hover of Alpenglow theme
+mr1-onboarding-theme-tooltip-alpenglow =
+    .title =
+        Använd ett dynamiskt färgglatt tema för knappar,
+        menyer och fönster.
+# Input description for Alpenglow theme
+mr1-onboarding-theme-description-alpenglow =
+    .aria-description =
+        Använd ett dynamiskt färgglatt tema för knappar,
         menyer och fönster.
