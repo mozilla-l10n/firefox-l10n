@@ -172,6 +172,7 @@ onboarding-multistage-set-default-header = Egizu { -brand-short-name } zure nabi
 onboarding-multistage-set-default-subtitle = Abiadura, segurtasuna eta pribatutasuna nabigatzen duzun aldiro.
 onboarding-multistage-set-default-primary-button-label = Lehenetsi
 onboarding-multistage-set-default-secondary-button-label = Une honetan ez
+onboarding-multistage-pin-default-primary-button-label = Egin { -brand-short-name } nire nabigatzaile lehenetsia
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Inportatu zure pasahitzak, <br/>laster-markak eta <span data-l10n-name="zap">gehiago</span>
@@ -249,8 +250,26 @@ onboarding-multistage-theme-description-alpenglow =
 
 ## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 
+# "Hero Text" displayed on left side of welcome screen.
+# The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
+# It also signals the passion users bring to Firefox, how they use
+# Firefox to pursue those passions, as well as the boldness in their
+# choice to use Firefox over a larger competitor browser.
+# An alternative title for localization is: "It starts here".
+mr1-welcome-screen-hero-text = Dena hemen hasten da
+mr1-onboarding-welcome-header = Ongi etorri { -brand-short-name }(e)ra
+mr1-onboarding-set-default-pin-primary-button-label = Egin { -brand-short-name } nire nabigatzaile lehenetsia
+    .title = { -brand-short-name } nabigatzaile lehenetsi gisa ezarri eta ataza-barran ainguratzen du
+mr1-onboarding-set-default-only-primary-button-label = Egin { -brand-short-name } nire nabigatzaile lehenetsia
 mr1-onboarding-set-default-secondary-button-label = Une honetan ez
 mr1-onboarding-sign-in-button-label = Hasi saioa
+mr1-onboarding-import-subtitle = Inportatu zure pasahitzak, <br/>laster-markak eta gehiago.
+# The primary import button label will depend on whether we can detect which browser was used to download Firefox.
+# Variables:
+#   $previous (Str) - Previous browser name, such as Edge, Chrome
+mr1-onboarding-import-primary-button-label-attribution = Inportatu { $previous } nabigatzailetik
+# This string will be used in cases where we can't detect the previous browser name.
+mr1-onboarding-import-primary-button-label-no-attribution = Inportatu aurreko nabigatzailetik
 mr1-onboarding-import-secondary-button-label = Une honetan ez
 mr1-onboarding-theme-subtitle = Pertsonalizatu { -brand-short-name } itxura batekin.
 mr1-onboarding-theme-primary-button-label = Gorde itxura
