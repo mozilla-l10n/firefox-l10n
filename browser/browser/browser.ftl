@@ -325,6 +325,7 @@ identity-https-only-info-turn-off2 = Jolic se zda, až bok jo wobškóźony, co�
 identity-https-only-info-no-upgrade = Zwisk njedajo se z HTTP aktualizěrowaś.
 identity-permissions-storage-access-header = Cookieje někotarych sedłow
 identity-permissions-storage-access-hint = Toś te wobźělone mógu cookieje a sedłowe daty někotarych sedłow wužywaś, mjaztym až sćo na toś tom sedle.
+identity-permissions-storage-access-learn-more = Dalšne informacije
 identity-permissions-reload-hint = Musyśo snaź bok znowego zacytaś, aby se změny wustatkowali.
 identity-permissions-empty = Njejsćo toś tomu sedłoju wósebne pšawa pśizwólił.
 identity-clear-site-data =
@@ -593,9 +594,6 @@ pointerlock-warning-no-domain = Toś ten dokument ma kontrolu nad wašeju špěr
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Źěl toś togo boka jo wowalił.</strong> Aby { -brand-product-name } wó toś tom problemje informěrował a jen malsnjej rozwězował, pósćelśo pšosyym wowaleńsku rozpšawu.
-crashed-subframe-learnmore =
-    .label = Dalšne informacije
-    .accesskey = D
 crashed-subframe-learnmore-link =
     .value = Dalšne informacije
 crashed-subframe-submit =
@@ -608,8 +606,6 @@ bookmarks-show-all-bookmarks =
     .label = Wše cytańske znamjenja pokazaś
 bookmarks-manage-bookmarks =
     .label = Cytańske znamjenja zastojaś
-bookmarks-recent-bookmarks-panel =
-    .value = Nejnowše cytańske znamjenja
 bookmarks-recent-bookmarks-panel-subheader = Nejnowše cytańske znamjenja
 bookmarks-toolbar-chevron =
     .tooltiptext = Dalšne cytańske znamjenja pokazaś
