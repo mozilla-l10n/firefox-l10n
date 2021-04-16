@@ -13,6 +13,7 @@ default-browser-notification-button =
 ## secondary button are shared between the variants.
 
 default-browser-prompt-title-pin = { -brand-short-name } k swójomu primarnemu wobglědowakoju cyniś?
+default-browser-prompt-message-pin = Źaržćo { -brand-short-name } k ruce – cyńśo jen k swójomu standardnemu wobglědowakoju a pśipějśo jen k swójej nadawkowej rědce.
 default-browser-prompt-button-primary-pin = K primarnemu wobglědowakoju cyniś
 default-browser-prompt-title-alt = { -brand-short-name } k swójomu standardnemu wobglědowakoju cyniś?
 default-browser-prompt-message-alt = Dostańśo malsnosć, wěstotu a priwatnosć kuždy raz, gaž pśeglědujośo.
