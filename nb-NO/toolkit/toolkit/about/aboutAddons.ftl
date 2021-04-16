@@ -142,7 +142,7 @@ disabled-unsigned-heading =
 disabled-unsigned-description = Disse utvidelsene har ikke blitt kontrollert for bruk i { -brand-short-name }. Du kan <label data-l10n-name="find-addons">finne erstatninger</label> eller spørre utvikleren om å få de bekreftet.
 disabled-unsigned-learn-more = Les mer om våre tiltak for å holde deg trygg på nettet.
 disabled-unsigned-devinfo = Utviklere som er interessert i å få sine utvidelser bekreftet kan fortsette ved å lese vår <label data-l10n-name="learn-more">manual</label>.
-plugin-deprecation-description = Savner du noe? Noen programtillegg støttes ikke lenger av { -brand-short-name }. <label data-l10n-name="learn-more">Les mer</label>
+plugin-deprecation-description = Savner du noe? Noen programtillegg støttes ikke lenger av { -brand-short-name }. <label data-l10n-name="learn-more">Les mer.</label>
 legacy-warning-show-legacy = Vis foreldete utvidelser
 legacy-extensions =
     .value = Foreldete utvidelser
