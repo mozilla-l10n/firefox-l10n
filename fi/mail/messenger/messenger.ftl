@@ -11,6 +11,12 @@ unread-messages-os-tooltip =
     }
 about-rights-notification-text = { -brand-short-name } on vapaa ja avoimen lähdekoodin ohjelmisto, jota rakentaa tuhansista osallistujista ympäri maailmaa koostuva yhteisö.
 
+## Toolbar
+
+addons-and-themes-button =
+    .label = Lisäosat ja teemat
+    .tooltip = Hallitse lisäosia
+
 ## Folder Pane
 
 folder-pane-toolbar =
@@ -43,3 +49,12 @@ show-recent-folders-label =
 folder-toolbar-toggle-folder-compact-view =
     .label = Tiivis näkymä
     .accesskey = T
+
+## AppMenu
+
+# Since v89 we dropped the platforms distinction between Options or Preferences
+# and consolidated everything with Preferences.
+appmenu-preferences =
+    .label = Asetukset
+appmenu-addons-and-themes =
+    .label = Lisäosat ja teemat
