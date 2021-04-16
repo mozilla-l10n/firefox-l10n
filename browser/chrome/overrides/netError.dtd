@@ -71,6 +71,12 @@
 
 
 
+<!ENTITY redirectLoop.longDesc "
+<ul>
+  <li>A vegaes, esti problema pue causalu la desactivación o'l refugu de les
+    cookies.</li>
+</ul>
+">
 
 
 <!ENTITY nssFailure2.longDesc2 "
@@ -125,9 +131,11 @@ was trying to connect. -->
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 
 
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Si'l to software antivirus inclúi dalguna carauterística qu'escania conexones cifraes (a vegaes llámase «escanéu web» o «escanéu http»), pues desactivala. Si esto nun funciona, pues volver instalar el software antivirus.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Si tas nuna rede corporativa, pue ponete en contautu col departamentu d'informática.">
 
 
+<!ENTITY prefReset.label "Reafitar los axustes">
 
 <!ENTITY enableTls10.note "TLS 1.0 y TLS 1.1 van desactivase dafechu nes versiones futures.">
 <!ENTITY enableTls10.label "Activar TLS 1.0 y 1.1">
