@@ -73,6 +73,12 @@
 
 
 
+<!ENTITY nssFailure2.longDesc2 "
+<ul>
+  <li>La páxina que tentes de ver nun pue amosase porque nun pudo verificase l'autenticidá de los datos recibíos.</li>
+  <li>Ponte en contautu colos propietarios del situ pa informalos d'esti problema.</li>
+</ul>
+">
 
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
@@ -97,6 +103,7 @@ was trying to connect. -->
 
 
 
+<!ENTITY corruptedContentErrorv2.longDesc "<p>La páxina que tentes de ver nun pue amosase porque detectóse un fallu na tresmisión de datos.</p><ul><li>Ponte en contautu colos propietarios del sitiu pa informalos d'esti problema, por favor.</li></ul>">
 
 <!ENTITY securityOverride.exceptionButton1Label "Aceptar el riesgu y siguir">
 
