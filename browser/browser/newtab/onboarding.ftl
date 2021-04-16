@@ -199,7 +199,6 @@ onboarding-welcome-steps-indicator =
 # automatically added to the text inside it. "look" should stay inside the span.
 onboarding-multistage-theme-header = اختر <span data-l10n-name="zap">مظهرًا</span>
 onboarding-multistage-theme-subtitle = خصّص { -brand-short-name } باستعمال سمة.
-onboarding-multistage-theme-primary-button-label = احفظ السمة
 onboarding-multistage-theme-primary-button-label2 = تمّ
 onboarding-multistage-theme-secondary-button-label = ليس الآن
 # Automatic theme uses operating system color settings
@@ -254,3 +253,27 @@ onboarding-multistage-theme-description-alpenglow =
     .aria-description =
         استعمل مظهرًا ملونًا لعرض
         الأزرار والقوائم والنوافذ.
+
+## Multistage MR1 onboarding strings (MR1 about:welcome pages)
+
+# "Hero Text" displayed on left side of welcome screen.
+# The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
+# It also signals the passion users bring to Firefox, how they use
+# Firefox to pursue those passions, as well as the boldness in their
+# choice to use Firefox over a larger competitor browser.
+# An alternative title for localization is: "It starts here".
+mr1-welcome-screen-hero-text = من هنا تبدأ الرحلة
+# This button will open system settings to turn on prefers-reduced-motion
+mr1-onboarding-reduce-motion-button-label = عطّل الرسوم المتحركة
+mr1-onboarding-welcome-header = مرحبًا بك في { -brand-short-name }
+mr1-onboarding-set-default-pin-primary-button-label = اضبط { -brand-short-name } ليكون متصفّحي الأساسي
+    .title = يتيح لك الخيار ضبط { -brand-short-name } ليكون المتصفّح المبدئي ويثبّته في شريط المهام
+mr1-onboarding-set-default-only-primary-button-label = اضبط { -brand-short-name } ليكون متصفّحي المبدئي
+mr1-onboarding-set-default-secondary-button-label = ليس الآن
+mr1-onboarding-sign-in-button-label = لِج
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
