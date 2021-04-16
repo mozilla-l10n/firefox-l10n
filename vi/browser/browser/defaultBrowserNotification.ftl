@@ -7,3 +7,16 @@ default-browser-notification-message = <strong>Đặt { -brand-short-name } làm
 default-browser-notification-button =
     .label = Đặt làm mặc định
     .accesskey = S
+
+## These strings are used for the default browser prompt. There are 2 variations
+## depending on the operating system (Windows vs other). The checkbox label and
+## secondary button are shared between the variants.
+
+default-browser-prompt-title-pin = Đặt { -brand-short-name } làm trình duyệt mặc định của bạn?
+default-browser-prompt-message-pin = Giữ { -brand-short-name } trong tầm tay bạn — đặt nó làm trình duyệt mặc định của bạn và ghim nó vào thanh tác vụ của bạn.
+default-browser-prompt-button-primary-pin = Đặt làm trình duyệt mặc định
+default-browser-prompt-title-alt = Đặt { -brand-short-name } làm trình duyệt mặc định của bạn?
+default-browser-prompt-message-alt = Tốc độ, an toàn và quyền riêng tư mỗi khi bạn duyệt.
+default-browser-prompt-button-primary-alt = Đặt làm trình duyệt mặc định
+default-browser-prompt-checkbox-label = Đừng hỏi lại
+default-browser-prompt-button-secondary = Không phải bây giờ

@@ -5,14 +5,18 @@
 
 ## App Menu
 
-appmenuitem-update-banner =
-    .label-update-downloading = Đang tải xuống bản cập nhật { -brand-shorter-name }
 appmenuitem-update-banner2 =
     .label-update-downloading = Đang tải xuống bản cập nhật { -brand-shorter-name }
     .label-update-available = Bản cập nhật đã có sẵn — tải xuống ngay
     .label-update-manual = Bản cập nhật đã có sẵn — tải xuống ngay
     .label-update-unsupported = Không thể cập nhật
     .label-update-restart = Bản cập nhật đã có sẵn — khởi động lại ngay
+appmenuitem-update-banner3 =
+    .label-update-downloading = Đang tải xuống bản cập nhật { -brand-shorter-name }
+    .label-update-available = Đã có bản cập nhật — tải xuống ngay
+    .label-update-manual = Đã có bản cập nhật — tải xuống ngay
+    .label-update-unsupported = Không thể cập nhật — hệ thống không tương thích
+    .label-update-restart = Đã có bản cập nhật — khởi động lại ngay
 appmenuitem-protection-dashboard-title = Bảng điều khiển bảo vệ
 appmenuitem-customize-mode =
     .label = Tùy biến…
@@ -25,8 +29,6 @@ appmenuitem-new-private-window =
     .label = Cửa sổ riêng tư mới
 appmenuitem-passwords =
     .label = Mật khẩu
-appmenuitem-extensions-and-themes =
-    .label = Tiện ích mở rộng và chủ đề
 appmenuitem-addons-and-themes =
     .label = Tiện ích mở rộng và chủ đề
 appmenuitem-find-in-page =
@@ -162,11 +164,6 @@ appmenu-about =
 appmenu-get-help =
     .label = Nhận trợ giúp
     .accesskey = H
-appmenu-help-troubleshooting-info =
-    .label = Thông tin xử lý sự cố
-    .accesskey = T
-appmenu-help-taskmanager =
-    .label = Quản lý tác vụ
 appmenu-help-more-troubleshooting-info =
     .label = Thông tin xử lý sự cố khác
     .accesskey = T
@@ -175,16 +172,6 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = Gửi phản hồi…
     .accesskey = S
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Khởi động lại và vô hiệu hóa các tiện ích…
-    .accesskey = R
-appmenu-help-safe-mode-with-addons =
-    .label = Khởi động lại và kích hoạt các tiện ích
-    .accesskey = R
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
