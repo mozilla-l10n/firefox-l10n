@@ -5,10 +5,10 @@
 
 ### The term "Service Workers" and "Workers" should not be translated
 
-about-service-workers-title = Σχετικά με τα Service Workers
+about-service-workers-title = Σχετικά με τα service worker
 about-service-workers-main-title = Εγγεγραμμένα service worker
 about-service-workers-warning-not-enabled = Τα Service Workers δεν είναι ενεργοποιημένα.
-about-service-workers-warning-no-service-workers = Κανένα εγγεγραμμένο Service Worker.
+about-service-workers-warning-no-service-workers = Κανένα εγγεγραμμένο service worker.
 # The original title of service workers' information
 #
 # Variables:
@@ -23,7 +23,7 @@ origin-title = Προέλευση: { $originTitle }
 
 scope = <strong>Εμβέλεια:</strong> { $name }
 script-spec = <strong>Προδιαγραφές σεναρίου:</strong> <a data-l10n-name="link">{ $url }</a>
-current-worker-url = <strong>URL τρέχοντος Worker:</strong> <a data-l10n-name="link">{ $url }</a>
+current-worker-url = <strong>URL τρέχοντος worker:</strong> <a data-l10n-name="link">{ $url }</a>
 active-cache-name = <strong>Όνομα ενεργής προσωρινής μνήμη:</strong> { $name }
 waiting-cache-name = <strong>Όνομα προσωρινής μνήμης σε αναμονή:</strong> { $name }
 push-end-point-waiting = <strong>Σημείο τερματισμού:</strong> { waiting }
@@ -31,5 +31,5 @@ push-end-point-result = <strong>Σημείο τερματισμού:</strong> { 
 # This term is used as a button label (verb, not noun).
 update-button = Ενημέρωση
 unregister-button = Διαγραφή
-unregister-error = Απέτυχε η κατάργηση αυτού του Service Worker.
+unregister-error = Αποτυχία κατάργησης εγγραφής service worker.
 waiting = Σε αναμονή…
