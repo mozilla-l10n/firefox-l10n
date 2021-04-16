@@ -26,6 +26,7 @@ update-restarting = పునఃప్రారంభమవుతోంది…
 channel-description = మీరు ప్రస్తుతం <label data-l10n-name="current-channel"></label> తాజాకరణ ఛానల్‌పై ఉన్నారు.
 warningDesc-version = { -brand-short-name } ప్రయోగాత్మకమైనది, స్థిరంగా ఉండకపోవచ్చు.
 aboutdialog-help-user = { -brand-product-name } సహాయం
+aboutdialog-submit-feedback = ప్రతిస్పందనను తెలియజేయండి
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> అనేది <label data-l10n-name="community-exp-creditsLink">ప్రపంచవ్యాప్త సముదాయం</label>. వీరు జాలాన్ని స్వేచ్ఛగా, బహిరంగంగా, అందరికీ అందుబాటులో ఉంచేందుకు కలిసి కృషి చేస్తున్నారు.
 community-2 = { -brand-short-name }ను రూపొందించినది <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, వీరు జాలాన్ని స్వేచ్ఛగా, బహిరంగంగా, అందరికీ అందుబాటులో ఉంచేందుకు కలిసి కృషి చేస్తున్న <label data-l10n-name="community-creditsLink">ప్రపంచవ్యాప్త సముదాయం</label> వీరు జాలాన్ని స్వేచ్ఛగా, బహిరంగంగా, అందరికీ అందుబాటులో ఉంచేందుకు కలిసి కృషి చేస్తున్నారు.
 helpus = తోడ్పడాలని అనుకుంటున్నారా? <label data-l10n-name="helpus-donateLink">విరాళమివ్వండి</label> లేక <label data-l10n-name="helpus-getInvolvedLink">పాలుపంచుకోండి!</label>

@@ -250,8 +250,11 @@ about-logins-import-dialog-title = దిగుమతి పూర్తయి�
 about-logins-import-dialog-done = పూర్తయింది
 about-logins-import-dialog-error-title = దిగుమతి లోపం
 about-logins-import-dialog-error-file-format-title = ఫైలు ఫార్మాటు సమస్య
+about-logins-import-dialog-error-file-permission-title = ఫైలును చదవలేకపోతున్నాం
+about-logins-import-dialog-error-no-logins-imported = ప్రవేశాలేమీ దిగుమతి కాలేదు
 about-logins-import-dialog-error-learn-more = ఇంకా తెలుసుకోండి
 about-logins-import-dialog-error-try-again = మళ్ళీ ప్రయత్నించండి…
+about-logins-import-dialog-error-try-import-again = దిగుమతిని మళ్ళీ ప్రయత్నించండి…
 about-logins-import-dialog-error-cancel = రద్దుచేయి
 about-logins-import-report-title = దిగుమతి సారాంశం
 #
