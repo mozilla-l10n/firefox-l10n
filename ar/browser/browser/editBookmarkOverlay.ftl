@@ -49,4 +49,4 @@ bookmark-overlay-keyword-2 =
     .value = الكلمة المفتاحية
     .accesskey = ف
 bookmark-overlay-tags-caption-label = استعمل الوسوم لتنظيم العلامات والبحث عنها من شريط العنوان
-bookmark-overlay-keyword-caption-label = استعمل الكلمات المفتاحية لفتح العلامات مباشرةً من شريط العنوان
+bookmark-overlay-keyword-caption-label-2 = استعمل كلمة مفتاحية واحدة لفتح العلامات مباشرةً من شريط العنوان

@@ -13,3 +13,8 @@ default-browser-notification-button =
 ## secondary button are shared between the variants.
 
 default-browser-prompt-title-pin = أتريد ضبط { -brand-short-name } ليكون متصفّحك الأساسي؟
+default-browser-prompt-button-primary-pin = اضبطه ليكون المتصفّح الأساسي
+default-browser-prompt-title-alt = أتريد ضبط { -brand-short-name } ليكون متصفّحك المبدئي؟
+default-browser-prompt-button-primary-alt = اضبطه ليكون المتصفّح المبدئي
+default-browser-prompt-checkbox-label = لا تسألني ثانيةً
+default-browser-prompt-button-secondary = ليس الآن
