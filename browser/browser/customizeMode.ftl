@@ -49,3 +49,5 @@ customize-mode-lwthemes-my-themes =
     .value = 我的主题
 customize-mode-touchbar-cmd =
     .label = 自定义触控栏…
+customize-mode-downloads-button-autohide =
+    .label = 空闲时隐藏按钮

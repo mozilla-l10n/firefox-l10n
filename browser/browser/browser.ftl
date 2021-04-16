@@ -307,6 +307,7 @@ identity-https-only-info-turn-off2 = 若页面看起来不正常，则可能需�
 identity-https-only-info-no-upgrade = 无法将网站连接从 HTTP 升级。
 identity-permissions-storage-access-header = 跨网站 Cookie
 identity-permissions-storage-access-hint = 当您在此网站上时，以下各方可以使用跨网站 Cookie 和网站数据。
+identity-permissions-storage-access-learn-more = 详细了解
 identity-permissions-reload-hint = 您可能需要重新载入此页面以应用更改。
 identity-permissions-empty = 您尚未授予此站点任何权限。
 identity-clear-site-data =
@@ -566,9 +567,6 @@ pointerlock-warning-no-domain = 此文档已控制您的鼠标指针。按 Esc �
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>此页面中的部分内容出现崩溃。</strong>您可以向 { -brand-product-name } 报告此问题，以尽快修复。
-crashed-subframe-learnmore =
-    .label = 详细了解
-    .accesskey = L
 crashed-subframe-learnmore-link =
     .value = 详细了解
 crashed-subframe-submit =
@@ -581,8 +579,6 @@ bookmarks-show-all-bookmarks =
     .label = 管理所有书签
 bookmarks-manage-bookmarks =
     .label = 管理书签
-bookmarks-recent-bookmarks-panel =
-    .value = 最近的书签
 bookmarks-recent-bookmarks-panel-subheader = 最近的书签
 bookmarks-toolbar-chevron =
     .tooltiptext = 显示更多书签

@@ -238,3 +238,47 @@ onboarding-multistage-theme-tooltip-alpenglow-2 =
 # Input description for Alpenglow theme
 onboarding-multistage-theme-description-alpenglow =
     .aria-description = 使用多彩按钮、菜单、窗口外观。
+
+## Multistage MR1 onboarding strings (MR1 about:welcome pages)
+
+# This button will open system settings to turn on prefers-reduced-motion
+mr1-onboarding-reduce-motion-button-label = 关闭动画
+mr1-onboarding-welcome-header = 欢迎使用 { -brand-short-name }
+mr1-onboarding-set-default-pin-primary-button-label = 将 { -brand-short-name } 设为我的主浏览器
+    .title = 将 { -brand-short-name } 设为默认浏览器，并固定到任务栏
+mr1-onboarding-set-default-only-primary-button-label = 将 { -brand-short-name } 设为我的默认浏览器
+mr1-onboarding-set-default-secondary-button-label = 暂时不要
+mr1-onboarding-sign-in-button-label = 登录
+mr1-onboarding-import-secondary-button-label = 暂时不要
+mr1-onboarding-theme-primary-button-label = 保存主题
+mr1-onboarding-theme-secondary-button-label = 现在不要
+# System theme uses operating system color settings
+mr1-onboarding-theme-label-system = 系统主题
+mr1-onboarding-theme-label-light = 明亮
+mr1-onboarding-theme-label-dark = 深邃
+# "Alpenglow" here is the name of the theme, and should be kept in English.
+mr1-onboarding-theme-label-alpenglow = 染山霞
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
+# Tooltip displayed on hover of system theme
+mr1-onboarding-theme-tooltip-system =
+    .title = 跟随系统主题配色显示按钮、菜单和窗口
+# Input description for system theme
+mr1-onboarding-theme-description-system =
+    .aria-description = 跟随系统主题配色显示按钮、菜单和窗口
+# Tooltip displayed on hover of light theme
+mr1-onboarding-theme-tooltip-light =
+    .title = 为按钮、菜单和窗口使用明亮配色主题。
+# Input description for light theme
+mr1-onboarding-theme-description-light =
+    .aria-description = 为按钮、菜单和窗口使用明亮配色主题。
+# Tooltip displayed on hover of dark theme
+mr1-onboarding-theme-tooltip-dark =
+    .title = 为按钮、菜单和窗口使用深邃配色主题。
+# Input description for dark theme
+mr1-onboarding-theme-description-dark =
+    .aria-description = 为按钮、菜单和窗口使用深邃配色主题。
