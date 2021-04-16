@@ -121,6 +121,7 @@ onboarding-multistage-welcome-header = <span data-l10n-name="zap">{ -brand-short
 onboarding-multistage-welcome-primary-button-label = అమర్పు మొదలుపెట్టు
 onboarding-multistage-welcome-secondary-button-label = ప్రవేశించు
 onboarding-multistage-welcome-secondary-button-text = ఖాతా ఉందా?
+onboarding-multistage-set-default-primary-button-label = అప్రమేయం చేయి
 onboarding-multistage-set-default-secondary-button-label = ఇప్పుడు కాదు
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
@@ -138,7 +139,6 @@ onboarding-welcome-steps-indicator =
 # automatically added to the text inside it. "look" should stay inside the span.
 onboarding-multistage-theme-header = ఒక <span data-l10n-name="zap">రూపం</span> ఎంచుకోండి
 onboarding-multistage-theme-subtitle = ఒక అలంకారంతో { -brand-short-name }‌ని వ్యక్తిగతీకరించుకోండి.
-onboarding-multistage-theme-primary-button-label = అలంకారాన్ని భద్రపరుచు
 onboarding-multistage-theme-primary-button-label2 = పూర్తయింది
 onboarding-multistage-theme-secondary-button-label = ఇప్పుడు కాదు
 # Automatic theme uses operating system color settings
@@ -147,6 +147,20 @@ onboarding-multistage-theme-label-light = తెల్లని
 onboarding-multistage-theme-label-dark = నల్లని
 # "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
 onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
+
+## Multistage MR1 onboarding strings (MR1 about:welcome pages)
+
+mr1-onboarding-welcome-header = { -brand-short-name }కు స్వాగతం
+mr1-onboarding-set-default-secondary-button-label = ఇప్పుడు కాదు
+mr1-onboarding-theme-secondary-button-label = ఇప్పుడు కాదు
+# System theme uses operating system color settings
+mr1-onboarding-theme-label-system = వ్యవస్థ అలంకారం
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
