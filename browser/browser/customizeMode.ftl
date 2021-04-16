@@ -49,3 +49,5 @@ customize-mode-lwthemes-my-themes =
     .value = Nire itxurak
 customize-mode-touchbar-cmd =
     .label = Pertsonalizatu Touch Bar-a…
+customize-mode-downloads-button-autohide =
+    .label = Ezkutatu botoia hutsik dagoenean

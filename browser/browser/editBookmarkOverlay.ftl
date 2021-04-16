@@ -48,3 +48,5 @@ bookmark-overlay-keyword =
 bookmark-overlay-keyword-2 =
     .value = Gako-hitza
     .accesskey = G
+bookmark-overlay-tags-caption-label = Erabili etiketak laster-markak helbide-barratik antolatu eta bilatzeko
+bookmark-overlay-keyword-caption-label-2 = Erabili gako-hitz bat laster-markak helbide-barratik zuzenean irekitzeko
