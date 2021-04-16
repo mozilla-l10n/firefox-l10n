@@ -3,11 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = Om programtillegg
-
 installed-plugins-label = Installerte programtillegg
 no-plugins-are-installed-label = Fant ingen installerte programtillegg
-
-deprecation-description = Savner du noe? Noen programtillegg støttes ikke lenger. <a data-l10n-name="deprecation-link">Les mer</a>
+deprecation-description = Savner du noe? Noen programtillegg støttes ikke lenger. <a data-l10n-name="deprecation-link">Les mer.</a>
 
 ## The information of plugins
 ##
@@ -29,7 +27,6 @@ state-dd-enabled = <span data-l10n-name="state">Tilstand:</span> Påslått
 state-dd-enabled-block-list-state = <span data-l10n-name="state">Tilstand:</span> Påslått ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">Tilstand:</span> Avslått
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">Tilstand:</span> Avslått ({ $blockListState })
-
 mime-type-label = MIME-type
 description-label = Beskrivelse
 suffixes-label = Filtyper
