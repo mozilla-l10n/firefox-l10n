@@ -317,3 +317,23 @@ mr1-onboarding-theme-description-light =
     .aria-description =
         Világos téma használata a gombokhoz,
         menükhöz és ablakokhoz.
+# Tooltip displayed on hover of dark theme
+mr1-onboarding-theme-tooltip-dark =
+    .title =
+        Sötét téma használata a gombokhoz,
+        menükhöz és ablakokhoz.
+# Input description for dark theme
+mr1-onboarding-theme-description-dark =
+    .aria-description =
+        Sötét téma használata a gombokhoz,
+        menükhöz és ablakokhoz.
+# Tooltip displayed on hover of Alpenglow theme
+mr1-onboarding-theme-tooltip-alpenglow =
+    .title =
+        Dinamikus, színes téma használata a
+        gombokhoz, menükhöz és ablakokhoz.
+# Input description for Alpenglow theme
+mr1-onboarding-theme-description-alpenglow =
+    .aria-description =
+        Dinamikus, színes téma használata a
+        gombokhoz, menükhöz és ablakokhoz.

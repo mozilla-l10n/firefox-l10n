@@ -2,9 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-toolbar-context-menu-open-a-new-tab =
-    .label = Új lap megnyitása
-    .accesskey = j
+toolbar-context-menu-new-tab =
+    .label = Új lap
+    .accesskey = l
 toolbar-context-menu-reload-selected-tab =
     .label = Kiválasztott lap újratöltése
     .accesskey = R
