@@ -139,4 +139,4 @@ downloads-list-empty =
     .value = 다운로드 항목이 없습니다.
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
-    .value = 이 세션에는 다운로드 항목이 없습니다.
+    .value = 이 세션에 다운로드 항목이 없습니다.

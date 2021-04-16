@@ -49,3 +49,5 @@ customize-mode-lwthemes-my-themes =
     .value = 내 테마
 customize-mode-touchbar-cmd =
     .label = 터치바 사용자 정의…
+customize-mode-downloads-button-autohide =
+    .label = 비어있을 때 버튼 숨기기
