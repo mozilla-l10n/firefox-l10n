@@ -191,7 +191,6 @@ onboarding-welcome-steps-indicator =
 # automatically added to the text inside it. "look" should stay inside the span.
 onboarding-multistage-theme-header = Aukeratu <span data-l10n-name="zap">itxura</span>
 onboarding-multistage-theme-subtitle = Pertsonalizatu { -brand-short-name } itxura batekin.
-onboarding-multistage-theme-primary-button-label = Gorde itxura
 onboarding-multistage-theme-primary-button-label2 = Eginda
 onboarding-multistage-theme-secondary-button-label = Orain ez
 # Automatic theme uses operating system color settings
@@ -246,4 +245,52 @@ onboarding-multistage-theme-tooltip-alpenglow-2 =
 onboarding-multistage-theme-description-alpenglow =
     .aria-description =
         Erabili itxura koloretsua botoi,
+        menu eta leihoentzat.
+
+## Multistage MR1 onboarding strings (MR1 about:welcome pages)
+
+mr1-onboarding-theme-subtitle = Pertsonalizatu { -brand-short-name } itxura batekin.
+mr1-onboarding-theme-primary-button-label = Gorde itxura
+mr1-onboarding-theme-secondary-button-label = Une honetan ez
+# System theme uses operating system color settings
+mr1-onboarding-theme-label-system = Sistemaren itxura
+mr1-onboarding-theme-label-light = Argia
+mr1-onboarding-theme-label-dark = Iluna
+# "Alpenglow" here is the name of the theme, and should be kept in English.
+mr1-onboarding-theme-label-alpenglow = Alpenglow
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
+# Tooltip displayed on hover of light theme
+mr1-onboarding-theme-tooltip-light =
+    .title =
+        Erabili itxura argia botoi,
+        menu eta leihoentzat.
+# Input description for light theme
+mr1-onboarding-theme-description-light =
+    .aria-description =
+        Erabili itxura argia botoi,
+        menu eta leihoentzat.
+# Tooltip displayed on hover of dark theme
+mr1-onboarding-theme-tooltip-dark =
+    .title =
+        Erabili itxura iluna botoi,
+        menu eta leihoentzat.
+# Input description for dark theme
+mr1-onboarding-theme-description-dark =
+    .aria-description =
+        Erabili itxura iluna botoi,
+        menu eta leihoentzat.
+# Tooltip displayed on hover of Alpenglow theme
+mr1-onboarding-theme-tooltip-alpenglow =
+    .title =
+        Erabili itxura koloretsu eta dinamikoa botoi,
+        menu eta leihoentzat.
+# Input description for Alpenglow theme
+mr1-onboarding-theme-description-alpenglow =
+    .aria-description =
+        Erabili itxura koloretsu eta dinamikoa botoi,
         menu eta leihoentzat.
