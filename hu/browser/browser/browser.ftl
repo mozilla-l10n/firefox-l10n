@@ -319,6 +319,7 @@ identity-https-only-info-turn-off2 = Ha az oldal nem megfelelően működik, leh
 identity-https-only-info-no-upgrade = Nem lehet frissíteni a kapcsolatot HTTP-ről.
 identity-permissions-storage-access-header = Webhelyek közötti sütik
 identity-permissions-storage-access-hint = Ezek a felek használhatják a webhelyek közötti sütiket és a webhely adatait, amíg Ön ezen a webhelyen tartózkodik.
+identity-permissions-storage-access-learn-more = További tudnivalók
 identity-permissions-reload-hint = Lehet hogy újra kell töltenie az oldalt a változások érvényesítéséhez.
 identity-permissions-empty = Nem adott speciális engedélyeket ennek az oldalnak.
 identity-clear-site-data =
@@ -581,9 +582,6 @@ pointerlock-warning-no-domain = Ez a dokumentum vezérli az egérmutatóját. Ny
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Az oldal egy része összeomlott.</strong> Küldjön egy jelentést a { -brand-product-name } fejlesztőinek, hogy gyorsabban elháríthassák a problémát.
-crashed-subframe-learnmore =
-    .label = További tudnivalók
-    .accesskey = T
 crashed-subframe-learnmore-link =
     .value = További tudnivalók
 crashed-subframe-submit =
@@ -596,8 +594,6 @@ bookmarks-show-all-bookmarks =
     .label = Minden könyvjelző megjelenítése
 bookmarks-manage-bookmarks =
     .label = Könyvjelzők kezelése
-bookmarks-recent-bookmarks-panel =
-    .value = Friss könyvjelzők
 bookmarks-recent-bookmarks-panel-subheader = Friss könyvjelzők
 bookmarks-toolbar-chevron =
     .tooltiptext = További könyvjelzők megjelenítése
