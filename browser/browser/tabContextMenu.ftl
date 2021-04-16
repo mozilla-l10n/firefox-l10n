@@ -72,8 +72,8 @@ tab-context-close-multiple-tabs =
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->
-            [1] 탭 닫기 취소
-           *[other] 탭 닫기 취소
+            [1] 닫은 탭 다시 열기
+           *[other] 닫은 탭 다시 열기
         }
     .accesskey = U
 close-tab =
