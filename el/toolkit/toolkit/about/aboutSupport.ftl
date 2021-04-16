@@ -137,8 +137,6 @@ troubleshoot-mode-title = Διάγνωση προβλημάτων
 restart-in-troubleshoot-mode-label = Λειτουργία επίλυσης προβλημάτων…
 clear-startup-cache-title = Απαλοιφή προσωρινής μνήμης εκκίνησης
 clear-startup-cache-label = Εκκαθάριση προσωρινής μνήμης εκκίνησης…
-startup-cache-dialog-title = Εκκαθάριση προσωρινής μνήμης εκκίνησης
-startup-cache-dialog-body = Επανεκκινήστε το { -brand-short-name } για να εκκαθαρίσετε την προσωρινή μνήμη εκκίνησης. Αυτό δεν θα αλλάξει τις ρυθμίσεις σας, ούτε θα καταργήσει τις επεκτάσεις που έχετε προσθέσει στο { -brand-short-name }.
 startup-cache-dialog-title2 = Επανεκκίνηση του { -brand-short-name } για απαλοιφή προσωρινής μνήμης εκκίνησης;
 startup-cache-dialog-body2 = Αυτό δεν θα αλλάξει τις ρυθμίσεις σας, ούτε θα αφαιρέσει τις επεκτάσεις σας.
 restart-button-label = Επανεκκίνηση
@@ -186,7 +184,7 @@ intl-regional-prefs = Προτιμήσεις περιοχής
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
-remote-debugging-title = Απομακρυσμένος εντοπισμός σφαλμάτων (Πρωτόκολλο Chromium)
+remote-debugging-title = Απομακρυσμένος έλεγχος σφαλμάτων (Πρωτόκολλο Chromium)
 remote-debugging-accepting-connections = Αποδεκτές συνδέσεις
 remote-debugging-url = URL
 
@@ -349,7 +347,7 @@ sandbox-proc-type-data-decoder = αποκωδικοποιητής δεδομέν
 startup-cache-title = Προσωρινή μνήμη εκκίνησης
 startup-cache-disk-cache-path = Διαδρομή προσωρινής μνήμης δίσκου
 startup-cache-ignore-disk-cache = Παράβλεψη προσωρινής μνήμης δίσκου
-startup-cache-found-disk-cache-on-init = Εύρεση προσωρινής μνήμης δίσκου στο Init
+startup-cache-found-disk-cache-on-init = Βρέθηκε προσωρινή μνήμη δίσκου στο Init
 startup-cache-wrote-to-disk-cache = Εγγράφηκε στην προσωρινή μνήμη δίσκου
 launcher-process-status-0 = Ενεργό
 launcher-process-status-1 = Ανενεργό λόγω αποτυχίας

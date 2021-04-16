@@ -25,25 +25,6 @@ experimental-features-web-api-inputmode =
 experimental-features-web-api-inputmode-description = Η δική μας υλοποίηση της καθολικής ιδιότητας <a data-l10n-name="mdn-inputmode">inputmode</a> έχει ενημερωθεί βάσει της <a data-l10n-name="whatwg">προδιαγραφής WHATWG</a>, αλλά υπάρχουν κι άλλες αλλαγές που πρέπει να κάνουμε, όπως η διάθεση σε περιεχόμενο contenteditable. Δείτε το <a data-l10n-name="bugzilla">σφάλμα 1205133</a> για περισσότερες λεπτομέρειες.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
-experimental-features-web-api-link-preload =
-    .label = Web API: <link rel="preload">
-# Do not translate "rel", "preload" or "link" here, as they are all HTML spec
-# values that do not get translated.
-experimental-features-web-api-link-preload-description = Η ιδιότητα <a data-l10n-name="rel">rel</a> με την τιμή <code>"preload"</code> σε στοιχείο <a data-l10n-name="link">&lt;link&gt;</a> έχει ως σκοπό να συνεισφέρει στη βελτίωση επιδόσεων, κάνοντας λήψη των πόρων νωρίτερα στον κύκλο ζωής της σελίδας, διασφαλίζοντας ότι είναι διαθέσιμοι νωρίτερα και έτσι, είναι λιγότερο πιθανό να αποκλειστεί η απεικόνιση της σελίδας. Διαβάστε το <a data-l10n-name="readmore">“Προφόρτωση περιεχομένου με <code>rel="preload"</code>”</a> ή δείτε το <a data-l10n-name="bugzilla">σφάλμα 1583604</a> για περισσότερες λεπτομέρειες.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-css-focus-visible =
-    .label = CSS: Pseudo-class: :focus-visible
-experimental-features-css-focus-visible-description = Επιτρέπει στα στυλ εστίασης να εφαρμοστούν σε στοιχεία, όπως κουμπιά και στοιχεία ελέγχου φορμών, μόνο όταν έχει γίνει εστίαση με πληκτρολόγιο (π.χ. κατά την εναλλαγή μεταξύ στοιχείων με το πλήκτρο Tab) και όχι όταν γίνεται εστίαση με ποντίκι ή άλλη συσκευή κατάδειξης. Δείτε το <a data-l10n-name="bugzilla">σφάλμα 1617600</a> για περισσότερες λεπτομέρειες.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-web-api-beforeinput =
-    .label = Web API: beforeinput Event
-# The terms "beforeinput", "input", "textarea", and "contenteditable" are technical terms
-# and shouldn't be translated.
-experimental-features-web-api-beforeinput-description = Το καθολικό συμβάν <a data-l10n-name="mdn-beforeinput">beforeinput</a> ενεργοποιείται σε στοιχεία <a data-l10n-name="mdn-input">&lt;input&gt;</a> και <a data-l10n-name="mdn-textarea">&lt;textarea&gt;</a>, ή όποιο στοιχείο έχει ενεργή ιδιότητα <a data-l10n-name="mdn-contenteditable">contenteditable</a>, αμέσως πριν την αλλαγή της τιμής του στοιχείου. Το συμβάν επιτρέπει σε εφαρμογές web να παρακάμπτουν την προεπιλεγμένη συμπεριφορά του προγράμματος περιήγησης για αλληλεπίδραση με το χρήστη, π.χ., οι εφαρμογές web μπορούν να ακυρώσουν την είσοδο χρήστη μόνο για συγκεκριμένους χαρακτήρες ή να τροποποιήσουν την επικόλληση του κειμένου μόνο με εγκεκριμένη μορφοποίηση.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
 experimental-features-css-constructable-stylesheets-description = Η προσθήκη κατασκευαστή στο περιβάλλον <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a> καθώς και μια ποικιλία σχετικών αλλαγών καθιστούν δυνατή την απευθείας δημιουργία νέων φύλλων στυλ χωρίς να πρέπει να προσθέσετε το φύλλο στο HTML. Έτσι, γίνεται πολύ πιο εύκολη η δημιουργία επαναχρησιμοποιήσιμων φύλλων στυλ για το <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. Δείτε το <a data-l10n-name="bugzilla">σφάλμα 1520690</a> για περισσότερες λεπτομέρειες.
@@ -69,9 +50,6 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Τα c
 experimental-features-abouthome-startup-cache =
     .label = Προσωρινή μνήμη εκκίνησης του about:home
 experimental-features-abouthome-startup-cache-description = Μια προσωρινή μνήμη για το έγγραφο about:home που φορτώνεται από προεπιλογή κατά την εκκίνηση. Ο σκοπός της προσωρινής μνήμης είναι η βελτίωση της απόδοσης εκκίνησης.
-experimental-features-print-preview-tab-modal =
-    .label = Ανασχεδιασμός προεπισκόπησης εκτύπωσης
-experimental-features-print-preview-tab-modal-description = Παρουσιάζει την ανασχεδιασμένη προεπισκόπηση εκτύπωσης και καθιστά διαθέσιμη την προεπισκόπηση εκτύπωσης στο macOS. Αυτό ίσως προκαλέσει προβλήματα και δεν περιέχει όλες τις ρυθμίσεις εκτύπωσης. Για πρόσβαση σε όλες τις ρυθμίσεις εκτύπωσης, επιλέξτε “Εκτύπωση μέσω διαλόγου συστήματος…” από το παράθυρο εκτύπωσης.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
@@ -79,7 +57,7 @@ experimental-features-cookie-samesite-schemeful =
 experimental-features-cookie-samesite-schemeful-description = Διαχείριση των cookies ίδιου τομέα αλλά διαφορετικού μοτίβου (π.χ. http://example.com και https://example.com) ως cookies πολλαπλών ιστοσελίδων αντί cookies ίδιας ιστοσελίδας. Βελτιώνει την ασφάλεια, αλλά ενδέχεται να προκαλέσει προβλήματα.
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
-    .label = Εργαλεία προγραμματιστή: Εντοπισμός σφαλμάτων service worker
+    .label = Εργαλεία ανάπτυξης: Έλεγχος σφαλμάτων service worker
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = Ενεργοποιεί την πειραματική υποστήριξη για Service Workers στον πίνακα εντοπισμού σφαλμάτων. Αυτή η δυνατότητα ενδέχεται να επιβραδύνει τα εργαλεία προγραμματιστή και να αυξήσει την κατανάλωση μνήμης.
 # WebRTC global mute toggle controls

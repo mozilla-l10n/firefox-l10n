@@ -22,12 +22,12 @@ serviceworker-worker-unregister = Κατάργηση εγγραφής
 # Text for the debug link displayed for an already started Service Worker. Clicking on the
 # link opens a new devtools toolbox for this service worker. The title attribute is only
 # displayed when the link is disabled.
-serviceworker-worker-debug = Εντοπισμός σφαλμάτων
-    .title = Ο εντοπισμός σφαλμάτων μπορεί να γίνει μόνο για τα εκτελούμενα service workers
+serviceworker-worker-debug = Έλεγχος σφαλμάτων
+    .title = Ο έλεγχος σφαλμάτων μπορεί να γίνει μόνο σε εκτελούμενα service worker
 # Text for the debug link displayed for an already started Service Worker, when we
 # are in multi e10s mode, which effectively disables this link.
-serviceworker-worker-debug-forbidden = Εντοπισμός σφαλμάτων
-    .title = Ο εντοπισμός σφαλμάτων των service workers μπορεί να γίνει μόνο αν είναι ανενεργό το multi e10s
+serviceworker-worker-debug-forbidden = Έλεγχος σφαλμάτων
+    .title = Ο έλεγχος σφαλμάτων των service worker μπορεί να γίνει μόνο αν είναι ανενεργό το multi e10s
 # Text for the start link displayed for a registered but not running Service Worker.
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start2 = Έναρξη

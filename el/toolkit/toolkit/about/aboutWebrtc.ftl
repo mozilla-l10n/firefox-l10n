@@ -58,16 +58,10 @@ about-webrtc-ice-pair-bytes-sent = Απεσταλμένα bytes:
 about-webrtc-ice-pair-bytes-received = Ληφθέντα bytes:
 about-webrtc-ice-component-id = Αναγνωριστικό στοιχείου
 
-##
-
-
 ## "Avg." is an abbreviation for Average. These are used as data labels.
 
 about-webrtc-avg-bitrate-label = Μέσος ρυθμός bit:
 about-webrtc-avg-framerate-label = Μέσος ρυθμός καρέ:
-
-##
-
 
 ## These adjectives are used to label a line of statistics collected for a peer
 ## connection. The data represents either the local or remote end of the
@@ -87,7 +81,7 @@ about-webrtc-nominated = Υποψήφια
 about-webrtc-selected = Επιλεγμένα
 about-webrtc-save-page-label = Αποθήκευση σελίδας
 about-webrtc-debug-mode-msg-label = Λειτουργία αποσφαλμάτωσης
-about-webrtc-debug-mode-off-state-label = Έναρξη λειτουργίας αποσφαλμάτωσης
+about-webrtc-debug-mode-off-state-label = Έναρξη λειτουργίας ελέγχου σφαλμάτων
 about-webrtc-debug-mode-on-state-label = Διακοπή λειτουργίας αποσφαλμάτωσης
 about-webrtc-stats-heading = Στατιστικά συνεδρίας
 about-webrtc-stats-clear = Εκκαθάριση ιστορικού

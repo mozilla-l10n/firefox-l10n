@@ -130,7 +130,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY libraryDownloads.label       "Λήψεις">
 <!ENTITY addons.label                 "Πρόσθετα">
 
-<!ENTITY webDeveloperMenu.label       "Προγραμματισμός ιστού">
+<!ENTITY webDeveloperMenu.label       "Ανάπτυξη web">
 
 <!ENTITY newNavigatorCmd.label        "Νέο παράθυρο">
 <!ENTITY newPrivateWindow.label     "Νέο ιδιωτικό παράθυρο">
