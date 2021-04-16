@@ -10,6 +10,10 @@
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-new-title = Esan kaixo { -brand-short-name } berri bati
+upgrade-dialog-new-item-menu-description = Eman lehentasuna gauza garrantzitsuei behar duzuna aurki dezazun.
+upgrade-dialog-new-item-tabs-title = Fitxa modernoak
+upgrade-dialog-new-item-icons-title = Ikono berriak eta mezu garbiagoak
+upgrade-dialog-new-primary-pin-button = Ainguratu { -brand-short-name } nire ataza-barran
 upgrade-dialog-new-primary-theme-button = Aukeratu itxura
 upgrade-dialog-new-secondary-button = Une honetan ez
 
