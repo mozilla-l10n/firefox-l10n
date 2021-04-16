@@ -49,3 +49,5 @@ customize-mode-lwthemes-my-themes =
     .value = Τα θέματά μου
 customize-mode-touchbar-cmd =
     .label = Προσαρμογή γραμμής αφής…
+customize-mode-downloads-button-autohide =
+    .label = Απόκρυψη κουμπιού όταν είναι κενό
