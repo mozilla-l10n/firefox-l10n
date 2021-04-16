@@ -504,6 +504,8 @@ more-menu-go-offline =
 
 ## EME notification panel
 
+eme-notifications-drm-content-playing-dismiss = Escartar
+eme-notifications-drm-content-playing-dismiss-accesskey = E
 
 ## Password save/update panel
 
