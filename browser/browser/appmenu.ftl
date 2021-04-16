@@ -5,8 +5,6 @@
 
 ## App Menu
 
-appmenuitem-update-banner =
-    .label-update-downloading = { -brand-shorter-name } తాజాకరణ దించుకుంటోంది
 appmenuitem-update-banner2 =
     .label-update-downloading = { -brand-shorter-name } తాజాకరణను దించుకొంటూంది
     .label-update-available = తాజాకరణ అందుబాటులో ఉంది — ఇప్పుడే దించుకోండి
@@ -25,8 +23,6 @@ appmenuitem-new-private-window =
     .label = కొత్త ఆంతరంగిక విండో
 appmenuitem-passwords =
     .label = సంకేతపదాలు
-appmenuitem-extensions-and-themes =
-    .label = పొడగింతలు, అలంకారాలు
 appmenuitem-addons-and-themes =
     .label = పొడగింతలు, అలంకారాలు
 appmenuitem-find-in-page =
@@ -35,12 +31,24 @@ appmenuitem-more-tools =
     .label = మరిన్ని పనిముట్లు
 appmenuitem-exit =
     .label = నిష్క్రమించు
+appmenu-menu-button-closed =
+    .tooltiptext = అనువర్తనపు మెనూ తెరువు
+    .label = { -brand-shorter-name }
+appmenu-menu-button-opened =
+    .tooltiptext = అనువర్తనపు మెనూని మూసివేయి
+    .label = { -brand-shorter-name }
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
             [linux] నిష్క్రమించు
            *[other] నిష్క్రమించు
         }
+appmenu-menu-button-closed2 =
+    .tooltiptext = అనువర్తనపు మెనూ తెరువు
+    .label = { -brand-short-name }
+appmenu-menu-button-opened2 =
+    .tooltiptext = అనువర్తనపు మెనూని మూసివేయి
+    .label = { -brand-short-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -96,6 +104,8 @@ profiler-popup-discard-button =
 
 ## History panel
 
+appmenu-manage-history =
+    .label = చరిత్ర నిర్వహణ
 appmenu-reopen-all-tabs = ట్యాబులన్నింటినీ మళ్లీ తెరువు
 appmenu-reopen-all-windows = కిటికీలన్నిటినీ మళ్ళీ తెరువు
 
@@ -109,9 +119,6 @@ appmenu-about =
 appmenu-get-help =
     .label = సహాయం పొందండి
     .accesskey = H
-appmenu-help-troubleshooting-info =
-    .label = సమస్యాపరిష్కారపు సమాచారం
-    .accesskey = T
 appmenu-help-more-troubleshooting-info =
     .label = మరింత సమస్యాపరిష్కారపు సమాచారం
     .accesskey = T
@@ -121,19 +128,12 @@ appmenu-help-feedback-page =
     .label = ప్రతిస్పందనను తెలియజేయండి…
     .accesskey = S
 
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = యాడ్-ఆన్స్ అచేతనపరచి పునఃప్రారంభించు…
-    .accesskey = R
-appmenu-help-safe-mode-with-addons =
-    .label = యాడ్-ఆన్స్ చేతనపరచి పునఃప్రారంభించు
-    .accesskey = R
-
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-enter-troubleshoot-mode2 =
+    .label = సమస్యాపరిష్కార రీతి…
+    .accesskey = M
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
