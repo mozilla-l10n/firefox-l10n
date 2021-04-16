@@ -199,7 +199,7 @@ onboarding-welcome-steps-indicator =
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "look" should stay inside the span.
 onboarding-multistage-theme-header = 选择<span data-l10n-name="zap">外观</span>
-onboarding-multistage-theme-subtitle = 换上主题，让 { -brand-short-name } 有您的个性
+onboarding-multistage-theme-subtitle = 换上主题，让 { -brand-short-name } 有您的个性。
 onboarding-multistage-theme-primary-button-label2 = 完成
 onboarding-multistage-theme-secondary-button-label = 暂时不要
 # Automatic theme uses operating system color settings
@@ -250,6 +250,7 @@ mr1-onboarding-set-default-only-primary-button-label = 将 { -brand-short-name }
 mr1-onboarding-set-default-secondary-button-label = 暂时不要
 mr1-onboarding-sign-in-button-label = 登录
 mr1-onboarding-import-secondary-button-label = 暂时不要
+mr1-onboarding-theme-subtitle = 换上主题，让 { -brand-short-name } 有您的个性。
 mr1-onboarding-theme-primary-button-label = 保存主题
 mr1-onboarding-theme-secondary-button-label = 现在不要
 # System theme uses operating system color settings

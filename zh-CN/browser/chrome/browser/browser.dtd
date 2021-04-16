@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "打开菜单">
+
 <!ENTITY navbarOverflow.label                "更多工具…">
 
 <!-- Tab context menu -->
@@ -51,6 +52,10 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.syncSettings2.label "&syncBrand.shortName.label;服务设置">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "绑定其他设备…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     followed by the user's email. -->
 <!ENTITY fxa.menu.signin.label "登录 &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "开启&syncBrand.shortName.label;服务">
 <!ENTITY fxa.menu.firefoxServices.label "&brandProductName; 服务">
@@ -144,6 +149,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY historyUndoWindowMenu.label "最近关闭的窗口">
 
 <!ENTITY appMenuHistory.showAll.label "管理所有历史记录">
+
 <!ENTITY appMenuHistory.clearRecent.label "清除最近的历史记录…">
 <!ENTITY appMenuHistory.restoreSession.label "恢复先前的浏览状态">
 <!ENTITY appMenuHistory.viewSidebar.label "查看历史记录侧栏">
@@ -152,12 +158,15 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuHelp.label "帮助">
 
 <!ENTITY appMenuRemoteTabs.label "受同步的标签页">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "没有打开的标签页">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showMore.label "显示更多">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.tooltip):
+     This is shown after the tabs list if we can display more tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showMore.tooltip "显示此设备的更多标签页">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
@@ -216,9 +225,6 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY saveToPocketCmd.label        "保存页面到 Pocket">
-
-<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
-  "Pocket" is a brand name. -->
 <!ENTITY pocketMenuitem.label         "查看 Pocket 列表">
 
 <!ENTITY emailPageCmd.label           "用邮件发送链接…">
@@ -238,8 +244,8 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "编辑弹窗拦截首选项…">
-<!ENTITY editPopupSettings.label "编辑弹窗拦截选项…">
+<!ENTITY editPopupSettingsUnix.label "编辑弹窗阻止首选项…">
+<!ENTITY editPopupSettings.label "编辑弹窗阻止选项…">
 <!ENTITY editPopupSettings.accesskey "E">
 <!ENTITY dontShowMessage.accesskey "D">
 
