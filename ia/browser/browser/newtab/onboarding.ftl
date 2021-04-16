@@ -258,10 +258,16 @@ onboarding-multistage-theme-description-alpenglow =
 ## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 
 mr1-onboarding-welcome-header = Benvenite a { -brand-short-name }
+mr1-onboarding-set-default-pin-primary-button-label = Render { -brand-short-name } mi navigator principal
+    .title = Stabili { -brand-short-name } como navigator predefinite e lo adde al barra del applicationes
 mr1-onboarding-set-default-only-primary-button-label = Render { -brand-short-name } mi navigator primari?
 mr1-onboarding-set-default-secondary-button-label = Non ora
 mr1-onboarding-sign-in-button-label = Aperir session
 mr1-onboarding-import-header = Porta toto con te
+# The primary import button label will depend on whether we can detect which browser was used to download Firefox.
+# Variables:
+#   $previous (Str) - Previous browser name, such as Edge, Chrome
+mr1-onboarding-import-primary-button-label-attribution = Importar ex { $previous }
 mr1-onboarding-import-secondary-button-label = Non ora
 mr1-onboarding-theme-subtitle = Personalisa { -brand-short-name } per un thema.
 mr1-onboarding-theme-primary-button-label = Salvar le thema
