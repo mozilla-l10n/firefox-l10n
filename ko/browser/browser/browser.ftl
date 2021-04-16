@@ -307,6 +307,7 @@ identity-https-only-info-turn-off2 = 페이지가 손상된 것 같으면 이 �
 identity-https-only-info-no-upgrade = HTTP에서 연결을 업그레이드할 수 없습니다.
 identity-permissions-storage-access-header = 교차 사이트 쿠키
 identity-permissions-storage-access-hint = 이 당사자는 사용자가 이 사이트에 있는 동안 교차 사이트 쿠키 및 사이트 데이터를 사용할 수 있습니다.
+identity-permissions-storage-access-learn-more = 더 알아보기
 identity-permissions-reload-hint = 변경 사항을 적용하려면 페이지를 다시 로드해야할 수도 있습니다.
 identity-permissions-empty = 이 사이트를 특별한 권한으로 승인하지 않았습니다.
 identity-clear-site-data =
@@ -566,9 +567,6 @@ pointerlock-warning-no-domain = 이 문서가 포인터를 제어하려 합니�
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>이 페이지의 일부가 손상되었습니다.</strong> { -brand-product-name }에게 이 문제를 알리고 더 빨리 해결하려면 보고서를 제출하세요.
-crashed-subframe-learnmore =
-    .label = 더 알아보기
-    .accesskey = L
 crashed-subframe-learnmore-link =
     .value = 더 알아보기
 crashed-subframe-submit =
@@ -581,8 +579,6 @@ bookmarks-show-all-bookmarks =
     .label = 모든 북마크 보기
 bookmarks-manage-bookmarks =
     .label = 북마크 관리
-bookmarks-recent-bookmarks-panel =
-    .value = 최근 북마크
 bookmarks-recent-bookmarks-panel-subheader = 최근 북마크
 bookmarks-toolbar-chevron =
     .tooltiptext = 북마크 더보기
