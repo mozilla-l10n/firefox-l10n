@@ -319,6 +319,7 @@ identity-https-only-info-turn-off2 = Orriak hautsita badirudi, agian HTTPS-Only 
 identity-https-only-info-no-upgrade = Ezin da konexioa bihurtu HTTPtik.
 identity-permissions-storage-access-header = Guneen arteko cookieak
 identity-permissions-storage-access-hint = Ondorengo hauek guneen arteko cookie eta datuak erabil ditzakete gune honetan zauden bitartean.
+identity-permissions-storage-access-learn-more = Argibide gehiago
 identity-permissions-reload-hint = Agian orria berritu beharko duzu aldaketek eragina izan dezaten.
 identity-permissions-empty = Ez diozu gune honi baimen berezirik eman.
 identity-clear-site-data =

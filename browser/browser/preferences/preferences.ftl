@@ -64,6 +64,7 @@ category-experimental =
 pane-experimental-subtitle = Kontuz jarraitu
 pane-experimental-search-results-header = { -brand-short-name } esperimentuak: kontuz jarraitu
 pane-experimental-description = Konfigurazio-hobespen aurreratuak aldatzeak { -brand-short-name }(r)en errendimendu edo segurtasunean eragin lezake.
+pane-experimental-description2 = Konfigurazio-hobespen aurreratuak aldatzeak { -brand-short-name }(r)en errendimendu edo segurtasunean eragin lezake.
 pane-experimental-reset =
     .label = Berrezarri lehenespenak
     .accesskey = h
