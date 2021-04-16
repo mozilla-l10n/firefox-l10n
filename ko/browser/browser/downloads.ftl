@@ -87,23 +87,23 @@ downloads-cmd-unblock =
     .accesskey = o
 # This is the tooltip of the action button shown when malware is blocked.
 downloads-cmd-remove-file =
-    .tooltiptext = 파일 없애기
+    .tooltiptext = 파일 삭제
 downloads-cmd-remove-file-panel =
-    .aria-label = 파일 없애기
+    .aria-label = 파일 삭제
 # This is the tooltip of the action button shown when potentially unwanted
 # downloads are blocked. This opens a dialog where the user can choose
 # whether to unblock or remove the download. Removing is the default option.
 downloads-cmd-choose-unblock =
-    .tooltiptext = 파일을 삭제하거나 다운로드 허용
+    .tooltiptext = 파일 삭제 또는 다운로드 허용
 downloads-cmd-choose-unblock-panel =
-    .aria-label = 파일을 삭제하거나 다운로드 허용
+    .aria-label = 파일 삭제 또는 다운로드 허용
 # This is the tooltip of the action button shown when uncommon downloads are
 # blocked.This opens a dialog where the user can choose whether to open the
 # file or remove the download. Opening is the default option.
 downloads-cmd-choose-open =
-    .tooltiptext = 열거나 파일 삭제
+    .tooltiptext = 파일 열기 또는 삭제
 downloads-cmd-choose-open-panel =
-    .aria-label = 열거나 파일 삭제
+    .aria-label = 파일 열기 또는 삭제
 # Displayed when hovering a blocked download, indicates that it's possible to
 # show more information for user to take the next action.
 downloads-show-more-information =
