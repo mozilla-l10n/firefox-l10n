@@ -81,7 +81,7 @@ about-debugging-refresh-usb-devices-button = Ανανέωση συσκευών
 # Title of the Setup page.
 about-debugging-setup-title = Ρύθμιση
 # Introduction text in the Setup page to explain how to configure remote debugging.
-about-debugging-setup-intro = Ρυθμίστε τη μέθοδο σύνδεσης με την οποία επιθυμείτε να αποσφαλματώσετε απομακρυσμένα τη συσκευή σας.
+about-debugging-setup-intro = Ρυθμίστε τη μέθοδο σύνδεσης με την οποία επιθυμείτε να κάνετε απομακρυσμένο έλεγχο για σφάλματα στη συσκευή σας.
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox2 = Χρησιμοποιήστε το <a>{ about-debugging-this-firefox-runtime-name }</a> για να αποσφαλματώσετε τις επεκτάσεις και τα service workers σε αυτή την έκδοση του { -brand-shorter-name }.
 # Title of the heading Connect section of the Setup page.
