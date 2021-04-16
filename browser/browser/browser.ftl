@@ -316,6 +316,7 @@ identity-https-only-info-turn-off2 = Se la pagina non funziona correttamente, pr
 identity-https-only-info-no-upgrade = Impossibile aggiornare la connessione da HTTP.
 identity-permissions-storage-access-header = Cookie intersito
 identity-permissions-storage-access-hint = Questi soggetti possono utilizzare cookie intersito e dati dei siti web quando ti trovi in questo sito.
+identity-permissions-storage-access-learn-more = Ulteriori informazioni
 identity-permissions-reload-hint = Potrebbe essere necessario ricaricare la pagina per rendere effettive le modifiche.
 identity-permissions-empty = Nessun permesso speciale associato a questo sito.
 identity-clear-site-data =
