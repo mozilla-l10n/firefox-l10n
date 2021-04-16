@@ -190,6 +190,13 @@ translate-attribution = Тарҷумаҳо аз ҷониби <img data-l10n-name
 translate-exceptions =
     .label = Истисноҳо…
     .accesskey = И
+# Variables:
+#    $localeName (string) - Localized name of the locale to be used.
+use-system-locale =
+    .label = Танзимоти низоми амалкунандаи компютерии ҷорӣ мувофиқи «{ $localeName }» барои танзим кардани сана, вақт, рақамҳо ва ададҳои ченкунӣ истифода карда мешаванд.
+check-user-spelling =
+    .label = Санҷиши қоидаҳои имло ҳангоми навиштан
+    .accesskey = С
 
 ## General Section - Files and Applications
 
@@ -209,6 +216,9 @@ download-choose-folder =
             [macos] И
            *[other] К
         }
+download-always-ask-where =
+    .label = Ҳамеша аз шумо пурсида мешавад, ки файлҳо дар куҷо нигоҳ дошта мешаванд
+    .accesskey = Ҳ
 applications-header = Барномаҳо
 applications-filter =
     .placeholder = Ҷустуҷӯи навъи файлҳо ё барномаҳо
@@ -286,6 +296,7 @@ applications-use-os-default-label =
 
 ##
 
+drm-content-header = Муҳтавои дорои низоми идоракунии ҳуқуқҳои рақамӣ (DRM)
 play-drm-content =
     .label = Пахш кардани муҳтавои идорашавандаи DRM
     .accesskey = П
