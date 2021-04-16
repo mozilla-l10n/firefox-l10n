@@ -7,3 +7,12 @@ default-browser-notification-message = <strong>Želite nastaviti { -brand-short-
 default-browser-notification-button =
     .label = Nastavi kot privzeto
     .accesskey = N
+
+## These strings are used for the default browser prompt. There are 2 variations
+## depending on the operating system (Windows vs other). The checkbox label and
+## secondary button are shared between the variants.
+
+default-browser-prompt-button-primary-pin = Nastavi kot glavni brskalnik
+default-browser-prompt-button-primary-alt = Nastavi kot privzeti brskalnik
+default-browser-prompt-checkbox-label = Ne sprašuj več
+default-browser-prompt-button-secondary = Ne zdaj
