@@ -25,7 +25,7 @@
 <!ENTITY submitCrashes.accesskey          "Υ">
 
 <!ENTITY devTools.caption                 "Εργαλεία προγραμματιστή">
-<!ENTITY allowDebugger.label              "Να επιτρέπεται σύνδεση με το &brandShortName; για εντοπισμό σφαλμάτων">
+<!ENTITY allowDebugger.label              "Να επιτρέπεται η σύνδεση με το &brandShortName; για έλεγχο σφαλμάτων">
 <!ENTITY allowDebugger.accesskey          "Ν">
 <!ENTITY allowRemoteConnections.label     "Αποδοχή συνδέσεων από άλλους υπολογιστές">
 <!ENTITY allowRemoteConnections.accesskey "ο">
