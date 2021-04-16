@@ -7,7 +7,7 @@
 ### the remote profiling panel. There are additional profiler strings in the appmenu.ftl
 ### file that are used for the profiler popup.
 
-perftools-intro-title = Ρυθμίσεις profiler
+perftools-intro-title = Ρυθμίσεις εργαλείου προφίλ
 perftools-intro-description =
     Οι εγγραφές εκκινούν το profiler.firefox.com σε νέα καρτέλα. Όλα τα δεδομένα αποθηκεύονται
     τοπικά, αλλά μπορείτε να τα μεταφορτώσετε για διαμοιρασμό.
