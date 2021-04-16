@@ -302,3 +302,38 @@ mr1-onboarding-theme-tooltip-system =
     .title =
         버튼, 메뉴 및 창에 
         운영 체제의 테마를 따릅니다.
+# Input description for system theme
+mr1-onboarding-theme-description-system =
+    .aria-description =
+        버튼, 메뉴 및 창에 
+        운영 체제의 테마를 따릅니다.
+# Tooltip displayed on hover of light theme
+mr1-onboarding-theme-tooltip-light =
+    .title =
+        버튼, 메뉴 및 창에 
+        밝은 테마를 사용합니다.
+# Input description for light theme
+mr1-onboarding-theme-description-light =
+    .aria-description =
+        버튼, 메뉴 및 창에 
+        밝은 테마를 사용합니다.
+# Tooltip displayed on hover of dark theme
+mr1-onboarding-theme-tooltip-dark =
+    .title =
+        버튼, 메뉴 및 창에 
+        어두운 테마를 사용합니다.
+# Input description for dark theme
+mr1-onboarding-theme-description-dark =
+    .aria-description =
+        버튼, 메뉴 및 창에 
+        어두운 테마를 사용합니다.
+# Tooltip displayed on hover of Alpenglow theme
+mr1-onboarding-theme-tooltip-alpenglow =
+    .title =
+        버튼, 메뉴 및 창에 
+        역동적이고 다양한 색상의 테마를 사용합니다.
+# Input description for Alpenglow theme
+mr1-onboarding-theme-description-alpenglow =
+    .aria-description =
+        버튼, 메뉴 및 창에 
+        역동적이고 다양한 색상의 테마를 사용합니다.
