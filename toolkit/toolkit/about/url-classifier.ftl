@@ -4,6 +4,7 @@
 
 url-classifier-title = Información del clasificador d'URLs
 url-classifier-search-title = Busca
+url-classifier-search-result-title = Resultaos
 url-classifier-search-result-uri = URI: { $uri }
 url-classifier-search-input = URL
 url-classifier-search-error-invalid-url = La URL nun ye válida
