@@ -267,6 +267,9 @@ mr1-welcome-screen-hero-text = Η φωτιά ξεκινά εδώ
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Απενεργοποίηση εφέ κίνησης
 mr1-onboarding-welcome-header = Καλώς ορίσατε στο { -brand-short-name }
+mr1-onboarding-set-default-pin-primary-button-label = Ορισμός { -brand-short-name } ως κύριου φυλλομετρητή
+    .title = Ορίζει το { -brand-short-name } ως το προεπιλεγμένο πρόγραμμα περιήγησης και το καρφιτσώνει στη γραμμή εργασιών
+mr1-onboarding-set-default-only-primary-button-label = Ορισμός { -brand-short-name } ως προεπιλεγμένου φυλλομετρητή
 mr1-onboarding-set-default-secondary-button-label = Όχι τώρα
 mr1-onboarding-sign-in-button-label = Σύνδεση
 mr1-onboarding-import-header = Μεταφέρετε όλα τα δεδομένα σας
@@ -279,6 +282,7 @@ mr1-onboarding-import-primary-button-label-attribution = Εισαγωγή από
 mr1-onboarding-import-primary-button-label-no-attribution = Εισαγωγή από προηγούμενο πρόγραμμα περιήγησης
 mr1-onboarding-import-secondary-button-label = Όχι τώρα
 mr1-onboarding-theme-header = Κάντε το δικό σας
+mr1-onboarding-theme-subtitle = Εξατομικεύστε το { -brand-short-name } με ένα θέμα.
 mr1-onboarding-theme-primary-button-label = Αποθήκευση θέματος
 mr1-onboarding-theme-secondary-button-label = Όχι τώρα
 # System theme uses operating system color settings
@@ -293,6 +297,16 @@ mr1-onboarding-theme-label-alpenglow = Alpenglow
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of system theme
+mr1-onboarding-theme-tooltip-system =
+    .title =
+        Χρήση θέματος λειτουργικού συστήματος
+        για κουμπιά, μενού και παράθυρα.
+# Input description for system theme
+mr1-onboarding-theme-description-system =
+    .aria-description =
+        Χρήση θέματος λειτουργικού συστήματος
+        για κουμπιά, μενού και παράθυρα.
 # Tooltip displayed on hover of light theme
 mr1-onboarding-theme-tooltip-light =
     .title =
