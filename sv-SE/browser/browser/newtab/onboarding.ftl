@@ -203,7 +203,6 @@ onboarding-welcome-steps-indicator =
 # automatically added to the text inside it. "look" should stay inside the span.
 onboarding-multistage-theme-header = Välj ett <span data-l10n-name = "zap">utseende</span>
 onboarding-multistage-theme-subtitle = Anpassa { -brand-short-name } med ett tema.
-onboarding-multistage-theme-primary-button-label = Spara tema
 onboarding-multistage-theme-primary-button-label2 = Klar
 onboarding-multistage-theme-secondary-button-label = Inte nu
 # Automatic theme uses operating system color settings
@@ -257,4 +256,61 @@ onboarding-multistage-theme-tooltip-alpenglow-2 =
 onboarding-multistage-theme-description-alpenglow =
     .aria-description =
         Använd ett färgglatt utseende för knappar,
+        menyer och fönster.
+
+## Multistage MR1 onboarding strings (MR1 about:welcome pages)
+
+# "Hero Text" displayed on left side of welcome screen.
+# The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
+# It also signals the passion users bring to Firefox, how they use
+# Firefox to pursue those passions, as well as the boldness in their
+# choice to use Firefox over a larger competitor browser.
+# An alternative title for localization is: "It starts here".
+mr1-welcome-screen-hero-text = Det börjar här
+# This button will open system settings to turn on prefers-reduced-motion
+mr1-onboarding-reduce-motion-button-label = Stäng av animationer
+mr1-onboarding-welcome-header = Välkommen till { -brand-short-name }
+mr1-onboarding-set-default-pin-primary-button-label = Gör { -brand-short-name } till min primära webbläsare
+    .title = Ställer in { -brand-short-name } som standardwebbläsare och fäster den i aktivitetsfältet
+mr1-onboarding-set-default-only-primary-button-label = Gör { -brand-short-name } till min standardwebbläsare
+mr1-onboarding-set-default-secondary-button-label = Inte nu
+mr1-onboarding-sign-in-button-label = Logga in
+mr1-onboarding-import-subtitle = Importera dina lösenord, <br/>bokmärken och mer.
+# The primary import button label will depend on whether we can detect which browser was used to download Firefox.
+# Variables:
+#   $previous (Str) - Previous browser name, such as Edge, Chrome
+mr1-onboarding-import-primary-button-label-attribution = Importera från { $previous }
+# This string will be used in cases where we can't detect the previous browser name.
+mr1-onboarding-import-primary-button-label-no-attribution = Importera från tidigare webbläsare
+mr1-onboarding-import-secondary-button-label = Inte nu
+mr1-onboarding-theme-header = Gör den till din egen
+mr1-onboarding-theme-subtitle = Anpassa { -brand-short-name } med ett tema.
+mr1-onboarding-theme-primary-button-label = Spara tema
+mr1-onboarding-theme-secondary-button-label = Inte nu
+# System theme uses operating system color settings
+mr1-onboarding-theme-label-system = Systemtema
+mr1-onboarding-theme-label-light = Ljust
+mr1-onboarding-theme-label-dark = Mörkt
+# "Alpenglow" here is the name of the theme, and should be kept in English.
+mr1-onboarding-theme-label-alpenglow = Alpenglow
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
+# Tooltip displayed on hover of system theme
+mr1-onboarding-theme-tooltip-system =
+    .title =
+        Använder samma färgschema som operativsystemet
+        för knappar, menyer och fönster.
+# Input description for system theme
+mr1-onboarding-theme-description-system =
+    .aria-description =
+        Använder samma färgtema som operativsystemet
+        för knappar, menyer och fönster.
+# Tooltip displayed on hover of light theme
+mr1-onboarding-theme-tooltip-light =
+    .title =
+        Använd ett ljust tema för knappar,
         menyer och fönster.
