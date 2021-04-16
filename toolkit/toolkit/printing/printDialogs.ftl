@@ -38,8 +38,13 @@ hf-page-and-total =
     .label = Páxina # de #
 print-progress =
     .value = Progresu:
+print-window =
+    .title = Imprentación
+print-complete =
+    .value = Completóse la imprentación.
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =
     .value = { $percent }%
 dialog-cancel-label = Encaboxar
+dialog-close-label = Zarrar
