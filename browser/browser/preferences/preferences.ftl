@@ -675,6 +675,7 @@ sync-sign-out =
 sync-manage-account = Xestionar la cuenta
     .accesskey = o
 sync-signedin-unverified = { $email } ta ensin verificar.
+sync-signedin-login-failure = Anicia sesión pa volver conectate a { $email }
 sync-remove-account =
     .label = Quitar la cuenta
     .accesskey = Q
