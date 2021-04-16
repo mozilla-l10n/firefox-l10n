@@ -319,6 +319,7 @@ identity-https-only-info-turn-off2 = If the page seems broken, you may want to t
 identity-https-only-info-no-upgrade = Unable to upgrade connection from HTTP.
 identity-permissions-storage-access-header = Cross-site cookies
 identity-permissions-storage-access-hint = These parties can use cross-site cookies and site data while you are on this site.
+identity-permissions-storage-access-learn-more = Learn more
 identity-permissions-reload-hint = You may need to reload the page for changes to apply.
 identity-permissions-empty = You have not granted this site any special permissions.
 identity-clear-site-data =
@@ -578,9 +579,6 @@ pointerlock-warning-no-domain = This document has control of your pointer. Press
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Part of this page crashed.</strong> To let { -brand-product-name } know about this issue and get it fixed faster, please submit a report.
-crashed-subframe-learnmore =
-    .label = Learn More
-    .accesskey = L
 crashed-subframe-learnmore-link =
     .value = Learn more
 crashed-subframe-submit =
@@ -593,8 +591,6 @@ bookmarks-show-all-bookmarks =
     .label = Show All Bookmarks
 bookmarks-manage-bookmarks =
     .label = Manage Bookmarks
-bookmarks-recent-bookmarks-panel =
-    .value = Recent Bookmarks
 bookmarks-recent-bookmarks-panel-subheader = Recent Bookmarks
 bookmarks-toolbar-chevron =
     .tooltiptext = Show more bookmarks
