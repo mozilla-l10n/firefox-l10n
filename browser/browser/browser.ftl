@@ -319,6 +319,7 @@ identity-https-only-info-turn-off2 = Om sidan verkar trasig kanske du vill stän
 identity-https-only-info-no-upgrade = Det gick inte att uppgradera anslutningen från HTTP.
 identity-permissions-storage-access-header = Globala kakor
 identity-permissions-storage-access-hint = Dessa parter kan använda global kakor och webbplatsinformation medan du är på denna webbplats.
+identity-permissions-storage-access-learn-more = Läs mer
 identity-permissions-reload-hint = Du kan behöva ladda om sidan för att ändringarna ska verkställas.
 identity-permissions-empty = Du har inte beviljat denna webbplats några särskilda rättigheter.
 identity-clear-site-data =
@@ -578,9 +579,6 @@ pointerlock-warning-no-domain = Detta dokument har kontroll över pekaren. Tryck
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>En del av den här sidan kraschade.</strong> Skicka en rapport om du vill meddela { -brand-product-name } om problemet och få det åtgärdat snabbare.
-crashed-subframe-learnmore =
-    .label = Läs mer
-    .accesskey = L
 crashed-subframe-learnmore-link =
     .value = Läs mer
 crashed-subframe-submit =
@@ -593,8 +591,6 @@ bookmarks-show-all-bookmarks =
     .label = Visa alla bokmärken
 bookmarks-manage-bookmarks =
     .label = Hantera bokmärken
-bookmarks-recent-bookmarks-panel =
-    .value = Senaste bokmärken
 bookmarks-recent-bookmarks-panel-subheader = Senaste bokmärken
 bookmarks-toolbar-chevron =
     .tooltiptext = Visa fler bokmärken
