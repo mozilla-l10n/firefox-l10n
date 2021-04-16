@@ -13,6 +13,7 @@ default-browser-notification-button =
 ## secondary button are shared between the variants.
 
 default-browser-prompt-title-pin = Chceće { -brand-short-name } k swojemu primarnemu wobhladowakej činić?
+default-browser-prompt-message-pin = Dźeržće { -brand-short-name } k ruce – čińće jón k swojemu standardnemu wobhladowakej a připniće jón k swojej nadawkowej lajsće.
 default-browser-prompt-button-primary-pin = K primarnemu wobhladowakej činić
 default-browser-prompt-title-alt = Chceće { -brand-short-name } k swojemu standardnemu wobhladowakej činić?
 default-browser-prompt-message-alt = Dóstanće spěšnosć, wěstotu a priwatnosć kóždy raz, hdyž přehladujeće.
