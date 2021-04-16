@@ -9,8 +9,8 @@ printui-save-to-pdf-title = Guardar como
 # $sheetCount (integer) - Number of paper sheets
 printui-sheets-count =
     { $sheetCount ->
-        [one] { $sheetCount } fueya de papel
-       *[other] { $sheetCount } fueyes de papel
+        [one] { $sheetCount } fueya
+       *[other] { $sheetCount } fueyes
     }
 printui-page-range-all = Toes
 printui-page-range-custom = Personalizaes
