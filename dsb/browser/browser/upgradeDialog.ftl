@@ -10,6 +10,9 @@
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-new-title = Witajśo k nowemu { -brand-short-name }
+upgrade-dialog-new-subtitle = Wuwity, aby was tam pśewóźił, źož sćo, malsnjejšy
+upgrade-dialog-new-item-menu-title = Moderna symbolowa rědka a moderne menije
+upgrade-dialog-new-item-menu-description = Dajśo wažnym wěcam prioritu, aby namakał, což trjebaśo.
 upgrade-dialog-new-item-tabs-title = Moderne rejtariki
 upgrade-dialog-new-item-icons-title = Nowe symbole a jasnjejše powěsći
 upgrade-dialog-new-primary-primary-button = { -brand-short-name } k primarnemu wobglědowakoju cyniś
