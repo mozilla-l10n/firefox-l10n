@@ -271,6 +271,23 @@ mr1-onboarding-set-default-pin-primary-button-label = اضبط { -brand-short-na
 mr1-onboarding-set-default-only-primary-button-label = اضبط { -brand-short-name } ليكون متصفّحي المبدئي
 mr1-onboarding-set-default-secondary-button-label = ليس الآن
 mr1-onboarding-sign-in-button-label = لِج
+mr1-onboarding-import-header = خُذ كل شي معك
+mr1-onboarding-import-subtitle = استورِد كلمات السر<br/>والعلامات وغيرها المزيد.
+# The primary import button label will depend on whether we can detect which browser was used to download Firefox.
+# Variables:
+#   $previous (Str) - Previous browser name, such as Edge, Chrome
+mr1-onboarding-import-primary-button-label-attribution = استورِد من { $previous }
+# This string will be used in cases where we can't detect the previous browser name.
+mr1-onboarding-import-primary-button-label-no-attribution = استورِدها من المتصفّح السابق
+mr1-onboarding-import-secondary-button-label = ليس الآن
+mr1-onboarding-theme-header = طوّعه كما ترغب
+mr1-onboarding-theme-subtitle = خصّص { -brand-short-name } باستعمال سمة.
+mr1-onboarding-theme-primary-button-label = احفظ السمة
+mr1-onboarding-theme-secondary-button-label = ليس الآن
+# System theme uses operating system color settings
+mr1-onboarding-theme-label-system = سمة النظام
+mr1-onboarding-theme-label-light = فاتحة
+mr1-onboarding-theme-label-dark = داكنة
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
