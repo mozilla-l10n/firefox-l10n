@@ -9,7 +9,7 @@ delete-confirm-title = Σίγουρα;
 delete-unsubmitted-description = Αυτή η ενέργεια θα διαγράψει όλες τις μη υποβληθείσες αναφορές καταρρεύσεων και δεν είναι αναστρέψιμη.
 delete-submitted-description = Αυτή η ενέργεια θα διαγράψει τη λίστα των υποβληθέντων αναφορών κατάρρευσης, αλλά όχι τα υποβληθέντα δεδομένα. Δεν είναι δυνατή η αναίρεση.
 crashes-unsubmitted-label = Μη υποβληθείσες αναφορές κατάρρευσης
-id-heading = ID Αναφοράς
+id-heading = Αναγνωριστικό αναφοράς
 date-crashed-heading = Ημερομηνία κατάρρευσης
 submit-crash-button-label = Υποβολή
 # This text is used to replace the label of the crash submit button
