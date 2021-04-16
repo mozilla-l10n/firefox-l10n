@@ -6,3 +6,7 @@ calendar-editable-item-privacy-icon-private =
     .alt = 隐私：私人事件
 calendar-editable-item-privacy-icon-confidential =
     .alt = 隐私：只显示时间和日期
+calendar-editable-item-todo-icon-task =
+    .alt = 任务
+calendar-editable-item-todo-icon-completed-task =
+    .alt = 已完成的任务
