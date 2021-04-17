@@ -176,6 +176,7 @@ language-name-st = Sesothoa
 language-name-su = Sudanera
 language-name-sv = Suediera
 language-name-sw = Swahilia
+language-name-szl = Silesiera
 language-name-ta = Tamilera
 language-name-te = Teluguera
 language-name-tg = Tadjikera
