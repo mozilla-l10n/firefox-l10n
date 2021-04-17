@@ -136,7 +136,7 @@ onboarding-send-tabs-title = Пошаљите себи отворене јези
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
 onboarding-send-tabs-text2 = Једноставно делите странице са уређајима, не морате да копирате линкове нити да излазите из прегледача.
-onboarding-send-tabs-button = Почните да користите слање језичака
+onboarding-send-tabs-button = Почните да користите слање картица
 onboarding-pocket-anywhere-title = Читајте и слушајте било где
 onboarding-pocket-anywhere-text2 = Сачувајте омиљени садржај у { -pocket-brand-name(case: "loc") } и читајте, слушајте и гледајте га без интернета у било које време.
 onboarding-pocket-anywhere-button = Испробајте { -pocket-brand-name(case: "acc") }

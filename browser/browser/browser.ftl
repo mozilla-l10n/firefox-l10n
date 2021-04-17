@@ -210,9 +210,9 @@ page-action-pin-tab-panel =
 page-action-pin-tab-urlbar =
     .tooltiptext = Закачи картицу
 page-action-unpin-tab-panel =
-    .label = Откачи језичак
+    .label = Откачи картицу
 page-action-unpin-tab-urlbar =
-    .tooltiptext = Откачи језичак
+    .tooltiptext = Откачи картицу
 
 ## Auto-hide Context Menu
 
@@ -455,7 +455,7 @@ popup-mute-notifications-checkbox = Током дељења искључи об�
 sharing-warning-window = Делите { -brand-short-name }. Други људи могу да виде када пређете на нови језичак.
 sharing-warning-screen = Делите цео екран. Други људи могу да виде када пређете на нову картицу.
 sharing-warning-proceed-to-tab =
-    .label = Наставите на језичак
+    .label = Пређи на картицу
 sharing-warning-disable-for-session =
     .label = Онемогучите заштиту дељења за ову сесију
 
@@ -508,7 +508,7 @@ urlbar-remote-control-notification-anchor =
 urlbar-permissions-granted =
     .tooltiptext = Овом веб-сајту сте одобрили додатне дозволе.
 urlbar-switch-to-tab =
-    .value = Премести на језичак:
+    .value = Пређите на картицу:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Додатак:
@@ -536,7 +536,7 @@ urlbar-result-action-search-in-private = Претражите у приватн�
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Претражи у претраживачу { $engine }
 urlbar-result-action-sponsored = Спонзорисано
-urlbar-result-action-switch-tab = Пребаци на језичак
+urlbar-result-action-switch-tab = пређи на картицу
 urlbar-result-action-visit = Посети
 # Directs a user to press the Tab key to perform a search with the specified
 # engine.
@@ -661,7 +661,7 @@ bookmarks-toolbar-placeholder-button =
     .label = Ставке на траци са обележивачима
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
-    .label = Обележи тренутни језичак
+    .label = Обележи тренутну картицу
 
 ## Library Panel items
 
