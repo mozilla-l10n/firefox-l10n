@@ -16,6 +16,7 @@ upgrade-dialog-new-item-menu-description = Dajśo wažnym wěcam prioritu, aby n
 upgrade-dialog-new-item-tabs-title = Moderne rejtariki
 upgrade-dialog-new-item-tabs-description = Wopśimuju pśeglědnje informacije, pódpěraju fokus a fleksibelny pógib.
 upgrade-dialog-new-item-icons-title = Nowe symbole a jasnjejše powěsći
+upgrade-dialog-new-item-icons-description = Pomagaju wam, wašu drogu z lažčejšym dotyknjenim namakaś.
 upgrade-dialog-new-primary-primary-button = { -brand-short-name } k primarnemu wobglědowakoju cyniś
     .title = Nastaja { -brand-short-name } ako standardny wobglědowak a pśipina jen k nadawkowej rědce
 upgrade-dialog-new-primary-default-button = { -brand-short-name } k strandardnemu wobglědowakoju cyniś
