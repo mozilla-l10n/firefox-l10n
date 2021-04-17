@@ -25,10 +25,14 @@ pippki-failed-pw-change = Nun ye posible camudar la contraseña
 
 ## Client Authorization Ask dialog
 
+client-auth-window =
+    .title = Solicitú d'identificación d'un usuariu
 client-auth-site-description = Esti sitiu solicitó que t'indentifiques con un certificáu:
+client-auth-cert-details = Detalles del certificáu esbilláu:
 
 ## Set password (p12) dialog
 
 
 ## Protected Auth dialog
 
+protected-auth-token = Pase:
