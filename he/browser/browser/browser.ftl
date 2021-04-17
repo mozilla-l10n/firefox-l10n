@@ -318,6 +318,7 @@ identity-https-only-info-turn-on2 = יש להפעיל את מצב HTTPS בלבד
 identity-https-only-info-turn-off2 = אם נראה שהדף שבור, באפשרותך לכבות את מצב ה־HTTPS בלבד עבור אתר זה כדי לטעון מחדש באמצעות HTTP לא מאובטח.
 identity-https-only-info-no-upgrade = לא ניתן לשדרג את החיבור מ־HTTP.
 identity-permissions-storage-access-header = עוגיות חוצות אתרים
+identity-permissions-storage-access-learn-more = מידע נוסף
 identity-permissions-reload-hint = יתכן שיהיה עליך לרענן את העמוד כדי שהשינויים ייכנסו לתוקף.
 identity-permissions-empty = לא סופקו לאתר זה הרשאות מיוחדות.
 identity-clear-site-data =
@@ -576,9 +577,6 @@ pointerlock-warning-no-domain = למסמך זה יש שליטה על הסמן ש
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>חלק מדף זה קרס.</strong> כדי ליידע את { -brand-product-name } על בעיה זו ולתקן אותה מהר יותר, נא לשלוח דיווח.
-crashed-subframe-learnmore =
-    .label = מידע נוסף
-    .accesskey = מ
 crashed-subframe-learnmore-link =
     .value = מידע נוסף
 crashed-subframe-submit =
@@ -591,8 +589,6 @@ bookmarks-show-all-bookmarks =
     .label = הצגת כל הסימניות
 bookmarks-manage-bookmarks =
     .label = ניהול סימניות
-bookmarks-recent-bookmarks-panel =
-    .value = סימניות אחרונות
 bookmarks-recent-bookmarks-panel-subheader = סימניות אחרונות
 bookmarks-toolbar-chevron =
     .tooltiptext = הצגת סימניות נוספות
