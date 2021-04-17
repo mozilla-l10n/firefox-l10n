@@ -49,3 +49,5 @@ customize-mode-lwthemes-my-themes =
     .value = Įdiegti apvalkalai
 customize-mode-touchbar-cmd =
     .label = Tvarkyti lietimo juostą…
+customize-mode-downloads-button-autohide =
+    .label = Slėpti mygtuką, kai tuščia

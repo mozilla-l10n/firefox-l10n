@@ -322,6 +322,7 @@ identity-https-only-info-turn-off2 = Jei tinklalkapis veikia netinkamai, gali te
 identity-https-only-info-no-upgrade = Nepavyko perkelti ryšio iš HTTP.
 identity-permissions-storage-access-header = Tarp svetainių veikiantys slapukai
 identity-permissions-storage-access-hint = Šios šalys gali naudoti tarp svetainių veikiančius slapukus ir svetainių duomenis, kai esate šioje svetainėje.
+identity-permissions-storage-access-learn-more = Sužinoti daugiau
 identity-permissions-reload-hint = Kad būtų pritaikyti pakeitimai, tinklalapį galimai reikia atsiųsti iš naujo.
 identity-permissions-empty = Šiai svetainei nesate suteikę jokių ypatingų leidimų.
 identity-clear-site-data =
@@ -587,9 +588,6 @@ pointerlock-warning-no-domain = Šis dokumentas valdo jūsų žymeklį. Spustel�
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Dalis šio tinklalapio užstrigo.</strong> Norėdami pranešti apie šią problemą „{ -brand-product-name }“ ir greičiau ją išspręsti, nusiųskite pranešimą.
-crashed-subframe-learnmore =
-    .label = Sužinoti daugiau
-    .accesskey = S
 crashed-subframe-learnmore-link =
     .value = Sužinoti daugiau
 crashed-subframe-submit =
@@ -602,8 +600,6 @@ bookmarks-show-all-bookmarks =
     .label = Rodyti visą adresyną
 bookmarks-manage-bookmarks =
     .label = Tvarkyti adresyną
-bookmarks-recent-bookmarks-panel =
-    .value = Paskiausi adresyno įrašai
 bookmarks-recent-bookmarks-panel-subheader = Paskiausi adresyno įrašai
 bookmarks-toolbar-chevron =
     .tooltiptext = Kiti adresai
