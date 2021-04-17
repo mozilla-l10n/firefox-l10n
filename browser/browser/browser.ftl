@@ -319,6 +319,7 @@ identity-https-only-info-turn-off2 = Wenn die Seite beschädigt erscheint, könn
 identity-https-only-info-no-upgrade = Verbindung konnte nicht von HTTP geändert werden.
 identity-permissions-storage-access-header = Seitenübergreifende Cookies
 identity-permissions-storage-access-hint = Diese Beteiligten können Cookies und Website-Daten verwenden, während Sie sich auf dieser Website befinden.
+identity-permissions-storage-access-learn-more = Weitere Informationen
 identity-permissions-reload-hint = Eventuell muss die Seite neu geladen werden, um die Änderungen zu übernehmen.
 identity-permissions-empty = Der Website wurden keine besonderen Berechtigungen erteilt.
 identity-clear-site-data =
@@ -578,9 +579,6 @@ pointerlock-warning-no-domain = Dieses Dokument kontrolliert den Mauszeiger. Dr�
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Ein Teil der Seite ist abgestürzt.</strong> Übermitteln Sie bitte einen Bericht, um { -brand-product-name } über dieses Problem zu informieren und beim Beheben des Fehlers zu helfen.
-crashed-subframe-learnmore =
-    .label = Weitere Informationen
-    .accesskey = W
 crashed-subframe-learnmore-link =
     .value = Weitere Informationen
 crashed-subframe-submit =
@@ -593,8 +591,6 @@ bookmarks-show-all-bookmarks =
     .label = Lesezeichen verwalten
 bookmarks-manage-bookmarks =
     .label = Lesezeichen verwalten
-bookmarks-recent-bookmarks-panel =
-    .value = Neueste Lesezeichen
 bookmarks-recent-bookmarks-panel-subheader = Neueste Lesezeichen
 bookmarks-toolbar-chevron =
     .tooltiptext = Weitere Lesezeichen anzeigen
