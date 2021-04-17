@@ -188,7 +188,6 @@ onboarding-welcome-steps-indicator =
 # automatically added to the text inside it. "look" should stay inside the span.
 onboarding-multistage-theme-header = בחירת <span data-l10n-name="zap">מראה</span>
 onboarding-multistage-theme-subtitle = התאמה אישית של { -brand-short-name } עם ערכת נושא.
-onboarding-multistage-theme-primary-button-label = שמירת ערכת נושא
 onboarding-multistage-theme-primary-button-label2 = סיום
 onboarding-multistage-theme-secondary-button-label = לא כעת
 # Automatic theme uses operating system color settings
@@ -243,3 +242,19 @@ onboarding-multistage-theme-description-alpenglow =
     .aria-description =
         שימוש בתצוגה צבעונית עבור כפתורים,
         תפריטים וחלונות.
+
+## Multistage MR1 onboarding strings (MR1 about:welcome pages)
+
+# "Hero Text" displayed on left side of welcome screen.
+# The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
+# It also signals the passion users bring to Firefox, how they use
+# Firefox to pursue those passions, as well as the boldness in their
+# choice to use Firefox over a larger competitor browser.
+# An alternative title for localization is: "It starts here".
+mr1-welcome-screen-hero-text = זה מתחיל כאן
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
