@@ -272,8 +272,6 @@ cfr-whatsnew-better-pdf-body = PDF dokumentai dabar atveriami tiesiogiai per „
 
 cfr-doorhanger-doh-body = Jūsų privatumas yra svarbus. „{ -brand-short-name }“ dabar saugiai nukreipia jūsų DNS užklausas, kai tik įmanoma, į partnerių tarnybą, kad apsaugotų jus naršant.
 cfr-doorhanger-doh-header = Saugesnės, šifruotos DNS užklausos
-cfr-doorhanger-doh-primary-button = Gerai, supratau
-    .accesskey = G
 cfr-doorhanger-doh-primary-button-2 = Gerai
     .accesskey = G
 cfr-doorhanger-doh-secondary-button = Išjungti
@@ -298,7 +296,7 @@ cfr-whatsnew-clear-cookies-image-alt = Užblokuoto slapuko iliustracija
 
 cfr-whatsnew-media-keys-header = Daugiau medijos valdymo
 cfr-whatsnew-media-keys-body = Leiskite ir pristabdykite garso bei vaizdo įrašus naudodamiesi savo klaviatūra ar ausinėmis, taip patogiau valdydami mediją iš kitos kortelės, programos, ar net kai kompiuteris užrakintas. Galite net pereiti tarp dainų, naudodamiesi mygtukais pirmyn ir atgal.
-cfr-whatsnew-media-keys-button = Sužinokite kaip
+cfr-whatsnew-media-keys-button = Sužinoti kaip
 
 ## What's new: Search shortcuts
 
