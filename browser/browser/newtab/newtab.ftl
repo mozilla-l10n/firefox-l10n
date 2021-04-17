@@ -52,6 +52,10 @@ newtab-confirm-delete-history-p2 = Esta aición nun pue desfacese.
 newtab-menu-section-tooltip =
     .title = Abrir el menú
     .aria-label = Abrir el menú
+# Tooltip for dismiss button
+newtab-dismiss-button-tooltip =
+    .title = Quitar
+    .aria-label = Quitar
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = Editar esti sitiu
