@@ -38,6 +38,9 @@ reset-primary-password-window =
 reset-password-button-label =
     .label = Berezarri
 reset-password-text = Pasahitz nagusia berrezartzen baduzu, gordeta dituzun webetako eta epostetako pasahitzak, inprimaki datuak, ziurtagiri pertsonalak eta gako pribatuak ahaztu egingo dira. Ziur zaude pasahitz nagusia berrezarri nahi duzula?
+reset-primary-password-text = Pasahitz nagusia berrezarriz gero, ahaztu egingo dira gordetako webeko eta posta elektronikoko pasahitzak, ziurtagiri pertsonalak eta gako pribatuak. Ziur zaude pasahitz nagusia berrezarri nahi duzula?
+pippki-reset-password-confirmation-title = Berrezarri pasahitz nagusia
+pippki-reset-password-confirmation-message = Zure pasahitz nagusia berrezarri egin da.
 
 ## Downloading cert dialog
 
