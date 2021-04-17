@@ -3,10 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashed-title = Пријава отказивања картица
-crashed-close-tab-button = Затвори језичак
-crashed-restore-tab-button = Обнови овај језичак
+crashed-close-tab-button = Затвори картицу
+crashed-restore-tab-button = Врати ову картицу
 crashed-restore-all-button = Обнови све срушене језичке
-crashed-header = Језичак се срушио.
+crashed-header = Картица је отказала
 crashed-offer-help = Можемо помоћи!
 crashed-single-offer-help-message = Одаберите { crashed-restore-tab-button } да бисте поново учитали страницу.
 crashed-multiple-offer-help-message = Одаберите { crashed-restore-tab-button } или { crashed-restore-all-button } да бисте поново учитали страницу/странице.
@@ -18,9 +18,9 @@ crashed-send-report-2 = Аутоматски шаљите извештаје о 
 crashed-comment =
     .placeholder = Опциони коментари (коментари су свима видљиви)
 crashed-include-URL = Пошаљите и URL адресе сајтова на којима сте се налазили када се { -brand-short-name } срушио.
-crashed-include-URL-2 = Пошаљите и URL адресе страница које су биле отворене када се { -brand-short-name } срушио
 crashed-email-placeholder = Унесите адресу е-поште овде
 crashed-email-me = Пошаљи ми е-пошту када су информације доступне
+crashed-include-URL-2 = Пошаљите и URL адресе страница које су биле отворене када се { -brand-short-name } срушио
 crashed-report-sent = Извештај о отказивању је већ послат. Хвала вам што помажете да побољшамо { -brand-short-name }!
 crashed-request-auto-submit-title = Пријавите позадинске језичке
 crashed-auto-submit-checkbox = Ажурирајте подешавања да аутоматски пријављујете извештаје када се { -brand-short-name } сруши.

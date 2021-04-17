@@ -11,7 +11,7 @@ home = Почетна
 fullscreen = Цео екран
 touchbar-fullscreen-exit = Изађи из режима целог екрана
 find = Нађи
-new-tab = Нови језичак
+new-tab = Нова картица
 add-bookmark = Додај обележивач
 reader-view = Приказ читача
 # Meant to match the string displayed in an empty URL bar.
