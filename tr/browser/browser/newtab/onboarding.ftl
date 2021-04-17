@@ -200,7 +200,6 @@ onboarding-welcome-steps-indicator =
 # automatically added to the text inside it. "look" should stay inside the span.
 onboarding-multistage-theme-header = <span data-l10n-name="zap">Görünümü</span> seçin
 onboarding-multistage-theme-subtitle = { -brand-short-name } tarayıcınızı bir temayla kişiselleştirin.
-onboarding-multistage-theme-primary-button-label = Temayı kaydet
 onboarding-multistage-theme-primary-button-label2 = Tamam
 onboarding-multistage-theme-secondary-button-label = Daha sonra
 # Automatic theme uses operating system color settings
@@ -239,3 +238,33 @@ onboarding-multistage-theme-tooltip-alpenglow-2 =
 # Input description for Alpenglow theme
 onboarding-multistage-theme-description-alpenglow =
     .aria-description = Düğmeler, menüler ve pencereler için renkli bir görünüm kullanın.
+
+## Multistage MR1 onboarding strings (MR1 about:welcome pages)
+
+# This button will open system settings to turn on prefers-reduced-motion
+mr1-onboarding-reduce-motion-button-label = Animasyonları kapat
+mr1-onboarding-welcome-header = { -brand-short-name } tarayıcısına hoş geldiniz
+mr1-onboarding-set-default-secondary-button-label = Daha sonra
+mr1-onboarding-sign-in-button-label = Giriş yap
+mr1-onboarding-import-subtitle = Parolalarınızı, yer imlerinizi ve <br/>daha fazlasını içe aktarın.
+# The primary import button label will depend on whether we can detect which browser was used to download Firefox.
+# Variables:
+#   $previous (Str) - Previous browser name, such as Edge, Chrome
+mr1-onboarding-import-primary-button-label-attribution = { $previous } tarayıcısından içe aktar
+# This string will be used in cases where we can't detect the previous browser name.
+mr1-onboarding-import-primary-button-label-no-attribution = Önceki tarayıcımdan içe aktar
+mr1-onboarding-import-secondary-button-label = Daha sonra
+mr1-onboarding-theme-primary-button-label = Temayı kaydet
+mr1-onboarding-theme-secondary-button-label = Daha sonra
+# System theme uses operating system color settings
+mr1-onboarding-theme-label-system = Sistem teması
+mr1-onboarding-theme-label-light = Açık
+mr1-onboarding-theme-label-dark = Koyu
+# "Alpenglow" here is the name of the theme, and should be kept in English.
+mr1-onboarding-theme-label-alpenglow = Alpenglow
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+

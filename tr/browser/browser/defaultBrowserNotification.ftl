@@ -13,3 +13,4 @@ default-browser-notification-button =
 ## secondary button are shared between the variants.
 
 default-browser-prompt-button-primary-alt = Varsayılan tarayıcı yap
+default-browser-prompt-button-secondary = Daha sonra
