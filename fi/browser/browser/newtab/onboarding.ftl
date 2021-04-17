@@ -200,7 +200,6 @@ onboarding-welcome-steps-indicator =
 # automatically added to the text inside it. "look" should stay inside the span.
 onboarding-multistage-theme-header = Valitse <span data-l10n-name="zap">ulkoasu</span>
 onboarding-multistage-theme-subtitle = Mukauta { -brand-short-name }ia teemalla.
-onboarding-multistage-theme-primary-button-label = Tallenna teema
 onboarding-multistage-theme-primary-button-label2 = Valmis
 onboarding-multistage-theme-secondary-button-label = Ei nyt
 # Automatic theme uses operating system color settings
@@ -255,3 +254,31 @@ onboarding-multistage-theme-description-alpenglow =
     .aria-description =
         Käytä värikästä ulkoasua
         painikkeille, valikoille ja ikkunoille.
+
+## Multistage MR1 onboarding strings (MR1 about:welcome pages)
+
+mr1-onboarding-welcome-header =
+    { -brand-short-name.case-status ->
+        [with-cases] Tervetuloa { -brand-short-name(case: "illative") }
+       *[no-cases] Tässä { -brand-short-name }, tervetuloa
+    }
+mr1-onboarding-set-default-pin-primary-button-label = Aseta { -brand-short-name } oletusselaimeksi
+    .title = Asettaa { -brand-short-name }in oletusselaimeksi ja kiinnittää sen tehtäväpalkkiin
+mr1-onboarding-set-default-only-primary-button-label = Aseta { -brand-short-name } oletusselaimeksi
+mr1-onboarding-set-default-secondary-button-label = Ei nyt
+mr1-onboarding-sign-in-button-label = Kirjaudu sisään
+mr1-onboarding-import-secondary-button-label = Ei nyt
+mr1-onboarding-theme-primary-button-label = Tallenna teema
+mr1-onboarding-theme-secondary-button-label = Ei nyt
+# System theme uses operating system color settings
+mr1-onboarding-theme-label-system = Järjestelmän teema
+mr1-onboarding-theme-label-light = Vaalea
+mr1-onboarding-theme-label-dark = Tumma
+# "Alpenglow" here is the name of the theme, and should be kept in English.
+mr1-onboarding-theme-label-alpenglow = Alpenglow
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
