@@ -986,14 +986,14 @@ addressbar-locbar-openpage-option =
     .accesskey = e
 # Shortcuts refers to the shortcut tiles on the new tab page, previously known as top sites. Translation should be consistent.
 addressbar-locbar-shortcuts-option =
-    .label = Skratky
+    .label = skratky
     .accesskey = S
 addressbar-locbar-topsites-option =
-    .label = Top stránky
-    .accesskey = T
+    .label = top stránky
+    .accesskey = t
 addressbar-locbar-engines-option =
-    .label = Vyhľadávacie moduly
-    .accesskey = V
+    .label = vyhľadávacie moduly
+    .accesskey = v
 addressbar-suggestions-settings = Zmeniť nastavenia pre návrhy vyhľadávania
 
 ## Privacy Section - Content Blocking
