@@ -200,7 +200,6 @@ onboarding-welcome-steps-indicator =
 # automatically added to the text inside it. "look" should stay inside the span.
 onboarding-multistage-theme-header = 挑選一種<span data-l10n-name="zap">風格</span>
 onboarding-multistage-theme-subtitle = 使用佈景主題，讓 { -brand-short-name } 有您的風格
-onboarding-multistage-theme-primary-button-label = 儲存佈景主題
 onboarding-multistage-theme-primary-button-label2 = 完成
 onboarding-multistage-theme-secondary-button-label = 現在不要
 # Automatic theme uses operating system color settings
@@ -239,3 +238,61 @@ onboarding-multistage-theme-tooltip-alpenglow-2 =
 # Input description for Alpenglow theme
 onboarding-multistage-theme-description-alpenglow =
     .aria-description = 使用色彩繽紛的按鈕、選單、視窗樣式。
+
+## Multistage MR1 onboarding strings (MR1 about:welcome pages)
+
+# This button will open system settings to turn on prefers-reduced-motion
+mr1-onboarding-reduce-motion-button-label = 關閉動畫
+mr1-onboarding-welcome-header = 歡迎使用 { -brand-short-name }
+mr1-onboarding-set-default-secondary-button-label = 暫時不要
+mr1-onboarding-sign-in-button-label = 登入
+# The primary import button label will depend on whether we can detect which browser was used to download Firefox.
+# Variables:
+#   $previous (Str) - Previous browser name, such as Edge, Chrome
+mr1-onboarding-import-primary-button-label-attribution = 從 { $previous } 匯入
+# This string will be used in cases where we can't detect the previous browser name.
+mr1-onboarding-import-primary-button-label-no-attribution = 從先前使用的瀏覽器匯入
+mr1-onboarding-import-secondary-button-label = 現在不要
+mr1-onboarding-theme-subtitle = 使用佈景主題，讓 { -brand-short-name } 有您的風格
+mr1-onboarding-theme-primary-button-label = 儲存佈景主題
+mr1-onboarding-theme-secondary-button-label = 現在不要
+# System theme uses operating system color settings
+mr1-onboarding-theme-label-system = 系統佈景主題
+mr1-onboarding-theme-label-light = 亮色
+mr1-onboarding-theme-label-dark = 暗色
+# "Alpenglow" here is the name of the theme, and should be kept in English.
+mr1-onboarding-theme-label-alpenglow = Alpenglow
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
+# Tooltip displayed on hover of system theme
+mr1-onboarding-theme-tooltip-system =
+    .title =
+        依照作業系統的佈景主題設定來顯示
+        按鈕、選單、視窗的外觀。
+# Input description for system theme
+mr1-onboarding-theme-description-system =
+    .aria-description =
+        依照作業系統的佈景主題設定來顯示
+        按鈕、選單、視窗的外觀。
+# Tooltip displayed on hover of light theme
+mr1-onboarding-theme-tooltip-light =
+    .title = 使用亮色按鈕、選單、視窗佈景主題。
+# Input description for light theme
+mr1-onboarding-theme-description-light =
+    .aria-description = 使用亮色按鈕、選單、視窗佈景主題。
+# Tooltip displayed on hover of dark theme
+mr1-onboarding-theme-tooltip-dark =
+    .title = 使用暗色按鈕、選單、視窗佈景主題。
+# Input description for dark theme
+mr1-onboarding-theme-description-dark =
+    .aria-description = 使用暗色按鈕、選單、視窗佈景主題。
+# Tooltip displayed on hover of Alpenglow theme
+mr1-onboarding-theme-tooltip-alpenglow =
+    .title = 使用色彩繽紛的按鈕、選單、視窗佈景主題。
+# Input description for Alpenglow theme
+mr1-onboarding-theme-description-alpenglow =
+    .aria-description = 使用色彩繽紛的按鈕、選單、視窗佈景主題。
