@@ -214,6 +214,8 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = A
 bookmark-panel-done-button =
     .label = Fecho
+bookmark-panel-save-button =
+    .label = Guardar
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -247,6 +249,7 @@ identity-https-only-info-turn-on2 = Activa'l mou de namás HTTPS pa esti sitiu s
 identity-https-only-info-no-upgrade = Nun ye posible anovar la conexón a HTTPS.
 identity-permissions-storage-access-header = Cookies ente sitios
 identity-permissions-storage-access-hint = Terceros puen usar cookies ente sitios y datos del sitiu mentanto tas nelli.
+identity-permissions-storage-access-learn-more = Lleer más
 identity-permissions-empty = Nun-y concediesti nengún permisu especial a esti sitiu.
 identity-clear-site-data =
     .label = Llimpiar les cookies y los datos de los sitios…
@@ -504,6 +507,8 @@ more-menu-go-offline =
 
 ## EME notification panel
 
+eme-notifications-drm-content-playing-manage = Xestionar los axustes
+eme-notifications-drm-content-playing-manage-accesskey = X
 eme-notifications-drm-content-playing-dismiss = Escartar
 eme-notifications-drm-content-playing-dismiss-accesskey = E
 
