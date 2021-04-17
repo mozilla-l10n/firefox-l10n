@@ -10,6 +10,12 @@ unread-messages-os-tooltip =
     }
 about-rights-notification-text = { -brand-short-name } là phần mềm nguồn mở và miễn phí, được xây dựng bởi một cộng đồng gồm hàng ngàn người từ khắp nơi trên thế giới.
 
+## Toolbar
+
+addons-and-themes-button =
+    .label = Tiện ích mở rộng và chủ đề
+    .tooltip = Quản lý tiện ích mở rộng của bạn
+
 ## Folder Pane
 
 folder-pane-toolbar =
@@ -42,3 +48,18 @@ show-recent-folders-label =
 folder-toolbar-toggle-folder-compact-view =
     .label = Chế độ xem thu gọn
     .accesskey = C
+
+## AppMenu
+
+# Since v89 we dropped the platforms distinction between Options or Preferences
+# and consolidated everything with Preferences.
+appmenu-preferences =
+    .label = Tùy chỉnh
+appmenu-addons-and-themes =
+    .label = Tiện ích mở rộng và chủ đề
+appmenu-help-enter-troubleshoot-mode =
+    .label = Chế độ xử lý sự cố…
+appmenu-help-exit-troubleshoot-mode =
+    .label = Tắt chế độ xử lý sự cố
+appmenu-help-more-troubleshooting-info =
+    .label = Thông tin xử lý sự cố khác
