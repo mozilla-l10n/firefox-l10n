@@ -51,7 +51,7 @@
 <!ENTITY browserContentToolboxMenu.accesskey "χ">
 
 <!ENTITY devToolbarCloseButton.tooltiptext   "Κλείσιμο εργαλειοθήκης προγραμματιστή">
-<!ENTITY devToolbarMenu.label                "Γραμμή εργαλείων προγραμματιστή">
+<!ENTITY devToolbarMenu.label                "Γραμμή εργαλείων ανάπτυξης">
 <!ENTITY devToolbarMenu.accesskey            "π">
 
 <!ENTITY webide.label                        "WebIDE">
@@ -66,7 +66,7 @@
 <!ENTITY devToolboxMenuItem.accesskey        "ε">
 <!ENTITY devToolboxMenuItem.keytext          "I">
 
-<!ENTITY devToolbarToolsButton.tooltip       "Εναλλαγή εργαλείων προγραμματιστή">
+<!ENTITY devToolbarToolsButton.tooltip       "(Απ)ενεργοποίηση εργαλείων ανάπτυξης">
 
 <!ENTITY getMoreDevtoolsCmd.label            "Λήψη περισσότερων εργαλείων">
 <!ENTITY getMoreDevtoolsCmd.accesskey        "π">
