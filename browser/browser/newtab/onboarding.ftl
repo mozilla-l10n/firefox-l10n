@@ -194,7 +194,7 @@ onboarding-multistage-set-default-header =
        *[other] програм { -brand-short-name }
     } као <span data-l10n-name="zap">подразумевани</span>
 onboarding-multistage-set-default-subtitle = Претражујте интернет брзо, безбедно и приватно.
-onboarding-multistage-set-default-primary-button-label = Постави као подразумевани
+onboarding-multistage-set-default-primary-button-label = Постави као подразумеван
 onboarding-multistage-set-default-secondary-button-label = Не сада
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. { -brand-short-name } should stay inside the span.
@@ -302,3 +302,12 @@ onboarding-multistage-theme-description-alpenglow =
     .aria-description =
         Користите шарени изглед за тастере,
         меније и прозоре.
+
+## Multistage MR1 onboarding strings (MR1 about:welcome pages)
+
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+

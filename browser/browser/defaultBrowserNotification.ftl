@@ -11,7 +11,7 @@ default-browser-notification-message =
        *[other] програм { -brand-short-name }
     } као подразумевани прегледач?</strong> Претражујте интернет брзо, безбеедно и приватно.
 default-browser-notification-button =
-    .label = Постави као подразумевани
+    .label = Постави као подразумеван
     .accesskey = П
 
 ## These strings are used for the default browser prompt. There are 2 variations
