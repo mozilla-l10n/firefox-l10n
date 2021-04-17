@@ -311,6 +311,7 @@ identity-https-only-info-turn-off2 = 若網頁外觀看起來不正常，您可�
 identity-https-only-info-no-upgrade = 無法將網站連線從 HTTP 升級。
 identity-permissions-storage-access-header = 跨網站 Cookie
 identity-permissions-storage-access-hint = 當您開啟此網站時，這些網站可以使用跨網站 Cookie，並且取得您在此網站的資料。
+identity-permissions-storage-access-learn-more = 了解更多
 identity-permissions-reload-hint = 您可能需要重新載入頁面才能讓變更生效。
 identity-permissions-empty = 您並未授予此網站任何特殊權限。
 identity-clear-site-data =
@@ -570,9 +571,6 @@ pointerlock-warning-no-domain = 此文件可控制您的滑鼠游標，按 Esc �
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>此頁面中的部分內容發生錯誤。</strong>您同意的話，可將此問題回報給 { -brand-product-name }，讓我們更快修正。
-crashed-subframe-learnmore =
-    .label = 了解更多
-    .accesskey = L
 crashed-subframe-learnmore-link =
     .value = 了解更多
 crashed-subframe-submit =
@@ -585,8 +583,6 @@ bookmarks-show-all-bookmarks =
     .label = 顯示所有書籤
 bookmarks-manage-bookmarks =
     .label = 管理書籤
-bookmarks-recent-bookmarks-panel =
-    .value = 最近加入的書籤
 bookmarks-recent-bookmarks-panel-subheader = 最近加入的書籤
 bookmarks-toolbar-chevron =
     .tooltiptext = 顯示更多書籤
