@@ -229,9 +229,52 @@ menu-bookmark-this-page =
     .label = Buikmerk This Page
 menu-bookmark-current-tab =
     .label = Buikmerk Current Tab
+menu-bookmark-edit =
+    .label = Edit This Buikmerk
+menu-bookmarks-all-tabs =
+    .label = Buikmerk Aw Tabs...
+menu-bookmarks-toolbar =
+    .label = Buikmerks Toolbaur
+menu-bookmarks-other =
+    .label = Ither Buikmerks
+menu-bookmarks-mobile =
+    .label = Mobile Buikmerks
 
 ## Tools Menu
 
+menu-tools =
+    .label = Tools
+    .accesskey = T
+menu-tools-downloads =
+    .label = Doonloads
+    .accesskey = D
+menu-tools-addons =
+    .label = Eik-ons
+    .accesskey = A
+menu-tools-fxa-sign-in =
+    .label = Sign In Tae { -brand-product-name }…
+    .accesskey = g
+menu-tools-addons-and-themes =
+    .label = Eik-ons and Themes
+    .accesskey = A
+menu-tools-fxa-sign-in2 =
+    .label = Sign In
+    .accesskey = g
+menu-tools-turn-on-sync =
+    .label = Turn on { -sync-brand-short-name }…
+    .accesskey = n
+menu-tools-turn-on-sync2 =
+    .label = Turn on Sync…
+    .accesskey = n
+menu-tools-sync-now =
+    .label = Sync Noo
+    .accesskey = o
+menu-tools-fxa-re-auth =
+    .label = Reconnect tae { -brand-product-name }…
+    .accesskey = R
+menu-tools-web-developer =
+    .label = Wab Forderer
+    .accesskey = W
 
 ## Window Menu
 
