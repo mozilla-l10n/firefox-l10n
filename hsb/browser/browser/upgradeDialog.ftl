@@ -16,6 +16,7 @@ upgrade-dialog-new-item-menu-description = Dajće wažnym wěcam prioritu, zo by
 upgrade-dialog-new-item-tabs-title = Moderne rajtarki
 upgrade-dialog-new-item-tabs-description = Wobsahuja přehladnje informacije, podpěruja fokus a fleksibelny pohib.
 upgrade-dialog-new-item-icons-title = Nowe symbole a jasniše powěsće
+upgrade-dialog-new-item-icons-description = Pomhaja wam, waš puć z lóšim dótkom namakać.
 upgrade-dialog-new-primary-primary-button = { -brand-short-name } k primarnemu wobhladowakej činić
     .title = Nastaja { -brand-short-name } jako standardny wobhladowak a připnje so k nadawkowej lajsće
 upgrade-dialog-new-primary-default-button = { -brand-short-name } k standardnemu wobhladowakej činić
