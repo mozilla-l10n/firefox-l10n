@@ -200,7 +200,6 @@ onboarding-welcome-steps-indicator =
 # automatically added to the text inside it. "look" should stay inside the span.
 onboarding-multistage-theme-header = Chọn một <span data-l10n-name="zap">cách nhìn</span>
 onboarding-multistage-theme-subtitle = Cá nhân hóa { -brand-short-name } với một chủ đề.
-onboarding-multistage-theme-primary-button-label = Lưu chủ đề
 onboarding-multistage-theme-primary-button-label2 = Hoàn tất
 onboarding-multistage-theme-secondary-button-label = Không phải bây giờ
 # Automatic theme uses operating system color settings
@@ -255,3 +254,86 @@ onboarding-multistage-theme-description-alpenglow =
     .aria-description =
         Sử dụng giao diện đầy màu sắc cho các nút,
         menu và cửa sổ
+
+## Multistage MR1 onboarding strings (MR1 about:welcome pages)
+
+# "Hero Text" displayed on left side of welcome screen.
+# The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
+# It also signals the passion users bring to Firefox, how they use
+# Firefox to pursue those passions, as well as the boldness in their
+# choice to use Firefox over a larger competitor browser.
+# An alternative title for localization is: "It starts here".
+mr1-welcome-screen-hero-text = Nó bắt đầu từ đây
+# This button will open system settings to turn on prefers-reduced-motion
+mr1-onboarding-reduce-motion-button-label = Tắt hoạt ảnh
+mr1-onboarding-welcome-header = Chào mừng đến với { -brand-short-name }
+mr1-onboarding-set-default-pin-primary-button-label = Đặt { -brand-short-name } làm trình duyệt mặc định của tôi
+    .title = Đặt { -brand-short-name } làm trình duyệt mặc định và ghim vào thanh tác vụ
+mr1-onboarding-set-default-only-primary-button-label = Đặt { -brand-short-name } làm trình duyệt mặc định của tôi
+mr1-onboarding-set-default-secondary-button-label = Không phải bây giờ
+mr1-onboarding-sign-in-button-label = Đăng nhập
+mr1-onboarding-import-header = Mang theo tất cả bên bạn
+mr1-onboarding-import-subtitle = Nhập mật khẩu của bạn, <br/>dấu trang và hơn thế nữa.
+# The primary import button label will depend on whether we can detect which browser was used to download Firefox.
+# Variables:
+#   $previous (Str) - Previous browser name, such as Edge, Chrome
+mr1-onboarding-import-primary-button-label-attribution = Nhập từ { $previous }
+# This string will be used in cases where we can't detect the previous browser name.
+mr1-onboarding-import-primary-button-label-no-attribution = Nhập từ trình duyệt trước
+mr1-onboarding-import-secondary-button-label = Không phải bây giờ
+mr1-onboarding-theme-header = Biến nó thành của riêng bạn
+mr1-onboarding-theme-subtitle = Cá nhân hóa { -brand-short-name } với một chủ đề.
+mr1-onboarding-theme-primary-button-label = Lưu chủ đề
+mr1-onboarding-theme-secondary-button-label = Không phải bây giờ
+# System theme uses operating system color settings
+mr1-onboarding-theme-label-system = Chủ đề hệ thống
+mr1-onboarding-theme-label-light = Sáng
+mr1-onboarding-theme-label-dark = Tối
+# "Alpenglow" here is the name of the theme, and should be kept in English.
+mr1-onboarding-theme-label-alpenglow = Alpenglow
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
+# Tooltip displayed on hover of system theme
+mr1-onboarding-theme-tooltip-system =
+    .title =
+        Áp dụng theo chủ đề hệ điều hành
+        cho các nút, menu và cửa sổ.
+# Input description for system theme
+mr1-onboarding-theme-description-system =
+    .aria-description =
+        Áp dụng theo chủ đề hệ điều hành
+        cho các nút, menu và cửa sổ.
+# Tooltip displayed on hover of light theme
+mr1-onboarding-theme-tooltip-light =
+    .title =
+        Áp dụng chủ đề sáng
+        cho các nút, menu và cửa sổ.
+# Input description for light theme
+mr1-onboarding-theme-description-light =
+    .aria-description =
+        Áp dụng chủ đề sáng
+        cho các nút, menu và cửa sổ.
+# Tooltip displayed on hover of dark theme
+mr1-onboarding-theme-tooltip-dark =
+    .title =
+        Áp dụng chủ đề tối
+        cho các nút, menu và cửa sổ.
+# Input description for dark theme
+mr1-onboarding-theme-description-dark =
+    .aria-description =
+        Áp dụng chủ đề tối
+        cho các nút, menu và cửa sổ.
+# Tooltip displayed on hover of Alpenglow theme
+mr1-onboarding-theme-tooltip-alpenglow =
+    .title =
+        Sử dụng giao diện động, đầy màu sắc
+        cho các nút, menu và cửa sổ
+# Input description for Alpenglow theme
+mr1-onboarding-theme-description-alpenglow =
+    .aria-description =
+        Sử dụng giao diện động, đầy màu sắc
+        cho các nút, menu và cửa sổ

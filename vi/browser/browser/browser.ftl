@@ -307,6 +307,7 @@ identity-https-only-info-turn-off2 = Nếu trang có vẻ bị hỏng, bạn có
 identity-https-only-info-no-upgrade = Không thể nâng cấp kết nối từ HTTP.
 identity-permissions-storage-access-header = Cookie trên nhiều trang web
 identity-permissions-storage-access-hint = Khi bạn mở trang web này, các trang web này có thể sử dụng cookie trên nhiều trang web và lấy thông tin của bạn trên trang web này.
+identity-permissions-storage-access-learn-more = Tìm hiểu thêm
 identity-permissions-reload-hint = Bạn có thể cần phải tải lại trang để các thay đổi được áp dụng.
 identity-permissions-empty = Bạn chưa cấp cho trang này bất kỳ một quyền đặc biệt nào.
 identity-clear-site-data =
@@ -566,9 +567,6 @@ pointerlock-warning-no-domain = Trang này có quyền điều khiển con trỏ
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Một phần của trang này đã bị vớ.</strong> Để { -brand-product-name } biết về lỗi này và sửa nó nhanh hơn, vui lòng báo cáo nó.
-crashed-subframe-learnmore =
-    .label = Tìm hiểu thêm
-    .accesskey = L
 crashed-subframe-learnmore-link =
     .value = Tìm hiểu thêm
 crashed-subframe-submit =
@@ -581,8 +579,6 @@ bookmarks-show-all-bookmarks =
     .label = Xem tất cả dấu trang
 bookmarks-manage-bookmarks =
     .label = Quản lý dấu trang
-bookmarks-recent-bookmarks-panel =
-    .value = Dấu trang gần đây
 bookmarks-recent-bookmarks-panel-subheader = Dấu trang gần đây
 bookmarks-toolbar-chevron =
     .tooltiptext = Hiện thêm các dấu trang

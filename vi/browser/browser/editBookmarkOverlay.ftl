@@ -49,4 +49,4 @@ bookmark-overlay-keyword-2 =
     .value = Từ khóa
     .accesskey = K
 bookmark-overlay-tags-caption-label = Sử dụng các thẻ để sắp xếp và tìm kiếm các dấu trang từ thanh địa chỉ
-bookmark-overlay-keyword-caption-label = Sử dụng từ khóa để mở dấu trang trực tiếp từ thanh địa chỉ
+bookmark-overlay-keyword-caption-label-2 = Sử dụng từ khóa để mở dấu trang trực tiếp từ thanh địa chỉ

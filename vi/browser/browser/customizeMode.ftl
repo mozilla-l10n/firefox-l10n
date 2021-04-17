@@ -49,3 +49,5 @@ customize-mode-lwthemes-my-themes =
     .value = Chủ đề của tôi
 customize-mode-touchbar-cmd =
     .label = Tùy biến Touch Bar…
+customize-mode-downloads-button-autohide =
+    .label = Ẩn nút khi trống
