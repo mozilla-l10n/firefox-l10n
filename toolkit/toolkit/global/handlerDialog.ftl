@@ -23,6 +23,18 @@ permission-dialog-unset-description = Vas tener d'escoyer una aplicación.
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+chooser-dialog =
+    .buttonlabelaccept = Abrir l'enllaz
+    .buttonaccesskeyaccept = A
+chooser-dialog-description = Escoyeta d'una aplicación p'abrir l'enllaz { $scheme }.
+# Please keep the emphasis around the scheme (ie the `<strong>` HTML tags).
+chooser-dialog-remember = Usar siempres esta aplicación p'abrir enllaces <strong>{ $scheme }</strong>
+chooser-dialog-remember-extra =
+    { PLATFORM() ->
+        [windows] Pues camudar esto nes opciones de { -brand-short-name }
+       *[other] Pues camudar esto nes preferencies de { -brand-short-name }
+    }
+choose-other-app-description = Escueyi otra aplicación
 choose-app-btn =
     .label = Escoyer…
     .accessKey = E
