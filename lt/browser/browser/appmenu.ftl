@@ -5,14 +5,18 @@
 
 ## App Menu
 
-appmenuitem-update-banner =
-    .label-update-downloading = Atsiunčiamas „{ -brand-shorter-name };“ naujinimas
 appmenuitem-update-banner2 =
     .label-update-downloading = Atsiunčiamas „{ -brand-shorter-name }“ naujinimas
     .label-update-available = Galimas naujinimas — atsiųsti dabar
     .label-update-manual = Galimas naujinimas — atsiųsti dabar
     .label-update-unsupported = Naujinimas nepavyko
     .label-update-restart = Galimas naujinimas — paleisti iš naujo dabar
+appmenuitem-update-banner3 =
+    .label-update-downloading = Atsiunčiamas „&brandShorterName;“ naujinimas
+    .label-update-available = Išleistas naujinimas – atsiųsti dabar
+    .label-update-manual = Išleistas naujinimas – atsiųsti dabar
+    .label-update-unsupported = Nepavyko atnaujinti – sistema nesuderinama
+    .label-update-restart = Išleistas naujinimas – paleisti iš naujo dabar
 appmenuitem-protection-dashboard-title = Apsaugos skydelis
 appmenuitem-customize-mode =
     .label = Tvarkyti…
@@ -25,8 +29,6 @@ appmenuitem-new-private-window =
     .label = Naujas privataus naršymo langas
 appmenuitem-passwords =
     .label = Slaptažodžiai
-appmenuitem-extensions-and-themes =
-    .label = Priedai ir grafiniai apvalkalai
 appmenuitem-addons-and-themes =
     .label = Priedai ir grafiniai apvalkalai
 appmenuitem-find-in-page =
@@ -160,11 +162,6 @@ appmenu-about =
 appmenu-get-help =
     .label = Žinynas ir pagalba
     .accesskey = Ž
-appmenu-help-troubleshooting-info =
-    .label = Informacija problemų sprendimui
-    .accesskey = r
-appmenu-help-taskmanager =
-    .label = Užduočių tvarkytuvė
 appmenu-help-more-troubleshooting-info =
     .label = Daugiau informacijos problemų sprendimui
     .accesskey = p
@@ -173,16 +170,6 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = Siųsti atsiliepimą…
     .accesskey = S
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Perleisti programą, išjungus priedus…
-    .accesskey = r
-appmenu-help-safe-mode-with-addons =
-    .label = Perleisti programą su išjungtais priedais
-    .accesskey = r
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
