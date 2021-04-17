@@ -19,4 +19,5 @@ default-browser-prompt-title-alt = Impostare { -brand-short-name } come browser 
 default-browser-prompt-message-alt = Velocità, sicurezza e privacy sempre garantiti quando navighi online.
 default-browser-prompt-button-primary-alt = Imposta come browser predefinito
 default-browser-prompt-checkbox-label = Non chiedere nuovamente
+default-browser-prompt-checkbox-not-again-label = Non mostrare di nuovo questo messaggio
 default-browser-prompt-button-secondary = Non adesso
