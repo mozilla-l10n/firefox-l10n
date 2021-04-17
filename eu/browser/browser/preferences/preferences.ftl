@@ -58,6 +58,7 @@ category-privacy =
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
+pane-sync-title3 = Sinkronizazioa
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
 pane-experimental-title = { -brand-short-name } esperimentuak
@@ -378,7 +379,7 @@ update-history =
     .accesskey = E
 update-application-allow-description = Baimendu { -brand-short-name }(r)i
 update-application-auto =
-    .label = Instalatu eguneraketak automatikoki (gomendatua)
+    .label = Eguneraketak automatikoki instalatzen (gomendatua)
     .accesskey = a
 update-application-check-choose =
     .label = Eguneraketak bilatzen baina utzi aukeratzen instalatuko diren edo ez
@@ -400,6 +401,14 @@ update-setting-write-failure-message =
     
      Ezin da fitxategira idatzi: { $path }
 update-setting-write-failure-title2 = Errorea eguneraketa-ezarpenak gordetzean
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message2 =
+    { -brand-short-name }(e)k errore bat aurkitu du eta ez du aldaketa hau gorde. Kontuan izan eguneraketen ezarpen hau aldatzeak azpiko fitxategia idazteko baimenak behar dituela. Zu edo sistema-kudeatzaile bat errorea konpontzeko moduan izan zaitezkete erabiltzaileen taldeari fitxategi honetarako kontrol osoa emanez.
+    
+     Ezin da fitxategira idatzi: { $path }
 update-in-progress-title = Eguneraketa burutzen ari da
 update-in-progress-message = { -brand-short-name }(e)k eguneraketa honekin jarraitzea nahi duzu?
 update-in-progress-ok-button = &Baztertu
