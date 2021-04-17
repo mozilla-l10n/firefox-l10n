@@ -77,6 +77,7 @@ appmenu-fxa-sync-and-save-data2 = Sincroniza y guarda datos
 appmenu-fxa-signed-in-label = Aniciar sesión
 appmenu-fxa-setup-sync =
     .label = Activar la sincronización…
+appmenu-fxa-show-more-tabs = Amosar más llingüetes
 appmenuitem-save-page =
     .label = Guardar la páxina como…
 

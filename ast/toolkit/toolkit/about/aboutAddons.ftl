@@ -11,6 +11,8 @@ list-empty-available-updates =
     .value = Nun s'atoparon anovamientos
 list-empty-recent-updates =
     .value = Nun anovesti nengún complementu apocayá
+list-empty-button =
+    .label = Lleer más tocante a los complementos
 help-button = Sofitu pa los complementos
 sidebar-help-button-title =
     .title = Sofitu pa los complementos
@@ -28,6 +30,10 @@ sidebar-preferences-button-title =
 addons-settings-button = Axustes de { -brand-short-name }
 sidebar-settings-button-title =
     .title = Axustes de { -brand-short-name }
+show-unsigned-extensions-button =
+    .label = Dalgunes estensiones nun pudieron verificase
+show-all-extensions-button =
+    .label = Amosar toles estensiones
 cmd-show-details =
     .label = Amosar más información
     .accesskey = A
@@ -161,6 +167,7 @@ shortcuts-no-commands = Les estensiones de darréu nun tienen atayos:
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message = { $shortcut } úsase como atayu en más d'una ocasión. Los atayos duplicaos puen causar un comportamientu inesperáu.
+shortcuts-card-collapse-button = Amosar menos
 header-back-button =
     .title = Dir p'atrás
 
