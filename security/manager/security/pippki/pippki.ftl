@@ -23,10 +23,18 @@ reset-password-window =
     .title = Berrezarri pasahitz nagusia
     .style = width: 40em
 pippki-failed-pw-change = Ezin da pasahitza aldatu.
+pippki-incorrect-pw = Ez duzu uneko pasahitz zuzena sartu. Saiatu berriro.
 pippki-pw-change-ok = Pasahitza ondo aldatu da.
+pippki-pw-empty-warning = Gordetako zure pasahitz eta gako pribatuak ez dira babestuko.
+pippki-pw-erased-ok = Zure pasahitza ezabatu duzu. { pippki-pw-empty-warning }
+pippki-pw-not-wanted = Kontuz! Pasahitzik ez erabiltzea erabaki duzu. { pippki-pw-empty-warning }
+pippki-pw-change2empty-in-fips-mode = FIPS moduan zaude. Honek hutsa ez den pasahitza eskatzen du.
 
 ## Reset Primary Password dialog
 
+reset-primary-password-window =
+    .title = Berrezarri pasahitz nagusia
+    .style = width: 40em
 reset-password-button-label =
     .label = Berezarri
 reset-password-text = Pasahitz nagusia berrezartzen baduzu, gordeta dituzun webetako eta epostetako pasahitzak, inprimaki datuak, ziurtagiri pertsonalak eta gako pribatuak ahaztu egingo dira. Ziur zaude pasahitz nagusia berrezarri nahi duzula?
