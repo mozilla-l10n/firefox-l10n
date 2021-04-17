@@ -17,11 +17,11 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 <!ENTITY  pinTab.label                       "Закачи картицу">
-<!ENTITY  unpinTab.label                     "Откачи језичак">
+<!ENTITY  unpinTab.label                     "Откачи картицу">
 
 <!ENTITY  listAllTabs.label      "Наброј све језичке">
 
-<!ENTITY tabCmd.label "Нови језичак">
+<!ENTITY tabCmd.label "Нова картица">
 <!ENTITY openFileCmd.label "Отвори датотеку…">
 <!ENTITY printCmd.label "Одштампај…">
 
@@ -161,13 +161,13 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
-<!ENTITY appMenuRemoteTabs.notabs.label "Нема отворених језичака">
+<!ENTITY appMenuRemoteTabs.notabs.label "Нема отворених картица">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showMore.label "Прикажи још">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
-<!ENTITY appMenuRemoteTabs.showMore.tooltip "Прикажи више језичака са овог уређаја">
+<!ENTITY appMenuRemoteTabs.showMore.tooltip "Прикажи више картица са овог уређаја">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showAll.label "Прикажи све">
