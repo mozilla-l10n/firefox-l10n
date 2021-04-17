@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-description = Požiadať webové stránky pomocou signálu “Do Not Track”, aby vás nesledovali
+do-not-track-description = Požiadať webové stránky pomocou príznaku “Do Not Track”, aby vás nesledovali
 do-not-track-learn-more = Ďalšie informácie
 do-not-track-option-default-content-blocking-known =
     .label = Len ak je zapnuté blokovanie známych sledovacích prvkov
