@@ -286,3 +286,38 @@ mr1-onboarding-theme-tooltip-system =
     .title =
         Nasleduje nastavenia operačného systému
         pre tlačidlá, ponuky a okná.
+# Input description for system theme
+mr1-onboarding-theme-description-system =
+    .aria-description =
+        Nasleduje nastavenia operačného systému
+        pre tlačidlá, ponuky a okná.
+# Tooltip displayed on hover of light theme
+mr1-onboarding-theme-tooltip-light =
+    .title =
+        Použije svetlý vzhľad tlačidiel,
+        ponúk a okien.
+# Input description for light theme
+mr1-onboarding-theme-description-light =
+    .aria-description =
+        Použije svetlý vzhľad tlačidiel,
+        ponúk a okien.
+# Tooltip displayed on hover of dark theme
+mr1-onboarding-theme-tooltip-dark =
+    .title =
+        Použije tmavý vzhľad tlačidiel,
+        ponúk a okien.
+# Input description for dark theme
+mr1-onboarding-theme-description-dark =
+    .aria-description =
+        Použije tmavý vzhľad tlačidiel,
+        ponúk a okien.
+# Tooltip displayed on hover of Alpenglow theme
+mr1-onboarding-theme-tooltip-alpenglow =
+    .title =
+        Použije dynamickú, farebnú tému
+        pre tlačidlá, ponuky a okná.
+# Input description for Alpenglow theme
+mr1-onboarding-theme-description-alpenglow =
+    .aria-description =
+        Použije dynamickú, farebnú tému
+        pre tlačidlá, ponuky a okná.
