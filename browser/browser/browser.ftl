@@ -319,6 +319,7 @@ identity-https-only-info-turn-off2 = Sayfa düzgün çalışmazsa bu site için 
 identity-https-only-info-no-upgrade = HTTP bağlantısı yükseltilemedi.
 identity-permissions-storage-access-header = Siteler arası çerezler
 identity-permissions-storage-access-hint = Bu siteler, siz bu sitedeyken siteler diğer sitelerdeki çerezleri ve site verilerini kullanabilir.
+identity-permissions-storage-access-learn-more = Daha fazla bilgi al
 identity-permissions-reload-hint = Değişikliklerin uygulanması için bu sayfayı tazelemeniz gerekebilir.
 identity-permissions-empty = Bu siteye özel bir izin vermediniz.
 identity-clear-site-data =
@@ -580,9 +581,6 @@ pointerlock-warning-no-domain = Bu belge işaretçinizi kontrol ediyor. Kontrol�
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Bu sayfanın bir kısmı çöktü.</strong> Bize rapor göndererek sorunu bildirirseniz { -brand-product-name } tarayıcınızı daha hızlı düzeltebiliriz.
-crashed-subframe-learnmore =
-    .label = Daha fazla bilgi al
-    .accesskey = b
 crashed-subframe-learnmore-link =
     .value = Daha fazla bilgi al
 crashed-subframe-submit =
@@ -595,8 +593,6 @@ bookmarks-show-all-bookmarks =
     .label = Tüm yer imlerini göster
 bookmarks-manage-bookmarks =
     .label = Yer imlerini yönet
-bookmarks-recent-bookmarks-panel =
-    .value = Son yer imleri
 bookmarks-recent-bookmarks-panel-subheader = Son yer imleri
 bookmarks-toolbar-chevron =
     .tooltiptext = Daha fazla yer imi göster
