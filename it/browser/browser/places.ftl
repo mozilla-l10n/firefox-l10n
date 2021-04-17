@@ -97,6 +97,16 @@ places-edit-bookmark =
 places-edit-generic =
     .label = Modifica…
      .accesskey = M
+places-edit-folder =
+  .label = Rinomina cartella…
+  .accesskey = e
+places-remove-folder =
+  .label =
+      { $count ->
+          [1] Rimuovi cartella
+         *[other] Rimuovi cartelle
+      }
+  .accesskey = v
 
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
