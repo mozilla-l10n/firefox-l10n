@@ -14,6 +14,11 @@ upgrade-dialog-new-subtitle = Diseñado para llevarte más rápido a donde quier
 upgrade-dialog-new-item-menu-title = Barra de herramientas y menús optimizados
 upgrade-dialog-new-item-menu-description = Priorice las cosas importantes para encontrar lo que necesitas.
 upgrade-dialog-new-item-tabs-title = Pestañas modernas
+upgrade-dialog-new-item-tabs-description = Contiene información de forma ordenada, permitiendo destacarla y el moverla de forma flexible.
+upgrade-dialog-new-item-icons-title = Íconos renovados y mensajes más claros
+upgrade-dialog-new-item-icons-description = Te ayuda a encontrar tu camino con un toque más ligero.
+upgrade-dialog-new-primary-primary-button = Hacer de { -brand-short-name } mi navegador primario
+    .title = Establece { -brand-short-name } cómo el navegador predeterminado y lo fija a la barra de tareas
 
 ## Theme selection screen
 

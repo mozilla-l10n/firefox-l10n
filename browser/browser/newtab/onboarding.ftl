@@ -200,7 +200,6 @@ onboarding-welcome-steps-indicator =
 # automatically added to the text inside it. "look" should stay inside the span.
 onboarding-multistage-theme-header = Elige un <span data-l10n-name = "zap">aspecto</span>
 onboarding-multistage-theme-subtitle = Personaliza { -brand-short-name } con un tema.
-onboarding-multistage-theme-primary-button-label = Guardar tema
 onboarding-multistage-theme-primary-button-label2 = Hecho
 onboarding-multistage-theme-secondary-button-label = Ahora no
 # Automatic theme uses operating system color settings
@@ -228,30 +227,113 @@ onboarding-multistage-theme-description-automatic-2 =
 # Tooltip displayed on hover of light theme
 onboarding-multistage-theme-tooltip-light-2 =
     .title =
-        Usa una apariencia clara para
+        Usar una apariencia clara para
         botones, menús y ventanas.
 # Input description for light theme
 onboarding-multistage-theme-description-light =
     .aria-description =
-        Usa una apariencia clara para
+        Usar una apariencia clara para
         botones, menús y ventanas.
 # Tooltip displayed on hover of dark theme
 onboarding-multistage-theme-tooltip-dark-2 =
     .title =
-        Usa una apariencia oscura para
+        Usar una apariencia oscura para
         botones, menús y ventanas.
 # Input description for dark theme
 onboarding-multistage-theme-description-dark =
     .aria-description =
-        Usa una apariencia oscura para
+        Usar una apariencia oscura para
         botones, menús y ventanas.
 # Tooltip displayed on hover of Alpenglow theme
 onboarding-multistage-theme-tooltip-alpenglow-2 =
     .title =
-        Usa una apariencia colorida para
+        Usar una apariencia colorida para
         botones, menús y ventanas.
 # Input description for Alpenglow theme
 onboarding-multistage-theme-description-alpenglow =
     .aria-description =
-        Usa una apariencia colorida para
+        Usar una apariencia colorida para
+        botones, menús y ventanas.
+
+## Multistage MR1 onboarding strings (MR1 about:welcome pages)
+
+# "Hero Text" displayed on left side of welcome screen.
+# The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
+# It also signals the passion users bring to Firefox, how they use
+# Firefox to pursue those passions, as well as the boldness in their
+# choice to use Firefox over a larger competitor browser.
+# An alternative title for localization is: "It starts here".
+mr1-welcome-screen-hero-text = La llama empieza aquí
+# This button will open system settings to turn on prefers-reduced-motion
+mr1-onboarding-reduce-motion-button-label = Desactivar animaciones
+mr1-onboarding-welcome-header = Te damos la bienvenida a { -brand-short-name }
+mr1-onboarding-set-default-pin-primary-button-label = Hacer de { -brand-short-name } mi navegador primario
+    .title = Establece { -brand-short-name } como navegador predeterminado y lo fija a la barra de tareas
+mr1-onboarding-set-default-only-primary-button-label = Hacer de { -brand-short-name } mi navegador predeterminado
+mr1-onboarding-set-default-secondary-button-label = Ahora no
+mr1-onboarding-sign-in-button-label = Conectarse
+mr1-onboarding-import-header = Tráelo todo contigo
+mr1-onboarding-import-subtitle = Importa tus contraseñas, <br/>marcadores y más.
+# The primary import button label will depend on whether we can detect which browser was used to download Firefox.
+# Variables:
+#   $previous (Str) - Previous browser name, such as Edge, Chrome
+mr1-onboarding-import-primary-button-label-attribution = Importar desde { $previous }
+# This string will be used in cases where we can't detect the previous browser name.
+mr1-onboarding-import-primary-button-label-no-attribution = Importar desde el navegador anterior
+mr1-onboarding-import-secondary-button-label = Ahora no
+mr1-onboarding-theme-header = Hazlo tuyo
+mr1-onboarding-theme-subtitle = Personaliza { -brand-short-name } con un tema.
+mr1-onboarding-theme-primary-button-label = Guardar tema
+mr1-onboarding-theme-secondary-button-label = Ahora no
+# System theme uses operating system color settings
+mr1-onboarding-theme-label-system = Tema del sistema
+mr1-onboarding-theme-label-light = Claro
+mr1-onboarding-theme-label-dark = Oscuro
+# "Alpenglow" here is the name of the theme, and should be kept in English.
+mr1-onboarding-theme-label-alpenglow = Alpenglow
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
+# Tooltip displayed on hover of system theme
+mr1-onboarding-theme-tooltip-system =
+    .title =
+        Seguir el tema del sistema operativo
+        para botones, menús y ventanas.
+# Input description for system theme
+mr1-onboarding-theme-description-system =
+    .aria-description =
+        Seguir el tema del sistema operativo
+        para botones, menús y ventanas.
+# Tooltip displayed on hover of light theme
+mr1-onboarding-theme-tooltip-light =
+    .title =
+        Usar una apariencia clara para
+        botones, menús y ventanas.
+# Input description for light theme
+mr1-onboarding-theme-description-light =
+    .aria-description =
+        Usar una apariencia clara para
+        botones, menús y ventanas.
+# Tooltip displayed on hover of dark theme
+mr1-onboarding-theme-tooltip-dark =
+    .title =
+        Usar una apariencia oscura para
+        botones, menús y ventanas.
+# Input description for dark theme
+mr1-onboarding-theme-description-dark =
+    .aria-description =
+        Usar una apariencia oscura para
+        botones, menús y ventanas.
+# Tooltip displayed on hover of Alpenglow theme
+mr1-onboarding-theme-tooltip-alpenglow =
+    .title =
+        Usar una apariencia colorida para
+        botones, menús y ventanas.
+# Input description for Alpenglow theme
+mr1-onboarding-theme-description-alpenglow =
+    .aria-description =
+        Usar una apariencia colorida para
         botones, menús y ventanas.
