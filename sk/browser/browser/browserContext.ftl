@@ -91,8 +91,8 @@ toolbar-button-stop-reload =
 ## Firefox Account Button
 
 toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name(capitalization: "sentence") }
-    .tooltiptext = { -fxaccount-brand-name(capitalization: "sentence") }
+    .label = { -fxaccount-brand-name }
+    .tooltiptext = { -fxaccount-brand-name }
 
 ## Save Page
 
@@ -314,12 +314,12 @@ main-context-menu-image-email =
 main-context-menu-image-set-as-background =
     .label = Nastaviť ako pozadie pracovnej plochy…
     .accesskey = N
-main-context-menu-image-info =
-    .label = Zobraziť informácie o obrázku
-    .accesskey = f
 main-context-menu-image-set-image-as-background =
     .label = Nastaviť ako pozadie pracovnej plochy…
     .accesskey = p
+main-context-menu-image-info =
+    .label = Zobraziť informácie o obrázku
+    .accesskey = f
 main-context-menu-image-desc =
     .label = Zobraziť popis
     .accesskey = s

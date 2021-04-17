@@ -74,7 +74,7 @@ cfr-doorhanger-pintab-animation-resume = Pokračovať
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Majte svoje záložky všade so sebou.
-cfr-doorhanger-bookmark-fxa-body = Skvelý nález! Chcete mať túto záložku aj vo svojom mobilnom zariadení? Použite { -fxaccount-brand-name }.
+cfr-doorhanger-bookmark-fxa-body = Skvelý nález! Chcete mať túto záložku aj vo svojom mobilnom zariadení? Použite { -fxaccount-brand-name(capitalization: "sentence") }.
 cfr-doorhanger-bookmark-fxa-link-text = Synchronizujte svoje záložky…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Tlačidlo Zavrieť
@@ -222,8 +222,6 @@ cfr-doorhanger-milestone-heading2 =
     }
 cfr-doorhanger-milestone-ok-button = Zobraziť všetko
     .accesskey = v
-cfr-doorhanger-milestone-close-button = Zavrieť
-    .accesskey = Z
 
 ## What’s New Panel Content for Firefox 76
 
@@ -248,6 +246,8 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Ikona obrazu v obraze
 
 ## Protections Dashboard message
 
+cfr-doorhanger-milestone-close-button = Zavrieť
+    .accesskey = Z
 
 ## What’s New Panel Content for Firefox 76
 ## Protections Dashboard message
@@ -266,8 +266,6 @@ cfr-whatsnew-better-pdf-body = Dokumenty PDF sa teraz otvárajú priamo v aplik�
 
 cfr-doorhanger-doh-body = Na vašom súkromí záleží. Prehliadač { -brand-short-name } teraz posiela vaše požiadavky DNS na partnerskú službu v záujme vašej ochrany zabezpečene.
 cfr-doorhanger-doh-header = Bezpečnejšie a šifrované vyhľadávanie DNS
-cfr-doorhanger-doh-primary-button = OK, rozumiem
-    .accesskey = O
 cfr-doorhanger-doh-primary-button-2 = OK
     .accesskey = O
 cfr-doorhanger-doh-secondary-button = Zakázať
