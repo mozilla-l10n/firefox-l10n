@@ -200,7 +200,6 @@ onboarding-welcome-steps-indicator =
 # automatically added to the text inside it. "look" should stay inside the span.
 onboarding-multistage-theme-header = Vyberte si <span data-l10n-name="zap">vzhľad</span>
 onboarding-multistage-theme-subtitle = Prispôsobte si { -brand-short-name }.
-onboarding-multistage-theme-primary-button-label = Uložiť vzhľad
 onboarding-multistage-theme-primary-button-label2 = Hotovo
 onboarding-multistage-theme-secondary-button-label = Teraz nie
 # Automatic theme uses operating system color settings
@@ -239,3 +238,22 @@ onboarding-multistage-theme-tooltip-alpenglow-2 =
 # Input description for Alpenglow theme
 onboarding-multistage-theme-description-alpenglow =
     .aria-description = Použije farebný vzhľad tlačidiel, ponúk a okien.
+
+## Multistage MR1 onboarding strings (MR1 about:welcome pages)
+
+# This button will open system settings to turn on prefers-reduced-motion
+mr1-onboarding-reduce-motion-button-label = Vypnúť animácie
+mr1-onboarding-welcome-header = Víta vás { -brand-short-name }
+mr1-onboarding-set-default-pin-primary-button-label = Nastaviť { -brand-short-name } ako môj hlavný prehliadač
+    .title = Nastaví { -brand-short-name } ako predvolený prehliadač a pripne ho na panel úloh
+mr1-onboarding-set-default-only-primary-button-label = Nastaviť { -brand-short-name } ako môj predvolený prehliadač
+mr1-onboarding-set-default-secondary-button-label = Teraz nie
+mr1-onboarding-sign-in-button-label = Prihlásiť sa
+mr1-onboarding-import-secondary-button-label = Teraz nie
+mr1-onboarding-theme-secondary-button-label = Teraz nie
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+

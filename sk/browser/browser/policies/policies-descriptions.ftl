@@ -31,7 +31,7 @@ policy-DisableBuiltinPDFViewer = Zablokuje PDF prehliadač PDF.js zabudovaný v 
 policy-DisableDefaultBrowserAgent = Zabráni agentovi Default browser vykonávať akékoľvek činnosti. Platí len pre Windows; iné platformy nemajú agenta Default browser.
 policy-DisableDeveloperTools = Zablokuje prístup k vývojárskym nástrojom.
 policy-DisableFeedbackCommands = Zablokuje možnosť odoslať spätnú väzbu z ponuky Pomocník (možnosti Odoslať spätnú väzbu a Nahlásenie podvodnej stránky).
-policy-DisableFirefoxAccounts = Vypne funkcie súvisiace s účtom { -fxaccount-brand-name }, vrátane synchronizácie.
+policy-DisableFirefoxAccounts = Vypne funkcie súvisiace s { -fxaccount-brand-name(case: "ins", capitalization: "sentence") }, vrátane synchronizácie.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Vypne funkciu Firefox Screenshots.
 policy-DisableFirefoxStudies = Zabráni prehliadaču { -brand-short-name } spúšťať štúdie.
