@@ -102,7 +102,7 @@
 
 <!ENTITY contactYourProvider.description "O &brandShortName; pode permitir usar seu email usando as configurações fornecidas. Entretanto, você deve entrar em contato com seu administrador ou provedor de email para falar a respeito dessas conexões impróprias. Consulte mais informações nas perguntas frequentes do Thunderbird.">
 
-<!ENTITY insecureServer.tooltip.title    "Aviso! Este é um servidor inseguro.">
+<!ENTITY insecureServer.tooltip.title    "Aviso! Este é um servidor não seguro.">
 <!ENTITY insecureServer.tooltip.details  "Clique no círculo para mais detalhes.">
 
 <!ENTITY insecureUnencrypted.description "Seu email e autenticação são enviados sem criptografia, assim sua senha e a própria mensagem podem ser lidas facilmente por outras pessoas. O &brandShortName; permite usar seu email, mas você deve entrar em contato com seu provedor de email para pedir que configure o servidor com uma conexão segura.">
