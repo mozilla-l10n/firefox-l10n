@@ -8,7 +8,7 @@ cert-error-intro = O servidor { $hostname } usa um certificado de segurança inv
 cert-error-mitm-intro = Sites comprovam a própria identidade através de certificados, que são emitidos por autoridades certificadoras.
 cert-error-mitm-mozilla = O { -brand-short-name } é respaldado pela Mozilla, entidade sem fins lucrativos, que administra um armazenamento de autoridades certificadoras (CA) completamente aberto. O armazenamento de autoridades certificadoras ajuda a garantir que elas estão seguindo as melhores práticas para segurança dos usuários.
 cert-error-mitm-connection = O { -brand-short-name } usa o armazenamento de autoridades certificadoras da Mozilla para verificar se uma conexão é segura, em vez de certificados fornecidos pelo sistema operacional do usuário. Portanto, se um programa antivírus ou uma rede estiver interceptando uma conexão com um certificado de segurança emitido por uma autoridade certificadora que não esteja no armazenamento da Mozilla, a conexão será considerada não segura.
-cert-error-trust-unknown-issuer-intro = Alguém pode estar tentando imitar o site, você não deve continuar.
+cert-error-trust-unknown-issuer-intro = Podem estar tentando te levar para um site que imita o original, você não deve continuar.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-trust-unknown-issuer = Os sites comprovam sua identidade por meio de certificados. O { -brand-short-name } não confia em { $hostname } porque sua entidade certificadora é desconhecida, o certificado é autoassinado, ou o servidor não está enviando os certificados intermediários corretos.
@@ -47,13 +47,13 @@ cert-error-code-prefix-link = Código do erro: <a data-l10n-name="error-code-lin
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-symantec-distrust-description = Sites comprovam sua identidade através de certificados, que são emitidos por autoridades certificadoras. A maioria dos navegadores não confia mais em certificados emitidos por GeoTrust, RapidSSL, Symantec, Thawte e VeriSign. { $hostname } usa um certificado de uma dessas autoridades, portanto a identidade do site não pode ser comprovada.
-cert-error-symantec-distrust-admin = Você pode notificar o administrador da página a respeito deste problema.
+cert-error-symantec-distrust-admin = Você pode notificar o administrador do site a respeito deste problema.
 # Variables:
 # $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 # Variables:
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
-cert-error-details-key-pinning-label = Fixação de Chave Pública HTTP: { $hasHPKP }
+cert-error-details-key-pinning-label = Fixação de chave pública HTTP: { $hasHPKP }
 cert-error-details-cert-chain-label = Cadeia de certificados:
 open-in-new-window-for-csp-or-xfo-error = Abrir site em nova janela
 # Variables:
@@ -73,7 +73,7 @@ generic-title = Ops!
 captivePortal-title = Autenticar na rede
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
-malformedURI-title = Hmm. Este endereço não parece correto.
+malformedURI-title = Este endereço não parece correto.
 netInterrupt-title = A conexão foi interrompida
 notCached-title = Documento fora de validade
 netOffline-title = Modo offline
