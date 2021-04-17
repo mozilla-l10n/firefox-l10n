@@ -23,6 +23,9 @@ permission-dialog-unset-description = Vas tener d'escoyer una aplicación.
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+chooser-window =
+    .title = Escoyeta d'una aplicación
+    .style = min-width: 26em; min-height: 26em;
 chooser-dialog =
     .buttonlabelaccept = Abrir l'enllaz
     .buttonaccesskeyaccept = A
