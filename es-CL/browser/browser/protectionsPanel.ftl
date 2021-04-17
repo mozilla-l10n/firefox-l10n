@@ -80,6 +80,7 @@ protections-panel-cryptominers = Los criptomineros utilizan la potencia de cómp
 protections-panel-fingerprinters = Los creadores de huellas (Fingerprinters) recolectan ajustes de tu navegador y computador para crear un perfil tuyo. Usando esta huella digital ellos pueden seguirte a través de diferentes sitios web.
 protections-panel-tracking-content = Los sitios web pueden cargar anuncios publicitarios, videos y otros elementos con códigos para seguimiento. Bloquearlos contenidos de seguimiento puede ayudar a que los sitios carguen más rápido, pero algunos botones, formularios y campos para conectarse podrían dejar de funcionar.
 protections-panel-social-media-trackers = Las redes sociales colocan rastreadores en otros sitios web para seguir lo que haces y miras en línea. Esto le permite a las compañías de redes sociales aprender más sobre tu comportamiento yendo más allá de lo que compartes en tus perfiles de redes sociales.
+protections-panel-description-shim-allowed = Algunos rastreadores marcados a continuación han sido parcialmente desbloqueados en esta página porque interactuaste con ellos.
 protections-panel-description-shim-allowed-learn-more = Aprender más
 protections-panel-shim-allowed-indicator =
     .tooltiptext = Rastreador parcialmente desbloqueado

@@ -19,9 +19,19 @@ upgrade-dialog-new-item-icons-title = Íconos renovados y mensajes más claros
 upgrade-dialog-new-item-icons-description = Te ayuda a encontrar tu camino con un toque más ligero.
 upgrade-dialog-new-primary-primary-button = Hacer de { -brand-short-name } mi navegador primario
     .title = Establece { -brand-short-name } cómo el navegador predeterminado y lo fija a la barra de tareas
+upgrade-dialog-new-primary-default-button = Hacer de { -brand-short-name } mi navegador predeterminado
+upgrade-dialog-new-primary-pin-button = Fijar { -brand-short-name } a mi barra de tareas
+upgrade-dialog-new-primary-theme-button = Elige un tema
+upgrade-dialog-new-secondary-button = Ahora no
 
 ## Theme selection screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-theme-title =
+    Empieza renovado
+    con un tema actualizado
+upgrade-dialog-theme-system = Tema del sistema
+    .title = Sigue el tema del sistema operativo para botones, menús y ventanas
 upgrade-dialog-theme-light = Claro
     .title = Usar un tema claro para botones, menús y ventanas
 upgrade-dialog-theme-dark = Oscuro
