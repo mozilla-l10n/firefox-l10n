@@ -50,7 +50,7 @@
 <!ENTITY browserContentToolboxMenu.label     "Εργαλειοθήκη περιεχομένου φυλλομετρητή">
 <!ENTITY browserContentToolboxMenu.accesskey "χ">
 
-<!ENTITY devToolbarCloseButton.tooltiptext   "Κλείσιμο εργαλειοθήκης προγραμματιστή">
+<!ENTITY devToolbarCloseButton.tooltiptext   "Κλείσιμο γραμμής εργαλείων ανάπτυξης">
 <!ENTITY devToolbarMenu.label                "Γραμμή εργαλείων ανάπτυξης">
 <!ENTITY devToolbarMenu.accesskey            "π">
 
