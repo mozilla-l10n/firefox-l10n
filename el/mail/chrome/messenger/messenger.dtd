@@ -513,9 +513,9 @@
 <!ENTITY accountManagerCmdUnix2.accesskey "θ">
 
 <!-- Developer Tools Submenu -->
-<!ENTITY devtoolsMenu.label "Εργαλεία προγραμματιστή">
+<!ENTITY devtoolsMenu.label "Εργαλεία ανάπτυξης">
 <!ENTITY devtoolsMenu.accesskey "ρ">
-<!ENTITY devToolboxCmd.label "Γραμμή εργαλείων προγραμματιστή">
+<!ENTITY devToolboxCmd.label "Εργαλειοθήκη προγραμματιστή">
 <!ENTITY devToolboxCmd.accesskey "λ">
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY debugAddonsCmd.label "Έλεγχος σφαλμάτων προσθέτων">
