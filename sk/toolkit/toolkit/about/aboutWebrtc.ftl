@@ -134,6 +134,10 @@ about-webrtc-last-frame-timestamp = Časová známka príjmu posledného snímku
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
+# This is an SSRC on the local side of the connection that is receiving RTP
+about-webrtc-local-receive-ssrc = Lokálne prijímané SSRC
+# This is an SSRC on the remote side of the connection that is sending RTP
+about-webrtc-remote-send-ssrc = Vzdialené odosielané SSRC
 
 ##
 
@@ -153,6 +157,10 @@ about-webrtc-track-identifier = Identifikátor stopy
 about-webrtc-send-bandwidth-bytes-sec = Šírka pásma pre odoslanie (bajtov/sek)
 # The estimated bandwidth available for receiving WebRTC media in bytes per second
 about-webrtc-receive-bandwidth-bytes-sec = Šírka pásma pre prijímanie (bajtov/sek)
+# Maximum number of bytes per second that will be padding zeros at the ends of packets
+about-webrtc-max-padding-bytes-sec = Maximálna výplň (bajtov/sek)
+# The amount of time inserted between packets to keep them spaced out
+about-webrtc-pacer-delay-ms = Oneskorenie medzi paketmi (ms)
 # The amount of time it takes for a packet to travel from the local machine to the remote machine,
 # and then have a packet return
 about-webrtc-round-trip-time-ms = RTT ms
