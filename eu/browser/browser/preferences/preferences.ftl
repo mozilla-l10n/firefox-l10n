@@ -597,6 +597,7 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Erakutsi bilaketa-iradokizunak leiho pribatuetan
 suggestions-addressbar-settings-generic = Aldatu hobespenak bilaketa-motorren bestelako iradokizunetarako
+suggestions-addressbar-settings-generic2 = Aldatu ezarpenak bilaketa-motorren bestelako iradokizunetarako
 search-suggestions-cant-show = Bilaketa-iradokizunak ez dira helbide-barran erakutsiko { -brand-short-name }(e)k historia inoiz ez gogoratzeko konfiguratu duzulako.
 search-one-click-header = Klik bakarreko bilaketa-motorrak
 search-one-click-header2 = Bilaketa-lasterbideak
@@ -1007,7 +1008,9 @@ content-blocking-etp-strict-desc = Babes sendoagoa baina zenbait gune edo eduki 
 content-blocking-etp-custom-desc = Aukeratu blokeatu beharreko jarraipen-elementu eta scriptak.
 content-blocking-private-windows = Edukiaren jarraipena leiho pribatuetan
 content-blocking-cross-site-cookies = Guneen arteko cookieak
+content-blocking-cross-site-cookies-in-all-windows = Guneen arteko cookieak leiho guztietan (jarraipen-cookieak barne)
 content-blocking-cross-site-tracking-cookies = Guneen arteko cookie jarraipen-egileak
+content-blocking-all-cross-site-cookies-private-windows = Guneen arteko cookieak leiho pribatuetan
 content-blocking-cross-site-tracking-cookies-plus-isolate = Guneen arteko jarraipen cookieak; bakartu gainerako cookieak
 content-blocking-social-media-trackers = Sare sozialetako jarraipen-elementuak
 content-blocking-all-cookies = Cookie guztiak
@@ -1191,6 +1194,8 @@ space-alert-under-5gb-message = { -brand-short-name } leku erabilgarririk gabe g
 space-alert-over-5gb-settings-button =
     .label = Ireki ezarpenak
     .accesskey = k
+space-alert-over-5gb-message2 = <strong>{ -brand-short-name } leku erabilgarririk gabe gelditzen ari da diskoan.</strong> Webgunearen edukiak agian ez dira ondo bistaratuko. Biltegiratutako datuak Ezarpenak > Pribatutasuna eta segurtasuna > Cookieak eta guneetako datuak atalean garbi ditzakezu.
+space-alert-under-5gb-message2 = <strong>{ -brand-short-name } leku erabilgarririk gabe gelditzen ari da diskoan.</strong> Webgunearen edukiak agian ez dira ondo bistaratuko. Bisitatu "Argibide gehiago" diskoaren erabilpena optimizatu eta nabigatze-esperientzia hobetzeko.
 
 ## Privacy Section - HTTPS-Only
 
