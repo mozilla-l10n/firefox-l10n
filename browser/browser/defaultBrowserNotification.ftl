@@ -14,6 +14,7 @@ default-browser-notification-button =
 
 default-browser-prompt-title-pin = Convertir a { -brand-short-name } nel restolador primariu?
 default-browser-prompt-button-primary-pin = Convertir
+default-browser-prompt-message-alt = Consigui velocidá, seguranza y privacidá cada vegada que restoles.
 default-browser-prompt-button-primary-alt = Predeterminar
 default-browser-prompt-checkbox-label = Nun entrugar más
 default-browser-prompt-button-secondary = Agora non
