@@ -275,9 +275,46 @@ menu-tools-fxa-re-auth =
 menu-tools-web-developer =
     .label = Wab Forderer
     .accesskey = W
+menu-tools-browser-tools =
+    .label = Wab-Stravaiger Tools
+    .accesskey = B
+menu-tools-task-manager =
+    .label = Task Manager
+    .accesskey = M
+menu-tools-page-source =
+    .label = Page Soorce
+    .accesskey = o
+menu-tools-page-info =
+    .label = Page Info
+    .accesskey = I
+menu-settings =
+    .label = Settins
+    .accesskey =
+        { PLATFORM() ->
+            [windows] S
+           *[other] n
+        }
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Options
+           *[other] Preferences
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] n
+        }
+menu-tools-layout-debugger =
+    .label = Layoot Bugdichter
+    .accesskey = L
 
 ## Window Menu
 
+menu-window-menu =
+    .label = Windae
+menu-window-bring-all-to-front =
+    .label = Bring Aw tae Front
 
 ## Help Menu
 
@@ -290,3 +327,52 @@ menu-tools-web-developer =
 # These strings are duplicated to allow for different casing depending on
 # where the strings appear.
 
+menu-help =
+    .label = Hauners
+    .accesskey = H
+menu-help-product =
+    .label = { -brand-shorter-name } Hauners
+    .accesskey = H
+menu-help-show-tour =
+    .label = { -brand-shorter-name } Daunder
+    .accesskey = o
+menu-help-import-from-another-browser =
+    .label = Inbring fae Anither Wab-Stravaiger
+    .accesskey = I
+menu-help-keyboard-shortcuts =
+    .label = Keybuird Shortcuts
+    .accesskey = K
+menu-help-troubleshooting-info =
+    .label = Fankle-fixin Information
+    .accesskey = T
+menu-get-help =
+    .label = Get Hauners
+    .accesskey = H
+menu-help-more-troubleshooting-info =
+    .label = Mair Fankle-fixin Information
+    .accesskey = T
+menu-help-report-site-issue =
+    .label = Report Site Issue…
+menu-help-feedback-page =
+    .label = Gie Feedback…
+    .accesskey = S
+menu-help-safe-mode-without-addons =
+    .label = Restert Wi Eik-ons Disabled…
+    .accesskey = R
+menu-help-safe-mode-with-addons =
+    .label = Restert Wi Eik-ons Enabled
+    .accesskey = R
+menu-help-enter-troubleshoot-mode2 =
+    .label = Fankle-fixin Mode…
+    .accesskey = M
+menu-help-exit-troubleshoot-mode =
+    .label = Turn Fankle-fixin Mode Aff
+    .accesskey = M
+# Label of the Help menu item. Either this or
+# menu-help-notdeceptive is shown.
+menu-help-report-deceptive-site =
+    .label = Report Begowkin Site...
+    .accesskey = D
+menu-help-not-deceptive =
+    .label = This Isnae a Begowkin Site…
+    .accesskey = D
