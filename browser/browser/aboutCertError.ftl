@@ -56,7 +56,7 @@ deniedPortAccess-title = ఈ చిరునామా నిషిద్దం
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = హ్మ్. ఆ సైటుని కనుక్కోవడం సమస్యగా ఉంది.
-fileNotFound-title = ఫైలు కనబడ లేదు
+fileNotFound-title = ఫైలు కనబడలేదు
 fileAccessDenied-title = ఫైలుకి ఆక్సెస్ తిరస్కరించబడింది
 generic-title = అయ్యో.
 captivePortal-title = నెట్వర్కులోనికి ప్రవేశించండి
