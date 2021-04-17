@@ -17,8 +17,8 @@ upgrade-dialog-new-title =
        *[other] nová aplikace { -brand-short-name }
     }
 upgrade-dialog-new-subtitle = Prohlížeč, který vás vezme, kam potřebujete, a rychle
-upgrade-dialog-new-item-menu-title = Nový panel nástrojů a nabídky pro snazší ovládání
-upgrade-dialog-new-item-menu-description = Dejte přednost důležitým věcem, ať najdete to, co potřebujete.
+upgrade-dialog-new-item-menu-title = Nové lišty a nabídky pro snazší ovládání
+upgrade-dialog-new-item-menu-description = Dávají přednost důležitým věcem, takže najdete, co potřebujete.
 upgrade-dialog-new-item-tabs-title = Moderní vzhled panelů
 upgrade-dialog-new-item-tabs-description = Obsahuje ty správné informace, podporuje soustředění a flexibilní ovládání.
 upgrade-dialog-new-item-icons-title = Svěží ikony a jasná sdělení
@@ -49,6 +49,13 @@ upgrade-dialog-new-primary-default-button =
         [neuter] { -brand-short-name(case: "acc") }
        *[other] aplikaci { -brand-short-name }
     } jako můj výchozí prohlížeč
+upgrade-dialog-new-primary-pin-button =
+    Připnout { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "acc") }
+        [feminine] { -brand-short-name(case: "acc") }
+        [neuter] { -brand-short-name(case: "acc") }
+       *[other] aplikaci { -brand-short-name }
+    } na lištu
 upgrade-dialog-new-primary-theme-button = Vybrat vzhled
 upgrade-dialog-new-secondary-button = Teď ne
 
@@ -60,5 +67,19 @@ upgrade-dialog-theme-title =
     novým vzhledem
 upgrade-dialog-theme-system = Barevný vzhled podle systému
     .title = Vzhled s barevným tématem podle nastavení operačního systému.
+upgrade-dialog-theme-light = Světlý
+    .title = Vzhled se světlým barevným tématem.
+upgrade-dialog-theme-dark = Tmavý
+    .title = Vzhled s tmavým barevným tématem.
+upgrade-dialog-theme-alpenglow = Alpenglow
+    .title = Vzhled s barevným tématem pro tlačítka, nabídky a okna.
+upgrade-dialog-theme-keep = Ponechat předchozí
+    .title =
+        Ponechat vzhled používaný před aktualizací { -brand-short-name.gender ->
+            [masculine] { -brand-short-name(case: "gen") }
+            [feminine] { -brand-short-name(case: "gen") }
+            [neuter] { -brand-short-name(case: "gen") }
+           *[other] aplikace { -brand-short-name }
+        }
 upgrade-dialog-theme-primary-button = Uložit vzhled
 upgrade-dialog-theme-secondary-button = Teď ne
