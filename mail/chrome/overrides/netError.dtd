@@ -67,7 +67,7 @@ que o &brandShortName; esteja autorizado a acessar a web.</li>
 <li>Por favor, contate os responsáveis pelo site para informá-los deste problema.</li> 
 </ul>">
 
-<!ENTITY unsafeContentType.title "Tipo de arquivo inseguro">
+<!ENTITY unsafeContentType.title "Tipo de arquivo não seguro">
 <!ENTITY unsafeContentType.longDesc "<ul> 
 <li>Por favor, contate os responsáveis pelo site para informá-los deste problema.</li> 
 </ul>">
