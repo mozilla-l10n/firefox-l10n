@@ -322,6 +322,7 @@ identity-https-only-info-turn-off2 = Ak sa zdá byť stránka nefunkčná, možn
 identity-https-only-info-no-upgrade = Nepodarilo sa zmeniť pripojenie z protokolu HTTP.
 identity-permissions-storage-access-header = Cookies tretích strán
 identity-permissions-storage-access-hint = Tieto weby môžu používať cookies tretích strán a počas návštevy tejto stránky pristupovať k údajom z nej.
+identity-permissions-storage-access-learn-more = Ďalšie informácie
 identity-permissions-reload-hint = Pre vykonanie zmien budete možno musieť stránku obnoviť.
 identity-permissions-empty = Tejto stránke ste neurčili žiadne špeciálne povolenia.
 identity-clear-site-data =
@@ -587,9 +588,6 @@ pointerlock-warning-no-domain = Tento dokument má kontrolu nad vaším kurzorom
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Časť tejto stránky zlyhala.</strong> Ak chcete, aby sa spoločnosť { -brand-product-name } dozvedela o tomto probléme a tento mohol byť rýchlejšie vyriešený, odošlite hlásenie.
-crashed-subframe-learnmore =
-    .label = Ďalšie informácie
-    .accesskey = l
 crashed-subframe-learnmore-link =
     .value = Ďalšie informácie
 crashed-subframe-submit =
@@ -602,8 +600,6 @@ bookmarks-show-all-bookmarks =
     .label = Zobraziť všetky záložky
 bookmarks-manage-bookmarks =
     .label = Správa záložiek
-bookmarks-recent-bookmarks-panel =
-    .value = Nedávno pridané medzi záložky
 bookmarks-recent-bookmarks-panel-subheader = Nedávno pridané medzi záložky
 bookmarks-toolbar-chevron =
     .tooltiptext = Zobraziť ďalšie záložky

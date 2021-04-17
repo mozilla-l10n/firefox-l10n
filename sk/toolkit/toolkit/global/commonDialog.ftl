@@ -6,3 +6,7 @@ common-dialog-title-null = Táto stránka hovorí
 common-dialog-title-system = { -brand-short-name }
 # Title displayed when the origin of a web dialog is unknown.
 common-dialog-title-unknown = Neznámy
+common-dialog-username =
+    .value = Používateľské meno
+common-dialog-password =
+    .value = Heslo
