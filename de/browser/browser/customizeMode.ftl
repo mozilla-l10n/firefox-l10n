@@ -49,3 +49,5 @@ customize-mode-lwthemes-my-themes =
     .value = Installiert
 customize-mode-touchbar-cmd =
     .label = Touch Bar anpassen…
+customize-mode-downloads-button-autohide =
+    .label = Schaltfläche nur bei vorhandenen Downloads anzeigen
