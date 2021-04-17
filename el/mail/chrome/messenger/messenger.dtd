@@ -438,7 +438,7 @@
 <!ENTITY markAsNotJunkCmd.label "Ως επιθυμητή αλληλογραφία">
 <!ENTITY markAsNotJunkCmd.accesskey "θ">
 <!ENTITY markAsNotJunkCmd.key "j">
-<!ENTITY recalculateJunkScoreCmd.label "Εκτέλεση ελέγχων ανεπιθύμητης αλληλογραφίας">
+<!ENTITY recalculateJunkScoreCmd.label "Έλεγχος για ανεπιθύμητα email">
 <!ENTITY recalculateJunkScoreCmd.accesskey "κ">
 <!ENTITY openMessageWindowCmd.label "Άνοιγμα μηνύματος">
 <!ENTITY openMessageWindowCmd.accesskey "ν">
@@ -496,7 +496,7 @@
 <!ENTITY filtersApplyToSelection.accesskey "κ">
 <!ENTITY filtersApplyToMessage.label "Εκτέλεση φίλτρων στο μήνυμα">
 <!ENTITY filtersApplyToMessage.accesskey "σ">
-<!ENTITY runJunkControls.label "Εκτέλεση ελέγχων ανεπιθύμητης αλληλογραφίας στα επιλεγμένα μηνύματα">
+<!ENTITY runJunkControls.label "Έλεγχος για ανεπιθύμητα email στον φάκελο">
 <!ENTITY runJunkControls.accesskey "κ">
 <!ENTITY deleteJunk.label "Διαγραφή σημειωμένου μηνύματος ως ανεπιθύμητο στο φάκελο">
 <!ENTITY deleteJunk.accesskey "ι">
@@ -625,7 +625,7 @@
 <!ENTITY appmenuEditMenu.label "Επεξεργασία">
 <!ENTITY appmenuToolbarLayout.label "Διάταξη γραμμής εργαλείων…">
 <!ENTITY appmenuSelectThread.label "Επιλογή νήματος">
-<!ENTITY appmenuSelectFlagged.label "Επιλέξτε μηνύματα με αστέρι">
+<!ENTITY appmenuSelectFlagged.label "Επιλογή μηνυμάτων με αστέρι">
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Νέα ετικέτα…">
