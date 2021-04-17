@@ -422,7 +422,7 @@ performance-allow-hw-accel =
     .accesskey = х
 performance-limit-content-process-option = Лимит процеса садржаја
     .accesskey = Л
-performance-limit-content-process-enabled-desc = Додатни процеси садржаја могу побољшати перформансе док користите више језичака, али ће такође користити више меморије.
+performance-limit-content-process-enabled-desc = Додатни процеси за обраду садржаја могу да побољшају перформансе када је отворено више картица, али ће користити више меморије.
 performance-limit-content-process-blocked-desc = Уређивање броја процеса садржаја је могуће само када је омогућен вишепроцесни { -brand-short-name }. <a data-l10n-name="learn-more">Сазнајте како да проверите да ли су мултипроцеси омогућени</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
