@@ -140,7 +140,7 @@ urlbar-popup-blocked =
 urlbar-autoplay-media-blocked =
     .tooltiptext = Блокирали сте аутоматско пуштање медија са звуком са овог веб-сајта.
 urlbar-canvas-blocked =
-    .tooltiptext = Блокирали сте екстрактовање података слике за овај веб сајт.
+    .tooltiptext = Блокирали сте издвајање података из canvas-а са овог веб-сајта.
 urlbar-midi-blocked =
     .tooltiptext = Блокирали сте MIDI приступ за овај веб сајт.
 urlbar-install-blocked =
@@ -536,7 +536,7 @@ urlbar-result-action-search-in-private = Претражите у приватн�
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Претражи у претраживачу { $engine }
 urlbar-result-action-sponsored = Спонзорисано
-urlbar-result-action-switch-tab = пређи на картицу
+urlbar-result-action-switch-tab = Пређи на картицу
 urlbar-result-action-visit = Посети
 # Directs a user to press the Tab key to perform a search with the specified
 # engine.
