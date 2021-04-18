@@ -61,6 +61,8 @@ options-screenshot-label = Screenshot Behaviour
 options-screenshot-clipboard-label = Screenshot to clipboard
 options-screenshot-clipboard-tooltip =
     .title = Saves to the screenshot directly to the clipboard
+options-screenshot-clipboard-tooltip2 =
+    .title = Saves the screenshot directly to the clipboard
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
 options-screenshot-audio-label = Play camera shutter sound
 options-screenshot-audio-tooltip =
@@ -85,7 +87,7 @@ options-sourceeditor-keybinding-default-label = Default
 
 ## Advanced section
 
-# The heading
+# The heading (this item is also used in perftools.ftl)
 options-context-advanced-settings = Advanced settings
 # The label for the checkbox that toggles the HTTP cache on or off
 options-disable-http-cache-label = Disable HTTP Cache (when toolbox is open)
