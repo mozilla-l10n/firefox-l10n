@@ -5,13 +5,17 @@
 
 ## App Menu
 
-appmenuitem-update-banner =
-    .label-update-downloading = Сцягваецца абнаўленне { -brand-shorter-name }
 appmenuitem-update-banner2 =
     .label-update-downloading = Сцягваецца абнаўленне { -brand-shorter-name }
     .label-update-available = Даступна абнаўленне — сцягнуць зараз
     .label-update-manual = Даступна абнаўленне — сцягнуць зараз
     .label-update-unsupported = Не ўдалося абнавіцца
+    .label-update-restart = Даступна абнаўленне — перазапусціць зараз
+appmenuitem-update-banner3 =
+    .label-update-downloading = Сцягваецца абнаўленне { -brand-shorter-name }
+    .label-update-available = Даступна абнаўленне — сцягнуць зараз
+    .label-update-manual = Даступна абнаўленне — сцягнуць зараз
+    .label-update-unsupported = Даступна абнаўленне — сістэма несумяшчальная
     .label-update-restart = Даступна абнаўленне — перазапусціць зараз
 appmenuitem-protection-dashboard-title = Панэль аховы
 appmenuitem-customize-mode =
@@ -25,8 +29,6 @@ appmenuitem-new-private-window =
     .label = Новае прыватнае акно
 appmenuitem-passwords =
     .label = Паролі
-appmenuitem-extensions-and-themes =
-    .label = Пашырэнні і тэмы
 appmenuitem-addons-and-themes =
     .label = Дадаткі і тэмы
 appmenuitem-find-in-page =
@@ -162,11 +164,6 @@ appmenu-about =
 appmenu-get-help =
     .label = Атрымаць дапамогу
     .accesskey = р
-appmenu-help-troubleshooting-info =
-    .label = Звесткі для вырашэння праблемаў
-    .accesskey = З
-appmenu-help-taskmanager =
-    .label = Менеджар задач
 appmenu-help-more-troubleshooting-info =
     .label = Звесткі для вырашэння праблемаў
     .accesskey = е
@@ -174,16 +171,6 @@ appmenu-help-report-site-issue =
     .label = Паведаміць аб праблеме з сайтам…
 appmenu-help-feedback-page =
     .label = Падаць водгук…
-    .accesskey = П
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Перазапусціць без дадаткаў…
-    .accesskey = П
-appmenu-help-safe-mode-with-addons =
-    .label = Перазапусціць з дадаткамі
     .accesskey = П
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode

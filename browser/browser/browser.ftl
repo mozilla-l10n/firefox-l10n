@@ -322,6 +322,7 @@ identity-https-only-info-turn-off2 = Калі старонка выглядае 
 identity-https-only-info-no-upgrade = Не ўдалося абнавіць злучэнне з HTTP.
 identity-permissions-storage-access-header = Міжсайтавыя кукі
 identity-permissions-storage-access-hint = Гэтыя ўдзельнікі могуць выкарыстоўваць міжсайтавыя кукі і дадзеныя сайта, пакуль вы знаходзіцеся на гэтым сайце.
+identity-permissions-storage-access-learn-more = Даведацца больш
 identity-permissions-reload-hint = Магчыма, вам спатрэбіцца перазагрузіць старонку, каб змены пачалі дзейнічаць.
 identity-permissions-empty = Вы не давалі гэтаму сайту ніякіх адмысловых дазволаў.
 identity-clear-site-data =
@@ -587,9 +588,6 @@ pointerlock-warning-no-domain = Гэты дакумент кіруе вашым 
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Частка гэтай старонкі пацярпела крах.</strong> Каб паведаміць { -brand-product-name } пра гэту праблему і паскорыць выпраўленне, адпраўце справаздачу.
-crashed-subframe-learnmore =
-    .label = Даведацца больш
-    .accesskey = Д
 crashed-subframe-learnmore-link =
     .value = Даведацца больш
 crashed-subframe-submit =
@@ -602,8 +600,6 @@ bookmarks-show-all-bookmarks =
     .label = Паказаць усе закладкі
 bookmarks-manage-bookmarks =
     .label = Кіраванне закладкамі
-bookmarks-recent-bookmarks-panel =
-    .value = Нядаўнія закладкі
 bookmarks-recent-bookmarks-panel-subheader = Нядаўнія закладкі
 bookmarks-toolbar-chevron =
     .tooltiptext = Паказаць больш закладак
