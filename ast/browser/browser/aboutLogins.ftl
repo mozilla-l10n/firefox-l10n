@@ -103,6 +103,7 @@ login-item-copied-password-button-text = ¡Copióse!
 login-item-save-changes-button = Guardar los cambeos
 login-item-save-new-button = Guardar
 login-item-cancel-button = Encaboxar
+login-item-time-changed = Última modificación: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
 login-item-time-created = Data de creación: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = Últimu usu: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
@@ -340,6 +341,11 @@ about-logins-import-report-added =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Aniciu de sesión nuevu</div>
        *[other] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Anicios de sesión nuevos</div>
+    }
+about-logins-import-report-modified =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Aniciu de sesión anováu</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Anicios de sesión anovaos</div>
     }
 
 ## Logins import report page
