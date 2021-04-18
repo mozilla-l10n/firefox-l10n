@@ -5,12 +5,12 @@
 places-open =
     .label = Wočinić
     .accesskey = o
-places-open-tab =
-    .label = W nowym rajtarku wočinić
-    .accesskey = r
 places-open-in-tab =
     .label = W nowym rajtarku wočinić
     .accesskey = n
+places-open-tab =
+    .label = W nowym rajtarku wočinić
+    .accesskey = r
 places-open-all-bookmarks =
     .label = Wšě zapołožki wočinić
     .accesskey = z
@@ -20,9 +20,15 @@ places-open-all-in-tabs =
 places-open-window =
     .label = W nowym woknje wočinić
     .accesskey = k
+places-open-in-window =
+    .label = W nowym woknje wočinić
+    .accesskey = o
 places-open-private-window =
     .label = W nowym priwatnym woknje wočinić
     .accesskey = n
+places-open-in-private-window =
+    .label = W nowym priwatnym woknje wočinić
+    .accesskey = r
 places-new-bookmark =
     .label = Nowa zapołožka…
     .accesskey = N
@@ -35,12 +41,6 @@ places-new-folder =
 places-new-separator =
     .label = Nowa dźělenska linija
     .accesskey = l
-places-open-in-window =
-    .label = W nowym woknje wočinić
-    .accesskey = o
-places-open-in-private-window =
-    .label = W nowym priwatnym woknje wočinić
-    .accesskey = r
 places-add-bookmark =
     .label = Zapołožku přidać…
     .accesskey = Z
@@ -91,6 +91,19 @@ places-edit-bookmark =
 places-edit-generic =
     .label = Wobdźěłać…
     .accesskey = d
+places-edit-folder =
+    .label = Rjadowak přemjenować…
+    .accesskey = R
+places-remove-folder =
+    .label =
+        { $count ->
+            [1] Rjadowak wotstronić
+            [one] Rjadowak wotstronić
+            [two] Rjadowakaj wotstronić
+            [few] Rjadowaki wotstronić
+           *[other] Rjadowaki wotstronić
+        }
+    .accesskey = s
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Rjadowane zapołožki

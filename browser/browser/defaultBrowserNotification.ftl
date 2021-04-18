@@ -18,5 +18,5 @@ default-browser-prompt-button-primary-pin = K primarnemu wobhladowakej činić
 default-browser-prompt-title-alt = Chceće { -brand-short-name } k swojemu standardnemu wobhladowakej činić?
 default-browser-prompt-message-alt = Dóstanće spěšnosć, wěstotu a priwatnosć kóždy raz, hdyž přehladujeće.
 default-browser-prompt-button-primary-alt = Jako standardny wobhladowak nastajić
-default-browser-prompt-checkbox-label = Hižo so njeprašeć
+default-browser-prompt-checkbox-not-again-label = Tutu zdźělenku hižo njepokazać
 default-browser-prompt-button-secondary = Nic nětko
