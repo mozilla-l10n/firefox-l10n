@@ -153,7 +153,7 @@ master-password-reload-button =
 enable-password-sync-notification-message =
     { PLATFORM() ->
         [windows] { -brand-product-name } erabiltzen duzun toki orotan izan nahi dituzu zure saio-hasierak? Zoaz zure { -sync-brand-short-name } aukeretara eta hautatu 'Saio-hasierak' kontrol-laukia.
-       *[other] { -brand-product-name } erabiltzen duzun toki orotan izan nahi dituzu zure saio-hasierak? Zoaz zure { -sync-brand-short-name } ezarpenetara eta hautatu 'Saio-hasierak' kontrol-laukia.
+       *[other] { -brand-product-name } erabiltzen duzun toki orotan izan nahi dituzu zure saio-hasierak? Zoaz zure { -sync-brand-short-name } hobespenetara eta hautatu 'Saio-hasierak' kontrol-laukia.
     }
 enable-password-sync-preferences-button =
     .label =
