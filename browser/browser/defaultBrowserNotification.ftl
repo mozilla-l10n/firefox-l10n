@@ -18,5 +18,5 @@ default-browser-prompt-button-primary-pin = 기본 브라우저로 설정
 default-browser-prompt-title-alt = { -brand-short-name }를 기본 브라우저로 설정하시겠습니까?
 default-browser-prompt-message-alt = 탐색할 때마다 속도, 안전 및 개인 정보 보호 기능이 제공됩니다.
 default-browser-prompt-button-primary-alt = 기본 브라우저로 설정
-default-browser-prompt-checkbox-label = 다시 묻지 않기
+default-browser-prompt-checkbox-not-again-label = 이 메시지를 다시 표시 안 함
 default-browser-prompt-button-secondary = 나중에
