@@ -325,6 +325,7 @@ identity-https-only-info-turn-off2 = Če se zdi stran pokvarjena, lahko poskusit
 identity-https-only-info-no-upgrade = Povezave ni mogoče nadgraditi s HTTP.
 identity-permissions-storage-access-header = Spletni piškotki
 identity-permissions-storage-access-hint = Te stranke lahko uporabljajo spletne piškotke in podatke strani, medtem ko ste vi na tej strani.
+identity-permissions-storage-access-learn-more = Več o tem
 identity-permissions-reload-hint = Za uveljavitev sprememb boste morda morali ponovno naložiti stran.
 identity-permissions-empty = Tej strani niste dodelili posebnih dovoljenj.
 identity-clear-site-data =
@@ -593,9 +594,6 @@ pointerlock-warning-no-domain = Ta dokument ima nadzor nad vašim kazalcem. Prit
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Del te strani se je sesul.</strong> Pošljite { -brand-product-name }u poročilo, da ga obvestite  o težavi in mu jo pomagate hitreje odpraviti.
-crashed-subframe-learnmore =
-    .label = Več o tem
-    .accesskey = V
 crashed-subframe-learnmore-link =
     .value = Več o tem
 crashed-subframe-submit =
@@ -608,8 +606,6 @@ bookmarks-show-all-bookmarks =
     .label = Prikaži vse zaznamke
 bookmarks-manage-bookmarks =
     .label = Upravljanje zaznamkov
-bookmarks-recent-bookmarks-panel =
-    .value = Nedavni zaznamki
 bookmarks-recent-bookmarks-panel-subheader = Nedavni zaznamki
 bookmarks-toolbar-chevron =
     .tooltiptext = Prikaži več zaznamkov
