@@ -118,11 +118,20 @@ Somewey or anither <p>&brandShortName; cannae load this page.</p>
 </ul>
 ">
 
+<!ENTITY nssFailure2.longDesc2 "
+<ul>
+  <li>The page yer tryin tae view cannae be shawn acause the authenticity o the receivit data couldnae be trystmakkit.</li>
+  <li>Please get in touch wi the wabsite owners fur tae lat them ken anent this problem.</li>
+</ul>
+">
 
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
+<!ENTITY certerror.introPara2 "&brandShortName; detectit a potential siccarness threat and didnae gang on tae <span class='hostname'/>. Gin ye gang ontae this site, ondingers could ettle at stealin information like yer passwirds, emails, or credit caird parteeculars.">
+<!ENTITY certerror.sts.introPara "&brandShortName; detectit a potential siccarness threat and didnae gang on tae <span class='hostname'/> acause this wabsite requires a siccar connection.">
 
+<!ENTITY certerror.expiredCert.introPara "&brandShortName; detectit an issue and didnae gang on tae <span class='hostname'/>. The wabsite is either wrangly configured or yer computer clock is set tae the wrang time.">
 
 
 
