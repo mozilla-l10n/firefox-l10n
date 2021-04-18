@@ -24,7 +24,7 @@
 <ul>
   <li>Try again later on.</li>
   <li>Hae a luik at yer netwark connection.</li>
-  <li>Gin yer connectit but ahint a firewaw, mak siccar that &brandShortName; has permission tae access the Wab.</li>
+  <li>Gin yer connectit but ahint a firewaw, mak siccar that &brandShortName; has permeesion tae access the Wab.</li>
 </ul>
 ">
 
@@ -80,10 +80,43 @@ Somewey or anither <p>&brandShortName; cannae load this page.</p>
 
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
+<!ENTITY unknownProtocolFound.longDesc "
+<ul>
+  <li>Ye micht need tae instaw ither saftware fur tae open this address.</li>
+</ul>
+">
 
+<!ENTITY proxyConnectFailure.longDesc "
+<ul>
+  <li>Check the proxy settins fur tae mak siccar that they are correct.</li>
+  <li>Get in touch wi yer netwark admeenistrator fur tae mak siccar the proxy server is
+    wirkin.</li>
+</ul>
+">
 
+<!ENTITY proxyResolveFailure.longDesc "
+<ul>
+  <li>Check the proxy settins fur tae mak siccar that they are correct.</li>
+  <li>Check fur tae mak siccar yer computer has a wirkin netwark connection.</li>
+  <li>Gin yer computer or netwark is bieldit by a firewaw or proxy, mak siccar
+    that &brandShortName; is allooed ingang tae the Wab.</li>
+</ul>
+">
 
+<!ENTITY redirectLoop.longDesc "
+<ul>
+  <li>This problem can whiles be causit by turnin aff or no acceptin
+    cookies.</li>
+</ul>
+">
 
+<!ENTITY unknownSocketType.longDesc "
+<ul>
+  <li>Check fur tae mak siccar yer system has the Personal Security Manager
+    instawed.</li>
+  <li>This micht be acause o a non-staunart configuration on the server.</li>
+</ul>
+">
 
 
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
