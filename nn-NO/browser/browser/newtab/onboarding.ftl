@@ -263,6 +263,13 @@ onboarding-multistage-theme-description-alpenglow =
 
 mr1-onboarding-set-default-secondary-button-label = Ikkje no
 mr1-onboarding-sign-in-button-label = Logg inn
+mr1-onboarding-import-secondary-button-label = Ikkje no
+mr1-onboarding-theme-primary-button-label = Lagre tema
+mr1-onboarding-theme-secondary-button-label = Ikkje no
+# System theme uses operating system color settings
+mr1-onboarding-theme-label-system = Systemtema
+mr1-onboarding-theme-label-light = Lyst
+mr1-onboarding-theme-label-dark = Mørkt
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
