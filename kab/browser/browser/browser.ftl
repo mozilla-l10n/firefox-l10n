@@ -319,6 +319,7 @@ identity-https-only-info-turn-off2 = Ma asebter yettban yerreẓ, tzemreḍ ad t
 identity-https-only-info-no-upgrade = Aleqqem n tuggna seg HTTP d awezɣi.
 identity-permissions-storage-access-header = Inagan n tuqqna gar yismal
 identity-permissions-storage-access-hint = Imdanen-a zemren ad sxedmen inagan n tuqqna n gar yismal d yisefka n usmel mi ara tiliḍ deg usmel-a.
+identity-permissions-storage-access-learn-more = Issin ugar
 identity-permissions-reload-hint = Ahat tesriḍ ad d-tessaliḍ tikelt-nniḍen asebter akken ad yemmed wayen i tbeddleḍ.
 identity-permissions-empty = Ur tefkiḍ ara kra n tsiregt i usmel-a.
 identity-clear-site-data =
@@ -581,9 +582,6 @@ pointerlock-warning-no-domain = Isemli-a yeṭṭef asewwaṛ-ik. Sit ɣef Esc a
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Aḥric seg usebter-a yerreẓ.</strong> I wakken ad iẓer { -brand-product-name } ɣef wugur-a, ad t-iṣeggem s zzerb, ttxil-k·m azen aneqqis.
-crashed-subframe-learnmore =
-    .label = Issin ugar
-    .accesskey = I
 crashed-subframe-learnmore-link =
     .value = Issin ugar
 crashed-subframe-submit =
@@ -596,8 +594,6 @@ bookmarks-show-all-bookmarks =
     .label = Sken akk ticraḍ n yisebtar
 bookmarks-manage-bookmarks =
     .label = Sefrek ticraḍ n yisebtar
-bookmarks-recent-bookmarks-panel =
-    .value = Ticraḍ n yisebtar n melmi kan
 bookmarks-recent-bookmarks-panel-subheader = Ticraḍ n yisebtar n melmi kan
 bookmarks-toolbar-chevron =
     .tooltiptext = Sken ugar n tecraḍ n yisebtar

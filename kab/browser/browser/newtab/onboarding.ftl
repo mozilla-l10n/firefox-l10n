@@ -200,7 +200,6 @@ onboarding-welcome-steps-indicator =
 # automatically added to the text inside it. "look" should stay inside the span.
 onboarding-multistage-theme-header = Fren <span data-l10n-name="zap">udem</span>
 onboarding-multistage-theme-subtitle = Err { -brand-short-name } d udmawan s usentel.
-onboarding-multistage-theme-primary-button-label = Kles asentel
 onboarding-multistage-theme-primary-button-label2 = Immed
 onboarding-multistage-theme-secondary-button-label = Mačči tura
 # Automatic theme uses operating system color settings
@@ -255,3 +254,18 @@ onboarding-multistage-theme-description-alpenglow =
     .aria-description =
         Seqdec arwes s yiniten i tqeffalin,
         i wumuɣen d yisfuyla.
+
+## Multistage MR1 onboarding strings (MR1 about:welcome pages)
+
+mr1-onboarding-theme-primary-button-label = Sekles asentel
+mr1-onboarding-theme-secondary-button-label = Mačči tura
+# System theme uses operating system color settings
+mr1-onboarding-theme-label-system = Asentel n unagraw
+mr1-onboarding-theme-label-light = Aceɛlal
+mr1-onboarding-theme-label-dark = Aberkan
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
