@@ -26,6 +26,7 @@ about-processes-column-cpu-total = PUZa
 ##    $type (String) The raw type for this process. Used for unknown processes.
 
 about-processes-browser-process-name = { -brand-short-name } ({ $pid } prozesua)
+about-processes-extension-process-name = Hedapenak ({ $pid } prozesua)
 
 ## Details within processes
 

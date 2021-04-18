@@ -6,14 +6,13 @@ head-title = Garatzaile-tresnei buruz
 enable-title = Gaitu Firefoxen garapen-tresnak
 enable-inspect-element-title = Elementuak ikuskatzekoa erabili ahal izateko, gaitu Firefoxen garatzaile-tresnak
 enable-inspect-element-message = Aztertu eta editatu HTML eta CSS kodea garatzaile-tresnen ikuskatzailearekin.
-enable-about-debugging-message = Garatu eta araztu WebExtensions gehigarriak, web langileak, zerbitzu-langileak eta gehiago Firefoxen garatzaile-tresnak erabilita.
+enable-about-debugging-message = Garatu eta araztu WebExtensions hedapenak, web langileak, zerbitzu-langileak eta gehiago Firefoxen garatzaile-tresnak erabilita.
 enable-key-shortcut-message = Garatzaile-tresnen lasterbidea aktibatu duzu. Nahi gabe izan bada, fitxa hau itxi dezakezu.
 enable-menu-message = Hobetu zure webgunearen HTML, CSS eta JavaScript kodea ikuskatzailearen eta araztailearen laguntzaz.
 enable-common-message = Zure nabigatzailearen gaineko kontrol gehiago emateko, Firefoxen garatzaile-tresnak desgaituta daude lehenespenez.
 enable-learn-more-link = Garatzaile-tresnei buruzko argibide gehiago
 enable-enable-button = Gaitu garatzaile-tresnak
 enable-close-button = Itxi fitxa hau
-
 welcome-title = Ongi etorri Firefoxen garapen-tresnetara!
 newsletter-title = Mozillako garatzaileen buletina
 newsletter-message = Jaso garatzaileen berriak, trikimailuak eta baliabideak zuzenean zure sarrera-ontzian.
@@ -23,11 +22,9 @@ newsletter-privacy-label = Ados nago Mozillak nire informazioa erabiltzea <a dat
 newsletter-subscribe-button = Harpidetu
 newsletter-thanks-title = Eskerrik asko!
 newsletter-thanks-message = Ez baduzu inoiz berretsi Mozillarekin lotutako buletin baterako harpidetzarik, orain egin beharko duzu. Begiratu zure sarrera-ontzian edo zabor-postan gure mezua aurkitzeko.
-
 footer-title = Firefox Developer Edition
 footer-message = Garatzaile-tresnak baino zerbait gehiagoren bila? Begiratu preseski garatzaile eta lan-fluxu modernoentzat eraikitako Firefox nabigatzailea.
 footer-learn-more-link = Argibide gehiago
-
 features-learn-more = Argibide gehiago
 features-inspector-title = Ikuskatzailea
 features-inspector-desc = Ikuskatu eta birfindu kodea diseinu pixel-perfektuak sortzeko. <a data-l10n-name="learn-more">{ features-learn-more }</a>

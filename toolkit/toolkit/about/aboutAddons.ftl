@@ -38,7 +38,7 @@ addons-settings-button = { -brand-short-name } ezarpenak
 sidebar-settings-button-title =
     .title = { -brand-short-name } ezarpenak
 show-unsigned-extensions-button =
-    .label = Zenbait gehigarri ezin izan dira egiaztatu
+    .label = Zenbait hedapen ezin izan dira egiaztatu
 show-all-extensions-button =
     .label = Erakutsi gehigarri guztiak
 cmd-show-details =
@@ -376,7 +376,7 @@ addon-badge-recommended2 =
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
-    .title = Mozillak sortutako gehigarri ofiziala. Segurtasun- eta errendimendu-estandarrak betetzen ditu
+    .title = Mozillak sortutako hedapen ofiziala. Segurtasun- eta errendimendu-estandarrak betetzen ditu
     .aria-label = { addon-badge-line3.title }
 addon-badge-verified2 =
     .title = Gehigarri hau berrikusi egin da gure segurtasun- eta errendimendu-estandarrak betetzeko
