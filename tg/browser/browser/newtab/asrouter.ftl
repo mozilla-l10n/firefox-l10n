@@ -155,6 +155,8 @@ cfr-doorhanger-socialtracking-ok-button = Намоиши муҳофизатҳо
     .accesskey = Н
 cfr-doorhanger-socialtracking-close-button = Пӯшидан
     .accesskey = П
+cfr-doorhanger-socialtracking-dont-show-again = Чунин паёмҳо дигар нишон дода нашаванд
+    .accesskey = Ч
 
 ## Enhanced Tracking Protection Milestones
 
@@ -194,8 +196,6 @@ cfr-whatsnew-protections-icon-alt = Нишони сипар
 
 ## DOH Message
 
-cfr-doorhanger-doh-primary-button = Хуб, фаҳмидам
-    .accesskey = Х
 cfr-doorhanger-doh-primary-button-2 = Хуб
     .accesskey = Х
 cfr-doorhanger-doh-secondary-button = Ғайрифаъол кардан

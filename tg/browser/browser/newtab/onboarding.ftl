@@ -122,7 +122,6 @@ onboarding-multistage-import-secondary-button-label = Ҳоло не
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "look" should stay inside the span.
 onboarding-multistage-theme-header = <span data-l10n-name="zap">Намуди зоҳириеро</span> интихоб намоед
-onboarding-multistage-theme-primary-button-label = Нигоҳ доштани мавзӯъ
 onboarding-multistage-theme-primary-button-label2 = Тайёр
 onboarding-multistage-theme-secondary-button-label = Ҳоло не
 # Automatic theme uses operating system color settings
@@ -131,6 +130,18 @@ onboarding-multistage-theme-label-light = Равшан
 onboarding-multistage-theme-label-dark = Торик
 # "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
 onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
+
+## Multistage MR1 onboarding strings (MR1 about:welcome pages)
+
+mr1-onboarding-set-default-secondary-button-label = Ҳоло не
+mr1-onboarding-import-secondary-button-label = Ҳоло не
+mr1-onboarding-theme-secondary-button-label = Ҳоло не
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip

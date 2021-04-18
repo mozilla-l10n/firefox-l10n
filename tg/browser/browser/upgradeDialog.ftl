@@ -14,3 +14,4 @@ upgrade-dialog-new-secondary-button = Ҳоло не
 
 ## Theme selection screen
 
+upgrade-dialog-theme-secondary-button = Ҳоло не
