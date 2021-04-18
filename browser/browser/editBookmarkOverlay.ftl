@@ -49,4 +49,4 @@ bookmark-overlay-keyword-2 =
     .value = Pled magic
     .accesskey = g
 bookmark-overlay-tags-caption-label = Utilisescha chavazzins per organisar e tschertgar segnapaginas ord la trav d'adressas
-bookmark-overlay-keyword-caption-label = Utilisescha pleds magics per avrir segnapaginas directamain ord la trav d'adressas
+bookmark-overlay-keyword-caption-label-2 = Utilisescha in singul pled magic per avrir segnapaginas directamain ord la trav d'adressas

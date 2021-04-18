@@ -18,5 +18,5 @@ default-browser-prompt-button-primary-pin = Definir sco navigatur principal
 default-browser-prompt-title-alt = Definir { -brand-short-name } sco navigatur da standard?
 default-browser-prompt-message-alt = Va per sveltezza, segirezza e sfera privata durant che ti navigheschas.
 default-browser-prompt-button-primary-alt = Definir sco navigatur da standard
-default-browser-prompt-checkbox-label = Betg pli dumandar
+default-browser-prompt-checkbox-not-again-label = Betg pli mussar quest messadi
 default-browser-prompt-button-secondary = Betg ussa
