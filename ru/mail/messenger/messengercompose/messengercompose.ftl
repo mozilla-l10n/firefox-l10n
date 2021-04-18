@@ -123,3 +123,11 @@ move-attachment-last-panel-button =
 button-return-receipt =
     .label = Уведомление о прочтении
     .tooltiptext = Запросить уведомление о прочтении этого сообщения
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+consider-bcc-notification = { $count } адресата(ов) в полях «Кому» и «Копия» могут видеть адреса друг друга. Вы можете избежать раскрытия адресата(ов), используя вместо этого «Скрытую копию».
+many-public-recipients-bcc =
+    .label = Использовать «Скрытую копию»
+    .accesskey = п
+many-public-recipients-ignore =
+    .label = Позволить адресатам видеть адреса друг друга
+    .accesskey = в
