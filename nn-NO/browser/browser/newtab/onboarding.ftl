@@ -300,3 +300,33 @@ mr1-onboarding-theme-label-alpenglow = Alpenglow
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of light theme
+mr1-onboarding-theme-tooltip-light =
+    .title =
+        Bruk eit lyst tema for knappar,
+        menyar og vindauge.
+# Input description for light theme
+mr1-onboarding-theme-description-light =
+    .aria-description =
+        Bruk eit lyst tema for knappar,
+        menyar og vindauge.
+# Tooltip displayed on hover of dark theme
+mr1-onboarding-theme-tooltip-dark =
+    .title =
+        Bruk eit mørt tema for knappar,
+        menyar og vindauge.
+# Input description for dark theme
+mr1-onboarding-theme-description-dark =
+    .aria-description =
+        Bruk eit mørt tema for knappar,
+        menyar og vindauge.
+# Tooltip displayed on hover of Alpenglow theme
+mr1-onboarding-theme-tooltip-alpenglow =
+    .title =
+        Bruk eit dynamisk, fargerikt tema for knappar,
+        menyar og vindauge.
+# Input description for Alpenglow theme
+mr1-onboarding-theme-description-alpenglow =
+    .aria-description =
+        Bruk eit dynamisk, fargerikt tema for knappar,
+        menyar og vindauge.
