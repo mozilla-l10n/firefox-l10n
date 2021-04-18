@@ -18,5 +18,5 @@ default-browser-prompt-button-primary-pin = Render navigator primari
 default-browser-prompt-title-alt = Render { -brand-short-name } tu navigator primari?
 default-browser-prompt-message-alt = Obtene velocitate, securitate e confidentialitate cata vice que tu naviga.
 default-browser-prompt-button-primary-alt = Eliger como navigator predefinite
-default-browser-prompt-checkbox-label = Non plus demandar.
+default-browser-prompt-checkbox-not-again-label = Non monstrar me iste message de novo
 default-browser-prompt-button-secondary = Non ora

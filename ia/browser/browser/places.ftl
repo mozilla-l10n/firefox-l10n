@@ -5,12 +5,12 @@
 places-open =
     .label = Aperir
     .accesskey = A
-places-open-tab =
-    .label = Aperir in un nove scheda
-    .accesskey = s
 places-open-in-tab =
     .label = Aperir in un nove scheda
     .accesskey = v
+places-open-tab =
+    .label = Aperir in un nove scheda
+    .accesskey = s
 places-open-all-bookmarks =
     .label = Aperir tote le marcapaginas
     .accesskey = A
@@ -20,7 +20,13 @@ places-open-all-in-tabs =
 places-open-window =
     .label = Aperir in un nove fenestra
     .accesskey = f
+places-open-in-window =
+    .label = Aperir in un nove fenestra
+    .accesskey = n
 places-open-private-window =
+    .label = Aperir in un nove fenestra private
+    .accesskey = p
+places-open-in-private-window =
     .label = Aperir in un nove fenestra private
     .accesskey = p
 places-new-bookmark =
@@ -35,12 +41,6 @@ places-new-folder =
 places-new-separator =
     .label = Nove separator
     .accesskey = S
-places-open-in-window =
-    .label = Aperir in un nove fenestra
-    .accesskey = n
-places-open-in-private-window =
-    .label = Aperir in un nove fenestra private
-    .accesskey = p
 places-add-bookmark =
     .label = Adder marcapagina…
     .accesskey = m
@@ -91,6 +91,16 @@ places-edit-bookmark =
 places-edit-generic =
     .label = Rediger…
     .accesskey = i
+places-edit-folder =
+    .label = Renominar plica…
+    .accesskey = R
+places-remove-folder =
+    .label =
+        { $count ->
+            [1] Remover plica
+           *[other] Remover plicas
+        }
+    .accesskey = v
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Marcapaginas gerite
