@@ -30,6 +30,8 @@ about-telemetry-filter-placeholder =
     .placeholder = Atopar en { $selectedTitle }
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-data-sidebar = datos actuales
+# button label to copy the histogram
+about-telemetry-histogram-copy = Copiar
 about-telemetry-keys-header = Propiedá
 about-telemetry-names-header = Nome
 about-telemetry-values-header = Valor
