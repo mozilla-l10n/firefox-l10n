@@ -49,3 +49,5 @@ customize-mode-lwthemes-my-themes =
     .value = Мае тэмы
 customize-mode-touchbar-cmd =
     .label = Уладкаваць сенсарную панэль…
+customize-mode-downloads-button-autohide =
+    .label = Хаваць кнопку, калі спіс пусты
