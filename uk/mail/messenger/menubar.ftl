@@ -46,3 +46,18 @@ toolbar-delete-button =
 toolbar-undelete-button =
     .label = Відновити
     .tooltiptext = Відновити вибрані повідомлення
+
+## View / Layout
+
+mail-uidensity-label =
+    .label = Щільність
+    .accesskey = і
+mail-uidensity-compact =
+    .label = Компактна
+    .accesskey = К
+mail-uidensity-normal =
+    .label = Звичайна
+    .accesskey = З
+mail-uidensity-touch =
+    .label = Дотик
+    .accesskey = о
