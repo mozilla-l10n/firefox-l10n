@@ -46,3 +46,18 @@ toolbar-delete-button =
 toolbar-undelete-button =
     .label = Wobnowić
     .tooltiptext = Wubrane powěsće wobnowić
+
+## View / Layout
+
+mail-uidensity-label =
+    .label = Hustosć
+    .accesskey = H
+mail-uidensity-compact =
+    .label = Kompaktny
+    .accesskey = K
+mail-uidensity-normal =
+    .label = Normalny
+    .accesskey = N
+mail-uidensity-touch =
+    .label = Dótk
+    .accesskey = D
