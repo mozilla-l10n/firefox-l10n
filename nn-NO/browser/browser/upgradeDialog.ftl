@@ -8,6 +8,9 @@
 
 ## New changes screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-new-title = Sei hei til nye { -brand-short-name }
+upgrade-dialog-new-item-tabs-title = Moderne faner
 upgrade-dialog-new-primary-primary-button = Vel { -brand-short-name } som standardnettlesar
     .title = Stiller inn { -brand-short-name } som standardnettlesar og festar han til oppgåvelinja
 upgrade-dialog-new-primary-default-button = Vel { -brand-short-name } som stanardnettlesar

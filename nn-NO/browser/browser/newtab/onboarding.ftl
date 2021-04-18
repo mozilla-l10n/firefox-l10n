@@ -261,11 +261,22 @@ onboarding-multistage-theme-description-alpenglow =
 
 ## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 
+# "Hero Text" displayed on left side of welcome screen.
+# The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
+# It also signals the passion users bring to Firefox, how they use
+# Firefox to pursue those passions, as well as the boldness in their
+# choice to use Firefox over a larger competitor browser.
+# An alternative title for localization is: "It starts here".
+mr1-welcome-screen-hero-text = Det byrjar her
+# This button will open system settings to turn on prefers-reduced-motion
+mr1-onboarding-reduce-motion-button-label = Slå av animasjonar
+mr1-onboarding-welcome-header = Velkomen til { -brand-short-name }
 mr1-onboarding-set-default-pin-primary-button-label = Vel { -brand-short-name } som standardnettlesar
     .title = Stiller innn { -brand-short-name } som standardnettlesar og festar han til oppgåvelinja
 mr1-onboarding-set-default-only-primary-button-label = Vel { -brand-short-name } som stanardnettlesar
 mr1-onboarding-set-default-secondary-button-label = Ikkje no
 mr1-onboarding-sign-in-button-label = Logg inn
+mr1-onboarding-import-header = Ta med deg alt
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
@@ -273,6 +284,8 @@ mr1-onboarding-import-primary-button-label-attribution = Importer frå { $previo
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = Importer frå tidlegare nettlesar
 mr1-onboarding-import-secondary-button-label = Ikkje no
+mr1-onboarding-theme-header = Gjer han til din eigen
+mr1-onboarding-theme-subtitle = Tilpass { -brand-short-name } med eit tema.
 mr1-onboarding-theme-primary-button-label = Lagre tema
 mr1-onboarding-theme-secondary-button-label = Ikkje no
 # System theme uses operating system color settings
