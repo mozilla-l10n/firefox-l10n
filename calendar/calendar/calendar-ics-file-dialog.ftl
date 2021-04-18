@@ -14,6 +14,18 @@ calendar-ics-file-dialog-message-2 = นำเข้าจากไฟล์…
 calendar-ics-file-dialog-calendar-menu-label = นำเข้าสู่ปฏิทิน:
 calendar-ics-file-dialog-items-loading-message =
     .value = กำลังโหลดรายการ…
+calendar-ics-file-dialog-search-input =
+    .placeholder = กรองรายการ…
+calendar-ics-file-dialog-sort-start-ascending =
+    .label = เรียงตามวันเริ่ม (หัวถึงท้าย)
+# "A > Z" is used as a concise way to say "alphabetical order".
+# You may replace it with something appropriate to your language.
+calendar-ics-file-dialog-sort-title-ascending =
+    .label = เรียงตามหัวเรื่อง (ก > ฮ)
+# "Z > A" is used as a concise way to say "reverse alphabetical order".
+# You may replace it with something appropriate to your language.
+calendar-ics-file-dialog-sort-title-descending =
+    .label = เรียงตามหัวเรื่อง (ฮ > ก)
 calendar-ics-file-dialog-progress-message = กำลังนำเข้า…
 calendar-ics-file-import-success = นำเข้าเรียบร้อย!
 calendar-ics-file-import-error = เกิดข้อผิดพลาดและการนำเข้าล้มเหลว
