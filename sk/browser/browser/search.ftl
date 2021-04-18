@@ -9,7 +9,7 @@
 ## $location-url (String) - the URL of the OpenSearch engine that was attempted to be installed.
 
 opensearch-error-duplicate-title = Chyba pri inštalácii
-opensearch-error-duplicate-desc = Aplikácii { -brand-short-name } sa nepodarilo nainštalovať vyhľadávací modul z „{ $location-url }“, pretože modul s rovnakým názvom už existuje.
+opensearch-error-duplicate-desc = Aplikácii { -brand-short-name } sa nepodarilo nainštalovať vyhľadávací modul z  “{ $location-url }”, pretože modul s rovnakým názvom už existuje.
 opensearch-error-format-title = Neplatný formát
 opensearch-error-format-desc = Aplikácii { -brand-short-name } sa nepodarilo nainštalovať vyhľadávací modul z { $location-url }
 opensearch-error-download-title = Chyba pri preberaní
