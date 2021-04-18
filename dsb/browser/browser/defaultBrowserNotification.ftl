@@ -18,5 +18,5 @@ default-browser-prompt-button-primary-pin = K primarnemu wobglědowakoju cyniś
 default-browser-prompt-title-alt = { -brand-short-name } k swójomu standardnemu wobglědowakoju cyniś?
 default-browser-prompt-message-alt = Dostańśo malsnosć, wěstotu a priwatnosć kuždy raz, gaž pśeglědujośo.
 default-browser-prompt-button-primary-alt = Ako standardny wobglědowak nastajiś
-default-browser-prompt-checkbox-label = Wěcej se njepšašaś
+default-browser-prompt-checkbox-not-again-label = Toś tu powěźeńku wěcej njepokazaś
 default-browser-prompt-button-secondary = Nic něnto
