@@ -37,4 +37,4 @@ webrtc-camera-system-menu =
 webrtc-microphone-system-menu =
     .label = Делите ваш микрофон. Кликните да контролишете дељење.
 webrtc-screen-system-menu =
-    .label = Делите прозор или екран. Кликните да контролишете дељење.
+    .label = Делите прозор или екран. Кликните да бисте променили подешавања.
