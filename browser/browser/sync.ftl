@@ -14,6 +14,7 @@ fxa-disconnect-dialog-title = Deskonektatu { -brand-product-name }?
 fxa-disconnect-dialog-body = { -brand-product-name } zure kontutik deskonektatuko da baina ez du gailu honetako zure nabigatze-daturik ezabatuko.
 sync-disconnect-dialog-button = Deskonektatu
 fxa-signout-dialog-body = Sinkronizatutako datuek zure kontuan jarraituko dute.
+fxa-signout-dialog2-button = Amaitu saioa
 fxa-signout-dialog2-checkbox = Ezabatu gailu honetako datuak (pasahitzak, historia, laster-markak, etab.).
 fxa-menu-sync-settings =
     .label = Sinkronizazio-ezarpenak
