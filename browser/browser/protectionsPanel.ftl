@@ -20,9 +20,9 @@ protections-popup-footer-protection-label-standard = Estándar
 
 # The text a screen reader speaks when focused on the info button.
 protections-panel-etp-more-info =
-    .aria-label = Más información tocante a la proteición ameyorada escontra'l rastrexu
-protections-panel-etp-on-header = La proteición escontra'l rastrexu ta ACTIVADA pa esti sitiu
-protections-panel-etp-off-header = La proteición escontra'l rastrexu ta DESACTIVADA pa esti sitiu
+    .aria-label = Más información tocante a la proteición antirrastrexu ameyorada
+protections-panel-etp-on-header = La proteición antirrastrexu ta ACTIVADA pa esti sitiu
+protections-panel-etp-off-header = La proteición antirrastrexu ta DESACTIVADA pa esti sitiu
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = ¿Nun funciona'l sitiu?
 # The heading/title of the sub-panel view
