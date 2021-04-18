@@ -49,4 +49,4 @@ bookmark-overlay-keyword-2 =
     .value = Краткое имя
     .accesskey = я
 bookmark-overlay-tags-caption-label = Используйте метки для организации и поиска закладок из адресной строки
-bookmark-overlay-keyword-caption-label = Используйте ключевые слова, чтобы открывать закладки прямо из адресной строки
+bookmark-overlay-keyword-caption-label-2 = Используйте одно ключевое слово, чтобы открывать закладки прямо из адресной строки

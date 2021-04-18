@@ -5,10 +5,10 @@
 places-open =
     .label = Открыть
     .accesskey = О
-places-open-tab =
+places-open-in-tab =
     .label = Открыть в новой вкладке
     .accesskey = ы
-places-open-in-tab =
+places-open-tab =
     .label = Открыть в новой вкладке
     .accesskey = ы
 places-open-all-bookmarks =
@@ -20,9 +20,15 @@ places-open-all-in-tabs =
 places-open-window =
     .label = Открыть в новом окне
     .accesskey = н
+places-open-in-window =
+    .label = Открыть в новом окне
+    .accesskey = н
 places-open-private-window =
     .label = Открыть в новом приватном окне
     .accesskey = ы
+places-open-in-private-window =
+    .label = Открыть в новом приватном окне
+    .accesskey = и
 places-new-bookmark =
     .label = Новая закладка…
     .accesskey = з
@@ -35,12 +41,6 @@ places-new-folder =
 places-new-separator =
     .label = Новый разделитель
     .accesskey = р
-places-open-in-window =
-    .label = Открыть в новом окне
-    .accesskey = н
-places-open-in-private-window =
-    .label = Открыть в новом приватном окне
-    .accesskey = и
 places-add-bookmark =
     .label = Создать закладку…
     .accesskey = з
@@ -91,6 +91,18 @@ places-edit-bookmark =
 places-edit-generic =
     .label = Изменить…
     .accesskey = н
+places-edit-folder =
+    .label = Переименовать папку…
+    .accesskey = м
+places-remove-folder =
+    .label =
+        { $count ->
+            [1] Удалить папку
+            [one] Удалить папку
+            [few] Удалить папки
+           *[many] Удалить папки
+        }
+    .accesskey = л
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Управляемые закладки

@@ -49,3 +49,5 @@ customize-mode-lwthemes-my-themes =
     .value = Мои темы
 customize-mode-touchbar-cmd =
     .label = Настроить сенсорную панель…
+customize-mode-downloads-button-autohide =
+    .label = Скрывать кнопку, когда нет загрузок
