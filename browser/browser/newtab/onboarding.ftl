@@ -289,7 +289,6 @@ onboarding-multistage-theme-subtitle =
         [neuter] { -brand-short-name(case: "gen") }
        *[other] aplikace { -brand-short-name }
     }
-onboarding-multistage-theme-primary-button-label = Uložit vzhled
 onboarding-multistage-theme-primary-button-label2 = Hotovo
 onboarding-multistage-theme-secondary-button-label = Teď ne
 # Automatic theme uses operating system color settings
@@ -328,3 +327,107 @@ onboarding-multistage-theme-tooltip-alpenglow-2 =
 # Input description for Alpenglow theme
 onboarding-multistage-theme-description-alpenglow =
     .aria-description = Použije barevný vzhled tlačítek, nabídek a oken.
+
+## Multistage MR1 onboarding strings (MR1 about:welcome pages)
+
+# This button will open system settings to turn on prefers-reduced-motion
+mr1-onboarding-reduce-motion-button-label = Vypnout animace
+mr1-onboarding-welcome-header = Vítá vás { -brand-short-name }
+mr1-onboarding-set-default-pin-primary-button-label =
+    Nastavit { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "acc") }
+        [feminine] { -brand-short-name(case: "acc") }
+        [neuter] { -brand-short-name(case: "acc") }
+       *[other] aplikaci { -brand-short-name }
+    } jako můj hlavní prohlížeč
+    .title =
+        Nastaví { -brand-short-name.gender ->
+            [masculine] { -brand-short-name(case: "acc") }
+            [feminine] { -brand-short-name(case: "acc") }
+            [neuter] { -brand-short-name(case: "acc") }
+           *[other] aplikaci { -brand-short-name }
+        } jako výchozí prohlížeč a připne { -brand-short-name.gender ->
+            [masculine] ho
+            [feminine] ji
+            [neuter] ho
+           *[other] ji
+        } na lištu
+mr1-onboarding-set-default-only-primary-button-label =
+    Nastavit { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "acc") }
+        [feminine] { -brand-short-name(case: "acc") }
+        [neuter] { -brand-short-name(case: "acc") }
+       *[other] aplikaci { -brand-short-name }
+    } jako můj výchozí prohlížeč
+mr1-onboarding-set-default-secondary-button-label = Teď ne
+mr1-onboarding-sign-in-button-label = Přihlásit se
+mr1-onboarding-import-header = Všechno, vždy a po ruce
+mr1-onboarding-import-subtitle = Importujte svá hesla, <br/>záložky a další
+# The primary import button label will depend on whether we can detect which browser was used to download Firefox.
+# Variables:
+#   $previous (Str) - Previous browser name, such as Edge, Chrome
+mr1-onboarding-import-primary-button-label-attribution = Importovat z prohlížeče { $previous }
+# This string will be used in cases where we can't detect the previous browser name.
+mr1-onboarding-import-primary-button-label-no-attribution = Importovat z dříve používaného prohlížeče
+mr1-onboarding-import-secondary-button-label = Teď ne
+mr1-onboarding-theme-subtitle =
+    Přizpůsobte si vzhled { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "gen") }
+        [feminine] { -brand-short-name(case: "gen") }
+        [neuter] { -brand-short-name(case: "gen") }
+       *[other] aplikace { -brand-short-name }
+    }
+mr1-onboarding-theme-primary-button-label = Uložit vzhled
+mr1-onboarding-theme-secondary-button-label = Teď ne
+# System theme uses operating system color settings
+mr1-onboarding-theme-label-system = Podle systému
+mr1-onboarding-theme-label-light = Světlý
+mr1-onboarding-theme-label-dark = Tmavý
+# "Alpenglow" here is the name of the theme, and should be kept in English.
+mr1-onboarding-theme-label-alpenglow = Alpenglow
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
+# Tooltip displayed on hover of system theme
+mr1-onboarding-theme-tooltip-system =
+    .title =
+        Vzhled s barevným tématem
+        podle nastavení operačního systému.
+# Input description for system theme
+mr1-onboarding-theme-description-system =
+    .aria-description =
+        Vzhled s barevným tématem
+        podle nastavení operačního systému.
+# Tooltip displayed on hover of light theme
+mr1-onboarding-theme-tooltip-light =
+    .title =
+        Vzhled se světlým barevným tématem
+        pro tlačítka, nabídky a okna.
+# Input description for light theme
+mr1-onboarding-theme-description-light =
+    .aria-description =
+        Vzhled se světlým barevným tématem
+        pro tlačítka, nabídky a okna.
+# Tooltip displayed on hover of dark theme
+mr1-onboarding-theme-tooltip-dark =
+    .title =
+        Vzhled s tmavým barevným tématem
+        pro tlačítka, nabídky a okna.
+# Input description for dark theme
+mr1-onboarding-theme-description-dark =
+    .aria-description =
+        Vzhled s tmavým barevným tématem
+        pro tlačítka, nabídky a okna.
+# Tooltip displayed on hover of Alpenglow theme
+mr1-onboarding-theme-tooltip-alpenglow =
+    .title =
+        Vzhled s barevným tématem
+        pro tlačítka, nabídky a okna.
+# Input description for Alpenglow theme
+mr1-onboarding-theme-description-alpenglow =
+    .aria-description =
+        Vzhled s barevným tématem
+        pro tlačítka, nabídky a okna.

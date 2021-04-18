@@ -42,5 +42,5 @@ default-browser-prompt-title-alt =
     } nastavit jako svůj výchozí prohlížeč?
 default-browser-prompt-message-alt = Získejte rychlost, bezpečnost a soukromí pro své prohlížení.
 default-browser-prompt-button-primary-alt = Nastavit jako výchozí prohlížeč
-default-browser-prompt-checkbox-label = Příště se už neptat
+default-browser-prompt-checkbox-not-again-label = Příště už nezobrazovat
 default-browser-prompt-button-secondary = Teď ne

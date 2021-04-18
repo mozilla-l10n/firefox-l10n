@@ -49,3 +49,5 @@ customize-mode-lwthemes-my-themes =
     .value = Mé motivy vzhledu
 customize-mode-touchbar-cmd =
     .label = Nastavit Touch Bar…
+customize-mode-downloads-button-autohide =
+    .label = Skrýt, pokud je prázdné

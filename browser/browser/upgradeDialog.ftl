@@ -65,7 +65,7 @@ upgrade-dialog-new-secondary-button = Teď ne
 upgrade-dialog-theme-title =
     Začněte s čistým
     novým vzhledem
-upgrade-dialog-theme-system = Barevný vzhled podle systému
+upgrade-dialog-theme-system = Podle systému
     .title = Vzhled s barevným tématem podle nastavení operačního systému.
 upgrade-dialog-theme-light = Světlý
     .title = Vzhled se světlým barevným tématem.
