@@ -16,6 +16,9 @@ change-password-new = Contraseña nueva:
 ## Reset Password dialog
 
 pippki-failed-pw-change = Nun ye posible camudar la contraseña
+pippki-pw-empty-warning = Nun van protexese les contraseñes y claves privaes qu'atroxares.
+pippki-pw-erased-ok = Desaniciesti la contraseña. { pippki-pw-empty-warning }
+pippki-pw-not-wanted = ¡Alvertencia! Decidiesti nun usar una contraseña. { pippki-pw-empty-warning }
 
 ## Reset Primary Password dialog
 
