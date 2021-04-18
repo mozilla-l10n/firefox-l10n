@@ -140,6 +140,9 @@ about-debugging-runtime-other-workers =
 # Title of the processes category.
 about-debugging-runtime-processes =
     .name = Procesos
+# Dedicated message for a backward compatibility issue that occurs when connecting:
+# from Fx 70+ to the old Firefox for Android (aka Fennec) which uses Fx 68.
+about-debugging-browser-version-too-old-fennec = Esta versión de Firefox nun pue depurar Firefox p'Android (68). Aconseyámoste instalar Firefox Nightly p'Android nel preséu pa facer pruebes. <a>Más detalles</a>
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
