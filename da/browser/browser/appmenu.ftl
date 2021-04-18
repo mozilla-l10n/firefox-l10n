@@ -5,13 +5,17 @@
 
 ## App Menu
 
-appmenuitem-update-banner =
-    .label-update-downloading = Henter { -brand-shorter-name }-opdatering
 appmenuitem-update-banner2 =
     .label-update-downloading = Henter { -brand-shorter-name }-opdatering
     .label-update-available = Opdatering tilgængelig — hent nu
     .label-update-manual = Opdatering tilgængelig — hent nu
     .label-update-unsupported = Kan ikke opdatere
+    .label-update-restart = Opdatering tilgængelig — genstart nu
+appmenuitem-update-banner3 =
+    .label-update-downloading = Henter { -brand-shorter-name }-opdatering
+    .label-update-available = Opdatering tilgængelig — hent nu
+    .label-update-manual = Opdatering tilgængelig — hent nu
+    .label-update-unsupported = Kan ikke opdatere — system ikke kompatibelt
     .label-update-restart = Opdatering tilgængelig — genstart nu
 appmenuitem-protection-dashboard-title = Oversigt over beskyttelse
 appmenuitem-customize-mode =
@@ -25,8 +29,6 @@ appmenuitem-new-private-window =
     .label = Nyt privat vindue
 appmenuitem-passwords =
     .label = Adgangskoder
-appmenuitem-extensions-and-themes =
-    .label = Udvidelser og temaer
 appmenuitem-addons-and-themes =
     .label = Tilføjelser og temaer
 appmenuitem-find-in-page =
@@ -162,11 +164,6 @@ appmenu-about =
 appmenu-get-help =
     .label = Få hjælp
     .accesskey = h
-appmenu-help-troubleshooting-info =
-    .label = Teknisk information…
-    .accesskey = T
-appmenu-help-taskmanager =
-    .label = Jobliste
 appmenu-help-more-troubleshooting-info =
     .label = Mere teknisk information
     .accesskey = t
@@ -175,16 +172,6 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = Indsend feedback…
     .accesskey = n
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Genstart med tilføjelser deaktiveret…
-    .accesskey = G
-appmenu-help-safe-mode-with-addons =
-    .label = Genstart med tilføjelser aktiveret
-    .accesskey = G
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
