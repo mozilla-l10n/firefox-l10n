@@ -1170,7 +1170,7 @@ space-alert-over-5gb-message =
 space-alert-under-5gb-ok-button =
     .label = D'acuerdu, entendílo
     .accesskey = D
-space-alert-under-5gb-message = { -brand-short-name } ta quedando ensin espaciu nel discu. El conteníu de los sitios web pue dexar d'amosase afayadizamente. Vista «Lleer más» pa optimiar l'usu del discu pa una esperiencia de restolar meyor.
+space-alert-under-5gb-message = { -brand-short-name } ta quedando ensin espaciu nel discu. El conteníu de los sitios web pue dexar d'amosase afayadizamente. Visita «Lleer más» pa optimiar l'usu del discu pa una esperiencia de restolar meyor.
 
 ## Privacy Section - HTTPS-Only
 
