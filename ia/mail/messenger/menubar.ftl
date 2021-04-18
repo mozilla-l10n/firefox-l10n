@@ -46,3 +46,18 @@ toolbar-delete-button =
 toolbar-undelete-button =
     .label = Restabilir
     .tooltiptext = Restabilir le messages seligite
+
+## View / Layout
+
+mail-uidensity-label =
+    .label = Densitate
+    .accesskey = D
+mail-uidensity-compact =
+    .label = Compactar
+    .accesskey = C
+mail-uidensity-normal =
+    .label = Normal
+    .accesskey = N
+mail-uidensity-touch =
+    .label = Tactile
+    .accesskey = T
