@@ -31,7 +31,7 @@ permission-dialog-btn-open-link =
 permission-dialog-btn-choose-app =
     .label = Одабери програм
     .accessKey = п
-permission-dialog-unset-description = Морате да изаберете програм.
+permission-dialog-unset-description = Морате да одаберете програм.
 permission-dialog-set-change-app-link = Одаберите други програм.
 
 ## Chooser dialog
@@ -44,9 +44,9 @@ chooser-window =
 chooser-dialog =
     .buttonlabelaccept = Отвори линк
     .buttonaccesskeyaccept = л
-chooser-dialog-description = Одаберите програм којим ћете отворити { $scheme } линк.
+chooser-dialog-description = Отворите { $scheme } линк следећим програмом:
 # Please keep the emphasis around the scheme (ie the `<strong>` HTML tags).
-chooser-dialog-remember = Увек користи овај програм за отварање <strong>{ $scheme }</strong> линкова
+chooser-dialog-remember = Увек отварај <strong>{ $scheme }</strong> линкове у овом програму
 chooser-dialog-remember-extra =
     Ово можете да промените у подешавањима { -brand-short-name.gender ->
         [masculine] { -brand-short-name(case: "gen") }
