@@ -324,6 +324,7 @@ identity-https-only-info-turn-off2 = Если страница кажется с
 identity-https-only-info-no-upgrade = Невозможно переключить соединение с HTTP.
 identity-permissions-storage-access-header = Межсайтовые куки
 identity-permissions-storage-access-hint = Следующие стороны могут использовать межсайтовые куки и данные сайта, пока вы находитесь на этом сайте.
+identity-permissions-storage-access-learn-more = Узнать больше
 identity-permissions-reload-hint = Чтобы изменения возымели действие, вам, возможно, потребуется перезагрузить страницу.
 identity-permissions-empty = Вы не давали этому сайту каких-либо специальных разрешений.
 identity-clear-site-data =
@@ -589,9 +590,6 @@ pointerlock-warning-no-domain = Этот документ контролируе
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Часть этой страницы упала.</strong> Чтобы сообщить { -brand-product-name } об этой проблеме и ускорить её исправление, пожалуйста, отправьте сообщение.
-crashed-subframe-learnmore =
-    .label = Подробнее
-    .accesskey = о
 crashed-subframe-learnmore-link =
     .value = Узнать больше
 crashed-subframe-submit =
@@ -604,8 +602,6 @@ bookmarks-show-all-bookmarks =
     .label = Показать все закладки
 bookmarks-manage-bookmarks =
     .label = Управление закладками
-bookmarks-recent-bookmarks-panel =
-    .value = Недавние закладки
 bookmarks-recent-bookmarks-panel-subheader = Недавние закладки
 bookmarks-toolbar-chevron =
     .tooltiptext = Показать больше закладок
