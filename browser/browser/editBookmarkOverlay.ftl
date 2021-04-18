@@ -19,8 +19,8 @@ bookmark-overlay-url =
 # Location refers to the position of the bookmark within the browser's
 # bookmarks, not to its URL or address.
 bookmark-overlay-location-2 =
-    .value = Положај
-    .accesskey = П
+    .value = Локација
+    .accesskey = Л
 bookmark-overlay-choose =
     .label = Одабери…
 bookmark-overlay-folders-expander =
@@ -29,7 +29,7 @@ bookmark-overlay-folders-expander =
     .tooltiptextup = Сакриј
 bookmark-overlay-new-folder-button =
     .label = Нова фасцикла
-    .accesskey = o
+    .accesskey = ф
 bookmark-overlay-tags =
     .value = Ознаке:
     .accesskey = T
@@ -49,4 +49,3 @@ bookmark-overlay-keyword-2 =
     .value = Кључна реч
     .accesskey = К
 bookmark-overlay-tags-caption-label = Помоћу ознака можете да организујете обележиваче и претражујете их из траке за адресу
-bookmark-overlay-keyword-caption-label = Помоћу кључних речи можете да отварате обележиваче директно из траке за адресу

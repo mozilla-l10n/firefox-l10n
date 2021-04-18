@@ -266,8 +266,8 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
-bookmarks-add-bookmark = Додај обележивач
-bookmarks-edit-bookmark = Уреди обележивач
+bookmarks-add-bookmark = Додавање обележивача
+bookmarks-edit-bookmark = Уређивање обележивача
 bookmark-panel-cancel =
     .label = Откажи
     .accesskey = О
