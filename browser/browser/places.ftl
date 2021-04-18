@@ -5,12 +5,12 @@
 places-open =
     .label = Öppna
     .accesskey = Ö
-places-open-tab =
-    .label = Öppna i ny flik
-    .accesskey = n
 places-open-in-tab =
     .label = Öppna i ny flik
     .accesskey = f
+places-open-tab =
+    .label = Öppna i ny flik
+    .accesskey = n
 places-open-all-bookmarks =
     .label = Öppna alla bokmärken
     .accesskey = p
@@ -20,9 +20,15 @@ places-open-all-in-tabs =
 places-open-window =
     .label = Öppna i nytt fönster
     .accesskey = f
+places-open-in-window =
+    .label = Öppna i nytt fönster
+    .accesskey = f
 places-open-private-window =
     .label = Öppna i nytt privat fönster
     .accesskey = i
+places-open-in-private-window =
+    .label = Öppna i nytt privat fönster
+    .accesskey = p
 places-new-bookmark =
     .label = Nytt bokmärke…
     .accesskey = b
@@ -35,12 +41,6 @@ places-new-folder =
 places-new-separator =
     .label = Ny avskiljare
     .accesskey = v
-places-open-in-window =
-    .label = Öppna i nytt fönster
-    .accesskey = f
-places-open-in-private-window =
-    .label = Öppna i nytt privat fönster
-    .accesskey = p
 places-add-bookmark =
     .label = Lägg till bokmärke…
     .accesskey = b
@@ -91,6 +91,16 @@ places-edit-bookmark =
 places-edit-generic =
     .label = Redigera…
     .accesskey = R
+places-edit-folder =
+    .label = Byt namn på mapp…
+    .accesskey = B
+places-remove-folder =
+    .label =
+        { $count ->
+            [1] Ta bort mapp
+           *[other] Ta bort mappar
+        }
+    .accesskey = m
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Hanterade bokmärken

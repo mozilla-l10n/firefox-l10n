@@ -18,5 +18,5 @@ default-browser-prompt-button-primary-pin = Gör till primär webbläsare
 default-browser-prompt-title-alt = Gör { -brand-short-name } till din standardwebbläsare?
 default-browser-prompt-message-alt = Få hastighet, säkerhet och integritet varje gång du surfar.
 default-browser-prompt-button-primary-alt = Ange som standardwebbläsare
-default-browser-prompt-checkbox-label = Fråga inte igen
+default-browser-prompt-checkbox-not-again-label = Visa inte detta meddelande igen
 default-browser-prompt-button-secondary = Inte nu
