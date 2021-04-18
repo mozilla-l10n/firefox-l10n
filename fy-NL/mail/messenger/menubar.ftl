@@ -46,3 +46,18 @@ toolbar-delete-button =
 toolbar-undelete-button =
     .label = Fuortsmiten ûngedien meitsje
     .tooltiptext = Fuortsmiten fan selektearre berjochten ûngedien meitsje
+
+## View / Layout
+
+mail-uidensity-label =
+    .label = Tichtens
+    .accesskey = T
+mail-uidensity-compact =
+    .label = Kompakt
+    .accesskey = K
+mail-uidensity-normal =
+    .label = Normaal
+    .accesskey = N
+mail-uidensity-touch =
+    .label = Oanraking
+    .accesskey = O
