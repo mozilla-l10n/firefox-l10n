@@ -1020,6 +1020,7 @@ content-blocking-etp-strict-desc = Protection reinfortiate, ma certe sitos o con
 content-blocking-etp-custom-desc = Elige qual traciatores e scripts blocar.
 content-blocking-private-windows = Contento de traciamento in fenestras private
 content-blocking-cross-site-cookies = Cookies inter sitos
+content-blocking-cross-site-cookies-in-all-windows = Cookies inter-sitos in tote le fenestras (include cookies traciator)
 content-blocking-cross-site-tracking-cookies = Cookies de traciamento inter sitos
 content-blocking-all-cross-site-cookies-private-windows = Cookies inter sitos in fenestras private
 content-blocking-cross-site-tracking-cookies-plus-isolate = Cookies de traciamento inter sitos, e isolar le cookies restante
