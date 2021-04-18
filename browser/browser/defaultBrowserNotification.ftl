@@ -16,4 +16,5 @@ default-browser-prompt-title-pin = Velje { -brand-short-name } som standardnettl
 default-browser-prompt-button-primary-pin = Vel som standardnettlesar
 default-browser-prompt-title-alt = Bruke { -brand-short-name } som standardnettlesar?
 default-browser-prompt-button-primary-alt = Vel som standardnettlesar
+default-browser-prompt-checkbox-not-again-label = Ikkje vis denne meldinga meir
 default-browser-prompt-button-secondary = Ikkje no
