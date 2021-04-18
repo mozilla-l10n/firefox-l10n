@@ -257,6 +257,15 @@ onboarding-multistage-theme-description-alpenglow =
 
 ## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 
+# "Hero Text" displayed on left side of welcome screen.
+# The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
+# It also signals the passion users bring to Firefox, how they use
+# Firefox to pursue those passions, as well as the boldness in their
+# choice to use Firefox over a larger competitor browser.
+# An alternative title for localization is: "It starts here".
+mr1-welcome-screen-hero-text = Le foco initia ci
+# This button will open system settings to turn on prefers-reduced-motion
+mr1-onboarding-reduce-motion-button-label = Disactivar le animationes
 mr1-onboarding-welcome-header = Benvenite a { -brand-short-name }
 mr1-onboarding-set-default-pin-primary-button-label = Render { -brand-short-name } mi navigator principal
     .title = Stabili { -brand-short-name } como navigator predefinite e lo adde al barra del applicationes
@@ -264,11 +273,15 @@ mr1-onboarding-set-default-only-primary-button-label = Render { -brand-short-nam
 mr1-onboarding-set-default-secondary-button-label = Non ora
 mr1-onboarding-sign-in-button-label = Aperir session
 mr1-onboarding-import-header = Porta toto con te
+mr1-onboarding-import-subtitle = Importa to contrasignos, <br/>marcapaginas e altero ancora
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = Importar ex { $previous }
+# This string will be used in cases where we can't detect the previous browser name.
+mr1-onboarding-import-primary-button-label-no-attribution = Importar ex la previe navigator
 mr1-onboarding-import-secondary-button-label = Non ora
+mr1-onboarding-theme-header = Rende lo tue
 mr1-onboarding-theme-subtitle = Personalisa { -brand-short-name } per un thema.
 mr1-onboarding-theme-primary-button-label = Salvar le thema
 mr1-onboarding-theme-secondary-button-label = Non ora
