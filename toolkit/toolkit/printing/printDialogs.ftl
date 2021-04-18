@@ -4,7 +4,7 @@
 
 print-setup =
     .title = Настройка на страницата
-custom-prompt-title = Персонализиране…
+custom-prompt-title = Приспособяване…
 custom-prompt-prompt = Моля, въведете вашия текст за горен/долен колонтитул
 basic-tab =
     .label = Формат и настройки
@@ -90,7 +90,7 @@ hf-page =
 hf-page-and-total =
     .label = Страница # от #
 hf-custom =
-    .label = Персонализиране…
+    .label = Приспособяване…
 print-preview-window =
     .title = Преглед преди отпечатване
 print-title =
@@ -103,7 +103,6 @@ print-window =
     .title = Отпечатване
 print-complete =
     .value = Отпечатването е завършено.
-
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =
