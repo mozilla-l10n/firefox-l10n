@@ -138,11 +138,11 @@ urlbar-persistent-storage-blocked =
 urlbar-popup-blocked =
     .tooltiptext = Блокирали сте искачуће прозоре са овог веб-сајта.
 urlbar-autoplay-media-blocked =
-    .tooltiptext = Блокирали сте аутоматско пуштање медија са звуком са овог веб-сајта.
+    .tooltiptext = Блокирали сте аутоматско пуштање медија са звуком на овом веб-сајту.
 urlbar-canvas-blocked =
-    .tooltiptext = Блокирали сте издвајање података из canvas-а са овог веб-сајта.
+    .tooltiptext = Блокирали сте издвајање података из canvas-а на овом веб-сајту.
 urlbar-midi-blocked =
-    .tooltiptext = Блокирали сте MIDI приступ за овај веб сајт.
+    .tooltiptext = Овом веб-сајту сте забранили приступ MIDI уређајима.
 urlbar-install-blocked =
     .tooltiptext = Зауставили сте инсталацију додатка за ову веб локацију.
 # Variables
