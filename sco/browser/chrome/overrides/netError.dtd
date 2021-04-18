@@ -132,8 +132,15 @@ was trying to connect. -->
 <!ENTITY certerror.sts.introPara "&brandShortName; detectit a potential siccarness threat and didnae gang on tae <span class='hostname'/> acause this wabsite requires a siccar connection.">
 
 <!ENTITY certerror.expiredCert.introPara "&brandShortName; detectit an issue and didnae gang on tae <span class='hostname'/>. The wabsite is either wrangly configured or yer computer clock is set tae the wrang time.">
+<!ENTITY certerror.expiredCert.secondPara2 "It’s likely that the wabsite’s certificate has gaed oot o date, which staps &brandShortName; fae connectin siccarly. Gin ye gang ontae this site, ondingers could ettle at stealin information like yer passwirds, emails, or credit caird parteeculars.">
+<!ENTITY certerror.expiredCert.sts.secondPara "It’s likely the wabsite’s certificate has gaed oot o date, which staps &brandShortName; fae connectin siccarly.">
 
+<!ENTITY certerror.whatCanYouDoAboutItTitle "Whit can ye dae aboot it?">
 
+<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
+<p>The issue is maist likely wi the wabsite, and there is nowt ye can dae fur tae sort it.</p>
+<p>Gin yer on a corporate netwark or yaisin anti-virus saftware, ye can speir at the support teams fur hauners. Forby ye can lat the wabsite’s admeenistrator ken aboot the problem.</p>
+">
 
 
 
