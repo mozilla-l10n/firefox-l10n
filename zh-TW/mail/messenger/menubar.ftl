@@ -46,3 +46,18 @@ toolbar-delete-button =
 toolbar-undelete-button =
     .label = 反刪除
     .tooltiptext = 取消刪除選擇的訊息
+
+## View / Layout
+
+mail-uidensity-label =
+    .label = 密度
+    .accesskey = D
+mail-uidensity-compact =
+    .label = 緊密
+    .accesskey = C
+mail-uidensity-normal =
+    .label = 標準
+    .accesskey = N
+mail-uidensity-touch =
+    .label = 觸控
+    .accesskey = T
