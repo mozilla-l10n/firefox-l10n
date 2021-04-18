@@ -5,7 +5,7 @@
 
 ## These messages are used as headings in the recommendation doorhanger
 
-cfr-doorhanger-extension-heading = Gomendatutako gehigarria
+cfr-doorhanger-extension-heading = Gomendatutako hedapena
 cfr-doorhanger-feature-heading = Gomendatutako eginbidea
 cfr-doorhanger-pintab-heading = Probatu hau: ainguratu fitxa
 
@@ -215,8 +215,6 @@ cfr-doorhanger-milestone-heading2 =
     }
 cfr-doorhanger-milestone-ok-button = Ikusi guztiak
     .accesskey = I
-cfr-doorhanger-milestone-close-button = Itxi
-    .accesskey = x
 
 ## What’s New Panel Content for Firefox 76
 
@@ -241,6 +239,8 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Bideoa beste leiho batean eginbideko ikon
 
 ## Protections Dashboard message
 
+cfr-doorhanger-milestone-close-button = Itxi
+    .accesskey = x
 
 ## What’s New Panel Content for Firefox 76
 ## Protections Dashboard message
@@ -259,8 +259,6 @@ cfr-whatsnew-better-pdf-body = PDF dokumentuak orain zuzenean { -brand-short-nam
 
 cfr-doorhanger-doh-body = Zure pribatutasuna garrantzitsua da. Nabigazioa babesteko, { -brand-short-name }(e)k ahal duen neurrian zure DNS eskaerak bazkide baten zerbitzutik bideratzen ditu modu seguruan.
 cfr-doorhanger-doh-header = DNS-bilaketa zifratu eta seguruagoak
-cfr-doorhanger-doh-primary-button = Ados, ulertuta
-    .accesskey = A
 cfr-doorhanger-doh-primary-button-2 = Ados
     .accesskey = A
 cfr-doorhanger-doh-secondary-button = Desgaitu

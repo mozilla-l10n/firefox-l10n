@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
@@ -11,20 +12,16 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Errorea gertatu da { $hostname } ostalarira konektatzean. { $errorMessage }
-
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Errore-kodea: { $error }
-
 psmerr-ssl-disabled = Ezin da modu seguruan konektatu SSL protokoloa ezgaiturik dago eta.
 psmerr-ssl2-disabled = Ezin da modu seguruan konektatu guneak SSL protokoloaren bertsio zahar eta ez seguru ba erabiltzen du eta.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Ziurtagiri baliogabe bat jaso duzu. Jar zaitez harremanetan zerbitzariaren kudeatzailearekin edo dagokionari idatzi hurrengo argibideak emanaz:
     
     Zure ziurtagiriak ziurtagiri-autoritateak jaulkitako beste ziurtagiri baten serie-zenbaki berdina du. Mesedez lortu serie-zenbaki esklusiboa duen beste ziurtagiri bat.
-
 ssl-error-export-only-server = Ezin da modu seguruan komunikatu. Parekoak ez du maila altuko zifraketarik onartzen.
 ssl-error-us-only-server = Ezin da modu seguruan komunikatu. Parekoak onartzen ez den maila altuko zifraketa eskatzen du.
 ssl-error-no-cypher-overlap = Ezin da parekoarekin modu seguruan konektatu: ez dago zifraketa algoritmo bateraturik.
@@ -322,11 +319,11 @@ sec-error-ocsp-bad-signature = OCSP erantzunak sinadura baliogabe bat du.
 sec-error-out-of-search-limits = Ziurtagiriaren balidazio-bilaketa bilaketaren mugetatik kanpo dago
 sec-error-invalid-policy-mapping = Politiken mapak anypolicy dauka
 sec-error-policy-validation-failed = Ziurtagiriaren kateak politika-balidazioa huts egiten du
-sec-error-unknown-aia-location-type = Kokaleku mota ezezaguna AIA luzapen ziurtagirian
+sec-error-unknown-aia-location-type = Kokaleku mota ezezaguna AIA ziurtagiri-hedapenean
 sec-error-bad-http-response = Zerbitzariak HTTP erantzun okerra itzuli du
 sec-error-bad-ldap-response = Zerbitzariak LDAP erantzun okerra itzuli du
 sec-error-failed-to-encode-data = Huts egin du datuak ASN1 kodetzailearekin kodetzean
-sec-error-bad-info-access-location = Informazioa atzitzeko kokaleku okerra ziurtagiriaren luzapenean
+sec-error-bad-info-access-location = Informazioa atzitzeko kokaleku okerra ziurtagiri-hedapenean
 sec-error-libpkix-internal = Libpkix barne-errorea gertatu da ziurtagiriaren balidazioan.
 sec-error-pkcs11-general-error = PKCS #11 modulu batek CKR_GENERAL_ERROR itzuli du, errore berreskuraezina gertatu dela adieraziz.
 sec-error-pkcs11-function-failed = PKCS #11 modulu batek CKR_FUNCTION_FAILED itzuli du, eskatutako funtzio bat ezin dela burutu adieraziz. Eragiketa berdina berriro saiatuz ondo burutu liteke.
