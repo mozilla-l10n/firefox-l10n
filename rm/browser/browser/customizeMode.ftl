@@ -49,3 +49,5 @@ customize-mode-lwthemes-my-themes =
     .value = Mes designs
 customize-mode-touchbar-cmd =
     .label = Modifitgar la trav da tutgar…
+customize-mode-downloads-button-autohide =
+    .label = Zuppentar il buttun sche vid

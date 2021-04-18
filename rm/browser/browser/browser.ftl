@@ -319,6 +319,7 @@ identity-https-only-info-turn-off2 = Sche la pagina na funcziunescha betg endret
 identity-https-only-info-no-upgrade = Impussibel da remplazzar la connexiun HTTP.
 identity-permissions-storage-access-header = Cookies interpaginals
 identity-permissions-storage-access-hint = Questas partidas pon utilisar cookies interpaginals e datas da website durant che ti ta chattas sin questa website.
+identity-permissions-storage-access-learn-more = Ulteriuras infurmaziuns
 identity-permissions-reload-hint = Forsa stos ti chargiar da nov questa pagina per applitgar las midadas.
 identity-permissions-empty = Ti n'has betg definì autorisaziuns spezialas per questa pagina.
 identity-clear-site-data =
@@ -578,9 +579,6 @@ pointerlock-warning-no-domain = Quest document controllescha il punctader. Smatg
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Ina part da questa pagina è collabada.</strong> Trametta per plaschair in rapport per infurmar { -brand-product-name } davart quest problem e gidar d'al schliar pli svelt.
-crashed-subframe-learnmore =
-    .label = Ulteriuras infurmaziuns
-    .accesskey = l
 crashed-subframe-learnmore-link =
     .value = Ulteriuras infurmaziuns
 crashed-subframe-submit =
@@ -593,8 +591,6 @@ bookmarks-show-all-bookmarks =
     .label = Mussar tut ils segnapaginas
 bookmarks-manage-bookmarks =
     .label = Administrar ils segnapaginas
-bookmarks-recent-bookmarks-panel =
-    .value = Segnapaginas novs
 bookmarks-recent-bookmarks-panel-subheader = Segnapaginas novs
 bookmarks-toolbar-chevron =
     .tooltiptext = Mussar dapli segnapaginas
