@@ -340,6 +340,7 @@ identity-https-only-info-turn-off2 = Pokud se zdá, že je stránka rozbitá, zk
 identity-https-only-info-no-upgrade = Nepodařilo se přepnout spojení z HTTP.
 identity-permissions-storage-access-header = Cross-site cookies
 identity-permissions-storage-access-hint = Tyto weby mohou používat cross-site cookies a během vaší návštěvy této stránky tak přistupovat k jejím datům.
+identity-permissions-storage-access-learn-more = Zjistit více
 identity-permissions-reload-hint = Pro provedení změn může být potřeba stránku znovu načíst.
 identity-permissions-empty = Tento server nemá žádná zvláštní oprávnění.
 identity-clear-site-data =
@@ -623,9 +624,6 @@ crashed-subframe-message =
         [neuter] { -brand-product-name(case: "gen") }
        *[other] aplikace { -brand-product-name }
     } tento problém nahlásit pro zrychlení opravy, odešlete prosím hlášení.
-crashed-subframe-learnmore =
-    .label = Zjistit více
-    .accesskey = Z
 crashed-subframe-learnmore-link =
     .value = Zjistit více
 crashed-subframe-submit =
@@ -638,8 +636,6 @@ bookmarks-show-all-bookmarks =
     .label = Zobrazit všechny záložky
 bookmarks-manage-bookmarks =
     .label = Správa záložek
-bookmarks-recent-bookmarks-panel =
-    .value = Naposledy přidané
 bookmarks-recent-bookmarks-panel-subheader = Naposledy přidané
 bookmarks-toolbar-chevron =
     .tooltiptext = Zobrazí více záložek

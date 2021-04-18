@@ -49,4 +49,4 @@ bookmark-overlay-keyword-2 =
     .value = Klíčové slovo
     .accesskey = K
 bookmark-overlay-tags-caption-label = Pomocí štítků si můžete uspořádat své záložky a vyhledávat je z adresního řádku
-bookmark-overlay-keyword-caption-label = Pomocí klíčových slov můžete otevírat záložky přímo z adresního řádku
+bookmark-overlay-keyword-caption-label-2 = Pomocí jediného klíčového slova můžete otevírat záložky přímo z adresního řádku
