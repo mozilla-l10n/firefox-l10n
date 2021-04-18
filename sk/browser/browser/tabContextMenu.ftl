@@ -121,4 +121,4 @@ tab-context-move-tabs =
             [1] Presunúť kartu
            *[other] Presunúť karty
         }
-    .accesskey = u
+    .accesskey = s
