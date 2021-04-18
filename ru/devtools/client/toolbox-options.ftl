@@ -61,6 +61,8 @@ options-screenshot-label = Настройки снятия скриншотов
 options-screenshot-clipboard-label = Копировать скриншот в буфер обмена
 options-screenshot-clipboard-tooltip =
     .title = Копировать скриншот прямо в буфер обмена
+options-screenshot-clipboard-tooltip2 =
+    .title = Сохранять скриншот прямо в буфер обмена
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
 options-screenshot-audio-label = Проигрывать звук затвора камеры
 options-screenshot-audio-tooltip =
@@ -85,7 +87,7 @@ options-sourceeditor-keybinding-default-label = По умолчанию
 
 ## Advanced section
 
-# The heading
+# The heading (this item is also used in perftools.ftl)
 options-context-advanced-settings = Дополнительные параметры
 # The label for the checkbox that toggles the HTTP cache on or off
 options-disable-http-cache-label = Отключить HTTP-кэш (когда открыта панель инструментов)
