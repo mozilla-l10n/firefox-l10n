@@ -5,10 +5,10 @@
 places-open =
     .label = Mở
     .accesskey = O
-places-open-tab =
+places-open-in-tab =
     .label = Mở trong thẻ mới
     .accesskey = w
-places-open-in-tab =
+places-open-tab =
     .label = Mở trong thẻ mới
     .accesskey = w
 places-open-all-bookmarks =
@@ -20,7 +20,13 @@ places-open-all-in-tabs =
 places-open-window =
     .label = Mở trong cửa sổ mới
     .accesskey = N
+places-open-in-window =
+    .label = Mở trong cửa sổ mới
+    .accesskey = N
 places-open-private-window =
+    .label = Mở trong cửa sổ riêng tư mới
+    .accesskey = P
+places-open-in-private-window =
     .label = Mở trong cửa sổ riêng tư mới
     .accesskey = P
 places-new-bookmark =
@@ -35,12 +41,6 @@ places-new-folder =
 places-new-separator =
     .label = Ngăn cách mới
     .accesskey = S
-places-open-in-window =
-    .label = Mở trong cửa sổ mới
-    .accesskey = N
-places-open-in-private-window =
-    .label = Mở trong cửa sổ riêng tư mới
-    .accesskey = P
 places-add-bookmark =
     .label = Thêm dấu trang…
     .accesskey = B
@@ -91,6 +91,16 @@ places-edit-bookmark =
 places-edit-generic =
     .label = Chỉnh sửa…
     .accesskey = i
+places-edit-folder =
+    .label = Đổi tên thư mục…
+    .accesskey = e
+places-remove-folder =
+    .label =
+        { $count ->
+            [1] Xóa thư mục
+           *[other] Xóa các thư mục
+        }
+    .accesskey = m
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Dấu trang được quản lý

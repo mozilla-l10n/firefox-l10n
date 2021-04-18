@@ -18,5 +18,5 @@ default-browser-prompt-button-primary-pin = Đặt làm trình duyệt mặc đ�
 default-browser-prompt-title-alt = Đặt { -brand-short-name } làm trình duyệt mặc định của bạn?
 default-browser-prompt-message-alt = Tốc độ, an toàn và quyền riêng tư mỗi khi bạn duyệt.
 default-browser-prompt-button-primary-alt = Đặt làm trình duyệt mặc định
-default-browser-prompt-checkbox-label = Đừng hỏi lại
+default-browser-prompt-checkbox-not-again-label = Không hiển thị lại thông báo này
 default-browser-prompt-button-secondary = Không phải bây giờ
