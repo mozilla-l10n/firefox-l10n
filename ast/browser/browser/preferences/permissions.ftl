@@ -67,7 +67,7 @@ permissions-invalid-uri-label = Introduz un nome d'agospiador válidu
 ## Exceptions - Tracking Protection
 
 permissions-exceptions-etp-window =
-    .title = Esceiciones pa la proteición ameyorada escontra'l rastrexu
+    .title = Esceiciones pa la proteición antirrastrexu ameyorada
     .style = { permissions-window.style }
 permissions-exceptions-etp-desc = Desactivesti les proteiciones nestos sitios web.
 
