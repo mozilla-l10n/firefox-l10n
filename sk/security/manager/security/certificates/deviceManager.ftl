@@ -95,7 +95,7 @@ load-module-help-empty-module-name =
     .value = Názov modulu nemôže byť prázdny.
 # Do not translate 'Root Certs'
 load-module-help-root-certs-module-name =
-    .value = ‘Root Certs‘ je rezervovaný názov a nemôže byť použitý ako názov modulu.
+    .value = “Root Certs” je rezervovaný názov a nemôže byť použitý ako názov modulu.
 add-module-failure = Nepodarilo sa pridať modul
 del-module-warning = Naozaj chcete odstrániť tento bezpečnostný modul?
 del-module-error = Nepodarilo sa odstrániť modul
