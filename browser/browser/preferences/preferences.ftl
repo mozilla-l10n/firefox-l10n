@@ -264,7 +264,7 @@ translate-exceptions =
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
-    .label = Formátovať dátumy, časy, čísla a jednotky podľa nastavenia jazyka „{ $localeName }“ z operačného systému.
+    .label = Formátovať dátumy, časy, čísla a jednotky podľa nastavenia jazyka “{ $localeName }” z operačného systému.
 check-user-spelling =
     .label = Kontrolovať pravopis počas písania
     .accesskey = K

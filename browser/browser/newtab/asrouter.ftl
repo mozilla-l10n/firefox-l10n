@@ -300,7 +300,7 @@ cfr-whatsnew-search-shortcuts-body = Keď teraz do panela s adresou napíšete v
 ## What's new: Cookies protection
 
 cfr-whatsnew-supercookies-header = Ochrana pred škodlivými supercookies
-cfr-whatsnew-supercookies-body = Webové stránky môžu k vášmu prehliadaču tajne pripojiť „supercookie“, ktorý vás bude môcť po webe sledovať, a to aj po vymazaní súborov cookie. { -brand-short-name } teraz poskytuje silnú ochranu proti supercookies, takže ich nemožno použiť na sledovanie vašich aktivít online z jedného webu na druhý.
+cfr-whatsnew-supercookies-body = Webové stránky môžu k vášmu prehliadaču tajne pripojiť “supercookie”, ktorý vás bude môcť po webe sledovať, a to aj po vymazaní súborov cookie. { -brand-short-name } teraz poskytuje silnú ochranu proti supercookies, takže ich nemožno použiť na sledovanie vašich aktivít online z jedného webu na druhý.
 
 ## What's new: Better bookmarking
 
