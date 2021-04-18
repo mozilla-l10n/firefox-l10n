@@ -127,7 +127,7 @@ menu-view-toolbars-menu =
     .label = Ленти с инструменти
     .accesskey = и
 menu-view-customize-toolbar =
-    .label = Персонализиране…
+    .label = Приспособяване…
     .accesskey = П
 menu-view-sidebar =
     .label = Странична лента
@@ -288,15 +288,6 @@ menu-window-bring-all-to-front =
 # NOTE: For Engineers, any additions or changes to Help menu strings should
 # also be reflected in the related strings in appmenu.ftl. Those strings, by
 # convention, will have the same ID as these, but prefixed with "app".
-# Example: appmenu-help-product
-#
-# These strings are duplicated to allow for different casing depending on
-# where the strings appear.
-
-
-# NOTE: For Engineers, any additions or changes to Help menu strings should
-# also be reflected in the related strings in appmenu.ftl. Those strings, by
-# convention, will have the same ID as these, but prefixed with "app".
 # Example: appmenu-get-help
 #
 # These strings are duplicated to allow for different casing depending on
@@ -320,8 +311,6 @@ menu-help-keyboard-shortcuts =
 menu-help-troubleshooting-info =
     .label = Отстраняване на неизправности
     .accesskey = И
-menu-help-taskmanager =
-    .label = Диспечер на задачите
 menu-help-report-site-issue =
     .label = Докладване на проблем със страницата…
 menu-help-feedback-page =

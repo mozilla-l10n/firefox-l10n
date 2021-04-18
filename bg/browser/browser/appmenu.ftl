@@ -5,8 +5,6 @@
 
 ## App Menu
 
-appmenuitem-update-banner =
-    .label-update-downloading = Изтегляне на обновяване на { -brand-shorter-name }
 appmenuitem-update-banner2 =
     .label-update-downloading = Изтегляне на обновяване на { -brand-shorter-name }
     .label-update-available = Налично е обновяване - изтегляне сега
@@ -15,7 +13,7 @@ appmenuitem-update-banner2 =
     .label-update-restart = Налично е обновяване - нужен рестарт
 appmenuitem-protection-dashboard-title = Табло със защити
 appmenuitem-customize-mode =
-    .label = Персонализиране…
+    .label = Приспособяване…
 
 ## Zoom Controls
 
@@ -25,8 +23,6 @@ appmenuitem-new-private-window =
     .label = Поверителен прозорец
 appmenuitem-passwords =
     .label = Пароли
-appmenuitem-extensions-and-themes =
-    .label = Разширения и теми
 appmenuitem-addons-and-themes =
     .label = Добавки и теми
 appmenuitem-find-in-page =
@@ -144,11 +140,6 @@ appmenu-about =
 appmenu-get-help =
     .label = Получете помощ
     .accesskey = П
-appmenu-help-troubleshooting-info =
-    .label = Отстраняване на неизправности
-    .accesskey = И
-appmenu-help-taskmanager =
-    .label = Диспечер на задачите
 appmenu-help-more-troubleshooting-info =
     .label = Повече информация за отстраняване на неизправности
     .accesskey = и
@@ -157,16 +148,6 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = Обратна връзка…
     .accesskey = в
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Рестартиране с изключени добавки…
-    .accesskey = д
-appmenu-help-safe-mode-with-addons =
-    .label = Рестартиране с включени добавки
-    .accesskey = д
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

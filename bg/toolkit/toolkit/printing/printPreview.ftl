@@ -25,7 +25,7 @@ printpreview-scale =
 printpreview-shrink-to-fit =
     .label = Смаляване до прилягане
 printpreview-custom =
-    .label = Персонализиране…
+    .label = Приспособяване…
 printpreview-print =
     .label = Отпечатване…
     .accesskey = п
@@ -57,4 +57,3 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = Последна страница
-
