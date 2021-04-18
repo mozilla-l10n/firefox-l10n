@@ -49,4 +49,4 @@ bookmark-overlay-keyword-2 =
     .value = 關鍵字
     .accesskey = K
 bookmark-overlay-tags-caption-label = 使用標籤在網址列管理與搜尋書籤
-bookmark-overlay-keyword-caption-label = 使用關鍵字直接從網址列開啟書籤
+bookmark-overlay-keyword-caption-label-2 = 使用單一關鍵字，直接從網址列開啟書籤
