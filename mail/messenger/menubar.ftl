@@ -46,3 +46,18 @@ toolbar-delete-button =
 toolbar-undelete-button =
     .label = Восстановить
     .tooltiptext = Отменить удаление выбранных сообщений
+
+## View / Layout
+
+mail-uidensity-label =
+    .label = Значки
+    .accesskey = н
+mail-uidensity-compact =
+    .label = Компактные
+    .accesskey = м
+mail-uidensity-normal =
+    .label = Обычные
+    .accesskey = ы
+mail-uidensity-touch =
+    .label = Сенсорные
+    .accesskey = н
