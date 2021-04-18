@@ -7,3 +7,9 @@ default-browser-notification-message = <strong>Definir { -brand-short-name } com
 default-browser-notification-button =
     .label = Definir per defaut
     .accesskey = D
+
+## These strings are used for the default browser prompt. There are 2 variations
+## depending on the operating system (Windows vs other). The checkbox label and
+## secondary button are shared between the variants.
+
+default-browser-prompt-button-secondary = Pas ara
