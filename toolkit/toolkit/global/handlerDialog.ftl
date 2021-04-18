@@ -27,7 +27,7 @@ permission-dialog-remember-file = Увек дозволи да ова датот
 
 permission-dialog-btn-open-link =
     .label = Отвори линк
-    .accessKey = л
+    .accessKey = О
 permission-dialog-btn-choose-app =
     .label = Одабери програм
     .accessKey = п
@@ -43,7 +43,7 @@ chooser-window =
     .style = min-width: 26em; min-height: 26em;
 chooser-dialog =
     .buttonlabelaccept = Отвори линк
-    .buttonaccesskeyaccept = л
+    .buttonaccesskeyaccept = О
 chooser-dialog-description = Отворите { $scheme } линк следећим програмом:
 # Please keep the emphasis around the scheme (ie the `<strong>` HTML tags).
 chooser-dialog-remember = Увек отварај <strong>{ $scheme }</strong> линкове у овом програму
