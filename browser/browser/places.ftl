@@ -5,12 +5,12 @@
 places-open =
     .label = Otvori
     .accesskey = O
-places-open-tab =
-    .label = Otvori u novoj kartici
-    .accesskey = k
 places-open-in-tab =
     .label = Otvori u novoj kartici
     .accesskey = v
+places-open-tab =
+    .label = Otvori u novoj kartici
+    .accesskey = k
 places-open-all-bookmarks =
     .label = Otvori sve zabilješke
     .accesskey = O
@@ -20,7 +20,13 @@ places-open-all-in-tabs =
 places-open-window =
     .label = Otvori u novom prozoru
     .accesskey = p
+places-open-in-window =
+    .label = Otvori u novom prozoru
+    .accesskey = n
 places-open-private-window =
+    .label = Otvori u novom privatnom prozoru
+    .accesskey = p
+places-open-in-private-window =
     .label = Otvori u novom privatnom prozoru
     .accesskey = p
 places-new-bookmark =
@@ -35,12 +41,6 @@ places-new-folder =
 places-new-separator =
     .label = Novi razdjelnik
     .accesskey = r
-places-open-in-window =
-    .label = Otvori u novom prozoru
-    .accesskey = n
-places-open-in-private-window =
-    .label = Otvori u novom privatnom prozoru
-    .accesskey = p
 places-add-bookmark =
     .label = Dodaj zabilješku…
     .accesskey = b
@@ -91,6 +91,18 @@ places-edit-bookmark =
 places-edit-generic =
     .label = Uredi…
     .accesskey = i
+places-edit-folder =
+    .label = Preimenuj mapu…
+    .accesskey = e
+places-remove-folder =
+    .label =
+        { $count ->
+            [1] Ukloni mapu
+            [one] Ukloni mapu
+            [few] Ukloni mape
+           *[other] Ukloni mape
+        }
+    .accesskey = m
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Upravljane zabilješke

@@ -49,3 +49,5 @@ customize-mode-lwthemes-my-themes =
     .value = Moje teme
 customize-mode-touchbar-cmd =
     .label = Prilagodi traku dodira…
+customize-mode-downloads-button-autohide =
+    .label = Sakrij tipku kada je prazno

@@ -200,7 +200,6 @@ onboarding-welcome-steps-indicator =
 # automatically added to the text inside it. "look" should stay inside the span.
 onboarding-multistage-theme-header = Odaberi <span data-l10n-name="zap">izgled</span>
 onboarding-multistage-theme-subtitle = Prilagodi { -brand-short-name } s temom.
-onboarding-multistage-theme-primary-button-label = Spremi temu
 onboarding-multistage-theme-primary-button-label2 = Gotovo
 onboarding-multistage-theme-secondary-button-label = Ne sada
 # Automatic theme uses operating system color settings
@@ -255,3 +254,86 @@ onboarding-multistage-theme-description-alpenglow =
     .aria-description =
         Koristi šareni izgled tipki,
         izbornika i prozora.
+
+## Multistage MR1 onboarding strings (MR1 about:welcome pages)
+
+# "Hero Text" displayed on left side of welcome screen.
+# The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
+# It also signals the passion users bring to Firefox, how they use
+# Firefox to pursue those passions, as well as the boldness in their
+# choice to use Firefox over a larger competitor browser.
+# An alternative title for localization is: "It starts here".
+mr1-welcome-screen-hero-text = Vatra počinje ovdje
+# This button will open system settings to turn on prefers-reduced-motion
+mr1-onboarding-reduce-motion-button-label = Isključi animacije
+mr1-onboarding-welcome-header = Dobro došli u { -brand-short-name }
+mr1-onboarding-set-default-pin-primary-button-label = Postavi { -brand-short-name } kao primarni preglednik
+    .title = Postavlja { -brand-short-name } kao zadani preglednik i prikvači ga na programsku traku
+mr1-onboarding-set-default-only-primary-button-label = Postavi { -brand-short-name } kao zadani preglednik
+mr1-onboarding-set-default-secondary-button-label = Ne sada
+mr1-onboarding-sign-in-button-label = Prijavi se
+mr1-onboarding-import-header = Ponesi sve sa sobom
+mr1-onboarding-import-subtitle = Uvezi svoje lozinke, <br/>zabilješke i više toga.
+# The primary import button label will depend on whether we can detect which browser was used to download Firefox.
+# Variables:
+#   $previous (Str) - Previous browser name, such as Edge, Chrome
+mr1-onboarding-import-primary-button-label-attribution = Uvezi iz { $previous }
+# This string will be used in cases where we can't detect the previous browser name.
+mr1-onboarding-import-primary-button-label-no-attribution = Uvezi iz prethodnog preglednika
+mr1-onboarding-import-secondary-button-label = Ne sada
+mr1-onboarding-theme-header = Učini ga svojim
+mr1-onboarding-theme-subtitle = Personaliziraj { -brand-short-name } temom.
+mr1-onboarding-theme-primary-button-label = Spremi temu
+mr1-onboarding-theme-secondary-button-label = Ne sada
+# System theme uses operating system color settings
+mr1-onboarding-theme-label-system = Tema sustava
+mr1-onboarding-theme-label-light = Svijetla
+mr1-onboarding-theme-label-dark = Tamna
+# "Alpenglow" here is the name of the theme, and should be kept in English.
+mr1-onboarding-theme-label-alpenglow = Alpenglow
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
+# Tooltip displayed on hover of system theme
+mr1-onboarding-theme-tooltip-system =
+    .title =
+        Slijedi temu operacijskog sustava
+        za tipke, izbornike i prozore.
+# Input description for system theme
+mr1-onboarding-theme-description-system =
+    .aria-description =
+        Slijedi temu operacijskog sustava
+        za tipke, izbornike i prozore.
+# Tooltip displayed on hover of light theme
+mr1-onboarding-theme-tooltip-light =
+    .title =
+        Koristi svijetlu temu za tipke,
+        izbornike i prozore.
+# Input description for light theme
+mr1-onboarding-theme-description-light =
+    .aria-description =
+        Koristi svijetlu temu za tipke,
+        izbornike i prozore.
+# Tooltip displayed on hover of dark theme
+mr1-onboarding-theme-tooltip-dark =
+    .title =
+        Koristi tamnu temu za tipke,
+        izbornike i prozore.
+# Input description for dark theme
+mr1-onboarding-theme-description-dark =
+    .aria-description =
+        Koristi tamnu temu za tipke,
+        izbornike i prozore.
+# Tooltip displayed on hover of Alpenglow theme
+mr1-onboarding-theme-tooltip-alpenglow =
+    .title =
+        Koristi dinamičnu, šarenu temu za tipke,
+        izbornike i prozore.
+# Input description for Alpenglow theme
+mr1-onboarding-theme-description-alpenglow =
+    .aria-description =
+        Koristi dinamičnu, šarenu temu za tipke,
+        izbornike i prozore.
