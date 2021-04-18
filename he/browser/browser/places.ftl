@@ -5,10 +5,10 @@
 places-open =
     .label = פתיחה
     .accesskey = פ
-places-open-tab =
+places-open-in-tab =
     .label = פתיחה בלשונית חדשה
     .accesskey = ל
-places-open-in-tab =
+places-open-tab =
     .label = פתיחה בלשונית חדשה
     .accesskey = ל
 places-open-all-bookmarks =
@@ -20,9 +20,15 @@ places-open-all-in-tabs =
 places-open-window =
     .label = פתיחה בחלון חדש
     .accesskey = ח
+places-open-in-window =
+    .label = פתיחה בחלון חדש
+    .accesskey = ת
 places-open-private-window =
     .label = פתיחה בחלון פרטי חדש
     .accesskey = פ
+places-open-in-private-window =
+    .label = פתיחה בחלון פרטי חדש
+    .accesskey = ט
 places-new-bookmark =
     .label = סימנייה חדשה…
     .accesskey = ס
@@ -35,12 +41,6 @@ places-new-folder =
 places-new-separator =
     .label = קו מפריד חדש
     .accesskey = ק
-places-open-in-window =
-    .label = פתיחה בחלון חדש
-    .accesskey = ת
-places-open-in-private-window =
-    .label = פתיחה בחלון פרטי חדש
-    .accesskey = ט
 places-add-bookmark =
     .label = הוספת סימנייה…
     .accesskey = מ
@@ -91,6 +91,16 @@ places-edit-bookmark =
 places-edit-generic =
     .label = עריכה…
     .accesskey = ע
+places-edit-folder =
+    .label = שינוי שם תיקייה…
+    .accesskey = ש
+places-remove-folder =
+    .label =
+        { $count ->
+            [1] הסרת תיקייה
+           *[other] הסרת תיקיות
+        }
+    .accesskey = ס
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = סימניות מנוהלות

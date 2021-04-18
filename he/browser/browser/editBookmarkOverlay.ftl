@@ -49,4 +49,4 @@ bookmark-overlay-keyword-2 =
     .value = מילת מפתח
     .accesskey = פ
 bookmark-overlay-tags-caption-label = ניתן להשתמש בתגיות כדי לארגן ולחפש סימניות משורת הכתובת
-bookmark-overlay-keyword-caption-label = ניתן להשתמש במילות מפתח כדי לפתוח סימניות היישר משורת הכתובת
+bookmark-overlay-keyword-caption-label-2 = ניתן להשתמש במילת מפתח בודדה כדי לפתוח סימניות היישר משורת הכתובת

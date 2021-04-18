@@ -13,9 +13,10 @@ default-browser-notification-button =
 ## secondary button are shared between the variants.
 
 default-browser-prompt-title-pin = להפוך את { -brand-short-name } לדפדפן הראשי שלך?
+default-browser-prompt-message-pin = כדי לשמור את { -brand-short-name } קרוב אליך — מומלץ להגדיר אותו כדפדפן ברירת המחדל ולהצמיד אותו לשורת המשימות.
 default-browser-prompt-button-primary-pin = הגדרה כדפדפן הראשי
 default-browser-prompt-title-alt = להפוך את { -brand-short-name } לדפדפן ברירת המחדל שלך?
 default-browser-prompt-message-alt = קבלת מהירות, בטיחות ופרטיות בכל פעם שגולשים ברשת.
 default-browser-prompt-button-primary-alt = הגדרה כדפדפן ברירת המחדל
-default-browser-prompt-checkbox-label = לא לשאול שוב
+default-browser-prompt-checkbox-not-again-label = לא להציג הודעה זו שוב
 default-browser-prompt-button-secondary = לא כעת
