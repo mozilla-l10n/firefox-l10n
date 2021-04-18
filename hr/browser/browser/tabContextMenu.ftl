@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+tab-context-new-tab =
+    .label = Nova kartica
+    .accesskey = t
 reload-tab =
     .label = Ponovo učitaj karticu
     .accesskey = v
@@ -66,15 +69,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Zatvori višestruke kartice
     .accesskey = t
-tab-context-share-url =
-    .label = Podijeli
-    .accesskey = h
-tab-context-share-more =
-    .label = Više…
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->
@@ -96,6 +90,15 @@ move-tabs =
 move-tab =
     .label = Pomakni karticu
     .accesskey = m
+tab-context-share-url =
+    .label = Podijeli
+    .accesskey = h
+tab-context-share-more =
+    .label = Više…
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
