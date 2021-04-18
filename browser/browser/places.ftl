@@ -5,10 +5,10 @@
 places-open =
     .label = 開啟
     .accesskey = O
-places-open-tab =
+places-open-in-tab =
     .label = 用新分頁開啟
     .accesskey = w
-places-open-in-tab =
+places-open-tab =
     .label = 用新分頁開啟
     .accesskey = w
 places-open-all-bookmarks =
@@ -20,7 +20,13 @@ places-open-all-in-tabs =
 places-open-window =
     .label = 用新視窗開啟
     .accesskey = n
+places-open-in-window =
+    .label = 用新視窗開啟
+    .accesskey = N
 places-open-private-window =
+    .label = 用新隱私視窗開啟
+    .accesskey = P
+places-open-in-private-window =
     .label = 用新隱私視窗開啟
     .accesskey = P
 places-new-bookmark =
@@ -35,12 +41,6 @@ places-new-folder =
 places-new-separator =
     .label = 新增分隔線
     .accesskey = S
-places-open-in-window =
-    .label = 用新視窗開啟
-    .accesskey = N
-places-open-in-private-window =
-    .label = 用新隱私視窗開啟
-    .accesskey = P
 places-add-bookmark =
     .label = 新增書籤…
     .accesskey = B
@@ -91,6 +91,16 @@ places-edit-bookmark =
 places-edit-generic =
     .label = 編輯…
     .accesskey = i
+places-edit-folder =
+    .label = 重新命名資料夾…
+    .accesskey = e
+places-remove-folder =
+    .label =
+        { $count ->
+            [1] 移除資料夾
+           *[other] 移除資料夾
+        }
+    .accesskey = m
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = 受管理的書籤

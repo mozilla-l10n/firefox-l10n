@@ -256,6 +256,7 @@ mr1-onboarding-set-default-pin-primary-button-label = 將 { -brand-short-name } 
 mr1-onboarding-set-default-only-primary-button-label = 將 { -brand-short-name } 設為我的預設瀏覽器
 mr1-onboarding-set-default-secondary-button-label = 暫時不要
 mr1-onboarding-sign-in-button-label = 登入
+mr1-onboarding-import-header = 隨身攜帶
 mr1-onboarding-import-subtitle =
     匯入您的密碼、書籤<br/>
     與更多資料。
@@ -266,6 +267,7 @@ mr1-onboarding-import-primary-button-label-attribution = 從 { $previous } 匯�
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = 從先前使用的瀏覽器匯入
 mr1-onboarding-import-secondary-button-label = 現在不要
+mr1-onboarding-theme-header = 有您的風格
 mr1-onboarding-theme-subtitle = 使用佈景主題，讓 { -brand-short-name } 有您的風格
 mr1-onboarding-theme-primary-button-label = 儲存佈景主題
 mr1-onboarding-theme-secondary-button-label = 現在不要
