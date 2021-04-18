@@ -965,7 +965,7 @@ sitedata-cookies-permissions =
     .accesskey = b
 sitedata-cookies-exceptions =
     .label = Hantera undantag…
-    .accesskey = x
+    .accesskey = u
 
 ## Privacy Section - Address Bar
 

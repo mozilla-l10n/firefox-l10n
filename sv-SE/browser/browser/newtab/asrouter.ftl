@@ -81,7 +81,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 ## Protections panel
 
 cfr-protections-panel-header = Surfa utan att bli följd
-cfr-protections-panel-body = Behåll dina data för dig själv. { -brand-short-name } skyddar dig från många av de vanligaste spårare som följer vad du gör online.
+cfr-protections-panel-body = Behåll dina data för dig själv. { -brand-short-name } skyddar dig från många av de vanligaste spårarna som följer vad du gör online.
 cfr-protections-panel-link-text = Läs mer
 
 ## What's New toolbar button and panel
@@ -222,8 +222,6 @@ cfr-doorhanger-milestone-heading2 =
     }
 cfr-doorhanger-milestone-ok-button = Visa alla
     .accesskey = V
-cfr-doorhanger-milestone-close-button = Stäng
-    .accesskey = S
 
 ## What’s New Panel Content for Firefox 76
 
@@ -248,6 +246,8 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Ikon för bild-i-bild
 
 ## Protections Dashboard message
 
+cfr-doorhanger-milestone-close-button = Stäng
+    .accesskey = S
 
 ## What’s New Panel Content for Firefox 76
 ## Protections Dashboard message
@@ -266,8 +266,6 @@ cfr-whatsnew-better-pdf-body = PDF-dokument öppnas nu direkt i { -brand-short-n
 
 cfr-doorhanger-doh-body = Din integritet är viktig. { -brand-short-name } dirigerar nu dina DNS-uppslag säkert, när det är möjligt, till en partnerservice för att skydda dig medan du surfar.
 cfr-doorhanger-doh-header = Säkrare, krypterade DNS-uppslag
-cfr-doorhanger-doh-primary-button = Ok, jag förstår
-    .accesskey = O
 cfr-doorhanger-doh-primary-button-2 = Okej
     .accesskey = O
 cfr-doorhanger-doh-secondary-button = Inaktivera
