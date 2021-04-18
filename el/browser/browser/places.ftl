@@ -5,12 +5,12 @@
 places-open =
     .label = Άνοιγμα
     .accesskey = ν
-places-open-tab =
-    .label = Άνοιγμα σε νέα καρτέλα
-    .accesskey = κ
 places-open-in-tab =
     .label = Άνοιγμα σε νέα καρτέλα
     .accesskey = μ
+places-open-tab =
+    .label = Άνοιγμα σε νέα καρτέλα
+    .accesskey = κ
 places-open-all-bookmarks =
     .label = Άνοιγμα όλων των σελιδοδεικτών
     .accesskey = Ά
@@ -20,9 +20,15 @@ places-open-all-in-tabs =
 places-open-window =
     .label = Άνοιγμα σε νέο παράθυρο
     .accesskey = π
+places-open-in-window =
+    .label = Άνοιγμα σε νέο παράθυρο
+    .accesskey = ν
 places-open-private-window =
     .label = Άνοιγμα σε νέο ιδιωτικό παράθυρο
     .accesskey = θ
+places-open-in-private-window =
+    .label = Άνοιγμα σε νέο ιδιωτικό παράθυρο
+    .accesskey = γ
 places-new-bookmark =
     .label = Νέος σελιδοδείκτης…
     .accesskey = σ
@@ -35,12 +41,6 @@ places-new-folder =
 places-new-separator =
     .label = Νέο διαχωριστικό
     .accesskey = χ
-places-open-in-window =
-    .label = Άνοιγμα σε νέο παράθυρο
-    .accesskey = ν
-places-open-in-private-window =
-    .label = Άνοιγμα σε νέο ιδιωτικό παράθυρο
-    .accesskey = γ
 places-add-bookmark =
     .label = Προσθήκη σελιδοδείκτη…
     .accesskey = σ
@@ -91,6 +91,16 @@ places-edit-bookmark =
 places-edit-generic =
     .label = Επεξεργασία…
     .accesskey = ρ
+places-edit-folder =
+    .label = Μετονομασία φακέλου…
+    .accesskey = ε
+places-remove-folder =
+    .label =
+        { $count ->
+            [1] Αφαίρεση φακέλου
+           *[other] Αφαίρεση φακέλων
+        }
+    .accesskey = φ
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Διαχειριζόμενοι σελιδοδείκτες
