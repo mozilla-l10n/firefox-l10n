@@ -46,3 +46,15 @@ toolbar-delete-button =
 toolbar-undelete-button =
     .label = Ångra ta bort
     .tooltiptext = Ångra borttagning av valda meddelanden
+
+## View / Layout
+
+mail-uidensity-compact =
+    .label = Kompakt
+    .accesskey = K
+mail-uidensity-normal =
+    .label = Normal
+    .accesskey = N
+mail-uidensity-touch =
+    .label = Touch
+    .accesskey = T
