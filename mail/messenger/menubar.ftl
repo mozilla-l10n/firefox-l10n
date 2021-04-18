@@ -46,3 +46,18 @@ toolbar-delete-button =
 toolbar-undelete-button =
     .label = Επαναφορά
     .tooltiptext = Επαναφορά επιλεγμένων μηνυμάτων
+
+## View / Layout
+
+mail-uidensity-label =
+    .label = Πυκνότητα
+    .accesskey = Π
+mail-uidensity-compact =
+    .label = Πολύ πυκνό
+    .accesskey = ο
+mail-uidensity-normal =
+    .label = Κανονικό
+    .accesskey = Κ
+mail-uidensity-touch =
+    .label = Αφή
+    .accesskey = Α
