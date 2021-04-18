@@ -264,6 +264,7 @@ mr1-onboarding-import-primary-button-label-attribution = 从 { $previous } 导�
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = 从先前所用浏览器导入
 mr1-onboarding-import-secondary-button-label = 暂时不要
+mr1-onboarding-theme-header = 我有我的范儿
 mr1-onboarding-theme-subtitle = 换上主题，让 { -brand-short-name } 有您的个性。
 mr1-onboarding-theme-primary-button-label = 保存主题
 mr1-onboarding-theme-secondary-button-label = 暂时不要
