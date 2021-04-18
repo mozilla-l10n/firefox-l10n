@@ -223,6 +223,7 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY pageAction.shareMore.label "Más…">
 
+<!ENTITY libraryButton.tooltip "Mira l'historial, los marcadores guardaos y más coses">
 
 <!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
