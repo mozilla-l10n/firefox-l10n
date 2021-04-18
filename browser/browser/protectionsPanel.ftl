@@ -80,6 +80,7 @@ protections-panel-cryptominers = Los minaires de criptomoneda utilizan la potén
 protections-panel-fingerprinters = Los generadors d’emprentas numericas reculhisson los paramètres del navegador e de l’ordenador per crear un perfil vòstre. En utilizant aquesta emprenta numerica vos pòdon seguir de site en site.
 protections-panel-tracking-content = Los sites web pòdon cargar de reclamas, de vidèos e d’autres contenguts extèrns amb un element de seguiment. Lo blocatge del contengut utilizat contra lo seguiment pòt accelerar lo cargament, mas es possible que unes botons, formularis o camps de connexion foncionen pas
 protections-panel-social-media-trackers = Los malhums socials plaçan de traçadors suls sites web per seguir çò que fasètz, vesètz e agachatz en linha. Aquò permet a las companhiás de malhums socials de ne saber mai sus vos al delà de çò que partejatz sus vòstre perfil de malhum social.
+protections-panel-description-shim-allowed-learn-more = Ne saber mai
 protections-panel-content-blocking-manage-settings =
     .label = Gerir los paramètres de proteccion
     .accesskey = G

@@ -6,3 +6,7 @@ common-dialog-title-null = Aqueste pagina ditz
 common-dialog-title-system = { -brand-short-name }
 # Title displayed when the origin of a web dialog is unknown.
 common-dialog-title-unknown = Desconegut
+common-dialog-username =
+    .value = Nom d’utilizaire
+common-dialog-password =
+    .value = Senhal
