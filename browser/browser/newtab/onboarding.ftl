@@ -268,11 +268,7 @@ mr1-welcome-screen-hero-text = Firefox начинается здесь
 mr1-onboarding-reduce-motion-button-label = Отключить анимации
 mr1-onboarding-welcome-header = Добро пожаловать в { -brand-short-name }
 mr1-onboarding-set-default-pin-primary-button-label = Сделать { -brand-short-name } моим основным браузером
-    .title =
-        Устанавливает { -brand-short-name } в качестве браузера по умолчанию и закрепляет на панели задач
-        
-        Устанавливает { -brand-short-name } в качестве браузера по умолчанию и закрепляет на панели задач
-        Устанавливает { -brand-short-name } в качестве браузера по умолчанию и закрепляет на панели задач
+    .title = Устанавливает { -brand-short-name } в качестве браузера по умолчанию и закрепляет на панели задач
 mr1-onboarding-set-default-only-primary-button-label = Сделать { -brand-short-name } моим браузером по умолчанию
 mr1-onboarding-set-default-secondary-button-label = Не сейчас
 mr1-onboarding-sign-in-button-label = Войти
