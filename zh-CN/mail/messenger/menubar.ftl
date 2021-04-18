@@ -46,3 +46,18 @@ toolbar-delete-button =
 toolbar-undelete-button =
     .label = 恢复
     .tooltiptext = 恢复选择的消息或文件夹
+
+## View / Layout
+
+mail-uidensity-label =
+    .label = 密度
+    .accesskey = D
+mail-uidensity-compact =
+    .label = 紧凑
+    .accesskey = C
+mail-uidensity-normal =
+    .label = 普通
+    .accesskey = N
+mail-uidensity-touch =
+    .label = 触控
+    .accesskey = T
