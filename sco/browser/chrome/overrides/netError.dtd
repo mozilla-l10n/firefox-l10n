@@ -142,13 +142,34 @@ was trying to connect. -->
 <p>Gin yer on a corporate netwark or yaisin anti-virus saftware, ye can speir at the support teams fur hauners. Forby ye can lat the wabsite’s admeenistrator ken aboot the problem.</p>
 ">
 
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "
+<p>Yer computer clock is set tae <span id='wrongSystemTime_systemDate2'/>. Mak siccar yer computer is set tae the richt date, time, and time zone in yer system settins, syne refresh <span class='hostname'/>.</p>
+<p>Gin yer clock is awready set tae the richt time, the wabsite is likely wrangly configured, and there is nowt ye can dae fur tae sort the issue. Ye can lat the wabsite’s admeenistrator ken aboot the problem.</p>
+">
 
+<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
+<p>The issue is maist likely wi the wabsite, and there is nowt ye can dae fur tae sort it. Ye can lat the wabsite’s admeenistrator ken aboot the problem.</p>
+">
 
+<!ENTITY sharedLongDesc "
+<ul>
+  <li>The site micht no be available the noo or ower thrang. Gie it anither try in a wee minute.</li>
+  <li>Gin ye cannae load onie pages, check yer computer's netwark connection.</li>
+  <li>Gin yer computer or netwark is bieldit by a firewaw or proxy, mak siccar
+    that &brandShortName; is allooed ingang tae the Wab.</li>
+</ul>
+">
 
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; stappit this page fae loadin in this wey acause the page has a content siccarness policy that disnae alloo it.</p>">
 
+<!ENTITY xfoBlocked.longDesc "<p>&brandShortName; stappit this page fae loadin in this context acause the page has an X-Frame-Options policy that disnae alloo it.</p>">
 
+<!ENTITY corruptedContentErrorv2.longDesc "<p>The page yer tryin tae view cannae be shawn acause a mishanter in the data transmission wis detectit.</p><ul><li>Please get in touch wi the wabsite owners tae lat them ken aboot this problem.</li></ul>">
 
+<!ENTITY securityOverride.exceptionButton1Label "Accept the Risk and Gang On">
 
+<!ENTITY errorReporting.automatic2 "Lat Mozilla ken aboot siclike mishanters fur tae help it identify and block uncannie sites">
+<!ENTITY errorReporting.learnMore "Learn mair…">
 
 
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
