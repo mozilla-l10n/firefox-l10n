@@ -46,3 +46,9 @@ toolbar-delete-button =
 toolbar-undelete-button =
     .label = Obnoviť
     .tooltiptext = Obnoviť odstránené správy
+
+## View / Layout
+
+mail-uidensity-label =
+    .label = Hustota
+    .accesskey = H
