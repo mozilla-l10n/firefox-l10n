@@ -46,3 +46,18 @@ toolbar-delete-button =
 toolbar-undelete-button =
     .label = Prekliči brisanje
     .tooltiptext = Razveljavi izbris izbranih sporočil
+
+## View / Layout
+
+mail-uidensity-label =
+    .label = Gostota
+    .accesskey = G
+mail-uidensity-compact =
+    .label = Strnjeno
+    .accesskey = S
+mail-uidensity-normal =
+    .label = Običajno
+    .accesskey = O
+mail-uidensity-touch =
+    .label = Dotik
+    .accesskey = D
