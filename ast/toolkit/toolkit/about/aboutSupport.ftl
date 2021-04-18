@@ -197,6 +197,11 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
+wheel-enabled = rueda del mur activada
+touch-enabled = entrada táctil activada
+drag-enabled = arrastre de la barra de desplazamientu activáu
+keyboard-enabled = tecláu activáu
+autoscroll-enabled = desplazamientu automáticu activáu
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
