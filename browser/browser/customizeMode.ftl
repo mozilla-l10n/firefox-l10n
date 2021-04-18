@@ -49,3 +49,5 @@ customize-mode-lwthemes-my-themes =
     .value = 我的佈景主題
 customize-mode-touchbar-cmd =
     .label = 自訂觸控列…
+customize-mode-downloads-button-autohide =
+    .label = 無內容時隱藏按鈕

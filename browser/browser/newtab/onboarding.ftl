@@ -241,9 +241,19 @@ onboarding-multistage-theme-description-alpenglow =
 
 ## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 
+# "Hero Text" displayed on left side of welcome screen.
+# The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
+# It also signals the passion users bring to Firefox, how they use
+# Firefox to pursue those passions, as well as the boldness in their
+# choice to use Firefox over a larger competitor browser.
+# An alternative title for localization is: "It starts here".
+mr1-welcome-screen-hero-text = 一切從這裡開始
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = 關閉動畫
 mr1-onboarding-welcome-header = 歡迎使用 { -brand-short-name }
+mr1-onboarding-set-default-pin-primary-button-label = 將 { -brand-short-name } 設為我的主要瀏覽器
+    .title = 將 { -brand-short-name } 設為預設瀏覽器並釘選到工作列
+mr1-onboarding-set-default-only-primary-button-label = 將 { -brand-short-name } 設為我的預設瀏覽器
 mr1-onboarding-set-default-secondary-button-label = 暫時不要
 mr1-onboarding-sign-in-button-label = 登入
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.

@@ -18,5 +18,5 @@ default-browser-prompt-button-primary-pin = 設為主要瀏覽器
 default-browser-prompt-title-alt = 要將 { -brand-short-name } 設為您的預設瀏覽器嗎？
 default-browser-prompt-message-alt = 隨時上網都有最快速度、安全與隱私保護。
 default-browser-prompt-button-primary-alt = 設為預設瀏覽器
-default-browser-prompt-checkbox-label = 不要再問我
+default-browser-prompt-checkbox-not-again-label = 不要再顯示此訊息
 default-browser-prompt-button-secondary = 現在不要
