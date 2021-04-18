@@ -256,6 +256,7 @@ mr1-onboarding-set-default-pin-primary-button-label = 将 { -brand-short-name } 
 mr1-onboarding-set-default-only-primary-button-label = 将 { -brand-short-name } 设为我的默认浏览器
 mr1-onboarding-set-default-secondary-button-label = 暂时不要
 mr1-onboarding-sign-in-button-label = 登录
+mr1-onboarding-import-header = 快速迁移
 mr1-onboarding-import-subtitle = 导入您的密码、书签等数据。
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
