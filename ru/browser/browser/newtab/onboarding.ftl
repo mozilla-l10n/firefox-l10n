@@ -200,7 +200,6 @@ onboarding-welcome-steps-indicator =
 # automatically added to the text inside it. "look" should stay inside the span.
 onboarding-multistage-theme-header = Выберите <span data-l10n-name="zap">внешний вид</span>
 onboarding-multistage-theme-subtitle = Персонализируйте { -brand-short-name } темами.
-onboarding-multistage-theme-primary-button-label = Сохранить тему
 onboarding-multistage-theme-primary-button-label2 = Готово
 onboarding-multistage-theme-secondary-button-label = Не сейчас
 # Automatic theme uses operating system color settings
@@ -254,4 +253,91 @@ onboarding-multistage-theme-tooltip-alpenglow-2 =
 onboarding-multistage-theme-description-alpenglow =
     .aria-description =
         Использует красочный внешний вид для кнопок,
+        меню и окон.
+
+## Multistage MR1 onboarding strings (MR1 about:welcome pages)
+
+# "Hero Text" displayed on left side of welcome screen.
+# The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
+# It also signals the passion users bring to Firefox, how they use
+# Firefox to pursue those passions, as well as the boldness in their
+# choice to use Firefox over a larger competitor browser.
+# An alternative title for localization is: "It starts here".
+mr1-welcome-screen-hero-text = Firefox начинается здесь
+# This button will open system settings to turn on prefers-reduced-motion
+mr1-onboarding-reduce-motion-button-label = Отключить анимации
+mr1-onboarding-welcome-header = Добро пожаловать в { -brand-short-name }
+mr1-onboarding-set-default-pin-primary-button-label = Сделать { -brand-short-name } моим основным браузером
+    .title =
+        Устанавливает { -brand-short-name } в качестве браузера по умолчанию и закрепляет на панели задач
+        
+        Устанавливает { -brand-short-name } в качестве браузера по умолчанию и закрепляет на панели задач
+        Устанавливает { -brand-short-name } в качестве браузера по умолчанию и закрепляет на панели задач
+mr1-onboarding-set-default-only-primary-button-label = Сделать { -brand-short-name } моим браузером по умолчанию
+mr1-onboarding-set-default-secondary-button-label = Не сейчас
+mr1-onboarding-sign-in-button-label = Войти
+mr1-onboarding-import-header = Возьмите всё с собой
+mr1-onboarding-import-subtitle = Импортируйте свои пароли, <br/>закладки и многое другое.
+# The primary import button label will depend on whether we can detect which browser was used to download Firefox.
+# Variables:
+#   $previous (Str) - Previous browser name, such as Edge, Chrome
+mr1-onboarding-import-primary-button-label-attribution = Импортировать из { $previous }
+# This string will be used in cases where we can't detect the previous browser name.
+mr1-onboarding-import-primary-button-label-no-attribution = Импортировать из предыдущего браузера
+mr1-onboarding-import-secondary-button-label = Не сейчас
+mr1-onboarding-theme-header = Сделайте его своим
+mr1-onboarding-theme-subtitle = Персонализируйте { -brand-short-name } с помощью темы.
+mr1-onboarding-theme-primary-button-label = Сохранить тему
+mr1-onboarding-theme-secondary-button-label = Не сейчас
+# System theme uses operating system color settings
+mr1-onboarding-theme-label-system = Системная тема
+mr1-onboarding-theme-label-light = Светлая
+mr1-onboarding-theme-label-dark = Тёмная
+# "Alpenglow" here is the name of the theme, and should be kept in English.
+mr1-onboarding-theme-label-alpenglow = Alpenglow
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
+# Tooltip displayed on hover of system theme
+mr1-onboarding-theme-tooltip-system =
+    .title =
+        Следовать теме операционной системы
+        для кнопок, меню и окон.
+# Input description for system theme
+mr1-onboarding-theme-description-system =
+    .aria-description =
+        Следовать теме операционной системы
+        для кнопок, меню и окон.
+# Tooltip displayed on hover of light theme
+mr1-onboarding-theme-tooltip-light =
+    .title =
+        Использовать светлую тему для кнопок,
+        меню и окон.
+# Input description for light theme
+mr1-onboarding-theme-description-light =
+    .aria-description =
+        Использовать светлую тему для кнопок,
+        меню и окон.
+# Tooltip displayed on hover of dark theme
+mr1-onboarding-theme-tooltip-dark =
+    .title =
+        Использовать тёмную тему для кнопок,
+        меню и окон.
+# Input description for dark theme
+mr1-onboarding-theme-description-dark =
+    .aria-description =
+        Использовать тёмную тему для кнопок,
+        меню и окон.
+# Tooltip displayed on hover of Alpenglow theme
+mr1-onboarding-theme-tooltip-alpenglow =
+    .title =
+        Использовать динамическую, красочную тему для кнопок,
+        меню и окон.
+# Input description for Alpenglow theme
+mr1-onboarding-theme-description-alpenglow =
+    .aria-description =
+        Использовать динамическую, красочную тему для кнопок,
         меню и окон.
