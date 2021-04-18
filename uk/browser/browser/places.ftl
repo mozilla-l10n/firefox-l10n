@@ -5,12 +5,12 @@
 places-open =
     .label = Відкрити
     .accesskey = В
-places-open-tab =
-    .label = Відкрити в новій вкладці
-    .accesskey = ц
 places-open-in-tab =
     .label = Відкрити в новій вкладці
     .accesskey = н
+places-open-tab =
+    .label = Відкрити в новій вкладці
+    .accesskey = ц
 places-open-all-bookmarks =
     .label = Відкрити всі закладки
     .accesskey = с
@@ -20,8 +20,14 @@ places-open-all-in-tabs =
 places-open-window =
     .label = Відкрити в новому вікні
     .accesskey = н
+places-open-in-window =
+    .label = Відкрити в новому вікні
+    .accesskey = о
 places-open-private-window =
     .label = Відкрити в новому приватному вікні
+    .accesskey = п
+places-open-in-private-window =
+    .label = Відкрити в приватному вікні
     .accesskey = п
 places-new-bookmark =
     .label = Нова закладка…
@@ -35,12 +41,6 @@ places-new-folder =
 places-new-separator =
     .label = Створити розділювач
     .accesskey = ю
-places-open-in-window =
-    .label = Відкрити в новому вікні
-    .accesskey = о
-places-open-in-private-window =
-    .label = Відкрити в приватному вікні
-    .accesskey = п
 places-add-bookmark =
     .label = Додати закладку…
     .accesskey = з
@@ -91,6 +91,18 @@ places-edit-bookmark =
 places-edit-generic =
     .label = Редагувати…
     .accesskey = г
+places-edit-folder =
+    .label = Перейменувати теку…
+    .accesskey = е
+places-remove-folder =
+    .label =
+        { $count ->
+            [1] Вилучити теку
+            [one] Вилучити теку
+            [few] Вилучити теки
+           *[many] Вилучити тек
+        }
+    .accesskey = и
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Керовані закладки

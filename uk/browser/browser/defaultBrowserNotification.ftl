@@ -18,5 +18,5 @@ default-browser-prompt-button-primary-pin = Зробити основним бр
 default-browser-prompt-title-alt = Зробити { -brand-short-name } вашим типовим браузером?
 default-browser-prompt-message-alt = Отримайте швидкість, безпеку та приватність завжди під час перегляду.
 default-browser-prompt-button-primary-alt = Встановити типовим браузером
-default-browser-prompt-checkbox-label = Не питати знову
+default-browser-prompt-checkbox-not-again-label = Більше не показувати це повідомлення
 default-browser-prompt-button-secondary = Не зараз
