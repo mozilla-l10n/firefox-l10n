@@ -63,6 +63,8 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (zarrós
 about-webrtc-local-candidate = Candidatu llocal
 about-webrtc-remote-candidate = Candidatu remotu
 about-webrtc-priority = Prioridá
+about-webrtc-decoder-label = Descodificador
+about-webrtc-encoder-label = Codificador
 about-webrtc-width-px = Anchor (px)
 about-webrtc-height-px = Altor (px)
 
