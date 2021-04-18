@@ -6,3 +6,7 @@ calendar-editable-item-privacy-icon-private =
     .alt = Жекелік: Жеке оқиға
 calendar-editable-item-privacy-icon-confidential =
     .alt = Жекелік: Тек уақыт пен күнді көрсету
+calendar-editable-item-todo-icon-task =
+    .alt = Тапсырма
+calendar-editable-item-todo-icon-completed-task =
+    .alt = Аяқталған тапсырма
