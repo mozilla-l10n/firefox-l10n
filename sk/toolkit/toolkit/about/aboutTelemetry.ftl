@@ -88,19 +88,19 @@ about-telemetry-filter-all-placeholder =
     .placeholder = Hľadať vo všetkých sekciách
 # Variables:
 #   $searchTerms (String): the searched terms
-about-telemetry-results-for-search = Výsledky vyhľadávania pre „{ $searchTerms }“
+about-telemetry-results-for-search = Výsledky vyhľadávania pre “{ $searchTerms }”
 # More info about it can be found here: https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
 # Variables:
 #   $sectionName (String): the section name from the structure of the ping.
 #   $currentSearchText (String): the current text in the search input
-about-telemetry-no-search-results = Mrzí nás to, no pre hľadaný výraz „{ $currentSearchText }“ sme v sekcii { $sectionName } nič nenašli
+about-telemetry-no-search-results = Mrzí nás to, no pre hľadaný výraz “{ $currentSearchText }” sme v sekcii { $sectionName } nič nenašli
 # Variables:
 #   $searchTerms (String): the searched terms
-about-telemetry-no-search-results-all = Mrzí nás to, no pre hľadaný výraz „{ $searchTerms }“ sme v žiadnej sekcii nič nenašli
+about-telemetry-no-search-results-all = Mrzí nás to, no pre hľadaný výraz “{ $searchTerms }” sme v žiadnej sekcii nič nenašli
 # This message is displayed when a section is empty.
 # Variables:
 #   $sectionName (String): is replaced by the section name.
-about-telemetry-no-data-to-display = Mrzí nás to, no v sekcii „{ $sectionName }“ nie sú dostupné žiadne údaje
+about-telemetry-no-data-to-display = Mrzí nás to, no v sekcii “{ $sectionName }” nie sú dostupné žiadne údaje
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-data-sidebar = súčasné údaje
 # used in the “Ping Type” select

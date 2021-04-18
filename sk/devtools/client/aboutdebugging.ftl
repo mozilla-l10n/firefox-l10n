@@ -138,7 +138,7 @@ about-debugging-network-location-form-invalid = Neplatný hostiteľ “{ $host-v
 # Text used as error message if the input value was already registered in the network locations form of the Setup page.
 # Variables:
 #   $host-value (string) - The input value submitted by the user in the network locations form
-about-debugging-network-location-form-duplicate = Server „{ $host-value }“ je už zaregistrovaný
+about-debugging-network-location-form-duplicate = Server “{ $host-value }” je už zaregistrovaný
 
 # Runtime Page strings
 
