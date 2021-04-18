@@ -5,12 +5,12 @@
 places-open =
     .label = Wócyniś
     .accesskey = c
-places-open-tab =
-    .label = W nowem rejtariku wócyniś
-    .accesskey = r
 places-open-in-tab =
     .label = W nowem rejtarku wócyniś
     .accesskey = n
+places-open-tab =
+    .label = W nowem rejtariku wócyniś
+    .accesskey = r
 places-open-all-bookmarks =
     .label = Wšykne cytańske znamjenja wócyniś
     .accesskey = c
@@ -20,9 +20,15 @@ places-open-all-in-tabs =
 places-open-window =
     .label = W nowem woknje wócyniś
     .accesskey = n
+places-open-in-window =
+    .label = W nowem woknje wócyniś
+    .accesskey = o
 places-open-private-window =
     .label = W nowem priwatnem woknje wócyniś
     .accesskey = r
+places-open-in-private-window =
+    .label = W nowem priwatnem woknje wócyniś
+    .accesskey = i
 places-new-bookmark =
     .label = Nowe cytańske znamje…
     .accesskey = N
@@ -35,12 +41,6 @@ places-new-folder =
 places-new-separator =
     .label = Nowa źěleńska linija
     .accesskey = l
-places-open-in-window =
-    .label = W nowem woknje wócyniś
-    .accesskey = o
-places-open-in-private-window =
-    .label = W nowem priwatnem woknje wócyniś
-    .accesskey = i
 places-add-bookmark =
     .label = Cytańske znamje pśidaś…
     .accesskey = C
@@ -91,6 +91,19 @@ places-edit-bookmark =
 places-edit-generic =
     .label = Wobźěłaś…
     .accesskey = o
+places-edit-folder =
+    .label = Zarědnik pśemjeniś…
+    .accesskey = Z
+places-remove-folder =
+    .label =
+        { $count ->
+            [1] Zarědnik wótwónoźeś
+            [one] Zarědnik wótwónoźeś
+            [two] Zarědnika wótwónoźeś
+            [few] Zarědniki wótwónoźeś
+           *[other] Zarědniki wótwónoźeś
+        }
+    .accesskey = t
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Zastojane cytańske znamjenja
