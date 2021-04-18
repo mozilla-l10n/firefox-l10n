@@ -5,22 +5,28 @@
 places-open =
     .label = Otvoriť
     .accesskey = O
-places-open-tab =
-    .label = Otvoriť na novej karte
-    .accesskey = v
 places-open-in-tab =
     .label = Otvoriť na novej karte
     .accesskey = O
+places-open-tab =
+    .label = Otvoriť na novej karte
+    .accesskey = v
 places-open-all-bookmarks =
     .label = Otvoriť všetky záložky
-    .accesskey = z
+    .accesskey = O
 places-open-all-in-tabs =
     .label = Otvoriť všetko na kartách
     .accesskey = k
 places-open-window =
     .label = Otvoriť v novom okne
     .accesskey = m
+places-open-in-window =
+    .label = Otvoriť v novom okne
+    .accesskey = o
 places-open-private-window =
+    .label = Otvoriť v novom súkromnom okne
+    .accesskey = s
+places-open-in-private-window =
     .label = Otvoriť v novom súkromnom okne
     .accesskey = s
 places-new-bookmark =
@@ -35,18 +41,12 @@ places-new-folder =
 places-new-separator =
     .label = Nový oddeľovač
     .accesskey = d
-places-open-in-window =
-    .label = Otvoriť v novom okne
-    .accesskey = o
-places-open-in-private-window =
-    .label = Otvoriť v novom súkromnom okne
-    .accesskey = s
 places-add-bookmark =
     .label = Pridať záložku…
     .accesskey = z
 places-add-folder-contextmenu =
     .label = Pridať priečinok…
-    .accesskey = p
+    .accesskey = P
 places-add-folder =
     .label = Pridať priečinok…
     .accesskey = p
@@ -91,6 +91,18 @@ places-edit-bookmark =
 places-edit-generic =
     .label = Upraviť…
     .accesskey = U
+places-edit-folder =
+    .label = Premenovať priečinok…
+    .accesskey = e
+places-remove-folder =
+    .label =
+        { $count ->
+            [1] Odstrániť priečinok
+            [one] Odstrániť priečinok
+            [few] Odstrániť priečinky
+           *[other] Odstrániť priečinky
+        }
+    .accesskey = d
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Záložky spravované správcom

@@ -18,7 +18,7 @@ login-filter =
 create-login-button = Nové prihlasovacie údaje
 fxaccounts-sign-in-text = Synchronizujte svoje heslá aj do ostatných zariadení
 fxaccounts-sign-in-button = Prihlásiť sa do služby { -sync-brand-short-name }
-fxaccounts-sign-in-sync-button = Prihlásiť sa k synchronizácii
+fxaccounts-sign-in-sync-button = Prihlásiť sa a synchronizovať
 fxaccounts-avatar-button =
     .title = Správa účtu
 

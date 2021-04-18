@@ -183,7 +183,7 @@ onboarding-multistage-pin-default-help-text = Týmto pripnete { -brand-short-nam
 onboarding-multistage-pin-default-primary-button-label = Nastavte si { -brand-short-name } ako predvolený prehliadač
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
-onboarding-multistage-import-header = Importujte svoje heslá, záložky a <span data-l10n-name="zap">mnoho ďalšieho</span>
+onboarding-multistage-import-header = Importujte svoje heslá, záložky a <span data-l10n-name="zap">ďalšie položky</span>
 onboarding-multistage-import-subtitle = Prechádzate z iného prehliadača? Všetko si môžete do { -brand-short-name(case: "gen") } jednoducho preniesť.
 onboarding-multistage-import-primary-button-label = Importovať
 onboarding-multistage-import-secondary-button-label = Teraz nie

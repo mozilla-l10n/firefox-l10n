@@ -42,5 +42,5 @@ synced-tabs-context-sync-now =
     .accesskey = N
 fxa-sign-in = Prihlásiť sa k službe { -sync-brand-short-name }
 turn-on-sync = Zapnúť { -sync-brand-short-name }
-synced-tabs-fxa-sign-in = Prihlásiť sa k synchronizácii
+synced-tabs-fxa-sign-in = Prihlásiť sa a synchronizovať
 synced-tabs-turn-on-sync = Zapnúť synchronizáciu

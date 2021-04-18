@@ -18,5 +18,5 @@ default-browser-prompt-button-primary-pin = Nastaviť ako hlavný prehliadač
 default-browser-prompt-title-alt = Nastaviť { -brand-short-name } ako predvolený prehliadač?
 default-browser-prompt-message-alt = Získajte rýchlosť, bezpečnosť a súkromie pri každom prehliadaní.
 default-browser-prompt-button-primary-alt = Nastaviť ako predvolený prehliadač
-default-browser-prompt-checkbox-label = Nabudúce sa už nepýtať
+default-browser-prompt-checkbox-not-again-label = Túto správu viac nezobrazovať
 default-browser-prompt-button-secondary = Teraz nie
