@@ -18,5 +18,5 @@ default-browser-prompt-button-primary-pin = Postavi kao primarni preglednik
 default-browser-prompt-title-alt = Postaviti { -brand-short-name } kao zadani preglednik?
 default-browser-prompt-message-alt = Brzina, sigurnost i privatnost svaki put kada surfaš.
 default-browser-prompt-button-primary-alt = Postavi kao zadani preglednik
-default-browser-prompt-checkbox-label = Ne pitaj više
+default-browser-prompt-checkbox-not-again-label = Ne prikazuj više ovu poruku
 default-browser-prompt-button-secondary = Ne sada
