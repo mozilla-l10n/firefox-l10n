@@ -170,7 +170,7 @@ onboarding-multistage-welcome-secondary-button-text = Har du allereie ein konto?
 # automatically added to the text inside it. "default" should stay inside the span.
 onboarding-multistage-set-default-header = Bruk { -brand-short-name } som <span data-l10n-name="zap">standard</span>
 onboarding-multistage-set-default-subtitle = Fart, sikkerheit og personvern kvar gong du surfar.
-onboarding-multistage-set-default-primary-button-label = Bruk som standard
+onboarding-multistage-set-default-primary-button-label = Vel som standard
 onboarding-multistage-set-default-secondary-button-label = Ikkje no
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. { -brand-short-name } should stay inside the span.
@@ -180,7 +180,7 @@ onboarding-multistage-pin-default-subtitle = Rask, sikker og privat nettlesing k
 onboarding-multistage-pin-default-waiting-subtitle = Vel { -brand-short-name } under nettlesar når innstillingane dine vert opna
 # The "settings" here refers to "Windows 10 Settings App" and not the browser's
 onboarding-multistage-pin-default-help-text = Dette vil feste { -brand-short-name } til oppgavelinja og opne innstillingar
-onboarding-multistage-pin-default-primary-button-label = Gjer { -brand-short-name } til min standardnettlesar
+onboarding-multistage-pin-default-primary-button-label = Vel { -brand-short-name } som standardnettlesar
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Importer passord, bokmerke og <span data-l10n-name="zap">meir</span>
@@ -261,8 +261,15 @@ onboarding-multistage-theme-description-alpenglow =
 
 ## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 
+mr1-onboarding-set-default-pin-primary-button-label = Vel { -brand-short-name } tsom standardnettlesar
+    .title = Stiller innn { -brand-short-name } som standardnettlesar og festar han til oppgåvelinja
+mr1-onboarding-set-default-only-primary-button-label = Vel { -brand-short-name } som stanardnettlesar
 mr1-onboarding-set-default-secondary-button-label = Ikkje no
 mr1-onboarding-sign-in-button-label = Logg inn
+# The primary import button label will depend on whether we can detect which browser was used to download Firefox.
+# Variables:
+#   $previous (Str) - Previous browser name, such as Edge, Chrome
+mr1-onboarding-import-primary-button-label-attribution = Importer frå { $previous }
 mr1-onboarding-import-secondary-button-label = Ikkje no
 mr1-onboarding-theme-primary-button-label = Lagre tema
 mr1-onboarding-theme-secondary-button-label = Ikkje no
