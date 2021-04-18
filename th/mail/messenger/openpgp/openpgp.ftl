@@ -132,6 +132,20 @@ openpgp-key-man-please-wait-tooltip =
     .label = โปรดรอในขณะที่กำลังโหลดคีย์…
 openpgp-key-man-filter-label =
     .placeholder = ค้นหาคีย์
+openpgp-key-details-signatures-tab =
+    .label = ใบรับรอง
+openpgp-key-details-structure-tab =
+    .label = โครงสร้าง
+openpgp-key-details-key-type-label = ชนิด
+openpgp-key-details-algorithm-label =
+    .label = อัลกอริทึม
+openpgp-key-details-size-label =
+    .label = ขนาด
+openpgp-key-details-usage-label =
+    .label = การใช้งาน
+openpgp-key-details-fingerprint-label = ลายนิ้วมือ
+openpgp-card-details-close-window-label =
+    .buttonlabelaccept = ปิด
 
 ## e2e encryption settings
 
@@ -140,4 +154,7 @@ openpgp-key-man-filter-label =
 
 
 ## Account settings export output
+
+
+# Strings used in enigmailMessengerOverlay.js
 
