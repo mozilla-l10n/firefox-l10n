@@ -2,9 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-tab-context-open-a-new-tab =
-    .label = Кушодани варақаи нав
-    .accesskey = К
+tab-context-new-tab =
+    .label = Варақаи нав
+    .accesskey = В
 reload-tab =
     .label = Аз нав бор кардани варақа
     .accesskey = А
