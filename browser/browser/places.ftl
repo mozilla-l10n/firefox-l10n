@@ -94,6 +94,13 @@ places-edit-generic =
 places-edit-folder =
     .label = 重命名文件夹…
     .accesskey = e
+places-remove-folder =
+    .label =
+        { $count ->
+            [1] 移除文件夹
+           *[other] 移除文件夹
+        }
+    .accesskey = m
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = 受控书签
