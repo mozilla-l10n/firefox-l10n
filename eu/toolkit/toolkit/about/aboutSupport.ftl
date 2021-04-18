@@ -134,8 +134,6 @@ troubleshoot-mode-title = Diagnostikatu arazoak
 restart-in-troubleshoot-mode-label = Arazoak konpontzeko modua…
 clear-startup-cache-title = Saiatu abioko cachea garbitzen
 clear-startup-cache-label = Garbitu abioko cachea…
-startup-cache-dialog-title = Garbitu abioko cachea
-startup-cache-dialog-body = Berrabiarazi { -brand-short-name } abioko cachea garbitzeko. Honek ez du zure ezarpenik aldatuko edo { -brand-short-name }(e)n gehitu duzun gehigarririk kenduko.
 startup-cache-dialog-title2 = Barrabiarazi { -brand-short-name } abioko cachea garbitzeko?
 startup-cache-dialog-body2 = Honek ez du zure ezarpen edo hedapenik aldatuko.
 restart-button-label = Berrabiarazi
@@ -298,13 +296,13 @@ gpu-active = Aktibo
 webgl1-wsiinfo = WebGL 1 kontrolatzailearen WSI informazioa
 webgl1-renderer = WebGL 1 kontrolatzailearen errendatzailea
 webgl1-version = WebGL 1 kontrolatzailearen bertsioa
-webgl1-driver-extensions = WebGL 1 kontrolatzailearen luzapenak
-webgl1-extensions = WebGL 1 luzapenak
+webgl1-driver-extensions = WebGL 1 kontrolatzailearen hedapenak
+webgl1-extensions = WebGL 1 hedapenak
 webgl2-wsiinfo = WebGL 2 kontrolatzailearen WSI informazioa
 webgl2-renderer = WebGL 2 kontrolatzailearen errendatzailea
 webgl2-version = WebGL 2 kontrolatzailearen bertsioa
-webgl2-driver-extensions = WebGL 2 kontrolatzailearen luzapenak
-webgl2-extensions = WebGL 2 luzapenak
+webgl2-driver-extensions = WebGL 2 kontrolatzailearen hedapenak
+webgl2-extensions = WebGL 2 hedapenak
 blocklisted-bug = Arazo ezagunengatik zerrenda beltzean
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
