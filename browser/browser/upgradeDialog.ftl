@@ -13,4 +13,14 @@ upgrade-dialog-new-secondary-button = Ikkje no
 
 ## Theme selection screen
 
+upgrade-dialog-theme-system = Systemtema
+    .title = Følg operativsystem-temaet for knappar, menyar og vindauge
+upgrade-dialog-theme-light = Lyst
+    .title = Bruk eit lyst tema for knappar, menyar og vindauge
+upgrade-dialog-theme-dark = Mørkt
+    .title = Bruk eit mørkt tema for knappar, menyar og vindauge
+upgrade-dialog-theme-alpenglow = Alpenglow
+    .title = Bruk eit dynamisk, fargerikt tema for knappar, menyar og vindauge
+upgrade-dialog-theme-keep = Behald tidlegare tema
+    .title = Bruk temaet du hadde installert før du oppdaterte { -brand-short-name }
 upgrade-dialog-theme-secondary-button = Ikkje no
