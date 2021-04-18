@@ -261,7 +261,7 @@ onboarding-multistage-theme-description-alpenglow =
 
 ## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 
-mr1-onboarding-set-default-pin-primary-button-label = Vel { -brand-short-name } tsom standardnettlesar
+mr1-onboarding-set-default-pin-primary-button-label = Vel { -brand-short-name } som standardnettlesar
     .title = Stiller innn { -brand-short-name } som standardnettlesar og festar han til oppgåvelinja
 mr1-onboarding-set-default-only-primary-button-label = Vel { -brand-short-name } som stanardnettlesar
 mr1-onboarding-set-default-secondary-button-label = Ikkje no
