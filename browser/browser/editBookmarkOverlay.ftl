@@ -49,4 +49,4 @@ bookmark-overlay-keyword-2 =
     .value = Genvej
     .accesskey = G
 bookmark-overlay-tags-caption-label = Brug mærkater til at organisere og søge efter bogmærker i adressefeltet
-bookmark-overlay-keyword-caption-label = Brug genveje til at åbne bogmærker direkte fra adressefeltet
+bookmark-overlay-keyword-caption-label-2 = Brug en genvej til at åbne bogmærker direkte fra adressefeltet
