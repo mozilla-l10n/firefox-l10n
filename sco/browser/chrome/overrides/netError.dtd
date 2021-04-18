@@ -171,14 +171,22 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "Lat Mozilla ken aboot siclike mishanters fur tae help it identify and block uncannie sites">
 <!ENTITY errorReporting.learnMore "Learn mair…">
 
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Please get in touch wi the wabsite owners fur tae let them ken aboot this problem.</li></ul></p>">
 
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc2 "Advancit info: SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY certerror.pagetitle2  "Tak Tent: Potential Siccarness Risk Aheid">
+<!ENTITY certerror.sts.pagetitle  "Didnae Connect: Potential Siccarness Issue">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> has a siccarness policy cawed HTTP Strict Transport Security (HSTS), which means that &brandShortName; can anely connect tae it siccarly. Ye cannae eik on an exception fur tae gang on tae this site.">
+<!ENTITY certerror.copyToClipboard.label "Copy text tae clipbuird">
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> yaises siccarness technology that is oot-datit and vulnerable tae an onding. It wad be gey easy fur an ondinger tae lat ken information which ye thocht tae be siccar. The wabsite admeenistrator will need tae fix the server afore ye can gang on tae the site.</p><p>Error code: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
+<!ENTITY blockedByPolicy.title "Blockit Page">
 
 
 
