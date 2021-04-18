@@ -60,4 +60,4 @@ mail-uidensity-normal =
     .accesskey = ы
 mail-uidensity-touch =
     .label = Сенсорные
-    .accesskey = н
+    .accesskey = о
