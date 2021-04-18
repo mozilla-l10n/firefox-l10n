@@ -143,14 +143,10 @@ new-message-arrival = När ny e-post kommer:
 mail-play-sound-label =
     .label =
         { PLATFORM() ->
-            [macos] Spela följande ljudfil:
-           *[other] Spela upp ett ljud
+            [macos] Spela upp följande ljudfil:
+           *[other] Spela ett ljud
         }
-    .accesskey =
-        { PLATFORM() ->
-            [macos] d
-           *[other] u
-        }
+    .accesskey = d
 mail-play-button =
     .label = Spela upp
     .accesskey = e
