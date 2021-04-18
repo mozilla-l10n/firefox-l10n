@@ -49,3 +49,5 @@ customize-mode-lwthemes-my-themes =
     .value = Mine tema
 customize-mode-touchbar-cmd =
     .label = Tilpass Touch Bar…
+customize-mode-downloads-button-autohide =
+    .label = Gøym knappen når han er tom
