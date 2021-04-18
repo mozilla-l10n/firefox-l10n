@@ -18,5 +18,5 @@ default-browser-prompt-button-primary-pin = Ορισμός ως κύριο πρ�
 default-browser-prompt-title-alt = Ορισμός { -brand-short-name } ως προεπιλεγμένου προγράμματος περιήγησης;
 default-browser-prompt-message-alt = Ταχύτητα, ασφάλεια και ιδιωτικότητα σε κάθε περιήγησή σας.
 default-browser-prompt-button-primary-alt = Ορισμός ως προεπιλεγμένο πρόγραμμα περιήγησης
-default-browser-prompt-checkbox-label = Να μη γίνει ερώτηση ξανά
+default-browser-prompt-checkbox-not-again-label = Να μην εμφανιστεί ξανά αυτό το μήνυμα
 default-browser-prompt-button-secondary = Όχι τώρα
