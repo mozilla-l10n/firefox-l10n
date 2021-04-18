@@ -319,6 +319,7 @@ identity-https-only-info-turn-off2 = As de website net liket te wurkje, dan kinn
 identity-https-only-info-no-upgrade = Kin HTTP-ferbining net fernije.
 identity-permissions-storage-access-header = Cross-sitecookies
 identity-permissions-storage-access-hint = Dizze partijen kinne wylst jo besite oan dizze website cross-sitecookies en websitegegevens brûke.
+identity-permissions-storage-access-learn-more = Mear ynfo
 identity-permissions-reload-hint = It is mooglik dat jo de side opnij lade moatte om de wizigingen aktyf te meitsjen.
 identity-permissions-empty = Jo hawwe dizze website gjin spesjale tastimmingen jûn.
 identity-clear-site-data =
@@ -581,9 +582,6 @@ pointerlock-warning-no-domain = Dit dokumint hat de kontrôle oer jo oanwizer. D
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>In part fan dizze side is ferûngelokke.</strong> Tsjinje in rapport yn om { -brand-product-name } te ynformearjen oer dit probleem en it rapper oplost te krijen.
-crashed-subframe-learnmore =
-    .label = Mear ynfo
-    .accesskey = M
 crashed-subframe-learnmore-link =
     .value = Mear ynfo
 crashed-subframe-submit =
@@ -596,8 +594,6 @@ bookmarks-show-all-bookmarks =
     .label = Alle blêdwizers toane
 bookmarks-manage-bookmarks =
     .label = Blêdwizers beheare
-bookmarks-recent-bookmarks-panel =
-    .value = Resinte blêdwizers
 bookmarks-recent-bookmarks-panel-subheader = Resinte blêdwizers
 bookmarks-toolbar-chevron =
     .tooltiptext = Mear blêdwizers toane
