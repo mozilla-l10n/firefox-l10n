@@ -5,12 +5,12 @@
 places-open =
     .label = Opne
     .accesskey = O
-places-open-tab =
-    .label = Opne i ny fane
-    .accesskey = a
 places-open-in-tab =
     .label = Opne i ny fane
     .accesskey = O
+places-open-tab =
+    .label = Opne i ny fane
+    .accesskey = a
 places-open-all-bookmarks =
     .label = Opne alle bokmerke
     .accesskey = O
@@ -20,9 +20,15 @@ places-open-all-in-tabs =
 places-open-window =
     .label = Opne i nytt vindauge
     .accesskey = p
+places-open-in-window =
+    .label = Opne i nytt vindauge
+    .accesskey = v
 places-open-private-window =
     .label = Opne i nytt privat vindauge
     .accesskey = n
+places-open-in-private-window =
+    .label = Opne i nytt privat vindauge
+    .accesskey = p
 places-new-bookmark =
     .label = Nytt bokmerke…
     .accesskey = b
@@ -35,12 +41,6 @@ places-new-folder =
 places-new-separator =
     .label = Ny skiljelinje
     .accesskey = s
-places-open-in-window =
-    .label = Opne i nytt vindauge
-    .accesskey = v
-places-open-in-private-window =
-    .label = Opne i nytt privat vindauge
-    .accesskey = p
 places-add-bookmark =
     .label = Legg til bokmerke
     .accesskey = b
@@ -91,6 +91,16 @@ places-edit-bookmark =
 places-edit-generic =
     .label = Rediger…
     .accesskey = R
+places-edit-folder =
+    .label = Endre mappenamn…
+    .accesskey = E
+places-remove-folder =
+    .label =
+        { $count ->
+            [1] Fjern mappe
+           *[other] Fjern mapper
+        }
+    .accesskey = F
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Administrerte bokmerke
