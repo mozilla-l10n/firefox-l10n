@@ -76,7 +76,7 @@ urlbar-storage-access-anchor =
 urlbar-translate-notification-anchor =
     .tooltiptext = Преведи ову страницу
 urlbar-web-rtc-share-screen-notification-anchor =
-    .tooltiptext = Управљајте дељењем ваших прозора или екрана са сајтом
+    .tooltiptext = Управљајте дељењем прозора или екрана са сајтом
 urlbar-indexed-db-notification-anchor =
     .tooltiptext = Отвори панел за ванмрежно складиште
 urlbar-password-notification-anchor =
@@ -122,11 +122,11 @@ urlbar-search-mode-history = Историја
 ##
 
 urlbar-geolocation-blocked =
-    .tooltiptext = Блокирали сте локацију за овај веб сајт.
+    .tooltiptext = Овом веб-сајту је забрањен приступ локацији.
 urlbar-xr-blocked =
     .tooltiptext = Блокирали сте приступ уређајима за виртуелну стварност за ову страници.
 urlbar-web-notifications-blocked =
-    .tooltiptext = Блокирали сте обавештења за овај веб сајт.
+    .tooltiptext = Блокирали сте обавештења са овог веб-сајта.
 urlbar-camera-blocked =
     .tooltiptext = Блокирали сте камеру за овај веб сајт.
 urlbar-microphone-blocked =
