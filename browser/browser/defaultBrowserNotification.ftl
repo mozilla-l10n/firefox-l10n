@@ -13,4 +13,6 @@ default-browser-notification-button =
 ## secondary button are shared between the variants.
 
 default-browser-prompt-title-pin = Gjere { -brand-short-name } til din primære nettlesar?
+default-browser-prompt-button-primary-pin = Bruk som standardnettlesar
+default-browser-prompt-title-alt = Bruke { -brand-short-name } som standardnettlesar?
 default-browser-prompt-button-secondary = Ikkje no

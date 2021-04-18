@@ -23,4 +23,5 @@ upgrade-dialog-theme-alpenglow = Alpenglow
     .title = Bruk eit dynamisk, fargerikt tema for knappar, menyar og vindauge
 upgrade-dialog-theme-keep = Behald tidlegare tema
     .title = Bruk temaet du hadde installert før du oppdaterte { -brand-short-name }
+upgrade-dialog-theme-primary-button = Lagre tema
 upgrade-dialog-theme-secondary-button = Ikkje no
