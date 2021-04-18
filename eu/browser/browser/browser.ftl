@@ -378,6 +378,16 @@ browser-tab-audio-pip = BIDEOA BESTE LEIHO BATEAN
 ## Variables:
 ##  $count (number): number of affected tabs
 
+browser-tab-mute =
+    { $count ->
+        [1] MUTUTU FITXA
+       *[other] MUTUTU { $count } FITXA
+    }
+browser-tab-unmute =
+    { $count ->
+        [1] EZ MUTUTU FITXA
+       *[other] EZ MUTUTU { $count } FITXA
+    }
 
 ## Bookmarks toolbar items
 
