@@ -962,7 +962,7 @@ addressbar-suggestions-settings = Camudar les preferencies pa les suxerencies de
 
 ## Privacy Section - Content Blocking
 
-content-blocking-enhanced-tracking-protection = Proteición ameyorada escontra'l rastrexu
+content-blocking-enhanced-tracking-protection = Proteición antirrastrexu ameyorada
 content-blocking-section-top-level-description = Los rastrexadores síguente per internet pa recoyer información tocante a los tos vezos de restolar ya intereses. { -brand-short-name } bloquia munchos d'esos rastrexadores y otros scripts maliciosos.
 content-blocking-learn-more = Lleer más
 content-blocking-fpi-incompatibility-warning = Tas usando Aislamientu Primariu (FPI) lo qu'anula dalgunos axustes cookies de { -brand-short-name }
@@ -1001,7 +1001,7 @@ content-blocking-cryptominers = Criptomineros
 content-blocking-fingerprinters = Xeneradores de buelgues
 content-blocking-warning-title = ¡Atención!
 content-blocking-and-isolating-etp-warning-description = Bloquiar rastrexadores y aisllar cookies pue afeutar a la funcionalidá de dalgunos sitios. Volvi cargar la páxina colos rastrexadores pa cargar tol conteníu.
-content-blocking-and-isolating-etp-warning-description-2 = Esti axuste pue causar que dalgunos sitios web nun amuesen el conteníu o funcionen correutamente. Si te paez qu'un sitiu ta estropiáu, pues desactivar la proteición escontra'l rastrexu pa esi sitiu y cargar tol conteníu.
+content-blocking-and-isolating-etp-warning-description-2 = Esti axuste pue causar que dalgunos sitios web nun amuesen el conteníu o funcionen correutamente. Si te paez qu'un sitiu ta estropiáu, pues desactivar la proteición antirrastrexu pa esi sitiu y cargar tol conteníu.
 content-blocking-warning-learn-how = Lleer cómo
 content-blocking-reload-description = Tienes de volver cargar les llingüetes p'aplicar estos cambeos.
 content-blocking-reload-tabs-button =
