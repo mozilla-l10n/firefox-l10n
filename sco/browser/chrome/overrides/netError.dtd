@@ -188,7 +188,19 @@ was trying to connect. -->
 
 <!ENTITY blockedByPolicy.title "Blockit Page">
 
+<!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> is maist likely a siccar site, but a siccar connection couldnae be estaiblished. This issue is causit by <span class='mitm-name'/>, which is either saftware on yer computer or yer netwark.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Gin yer antivirus saftware includes a featur that scans encryptit connections (oft cawed “wab scannin” or “https scannin”), ye can turn thon featur aff. Gin thon disnae wirk, ye can remuive syne resinstaw the antivirus saftware.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Gin yer on a corporate netwark, ye can get in touch wi yer IT depairtment.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Gin yer no fameeliar wi <span class='mitm-name'/>, syne this could be an onding and ye shouldnae gang on tae the site.">
+<!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Gin yer no fameeliar wi <span class='mitm-name'/>, syne this could be an onding, and there is nowt ye can dae fur tae get on tae the site.">
 
+<!ENTITY clockSkewError.longDesc "Yer computer thinks it is <span id='wrongSystemTime_systemDate1'/>, which staps &brandShortName; fae connectin siccarly. Fur tae gang on tae <span class='hostname'></span>, update yer computer clock in yer system settins tae the current date, time, and time zone, syne refresh <span class='hostname'></span>.">
 
+<!ENTITY prefReset.longDesc "It luiks like yer netwark siccarness settins micht be causin this. Are ye wantin default settins tae be restored?">
+<!ENTITY prefReset.label "Restore default settins">
 
+<!ENTITY enableTls10.longDesc "This wabsite micht no support the TLS 1.2 protocol, which is the minimum version supportit by &brandShortName;. Enablin TLS 1.0 and TLS 1.1 micht alloo this connection tae succeed.">
+<!ENTITY enableTls10.note "TLS 1.0 and TLS 1.1 will be turnt aff fur aye in a future roll-oot.">
+<!ENTITY enableTls10.label "Enable TLS 1.0 and 1.1">
 
+<!ENTITY networkProtocolError.longDesc "<p>The page yer tryin tae view cannae be shawn acause an error in the netwark protocol wis detectit.</p><ul><li>Please get in touch wi the wabsite owners fur tae lat them ken aboot this problem.</li></ul>">
