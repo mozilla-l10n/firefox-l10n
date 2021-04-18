@@ -49,6 +49,9 @@ toolbar-undelete-button =
 
 ## View / Layout
 
+mail-uidensity-label =
+    .label = Täthet
+    .accesskey = T
 mail-uidensity-compact =
     .label = Kompakt
     .accesskey = K
