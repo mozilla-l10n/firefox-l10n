@@ -72,7 +72,7 @@ downloads-cmd-clear-downloads =
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = Дозволи преузимање
-    .accesskey = o
+    .accesskey = Д
 # This is the tooltip of the action button shown when malware is blocked.
 downloads-cmd-remove-file =
     .tooltiptext = Уклони датотеку
