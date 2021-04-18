@@ -12,7 +12,7 @@
 upgrade-dialog-new-title = Поздоровайтесь с новым { -brand-short-name }
 upgrade-dialog-new-subtitle = Создан для ускорения доставки вас в нужное место
 upgrade-dialog-new-item-menu-title = Оптимизировано меню и панель инструментов
-upgrade-dialog-new-item-menu-description = Расставьте важные вещи в нужном порядке, чтобы быстрее их найти.
+upgrade-dialog-new-item-menu-description = Расставьте важные вещи в нужном порядке, чтобы быстрее найти что вам нужно.
 upgrade-dialog-new-item-tabs-title = Современные вкладки
 upgrade-dialog-new-item-tabs-description = Удобная подача информации с поддержкой фокусировки и простотой навигации.
 upgrade-dialog-new-item-icons-title = Обновлённые значки и более чёткие сообщения.
@@ -21,7 +21,7 @@ upgrade-dialog-new-primary-primary-button = Сделать { -brand-short-name }
     .title = Устанавливает { -brand-short-name } в качестве браузера по умолчанию и закрепляет его на панели задач
 upgrade-dialog-new-primary-default-button = Сделать { -brand-short-name } моим браузером по умолчанию
 upgrade-dialog-new-primary-pin-button = Закрепить { -brand-short-name } на моей панели задач
-upgrade-dialog-new-primary-theme-button = Выберите тему
+upgrade-dialog-new-primary-theme-button = Выбрать тему
 upgrade-dialog-new-secondary-button = Не сейчас
 
 ## Theme selection screen
@@ -31,7 +31,7 @@ upgrade-dialog-theme-title =
     Начните с чистого листа
     с обновлённой темой
 upgrade-dialog-theme-system = Системная тема
-    .title = Следует теме операционной системы для кнопок, меню и окон
+    .title = Следовать теме операционной системы для кнопок, меню и окон
 upgrade-dialog-theme-light = Светлая
     .title = Использовать светлую тему для кнопок, меню и окон
 upgrade-dialog-theme-dark = Тёмная
