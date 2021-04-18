@@ -122,9 +122,9 @@ urlbar-search-mode-history = Историја
 ##
 
 urlbar-geolocation-blocked =
-    .tooltiptext = Овом веб-сајту је забрањен приступ локацији.
+    .tooltiptext = Овом веб-сајту сте забранили приступ локацији.
 urlbar-xr-blocked =
-    .tooltiptext = Блокирали сте приступ уређајима за виртуелну стварност за ову страници.
+    .tooltiptext = Овом веб-сајту сте забранили приступ уређајима за виртуелну реалност.
 urlbar-web-notifications-blocked =
     .tooltiptext = Блокирали сте обавештења са овог веб-сајта.
 urlbar-camera-blocked =
