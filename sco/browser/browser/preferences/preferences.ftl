@@ -5,6 +5,7 @@
 
 ## Browser Restart Dialog
 
+should-restart-title = Restert { -brand-short-name }
 
 ## Extension Control Notifications
 ##
