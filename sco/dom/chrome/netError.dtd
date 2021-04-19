@@ -1,0 +1,42 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!-- Specific error messages -->
+
+
+
+
+
+<!ENTITY fileAccessDenied.title "Ingang tae the file wis denied">
+
+
+
+
+<!ENTITY notCached.title "Document Oot o Date">
+
+<!ENTITY netOffline.title "Affline Mode">
+
+<!ENTITY contentEncodingError.title "Content Encodin Mishanter">
+
+<!ENTITY unsafeContentType.title "File Type No Sauf">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+
+
