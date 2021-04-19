@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+tab-context-new-tab =
+    .label = Новая картка
+    .accesskey = к
 reload-tab =
     .label = Абнавіць картку
     .accesskey = А
@@ -66,15 +69,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Закрыць некалькі картак
     .accesskey = ь
-tab-context-share-url =
-    .label = Падзяліцца
-    .accesskey = П
-tab-context-share-more =
-    .label = Больш…
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->
@@ -96,6 +90,15 @@ move-tabs =
 move-tab =
     .label = Перамясціць картку
     .accesskey = м
+tab-context-share-url =
+    .label = Падзяліцца
+    .accesskey = П
+tab-context-share-more =
+    .label = Больш…
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
