@@ -46,3 +46,18 @@ toolbar-delete-button =
 toolbar-undelete-button =
     .label = Törlés visszavonása
     .tooltiptext = Kijelölt üzenetek törlésének visszavonása
+
+## View / Layout
+
+mail-uidensity-label =
+    .label = Sűrűség
+    .accesskey = S
+mail-uidensity-compact =
+    .label = Kompakt
+    .accesskey = K
+mail-uidensity-normal =
+    .label = Normál
+    .accesskey = N
+mail-uidensity-touch =
+    .label = Érintőképernyős
+    .accesskey = r
