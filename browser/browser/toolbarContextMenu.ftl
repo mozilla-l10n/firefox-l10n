@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+toolbar-context-menu-new-tab =
+    .label = Ny fane
+    .accesskey = y
 toolbar-context-menu-reload-selected-tab =
     .label = Oppdater valgte fane
     .accesskey = O
