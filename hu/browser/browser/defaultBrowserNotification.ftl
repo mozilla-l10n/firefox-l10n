@@ -18,5 +18,5 @@ default-browser-prompt-button-primary-pin = Elsődleges böngészővé tétel
 default-browser-prompt-title-alt = A { -brand-short-name } legyen az alapértelmezett böngészője?
 default-browser-prompt-message-alt = Szerezzen gyorsaságot, biztonságot és adatvédelmet minden böngészés során.
 default-browser-prompt-button-primary-alt = Beállítás alapértelmezett böngészőként
-default-browser-prompt-checkbox-label = Ne kérdezze meg újra
+default-browser-prompt-checkbox-not-again-label = Ne jelenítse meg újra ezt az üzenetet
 default-browser-prompt-button-secondary = Most nem
