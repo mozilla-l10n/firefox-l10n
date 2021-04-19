@@ -49,4 +49,4 @@ bookmark-overlay-keyword-2 =
     .value = Palabra clave
     .accesskey = v
 bookmark-overlay-tags-caption-label = Se pueden usar etiquetas para organizar y buscar marcadores desde la barra de direcciones
-bookmark-overlay-keyword-caption-label = Se pueden usar palabras clave para abrir marcadores directamente desde la barra de direcciones
+bookmark-overlay-keyword-caption-label-2 = Una sola palabra abrirá marcadores directamente desde la barra de direcciones
