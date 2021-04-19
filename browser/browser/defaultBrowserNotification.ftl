@@ -12,9 +12,10 @@ default-browser-notification-button =
 ## depending on the operating system (Windows vs other). The checkbox label and
 ## secondary button are shared between the variants.
 
-default-browser-prompt-button-primary-pin = Egin nabigatzaile lehenetsia
+default-browser-prompt-title-pin = Egin { -brand-short-name } zure nabigatzaile nagusia?
+default-browser-prompt-button-primary-pin = Egin nabigatzaile nagusia
 default-browser-prompt-title-alt = Egin { -brand-short-name } zure nabigatzaile lehenetsia?
 default-browser-prompt-message-alt = Eskuratu abiadura, segurtasuna eta pribatutasuna nabigatzen duzun aldiro.
 default-browser-prompt-button-primary-alt = Ezarri nabigatzaile lehenetsi gisa
-default-browser-prompt-checkbox-label = Ez galdetu berriz
+default-browser-prompt-checkbox-not-again-label = Ez erakutsi mezu hau berriro
 default-browser-prompt-button-secondary = Une honetan ez

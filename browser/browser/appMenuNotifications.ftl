@@ -49,6 +49,7 @@ appmenu-update-manual2 =
     .buttonaccesskey = D
     .secondarybuttonlabel = Baztertu
     .secondarybuttonaccesskey = z
+appmenu-update-manual-message2 = Ezin da { -brand-shorter-name } automatikoki eguneratu. Deskargatu bertsio berria — ez duzu gordetako informazio edo pertsonalizaziorik galduko.
 appmenu-update-unsupported2 =
     .label = Ezin da eguneratu
     .buttonlabel = Argibide gehiago

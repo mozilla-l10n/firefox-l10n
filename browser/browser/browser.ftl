@@ -388,6 +388,11 @@ browser-tab-unmute =
         [1] EZ MUTUTU FITXA
        *[other] EZ MUTUTU { $count } FITXA
     }
+browser-tab-unblock =
+    { $count ->
+        [1] ERREPRODUZITU FITXA
+       *[other] ERREPRODUZITU { $count } FITXA
+    }
 
 ## Bookmarks toolbar items
 

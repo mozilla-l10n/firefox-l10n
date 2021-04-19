@@ -89,7 +89,7 @@ login-item-new-login-title = Sortu saio-hasiera berria
 login-item-edit-button = Editatu
 about-logins-login-item-remove-button = Kendu
 login-item-origin-label = Webgunearen helbidea
-login-item-tooltip-message = Ziurtatu hau bat datorrela saioa-hasten duzun webgunearen helbide zehatzarekin.
+login-item-tooltip-message = Ziurtatu hau bat datorrela saioa hasten duzun webgunearen helbide zehatzarekin.
 login-item-origin =
     .placeholder = https://www.adibidea.eus
 login-item-username-label = Erabiltzaile-izena
@@ -340,6 +340,10 @@ about-logins-import-report-row-description-error-missing-field = Errorea { $fiel
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-report-added =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Saio-hasiera berri gehitu dira</div>
+    }
 
 ## Logins import report page
 
