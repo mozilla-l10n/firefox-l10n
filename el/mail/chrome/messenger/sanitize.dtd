@@ -31,8 +31,8 @@ that require it.  -->
 <!ENTITY itemHistory.accesskey             "Ι">
 <!ENTITY itemCookies.label                 "Cookies">
 <!ENTITY itemCookies.accesskey             "C">
-<!ENTITY itemCache.label                   "Προσωρινή μνήμη">
-<!ENTITY itemCache.accesskey               "ω">
+<!ENTITY itemCache.label                   "Κρυφή μνήμη">
+<!ENTITY itemCache.accesskey               "Κ">
 
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI
