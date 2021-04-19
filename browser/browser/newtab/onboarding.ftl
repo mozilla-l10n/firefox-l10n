@@ -267,9 +267,66 @@ mr1-onboarding-set-default-secondary-button-label = No net
 mr1-onboarding-sign-in-button-label = Oanmelde
 mr1-onboarding-import-header = Nim alles mei jo mei
 mr1-onboarding-import-subtitle = Ymportearje jo wachtwurden, <br/>blêdwizers en mear.
+# The primary import button label will depend on whether we can detect which browser was used to download Firefox.
+# Variables:
+#   $previous (Str) - Previous browser name, such as Edge, Chrome
+mr1-onboarding-import-primary-button-label-attribution = Ymportearje út { $previous }
+# This string will be used in cases where we can't detect the previous browser name.
+mr1-onboarding-import-primary-button-label-no-attribution = Ymportearje út foarige browser
+mr1-onboarding-import-secondary-button-label = No net
+mr1-onboarding-theme-header = Meitsje it fan josels
+mr1-onboarding-theme-subtitle = Personalisearje { -brand-short-name } mei in tema.
+mr1-onboarding-theme-primary-button-label = Tema bewarje
+mr1-onboarding-theme-secondary-button-label = No net
+# System theme uses operating system color settings
+mr1-onboarding-theme-label-system = Systeemtema
+mr1-onboarding-theme-label-light = Ljocht
+mr1-onboarding-theme-label-dark = Donker
+# "Alpenglow" here is the name of the theme, and should be kept in English.
+mr1-onboarding-theme-label-alpenglow = Alpenglow
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of system theme
+mr1-onboarding-theme-tooltip-system =
+    .title =
+        It tema fan it bestjoeringssysteem
+        foar knoppen, menu’s en finsters folgje.
+# Input description for system theme
+mr1-onboarding-theme-description-system =
+    .aria-description =
+        It tema fan it bestjoeringssysteem
+        foar knoppen, menu’s en finsters folgje.
+# Tooltip displayed on hover of light theme
+mr1-onboarding-theme-tooltip-light =
+    .title =
+        In ljocht tema brûke foar knoppen,
+        menu‘s en finsters.
+# Input description for light theme
+mr1-onboarding-theme-description-light =
+    .aria-description =
+        In ljocht tema brûke foar knoppen,
+        menu‘s en finsters.
+# Tooltip displayed on hover of dark theme
+mr1-onboarding-theme-tooltip-dark =
+    .title =
+        In donker tema brûke foar knoppen,
+        menu‘s en finsters.
+# Input description for dark theme
+mr1-onboarding-theme-description-dark =
+    .aria-description =
+        In donker tema brûke foar knoppen,
+        menu‘s en finsters.
+# Tooltip displayed on hover of Alpenglow theme
+mr1-onboarding-theme-tooltip-alpenglow =
+    .title =
+        In dynamysk, kleurryk tema brûke foar knoppen,
+        menu’s en finsters.
+# Input description for Alpenglow theme
+mr1-onboarding-theme-description-alpenglow =
+    .aria-description =
+        In dynamysk, kleurryk tema brûke foar knoppen,
+        menu’s en finsters.
