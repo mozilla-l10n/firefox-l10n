@@ -265,6 +265,7 @@ mr1-onboarding-set-default-pin-primary-button-label = Egin { -brand-short-name }
 mr1-onboarding-set-default-only-primary-button-label = Egin { -brand-short-name } nire nabigatzaile lehenetsia
 mr1-onboarding-set-default-secondary-button-label = Une honetan ez
 mr1-onboarding-sign-in-button-label = Hasi saioa
+mr1-onboarding-import-header = Eraman guztia aldean
 mr1-onboarding-import-subtitle = Inportatu zure pasahitzak, <br/>laster-markak eta gehiago.
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
@@ -273,6 +274,7 @@ mr1-onboarding-import-primary-button-label-attribution = Inportatu { $previous }
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = Inportatu aurreko nabigatzailetik
 mr1-onboarding-import-secondary-button-label = Une honetan ez
+mr1-onboarding-theme-header = Moldatu zure erara
 mr1-onboarding-theme-subtitle = Pertsonalizatu { -brand-short-name } itxura batekin.
 mr1-onboarding-theme-primary-button-label = Gorde itxura
 mr1-onboarding-theme-secondary-button-label = Une honetan ez
