@@ -46,3 +46,18 @@ toolbar-delete-button =
 toolbar-undelete-button =
     .label = Verwijderen ongedaan maken
     .tooltiptext = Verwijdering van geselecteerde berichten ongedaan maken
+
+## View / Layout
+
+mail-uidensity-label =
+    .label = Dichtheid
+    .accesskey = D
+mail-uidensity-compact =
+    .label = Compact
+    .accesskey = C
+mail-uidensity-normal =
+    .label = Normaal
+    .accesskey = N
+mail-uidensity-touch =
+    .label = Aanraking
+    .accesskey = A
