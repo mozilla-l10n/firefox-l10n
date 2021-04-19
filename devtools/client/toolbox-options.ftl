@@ -9,7 +9,7 @@
 ## Default Developer Tools section
 
 # The heading
-options-select-default-tools-label = Ferramientes de desendolcu predeterminaes
+options-select-default-tools-label = DevTools predeterminaes
 # The label for the heading of group of checkboxes corresponding to the default developer
 # tool buttons.
 options-select-enabled-toolbox-buttons-label = Botones disponibles na caxa de ferramientes

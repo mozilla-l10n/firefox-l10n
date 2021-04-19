@@ -2,8 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-head-title = Tocante a Ferramientes de desendolcu
-welcome-title = ¡Afáyate nes ferramientes de desendolcu de Firefox!
+head-title = Tocante a DevTools
+welcome-title = ¡Afáyate nes DevTools de Firefox!
 newsletter-title = Boletín pa desendolcadores de Mozilla
 newsletter-email-placeholder =
     .placeholder = Corréu
