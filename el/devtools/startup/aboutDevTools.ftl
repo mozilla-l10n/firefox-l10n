@@ -35,7 +35,7 @@ features-debugger-desc = Ισχυρός έλεγχος σφαλμάτων JavaSc
 features-network-title = Δίκτυο
 features-network-desc = Εποπτεία των αιτημάτων δικτύου που ενδέχεται να καθυστερούν ή να αποκλείουν την ιστοσελίδα σας. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-storage-title = Αποθήκευση
-features-storage-desc = Διαχείριση προσωρινής μνήμης, cookies, βάσεων δεδομένων και δεδομένων συνεδρίας. <a data-l10n-name="learn-more">{ features-learn-more }</a>
+features-storage-desc = Διαχείριση κρυφής μνήμης, cookies, βάσεων δεδομένων και δεδομένων συνεδρίας. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-responsive-title = Ευελιξία σχεδίου
 features-responsive-desc = Δοκιμή ιστοσελίδων σε εξομοιωτές συσκευών στο πρόγραμμα περιήγησής σας. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-visual-editing-title = Οπτική επεξεργασία
