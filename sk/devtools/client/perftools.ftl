@@ -74,6 +74,12 @@ perftools-thread-gecko-main =
     .title = Hlavné procesy pre nadradený proces aj pre procesy obsahu
 perftools-thread-compositor =
     .title = Skladá dohromady rôzne vykreslené prvky na stránke
+perftools-thread-dom-worker =
+    .title = Toto zahŕňa skripty typu worker pre web aj service
+perftools-thread-renderer =
+    .title = Ak je povolený WebRender, ide o vlákno, ktoré vykonáva volania OpenGL
+perftools-thread-render-backend =
+    .title = Vlákno WebRender RenderBackend
 
 ##
 
@@ -83,5 +89,7 @@ perftools-thread-compositor =
 ## preferences are true.
 
 perftools-onboarding-message = <b>Novinka</b>: { -profiler-brand-name } je teraz integrovaný do Nástrojov pre vývojárov. <a>Pozrite si ďalšie informácie</a> o tomto novom výkonnom nástroji.
+# `options-context-advanced-settings` is defined in toolbox-options.ftl
+perftools-onboarding-reenable-old-panel = (Na obmedzený čas máte prístup k pôvodnému panelu Výkon prostredníctvom položky <a>{ options-context-advanced-settings }</a>)
 perftools-onboarding-close-button =
     .aria-label = Zavrieť informačnú správu
