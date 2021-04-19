@@ -38,7 +38,7 @@ printui-scale-fit-to-page-width = Ajustar à largura da página
 printui-scale-pcent = Escala
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Impressão frente e verso
-printui-two-sided-printing-off = Desligado
+printui-two-sided-printing-off = Não
 # Flip the sheet as if it were bound along its long edge.
 printui-two-sided-printing-long-edge = Virar na borda longa
 # Flip the sheet as if it were bound along its short edge.
