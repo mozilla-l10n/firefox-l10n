@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+page-title = Fankle-fixin Information
 restart-in-safe-mode-label = Restert Wi Eik-ons Disabled…
 restart-in-troubleshoot-mode-label = Fankle-fixin Mode…
 restart-button-label = Restert
