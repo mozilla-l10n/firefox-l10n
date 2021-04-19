@@ -49,7 +49,7 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Τα c
 # the internal default home page.
 experimental-features-abouthome-startup-cache =
     .label = Κρυφή μνήμη εκκίνησης about:home
-experimental-features-abouthome-startup-cache-description = Μια προσωρινή μνήμη για το έγγραφο about:home που φορτώνεται από προεπιλογή κατά την εκκίνηση. Ο σκοπός της προσωρινής μνήμης είναι η βελτίωση της απόδοσης εκκίνησης.
+experimental-features-abouthome-startup-cache-description = Κρυφή μνήμη για το αρχικό έγγραφο about:home που φορτώνεται από προεπιλογή κατά την εκκίνηση. Ο σκοπός της κρυφής μνήμης είναι η βελτίωση της απόδοσης εκκίνησης.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =

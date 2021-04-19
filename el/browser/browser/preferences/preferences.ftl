@@ -551,7 +551,7 @@ home-prefs-recommended-by-option-sponsored-stories =
     .label = Χορηγούμενες ιστορίες
 home-prefs-highlights-header =
     .label = Κορυφαίες στιγμές
-home-prefs-highlights-description = Μια συλλογή ιστοσελίδων που έχετε αποθηκεύσει ή επισκεφθεί
+home-prefs-highlights-description = Μια συλλογή ιστοσελίδων από τους σελιδοδείκτες ή το ιστορικό
 home-prefs-highlights-option-visited-pages =
     .label = Σελίδες που έχετε επισκεφθεί
 home-prefs-highlights-options-bookmarks =
@@ -922,7 +922,7 @@ sitedata-total-size-calculating = Υπολογισμός μεγέθους δεδ
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size = Τα αποθηκευμένα cookies, δεδομένα ιστοσελίδων και η προσωρινή μνήμη, αυτή τη στιγμή, καταλαμβάνουν { $value } { $unit } χώρου στο δίσκο.
+sitedata-total-size = Αυτή τη στιγμή, τα αποθηκευμένα cookies, τα δεδομένα ιστοσελίδων και η κρυφή μνήμη καταλαμβάνουν { $value } { $unit } χώρου δίσκου.
 sitedata-learn-more = Μάθετε περισσότερα
 sitedata-delete-on-close =
     .label = Διαγραφή cookies και δεδομένων ιστοσελίδων όταν κλείνει το { -brand-short-name }

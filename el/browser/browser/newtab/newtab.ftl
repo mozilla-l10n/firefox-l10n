@@ -54,7 +54,7 @@ newtab-topsites-title-input =
     .placeholder = Εισάγετε έναν τίτλο
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
-    .placeholder = Πληκτρολόγηση ή επικόλληση ενός URL
+    .placeholder = Εισαγωγή ή επικόλληση URL
 newtab-topsites-url-validation = Απαιτείται έγκυρο URL
 newtab-topsites-image-url-label = URL προσαρμοσμένης εικόνας
 newtab-topsites-use-image-link = Χρήση προσαρμοσμένης εικόνας…
@@ -245,7 +245,7 @@ newtab-custom-pocket-title = Προτείνεται από το { -pocket-brand-
 newtab-custom-pocket-subtitle = Εξαιρετικό περιεχόμενο από το { -pocket-brand-name }, μέρος της οικογένειας του { -brand-product-name }
 newtab-custom-pocket-sponsored = Χορηγούμενα άρθρα
 newtab-custom-recent-title = Πρόσφατη δραστηριότητα
-newtab-custom-recent-subtitle = Μια συλλογή πρόσφατων ιστοσελίδων και περιεχομένου
+newtab-custom-recent-subtitle = Συλλογή πρόσφατων σελίδων και περιεχομένου
 newtab-custom-close-button = Κλείσιμο
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
