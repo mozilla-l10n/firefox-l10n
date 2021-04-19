@@ -21,8 +21,8 @@
 <!ENTITY itemFormSearchHistory.label     "Αποθηκευμένο ιστορικό αναζήτησης και φορμών">
 <!ENTITY itemFormSearchHistory.accesskey "φ">
 <!ENTITY itemFormSearchHistoryS.accesskey "μ">
-<!ENTITY itemCache.label                 "Προσωρινή μνήμη">
-<!ENTITY itemCache.accesskey             "σ">
+<!ENTITY itemCache.label                 "Κρυφή μνήμη">
+<!ENTITY itemCache.accesskey             "μ">
 <!ENTITY itemCacheS.accesskey            "ν">
 <!ENTITY itemCookies.label               "Cookies">
 <!ENTITY itemCookies.accesskey           "C">

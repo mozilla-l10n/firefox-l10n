@@ -30,7 +30,7 @@
 <!ENTITY  generalMode           "Λειτουργία εμφάνισης:">
 <!ENTITY  generalSize           "Μέγεθος:">
 <!ENTITY  generalReferrer       "URL παραπομπής:">
-<!ENTITY  generalSource         "Πηγή προσωρινής μνήμης:">
+<!ENTITY  generalSource         "Πηγή κρυφής μνήμης:">
 <!ENTITY  generalModified       "Τροποποίηση:">
 <!ENTITY  generalEncoding2      "Κωδικοποίηση κειμένου:">
 <!ENTITY  generalMetaName       "Όνομα">

@@ -10,7 +10,7 @@
 <!ENTITY debugRendering.label             "Απόδοση">
 <!ENTITY debugXULBox.label                "Έλεγχος σφαλμάτων πλαισίων XUL">
 <!ENTITY debugXULBox.accesskey            "X">
-<!ENTITY debugDisableXULCache.label       "Απενεργοποίηση προσωρινής μνήμης XUL">
+<!ENTITY debugDisableXULCache.label       "Απενεργοποίηση κρυφής μνήμης XUL">
 <!ENTITY debugDisableXULCache.accesskey   "L">
 
 <!-- Event Debugging -->
