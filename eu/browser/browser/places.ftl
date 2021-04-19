@@ -5,12 +5,12 @@
 places-open =
     .label = Ireki
     .accesskey = I
-places-open-tab =
-    .label = Ireki fitxa berri batean
-    .accesskey = x
 places-open-in-tab =
     .label = Ireki fitxa berrian
     .accesskey = b
+places-open-tab =
+    .label = Ireki fitxa berri batean
+    .accesskey = x
 places-open-all-bookmarks =
     .label = Ireki laster-marka guztiak
     .accesskey = r
@@ -20,9 +20,15 @@ places-open-all-in-tabs =
 places-open-window =
     .label = Ireki leiho berri batean
     .accesskey = n
+places-open-in-window =
+    .label = Ireki leiho berrian
+    .accesskey = b
 places-open-private-window =
     .label = Ireki leiho pribatu berrian
     .accesskey = p
+places-open-in-private-window =
+    .label = Ireki lotura leiho pribatu berrian
+    .accesskey = t
 places-new-bookmark =
     .label = Laster-marka berria…
     .accesskey = b
@@ -35,12 +41,6 @@ places-new-folder =
 places-new-separator =
     .label = Bereizle berria
     .accesskey = z
-places-open-in-window =
-    .label = Ireki leiho berrian
-    .accesskey = b
-places-open-in-private-window =
-    .label = Ireki lotura leiho pribatu berrian
-    .accesskey = t
 places-add-bookmark =
     .label = Gehitu laster-marka…
     .accesskey = G
@@ -91,6 +91,16 @@ places-edit-bookmark =
 places-edit-generic =
     .label = Editatu…
     .accesskey = i
+places-edit-folder =
+    .label = Berrizendatu karpeta…
+    .accesskey = e
+places-remove-folder =
+    .label =
+        { $count ->
+            [1] Kendu karpeta
+           *[other] Kendu karpetak
+        }
+    .accesskey = n
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Kudeatutako laster-markak

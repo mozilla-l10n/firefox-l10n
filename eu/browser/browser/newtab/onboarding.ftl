@@ -172,7 +172,7 @@ onboarding-multistage-set-default-header = Egizu { -brand-short-name } zure nabi
 onboarding-multistage-set-default-subtitle = Abiadura, segurtasuna eta pribatutasuna nabigatzen duzun aldiro.
 onboarding-multistage-set-default-primary-button-label = Lehenetsi
 onboarding-multistage-set-default-secondary-button-label = Une honetan ez
-onboarding-multistage-pin-default-primary-button-label = Egin { -brand-short-name } nire nabigatzaile lehenetsia
+onboarding-multistage-pin-default-primary-button-label = Egin { -brand-short-name } nire nabigatzaile nagusia
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Inportatu zure pasahitzak, <br/>laster-markak eta <span data-l10n-name="zap">gehiago</span>
@@ -257,8 +257,10 @@ onboarding-multistage-theme-description-alpenglow =
 # choice to use Firefox over a larger competitor browser.
 # An alternative title for localization is: "It starts here".
 mr1-welcome-screen-hero-text = Dena hemen hasten da
+# This button will open system settings to turn on prefers-reduced-motion
+mr1-onboarding-reduce-motion-button-label = Desgaitu animazioak
 mr1-onboarding-welcome-header = Ongi etorri { -brand-short-name }(e)ra
-mr1-onboarding-set-default-pin-primary-button-label = Egin { -brand-short-name } nire nabigatzaile lehenetsia
+mr1-onboarding-set-default-pin-primary-button-label = Egin { -brand-short-name } nire nabigatzaile nagusia
     .title = { -brand-short-name } nabigatzaile lehenetsi gisa ezarri eta ataza-barran ainguratzen du
 mr1-onboarding-set-default-only-primary-button-label = Egin { -brand-short-name } nire nabigatzaile lehenetsia
 mr1-onboarding-set-default-secondary-button-label = Une honetan ez
