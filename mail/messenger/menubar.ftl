@@ -46,3 +46,18 @@ toolbar-delete-button =
 toolbar-undelete-button =
     .label = Recuperar
     .tooltiptext = Recuperar los mensajes seleccionados
+
+## View / Layout
+
+mail-uidensity-label =
+    .label = Densidad
+    .accesskey = D
+mail-uidensity-compact =
+    .label = Compacto
+    .accesskey = C
+mail-uidensity-normal =
+    .label = Normal
+    .accesskey = N
+mail-uidensity-touch =
+    .label = Táctil
+    .accesskey = T
