@@ -13,4 +13,13 @@ upgrade-dialog-new-title = Si hei til nye { -brand-short-name }
 
 ## Theme selection screen
 
+upgrade-dialog-theme-light = Lyst
+    .title = Bruk et lyst tema for knapper, menyer og vinduer
+upgrade-dialog-theme-dark = Mørkt
+    .title = Bruk et mørkt tema for knapper, menyer og vinduer
+upgrade-dialog-theme-alpenglow = Alpenglow
+    .title = Bruk et dynamisk, fargerikt tema for knapper, menyer og vinduer
+upgrade-dialog-theme-keep = Behold tidlegare tema
+    .title = Bruk temaet du hadde installert før du oppdaterte { -brand-short-name }
+upgrade-dialog-theme-primary-button = Lagre tema
 upgrade-dialog-theme-secondary-button = Ikke nå
