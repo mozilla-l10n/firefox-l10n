@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "Ireki menua">
+
 <!ENTITY navbarOverflow.label                "Tresna gehiago…">
 
 <!-- Tab context menu -->
@@ -42,7 +43,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY fullScreenCmd.label "Pantaila osoa">
 
-
 <!ENTITY pictureInPictureHideToggle.label "Ezkutatu bideoa beste leiho batean txandakatzeko botoia">
 <!ENTITY pictureInPictureHideToggle.accesskey "E">
 
@@ -53,6 +53,9 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Konektatu beste gailu bat…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     followed by the user's email. -->
 <!ENTITY fxa.menu.signin.label "Hasi saioa &brandProductName;(e)n">
 <!ENTITY fxa.menu.turnOnSync.label "Aktibatu &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "&brandProductName; zerbitzuak">
@@ -98,11 +101,10 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY printButton.label            "Inprimatu">
 <!ENTITY printButton.tooltip          "Inprimatu orri hau">
 
-
 <!ENTITY searchItem.title             "Bilatu">
 
 <!-- Toolbar items -->
-<!ENTITY homeButton.label             "Etxea">
+<!ENTITY homeButton.label             "Hasiera-orria">
 <!ENTITY homeButton.defaultPage.tooltip "&brandShortName; hasiera-orria">
 
 <!ENTITY bookmarksButton.label          "Laster-markak">
@@ -147,6 +149,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY historyUndoWindowMenu.label "Itxitako azken leihoak">
 
 <!ENTITY appMenuHistory.showAll.label "Erakutsi historia guztia">
+
 <!ENTITY appMenuHistory.clearRecent.label "Garbitu azken historia…">
 <!ENTITY appMenuHistory.restoreSession.label "Berreskuratu aurreko saioa">
 <!ENTITY appMenuHistory.viewSidebar.label "Ikusi historiaren alboko barra">
@@ -155,12 +158,15 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuHelp.label "Laguntza">
 
 <!ENTITY appMenuRemoteTabs.label "Sinkronizatutako fitxak">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Irekitako fitxarik ez">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showMore.label "Erakutsi gehiago">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.tooltip):
+     This is shown after the tabs list if we can display more tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showMore.tooltip "Erakutsi gailu honetako fitxa gehiago">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
@@ -223,14 +229,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY emailPageCmd.label           "Bidali lotura postaz…">
 
-<!-- Media (video/audio) controls -->
-
-<!-- LOCALIZATION NOTE :
-fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
-fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
-If shift key is needed with your locale popular keyboard for them,
-you can use these alternative items. Otherwise, their values should be empty.  -->
-
 <!ENTITY fullZoom.label                 "Zooma">
 
 <!ENTITY sidebarCloseButton.tooltip     "Itxi alboko barra">
@@ -255,7 +253,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY spellAddDictionaries.label "Gehitu hiztegiak…">
 <!ENTITY spellAddDictionaries.accesskey "G">
-
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
