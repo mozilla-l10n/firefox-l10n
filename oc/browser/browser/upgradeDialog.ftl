@@ -8,6 +8,7 @@
 
 ## New changes screen
 
+upgrade-dialog-new-primary-pin-button = Penjar { -brand-short-name } a ma barra de prètzfaches
 upgrade-dialog-new-primary-theme-button = Causir un tèma
 upgrade-dialog-new-secondary-button = Pas ara
 
@@ -18,9 +19,14 @@ upgrade-dialog-theme-title =
     Començatz ben
     amb un tèma actualizat
 upgrade-dialog-theme-system = Tèma sistèma
-    .title = Seguís lo tèma del sistèma operatiu pels botons, menús e las fenèstras
+    .title = Seguir lo tèma del sistèma operatiu pels botons, menús e las fenèstras
 upgrade-dialog-theme-light = Clar
-    .title = Utiliza un tèma clar pels botons, menús e las fenèstras
+    .title = Utilizar un tèma clar pels botons, menús e las fenèstras
 upgrade-dialog-theme-dark = Fosc
-    .title = Utiliza un tèma fosc pels botons, menús e las fenèstras
+    .title = Utilizar un tèma fosc pels botons, menús e las fenèstras
+upgrade-dialog-theme-alpenglow = Alpenglow
+    .title = Utilizar un tèma pintrat pels botons, menús e las fenèstras
+upgrade-dialog-theme-keep = Gardar lo precedent
+    .title = Utilizar lo tèma qu’installaretz abans la mesa a jorn de { -brand-short-name }
+upgrade-dialog-theme-primary-button = Salvar lo tèma
 upgrade-dialog-theme-secondary-button = Pas ara

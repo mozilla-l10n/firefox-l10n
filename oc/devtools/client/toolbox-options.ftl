@@ -61,6 +61,8 @@ options-screenshot-label = Compòrtament per las capturas d’ecran
 options-screenshot-clipboard-label = Captura d'ecran cap al pòrtapapièr
 options-screenshot-clipboard-tooltip =
     .title = Servar la captura d'ecran dirèctament al pòrtapapièr
+options-screenshot-clipboard-tooltip2 =
+    .title = Servar la captura d'ecran dirèctament al pòrtapapièr
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
 options-screenshot-audio-label = Emetre lo son d'un obturador optic
 options-screenshot-audio-tooltip =
@@ -85,7 +87,7 @@ options-sourceeditor-keybinding-default-label = Per defaut
 
 ## Advanced section
 
-# The heading
+# The heading (this item is also used in perftools.ftl)
 options-context-advanced-settings = Paramètres avançats
 # The label for the checkbox that toggles the HTTP cache on or off
 options-disable-http-cache-label = Desactivar lo cache HTTP (quand la bóstia d'aisinas es dobèrta)
