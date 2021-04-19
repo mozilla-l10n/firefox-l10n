@@ -11,6 +11,7 @@
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-url-label = URL
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
