@@ -10,7 +10,7 @@
 <!ENTITY usingSubscription.accesskey "γ">
 <!ENTITY dualUseFolders.label "Ο διακομιστής υποστηρίζει φακέλους που περιέχουν υποφακέλους και μηνύματα">
 <!ENTITY dualUseFolders.accesskey "φ">
-<!ENTITY maximumConnectionsNumber.label "Μέγιστος αριθμός συνδέσεων διακομιστή στην προσωρινή μνήμη">
+<!ENTITY maximumConnectionsNumber.label "Μέγιστος αριθμός συνδέσεων διακομιστή στην κρυφή μνήμη">
 <!ENTITY maximumConnectionsNumber.accesskey "Μ">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): DONT_TRANSLATE "IMAP" -->
 <!ENTITY namespaceDesc.label "Αυτές οι προτιμήσεις καθορίζουν τους χώρους ονομάτων στον διακομιστή IMAP σας">
