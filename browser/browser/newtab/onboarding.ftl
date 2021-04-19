@@ -200,7 +200,6 @@ onboarding-welcome-steps-indicator =
 # automatically added to the text inside it. "look" should stay inside the span.
 onboarding-multistage-theme-header = Kies een <span data-l10n-name="zap">uiterlijk</span>
 onboarding-multistage-theme-subtitle = Personaliseer { -brand-short-name } met een thema.
-onboarding-multistage-theme-primary-button-label = Thema opslaan
 onboarding-multistage-theme-primary-button-label2 = Gereed
 onboarding-multistage-theme-secondary-button-label = Niet nu
 # Automatic theme uses operating system color settings
@@ -255,3 +254,70 @@ onboarding-multistage-theme-description-alpenglow =
     .aria-description =
         Een kleurrijk uiterlijk gebruiken voor knoppen,
         menu‘s en vensters.
+
+## Multistage MR1 onboarding strings (MR1 about:welcome pages)
+
+# This button will open system settings to turn on prefers-reduced-motion
+mr1-onboarding-reduce-motion-button-label = Animaties uitschakelen
+mr1-onboarding-welcome-header = Welkom bij { -brand-short-name }
+mr1-onboarding-set-default-pin-primary-button-label = { -brand-short-name } mijn voorkeursbrowser maken
+    .title = Stelt { -brand-short-name } in als standaardbrowser en maakt het aan de taakbalk vast
+mr1-onboarding-set-default-only-primary-button-label = { -brand-short-name } mijn voorkeursbrowser maken
+mr1-onboarding-set-default-secondary-button-label = Niet nu
+mr1-onboarding-sign-in-button-label = Aanmelden
+mr1-onboarding-import-header = Neem alles met u mee
+mr1-onboarding-import-subtitle = Importeer uw wachtwoorden, <br/>bladwijzers en meer.
+# The primary import button label will depend on whether we can detect which browser was used to download Firefox.
+# Variables:
+#   $previous (Str) - Previous browser name, such as Edge, Chrome
+mr1-onboarding-import-primary-button-label-attribution = Importeren uit { $previous }
+# This string will be used in cases where we can't detect the previous browser name.
+mr1-onboarding-import-primary-button-label-no-attribution = Importeren uit vorige browser
+mr1-onboarding-import-secondary-button-label = Niet nu
+mr1-onboarding-theme-header = Maak het van uzelf
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
+# Tooltip displayed on hover of system theme
+mr1-onboarding-theme-tooltip-system =
+    .title =
+        Het thema van het besturingssysteem
+        voor knoppen, menu’s en vensters volgen.
+# Input description for system theme
+mr1-onboarding-theme-description-system =
+    .aria-description =
+        Het thema van het besturingssysteem
+        voor knoppen, menu’s en vensters volgen.
+# Tooltip displayed on hover of light theme
+mr1-onboarding-theme-tooltip-light =
+    .title =
+        Een licht thema gebruiken voor knoppen,
+        menu’s en vensters.
+# Input description for light theme
+mr1-onboarding-theme-description-light =
+    .aria-description =
+        Een licht thema gebruiken voor knoppen,
+        menu’s en vensters.
+# Tooltip displayed on hover of dark theme
+mr1-onboarding-theme-tooltip-dark =
+    .title =
+        Een donker thema gebruiken voor knoppen,
+        menu’s en vensters.
+# Input description for dark theme
+mr1-onboarding-theme-description-dark =
+    .aria-description =
+        Een donker thema gebruiken voor knoppen,
+        menu’s en vensters.
+# Tooltip displayed on hover of Alpenglow theme
+mr1-onboarding-theme-tooltip-alpenglow =
+    .title =
+        Een dynamisch, kleurrijk thema gebruiken voor knoppen,
+        menu’s en vensters.
+# Input description for Alpenglow theme
+mr1-onboarding-theme-description-alpenglow =
+    .aria-description =
+        Een dynamisch, kleurrijk thema gebruiken voor knoppen,
+        menu’s en vensters.
