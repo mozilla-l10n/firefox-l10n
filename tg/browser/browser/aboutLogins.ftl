@@ -269,6 +269,7 @@ about-logins-import-dialog-error-unable-to-read-description = Мутмаин ш�
 about-logins-import-dialog-error-no-logins-imported = Ягон воридшавӣ ворид карда нашудааст
 about-logins-import-dialog-error-learn-more = Маълумоти бештар
 about-logins-import-dialog-error-try-again = Аз нав кӯшиш кардан…
+about-logins-import-dialog-error-try-import-again = Кӯшиши воридкуниро аз нав такрор кунед…
 about-logins-import-dialog-error-cancel = Бекор кардан
 about-logins-import-report-title = Ҷамъбасти воридот
 about-logins-import-report-description = Воридшавиҳо ва ниҳонвожаҳо ба { -brand-short-name } ворид шудаанд.
