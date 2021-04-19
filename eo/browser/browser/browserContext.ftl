@@ -90,6 +90,9 @@ toolbar-button-stop-reload =
 
 ## Firefox Account Button
 
+toolbar-button-fxaccount =
+    .label = { -fxaccount-brand-name }
+    .tooltiptext = { -fxaccount-brand-name }
 
 ## Save Page
 
@@ -311,12 +314,12 @@ main-context-menu-image-email =
 main-context-menu-image-set-as-background =
     .label = Difini kiel labortablan fonan bildon…
     .accesskey = D
-main-context-menu-image-info =
-    .label = Vidi bildan informon
-    .accesskey = i
 main-context-menu-image-set-image-as-background =
     .label = Difini kiel skribotablan fonan bildon…
     .accesskey = D
+main-context-menu-image-info =
+    .label = Vidi bildan informon
+    .accesskey = i
 main-context-menu-image-desc =
     .label = Vidi priskribon
     .accesskey = p
