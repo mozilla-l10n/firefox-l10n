@@ -6,3 +6,7 @@ calendar-editable-item-privacy-icon-private =
     .alt = Privacy: privéafspraak
 calendar-editable-item-privacy-icon-confidential =
     .alt = Privacy: alleen tijd en datum tonen
+calendar-editable-item-todo-icon-task =
+    .alt = Taak
+calendar-editable-item-todo-icon-completed-task =
+    .alt = Voltooide taak
