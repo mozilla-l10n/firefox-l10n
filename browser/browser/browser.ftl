@@ -319,6 +319,7 @@ identity-https-only-info-turn-off2 = Si la page ne semble pas fonctionnelle, vou
 identity-https-only-info-no-upgrade = Impossible de sécuriser la connexion.
 identity-permissions-storage-access-header = Cookies intersites
 identity-permissions-storage-access-hint = Ces organismes peuvent utiliser des cookies intersites et les données du site tant que vous êtes sur ce site.
+identity-permissions-storage-access-learn-more = En savoir plus
 identity-permissions-reload-hint = Vous devrez peut-être actualiser la page pour que les changements prennent effet.
 identity-permissions-empty = Vous n’avez pas accordé de permission particulière à ce site.
 identity-clear-site-data =
@@ -581,9 +582,6 @@ pointerlock-warning-no-domain = Ce document contrôle votre pointeur. Appuyez su
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Une partie de cette page a planté.</strong> Pour informer { -brand-product-name } de ce problème et le résoudre plus rapidement, veuillez envoyer un rapport.
-crashed-subframe-learnmore =
-    .label = En savoir plus
-    .accesskey = E
 crashed-subframe-learnmore-link =
     .value = En savoir plus
 crashed-subframe-submit =
@@ -596,8 +594,6 @@ bookmarks-show-all-bookmarks =
     .label = Afficher tous les marque-pages
 bookmarks-manage-bookmarks =
     .label = Organiser les marque-pages
-bookmarks-recent-bookmarks-panel =
-    .value = Marque-pages récents
 bookmarks-recent-bookmarks-panel-subheader = Marque-pages récents
 bookmarks-toolbar-chevron =
     .tooltiptext = Afficher plus de marque-pages

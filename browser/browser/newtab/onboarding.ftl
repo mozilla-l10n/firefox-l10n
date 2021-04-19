@@ -204,7 +204,6 @@ onboarding-welcome-steps-indicator =
 # automatically added to the text inside it. "look" should stay inside the span.
 onboarding-multistage-theme-header = Choisissez une <span data-l10n-name="zap">apparence</span>
 onboarding-multistage-theme-subtitle = Personnalisez { -brand-short-name } avec un thème.
-onboarding-multistage-theme-primary-button-label = Enregistrer le thème
 onboarding-multistage-theme-primary-button-label2 = Terminé
 onboarding-multistage-theme-secondary-button-label = Plus tard
 # Automatic theme uses operating system color settings
@@ -261,3 +260,33 @@ onboarding-multistage-theme-description-alpenglow =
     .aria-description =
         Utiliser un thème coloré pour les boutons,
         les menus et les fenêtres.
+
+## Multistage MR1 onboarding strings (MR1 about:welcome pages)
+
+# This button will open system settings to turn on prefers-reduced-motion
+mr1-onboarding-reduce-motion-button-label = Désactiver les animations
+mr1-onboarding-welcome-header = Bienvenue dans { -brand-short-name }
+mr1-onboarding-set-default-secondary-button-label = Plus tard
+mr1-onboarding-import-subtitle = Importez vos mots de passe, <br/>vos marque-pages et bien plus.
+# The primary import button label will depend on whether we can detect which browser was used to download Firefox.
+# Variables:
+#   $previous (Str) - Previous browser name, such as Edge, Chrome
+mr1-onboarding-import-primary-button-label-attribution = Importer depuis { $previous }
+# This string will be used in cases where we can't detect the previous browser name.
+mr1-onboarding-import-primary-button-label-no-attribution = Importer depuis un autre navigateur
+mr1-onboarding-import-secondary-button-label = Plus tard
+mr1-onboarding-theme-subtitle = Personnalisez { -brand-short-name } avec un thème.
+mr1-onboarding-theme-primary-button-label = Enregistrer le thème
+mr1-onboarding-theme-secondary-button-label = Plus tard
+# System theme uses operating system color settings
+mr1-onboarding-theme-label-system = Thème du système
+mr1-onboarding-theme-label-light = Clair
+mr1-onboarding-theme-label-dark = Sombre
+# "Alpenglow" here is the name of the theme, and should be kept in English.
+mr1-onboarding-theme-label-alpenglow = Alpenglow
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
