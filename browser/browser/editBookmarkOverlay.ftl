@@ -49,4 +49,4 @@ bookmark-overlay-keyword-2 =
     .value = Mot-clé
     .accesskey = c
 bookmark-overlay-tags-caption-label = Utilisez les étiquettes pour organiser et rechercher des marque-pages depuis la barre d’adresse
-bookmark-overlay-keyword-caption-label = Utilisez des mots-clés pour ouvrir les marque-pages directement depuis la barre d’adresse
+bookmark-overlay-keyword-caption-label-2 = Utilisez un seul mot-clé pour ouvrir des marque-pages directement depuis la barre d’adresse

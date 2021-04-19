@@ -94,6 +94,14 @@ places-edit-generic =
 places-edit-folder =
     .label = Renommer le dossier…
     .accesskey = r
+places-remove-folder =
+    .label =
+        { $count ->
+            [1] Supprimer le dossier
+            [one] Supprimer le dossier
+           *[other] Supprimer les dossiers
+        }
+    .accesskey = m
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Marque-pages gérés
