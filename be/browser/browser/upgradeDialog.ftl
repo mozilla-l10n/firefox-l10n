@@ -8,6 +8,7 @@
 
 ## New changes screen
 
+upgrade-dialog-new-item-tabs-title = Сучасныя карткі
 upgrade-dialog-new-primary-theme-button = Выберыце тэму
 upgrade-dialog-new-secondary-button = Не зараз
 
