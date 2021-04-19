@@ -1021,6 +1021,7 @@ content-blocking-etp-custom-desc = Choisissez les traqueurs et les scripts à bl
 content-blocking-private-windows = Contenu utilisé pour le pistage dans les fenêtres de navigation privée
 content-blocking-cross-site-cookies = Cookies intersites
 content-blocking-cross-site-tracking-cookies = Cookies de pistage intersites
+content-blocking-all-cross-site-cookies-private-windows = Cookies intersites dans les fenêtres de navigation privée
 content-blocking-cross-site-tracking-cookies-plus-isolate = Traqueurs intersites, et isoler les cookies restants
 content-blocking-social-media-trackers = Traqueurs de réseaux sociaux
 content-blocking-all-cookies = Tous les cookies
