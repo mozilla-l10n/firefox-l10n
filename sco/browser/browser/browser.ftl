@@ -521,7 +521,7 @@ urlbar-result-action-search-in-private = Sairch in a Preevat Windae
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Sairch wi { $engine }
 urlbar-result-action-sponsored = Sponsored
-urlbar-result-action-switch-tab = Switch tae Tab:
+urlbar-result-action-switch-tab = Switch tae Tab
 urlbar-result-action-visit = Veesit
 # Directs a user to press the Tab key to perform a search with the specified
 # engine.
