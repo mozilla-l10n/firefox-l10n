@@ -1043,6 +1043,7 @@ content-blocking-cryptominers = المُعدّنات المعمّاة
 content-blocking-fingerprinters = مسجّلات البصمات
 content-blocking-warning-title = انتبه!
 content-blocking-and-isolating-etp-warning-description = يمكن أن يضرّ حجب المتعقّبات وعزل الكعكات بمزايا بعض المواقع. أعِد تحميل الصفحات التي فيها متعقّبات لتحميل كلّ محتواها.
+content-blocking-and-isolating-etp-warning-description-2 = قد يتسبّب هذا الإعداد بألّا تعرض بعض المواقع أي محتوى أو ألا تعمل كما ينبغي. إن رأيت الموقع معطوبًا، فيمكنك تعطيل الحماية من التعقّب لهذا الموقع لتحميل محتواه.
 content-blocking-warning-learn-how = اطّلع على المزيد
 content-blocking-reload-description = عليك إعادة تحميل الألسنة لتأخذ هذه التغييرات مفعولها.
 content-blocking-reload-tabs-button =
