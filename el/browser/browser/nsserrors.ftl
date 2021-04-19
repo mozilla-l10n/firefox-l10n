@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
@@ -11,20 +12,16 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Προέκυψε σφάλμα κατά την σύνδεση στο { $hostname }. { $errorMessage }
-
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Κωδικός σφάλματος: { $error }
-
 psmerr-ssl-disabled = Αδυναμία ασφαλούς σύνδεσης λόγω απενεργοποίησης του πρωτοκόλλου SSL.
 psmerr-ssl2-disabled = Αδυναμία ασφαλούς σύνδεσης. επειδή η σελίδα χρησιμοποιεί μια παλαιότερη, μη ασφαλή έκδοση του πρωτοκόλλου SSL.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Έχετε λάβει ένα μη έγκυρο πιστοποιητικό. Παρακαλώ επικοινωνήστε με το διαχειριστή του συστήματος ή με τον αποστολέα και δώστε του αυτές τις πληροφορίες:
     
     Το πιστοποιητικό σας περιέχει τον ίδιο σειριακό αριθμό με ένα άλλο πιστοποιητικό που εκδόθηκε από την αρχή πιστοποίησης.  Παρακαλώ αποκτήστε ένα νέο πιστοποιητικό που να περιέχει έναν μοναδικό σειριακό αριθμό.
-
 ssl-error-export-only-server = Αδύνατη η επικοινωνία με ασφάλεια. Ο κόμβος δεν υποστηρίζει κρυπτογράφηση υψηλού βαθμού.
 ssl-error-us-only-server = Αδύνατη η επικοινωνία με ασφάλεια. Ο κόμβος απαιτεί κρυπτογράφηση υψηλού βαθμού που δεν υποστηρίζεται.
 ssl-error-no-cypher-overlap = Δεν ήταν δυνατή η ασφαλής επικοινωνία με τον κόμβο: κανένας κοινός αλγόριθμος κρυπτογράφησης.
@@ -113,7 +110,7 @@ ssl-error-handshake-not-completed = Αδυναμία εκκίνησης άλλη
 ssl-error-bad-handshake-hash-value = Ελήφθησαν εσφαλμένες hash τιμές χειραψιών από τον κόμβο.
 ssl-error-cert-kea-mismatch = Το παρεχόμενο πιστοποιητικό δεν μπορεί να χρησιμοποιηθεί με τον επιλεγμένο αλγόριθμο ανταλλαγής κλειδιού.
 ssl-error-no-trusted-ssl-client-ca = Καμία αρχή πιστοποιητικών δεν είναι αξιόπιστη για τον έλεγχο ταυτότητας του υπολογιστή-πελάτη SSL.
-ssl-error-session-not-found = To ID συνεδρίας πελάτη SSL δεν βρέθηκε στη μνήμη cache συνεδριών του διακομιστή.
+ssl-error-session-not-found = To ID συνεδρίας SSL πελάτη δεν βρέθηκε στην κρυφή μνήμη συνεδριών του διακομιστή.
 ssl-error-decryption-failed-alert = Ο κόμβος δεν μπόρεσε να αποκρυπτογραφήσει μια εγγραφή SSL που έλαβε.
 ssl-error-record-overflow-alert = Ο κόμβος έλαβε μια εγγραφή SSL που ήταν μεγαλύτερη από το επιτρεπτό.
 ssl-error-unknown-ca-alert = Ο κόμβος δεν αναγνωρίζει ούτε εμπιστεύεται την αρχή πιστοποιητικών που εξέδωσε το πιστοποιητικό σας.
@@ -126,7 +123,7 @@ ssl-error-insufficient-security-alert = Ο διακομιστής απαιτεί
 ssl-error-internal-error-alert = Ο κόμβος αναφέρει ότι διαπίστωσε εσωτερικό σφάλμα.
 ssl-error-user-canceled-alert = Ο χρήστης του κόμβου ακύρωσε τη χειραψία.
 ssl-error-no-renegotiation-alert = Ο κόμβος δεν επιτρέπει επαναδιαπραγμάτευση των SSL παραμέτρων ασφαλείας.
-ssl-error-server-cache-not-configured = Η προσωρινή μνήμη του διακομιστή SSL δεν έχει ρυθμιστεί και δεν έχει απενεργοποιηθεί για αυτήν την υποδοχή.
+ssl-error-server-cache-not-configured = Η κρυφή μνήμη του διακομιστή SSL δεν έχει ρυθμιστεί και δεν έχει απενεργοποιηθεί για αυτή την υποδοχή.
 ssl-error-unsupported-extension-alert = Ο κόμβος SSL δεν υποστηρίζει την ζητούμενη επέκταση TLS Hello.
 ssl-error-certificate-unobtainable-alert = Ο κόμβος SSL δεν μπόρεσε να λάβει το πιστοποιητικό σας από το παρεχόμενο URL.
 ssl-error-unrecognized-name-alert = Ο κόμβος SSL δεν έχει κανένα πιστοποιητικό για το ζητούμενο όνομα DNS.
