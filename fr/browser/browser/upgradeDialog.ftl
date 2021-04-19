@@ -8,6 +8,7 @@
 
 ## New changes screen
 
+upgrade-dialog-new-item-tabs-title = Onglets modernes
 upgrade-dialog-new-secondary-button = Plus tard
 
 ## Theme selection screen
