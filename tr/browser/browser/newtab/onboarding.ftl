@@ -251,6 +251,8 @@ mr1-welcome-screen-hero-text = Her şey burada başlıyor
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Animasyonları kapat
 mr1-onboarding-welcome-header = { -brand-short-name } tarayıcısına hoş geldiniz
+mr1-onboarding-set-default-pin-primary-button-label = { -brand-short-name } tarayıcısını ana tarayıcım yap
+    .title = { -brand-short-name } tarayıcısını varsayılan tarayıcı olarak ayarlayıp görev çubuğuna sabitler
 mr1-onboarding-set-default-only-primary-button-label = { -brand-short-name } tarayıcısını varsayılan tarayıcım yap
 mr1-onboarding-set-default-secondary-button-label = Daha sonra
 mr1-onboarding-sign-in-button-label = Giriş yap
@@ -309,3 +311,13 @@ mr1-onboarding-theme-description-dark =
     .aria-description =
         Düğmeler, menüler ve pencereler için
         koyu bir tema kullan.
+# Tooltip displayed on hover of Alpenglow theme
+mr1-onboarding-theme-tooltip-alpenglow =
+    .title =
+        Düğmeler, menüler ve pencereler için
+        dinamik, renkli bir tema kullanın.
+# Input description for Alpenglow theme
+mr1-onboarding-theme-description-alpenglow =
+    .aria-description =
+        Düğmeler, menüler ve pencereler için
+        dinamik, renkli bir tema kullanın.

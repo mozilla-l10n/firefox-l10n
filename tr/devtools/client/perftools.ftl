@@ -67,6 +67,8 @@ perftools-button-edit-settings = Ayarları düzenle…
 
 perftools-thread-gecko-main =
     .title = Hem üst işlem hem de içerik işlemleri için ana işlemler
+perftools-thread-compositor =
+    .title = Sayfadaki farklı paint edilmiş elemanları bir araya getirir
 perftools-thread-dom-worker =
     .title = Bu, hem web worker’ları hem de service worker’ları işler
 perftools-thread-renderer =
@@ -92,7 +94,6 @@ perftools-record-all-registered-threads = Yukarıdaki seçimleri atla ve tüm ka
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
 ## preferences are true.
 
--profiler-brand-name = Firefox Profilleyici
 perftools-onboarding-message = <b>Yeni</b>: { -profiler-brand-name } artık geliştirici araçlarına entegre edildi. Bu güçlü yeni araç hakkında <a>daha fazla bilgi edinin</a>.
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (Sınırlı bir süre için <a>{ options-context-advanced-settings }</a> aracılığıyla eski Performans paneline erişebilirsiniz.)
