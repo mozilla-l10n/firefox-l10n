@@ -268,12 +268,12 @@ compact-folder-size =
 use-cache-before =
     .value = Χρήση μέχρι
     .accesskey = μ
-use-cache-after = MB χώρου για την προσωρινή μνήμη
+use-cache-after = MB χώρου για την κρυφή μνήμη
 
 ##
 
 smart-cache-label =
-    .label = Παράκαμψη αυτόματης διαχείρισης cache
+    .label = Παράκαμψη αυτόματης διαχείρισης κρυφής μνήμης
     .accesskey = ψ
 clear-cache-button =
     .label = Εκκαθάριση τώρα
