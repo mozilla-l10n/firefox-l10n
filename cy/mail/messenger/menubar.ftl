@@ -46,3 +46,18 @@ toolbar-delete-button =
 toolbar-undelete-button =
     .label = Dad-ddileu
     .tooltiptext = Dad-ddileu'r negeseuon hyn
+
+## View / Layout
+
+mail-uidensity-label =
+    .label = Dwysedd
+    .accesskey = D
+mail-uidensity-compact =
+    .label = Cryno
+    .accesskey = C
+mail-uidensity-normal =
+    .label = Arferol
+    .accesskey = A
+mail-uidensity-touch =
+    .label = Cyffwrdd
+    .accesskey = y
