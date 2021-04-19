@@ -49,3 +49,5 @@ customize-mode-lwthemes-my-themes =
     .value = Mijn thema’s
 customize-mode-touchbar-cmd =
     .label = Aanraakbalk aanpassen…
+customize-mode-downloads-button-autohide =
+    .label = Knop verbergen indien leeg

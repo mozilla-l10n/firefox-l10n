@@ -321,6 +321,7 @@ identity-https-only-info-turn-off2 = Als de website niet lijkt te werken, dan ku
 identity-https-only-info-no-upgrade = Kan HTTP-verbinding niet upgraden.
 identity-permissions-storage-access-header = Cross-sitecookies
 identity-permissions-storage-access-hint = Deze partijen kunnen tijdens uw bezoek aan deze website cross-sitecookies en websitegegevens gebruiken.
+identity-permissions-storage-access-learn-more = Meer info
 identity-permissions-reload-hint = Mogelijk dient u de pagina te vernieuwen om wijzigingen van kracht te laten worden.
 identity-permissions-empty = U hebt deze website geen speciale toestemmingen gegeven.
 identity-clear-site-data =
@@ -583,9 +584,6 @@ pointerlock-warning-no-domain = Dit document heeft de controle over uw aanwijzer
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Een deel van deze pagina is gecrasht.</strong> Dien een rapport in om { -brand-product-name } te informeren over dit probleem en het sneller opgelost te krijgen.
-crashed-subframe-learnmore =
-    .label = Meer info
-    .accesskey = M
 crashed-subframe-learnmore-link =
     .value = Meer info
 crashed-subframe-submit =
@@ -598,8 +596,6 @@ bookmarks-show-all-bookmarks =
     .label = Alle bladwijzers tonen
 bookmarks-manage-bookmarks =
     .label = Bladwijzers beheren
-bookmarks-recent-bookmarks-panel =
-    .value = Recente bladwijzers
 bookmarks-recent-bookmarks-panel-subheader = Recente bladwijzers
 bookmarks-toolbar-chevron =
     .tooltiptext = Meer bladwijzers tonen
