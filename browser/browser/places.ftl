@@ -5,12 +5,12 @@
 places-open =
     .label = Openen
     .accesskey = O
-places-open-tab =
-    .label = Openen in een nieuw tabblad
-    .accesskey = t
 places-open-in-tab =
     .label = Openen in nieuw tabblad
     .accesskey = w
+places-open-tab =
+    .label = Openen in een nieuw tabblad
+    .accesskey = t
 places-open-all-bookmarks =
     .label = Alle bladwijzers openen
     .accesskey = o
@@ -20,9 +20,15 @@ places-open-all-in-tabs =
 places-open-window =
     .label = Openen in een nieuw venster
     .accesskey = v
+places-open-in-window =
+    .label = Openen in nieuw venster
+    .accesskey = u
 places-open-private-window =
     .label = Openen in een nieuw privévenster
     .accesskey = r
+places-open-in-private-window =
+    .label = Openen in nieuw privévenster
+    .accesskey = v
 places-new-bookmark =
     .label = Nieuwe bladwijzer…
     .accesskey = b
@@ -35,12 +41,6 @@ places-new-folder =
 places-new-separator =
     .label = Nieuw scheidingsteken
     .accesskey = c
-places-open-in-window =
-    .label = Openen in nieuw venster
-    .accesskey = u
-places-open-in-private-window =
-    .label = Openen in nieuw privévenster
-    .accesskey = v
 places-add-bookmark =
     .label = Bladwijzer toevoegen…
     .accesskey = B
@@ -91,6 +91,17 @@ places-edit-bookmark =
 places-edit-generic =
     .label = Bewerken…
     .accesskey = r
+places-edit-folder =
+    .label = Mapnaam wijzigen…
+    .accesskey = w
+places-remove-folder =
+    .label =
+        { $count ->
+            [1] Map verwijderen
+            [one] Map verwijderen
+           *[other] Mappen verwijderen
+        }
+    .accesskey = v
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Beheerde bladwijzers

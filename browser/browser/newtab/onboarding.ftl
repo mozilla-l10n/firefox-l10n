@@ -275,6 +275,15 @@ mr1-onboarding-import-primary-button-label-attribution = Importeren uit { $previ
 mr1-onboarding-import-primary-button-label-no-attribution = Importeren uit vorige browser
 mr1-onboarding-import-secondary-button-label = Niet nu
 mr1-onboarding-theme-header = Maak het van uzelf
+mr1-onboarding-theme-subtitle = Personaliseer { -brand-short-name } met een thema.
+mr1-onboarding-theme-primary-button-label = Thema opslaan
+mr1-onboarding-theme-secondary-button-label = Niet nu
+# System theme uses operating system color settings
+mr1-onboarding-theme-label-system = Systeemthema
+mr1-onboarding-theme-label-light = Licht
+mr1-onboarding-theme-label-dark = Donker
+# "Alpenglow" here is the name of the theme, and should be kept in English.
+mr1-onboarding-theme-label-alpenglow = Alpenglow
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip

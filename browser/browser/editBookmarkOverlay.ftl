@@ -49,4 +49,4 @@ bookmark-overlay-keyword-2 =
     .value = Sleutelwoord
     .accesskey = S
 bookmark-overlay-tags-caption-label = Gebruik labels om bladwijzers vanuit de adresbalk te ordenen en te zoeken
-bookmark-overlay-keyword-caption-label = Gebruik sleutelwoorden om bladwijzers rechtstreeks vanuit de adresbalk te openen
+bookmark-overlay-keyword-caption-label-2 = Gebruik een los sleutelwoord om bladwijzers rechtstreeks vanuit de adresbalk te openen
