@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 calendar-invitation-current-participation-status-icon-accepted =
-    .alt = Wedi'i dderbyn ar hyn o bryd
+    .alt = Wedi'i derbyn ar hyn o bryd
 calendar-invitation-current-participation-status-icon-declined =
-    .alt = Wedi'i wrthod ar hyn o bryd
+    .alt = Wedi'i gwrthod ar hyn o bryd
 calendar-invitation-current-participation-status-icon-needs-action =
     .alt = Heb benderfynnu ar hyn o bryd
