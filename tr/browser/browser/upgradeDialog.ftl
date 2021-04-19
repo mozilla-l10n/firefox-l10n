@@ -10,7 +10,15 @@
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-new-title = Yeni { -brand-short-name } ile tanışın
+upgrade-dialog-new-subtitle = İstediğiniz yere daha hızlı ulaşmanız için tasarlandı
+upgrade-dialog-new-item-menu-title = Daha basit araç çubuğu ve menüler
+upgrade-dialog-new-item-menu-description = İhtiyacınız olanı daha hızlı bulmanız için önemli şeyleri öne çıkardık.
 upgrade-dialog-new-item-tabs-title = Modern sekmeler
+upgrade-dialog-new-item-tabs-description = Bilgileri net bir şekilde gösterirken odaklanmanızı ve esnek hareket etmenizi sağladık.
+upgrade-dialog-new-item-icons-title = Yeni simgeler ve daha anlaşılır mesajlar
+upgrade-dialog-new-item-icons-description = Yolunuzu bulmanızı kolaylaştırdık.
+upgrade-dialog-new-primary-primary-button = { -brand-short-name } tarayıcısını ana tarayıcım yap
+    .title = { -brand-short-name } tarayıcısını varsayılan tarayıcı olarak ayarlayıp görev çubuğuna sabitler
 upgrade-dialog-new-primary-default-button = { -brand-short-name } tarayıcısını varsayılan tarayıcım yap
 upgrade-dialog-new-primary-pin-button = { -brand-short-name } tarayıcısını görev çubuğuma sabitle
 upgrade-dialog-new-primary-theme-button = Temanızı seçin
