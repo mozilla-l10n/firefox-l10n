@@ -288,6 +288,16 @@ mr1-onboarding-theme-label-alpenglow = Alpenglow
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of system theme
+mr1-onboarding-theme-tooltip-system =
+    .title =
+        Errespetatu sistema eragilearen itxura
+        botoi, menu eta leihoetarako.
+# Input description for system theme
+mr1-onboarding-theme-description-system =
+    .aria-description =
+        Errespetatu sistema eragilearen itxura
+        botoi, menu eta leihoetarako.
 # Tooltip displayed on hover of light theme
 mr1-onboarding-theme-tooltip-light =
     .title =
