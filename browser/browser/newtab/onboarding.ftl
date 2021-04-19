@@ -200,7 +200,6 @@ onboarding-welcome-steps-indicator =
 # automatically added to the text inside it. "look" should stay inside the span.
 onboarding-multistage-theme-header = Kies in <span data-l10n-name="zap">uterlik</span>
 onboarding-multistage-theme-subtitle = Personalisearje { -brand-short-name } mei in tema.
-onboarding-multistage-theme-primary-button-label = Tema bewarje
 onboarding-multistage-theme-primary-button-label2 = Dien
 onboarding-multistage-theme-secondary-button-label = No net
 # Automatic theme uses operating system color settings
@@ -255,3 +254,22 @@ onboarding-multistage-theme-description-alpenglow =
     .aria-description =
         In kleurich uterlik brûke foar knoppen,
         menu‘s en finsters.
+
+## Multistage MR1 onboarding strings (MR1 about:welcome pages)
+
+# This button will open system settings to turn on prefers-reduced-motion
+mr1-onboarding-reduce-motion-button-label = Animaasjes útskeakelje
+mr1-onboarding-welcome-header = Wolkom by { -brand-short-name }
+mr1-onboarding-set-default-pin-primary-button-label = { -brand-short-name } myn foarkarsbrowser meitsje
+    .title = Stelt { -brand-short-name } yn as standertbrowser en makket it oan de taakbalke fêst
+mr1-onboarding-set-default-only-primary-button-label = { -brand-short-name } myn foarkarsbrowser meitsje
+mr1-onboarding-set-default-secondary-button-label = No net
+mr1-onboarding-sign-in-button-label = Oanmelde
+mr1-onboarding-import-header = Nim alles mei jo mei
+mr1-onboarding-import-subtitle = Ymportearje jo wachtwurden, <br/>blêdwizers en mear.
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+

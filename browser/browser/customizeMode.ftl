@@ -49,3 +49,5 @@ customize-mode-lwthemes-my-themes =
     .value = Myn tema's
 customize-mode-touchbar-cmd =
     .label = Oanraakbalke oanpasse…
+customize-mode-downloads-button-autohide =
+    .label = Knop ferstopje wannear leech
