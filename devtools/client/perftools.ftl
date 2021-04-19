@@ -80,9 +80,24 @@ perftools-thread-renderer =
     .title = Ak je povolený WebRender, ide o vlákno, ktoré vykonáva volania OpenGL
 perftools-thread-render-backend =
     .title = Vlákno WebRender RenderBackend
+perftools-thread-paint-worker =
+    .title = Ak je povolené vykresľovanie mimo hlavného vlákna, ide o vlákno, v ktorom sa vykresľovanie uskutočňuje
+perftools-thread-style-thread =
+    .title = Výpočty pre štýly sú rozdelené do viacerých vlákien
+pref-thread-stream-trans =
+    .title = Prenos sieťového toku
+perftools-thread-socket-thread =
+    .title = Vlákno, v ktorom sieťový kód spúšťa akékoľvek volania blokovania socketov
+perftools-thread-img-decoder =
+    .title = Vlákna pre dekódovanie obrázkov
+perftools-thread-dns-resolver =
+    .title = V tomto vlákne sa deje preklad DNS
 
 ##
 
+perftools-record-all-registered-threads = Obísť položky zvolené vyššie a zaznamenať všetky registrované vlákna
+perftools-tools-threads-input-label =
+    .title = Tieto názvy vlákien sú zoznamom oddeleným čiarkami, ktorý sa používa na povolenie profilovania vlákien v nástroji na profilovanie. Názov môže obsahovať iba časť názvu vlákna. Pozor na medzery.
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
