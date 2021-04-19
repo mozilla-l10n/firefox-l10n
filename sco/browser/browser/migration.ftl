@@ -54,7 +54,33 @@ import-source-page-title = Inbring Settins and Data
 import-items-page-title = Items tae Inbring
 import-items-description = Pick whit items tae inbring:
 import-permissions-page-title = Gonnae gie { -brand-short-name } permeesions?
+# Do not translate "Bookmarks.plist"; the file name is the same everywhere.
+import-permissions-description = macOS needs ye tae gie direct permeesion tae { -brand-short-name } tae hae ingang tae Safari’s buikmerks. Click “Continue” and wale the “Bookmarks.plist” file in the File Open panel that kythes itsel.
+import-migrating-page-title = Inbringin...
+import-migrating-description = Thir items are bein inbrung the noo...
+import-select-profile-page-title = Wale Profile
+import-select-profile-description = Thir profiles are redd tae inbring fae:
+import-done-page-title = Inbringin Feenisht
+import-done-description = Thir items wir inbrung wi nae problems:
+import-close-source-browser = Mak siccar the wab-stravaiger ye've waled is sneckit afore haudin forrit.
+# Displays which browser the bookmarks are being imported from
+#
+# Variables:
+#   $source (String): The browser the user has chosen to import bookmarks from.
+imported-bookmarks-source = Fae { $source }
+source-name-ie = Internet Explorer
+source-name-edge = Microsoft Edge
+source-name-edge-beta = Microsoft Edge Beta
+source-name-safari = Safari
+source-name-canary = Google Chrome Canary
+source-name-chrome = Google Chrome
+source-name-chrome-beta = Google Chrome Beta
+source-name-chrome-dev = Google Chrome Dev
+source-name-chromium = Chromium
 source-name-firefox = Mozilla Firefox
+source-name-360se = 360 Secure Browser
+imported-safari-reading-list = Readin List (Fae Safari)
+imported-edge-reading-list = Readin List (Fae Edge)
 
 ## Browser data types
 ## All of these strings get a $browser variable passed in.
@@ -70,3 +96,31 @@ source-name-firefox = Mozilla Firefox
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-cookies-checkbox =
+    .label = Cookies
+browser-data-cookies-label =
+    .value = Cookies
+browser-data-history-checkbox =
+    .label =
+        { $browser ->
+            [firefox] Wab-stravaigin Historie and Buikmerks
+           *[other] Wab-stravaigin Historie
+        }
+browser-data-history-label =
+    .value =
+        { $browser ->
+            [firefox] Wab-stravaigin Historie and Buikmerks
+           *[other] Wab-stravaigin Historie
+        }
+browser-data-formdata-checkbox =
+    .label = Saved Form Historie
+browser-data-formdata-label =
+    .value = Saved Form Historie
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-checkbox =
+    .label = Saved Logins and Passwirds
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-label =
+    .value = Saved Logins and Passwirds
