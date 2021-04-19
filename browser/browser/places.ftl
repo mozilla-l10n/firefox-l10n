@@ -5,10 +5,10 @@
 places-open =
     .label = Megnyitás
     .accesskey = e
-places-open-tab =
+places-open-in-tab =
     .label = Megnyitás új lapon
     .accesskey = l
-places-open-in-tab =
+places-open-tab =
     .label = Megnyitás új lapon
     .accesskey = l
 places-open-all-bookmarks =
@@ -20,7 +20,13 @@ places-open-all-in-tabs =
 places-open-window =
     .label = Megnyitás új ablakban
     .accesskey = a
+places-open-in-window =
+    .label = Megnyitás új ablakban
+    .accesskey = a
 places-open-private-window =
+    .label = Megnyitás új privát ablakban
+    .accesskey = p
+places-open-in-private-window =
     .label = Megnyitás új privát ablakban
     .accesskey = p
 places-new-bookmark =
@@ -35,12 +41,6 @@ places-new-folder =
 places-new-separator =
     .label = Új elválasztó
     .accesskey = e
-places-open-in-window =
-    .label = Megnyitás új ablakban
-    .accesskey = a
-places-open-in-private-window =
-    .label = Megnyitás új privát ablakban
-    .accesskey = p
 places-add-bookmark =
     .label = Könyvjelzők hozzáadása…
     .accesskey = K
@@ -91,6 +91,17 @@ places-edit-bookmark =
 places-edit-generic =
     .label = Szerkesztés…
     .accesskey = e
+places-edit-folder =
+    .label = Mappa átnevezése…
+    .accesskey = n
+places-remove-folder =
+    .label =
+        { $count ->
+            [1] Mappa eltávolítása
+            [one] Mappa eltávolítása
+           *[other] Mappák eltávolítása
+        }
+    .accesskey = M
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Menedzsel könyvjelzők
