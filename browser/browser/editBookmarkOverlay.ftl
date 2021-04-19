@@ -49,4 +49,4 @@ bookmark-overlay-keyword-2 =
     .value = Anahtar kelime
     .accesskey = n
 bookmark-overlay-tags-caption-label = Adres çubuğundan yer imlerini düzenlemek ve aramak için etiketleri kullanabilirsiniz
-bookmark-overlay-keyword-caption-label = Yer imlerini doğrudan adres çubuğundan açmak için anahtar kelimeleri kullanabilirsiniz
+bookmark-overlay-keyword-caption-label-2 = Yer imlerini doğrudan adres çubuğundan açmak için bir anahtar kelime kullanabilirsiniz
