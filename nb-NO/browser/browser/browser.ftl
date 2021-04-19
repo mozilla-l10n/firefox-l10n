@@ -319,6 +319,7 @@ identity-https-only-info-turn-off2 = Hvis nettsiden virker ødelagt, kan det væ
 identity-https-only-info-no-upgrade = Kan ikke å oppgradere tilkoblingen fra HTTP.
 identity-permissions-storage-access-header = Infokapsler på tvers av nettsteder
 identity-permissions-storage-access-hint = Disse partene kan bruke infokapsler på tvers av nettsteder og nettsteddata mens du er på dette nettstedet.
+identity-permissions-storage-access-learn-more = Les mer
 identity-permissions-reload-hint = Du må kanskje laste siden på nytt for at endringene skal gjelde.
 identity-permissions-empty = Du har ikke gitt dette nettstedet noen spesialtillatelser.
 identity-clear-site-data =
@@ -578,9 +579,6 @@ pointerlock-warning-no-domain = Dette dokumentet har kontroll over musepekeren d
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>En del av denne siden krasjet.</strong> For å informere { -brand-product-name } om dette problemet og få det løst raskere, må du sende inn en rapport.
-crashed-subframe-learnmore =
-    .label = Les mer
-    .accesskey = L
 crashed-subframe-learnmore-link =
     .value = Les mer
 crashed-subframe-submit =
@@ -593,8 +591,6 @@ bookmarks-show-all-bookmarks =
     .label = Vis alle bokmerker
 bookmarks-manage-bookmarks =
     .label = Behandle bokmerker
-bookmarks-recent-bookmarks-panel =
-    .value = Nylige bokmerker
 bookmarks-recent-bookmarks-panel-subheader = Nylige bokmerker
 bookmarks-toolbar-chevron =
     .tooltiptext = Vis flere bokmerker
