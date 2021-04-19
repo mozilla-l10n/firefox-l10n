@@ -259,10 +259,47 @@ onboarding-multistage-theme-description-alpenglow =
 
 mr1-onboarding-set-default-secondary-button-label = Pas ara
 mr1-onboarding-import-secondary-button-label = Pas ara
+mr1-onboarding-theme-primary-button-label = Salvar lo tèma
 mr1-onboarding-theme-secondary-button-label = Pas ara
+# System theme uses operating system color settings
+mr1-onboarding-theme-label-system = Tèma sistèma
+mr1-onboarding-theme-label-light = Clar
+mr1-onboarding-theme-label-dark = Fosc
+# "Alpenglow" here is the name of the theme, and should be kept in English.
+mr1-onboarding-theme-label-alpenglow = Alpenglow
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of system theme
+mr1-onboarding-theme-tooltip-system =
+    .title =
+        Seguir lo tèma del sistèma operatiu
+        pels botons, menús e las fenèstras.
+# Input description for system theme
+mr1-onboarding-theme-description-system =
+    .aria-description =
+        Seguir lo tèma del sistèma operatiu
+        pels botons, menús e las fenèstras.
+# Tooltip displayed on hover of light theme
+mr1-onboarding-theme-tooltip-light =
+    .title =
+        Utilizar un tèma clar pels
+        botons, menús e las fenèstras.
+# Input description for light theme
+mr1-onboarding-theme-description-light =
+    .aria-description =
+        Utilizar un tèma clar pels
+        botons, menús e las fenèstras.
+# Tooltip displayed on hover of dark theme
+mr1-onboarding-theme-tooltip-dark =
+    .title =
+        Utilizar un fosc clar pels
+        botons, menús e las fenèstras.
+# Input description for dark theme
+mr1-onboarding-theme-description-dark =
+    .aria-description =
+        Utilizar un fosc clar pels
+        botons, menús e las fenèstras.
