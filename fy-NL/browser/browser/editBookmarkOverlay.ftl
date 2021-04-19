@@ -49,4 +49,4 @@ bookmark-overlay-keyword-2 =
     .value = Kaaiwurd
     .accesskey = K
 bookmark-overlay-tags-caption-label = Brûk labels om blêdwizers fan de adresbalke út te oardenjen en te sykjen
-bookmark-overlay-keyword-caption-label = Brûk kaaiwurden om blêdwizers direkt fan de adresbalke út te iepenjen
+bookmark-overlay-keyword-caption-label-2 = Brûk in los kaaiwurd om blêdwizers streekrjocht fan de adresbalke út te iepenjen
