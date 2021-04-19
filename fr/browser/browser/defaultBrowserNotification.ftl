@@ -18,4 +18,5 @@ default-browser-prompt-button-primary-pin = Définir comme navigateur principal
 default-browser-prompt-title-alt = Faire de { -brand-short-name } votre navigateur par défaut ?
 default-browser-prompt-message-alt = Toute votre navigation rapide, sûre et confidentielle.
 default-browser-prompt-button-primary-alt = Définir comme navigateur par défaut
+default-browser-prompt-checkbox-not-again-label = Ne plus afficher ce message
 default-browser-prompt-button-secondary = Plus tard

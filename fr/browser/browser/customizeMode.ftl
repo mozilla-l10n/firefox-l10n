@@ -49,3 +49,5 @@ customize-mode-lwthemes-my-themes =
     .value = Mes thèmes
 customize-mode-touchbar-cmd =
     .label = Personnaliser la Touch Bar…
+customize-mode-downloads-button-autohide =
+    .label = Masquer le bouton lorsque la liste est vide
