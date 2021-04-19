@@ -5,12 +5,12 @@
 places-open =
     .label = Abrir
     .accesskey = r
-places-open-tab =
-    .label = Abrir em nova aba
-    .accesskey = b
 places-open-in-tab =
     .label = Abrir em nova aba
     .accesskey = v
+places-open-tab =
+    .label = Abrir em nova aba
+    .accesskey = b
 places-open-all-bookmarks =
     .label = Abrir todos os favoritos
     .accesskey = A
@@ -20,7 +20,13 @@ places-open-all-in-tabs =
 places-open-window =
     .label = Abrir em nova janela
     .accesskey = A
+places-open-in-window =
+    .label = Abrir em nova janela
+    .accesskey = n
 places-open-private-window =
+    .label = Abrir em nova janela privativa
+    .accesskey = p
+places-open-in-private-window =
     .label = Abrir em nova janela privativa
     .accesskey = p
 places-new-bookmark =
@@ -35,12 +41,6 @@ places-new-folder =
 places-new-separator =
     .label = Novo separador
     .accesskey = e
-places-open-in-window =
-    .label = Abrir em nova janela
-    .accesskey = n
-places-open-in-private-window =
-    .label = Abrir em nova janela privativa
-    .accesskey = p
 places-add-bookmark =
     .label = Adicionar favorito…
     .accesskey = f
@@ -91,6 +91,16 @@ places-edit-bookmark =
 places-edit-generic =
     .label = Editar…
     .accesskey = i
+places-edit-folder =
+    .label = Renomear pasta…
+    .accesskey = e
+places-remove-folder =
+    .label =
+        { $count ->
+            [1] Remover pasta
+           *[other] Remover pastas
+        }
+    .accesskey = m
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Favoritos controlados
