@@ -298,3 +298,33 @@ mr1-onboarding-theme-description-system =
     .aria-description =
         Seguir el tema del sistema operativo
         para botones, menús y ventanas.
+# Tooltip displayed on hover of light theme
+mr1-onboarding-theme-tooltip-light =
+    .title =
+        Usar un tema claro para botones,
+        menús y ventanas.
+# Input description for light theme
+mr1-onboarding-theme-description-light =
+    .aria-description =
+        Usar un tema claro para botones,
+        menús y ventanas.
+# Tooltip displayed on hover of dark theme
+mr1-onboarding-theme-tooltip-dark =
+    .title =
+        Usar un tema oscuro para botones,
+        menús y ventanas.
+# Input description for dark theme
+mr1-onboarding-theme-description-dark =
+    .aria-description =
+        Usar un tema oscuro para botones,
+        menús y ventanas.
+# Tooltip displayed on hover of Alpenglow theme
+mr1-onboarding-theme-tooltip-alpenglow =
+    .title =
+        Usar un tema dinámico y colorido para botones,
+        menús y ventanas.
+# Input description for Alpenglow theme
+mr1-onboarding-theme-description-alpenglow =
+    .aria-description =
+        Usar un tema dinámico y colorido para botones,
+        menús y ventanas.
