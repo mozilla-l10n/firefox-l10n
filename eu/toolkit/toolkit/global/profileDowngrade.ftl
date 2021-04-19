@@ -5,13 +5,10 @@
 profiledowngrade-window =
     .title = { -brand-product-name }en bertsio zahar bat abiarazi duzu
     .style = width: 490px;
-
 profiledowngrade-window-create =
     .label = Sortu profil berria
-
-profiledowngrade-sync = { -brand-product-name }en bertsio zahar bat erabiliz gero, dagoeneko { -brand-product-name } profil batean gordetako laster-markak eta nabigazio-historia honda litezke. Zure informazioa babesteko, sortu profil berri bat { -brand-short-name }(r)en instalazio honetarako. Zure laster-markak eta nabigazio-historia profilen artean sinkronizatzeko, { -fxaccount-brand-name }(r)ekin saioa has dezakezu.
+profiledowngrade-sync = { -brand-product-name }en bertsio zahar bat erabiliz gero, dagoeneko { -brand-product-name } profil batean gordetako laster-markak eta nabigazio-historia honda litezke. Zure informazioa babesteko, sortu profil berri bat { -brand-short-name }(r)en instalazio honetarako. Zure laster-markak eta nabigazio-historia profilen artean sinkronizatzeko, { -fxaccount-brand-name(kasua: "rekin") } saioa has dezakezu.
 profiledowngrade-nosync = { -brand-product-name }en bertsio zahar bat erabiliz gero, dagoeneko { -brand-product-name } profil batean gordetako laster-markak eta nabigazio-historia honda litezke. Zure informazioa babesteko, sortu profil berri bat { -brand-short-name }(r)en instalazio honetarako.
-
 profiledowngrade-quit =
     .label =
         { PLATFORM() ->

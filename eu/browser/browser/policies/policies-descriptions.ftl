@@ -31,7 +31,7 @@ policy-DisableBuiltinPDFViewer = Desgaitu PDF.js, { -brand-short-name }(r)en int
 policy-DisableDefaultBrowserAgent = Eragotzi lehenetsitako nabigatzaile agenteak ekintzarik egitea. Windowsen bakarrik; beste plataformek ez dute agentea.
 policy-DisableDeveloperTools = Blokeatu garatzaile-tresnetarako sarbidea.
 policy-DisableFeedbackCommands = Desgaitu iritzia bidaltzeko komandoak 'Laguntza' menutik ('Bidali iritzia' eta 'Eman gune iruzurtiaren berri').
-policy-DisableFirefoxAccounts = Desgaitu { -fxaccount-brand-name }(r)en oinarritutako zerbitzuak, Sync barne.
+policy-DisableFirefoxAccounts = Desgaitu { -fxaccount-brand-name(kasua: "n") } oinarritutako zerbitzuak, sinkronizazioa barne.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Desgaitu Firefoxen pantaila-argazkien eginbidea.
 policy-DisableFirefoxStudies = Eragotzi { -brand-short-name }(r)i esperimentuak exekutatzea.

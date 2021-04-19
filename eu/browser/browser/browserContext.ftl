@@ -90,6 +90,9 @@ toolbar-button-stop-reload =
 
 ## Firefox Account Button
 
+toolbar-button-fxaccount =
+    .label = { -fxaccount-brand-name(kasua: "a") }
+    .tooltiptext = { -fxaccount-brand-name(kasua: "a") }
 
 ## Save Page
 
@@ -311,12 +314,12 @@ main-context-menu-image-email =
 main-context-menu-image-set-as-background =
     .label = Jarri idazmahaiaren atzeko planoan…
     .accesskey = J
-main-context-menu-image-info =
-    .label = Ikusi irudiaren informazioa
-    .accesskey = f
 main-context-menu-image-set-image-as-background =
     .label = Ezarri irudia idazmahaiaren atzeko plano gisa…
     .accesskey = z
+main-context-menu-image-info =
+    .label = Ikusi irudiaren informazioa
+    .accesskey = f
 main-context-menu-image-desc =
     .label = Ikusi deskribapena
     .accesskey = d
