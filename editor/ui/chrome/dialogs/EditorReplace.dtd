@@ -10,7 +10,7 @@
 <!ENTITY replaceField.label "Αντικατάσταση με:">
 <!ENTITY replaceField.accesskey "κ">
 <!ENTITY caseSensitiveCheckbox.label "Συμφωνία πεζών/κεφαλαίων">
-<!ENTITY caseSensitiveCheckbox.accesskey "Τ">
+<!ENTITY caseSensitiveCheckbox.accesskey "Σ">
 <!ENTITY wrapCheckbox.label "Αναδίπλωση γύρω">
 <!ENTITY wrapCheckbox.accesskey "δ">
 <!ENTITY backwardsCheckbox.label "Αναζήτηση  προς τα πίσω">

@@ -439,7 +439,7 @@
 <!ENTITY markAsNotJunkCmd.accesskey "θ">
 <!ENTITY markAsNotJunkCmd.key "j">
 <!ENTITY recalculateJunkScoreCmd.label "Έλεγχος για ανεπιθύμητα email">
-<!ENTITY recalculateJunkScoreCmd.accesskey "κ">
+<!ENTITY recalculateJunkScoreCmd.accesskey "γ">
 <!ENTITY openMessageWindowCmd.label "Άνοιγμα μηνύματος">
 <!ENTITY openMessageWindowCmd.accesskey "ν">
 <!ENTITY openMessageWindowCmd.key "o">
