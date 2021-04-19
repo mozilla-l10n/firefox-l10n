@@ -17,7 +17,7 @@
 <!ENTITY views.accesskey                "β">
 <!ENTITY views.tooltip                  "Αλλαγή προβολής">
 <!ENTITY view.columns.label             "Εμφάνιση στηλών">
-<!ENTITY view.columns.accesskey         "ρ">
+<!ENTITY view.columns.accesskey         "φ">
 <!ENTITY view.sort.label                "Ταξινόμηση">
 <!ENTITY view.sort.accesskey            "ξ">
 <!ENTITY view.unsorted.label            "Χωρίς ταξινόμηση">
