@@ -918,7 +918,7 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Cookies και δεδομένα ιστοσελίδων
-sitedata-total-size-calculating = Υπολογισμός μεγέθους δεδομένων ιστοσελίδας και προσωρινής μνήμης…
+sitedata-total-size-calculating = Υπολογισμός μεγέθους δεδομένων ιστοσελίδας και κρυφής μνήμης…
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
