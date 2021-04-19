@@ -49,4 +49,4 @@ bookmark-overlay-keyword-2 =
     .value = Ключавое слова
     .accesskey = К
 bookmark-overlay-tags-caption-label = Выкарыстоўвайце тэгі для арганізацыі і пошуку закладак з адраснага радка
-bookmark-overlay-keyword-caption-label = Выкарыстоўвайце ключавыя словы, каб адкрываць закладкі наўпрост з адраснага радка
+bookmark-overlay-keyword-caption-label-2 = Выкарыстоўвайце адно ключавое слова, каб адкрываць закладкі наўпрост з адраснага радка
