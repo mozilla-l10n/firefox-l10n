@@ -7,9 +7,12 @@
 ### Firefox" and "version" is used to mean "the specific revision number of a
 ### given Firefox channel". These terms are not synonymous.
 
+title = Important News
 heading = Chynges tae yer { -brand-short-name } profile
 changed-title = Whit's chynged?
 options-title = Whit are ma chyces?
+resources = Resoorces:
+sync-header = Sign in or mak a { -fxaccount-brand-name(capitalization: "sentence") }
 sync-label = Inpit yer email
 sync-input =
     .placeholder = Email
