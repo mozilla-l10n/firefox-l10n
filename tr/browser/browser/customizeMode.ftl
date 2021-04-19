@@ -49,3 +49,5 @@ customize-mode-lwthemes-my-themes =
     .value = Temalarım
 customize-mode-touchbar-cmd =
     .label = Touch Bar’ı özelleştir…
+customize-mode-downloads-button-autohide =
+    .label = Boşsa düğmeyi gizle

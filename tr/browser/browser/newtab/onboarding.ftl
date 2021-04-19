@@ -241,9 +241,17 @@ onboarding-multistage-theme-description-alpenglow =
 
 ## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 
+# "Hero Text" displayed on left side of welcome screen.
+# The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
+# It also signals the passion users bring to Firefox, how they use
+# Firefox to pursue those passions, as well as the boldness in their
+# choice to use Firefox over a larger competitor browser.
+# An alternative title for localization is: "It starts here".
+mr1-welcome-screen-hero-text = Her şey burada başlıyor
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Animasyonları kapat
 mr1-onboarding-welcome-header = { -brand-short-name } tarayıcısına hoş geldiniz
+mr1-onboarding-set-default-only-primary-button-label = { -brand-short-name } tarayıcısını varsayılan tarayıcım yap
 mr1-onboarding-set-default-secondary-button-label = Daha sonra
 mr1-onboarding-sign-in-button-label = Giriş yap
 mr1-onboarding-import-subtitle = Parolalarınızı, yer imlerinizi ve <br/>daha fazlasını içe aktarın.
@@ -254,6 +262,7 @@ mr1-onboarding-import-primary-button-label-attribution = { $previous } tarayıc�
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = Önceki tarayıcımdan içe aktar
 mr1-onboarding-import-secondary-button-label = Daha sonra
+mr1-onboarding-theme-subtitle = { -brand-short-name } tarayıcınızı bir temayla kişiselleştirin.
 mr1-onboarding-theme-primary-button-label = Temayı kaydet
 mr1-onboarding-theme-secondary-button-label = Daha sonra
 # System theme uses operating system color settings
@@ -268,3 +277,33 @@ mr1-onboarding-theme-label-alpenglow = Alpenglow
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of system theme
+mr1-onboarding-theme-tooltip-system =
+    .title =
+        Düğmeler, menüler ve pencereler için
+        işletim sistemi temasını kullan.
+# Input description for system theme
+mr1-onboarding-theme-description-system =
+    .aria-description =
+        Düğmeler, menüler ve pencereler için
+        işletim sistemi temasını kullan.
+# Tooltip displayed on hover of light theme
+mr1-onboarding-theme-tooltip-light =
+    .title =
+        Düğmeler, menüler ve pencereler için
+        açık bir tema kullan.
+# Input description for light theme
+mr1-onboarding-theme-description-light =
+    .aria-description =
+        Düğmeler, menüler ve pencereler için
+        açık bir tema kullan.
+# Tooltip displayed on hover of dark theme
+mr1-onboarding-theme-tooltip-dark =
+    .title =
+        Düğmeler, menüler ve pencereler için
+        koyu bir tema kullan.
+# Input description for dark theme
+mr1-onboarding-theme-description-dark =
+    .aria-description =
+        Düğmeler, menüler ve pencereler için
+        koyu bir tema kullan.
