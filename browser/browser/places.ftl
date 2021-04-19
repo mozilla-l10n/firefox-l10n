@@ -5,12 +5,12 @@
 places-open =
     .label = Dobrir
     .accesskey = D
-places-open-tab =
-    .label = Dobrir dins un onglet novèl
-    .accesskey = o
 places-open-in-tab =
     .label = Dobrir dins un onglet novèl
     .accesskey = D
+places-open-tab =
+    .label = Dobrir dins un onglet novèl
+    .accesskey = o
 places-open-all-bookmarks =
     .label = Dobrir totes los marcapaginas
     .accesskey = D
@@ -20,8 +20,14 @@ places-open-all-in-tabs =
 places-open-window =
     .label = Dobrir dins una fenèstra novèla
     .accesskey = f
+places-open-in-window =
+    .label = Dobrir dins una fenèstra novèla
+    .accesskey = f
 places-open-private-window =
     .label = Dobrir lo ligam dins una novèla fenèstra privada
+    .accesskey = p
+places-open-in-private-window =
+    .label = Dobrir dins una fenèstra privada
     .accesskey = p
 places-new-bookmark =
     .label = Marcapagina novèl…
@@ -35,12 +41,6 @@ places-new-folder =
 places-new-separator =
     .label = Separador novèl
     .accesskey = S
-places-open-in-window =
-    .label = Dobrir dins una fenèstra novèla
-    .accesskey = f
-places-open-in-private-window =
-    .label = Dobrir dins una fenèstra privada
-    .accesskey = p
 places-add-bookmark =
     .label = Apondre un marcapagina…
     .accesskey = A
@@ -91,6 +91,17 @@ places-edit-bookmark =
 places-edit-generic =
     .label = Modificar…
     .accesskey = M
+places-edit-folder =
+    .label = Renomenar lo dossièr…
+    .accesskey = R
+places-remove-folder =
+    .label =
+        { $count ->
+            [1] Suprimir lo dossièr
+            [one] Suprimir lo dossièr
+           *[other] Suprimir los dossièrs
+        }
+    .accesskey = S
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Marcapaginas constrenches

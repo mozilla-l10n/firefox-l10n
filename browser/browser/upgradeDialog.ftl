@@ -8,6 +8,12 @@
 
 ## New changes screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-new-title = Saludatz lo { -brand-short-name } novèl
+upgrade-dialog-new-item-tabs-title = Onglets modèrns
+upgrade-dialog-new-primary-primary-button = Definir { -brand-short-name } coma navegador principal
+    .title = Definís { -brand-short-name } coma navegador per defaut e lo penja a la barra de prètzfaches
+upgrade-dialog-new-primary-default-button = Definir { -brand-short-name } coma navegador per defaut
 upgrade-dialog-new-primary-pin-button = Penjar { -brand-short-name } a ma barra de prètzfaches
 upgrade-dialog-new-primary-theme-button = Causir un tèma
 upgrade-dialog-new-secondary-button = Pas ara
