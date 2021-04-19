@@ -124,3 +124,25 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = Saved Logins and Passwirds
+browser-data-bookmarks-checkbox =
+    .label =
+        { $browser ->
+            [ie] Favorites
+            [edge] Favorites
+           *[other] Buikmerks
+        }
+browser-data-bookmarks-label =
+    .value =
+        { $browser ->
+            [ie] Favorites
+            [edge] Favorites
+           *[other] Buikmerks
+        }
+browser-data-otherdata-checkbox =
+    .label = Ither Data
+browser-data-otherdata-label =
+    .label = Ither Data
+browser-data-session-checkbox =
+    .label = Windaes and Tabs
+browser-data-session-label =
+    .value = Windaes and Tabs
