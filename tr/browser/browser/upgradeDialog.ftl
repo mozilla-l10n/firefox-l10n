@@ -11,10 +11,17 @@
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-new-title = Yeni { -brand-short-name } ile tanışın
 upgrade-dialog-new-item-tabs-title = Modern sekmeler
+upgrade-dialog-new-primary-default-button = { -brand-short-name } tarayıcısını varsayılan tarayıcım yap
+upgrade-dialog-new-primary-pin-button = { -brand-short-name } tarayıcısını görev çubuğuma sabitle
+upgrade-dialog-new-primary-theme-button = Temanızı seçin
 upgrade-dialog-new-secondary-button = Daha sonra
 
 ## Theme selection screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-theme-title =
+    Güncellenen temalarımızdan biriyle
+    temiz bir başlangıç yapın
 upgrade-dialog-theme-system = Sistem teması
     .title = Düğmeler, menüler ve pencerelerde işletim sisteminin temasını kullan
 upgrade-dialog-theme-light = Açık

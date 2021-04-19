@@ -254,6 +254,7 @@ mr1-onboarding-welcome-header = { -brand-short-name } tarayıcısına hoş geldi
 mr1-onboarding-set-default-only-primary-button-label = { -brand-short-name } tarayıcısını varsayılan tarayıcım yap
 mr1-onboarding-set-default-secondary-button-label = Daha sonra
 mr1-onboarding-sign-in-button-label = Giriş yap
+mr1-onboarding-import-header = Gözünüz arkada kalmasın
 mr1-onboarding-import-subtitle = Parolalarınızı, yer imlerinizi ve <br/>daha fazlasını içe aktarın.
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
@@ -262,6 +263,7 @@ mr1-onboarding-import-primary-button-label-attribution = { $previous } tarayıc�
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = Önceki tarayıcımdan içe aktar
 mr1-onboarding-import-secondary-button-label = Daha sonra
+mr1-onboarding-theme-header = Zevkinize göre ayarlayın
 mr1-onboarding-theme-subtitle = { -brand-short-name } tarayıcınızı bir temayla kişiselleştirin.
 mr1-onboarding-theme-primary-button-label = Temayı kaydet
 mr1-onboarding-theme-secondary-button-label = Daha sonra

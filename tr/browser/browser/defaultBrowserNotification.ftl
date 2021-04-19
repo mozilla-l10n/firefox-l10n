@@ -12,5 +12,9 @@ default-browser-notification-button =
 ## depending on the operating system (Windows vs other). The checkbox label and
 ## secondary button are shared between the variants.
 
+default-browser-prompt-title-pin = { -brand-short-name } ana tarayıcınız olarak ayarlansın mı?
+default-browser-prompt-button-primary-pin = Ana tarayıcı olarak ayarla
+default-browser-prompt-title-alt = { -brand-short-name } varsayılan tarayıcınız olarak ayarlansın mı?
 default-browser-prompt-button-primary-alt = Varsayılan tarayıcı yap
+default-browser-prompt-checkbox-not-again-label = Bu mesajı bir daha gösterme
 default-browser-prompt-button-secondary = Daha sonra
