@@ -257,7 +257,7 @@ main-context-menu-media-video-fullscreen =
     .label = Hale Screen
     .accesskey = F
 main-context-menu-media-video-leave-fullscreen =
-    .label = Ootgang Hale Screen
+    .label = Ootgang fae Hale Screen
     .accesskey = u
 # This is used when right-clicking on a video in the
 # content area when the Picture-in-Picture feature is enabled.
@@ -314,12 +314,12 @@ main-context-menu-image-email =
 main-context-menu-image-set-as-background =
     .label = Set As Desktap Backgrund…
     .accesskey = S
-main-context-menu-image-info =
-    .label = View Image Info
-    .accesskey = f
 main-context-menu-image-set-image-as-background =
     .label = Set Image as Desktap Backgrund…
     .accesskey = S
+main-context-menu-image-info =
+    .label = View Image Info
+    .accesskey = f
 main-context-menu-image-desc =
     .label = View Description
     .accesskey = D
