@@ -266,7 +266,11 @@ onboarding-multistage-theme-description-alpenglow =
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Désactiver les animations
 mr1-onboarding-welcome-header = Bienvenue dans { -brand-short-name }
+mr1-onboarding-set-default-pin-primary-button-label = Faire de { -brand-short-name } mon navigateur principal
+    .title = Fait de { -brand-short-name } votre navigateur par défaut et l’épingle à la barre des tâches
 mr1-onboarding-set-default-secondary-button-label = Plus tard
+mr1-onboarding-sign-in-button-label = Connexion
+mr1-onboarding-import-header = Emportez tout avec vous
 mr1-onboarding-import-subtitle = Importez vos mots de passe, <br/>vos marque-pages et bien plus.
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
@@ -290,3 +294,23 @@ mr1-onboarding-theme-label-alpenglow = Alpenglow
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of light theme
+mr1-onboarding-theme-tooltip-light =
+    .title =
+        Utiliser un thème clair
+        pour les boutons, menus et fenêtres.
+# Input description for light theme
+mr1-onboarding-theme-description-light =
+    .aria-description =
+        Utiliser un thème clair
+        pour les boutons, menus et fenêtres.
+# Tooltip displayed on hover of dark theme
+mr1-onboarding-theme-tooltip-dark =
+    .title =
+        Utiliser un thème sombre
+        pour les boutons, menus et fenêtres.
+# Input description for dark theme
+mr1-onboarding-theme-description-dark =
+    .aria-description =
+        Utiliser un thème sombre
+        pour les boutons, menus et fenêtres.
