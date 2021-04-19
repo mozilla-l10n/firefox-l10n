@@ -23,7 +23,7 @@ upgrade-dialog-new-secondary-button = Une honetan ez
 ## Theme selection screen
 
 upgrade-dialog-theme-system = Sistemaren itxura
-    .title = Erabili sistema eragilearen itxura botoi, menu eta leihoetarako.
+    .title = Errespetatu sistema eragilearen itxura botoi, menu eta leihoetarako.
 upgrade-dialog-theme-light = Argia
     .title = Erabili itxura argia botoi, menu eta leihoetarako
 upgrade-dialog-theme-dark = Iluna
