@@ -5,12 +5,12 @@
 places-open =
     .label = Iepenje
     .accesskey = I
-places-open-tab =
-    .label = Iepenje yn in nij ljepblêd
-    .accesskey = l
 places-open-in-tab =
     .label = Iepenje yn nij ljepblêd
     .accesskey = n
+places-open-tab =
+    .label = Iepenje yn in nij ljepblêd
+    .accesskey = l
 places-open-all-bookmarks =
     .label = Alle blêdwizers iepenje
     .accesskey = i
@@ -20,8 +20,14 @@ places-open-all-in-tabs =
 places-open-window =
     .label = Iepenje yn in nij finster
     .accesskey = f
+places-open-in-window =
+    .label = Iepenje yn nij finster
+    .accesskey = f
 places-open-private-window =
     .label = Iepenje yn in nij priveefinster
+    .accesskey = p
+places-open-in-private-window =
+    .label = Iepenje yn nij priveefinster
     .accesskey = p
 places-new-bookmark =
     .label = Nije blêdwizer…
@@ -35,12 +41,6 @@ places-new-folder =
 places-new-separator =
     .label = Nij skiedingsteken
     .accesskey = s
-places-open-in-window =
-    .label = Iepenje yn nij finster
-    .accesskey = f
-places-open-in-private-window =
-    .label = Iepenje yn nij priveefinster
-    .accesskey = p
 places-add-bookmark =
     .label = Blêdwizer tafoegje…
     .accesskey = B
@@ -91,6 +91,17 @@ places-edit-bookmark =
 places-edit-generic =
     .label = Bewurkje…
     .accesskey = r
+places-edit-folder =
+    .label = Mapnamme wizigje…
+    .accesskey = w
+places-remove-folder =
+    .label =
+        { $count ->
+            [1] Map fuortsmite
+            [one] Map fuortsmite
+           *[other] Mappen fuortsmite
+        }
+    .accesskey = f
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Behearde blêdwizers
