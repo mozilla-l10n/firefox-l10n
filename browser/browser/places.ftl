@@ -94,6 +94,15 @@ places-edit-generic =
 places-edit-folder =
     .label = Přejmenovat složku…
     .accesskey = e
+places-remove-folder =
+    .label =
+        { $count ->
+            [1] Smazat složku
+            [one] Smazat složku
+            [few] Smazat složky
+           *[other] Smazat složky
+        }
+    .accesskey = m
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Záložky spravované správcem
