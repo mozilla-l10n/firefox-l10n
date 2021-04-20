@@ -10,7 +10,7 @@
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-new-title = Säg hej till nya { -brand-short-name }
-upgrade-dialog-new-subtitle = Designad för att ta dig dit du vill, snabbare
+upgrade-dialog-new-subtitle = Designad för att snabbt ta dig dit du vill
 upgrade-dialog-new-item-menu-title = Strömlinjeformat verktygsfält och menyer
 upgrade-dialog-new-item-menu-description = Prioritera de viktiga sakerna så att du hittar vad du behöver.
 upgrade-dialog-new-item-tabs-title = Moderna flikar
