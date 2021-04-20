@@ -578,9 +578,6 @@ pointerlock-warning-no-domain = Aquest document té el control del punter. Preme
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Part d'aquesta pàgina ha fallat.</strong> Per notificar el problema al { -brand-product-name } i que s'arregli més ràpidament, envieu un informe.
-crashed-subframe-learnmore =
-    .label = Més informació
-    .accesskey = M
 crashed-subframe-learnmore-link =
     .value = Més informació
 crashed-subframe-submit =
@@ -593,8 +590,6 @@ bookmarks-show-all-bookmarks =
     .label = Mostra totes les adreces d'interès
 bookmarks-manage-bookmarks =
     .label = Gestiona les adreces d'interès
-bookmarks-recent-bookmarks-panel =
-    .value = Adreces d'interès recents
 bookmarks-recent-bookmarks-panel-subheader = Adreces d'interès recents
 bookmarks-toolbar-chevron =
     .tooltiptext = Mostra més adreces d'interès
