@@ -6,3 +6,7 @@ common-dialog-title-null = Ko kuatiarogue he’i
 common-dialog-title-system = { -brand-short-name }
 # Title displayed when the origin of a web dialog is unknown.
 common-dialog-title-unknown = Ojekuaa’ỹva
+common-dialog-username =
+    .value = Puruhára réra
+common-dialog-password =
+    .value = Ñe’ẽñemi

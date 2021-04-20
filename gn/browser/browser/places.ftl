@@ -5,12 +5,12 @@
 places-open =
     .label = Jeike
     .accesskey = J
-places-open-tab =
-    .label = Tendayke Pyahúpe jeike
-    .accesskey = h
 places-open-in-tab =
     .label = Eike tendayke pyahúpe
     .accesskey = W
+places-open-tab =
+    .label = Tendayke Pyahúpe jeike
+    .accesskey = h
 places-open-all-bookmarks =
     .label = Embojurujapaite techaukaha
     .accesskey = O
@@ -20,8 +20,14 @@ places-open-all-in-tabs =
 places-open-window =
     .label = Ovetã Pyahúpe jeike
     .accesskey = N
+places-open-in-window =
+    .label = Eike Ovetã Pyahúpe
+    .accesskey = N
 places-open-private-window =
     .label = Ovetã ñemi pyahúpe jeike
+    .accesskey = P
+places-open-in-private-window =
+    .label = Eike Ovetã Ñemigua Pyahúpe
     .accesskey = P
 places-new-bookmark =
     .label = Techaukaha pyahu...
@@ -35,12 +41,6 @@ places-new-folder =
 places-new-separator =
     .label = Mopa’ũha pyahu
     .accesskey = S
-places-open-in-window =
-    .label = Eike Ovetã Pyahúpe
-    .accesskey = N
-places-open-in-private-window =
-    .label = Eike Ovetã Ñemigua Pyahúpe
-    .accesskey = P
 places-add-bookmark =
     .label = Embojuaju techaukaha…
     .accesskey = B
@@ -91,6 +91,17 @@ places-edit-bookmark =
 places-edit-generic =
     .label = Mbosako’i…
     .accesskey = i
+places-edit-folder =
+    .label = Embohérajey ñongatuha…
+    .accesskey = e
+places-remove-folder =
+    .label =
+        { $count ->
+            [1] Emboguete ñongatuha
+            [one] Emboguete ñongatuha
+           *[other] Emboguete ñongatuhakuéra
+        }
+    .accesskey = m
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Techaukaha ñangarekopyre
