@@ -302,7 +302,7 @@ identity-site-information = Informácie o stránke { $host }
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 identity-header-security-with-host =
-    .title = Zabezpečenie pripojenia pre { $host }
+    .title = Zabezpečenie pripojenia k { $host }
 identity-connection-not-secure = Pripojenie nie je zabezpečené
 identity-connection-secure = Pripojenie je zabezpečené
 identity-connection-internal = Toto je bezpečná stránka prehliadača { -brand-short-name }
