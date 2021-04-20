@@ -578,9 +578,6 @@ pointerlock-warning-no-domain = Tiu ĉi dokumento regas vian musmontrilon. Premu
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Parto de tiu ĉi paĝo paneis.</strong> Por permesi al { -brand-product-name } scii pri tiu ĉi problemo kaj havi pli rapidan solvon, bonvolu sendi raporton.
-crashed-subframe-learnmore =
-    .label = Pli da informo
-    .accesskey = P
 crashed-subframe-learnmore-link =
     .value = Pli da informo
 crashed-subframe-submit =
@@ -593,8 +590,6 @@ bookmarks-show-all-bookmarks =
     .label = Montri ĉiujn legosignojn
 bookmarks-manage-bookmarks =
     .label = Administri legosignojn
-bookmarks-recent-bookmarks-panel =
-    .value = Ĵusaj legosignoj
 bookmarks-recent-bookmarks-panel-subheader = Ĵusaj legosignoj
 bookmarks-toolbar-chevron =
     .tooltiptext = Montri pliajn legosignojn
