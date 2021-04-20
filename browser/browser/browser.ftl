@@ -298,6 +298,9 @@ bookmark-panel =
 
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
+identity-site-information = Подаци о сајту { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
 identity-header-security-with-host =
     .title = Безбедност везе за { $host }
 identity-connection-not-secure = Веза није безбедна
