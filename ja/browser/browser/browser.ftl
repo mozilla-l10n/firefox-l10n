@@ -416,11 +416,11 @@ popup-screen-sharing-never =
 popup-silence-notifications-checkbox = 共有中は { -brand-short-name } からの通知を無効にする。
 popup-silence-notifications-checkbox-warning = 共有中は { -brand-short-name } からの通知を表示しないようにします。
 popup-screen-sharing-block =
-  .label = ブロック
-  .accesskey = B
+    .label = ブロック
+    .accesskey = B
 popup-screen-sharing-always-block =
-  .label = 常にブロック
-  .accesskey = w
+    .label = 常にブロック
+    .accesskey = w
 popup-mute-notifications-checkbox = 共有中はウェブサイトからの通知を無効にする
 
 ## WebRTC window or screen share tab switch warning
@@ -559,9 +559,6 @@ pointerlock-warning-no-domain = マウスポインターは現在、このペー
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>このページの一部がクラッシュしました。</strong> { -brand-product-name } にこの問題を知らせて素早く修正するために、レポートを送信してください。
-crashed-subframe-learnmore =
-    .label = 詳細
-    .accesskey = L
 crashed-subframe-learnmore-link =
     .value = 詳細
 crashed-subframe-submit =
@@ -574,8 +571,6 @@ bookmarks-show-all-bookmarks =
     .label = すべてのブックマークを表示
 bookmarks-manage-bookmarks =
     .label = ブックマークを管理
-bookmarks-recent-bookmarks-panel =
-    .value = 最近のブックマーク
 bookmarks-recent-bookmarks-panel-subheader = 最近のブックマーク
 bookmarks-toolbar-chevron =
     .tooltiptext = 残りのブックマークを表示します
