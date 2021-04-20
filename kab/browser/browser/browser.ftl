@@ -295,6 +295,9 @@ bookmark-panel =
 
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
+identity-site-information = Asmel n talɣut i { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
 identity-header-security-with-host =
     .title = Taɣellist n tuqqna i { $host }
 identity-connection-not-secure = Tuqqna taraɣelsant
