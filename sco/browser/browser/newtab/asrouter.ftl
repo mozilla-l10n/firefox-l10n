@@ -95,6 +95,7 @@ cfr-whatsnew-button =
 cfr-whatsnew-panel-header = Whit's New
 cfr-whatsnew-release-notes-link-text = Read the roll-oot notes
 cfr-whatsnew-fx70-title = { -brand-short-name } noo fechts aw the mair for yer preevacy.
+cfr-whatsnew-tracking-protect-title = Bield yersel fae trackers
 
 ## Search Bar
 
