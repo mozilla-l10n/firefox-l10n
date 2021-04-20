@@ -520,7 +520,7 @@ home-prefs-topsites-by-option-sponsored =
     .label = 스폰서 상위 사이트
 home-prefs-shortcuts-header =
     .label = 바로 가기
-home-prefs-shortcuts-description = 저장 또는 방문 사이트
+home-prefs-shortcuts-description = 저장하거나 방문한 사이트
 home-prefs-shortcuts-by-option-sponsored =
     .label = 스폰서 바로 가기
 

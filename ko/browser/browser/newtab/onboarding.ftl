@@ -263,7 +263,7 @@ onboarding-multistage-theme-description-alpenglow =
 # Firefox to pursue those passions, as well as the boldness in their
 # choice to use Firefox over a larger competitor browser.
 # An alternative title for localization is: "It starts here".
-mr1-welcome-screen-hero-text = 여기서부터 시작합니다
+mr1-welcome-screen-hero-text = 시작
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = 애니메이션 끄기
 mr1-onboarding-welcome-header = { -brand-short-name }에 오신 것을 환영합니다
