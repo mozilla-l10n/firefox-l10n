@@ -587,9 +587,6 @@ pointerlock-warning-no-domain = Dokument kontroluje teraz kursor. Naciśnij klaw
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Część tej strony uległa awarii.</strong> Prosimy to zgłosić, aby powiadomić twórców przeglądarki { -brand-product-name } o problemie i przyspieszyć jego naprawienie.
-crashed-subframe-learnmore =
-    .label = Więcej informacji
-    .accesskey = W
 crashed-subframe-learnmore-link =
     .value = Więcej informacji
 crashed-subframe-submit =
@@ -602,8 +599,6 @@ bookmarks-show-all-bookmarks =
     .label = Wyświetl wszystkie zakładki
 bookmarks-manage-bookmarks =
     .label = Zarządzaj zakładkami
-bookmarks-recent-bookmarks-panel =
-    .value = Ostatnio dodane zakładki
 bookmarks-recent-bookmarks-panel-subheader = Ostatnio dodane zakładki
 bookmarks-toolbar-chevron =
     .tooltiptext = Wyświetl więcej zakładek
