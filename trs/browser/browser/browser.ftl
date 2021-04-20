@@ -258,6 +258,13 @@ bookmark-panel =
 
 ## Identity Panel
 
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-site-information = Si nuguàn' sîtio guendâ { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-header-security-with-host =
+    .title = Nitāj huā ahī koneksiôn guendâ { $host }
 identity-connection-not-secure = Nitāj seguridâ nikāj koneksiôn
 identity-connection-secure = Huā seguridâ nikāj koneksiôn
 identity-connection-internal = Nitaj si hua ahī pajina nikaj ñu'unj { -brand-short-name }
