@@ -267,6 +267,14 @@ mr1-onboarding-set-default-only-primary-button-label = Gjør { -brand-short-name
 mr1-onboarding-set-default-secondary-button-label = Ikke nå
 mr1-onboarding-sign-in-button-label = Logg inn
 mr1-onboarding-import-header = Ta med deg alt
+mr1-onboarding-import-subtitle = Importer dine passord, <br/>bokmerker og mer.
+# The primary import button label will depend on whether we can detect which browser was used to download Firefox.
+# Variables:
+#   $previous (Str) - Previous browser name, such as Edge, Chrome
+mr1-onboarding-import-primary-button-label-attribution = Importer fra { $previous }
+# This string will be used in cases where we can't detect the previous browser name.
+mr1-onboarding-import-primary-button-label-no-attribution = Importer fra forrige nettleser
+mr1-onboarding-import-secondary-button-label = Ikke nå
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
