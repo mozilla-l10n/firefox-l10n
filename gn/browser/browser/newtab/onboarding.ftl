@@ -307,3 +307,23 @@ mr1-onboarding-theme-description-system =
     .aria-description =
         Ehapykueho apopyvusu oku’éva téma
         votõ, poravorã ha ovetãme g̃uarã.
+# Tooltip displayed on hover of light theme
+mr1-onboarding-theme-tooltip-light =
+    .title =
+        Eipuru ojehechaporãva votõ,
+        poravorã ha ovetã.
+# Input description for light theme
+mr1-onboarding-theme-description-light =
+    .aria-description =
+        Eipuru ojehechaporãva votõ,
+        poravorã ha ovetã.
+# Tooltip displayed on hover of dark theme
+mr1-onboarding-theme-tooltip-dark =
+    .title =
+        Eipuru téma ypytũ votõ,
+        poravorã ha ovetãme g̃uarã.
+# Input description for dark theme
+mr1-onboarding-theme-description-dark =
+    .aria-description =
+        Eipuru téma ypytũ votõ,
+        poravorã ha ovetãme g̃uarã.
