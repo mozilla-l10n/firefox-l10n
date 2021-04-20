@@ -67,6 +67,7 @@ newtab-menu-remove-download = Remuive fae Historie
 
 ## Pocket Content Section.
 
+newtab-pocket-learn-more = Lairn mair
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

@@ -33,6 +33,7 @@ list-empty-find-updates =
 
 ## Recommended add-ons page
 
+discopane-notice-learn-more = Lairn mair
 privacy-policy = Preevacy Policy
 
 ## Add-on actions

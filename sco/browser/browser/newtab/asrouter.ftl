@@ -105,9 +105,11 @@ cfr-whatsnew-tracking-protect-title = Bield yersel fae trackers
 
 ## Picture-in-Picture
 
+cfr-whatsnew-pip-cta = Lairn mair
 
 ## Permission Prompt
 
+cfr-whatsnew-permission-prompt-cta = Lairn mair
 
 ## Fingerprinter Counter
 
@@ -157,6 +159,8 @@ cfr-whatsnew-tracking-protect-title = Bield yersel fae trackers
 
 ## Fission Experiment Message
 
+cfr-doorhanger-fission-secondary-button = Lairn mair
+    .accesskey = L
 
 ## What's new: Cookies message
 
