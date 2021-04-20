@@ -293,6 +293,13 @@ bookmark-panel =
 
 ## Identity Panel
 
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-site-information = Retamab'al Ruxaq richin { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-header-security-with-host =
+    .title = Rujikomal Okem richin { $host }
 identity-connection-not-secure = Man ütz ta okem
 identity-connection-secure = Rujikomal okem
 identity-connection-internal = Re re' ütz chi { -brand-short-name } ruxaq.
