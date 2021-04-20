@@ -49,3 +49,5 @@ customize-mode-lwthemes-my-themes =
     .value = I miei temis
 customize-mode-touchbar-cmd =
     .label = Personalize sbare tatil…
+customize-mode-downloads-button-autohide =
+    .label = Plate il boton cuant che al è vueit
