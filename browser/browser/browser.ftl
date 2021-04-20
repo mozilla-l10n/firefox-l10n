@@ -570,9 +570,6 @@ pointerlock-warning-no-domain = Este documento ten o control do punteiro. Prema 
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Parte desta páxina petou.</strong> Para que { -brand-product-name } saiba desta incidencia se poida arranxar máis axiña, envíe un informe.
-crashed-subframe-learnmore =
-    .label = Saber máis
-    .accesskey = S
 crashed-subframe-learnmore-link =
     .value = Máis información
 crashed-subframe-submit =
@@ -585,8 +582,6 @@ bookmarks-show-all-bookmarks =
     .label = Amosar todos os marcadores
 bookmarks-manage-bookmarks =
     .label = Xestionar marcadores
-bookmarks-recent-bookmarks-panel =
-    .value = Marcadores recentes
 bookmarks-recent-bookmarks-panel-subheader = Marcadores recentes
 bookmarks-toolbar-chevron =
     .tooltiptext = Amosar máis marcadores
