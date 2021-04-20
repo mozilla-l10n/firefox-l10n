@@ -7,3 +7,13 @@ default-browser-notification-message = <strong>Meti { -brand-short-name } tant c
 default-browser-notification-button =
     .label = Met come predefinît
     .accesskey = M
+
+## These strings are used for the default browser prompt. There are 2 variations
+## depending on the operating system (Windows vs other). The checkbox label and
+## secondary button are shared between the variants.
+
+default-browser-prompt-title-pin = Rindi { -brand-short-name } il to navigadôr principâl?
+default-browser-prompt-message-pin = Ten { -brand-short-name } a puartade di man — rindilu il to navigadôr predefinît e fissilu te sbare des aplicazions.
+default-browser-prompt-button-primary-pin = Rindilu navigadôr principâl
+default-browser-prompt-title-alt = Rindi { -brand-short-name } il to navigadôr predefinît?
+default-browser-prompt-message-alt = Garantìssiti velocitât, sigurece e riservatece ogni volte che tu navighis.
