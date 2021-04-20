@@ -9,8 +9,8 @@
 ## New changes screen
 
 # This title can be explicitly wrapped to control which words are on which line.
-upgrade-dialog-new-title = 새 { -brand-short-name }와 인사
-upgrade-dialog-new-subtitle = 원하는 곳으로 더 빨리 이동할 수 있도록 설계
+upgrade-dialog-new-title = 새로워진 { -brand-short-name }
+upgrade-dialog-new-subtitle = 원하는 곳으로 더 빨리 이동할 수 있도록 설계됨
 upgrade-dialog-new-item-menu-title = 간소화된 도구 모음 및 메뉴
 upgrade-dialog-new-item-menu-description = 중요한 것에 우선순위를 두어서 필요한 것을 찾을 수 있도록 합니다.
 upgrade-dialog-new-item-tabs-title = 현대적인 탭
@@ -28,8 +28,8 @@ upgrade-dialog-new-secondary-button = 나중에
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-theme-title =
-    업데이트 된 테마로
-    깔끔하게 시작
+    업데이트된 테마로
+    산뜻하게 시작
 upgrade-dialog-theme-system = 시스템 테마
     .title = 버튼, 메뉴 및 창에 운영 체제의 테마를 따름
 upgrade-dialog-theme-light = 밝게
