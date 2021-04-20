@@ -581,9 +581,6 @@ pointerlock-warning-no-domain = Dette dokument kontrollerer din markør. Tryk Es
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>En del af denne side gik ned</strong>. Indsend en rapport for at fortælle { -brand-product-name } om dette problem, så det hurtigere kan blive løst.
-crashed-subframe-learnmore =
-    .label = Læs mere
-    .accesskey = L
 crashed-subframe-learnmore-link =
     .value = Læs mere
 crashed-subframe-submit =
@@ -596,8 +593,6 @@ bookmarks-show-all-bookmarks =
     .label = Vis alle bogmærker
 bookmarks-manage-bookmarks =
     .label = Håndter bogmærker
-bookmarks-recent-bookmarks-panel =
-    .value = Seneste bogmærker
 bookmarks-recent-bookmarks-panel-subheader = Seneste bogmærker
 bookmarks-toolbar-chevron =
     .tooltiptext = Vis flere bogmærker
