@@ -61,6 +61,8 @@ options-screenshot-label = Mba’erechaha japyhypyre reko
 options-screenshot-clipboard-label = Mba’erechaha japyhypyre kuatiajokohápe
 options-screenshot-clipboard-tooltip =
     .title = Eñongatu mba’erechaha japyhypyre kuatiajokohaitépe
+options-screenshot-clipboard-tooltip2 =
+    .title = Eñongatu mba’erechaha japyhypyre kuatiajokohápe
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
 options-screenshot-audio-label = Emboheta mba’epu ta’ãnga nohẽháme
 options-screenshot-audio-tooltip =
@@ -85,7 +87,7 @@ options-sourceeditor-keybinding-default-label = Jepokokuaa’ỹha
 
 ## Advanced section
 
-# The heading
+# The heading (this item is also used in perftools.ftl)
 options-context-advanced-settings = Ñemoĩporã opapotáva
 # The label for the checkbox that toggles the HTTP cache on or off
 options-disable-http-cache-label = Kache HTTP ñemonge (tembipuru ryru ijuruja jave)
