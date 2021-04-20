@@ -268,6 +268,9 @@ bookmark-panel =
 
 ## Identity Panel
 
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-site-information = { $host } এর সাইট তথ্য
 identity-connection-not-secure = সংযোগ নিরাপদ নয়
 identity-connection-secure = সংযোগ সুরক্ষিত
 identity-connection-internal = এটি একটি সুরক্ষিত { -brand-short-name } পাতা।
