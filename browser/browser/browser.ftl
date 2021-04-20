@@ -586,9 +586,6 @@ pointerlock-warning-no-domain = ਇਹ ਦਸਤਾਵੇਜ਼ ਤੁਹਾਡੇ 
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>ਇਸ ਸਫ਼ੇ ਦਾ ਹਿੱਸਾ ਨਸ਼ਟ ਹੋਇਆ।</strong> { -brand-product-name } ਨੂੰ ਇਸ ਮਸਲੇ ਬਾਰੇ ਜਾਣਕਾਰੀ ਦਿਓ ਅਤੇ ਇਸ ਨੂੰ ਛੇਤੀ ਠੀਕ ਕਰਵਾਓ, ਇਸ ਬਾਰੇ ਰਿਪੋਰਟ ਦਿਓ।
-crashed-subframe-learnmore =
-    .label = ਹੋਰ ਸਿੱਖੋ
-    .accesskey = L
 crashed-subframe-learnmore-link =
     .value = ਹੋਰ ਜਾਣੋ
 crashed-subframe-submit =
@@ -601,8 +598,6 @@ bookmarks-show-all-bookmarks =
     .label = ਸਭ ਬੁੱਕਮਾਰਕਾਂ ਨੂੰ ਵੇਖੋ
 bookmarks-manage-bookmarks =
     .label = ਬੁੱਕਮਾਰਕਾਂ ਇੰਤਜ਼ਾਮ
-bookmarks-recent-bookmarks-panel =
-    .value = ਹਾਲੀਆ ਬੁੱਕਮਾਰਕ
 bookmarks-recent-bookmarks-panel-subheader = ਹਾਲੀਆ ਬੁੱਕਮਾਰਕ
 bookmarks-toolbar-chevron =
     .tooltiptext = ਹੋਰ ਬੁੱਕਮਾਰਕਾਂ ਨੂੰ ਵੇਖੋ
