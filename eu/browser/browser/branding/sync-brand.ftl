@@ -10,8 +10,8 @@
 # and kept in English.
 -fxaccount-brand-name =
     { $kasua ->
-       *[0] Firefox kontu
-        [a] Firefox kontua
+        [0] Firefox kontu
+       *[a] Firefox kontua
         [k] Firefox kontuak
         [n] Firefox kontuan
         [tik] Firefox kontutik
