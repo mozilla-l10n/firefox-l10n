@@ -41,7 +41,7 @@ protections-panel-not-blocking-why-etp-off-tooltip = Svi pratitelji na ovoj stra
 protections-panel-no-trackers-found = Programi za praćenje koji su poznati { -brand-short-name }u nisu otkriveni na ovoj stranici.
 protections-panel-content-blocking-tracking-protection = Praćenje sadržaja
 protections-panel-content-blocking-socialblock = Programi za praćenje s društvenih mreža
-protections-panel-content-blocking-cryptominers-label = Kripto rudari
+protections-panel-content-blocking-cryptominers-label = Kripto-rudari
 protections-panel-content-blocking-fingerprinters-label = Jedinstveni otisci
 
 ## In the protections panel, Content Blocking category items are in three sections:
@@ -80,6 +80,7 @@ protections-panel-cryptominers = Kripto rudari koriste računalnu snagu tvog sus
 protections-panel-fingerprinters = Čitači digitalnih otisaka prikupljaju postavke tvog preglednika i računala kako bi stvorili tvoj jedinstveni profil. Koristeći ovaj digitalni otisak, mogu te pratiti diljem raznih web stranica.
 protections-panel-tracking-content = Web stranice mogu učitati vanjske reklame, video materijal i drugi sadržaj koji sadržava kȏd za praćenje. Blokiranje praćenja sadržaja može ubrzati učitavanje stranica, ali neke tipke, obrasci ili polja za prijavu možda neće raditi.
 protections-panel-social-media-trackers = Društvene mreže postavljaju programe za praćenje na druge web stranice kako bi pratili što radiš, pregledavaš i vidiš na Internetu. Ovo omogućava tvrtkama društvenih mreža o tebi saznati više od onoga što dijeliš na svom profilu.
+protections-panel-description-shim-allowed = Neki programi za praćenje označeni ispod djelomično su deblokirani na ovoj stranici jer ste bili u interakciji s njima.
 protections-panel-description-shim-allowed-learn-more = Saznaj više
 protections-panel-shim-allowed-indicator =
     .tooltiptext = Program za praćenje djelomično odblokiran

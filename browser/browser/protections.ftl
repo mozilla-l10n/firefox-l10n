@@ -49,7 +49,7 @@ tracker-tab-title = Praćenje sadržaja
 tracker-tab-description = Web stranice mogu učitati vanjske reklame, video materijal i drugi sadržaj koji sadržava kod za praćenje. Blokiranje praćenja sadržaja može ubrzati učitavanje stranica, ali neke tipke, obrasci ili polja za prijavu možda neće raditi. <a data-l10n-name="learn-more-link">Saznaj više</a>
 fingerprinter-tab-title = Čitači digitalnog otiska
 fingerprinter-tab-content = Čitači digitalnog otiska prikupljaju postavke tvog preglednika i računala kako bi stvorili tvoj profil. Pomoću ovog digitalnog otiska mogu te pratiti na različitim web stranicama. <a data-l10n-name="learn-more-link">Saznaj više</a>
-cryptominer-tab-title = Kripto rudari
+cryptominer-tab-title = Kripto-rudari
 cryptominer-tab-content = Krupto rudari koriste računalnu snagu tvog sustava kako bi rudarili digitalni novac. Skripte za kripto rudarenje troše bateriju, usporavaju računalo i povećavaju račun za struju. <a data-l10n-name="learn-more-link">Saznaj više</a>
 protections-close-button2 =
     .aria-label = Zatvori
@@ -216,10 +216,10 @@ bar-tooltip-fingerprinter =
            *[other] { $count } čitača digitalnog otiska ({ $percentage }%)
         }
 bar-tooltip-cryptominer =
-    .title = Kripto rudari
+    .title = Kripto-rudari
     .aria-label =
         { $count ->
-            [one] { $count } kripto rudar ({ $percentage }%)
-            [few] { $count } kripto rudara ({ $percentage }%)
-           *[other] { $count } kripto rudara ({ $percentage }%)
+            [one] { $count } kripto-rudar ({ $percentage }%)
+            [few] { $count } kripto-rudara ({ $percentage }%)
+           *[other] { $count } kripto-rudara ({ $percentage }%)
         }
