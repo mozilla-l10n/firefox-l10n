@@ -281,6 +281,13 @@ bookmark-panel =
 
 ## Identity Panel
 
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-site-information = { $host } 사이트 정보
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-header-security-with-host =
+    .title = { $host }에 대한 연결 보안
 identity-connection-not-secure = 안전하지 않은 연결
 identity-connection-secure = 안전한 연결
 identity-connection-internal = 안전한 { -brand-short-name } 페이지입니다.
