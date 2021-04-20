@@ -581,9 +581,6 @@ pointerlock-warning-no-domain = Ko kuatia oñangareko nde hekaha rehe. Eikutu Es
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Peteĩva kuatiarogue pehẽ ndokói.</strong> Oikuaa hag̃ua { -brand-product-name } ko apañuãi ha omoĩporã pya’e hag̃ua, ikatúpa emondo marandu’i.
-crashed-subframe-learnmore =
-    .label = Kuaave
-    .accesskey = L
 crashed-subframe-learnmore-link =
     .value = Kuaave
 crashed-subframe-submit =
@@ -596,8 +593,6 @@ bookmarks-show-all-bookmarks =
     .label = Opaite techaukaha jehechauka
 bookmarks-manage-bookmarks =
     .label = Eñangareko techaukaháre
-bookmarks-recent-bookmarks-panel =
-    .value = Techaukaha ramogua
 bookmarks-recent-bookmarks-panel-subheader = Techaukaha ramogua
 bookmarks-toolbar-chevron =
     .tooltiptext = Techaukaha jehechaukave
