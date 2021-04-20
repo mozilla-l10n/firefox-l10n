@@ -9,7 +9,7 @@
 <!ENTITY account.name                  "Usuario:">
 <!ENTITY account.password              "Contraseña:">
 <!ENTITY account.alias                 "Alias:">
-<!ENTITY account.newMailNotification   "Notify on new Mail">
+<!ENTITY account.newMailNotification   "Notificar correo nuevo">
 <!ENTITY account.autojoin              "Auto-Joined Channels:">
 <!ENTITY account.proxySettings.caption "Configuración de proxy:">
 <!ENTITY account.proxySettings.change.label     "Cambiar…">

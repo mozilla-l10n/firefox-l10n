@@ -36,9 +36,9 @@
 <!ENTITY ValueHeader.label "Value">
 <!ENTITY SelectedHeader.label "Selected">
 
-<!ENTITY AddOption.label "Add Option">
+<!ENTITY AddOption.label "Agregar opción">
 <!ENTITY AddOption.accesskey "O">
-<!ENTITY AddOptGroup.label "Add Group">
+<!ENTITY AddOptGroup.label "Agregar grupo">
 <!ENTITY AddOptGroup.accesskey "G">
 <!ENTITY RemoveElement.label "Remove">
 <!ENTITY RemoveElement.accesskey "R">
