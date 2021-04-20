@@ -234,7 +234,7 @@ newtab-error-fallback-refresh-link = 페이지를 새로 고침해서 다시 시
 ## Customization Menu
 
 newtab-custom-shortcuts-title = 바로 가기
-newtab-custom-shortcuts-subtitle = 저장 또는 방문 사이트
+newtab-custom-shortcuts-subtitle = 저장하거나 방문한 사이트
 newtab-custom-row-selector =
     { $num ->
        *[other] { $num } 행
