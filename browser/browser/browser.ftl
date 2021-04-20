@@ -281,6 +281,13 @@ bookmark-panel =
 
 ## Identity Panel
 
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-site-information = Thông tin trang web { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-header-security-with-host =
+    .title = Bảo mật kết nối cho { $host }
 identity-connection-not-secure = Kết nối không an toàn
 identity-connection-secure = Kết nối an toàn
 identity-connection-internal = Đây là một trang an toàn của { -brand-short-name }
