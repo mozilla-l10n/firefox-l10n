@@ -296,6 +296,13 @@ bookmark-panel =
 
 ## Identity Panel
 
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-site-information = { $host } svetainės informacija
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-header-security-with-host =
+    .title = Ryšio saugumas su { $host }
 identity-connection-not-secure = Ryšys nesaugus
 identity-connection-secure = Ryšys saugus
 identity-connection-internal = Tai yra saugus „{ -brand-short-name }“ tinklalapis.
