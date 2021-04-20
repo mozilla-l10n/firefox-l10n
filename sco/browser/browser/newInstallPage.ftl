@@ -15,10 +15,15 @@ changed-desc-dedicated = Fur tae mak it easier and mair sauf tae switch atween i
 lost = <b>Ye hivnae lost ony personal data or customisations.</b> If ye've awready saved information tae Firefox on this computer, it'll aye be there in anither Firefox instawment.
 options-title = Whit can I dae noo?
 options-do-nothing = If ye dinnae dae onythin, yer profile data in { -brand-short-name } will be different fae yer profile data in ither instawments o Firefox.
+options-use-sync = If ye'd like aw yer profile data tae be the same on aw instawments o Firefox, ye can yaise a { -fxaccount-brand-name(capitalization: "sentence") } fur tae keep them in sync.
 resources = Resoorces:
+support-link = Yaisin the Profile Manager - Hauners Airticle
 sync-header = Sign in or mak a { -fxaccount-brand-name(capitalization: "sentence") }
 sync-label = Inpit yer email
 sync-input =
     .placeholder = Email
 sync-button = Haud Forrit
+sync-terms = By haudin forrit, ye're agreein tae the <a data-l10n-name="terms">Terms o Service</a> and <a data-l10n-name="privacy">Preevacy Notice</a>.
+sync-first = Never yaised { -sync-brand-name } afore? Ye'll need tae sign in tae ilka instawment o Firefox fur tae sync yer information.
+new-install-sync-first = Never yaised sync afore? Ye'll need tae sign in tae ilka instawment o Firefox fur tae sync yer information.
 sync-learn = Lairn mair

@@ -5,6 +5,8 @@
 
 ## These messages are used as headings in the recommendation doorhanger
 
+cfr-doorhanger-extension-heading = Recommendit Extension
+cfr-doorhanger-feature-heading = Recommendit Featur
 
 ##
 
