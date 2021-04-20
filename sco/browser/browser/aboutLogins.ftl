@@ -104,7 +104,7 @@ login-item-copy-password-button-text = Copy
 login-item-copied-password-button-text = Copied!
 login-item-save-changes-button = Save Chynges
 login-item-save-new-button = Save
-login-item-cancel-button = Cancel
+login-item-cancel-button = Stap
 login-item-time-changed = Last chynged: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
 login-item-time-created = Makkit: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = Last yaised: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
@@ -169,9 +169,9 @@ about-logins-enable-password-sync-dont-ask-again-button =
 
 ## Dialogs
 
-confirmation-dialog-cancel-button = Cancel
+confirmation-dialog-cancel-button = Stap
 confirmation-dialog-dismiss-button =
-    .title = Cancel
+    .title = Stap
 about-logins-confirm-remove-dialog-title = Remuive this login?
 confirm-delete-dialog-message = This action cannae be unduin.
 about-logins-confirm-remove-dialog-confirm-button = Remuive
@@ -318,7 +318,7 @@ about-logins-import-dialog-error-no-logins-imported = Nae logins hae been inbrun
 about-logins-import-dialog-error-learn-more = Lairn mair
 about-logins-import-dialog-error-try-again = Try Aince Mair...
 about-logins-import-dialog-error-try-import-again = Try Inbringin Aince Mair...
-about-logins-import-dialog-error-cancel = Cancel
+about-logins-import-dialog-error-cancel = Stap
 about-logins-import-report-title = Inbringin Summary
 about-logins-import-report-description = Logins and passwirds inbrung tae { -brand-short-name }.
 #

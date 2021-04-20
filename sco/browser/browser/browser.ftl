@@ -267,7 +267,7 @@ search-one-offs-history =
 bookmarks-add-bookmark = Eik on buikmerk
 bookmarks-edit-bookmark = Edit buikmerk
 bookmark-panel-cancel =
-    .label = Cancel
+    .label = Stap
     .accesskey = C
 # Variables:
 #  $count (number): number of bookmarks that will be removed
