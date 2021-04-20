@@ -265,6 +265,17 @@ onboarding-multistage-theme-description-alpenglow =
 # An alternative title for localization is: "It starts here".
 mr1-welcome-screen-hero-text = Tata oñepyrũ ápe
 mr1-onboarding-welcome-header = Eg̃uahẽporãite { -brand-short-name }-pe
+mr1-onboarding-set-default-pin-primary-button-label = Ajapo { -brand-short-name }-gui che kundahára aipuruvévarõ
+    .title = Areko { -brand-short-name } kundahára ypyguárõ ha ambojuaju tembiaporã rendáre
+mr1-onboarding-set-default-only-primary-button-label = Ajapo { -brand-short-name }-gui kundahára ypyguávarõ
+mr1-onboarding-set-default-secondary-button-label = Ani ko’ág̃a
+mr1-onboarding-sign-in-button-label = Eñepyrũ tembiapo
+mr1-onboarding-import-header = Eguerahapa nendive
+mr1-onboarding-import-subtitle = Emba’egueru ne ñe’ẽñemi, <br/>techaukaha ha hetave.
+# The primary import button label will depend on whether we can detect which browser was used to download Firefox.
+# Variables:
+#   $previous (Str) - Previous browser name, such as Edge, Chrome
+mr1-onboarding-import-primary-button-label-attribution = Emba’egueru { $previous } guive
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
