@@ -65,3 +65,20 @@ appmenu-help-exit-troubleshoot-mode =
     .label = Vypnúť režim riešenia problémov
 appmenu-help-more-troubleshooting-info =
     .label = Ďalšie informácie pre riešenie problémov
+
+## Action Button Context Menu
+
+toolbar-context-menu-manage-extension =
+    .label = Spravovať rozšírenie
+    .accesskey = S
+toolbar-context-menu-remove-extension =
+    .label = Odstrániť rozšírenie
+    .accesskey = O
+
+## Add-on removal warning
+
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = Odstrániť { $name }?
+addon-removal-confirmation-button = Odstrániť
+addon-removal-confirmation-message = Odstrániť doplnok { $name }, ako aj jeho konfiguráciu a údaje z aplikácie { -brand-short-name }?
