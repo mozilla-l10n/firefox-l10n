@@ -475,9 +475,6 @@ pointerlock-warning-no-domain = Այս փաստաթուղթը ղեկավարու
 
 ## Subframe crash notification
 
-crashed-subframe-learnmore =
-    .label = Իմանալ ավելին
-    .accesskey = L
 
 ## Bookmarks panels, menus and toolbar
 
