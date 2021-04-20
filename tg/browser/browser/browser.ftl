@@ -274,6 +274,13 @@ bookmark-panel =
 
 ## Identity Panel
 
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-site-information = Маълумот дар бораи сомонаи { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-header-security-with-host =
+    .title = Амнияти пайвастшавӣ барои { $host }
 identity-connection-not-secure = Пайвастшавӣ бехатар нест
 identity-connection-secure = Пайвастшавӣ бехатар аст
 identity-connection-internal = Ин саҳифаи бехатари { -brand-short-name } мебошад.
@@ -505,9 +512,6 @@ fullscreen-exit-mac-button = Баромад аз экрани пурра (esc)
 
 ## Subframe crash notification
 
-crashed-subframe-learnmore =
-    .label = Маълумоти бештар
-    .accesskey = М
 crashed-subframe-learnmore-link =
     .value = Маълумоти бештар
 crashed-subframe-submit =
@@ -520,8 +524,6 @@ bookmarks-show-all-bookmarks =
     .label = Намоиш додани ҳамаи хатбаракҳо
 bookmarks-manage-bookmarks =
     .label = Идоракунии хатбаракҳо
-bookmarks-recent-bookmarks-panel =
-    .value = Хатбаракҳои охирин
 bookmarks-recent-bookmarks-panel-subheader = Хатбаракҳои охирин
 bookmarks-toolbar-chevron =
     .tooltiptext = Намоиш додани хатбаракҳои дигар
