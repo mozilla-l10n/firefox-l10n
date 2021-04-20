@@ -605,9 +605,6 @@ pointerlock-warning-no-domain = Mae gan y ddogfen hon reolaeth o'ch pwyntydd. Pw
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Mae rhan o'r dudalen hon wedi chwalu.</strong> Er mwyn rhoi gwybod i { -brand-product-name } am y mater hwn a'i drwsio'n gynt, cyflwynwch adroddiad.
-crashed-subframe-learnmore =
-    .label = Dysgu rhagor
-    .accesskey = D
 crashed-subframe-learnmore-link =
     .value = Dysgu Rhagor
 crashed-subframe-submit =
@@ -620,8 +617,6 @@ bookmarks-show-all-bookmarks =
     .label = Dangos Pob Nod Tudalen
 bookmarks-manage-bookmarks =
     .label = Rheoli Nodau Tudalen
-bookmarks-recent-bookmarks-panel =
-    .value = Nodau Tudalen Diweddar
 bookmarks-recent-bookmarks-panel-subheader = Nodau Tudalen Diweddar
 bookmarks-toolbar-chevron =
     .tooltiptext = Dangos pob ffolder nod tudalen
