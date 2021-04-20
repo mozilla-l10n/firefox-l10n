@@ -66,3 +66,20 @@ appmenu-help-exit-troubleshoot-mode =
     .label = Modus za rozrisanje problemow znjemóžnić
 appmenu-help-more-troubleshooting-info =
     .label = Dalše informacije za rozrisowanje problemow
+
+## Action Button Context Menu
+
+toolbar-context-menu-manage-extension =
+    .label = Rozšěrjenje rjadować
+    .accesskey = R
+toolbar-context-menu-remove-extension =
+    .label = Rozšěrjenje wotstronić
+    .accesskey = s
+
+## Add-on removal warning
+
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = { $name } wotstronić?
+addon-removal-confirmation-button = Wotstronić
+addon-removal-confirmation-message = { $name } a jeho konfiguraciju a daty z { -brand-short-name } wotstronić?
