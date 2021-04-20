@@ -293,6 +293,13 @@ bookmark-panel =
 
 ## Identity Panel
 
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-site-information = Infurmaziuns per la site { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-header-security-with-host =
+    .title = Segirezza da la connexiun per { $host }
 identity-connection-not-secure = Connexiun betg segirada
 identity-connection-secure = Connexiun segirada
 identity-connection-internal = Quai è ina pagina segira da { -brand-short-name }.
