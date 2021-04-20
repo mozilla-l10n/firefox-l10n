@@ -64,3 +64,20 @@ appmenu-help-exit-troubleshoot-mode =
     .label = Stäng av felsökningsläge
 appmenu-help-more-troubleshooting-info =
     .label = Mer felsökningsinformation
+
+## Action Button Context Menu
+
+toolbar-context-menu-manage-extension =
+    .label = Hantera tillägg
+    .accesskey = H
+toolbar-context-menu-remove-extension =
+    .label = Ta bort tillägg
+    .accesskey = T
+
+## Add-on removal warning
+
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = Ta bort { $name }?
+addon-removal-confirmation-button = Ta bort
+addon-removal-confirmation-message = Ta bort { $name } samt dess konfiguration och data från { -brand-short-name }?
