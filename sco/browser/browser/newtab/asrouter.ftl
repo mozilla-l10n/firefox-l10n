@@ -7,21 +7,71 @@
 
 cfr-doorhanger-extension-heading = Recommendit Extension
 cfr-doorhanger-feature-heading = Recommendit Featur
+cfr-doorhanger-pintab-heading = Gie This a Shot: Peen Tab
 
 ##
 
+cfr-doorhanger-extension-sumo-link =
+    .tooltiptext = Whit fur am I seein this
+cfr-doorhanger-extension-cancel-button = No Jist Noo
+    .accesskey = N
+cfr-doorhanger-extension-ok-button = Eik On Noo
+    .accesskey = A
+cfr-doorhanger-pintab-ok-button = Peen This Tab
+    .accesskey = P
+cfr-doorhanger-extension-manage-settings-button = Manage Recommendation Settins
+    .accesskey = M
+cfr-doorhanger-extension-never-show-recommendation = Dinnae Show Me This Recommendation
+    .accesskey = S
 cfr-doorhanger-extension-learn-more-link = Lairn mair
+# This string is used on a new line below the add-on name
+# Variables:
+#   $name (String) - Add-on author name
+cfr-doorhanger-extension-author = by { $name }
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+cfr-doorhanger-extension-notification = Recommendation
+cfr-doorhanger-extension-notification2 = Recommendation
+    .tooltiptext = Extension recommendation
+    .a11y-announcement = Extension recommendation redd
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+cfr-doorhanger-feature-notification = Recommendation
+    .tooltiptext = Featur recommendation
+    .a11y-announcement = Featur recommendation redd
 
 ## Add-on statistics
 ## These strings are used to display the total number of
 ## users and rating for an add-on. They are shown next to each other.
 
+# Variables:
+#   $total (Number) - The rating of the add-on from 1 to 5
+cfr-doorhanger-extension-rating =
+    .tooltiptext =
+        { $total ->
+            [one] { $total } star
+           *[other] { $total } stars
+        }
+# Variables:
+#   $total (Number) - The total number of users using the add-on
+cfr-doorhanger-extension-total-users =
+    { $total ->
+        [one] yaiser
+       *[other] yaisers
+    }
+cfr-doorhanger-pintab-description = Gang straicht tae yer maist-yaised sites. Keep sites open in a tab (even when ye restert).
 
 ## These messages are steps on how to use the feature and are shown together.
 
+cfr-doorhanger-pintab-step1 = <b>Richt-click</b> on the tab ye're wantin tae peen.
+cfr-doorhanger-pintab-step2 = Wale <b>Peen Tab</b> fae the menu.
+cfr-doorhanger-pintab-step3 = If the site has an update ye'll see a blue dot on yer peened tab.
+cfr-doorhanger-pintab-animation-pause = Pause
+cfr-doorhanger-pintab-animation-resume = Resume
 
 ## Firefox Accounts Message
 
+cfr-doorhanger-bookmark-fxa-header = Sync yer buikmerks awwhaur.
 
 ## Protections panel
 
