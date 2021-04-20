@@ -18,5 +18,5 @@ default-browser-prompt-button-primary-pin = Ei wneud eich prif borwr
 default-browser-prompt-title-alt = Gwneud { -brand-short-name } eich prif borwr?
 default-browser-prompt-message-alt = Cael cyflymder, diogelwch a phreifatrwydd bob tro y byddwch chi'n pori.
 default-browser-prompt-button-primary-alt = Gosod fel y porwr ragosodedig
-default-browser-prompt-checkbox-not-again-label = Peidiwch â dangos y neges hon eto
+default-browser-prompt-checkbox-not-again-label = Peidio â dangos y neges hon eto
 default-browser-prompt-button-secondary = Nid nawr
