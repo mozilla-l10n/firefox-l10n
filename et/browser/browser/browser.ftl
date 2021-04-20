@@ -289,6 +289,13 @@ bookmark-panel =
 
 ## Identity Panel
 
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-site-information = Saidi { $host } teave
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-header-security-with-host =
+    .title = Saidi { $host } ühenduse turvalisus
 identity-connection-not-secure = Ebaturvaline ühendus
 identity-connection-secure = Turvaline ühendus
 identity-connection-internal = See on turvaline { -brand-short-name }i leht.
