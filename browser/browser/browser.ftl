@@ -293,6 +293,13 @@ bookmark-panel =
 
 ## Identity Panel
 
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-site-information = Πληροφορίες για τη σελίδα { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-header-security-with-host =
+    .title = Ασφάλεια σύνδεσης για { $host }
 identity-connection-not-secure = Μη ασφαλής σύνδεση
 identity-connection-secure = Ασφαλής σύνδεση
 identity-connection-internal = Αυτή είναι μια ασφαλής σελίδα του { -brand-short-name }.
