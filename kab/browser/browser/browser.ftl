@@ -293,6 +293,10 @@ bookmark-panel =
 
 ## Identity Panel
 
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-header-security-with-host =
+    .title = Taɣellist n tuqqna i { $host }
 identity-connection-not-secure = Tuqqna taraɣelsant
 identity-connection-secure = Taɣellist n tuqqna
 identity-connection-internal = Wa d asebter { -brand-short-name } aɣelsan.
