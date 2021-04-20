@@ -281,6 +281,13 @@ bookmark-panel =
 
 ## Identity Panel
 
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-site-information = Informasi Situs untuk { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-header-security-with-host =
+    .title = Keamanan Sambungan untuk { $host }
 identity-connection-not-secure = Sambungan tidak aman
 identity-connection-secure = Sambungan aman
 identity-connection-internal = Ini adalah laman { -brand-short-name } aman.
