@@ -23,10 +23,10 @@
 <!ENTITY accountAliasGroupbox.caption "Local Alias">
 <!ENTITY accountAliasField.label      "Alias:">
 <!ENTITY accountAliasInfo.label       "This will only be displayed in your conversations when you talk, remote contacts won't see it.">
-<!ENTITY accountProxySettings.caption "Proxy Settings">
+<!ENTITY accountProxySettings.caption "Configuración de proxy">
 <!ENTITY accountProxySettings.change.label     "Cambiar…">
 <!ENTITY accountProxySettings.change.accessKey "C">
 
 <!ENTITY accountSummaryTitle.label   "Summary">
 <!ENTITY accountSummaryInfo.label    "A summary of the information you entered is displayed below. Please check it before the account is created.">
-<!ENTITY accountSummary.connectNow.label "Connect this account now.">
+<!ENTITY accountSummary.connectNow.label "Conectar esta cuenta ahora.">
