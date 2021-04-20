@@ -295,6 +295,13 @@ bookmark-panel =
 
 ## Identity Panel
 
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-site-information = Website-informatie voor { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-header-security-with-host =
+    .title = Verbindingsbeveiliging voor { $host }
 identity-connection-not-secure = Verbinding niet beveiligd
 identity-connection-secure = Verbinding beveiligd
 identity-connection-internal = Dit is een beveiligde { -brand-short-name }-pagina.
