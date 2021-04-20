@@ -297,3 +297,13 @@ mr1-onboarding-theme-label-alpenglow = Alpenglow
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of system theme
+mr1-onboarding-theme-tooltip-system =
+    .title =
+        Ehapykueho apopyvusu oku’éva téma
+        votõ, poravorã ha ovetãme g̃uarã.
+# Input description for system theme
+mr1-onboarding-theme-description-system =
+    .aria-description =
+        Ehapykueho apopyvusu oku’éva téma
+        votõ, poravorã ha ovetãme g̃uarã.

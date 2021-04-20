@@ -49,4 +49,4 @@ bookmark-overlay-keyword-2 =
     .value = Ñe’ẽ ñemi
     .accesskey = K
 bookmark-overlay-tags-caption-label = Eipuru teramoĩ emohendaporã hag̃ua ha eheka techaukaha kundaharape renda guive
-bookmark-overlay-keyword-caption-label = Eipuru ñe’ẽ ñemi embojuruja hag̃ua techaukaha kundaharape renda guive
+bookmark-overlay-keyword-caption-label-2 = Peteĩ ñe’ẽ ombojurujáta techaukaha kundaharape renda guive
