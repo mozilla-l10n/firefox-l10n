@@ -285,6 +285,13 @@ bookmark-panel =
 
 ## Identity Panel
 
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-site-information = { $host } 的網站資訊
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-header-security-with-host =
+    .title = { $host } 的連線安全性
 identity-connection-not-secure = 不安全連線
 identity-connection-secure = 安全連線
 identity-connection-internal = 這是安全的 { -brand-short-name } 頁面。
