@@ -20,8 +20,8 @@ upgrade-dialog-new-subtitle = Prohlížeč, který vás vezme, kam potřebujete,
 upgrade-dialog-new-item-menu-title = Nové lišty a nabídky pro snazší ovládání
 upgrade-dialog-new-item-menu-description = Dávají přednost důležitým věcem, takže najdete, co potřebujete.
 upgrade-dialog-new-item-tabs-title = Moderní vzhled panelů
-upgrade-dialog-new-item-tabs-description = Obsahuje ty správné informace, podporuje soustředění a flexibilní ovládání.
-upgrade-dialog-new-item-icons-title = Svěží ikony a jasná sdělení
+upgrade-dialog-new-item-tabs-description = Obsahuje ty správné informace, nevyrušuje a přizpůsobí se vašim potřebám.
+upgrade-dialog-new-item-icons-title = Svěží ikony a jasné popisky
 upgrade-dialog-new-item-icons-description = Pomohou vám najít, co potřebujete, i na dotykové obrazovce.
 upgrade-dialog-new-primary-primary-button =
     Nastavit { -brand-short-name.gender ->
