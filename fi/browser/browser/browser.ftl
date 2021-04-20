@@ -579,9 +579,6 @@ pointerlock-warning-no-domain = Tämä sivu hallitsee hiiren osoitinta. Voit ott
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Osa tästä sivusta kaatui.</strong> Lähetäthän raportin, jotta { -brand-product-name } saa tiedon tästä ja voi korjata ongelman nopeammin.
-crashed-subframe-learnmore =
-    .label = Lue lisää
-    .accesskey = L
 crashed-subframe-learnmore-link =
     .value = Lue lisää
 crashed-subframe-submit =
@@ -594,8 +591,6 @@ bookmarks-show-all-bookmarks =
     .label = Näytä kaikki kirjanmerkit
 bookmarks-manage-bookmarks =
     .label = Järjestele kirjanmerkkejä
-bookmarks-recent-bookmarks-panel =
-    .value = Uusimmat kirjanmerkit
 bookmarks-recent-bookmarks-panel-subheader = Uusimmat kirjanmerkit
 bookmarks-toolbar-chevron =
     .tooltiptext = Näytä lisää kirjanmerkkejä
