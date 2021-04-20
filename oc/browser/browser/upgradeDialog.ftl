@@ -10,6 +10,7 @@
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-new-title = Saludatz lo { -brand-short-name } novèl
+upgrade-dialog-new-item-menu-title = Barras d’aisinas e menús simplificats
 upgrade-dialog-new-item-tabs-title = Onglets modèrns
 upgrade-dialog-new-primary-primary-button = Definir { -brand-short-name } coma navegador principal
     .title = Definís { -brand-short-name } coma navegador per defaut e lo penja a la barra de prètzfaches
