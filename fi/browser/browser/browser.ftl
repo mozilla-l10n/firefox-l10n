@@ -293,6 +293,13 @@ bookmark-panel =
 
 ## Identity Panel
 
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-site-information = Tiedot sivustosta { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-header-security-with-host =
+    .title = Yhteyden suojaus sivustoon { $host }
 identity-connection-not-secure = Yhteys ei ole suojattu
 identity-connection-secure = Yhteys on suojattu
 identity-connection-internal = Tämä on suojattu { -brand-short-name }-sivu.
