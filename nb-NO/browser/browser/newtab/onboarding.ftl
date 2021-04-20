@@ -266,6 +266,7 @@ mr1-onboarding-set-default-pin-primary-button-label = Gjør { -brand-short-name 
 mr1-onboarding-set-default-only-primary-button-label = Gjør { -brand-short-name } til min standardnettleser
 mr1-onboarding-set-default-secondary-button-label = Ikke nå
 mr1-onboarding-sign-in-button-label = Logg inn
+mr1-onboarding-import-header = Ta med deg alt
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
