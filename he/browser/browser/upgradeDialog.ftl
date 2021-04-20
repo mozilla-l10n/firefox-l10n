@@ -11,6 +11,8 @@
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-new-title = תגידו שלום ל־{ -brand-short-name } החדש
 upgrade-dialog-new-subtitle = עוצב כדי לקחת אתכם לאן שתרצו, מהר יותר
+upgrade-dialog-new-item-menu-title = סרגל כלים ותפריטים יעילים יותר
+upgrade-dialog-new-item-tabs-title = לשוניות חדשניות
 upgrade-dialog-new-item-icons-title = סמלים חדשים והודעות ברורות יותר
 upgrade-dialog-new-primary-primary-button = הגדרת { -brand-short-name } כדפדפן הראשי שלי
     .title = מגדיר את { -brand-short-name } כדפדפן ברירת המחדל ומצמיד אותו לשורת המשימות
