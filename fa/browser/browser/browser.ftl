@@ -549,9 +549,6 @@ pointerlock-warning-no-domain = این سند کنترل مکان‌نما شم�
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>بخشی از این صفحه خراب شد.</strong> برای اطلاع { -brand-product-name } از این مسئله و رفع سریعتر آن، لطفاً گزارشی ارسال کنید.
-crashed-subframe-learnmore =
-    .label = بیشتر بدانید
-    .accesskey = L
 crashed-subframe-learnmore-link =
     .value = بیشتر بدانید
 crashed-subframe-submit =
@@ -564,8 +561,6 @@ bookmarks-show-all-bookmarks =
     .label = نمایش همهٔ نشانک‌ها
 bookmarks-manage-bookmarks =
     .label = مدیریت نشانک‌ها
-bookmarks-recent-bookmarks-panel =
-    .value = نشانک‌های اخیر
 bookmarks-recent-bookmarks-panel-subheader = نشانک‌های اخیر
 bookmarks-toolbar-chevron =
     .tooltiptext = نشانک‌های بیشتری نمایش داده شود
