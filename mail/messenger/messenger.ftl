@@ -66,3 +66,20 @@ appmenu-help-exit-troubleshoot-mode =
     .label = Izključi način za odpravljanje težav
 appmenu-help-more-troubleshooting-info =
     .label = Več podatkov za odpravljanje težav
+
+## Action Button Context Menu
+
+toolbar-context-menu-manage-extension =
+    .label = Upravljaj razširitev
+    .accesskey = U
+toolbar-context-menu-remove-extension =
+    .label = Odstrani razširitev
+    .accesskey = s
+
+## Add-on removal warning
+
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = Odstranim { $name }?
+addon-removal-confirmation-button = Odstrani
+addon-removal-confirmation-message = Odstranim { $name } skupaj z njegovimi nastavitvami in podatki iz { -brand-short-name(sklon: "rodilnik") }
