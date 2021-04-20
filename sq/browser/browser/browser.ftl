@@ -578,9 +578,6 @@ pointerlock-warning-no-domain = Kursori është nën kontrollin e kursorit tuaj.
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Një pjesë e kësaj faqeje u vithis.</strong> Për t’ia bërë të ditur { -brand-product-name }-it këtë çështje dhe për t’u zgjidhur më shpejt, ju lutemi, parashtroni një raport.
-crashed-subframe-learnmore =
-    .label = Mësoni Më Tepër
-    .accesskey = M
 crashed-subframe-learnmore-link =
     .value = Mësoni Më Tepër
 crashed-subframe-submit =
@@ -593,8 +590,6 @@ bookmarks-show-all-bookmarks =
     .label = Shfaqni Krejt Faqerojtësit
 bookmarks-manage-bookmarks =
     .label = Administroni Faqerojtës
-bookmarks-recent-bookmarks-panel =
-    .value = Faqerojtës Së Fundi
 bookmarks-recent-bookmarks-panel-subheader = Faqerojtës Së Fundi
 bookmarks-toolbar-chevron =
     .tooltiptext = Shfaqni më tepër faqerojtës
