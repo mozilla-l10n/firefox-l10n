@@ -552,9 +552,6 @@ pointerlock-warning-no-domain = Бұл құжат курсорыңызды ба�
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Бұл парақтың бір бөлігі құлады.</strong> Бұл мәселе туралы { -brand-product-name } хабардар ету және оны тезірек шешу үшін есептеме жіберіңіз.
-crashed-subframe-learnmore =
-    .label = Көбірек білу
-    .accesskey = л
 crashed-subframe-learnmore-link =
     .value = Көбірек білу
 crashed-subframe-submit =
@@ -567,8 +564,6 @@ bookmarks-show-all-bookmarks =
     .label = Барлық бетбелгілерді көрсету
 bookmarks-manage-bookmarks =
     .label = Бетбелгілерді басқару
-bookmarks-recent-bookmarks-panel =
-    .value = Жуырдағы бетбелгілер
 bookmarks-recent-bookmarks-panel-subheader = Жуырдағы бетбелгілер
 bookmarks-toolbar-chevron =
     .tooltiptext = Көбірек бетбелгілерді көрсету
