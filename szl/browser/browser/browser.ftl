@@ -292,6 +292,13 @@ bookmark-panel =
 
 ## Identity Panel
 
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-site-information = Informacyje ô serwerze { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-header-security-with-host =
+    .title = Bezpieczyństwo połōnczynio ze serwerym { $host }
 identity-connection-not-secure = Połōnczynie niy ma zabezpieczōne
 identity-connection-secure = Połōnczynie je zabezpieczōne
 identity-connection-internal = To je zabezpieczōno strōna aplikacyje { -brand-short-name }.
@@ -576,9 +583,6 @@ pointerlock-warning-no-domain = Tyn dokumynt kōntroluje twōj kursor. Coby cofn
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Kōnsek tyj strōny mo awaryjo.</strong>. Poślij raport, coby { -brand-product-name } sie ô tym przewiedzioł i pryndzyj to naprawiōł.
-crashed-subframe-learnmore =
-    .label = Przewiydz sie wiyncyj
-    .accesskey = P
 crashed-subframe-learnmore-link =
     .value = Przewiydz sie wiyncyj
 crashed-subframe-submit =
@@ -591,8 +595,6 @@ bookmarks-show-all-bookmarks =
     .label = Pokoż wszyskie zokłodki
 bookmarks-manage-bookmarks =
     .label = Regiyruj zokłodkami
-bookmarks-recent-bookmarks-panel =
-    .value = Niydowne zokłodki
 bookmarks-recent-bookmarks-panel-subheader = Niydowne zokłodki
 bookmarks-toolbar-chevron =
     .tooltiptext = Pokoż wiyncyj zokłodek
