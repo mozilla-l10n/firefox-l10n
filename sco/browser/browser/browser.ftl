@@ -319,6 +319,7 @@ identity-https-only-info-turn-off2 = If this page luiks mogert, ye micht want ta
 identity-https-only-info-no-upgrade = No able tae upgrade connection fae HTTP.
 identity-permissions-storage-access-header = Cross-site cookies
 identity-permissions-storage-access-hint = These pairties can yaise cross-site cookies and site data while ye're on this site.
+identity-permissions-storage-access-learn-more = Lairn mair
 identity-permissions-reload-hint = Ye'll mebbe need tae reload the page for chynges tae wirk.
 identity-permissions-empty = Ye hinnae gied this site ony by-ordinar permeesions.
 identity-clear-site-data =

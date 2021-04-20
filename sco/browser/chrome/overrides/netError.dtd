@@ -169,7 +169,7 @@ was trying to connect. -->
 <!ENTITY securityOverride.exceptionButton1Label "Accept the Risk and Gang On">
 
 <!ENTITY errorReporting.automatic2 "Lat Mozilla ken aboot siclike mishanters fur tae help it identify and block uncannie sites">
-<!ENTITY errorReporting.learnMore "Learn mair…">
+<!ENTITY errorReporting.learnMore "Lairn mair…">
 
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Please get in touch wi the wabsite owners fur tae let them ken aboot this problem.</li></ul></p>">
 
