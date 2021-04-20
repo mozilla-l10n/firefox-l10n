@@ -90,8 +90,8 @@ update-in-progress-ok-button = &Abandonner
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuer
-account-button = Paramètres des comptes
 addons-button = Extensions et thèmes
+account-button = Paramètres des comptes
 open-addons-sidebar-button = Modules complémentaires et thèmes
 
 ## OS Authentication dialog
@@ -326,6 +326,8 @@ quoted-text-color =
     .accesskey = o
 search-input =
     .placeholder = Rechercher
+search-handler-table =
+    .placeholder = Filtrer les types de contenu et les actions
 type-column-label =
     .label = Type de contenu
     .accesskey = T
