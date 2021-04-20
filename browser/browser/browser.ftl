@@ -292,6 +292,10 @@ bookmark-panel =
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 identity-site-information = Informațiile site-ului { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-header-security-with-host =
+    .title = Securitatea conexiunii pentru { $host }
 identity-connection-not-secure = Conexiune nesecurizată
 identity-connection-secure = Conexiune securizată
 identity-connection-internal = Aceasta este o pagină securizată { -brand-short-name }.
