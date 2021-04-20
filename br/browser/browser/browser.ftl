@@ -298,6 +298,10 @@ bookmark-panel =
 
 ## Identity Panel
 
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-header-security-with-host =
+    .title = Diogelroez ar c'hennask evit { $host }
 identity-connection-not-secure = N'eo ket diarvar ar c'hennask
 identity-connection-secure = Kennask suraet
 identity-connection-internal = Ur bajenn { -brand-short-name } diarvar eo.
