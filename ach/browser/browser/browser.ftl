@@ -252,6 +252,13 @@ bookmark-panel =
 
 ## Identity Panel
 
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-site-information = Ngec me Kakube pi { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-header-security-with-host =
+    .title = Ber bedo me Kube pi { $host }
 identity-connection-not-secure = Kube pe tye ki ber bedo
 identity-connection-secure = Kube tye ki ber bedo
 identity-connection-internal = Man potbuk me { -brand-short-name } matye ki ber bedo.
