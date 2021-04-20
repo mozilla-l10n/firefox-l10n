@@ -259,6 +259,8 @@ onboarding-multistage-theme-description-alpenglow =
 
 mr1-onboarding-set-default-secondary-button-label = Pas ara
 mr1-onboarding-import-secondary-button-label = Pas ara
+mr1-onboarding-theme-header = Adaptatz-lo a vòstre estil
+mr1-onboarding-theme-subtitle = Personalizatz { -brand-short-name } amb un tèma.
 mr1-onboarding-theme-primary-button-label = Salvar lo tèma
 mr1-onboarding-theme-secondary-button-label = Pas ara
 # System theme uses operating system color settings
@@ -302,4 +304,14 @@ mr1-onboarding-theme-tooltip-dark =
 mr1-onboarding-theme-description-dark =
     .aria-description =
         Utilizar un fosc clar pels
+        botons, menús e las fenèstras.
+# Tooltip displayed on hover of Alpenglow theme
+mr1-onboarding-theme-tooltip-alpenglow =
+    .title =
+        Utilizar un tèma colorat e dinamic pels
+        botons, menús e las fenèstras.
+# Input description for Alpenglow theme
+mr1-onboarding-theme-description-alpenglow =
+    .aria-description =
+        Utilizar un tèma colorat e dinamic pels
         botons, menús e las fenèstras.
