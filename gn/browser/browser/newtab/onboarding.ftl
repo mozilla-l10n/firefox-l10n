@@ -276,6 +276,19 @@ mr1-onboarding-import-subtitle = Emba’egueru ne ñe’ẽñemi, <br/>techaukah
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = Emba’egueru { $previous } guive
+# This string will be used in cases where we can't detect the previous browser name.
+mr1-onboarding-import-primary-button-label-no-attribution = Emba’egueru kundahára itujavéva guive
+mr1-onboarding-import-secondary-button-label = Ani ko’ág̃a
+mr1-onboarding-theme-header = Eñemomba’e hese
+mr1-onboarding-theme-subtitle = Eñemomba’e { -brand-short-name } peteĩ téma ndive
+mr1-onboarding-theme-primary-button-label = Eñongatu téma
+mr1-onboarding-theme-secondary-button-label = Ani ko’ág̃a
+# System theme uses operating system color settings
+mr1-onboarding-theme-label-system = Téma apopyvusu
+mr1-onboarding-theme-label-light = Tesakã
+mr1-onboarding-theme-label-dark = Ypytũ
+# "Alpenglow" here is the name of the theme, and should be kept in English.
+mr1-onboarding-theme-label-alpenglow = Alpenglow
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
