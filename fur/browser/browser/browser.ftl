@@ -581,9 +581,6 @@ pointerlock-warning-no-domain = Chest document al à il control dal to pontadôr
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Part di cheste pagjine e je colassade.</strong> Par permeti a { -brand-product-name } di cognossi il motîf di chest probleme e vê risolt prime il probleme, par plasê invie une segnalazion.
-crashed-subframe-learnmore =
-    .label = Plui informazions
-    .accesskey = l
 crashed-subframe-learnmore-link =
     .value = Plui informazions
 crashed-subframe-submit =
@@ -596,8 +593,6 @@ bookmarks-show-all-bookmarks =
     .label = Mostre ducj i segnelibris
 bookmarks-manage-bookmarks =
     .label = Gjestìs segnelibris
-bookmarks-recent-bookmarks-panel =
-    .value = Segnelibris resints
 bookmarks-recent-bookmarks-panel-subheader = Segnelibris resints
 bookmarks-toolbar-chevron =
     .tooltiptext = Mostre plui segnelibris
