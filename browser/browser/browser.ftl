@@ -299,6 +299,13 @@ bookmark-panel =
 
 ## Identity Panel
 
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-site-information = Sedłowe informacije za { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-header-security-with-host =
+    .title = Zwiskowa wěstota za { $host }
 identity-connection-not-secure = Zwisk njejo wěsty
 identity-connection-secure = Zwisk jo wěsty
 identity-connection-internal = To jo wěsty bok { -brand-short-name }.
