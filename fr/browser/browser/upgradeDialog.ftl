@@ -14,7 +14,28 @@ upgrade-dialog-new-subtitle = Conçu pour vous amener où vous voulez, encore pl
 upgrade-dialog-new-item-menu-title = Barres d’outils et menus simplifiés
 upgrade-dialog-new-item-menu-description = Donnez la priorité aux choses importantes pour trouver ce dont vous avez besoin.
 upgrade-dialog-new-item-tabs-title = Onglets modernes
+upgrade-dialog-new-primary-primary-button = Faire de { -brand-short-name } mon navigateur principal
+    .title = Définit { -brand-short-name } comme navigateur par défaut et l’épingle à la barre des tâches
+upgrade-dialog-new-primary-default-button = Faire de { -brand-short-name } mon navigateur par défaut
+upgrade-dialog-new-primary-pin-button = Épingler { -brand-short-name } à la barre des tâches
+upgrade-dialog-new-primary-theme-button = Choisir un thème
 upgrade-dialog-new-secondary-button = Plus tard
 
 ## Theme selection screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-theme-title =
+    Prenez un nouveau départ
+    avec un thème mis à jour
+upgrade-dialog-theme-system = Thème du système
+    .title = Suivre le thème du système pour les boutons, menus et fenêtres
+upgrade-dialog-theme-light = Clair
+    .title = Utiliser un thème clair pour les boutons, menus et fenêtres
+upgrade-dialog-theme-dark = Sombre
+    .title = Utiliser un thème sombre pour les boutons, menus et fenêtres
+upgrade-dialog-theme-alpenglow = Alpenglow
+    .title = Utiliser un thème dynamique et coloré pour les boutons, menus et fenêtres
+upgrade-dialog-theme-keep = Conserver le thème actuel
+    .title = Utiliser le thème que vous aviez installé avant la mise à jour de { -brand-short-name }
+upgrade-dialog-theme-primary-button = Enregistrer le thème
+upgrade-dialog-theme-secondary-button = Plus tard
