@@ -4,12 +4,12 @@
 
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Snap para la cuadrícula">
+<!ENTITY windowTitle.label "Ajustar a la cuadrícula">
 
-<!ENTITY enableSnapToGrid.label "habilitar Snap para la cuadrícula">
-<!ENTITY enableSnapToGrid.accessKey "e">
+<!ENTITY enableSnapToGrid.label "habilitar Ajustar a la cuadrícula">
+<!ENTITY enableSnapToGrid.accessKey "h">
 
-<!ENTITY sizeEditField.label "Size:">
-<!ENTITY sizeEditField.accessKey "S">
+<!ENTITY sizeEditField.label "Tamaño:">
+<!ENTITY sizeEditField.accessKey "T">
 
 <!ENTITY pixelsLabel.value "pixels">

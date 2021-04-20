@@ -9,7 +9,7 @@
 <!ENTITY dimensionsBox.label "Dimensiones">
 <!ENTITY heightEditField.label "Altura:">
 <!ENTITY heightEditField.accessKey "l">
-<!ENTITY widthEditField.label "Anchura:">
+<!ENTITY widthEditField.label "Ancho:">
 <!ENTITY widthEditField.accessKey "A">
 <!ENTITY pixelsPopup.value "píxeles">
 <!ENTITY alignmentBox.label "Alineación">
