@@ -305,6 +305,13 @@ bookmark-panel =
 
 ## Identity Panel
 
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-site-information = Manylion gwefan { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-header-security-with-host =
+    .title = Diogelwch Cysylltiad { $host }
 identity-connection-not-secure = Cysylltiad yn anniogel
 identity-connection-secure = Cysylltiad yn ddiogel
 identity-connection-internal = Mae hon yn dudalen { -brand-short-name } diogel.
