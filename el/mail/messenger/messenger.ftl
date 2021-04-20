@@ -64,3 +64,20 @@ appmenu-help-exit-troubleshoot-mode =
     .label = Απενεργοποίηση λειτουργίας επίλυσης προβλημάτων
 appmenu-help-more-troubleshooting-info =
     .label = Πληροφορίες επίλυσης προβλημάτων
+
+## Action Button Context Menu
+
+toolbar-context-menu-manage-extension =
+    .label = Διαχείριση επέκτασης
+    .accesskey = ε
+toolbar-context-menu-remove-extension =
+    .label = Αφαίρεση επέκτασης
+    .accesskey = φ
+
+## Add-on removal warning
+
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = Αφαίρεση του { $name };
+addon-removal-confirmation-button = Αφαίρεση
+addon-removal-confirmation-message = Αφαίρεση του { $name }, των ρυθμίσεων και των δεδομένων του από το { -brand-short-name };
