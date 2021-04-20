@@ -300,6 +300,9 @@ bookmark-panel =
 
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
+identity-site-information = Titouroù al lec'hienn evit { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
 identity-header-security-with-host =
     .title = Diogelroez ar c'hennask evit { $host }
 identity-connection-not-secure = N'eo ket diarvar ar c'hennask
