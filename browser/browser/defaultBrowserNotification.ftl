@@ -13,6 +13,7 @@ default-browser-notification-button =
 ## secondary button are shared between the variants.
 
 default-browser-prompt-title-pin = Egin { -brand-short-name } zure nabigatzaile nagusia?
+default-browser-prompt-message-pin = Mantendu { -brand-short-name } esku-eskura — egizu zure nabigatzaile lehenetsia eta aingura ezazu ataza-barran.
 default-browser-prompt-button-primary-pin = Egin nabigatzaile nagusia
 default-browser-prompt-title-alt = Egin { -brand-short-name } zure nabigatzaile lehenetsia?
 default-browser-prompt-message-alt = Eskuratu abiadura, segurtasuna eta pribatutasuna nabigatzen duzun aldiro.
