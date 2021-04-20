@@ -12,7 +12,9 @@
 upgrade-dialog-new-title = תגידו שלום ל־{ -brand-short-name } החדש
 upgrade-dialog-new-subtitle = עוצב כדי לקחת אתכם לאן שתרצו, מהר יותר
 upgrade-dialog-new-item-menu-title = סרגל כלים ותפריטים יעילים יותר
-upgrade-dialog-new-item-tabs-title = לשוניות חדשניות
+upgrade-dialog-new-item-menu-description = תעדפו את הדברים החשובים כדי למצוא את מה שצריך.
+upgrade-dialog-new-item-tabs-title = לשוניות מודרניות
+upgrade-dialog-new-item-tabs-description = מכילות מידע בצורה נקייה, כדי לעזור להתרכז ולזוז בגמישות.
 upgrade-dialog-new-item-icons-title = סמלים חדשים והודעות ברורות יותר
 upgrade-dialog-new-primary-primary-button = הגדרת { -brand-short-name } כדפדפן הראשי שלי
     .title = מגדיר את { -brand-short-name } כדפדפן ברירת המחדל ומצמיד אותו לשורת המשימות
