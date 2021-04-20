@@ -5,12 +5,12 @@
 places-open =
     .label = Agor
     .accesskey = A
-places-open-tab =
-    .label = Agor mewn Tab Newydd
-    .accesskey = w
 places-open-in-tab =
     .label = Agor mewn Tab Newydd
     .accesskey = A
+places-open-tab =
+    .label = Agor mewn Tab Newydd
+    .accesskey = w
 places-open-all-bookmarks =
     .label = Agor Pob Nod Tudalen
     .accesskey = A
@@ -20,9 +20,15 @@ places-open-all-in-tabs =
 places-open-window =
     .label = Agor mewn Ffenestr Newydd
     .accesskey = N
+places-open-in-window =
+    .label = Agor mewn Ffenestr Newydd
+    .accesskey = N
 places-open-private-window =
     .label = Agor mewn Ffenestr Breifat Newydd
     .accesskey = F
+places-open-in-private-window =
+    .label = Agor mewn Ffenestr Breifat Newydd
+    .accesskey = B
 places-new-bookmark =
     .label = Nod Tudalen Newydd…
     .accesskey = N
@@ -35,12 +41,6 @@ places-new-folder =
 places-new-separator =
     .label = Ymwahanydd Newydd
     .accesskey = Y
-places-open-in-window =
-    .label = Agor mewn Ffenestr Newydd
-    .accesskey = N
-places-open-in-private-window =
-    .label = Agor mewn Ffenestr Breifat Newydd
-    .accesskey = B
 places-add-bookmark =
     .label = Ychwanegu Nod Tudalen…
     .accesskey = N
@@ -91,6 +91,21 @@ places-edit-bookmark =
 places-edit-generic =
     .label = Golygu…
     .accesskey = o
+places-edit-folder =
+    .label = Ailenwi Ffolder…
+    .accesskey = A
+places-remove-folder =
+    .label =
+        { $count ->
+            [1] Tynnu Ffolder
+            [zero] Tynnu Ffolderi
+            [one] Tynnu Ffolder
+            [two] Tynnu Ffolderi
+            [few] Tynnu Ffolderi
+            [many] Tynnu Ffolderi
+           *[other] Tynnu Ffolderi
+        }
+    .accesskey = F
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Nodau Tudalen wedi'u rheoli
