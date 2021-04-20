@@ -17,3 +17,6 @@ default-browser-prompt-message-pin = Ten { -brand-short-name } a puartade di man
 default-browser-prompt-button-primary-pin = Rindilu navigadôr principâl
 default-browser-prompt-title-alt = Rindi { -brand-short-name } il to navigadôr predefinît?
 default-browser-prompt-message-alt = Garantìssiti velocitât, sigurece e riservatece ogni volte che tu navighis.
+default-browser-prompt-button-primary-alt = Met come navigadôr predefinît
+default-browser-prompt-checkbox-not-again-label = No sta mostrâ plui chest messaç
+default-browser-prompt-button-secondary = No cumò
