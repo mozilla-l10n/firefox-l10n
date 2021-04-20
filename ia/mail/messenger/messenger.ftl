@@ -64,3 +64,20 @@ appmenu-help-exit-troubleshoot-mode =
     .label = Disactivar le modo diagnostic
 appmenu-help-more-troubleshooting-info =
     .label = Altere informationes diagnostic
+
+## Action Button Context Menu
+
+toolbar-context-menu-manage-extension =
+    .label = Gerer extension
+    .accesskey = e
+toolbar-context-menu-remove-extension =
+    .label = Remover le extension
+    .accesskey = v
+
+## Add-on removal warning
+
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = Remover { $name }?
+addon-removal-confirmation-button = Remover
+addon-removal-confirmation-message = Remove { $name } e su configuration e datos ex { -brand-short-name }?
