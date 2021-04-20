@@ -571,9 +571,6 @@ pointerlock-warning-no-domain = ეს დოკუმენტი მართ�
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>გვერდის ნაწილი უეცრად გაითიშა.</strong> თუ გსურთ { -brand-product-name } გაეცნოს ამ ხარვეზს მალე გამოსასწორებლად, გთხოვთ გაგზავნოთ მოხსენება.
-crashed-subframe-learnmore =
-    .label = ვრცლად
-    .accesskey = ლ
 crashed-subframe-learnmore-link =
     .value = ვრცლად
 crashed-subframe-submit =
@@ -586,8 +583,6 @@ bookmarks-show-all-bookmarks =
     .label = ყველა სანიშნის ჩვენება
 bookmarks-manage-bookmarks =
     .label = სანიშნების მართვა
-bookmarks-recent-bookmarks-panel =
-    .value = ბოლოს ჩანიშნული
 bookmarks-recent-bookmarks-panel-subheader = ბოლოს ჩანიშნული
 bookmarks-toolbar-chevron =
     .tooltiptext = სხვა სანიშნების გამოჩენაც
