@@ -172,6 +172,14 @@ onboarding-multistage-set-default-header = Egizu { -brand-short-name } zure nabi
 onboarding-multistage-set-default-subtitle = Abiadura, segurtasuna eta pribatutasuna nabigatzen duzun aldiro.
 onboarding-multistage-set-default-primary-button-label = Lehenetsi
 onboarding-multistage-set-default-secondary-button-label = Une honetan ez
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-pin-default-header = Hasi <span data-l10n-name="zap">{ -brand-short-name }</span> klik bakarrera utziz
+onboarding-multistage-pin-default-subtitle = Nabigatze azkar, seguru eta pribatua weba erabiltzen duzun aldiro.
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-waiting-subtitle = Ezarpenak irekitzen direnean, aukeratu { -brand-short-name } web nabigatzailearen atalean
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-help-text = Honek { -brand-short-name } ataza-barran ainguratu eta ezarpenak irekiko ditu
 onboarding-multistage-pin-default-primary-button-label = Egin { -brand-short-name } nire nabigatzaile nagusia
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
