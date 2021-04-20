@@ -17,5 +17,5 @@ default-browser-prompt-button-primary-pin = Ejapo kundahára eipuruvévarõ
 default-browser-prompt-title-alt = Ejapo { -brand-short-name }-gui ne kundaha ypyguávarõ
 default-browser-prompt-message-alt = Erekosépa ipya’e, hekorosã ha hekoñemíva eikundaha vove.
 default-browser-prompt-button-primary-alt = Ejapo kundahára ijypyguávarõ
-default-browser-prompt-checkbox-label = Ani eporandujey chéve
+default-browser-prompt-checkbox-not-again-label = Anive ehechauka ko ñe’ẽmondo
 default-browser-prompt-button-secondary = Ani ko’ág̃a
