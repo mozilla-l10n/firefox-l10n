@@ -293,6 +293,13 @@ bookmark-panel =
 
 ## Identity Panel
 
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-site-information = Të dhëna Sajti për { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-header-security-with-host =
+    .title = Siguri Lidhjeje për { $host }
 identity-connection-not-secure = Lidhje jo e sigurt
 identity-connection-secure = Lidhje e sigurt
 identity-connection-internal = Kjo është një faqe { -brand-short-name } e sigurt.
