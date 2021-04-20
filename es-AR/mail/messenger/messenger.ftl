@@ -64,3 +64,20 @@ appmenu-help-exit-troubleshoot-mode =
     .label = Deshabilitar resolución de problemas
 appmenu-help-more-troubleshooting-info =
     .label = Más información sobre resolución de problemas
+
+## Action Button Context Menu
+
+toolbar-context-menu-manage-extension =
+    .label = Administrar la extensión
+    .accesskey = E
+toolbar-context-menu-remove-extension =
+    .label = Eliminar la extensión
+    .accesskey = v
+
+## Add-on removal warning
+
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = ¿Eliminar { $name }?
+addon-removal-confirmation-button = Eliminar
+addon-removal-confirmation-message = ¿Eliminar { $name }, así como su configuración y datos de { -brand-short-name }?
