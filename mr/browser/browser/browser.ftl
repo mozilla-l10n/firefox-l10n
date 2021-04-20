@@ -235,6 +235,13 @@ bookmark-panel =
 
 ## Identity Panel
 
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-site-information = { $host } साठी साइट माहिती
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-header-security-with-host =
+    .title = { $host } साठी जोडणी सुरक्षा
 identity-connection-not-secure = असुरक्षित जोडणी
 identity-connection-secure = जोडणी सुरक्षित
 identity-connection-internal = हे सुरक्षित { -brand-short-name } पृष्ठ आहे.
