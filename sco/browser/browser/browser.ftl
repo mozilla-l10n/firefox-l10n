@@ -578,7 +578,7 @@ pointerlock-warning-no-domain = This document has control o yer pynter. Press Es
 
 ## Subframe crash notification
 
-crashed-subframe-message = <strong>Pairt o this page crashed.</strong> Tae let { -brand-product-name } ken aboot this issue and get it sortit faster, gonnae inpit a report.
+crashed-subframe-message = <strong>Pairt o this page crashed.</strong> Tae lat { -brand-product-name } ken aboot this issue and get it sortit faster, gonnae inpit a report.
 crashed-subframe-learnmore-link =
     .value = Lairn mair
 crashed-subframe-submit =
@@ -687,7 +687,7 @@ more-menu-go-offline =
 
 ## EME notification panel
 
-eme-notifications-drm-content-playing = Some audio or video on this site yaises DRM saftware, and that micht leemit whit { -brand-short-name } can let ye dae wi it.
+eme-notifications-drm-content-playing = Some audio or video on this site yaises DRM saftware, and that micht leemit whit { -brand-short-name } can lat ye dae wi it.
 eme-notifications-drm-content-playing-manage = Manage settins
 eme-notifications-drm-content-playing-manage-accesskey = M
 eme-notifications-drm-content-playing-dismiss = Dismiss

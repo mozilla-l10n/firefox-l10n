@@ -5,8 +5,6 @@
 
 ## App Menu
 
-appmenuitem-update-banner =
-    .label-update-downloading = Doonloadin { -brand-shorter-name } update
 appmenuitem-update-banner2 =
     .label-update-downloading = Doonloadin { -brand-shorter-name } update
     .label-update-available = Update redd — doonload noo
@@ -25,8 +23,6 @@ appmenuitem-new-private-window =
     .label = New Preevat Windae
 appmenuitem-passwords =
     .label = Passwirds
-appmenuitem-extensions-and-themes =
-    .label = Extensions and Themes
 appmenuitem-addons-and-themes =
     .label = Eik-ons and Themes
 appmenuitem-find-in-page =
@@ -101,7 +97,7 @@ whatsnew-panel-header = Whit's New
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
-    .label = Let me ken aboot new featurs
+    .label = Lat me ken aboot new featurs
     .accesskey = f
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
@@ -160,11 +156,6 @@ appmenu-about =
 appmenu-get-help =
     .label = Get Hauners
     .accesskey = H
-appmenu-help-troubleshooting-info =
-    .label = Fankle-fixin Information
-    .accesskey = T
-appmenu-help-taskmanager =
-    .label = Task Manager
 appmenu-help-more-troubleshooting-info =
     .label = Mair Fankle-fixin Information
     .accesskey = T
@@ -173,16 +164,6 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = Gie Feedback…
     .accesskey = S
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Restert Wi Eik-ons Disabled…
-    .accesskey = R
-appmenu-help-safe-mode-with-addons =
-    .label = Restert Wi Eik-ons Enabled
-    .accesskey = R
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
