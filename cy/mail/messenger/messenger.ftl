@@ -68,3 +68,20 @@ appmenu-help-exit-troubleshoot-mode =
     .label = Diffodd y Modd Datrys Problemau
 appmenu-help-more-troubleshooting-info =
     .label = Rhagor o Wybodaeth i Ddatrys Problemau
+
+## Action Button Context Menu
+
+toolbar-context-menu-manage-extension =
+    .label = Rheoli Estyniad
+    .accesskey = E
+toolbar-context-menu-remove-extension =
+    .label = Tynnu Estyniad
+    .accesskey = T
+
+## Add-on removal warning
+
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = Tynnu { $name }?
+addon-removal-confirmation-button = Tynnu
+addon-removal-confirmation-message = Tynnu { $name } yn ogystal â'i ffurfweddiad a'i ddata o { -brand-short-name }?
