@@ -289,6 +289,13 @@ bookmark-panel =
 
 ## Identity Panel
 
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-site-information = Информация за { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-header-security-with-host =
+    .title = Сигурност на връзката към { $host }
 identity-connection-not-secure = Връзката не е защитена
 identity-connection-secure = Връзката е защитена
 identity-connection-internal = Това е защитена страница на { -brand-short-name }.
