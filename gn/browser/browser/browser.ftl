@@ -293,6 +293,13 @@ bookmark-panel =
 
 ## Identity Panel
 
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-site-information = Marandu tenda rehegua { $host } peg̃uarã
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-header-security-with-host =
+    .title = Jeikeha hekorosãva { $host } peg̃uarã
 identity-connection-not-secure = Jeikekatu’ỹ
 identity-connection-secure = Jeikekatu
 identity-connection-internal = Kóva { -brand-short-name } jeroviáva; kuatiarogue.
