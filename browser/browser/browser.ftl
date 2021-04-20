@@ -566,9 +566,6 @@ pointerlock-warning-no-domain = Dokumen ini memiliki kendali atas pointer Anda. 
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Sebagian dari laman ini mogok. </strong>Untuk memberi tahu { -brand-product-name } tentang masalah ini dan memperbaikinya lebih cepat, harap kirimkan laporan.
-crashed-subframe-learnmore =
-    .label = Pelajari Lebih Lanjut
-    .accesskey = P
 crashed-subframe-learnmore-link =
     .value = Pelajari Lebih Lanjut
 crashed-subframe-submit =
@@ -581,8 +578,6 @@ bookmarks-show-all-bookmarks =
     .label = Tampilkan Semua Markah…
 bookmarks-manage-bookmarks =
     .label = Kelola Markah
-bookmarks-recent-bookmarks-panel =
-    .value = Markah Terbaru
 bookmarks-recent-bookmarks-panel-subheader = Markah Terbaru
 bookmarks-toolbar-chevron =
     .tooltiptext = Tampilkan markah lainnya
