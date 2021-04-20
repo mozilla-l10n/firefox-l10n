@@ -229,6 +229,13 @@ bookmark-panel =
 
 ## Identity Panel
 
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-site-information = Informacije o { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-header-security-with-host =
+    .title = Sigurnost veze za { $host }
 identity-connection-not-secure = Veza nije sigurna
 identity-connection-secure = Sigurna veza
 identity-connection-internal = Ovo je sigurna { -brand-short-name } stranica.
@@ -412,6 +419,9 @@ library-bookmarks-menu =
     .label = Zabilješke
 
 ## Pocket toolbar button
+
+
+## Customize Toolbar Buttons
 
 
 ## More items
