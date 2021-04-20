@@ -65,3 +65,20 @@ appmenu-help-exit-troubleshoot-mode =
     .label = Вимкнути режим усунення проблем
 appmenu-help-more-troubleshooting-info =
     .label = Додаткові відомості про усунення проблем
+
+## Action Button Context Menu
+
+toolbar-context-menu-manage-extension =
+    .label = Керувати розширенням
+    .accesskey = К
+toolbar-context-menu-remove-extension =
+    .label = Вилучити розширення
+    .accesskey = В
+
+## Add-on removal warning
+
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = Вилучити { $name }?
+addon-removal-confirmation-button = Вилучити
+addon-removal-confirmation-message = Вилучити { $name }, а також його конфігурацію та дані з { -brand-short-name }?
