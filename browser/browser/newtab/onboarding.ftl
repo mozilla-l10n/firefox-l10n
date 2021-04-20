@@ -257,7 +257,29 @@ onboarding-multistage-theme-description-alpenglow =
 
 ## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 
+# "Hero Text" displayed on left side of welcome screen.
+# The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
+# It also signals the passion users bring to Firefox, how they use
+# Firefox to pursue those passions, as well as the boldness in their
+# choice to use Firefox over a larger competitor browser.
+# An alternative title for localization is: "It starts here".
+mr1-welcome-screen-hero-text = Lo camin comença aquí
+# This button will open system settings to turn on prefers-reduced-motion
+mr1-onboarding-reduce-motion-button-label = Desactivar las animacions
+mr1-onboarding-welcome-header = La benvenguda a { -brand-short-name }
+mr1-onboarding-set-default-pin-primary-button-label = Definir { -brand-short-name } coma navegador principal
+    .title = Definís { -brand-short-name } coma navegador per defaut e lo penja a la barra de prètzfaches
+mr1-onboarding-set-default-only-primary-button-label = Definir { -brand-short-name } coma navegador per defaut
 mr1-onboarding-set-default-secondary-button-label = Pas ara
+mr1-onboarding-sign-in-button-label = Connexion
+mr1-onboarding-import-header = O emportatz tot amb vos
+mr1-onboarding-import-subtitle = Importatz vòstres senhals, <br/>marcapaginas e encara mai.
+# The primary import button label will depend on whether we can detect which browser was used to download Firefox.
+# Variables:
+#   $previous (Str) - Previous browser name, such as Edge, Chrome
+mr1-onboarding-import-primary-button-label-attribution = Importar de { $previous }
+# This string will be used in cases where we can't detect the previous browser name.
+mr1-onboarding-import-primary-button-label-no-attribution = Importar d’un autre navegador
 mr1-onboarding-import-secondary-button-label = Pas ara
 mr1-onboarding-theme-header = Adaptatz-lo a vòstre estil
 mr1-onboarding-theme-subtitle = Personalizatz { -brand-short-name } amb un tèma.
