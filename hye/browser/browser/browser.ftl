@@ -289,6 +289,13 @@ bookmark-panel =
 
 ## Identity Panel
 
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-site-information = Տեղեկութիւն կայքի մասին { $host }-ի համար
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-header-security-with-host =
+    .title = Միացման անվտանգութիւն { $host }-ի համար
 identity-connection-not-secure = Կապակցումը ապահով չէ
 identity-connection-secure = Կապակցումը ապահով է
 identity-connection-internal = Սա անվտանգ { -brand-short-name } էջ է
@@ -535,9 +542,6 @@ pointerlock-warning-no-domain = Այս փաստաթուղթը ղեկավարու
 ## Subframe crash notification
 
 crashed-subframe-message = <strong> Այս էջի որոշ հատուած խափանուեց։ </strong> Խնդրի մասին { -brand-product-name }֊ին տեղեկացնելու եւ արագ լուծելու համար ուղարկէք զեկուցում։
-crashed-subframe-learnmore =
-    .label = Իմանալ աւելին
-    .accesskey = Ի
 crashed-subframe-submit =
     .label = Ուղարկէք զեկուցում
     .accesskey = Ո
@@ -548,8 +552,6 @@ bookmarks-show-all-bookmarks =
     .label = Ցուցադրել բոլոր էջանիշները
 bookmarks-manage-bookmarks =
     .label = Կառավարէք էջանիշներ
-bookmarks-recent-bookmarks-panel =
-    .value = Վերջին էջանիշները
 bookmarks-recent-bookmarks-panel-subheader = Վերջին էջանիշները
 bookmarks-toolbar-chevron =
     .tooltiptext = Ցուցադրել այլ էջանիշներ
