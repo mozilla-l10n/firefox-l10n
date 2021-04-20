@@ -503,9 +503,6 @@ pointerlock-warning-no-domain = Ang dokumentong ito ay may kontrol sa iyong poin
 
 ## Subframe crash notification
 
-crashed-subframe-learnmore =
-    .label = Alamin
-    .accesskey = l
 
 ## Bookmarks panels, menus and toolbar
 
