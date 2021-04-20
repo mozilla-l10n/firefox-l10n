@@ -200,7 +200,6 @@ onboarding-welcome-steps-indicator =
 # automatically added to the text inside it. "look" should stay inside the span.
 onboarding-multistage-theme-header = Dewiswch <span data-l10n-name = "zap">olwg</span>
 onboarding-multistage-theme-subtitle = Personoli { -brand-short-name } gyda thema.
-onboarding-multistage-theme-primary-button-label = Cadw Thema
 onboarding-multistage-theme-primary-button-label2 = Gorffen
 onboarding-multistage-theme-secondary-button-label = Nid nawr
 # Automatic theme uses operating system color settings
@@ -255,3 +254,28 @@ onboarding-multistage-theme-description-alpenglow =
     .aria-description =
         Defnyddio gwedd liwgar ar gyfer botymau,
         dewislenni, a ffenestri.
+
+## Multistage MR1 onboarding strings (MR1 about:welcome pages)
+
+# "Hero Text" displayed on left side of welcome screen.
+# The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
+# It also signals the passion users bring to Firefox, how they use
+# Firefox to pursue those passions, as well as the boldness in their
+# choice to use Firefox over a larger competitor browser.
+# An alternative title for localization is: "It starts here".
+mr1-welcome-screen-hero-text = Mae'n cychwyn yma
+# This button will open system settings to turn on prefers-reduced-motion
+mr1-onboarding-reduce-motion-button-label = Diffodd animeiddiadau
+mr1-onboarding-welcome-header = Croeso i { -brand-short-name }
+mr1-onboarding-set-default-pin-primary-button-label = Gwneud { -brand-short-name } fy mrhif borwr
+    .title = Yn gosod { -brand-short-name } fel y porwr rhagosodedig a'i binio i'r bar tasgau
+mr1-onboarding-set-default-only-primary-button-label = Gwneud { -brand-short-name } fy mhorwr rhagosodedig
+mr1-onboarding-set-default-secondary-button-label = Nid nawr
+mr1-onboarding-sign-in-button-label = Mewngofnodi
+mr1-onboarding-import-header = Dewch â'r cyfan gyda chi
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+

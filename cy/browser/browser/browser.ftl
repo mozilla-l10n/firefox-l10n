@@ -338,6 +338,7 @@ identity-https-only-info-turn-off2 = Os yw'r wefan yn ymddangos wedi torri, efal
 identity-https-only-info-no-upgrade = Methu uwchraddio'r cysylltiad o HTTP.
 identity-permissions-storage-access-header = Cwcis traws-gwefan
 identity-permissions-storage-access-hint = Gall y partïon hyn ddefnyddio cwcis traws-gwefan a data gwefan tra'ch bod chi ar y wefan hon.
+identity-permissions-storage-access-learn-more = Dysgu rhagor
 identity-permissions-reload-hint = Efallai y bydd angen ail lwytho'r dudalen i newidiadau ddod ar waith.
 identity-permissions-empty = Nid ydych wedi rhoi i'r wefan hon unrhyw ganiatâd arbennig.
 identity-clear-site-data =

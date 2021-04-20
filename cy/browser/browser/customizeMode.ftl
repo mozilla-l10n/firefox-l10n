@@ -49,3 +49,5 @@ customize-mode-lwthemes-my-themes =
     .value = Fy Thema
 customize-mode-touchbar-cmd =
     .label = Cyfaddasu'r Bar Cyffwrdd…
+customize-mode-downloads-button-autohide =
+    .label = Cuddio botwm pan yn wag
