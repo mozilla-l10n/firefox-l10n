@@ -293,6 +293,13 @@ bookmark-panel =
 
 ## Identity Panel
 
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-site-information = Oldalinformációk erről: { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-header-security-with-host =
+    .title = A(z) { $host } kapcsolatának biztonsága
 identity-connection-not-secure = A kapcsolat nem biztonságos
 identity-connection-secure = A kapcsolat biztonságos
 identity-connection-internal = Ez egy biztonságos { -brand-short-name } oldal.
