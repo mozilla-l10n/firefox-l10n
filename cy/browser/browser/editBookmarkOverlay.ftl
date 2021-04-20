@@ -49,4 +49,4 @@ bookmark-overlay-keyword-2 =
     .value = Allweddair
     .accesskey = A
 bookmark-overlay-tags-caption-label = Defnyddiwch dagiau i drefnu a chwilio am nodau tudalen o'r bar cyfeiriadau
-bookmark-overlay-keyword-caption-label-2 = Defnyddiwch un allweddair i agor nodau tudalen yn uniongyrchol o'r bar cyfeiriad
+bookmark-overlay-keyword-caption-label-2 = Defnyddio'r un allweddair i agor nodau tudalen yn uniongyrchol o'r bar cyfeiriad

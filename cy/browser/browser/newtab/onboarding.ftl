@@ -330,7 +330,7 @@ mr1-onboarding-theme-description-dark =
 # Tooltip displayed on hover of Alpenglow theme
 mr1-onboarding-theme-tooltip-alpenglow =
     .title =
-        Defnyddio thema liwgar ar gyfer botymau,
+        Defnyddio thema ddeinamig, lliwgar ar gyfer botymau,
         dewislenni a ffenestri.
 # Input description for Alpenglow theme
 mr1-onboarding-theme-description-alpenglow =
