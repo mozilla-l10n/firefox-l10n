@@ -80,7 +80,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 
 ## Protections panel
 
-cfr-protections-panel-header = Stravaige withoot bein follaed
+cfr-protections-panel-header = Stravaig withoot bein follaed
 cfr-protections-panel-body = Keep yer data tae yersel. { -brand-short-name } bields ye fae a guid wheen o the maist common trackers that follae whit ye're daein online.
 cfr-protections-panel-link-text = Lairn mair
 
