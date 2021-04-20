@@ -280,6 +280,13 @@ bookmark-panel =
 
 ## Identity Panel
 
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-site-information = { $host } కొరకు సైటు సమాచారం
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-header-security-with-host =
+    .title = { $host }కి అనుసంధాన భద్రత
 identity-connection-not-secure = అనుసంధానం సురక్షితం కాదు
 identity-connection-secure = సురక్షిత అనుసంధానం
 identity-connection-internal = ఇది సురక్షిత { -brand-short-name } పేజీ.
