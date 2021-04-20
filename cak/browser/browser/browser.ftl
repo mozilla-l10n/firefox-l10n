@@ -574,9 +574,6 @@ pointerlock-warning-no-domain = Re ruxaq wuj re' chajin ruma ri retal ch'oy. Tap
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Xsach jun peraj ruxaq.</strong> Chi ri { -brand-product-name } nretamaj chi rij re k'ayewal chuqa' anin nich'ojmïr, tataqa' jun rutzijol.
-crashed-subframe-learnmore =
-    .label = Tetamäx Ch'aqa' Chik
-    .accesskey = T
 crashed-subframe-learnmore-link =
     .value = Tisik'ïx Ch'aqa' Chik
 crashed-subframe-submit =
@@ -589,8 +586,6 @@ bookmarks-show-all-bookmarks =
     .label = Kek'ut konojel ri taq yaketal
 bookmarks-manage-bookmarks =
     .label = Kenuk'samajïx Taq Yaketal
-bookmarks-recent-bookmarks-panel =
-    .value = K'ak'a' Taq Yaketal
 bookmarks-recent-bookmarks-panel-subheader = K'ak'a' Taq Yaketal
 bookmarks-toolbar-chevron =
     .tooltiptext = Kek'ut pe ch'aqa' chik taq yaketal
