@@ -525,9 +525,6 @@ pointerlock-warning-no-domain = Meret eo ho logodenn gant an teul-mañ. Pouezit 
 
 ## Subframe crash notification
 
-crashed-subframe-learnmore =
-    .label = Gouzout hiroc’h
-    .accesskey = G
 crashed-subframe-submit =
     .label = Kas danevell
     .accesskey = K
