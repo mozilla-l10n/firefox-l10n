@@ -12,4 +12,6 @@ default-browser-notification-button =
 ## depending on the operating system (Windows vs other). The checkbox label and
 ## secondary button are shared between the variants.
 
+default-browser-prompt-button-primary-alt = Definir coma navegador per defaut
+default-browser-prompt-checkbox-not-again-label = Mostrar pas mai aquò messatge
 default-browser-prompt-button-secondary = Pas ara
