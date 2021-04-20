@@ -453,9 +453,6 @@ pointerlock-warning-no-domain = इस दस्तेवाज को आपक
 
 ## Subframe crash notification
 
-crashed-subframe-learnmore =
-    .label = अधिक जानें
-    .accesskey = L
 crashed-subframe-learnmore-link =
     .value = अधिक जानें
 crashed-subframe-submit =
