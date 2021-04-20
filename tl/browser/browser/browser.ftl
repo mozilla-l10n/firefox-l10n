@@ -286,6 +286,10 @@ bookmark-panel =
 
 ## Identity Panel
 
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-header-security-with-host =
+    .title = Connection Security for { $host }
 identity-connection-not-secure = Hindi ligtas ang koneksyon
 identity-connection-secure = Ligtas na koneksyon
 identity-connection-internal = Ito ay secure na { -brand-short-name } na pahina.
