@@ -28,6 +28,8 @@ browser-containers-learn-more = Lairn mair
 
 ## General Section - Language & Appearance
 
+preferences-default-zoom-value =
+    .label = { $percentage }%
 
 ## General Section - Files and Applications
 
