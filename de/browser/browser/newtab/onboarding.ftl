@@ -200,7 +200,6 @@ onboarding-welcome-steps-indicator =
 # automatically added to the text inside it. "look" should stay inside the span.
 onboarding-multistage-theme-header = Wähle einen <span data-l10n-name="zap">Look</span>
 onboarding-multistage-theme-subtitle = Personalisiere { -brand-short-name } mit einem Theme.
-onboarding-multistage-theme-primary-button-label = Theme speichern
 onboarding-multistage-theme-primary-button-label2 = Fertig
 onboarding-multistage-theme-secondary-button-label = Jetzt nicht
 # Automatic theme uses operating system color settings
@@ -255,3 +254,13 @@ onboarding-multistage-theme-description-alpenglow =
     .aria-description =
         Ein farbenfrohes Erscheinungsbild für Schaltflächen,
         Menüs und Fenster verwenden.
+
+## Multistage MR1 onboarding strings (MR1 about:welcome pages)
+
+mr1-onboarding-set-default-only-primary-button-label = { -brand-short-name } als Standardbrowser festlegen
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+

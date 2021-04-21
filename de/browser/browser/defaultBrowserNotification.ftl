@@ -7,3 +7,10 @@ default-browser-notification-message = <strong>{ -brand-short-name } als Standar
 default-browser-notification-button =
     .label = Als Standard festlegen
     .accesskey = S
+
+## These strings are used for the default browser prompt. There are 2 variations
+## depending on the operating system (Windows vs other). The checkbox label and
+## secondary button are shared between the variants.
+
+default-browser-prompt-title-alt = { -brand-short-name } als Standardbrowser festlegen?
+default-browser-prompt-button-primary-alt = Als Standardbrowser festlegen
