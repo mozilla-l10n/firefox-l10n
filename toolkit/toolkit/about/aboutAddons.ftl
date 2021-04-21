@@ -13,6 +13,9 @@ search-header =
 search-header-shortcut =
     .key = f
 
+list-empty-get-extensions-message =
+    Visita <a data-l10n-name="get-extensions">{ $domain }</a> per installare estensioni e temi
+
 list-empty-installed =
     .value = Non risulta installato alcun componente aggiuntivo di questo tipo
 
