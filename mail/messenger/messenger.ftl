@@ -72,7 +72,7 @@ toolbar-context-menu-manage-extension =
     .accesskey = E
 toolbar-context-menu-remove-extension =
     .label = Eliminar la extensión
-    .accesskey = v
+    .accesskey = x
 
 ## Add-on removal warning
 
