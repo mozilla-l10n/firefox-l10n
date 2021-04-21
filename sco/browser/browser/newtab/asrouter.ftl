@@ -262,6 +262,12 @@ cfr-whatsnew-better-pdf-body = PDF documents noo open straicht intae { -brand-sh
 
 ## DOH Message
 
+cfr-doorhanger-doh-body = Yer preevacy maitters. { -brand-short-name } noo, whenever it can, sends yer DNS speirins siccar tae a pertner service for tae bield ye while ye stravaige.
+cfr-doorhanger-doh-header = Mair siccar, encryptit DNS luik-ups
+cfr-doorhanger-doh-primary-button-2 = Awricht
+    .accesskey = O
+cfr-doorhanger-doh-secondary-button = Disable
+    .accesskey = D
 
 ## Fission Experiment Message
 
