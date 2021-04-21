@@ -327,3 +327,13 @@ mr1-onboarding-theme-description-dark =
     .aria-description =
         Eipuru téma ypytũ votõ,
         poravorã ha ovetãme g̃uarã.
+# Tooltip displayed on hover of Alpenglow theme
+mr1-onboarding-theme-tooltip-alpenglow =
+    .title =
+        Eipuru téma hetia’e ha isa’ýva votõ,
+        poravorã ha ovetãme g̃uarã.
+# Input description for Alpenglow theme
+mr1-onboarding-theme-description-alpenglow =
+    .aria-description =
+        Eipuru téma hetia’e ha isa’ýva votõ,
+        poravorã ha ovetãme g̃uarã.
