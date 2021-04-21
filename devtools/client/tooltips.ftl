@@ -50,6 +50,11 @@ inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Saiatu <s
 inactive-css-not-display-block-on-floated-fix = Saiatu <strong>float</strong> kentzen edo <strong>display: block</strong> gehitzen. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = Saiatu bere <strong>position</strong> propietateari <strong>static</strong> ez den beste balio bat ezartzen. { learn-more }
 inactive-text-overflow-when-no-overflow-fix = Saiatu <strong>overflow:hidden</strong> gehitzen. { learn-more }
+inactive-css-not-for-internal-table-elements-fix = Saiatu bere <strong>display</strong> propietatea <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> edo <strong>table-footer-group</strong> ez den beste balio batera ezartzen. { learn-more }
+inactive-css-not-for-internal-table-elements-except-table-cells-fix = Saiatu bere <strong>display</strong> propietatea <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> edo <strong>table-footer-group</strong> ez den beste balio batera ezartzen. { learn-more }
+inactive-outline-radius-when-outline-style-auto-or-none-fix = Saiatu bere <strong>outline-style</strong> propietatea <strong>auto</strong> edo <strong>none</strong> ez den beste balio batera ezartzen. { learn-more }
+inactive-css-not-table-fix = Saiatu gehitzen <strong>display:table</strong> edo <strong>display:inline-table</strong>. { learn-more }
+inactive-scroll-padding-when-not-scroll-container-fix = Saiatu gehitzen <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> edo <strong>overflow:hidden</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
