@@ -303,6 +303,9 @@ cfr-whatsnew-supercookies-body = Wabsites can sleekitly eik on a "supercookie" t
 ## What's new: Better bookmarking
 
 cfr-whatsnew-bookmarking-header = Better buikmerkin
+cfr-whatsnew-bookmarking-body = It's easier tae keep on tap o yer favourite sites. { -brand-short-name } noo minds yer preferred airtin for saved buikmerks, kythes the buikmerks toolbaur as staunart on new tabs, and gies ye easy ingang tae the lave o yer buikmerks through a toolbaur folder.
 
 ## What's new: Cross-site cookie tracking
 
+cfr-whatsnew-cross-site-tracking-header = Aw-oot bieldin fae cross-site cookie trackin
+cfr-whatsnew-cross-site-tracking-body = Ye can noo opt in tae better bieldin fae cookie trackin. { -brand-short-name } can isolate yer ongauns and data tae the site ye're on jist noo, sae's information stored in the wab-stravaiger isnae shared atween wabsites.
