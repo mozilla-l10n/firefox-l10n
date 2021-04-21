@@ -318,3 +318,13 @@ mr1-onboarding-theme-description-dark =
     .aria-description =
         Ein dunkles Theme für Schaltflächen,
         Menüs und Fenster verwenden.
+# Tooltip displayed on hover of Alpenglow theme
+mr1-onboarding-theme-tooltip-alpenglow =
+    .title =
+        Ein dynamisches, farbenfrohes Theme
+        für Schaltflächen, Menüs und Fenster verwenden.
+# Input description for Alpenglow theme
+mr1-onboarding-theme-description-alpenglow =
+    .aria-description =
+        Ein dynamisches, farbenfrohes Theme
+        für Schaltflächen, Menüs und Fenster verwenden.
