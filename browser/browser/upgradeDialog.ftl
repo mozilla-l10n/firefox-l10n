@@ -8,7 +8,11 @@
 
 ## New changes screen
 
+upgrade-dialog-new-item-menu-title = Schlankere Symbolleisten und Menüs
+upgrade-dialog-new-item-menu-description = Priorisieren die wichtigen Dinge, damit du das findest, was du brauchst.
 upgrade-dialog-new-item-tabs-title = Moderne Tabs
+upgrade-dialog-new-item-tabs-description = Enthalten übersichtlich Informationen und unterstützen so Fokus und flexible Bewegung.
+upgrade-dialog-new-item-icons-title = Neue Symbole und klarere Nachrichten
 upgrade-dialog-new-primary-primary-button = { -brand-short-name } als primären Browser festlegen
     .title = Setzt { -brand-short-name } als Standardbrowser heftet es an die Taskleiste
 upgrade-dialog-new-primary-default-button = { -brand-short-name } als Standardbrowser festlegen
