@@ -49,3 +49,5 @@ customize-mode-lwthemes-my-themes =
     .value = Mos tèmas
 customize-mode-touchbar-cmd =
     .label = Personalizar la Touch Bar…
+customize-mode-downloads-button-autohide =
+    .label = Rescondre lo boton quand la lista es voida
