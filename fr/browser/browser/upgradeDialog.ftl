@@ -14,6 +14,7 @@ upgrade-dialog-new-subtitle = Conçu pour vous amener où vous voulez, encore pl
 upgrade-dialog-new-item-menu-title = Barres d’outils et menus simplifiés
 upgrade-dialog-new-item-menu-description = Donnez la priorité aux choses importantes pour trouver ce dont vous avez besoin.
 upgrade-dialog-new-item-tabs-title = Onglets modernes
+upgrade-dialog-new-item-tabs-description = Présentent les informations avec soin en renforçant la concentration et la fluidité des mouvements.
 upgrade-dialog-new-primary-primary-button = Faire de { -brand-short-name } mon navigateur principal
     .title = Définit { -brand-short-name } comme navigateur par défaut et l’épingle à la barre des tâches
 upgrade-dialog-new-primary-default-button = Faire de { -brand-short-name } mon navigateur par défaut
