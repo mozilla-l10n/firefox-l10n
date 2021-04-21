@@ -30,9 +30,22 @@ experimental-features-css-constructable-stylesheets =
 experimental-features-css-constructable-stylesheets-description = <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a> interfazearen eraikitzaile bat gehitzea, bai eta estilo-orri berriak zuzenean, orria HTMLan gehitzeko beharrik gabe, sortzeko eginbidea ahalbidetzen duten erlazionatutako aldaketak. Honen bidez askozaz errazagoa da <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>ekin erabiltzeko estilo-orri berrerabilgarriak sortzea . Ikusi <a data-l10n-name="bugzilla">1520690 buga</a> xehetasun gehiagorako.
 experimental-features-devtools-color-scheme-simulation =
     .label = Garatzaile-tresnak: kolore-eskemaren simulazioa
+experimental-features-devtools-color-scheme-simulation-description = Kolore-eskema desberdinak simulatzeko aukera gehitzen du, horrekin <a data-l10n-name="mdn-preferscolorscheme">@prefers-color-scheme</a> media galderak probatzea ahalbidetuz. Media galdera hau erabiliz zure estilo-orriak jakin dezake erabiltzaileak nahiago duen erabiltzaile-interfaze argia edo iluna. Eginbide honekin zure kodea proba dezakezu nabigatzailearen ezarpenik aldatu gabe (edo sistema eragilearen ezarpenak, nabigatzaileak sistemaren kolore-eskema ezarpenak errespetatzen baditu). Ikusi <a data-l10n-name="bugzilla1">1550804 buga</a> eta <a data-l10n-name="bugzilla2">1137699 buga</a> xehetasun gehiagorako.
+experimental-features-devtools-execution-context-selector =
+    .label = Garatzaile-tresnak: exekuzio-testuinguruaren hautatzailea
+experimental-features-devtools-execution-context-selector-description = Eginbide honek botoi bat bistaratzen du kontsolaren komando-lerroan eta horrekin idazten duzun adierazpena exekutatuko den testuingurua alda dezakezu. Ikusi <a data-l10n-name="bugzilla1">1605154 buga</a> eta <a data-l10n-name="bugzilla2">1605153 buga</a> xehetasun gehiagorako.
+experimental-features-devtools-compatibility-panel =
+    .label = Garatzaile-tresnak: bateragarritasun-panela
+experimental-features-devtools-compatibility-panel-description = Zure aplikazioaren nabigatzaile-arteko bateragarritasun-egoera xehatuaren informazioa erakusten duen orriaren ikuskatzaileko albo-panela.
+# Do not translate 'SameSite', 'Lax' and 'None'.
+experimental-features-cookie-samesite-lax-by-default2 =
+    .label = Cookieak: SameSite=Lax lehenespenez
+experimental-features-cookie-samesite-lax-by-default2-description = Tratatu cookieak lehenespenez "SameSite=Lax" balira bezala ez denean "SameSite" atributurik zehazten. Garatzaileek eurek aukeratu behar dute uneko mugarik gabeko erabilpenera esplizituki "SameSite=None" ezarriz.
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
     .label = Garatzaile-tresnak: zerbitzu-langileen arazketa
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-devtools-serviceworker-debugger-support-description = Zerbitzu-langileen euskarri esperimentala gaitzen du Arazketa panelean. Eginbide honek garatzaile-tresnak motel litzake eta bere memoria-kontsumoa handitu.
 # WebRTC global mute toggle controls
 experimental-features-webrtc-global-mute-toggles =
     .label = WebRTC mututzea globalki txandakatzea
