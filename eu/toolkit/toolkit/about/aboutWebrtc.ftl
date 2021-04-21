@@ -134,6 +134,10 @@ about-webrtc-last-frame-timestamp = Azken markoa jaso zeneko denbora-marka
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
+# This is an SSRC on the local side of the connection that is receiving RTP
+about-webrtc-local-receive-ssrc = Jasotzeko SSRC lokala
+# This is an SSRC on the remote side of the connection that is sending RTP
+about-webrtc-remote-send-ssrc = Bidaltzeko urruneko SSRCa
 
 ##
 

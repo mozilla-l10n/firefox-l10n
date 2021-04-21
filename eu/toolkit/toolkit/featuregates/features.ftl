@@ -30,6 +30,25 @@ experimental-features-css-constructable-stylesheets =
 experimental-features-css-constructable-stylesheets-description = <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a> interfazearen eraikitzaile bat gehitzea, bai eta estilo-orri berriak zuzenean, orria HTMLan gehitzeko beharrik gabe, sortzeko eginbidea ahalbidetzen duten erlazionatutako aldaketak. Honen bidez askozaz errazagoa da <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>ekin erabiltzeko estilo-orri berrerabilgarriak sortzea . Ikusi <a data-l10n-name="bugzilla">1520690 buga</a> xehetasun gehiagorako.
 experimental-features-devtools-color-scheme-simulation =
     .label = Garatzaile-tresnak: kolore-eskemaren simulazioa
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-devtools-serviceworker-debugger-support =
+    .label = Garatzaile-tresnak: zerbitzu-langileen arazketa
+# WebRTC global mute toggle controls
+experimental-features-webrtc-global-mute-toggles =
+    .label = WebRTC mututzea globalki txandakatzea
+experimental-features-webrtc-global-mute-toggles-description = Erabiltzaileei globalki mikrofono eta kamerak mututzea baimentzen dien WebRTC partekatze globaleko adierazleari kontrolak gehitzen dizkio.
+# JS JIT Warp project
+experimental-features-js-warp =
+    .label = JavaScript JIT: Warp
+experimental-features-js-warp-description = Gaitu Warp, JavaScript-en erredinemdua eta memoria-erabilpena hobetzeko proiektua.
+# Fission is the name of the feature and should not be translated.
+experimental-features-fission =
+    .label = Fission (guneen isolazioa)
+experimental-features-fission-description = Segurtasun-akatsen aurkako babes-geruza gehigarri ematen duen { -brand-short-name }(e)ko eginbide esperimentala da Fission (guneen isolazioa). Gune bakoitza aparteko prozesuan isolatuz, asmo txarreko webguneentzat zailagoa da bisitatzen dituzun beste orrietako informaziorako sarbidea izatea. { -brand-short-name }(e)n arkitekturaren aldaketa nabarmena da hau eta eskertuko genuke probatu eta aurkitutako arazoen berri ematea. Xehetasun gehiagorako, ikusi <a data-l10n-name="wiki">wikia</a>.
+# Support for having multiple Picture-in-Picture windows open simultaneously
+experimental-features-multi-pip =
+    .label = Hainbat bideo beste leihoetan ikusteko euskarria
+experimental-features-multi-pip-description = Euskarri esperimentala denbora berean hainbat bideo beste leihoetan ireki ahal izateko.
 experimental-features-http3 =
     .label = HTTP/3 protokoloa
 experimental-features-http3-description = HTTP/3 protokoloaren euskarri esperimentala.
