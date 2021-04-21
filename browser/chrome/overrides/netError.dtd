@@ -6,7 +6,7 @@
 %brandDTD;
 
 <!ENTITY loadError.label "Праблема загрузкі старонкі">
-<!ENTITY retry.label "Паспрабуйце зноў">
+<!ENTITY retry.label "Паспрабаваць ізноў">
 <!ENTITY returnToPreviousPage.label "Вярнуцца">
 <!ENTITY returnToPreviousPage1.label "Вярнуцца (рэкамендуецца)">
 <!ENTITY advanced2.label "Дадаткова…">
