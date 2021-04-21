@@ -46,3 +46,18 @@ toolbar-delete-button =
 toolbar-undelete-button =
     .label = Hoàn tác xóa
     .tooltiptext = Phục hồi các thư đã chọn
+
+## View / Layout
+
+mail-uidensity-label =
+    .label = Mật độ
+    .accesskey = D
+mail-uidensity-compact =
+    .label = Thu gọn
+    .accesskey = C
+mail-uidensity-normal =
+    .label = Bình thường
+    .accesskey = N
+mail-uidensity-touch =
+    .label = Chạm
+    .accesskey = T

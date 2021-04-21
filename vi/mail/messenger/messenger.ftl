@@ -63,3 +63,20 @@ appmenu-help-exit-troubleshoot-mode =
     .label = Tắt chế độ xử lý sự cố
 appmenu-help-more-troubleshooting-info =
     .label = Thông tin xử lý sự cố khác
+
+## Action Button Context Menu
+
+toolbar-context-menu-manage-extension =
+    .label = Quản lí tiện ích
+    .accesskey = E
+toolbar-context-menu-remove-extension =
+    .label = Xóa tiện ích mở rộng
+    .accesskey = v
+
+## Add-on removal warning
+
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = Xóa { $name }?
+addon-removal-confirmation-button = Xóa
+addon-removal-confirmation-message = Xóa { $name } cũng như cài đặt và dữ liệu của nó khỏi { -brand-short-name }?
