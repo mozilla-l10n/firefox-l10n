@@ -16,15 +16,15 @@
 <!ENTITY TextAreaReadOnly.accessKey "O">
 <!ENTITY TextAreaDisabled.label "Deshabilitada">
 <!ENTITY TextAreaDisabled.accessKey "D">
-<!ENTITY TextAreaTabIndex.label "Tab Index:">
-<!ENTITY TextAreaTabIndex.accessKey "I">
+<!ENTITY TextAreaTabIndex.label "Índice de pestañas:">
+<!ENTITY TextAreaTabIndex.accessKey "i">
 <!ENTITY TextAreaAccessKey.label "Tecla de acceso:">
-<!ENTITY TextAreaAccessKey.accessKey "K">
+<!ENTITY TextAreaAccessKey.accessKey "T">
 <!ENTITY InitialText.label "Texto inicial:">
 <!ENTITY InitialText.accessKey "T">
 
-<!ENTITY TextAreaWrap.label "Wrap Mode:">
-<!ENTITY TextAreaWrap.accessKey "W">
+<!ENTITY TextAreaWrap.label "Modo de ajuste:">
+<!ENTITY TextAreaWrap.accessKey "j">
 <!ENTITY WrapDefault.value "Predeterminado">
 <!ENTITY WrapOff.value "Desactivado">
 <!ENTITY WrapHard.value "Duro">
