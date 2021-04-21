@@ -173,12 +173,31 @@ newtab-label-sponsored-by = Sponsored by { $sponsor }
 ## meant as a call to action for the given section.
 
 newtab-section-menu-remove-section = Remuive Section
+newtab-section-menu-collapse-section = In-fauld Section
+newtab-section-menu-expand-section = Oot-fauld Section
+newtab-section-menu-manage-section = Manage Section
+newtab-section-menu-manage-webext = Manage Extension
+newtab-section-menu-add-topsite = Eik On Tap Site
+newtab-section-menu-add-search-engine = Eik On Airt-oot Engine
+newtab-section-menu-move-up = Shift Up
+newtab-section-menu-move-down = Shift Doon
+newtab-section-menu-privacy-notice = Preevacy Notice
 
 ## Section aria-labels
 
+newtab-section-collapse-section-label =
+    .aria-label = In-fauld Section
+newtab-section-expand-section-label =
+    .aria-label = Oot-fauld Section
 
 ## Section Headers.
 
+newtab-section-header-topsites = Tap Sites
+newtab-section-header-highlights = Highlichts
+newtab-section-header-recent-activity = Recent activity
+# Variables:
+#  $provider (String): Name of the corresponding content provider.
+newtab-section-header-pocket = Recommendit by { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
