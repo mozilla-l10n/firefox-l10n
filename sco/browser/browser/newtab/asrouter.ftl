@@ -65,7 +65,7 @@ cfr-doorhanger-pintab-description = Gang straicht tae yer maist-yaised sites. Ke
 
 cfr-doorhanger-pintab-step1 = <b>Richt-click</b> on the tab ye're wantin tae peen.
 cfr-doorhanger-pintab-step2 = Wale <b>Peen Tab</b> fae the menu.
-cfr-doorhanger-pintab-step3 = If the site has an update ye'll see a blue dot on yer peened tab.
+cfr-doorhanger-pintab-step3 = Gin the site has an update ye'll see a blue dot on yer peened tab.
 cfr-doorhanger-pintab-animation-pause = Pause
 cfr-doorhanger-pintab-animation-resume = Resume
 

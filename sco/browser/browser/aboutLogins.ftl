@@ -73,15 +73,15 @@ login-intro-heading = Luikin fur yer saved logins? Set up { -sync-brand-short-na
 about-logins-login-intro-heading-logged-out = Luikin fur yer saved logins? Set up { -sync-brand-short-name } or Inbring Them.
 about-logins-login-intro-heading-logged-out2 = Luikin fur yer saved logins? Turn on sync or inbring them.
 about-logins-login-intro-heading-logged-in = Nae synced logins fund.
-login-intro-description = If ye saved yer logins tae { -brand-product-name } on anither device, here's how tae get them here:
+login-intro-description = Gin ye saved yer logins tae { -brand-product-name } on anither device, here's how tae get them here:
 login-intro-instruction-fxa = Mak or sign in tae yer { -fxaccount-brand-name } on the device whaur yer logins are saved
 login-intro-instruction-fxa-settings = Mak shair ye've selectit the Logins checkbox in { -sync-brand-short-name } Settins
 about-logins-intro-instruction-help = Gang tae <a data-l10n-name="help-link">{ -lockwise-brand-short-name } Support</a> fur mair help
 login-intro-instructions-fxa = Mak or sign in tae yer { -fxaccount-brand-name(capitalization: "sentence") } on the device whaur yer logins are saved.
 login-intro-instructions-fxa-settings = Gang tae Settins > Sync > Turn on syncin... Select the Logins and passwirds checkbox.
 login-intro-instructions-fxa-help = Gang tae { -lockwise-brand-short-name }{ -lockwise-brand-short-name } Support</a> fur mair help.
-about-logins-intro-import = If yer logins are saved in anither wab-stravaiger, ye can <a data-l10n-name="import-link">inbring them intae { -lockwise-brand-short-name }</a>
-about-logins-intro-import2 = If yer logins are saved ootside o { -brand-product-name }, ye can <a data-l10n-name="import-browser-link">inbring them fae anither wab-stravaiger</a> or <a data-l10n-name="import-file-link">fae a file</a>
+about-logins-intro-import = Gin yer logins are saved in anither wab-stravaiger, ye can <a data-l10n-name="import-link">inbring them intae { -lockwise-brand-short-name }</a>
+about-logins-intro-import2 = Gin yer logins are saved ootside o { -brand-product-name }, ye can <a data-l10n-name="import-browser-link">inbring them fae anither wab-stravaiger</a> or <a data-l10n-name="import-file-link">fae a file</a>
 
 ## Login
 
