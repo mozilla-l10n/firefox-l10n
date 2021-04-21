@@ -204,7 +204,6 @@ onboarding-welcome-steps-indicator =
 # automatically added to the text inside it. "look" should stay inside the span.
 onboarding-multistage-theme-header = Выберыце <span data-l10n-name="zap">выгляд</span>
 onboarding-multistage-theme-subtitle = Персаналізуйце { -brand-short-name } тэмамі.
-onboarding-multistage-theme-primary-button-label = Захаваць тэму
 onboarding-multistage-theme-primary-button-label2 = Гатова
 onboarding-multistage-theme-secondary-button-label = Не зараз
 # Automatic theme uses operating system color settings
@@ -259,3 +258,26 @@ onboarding-multistage-theme-description-alpenglow =
     .aria-description =
         Выкарыстоўваць каляровы выгляд
         для кнопак, меню і вокнаў.
+
+## Multistage MR1 onboarding strings (MR1 about:welcome pages)
+
+# This button will open system settings to turn on prefers-reduced-motion
+mr1-onboarding-reduce-motion-button-label = Адключыць анімацыі
+mr1-onboarding-welcome-header = Вітаем у { -brand-short-name }
+mr1-onboarding-set-default-only-primary-button-label = Зрабіць { -brand-short-name } маім прадвызначаным браўзерам
+mr1-onboarding-set-default-secondary-button-label = Не зараз
+mr1-onboarding-sign-in-button-label = Увайсці
+mr1-onboarding-import-secondary-button-label = Не зараз
+mr1-onboarding-theme-subtitle = Персаніфікуйце { -brand-short-name } з дапамогай тэмы.
+mr1-onboarding-theme-primary-button-label = Захаваць тэму
+mr1-onboarding-theme-secondary-button-label = Не зараз
+# System theme uses operating system color settings
+mr1-onboarding-theme-label-system = Сістэмная тэма
+mr1-onboarding-theme-label-light = Светлая
+mr1-onboarding-theme-label-dark = Цёмная
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
