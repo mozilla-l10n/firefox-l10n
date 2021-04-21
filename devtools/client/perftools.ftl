@@ -89,13 +89,18 @@ perftools-thread-style-thread =
     .title = Estiloen kalkulua hainbat haritan banatuta dago
 pref-thread-stream-trans =
     .title = Sareko jarioaren garraioa
+perftools-thread-socket-thread =
+    .title = Sareko kodeak socket-dei blokeagarriak exekutatzen dituen haria
 perftools-thread-img-decoder =
     .title = Irudiak deskodetzeko hariak
 perftools-thread-dns-resolver =
     .title = DNS ebazpena hari honetan gertatzen da
+perftools-thread-js-helper =
+    .title = JS motorraren atzeko planoko lana, adibidez hari nagusiz kanpoko konpilazioak
 
 ##
 
+perftools-record-all-registered-threads = Saihestu goiko hautapenak eta grabatu erregistratutako hari guztiak
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
