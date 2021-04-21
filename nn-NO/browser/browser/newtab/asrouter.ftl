@@ -153,10 +153,10 @@ cfr-whatsnew-fingerprinter-counter-header =
         [one] Fingerprinter blokkert
        *[other] Fingerprinters blokkerte
     }
-cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } blokkerer mange fingerprintarar som i det skjulte samlar informasjon om eininga di og handlingane dine for å lage ein annonseringsprofil for deg.
+cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } blokkerer mange fingerprintarar som i løynd samlar informasjon om eininga di og handlingane dine for å lage ein annonseringsprofil av deg.
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Fingerprinters
-cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } kan blokkere fingerprintarar som i det skjulte samlar informasjon om eininga di og handlingane dine for å lage ein annonseringsprofil for deg.
+cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } kan blokkere fingerprintarar som i løynd samlar informasjon om eininga di og handlingane dine for å lage ein annonseringsprofil for deg.
 
 ## Bookmark Sync
 
@@ -220,8 +220,6 @@ cfr-doorhanger-milestone-heading2 =
     }
 cfr-doorhanger-milestone-ok-button = Vis alle
     .accesskey = s
-cfr-doorhanger-milestone-close-button = Lat att
-    .accesskey = L
 
 ## What’s New Panel Content for Firefox 76
 
@@ -246,6 +244,8 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Bilde-i-bilde ikon
 
 ## Protections Dashboard message
 
+cfr-doorhanger-milestone-close-button = Lat att
+    .accesskey = L
 
 ## What’s New Panel Content for Firefox 76
 ## Protections Dashboard message
@@ -264,8 +264,6 @@ cfr-whatsnew-better-pdf-body = PDF-dokument vert no opna direkte i { -brand-shor
 
 cfr-doorhanger-doh-body = Personvernet ditt betyr noko. { -brand-short-name } rutar no DNS-førespurnadane dine trygt når det er mogleg, til ei teneste levert av ein partnar, for å beskytte deg medan du surfar.
 cfr-doorhanger-doh-header = Sikrare og krypterte DNS-oppslag
-cfr-doorhanger-doh-primary-button = OK, eg skjønar
-    .accesskey = O
 cfr-doorhanger-doh-primary-button-2 = OK
     .accesskey = O
 cfr-doorhanger-doh-secondary-button = Slå av

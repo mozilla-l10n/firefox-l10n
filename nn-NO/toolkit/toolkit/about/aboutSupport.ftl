@@ -134,8 +134,6 @@ troubleshoot-mode-title = Diagnoistiser problem
 restart-in-troubleshoot-mode-label = Feilsøkingsmodus…
 clear-startup-cache-title = Prøv å tøme oppstart-snøgglageret
 clear-startup-cache-label = Tøm oppstart-snøgglageret…
-startup-cache-dialog-title = Tøm oppstart-snøgglageret
-startup-cache-dialog-body = Start { -brand-short-name } på nytt for å tøme oppstartsnøgglageret. Dette vil ikkje endre innstillingane dine eller fjerne utvidingar du har lagt til i { -brand-short-name }.
 startup-cache-dialog-title2 = Starte { -brand-short-name } for å tøme oppstartmellomlageret?
 startup-cache-dialog-body2 = Dette vil ikkje endre innstillingane dine eller fjerne utvidingar.
 restart-button-label = Start på nytt
@@ -210,7 +208,7 @@ support-third-party-modules-button-open =
 support-third-party-modules-expand =
     .title = Vis detaljert informasjon
 support-third-party-modules-collapse =
-    .title = Skjul detaljert informasjon
+    .title = Gøym detaljert informasjon
 support-third-party-modules-unsigned-icon =
     .title = Denne modulen er ikkje signert
 support-third-party-modules-folder-icon =
@@ -218,7 +216,7 @@ support-third-party-modules-folder-icon =
 support-third-party-modules-down-icon =
     .title = Vis detaljert informasjon
 support-third-party-modules-up-icon =
-    .title = Skjul detaljert informasjon
+    .title = Gøym detaljert informasjon
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
