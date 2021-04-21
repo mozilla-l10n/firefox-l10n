@@ -158,10 +158,21 @@ newtab-label-visited = Veesitit
 newtab-label-bookmarked = Buikmerkt
 newtab-label-removed-bookmark = Buikmerk remuived
 newtab-label-recommended = Trendin
+newtab-label-saved = Saved tae { -pocket-brand-name }
+newtab-label-download = Doonloadit
+# This string is used in the story cards to indicate sponsored content
+# Variables:
+#  $sponsorOrSource (String): This is the name of a company or their domain
+newtab-label-sponsored = { $sponsorOrSource } · Sponsored
+# This string is used at the bottom of story cards to indicate sponsored content
+# Variables:
+#  $sponsor (String): This is the name of a sponsor
+newtab-label-sponsored-by = Sponsored by { $sponsor }
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
+newtab-section-menu-remove-section = Remuive Section
 
 ## Section aria-labels
 
