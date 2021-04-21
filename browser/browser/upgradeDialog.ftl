@@ -8,6 +8,7 @@
 
 ## New changes screen
 
+upgrade-dialog-new-primary-default-button = { -brand-short-name } als Standardbrowser festlegen
 upgrade-dialog-new-secondary-button = Nicht jetzt
 
 ## Theme selection screen
