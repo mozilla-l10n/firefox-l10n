@@ -14,28 +14,110 @@ newtab-personalize-button-label = Personalise
 
 ## Search box component.
 
+# "Search" is a verb/action
+newtab-search-box-search-button =
+    .title = Sairch
+    .aria-label = Sairch
+newtab-search-box-search-the-web-text = Sairch the Wab
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-text = Sairch wi { $engine } or inpit address
+newtab-search-box-handoff-text-no-engine = Sairch or inpit address
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-input =
+    .placeholder = Sairch wi { $engine } or inpit address
+    .title = Sairch wi { $engine } or inpit address
+    .aria-label = Sairch wi { $engine } or inpit address
+newtab-search-box-handoff-input-no-engine =
+    .placeholder = Sairch or inpit address
+    .title = Sairch or inpit address
+    .aria-label = Sairch or inpit address
+newtab-search-box-search-the-web-input =
+    .placeholder = Sairch the Wab
+    .title = Sairch the Wab
+    .aria-label = Sairch the Wab
+newtab-search-box-text = Sairch the wab
+newtab-search-box-input =
+    .placeholder = Sairch the wab
+    .aria-label = Sairch the wab
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-search-engine-header = Eik On Airt-oot Engine
+newtab-topsites-add-topsites-header = New Tap Site
+newtab-topsites-add-shortcut-header = New Shortcut
+newtab-topsites-edit-topsites-header = Edit Tap Site
+newtab-topsites-edit-shortcut-header = Edit Shortcut
+newtab-topsites-title-label = Title
+newtab-topsites-title-input =
+    .placeholder = Inpit a title
 newtab-topsites-url-label = URL
+newtab-topsites-url-input =
+    .placeholder = Type or paste a URL
+newtab-topsites-url-validation = Suithfest URL needit
+newtab-topsites-image-url-label = Custom Image URL
+newtab-topsites-use-image-link = Yaise an image o yer ain...
+newtab-topsites-image-validation = Image couldnae load. Try anither URL.
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
+newtab-topsites-cancel-button = Stap
+newtab-topsites-delete-history-button = Dicht fae Historie
+newtab-topsites-save-button = Save
+newtab-topsites-preview-button = Preview
+newtab-topsites-add-button = Eik on
 
 ## Top Sites - Delete history confirmation dialog.
 
+newtab-confirm-delete-history-p1 = Are ye shair ye're wantin tae dicht ilka instance o this page fae yer historie?
+# "This action" refers to deleting a page from history.
+newtab-confirm-delete-history-p2 = This action cannae be unduin.
 
 ## Top Sites - Sponsored label
 
+newtab-topsite-sponsored = Sponsored
 
 ## Context Menu - Action Tooltips.
 
+# General tooltip for context menus.
+newtab-menu-section-tooltip =
+    .title = Open menu
+    .aria-label = Open menu
+# Tooltip for dismiss button
+newtab-dismiss-button-tooltip =
+    .title = Remuive
+    .aria-label = Remuive
+# This tooltip is for the context menu of Pocket cards or Topsites
+# Variables:
+#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+newtab-menu-content-tooltip =
+    .title = Open menu
+    .aria-label = Open context menu fur { $title }
+# Tooltip on an empty topsite box to open the New Top Site dialog.
+newtab-menu-topsites-placeholder-tooltip =
+    .title = Edit this site
+    .aria-label = Edit this site
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
+newtab-menu-edit-topsites = Edit
+newtab-menu-open-new-window = Open in a New Windae
+newtab-menu-open-new-private-window = Open in a New Preevat Windae
+newtab-menu-dismiss = Dismiss
+newtab-menu-pin = Peen
+newtab-menu-unpin = Remuive Peen
+newtab-menu-delete-history = Dicht fae Historie
+newtab-menu-save-to-pocket = Save tae { -pocket-brand-name }
+newtab-menu-delete-pocket = Dicht fae { -pocket-brand-name }
+newtab-menu-archive-pocket = Archive in { -pocket-brand-name }
+newtab-menu-show-privacy-info = Oor sponsors & yer preevacy
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
+newtab-privacy-modal-button-done = Duin
+newtab-privacy-modal-button-manage = Manage sponsored content settins
+newtab-privacy-modal-header = Yer preevacy maitters.
 
 ##
 
