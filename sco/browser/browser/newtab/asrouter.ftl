@@ -95,10 +95,37 @@ cfr-whatsnew-button =
 cfr-whatsnew-panel-header = Whit's New
 cfr-whatsnew-release-notes-link-text = Read the roll-oot notes
 cfr-whatsnew-fx70-title = { -brand-short-name } noo fechts aw the mair for yer preevacy.
+cfr-whatsnew-fx70-body =
+    The latest update eiks-on tae the Trackin Bieldin featur and maks it
+    even easier tae mak siccar passwirds for ilka site.
 cfr-whatsnew-tracking-protect-title = Bield yersel fae trackers
+cfr-whatsnew-tracking-protect-body =
+    { -brand-short-name } blocks a guid wheen o common social and cross-site trackers that
+    follae whit ye're daein online.
+cfr-whatsnew-tracking-protect-link-text = View Yer Report
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+        [one] Tracker blocked
+       *[other] Trackers blocked
+    }
+cfr-whatsnew-tracking-blocked-subtitle = Syne { DATETIME($earliestDate, month: "long", year: "numeric") }
+cfr-whatsnew-tracking-blocked-link-text = View Report
+cfr-whatsnew-lockwise-backup-title = Back up yer passwirds
+cfr-whatsnew-lockwise-backup-body = Noo mak siccar passwirds ye can get ingang tae onywhaur ye sign in.
+cfr-whatsnew-lockwise-backup-link-text = Turn on backups
+cfr-whatsnew-lockwise-take-title = Tak yer passwirds wi ye
+cfr-whatsnew-lockwise-take-body =
+    The { -lockwise-brand-short-name } mobile app lats ye hae siccar ingang tae yer
+    backed up passwirds fae onywhaur.
+cfr-whatsnew-lockwise-take-link-text = Get the app
 
 ## Search Bar
 
+cfr-whatsnew-searchbar-title = Type less, airt-oot mair wi the address baur
+cfr-whatsnew-searchbar-body-topsites = Noo, jist wale the address baur, and a box will kythe itsel wi links tae yer tap sites.
 
 ## Search bar
 
