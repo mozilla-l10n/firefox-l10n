@@ -14,7 +14,7 @@
 <!ENTITY submit.value "Send-knapp">
 <!ENTITY reset.value "Tilbakestill-knapp">
 <!ENTITY file.value "Fil">
-<!ENTITY hidden.value "Skjult">
+<!ENTITY hidden.value "Gøymd">
 <!ENTITY image.value "Bilde">
 <!ENTITY button.value "Knapp">
 
