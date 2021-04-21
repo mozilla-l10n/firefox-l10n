@@ -118,24 +118,46 @@ newtab-menu-show-privacy-info = Oor sponsors & yer preevacy
 newtab-privacy-modal-button-done = Duin
 newtab-privacy-modal-button-manage = Manage sponsored content settins
 newtab-privacy-modal-header = Yer preevacy maitters.
+newtab-privacy-modal-paragraph-2 =
+    Forby dishin oot the maist by-ordinar stories, we can shaw ye relevant,
+    tentily checked-oot content fae selectit sponsors. Dinnae fash, <strong>yer stravaigin
+    data never leaves yer ain copy o { -brand-product-name }</strong> — we dinnae see it, and oor
+    sponsors dinnae either.
+newtab-privacy-modal-link = Lairn how preevacy wirks on the new tab
 
 ##
 
+# Bookmark is a noun in this case, "Remove bookmark".
+newtab-menu-remove-bookmark = Remuive Buikmerk
+# Bookmark is a verb here.
+newtab-menu-bookmark = Buikmerk
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+newtab-menu-copy-download-link = Copy Doonload Link
+newtab-menu-go-to-download-page = Gang Tae Doonload Page
 newtab-menu-remove-download = Remuive fae Historie
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
 ## system for each operating system.
 
+newtab-menu-show-file =
+    { PLATFORM() ->
+        [macos] Shaw in Finder
+       *[other] Open Conteenin Folder
+    }
+newtab-menu-open-file = Open File
 
 ## Card Labels: These labels are associated to pages to give
 ## context on how the element is related to the user, e.g. type indicates that
 ## the page is bookmarked, or is currently open on another device.
 
+newtab-label-visited = Veesitit
+newtab-label-bookmarked = Buikmerkt
+newtab-label-removed-bookmark = Buikmerk remuived
+newtab-label-recommended = Trendin
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
