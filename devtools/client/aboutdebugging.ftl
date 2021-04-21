@@ -176,7 +176,7 @@ about-debugging-runtime-service-workers-not-compatible = La configuración del n
 # "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/about:debugging#Troubleshooting
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 # { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
-about-debugging-browser-version-too-old = El tiempo de ejecución conectado tiene una versión antigua ({ $runtimeVersion }). La mínima versión compatible es ({ $minVersion }). Esta es una configuración incompatible y puede causar la falla de DevTools. Por favor actualice el tiempo de ejecución conectado. <a>Resolución de problemas</a>
+about-debugging-browser-version-too-old = El navegador conectado tiene una versión antigua ({ $runtimeVersion }). La versión mínima compatible es ({ $minVersion }). Esta es una configuración incompatible y puede causar la falla de DevTools. Actualice el navegador conectado. <a>Resolución de problemas</a>
 # Dedicated message for a backward compatibility issue that occurs when connecting:
 # from Fx 70+ to the old Firefox for Android (aka Fennec) which uses Fx 68.
 about-debugging-browser-version-too-old-fennec = Esta versión de Firefox no puede depurar Firefox para Android (68). Recomendamos instalar Firefox para Android Nightly en su teléfono para realizar pruebas. <a>Más detalles</a>
@@ -186,7 +186,7 @@ about-debugging-browser-version-too-old-fennec = Esta versión de Firefox no pue
 # { $localID } is the build ID of the current Firefox instance (same format)
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 # { $localVersion } is the version of your current browser (same format)
-about-debugging-browser-version-too-recent = El tiempo de ejecución conectado es más reciente ({ $runtimeVersion }, buildID { $runtimeID }) que su { -brand-shorter-name } ({ $localVersion }, buildID { $localID }). Esta es una configuración no compatible y puede hacer que DevTools falle. Por favor actualice Firefox. <a> Solución de problemas </a>
+about-debugging-browser-version-too-recent = El navegador conectado es más reciente ({ $runtimeVersion }, buildID { $runtimeID }) que su { -brand-shorter-name } ({ $localVersion }, buildID { $localID }). Esta es una configuración incompatible y puede hacer que DevTools falle. Por favor actualice Firefox. <a>Solución de problemas</a>
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
@@ -231,9 +231,9 @@ about-debugging-tmp-extension-remove-button = Eliminar
 # (triggered by the button using "about-debugging-tmp-extension-install-button")
 # manifest.json .xpi and .zip should not be localized.
 # Note: this message is only displayed in Windows and Linux platforms.
-about-debugging-tmp-extension-install-message = Seleccionar el archivo manifest.json o el archivo .xpi /.zip
+about-debugging-tmp-extension-install-message = Seleccionar el archivo manifest.json o el archivo .xpi/.zip
 # This string is displayed as a message about the add-on having a temporaryID.
-about-debugging-tmp-extension-temporary-id = Esta extensión web tiene una identificación temporaria. <a>Conocer más</a>
+about-debugging-tmp-extension-temporary-id = Esta WebExtension tiene una identificación temporaria. <a>Conocer más</a>
 # Text displayed for extensions in "runtime" pages, before displaying a link the extension's
 # manifest URL.
 about-debugging-extension-manifest-url =
