@@ -49,4 +49,4 @@ bookmark-overlay-keyword-2 =
     .value = Ključna riječ
     .accesskey = K
 bookmark-overlay-tags-caption-label = Koristi oznake za organizaciju i pretraživanje zabilješki u adresnoj traci
-bookmark-overlay-keyword-caption-label = Koristi ključne riječi za izravno otvaranje zabilješki iz adresne trake
+bookmark-overlay-keyword-caption-label-2 = Koristi jednu ključnu riječ za izravno otvaranje zabilješki iz adresne trake
