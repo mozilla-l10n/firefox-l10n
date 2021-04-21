@@ -223,10 +223,34 @@ newtab-pocket-read-more = Popular Topics:
 newtab-pocket-more-recommendations = Mair Recommendations
 newtab-pocket-learn-more = Lairn mair
 newtab-pocket-cta-button = Get { -pocket-brand-name }
+newtab-pocket-cta-text = Save the stories ye're intae wi { -pocket-brand-name }, and nourish yer mind wi some wunnerfu reads.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
+newtab-error-fallback-info = Och, sowt went wrang when loadin this content.
+newtab-error-fallback-refresh-link = Refresh page tae gie it anither shottie.
 
 ## Customization Menu
 
+newtab-custom-shortcuts-title = Shortcuts
+newtab-custom-shortcuts-subtitle = Sites ye save or veesit
+newtab-custom-row-selector =
+    { $num ->
+        [one] { $num } row
+       *[other] { $num } rows
+    }
+newtab-custom-sponsored-sites = Sponsored shortcuts
+newtab-custom-pocket-title = Recommendit by { -pocket-brand-name }
+newtab-custom-pocket-subtitle = By-ordinar content pit thegither by { -pocket-brand-name }, pairt o the { -brand-product-name } faimily.
+newtab-custom-pocket-sponsored = Sponsored stories
+newtab-custom-recent-title = Recent activity
+newtab-custom-recent-subtitle = A walin o recent sites and content
+newtab-custom-close-button = Sneck
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+newtab-custom-snippets-title = Bitties
+newtab-custom-snippets-subtitle = Tips and news fae { -vendor-short-name } and { -brand-product-name }
+newtab-custom-settings = Manage mair settins
