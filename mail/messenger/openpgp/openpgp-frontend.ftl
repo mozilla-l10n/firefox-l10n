@@ -39,7 +39,7 @@ openpgp-cannot-decrypt-because-mdc =
 openpgp-cannot-decrypt-because-missing-key = Den hemmelege nøkkelen som vert kravd for å dekryptere denne meldinga er ikkje tilgjengeleg.
 openpgp-partially-signed =
     Berre ei delmengde av denne meldinga vart signert digitalt ved hjelp av OpenPGP.
-    Dersom du klikkar på stadfestingsknappen, vil dei ubeskytta delane bli skjult, og statusen til den digitale signaturen bli vist.
+    Dersom du klikkar på stadfestingsknappen, vil dei ubeskytta delane bli gøymde, og statusen til den digitale signaturen bli vist.
 openpgp-partially-encrypted =
     Berre ei delmengde av denne meldinga vart kryptert ved hjelp av OpenPGP.
     Dei delane av meldinga som kan lesast og som allereie er viste, vart ikkje krypterte.
