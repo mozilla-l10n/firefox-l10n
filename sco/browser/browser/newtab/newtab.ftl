@@ -5,6 +5,12 @@
 
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
+newtab-page-title = New Tab
+newtab-settings-button =
+    .title = Mak yer New Tab page yer ain
+newtab-personalize-button-label = Personalise
+    .title = Personalise new tab
+    .aria-label = Personalise new tab
 
 ## Search box component.
 
