@@ -64,3 +64,20 @@ appmenu-help-exit-troubleshoot-mode =
     .label = Désactiver le mode de dépannage
 appmenu-help-more-troubleshooting-info =
     .label = Plus d’informations de dépannage
+
+## Action Button Context Menu
+
+toolbar-context-menu-manage-extension =
+    .label = Gérer l’extension
+    .accesskey = e
+toolbar-context-menu-remove-extension =
+    .label = Supprimer l’extension
+    .accesskey = m
+
+## Add-on removal warning
+
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = Supprimer { $name } ?
+addon-removal-confirmation-button = Supprimer
+addon-removal-confirmation-message = Supprimer { $name } ainsi que sa configuration et ses données de { -brand-short-name } ?
