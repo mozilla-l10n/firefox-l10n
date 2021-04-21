@@ -27,6 +27,11 @@ inactive-css-not-display-block-on-floated = Motorrak <strong>display</strong> ba
 inactive-css-property-is-impossible-to-override-in-visited = Ezin da <strong>{ $property }</strong> gainidatzi <strong>:visited</strong> mugatzea dela eta.
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> propietateak ez du eraginik elementu honetan ez delako kokatutako elementua.
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> propietateak ez du eraginik elementu honetan <strong>overflow:hidden</strong> ez dagoelako ezarrita.
+inactive-outline-radius-when-outline-style-auto-or-none = <strong>{ $property }</strong> propietateak ez du eraginik elementu honetan bere <strong>outline-style</strong> balioa <strong>auto</strong> edo <strong>none</strong> delako.
+inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> propietateak ez du eraginik barneko taula-elementuetan.
+inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> propietateak ez du eraginik barneko taula-elementuetan, gelaxketan salbu.
+inactive-css-not-table = <strong>{ $property }</strong> propietateak ez du eraginik elementu honetan ez delako taula bat.
+inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> propietateak ez du eraginik elementu honetan ezin delako korritu.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -53,4 +58,11 @@ inactive-text-overflow-when-no-overflow-fix = Saiatu <strong>overflow:hidden</st
 ##   $property (string) - A CSS declaration name e.g. "-moz-user-select" that can be a platform specific alias.
 ##   $rootProperty (string) - A raw CSS property name e.g. "user-select" that is not a platform specific alias.
 
+css-compatibility-default-message = <strong>{ $property }</strong> propietatea ez dago erabilgarri ondorengo nabigatzaileetan:
+css-compatibility-deprecated-experimental-message = <strong>{ $property }</strong> propietatea esperimentala zen eta zaharkituta dago orain W3C estandarretan. Ez dago erabilgarri ondorengo nabigatzaileetan:
+css-compatibility-deprecated-experimental-supported-message = <strong>{ $property }</strong> propietatea esperimentala zen eta zaharkituta dago orain W3C estandarretan.
+css-compatibility-deprecated-message = <strong>{ $property }</strong> propietatea zaharkituta dago W3C estandarretan. Ez dago erabilgarri ondorengo nabigatzaileetan:
+css-compatibility-deprecated-supported-message = <strong>{ $property }</strong> propietatea zaharkituta dago W3C estandarretan.
+css-compatibility-experimental-message = <strong>{ $property }</strong> propietatea esperimentala da. Ez dago erabilgarri ondorengo nabigatzaileetan:
+css-compatibility-experimental-supported-message = <strong>{ $property }</strong> propietatea esperimentala da.
 css-compatibility-learn-more-message = <span data-l10n-name="link">Argibide gehiago</span> <strong>{ $rootProperty }</strong> propietateari buruz
