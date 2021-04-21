@@ -9,7 +9,7 @@ update-checkForUpdatesButton =
     .label = Check fur updates
     .accesskey = C
 update-updateButton =
-    .label = Restert tae Update { -brand-shorter-name }
+    .label = Restert fur tae Update { -brand-shorter-name }
     .accesskey = R
 update-checkingForUpdates = Checkin fur updates...
 update-downloading = <img data-l10n-name="icon"/>Doonloadin update — <label data-l10n-name="download-status"/>
@@ -27,8 +27,8 @@ channel-description = The noo, ye're on the <label data-l10n-name="current-chann
 warningDesc-version = { -brand-short-name } is experimental and micht no be stieve.
 aboutdialog-help-user = { -brand-product-name } Hauners
 aboutdialog-submit-feedback = Submit Feedback
-community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> is a <label data-l10n-name="community-exp-creditsLink">warldwide community</label> wirkin thegither tae keep the Wab open, public, and wi ingang fur aw.
-community-2 = { -brand-short-name } is designt by <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, a <label data-l10n-name="community-creditsLink">warldwide community</label> wirkin thegither tae keep the Wab open, public, and wi ingang fur aw.
+community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> is a <label data-l10n-name="community-exp-creditsLink">warldwide community</label> wirkin thegither fur tae keep the Wab open, public, and wi ingang fur aw.
+community-2 = { -brand-short-name } is designt by <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, a <label data-l10n-name="community-creditsLink">warldwide community</label> wirkin thegither fur tae keep the Wab open, public, and wi ingang fur aw.
 helpus = Want tae help? <label data-l10n-name="helpus-donateLink">Mak a contreebution</label> or <label data-l10n-name="helpus-getInvolvedLink">get involved!</label>
 bottomLinks-license = Licensin Information
 bottomLinks-rights = End-Yaiser Richts

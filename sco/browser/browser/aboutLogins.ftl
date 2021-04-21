@@ -118,33 +118,33 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## notes are only valid for English. Please test in your respected locale.
 
 # This message can be seen when attempting to edit a login in about:logins on Windows.
-about-logins-edit-login-os-auth-dialog-message-win = Tae edit yer login, inpit yer Windows login parteeculars. This helps bield the siccarness o yer accoonts.
+about-logins-edit-login-os-auth-dialog-message-win = Fur tae edit yer login, inpit yer Windows login parteeculars. This helps bield the siccarness o yer accoonts.
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = edit the saved login
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
-about-logins-reveal-password-os-auth-dialog-message-win = Tae get a deek at yer passwird, inpit yer Windows login parteeculars. This helps bield the siccarness o yer accoonts.
+about-logins-reveal-password-os-auth-dialog-message-win = Fur tae get a deek at yer passwird, inpit yer Windows login parteeculars. This helps bield the siccarness o yer accoonts.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = kythe the saved passwird
 # This message can be seen when attempting to copy a password in about:logins on Windows.
-about-logins-copy-password-os-auth-dialog-message-win = Tae copy yer passwird, inpit yer Windows login parteeculars. This helps bield the siccarness o yer accoonts.
+about-logins-copy-password-os-auth-dialog-message-win = Fur tae copy yer passwird, inpit yer Windows login parteeculars. This helps bield the siccarness o yer accoonts.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = copy the saved passwird
 
 ## Master Password notification
 
-master-password-notification-message = Please enter yer maister passwird tae see saved logins & passwirds
+master-password-notification-message = Please enter yer maister passwird fur tae see saved logins & passwirds
 # This message can be seen when attempting to export a password in about:logins on Windows.
-about-logins-export-password-os-auth-dialog-message-win = Tae export yer logins, inpit yer Windows login parteeculars. This helps bield the siccarness o yer accoonts.
+about-logins-export-password-os-auth-dialog-message-win = Fur tae export yer logins, inpit yer Windows login parteeculars. This helps bield the siccarness o yer accoonts.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = export saved logins and passwirds
 
 ## Primary Password notification
 
-about-logins-primary-password-notification-message = Please inpit yer Primary Passwird tae see saved logins & passwirds
+about-logins-primary-password-notification-message = Please inpit yer Primary Passwird fur tae see saved logins & passwirds
 master-password-reload-button =
     .label = Log in
     .accesskey = L
@@ -221,7 +221,7 @@ confirm-discard-changes-dialog-confirm-button = Discaird
 ## Breach Alert notification
 
 about-logins-breach-alert-title = Wabsite Breach
-breach-alert-text = Passwirds wir leaked or reived fae this wabsite syne ye last updatit yer login parteeculars. Chynge yer passwird tae bield yer accoont.
+breach-alert-text = Passwirds wir leaked or reived fae this wabsite syne ye last updatit yer login parteeculars. Chynge yer passwird fur tae bield yer accoont.
 about-logins-breach-alert-date = This breach tuik place on { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
@@ -245,7 +245,7 @@ about-logins-vulnerable-alert-learn-more-link = Lairn mair
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = An entry fur { $loginTitle } wi thon yaiser nemme awready exists. <a data-l10n-name="duplicate-link">Gang tae existin entry?</a>
 # This is a generic error message.
-about-logins-error-message-default = A mishanter tuik place while ettlin tae save this passwird.
+about-logins-error-message-default = A mishanter tuik place while ettlin fur tae save this passwird.
 
 ## Login Export Dialog
 

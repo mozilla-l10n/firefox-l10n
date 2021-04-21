@@ -108,7 +108,7 @@ urlbar-tip-icon-description =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = Type less, find mair: Sairch { $engineName } richt fae yer address baur.
-urlbar-search-tips-redirect-2 = Stert yer sairch in the address baur tae see suggestions fae { $engineName } and yer wab-stravaigin historie.
+urlbar-search-tips-redirect-2 = Stert yer sairch in the address baur fur tae see suggestions fae { $engineName } and yer wab-stravaigin historie.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Select this shortcut tae airt-oot whit ye're efter faster.
@@ -327,7 +327,7 @@ identity-https-only-info-no-upgrade = No able tae upgrade connection fae HTTP.
 identity-permissions-storage-access-header = Cross-site cookies
 identity-permissions-storage-access-hint = These pairties can yaise cross-site cookies and site data while ye're on this site.
 identity-permissions-storage-access-learn-more = Lairn mair
-identity-permissions-reload-hint = Ye'll mebbe need tae reload the page for chynges tae wirk.
+identity-permissions-reload-hint = Ye'll mebbe need tae reload the page fur chynges tae wirk.
 identity-permissions-empty = Ye hinnae gied this site onie by-ordinar permeesions.
 identity-clear-site-data =
     .label = Dicht Cookies and Site Data...
@@ -454,7 +454,7 @@ sharing-warning-disable-for-session =
 
 ## DevTools F12 popup
 
-enable-devtools-popup-description = Tae yaise the F12 shortcut, first open DevTools through the Wab Developer menu.
+enable-devtools-popup-description = Fur tae yaise the F12 shortcut, first open DevTools through the Wab Developer menu.
 
 ## URL Bar
 
@@ -580,12 +580,12 @@ fullscreen-exit-mac-button = Ootgang fae Hale Screen (esc)
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
-pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> has control o yer pynter. Press Esc tae tak control back.
+pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> has control o yer pynter. Press Esc fur tae tak control back.
 pointerlock-warning-no-domain = This document has control o yer pynter. Press Esc tae tak control back.
 
 ## Subframe crash notification
 
-crashed-subframe-message = <strong>Pairt o this page crashed.</strong> Tae lat { -brand-product-name } ken aboot this issue and get it sortit faster, gonnae inpit a report.
+crashed-subframe-message = <strong>Pairt o this page crashed.</strong> Fur tae lat { -brand-product-name } ken aboot this issue and get it sortit faster, gonnae inpit a report.
 crashed-subframe-learnmore-link =
     .value = Lairn mair
 crashed-subframe-submit =

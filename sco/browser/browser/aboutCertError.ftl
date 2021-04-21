@@ -7,8 +7,8 @@
 cert-error-intro = { $hostname } yaises a siccarness certificate that isnae suithfest.
 cert-error-mitm-intro = Wabsites pruive their identity by wey o certificates, that are issued by certificate authorities.
 cert-error-mitm-mozilla = { -brand-short-name } is supportit by the non-profit Mozilla, that admeenisters a halely open certificate authority (CA) store. The CA stores helps mak shair that certificate authorities are follaein best practices fur yaiser siccarness.
-cert-error-mitm-connection = { -brand-short-name } yaises the Mozilla CA store tae mak shair that a connection is siccar, raither than certificates providit by the yaiser's operatin seestem. Sae, gin an antivirus program or a netwark is interceptin a connection wi a siccarness certificate issued by a CA that isnae in the Mozilla CA store, the connection is conseedert no sauf.
-cert-error-trust-unknown-issuer-intro = Somebodie could be ettlin tae impersonate the site and ye should gang nae faurer.
+cert-error-mitm-connection = { -brand-short-name } yaises the Mozilla CA store fur tae mak shair that a connection is siccar, raither than certificates providit by the yaiser's operatin seestem. Sae, gin an antivirus program or a netwark is interceptin a connection wi a siccarness certificate issued by a CA that isnae in the Mozilla CA store, the connection is conseedert no sauf.
+cert-error-trust-unknown-issuer-intro = Somebodie could be ettlin fur tae impersonate the site and ye should gang nae faurer.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-trust-unknown-issuer = Websites pruive their identity through certificates. { -brand-short-name } disnae trust { $hostname } acause its certificate issuer isnae kent, the certificate is sel-signed, or the server isnae sendin the richt intermediate certificates.
@@ -58,7 +58,7 @@ cert-error-details-cert-chain-label = Certificate chyne:
 open-in-new-window-for-csp-or-xfo-error = Open Site in New Windae
 # Variables:
 # $hostname (String) - Hostname of the website blocked by csp or xfo error.
-csp-xfo-blocked-long-desc = Tae bield yer siccarness, { $hostname } willnae let { -brand-short-name } kythe the page gin anither site has embeddit it. Tae see this page, ye'll need tae open it in a new windae.
+csp-xfo-blocked-long-desc = Fur tae bield yer siccarness, { $hostname } willnae let { -brand-short-name } kythe the page gin anither site has embeddit it. Tae see this page, ye'll need tae open it in a new windae.
 
 ## Messages used for certificate error titles
 

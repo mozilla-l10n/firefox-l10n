@@ -5,8 +5,8 @@
 navbar-tooltip-instruction =
     .value =
         { PLATFORM() ->
-            [macos] Pull doon tae kythe historie
-           *[other] Richt-click or pull doon tae kythe historie
+            [macos] Pull doon fur tae kythe historie
+           *[other] Richt-click or pull doon fur tae kythe historie
         }
 
 ## Back
