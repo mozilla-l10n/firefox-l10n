@@ -239,16 +239,26 @@ cfr-whatsnew-passwords-icon-alt = Passwird no siccar key icon
 ## Picture-in-Picture fullscreen message
 
 cfr-whatsnew-pip-fullscreen-header = Tak pictur-in-pictur hale-screen
+cfr-whatsnew-pip-fullscreen-body = When ye plank a video intae a floatin windae, ye can noo double-click on thon windae tae gang hale-screen.
+cfr-whatsnew-pip-fullscreen-icon-alt = Pictur-in-pictur icon
 
 ## Protections Dashboard message
 
+cfr-doorhanger-milestone-close-button = Sneck
+    .accesskey = C
 
 ## What’s New Panel Content for Firefox 76
 ## Protections Dashboard message
 
+cfr-whatsnew-protections-header = Bieldins at a scance
+cfr-whatsnew-protections-body = The Bieldins Dashbuird includes summary reports aboot data breaches and passwird management. Ye can noo track how monie breaches ye've sortit, and see gin onie o yer saved passwirds micht hae been makkit no siccar in a data breach.
+cfr-whatsnew-protections-cta-link = View Bieldins Dashbuird
+cfr-whatsnew-protections-icon-alt = Shield icon
 
 ## Better PDF message
 
+cfr-whatsnew-better-pdf-header = Better PDF experience
+cfr-whatsnew-better-pdf-body = PDF documents noo open straicht intae { -brand-short-name }, keepin yer warkflow whaur ye can easy rax it.
 
 ## DOH Message
 
