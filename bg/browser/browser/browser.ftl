@@ -264,6 +264,8 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = Добавяне на отметка
+bookmarks-edit-bookmark = Промяна на отметка
 bookmark-panel-cancel =
     .label = Отказ
     .accesskey = о
@@ -281,6 +283,8 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = п
 bookmark-panel-done-button =
     .label = Готово
+bookmark-panel-save-button =
+    .label = Запазване
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -318,6 +322,7 @@ identity-https-only-dropdown-off =
 identity-https-only-dropdown-off-temporarily =
     .label = Временно изключено
 identity-https-only-info-no-upgrade = Връзката не може да бъде превключена от HTTP.
+identity-permissions-storage-access-learn-more = Научете повече
 identity-permissions-reload-hint = За да бъдат приложени промените може да се наложи да презаредите страницата.
 identity-permissions-empty = Не сте дали допълнителни права на страницата.
 identity-clear-site-data =
@@ -385,6 +390,11 @@ popup-select-camera =
 popup-select-microphone =
     .value = Микрофон за споделяне:
     .accesskey = М
+popup-select-camera-device =
+    .value = Камера
+    .accesskey = К
+popup-select-camera-icon =
+    .tooltiptext = Камера
 popup-all-windows-shared = Всички видими прозорци на вашия екран ще бъдат споделени.
 popup-screen-sharing-not-now =
     .label = Не сега
@@ -610,6 +620,8 @@ eme-notifications-drm-content-playing-dismiss-accesskey = р
 
 ## Password save/update panel
 
+panel-save-update-username = Потребителско име
+panel-save-update-password = Парола
 
 ## Add-on removal warning
 

@@ -88,6 +88,9 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
+## Firefox Account Button
+
+
 ## Save Page
 
 main-context-menu-page-save =
@@ -102,6 +105,12 @@ main-context-menu-bookmark-add =
     .aria-label = Отмятане на страницата
     .accesskey = м
     .tooltiptext = Отмятане на страницата
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-edit-mac =
+    .label = Промяна на отметка
+    .accesskey = П
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-add-with-shortcut =
@@ -296,12 +305,12 @@ main-context-menu-image-email =
 main-context-menu-image-set-as-background =
     .label = Поставяне като фон на плота…
     .accesskey = П
-main-context-menu-image-info =
-    .label = Информация за изображение
-    .accesskey = И
 main-context-menu-image-set-image-as-background =
     .label = Поставяне като фон на плота…
     .accesskey = ф
+main-context-menu-image-info =
+    .label = Информация за изображение
+    .accesskey = И
 main-context-menu-image-desc =
     .label = Преглед на описание
     .accesskey = о
