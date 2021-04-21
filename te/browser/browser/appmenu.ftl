@@ -101,6 +101,11 @@ profiler-popup-presets-custom =
     .label = అభిమతం
 profiler-popup-discard-button =
     .label = విస్మరించు
+profiler-popup-capture-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧2
+       *[other] Ctrl+Shift+2
+    }
 
 ## History panel
 
@@ -147,4 +152,6 @@ appmenu-help-not-deceptive =
 
 ## More Tools
 
+appmenu-customizetoolbar =
+    .label = పనిముట్లపట్టీని మలుచుకోండి…
 appmenu-developer-tools-subheader = విహారిణి పనిముట్లు
