@@ -81,7 +81,7 @@ permissions-exceptions-cookie-desc = Você pode especificar que sites têm ou n�
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window =
-    .title = Sites permitidos - Pop-ups
+    .title = Sites permitidos - Popups
     .style = { permissions-window.style }
 permissions-exceptions-popup-desc = Você pode especificar que sites têm permissão para abrir janelas popup. Digite o endereço exato de um site e clique em Permitir.
 
