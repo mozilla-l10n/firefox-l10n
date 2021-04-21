@@ -201,13 +201,28 @@ newtab-section-header-pocket = Recommendit by { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
+newtab-empty-section-highlights = Stairt stravaigin, and we'll shaw some o the smashin airticles, videos, and ither pages ye've recently veesitit or buikmerkt here.
+# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
+# Variables:
+#  $provider (String): Name of the content provider for this section, e.g "Pocket".
+newtab-empty-section-topstories = Ye're aw caught up. Check back efter fur mair tap stories fae { $provider }. Cannae wait? Wale a popular topic tae find mair smashin stories fae aroond the wab.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
+newtab-discovery-empty-section-topstories-header = Ye're aw caught up!
+newtab-discovery-empty-section-topstories-content = Check back efter for mair stories.
+newtab-discovery-empty-section-topstories-try-again-button = Try Aince Mair
+newtab-discovery-empty-section-topstories-loading = Loadin...
+# Displays when a layout in a section took too long to fetch articles.
+newtab-discovery-empty-section-topstories-timed-out = Och! We'd nearly loadit this section, but it didnae quite happen.
 
 ## Pocket Content Section.
 
+# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
+newtab-pocket-read-more = Popular Topics:
+newtab-pocket-more-recommendations = Mair Recommendations
 newtab-pocket-learn-more = Lairn mair
+newtab-pocket-cta-button = Get { -pocket-brand-name }
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
