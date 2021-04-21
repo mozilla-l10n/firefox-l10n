@@ -4,3 +4,6 @@
 
 experimental-features-devtools-color-scheme-simulation =
     .label = Garatzaile-tresnak: kolore-eskemaren simulazioa
+experimental-features-http3 =
+    .label = HTTP/3 protokoloa
+experimental-features-http3-description = HTTP/3 protokoloaren euskarri esperimentala.

@@ -55,6 +55,20 @@ about-processes-extension-process-name = Hedapenak ({ $pid } prozesua)
 
 ## Duration units
 
+duration-unit-ns = ns
+duration-unit-us = µs
+duration-unit-ms = ms
+duration-unit-s = s
+duration-unit-m = m
+duration-unit-h = h
+duration-unit-d = e
 
 ## Memory units
 
+memory-unit-B = B
+memory-unit-KB = KB
+memory-unit-MB = MB
+memory-unit-GB = GB
+memory-unit-TB = TB
+memory-unit-PB = PB
+memory-unit-EB = EB
