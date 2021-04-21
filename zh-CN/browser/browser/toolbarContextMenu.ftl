@@ -31,7 +31,7 @@ toolbar-context-menu-reopen-closed-tabs =
     .label =
         { $tabCount ->
             [1] 恢复关闭的标签页
-           *[other] 恢复关闭的 { $count } 个标签页
+           *[other] 恢复关闭的 { $tabCount } 个标签页
         }
     .accesskey = o
 toolbar-context-menu-manage-extension =
