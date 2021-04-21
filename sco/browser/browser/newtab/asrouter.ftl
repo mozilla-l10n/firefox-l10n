@@ -195,6 +195,7 @@ cfr-doorhanger-socialtracking-close-button = Sneck
     .accesskey = C
 cfr-doorhanger-socialtracking-dont-show-again = Dinnae shaw me messages like this oniemair
     .accesskey = D
+cfr-doorhanger-socialtracking-heading = { -brand-short-name } stapped a social netwark fae trackin ye here
 
 ## Enhanced Tracking Protection Milestones
 
