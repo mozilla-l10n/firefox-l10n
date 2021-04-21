@@ -41,6 +41,20 @@ experimental-features-devtools-compatibility-panel-description = Zure aplikazioa
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Cookieak: SameSite=Lax lehenespenez
 experimental-features-cookie-samesite-lax-by-default2-description = Tratatu cookieak lehenespenez "SameSite=Lax" balira bezala ez denean "SameSite" atributurik zehazten. Garatzaileek eurek aukeratu behar dute uneko mugarik gabeko erabilpenera esplizituki "SameSite=None" ezarriz.
+# Do not translate 'SameSite', 'Lax' and 'None'.
+experimental-features-cookie-samesite-none-requires-secure2 =
+    .label = Cookieak: SameSite=None ezartzeak secure atributua behar du
+experimental-features-cookie-samesite-none-requires-secure2-description = "SameSite=None" atributua duten cookiek secure atributua behar dute. Eginbide honek "Cookieak: SameSite=Lax lehenespenez" eginbidea ere behar du.
+# about:home should be kept in English, as it refers to the the URI for
+# the internal default home page.
+experimental-features-abouthome-startup-cache =
+    .label = about:home abioko cachea
+experimental-features-abouthome-startup-cache-description = Abioan lehenespenez kargatzen den hasierako about:home dokumenturako cachea. Honen helburua da abioko errendimendua hobetzea.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-cookie-samesite-schemeful =
+    .label = Cookieak: eskemadun SameSite
+experimental-features-cookie-samesite-schemeful-description = Domeinu bereko baina eskema desberdineko cookieak (adib. http://adibidea.eus eta https://adibidea.eus) gune-arteko gisa, eta ez gune bereko gisa, tratatu. Segurtasuna hobetzen du baina haustura eragin lezake.
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
     .label = Garatzaile-tresnak: zerbitzu-langileen arazketa
