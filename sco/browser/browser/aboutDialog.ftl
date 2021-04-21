@@ -21,7 +21,7 @@ update-adminDisabled = Updates disabled by yer seestem admeenistrator
 update-noUpdatesFound = { -brand-short-name } is up tae date
 update-otherInstanceHandlingUpdates = { -brand-short-name } is bein updatit by anither instance
 update-manual = Updates available at <label data-l10n-name="manual-link"/>
-update-unsupported = Ye cannae mak ony mair updates on this seestem. <label data-l10n-name="unsupported-link">Lairn mair</label>
+update-unsupported = Ye cannae mak onie mair updates on this seestem. <label data-l10n-name="unsupported-link">Lairn mair</label>
 update-restarting = Restertin...
 channel-description = The noo, ye're on the <label data-l10n-name="current-channel"></label> update channel.
 warningDesc-version = { -brand-short-name } is experimental and micht no be stieve.

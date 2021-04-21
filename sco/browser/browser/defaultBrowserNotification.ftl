@@ -16,6 +16,6 @@ default-browser-prompt-title-pin = Mak { -brand-short-name } yer main wab-strava
 default-browser-prompt-message-pin = Keep { -brand-short-name } at haun — mak it yer staunart wab-stravaiger and peen it tae yer taskbaur.
 default-browser-prompt-button-primary-pin = Mak main wab-stravaiger
 default-browser-prompt-title-alt = Mak { -brand-short-name } yer staunart wab-stravaiger?
-default-browser-prompt-message-alt = Get speed, saufty and preevacy ony time ye stravaig.
+default-browser-prompt-message-alt = Get speed, saufty and preevacy onie time ye stravaig.
 default-browser-prompt-button-primary-alt = Set as staunart wab-stravaiger
 default-browser-prompt-button-secondary = No Jist Noo

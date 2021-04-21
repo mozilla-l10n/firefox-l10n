@@ -114,12 +114,12 @@ cfr-whatsnew-tracking-blocked-title =
 cfr-whatsnew-tracking-blocked-subtitle = Syne { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = View Report
 cfr-whatsnew-lockwise-backup-title = Back up yer passwirds
-cfr-whatsnew-lockwise-backup-body = Noo mak siccar passwirds ye can get ingang tae onywhaur ye sign in.
+cfr-whatsnew-lockwise-backup-body = Noo mak siccar passwirds ye can get ingang tae oniewhaur ye sign in.
 cfr-whatsnew-lockwise-backup-link-text = Turn on backups
 cfr-whatsnew-lockwise-take-title = Tak yer passwirds wi ye
 cfr-whatsnew-lockwise-take-body =
     The { -lockwise-brand-short-name } mobile app lats ye hae siccar ingang tae yer
-    backed up passwirds fae onywhaur.
+    backed up passwirds fae oniewhaur.
 cfr-whatsnew-lockwise-take-link-text = Get the app
 
 ## Search Bar
@@ -139,7 +139,7 @@ cfr-whatsnew-pip-cta = Lairn mair
 
 ## Permission Prompt
 
-cfr-whatsnew-permission-prompt-header = No as mony scunnersome site lowp-ups
+cfr-whatsnew-permission-prompt-header = No as monie scunnersome site lowp-ups
 cfr-whatsnew-permission-prompt-body = { -brand-shorter-name } noo blocks sites fae automatically speirin tae send ye lowp-up messages.
 cfr-whatsnew-permission-prompt-cta = Lairn mair
 
@@ -161,7 +161,7 @@ cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } can block 
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = Get this buikmerk on yer phone
-cfr-doorhanger-sync-bookmarks-body = Tak yer buikmerks, passwirds, historie and mair onywhaur ye're signed intae { -brand-product-name }.
+cfr-doorhanger-sync-bookmarks-body = Tak yer buikmerks, passwirds, historie and mair oniewhaur ye're signed intae { -brand-product-name }.
 cfr-doorhanger-sync-bookmarks-ok-button = Turn on { -sync-brand-short-name }
     .accesskey = T
 
@@ -176,7 +176,7 @@ cfr-doorhanger-sync-logins-ok-button = Turn on { -sync-brand-short-name }
 
 cfr-doorhanger-send-tab-header = Read this on the muive
 cfr-doorhanger-send-tab-recipe-header = Tak this recipe tae the kitchen
-cfr-doorhanger-send-tab-body = Send Tab lats ye share this link wi nae fankles tae yer phone or onywhaur ye're signed in tae { -brand-product-name }.
+cfr-doorhanger-send-tab-body = Send Tab lats ye share this link wi nae fankles tae yer phone or oniewhaur ye're signed in tae { -brand-product-name }.
 cfr-doorhanger-send-tab-ok-button = Try Send Tab
     .accesskey = T
 
