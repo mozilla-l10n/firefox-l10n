@@ -295,7 +295,7 @@ bookmark-panel =
 
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
-identity-site-information = { $host } ostalariaren guneko informazioa
+identity-site-information = { $host } ostalariaren informazioa
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 identity-header-security-with-host =
