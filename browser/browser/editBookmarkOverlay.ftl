@@ -5,38 +5,35 @@
 bookmark-overlay-name =
     .value = Аты:
     .accesskey = А
-
 bookmark-overlay-location =
     .value = Адресі:
     .accesskey = д
-
 bookmark-overlay-folder =
     .value = Бума:
-
+bookmark-overlay-name-2 =
+    .value = Аты
+    .accesskey = т
+bookmark-overlay-url =
+    .value = URL
+    .accesskey = U
 bookmark-overlay-choose =
     .label = Таңдау…
-
 bookmark-overlay-folders-expander =
     .tooltiptext = Бетбелгілер бумаларының барлығын көрсету
     .tooltiptextdown = { bookmark-overlay-folders-expander.tooltiptext }
     .tooltiptextup = Жасыру
-
 bookmark-overlay-new-folder-button =
     .label = Жаңа бума
     .accesskey = б
-
 bookmark-overlay-tags =
     .value = Белгілер:
     .accesskey = л
-
 bookmark-overlay-tags-empty-description =
     .placeholder = Белгілерді үтірлермен ажыратып жазыңыз
-
 bookmark-overlay-tags-expander =
     .tooltiptext = Белгілердің барлығын көрсету
     .tooltiptextdown = { bookmark-overlay-tags-expander.tooltiptext }
     .tooltiptextup = Жасыру
-
 bookmark-overlay-keyword =
     .value = Қысқаша кілт сөзі:
     .accesskey = ш

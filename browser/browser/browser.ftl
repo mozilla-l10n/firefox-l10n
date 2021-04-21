@@ -264,6 +264,8 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = Бетбелгіні қосу
+bookmarks-edit-bookmark = Бетбелгіні түзету
 bookmark-panel-cancel =
     .label = Бас тарту
     .accesskey = с
@@ -281,6 +283,8 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = с
 bookmark-panel-done-button =
     .label = Дайын
+bookmark-panel-save-button =
+    .label = Сақтау
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -322,6 +326,7 @@ identity-https-only-info-turn-off2 = Егер парақ бұзылған сия
 identity-https-only-info-no-upgrade = Байланысты HTTP-дан жаңарту мүмкін емес.
 identity-permissions-storage-access-header = Сайтаралық cookie файлдары
 identity-permissions-storage-access-hint = Бұл тараптар сіз осы сайтта болған кезде сайтаралық cookie файлдарын және сайт деректерін қолдана алады.
+identity-permissions-storage-access-learn-more = Көбірек білу
 identity-permissions-reload-hint = Өзгерістер іске асуы үшін бұл парақты қайта жүктеуіңіз керек болуы мүмкін.
 identity-permissions-empty = Бұл сайтқа арнайы рұқсаттарды берген жоқсыз.
 identity-clear-site-data =
@@ -644,6 +649,11 @@ save-to-pocket-button =
 
 ## Customize Toolbar Buttons
 
+# Variables:
+#  $shortcut (String): keyboard shortcut to open the add-ons manager
+toolbar-addons-themes-button =
+    .label = Қосымшалар және темалар
+    .tooltiptext = Қосымшалар және темаларыңызды басқару ({ $shortcut })
 
 ## More items
 
