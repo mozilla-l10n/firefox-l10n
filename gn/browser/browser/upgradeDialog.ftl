@@ -12,6 +12,7 @@
 upgrade-dialog-new-title = Emomaitei { -brand-short-name } pyahúpe
 upgrade-dialog-new-subtitle = Ojejapo oje’ói hag̃ua ohosehápe, pya’eve
 upgrade-dialog-new-item-menu-title = Tembipuru renda ha poravorã oikoitéva
+upgrade-dialog-new-item-menu-description = Emotenonde umi mba’e emomba’evéva ejuhu hag̃ua eikotevẽva.
 upgrade-dialog-new-item-tabs-title = Tendayke ag̃aguáva
 upgrade-dialog-new-item-icons-title = Ta’ãnga’i pyahu ha ñe’ẽmondo hesakãva
 upgrade-dialog-new-item-icons-description = Nepytyvõ ejuhu hag̃ua tape jepoko vevúipe.
