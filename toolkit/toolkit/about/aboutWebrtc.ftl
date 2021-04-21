@@ -36,6 +36,8 @@ about-webrtc-local-sdp-heading-answer = SDP lokala (Erantzuna)
 about-webrtc-remote-sdp-heading = Urruneko SDP
 about-webrtc-remote-sdp-heading-offer = Urruneko SDP (Eskaintza)
 about-webrtc-remote-sdp-heading-answer = Urruneko SDP (Erantzuna)
+about-webrtc-sdp-history-heading = SDP historia
+about-webrtc-sdp-parsing-errors-heading = SDP analisi-erroreak
 
 ##
 
@@ -56,14 +58,10 @@ about-webrtc-ice-pair-bytes-sent = Bidalitako byteak:
 about-webrtc-ice-pair-bytes-received = Jasotako byteak:
 about-webrtc-ice-component-id = Osagaiaren IDa
 
-##
-
-
 ## "Avg." is an abbreviation for Average. These are used as data labels.
 
-
-##
-
+about-webrtc-avg-bitrate-label = B.b.ko bit-emaria:
+about-webrtc-avg-framerate-label = B.b.ko marko-emaria:
 
 ## These adjectives are used to label a line of statistics collected for a peer
 ## connection. The data represents either the local or remote end of the
@@ -120,8 +118,19 @@ about-webrtc-fold-show-msg = erakutsi xehetasunak
     .title = egin klik atal hau zabaltzeko
 about-webrtc-fold-hide-msg = ezkutatu xehetasunak
     .title = egin klik atal hau tolesteko
+about-webrtc-dropped-frames-label = Alboratutako markoak:
+about-webrtc-discarded-packets-label = Baztertutako paketeak:
 about-webrtc-decoder-label = Deskodetzailea
 about-webrtc-encoder-label = Kodetzailea
+about-webrtc-show-tab-label = Erakutsi fitxa
+about-webrtc-width-px = Zabalera (px)
+about-webrtc-height-px = Altuera (px)
+about-webrtc-consecutive-frames = Marko jarraiak
+about-webrtc-time-elapsed = Igarotako denbora (s)
+about-webrtc-estimated-framerate = Zenbatetsitako marko-emaria
+about-webrtc-rotation-degrees = Biraketa (graduak)
+about-webrtc-first-frame-timestamp = Lehen markoa jaso zeneko denbora-marka
+about-webrtc-last-frame-timestamp = Azken markoa jaso zeneko denbora-marka
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
