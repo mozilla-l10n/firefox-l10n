@@ -18,6 +18,7 @@ certmgr-mine = Zu identifikatzen zaituzten erakunde hauen ziurtagiriak dituzu ar
 certmgr-remembered = Ziurtagiri hauek webguneetan zu identifikatzeko erabiltzen dira
 certmgr-people = Pertsona hauek identifikatzen dituzten ziurtagiriak dituzu artxibatuta
 certmgr-servers = Zerbitzari hauek identifikatzen dituzten ziurtagiriak dituzu artxibatuta
+certmgr-server = Sarrera hauek zerbitzariko ziurtagirien errore-salbuespenak identifikatzen dituzte
 certmgr-ca = Autoritate ziurtagiri-emaile hauek identifikatzen dituzten ziurtagiriak dituzu artxibatuta
 certmgr-detail-general-tab-title =
     .label = Orokorra
@@ -161,6 +162,10 @@ delete-ssl-cert-title =
     .title = Ezabatu zerbitzari ziurtagiri salbuespenak
 delete-ssl-cert-confirm = Ziur zaude zerbitzari salbuespen hauek ezabatu nahi dituzula?
 delete-ssl-cert-impact = Zerbitzari salbuespena ezabatzen baduzu, gune honentza segurtasun egiaztapen arrunak berregingo dira eta baliozko ziurtagiri bat erabiltzea behar da.
+delete-ssl-override-title =
+    .title = Ezabatu zerbitzariko ziurtagiri-salbuespena
+delete-ssl-override-confirm = Ziur zaude zerbitzariko salbuespen hau ezabatu nahi duzula?
+delete-ssl-override-impact = Zerbitzariko salbuespen bat ezabatzen baduzu, zerbitzari horretarako ohiko segurtasun-egiaztapenak berrezarriko dituzu eta baliozko ziurtagiri bat erabiltzea eskatuko da.
 delete-ca-cert-title =
     .title = Ezabatu edo mesfidatu ZA ziurtagiriak
 delete-ca-cert-confirm = ZA ziurtagiri hauek ezabatzea eskatu duzu. Integratutako ziurtagirientzat fidagarritasun guztia kenduko da eta eragin berdina du. Ziur zaude ezabatu edo mesfidatu nahi duzula?
@@ -208,6 +213,8 @@ cert-not-verified-issuer-unknown = Ezin izan da ziurtagiri hau egiaztatu, jaulki
 cert-not-verified-ca-invalid = Ezin izan da ziurtagiri hau egiaztatu, AZ ziurtagiria baliozkoa ez delako.
 cert-not-verified_algorithm-disabled = Ezin izan da ziurtagiri hau egiaztatu segurua ez izateagatik desgaituta dagoen algoritmo batekin sinatuta dagoelako.
 cert-not-verified-unknown = Ezin izan da ziurtagiri hau egiaztatu, ezagutzen ez diren arrazoiengatik.
+# Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
+send-no-client-certificate = Ez bidali bezero-ziurtagiririk
 # Used when no cert is stored for an override
 no-cert-stored-for-override = (Ez gordea)
 

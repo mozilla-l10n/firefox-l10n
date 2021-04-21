@@ -344,6 +344,18 @@ about-logins-import-report-added =
     { $count ->
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Saio-hasiera berri gehitu dira</div>
     }
+about-logins-import-report-modified =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Saio-hasiera eguneratu dira (lehendik zeudenak)</div>
+    }
+about-logins-import-report-no-change =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Saio-hasiera bikoiztu</div> <div data-l10n-name="not-imported">(ez dira inportatu)</div>
+    }
+about-logins-import-report-error =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Errore</div> <div data-l10n-name="not-imported">(ez dira inportatu)</div>
+    }
 
 ## Logins import report page
 
