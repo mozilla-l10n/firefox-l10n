@@ -8,6 +8,8 @@
 
 ## New changes screen
 
+upgrade-dialog-new-primary-primary-button = { -brand-short-name } als primären Browser festlegen
+    .title = Setzt { -brand-short-name } als Standardbrowser heftet es an die Taskleiste
 upgrade-dialog-new-primary-default-button = { -brand-short-name } als Standardbrowser festlegen
 upgrade-dialog-new-secondary-button = Nicht jetzt
 

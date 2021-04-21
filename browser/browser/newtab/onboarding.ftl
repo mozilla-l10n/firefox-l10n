@@ -180,7 +180,7 @@ onboarding-multistage-pin-default-subtitle = Schnelles, sicheres und privates Su
 onboarding-multistage-pin-default-waiting-subtitle = Wähle { -brand-short-name } als Webbrowser, wenn deine Einstellungen sich öffnen
 # The "settings" here refers to "Windows 10 Settings App" and not the browser's
 onboarding-multistage-pin-default-help-text = Dies heftet { -brand-short-name } an die Taskleiste und öffnet die Einstellungen
-onboarding-multistage-pin-default-primary-button-label = { -brand-short-name } zu meinem Standardbrowser machen
+onboarding-multistage-pin-default-primary-button-label = { -brand-short-name } als primären Browser festlegen
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Importiere deine Passwörter, Lesezeichen und <span data-l10n-name="zap">mehr</span>
@@ -257,6 +257,8 @@ onboarding-multistage-theme-description-alpenglow =
 
 ## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 
+mr1-onboarding-set-default-pin-primary-button-label = { -brand-short-name } als primären Browser festlegen
+    .title = Setzt { -brand-short-name } als Standardbrowser und heftet es an die Taskleiste
 mr1-onboarding-set-default-only-primary-button-label = { -brand-short-name } als Standardbrowser festlegen
 
 ## Please make sure to split the content of the title attribute into lines whose
