@@ -196,6 +196,8 @@ cfr-doorhanger-socialtracking-close-button = Sneck
 cfr-doorhanger-socialtracking-dont-show-again = Dinnae shaw me messages like this oniemair
     .accesskey = D
 cfr-doorhanger-socialtracking-heading = { -brand-short-name } stapped a social netwark fae trackin ye here
+cfr-doorhanger-socialtracking-description = Yer preevacy maitters. { -brand-short-name } noo blocks common social media trackers, pittin leemits on how muckle data they can gaither aboot whit ye're daein online.
+cfr-doorhanger-fingerprinters-heading = { -brand-short-name } blockit a fingirprenter on this page
 
 ## Enhanced Tracking Protection Milestones
 
