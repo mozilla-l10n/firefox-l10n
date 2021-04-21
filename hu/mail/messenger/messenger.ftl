@@ -64,3 +64,20 @@ appmenu-help-exit-troubleshoot-mode =
     .label = Hibakeresési mód kikapcsolása
 appmenu-help-more-troubleshooting-info =
     .label = További hibakeresési információ
+
+## Action Button Context Menu
+
+toolbar-context-menu-manage-extension =
+    .label = Kiegészítő kezelése
+    .accesskey = K
+toolbar-context-menu-remove-extension =
+    .label = Kiegészítő eltávolítása
+    .accesskey = t
+
+## Add-on removal warning
+
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = Eltávoltja a következőt: { $name }?
+addon-removal-confirmation-button = Eltávolítás
+addon-removal-confirmation-message = Eltávolítja a(z) { $name } kiegészítőt, valamint a beállításait és adatait a { -brand-short-name }ből?
