@@ -161,15 +161,28 @@ cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } can block 
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = Get this buikmerk on yer phone
+cfr-doorhanger-sync-bookmarks-body = Tak yer buikmerks, passwirds, historie and mair onywhaur ye're signed intae { -brand-product-name }.
+cfr-doorhanger-sync-bookmarks-ok-button = Turn on { -sync-brand-short-name }
+    .accesskey = T
 
 ## Login Sync
 
+cfr-doorhanger-sync-logins-header = Never Loss a Passwird Again
+cfr-doorhanger-sync-logins-body = Store and sync yer passwirds siccar tae aw yer devices.
+cfr-doorhanger-sync-logins-ok-button = Turn on { -sync-brand-short-name }
+    .accesskey = T
 
 ## Send Tab
 
+cfr-doorhanger-send-tab-header = Read this on the muive
+cfr-doorhanger-send-tab-recipe-header = Tak this recipe tae the kitchen
+cfr-doorhanger-send-tab-body = Send Tab lats ye share this link wi nae fankles tae yer phone or onywhaur ye're signed in tae { -brand-product-name }.
+cfr-doorhanger-send-tab-ok-button = Try Send Tab
+    .accesskey = T
 
 ## Firefox Send
 
+cfr-doorhanger-firefox-send-header = Share this PDF siccar
 
 ## Social Tracking Protection
 

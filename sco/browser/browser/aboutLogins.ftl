@@ -210,7 +210,7 @@ about-logins-confirm-remove-all-sync-dialog-message =
        *[other] This will remuive aw logins ye've saved tae { -brand-short-name } on aw devices synced tae yer { -fxaccount-brand-name }. Forby, this will remuive breach alerts that kythe here. Ye'll no be able tae undae this action.
     }
 about-logins-confirm-export-dialog-title = Export logins and passwirds
-about-logins-confirm-export-dialog-message = Yer passwirds will be saved as readable text (e.g., BadP@ssw1rd) sae that onybody whae can open the exportit file can see them.
+about-logins-confirm-export-dialog-message = Yer passwirds will be saved as readable text (e.g., BadP@ssw1rd) sae that onybodie whae can open the exportit file can see them.
 about-logins-confirm-export-dialog-confirm-button = Export…
 about-logins-alert-import-title = Inbringin Feenisht
 about-logins-alert-import-message = Luik at detailed Inbringin Summary
