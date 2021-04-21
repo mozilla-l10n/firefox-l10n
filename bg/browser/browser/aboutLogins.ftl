@@ -18,6 +18,7 @@ login-filter =
 create-login-button = Нова регистрация
 fxaccounts-sign-in-text = Вземете паролите си на всички ваши устройства
 fxaccounts-sign-in-button = Вписване в { -sync-brand-short-name }
+fxaccounts-sign-in-sync-button = Вписване в Sync
 fxaccounts-avatar-button =
     .title = Управление на сметката
 
@@ -283,7 +284,12 @@ about-logins-import-dialog-error-unable-to-read-description = Уверете с�
 about-logins-import-dialog-error-no-logins-imported = Не са внесени регистраци
 about-logins-import-dialog-error-learn-more = Научете повече
 about-logins-import-dialog-error-try-again = Нов опит…
+about-logins-import-dialog-error-try-import-again = Опитайте внасянето отново ...
 about-logins-import-dialog-error-cancel = Отказ
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = Ред { $number }
 
 ##
 ## Variables:
