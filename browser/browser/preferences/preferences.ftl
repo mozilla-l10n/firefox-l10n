@@ -1021,6 +1021,7 @@ content-blocking-etp-custom-desc = Causissètz quins traçadors e scripts cal bl
 content-blocking-private-windows = Contengut utilizat per pistar dins las fenèstras de navegacion privada
 content-blocking-cross-site-cookies = Cookies intersites
 content-blocking-cross-site-tracking-cookies = Cookies de seguiment entre sites
+content-blocking-all-cross-site-cookies-private-windows = Cookies intersites en fenèstras privadas
 content-blocking-cross-site-tracking-cookies-plus-isolate = Los traçadors intersites, e isolar los cookies restants
 content-blocking-social-media-trackers = Traçadors de malhums socials
 content-blocking-all-cookies = Totes los cookies
