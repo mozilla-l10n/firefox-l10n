@@ -183,9 +183,18 @@ cfr-doorhanger-send-tab-ok-button = Try Send Tab
 ## Firefox Send
 
 cfr-doorhanger-firefox-send-header = Share this PDF siccar
+cfr-doorhanger-firefox-send-body = Keep yer sensitive documents sauf fae keekin een wi end-tae-end encryption that disappears when ye're duin.
+cfr-doorhanger-firefox-send-ok-button = Try { -send-brand-name }
+    .accesskey = T
 
 ## Social Tracking Protection
 
+cfr-doorhanger-socialtracking-ok-button = See Bieldins
+    .accesskey = P
+cfr-doorhanger-socialtracking-close-button = Sneck
+    .accesskey = C
+cfr-doorhanger-socialtracking-dont-show-again = Dinnae shaw me messages like this oniemair
+    .accesskey = D
 
 ## Enhanced Tracking Protection Milestones
 
