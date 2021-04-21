@@ -281,7 +281,7 @@ cfr-doorhanger-fission-secondary-button = Les meir
 ## What's new: Cookies message
 
 cfr-whatsnew-clear-cookies-header = Automatisk vern mot lure sporingsmetodar
-cfr-whatsnew-clear-cookies-body = Nokre sporarar vidarekoplar deg til andre nettstadar som i hemmelegheit stiller inn infokapslar. { -brand-short-name } fjernar no automatisk infokapslane slik at du ikkje kan bli spora.
+cfr-whatsnew-clear-cookies-body = Nokre sporarar vidarekoplar deg til andre nettstadar som i løynd stiller inn infokapslar. { -brand-short-name } fjernar no automatisk infokapslane slik at du ikkje kan bli spora.
 cfr-whatsnew-clear-cookies-image-alt = Illustrasjon for blokkert infokapsel
 
 ## What's new: Media controls message
@@ -298,7 +298,7 @@ cfr-whatsnew-search-shortcuts-body = Når nå du no skriv inn ein søkjemotor el
 ## What's new: Cookies protection
 
 cfr-whatsnew-supercookies-header = Vern mot vondsinna super-infokapslar
-cfr-whatsnew-supercookies-body = Nettstadar kan i hemmelegheit leggje til ein «super-infokapsel» i nettlesaren din som kan følgje deg rundt på nettet, sjølv etter at du har fjerna infokapslane dine. { -brand-short-name } gir no eit sterkt vern mot super-infokapslar, slik at dei ikkje kan brukast til å spore aktivitetane dine på nettet frå ein nettstad til ein annan.
+cfr-whatsnew-supercookies-body = Nettstadar kan i løynd leggje til ein «super-infokapsel» i nettlesaren din som kan følgje deg rundt på nettet, sjølv etter at du har fjerna infokapslane dine. { -brand-short-name } gir no eit sterkt vern mot super-infokapslar, slik at dei ikkje kan brukast til å spore aktivitetane dine på nettet frå ein nettstad til ein annan.
 
 ## What's new: Better bookmarking
 
