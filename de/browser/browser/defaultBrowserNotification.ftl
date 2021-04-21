@@ -16,4 +16,7 @@ default-browser-prompt-title-pin = { -brand-short-name } als primären Browser f
 default-browser-prompt-message-pin = Behalten Sie { -brand-short-name } immer zur Hand – legen Sie es Standardbrowser fest und heften Sie es an die Taskleiste.
 default-browser-prompt-button-primary-pin = Als primären Browser festlegen
 default-browser-prompt-title-alt = { -brand-short-name } als Standardbrowser festlegen?
+default-browser-prompt-message-alt = Holen Sie sich Geschwindigkeit, Sicherheit und Datenschutz bei jedem Surfen.
 default-browser-prompt-button-primary-alt = Als Standardbrowser festlegen
+default-browser-prompt-checkbox-not-again-label = Diese Nachricht nicht mehr anzeigen
+default-browser-prompt-button-secondary = Nicht jetzt

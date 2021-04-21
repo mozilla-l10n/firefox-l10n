@@ -257,12 +257,64 @@ onboarding-multistage-theme-description-alpenglow =
 
 ## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 
+# This button will open system settings to turn on prefers-reduced-motion
+mr1-onboarding-reduce-motion-button-label = Animationen deaktivieren
+mr1-onboarding-welcome-header = Willkommen bei { -brand-short-name }
 mr1-onboarding-set-default-pin-primary-button-label = { -brand-short-name } als primären Browser festlegen
     .title = Setzt { -brand-short-name } als Standardbrowser und heftet es an die Taskleiste
 mr1-onboarding-set-default-only-primary-button-label = { -brand-short-name } als Standardbrowser festlegen
+mr1-onboarding-set-default-secondary-button-label = Nicht jetzt
+mr1-onboarding-sign-in-button-label = Anmelden
+mr1-onboarding-import-subtitle = Importiere deine Passwörter, <br/>Lesezeichen und mehr.
+# The primary import button label will depend on whether we can detect which browser was used to download Firefox.
+# Variables:
+#   $previous (Str) - Previous browser name, such as Edge, Chrome
+mr1-onboarding-import-primary-button-label-attribution = Aus { $previous } importieren
+# This string will be used in cases where we can't detect the previous browser name.
+mr1-onboarding-import-primary-button-label-no-attribution = Aus vorherigem Browser importieren
+mr1-onboarding-import-secondary-button-label = Nicht jetzt
+mr1-onboarding-theme-subtitle = Personalisiere { -brand-short-name } mit einem Theme.
+mr1-onboarding-theme-primary-button-label = Theme speichern
+mr1-onboarding-theme-secondary-button-label = Nicht jetzt
+# System theme uses operating system color settings
+mr1-onboarding-theme-label-system = System-Theme
+mr1-onboarding-theme-label-light = Hell
+mr1-onboarding-theme-label-dark = Dunkel
+# "Alpenglow" here is the name of the theme, and should be kept in English.
+mr1-onboarding-theme-label-alpenglow = Alpenglow
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of system theme
+mr1-onboarding-theme-tooltip-system =
+    .title =
+        Dem Theme des Betriebssystems
+        für Schaltflächen, Menüs und Fenster folgen.
+# Input description for system theme
+mr1-onboarding-theme-description-system =
+    .aria-description =
+        Dem Theme des Betriebssystems
+        für Schaltflächen, Menüs und Fenster folgen.
+# Tooltip displayed on hover of light theme
+mr1-onboarding-theme-tooltip-light =
+    .title =
+        Ein helles Theme für Schaltflächen,
+        Menüs und Fenster verwenden.
+# Input description for light theme
+mr1-onboarding-theme-description-light =
+    .aria-description =
+        Ein helles Theme für Schaltflächen,
+        Menüs und Fenster verwenden.
+# Tooltip displayed on hover of dark theme
+mr1-onboarding-theme-tooltip-dark =
+    .title =
+        Ein dunkles Theme für Schaltflächen,
+        Menüs und Fenster verwenden.
+# Input description for dark theme
+mr1-onboarding-theme-description-dark =
+    .aria-description =
+        Ein dunkles Theme für Schaltflächen,
+        Menüs und Fenster verwenden.
