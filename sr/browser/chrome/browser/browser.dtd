@@ -227,7 +227,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY saveToPocketCmd.label        "Сачувај страницу у Pocket-у">
 <!ENTITY pocketMenuitem.label         "Прикажи листу у Pocket-у">
 
-<!ENTITY emailPageCmd.label           "Пошаљи линк имејлом…">
+<!ENTITY emailPageCmd.label           "Пошаљи везу имејлом…">
 
 <!ENTITY fullZoom.label                 "Зумирање">
 

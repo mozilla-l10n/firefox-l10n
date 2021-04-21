@@ -126,7 +126,7 @@ cfr-whatsnew-lockwise-take-link-text = Преузмите апликацију
 ## Search Bar
 
 cfr-whatsnew-searchbar-title = Куцајте мање, нађите више помоћу траке за адресу
-cfr-whatsnew-searchbar-body-topsites = Сада изаберите траку за адресу и оквир ће се проширити са линковима до најпосећенијих сајтова.
+cfr-whatsnew-searchbar-body-topsites = Сада изаберите траку за адресу и оквир ће се проширити са везама до најпосећенијих сајтова.
 
 ## Search bar
 
@@ -184,14 +184,14 @@ cfr-doorhanger-sync-logins-ok-button = Укључи { -sync-brand-short-name }
 
 cfr-doorhanger-send-tab-header = Прочитајте ово у ходу
 cfr-doorhanger-send-tab-recipe-header = Понесите овај рецепт у кухињу
-cfr-doorhanger-send-tab-body = Слање картица олакшава дељење линкова са телефоном или другим уређајима на којима сте пријављени на { -brand-product-name }.
+cfr-doorhanger-send-tab-body = Слање картица олакшава дељење веза са телефоном или другим уређајима на којима сте пријављени на { -brand-product-name }.
 cfr-doorhanger-send-tab-ok-button = Испробај слање картица
     .accesskey = И
 
 ## Firefox Send
 
 cfr-doorhanger-firefox-send-header = Делите овај PDF безбедно
-cfr-doorhanger-firefox-send-body = Заштитите важне документе шифровањем с краја на крај и линком који истиче када завршите.
+cfr-doorhanger-firefox-send-body = Заштитите важне документе шифровањем с краја на крај и везом који истиче када завршите.
 cfr-doorhanger-firefox-send-ok-button = Испробајте { -send-brand-name(case: "acc") }
     .accesskey = И
 
@@ -282,8 +282,6 @@ cfr-whatsnew-better-pdf-body = PDF документи се сада отвара
 
 cfr-doorhanger-doh-body = Ваша приватност је важна. Из безбедносних разлога { -brand-short-name }, када је то могуће, безбедно усмерава ваше DNS захтеве на партнерску услугу.
 cfr-doorhanger-doh-header = Још сигурнији, шифровани DNS упити
-cfr-doorhanger-doh-primary-button = Разумем
-    .accesskey = Р
 cfr-doorhanger-doh-primary-button-2 = У реду
     .accesskey = У
 cfr-doorhanger-doh-secondary-button = Онемогући
