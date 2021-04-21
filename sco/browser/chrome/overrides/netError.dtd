@@ -131,7 +131,7 @@ was trying to connect. -->
 <!ENTITY certerror.introPara2 "&brandShortName; detectit a potential siccarness threat and didnae gang on tae <span class='hostname'/>. Gin ye gang ontae this site, ondingers could ettle at stealin information like yer passwirds, emails, or credit caird parteeculars.">
 <!ENTITY certerror.sts.introPara "&brandShortName; detectit a potential siccarness threat and didnae gang on tae <span class='hostname'/> acause this wabsite requires a siccar connection.">
 
-<!ENTITY certerror.expiredCert.introPara "&brandShortName; detectit an issue and didnae gang on tae <span class='hostname'/>. The wabsite is either wrangly configured or yer computer clock is set tae the wrang time.">
+<!ENTITY certerror.expiredCert.introPara "&brandShortName; detectit an issue and didnae gang on tae <span class='hostname'/>. The wabsite is either wrangly configurit or yer computer clock is set tae the wrang time.">
 <!ENTITY certerror.expiredCert.secondPara2 "It’s likely that the wabsite’s certificate has gaed oot o date, which staps &brandShortName; fae connectin siccarly. Gin ye gang ontae this site, ondingers could ettle at stealin information like yer passwirds, emails, or credit caird parteeculars.">
 <!ENTITY certerror.expiredCert.sts.secondPara "It’s likely the wabsite’s certificate has gaed oot o date, which staps &brandShortName; fae connectin siccarly.">
 
@@ -144,7 +144,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "
 <p>Yer computer clock is set tae <span id='wrongSystemTime_systemDate2'/>. Mak siccar yer computer is set tae the richt date, time, and time zone in yer system settins, syne refresh <span class='hostname'/>.</p>
-<p>Gin yer clock is awready set tae the richt time, the wabsite is likely wrangly configured, and there is nowt ye can dae fur tae sort the issue. Ye can lat the wabsite’s admeenistrator ken aboot the problem.</p>
+<p>Gin yer clock is awready set tae the richt time, the wabsite is likely wrangly configurit, and there is nowt ye can dae fur tae sort the issue. Ye can lat the wabsite’s admeenistrator ken aboot the problem.</p>
 ">
 
 <!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
