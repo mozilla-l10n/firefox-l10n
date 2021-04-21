@@ -13,6 +13,7 @@ update-updateButton =
     .accesskey = R
 update-checkingForUpdates = Naghahanap ng mga update...
 update-downloading = <img data-l10n-name="icon"/>Nagda-download ng update — <label data-l10n-name="download-status"/>
+update-downloading-message = Dina-download ang update —<label data-l10n-name="download-status"/>
 update-applying = Inilalapat ang update...
 update-failed = Bigo ang pag-update. <label data-l10n-name="failed-link">I-download ang pinakabagong bersyon</label>
 update-failed-main = Bigo ang pag-update. <a data-l10n-name="failed-link-main">I-download ang pinakabagong bersyon</a>
