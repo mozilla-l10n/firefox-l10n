@@ -10,6 +10,8 @@ about-processes-column-action =
 
 ## Tooltips
 
+about-processes-shutdown-process =
+    .title = Deskargatu fitxak eta hil prozesua
 about-processes-shutdown-tab =
     .title = Itxi fitxa
 
@@ -26,7 +28,20 @@ about-processes-column-cpu-total = PUZa
 ##    $type (String) The raw type for this process. Used for unknown processes.
 
 about-processes-browser-process-name = { -brand-short-name } ({ $pid } prozesua)
+about-processes-web-process-name = Web ({ $pid } prozesua, partekatua)
+about-processes-web-isolated-process-name = Web ({ $pid } prozesua) / { $origin }
+about-processes-web-large-allocation = Web ({ $pid } prozesua, handia) / { $origin }
+about-processes-with-coop-coep-process-name = Web ({ $pid } prozesua, jatorri artean isolatua) / { $origin }
+about-processes-file-process-name = Fitxategiak ({ $pid } prozesua)
 about-processes-extension-process-name = Hedapenak ({ $pid } prozesua)
+about-processes-privilegedabout-process-name = Honi buruz ({ $pid } prozesua)
+about-processes-plugin-process-name = Pluginak ({ $pid } prozesua)
+about-processes-privilegedmozilla-process-name = Web ({ $pid } prozesua) { -vendor-short-name } guneetarako
+about-processes-gmp-plugin-process-name = Gecko multimedia pluginak ({ $pid } prozesua)
+about-processes-gpu-process-name = GPU ({ $pid } prozesua)
+about-processes-vr-process-name = VR ({ $pid } prozesua)
+about-processes-rdd-process-name = Datuen deskodetzailea ({ $pid } prozesua)
+about-processes-socket-process-name = Sarea ({ $pid } prozesua)
 
 ## Details within processes
 
