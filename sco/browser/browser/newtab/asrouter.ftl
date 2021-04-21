@@ -271,23 +271,38 @@ cfr-doorhanger-doh-secondary-button = Disable
 
 ## Fission Experiment Message
 
+cfr-doorhanger-fission-body-approved = Yer preevacy maitters. { -brand-short-name } noo sets asinder, or saundboxes, wabsites fae each ither, makkin it haurder for hackers tae pauchle passwirds, credit caird nummers, and ither sensitive information.
+cfr-doorhanger-fission-header = Site Isolatin
+cfr-doorhanger-fission-primary-button = Awricht, Got ye
+    .accesskey = O
 cfr-doorhanger-fission-secondary-button = Lairn mair
     .accesskey = L
 
 ## What's new: Cookies message
 
+cfr-whatsnew-clear-cookies-header = Automatic bieldin fae sleekit trackin ploys
+cfr-whatsnew-clear-cookies-body = Some trackers send ye on tae ither wabsites that sleekitly set cookies. { -brand-short-name } noo automatically dichts awa thae cookies sae ye cannae be follaed.
+cfr-whatsnew-clear-cookies-image-alt = Cookie blockit pictur
 
 ## What's new: Media controls message
 
+cfr-whatsnew-media-keys-header = Mair media controls
+cfr-whatsnew-media-keys-body = Pley and pause audio or video richt fae yer keybuird or heidset, makkit it easy tae control media fae anither tab, program, or even when yer computer is lockit. Forby, ye can muive atween tracks yaisin the forrit and back keys.
+cfr-whatsnew-media-keys-button = Lairn how
 
 ## What's new: Search shortcuts
 
+cfr-whatsnew-search-shortcuts-header = Sairch shortcuts in the address baur
+cfr-whatsnew-search-shortcuts-body = Noo when ye type an airt-oot engine or specific site intae the address baur, a blue shortcut will kythe itsel in the airt-oot suggestions unnerneath. Wale thon shortcut tae feenish aff yer sairch straicht fae the address baur.
 
 ## What's new: Cookies protection
 
+cfr-whatsnew-supercookies-header = Bieldin fae uncannie supercookies
+cfr-whatsnew-supercookies-body = Wabsites can sleekitly eik on a "supercookie" tae yer wab-stravaiger that can follae ye aw ower the tab, even efter ye dicht yer cookies. { -brand-short-name } noo gies strang bieldin anent supercookies sae's they cannae be yaised tae track yer online ongauns fae ane site tae the neist.
 
 ## What's new: Better bookmarking
 
+cfr-whatsnew-bookmarking-header = Better buikmerkin
 
 ## What's new: Cross-site cookie tracking
 
