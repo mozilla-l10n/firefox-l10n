@@ -43,6 +43,7 @@ about-networking-dns-lookup = DNS bilaketa
 about-networking-dns-lookup-button = Ebatzi
 about-networking-dns-domain = Domeinua:
 about-networking-dns-lookup-table-column = IPak
+about-networking-dns-https-rr-lookup-table-column = HTTP RRak
 about-networking-rcwn = RCWN estatistikak
 about-networking-rcwn-status = RCWN egoera
 about-networking-rcwn-cache-won-count = Cachearen irabazi kopurua
