@@ -18,4 +18,5 @@ default-browser-prompt-button-primary-pin = Mak main wab-stravaiger
 default-browser-prompt-title-alt = Mak { -brand-short-name } yer staunart wab-stravaiger?
 default-browser-prompt-message-alt = Get speed, saufty and preevacy onie time ye stravaig.
 default-browser-prompt-button-primary-alt = Set as staunart wab-stravaiger
+default-browser-prompt-checkbox-not-again-label = Dinnae shaw this message again
 default-browser-prompt-button-secondary = No Jist Noo

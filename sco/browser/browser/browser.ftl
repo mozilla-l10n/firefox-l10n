@@ -293,6 +293,13 @@ bookmark-panel =
 
 ## Identity Panel
 
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-site-information = Site information fur { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-header-security-with-host =
+    .title = Connection siccarness for { $host }
 identity-connection-not-secure = Connection no siccar
 identity-connection-secure = Connection siccar
 identity-connection-internal = This is a siccar { -brand-short-name } page.
