@@ -624,7 +624,7 @@ bookmarks-tools-toolbar-visibility-menuitem =
 bookmarks-tools-toolbar-visibility-panel =
     .label =
         { $isVisible ->
-            [true] Skjul bokmerkeverktøylinja
+            [true] Gøym bokmerkeverktøylinja
            *[other] Vis bokmerkeverktøylinja
         }
 bookmarks-tools-menu-button-visibility =
