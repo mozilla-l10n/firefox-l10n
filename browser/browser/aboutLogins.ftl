@@ -28,9 +28,9 @@ menu =
     .title = Abrir menú
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Importar desde otro navegador…
-about-logins-menu-menuitem-import-from-a-file = Importar desde un archivo...
-about-logins-menu-menuitem-export-logins = Exportar inicios de sesión ...
-about-logins-menu-menuitem-remove-all-logins = Eliminar todos los inicios de sesión...
+about-logins-menu-menuitem-import-from-a-file = Importar desde un archivo…
+about-logins-menu-menuitem-export-logins = Exportar inicios de sesión…
+about-logins-menu-menuitem-remove-all-logins = Eliminar todos los inicios de sesión…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Opciones
@@ -76,11 +76,11 @@ about-logins-login-intro-heading-logged-in = No se encontraron inicios de sesió
 login-intro-description = Si guardó sus inicios de sesión en { -brand-product-name } en un dispositivo diferente, estos son los pasos a seguir para tenerlas aquí también:
 login-intro-instruction-fxa = Cree o inicie sesión en su { -fxaccount-brand-name } en el dispositivo donde guardó sus inicios de sesión
 login-intro-instruction-fxa-settings = Asegúrese de haber seleccionado la casilla de verificación Inicios de sesión en la Configuración de { -sync-brand-short-name }
-about-logins-intro-instruction-help = Vaya a <a data-l10n-name="help-link"> { -lockwise-brand-short-name } Ayuda</a> para obtener más ayuda
-login-intro-instructions-fxa = Cree o inicie sesión en su { -fxaccount-brand-name }(capitalization: " sentence"en el dispositivo donde guardó sus inicios de sesión.
+about-logins-intro-instruction-help = Vaya a <a data-l10n-name="help-link">Ayuda de { -lockwise-brand-short-name }</a> para obtener más ayuda
+login-intro-instructions-fxa = Cree o inicie sesión en su { -fxaccount-brand-name(capitalization: "sentence") } en el dispositivo donde guardó sus inicios de sesión.
 login-intro-instructions-fxa-settings = Ir a Ajustes > Sync > Activar la sincronización… Seleccionar la casilla Inicios de sesión y contraseñas.
-login-intro-instructions-fxa-help = Visite <a data-l10n-name="help-link">{ -lockwise-brand-short-name }Soporte</a> para más ayuda.
-about-logins-intro-import = Si sus inicios de sesión se guardan en otro navegador, puede <a data-l10n-name="import-link"> importarlos a { -lockwise-brand-short-name }</a>
+login-intro-instructions-fxa-help = Visite <a data-l10n-name="help-link">Soporte de { -lockwise-brand-short-name }</a> para más ayuda.
+about-logins-intro-import = Si sus inicios de sesión se guardan en otro navegador, puede <a data-l10n-name="import-link">importarlos a { -lockwise-brand-short-name }</a>
 about-logins-intro-import2 = Si sus inicios de sesión se guardan fuera de { -brand-product-name }, puede <a data-l10n-name="import-browser-link">importarlos desde otro navegador</a> o <a data-l10n-name="import-file-link">desde un archivo</a>
 
 ## Login
