@@ -88,6 +88,12 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
+## Firefox Account Button
+
+toolbar-button-fxaccount =
+    .label = { -fxaccount-brand-name(capitalization: "sentence") }
+    .tooltiptext = { -fxaccount-brand-name(capitalization: "sentence") }
+
 ## Save Page
 
 main-context-menu-page-save =
@@ -102,6 +108,18 @@ main-context-menu-bookmark-add =
     .aria-label = Бұл бетті бетбелгілерге қосу
     .accesskey = е
     .tooltiptext = Бұл бетті бетбелгілерге қосу
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-add-mac =
+    .label = Бетті бетбелгілерге қосу
+    .accesskey = б
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-edit-mac =
+    .label = Бетбелгіні түзету
+    .accesskey = б
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-add-with-shortcut =
@@ -246,6 +264,11 @@ main-context-menu-media-video-leave-fullscreen =
 main-context-menu-media-pip =
     .label = Суреттегі сурет
     .accesskey = у
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-watch-pip =
+    .label = Суреттегі сурет режимінде қарау
+    .accesskey = у
 main-context-menu-image-reload =
     .label = Суретті қайта жүктеу
     .accesskey = С
@@ -291,11 +314,11 @@ main-context-menu-image-email =
 main-context-menu-image-set-as-background =
     .label = Жұмыс үстелінің суреті болып орналастыру…
     .accesskey = с
-main-context-menu-image-info =
-    .label = Сурет ақпаратын қарау
-    .accesskey = С
 main-context-menu-image-set-image-as-background =
     .label = Суретті жұмыс үстелінің тұсқағазы ретінде орнату…
+    .accesskey = С
+main-context-menu-image-info =
+    .label = Сурет ақпаратын қарау
     .accesskey = С
 main-context-menu-image-desc =
     .label = Анықтамасын қарау
@@ -356,6 +379,9 @@ main-context-menu-suggest-strong-password =
 main-context-menu-manage-logins =
     .label = Логиндерді басқару
     .accesskey = н
+main-context-menu-manage-logins2 =
+    .label = Логиндерді басқару
+    .accesskey = с
 main-context-menu-keyword =
     .label = Осы ізденісті белгілейтін кілт сөзін енгізу…
     .accesskey = к

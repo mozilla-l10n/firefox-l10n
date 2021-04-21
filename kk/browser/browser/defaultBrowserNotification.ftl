@@ -7,3 +7,9 @@ default-browser-notification-message = <strong>{ -brand-short-name } өнімі�
 default-browser-notification-button =
     .label = Бастапқы ретінде орнату
     .accesskey = с
+
+## These strings are used for the default browser prompt. There are 2 variations
+## depending on the operating system (Windows vs other). The checkbox label and
+## secondary button are shared between the variants.
+
+default-browser-prompt-button-secondary = Қазір емес
