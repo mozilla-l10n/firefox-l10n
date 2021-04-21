@@ -198,21 +198,47 @@ cfr-doorhanger-socialtracking-dont-show-again = Dinnae shaw me messages like thi
 cfr-doorhanger-socialtracking-heading = { -brand-short-name } stapped a social netwark fae trackin ye here
 cfr-doorhanger-socialtracking-description = Yer preevacy maitters. { -brand-short-name } noo blocks common social media trackers, pittin leemits on how muckle data they can gaither aboot whit ye're daein online.
 cfr-doorhanger-fingerprinters-heading = { -brand-short-name } blockit a fingirprenter on this page
+cfr-doorhanger-fingerprinters-description = Yer preevacy maitters. { -brand-short-name } noo blocks fingirprenters, which gaither bitties o information kenmerks aboot yer device fur tae track ye.
+cfr-doorhanger-cryptominers-heading = { -brand-short-name } blockit a cryptohowker on this page
+cfr-doorhanger-cryptominers-description = Yer preevacy maitters. { -brand-short-name } noo blocks cryptohowkers, which yaise yer seestem's computin pouer fur tae howk oot digital siller.
 
 ## Enhanced Tracking Protection Milestones
 
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (String) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading =
+    { $blockedCount ->
+       *[other] { -brand-short-name } blockit ower <b>{ $blockedCount }</b> trackers syne { $date }!
+    }
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Datetime) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading2 =
+    { $blockedCount ->
+       *[other] { -brand-short-name } blockit ower <b>{ $blockedCount }</b> trackers syne { DATETIME($date, month: "long", year: "numeric") }!
+    }
+cfr-doorhanger-milestone-ok-button = See Aw
+    .accesskey = S
 
 ## What’s New Panel Content for Firefox 76
 
 
 ## Lockwise message
 
+cfr-whatsnew-lockwise-header = Mak siccar passwirds nae bather
+cfr-whatsnew-lockwise-body = It's no easy tae come up wi wan-aff, siccar passwirds for ilka accoont. When makkin a passwird, wale the passwird field fur tae yaise a siccar, generatit passwird fae { -brand-shorter-name }.
+cfr-whatsnew-lockwise-icon-alt = { -lockwise-brand-short-name } icon
 
 ## Vulnerable Passwords message
 
+cfr-whatsnew-passwords-header = Get alerts aboot passwirds that arenae siccar
+cfr-whatsnew-passwords-body = Hackers ken fowk yaise the same passwirds ower and ower. Gin ye've yaised the same passwird on a wheen o sites, and ane o thae sites wis in a data breach, ye'll see an alert in { -lockwise-brand-short-name } tae chynge yer passwird on thae sites.
+cfr-whatsnew-passwords-icon-alt = Passwird no siccar key icon
 
 ## Picture-in-Picture fullscreen message
 
+cfr-whatsnew-pip-fullscreen-header = Tak pictur-in-pictur hale-screen
 
 ## Protections Dashboard message
 
