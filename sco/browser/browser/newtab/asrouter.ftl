@@ -63,7 +63,7 @@ cfr-doorhanger-pintab-description = Gang straicht tae yer maist-yaised sites. Ke
 
 ## These messages are steps on how to use the feature and are shown together.
 
-cfr-doorhanger-pintab-step1 = <b>Richt-click</b> on the tab ye're wantin tae peen.
+cfr-doorhanger-pintab-step1 = <b>Richt-click</b> on the tab ye're wantin fur tae peen.
 cfr-doorhanger-pintab-step2 = Wale <b>Peen Tab</b> fae the menu.
 cfr-doorhanger-pintab-step3 = Gin the site has an update ye'll see a blue dot on yer peened tab.
 cfr-doorhanger-pintab-animation-pause = Pause
@@ -153,7 +153,7 @@ cfr-whatsnew-fingerprinter-counter-header =
         [one] Fingirprenter blockit
        *[other] Fingirprenters blockit
     }
-cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } blocks a guid wheen o fingirprenters that sleekitly gaither information aboot yer device and ongauns tae mak an advertisin profile o ye.
+cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } blocks a guid wheen o fingirprenters that sleekitly gaither information aboot yer device and ongauns fur tae mak an advertisin profile o ye.
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Fingirprenters
 cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } can block fingirprenters that sleekitly gaither information aboot yer device and ongauns tae mak an advertisin profile o ye.
@@ -239,7 +239,7 @@ cfr-whatsnew-passwords-icon-alt = Passwird no siccar key icon
 ## Picture-in-Picture fullscreen message
 
 cfr-whatsnew-pip-fullscreen-header = Tak pictur-in-pictur hale-screen
-cfr-whatsnew-pip-fullscreen-body = When ye plank a video intae a floatin windae, ye can noo double-click on thon windae tae gang hale-screen.
+cfr-whatsnew-pip-fullscreen-body = When ye plank a video intae a floatin windae, ye can noo double-click on thon windae fur tae gang hale-screen.
 cfr-whatsnew-pip-fullscreen-icon-alt = Pictur-in-pictur icon
 
 ## Protections Dashboard message
@@ -262,7 +262,7 @@ cfr-whatsnew-better-pdf-body = PDF documents noo open straicht intae { -brand-sh
 
 ## DOH Message
 
-cfr-doorhanger-doh-body = Yer preevacy maitters. { -brand-short-name } noo, whenever it can, sends yer DNS speirins siccar tae a pertner service for tae bield ye while ye stravaige.
+cfr-doorhanger-doh-body = Yer preevacy maitters. { -brand-short-name } noo, whenever it can, sends yer DNS speirins siccar tae a pertner service fur tae bield ye while ye stravaige.
 cfr-doorhanger-doh-header = Mair siccar, encryptit DNS luik-ups
 cfr-doorhanger-doh-primary-button-2 = Awricht
     .accesskey = O
@@ -271,7 +271,7 @@ cfr-doorhanger-doh-secondary-button = Disable
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-body-approved = Yer preevacy maitters. { -brand-short-name } noo sets asinder, or saundboxes, wabsites fae each ither, makkin it haurder for hackers tae pauchle passwirds, credit caird nummers, and ither sensitive information.
+cfr-doorhanger-fission-body-approved = Yer preevacy maitters. { -brand-short-name } noo sets asinder, or saundboxes, wabsites fae each ither, makkin it haurder fur hackers tae pauchle passwirds, credit caird nummers, and ither sensitive information.
 cfr-doorhanger-fission-header = Site Isolatin
 cfr-doorhanger-fission-primary-button = Awricht, Got ye
     .accesskey = O
@@ -293,12 +293,12 @@ cfr-whatsnew-media-keys-button = Lairn how
 ## What's new: Search shortcuts
 
 cfr-whatsnew-search-shortcuts-header = Sairch shortcuts in the address baur
-cfr-whatsnew-search-shortcuts-body = Noo when ye type an airt-oot engine or specific site intae the address baur, a blue shortcut will kythe itsel in the airt-oot suggestions unnerneath. Wale thon shortcut tae feenish aff yer sairch straicht fae the address baur.
+cfr-whatsnew-search-shortcuts-body = Noo when ye type an airt-oot engine or specific site intae the address baur, a blue shortcut will kythe itsel in the airt-oot suggestions unnerneath. Wale thon shortcut fur tae feenish aff yer sairch straicht fae the address baur.
 
 ## What's new: Cookies protection
 
 cfr-whatsnew-supercookies-header = Bieldin fae uncannie supercookies
-cfr-whatsnew-supercookies-body = Wabsites can sleekitly eik on a "supercookie" tae yer wab-stravaiger that can follae ye aw ower the tab, even efter ye dicht yer cookies. { -brand-short-name } noo gies strang bieldin anent supercookies sae's they cannae be yaised tae track yer online ongauns fae ane site tae the neist.
+cfr-whatsnew-supercookies-body = Wabsites can sleekitly eik on a "supercookie" tae yer wab-stravaiger that can follae ye aw ower the tab, even efter ye dicht yer cookies. { -brand-short-name } noo gies strang bieldin anent supercookies sae's they cannae be yaised fur tae track yer online ongauns fae ane site tae the neist.
 
 ## What's new: Better bookmarking
 

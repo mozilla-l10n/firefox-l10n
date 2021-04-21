@@ -48,5 +48,5 @@ bookmark-overlay-keyword =
 bookmark-overlay-keyword-2 =
     .value = Keywird
     .accesskey = K
-bookmark-overlay-tags-caption-label = Yaise tags tae sort oot and sairch fur buikmerks fae the address baur.
+bookmark-overlay-tags-caption-label = Yaise tags fur tae sort oot and sairch fur buikmerks fae the address baur.
 bookmark-overlay-keyword-caption-label-2 = Use jist the ane keywird tae open buikmerks straicht fae the address baur

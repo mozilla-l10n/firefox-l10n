@@ -13,6 +13,7 @@
 ## avoid breaking quoted text).
 
 onboarding-button-label-learn-more = Lairn Mair
+onboarding-button-label-get-started = Get Stertit
 
 ## Welcome modal dialog strings
 
@@ -24,6 +25,10 @@ onboarding-button-label-learn-more = Lairn Mair
 
 ## Welcome page strings
 
+onboarding-welcome-header = Walcome tae { -brand-short-name }
+onboarding-welcome-body = Ye've got the wab-stravaiger.<br/>Noo meet the lave o { -brand-product-name }.
+onboarding-welcome-learn-more = Lairn mair aboot the advantages.
+onboarding-welcome-modal-get-body = Ye've got the wab-stravaiger.<br/>Noo get the maist oot o { -brand-product-name }.
 
 ## Welcome full page string
 

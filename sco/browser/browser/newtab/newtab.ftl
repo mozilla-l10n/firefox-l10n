@@ -205,7 +205,7 @@ newtab-empty-section-highlights = Stairt stravaigin, and we'll shaw some o the s
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = Ye're aw caught up. Check back efter fur mair tap stories fae { $provider }. Cannae wait? Wale a popular topic tae find mair smashin stories fae aroond the wab.
+newtab-empty-section-topstories = Ye're aw caught up. Check back efter fur mair tap stories fae { $provider }. Cannae wait? Wale a popular topic fur tae find mair smashin stories fae aroond the wab.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -229,7 +229,7 @@ newtab-pocket-cta-text = Save the stories ye're intae wi { -pocket-brand-name },
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
 newtab-error-fallback-info = Och, sowt went wrang when loadin this content.
-newtab-error-fallback-refresh-link = Refresh page tae gie it anither shottie.
+newtab-error-fallback-refresh-link = Refresh page fur tae gie it anither shottie.
 
 ## Customization Menu
 
