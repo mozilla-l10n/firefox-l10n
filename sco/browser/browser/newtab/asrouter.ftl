@@ -108,8 +108,8 @@ cfr-whatsnew-tracking-protect-link-text = View Yer Report
 # localization, because it would result in the number showing twice.
 cfr-whatsnew-tracking-blocked-title =
     { $blockedCount ->
-        [one] Tracker blocked
-       *[other] Trackers blocked
+        [one] Tracker blockit
+       *[other] Trackers blockit
     }
 cfr-whatsnew-tracking-blocked-subtitle = Syne { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = View Report
@@ -129,20 +129,38 @@ cfr-whatsnew-searchbar-body-topsites = Noo, jist wale the address baur, and a bo
 
 ## Search bar
 
+cfr-whatsnew-searchbar-icon-alt-text = Magnifyin gless icon
 
 ## Picture-in-Picture
 
+cfr-whatsnew-pip-header = Watch videos while ye're stravaigin
+cfr-whatsnew-pip-body = Pictur-in-pictur planks yer video intae a floatin windae sae's ye can watch while wirkin in ither tabs.
 cfr-whatsnew-pip-cta = Lairn mair
 
 ## Permission Prompt
 
+cfr-whatsnew-permission-prompt-header = No as mony scunnersome site lowp-ups
+cfr-whatsnew-permission-prompt-body = { -brand-shorter-name } noo blocks sites fae automatically speirin tae send ye lowp-up messages.
 cfr-whatsnew-permission-prompt-cta = Lairn mair
 
 ## Fingerprinter Counter
 
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $fingerprinterCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-fingerprinter-counter-header =
+    { $fingerprinterCount ->
+        [one] Fingirprenter blockit
+       *[other] Fingirprenters blockit
+    }
+cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } blocks a guid wheen o fingirprenters that sleekitly gaither information aboot yer device and ongauns tae mak an advertisin profile o ye.
+# Message variation when fingerprinters count is less than 10
+cfr-whatsnew-fingerprinter-counter-header-alt = Fingirprenters
+cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } can block fingirprenters that sleekitly gaither information aboot yer device and ongauns tae mak an advertisin profile o ye.
 
 ## Bookmark Sync
 
+cfr-doorhanger-sync-bookmarks-header = Get this buikmerk on yer phone
 
 ## Login Sync
 

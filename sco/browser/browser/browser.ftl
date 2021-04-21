@@ -122,29 +122,29 @@ urlbar-search-mode-history = Historie
 ##
 
 urlbar-geolocation-blocked =
-    .tooltiptext = Ye've blocked airtin information fur this wabsite.
+    .tooltiptext = Ye've blockit airtin information fur this wabsite.
 urlbar-xr-blocked =
-    .tooltiptext = Ye've blocked virtual reality device access fur this wabsite.
+    .tooltiptext = Ye've blockit virtual reality device access fur this wabsite.
 urlbar-web-notifications-blocked =
-    .tooltiptext = Ye've blocked notifications fur this wabsite.
+    .tooltiptext = Ye've blockit notifications fur this wabsite.
 urlbar-camera-blocked =
-    .tooltiptext = Ye've blocked yer camera fur this wabsite.
+    .tooltiptext = Ye've blockit yer camera fur this wabsite.
 urlbar-microphone-blocked =
-    .tooltiptext = Ye've blocked yer microphone fur this wabsite.
+    .tooltiptext = Ye've blockit yer microphone fur this wabsite.
 urlbar-screen-blocked =
-    .tooltiptext = Ye've blocked this wabsite fae sharin yer screen.
+    .tooltiptext = Ye've blockit this wabsite fae sharin yer screen.
 urlbar-persistent-storage-blocked =
-    .tooltiptext = Ye've blocked persistent storage fur this wabsite.
+    .tooltiptext = Ye've blockit persistent storage fur this wabsite.
 urlbar-popup-blocked =
-    .tooltiptext = Ye've blocked lowp-ups fur this wabsite.
+    .tooltiptext = Ye've blockit lowp-ups fur this wabsite.
 urlbar-autoplay-media-blocked =
-    .tooltiptext = Ye've blocked autopley media wi soond fur this wabsite.
+    .tooltiptext = Ye've blockit autopley media wi soond fur this wabsite.
 urlbar-canvas-blocked =
-    .tooltiptext = Ye've blocked canvas data oot-howkin fur this wabsite.
+    .tooltiptext = Ye've blockit canvas data oot-howkin fur this wabsite.
 urlbar-midi-blocked =
-    .tooltiptext = Ye've blocked MIDI ingang fur this wabsite.
+    .tooltiptext = Ye've blockit MIDI ingang fur this wabsite.
 urlbar-install-blocked =
-    .tooltiptext = Ye've blocked eik-on instawment fur this wabsite.
+    .tooltiptext = Ye've blockit eik-on instawment fur this wabsite.
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
@@ -298,7 +298,7 @@ identity-connection-secure = Connection siccar
 identity-connection-internal = This is a siccar { -brand-short-name } page.
 identity-connection-file = This page is keepit on yer computer.
 identity-extension-page = This page is loadit fae an extension.
-identity-active-blocked = { -brand-short-name } has blocked pairts o this page that arenae siccar.
+identity-active-blocked = { -brand-short-name } has blockit pairts o this page that arenae siccar.
 identity-custom-root = Connection verified by a certificate issuer that isnae kent by Mozilla.
 identity-passive-loaded = Pairt o this page arenae siccar (sic as images).
 identity-active-loaded = Ye've disabled bieldin on this page.
@@ -335,10 +335,10 @@ identity-description-insecure = Yer connection tae this site isnae preevat. Info
 identity-description-insecure-login-forms = The login information ye inpit on this page isnae siccar and micht be compromised.
 identity-description-weak-cipher-intro = Yer connection tae this wabsite isnae preevat and yaises stintit encryption.
 identity-description-weak-cipher-risk = Ither fowk can see yer information or chynge the wabsite's behaviour.
-identity-description-active-blocked = { -brand-short-name } has blocked pairts o this page that arenae siccar. <label data-l10n-name="link">Lairn Mair</label>
+identity-description-active-blocked = { -brand-short-name } has blockit pairts o this page that arenae siccar. <label data-l10n-name="link">Lairn Mair</label>
 identity-description-passive-loaded = Yer connection isnae preevat and information ye share wi the site micht be seen by ithers.
 identity-description-passive-loaded-insecure = This wabsite haud content that isnae siccar (sic as images). <label data-l10n-name="link">Lairn Mair</label>
-identity-description-passive-loaded-mixed = Although { -brand-short-name } has blocked some content, there is aye content on the page that isnae siccar (sic as images). <label data-l10n-name="link">Lairn Mair</label>
+identity-description-passive-loaded-mixed = Although { -brand-short-name } has blockit some content, there is aye content on the page that isnae siccar (sic as images). <label data-l10n-name="link">Lairn Mair</label>
 identity-description-active-loaded = This wabsite hauds content that isnae siccar (sic as scripts) and yer connection tae it isnae preevat.
 identity-description-active-loaded-insecure = Information ye share wi this site micht be seen by ithers (likesay, passwirds, messages, credit cairds, etc.).
 identity-learn-more =
@@ -370,7 +370,7 @@ browser-tab-audio-playing2 = PLAYIN
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-muted2 = WHEESHT
 # This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-blocked = AUTOPLEY BLOCKED
+browser-tab-audio-blocked = AUTOPLEY BLOCKIT
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = PICTUR-IN-PICTUR
 
