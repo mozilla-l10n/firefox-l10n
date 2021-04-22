@@ -11,3 +11,5 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override-option-always =
+    .label = Ayeweys
