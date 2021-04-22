@@ -5,12 +5,12 @@
 places-open =
     .label = Aç
     .accesskey = A
-places-open-tab =
-    .label = Yeni sekmede aç
-    .accesskey = e
 places-open-in-tab =
     .label = Yeni sekmede aç
     .accesskey = Y
+places-open-tab =
+    .label = Yeni sekmede aç
+    .accesskey = e
 places-open-all-bookmarks =
     .label = Tüm yer imlerini aç
     .accesskey = T
@@ -20,7 +20,13 @@ places-open-all-in-tabs =
 places-open-window =
     .label = Yeni pencerede aç
     .accesskey = n
+places-open-in-window =
+    .label = Yeni pencerede aç
+    .accesskey = i
 places-open-private-window =
+    .label = Yeni gizli pencerede aç
+    .accesskey = z
+places-open-in-private-window =
     .label = Yeni gizli pencerede aç
     .accesskey = z
 places-new-bookmark =
@@ -35,12 +41,6 @@ places-new-folder =
 places-new-separator =
     .label = Yeni ayraç
     .accesskey = Y
-places-open-in-window =
-    .label = Yeni pencerede aç
-    .accesskey = i
-places-open-in-private-window =
-    .label = Yeni gizli pencerede aç
-    .accesskey = z
 places-add-bookmark =
     .label = Yer imi ekle…
     .accesskey = m
@@ -91,6 +91,17 @@ places-edit-bookmark =
 places-edit-generic =
     .label = Düzenle…
     .accesskey = D
+places-edit-folder =
+    .label = Klasörü yeniden adlandır…
+    .accesskey = d
+places-remove-folder =
+    .label =
+        { $count ->
+            [1] Klasörü sil
+            [one] Klasörü sil
+           *[other] Klasörleri sil
+        }
+    .accesskey = s
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Yönetilen yer imleri
