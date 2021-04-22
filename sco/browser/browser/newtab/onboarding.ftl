@@ -187,6 +187,27 @@ onboarding-multistage-import-header = Inbring yer passwirds, <br/>buikmerks, and
 onboarding-multistage-import-subtitle = Comin fae anither wab-stravaiger? It's easy tae bring awthin tae { -brand-short-name }.
 onboarding-multistage-import-primary-button-label = Stert Inbringin
 onboarding-multistage-import-secondary-button-label = No jist noo
+# Info displayed in the footer of import settings screen during onboarding flow.
+# This supports welcome screen showing top sites imported from the user's default browser.
+onboarding-import-sites-disclaimer = The sites listit here were fund on this device. { -brand-short-name } disnae save or sync data fae anither wab-stravaiger unless ye decide tae inbring it.
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+onboarding-welcome-steps-indicator =
+    .aria-label = Gettin stertit: screen { $current } o { $total }
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "look" should stay inside the span.
+onboarding-multistage-theme-header = Wale a <span data-l10n-name="zap">kythin</span>
+onboarding-multistage-theme-subtitle = Personalise { -brand-short-name } wi a theme.
+onboarding-multistage-theme-primary-button-label2 = Duin
+onboarding-multistage-theme-secondary-button-label = No jist noo
+# Automatic theme uses operating system color settings
+onboarding-multistage-theme-label-automatic = Automatic
+onboarding-multistage-theme-label-light = Licht
+onboarding-multistage-theme-label-dark = Derk
+# "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
+onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
