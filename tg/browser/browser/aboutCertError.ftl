@@ -26,6 +26,9 @@ open-in-new-window-for-csp-or-xfo-error = Кушодани сомона дар �
 
 connectionFailure-title = Пайваст ғайриимкон аст
 deniedPortAccess-title = Нишонии ҷорӣ маҳдуд шудааст
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = Мутаассифона, ин сомона кушода нашуд.
 fileNotFound-title = Файл ёфт нашуд
 fileAccessDenied-title = Дастрасӣ ба файл манъ карда шуд
 generic-title = Оҳ!
