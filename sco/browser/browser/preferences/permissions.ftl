@@ -76,21 +76,41 @@ permissions-exceptions-etp-desc = Ye've turnt aff bieldins fur these wabsites.
 permissions-exceptions-cookie-window =
     .title = Exceptions - Cookies and Site Data
     .style = { permissions-window.style }
+permissions-exceptions-cookie-desc = Ye can set oot whit wabsites are ayeweys or never allowed tae yaise cookies and site data.  Type the exact address o the site ye want tae manage and then click Block, Allow fur Session, or Allow.
 
 ## Exceptions - Pop-ups
 
+permissions-exceptions-popup-window =
+    .title = Allowed Wabsites - Lowp-ups
+    .style = { permissions-window.style }
+permissions-exceptions-popup-desc = Ye can set oot whit wabsites are allowed tae open lowp-up windaes. Type the exact address o the site ye want tae allow and then click Allow.
 
 ## Exceptions - Saved Logins
 
+permissions-exceptions-saved-logins-window =
+    .title = Exceptions - Saved Logins
+    .style = { permissions-window.style }
+permissions-exceptions-saved-logins-desc = Logins fur the follaein wabsites willnae be saved
 
 ## Exceptions - Add-ons
 
+permissions-exceptions-addons-window =
+    .title = Allowed Websites - Eik-ons Instawment
+    .style = { permissions-window.style }
+permissions-exceptions-addons-desc = Ye can set oot whit wabsites are allowed tae instaw eik-ons. Type the exact address o the site ye want tae allow and then click Allow.
 
 ## Site Permissions - Autoplay
 
+permissions-site-autoplay-window =
+    .title = Settins - Autopley
+    .style = { permissions-window.style }
+permissions-site-autoplay-desc = Ye can manage the sites that dinnae follae yer staunart autopley settins here.
 
 ## Site Permissions - Notifications
 
+permissions-site-notification-window =
+    .title = Settins - Notification Permeesions
+    .style = { permissions-window.style }
 
 ## Site Permissions - Location
 
