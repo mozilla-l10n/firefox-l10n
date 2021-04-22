@@ -46,3 +46,18 @@ toolbar-delete-button =
 toolbar-undelete-button =
     .label = Silmeyi geri al
     .tooltiptext = Seçili iletileri silmeyi geri al
+
+## View / Layout
+
+mail-uidensity-label =
+    .label = Yoğunluk
+    .accesskey = Y
+mail-uidensity-compact =
+    .label = Kompakt
+    .accesskey = K
+mail-uidensity-normal =
+    .label = Normal
+    .accesskey = N
+mail-uidensity-touch =
+    .label = Dokunmatik
+    .accesskey = D

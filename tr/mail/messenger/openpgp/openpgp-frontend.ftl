@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 openpgp-manage-keys-openpgp-cmd =
-    .label = OpenPGP Anahtar Yöneticisi
+    .label = OpenPGP anahtar yöneticisi
     .accesskey = O
 openpgp-ctx-decrypt-open =
     .label = Şifreyi çöz ve aç
