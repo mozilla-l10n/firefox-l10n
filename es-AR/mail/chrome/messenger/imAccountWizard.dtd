@@ -5,7 +5,7 @@
 <!ENTITY windowTitle.label            "Chat Account Wizard">
 
 <!ENTITY accountProtocolTitle.label   "Chat network">
-<!ENTITY accountProtocolInfo.label    "Please choose the network of your chat account.">
+<!ENTITY accountProtocolInfo.label    "Seleccione la red de su cuenta de chat.">
 <!ENTITY accountProtocolField.label   "Red:">
 <!ENTITY accountProtocolGetMore.label "Obtener más…">
 
