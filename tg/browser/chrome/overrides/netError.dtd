@@ -16,6 +16,14 @@
 
 
 <!ENTITY dnsNotFound.pageTitle "Сервер ёфт нашуд">
+<!ENTITY dnsNotFound.longDesc1 "
+<strong>Агар нишонии сомона дуруст бошад, шумо метавонед зеринро ба назар гиред:</strong>
+<ul>
+  <li>Баъдтар аз нав кӯшиш кунед.</li>
+  <li>Пайвастшавии Интернетро санҷед.</li>
+  <li>Агар пайваст шуда бошед, аммо дар ҳудуди девори оташ (firewall) қарор доред, бисанҷед, ки &brandShortName; барои дастрасии Интернет иҷозат дорад.</li>
+</ul>
+">
 
 
 
@@ -44,6 +52,7 @@
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
+<!ENTITY certerror.introPara2 "Браузери &brandShortName; хатареро муайян кард, ки метавонад ба амнияти шумо зарар расонад ва бинобар ин кушодани <span class='hostname'/>-ро манъ кард. Агар шумо ин сомонаро кушоед, ҳамлакунандагон метавонанд маълумоти шахсии шуморо, монанди ниҳонвожаҳо, нишонии почтаи электронӣ, тафсилоти корти бонкӣ ва ғайра, дӯзди карда, ба даст оранд.">
 
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Шумо чӣ тавр метавонед онро ислоҳ кунед?">
@@ -63,6 +72,7 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Маълумоти муфассал: SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY certerror.pagetitle2  "Диққат: Эҳтимол, хатари амният вуҷуд дорад">
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
