@@ -41,7 +41,7 @@ protections-panel-not-blocking-why-etp-off-tooltip = Todos los rastreadores en e
 protections-panel-no-trackers-found = No se detectaron rastreadores conocidos para { -brand-short-name } en esta página.
 protections-panel-content-blocking-tracking-protection = Contenido de rastreo
 protections-panel-content-blocking-socialblock = Rastreadores de redes sociales
-protections-panel-content-blocking-cryptominers-label = Cryptominers
+protections-panel-content-blocking-cryptominers-label = Criptomineros
 protections-panel-content-blocking-fingerprinters-label = Detectores de huellas digitales
 
 ## In the protections panel, Content Blocking category items are in three sections:
