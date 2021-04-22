@@ -669,8 +669,8 @@ save-to-pocket-button =
 # Variables:
 #  $shortcut (String): keyboard shortcut to open the add-ons manager
 toolbar-addons-themes-button =
-    .label = Componenti aggiuntivi e temi
-    .tooltiptext = Gestisci componenti aggiuntivi e temi ({ $shortcut })
+    .label = Estensioni e temi
+    .tooltiptext = Gestisci estensioni e temi ({ $shortcut })
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
 toolbar-settings-button =
