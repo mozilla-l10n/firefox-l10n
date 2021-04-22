@@ -9,8 +9,6 @@
 <!ENTITY calendar.newevent.button.tooltip         "Yeni etkinlik oluştur" >
 <!ENTITY calendar.newtask.button.tooltip          "Yeni görev oluştur" >
 
-<!ENTITY calendar.unifinder.todoitems.label       "Görevler" >
-
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Bitmiş görevleri göster">
 
 <!ENTITY calendar.today.button.label          "Bugün">
@@ -110,11 +108,11 @@
 <!ENTITY calendar.list.header.label                 "Takvim">
 
 <!ENTITY calendar.task.filter.title.label           "Göster">
-<!ENTITY calendar.task.filter.all.label             "Tümünü">
+<!ENTITY calendar.task.filter.all.label             "Tümü">
 <!ENTITY calendar.task.filter.all.accesskey         "T">
-<!ENTITY calendar.task.filter.today.label           "Bugünü">
+<!ENTITY calendar.task.filter.today.label           "Bugün">
 <!ENTITY calendar.task.filter.today.accesskey       "B">
-<!ENTITY calendar.task.filter.next7days.label       "Sonraki 7 günü">
+<!ENTITY calendar.task.filter.next7days.label       "Sonraki 7 gün">
 <!ENTITY calendar.task.filter.next7days.accesskey   "n">
 <!ENTITY calendar.task.filter.notstarted.label      "Başlamamış görevler">
 <!ENTITY calendar.task.filter.notstarted.accesskey  "a">
@@ -355,7 +353,6 @@
 <!ENTITY calendarproperties.color.label                    "Renk:">
 <!ENTITY calendarproperties.webdav.label                   "iCalendar (ICS)">
 <!ENTITY calendarproperties.caldav.label                   "CalDAV">
-<!ENTITY calendarproperties.wcap.label                     "Sun Java Sistem Takvim Sunucu (WCAP)">
 <!ENTITY calendarproperties.format.label                   "Biçem:">
 <!ENTITY calendarproperties.location.label                 "Konum:">
 <!ENTITY calendarproperties.refreshInterval.label          "Takvimi tazele:">
@@ -364,7 +361,6 @@
 <!ENTITY calendarproperties.readonly.label                 "Salt okunur">
 <!ENTITY calendarproperties.firealarms.label               "Anımsatıcıları göster">
 <!ENTITY calendarproperties.cache3.label                   "Çevrimdışı desteği">
-<!ENTITY calendarproperties.enabled.label                  "Takvim devre içi">
 <!ENTITY calendarproperties.enabled2.label                 "Bu takvimi etkinleştir">
 <!ENTITY calendarproperties.forceDisabled.label            "Takvim sağlayıcısı bulunamıyor. Bu tür sorunlar sağlayıcı için gerekli eklentilerin devre dışı bırakılması veya kaldırması ile genelde oluşuyor.">
 <!ENTITY calendarproperties.unsubscribe.label              "Aboneliği iptal et">
