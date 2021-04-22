@@ -36,6 +36,7 @@ experimental-features-devtools-execution-context-selector =
 experimental-features-devtools-execution-context-selector-description = Eginbide honek botoi bat bistaratzen du kontsolaren komando-lerroan eta horrekin idazten duzun adierazpena exekutatuko den testuingurua alda dezakezu. Ikusi <a data-l10n-name="bugzilla1">1605154 buga</a> eta <a data-l10n-name="bugzilla2">1605153 buga</a> xehetasun gehiagorako.
 experimental-features-devtools-compatibility-panel =
     .label = Garatzaile-tresnak: bateragarritasun-panela
+experimental-features-devtools-compatibility-panel-description = Zure aplikazioaren nabigatzaile-arteko bateragarritasun-egoera xehatuaren informazioa erakusten duen orriaren ikuskatzaileko albo-panela. Ikusi <a data-l10n-name="bugzilla">1584464 buga</a> xehetasun gehiagorako.
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Cookieak: SameSite=Lax lehenespenez
