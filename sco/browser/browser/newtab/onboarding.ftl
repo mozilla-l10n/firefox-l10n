@@ -214,9 +214,81 @@ onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of automatic theme
+onboarding-multistage-theme-tooltip-automatic-2 =
+    .title =
+        Cairry ower the kythe o yer operatin
+        seestem fur buttons, menus and windaes.
+# Input description for automatic theme
+onboarding-multistage-theme-description-automatic-2 =
+    .aria-description =
+        Cairry ower the kythe o yer operatin
+        seestem fur buttons, menus and windaes.
+# Tooltip displayed on hover of light theme
+onboarding-multistage-theme-tooltip-light-2 =
+    .title =
+        Yaise a licht kythe fur buttons,
+        menus, and windaes.
+# Input description for light theme
+onboarding-multistage-theme-description-light =
+    .aria-description =
+        Yaise a licht kythe fur buttons,
+        menus, and windaes.
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark-2 =
+    .title =
+        Yaise a derk kythe fur buttons,
+        menus, and windaes.
+# Input description for dark theme
+onboarding-multistage-theme-description-dark =
+    .aria-description =
+        Yaise a derk kythe fur buttons,
+        menus, and windaes.
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow-2 =
+    .title =
+        Yaise a vieve kythe fur buttons,
+        menus, and windaes.
+# Input description for Alpenglow theme
+onboarding-multistage-theme-description-alpenglow =
+    .aria-description =
+        Yaise a vieve kythe fur buttons,
+        menus, and windaes.
 
 ## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 
+# "Hero Text" displayed on left side of welcome screen.
+# The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
+# It also signals the passion users bring to Firefox, how they use
+# Firefox to pursue those passions, as well as the boldness in their
+# choice to use Firefox over a larger competitor browser.
+# An alternative title for localization is: "It starts here".
+mr1-welcome-screen-hero-text = Fire sterts here
+# This button will open system settings to turn on prefers-reduced-motion
+mr1-onboarding-reduce-motion-button-label = Turn aff animations
+mr1-onboarding-welcome-header = Walcome tae { -brand-short-name }
+mr1-onboarding-set-default-pin-primary-button-label = Mak { -brand-short-name } ma staunart stravaiger
+    .title = Sets { -brand-short-name } as staunart stravaiger and peens tae taskbaur
+mr1-onboarding-set-default-only-primary-button-label = Mak { -brand-short-name } ma staunart stravaiger
+mr1-onboarding-set-default-secondary-button-label = No jist noo
+mr1-onboarding-sign-in-button-label = Sign in
+mr1-onboarding-import-header = Bring it aw wi ye
+mr1-onboarding-import-subtitle = Inbring yer passwirds, <br/>buikmerks, and mair.
+# The primary import button label will depend on whether we can detect which browser was used to download Firefox.
+# Variables:
+#   $previous (Str) - Previous browser name, such as Edge, Chrome
+mr1-onboarding-import-primary-button-label-attribution = Inbring fae { $previous }
+# This string will be used in cases where we can't detect the previous browser name.
+mr1-onboarding-import-primary-button-label-no-attribution = Inbring fae previous wab-stravaiger
+mr1-onboarding-import-secondary-button-label = No jist noo
+mr1-onboarding-theme-header = Mak it yer ain
+mr1-onboarding-theme-subtitle = Personalise { -brand-short-name } wi a theme
+mr1-onboarding-theme-primary-button-label = Save theme
+mr1-onboarding-theme-secondary-button-label = No jist noo
+# System theme uses operating system color settings
+mr1-onboarding-theme-label-system = Seestem theme
+mr1-onboarding-theme-label-light = Licht
+mr1-onboarding-theme-label-dark = Derk
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
