@@ -179,6 +179,12 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [one] Alisin Lahat
        *[other] Alisin Lahat
     }
+about-logins-confirm-remove-all-dialog-checkbox-label =
+    { $count ->
+        [1] Sige, tangalin itong login
+        [one] Sige, tangalin itong mga login
+       *[other] Sige, tangalin ang mga login
+    }
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] Alisin ang lahat ng { $count } login?
@@ -187,6 +193,7 @@ about-logins-confirm-remove-all-dialog-title =
 about-logins-confirm-export-dialog-title = Mag-export ng mga login at password
 about-logins-confirm-export-dialog-message = Mase-save ang mga password mo bilang readable text (hal., PangitNaP@ssw0rd) kaya pwede itong makita ng kahit sinong makakapagbukas ng na-export na file.
 about-logins-confirm-export-dialog-confirm-button = i-Export…
+about-logins-alert-import-title = Kumpleto na ang Pag-import
 confirm-discard-changes-dialog-title = Itapon ang mga hindi nai-save na pagbabago?
 confirm-discard-changes-dialog-message = Lahat ng hindi nai-save na mga pagbabago ay mawawala.
 confirm-discard-changes-dialog-confirm-button = Balewalain
@@ -260,7 +267,14 @@ about-logins-import-file-picker-tsv-filter-title =
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-dialog-title = Kumpleto na ang Pag-import
+about-logins-import-dialog-items-added =
+    { $count ->
+        [one] <span>naidagdag ang mga bagong login</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>dinagdag ang mga bagong login</span> <span data-l10n-name="count">{ $count }</span>
+    }
 about-logins-import-dialog-done = Tapos na
+about-logins-import-dialog-error-title = Error sa Pag-import
 about-logins-import-dialog-error-file-format-title = May Isyu sa Format ng File
 about-logins-import-dialog-error-file-permission-title = Hindi mabasa ang File
 about-logins-import-dialog-error-learn-more = Karagdagang kaalaman
