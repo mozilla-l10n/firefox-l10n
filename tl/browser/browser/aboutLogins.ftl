@@ -76,7 +76,6 @@ login-intro-description = Kung nag-save ka ng mga login mo sa { -brand-product-n
 login-intro-instruction-fxa = Gumawa ng o mag-sign in sa iyong { -fxaccount-brand-name } sa device kung saan naka-save ang mga login mo
 login-intro-instruction-fxa-settings = Siguruhin na napili mo ang checkbox na Mga Login sa Mga { -sync-brand-short-name } Setting
 about-logins-intro-instruction-help = Bisitahin ang <a data-l10n-name="help-link">{ -lockwise-brand-short-name } Support</a> para sa karagdagang tulong
-login-intro-instructions-fxa = Gumawa o mag-sign in sa iyong { -fxaccount-brand-name(capitalization: "sentence") } sa pamamagitan ng device kung saan naka-save ang mga login mo.
 login-intro-instructions-fxa-settings = Pumunta sa Mga Setting> Sync> I-on ang pag-sync ... Piliin ang checkbox ng Mga login at password.
 login-intro-instructions-fxa-help = Bisitahin ang support sa <a data-l10n-name="help-link">{ -lockwise-brand-short-name } </a> para sa karagdagang tulong.
 about-logins-intro-import = Kung ang iyong mga login ay naka-save sa ibang browser, maaari mong <a data-l10n-name="import-link"> ilipat ang mga ito sa { -lockwise-brand-short-name } </a>
