@@ -129,15 +129,47 @@ onboarding-facebook-container-title = Set Boonds wi Facebook
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } keeps yer profile sindert fae awthin else, makkin it haurder for Facebook tae target ye wi ads.
 onboarding-facebook-container-button = Eik On the Extension
 onboarding-import-browser-settings-title = Inbring Yer Buikmerks, Passwirds, and Mair
+onboarding-import-browser-settings-text = Get fired in—bring yer Chrome sites and settins wi ye, nae fash.
+onboarding-import-browser-settings-button = Inbring Chrome Data
+onboarding-personal-data-promise-title = Shapit for Preevacy
+onboarding-personal-data-promise-text = { -brand-product-name } haunles yer data wi tent by takkin no sae muckle o it, and bein suithfest aboot whit we dae wi it.
+onboarding-personal-data-promise-button = Read oor Promise
 
 ## Message strings belonging to the Return to AMO flow
 
+return-to-amo-sub-header = Smashin, ye've got { -brand-short-name }
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = Noo lat's fix ye up wi <icon></icon><b>{ $addon-name }.</b>
+return-to-amo-extension-button = Eik On the Extension
+return-to-amo-get-started-button = Get Stertit wi { -brand-short-name }
+onboarding-not-now-button-label = No Jist Noo
 
 ## Custom Return To AMO onboarding strings
 
+return-to-amo-subtitle = Smashin, ye've got { -brand-short-name }
+# <img data-l10n-name="icon"/> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-title = Noo lat's fix ye up wi <img data-l10n-name="icon"/> <b>{ $addon-name }</b>.
+return-to-amo-add-extension-label = Eik On the Extension
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-welcome-header = Walcome tae <span data-l10n-name="zap">{ -brand-short-name }</span>
+onboarding-multistage-welcome-subtitle = The fast, siccar, and preevat wab-stravaiger that's uphaudit by a non-profit.
+onboarding-multistage-welcome-primary-button-label = Stert Setup
+onboarding-multistage-welcome-secondary-button-label = Sign in
+onboarding-multistage-welcome-secondary-button-text = Got an accoont?
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "default" should stay inside the span.
+onboarding-multistage-set-default-header = Mak { -brand-short-name } yer <span data-l10n-name="zap">staunart</span>
+onboarding-multistage-set-default-subtitle = Speed, siccarness and preevacy ilka time ye stravaig.
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
