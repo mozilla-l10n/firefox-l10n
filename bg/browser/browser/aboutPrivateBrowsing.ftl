@@ -9,6 +9,16 @@ about-private-browsing-info-title = Вие сте в поверителен пр
 about-private-browsing-info-myths = Разпространени легенди относно поверителното разглеждане
 about-private-browsing =
     .title = Търсене в интернет
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff =
+    .title = Търсене с %S или въвеждане на адрес
+about-private-browsing-handoff-no-engine =
+    .title = Търсете или въведете адрес
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff-text = Търсете с { $engine } или въведете адрес
+about-private-browsing-handoff-text-no-engine = Търсете или въведете адрес
 about-private-browsing-not-private = В момента не сте в поверителен прозорец.
 about-private-browsing-info-description = { -brand-short-name } изчиства историята на търсенето и разглеждането, когато излезете от приложението или затворите всички раздели и прозорци в поверително разглеждане. Въпреки че това не ви прави анонимни за уеб сайтовете или доставчиците на интернет услуги, това улеснява запазването анонимността на вашите действия онлайн, от останалите ползващи същия компютър.
 about-private-browsing-need-more-privacy = Имате нужда от повече поверителност?

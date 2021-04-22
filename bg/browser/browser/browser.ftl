@@ -566,6 +566,12 @@ bookmarks-tools-toolbar-visibility-menuitem =
             [true] Скриване на страничната лента с отметки
            *[other] Показване на лентата с отметки
         }
+bookmarks-tools-toolbar-visibility-panel =
+    .label =
+        { $isVisible ->
+            [true] Скриване на лентата с отметки
+           *[other] Показване на лентата с отметки
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
