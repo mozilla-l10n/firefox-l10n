@@ -21,3 +21,35 @@ languages-customize-remove =
     .accesskey = R
 languages-customize-select-language =
     .placeholder = Wale a leid tae eik on...
+languages-customize-add =
+    .label = Eik on
+    .accesskey = E
+# The pattern used to generate strings presented to the user in the
+# locale selection list.
+#
+# Example:
+#   Icelandic [is]
+#   Spanish (Chile) [es-CL]
+#
+# Variables:
+#   $locale (String) - A name of the locale (for example: "Icelandic", "Spanish (Chile)")
+#   $code (String) - Locale code of the locale (for example: "is", "es-CL")
+languages-code-format =
+    .label = { $locale } [{ $code }]
+languages-active-code-format =
+    .value = { languages-code-format.label }
+browser-languages-window =
+    .title = { -brand-short-name } Leid Settins
+    .style = width: 40em
+browser-languages-description = { -brand-short-name } will kythe the first leid as yer staunart and will kythe ither leids if necessar in the order they shaw up.
+browser-languages-search = Sairch fur mair leids…
+browser-languages-searching =
+    .label = Sairchin fur leids…
+browser-languages-downloading =
+    .label = Doonloadin...
+browser-languages-select-language =
+    .label = Wale a leid tae eik on…
+    .placeholder = Wale a leid tae eik on…
+browser-languages-installed-label = Instawed leids
+browser-languages-available-label = Leids that are redd
+browser-languages-error = { -brand-short-name } cannae update yer leids the noo. Mak siccar ye're connectit tae the internet or gie it anither shottie.
