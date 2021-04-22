@@ -100,6 +100,13 @@ onboarding-data-sync-title = Tak Yer Settins wi Ye
 # "Sync" is short for synchronize.
 onboarding-data-sync-text2 = Sync yer buikmerks, passwirds and mair awwhaur ye yaise { -brand-product-name }.
 onboarding-data-sync-button2 = Sign in tae { -sync-brand-short-name }
+onboarding-firefox-monitor-title = Stey Tentie tae Data Breaches
+onboarding-firefox-monitor-text2 = { -monitor-brand-name } keeps a watch oot fur if yer email has kythed itsel in a kent data breach and lats ye ken gin it kythes itsel in a new breach.
+onboarding-firefox-monitor-button = Sign Up for Alerts
+onboarding-browse-privately-title = Stravaig in Preevat
+onboarding-browse-privately-text = Preevat Stravaigin dichts yer sairch and stravaigin historie tae keep it secret fae oniebodie that yaises yer computer.
+onboarding-browse-privately-button = Open a Preevat Windae
+onboarding-firefox-send-title = Keep Yer Shared Files Preevat
 
 ## Message strings belonging to the Return to AMO flow
 
