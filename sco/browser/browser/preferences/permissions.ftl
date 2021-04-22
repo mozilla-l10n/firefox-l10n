@@ -111,12 +111,26 @@ permissions-site-autoplay-desc = Ye can manage the sites that dinnae follae yer 
 permissions-site-notification-window =
     .title = Settins - Notification Permeesions
     .style = { permissions-window.style }
+permissions-site-notification-desc = The follaein wabsites hae speirt fur tae send ye notificiations. Ye can set oot whit wabsites are allowed tae send ye notifications. Forby, ye can block new speirins fur tae allow notifications.
+permissions-site-notification-disable-label =
+    .label = Block new speirins fur tae allow notifications
+permissions-site-notification-disable-desc = This will stap onie wabsites no listit abuin fae speirin permeesion tae send notifications. Blockin notifications micht brek some wabsite featurs.
 
 ## Site Permissions - Location
 
+permissions-site-location-window =
+    .title = Settins - Airtin Permeesions
+    .style = { permissions-window.style }
+permissions-site-location-desc = The follaein wabsites hae speirt fur tae hae ingang tae yer airtin. Ye can set oot whit wabsites are allowed ingang tae yer airtin. Forby, ye can block new speirins fur tae get ingang tae yer airtin.
+permissions-site-location-disable-label =
+    .label = Block new speirins fur ingang tae yer airtin.
+permissions-site-location-disable-desc = This will stap ony wabsites no listit abuin fae speirin efter permeesion tae hae ingang tae yer airtin. Blockin ingang tae yer airtin micht brek some wabsite featurs.
 
 ## Site Permissions - Virtual Reality
 
+permissions-site-xr-window =
+    .title = Settins - Virtual Reality Permeesions
+    .style = { permissions-window.style }
 
 ## Site Permissions - Camera
 
