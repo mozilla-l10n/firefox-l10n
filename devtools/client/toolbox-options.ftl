@@ -94,7 +94,7 @@ options-disable-http-cache-label = HTTP 캐시 사용 안 함 (도구상자가 �
 options-disable-http-cache-tooltip =
     .title = 이 옵션을 켜면 도구상자가 열려있는 모든 탭에서 HTTP 캐시를 비활성화 합니다. Service Worker는 이 설정의 영향을 받지 않습니다.
 # The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = JavaScript 끄기*
+options-disable-javascript-label = JavaScript 사용 안 함*
 options-disable-javascript-tooltip =
     .title = 이 옵션을 켜면 현재 탭의 JavaScript가 꺼집니다. 이 탭이나 도구상자가 닫히면 이 설정도 초기화됩니다.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
