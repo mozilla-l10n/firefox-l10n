@@ -131,6 +131,9 @@ permissions-site-location-disable-desc = This will stap ony wabsites no listit a
 permissions-site-xr-window =
     .title = Settins - Virtual Reality Permeesions
     .style = { permissions-window.style }
+permissions-site-xr-desc = The follaein wabsites hae speirt fur tae hae ingang tae yer virtual reality devices. Ye can set oot whit wabsites are allowed ingang tae yer virtual reality devices. Forby, ye can block new speirins fur tae hae ingang tae yer virtual reality devices.
+permissions-site-xr-disable-label =
+    .label = Block new speirins fur tae hae ingang tae yer virtual reality devices.
 
 ## Site Permissions - Camera
 
