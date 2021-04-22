@@ -72,6 +72,19 @@ onboarding-sync-form-sub-header = fur tae haud forrit tae { -sync-brand-name }
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
+onboarding-benefit-products-text = Get the job duin wi a faimily o tools that taks tent o yer preevacy across yer devices.
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = Awthin we dae taks tent o oor Personal Data Promise: Tak less. Keep it sauf. Nae secrets.
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = Tak yer buikmerks, passwirds, historie, and mair awwhaur ye yaise { -brand-product-name }.
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = Get telt when yer personal info is in a kent data breach.
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = Manage passwirds that are bieldit and can be yaised aw ower.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -80,6 +93,13 @@ onboarding-sync-form-sub-header = fur tae haud forrit tae { -sync-brand-name }
 ## Each message also has an associated button for the user to try the feature.
 ## The string for the button is found above, in the UI strings section
 
+onboarding-tracking-protection-title2 = Bieldin fae Trackin
+onboarding-tracking-protection-text2 = { -brand-short-name } helps stap wabsites fae trackin ye online, makkin it haurder for ads tae follae ye aroond the wab.
+onboarding-tracking-protection-button2 = How it Wirks
+onboarding-data-sync-title = Tak Yer Settins wi Ye
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = Sync yer buikmerks, passwirds and mair awwhaur ye yaise { -brand-product-name }.
+onboarding-data-sync-button2 = Sign in tae { -sync-brand-short-name }
 
 ## Message strings belonging to the Return to AMO flow
 
