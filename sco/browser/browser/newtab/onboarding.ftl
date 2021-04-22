@@ -170,6 +170,23 @@ onboarding-multistage-welcome-secondary-button-text = Got an accoont?
 # automatically added to the text inside it. "default" should stay inside the span.
 onboarding-multistage-set-default-header = Mak { -brand-short-name } yer <span data-l10n-name="zap">staunart</span>
 onboarding-multistage-set-default-subtitle = Speed, siccarness and preevacy ilka time ye stravaig.
+onboarding-multistage-set-default-primary-button-label = Mak Staunart
+onboarding-multistage-set-default-secondary-button-label = No jist noo
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-pin-default-header = Stert by makkin <span data-l10n-name="zap">{ -brand-short-name }</span> anely a click awa
+onboarding-multistage-pin-default-subtitle = Fast, siccar, and preevat stravaigin ilka time ye yaise the wab.
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-waiting-subtitle = Wale { -brand-short-name } unner Wab-stravaiger when yer settins come up
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-help-text = This will peen { -brand-short-name } tae taskbaur and open settins
+onboarding-multistage-pin-default-primary-button-label = Mak { -brand-short-name } Ma Staunart Stravaiger
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "more" should stay inside the span.
+onboarding-multistage-import-header = Inbring yer passwirds, <br/>buikmerks, and <span data-l10n-name="zap">mair</span>
+onboarding-multistage-import-subtitle = Comin fae anither wab-stravaiger? It's easy tae bring awthin tae { -brand-short-name }.
+onboarding-multistage-import-primary-button-label = Stert Inbringin
+onboarding-multistage-import-secondary-button-label = No jist noo
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
