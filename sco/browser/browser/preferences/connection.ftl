@@ -45,3 +45,44 @@ connection-proxy-socks = SOCKS Host
     .accesskey = C
 connection-proxy-socks-port = Port
     .accesskey = t
+connection-proxy-socks4 =
+    .label = SOCKS v4
+    .accesskey = K
+connection-proxy-socks5 =
+    .label = SOCKS v5
+    .accesskey = v
+connection-proxy-noproxy = Nae proxy fur
+    .accesskey = N
+connection-proxy-noproxy-desc = Exemple: .mozilla.org, .net.nz, 192.168.1.0/24
+# Do not translate localhost, 127.0.0.1 and ::1.
+connection-proxy-noproxy-localhost-desc = Connections tae localhost, 127.0.0.1, and ::1 are never proxied.
+# Do not translate "localhost", "127.0.0.1/8" and "::1". (You can translate "and".)
+connection-proxy-noproxy-localhost-desc-2 = Connections tae localhost, 127.0.0.1/8, and ::1 are never proxied.
+connection-proxy-autotype =
+    .label = Automatic proxy confeeguration URL
+    .accesskey = A
+connection-proxy-reload =
+    .label = Reload
+    .accesskey = e
+connection-proxy-autologin =
+    .label = Dinnae speir fur authentication if passwird is saved
+    .accesskey = i
+    .tooltip = This option silently authenticates ye tae proxies when ye hae saved credentials fur them. Ye'll be promptit if authentication misgaes.
+connection-proxy-socks-remote-dns =
+    .label = Proxy DNS when yaisin SOCKS v5
+    .accesskey = D
+connection-dns-over-https =
+    .label = Enable DNS ower HTTPS
+    .accesskey = b
+connection-dns-over-https-url-resolver = Yaise Provider
+    .accesskey = P
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item-default =
+    .label = { $name } (Default)
+    .tooltiptext = Yaise the staunart URL fur dealin wi DNS ower HTTPS
+connection-dns-over-https-url-custom =
+    .label = Custom
+    .accesskey = C
+    .tooltiptext = Inpit yer preferred URL fur dealin wi DNS ower HTTPS
+connection-dns-over-https-custom-label = Custom
