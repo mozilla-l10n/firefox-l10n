@@ -107,6 +107,19 @@ onboarding-browse-privately-title = Stravaig in Preevat
 onboarding-browse-privately-text = Preevat Stravaigin dichts yer sairch and stravaigin historie tae keep it secret fae oniebodie that yaises yer computer.
 onboarding-browse-privately-button = Open a Preevat Windae
 onboarding-firefox-send-title = Keep Yer Shared Files Preevat
+onboarding-firefox-send-text2 = Upload yer files tae { -send-brand-name } tae share them wi end-tae-end encryption and a link that automatically expires.
+onboarding-firefox-send-button = Try { -send-brand-name }
+onboarding-mobile-phone-title = Get { -brand-product-name } on Yer Phone
+onboarding-mobile-phone-text = Doonload { -brand-product-name } for iOS or Android and sync yer data across devices.
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Doonload Mobile Stravaiger
+onboarding-send-tabs-title = Send Yersel Tabs In a Gliff
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text2 = Share pages atween yer devices easy wioot haein tae copy links or leave the wab-stravaiger.
+onboarding-send-tabs-button = Stert Yaisin Send Tabs
+onboarding-pocket-anywhere-title = Read and Listen Oniewhaur
 
 ## Message strings belonging to the Return to AMO flow
 
