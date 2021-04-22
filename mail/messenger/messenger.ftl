@@ -64,3 +64,19 @@ appmenu-help-exit-troubleshoot-mode =
     .label = Sorun giderme modunu kapat
 appmenu-help-more-troubleshooting-info =
     .label = Sorun giderme bilgileri
+
+## Action Button Context Menu
+
+toolbar-context-menu-manage-extension =
+    .label = Uzantıyı yönet
+    .accesskey = U
+toolbar-context-menu-remove-extension =
+    .label = Uzantıyı kaldır
+    .accesskey = n
+
+## Add-on removal warning
+
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = { $name } kaldırılsın mı?
+addon-removal-confirmation-button = Kaldır
