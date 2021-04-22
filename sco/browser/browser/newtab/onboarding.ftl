@@ -289,9 +289,51 @@ mr1-onboarding-theme-secondary-button-label = No jist noo
 mr1-onboarding-theme-label-system = Seestem theme
 mr1-onboarding-theme-label-light = Licht
 mr1-onboarding-theme-label-dark = Derk
+# "Alpenglow" here is the name of the theme, and should be kept in English.
+mr1-onboarding-theme-label-alpenglow = Alpenglow
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of system theme
+mr1-onboarding-theme-tooltip-system =
+    .title =
+        Follae the operatin seestem theme
+        fur buttons, menus and windaes.
+# Input description for system theme
+mr1-onboarding-theme-description-system =
+    .aria-description =
+        Follae the operatin seestem theme
+        fur buttons, menus and windaes.
+# Tooltip displayed on hover of light theme
+mr1-onboarding-theme-tooltip-light =
+    .title =
+        Yaise a licht theme fur buttons,
+        menus, and windaes.
+# Input description for light theme
+mr1-onboarding-theme-description-light =
+    .aria-description =
+        Yaise a licht theme fur buttons,
+        menus, and windaes.
+# Tooltip displayed on hover of dark theme
+mr1-onboarding-theme-tooltip-dark =
+    .title =
+        Yaise a derk theme fur buttons,
+        menus, and windaes.
+# Input description for dark theme
+mr1-onboarding-theme-description-dark =
+    .aria-description =
+        Yaise a derk theme fur buttons,
+        menus, and windaes.
+# Tooltip displayed on hover of Alpenglow theme
+mr1-onboarding-theme-tooltip-alpenglow =
+    .title =
+        Yaise a vieve, cantie theme fur buttons,
+        menus, and windaes.
+# Input description for Alpenglow theme
+mr1-onboarding-theme-description-alpenglow =
+    .aria-description =
+        Yaise a vieve, cantie theme fur buttons,
+        menus, and windaes.
