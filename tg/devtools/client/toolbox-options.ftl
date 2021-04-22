@@ -36,3 +36,5 @@ options-default-color-unit-name = Номҳои ранг
 
 ## Advanced section
 
+# The heading (this item is also used in perftools.ftl)
+options-context-advanced-settings = Танзимоти иловагӣ

@@ -9,6 +9,7 @@
 <!ENTITY retry.label "Аз нав кӯшиш кардан">
 <!ENTITY returnToPreviousPage.label "Бозгашт">
 <!ENTITY returnToPreviousPage1.label "Бозгашт (тавсия дода мешавад)">
+<!ENTITY advanced2.label "Иловагӣ…">
 <!ENTITY viewCertificate.label "Дидани гувоҳинома">
 
 <!-- Specific error messages -->
@@ -53,6 +54,7 @@
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara2 "Браузери &brandShortName; хатареро муайян кард, ки метавонад ба амнияти шумо зарар расонад ва бинобар ин кушодани <span class='hostname'/>-ро манъ кард. Агар шумо ин сомонаро кушоед, ҳамлакунандагон метавонанд маълумоти шахсии шуморо, монанди ниҳонвожаҳо, нишонии почтаи электронӣ, тафсилоти корти бонкӣ ва ғайра, дӯзди карда, ба даст оранд.">
+<!ENTITY certerror.sts.introPara "Браузери &brandShortName; хатареро муайян кард, ки метавонад ба амнияти шумо зарар расонад ва бинобар ин кушодани <span class='hostname'/>-ро манъ кард, зеро ки ин сомона пайвасти бехатареро талаб мекунад.">
 
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Шумо чӣ тавр метавонед онро ислоҳ кунед?">
@@ -64,6 +66,7 @@ was trying to connect. -->
 
 
 
+<!ENTITY securityOverride.exceptionButton1Label "Таваккалро қабул карда, идома диҳед">
 
 <!ENTITY errorReporting.learnMore "Маълумоти бештар…">
 

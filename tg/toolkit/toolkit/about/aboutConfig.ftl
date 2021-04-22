@@ -5,6 +5,8 @@
 
 ## Strings used to display a warning in about:config
 
+config-about-warning-button =
+    .label = Ман таваккалро қабул мекунам!
 
 ## These strings are used for column headers
 
