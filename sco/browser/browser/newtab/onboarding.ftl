@@ -120,6 +120,15 @@ onboarding-send-tabs-title = Send Yersel Tabs In a Gliff
 onboarding-send-tabs-text2 = Share pages atween yer devices easy wioot haein tae copy links or leave the wab-stravaiger.
 onboarding-send-tabs-button = Stert Yaisin Send Tabs
 onboarding-pocket-anywhere-title = Read and Listen Oniewhaur
+onboarding-pocket-anywhere-text2 = Save yer favourite content affline wi the { -pocket-brand-name } App and read, listen, and watch whenever it suits ye.
+onboarding-pocket-anywhere-button = Try { -pocket-brand-name }
+onboarding-lockwise-strong-passwords-title = Mak and Store Strang Passwirds
+onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } maks strang passwirds on the spot and saves them aw in ane place.
+onboarding-lockwise-strong-passwords-button = Manage Yer Logins
+onboarding-facebook-container-title = Set Boonds wi Facebook
+onboarding-facebook-container-text2 = { -facebook-container-brand-name } keeps yer profile sindert fae awthin else, makkin it haurder for Facebook tae target ye wi ads.
+onboarding-facebook-container-button = Eik On the Extension
+onboarding-import-browser-settings-title = Inbring Yer Buikmerks, Passwirds, and Mair
 
 ## Message strings belonging to the Return to AMO flow
 
