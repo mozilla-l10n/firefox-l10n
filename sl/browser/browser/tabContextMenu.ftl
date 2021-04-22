@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+tab-context-new-tab =
+    .label = Nov zavihek
+    .accesskey = v
 reload-tab =
     .label = Ponovno naloži zavihek
     .accesskey = n
@@ -66,15 +69,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Zapri več zavihkov
     .accesskey = č
-tab-context-share-url =
-    .label = Deli
-    .accesskey = D
-tab-context-share-more =
-    .label = Več …
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->
@@ -97,6 +91,15 @@ move-tabs =
 move-tab =
     .label = Premakni zavihek
     .accesskey = k
+tab-context-share-url =
+    .label = Deli
+    .accesskey = D
+tab-context-share-more =
+    .label = Več …
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->

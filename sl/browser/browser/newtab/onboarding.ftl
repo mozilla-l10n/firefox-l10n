@@ -200,7 +200,6 @@ onboarding-welcome-steps-indicator =
 # automatically added to the text inside it. "look" should stay inside the span.
 onboarding-multistage-theme-header = Izberite <span data-l10n-name="zap">videz</span>
 onboarding-multistage-theme-subtitle = Prilagodite svoj { -brand-short-name } s temo.
-onboarding-multistage-theme-primary-button-label = Shrani temo
 onboarding-multistage-theme-primary-button-label2 = Končano
 onboarding-multistage-theme-secondary-button-label = Ne zdaj
 # Automatic theme uses operating system color settings
@@ -255,3 +254,27 @@ onboarding-multistage-theme-description-alpenglow =
     .aria-description =
         Uporabi barvit videz gumbov,
         menijev in oken.
+
+## Multistage MR1 onboarding strings (MR1 about:welcome pages)
+
+# This button will open system settings to turn on prefers-reduced-motion
+mr1-onboarding-reduce-motion-button-label = Izklopi animacije
+mr1-onboarding-welcome-header = Dobrodošli v { -brand-short-name(sklon: "mestnik") }
+mr1-onboarding-set-default-pin-primary-button-label = Nastavi { -brand-short-name } kot moj glavni brskalnik
+    .title = Nastavi { -brand-short-name } kot privzeti brskalnik in ga pripni v opravilno vrstico
+mr1-onboarding-set-default-secondary-button-label = Ne zdaj
+# The primary import button label will depend on whether we can detect which browser was used to download Firefox.
+# Variables:
+#   $previous (Str) - Previous browser name, such as Edge, Chrome
+mr1-onboarding-import-primary-button-label-attribution = Uvozi iz brskalnika { $previous }
+# This string will be used in cases where we can't detect the previous browser name.
+mr1-onboarding-import-primary-button-label-no-attribution = Uvozi iz prejšnjega brskalnika
+mr1-onboarding-import-secondary-button-label = Ne zdaj
+mr1-onboarding-theme-primary-button-label = Shrani temo
+mr1-onboarding-theme-secondary-button-label = Ne zdaj
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
