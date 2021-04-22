@@ -12,7 +12,9 @@ default-browser-notification-button =
 ## depending on the operating system (Windows vs other). The checkbox label and
 ## secondary button are shared between the variants.
 
+default-browser-prompt-title-pin = Želite nastaviti { -brand-short-name } za glavni brskalnik?
 default-browser-prompt-button-primary-pin = Nastavi kot glavni brskalnik
+default-browser-prompt-title-alt = Želite nastaviti { -brand-short-name } za privzeti brskalnik?
 default-browser-prompt-button-primary-alt = Nastavi kot privzeti brskalnik
-default-browser-prompt-checkbox-label = Ne sprašuj več
+default-browser-prompt-checkbox-not-again-label = Tega sporočila ne prikaži več
 default-browser-prompt-button-secondary = Ne zdaj

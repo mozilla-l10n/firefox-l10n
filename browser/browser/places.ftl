@@ -5,10 +5,10 @@
 places-open =
     .label = Odpri
     .accesskey = O
-places-open-tab =
+places-open-in-tab =
     .label = Odpri v novem zavihku
     .accesskey = z
-places-open-in-tab =
+places-open-tab =
     .label = Odpri v novem zavihku
     .accesskey = z
 places-open-all-bookmarks =
@@ -20,7 +20,13 @@ places-open-all-in-tabs =
 places-open-window =
     .label = Odpri v novem oknu
     .accesskey = k
+places-open-in-window =
+    .label = Odpri v novem oknu
+    .accesskey = o
 places-open-private-window =
+    .label = Odpri v novem zasebnem oknu
+    .accesskey = s
+places-open-in-private-window =
     .label = Odpri v novem zasebnem oknu
     .accesskey = s
 places-new-bookmark =
@@ -35,12 +41,6 @@ places-new-folder =
 places-new-separator =
     .label = Nova ločilna črta
     .accesskey = l
-places-open-in-window =
-    .label = Odpri v novem oknu
-    .accesskey = o
-places-open-in-private-window =
-    .label = Odpri v novem zasebnem oknu
-    .accesskey = s
 places-add-bookmark =
     .label = Dodaj zaznamek …
     .accesskey = D
@@ -91,6 +91,18 @@ places-edit-bookmark =
 places-edit-generic =
     .label = Uredi …
     .accesskey = U
+places-edit-folder =
+    .label = Preimenuj mapo …
+    .accesskey = r
+places-remove-folder =
+    .label =
+        { $count ->
+            [one] Odstrani mapo
+            [two] Odstrani mapi
+            [few] Odstrani mape
+           *[other] Odstrani mape
+        }
+    .accesskey = s
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Upravljani zaznamki

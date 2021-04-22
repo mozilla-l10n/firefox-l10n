@@ -49,3 +49,5 @@ customize-mode-lwthemes-my-themes =
     .value = Moje teme
 customize-mode-touchbar-cmd =
     .label = Prilagodi vrstico na dotik …
+customize-mode-downloads-button-autohide =
+    .label = Skrij gumb, ko je seznam prazen

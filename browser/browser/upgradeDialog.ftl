@@ -10,6 +10,7 @@
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-new-title = Spoznajte novi { -brand-short-name }
+upgrade-dialog-new-item-tabs-title = Sodobni zavihki
 upgrade-dialog-new-item-icons-title = Sveže ikone in jasnejša sporočila
 upgrade-dialog-new-primary-default-button = Nastavi { -brand-short-name } kot privzet brskalnik
 upgrade-dialog-new-primary-pin-button = Pripni { -brand-short-name } v opravilno vrstico
