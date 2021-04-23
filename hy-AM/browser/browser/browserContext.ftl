@@ -88,6 +88,9 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
+## Firefox Account Button
+
+
 ## Save Page
 
 main-context-menu-page-save =
@@ -252,6 +255,9 @@ main-context-menu-image-view =
 main-context-menu-video-view =
     .label = Դիտել Հոլովակը
     .accesskey = Դ
+main-context-menu-image-view-new-tab =
+    .label = Բացել պատկերը նոր ներդիրում
+    .accesskey = I
 main-context-menu-image-copy =
     .label = Կրկնօրինակել Նկարը
     .accesskey = ր
@@ -264,6 +270,9 @@ main-context-menu-video-copy-location =
 main-context-menu-audio-copy-location =
     .label = Պատճենել Ձայնագրության Հասցեն
     .accesskey = ա
+main-context-menu-image-copy-link =
+    .label = Պատճենել պատկերի հղումը
+    .accesskey = o
 main-context-menu-image-save-as =
     .label = Պահպանել Նկարը Որպես…
     .accesskey = պ
@@ -273,6 +282,9 @@ main-context-menu-image-email =
 main-context-menu-image-set-as-background =
     .label = Տեղադրել Աշխատասեղանին…
     .accesskey = Տ
+main-context-menu-image-set-image-as-background =
+    .label = Պահպանել պատկերը որպես Աշխատասեղանի նկար…
+    .accesskey = S
 main-context-menu-image-info =
     .label = Տեղեկություն Նկարի Մասին
     .accesskey = Տ
@@ -288,6 +300,9 @@ main-context-menu-audio-save-as =
 main-context-menu-video-image-save-as =
     .label = Պահպանել էկրանի պատկերը որպես...
     .accesskey = Պ
+main-context-menu-video-take-snapshot =
+    .label = Ստանալ էկրանի պատկերը…
+    .accesskey = S
 main-context-menu-video-email =
     .label = Տեսանյութը ուղարկել էլ. փոստով...
     .accesskey = ս
@@ -376,6 +391,9 @@ main-context-menu-bidi-switch-page =
     .accesskey = Ո
 main-context-menu-inspect-element =
     .label = Զննել տարրը
+    .accesskey = Q
+main-context-menu-inspect =
+    .label = Զննել
     .accesskey = Q
 main-context-menu-inspect-a11y-properties =
     .label = Ստուգել մատչելիության հատկությունները
