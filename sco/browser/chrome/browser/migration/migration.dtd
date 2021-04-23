@@ -44,5 +44,8 @@
 <!ENTITY migrating.title                "Inbringin…">
 <!ENTITY migrating.label                "The follaein items are bein inbrocht the noo...">
 
+<!ENTITY selectProfile.title            "Pick Profile">
+<!ENTITY selectProfile.label            "The follaein profiles are at haun tae inbring fae:">
 
+<!ENTITY done.title                     "Inbring Feenisht">
 

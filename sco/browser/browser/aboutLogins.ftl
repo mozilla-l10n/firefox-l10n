@@ -298,11 +298,11 @@ about-logins-import-dialog-items-modified =
     }
 about-logins-import-dialog-items-no-change =
     { $count ->
-       *[other] <span>Duplicate logins fund:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(no inbrung)</span>
+       *[other] <span>Duplicate logins fund:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(no inbrocht)</span>
     }
 about-logins-import-dialog-items-error =
     { $count ->
-       *[other] <span>Mishanters:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(no inbrung)</span>
+       *[other] <span>Mishanters:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(no inbrocht)</span>
     }
 about-logins-import-dialog-done = Duin
 about-logins-import-dialog-error-title = Inbringin Mishanter
@@ -314,13 +314,13 @@ about-logins-import-dialog-error-file-permission-title = No Able tae Read File
 about-logins-import-dialog-error-file-permission-description = { -brand-short-name } disnae hae permeesion tae read the file. Try chyngin the file permeesions.
 about-logins-import-dialog-error-unable-to-read-title = No Able tae Parse File
 about-logins-import-dialog-error-unable-to-read-description = Mak shair ye selectit a CSV or TSV file.
-about-logins-import-dialog-error-no-logins-imported = Nae logins hae been inbrung
+about-logins-import-dialog-error-no-logins-imported = Nae logins hae been inbrocht
 about-logins-import-dialog-error-learn-more = Lairn mair
 about-logins-import-dialog-error-try-again = Try Aince Mair...
 about-logins-import-dialog-error-try-import-again = Try Inbringin Aince Mair...
 about-logins-import-dialog-error-cancel = Stap
 about-logins-import-report-title = Inbringin Summary
-about-logins-import-report-description = Logins and passwirds inbrung tae { -brand-short-name }.
+about-logins-import-report-description = Logins and passwirds inbrocht tae { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
@@ -351,11 +351,11 @@ about-logins-import-report-modified =
     }
 about-logins-import-report-no-change =
     { $count ->
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Duplicate logins</div> <div data-l10n-name="not-imported">(no inbrung)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Duplicate logins</div> <div data-l10n-name="not-imported">(no inbrocht)</div>
     }
 about-logins-import-report-error =
     { $count ->
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Mishanters</div> <div data-l10n-name="not-imported">(no inbrung)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Mishanters</div> <div data-l10n-name="not-imported">(no inbrocht)</div>
     }
 
 ## Logins import report page
