@@ -74,7 +74,7 @@ cmd-contribute =
 detail-version =
     .label = 버전
 detail-last-updated =
-    .label = 마지막 업데이트
+    .label = 업데이트
 detail-contributions-description = 이 부가 기능의 개발자가 여러분이 작은 기여로 지속적인 개발을 지원해 줄 것을 요청합니다.
 detail-contributions-button = 기여하기
     .title = 이 부가 기능의 개발에 기여하기
@@ -274,7 +274,7 @@ privacy-policy = 개인정보처리방침
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
 #   $author (string) - The name of the add-on developer.
-created-by-author = 제작: <a data-l10n-name="author">{ $author }</a>
+created-by-author = 제작자: <a data-l10n-name="author">{ $author }</a>
 # Shows the number of daily users of the add-on.
 # Variables:
 #   $dailyUsers (number) - The number of daily users.
@@ -323,9 +323,9 @@ locale-disabled-heading = 사용 안 함
 ask-to-activate-button = 활성화 요청
 always-activate-button = 항상 사용
 never-activate-button = 사용 안 함
-addon-detail-author-label = 제작
+addon-detail-author-label = 제작자
 addon-detail-version-label = 버전
-addon-detail-last-updated-label = 마지막 업데이트
+addon-detail-last-updated-label = 업데이트
 addon-detail-homepage-label = 홈페이지
 addon-detail-rating-label = 평가
 # Message for add-ons with a staged pending update.
