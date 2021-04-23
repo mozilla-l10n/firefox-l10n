@@ -382,11 +382,38 @@ update-application-auto =
     .label = Automatically instaw updates (recommendit)
     .accesskey = A
 update-application-check-choose =
-    .label = Check fur updates but lat you decide tae instaw them
+    .label = Check fur updates but lat yersel decide whether tae instaw them
     .accesskey = C
 update-application-manual =
     .label = Never check fur updates (no recommendit)
     .accesskey = N
+update-application-background-enabled =
+    .label = When { -brand-short-name } isnae rinnin
+    .accesskey = W
+update-application-warning-cross-user-setting = This settin will applt tae aw Windows accoonts and { -brand-short-name } profiles yaisin this instawment o { -brand-short-name }.
+update-application-use-service =
+    .label = Yaise a backgrund service fur tae instaw updates
+    .accesskey = b
+update-setting-write-failure-title = Mishanter savin Update preferences
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message =
+    { -brand-short-name } cam across a mishanter and didnae save this chynge. Mind that settin this update preference needs permeesion tae write tae the file ablow. Yersel or a seestem admeenistrator micht be able tae sort the mishanter by giein the Yaisers group full control tae this file.
+    
+    Couldnae write tae file: { $path }
+update-setting-write-failure-title2 = Mishanter savin Update settins
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message2 =
+    { -brand-short-name } cam across a mishanter and didnae save this chynge. Mind that chynging this update settin needs permiseesion tae write tae the file ablow. Yersel or a seestem admeenistrator micht be able tae sort the mishanter by giein the Yaisers group full control tae this file.
+    
+    Couldnae write tae file: { $path }
+update-in-progress-title = Update Unnerwey
+update-in-progress-message = Dae ye want { -brand-short-name } tae haud forrit wi this update?
 update-in-progress-ok-button = &Discaird
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
@@ -394,7 +421,17 @@ update-in-progress-cancel-button = &Haud Forrit
 
 ## General Section - Performance
 
+performance-title = Performance
+performance-use-recommended-settings-checkbox =
+    .label = Yaise recommendit performance settins
+    .accesskey = Y
+performance-use-recommended-settings-desc = These settins are shapit tae yer computer's haurdware and operatin seestem.
 performance-settings-learn-more = Lairn mair
+performance-allow-hw-accel =
+    .label = Yaise haurdware acceleration whaur possible
+    .accesskey = r
+performance-limit-content-process-option = Content process leemit
+    .accesskey = l
 
 ## General Section - Browsing
 
