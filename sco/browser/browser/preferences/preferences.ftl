@@ -485,22 +485,108 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = New Windaes and Tabs
+home-new-windows-tabs-description2 = Decide whit ye see when ye open yer hamepage, new windaes, and new tabs.
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = Hamepage and new windaes
+home-newtabs-mode-label = New tabs
+home-restore-defaults =
+    .label = Restore Staunarts
+    .accesskey = R
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Firefox Hame (Staunart)
+home-mode-choice-custom =
+    .label = Custom URLs…
+home-mode-choice-blank =
+    .label = Blank Page
+home-homepage-custom-url =
+    .placeholder = Paste a URL…
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Yaise Current Page
+           *[other] Yaise Current Pages
+        }
+    .accesskey = C
+choose-bookmark =
+    .label = Yaise Buikmerk...
+    .accesskey = B
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-content-header = Firefox Hame Content
+home-prefs-content-description = Decide whit content ye want on yer Firefox Hame screen.
+home-prefs-search-header =
+    .label = Wab Sairch
+home-prefs-topsites-header =
+    .label = Tap Sites
+home-prefs-topsites-description = The sites ye veesit maist
+home-prefs-topsites-by-option-sponsored =
+    .label = Sponsored Tap Sites
+home-prefs-shortcuts-header =
+    .label = Shortcuts
+home-prefs-shortcuts-description = Sites ye save or veesit
+home-prefs-shortcuts-by-option-sponsored =
+    .label = Sponsored shortcuts
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+home-prefs-recommended-by-header =
+    .label = Recommendit by { $provider }
+home-prefs-recommended-by-description-update = Gallus content fae aw ower the wab, pit thegither by { $provider }
+home-prefs-recommended-by-description-new = Gallus content pit thegither by { $provider }, pairt o the { -brand-product-name } faimily
 
 ##
 
+home-prefs-recommended-by-learn-more = How it wirks
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = Sponsored Stories
+home-prefs-highlights-header =
+    .label = Highlichts
+home-prefs-highlights-description = A walin o sites that ye've saved or veesitit
+home-prefs-highlights-option-visited-pages =
+    .label = Veesitit Pages
+home-prefs-highlights-options-bookmarks =
+    .label = Buikmerks
+home-prefs-highlights-option-most-recent-download =
+    .label = Maist Recent Doonload
+home-prefs-highlights-option-saved-to-pocket =
+    .label = Pages Saved tae { -pocket-brand-name }
+home-prefs-recent-activity-header =
+    .label = Recent activity
+home-prefs-recent-activity-description = A walin o recent sites and content
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = Bitties
+home-prefs-snippets-description = Updates fae { -vendor-short-name } and { -brand-product-name }
+home-prefs-snippets-description-new = Tips and news fae { -vendor-short-name } and { -brand-product-name }
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } row
+           *[other] { $num } rows
+        }
 
 ## Search Section
 
+search-bar-header = Sairch Baur
+search-bar-hidden =
+    .label = Yaise the address baur for sairchin and flittin aboot
+search-bar-shown =
+    .label = Eik on sairch baur in toolbaur
+search-engine-default-header = Staunart Airt-oot Engine
+search-engine-default-desc-2 = This is yer staunart airt-oot engine in the address baur and sairch baur. Ye can chynge it at onie time.
 
 ## Containers Section
 
