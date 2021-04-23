@@ -200,7 +200,6 @@ onboarding-welcome-steps-indicator =
 # automatically added to the text inside it. "look" should stay inside the span.
 onboarding-multistage-theme-header = Tacha' jun <span data-l10n-name="zap">rub'anikil</span>
 onboarding-multistage-theme-subtitle = Tawichinaj { -brand-short-name } rik'in jun wachinel.
-onboarding-multistage-theme-primary-button-label = Tiyak Wachinel
 onboarding-multistage-theme-primary-button-label2 = Xk'is
 onboarding-multistage-theme-secondary-button-label = Wakami mani
 # Automatic theme uses operating system color settings
@@ -255,3 +254,19 @@ onboarding-multistage-theme-description-alpenglow =
     .aria-description =
         Tokisäx jeb'ejöj tzub'al pa taq pitz'b'äl,
         taq k'utsamaj chuqa' pa taq ruwi'.
+
+## Multistage MR1 onboarding strings (MR1 about:welcome pages)
+
+# "Hero Text" displayed on left side of welcome screen.
+# The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
+# It also signals the passion users bring to Firefox, how they use
+# Firefox to pursue those passions, as well as the boldness in their
+# choice to use Firefox over a larger competitor browser.
+# An alternative title for localization is: "It starts here".
+mr1-welcome-screen-hero-text = Ronojel nitikïr wawe'
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
