@@ -5,13 +5,17 @@
 
 ## App Menu
 
-appmenuitem-update-banner =
-    .label-update-downloading = Descargando a actualización de { -brand-shorter-name }
 appmenuitem-update-banner2 =
     .label-update-downloading = Estase a descargar unha actualización de { -brand-shorter-name }
     .label-update-available = Actualización dispoñíbel — descargar agora
     .label-update-manual = Actualización dispoñíbel — descargar agora
     .label-update-unsupported = Non foi posíbel actualizar
+    .label-update-restart = Actualización dispoñíbel — reiniciar agora
+appmenuitem-update-banner3 =
+    .label-update-downloading = A descargar a actualización de { -brand-shorter-name }
+    .label-update-available = Actualización dispoñíbel — descargar agora
+    .label-update-manual = Actualización dispoñíbel — descargar agora
+    .label-update-unsupported = Imposíbel actualizar — sistema incompatíbel
     .label-update-restart = Actualización dispoñíbel — reiniciar agora
 appmenuitem-protection-dashboard-title = Panel de proteccións
 appmenuitem-customize-mode =
@@ -25,8 +29,6 @@ appmenuitem-new-private-window =
     .label = Nova xanela privada
 appmenuitem-passwords =
     .label = Contrasinais
-appmenuitem-extensions-and-themes =
-    .label = Extensións e temas
 appmenuitem-addons-and-themes =
     .label = Complementos e temas
 appmenuitem-find-in-page =
@@ -47,6 +49,12 @@ appmenuitem-exit2 =
             [linux] Saír
            *[other] Saír
         }
+appmenu-menu-button-closed2 =
+    .tooltiptext = Abrir menú da aplicación
+    .label = { -brand-short-name }
+appmenu-menu-button-opened2 =
+    .tooltiptext = Pechar menú da aplicación
+    .label = { -brand-short-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -65,6 +73,10 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sincronizar agora
+appmenu-remote-tabs-sign-into-sync =
+    .label = Acceda para sincronizar…
+appmenu-remote-tabs-turn-on-sync =
+    .label = Activar a sincronización ...
 appmenuitem-fxa-toolbar-sync-now2 = Sincronizar agora
 appmenuitem-fxa-manage-account = Xestionar conta
 appmenu-fxa-header =
@@ -152,11 +164,6 @@ appmenu-about =
 appmenu-get-help =
     .label = Obter axuda
     .accesskey = a
-appmenu-help-troubleshooting-info =
-    .label = Información para solucionar problemas
-    .accesskey = b
-appmenu-help-taskmanager =
-    .label = Xestor de tarefas
 appmenu-help-more-troubleshooting-info =
     .label = Máis información para solucionar problemas
     .accesskey = p
@@ -165,16 +172,6 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = Enviar opinión…
     .accesskey = o
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Reiniciar cos complementos desactivados…
-    .accesskey = R
-appmenu-help-safe-mode-with-addons =
-    .label = Reiniciar cos complementos activados
-    .accesskey = R
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

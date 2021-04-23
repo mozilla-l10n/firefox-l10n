@@ -5,12 +5,12 @@
 places-open =
     .label = Abrir
     .accesskey = A
-places-open-tab =
-    .label = Abrir nunha nova lapela
-    .accesskey = v
 places-open-in-tab =
     .label = Abrir nunha nova lapela
     .accesskey = w
+places-open-tab =
+    .label = Abrir nunha nova lapela
+    .accesskey = v
 places-open-all-bookmarks =
     .label = Abrir todos os marcadores
     .accesskey = o
@@ -20,7 +20,13 @@ places-open-all-in-tabs =
 places-open-window =
     .label = Abrir nunha nova xanela
     .accesskey = n
+places-open-in-window =
+    .label = Abrir nunha nova xanela
+    .accesskey = n
 places-open-private-window =
+    .label = Abrir nunha nova xanela privada
+    .accesskey = p
+places-open-in-private-window =
     .label = Abrir nunha nova xanela privada
     .accesskey = p
 places-new-bookmark =
@@ -35,12 +41,6 @@ places-new-folder =
 places-new-separator =
     .label = Novo separador
     .accesskey = v
-places-open-in-window =
-    .label = Abrir nunha nova xanela
-    .accesskey = n
-places-open-in-private-window =
-    .label = Abrir nunha nova xanela privada
-    .accesskey = p
 places-add-bookmark =
     .label = Engadir marcador…
     .accesskey = m
@@ -91,6 +91,17 @@ places-edit-bookmark =
 places-edit-generic =
     .label = Editar…
     .accesskey = i
+places-edit-folder =
+    .label = Renomear cartafol…
+    .accesskey = e
+places-remove-folder =
+    .label =
+        { $count ->
+            [1] Retirar cartafol
+            [one] Retirar cartafol
+           *[other] Retirar cartafoles
+        }
+    .accesskey = m
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Marcadores xestionados
