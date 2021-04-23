@@ -18,6 +18,7 @@ login-filter =
 create-login-button = Crear novo inicio de sesión
 fxaccounts-sign-in-text = Obteña os seus contrasinais doutros dispositivos seus
 fxaccounts-sign-in-button = Conectarse a { -sync-brand-short-name }
+fxaccounts-sign-in-sync-button = Inicie sesión para sincronizar
 fxaccounts-avatar-button =
     .title = Xestionar conta
 
@@ -70,11 +71,15 @@ about-logins-list-item-vulnerable-password-icon =
 
 login-intro-heading = Busca os seus inicios de sesión gardados? Configure { -sync-brand-short-name }.
 about-logins-login-intro-heading-logged-out = Busca os seus inicios de sesión gardados? Configure { -sync-brand-short-name } ou impórteos.
+about-logins-login-intro-heading-logged-out2 = Busca os teus inicios de sesión gardados? Active a sincronización ou impórteos.
 about-logins-login-intro-heading-logged-in = Non se atoparon outras sesións sincronizadas.
 login-intro-description = Se gardou os seus inicios de sesión en { -brand-product-name } noutro dispositivo, velaquí como conseguilos:
 login-intro-instruction-fxa = Cree ou inicie sesión no seu { -fxaccount-brand-name } no dispositivo onde se garden os seus inicios de sesión
 login-intro-instruction-fxa-settings = Asegúrese de que seleccionou a caixa de verificación de Iniciar sesión en Configuración de { -sync-brand-short-name }
 about-logins-intro-instruction-help = Visite <a data-l10n-name="help-link">{ -lockwise-brand-short-name } Vaia ao soporte </a> para obter máis axuda
+login-intro-instructions-fxa = Cree ou inicie sesión no seu { -fxaccount-brand-name(capitalization: "sentence") } no dispositivo onde se gardan os seus inicios de sesión.
+login-intro-instructions-fxa-settings = Vaia a Configuración > Sincronizar > Activar a sincronización… Seleccione a caixa de verificación Inicios de sesión e contrasinais.
+login-intro-instructions-fxa-help = Visite <a data-l10n-name="help-link"> { -lockwise-brand-short-name } Asistencia </a> para obter máis axuda.
 about-logins-intro-import = Se os seus inicios de sesión están gardados noutro navegador, pode <a data-l10n-name="import-link"> importalos a { -lockwise-brand-short-name } </a>
 about-logins-intro-import2 = Se os seus inicios de sesión están gardados fóra de { -brand-product-name }, pode <a data-l10n-name="import-browser-link">importalos desde outro navegador</a> ou <a data-l10n-name="import-file-link">dun ficheiro</a>
 
@@ -316,6 +321,7 @@ about-logins-import-dialog-error-unable-to-read-description = Asegúrese de que 
 about-logins-import-dialog-error-no-logins-imported = Non se importaron identificadores
 about-logins-import-dialog-error-learn-more = Saber máis
 about-logins-import-dialog-error-try-again = Ténteo de novo ...
+about-logins-import-dialog-error-try-import-again = Tente importar de novo…
 about-logins-import-dialog-error-cancel = Cancelar
 about-logins-import-report-title = Resumo da importación
 about-logins-import-report-description = Inicios de sesión e contrasinais importados ao { -brand-short-name }.

@@ -264,6 +264,8 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = Engadir marcador
+bookmarks-edit-bookmark = Editar marcador
 bookmark-panel-cancel =
     .label = Cancelar
     .accesskey = C
@@ -281,6 +283,8 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = s
 bookmark-panel-done-button =
     .label = Feito
+bookmark-panel-save-button =
+    .label = Gardar
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -322,6 +326,7 @@ identity-https-only-info-turn-off2 = Se a páxina semella estar estragada, probe
 identity-https-only-info-no-upgrade = Non foi posíbel anovar a conexión desde HTTP.
 identity-permissions-storage-access-header = Rastrexadores entre sitios
 identity-permissions-storage-access-hint = Estas partes poden usar cookies e datos de sitios entre sitios mentres estea neste sitio.
+identity-permissions-storage-access-learn-more = Máis información
 identity-permissions-reload-hint = Pode ser preciso recargar a páxina para que os cambios teñan efecto.
 identity-permissions-empty = Non lle concedeu ningún permiso especial a este sitio.
 identity-clear-site-data =
@@ -549,6 +554,13 @@ urlbar-result-action-tabtosearch-web = Buscar con { $engine } directamente desde
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = Buscar con { $engine } directamente desde a barra de enderezos
+# Action text for copying to clipboard.
+urlbar-result-action-copy-to-clipboard = Copiar
+# Shows the result of a formula expression being calculated, the last = sign will be shown
+# as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result = = { $result }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -662,6 +674,20 @@ save-to-pocket-button =
 
 ## Customize Toolbar Buttons
 
+# Variables:
+#  $shortcut (String): keyboard shortcut to open the add-ons manager
+toolbar-addons-themes-button =
+    .label = Complementos e temas
+    .tooltiptext = Xestione os seus complementos e temas ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open settings (only on macOS)
+toolbar-settings-button =
+    .label = Configuración
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Abrir configuración ({ $shortcut })
+           *[other] Abrir configuración
+        }
 
 ## More items
 

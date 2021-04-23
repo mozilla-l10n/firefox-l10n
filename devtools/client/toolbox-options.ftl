@@ -61,6 +61,8 @@ options-screenshot-label = Comportamento das capturas de pantalla
 options-screenshot-clipboard-label = Gardar no portapapeis
 options-screenshot-clipboard-tooltip =
     .title = Garda a captura de pantalla directamente no portapapeis
+options-screenshot-clipboard-tooltip2 =
+    .title = Garda a captura de pantalla directamente no portapapeis
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
 options-screenshot-audio-label = Reproducir son do obturador dunha cámara
 options-screenshot-audio-tooltip =
@@ -85,7 +87,7 @@ options-sourceeditor-keybinding-default-label = Predeterminado
 
 ## Advanced section
 
-# The heading
+# The heading (this item is also used in perftools.ftl)
 options-context-advanced-settings = Configuración avanzada
 # The label for the checkbox that toggles the HTTP cache on or off
 options-disable-http-cache-label = Desactivar a caché HTTP (cando a caixa de ferramentas está aberta)
