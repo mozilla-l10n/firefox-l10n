@@ -274,6 +274,23 @@ mr1-onboarding-set-default-secondary-button-label = Wakami mani
 mr1-onboarding-sign-in-button-label = Titikirisäx molojri'ïl
 mr1-onboarding-import-header = Tak'waj ronojel awik'in
 mr1-onboarding-import-subtitle = Ke'ajik'a' ri ewan taq atzij, <br/>taq yaketal, chuqa' ch'aqa' chik.
+# The primary import button label will depend on whether we can detect which browser was used to download Firefox.
+# Variables:
+#   $previous (Str) - Previous browser name, such as Edge, Chrome
+mr1-onboarding-import-primary-button-label-attribution = Tijik' pe pa { $previous }
+# This string will be used in cases where we can't detect the previous browser name.
+mr1-onboarding-import-primary-button-label-no-attribution = Tijik' pe pa ri jun kan okik'amaya'l
+mr1-onboarding-import-secondary-button-label = Wakami mani
+mr1-onboarding-theme-header = Tab'ana' awichin chi re
+mr1-onboarding-theme-subtitle = Tawichinaj { -brand-short-name } rik'in jun wachinel.
+mr1-onboarding-theme-primary-button-label = Tiyak wachinel
+mr1-onboarding-theme-secondary-button-label = Wakami mani
+# System theme uses operating system color settings
+mr1-onboarding-theme-label-system = Ruwachinel q'inoj
+mr1-onboarding-theme-label-light = Säq
+mr1-onboarding-theme-label-dark = Q'ëq
+# "Alpenglow" here is the name of the theme, and should be kept in English.
+mr1-onboarding-theme-label-alpenglow = Alpenglow
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
