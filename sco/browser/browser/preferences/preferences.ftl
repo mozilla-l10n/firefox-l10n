@@ -137,9 +137,31 @@ search-results-empty-message =
         [windows] Ach! There's nae results in Options fur “<span data-l10n-name="query"></span>”.
        *[other] Ach! There's nae results in Preferences fur “<span data-l10n-name="query"></span>”.
     }
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 = Ach! There's nae results in Settins fur “<span data-l10n-name="query"></span>”.
+search-results-help-link = Needin a haun? Veesit <a data-l10n-name="url">{ -brand-short-name } Hauners</a>
 
 ## General Section
 
+startup-header = Stertup
+# { -brand-short-name } will be 'Firefox Developer Edition',
+# since this setting is only exposed in Firefox Developer Edition
+separate-profile-mode =
+    .label = Allow { -brand-short-name } and Firefox tae rin at the ane time
+use-firefox-sync = Tip: This yaises separate profiles. Yaise { -sync-brand-short-name } fur tae share data atween them.
+get-started-not-logged-in = Sign in tae { -sync-brand-short-name }…
+get-started-configured = Open { -sync-brand-short-name } preferences
+always-check-default =
+    .label = Ayeweys check if { -brand-short-name } is yer staunart stravaiger
+    .accesskey = y
+is-default = { -brand-short-name } is yer staunart stravaiger the noo
+is-not-default = { -brand-short-name } isnae yer staunart stravaiger
+set-as-my-default-browser =
+    .label = Mak Staunart…
+    .accesskey = D
+startup-restore-previous-session =
+    .label = Restore previous session
+    .accesskey = s
 browser-containers-learn-more = Lairn mair
 
 ## General Section - Language & Appearance
