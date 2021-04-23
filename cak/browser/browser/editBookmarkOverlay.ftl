@@ -48,3 +48,5 @@ bookmark-overlay-keyword =
 bookmark-overlay-keyword-2 =
     .value = Ruk'u'x tzij
     .accesskey = R
+bookmark-overlay-tags-caption-label = Ütz ye'okisäx taq yaketal richin yenuk' chuqa' yekanöx taq yaketal pa ri rukajtz'ik ochochib'äl
+bookmark-overlay-keyword-caption-label-2 = Xa jun tzij xkerujäq taq yaketal pa ri kikajtz'ik ochochib'äl
