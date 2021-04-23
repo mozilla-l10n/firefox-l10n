@@ -38,6 +38,10 @@ printpreview-page-setup =
 printpreview-page =
     .value = Էջը.
     .accesskey = ջ
+# Variables
+# $sheetNum (integer) - The current sheet number
+# $sheetCount (integer) - The total number of sheets to print
+printpreview-sheet-of-sheets = { $sheetNum }-ը { $sheetCount }-ից
 
 ## Variables
 ## $percent (integer) - menuitem percent label
@@ -57,4 +61,11 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = Վերջին Էջը
-
+printpreview-homearrow-button =
+    .title = Առաջին էջը
+printpreview-previousarrow-button =
+    .title = Նախորդ էջը
+printpreview-nextarrow-button =
+    .title = Հաջորդ էջը
+printpreview-endarrow-button =
+    .title = Վերջին էջը
