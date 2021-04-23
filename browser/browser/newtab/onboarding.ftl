@@ -200,7 +200,6 @@ onboarding-welcome-steps-indicator =
 # automatically added to the text inside it. "look" should stay inside the span.
 onboarding-multistage-theme-header = Escolla un <span data-l10n-name = "zap">aspecto</span>
 onboarding-multistage-theme-subtitle = Personalice { -brand-short-name } cun tema.
-onboarding-multistage-theme-primary-button-label = Garde o tema
 onboarding-multistage-theme-primary-button-label2 = Feito
 onboarding-multistage-theme-secondary-button-label = Agora non
 # Automatic theme uses operating system color settings
@@ -251,3 +250,29 @@ onboarding-multistage-theme-description-alpenglow =
     .aria-description =
         Use un aspecto colorido para botóns,
         menús e xanelas.
+
+## Multistage MR1 onboarding strings (MR1 about:welcome pages)
+
+# "Hero Text" displayed on left side of welcome screen.
+# The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
+# It also signals the passion users bring to Firefox, how they use
+# Firefox to pursue those passions, as well as the boldness in their
+# choice to use Firefox over a larger competitor browser.
+# An alternative title for localization is: "It starts here".
+mr1-welcome-screen-hero-text = O lume comeza aquí
+# This button will open system settings to turn on prefers-reduced-motion
+mr1-onboarding-reduce-motion-button-label = Desactivar animacións
+mr1-onboarding-welcome-header = Reciba a benvida ao { -brand-short-name }
+mr1-onboarding-set-default-pin-primary-button-label = Facer que o { -brand-short-name } sexa o meu navegador principal
+    .title = Fai que o { -brand-short-name } sexa o navegador principal e fíxao á barra de tarefas
+mr1-onboarding-set-default-only-primary-button-label = Facer do { -brand-short-name } o menu navegador principal
+mr1-onboarding-set-default-secondary-button-label = Agora non
+mr1-onboarding-sign-in-button-label = Acceder
+mr1-onboarding-import-header = Tráiao todo consigo
+mr1-onboarding-import-subtitle = Importe os seus contrasinais, <br/> marcadores e moito máis.
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
