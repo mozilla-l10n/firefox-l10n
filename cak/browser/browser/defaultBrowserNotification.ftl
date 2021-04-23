@@ -7,3 +7,13 @@ default-browser-notification-message = <strong> ¿Tijikib'äx { -brand-short-nam
 default-browser-notification-button =
     .label = Tichap achi'el ri K'o wi
     .accesskey = c
+
+## These strings are used for the default browser prompt. There are 2 variations
+## depending on the operating system (Windows vs other). The checkbox label and
+## secondary button are shared between the variants.
+
+default-browser-prompt-title-pin = ¿La nib'an chi ri { -brand-short-name } nok ri nab'ey okik'amaya'l?
+default-browser-prompt-message-pin = Tik'oje' pan aq'a' ri { -brand-short-name } — tok nab'ey awokik'amaya'l chuqa' tatz'ajb'a' pa ri ruk'ajtz'ik samaj.
+default-browser-prompt-button-primary-pin = Tib'an nab'ey okik'amaya'l
+default-browser-prompt-title-alt = ¿La nib'an chi ri { -brand-short-name } tok nab'ey awokik'amaya'l?
+default-browser-prompt-message-alt = Tak'ulu' aninem, jikomal chuqa' ichinanem toq yatok pa k'amaya'l.
