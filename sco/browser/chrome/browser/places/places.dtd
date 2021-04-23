@@ -29,10 +29,34 @@
 
 <!ENTITY importBookmarksFromHTML.label     "Inbring Buikmerks fae HTML…">
 <!ENTITY importBookmarksFromHTML.accesskey "I">
+<!ENTITY exportBookmarksToHTML.label       "Ootgie Buikmerks tae HTML…">
+<!ENTITY exportBookmarksToHTML.accesskey   "E">
+<!ENTITY importOtherBrowser.label          "Inbring Data fae Anither Stravaiger…">
+<!ENTITY importOtherBrowser.accesskey      "A">
 
+<!ENTITY cmd.backup.label               "Backup…">
+<!ENTITY cmd.backup.accesskey           "B">
+<!ENTITY cmd.restore2.label             "Restore">
+<!ENTITY cmd.restore2.accesskey         "R">
+<!ENTITY cmd.restoreFromFile.label      "Pick File…">
+<!ENTITY cmd.restoreFromFile.accesskey  "C">
 
+<!ENTITY col.name.label          "Nemme">
+<!ENTITY col.tags.label          "Tags">
+<!ENTITY col.url.label           "Airtin">
+<!ENTITY col.mostrecentvisit.label "Maist Recent Visit">
+<!ENTITY col.visitcount.label    "Visit Coont">
+<!ENTITY col.dateadded.label     "Addit">
+<!ENTITY col.lastmodified.label  "Lest Modifiet">
 
+<!ENTITY cmd.find.key  "f">
 
+<!ENTITY maintenance.label      "Inbring and Backup">
+<!ENTITY maintenance.accesskey  "I">
+<!ENTITY maintenance.tooltip    "Inbring and backup yer buikmerks">
 
+<!ENTITY backButton.tooltip  "Gang back">
 
+<!ENTITY forwardButton.tooltip  "Gang forrit">
 
+<!ENTITY detailsPane.selectAnItemText.description "Pick an item fur tae view and edit its properties">

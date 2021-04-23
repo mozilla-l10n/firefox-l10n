@@ -2,11 +2,90 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+do-not-track-description = Send wabsites a "Dinnae Track" signal that ye dinnae want tae be tracked.
 do-not-track-learn-more = Lairn mair
+do-not-track-option-default-content-blocking-known =
+    .label = Anely when { -brand-short-name } is set tae block kent trackers
+do-not-track-option-always =
+    .label = Ayeweys
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Options
+       *[other] Preferences
+    }
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box =
+    .style = width: 15.4em
+    .placeholder =
+        { PLATFORM() ->
+            [windows] Airt-oot in Options
+           *[other] Airt-oot in Preferences
+        }
+settings-page-title = Settins
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box2 =
+    .style = width: 15.4em
+    .placeholder = Airt-oot in Settins
+managed-notice = Yer stravaiger is bein managed by yer organisation.
+category-list =
+    .aria-label = Categories
+pane-general-title = General
+category-general =
+    .tooltiptext = { pane-general-title }
+pane-home-title = Hame
+category-home =
+    .tooltiptext = { pane-home-title }
+pane-search-title = Sairch
+category-search =
+    .tooltiptext = { pane-search-title }
+pane-privacy-title = Preevacy & Siccarness
+category-privacy =
+    .tooltiptext = { pane-privacy-title }
+pane-sync-title2 = { -sync-brand-short-name }
+category-sync2 =
+    .tooltiptext = { pane-sync-title2 }
+pane-sync-title3 = Sync
+category-sync3 =
+    .tooltiptext = { pane-sync-title3 }
+pane-experimental-title = { -brand-short-name } Experiments
+category-experimental =
+    .tooltiptext = { -brand-short-name } Experiments
+pane-experimental-subtitle = Haud Forrit wi Tent
+pane-experimental-search-results-header = { -brand-short-name } Experiments: Haud Forrit wi Tent
+pane-experimental-description = Chyngin advanced confeeguration preferences can effect { -brand-short-name } performance or siccarness.
+pane-experimental-description2 = Chyngin advanced confeeguration settins can effect { -brand-short-name } performance or siccarness.
+pane-experimental-reset =
+    .label = Restore Staunarts
+    .accesskey = R
+help-button-label = { -brand-short-name } Hauners
+addons-button-label = Extensions & Themes
+focus-search =
+    .key = f
+close-button =
+    .aria-label = Sneck
 
 ## Browser Restart Dialog
 
+feature-enable-requires-restart = { -brand-short-name } maun restert tae mak yaise o this featur.
+feature-disable-requires-restart = { -brand-short-name } maun restert tae get shot o this featur.
 should-restart-title = Restert { -brand-short-name }
+should-restart-ok = Restert { -brand-short-name } noo
+cancel-no-restart-button = Stap
+restart-later = Restert Efter
 
 ## Extension Control Notifications
 ##
@@ -18,9 +97,46 @@ should-restart-title = Restert { -brand-short-name }
 ## Variables:
 ##   $name (String): name of the extension
 
+# This string is shown to notify the user that their home page
+# is being controlled by an extension.
+extension-controlled-homepage-override = An extension, <img data-l10n-name="icon"/> { $name }, is controllin yer hame page.
+# This string is shown to notify the user that their new tab page
+# is being controlled by an extension.
+extension-controlled-new-tab-url = An extension, <img data-l10n-name="icon"/> { $name }, is controllin yer New Tab page.
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlled-password-saving = An extension, <img data-l10n-name="icon"/> { $name }, is controllin this settin.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlled-web-notifications = An extension, <img data-l10n-name="icon"/> { $name }, is controllin this settin.
+# This string is shown to notify the user that the default search engine
+# is being controlled by an extension.
+extension-controlled-default-search = An extension, <img data-l10n-name="icon"/> { $name }, has set yer staunart airt-oot engine.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlled-privacy-containers = An extension, <img data-l10n-name="icon"/> { $name }, needs Conteener Tabs.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlled-websites-content-blocking-all-trackers = An extension, <img data-l10n-name="icon"/> { $name }, is controllin this settin.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlled-proxy-config = An extension, <img data-l10n-name="icon"/> { $name }, is controllin whit wey { -brand-short-name } connects tae the internet.
+# This string is shown after the user disables an extension to notify the user
+# how to enable an extension that they disabled.
+#
+# <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
+# <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
+extension-controlled-enable = To mak yaise o the extension gang tae <img data-l10n-name="addons-icon"/> Eik-ons in the <img data-l10n-name="menu-icon"/> menu.
 
 ## Preferences UI Search Results
 
+search-results-header = Sairch Results
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Ach! There's nae results in Options fur “<span data-l10n-name="query"></span>”.
+       *[other] Ach! There's nae results in Preferences fur “<span data-l10n-name="query"></span>”.
+    }
 
 ## General Section
 
