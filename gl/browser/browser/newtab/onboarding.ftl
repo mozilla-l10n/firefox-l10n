@@ -270,9 +270,66 @@ mr1-onboarding-set-default-secondary-button-label = Agora non
 mr1-onboarding-sign-in-button-label = Acceder
 mr1-onboarding-import-header = Tráiao todo consigo
 mr1-onboarding-import-subtitle = Importe os seus contrasinais, <br/> marcadores e moito máis.
+# The primary import button label will depend on whether we can detect which browser was used to download Firefox.
+# Variables:
+#   $previous (Str) - Previous browser name, such as Edge, Chrome
+mr1-onboarding-import-primary-button-label-attribution = Importar desde { $previous }
+# This string will be used in cases where we can't detect the previous browser name.
+mr1-onboarding-import-primary-button-label-no-attribution = Importar desde un navegador anterior
+mr1-onboarding-import-secondary-button-label = Agora non
+mr1-onboarding-theme-header = Fágao seu
+mr1-onboarding-theme-subtitle = Personalice o { -brand-short-name } cun tema.
+mr1-onboarding-theme-primary-button-label = Gardar tema
+mr1-onboarding-theme-secondary-button-label = Agora non
+# System theme uses operating system color settings
+mr1-onboarding-theme-label-system = Tema do sistema
+mr1-onboarding-theme-label-light = Claro
+mr1-onboarding-theme-label-dark = Escuro
+# "Alpenglow" here is the name of the theme, and should be kept in English.
+mr1-onboarding-theme-label-alpenglow = Alpenglow
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of system theme
+mr1-onboarding-theme-tooltip-system =
+    .title =
+        Seguir o tema do sistema operativo
+        para botóns, menús e xanelas.
+# Input description for system theme
+mr1-onboarding-theme-description-system =
+    .aria-description =
+        Seguir o tema do sistema operativo
+        para botóns, menús e xanelas.
+# Tooltip displayed on hover of light theme
+mr1-onboarding-theme-tooltip-light =
+    .title =
+        Empregar un tema claro para botóns,
+        menús e xanelas.
+# Input description for light theme
+mr1-onboarding-theme-description-light =
+    .aria-description =
+        Empregar un tema claro para botóns,
+        menús e xanelas.
+# Tooltip displayed on hover of dark theme
+mr1-onboarding-theme-tooltip-dark =
+    .title =
+        Usa un tema escuro para botóns,
+        menús e xanelas.
+# Input description for dark theme
+mr1-onboarding-theme-description-dark =
+    .aria-description =
+        Usa un tema escuro para botóns,
+        menús e xanelas.
+# Tooltip displayed on hover of Alpenglow theme
+mr1-onboarding-theme-tooltip-alpenglow =
+    .title =
+        Empregar un tema dinámico e colorido para botóns,
+        menús e ventás.
+# Input description for Alpenglow theme
+mr1-onboarding-theme-description-alpenglow =
+    .aria-description =
+        Empregar un tema dinámico e colorido para botóns,
+        menús e xanelas.
