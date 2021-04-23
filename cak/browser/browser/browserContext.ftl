@@ -88,6 +88,12 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
+## Firefox Account Button
+
+toolbar-button-fxaccount =
+    .label = { -fxaccount-brand-name(capitalization: "sentence") }
+    .tooltiptext = { -fxaccount-brand-name(capitalization: "sentence") }
+
 ## Save Page
 
 main-context-menu-page-save =
@@ -308,12 +314,12 @@ main-context-menu-image-email =
 main-context-menu-image-set-as-background =
     .label = Ticha' achi'el richin rupam ch'atal…
     .accesskey = T
-main-context-menu-image-info =
-    .label = Titz'et na'oj chi rij ri wachib'äl
-    .accesskey = o
 main-context-menu-image-set-image-as-background =
     .label = Ticha' Wachib'äl achi'el richin Rupam Ch'atal…
     .accesskey = c
+main-context-menu-image-info =
+    .label = Titz'et na'oj chi rij ri wachib'äl
+    .accesskey = o
 main-context-menu-image-desc =
     .label = Titz'et ri Rutzijoxkil
     .accesskey = R

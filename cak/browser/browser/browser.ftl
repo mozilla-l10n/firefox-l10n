@@ -326,6 +326,7 @@ identity-https-only-info-turn-off2 = We man nisamäj ta ütz ri ruxaq, rik'in ju
 identity-https-only-info-no-upgrade = Man nitikïr ta nik'ex ri okem pa HTTP.
 identity-permissions-storage-access-header = Kicookies xoch'in taq ruxaq
 identity-permissions-storage-access-hint = Re taq peraj re' yetikïr nikokisaj kikokies xoch'in taq ruxaq chuqa' kitzij taq ruxaq toq at k'o pa re ruxaq.
+identity-permissions-storage-access-learn-more = Tetamäx ch'aqa' chik
 identity-permissions-reload-hint = Rik'in jub'a' k'o chi yatok chik pa ruxaq richin yesamäj ri taq k'exoj.
 identity-permissions-empty = Majun chi ya'oj q'ij ya'on chawe' pa re ruxaq k'amaya'l re'.
 identity-clear-site-data =
@@ -553,6 +554,13 @@ urlbar-result-action-tabtosearch-web = Tikanöx pa { $engine } pa kikajtz'ik och
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = Tikanöx { $engine } pa kikajtz'ik ochochib'äl
+# Action text for copying to clipboard.
+urlbar-result-action-copy-to-clipboard = Tiwachib'ëx
+# Shows the result of a formula expression being calculated, the last = sign will be shown
+# as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result = = { $result }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -666,6 +674,20 @@ save-to-pocket-button =
 
 ## Customize Toolbar Buttons
 
+# Variables:
+#  $shortcut (String): keyboard shortcut to open the add-ons manager
+toolbar-addons-themes-button =
+    .label = Taq tz'aqat chuqa' taq wachinel
+    .tooltiptext = Ke'anuk'samajïx ri taq atz'aqat chuqa' taq awachinel ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open settings (only on macOS)
+toolbar-settings-button =
+    .label = Taq nuk'ulem
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Kejaq ri taq runuk'ulem ({ $shortcut })
+           *[other] Kejaq ri taq runuk'ulem
+        }
 
 ## More items
 
