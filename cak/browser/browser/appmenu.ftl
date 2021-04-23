@@ -5,14 +5,18 @@
 
 ## App Menu
 
-appmenuitem-update-banner =
-    .label-update-downloading = Niqasäx ruk'exoj { -brand-shorter-name }
 appmenuitem-update-banner2 =
     .label-update-downloading = Tiqasäx ruk'exoj { -brand-shorter-name }
     .label-update-available = K'exoj wachel — tiqasäx wakami
     .label-update-manual = K'exoj wachel — tiqasäx wakami
     .label-update-unsupported = Man tikirel ta niqasäx
     .label-update-restart = Kexoj wachel — titikirisäx wakami
+appmenuitem-update-banner3 =
+    .label-update-downloading = Niqasäx ruk'exoj { -brand-shorter-name }
+    .label-update-available = Ütz k'exoj — tiqasäx wakami
+    .label-update-manual = Ütz k'exoj — tiqasäx wakami
+    .label-update-unsupported = Man ütz ta k'exoj —man k'amonel ta q'inoj
+    .label-update-restart = Ütz k'exoj — titzolïx wakami
 appmenuitem-protection-dashboard-title = Rupas taq Chajinïk
 appmenuitem-customize-mode =
     .label = Tichinäx…
@@ -25,8 +29,6 @@ appmenuitem-new-private-window =
     .label = K'ak'a' ichinan tzuwäch
 appmenuitem-passwords =
     .label = Ewan taq tzij
-appmenuitem-extensions-and-themes =
-    .label = Taq K'amal chuqa' taq Wachinel
 appmenuitem-addons-and-themes =
     .label = Taq Tz'aqat chuqa' taq Wachinel
 appmenuitem-find-in-page =
@@ -162,11 +164,6 @@ appmenu-about =
 appmenu-get-help =
     .label = Tik'ul To'ïk
     .accesskey = o
-appmenu-help-troubleshooting-info =
-    .label = Etamab'äl richin yesol taq k'ayewal
-    .accesskey = E
-appmenu-help-taskmanager =
-    .label = Kinuk'samajel taq Samaj
 appmenu-help-more-troubleshooting-info =
     .label = Ch'aqa' Etamab'äl richin yesol taq k'ayewal
     .accesskey = E
@@ -175,16 +172,6 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = Ketaq taq Rutzijol…
     .accesskey = K
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Titikirisäx chik kik'in ri chupül taq tz'aqat…
-    .accesskey = T
-appmenu-help-safe-mode-with-addons =
-    .label = Titikirisäx chik rik'in Tzijïl taq Tz'aqat
-    .accesskey = T
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
