@@ -8,9 +8,9 @@
 newtab-page-title = Нова картица
 newtab-settings-button =
     .title = Прилагодите страницу нове картице
-newtab-personalize-button-label = Персонализуј
-    .title = Персонализуј нову картицу
-    .aria-label = Персонализуј нову картицу
+newtab-personalize-button-label = Прилагоди
+    .title = Прилагоди нову картицу
+    .aria-label = Прилагоди нову картицу
 
 ## Search box component.
 
