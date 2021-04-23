@@ -193,11 +193,52 @@ browser-containers-settings =
     .label = Settins…
     .accesskey = i
 containers-disable-alert-title = Sneck Aw Conteener Tabs?
+containers-disable-alert-desc =
+    { $tabCount ->
+        [one] Gin ye disable Conteener Tabs noo, { $tabCount } conteener tab will be sneckit. Are ye shair ye want tae disable Conteener Tabs?
+       *[other] Gin ye disable Conteener Tabs noo, { $tabCount } conteener tabs will be sneckit. Are ye shair ye want tae disable Conteener Tabs?
+    }
+containers-disable-alert-ok-button =
+    { $tabCount ->
+        [one] Sneck { $tabCount } Conteener Tab
+       *[other] Sneck { $tabCount } Conteener Tabs
+    }
+containers-disable-alert-cancel-button = Stey enabled
+containers-remove-alert-title = Remuive This Conteener?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] Gin ye remuive this Conteener the noo, { $count } conteener tab will be sneckit. Are ye shair ye want tae remuive this Conteener?
+       *[other] Gin ye remuive this Conteener the noo, { $count } conteener tabs will be sneckit. Are ye shair ye want tae remuive this Conteener?
+    }
+containers-remove-ok-button = Remuive this Conteener
+containers-remove-cancel-button = Dinnae remuive this Conteener
 
 ## General Section - Language & Appearance
 
+language-and-appearance-header = Leid and Kythe
+fonts-and-colors-header = Fonts and Colours
+default-font = Staunart font
+    .accesskey = S
+default-font-size = Size
+    .accesskey = z
+advanced-fonts =
+    .label = Advanced…
+    .accesskey = A
+colors-settings =
+    .label = Colours…
+    .accesskey = C
+# Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header = Zoom
+preferences-default-zoom = Staunart zoom
+    .accesskey = z
 preferences-default-zoom-value =
     .label = { $percentage }%
+preferences-zoom-text-only =
+    .label = Zoom text anely
+    .accesskey = t
+language-header = Leid
 
 ## General Section - Files and Applications
 
