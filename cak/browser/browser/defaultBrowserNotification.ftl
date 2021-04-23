@@ -17,3 +17,6 @@ default-browser-prompt-message-pin = Tik'oje' pan aq'a' ri { -brand-short-name }
 default-browser-prompt-button-primary-pin = Tib'an nab'ey okik'amaya'l
 default-browser-prompt-title-alt = ¿La nib'an chi ri { -brand-short-name } tok nab'ey awokik'amaya'l?
 default-browser-prompt-message-alt = Tak'ulu' aninem, jikomal chuqa' ichinanem toq yatok pa k'amaya'l.
+default-browser-prompt-button-primary-alt = Tiya' kan achi'el kanob'äl k'o wi
+default-browser-prompt-checkbox-not-again-label = Man tik'ut chik pe re rutzijol
+default-browser-prompt-button-secondary = Wakami mani
