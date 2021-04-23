@@ -179,7 +179,20 @@ warn-on-close-multiple-tabs =
 warn-on-open-many-tabs =
     .label = Warn ye when openin mair than ane tab micht slow doon { -brand-short-name }
     .accesskey = d
+switch-links-to-new-tabs =
+    .label = When ye open a link in a new tab, switch ower tae it straight awa
+    .accesskey = h
+show-tabs-in-taskbar =
+    .label = Shaw tab previews in the Windows taskbaur
+    .accesskey = k
+browser-containers-enabled =
+    .label = Enable Conteener Tabs
+    .accesskey = n
 browser-containers-learn-more = Lairn mair
+browser-containers-settings =
+    .label = Settins…
+    .accesskey = i
+containers-disable-alert-title = Sneck Aw Conteener Tabs?
 
 ## General Section - Language & Appearance
 

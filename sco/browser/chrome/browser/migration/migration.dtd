@@ -48,4 +48,6 @@
 <!ENTITY selectProfile.label            "The follaein profiles are at haun tae inbring fae:">
 
 <!ENTITY done.title                     "Inbring Feenisht">
+<!ENTITY done.label                     "The follaein items were inbrocht wioot onie problem:">
 
+<!ENTITY closeSourceBrowser.label       "Please mak siccar the selectit stravaiger is sneckit afore gangin on.">
