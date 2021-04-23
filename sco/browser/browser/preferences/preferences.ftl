@@ -239,18 +239,154 @@ preferences-zoom-text-only =
     .label = Zoom text anely
     .accesskey = t
 language-header = Leid
+choose-language-description = Wale yer preferred leid for kythin pages
+choose-button =
+    .label = Wale...
+    .accesskey = W
+choose-browser-language-description = Wale the leids yaised tae kythe menus, messages, and notifications fae { -brand-short-name }.
+manage-browser-languages-button =
+    .label = Set Ithers...
+    .accesskey = I
+confirm-browser-language-change-description = Restert { -brand-short-name } tae apply these chynges
+confirm-browser-language-change-button = Apply and Restert
+translate-web-pages =
+    .label = Owerset wab content
+    .accesskey = t
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = Owersettins by <img data-l10n-name="logo"/>
+translate-exceptions =
+    .label = Exceptions…
+    .accesskey = x
+# Variables:
+#    $localeName (string) - Localized name of the locale to be used.
+use-system-locale =
+    .label = Yaise yer operatin seestem settins fur “{ $localeName }” tae format dates, times, nummers, and meisurments.
+check-user-spelling =
+    .label = Check yer spellin as ye type
+    .accesskey = t
 
 ## General Section - Files and Applications
 
+files-and-applications-title = Files and Applications
+download-header = Doonloads
+download-save-to =
+    .label = Save files tae
+    .accesskey = v
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] Wale…
+           *[other] Stravaig…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] e
+           *[other] o
+        }
+download-always-ask-where =
+    .label = Ayeweys speir ye whaur tae save files
+    .accesskey = A
+applications-header = Applications
+applications-description = Decide how { -brand-short-name } haunles the files ye doonload fae the wab or the applications ye yaise while stravaigin.
+applications-filter =
+    .placeholder = Sairch file types or applications
+applications-type-column =
+    .label = Content Type
+    .accesskey = T
+applications-action-column =
+    .label = Action
+    .accesskey = A
+# Variables:
+#   $extension (String) - file extension (e.g .TXT)
+applications-file-ending = { $extension } file
+applications-action-save =
+    .label = Save File
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app =
+    .label = Yaise { $app-name }
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app-default =
+    .label = Yaise { $app-name } (staunart)
+applications-use-os-default =
+    .label =
+        { PLATFORM() ->
+            [macos] Yaise macOS staunart application
+            [windows] Yaise Windows staunart application
+           *[other] Yaise seestem staunart application
+        }
+applications-use-other =
+    .label = Yaise anither...
+applications-select-helper = Wale Helper Application
+applications-manage-app =
+    .label = Application Details…
+applications-always-ask =
+    .label = Ayeweys speir
+applications-type-pdf = Portable Document Format (PDF)
+# Variables:
+#   $type (String) - the MIME type (e.g application/binary)
+applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
+# Variables:
+#   $type-description (String) - Description of the type (e.g "Portable Document Format")
+#   $type (String) - the MIME type (e.g application/binary)
+applications-type-description-with-type = { $type-description } ({ $type })
+# Variables:
+#   $extension (String) - file extension (e.g .TXT)
+#   $type (String) - the MIME type (e.g application/binary)
+applications-file-ending-with-type = { applications-file-ending } ({ $type })
+# Variables:
+#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+applications-use-plugin-in =
+    .label = Yaise { $plugin-name } (in { -brand-short-name })
+applications-open-inapp =
+    .label = Open in { -brand-short-name }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
 ## the selected menu item.
 
+applications-use-plugin-in-label =
+    .value = { applications-use-plugin-in.label }
+applications-action-save-label =
+    .value = { applications-action-save.label }
+applications-use-app-label =
+    .value = { applications-use-app.label }
+applications-open-inapp-label =
+    .value = { applications-open-inapp.label }
+applications-always-ask-label =
+    .value = { applications-always-ask.label }
+applications-use-app-default-label =
+    .value = { applications-use-app-default.label }
+applications-use-other-label =
+    .value = { applications-use-other.label }
+applications-use-os-default-label =
+    .value = { applications-use-os-default.label }
 
 ##
 
+drm-content-header = Digital Richts Management (DRM) Content
+play-drm-content =
+    .label = Pley DRM-controlled content
+    .accesskey = P
 play-drm-content-learn-more = Lairn mair
+update-application-title = { -brand-short-name } Updates
+update-application-description = Keep { -brand-short-name } up tae date for the best performance, stieveness, and siccarness.
+update-application-version = Version { $version } <a data-l10n-name="learn-more">Whit’s new</a>
+update-history =
+    .label = Shaw Update Historie...
+    .accesskey = p
+update-application-allow-description = Alloo { -brand-short-name } tae
+update-application-auto =
+    .label = Automatically instaw updates (recommendit)
+    .accesskey = A
+update-application-check-choose =
+    .label = Check fur updates but lat you decide tae instaw them
+    .accesskey = C
+update-application-manual =
+    .label = Never check fur updates (no recommendit)
+    .accesskey = N
 update-in-progress-ok-button = &Discaird
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
