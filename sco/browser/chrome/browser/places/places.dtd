@@ -1,0 +1,38 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
+<!ENTITY places.library.title  "Leebrar">
+<!ENTITY places.library.width  "700">
+<!ENTITY places.library.height "500">
+<!ENTITY organize.label        "Sort Oot">
+<!ENTITY organize.accesskey    "O">
+<!ENTITY organize.tooltip      "Sort oot yer buikmerks">
+
+<!ENTITY file.close.label               "Sneck">
+<!ENTITY file.close.accesskey           "C">
+<!ENTITY cmd.close.key                  "w">
+<!ENTITY views.label                    "Views">
+<!ENTITY views.accesskey                "V">
+<!ENTITY views.tooltip                  "Chynge yer view">
+<!ENTITY view.columns.label             "Shaw Columns">
+<!ENTITY view.columns.accesskey         "C">
+<!ENTITY view.sort.label                "Sort">
+<!ENTITY view.sort.accesskey            "S">
+<!ENTITY view.unsorted.label            "Unsortit">
+<!ENTITY view.unsorted.accesskey        "U">
+<!ENTITY view.sortAscending.label       "A > Z Sort Order">
+<!ENTITY view.sortAscending.accesskey   "A">
+<!ENTITY view.sortDescending.label      "Z > A Sort Order">
+<!ENTITY view.sortDescending.accesskey  "Z">
+
+<!ENTITY importBookmarksFromHTML.label     "Inbring Buikmerks fae HTML…">
+<!ENTITY importBookmarksFromHTML.accesskey "I">
+
+
+
+
+
+
+
