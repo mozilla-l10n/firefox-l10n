@@ -83,7 +83,7 @@ downloads-cmd-clear-downloads =
     .accesskey = D
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
-    .label = Allow Doonload
+    .label = Alloo Doonload
     .accesskey = o
 # This is the tooltip of the action button shown when malware is blocked.
 downloads-cmd-remove-file =
@@ -94,9 +94,9 @@ downloads-cmd-remove-file-panel =
 # downloads are blocked. This opens a dialog where the user can choose
 # whether to unblock or remove the download. Removing is the default option.
 downloads-cmd-choose-unblock =
-    .tooltiptext = Remuive File or Allow Doonload
+    .tooltiptext = Remuive File or Alloo Doonload
 downloads-cmd-choose-unblock-panel =
-    .aria-label = Remuive File or Allow Doonload
+    .aria-label = Remuive File or Alloo Doonload
 # This is the tooltip of the action button shown when uncommon downloads are
 # blocked.This opens a dialog where the user can choose whether to open the
 # file or remove the download. Opening is the default option.

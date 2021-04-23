@@ -1,0 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- LOCALIZATION NOTE: For this feature, "installation" is used to mean "this
+ discrete download of Firefox" and "version" is used to mean "the specific
+ revision number of a given Firefox channel". These terms are not synonymous.
+-->
+
+<!ENTITY window.title "Muckle News">
+<!ENTITY window.style "width: 490px">
+<!ENTITY sync "Fur tae sync information ye’ve awready savit tae Firefox wi this instawment o &brandShortName;, sign in wi yer &syncBrand.fxAccount.label;.">
+<!ENTITY continue-button "Gang On">
+
+<!ENTITY mainText "This instawment o &brandShortName; has a new profile. It disnae share buikmerks, passwirds, and yaiser preferences wi ither instawments o Firefox (includin Firefox, Firefox ESR, Firefox Beta, Firefox Developer Edition, and Firefox Nightly) on this computer.">

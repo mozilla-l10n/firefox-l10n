@@ -94,7 +94,7 @@ fonts-minsize = Meenimum font size
 fonts-minsize-none =
     .label = Nane
 fonts-allow-own =
-    .label = Allow pages tae wale their ain fonts, raither as yer walins abuin
+    .label = Alloo pages tae wale their ain fonts, raither as yer walins abuin
     .accesskey = A
 
 ## Text Encodings

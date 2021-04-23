@@ -147,7 +147,7 @@ startup-header = Stertup
 # { -brand-short-name } will be 'Firefox Developer Edition',
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
-    .label = Allow { -brand-short-name } and Firefox tae rin at the ane time
+    .label = Alloo { -brand-short-name } and Firefox tae rin at the ane time
 use-firefox-sync = Tip: This yaises separate profiles. Yaise { -sync-brand-short-name } fur tae share data atween them.
 get-started-not-logged-in = Sign in tae { -sync-brand-short-name }…
 get-started-configured = Open { -sync-brand-short-name } preferences
@@ -162,6 +162,23 @@ set-as-my-default-browser =
 startup-restore-previous-session =
     .label = Restore previous session
     .accesskey = s
+startup-restore-warn-on-quit =
+    .label = Warn ye when quittin the stravaiger
+disable-extension =
+    .label = Disable Extension
+tabs-group-header = Tabs
+ctrl-tab-recently-used-order =
+    .label = Ctrl+Tab gangs through tabs in the order ye last yaised them
+    .accesskey = T
+open-new-link-as-tabs =
+    .label = Open links in tabs insteid o new windaes
+    .accesskey = w
+warn-on-close-multiple-tabs =
+    .label = Warn ye when sneckin mair than ane tab
+    .accesskey = m
+warn-on-open-many-tabs =
+    .label = Warn ye when openin mair than ane tab micht slow doon { -brand-short-name }
+    .accesskey = d
 browser-containers-learn-more = Lairn mair
 
 ## General Section - Language & Appearance
