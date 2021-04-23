@@ -5,10 +5,43 @@
 
 <!ENTITY migrationWizard.title          "Inbringin Helpender">
 
+<!ENTITY importFrom.label               "Inbring Options, Buikmerks, Historie, Passwirds and ither data fae:">
+<!ENTITY importFromUnix.label           "Inbring Preferences, Buikmerks, Historie, Passwirds and ither data fae:">
 
+<!ENTITY importFromIE.label             "Microsoft Internet Explorer">
+<!ENTITY importFromIE.accesskey         "M">
+<!ENTITY importFromEdge.label           "Microsoft Edge">
+<!ENTITY importFromEdge.accesskey       "E">
+<!ENTITY importFromEdgeLegacy.label     "Microsoft Edge Legacy">
+<!ENTITY importFromEdgeLegacy.accesskey "L">
+<!ENTITY importFromEdgeBeta.label       "Microsoft Edge Beta">
+<!ENTITY importFromEdgeBeta.accesskey   "d">
+<!ENTITY importFromNothing.label        "Dinnae inbring oniehin">
+<!ENTITY importFromNothing.accesskey    "D">
+<!ENTITY importFromSafari.label         "Safari">
+<!ENTITY importFromSafari.accesskey     "S">
+<!ENTITY importFromCanary.label         "Chrome Canary">
+<!ENTITY importFromCanary.accesskey     "n">
+<!ENTITY importFromChrome.label         "Chrome">
+<!ENTITY importFromChrome.accesskey     "C">
+<!ENTITY importFromChromeBeta.label     "Chrome Beta">
+<!ENTITY importFromChromeBeta.accesskey "B">
+<!ENTITY importFromChromeDev.label      "Chrome Dev">
+<!ENTITY importFromChromeDev.accesskey  "D">
+<!ENTITY importFromChromium.label       "Chromium">
+<!ENTITY importFromChromium.accesskey   "u">
+<!ENTITY importFromFirefox.label        "Firefox">
+<!ENTITY importFromFirefox.accesskey    "X">
+<!ENTITY importFrom360se.label          "360 Siccar Stravaiger">
+<!ENTITY importFrom360se.accesskey      "3">
 
+<!ENTITY noMigrationSources.label       "Nae programs that contain buikmerks, historie or passwird data could be fund.">
 
+<!ENTITY importSource.title             "Inbring Settins and Data">
+<!ENTITY importItems.title              "Items tae Inbring">
+<!ENTITY importItems.label              "Pick which items tae inbring:">
 
+<!ENTITY migrating.title                "Inbringin…">
 
 
 
