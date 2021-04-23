@@ -36,3 +36,7 @@ upgrade-dialog-theme-dark = Escuro
     .title = Empregar un tema escuro para botóns, menús e xanelas
 upgrade-dialog-theme-alpenglow = Alpenglow
     .title = Empregar un tema dinámico e colorido para botóns, menús e xanelas
+upgrade-dialog-theme-keep = Manter anterior
+    .title = Empregar o tema que había instalado antes de actualizar o { -brand-short-name }
+upgrade-dialog-theme-primary-button = Gardar tema
+upgrade-dialog-theme-secondary-button = Agora non
