@@ -432,16 +432,55 @@ performance-allow-hw-accel =
     .accesskey = r
 performance-limit-content-process-option = Content process leemit
     .accesskey = l
+performance-limit-content-process-enabled-desc = Mair content processes can impruive performance when yaisin a wheen o tabs, but will yaise mair memory forby.
+performance-limit-content-process-blocked-desc = Chyngin the nummer o content processes can anely be duin wi multiprocess { -brand-short-name }. <a data-l10n-name="learn-more">Lairn how tae check if multiprocess is enabled</a>
+# Variables:
+#   $num - default value of the `dom.ipc.processCount` pref.
+performance-default-content-process-count =
+    .label = { $num } (staunart)
 
 ## General Section - Browsing
 
+browsing-title = Stravaigin
+browsing-use-autoscroll =
+    .label = Yaise autoscroll
+    .accesskey = a
+browsing-use-smooth-scrolling =
+    .label = Yaise sleek scrollin
+    .accesskey = m
+browsing-use-onscreen-keyboard =
+    .label = Shaw a touch keybuird when needit
+    .accesskey = c
+browsing-use-cursor-navigation =
+    .label = Ayeweys yaise the cursor keys fur tae flit aboot inwith pages
+    .accesskey = k
+browsing-search-on-start-typing =
+    .label = Sairch fur text when ye stert typin
+    .accesskey = x
+browsing-picture-in-picture-toggle-enabled =
+    .label = Mak yaise o pictur-in-pictur video controls
+    .accesskey = y
 browsing-picture-in-picture-learn-more = Lairn mair
+browsing-media-control =
+    .label = Control media through keybuird, heidset, or virtual interface
+    .accesskey = v
 browsing-media-control-learn-more = Lairn mair
+browsing-cfr-recommendations =
+    .label = Recommend extensions as ye stravaig
+    .accesskey = R
+browsing-cfr-features =
+    .label = Recommend featurs as ye stravaig
+    .accesskey = f
 browsing-cfr-recommendations-learn-more = Lairn mair
 
 ## General Section - Proxy
 
+network-settings-title = Netwark settins
+network-proxy-connection-description = Confeegur how { -brand-short-name } connects tae the internet.
 network-proxy-connection-learn-more = Lairn mair
+network-proxy-connection-settings =
+    .label = Settins…
+    .accesskey = e
 
 ## Home Section
 
