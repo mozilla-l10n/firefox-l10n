@@ -32,6 +32,16 @@ appmenu-update-restart =
     .secondarybuttonlabel = Agora non
     .secondarybuttonaccesskey = n
 appmenu-update-restart-message = Despois dun reinicio rápido, { -brand-shorter-name } restaurará todas as súas xanelas e lapelas abertas que non están no modo de navegación privada.
+appmenu-addon-private-browsing-installed =
+    .buttonlabel = Entendín
+    .buttonaccesskey = O
+appmenu-addon-post-install-message = Xestione os seus complementos premendo <image data-l10n-name='addon-install-icon'></image> no menú <image data-l10n-name='addon-menu-icon'></image>.
+appmenu-update-available2 =
+    .label = Actualización dispoñíbel
+    .buttonlabel = Descargar
+    .buttonaccesskey = D
+    .secondarybuttonlabel = Rexeitar
+    .secondarybuttonaccesskey = m
 appmenu-update-other-instance =
     .label = { -brand-shorter-name } non pode actualizarse automaticamente para a versión máis recente.
     .buttonlabel = Actualizar { -brand-shorter-name } igualmente
@@ -39,10 +49,6 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Agora non
     .secondarybuttonaccesskey = N
 appmenu-update-other-instance-message = Está dispoñíbel unha nova actualización de { -brand-shorter-name }, pero non se pode instalar porque se está a executar outra copia de { -brand-shorter-name }. Pécheo para continuar coa actualización ou escolla actualizalo de calquera xeito (é posíbel que a outra copia non funcione correctamente até que o reinicie).
-appmenu-addon-private-browsing-installed =
-    .buttonlabel = Entendín
-    .buttonaccesskey = O
-appmenu-addon-post-install-message = Xestione os seus complementos premendo <image data-l10n-name='addon-install-icon'></image> no menú <image data-l10n-name='addon-menu-icon'></image>.
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Aceptar
     .buttonaccesskey = A
