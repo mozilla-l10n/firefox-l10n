@@ -269,6 +269,11 @@ mr1-onboarding-reduce-motion-button-label = Tichup animanela'
 mr1-onboarding-welcome-header = Ütz apetïk pa { -brand-short-name }
 mr1-onboarding-set-default-pin-primary-button-label = Tib'an nab'ey okik'amaya'l chi re ri { -brand-short-name }
     .title = Rumolaj { -brand-short-name } achi'el nab'ey okik'amaya'l  chuqa' taq rupin rukajtz'ik samaj
+mr1-onboarding-set-default-only-primary-button-label = Tib'an nab'ey okik'amaya'l chi re ri { -brand-short-name }
+mr1-onboarding-set-default-secondary-button-label = Wakami mani
+mr1-onboarding-sign-in-button-label = Titikirisäx molojri'ïl
+mr1-onboarding-import-header = Tak'waj ronojel awik'in
+mr1-onboarding-import-subtitle = Ke'ajik'a' ri ewan taq atzij, <br/>taq yaketal, chuqa' ch'aqa' chik.
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
