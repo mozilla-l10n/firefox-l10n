@@ -587,6 +587,11 @@ search-bar-shown =
     .label = Eik on sairch baur in toolbaur
 search-engine-default-header = Staunart Airt-oot Engine
 search-engine-default-desc-2 = This is yer staunart airt-oot engine in the address baur and sairch baur. Ye can chynge it at onie time.
+search-engine-default-private-desc-2 = Wale anither staunart airt-oot engine fur Preevat Windaes anely
+search-separate-default-engine =
+    .label = Yaise this airt-oot engine in Preevate Windaes
+    .accesskey = Y
+search-suggestions-header = Airt-oot Suggestions
 
 ## Containers Section
 
