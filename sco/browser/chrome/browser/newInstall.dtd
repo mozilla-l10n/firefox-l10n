@@ -9,7 +9,7 @@
 
 <!ENTITY window.title "Muckle News">
 <!ENTITY window.style "width: 490px">
-<!ENTITY sync "Fur tae sync information ye’ve awready savit tae Firefox wi this instawment o &brandShortName;, sign in wi yer &syncBrand.fxAccount.label;.">
+<!ENTITY sync "Fur tae sync information ye’ve awready saved tae Firefox wi this instawment o &brandShortName;, sign in wi yer &syncBrand.fxAccount.label;.">
 <!ENTITY continue-button "Gang On">
 
 <!ENTITY mainText "This instawment o &brandShortName; has a new profile. It disnae share buikmerks, passwirds, and yaiser preferences wi ither instawments o Firefox (includin Firefox, Firefox ESR, Firefox Beta, Firefox Developer Edition, and Firefox Nightly) on this computer.">

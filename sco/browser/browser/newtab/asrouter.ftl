@@ -287,7 +287,7 @@ cfr-whatsnew-clear-cookies-image-alt = Cookie blockit pictur
 ## What's new: Media controls message
 
 cfr-whatsnew-media-keys-header = Mair media controls
-cfr-whatsnew-media-keys-body = Pley and pause audio or video richt fae yer keybuird or heidset, makkit it easy tae control media fae anither tab, program, or even when yer computer is lockit. Forby, ye can muive atween tracks yaisin the forrit and back keys.
+cfr-whatsnew-media-keys-body = Pley and pause soond or video richt fae yer keybuird or heidset, makkit it easy tae control media fae anither tab, program, or even when yer computer is lockit. Forby, ye can muive atween tracks yaisin the forrit and back keys.
 cfr-whatsnew-media-keys-button = Lairn how
 
 ## What's new: Search shortcuts

@@ -694,7 +694,7 @@ more-menu-go-offline =
 
 ## EME notification panel
 
-eme-notifications-drm-content-playing = Some audio or video on this site yaises DRM saftware, and that micht leemit whit { -brand-short-name } can lat ye dae wi it.
+eme-notifications-drm-content-playing = Some soond or video on this site yaises DRM saftware, and that micht leemit whit { -brand-short-name } can lat ye dae wi it.
 eme-notifications-drm-content-playing-manage = Manage settins
 eme-notifications-drm-content-playing-manage-accesskey = M
 eme-notifications-drm-content-playing-dismiss = Dismiss
