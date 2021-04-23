@@ -484,6 +484,7 @@ network-proxy-connection-settings =
 
 ## Home Section
 
+home-new-windows-tabs-header = New Windaes and Tabs
 
 ## Home Section - Home Page Customization
 
