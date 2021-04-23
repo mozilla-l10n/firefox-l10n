@@ -14,6 +14,8 @@ duplicate-tab =
 duplicate-tabs =
     .label = Mga Tabs na Kasingtulad
     .accesskey = D
+# The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = Isara ang mga Tab sa Kanan
     .accesskey = i
@@ -56,10 +58,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Magsara ng Mga Tab
     .accesskey = M
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->
@@ -80,6 +78,18 @@ move-tabs =
 move-tab =
     .label = Ilipat ang Tab
     .accesskey = v
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
+tab-context-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Muling Buksan ang Naisarang Tab
+            [one] Muling Buksan ang Naisarang Tab
+           *[other] Muling Buksan ang mga Naisarang Tab
+        }
+    .accesskey = M
 tab-context-close-tabs =
     .label =
         { $tabCount ->

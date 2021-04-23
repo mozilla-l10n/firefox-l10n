@@ -25,6 +25,14 @@ toolbar-context-menu-undo-close-tabs =
            *[other] Buksang Muli ang mga Isinarang Tab
         }
     .accesskey = U
+toolbar-context-menu-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Muling Buksan ang Naisarang Tab
+            [one] Muling Buksan ang Naisarang Tab
+           *[other] Muling Buksan ang mga Naisarang Tab
+        }
+    .accesskey = M
 toolbar-context-menu-manage-extension =
     .label = I-manage ang Extension
     .accesskey = E

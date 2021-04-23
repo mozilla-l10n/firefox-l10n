@@ -78,6 +78,8 @@ profiler-popup-capture-shortcut =
 
 ## History panel
 
+appmenu-reopen-all-tabs = Muling Buksan ang Lahat ng mga Tab
+appmenu-reopen-all-windows = Muling buksan ang Lahat ng mga Window
 
 ## Help panel
 

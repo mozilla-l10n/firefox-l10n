@@ -207,6 +207,8 @@ menu-history-undo-menu =
     .label = Mga Naisarang Tab
 menu-history-undo-window-menu =
     .label = Mga Isinarang Window Kamakailan
+menu-history-reopen-all-tabs = Muling Buksan ang Lahat ng mga Tab
+menu-history-reopen-all-windows = Muling buksan ang Lahat ng mga Window
 
 ## Bookmarks Menu
 
@@ -288,15 +290,6 @@ menu-window-bring-all-to-front =
 # NOTE: For Engineers, any additions or changes to Help menu strings should
 # also be reflected in the related strings in appmenu.ftl. Those strings, by
 # convention, will have the same ID as these, but prefixed with "app".
-# Example: appmenu-help-product
-#
-# These strings are duplicated to allow for different casing depending on
-# where the strings appear.
-
-
-# NOTE: For Engineers, any additions or changes to Help menu strings should
-# also be reflected in the related strings in appmenu.ftl. Those strings, by
-# convention, will have the same ID as these, but prefixed with "app".
 # Example: appmenu-get-help
 #
 # These strings are duplicated to allow for different casing depending on
@@ -317,14 +310,12 @@ menu-help-import-from-another-browser =
 menu-help-keyboard-shortcuts =
     .label = Mga Keyboard Shortcut
     .accesskey = K
-menu-get-help =
-    .label = Humingi ng Tulong
-    .accesskey = T
 menu-help-troubleshooting-info =
     .label = Impormasyon para sa Troubleshooting
     .accesskey = T
-menu-help-taskmanager =
-    .label = Task Manager
+menu-get-help =
+    .label = Humingi ng Tulong
+    .accesskey = T
 menu-help-report-site-issue =
     .label = Mag-report ng Site Issue…
 menu-help-feedback-page =
