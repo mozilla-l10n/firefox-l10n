@@ -264,6 +264,11 @@ onboarding-multistage-theme-description-alpenglow =
 # choice to use Firefox over a larger competitor browser.
 # An alternative title for localization is: "It starts here".
 mr1-welcome-screen-hero-text = Ronojel nitikïr wawe'
+# This button will open system settings to turn on prefers-reduced-motion
+mr1-onboarding-reduce-motion-button-label = Tichup animanela'
+mr1-onboarding-welcome-header = Ütz apetïk pa { -brand-short-name }
+mr1-onboarding-set-default-pin-primary-button-label = Tib'an nab'ey okik'amaya'l chi re ri { -brand-short-name }
+    .title = Rumolaj { -brand-short-name } achi'el nab'ey okik'amaya'l  chuqa' taq rupin rukajtz'ik samaj
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
