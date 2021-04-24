@@ -264,6 +264,11 @@ onboarding-multistage-theme-description-alpenglow =
 # choice to use Firefox over a larger competitor browser.
 # An alternative title for localization is: "It starts here".
 mr1-welcome-screen-hero-text = Tai prasideda čia
+# This button will open system settings to turn on prefers-reduced-motion
+mr1-onboarding-reduce-motion-button-label = Išjungti animacijas
+mr1-onboarding-welcome-header = Sveiki, čia „{ -brand-short-name }“
+mr1-onboarding-set-default-pin-primary-button-label = Paskirti „{ -brand-short-name }“ mano pagrindine naršykle
+    .title = Padaro „{ -brand-short-name }“ numatytąja naršykle ir prisega į užduočių juostą
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
