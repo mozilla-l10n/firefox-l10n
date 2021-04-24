@@ -1212,7 +1212,7 @@ space-alert-under-5gb-message2 = <strong>Το { -brand-short-name } δεν δι�
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Λειτουργία Μόνο-HTTPS
-httpsonly-description = Το HTTPS παρέχει μια ασφαλή, κρυπτογραφημένη σύνδεση μεταξύ του { -brand-short-name } και των ιστοσελίδων που επισκέπτεστε. Οι περισσότερες ιστοσελίδες υποστηρίζουν HTTPS και αν είναι ενεργή η λειτουργία μόνο-HTTPS, τότε το { -brand-short-name } θα αναβαθμίζει όλες τις συνδέσεις σε HTTPS.
+httpsonly-description = Το HTTPS παρέχει μια ασφαλή, κρυπτογραφημένη σύνδεση μεταξύ του { -brand-short-name } και των ιστοσελίδων που επισκέπτεστε. Οι περισσότερες ιστοσελίδες υποστηρίζουν HTTPS και αν είναι ενεργή η λειτουργία Μόνο-HTTPS, τότε το { -brand-short-name } θα αναβαθμίζει όλες τις συνδέσεις σε HTTPS.
 httpsonly-learn-more = Μάθετε περισσότερα
 httpsonly-radio-enabled =
     .label = Ενεργοποίηση λειτουργίας Μόνο-HTTPS σε όλα τα παράθυρα
