@@ -221,9 +221,9 @@ about-logins-confirm-export-dialog-message = Jūsų slaptažodžiai bus įrašyt
 about-logins-confirm-export-dialog-confirm-button = Eksportuoti…
 about-logins-alert-import-title = Importas baigtas
 about-logins-alert-import-message = Rodyti išsamią importo suvestinę
-confirm-discard-changes-dialog-title = Atsisakyti neįrašytų pakeitimų?
+confirm-discard-changes-dialog-title = Atmesti neįrašytus pakeitimus?
 confirm-discard-changes-dialog-message = Visi neįrašyti pakeitimai bus prarasti.
-confirm-discard-changes-dialog-confirm-button = Atsisakyti
+confirm-discard-changes-dialog-confirm-button = Atmesti
 
 ## Breach Alert notification
 
