@@ -41,7 +41,7 @@
 <!ENTITY cmd.restoreFromFile.label      "Επιλογή αρχείου…">
 <!ENTITY cmd.restoreFromFile.accesskey  "Ε">
 
-<!ENTITY cmd.deleteDomainData.label     "Χωρίς απομνημόνευση σελίδας">
+<!ENTITY cmd.deleteDomainData.label     "Διαγραφή δεδομένων ιστοσελίδας">
 <!ENTITY cmd.deleteDomainData.accesskey "Χ">
 
 <!ENTITY cmd.open.label                  "Άνοιγμα">
