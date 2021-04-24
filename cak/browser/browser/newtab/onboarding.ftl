@@ -312,3 +312,23 @@ mr1-onboarding-theme-tooltip-light =
     .title =
         Tokisäx jun säq wachinel kichin taq pitz'b'äl,
          taq k'utsamaj, chuqa' taq tzuwäch.
+# Input description for light theme
+mr1-onboarding-theme-description-light =
+    .aria-description =
+        Tokisäx jun säq wachinel kichin taq pitz'b'äl,
+         taq k'utsamaj, chuqa' taq tzuwäch.
+# Tooltip displayed on hover of dark theme
+mr1-onboarding-theme-tooltip-dark =
+    .title =
+        Tokisäx jun q'ëq wachinel kichin taq pitz'b'äl,
+         taq k'utsamaj, chuqa' taq tzuwäch.
+# Input description for dark theme
+mr1-onboarding-theme-description-dark =
+    .aria-description =
+        Tokisäx jun q'ëq wachinel kichin taq pitz'b'äl,
+         taq k'utsamaj, chuqa' taq tzuwäch.
+# Tooltip displayed on hover of Alpenglow theme
+mr1-onboarding-theme-tooltip-alpenglow =
+    .title =
+        Tokisäx jun silonel chuqa' k'o rub'onil wachinel kichin taq pitz'b'äl,
+        taq k'utsamaj chuqa' taq tzuwäch.
