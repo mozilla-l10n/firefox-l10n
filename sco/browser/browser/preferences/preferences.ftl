@@ -592,6 +592,13 @@ search-separate-default-engine =
     .label = Yaise this airt-oot engine in Preevate Windaes
     .accesskey = Y
 search-suggestions-header = Airt-oot Suggestions
+search-suggestions-desc = Decide how suggestions fae airt-oot engines kythe.
+search-suggestions-option =
+    .label = Gie's airt-oot suggestions
+    .accesskey = s
+search-show-suggestions-url-bar-option =
+    .label = Shaw airt-oot suggestions in address baur results
+    .accesskey = l
 
 ## Containers Section
 
