@@ -94,6 +94,15 @@ places-edit-generic =
 places-edit-folder =
     .label = Pervardyti aplanką…
     .accesskey = e
+places-remove-folder =
+    .label =
+        { $count ->
+            [1] Pašalinti aplanką
+            [one] Pašalinti aplanką
+            [few] Pašalinti aplankus
+           *[other] Pašalinti aplankų
+        }
+    .accesskey = n
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Tvarkomas adresynas
