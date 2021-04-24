@@ -18,5 +18,5 @@ default-browser-prompt-button-primary-pin = Paskirti pagrindine naršykle
 default-browser-prompt-title-alt = Paskirti „{ -brand-short-name }“ jūsų pagrindine naršykle?
 default-browser-prompt-message-alt = Gaukite greitį, saugumą, ir privatumą kiekvieno naršymo metu.
 default-browser-prompt-button-primary-alt = Skirti numatytąja naršykle
-default-browser-prompt-checkbox-label = Daugiau neklausti
+default-browser-prompt-checkbox-not-again-label = Daugiau šio pranešimo nerodyti
 default-browser-prompt-button-secondary = Ne dabar

@@ -49,4 +49,4 @@ bookmark-overlay-keyword-2 =
     .value = Reikšminis žodis
     .accesskey = R
 bookmark-overlay-tags-caption-label = Naudodami gaires galite greičiau rasti adresyno įrašus iš adreso lauko
-bookmark-overlay-keyword-caption-label = Naudodami reikšminius žodžius galite atverti adresyno įrašus tiesiai iš adreso lauko
+bookmark-overlay-keyword-caption-label-2 = Naudokite reikšminį žodį, norėdami atverti adresyno įrašus tiesiai iš adreso lauko
