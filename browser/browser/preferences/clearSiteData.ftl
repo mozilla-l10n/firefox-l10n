@@ -5,7 +5,7 @@
 clear-site-data-window =
     .title = Απαλοιφή δεδομένων
     .style = width: 35em
-clear-site-data-description = Η απαλοιφή όλων των cookies και των δεδομένων ιστοσελίδων που αποθηκεύονται από το { -brand-short-name } ενδέχεται να σας αποσυνδέσει από ιστοσελίδες και να αφαιρέσει το διαδικτυακό περιεχόμενο εκτός σύνδεσης. Η εκκαθάριση της κρυφής μνήμης δεν θα επηρεάσει τις συνδέσεις σας.
+clear-site-data-description = Η απαλοιφή όλων των cookies και των δεδομένων ιστοσελίδων που αποθηκεύει το { -brand-short-name } ίσως σας αποσυνδέσει από ιστοσελίδες και ενδέχεται να αφαιρέσει το περιεχόμενο web εκτός σύνδεσης. Η εκκαθάριση της προσωρινής μνήμης δεν θα επηρεάσει τις συνδέσεις σας.
 clear-site-data-close-key =
     .key = w
 # The parameters in parentheses in this string describe disk usage
