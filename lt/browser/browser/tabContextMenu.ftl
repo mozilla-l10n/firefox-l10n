@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+tab-context-new-tab =
+    .label = Nauja kortelė
+    .accesskey = j
 reload-tab =
     .label = Įkelti kortelę iš naujo
     .accesskey = i
@@ -66,15 +69,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Užverti keletą kortelių
     .accesskey = v
-tab-context-share-url =
-    .label = Dalintis
-    .accesskey = i
-tab-context-share-more =
-    .label = Daugiau…
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->
@@ -96,6 +90,15 @@ move-tabs =
 move-tab =
     .label = Perkelti kortelę
     .accesskey = t
+tab-context-share-url =
+    .label = Dalintis
+    .accesskey = i
+tab-context-share-more =
+    .label = Daugiau…
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->

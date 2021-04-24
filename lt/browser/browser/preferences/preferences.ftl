@@ -417,7 +417,7 @@ update-setting-write-failure-message2 =
     Nepavyko rašymas į failą: { $path }
 update-in-progress-title = Vyksta naujinimas
 update-in-progress-message = Ar norite, kad „{ -brand-short-name }“ tęstų šį naujinimą?
-update-in-progress-ok-button = &Atsisakyti
+update-in-progress-ok-button = &Atmesti
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Tęsti
@@ -1026,6 +1026,7 @@ content-blocking-private-windows = Stebėjimui naudojamas turinys privačiojo na
 content-blocking-cross-site-cookies = Tarp svetainių veikiantys slapukai
 content-blocking-cross-site-cookies-in-all-windows = Tarp svetainių veikiantys slapukai visuose languose (įskaitant stebėjimo slapukus)
 content-blocking-cross-site-tracking-cookies = Tarp svetainių veikiantys stebėjimo slapukai
+content-blocking-all-cross-site-cookies-private-windows = Tarp svetainių veikiantys slapukai privačiuose languose
 content-blocking-cross-site-tracking-cookies-plus-isolate = Tarp svetainių veikiantys slapukai, o likusius slapukus izoliuoti
 content-blocking-social-media-trackers = Socialinių tinklų stebėjimo elementai
 content-blocking-all-cookies = Visi slapukai
