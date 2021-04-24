@@ -4,7 +4,7 @@
 
 tab-context-new-tab =
     .label = Nuova scheda
-    .accesskey = v
+    .accesskey = N
 reload-tab =
     .label = Ricarica scheda
     .accesskey = R
@@ -67,7 +67,7 @@ tab-context-close-multiple-tabs =
     .accesskey = u
 tab-context-share-url =
     .label = Condividi
-    .accesskey = d
+    .accesskey = o
 tab-context-share-more =
     .label = Altro…
 
