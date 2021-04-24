@@ -264,7 +264,7 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
-bookmarks-add-bookmark = Eik on buikmerk
+bookmarks-add-bookmark = Eik-On buikmerk
 bookmarks-edit-bookmark = Edit buikmerk
 bookmark-panel-cancel =
     .label = Stap
