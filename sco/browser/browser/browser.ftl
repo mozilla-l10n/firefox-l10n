@@ -157,7 +157,7 @@ urlbar-star-add-bookmark =
 ## Page Action Context Menu
 
 page-action-add-to-urlbar =
-    .label = Eik-On tae Address Baur
+    .label = Eik On tae Address Baur
 page-action-manage-extension =
     .label = Manage Extension…
 page-action-remove-from-urlbar =
@@ -264,7 +264,7 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
-bookmarks-add-bookmark = Eik-On buikmerk
+bookmarks-add-bookmark = Eik on buikmerk
 bookmarks-edit-bookmark = Edit buikmerk
 bookmark-panel-cancel =
     .label = Stap
@@ -631,7 +631,7 @@ bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
             [true] Remuive Buikmerks Menu fae Toolbaur
-           *[other] Eik-on Buikmerks Menu tae Toolbaur
+           *[other] Eik On Buikmerks Menu tae Toolbaur
         }
 bookmarks-search =
     .label = Sairch Buikmerks

@@ -11,7 +11,7 @@
 #define bookmarks_heading Buikmerks
 
 #define bookmarks_toolbarfolder Buikmerks Toolbar Folder
-#define bookmarks_toolbarfolder_description Add buikmerks tae this folder fur tae see them kythe on the Buikmerks Toolbar
+#define bookmarks_toolbarfolder_description Eik on buikmerks tae this folder fur tae see them kythe on the Buikmerks Toolbar
 
 # LOCALIZATION NOTE (getting_started):
 # link title for https://www.mozilla.org/en-US/firefox/central/
