@@ -307,3 +307,8 @@ mr1-onboarding-theme-description-system =
     .aria-description =
         Toqäx ri ruwachinel samajel q'inoj
         kichin taq pitz'b'äl, taq k'utsamaj chuqa' taq tzuwäch.
+# Tooltip displayed on hover of light theme
+mr1-onboarding-theme-tooltip-light =
+    .title =
+        Tokisäx jun säq wachinel kichin taq pitz'b'äl,
+         taq k'utsamaj, chuqa' taq tzuwäch.
