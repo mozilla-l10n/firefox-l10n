@@ -327,7 +327,7 @@ about-logins-import-report-description = Logins and passwirds inbrocht tae { -br
 about-logins-import-report-row-index = Row { $number }
 about-logins-import-report-row-description-no-change = Duplicate: Exact match o existin login
 about-logins-import-report-row-description-modified = Existin login updatit
-about-logins-import-report-row-description-added = New login eikit
+about-logins-import-report-row-description-added = New login eikit on
 about-logins-import-report-row-description-error = Mishanter: Tint field
 
 ##

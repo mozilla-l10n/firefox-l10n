@@ -46,7 +46,7 @@
 <!ENTITY col.url.label           "Airtin">
 <!ENTITY col.mostrecentvisit.label "Maist Recent Visit">
 <!ENTITY col.visitcount.label    "Visit Coont">
-<!ENTITY col.dateadded.label     "Addit">
+<!ENTITY col.dateadded.label     "Eikit on">
 <!ENTITY col.lastmodified.label  "Lest Modifiet">
 
 <!ENTITY cmd.find.key  "f">
