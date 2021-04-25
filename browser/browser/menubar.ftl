@@ -67,7 +67,7 @@ menu-file-new-window =
     .label = 開新視窗
     .accesskey = N
 menu-file-new-private-window =
-    .label = 新增隱私視窗
+    .label = 開新隱私視窗
     .accesskey = W
 # "Open Location" is only displayed on macOS, and only on windows
 # that aren't main browser windows, or when there are no windows
@@ -342,14 +342,12 @@ menu-help-import-from-another-browser =
 menu-help-keyboard-shortcuts =
     .label = 快速鍵
     .accesskey = K
-menu-get-help =
-    .label = 取得幫助
-    .accesskey = H
 menu-help-troubleshooting-info =
     .label = 疑難排解資訊
     .accesskey = T
-menu-help-taskmanager =
-    .label = 工作管理員
+menu-get-help =
+    .label = 取得幫助
+    .accesskey = H
 menu-help-more-troubleshooting-info =
     .label = 更多疑難排解資訊
     .accesskey = T
