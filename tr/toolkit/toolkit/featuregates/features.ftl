@@ -74,3 +74,4 @@ experimental-features-http3-description = Deneysel HTTP/3 protokolü desteği.
 # Search during IME
 experimental-features-ime-search =
     .label = Adres Çubuğu: IME oluşturma sırasında sorunları göster
+experimental-features-ime-search-description = IME (Giriş Yöntemi Düzenleyicisi), standart bir klavye kullanarak Doğu Asya veya Hintçe yazı dillerinde kullanılanlar gibi karmaşık sembolleri girmenize olanak tanıyan bir araçtır. Bu deneyi etkinleştirmek, metin girmek için IME'yi kullanırken adres çubuğu panelini açık tutacak ve arama sonuçlarını ve önerileri gösterecektir. IME'nin adres çubuğu sonuçlarını örten bir panel görüntüleyebileceğini, bu nedenle bu tercihin yalnızca bu tür bir paneli kullanmayan IME'ler için önerildiğini unutmayın.
