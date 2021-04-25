@@ -37,7 +37,7 @@
 
 <!ENTITY fileAccessDenied.longDesc "
 <ul>
-  <li>It micht hae been remuivit, flittit elsewhaur, or file permissions micht be preventin ingang.</li>
+  <li>It micht hae been remuivit, flittit elsewhaur, or file permissions micht be hinderin ingang.</li>
 </ul>
 ">
 
@@ -200,7 +200,7 @@ was trying to connect. -->
 <!ENTITY prefReset.label "Restore default settins">
 
 <!ENTITY enableTls10.longDesc "This wabsite micht no support the TLS 1.2 protocol, which is the minimum version supportit by &brandShortName;. Enablin TLS 1.0 and TLS 1.1 micht alloo this connection tae succeed.">
-<!ENTITY enableTls10.note "TLS 1.0 and TLS 1.1 will be turnt aff fur aye in a future roll-oot.">
+<!ENTITY enableTls10.note "TLS 1.0 and TLS 1.1 will be disabled fur aye in a future roll-oot.">
 <!ENTITY enableTls10.label "Enable TLS 1.0 and 1.1">
 
 <!ENTITY networkProtocolError.longDesc "<p>The page yer tryin tae view cannae be shawn acause an error in the netwark protocol wis detectit.</p><ul><li>Please get in touch wi the wabsite owners fur tae lat them ken aboot this problem.</li></ul>">
