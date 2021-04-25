@@ -299,6 +299,8 @@ about-logins-import-dialog-items-error =
        *[other] <span>Errores:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(no importados)</span>
     }
 about-logins-import-dialog-done = Hecho
+about-logins-import-dialog-error-cancel = Cancelar
+about-logins-import-report-title = Resumen de importación
 
 ##
 ## Variables:
