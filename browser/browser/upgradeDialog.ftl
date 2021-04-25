@@ -10,13 +10,13 @@
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-new-title = Поздоровайтесь с новым { -brand-short-name }
-upgrade-dialog-new-subtitle = Создан для ускорения доставки вас в нужное место
-upgrade-dialog-new-item-menu-title = Оптимизировано меню и панель инструментов
-upgrade-dialog-new-item-menu-description = Расставьте важные вещи в нужном порядке, чтобы быстрее найти что вам нужно.
+upgrade-dialog-new-subtitle = Создан для быстрой доставки вас в нужное место
+upgrade-dialog-new-item-menu-title = Оптимизированное меню и панель инструментов
+upgrade-dialog-new-item-menu-description = Расставьте важные вещи в нужном порядке, чтобы быстро найти то, что вам нужно.
 upgrade-dialog-new-item-tabs-title = Современные вкладки
-upgrade-dialog-new-item-tabs-description = Удобная подача информации с поддержкой фокусировки и простотой навигации.
-upgrade-dialog-new-item-icons-title = Обновлённые значки и более чёткие сообщения.
-upgrade-dialog-new-item-icons-description = Помогите себе найти свой путь одним лёгким прикосновением.
+upgrade-dialog-new-item-tabs-description = Удобная подача информации с поддержкой фокусировки и упрощённой навигацией.
+upgrade-dialog-new-item-icons-title = Обновлённые значки и более понятные сообщения.
+upgrade-dialog-new-item-icons-description = Помогают вам найти путь одним лёгким прикосновением.
 upgrade-dialog-new-primary-primary-button = Сделать { -brand-short-name } моим основным браузером
     .title = Устанавливает { -brand-short-name } в качестве браузера по умолчанию и закрепляет его на панели задач
 upgrade-dialog-new-primary-default-button = Сделать { -brand-short-name } моим браузером по умолчанию
