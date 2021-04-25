@@ -261,13 +261,31 @@ onboarding-multistage-theme-description-alpenglow =
 
 ## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 
+# "Hero Text" displayed on left side of welcome screen.
+# The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
+# It also signals the passion users bring to Firefox, how they use
+# Firefox to pursue those passions, as well as the boldness in their
+# choice to use Firefox over a larger competitor browser.
+# An alternative title for localization is: "It starts here".
+mr1-welcome-screen-hero-text = Ён пачынаецца тут
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Адключыць анімацыі
 mr1-onboarding-welcome-header = Вітаем у { -brand-short-name }
+mr1-onboarding-set-default-pin-primary-button-label = Зрабіць { -brand-short-name } маім асноўным браўзерам
+    .title = Усталёўвае { -brand-short-name } прадвызначаным браўзерам і замацоўвае ў панэлі задач
 mr1-onboarding-set-default-only-primary-button-label = Зрабіць { -brand-short-name } маім прадвызначаным браўзерам
 mr1-onboarding-set-default-secondary-button-label = Не зараз
 mr1-onboarding-sign-in-button-label = Увайсці
+mr1-onboarding-import-header = Вазьміце ўсё з сабой
+mr1-onboarding-import-subtitle = Імпартуйце свае паролі, <br/>закладкі і шмат іншага.
+# The primary import button label will depend on whether we can detect which browser was used to download Firefox.
+# Variables:
+#   $previous (Str) - Previous browser name, such as Edge, Chrome
+mr1-onboarding-import-primary-button-label-attribution = Імпартаваць з { $previous }
+# This string will be used in cases where we can't detect the previous browser name.
+mr1-onboarding-import-primary-button-label-no-attribution = Імпартаваць з папярэдняга браўзера
 mr1-onboarding-import-secondary-button-label = Не зараз
+mr1-onboarding-theme-header = Зрабіце яго сваім
 mr1-onboarding-theme-subtitle = Персаніфікуйце { -brand-short-name } з дапамогай тэмы.
 mr1-onboarding-theme-primary-button-label = Захаваць тэму
 mr1-onboarding-theme-secondary-button-label = Не зараз
