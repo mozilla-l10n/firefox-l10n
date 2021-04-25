@@ -3,5 +3,5 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  settingsChangePreferences.label  "Settins can be chyngit yaisin the Applications tab in &brandShortName;'s Preferences.">
-<!ENTITY  settingsChangeOptions.label      "Settins can be chyngit yaisin the Applications tab in &brandShortName;'s Options.">
+<!ENTITY  settingsChangePreferences.label  "Settins can be chynged yaisin the Applications tab in &brandShortName;'s Preferences.">
+<!ENTITY  settingsChangeOptions.label      "Settins can be chynged yaisin the Applications tab in &brandShortName;'s Options.">
