@@ -55,9 +55,22 @@ whatsnew-panel-footer-checkbox =
 ## performance profiles. To enable it go to profiler.firefox.com and click
 ## "Enable Profiler Menu Button".
 
+profiler-popup-start-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧1
+       *[other] Ctrl+Mayús+1
+    }
+profiler-popup-capture-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧2
+       *[other] Ctrl+Mayús+2
+    }
 
 ## History panel
 
+appmenu-manage-history =
+    .label = Administrar historial
+appmenu-reopen-all-tabs = Reabrir todas las pestañas
 
 ## Help panel
 
