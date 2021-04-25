@@ -257,6 +257,9 @@ onboarding-multistage-theme-description-alpenglow =
 
 ## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 
+mr1-onboarding-set-default-secondary-button-label = Mačči tura
+mr1-onboarding-sign-in-button-label = Kcem
+mr1-onboarding-import-secondary-button-label = Mačči tura
 mr1-onboarding-theme-primary-button-label = Sekles asentel
 mr1-onboarding-theme-secondary-button-label = Mačči tura
 # System theme uses operating system color settings
