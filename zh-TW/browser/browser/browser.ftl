@@ -170,9 +170,17 @@ page-action-remove-extension =
 # Variables
 # $tabCount (integer) - Number of tabs selected
 page-action-send-tabs-panel =
-    .label = 傳送 { $tabCount } 個分頁到裝置
+    .label =
+        { $tabCount ->
+            [1] 將分頁傳送到其他裝置
+           *[other] 傳送 { $tabCount } 個到其他裝置
+        }
 page-action-send-tabs-urlbar =
-    .tooltiptext = 傳送 { $tabCount } 個分頁到裝置
+    .tooltiptext =
+        { $tabCount ->
+            [1] 將分頁傳送到其他裝置
+           *[other] 傳送 { $tabCount } 個到其他裝置
+        }
 page-action-pocket-panel =
     .label = 將頁面儲存至 { -pocket-brand-name }
 page-action-copy-url-panel =
