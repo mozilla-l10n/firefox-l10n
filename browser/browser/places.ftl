@@ -5,11 +5,11 @@
 places-open =
     .label = Open
     .accesskey = O
-places-open-tab =
-    .label = Open in a New Tab
-    .accesskey = w
 places-open-in-tab =
     .label = Open in New Tab
+    .accesskey = w
+places-open-tab =
+    .label = Open in a New Tab
     .accesskey = w
 places-open-all-bookmarks =
     .label = Open All Bookmarks
@@ -20,8 +20,14 @@ places-open-all-in-tabs =
 places-open-window =
     .label = Open in a New Window
     .accesskey = N
+places-open-in-window =
+    .label = Open in New Window
+    .accesskey = N
 places-open-private-window =
     .label = Open in a New Private Window
+    .accesskey = P
+places-open-in-private-window =
+    .label = Open in New Private Window
     .accesskey = P
 places-new-bookmark =
     .label = New Bookmark…
@@ -35,12 +41,6 @@ places-new-folder =
 places-new-separator =
     .label = New Separator
     .accesskey = S
-places-open-in-window =
-    .label = Open in New Window
-    .accesskey = N
-places-open-in-private-window =
-    .label = Open in New Private Window
-    .accesskey = P
 places-add-bookmark =
     .label = Add Bookmark…
     .accesskey = B
@@ -91,6 +91,16 @@ places-edit-bookmark =
 places-edit-generic =
     .label = Edit…
     .accesskey = i
+places-edit-folder =
+    .label = Rename Folder…
+    .accesskey = e
+places-remove-folder =
+    .label =
+        { $count ->
+            [1] Remove Folder
+           *[other] Remove Folders
+        }
+    .accesskey = m
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Managed bookmarks
