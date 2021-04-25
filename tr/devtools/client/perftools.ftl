@@ -24,6 +24,7 @@ perftools-heading-local-build = Yerel build
 ##
 
 perftools-description-intro = Kayıtlar yeni bir sekmede <a>profiler.firefox.com</a> adresini açar. Tüm veriler cihazınızda yerel olarak depolanır. Paylaşmak istediklerinizi upload edebilirsiniz.
+perftools-description-local-build = Eğer bu makinede kendi derlediğiniz bir yapının profilini çıkarıyorsanız, lütfen yapı objdir’inizi aşağıdaki listeye ekleyin. Böylece sembol bilgilerini aramak için kullanılabilir.
 
 ## The controls for the interval at which the profiler samples the code.
 
@@ -75,6 +76,8 @@ perftools-thread-renderer =
     .title = WebRender etkinleştirildiğinde OpenGL çağrılarını yürüten iş parçacığı
 perftools-thread-render-backend =
     .title = WebRender RenderBackend iş parçacığı
+perftools-thread-paint-worker =
+    .title = Ana iş parçacığı dışında painting etkinleştirildiğinde painting'in gerçekleşeceği iş parçacığı
 perftools-thread-style-thread =
     .title = Stil hesaplaması birden çok iş parçacığına bölünür
 pref-thread-stream-trans =
@@ -85,6 +88,8 @@ perftools-thread-img-decoder =
     .title = Görüntü çözme iş parçacıkları
 perftools-thread-dns-resolver =
     .title = DNS çözümleme bu iş parçacığında gerçekleşir
+perftools-thread-js-helper =
+    .title = JS engine background work such as off-main-thread compiles
 
 ##
 
