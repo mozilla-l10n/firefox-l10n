@@ -382,7 +382,7 @@ browser-tab-audio-playing2 = ВОСПРОИЗВОДИТСЯ
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-muted2 = БЕЗ ЗВУКА
 # This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-blocked = АВТОВОСПРОИЗВЕДЕНИЕ ЗАБЛОКИРОВАНО
+browser-tab-audio-blocked = АВТОЗАПУСК ЗАБЛОКИРОВАН
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = КАРТИНКА В КАРТИНКЕ
 
