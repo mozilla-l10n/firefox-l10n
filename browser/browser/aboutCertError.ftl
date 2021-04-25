@@ -62,3 +62,5 @@ inadequateSecurityError-title = Врската не е безбедна
 blockedByPolicy-title = Блокирана страница
 clockSkewError-title = Вашиот компјутерски часовник е погрешен
 networkProtocolError-title = Грешка во мрежниот протокол
+nssBadCert-title = Предупредување: Претстои потенцијален ризик за безбедноста
+nssBadCert-sts-title = Не се поврзав: Потенцијално безбедносно прашање
