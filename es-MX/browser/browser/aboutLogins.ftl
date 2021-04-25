@@ -307,6 +307,7 @@ about-logins-import-dialog-items-error =
     }
 about-logins-import-dialog-done = Hecho
 about-logins-import-dialog-error-title = Error de importación
+about-logins-import-dialog-error-file-format-title = Problema de formato de archivo
 about-logins-import-dialog-error-learn-more = Aprender más
 about-logins-import-dialog-error-try-again = Intentar de nuevo...
 about-logins-import-dialog-error-cancel = Cancelar
