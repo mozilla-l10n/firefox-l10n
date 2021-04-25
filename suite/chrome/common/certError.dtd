@@ -13,5 +13,10 @@ was trying to connect. -->
 
 <!ENTITY certerror.whatShouldIDo.heading "Kaj naj naredim?">
 
+<!ENTITY certerror.expert.heading "Razumem tveganja">
+<!ENTITY certerror.addException.label "Dodaj izjemo …">
 
+<!ENTITY certerror.technical.heading "Tehnične podrobnosti">
 
+<!ENTITY dnsNotFound.pageTitle "Strežnika ni mogoče najti">
+<!ENTITY malformedURI.pageTitle "Neveljaven URL">
