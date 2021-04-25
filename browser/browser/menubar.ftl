@@ -275,12 +275,25 @@ menu-tools-fxa-re-auth =
 menu-tools-web-developer =
     .label = Desarrollador Web
     .accesskey = W
+menu-tools-browser-tools =
+    .label = Herramientas del navegador
+    .accesskey = B
+menu-tools-task-manager =
+    .label = Administrador de tareas
+    .accesskey = M
 menu-tools-page-source =
     .label = Código fuente de esta página
     .accesskey = o
 menu-tools-page-info =
     .label = Información sobre esta página
     .accesskey = I
+menu-settings =
+    .label = Configuración
+    .accesskey =
+        { PLATFORM() ->
+            [windows] S
+           *[other] n
+        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -332,6 +345,12 @@ menu-help-keyboard-shortcuts =
 menu-help-troubleshooting-info =
     .label = Información para solucionar problemas
     .accesskey = I
+menu-get-help =
+    .label = Obtener ayuda
+    .accesskey = H
+menu-help-more-troubleshooting-info =
+    .label = Más información para solucionar problemas
+    .accesskey = T
 menu-help-report-site-issue =
     .label = Reportar problema con el sitio…
 menu-help-feedback-page =
@@ -343,6 +362,12 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Reiniciar con complementos habilitados
     .accesskey = R
+menu-help-enter-troubleshoot-mode2 =
+    .label = Modo de resolución de problemas…
+    .accesskey = M
+menu-help-exit-troubleshoot-mode =
+    .label = Desactivar modo de resolución de problemas
+    .accesskey = M
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
