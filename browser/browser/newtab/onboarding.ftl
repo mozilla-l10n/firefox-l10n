@@ -200,7 +200,6 @@ onboarding-welcome-steps-indicator =
 # automatically added to the text inside it. "look" should stay inside the span.
 onboarding-multistage-theme-header = เลือก<span data-l10n-name="zap">รูปลักษณ์</span>
 onboarding-multistage-theme-subtitle = ปรับแต่ง { -brand-short-name } ด้วยชุดตกแต่ง
-onboarding-multistage-theme-primary-button-label = บันทึกชุดตกแต่ง
 onboarding-multistage-theme-primary-button-label2 = เสร็จสิ้น
 onboarding-multistage-theme-secondary-button-label = ไม่ใช่ตอนนี้
 # Automatic theme uses operating system color settings
@@ -255,3 +254,24 @@ onboarding-multistage-theme-description-alpenglow =
     .aria-description =
         ใช้ลักษณะที่ปรากฏแบบสีสันสำหรับปุ่ม
         เมนู และหน้าต่าง
+
+## Multistage MR1 onboarding strings (MR1 about:welcome pages)
+
+# This button will open system settings to turn on prefers-reduced-motion
+mr1-onboarding-reduce-motion-button-label = ปิดภาพเคลื่อนไหว
+mr1-onboarding-set-default-secondary-button-label = ไม่ใช่ตอนนี้
+mr1-onboarding-sign-in-button-label = ลงชื่อเข้า
+# The primary import button label will depend on whether we can detect which browser was used to download Firefox.
+# Variables:
+#   $previous (Str) - Previous browser name, such as Edge, Chrome
+mr1-onboarding-import-primary-button-label-attribution = นำเข้าจาก { $previous }
+mr1-onboarding-import-secondary-button-label = ไม่ใช่ตอนนี้
+mr1-onboarding-theme-secondary-button-label = ไม่ใช่ตอนนี้
+# "Alpenglow" here is the name of the theme, and should be kept in English.
+mr1-onboarding-theme-label-alpenglow = Alpenglow
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
