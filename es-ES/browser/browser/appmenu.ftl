@@ -5,14 +5,18 @@
 
 ## App Menu
 
-appmenuitem-update-banner =
-    .label-update-downloading = Descargando actualización de { -brand-shorter-name }
 appmenuitem-update-banner2 =
     .label-update-downloading = Descargando la actualización de { -brand-shorter-name }
     .label-update-available = Actualización disponible, descargar ahora
     .label-update-manual = Actualización disponible, descargar ahora
     .label-update-unsupported = No se ha podido actualizar
     .label-update-restart = Actualización disponible, reiniciar ahora
+appmenuitem-update-banner3 =
+    .label-update-downloading = Descargando actualización de { -brand-shorter-name }
+    .label-update-available = Actualización disponible — descargar ahora
+    .label-update-manual = Actualización disponible — descargar ahora
+    .label-update-unsupported = No se puede actualizar — sistema incompatible
+    .label-update-restart = Actualización disponible — reiniciar ahora
 appmenuitem-protection-dashboard-title = Panel de protecciones
 appmenuitem-customize-mode =
     .label = Personalizar…
@@ -25,8 +29,6 @@ appmenuitem-new-private-window =
     .label = Nueva ventana privada
 appmenuitem-passwords =
     .label = Contraseñas
-appmenuitem-extensions-and-themes =
-    .label = Extensiones y temas
 appmenuitem-addons-and-themes =
     .label = Complementos y temas
 appmenuitem-find-in-page =
@@ -162,11 +164,6 @@ appmenu-about =
 appmenu-get-help =
     .label = Obtener ayuda
     .accesskey = O
-appmenu-help-troubleshooting-info =
-    .label = Información para solucionar problemas
-    .accesskey = f
-appmenu-help-taskmanager =
-    .label = Administrador de tareas
 appmenu-help-more-troubleshooting-info =
     .label = Más información para solucionar problemas
     .accesskey = T
@@ -175,16 +172,6 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = Enviar opinión…
     .accesskey = v
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Reiniciar con los complementos desactivados…
-    .accesskey = R
-appmenu-help-safe-mode-with-addons =
-    .label = Reiniciar con los complementos activados
-    .accesskey = R
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

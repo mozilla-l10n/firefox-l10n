@@ -35,7 +35,7 @@ toolbar-context-menu-reopen-closed-tabs =
             [one] Reabrir pestaña cerrada
            *[other] Reabrir pestañas cerradas
         }
-    .accesskey = o
+    .accesskey = e
 toolbar-context-menu-manage-extension =
     .label = Gestionar extensión
     .accesskey = e
