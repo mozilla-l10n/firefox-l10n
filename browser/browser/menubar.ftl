@@ -11,6 +11,8 @@
 
 ## Application Menu (macOS only)
 
+menu-application-preferences =
+    .label = Preferencias
 menu-application-services =
     .label = Servicios
 menu-application-hide-this =
@@ -111,6 +113,9 @@ menu-edit =
 menu-edit-find-on =
     .label = Buscar en esta página…
     .accesskey = B
+menu-edit-find-in-page =
+    .label = Buscar en la página…
+    .accesskey = F
 menu-edit-find-again =
     .label = Repetir la búsqueda
     .accesskey = R
@@ -129,6 +134,9 @@ menu-view-toolbars-menu =
 menu-view-customize-toolbar =
     .label = Personalizar…
     .accesskey = P
+menu-view-customize-toolbar2 =
+    .label = Personalizar barra de herramientas…
+    .accesskey = C
 menu-view-sidebar =
     .label = Barra lateral
     .accesskey = l
@@ -207,6 +215,8 @@ menu-history-undo-menu =
     .label = Pestañas cerradas recientemente
 menu-history-undo-window-menu =
     .label = Ventanas cerradas recientemente
+menu-history-reopen-all-tabs = Reabrir todas las pestañas
+menu-history-reopen-all-windows = Reabrir todas las ventanas
 
 ## Bookmarks Menu
 
@@ -217,6 +227,8 @@ menu-bookmarks-show-all =
     .label = Mostrar todos los marcadores
 menu-bookmark-this-page =
     .label = Agregar esta página a marcadores
+menu-bookmark-current-tab =
+    .label = Marcar pestaña actual
 menu-bookmark-edit =
     .label = Modificar este marcador
 menu-bookmarks-all-tabs =
@@ -242,8 +254,17 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Iniciar sesión en { -brand-product-name }…
     .accesskey = I
+menu-tools-addons-and-themes =
+    .label = Complementos y temas
+    .accesskey = A
+menu-tools-fxa-sign-in2 =
+    .label = Iniciar sesión
+    .accesskey = i
 menu-tools-turn-on-sync =
     .label = Activar { -sync-brand-short-name }...
+    .accesskey = n
+menu-tools-turn-on-sync2 =
+    .label = Activar Sync…
     .accesskey = n
 menu-tools-sync-now =
     .label = Sincronizar ahora
@@ -288,15 +309,6 @@ menu-window-bring-all-to-front =
 # NOTE: For Engineers, any additions or changes to Help menu strings should
 # also be reflected in the related strings in appmenu.ftl. Those strings, by
 # convention, will have the same ID as these, but prefixed with "app".
-# Example: appmenu-help-product
-#
-# These strings are duplicated to allow for different casing depending on
-# where the strings appear.
-
-
-# NOTE: For Engineers, any additions or changes to Help menu strings should
-# also be reflected in the related strings in appmenu.ftl. Those strings, by
-# convention, will have the same ID as these, but prefixed with "app".
 # Example: appmenu-get-help
 #
 # These strings are duplicated to allow for different casing depending on
@@ -320,8 +332,6 @@ menu-help-keyboard-shortcuts =
 menu-help-troubleshooting-info =
     .label = Información para solucionar problemas
     .accesskey = I
-menu-help-taskmanager =
-    .label = Administrador de tareas
 menu-help-report-site-issue =
     .label = Reportar problema con el sitio…
 menu-help-feedback-page =

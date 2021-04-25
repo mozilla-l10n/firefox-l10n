@@ -5,8 +5,6 @@
 
 ## App Menu
 
-appmenuitem-update-banner =
-    .label-update-downloading = Descargar la actualización de { -brand-shorter-name }
 appmenuitem-protection-dashboard-title = Panel de protecciones
 appmenuitem-customize-mode =
     .label = Personalizar…
@@ -56,26 +54,11 @@ whatsnew-panel-footer-checkbox =
 appmenu-about =
     .label = Acerca de { -brand-shorter-name }
     .accesskey = A
-appmenu-help-troubleshooting-info =
-    .label = Información para solucionar problemas
-    .accesskey = I
-appmenu-help-taskmanager =
-    .label = Administrador de tareas
 appmenu-help-report-site-issue =
     .label = Reportar problema con el sitio…
 appmenu-help-feedback-page =
     .label = Enviar comentarios...
     .accesskey = S
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Reiniciar con complementos deshabilitados
-    .accesskey = R
-appmenu-help-safe-mode-with-addons =
-    .label = Reiniciar con complementos habilitados
-    .accesskey = R
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -93,5 +76,7 @@ appmenu-help-not-deceptive =
 
 ## More Tools
 
+appmenu-customizetoolbar =
+    .label = Personalizar barra de herramientas…
 appmenu-taskmanager =
     .label = Administrador de tareas
