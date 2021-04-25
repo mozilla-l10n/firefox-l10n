@@ -101,8 +101,8 @@ tab-context-share-more =
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
-            [1] Reabrir pestañas cerrada
-            [one] Reabrir pestañas cerrada
+            [1] Reabrir pestaña cerrada
+            [one] Reabrir pestaña cerrada
            *[other] Reabrir pestañas cerradas
         }
     .accesskey = o

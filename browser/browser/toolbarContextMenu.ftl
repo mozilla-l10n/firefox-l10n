@@ -31,8 +31,8 @@ toolbar-context-menu-undo-close-tabs =
 toolbar-context-menu-reopen-closed-tabs =
     .label =
         { $tabCount ->
-            [1] Reabrir pestañas cerrada
-            [one] Reabrir pestañas cerrada
+            [1] Reabrir pestaña cerrada
+            [one] Reabrir pestaña cerrada
            *[other] Reabrir pestañas cerradas
         }
     .accesskey = o
