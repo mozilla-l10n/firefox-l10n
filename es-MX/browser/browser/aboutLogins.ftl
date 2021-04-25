@@ -307,8 +307,15 @@ about-logins-import-dialog-items-error =
     }
 about-logins-import-dialog-done = Hecho
 about-logins-import-dialog-error-title = Error de importación
+about-logins-import-dialog-error-learn-more = Aprender más
+about-logins-import-dialog-error-try-again = Intentar de nuevo...
 about-logins-import-dialog-error-cancel = Cancelar
 about-logins-import-report-title = Resumen de importación
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = Fila { $number }
+about-logins-import-report-row-description-no-change = Duplicado: Coincidencia exacta con inicio de sesión existente
 
 ##
 ## Variables:
