@@ -316,6 +316,7 @@ about-logins-import-report-title = Resumen de importación
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = Fila { $number }
 about-logins-import-report-row-description-no-change = Duplicado: Coincidencia exacta con inicio de sesión existente
+about-logins-import-report-row-description-modified = Inicio de sesión existente actualizado
 
 ##
 ## Variables:
