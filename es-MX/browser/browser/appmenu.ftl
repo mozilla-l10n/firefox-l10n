@@ -19,6 +19,12 @@ appmenuitem-more-tools =
     .label = Más herramientas
 appmenuitem-exit =
     .label = Salir
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Salir
+           *[other] Salir
+        }
 
 ## Zoom and Fullscreen Controls
 
