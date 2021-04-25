@@ -17,14 +17,6 @@ printui-page-range-custom = Personalizado
 printui-page-range-label = Páginas
 printui-page-range-picker =
     .aria-label = Seleccionar rango de páginas
-printui-page-custom-range =
-    .aria-label = Ingresar rango de página personalizado
-# This label is displayed before the first input field indicating
-# the start of the range to print.
-printui-range-start = De
-# This label is displayed between the input fields indicating
-# the start and end page of the range to print.
-printui-range-end = para
 printui-page-custom-range-input =
     .aria-label = Ingresa un rango de páginas personalizado
     .placeholder = Por ej. 2-6, 9, 12-16
@@ -46,7 +38,7 @@ printui-scale-fit-to-page-width = Ajustar al ancho de página
 printui-scale-pcent = Escala
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Impresión a doble cara
-printui-duplex-checkbox = Imprimir en ambos lados
+printui-two-sided-printing-off = Desactivado
 # Section title for miscellaneous print options
 printui-options = Opciones
 printui-headers-footers-checkbox = Imprimir encabezados y pies de página
@@ -59,7 +51,6 @@ printui-margins = Márgenes
 printui-margins-default = Predeterminado
 printui-margins-min = Mínimo
 printui-margins-none = Ninguno
-printui-margins-custom = Personalizado
 printui-margins-custom-inches = Personalizado (pulgadas)
 printui-margins-custom-top = Superior
 printui-margins-custom-top-inches = Superior (pulgadas)
@@ -83,6 +74,7 @@ printui-pages-per-sheet = Páginas por hoja
 # This is shown next to the Print button with an indefinite loading spinner
 # when the user prints a page and it is being sent to the printer.
 printui-print-progress-indicator = Imprimiendo…
+printui-print-progress-indicator-saving = Guardando…
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
@@ -104,6 +96,7 @@ printui-paper-tabloid = Tabloide
 
 printui-error-invalid-scale = La escala debe ser un número entre 10 y 200.
 printui-error-invalid-margin = Por favor, introduce un margen válido para el tamaño de papel seleccionado.
+printui-error-invalid-copies = Las copias deben ser un número entre 1 y 10000.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = El rango debe ser un número entre 1 y { $numPages }.
