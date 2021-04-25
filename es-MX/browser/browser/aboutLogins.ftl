@@ -18,6 +18,7 @@ login-filter =
 create-login-button = Crear nuevo inicio de sesión
 fxaccounts-sign-in-text = Obtén tus contraseñas para tus otros dispositivos
 fxaccounts-sign-in-button = Inicia sesión en { -sync-brand-short-name }
+fxaccounts-sign-in-sync-button = Inicia sesión para sincronizar
 fxaccounts-avatar-button =
     .title = Administrar cuenta
 
@@ -70,11 +71,13 @@ about-logins-list-item-vulnerable-password-icon =
 
 login-intro-heading = ¿Buscas tus inicios de sesión guardados? Configura { -sync-brand-short-name }.
 about-logins-login-intro-heading-logged-out = ¿Buscas tus contraseñas guardadas? Configura { -sync-brand-short-name } o impórtalas.
+about-logins-login-intro-heading-logged-out2 = ¿Buscas tus inicios de sesión guardados? Activa la sincronización o impórtalos.
 about-logins-login-intro-heading-logged-in = No se encontraron inicios de sesión sincronizados.
 login-intro-description = Si salvaste tus inicios de sesión en { -brand-product-name } en un dispositivo diferente, aquí se muestra como obtenerlas para aquí también:
 login-intro-instruction-fxa = Crea o inicia sesión en tu { -fxaccount-brand-name } en el dispositivo donde tus inicios de sesión están guardados
 login-intro-instruction-fxa-settings = Asegúrate que has seleccionado la casilla de inicios de sesión en los ajustes de { -sync-brand-short-name }
 about-logins-intro-instruction-help = Consulta <a data-l10n-name="help-link">ayuda de { -lockwise-brand-short-name }</a> para obtener más ayuda
+login-intro-instructions-fxa = Crea o inicia sesión en tu { -fxaccount-brand-name(capitalization: "sentence") } en el dispositivo donde se guardan tus inicios de sesión.
 about-logins-intro-import = Si tus inicios de sesión están guardados en otro navegador, puedes <a data-l10n-name="import-link">importarlos a { -lockwise-brand-short-name }</a>
 about-logins-intro-import2 = Si tus credenciales se guardan fuera de { -brand-product-name }, puedes <a data-l10n-name="import-browser-link">importarlas desde otro navegador</a> o <a data-l10n-name="import-file-link">desde un archivo</a>
 
@@ -296,3 +299,16 @@ about-logins-import-dialog-items-error =
        *[other] <span>Errores:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(no importados)</span>
     }
 about-logins-import-dialog-done = Hecho
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+
+## Logins import report page
+
