@@ -78,6 +78,22 @@ login-item-new-login-title = Создадете ново најавување
 login-item-edit-button = Уредување
 about-logins-login-item-remove-button = Отстрани
 login-item-origin-label = Веб-сајт адреса
+login-item-tooltip-message = Осигурете се дека ова одговара на точната адреса на веб-страницата каде што се најавувате.
+login-item-origin =
+    .placeholder = https://www.example.com
+login-item-username-label = Корисничко име
+about-logins-login-item-username =
+    .placeholder = (без корисничко име)
+login-item-copy-username-button-text = Копирај
+login-item-copied-username-button-text = Ископирана!
+login-item-password-label = Лозинка
+login-item-password-reveal-checkbox =
+    .aria-label = Прикажи лозинка
+login-item-copy-password-button-text = Копирај
+login-item-copied-password-button-text = Ископирана!
+login-item-save-changes-button = Зачувај промени
+login-item-save-new-button = Сними
+login-item-cancel-button = Откажи
 
 ## OS Authentication dialog
 
@@ -86,18 +102,28 @@ login-item-origin-label = Веб-сајт адреса
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
+# This message can be seen when attempting to reveal a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-reveal-password-os-auth-dialog-message-macosx = откријте ја зачуваната лозинка
 
 ## Master Password notification
 
 
 ## Primary Password notification
 
+master-password-reload-button =
+    .label = Најавете се
+    .accesskey = Н
 
 ## Password Sync notification
 
 
 ## Dialogs
 
+confirmation-dialog-cancel-button = Откажи
+confirmation-dialog-dismiss-button =
+    .title = Откажи
+about-logins-confirm-remove-dialog-confirm-button = Отстрани
 
 ## Breach Alert notification
 
