@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+tab-context-new-tab =
+    .label = แท็บใหม่
+    .accesskey = w
 reload-tab =
     .label = โหลดแท็บใหม่
     .accesskey = ห
@@ -66,15 +69,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = ปิดหลายแท็บ
     .accesskey = ล
-tab-context-share-url =
-    .label = แบ่งปัน
-    .accesskey = h
-tab-context-share-more =
-    .label = เพิ่มเติม…
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->
@@ -94,6 +88,15 @@ move-tabs =
 move-tab =
     .label = ย้ายแท็บ
     .accesskey = บ
+tab-context-share-url =
+    .label = แบ่งปัน
+    .accesskey = h
+tab-context-share-more =
+    .label = เพิ่มเติม…
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
