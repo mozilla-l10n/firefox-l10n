@@ -42,7 +42,7 @@
 <!ENTITY cmd.restoreFromFile.accesskey  "Ε">
 
 <!ENTITY cmd.deleteDomainData.label     "Διαγραφή δεδομένων ιστοσελίδας">
-<!ENTITY cmd.deleteDomainData.accesskey "Χ">
+<!ENTITY cmd.deleteDomainData.accesskey "Δ">
 
 <!ENTITY cmd.open.label                  "Άνοιγμα">
 <!ENTITY cmd.open.accesskey              "Ά">
