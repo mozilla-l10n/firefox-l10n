@@ -77,7 +77,7 @@ login-intro-description = Si salvaste tus inicios de sesión en { -brand-product
 login-intro-instruction-fxa = Crea o inicia sesión en tu { -fxaccount-brand-name } en el dispositivo donde tus inicios de sesión están guardados
 login-intro-instruction-fxa-settings = Asegúrate que has seleccionado la casilla de inicios de sesión en los ajustes de { -sync-brand-short-name }
 about-logins-intro-instruction-help = Consulta <a data-l10n-name="help-link">ayuda de { -lockwise-brand-short-name }</a> para obtener más ayuda
-login-intro-instructions-fxa = Crea o inicia sesión en tu { -fxaccount-brand-name(capitalization: "sentence") } en el dispositivo donde se guardan tus inicios de sesión.
+login-intro-instructions-fxa = Crea o inicia sesión en tu { -fxaccount-brand-name } en el dispositivo donde se guardan tus inicios de sesión.
 about-logins-intro-import = Si tus inicios de sesión están guardados en otro navegador, puedes <a data-l10n-name="import-link">importarlos a { -lockwise-brand-short-name }</a>
 about-logins-intro-import2 = Si tus credenciales se guardan fuera de { -brand-product-name }, puedes <a data-l10n-name="import-browser-link">importarlas desde otro navegador</a> o <a data-l10n-name="import-file-link">desde un archivo</a>
 

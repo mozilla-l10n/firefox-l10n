@@ -15,6 +15,10 @@ appmenuitem-new-window =
     .label = Nueva ventana
 appmenuitem-new-private-window =
     .label = Nueva ventana privada
+appmenuitem-more-tools =
+    .label = Más herramientas
+appmenuitem-exit =
+    .label = Salir
 
 ## Zoom and Fullscreen Controls
 
