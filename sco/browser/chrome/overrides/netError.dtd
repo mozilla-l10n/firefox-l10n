@@ -128,11 +128,11 @@ Somewey or anither <p>&brandShortName; cannae load this page.</p>
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara2 "&brandShortName; detectit a potential siccarness threat and didnae gang on tae <span class='hostname'/>. Gin ye gang ontae this site, ondingers could ettle at stealin information like yer passwirds, emails, or credit caird parteeculars.">
+<!ENTITY certerror.introPara2 "&brandShortName; detectit a potential siccarness threat and didnae gang on tae <span class='hostname'/>. Gin ye gang ontae this site, ondingers could ettle at pauchlin information like yer passwirds, emails, or credit caird parteeculars.">
 <!ENTITY certerror.sts.introPara "&brandShortName; detectit a potential siccarness threat and didnae gang on tae <span class='hostname'/> acause this wabsite requires a siccar connection.">
 
 <!ENTITY certerror.expiredCert.introPara "&brandShortName; detectit an issue and didnae gang on tae <span class='hostname'/>. The wabsite is either wrangly configurit or yer computer clock is set tae the wrang time.">
-<!ENTITY certerror.expiredCert.secondPara2 "It’s likely that the wabsite’s certificate has gaed oot o date, which staps &brandShortName; fae connectin siccarly. Gin ye gang ontae this site, ondingers could ettle at stealin information like yer passwirds, emails, or credit caird parteeculars.">
+<!ENTITY certerror.expiredCert.secondPara2 "It’s likely that the wabsite’s certificate has gaed oot o date, which staps &brandShortName; fae connectin siccarly. Gin ye gang ontae this site, ondingers could ettle at pauchlin information like yer passwirds, emails, or credit caird parteeculars.">
 <!ENTITY certerror.expiredCert.sts.secondPara "It’s likely the wabsite’s certificate has gaed oot o date, which staps &brandShortName; fae connectin siccarly.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Whit can ye dae aboot it?">
