@@ -56,14 +56,47 @@ protections-panel-not-found-label = Nane Airtit Oot
 
 ##
 
+protections-panel-settings-label = Bieldin Settins
+# This should match the "appmenuitem-protection-dashboard-title" string in browser/appmenu.ftl.
+protections-panel-protectionsdashboard-label = Bieldins Dashbuird
 
 ## In the Site Not Working? view, we suggest turning off protections if
 ## the user is experiencing issues with any of a variety of functionality.
 
+# The header of the list
+protections-panel-site-not-working-view-header = Turn aff bieldins gin ye're haein problems wi:
+# The list items, shown in a <ul>
+protections-panel-site-not-working-view-issue-list-login-fields = Login fields
+protections-panel-site-not-working-view-issue-list-forms = Forms
+protections-panel-site-not-working-view-issue-list-payments = Peyments
+protections-panel-site-not-working-view-issue-list-comments = Comments
+protections-panel-site-not-working-view-issue-list-videos = Videos
+protections-panel-site-not-working-view-send-report = Send a report
 
 ##
 
+protections-panel-cross-site-tracking-cookies = These cookies follae ye fae site tae site tae gaither data aboot whit ye dae online. They're set by third pairties sic as advertisers and analytics companies.
+protections-panel-cryptominers = Cryptohowkers yaiser yer seestem's computin pouer fur tae howk oot digital siller. Cryptohowkin scripts rin doon yer battery, slow doon yer computer, and can rin up yer energy bill.
+protections-panel-fingerprinters = Fingirprenters gaither settins fae yer stravaiger and computer fur tae mak a profile o ye. Yaisin thon digital fingirprent, they can track ye across ither wabsites.
+protections-panel-tracking-content = Wabsites micht load ootside ads, videos, and ither content wi trackin code. Blockin trackin content can help sites load faster, but some buttons, forms, and login fields micht no wirk.
+protections-panel-social-media-trackers = Social networks pit trackers on ither websites fur tae follae whit ye dae, see, and watch online. This alloos social media companies tae lairn mair aboot ye forby jist whit ye share on yer social media profiles.
+protections-panel-description-shim-allowed = Some trackers merkt ablow hae been unblockit in pairt on this page acause ye interactit wi them.
 protections-panel-description-shim-allowed-learn-more = Lairn mair
+protections-panel-shim-allowed-indicator =
+    .tooltiptext = Tracker unblockit in pairt
+protections-panel-content-blocking-manage-settings =
+    .label = Manage Bieldin Settins
+    .accesskey = M
+protections-panel-content-blocking-breakage-report-view =
+    .title = Report a Braken Site
+protections-panel-content-blocking-breakage-report-view-description = Blockin certain trackers can cause problems wi some wabsites. Reportin thon problems helps mak { -brand-short-name } better for awbodie. Sendin this report will send a URL and information aboot yer stravaiger settins tae Mozilla. <label data-l10n-name="learn-more">Lairn mair</label>
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
+protections-panel-content-blocking-breakage-report-view-collection-comments = If ye want tae: Describe the problem
+protections-panel-content-blocking-breakage-report-view-collection-comments-label =
+    .aria-label = If ye want tae: Describe the problem
+protections-panel-content-blocking-breakage-report-view-cancel =
+    .label = Stap
+protections-panel-content-blocking-breakage-report-view-send-report =
+    .label = Send Report
