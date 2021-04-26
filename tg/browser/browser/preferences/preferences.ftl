@@ -220,6 +220,7 @@ download-always-ask-where =
     .label = Ҳамеша аз шумо пурсида мешавад, ки файлҳо дар куҷо нигоҳ дошта мешаванд
     .accesskey = Ҳ
 applications-header = Барномаҳо
+applications-description = Интихоб кунед, ки чӣ тавр браузери { -brand-short-name } файлҳоеро, ки шумо аз сомонаҳо боргирӣ мекунед коркард менамояд ё барномаҳоеро, ки шумо ҳангоми тамошокунӣ истифода мебаред ба кор медарорад.
 applications-filter =
     .placeholder = Ҷустуҷӯи навъи файлҳо ё барномаҳо
 applications-type-column =
