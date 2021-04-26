@@ -36,7 +36,7 @@ onboarding-welcome-form-header = 여기서 시작
 onboarding-join-form-body = 시작하려면 이메일 주소를 입력하세요.
 onboarding-join-form-email =
     .placeholder = 이메일 입력
-onboarding-join-form-email-error = 유효한 이메일이 필요합니다
+onboarding-join-form-email-error = 유효한 이메일이 필요함
 onboarding-join-form-legal = 계속 진행하면 <a data-l10n-name="terms">서비스 약관</a> 및 <a data-l10n-name="privacy">개인정보처리방침</a>에 동의하게 됩니다.
 onboarding-join-form-continue = 계속
 # This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
@@ -66,7 +66,7 @@ onboarding-sync-form-skip-login-button = 단계 건너뛰기
 
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
-onboarding-sync-form-header = 이메일을 입력
+onboarding-sync-form-header = 이메일 입력
 onboarding-sync-form-sub-header = 해서 { -sync-brand-name } 사용
 
 ## These are individual benefit messages shown with an image, title and
