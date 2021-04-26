@@ -11,3 +11,6 @@ account-reconnect-to-fxa = Verbinding account verbroken
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-disconnected = Uw verbinding is verbroken
+# Used as the FxA toolbar menu item title when the user
+# needs to reconnect their account.
+account-disconnected2 = Verbinding met account verbonden
