@@ -67,7 +67,7 @@ permissions-invalid-uri-label = Gonnae inpit a suithfest hostnemme
 ## Exceptions - Tracking Protection
 
 permissions-exceptions-etp-window =
-    .title = Exceptions fur Enhanced Trackin Bieldin
+    .title = Exceptions fur Augmentit Trackin Bieldin
     .style = { permissions-window.style }
 permissions-exceptions-etp-desc = Ye've turnt aff bieldins fur these wabsites.
 

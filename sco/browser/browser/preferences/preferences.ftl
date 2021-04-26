@@ -940,12 +940,62 @@ sitedata-block-desc = Type blockit
     .accesskey = T
 sitedata-option-block-cross-site-trackers =
     .label = Cross-site trackers
+sitedata-option-block-cross-site-and-social-media-trackers =
+    .label = Cross-site and social media trackers
+sitedata-option-block-cross-site-tracking-cookies-including-social-media =
+    .label = Cross-site tracking cookies — includes social media cookies
+sitedata-option-block-cross-site-cookies-including-social-media =
+    .label = Cross-site cookies — includes social media cookies
+sitedata-option-block-cross-site-and-social-media-trackers-plus-isolate =
+    .label = Cross-site and social media trackers, and isolate onie ither cookies
+sitedata-option-block-unvisited =
+    .label = Cookies fae wabsites ye hivnae veesitit
+sitedata-option-block-all-third-party =
+    .label = Aw third-piarty cookies (micht gar wabsites tae brek)
+sitedata-option-block-all =
+    .label = Aw cookies (will gar wabsites tae brek)
+sitedata-clear =
+    .label = Dicht Data…
+    .accesskey = l
+sitedata-settings =
+    .label = Manage Data…
+    .accesskey = M
+sitedata-cookies-permissions =
+    .label = Manage Permeesions…
+    .accesskey = P
+sitedata-cookies-exceptions =
+    .label = Manage Exceptions…
+    .accesskey = x
 
 ## Privacy Section - Address Bar
 
+addressbar-header = Address Baur
+addressbar-suggest = When yaisin the address baur, suggest
+addressbar-locbar-history-option =
+    .label = Stravaigin historie
+    .accesskey = h
+addressbar-locbar-bookmarks-option =
+    .label = Buikmerks
+    .accesskey = k
+addressbar-locbar-openpage-option =
+    .label = Open tabs
+    .accesskey = O
+# Shortcuts refers to the shortcut tiles on the new tab page, previously known as top sites. Translation should be consistent.
+addressbar-locbar-shortcuts-option =
+    .label = Shortcuts
+    .accesskey = S
+addressbar-locbar-topsites-option =
+    .label = Tap sites
+    .accesskey = T
+addressbar-locbar-engines-option =
+    .label = Airt-oot engines
+    .accesskey = A
+addressbar-suggestions-settings = Chynge preferences fur airt-oot engine suggestions
 
 ## Privacy Section - Content Blocking
 
+content-blocking-enhanced-tracking-protection = Augmentit Trackin Bieldin
+content-blocking-section-top-level-description = Trackers follae ye aroond online fur tae gaither informations aboot yer stravaigin pratticks and interests. { -brand-short-name } blocks a guid wheen o these trackers and ither uncannie scripts.
 content-blocking-learn-more = Lairn mair
 
 ## These strings are used to define the different levels of
