@@ -130,6 +130,40 @@ info-exposed-passwords-found =
         [one] Passwird exposed across aw breaches
        *[other] Passwirds exposed across aw breaches
     }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-exposed-passwords-resolved =
+    { $count ->
+        [one] Passwird exposed in breaches that hivnae been sortit yet
+       *[other] Passwirds exposed in breaches that hivnae been sortit yet
+    }
+monitor-no-breaches-title = Stoatin news!
+monitor-no-breaches-description = Ye hivnae onie kent breaches. Gin thon chynges, we'll lat ye ken.
+monitor-view-report-link = View Report
+    .title = Sort breaches on { -monitor-brand-short-name }
+monitor-breaches-unresolved-title = Sort yer breaches
+monitor-breaches-unresolved-description = Efter checkin oot breach details and takkin steps fur tae bield yer info, ye can merk breaches as sortit.
+monitor-manage-breaches-link = Manage Breaches
+    .title = Manage breaches on { -monitor-brand-short-name }
+monitor-breaches-resolved-title = Yaldy! Ye've sortit aw kent breaches.
+monitor-breaches-resolved-description = Gin yer email kythes itsel in onie new breaches, we'll let ye ken.
+# Variables:
+# $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
+# $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
+monitor-partial-breaches-title =
+    { $numBreaches ->
+       *[other] { $numBreachesResolved } oot o { $numBreaches } breaches merkt as sortit
+    }
+# Variables:
+# $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
+monitor-partial-breaches-percentage = { $percentageResolved }% duin
+monitor-partial-breaches-motivation-title-start = Smashin stert!
+monitor-partial-breaches-motivation-title-middle = Gaun yersel!
+monitor-partial-breaches-motivation-title-end = Jist aboot feenisht! Gaun yersel!
+monitor-partial-breaches-motivation-description = Sort the lave o yer breaches on { -monitor-brand-short-name }.
+monitor-resolve-breaches-link = Sort Breaches
+    .title = Sort breaches on { -monitor-brand-short-name }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
@@ -138,3 +172,10 @@ info-exposed-passwords-found =
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-social =
+    .title = Social Media Trackers
+    .aria-label =
+        { $count ->
+            [one] { $count } social media tracker ({ $percentage }%)
+           *[other] { $count } social media trackers ({ $percentage }%)
+        }

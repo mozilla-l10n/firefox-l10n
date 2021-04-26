@@ -58,6 +58,11 @@ this container is a toolbar. This avoids double-speaking. -->
      followed by the user's email. -->
 <!ENTITY fxa.menu.signin.label "Sign in tae &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Turn on &syncBrand.shortName.label;">
+<!ENTITY fxa.menu.firefoxServices.label "&brandProductName; Services">
+<!ENTITY fxa.menu.account.label "Accoont">
+<!ENTITY fxa.menu.settings.label "Settins">
+<!ENTITY fxa.menu.accountSettings.label "Accoont settins">
+<!ENTITY fxa.menu.manageAccount2.label "Manage Accoont">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
