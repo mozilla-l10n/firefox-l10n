@@ -41,15 +41,22 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY personalbar.accessibleLabel "Buikmerks">
 <!ENTITY bookmarksToolbarItem.label "Buikmerks Toolbaur Items">
 
+<!ENTITY fullScreenCmd.label "Hale Screen">
 
+<!ENTITY pictureInPictureHideToggle.label "Hide Pictur-in-Pictur Toggle">
+<!ENTITY pictureInPictureHideToggle.accesskey "H">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
+<!ENTITY fxa.menu.syncSettings2.label "&syncBrand.shortName.label; Settins">
+<!ENTITY fxa.menu.connectAnotherDevice2.label "Connect Anither Device…">
+<!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
+<!ENTITY fxa.menu.signin.label "Sign in tae &brandProductName;">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
