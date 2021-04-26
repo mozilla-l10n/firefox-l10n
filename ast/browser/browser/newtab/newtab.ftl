@@ -14,6 +14,7 @@ newtab-personalize-button-label = Personalizar
 
 ## Search box component.
 
+newtab-search-box-text = Buscar na web
 
 ## Top Sites - General form dialog.
 
