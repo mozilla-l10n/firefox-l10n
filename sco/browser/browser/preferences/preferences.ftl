@@ -1049,22 +1049,98 @@ content-blocking-option-private =
     .label = Anely in Preevat Windaes
     .accesskey = p
 content-blocking-tracking-protection-change-block-list = Chynge block list
+content-blocking-cookies-label =
+    .label = Cookies
+    .accesskey = C
 content-blocking-expand-section =
     .tooltiptext = Mair information
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = Cryptohowkers
+    .accesskey = y
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = Fingirprenters
+    .accesskey = F
 
 ## Privacy Section - Tracking
 
+tracking-manage-exceptions =
+    .label = Manage Exceptions…
+    .accesskey = x
 
 ## Privacy Section - Permissions
 
+permissions-header = Permeesions
+permissions-location = Airtin
+permissions-location-settings =
+    .label = Settins…
+    .accesskey = t
+permissions-xr = Virtual Reality
+permissions-xr-settings =
+    .label = Settins…
+    .accesskey = t
+permissions-camera = Camera
+permissions-camera-settings =
+    .label = Settins…
+    .accesskey = t
+permissions-microphone = Microphone
+permissions-microphone-settings =
+    .label = Settins…
+    .accesskey = t
+permissions-notification = Notifications
+permissions-notification-settings =
+    .label = Settins…
+    .accesskey = t
 permissions-notification-link = Lairn mair
+permissions-notification-pause =
+    .label = Pit notifications on haud the noo until { -brand-short-name } resterts
+    .accesskey = n
+permissions-autoplay = Autopley
+permissions-autoplay-settings =
+    .label = Settins…
+    .accesskey = t
+permissions-block-popups =
+    .label = Block lowp-up windaes
+    .accesskey = B
+permissions-block-popups-exceptions =
+    .label = Exceptions…
+    .accesskey = E
+permissions-addon-install-warning =
+    .label = Warn ye when wabsites ettle tae instaw eik-ons
+    .accesskey = W
+permissions-addon-exceptions =
+    .label = Exceptions…
+    .accesskey = E
+permissions-a11y-privacy-checkbox =
+    .label = Stap accessibility services fae haein ingang tae yer stravaiger
+    .accesskey = a
 permissions-a11y-privacy-link = Lairn mair
 
 ## Privacy Section - Data Collection
 
+collection-header = { -brand-short-name } Data Collection and Yaise
+collection-description = We ettle tae gie ye chyces and tae gaither anely whit we need tae provide and tae forder { -brand-short-name } for awbodie. We ayeweys speir for permeesion afore gettin personal information.
+collection-privacy-notice = Preevacy Notice
+collection-health-report-telemetry-disabled = Ye're nae langer lattin { -vendor-short-name } captur technical and interaction data. Aw bygane data will be dichtit within 30 days.
 collection-health-report-telemetry-disabled-link = Lairn mair
+collection-health-report =
+    .label = Allow { -brand-short-name } tae send technical and interaction data tae { -vendor-short-name }
+    .accesskey = r
 collection-health-report-link = Lairn mair
+collection-studies =
+    .label = Alloo { -brand-short-name } tae instaw and rin studies
+collection-studies-link = View { -brand-short-name } studies
+addon-recommendations =
+    .label = Alloo { -brand-short-name } tae mak personalised extension recommendations
 addon-recommendations-link = Lairn mair
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Data reportin is disabled fur this build confeeguration
+collection-backlogged-crash-reports =
+    .label = Alloo { -brand-short-name } tae send backlogged crash reports on yer behauf
+    .accesskey = c
 collection-backlogged-crash-reports-link = Lairn mair
 
 ## Privacy Section - Security
@@ -1072,13 +1148,61 @@ collection-backlogged-crash-reports-link = Lairn mair
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = Siccarness
+security-browsing-protection = Begowkin Content and Uncannie Saftware Bieldin
+security-enable-safe-browsing =
+    .label = Block uncannie and begowkin content
+    .accesskey = B
 security-enable-safe-browsing-link = Lairn mair
+security-block-downloads =
+    .label = Block uncannie doonloads
+    .accesskey = d
+security-block-uncommon-software =
+    .label = Warn ye aboot unwantit and by-ordinar saftware
+    .accesskey = y
 
 ## Privacy Section - Certificates
 
+certs-header = Certificates
+certs-personal-label = When a server speirs efter yer personal certificate
+certs-select-auto-option =
+    .label = Wale ane automatically
+    .accesskey = W
+certs-select-ask-option =
+    .label = Speir ye ilka time
+    .accesskey = S
+certs-enable-ocsp =
+    .label = Speir at OCSP responder servers tae mak siccar o the validity o certificates the noo
+    .accesskey = Q
+certs-view =
+    .label = View Certificates…
+    .accesskey = C
+certs-devices =
+    .label = Siccarness Devices…
+    .accesskey = D
 space-alert-learn-more-button =
     .label = Lairn Mair
     .accesskey = L
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Open Options
+           *[other] Open Preferences
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] O
+        }
+space-alert-over-5gb-message =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } is rinnin oot o disk space. Wabsite contents micht no kythe richt. Ye can dicht stored data in Options > Preevacy & Siccarness > Cookies and Site Data.
+       *[other] { -brand-short-name } is rinnin oot o disk space. Wabsite contents micht no kythe richt. Ye can dicht stored data in Preferences > Preevacy & Siccarness > Cookies and Site Data.
+    }
+space-alert-under-5gb-ok-button =
+    .label = Awricht, Got ye
+    .accesskey = K
+space-alert-under-5gb-message = { -brand-short-name } is rinnin oot o disk space. Wabsite contents mich no kythe richt. Gang tae “Lairn Mair” to mak the maist o yer disk yaise fur a better stravaigin experience.
 
 ## Privacy Section - HTTPS-Only
 
