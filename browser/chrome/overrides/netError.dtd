@@ -153,7 +153,7 @@ was trying to connect. -->
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "如果您并不熟悉 <span class='mitm-name'/>，这可能是一起攻击，您不应该继续访问该网站。">
 <!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "如果您并不熟悉 <span class='mitm-name'/>，这可能是一起攻击，无法通过您的操作来访问此网站。">
 
-<!ENTITY clockSkewError.longDesc "您电脑上的时间是 <span id='wrongSystemTime_systemDate1'/>，&brandShortName; 无法在这个设定的时间下进行安全连接。要访问 <span class='hostname'></span>，请在您的系统设置中确认当前的日期、时间、时区设置是否正确，然后重新载入 <span class='hostname'></span>。">
+<!ENTITY clockSkewError.longDesc "您计算机上的时间是 <span id='wrongSystemTime_systemDate1'/>，&brandShortName; 无法在这个设定的时间下进行安全连接。要访问 <span class='hostname'></span>，请在您的系统设置中确认当前的日期、时间、时区设置是否正确，然后重新载入 <span class='hostname'></span>。">
 
 <!ENTITY prefReset.longDesc "看来可能是您的网络安全设置造成了此问题。您想还原到默认设置吗？">
 <!ENTITY prefReset.label "恢复默认设置">
