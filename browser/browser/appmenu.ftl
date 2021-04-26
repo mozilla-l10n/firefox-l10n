@@ -5,13 +5,17 @@
 
 ## App Menu
 
-appmenuitem-update-banner =
-    .label-update-downloading = Telecargament de la mesa a jorn de { -brand-shorter-name }
 appmenuitem-update-banner2 =
     .label-update-downloading = Telecargament de la mesa a jorn de { -brand-shorter-name }
     .label-update-available = Mesa a jorn disponibla — la telecargar ara
     .label-update-manual = Mesa a jorn disponibla — la telecargar ara
     .label-update-unsupported = Mesa a jorn impossibla
+    .label-update-restart = Mesa a jorn disponibla — reaviar ara
+appmenuitem-update-banner3 =
+    .label-update-downloading = Telecargament mesa a jorn de { -brand-shorter-name }
+    .label-update-available = Mesa a jorn disponibla — telecargar ara
+    .label-update-manual = Mesa a jorn disponibla — telecargar ara
+    .label-update-unsupported = Mesa a jorn impossibla — sistèma incompatible
     .label-update-restart = Mesa a jorn disponibla — reaviar ara
 appmenuitem-protection-dashboard-title = Taula de bòrd de las proteccions
 appmenuitem-customize-mode =
@@ -25,8 +29,6 @@ appmenuitem-new-private-window =
     .label = Novèla fenèstra de navegacion privada
 appmenuitem-passwords =
     .label = Senhals
-appmenuitem-extensions-and-themes =
-    .label = Extensions e tèmas
 appmenuitem-addons-and-themes =
     .label = Moduls complementaris e tèmas
 appmenuitem-find-in-page =
@@ -162,11 +164,6 @@ appmenu-about =
 appmenu-get-help =
     .label = Obténer d’ajuda
     .accesskey = O
-appmenu-help-troubleshooting-info =
-    .label = Informacions de depanatge
-    .accesskey = d
-appmenu-help-taskmanager =
-    .label = Gestionari de tascas
 appmenu-help-more-troubleshooting-info =
     .label = Mai d’informacions de reparacion
     .accesskey = M
@@ -175,16 +172,6 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = Balhar vòstre vejaire…
     .accesskey = B
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Reaviar amb los moduls desactivats…
-    .accesskey = R
-appmenu-help-safe-mode-with-addons =
-    .label = Reaviar, moduls activats…
-    .accesskey = R
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
