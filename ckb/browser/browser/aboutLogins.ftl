@@ -18,6 +18,7 @@ login-filter =
 create-login-button = چوونەژوورەوە دروست بکە
 fxaccounts-sign-in-text = وشەی تێپەڕەکەت لە ئامێرەکانی ترەوە بەدەستبهێنە
 fxaccounts-sign-in-button = بچۆ ژوورەوە بۆ { -sync-brand-short-name }
+fxaccounts-sign-in-sync-button = بۆ هاوکاتکردن بچۆژوورەوە
 fxaccounts-avatar-button =
     .title = ڕێکخستنی هەژمار
 
@@ -70,6 +71,7 @@ about-logins-list-item-vulnerable-password-icon =
 
 login-intro-heading = دەگەڕێیت بۆ چوونەژوورە پاشەکەوت کراوەکانت؟ { -sync-brand-short-name } ڕێک بخە.
 about-logins-login-intro-heading-logged-out = بۆ چوونەژوورە پاشەکەوت کراوەکانت دەگەڕێیت؟ { -sync-brand-short-name } ڕێک بخە یان بیانهێنە.
+about-logins-login-intro-heading-logged-out2 = بۆ چوونەژوورەوە پاشەکەوتکراوەکانت دەگەڕێی؟ هاوکاتکردن هەڵکە یان هاوردەیان بکە
 about-logins-login-intro-heading-logged-in = هیچ چوونەژوورەوەک هاوکەتگەری نەکراوە.
 login-intro-description = ئەگەر چوونەژوورەوەکانی پاشەکەوت کردووە لە { -brand-product-name } لە ئامێرێکی تر، ئەوە لێرەوە بزانە چۆن بەدەستیان دێنیتەوە:
 login-intro-instruction-fxa = هەژمار درووست بکە یا بچۆژوورەوە بۆ { -fxaccount-brand-name } لەو ئامێرەی کە چوونەژوورەوەکانتی تێدایە
@@ -242,3 +244,21 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] پەڕگەی CSV
        *[other] پەڕگەی CSV
     }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+
+## Logins import report page
+
