@@ -153,7 +153,7 @@ main-context-menu-open-link-new-window =
     .accesskey = f
 main-context-menu-open-link-new-private-window =
     .label = Apri link in nuova finestra anonima
-    .accesskey = A
+    .accesskey = k
 main-context-menu-bookmark-this-link =
     .label = Aggiungi link ai segnalibri…
     .accesskey = b
@@ -184,7 +184,7 @@ main-context-menu-copy-link =
     .accesskey = z
 main-context-menu-copy-link-simple =
     .label = Copia link
-    .accesskey = k
+    .accesskey = a
 
 ## Media (video/audio) controls
 ##
