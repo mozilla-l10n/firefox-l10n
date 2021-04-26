@@ -95,7 +95,7 @@ newtab-menu-unpin = I-unpin
 newtab-menu-delete-history = Burahin sa Kasaysayan
 newtab-menu-save-to-pocket = I-save sa { -pocket-brand-name }
 newtab-menu-delete-pocket = I-delete sa { -pocket-brand-name }
-newtab-menu-archive-pocket = Mag-archive sa { -pocket-brand-name }
+newtab-menu-archive-pocket = I-archive sa { -pocket-brand-name }
 newtab-menu-show-privacy-info = Ang aming mga suki at iyong privacy
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
@@ -142,7 +142,7 @@ newtab-menu-open-file = Magbukas ng File
 newtab-label-visited = Binisita
 newtab-label-bookmarked = Naka-bookmark
 newtab-label-removed-bookmark = Natanggal na ang bookmark
-newtab-label-recommended = Nagte-trend
+newtab-label-recommended = Trending
 newtab-label-saved = Nai-save na sa { -pocket-brand-name }
 newtab-label-download = Nai-download na
 # This string is used in the story cards to indicate sponsored content
