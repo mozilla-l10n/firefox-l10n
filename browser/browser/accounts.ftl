@@ -11,3 +11,6 @@ account-reconnect-to-fxa = 账户已断开连接
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-disconnected = 您已断开连接
+# Used as the FxA toolbar menu item title when the user
+# needs to reconnect their account.
+account-disconnected2 = 账户已断开连接
