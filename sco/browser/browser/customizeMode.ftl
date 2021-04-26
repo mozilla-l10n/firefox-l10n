@@ -50,4 +50,4 @@ customize-mode-lwthemes-my-themes =
 customize-mode-touchbar-cmd =
     .label = Mak Touch Baur Yer Ain…
 customize-mode-downloads-button-autohide =
-    .label = Hide button when toom
+    .label = Hide button when tuim

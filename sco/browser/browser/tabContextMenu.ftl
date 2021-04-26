@@ -45,7 +45,76 @@ pin-selected-tabs =
 unpin-selected-tabs =
     .label = Unpeen Tabs
     .accesskey = p
+bookmark-selected-tabs =
+    .label = Buikmerk Tabs…
+    .accesskey = B
+bookmark-tab =
+    .label = Buikmerk Tab
+    .accesskey = B
+reopen-in-container =
+    .label = Reopen in Conteener
+    .accesskey = e
+tab-context-open-in-new-container-tab =
+    .label = Open in New Conteener Tab
+    .accesskey = e
+move-to-start =
+    .label = Muive tae Stert
+    .accesskey = S
+move-to-end =
+    .label = Muive tae End
+    .accesskey = E
+move-to-new-window =
+    .label = Move tae New Windae
+    .accesskey = W
+tab-context-close-multiple-tabs =
+    .label = Sneck Multiple Tabs
+    .accesskey = M
+tab-context-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Undae Sneck Tab
+           *[other] Undae Sneck Tabs
+        }
+    .accesskey = U
+close-tab =
+    .label = Sneck Tab
+    .accesskey = c
+close-tabs =
+    .label = Sneck Tabs
+    .accesskey = S
+move-tabs =
+    .label = Muive Tabs
+    .accesskey = v
+move-tab =
+    .label = Muive Tab
+    .accesskey = v
+tab-context-share-url =
+    .label = Share
+    .accesskey = h
+tab-context-share-more =
+    .label = Mair…
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-context-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Reopen Sneckit Tab
+           *[other] Reopen Sneckit Tabs
+        }
+    .accesskey = o
+tab-context-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Sneck Tab
+           *[other] Sneck Tabs
+        }
+    .accesskey = C
+tab-context-move-tabs =
+    .label =
+        { $tabCount ->
+            [1] Muive Tab
+           *[other] Muive Tabs
+        }
+    .accesskey = v
