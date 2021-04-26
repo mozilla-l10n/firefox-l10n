@@ -24,6 +24,6 @@ sync-input =
     .placeholder = Email
 sync-button = Haud Forrit
 sync-terms = By haudin forrit, ye're agreein tae the <a data-l10n-name="terms">Terms o Service</a> and <a data-l10n-name="privacy">Preevacy Notice</a>.
-sync-first = Never yaised { -sync-brand-name } afore? Ye'll need tae sign in tae ilka instawment o Firefox fur tae sync yer information.
-new-install-sync-first = Never yaised sync afore? Ye'll need tae sign in tae ilka instawment o Firefox fur tae sync yer information.
+sync-first = Nivver yaised { -sync-brand-name } afore? Ye'll need tae sign in tae ilka instawment o Firefox fur tae sync yer information.
+new-install-sync-first = Nivver yaised sync afore? Ye'll need tae sign in tae ilka instawment o Firefox fur tae sync yer information.
 sync-learn = Lairn mair

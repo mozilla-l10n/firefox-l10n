@@ -121,7 +121,7 @@ newtab-privacy-modal-header = Yer preevacy maitters.
 newtab-privacy-modal-paragraph-2 =
     Forby dishin oot the maist by-ordinar stories, we can shaw ye relevant,
     tentily checked-oot content fae selectit sponsors. Dinnae fash, <strong>yer stravaigin
-    data never leaves yer ain copy o { -brand-product-name }</strong> — we dinnae see it, and oor
+    data nivver leaves yer ain copy o { -brand-product-name }</strong> — we dinnae see it, and oor
     sponsors dinnae either.
 newtab-privacy-modal-link = Lairn how preevacy wirks on the new tab
 

@@ -55,9 +55,9 @@ connection-proxy-noproxy = Nae proxy fur
     .accesskey = N
 connection-proxy-noproxy-desc = Exemple: .mozilla.org, .net.nz, 192.168.1.0/24
 # Do not translate localhost, 127.0.0.1 and ::1.
-connection-proxy-noproxy-localhost-desc = Connections tae localhost, 127.0.0.1, and ::1 are never proxied.
+connection-proxy-noproxy-localhost-desc = Connections tae localhost, 127.0.0.1, and ::1 are nivver proxied.
 # Do not translate "localhost", "127.0.0.1/8" and "::1". (You can translate "and".)
-connection-proxy-noproxy-localhost-desc-2 = Connections tae localhost, 127.0.0.1/8, and ::1 are never proxied.
+connection-proxy-noproxy-localhost-desc-2 = Connections tae localhost, 127.0.0.1/8, and ::1 are nivver proxied.
 connection-proxy-autotype =
     .label = Automatic proxy confeeguration URL
     .accesskey = A

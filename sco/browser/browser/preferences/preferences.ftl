@@ -385,7 +385,7 @@ update-application-check-choose =
     .label = Check fur updates but lat yersel decide whether tae instaw them
     .accesskey = C
 update-application-manual =
-    .label = Never check fur updates (no recommendit)
+    .label = Nivver check fur updates (no recommendit)
     .accesskey = N
 update-application-background-enabled =
     .label = When { -brand-short-name } isnae rinnin
@@ -599,6 +599,17 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Shaw airt-oot suggestions in address baur results
     .accesskey = l
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = Shaw airt-oot suggestions aheid o stravaigin historie in address baur results
+search-show-suggestions-private-windows =
+    .label = Shaw airt-oot suggestions in Preevat Windaes
+suggestions-addressbar-settings-generic = Chynge preferences for ither address baur suggestions
+suggestions-addressbar-settings-generic2 = Chynge settins for ither address baur suggestions
 
 ## Containers Section
 

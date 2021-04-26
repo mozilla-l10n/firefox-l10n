@@ -76,7 +76,7 @@ permissions-exceptions-etp-desc = Ye've turnt aff bieldins fur these wabsites.
 permissions-exceptions-cookie-window =
     .title = Exceptions - Cookies and Site Data
     .style = { permissions-window.style }
-permissions-exceptions-cookie-desc = Ye can set oot whit wabsites are ayeweys or never allooed tae yaise cookies and site data.  Type the exact address o the site ye want tae manage and then click Block, Alloo fur Session, or Alloo.
+permissions-exceptions-cookie-desc = Ye can set oot whit wabsites are ayeweys or nivver allooed tae yaise cookies and site data.  Type the exact address o the site ye want tae manage and then click Block, Alloo fur Session, or Alloo.
 
 ## Exceptions - Pop-ups
 
