@@ -183,7 +183,7 @@ switch-links-to-new-tabs =
     .label = When ye open a link in a new tab, switch ower tae it straight awa
     .accesskey = h
 show-tabs-in-taskbar =
-    .label = Shaw tab previews in the Windows taskbaur
+    .label = Kythe tab previews in the Windows taskbaur
     .accesskey = k
 browser-containers-enabled =
     .label = Enable Conteener Tabs
@@ -375,7 +375,7 @@ update-application-title = { -brand-short-name } Updates
 update-application-description = Keep { -brand-short-name } up tae date for the best performance, stieveness, and siccarness.
 update-application-version = Version { $version } <a data-l10n-name="learn-more">Whit’s new</a>
 update-history =
-    .label = Shaw Update Historie...
+    .label = Kythe Update Historie...
     .accesskey = p
 update-application-allow-description = Alloo { -brand-short-name } tae
 update-application-auto =
@@ -449,7 +449,7 @@ browsing-use-smooth-scrolling =
     .label = Yaise sleek scrollin
     .accesskey = m
 browsing-use-onscreen-keyboard =
-    .label = Shaw a touch keybuird when needit
+    .label = Kythe a touch keybuird when needit
     .accesskey = c
 browsing-use-cursor-navigation =
     .label = Ayeweys yaise the cursor keys fur tae flit aboot inwith pages
@@ -597,7 +597,7 @@ search-suggestions-option =
     .label = Gie's airt-oot suggestions
     .accesskey = s
 search-show-suggestions-url-bar-option =
-    .label = Shaw airt-oot suggestions in address baur results
+    .label = Kythe airt-oot suggestions in address baur results
     .accesskey = l
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
@@ -605,7 +605,7 @@ search-show-suggestions-url-bar-option =
 # "ahead" refers to location (appearing most proximate to), not time
 # (appearing before).
 search-show-suggestions-above-history-option =
-    .label = Shaw airt-oot suggestions aheid o stravaigin historie in address baur results
+    .label = Kythe airt-oot suggestions aheid o stravaigin historie in address baur results
 search-show-suggestions-private-windows =
     .label = Shaw airt-oot suggestions in Preevat Windaes
 suggestions-addressbar-settings-generic = Chynge preferences for ither address baur suggestions
@@ -822,7 +822,7 @@ forms-generate-passwords =
     .label = Suggest and mak strang passwirds
     .accesskey = u
 forms-breach-alerts =
-    .label = Shaw alerts aboot passwirds fur breached wabsites
+    .label = Kythe alerts aboot passwirds fur breached wabsites
     .accesskey = b
 forms-breach-alerts-learn-more-link = Lairn mair
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.

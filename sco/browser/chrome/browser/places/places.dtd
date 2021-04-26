@@ -16,7 +16,7 @@
 <!ENTITY views.label                    "Views">
 <!ENTITY views.accesskey                "V">
 <!ENTITY views.tooltip                  "Chynge yer view">
-<!ENTITY view.columns.label             "Shaw Columns">
+<!ENTITY view.columns.label             "Kythe Columns">
 <!ENTITY view.columns.accesskey         "C">
 <!ENTITY view.sort.label                "Sort">
 <!ENTITY view.sort.accesskey            "S">

@@ -245,7 +245,7 @@ main-context-menu-media-loop =
 ## because the two context-menu items are mutually exclusive.
 
 main-context-menu-media-show-controls =
-    .label = Show Controls
+    .label = Kythe Controls
     .accesskey = C
 main-context-menu-media-hide-controls =
     .label = Hide Controls

@@ -38,8 +38,8 @@
 <!ENTITY translation.translatedTo.label         "tae">
 <!ENTITY translation.translatedToSuffix.label   "">
 
-<!ENTITY translation.showOriginal.button        "Shaw Oreeginal">
-<!ENTITY translation.showTranslation.button     "Shaw Owersettin">
+<!ENTITY translation.showOriginal.button        "Kythe Oreeginal">
+<!ENTITY translation.showTranslation.button     "Kythe Owersettin">
 
 <!ENTITY translation.errorTranslating.label     "There has been a mishanter owersettin this page.">
 <!ENTITY translation.tryAgain.button            "Try Aince Mair">

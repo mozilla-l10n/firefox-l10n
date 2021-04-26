@@ -21,7 +21,7 @@ cfr-doorhanger-pintab-ok-button = Peen This Tab
     .accesskey = P
 cfr-doorhanger-extension-manage-settings-button = Manage Recommendation Settins
     .accesskey = M
-cfr-doorhanger-extension-never-show-recommendation = Dinnae Show Me This Recommendation
+cfr-doorhanger-extension-never-show-recommendation = Dinnae Shaw Me This Recommendation
     .accesskey = S
 cfr-doorhanger-extension-learn-more-link = Lairn mair
 # This string is used on a new line below the add-on name

@@ -94,9 +94,9 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY pointerlockWarning.afterDomain.label "has control o yer pynter. Press Esc fur tae tak back control.">
 <!ENTITY pointerlockWarning.generic.label "This document has control o yer pynter. Press Esc fur tae tak back control.">
 
-<!ENTITY showAllBookmarks2.label "Shaw Aw Buikmerks">
+<!ENTITY showAllBookmarks2.label "Kythe Aw Buikmerks">
 <!ENTITY recentBookmarks.label "Recently Buikmerkt">
-<!ENTITY bookmarksToolbarChevron.tooltip "Shaw mair buikmerks">
+<!ENTITY bookmarksToolbarChevron.tooltip "Kythe mair buikmerks">
 
 <!ENTITY printButton.label            "Prent">
 <!ENTITY printButton.tooltip          "Prent this page">
@@ -148,7 +148,14 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Recently Sneckit Windaes">
 
+<!ENTITY appMenuHistory.showAll.label "Kythe Aw Historie">
 
+<!ENTITY appMenuHistory.clearRecent.label "Dicht Recent Historie…">
+<!ENTITY appMenuHistory.restoreSession.label "Restore Previous Session">
+<!ENTITY appMenuHistory.viewSidebar.label "Kythe Historie Sidebaur">
+<!ENTITY appMenuHistory.hideSidebar.label "Hide Historie Sidebaur">
+<!ENTITY appMenuHistory.recentHistory.label "Recent Historie">
+<!ENTITY appMenuHelp.label "Help">
 
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath

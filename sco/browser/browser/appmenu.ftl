@@ -93,7 +93,7 @@ appmenu-fxa-sync-and-save-data2 = Sync and save data
 appmenu-fxa-signed-in-label = Sign In
 appmenu-fxa-setup-sync =
     .label = Turn On Syncin…
-appmenu-fxa-show-more-tabs = Show Mair Tabs
+appmenu-fxa-show-more-tabs = Kythe Mair Tabs
 appmenuitem-save-page =
     .label = Save Page As…
 
