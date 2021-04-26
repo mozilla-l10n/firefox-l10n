@@ -77,33 +77,76 @@ this container is a toolbar. This avoids double-speaking. -->
      sentence to their language. -->
 <!ENTITY fullscreenWarning.beforeDomain.label "">
 <!ENTITY fullscreenWarning.afterDomain.label "is noo hale screen">
+<!ENTITY fullscreenWarning.generic.label "This document is noo hale screen">
 
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
+<!ENTITY exitDOMFullscreen.button "Ootgang fae Hale Screen (Esc)">
+<!ENTITY exitDOMFullscreenMac.button "Ootgang fae Hale Screen (esc)">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring pointerlock.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
+<!ENTITY pointerlockWarning.beforeDomain.label "">
+<!ENTITY pointerlockWarning.afterDomain.label "has control o yer pynter. Press Esc fur tae tak back control.">
+<!ENTITY pointerlockWarning.generic.label "This document has control o yer pynter. Press Esc fur tae tak back control.">
 
+<!ENTITY showAllBookmarks2.label "Shaw Aw Buikmerks">
+<!ENTITY recentBookmarks.label "Recently Buikmerkt">
+<!ENTITY bookmarksToolbarChevron.tooltip "Shaw mair buikmerks">
 
+<!ENTITY printButton.label            "Prent">
+<!ENTITY printButton.tooltip          "Prent this page">
 
+<!ENTITY searchItem.title             "Sairch">
 
 <!-- Toolbar items -->
+<!ENTITY homeButton.label             "Hame">
+<!ENTITY homeButton.defaultPage.tooltip "&brandShortName; Hame Page">
 
+<!ENTITY bookmarksButton.label          "Buikmerks">
 
+<!ENTITY bookmarksSubview.label             "Buikmerks">
+<!ENTITY bookmarksMenuButton2.label         "Buikmerks Menu">
+<!ENTITY bookmarksMenuButton.other.label    "Ither Buikmerks">
+<!ENTITY bookmarksMenuButton.mobile.label   "Mobile Buikmerks">
+<!ENTITY viewBookmarksSidebar2.label        "View Buikmerks Sidebaur">
+<!ENTITY hideBookmarksSidebar.label         "Hide Buikmerks Sidebaur">
+<!ENTITY viewBookmarksToolbar.label         "View Buikmerks Toolbaur">
+<!ENTITY hideBookmarksToolbar.label         "Hide Buikmerks Toolbaur">
+<!ENTITY searchBookmarks.label              "Sairch Buikmerks">
+<!ENTITY bookmarkingTools.label             "Buikmerkin Tools">
+<!ENTITY addBookmarksMenu.label             "Eik On Buikmerks Menu tae Toolbaur">
+<!ENTITY removeBookmarksMenu.label          "Remuive Buikmerks Menu fae Toolbaur">
 
+<!ENTITY historyButton.label            "Historie">
 
+<!ENTITY downloads.label              "Doonloads">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
+<!ENTITY libraryDownloads.label       "Doonloads">
+<!ENTITY addons.label                 "Eik-ons">
 
+<!ENTITY webDeveloperMenu.label       "Wab Forderer">
 
+<!ENTITY newNavigatorCmd.label        "New Windae">
+<!ENTITY newPrivateWindow.label     "New Preevat Windae">
 
+<!ENTITY editMenu.label         "Edit">
+<!ENTITY preferencesCmd2.label       "Options">
+<!ENTITY preferencesCmdUnix.label       "Preferences">
+<!ENTITY logins.label                           "Logins and Passwirds">
 
+<!ENTITY overflowCustomizeToolbar.label       "Mak Toolbaur Yer Ain…">
+<!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
+<!ENTITY historyMenu.label "Historie">
+<!ENTITY historyUndoMenu.label "Recently Sneckit Tabs">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
+<!ENTITY historyUndoWindowMenu.label "Recently Sneckit Windaes">
 
 
 
