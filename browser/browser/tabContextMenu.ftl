@@ -113,7 +113,7 @@ tab-context-close-tabs =
             [one] Lap bezárása
            *[other] Lapok bezárása
         }
-    .accesskey = C
+    .accesskey = b
 tab-context-move-tabs =
     .label =
         { $tabCount ->
@@ -121,4 +121,4 @@ tab-context-move-tabs =
             [one] Lap áthelyezése
            *[other] Lapok áthelyezése
         }
-    .accesskey = v
+    .accesskey = h
