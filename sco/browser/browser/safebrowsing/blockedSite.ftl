@@ -27,3 +27,7 @@ safeb-blocked-unwanted-page-error-desc-no-override = <span data-l10n-name='siten
 safeb-blocked-unwanted-page-learn-more = Lairn mair aboot hairmfu and unwantit saftware at <a data-l10n-name='learn_more_link'>Unwantit Saftware Policy</a>. Lairn mair aboot { -brand-short-name }’s Phishin and Malware Bieldin at <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 safeb-blocked-harmful-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> has been <a data-l10n-name='error_desc_link'>reportit as conteenin an application that's mebbe hairmfu</a>. Ye can <a data-l10n-name='ignore_warning_link'>tak nae tent o the risk</a> and gang aheid tae this site that's no sauf.
 safeb-blocked-harmful-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> has been <a data-l10n-name='error_desc_link'>reportit as conteenin an application that's mebbe hairmfu</a>.
+safeb-blocked-harmful-page-learn-more = Lairn mair aboot { -brand-short-name }’s Phishin and Malware Bieldin at <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+safeb-palm-notdeceptive =
+    .label = This isnae a begowkin site…
+    .accesskey = d
