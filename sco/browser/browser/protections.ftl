@@ -46,6 +46,90 @@ cookie-tab-content = These cookies follae ye fae site tae site tae gaither data 
 tracker-tab-title = Trackin Content
 tracker-tab-description = Wabsites micht load ootside ads, videos, and ither content wi trackin code. Blockin trackin content can help sites load faster, but some buttons, forms, and login fields micht no wirk. <a data-l10n-name="learn-more-link">Lairn mair</a>
 fingerprinter-tab-title = Fingirprenters
+fingerprinter-tab-content = Fingirprenters gaither settins fae yer wab-stravaiger and computer fur tae mak a profile o ye. Yaisin this digital fingirprent, they can track ye across ither wabsites. <a data-l10n-name="learn-more-link">Lairn mair</a>
+cryptominer-tab-title = Cryptohowkers
+cryptominer-tab-content = Cryptohowkers yaise yer seestem's computin pouer fur tae howk oot digital siller, Cryptohowkin scripts rin doon yer battery, slow doon yer computer, and can rin up yer energy bill. <a data-l10n-name="learn-more-link">Lairn mair</a>
+protections-close-button2 =
+    .aria-label = Sneck
+    .title = Sneck
+mobile-app-title = Block ad trackers across mair devices
+mobile-app-card-content = Yaise the mobile stravaiger wi in-built bieldin against ad trackin.
+mobile-app-links = { -brand-product-name } Stravaiger fur <a data-l10n-name="android-mobile-inline-link">Android</a> and <a data-l10n-name="ios-mobile-inline-link">iOS</a>
+lockwise-title = Nivver forget a passwird again
+lockwise-title-logged-in2 = Passwird Management
+lockwise-header-content = { -lockwise-brand-name } hauds yer passwirds siccar-like in yer stravaiger.
+lockwise-header-content-logged-in = Store and sync yer passwirds siccar tae aw yer devices.
+protection-report-save-passwords-button = Save Passwirds
+    .title = Save Passwirds on { -lockwise-brand-short-name }
+protection-report-manage-passwords-button = Manage Passwirds
+    .title = Manage Passwirds on { -lockwise-brand-short-name }
+lockwise-mobile-app-title = Tak yer passwirds awwhaur
+lockwise-no-logins-card-content = Yaise passwirds saved in { -brand-short-name } on onie device.
+lockwise-app-links = { -lockwise-brand-name } fur <a data-l10n-name="lockwise-android-inline-link">Android</a> and <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
+# Variables:
+# $count (Number) - Number of passwords exposed in data breaches.
+lockwise-scanned-text-breached-logins =
+    { $count ->
+        [one] 1 passwird micht hae been exposed in a data breach.
+       *[other] { $count } passwirds micht hae been exposed in a data breach.
+    }
+# While English doesn't use the number in the plural form, you can add $count to your language
+# if needed for grammatical reasons.
+# Variables:
+# $count (Number) - Number of passwords stored in Lockwise.
+lockwise-scanned-text-no-breached-logins =
+    { $count ->
+        [one] 1 passwird stored siccar.
+       *[other] Yer passwirds are bein stored siccar.
+    }
+lockwise-how-it-works-link = How it wirks
+turn-on-sync = Turn on { -sync-brand-short-name }…
+    .title = Gang tae sync preferences
+monitor-title = Look oot fur data breaches
+monitor-link = How it wirks
+monitor-header-content-no-account = Check { -monitor-brand-name } fur tae see gin ye’ve been pairt o a kent data breach, and get alerts aboot new breaches.
+monitor-header-content-signed-in = { -monitor-brand-name } warns ye if yer info has kythed itsel in a kent data breach.
+monitor-sign-up-link = Sign Up fur Breach Alerts
+    .title = Sign up fur breach alerts on { -monitor-brand-name }
+auto-scan = Automatically scanned the day
+monitor-emails-tooltip =
+    .title = Check oot monitored email addresses on { -monitor-brand-short-name }
+monitor-breaches-tooltip =
+    .title = Check oot kent data breaches on { -monitor-brand-short-name }
+monitor-passwords-tooltip =
+    .title = Check oot exposed passwirds on { -monitor-brand-short-name }
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-monitored-emails =
+    { $count ->
+        [one] Email address gettin monitored
+       *[other] Email addresses gettin monitored
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches-found =
+    { $count ->
+        [one] Kent data breach hae exposed yer information
+       *[other] Kent data breaches hae exposed yer information
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-known-breaches-resolved =
+    { $count ->
+        [one] Kent data breach merked as sortit
+       *[other] Kent data breaches merked as sortit
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords-found =
+    { $count ->
+        [one] Passwird exposed across aw breaches
+       *[other] Passwirds exposed across aw breaches
+    }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
