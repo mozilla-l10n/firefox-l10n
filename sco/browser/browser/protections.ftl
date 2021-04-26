@@ -24,6 +24,28 @@ graph-private-window = { -brand-short-name } aye blocks trackers in Private Wind
 graph-week-summary-private-window = Trackers { -brand-short-name } blockit this week
 protection-report-webpage-title = Bieldins Dashbuird
 protection-report-page-content-title = Bieldins Dashbuird
+# This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
+protection-report-page-summary = { -brand-short-name } can bield yer preevacy ahint the scenes while ye stravaig. This is a personalised summary o thon bieldins, includin tools fur tae tak control o yer online siccarness.
+# This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
+protection-report-page-summary-default = { -brand-short-name } bields yer preevacy ahint the scenes while ye stravaig. This is a personalised summary o thon bieldins, includin tools fur tae tak control o yer online siccarness.
+protection-report-settings-link = Manage your preevacy and siccarness settins
+etp-card-title-always = Augmentit Trackin Bieldin: Ayeweys On
+etp-card-title-custom-not-blocking = Augmentit Trackin Bieldin: AFF
+etp-card-content-description = { -brand-short-name } automatically hinders companies fae sleekitly follaein ye aroond the wab.
+protection-report-etp-card-content-custom-not-blocking = Aw bieldins are turnt aff the noo. Wale whit trackers tae block by managin yer { -brand-short-name } bieldins settins.
+protection-report-manage-protections = Manage Settins
+# This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
+# capitalization for this string should match the output for your locale.
+graph-today = The day
+# This string is used to describe the graph for screenreader users.
+graph-legend-description = A graph fur tae kythe the total nummer o ilka type o tracker blockit this week.
+social-tab-title = Social Media Trackers
+social-tab-contant = Social networks pit trackers on ither wabsites fur tae follae whit ye dae, see, and watch online. This alloos social media companies tae lairn mair aboot ye forby jist whit ye share on yer social media profiles. <a data-l10n-name="learn-more-link">Lairn mair</a>
+cookie-tab-title = Cross-Site Trackin Cookies
+cookie-tab-content = These cookies follae ye fae site tae site tae gaither data aboot whit ye dae online. They're set by third pairties sic as advertisers and analytics companies. Blockin cross-site trackin cookies cuts doon the nummer o ads that follae ye aboot. <a data-l10n-name="learn-more-link">Lairn mair</a>
+tracker-tab-title = Trackin Content
+tracker-tab-description = Wabsites micht load ootside ads, videos, and ither content wi trackin code. Blockin trackin content can help sites load faster, but some buttons, forms, and login fields micht no wirk. <a data-l10n-name="learn-more-link">Lairn mair</a>
+fingerprinter-tab-title = Fingirprenters
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
