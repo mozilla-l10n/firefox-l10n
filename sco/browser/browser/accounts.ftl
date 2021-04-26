@@ -11,3 +11,6 @@ account-reconnect-to-fxa = Accoont Disconnectit
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-disconnected = Ye've been disconnectit
+# Used as the FxA toolbar menu item title when the user
+# needs to reconnect their account.
+account-disconnected2 = Accoont disconnectit
