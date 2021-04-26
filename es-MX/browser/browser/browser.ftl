@@ -372,6 +372,18 @@ browser-window-close-button =
 ## Variables:
 ##  $count (number): number of affected tabs
 
+browser-tab-mute =
+    { $count ->
+        [1] SILENCIAR PESTAÑA
+        [one] SILENCIAR { $count } PESTAÑA
+       *[other] SILENCIAR { $count } PESTAÑAS
+    }
+browser-tab-unblock =
+    { $count ->
+        [1] REPRODUCIR PESTAÑA
+        [one] REPRODUCIR { $count } PESTAÑA
+       *[other] REPRODUCIR { $count } PESTAÑAS
+    }
 
 ## Bookmarks toolbar items
 
@@ -388,6 +400,16 @@ popup-select-camera =
 popup-select-microphone =
     .value = Compartir Micrófono:
     .accesskey = M
+popup-select-camera-device =
+    .value = Cámara:
+    .accesskey = C
+popup-select-camera-icon =
+    .tooltiptext = Cámara
+popup-select-microphone-device =
+    .value = Micrófono:
+    .accesskey = M
+popup-select-microphone-icon =
+    .tooltiptext = Micrófono
 popup-all-windows-shared = Todas las ventanas visibles en tu pantalla se compartirán.
 popup-screen-sharing-not-now =
     .label = Ahora no
@@ -397,6 +419,13 @@ popup-screen-sharing-never =
     .accesskey = N
 popup-silence-notifications-checkbox = Deshabilitar notificaciones de { -brand-short-name } mientras se comparte
 popup-silence-notifications-checkbox-warning = { -brand-short-name } no mostrará notificaciones mientras se está compartiendo.
+popup-screen-sharing-block =
+    .label = Bloquear
+    .accesskey = B
+popup-screen-sharing-always-block =
+    .label = Bloquear siempre
+    .accesskey = B
+popup-mute-notifications-checkbox = Silenciar las notificaciones de sitios web mientras se comparte
 
 ## WebRTC window or screen share tab switch warning
 

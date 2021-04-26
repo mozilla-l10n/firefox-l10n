@@ -71,12 +71,18 @@ profiler-popup-capture-shortcut =
 appmenu-manage-history =
     .label = Administrar historial
 appmenu-reopen-all-tabs = Reabrir todas las pestañas
+appmenu-reopen-all-windows = Reabrir todas las ventanas
 
 ## Help panel
 
+appmenu-help-header =
+    .title = Ayuda de { -brand-shorter-name }
 appmenu-about =
     .label = Acerca de { -brand-shorter-name }
     .accesskey = A
+appmenu-get-help =
+    .label = Obtener ayuda
+    .accesskey = y
 appmenu-help-report-site-issue =
     .label = Reportar problema con el sitio…
 appmenu-help-feedback-page =
