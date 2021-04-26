@@ -11,3 +11,6 @@ account-reconnect-to-fxa = Účet je odpojený
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-disconnected = Boli ste odpojení
+# Used as the FxA toolbar menu item title when the user
+# needs to reconnect their account.
+account-disconnected2 = Účet je odpojený
