@@ -1,0 +1,19 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+
+### Strings for the upgrade dialog that can be displayed on major version change.
+
+
+## New changes screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-new-title = Say hullo tae a new { -brand-short-name }
+upgrade-dialog-new-subtitle = Shapit tae get ye whaiur ye want tae gang, faster
+upgrade-dialog-new-item-menu-title = Pared-doon toolbaur and menus
+upgrade-dialog-new-item-menu-description = Pit the important things tae the front sae ye can airt-oot whit ye need
+upgrade-dialog-new-item-tabs-title = Modern tabs
+
+## Theme selection screen
+
