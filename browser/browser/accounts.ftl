@@ -11,3 +11,6 @@ account-reconnect-to-fxa = Fiók leválasztva
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-disconnected = Szétkapcsolódott
+# Used as the FxA toolbar menu item title when the user
+# needs to reconnect their account.
+account-disconnected2 = A fiók leválasztva
