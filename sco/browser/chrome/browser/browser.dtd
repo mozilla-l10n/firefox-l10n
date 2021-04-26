@@ -21,14 +21,25 @@ can reach it easily. -->
 
 <!ENTITY  listAllTabs.label      "List aw tabs">
 
+<!ENTITY tabCmd.label "New Tab">
+<!ENTITY openFileCmd.label "Open File…">
+<!ENTITY printCmd.label "Prent…">
 
+<!ENTITY taskManagerCmd.label "Task Manager">
 
+<!ENTITY menubarCmd.label "Menu Baur">
+<!ENTITY menubarCmd.accesskey "M">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY navbar.accessibleLabel "Flittin aboot">
+<!ENTITY personalbarCmd.label "Buikmerks Toolbaur">
+<!ENTITY personalbarCmd.accesskey "B">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY personalbar.accessibleLabel "Buikmerks">
+<!ENTITY bookmarksToolbarItem.label "Buikmerks Toolbaur Items">
 
 
 
