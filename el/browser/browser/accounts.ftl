@@ -11,3 +11,6 @@ account-reconnect-to-fxa = Ο λογαριασμός αποσυνδέθηκε
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-disconnected = Έχετε αποσυνδεθεί
+# Used as the FxA toolbar menu item title when the user
+# needs to reconnect their account.
+account-disconnected2 = Ο λογαριασμός αποσυνδέθηκε
