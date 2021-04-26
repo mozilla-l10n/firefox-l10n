@@ -1202,11 +1202,31 @@ space-alert-over-5gb-message =
 space-alert-under-5gb-ok-button =
     .label = Awricht, Got ye
     .accesskey = K
-space-alert-under-5gb-message = { -brand-short-name } is rinnin oot o disk space. Wabsite contents mich no kythe richt. Gang tae “Lairn Mair” to mak the maist o yer disk yaise fur a better stravaigin experience.
+space-alert-under-5gb-message = { -brand-short-name } is rinnin oot o disk space. Wabsite contents micht no kythe richt. Gang tae “Lairn Mair” to mak the maist o yer disk yaise fur a better stravaigin experience.
+space-alert-over-5gb-settings-button =
+    .label = Open Settins
+    .accesskey = O
+space-alert-over-5gb-message2 = <strong>{ -brand-short-name } is rinnin oot o disk space.</strong> Wabsite contents micht no kythe richt. Ye can dicht stored data in Settins > Preevacy & Siccarness > Cookies and Site Data.
+space-alert-under-5gb-message2 = <strong>{ -brand-short-name } is rinnin oot o disk space.</strong> Wabsite contents micht no kythe richt. Gang tae “Lairn Mair” tae mak the maist o yer disk yaise fur a better stravaigin experience.
 
 ## Privacy Section - HTTPS-Only
 
+httpsonly-header = HTTPS-Anely Mode
+httpsonly-description = HTTPS provides a siccar, encryptit connection atween { -brand-short-name } and the wabsites you veesit. Maist websites support HTTPS, and gin HTTPS-Anely Mode is in yaise, then { -brand-short-name } will upgrade aw connections tae HTTPS.
 httpsonly-learn-more = Lairn mair
+httpsonly-radio-enabled =
+    .label = Yaise HTTPS-Anely Mode in aw windaes
+httpsonly-radio-enabled-pbm =
+    .label = Yaise HTTPS-Anely Mode in preevat windaes, jist
+httpsonly-radio-disabled =
+    .label = Dinnae yaise HTTPS-Anely Mode
 
 ## The following strings are used in the Download section of settings
 
+desktop-folder-name = Desktap
+downloads-folder-name = Doonloads
+choose-download-folder-title = Wale Doonload Folder:
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = Save files tae { $service-name }
