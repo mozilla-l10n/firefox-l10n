@@ -32,7 +32,7 @@ can reach it easily. -->
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
-<!ENTITY navbar.accessibleLabel "Flittin aboot">
+<!ENTITY navbar.accessibleLabel "Navigation">
 <!ENTITY personalbarCmd.label "Buikmerks Toolbaur">
 <!ENTITY personalbarCmd.accesskey "B">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
@@ -63,15 +63,20 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.settings.label "Settins">
 <!ENTITY fxa.menu.accountSettings.label "Accoont settins">
 <!ENTITY fxa.menu.manageAccount2.label "Manage Accoont">
+<!ENTITY fxa.menu.signOut.label "Sign Oot…">
+<!ENTITY fxa.menu.setupSync.label "Set Up &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
+<!ENTITY fxa.service.sendTab.description "Send a tab tae onie device yer signed in on richt awa.">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
+<!ENTITY fullscreenWarning.beforeDomain.label "">
+<!ENTITY fullscreenWarning.afterDomain.label "is noo hale screen">
 
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
