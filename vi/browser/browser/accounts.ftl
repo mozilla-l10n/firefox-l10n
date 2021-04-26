@@ -11,3 +11,6 @@ account-reconnect-to-fxa = Đã ngắt kết nối khỏi tài khoản
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-disconnected = Bạn đã bị ngắt kết nối
+# Used as the FxA toolbar menu item title when the user
+# needs to reconnect their account.
+account-disconnected2 = Đã ngắt kết nối tài khoản
