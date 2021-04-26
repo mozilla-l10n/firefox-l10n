@@ -34,6 +34,7 @@ carddav-location-label =
 carddav-location =
     .default-placeholder = URL ou nome de host do servidor de catálogo de endereços
 carddav-loading = Procurando configuração…
+carddav-known-incompatible = Sabe-se que { $url } é incompatível com o { -brand-short-name }.
 carddav-connection-error = Falha na conexão.
 carddav-none-found = Não foi encontrado nenhum catálogo de endereços para adicionar à conta especificada.
 carddav-already-added = Todos os catálogos de endereços da conta especificada já foram adicionados.
