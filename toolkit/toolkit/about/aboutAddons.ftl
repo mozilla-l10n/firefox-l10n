@@ -10,6 +10,7 @@ search-header =
     .searchbuttonlabel = Tìm kiếm
 search-header-shortcut =
     .key = f
+list-empty-get-extensions-message = Tải tiện ích mở rộng và chủ đề trên <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-installed =
     .value = Bạn không có tiện ích nào thuộc kiểu này được cài đặt
 list-empty-available-updates =
