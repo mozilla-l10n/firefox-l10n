@@ -13,4 +13,6 @@ safeb-blocked-harmful-page-short-desc = { -brand-short-name } blockit this page 
 safeb-palm-advisory-desc = Wysins providit by <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
 safeb-palm-accept-label = Gang back
 safeb-palm-see-details-label = See details
-safeb-blocked-phishing-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> has been <a data-l10n-name='error_desc_link'>reportit as a begowkin site</a>. Ye can <a data-l10n-name='report_detection'>report a detection problem</a> or <a data-l10n-name='ignore_warning_link'>no fash aboot the risk</a> and gang tae this site that isnae sauf.
+safeb-blocked-phishing-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> has been <a data-l10n-name='error_desc_link'>reportit as a begowkin site</a>. Ye can <a data-l10n-name='report_detection'>report a detection problem</a> or <a data-l10n-name='ignore_warning_link'>no fash yersel aboot the risk</a> and gang tae this site that's no sauf.
+safeb-blocked-phishing-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> has been <a data-l10n-name='error_desc_link'>reportit as a begowkin site</a>. Ye can <a data-l10n-name='report_detection'>report a detection problem</a>.
+safeb-blocked-phishing-page-learn-more = Lairn mair aboot begowkin sites and phishing at <a data-l10n-name='learn_more_link'>www.antiphishing.org</a>. Lairn mair aboot { -brand-short-name }’s Phishing and Malware Bieldin at <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
