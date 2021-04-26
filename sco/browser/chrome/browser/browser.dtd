@@ -5,7 +5,9 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
+<!ENTITY appmenu.tooltip                     "Open menu">
 
+<!ENTITY navbarOverflow.label                "Mair tools…">
 
 <!-- Tab context menu -->
 
@@ -14,7 +16,10 @@ used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
+<!ENTITY  pinTab.label                       "Pin Tab">
+<!ENTITY  unpinTab.label                     "Unpin Tab">
 
+<!ENTITY  listAllTabs.label      "List aw tabs">
 
 
 
