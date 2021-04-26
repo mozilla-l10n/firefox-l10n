@@ -610,16 +610,89 @@ search-show-suggestions-private-windows =
     .label = Shaw airt-oot suggestions in Preevat Windaes
 suggestions-addressbar-settings-generic = Chynge preferences for ither address baur suggestions
 suggestions-addressbar-settings-generic2 = Chynge settins for ither address baur suggestions
+search-suggestions-cant-show = Airt-oot suggestions willnae be kythed in location baur results acause ye've confeegurt { -brand-short-name } tae nivver mind o historie.
+search-one-click-header = Ane-Click Airt-Oot Engines
+search-one-click-header2 = Sairch Shortcuts
+search-one-click-desc = Wale the ither airt-oot engines that kythe unner the address baur and sairch baur when ye stert tae inpit a keywird.
+search-choose-engine-column =
+    .label = Airt-Oot Engine
+search-choose-keyword-column =
+    .label = Keywird
+search-restore-default =
+    .label = Restore Staunart Airt-Oot Engines
+    .accesskey = A
+search-remove-engine =
+    .label = Remuive
+    .accesskey = R
+search-add-engine =
+    .label = Eik On
+    .accesskey = E
+search-find-more-link = Find mair airt-oot engines
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Keywird Awready in Yaise
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Ye've waled a keywird that's awready in yaise by “{ $name }”. Gonnae wale anither.
+search-keyword-warning-bookmark = Ye've waled a keywird that's awready in yaise by a buikmerk. Gonnae wale anither.
 
 ## Containers Section
 
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] Back tae Options
+           *[other] Back tae Preferences
+        }
+containers-back-button2 =
+    .aria-label = Back tae Settins
+containers-header = Conteener Tabs
+containers-add-button =
+    .label = Eik On New Conteener
+    .accesskey = A
+containers-new-tab-check =
+    .label = Wale a conteener fur ilka new tab
+    .accesskey = W
+containers-preferences-button =
+    .label = Preferences
+containers-settings-button =
+    .label = Settins
+containers-remove-button =
+    .label = Remuive
 
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+sync-signedout-caption = Tak Yer Wab Wi Ye
+sync-signedout-description = Synchronise yer buikmerks, historie, tabs, passwirds, eik ons, and preferences across aw yer devices.
+sync-signedout-account-signin2 =
+    .label = Sign in tae { -sync-brand-short-name }…
+    .accesskey = i
+sync-signedout-description2 = Synchronise yer buikmerks, historie, tabs, passwirds, eik ons, and settins across aw yer devices.
+sync-signedout-account-signin3 =
+    .label = Sign in tae sync…
+    .accesskey = i
+# This message contains two links and two icon images.
+#   `<img data-l10n-name="android-icon"/>` - Android logo icon
+#   `<a data-l10n-name="android-link">` - Link to Android Download
+#   `<img data-l10n-name="ios-icon">` - iOS logo icon
+#   `<a data-l10n-name="ios-link">` - Link to iOS Download
+#
+# They can be moved within the sentence as needed to adapt
+# to your language, but should not be changed or translated.
+sync-mobile-promo = Doonload Firefox fur <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> or <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> tae sync wi yer mobile device.
 
 ## Firefox Account - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Chynge profile pictur
+sync-sign-out =
+    .label = Sign Oot…
+    .accesskey = g
+sync-manage-account = Manage accoont
+    .accesskey = o
+sync-signedin-unverified = { $email } isnae trystmakkit
+sync-signedin-login-failure = Gonnae sign in tae reconnect { $email }
 
 ## Sync section - enabling or disabling sync.
 
