@@ -997,13 +997,58 @@ addressbar-suggestions-settings = Chynge preferences fur airt-oot engine suggest
 content-blocking-enhanced-tracking-protection = Augmentit Trackin Bieldin
 content-blocking-section-top-level-description = Trackers follae ye aroond online fur tae gaither informations aboot yer stravaigin pratticks and interests. { -brand-short-name } blocks a guid wheen o these trackers and ither uncannie scripts.
 content-blocking-learn-more = Lairn mair
+content-blocking-fpi-incompatibility-warning = Ye're yaisin First Pairty Isolation (FPI), which owerrides some o { -brand-short-name }'s cookie settins.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
 
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = Staunart
+    .accesskey = d
+enhanced-tracking-protection-setting-strict =
+    .label = Ticht
+    .accesskey = r
+enhanced-tracking-protection-setting-custom =
+    .label = Custom
+    .accesskey = C
 
 ##
 
+content-blocking-etp-standard-desc = Eeksie-peeksie atween bieldin and performance. Pages will load as ordinar.
+content-blocking-etp-strict-desc = Mair bieldin, but micht gar some sites or content tae brek.
+content-blocking-etp-custom-desc = Wale whit trackers and scripts tae block.
+content-blocking-private-windows = Trackin content in Preevat Windaes
+content-blocking-cross-site-cookies = Cross-site cookies
+content-blocking-cross-site-cookies-in-all-windows = Cross-site cookies in aw windaes (includes trackin cookies)
+content-blocking-cross-site-tracking-cookies = Cross-site trackin cookies
+content-blocking-all-cross-site-cookies-private-windows = Cross-site cookies in Preevat Windaes
+content-blocking-cross-site-tracking-cookies-plus-isolate = Cross-site trackin cookies, and isolate onie ither cookies
+content-blocking-social-media-trackers = Social media trackers
+content-blocking-all-cookies = Aw cookies
+content-blocking-unvisited-cookies = Cookies fae sites ye hivnae veesitit
+content-blocking-all-windows-tracking-content = Trackin content in aw windaes
+content-blocking-all-third-party-cookies = Aw third-pairty cookies
+content-blocking-cryptominers = Cryptohowkers
+content-blocking-fingerprinters = Fingirprenters
+content-blocking-warning-title = Haud the bus!
+content-blocking-and-isolating-etp-warning-description = Blockin trackers and isolatin cookies could cause problems wi the wirkins o some sites. Reload a page wi trackers tae load aw content.
+content-blocking-and-isolating-etp-warning-description-2 = This settin micht gar some wabsites tae no kythe content or wirk richt. Gin a site luiks mogert, ye micht want tae turn aff trackin bieldin fur thon site tae load aw content.
+content-blocking-warning-learn-how = Lairn how
+content-blocking-reload-description = Ye'll need tae reload yer tabs fur tae mak yaise o these chynges
+content-blocking-reload-tabs-button =
+    .label = Reload Aw Tabs
+    .accesskey = R
+content-blocking-tracking-content-label =
+    .label = Trackin content
+    .accesskey = T
+content-blocking-tracking-protection-option-all-windows =
+    .label = In aw windaes
+    .accesskey = A
+content-blocking-option-private =
+    .label = Anely in Preevat Windaes
+    .accesskey = p
+content-blocking-tracking-protection-change-block-list = Chynge block list
 content-blocking-expand-section =
     .tooltiptext = Mair information
 

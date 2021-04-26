@@ -43,7 +43,7 @@
 
 # LOCALIZATION NOTE (nightly_heading):
 # Firefox Nightly links folder name
-#define nightly_heading Firefox Nichtlie Resources
+#define nightly_heading Firefox Nichtlie Resoorces
 
 # LOCALIZATION NOTE (nightly_blog):
 # Nightly builds only, link title for https://blog.nightly.mozilla.org/
