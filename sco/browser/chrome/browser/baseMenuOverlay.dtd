@@ -1,0 +1,18 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutProduct2.label      "Aboot &brandShorterName;">
+<!ENTITY aboutProduct2.accesskey  "A">
+
+<!ENTITY preferencesCmdMac.label        "Preferences…">
+
+<!ENTITY servicesMenuMac.label          "Services">
+
+<!ENTITY hideThisAppCmdMac2.label       "Hide &brandShorterName;">
+
+<!ENTITY hideOtherAppsCmdMac.label      "Hide Ithers">
+
+<!ENTITY showAllAppsCmdMac.label        "Kythe Aw">
+
+<!ENTITY touchBarCmdMac.label           "Mak Touch Baur Yer Ain...">
