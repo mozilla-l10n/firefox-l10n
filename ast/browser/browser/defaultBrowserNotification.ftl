@@ -13,6 +13,7 @@ default-browser-notification-button =
 ## secondary button are shared between the variants.
 
 default-browser-prompt-title-pin = Convertir a { -brand-short-name } nel restolador primariu?
+default-browser-prompt-message-pin = Ten a { -brand-short-name } nun clic. Predermínalu y fíxalu a la barra de xeres.
 default-browser-prompt-button-primary-pin = Convertir
 default-browser-prompt-title-alt = ¿Predeterminar { -brand-short-name }?
 default-browser-prompt-message-alt = Consigui velocidá, seguranza y privacidá cada vegada que restoles.
