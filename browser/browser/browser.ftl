@@ -433,6 +433,7 @@ pointerlock-warning-no-domain = Esti documentu tien el control del punteru. Prim
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>Cascó parte d'esta páxina.</strong> Pa facer que { -brand-product-name } sepa d'esti fallu ya igualu rápido, unvia un informe.
 crashed-subframe-learnmore-link =
     .value = Lleer más
 
