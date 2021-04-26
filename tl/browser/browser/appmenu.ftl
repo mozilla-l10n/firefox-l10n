@@ -44,6 +44,10 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Mag-sync Na
+appmenuitem-fxa-toolbar-sync-now2 = I-sync ngayon
+appmenu-fxa-header =
+    .title = { -fxaccount-brand-name }
+appmenu-fxa-signed-in-label = Mag sign-in
 appmenuitem-save-page =
     .label = I-save ang Pahina Bilang…
 
