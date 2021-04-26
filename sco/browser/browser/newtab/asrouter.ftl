@@ -72,7 +72,7 @@ cfr-doorhanger-pintab-animation-resume = Resume
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Sync yer buikmerks awwhaur.
-cfr-doorhanger-bookmark-fxa-body = Whit a spot! Noo dinnae get stuck withoot this buikmerk on yer mobile devices. Get Stertit wi a { -fxaccount-brand-name }.
+cfr-doorhanger-bookmark-fxa-body = Whit a spot! Noo dinnae get stuck wioot this buikmerk on yer mobile devices. Get Stertit wi a { -fxaccount-brand-name }.
 cfr-doorhanger-bookmark-fxa-link-text = Sync buikmerks noo...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Sneck button
@@ -80,7 +80,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 
 ## Protections panel
 
-cfr-protections-panel-header = Stravaig withoot bein follaed
+cfr-protections-panel-header = Stravaig wioot bein follaed
 cfr-protections-panel-body = Keep yer data tae yersel. { -brand-short-name } bields ye fae a guid wheen o the maist common trackers that follae whit ye're daein online.
 cfr-protections-panel-link-text = Lairn mair
 

@@ -179,3 +179,31 @@ bar-tooltip-social =
             [one] { $count } social media tracker ({ $percentage }%)
            *[other] { $count } social media trackers ({ $percentage }%)
         }
+bar-tooltip-cookie =
+    .title = Cross-Site Trackin Cookies
+    .aria-label =
+        { $count ->
+            [one] { $count } cross-site trackin cookie ({ $percentage }%)
+           *[other] { $count } cross-site trackin cookies ({ $percentage }%)
+        }
+bar-tooltip-tracker =
+    .title = Trackin Content
+    .aria-label =
+        { $count ->
+            [one] { $count } trackin content ({ $percentage }%)
+           *[other] { $count } trackin content ({ $percentage }%)
+        }
+bar-tooltip-fingerprinter =
+    .title = Fingirprenters
+    .aria-label =
+        { $count ->
+            [one] { $count } fingirprenter ({ $percentage }%)
+           *[other] { $count } fingirprenters ({ $percentage }%)
+        }
+bar-tooltip-cryptominer =
+    .title = Cryptohowkers
+    .aria-label =
+        { $count ->
+            [one] { $count } cryptohowker ({ $percentage }%)
+           *[other] { $count } cryptohowkers ({ $percentage }%)
+        }
