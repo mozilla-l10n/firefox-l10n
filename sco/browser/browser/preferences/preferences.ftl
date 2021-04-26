@@ -825,17 +825,121 @@ forms-breach-alerts =
     .label = Shaw alerts aboot passwirds fur breached wabsites
     .accesskey = b
 forms-breach-alerts-learn-more-link = Lairn mair
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-logins-and-passwords =
+    .label = Autofeenish logins and passwirds
+    .accesskey = i
+forms-saved-logins =
+    .label = Saved Logins…
+    .accesskey = L
+forms-master-pw-use =
+    .label = Yaise a maister passwird
+    .accesskey = U
+forms-primary-pw-use =
+    .label = Yaise a Primary Passwird
+    .accesskey = U
 forms-primary-pw-learn-more-link = Lairn mair
+# This string uses the former name of the Primary Password feature
+# ("Master Password" in English) so that the preferences can be found
+# when searching for the old name. The accesskey is unused.
+forms-master-pw-change =
+    .label = Chynge Maister Passwird…
+    .accesskey = M
+forms-master-pw-fips-title = The noo, ye're in FIPS mode. FIPS needs a Maister Passwird that isnae tuim.
+forms-primary-pw-change =
+    .label = Chynge Primary Passwird…
+    .accesskey = P
+# Leave this message empty if the translation for "Primary Password" matches
+# "Master Password" in your language. If you're editing the FTL file directly,
+# use { "" } as the value.
+forms-primary-pw-former-name = Kent afore noo as Maister Passwird
+forms-primary-pw-fips-title = The noo, ye're in FIPS modes. FIPS needs a Primary Passwird that isnae tuim.
+forms-master-pw-fips-desc = Passwird Chynge Didnae Wirk
 
 ## OS Authentication dialog
 
+# This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message-win = Tae mak a Maister Passwird, inpit yer Windaes login parteeculars. This helps wi bieldin the siccarness o yer accoonts.
+# This message can be seen by trying to add a Master Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+master-password-os-auth-dialog-message-macosx = mak a Maister Passwird
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = Tae mak a Primary Passwird, inpit yer Windaes login parteeculars. This helps wi bieldin the siccarness o yer accoonts.
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = mak a Primary Passwird
+master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
 
+history-header = Historie
+# This label is followed, on the same line, by a dropdown list of options
+# (Remember history, etc.).
+# In English it visually creates a full sentence, e.g.
+# "Firefox will" + "Remember history".
+#
+# If this doesn't work for your language, you can translate this message:
+#   - Simply as "Firefox", moving the verb into each option.
+#     This will result in "Firefox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Firefox history settings:".
+history-remember-label = { -brand-short-name } will
+    .accesskey = w
+history-remember-option-all =
+    .label = Mind yer historie
+history-remember-option-never =
+    .label = Nivver mind yer historie
+history-remember-option-custom =
+    .label = Yaise custom settins for historie
+history-remember-description = { -brand-short-name } will mind yer stravaigin, doonload, form and sairch historie.
+history-dontremember-description = { -brand-short-name } will yaise the same settins as preevat stravaigin, and willnae mind o onie historie as ye stravaig the Wab.
+history-private-browsing-permanent =
+    .label = Ayeweys yaise preevat stravaigin mode
+    .accesskey = p
+history-remember-browser-option =
+    .label = Mind o stravaigin and doonload historie
+    .accesskey = M
+history-remember-search-option =
+    .label = Mind o sairch and form historie
+    .accesskey = f
+history-clear-on-close-option =
+    .label = Dicht historie when { -brand-short-name } is sneckit
+    .accesskey = r
+history-clear-on-close-settings =
+    .label = Settins…
+    .accesskey = t
+history-clear-button =
+    .label = Dicht Historie...
+    .accesskey = s
 
 ## Privacy Section - Site Data
 
+sitedata-header = Cookies and Site Data
+sitedata-total-size-calculating = Wirkin oot site data and cache size...
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = Yer stored cookies, site data, and cache richt noo are yaisin { $value } { $unit } o disk space.
 sitedata-learn-more = Lairn mair
+sitedata-delete-on-close =
+    .label = Dicht cookies and site data when { -brand-short-name } is sneckit
+    .accesskey = c
+sitedata-delete-on-close-private-browsing = In ayebidin preevat stravaigin mode, cookies and site date will ayeweys be dichtit when { -brand-short-name } is sneckit.
+sitedata-allow-cookies-option =
+    .label = Accept cookies and site data
+    .accesskey = A
+sitedata-disallow-cookies-option =
+    .label = Block cookies and site data
+    .accesskey = B
+# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
+# The list items are the strings named sitedata-block-*-option*.
+sitedata-block-desc = Type blockit
+    .accesskey = T
+sitedata-option-block-cross-site-trackers =
+    .label = Cross-site trackers
 
 ## Privacy Section - Address Bar
 
