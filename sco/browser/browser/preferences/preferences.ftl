@@ -664,11 +664,11 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = Tak Yer Wab Wi Ye
-sync-signedout-description = Synchronise yer buikmerks, historie, tabs, passwirds, eik ons, and preferences across aw yer devices.
+sync-signedout-description = Synchronise yer buikmerks, historie, tabs, passwirds, eik-ons, and preferences across aw yer devices.
 sync-signedout-account-signin2 =
     .label = Sign in tae { -sync-brand-short-name }…
     .accesskey = i
-sync-signedout-description2 = Synchronise yer buikmerks, historie, tabs, passwirds, eik ons, and settins across aw yer devices.
+sync-signedout-description2 = Synchronise yer buikmerks, historie, tabs, passwirds, eik-ons, and settins across aw yer devices.
 sync-signedout-account-signin3 =
     .label = Sign in tae sync…
     .accesskey = i
@@ -693,24 +693,137 @@ sync-manage-account = Manage accoont
     .accesskey = o
 sync-signedin-unverified = { $email } isnae trystmakkit
 sync-signedin-login-failure = Gonnae sign in tae reconnect { $email }
+sync-resend-verification =
+    .label = Resend Trystmakkin
+    .accesskey = d
+sync-remove-account =
+    .label = Remuive Accoont
+    .accesskey = R
+sync-sign-in =
+    .label = Sign in
+    .accesskey = g
 
 ## Sync section - enabling or disabling sync.
 
+prefs-syncing-on = Syncin: ON
+prefs-syncing-off = Syncin: AFF
+prefs-sync-setup =
+    .label = Set Up { -sync-brand-short-name }…
+    .accesskey = S
+prefs-sync-offer-setup-label = Synchronise yer buikmerks, historie, tabs, passwirds, eik-ons, and preferences across aw yer devices.
+prefs-sync-turn-on-syncing =
+    .label = Turn on syncin…
+    .accesskey = s
+prefs-sync-offer-setup-label2 = Synchronise yer buikmerks, historie, tabs, passwirds, eik-ons, and settins across aw yer devices.
+prefs-sync-now =
+    .labelnotsyncing = Sync Noo
+    .accesskeynotsyncing = N
+    .labelsyncing = Syncin…
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-heading = The noo, ye're syncin yon items:
+sync-currently-syncing-bookmarks = Buikmerks
+sync-currently-syncing-history = Historie
+sync-currently-syncing-tabs = Open tabs
+sync-currently-syncing-logins-passwords = Logins and passwirds
+sync-currently-syncing-addresses = Addresses
+sync-currently-syncing-creditcards = Credit cairds
+sync-currently-syncing-addons = Eik-ons
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] Options
+       *[other] Preferences
+    }
+sync-currently-syncing-settings = Settins
+sync-change-options =
+    .label = Chynge...
+    .accesskey = C
 
 ## The "Choose what to sync" dialog.
 
+sync-choose-what-to-sync-dialog =
+    .title = Wale Whit Tae Sync
+    .style = width: 36em; min-height: 35em;
+    .buttonlabelaccept = Save Chynges
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra2 = Disconnect…
+    .buttonaccesskeyextra2 = D
+sync-engine-bookmarks =
+    .label = Buikmerks
+    .accesskey = m
+sync-engine-history =
+    .label = Historie
+    .accesskey = r
+sync-engine-tabs =
+    .label = Open tabs
+    .tooltiptext = A list o whit’s open on aw syncit devices
+    .accesskey = t
+sync-engine-logins-passwords =
+    .label = Logins and passwirds
+    .tooltiptext = Yaiser nemmes and passwirds ye’ve saved
+    .accesskey = L
+sync-engine-addresses =
+    .label = Addresses
+    .tooltiptext = Post addresses ye’ve saved (desktap anely)
+    .accesskey = e
+sync-engine-creditcards =
+    .label = Credit cairds
+    .tooltiptext = Nemmes, nummers and expiry dates (desktap anely)
+    .accesskey = C
+sync-engine-addons =
+    .label = Eik-ons
+    .tooltiptext = Extensions and themes fur Firefox desktap
+    .accesskey = A
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Options
+           *[other] Preferences
+        }
+    .tooltiptext = General, Preevacy, and Siccarness settins ye’ve chynged
+    .accesskey = s
+sync-engine-settings =
+    .label = Settins
+    .tooltiptext = General, Preevacy, and Siccarness settins ye’ve chynged
+    .accesskey = s
 
 ## The device name controls.
 
+sync-device-name-header = Device Nemme
+sync-device-name-change =
+    .label = Chynge Device Nemme…
+    .accesskey = h
+sync-device-name-cancel =
+    .label = Stap
+    .accesskey = n
+sync-device-name-save =
+    .label = Save
+    .accesskey = v
+sync-connect-another-device = Connect anither device
 
 ## Privacy Section
 
+privacy-header = Stravaiger Preevacy
 
 ## Privacy Section - Logins and Passwords
 
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = Logins and Passwirds
+    .searchkeywords = { -lockwise-brand-short-name }
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
+forms-ask-to-save-logins =
+    .label = Speir fur tae save logins and passwirds for wabsites
+    .accesskey = r
+forms-exceptions =
+    .label = Exceptions…
+    .accesskey = x
+forms-generate-passwords =
+    .label = Suggest and mak strang passwirds
+    .accesskey = u
+forms-breach-alerts =
+    .label = Shaw alerts aboot passwirds fur breached wabsites
+    .accesskey = b
 forms-breach-alerts-learn-more-link = Lairn mair
 forms-primary-pw-learn-more-link = Lairn mair
 
