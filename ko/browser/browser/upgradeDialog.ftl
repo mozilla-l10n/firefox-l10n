@@ -9,7 +9,7 @@
 ## New changes screen
 
 # This title can be explicitly wrapped to control which words are on which line.
-upgrade-dialog-new-title = 새로워진 { -brand-short-name }
+upgrade-dialog-new-title = 새로운 { -brand-short-name }를 만나보세요
 upgrade-dialog-new-subtitle = 원하는 곳으로 더 빨리 이동할 수 있도록 설계됨
 upgrade-dialog-new-item-menu-title = 간소화된 도구 모음 및 메뉴
 upgrade-dialog-new-item-menu-description = 중요한 것에 우선순위를 두어서 필요한 것을 찾을 수 있도록 합니다.
