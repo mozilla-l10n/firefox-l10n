@@ -20,6 +20,9 @@
 # Title of the extensions category.
 about-debugging-runtime-extensions =
     .name = Extensions
+# Text of a button displayed in Runtime pages for remote runtimes.
+# Clicking on the button will close the connection to the runtime.
+about-debugging-runtime-disconnect-button = Disconnect
 
 # Debug Targets strings
 
