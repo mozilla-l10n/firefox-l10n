@@ -104,7 +104,7 @@ tab-context-reopen-closed-tabs =
             [1] Öppna stängd flik igen
            *[other] Öppna stängda flikar igen
         }
-    .accesskey = s
+    .accesskey = p
 tab-context-close-tabs =
     .label =
         { $tabCount ->
