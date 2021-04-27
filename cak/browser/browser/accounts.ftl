@@ -11,3 +11,6 @@ account-reconnect-to-fxa = Chupun Rub'i' Taqoya'l
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-disconnected = Xachüp
+# Used as the FxA toolbar menu item title when the user
+# needs to reconnect their account.
+account-disconnected2 = Chupun rub'i' taqoya'l

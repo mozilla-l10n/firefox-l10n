@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Ke'ajikib'a' taq na'ojil richin chi ri WebExtensions yetikïr ye'ok rik'in chrome.managed.
+policy-AllowedDomainsForApps = Kejikib'äx taq ominyos ya'on q'ij chi ke richin ye'ok pa Google Workspace.
 policy-AppAutoUpdate = Ketzij o kechup ri ruyonil kik'exoj taq chokoy.
 policy-AppUpdateURL = Tiya' jun ichinan URL richin nik'ex ri chokoy.
 policy-Authentication = Tib'an runuk'ulem ri chijun jikib'an pa taq ajk'amaya'l ruxaq nikiya' q'ij.

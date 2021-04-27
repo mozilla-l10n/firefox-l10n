@@ -332,3 +332,8 @@ mr1-onboarding-theme-tooltip-alpenglow =
     .title =
         Tokisäx jun silonel chuqa' k'o rub'onil wachinel kichin taq pitz'b'äl,
         taq k'utsamaj chuqa' taq tzuwäch.
+# Input description for Alpenglow theme
+mr1-onboarding-theme-description-alpenglow =
+    .aria-description =
+        Tokisäx jun silonel chuqa' k'o rub'onil wachinel kichin taq pitz'b'äl,
+        taq k'utsamaj chuqa' taq tzuwäch.
