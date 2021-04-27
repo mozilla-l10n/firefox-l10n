@@ -15,3 +15,4 @@ screenshots-meta-key =
        *[other] Ctrl
     }
 screenshots-notification-link-copied-title = Пайванд нусха бардошта шуд
+screenshots-unshootable-page-error-title = Акси ин саҳифа гирифта намешавад.

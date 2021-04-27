@@ -17,6 +17,7 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 <!ENTITY  pinTab.label                       "Васл кардани варақа">
+<!ENTITY  unpinTab.label                     "Ҷудо кардани варақа">
 
 <!ENTITY  listAllTabs.label      "Рӯйхати ҳамаи варақаҳо">
 
@@ -158,9 +159,13 @@ this container is a toolbar. This avoids double-speaking. -->
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Мохоҳед, ки варақаҳоро аз дастгоҳҳои дигар дар ин ҷо бинед?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Кушодани хусусиятҳои ҳамоҳангсозӣ">
+<!ENTITY appMenuRemoteTabs.unverified.label "Ҳисоби шумо бояд тасдиқ карда шавад.">
 <!ENTITY appMenuRemoteTabs.signintosync.label "Ба &syncBrand.shortName.label; ворид шавед…">
 <!ENTITY appMenuRemoteTabs.turnonsync.label "Фаъол кардани &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Идоракунии дастгоҳҳо…">
+<!ENTITY appMenuRemoteTabs.sidebar.label "Намоиш додани навори ҷонибии варақаҳои ҳамоҳангшуда">
+<!ENTITY appMenuRemoteTabs.hidesidebar.label "Пинҳон кардани навори ҷонибии варақаҳои ҳамоҳангшуда">
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Пайваст кардани дастгоҳи дигар">
 
 
 <!ENTITY customizeMenu.addToToolbar.label "Илова кардан ба навори абзорҳо">

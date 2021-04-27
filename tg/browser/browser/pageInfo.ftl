@@ -173,6 +173,13 @@ media-dimensions =
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } КБ
+# This string is used to display the website name next to the
+# "Block Images" checkbox in the media tab
+# Variables:
+#   $website (string) - The website name
+media-block-image =
+    .label = Манъ кардани тасвирҳо аз { $website }
+    .accesskey = М
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:
