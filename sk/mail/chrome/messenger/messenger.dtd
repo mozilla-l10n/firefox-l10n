@@ -47,7 +47,7 @@
 <!ENTITY openMessageFileCmd.label "Otvoriť uložené správy…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY saveAsMenu.label "Uložiť ako">
-<!ENTITY saveAsMenu.accesskey "U">
+<!ENTITY saveAsMenu.accesskey "a">
 <!ENTITY saveAsFileCmd.label "Súbor">
 <!ENTITY saveAsFileCmd.accesskey "S">
 <!ENTITY saveAsFileCmd.key "s">
