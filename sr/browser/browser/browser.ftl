@@ -335,6 +335,7 @@ identity-https-only-info-turn-off2 = Ако страница делује неи
 identity-https-only-info-no-upgrade = Није могуће надоградити HTTP везу.
 identity-permissions-storage-access-header = Колачићи трећих страна
 identity-permissions-storage-access-hint = Ове стране могу користити вишестраничне колачиће и страничне податке током ваше посете страници.
+identity-permissions-storage-access-learn-more = Сазнајте више
 identity-permissions-reload-hint = Можда ћете морати поново учитати страницу да примените промене.
 identity-permissions-empty = Овом сајту нису додељене никакве посебне дозволе.
 identity-clear-site-data =

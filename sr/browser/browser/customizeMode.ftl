@@ -49,3 +49,5 @@ customize-mode-lwthemes-my-themes =
     .value = Моје теме
 customize-mode-touchbar-cmd =
     .label = Прилагоди додирну траку…
+customize-mode-downloads-button-autohide =
+    .label = Сакриј дугме када нема преузимања
