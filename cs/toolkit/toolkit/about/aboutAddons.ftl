@@ -10,6 +10,7 @@ search-header =
     .searchbuttonlabel = Hledat
 search-header-shortcut =
     .key = f
+list-empty-get-extensions-message = Rozšíření a motivy vzhledů získáte na <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-installed =
     .value = Žádný doplněk tohoto typu není nainstalován
 list-empty-available-updates =
