@@ -35,9 +35,18 @@
 
 
 
+<!ENTITY corruptedContentErrorv2.title "Camshauchlet Content Mishanter">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>The page yer tryin tae view cannae be shawn acause a mishanter in the data transmission wis detectit.</p><ul><li>Please get in touch wi the wabsite owners tae lat them ken aboot this problem.</li></ul>">
 
+<!ENTITY remoteXUL.title "Remote XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Please get in touch wi the wabsite owners fur tae let them ken aboot this problem.</li></ul></p>">
 
+<!ENTITY inadequateSecurityError.title "Yer connection isnae siccar">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> yaises siccarness technology that is oot-datit and vulnerable tae an onding. It wad be gey easy fur an ondinger tae lat ken information which ye thocht tae be siccar. The wabsite admeenistrator will need tae fix the server afore ye can gang on tae the site.</p><p>Error code: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
+<!ENTITY blockedByPolicy.title "Blockit Page">
 
+<!ENTITY networkProtocolError.title "Netwark Protocol Mishanter">
+<!ENTITY networkProtocolError.longDesc "<p>The page yer tryin tae view cannae be shawn acause an error in the netwark protocol wis detectit.</p><ul><li>Please get in touch wi the wabsite owners fur tae lat them ken aboot this problem.</li></ul>">
