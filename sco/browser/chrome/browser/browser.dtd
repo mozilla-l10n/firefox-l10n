@@ -16,8 +16,8 @@ used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
-<!ENTITY  pinTab.label                       "Pin Tab">
-<!ENTITY  unpinTab.label                     "Unpin Tab">
+<!ENTITY  pinTab.label                       "Peen Tab">
+<!ENTITY  unpinTab.label                     "Unpeen Tab">
 
 <!ENTITY  listAllTabs.label      "List aw tabs">
 
@@ -157,64 +157,132 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuHistory.recentHistory.label "Recent Historie">
 <!ENTITY appMenuHelp.label "Help">
 
+<!ENTITY appMenuRemoteTabs.label "Synced Tabs">
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "Nae open tabs">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
+<!ENTITY appMenuRemoteTabs.showMore.label "Shaw Mair">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
+<!ENTITY appMenuRemoteTabs.showMore.tooltip "Shaw mair tabs fae this device">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
+<!ENTITY appMenuRemoteTabs.showAll.label "Shaw Aw">
+<!ENTITY appMenuRemoteTabs.showAll.tooltip "Shaw aw tabs fae this device">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Turn on tab syncin fur tae view a list o tabs fae yer ither devices.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "Want tae see yer tabs fae ither devices here?">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Open Sync Preferences">
+<!ENTITY appMenuRemoteTabs.welcome.label "View a list o tabs fae yer ither devices">
+<!ENTITY appMenuRemoteTabs.unverified.label "Your accoont needs tae be trystmakkit.">
+<!ENTITY appMenuRemoteTabs.signintosync.label "Sign in tae &syncBrand.shortName.label;…">
+<!ENTITY appMenuRemoteTabs.turnonsync.label "Turn on &syncBrand.shortName.label;…">
+<!ENTITY appMenuRemoteTabs.managedevices.label "Manage Devices…">
+<!ENTITY appMenuRemoteTabs.sidebar.label "View Synced Tabs Sidebaur">
+<!ENTITY appMenuRemoteTabs.hidesidebar.label "Hide Synced Tabs Sidebaur">
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Connect Anither Device">
 
+<!ENTITY appMenuRecentHighlights.label "Recent Highlichts">
 
+<!ENTITY customizeMenu.addToToolbar.label "Eik On Tae Toolbaur">
+<!ENTITY customizeMenu.addToToolbar.accesskey "A">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. -->
+<!ENTITY customizeMenu.addToOverflowMenu.label "Eik On tae Owerteem Menu">
+<!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Unpeen fae Owerteem Menu">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "U">
+<!ENTITY customizeMenu.removeFromToolbar.label "Remuive fae Toolbaur">
+<!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
+<!ENTITY customizeMenu.addMoreItems.label "Eik On Mair Items…">
+<!ENTITY customizeMenu.addMoreItems.accesskey "A">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
+<!ENTITY moreMenu.label "Mair">
 
+<!ENTITY contentSearchSubmit.tooltip  "Submit sairch">
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
      This string is displayed in the search box when the input field is empty. -->
+<!ENTITY searchInput.placeholder      "Sairch">
+<!ENTITY searchIcon.tooltip           "Sairch">
 
+<!ENTITY openLinkCmdInTab.accesskey   "T">
 
+<!ENTITY pageAction.copyLink.label    "Copy Link">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
+<!ENTITY saveToPocketCmd.label        "Save Page tae Pocket">
+<!ENTITY pocketMenuitem.label         "View Pocket List">
 
+<!ENTITY emailPageCmd.label           "Email Link…">
 
+<!ENTITY fullZoom.label                 "Zoom">
 
+<!ENTITY sidebarCloseButton.tooltip     "Sneck sidebaur">
 
 <!ENTITY quitApplicationCmdWin2.label       "Ootgang">
+<!ENTITY quitApplicationCmdWin2.accesskey   "x">
+<!ENTITY quitApplicationCmdWin2.tooltip     "Ootgang fae &brandShorterName;">
+<!ENTITY quitApplicationCmd.label       "Quit">
+<!ENTITY quitApplicationCmd.accesskey   "Q">
+<!ENTITY quitApplicationCmdMac2.label   "Quit &brandShorterName;">
 
+<!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
+<!ENTITY editPopupSettingsUnix.label "Edit Lowp-up Blocker Preferences…">
+<!ENTITY editPopupSettings.label "Edit Lowp-up Blocker Options…">
+<!ENTITY editPopupSettings.accesskey "E">
+<!ENTITY dontShowMessage.accesskey "D">
 
+<!ENTITY findOnCmd.label     "Airt-oot in This Page...">
 
+<!ENTITY spellAddDictionaries.label "Eik On Dictionaries…">
+<!ENTITY spellAddDictionaries.accesskey "A">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
+<!ENTITY tabsToolbar.label "Stravaiger tabs">
+
+<!ENTITY syncBrand.shortName.label    "Sync">
+
+<!ENTITY customizeMode.autoHideDownloadsButton.label "Auto-hide">
 
 
+<!ENTITY uiTour.infoPanel.close "Sneck">
 
+<!ENTITY panicButton.thankyou.msg1                "Yer recent historie has been dichtit.">
+<!ENTITY panicButton.thankyou.msg2                "Stravaig awa!">
+<!ENTITY panicButton.thankyou.buttonlabel         "Cheers!">
 
+<!ENTITY updateAvailable.panelUI.label "Doonload &brandShorterName; update">
+<!ENTITY updateManual.panelUI.label "Doonload a fresh copy o &brandShorterName;">
+<!ENTITY updateUnsupported.panelUI.label "Ye cannae instaw ony mair updates">
+<!ENTITY updateRestart.panelUI.label2 "Restert tae update &brandShorterName;">
 
+<!ENTITY sendToDevice.syncNotReady.label "Syncin Devices…">
 
+<!ENTITY pageAction.shareUrl.label "Share">
+<!ENTITY pageAction.shareMore.label "Mair…">
 
-
-
+<!ENTITY libraryButton.tooltip "View historie, saved buikmerks, and mair">
 
 <!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
      used as a textual label for the indicator used by assistive technology
      users. -->
+<!ENTITY accessibilityIndicator.tooltip "Accessibility Featurs Enabled">
