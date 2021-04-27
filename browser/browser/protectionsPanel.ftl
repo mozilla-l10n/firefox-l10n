@@ -4,7 +4,7 @@
 
 protections-panel-sendreportview-error = Houve um erro ao enviar o relatório. Tente novamente mais tarde.
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
-protections-panel-sitefixedsendreport-label = Site corrigido? Enviar relatório
+protections-panel-sitefixedsendreport-label = O site passou a funcionar? Envie um relato
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -89,13 +89,13 @@ protections-panel-content-blocking-manage-settings =
     .accesskey = G
 protections-panel-content-blocking-breakage-report-view =
     .title = Relatar um site com problemas
-protections-panel-content-blocking-breakage-report-view-description = Bloquear certos rastreadores pode causar problemas em alguns sites. Relatar esses problemas ajuda a melhorar o { -brand-short-name } para todos. Ao enviar este relato, é enviado para a Mozilla uma URL e informações sobre configurações do seu navegador. <label data-l10n-name="learn-more">Saiba mais</label>
+protections-panel-content-blocking-breakage-report-view-description = Bloquear certos rastreadores pode causar problemas em alguns sites. Relatar esses problemas ajuda a melhorar o { -brand-short-name } para todos. Ao enviar este relato, a Mozilla recebe o endereço da página e informações sobre configurações do seu navegador. <label data-l10n-name="learn-more">Saiba mais</label>
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
-protections-panel-content-blocking-breakage-report-view-collection-comments = Opcional: descreva o problema
+protections-panel-content-blocking-breakage-report-view-collection-comments = Descreva o problema (opcional)
 protections-panel-content-blocking-breakage-report-view-collection-comments-label =
-    .aria-label = Opcional: descreva o problema
+    .aria-label = Descreva o problema (opcional)
 protections-panel-content-blocking-breakage-report-view-cancel =
     .label = Cancelar
 protections-panel-content-blocking-breakage-report-view-send-report =
