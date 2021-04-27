@@ -112,7 +112,7 @@ Somewey or anither <p>&brandShortName; cannae load this page.</p>
 
 <!ENTITY unknownSocketType.longDesc "
 <ul>
-  <li>Check fur tae mak siccar yer system has the Personal Security Manager
+  <li>Check fur tae mak siccar yer seestem has the Personal Security Manager
     instawed.</li>
   <li>This micht be acause o a non-staunart configuration on the server.</li>
 </ul>
