@@ -11,6 +11,12 @@ unread-messages-os-tooltip =
     }
 about-rights-notification-text = { -brand-short-name } თავისუფალი და ღია წყაროს პროგრამაა, შექმნილი ათასობით ადამიანისგან შემდგარი ერთობის მიერ, მთელი მსოფლიოდან.
 
+## Toolbar
+
+addons-and-themes-button =
+    .label = დამატებები და თემები
+    .tooltip = მართეთ დამატებები
+
 ## Folder Pane
 
 folder-pane-toolbar =
@@ -43,3 +49,35 @@ show-recent-folders-label =
 folder-toolbar-toggle-folder-compact-view =
     .label = შემჭიდროებული ჩვენება
     .accesskey = ჭ
+
+## AppMenu
+
+# Since v89 we dropped the platforms distinction between Options or Preferences
+# and consolidated everything with Preferences.
+appmenu-preferences =
+    .label = პარამეტრები
+appmenu-addons-and-themes =
+    .label = დანამატები და თემები
+appmenu-help-enter-troubleshoot-mode =
+    .label = ხარვეზის აღმოფხვრის რეჟიმი…
+appmenu-help-exit-troubleshoot-mode =
+    .label = ხარვეზის აღმოფხვრის რეჟიმის გამორთვა
+appmenu-help-more-troubleshooting-info =
+    .label = ხარვეზის აღმოფხვრის ვრცელი მონაცემები
+
+## Action Button Context Menu
+
+toolbar-context-menu-manage-extension =
+    .label = გაფართოების მართვა
+    .accesskey = ო
+toolbar-context-menu-remove-extension =
+    .label = გაფართოების ამოშლა
+    .accesskey = ლ
+
+## Add-on removal warning
+
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = მოცილდეს { $name }?
+addon-removal-confirmation-button = მოცილება
+addon-removal-confirmation-message = მოცილდეს { $name } და გასუფთავდეს { -brand-short-name } მისი პარამეტრებისგან?
