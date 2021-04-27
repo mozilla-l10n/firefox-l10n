@@ -74,7 +74,7 @@
 <!ENTITY lightning.imipbar.btnReschedule.tooltiptext                        "Az esemény átütemezése">
 <!ENTITY lightning.imipbar.btnSaveCopy.label                                "Másolat mentése">
 <!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Az esemény másolatának mentése a naptárba a szervezőnek küldött választól függetlenül. A résztvevők listája törlésre kerül.">
-<!ENTITY lightning.imipbar.btnTentative.label                               "Nem megerősített">
+<!ENTITY lightning.imipbar.btnTentative.label                               "Feltételes">
 <!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Eseménymeghívó feltételes elfogadása">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Összes feltételes">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Eseménymeghívó elfogadása feltételesen az esemény minden előfordulására">

@@ -15,11 +15,11 @@
 <!ENTITY newevent.eventStatus.none.label          "Nem megadott" >
 <!ENTITY newevent.eventStatus.none.accesskey      "N" >
 <!ENTITY newevent.todoStatus.none.label           "Nem megadott" >
-<!ENTITY newevent.eventStatus.cancelled.label     "Megszakítva" >
+<!ENTITY newevent.eventStatus.cancelled.label     "Lemondott" >
 <!ENTITY newevent.eventStatus.cancelled.accesskey "v" >
-<!ENTITY newevent.todoStatus.cancelled.label      "Megszakítva" >
-<!ENTITY newevent.status.tentative.label          "Nem megerősített" >
-<!ENTITY newevent.status.tentative.accesskey      "m" >
+<!ENTITY newevent.todoStatus.cancelled.label      "Lemondott" >
+<!ENTITY newevent.status.tentative.label          "Feltételes" >
+<!ENTITY newevent.status.tentative.accesskey      "F" >
 <!ENTITY newevent.status.confirmed.label          "Megerősített" >
 <!ENTITY newevent.status.confirmed.accesskey      "r" >
 <!ENTITY newevent.status.needsaction.label        "Foglalkozni kell vele" >
@@ -378,7 +378,7 @@
 <!ENTITY event.freebusy.zoom                    "Nagyítás:">
 <!ENTITY event.freebusy.legend.free             "Szabad" >
 <!ENTITY event.freebusy.legend.busy             "Elfoglalt" >
-<!ENTITY event.freebusy.legend.busy_tentative   "Nem megerősített" >
+<!ENTITY event.freebusy.legend.busy_tentative   "Feltételes" >
 <!ENTITY event.freebusy.legend.busy_unavailable "Házon kívül" >
 <!ENTITY event.freebusy.legend.unknown          "Nincs információ" >
 <!ENTITY event.attendee.role.required           "Kötelező résztvevő">
