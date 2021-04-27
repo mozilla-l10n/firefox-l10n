@@ -42,5 +42,5 @@ default-browser-prompt-title-alt =
     } као подразумевани прегледач?
 default-browser-prompt-message-alt = Претражујте интернет брзо, безбедно и приватно.
 default-browser-prompt-button-primary-alt = Постави као подразумевани прегледач
-default-browser-prompt-checkbox-label = Не питај поново
+default-browser-prompt-checkbox-not-again-label = Не приказуј поново
 default-browser-prompt-button-secondary = Не сада
