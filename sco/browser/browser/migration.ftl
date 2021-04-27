@@ -52,7 +52,7 @@ import-from-360se =
 no-migration-sources = Nae programs that hae buikmerks, historie or passwird data could be airtit oot.
 import-source-page-title = Inbring Settins and Data
 import-items-page-title = Items tae Inbring
-import-items-description = Pick whit items tae inbring:
+import-items-description = Wale whit items tae inbring:
 import-permissions-page-title = Gonnae gie { -brand-short-name } permeesions?
 # Do not translate "Bookmarks.plist"; the file name is the same everywhere.
 import-permissions-description = macOS needs ye tae gie direct permeesion tae { -brand-short-name } fur tae hae ingang tae Safari’s buikmerks. Click “Continue” and wale the “Bookmarks.plist” file in the File Open panel that kythes itsel.

@@ -205,7 +205,7 @@ onboarding-multistage-theme-secondary-button-label = No jist noo
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = Automatic
 onboarding-multistage-theme-label-light = Licht
-onboarding-multistage-theme-label-dark = Derk
+onboarding-multistage-theme-label-dark = Daurk
 # "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
 onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 
@@ -237,12 +237,12 @@ onboarding-multistage-theme-description-light =
 # Tooltip displayed on hover of dark theme
 onboarding-multistage-theme-tooltip-dark-2 =
     .title =
-        Yaise a derk kythe fur buttons,
+        Yaise a daurk kythe fur buttons,
         menus, and windaes.
 # Input description for dark theme
 onboarding-multistage-theme-description-dark =
     .aria-description =
-        Yaise a derk kythe fur buttons,
+        Yaise a daurk kythe fur buttons,
         menus, and windaes.
 # Tooltip displayed on hover of Alpenglow theme
 onboarding-multistage-theme-tooltip-alpenglow-2 =
@@ -288,7 +288,7 @@ mr1-onboarding-theme-secondary-button-label = No jist noo
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Seestem theme
 mr1-onboarding-theme-label-light = Licht
-mr1-onboarding-theme-label-dark = Derk
+mr1-onboarding-theme-label-dark = Daurk
 # "Alpenglow" here is the name of the theme, and should be kept in English.
 mr1-onboarding-theme-label-alpenglow = Alpenglow
 
@@ -320,12 +320,12 @@ mr1-onboarding-theme-description-light =
 # Tooltip displayed on hover of dark theme
 mr1-onboarding-theme-tooltip-dark =
     .title =
-        Yaise a derk theme fur buttons,
+        Yaise a daurk theme fur buttons,
         menus, and windaes.
 # Input description for dark theme
 mr1-onboarding-theme-description-dark =
     .aria-description =
-        Yaise a derk theme fur buttons,
+        Yaise a daurk theme fur buttons,
         menus, and windaes.
 # Tooltip displayed on hover of Alpenglow theme
 mr1-onboarding-theme-tooltip-alpenglow =

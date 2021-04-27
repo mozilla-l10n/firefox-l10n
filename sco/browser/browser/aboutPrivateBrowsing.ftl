@@ -30,8 +30,8 @@ about-private-browsing-turn-on-vpn = Gie { -mozilla-vpn-brand-name } a shot
 about-private-browsing-search-banner-title = { $engineName } is yer default airt-oot engine in Preevate Windaes
 about-private-browsing-search-banner-description =
     { PLATFORM() ->
-        [windows] Fur tae pick a different airt-oot engine gang tae <a data-l10n-name="link-options">Options</a>
-       *[other] Fur tae pick a different airt-oot engine gang tae <a data-l10n-name="link-options">Preferences</a>
+        [windows] Fur tae wale a different airt-oot engine gang tae <a data-l10n-name="link-options">Options</a>
+       *[other] Fur tae wale a different airt-oot engine gang tae <a data-l10n-name="link-options">Preferences</a>
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Sneck
