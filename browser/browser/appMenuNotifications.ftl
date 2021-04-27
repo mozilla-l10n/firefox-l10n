@@ -32,6 +32,10 @@ appmenu-update-restart =
     .secondarybuttonlabel = ახლა არა
     .secondarybuttonaccesskey = ა
 appmenu-update-restart-message = ხელახლა გაშვების შემდეგ, { -brand-shorter-name } აღადგენს თქვენს ყველა გახსნილ ჩანართსა და ფანჯარას, პირადი ჩანართებისა და ფანჯრების გარდა.
+appmenu-addon-private-browsing-installed =
+    .buttonlabel = კარგი, გასაგებია
+    .buttonaccesskey = გ
+appmenu-addon-post-install-message = მართეთ თქვენი დამატებები <image data-l10n-name='addon-install-icon'></image> ხატულაზე დაწკაპებით, <image data-l10n-name='addon-menu-icon'></image> მენიუში.
 appmenu-update-available2 =
     .label = განახლება ხელმისაწვდომია
     .buttonlabel = ჩამოტვირთვა
@@ -66,11 +70,7 @@ appmenu-update-other-instance =
     .buttonaccesskey = გ
     .secondarybuttonlabel = ახლა არა
     .secondarybuttonaccesskey = ა
-appmenu-update-other-instance-message = ახალი { -brand-shorter-name } ხელმისაწვდომია, მაგრამ ვერ ყენდება, რადგან გაშვებულია სხვა { -brand-shorter-name }. დახურეთ განახლების დასაყენებლად ან აირჩიეთ, მაინც განახლება (უკვე გაშვებულმა შესაძლოა ვერ იმუშავოს, ხელახლა ჩართვის გარეშე).
-appmenu-addon-private-browsing-installed =
-    .buttonlabel = კარგი, გასაგებია
-    .buttonaccesskey = გ
-appmenu-addon-post-install-message = მართეთ თქვენი დამატებები <image data-l10n-name='addon-install-icon'></image> ხატულაზე დაწკაპებით, <image data-l10n-name='addon-menu-icon'></image> მენიუში.
+appmenu-update-other-instance-message = ახალი { -brand-shorter-name } ხელმისაწვდომია, მაგრამ ვერ ყენდება, რადგან გაშვებულია სხვა { -brand-shorter-name }. დახურეთ განახლების დასაყენებლად ან აირჩიეთ, მაინც განახლება (უკვე გაშვებულმა შესაძლოა ვეღარ იმუშაოს, ხელახლა ჩართვის გარეშე).
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = კარგი
     .buttonaccesskey = კ
