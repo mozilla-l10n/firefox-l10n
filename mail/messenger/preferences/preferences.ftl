@@ -10,6 +10,8 @@ preferences-title =
             [windows] პარამეტრები
            *[other] პარამეტრები
         }
+preferences-tab-title =
+    .title = პარამეტრები
 category-list =
     .aria-label = კატეგორიები
 pane-general-title = ძირითადი
@@ -88,8 +90,9 @@ update-in-progress-ok-button = &გაუქმება
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &გაგრძელება
-account-button = ანგარიშის პარამეტრები
 addons-button = გაფართოებები და თემები
+account-button = ანგარიშის პარამეტრები
+open-addons-sidebar-button = დამატებები და თემები
 
 ## OS Authentication dialog
 
@@ -323,6 +326,8 @@ quoted-text-color =
     .accesskey = ფ
 search-input =
     .placeholder = ძიება
+search-handler-table =
+    .placeholder = შიგთავსის სახეობებისა და მოქმედებების გაფილტვრა
 type-column-label =
     .label = შიგთავსის სახეობა
     .accesskey = T
@@ -708,6 +713,17 @@ search-input-box =
             [windows] პარამეტრებში მონახვა
            *[other] პარამეტრებში მონახვა
         }
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-preferences-input =
+    .style = width: 15.4em
+    .placeholder = პარამეტრებში ძიება
 
 ## Preferences UI Search Results
 

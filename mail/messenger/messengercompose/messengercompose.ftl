@@ -115,3 +115,11 @@ move-attachment-last-panel-button =
 button-return-receipt =
     .label = ქვითარი
     .tooltiptext = ქვითრის მოთხოვნა ამ წერილისთვის
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+consider-bcc-notification = ველებში მითითებული { $count } მიმღები იხილავს ერთმანეთის მისამართებს. ამის ასარიდებლად, შეგიძლიათ გამოიყენოთ ფარული (Bcc) ველი.
+many-public-recipients-bcc =
+    .label = ფარული ასლებით შეცვლა
+    .accesskey = ფ
+many-public-recipients-ignore =
+    .label = მიმღებების საჯაროდ დატოვება
+    .accesskey = ჯ
