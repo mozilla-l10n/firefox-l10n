@@ -78,7 +78,7 @@
    - when editing events/tasks in a tab. -->
 <!ENTITY  event.menu.item.save.label                      "Uložiť">
 <!ENTITY  event.menu.item.save.accesskey                  "U">
-<!ENTITY  event.menu.item.save.tab.accesskey              "a">
+<!ENTITY  event.menu.item.save.tab.accesskey              "U">
 
 <!-- LOCALIZATION NOTE
     - event.menu.item.saveandclose.accesskey is used for "Save and Close"
