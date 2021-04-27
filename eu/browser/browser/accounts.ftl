@@ -11,3 +11,6 @@ account-reconnect-to-fxa = Kontua deskonektatuta
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-disconnected = Deskonektatu egin zara
+# Used as the FxA toolbar menu item title when the user
+# needs to reconnect their account.
+account-disconnected2 = Kontua deskonektatuta

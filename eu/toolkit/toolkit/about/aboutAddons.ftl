@@ -10,6 +10,7 @@ search-header =
     .searchbuttonlabel = Bilaketa
 search-header-shortcut =
     .key = f
+list-empty-get-extensions-message = Eskuratu hedapen eta itxurak <a data-l10n-name="get-extensions">{ $domain }</a> gunean.
 list-empty-installed =
     .value = Ez daukazu mota honetako gehigarririk instalatuta
 list-empty-available-updates =
