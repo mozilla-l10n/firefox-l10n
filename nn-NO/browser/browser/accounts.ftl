@@ -11,3 +11,6 @@ account-reconnect-to-fxa = Konto fråkopla
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-disconnected = Du har blitt kopla frå.
+# Used as the FxA toolbar menu item title when the user
+# needs to reconnect their account.
+account-disconnected2 = Konto fråkopla
