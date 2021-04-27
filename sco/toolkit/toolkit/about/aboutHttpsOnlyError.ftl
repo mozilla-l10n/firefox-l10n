@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-httpsonly-button-go-back = Gang Back
 about-httpsonly-link-learn-more = Lairn Mair...
 
 ## Suggestion Box that only shows up if a secure connection to www can be established
