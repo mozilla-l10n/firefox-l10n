@@ -46,3 +46,18 @@ toolbar-delete-button =
 toolbar-undelete-button =
     .label = Zrušit smazání
     .tooltiptext = Obnoví dříve smazané vybrané zprávy
+
+## View / Layout
+
+mail-uidensity-label =
+    .label = Hustota
+    .accesskey = H
+mail-uidensity-compact =
+    .label = Kompaktní
+    .accesskey = K
+mail-uidensity-normal =
+    .label = Normální
+    .accesskey = N
+mail-uidensity-touch =
+    .label = Pro dotyk
+    .accesskey = t
