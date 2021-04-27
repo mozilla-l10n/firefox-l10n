@@ -57,6 +57,8 @@ gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Description
 gpu-ram = RAM
+webgl1-extensions = WebGL 1 Extensions
+webgl2-extensions = WebGL 2 Extensions
 glcontext-crash-guard = OpenGL
 
 ## Variables
