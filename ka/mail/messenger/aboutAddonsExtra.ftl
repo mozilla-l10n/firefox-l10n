@@ -6,3 +6,4 @@ add-on-options-button =
     .title = დამატების პარამეტრები
 atn-addons-heading-search-input =
     .placeholder = ძიება addons.thunderbird.net
+sidebar-preferences-button-title = { -brand-short-name } პარამეტრები

@@ -9,6 +9,17 @@ menu-view-charset =
     .label = ტექსტის კოდირება
     .accesskey = კ
 
+## Tools Menu
+
+# Since v89 we dropped the platforms distinction between Options or Preferences
+# and consolidated everything with Preferences.
+menu-tools-preferences =
+    .label = პარამეტრები
+    .accesskey = პ
+menu-addons-and-themes =
+    .label = დამატებები და თემები
+    .accesskey = ტ
+
 ## Help Menu
 
 menu-help-enter-troubleshoot-mode =
@@ -35,3 +46,18 @@ toolbar-delete-button =
 toolbar-undelete-button =
     .label = აღდგენა
     .tooltiptext = შერჩეული წერილების დაბრუნება
+
+## View / Layout
+
+mail-uidensity-label =
+    .label = სიმჭიდროვე
+    .accesskey = ჭ
+mail-uidensity-compact =
+    .label = შეკუმშვა
+    .accesskey = კ
+mail-uidensity-normal =
+    .label = ჩვეულებრივი
+    .accesskey = ჩ
+mail-uidensity-touch =
+    .label = შეხება
+    .accesskey = ხ
