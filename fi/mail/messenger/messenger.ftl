@@ -58,3 +58,20 @@ appmenu-preferences =
     .label = Asetukset
 appmenu-addons-and-themes =
     .label = Lisäosat ja teemat
+
+## Action Button Context Menu
+
+toolbar-context-menu-manage-extension =
+    .label = Hallitse laajennusta
+    .accesskey = H
+toolbar-context-menu-remove-extension =
+    .label = Poista laajennus
+    .accesskey = P
+
+## Add-on removal warning
+
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = Poistetaanko { $name }?
+addon-removal-confirmation-button = Poista
+addon-removal-confirmation-message = Poistetaanko { $name } ja siihen liittyvät asetukset sekä tiedot { -brand-short-name }ista?
