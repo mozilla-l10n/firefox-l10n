@@ -38,7 +38,7 @@
 <!ENTITY cmd.backup.accesskey           "B">
 <!ENTITY cmd.restore2.label             "Restore">
 <!ENTITY cmd.restore2.accesskey         "R">
-<!ENTITY cmd.restoreFromFile.label      "Pick File…">
+<!ENTITY cmd.restoreFromFile.label      "Wale File…">
 <!ENTITY cmd.restoreFromFile.accesskey  "C">
 
 <!ENTITY col.name.label          "Nemme">
@@ -59,4 +59,4 @@
 
 <!ENTITY forwardButton.tooltip  "Gang forrit">
 
-<!ENTITY detailsPane.selectAnItemText.description "Pick an item fur tae view and edit its properties">
+<!ENTITY detailsPane.selectAnItemText.description "Wale an item fur tae view and edit its properties">

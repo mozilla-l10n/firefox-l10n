@@ -39,12 +39,12 @@
 
 <!ENTITY importSource.title             "Inbring Settins and Data">
 <!ENTITY importItems.title              "Items tae Inbring">
-<!ENTITY importItems.label              "Pick which items tae inbring:">
+<!ENTITY importItems.label              "Wale whit items tae inbring:">
 
 <!ENTITY migrating.title                "Inbringin…">
 <!ENTITY migrating.label                "The follaein items are bein inbrocht the noo...">
 
-<!ENTITY selectProfile.title            "Pick Profile">
+<!ENTITY selectProfile.title            "Wale Profile">
 <!ENTITY selectProfile.label            "The follaein profiles are at haun tae inbring fae:">
 
 <!ENTITY done.title                     "Inbring Feenisht">
