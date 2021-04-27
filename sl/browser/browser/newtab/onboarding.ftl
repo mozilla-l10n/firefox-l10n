@@ -272,6 +272,10 @@ mr1-onboarding-import-primary-button-label-no-attribution = Uvozi iz prejšnjega
 mr1-onboarding-import-secondary-button-label = Ne zdaj
 mr1-onboarding-theme-primary-button-label = Shrani temo
 mr1-onboarding-theme-secondary-button-label = Ne zdaj
+# System theme uses operating system color settings
+mr1-onboarding-theme-label-system = Sistemska tema
+mr1-onboarding-theme-label-light = Svetla
+mr1-onboarding-theme-label-dark = Temna
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
