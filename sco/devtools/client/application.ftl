@@ -18,3 +18,7 @@
 
 # Link will open https://developer.mozilla.org/docs/Web/API/Service_Worker_API/Using_Service_Workers
 serviceworker-empty-intro-link = Lairn mair
+# Text displayed as the alt attribute for <img> tags showing the icons in the
+# manifest.
+manifest-icon-img =
+    .alt = Icon
