@@ -498,7 +498,7 @@ urlbar-placeholder-with-name =
 urlbar-remote-control-notification-anchor =
     .tooltiptext = ბრაუზერი დაშორებული მართვის ქვეშაა
 urlbar-permissions-granted =
-    .tooltiptext = ამ საიტისთვის დამატებითი უფლებები გაქვთ მინიჭებული.
+    .tooltiptext = ამ საიტისთვის გარკვეული ნებართვები გაქვთ მითითებული.
 urlbar-switch-to-tab =
     .value = გადასვლა ჩანართზე:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
