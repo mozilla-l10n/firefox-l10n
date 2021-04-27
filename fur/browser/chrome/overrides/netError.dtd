@@ -176,7 +176,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.pagetitle2  "Atenzion: potenziâl risi di sigurece plui indenant">
 <!ENTITY certerror.sts.pagetitle  "Conession interote: potenziâl probleme di sigurece ">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> al à une politiche di sigurece clamade HTTP Strict Transport Security (HSTS), che al significhe che &brandShortName; i pues conetisi dome in maniere sigure. No tu puedis zontâ une ecezion par visitâ chest sît.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> al à une politiche di sigurece clamade HTTP Strict Transport Security (HSTS), par furlan sigurece rigorose di traspuart HTTP, che al significhe che &brandShortName; i pues conetisi dome in maniere sigure. No tu puedis zontâ une ecezion par visitâ chest sît.">
 <!ENTITY certerror.copyToClipboard.label "Copie il test intes notis">
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
