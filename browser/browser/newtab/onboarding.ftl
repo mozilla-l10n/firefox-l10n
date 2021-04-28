@@ -293,9 +293,31 @@ mr1-onboarding-theme-secondary-button-label = Не зараз
 mr1-onboarding-theme-label-system = Сістэмная тэма
 mr1-onboarding-theme-label-light = Светлая
 mr1-onboarding-theme-label-dark = Цёмная
+# "Alpenglow" here is the name of the theme, and should be kept in English.
+mr1-onboarding-theme-label-alpenglow = Alpenglow
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of system theme
+mr1-onboarding-theme-tooltip-system =
+    .title =
+        Паўтараць тэму аперацыйнай сістэмы
+        для кнопак, меню і вокнаў.
+# Input description for system theme
+mr1-onboarding-theme-description-system =
+    .aria-description =
+        Паўтараць тэму аперацыйнай сістэмы
+        для кнопак, меню і вокнаў.
+# Tooltip displayed on hover of light theme
+mr1-onboarding-theme-tooltip-light =
+    .title =
+        Выкарыстоўваць светлую тэму
+        для кнопак, меню і вокнаў.
+# Input description for light theme
+mr1-onboarding-theme-description-light =
+    .aria-description =
+        Выкарыстоўваць светлую тэму
+        для кнопак, меню і вокнаў.
