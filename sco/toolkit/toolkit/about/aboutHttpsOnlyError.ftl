@@ -11,6 +11,12 @@ about-httpsonly-insecure-explanation-exception = While the siccarness risk isnae
 about-httpsonly-button-make-exception = Accept the Risk and Haud Forrit tae the Site
 about-httpsonly-title-alert = HTTPS-Anely Mode Alert
 about-httpsonly-title-connection-not-available = Siccar Connection No Available
+# Variables:
+#   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
+about-httpsonly-explanation-unavailable2 = Ye’ve enabled HTTPS-Anely Mode fur augmentit siccarness, and a HTTPS version o <em>{ $websiteUrl }</em> isnae available.
+about-httpsonly-explanation-question = Whit's gawin on here?
+about-httpsonly-explanation-nosupport = Like as no, the wabsite jist disnae support HTTPS.
+about-httpsonly-explanation-risk = It could be as weel that an ondinger is involved. Gin ye decide tae veesit the wabsite, ye shouldnae inpit ony sensitive information like passwirds, emails, or credit caird details.
 about-httpsonly-button-go-back = Gang Back
 about-httpsonly-link-learn-more = Lairn Mair...
 

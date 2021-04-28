@@ -405,6 +405,15 @@ available-updates-heading = Updates Redd
 recent-updates-heading = Recent Updates
 release-notes-loading = Loadin...
 release-notes-error = Awfie sorry, but there wis a mishanter loadin the roll-oot notes.
+addon-permissions-empty = This extension disnae need onie permeesions
+addon-permissions-required = Permeesions needit fur core functions:
+addon-permissions-optional = Optional permeesions fur better functions:
+addon-permissions-learnmore = Lairn mair aboot permeesions
+recommended-extensions-heading = Recommendit Extensions
+recommended-themes-heading = Recommendit Themes
+# A recommendation for the Firefox Color theme shown at the bottom of the theme
+# list view. The "Firefox Color" name itself should not be translated.
+recommended-theme-1 = In the muid for makkin sowt? <a data-l10n-name="link">Pit thegither yer ain theme wi Firefox Colour.</a>
 
 ## Page headings
 
