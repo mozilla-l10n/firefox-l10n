@@ -76,6 +76,7 @@ detail-version =
     .label = Version
 detail-last-updated =
     .label = Last Updatit
+detail-contributions-description = The makker o this eik-on speirs at ye tae help uphaud its ongawin forderin by makkin a wee contreebution.
 detail-contributions-button = Contreebute
     .title = Contreebute tae the forderin o this eik-on
     .accesskey = C
@@ -95,6 +96,10 @@ detail-private-browsing-label = Rin in Preevat Windaes
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = No Allooed in Preevat Windaes
+detail-private-disallowed-description2 = This extension disnae rin while preevat stravaigin. <a data-l10n-name="learn-more">Lairn mair</a>
+# Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
+detail-private-required-label = Needs Ingang tae Preevat Windaes
+detail-private-required-description2 = This extension has ingang tae your online ongauns while preevat stravaigin. <a data-l10n-name="learn-more">Lairn mair</a>
 detail-private-browsing-on =
     .label = Allow
     .tooltiptext = Enable in Preevat Stravaigin
@@ -135,8 +140,24 @@ addon-restart-now =
     .label = Restert noo
 disabled-unsigned-heading =
     .value = Some eik-ons hae been disabled
+disabled-unsigned-description =
+    The follaein eik-ons hivnae been trystmakkit fur yaise in { -brand-short-name }. Ye can
+    <label data-l10n-name="find-addons">airt oot replacements</label> or ask the developer tae get them trystmakkit.
+disabled-unsigned-learn-more = Lairn mair aboot oor ettles tae help keep ye siccar online.
+disabled-unsigned-devinfo =
+    Developers interestit in gettin their eik-ons trystmakkit can haud forrit by readin oor
+    <label data-l10n-name="learn-more">manual</label>.
+plugin-deprecation-description = Missin sowt? Some plugins arenae supportit by { -brand-short-name } onie mair. <label data-l10n-name="learn-more">Lairn Mair.</label>
+legacy-warning-show-legacy = Shaw bygane extensions
 legacy-extensions =
     .value = Bygane Extensions
+legacy-extensions-description = These extensions dinnae meet current { -brand-short-name } staunarts sae they've been deactivatit. <label data-l10n-name="legacy-learn-more">Lairn aboot the chynges tae eik-ons</label>
+private-browsing-description2 =
+    { -brand-short-name } is chyngin how extensions wirk in preevat stravaigin. Onie new extensions ye eik on tae
+    { -brand-short-name } willnae rin as staunart in Preevat Windaes. Unless ye alloo it in settins, the
+    extension willnae wirk while preevat stravaigin, and willnae hae ingang tae yer online ongauns
+    there. We’ve makkit this chynge fur tae keep yer preevat stravaigin preevat.
+    <label data-l10n-name="private-browsing-learn-more">Learn how to manage extension settings</label>
 addon-category-discover = Recommendations
 addon-category-discover-title =
     .title = Recommendations
@@ -164,6 +185,7 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
+extensions-warning-safe-mode = Aw eik-ons hae been disabled by sauf mode.
 
 ## Strings connected to add-on updates
 
