@@ -92,7 +92,7 @@ options-context-advanced-settings = 고급 설정
 # The label for the checkbox that toggles the HTTP cache on or off
 options-disable-http-cache-label = HTTP 캐시 사용 안 함 (도구상자가 열려 있을 때)
 options-disable-http-cache-tooltip =
-    .title = 이 옵션을 켜면 도구상자가 열려있는 모든 탭에서 HTTP 캐시를 비활성화 합니다. Service Worker는 이 설정의 영향을 받지 않습니다.
+    .title = 이 옵션을 켜면 도구상자가 열려있는 모든 탭에서 HTTP 캐시를 비활성화합니다. Service Worker는 이 설정의 영향을 받지 않습니다.
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = JavaScript 사용 안 함*
 options-disable-javascript-tooltip =
