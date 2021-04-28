@@ -54,10 +54,18 @@
 <!ENTITY netTimeout.longDesc "<p>The speirt-efter site didnae repone tae a connection speirin and the stravaiger has stapped waitin fur a reply.</p><ul><li>Mebbe the server is unnergawin muckle traffic or is doon jist noo?  Gie it anither shot efter.</li><li>Are ye no able tae stravaig ither sites? Check the computer’s netwark connection.</li><li>Is yer computer or netwark bieldit by a firewaw or proxy?  Settings that arenae richt can effect yer Wab stravaigin.</li><li>Still haein some fash? Speir yer netwark admeenistrator or Internet provider fur hauners.</li></ul>">
 
 <!ENTITY unknownProtocolFound.title "Unkent Protocol">
+<!ENTITY unknownProtocolFound.longDesc "<p>The address speirs efter a protocol (e.g. <q>wxyz://</q>) the stravaiger disnae ken, sae the stravaiger cannae connect tae the site richt.</p><ul><li>Are ye ettlin tae hae ingang tae multimedia or ither non-text services? Check the site fur onie extra requirements.</li><li>Some protocols micht need third-pairty saftware or plugins afore the stravaiger can ken them.</li></ul>">
 
+<!ENTITY proxyConnectFailure.title "Proxy Server Refuised Connection">
+<!ENTITY proxyConnectFailure.longDesc "<p>The stravaiger is confeegurt tae yaise a proxy server, but the proxy refuised a connection.</p><ul><li>Is the stravaiger’s proxy confeeguration set up richt? Check the settins and gie it anither shot.</li><li>Daes the proxy service alloo connections fae this netwark?</li><li>Still haein some fash? Speir yer netwark admeenistrator or Internet provider fur hauners.</li></ul>">
 
+<!ENTITY proxyResolveFailure.title "Proxy Server No Fund">
+<!ENTITY proxyResolveFailure.longDesc "<p>The =stravaiger is confeegurt tae yaise a proxy server, but the proxy couldnae be fund.</p><ul><li>Is the stravaiger’s proxy confeeguration set up richt? Check the settins and gie it anither shot.</li><li>Is the computer connectit tae an active netwark?</li><li>Still haein some fash? Speir yer netwark admeenistrator or Internet provider fur hauners.</li></ul>">
 
+<!ENTITY redirectLoop.title "Redirect Loop">
+<!ENTITY redirectLoop.longDesc "<p>The browser has gied ower tryin tae retrieve the speirt-efter item. The site is redirectin the speirin in a wey that will nivver feenish.</p><ul><li>Hiv ye disabled or blockit cookies needit by this site?</li><li><em>TAK TENT</em>: Gin acceptin the site’s cookies disnae sort the problem, like as no it's a server confeeguration issue and no yer computer.</li></ul>">
 
+<!ENTITY unknownSocketType.title "Wrang Repone">
 
 
 
