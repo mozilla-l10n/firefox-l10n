@@ -10,6 +10,7 @@ search-header =
     .searchbuttonlabel = Pytać
 search-header-shortcut =
     .key = f
+list-empty-get-extensions-message = Wobstarajće sej rozšěrjenja a drasty na <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-installed =
     .value = Njejsće přidatki tutoho typa instalował
 list-empty-available-updates =
