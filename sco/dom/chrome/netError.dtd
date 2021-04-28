@@ -66,10 +66,25 @@
 <!ENTITY redirectLoop.longDesc "<p>The browser has gied ower tryin tae retrieve the speirt-efter item. The site is redirectin the speirin in a wey that will nivver feenish.</p><ul><li>Hiv ye disabled or blockit cookies needit by this site?</li><li><em>TAK TENT</em>: Gin acceptin the site’s cookies disnae sort the problem, like as no it's a server confeeguration issue and no yer computer.</li></ul>">
 
 <!ENTITY unknownSocketType.title "Wrang Repone">
+<!ENTITY unknownSocketType.longDesc "<p>The site reponed tae the netwark speirin in an unexpectit wey and the stravaiger cannae haud forrit.</p>">
 
+<!ENTITY nssFailure2.title "Siccar Connection Didnae Wirk">
+<!ENTITY nssFailure2.longDesc2 "<p>The page ye're ettlin fur tae luik at cannae be kythed acause the authenticity o the received data couldnae be trystmakkit.</p><ul><li>Get in touch wi the wabsite owners tae lat them ken aboot this problem.</li></ul>">
 
+<!ENTITY nssBadCert.title "Siccar Connection Didnae Wirk">
+<!ENTITY nssBadCert.longDesc2 "<ul>
+<li>This micht be a problem wi the server’s confeeguration, or it micht be somebodie ettlin fur tae impersonate the server.</li>
+<li>Gin ye've connectit tae this server nae bather afore noo, the mishanter will mebbe jist sort itsel, and ye can gie it anither shot efter.</li>
+</ul>
+">
 
+<!ENTITY securityOverride.linkText "Or ye can eik on an exception…">
+<!ENTITY securityOverride.warningContent "
+<p>Ye shouldnae eik on an exception gin ye're yaisin an internet connection that ye dinnae totally trust or gin ye're no yaised tae seein a warning fur this server.</p>
+<p>Gin ye're still wantin tae eik on an exception fur this site, ye can dae thon in yer advanced encryption settins.</p>
+">
 
+<!ENTITY cspBlocked.title "Blockit by Content Siccarness Policy">
 
 
 <!ENTITY corruptedContentErrorv2.title "Camshauchlet Content Mishanter">
