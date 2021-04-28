@@ -10,6 +10,7 @@ search-header =
     .searchbuttonlabel = Поиск
 search-header-shortcut =
     .key = f
+list-empty-get-extensions-message = Загрузите расширения и темы на <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-installed =
     .value = У вас не установлено ни одного дополнения данного типа
 list-empty-available-updates =
