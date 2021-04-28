@@ -175,7 +175,7 @@ main-context-menu-save-link-to-pocket =
 
 main-context-menu-copy-email =
     .label = Copier l’adresse électronique
-    .accesskey = l
+    .accesskey = C
 main-context-menu-copy-link =
     .label = Copier l’adresse du lien
     .accesskey = C
@@ -280,7 +280,7 @@ main-context-menu-video-view =
     .accesskey = v
 main-context-menu-image-view-new-tab =
     .label = Ouvrir l’image dans un nouvel onglet
-    .accesskey = O
+    .accesskey = l
 main-context-menu-video-view-new-tab =
     .label = Ouvrir la vidéo dans un nouvel onglet
     .accesskey = v
