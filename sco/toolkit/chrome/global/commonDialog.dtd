@@ -5,3 +5,6 @@
 <!ENTITY editfield0.label "Yaiser Nemme:">
 <!ENTITY editfield1.label "Passwird:"> 
 <!ENTITY copyCmd.label    "Copy">
+<!ENTITY copyCmd.accesskey "C">
+<!ENTITY selectAllCmd.label "Wale Aw">
+<!ENTITY selectAllCmd.accesskey "A">
