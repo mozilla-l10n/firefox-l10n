@@ -7,4 +7,4 @@ calendar-invitation-current-participation-status-icon-accepted =
 calendar-invitation-current-participation-status-icon-declined =
     .alt = В настоящее время отклонено
 calendar-invitation-current-participation-status-icon-needs-action =
-    .alt = В настоящее время не определено
+    .alt = В настоящее время не решено
