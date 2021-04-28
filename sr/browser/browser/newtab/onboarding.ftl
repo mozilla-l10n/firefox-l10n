@@ -345,6 +345,7 @@ mr1-onboarding-import-primary-button-label-attribution = Увези из пре�
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = Увези из претходног прегледача
 mr1-onboarding-import-secondary-button-label = Не сада
+mr1-onboarding-theme-header = Персонализација
 mr1-onboarding-theme-subtitle =
     Персонализујте { -brand-short-name.gender ->
         [masculine] { -brand-short-name(case: "acc") }
