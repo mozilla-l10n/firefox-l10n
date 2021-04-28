@@ -2,8 +2,70 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+addons-window =
+    .title = Eik-ons Manager
+addons-page-title = Eik-ons Manager
+search-header =
+    .placeholder = Sairch addons.mozilla.org
+    .searchbuttonlabel = Sairch
+search-header-shortcut =
+    .key = f
+list-empty-get-extensions-message = Get extensions and themes on <a data-l10n-name="get-extensions">{ $domain }</a>
+list-empty-installed =
+    .value = Ye dinnae hae onie eik-ons o this type instawed
+list-empty-available-updates =
+    .value = Nae updates fund
+list-empty-recent-updates =
+    .value = Ye hivnae updatit onie eik-ons in a while
 list-empty-find-updates =
     .label = Check Fur Updates
+list-empty-button =
+    .label = Lairn mair aboot eik-ons
+help-button = Eik-ons Hauners
+sidebar-help-button-title =
+    .title = Eik-ons Hauners
+preferences =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } Options
+       *[other] { -brand-short-name } Preferences
+    }
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] { -brand-short-name } Options
+           *[other] { -brand-short-name } Preferences
+        }
+addons-settings-button = { -brand-short-name } Settins
+sidebar-settings-button-title =
+    .title = { -brand-short-name } Settins
+cmd-show-details =
+    .label = Shaw Mair Information
+    .accesskey = S
+cmd-find-updates =
+    .label = Airt-oot Updates
+    .accesskey = F
+cmd-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Options
+           *[other] Preferences
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
+        }
+cmd-install-addon =
+    .label = Instaw
+    .accesskey = I
+cmd-contribute =
+    .label = Contreebute
+    .accesskey = C
+    .tooltiptext = Contreebute tae the forderin o this eik-on
+detail-version =
+    .label = Version
+detail-last-updated =
+    .label = Last Updatit
 legacy-extensions =
     .value = Bygane Extensions
 addon-category-extension = Extensions
