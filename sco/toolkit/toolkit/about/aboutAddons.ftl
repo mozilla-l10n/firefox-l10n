@@ -38,6 +38,10 @@ sidebar-preferences-button-title =
 addons-settings-button = { -brand-short-name } Settins
 sidebar-settings-button-title =
     .title = { -brand-short-name } Settins
+show-unsigned-extensions-button =
+    .label = Some extensions couldnae be trystmakkit
+show-all-extensions-button =
+    .label = Kythe aw extensions
 cmd-show-details =
     .label = Shaw Mair Information
     .accesskey = S
@@ -55,6 +59,12 @@ cmd-preferences =
             [windows] O
            *[other] P
         }
+cmd-enable-theme =
+    .label = Weir Theme
+    .accesskey = W
+cmd-disable-theme =
+    .label = Stap Weirin Theme
+    .accesskey = W
 cmd-install-addon =
     .label = Instaw
     .accesskey = I
