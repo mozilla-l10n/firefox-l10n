@@ -186,13 +186,25 @@ addon-category-recent-updates-title =
 ## These are global warnings
 
 extensions-warning-safe-mode = Aw eik-ons hae been disabled by sauf mode.
+extensions-warning-check-compatibility = Eik-on compatibility checkin is disabled. Ye micht hae incompatible eik-ons.
+extensions-warning-check-compatibility-button = Enable
+    .title = Enable eik-on compatibility checkin
+extensions-warning-update-security = Eik-on update siccarness checkin is disabled. You micht be unnermined by updates.
+extensions-warning-update-security-button = Enable
+    .title = Enable eik-on update siccarness checkin
 
 ## Strings connected to add-on updates
 
+addon-updates-check-for-updates = Check fur Updates
+    .accesskey = C
+addon-updates-view-updates = View Recent Updates
+    .accesskey = V
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
+addon-updates-update-addons-automatically = Update Eik-ons Automatically
+    .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
 ## "Automatically", "Use default global behavior"). These menu items reset the
@@ -200,21 +212,77 @@ extensions-warning-safe-mode = Aw eik-ons hae been disabled by sauf mode.
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
+addon-updates-reset-updates-to-automatic = Reset Aw Eik-ons tae Update Automatically
+    .accesskey = R
+addon-updates-reset-updates-to-manual = Reset Aw Eik-ons tae Update Manually
+    .accesskey = R
 
 ## Status messages displayed when updating add-ons
 
+addon-updates-updating = Updatin eik-ons
+addon-updates-installed = Yer eik-ons hae been updatit.
+addon-updates-none-found = Nae updates fund
+addon-updates-manual-updates-found = View Available Updates
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file = Instaw Eik-on Fae File…
+    .accesskey = I
+addon-install-from-file-dialog-title = Wale eik-on tae instaw
 addon-install-from-file-filter-name = Eik-ons
+addon-open-about-debugging = Bugdicht Eik-ons
+    .accesskey = b
 
 ## Extension shortcut management
 
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = Manage Extension Shortcuts
+    .accesskey = S
+shortcuts-no-addons = Ye dinnae hae onie extensions enabled.
+shortcuts-no-commands = The follaein extensions dinnae hae shortcuts:
+shortcuts-input =
+    .placeholder = Type a shortcut
+shortcuts-browserAction2 = Activate toolbaur button
+shortcuts-pageAction = Activate page action
+shortcuts-sidebarAction = Toggle the sidebaur
+shortcuts-modifier-mac = Include Ctrl, Alt, or ⌘
+shortcuts-modifier-other = Include Ctrl or Alt
+shortcuts-invalid = Combination no suithfest
+shortcuts-letter = Type a letter
+shortcuts-system = Cannae owerride a { -brand-short-name } shortcut
+# String displayed in warning label when there is a duplicate shortcut
+shortcuts-duplicate = Duplicate shortcut
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message = { $shortcut } is bein yaised as a shortcut for mair than ane thing. Duplicate shortcuts micht cause unexpectit behavior.
+# String displayed when a keyboard shortcut is already used by another add-on
+# Variables:
+#   $addon (string) - Name of the add-on
+shortcuts-exists = Awready bein yaised by { $addon }
+shortcuts-card-expand-button =
+    { $numberToShow ->
+       *[other] Shaw { $numberToShow } Mair
+    }
+shortcuts-card-collapse-button = Shaw Less
 header-back-button =
     .title = Gang back
 
 ## Recommended add-ons page
 
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro =
+    Extensions and themes are like apps fur yer stravaiger, and they lat ye
+    bield passwirds, doonload videos, airt oot sales, block scunnersome ads, chynge
+    how yer wab-stravaiger luiks, and a guid wheen mair. These wee saftware programs are
+    aft developed by a third pairty. Here’s a pickle { -brand-product-name }
+    <a data-l10n-name="learn-more-trigger">recommends</a> fur stoatin
+    siccarness, performance, and function.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations =
+    Some o these recommendations are personalised. They're based on ither
+    extensions ye’ve instawed, profile preferences, and statistics o yaise.
 discopane-notice-learn-more = Lairn mair
 privacy-policy = Preevacy Policy
 # Refers to the author of an add-on, shown below the name of the add-on.
@@ -274,6 +342,8 @@ addon-detail-version-label = Version
 addon-detail-last-updated-label = Last Updatit
 addon-detail-homepage-label = Hamepage
 addon-detail-rating-label = Ratin
+# Message for add-ons with a staged pending update.
+install-postponed-message = This extension will be updatit when { -brand-short-name } resterts.
 install-postponed-button = Update Noo
 # The average rating that the add-on has received.
 # Variables:
@@ -310,16 +380,31 @@ install-update-button = Update
 addon-badge-private-browsing-allowed2 =
     .title = Allooed in preevat windaes
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+addon-detail-private-browsing-help = When allooed, the extension will hae ingang tae yer online ongauns while preevat stravaigin. <a data-l10n-name="learn-more">Lairn mair</a>
 addon-detail-private-browsing-allow = Alloo
 addon-detail-private-browsing-disallow = Dinnae Alloo
 
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
+addon-badge-recommended2 =
+    .title = { -brand-product-name } anely recommends extensions that meet oor staunarts fur siccarness and performance
+    .aria-label = { addon-badge-recommended2.title }
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line3 =
+    .title = Offeecial extension pit thegither by Mozilla. Meets security and performance staunarts
+    .aria-label = { addon-badge-line3.title }
+addon-badge-verified2 =
+    .title = This extension has been pruived tae meet oor staunarts fur siccarness and performance
+    .aria-label = { addon-badge-verified2.title }
 
 ##
 
+available-updates-heading = Updates Redd
+recent-updates-heading = Recent Updates
 release-notes-loading = Loadin...
+release-notes-error = Awfie sorry, but there wis a mishanter loadin the roll-oot notes.
 
 ## Page headings
 
