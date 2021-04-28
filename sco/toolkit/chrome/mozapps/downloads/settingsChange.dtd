@@ -2,13 +2,5 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  from.label                  "fae:">
-
-
-
-
-
-<!ENTITY  chooseHandlerMac.label      "Pick...">
-<!ENTITY  chooseHandler.label         "Stravaig…">
-<!ENTITY  chooseHandler.accesskey     "B">
-
+<!ENTITY  settingsChangePreferences.label  "Settins can be chynged in &brandShortName;'s Preferences.">
+<!ENTITY  settingsChangeOptions.label      "Settins can be chynged in &brandShortName;'s Options.">
