@@ -26,7 +26,7 @@ close-tabs-to-the-start =
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = Затвори картице са десне стране
-    .accesskey = З
+    .accesskey = д
 close-other-tabs =
     .label = Затвори друге картице
     .accesskey = д
