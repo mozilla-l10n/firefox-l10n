@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+tab-context-new-tab =
+    .label = K'ak'a' Ruwi'
+    .accesskey = k
 reload-tab =
     .label = Tisamajïx chik Ruwi'
     .accesskey = T
@@ -66,15 +69,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Ketz'apïx K'ïy Taq Ruwi'
     .accesskey = y
-tab-context-share-url =
-    .label = Tikomonïx
-    .accesskey = k
-tab-context-share-more =
-    .label = Ch'aqa'…
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->
@@ -95,6 +89,15 @@ move-tabs =
 move-tab =
     .label = Tisilöx Ruwi'
     .accesskey = x
+tab-context-share-url =
+    .label = Tikomonïx
+    .accesskey = k
+tab-context-share-more =
+    .label = Ch'aqa'…
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->

@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+toolbar-context-menu-new-tab =
+    .label = K'ak'a' Ruwi'
+    .accesskey = k
 toolbar-context-menu-reload-selected-tab =
     .label = Tisamajib'ëx Cha'on Ruwi'
     .accesskey = T
