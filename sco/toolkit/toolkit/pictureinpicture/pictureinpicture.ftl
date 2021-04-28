@@ -11,5 +11,7 @@ pictureinpicture-mute =
     .aria-label = Wheesht
 pictureinpicture-unmute =
     .aria-label = Unwheesht
+pictureinpicture-unpip =
+    .aria-label = Send back tae tab
 pictureinpicture-close =
     .aria-label = Sneck
