@@ -34,6 +34,7 @@ carddav-location-label =
 carddav-location =
     .default-placeholder = URL of hostnamme fan de adresboekserver
 carddav-loading = Konfiguraasje opsykje…
+carddav-known-incompatible = Fan { $url } is bekend dat it net kompatibel is mei { -brand-short-name }.
 carddav-connection-error = Ferbining meitsje mislearre.
 carddav-none-found = Gjin ta te foegjen adresboeken fûn foar it opjûne account.
 carddav-already-added = Alle adresboeken foar it opjûne account binne al tafoege.
