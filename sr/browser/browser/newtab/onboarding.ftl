@@ -338,6 +338,13 @@ mr1-onboarding-set-default-only-primary-button-label =
 mr1-onboarding-set-default-secondary-button-label = Не сада
 mr1-onboarding-sign-in-button-label = Пријави ме
 mr1-onboarding-import-header = Понесите све са собом
+# The primary import button label will depend on whether we can detect which browser was used to download Firefox.
+# Variables:
+#   $previous (Str) - Previous browser name, such as Edge, Chrome
+mr1-onboarding-import-primary-button-label-attribution = Увези из прегледача { $previous }
+# This string will be used in cases where we can't detect the previous browser name.
+mr1-onboarding-import-primary-button-label-no-attribution = Увези из претходног прегледача
+mr1-onboarding-import-secondary-button-label = Не сада
 mr1-onboarding-theme-subtitle =
     Персонализујте { -brand-short-name.gender ->
         [masculine] { -brand-short-name(case: "acc") }
