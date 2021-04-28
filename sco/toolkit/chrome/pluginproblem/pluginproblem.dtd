@@ -3,7 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
+<!ENTITY tapToPlayPlugin                                     "Tap here fur tae activate plugin.">
+<!ENTITY clickToActivatePlugin                               "Activate plugin.">
 <!ENTITY checkForUpdates                                     "Check fur updates...">
+<!ENTITY blockedPlugin.label                                 "This plugin has been blockin fur yer ain bieldin.">
+<!ENTITY hidePluginBtn.label                                 "Hide plugin">
+<!ENTITY managePlugins                                       "Manage plugins…">
 
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
@@ -23,3 +28,4 @@
 
 <!ENTITY plugin.file                                         "File">
 <!ENTITY plugin.mimeTypes                                    "MIME Types">
+<!ENTITY plugin.flashProtectedMode.label                     "Enable Adobe Flash bieldit mode">
