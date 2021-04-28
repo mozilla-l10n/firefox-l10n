@@ -1,0 +1,50 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  windowClose.key "w">
+<!ENTITY  preferencesDefaultTitleMac.title "Nastavitve">
+<!ENTITY  preferencesDefaultTitleWin.title "Možnosti">
+<!ENTITY  preferencesCloseButton.label "Zapri">
+<!ENTITY  preferencesCloseButton.accesskey "Z">
+
+<!--LOCALIZATION NOTE (.label): Preferences categories that appear on the left of the preferences dialog -->
+<!ENTITY prefWindow.title "Nastavitve">
+<!ENTITY prefWindow.size "width: 102ch; height: 44em;">
+<!ENTITY prefWindowMac.size "width: 62em; height: 41em;">
+<!ENTITY prefWindowWin.size "width: 115ch; height: 43em;">
+<!ENTITY prefWindowMac2.size "width: 70em; height: 41em;">
+<!ENTITY prefWindowWin2.size "width: 125ch; height: 44em;">
+
+<!ENTITY appear.label "Videz">
+<!ENTITY content.label "Vsebina">
+<!ENTITY fonts.label "Pisave">
+<!ENTITY colors.label "Barve">
+<!ENTITY media.label "Predstavnost">
+<!ENTITY spellingPane.label "Črkovanje">
+
+<!ENTITY navigator.label "Brskalnik">
+<!ENTITY history.label "Zgodovina">
+<!ENTITY languages.label "Jeziki">
+<!ENTITY applications.label "Pomožni programi">
+<!ENTITY tabWindows.label "Brskanje z zavihki">
+<!ENTITY download.label "Prenosi">
+
+<!ENTITY security.label "Zasebnost in varnost">
+<!ENTITY privatedata.label "Zasebni podatki">
+<!ENTITY cookies.label "Piškotki">
+<!ENTITY images.label "Slike">
+<!ENTITY popups.label "Pojavna okna">
+<!ENTITY passwords.label "Gesla">
+<!ENTITY masterpass.label "Glavna gesla">
+<!ENTITY ssltls.label "SSL/TLS">
+<!ENTITY certs.label "Digitalna potrdila">
+
+<!ENTITY sync.label "Sinhronizacija">
+
+<!ENTITY advance.label "Napredno">
+<!ENTITY scriptsAndWindows.label "Skripti in vtičniki">
+<!ENTITY cache.label "Predpomnilnik">
+
+
+<!ENTITY focusSearch.key "f">
