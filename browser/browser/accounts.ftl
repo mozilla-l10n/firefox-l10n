@@ -11,3 +11,6 @@ account-reconnect-to-fxa = Обліковий запис від'єднано
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-disconnected = Ви від'єдналися
+# Used as the FxA toolbar menu item title when the user
+# needs to reconnect their account.
+account-disconnected2 = Обліковий запис від’єднано
