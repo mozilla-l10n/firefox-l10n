@@ -156,13 +156,13 @@ main-context-menu-bookmark-this-link =
     .accesskey = M
 main-context-menu-bookmark-link =
     .label = Marque-page sur le lien
-    .accesskey = l
+    .accesskey = M
 main-context-menu-save-link =
     .label = Enregistrer la cible du lien sous…
     .accesskey = E
 main-context-menu-save-link-to-pocket =
     .label = Enregistrer le lien dans { -pocket-brand-name }
-    .accesskey = o
+    .accesskey = P
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -181,7 +181,7 @@ main-context-menu-copy-link =
     .accesskey = C
 main-context-menu-copy-link-simple =
     .label = Copier le lien
-    .accesskey = l
+    .accesskey = C
 
 ## Media (video/audio) controls
 ##
@@ -314,12 +314,12 @@ main-context-menu-image-email =
 main-context-menu-image-set-as-background =
     .label = Choisir l’image comme fond d’écran
     .accesskey = d
+main-context-menu-image-set-image-as-background =
+    .label = Choisir l’image comme fond d’écran
+    .accesskey = d
 main-context-menu-image-info =
     .label = Informations sur l’image
     .accesskey = I
-main-context-menu-image-set-image-as-background =
-    .label = Choisir l’image comme fond d’écran
-    .accesskey = s
 main-context-menu-image-desc =
     .label = Description de l’image
     .accesskey = e
@@ -444,7 +444,7 @@ main-context-menu-inspect-element =
     .accesskey = x
 main-context-menu-inspect =
     .label = Inspecter
-    .accesskey = n
+    .accesskey = I
 main-context-menu-inspect-a11y-properties =
     .label = Inspecter les propriétés d’accessibilité
 main-context-menu-eme-learn-more =
