@@ -9,6 +9,10 @@ about-private-browsing-info-title = Вие сте в поверителен пр
 about-private-browsing-info-myths = Разпространени легенди относно поверителното разглеждане
 about-private-browsing =
     .title = Търсене в интернет
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff =
+    .title = Търсене с { $engine } или въвеждане на адрес
 about-private-browsing-handoff-no-engine =
     .title = Търсете или въведете адрес
 # Variables
