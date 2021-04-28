@@ -5,12 +5,12 @@
 places-open =
     .label = Отвори
     .accesskey = O
-places-open-tab =
-    .label = Отвори на новој картици
-    .accesskey = О
 places-open-in-tab =
     .label = Отвори на новој картици
     .accesskey = к
+places-open-tab =
+    .label = Отвори на новој картици
+    .accesskey = О
 places-open-all-bookmarks =
     .label = Отвори све обележиваче
     .accesskey = б
@@ -20,9 +20,15 @@ places-open-all-in-tabs =
 places-open-window =
     .label = Отвори у новом прозору
     .accesskey = т
+places-open-in-window =
+    .label = Отвори у новом прозору
+    .accesskey = п
 places-open-private-window =
     .label = Отвори у новом приватном прозору
     .accesskey = в
+places-open-in-private-window =
+    .label = Отвори у новом приватном прозору
+    .accesskey = т
 places-new-bookmark =
     .label = Нови обележивач…
     .accesskey = б
@@ -35,12 +41,6 @@ places-new-folder =
 places-new-separator =
     .label = Нови разделник
     .accesskey = р
-places-open-in-window =
-    .label = Отвори у новом прозору
-    .accesskey = п
-places-open-in-private-window =
-    .label = Отвори у новом приватном прозору
-    .accesskey = т
 places-add-bookmark =
     .label = Додај обележивач…
     .accesskey = б
@@ -90,6 +90,16 @@ places-edit-bookmark =
     .accesskey = б
 places-edit-generic =
     .label = Уреди…
+    .accesskey = У
+places-edit-folder =
+    .label = Преименуј фасциклу…
+    .accesskey = П
+places-remove-folder =
+    .label =
+        { $count ->
+            [1] Уклони фасциклу
+           *[other] Уклони фасцикле
+        }
     .accesskey = У
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
