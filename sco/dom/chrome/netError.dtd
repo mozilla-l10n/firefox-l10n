@@ -85,7 +85,10 @@
 ">
 
 <!ENTITY cspBlocked.title "Blockit by Content Siccarness Policy">
+<!ENTITY cspBlocked.longDesc "<p>The stravaiger stapped this page fae loadin in this wey acause the page has a content siccarness policy that willnae alloo it.</p>">
 
+<!ENTITY xfoBlocked.title "Blockit by X-Frame-Options Policy">
+<!ENTITY xfoBlocked.longDesc "<p>The stravaiger stapped this page fae loadin in this context acause the page has an X-Frame-Options policy that willnae alloo it.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Camshauchlet Content Mishanter">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>The page yer tryin tae view cannae be shawn acause a mishanter in the data transmission wis detectit.</p><ul><li>Please get in touch wi the wabsite owners tae lat them ken aboot this problem.</li></ul>">
