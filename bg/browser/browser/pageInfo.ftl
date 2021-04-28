@@ -115,6 +115,9 @@ security-site-data-cookies = Да, бисквитки и { $value } { $unit } 
 security-site-data-only = Да, { $value } { $unit } данни на страници
 security-site-data-cookies-only = Да, бисквитките
 security-site-data-no = Не
+
+##
+
 image-size-unknown = Неизвестно
 page-info-not-specified =
     .value = Не е посочено
@@ -143,7 +146,7 @@ page-info-security-no-owner =
     .value = Сайтът не предоставя информация за собственост.
 media-select-folder = Изберете папка за запазване на изображенията
 media-unknown-not-cached =
-    .value = Неизвестно (не е буферирано)
+    .value = Неизвестно (не е складирано)
 permissions-use-default =
     .label = Както е по подразбиране
 security-no-visits = Не

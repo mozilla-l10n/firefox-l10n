@@ -5,12 +5,12 @@
 places-open =
     .label = Отваряне
     .accesskey = О
-places-open-tab =
-    .label = Отваряне в раздел
-    .accesskey = д
 places-open-in-tab =
     .label = Отваряне в раздел
     .accesskey = н
+places-open-tab =
+    .label = Отваряне в раздел
+    .accesskey = д
 places-open-all-bookmarks =
     .label = Отваряне на всички отметки
     .accesskey = в
@@ -20,6 +20,9 @@ places-open-all-in-tabs =
 places-open-window =
     .label = Отваряне в прозорец
     .accesskey = п
+places-open-in-window =
+    .label = Отваряне в прозорец
+    .accesskey = О
 places-open-private-window =
     .label = Отваряне в поверителен прозорец
     .accesskey = п
@@ -35,9 +38,6 @@ places-new-folder =
 places-new-separator =
     .label = Нов разделител
     .accesskey = р
-places-open-in-window =
-    .label = Отваряне в прозорец
-    .accesskey = О
 places-view =
     .label = Изглед
     .accesskey = И
@@ -76,6 +76,19 @@ places-edit-bookmark =
 places-edit-generic =
     .label = Редактиране…
     .accesskey = Р
+# This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
+other-bookmarks-folder =
+    .label = Други отметки
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-remove-bookmark =
+    .label =
+        { $count ->
+            [1] Премахване на отметката
+            [one] Премахване на отметката
+           *[other] Премахване на отметките
+        }
+    .accesskey = П
 places-manage-bookmarks =
     .label = Управление на отметки
     .accesskey = У
