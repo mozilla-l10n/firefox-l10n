@@ -149,6 +149,15 @@ gpu-ram = RAM
 webgl1-extensions = WebGL 1 Extensions
 webgl2-extensions = WebGL 2 Extensions
 glcontext-crash-guard = OpenGL
+launcher-process-status-0 = Enabled
+# Variables
+# $remoteWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+multi-process-windows = { $remoteWindows }/{ $totalWindows }
+multi-process-status-0 = Enabled by yaiser
+multi-process-status-1 = Enabled as staunart
+multi-process-status-2 = Disabled
+apz-none = nane
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
