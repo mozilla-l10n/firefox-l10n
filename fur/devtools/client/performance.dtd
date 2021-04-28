@@ -18,13 +18,16 @@
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.disabledE10S): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a build that can run multiprocess Firefox, but just is not enabled. -->
+<!ENTITY performanceUI.disabledRealTime.disabledE10S "Ative la modalitât multiprocès di Firefox tes preferencis, par elaborâ la regjistrazion in timp reâl.">
 
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusFull): This string
   -  is displayed when the profiler's circular buffer has started to overlap. -->
+<!ENTITY performanceUI.bufferStatusFull "La memorie tampon e je plene. I campions plui vecjos a vignaran sorescrits.">
 
 <!-- LOCALIZATION NOTE (performanceUI.unavailableNoticePB): This is the label shown
   -  in the details view while the profiler is unavailable, for example, while
   -  in Private Browsing mode. -->
+<!ENTITY performanceUI.unavailableNoticePB "Pal moment la regjistrazion di un profîl no je disponibile. Par plasê siere ducj i barcons di navigazion privade e torne prove.">
 
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
   -  in the details view while loading a profile. -->
@@ -32,6 +35,9 @@
 
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
+<!ENTITY performanceUI.toolbar.waterfall "Secuence temporâl">
+<!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Al mostre lis variis operazions che il navigadôr al sta eseguint dulinvie la regjistrazion, butantlis jù in secuence tant che une pissande.">
+<!ENTITY performanceUI.toolbar.js-calltree "Arbul des clamadis">
 
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
