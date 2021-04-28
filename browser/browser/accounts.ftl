@@ -11,3 +11,6 @@ account-reconnect-to-fxa = Ferbining account ferbrutsen
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-disconnected = Jo ferbining is ferbrutsen.
+# Used as the FxA toolbar menu item title when the user
+# needs to reconnect their account.
+account-disconnected2 = Account net ferbûn
