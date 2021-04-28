@@ -12,3 +12,7 @@ calendar-editable-item-todo-icon-completed-task =
     .alt = Fullført oppgave
 calendar-editable-item-multiday-event-icon-start =
     .alt = Flerdagshendelse begynner
+calendar-editable-item-multiday-event-icon-continue =
+    .alt = Flerdagshendelse fortsetter
+calendar-editable-item-multiday-event-icon-end =
+    .alt = Flerdagshendelse avsluttes
