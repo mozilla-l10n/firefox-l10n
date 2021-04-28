@@ -3,6 +3,26 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 printui-title = Prent
+# Dialog title to prompt the user for a filename to save print to PDF.
+printui-save-to-pdf-title = Save As
+# Variables
+# $sheetCount (integer) - Number of paper sheets
+printui-sheets-count =
+    { $sheetCount ->
+        [one] { $sheetCount } sheet o paper
+       *[other] { $sheetCount } sheets o paper
+    }
+printui-page-range-all = Aw
+printui-page-range-custom = Custom
+printui-page-range-label = Pages
+printui-page-range-picker =
+    .aria-label = Wale page range
+printui-page-custom-range-input =
+    .aria-label = Wale yer ain page range
+    .placeholder = e.g. 2-6, 9, 12-16
+# Section title for the number of copies to print
+printui-copies-label = Copies
+printui-destination-pdf-label = Save tae PDF
 printui-two-sided-printing-off = Aff
 # Section title for miscellaneous print options
 printui-options = Options
