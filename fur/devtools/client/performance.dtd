@@ -38,9 +38,17 @@
 <!ENTITY performanceUI.toolbar.waterfall "Secuence temporâl">
 <!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Al mostre lis variis operazions che il navigadôr al sta eseguint dulinvie la regjistrazion, butantlis jù in secuence tant che une pissande.">
 <!ENTITY performanceUI.toolbar.js-calltree "Arbul des clamadis">
+<!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Al evidenzie lis funzions di JavaScript dulà che il navigadôr al à pierdût plui timp dilunc la regjistrazion.">
+<!ENTITY performanceUI.toolbar.memory-calltree "Assegnazions">
+<!ENTITY performanceUI.toolbar.allocations.tooltiptext "Al mostre dulà che la memorie e je stade assegnade dilunc la regjistrazion.">
+<!ENTITY performanceUI.toolbar.js-flamegraph "Grafic a flamadis JS">
+<!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Al mostre il stack des clamadis JavaScript dulinvie la regjistrazion.">
+<!ENTITY performanceUI.toolbar.memory-flamegraph "Grafic a flamadis des assegnazions">
 
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
+<!ENTITY performanceUI.table.totalDuration            "Timp totâl">
+<!ENTITY performanceUI.table.totalDuration.tooltip    "La cuantitât di timp pierdût in cheste funzion e lis funzions che e clame.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
