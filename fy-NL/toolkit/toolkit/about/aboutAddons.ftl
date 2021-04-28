@@ -10,6 +10,7 @@ search-header =
     .searchbuttonlabel = Sykje
 search-header-shortcut =
     .key = f
+list-empty-get-extensions-message = Download útwreidingen en tema’s op <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-installed =
     .value = Jo hawwe gjin add-ons fan dit type ynstallearre
 list-empty-available-updates =
