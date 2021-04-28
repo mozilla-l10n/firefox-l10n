@@ -129,6 +129,8 @@ move-attachment-last-panel-button =
 button-return-receipt =
     .label = Povratnica
     .tooltiptext = Zahtevaj potrdilo o prejemu za to sporočilo
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+consider-bcc-notification = Prejemniki v poljih Za in Kp ({ $count }) lahko vidijo naslove drug drugega. Prejemnike lahko prikrijete tako, da uporabite polje Skp.
 many-public-recipients-bcc =
     .label = Raje uporabi Skp
     .accesskey = S
