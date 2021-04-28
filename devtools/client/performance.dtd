@@ -38,7 +38,7 @@
 <!ENTITY performanceUI.toolbar.waterfall "폭포수">
 <!ENTITY performanceUI.toolbar.waterfall.tooltiptext "기록 중에 브라우저가 수행하는 다양한 작업을 폭포수 형태로 순차적으로 표시합니다.">
 <!ENTITY performanceUI.toolbar.js-calltree "호출 트리">
-<!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "기록 중에 브라우저가 가장 많은 시간을 소요한 곳의 JavaScript 함수를 하이라이트 합니다.">
+<!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "기록하는 동안 브라우저가 가장 많은 시간을 소요한 곳의 JavaScript 함수를 강조합니다.">
 <!ENTITY performanceUI.toolbar.memory-calltree "할당">
 <!ENTITY performanceUI.toolbar.allocations.tooltiptext "기록 중에 메모리가 어디에 할당되었는지를 보여줍니다.">
 <!ENTITY performanceUI.toolbar.js-flamegraph "JS 프레임 차트">
