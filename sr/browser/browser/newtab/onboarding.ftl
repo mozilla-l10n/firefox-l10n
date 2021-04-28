@@ -337,6 +337,22 @@ mr1-onboarding-set-default-only-primary-button-label =
     } као подразумевани прегледач
 mr1-onboarding-set-default-secondary-button-label = Не сада
 mr1-onboarding-sign-in-button-label = Пријави ме
+mr1-onboarding-import-header = Понесите све са собом
+mr1-onboarding-theme-subtitle =
+    Персонализујте { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "acc") }
+        [feminine] { -brand-short-name(case: "acc") }
+        [neuter] { -brand-short-name(case: "acc") }
+       *[other] програм { -brand-short-name }
+    } помоћу теме.
+mr1-onboarding-theme-primary-button-label = Сачувај тему
+mr1-onboarding-theme-secondary-button-label = Не сада
+# System theme uses operating system color settings
+mr1-onboarding-theme-label-system = Системска тема
+mr1-onboarding-theme-label-light = Светла
+mr1-onboarding-theme-label-dark = Тамна
+# "Alpenglow" here is the name of the theme, and should be kept in English.
+mr1-onboarding-theme-label-alpenglow = Алпски жар
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
