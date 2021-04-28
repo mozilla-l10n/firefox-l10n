@@ -268,7 +268,7 @@ header-back-button =
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
 discopane-intro =
-    Utvidingar og tema er som appar for nettlesaren din, og dei let deg
+    Utvidingar og tema er som appar for nettlesaren din, og dei lèt deg
     beskytte passorda dine, laste ned videoar, finne tilbod, blokkere irriterande reklame, endre
     korleis nettlesaren din ser ut, og mykje meir. Desse små programma er
     ofte utvikla av ein tredjepart. Her er eit utval { -brand-product-name }
