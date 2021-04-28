@@ -321,3 +321,23 @@ mr1-onboarding-theme-description-light =
     .aria-description =
         Выкарыстоўваць светлую тэму
         для кнопак, меню і вокнаў.
+# Tooltip displayed on hover of dark theme
+mr1-onboarding-theme-tooltip-dark =
+    .title =
+        Выкарыстоўваць цёмную тэму
+        для кнопак, меню і вокнаў.
+# Input description for dark theme
+mr1-onboarding-theme-description-dark =
+    .aria-description =
+        Выкарыстоўваць цёмную тэму
+        для кнопак, меню і вокнаў.
+# Tooltip displayed on hover of Alpenglow theme
+mr1-onboarding-theme-tooltip-alpenglow =
+    .title =
+        Выкарыстоўваць дынамічную, каляровую
+        тэму для кнопак, меню і вокнаў.
+# Input description for Alpenglow theme
+mr1-onboarding-theme-description-alpenglow =
+    .aria-description =
+        Выкарыстоўваць дынамічную, каляровую
+        тэму для кнопак, меню і вокнаў.
