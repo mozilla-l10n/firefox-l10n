@@ -2,13 +2,23 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  intro2.label                "Ye've decidit tae open:">
 <!ENTITY  from.label                  "fae:">
 
+<!ENTITY  openWith.label              "Open wi">
+<!ENTITY  openWith.accesskey          "o">
+<!ENTITY  other.label                 "Ither…">
 
+<!ENTITY  saveFile.label              "Save File">
+<!ENTITY  saveFile.accesskey          "s">
 
+<!ENTITY  rememberChoice.accesskey    "a">
 
+<!ENTITY  whichIs.label              "which is:">
 
 <!ENTITY  chooseHandlerMac.label      "Pick...">
+<!ENTITY  chooseHandlerMac.accesskey  "C">
 <!ENTITY  chooseHandler.label         "Stravaig…">
 <!ENTITY  chooseHandler.accesskey     "B">
 
+<!ENTITY  unknownPromptText.label     "Wad ye like tae save this file?">
