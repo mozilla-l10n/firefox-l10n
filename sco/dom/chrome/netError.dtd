@@ -2,12 +2,18 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY loadError.label "Page Load Mishanter">
 <!ENTITY retry.label "Try Aince Mair">
 
 <!-- Specific error messages -->
 
+<!ENTITY connectionFailure.title "Couldnae Connect">
+<!ENTITY connectionFailure.longDesc "<p>Though the site seems suithfest, the stravaiger wasnae able tae estaiblish a connection.</p><ul><li>Mebbe the site isnae available jist noo? Gie it anither shot efter.</li><li>Are ye no able tae stravaig ither sites?  Check the computer’s netwark connection.</li><li>Is yer computer or netwark bieldit by a firewaw or proxy? Settins that arenae richt can effect yer Wab stravaigin.</li></ul>">
 
+<!ENTITY deniedPortAccess.title "Port Restrictit fur Reasons o Siccarness">
+<!ENTITY deniedPortAccess.longDesc "<p>The speirt-efter address waled a port (e.g. <q>mozilla.org:80</q> fur port 80 on mozilla.org) that's yaised fur ordinar fur purposes <em>ither</em> than Wab stravaigin. The stravaiger has gied ower the spierin fur yer bieldin and siccarness.</p>">
 
+<!ENTITY dnsNotFound.title "Address No Fund">
 
 
 <!ENTITY fileAccessDenied.title "Ingang tae the file wis denied">
