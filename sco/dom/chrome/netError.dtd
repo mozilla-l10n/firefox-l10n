@@ -14,7 +14,7 @@
 <!ENTITY deniedPortAccess.longDesc "<p>The speirt-efter address waled a port (e.g. <q>mozilla.org:80</q> fur port 80 on mozilla.org) that's yaised fur ordinar fur purposes <em>ither</em> than Wab stravaigin. The stravaiger has gied ower the spierin fur yer bieldin and siccarness.</p>">
 
 <!ENTITY dnsNotFound.title "Address No Fund">
-<!ENTITY dnsNotFound.longDesc "<p>The browser couldnae airt oot the host server fur the providit address.</p><ul><li>Did ye get sowt wrang when typin the domain? (e.g. <q><strong>ww</strong>.mozilla.org</q> insteid o <q><strong>www</strong>.mozilla.org</q>)</li><li>Are ye shair this domain address exists?  Its registration micht hae rin oot.</li><li>Are ye no able tae stravaig ither sites?  Check yer netwark connection and DNS server settins.</li><li>Is yer computer or netwark bieldit by a firewaw or proxy?  Settins that arenae richt can effect yer Wab stravaigin.</li></ul>">
+<!ENTITY dnsNotFound.longDesc "<p>The browser couldnae airt oot the host server fur the providit address.</p><ul><li>Did ye get sowt wrang when typin the domain? (e.g. <q><strong>ww</strong>.mozilla.org</q> insteid o <q><strong>www</strong>.mozilla.org</q>)</li><li>Are ye shair this domain address exists?  Its registration micht be oot o date.</li><li>Are ye no able tae stravaig ither sites?  Check yer netwark connection and DNS server settins.</li><li>Is yer computer or netwark bieldit by a firewaw or proxy?  Settins that arenae richt can effect yer Wab stravaigin.</li></ul>">
 
 <!ENTITY fileNotFound.title "File No Fund">
 <!ENTITY fileNotFound.longDesc "<ul><li>Could the item hae had its nemme chynged, or been remuived, or flittit somewhaur else?</li><li>Is there a spellin, capitalisation, or ither typographical mishanter in the address?</li><li>Dae ye hae the richt ingang permeesions tae the speirt-efter item?</li></ul>">
@@ -29,17 +29,31 @@
 <!ENTITY malformedURI.longDesc "<p>The address providit isnae in a kent format. Check the airtin baur fur mistakes and gie it anither shot.</p>">
 
 <!ENTITY netInterrupt.title "Data Transfer Interruptit">
+<!ENTITY netInterrupt.longDesc "<p>The stravaiger connectit wioot onie problems, but the connection wis interruptit while transferrin information.  Gie it anither shot.</p><ul><li>Are ye no able tae stravaig ither sites? Check the computer’s netwark connection.</li><li>Still haein some fash? Speir yer netwark admeenistrator or Internet provider fur hauners.</li></ul>">
 
 <!ENTITY notCached.title "Document Oot o Date">
+<!ENTITY notCached.longDesc "<p>The speirt-efter document isnae available in the stravaiger’s cache.</p><ul><li>As a siccarness meisur, the stravaiger daesnae automatically speir efter sensitive documents again.</li><li>Click Try Aince Mair to speir efter the document fae the wabsite again.</li></ul>">
 
 <!ENTITY netOffline.title "Affline Mode">
+<!ENTITY netOffline.longDesc2 "<p>The stravaiger is wirkin in its affline mode and cannae connect tae the speirt-efter item.</p><ul><li>Is the computer connectit tae an active netwark?</li><li>Press &quot;Try Aince Mair&quot; tae switch tae online mode and reload the page.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Content Encodin Mishanter">
+<!ENTITY contentEncodingError.longDesc "<p>The page ye're ettlin tae luik at cannae be kythed acause it yaises a form o compression that's either no suithfest or no supportit.</p><ul><li>Get in touch wi the wabsite owners tae lat them ken aboot this problem.</li></ul>">
 
 <!ENTITY unsafeContentType.title "File Type No Sauf">
+<!ENTITY unsafeContentType.longDesc "
+<ul>
+  <li>Get in touch wi the wabsite owners tae lat them ken aboot this problem.</li>
+</ul>
+">
 
+<!ENTITY netReset.title "Connection Interruptit">
+<!ENTITY netReset.longDesc "<p>The netwark link was interruptit while greein a connection. Gie it anither shot.</p>">
 
+<!ENTITY netTimeout.title "Netwark Timeoot">
+<!ENTITY netTimeout.longDesc "<p>The speirt-efter site didnae repone tae a connection speirin and the stravaiger has stapped waitin fur a reply.</p><ul><li>Mebbe the server is unnergawin muckle traffic or is doon jist noo?  Gie it anither shot efter.</li><li>Are ye no able tae stravaig ither sites? Check the computer’s netwark connection.</li><li>Is yer computer or netwark bieldit by a firewaw or proxy?  Settings that arenae richt can effect yer Wab stravaigin.</li><li>Still haein some fash? Speir yer netwark admeenistrator or Internet provider fur hauners.</li></ul>">
 
+<!ENTITY unknownProtocolFound.title "Unkent Protocol">
 
 
 
