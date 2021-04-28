@@ -34,6 +34,7 @@ carddav-location-label =
 carddav-location =
     .default-placeholder = URL abo hostowe mě adresnikowego serwera
 carddav-loading = Konfiguracija se pśepytujo…
+carddav-known-incompatible = { $url } jo znaty za to, až jo inkompatibleny z { -brand-short-name }.
 carddav-connection-error = Zwisk njejo móžny.
 carddav-none-found = Njedaju adresniki, kótarež daju se wěstemu kontoju pśidaś.
 carddav-already-added = Wšykne adresniki za pódane konto su se južo pśidali.
