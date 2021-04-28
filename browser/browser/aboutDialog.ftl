@@ -15,9 +15,9 @@ update-checkingForUpdates = 업데이트 확인 중…
 update-downloading = <img data-l10n-name="icon"/>업데이트 다운로드 중 — <label data-l10n-name="download-status"/>
 update-downloading-message = 업데이트 다운로드 중 — <label data-l10n-name="download-status"/>
 update-applying = 업데이트 적용 중…
-update-failed = 업데이트를 실패했습니다. <label data-l10n-name="failed-link">최신 버전 다운로드</label>
-update-failed-main = 업데이트를 실패했습니다. <a data-l10n-name="failed-link-main">최신 버전 다운로드</a>
-update-adminDisabled = 시스템 관리자가 업데이트를 비활성화하였음
+update-failed = 업데이트에 실패했습니다. <label data-l10n-name="failed-link">최신 버전 다운로드</label>
+update-failed-main = 업데이트에 실패했습니다. <a data-l10n-name="failed-link-main">최신 버전 다운로드</a>
+update-adminDisabled = 시스템 관리자에 의해 업데이트가 비활성화됨
 update-noUpdatesFound = { -brand-short-name }가 최신 버전입니다
 update-otherInstanceHandlingUpdates = 다른 { -brand-short-name }에서 이미 업데이트를 하고 있음
 update-manual = 업데이트 위치 <label data-l10n-name="manual-link"/>
