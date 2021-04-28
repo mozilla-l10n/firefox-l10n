@@ -91,8 +91,8 @@ toolbar-button-stop-reload =
 ## Firefox Account Button
 
 toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name(capitalization: "sentence") }
-    .tooltiptext = { -fxaccount-brand-name(capitalization: "sentence") }
+    .label = { -fxaccount-brand-name }
+    .tooltiptext = { -fxaccount-brand-name }
 
 ## Save Page
 
@@ -314,12 +314,12 @@ main-context-menu-image-email =
 main-context-menu-image-set-as-background =
     .label = Сделать фоновым рисунком рабочего стола…
     .accesskey = е
-main-context-menu-image-info =
-    .label = Информация об изображении
-    .accesskey = з
 main-context-menu-image-set-image-as-background =
     .label = Сделать фоновым рисунком рабочего стола…
     .accesskey = у
+main-context-menu-image-info =
+    .label = Информация об изображении
+    .accesskey = з
 main-context-menu-image-desc =
     .label = Описание изображения
     .accesskey = а
