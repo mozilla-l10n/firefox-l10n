@@ -11,3 +11,6 @@ account-reconnect-to-fxa = Konto jo wotźělone
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-disconnected = Zwisk jo źělony
+# Used as the FxA toolbar menu item title when the user
+# needs to reconnect their account.
+account-disconnected2 = Konto źělone
