@@ -14,12 +14,21 @@
 <!ENTITY deniedPortAccess.longDesc "<p>The speirt-efter address waled a port (e.g. <q>mozilla.org:80</q> fur port 80 on mozilla.org) that's yaised fur ordinar fur purposes <em>ither</em> than Wab stravaigin. The stravaiger has gied ower the spierin fur yer bieldin and siccarness.</p>">
 
 <!ENTITY dnsNotFound.title "Address No Fund">
+<!ENTITY dnsNotFound.longDesc "<p>The browser couldnae airt oot the host server fur the providit address.</p><ul><li>Did ye get sowt wrang when typin the domain? (e.g. <q><strong>ww</strong>.mozilla.org</q> insteid o <q><strong>www</strong>.mozilla.org</q>)</li><li>Are ye shair this domain address exists?  Its registration micht hae rin oot.</li><li>Are ye no able tae stravaig ither sites?  Check yer netwark connection and DNS server settins.</li><li>Is yer computer or netwark bieldit by a firewaw or proxy?  Settins that arenae richt can effect yer Wab stravaigin.</li></ul>">
 
+<!ENTITY fileNotFound.title "File No Fund">
+<!ENTITY fileNotFound.longDesc "<ul><li>Could the item hae had its nemme chynged, or been remuived, or flittit somewhaur else?</li><li>Is there a spellin, capitalisation, or ither typographical mishanter in the address?</li><li>Dae ye hae the richt ingang permeesions tae the speirt-efter item?</li></ul>">
 
 <!ENTITY fileAccessDenied.title "Ingang tae the file wis denied">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>It micht hae been remuived, flittit, or file permeesions micht be hinderin ingang.</li></ul>">
 
+<!ENTITY generic.title "Cannae Feenish Speirin">
+<!ENTITY generic.longDesc "<p>Mair information aboot this problem or mishanter isnae available jist noo.</p>">
 
+<!ENTITY malformedURI.title "Address Isnae Suithfest">
+<!ENTITY malformedURI.longDesc "<p>The address providit isnae in a kent format. Check the airtin baur fur mistakes and gie it anither shot.</p>">
 
+<!ENTITY netInterrupt.title "Data Transfer Interruptit">
 
 <!ENTITY notCached.title "Document Oot o Date">
 
