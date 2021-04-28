@@ -305,6 +305,10 @@ onboarding-multistage-theme-description-alpenglow =
 
 ## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 
+# This button will open system settings to turn on prefers-reduced-motion
+mr1-onboarding-reduce-motion-button-label = Искључи анимације
+mr1-onboarding-set-default-secondary-button-label = Не сада
+mr1-onboarding-sign-in-button-label = Пријави ме
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
