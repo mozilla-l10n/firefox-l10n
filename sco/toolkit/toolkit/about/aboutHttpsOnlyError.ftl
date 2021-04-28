@@ -17,6 +17,8 @@ about-httpsonly-explanation-unavailable2 = Ye’ve enabled HTTPS-Anely Mode fur 
 about-httpsonly-explanation-question = Whit's gawin on here?
 about-httpsonly-explanation-nosupport = Like as no, the wabsite jist disnae support HTTPS.
 about-httpsonly-explanation-risk = It could be as weel that an ondinger is involved. Gin ye decide tae veesit the wabsite, ye shouldnae inpit ony sensitive information like passwirds, emails, or credit caird details.
+about-httpsonly-explanation-continue = Gin ye haud forrit, HTTPS-Anely Mode will be turnt aff for this site jist for the noo.
+about-httpsonly-button-continue-to-site = Haud Forrit tae HTTP Site
 about-httpsonly-button-go-back = Gang Back
 about-httpsonly-link-learn-more = Lairn Mair...
 
