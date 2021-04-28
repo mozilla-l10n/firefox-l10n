@@ -12,6 +12,10 @@
 
 <!-- Field labels for input type=time -->
 
+<!ENTITY time.hour.label "Oors">
+<!ENTITY time.minute.label "Meenits">
+<!ENTITY time.second.label "Seconds">
+<!ENTITY time.millisecond.label "Milliseconds">
 <!ENTITY time.dayperiod.label "AM/PM">
 
 <!-- Placeholders for input type=date -->
@@ -22,6 +26,10 @@
 
 <!-- Field labels for input type=date -->
 
+<!ENTITY date.year.label "Year">
+<!ENTITY date.month.label "Month">
+<!ENTITY date.day.label "Day">
 
 <!-- Date/time clear button -->
 
+<!ENTITY datetime.reset.label "Dicht">
