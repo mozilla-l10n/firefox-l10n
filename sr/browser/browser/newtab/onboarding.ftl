@@ -307,6 +307,34 @@ onboarding-multistage-theme-description-alpenglow =
 
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Искључи анимације
+mr1-onboarding-welcome-header =
+    Добро дошли у { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "acc") }
+        [feminine] { -brand-short-name(case: "acc") }
+        [neuter] { -brand-short-name(case: "acc") }
+       *[other] програм { -brand-short-name }
+    }
+mr1-onboarding-set-default-pin-primary-button-label =
+    Постави програм { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "acc") }
+        [feminine] { -brand-short-name(case: "acc") }
+        [neuter] { -brand-short-name(case: "acc") }
+       *[other] програм { -brand-short-name }
+    } као примарни прегледач
+    .title =
+        Sets { -brand-short-name.gender ->
+            [masculine] { -brand-short-name(case: "acc") } као подразумевани прегледач и качи га
+            [feminine] { -brand-short-name(case: "acc") } као подразумевани прегледач и качи је
+            [neuter] { -brand-short-name(case: "acc") } као подразумевани прегледач и качи га
+           *[other] програм { -brand-short-name } као подразумевани прегледач и качи га
+        } на траку задатака
+mr1-onboarding-set-default-only-primary-button-label =
+    Постави { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "acc") }
+        [feminine] { -brand-short-name(case: "acc") }
+        [neuter] { -brand-short-name(case: "acc") }
+       *[other] програм { -brand-short-name }
+    } као подразумевани прегледач
 mr1-onboarding-set-default-secondary-button-label = Не сада
 mr1-onboarding-sign-in-button-label = Пријави ме
 
