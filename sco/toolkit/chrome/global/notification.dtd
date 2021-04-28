@@ -2,9 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY closeNotification.tooltip "Sneck this message">
 
 <!ENTITY checkForUpdates "Check fur updates...">
 
 <!ENTITY learnMoreNoEllipsis "Lairn mair">
 
+<!ENTITY defaultButton.label "Awricht!">
+<!ENTITY defaultButton.accesskey "O">
 
+<!ENTITY moreActionsButton.accessibleLabel "Mair actions">

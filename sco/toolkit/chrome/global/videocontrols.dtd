@@ -11,9 +11,12 @@
 <!ENTITY muteButton.muteLabel "Wheesht">
 <!ENTITY muteButton.unmuteLabel "Unwheesht">
 <!ENTITY fullscreenButton.enterfullscreenlabel "Hale Screen">
+<!ENTITY fullscreenButton.exitfullscreenlabel "Ootgang fae Hale Screen">
+<!ENTITY castingButton.castingLabel "Cast tae Screen">
 <!ENTITY closedCaption.off "Aff">
 <!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
      accessibility software to clarify what the slider is for. -->
+<!ENTITY volumeScrubber.label "Volume slider">
 
 <!-- LOCALIZATION NOTE (pictureInPicture.label): This string is used as part of
 the Picture-in-Picture video toggle button when the mouse is hovering it. -->
@@ -26,8 +29,16 @@ hovering over the video. -->
 <!-- LOCALIZATION NOTE (pictureInPictureExplainer): This string is used as part of
 a variation of the Picture-in-Picture video toggle button. When using this variation,
 this string appears below the toggle when the mouse hovers the toggle. -->
+<!ENTITY pictureInPictureExplainer "Pley videos in the foregrund while ye dae ither things in &brandShortName;">
 
+<!ENTITY error.aborted "Video loadin stapped.">
+<!ENTITY error.network "Video pleyback gied ower acause o a netwark mishanter.">
+<!ENTITY error.decode "Video cannae be pleyed acause the file is camshauchlet.">
+<!ENTITY error.srcNotSupported "Video format or MIME type isnae supportit.">
+<!ENTITY error.noSource2 "Nae video wi supportit format and MIME type fund.">
+<!ENTITY error.generic "Video pleyback gied ower acause o an unkent mishanter.">
 
+<!ENTITY status.pictureInPicture "This video is pleyin in Pictur-in-Pictur mode.">
 
 <!-- LOCALIZATION NOTE (positionAndDuration.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at

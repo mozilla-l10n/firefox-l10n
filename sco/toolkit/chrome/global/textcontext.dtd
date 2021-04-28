@@ -2,9 +2,23 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY spellAddToDictionary.label "Eik on tae Dictionary">
 <!ENTITY spellAddToDictionary.accesskey "o">
+<!ENTITY spellUndoAddToDictionary.label "Undae Eik On Tae Dictionary">
 <!ENTITY spellUndoAddToDictionary.accesskey "n">
+<!ENTITY spellCheckToggle.label "Check Spellin">
 <!ENTITY spellCheckToggle.accesskey "g">
+<!ENTITY spellNoSuggestions.label "(Nae Spellin Suggestions)">
+<!ENTITY spellDictionaries.label "Leids">
 <!ENTITY spellDictionaries.accesskey "l">
 
+<!ENTITY searchTextBox.clear.label "Dicht">
 
+<!ENTITY fillLoginMenu.label          "Fill Login">
+<!ENTITY fillLoginMenu.accesskey      "F">
+<!ENTITY fillPasswordMenu.label       "Fill Passwird">
+<!ENTITY fillPasswordMenu.accesskey   "F">
+<!ENTITY fillUsernameMenu.label       "Fill Yaiser Nemme">
+<!ENTITY fillUsernameMenu.accesskey   "F">
+<!ENTITY noLoginSuggestions.label     "(Nae Login Suggestions)">
+<!ENTITY viewSavedLogins.label        "View Saved Logins">
