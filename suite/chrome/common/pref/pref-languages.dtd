@@ -1,0 +1,30 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- LOCALIZATION NOTE : FILE 'Languages' preferences dialog -->
+
+<!ENTITY languages.customize.prefLangDescript           "Spletne strani so včasih na voljo v več jezikih. Izberite prednostni vrstni red jezikov za prikaz strani.">
+<!ENTITY languages.customize.title                      "Jeziki">
+<!ENTITY langtitle.label                                "Jeziki za spletne strani">
+<!ENTITY languages.customize.prefAddLangDescript        "Izberite jezik ali jezike, ki jih želite dodati.">
+<!ENTITY languages.customize.addButton.label            "Dodaj …">
+<!ENTITY languages.customize.addButton.accesskey        "D">
+<!ENTITY languages.customize.deleteButton.label         "Odstrani">
+<!ENTITY languages.customize.deleteButton.accesskey     "O">
+<!ENTITY languages.customize.add.title.label            "Dodaj jezike">
+<!ENTITY languages.customize.available.label            "Jeziki:">
+<!ENTITY languages.customize.active.label               "Jeziki v prednostnem vrstnem redu:">
+<!ENTITY languages.customize.active.accesskey           "J">
+<!ENTITY languages.customize.others.label               "Ostali:">
+<!ENTITY languages.customize.others.accesskey           "t">
+<!ENTITY languages.customize.Fallback2.grouplabel       "Nabor znakov za starejše vsebine">
+<!ENTITY languages.customize.Fallback2.label            "Privzet nabor znakov:">
+<!ENTITY languages.customize.Fallback2.accesskey        "z">
+<!ENTITY languages.customize.Fallback2.desc             "Uporablja se za starejšo vsebino, ki ne opredeljuje svojega nabora znakov.">
+<!-- LOCALIZATION NOTE  Character Encoding Preferences Dialog: Do NOT localize the terms "en-bz, ar-jo"  -->
+<!ENTITY languages.customize.others.examples            "npr.: en-bz, ar-jo">
+<!ENTITY languages.customize.moveUp.label               "Premakni gor">
+<!ENTITY languages.customize.moveUp.accesskey           "g">
+<!ENTITY languages.customize.moveDown.label             "Premakni dol">
+<!ENTITY languages.customize.moveDown.accesskey         "d">
