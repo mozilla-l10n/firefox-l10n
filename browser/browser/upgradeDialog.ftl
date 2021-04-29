@@ -9,6 +9,9 @@
 ## New changes screen
 
 upgrade-dialog-new-item-tabs-title = Сучасныя карткі
+upgrade-dialog-new-primary-primary-button = Зрабіць { -brand-short-name } маім асноўным браўзерам
+    .title = Усталёўвае { -brand-short-name } прадвызначаным браўзерам і замацоўвае ў панэлі задач
+upgrade-dialog-new-primary-default-button = Зрабіць { -brand-short-name } маім прадвызначаным браўзерам
 upgrade-dialog-new-primary-pin-button = Замацаваць { -brand-short-name } на панэлі задач
 upgrade-dialog-new-primary-theme-button = Выберыце тэму
 upgrade-dialog-new-secondary-button = Не зараз
