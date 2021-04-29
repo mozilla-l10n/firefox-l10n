@@ -34,6 +34,7 @@ carddav-location-label =
 carddav-location =
     .default-placeholder = URL o nome dell’host del server della rubrica
 carddav-loading = Ricerca configurazione…
+carddav-known-incompatible = { $url } presenta delle incompatibilità note con { -brand-short-name }.
 carddav-connection-error = Connessione non riuscita
 carddav-none-found = Non sono state trovate rubriche da aggiungere per l’account specificato.
 carddav-already-added = Tutte le rubriche per l’account specificato sono già state aggiunte.
