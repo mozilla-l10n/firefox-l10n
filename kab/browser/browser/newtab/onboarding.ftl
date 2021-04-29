@@ -267,8 +267,12 @@ mr1-welcome-screen-hero-text = Syagi ara yebdu kullec
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Sens imrayen
 mr1-onboarding-welcome-header = Ansuf ɣer { -brand-short-name }
+mr1-onboarding-set-default-pin-primary-button-label = Err { -brand-short-name } d iminig-iw agejdan
+    .title = Isbadu { -brand-short-name } d iminig amezwer yerna isenteḍ-it ɣer ufaggag n twuriwin
+mr1-onboarding-set-default-only-primary-button-label = Err { -brand-short-name } d iminig-iw amezwer
 mr1-onboarding-set-default-secondary-button-label = Mačči tura
 mr1-onboarding-sign-in-button-label = Kcem
+mr1-onboarding-import-header = Awi kullec yid-k·m
 mr1-onboarding-import-secondary-button-label = Mačči tura
 mr1-onboarding-theme-primary-button-label = Sekles asentel
 mr1-onboarding-theme-secondary-button-label = Mačči tura
