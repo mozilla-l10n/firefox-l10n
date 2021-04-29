@@ -31,5 +31,5 @@ push-end-point-result = <strong>Push Endpoint:</strong> { $name }
 # This term is used as a button label (verb, not noun).
 update-button = Ажурирај
 unregister-button = Опозови регистрацију
-unregister-error = Одјава овог сервис воркера није успела.
+unregister-error = Опозив регистрације овог сервис воркера није успео.
 waiting = Чекање…

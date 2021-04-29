@@ -54,6 +54,8 @@ perftools-button-edit-settings = Уреди подешавања…
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
+perftools-thread-img-decoder =
+    .title = Нити за декодирање слика
 
 ##
 
