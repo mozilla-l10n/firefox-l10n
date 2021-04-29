@@ -260,7 +260,7 @@ about-debugging-worker-action-push2 = Push
 about-debugging-worker-action-start2 = Start
     .disabledTitle = Service Worker start is currently disabled for multiprocess { -brand-shorter-name }
 # This string is displayed as a label of the button that unregisters a service worker.
-about-debugging-worker-action-unregister = Unregister
+about-debugging-worker-action-unregister = Опозови регистрацију
 # Displayed for service workers in runtime pages that listen to Fetch events.
 about-debugging-worker-fetch-listening =
     .label = Fetch
