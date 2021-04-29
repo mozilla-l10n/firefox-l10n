@@ -5,14 +5,18 @@
 
 ## App Menu
 
-appmenuitem-update-banner =
-    .label-update-downloading = Asader n lqem { -brand-shorter-name }
 appmenuitem-update-banner2 =
     .label-update-downloading = Asader n lqem { -brand-shorter-name }
     .label-update-available = Lqem yella — sader tura
     .label-update-manual = Lqem yella — sader tura
     .label-update-unsupported = Yegguma ad yettuleqqem
     .label-update-restart = Lqem yella — ales asenker tura
+appmenuitem-update-banner3 =
+    .label-update-downloading = Asader n lqem { -brand-shorter-name }
+    .label-update-available = Yella lqem — sader tura
+    .label-update-manual = Yella lqem — sader tura
+    .label-update-unsupported = D awezɣi ad yettuleqqem — anagraw ur yemṣada ara
+    .label-update-restart = Yella lqem — ales asenker tura
 appmenuitem-protection-dashboard-title = Ammesten n tfelwit n usenqed
 appmenuitem-customize-mode =
     .label = Sagen…
@@ -25,8 +29,6 @@ appmenuitem-new-private-window =
     .label = Asfaylu amaynut n tunigin tusligt
 appmenuitem-passwords =
     .label = Awalen uffiren
-appmenuitem-extensions-and-themes =
-    .label = Iseɣzaf d yisental
 appmenuitem-addons-and-themes =
     .label = Izegrar d yisental
 appmenuitem-find-in-page =
@@ -162,11 +164,6 @@ appmenu-about =
 appmenu-get-help =
     .label = Awi tallalt
     .accesskey = A
-appmenu-help-troubleshooting-info =
-    .label = Talɣut n usellek
-    .accesskey = Γ
-appmenu-help-taskmanager =
-    .label = Amsefrak n twuri
 appmenu-help-more-troubleshooting-info =
     .label = Ugar n telɣut n usellek
     .accesskey = U
@@ -175,16 +172,6 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = Efk-d tamuɣli-ik…
     .accesskey = M
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Ales asenker s yizegrar irurmiden…
-    .accesskey = A
-appmenu-help-safe-mode-with-addons =
-    .label = Ales asenker s yizegrar urmiden
-    .accesskey = A
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
