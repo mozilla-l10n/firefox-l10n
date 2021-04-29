@@ -12,8 +12,8 @@ default-browser-notification-button =
 ## depending on the operating system (Windows vs other). The checkbox label and
 ## secondary button are shared between the variants.
 
-default-browser-prompt-title-pin = Velje { -brand-short-name } som standardnettlesar?
-default-browser-prompt-button-primary-pin = Vel som standardnettlesar
+default-browser-prompt-title-pin = Velje { -brand-short-name } som primærnettlesar?
+default-browser-prompt-button-primary-pin = Vel som primærnettlesar
 default-browser-prompt-title-alt = Bruke { -brand-short-name } som standardnettlesar?
 default-browser-prompt-button-primary-alt = Vel som standardnettlesar
 default-browser-prompt-checkbox-not-again-label = Ikkje vis denne meldinga meir
