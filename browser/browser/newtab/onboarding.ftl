@@ -180,7 +180,7 @@ onboarding-multistage-pin-default-subtitle = Rask, sikker og privat nettlesing k
 onboarding-multistage-pin-default-waiting-subtitle = Vel { -brand-short-name } under nettlesar når innstillingane dine vert opna
 # The "settings" here refers to "Windows 10 Settings App" and not the browser's
 onboarding-multistage-pin-default-help-text = Dette vil feste { -brand-short-name } til oppgavelinja og opne innstillingar
-onboarding-multistage-pin-default-primary-button-label = Vel { -brand-short-name } som standardnettlesar
+onboarding-multistage-pin-default-primary-button-label = Vel { -brand-short-name } som primærnettlesar
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Importer passord, bokmerke og <span data-l10n-name="zap">meir</span>
@@ -271,7 +271,7 @@ mr1-welcome-screen-hero-text = Det byrjar her
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Slå av animasjonar
 mr1-onboarding-welcome-header = Velkomen til { -brand-short-name }
-mr1-onboarding-set-default-pin-primary-button-label = Vel { -brand-short-name } som standardnettlesar
+mr1-onboarding-set-default-pin-primary-button-label = Vel { -brand-short-name } som primærnettlesar
     .title = Stiller innn { -brand-short-name } som standardnettlesar og festar han til oppgåvelinja
 mr1-onboarding-set-default-only-primary-button-label = Vel { -brand-short-name } som stanardnettlesar
 mr1-onboarding-set-default-secondary-button-label = Ikkje no
