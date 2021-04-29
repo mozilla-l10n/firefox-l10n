@@ -13,7 +13,7 @@
 policy-3rdparty = WebExtensions이 chrome.storage.managed를 통해 액세스할 수 있는 정책을 설정합니다.
 policy-AllowedDomainsForApps = Google Workspace에 액세스할 수 있는 도메인을 정의합니다.
 policy-AppAutoUpdate = 애플리케이션 자동 업데이트를 사용하거나 사용하지 않게 합니다.
-policy-AppUpdateURL = 커스텀 앱 업데이트 URL을 설정합니다.
+policy-AppUpdateURL = 사용자 지정 앱 업데이트 URL을 설정합니다.
 policy-Authentication = 통합 인증을 지원하는 웹 사이트를 위한 설정을 합니다.
 policy-BackgroundAppUpdate2 = 백그라운드 업데이터를 사용하거나 사용하지 않게 합니다.
 policy-BlockAboutAddons = 부가 기능 관리자(about:addons) 접근을 차단합니다.
@@ -89,7 +89,7 @@ policy-NetworkPrediction = 네트워크 예측(DNS 프리페칭)을 사용하거
 policy-NewTabPage = 새 탭 페이지를 사용하거나 사용하지 않게 합니다.
 policy-NoDefaultBookmarks = { -brand-short-name } 기본 북마크 번들과 스마트 북마크(자주 방문, 최근 태그)가 생성되지 않게 합니다. 참고: 이 정책은 프로필을 처음으로 실행하기 전에만 효과적입니다.
 policy-OfferToSaveLogins = { -brand-short-name }가 로그인과 비밀번호 기억을 제공하도록 허용하는 설정을 강제합니다. True와 false 값을 사용할 수 있습니다.
-policy-OfferToSaveLoginsDefault = 저장된 로그인과 비밀번호를 기억하도록 { -brand-short-name }가 제공하는 기본값을 설정하세요. true 및 false 값이 모두 허용됩니다.
+policy-OfferToSaveLoginsDefault = 저장된 로그인과 비밀번호를 기억하도록 { -brand-short-name }가 제공하는 기본값을 설정합니다. true 및 false 값이 모두 허용됩니다.
 policy-OverrideFirstRunPage = 첫 실행 페이지를 재정의합니다. 첫 실행 페이지를 사용 안 하려면 이 정책을 빈칸으로 설정하세요.
 policy-OverridePostUpdatePage = 업데이트 후 "새 기능" 페이지를 재정의합니다. 업데이트 후 페이지를 사용 안 하려면 이 정책을 빈칸으로 설정하세요.
 policy-PasswordManagerEnabled = 비밀번호 관리자에 비밀번호 저장을 사용합니다.
