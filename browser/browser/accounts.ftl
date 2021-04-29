@@ -10,5 +10,4 @@ account-finish-account-setup = Completa configurazione account
 # needs to reconnect their account.
 account-reconnect-to-fxa = Account disconnesso
 
-account-disconnected = Disconnesso
 account-disconnected2 = Account disconnesso
