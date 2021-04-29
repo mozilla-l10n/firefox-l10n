@@ -19,7 +19,7 @@ can reach it easily. -->
 <!ENTITY  pinTab.label                       "Закачи картицу">
 <!ENTITY  unpinTab.label                     "Откачи картицу">
 
-<!ENTITY  listAllTabs.label      "Наброј све језичке">
+<!ENTITY  listAllTabs.label      "Прикажи све картице">
 
 <!ENTITY tabCmd.label "Нова картица">
 <!ENTITY openFileCmd.label "Отвори датотеку…">
@@ -171,14 +171,14 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showAll.label "Прикажи све">
-<!ENTITY appMenuRemoteTabs.showAll.tooltip "Прикажи све језичке са овог уређаја">
+<!ENTITY appMenuRemoteTabs.showAll.tooltip "Прикажи све картице са овог уређаја">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Укључите синхронизацију да бисте видели листу картица са других уређаја.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.subtitle "Желите да овде видите језичке са осталих уређаја?">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "Желите ли да овде видите картице са других уређаја?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Отвори подешавања Sync-а">
 <!ENTITY appMenuRemoteTabs.welcome.label "Погледајте листу картица са других уређаја.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Ваш налог мора бити потврђен.">
