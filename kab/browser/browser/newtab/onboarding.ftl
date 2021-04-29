@@ -273,16 +273,67 @@ mr1-onboarding-set-default-only-primary-button-label = Err { -brand-short-name }
 mr1-onboarding-set-default-secondary-button-label = Mačči tura
 mr1-onboarding-sign-in-button-label = Kcem
 mr1-onboarding-import-header = Awi kullec yid-k·m
+mr1-onboarding-import-subtitle = Kter awalen-ik·im uffiren, <br/>ticraḍ n yisebtar d wayen-nniḍen.
+# The primary import button label will depend on whether we can detect which browser was used to download Firefox.
+# Variables:
+#   $previous (Str) - Previous browser name, such as Edge, Chrome
+mr1-onboarding-import-primary-button-label-attribution = Kter seg { $previous }
+# This string will be used in cases where we can't detect the previous browser name.
+mr1-onboarding-import-primary-button-label-no-attribution = Kter seg yiminig wayeḍ
 mr1-onboarding-import-secondary-button-label = Mačči tura
+mr1-onboarding-theme-header = Err-it d ayla-k·m
+mr1-onboarding-theme-subtitle = Err { -brand-short-name } d udmawan s usentel.
 mr1-onboarding-theme-primary-button-label = Sekles asentel
 mr1-onboarding-theme-secondary-button-label = Mačči tura
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Asentel n unagraw
 mr1-onboarding-theme-label-light = Aceɛlal
 mr1-onboarding-theme-label-dark = Aberkan
+# "Alpenglow" here is the name of the theme, and should be kept in English.
+mr1-onboarding-theme-label-alpenglow = Alpenglow
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of system theme
+mr1-onboarding-theme-tooltip-system =
+    .title =
+        Seqdec asentel n unagraw n wammud,
+        i tqeffalin, umuɣen d yisfuyla.
+# Input description for system theme
+mr1-onboarding-theme-description-system =
+    .aria-description =
+        Seqdec asentel n unagraw n wammud,
+        i tqeffalin, umuɣen d yisfuyla.
+# Tooltip displayed on hover of light theme
+mr1-onboarding-theme-tooltip-light =
+    .title =
+        Seqdec asentel aceεlal i tqeffalin,
+        umuɣen d yisfuyla.
+# Input description for light theme
+mr1-onboarding-theme-description-light =
+    .aria-description =
+        Seqdec asentel aceεlal i tqeffalin,
+        umuɣen d yisfuyla.
+# Tooltip displayed on hover of dark theme
+mr1-onboarding-theme-tooltip-dark =
+    .title =
+        Seqdec asentel aberkan i tqeffalin,
+        umuɣen d yiwfuyla.
+# Input description for dark theme
+mr1-onboarding-theme-description-dark =
+    .aria-description =
+        Seqdec asentel aberkan i tqeffalin,
+        umuɣen d yiwfuyla.
+# Tooltip displayed on hover of Alpenglow theme
+mr1-onboarding-theme-tooltip-alpenglow =
+    .title =
+        Seqdec asentel arurad, s yini aččuran i tqeffalin,
+        umuɣen d yiwfuyla.
+# Input description for Alpenglow theme
+mr1-onboarding-theme-description-alpenglow =
+    .aria-description =
+        Seqdec asentel arurad, s yini aččuran i tqeffalin,
+        umuɣen d yiwfuyla.
