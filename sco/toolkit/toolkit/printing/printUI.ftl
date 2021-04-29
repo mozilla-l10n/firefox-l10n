@@ -30,9 +30,37 @@ printui-two-sided-printing = Twa-sided prentin
 printui-two-sided-printing-off = Aff
 # Section title for miscellaneous print options
 printui-options = Options
+printui-headers-footers-checkbox = Prent heiders and dowp-enders
+printui-backgrounds-checkbox = Prent backgrunds
+printui-color-mode-label = Colour mode
+printui-color-mode-color = Colour
+printui-color-mode-bw = Black and white
+printui-margins-default = Staunart
+printui-margins-none = Nane
+printui-margins-custom-top = Tap
+printui-margins-custom-top-inches = Tap (inches)
+printui-margins-custom-top-mm = Tap (mm)
+printui-margins-custom-left = Left
+printui-margins-custom-left-inches = Left (inches)
+printui-margins-custom-left-mm = Left (mm)
+printui-margins-custom-right = Richt
+printui-margins-custom-right-inches = Richt (inches)
+printui-margins-custom-right-mm = Richt (mm)
+printui-system-dialog-link = Prent yaisin the seestem dialogue…
 printui-primary-button = Prent
 printui-primary-button-save = Save
+printui-cancel-button = Stap
 printui-close-button = Sneck
+printui-loading = Reddin Preview
+# Reported by screen readers and other accessibility tools to indicate that
+# the print preview has focus.
+printui-preview-label =
+    .aria-label = Prent Preview
+printui-pages-per-sheet = Pages per sheet
+# This is shown next to the Print button with an indefinite loading spinner
+# when the user prints a page and it is being sent to the printer.
+printui-print-progress-indicator = Prentin…
+printui-print-progress-indicator-saving = Savin…
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
