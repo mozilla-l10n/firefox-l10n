@@ -96,25 +96,35 @@
   -  label for the checkbox that toggles the flattening of tree recursion in inspected
   -  functions in the profiler. -->
 <!ENTITY performanceUI.flattenTreeRecursion             "Plache l'arbul des ricorsions">
+<!ENTITY performanceUI.flattenTreeRecursion.tooltiptext "Plache lis ricorsion dulinvie lis ispezions des funzions.">
 
 <!-- LOCALIZATION NOTE (performanceUI.enableMemory): This string
   -  is displayed next to a checkbox determining whether or not memory
   -  measurements are enabled. -->
+<!ENTITY performanceUI.enableMemory             "Regjistre memorie">
+<!ENTITY performanceUI.enableMemory.tooltiptext "Regjistre il consum de memorie intant che si profile.">
 
 <!-- LOCALIZATION NOTE (performanceUI.enableAllocations): This string
   -  is displayed next to a checkbox determining whether or not allocation
   -  measurements are enabled. -->
+<!ENTITY performanceUI.enableAllocations             "Regjistre lis assegnazions">
+<!ENTITY performanceUI.enableAllocations.tooltiptext "Regjistre lis assegnazions dai ogjets intant che si profile.">
 
 <!-- LOCALIZATION NOTE (performanceUI.enableFramerate): This string
   -  is displayed next to a checkbox determining whether or not framerate
   -  is recorded. -->
+<!ENTITY performanceUI.enableFramerate             "Regjistre la frecuence des imagjins">
+<!ENTITY performanceUI.enableFramerate.tooltiptext "Regjistre la frecuence des imagjins intant che si profile.">
 
 <!-- LOCALIZATION NOTE (performanceUI.console.recordingNoticeStart/recordingNoticeEnd):
   -  This string is displayed when a recording is selected that started via console.profile.
   -  Wraps the command used to start, like "Currently recording via console.profile("label")" -->
+<!ENTITY performanceUI.console.recordingNoticeStart "Regjistrazion in cors vie">
 <!ENTITY performanceUI.console.recordingNoticeEnd   "">
 
 <!-- LOCALIZATION NOTE (performanceUI.console.stopCommandStart/stopCommandEnd):
   -  This string is displayed when a recording is selected that started via console.profile.
   -  Indicates how to stop the recording, wrapping the command, like
   -  "Stop recording by entering console.profileEnd("label") into the console." -->
+<!ENTITY performanceUI.console.stopCommandStart "Ferme di regjistrâ scrivint">
+<!ENTITY performanceUI.console.stopCommandEnd   "inte cosole.">
