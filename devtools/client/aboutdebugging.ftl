@@ -255,7 +255,7 @@ about-debugging-extension-id =
 # Note this relates to the "Push" API, which is normally not localized so it is
 # probably better to not localize it.
 about-debugging-worker-action-push2 = Push
-    .disabledTitle = Service Worker push is currently disabled for multiprocess { -brand-shorter-name }
+    .disabledTitle = Слање push обавештења помоћу сервис воркера је онемогућено за вишепроцесни { -brand-shorter-name }
 # This string is displayed as a label of the button that starts a service worker.
 about-debugging-worker-action-start2 = Start
     .disabledTitle = Service Worker start is currently disabled for multiprocess { -brand-shorter-name }

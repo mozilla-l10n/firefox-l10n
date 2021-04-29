@@ -9,7 +9,6 @@ about-service-workers-title = О Service Workers
 about-service-workers-main-title = Регистровани Service Workers
 about-service-workers-warning-not-enabled = Service Workers нису омогућени.
 about-service-workers-warning-no-service-workers = Нема регистрованих Service Workers.
-
 # The original title of service workers' information
 #
 # Variables:
@@ -29,12 +28,8 @@ active-cache-name = <strong>Active Cache Name:</strong> { $name }
 waiting-cache-name = <strong>Waiting Cache Name:</strong> { $name }
 push-end-point-waiting = <strong>Push Endpoint:</strong> { waiting }
 push-end-point-result = <strong>Push Endpoint:</strong> { $name }
-
 # This term is used as a button label (verb, not noun).
 update-button = Ажурирај
-
 unregister-button = Одјава
-
-unregister-error = Неуспешна одјава ово Service Worker-а.
-
+unregister-error = Одјава овог сервис воркера није успела.
 waiting = Чекање…
