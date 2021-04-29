@@ -5,12 +5,12 @@
 places-open =
     .label = Avrir
     .accesskey = A
-places-open-tab =
-    .label = Avrir en in nov tab
-    .accesskey = t
 places-open-in-tab =
     .label = Avrir en in nov tab
     .accesskey = v
+places-open-tab =
+    .label = Avrir en in nov tab
+    .accesskey = t
 places-open-all-bookmarks =
     .label = Avrir tut ils segnapaginas
     .accesskey = A
@@ -20,9 +20,15 @@ places-open-all-in-tabs =
 places-open-window =
     .label = Avrir en ina nova fanestra
     .accesskey = f
+places-open-in-window =
+    .label = Avrir en ina nova fanestra
+    .accesskey = n
 places-open-private-window =
     .label = Avrir en ina nova fanestra privata
     .accesskey = P
+places-open-in-private-window =
+    .label = Avrir en ina nova fanestra privata
+    .accesskey = p
 places-new-bookmark =
     .label = Nov segnapagina…
     .accesskey = N
@@ -35,12 +41,6 @@ places-new-folder =
 places-new-separator =
     .label = Nova lingia da separaziun
     .accesskey = N
-places-open-in-window =
-    .label = Avrir en ina nova fanestra
-    .accesskey = n
-places-open-in-private-window =
-    .label = Avrir en ina nova fanestra privata
-    .accesskey = p
 places-add-bookmark =
     .label = Agiuntar in segnapagina…
     .accesskey = s
@@ -91,6 +91,16 @@ places-edit-bookmark =
 places-edit-generic =
     .label = Modifitgar…
     .accesskey = i
+places-edit-folder =
+    .label = Renumnar l'ordinatur…
+    .accesskey = e
+places-remove-folder =
+    .label =
+        { $count ->
+            [1] Allontanar l'ordinatur
+           *[other] Allontanar ils ordinaturs
+        }
+    .accesskey = l
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Segnapaginas administrads
