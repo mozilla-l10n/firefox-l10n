@@ -10,6 +10,7 @@ search-header =
     .searchbuttonlabel = Rechercher
 search-header-shortcut =
     .key = f
+list-empty-get-extensions-message = Téléchargez des extensions et des thèmes sur <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-installed =
     .value = Vous n’avez aucun module de ce type installé
 list-empty-available-updates =
