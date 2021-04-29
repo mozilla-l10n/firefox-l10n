@@ -48,7 +48,14 @@
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 <!ENTITY performanceUI.table.totalDuration            "Timp totâl">
-<!ENTITY performanceUI.table.totalDuration.tooltip    "La cuantitât di timp pierdût in cheste funzion e lis funzions che e clame.">
+<!ENTITY performanceUI.table.totalDuration.tooltip    "La cuantitât di timp passât in cheste funzion e tes funzions che e clame.">
+<!ENTITY performanceUI.table.selfDuration             "Timp individuâl">
+<!ENTITY performanceUI.table.selfDuration.tooltip     "La cuantitât di timp passât dome in cheste funzion.">
+<!ENTITY performanceUI.table.totalPercentage          "Cost totâl">
+<!ENTITY performanceUI.table.totalPercentage.tooltip  "La percentuâl di timp passât in cheste funzion e tes funzions che e clame.">
+<!ENTITY performanceUI.table.selfPercentage           "Cost individuâl">
+<!ENTITY performanceUI.table.selfPercentage.tooltip   "La percentuâl di timp passât dome in cheste funzion.">
+<!ENTITY performanceUI.table.samples                  "Campions">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
