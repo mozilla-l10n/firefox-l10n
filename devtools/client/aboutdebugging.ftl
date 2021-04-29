@@ -155,7 +155,7 @@ about-debugging-runtime-tabs =
     .name = Картице
 # Title of the service workers category.
 about-debugging-runtime-service-workers =
-    .name = Service Workers
+    .name = Сервис воркери
 # Title of the shared workers category.
 about-debugging-runtime-shared-workers =
     .name = Shared Workers

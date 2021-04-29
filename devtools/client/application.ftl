@@ -126,6 +126,10 @@ manifest-icon-img-title-no-sizes = Икона ненаведене величи�
 sidebar-item-manifest = Манифест
     .alt = Икона манифеста
     .title = Манифест
+# Sidebar navigation item for Service Workers sidebar item section
+sidebar-item-service-workers = Сервис воркери
+    .alt = Икона сервис воркера
+    .title = Сервис воркери
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
     .alt = Икона упозорења
