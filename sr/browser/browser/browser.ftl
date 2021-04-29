@@ -235,8 +235,8 @@ search-one-offs-change-settings-button =
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Промени подешавања претраге
 search-one-offs-context-open-new-tab =
-    .label = Претражи у новом језичку
-    .accesskey = T
+    .label = Претражи на новој картици
+    .accesskey = П
 search-one-offs-context-set-as-default =
     .label = Постави као подразумевани претраживач
     .accesskey = П
@@ -505,8 +505,8 @@ urlbar-placeholder-search-mode-other-history =
     .aria-label = Претражи историју
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
-    .placeholder = Унеси појмове за претрагу
-    .aria-label = Претражи језичке
+    .placeholder = Унесите термин за претрагу
+    .aria-label = Претражи картице
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -580,7 +580,7 @@ urlbar-result-action-calculator-result = = { $result }
 
 urlbar-result-action-search-bookmarks = Претражи обележиваче
 urlbar-result-action-search-history = Претражи историју
-urlbar-result-action-search-tabs = Претражи језичке
+urlbar-result-action-search-tabs = Претражи картице
 
 ## Full Screen and Pointer Lock UI
 
