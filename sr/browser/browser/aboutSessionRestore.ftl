@@ -5,7 +5,7 @@
 restore-page-tab-title = Враћање сесије
 # The title is intended to be apologetic and disarming, expressing dismay
 # and regret that we are unable to restore the session for the user
-restore-page-error-title = Жао нам је. Имамо проблем са повраћајем ваших страница.
+restore-page-error-title = Дошло је до проблема при враћању страница
 restore-page-problem-desc = Није могуће вратити вашу последњу сесију. Покушајте поново кликом на дугме „Врати сесију”.
 restore-page-try-this = Још увек не можете да вратите сесију? Понекад је картица узрок томе. Прегледајте претходне картице, уклоните ознаку са оних које вам не требају и покушајте поново.
 restore-page-hide-tabs = Сакриј претходне картице
@@ -17,7 +17,7 @@ restore-page-show-tabs = Прикажи претходне картице
 #    $windowNumber: Progressive number associated to each window
 restore-page-window-label = Прозор { $windowNumber }
 restore-page-restore-header =
-    .label = Обнављање
+    .label = Враћање
 restore-page-list-header =
     .label = Прозори и картице
 restore-page-try-again-button =
@@ -29,12 +29,12 @@ restore-page-close-button =
 
 ## The following strings are used in about:welcomeback
 
-welcome-back-tab-title = Успех!
-welcome-back-page-title = Успех!
+welcome-back-tab-title = Готово!
+welcome-back-page-title = Готово!
 welcome-back-page-info = { -brand-short-name } је спреман.
 welcome-back-restore-button =
-    .label = Идемо!
-    .accesskey = L
+    .label = Напред!
+    .accesskey = Н
 welcome-back-restore-all-label = Вратите све прозоре и картице
-welcome-back-restore-some-label = Обновите само оне које желите
+welcome-back-restore-some-label = Вратите само оне које желите
 welcome-back-page-info-link = Ваши додаци и прилагођавања су уклоњена и подешавања прегледача су враћена на подразумевана. Ако ово није решило проблем, <a data-l10n-name="link-more">сазнајте шта можете да урадите.</a>
