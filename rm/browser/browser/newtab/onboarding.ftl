@@ -281,9 +281,59 @@ mr1-onboarding-import-primary-button-label-attribution = Importar da { $previous
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = Importar dad in navigatur existent
 mr1-onboarding-import-secondary-button-label = Betg ussa
+mr1-onboarding-theme-header = L'adatta a tes basegns
+mr1-onboarding-theme-subtitle = Persunalisescha { -brand-short-name } cun in design.
+mr1-onboarding-theme-primary-button-label = Memorisar il design
+mr1-onboarding-theme-secondary-button-label = Betg ussa
+# System theme uses operating system color settings
+mr1-onboarding-theme-label-system = Design dal sistem
+mr1-onboarding-theme-label-light = Cler
+mr1-onboarding-theme-label-dark = Stgir
+# "Alpenglow" here is the name of the theme, and should be kept in English.
+mr1-onboarding-theme-label-alpenglow = Alpenglow
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of system theme
+mr1-onboarding-theme-tooltip-system =
+    .title =
+        Resguardar il design dal sistem operativ
+        per buttuns, menus e fanestras.
+# Input description for system theme
+mr1-onboarding-theme-description-system =
+    .aria-description =
+        Resguardar il design dal sistem operativ
+        per buttuns, menus e fanestras.
+# Tooltip displayed on hover of light theme
+mr1-onboarding-theme-tooltip-light =
+    .title =
+        Utilisar in design cler per buttuns,
+        menus e fanestras.
+# Input description for light theme
+mr1-onboarding-theme-description-light =
+    .aria-description =
+        Utilisar in design cler per buttuns,
+        menus e fanestras.
+# Tooltip displayed on hover of dark theme
+mr1-onboarding-theme-tooltip-dark =
+    .title =
+        Utilisar in design stgir per buttuns,
+        menus e fanestras.
+# Input description for dark theme
+mr1-onboarding-theme-description-dark =
+    .aria-description =
+        Utilisar in design stgir per buttuns,
+        menus e fanestras.
+# Tooltip displayed on hover of Alpenglow theme
+mr1-onboarding-theme-tooltip-alpenglow =
+    .title =
+        Utilisar in design dinamic e colurà per buttuns,
+        menus e fanestras.
+# Input description for Alpenglow theme
+mr1-onboarding-theme-description-alpenglow =
+    .aria-description =
+        Utilisar in design dinamic e colurà per buttuns,
+        menus e fanestras.

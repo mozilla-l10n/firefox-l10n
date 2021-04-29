@@ -11,3 +11,6 @@ account-reconnect-to-fxa = Deconnectà il conto
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-disconnected = Tes conto n'è betg connectà
+# Used as the FxA toolbar menu item title when the user
+# needs to reconnect their account.
+account-disconnected2 = Conto deconnectà
