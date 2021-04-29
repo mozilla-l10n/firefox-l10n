@@ -7,6 +7,11 @@ e2e-intro-description-more = Изаберите ваш лични кључ за 
 openpgp-key-man-title =
     .title = OpenPGP управник кључева
 openpgp-key-man-discover-progress = Тражим…
+openpgp-key-man-ctx-copy =
+    .label = Копирај
+    .accesskey = и
+openpgp-copy-cmd-label =
+    .label = Копирај
 
 ## e2e encryption settings
 
