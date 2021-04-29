@@ -1006,6 +1006,7 @@ content-blocking-etp-custom-desc = Изаберите које пратиоце 
 content-blocking-private-windows = Садржај који прати у приватним прозорима
 content-blocking-cross-site-cookies = Колачићи трећих страна
 content-blocking-cross-site-tracking-cookies = Колачићи за праћење трећих страна
+content-blocking-all-cross-site-cookies-private-windows = Колачићи трећих страна у приватним прозорима
 content-blocking-cross-site-tracking-cookies-plus-isolate = Пратиоци с унакрсних страница и изолација преосталих колачића
 content-blocking-social-media-trackers = Елементи за праћење са друштвених мрежа
 content-blocking-all-cookies = Сви колачићи

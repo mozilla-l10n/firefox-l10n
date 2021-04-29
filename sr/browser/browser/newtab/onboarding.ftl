@@ -367,3 +367,33 @@ mr1-onboarding-theme-label-alpenglow = Алпски жар
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of light theme
+mr1-onboarding-theme-tooltip-light =
+    .title =
+        Користите светлу тему за дугмад,
+        меније и прозоре.
+# Input description for light theme
+mr1-onboarding-theme-description-light =
+    .aria-description =
+        Користите светлу тему за дугмад,
+        меније и прозоре.
+# Tooltip displayed on hover of dark theme
+mr1-onboarding-theme-tooltip-dark =
+    .title =
+        Користите тамну тему за дугмад,
+        меније и прозоре.
+# Input description for dark theme
+mr1-onboarding-theme-description-dark =
+    .aria-description =
+        Користите тамну тему за дугмад,
+        меније и прозоре.
+# Tooltip displayed on hover of Alpenglow theme
+mr1-onboarding-theme-tooltip-alpenglow =
+    .title =
+        Користите динамичку и живописну тему за дугмад,
+        меније и прозоре.
+# Input description for Alpenglow theme
+mr1-onboarding-theme-description-alpenglow =
+    .aria-description =
+        Користите динамичку и живописну тему за дугмад,
+        меније и прозоре.
