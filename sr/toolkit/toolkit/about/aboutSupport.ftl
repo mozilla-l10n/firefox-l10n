@@ -59,7 +59,7 @@ app-basics-os = ОС
 app-basics-rosetta = Rosetta Translated
 app-basics-memory-use = Меморија
 app-basics-performance = Перформансе
-app-basics-service-workers = Регистровани Service Workers
+app-basics-service-workers = Регистровани сервис воркери
 app-basics-profiles = Профили
 app-basics-launcher-process-status = Покретачки процес
 app-basics-multi-process-support = Вишепроцесорски прозори
@@ -124,8 +124,6 @@ troubleshoot-mode-title = Дијагностика проблема
 restart-in-troubleshoot-mode-label = Режим за решавање проблема…
 clear-startup-cache-title = Покушајте да избришете предмеморију покретања
 clear-startup-cache-label = Избриши предмеморију покретања…
-startup-cache-dialog-title = Избриши предмеморију покретања
-startup-cache-dialog-body = Рестартујте { -brand-short-name } да бисте обрисали кеш покретања. Ово неће утицати на подешавања или додатке које сте додали у { -brand-short-name }.
 restart-button-label = Рестартуј
 
 ## Media titles
