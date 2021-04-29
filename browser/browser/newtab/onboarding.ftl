@@ -180,7 +180,7 @@ onboarding-multistage-pin-default-subtitle = Rask, sikker og privat nettlesing h
 onboarding-multistage-pin-default-waiting-subtitle = Velg { -brand-short-name } under nettleser når dine innstillinger åpnes
 # The "settings" here refers to "Windows 10 Settings App" and not the browser's
 onboarding-multistage-pin-default-help-text = Dette vil feste { -brand-short-name } til oppgavelinjen og åpne innstillinger
-onboarding-multistage-pin-default-primary-button-label = Gjør { -brand-short-name } til min standardnettleser
+onboarding-multistage-pin-default-primary-button-label = Gjør { -brand-short-name } til min primære nettleser
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Importer passord, bokmerker og <span data-l10n-name="zap">mer</span>
