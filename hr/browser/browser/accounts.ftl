@@ -11,3 +11,6 @@ account-reconnect-to-fxa = Račun je odspojen
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-disconnected = Veza je prekinuta
+# Used as the FxA toolbar menu item title when the user
+# needs to reconnect their account.
+account-disconnected2 = Račun je odspojen
