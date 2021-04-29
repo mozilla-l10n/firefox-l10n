@@ -131,7 +131,7 @@
 <!ENTITY undoMarkAllCmd.label "Alles markearje as lêzen ûngedien meitsje">
 <!ENTITY redoMarkAllCmd.label "Alles markearje as lêzen opnij útfiere">
 <!ENTITY undoDefaultCmd.label "Ungedien meitsje">
-<!ENTITY undoDefaultCmd.accesskey "U">
+<!ENTITY undoDefaultCmd.accesskey "M">
 <!ENTITY redoDefaultCmd.label "Opnij útfiere">
 <!ENTITY redoDefaultCmd.accesskey "n">
 
@@ -719,7 +719,6 @@
 <!ENTITY locationColumn.label "Lokaasje">
 <!ENTITY idColumn.label "Folchoarder fan ûntfangst">
 <!ENTITY attachmentColumn.label "Bylagen">
-
 <!ENTITY deleteColumn.label "Fuortsmite">
 
 <!-- Thread Pane Tooltips -->
@@ -745,7 +744,6 @@
 <!ENTITY locationColumn2.tooltip "Sortearje op lokaasje">
 <!ENTITY idColumn2.tooltip "Sortearje op folchoarder fan ûntfangst">
 <!ENTITY attachmentColumn2.tooltip "Sortearje op bylagen">
-
 <!ENTITY deleteColumn.tooltip "In berjocht fuortsmite">
 
 <!-- Thread Pane Context Menu -->
