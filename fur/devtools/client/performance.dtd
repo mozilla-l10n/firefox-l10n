@@ -73,23 +73,29 @@
 <!-- LOCALIZATION NOTE (performanceUI.invertTree): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's call tree. -->
 <!ENTITY performanceUI.invertTree             "Invertìs l'arbul des clamadis">
-<!ENTITY performanceUI.invertTree.tooltiptext "La inversion dal arbul des clamadis e visualize i percors des clamadis profiladis scomençant dai ricuadris (frames) plui resints e slargjantsi a chei plui vieris.">
+<!ENTITY performanceUI.invertTree.tooltiptext "La inversion dal arbul des clamadis e visualize i percors profilâts des clamadis scomençant dai ricuadris (frames) plui resints e slargjantsi a chei plui vieris.">
 
 <!-- LOCALIZATION NOTE (performanceUI.invertFlameGraph): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's flame graph. -->
 <!ENTITY performanceUI.invertFlameGraph             "Invertìs grafic a flamade">
+<!ENTITY performanceUI.invertFlameGraph.tooltiptext "La inversion dal grafic a flamade e visualize i percors profilâts des clamadis scomençant dai ricuadris (frames) plui resints e slargjantsi a chei plui vieris.">
 
 <!-- LOCALIZATION NOTE (performanceUI.showPlatformData): This is the
   -  label for the checkbox that toggles whether or not Gecko platform data
   -  is displayed in the profiler. -->
+<!ENTITY performanceUI.showPlatformData             "Mostre i dâts de plateforme Gecko">
+<!ENTITY performanceUI.showPlatformData.tooltiptext "La visualizazion dai dâts de plateforme e permet di includi i simbui de plateforme Gecko ai rapuarts dal profiladôr JavaScript.">
 
 <!-- LOCALIZATION NOTE (performanceUI.showJITOptimizations): This string
   -  is displayed next to a checkbox determining whether or not JIT optimization data
   -  should be displayed. -->
+<!ENTITY performanceUI.showJITOptimizations             "Mostre otimizazions JIT">
+<!ENTITY performanceUI.showJITOptimizations.tooltiptext "Mostre i dâts de otimizazion JIT campionâts in ogni ricuadri JavaScript.">
 
 <!-- LOCALIZATION NOTE (performanceUI.flattenTreeRecursion): This is the
   -  label for the checkbox that toggles the flattening of tree recursion in inspected
   -  functions in the profiler. -->
+<!ENTITY performanceUI.flattenTreeRecursion             "Plache l'arbul des ricorsions">
 
 <!-- LOCALIZATION NOTE (performanceUI.enableMemory): This string
   -  is displayed next to a checkbox determining whether or not memory
