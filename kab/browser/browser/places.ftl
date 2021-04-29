@@ -94,6 +94,14 @@ places-edit-generic =
 places-edit-folder =
     .label = Snifel akaram…
     .accesskey = n
+places-remove-folder =
+    .label =
+        { $count ->
+            [1] Kkes akaram
+            [one] Kkes akaram
+           *[other] Kkes ikaramen
+        }
+    .accesskey = K
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Ticraḍ n yisebtar yettusefraken

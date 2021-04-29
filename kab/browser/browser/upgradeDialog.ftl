@@ -8,6 +8,11 @@
 
 ## New changes screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-new-title = Ini azul i { -brand-short-name } amaynut
+upgrade-dialog-new-subtitle = Yettufeṣṣel i wakken ak·akem-yawi sani tebɣiḍ, s urured
+upgrade-dialog-new-item-menu-title = Afeggag n yifecka d wumuɣen ttwasifssen
+upgrade-dialog-new-item-tabs-title = Accaren atraren
 upgrade-dialog-new-primary-theme-button = Fren asentel
 upgrade-dialog-new-secondary-button = Mačči tura
 
