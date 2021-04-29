@@ -4,3 +4,6 @@
 
 add-on-options-button =
     .title = Iɣewwaṛen n uzegrir
+atn-addons-heading-search-input =
+    .placeholder = Nadi deg addons.thunderbird.net
+sidebar-preferences-button-title = Ismenyifen n { -brand-short-name }
