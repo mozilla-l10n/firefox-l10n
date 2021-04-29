@@ -56,18 +56,28 @@
 <!ENTITY performanceUI.table.selfPercentage           "Cost individuâl">
 <!ENTITY performanceUI.table.selfPercentage.tooltip   "La percentuâl di timp passât dome in cheste funzion.">
 <!ENTITY performanceUI.table.samples                  "Campions">
+<!ENTITY performanceUI.table.samples.tooltip          "Il numar di voltis che cheste funzion e jere sul stack cuant che il profiladôr al à cjapât un campion.">
+<!ENTITY performanceUI.table.function                 "Funzion">
+<!ENTITY performanceUI.table.function.tooltip         "Il non e la posizion dal sorzint de funzion campionade.">
+<!ENTITY performanceUI.table.totalAlloc               "Assegnazions totâls">
+<!ENTITY performanceUI.table.totalAlloc.tooltip       "Il numar totâl di assegnazions di ogjets campionadis in cheste posizion e tes clamadis.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
+<!ENTITY performanceUI.options.filter.tooltiptext "Selezione ce dâts visualizâ te secuence temporâl">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.gear.tooltiptext): This is the
   -  tooltip for the options button. -->
+<!ENTITY performanceUI.options.gear.tooltiptext "Configure lis preferencis des prestazions.">
 
 <!-- LOCALIZATION NOTE (performanceUI.invertTree): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's call tree. -->
+<!ENTITY performanceUI.invertTree             "Invertìs l'arbul des clamadis">
+<!ENTITY performanceUI.invertTree.tooltiptext "La inversion dal arbul des clamadis e visualize i percors des clamadis profiladis scomençant dai ricuadris (frames) plui resints e slargjantsi a chei plui vieris.">
 
 <!-- LOCALIZATION NOTE (performanceUI.invertFlameGraph): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's flame graph. -->
+<!ENTITY performanceUI.invertFlameGraph             "Invertìs grafic a flamade">
 
 <!-- LOCALIZATION NOTE (performanceUI.showPlatformData): This is the
   -  label for the checkbox that toggles whether or not Gecko platform data
