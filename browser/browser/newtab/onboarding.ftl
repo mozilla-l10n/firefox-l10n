@@ -132,7 +132,7 @@ onboarding-mobile-phone-text =
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = Преузми мобилни прегледач
-onboarding-send-tabs-title = Пошаљите себи отворене језичке
+onboarding-send-tabs-title = Одмах пошаљите себи картице
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
 onboarding-send-tabs-text2 = Једноставно делите странице са уређајима, не морате да копирате везе нити да излазите из прегледача.

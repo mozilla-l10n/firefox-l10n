@@ -206,8 +206,8 @@ menu-view-full-screen =
 ##
 
 menu-view-show-all-tabs =
-    .label = Прикажи све језичке
-    .accesskey = A
+    .label = Прикажи све картице
+    .accesskey = П
 menu-view-bidi-switch-page-direction =
     .label = Промени усмерење странице
     .accesskey = D
@@ -231,7 +231,7 @@ menu-history-undo-menu =
     .label = Недавно затворене картице
 menu-history-undo-window-menu =
     .label = Недавно затворени прозори
-menu-history-reopen-all-tabs = Поново отвори све језичке
+menu-history-reopen-all-tabs = Поново отвори све картице
 menu-history-reopen-all-windows = Поново отвори све прозоре
 
 ## Bookmarks Menu
@@ -248,7 +248,7 @@ menu-bookmark-current-tab =
 menu-bookmark-edit =
     .label = Уреди овај обележивач
 menu-bookmarks-all-tabs =
-    .label = Забележи све језичке…
+    .label = Обележи све картице…
 menu-bookmarks-toolbar =
     .label = Трака са обележивачима
 menu-bookmarks-other =

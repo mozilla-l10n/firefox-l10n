@@ -80,6 +80,10 @@ appmenu-update-restart =
     .secondarybuttonlabel = Касније
     .secondarybuttonaccesskey = К
 appmenu-update-restart-message = Након рестартовања { -brand-shorter-name } ће вратити све отворене картице и прозоре који нису у режиму приватног прегледања.
+appmenu-addon-private-browsing-installed =
+    .buttonlabel = Разумем
+    .buttonaccesskey = Р
+appmenu-addon-post-install-message = Управљајте додацима кликом на <image data-l10n-name='addon-install-icon'></image> из менија <image data-l10n-name='addon-menu-icon'></image>.
 appmenu-update-available2 =
     .label = Доступно је ажурирање
     .buttonlabel = Преузми
@@ -162,10 +166,6 @@ appmenu-update-other-instance-message =
         [neuter] { -brand-shorter-name(case: "gen") }
        *[other] програма { -brand-shorter-name }
     }. Затворите га или ажурирајте упркос томе (други примерак можда неће радити док га не рестартујете).
-appmenu-addon-private-browsing-installed =
-    .buttonlabel = Разумем
-    .buttonaccesskey = Р
-appmenu-addon-post-install-message = Управљајте додацима кликом на <image data-l10n-name='addon-install-icon'></image> из менија <image data-l10n-name='addon-menu-icon'></image>.
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = У реду
     .buttonaccesskey = У
@@ -187,11 +187,11 @@ appmenu-homepage-controlled =
     .secondarybuttonlabel = Онемогући додатак
     .secondarybuttonaccesskey = О
 appmenu-new-tab-controlled-changes =
-    .label = Ваша страница новог језичка се променила.
-    .buttonlabel = Задржите промене
-    .buttonaccesskey = K
-    .secondarybuttonlabel = Уредите нове језичке
-    .secondarybuttonaccesskey = M
+    .label = Страница нове картице је промењена.
+    .buttonlabel = Задржи промене
+    .buttonaccesskey = З
+    .secondarybuttonlabel = Управљај новим картицама
+    .secondarybuttonaccesskey = У
 appmenu-homepage-controlled-changes =
     .label = Ваша почетна страница је промењена.
     .buttonlabel = Задржите промене
