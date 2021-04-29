@@ -5,7 +5,7 @@
 crashed-title = Пријава отказивања картица
 crashed-close-tab-button = Затвори картицу
 crashed-restore-tab-button = Врати ову картицу
-crashed-restore-all-button = Обнови све срушене језичке
+crashed-restore-all-button = Врати све принудно затворене картице
 crashed-header = Картица је отказала
 crashed-offer-help = Можемо помоћи!
 crashed-single-offer-help-message = Одаберите { crashed-restore-tab-button } да бисте поново учитали страницу.
@@ -22,6 +22,6 @@ crashed-email-placeholder = Унесите адресу е-поште овде
 crashed-email-me = Пошаљи ми е-пошту када су информације доступне
 crashed-include-URL-2 = Пошаљите и URL адресе страница које су биле отворене када се { -brand-short-name } срушио
 crashed-report-sent = Извештај о отказивању је већ послат. Хвала вам што помажете да побољшамо { -brand-short-name }!
-crashed-request-auto-submit-title = Пријавите позадинске језичке
+crashed-request-auto-submit-title = Пријава позадинских картица
 crashed-auto-submit-checkbox = Ажурирајте подешавања да аутоматски пријављујете извештаје када се { -brand-short-name } сруши.
 crashed-auto-submit-checkbox-2 = Ажурирајте подешавања да аутоматски шаљете извештаје када се { -brand-short-name } сруши

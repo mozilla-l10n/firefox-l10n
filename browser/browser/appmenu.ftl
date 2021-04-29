@@ -157,7 +157,7 @@ profiler-popup-capture-shortcut =
 
 appmenu-manage-history =
     .label = Управљај историјом
-appmenu-reopen-all-tabs = Поново отвори све језичке
+appmenu-reopen-all-tabs = Поново отвори све картице
 appmenu-reopen-all-windows = Поново отвори све прозоре
 
 ## Help panel
