@@ -257,6 +257,16 @@ onboarding-multistage-theme-description-alpenglow =
 
 ## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 
+# "Hero Text" displayed on left side of welcome screen.
+# The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
+# It also signals the passion users bring to Firefox, how they use
+# Firefox to pursue those passions, as well as the boldness in their
+# choice to use Firefox over a larger competitor browser.
+# An alternative title for localization is: "It starts here".
+mr1-welcome-screen-hero-text = Syagi ara yebdu kullec
+# This button will open system settings to turn on prefers-reduced-motion
+mr1-onboarding-reduce-motion-button-label = Sens imrayen
+mr1-onboarding-welcome-header = Ansuf ɣer { -brand-short-name }
 mr1-onboarding-set-default-secondary-button-label = Mačči tura
 mr1-onboarding-sign-in-button-label = Kcem
 mr1-onboarding-import-secondary-button-label = Mačči tura

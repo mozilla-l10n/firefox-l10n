@@ -49,4 +49,4 @@ bookmark-overlay-keyword-2 =
     .value = Awal n tasarut
     .accesskey = A
 bookmark-overlay-tags-caption-label = Seqdec tibzimin i wakken ad tseddseḍ rnu ad tnadiḍ ticraḍ n yisebtar seg ufaggag n tansa
-bookmark-overlay-keyword-caption-label = Seqdec awalen n tsarut i twaledyawt n tecraḍ n yisebtar srid seg ufeggag n tansiwin
+bookmark-overlay-keyword-caption-label-2 = Seqdec awal n tsarut asuf i twaledyawt n tecraḍ n yisebtar srid seg ufaggag n tansiwin
