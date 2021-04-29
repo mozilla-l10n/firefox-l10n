@@ -349,6 +349,11 @@ about-logins-import-report-modified =
     { $count ->
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Ttwaleqqmen yinekcam yellan</div>
     }
+about-logins-import-report-no-change =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">inekcam i d-yulsen tikkelt tis snat</div> <div data-l10n-name="not-imported">(ur yettwakter ara)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">inekcam i d-yulsen tikkelt tis snat</div> <div data-l10n-name="not-imported">(ur yettwakter ara)</div>
+    }
 about-logins-import-report-error =
     { $count ->
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Tuccḍiwin</div> <div data-l10n-name="not-imported">(ur yettwaktar ara)</div>
