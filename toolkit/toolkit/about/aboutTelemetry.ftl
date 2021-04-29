@@ -68,7 +68,7 @@ about-telemetry-histogram-stats =
     }
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
-about-telemetry-page-subtitle = 이 페이지는 Telemetry에 의해서 수집된 성능, 하드웨어, 사용 상황 및 사용자 정의에 대한 정보를 표시합니다. 이 정보는 { -brand-full-name }의 개선을 위해 { $telemetryServerOwner }에 제출됩니다.
+about-telemetry-page-subtitle = 이 페이지는 Telemetry에 의해서 수집된 성능, 하드웨어, 사용 현황 및 사용자 정의에 대한 정보를 표시합니다. 이 정보는 { -brand-full-name }의 개선을 위해 { $telemetryServerOwner }에 제출됩니다.
 about-telemetry-settings-explanation = Telemetry가 { about-telemetry-data-type }를 수집 중이며 업로드는 <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>입니다.
 # Variables:
 #   $name (String): ping name, e.g. “saved-session”
