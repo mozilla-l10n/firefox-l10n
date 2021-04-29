@@ -87,7 +87,7 @@
     - when editing events/tasks in a tab. -->
 <!ENTITY  event.menu.item.saveandclose.label              "Bewarje en slute">
 <!ENTITY  event.menu.item.saveandclose.accesskey          "l">
-<!ENTITY  event.menu.item.saveandclose.tab.accesskey      "z">
+<!ENTITY  event.menu.item.saveandclose.tab.accesskey      "u">
 
 <!ENTITY  event.menu.item.delete.label                    "Fuortsmite…">
 <!ENTITY  event.menu.item.delete.accesskey                "F">
