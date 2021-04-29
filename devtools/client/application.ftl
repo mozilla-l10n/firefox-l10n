@@ -18,7 +18,7 @@ serviceworker-list-header = Service Workers
 # about:debugging to see all registered Service Workers.
 serviceworker-list-aboutdebugging = Open <a>about:debugging</a> for Service Workers from other domains
 # Text for the button to unregister a Service Worker. Displayed for active Service Workers.
-serviceworker-worker-unregister = Unregister
+serviceworker-worker-unregister = Опозови регистрацију
 # Text for the debug link displayed for an already started Service Worker. Clicking on the
 # link opens a new devtools toolbox for this service worker. The title attribute is only
 # displayed when the link is disabled.
