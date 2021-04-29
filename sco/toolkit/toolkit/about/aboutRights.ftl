@@ -7,6 +7,7 @@ rights-webservices-header = { -brand-full-name } Wab-Based Information Services
 rights-safebrowsing-term-1 = Open the application preferences
 rights-safebrowsing-term-2 = Wale the Siccarness walin
 rights-safebrowsing-term-3 = Untick the option tae “{ enableSafeBrowsing-label }”
+rights-safebrowsing-term-4 = Sauf Stravaigin is noo disabled
 rights-locationawarebrowsing-term-1 = In the URL baur, type <code>about:config</code>
 rights-locationawarebrowsing-term-2 = Type geo.enabled
 rights-locationawarebrowsing-term-3 = Double click on the geo.enabled preference

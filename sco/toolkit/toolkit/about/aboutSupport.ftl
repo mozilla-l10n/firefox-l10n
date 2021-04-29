@@ -68,16 +68,34 @@ app-basics-launcher-process-status = Launcher Process
 app-basics-multi-process-support = Multiprocess Windaes
 app-basics-fission-support = Fission Windaes
 app-basics-remote-processes-count = Remote Processes
+app-basics-safe-mode = Sauf Mode
+show-dir-label =
+    { PLATFORM() ->
+        [macos] Shaw in Finder
+        [windows] Open Folder
+       *[other] Open Directory
+    }
 environment-variables-name = Nemme
 experimental-features-name = Nemme
 modified-prefs-name = Nemme
 user-js-title = user.js Preferences
 locked-prefs-name = Nemme
+graphics-features-title = Featurs
 graphics-gpu1-title = GPU #1
 graphics-gpu2-title = GPU #2
+a11y-activated = Activatit
+copy-text-to-clipboard-label = Copy text tae clipbuird
+copy-raw-data-to-clipboard-label = Copy raw data tae clipbuird
 sandbox-sys-call-index = #
+sandbox-sys-call-age = Seconds Syne
+sandbox-sys-call-pid = PID
+sandbox-sys-call-tid = TID
+sandbox-sys-call-proc-type = Process Type
+sandbox-sys-call-number = Syscall
+safe-mode-title = Try Sauf Mode
 restart-in-safe-mode-label = Restert Wi Eik-ons Disabled…
 restart-in-troubleshoot-mode-label = Fankle-fixin Mode…
+clear-startup-cache-title = Try dichtin the stertup cache
 clear-startup-cache-label = Dicht stertup cache…
 startup-cache-dialog-title2 = Restert { -brand-short-name } tae dicht stertup cache?
 startup-cache-dialog-body2 = This willnae chynge yer settins or remuive extensions.
@@ -85,6 +103,9 @@ restart-button-label = Restert
 
 ## Media titles
 
+media-title = Media
+media-output-devices-title = Ootpit Devices
+media-input-devices-title = Inpit Devices
 media-device-name = Nemme
 
 ##
@@ -114,6 +135,13 @@ support-third-party-modules-no-value = (Nae value)
 support-third-party-modules-button-open =
     .title = Open file airtin…
 # Variables
+# $days (Integer) - Number of days of crashes to log
+report-crash-for-days =
+    { $days ->
+        [one] Crash Reports fur the Past { $days } Day
+       *[other] Crash Reports fur the Past { $days } Days
+    }
+# Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
     { $minutes ->
@@ -134,6 +162,8 @@ crashes-time-days =
         [one] { $days } day syne
        *[other] { $days } days syne
     }
+raw-data-copied = Raw data copied tae clipbuird
+text-copied = Text copied tae clipbuird
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
