@@ -123,7 +123,7 @@ onboarding-pocket-anywhere-title = 随处阅听
 onboarding-pocket-anywhere-text2 = 可使用 { -pocket-brand-name } 应用离线保存您喜爱的故事，以便您闲暇时阅读、聆听和观看。
 onboarding-pocket-anywhere-button = 试试 { -pocket-brand-name }
 onboarding-lockwise-strong-passwords-title = 创建并存储高强度的密码
-onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } 可直接在网页表单中创建高强度密码，并将所有密码存放于同一位置。
+onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } 可直接在网页表单中创建高强度密码，并可集中管理密码，方便使用。
 onboarding-lockwise-strong-passwords-button = 管理您的登录信息
 onboarding-facebook-container-title = 为 Facebook 设置边界
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } 可将您的 Facebook 身份与其他网站隔离，使 Facebook 更难以通过广告定位您。
@@ -184,7 +184,7 @@ onboarding-multistage-pin-default-primary-button-label = 将 { -brand-short-name
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = 导入您的密码、书签和<span data-l10n-name="zap">更多数据</span>
-onboarding-multistage-import-subtitle = 从其他浏览器来？将一切转移到 { -brand-short-name } 很简单。
+onboarding-multistage-import-subtitle = 从其他浏览器来？很简单就能把所有东西带来 { -brand-short-name }。
 onboarding-multistage-import-primary-button-label = 开始导入
 onboarding-multistage-import-secondary-button-label = 暂时不要
 # Info displayed in the footer of import settings screen during onboarding flow.
@@ -247,7 +247,7 @@ onboarding-multistage-theme-description-alpenglow =
 # Firefox to pursue those passions, as well as the boldness in their
 # choice to use Firefox over a larger competitor browser.
 # An alternative title for localization is: "It starts here".
-mr1-welcome-screen-hero-text = 星火燎原
+mr1-welcome-screen-hero-text = 星星之火 正将燎原
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = 关闭动画
 mr1-onboarding-welcome-header = 欢迎使用 { -brand-short-name }
