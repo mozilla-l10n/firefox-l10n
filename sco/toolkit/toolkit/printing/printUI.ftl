@@ -23,6 +23,10 @@ printui-page-custom-range-input =
 # Section title for the number of copies to print
 printui-copies-label = Copies
 printui-destination-pdf-label = Save tae PDF
+printui-more-settings = Mair settins
+printui-paper-size-label = Paper size
+# Section title (noun) for the two-sided print options
+printui-two-sided-printing = Twa-sided prentin
 printui-two-sided-printing-off = Aff
 # Section title for miscellaneous print options
 printui-options = Options

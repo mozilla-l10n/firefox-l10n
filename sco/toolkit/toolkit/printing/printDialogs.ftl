@@ -2,6 +2,16 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+print-setup =
+    .title = Page Setup
+custom-prompt-title = Custom…
+custom-prompt-prompt = Inpit yer custom heider/dowp-ender text
+basic-tab =
+    .label = Format & Options
+advanced-tab =
+    .label = Margins & Heider/Dowp-ender
+format-group-label =
+    .value = Format
 scale-percent =
     .value = %
 options-group-label =

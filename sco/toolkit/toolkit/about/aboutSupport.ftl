@@ -78,6 +78,9 @@ graphics-gpu2-title = GPU #2
 sandbox-sys-call-index = #
 restart-in-safe-mode-label = Restert Wi Eik-ons Disabled…
 restart-in-troubleshoot-mode-label = Fankle-fixin Mode…
+clear-startup-cache-label = Dicht stertup cache…
+startup-cache-dialog-title2 = Restert { -brand-short-name } tae dicht stertup cache?
+startup-cache-dialog-body2 = This willnae chynge yer settins or remuive extensions.
 restart-button-label = Restert
 
 ## Media titles
@@ -134,6 +137,7 @@ crashes-time-days =
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
+blocked-os-version = Blockit for yer operatin seestem version.
 yes = Aye
 no = Naw
 unknown = Unkent
@@ -157,6 +161,12 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 multi-process-status-0 = Enabled by yaiser
 multi-process-status-1 = Enabled as staunart
 multi-process-status-2 = Disabled
+multi-process-status-unknown = Unkent status
+# Variables
+# $fissionWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+fission-windows = { $fissionWindows }/{ $totalWindows }
+fission-status-disabled-by-e10s-other = E10s disabled
 apz-none = nane
 
 ## Variables
@@ -165,6 +175,7 @@ apz-none = nane
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-error = Mishanter
 
 ## Printing section
 

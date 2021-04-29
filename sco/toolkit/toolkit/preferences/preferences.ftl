@@ -17,3 +17,5 @@ set-password-old-password = Passwird the noo:
 set-password-new-password = Inpit new passwird:
 set-password-reenter-password = Inpit passwird aince mair:
 set-password-meter-loading = Loadin
+remove-password-old-password =
+    .value = Passwird the noo:
