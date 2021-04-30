@@ -225,6 +225,7 @@ about-logins-breach-alert-learn-more-link = ស្វែងយល់​បន្
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = ពាក្យ​ស្ងាត់​ងាយរងគ្រោះ
+about-logins-vulnerable-alert-text2 = ពាក្យ​សម្ងាត់​នេះ​ត្រូវបាន​ប្រើប្រាស់​នៅលើ​គណនី​ផ្សេង​ដែល​ទំនង​ជា​មាន​ការបែកធ្លាយ​ទិន្នន័យ។ ការប្រើប្រាស់​ព័ត៌មាន​ធាតុ​បញ្ចូល​ឡើងវិញ​​អាច​បណ្ដាល​ឱ្យ​គណនី​របស់​អ្នក​មាន​ហានិភ័យ។ ផ្លាស់ប្ដូរ​ពាក្យ​សម្ងាត់​នេះ។
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = ទៅកាន់ { $hostname }
