@@ -348,6 +348,7 @@ startup-cache-found-disk-cache-on-init = Fund Disk Cache on Init
 startup-cache-wrote-to-disk-cache = Scrievit tae Disk Cache
 launcher-process-status-0 = Enabled
 launcher-process-status-1 = Disabled due tae failure
+launcher-process-status-2 = Disabled wi force
 launcher-process-status-unknown = Unkent status
 # Variables
 # $remoteWindows (integer) - Number of remote windows
@@ -356,20 +357,44 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 multi-process-status-0 = Enabled by yaiser
 multi-process-status-1 = Enabled as staunart
 multi-process-status-2 = Disabled
+multi-process-status-4 = Disabled by accessibility tools
+multi-process-status-6 = Disabled by unsupportit text input
+multi-process-status-7 = Disabled by eik-ons
+multi-process-status-8 = Disabled wi force
 multi-process-status-unknown = Unkent status
 # Variables
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
+fission-status-experiment-control = Disabled by experiment
+fission-status-experiment-treatment = Enabled by experiment
+fission-status-disabled-by-e10s-env = Disabled by environment
+fission-status-enabled-by-env = Enabled by environment
+fission-status-disabled-by-safe-mode = Disabled by sauf mode
+fission-status-enabled-by-default = Enabled by default
+fission-status-disabled-by-default = Disabled by default
+fission-status-enabled-by-user-pref = Enabled by yaiser
+fission-status-disabled-by-user-pref = Disabled by yaiser
 fission-status-disabled-by-e10s-other = E10s disabled
+async-pan-zoom = Asynchronous Pan/Zoom
 apz-none = nane
+wheel-enabled = wheel inpit enabled
+touch-enabled = touch inpit enabled
+drag-enabled = scrollbaur drag enabled
+keyboard-enabled = keybuird enabled
+autoscroll-enabled = autoscroll enabled
+zooming-enabled = smooth pinch-zoom enabled
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
 
+wheel-warning = async wheel inpit disabled due tae unsupportit pref: { $preferenceKey }
+touch-warning = async touch inpit disabled due tae unsupportit pref: { $preferenceKey }
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = No active
+policies-active = Active
 policies-error = Mishanter
 
 ## Printing section
@@ -377,10 +402,16 @@ policies-error = Mishanter
 support-printing-title = Prentin
 support-printing-troubleshoot = Fankle-fixin
 support-printing-clear-settings-button = Dicht saved prent settins
+support-printing-modified-settings = Modified prent settins
 support-printing-prefs-name = Nemme
+support-printing-prefs-value = Vailue
 
 ## Normandy sections
 
+support-remote-experiments-title = Remote Experiments
 support-remote-experiments-name = Nemme
+support-remote-experiments-branch = Experiment Brainch
+support-remote-experiments-see-about-studies = See <a data-l10n-name="support-about-studies-link">about:studies</a> fur mair information, includin hoo tae disable individual experiments or tae disable { -brand-short-name } fae runnin this sort o experiment in the future.
+support-remote-features-title = Remote Featurs
 support-remote-features-name = Nemme
 support-remote-features-status = Status
