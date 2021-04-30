@@ -233,6 +233,11 @@ about-logins-vulnerable-alert-learn-more-link = ស្វែងយល់​ប�
 
 ## Error Messages
 
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login-with-link = ធាតុ​បញ្ចូល​សម្រាប់ { $loginTitle } ដែល​មាន​ឈ្មោះ​អ្នកប្រើប្រាស់​នោះ​មាន​រួចហើយ។ <a data-l10n-name="duplicate-link">ចូលទៅ​កាន់​ធាតុ​បញ្ចូល​ដែល​មាន​ស្រាប់?</a>
 # This is a generic error message.
 about-logins-error-message-default = បញ្ហា​មួយបានកើតឡើងខណៈពេលព្យាយាមរក្សាទុកពាក្យសម្ងាត់នេះ។
 
@@ -264,11 +269,40 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] ឯកសារ CSV
        *[other] CSV File
     }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] ឯកសារ TSV
+       *[other] ឯកសារ TSV
+    }
 
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-dialog-title = ការនាំចូល​បាន​បញ្ចប់
+about-logins-import-dialog-items-added =
+    { $count ->
+       *[other] <span>ការចូល​ថ្មី​ត្រូវបាន​បញ្ចូល៖</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified =
+    { $count ->
+       *[other] <span>ការចូល​ដែល​មាន​ស្រាប់​ត្រូវបាន​ធ្វើ​បច្ចុប្បន្នភាព៖</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+       *[other] <span>បាន​រកឃើញ​ការចូល​ដែល​ស្ទួនគ្នា៖</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(not imported)</span>
+    }
+about-logins-import-dialog-items-error =
+    { $count ->
+       *[other] <span>បញ្ហា៖</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(not imported)</span>
+    }
+about-logins-import-dialog-done = រួចរាល់
+about-logins-import-dialog-error-title = ការនាំចូល​មាន​បញ្ហា
+about-logins-import-dialog-error-conflicting-values-title = តម្លៃ​ស្ទួន​ច្រើន​សម្រាប់​ការចូល​មួយ
+about-logins-import-dialog-error-conflicting-values-description = ឧទាហរណ៍៖ អ្នក​ប្រើប្រាស់ ពាក្យសម្ងាត់ URLs។ល។ ច្រើន​សម្រាប់​ការចូលមួយ។
+about-logins-import-dialog-error-file-format-title = បញ្ហា​ទម្រង់​ឯកសារ
 
 ##
 ## Variables:
