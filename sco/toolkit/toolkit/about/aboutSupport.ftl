@@ -79,6 +79,7 @@ environment-variables-name = Nemme
 experimental-features-name = Nemme
 modified-prefs-name = Nemme
 user-js-title = user.js Preferences
+user-js-description = Your profile folder conteens a <a data-l10n-name="user-js-link">user.js file</a>, that includes preferences that wirnae makkit by { -brand-short-name }.
 locked-prefs-name = Nemme
 graphics-features-title = Featurs
 graphics-gpu1-title = GPU #1
@@ -111,6 +112,7 @@ media-device-name = Nemme
 
 ##
 
+intl-app-title = Application Settins
 intl-os-title = Operatin Seestem
 
 ## Remote Debugging
@@ -128,12 +130,15 @@ remote-debugging-url = URL
 
 support-third-party-modules-version = File Version
 support-third-party-modules-thread = Threid
+support-third-party-modules-status = Status
 support-third-party-modules-status-loaded = Loadit
 support-third-party-modules-status-blocked = Blockit
 support-third-party-modules-status-redirected = Redirectit
 support-third-party-modules-empty = Nae third-pairty modules wir loadit.
 support-third-party-modules-no-value = (Nae value)
 support-third-party-modules-button-open =
+    .title = Open file airtin…
+support-third-party-modules-folder-icon =
     .title = Open file airtin…
 # Variables
 # $days (Integer) - Number of days of crashes to log
@@ -169,6 +174,9 @@ text-copied = Text copied tae clipbuird
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
 blocked-os-version = Blockit for yer operatin seestem version.
+# "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
+# there are no good translations, these are only used in about:support
+clear-type-parameters = ClearType Parameters
 yes = Aye
 no = Naw
 unknown = Unkent
@@ -183,8 +191,17 @@ gpu-description = Description
 gpu-ram = RAM
 webgl1-extensions = WebGL 1 Extensions
 webgl2-extensions = WebGL 2 Extensions
+blocklisted-bug = Blocklistit due tae kent issues
+# Variables
+# $bugNumber (string) - String of bug number from Bugzilla
+bug-link = bug { $bugNumber }
+# Variables
+#   $bugNumber (string) - Bug number on Bugzilla
+support-blocklisted-bug = Blocklistit due tae kent issues: <a data-l10n-name="bug-link">bug { $bugNumber }</a>
 glcontext-crash-guard = OpenGL
+startup-cache-title = Stertup Cache
 launcher-process-status-0 = Enabled
+launcher-process-status-unknown = Unkent status
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -210,6 +227,9 @@ policies-error = Mishanter
 
 ## Printing section
 
+support-printing-title = Prentin
+support-printing-troubleshoot = Fankle-fixin
+support-printing-clear-settings-button = Dicht saved prent settins
 support-printing-prefs-name = Nemme
 
 ## Normandy sections
