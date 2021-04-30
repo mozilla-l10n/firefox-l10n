@@ -46,11 +46,46 @@ rights-intro-point-6 =
     In order fur tae pley back certain types o video content, { -brand-short-name }
     doonloads certain content decryption modules fae third pairties.
 rights-webservices-header = { -brand-full-name } Wab-Based Information Services
+rights-webservices =
+    { -brand-full-name } yaises wab-based information services (“Services”) fur tae
+    provide some o the featurs providit fur yer yaise wi this binary version
+    o { -brand-short-name } unner the terms set oot ablow. Gin ye dinnae
+    want tae yaise ane or mair o the Services or the terms ablow arenae
+    acceptable tae ye, ye can disable the featur or Service(s). Instructions on
+    how tae disable a parteecular featur or Service can be airtit oot
+    <a data-l10n-name="mozilla-disable-service-link">here</a>. Ither featurs
+    and Services can be disabled in the application preferences.
+rights-safebrowsing =
+    <strong>SaufStravaigin: </strong>Disablin the Sauf Stravaigin featur isnae
+    recommendit as it micht end up in ye gangin tae sites that are no sauf. Gin ye want tae
+    disable the featur awthegither, follae these steps:
 rights-safebrowsing-term-1 = Open the application preferences
 rights-safebrowsing-term-2 = Wale the Siccarness walin
 rights-safebrowsing-term-3 = Untick the option tae “{ enableSafeBrowsing-label }”
+enableSafeBrowsing-label = Block hairmfu and begowkin content
 rights-safebrowsing-term-4 = Sauf Stravaigin is noo disabled
+rights-locationawarebrowsing =
+    <strong>Airtin Aware Stravaigin: </strong>is ayeways opt-in. Nae airtin
+    information is ivver sent wioot yer permeesion. Gin ye want tae disable
+    the featur awthegither, follae these steps:
 rights-locationawarebrowsing-term-1 = In the URL baur, type <code>about:config</code>
 rights-locationawarebrowsing-term-2 = Type geo.enabled
 rights-locationawarebrowsing-term-3 = Double click on the geo.enabled preference
 rights-locationawarebrowsing-term-4 = Airtin-Aware Stravaigin is noo disabled
+rights-webservices-unbranded =
+    An owerview o the wabsite services the product incorporates, alang wi
+    instructions on how tae disable them, if applicable, should be includit
+    here.
+rights-webservices-term-unbranded = Onie applicable service terms fur this product should be listit here.
+rights-webservices-term-1 =
+    { -vendor-short-name } and its contreebutors, licensors and pairtners wirk fur tae
+    provide the maist accurate and up-tae-date Services. Houanivver, we cannae
+    guarantee that this information is comprehensive and wioot mishanter. Fur
+    exemple, the Sauf Stravaigin Service micht no identify some risky sites and
+    micht identify some sauf sites wrangly and the Airtin Aware Service aw
+    airtins returned by oor service providers are estimates anely and neither
+    oorsels nor oor service providers guarantee the accuracy o the airtins
+    providit.
+rights-webservices-term-2 =
+    { -vendor-short-name } micht gie ower or chynge the Services at its
+    ain discretion.
