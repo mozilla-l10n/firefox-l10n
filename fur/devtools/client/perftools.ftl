@@ -36,21 +36,45 @@ perftools-description-local-build =
 ## The controls for the interval at which the profiler samples the code.
 
 perftools-range-interval-label = Dade di campionament:
+perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 2) } ms
 
 ##
 
+# The size of the memory buffer used to store things in the profiler.
+perftools-range-entries-label = Dimension mem. tampon:
+perftools-custom-threads-label = Zonte dai threads personalizâts par non:
+perftools-devtools-interval-label = Interval:
+perftools-devtools-threads-label = Threads:
+perftools-devtools-settings-label = Impostazions
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
+perftools-status-private-browsing-notice =
+    Il profiladôr al è disativât cuant che e je ative la navigazion privade.
+    Siere ducj i barcons privâts par tornâ a ativâ il profiladôr
+perftools-status-recording-stopped-by-another-tool = Lis regjistrazions a son stadis fermadis di un altri strument.
+perftools-status-restart-required = Si scugne tornâ a inviâ il navigadôr par ativâ cheste funzion.
 
 ## These are shown briefly when the user is waiting for the profiler to respond.
 
+perftools-request-to-stop-profiler = Daûr a fermâ la regjistrazion
+perftools-request-to-get-profile-and-stop-profiler = Daûr a caturâ il profîl
 
 ##
 
+perftools-button-start-recording = Scomence la regjistrazion
+perftools-button-capture-recording = Cature la regjistrazion
+perftools-button-cancel-recording = Anule la regjistrazion
+perftools-button-save-settings = Salve lis impostazions e torne indaûr
+perftools-button-restart = Torne invie
+perftools-button-add-directory = Zonte une cartele
+perftools-button-remove-directory = Gjave selezionadis
+perftools-button-edit-settings = Modifiche lis impostazions…
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
+perftools-thread-gecko-main =
+    .title = I procès principâi sedi pal procès gjenitôr che pai procès di contignût
 
 ##
 
