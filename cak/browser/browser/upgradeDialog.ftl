@@ -15,6 +15,8 @@ upgrade-dialog-new-item-menu-title = Utzirisan kajtz'ik taq samajib'äl chuqa' k
 upgrade-dialog-new-item-menu-description = Niya' kiq'ij ri k'atzinel taq wachinäq richin nawïl ri nawajo'.
 upgrade-dialog-new-item-tabs-title = K'ak'a' taq ruwi'
 upgrade-dialog-new-item-tabs-description = Ruk'wan cholajin etamab'äl, akuchi' nuto' ri rutzub'al chuqa' ri nujäl rusilonik.
+upgrade-dialog-new-item-icons-title = Säq Jalon taq wachib'äl chuqa' taq tzijol
+upgrade-dialog-new-item-icons-description = Yaruto' nawïl ri b'ey rik'in jun anin chapoj.
 upgrade-dialog-new-primary-default-button = Tib'an nab'ey okik'amaya'l chi re ri { -brand-short-name }
 upgrade-dialog-new-secondary-button = Wakami mani
 
