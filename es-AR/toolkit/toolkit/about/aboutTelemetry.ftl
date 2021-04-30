@@ -38,7 +38,7 @@ about-telemetry-captured-stacks-section = Pilas capturadas
 about-telemetry-late-writes-section = Últimas escrituras
 about-telemetry-raw-payload-section = Payload en bruto
 about-telemetry-raw = JSON en bruto
-about-telemetry-full-sql-warning = NOTE: Slow SQL debugging is enabled. Full SQL strings may be displayed below but they will not be submitted to Telemetry.
+about-telemetry-full-sql-warning = NOTA: la depuración SQL lenta está activada. Pueden mostrarse cadenas completas de SQL debajo, pero no se enviarán a Telemetry.
 about-telemetry-fetch-stack-symbols = Obtener nombres de función para pilas
 about-telemetry-hide-stack-symbols = Mostrar datos de pila en bruto
 # Selects the correct release version
