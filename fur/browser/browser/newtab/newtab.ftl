@@ -160,7 +160,7 @@ newtab-label-sponsored-by = Patrocinât di { $sponsor }
 ## meant as a call to action for the given section.
 
 newtab-section-menu-remove-section = Gjave sezion
-newtab-section-menu-collapse-section = Colasse sezion
+newtab-section-menu-collapse-section = Strenç la sezion
 newtab-section-menu-expand-section = Slargje sezion
 newtab-section-menu-manage-section = Gjestìs sezion
 newtab-section-menu-manage-webext = Gjestìs estension
@@ -173,7 +173,7 @@ newtab-section-menu-privacy-notice = Informative su la riservatece
 ## Section aria-labels
 
 newtab-section-collapse-section-label =
-    .aria-label = Colasse sezion
+    .aria-label = Strenç la sezion
 newtab-section-expand-section-label =
     .aria-label = Slargje sezion
 
