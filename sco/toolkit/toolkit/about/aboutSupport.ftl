@@ -84,18 +84,42 @@ show-dir-label =
 environment-variables-title = Environment Shoogleables
 environment-variables-name = Nemme
 environment-variables-value = Vailue
+experimental-features-title = Newfangelt Featurs
 experimental-features-name = Nemme
+experimental-features-value = Vailue
+modified-key-prefs-title = Important Modified Preferences
 modified-prefs-name = Nemme
+modified-prefs-value = Vailue
 user-js-title = user.js Preferences
 user-js-description = Your profile folder conteens a <a data-l10n-name="user-js-link">user.js file</a>, that includes preferences that wirnae makkit by { -brand-short-name }.
 locked-key-prefs-title = Important Locked Preferences
 locked-prefs-name = Nemme
+locked-prefs-value = Vailue
+graphics-title = Graphics
 graphics-features-title = Featurs
+graphics-diagnostics-title = Diagnostics
+graphics-failure-log-title = Failure Log
 graphics-gpu1-title = GPU #1
 graphics-gpu2-title = GPU #2
+graphics-decision-log-title = Deceesion Log
+graphics-crash-guards-title = Crash Guard Disabled Featurs
+graphics-workarounds-title = Warkaroonds
+# Windowing system in use on Linux (e.g. X11, Wayland).
+graphics-window-protocol = Windae Protocol
+# Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
+graphics-desktop-environment = Desktap Environment
+place-database-title = Places Database
+place-database-integrity = Integrity
+place-database-verify-integrity = Trystmak Integrity
+a11y-title = Accessibility
 a11y-activated = Activatit
+a11y-force-disabled = Stap Accessibility
+a11y-handler-used = Accessible Handler Yaised
+a11y-instantiator = Accessibility Instantiator
+library-version-title = Leebrar Versions
 copy-text-to-clipboard-label = Copy text tae clipbuird
 copy-raw-data-to-clipboard-label = Copy raw data tae clipbuird
+sandbox-title = Sandbox
 sandbox-sys-call-log-title = Rejectit Seestem Caws
 sandbox-sys-call-index = #
 sandbox-sys-call-age = Seconds Syne
@@ -103,8 +127,10 @@ sandbox-sys-call-pid = PID
 sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = Process Type
 sandbox-sys-call-number = Syscall
+sandbox-sys-call-args = Airguments
 safe-mode-title = Try Sauf Mode
 restart-in-safe-mode-label = Restert Wi Eik-ons Disabled…
+troubleshoot-mode-title = Diagnose issues
 restart-in-troubleshoot-mode-label = Fankle-fixin Mode…
 clear-startup-cache-title = Try dichtin the stertup cache
 clear-startup-cache-label = Dicht stertup cache…
@@ -114,6 +140,9 @@ restart-button-label = Restert
 
 ## Media titles
 
+audio-backend = Soond Backend
+max-audio-channels = Max Chainnels
+sample-rate = Preferred Saumple Rate
 media-title = Media
 media-output-devices-title = Ootpit Devices
 media-input-devices-title = Inpit Devices
