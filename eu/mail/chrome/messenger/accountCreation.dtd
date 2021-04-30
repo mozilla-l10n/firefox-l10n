@@ -71,12 +71,10 @@
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "Birprobatu">
 <!ENTITY half-manual-test.accesskey      "B">
-<!ENTITY manual-config.label             "Eskouz konfiguratu…">
+<!ENTITY manual-config.label             "Eskuz konfiguratu…">
 <!ENTITY manual-config.accesskey         "E">
 <!ENTITY open-provisioner.label          "Eskuratu posta elektroniko berri bat…">
 <!ENTITY open-provisioner.accesskey      "p">
-
-
 <!ENTITY get-help.label                  "Lortu laguntza">
 <!ENTITY get-help.accesskey              "L">
 
