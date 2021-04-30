@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = Fankle-fixin Information
+page-subtitle = This page conteens technical information that micht be yaisefu whan yer ettlin at solvin a problem. Gin yer luikin fur answers tae common speirins aboot { -brand-short-name }, hae a glisk at oor <a data-l10n-name="support-link">support website</a>.
 crashes-title = Crash Reports
 crashes-id = Report ID
 crashes-send-date = Submittit
@@ -23,6 +24,7 @@ security-software-title = Siccarness Saftware
 security-software-type = Type
 security-software-name = Nemme
 security-software-antivirus = Antivirus
+security-software-antispyware = Antispywaur
 security-software-firewall = Firewaw
 features-title = { -brand-short-name } Featurs
 features-name = Nemme
@@ -68,6 +70,10 @@ app-basics-launcher-process-status = Launcher Process
 app-basics-multi-process-support = Multiprocess Windaes
 app-basics-fission-support = Fission Windaes
 app-basics-remote-processes-count = Remote Processes
+app-basics-enterprise-policies = Enterprise Policies
+app-basics-location-service-key-google = Google Airtin Service Key
+app-basics-safebrowsing-key-google = Google Saufstravaigin Key
+app-basics-key-mozilla = Mozilla Airtin Service Key
 app-basics-safe-mode = Sauf Mode
 show-dir-label =
     { PLATFORM() ->
@@ -75,11 +81,14 @@ show-dir-label =
         [windows] Open Folder
        *[other] Open Directory
     }
+environment-variables-title = Environment Shoogleables
 environment-variables-name = Nemme
+environment-variables-value = Vailue
 experimental-features-name = Nemme
 modified-prefs-name = Nemme
 user-js-title = user.js Preferences
 user-js-description = Your profile folder conteens a <a data-l10n-name="user-js-link">user.js file</a>, that includes preferences that wirnae makkit by { -brand-short-name }.
+locked-key-prefs-title = Important Locked Preferences
 locked-prefs-name = Nemme
 graphics-features-title = Featurs
 graphics-gpu1-title = GPU #1
