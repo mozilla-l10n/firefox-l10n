@@ -576,6 +576,15 @@ save-to-pocket-button =
 
 ## Customize Toolbar Buttons
 
+# Variables:
+#  $shortcut (String): keyboard shortcut to open settings (only on macOS)
+toolbar-settings-button =
+    .label = Mga Setting
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Buksan ang mga setting ({ $shortcut })
+           *[other] Buksan ang mga setting
+        }
 
 ## More items
 

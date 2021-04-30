@@ -60,3 +60,6 @@ toolbar-context-menu-remove-from-toolbar =
 toolbar-context-menu-view-customize-toolbar =
     .label = I-customize...
     .accesskey = c
+toolbar-context-menu-view-customize-toolbar-2 =
+    .label = i-Customize ang Toolbar…
+    .accesskey = C

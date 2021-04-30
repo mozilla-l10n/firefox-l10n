@@ -115,5 +115,7 @@ appmenu-help-not-deceptive =
 
 ## More Tools
 
+appmenu-customizetoolbar =
+    .label = i-Customize ang Toolbar…
 appmenu-taskmanager =
     .label = Task Manager
