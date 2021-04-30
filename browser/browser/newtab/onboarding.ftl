@@ -305,6 +305,13 @@ onboarding-multistage-theme-description-alpenglow =
 
 ## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 
+# "Hero Text" displayed on left side of welcome screen.
+# The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
+# It also signals the passion users bring to Firefox, how they use
+# Firefox to pursue those passions, as well as the boldness in their
+# choice to use Firefox over a larger competitor browser.
+# An alternative title for localization is: "It starts here".
+mr1-welcome-screen-hero-text = Све почиње овде
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Искључи анимације
 mr1-onboarding-welcome-header =
@@ -367,6 +374,16 @@ mr1-onboarding-theme-label-alpenglow = Алпски жар
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of system theme
+mr1-onboarding-theme-tooltip-system =
+    .title =
+        Користите тему оперативног система
+        за дугмад, меније и прозоре.
+# Input description for system theme
+mr1-onboarding-theme-description-system =
+    .aria-description =
+        Користите тему оперативног система
+        за дугмад, меније и прозоре.
 # Tooltip displayed on hover of light theme
 mr1-onboarding-theme-tooltip-light =
     .title =
