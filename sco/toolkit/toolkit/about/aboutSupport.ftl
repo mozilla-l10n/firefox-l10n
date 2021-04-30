@@ -86,6 +86,7 @@ graphics-gpu2-title = GPU #2
 a11y-activated = Activatit
 copy-text-to-clipboard-label = Copy text tae clipbuird
 copy-raw-data-to-clipboard-label = Copy raw data tae clipbuird
+sandbox-sys-call-log-title = Rejectit Seestem Caws
 sandbox-sys-call-index = #
 sandbox-sys-call-age = Seconds Syne
 sandbox-sys-call-pid = PID
