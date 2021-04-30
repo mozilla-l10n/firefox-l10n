@@ -11,3 +11,6 @@ account-reconnect-to-fxa = Yhteys tiliin katkaistu
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-disconnected = Yhteys on katkaistu
+# Used as the FxA toolbar menu item title when the user
+# needs to reconnect their account.
+account-disconnected2 = Tilin yhteys katkaistu

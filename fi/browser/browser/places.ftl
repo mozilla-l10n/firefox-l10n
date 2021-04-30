@@ -91,6 +91,9 @@ places-edit-bookmark =
 places-edit-generic =
     .label = Muokkaa…
     .accesskey = M
+places-edit-folder =
+    .label = Nimeä kansio uudelleen…
+    .accesskey = N
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Hallinnoidut kirjanmerkit
