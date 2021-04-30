@@ -4,42 +4,38 @@
 
 carddav-window =
     .title = Llyfr Cyfeiriadau CardDAV newydd
-
 carddav-dialog =
     .buttonlabelaccept = Parhau
     .buttonaccesskeyaccept = P
-
 carddav-experimental-warning = Mae cefnogaeth llyfr cyfeiriadau CardDAV yn arbrofol a gallai niweidio'ch data yn barhaol. Defnyddiwch ar eich risg eich hun.
-
 carddav-provider-label =
     .value = Darparwr CardDAV:
     .accesskey = D
-
 carddav-provider-option-other = Darparwr arall…
-
 carddav-url-label =
     .value = URL CardDAV:
     .accesskey = V
-
 carddav-username-label =
     .value = Enw Defnyddiwr:
     .accesskey = E
 carddav-username-input =
     .placeholder = you@example.com
-
 carddav-password-label =
     .value = Cyfrinair:
     .accesskey = c
 carddav-password-input =
     .placeholder = Cyfrinair
-
 carddav-remember-password =
     .label = Cofio'r cyfrinair
     .accesskey = o
-
+carddav-location-label =
+    .value = Lleoliad:
+    .accesskey = L
+carddav-location =
+    .default-placeholder = URL neu enw gwesteiwr gweinydd y llyfr cyfeiriadau
 carddav-loading = Chwilio am y ffurfweddiad…
+carddav-known-incompatible = Mae'n hysbys bod { $url } yn anghydnaws â { -brand-short-name }.
 carddav-connection-error = Methu cysylltu.
 carddav-none-found = Heb ddod o hyd i lyfrau cyfeiriadau i'w hychwanegu ar gyfer y cyfrif penodedig.
 carddav-already-added = Mae'r holl lyfrau cyfeiriadau ar gyfer y cyfrif penodol eisoes wedi'u hychwanegu.
-
 carddav-available-books = Llyfrau cyfeiriadau sydd ar gael:
