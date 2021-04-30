@@ -3,6 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 rights-title = Aboot Yer Richts
+rights-intro =
+    { -brand-full-name } is free and open soorce saftware, pit thegither by a community
+    o thoosands fae aw ower the warld. Here's a few things ye should
+    ken:
 rights-webservices-header = { -brand-full-name } Wab-Based Information Services
 rights-safebrowsing-term-1 = Open the application preferences
 rights-safebrowsing-term-2 = Wale the Siccarness walin
