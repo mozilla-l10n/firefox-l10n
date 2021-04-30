@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+tab-context-new-tab =
+    .label = Panibagong Tab
+    .accesskey = P
 reload-tab =
     .label = I-reload ang Tab
     .accesskey = R
@@ -46,6 +49,9 @@ bookmark-tab =
 reopen-in-container =
     .label = Muling buksan sa Lalagyan
     .accesskey = e
+tab-context-open-in-new-container-tab =
+    .label = Buksan sa Panibagong Container Tab
+    .accesskey = B
 move-to-start =
     .label = Ilipat sa Simula
     .accesskey = S
@@ -78,6 +84,9 @@ move-tabs =
 move-tab =
     .label = Ilipat ang Tab
     .accesskey = v
+tab-context-share-url =
+    .label = Ibahagi
+    .accesskey = b
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
