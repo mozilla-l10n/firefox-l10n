@@ -36,10 +36,10 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = Ceart, tha mi agaibh
     .buttonaccesskey = C
 appmenu-addon-post-install-message = Gus na tuilleadain agad a stiùireadh, briog air <image data-l10n-name='addon-install-icon'></image> sa chlàr-taice <image data-l10n-name='addon-menu-icon'></image>.
+appmenu-addon-post-install-message3 = Stiùirich na tuilleadain ’s na h-ùrlaran agad le clàr-taice na h-aplacaid.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Leig leis an leudachan seo ruith ann an uinneagan prìobhaideach
     .accesskey = a
-    
 appmenu-new-tab-controlled =
     .label = Chaidh na chì thu air taba ùr atharrachadh.
     .buttonlabel = Cum na h-atharraichean
