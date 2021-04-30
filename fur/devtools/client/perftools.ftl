@@ -93,9 +93,14 @@ perftools-thread-socket-thread =
     .title = Il thread dulà che il codiç di rêt al eseguìs cualsisei clamade di socket blocant
 perftools-thread-img-decoder =
     .title = Threads pe decodifiche des imagjins
+perftools-thread-dns-resolver =
+    .title = La risoluzion dal DNS e ven fate su chest thread
+perftools-thread-js-helper =
+    .title = Il lavôr in sotfont dal motôr JS come lis compilazions fûr dal thread principâl (off-main-thread)
 
 ##
 
+perftools-record-all-registered-threads = Salte lis selezions chi parsore e regjistre ducj i threads regjistrâts
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
