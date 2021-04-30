@@ -17,10 +17,18 @@ upgrade-dialog-new-item-tabs-title = K'ak'a' taq ruwi'
 upgrade-dialog-new-item-tabs-description = Ruk'wan cholajin etamab'äl, akuchi' nuto' ri rutzub'al chuqa' ri nujäl rusilonik.
 upgrade-dialog-new-item-icons-title = Säq Jalon taq wachib'äl chuqa' taq tzijol
 upgrade-dialog-new-item-icons-description = Yaruto' nawïl ri b'ey rik'in jun anin chapoj.
+upgrade-dialog-new-primary-primary-button = Tib'an nab'ey okik'amaya'l chi re ri { -brand-short-name }
+    .title = Tib'an chi re ri { -brand-short-name } achi'el ri okik'amaya'l k'o wi chuqa' taq pin pa ri kikajtz'ik samajib'äl
 upgrade-dialog-new-primary-default-button = Tib'an nab'ey okik'amaya'l chi re ri { -brand-short-name }
+upgrade-dialog-new-primary-pin-button = Pin { -brand-short-name } pa ri rukajtz'ik taq samaj
+upgrade-dialog-new-primary-theme-button = Ticha' jun wachinel
 upgrade-dialog-new-secondary-button = Wakami mani
 
 ## Theme selection screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-theme-title =
+    Titikirisäx
+    rik'in jun k'exon wachinel
 upgrade-dialog-theme-primary-button = Tiyak wachinel
 upgrade-dialog-theme-secondary-button = Wakami mani
