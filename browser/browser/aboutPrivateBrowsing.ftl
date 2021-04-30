@@ -9,6 +9,16 @@ about-private-browsing-info-title = អ្នក​កំពុង​ស្ថ�
 about-private-browsing-info-myths = ប្រវត្តិ​ទូទៅ​អំពី​ការរុករក​ឯកជន
 about-private-browsing =
     .title = ស្វែងរក​ទំព័រ​បណ្ដាញ
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff =
+    .title = ស្វែងរក​ជាមួយ { $engine } ឬ​បញ្ចូល​អាសយដ្ឋាន
+about-private-browsing-handoff-no-engine =
+    .title = ស្វែងរក ឬ​បញ្ចូល​អាសយដ្ឋាន
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff-text = ស្វែងរក​ជាមួយ { $engine } ឬ​បញ្ចូល​អាសយដ្ឋាន
+about-private-browsing-handoff-text-no-engine = ស្វែងរក ឬ​បញ្ចូល​អាសយដ្ឋាន
 about-private-browsing-not-private = បច្ចុប្បន្ន​អ្នក​មិន​នៅ​ក្នុង​បង្អួច​ឯកជន​ទេ។
 about-private-browsing-need-more-privacy = ត្រូវការឯកជនភាព​បន្ថែមទៀត?
 about-private-browsing-turn-on-vpn = សាកល្បង { -mozilla-vpn-brand-name }
