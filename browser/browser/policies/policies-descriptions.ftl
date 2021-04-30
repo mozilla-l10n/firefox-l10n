@@ -33,14 +33,14 @@ policy-DisableDeveloperTools = Блокирај приступ програме�
 policy-DisableFeedbackCommands = Онемогући наредбе за слање повратних информација из менија „Помоћ“ (опције „Пошаљи повратне информације“ и „Пријави обманљив сајт“).
 policy-DisableFirefoxAccounts = Онемогући { -fxaccount-brand-name } услуге, укључујући Sync.
 # Firefox Screenshots is the name of the feature, and should not be translated.
-policy-DisableFirefoxScreenshots = Онемогући Firefox Screenshots могућност.
+policy-DisableFirefoxScreenshots = Онемогућава функцију Firefox Screenshots.
 policy-DisableFirefoxStudies = Спречи извођење { -brand-short-name } студија.
 policy-DisableForgetButton = Спречи приступ дугмету „Заборави“.
 policy-DisableFormHistory = Не памти историју претраживања и формулара.
 policy-DisableMasterPasswordCreation = Ако је тачно, неће бити могуће постављање главне лозинке.
 policy-DisablePrimaryPasswordCreation = Ако је тачно, главна лозинка се не може направити.
 policy-DisablePasswordReveal = Не дозволите приказивање лозинке у сачуваним подацима за пријаву.
-policy-DisablePocket = Онемогући могућност чувања веб страница у сервису Pocket.
+policy-DisablePocket = Онемогућава чување веб-страница у Pocket-у.
 policy-DisablePrivateBrowsing = Онемогући приватно прегледање.
 policy-DisableProfileImport = Онемогући наредбу у менију за увоз података из других прегледача.
 policy-DisableProfileRefresh = Онемогући дугме за освежавање програма { -brand-short-name } на страни about:support.
