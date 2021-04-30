@@ -67,7 +67,7 @@ chat-pane-header = Txata
 chat-status-title = Egoera
 chat-notifications-title = Jakinarazpenak
 chat-pane-styling-header = Diseinua
-choose-messenger-language-description = Aukeratu hizkuntza { -brand-short-name } erabiliko duena pantailako menu, mezu eta jakinarazpenetan.
+choose-messenger-language-description = Aukeratu { -brand-short-name }(e)k menuak, mezuak eta jakinarazpenak erakusteko erabiliko dituen hizkuntzak.
 manage-messenger-languages-button =
     .label = Ezarri ordezkoak
     .accesskey = i
@@ -88,8 +88,8 @@ update-in-progress-ok-button = &Baztertu
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Jarraitu
-account-button = Kontu-ezarpenak
 addons-button = Hedapenak eta Gaiak
+account-button = Kontu-ezarpenak
 
 ## OS Authentication dialog
 
