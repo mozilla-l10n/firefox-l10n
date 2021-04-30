@@ -89,3 +89,39 @@ rights-webservices-term-1 =
 rights-webservices-term-2 =
     { -vendor-short-name } micht gie ower or chynge the Services at its
     ain discretion.
+rights-webservices-term-3 =
+    Ye're walcome tae yaise these Services wi the accompanyin version o
+    { -brand-short-name }, and { -vendor-short-name } grants ye its richts tae
+    dae sae. { -vendor-short-name } and its licensors reserve aw ither richts in
+    the Services. These terms arenae intendit tae leemit onie richts grantit
+    unner open soorce licences applicable tae { -brand-short-name } and tae
+    correspondin soorce code versions o { -brand-short-name }.
+rights-webservices-term-4 =
+    <strong>The Services are providit “as-is.” { -vendor-short-name }, its
+    contreebutors, licensors, and distributors, disclaim aw warranties, whether
+    express or implied, includin wioot leemitation, warranties that the
+    Services are merchantable and fit fur yer parteecular purposes. Ye bear
+    the hale risk as tae walin the Services fur yer purposes and as tae
+    the quality and performance o the Services. Some jurisdictions dinnae
+    alloo the exclusion or leemitation o implied warranties, sae this disclaimer
+    micht no apply tae yersel.</strong>
+rights-webservices-term-5 =
+    <strong>Except as required by law, { -vendor-short-name }, its
+    contreebutors, licensors, and distributors willnae be liable fur onie
+    indirect, special, incidental, consequential, punitive, or exemplary
+    damages arisin oot o or in onie wey relatin tae the yaise o
+    { -brand-short-name } and the Services. The collective liability unner
+    these terms willnae gang ower $500 (five hunner dollars). Some jurisdictions
+    dinnae alloo the exclusion or leemitation o certain damages, sae this
+    exclusion and leemitation micht no apply tae yersel.</strong>
+rights-webservices-term-6 =
+    { -vendor-short-name } micht update these terms as necessar fae time tae
+    time. These terms cannae be chynged or cancelled wioot
+    { -vendor-short-name }’s scrieved greeance.
+rights-webservices-term-7 =
+    These terms are governed by the laws o the state o California, U.S.A.,
+    excludin its conflict o law proveesions. Gin onie portion o these terms is
+    haudit tae be invalid or no enforceable, the remainin portions will stey in
+    full force and effect. In the event o a conflict atween an owerset
+    version o these terms and the English leid version, the English
+    leid version shall control.
