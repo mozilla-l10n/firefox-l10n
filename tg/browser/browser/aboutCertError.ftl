@@ -14,8 +14,11 @@ cert-error-trust-unknown-issuer-intro = Касе кӯшиш карда, мета
 cert-error-trust-unknown-issuer = Сомонаҳо айнияти худро тавассути гувоҳиномаҳо исбот мекунанд. { -brand-short-name } ба { $hostname } эътимод надорад, зеро ки барорандаи гувоҳинома номаълум аст, гувоҳинома ба таври худ имзо кардааст ё сервер гувоҳиномаҳои ёридиҳандаи дурустро намефиристонад.
 cert-error-trust-cert-invalid = Гувоҳинома эътибор надорад, зеро ки он аз тарафи мақомоти иҷозатдиҳандаи гувоҳиномаҳои беэътибор бароварда шудааст.
 cert-error-trust-untrusted-issuer = Гувоҳинома эътибор надорад, зеро ки барорандаи гувоҳинома эътибор надорад.
+cert-error-trust-signature-algorithm-disabled = Гувоҳинома эътибор надорад, зеро ки он ба воситаи алгоритме имзо карда шуд, ки ба сабаби хатарнокӣ ғайрифаъол карда шуд.
 cert-error-trust-expired-issuer = Гувоҳинома эътибор надорад, зеро ки муҳлати эътибори гувоҳинома ба анҷом расид.
 cert-error-trust-self-signed = Гувоҳинома эътибор надорад, зеро ки он ба таври худ имзо имзо кардааст.
+cert-error-trust-symantec = Гувоҳиномаҳое, ки аз тарафи GeoTrust, RapidSSL, Symantec, Thawte ва VeriSign бароварда шудаанд, дигар бехатар нестанд, зеро ки ин мақомотҳои гувоҳиномадиҳӣ риояи таҷрибаи бехатариро иҷро карда натавонистанд.
+cert-error-untrusted-default = Гувоҳинома аз манбаи беэътимод бароварда шудааст.
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Рамзи хато: <a data-l10n-name="error-code-link">{ $error }</a>
