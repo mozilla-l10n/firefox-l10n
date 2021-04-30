@@ -303,6 +303,22 @@ about-logins-import-dialog-error-title = ការនាំចូល​មាន
 about-logins-import-dialog-error-conflicting-values-title = តម្លៃ​ស្ទួន​ច្រើន​សម្រាប់​ការចូល​មួយ
 about-logins-import-dialog-error-conflicting-values-description = ឧទាហរណ៍៖ អ្នក​ប្រើប្រាស់ ពាក្យសម្ងាត់ URLs។ល។ ច្រើន​សម្រាប់​ការចូលមួយ។
 about-logins-import-dialog-error-file-format-title = បញ្ហា​ទម្រង់​ឯកសារ
+about-logins-import-dialog-error-file-format-description = ក្បាលអត្ថបទ​ជួរឈរ​មិន​ត្រឹមត្រូវ ឬ​បាត់។ សូមប្រាកដ​ថា ឯកសារ​មាន​ជួរឈរ​សម្រាប់​ឈ្មោះ​អ្នក​ប្រើប្រាស់ ពាក្យសម្ងាត់ និង URL។
+about-logins-import-dialog-error-file-permission-title = មិន​អាច​អាន​ឯកសារ​បាន​ទេ
+about-logins-import-dialog-error-file-permission-description = { -brand-short-name } មិន​មាន​សិទ្ធិ​អនុញ្ញាត​ដើម្បី​អាន​ឯសារ​បាន​ទេ។ សាកល្បង​ផ្លាស់ប្ដូរ​សិទ្ធិ​អនុញ្ញាត​ឯកសារ។
+about-logins-import-dialog-error-unable-to-read-title = មិន​អាច​ញែក​ឯកសារ​បាន​ទេ
+about-logins-import-dialog-error-unable-to-read-description = ប្រាកដ​ថា អ្នក​បាន​ជ្រើសរើសឯកសារ CSV ឬ TSV។
+about-logins-import-dialog-error-no-logins-imported = មិន​មាន​ការចូល​ត្រូវបាន​នាំចូល​ទេ
+about-logins-import-dialog-error-learn-more = ស្វែងយល់​បន្ថែម
+about-logins-import-dialog-error-try-again = សាកល្បង​ម្ដង​ទៀត...
+about-logins-import-dialog-error-try-import-again = សាកល្បង​នាំចូល​ម្ដងទៀត...
+about-logins-import-dialog-error-cancel = បោះបង់
+about-logins-import-report-title = នាំចូល​សេចក្ដិ​សង្ខេប
+about-logins-import-report-description = ការចូល និង​ពាក្យសម្ងាត់​ត្រូវបាន​នាំចូល​ទៅ { -brand-short-name }។
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = ជួរដេក { $number }
 
 ##
 ## Variables:
