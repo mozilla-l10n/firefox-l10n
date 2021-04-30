@@ -143,15 +143,34 @@ restart-button-label = Restert
 audio-backend = Soond Backend
 max-audio-channels = Max Chainnels
 sample-rate = Preferred Saumple Rate
+roundtrip-latency = Roondtrip latency (staunart deviation)
 media-title = Media
 media-output-devices-title = Ootpit Devices
 media-input-devices-title = Inpit Devices
 media-device-name = Nemme
+media-device-group = Group
+media-device-vendor = Dealer
+media-device-state = State
+media-device-preferred = Preferred
+media-device-format = Format
+media-device-channels = Chainnels
+media-device-rate = Rate
+media-device-latency = Latency
+media-capabilities-title = Media Capabilities
+# List all the entries of the database.
+media-capabilities-enumerate = Enumerate database
 
 ##
 
+intl-title = Internationalization & Localization
 intl-app-title = Application Settins
+intl-locales-requested = Requestit Locales
+intl-locales-available = Locales At Haun
+intl-locales-supported = App Locales
+intl-locales-default = Default Locale
 intl-os-title = Operatin Seestem
+intl-os-prefs-system-locales = Seestem Locales
+intl-regional-prefs = Regional Preferences
 
 ## Remote Debugging
 ##
@@ -162,12 +181,22 @@ intl-os-title = Operatin Seestem
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
+remote-debugging-title = Remote Bugdichtin (Chromium Protocol)
+remote-debugging-accepting-connections = Acceptin Connections
 remote-debugging-url = URL
 
 ##
 
+support-third-party-modules-title = Third-Pairty Modules
+support-third-party-modules-module = Module File
 support-third-party-modules-version = File Version
+support-third-party-modules-vendor = Dealer Info
+support-third-party-modules-occurrence = Occurrence
+support-third-party-modules-process = Process Type & ID
 support-third-party-modules-thread = Threid
+support-third-party-modules-base = Imagebase Address
+support-third-party-modules-uptime = Process Uptime (ms)
+support-third-party-modules-duration = Loadin Duration (ms)
 support-third-party-modules-status = Status
 support-third-party-modules-status-loaded = Loadit
 support-third-party-modules-status-blocked = Blockit
@@ -176,8 +205,18 @@ support-third-party-modules-empty = Nae third-pairty modules wir loadit.
 support-third-party-modules-no-value = (Nae value)
 support-third-party-modules-button-open =
     .title = Open file airtin…
+support-third-party-modules-expand =
+    .title = Kythe detailed information
+support-third-party-modules-collapse =
+    .title = In-fauld detailed information
+support-third-party-modules-unsigned-icon =
+    .title = This module isnae signed
 support-third-party-modules-folder-icon =
     .title = Open file airtin…
+support-third-party-modules-down-icon =
+    .title = Kythe detailed information
+support-third-party-modules-up-icon =
+    .title = In-fauld detailed information
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -206,12 +245,22 @@ crashes-time-days =
         [one] { $days } day syne
        *[other] { $days } days syne
     }
+# Variables
+# $reports (integer) - Number of pending reports
+pending-reports =
+    { $reports ->
+        [one] Aw Crash Reports (includin { $reports } pendin crash in the gien time range)
+       *[other] Aw Crash Reports (includin { $reports } pendin crashes in the gien time range)
+    }
 raw-data-copied = Raw data copied tae clipbuird
 text-copied = Text copied tae clipbuird
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
+blocked-driver = Blockit fur yer graphics driver version.
+blocked-gfx-card = Blockit fur yer graphics caird acause o unresolvit driver issues.
 blocked-os-version = Blockit for yer operatin seestem version.
+blocked-mismatched-version = Blockit fur yer graphics driver version mismatch atween registry and DLL.
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType Parameters

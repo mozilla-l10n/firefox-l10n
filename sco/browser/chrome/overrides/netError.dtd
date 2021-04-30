@@ -143,7 +143,7 @@ was trying to connect. -->
 ">
 
 <!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "
-<p>Yer computer clock is set tae <span id='wrongSystemTime_systemDate2'/>. Mak siccar yer computer is set tae the richt date, time, and time zone in yer system settins, syne refresh <span class='hostname'/>.</p>
+<p>Yer computer clock is set tae <span id='wrongSystemTime_systemDate2'/>. Mak siccar yer computer is set tae the richt date, time, and time zone in yer seestem settins, syne refresh <span class='hostname'/>.</p>
 <p>Gin yer clock is awready set tae the richt time, the wabsite is likely wrangly configurit, and there is nowt ye can dae fur tae sort the issue. Ye can lat the wabsite’s admeenistrator ken aboot the problem.</p>
 ">
 
@@ -194,7 +194,7 @@ was trying to connect. -->
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Gin yer no fameeliar wi <span class='mitm-name'/>, syne this could be an onding and ye shouldnae gang on tae the site.">
 <!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Gin yer no fameeliar wi <span class='mitm-name'/>, syne this could be an onding, and there is nowt ye can dae fur tae get on tae the site.">
 
-<!ENTITY clockSkewError.longDesc "Yer computer thinks it is <span id='wrongSystemTime_systemDate1'/>, which staps &brandShortName; fae connectin siccarly. Fur tae gang on tae <span class='hostname'></span>, update yer computer clock in yer system settins tae the current date, time, and time zone, syne refresh <span class='hostname'></span>.">
+<!ENTITY clockSkewError.longDesc "Yer computer thinks it is <span id='wrongSystemTime_systemDate1'/>, which staps &brandShortName; fae connectin siccarly. Fur tae gang on tae <span class='hostname'></span>, update yer computer clock in yer seestem settins tae the current date, time, and time zone, syne refresh <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "It luiks like yer netwark siccarness settins micht be causin this. Are ye wantin default settins tae be restored?">
 <!ENTITY prefReset.label "Restore default settins">
