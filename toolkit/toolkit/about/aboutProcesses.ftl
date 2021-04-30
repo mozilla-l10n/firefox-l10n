@@ -2,12 +2,24 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Page title
+about-processes-title = Менаџер процеса
+# The Actions column
+about-processes-column-action =
+    .title = Радње
 
 ## Tooltips
 
+about-processes-shutdown-process =
+    .title = Затвори картице и окончај процесе
+about-processes-shutdown-tab =
+    .title = Затвори картицу
 
 ## Column headers
 
+about-processes-column-name = Назив
+about-processes-column-memory-resident = Меморија
+about-processes-column-cpu-total = CPU
 
 ## Process names
 ## Variables:
@@ -15,6 +27,7 @@
 ##    $origin (String) The domain name for this process.
 ##    $type (String) The raw type for this process. Used for unknown processes.
 
+about-processes-browser-process-name = { -brand-short-name } (процес { $pid })
 about-processes-file-process-name = Датотеке (процес { $pid })
 about-processes-extension-process-name = Додаци (процес { $pid })
 about-processes-privilegedabout-process-name = Странице About (процес { $pid })
