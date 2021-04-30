@@ -3,4 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-about-title = about:about
-about-about-note = Đây là một danh sách các trang “giới thiệu” tiện cho bạn.<br/> Một số có thể gây bối rối. Một số chỉ dành cho mục đích chẩn đoán.<br/> Và một số bị bỏ đi vì chúng yêu cầu các chuỗi truy vấn.
+about-about-note = Đây là một danh sách các trang “about” giúp bạn thuận tiện điều hướng chúng hơn.<br/> Một số trong số chúng có thể gây nhầm lẫn. Một số chỉ dành cho mục đích chẩn đoán.<br/> Và một số bị bỏ qua vì chúng yêu cầu chuỗi truy vấn.
