@@ -10,6 +10,8 @@
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-new-title = Павітайцеся з новым { -brand-short-name }
+upgrade-dialog-new-subtitle = Створаны, каб хутчэй даставіць вас туды, куды вы хочаце
+upgrade-dialog-new-item-menu-description = Вызначце прыярытэт важных рэчаў, каб знайсці тое, што вам трэба.
 upgrade-dialog-new-item-tabs-title = Сучасныя карткі
 upgrade-dialog-new-primary-primary-button = Зрабіць { -brand-short-name } маім асноўным браўзерам
     .title = Усталёўвае { -brand-short-name } прадвызначаным браўзерам і замацоўвае ў панэлі задач
