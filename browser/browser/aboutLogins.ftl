@@ -319,16 +319,39 @@ about-logins-import-report-description = ការចូល និង​ពា�
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = ជួរដេក { $number }
+about-logins-import-report-row-description-no-change = ស្ទួន៖ ត្រូវគ្នា​ជាមួយ​ការចូល​ដែល​មាន​ស្រាប់
+about-logins-import-report-row-description-modified = ការចូល​ដែល​មាន​ស្រាប់​ត្រូវបាន​ធ្វើបច្ចុប្បន្នភាព
+about-logins-import-report-row-description-added = ការចូល​ថ្មី​ត្រូវបាន​បញ្ចូល
+about-logins-import-report-row-description-error = បញ្ហា៖ មិន​បាន​បញ្ចូល​កន្លែង​ណាមួយ
 
 ##
 ## Variables:
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
+about-logins-import-report-row-description-error-multiple-values = បញ្ហា៖ តម្លៃ​ច្រើន​សម្រាប់ { $field }
+about-logins-import-report-row-description-error-missing-field = បញ្ហា៖ បាត់ { $field }
 
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-report-added =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ការចូលថ្មី​ត្រូវបាន​បញ្ចូល</div>
+    }
+about-logins-import-report-modified =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ការចូល​ដែល​មាន​ស្រាប់​ត្រូវបាន​ធ្វើបច្ចុប្បន្នភាព</div>
+    }
+about-logins-import-report-no-change =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ការចូល​ដែល​ស្ទួនគ្នា</div> <div data-l10n-name="not-imported">(not imported)</div>
+    }
+about-logins-import-report-error =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">បញ្ហា</div> <div data-l10n-name="not-imported">(not imported)</div>
+    }
 
 ## Logins import report page
 
+about-logins-import-report-page-title = នាំចូល​របាយការណ៍​សង្ខេប
