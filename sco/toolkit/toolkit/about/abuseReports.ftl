@@ -89,4 +89,6 @@ abuse-report-policy-suggestions =
     Note: Copyricht and tredmerk issues maun be reportit by anither process.
     <a data-l10n-name="report-infringement-link">Yaise these instructions</a> fur tae
     report the problem.
+abuse-report-unwanted-reason-v2 = I nivver wantit it and I dinnae ken how tae get shot o it
+abuse-report-unwanted-example = Exemple: An application instawed it wioot my permeesion
 abuse-report-other-reason = Sowt else
