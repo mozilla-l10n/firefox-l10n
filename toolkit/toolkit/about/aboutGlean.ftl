@@ -6,3 +6,4 @@
 ### "Glean" and "Glean SDK" should remain in English.
 
 about-glean-page-title = О Glean-у
+controls-button-label = Пошаљи подешавања
