@@ -326,6 +326,7 @@ identity-https-only-info-turn-off2 = Jos sivu näyttää rikkinäiseltä, saatat
 identity-https-only-info-no-upgrade = Yhteyden päivittäminen HTTP:stä epäonnistui.
 identity-permissions-storage-access-header = Sivustorajat ylittävät evästeet
 identity-permissions-storage-access-hint = Nämä osapuolet voivat käyttää sivustorajat ylittäviä evästeitä ja sivustotietoja, kun olet tällä sivustolla.
+identity-permissions-storage-access-learn-more = Lue lisää
 identity-permissions-reload-hint = Sivu tarvitsee ehkä päivittää, jotta muutokset tulevat voimaan.
 identity-permissions-empty = Sivustolle ei ole myönnetty mitään erityisoikeuksia.
 identity-clear-site-data =
