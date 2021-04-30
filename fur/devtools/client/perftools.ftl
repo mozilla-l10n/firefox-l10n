@@ -75,6 +75,24 @@ perftools-button-edit-settings = Modifiche lis impostazions…
 
 perftools-thread-gecko-main =
     .title = I procès principâi sedi pal procès gjenitôr che pai procès di contignût
+perftools-thread-compositor =
+    .title = Cumbine adun i elements piturâts in maniere divierse su la pagjine
+perftools-thread-dom-worker =
+    .title = Chest al gjestìs sedi i web workers che i service workers
+perftools-thread-renderer =
+    .title = Cuant che WebRender al è atîf, il thread che al eseguìs lis clamadis OpenGL
+perftools-thread-render-backend =
+    .title = Il thread RenderBackend di WebRender
+perftools-thread-paint-worker =
+    .title = Cuant che la piture fûr dal thread principâl (off-main-thread) e je ative, il thread dulà che e ven fate la piture
+perftools-thread-style-thread =
+    .title = Il calcul dai stîi al ven dividût in plui threads
+pref-thread-stream-trans =
+    .title = Traspuart dal flus di rêt
+perftools-thread-socket-thread =
+    .title = Il thread dulà che il codiç di rêt al eseguìs cualsisei clamade di socket blocant
+perftools-thread-img-decoder =
+    .title = Threads pe decodifiche des imagjins
 
 ##
 
