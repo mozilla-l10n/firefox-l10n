@@ -38,6 +38,21 @@ sidebar-preferences-button-title =
             [neuter] { -brand-short-name(case: "gen") }
            *[other] програма { -brand-short-name }
         }
+addons-settings-button =
+    Подешавања { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "gen") }
+        [feminine] { -brand-short-name(case: "gen") }
+        [neuter] { -brand-short-name(case: "gen") }
+       *[other] програма { -brand-short-name }
+    }
+sidebar-settings-button-title =
+    .title =
+        Подешавања { -brand-short-name.gender ->
+            [masculine] { -brand-short-name(case: "gen") }
+            [feminine] { -brand-short-name(case: "gen") }
+            [neuter] { -brand-short-name(case: "gen") }
+           *[other] програма { -brand-short-name }
+        }
 show-unsigned-extensions-button =
     .label = Неки додаци се не могу проверити
 show-all-extensions-button =
