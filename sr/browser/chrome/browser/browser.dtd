@@ -285,4 +285,4 @@ this container is a toolbar. This avoids double-speaking. -->
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
      used as a textual label for the indicator used by assistive technology
      users. -->
-<!ENTITY accessibilityIndicator.tooltip "Могућности за приступачност омогућене">
+<!ENTITY accessibilityIndicator.tooltip "Функције приступачности су омогућене">

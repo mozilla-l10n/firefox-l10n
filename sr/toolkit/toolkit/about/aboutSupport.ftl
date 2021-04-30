@@ -29,7 +29,13 @@ security-software-name = Име
 security-software-antivirus = Антивирус
 security-software-antispyware = Антиспајвер
 security-software-firewall = Заштитни зид
-features-title = { -brand-short-name } могућности
+features-title =
+    Функције { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "gen") }
+        [feminine] { -brand-short-name(case: "gen") }
+        [neuter] { -brand-short-name(case: "gen") }
+       *[other] програма { -brand-short-name }
+    }
 features-name = Назив
 features-version = Верзија
 features-id = ID
@@ -86,7 +92,7 @@ locked-key-prefs-title = Увези закључана подешавања
 locked-prefs-name = Име
 locked-prefs-value = Вредност
 graphics-title = Графика
-graphics-features-title = Могућности
+graphics-features-title = Функције
 graphics-diagnostics-title = Дијагностика
 graphics-failure-log-title = Дневник неуспеха
 graphics-gpu1-title = GPU #1

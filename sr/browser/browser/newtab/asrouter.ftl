@@ -6,7 +6,7 @@
 ## These messages are used as headings in the recommendation doorhanger
 
 cfr-doorhanger-extension-heading = Препоручени додатак
-cfr-doorhanger-feature-heading = Препоручена могућност
+cfr-doorhanger-feature-heading = Препоручена функција
 cfr-doorhanger-pintab-heading = Пробајте да закачите картицу
 
 ##
