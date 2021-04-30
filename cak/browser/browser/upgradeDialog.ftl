@@ -30,5 +30,11 @@ upgrade-dialog-new-secondary-button = Wakami mani
 upgrade-dialog-theme-title =
     Titikirisäx
     rik'in jun k'exon wachinel
+upgrade-dialog-theme-system = Ruwachinel q'inoj
+    .title = Tawojqaj ri ruwachinel samajel q'inoj kichin taq pitz'b'äl, taq k'utsamaj chuqa' taq silowäch
+upgrade-dialog-theme-light = Säq
+    .title = Tokisäx säq wachinel pa taq pitz'b'äl, taq k'utsamaj chuqa' taq tzuwäch
+upgrade-dialog-theme-dark = Q'ëq
+    .title = Tokisäx jun q'ëq wachinel pa taq pitz'b'äl, taq k'utsamaj chuqa' taq tzuwäch
 upgrade-dialog-theme-primary-button = Tiyak wachinel
 upgrade-dialog-theme-secondary-button = Wakami mani
