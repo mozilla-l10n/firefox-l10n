@@ -240,6 +240,9 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Clàraich a-steach gu { -brand-product-name }…
     .accesskey = g
+menu-tools-addons-and-themes =
+    .label = Tuilleadain ’s ùrlaran
+    .accesskey = a
 menu-tools-turn-on-sync =
     .label = Cuir { -sync-brand-short-name } air…
     .accesskey = r
@@ -286,15 +289,6 @@ menu-window-bring-all-to-front =
 # NOTE: For Engineers, any additions or changes to Help menu strings should
 # also be reflected in the related strings in appmenu.ftl. Those strings, by
 # convention, will have the same ID as these, but prefixed with "app".
-# Example: appmenu-help-product
-#
-# These strings are duplicated to allow for different casing depending on
-# where the strings appear.
-
-
-# NOTE: For Engineers, any additions or changes to Help menu strings should
-# also be reflected in the related strings in appmenu.ftl. Those strings, by
-# convention, will have the same ID as these, but prefixed with "app".
 # Example: appmenu-get-help
 #
 # These strings are duplicated to allow for different casing depending on
@@ -318,8 +312,6 @@ menu-help-keyboard-shortcuts =
 menu-help-troubleshooting-info =
     .label = Taic le duilgheadasan
     .accesskey = T
-menu-help-taskmanager =
-    .label = Manaidsear nan saothair
 menu-help-report-site-issue =
     .label = Dèan aithris air duilgheadas leis an làrach...
 menu-help-feedback-page =

@@ -14,6 +14,8 @@ appmenuitem-new-window =
     .label = Uinneag ùr
 appmenuitem-new-private-window =
     .label = Uinneag phrìobhaideach ùr
+appmenuitem-addons-and-themes =
+    .label = Tuilleadain ’s ùrlaran
 
 ## Zoom and Fullscreen Controls
 
@@ -48,26 +50,11 @@ whatsnew-panel-header = Na tha ùr
 appmenu-about =
     .label = Mu { -brand-shorter-name }
     .accesskey = M
-appmenu-help-troubleshooting-info =
-    .label = Taic le duilgheadasan
-    .accesskey = T
-appmenu-help-taskmanager =
-    .label = Manaidsear nan saothair
 appmenu-help-report-site-issue =
     .label = Dèan aithris air duilgheadas leis an làrach...
 appmenu-help-feedback-page =
     .label = Cuir thugainn do bheachdan…
     .accesskey = C
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Ath-thòisich leis na tuilleadan air an cur à comas…
-    .accesskey = r
-appmenu-help-safe-mode-with-addons =
-    .label = Ath-thòisich leis na tuilleadan an comas
-    .accesskey = t
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
