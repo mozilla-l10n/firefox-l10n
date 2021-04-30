@@ -9,7 +9,7 @@
 <!ENTITY playButton.playLabel "Reproducir">
 <!ENTITY playButton.pauseLabel "Pausa">
 <!ENTITY muteButton.muteLabel "Mudo">
-<!ENTITY muteButton.unmuteLabel "Unmute">
+<!ENTITY muteButton.unmuteLabel "Activar audio">
 <!ENTITY fullscreenButton.enterfullscreenlabel "Pantalla completa">
 <!ENTITY fullscreenButton.exitfullscreenlabel "Salir de pantalla completa">
 <!ENTITY castingButton.castingLabel "Enviar a pantalla">
