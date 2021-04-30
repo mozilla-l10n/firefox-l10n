@@ -205,7 +205,7 @@ newtab-empty-section-topstories = To tela. Wejrzij sam niyskorzij za nowymi arti
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
-newtab-discovery-empty-section-topstories-header = Wszysko poczytane!
+newtab-discovery-empty-section-topstories-header = Wszysko przeczytane!
 newtab-discovery-empty-section-topstories-content = Wejrzij sam niyskorzij za nowościami.
 newtab-discovery-empty-section-topstories-try-again-button = Sprōbuj jeszcze roz
 newtab-discovery-empty-section-topstories-loading = Ladowanie…
