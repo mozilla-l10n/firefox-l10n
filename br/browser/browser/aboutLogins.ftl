@@ -92,6 +92,7 @@ login-item-new-login-title = Krouiñ un titour kennaskañ nevez
 login-item-edit-button = Embann
 about-logins-login-item-remove-button = Dilemel
 login-item-origin-label = Chomlec’h al lec’hienn
+login-item-tooltip-message = Bezit sur e klot gant ar chomlec'h resis eus al lec'hiennoù lec'h ma kennaskit.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Anv arveriad
@@ -207,6 +208,7 @@ about-logins-confirm-export-dialog-title = Ezporzhiañ an titouroù kennaskañ
 about-logins-confirm-export-dialog-message = Enrollet e vo ar gerioù-tremen dindan ur stumm lennus (sk: g3rTremenF4ll) neuze e c’hallo bezañ lennet gant an holl a c’hall digeriñ ar restr ezporzhiet.
 about-logins-confirm-export-dialog-confirm-button = Ezporzhiañ…
 about-logins-alert-import-title = Echu eo gant an enporzhiañ
+about-logins-alert-import-message = Gwelout an diverrañ enporzhiañ berraet
 confirm-discard-changes-dialog-title = Dilezel ar c’hemmoù n’int ket bet enrollet?
 confirm-discard-changes-dialog-message = An holl c’hemmoù n’int ket bet enrollet a vo kollet.
 confirm-discard-changes-dialog-confirm-button = Dilezel
@@ -267,6 +269,13 @@ about-logins-import-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] Restr CSV
        *[other] Restr CSV
+    }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] Teul TSV
+       *[other] Restr TSV
     }
 
 ##
