@@ -5,10 +5,10 @@
 places-open =
     .label = ਖੋਲ੍ਹੋ
     .accesskey = O
-places-open-tab =
+places-open-in-tab =
     .label = ਨਵੀਂ ਟੈਬ 'ਚ ਖੋਲ੍ਹੋ
     .accesskey = w
-places-open-in-tab =
+places-open-tab =
     .label = ਨਵੀਂ ਟੈਬ 'ਚ ਖੋਲ੍ਹੋ
     .accesskey = w
 places-open-all-bookmarks =
@@ -20,8 +20,14 @@ places-open-all-in-tabs =
 places-open-window =
     .label = ਨਵੀਂ ਵਿੰਡੋ 'ਚ ਖੋਲ੍ਹੋ
     .accesskey = N
+places-open-in-window =
+    .label = ਨਵੀਂ ਵਿੰਡੋ ਵਿੱਚ ਖੋਲ੍ਹੋ
+    .accesskey = N
 places-open-private-window =
     .label = ਨਵੀਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ 'ਚ ਖੋਲ੍ਹੋ
+    .accesskey = P
+places-open-in-private-window =
+    .label = ਨਵੀਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਵਿੱਚ ਖੋਲ੍ਹੋ
     .accesskey = P
 places-new-bookmark =
     .label = …ਨਵਾਂ ਬੁੱਕਮਾਰਕ
@@ -35,12 +41,6 @@ places-new-folder =
 places-new-separator =
     .label = ਨਵਾਂ ਵੱਖਰੇਵਾਂ
     .accesskey = S
-places-open-in-window =
-    .label = ਨਵੀਂ ਵਿੰਡੋ ਵਿੱਚ ਖੋਲ੍ਹੋ
-    .accesskey = N
-places-open-in-private-window =
-    .label = ਨਵੀਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਵਿੱਚ ਖੋਲ੍ਹੋ
-    .accesskey = P
 places-add-bookmark =
     .label = …ਬੁੱਕਮਾਰਕ ਜੋੜੋ
     .accesskey = B
@@ -91,6 +91,16 @@ places-edit-bookmark =
 places-edit-generic =
     .label = …ਸੋਧੋ
     .accesskey = i
+places-edit-folder =
+    .label = …ਫੋਲਡਰ ਦਾ ਨਾਂ ਬਦਲੋ
+    .accesskey = e
+places-remove-folder =
+    .label =
+        { $count ->
+            [1] ਫੋਲਡਰ ਨੂੰ ਹਟਾਓ
+           *[other] ਫੋਲਡਰਾਂ ਨੂੰ ਹਟਾਓ
+        }
+    .accesskey = m
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = ਇੰਤਜ਼ਾਮ ਕੀਤੇ ਬੁੱਕਮਾਰਕਾਂ
