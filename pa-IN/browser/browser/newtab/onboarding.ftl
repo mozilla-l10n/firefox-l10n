@@ -200,7 +200,6 @@ onboarding-welcome-steps-indicator =
 # automatically added to the text inside it. "look" should stay inside the span.
 onboarding-multistage-theme-header = <span data-l10n-name="zap">ਦਿੱਖ</span> ਨੂੰ ਚੁਣੋ
 onboarding-multistage-theme-subtitle = ਥੀਮ ਨਾਲ { -brand-short-name } ਨੂੰ ਆਪਣਾ ਬਣਾਓ।
-onboarding-multistage-theme-primary-button-label = ਥੀਮ ਸੰਭਾਲੋ
 onboarding-multistage-theme-primary-button-label2 = ਮੁਕੰਮਲ
 onboarding-multistage-theme-secondary-button-label = ਹਾਲੇ ਨਹੀਂ
 # Automatic theme uses operating system color settings
@@ -255,3 +254,46 @@ onboarding-multistage-theme-description-alpenglow =
     .aria-description =
         ਬਟਨਾਂ, ਮੀਨੂ ਅਤੇ ਵਿੰਡੋਆਂ ਲਈ ਰੰਗਦਾਰ
         ਦਿੱਖ ਵਰਤੋ।
+
+## Multistage MR1 onboarding strings (MR1 about:welcome pages)
+
+# "Hero Text" displayed on left side of welcome screen.
+# The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
+# It also signals the passion users bring to Firefox, how they use
+# Firefox to pursue those passions, as well as the boldness in their
+# choice to use Firefox over a larger competitor browser.
+# An alternative title for localization is: "It starts here".
+mr1-welcome-screen-hero-text = ਫਾਇਰ ਇੱਥੋਂ ਸ਼ੁਰੂ ਕਰੋ
+# This button will open system settings to turn on prefers-reduced-motion
+mr1-onboarding-reduce-motion-button-label = ਐਨੀਮੇਸ਼ਨਾਂ ਬੰਦ ਕਰੋ
+mr1-onboarding-welcome-header = { -brand-short-name } ਵਲੋਂ ਜੀ ਆਇਆਂ ਨੂੰ
+mr1-onboarding-set-default-pin-primary-button-label = { -brand-short-name } ਨੂੰ ਮੇਰਾ ਮੂਲ ਬਰਾਊਜ਼ਰ ਬਣਾਓ
+    .title = { -brand-short-name } ਨੂੰ ਮੂਲ ਬਰਾਊਜ਼ਰ ਬਣਾਓ ਤੇ ਟਾਸਕ-ਬਾਰ ਵਿੱਚ ਟੰਗੋ
+mr1-onboarding-set-default-only-primary-button-label = { -brand-short-name } ਨੂੰ ਮੇਰਾ ਮੂਲ ਬਰਾਊਜ਼ਰ ਬਣਾਓ
+mr1-onboarding-set-default-secondary-button-label = ਹੁਣੇ ਨਹੀਂ
+mr1-onboarding-sign-in-button-label = ਸਾਇਨ ਇਨ
+mr1-onboarding-import-header = ਇਹ ਸਭ ਆਪਣੇ ਨਾਲ ਲਿਆਓ
+mr1-onboarding-import-subtitle = ਆਪਣੇ ਪਾਸਵਰਡ, ਬੁੱਕਮਾਰਕ <br/>ਤੇ ਹੋਰ ਦਰਾਮਦ ਕਰੋ
+# The primary import button label will depend on whether we can detect which browser was used to download Firefox.
+# Variables:
+#   $previous (Str) - Previous browser name, such as Edge, Chrome
+mr1-onboarding-import-primary-button-label-attribution = { $previous } ਤੋਂ ਦਰਾਮਦ ਕਰੋ
+# This string will be used in cases where we can't detect the previous browser name.
+mr1-onboarding-import-primary-button-label-no-attribution = ਪਿਛਲੇ ਬਰਾਊਜ਼ਰ ਤੋਂ ਦਰਾਮਦ ਕਰੋ
+mr1-onboarding-import-secondary-button-label = ਹੁਣੇ ਨਹੀਂ
+mr1-onboarding-theme-header = ਇਸ ਨੂੰ ਆਪਣਾ ਬਣਾਓ
+mr1-onboarding-theme-subtitle = ਥੀਮ ਨਾਲ { -brand-short-name } ਨੂੰ ਸ਼ਿੰਗਾਰੋ
+mr1-onboarding-theme-primary-button-label = ਥੀਮ ਨੂੰ ਸੰਭਾਲੋ
+mr1-onboarding-theme-secondary-button-label = ਹੁਣੇ ਨਹੀਂ
+# System theme uses operating system color settings
+mr1-onboarding-theme-label-system = ਸਿਸਟਮ ਥੀਮ
+mr1-onboarding-theme-label-light = ਹਲਕਾ
+mr1-onboarding-theme-label-dark = ਗੂੜ੍ਹਾ
+# "Alpenglow" here is the name of the theme, and should be kept in English.
+mr1-onboarding-theme-label-alpenglow = Alpenglow
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+

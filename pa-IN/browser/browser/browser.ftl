@@ -332,6 +332,7 @@ identity-permissions-storage-access-header = ਅੰਤਰ-ਸਾਈਟ ਕੂਕ
 identity-permissions-storage-access-hint =
     ਤੁਹਾਡੇ ਵਲੋਂ ਇਸ ਸਾਈਟ ਖੋਲ੍ਹਣ ਦੇ ਦੌਰਾਨ ਇਹ ਧਿਰਾਂ ਅੰਤਰ-ਸਾਈਟ ਕੂਕੀਜ਼ ਤੇ ਸਾਈਟ ਡਾਟੇ ਨੂੰ
     ਵਰਤ ਸਕਦੀਆਂ ਹਨ।
+identity-permissions-storage-access-learn-more = ਹੋਰ ਜਾਣੋ
 identity-permissions-reload-hint = ਤਬਦੀਲੀਆਂ ਲਾਗੂ ਕਰਨ ਵਾਸਤੇ ਤੁਹਾਨੂੰ ਸਫ਼ੇ ਨੂੰ ਮੁੜ-ਲੋਡ ਕਰਨ ਦੀ ਲੋੜ ਹੋ ਸਕਦੀ ਹੈ।
 identity-permissions-empty = ਤੁਸੀਂ ਇਸ ਸਾਈਟ ਲਈ ਕੋਈ ਖਾਸ ਇਜਾਜ਼ਤਾਂ ਨਹੀਂ ਦਿੱਤੀਆਂ ਹਨ।
 identity-clear-site-data =
