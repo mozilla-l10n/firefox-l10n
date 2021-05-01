@@ -199,7 +199,7 @@ onboarding-welcome-steps-indicator =
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "look" should stay inside the span.
 onboarding-multistage-theme-header = Выберите <span data-l10n-name="zap">внешний вид</span>
-onboarding-multistage-theme-subtitle = Персонализируйте { -brand-short-name } темами.
+onboarding-multistage-theme-subtitle = Измените внешний вид { -brand-short-name } с помощью темы.
 onboarding-multistage-theme-primary-button-label2 = Готово
 onboarding-multistage-theme-secondary-button-label = Не сейчас
 # Automatic theme uses operating system color settings
@@ -282,7 +282,7 @@ mr1-onboarding-import-primary-button-label-attribution = Импортирова�
 mr1-onboarding-import-primary-button-label-no-attribution = Импортировать из предыдущего браузера
 mr1-onboarding-import-secondary-button-label = Не сейчас
 mr1-onboarding-theme-header = Сделайте его своим
-mr1-onboarding-theme-subtitle = Персонализируйте { -brand-short-name } с помощью темы.
+mr1-onboarding-theme-subtitle = Измените внешний вид { -brand-short-name } с помощью темы.
 mr1-onboarding-theme-primary-button-label = Сохранить тему
 mr1-onboarding-theme-secondary-button-label = Не сейчас
 # System theme uses operating system color settings

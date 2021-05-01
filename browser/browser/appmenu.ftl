@@ -19,7 +19,7 @@ appmenuitem-update-banner3 =
     .label-update-restart = Доступно обновление — перезапустить сейчас
 appmenuitem-protection-dashboard-title = Панель состояния защиты
 appmenuitem-customize-mode =
-    .label = Персонализация…
+    .label = Настройка…
 
 ## Zoom Controls
 
@@ -196,7 +196,7 @@ appmenu-help-not-deceptive =
 ## More Tools
 
 appmenu-customizetoolbar =
-    .label = Персонализация панели инструментов…
+    .label = Настройка панели инструментов…
 appmenu-taskmanager =
     .label = Диспетчер задач
 appmenu-developer-tools-subheader = Инструменты браузера
