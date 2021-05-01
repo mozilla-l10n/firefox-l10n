@@ -10,6 +10,7 @@ search-header =
     .searchbuttonlabel = Tikanöx
 search-header-shortcut =
     .key = f
+list-empty-get-extensions-message = Kek'ul taq k'amal chuqa' taq wachinel pa <a data-l10n-name="get-extensions"></a>
 list-empty-installed =
     .value = Man ayakon ta re ruwäch tz'aqat re'
 list-empty-available-updates =
