@@ -11,3 +11,6 @@ account-reconnect-to-fxa = فُصل الحساب
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-disconnected = قُطع اتصالك
+# Used as the FxA toolbar menu item title when the user
+# needs to reconnect their account.
+account-disconnected2 = فُصل الحساب
