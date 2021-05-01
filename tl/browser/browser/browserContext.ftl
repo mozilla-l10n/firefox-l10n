@@ -88,6 +88,9 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
+## Firefox Account Button
+
+
 ## Save Page
 
 main-context-menu-page-save =
@@ -175,7 +178,7 @@ main-context-menu-media-pause =
 ##
 
 main-context-menu-media-mute =
-    .label = I-mute
+    .label = i-Mute
     .accesskey = M
 main-context-menu-media-unmute =
     .label = I-unmute
@@ -228,7 +231,7 @@ main-context-menu-media-pip =
     .label = Picture-in-Picture
     .accesskey = u
 main-context-menu-image-reload =
-    .label = I-reload ang Larawan
+    .label = i-Reload ang Larawan
     .accesskey = R
 main-context-menu-image-view =
     .label = Tingnan ang Larawan
