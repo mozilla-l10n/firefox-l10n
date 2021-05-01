@@ -88,6 +88,9 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
+## Firefox Account Button
+
+
 ## Save Page
 
 main-context-menu-page-save =
@@ -158,6 +161,9 @@ main-context-menu-copy-email =
 main-context-menu-copy-link =
     .label = Eilañ lec'hiadur an ere
     .accesskey = l
+main-context-menu-copy-link-simple =
+    .label = Eilañ an ere
+    .accesskey = E
 
 ## Media (video/audio) controls
 ##
@@ -247,6 +253,15 @@ main-context-menu-video-copy-location =
     .accesskey = o
 main-context-menu-audio-copy-location =
     .label = Eilañ lec'hiadur ar restr aodio
+    .accesskey = E
+main-context-menu-image-copy-link =
+    .label = Eilañ ere ar skeudenn
+    .accesskey = E
+main-context-menu-video-copy-link =
+    .label = Eilañ ere ar video
+    .accesskey = E
+main-context-menu-audio-copy-link =
+    .label = Eilañ ere an aodio
     .accesskey = E
 main-context-menu-image-save-as =
     .label = Enrollañ ar skeudenn evel…
@@ -346,6 +361,9 @@ main-context-menu-print-selection =
 main-context-menu-view-selection-source =
     .label = Gwelout tarzh an diuzad
     .accesskey = e
+main-context-menu-take-screenshot =
+    .label = Kemer un dapadenn
+    .accesskey = K
 main-context-menu-view-page-source =
     .label = Gwelout tarzh ar bajennad
     .accesskey = t
@@ -361,6 +379,9 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = Ensellout an elfenn
     .accesskey = E
+main-context-menu-inspect =
+    .label = Ensellout
+    .accesskey = s
 main-context-menu-inspect-a11y-properties =
     .label = Ensellout ar perzhioù haezadusted
 main-context-menu-eme-learn-more =
