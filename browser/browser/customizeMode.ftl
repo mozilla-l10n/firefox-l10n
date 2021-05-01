@@ -49,3 +49,5 @@ customize-mode-lwthemes-my-themes =
     .value = ਮੇਰੇ ਥੀਮ
 customize-mode-touchbar-cmd =
     .label = ਟੱਚ-ਪੱਟੀ ਨੂੰ ਪਸੰਦੀਦਾ ਬਣਾਓ…
+customize-mode-downloads-button-autohide =
+    .label = ਜਦੋਂ ਖਾਲੀ ਹੋਵੇ ਤਾਂ ਬਟਨ ਲੁਕਾਓ
