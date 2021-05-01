@@ -139,9 +139,18 @@ onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 
 ## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 
+mr1-onboarding-welcome-header = Хуш омадед ба { -brand-short-name }
 mr1-onboarding-set-default-secondary-button-label = Ҳоло не
+mr1-onboarding-sign-in-button-label = Ворид шудан
 mr1-onboarding-import-secondary-button-label = Ҳоло не
+mr1-onboarding-theme-primary-button-label = Нигоҳ доштани мавзӯъ
 mr1-onboarding-theme-secondary-button-label = Ҳоло не
+# System theme uses operating system color settings
+mr1-onboarding-theme-label-system = Мавзӯи низомӣ
+mr1-onboarding-theme-label-light = Равшан
+mr1-onboarding-theme-label-dark = Торик
+# "Alpenglow" here is the name of the theme, and should be kept in English.
+mr1-onboarding-theme-label-alpenglow = Нури алпӣ
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
