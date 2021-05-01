@@ -24,6 +24,7 @@ perftools-heading-local-build = Локална верзија
 
 ## The controls for the interval at which the profiler samples the code.
 
+perftools-range-interval-label = Интервал узорковања:
 perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 2) } ms
 
 ##
@@ -59,6 +60,8 @@ perftools-button-edit-settings = Уреди подешавања…
 
 perftools-thread-gecko-main =
     .title = Главни процеси за надређени процес и процесе садржаја
+perftools-thread-render-backend =
+    .title = WebRender RenderBackend нит
 perftools-thread-img-decoder =
     .title = Нити за декодирање слика
 
