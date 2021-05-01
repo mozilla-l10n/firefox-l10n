@@ -51,4 +51,4 @@ bookmark-overlay-keyword-2 =
     .value = ਸ਼ਬਦ
     .accesskey = K
 bookmark-overlay-tags-caption-label = ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਵਿੱਚ ਬੁੱਕਮਾਰਕਾਂ ਦੇ ਇੰਤਜ਼ਾਮ ਅਤੇ ਖੋਜ ਲਈ ਟੈਗ ਵਰਤੋਂ
-bookmark-overlay-keyword-caption-label = ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਵਿੱਚੋਂ ਸਿੱਧੇ ਬੁੱਕਮਾਰਕ ਖੋਲ੍ਹਣ ਲਈ ਸ਼ਬਦ ਵਰਤੋਂ
+bookmark-overlay-keyword-caption-label-2 = ਬੁੱਕਮਾਰਕਾਂ ਨੂੰ ਸਿੱਧਾ ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਵਿੱਚੋਂ ਖੋਲ੍ਹਣ ਲਈ ਇਕਹੇਰਾ ਸ਼ਬਦ ਵਰਤੋਂ
