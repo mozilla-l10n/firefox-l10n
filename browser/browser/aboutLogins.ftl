@@ -230,7 +230,7 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [feminine] v { -brand-short-name(case: "loc") }
         [neuter] v { -brand-short-name(case: "loc") }
        *[other] v aplikaci { -brand-short-name }
-    } na všech zařízeních synchronizovaných pomocí vašeho { -fxaccount-brand-name(case: "gen") } a také všechna zde zobrazovaná hlášení o únicích. Tuto akci nelze vzít zpět.
+    } na všech zařízeních synchronizovaných pomocí vašeho { -fxaccount-brand-name(case: "gen", capitalization: "lower") } a také všechna zde zobrazovaná hlášení o únicích. Tuto akci nelze vzít zpět.
 about-logins-confirm-export-dialog-title = Export přihlašovacích údajů
 about-logins-confirm-export-dialog-message = Vaše hesla budou uložena v čitelné podobě (např. Šp4tnéH3sl0) a kdokoliv otevře exportovaný soubor, bude si je moci přečíst.
 about-logins-confirm-export-dialog-confirm-button = Exportovat…
