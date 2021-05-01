@@ -8,7 +8,7 @@
 
 <!ENTITY playButton.playLabel "I-play">
 <!ENTITY playButton.pauseLabel "I-pause">
-<!ENTITY muteButton.muteLabel "I-mute">
+<!ENTITY muteButton.muteLabel "i-Mute">
 <!ENTITY muteButton.unmuteLabel "I-unmute">
 <!ENTITY fullscreenButton.enterfullscreenlabel "Buong Screen">
 <!ENTITY fullscreenButton.exitfullscreenlabel "Umalis sa Full Screen">

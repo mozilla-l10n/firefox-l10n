@@ -201,9 +201,9 @@ page-action-send-tab-not-ready =
 # string to express the idea that this is a lightweight and reversible
 # action that keeps your tab where you can reach it easily.
 page-action-pin-tab-panel =
-    .label = I-pin ang Tab
+    .label = i-Pin ang Tab
 page-action-pin-tab-urlbar =
-    .tooltiptext = I-pin ang Tab
+    .tooltiptext = i-Pin ang Tab
 page-action-unpin-tab-panel =
     .label = I-unpin ang Tab
 page-action-unpin-tab-urlbar =

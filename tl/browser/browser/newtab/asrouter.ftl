@@ -17,7 +17,7 @@ cfr-doorhanger-extension-cancel-button = Hindi Ngayon
     .accesskey = H
 cfr-doorhanger-extension-ok-button = Idagdag Ngayon
     .accesskey = A
-cfr-doorhanger-pintab-ok-button = I-pin itong Tab
+cfr-doorhanger-pintab-ok-button = i-Pin ang Tab
     .accesskey = P
 cfr-doorhanger-extension-manage-settings-button = Mangasiwa sa Rekomendasyong Itinakda
     .accesskey = M
@@ -120,6 +120,9 @@ cfr-whatsnew-lockwise-take-link-text = Kunin ang app
 
 cfr-whatsnew-searchbar-title = Mag-type nang mas kaunti at maghanap nang mas marami sa address bar
 cfr-whatsnew-searchbar-body-topsites = Ngayon, piliin lang ang address bar, at may magpapakitang box na may mga link sa mga top site mo.
+
+## Search bar
+
 cfr-whatsnew-searchbar-icon-alt-text = Magnifying glass icon
 
 ## Picture-in-Picture
@@ -204,8 +207,6 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = Tingnan Lahat
     .accesskey = T
-cfr-doorhanger-milestone-close-button = Isarado
-    .accesskey = I
 
 ## What’s New Panel Content for Firefox 76
 
@@ -230,6 +231,12 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Picture-in-picture icon
 
 ## Protections Dashboard message
 
+cfr-doorhanger-milestone-close-button = Isarado
+    .accesskey = I
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
+
 cfr-whatsnew-protections-header = Mga proteksyon sa isang sulyap
 cfr-whatsnew-protections-body = Nagtataglay ang Protections Dashboard ng mga nakabuod na ulat tungkol sa mga data breach at password management. Maaari mo nang mabantayan kung ilang mga breach na ang naresolba mo, at makita kung may ilan sa mga naka-save na password ang nalantad sa data breach.
 cfr-whatsnew-protections-cta-link = Tingnan ang Protections Dashboard
@@ -244,14 +251,11 @@ cfr-whatsnew-better-pdf-body = Direkta nang magbubukas ang mga PDF document sa {
 
 cfr-doorhanger-doh-body = Mahalaga ang iyong privacy. Hangga't maaari'y ligtas nang idinadaan ng { -brand-short-name } ang iyong mga DNS request sa isang partner service para maprotektahan ka habang nagba-browse.
 cfr-doorhanger-doh-header = Mas secure at encrypted na DNS lookup
-cfr-doorhanger-doh-primary-button = OK, Nakuha ko
-    .accesskey = O
 cfr-doorhanger-doh-secondary-button = i-Disable
     .accesskey = D
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-body = Nag-enable ang { -brand-short-name } ng Fission (site isolation) na isang eksperimental na feature para sa iyo. Sa pagkakalagay ng bawat site sa sari-sariling mga process, naglalagay ng karagdagang seguridad ang Fission para sa iyo at sa mga website na binibisita mo.
 cfr-doorhanger-fission-header = Site Isolation
 cfr-doorhanger-fission-primary-button = OK, Nakuha ko
     .accesskey = O
@@ -269,3 +273,15 @@ cfr-whatsnew-clear-cookies-image-alt = Pagsasalarawan ng pagharang sa cookie
 cfr-whatsnew-media-keys-header = Karagdagang media control
 cfr-whatsnew-media-keys-body = Magpaandar o mag-pause ng audio o video direkta mula sa iyong keyboard o headset, para mas madali kontrolin ang media mula sa ibang tab, program, o kahit kapag naka-lock ang computer mo. Pwede ka rin lumipat sa iba't-ibang mga track gamit ang mga forward at back key.
 cfr-whatsnew-media-keys-button = Alamin kung papaano
+
+## What's new: Search shortcuts
+
+
+## What's new: Cookies protection
+
+
+## What's new: Better bookmarking
+
+
+## What's new: Cross-site cookie tracking
+

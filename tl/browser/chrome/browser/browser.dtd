@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "Buksan ang menu">
+
 <!ENTITY navbarOverflow.label                "Marami pang mga kagamitan…">
 
 <!-- Tab context menu -->
@@ -15,7 +16,7 @@ used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
-<!ENTITY  pinTab.label                       "I-pin ang Tab">
+<!ENTITY  pinTab.label                       "i-Pin ang Tab">
 <!ENTITY  unpinTab.label                     "I-unpin ang Tab">
 
 <!ENTITY  listAllTabs.label      "Ilista ang lahat ng mga tabs">
@@ -51,6 +52,10 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.syncSettings2.label "Mga Setting sa &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Magkonekta ng Isa Pang Device…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     followed by the user's email. -->
 <!ENTITY fxa.menu.signin.label "Mag-sign in sa &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Buksan ang &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "Mga serbisyo ng &brandProductName;">
@@ -144,6 +149,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY historyUndoWindowMenu.label "Mga Bagong Sarang Window">
 
 <!ENTITY appMenuHistory.showAll.label "Ipakita ang Lahat na Kasaysayan">
+
 <!ENTITY appMenuHistory.clearRecent.label "Burahin ang Kasaysayan">
 <!ENTITY appMenuHistory.restoreSession.label "Ibalik ang Nakaraang Session">
 <!ENTITY appMenuHistory.viewSidebar.label "Tingnan ang Sidebar ng Kasaysayan">
@@ -152,12 +158,15 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuHelp.label "Tulong">
 
 <!ENTITY appMenuRemoteTabs.label "Mga Naka-sync na Tab">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Walang bukas na tabs">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showMore.label "Ipakita ang Higit Pa">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.tooltip):
+     This is shown after the tabs list if we can display more tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showMore.tooltip "Magpakita ng higit pang mga tab mula sa device na ito">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
@@ -216,9 +225,6 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY saveToPocketCmd.label        "I-save ang Pahina sa Pocket">
-
-<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
-  "Pocket" is a brand name. -->
 <!ENTITY pocketMenuitem.label         "Tingnan ang Pocket List">
 
 <!ENTITY emailPageCmd.label           "i-Email ang Link…">

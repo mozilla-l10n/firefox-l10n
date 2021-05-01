@@ -47,6 +47,7 @@ fxa-toolbar-sync-now =
 appmenuitem-fxa-toolbar-sync-now2 = I-sync ngayon
 appmenu-fxa-header =
     .title = { -fxaccount-brand-name }
+appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-fxa-signed-in-label = Mag sign-in
 appmenuitem-save-page =
     .label = I-save ang Pahina Bilang…
