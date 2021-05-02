@@ -125,6 +125,10 @@ about-webrtc-encoder-label = Енкодер
 about-webrtc-show-tab-label = Прикажи картицу
 about-webrtc-width-px = Ширина (у пикселима)
 about-webrtc-height-px = Висина (у пикселима)
+about-webrtc-consecutive-frames = Узастопни кадрови
+about-webrtc-time-elapsed = Протекло време (у секундама)
+about-webrtc-estimated-framerate = Процењена брзина кадрова
+about-webrtc-rotation-degrees = Ротација (у степенима)
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
