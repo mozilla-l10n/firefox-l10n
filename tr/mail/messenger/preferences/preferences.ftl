@@ -90,8 +90,8 @@ update-in-progress-ok-button = &Vazgeç
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Devam et
-account-button = Hesap Ayarları
 addons-button = Eklentiler ve temalar
+account-button = Hesap Ayarları
 open-addons-sidebar-button = Eklentiler ve temalar
 
 ## OS Authentication dialog
@@ -170,6 +170,9 @@ tray-icon-label =
     .accesskey = a
 biff-use-system-alert =
     .label = Sistem bildirimini kullan
+tray-icon-unread-label =
+    .label = Okunmamış iletiler için bildirim alanında simge göster
+    .accesskey = O
 tray-icon-unread-description = Küçük görev çubuğu düğmelerini kullanırken önerilir
 mail-system-sound-label =
     .label = Yeni posta için varsayılan sistem sesi
@@ -323,6 +326,8 @@ quoted-text-color =
     .accesskey = n
 search-input =
     .placeholder = Ara
+search-handler-table =
+    .placeholder = İçerik türlerini ve eylemleri filtrele
 type-column-label =
     .label = İçerik Türü
     .accesskey = T
