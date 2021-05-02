@@ -290,7 +290,7 @@ mr1-onboarding-theme-label-system = Системна тема
 mr1-onboarding-theme-label-light = Світла
 mr1-onboarding-theme-label-dark = Темна
 # "Alpenglow" here is the name of the theme, and should be kept in English.
-mr1-onboarding-theme-label-alpenglow = Альпійська заграва
+mr1-onboarding-theme-label-alpenglow = Alpenglow
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
