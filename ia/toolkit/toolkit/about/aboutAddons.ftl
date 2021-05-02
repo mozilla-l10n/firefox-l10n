@@ -10,6 +10,7 @@ search-header =
     .searchbuttonlabel = Cercar
 search-header-shortcut =
     .key = f
+list-empty-get-extensions-message = Discarga extensiones e themas ex <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-installed =
     .value = Tu non ha additivos de iste typo installate
 list-empty-available-updates =
