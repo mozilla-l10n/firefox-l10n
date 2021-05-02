@@ -10,6 +10,7 @@ search-header =
     .searchbuttonlabel = Etsi
 search-header-shortcut =
     .key = f
+list-empty-get-extensions-message = Hanki laajennukset ja teemat osoitteesta <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-installed =
     .value = Tämäntyyppisiä lisäosia ei ole asennettuna
 list-empty-available-updates =
