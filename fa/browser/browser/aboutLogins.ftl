@@ -318,6 +318,7 @@ about-logins-import-dialog-error-unable-to-read-description = مطمئن شوی�
 about-logins-import-dialog-error-no-logins-imported = هیچ اطلاعاتی وارد نشد
 about-logins-import-dialog-error-learn-more = اطلاعات بیشتر
 about-logins-import-dialog-error-try-again = تلاش مجدد…
+about-logins-import-dialog-error-try-import-again = تلاش مجدد برای درون‌ریزی…
 about-logins-import-dialog-error-cancel = انصراف
 about-logins-import-report-title = خلاصهٔ ورود اطلاعات
 about-logins-import-report-description = ورودها و گذرواژه‌ها به { -brand-short-name } وارد شدند.

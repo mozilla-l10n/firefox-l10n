@@ -622,7 +622,7 @@ bookmarks-current-tab =
 ## Library Panel items
 
 library-bookmarks-menu =
-    .label = نشانک ها
+    .label = نشانک‌ها
 library-recent-activity-title =
     .value = فعالیت‌های اخیر
 

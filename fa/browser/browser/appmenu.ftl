@@ -5,14 +5,18 @@
 
 ## App Menu
 
-appmenuitem-update-banner =
-    .label-update-downloading = در حال بارگیری به‌روز رسانی { -brand-shorter-name }
 appmenuitem-update-banner2 =
     .label-update-downloading = در حال دریافت بروزرسانیِ { -brand-shorter-name }
     .label-update-available = بروزرسانی موجود است — شروع دریافت
     .label-update-manual = بروزرسانی موجود است — شروع دریافت
     .label-update-unsupported = بروزرسانی امکان‌پذیر نبود
     .label-update-restart = بروزرسانی موجود است — راه‌انداری مجدد
+appmenuitem-update-banner3 =
+    .label-update-downloading = در حال دریافت بروزرسانیِ { -brand-shorter-name }
+    .label-update-available = بروزرسانی موجود است — هم‌اکنون دریافت کنید
+    .label-update-manual = بروزرسانی موجود است — هم‌اکنون دریافت کنید
+    .label-update-unsupported = بروزرسانی ممکن نبود — سیستم ناسازگار است
+    .label-update-restart = بروزرسانی موجود است — راه‌اندازی مجدد
 appmenuitem-protection-dashboard-title = تابلوی محافظت‌ها
 appmenuitem-customize-mode =
     .label = سفارشی‌سازی…
@@ -25,8 +29,6 @@ appmenuitem-new-private-window =
     .label = پنجره ناشناس جدید
 appmenuitem-passwords =
     .label = گذرواژه‌ها
-appmenuitem-extensions-and-themes =
-    .label = افزونه‌ها و پوسته‌ها
 appmenuitem-addons-and-themes =
     .label = افزونه‌ها و تم‌ها
 appmenuitem-find-in-page =
@@ -162,11 +164,6 @@ appmenu-about =
 appmenu-get-help =
     .label = دریافت راهنمایی
     .accesskey = H
-appmenu-help-troubleshooting-info =
-    .label = اطلاعات رفع اشکال
-    .accesskey = T
-appmenu-help-taskmanager =
-    .label = مدیر وظایف
 appmenu-help-more-troubleshooting-info =
     .label = اطلاعات بیشتر
     .accesskey = T
@@ -175,16 +172,6 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = ارسال نظر…
     .accesskey = S
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = راه‌اندازی مجدد به همراه غیرفعال کردن افزودنی‌ها…
-    .accesskey = R
-appmenu-help-safe-mode-with-addons =
-    .label = راه‌اندازی مجدد به همراه غیرفعال کردن افزودنی‌ها
-    .accesskey = R
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
