@@ -115,7 +115,7 @@ cfr-whatsnew-lockwise-take-link-text = 앱 받기
 
 ## Search Bar
 
-cfr-whatsnew-searchbar-title = 주소 표시줄에 더 적게 입력하고 더 많이 찾기
+cfr-whatsnew-searchbar-title = 주소 표시줄에서 입력은 더 적게하고 더 많이 찾기
 cfr-whatsnew-searchbar-body-topsites = 이제 주소 표시줄을 선택하면, 상자가 확장되어 상위 사이트에 대한 링크가 표시됩니다.
 
 ## Search bar
@@ -210,8 +210,6 @@ cfr-doorhanger-milestone-heading2 =
     }
 cfr-doorhanger-milestone-ok-button = 모두 보기
     .accesskey = S
-cfr-doorhanger-milestone-close-button = 닫기
-    .accesskey = C
 
 ## What’s New Panel Content for Firefox 76
 
@@ -236,6 +234,8 @@ cfr-whatsnew-pip-fullscreen-icon-alt = 화면 속 화면 아이콘
 
 ## Protections Dashboard message
 
+cfr-doorhanger-milestone-close-button = 닫기
+    .accesskey = C
 
 ## What’s New Panel Content for Firefox 76
 ## Protections Dashboard message
@@ -254,8 +254,6 @@ cfr-whatsnew-better-pdf-body = 이제 PDF 문서가 { -brand-short-name }에서 
 
 cfr-doorhanger-doh-body = 개인 정보 보호는 중요합니다. { -brand-short-name }는 탐색하는 동안 사용자를 보호하기 위해 가능하면 사용자의 DNS 요청을 파트너 서비스로 안전하게 라우팅합니다.
 cfr-doorhanger-doh-header = 더 안전하고, 암호화된 DNS 조회
-cfr-doorhanger-doh-primary-button = 확인
-    .accesskey = O
 cfr-doorhanger-doh-primary-button-2 = 확인
     .accesskey = O
 cfr-doorhanger-doh-secondary-button = 사용 안 함
