@@ -80,9 +80,8 @@ login-intro-description = M’ho peus enrollet ho titouroù kennaskañ { -brand-
 login-intro-instruction-fxa = Krouit pe kennaskit d’ho { -fxaccount-brand-name } war an trevnad lec’h m’eo enrollet ho titouroù kennaskañ
 login-intro-instruction-fxa-settings = Gwiriekait ho peus diuzet ar boestoù kevaskañ Kennaskañ e arventennoù { -sync-brand-short-name }
 about-logins-intro-instruction-help = Kit war <a data-l10n-name="help-link">skoazell { -lockwise-brand-short-name }</a> evit kaout sikour
-login-intro-instructions-fxa = Krouit ur gont { -fxaccount-brand-name(capitalization: "sentence") } pe kennaskit war un trevnad e-lec'h m'emañ ho titouroù kennaskañ enrollet.
+login-intro-instructions-fxa = Krouit ur gont { -fxaccount-brand-name } pe kennaskit war un trevnad e-lec'h m'emañ ho titouroù kennaskañ enrollet.
 login-intro-instructions-fxa-settings = Mont betek Arventennoù > Sync > Gweredekaat ar goubredañ… Dibabit an titouroù kennaskañ.
-login-intro-instructions-fxa-help = Gweladennit skor { -lockwise-brand-short-name } evit kaout sikour.
 about-logins-intro-import = Mard eo enrollet ho titouroù kennaskañ en ur merdeer all e c’hallit <a data-l10n-name="import-link">enporzhiañ anezho e { -lockwise-brand-short-name }</a>
 about-logins-intro-import2 = Mard eo enrollet ho titouroù kennaskañ e diavaez { -brand-product-name } e c’hallit a data-l10n-name="import-browser-link">enporzhiañ anezho adalek ur merdeer all</a> pe <a data-l10n-name="import-file-link">adalek ur restr</a>
 
