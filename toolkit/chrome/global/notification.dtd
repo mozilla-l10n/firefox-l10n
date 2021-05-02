@@ -8,7 +8,7 @@
 
 <!ENTITY learnMoreNoEllipsis "Докладніше">
 
-<!ENTITY defaultButton.label "OK!">
+<!ENTITY defaultButton.label "Гаразд!">
 <!ENTITY defaultButton.accesskey "O">
 
 <!ENTITY moreActionsButton.accessibleLabel "Більше дій">

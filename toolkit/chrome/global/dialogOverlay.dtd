@@ -5,5 +5,5 @@
 <!-- WARNING!!! This file is obsoleted by the dialog.xml widget -->
 
 <!-- OK Cancel Buttons -->
-<!ENTITY okButton.label      "ОК">
+<!ENTITY okButton.label      "Гаразд">
 <!ENTITY cancelButton.label  "Скасувати">
