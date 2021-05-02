@@ -79,7 +79,7 @@ downloads-cmd-clear-list =
     .label = 清空预览面板
     .accesskey = a
 downloads-cmd-clear-downloads =
-    .label = 清除下载记录
+    .label = 清空下载记录
     .accesskey = D
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
