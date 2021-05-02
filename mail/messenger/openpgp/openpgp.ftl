@@ -89,6 +89,7 @@ openpgp-key-man-backup-secret-keys =
 openpgp-key-man-discover-cmd =
     .label = Çevrimiçi anahtarları keşfet
     .accesskey = k
+openpgp-key-man-discover-prompt = OpenPGP anahtarlarını çevrimiçi olarak anahtar sunucularında veya WKD protokolünü kullanarak bulmak için bir e-posta adresi veya bir anahtar kimliği girin.
 openpgp-key-man-discover-progress = Aranıyor…
 openpgp-key-copy-key =
     .label = Ortak anahtarı kopyala
@@ -351,6 +352,9 @@ filter-folder-required = Bir hedef klasör seçmelisiniz.
 filter-term-pgpencrypted-label = OpenPGP ile şifrelenmiş
 filter-key-required = Bir alıcı anahtarı seçmelisiniz.
 filter-key-not-found = '{ $desc }' için şifreleme anahtarı bulunamadı.
+# Strings filtersWrapper.jsm
+filter-decrypt-move-label = Kalıcı olarak şifresini çöz (OpenPGP)
+filter-decrypt-copy-label = Şifresi çözülmüş bir kopya oluştur (OpenPGP)
 filter-encrypt-label = Anahtara şifrele (OpenPGP)
 # Strings in enigmailKeyImportInfo.js
 import-info-title =
@@ -389,6 +393,7 @@ openpgp-export-secret-success = <b>Gizli anahtar başarıyla dışa aktarıldı.
 openpgp-export-secret-fail = <b>Seçilen gizli anahtar dışa aktarılamadı.</b>
 # Strings in gnupg-keylist.jsm
 keyring-photo = Fotoğraf
+user-att-photo = Kullanıcı özniteliği (JPEG resmi)
 # Strings in key.jsm
 already-revoked = Bu anahtar zaten iptal edilmiş.
 openpgp-key-revoke-success = Anahtar başarıyla iptal edildi.
@@ -433,13 +438,19 @@ expiry-too-short = Anahtarınız en az bir gün geçerli olmalıdır.
 expiry-too-long = Süresi 100 yıldan fazla olan bir anahtar oluşturamazsınız.
 key-man-button-generate-key = Anahtar &oluştur
 key-abort = Anahtar üretimi iptal edilsin mi?
+key-man-button-generate-key-continue = Anahtar üretmeye &devam et
 
 # Strings used in enigmailMessengerOverlay.js
 
 failed-decrypt = Hata - şifre çözme başarısız oldu
 fix-broken-exchange-msg-failed = Bu ileti onarılamadı.
+attachment-no-match-from-signature = '{ $attachment }' imza dosyası bir ekle eşleştirilemedi
+attachment-no-match-to-signature = '{ $attachment }' eki ile imza dosyası eşleştirilemedi
 signature-verified-ok = { $attachment } ekinin imzası başarıyla doğrulandı
 signature-verify-failed = { $attachment } ekinin imzası doğrulanamadı
+decrypt-ok-no-sig =
+    Uyarı
+    Şifre çözme başarılı oldu, ancak imza doğru bir şekilde doğrulanamadı
 msg-ovl-button-cont-anyway = &Yine de devam et
 enig-content-note = *Bu iletideki ekler imzalanmamış ve şifrelenmemiştir*
 # Strings used in enigmailMsgComposeOverlay.js
@@ -493,5 +504,6 @@ dlg-button-retry = &Yeniden dene
 dlg-button-skip = &Geç
 # Strings used in enigmailCommon.js
 enig-error = OpenPGP hatası
+# Strings used in enigmailMsgBox.js
 enig-alert-title =
     .title = OpenPGP uyarısı
