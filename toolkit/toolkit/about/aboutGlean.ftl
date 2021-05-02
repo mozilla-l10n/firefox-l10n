@@ -6,4 +6,6 @@
 ### "Glean" and "Glean SDK" should remain in English.
 
 about-glean-page-title = О Glean-у
+tag-pings-label = Додели свим послатим пинговима ову ознаку
+send-pings-label = Пошаљи именовани пинг
 controls-button-label = Пошаљи подешавања
