@@ -43,4 +43,6 @@ inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Try addin
 ##   $property (string) - A CSS declaration name e.g. "-moz-user-select" that can be a platform specific alias.
 ##   $rootProperty (string) - A raw CSS property name e.g. "user-select" that is not a platform specific alias.
 
+css-compatibility-experimental-message = <strong>{ $property }</strong> је експериментално својство. Није подржано у следећим прегледачима:
+css-compatibility-experimental-supported-message = <strong>{ $property }</strong> је експериментално својство.
 css-compatibility-learn-more-message = <span data-l10n-name="link">Сазнајте више</span> о <strong>{ $rootProperty }</strong>
