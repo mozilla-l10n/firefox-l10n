@@ -10,6 +10,7 @@ search-header =
     .searchbuttonlabel = Претражи
 search-header-shortcut =
     .key = f
+list-empty-get-extensions-message = Преузмите додатке и теме на <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-installed =
     .value = Нисте инсталирали ниједан додатак ове врсте
 list-empty-available-updates =
