@@ -100,7 +100,7 @@ places-remove-folder =
             [1] Вилучити теку
             [one] Вилучити теку
             [few] Вилучити теки
-           *[many] Вилучити тек
+           *[many] Вилучити теки
         }
     .accesskey = и
 # Managed bookmarks are created by an administrator and cannot be changed by the user.

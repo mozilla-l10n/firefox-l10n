@@ -273,13 +273,13 @@ mr1-onboarding-set-default-only-primary-button-label = Зробити { -brand-s
 mr1-onboarding-set-default-secondary-button-label = Не зараз
 mr1-onboarding-sign-in-button-label = Увійти
 mr1-onboarding-import-header = Візьміть все це з собою
-mr1-onboarding-import-subtitle = Імпортуйте свої паролі, <br/>закладки тощо.
+mr1-onboarding-import-subtitle = Імпортуйте свої паролі, <br/>закладки та інші дані.
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = Імпортувати з { $previous }
 # This string will be used in cases where we can't detect the previous browser name.
-mr1-onboarding-import-primary-button-label-no-attribution = Імпортувати з попереднього браузера
+mr1-onboarding-import-primary-button-label-no-attribution = Імпортувати з іншого браузера
 mr1-onboarding-import-secondary-button-label = Не зараз
 mr1-onboarding-theme-header = Зробіть його своїм
 mr1-onboarding-theme-subtitle = Персоналізуйте { -brand-short-name } за допомогою теми.
