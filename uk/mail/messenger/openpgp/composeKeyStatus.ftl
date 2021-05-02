@@ -11,6 +11,6 @@ openpgp-compose-key-status-recipient =
 openpgp-compose-key-status-status =
     .label = Стан
 openpgp-compose-key-status-open-details = Керувати ключами для вибраного одержувача…
-openpgp-recip-good = ok
+openpgp-recip-good = гаразд
 openpgp-recip-missing = немає ключа
 openpgp-recip-none-accepted = немає прийнятого ключа

@@ -629,7 +629,7 @@ repeat-suffix-singular = раз.
 repeat-suffix-plural = разів.
 no-repeat = Це попередження більше не з'являтиметься.
 dlg-keep-setting = Запам’ятати моє рішення і більше не запитувати
-dlg-button-ok = &OK
+dlg-button-ok = &Гаразд
 dlg-button-close = &Закрити
 dlg-button-cancel = &Скасувати
 dlg-no-prompt = Більше не показувати це вікно.
@@ -642,5 +642,6 @@ dlg-button-retry = &Повторити
 dlg-button-skip = &Пропустити
 # Strings used in enigmailCommon.js
 enig-error = Помилка OpenPGP
+# Strings used in enigmailMsgBox.js
 enig-alert-title =
     .title = Сповіщення OpenPGP
