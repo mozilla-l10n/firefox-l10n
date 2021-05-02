@@ -4,6 +4,13 @@
 
 refresh-profile-dialog =
     .title = Освежи { -brand-short-name }
+refresh-profile-dialog-title =
+    Вратити подразумевана подешавања { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "gen") }
+        [feminine] { -brand-short-name(case: "gen") }
+        [neuter] { -brand-short-name(case: "gen") }
+       *[other] програма { -brand-short-name }
+    }?
 refresh-profile-dialog-button =
     .label = Освежи { -brand-short-name }
 refresh-profile-description = Започните са свежом верзијом да бисте решили проблеме и обновили перформансе.
@@ -12,3 +19,4 @@ refresh-profile-remove = Уклонити додатке и прилагођав
 refresh-profile-restore = Враћање подразумеваних подешавања
 refresh-profile = Подеси { -brand-short-name }
 refresh-profile-button = Освежи { -brand-short-name }…
+refresh-profile-learn-more = Сазнајте више

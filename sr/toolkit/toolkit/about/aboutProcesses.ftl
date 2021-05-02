@@ -86,6 +86,8 @@ about-processes-frame-name-many = Подоквири ({ $number }): { $shortUrl 
 ##    $unit (String) The unit in which to display $total. See the definitions
 ##                   of `duration-unit-*`.
 
+# Special case: data is not available yet.
+about-processes-cpu-user-and-kernel-not-ready = (мерење)
 
 ## Displaying Memory (total and delta)
 ## Variables:
