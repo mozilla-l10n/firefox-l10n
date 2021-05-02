@@ -11,3 +11,6 @@ account-reconnect-to-fxa = ارتباط به حساب شما قطع شد
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-disconnected = ارتباط شما قطع شده است
+# Used as the FxA toolbar menu item title when the user
+# needs to reconnect their account.
+account-disconnected2 = ارتباط به حساب شما قطع شد
