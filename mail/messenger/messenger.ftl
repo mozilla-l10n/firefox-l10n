@@ -80,3 +80,4 @@ toolbar-context-menu-remove-extension =
 #  $name (String): The name of the addon that will be removed.
 addon-removal-title = { $name } kaldırılsın mı?
 addon-removal-confirmation-button = Kaldır
+addon-removal-confirmation-message = { $name } ile birlikte yapılandırması ve verileri { -brand-short-name } uygulamasından kaldırılsın mı?
