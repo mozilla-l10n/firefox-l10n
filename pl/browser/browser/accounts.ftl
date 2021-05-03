@@ -11,3 +11,6 @@ account-reconnect-to-fxa = Konto jest rozłączone
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-disconnected = Konto zostało rozłączone
+# Used as the FxA toolbar menu item title when the user
+# needs to reconnect their account.
+account-disconnected2 = Konto zostało rozłączone
