@@ -47,12 +47,28 @@ options-default-color-unit-name = Nons dai colôrs
 options-styleeditor-label = Editôr di stîi
 # The label for the checkbox that toggles autocompletion of css in the Style Editor
 options-stylesheet-autocompletion-label = Complete in automatic i CSS
+options-stylesheet-autocompletion-tooltip =
+    .title = Complete in automatic lis proprietâts CSS, i valôrs e i seletôrs tal editôr dai stîi di man in man che tu scrivis
 
 ## Screenshot section
 
+# The heading
+options-screenshot-label = Compuartament pes caturis di videade
+# Label for the checkbox that toggles screenshot to clipboard feature
+options-screenshot-clipboard-label = Salve videade intes notis
+options-screenshot-clipboard-tooltip =
+    .title = Al salve la videade dret intes notis
+options-screenshot-clipboard-tooltip2 =
+    .title = Al salve la videade dret intes notis
+# Label for the checkbox that toggles the camera shutter audio for screenshot tool
+options-screenshot-audio-label = Riprodûs il sun dal oturadôr
+options-screenshot-audio-tooltip =
+    .title = Al ative il sun dal oturadôr di une fotocjamare cuant che si cature une videade
 
 ## Editor section
 
+# The heading
+options-sourceeditor-label = Preferencis dal editôr
 options-sourceeditor-keybinding-default-label = Predeterminât
 
 ## Advanced section
