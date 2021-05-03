@@ -49,3 +49,5 @@ customize-mode-lwthemes-my-themes =
     .value = Zainstalowane motywy
 customize-mode-touchbar-cmd =
     .label = Dostosuj pasek Touch Bar…
+customize-mode-downloads-button-autohide =
+    .label = Ukrywaj przycisk, kiedy lista jest pusta

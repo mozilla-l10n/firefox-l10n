@@ -49,4 +49,4 @@ bookmark-overlay-keyword-2 =
     .value = Słowo kluczowe
     .accesskey = S
 bookmark-overlay-tags-caption-label = Używaj etykiet do organizowania zakładek i wyszukiwania ich na pasku adresu
-bookmark-overlay-keyword-caption-label = Używaj słów kluczowych do otwierania zakładek prosto z paska adresu
+bookmark-overlay-keyword-caption-label-2 = Używaj słowa kluczowego do otwierania zakładek prosto z paska adresu
