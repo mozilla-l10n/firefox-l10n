@@ -26,3 +26,19 @@ upgrade-dialog-new-secondary-button = Nie teraz
 
 ## Theme selection screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-theme-title =
+    Nowy początek
+    z odświeżonym motywem
+upgrade-dialog-theme-system = Motyw systemu
+    .title = Używa motywu systemu operacyjnego do wyświetlania przycisków, menu i okien
+upgrade-dialog-theme-light = Jasny
+    .title = Używa jasnego motywu do wyświetlania przycisków, menu i okien
+upgrade-dialog-theme-dark = Ciemny
+    .title = Używa ciemnego motywu do wyświetlania przycisków, menu i okien
+upgrade-dialog-theme-alpenglow = Alpenglow
+    .title = Używa dynamicznego, kolorowego motywu do wyświetlania przycisków, menu i okien
+upgrade-dialog-theme-keep = Nie zmieniaj motywu
+    .title = Używa motywu zainstalowanego przed aktualizacją przeglądarki { -brand-short-name }
+upgrade-dialog-theme-primary-button = Zachowaj motyw
+upgrade-dialog-theme-secondary-button = Nie teraz
