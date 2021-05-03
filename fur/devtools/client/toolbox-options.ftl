@@ -104,3 +104,5 @@ options-enable-remote-tooltip2 =
     .title = Ativant cheste opzion al sarà pussibil fâ il debug di lontan di cheste istance dal navigadôr
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = Ative i service workers sore di HTTP (cuant che la cassele dai imprescj e je vierte)
+options-enable-service-workers-http-tooltip =
+    .title = Ativant cheste opzion a vignaran ativâts i service workers sore HTTP par dutis lis schedis che a àn une cassele dai imprescj vierte.
