@@ -25,12 +25,28 @@ options-select-dev-tools-theme-label = Temis
 options-context-inspector = Ispetôr
 # The label for the checkbox option to show user agent styles
 options-show-user-agent-styles-label = Mostre i stîi dal navigadôr
+options-show-user-agent-styles-tooltip =
+    .title = Ativant cheste opzion a vignaran visualizâts i stîi predefinîts cjariâts dal navigadôr.
+# The label for the checkbox option to enable collapse attributes
+options-collapse-attrs-label = Cjonce i atribûts DOM
+options-collapse-attrs-tooltip =
+    .title = Cjonce i atribûts masse luncs tal ispetôr
 
 ## "Default Color Unit" options for the Inspector
 
+options-default-color-unit-label = Unitât di colôr predefinide
+options-default-color-unit-authored = come l'origjinâl
+options-default-color-unit-hex = esadecimâl
+options-default-color-unit-hsl = HSL(A)
+options-default-color-unit-rgb = RGB(A)
+options-default-color-unit-name = Nons dai colôrs
 
 ## Style Editor section
 
+# The heading
+options-styleeditor-label = Editôr di stîi
+# The label for the checkbox that toggles autocompletion of css in the Style Editor
+options-stylesheet-autocompletion-label = Complete in automatic i CSS
 
 ## Screenshot section
 
