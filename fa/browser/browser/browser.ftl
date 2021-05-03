@@ -324,6 +324,8 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = اگر می‌خواهید در صورت امکان { -brand-short-name } اتصال را ارتقا دهد، حالت فقط HTTPS را برای این سایت روشن کنید.
 identity-https-only-info-turn-off2 = اگر صفحه خراب به نظر می‌رسد، ممکن است بخواهید حالت فقط HTTPS را برای این سایت خاموش کنید تا سایت در حال غیر امن HTTP بارگیری شود.
 identity-https-only-info-no-upgrade = ارتقا اتصال از HTTP امکان‌پذیر نبود.
+identity-permissions-storage-access-header = کوکی‌های بین‌پایگاهی
+identity-permissions-storage-access-hint = این سازمان‌ها می‌توانند از کوکی‌های بین‌پایگاهی و داده‌های سایت‌ها در حالی که شما در این سایت هستید استفاده کنند.
 identity-permissions-storage-access-learn-more = اطلاعات بیشتر
 identity-permissions-reload-hint = ممکن است لازم باشد که صفحه را برای اعمال تغییرات دوباره بارگیری کنید.
 identity-permissions-empty = شما به این سایت هیچ دسترسی خاصی نداده‌اید.
@@ -388,6 +390,16 @@ browser-tab-mute =
         [1] قطع صدای زبانه
        *[other] قطع صدای { $count } زبانه
     }
+browser-tab-unmute =
+    { $count ->
+        [1] وصل صدا زبانه
+       *[other] وصل صدای { $count } زبانه
+    }
+browser-tab-unblock =
+    { $count ->
+        [1] پخش زبانه
+       *[other] پخش { $count } زبانه
+    }
 
 ## Bookmarks toolbar items
 
@@ -429,6 +441,7 @@ popup-screen-sharing-block =
 popup-screen-sharing-always-block =
     .label = همیشه مسدود شود
     .accesskey = w
+popup-mute-notifications-checkbox = هنگام به اشتراک‌گذاری، اعلان‌های وب‌سایت‌ها بی‌صدا باشند
 
 ## WebRTC window or screen share tab switch warning
 

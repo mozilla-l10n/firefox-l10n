@@ -88,6 +88,12 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
+## Firefox Account Button
+
+toolbar-button-fxaccount =
+    .label = { -fxaccount-brand-name }
+    .tooltiptext = { -fxaccount-brand-name }
+
 ## Save Page
 
 main-context-menu-page-save =
@@ -102,6 +108,18 @@ main-context-menu-bookmark-add =
     .aria-label = نشانک‌گذاری این صفحه
     .accesskey = m
     .tooltiptext = نشانک‌گذاری این صفحه({ $shortcut })
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-add-mac =
+    .label = نشانک‌گذاری صفحه
+    .accesskey = ن
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-edit-mac =
+    .label = ویرایش نشانک
+    .accesskey = و
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-add-with-shortcut =
@@ -296,12 +314,12 @@ main-context-menu-image-email =
 main-context-menu-image-set-as-background =
     .label = قرار دادن در پس‌زمینهٔ رومیزی
     .accesskey = ق
-main-context-menu-image-info =
-    .label = نمایش اطلاعات تصویر
-    .accesskey = ص
 main-context-menu-image-set-image-as-background =
     .label = تنظیم تصویر به عنوان پس‌زمینهٔ رومیزی…
     .accesskey = S
+main-context-menu-image-info =
+    .label = نمایش اطلاعات تصویر
+    .accesskey = ص
 main-context-menu-image-desc =
     .label = نمایش توضیحات
     .accesskey = ت
@@ -314,6 +332,9 @@ main-context-menu-audio-save-as =
 main-context-menu-video-image-save-as =
     .label = ذخیرهٔ تصویر لحظه‌ای به عنوان...
     .accesskey = ذ
+main-context-menu-video-take-snapshot =
+    .label = عکس گرفتن…
+    .accesskey = ع
 main-context-menu-video-email =
     .label = ایمیل کردن صدا...
     .accesskey = ا
@@ -358,6 +379,9 @@ main-context-menu-suggest-strong-password =
 main-context-menu-manage-logins =
     .label = مدیریت ورودها…
     .accesskey = M
+main-context-menu-manage-logins2 =
+    .label = مدیریت ورودها
+    .accesskey = م
 main-context-menu-keyword =
     .label = اضافه کردن یک کلیدواژه به این جست‌وجو…
     .accesskey = ک
