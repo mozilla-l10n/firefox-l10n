@@ -11,3 +11,6 @@ account-reconnect-to-fxa = Hesap bağlantısı kesildi
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-disconnected = Bağlantınız kesildi
+# Used as the FxA toolbar menu item title when the user
+# needs to reconnect their account.
+account-disconnected2 = Hesabın bağlantısı kesildi
