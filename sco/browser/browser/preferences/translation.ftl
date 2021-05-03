@@ -4,6 +4,10 @@
 
 translation-close-key =
     .key = w
+translation-languages-column =
+    .label = Leids
+translation-sites-column =
+    .label = Wabsites
 translation-button-close =
     .label = Sneck
     .accesskey = c
