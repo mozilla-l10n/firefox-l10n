@@ -23,6 +23,14 @@ cert-error-untrusted-default = Гувоҳинома аз манбаи беэът
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-domain-mismatch = Сомонаҳо айнияти худро ба воситаи гувоҳиномаҳо тасдиқ мекунанд. { -brand-short-name } ба ин сомона эътимод надорад, зеро ки он аз гувоҳиномае истифода мебарад, ки барои { $hostname } беэътибор мебошад.
 # Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $alt-name (String) - Alternate domain name for which the cert is valid.
+cert-error-domain-mismatch-single = Сомонаҳо айнияти худро ба воситаи гувоҳиномаҳо тасдиқ мекунанд. { -brand-short-name } ба ин сомона эътимод надорад, зеро ки он аз гувоҳиномае истифода мебарад, ки барои { $hostname } беэътибор мебошад. Гувоҳинома танҳо барои <a data-l10n-name="domain-mismatch-link">{ $alt-name }</a> эътибор дорад.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $alt-name (String) - Alternate domain name for which the cert is valid.
+cert-error-domain-mismatch-single-nolink = Сомонаҳо айнияти худро ба воситаи гувоҳиномаҳо тасдиқ мекунанд. { -brand-short-name } ба ин сомона эътимод надорад, зеро ки он аз гувоҳиномае истифода мебарад, ки барои { $hostname } беэътибор мебошад. Гувоҳинома танҳо барои { $alt-name } эътибор дорад.
+# Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Рамзи хато: <a data-l10n-name="error-code-link">{ $error }</a>
 cert-error-details-cert-chain-label = Занҷири гувоҳинома:
