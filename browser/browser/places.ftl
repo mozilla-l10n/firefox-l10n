@@ -5,12 +5,12 @@
 places-open =
     .label = باز کردن
     .accesskey = ب
-places-open-tab =
-    .label = باز کردن در زبانهٔ جدید
-    .accesskey = ج
 places-open-in-tab =
     .label = باز کردن در زبانهٔ جدید
     .accesskey = w
+places-open-tab =
+    .label = باز کردن در زبانهٔ جدید
+    .accesskey = ج
 places-open-all-bookmarks =
     .label = باز کردن همه نشانک‌ها
     .accesskey = O
@@ -20,9 +20,15 @@ places-open-all-in-tabs =
 places-open-window =
     .label = باز کردن در پنجرهٔ جدید
     .accesskey = پ
+places-open-in-window =
+    .label = باز کردن در پنجرهٔ جدید
+    .accesskey = N
 places-open-private-window =
     .label = باز کردن پنجرهٔ ناشناس جدید
     .accesskey = ن
+places-open-in-private-window =
+    .label = باز کردن در پنجرهٔ ناشناس جدید
+    .accesskey = P
 places-new-bookmark =
     .label = نشانک جدید…
     .accesskey = ن
@@ -35,12 +41,6 @@ places-new-folder =
 places-new-separator =
     .label = جداساز جدید
     .accesskey = س
-places-open-in-window =
-    .label = باز کردن در پنجرهٔ جدید
-    .accesskey = N
-places-open-in-private-window =
-    .label = باز کردن در پنجرهٔ ناشناس جدید
-    .accesskey = P
 places-add-bookmark =
     .label = اضافه کردن نشانک…
     .accesskey = B
@@ -91,6 +91,16 @@ places-edit-bookmark =
 places-edit-generic =
     .label = ویرایش…
     .accesskey = i
+places-edit-folder =
+    .label = تغییر نام پوشه…
+    .accesskey = ت
+places-remove-folder =
+    .label =
+        { $count ->
+            [1] حذف پوشه
+           *[other] حذف پوشه‌ها
+        }
+    .accesskey = ح
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = نشانک‌های مدیریت شده

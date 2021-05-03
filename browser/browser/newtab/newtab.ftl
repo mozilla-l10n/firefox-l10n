@@ -19,6 +19,20 @@ newtab-search-box-search-button =
     .title = جست‌وجو
     .aria-label = جست‌وجو
 newtab-search-box-search-the-web-text = جست‌وجوی وب
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-text = با { $engine } جست‌وجو یا آدرسی وارد کنید
+newtab-search-box-handoff-text-no-engine = عبارتی برای جست‌وجو یا یک آدرس وارد کنید
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-input =
+    .placeholder = با { $engine } جست‌وجو یا آدرسی وارد کنید
+    .title = با { $engine } جست‌وجو یا آدرسی وارد کنید
+    .aria-label = با { $engine } جست‌وجو یا آدرسی وارد کنید
+newtab-search-box-handoff-input-no-engine =
+    .placeholder = عبارتی برای جست‌وجو یا یک آدرس وارد کنید
+    .title = عبارتی برای جست‌وجو یا یک آدرس وارد کنید
+    .aria-label = عبارتی برای جست‌وجو یا یک آدرس وارد کنید
 newtab-search-box-search-the-web-input =
     .placeholder = جست‌وجوی وب
     .title = جست‌وجوی وب
