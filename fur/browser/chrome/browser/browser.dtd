@@ -52,6 +52,10 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.syncSettings2.label "Impostazions di &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Conet un altri dispositîf…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     followed by the user's email. -->
 <!ENTITY fxa.menu.signin.label "Jentre su &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Ative &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "Servizis di &brandProductName;">
@@ -126,7 +130,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY libraryDownloads.label       "Discjamâts">
 <!ENTITY addons.label                 "Zontis">
 
-<!ENTITY webDeveloperMenu.label       "Svilupadôr dal Web">
+<!ENTITY webDeveloperMenu.label       "Svilupadôr Web">
 
 <!ENTITY newNavigatorCmd.label        "Gnûf barcon">
 <!ENTITY newPrivateWindow.label     "Gnûf barcon privât">
@@ -154,6 +158,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuHelp.label "Jutori">
 
 <!ENTITY appMenuRemoteTabs.label "Schedis sincronizadis">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Nissune schede vierte">

@@ -92,3 +92,15 @@ options-disable-http-cache-tooltip =
     .title = Ativant cheste opzion la cache HTTP e vignarà disativade par dutis lis schedis che a àn la cassele dai imprescj vierte. I service workers no vegnin tocjadis di cheste opzion.
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = Disative JavaScript *
+options-disable-javascript-tooltip =
+    .title = Ativant cheste opzion JavaScript al vignarà disativât pe schede curint. Se la schede o la cassele dai imprescj a vegnin sieradis alore cheste impostazion e vignarà dismenteade.
+# The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
+options-enable-chrome-label = Ative lis casselis dai imprescj pal debug dal navigadôr chrome e des zontis
+options-enable-chrome-tooltip =
+    .title = Ativant cheste opzion ti permetarà di doprâ varis struments di svilup in mût diret dal navigadôr (vie Struments > Svilupadôr Web > Cassele dai imprescj dal navigadôr) e fâ il debug des zontis dal Gjestôr des zontis
+# The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
+options-enable-remote-label = Ative il debug di lontan
+options-enable-remote-tooltip2 =
+    .title = Ativant cheste opzion al sarà pussibil fâ il debug di lontan di cheste istance dal navigadôr
+# The label for checkbox that toggles the service workers testing over HTTP on or off.
+options-enable-service-workers-http-label = Ative i service workers sore di HTTP (cuant che la cassele dai imprescj e je vierte)
