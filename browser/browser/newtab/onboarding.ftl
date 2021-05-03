@@ -169,7 +169,7 @@ onboarding-multistage-welcome-secondary-button-text = Masz konto?
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "default" should stay inside the span.
 onboarding-multistage-set-default-header = Ustaw przeglądarkę { -brand-short-name } jako <span data-l10n-name="zap">domyślną</span>
-onboarding-multistage-set-default-subtitle = Szybko, bezpiecznie i prywatnie przeglądaj Internet.
+onboarding-multistage-set-default-subtitle = Zawsze szybko, bezpiecznie i prywatnie przeglądaj Internet.
 onboarding-multistage-set-default-primary-button-label = Ustaw jako domyślną
 onboarding-multistage-set-default-secondary-button-label = Nie teraz
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
@@ -200,7 +200,6 @@ onboarding-welcome-steps-indicator =
 # automatically added to the text inside it. "look" should stay inside the span.
 onboarding-multistage-theme-header = Wybierz swój <span data-l10n-name="zap">wygląd</span>
 onboarding-multistage-theme-subtitle = Spersonalizuj przeglądarkę { -brand-short-name } za pomocą motywu.
-onboarding-multistage-theme-primary-button-label = Zapisz motyw
 onboarding-multistage-theme-primary-button-label2 = Gotowe
 onboarding-multistage-theme-secondary-button-label = Nie teraz
 # Automatic theme uses operating system color settings
@@ -243,3 +242,12 @@ onboarding-multistage-theme-tooltip-alpenglow-2 =
 # Input description for Alpenglow theme
 onboarding-multistage-theme-description-alpenglow =
     .aria-description = Kolorowe przyciski, menu i okna.
+
+## Multistage MR1 onboarding strings (MR1 about:welcome pages)
+
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+

@@ -7,3 +7,15 @@ default-browser-notification-message = <strong>Ustawić przeglądarkę { -brand-
 default-browser-notification-button =
     .label = Ustaw jako domyślną
     .accesskey = U
+
+## These strings are used for the default browser prompt. There are 2 variations
+## depending on the operating system (Windows vs other). The checkbox label and
+## secondary button are shared between the variants.
+
+default-browser-prompt-title-pin = Ustawić przeglądarkę { -brand-short-name } jako główną?
+default-browser-prompt-button-primary-pin = Ustaw jako główną przeglądarkę
+default-browser-prompt-title-alt = Ustawić przeglądarkę { -brand-short-name } jako domyślną?
+default-browser-prompt-message-alt = Zawsze szybko, bezpiecznie i prywatnie przeglądaj Internet.
+default-browser-prompt-button-primary-alt = Ustaw jako domyślną przeglądarkę
+default-browser-prompt-checkbox-not-again-label = Nie pytaj więcej
+default-browser-prompt-button-secondary = Nie teraz
