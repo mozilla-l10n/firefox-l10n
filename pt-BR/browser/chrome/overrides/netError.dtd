@@ -105,7 +105,7 @@ instalado.</li>
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara2 "O &brandShortName; detectou uma potencial ameaça de segurança e não seguiu para <span class='hostname'/>. Se você visitar este site, invasores podem tentar roubar suas informações, como senhas, endereços de email e detalhes de cartões de crédito.">
+<!ENTITY certerror.introPara2 "O &brandShortName; detectou uma potencial ameaça de segurança e não seguiu para <span class='hostname'/>. Se você visitar este site, invasores podem tentar roubar suas informações, como senhas, endereços de email ou detalhes de cartões de crédito.">
 <!ENTITY certerror.sts.introPara "O &brandShortName; detectou uma potencial ameaça de segurança e não prosseguiu para <span class='hostname'/> porque este site exige uma conexão segura.">
 
 <!ENTITY certerror.expiredCert.introPara "O &brandShortName; detectou um problema e não prosseguiu para <span class='hostname'/>. O site foi mal configurado ou o relógio interno do seu computador está errado.">
