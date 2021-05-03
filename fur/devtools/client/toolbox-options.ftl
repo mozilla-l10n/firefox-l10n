@@ -69,9 +69,26 @@ options-screenshot-audio-tooltip =
 
 # The heading
 options-sourceeditor-label = Preferencis dal editôr
-options-sourceeditor-keybinding-default-label = Predeterminât
+options-sourceeditor-detectindentation-tooltip =
+    .title = Dedûs la indentazion dal test in base al contignût dal codiç sorzint
+options-sourceeditor-detectindentation-label = Rileve la indentazion
+options-sourceeditor-autoclosebrackets-tooltip =
+    .title = Inserìs in automatic lis parentesis di sieradure
+options-sourceeditor-autoclosebrackets-label = Auto-siere lis parentesis
+options-sourceeditor-expandtab-tooltip =
+    .title = Dopre i spazis al puest dal caratar di tabulazion
+options-sourceeditor-expandtab-label = Indentâ doprant i spazis
+options-sourceeditor-tabsize-label = Dimension tabulazion
+options-sourceeditor-keybinding-label = Associazions di tascj
+options-sourceeditor-keybinding-default-label = Predefinît
 
 ## Advanced section
 
+# The heading (this item is also used in perftools.ftl)
+options-context-advanced-settings = Impostazions avanzadis
+# The label for the checkbox that toggles the HTTP cache on or off
+options-disable-http-cache-label = Disative la cache HTTP (cuant che la cassele dai imprescj e je vierte)
+options-disable-http-cache-tooltip =
+    .title = Ativant cheste opzion la cache HTTP e vignarà disativade par dutis lis schedis che a àn la cassele dai imprescj vierte. I service workers no vegnin tocjadis di cheste opzion.
 # The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = Abilite JavaScript*
+options-disable-javascript-label = Disative JavaScript *
