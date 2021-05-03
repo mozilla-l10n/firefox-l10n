@@ -253,7 +253,7 @@ mr1-onboarding-set-default-pin-primary-button-label = Ustaw przeglądarkę { -br
 mr1-onboarding-set-default-only-primary-button-label = Ustaw przeglądarkę { -brand-short-name } jako domyślną
 mr1-onboarding-set-default-secondary-button-label = Nie teraz
 mr1-onboarding-sign-in-button-label = Zaloguj się
-mr1-onboarding-import-header = Miej to wszystko zawsze przy sobie
+mr1-onboarding-import-header = Zabierz to wszystko ze sobą
 mr1-onboarding-import-subtitle = Zaimportuj swoje hasła, <br/>zakładki i nie tylko.
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
@@ -262,9 +262,59 @@ mr1-onboarding-import-primary-button-label-attribution = Importuj z przeglądar
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = Importuj z poprzedniej przeglądarki
 mr1-onboarding-import-secondary-button-label = Nie teraz
+mr1-onboarding-theme-header = Używaj jej po swojemu
+mr1-onboarding-theme-subtitle = Spersonalizuj przeglądarkę { -brand-short-name } za pomocą motywu.
+mr1-onboarding-theme-primary-button-label = Zachowaj motyw
+mr1-onboarding-theme-secondary-button-label = Nie teraz
+# System theme uses operating system color settings
+mr1-onboarding-theme-label-system = Motyw systemu
+mr1-onboarding-theme-label-light = Jasny
+mr1-onboarding-theme-label-dark = Ciemny
+# "Alpenglow" here is the name of the theme, and should be kept in English.
+mr1-onboarding-theme-label-alpenglow = Alpenglow
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of system theme
+mr1-onboarding-theme-tooltip-system =
+    .title =
+        Używa motywu systemu operacyjnego
+        do wyświetlania przycisków, menu i okien.
+# Input description for system theme
+mr1-onboarding-theme-description-system =
+    .aria-description =
+        Używa motywu systemu operacyjnego
+        do wyświetlania przycisków, menu i okien.
+# Tooltip displayed on hover of light theme
+mr1-onboarding-theme-tooltip-light =
+    .title =
+        Używa jasnego motywu do wyświetlania
+        przycisków, menu i okien.
+# Input description for light theme
+mr1-onboarding-theme-description-light =
+    .aria-description =
+        Używa jasnego motywu do wyświetlania
+        przycisków, menu i okien.
+# Tooltip displayed on hover of dark theme
+mr1-onboarding-theme-tooltip-dark =
+    .title =
+        Używa ciemnego motywu do wyświetlania
+        przycisków, menu i okien.
+# Input description for dark theme
+mr1-onboarding-theme-description-dark =
+    .aria-description =
+        Używa ciemnego motywu do wyświetlania
+        przycisków, menu i okien.
+# Tooltip displayed on hover of Alpenglow theme
+mr1-onboarding-theme-tooltip-alpenglow =
+    .title =
+        Używa dynamicznego, kolorowego motywu
+        do wyświetlania przycisków, menu i okien.
+# Input description for Alpenglow theme
+mr1-onboarding-theme-description-alpenglow =
+    .aria-description =
+        Używa dynamicznego, kolorowego motywu
+        do wyświetlania przycisków, menu i okien.
