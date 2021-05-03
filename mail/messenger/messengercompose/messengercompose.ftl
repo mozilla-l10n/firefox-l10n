@@ -123,3 +123,11 @@ move-attachment-last-panel-button =
 button-return-receipt =
     .label = Potwierdzenie
     .tooltiptext = Żądaj potwierdzenia dostarczenia tej wiadomości
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+consider-bcc-notification = { $count } odbiorców w polach Do i Kopia może widzieć swoje adresy. Można uniknąć ujawniania odbiorców, używając zamiast tego pola Ukryta kopia.
+many-public-recipients-bcc =
+    .label = Użyj pola Ukryta kopia
+    .accesskey = U
+many-public-recipients-ignore =
+    .label = Ujawnij odbiorców
+    .accesskey = w
