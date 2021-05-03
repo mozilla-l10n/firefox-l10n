@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY onlineContactsHeader.label    "Online Contacts">
-<!ENTITY offlineContactsHeader.label   "Offline Contacts">
+<!ENTITY onlineContactsHeader.label    "Contactos en línea">
+<!ENTITY offlineContactsHeader.label   "Contactos fuera de línea">
 <!ENTITY conversationsHeader.label     "Conversaciones">
 <!ENTITY searchResultConversation.label "Resultado de búsqueda">
 <!ENTITY chat.noConv.title             "Las conversaciones se visualizarán aqui.">
