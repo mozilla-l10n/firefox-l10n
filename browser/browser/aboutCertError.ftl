@@ -55,7 +55,7 @@ cert-error-details-hsts-label = HTTP 보안 강화 프로토콜: { $hasHSTS }
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP 공개 키 고정: { $hasHPKP }
 cert-error-details-cert-chain-label = 인증 체인:
-open-in-new-window-for-csp-or-xfo-error = 새 창에 사이트 열기
+open-in-new-window-for-csp-or-xfo-error = 사이트를 새 창에 열기
 # Variables:
 # $hostname (String) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = 보안을 위해 { $hostname } 사이트는 다른 사이트에서 해당 페이지를 포함하면 { -brand-short-name }가 페이지를 표시하지 못하게 합니다. 이 페이지를 보려면 새 창에 열어야 합니다.
