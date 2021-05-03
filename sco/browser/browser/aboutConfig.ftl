@@ -31,3 +31,7 @@ about-config-pref-add-type-boolean = Boolean
 ## Variables:
 ##   $value (String): The full value of the preference.
 
+about-config-pref-accessible-value-default =
+    .aria-label = { $value } (staunart)
+about-config-pref-accessible-value-custom =
+    .aria-label = { $value } (custom)
