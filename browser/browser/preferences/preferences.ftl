@@ -535,7 +535,7 @@ home-prefs-topsites-by-option-sponsored =
     .label = Топ сайтов спонсоров
 home-prefs-shortcuts-header =
     .label = Ярлыки
-home-prefs-shortcuts-description = Сайты, которые вы сохраняете или посещаете
+home-prefs-shortcuts-description = Сохранённые или посещаемые сайты
 home-prefs-shortcuts-by-option-sponsored =
     .label = Спонсируемые ярлыки
 

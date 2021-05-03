@@ -234,7 +234,7 @@ newtab-error-fallback-refresh-link = Обновить страницу, чтоб
 ## Customization Menu
 
 newtab-custom-shortcuts-title = Ярлыки
-newtab-custom-shortcuts-subtitle = Сайты, которые вы сохраняете или посещаете
+newtab-custom-shortcuts-subtitle = Сохранённые или посещаемые сайты
 newtab-custom-row-selector =
     { $num ->
         [one] { $num } строка
