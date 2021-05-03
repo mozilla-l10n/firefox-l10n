@@ -11,6 +11,8 @@
 
 ## Application Menu (macOS only)
 
+menu-application-preferences =
+    .label = ترجیحات
 menu-application-services =
     .label = خدمات
 menu-application-hide-this =
@@ -252,15 +254,18 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = ورود به { -brand-product-name }ٕ‍ٕ…
     .accesskey = g
-menu-tools-extensions =
-    .label = افزونه‌ها و پوسته‌ها
-    .accesskey = E
+menu-tools-addons-and-themes =
+    .label = افزونه‌ها و تم‌ها
+    .accesskey = ا
 menu-tools-fxa-sign-in2 =
     .label = وارد شدن
     .accesskey = g
 menu-tools-turn-on-sync =
     .label = روشن کردن { -sync-brand-short-name } ...
     .accesskey = n
+menu-tools-turn-on-sync2 =
+    .label = روشن کردن همگام‌سازی…
+    .accesskey = ر
 menu-tools-sync-now =
     .label = انجام هم‌گام‌سازی
     .accesskey = ه
@@ -270,12 +275,25 @@ menu-tools-fxa-re-auth =
 menu-tools-web-developer =
     .label = توسعه‌دهنده وب
     .accesskey = و
+menu-tools-browser-tools =
+    .label = ابزارهای مرورگر
+    .accesskey = ب
+menu-tools-task-manager =
+    .label = مدیر وظایف
+    .accesskey = م
 menu-tools-page-source =
     .label = متن صفحه
     .accesskey = م
 menu-tools-page-info =
     .label = اطلاعات صفحه
     .accesskey = ا
+menu-settings =
+    .label = تنظیمات
+    .accesskey =
+        { PLATFORM() ->
+            [windows] s
+           *[other] n
+        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -286,13 +304,6 @@ menu-preferences =
         { PLATFORM() ->
             [windows] گ
            *[other] ت
-        }
-menu-settings =
-    .label = تنظیمات
-    .accesskey =
-        { PLATFORM() ->
-            [windows] s
-           *[other] n
         }
 menu-tools-layout-debugger =
     .label = اشکال‌زدای چیدمان
@@ -306,15 +317,6 @@ menu-window-bring-all-to-front =
     .label = آوردن همه به جلو
 
 ## Help Menu
-
-
-# NOTE: For Engineers, any additions or changes to Help menu strings should
-# also be reflected in the related strings in appmenu.ftl. Those strings, by
-# convention, will have the same ID as these, but prefixed with "app".
-# Example: appmenu-help-product
-#
-# These strings are duplicated to allow for different casing depending on
-# where the strings appear.
 
 
 # NOTE: For Engineers, any additions or changes to Help menu strings should
@@ -340,17 +342,15 @@ menu-help-import-from-another-browser =
 menu-help-keyboard-shortcuts =
     .label = میانبرهای صفحه کلید
     .accesskey = K
-menu-get-help =
-    .label = دریافت کمک
-    .accesskey = H
 menu-help-troubleshooting-info =
     .label = اطلاعات رفع اشکال
     .accesskey = T
+menu-get-help =
+    .label = دریافت کمک
+    .accesskey = H
 menu-help-more-troubleshooting-info =
     .label = اطلاعات بیشتر
     .accesskey = T
-menu-help-taskmanager =
-    .label = مدیر وظایف
 menu-help-report-site-issue =
     .label = مشکل سایت را گزارش کنید…
 menu-help-feedback-page =
@@ -362,9 +362,9 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = راه‌اندازی مجدد به همراه غیرفعال کردن افزودنی‌ها
     .accesskey = R
-menu-help-enter-troubleshoot-mode =
-    .label = حالت عیب‌یابی
-    .accesskey = M
+menu-help-enter-troubleshoot-mode2 =
+    .label = حالت عیب‌یابی…
+    .accesskey = ح
 menu-help-exit-troubleshoot-mode =
     .label = خاموش کردن حالت عیب‌یابی
     .accesskey = M
@@ -376,6 +376,3 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = این یک سایت گمراه‌کننده نیست…
     .accesskey = d
-menu-help-check-for-update =
-    .label = بررسی برای بروزرسانی‌ها…
-    .accesskey = C
