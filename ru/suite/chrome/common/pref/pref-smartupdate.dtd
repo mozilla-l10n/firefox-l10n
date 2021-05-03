@@ -16,7 +16,7 @@
 <!ENTITY addOnsWeekly.accesskey               "о">
 <!ENTITY addOnsModeAutomatic.label            "Автоматически загружать и устанавливать обновления">
 <!ENTITY addOnsModeAutomatic.accesskey        "м">
-<!ENTITY enablePersonalized.label             "Персонализировать рекомендации дополнений">
+<!ENTITY enablePersonalized.label             "Настроить рекомендации дополнений">
 <!ENTITY enablePersonalized.accesskey         "с">
 <!ENTITY addonManagerLink.label               "Управление дополнениями">
 
