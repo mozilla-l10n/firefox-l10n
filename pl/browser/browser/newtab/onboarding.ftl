@@ -245,6 +245,23 @@ onboarding-multistage-theme-description-alpenglow =
 
 ## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 
+# This button will open system settings to turn on prefers-reduced-motion
+mr1-onboarding-reduce-motion-button-label = Wyłącz animacje
+mr1-onboarding-welcome-header = Witamy w przeglądarce { -brand-short-name }
+mr1-onboarding-set-default-pin-primary-button-label = Ustaw przeglądarkę { -brand-short-name } jako główną
+    .title = Ustawia przeglądarkę { -brand-short-name } jako domyślną i przypina ją do paska zadań
+mr1-onboarding-set-default-only-primary-button-label = Ustaw przeglądarkę { -brand-short-name } jako domyślną
+mr1-onboarding-set-default-secondary-button-label = Nie teraz
+mr1-onboarding-sign-in-button-label = Zaloguj się
+mr1-onboarding-import-header = Miej to wszystko zawsze przy sobie
+mr1-onboarding-import-subtitle = Zaimportuj swoje hasła, <br/>zakładki i nie tylko.
+# The primary import button label will depend on whether we can detect which browser was used to download Firefox.
+# Variables:
+#   $previous (Str) - Previous browser name, such as Edge, Chrome
+mr1-onboarding-import-primary-button-label-attribution = Importuj z przeglądarki { $previous }
+# This string will be used in cases where we can't detect the previous browser name.
+mr1-onboarding-import-primary-button-label-no-attribution = Importuj z poprzedniej przeglądarki
+mr1-onboarding-import-secondary-button-label = Nie teraz
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip

@@ -13,6 +13,7 @@ default-browser-notification-button =
 ## secondary button are shared between the variants.
 
 default-browser-prompt-title-pin = Ustawić przeglądarkę { -brand-short-name } jako główną?
+default-browser-prompt-message-pin = Miej przeglądarkę { -brand-short-name } zawsze pod ręką — ustaw ją jako domyślną i przypnij do paska zadań.
 default-browser-prompt-button-primary-pin = Ustaw jako główną przeglądarkę
 default-browser-prompt-title-alt = Ustawić przeglądarkę { -brand-short-name } jako domyślną?
 default-browser-prompt-message-alt = Zawsze szybko, bezpiecznie i prywatnie przeglądaj Internet.
