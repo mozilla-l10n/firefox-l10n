@@ -46,3 +46,18 @@ toolbar-delete-button =
 toolbar-undelete-button =
     .label = Przywróć
     .tooltiptext = Przywróć usunięte wiadomości
+
+## View / Layout
+
+mail-uidensity-label =
+    .label = Gęstość i upakowanie
+    .accesskey = G
+mail-uidensity-compact =
+    .label = Zwarte
+    .accesskey = w
+mail-uidensity-normal =
+    .label = Zwykłe
+    .accesskey = Z
+mail-uidensity-touch =
+    .label = Dotykowe
+    .accesskey = D
