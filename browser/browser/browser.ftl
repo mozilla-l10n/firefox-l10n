@@ -329,6 +329,7 @@ identity-https-only-info-turn-off2 = Jeśli strona wydaje się niepoprawnie dzia
 identity-https-only-info-no-upgrade = Nie można przełączyć połączenia z protokołu HTTP.
 identity-permissions-storage-access-header = Ciasteczka między witrynami
 identity-permissions-storage-access-hint = Te strony mogą używać ciasteczek i danych między witrynami, kiedy jesteś na tej witrynie.
+identity-permissions-storage-access-learn-more = Więcej informacji
 identity-permissions-reload-hint = Ponowne wczytanie strony może być konieczne, aby wprowadzone zmiany przyniosły skutek.
 identity-permissions-empty = Witryna korzysta z domyślnych uprawnień.
 identity-clear-site-data =
