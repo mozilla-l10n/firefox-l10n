@@ -15,6 +15,7 @@ policy-AllowedDomainsForApps = Diffinio parthau sy'n cael eu caniatáu i gael my
 policy-AppAutoUpdate = Galluogi neu analluogi diweddaru rhaglen yn awtomatig.
 policy-AppUpdateURL = Gosod URL diweddaru ap cyfaddas.
 policy-Authentication = Ffurfweddu dilysu integredig ar gyfer gwefannau sy'n ei gefnogi.
+policy-AutoLaunchProtocolsFromOrigins = Diffiniwch restr o brotocolau allanol y mae modd eu defnyddio o darddiad rhestredig heb annog y defnyddiwr.
 policy-BackgroundAppUpdate2 = Galluogi neu analluogi'r diweddarydd cefndir.
 policy-BlockAboutAddons = Rhwystro mynediad i'r Rheolwr Ychwanegion (about:addons)
 policy-BlockAboutConfig = Rhwystro mynediad i'r dudalen about:config.

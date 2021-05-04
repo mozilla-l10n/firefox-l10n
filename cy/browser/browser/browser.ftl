@@ -314,6 +314,7 @@ identity-header-security-with-host =
     .title = Diogelwch Cysylltiad { $host }
 identity-connection-not-secure = Cysylltiad yn anniogel
 identity-connection-secure = Cysylltiad yn ddiogel
+identity-connection-failure = Methiant cysylltiad
 identity-connection-internal = Mae hon yn dudalen { -brand-short-name } diogel.
 identity-connection-file = Mae'r dudalen hon wedi ei chadw ar eich cyfrifiadur.
 identity-extension-page = Mae'r dudalen wedi ei llwytho o estyniad.
