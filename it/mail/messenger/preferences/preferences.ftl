@@ -90,8 +90,8 @@ update-in-progress-ok-button = I&nterrompi
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continua
-account-button = Impostazioni account
 addons-button = Estensioni e temi
+account-button = Impostazioni account
 open-addons-sidebar-button = Componenti aggiuntivi e temi
 
 ## OS Authentication dialog
@@ -260,7 +260,7 @@ offline-settings-button =
     .accesskey = N
 diskspace-legend = Spazio su disco
 offline-compact-folder =
-    .label = Compatta le cartelle se serve a risparmiare spazio
+    .label = Compatta le cartelle quando è possibile recuperare
     .accesskey = a
 compact-folder-size =
     .value = Mb in totale
