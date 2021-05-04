@@ -302,6 +302,7 @@ identity-header-security-with-host =
     .title = Tilkoplings-sikkerheit for { $host }
 identity-connection-not-secure = Tilkoplinga er ikkje trygg
 identity-connection-secure = Tilkoplinga er trygg
+identity-connection-failure = Tilkoplingsfeil
 identity-connection-internal = Dette er ei sikker { -brand-short-name }-side.
 identity-connection-file = Denne sida er lagra på datamaskina di.
 identity-extension-page = Denne sida er lasta frå ei utviding.
