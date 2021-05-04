@@ -5,12 +5,12 @@
 places-open =
     .label = Abrir
     .accesskey = A
-places-open-tab =
-    .label = Abrir nuna llingüeta nueva
-    .accesskey = t
 places-open-in-tab =
     .label = Abrir nuna llingüeta nueva
     .accesskey = l
+places-open-tab =
+    .label = Abrir nuna llingüeta nueva
+    .accesskey = t
 places-open-all-bookmarks =
     .label = Abrir tolos marcadores
     .accesskey = A
@@ -20,9 +20,15 @@ places-open-all-in-tabs =
 places-open-window =
     .label = Abrir nuna ventana nueva
     .accesskey = n
+places-open-in-window =
+    .label = Abrir nuna ventana nueva
+    .accesskey = n
 places-open-private-window =
     .label = Abrir nuna ventanta privada nueva
     .accesskey = P
+places-open-in-private-window =
+    .label = Abrir nuna ventana privada nueva
+    .accesskey = p
 places-new-bookmark =
     .label = Marcador nuevu…
     .accesskey = n
@@ -35,12 +41,6 @@ places-new-folder =
 places-new-separator =
     .label = Separtador nuevu
     .accesskey = v
-places-open-in-window =
-    .label = Abrir nuna ventana nueva
-    .accesskey = n
-places-open-in-private-window =
-    .label = Abrir nuna ventana privada nueva
-    .accesskey = p
 places-add-bookmark =
     .label = Amestar un marcador…
     .accesskey = m
@@ -91,6 +91,14 @@ places-edit-bookmark =
 places-edit-generic =
     .label = Editar…
     .accesskey = i
+places-remove-folder =
+    .label =
+        { $count ->
+            [1] Quitar la carpeta
+            [one] Quitar les carpetes
+           *[other] Quitar les carpetes
+        }
+    .accesskey = Q
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Marcadores xestionaos
