@@ -304,6 +304,7 @@ identity-header-security-with-host =
     .title = Verbindingsbeveiliging voor { $host }
 identity-connection-not-secure = Verbinding niet beveiligd
 identity-connection-secure = Verbinding beveiligd
+identity-connection-failure = Verbindingsfout
 identity-connection-internal = Dit is een beveiligde { -brand-short-name }-pagina.
 identity-connection-file = Deze pagina is op uw computer opgeslagen.
 identity-extension-page = Deze pagina is geladen vanuit een extensie.
