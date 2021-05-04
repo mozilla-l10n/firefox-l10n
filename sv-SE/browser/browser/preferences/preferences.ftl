@@ -1018,6 +1018,7 @@ enhanced-tracking-protection-setting-custom =
 content-blocking-etp-standard-desc = Balanserad för skydd och prestanda. Sidor laddas normalt.
 content-blocking-etp-strict-desc = Starkare skydd, men kan leda till att vissa webbplatser eller innehåll inte fungerar.
 content-blocking-etp-custom-desc = Välj vilka spårare och skript som ska blockeras.
+content-blocking-etp-blocking-desc = { -brand-short-name } blockerar följande:
 content-blocking-private-windows = Spårningsinnehåll i privat fönster
 content-blocking-cross-site-cookies = Globala kakor
 content-blocking-cross-site-cookies-in-all-windows = Globala kakor i alla fönster (inkluderar spårningskakor)
