@@ -1010,6 +1010,7 @@ enhanced-tracking-protection-setting-custom =
 content-blocking-etp-standard-desc = 平衡保护和性能。页面将正常加载。
 content-blocking-etp-strict-desc = 更强大的保护，但可能导致某些网站异常。
 content-blocking-etp-custom-desc = 选择要拦截的跟踪器和脚本。
+content-blocking-etp-blocking-desc = { -brand-short-name } 拦截下列项目：
 content-blocking-private-windows = 隐私窗口中的跟踪性内容
 content-blocking-cross-site-cookies = 跨网站 Cookie
 content-blocking-cross-site-cookies-in-all-windows = 所有窗口中的跨网站 Cookie（包括跟踪性 Cookie）
@@ -1134,6 +1135,8 @@ collection-backlogged-crash-reports =
     .label = 允许 { -brand-short-name } 代您发送积压的崩溃报告
     .accesskey = c
 collection-backlogged-crash-reports-link = 详细了解
+collection-backlogged-crash-reports-with-link = 允许 { -brand-short-name } 代您发送积压的崩溃报告 <a data-l10n-name="crash-reports-link">详细了解</a>
+    .accesskey = c
 
 ## Privacy Section - Security
 ##
