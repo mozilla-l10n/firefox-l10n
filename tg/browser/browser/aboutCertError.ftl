@@ -34,6 +34,10 @@ cert-error-domain-mismatch-single-nolink = Сомонаҳо айнияти ху�
 # $subject-alt-names (String) - Alternate domain names for which the cert is valid.
 cert-error-domain-mismatch-multiple = Сомонаҳо айнияти худро ба воситаи гувоҳиномаҳо тасдиқ мекунанд. { -brand-short-name } ба ин сомона эътимод надорад, зеро ки он аз гувоҳиномае истифода мебарад, ки барои { $hostname } беэътибор мебошад. Гувоҳинома танҳо барои номҳои зерин эътибор дорад: { $subject-alt-names }
 # Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-after-local-time (Date) - Certificate is not valid after this time.
+cert-error-expired-now = Сомонаҳо айнияти худро ба воситаи гувоҳиномаҳое тасдиқ мекунанд, ки дорои муҳлати маҳдуд мебошанд. Муҳлати гувоҳинома барои { $hostname } санаи { $not-after-local-time } ба анҷом мерасад.
+# Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Рамзи хато: <a data-l10n-name="error-code-link">{ $error }</a>
 cert-error-details-cert-chain-label = Занҷири гувоҳинома:
