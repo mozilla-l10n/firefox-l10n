@@ -1018,6 +1018,7 @@ enhanced-tracking-protection-setting-custom =
 content-blocking-etp-standard-desc = Yerked gar ummesten akked tmellit. ISebtar ad d-alin s wudem amagnu.
 content-blocking-etp-strict-desc = Ammesten yettwaseǧhed, maca kra n yismal akked ugbur yemzer ur teddun ara akken iwata.
 content-blocking-etp-custom-desc = Fren ineḍfaṛen akked iskripten ara tesweḥleḍ.
+content-blocking-etp-blocking-desc = { -brand-short-name } issewḥal aya:
 content-blocking-private-windows = Agbur yettwaseqdec i uḍfaṛ deg yisfuyla n tunigin tuligt
 content-blocking-cross-site-cookies = Inagan n tuqqna gar yismal
 content-blocking-cross-site-cookies-in-all-windows = Inagan n tuqqna gar yismal deg meṛṛa isfuyla (rnu ula d inagan n tuqqna n uḍfar)
