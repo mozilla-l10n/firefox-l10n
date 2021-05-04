@@ -302,6 +302,7 @@ identity-header-security-with-host =
     .title = אבטחת החיבור עבור { $host }
 identity-connection-not-secure = החיבור אינו מאובטח
 identity-connection-secure = החיבור מאובטח
+identity-connection-failure = כשל בחיבור
 identity-connection-internal = דף זה הנו דף מאובטח של { -brand-short-name }.
 identity-connection-file = דף זה מאוחסן במחשב שלך.
 identity-extension-page = עמוד זה נטען מתוך הרחבה.
