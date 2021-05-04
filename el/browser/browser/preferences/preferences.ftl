@@ -1143,6 +1143,8 @@ collection-backlogged-crash-reports =
     .label = Να επιτρέπεται στο { -brand-short-name } η αποστολή εκκρεμουσών αναφορών σφαλμάτων
     .accesskey = σ
 collection-backlogged-crash-reports-link = Μάθετε περισσότερα
+collection-backlogged-crash-reports-with-link = Να επιτρέπεται στο { -brand-short-name } η αποστολή αναφορών καταρρεύσεων με καθυστέρηση <a data-l10n-name="crash-reports-link">Μάθετε περισσότερα</a>
+    .accesskey = κ
 
 ## Privacy Section - Security
 ##
