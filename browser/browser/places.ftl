@@ -5,12 +5,12 @@
 places-open =
     .label = เปิด
     .accesskey = ป
-places-open-tab =
-    .label = เปิดในแท็บใหม่
-    .accesskey = ท
 places-open-in-tab =
     .label = เปิดในแท็บใหม่
     .accesskey = w
+places-open-tab =
+    .label = เปิดในแท็บใหม่
+    .accesskey = ท
 places-open-all-bookmarks =
     .label = เปิดที่คั่นหน้าทั้งหมด
     .accesskey = O
@@ -20,9 +20,15 @@ places-open-all-in-tabs =
 places-open-window =
     .label = เปิดในหน้าต่างใหม่
     .accesskey = ห
+places-open-in-window =
+    .label = เปิดในหน้าต่างใหม่
+    .accesskey = N
 places-open-private-window =
     .label = เปิดในหน้าต่างส่วนตัวใหม่
     .accesskey = ส
+places-open-in-private-window =
+    .label = เปิดในหน้าต่างส่วนตัวใหม่
+    .accesskey = P
 places-new-bookmark =
     .label = ที่คั่นหน้าใหม่…
     .accesskey = ม
@@ -35,12 +41,6 @@ places-new-folder =
 places-new-separator =
     .label = ตัวแบ่งใหม่
     .accesskey = บ
-places-open-in-window =
-    .label = เปิดในหน้าต่างใหม่
-    .accesskey = N
-places-open-in-private-window =
-    .label = เปิดในหน้าต่างส่วนตัวใหม่
-    .accesskey = P
 places-add-bookmark =
     .label = เพิ่มที่คั่นหน้า…
     .accesskey = B
@@ -91,6 +91,16 @@ places-edit-bookmark =
 places-edit-generic =
     .label = แก้ไข…
     .accesskey = i
+places-edit-folder =
+    .label = ลบโฟลเดอร์…
+    .accesskey = e
+places-remove-folder =
+    .label =
+        { $count ->
+            [1] ลบโฟลเดอร์
+           *[other] ลบโฟลเดอร์
+        }
+    .accesskey = m
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = ที่คั่นหน้าที่ถูกจัดการ

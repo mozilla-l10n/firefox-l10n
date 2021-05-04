@@ -49,3 +49,5 @@ customize-mode-lwthemes-my-themes =
     .value = ชุดตกแต่งของฉัน
 customize-mode-touchbar-cmd =
     .label = ปรับแต่งแถบสัมผัส…
+customize-mode-downloads-button-autohide =
+    .label = ซ่อนปุ่มเมื่อว่างเปล่า

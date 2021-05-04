@@ -261,12 +261,16 @@ onboarding-multistage-theme-description-alpenglow =
 mr1-onboarding-reduce-motion-button-label = ปิดภาพเคลื่อนไหว
 mr1-onboarding-set-default-secondary-button-label = ไม่ใช่ตอนนี้
 mr1-onboarding-sign-in-button-label = ลงชื่อเข้า
+mr1-onboarding-import-header = นำทุกอย่างติดตัวไปด้วย
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = นำเข้าจาก { $previous }
 mr1-onboarding-import-secondary-button-label = ไม่ใช่ตอนนี้
+mr1-onboarding-theme-header = ทำให้เป็นของคุณเอง
 mr1-onboarding-theme-secondary-button-label = ไม่ใช่ตอนนี้
+mr1-onboarding-theme-label-light = สว่าง
+mr1-onboarding-theme-label-dark = มืด
 # "Alpenglow" here is the name of the theme, and should be kept in English.
 mr1-onboarding-theme-label-alpenglow = Alpenglow
 
