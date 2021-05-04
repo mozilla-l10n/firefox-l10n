@@ -302,6 +302,7 @@ identity-header-security-with-host =
     .title = A(z) { $host } kapcsolatának biztonsága
 identity-connection-not-secure = A kapcsolat nem biztonságos
 identity-connection-secure = A kapcsolat biztonságos
+identity-connection-failure = Kapcsolódási hiba
 identity-connection-internal = Ez egy biztonságos { -brand-short-name } oldal.
 identity-connection-file = Ez az oldal a számítógépén van tárolva.
 identity-extension-page = Ez az oldal kiegészítőből lett betöltve.
