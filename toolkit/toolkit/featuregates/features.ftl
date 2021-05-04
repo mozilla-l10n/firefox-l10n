@@ -66,7 +66,7 @@ experimental-features-webrtc-global-mute-toggles =
 experimental-features-webrtc-global-mute-toggles-description = 新增對 WebRTC 全域分享指示器的控制元件，讓使用者能夠完全關閉麥克風與攝影機訊號來源。
 # Win32k Lockdown
 experimental-features-win32k-lockdown =
-    .label = Win32k 鎖定
+    .label = Win32k Lockdown
 experimental-features-win32k-lockdown-description = 於瀏覽器分頁中不再使用 Win32k API。可增加安全性，但目前可能還不穩定或容易出錯。（僅適用於 Windows）
 # JS JIT Warp project
 experimental-features-js-warp =

@@ -1002,6 +1002,7 @@ enhanced-tracking-protection-setting-custom =
 content-blocking-etp-standard-desc = 兼顧保護與效能。網站可正常運作。
 content-blocking-etp-strict-desc = 保護更強大，但可能會導致某些網站或內容故障。
 content-blocking-etp-custom-desc = 選擇要封鎖哪些追蹤器與指令碼。
+content-blocking-etp-blocking-desc = { -brand-short-name } 封鎖下列項目:
 content-blocking-private-windows = 隱私視窗中的追蹤內容
 content-blocking-cross-site-cookies = 跨網站 Cookie
 content-blocking-cross-site-cookies-in-all-windows = 所有視窗中的跨網站 Cookie（包含追蹤用 Cookie）
