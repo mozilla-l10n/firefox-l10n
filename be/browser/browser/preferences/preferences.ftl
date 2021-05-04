@@ -1022,6 +1022,7 @@ enhanced-tracking-protection-setting-custom =
 content-blocking-etp-standard-desc = Збалансаваная ахова і прадукцыйнасць. Старонкі загружаюцца нармальна.
 content-blocking-etp-strict-desc = Больш моцная ахова, але можа прывесці да парушэння некаторых сайтаў ці змесціва.
 content-blocking-etp-custom-desc = Выберыце, якія трэкеры і скрыпты трэба заблакаваць.
+content-blocking-etp-blocking-desc = { -brand-short-name } блакуе:
 content-blocking-private-windows = Змест з элементамі сачэння ў прыватных вокнах
 content-blocking-cross-site-cookies = Міжсайтавыя кукі
 content-blocking-cross-site-cookies-in-all-windows = Міжсайтавыя файлы кукі ва ўсіх вокнах (уключна з кукамі асочвання)
