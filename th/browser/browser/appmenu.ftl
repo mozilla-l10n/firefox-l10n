@@ -5,14 +5,18 @@
 
 ## App Menu
 
-appmenuitem-update-banner =
-    .label-update-downloading = กำลังดาวน์โหลดการอัปเดต { -brand-shorter-name }
 appmenuitem-update-banner2 =
     .label-update-downloading = กำลังดาวน์โหลดการอัปเดต { -brand-shorter-name }
     .label-update-available = มีการอัปเดต — ดาวน์โหลดเลย
     .label-update-manual = มีการอัปเดต — ดาวน์โหลดเลย
     .label-update-unsupported = ไม่สามารถอัปเดตได้
     .label-update-restart = มีการอัปเดต — เริ่มการทำงานใหม่เลย
+appmenuitem-update-banner3 =
+    .label-update-downloading = กำลังดาวน์โหลดการอัปเดต { -brand-shorter-name }
+    .label-update-available = มีการอัปเดต — ดาวน์โหลดทันที
+    .label-update-manual = มีการอัปเดต — ดาวน์โหลดทันที
+    .label-update-unsupported = ไม่สามารถอัปเดต — เข้ากันกับระบบไม่ได้
+    .label-update-restart = มีการอัปเดต — เริ่มใหม่ทันที
 appmenuitem-protection-dashboard-title = แดชบอร์ดการป้องกัน
 appmenuitem-customize-mode =
     .label = ปรับแต่ง…
@@ -25,8 +29,6 @@ appmenuitem-new-private-window =
     .label = หน้าต่างส่วนตัวใหม่
 appmenuitem-passwords =
     .label = รหัสผ่าน
-appmenuitem-extensions-and-themes =
-    .label = ส่วนขยายและชุดตกแต่ง
 appmenuitem-addons-and-themes =
     .label = ส่วนเสริมและชุดตกแต่ง
 appmenuitem-find-in-page =
@@ -160,11 +162,6 @@ appmenu-about =
 appmenu-get-help =
     .label = รับความช่วยเหลือ
     .accesskey = ช
-appmenu-help-troubleshooting-info =
-    .label = ข้อมูลการแก้ไขปัญหา
-    .accesskey = ป
-appmenu-help-taskmanager =
-    .label = ตัวจัดการงาน
 appmenu-help-more-troubleshooting-info =
     .label = ข้อมูลการแก้ไขปัญหาเพิ่มเติม
     .accesskey = ข
@@ -173,16 +170,6 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = ส่งข้อคิดเห็น…
     .accesskey = ส
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = เริ่มการทำงานใหม่พร้อมปิดใช้งานส่วนเสริม…
-    .accesskey = ร
-appmenu-help-safe-mode-with-addons =
-    .label = เริ่มการทำงานใหม่พร้อมเปิดใช้งานส่วนเสริม
-    .accesskey = ร
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
