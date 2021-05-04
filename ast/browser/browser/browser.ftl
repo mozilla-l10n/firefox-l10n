@@ -376,6 +376,10 @@ popup-mute-notifications-checkbox = Desactivar los avisos de los sitios web ment
 
 ## URL Bar
 
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = Busca con { $name } o introduz una direición
 urlbar-remote-control-notification-anchor =
     .tooltiptext = El restolador ta baxo control remotu
 urlbar-permissions-granted =
