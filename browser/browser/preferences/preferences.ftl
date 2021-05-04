@@ -1026,6 +1026,7 @@ enhanced-tracking-protection-setting-custom =
 content-blocking-etp-standard-desc = Wuwažony za šćit a wugbaśe. Boki se normalnje zacytaju.
 content-blocking-etp-strict-desc = Mócnjejšy šćit, ale móžo zawinowaś, až někotare sedła abo wopśimjeśe wěcej njefunkcioněruju.
 content-blocking-etp-custom-desc = Wubjeŕśo, kótare pśeslědowaki a skripty maju se blokěrowaś.
+content-blocking-etp-blocking-desc = { -brand-short-name } tole blokěrujo:
 content-blocking-private-windows = Slědujuce wopśimjeśe w priwatnych woknach
 content-blocking-cross-site-cookies = Cookieje někotarych sedłow
 content-blocking-cross-site-cookies-in-all-windows = Cookieje někotarych sedłow we wšych woknach (wopśimuje teke slědowańske cookieje)
@@ -1150,6 +1151,8 @@ collection-backlogged-crash-reports =
     .label = { -brand-short-name } dowóliś, njewobźěłane wowaleńske rozpšawy we wašom mjenju pósłaś
     .accesskey = r
 collection-backlogged-crash-reports-link = Dalšne informacije
+collection-backlogged-crash-reports-with-link = { -brand-short-name } dowóliś, aby se njepósłane wowaleńske rozpšawy we wašom mjenju pósłali <a data-l10n-name="crash-reports-link">Dalšne informacije</a>
+    .accesskey = d
 
 ## Privacy Section - Security
 ##
