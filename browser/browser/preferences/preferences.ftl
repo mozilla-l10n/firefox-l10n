@@ -1014,6 +1014,7 @@ enhanced-tracking-protection-setting-custom =
 content-blocking-etp-standard-desc = מאוזן בין הגנה לביצועים. דפים ייטענו כרגיל.
 content-blocking-etp-strict-desc = הגנה חזקה יותר, אך עשויה לשבש פעילות של אתרים או תוכן.
 content-blocking-etp-custom-desc = בחירה באילו רכיבי מעקב ותסריטים יש לחסום.
+content-blocking-etp-blocking-desc = ‏{ -brand-short-name } חוסם את הפריטים הבאים:
 content-blocking-private-windows = תוכן מעקב בחלונות פרטיים
 content-blocking-cross-site-cookies = עוגיות חוצות אתרים
 content-blocking-cross-site-tracking-cookies = עוגיות מעקב חוצות אתרים
@@ -1134,6 +1135,8 @@ collection-backlogged-crash-reports =
     .label = לאפשר ל־{ -brand-short-name } לשלוח דיווחי קריסות שנשמרו בשמך
     .accesskey = ק
 collection-backlogged-crash-reports-link = מידע נוסף
+collection-backlogged-crash-reports-with-link = לאפשר ל־{ -brand-short-name } לשלוח דיווחי קריסות שנשמרו בשמך <a data-l10n-name="crash-reports-link">מידע נוסף</a>
+    .accesskey = ק
 
 ## Privacy Section - Security
 ##
