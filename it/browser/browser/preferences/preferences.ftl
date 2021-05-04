@@ -1370,6 +1370,8 @@ collection-backlogged-crash-reports =
     .label = Consenti a { -brand-short-name } di inviare segnalazioni di arresto anomalo in sospeso
     .accesskey = C
 collection-backlogged-crash-reports-link = Ulteriori informazioni
+collection-backlogged-crash-reports-with-link = Consenti a { -brand-short-name } di inviare segnalazioni di arresto anomalo in sospeso <a data-l10n-name="crash-reports-link">Ulteriori informazioni</a>
+    .accesskey = C
 
 ## Privacy Section - Security
 ##
