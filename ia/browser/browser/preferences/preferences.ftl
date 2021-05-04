@@ -1018,6 +1018,7 @@ enhanced-tracking-protection-setting-custom =
 content-blocking-etp-standard-desc = Equilibrio inter protection e rendimento. Le paginas se carga normalmente.
 content-blocking-etp-strict-desc = Protection reinfortiate, ma certe sitos o contento pote non functionar correctemente.
 content-blocking-etp-custom-desc = Elige qual traciatores e scripts blocar.
+content-blocking-etp-blocking-desc = { -brand-short-name } bloca le sequente:
 content-blocking-private-windows = Contento de traciamento in fenestras private
 content-blocking-cross-site-cookies = Cookies inter sitos
 content-blocking-cross-site-cookies-in-all-windows = Cookies inter-sitos in tote le fenestras (include cookies traciator)
@@ -1142,6 +1143,8 @@ collection-backlogged-crash-reports =
     .label = Permitter a { -brand-short-name } de inviar reportos de collapso arretrate in tu nomine
     .accesskey = c
 collection-backlogged-crash-reports-link = Saper plus
+collection-backlogged-crash-reports-with-link = Permitter { -brand-short-name }  inviar per conto tue le reportos de crash suspendite <a data-l10n-name="crash-reports-link">saper plus</a>
+    .accesskey = P
 
 ## Privacy Section - Security
 ##
