@@ -1018,6 +1018,7 @@ enhanced-tracking-protection-setting-custom =
 content-blocking-etp-standard-desc = Equilibri entre proteccion e performança. Las pagina cargaràn normalament.
 content-blocking-etp-strict-desc = Proteccion renfortida, pòt copar unes sites o contenguts.
 content-blocking-etp-custom-desc = Causissètz quins traçadors e scripts cal blocar.
+content-blocking-etp-blocking-desc = { -brand-short-name } blocat los seguents :
 content-blocking-private-windows = Contengut utilizat per pistar dins las fenèstras de navegacion privada
 content-blocking-cross-site-cookies = Cookies intersites
 content-blocking-cross-site-cookies-in-all-windows = Cookies entresites dins totas las fenèstras (los cookies de seguiment tanben)
