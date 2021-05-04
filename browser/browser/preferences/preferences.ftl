@@ -1143,6 +1143,8 @@ collection-backlogged-crash-reports =
     .label = Tillåt { -brand-short-name } att skicka eftersläpande kraschrapporter för din räkning
     .accesskey = c
 collection-backlogged-crash-reports-link = Läs mer
+collection-backlogged-crash-reports-with-link = Tillåt { -brand-short-name } att skicka eftersläpande felrapporter för din räkning <a data-l10n-name="crash-reports-link">Läs mer</a>
+    .accesskey = f
 
 ## Privacy Section - Security
 ##
