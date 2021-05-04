@@ -1151,6 +1151,8 @@ collection-backlogged-crash-reports =
     .label = { -brand-short-name } dowolić, njewobdźěłane spadowe rozprawy we wašim mjenje pósłać
     .accesskey = r
 collection-backlogged-crash-reports-link = Dalše informacije
+collection-backlogged-crash-reports-with-link = { -brand-short-name } dowolić, zo bychu so zadźeržene spadowe rozprawy we wašim mjenje pósłali <a data-l10n-name="crash-reports-link">Dalše informacje</a>
+    .accesskey = d
 
 ## Privacy Section - Security
 ##
