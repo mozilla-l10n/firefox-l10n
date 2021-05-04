@@ -290,6 +290,7 @@ identity-header-security-with-host =
     .title = { $host }에 대한 연결 보안
 identity-connection-not-secure = 안전하지 않은 연결
 identity-connection-secure = 안전한 연결
+identity-connection-failure = 연결 실패
 identity-connection-internal = 안전한 { -brand-short-name } 페이지입니다.
 identity-connection-file = 이 페이지는 컴퓨터에 저장되어 있습니다.
 identity-extension-page = 이 페이지는 확장 기능으로부터 로드되었습니다.
