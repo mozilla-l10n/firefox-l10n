@@ -64,6 +64,10 @@ experimental-features-devtools-serviceworker-debugger-support-description = Εν
 experimental-features-webrtc-global-mute-toggles =
     .label = Καθολικοί διακόπτες σίγασης WebRTC
 experimental-features-webrtc-global-mute-toggles-description = Προσθήκη στοιχείων ελέγχου στον καθολικό δείκτη κοινής χρήσης WebRTC που επιτρέπει στους χρήστες να κάνουν καθολική σίγαση του μικροφώνου και της κάμεράς τους.
+# Win32k Lockdown
+experimental-features-win32k-lockdown =
+    .label = Κλείδωμα Win32k
+experimental-features-win32k-lockdown-description = Απενεργοποίηση χρήσης των Win32k API σε καρτέλες του προγράμματος περιήγησης. Παρέχει αυξημένη ασφάλεια, αλλά ενδέχεται να είναι ασταθές ή δυσλειτουργικό προς το παρόν. (μόνο για Windows)
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
