@@ -35,6 +35,7 @@ about-processes-extension-process-name = Пашырэнні (працэс { $pid
 about-processes-plugin-process-name = Плагіны (працэс { $pid })
 about-processes-privilegedmozilla-process-name = Вэб (працэс { $pid }) для сайтаў { -vendor-short-name }
 about-processes-socket-process-name = Сетка (працэс { $pid })
+about-processes-unknown-process-name = Іншае ({ $type }, працэс { $pid })
 # Process
 # Variables:
 #   $name (String) The name assigned to the process.
