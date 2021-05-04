@@ -15,6 +15,7 @@ policy-AllowedDomainsForApps = 指定允許存取 Google Workspace 的網域。
 policy-AppAutoUpdate = 開啟或關閉應用程式自動更新。
 policy-AppUpdateURL = 自訂應用程式更新網址。
 policy-Authentication = 為支援的網站設定整合身分驗證方式。
+policy-AutoLaunchProtocolsFromOrigins = 列舉一組外部通訊協定的清單，可不提示使用者直接從列出的來源使用。
 policy-BackgroundAppUpdate2 = 啟用或停用背景更新程式。
 policy-BlockAboutAddons = 防止開啟附加元件管理員（about:addons）。
 policy-BlockAboutConfig = 防止開啟 about:config 頁面。

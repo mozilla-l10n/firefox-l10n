@@ -1127,6 +1127,8 @@ collection-backlogged-crash-reports =
     .label = 允許 { -brand-short-name } 為您傳送先前紀錄下的錯誤報告
     .accesskey = c
 collection-backlogged-crash-reports-link = 更多資訊
+collection-backlogged-crash-reports-with-link = 允許 { -brand-short-name } 以您的身分自動回報錯誤報告<a data-l10n-name="crash-reports-link">了解更多資訊</a>
+    .accesskey = c
 
 ## Privacy Section - Security
 ##
