@@ -1034,6 +1034,7 @@ enhanced-tracking-protection-setting-custom =
 content-blocking-etp-standard-desc = Cydbwysedd rhwng diogelwch a pherfformiad. Bydd tudalennau'n llwytho fel arfer.
 content-blocking-etp-strict-desc = Diogelwch cryfach, ond gall achosi i rai gwefannau neu gynnwys dorri.
 content-blocking-etp-custom-desc = Dewiswch pa dracwyr a sgriptiau i'w rhwystro.
+content-blocking-etp-blocking-desc = Mae { -brand-short-name } yn blocio'r canlynol:
 content-blocking-private-windows = Tracio cynnwys mewn Ffenestri Preifat
 content-blocking-cross-site-cookies = Cwcis traws-gwefan
 content-blocking-cross-site-cookies-in-all-windows = Cwcis traws-safle ym mhob ffenestr (yn cynnwys cwcis tracio)
@@ -1158,6 +1159,8 @@ collection-backlogged-crash-reports =
     .label = Caniatáu i { -brand-short-name } i anfon adroddiadau chwalu wedi eu cadw ar eich rhan
     .accesskey = c
 collection-backlogged-crash-reports-link = Dysgu rhagor
+collection-backlogged-crash-reports-with-link = Caniatáu i { -brand-short-name } anfon adroddiadau chwalu sydd wedi'u crynhoi ar eich rhan <a data-l10n-name="crash-reports-link">Dysgu rhagor</a>
+    .accesskey = C
 
 ## Privacy Section - Security
 ##
