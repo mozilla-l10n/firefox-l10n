@@ -124,7 +124,7 @@ downloads-cancel-download =
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
 downloads-history =
-    .label = 다운로드 항목 모두 보기
+    .label = 모든 다운로드 항목 보기
     .accesskey = S
 # This string is shown at the top of the Download Details Panel, to indicate
 # that we are showing the details of a single download.
