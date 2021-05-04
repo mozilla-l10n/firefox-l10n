@@ -302,6 +302,7 @@ identity-header-security-with-host =
     .title = Seguretat de la connexion per { $host }
 identity-connection-not-secure = La connexion pas segura
 identity-connection-secure = Connexion segura
+identity-connection-failure = Fracàs de connexion
 identity-connection-internal = Aquò es una pagina segura de { -brand-short-name }.
 identity-connection-file = Aquela pagina es enregistrada dins vòstre ordinador.
 identity-extension-page = Aquela pagina es estada cargada d’una extension.
