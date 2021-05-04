@@ -302,6 +302,7 @@ identity-header-security-with-host =
     .title = { $host } 的連線安全性
 identity-connection-not-secure = 不安全連線
 identity-connection-secure = 安全連線
+identity-connection-failure = 連線失敗
 identity-connection-internal = 這是安全的 { -brand-short-name } 頁面。
 identity-connection-file = 此頁面位於您的電腦上。
 identity-extension-page = 此頁面是擴充套件頁面。
