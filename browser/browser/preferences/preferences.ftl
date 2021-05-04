@@ -1018,6 +1018,7 @@ enhanced-tracking-protection-setting-custom =
 content-blocking-etp-standard-desc = Kiegyensúlyozott védelem és teljesítmény. Az oldalak normálisan fognak betölteni.
 content-blocking-etp-strict-desc = Erősebb védelem, de egyes webhelyek és tartalmak hibásan működhetnek.
 content-blocking-etp-custom-desc = Válassza ki a blokkolni kívánt nyomkövetőket és parancsfájlokat.
+content-blocking-etp-blocking-desc = A { -brand-short-name } blokkolja a következőket:
 content-blocking-private-windows = Követés elleni védelem a privát ablakokban
 content-blocking-cross-site-cookies = Webhelyek közötti sütik
 content-blocking-cross-site-cookies-in-all-windows = Webhelyek közötti sütik az összes ablakban (nyomkövető sütiket is beleértve)
@@ -1142,6 +1143,8 @@ collection-backlogged-crash-reports =
     .label = A { -brand-short-name } a háttérben küldhet összeomlási jelentéseket az Ön nevében
     .accesskey = j
 collection-backlogged-crash-reports-link = További tudnivalók
+collection-backlogged-crash-reports-with-link = Engedélyezés, hogy a { -brand-short-name } elküldje az elmaradt összeomlás-jelentéseket az Ön nevében <a data-l10n-name="crash-reports-link">További tudnivalók</a>
+    .accesskey = o
 
 ## Privacy Section - Security
 ##
