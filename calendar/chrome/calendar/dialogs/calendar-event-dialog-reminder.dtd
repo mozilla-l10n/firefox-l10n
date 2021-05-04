@@ -11,10 +11,9 @@
 <!ENTITY reminder.reminderDetails.label                    "提醒內容">
 <!ENTITY reminder.action.label                             "選擇提醒動作">
 
-<!ENTITY reminder.action.alert.label                       "通知我">
+<!ENTITY reminder.action.alert.label                       "顯示通知">
 <!ENTITY reminder.action.email.label                       "寄送電子郵件">
 
 <!ENTITY alarm.units.minutes                               "分" >
 <!ENTITY alarm.units.hours                                 "時" >
 <!ENTITY alarm.units.days                                  "天" >
-
