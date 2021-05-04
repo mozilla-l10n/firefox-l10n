@@ -1022,6 +1022,7 @@ enhanced-tracking-protection-setting-custom =
 content-blocking-etp-standard-desc = Збалансований захист і швидкодія. Сторінки завантажуватимуться нормально.
 content-blocking-etp-strict-desc = Надійніший захист, але може пошкоджувати деякі сайти чи їх вміст.
 content-blocking-etp-custom-desc = Оберіть тип стеження і скриптів для блокування.
+content-blocking-etp-blocking-desc = { -brand-short-name } блокує таке:
 content-blocking-private-windows = Стеження в приватних вікнах
 content-blocking-cross-site-cookies = Куки сторонніх сайтів
 content-blocking-cross-site-cookies-in-all-windows = Куки стеження між сайтами в усіх вікнах (включно з куками стеження)
@@ -1146,6 +1147,8 @@ collection-backlogged-crash-reports =
     .label = Дозволити { -brand-short-name } надсилати від вашого імені зібрані звіти про збої
     .accesskey = н
 collection-backlogged-crash-reports-link = Докладніше
+collection-backlogged-crash-reports-with-link = Дозволити { -brand-short-name } надсилати звіти про збої від вашого імені <a data-l10n-name="crash-reports-link">Докладніше</a>
+    .accesskey = c
 
 ## Privacy Section - Security
 ##
