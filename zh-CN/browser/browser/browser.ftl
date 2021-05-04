@@ -290,6 +290,7 @@ identity-header-security-with-host =
     .title = 连接安全性：{ $host }
 identity-connection-not-secure = 不安全连接
 identity-connection-secure = 安全连接
+identity-connection-failure = 连接失败
 identity-connection-internal = 这是安全的 { -brand-short-name } 页面。
 identity-connection-file = 此页面存储在您的计算机上。
 identity-extension-page = 此页面是扩展页面。
