@@ -15,6 +15,7 @@ policy-AllowedDomainsForApps = Definěrujśo domeny, kótarež směju pśistup k
 policy-AppAutoUpdate = Awtomatiske aktualizacije nałoženjow zmóžniś abo znjemóžniś.
 policy-AppUpdateURL = Swójski aktualizěrowański URL za nałoženje nastajiś.
 policy-Authentication = Integrěrowanu awtentifikaciju za websedła konfigurěrowaś, kótarež ju pódpěraju.
+policy-AutoLaunchProtocolsFromOrigins = Definěrujśo lisćinu protokolow, kótarež daju se z naliconych žrědłow wužywaś, bźez togo aby se dejało wužywarja pšašaś.
 policy-BackgroundAppUpdate2 = Slězynowe aktualizěrowanje zmóžniś abo znjemóžniś.
 policy-BlockAboutAddons = Pśistup k zastojnikoju dodankow (about:addons) blokěrowaś.
 policy-BlockAboutConfig = Pśistup k bokoju about:config blokěrowaś.
