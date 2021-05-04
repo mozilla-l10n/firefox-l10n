@@ -13,4 +13,5 @@ default-browser-notification-button =
 ## secondary button are shared between the variants.
 
 default-browser-prompt-button-primary-alt = ตั้งเป็นเบราว์เซอร์เริ่มต้น
+default-browser-prompt-checkbox-not-again-label = อย่าแสดงข้อความนี้อีก
 default-browser-prompt-button-secondary = ไม่ใช่ตอนนี้
