@@ -1148,10 +1148,10 @@ addon-recommendations-link = Dalše informacije
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Datowe rozprawjenje je znjemóžnjene za tutu programowu konfiguraciju
 collection-backlogged-crash-reports =
-    .label = { -brand-short-name } dowolić, njewobdźěłane spadowe rozprawy we wašim mjenje pósłać
+    .label = { -brand-short-name } dowolić, njepósłane spadowe rozprawy we wašim mjenje pósłać
     .accesskey = r
 collection-backlogged-crash-reports-link = Dalše informacije
-collection-backlogged-crash-reports-with-link = { -brand-short-name } dowolić, zo bychu so zadźeržene spadowe rozprawy we wašim mjenje pósłali <a data-l10n-name="crash-reports-link">Dalše informacje</a>
+collection-backlogged-crash-reports-with-link = { -brand-short-name } dowolić, zo bychu so njepósłane spadowe rozprawy we wašim mjenje pósłali <a data-l10n-name="crash-reports-link">Dalše informacije</a>
     .accesskey = d
 
 ## Privacy Section - Security
