@@ -1022,6 +1022,7 @@ enhanced-tracking-protection-setting-custom =
 content-blocking-etp-standard-desc = Równowaga między bezpieczeństwem a szybkością wczytywania stron. Strony będą działać bez problemów.
 content-blocking-etp-strict-desc = Silniejsza ochrona, ale może powodować niepoprawne działanie niektórych stron.
 content-blocking-etp-custom-desc = Wybierz, które elementy śledzące i skrypty blokować:
+content-blocking-etp-blocking-desc = { -brand-short-name } blokuje:
 content-blocking-private-windows = treści z elementami śledzącymi w oknach prywatnych
 content-blocking-cross-site-cookies = ciasteczka między witrynami
 content-blocking-cross-site-cookies-in-all-windows = ciasteczka między witrynami we wszystkich oknach (w tym śledzące)
@@ -1146,6 +1147,8 @@ collection-backlogged-crash-reports =
     .label = Przesyłanie zgromadzonych zgłoszeń awarii przeglądarki { -brand-short-name }.
     .accesskey = o
 collection-backlogged-crash-reports-link = Więcej informacji
+collection-backlogged-crash-reports-with-link = Przesyłanie zgromadzonych zgłoszeń awarii przeglądarki { -brand-short-name }. <a data-l10n-name="crash-reports-link">Więcej informacji</a>
+    .accesskey = o
 
 ## Privacy Section - Security
 ##
