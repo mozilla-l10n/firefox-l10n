@@ -14,6 +14,9 @@ newtab-personalize-button-label = Personalizar
 
 ## Search box component.
 
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-text = Busca con { $engine } o introduz una direición
 newtab-search-box-text = Buscar na web
 
 ## Top Sites - General form dialog.
