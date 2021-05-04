@@ -1026,6 +1026,7 @@ enhanced-tracking-protection-setting-custom =
 content-blocking-etp-standard-desc = Wuwaženy za škit a wukon. Strony so normalnje začitaja.
 content-blocking-etp-strict-desc = Mócniši škit, ale móže zawinować, zo někotre sydła abo wobsah hižo njefunguja.
 content-blocking-etp-custom-desc = Wubjerće, kotre přesćěhowaki a skripty maja so blokować.
+content-blocking-etp-blocking-desc = { -brand-short-name } tole blokuje:
 content-blocking-private-windows = Slědowacy škit w priwatnych woknach
 content-blocking-cross-site-cookies = Placki wjacorych sydłow
 content-blocking-cross-site-cookies-in-all-windows = Placki wjacorych sydłow we wšěch woknach (wobasahuje tež slědowanske placki)

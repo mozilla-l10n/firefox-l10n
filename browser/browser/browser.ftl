@@ -308,6 +308,7 @@ identity-header-security-with-host =
     .title = Zwiskowa wěstota za { $host }
 identity-connection-not-secure = Zwisk njewěsty
 identity-connection-secure = Zwisk wěsty
+identity-connection-failure = Zwiskowy zmylk
 identity-connection-internal = To je wěsta strona { -brand-short-name }.
 identity-connection-file = Tuta strona je so na wašim ličaku składowała.
 identity-extension-page = Tuta strona je so z rozšěrjenja začitała.
