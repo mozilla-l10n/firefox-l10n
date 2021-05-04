@@ -66,8 +66,8 @@ experimental-features-webrtc-global-mute-toggles =
 experimental-features-webrtc-global-mute-toggles-description = Lägg till kontroller i WebRTC:s globala delningsindikator som tillåter användare att stänga av mikrofonen och kameraflödena globalt.
 # Win32k Lockdown
 experimental-features-win32k-lockdown =
-    .label = Win32k-inaktivering
-experimental-features-win32k-lockdown-description = Inaktivera användning av Win32k API:er i webbläsarflikarna. Ger en ökad säkerhet men kan för närvarande vara instabil. (Endast Windows)
+    .label = Win32k-låsning
+experimental-features-win32k-lockdown-description = Inaktivera användning av Win32k API:er i webbläsarflikar. Ger en ökad säkerhet men kan för närvarande vara instabil. (Endast Windows)
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
