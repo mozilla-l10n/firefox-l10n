@@ -15,6 +15,7 @@ policy-AllowedDomainsForApps = Definujće domeny, kotrež smědźa přistup k Go
 policy-AppAutoUpdate = Awtomatiske aktualizacije nałoženjow zmóžnić abo znjemóžnić.
 policy-AppUpdateURL = Swójski aktualizowanski URL za nałoženje nastajić.
 policy-Authentication = Integrowanu awtentifikaciju za websydła konfigurować, kotrež ju podpěruja.
+policy-AutoLaunchProtocolsFromOrigins = Definujće lisćinu protokolow, kotrež dadźa so z nalistowanych žórłow wužiwać, bjeztoho zo by so dyrbjało wužiwarja prašeć.
 policy-BackgroundAppUpdate2 = Pozadkowe aktualizowanje zmóžnić abo znjemóžnić.
 policy-BlockAboutAddons = Přistup na zrjadowak přidatkow (about:addons) blokować.
 policy-BlockAboutConfig = Přistup na stronu about:config blokować.
