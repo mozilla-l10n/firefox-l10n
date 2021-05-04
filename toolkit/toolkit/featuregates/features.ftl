@@ -25,25 +25,6 @@ experimental-features-web-api-inputmode =
 experimental-features-web-api-inputmode-description = Onze implementatie van het globale attribuut <a data-l10n-name="mdn-inputmode">inputmode</a> is bijgewerkt volgens <a data-l10n-name="whatwg">de WHATWG-specificatie</a>, maar we moeten ook nog andere wijzigingen aanbrengen, zoals het beschikbaar maken van bewerkbare inhoud. Zie <a data-l10n-name="bugzilla">bug 1205133</a> voor meer details.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
-experimental-features-web-api-link-preload =
-    .label = Web API: <link rel="preload">
-# Do not translate "rel", "preload" or "link" here, as they are all HTML spec
-# values that do not get translated.
-experimental-features-web-api-link-preload-description = Het attribuut <a data-l10n-name="rel">rel</a> met waarde <code>"preload"</code> op een <a data-l10n-name="link">&lt;link&gt;</a>-element is bedoeld om te helpen prestatieverbeteringen te realiseren door uw bronnen eerder in de levenscyclus van de pagina te laten downloaden, zodat ze eerder beschikbaar zijn en de weergave van pagina’s minder snel wordt geblokkeerd. Lees <a data-l10n-name="readmore">‘Preloading content met <code>rel="preload"</code>’</a> of zie <a data-l10n-name="bugzilla">bug 1583604</a> voor meer details.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-css-focus-visible =
-    .label = CSS: Pseudo-class: :focus-visible
-experimental-features-css-focus-visible-description = Maakt het mogelijk om focusstijlen toe te passen op elementen zoals knoppen en formulierbesturingen, alleen wanneer ze de focus hebben gekregen met behulp van het toetsenbord (bijvoorbeeld bij het gebruik van tab tussen elementen), en niet wanneer ze zijn scherpgesteld met een muis of ander aanwijsapparaat. Zie <a data-l10n-name="bugzilla">bug 1617600</a> voor meer details.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-web-api-beforeinput =
-    .label = Web API: beforeinput Event
-# The terms "beforeinput", "input", "textarea", and "contenteditable" are technical terms
-# and shouldn't be translated.
-experimental-features-web-api-beforeinput-description = De globale <a data-l10n-name="mdn-beforeinput">beforeinput</a>-gebeurtenis wordt geactiveerd op <a data-l10n-name="mdn-input">&lt;input&gt;</a>- en <a data-l10n-name="mdn-textarea">&lt;textarea&gt;</a>-elementen, of elk element waarvan het <a data-l10n-name="mdn-contenteditable">contenteditable</a>-kenmerk is ingeschakeld, onmiddellijk voordat de waarde van het element verandert. Met deze gebeurtenis kunnen webapps het standaardgedrag van de browser overschrijven voor gebruikersinteractie, webapps kunnen bijvoorbeeld gebruikersinvoer alleen voor specifieke tekens annuleren of kunnen het plakken van opgemaakte tekst alleen wijzigen met goedgekeurde stijlen.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
 experimental-features-css-constructable-stylesheets-description = De toevoeging van een constructor aan de <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a>-interface en een aantal gerelateerde wijzigingen, maakt het mogelijk om direct nieuwe stylesheets te maken zonder het blad toe te voegen aan de HTML. Dit maakt het veel gemakkelijker om herbruikbare stylesheets te maken voor gebruik met <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. Zie <a data-l10n-name="bugzilla">bug 1520690</a> voor meer details.
@@ -69,9 +50,6 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Voor c
 experimental-features-abouthome-startup-cache =
     .label = Opstartbuffer about:home
 experimental-features-abouthome-startup-cache-description = Een opstartbuffer voor het initiële about:home-document wordt bij opstarten standaard geladen. Het doel van deze buffer is het verbeteren van de opstartprestaties.
-experimental-features-print-preview-tab-modal =
-    .label = Herontwerp van afdrukvoorbeeld
-experimental-features-print-preview-tab-modal-description = Introduceert het opnieuw ontworpen afdrukvoorbeeld en maakt afdrukvoorbeeld beschikbaar op macOS. Dit kan leiden tot falen en omvat niet alle afdrukgerelateerde instellingen. Selecteer om toegang te krijgen tot alle afdrukgerelateerde instellingen ‘Afdrukken via het systeemdialoogvenster…’ in het paneel Afdrukken.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
@@ -86,6 +64,10 @@ experimental-features-devtools-serviceworker-debugger-support-description = Scha
 experimental-features-webrtc-global-mute-toggles =
     .label = WebRTC Global Mute-schakelaars
 experimental-features-webrtc-global-mute-toggles-description = Voegt bedieningselementen toe aan de algemene deelindicator van WebRTC, waarmee gebruikers hun microfoon- en camerafeeds algemeen kunnen dempen.
+# Win32k Lockdown
+experimental-features-win32k-lockdown =
+    .label = Win32k-vergrendeling
+experimental-features-win32k-lockdown-description = Het gebruik van Win32k-API’s in browsertabbladen uitschakelen. Biedt een betere beveiliging, maar kan op dit moment instabiel of gevoelig voor fouten zijn. (Alleen Windows)
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
