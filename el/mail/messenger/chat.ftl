@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+chat-joining-chat-icon =
+    .alt = "Συμμετοχή σε συνομιλία"
 chat-left-chat-icon =
     .alt = "Αποχώρησε από τη συνομιλία"
 chat-participant-owner-role-icon =
