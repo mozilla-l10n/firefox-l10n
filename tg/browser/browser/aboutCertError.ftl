@@ -38,8 +38,13 @@ cert-error-domain-mismatch-multiple = Сомонаҳо айнияти худро
 # $not-after-local-time (Date) - Certificate is not valid after this time.
 cert-error-expired-now = Сомонаҳо айнияти худро ба воситаи гувоҳиномаҳое тасдиқ мекунанд, ки дорои муҳлати маҳдуд мебошанд. Муҳлати гувоҳинома барои { $hostname } санаи { $not-after-local-time } ба анҷом мерасад.
 # Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-before-local-time (Date) - Certificate is not valid before this time.
+cert-error-not-yet-valid-now = Сомонаҳо айнияти худро ба воситаи гувоҳиномаҳое тасдиқ мекунанд, ки дорои муҳлати маҳдуд мебошанд. Муҳлати гувоҳинома барои { $hostname } на барвақтар аз санаи { $not-before-local-time } оғоз мешавад.
+# Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Рамзи хато: <a data-l10n-name="error-code-link">{ $error }</a>
+cert-error-symantec-distrust-admin = Шумо метавонед дар бораи ин мушкилӣ ба маъмури сомона хабар диҳед.
 cert-error-details-cert-chain-label = Занҷири гувоҳинома:
 open-in-new-window-for-csp-or-xfo-error = Кушодани сомона дар равзанаи нав
 
