@@ -15,6 +15,7 @@ policy-AllowedDomainsForApps = Określenie domen, które mają dostęp do Google
 policy-AppAutoUpdate = Włączenie lub wyłączenie automatycznego aktualizowania aplikacji.
 policy-AppUpdateURL = Ustawienie niestandardowego adresu URL aktualizacji programu.
 policy-Authentication = Konfiguracja zintegrowanego uwierzytelniania dla witryn, które je obsługują.
+policy-AutoLaunchProtocolsFromOrigins = Określenie listy zewnętrznych protokołów, które mogą być używane z wymienionych źródeł bez pytania użytkownika.
 policy-BackgroundAppUpdate2 = Włączenie lub wyłączenie aktualizatora w tle.
 policy-BlockAboutAddons = Blokowanie dostępu do menedżera dodatków (about:addons).
 policy-BlockAboutConfig = Blokowanie dostępu do strony about:config.
