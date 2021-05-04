@@ -305,6 +305,7 @@ identity-header-security-with-host =
     .title = Bezpieczeństwo połączenia z „{ $host }”
 identity-connection-not-secure = Niezabezpieczone połączenie
 identity-connection-secure = Zabezpieczone połączenie
+identity-connection-failure = Błąd połączenia
 identity-connection-internal = To jest strona programu { -brand-short-name }.
 identity-connection-file = Strona wczytana z tego komputera.
 identity-extension-page = Ta strona została wczytana przez rozszerzenie.
