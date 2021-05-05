@@ -1142,6 +1142,8 @@ collection-backlogged-crash-reports =
     .label = Autoriser { -brand-short-name } à envoyer pour vous les rapports de plantage en attente
     .accesskey = t
 collection-backlogged-crash-reports-link = En savoir plus
+collection-backlogged-crash-reports-with-link = Autoriser { -brand-short-name } à envoyer des rapports de plantage en attente en votre nom <a data-l10n-name="crash-reports-link">En savoir plus</a>
+    .accesskey = v
 
 ## Privacy Section - Security
 ##
