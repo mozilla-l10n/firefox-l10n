@@ -307,6 +307,7 @@ identity-header-security-with-host =
     .title = Защита соединения с { $host }
 identity-connection-not-secure = Незащищённое соединение
 identity-connection-secure = Защищённое соединение
+identity-connection-failure = Ошибка соединения
 identity-connection-internal = Это встроенная страница { -brand-short-name }.
 identity-connection-file = Эта страница хранится на вашем компьютере.
 identity-extension-page = Эта страница загружена из расширения.

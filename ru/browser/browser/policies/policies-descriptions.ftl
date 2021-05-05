@@ -15,6 +15,7 @@ policy-AllowedDomainsForApps = Определяет домены, которым
 policy-AppAutoUpdate = Включает или отключает автообновление приложения.
 policy-AppUpdateURL = Устанавливает собственный URL обновления приложения.
 policy-Authentication = Настраивает интегрированную авторизацию для поддерживающих это веб-сайтов.
+policy-AutoLaunchProtocolsFromOrigins = Определяет список внешних протоколов, которые могут быть вызваны из указанных источников без запроса пользователя.
 policy-BackgroundAppUpdate2 = Включает или отключает фоновое обновление.
 policy-BlockAboutAddons = Блокирует доступ к менеджеру дополнений (about:addons).
 policy-BlockAboutConfig = Блокирует доступ к странице about:config.
