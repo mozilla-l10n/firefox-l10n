@@ -200,7 +200,6 @@ onboarding-welcome-steps-indicator =
 # automatically added to the text inside it. "look" should stay inside the span.
 onboarding-multistage-theme-header = აირჩიეთ <span data-l10n-name="zap">იერსახე</span>
 onboarding-multistage-theme-subtitle = მოირგეთ { -brand-short-name } თემებით.
-onboarding-multistage-theme-primary-button-label = თემის შენახვა
 onboarding-multistage-theme-primary-button-label2 = მზადაა
 onboarding-multistage-theme-secondary-button-label = ახლა არა
 # Automatic theme uses operating system color settings
@@ -255,3 +254,28 @@ onboarding-multistage-theme-description-alpenglow =
     .aria-description =
         ფერადი გაფორმების გამოყენება ღილაკებზე,
         მენიუებსა და ფანჯრებზე.
+
+## Multistage MR1 onboarding strings (MR1 about:welcome pages)
+
+mr1-onboarding-welcome-header = მოგესალმებათ { -brand-short-name }
+mr1-onboarding-set-default-pin-primary-button-label = აქციეთ { -brand-short-name } ძირითად ბრაუზერად
+    .title = { -brand-short-name } გახდება ნაგულისხმევი ბრაუზერი და მიმაგრდება ამოცანათა ზოლზე
+mr1-onboarding-set-default-only-primary-button-label = გახდეს { -brand-short-name } ჩემი ძირითადი ბრაუზერი
+mr1-onboarding-set-default-secondary-button-label = ახლა არა
+mr1-onboarding-sign-in-button-label = შესვლა
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
+# Tooltip displayed on hover of system theme
+mr1-onboarding-theme-tooltip-system =
+    .title =
+        შეუხამებს სისტემის გაფორმებას
+        ღილაკებს, მენიუსა და ფანჯრებს.
+# Input description for system theme
+mr1-onboarding-theme-description-system =
+    .aria-description =
+        შეუხამებს სისტემის გაფორმებას
+        ღილაკებს, მენიუსა და ფანჯრებს.
