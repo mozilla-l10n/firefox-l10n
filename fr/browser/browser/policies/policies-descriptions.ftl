@@ -15,6 +15,7 @@ policy-AllowedDomainsForApps = Définir les domaines autorisés à accéder à G
 policy-AppAutoUpdate = Activer ou désactiver les mises à jour automatiques des applications.
 policy-AppUpdateURL = Définir une URL de mise à jour personnalisée pour l’application.
 policy-Authentication = Configurer l’authentification intégrée pour les sites web qui la proposent.
+policy-AutoLaunchProtocolsFromOrigins = Définir une liste de protocoles externes qui peuvent être utilisés à partir d’origines répertoriées sans demander à l’utilisateur.
 policy-BackgroundAppUpdate2 = Activer ou désactiver la mise à jour en arrière-plan.
 policy-BlockAboutAddons = Bloquer l’accès au gestionnaire de modules (about:addons).
 policy-BlockAboutConfig = Bloquer l’accès à la page about:config.
