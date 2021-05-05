@@ -50,6 +50,11 @@ inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Prove a z
 inactive-css-not-display-block-on-floated-fix = Prove a gjavâ <strong>float</strong> o a zontâ <strong>display:block</strong>. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = Prove a configurâ la sô proprietât <strong>position</strong> a alc altri rispiet a <strong>static</strong>. { learn-more }
 inactive-text-overflow-when-no-overflow-fix = Prove a zontâ <strong>overflow:hidden</strong>. { learn-more }
+inactive-css-not-for-internal-table-elements-fix = Prove a configurâ la sô proprietât <strong>display</strong> a alc altri rispiet a <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> o <strong>table-footer-group</strong>. { learn-more }
+inactive-css-not-for-internal-table-elements-except-table-cells-fix = Prove a configurâ la sô proprietât <strong>display</strong> a alc altri rispiet a <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> o <strong>table-footer-group</strong>. { learn-more }
+inactive-outline-radius-when-outline-style-auto-or-none-fix = Prove a configurâ la sô proprietât <strong>outline-style</strong> a alc altri rispiet a <strong>auto</strong> o <strong>none</strong>. { learn-more }
+inactive-css-not-table-fix = Prove a zontâ <strong>display:table</strong> o <strong>display:inline-table</strong>. { learn-more }
+inactive-scroll-padding-when-not-scroll-container-fix = Prove a zontâ <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> o <strong>overflow:hidden</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
@@ -58,3 +63,11 @@ inactive-text-overflow-when-no-overflow-fix = Prove a zontâ <strong>overflow:hi
 ##   $property (string) - A CSS declaration name e.g. "-moz-user-select" that can be a platform specific alias.
 ##   $rootProperty (string) - A raw CSS property name e.g. "user-select" that is not a platform specific alias.
 
+css-compatibility-default-message = <strong>{ $property }</strong> nol è supuartât in chescj navigadôrs:
+css-compatibility-deprecated-experimental-message = <strong>{ $property }</strong> e jere une proprietât sperimentâl che cumò e je deplorade dai standards W3C. No je supuartade in chescj navigadôrs:
+css-compatibility-deprecated-experimental-supported-message = <strong>{ $property }</strong> e jere une proprietât sperimentâl che cumò e je deplorade dai standards W3C.
+css-compatibility-deprecated-message = <strong>{ $property }</strong> al è deplorât dai standards W3C. Nol è supuartât in chescj navigadôrs:
+css-compatibility-deprecated-supported-message = <strong>{ $property }</strong> al è deplorât dai standards W3C.
+css-compatibility-experimental-message = <strong>{ $property }</strong> e je une proprietât sperimentâl. No je supuartade in chescj navigadôrs:
+css-compatibility-experimental-supported-message = <strong>{ $property }</strong> e je une proprietât sperimentâl.
+css-compatibility-learn-more-message = <span data-l10n-name="link">Plui informazions</span> su <strong>{ $rootProperty }</strong>
