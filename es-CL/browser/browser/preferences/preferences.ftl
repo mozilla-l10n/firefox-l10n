@@ -1143,6 +1143,8 @@ collection-backlogged-crash-reports =
     .label = Permitir a { -brand-short-name } enviar reportes de fallos acumulados a tu nombre
     .accesskey = c
 collection-backlogged-crash-reports-link = Aprender más
+collection-backlogged-crash-reports-with-link = Permitir a { -brand-short-name } enviar reportes de fallos acumulados en tu nombre. <a data-l10n-name="crash-reports-link">Aprender más</a>
+    .accesskey = c
 
 ## Privacy Section - Security
 ##
