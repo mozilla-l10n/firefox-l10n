@@ -264,8 +264,6 @@ cfr-whatsnew-better-pdf-body = Τα έγγραφα PDF πλέον ανοίγου
 
 cfr-doorhanger-doh-body = Το απόρρητό σας έχει σημασία. Το { -brand-short-name } δρομολογεί πλέον με ασφάλεια τα αιτήματα DNS σας, όποτε είναι δυνατόν, σε μια συνεργαζόμενη υπηρεσία για να σας προστατεύσει κατά την περιήγησή σας.
 cfr-doorhanger-doh-header = Πιο ασφαλείς, κρυπτογραφημένες αναζητήσεις DNS
-cfr-doorhanger-doh-primary-button = Το κατάλαβα
-    .accesskey = Τ
 cfr-doorhanger-doh-primary-button-2 = Εντάξει
     .accesskey = Ε
 cfr-doorhanger-doh-secondary-button = Απενεργοποίηση
@@ -300,7 +298,7 @@ cfr-whatsnew-search-shortcuts-body = Πλέον, όταν πληκτρολογε
 ## What's new: Cookies protection
 
 cfr-whatsnew-supercookies-header = Προστασία από κακόβουλα supercookies
-cfr-whatsnew-supercookies-body = Οι ιστοσελίδες μπορούν να επισυνάψουν κρυφά ένα “supercookie” στο πρόγραμμα περιήγησής σας, προκειμένου να σάς παρακολουθούν στο διαδίκτυο, ακόμη και μετά την εκκαθάριση των cookies. Το { -brand-short-name } παρέχει ισχυρή προστασία έναντι των supercookies, ώστε να μην μπορούν να χρησιμοποιηθούν για την παρακολούθηση των διαδικτυακών σας δραστηριοτήτων από τη μια ιστοσελίδα στην άλλη.
+cfr-whatsnew-supercookies-body = Οι ιστοσελίδες μπορούν να επισυνάψουν κρυφά ένα “supercookie” στο πρόγραμμα περιήγησής σας, προκειμένου να σας παρακολουθούν στο διαδίκτυο, ακόμη και μετά την εκκαθάριση των cookies. Το { -brand-short-name } παρέχει ισχυρή προστασία έναντι των supercookies, ώστε να μην μπορούν να χρησιμοποιηθούν για την παρακολούθηση των διαδικτυακών σας δραστηριοτήτων από τη μια ιστοσελίδα στην άλλη.
 
 ## What's new: Better bookmarking
 
