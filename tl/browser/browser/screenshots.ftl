@@ -3,6 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 screenshots-context-menu = Kumuha ng Screenshot
+screenshot-toolbarbutton =
+    .label = Screenshot
+    .tooltiptext = Kumuha ng screenshot
 screenshots-my-shots-button = Mga Shot Ko
 screenshots-instructions = Mag-drag o mag-click sa pahina upang pumili ng rehiyon. Pindutin ang ESC upang kanselahin.
 screenshots-cancel-button = Kanselahin
