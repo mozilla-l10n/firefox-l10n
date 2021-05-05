@@ -88,6 +88,12 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
+## Firefox Account Button
+
+toolbar-button-fxaccount =
+    .label = { -fxaccount-brand-name }
+    .tooltiptext = { -fxaccount-brand-name }
+
 ## Save Page
 
 main-context-menu-page-save =
@@ -308,12 +314,12 @@ main-context-menu-image-email =
 main-context-menu-image-set-as-background =
     .label = სამუშაო ეკრანის ფონად გამოყენება…
     .accesskey = ო
-main-context-menu-image-info =
-    .label = სურათის მონაცემები
-    .accesskey = მ
 main-context-menu-image-set-image-as-background =
     .label = სამუშაო ეკრანის ფონად გამოყენება…
     .accesskey = ე
+main-context-menu-image-info =
+    .label = სურათის მონაცემები
+    .accesskey = მ
 main-context-menu-image-desc =
     .label = აღწერილობის ნახვა
     .accesskey = ა

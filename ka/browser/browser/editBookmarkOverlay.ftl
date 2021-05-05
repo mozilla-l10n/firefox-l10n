@@ -49,4 +49,4 @@ bookmark-overlay-keyword-2 =
     .value = საკვანძო სიტყვა
     .accesskey = კ
 bookmark-overlay-tags-caption-label = გამოიყენეთ ჭდეები, სანიშნების დასალაგებლად და მისამართების ველიდან მოსანახად
-bookmark-overlay-keyword-caption-label = გამოიყენეთ საკვანძო სიტყვები სანიშნების პირდაპირ მისამართების ველიდან გასახსნელად
+bookmark-overlay-keyword-caption-label-2 = გამოიყენეთ საკვანძო სიტყვა, სანიშნების პირდაპირ მისამართების ველიდან გასახსნელად.
