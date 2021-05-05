@@ -302,6 +302,7 @@ identity-header-security-with-host =
     .title = { $host } bağlantı güvenliği
 identity-connection-not-secure = Bağlantı güvenli değil
 identity-connection-secure = Bağlantı güvenli
+identity-connection-failure = Bağlantı hatası
 identity-connection-internal = Burası güvenli bir { -brand-short-name } sayfasıdır.
 identity-connection-file = Bu sayfa bilgisayarınızda depolanıyor.
 identity-extension-page = Bu sayfa bir uzantı üzerinden yüklendi.
