@@ -1143,6 +1143,8 @@ collection-backlogged-crash-reports =
     .label = ნებართვა, რომ { -brand-short-name } შეძლებს, გადააგზავნოს უეცარი გათიშვების დაგროვილი შეტყობინებები თქვენი სახელით
     .accesskey = დ
 collection-backlogged-crash-reports-link = ვრცლად
+collection-backlogged-crash-reports-with-link = ნებართვა, რომ { -brand-short-name } შეძლებს გაგზავნოს უეცარი გათიშვების დაგროვილი მოხსენებები, თქვენს ნაცვლად <a data-l10n-name="crash-reports-link">ვრცლად</a>
+    .accesskey = უ
 
 ## Privacy Section - Security
 ##
