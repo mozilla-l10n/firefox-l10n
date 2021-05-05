@@ -79,7 +79,7 @@ login-intro-instruction-fxa-settings = Mak shair ye've selectit the Logins check
 about-logins-intro-instruction-help = Gang tae <a data-l10n-name="help-link">{ -lockwise-brand-short-name } Support</a> fur mair help
 login-intro-instructions-fxa = Mak or sign in tae yer { -fxaccount-brand-name(capitalization: "sentence") } on the device whaur yer logins are saved.
 login-intro-instructions-fxa-settings = Gang tae Settins > Sync > Turn on syncin... Select the Logins and passwirds checkbox.
-login-intro-instructions-fxa-help = Gang tae { -lockwise-brand-short-name }{ -lockwise-brand-short-name } Support</a> fur mair help.
+login-intro-instructions-fxa-help = Gang tae <a data-l10n-name="help-link">{ -lockwise-brand-short-name }{ -lockwise-brand-short-name } Support</a> fur mair help.
 about-logins-intro-import = Gin yer logins are saved in anither wab-stravaiger, ye can <a data-l10n-name="import-link">inbring them intae { -lockwise-brand-short-name }</a>
 about-logins-intro-import2 = Gin yer logins are saved ootside o { -brand-product-name }, ye can <a data-l10n-name="import-browser-link">inbring them fae anither wab-stravaiger</a> or <a data-l10n-name="import-file-link">fae a file</a>
 

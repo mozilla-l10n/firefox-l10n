@@ -56,8 +56,8 @@ cfr-doorhanger-extension-rating =
 #   $total (Number) - The total number of users using the add-on
 cfr-doorhanger-extension-total-users =
     { $total ->
-        [one] yaiser
-       *[other] yaisers
+        [one] { $total } yaiser
+       *[other] { $total } yaisers
     }
 cfr-doorhanger-pintab-description = Gang straicht tae yer maist-yaised sites. Keep sites open in a tab (even when ye restert).
 
