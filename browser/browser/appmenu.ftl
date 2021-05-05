@@ -5,14 +5,18 @@
 
 ## App Menu
 
-appmenuitem-update-banner =
-    .label-update-downloading = { -brand-shorter-name } განახლების ჩამოტვირთვა
 appmenuitem-update-banner2 =
     .label-update-downloading = ჩამოიტვირთება ახალი { -brand-shorter-name }
     .label-update-available = განახლება ხელმისაწვდომია — ახლავე ჩამოტვირთვა
     .label-update-manual = განახლება ხელმისაწვდომია — ახლავე ჩამოტვირთვა
     .label-update-unsupported = განახლება ვერ ხერხდება
     .label-update-restart = განახლება ხელმისაწვდომია — ახლავე გადატვირთვა
+appmenuitem-update-banner3 =
+    .label-update-downloading = იტვირთება { -brand-shorter-name } განახლება
+    .label-update-available = განახლება ხელმისაწვდომია — ჩამოტვირთვა ახლავე
+    .label-update-manual = განახლება ხელმისაწვდომია — ჩამოტვირთვა ახლავე
+    .label-update-unsupported = ვერ განახლდება — შეუთავსებელია
+    .label-update-restart = განახლება ხელმისაწვდომია — გადატვირთვა ახლავე
 appmenuitem-protection-dashboard-title = დაცვის მაჩვენებლები
 appmenuitem-customize-mode =
     .label = მორგება…
@@ -25,8 +29,6 @@ appmenuitem-new-private-window =
     .label = ახალი პირადი ფანჯარა
 appmenuitem-passwords =
     .label = პაროლები
-appmenuitem-extensions-and-themes =
-    .label = გაფართოებები და თემები
 appmenuitem-addons-and-themes =
     .label = დამატებები და თემები
 appmenuitem-find-in-page =
@@ -162,11 +164,6 @@ appmenu-about =
 appmenu-get-help =
     .label = დახმარება
     .accesskey = დ
-appmenu-help-troubleshooting-info =
-    .label = ხარვეზის აღმოფხვრის მონაცემები
-    .accesskey = ფ
-appmenu-help-taskmanager =
-    .label = ამოცანათა მმართველი
 appmenu-help-more-troubleshooting-info =
     .label = მონაცემები ხარვეზის აღმოსაფხვრელად
     .accesskey = ფ
@@ -175,16 +172,6 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = გამოგვეხმაურეთ…
     .accesskey = უ
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = გამორთული დამატებებით გაშვება...
-    .accesskey = გ
-appmenu-help-safe-mode-with-addons =
-    .label = ჩართული დამატებებით გაშვება
-    .accesskey = ჩ
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
