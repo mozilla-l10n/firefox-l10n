@@ -320,6 +320,7 @@ about-logins-import-dialog-error-unable-to-read-description = დარწმუ
 about-logins-import-dialog-error-no-logins-imported = ანგარიშები არ გადმოტანილა
 about-logins-import-dialog-error-learn-more = ვრცლად
 about-logins-import-dialog-error-try-again = სცადეთ ხელახლა…
+about-logins-import-dialog-error-try-import-again = გადმოტანის კვლავ ცდა…
 about-logins-import-dialog-error-cancel = გაუქმება
 about-logins-import-report-title = გადმოტანის შეჯამება
 about-logins-import-report-description = გადმოტანილი ანგარიშები და პაროლები – { -brand-short-name }

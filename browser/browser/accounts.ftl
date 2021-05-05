@@ -10,4 +10,4 @@ account-finish-account-setup = ანგარიშის გამართვ
 account-reconnect-to-fxa = ანგარიში გამოთიშულია
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
-account-disconnected = გამოთიშულია
+account-disconnected2 = ანგარიში გამოთიშულია
