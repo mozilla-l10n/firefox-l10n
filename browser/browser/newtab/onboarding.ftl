@@ -263,6 +263,25 @@ mr1-onboarding-set-default-pin-primary-button-label = აქციეთ { -bran
 mr1-onboarding-set-default-only-primary-button-label = გახდეს { -brand-short-name } ჩემი ძირითადი ბრაუზერი
 mr1-onboarding-set-default-secondary-button-label = ახლა არა
 mr1-onboarding-sign-in-button-label = შესვლა
+mr1-onboarding-import-header = თან გამოიყოლეთ
+mr1-onboarding-import-subtitle = გადმოიტანეთ პაროლები, <br/>სანიშნები და ა.შ.
+# The primary import button label will depend on whether we can detect which browser was used to download Firefox.
+# Variables:
+#   $previous (Str) - Previous browser name, such as Edge, Chrome
+mr1-onboarding-import-primary-button-label-attribution = გადმოტანა { $previous }-(ი)დან
+# This string will be used in cases where we can't detect the previous browser name.
+mr1-onboarding-import-primary-button-label-no-attribution = გადმოტანა წინა ბრაუზერიდან
+mr1-onboarding-import-secondary-button-label = ახლა არა
+mr1-onboarding-theme-header = გახადეთ თქვენებური
+mr1-onboarding-theme-subtitle = მოირგეთ { -brand-short-name } გაფორმებით.
+mr1-onboarding-theme-primary-button-label = გაფორმების არჩევა
+mr1-onboarding-theme-secondary-button-label = ახლა არა
+# System theme uses operating system color settings
+mr1-onboarding-theme-label-system = სისტემური გაფორმება
+mr1-onboarding-theme-label-light = ნათელი
+mr1-onboarding-theme-label-dark = მუქი
+# "Alpenglow" here is the name of the theme, and should be kept in English.
+mr1-onboarding-theme-label-alpenglow = Alpenglow
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
@@ -279,3 +298,33 @@ mr1-onboarding-theme-description-system =
     .aria-description =
         შეუხამებს სისტემის გაფორმებას
         ღილაკებს, მენიუსა და ფანჯრებს.
+# Tooltip displayed on hover of light theme
+mr1-onboarding-theme-tooltip-light =
+    .title =
+        ნათელი გაფორმება ღილაკებზე,
+        მენიუსა და ფანჯრებზე
+# Input description for light theme
+mr1-onboarding-theme-description-light =
+    .aria-description =
+        ნათელი გაფორმება ღილაკებზე,
+        მენიუსა და ფანჯრებზე
+# Tooltip displayed on hover of dark theme
+mr1-onboarding-theme-tooltip-dark =
+    .title =
+        მუქი გაფორმება ღილაკებზე,
+        მენიუსა და ფანჯრებზე
+# Input description for dark theme
+mr1-onboarding-theme-description-dark =
+    .aria-description =
+        მუქი გაფორმება ღილაკებზე,
+        მენიუსა და ფანჯრებზე
+# Tooltip displayed on hover of Alpenglow theme
+mr1-onboarding-theme-tooltip-alpenglow =
+    .title =
+        ცვალებადი, ფერადი გაფორმება ღილაკებზე,
+        მენიუსა და ფანჯრებზე
+# Input description for Alpenglow theme
+mr1-onboarding-theme-description-alpenglow =
+    .aria-description =
+        ცვალებადი, ფერადი გაფორმება ღილაკებზე,
+        მენიუსა და ფანჯრებზე
