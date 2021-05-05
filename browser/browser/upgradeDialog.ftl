@@ -10,7 +10,10 @@
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-new-title = გაიცანით ახალი { -brand-short-name }
+upgrade-dialog-new-item-menu-title = დახვეწილი ხელსაწყოთა ზოლი და მენიუები
 upgrade-dialog-new-item-tabs-title = თანამედროვე ჩანართები
+upgrade-dialog-new-item-icons-title = ახლებური ხატულები და მკაფიო წარწერები
+upgrade-dialog-new-item-icons-description = დაგეხმარებათ გზის გაკვლევაში, მსუბუქი შეხებით.
 upgrade-dialog-new-primary-primary-button = აქციეთ { -brand-short-name } ძირითად ბრაუზერად
     .title = { -brand-short-name } გახდება ნაგულისხმევი ბრაუზერი და მიმაგრდება ამოცანათა ზოლზე
 upgrade-dialog-new-primary-default-button = გახდეს { -brand-short-name } ჩემი ძირითადი ბრაუზერი
