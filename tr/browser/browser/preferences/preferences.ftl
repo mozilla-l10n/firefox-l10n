@@ -1018,6 +1018,7 @@ enhanced-tracking-protection-setting-custom =
 content-blocking-etp-standard-desc = Dengeli koruma ve performans. Sayfalar normal şekilde yüklenir.
 content-blocking-etp-strict-desc = Daha güçlü koruma, ama bazı siteler ve içerikler düzgün çalışmayabilir.
 content-blocking-etp-custom-desc = Hangi takipçilerin ve betiklerin engelleneceğini seçin.
+content-blocking-etp-blocking-desc = { -brand-short-name } aşağıdakileri engeller:
 content-blocking-private-windows = Gizli pencelerde takip amaçlı içerikler
 content-blocking-cross-site-cookies = Siteler arası çerezler
 content-blocking-cross-site-cookies-in-all-windows = Tüm pencerelerde siteler arası çerezler (takip çerezleri dahil)
