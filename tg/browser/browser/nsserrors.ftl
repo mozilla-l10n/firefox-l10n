@@ -15,6 +15,7 @@ ssl-connection-error = Ҳангоми пайвастшавӣ ба { $hostname } 
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Рамзи хато: { $error }
+ssl-error-unsupported-certificate-type = Навъи ин гувоҳинома дастгирӣ намешавад.
 ssl-error-post-warning = Рамзи номаълуми хатои SSL.
 ssl-error-bad-mac-read = SSL сабтеро бо рамзи нодурусти паёми санҷиши ҳаққоният қабул кард.
 ssl-error-bad-mac-alert = Ҳамсони SSL дар бораи рамзи нодурусти паёми санҷиши ҳаққоният гузориш медиҳад.
@@ -65,7 +66,13 @@ sec-error-cert-not-valid = Ин гувоҳинома эътибор надора
 sec-error-extension-not-found = Васеъшавии гувоҳинома ёфт нашуд.
 sec-error-ca-cert-invalid = Гувоҳиномаи бароранда нодуруст аст
 sec-internal-only = **ТАНҲО модули дохилӣ**
+sec-error-unsupported-keyalg = Алгоритми калид номаълум аст ё дастгирӣ намешавад.
+xp-sec-fortezza-person-not-found = Шахсият ёфт нашуд
 xp-sec-fortezza-bad-pin = Пин нодуруст аст
+sec-error-pkcs12-corrupt-pfx-structure = Ворид карда намешавад. Сохтори файл вайрон мебошад.
+sec-error-pkcs12-unsupported-pbe-algorithm = Ворид карда намешавад. Алгоритми рамзгузорӣ дастгирӣ намешавад.
+sec-error-pkcs12-unsupported-version = Ворид карда намешавад. Версияи файл дастгирӣ карда намешавад.
+sec-error-pkcs12-privacy-password-incorrect = Ворид карда намешавад. Ниҳонвожаи махфият нодуруст аст.
 sec-error-message-send-aborted = Паём фиристода нашуд.
 sec-error-js-invalid-module-name = Номи модул нодуруст аст.
 sec-error-js-invalid-dll = Номи файл/масири модул нодуруст аст.
