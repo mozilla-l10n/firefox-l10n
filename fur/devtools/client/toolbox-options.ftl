@@ -10,6 +10,9 @@
 
 # The heading
 options-select-default-tools-label = Struments pai svilupadôrs predefinît
+# The label for the explanation of the * marker on a tool which is currently not supported
+# for the target of the toolbox.
+options-tool-not-supported-label = * No supuartât pal element di destinazion corint de cassele dai imprescj
 # The label for the heading of group of checkboxes corresponding to the developer tools
 # added by add-ons. This heading is hidden when there is no developer tool installed by add-ons.
 options-select-additional-tools-label = Struments pai svilupadôrs instalâts des zontis
@@ -106,3 +109,14 @@ options-enable-remote-tooltip2 =
 options-enable-service-workers-http-label = Ative i service workers sore di HTTP (cuant che la cassele dai imprescj e je vierte)
 options-enable-service-workers-http-tooltip =
     .title = Ativant cheste opzion a vignaran ativâts i service workers sore HTTP par dutis lis schedis che a àn une cassele dai imprescj vierte.
+# The label for the checkbox that toggles source maps in all tools.
+options-source-maps-label = Ative mapis dai sorzints
+options-source-maps-tooltip =
+    .title = Se tu ativis cheste opzion i sorzints a vignaran mapâts intai struments.
+# The message shown for settings that trigger page reload
+options-context-triggers-page-refresh = * dome session atuâl, al torne a cjariâ la pagjine
+# The label for the checkbox that toggles the display of the platform data in the
+# Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
+options-show-platform-data-label = Mostre i dâts de plateforme Gecko
+options-show-platform-data-tooltip =
+    .title = Se tu ativis cheste opzion i rapuarts dal profiladôr di JavaScript a includaran i simbui de plateforme Gecko
