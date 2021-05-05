@@ -3,15 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 profiledowngrade-window =
-    .title = თქვენ გაუშვით { -brand-product-name }-ის ძველი ვერსია
+    .title = თქვენ გაუშვით ძველი { -brand-product-name }
     .style = width: 490px;
-
 profiledowngrade-window-create =
     .label = ახალი პროფილის შექმნა
-
-profiledowngrade-sync = { -brand-product-name }-ის ძველმა ვერსიამ შესაძლოა დააზიანოს სანიშნები და მონახულებული საიტების ისტორია, რომლებიც არსებული { -brand-product-name }-ის პროფილშია განთავსებული. მონაცემების დასაცავად, შექმენით ახალი პროფილი, რომელსაც ეს { -brand-short-name } გამოიყენებს. ასევე ყოველთვის შეგიძლიათ მოიხმაროთ { -fxaccount-brand-name } სანიშნებისა და ისტორიის დასინქრონებისთვის, სხვადასხვა პროფილებს შორის.
-profiledowngrade-nosync = { -brand-product-name }-ის ძველმა ვერსიამ შესაძლოა დააზიანოს სანიშნები და მონახულებული საიტების ისტორია, რომლებიც არსებული { -brand-product-name }-ის პროფილშია განთავსებული. მონაცემების დასაცავად, შექმენით ახალი პროფილი, რომელსაც ეს { -brand-short-name } გამოიყენებს.
-
+profiledowngrade-sync = { -brand-product-name } ძველია, ამიტომ შესაძლოა დააზიანოს სანიშნები და მონახულებული საიტების ისტორია, რომელთაც თავის პროფილში ინახავს არსებული { -brand-product-name }. მონაცემების გადასარჩენად, შექმენით ახალი პროფილი და იმას გამოიყენებს აღნიშნული { -brand-short-name }. ასევე ყოველთვის შეგიძლიათ დაიხმაროთ { -fxaccount-brand-name } სანიშნებისა და ისტორიის დასინქრონებისთვის, სხვადასხვა პროფილებს შორის.
+profiledowngrade-nosync = { -brand-product-name } ძველია, ამიტომ შესაძლოა დააზიანოს სანიშნები და მონახულებული საიტების ისტორია, რომელთაც თავის პროფილში ინახავს არსებული { -brand-product-name }. მონაცემების გადასარჩენად, შექმენით ახალი პროფილი და იმას გამოიყენებს აღნიშნული { -brand-short-name }.
 profiledowngrade-quit =
     .label =
         { PLATFORM() ->
