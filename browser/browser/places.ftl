@@ -5,10 +5,10 @@
 places-open =
     .label = გახსნა
     .accesskey = გ
-places-open-tab =
+places-open-in-tab =
     .label = გახსნა ახალ ჩანართში
     .accesskey = ლ
-places-open-in-tab =
+places-open-tab =
     .label = გახსნა ახალ ჩანართში
     .accesskey = ლ
 places-open-all-bookmarks =
@@ -20,7 +20,13 @@ places-open-all-in-tabs =
 places-open-window =
     .label = გახსნა ახალ ფანჯარაში
     .accesskey = ფ
+places-open-in-window =
+    .label = გახსნა ახალ ფანჯარაში
+    .accesskey = ფ
 places-open-private-window =
+    .label = გახსნა ახალ პირად ფანჯარაში
+    .accesskey = პ
+places-open-in-private-window =
     .label = გახსნა ახალ პირად ფანჯარაში
     .accesskey = პ
 places-new-bookmark =
@@ -35,12 +41,6 @@ places-new-folder =
 places-new-separator =
     .label = ახალი გამყოფი
     .accesskey = გ
-places-open-in-window =
-    .label = გახსნა ახალ ფანჯარაში
-    .accesskey = ფ
-places-open-in-private-window =
-    .label = გახსნა ახალ პირად ფანჯარაში
-    .accesskey = პ
 places-add-bookmark =
     .label = სანიშნის დამატება
     .accesskey = ს
@@ -91,6 +91,16 @@ places-edit-bookmark =
 places-edit-generic =
     .label = ჩასწორება…
     .accesskey = წ
+places-edit-folder =
+    .label = საქაღალდის გადარქმევა…
+    .accesskey = რ
+places-remove-folder =
+    .label =
+        { $count ->
+            [1] საქაღალდის მოცილება
+           *[other] საქაღალდეების მოცილება
+        }
+    .accesskey = მ
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = გამართული სანიშნები
