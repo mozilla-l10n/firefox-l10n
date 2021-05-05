@@ -15,6 +15,7 @@ policy-AllowedDomainsForApps = Define los dominios que tienen permitido acceder 
 policy-AppAutoUpdate = Activar o desactivar actualizaciones automáticas de la aplicación.
 policy-AppUpdateURL = Establecer la URL de actualización de aplicación personalizada.
 policy-Authentication = Configurar la autenticación integrada para sitios web que la admitan.
+policy-AutoLaunchProtocolsFromOrigins = Define una lista de protocolos externos que pueden ser usados desde los orígenes que aparecen en la lista sin que se le pregunte al usuario.
 policy-BackgroundAppUpdate2 = Activar o desactivar la actualización en segundo plano.
 policy-BlockAboutAddons = Bloquear acceso al Administrador de complementos (about:addons).
 policy-BlockAboutConfig = Bloquear acceso a la página about:config.
