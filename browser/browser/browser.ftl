@@ -290,6 +290,7 @@ identity-header-security-with-host =
     .title = Bảo mật kết nối cho { $host }
 identity-connection-not-secure = Kết nối không an toàn
 identity-connection-secure = Kết nối an toàn
+identity-connection-failure = Kết nối thất bại
 identity-connection-internal = Đây là một trang an toàn của { -brand-short-name }
 identity-connection-file = Trang này đã được lưu ở máy tính của bạn.
 identity-extension-page = Trang này được tải từ một tiện ích mở rộng.
