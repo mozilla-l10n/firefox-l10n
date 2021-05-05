@@ -257,6 +257,8 @@ onboarding-multistage-theme-description-alpenglow =
 
 ## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 
+# This button will open system settings to turn on prefers-reduced-motion
+mr1-onboarding-reduce-motion-button-label = ანიმაციების გათიშვა
 mr1-onboarding-welcome-header = მოგესალმებათ { -brand-short-name }
 mr1-onboarding-set-default-pin-primary-button-label = აქციეთ { -brand-short-name } ძირითად ბრაუზერად
     .title = { -brand-short-name } გახდება ნაგულისხმევი ბრაუზერი და მიმაგრდება ამოცანათა ზოლზე
