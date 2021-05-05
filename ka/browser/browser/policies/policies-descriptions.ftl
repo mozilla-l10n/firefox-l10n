@@ -11,9 +11,11 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = მიუთითეთ დებულებები, რომ WebExtension-ებს შეეძლოს chrome.storage.managed-ით წვდომა.
+policy-AllowedDomainsForApps = განსაზღვრა დომენების, რომელთაც წვდომა ექნება Google Workspace-სთან.
 policy-AppAutoUpdate = ჩართვა ან გამორთვა, აპლიკაციის თვითგანახლების.
 policy-AppUpdateURL = პროგრამის გასაახლებელი URL-მისამართის დაყენება.
 policy-Authentication = ინტეგრირებული ავთენტურობის გამართვა ვებსაიტებისთვის, რომლებზეც მხარდაჭერილია.
+policy-AutoLaunchProtocolsFromOrigins = განსაზღვრავს ჩამონათვალს გარე ოქმებისა, რომლებიც შეიძლება იყოს გამოყენებული აღნუსხული წყაროებიდან, მომხმარებლის ჩაურევლად.
 policy-BackgroundAppUpdate2 = ფონური განახლების ჩართვა ან გამორთვა.
 policy-BlockAboutAddons = დამატებების მმართველთან წვდომის შეზღუდვა (about:addons).
 policy-BlockAboutConfig = წვდომის შეზღუდვა about:config გვერდთან.
