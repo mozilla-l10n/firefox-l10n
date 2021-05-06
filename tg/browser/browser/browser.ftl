@@ -395,20 +395,27 @@ popup-screen-sharing-never =
     .label = Ҳеҷ гоҳ иҷозат дода нашавад
     .accesskey = Ҳ
 popup-silence-notifications-checkbox = Ғайрифаъол кардани огоҳиҳо аз { -brand-short-name } ҳангоми мубодилакунӣ
+popup-silence-notifications-checkbox-warning = Вақте ки шумо мубодила мекунед, { -brand-short-name } огоҳиҳоро нишон намедиҳад.
 popup-screen-sharing-block =
     .label = Манъ кардан
     .accesskey = М
 popup-screen-sharing-always-block =
     .label = Ҳамеша манъ кардан
     .accesskey = Ҳ
+popup-mute-notifications-checkbox = Бесадо кардани огоҳиҳои сомона ҳангоми мубодила
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-window = Шумо { -brand-short-name }-ро мубодила карда истодаед. Одамони дигар дида метавонанд, вақте ки шумо ба варақаи нав мегузаред.
+sharing-warning-screen = Шумо экрани пурраро мубодила карда истодаед. Одамони дигар дида метавонанд, вақте ки шумо ба варақаи нав мегузаред.
+sharing-warning-proceed-to-tab =
+    .label = Гузаронидан ба варақа
 sharing-warning-disable-for-session =
     .label = Ғайрифаъол кардани муҳофизати дастрасии умумӣ барои ин ҷаласа
 
 ## DevTools F12 popup
 
+enable-devtools-popup-description = Барои истифода кардани миёнбури F12, аввал DevTools-ро тавассути менюи барномарезии сомона кушоед.
 
 ## URL Bar
 
@@ -459,6 +466,8 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Васеъшавӣ:
+urlbar-go-button =
+    .tooltiptext = Аз навори ҷойгиршавӣ ба нишонии воридшуда гузаред
 urlbar-page-action-button =
     .tooltiptext = Амалҳо дар саҳифа
 urlbar-pocket-button =
