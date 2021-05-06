@@ -15,6 +15,7 @@ ssl-connection-error = Ҳангоми пайвастшавӣ ба { $hostname } 
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Рамзи хато: { $error }
+psmerr-ssl-disabled = Ба таври бехатар пайваст карда наметавонад, зеро ки протоколи SSL ғайрифаъол карда шуд.
 ssl-error-unsupported-certificate-type = Навъи ин гувоҳинома дастгирӣ намешавад.
 ssl-error-post-warning = Рамзи номаълуми хатои SSL.
 ssl-error-bad-mac-read = SSL сабтеро бо рамзи нодурусти паёми санҷиши ҳаққоният қабул кард.

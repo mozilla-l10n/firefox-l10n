@@ -172,3 +172,38 @@ mr1-onboarding-theme-tooltip-system =
     .title =
         Истифодаи мавзӯи низоми амалкунанда
         барои тугмаҳо, менюҳо ва равзанаҳо.
+# Input description for system theme
+mr1-onboarding-theme-description-system =
+    .aria-description =
+        Истифодаи мавзӯи низоми амалкунанда
+        барои тугмаҳо, менюҳо ва равзанаҳо.
+# Tooltip displayed on hover of light theme
+mr1-onboarding-theme-tooltip-light =
+    .title =
+        Истифодаи мавзӯи равшан
+        барои тугмаҳо, менюҳо ва равзанаҳо.
+# Input description for light theme
+mr1-onboarding-theme-description-light =
+    .aria-description =
+        Истифодаи мавзӯи равшан
+        барои тугмаҳо, менюҳо ва равзанаҳо.
+# Tooltip displayed on hover of dark theme
+mr1-onboarding-theme-tooltip-dark =
+    .title =
+        Истифодаи мавзӯи торик
+        барои тугмаҳо, менюҳо ва равзанаҳо.
+# Input description for dark theme
+mr1-onboarding-theme-description-dark =
+    .aria-description =
+        Истифодаи мавзӯи торик
+        барои тугмаҳо, менюҳо ва равзанаҳо.
+# Tooltip displayed on hover of Alpenglow theme
+mr1-onboarding-theme-tooltip-alpenglow =
+    .title =
+        Истифодаи мавзӯи мутараққӣ ва рангин
+        барои тугмаҳо, менюҳо ва равзанаҳо.
+# Input description for Alpenglow theme
+mr1-onboarding-theme-description-alpenglow =
+    .aria-description =
+        Истифодаи мавзӯи мутараққӣ ва рангин
+        барои тугмаҳо, менюҳо ва равзанаҳо.
