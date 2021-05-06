@@ -1147,6 +1147,8 @@ collection-backlogged-crash-reports =
     .label = Дазволіць { -brand-short-name } адпраўляць назапашаныя справаздачы аб памылках ад вашага імя
     .accesskey = а
 collection-backlogged-crash-reports-link = Даведацца больш
+collection-backlogged-crash-reports-with-link = Дазволіць { -brand-short-name } адсылаць запісаныя справаздачы аб збоях ад вашага імя <a data-l10n-name="crash-reports-link">Падрабязней</a>
+    .accesskey = с
 
 ## Privacy Section - Security
 ##
