@@ -15,6 +15,7 @@ policy-AllowedDomainsForApps = Definiearje domeinen dy't tagong hawwe ta Google 
 policy-AppAutoUpdate = Automatyske applikaasjefernijing yn- of útskeakelje.
 policy-AppUpdateURL = Oanpaste app-fernijings-URL ynstelle.
 policy-Authentication = Yntegrearre autentikaasje konfigurearje foar websites dy't dit stypje.
+policy-AutoLaunchProtocolsFromOrigins = Definiearje in list mei eksterne protokollen dy't fan fermelde boarnen út brûkt wurde kinne sûnder de brûker te freegjen.
 policy-BackgroundAppUpdate2 = Eftergrûnfernijingen yn- of útskeakelje.
 policy-BlockAboutAddons = Tagong ta de Add-onbehearder (about:addons) blokkearje.
 policy-BlockAboutConfig = Tagong ta de about:config-side blokkearje.
