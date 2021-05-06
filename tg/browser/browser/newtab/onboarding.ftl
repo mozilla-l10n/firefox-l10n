@@ -142,7 +142,17 @@ onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 mr1-onboarding-welcome-header = Хуш омадед ба { -brand-short-name }
 mr1-onboarding-set-default-secondary-button-label = Ҳоло не
 mr1-onboarding-sign-in-button-label = Ворид шудан
+mr1-onboarding-import-header = Ҳамаашро бо худ биёред
+mr1-onboarding-import-subtitle = Ниҳонвожаҳо, хатбаракҳо ва <br/>ҳар чӣ бештар ворид кунед.
+# The primary import button label will depend on whether we can detect which browser was used to download Firefox.
+# Variables:
+#   $previous (Str) - Previous browser name, such as Edge, Chrome
+mr1-onboarding-import-primary-button-label-attribution = Ворид кардан аз { $previous }
+# This string will be used in cases where we can't detect the previous browser name.
+mr1-onboarding-import-primary-button-label-no-attribution = Ворид кардан аз браузери қаблӣ
 mr1-onboarding-import-secondary-button-label = Ҳоло не
+mr1-onboarding-theme-header = Соҳиби он шавед
+mr1-onboarding-theme-subtitle = Намуди зоҳирии { -brand-short-name }-ро бо мавзӯи дилхоҳ иваз намоед.
 mr1-onboarding-theme-primary-button-label = Нигоҳ доштани мавзӯъ
 mr1-onboarding-theme-secondary-button-label = Ҳоло не
 # System theme uses operating system color settings
@@ -157,3 +167,8 @@ mr1-onboarding-theme-label-alpenglow = Нури алпӣ
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of system theme
+mr1-onboarding-theme-tooltip-system =
+    .title =
+        Истифодаи мавзӯи низоми амалкунанда
+        барои тугмаҳо, менюҳо ва равзанаҳо.
