@@ -34,6 +34,13 @@ carddav-location-label =
 carddav-location =
     .default-placeholder = URL adresa nebo adresa serveru s adresářem
 carddav-loading = Vyhledávání nastavení…
+carddav-known-incompatible =
+    Adresa { $url } je známa jako nekompatibilní s { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "ins") }
+        [feminine] { -brand-short-name(case: "ins") }
+        [neuter] { -brand-short-name(case: "ins") }
+       *[other] aplikací { -brand-short-name }
+    }.
 carddav-connection-error = Chyba spojení.
 carddav-none-found = U zadaného účtu nebyly nalezeny žádné složky kontaktů, které by bylo možné přidat.
 carddav-already-added = Všechny složky kontaktů zadaného účtu už jsou přidány.
