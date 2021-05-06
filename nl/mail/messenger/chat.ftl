@@ -8,5 +8,3 @@ chat-participant-administrator-role-icon =
     .alt = “Beheerder”
 chat-participant-moderator-role-icon =
     .alt = “Moderator”
-chat-participant-voiced-role-icon =
-    .alt = “Deelnemer kan berichten plaatsen”
