@@ -302,6 +302,7 @@ identity-header-security-with-host =
     .title = Ferbiningsbefeiliging foar { $host }
 identity-connection-not-secure = Ferbining net befeilige
 identity-connection-secure = Ferbining befeilige
+identity-connection-failure = Ferbiningsflater
 identity-connection-internal = Dit is in befeilige { -brand-short-name }-side.
 identity-connection-file = Dizze side is op jo kompjûter bewarre.
 identity-extension-page = Dizze side is laden fan in útwreiding út.
