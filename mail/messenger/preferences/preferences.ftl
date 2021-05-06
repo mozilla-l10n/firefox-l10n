@@ -125,8 +125,8 @@ update-in-progress-ok-button = &Nepokračovat
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Pokračovat
-account-button = Nastavení účtu
 addons-button = Rozšíření a vzhledy
+account-button = Nastavení účtu
 open-addons-sidebar-button = Doplňky a vzhledy
 
 ## OS Authentication dialog
@@ -414,6 +414,8 @@ quoted-text-color =
     .accesskey = a
 search-input =
     .placeholder = Hledat
+search-handler-table =
+    .placeholder = Filtrovat typy obsahu a akcí
 type-column-label =
     .label = Typ obsahu
     .accesskey = T

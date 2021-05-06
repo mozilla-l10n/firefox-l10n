@@ -12,3 +12,5 @@ chat-participant-administrator-role-icon =
     .alt = Správce
 chat-participant-moderator-role-icon =
     .alt = Moderátor
+chat-participant-voiced-role-icon =
+    .alt = Účastník může psát zprávy
