@@ -43,11 +43,11 @@
 
 # LOCALIZATION NOTE (nightly_heading):
 # Firefox Nightly links folder name
-#define nightly_heading Firefox Nichtlie Resoorces
+#define nightly_heading Firefox Nightly Resoorces
 
 # LOCALIZATION NOTE (nightly_blog):
 # Nightly builds only, link title for https://blog.nightly.mozilla.org/
-#define nightly_blog Firefox Nichtlie blog
+#define nightly_blog Firefox Nightly blog
 
 # LOCALIZATION NOTE (bugzilla):
 # Nightly builds only, link title for https://bugzilla.mozilla.org/
@@ -59,7 +59,7 @@
 
 # LOCALIZATION NOTE (nightly_tester_tools):
 # Nightly builds only, link title for https://addons.mozilla.org/en-US/firefox/addon/nightly-tester-tools/
-#define nightly_tester_tools Nichtlie Tester Tools
+#define nightly_tester_tools Nightly Tester Tools
 
 # LOCALIZATION NOTE (crashes):
 # Nightly builds only, link title for about:crashes
