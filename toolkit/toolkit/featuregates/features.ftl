@@ -18,7 +18,11 @@ experimental-features-web-gpu-description2 = Questa nuova API fornisce supporto 
 # by various online articles and is technical in nature.
 experimental-features-media-avif =
     .label = Media: AVIF
-experimental-features-media-avif-description = Attivando questa funzione, { -brand-short-name } supporta il formato AV1 Image File (AVIF). Si tratta di un formato per immagini che sfrutta le potenzialità dell’algoritmo di compressione video AV1 per ridurre la dimensione dei file. Consultare <a data-l10n-name="bugzilla">bug 1443863</a> per ulteriori dettagli.
+experimental-features-media-avif-description = Attiva in { -brand-short-name } il supporto per il formato AV1 Image File (AVIF). Si tratta di un formato per immagini che sfrutta le potenzialità dell’algoritmo di compressione video AV1 per ridurre la dimensione dei file. Consultare <a data-l10n-name="bugzilla">bug 1443863</a> per ulteriori dettagli.
+
+experimental-features-media-jxl =
+    .label = Media: JPEG XL
+experimental-features-media-jxl-description = Attiva in { -brand-short-name } il supporto per il formato JPEG XL (JXL). Si tratta di un formato avanzato per immagini che supporta il passaggio senza perdita di dettagli dai tradizionali file JPEG. Consultare <a data-l10n-name="bugzilla">bug 1539075</a> per ulteriori dettagli.
 
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
