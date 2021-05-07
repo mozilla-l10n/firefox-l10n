@@ -104,6 +104,7 @@ cfr-whatsnew-lockwise-take-link-text = Барномаро гиред
 
 ## Search Bar
 
+cfr-whatsnew-searchbar-title = Ба воситаи навори нишонӣ шумо метавонед камтар чоп кунед, аммо бештар ёбед
 
 ## Search bar
 
