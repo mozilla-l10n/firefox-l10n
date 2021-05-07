@@ -305,6 +305,7 @@ identity-header-security-with-host =
     .title = Zabezpečení spojení se serverem { $host }
 identity-connection-not-secure = Spojení není zabezpečené
 identity-connection-secure = Zabezpečené spojení
+identity-connection-failure = Chyba spojení
 identity-connection-internal =
     Toto je zabezpečená stránka { -brand-short-name.gender ->
         [masculine] { -brand-short-name(case: "gen") }
