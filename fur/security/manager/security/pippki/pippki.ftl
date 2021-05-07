@@ -61,6 +61,6 @@ set-password-reminder = Impuartant: Se tu vessis di dismenteâ la tô password d
 ## Protected Auth dialog
 
 protected-auth-window =
-    .title = Protected Token Authentication
-protected-auth-msg = Please authenticate to the token. Authentication method depends on the type of your token.
-protected-auth-token = Token:
+    .title = Autenticazion gjeton protete
+protected-auth-msg = Par plasê autentichiti cul gjeton. Il metodi di autenticazion al dipent dal gjenar dal to gjeton.
+protected-auth-token = Gjeton:
