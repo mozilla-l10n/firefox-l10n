@@ -302,6 +302,7 @@ identity-header-security-with-host =
     .title = Yhteyden suojaus sivustoon { $host }
 identity-connection-not-secure = Yhteys ei ole suojattu
 identity-connection-secure = Yhteys on suojattu
+identity-connection-failure = Yhteysvirhe
 identity-connection-internal = Tämä on suojattu { -brand-short-name }-sivu.
 identity-connection-file = Sivu on tallennettu tietokoneellesi.
 identity-extension-page = Tämän sivun latasi laajennus.
