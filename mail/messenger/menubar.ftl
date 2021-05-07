@@ -11,12 +11,26 @@ menu-view-charset =
 
 ## Tools Menu
 
+# Since v89 we dropped the platforms distinction between Options or Preferences
+# and consolidated everything with Preferences.
+menu-tools-preferences =
+    .label = Asetukset
+    .accesskey = A
 menu-addons-and-themes =
     .label = Lisäosat ja teemat
     .accesskey = L
 
 ## Help Menu
 
+menu-help-enter-troubleshoot-mode =
+    .label = Ongelmanratkaisutila…
+    .accesskey = O
+menu-help-exit-troubleshoot-mode =
+    .label = Poista Ongelmanratkaisutila käytöstä
+    .accesskey = i
+menu-help-more-troubleshooting-info =
+    .label = Lisää ongelmanratkaisutietoja
+    .accesskey = s
 
 ## Mail Toolbar
 
@@ -32,3 +46,12 @@ toolbar-delete-button =
 toolbar-undelete-button =
     .label = Peruuta poistaminen
     .tooltiptext = Peruuta valittujen viestien poistaminen
+
+## View / Layout
+
+mail-uidensity-compact =
+    .label = Tiivistä
+    .accesskey = v
+mail-uidensity-normal =
+    .label = Normaali
+    .accesskey = N
