@@ -492,6 +492,14 @@ urlbar-result-action-search-w-engine = Ҷустуҷӯ тавассути { $engi
 urlbar-result-action-sponsored = Сарпарастӣ
 urlbar-result-action-switch-tab = Ба варақа гузаштан
 urlbar-result-action-visit = Боздид
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-tabtosearch-web = Ба воситаи { $engine } бевосита аз навори нишонӣ ҷустуҷӯ кунед
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-tabtosearch-other-engine = Дар { $engine } бевосита аз навори нишонӣ ҷустуҷӯ кунед
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = Нусха бардоштан
 # Shows the result of a formula expression being calculated, the last = sign will be shown
@@ -518,6 +526,11 @@ fullscreen-warning-no-domain = Ин ҳуҷҷат дар реҷаи экрани 
 fullscreen-exit-button = Баромад аз экрани пурра (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Баромад аз экрани пурра (esc)
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
+pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> курсори муши шуморо идора мекунад. Барои ба даст овардани идоракунии курсори муш, тугмаи Esc-ро пахш намоед.
+pointerlock-warning-no-domain = Ин ҳуҷҷат курсори муши шуморо идора мекунад. Барои ба даст овардани идоракунии курсори муш, тугмаи Esc-ро пахш намоед.
 
 ## Subframe crash notification
 
