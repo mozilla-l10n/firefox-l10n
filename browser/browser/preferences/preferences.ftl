@@ -1191,6 +1191,7 @@ enhanced-tracking-protection-setting-custom =
 content-blocking-etp-standard-desc = Vyvážená ochrana a výkon. Neovlivní správné načítání webových stránek.
 content-blocking-etp-strict-desc = Silnější ochrana. Může omezit fungování některých stránek.
 content-blocking-etp-custom-desc = Vyberte sledovací prvky a skripty, které chcete zablokovat.
+content-blocking-etp-blocking-desc = { -brand-short-name } blokuje:
 content-blocking-private-windows = Sledující obsah v anonymních oknech
 content-blocking-cross-site-cookies = Cross-site cookies
 content-blocking-cross-site-cookies-in-all-windows = Všechny cookies třetích stran (včetně sledovacích cookies)
@@ -1363,6 +1364,14 @@ collection-backlogged-crash-reports =
         } za vás
     .accesskey = c
 collection-backlogged-crash-reports-link = Zjistit více
+collection-backlogged-crash-reports-with-link =
+    Odesílat nevyřízená hlášení o pádech { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "gen") }
+        [feminine] { -brand-short-name(case: "gen") }
+        [neuter] { -brand-short-name(case: "gen") }
+       *[other] aplikace
+    } za vás <a data-l10n-name="crash-reports-link">Zjistit více</a>
+    .accesskey = c
 
 ## Privacy Section - Security
 ##
