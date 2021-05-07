@@ -302,6 +302,7 @@ identity-header-security-with-host =
     .title = Taɣellist n tuqqna i { $host }
 identity-connection-not-secure = Tuqqna taraɣelsant
 identity-connection-secure = Taɣellist n tuqqna
+identity-connection-failure = Tuqqna ur teddi ara
 identity-connection-internal = Wa d asebter { -brand-short-name } aɣelsan.
 identity-connection-file = Asebter-a yettwakles deg uselkim-inek.
 identity-extension-page = Asebter-a yuli-d seg usiɣzef.
