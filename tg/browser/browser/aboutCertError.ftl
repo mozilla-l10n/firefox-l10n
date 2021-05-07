@@ -44,7 +44,13 @@ cert-error-not-yet-valid-now = Сомонаҳо айнияти худро ба �
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Рамзи хато: <a data-l10n-name="error-code-link">{ $error }</a>
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+cert-error-symantec-distrust-description = Сомонаҳо айнияти худро ба воситаи гувоҳиномаҳое тасдиқ мекунанд, ки бо мақомотҳои гувоҳиномадиҳӣ бароварда мешаванд. Аксари браузерҳо ба гувоҳиномаҳое, ки аз тарафи GeoTrust, RapidSSL, Symantec, Thawte, ва VeriSign бароварда шудаанд, эътимод надоранд. { $hostname } гувоҳиномаеро истифода мебарад, ки аз яке аз мақомотҳои гувоҳиномадиҳии зикршуда бароварда шудааст ва бинобар ин айнияти сомона тасдиқ карда намешавад.
 cert-error-symantec-distrust-admin = Шумо метавонед дар бораи ин мушкилӣ ба маъмури сомона хабар диҳед.
+# Variables:
+# $hasHSTS (Boolean) - Indicates whether HSTS header is present.
+cert-error-details-hsts-label = Интиқол бо амнияти ҷиддии HTTP: { $hasHSTS }
 cert-error-details-cert-chain-label = Занҷири гувоҳинома:
 open-in-new-window-for-csp-or-xfo-error = Кушодани сомона дар равзанаи нав
 
