@@ -1018,6 +1018,7 @@ enhanced-tracking-protection-setting-custom =
 content-blocking-etp-standard-desc = Tasapainotettu suojauksen ja suorituskyvyn välillä. Sivut latautuvat normaalisti.
 content-blocking-etp-strict-desc = Vahvempi suojaus, mutta saattaa aiheuttaa sivustojen tai sisällön toimimattomuutta.
 content-blocking-etp-custom-desc = Valitse, mitkä seuraimet ja komentosarjat estetään.
+content-blocking-etp-blocking-desc = { -brand-short-name } estää seuraavat:
 content-blocking-private-windows = Seurantaan tarkoitettu sisältö yksityisissä ikkunoissa
 content-blocking-cross-site-cookies = Sivustorajat ylittävät evästeet
 content-blocking-cross-site-tracking-cookies = Sivustorajat ylittävät seurainevästeet
