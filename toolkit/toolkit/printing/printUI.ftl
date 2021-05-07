@@ -99,7 +99,7 @@ printui-paper-b4 = B4
 printui-paper-jis-b5 = JIS-B5
 printui-paper-jis-b4 = JIS-B4
 printui-paper-letter = US Letter
-printui-paper-legal = Правові положення США
+printui-paper-legal = US Legal
 printui-paper-tabloid = Tabloid
 
 ## Error messages shown when a user has an invalid input
