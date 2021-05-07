@@ -51,6 +51,9 @@ cert-error-symantec-distrust-admin = Шумо метавонед дар бора
 # Variables:
 # $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = Интиқол бо амнияти ҷиддии HTTP: { $hasHSTS }
+# Variables:
+# $hasHPKP (Boolean) - Indicates whether HPKP header is present.
+cert-error-details-key-pinning-label = Васлкунии калиди иҷтимоии HTTP: { $hasHPKP }
 cert-error-details-cert-chain-label = Занҷири гувоҳинома:
 open-in-new-window-for-csp-or-xfo-error = Кушодани сомона дар равзанаи нав
 
