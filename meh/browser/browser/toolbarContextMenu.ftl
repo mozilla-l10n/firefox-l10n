@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+toolbar-context-menu-new-tab =
+    .label = Sukua jíía
+    .accesskey = w
 toolbar-context-menu-reload-selected-tab =
     .label = Nachu´un tuku pestaña nkaji
     .accesskey = R
@@ -42,6 +45,9 @@ toolbar-context-menu-remove-from-toolbar =
 toolbar-context-menu-view-customize-toolbar =
     .label = Sá´á vii
     .accesskey = P
+toolbar-context-menu-view-customize-toolbar-2 =
+    .label = Sá´á vii barra ka̱a̱...
+    .accesskey = C
 toolbar-context-menu-bookmarks-toolbar-always-show-2 =
     .label = Kutuvi ntaka íchi
     .accesskey = A

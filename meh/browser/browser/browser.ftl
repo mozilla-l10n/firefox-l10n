@@ -499,6 +499,8 @@ urlbar-result-action-tabtosearch-web = Nánuku ji { $engine } barra da nuu
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = Nánuku ji { $engine } barra nuu
+# Action text for copying to clipboard.
+urlbar-result-action-copy-to-clipboard = Tɨɨn
 # Shows the result of a formula expression being calculated, the last = sign will be shown
 # as part of the result (e.g. "= 2").
 # Variables
@@ -635,3 +637,6 @@ panel-save-update-password = Contraseña
 
 ## Remote / Synced tabs
 
+remote-tabs-manage-account =
+    .label = Tetiñu cuenta
+remote-tabs-sync-now = Sincronizar ntañu´u

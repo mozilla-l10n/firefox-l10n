@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+tab-context-new-tab =
+    .label = Sukua jíía
+    .accesskey = w
 reload-tab =
     .label = Nachu'un tuku pestaña
     .accesskey = R
@@ -14,6 +17,8 @@ duplicate-tab =
 duplicate-tabs =
     .label = Uvi pestaña
     .accesskey = D
+# The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = Nakasɨ pestañas kuá´á
     .accesskey = d
@@ -56,10 +61,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Nakasɨ kuaiyo da sukua
     .accesskey = M
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->
@@ -79,6 +80,15 @@ move-tabs =
 move-tab =
     .label = Skana pestaña
     .accesskey = v
+tab-context-share-url =
+    .label = Kua´a
+    .accesskey = h
+tab-context-share-more =
+    .label = Kue'eka…
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
 tab-context-close-tabs =
     .label =
         { $tabCount ->

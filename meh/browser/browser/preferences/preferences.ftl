@@ -44,6 +44,7 @@ category-privacy =
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
+pane-sync-title3 = Sync
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
 pane-experimental-title = Experimentos de { -brand-short-name }

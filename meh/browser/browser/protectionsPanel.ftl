@@ -63,6 +63,7 @@ protections-panel-site-not-working-view-send-report = Chu´un íchi reporte
 
 ##
 
+protections-panel-description-shim-allowed-learn-more = Ka´vi kue´eka
 protections-panel-content-blocking-manage-settings =
     .label = Ke´i configuración protección
     .accesskey = M
