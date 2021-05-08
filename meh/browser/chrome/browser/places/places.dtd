@@ -24,6 +24,7 @@
 <!ENTITY importOtherBrowser.accesskey      "A">
 
 <!ENTITY cmd.backup.accesskey           "B">
+<!ENTITY cmd.restore2.label             "Natee">
 <!ENTITY cmd.restore2.accesskey         "R">
 <!ENTITY cmd.restoreFromFile.accesskey  "C">
 
