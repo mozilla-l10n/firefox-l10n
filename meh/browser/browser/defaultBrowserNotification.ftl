@@ -7,3 +7,9 @@ default-browser-notification-message = <strong>¿Tee { -brand-short-name } kua k
 default-browser-notification-button =
     .label = Tee kua predeterminado
     .accesskey = S
+
+## These strings are used for the default browser prompt. There are 2 variations
+## depending on the operating system (Windows vs other). The checkbox label and
+## secondary button are shared between the variants.
+
+default-browser-prompt-button-secondary = Nkuvi ntañu´u

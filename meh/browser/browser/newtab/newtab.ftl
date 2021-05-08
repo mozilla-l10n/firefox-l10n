@@ -16,6 +16,7 @@ newtab-search-box-search-button =
     .title = Nánuku
     .aria-label = Nánuku
 newtab-search-box-search-the-web-text = Nánuku nuu Web
+newtab-search-box-handoff-text-no-engine = Nánuku a xíín chu´un iin nuu
 newtab-search-box-search-the-web-input =
     .placeholder = Nánuku nuu Web
     .title = Nánuku nuu Web

@@ -547,6 +547,8 @@ containers-new-tab-check =
     .accesskey = S
 containers-preferences-button =
     .label = Preferencias
+containers-settings-button =
+    .label = Ke´i
 containers-remove-button =
     .label = Xita
 

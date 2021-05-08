@@ -225,6 +225,7 @@ onboarding-multistage-theme-description-alpenglow =
 
 mr1-onboarding-welcome-header = Kusɨɨ inidáni nkantanu { -brand-short-name }
 mr1-onboarding-set-default-secondary-button-label = Nkuvi ntañu´u
+mr1-onboarding-sign-in-button-label = Kajie´e sesión
 mr1-onboarding-import-secondary-button-label = Nkuvi ntañu´u
 mr1-onboarding-theme-secondary-button-label = Nkuvi ntañu´u
 mr1-onboarding-theme-label-dark = Teku tun
