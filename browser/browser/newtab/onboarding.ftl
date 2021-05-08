@@ -191,7 +191,6 @@ onboarding-welcome-steps-indicator =
 # automatically added to the text inside it. "look" should stay inside the span.
 onboarding-multistage-theme-header = <span data-l10n-name="zap">Сыртқы түрін</span> таңдаңыз
 onboarding-multistage-theme-subtitle = { -brand-short-name } өнімін тема көмегімен жеке қылыңыз.
-onboarding-multistage-theme-primary-button-label = Теманы сақтау
 onboarding-multistage-theme-primary-button-label2 = Дайын
 onboarding-multistage-theme-secondary-button-label = Қазір емес
 # Automatic theme uses operating system color settings
@@ -246,3 +245,25 @@ onboarding-multistage-theme-description-alpenglow =
     .aria-description =
         Батырмалар, мәзірлер және терезелер үшін
         түрлі түсті сыртқы түрін қолдану.
+
+## Multistage MR1 onboarding strings (MR1 about:welcome pages)
+
+mr1-onboarding-set-default-secondary-button-label = Қазір емес
+mr1-onboarding-sign-in-button-label = Кіру
+# This string will be used in cases where we can't detect the previous browser name.
+mr1-onboarding-import-primary-button-label-no-attribution = Бұрынғы браузерден импорттау
+mr1-onboarding-import-secondary-button-label = Қазір емес
+mr1-onboarding-theme-primary-button-label = Теманы сақтау
+mr1-onboarding-theme-secondary-button-label = Қазір емес
+# System theme uses operating system color settings
+mr1-onboarding-theme-label-system = Жүйелік тема
+mr1-onboarding-theme-label-light = Ашық түсті
+mr1-onboarding-theme-label-dark = Күңгірт
+# "Alpenglow" here is the name of the theme, and should be kept in English.
+mr1-onboarding-theme-label-alpenglow = Alpenglow
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+

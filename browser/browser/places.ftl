@@ -5,12 +5,12 @@
 places-open =
     .label = Ашу
     .accesskey = А
-places-open-tab =
-    .label = Жаңа бетте ашу
-    .accesskey = т
 places-open-in-tab =
     .label = Жаңа бетте ашу
     .accesskey = w
+places-open-tab =
+    .label = Жаңа бетте ашу
+    .accesskey = т
 places-open-all-bookmarks =
     .label = Барлық бетбелгілерді ашу
     .accesskey = O
@@ -20,7 +20,13 @@ places-open-all-in-tabs =
 places-open-window =
     .label = Жаңа терезеде ашу
     .accesskey = т
+places-open-in-window =
+    .label = Жаңа терезеде ашу
+    .accesskey = N
 places-open-private-window =
+    .label = Жаңа жекелік терезесінде ашу
+    .accesskey = к
+places-open-in-private-window =
     .label = Жаңа жекелік терезесінде ашу
     .accesskey = к
 places-new-bookmark =
@@ -35,12 +41,6 @@ places-new-folder =
 places-new-separator =
     .label = Жаңа ажыратқыш
     .accesskey = а
-places-open-in-window =
-    .label = Жаңа терезеде ашу
-    .accesskey = N
-places-open-in-private-window =
-    .label = Жаңа жекелік терезесінде ашу
-    .accesskey = к
 places-add-bookmark =
     .label = Бетбелгіні қосу…
     .accesskey = б
@@ -91,6 +91,16 @@ places-edit-bookmark =
 places-edit-generic =
     .label = Түзету…
     .accesskey = з
+places-edit-folder =
+    .label = Бума атауын өзгерту…
+    .accesskey = е
+places-remove-folder =
+    .label =
+        { $count ->
+            [1] Буманы өшіру
+           *[other] Бумаларды өшіру
+        }
+    .accesskey = ш
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Басқарылатын бетбелгілер
