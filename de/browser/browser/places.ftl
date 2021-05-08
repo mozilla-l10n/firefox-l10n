@@ -91,6 +91,13 @@ places-edit-bookmark =
 places-edit-generic =
     .label = Bearbeiten…
     .accesskey = B
+places-remove-folder =
+    .label =
+        { $count ->
+            [1] Ordner entfernen
+           *[other] Ordner entfernen
+        }
+    .accesskey = t
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Verwaltete Lesezeichen
