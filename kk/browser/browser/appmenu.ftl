@@ -5,8 +5,6 @@
 
 ## App Menu
 
-appmenuitem-update-banner =
-    .label-update-downloading = { -brand-shorter-name } жаңартуын жүктеп алу
 appmenuitem-protection-dashboard-title = Қорғаныс панелі
 appmenuitem-customize-mode =
     .label = Баптау…
@@ -19,8 +17,6 @@ appmenuitem-new-private-window =
     .label = Жаңа жекелік терезе
 appmenuitem-passwords =
     .label = Парольдер
-appmenuitem-extensions-and-themes =
-    .label = Кеңейтулер және темалар
 appmenuitem-addons-and-themes =
     .label = Кеңейтулер және темалар
 appmenuitem-find-in-page =
@@ -65,6 +61,10 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Қазір синхрондау
+appmenu-remote-tabs-sign-into-sync =
+    .label = Синхрондау ішіне кіру…
+appmenu-remote-tabs-turn-on-sync =
+    .label = Синхрондауды іске қосу…
 appmenuitem-fxa-toolbar-sync-now2 = Қазір синхрондау
 appmenuitem-fxa-manage-account = Тіркелгіні басқару
 appmenu-fxa-header =
@@ -152,11 +152,6 @@ appmenu-about =
 appmenu-get-help =
     .label = Көмек алу
     .accesskey = м
-appmenu-help-troubleshooting-info =
-    .label = Техникалық ақпарат
-    .accesskey = а
-appmenu-help-taskmanager =
-    .label = Тапсырмалар басқарушысы
 appmenu-help-more-troubleshooting-info =
     .label = Мәселелерді шешудің көбірек ақпараты
     .accesskey = ш
@@ -165,16 +160,6 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = Кері байланыс хабарламасын жіберу…
     .accesskey = е
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Сөндірілген қосымшалармен қайта қосу…
-    .accesskey = р
-appmenu-help-safe-mode-with-addons =
-    .label = Іске қосылған қосымшалармен қайта қосу
-    .accesskey = р
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

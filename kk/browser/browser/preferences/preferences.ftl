@@ -28,6 +28,18 @@ search-input-box =
             [windows] Баптаулардан табу
            *[other] Баптаулардан табу
         }
+settings-page-title = Баптаулар
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box2 =
+    .style = width: 15.4em
+    .placeholder = Баптаулардан табу
 managed-notice = Браузеріңіз сіздің ұйымыңызбен басқаралады.
 category-list =
     .aria-label = Санаттар
@@ -46,6 +58,9 @@ category-privacy =
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
+pane-sync-title3 = Синхрондау
+category-sync3 =
+    .tooltiptext = { pane-sync-title3 }
 pane-experimental-title = { -brand-short-name } Тәжірибелері
 category-experimental =
     .tooltiptext = { -brand-short-name } Тәжірибелері
@@ -613,6 +628,8 @@ containers-back-button =
             [windows] Баптауларға оралу
            *[other] Баптауларға оралу
         }
+containers-back-button2 =
+    .aria-label = Баптауларға оралу
 containers-header = Контейнер беттері
 containers-add-button =
     .label = Жаңа контейнерді қосу
@@ -621,6 +638,8 @@ containers-new-tab-check =
     .label = Әр жаңа бет үшін контейнерді таңдау
     .accesskey = к
 containers-preferences-button =
+    .label = Баптаулар
+containers-settings-button =
     .label = Баптаулар
 containers-remove-button =
     .label = Өшіру
@@ -633,6 +652,7 @@ sync-signedout-description = Өзіңіздің бетбелгілер, тари
 sync-signedout-account-signin2 =
     .label = { -sync-brand-short-name } ішіне кіру…
     .accesskey = у
+sync-signedout-description2 = Бетбелгілер, шолу тарихы, беттер, парольдер, қосымшалар және баптауларды барлық құрылғыларыңыз арасында синхрондаңыз.
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -692,6 +712,7 @@ sync-currently-syncing-prefs =
         [windows] Баптаулар
        *[other] Баптаулар
     }
+sync-currently-syncing-settings = Баптаулар
 sync-change-options =
     .label = Өзгерту…
     .accesskey = з
