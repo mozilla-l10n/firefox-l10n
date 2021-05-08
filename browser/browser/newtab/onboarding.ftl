@@ -123,6 +123,7 @@ onboarding-multistage-welcome-secondary-button-label = ప్రవేశిం�
 onboarding-multistage-welcome-secondary-button-text = ఖాతా ఉందా?
 onboarding-multistage-set-default-primary-button-label = అప్రమేయం చేయి
 onboarding-multistage-set-default-secondary-button-label = ఇప్పుడు కాదు
+onboarding-multistage-pin-default-subtitle = మీరు జాలాన్ని వాడిన ప్రతిసారీ వేగవంతమైన, సురక్షితమైన, అంతరంగికమైన విహారణ.
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = మీ సంకేతపదాలను, ఇష్టాంశాలను <br/>, ఇంకా <span data-l10n-name="zap">మరెన్నిటినో</span> దిగుమతి చేసుకోండి
@@ -158,6 +159,7 @@ onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 
 mr1-onboarding-welcome-header = { -brand-short-name }కు స్వాగతం
 mr1-onboarding-set-default-secondary-button-label = ఇప్పుడు కాదు
+mr1-onboarding-import-secondary-button-label = ఇప్పడు కాదు
 mr1-onboarding-theme-secondary-button-label = ఇప్పుడు కాదు
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = వ్యవస్థ అలంకారం
