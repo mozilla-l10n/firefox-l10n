@@ -12,6 +12,7 @@
   -  toolkit/intl/languageNames.ftl file; for some locales it may not be in
   -  the correct grammar case to keep the same structure of the original
   -  sentence. -->
+<!ENTITY translation.notNow.button              "Nkuvi ntañu´u">
 
 
 <!-- LOCALIZATION NOTE (translation.translatedFrom.label,
@@ -43,12 +44,3 @@
   -->
 <!ENTITY translation.options.neverForSite.accesskey "e">
 <!ENTITY translation.options.preferences.accesskey "T">
-
-<!-- LOCALIZATION NOTE (translation.options.attribution.poweredByYandex,
-                        translation.options.attribution.beforeLogo,
-  -                     translation.options.attribution.afterLogo):
-  -  translation.options.attribution.poweredByYandex is displayed instead of
-  -  the other two strings when yandex translation engine is preferred by the
-  -  user.
-  -->
-

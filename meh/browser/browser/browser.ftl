@@ -612,7 +612,7 @@ toolbar-settings-button =
     .label = Ke´i
     .tooltiptext =
         { PLATFORM() ->
-            [macos] Síne nu kajie'e
+            [macos] Síne nu kajie'e ({ $shortcut })
            *[other] Síne nu kajie'e
         }
 
