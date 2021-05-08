@@ -91,6 +91,9 @@ places-edit-bookmark =
 places-edit-generic =
     .label = Bearbeiten…
     .accesskey = B
+places-edit-folder =
+    .label = Ordner umbenennen…
+    .accesskey = m
 places-remove-folder =
     .label =
         { $count ->
