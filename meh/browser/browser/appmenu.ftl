@@ -50,6 +50,7 @@ fxa-toolbar-sync-now =
 appmenu-fxa-header =
     .title = { -fxaccount-brand-name }
 appmenu-fxa-header2 = { -fxaccount-brand-name }
+appmenu-fxa-signed-in-label = Kajie´e sesión
 appmenuitem-save-page =
     .label = Chuva´a kua...
 

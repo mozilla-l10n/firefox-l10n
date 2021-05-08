@@ -176,7 +176,7 @@ onboarding-welcome-steps-indicator =
 # automatically added to the text inside it. "look" should stay inside the span.
 onboarding-multistage-theme-header = Sama  <span data-l10n-name="zap">look</span>
 onboarding-multistage-theme-subtitle = Sá´á vii { -brand-short-name } ji iin tema.
-onboarding-multistage-theme-primary-button-label = Chuva´a Tema
+onboarding-multistage-theme-primary-button-label2 = Nsá´á
 onboarding-multistage-theme-secondary-button-label = Nkuvi ntañu´u
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = Automático
@@ -220,3 +220,17 @@ onboarding-multistage-theme-description-alpenglow =
     .aria-description =
         Ni'i da teku vii ji botones, 
         nu kaji ji ventanas.
+
+## Multistage MR1 onboarding strings (MR1 about:welcome pages)
+
+mr1-onboarding-welcome-header = Kusɨɨ inidáni nkantanu { -brand-short-name }
+mr1-onboarding-set-default-secondary-button-label = Nkuvi ntañu´u
+mr1-onboarding-import-secondary-button-label = Nkuvi ntañu´u
+mr1-onboarding-theme-secondary-button-label = Nkuvi ntañu´u
+mr1-onboarding-theme-label-dark = Teku tun
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+

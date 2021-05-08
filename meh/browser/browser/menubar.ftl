@@ -244,6 +244,9 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Kajie'e sesión { -brand-product-name }…
     .accesskey = j
+menu-tools-fxa-sign-in2 =
+    .label = Kajie´e sesión
+    .accesskey = i
 menu-tools-turn-on-sync =
     .label = Activar { -sync-brand-short-name }...
     .accesskey = n
@@ -262,6 +265,13 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Tu´un jie´e nuu ya´a
     .accesskey = T
+menu-settings =
+    .label = Ke´i
+    .accesskey =
+        { PLATFORM() ->
+            [windows] S
+           *[other] n
+        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -290,15 +300,6 @@ menu-window-bring-all-to-front =
 # NOTE: For Engineers, any additions or changes to Help menu strings should
 # also be reflected in the related strings in appmenu.ftl. Those strings, by
 # convention, will have the same ID as these, but prefixed with "app".
-# Example: appmenu-help-product
-#
-# These strings are duplicated to allow for different casing depending on
-# where the strings appear.
-
-
-# NOTE: For Engineers, any additions or changes to Help menu strings should
-# also be reflected in the related strings in appmenu.ftl. Those strings, by
-# convention, will have the same ID as these, but prefixed with "app".
 # Example: appmenu-get-help
 #
 # These strings are duplicated to allow for different casing depending on
@@ -319,14 +320,12 @@ menu-help-import-from-another-browser =
 menu-help-keyboard-shortcuts =
     .label = Sa´a ñama Ka̱a̱ tee
     .accesskey = S
-menu-get-help =
-    .label = Nánuku chineída noo´o
-    .accesskey = H
 menu-help-troubleshooting-info =
     .label = Tu'un saa kuvi nasa'anu ya'a de ntivu
     .accesskey = T
-menu-help-taskmanager =
-    .label = Tetiñu da tareas
+menu-get-help =
+    .label = Nánuku chineída noo´o
+    .accesskey = H
 menu-help-report-site-issue =
     .label = Iyo iin tixi nuu sitio ya´a...
 menu-help-feedback-page =
@@ -346,6 +345,3 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = Ya´a ntu kuvi iin nuu kantu´un…
     .accesskey = D
-menu-help-check-for-update =
-    .label = Nánukú a jiia...
-    .accesskey = C

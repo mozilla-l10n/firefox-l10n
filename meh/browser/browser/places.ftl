@@ -5,6 +5,9 @@
 places-open =
     .label = Síne
     .accesskey = O
+places-open-in-tab =
+    .label = Síne nuu iin pestaña jíía
+    .accesskey = w
 places-open-tab =
     .label = Síne nuu iin pestaña jíía
     .accesskey = t
@@ -60,6 +63,9 @@ places-sortby-name =
 places-properties =
     .label = Propiedades
     .accesskey = a
+places-edit-generic =
+    .label = Natee…
+    .accesskey = i
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Tetiñu da marcadores

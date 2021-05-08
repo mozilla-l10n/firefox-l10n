@@ -272,6 +272,8 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = S
 bookmark-panel-done-button =
     .label = Xinɨ´ɨ
+bookmark-panel-save-button =
+    .label = Chuva´a
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -305,6 +307,7 @@ identity-https-only-dropdown-off =
 identity-https-only-info-turn-off2 = De ntu íyo tiñu, sana kuvinu xitanu HTTPS je nachu'unu tuku je ni'inu iin conexión HTTP ntu vatu.
 identity-https-only-info-no-upgrade = Nkuvi sa actualizar conexión ji HTTP.
 identity-permissions-storage-access-header = Cookies ji da sitios
+identity-permissions-storage-access-learn-more = Ka´vi kue´eka
 identity-permissions-reload-hint = Sana nejika nakivɨ tuku página saa kuvi sama nke´inu
 identity-permissions-empty = Ntu kuminu ni´i permiso nuu web ya´a
 identity-clear-site-data =
@@ -373,6 +376,8 @@ popup-select-camera =
 popup-select-microphone =
     .value = Kua´a Micrófono:
     .accesskey = M
+popup-select-camera-icon =
+    .tooltiptext = Ka̱a̱ natava
 popup-all-windows-shared = Kuaiyo da ventanas tuvi nu pantalla noo'o kuvi kua'a.
 popup-screen-sharing-not-now =
     .label = Nkuvi ntañu´u
@@ -382,6 +387,9 @@ popup-screen-sharing-never =
     .accesskey = N
 popup-silence-notifications-checkbox = Xita notificaciones { -brand-short-name } ntaka kua'a
 popup-silence-notifications-checkbox-warning = { -brand-short-name } nkutuvi notificaciones de kua'a.
+popup-screen-sharing-block =
+    .label = Kasɨ
+    .accesskey = B
 
 ## WebRTC window or screen share tab switch warning
 
@@ -491,6 +499,11 @@ urlbar-result-action-tabtosearch-web = Nánuku ji { $engine } barra da nuu
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = Nánuku ji { $engine } barra nuu
+# Shows the result of a formula expression being calculated, the last = sign will be shown
+# as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result = = { $result }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -518,6 +531,8 @@ pointerlock-warning-no-domain = Documento ya'a kumi control puntero noo'o. Kuaxi
 
 ## Subframe crash notification
 
+crashed-subframe-learnmore-link =
+    .value = Ka´vi kue´eka
 crashed-subframe-submit =
     .label = Chu´un íchi reporte
     .accesskey = S
@@ -589,6 +604,15 @@ save-to-pocket-button =
 
 ## Customize Toolbar Buttons
 
+# Variables:
+#  $shortcut (String): keyboard shortcut to open settings (only on macOS)
+toolbar-settings-button =
+    .label = Ke´i
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Síne nu kajie'e
+           *[other] Síne nu kajie'e
+        }
 
 ## More items
 
@@ -598,9 +622,13 @@ more-menu-go-offline =
 
 ## EME notification panel
 
+eme-notifications-drm-content-playing-manage-accesskey = M
+eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Password save/update panel
 
+panel-save-update-username = Sɨvu ñɨvu
+panel-save-update-password = Contraseña
 
 ## Add-on removal warning
 

@@ -202,8 +202,6 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = Kune´ya kuaíyo
     .accesskey = K
-cfr-doorhanger-milestone-close-button = Nakasɨ
-    .accesskey = C
 
 ## What’s New Panel Content for Firefox 76
 
@@ -226,6 +224,12 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Ícono de picture-in-picture
 
 ## Protections Dashboard message
 
+cfr-doorhanger-milestone-close-button = Nakasɨ
+    .accesskey = C
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
+
 cfr-whatsnew-protections-header = Protecciones a la vista
 cfr-whatsnew-protections-cta-link = Kune'ya panel de protecciones
 cfr-whatsnew-protections-icon-alt = Icono de escudo
@@ -237,7 +241,7 @@ cfr-whatsnew-better-pdf-header = Nánuku vii jíí PDF
 ## DOH Message
 
 cfr-doorhanger-doh-header = Nánuku DNS ma vatu je encriptado
-cfr-doorhanger-doh-primary-button = OK, Kaka!
+cfr-doorhanger-doh-primary-button-2 = Kuvi
     .accesskey = O
 cfr-doorhanger-doh-secondary-button = Chiyu´u
     .accesskey = D
@@ -266,4 +270,7 @@ cfr-whatsnew-media-keys-button = Sikua´a naja
 
 
 ## What's new: Better bookmarking
+
+
+## What's new: Cross-site cookie tracking
 

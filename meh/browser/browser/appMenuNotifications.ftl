@@ -36,6 +36,9 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = Kuvi
     .buttonaccesskey = O
 appmenu-addon-post-install-message = Kuña´nu nuu da ka̱a̱ chunta´an kuaxin <image data-l10n-name='addon-install-icon'> nuu <image data-l10n-name='addon-menu-icon'> menú.
+appmenu-addon-private-browsing-installed2 =
+    .buttonlabel = Kuvi
+    .buttonaccesskey = O
 appmenu-addon-post-install-incognito-checkbox =
     .label = Kua´a kuvi satiñu extensión nuu pestaña yu´u
     .accesskey = A
