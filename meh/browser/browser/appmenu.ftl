@@ -5,8 +5,6 @@
 
 ## App Menu
 
-appmenuitem-update-banner =
-    .label-update-downloading = Xinuu a jía { -brand-shorter-name }
 appmenuitem-protection-dashboard-title = Panel de protecciones
 appmenuitem-customize-mode =
     .label = Sá´á vii
@@ -19,14 +17,18 @@ appmenuitem-new-private-window =
     .label = Ventana jíía yu´u
 appmenuitem-passwords =
     .label = Da contraseña
-appmenuitem-extensions-and-themes =
-    .label = Complementos ji temas
 appmenuitem-find-in-page =
     .label = Nánuku nu página
 appmenuitem-more-tools =
     .label = Kue'eka ka̱a̱
 appmenuitem-exit =
     .label = Kene
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Kene
+           *[other] Kene
+        }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -45,6 +47,9 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sincronizar ntañu´u
+appmenu-fxa-header =
+    .title = { -fxaccount-brand-name }
+appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenuitem-save-page =
     .label = Chuva´a kua...
 
@@ -90,24 +95,9 @@ appmenu-about =
 appmenu-get-help =
     .label = Nánuku chineída noo´o
     .accesskey = H
-appmenu-help-troubleshooting-info =
-    .label = Tu'un saa kuvi nasa'anu ya'a de ntivu
-    .accesskey = T
-appmenu-help-taskmanager =
-    .label = Tetiñu da tareas
 appmenu-help-feedback-page =
     .label = Chu'un ichí a jíaníninu...
     .accesskey = C
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Nakaji´e ji da nachisó-kúmani na´va...
-    .accesskey = N
-appmenu-help-safe-mode-with-addons =
-    .label = Nakaji´e ji da nachisó-kúmani na´va...
-    .accesskey = N
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -127,3 +117,4 @@ appmenu-help-not-deceptive =
 
 appmenu-taskmanager =
     .label = Tetiñu da tareas
+appmenu-developer-tools-subheader = Da ka̱a̱ ka̱a̱ nánuku

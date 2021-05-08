@@ -18,6 +18,7 @@ login-filter =
 create-login-button = Sá´á jíía iin kajie´e sesión
 fxaccounts-sign-in-text = Ni´i da contraseñas nuu inka ka̱a̱
 fxaccounts-sign-in-button = Kajie´e sesión { -sync-brand-short-name }
+fxaccounts-sign-in-sync-button = Kajie'e sesión sa kuvi sa sincronizar
 fxaccounts-avatar-button =
     .title = Administrar cuenta
 
@@ -280,6 +281,20 @@ about-logins-import-dialog-items-error =
        *[other] <span>Errores:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(no importados)</span>
     }
 about-logins-import-dialog-done = Nsá´á
+about-logins-import-dialog-error-title = Error de importación
 about-logins-import-dialog-error-learn-more = Ka´vi kue´eka
 about-logins-import-dialog-error-try-again = Nasá´á tuku...
 about-logins-import-dialog-error-cancel = Nkuvi
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+
+## Logins import report page
+
