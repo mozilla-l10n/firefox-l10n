@@ -25,6 +25,7 @@ search-input-box =
             [windows] Nani´i nuu opciones
            *[other] Nani´i nuu  configuraciones
         }
+settings-page-title = Da nu ke´i
 managed-notice = Vetiñunu tetiñu ka̱a̱ nánuku.
 category-list =
     .aria-label = Categories
@@ -43,6 +44,8 @@ category-privacy =
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
+category-sync3 =
+    .tooltiptext = { pane-sync-title3 }
 pane-experimental-title = Experimentos de { -brand-short-name }
 category-experimental =
     .tooltiptext = Experimentos de { -brand-short-name }
@@ -612,6 +615,7 @@ sync-currently-syncing-prefs =
         [windows] Da nuu kaji
        *[other] Preferencias
     }
+sync-currently-syncing-settings = Da nu ke´i
 sync-change-options =
     .label = Sama
     .accesskey = C
