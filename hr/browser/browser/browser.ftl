@@ -305,6 +305,7 @@ identity-header-security-with-host =
     .title = Sigurnost veze za { $host }
 identity-connection-not-secure = Veza nije sigurna
 identity-connection-secure = Veza sigurna
+identity-connection-failure = Greška kod spajanja
 identity-connection-internal = Ovo je sigurna { -brand-short-name } stranica.
 identity-connection-file = Ova je stranica spremljena na tvom računalu.
 identity-extension-page = Ova stranica je učitana iz dodatka.
