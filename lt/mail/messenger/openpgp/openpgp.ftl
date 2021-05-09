@@ -470,12 +470,14 @@ delete-key-title = Pašalingti „OpenPGP“ raktą
 delete-external-key-title = Pašalinti išorinį „GnuPG“ raktą
 delete-external-key-description = Ar norite pašalinti šį išorinio „GnuPG“ rakto ID?
 key-in-use-title = Šis „OpenPGP“ raktas šiuo metu naudojamas
-delete-key-in-use-description = Neįmanoma tęsti! Ši tapatybė šiuo metu naudoja raktą, kurį pasirinkote ištrinti. Pasirinkite tapatybei kitą raktą ( arba jokio rakto) ir bandykite dar kartą.
-revoke-key-in-use-description = Neįmanoma tęsti! Ši tapatybė šiuo metu naudoja raktą, kurį pasirinkote ištrinti. Pasirinkite tapatybei kitą raktą ( arba jokio rakto) ir bandykite dar kartą.
+delete-key-in-use-description = Neįmanoma tęsti! Ši tapatybė šiuo metu naudoja raktą, kurį norite ištrinti. Pasirinkite tapatybei kitą raktą ( arba jokio rakto) ir bandykite dar kartą.
+revoke-key-in-use-description = Neįmanoma tęsti! Ši tapatybė šiuo metu naudoja raktą, kurį norite atšaukti. Pasirinkite tapatybei kitą raktą ( arba jokio rakto) ir bandykite dar kartą.
 # Strings used in errorHandling.jsm
 key-error-key-spec-not-found = El. pašto adreso „{ $keySpec }“ nėra jūsų raktų sąraše.
 key-error-key-id-not-found = Nurodyto rakto ID „{ $keySpec }“ nėrai jūsų raktų saraše.
 key-error-not-accepted-as-personal = Jūs nepatvirtinote, kad raktas, kurio ID „{ $keySpec }“, yra jūsų asmeninis raktas.
+# Strings used in enigmailKeyManager.js & windows.jsm
+need-online = Pasirinkta funkcija negalima neprisijungus prie tinklo. Prisijunkite prie interneto ir bandykite dar kartą.
 # Strings used in keyRing.jsm & keyLookupHelper.jsm
 no-key-found = Nepavyko rasti jokių raktų, atitinkančių nurodytus paieškos kriterijus.
 # Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
@@ -485,6 +487,9 @@ fail-cancel = Klaida - rakto gavimą atšaukė vartotojas
 not-first-block = Klaida - pirmasis „OpenPGP“ blokas nėra viešojo rakto blokas
 import-key-confirm = Ar importuoti į pranešimą įdėtą(-us) viešąjį raktą(-us)?
 fail-key-import = Klaida - nepavyko importuoti rakto
+file-write-failed = Nepavyko įrašyti į failą { $output }
+no-pgp-block = Klaida - nerastas galiojantis apsaugotas „OpenPGP“ duomenų blokas
+confirm-permissive-import = Nepavyko importuoti. Raktas, kurį bandote importuoti, gali būti sugadintas arba naudoja nežinomus atributus. Galima pabandyti importuoti teisingas dalis, bet dėl to gali būti importuojami neišsamūs ar netinkami naudojimui raktai.
 # Strings used in trust.jsm
 key-valid-unknown = nežinomas
 key-valid-invalid = netinkamas
@@ -505,6 +510,7 @@ passphrase-prompt = Įveskite rakto „{ $key }“ slaptažodį.
 file-to-big-to-import = Šis failas per didelis. Neimportuokite didelių raktų rinkinių vienu metu.
 # Strings used in enigmailKeygen.js
 save-revoke-cert-as = Sukurti ir išsaugoti atšaukimo pažymėjimą
+revoke-cert-ok = Atšąukimo sertifikatas sėkmingai sukurtas. Galite jį naudoti norėdami anuliuoti savo viešąjį raktą, pvz. jei pamestumėte slaptą raktą.
 revoke-cert-failed = Nepavyko sukurti atšaukimo pažymėjimo.
 gen-going = Raktai jau generuojami!
 expiry-too-short = Jūsų raktas turi galioti mažiausiai vieną dieną.
@@ -528,6 +534,7 @@ msg-compose-button-send = Išsiųsti laišką
 msg-compose-details-button-label = Išsamiau…
 msg-compose-details-button-access-key = D
 send-aborted = Siuntimas nutrauktas.
+key-not-trusted = Nepakankamai pasitikima raktu „{ $key }“
 key-not-found = Raktas „{ $key }“ nerastas
 key-revoked = Raktas „{ $key }“ buvo atšauktas
 key-expired = Raktas „{ $key }“ nebegalioja
@@ -539,7 +546,16 @@ sending-news =
     Šifruota siuntimo operacija nutraukta.
     Šio pranešimo negalima užšifruoti, nes jį gaus ir naujienų grupės. Išsiųskite pranešimą iš naujo, be šifravimo.
 save-attachment-header = Išsaugoti iššifruotą priedą
+no-temp-dir =
+    Nepavyko rasti laikino katalogo, į kurį galėtumėte rašyti.
+    Tinkamia nustatykite TEMP aplinkos kintamąjį.
 possibly-pgp-mime = Galbūt tai PGP/MIME šifruotas arba pasirašytas pranešimas; patikrinimui naudokite funkciją „Iššifruoti / patvirtinti“
+cannot-send-sig-because-no-own-key = Negalima pasirašyti šio pranešimo skaitmeniniu būdu, nes raktui „<{ $key }>“ dar nesukonfigūravote abipusio šifravimo
+cannot-send-enc-because-no-own-key = Negalima užšifruoti ir išsiųsti šio pranešimo, nes raktui „<{ $key }>“ dar nesukonfigūravote abipusio šifravimo
+# Strings used in decryption.jsm
+do-import-multiple =
+    Importuoti šiuos raktus?
+    { $key }
 do-import-one = Importuoti „{ $name }“ ({ $id })?
 cant-import = Importuojant viešąjį raktą įvyko klaida
 unverified-reply = Įtraukta pranešimo dalis (atsakymas) tikriausiai buvo modifikuota
