@@ -402,6 +402,16 @@ import-from-clip = Ar tikrai norite importuoti raktą (-us) iš mainų srities?
 import-from-url = Atsisiųsti viešąjį raktą iš šio URL:
 copy-to-clipbrd-failed = Nepavyko nukopijuoti pasirinkto (-ų) rakto (-ų) į mainų sritį.
 copy-to-clipbrd-ok = Raktas (-ai) nukopijuotas (-i) į mainų sritį
+delete-secret-key =
+    ĮSPĖJIMAS: ketinate ištrinti slaptą raktą!
+    
+    Kai ištrinsite slaptą raktą, nebegalėsite iššifruoti jokių šiam raktui šifruotų pranešimų, taip pat negalėsite jo atšaukti.
+    
+    Ar tikrai norite ištrinti ABU, slaptąjį ir viešąjį „{ $userId }“ raktus?
+delete-mix =
+    ĮSPĖJIMAS: ketinate ištrinti slaptus raktus!
+    Kai ištrinsite slaptą raktą, nebegalėsite iššifruoti jokių šiam raktui užšifruotų pranešimų.
+    Ar tikrai norite ištrinti pasirinktus ABU, slaptą ir viešą, raktus?
 delete-pub-key =
     Ar norite ištrinti viešąjį raktą
     „{ $userId }“?
