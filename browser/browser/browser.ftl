@@ -305,6 +305,7 @@ identity-header-security-with-host =
     .title = Zabezpečenie pripojenia k { $host }
 identity-connection-not-secure = Pripojenie nie je zabezpečené
 identity-connection-secure = Pripojenie je zabezpečené
+identity-connection-failure = Chyba spojenia
 identity-connection-internal = Toto je bezpečná stránka prehliadača { -brand-short-name }
 identity-connection-file = Táto stránka je uložená vo vašom počítači.
 identity-extension-page = Táto stránka je načítaná z doplnku.

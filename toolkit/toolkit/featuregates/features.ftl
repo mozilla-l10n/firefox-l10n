@@ -64,6 +64,10 @@ experimental-features-devtools-serviceworker-debugger-support-description = Povo
 experimental-features-webrtc-global-mute-toggles =
     .label = Prepínač globálneho stlmenia WebRTC
 experimental-features-webrtc-global-mute-toggles-description = Pridá do indikátora globálneho zdieľania WebRTC ovládacie prvky, ktoré umožňujú používateľom globálne stlmiť kanál mikrofónu a kamery.
+# Win32k Lockdown
+experimental-features-win32k-lockdown =
+    .label = Zakázať Win32k
+experimental-features-win32k-lockdown-description = Zakáže použitie rozhraní API Win32k na kartách prehliadača. Poskytuje to zvýšenie bezpečnosti, ale v súčasnosti môže spôsobovať nestabilné správanie (len pre Windows).
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
