@@ -15,6 +15,7 @@ policy-AllowedDomainsForApps = Kejikib'äx taq ominyos ya'on q'ij chi ke richin 
 policy-AppAutoUpdate = Ketzij o kechup ri ruyonil kik'exoj taq chokoy.
 policy-AppUpdateURL = Tiya' jun ichinan URL richin nik'ex ri chokoy.
 policy-Authentication = Tib'an runuk'ulem ri chijun jikib'an pa taq ajk'amaya'l ruxaq nikiya' q'ij.
+policy-AutoLaunchProtocolsFromOrigins = Ke'ajikib'a' jun rucholajem rub'eyal nisamäj, ri ütz ye'okisäx pa cholajin taq ruxe'el, akuchi' man niya' ta rutzijol chi re ri okisanel.
 policy-BackgroundAppUpdate2 = Titzij o tichup ri ruk'wzoj pa ruka'n k'ojlib'äl.
 policy-BlockAboutAddons = Tiq'at rokem ri Runuk'samajel Chokoy (about:addons).
 policy-BlockAboutConfig = Tiq'at okem pa ri about:config ruxaq.
