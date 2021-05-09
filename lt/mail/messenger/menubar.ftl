@@ -46,3 +46,18 @@ toolbar-delete-button =
 toolbar-undelete-button =
     .label = Atkurti
     .tooltiptext = Atkurti pasirinktą pranešimą
+
+## View / Layout
+
+mail-uidensity-label =
+    .label = Išdėstymas
+    .accesskey = I
+mail-uidensity-compact =
+    .label = Kompaktiškas
+    .accesskey = K
+mail-uidensity-normal =
+    .label = Normalus
+    .accesskey = N
+mail-uidensity-touch =
+    .label = Lietimui
+    .accesskey = L
