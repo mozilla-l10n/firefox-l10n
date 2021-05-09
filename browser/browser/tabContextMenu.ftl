@@ -91,7 +91,7 @@ move-tab =
     .accesskey = v
 tab-context-share-url =
     .label = Compartir
-    .accesskey = h
+    .accesskey = m
 tab-context-share-more =
     .label = Más…
 
