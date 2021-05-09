@@ -373,7 +373,11 @@ expiry-keys-expire-soon =
     Rekomenduojame susikurti naujus raktus ir atitinkamai sukonfigūruoti paskyras.
 expiry-key-missing-owner-trust =
     Jūsų slaptas raktas { $desc } nepakankamai patikimas.
-    Mes rekomenduojame pagrindinėse savybėse parinktį „Jūs pasitikite sertifikatais“ nustatyti kaip „Visiškai“.
+    Mes rekomenduojame pagrindinėse savybėse parinktį „Jūs pasitikite sertifikatais“ nustatyti kaip „Visiškas“.
+expiry-keys-missing-owner-trust =
+    Šie slapti raktai nepakankamai patikimo.
+    { $desc }.
+    Mes rekomenduojame pagrindinėse savybėse parinktį „Jūs pasitikite sertifikatais“ nustatyti kaip „Visiškas“.
 expiry-open-key-manager = Atverti „OpenPGP Key Manager“
 expiry-open-key-properties = Rakto savybės
 # Strings filters.jsm
@@ -411,10 +415,12 @@ ascii-armor-file = ASCII apsaugoti failai (* .asc)
 no-key-selected = Norėdami atlikti pasirinktą operaciją, turėtumėte pasirinkti bent vieną raktą
 export-to-file = Eksportuoti viešąjį raktą į failą
 export-keypair-to-file = Eksportuoti slaptą ir viešąjį raktą į failą
+export-secret-key = Ar norite įtraukti slaptąjį raktą į išsaugojamą „OpenPGP“ rakto failą?
 save-keys-ok = Raktai išsaugoti
 save-keys-failed = Nepavyko išsaugoti raktų
 default-pub-key-filename = Eksportuoti viešieji raktai
 default-pub-sec-key-filename = Slaptų raktų atsarginės kopijos
+refresh-key-warn = Įspėjimas: atsižvelgiant į raktų skaičių ir ryšio greitį, visų raktų atnaujinimas gali būti gana ilgas procesas!
 preview-failed = Nepavyko nuskaityti viešojo rakto failo.
 general-error = Klaida: { $reason }
 dlg-button-delete = Š&alinti
@@ -430,9 +436,15 @@ key-ring-pub-key-revoked = Raktas { $userId } (rakto ID { $keyId }) yra atšaukt
 key-ring-pub-key-expired = Rakto „{ $userId }“ (rakto ID „{ $keyId }“) galiojimas pasibaigęs.
 key-ring-key-disabled = Raktas „{ $userId }“ (rakto ID „{ $keyId }“) išjungtas; jo negalima naudoti.
 key-ring-key-invalid = Raktas { $userId } (rakto ID { $keyId }) neteisingas. Patikrinkite jį.
-key-ring-key-not-trusted = Raktas { $userId } (rakto ID { $keyId }) nėra pakankamai patikimas. Jei norite jį naudoti pasirašydami, nustatykite šio rakto pasitikėjimo lygį „didžiausias“.
+key-ring-key-not-trusted = Raktas { $userId } (rakto ID { $keyId }) nėra pakankamai patikimas. Jei norite jį naudoti pasirašydami, nustatykite šio rakto pasitikėjimo lygį „Visiškas“.
 key-ring-no-secret-key = Panašu, kad jūs neturite slapto { $userId } (rakto ID { $keyId }) rakto, todėl negalite naudoti šio rakto pasirašymui.
 key-ring-pub-key-not-for-signing = Raktas { $userId } (rakto ID { $keyId }) negali būti naudojamas pasirašymuit.
+key-ring-pub-key-not-for-encryption = Raktas { $userId } (rakto ID { $keyId }) negali būti naudojamas užšifravimui.
+key-ring-sign-sub-keys-revoked = Visi rakto { $userId } (rakto ID { $keyId }) pasirašymo raktai atšaukiami.
+key-ring-sign-sub-keys-expired = Visi rakto { $userId } (rakto ID { $keyId }) pasirašymo raktai nebegalioja.
+key-ring-sign-sub-keys-unusable = Visi rakto { $userId } (rakto ID { $keyId }) pasirašymo raktai yra atšaukti, jų galiojimo laikas pasibaigęs arba jie yra kitaip netinkami naudoti.
+key-ring-enc-sub-keys-revoked = Visi rakto { $userId } (rakto ID { $keyId }) šifravimo raktai atšaukiami.
+key-ring-enc-sub-keys-expired = Visi rakto { $userId } (rakto ID { $keyId }) šifravimo raktai nebegalioja.
 key-ring-enc-sub-keys-unusable = Visi { $userId } rakto  "{ $keyId }“ šifravimo raktai arba atšaukti, arba nebegalioja, arba jie kitaip netinkami naudoti.
 # Strings in gnupg-keylist.jsm
 keyring-photo = Nuotrauka
@@ -445,6 +457,10 @@ revoke-key-question =
     Jūs nebegalėsite pasirašyti šiou raktu, o kai atšaukimo informacija bus išplatinta, kiti nebegalės šifruoti šiuo raktu. Bet vis dar galėsite naudoti raktą iššifruoti seniems pranešimams.
     Ar norite testi?
 #   $keyId (String) - the id of the key being revoked
+revoke-key-not-present =
+    Jūs neturite rakto (0x{ $keyId }), kuris atitiktų šį atšaukimo sertifikatą!
+    Jei pametėte raktą, prieš importuodami atšaukimo sertifikatą turite šį raktą importuoti (pvz. iš raktų serverio).
+#   $keyId (String) - the id of the key being revoked
 revoke-key-already-revoked = Raktas 0x{ $keyId } jau atšauktas.
 key-man-button-revoke-key = &Atšaukti raktą
 openpgp-key-revoke-success = Raktas sėkmingai atšauktas.
@@ -454,6 +470,8 @@ delete-key-title = Pašalingti „OpenPGP“ raktą
 delete-external-key-title = Pašalinti išorinį „GnuPG“ raktą
 delete-external-key-description = Ar norite pašalinti šį išorinio „GnuPG“ rakto ID?
 key-in-use-title = Šis „OpenPGP“ raktas šiuo metu naudojamas
+delete-key-in-use-description = Neįmanoma tęsti! Ši tapatybė šiuo metu naudoja raktą, kurį pasirinkote ištrinti. Pasirinkite tapatybei kitą raktą ( arba jokio rakto) ir bandykite dar kartą.
+revoke-key-in-use-description = Neįmanoma tęsti! Ši tapatybė šiuo metu naudoja raktą, kurį pasirinkote ištrinti. Pasirinkite tapatybei kitą raktą ( arba jokio rakto) ir bandykite dar kartą.
 # Strings used in errorHandling.jsm
 key-error-key-spec-not-found = El. pašto adreso „{ $keySpec }“ nėra jūsų raktų sąraše.
 key-error-key-id-not-found = Nurodyto rakto ID „{ $keySpec }“ nėrai jūsų raktų saraše.
