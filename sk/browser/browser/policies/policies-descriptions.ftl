@@ -15,6 +15,7 @@ policy-AllowedDomainsForApps = Definuje domény, ktoré majú povolený prístup
 policy-AppAutoUpdate = Zapne alebo vypne automatické aktualizácie aplikácie.
 policy-AppUpdateURL = Nastaví vlastnú URL adresu pre aktualizáciu aplikácie.
 policy-Authentication = Nakonfiguruje integrovanú autentifikáciu webových stránok, ktoré ju podporujú.
+policy-AutoLaunchProtocolsFromOrigins = Definuje zoznam externých protokolov, ktoré môžu byť použité z uvedených zdrojov bez vyzvania používateľa.
 policy-BackgroundAppUpdate2 = Povolí alebo zakáže aktualizácie na pozadí.
 policy-BlockAboutAddons = Zablokuje prístup ku správcovi doplnkov (about:addons).
 policy-BlockAboutConfig = Zablokuje prístup na stránku about:config.
