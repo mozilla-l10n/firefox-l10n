@@ -385,6 +385,9 @@ filter-folder-required = Reikia nurodyti aplanką.
 filter-term-pgpencrypted-label = Šifruotas „OpenPGP“
 filter-key-required = Turite pasirinkti gavėjo raktą.
 filter-key-not-found = Nepavyko rasti „{ $desc }“ šifravimo rakto.
+filter-warn-key-not-secret =
+    Įspėjimas - filtravimo veiksmas „Šifruoti į raktą“ pakeičia gavėjus.
+    Jei neturite slapto „{ $desc }“ rakto, nebegalėsite skaityti el. laiškų.
 # Strings filtersWrapper.jsm
 filter-decrypt-move-label = Iššifruoti visam laikui („OpenPGP“)
 filter-decrypt-copy-label = Sukurti iššifruotą kopiją („OpenPGP“)
@@ -561,12 +564,18 @@ key-revoked = Raktas „{ $key }“ buvo atšauktas
 key-expired = Raktas „{ $key }“ nebegalioja
 msg-compose-internal-error = Įvyko vidinė klaida.
 keys-to-export = Pasirinkite „OpenPGP“ raktą įterpimui
+msg-compose-partially-encrypted-inlinePGP =
+    Pranešime, į kurį atsakote, buvo tiek nešifruotų, tiek ir užšifruotų dalių. Jei siuntėjas iš pradžių negalėjo iššifruoti kai kurių pranešimų dalių, galite nutekėti konfidenciali informacij, kurios siuntėjas negalėjo pats iššifruoti.
+    Apsvarstykite galimybę pašalinti visą cituojamą tekstą iš atsakymo šiam siuntėjui.
 msg-compose-cannot-save-draft = Klaida išsaugant juodraštį
 msg-compose-partially-encrypted-short = Nenutekinkite neskelbtinos informacijos - tik dalis pranešimo užšifruota.
+quoted-printable-warn =
+    Pranešimų siuntimui nustatėte 'quoted-printable'  kodavimą. Todėl jūsų pranešimas gali būti neteisingai iššifruotas ir (arba) patvirtintas.
+    Gal norite dabar išjungti 'quoted-printable' pranešimų siuntimą?
 minimal-line-wrapping =
     Jūs nustatėte { $width } simbolių eilutęs ilgį. Norint teisingai užšifruoti ir (arba) pasirašyti, šis ilgis turi būti bent 68.
     Ar norite pakeisti eilučių ilgį į 68 simbolius?
-sending-hidden-rcpt = Nematomos kopijos (BCC) gavėjams užšifruotas pranešimas negali būti siunčiamas. Norėdami išsiųsti šį užšifruotą pranešimą, pašalinkite BCC gavėjus arba perkelkite juos į lauką CC.
+sending-hidden-rcpt = Nematomos kopijos (BCC) gavėjams užšifruotas pranešimas negali būti siunčiamas. Norėdami išsiųsti šį užšifruotą pranešimą, pašalinkite nematomų kopijų gavėjus arba perkelkite juos į lauką „Kopija“.
 sending-news =
     Šifruota siuntimo operacija nutraukta.
     Šio pranešimo negalima užšifruoti, nes jį gaus ir naujienų grupės. Išsiųskite pranešimą iš naujo, be šifravimo.
