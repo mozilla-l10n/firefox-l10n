@@ -302,6 +302,7 @@ identity-header-security-with-host =
     .title = Rujikomal Okem richin { $host }
 identity-connection-not-secure = Man ütz ta okem
 identity-connection-secure = Rujikomal okem
+identity-connection-failure = Xsach ri okem
 identity-connection-internal = Re re' ütz chi { -brand-short-name } ruxaq.
 identity-connection-file = Re ruxaq k'amaya'l re' yakon pan akematz'ib'.
 identity-extension-page = Re jun ruxaq k'amaya'l re' nisamajib'ëx pa jun k'amal.
