@@ -90,8 +90,8 @@ update-in-progress-ok-button = &Atsisakyti
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Tęsti
-account-button = Paskyros nuostatos
 addons-button = Priedai ir grafiniai apvalkalai
+account-button = Paskyros nuostatos
 open-addons-sidebar-button = Priedai ir grafiniai apvalkalai
 
 ## OS Authentication dialog
@@ -326,6 +326,8 @@ quoted-text-color =
     .accesskey = C
 search-input =
     .placeholder = Ieškoti
+search-handler-table =
+    .placeholder = Filtruoti pagal turinio tipus ir veiksmus
 type-column-label =
     .label = Turinio tipas
     .accesskey = t
