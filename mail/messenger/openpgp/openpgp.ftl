@@ -563,9 +563,17 @@ msg-compose-internal-error = Įvyko vidinė klaida.
 keys-to-export = Pasirinkite „OpenPGP“ raktą įterpimui
 msg-compose-cannot-save-draft = Klaida išsaugant juodraštį
 msg-compose-partially-encrypted-short = Nenutekinkite neskelbtinos informacijos - tik dalis pranešimo užšifruota.
+minimal-line-wrapping =
+    Jūs nustatėte { $width } simbolių eilutęs ilgį. Norint teisingai užšifruoti ir (arba) pasirašyti, šis ilgis turi būti bent 68.
+    Ar norite pakeisti eilučių ilgį į 68 simbolius?
+sending-hidden-rcpt = Nematomos kopijos (BCC) gavėjams užšifruotas pranešimas negali būti siunčiamas. Norėdami išsiųsti šį užšifruotą pranešimą, pašalinkite BCC gavėjus arba perkelkite juos į lauką CC.
 sending-news =
     Šifruota siuntimo operacija nutraukta.
     Šio pranešimo negalima užšifruoti, nes jį gaus ir naujienų grupės. Išsiųskite pranešimą iš naujo, be šifravimo.
+send-to-news-warning =
+    Įspėjimas: ruošiatės siųsti užšifruotą pranešimą naujienų grupei.
+    Tai nerekomenduojama, nes turi prasmę tik tuomet, kai visi grupės nariai galės iššifruoti šį pranešimą, todėl pranešimą reikia užšifruoti visų grupės dalyvių raktais. Siųskite šį pranešimą tik tada, jei tiksliai žinote, ką darote.
+    Tęsti?
 save-attachment-header = Išsaugoti iššifruotą priedą
 no-temp-dir =
     Nepavyko rasti laikino katalogo, į kurį galėtumėte rašyti.
@@ -583,7 +591,12 @@ unverified-reply = Įtraukta pranešimo dalis (atsakymas) tikriausiai buvo modif
 key-in-message-body = Pranešimo tekste rastas raktas. Norėdami jį importuoti, pasirinkite „Importuoti raktą“
 sig-mismatch = Klaida - neatitinka parašas
 invalid-email = Klaida - netinkamas(-i) elektroninio pašto adresas (-ai)
+attachment-pgp-key =
+    Panašu, kad atidaromas priedas „{ $name }“ yra „OpenPGP“ rakto failas.
+    Spustelėkite „Importuoti“, jei norite importuoti esančius raktus, arba „Žiūrėti“, jei norite peržiūrėti failo turinį naršyklės lange
 dlg-button-view = &Peržiūrėti
+# Strings used in enigmailMsgHdrViewOverlay.js
+decrypted-msg-with-format-error = Iššifruotas pranešimas ( tai atkurtas sugadintas PGP el. pašto pranešimas, kurį tikriausiai sugadino senas „Exchange“ serveris. Rezultatas gali būti netikslus ar neįskaitomas)
 # Strings used in encryption.jsm
 not-required = Klaida - šifruoti nereikia
 # Strings used in windows.jsm
