@@ -25,25 +25,6 @@ experimental-features-web-api-inputmode =
 experimental-features-web-api-inputmode-description = Implementeringa vår av <a data-l10n-name="mdn-inputmode">inputmode</a> global attributt er oppdatert i samsvar med <a data-l10n-name="whatwg">WHATWG-spesifikasjonen</a>, men vi må enno gjere andre endringar, som å gjere det tilgjengeleg på redigerbart innhald. Sjå <a data-l10n-name="bugzilla">bug 1205133</a> for meir informasjon.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
-experimental-features-web-api-link-preload =
-    .label = Web API: <link rel="preload">
-# Do not translate "rel", "preload" or "link" here, as they are all HTML spec
-# values that do not get translated.
-experimental-features-web-api-link-preload-description = <a data-l10n-name="rel">rel</a>-attributtet med verdien <code>«preload»</code> på eit <a data-l10n-name="link">&lt;link&gt;</a>-elementet er meint å bidra til å gi ytingsgevinstar ved å la deg laste ned ressursar tidlegare i livssyklusen for sidene, sikre at dei er tilgjengelege tidlegare og at det er mindre sannsynleg at dei blokkerer sideattgiving. Les <a data-l10n-name="readmore">«Preloading content with <code>rel="preload"</code>»</a> eller sjå <a data-l10n-name="bugzilla">bug 1583604</a> for meir informasjon.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-css-focus-visible =
-    .label = CSS: Pseudo-class: :focus-visible
-experimental-features-css-focus-visible-description = Tillèt at focus-stilar blir bukte på element som knappar og skjemakontrollar, berre når dei er fokuserte ved hjelp av tastaturet (t.d. når du brukar tabulator-tasten for å hoppe mellom element), og ikkje når dei er fokuserte ved hjelp av ei mus eller anna peikeeining. Sjå <a data-l10n-name="bugzilla">bug 1617600</a> for meir informasjon.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-web-api-beforeinput =
-    .label = Web API: beforeinput Event
-# The terms "beforeinput", "input", "textarea", and "contenteditable" are technical terms
-# and shouldn't be translated.
-experimental-features-web-api-beforeinput-description = Den globale <a data-l10n-name="mdn-beforeinput">beforeinput</a>-hendinga vert fyrt av på <a data-l10n-name="mdn-input">&lt;input&gt;</a>- og <a data-l10n-name="mdn-textarea">&lt;textarea&gt;</a>-element, eller eit kva som helst element dersom <a data-l10n-name="mdn-contenteditable">contenteditable</a>-attributtet er slått på, rett før verdien til elementet vert endra. Hendinga gjer at nettappar kan overstyre standardåtferda til nettlesaren for brukarinteraksjon, til dømes kan nettappar avbryte brukarinndata berre for spesifikke teikn eller kan endre innliming av styla tekst berre med godkjende stilar.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
 experimental-features-css-constructable-stylesheets-description = Tillegginga av ein konstruktør til <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a>-grensesnittet i tillegg til ei rekkje relaterte endringar gjer det mogleg å lage nye stilsett direkte, utan å måtte leggje settet til HTML. Dette gjer det mykje enklare å lage gjenbruksstilsett for bruk med <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. Sjå <a data-l10n-name="bugzilla">bug 1520690</a> for meir informasjon.
@@ -69,9 +50,6 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Infoka
 experimental-features-abouthome-startup-cache =
     .label = about:home oppstartshurtigbuffer
 experimental-features-abouthome-startup-cache-description = Ein hurtigbuffer for det første about:home-dokumentet som er lasta som standard ved oppstart. Føremålet med hurtigbufferen er å forbetre oppstartytinga.
-experimental-features-print-preview-tab-modal =
-    .label = Omkonstruksjon av førehandsvising
-experimental-features-print-preview-tab-modal-description = Introduserer den omkonstruerte førehandsvisinga og gjer førehandsvising tilgjengeleg på macOS. Dette introduserer potensielle feil og inkluderer ikkje alle utskrifts-relaterte innstillingar. For å få tilgang til allet alla utskriftsrelaterte innnstillingar, vel «Skriv ut ved hjelp av systemdialogvindauget…» frå utskrifstspanelet.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
@@ -86,6 +64,9 @@ experimental-features-devtools-serviceworker-debugger-support-description = Akti
 experimental-features-webrtc-global-mute-toggles =
     .label = Global WebRTC dempekontroll
 experimental-features-webrtc-global-mute-toggles-description = Legg til kontrollar i WebRTCs globale delingsvarsel som brukarar kan nytte til å globalt dempe eigen mikrofon og eigne kamerakjelder.
+# Win32k Lockdown
+experimental-features-win32k-lockdown =
+    .label = Win32k-låsing
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
