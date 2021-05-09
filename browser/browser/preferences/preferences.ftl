@@ -1147,7 +1147,7 @@ collection-backlogged-crash-reports =
     .label = Povoliť prehliadaču { -brand-short-name } odosielať vo vašom mene správy o zlyhaní
     .accesskey = z
 collection-backlogged-crash-reports-link = Ďalšie informácie
-collection-backlogged-crash-reports-with-link = Povoliť { -brand-short-name(case: "dat") } posielať vo vašom mene správy o zlyhaní <a data-l10n-name="crash-reports-link">Ďalšie informácie</a>
+collection-backlogged-crash-reports-with-link = Povoliť { -brand-short-name(case: "dat") } odosielať vo vašom mene správy o zlyhaní <a data-l10n-name="crash-reports-link">Ďalšie informácie</a>
     .accesskey = P
 
 ## Privacy Section - Security
