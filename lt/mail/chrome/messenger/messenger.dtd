@@ -346,7 +346,7 @@
 <!ENTITY archiveMsgCmd.label "Archyvuoti">
 <!ENTITY archiveMsgCmd.accesskey "c">
 <!ENTITY archiveMsgCmd.key "a">
-<!ENTITY cancelNewsMsgCmd.label "Atsisakyti laiško">
+<!ENTITY cancelNewsMsgCmd.label "Atšaukti laišką">
 <!ENTITY cancelNewsMsgCmd.accesskey "A">
 <!ENTITY replyMsgCmd.label "Atsakyti">
 <!ENTITY replyMsgCmd.accesskey "A">
@@ -719,7 +719,6 @@
 <!ENTITY locationColumn.label "Vieta">
 <!ENTITY idColumn.label "Gavimo eilė">
 <!ENTITY attachmentColumn.label "Priedai">
-
 <!ENTITY deleteColumn.label "Pašalinti">
 
 <!-- Thread Pane Tooltips -->
@@ -745,7 +744,6 @@
 <!ENTITY locationColumn2.tooltip "Rikiuoti pagal vietą">
 <!ENTITY idColumn2.tooltip "Rikiuoti pagal gavimo eilę">
 <!ENTITY attachmentColumn2.tooltip "Rikiuoti pagal priedus">
-
 <!ENTITY deleteColumn.tooltip "Pašalinti laišką">
 
 <!-- Thread Pane Context Menu -->

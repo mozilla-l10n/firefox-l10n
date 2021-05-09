@@ -65,3 +65,20 @@ appmenu-help-exit-troubleshoot-mode =
     .label = Išjungti trikčių šalinimo veikseną
 appmenu-help-more-troubleshooting-info =
     .label = Daugiau informacijos apie trikčių šalinimą
+
+## Action Button Context Menu
+
+toolbar-context-menu-manage-extension =
+    .label = Tvarkyti priedą
+    .accesskey = T
+toolbar-context-menu-remove-extension =
+    .label = Pašalinti priedą
+    .accesskey = P
+
+## Add-on removal warning
+
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = Pašalinti „{ $name }“?
+addon-removal-confirmation-button = Pašalinti
+addon-removal-confirmation-message = Pašalinti „{ $name }“ ir jo konfigūraciją bei duomenis iš „{ -brand-short-name }“?
