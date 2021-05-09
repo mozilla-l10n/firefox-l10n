@@ -420,11 +420,19 @@ key-ring-key-invalid = Raktas { $userId } (rakto ID { $keyId }) neteisingas. Pat
 key-ring-key-not-trusted = Raktas { $userId } (rakto ID { $keyId }) nėra pakankamai patikimas. Jei norite jį naudoti pasirašydami, nustatykite šio rakto pasitikėjimo lygį „didžiausias“.
 key-ring-no-secret-key = Panašu, kad jūs neturite slapto { $userId } (rakto ID { $keyId }) rakto, todėl negalite naudoti šio rakto pasirašymui.
 key-ring-pub-key-not-for-signing = Raktas { $userId } (rakto ID { $keyId }) negali būti naudojamas pasirašymuit.
+key-ring-enc-sub-keys-unusable = Visi { $userId } rakto  "{ $keyId }“ šifravimo raktai arba atšaukti, arba nebegalioja, arba jie kitaip netinkami naudoti.
 # Strings in gnupg-keylist.jsm
 keyring-photo = Nuotrauka
 user-att-photo = Vartotojo atributas (JPEG vaizdas)
 # Strings in key.jsm
 already-revoked = Šis raktas atšauktas.
+#   $identity (String) - the id and associated user identity of the key being revoked
+revoke-key-question =
+    Ketinate atšaukti raktą „{ $identity }“.
+    Jūs nebegalėsite pasirašyti šiou raktu, o kai atšaukimo informacija bus išplatinta, kiti nebegalės šifruoti šiuo raktu. Bet vis dar galėsite naudoti raktą iššifruoti seniems pranešimams.
+    Ar norite testi?
+#   $keyId (String) - the id of the key being revoked
+revoke-key-already-revoked = Raktas 0x{ $keyId } jau atšauktas.
 key-man-button-revoke-key = &Atšaukti raktą
 openpgp-key-revoke-success = Raktas sėkmingai atšauktas.
 # Strings in keyRing.jsm & decryption.jsm
@@ -443,6 +451,7 @@ no-key-found = Nepavyko rasti jokių raktų, atitinkančių nurodytus paieškos 
 fail-key-extract = Klaida - nepavyko išgauti rakto
 # Strings used in keyRing.jsm
 fail-cancel = Klaida - rakto gavimą atšaukė vartotojas
+not-first-block = Klaida - pirmasis „OpenPGP“ blokas nėra viešojo rakto blokas
 import-key-confirm = Ar importuoti į pranešimą įdėtą(-us) viešąjį raktą(-us)?
 fail-key-import = Klaida - nepavyko importuoti rakto
 # Strings used in trust.jsm
@@ -479,6 +488,9 @@ key-man-button-generate-key-continue = &Tęsti raktų generavimą
 
 failed-decrypt = Klaida - nepavyko iššifruoti
 fix-broken-exchange-msg-failed = Nepavyko ištaisyti šio pranešimo.
+decrypt-ok-no-sig =
+    Įspėjimas
+    Iššifruoti pavyko, tačiau parašo nepavyko teisingai patikrinti.
 msg-ovl-button-cont-anyway = &Tęsti bet kokiu atveju
 # Strings used in enigmailMsgComposeOverlay.js
 msg-compose-button-send = Išsiųsti laišką
@@ -492,7 +504,11 @@ msg-compose-internal-error = Įvyko vidinė klaida.
 keys-to-export = Pasirinkite „OpenPGP“ raktą įterpimui
 msg-compose-cannot-save-draft = Klaida išsaugant juodraštį
 msg-compose-partially-encrypted-short = Nenutekinkite neskelbtinos informacijos - tik dalis pranešimo užšifruota.
+sending-news =
+    Šifruota siuntimo operacija nutraukta.
+    Šio pranešimo negalima užšifruoti, nes jį gaus ir naujienų grupės. Išsiųskite pranešimą iš naujo, be šifravimo.
 save-attachment-header = Išsaugoti iššifruotą priedą
+possibly-pgp-mime = Galbūt tai PGP/MIME šifruotas arba pasirašytas pranešimas; patikrinimui naudokite funkciją „Iššifruoti / patvirtinti“
 do-import-one = Importuoti „{ $name }“ ({ $id })?
 cant-import = Importuojant viešąjį raktą įvyko klaida
 unverified-reply = Įtraukta pranešimo dalis (atsakymas) tikriausiai buvo modifikuota
@@ -524,5 +540,6 @@ dlg-button-retry = Kartoti
 dlg-button-skip = &Praleisti
 # Strings used in enigmailCommon.js
 enig-error = „OpenPGP“ klaida
+# Strings used in enigmailMsgBox.js
 enig-alert-title =
     .title = „OpenPGP“ įspėjimas
