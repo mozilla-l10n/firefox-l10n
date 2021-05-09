@@ -4,3 +4,6 @@
 
 add-on-options-button =
     .title = Indstillinger for tilføjelser
+atn-addons-heading-search-input =
+    .placeholder = Søg på addons.thunderbird.net
+sidebar-preferences-button-title = { -brand-short-name }-indstillinger
