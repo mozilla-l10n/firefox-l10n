@@ -356,6 +356,13 @@ keyserver-error-unavailable = Raktų serveris nepasiekiamas.
 keyserver-error-security-error = Raktų serveris nepalaiko šifruotos prieigos.
 keyserver-error-certificate-error = Raktų serverio sertifikatas negalioja.
 keyserver-error-unsupported = Raktų serveris nepalaikomas.
+# Strings in mimeWkdHandler.jsm
+wkd-message-body-req =
+    Jūsų el. pašto paslaugų teikėjas apdorojo jūsų užklausą įkelti viešąjį raktą į „OpenPGP“ žiniatinklio raktų katalogą.
+    Patvirtinkite ir baigsite viešojo rakto paskelbimą.
+wkd-message-body-process =
+    Šis el. laiškas susijęs su automatiniu viešų „OpenPGP“ raktų įkėlimu į žiniatinklio raktų katalogą.
+    Jums nereikia atlikti jokių rankinių veiksmų.
 # Strings in persistentCrypto.jsm
 converter-decrypt-body-failed =
     Nepavyko iššifruoti pranešimo, kurio tema
@@ -382,6 +389,9 @@ expiry-open-key-manager = Atverti „OpenPGP Key Manager“
 expiry-open-key-properties = Rakto savybės
 # Strings filters.jsm
 filter-folder-required = Reikia nurodyti aplanką.
+filter-decrypt-move-warn-experimental =
+    Įspėjimas - filtravimo veiksmas „Iššifruoti visam laikui“ gali sunaikinti pranešimus.
+    Primygtinai rekomenduojama pirmiausia išbandyti filtrą „Sukurti iššifruotą kopiją“, atidžiai peržiūrėti rezultatą ir pradėti naudoti šį filtrą tik tada, kai esate šiuo rezultatu užtikrintas.
 filter-term-pgpencrypted-label = Šifruotas „OpenPGP“
 filter-key-required = Turite pasirinkti gavėjo raktą.
 filter-key-not-found = Nepavyko rasti „{ $desc }“ šifravimo rakto.
