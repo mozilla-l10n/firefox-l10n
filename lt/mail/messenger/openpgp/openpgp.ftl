@@ -316,6 +316,7 @@ openpgp-key-expand-section =
 openpgp-key-revoke-title = Atšaukti raktą
 openpgp-key-edit-title = Pakeisti „OpenPGP“ raktą
 openpgp-key-edit-date-title = Pratęsti galiojimo datą
+openpgp-manager-description = Korespondentų  viešųjų raktų ir visų kitų aukščiau neišvardintų raktų peržiūrai ir tvarkymui naudokite „OpenPGP Key Manager“.
 openpgp-manager-button =
     .label = „OpenPGP Key Manager“
     .accesskey = O
@@ -345,6 +346,7 @@ cannot-encrypt-because-missing = Nepavyko išsiųsti šio pranešimo su abipusiu
 window-locked = Kūrimo langas yra užrakintas; siuntimas atšauktas
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-attachment-label = Šifruota pranešimo dalis
+mime-decrypt-encrypted-part-concealed-data = Tai -  užšifruota pranešimo dalis. Turite šį priedą atidaryti atskirame lange.
 # Strings in keyserver.jsm
 keyserver-error-aborted = Nutraukta
 keyserver-error-unknown = Įvyko nežinoma klaida
@@ -354,6 +356,11 @@ keyserver-error-unavailable = Raktų serveris nepasiekiamas.
 keyserver-error-security-error = Raktų serveris nepalaiko šifruotos prieigos.
 keyserver-error-certificate-error = Raktų serverio sertifikatas negalioja.
 keyserver-error-unsupported = Raktų serveris nepalaikomas.
+# Strings in persistentCrypto.jsm
+converter-decrypt-body-failed =
+    Nepavyko iššifruoti pranešimo, kurio tema
+    { $subject }.
+    Galima bandyti dar kartą, naudojant kitą slaptažodį, arba praleisti pranešimą.
 # Strings in gpg.jsm
 unknown-signing-alg = Nežinomas pasirašymo algoritmas (ID: { $id })
 unknown-hash-alg = Nežinoma kriptografinė maiša (ID: { $id })
@@ -361,6 +368,12 @@ unknown-hash-alg = Nežinoma kriptografinė maiša (ID: { $id })
 expiry-key-expires-soon =
     Jūsų „{ $desc }“ raktas baigs galioti po mažiau nei { $days } dienų.
     Rekomenduojame sukurti naują raktų porą ir atitinkamai sukonfigūruoti paskyras.
+expiry-keys-expire-soon =
+    Šie raktai baigs galioti mažiau nei po { $days } dienų: { $desc }.
+    Rekomenduojame susikurti naujus raktus ir atitinkamai sukonfigūruoti paskyras.
+expiry-key-missing-owner-trust =
+    Jūsų slaptas raktas { $desc } nepakankamai patikimas.
+    Mes rekomenduojame pagrindinėse savybėse parinktį „Jūs pasitikite sertifikatais“ nustatyti kaip „Visiškai“.
 expiry-open-key-manager = Atverti „OpenPGP Key Manager“
 expiry-open-key-properties = Rakto savybės
 # Strings filters.jsm
