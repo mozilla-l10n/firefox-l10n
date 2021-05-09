@@ -474,6 +474,11 @@ revoke-key-not-present =
 revoke-key-already-revoked = Raktas 0x{ $keyId } jau atšauktas.
 key-man-button-revoke-key = &Atšaukti raktą
 openpgp-key-revoke-success = Raktas sėkmingai atšauktas.
+after-revoke-info =
+    Raktas atšauktas.
+    Dar kartą bendrinkite šį viešąjį raktą siųsdami jį el. paštu arba įkeldami į raktų serverius, kad kiti žinotų, jog atšaukėte raktą.
+    Kai tik kitų žmonių naudojama programinė įranga sužinos apie rakto atšaukimą, ji nustos naudoti seną raktą.
+    Jei tam pačiam el. pašto adresui naudojate naują raktą ir jį pridedate prie siunčiamų el. laiškų, informacija apie panaikintą seną raktą bus įtraukta automatiškai .
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = &Importuoti
 delete-key-title = Pašalingti „OpenPGP“ raktą
@@ -523,6 +528,7 @@ save-revoke-cert-as = Sukurti ir išsaugoti atšaukimo pažymėjimą
 revoke-cert-ok = Atšąukimo sertifikatas sėkmingai sukurtas. Galite jį naudoti norėdami anuliuoti savo viešąjį raktą, pvz. jei pamestumėte slaptą raktą.
 revoke-cert-failed = Nepavyko sukurti atšaukimo pažymėjimo.
 gen-going = Raktai jau generuojami!
+keygen-missing-user-name = Pasirinktoje paskyroje / tapatybėje nenurodytas vardas. Paskyros nustatymuose įrašykite vardą lauke „Jūsų vardas“.
 expiry-too-short = Jūsų raktas turi galioti mažiausiai vieną dieną.
 expiry-too-long = Negalite sukurti rakto, kurio galiojimo laikas baigsis daugiau nei po 100 metų.
 key-confirm = Generuoti viešą ir slaptąjį „{ $id }“ raktą?
@@ -535,10 +541,15 @@ key-man-button-generate-key-continue = &Tęsti raktų generavimą
 
 failed-decrypt = Klaida - nepavyko iššifruoti
 fix-broken-exchange-msg-failed = Nepavyko ištaisyti šio pranešimo.
+attachment-no-match-from-signature = Nepavyko suderinti parašo failo „{ $attachment }“ ir priedo
+attachment-no-match-to-signature = Nepavyko suderinti priedo „{ $attachment }“ ir parašo failo
+signature-verified-ok = Priedo „{ $attachment }“ parašas buvo sėkmingai patvirtintas
+signature-verify-failed = Nepavyko patvirtinti priedo „{ $attachment }“ parašo
 decrypt-ok-no-sig =
     Įspėjimas
     Iššifruoti pavyko, tačiau parašo nepavyko teisingai patikrinti.
 msg-ovl-button-cont-anyway = &Tęsti bet kokiu atveju
+enig-content-note = * Šio pranešimo priedai nebuvo pasirašyti ir užšifruoti *
 # Strings used in enigmailMsgComposeOverlay.js
 msg-compose-button-send = Išsiųsti laišką
 msg-compose-details-button-label = Išsamiau…
@@ -577,6 +588,7 @@ dlg-button-view = &Peržiūrėti
 not-required = Klaida - šifruoti nereikia
 # Strings used in windows.jsm
 no-photo-available = Nuotraukos nėra
+error-photo-path-not-readable = Nepavyko nuskaityti nuotraukų iš nurodytos vietos „{ $photo }“
 debug-log-title = „OpenPGP“ derinimo žurnalas
 # Strings used in dialog.jsm
 repeat-prefix = Šis įspėjimas pasikartos { $count }
