@@ -90,8 +90,10 @@ media-bg-img = Backgrund
 media-link = Icon
 media-input = Inpit
 media-video = Video
+media-audio = Soond
 saved-passwords-yes = Aye
 saved-passwords-no = Naw
+security-no-visits = Naw
 # This string is used to display the number of meta tags
 # in the General Tab
 # Variables:
@@ -102,6 +104,28 @@ general-meta-tags =
             [one] Meta (1 tag)
            *[other] Meta ({ $tags } tags)
         }
+# This string is used to display the size of a media file
+# Variables:
+#   $kb (number) - The size of an image in Kilobytes
+#   $bytes (number) - The size of an image in Bytes
+properties-general-size =
+    .value =
+        { $bytes ->
+            [one] { $kb } KB ({ $bytes } byte)
+           *[other] { $kb } KB ({ $bytes } bytes)
+        }
+# This string is used to display the type of
+# an image
+# Variables:
+#   $type (string) - The type of an image
+media-image-type =
+    .value = { $type } Image
+# This string is used to display the size of an image in pixels
+# Variables:
+#   $dimx (number) - The horizontal size of an image
+#   $dimy (number) - The vertical size of an image
+media-dimensions =
+    .value = { $dimx }px × { $dimy }px
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
