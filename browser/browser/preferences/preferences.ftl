@@ -1131,20 +1131,20 @@ collection-privacy-notice = Zásady ochrany súkromia
 collection-health-report-telemetry-disabled = Odosielanie technických údajov a údajov o interakcii spoločnosti { -vendor-short-name } nie je naďalej povolené. Všetky historické údaje budú odstránené v priebehu 30 dní.
 collection-health-report-telemetry-disabled-link = Ďalšie informácie
 collection-health-report =
-    .label = Povoliť prehliadaču { -brand-short-name } odosielať technické údaje a údaje o interakciách spoločnosti { -vendor-short-name }
+    .label = Povoliť { -brand-short-name(case: "dat") } odosielať technické údaje a údaje o interakciách spoločnosti { -vendor-short-name }
     .accesskey = o
 collection-health-report-link = Ďalšie informácie
 collection-studies =
-    .label = Povoliť prehliadaču { -brand-short-name } inštalovať a spúšťať štúdie
+    .label = Povoliť { -brand-short-name(case: "dat") } inštalovať a spúšťať štúdie
 collection-studies-link = Zobraziť štúdie aplikácie { -brand-short-name }
 addon-recommendations =
-    .label = Povoliť prehliadaču { -brand-short-name } odporúčať rozšírenia vybrané priamo pre mňa
+    .label = Povoliť { -brand-short-name(case: "dat") } odporúčať rozšírenia vybrané priamo pre mňa
 addon-recommendations-link = Ďalšie informácie
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Odosielanie údajov je v konfigurácii tohto zostavenia zakázané
 collection-backlogged-crash-reports =
-    .label = Povoliť prehliadaču { -brand-short-name } odosielať vo vašom mene správy o zlyhaní
+    .label = Povoliť { -brand-short-name(case: "dat") } odosielať vo vašom mene správy o zlyhaní
     .accesskey = z
 collection-backlogged-crash-reports-link = Ďalšie informácie
 collection-backlogged-crash-reports-with-link = Povoliť { -brand-short-name(case: "dat") } odosielať vo vašom mene správy o zlyhaní <a data-l10n-name="crash-reports-link">Ďalšie informácie</a>
