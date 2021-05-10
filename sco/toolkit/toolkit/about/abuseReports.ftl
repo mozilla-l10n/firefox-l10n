@@ -19,7 +19,7 @@ abuse-report-learnmore =
     <a data-l10n-name="learnmore-link">Lairn mair aboot reportin extensions and themes</a>
 abuse-report-submit-description = Ootline the problem (optional)
 abuse-report-textarea =
-    .placeholder = It’s easier fur us tae deal wi a problem if we hae details. Lat us ken whit it is that's wrang. Thanks awfie fur helpin us tae keep the wab solvendie.
+    .placeholder = It’s easier fur us tae deal wi a problem if we hae details. Gonnae lat us ken whit it is that's wrang. Thanks awfie fur helpin us tae keep the wab solvendie.
 abuse-report-submit-note =
     Note: Dinnae include personal information (sic as nemme, email address, phone nummer, physical address).
     { -vendor-short-name } hauds an aye-bidin record o these reports.

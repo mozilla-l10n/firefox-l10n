@@ -104,7 +104,7 @@ printui-paper-tabloid = Tabloid
 ## Error messages shown when a user has an invalid input
 
 printui-error-invalid-scale = Scale maun be a nummer atween 10 and 200.
-printui-error-invalid-margin = Inpit a valid margin fur the selectit paper size.
+printui-error-invalid-margin = Gonnae inpit a valid margin fur the selectit paper size.
 printui-error-invalid-copies = Copies maun be a nummer atween 1 and 10000.
 # Variables
 # $numPages (integer) - Number of pages

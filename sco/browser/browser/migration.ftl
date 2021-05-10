@@ -62,7 +62,7 @@ import-select-profile-page-title = Wale Profile
 import-select-profile-description = Thir profiles are redd tae inbring fae:
 import-done-page-title = Inbringin Feenisht
 import-done-description = Thir items were inbrocht wi nae problems:
-import-close-source-browser = Mak siccar the wab-stravaiger ye've waled is sneckit afore haudin forrit.
+import-close-source-browser = Gonnae mak siccar the wab-stravaiger ye've waled is sneckit afore haudin forrit.
 # Displays which browser the bookmarks are being imported from
 #
 # Variables:

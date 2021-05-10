@@ -135,7 +135,7 @@ about-logins-copy-password-os-auth-dialog-message-macosx = copy the saved passwi
 
 ## Master Password notification
 
-master-password-notification-message = Gonnae enter yer maister passwird fur tae see saved logins & passwirds
+master-password-notification-message = Gonnae inpit yer maister passwird fur tae see saved logins & passwirds
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Fur tae export yer logins, inpit yer Windows login parteeculars. This helps bield the siccarness o yer accoonts.
 # This message can be seen when attempting to export a password in about:logins
