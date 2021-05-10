@@ -20,6 +20,10 @@
 # Title of the extensions category.
 about-debugging-runtime-extensions =
     .name = Extensions
+# Displayed for runtime info in runtime pages.
+# { $name } is brand name such as "Firefox Nightly"
+# { $version } is version such as "64.0a1"
+about-debugging-runtime-name = { $name } ({ $version })
 # Text of a button displayed in Runtime pages for remote runtimes.
 # Clicking on the button will close the connection to the runtime.
 about-debugging-runtime-disconnect-button = Disconnect
