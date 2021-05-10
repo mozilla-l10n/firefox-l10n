@@ -7,7 +7,7 @@
 cert-error-intro = { $hostname } kikwi se teyek certificado ipal tajpiyalis
 cert-error-mitm-intro = Ne sitios web kita yek inhidentidad ipanpa certificados. Ini certificados kititaniat ne tatuktianimet ipal certificación.
 cert-error-mitm-mozilla = Mozilla kipalewia { -brand-short-name }. Yaja  se organización te kineki kipiwilia tumin wan kitekimaka se tapiyaluyan tapujtuk ipal tatekimakalis ipal certificados (CA). Ne tapialuyan ipal CA kipalewia pal ma ne tatekimakalis ipal certificados kichiwikan ne tay yek pal kipalewia ne usuarioj.
-cert-error-mitm-connection = { -brand-short-name } kikwi ne tapialuyan Mozilla CA pal kita yek su ne musalulis te tesajsay, wan te kita ne certificadoj tay tamakak ne sistema operativo ipal ne usuarioj. Kwakuni, asu se programaj antivirus u se matapan nemi kitzkia se musalulis iwan se certificadoj tajpialis tay tamakak se CA ne tesu nemi tik ne tapialuyan Mozilla CA, ne musalulis nesis tesajsay.
+cert-error-mitm-connection = { -brand-short-name } kikwi ne tapiyaluyan Mozilla CA pal kita yek su ne musalulis te tesajsay, wan te kita ne certificadoj tay tamakak ne isistema operativo ne usuarioj. Kwakuni, asu se programa antivirus u se matapan nemi kitzkia se musalulis iwan se certificadoj tajpiyalis tay tamakak se CA ne tesu nemi tik ne tapiyaluyan Mozilla CA, ne musalulis nesis tesajsay.
 cert-error-trust-unknown-issuer-intro = Se aka kiejekua nesi kenha ken ne sitioj pal metzshijshikua, kunij maka shikalaki.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
