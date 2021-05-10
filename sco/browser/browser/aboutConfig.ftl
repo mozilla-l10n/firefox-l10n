@@ -10,6 +10,7 @@ about-config-intro-warning-button = Accept the Risk and Gang On
 
 ##
 
+about-config-show-all = Kythe Aw
 about-config-pref-add-button =
     .title = Eik on
 about-config-pref-edit-button =
