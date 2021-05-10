@@ -164,14 +164,14 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Nae open tabs">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
-<!ENTITY appMenuRemoteTabs.showMore.label "Shaw Mair">
+<!ENTITY appMenuRemoteTabs.showMore.label "Kythe Mair">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
-<!ENTITY appMenuRemoteTabs.showMore.tooltip "Shaw mair tabs fae this device">
+<!ENTITY appMenuRemoteTabs.showMore.tooltip "Kythe mair tabs fae this device">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
-<!ENTITY appMenuRemoteTabs.showAll.label "Shaw Aw">
-<!ENTITY appMenuRemoteTabs.showAll.tooltip "Shaw aw tabs fae this device">
+<!ENTITY appMenuRemoteTabs.showAll.label "Kythe Aw">
+<!ENTITY appMenuRemoteTabs.showAll.tooltip "Kythe aw tabs fae this device">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Turn on tab syncin fur tae view a list o tabs fae yer ither devices.">

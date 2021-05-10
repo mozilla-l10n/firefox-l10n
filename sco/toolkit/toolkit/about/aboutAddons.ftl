@@ -43,7 +43,7 @@ show-unsigned-extensions-button =
 show-all-extensions-button =
     .label = Kythe aw extensions
 cmd-show-details =
-    .label = Shaw Mair Information
+    .label = Kythe Mair Information
     .accesskey = S
 cmd-find-updates =
     .label = Airt-oot Updates
@@ -148,7 +148,7 @@ disabled-unsigned-devinfo =
     Developers interestit in gettin their eik-ons trystmakkit can haud forrit by readin oor
     <label data-l10n-name="learn-more">manual</label>.
 plugin-deprecation-description = Missin sowt? Some plugins arenae supportit by { -brand-short-name } onie mair. <label data-l10n-name="learn-more">Lairn Mair.</label>
-legacy-warning-show-legacy = Shaw bygane extensions
+legacy-warning-show-legacy = Kythe bygane extensions
 legacy-extensions =
     .value = Bygane Extensions
 legacy-extensions-description = These extensions dinnae meet current { -brand-short-name } staunarts sae they've been deactivatit. <label data-l10n-name="legacy-learn-more">Lairn aboot the chynges tae eik-ons</label>
@@ -262,9 +262,9 @@ shortcuts-duplicate-warning-message = { $shortcut } is bein yaised as a shortcut
 shortcuts-exists = Awready bein yaised by { $addon }
 shortcuts-card-expand-button =
     { $numberToShow ->
-       *[other] Shaw { $numberToShow } Mair
+       *[other] Kythe { $numberToShow } Mair
     }
-shortcuts-card-collapse-button = Shaw Less
+shortcuts-card-collapse-button = Kythe Less
 header-back-button =
     .title = Gang back
 

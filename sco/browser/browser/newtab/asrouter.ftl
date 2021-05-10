@@ -21,7 +21,7 @@ cfr-doorhanger-pintab-ok-button = Peen This Tab
     .accesskey = P
 cfr-doorhanger-extension-manage-settings-button = Manage Recommendation Settins
     .accesskey = M
-cfr-doorhanger-extension-never-show-recommendation = Dinnae Shaw Me This Recommendation
+cfr-doorhanger-extension-never-show-recommendation = Dinnae Kythe This Recommendation
     .accesskey = S
 cfr-doorhanger-extension-learn-more-link = Lairn mair
 # This string is used on a new line below the add-on name
@@ -193,7 +193,7 @@ cfr-doorhanger-socialtracking-ok-button = See Bieldins
     .accesskey = P
 cfr-doorhanger-socialtracking-close-button = Sneck
     .accesskey = C
-cfr-doorhanger-socialtracking-dont-show-again = Dinnae shaw me messages like this oniemair
+cfr-doorhanger-socialtracking-dont-show-again = Dinnae kythe messages like this oniemair
     .accesskey = D
 cfr-doorhanger-socialtracking-heading = { -brand-short-name } stapped a social netwark fae trackin ye here
 cfr-doorhanger-socialtracking-description = Yer preevacy maitters. { -brand-short-name } noo blocks common social media trackers, pittin leemits on how muckle data they can gaither aboot whit ye're daein online.
