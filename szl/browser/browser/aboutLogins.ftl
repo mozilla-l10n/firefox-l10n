@@ -78,7 +78,7 @@ login-intro-description = Jeźli dane logowanio do aplikacyje { -brand-product-n
 login-intro-instruction-fxa = Zaregistruj abo zaloguj sie do { -fxaccount-brand-name } na maszinie, co na nij sōm spamiyntane dane logowanio
 login-intro-instruction-fxa-settings = Wejzdrzij, żeby ôpcyjo „dane logowanio” była zaznaczōno we sztelōnkach aplikacyje { -sync-brand-short-name }
 about-logins-intro-instruction-help = Nawiydź <a data-l10n-name="help-link">{ -lockwise-brand-short-name } Sparcie</a> po wiyncyj pōmocy
-login-intro-instructions-fxa-settings = Idź do > Sztalōnki > Synchrōnizacyjo > Załōcz synchrōnizacyjo… Ôbznocz ôkiynko danych logowanio i hasłōw.
+login-intro-instructions-fxa-settings = Idź do > Sztalōnki > Synchrōnizacyjo > Załōncz synchrōnizacyjo… Ôbier ôkynko danych logowanio i hasłōw.
 login-intro-instructions-fxa-help = Nawiydź <a data-l10n-name="help-link">{ -lockwise-brand-short-name } Sparcie</a> po wiyncyj pōmocy.
 about-logins-intro-import = Jak twoje dane logowanio sōm spamiyntane we inkszyj przeglōndarce, to możesz <a data-l10n-name="import-link">importować je do usugi { -lockwise-brand-short-name }</a>
 about-logins-intro-import2 = Jak dane logowanio mosz spamiyntane kaj indzij jak we przeglōndarce { -brand-product-name }, możesz <a data-l10n-name="import-browser-link">importnōnć je z inkszyj przeglōndarki</a> abo <a data-l10n-name="import-file-link">ze zbioru</a>

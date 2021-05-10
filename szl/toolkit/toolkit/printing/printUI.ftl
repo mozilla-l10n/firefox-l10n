@@ -39,12 +39,11 @@ printui-scale-fit-to-page-width = Przipasuj do szyrzki strōny
 printui-scale-pcent = Skala
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Durk ôbuch strōn
-printui-duplex-checkbox = Durkuj na ôbuch strōnach
 # Section title for miscellaneous print options
 printui-options = Ôpcyje
 printui-headers-footers-checkbox = Durkuj nogōwki i stopki
 printui-backgrounds-checkbox = Durkuj zadki
-printui-selection-checkbox = Durkuj ino ôbznoczynie
+printui-selection-checkbox = Durkuj ino zaznaczynie
 printui-color-mode-label = Farbisty tryb
 printui-color-mode-color = Farbisty
 printui-color-mode-bw = Czorno-bioły
