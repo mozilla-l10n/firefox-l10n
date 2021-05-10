@@ -26,7 +26,7 @@
 <!ENTITY generic.longDesc "<p>Mair information aboot this problem or mishanter isnae available jist noo.</p>">
 
 <!ENTITY malformedURI.title "Address Isnae Suithfest">
-<!ENTITY malformedURI.longDesc "<p>The address providit isnae in a kent format. Check the airtin baur fur mistakes and gie it anither shot.</p>">
+<!ENTITY malformedURI.longDesc "<p>The address providit isnae in a kent format. Gonnae check the airtin baur fur mistakes and gie it anither shot.</p>">
 
 <!ENTITY netInterrupt.title "Data Transfer Interruptit">
 <!ENTITY netInterrupt.longDesc "<p>The stravaiger connectit wioot onie problems, but the connection wis interruptit while transferrin information.  Gie it anither shot.</p><ul><li>Are ye no able tae stravaig ither sites? Check the computer’s netwark connection.</li><li>Still haein some fash? Speir yer netwark admeenistrator or Internet provider fur hauners.</li></ul>">
@@ -38,17 +38,17 @@
 <!ENTITY netOffline.longDesc2 "<p>The stravaiger is wirkin in its affline mode and cannae connect tae the speirt-efter item.</p><ul><li>Is the computer connectit tae an active netwark?</li><li>Press &quot;Try Aince Mair&quot; tae switch tae online mode and reload the page.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Content Encodin Mishanter">
-<!ENTITY contentEncodingError.longDesc "<p>The page ye're ettlin tae luik at cannae be kythed acause it yaises a form o compression that's either no suithfest or no supportit.</p><ul><li>Get in touch wi the wabsite owners tae lat them ken aboot this problem.</li></ul>">
+<!ENTITY contentEncodingError.longDesc "<p>The page ye're ettlin tae luik at cannae be kythed acause it yaises a form o compression that's either no suithfest or no supportit.</p><ul><li>Gonnae get in touch wi the wabsite owners tae lat them ken aboot this problem.</li></ul>">
 
 <!ENTITY unsafeContentType.title "File Type No Sauf">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
-  <li>Get in touch wi the wabsite owners tae lat them ken aboot this problem.</li>
+  <li>Gonnae get in touch wi the wabsite owners tae lat them ken aboot this problem.</li>
 </ul>
 ">
 
 <!ENTITY netReset.title "Connection Interruptit">
-<!ENTITY netReset.longDesc "<p>The netwark link was interruptit while greein a connection. Gie it anither shot.</p>">
+<!ENTITY netReset.longDesc "<p>The netwark link was interruptit while greein a connection. Gonnae gie it anither shot.</p>">
 
 <!ENTITY netTimeout.title "Netwark Timeoot">
 <!ENTITY netTimeout.longDesc "<p>The speirt-efter site didnae repone tae a connection speirin and the stravaiger has stapped waitin fur a reply.</p><ul><li>Mebbe the server is unnergawin muckle traffic or is doon jist noo?  Gie it anither shot efter.</li><li>Are ye no able tae stravaig ither sites? Check the computer’s netwark connection.</li><li>Is yer computer or netwark bieldit by a firewaw or proxy?  Settings that arenae richt can effect yer Wab stravaigin.</li><li>Still haein some fash? Speir yer netwark admeenistrator or Internet provider fur hauners.</li></ul>">
@@ -69,7 +69,7 @@
 <!ENTITY unknownSocketType.longDesc "<p>The site reponed tae the netwark speirin in an unexpectit wey and the stravaiger cannae haud forrit.</p>">
 
 <!ENTITY nssFailure2.title "Siccar Connection Didnae Wirk">
-<!ENTITY nssFailure2.longDesc2 "<p>The page ye're ettlin fur tae luik at cannae be kythed acause the authenticity o the received data couldnae be trystmakkit.</p><ul><li>Get in touch wi the wabsite owners tae lat them ken aboot this problem.</li></ul>">
+<!ENTITY nssFailure2.longDesc2 "<p>The page ye're ettlin fur tae luik at cannae be kythed acause the authenticity o the received data couldnae be trystmakkit.</p><ul><li>Gonnae get in touch wi the wabsite owners tae lat them ken aboot this problem.</li></ul>">
 
 <!ENTITY nssBadCert.title "Siccar Connection Didnae Wirk">
 <!ENTITY nssBadCert.longDesc2 "<ul>
