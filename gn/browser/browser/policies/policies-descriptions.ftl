@@ -15,6 +15,7 @@ policy-AllowedDomainsForApps = Emboaty umi mba’éva oñemoneĩva oike hag̃ua 
 policy-AppAutoUpdate = Embojuruja térã eipe’a ñembohekopyahu ijeheguíva jepysokuégui.
 policy-AppUpdateURL = Embohekopyahu URL kundaharape rembipuru ñemomba’epyre.
 policy-Authentication = Emboheko ñemoañete ojuajúva ñanduti rendápe g̃uarã moneĩmbyre.
+policy-AutoLaunchProtocolsFromOrigins = Ejapo taperekoite rysýi okaygua ojepurukuaáva ñepyrũha guive ojehecháva tysýipe oñemoneĩ’ỹre puruhárape.
 policy-BackgroundAppUpdate2 = Emyandy térã embogue pe ñemboheko mokõihaguáva.
 policy-BlockAboutAddons = Ejoko Moĩmbaha ñangarekohápe jeike (about: addons).
 policy-BlockAboutConfig = Ejoko about:config kuatiaroguépe jeike.
