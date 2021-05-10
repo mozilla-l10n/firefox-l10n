@@ -372,6 +372,8 @@ copy-to-clipbrd-failed = Seçilen anahtar(lar) panoya kopyalanamadı.
 copy-to-clipbrd-ok = Anahtar(lar) panoya kopyalandı
 delete-selected-pub-key = Ortak anahtarları silmek istiyor musunuz?
 refresh-all-question = Herhangi bir anahtar seçmediniz. TÜM anahtarları yenilemek ister misiniz?
+key-man-button-export-sec-key = &Gizli anahtarları dışa aktar
+key-man-button-export-pub-key = Yalnızca &ortak anahtarları dışa aktar
 key-man-button-refresh-all = &Tüm anahtarları yenile
 key-man-loading-keys = Anahtarlar yükleniyor, lütfen bekleyin…
 ascii-armor-file = ASCII korumalı dosyalar (*.asc)
@@ -393,6 +395,13 @@ openpgp-export-public-success = <b>Ortak anahtar başarıyla dışa aktarıldı.
 openpgp-export-public-fail = <b>Seçilen ortak anahtar dışa aktarılamadı.</b>
 openpgp-export-secret-success = <b>Gizli anahtar başarıyla dışa aktarıldı.</b>
 openpgp-export-secret-fail = <b>Seçilen gizli anahtar dışa aktarılamadı.</b>
+# Strings in keyObj.jsm
+key-ring-pub-key-revoked = { $userId } anahtarı (anahtar kimliği { $keyId }) iptal edildi.
+key-ring-pub-key-expired = { $userId } anahtarının (anahtar kimliği { $keyId }) süresi doldu.
+key-ring-key-disabled = { $userId } anahtarı (anahtar kimliği { $keyId }) devre dışı bırakıldı ve kullanılamaz.
+key-ring-sign-sub-keys-revoked = { $UserId } anahtarının tüm imzalama alt anahtarları (anahtar kimliği { $keyId }) iptal edildi.
+key-ring-sign-sub-keys-expired = { $userId } anahtarının (anahtar kimliği { $keyId }) tüm imzalama alt anahtarlarının süresi doldu.
+key-ring-enc-sub-keys-revoked = { $userId } anahtarının tüm şifreleme alt anahtarları (anahtar kimliği { $keyId }) iptal edildi.
 # Strings in gnupg-keylist.jsm
 keyring-photo = Fotoğraf
 user-att-photo = Kullanıcı özniteliği (JPEG resmi)
@@ -482,6 +491,7 @@ no-temp-dir =
     Yazılacak geçici klasör bulunamadı
     Lütfen TEMP ortam değişkenini ayarlayın
 cannot-send-sig-because-no-own-key = <{ $key }> için uçtan uca şifrelemeyi henüz yapılandırmadığınız için bu iletiyi dijital olarak imzalayamazsınız
+cannot-send-enc-because-no-own-key = <{ $key }> anahtarı için uçtan uca şifrelemeyi henüz yapılandırmadığınız için bu ileti şifrelenmiş olarak gönderilemiyor
 # Strings used in decryption.jsm
 do-import-multiple =
     Aşağıdaki anahtarlar içe aktarılsın mı?
