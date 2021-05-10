@@ -60,6 +60,18 @@ security-view =
     .accesskey = V
 security-view-unknown = Unkent
     .value = Unkent
+security-view-identity-owner =
+    .value = Owner:
+security-view-identity-domain =
+    .value = Wabsite:
+security-view-identity-verifier =
+    .value = Verified by:
+security-view-identity-validity =
+    .value = Expires on:
+security-view-privacy =
+    .value = Preevacy & Historie
+help-button =
+    .label = Hauners
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -72,6 +84,12 @@ security-site-data-no = Naw
 
 ##
 
+image-size-unknown = Unkent
+media-img = Image
+media-bg-img = Backgrund
+media-link = Icon
+media-input = Inpit
+media-video = Video
 saved-passwords-yes = Aye
 saved-passwords-no = Naw
 # This string is used to display the number of meta tags
