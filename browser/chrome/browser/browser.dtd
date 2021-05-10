@@ -52,6 +52,10 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.syncSettings2.label "&syncBrand.shortName.label; – პარამეტრები">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "სხვა მოწყობილობის დაკავშირება…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     followed by the user's email. -->
 <!ENTITY fxa.menu.signin.label "&brandProductName; – შესვლა">
 <!ENTITY fxa.menu.turnOnSync.label "ჩართეთ &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "&brandProductName; – მომსახურებები">
@@ -154,6 +158,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuHelp.label "დახმარება">
 
 <!ENTITY appMenuRemoteTabs.label "დასინქრონებული ჩანართები">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "გახსნილი ჩანართები არაა">
@@ -220,9 +225,6 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY saveToPocketCmd.label        "გვერდის შენახვა Pocket-ში">
-
-<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
-  "Pocket" is a brand name. -->
 <!ENTITY pocketMenuitem.label         "Pocket-ის სიის ნახვა">
 
 <!ENTITY emailPageCmd.label           "ბმულის გაგზავნა ელფოსტით…">
@@ -243,7 +245,7 @@ this container is a toolbar. This avoids double-speaking. -->
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
 <!ENTITY editPopupSettingsUnix.label "ამომხტომი ფანჯრების აკრძალვის პარამეტრების შეცვლა…">
-<!ENTITY editPopupSettings.label "ამომხტომი ფანჯრების აკრძალვის პარამეტრების ჩასწორება…">
+<!ENTITY editPopupSettings.label "ამომხტომი ფანჯრების აკრძალვის პარამეტრების შეცვლა…">
 <!ENTITY editPopupSettings.accesskey "ჩ">
 <!ENTITY dontShowMessage.accesskey "დ">
 
