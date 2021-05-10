@@ -81,6 +81,7 @@ login-intro-instructions-fxa = Эҷод кунед ё ба { -fxaccount-brand-na
 login-intro-instructions-fxa-settings = Ба Танзимот > Ҳамоҳангсозӣ > Фаъол кардани ҳамоҳангсозӣ гузаред… Ба «Воридшавиҳо ва ниҳонвожаҳо» аломати қайдро гузоред.
 login-intro-instructions-fxa-help = Барои гирифтани кумак ба <a data-l10n-name="help-link">Дастгирии { -lockwise-brand-short-name }</a> ташриф оред.
 about-logins-intro-import = Агар воридшавиҳои шумо дар браузери дигар нигоҳ дошта бошанд, шумо метавонед <a data-l10n-name="import-link">онҳоро ба { -lockwise-brand-short-name } ворид кунед</a>
+about-logins-intro-import2 = Агар воридшавиҳои шумо берун аз { -brand-product-name } нигоҳ дошта бошанд, шумо метавонед <a data-l10n-name="import-browser-link">онҳоро аз браузери дигар</a> ё <a data-l10n-name="import-file-link">аз файл ворид намоед</a>
 
 ## Login
 
@@ -88,6 +89,7 @@ login-item-new-login-title = Эҷод кардани воридшавии нав
 login-item-edit-button = Таҳрир кардан
 about-logins-login-item-remove-button = Тоза кардан
 login-item-origin-label = Нишонии сомона
+login-item-tooltip-message = Мутмаин шавед, ки ин ба нишонии дақиқи сомонае, ки шумо ворид мешавед, мувофиқат мекунад.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Номи корбар
@@ -115,12 +117,18 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message-win = Барои таҳрир кардани воридшавии худ, маълумоти корбари «Windows»-и худро ворид кунед. Ин амал барои муҳофизат кардани амнияти ҳисоби шумо кумак мерасонад.
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = воридшавии нигоҳдошташударо таҳрир кунад
+# This message can be seen when attempting to reveal a password in about:logins on Windows.
+about-logins-reveal-password-os-auth-dialog-message-win = Барои дидани ниҳонвожаи худ, маълумоти корбари «Windows»-и худро ворид кунед. Ин амал барои муҳофизат кардани амнияти ҳисоби шумо кумак мерасонад.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = ниҳонвожаи нигоҳдошташударо нишон диҳад
+# This message can be seen when attempting to copy a password in about:logins on Windows.
+about-logins-copy-password-os-auth-dialog-message-win = Барои нусха бардоштани ниҳонвожаи худ, маълумоти корбари «Windows»-и худро ворид кунед. Ин амал барои муҳофизат кардани амнияти ҳисоби шумо кумак мерасонад.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = ниҳонвожаи нигоҳдошташударо нусха бардорад
