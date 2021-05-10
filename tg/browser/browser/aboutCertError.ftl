@@ -56,6 +56,9 @@ cert-error-details-hsts-label = Интиқол бо амнияти ҷиддии 
 cert-error-details-key-pinning-label = Васлкунии калиди иҷтимоии HTTP: { $hasHPKP }
 cert-error-details-cert-chain-label = Занҷири гувоҳинома:
 open-in-new-window-for-csp-or-xfo-error = Кушодани сомона дар равзанаи нав
+# Variables:
+# $hostname (String) - Hostname of the website blocked by csp or xfo error.
+csp-xfo-blocked-long-desc = Барои муҳофизат кардани амнияти шумо, { $hostname } ба { -brand-short-name } барои намоиш додани саҳифа иҷозат намедиҳад, агар сомонаи дигар онро дарунсохт карда бошад. Барои дидани ин саҳифа шумо бояд онро дар равзанаи нав кушоед.
 
 ## Messages used for certificate error titles
 
@@ -93,3 +96,4 @@ blockedByPolicy-title = Саҳифаи басташуда
 clockSkewError-title = Соати компютери шумо нодуруст аст
 networkProtocolError-title = Хатои протоколи шабака
 nssBadCert-title = Диққат: Эҳтимол, хатари амният вуҷуд дорад
+nssBadCert-sts-title = Пайваст нашуд: Таҳдиди амнияти эҳтимолӣ
