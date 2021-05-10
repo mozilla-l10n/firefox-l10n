@@ -325,6 +325,7 @@ addon-detail-version-label = Handelv
 addon-detail-last-updated-label = Hizivaet da ziwezhañ
 addon-detail-homepage-label = Pennbajenn
 addon-detail-rating-label = Notenn
+install-postponed-button = Hizivaat bremañ
 # The average rating that the add-on has received.
 # Variables:
 #   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
