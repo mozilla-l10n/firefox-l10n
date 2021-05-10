@@ -34,6 +34,7 @@ perftools-devtools-settings-label = Танзимот
 
 ##
 
+perftools-button-cancel-recording = Бекор кардани сабт
 perftools-button-add-directory = Илова кардани ҷузвдон
 perftools-button-remove-directory = Тоза кардани маводи интихобшуда
 perftools-button-edit-settings = Таҳрир кардани танзимот…

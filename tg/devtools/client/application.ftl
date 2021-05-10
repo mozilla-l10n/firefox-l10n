@@ -12,6 +12,10 @@
 ### across the developer tools. A good criteria is the language in which you'd find the
 ### best documentation on web development on the web.
 
+# Text displayed next to the URL for the source of the service worker (e-g. "Source my/path/to/worker-js")
+serviceworker-worker-source = Манбаъ
+# Text displayed next to the current status of the service worker.
+serviceworker-worker-status = Вазъият
 
 ## Service Worker status strings: all serviceworker-worker-status-* strings are also
 ## defined in aboutdebugging.properties and should be synchronized with them.
@@ -19,6 +23,8 @@
 # Service Worker status. A running service worker is registered, currently executed, can
 # be debugged and stopped.
 serviceworker-worker-status-running = Иҷро шуда истодааст
+# Service Worker status. A stopped service worker is registered but not currently active.
+serviceworker-worker-status-stopped = Қатъ шуд
 # Link will open https://developer.mozilla.org/docs/Web/API/Service_Worker_API/Using_Service_Workers
 serviceworker-empty-intro-link = Маълумоти бештар
 # Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
