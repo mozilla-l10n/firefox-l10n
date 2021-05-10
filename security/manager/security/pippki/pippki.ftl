@@ -8,10 +8,8 @@ password-quality-meter = პაროლის ხარისხმზომი
 
 change-password-window =
     .title = მთავარი პაროლის შეცვლა
-
 change-device-password-window =
     .title = პაროლის შეცვლა
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = უსაფრთხოების მოწყობილობა: { $tokenName }
@@ -22,30 +20,25 @@ change-password-reenter = ახალი პაროლი (კვლავ):
 ## Reset Password dialog
 
 reset-password-window =
-    .title = მთავარი პაროლის განულება
+    .title = მთავარი პაროლის ჩანაცვლება
     .style = width: 40em
-
 pippki-failed-pw-change = პაროლის შეცვლა, ვერ ხერხდება.
 pippki-incorrect-pw = თქვენ მიერ მითითებული მიმდინარე პაროლი მცდარია. სცადეთ ხელახლა.
 pippki-pw-change-ok = პაროლი წარმატებით შეიცვალა.
-
 pippki-pw-empty-warning = თქვენ მიერ შენახული პაროლები და პირადი გასაღებები, დაუცველი დარჩება.
 pippki-pw-erased-ok = თქვენ მოხსენით პაროლი. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = გაფრთხილება! თქვენ გადაწყვიტეთ არ გამოიყენოთ პაროლი. { pippki-pw-empty-warning }
-
 pippki-pw-change2empty-in-fips-mode = თქვენ FIPS-რეჟიმში ხართ. FIPS-ს ესაჭიროება პაროლი.
 
 ## Reset Primary Password dialog
 
 reset-primary-password-window =
-    .title = მთავარი პაროლის განულება
+    .title = მთავარი პაროლის ჩანაცვლება
     .style = width: 40em
 reset-password-button-label =
-    .label = განულება
-reset-password-text = მთავარი პაროლის განულების შემთხვევაში, დაიკარგება ყველა თქვენ მიერ შენახული ელფოსტის პაროლები, ველების მონაცემები, პერსონალური სერტიფიკატები. ნამდვილად გსურთ მთავარი პაროლის განულება?
-
+    .label = ჩანაცვლება
+reset-password-text = მთავარი პაროლის ჩანაცვლებით, დაიკარგება ყველა თქვენ მიერ შენახული ელფოსტის პაროლები, ველების მონაცემები, პერსონალური სერტიფიკატები. ნამდვილად გსურთ ჩაანცვლოთ მთავარი პაროლი?
 reset-primary-password-text = მთავარი პაროლის განულების შემთხვევაში, დაიკარგება თქვენ მიერ შენახული ყველა ელფოსტის პაროლი, პირადი სერტიფიკატი და კუთვნილი გასაღები. ნამდვილად გსურთ მთავარი პაროლის განულება?
-
 pippki-reset-password-confirmation-title = მთავარი პაროლის განულება
 pippki-reset-password-confirmation-message = თქვენი მთავარი პაროლი განულებულია.
 
