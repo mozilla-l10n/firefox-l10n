@@ -18,3 +18,4 @@ policy-DisablePrivateBrowsing = Disable Preevat Stravaigin
 
 ##
 
+policy-Proxy = Confeegur proxy settins.
