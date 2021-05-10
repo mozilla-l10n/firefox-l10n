@@ -71,8 +71,10 @@ about-logins-list-item-vulnerable-password-icon =
 
 login-intro-heading = Воридшавиҳои нигоҳдошташударо меҷӯед? { -sync-brand-short-name }-ро танзим намоед.
 about-logins-login-intro-heading-logged-out = Воридшавиҳои нигоҳдошташударо меҷӯед? { -sync-brand-short-name }-ро танзим кунед ё онҳоро ворид намоед.
+about-logins-login-intro-heading-logged-out2 = Воридшавиҳои нигоҳдошташударо меҷӯед? Ҳамоҳангсозиро фаъол кунед ё онҳоро ворид намоед.
 about-logins-login-intro-heading-logged-in = Ягон воридшавии ҳамоҳангшуда ёфт нашуд.
 login-intro-description = Агар шумо воридшавиҳои худро дар дастгоҳҳои гуногун ба { -brand-product-name } сабт карда бошед, дар он сурат шумо дар ин ҷо ба онҳо ҳамин тавр дастрасӣ пайдо мекунед:
+login-intro-instruction-fxa = Эҷод кунед ё ба { -fxaccount-brand-name }-и худ аз дастгоҳе, ки дар он воридшавиҳои шумо нигоҳ дошта шудаанд, ворид шавед
 
 ## Login
 
