@@ -145,7 +145,7 @@ newtab-menu-remove-download = Remuive fae Historie
 
 newtab-menu-show-file =
     { PLATFORM() ->
-        [macos] Shaw in Finder
+        [macos] Kythe in Finder
        *[other] Open Conteenin Folder
     }
 newtab-menu-open-file = Open File

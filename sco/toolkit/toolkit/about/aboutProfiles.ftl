@@ -6,3 +6,9 @@ profiles-restart-title = Restert
 profiles-restart-in-safe-mode = Restert Wi Eik-ons Disabled…
 profiles-flush-restart-button = Restert { -brand-short-name }
 profiles-remove = Remuive
+profiles-opendir =
+    { PLATFORM() ->
+        [macos] Kythe in Finder
+        [windows] Open Folder
+       *[other] Open Directory
+    }
