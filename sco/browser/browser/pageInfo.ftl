@@ -2,8 +2,64 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/. --
 
+page-info-window =
+    .style = width: 600px; min-height: 550px;
+copy =
+    .key = C
+menu-copy =
+    .label = Copy
+    .accesskey = C
+select-all =
+    .key = A
+menu-select-all =
+    .label = Wale Aw
+    .accesskey = A
 close-dialog =
     .key = w
+general-tab =
+    .label = General
+    .accesskey = G
+general-title =
+    .value = Title:
+general-url =
+    .value = Address:
+general-type =
+    .value = Type:
+general-size =
+    .value = Size:
+general-meta-name =
+    .label = Nemme
+general-meta-content =
+    .label = Content
+media-tab =
+    .label = Media
+    .accesskey = M
+media-location =
+    .value = Airtin
+media-alt-header =
+    .label = Alternate Text
+media-address =
+    .label = Address
+media-type =
+    .label = Type
+media-size =
+    .label = Size
+media-count =
+    .label = Coont
+media-save-as =
+    .label = Save As…
+    .accesskey = A
+media-save-image-as =
+    .label = Save As…
+    .accesskey = e
+security-tab =
+    .label = Siccarness
+    .accesskey = S
+security-view =
+    .label = View Certificate
+    .accesskey = V
+security-view-unknown = Unkent
+    .value = Unkent
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo

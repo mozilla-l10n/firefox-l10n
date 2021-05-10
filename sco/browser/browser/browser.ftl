@@ -302,6 +302,7 @@ identity-header-security-with-host =
     .title = Connection siccarness for { $host }
 identity-connection-not-secure = Connection no siccar
 identity-connection-secure = Connection siccar
+identity-connection-failure = Connection didnae wirk
 identity-connection-internal = This is a siccar { -brand-short-name } page.
 identity-connection-file = This page is keepit on yer computer.
 identity-extension-page = This page is loadit fae an extension.
