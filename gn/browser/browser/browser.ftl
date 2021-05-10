@@ -302,6 +302,7 @@ identity-header-security-with-host =
     .title = Jeikeha hekorosãva { $host } peg̃uarã
 identity-connection-not-secure = Jeikekatu’ỹ
 identity-connection-secure = Jeikekatu
+identity-connection-failure = Jeike oiko’ỹva
 identity-connection-internal = Kóva { -brand-short-name } jeroviáva; kuatiarogue.
 identity-connection-file = Ko kuatiarogue oñeñongatu mohendahápe.
 identity-extension-page = Ko kuatiarogue oñemyanyhẽ jepysokue guive.

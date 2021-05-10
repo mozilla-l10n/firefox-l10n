@@ -10,4 +10,4 @@ account-finish-account-setup = Emohu’ã mba’ete ñemboheko
 account-reconnect-to-fxa = Mba’ete Ojekuaa’ỹva
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
-account-disconnected = Esẽmara’e
+account-disconnected2 = Mba’ete ojekuaa’ỹva
