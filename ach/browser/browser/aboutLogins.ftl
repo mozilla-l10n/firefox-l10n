@@ -67,6 +67,8 @@ login-list-item-subtitle-missing-username = (nying me tic pe)
 login-intro-heading = Itye ka yenyo donyo iyie mamegi ma igwoko? Ter { -sync-brand-short-name }.
 login-intro-description = Kacce igwoko donyo iyie mamegi i { -brand-product-name } i nyonyo mukene, man aye kit ma itwero nongo gi kany:
 login-intro-instruction-fxa = Cwe onyo dony iyie { -fxaccount-brand-name } mamegi i nyonyo ma kigwoko iyie donyo iyie mamegi.
+about-logins-intro-instruction-help = Lim <a data-l10n-name="help-link">{ -lockwise-brand-short-name } pi Kony</a> mapol
+login-intro-instructions-fxa-help = Lim <a data-l10n-name="help-link">{ -lockwise-brand-short-name } pi Kony</a> mapol
 about-logins-intro-import = Kacce kigwoko donyo iyie mamgei ii layeny mukene, itwero <a data-l10n-name="import-link">kelo gi ki woko ii { -lockwise-brand-short-name }</a>
 about-logins-intro-import2 = Kacce kigwoko donyo iyie mamegi woko pa { -brand-product-name }, itwero <a data-l10n-name="import-browser-link">kelo gi ki i layeny mukene</a> onyo <a data-l10n-name="import-file-link">ki i pwail</a>
 
@@ -183,6 +185,16 @@ about-logins-export-file-picker-export-button = Cwal woko
 ## Login Import Dialog
 
 about-logins-import-file-picker-import-button = Kel ki woko
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
 
 ##
 ## Variables:
