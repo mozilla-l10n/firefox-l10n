@@ -198,6 +198,7 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
+<!ENTITY saveToPocketCmd.label        "Нигоҳ доштани саҳифа ба «Pocket»">
 
 <!ENTITY emailPageCmd.label           "Ирсоли пайванд тавассути почта…">
 

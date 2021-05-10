@@ -136,6 +136,8 @@ about-logins-copy-password-os-auth-dialog-message-macosx = ниҳонвожаи 
 ## Master Password notification
 
 master-password-notification-message = Лутфан, барои дидани воридшавиҳо ва ниҳонвожаҳои нигоҳдошташуда, ниҳонвожаи хусусии худро ворид намоед
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message-win = Барои содир кардани воридшавиҳои худ, маълумоти корбари «Windows»-и худро ворид кунед. Ин амал барои муҳофизат кардани амнияти ҳисоби шумо кумак мерасонад.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = воридшавиҳо ва ниҳонвожаҳои нигоҳдошташударо содир кунад
@@ -149,6 +151,11 @@ master-password-reload-button =
 
 ## Password Sync notification
 
+enable-password-sync-notification-message =
+    { PLATFORM() ->
+        [windows] Мехоҳед, ки ба воридшавиҳои худ дар ҳамаи ҷойҳое, ки шумо { -brand-product-name }-ро истифода мебаред дастрасӣ пайдо кунед? Ба Имконоти { -sync-brand-short-name } гузаред ва ба «Воридшавиҳо» аломати қайдро гузоред.
+       *[other] Мехоҳед, ки ба воридшавиҳои худ дар ҳамаи ҷойҳое, ки шумо { -brand-product-name }-ро истифода мебаред дастрасӣ пайдо кунед? Ба Хусусиятҳои { -sync-brand-short-name } гузаред ва ба «Воридшавиҳо» аломати қайдро гузоред.
+    }
 enable-password-sync-preferences-button =
     .label =
         { PLATFORM() ->
