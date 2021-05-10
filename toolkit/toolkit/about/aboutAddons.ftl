@@ -10,6 +10,7 @@ search-header =
     .searchbuttonlabel = Ara
 search-header-shortcut =
     .key = f
+list-empty-get-extensions-message = Uzantıları ve temaları <a data-l10n-name="get-extensions">{ $domain }</a> adresinden indirebilirsiniz.
 list-empty-installed =
     .value = Bu türden kurulmuş bir eklentiniz yok
 list-empty-available-updates =

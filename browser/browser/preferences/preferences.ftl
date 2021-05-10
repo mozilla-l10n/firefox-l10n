@@ -1143,6 +1143,8 @@ collection-backlogged-crash-reports =
     .label = { -brand-short-name } geriye dönük çökme raporlarını benim adıma gönderebilir
     .accesskey = ö
 collection-backlogged-crash-reports-link = Daha fazla bilgi al
+collection-backlogged-crash-reports-with-link = { -brand-short-name } geriye dönük çökme raporlarını benim adıma gönderebilir <a data-l10n-name="crash-reports-link">Daha fazla bilgi al</a>
+    .accesskey = d
 
 ## Privacy Section - Security
 ##

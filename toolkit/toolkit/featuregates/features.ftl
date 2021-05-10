@@ -56,6 +56,10 @@ experimental-features-devtools-serviceworker-debugger-support-description = Hata
 experimental-features-webrtc-global-mute-toggles =
     .label = WebRTC Global Ses Kapatma Düğmeleri
 experimental-features-webrtc-global-mute-toggles-description = WebRTC genel paylaşım göstergesine kullanıcıların mikrofonlarını ve kameralarını her yerde sessize almalarını sağlayan düğmeleri ekler.
+# Win32k Lockdown
+experimental-features-win32k-lockdown =
+    .label = Win32k kilidi
+experimental-features-win32k-lockdown-description = Tarayıcı sekmelerinde Win32k API’lerinin kullanımını devre dışı bırakır. Güvenlik artışı sağlar ancak şu anda istikrarsız veya hatalı olabilir. (Yalnızca Windows için)
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp

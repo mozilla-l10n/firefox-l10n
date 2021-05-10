@@ -15,6 +15,7 @@ policy-AllowedDomainsForApps = Google Workspace’e erişim izni olan etki alanl
 policy-AppAutoUpdate = Otomatik uygulama güncellemesini aç veya kapat.
 policy-AppUpdateURL = Özel uygulama güncelleme URL’si ayarla.
 policy-Authentication = Destekleyen web siteleri için bütünleşik kimlik doğrulamasını yapılandır.
+policy-AutoLaunchProtocolsFromOrigins = Listelenen kaynaklardan kullanıcıya sormadan kullanılabilecek harici protokollerin listesini tanımla.
 policy-BackgroundAppUpdate2 = Arka plan güncelleyicisini aç veya kapat.
 policy-BlockAboutAddons = Eklenti yöneticisine (about:addons) erişimi engelle.
 policy-BlockAboutConfig = about:config sayfasına erişimi engelle.
