@@ -66,13 +66,13 @@ Somewey or anither <p>&brandShortName; cannae load this page.</p>
 
 <!ENTITY contentEncodingError.longDesc "
 <ul>
-  <li>Please get in touch wi the wabsite owners tae lat them ken aboot this problem..</li>
+  <li>Gonnae get in touch wi the wabsite owners tae lat them ken aboot this problem..</li>
 </ul>
 ">
 
 <!ENTITY unsafeContentType.longDesc "
 <ul>
-  <li>Please get in touch wi the wabsite owners tae lat them ken aboot this problem.</li>
+  <li>Gonnae get in touch wi the wabsite owners tae lat them ken aboot this problem.</li>
 </ul>
 ">
 
@@ -121,7 +121,7 @@ Somewey or anither <p>&brandShortName; cannae load this page.</p>
 <!ENTITY nssFailure2.longDesc2 "
 <ul>
   <li>The page yer tryin tae view cannae be shawn acause the authenticity o the receivit data couldnae be trystmakkit.</li>
-  <li>Please get in touch wi the wabsite owners fur tae lat them ken anent this problem.</li>
+  <li>Gonnae get in touch wi the wabsite owners fur tae lat them ken anent this problem.</li>
 </ul>
 ">
 
@@ -164,14 +164,14 @@ was trying to connect. -->
 
 <!ENTITY xfoBlocked.longDesc "<p>&brandShortName; stappit this page fae loadin in this context acause the page has an X-Frame-Options policy that disnae alloo it.</p>">
 
-<!ENTITY corruptedContentErrorv2.longDesc "<p>The page yer tryin tae view cannae be shawn acause a mishanter in the data transmission wis detectit.</p><ul><li>Please get in touch wi the wabsite owners tae lat them ken aboot this problem.</li></ul>">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>The page yer tryin tae view cannae be shawn acause a mishanter in the data transmission wis detectit.</p><ul><li>Gonnae get in touch wi the wabsite owners tae lat them ken aboot this problem.</li></ul>">
 
 <!ENTITY securityOverride.exceptionButton1Label "Accept the Risk and Gang On">
 
 <!ENTITY errorReporting.automatic2 "Lat Mozilla ken aboot siclike mishanters fur tae help it identify and block uncannie sites">
 <!ENTITY errorReporting.learnMore "Lairn mair…">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Please get in touch wi the wabsite owners fur tae let them ken aboot this problem.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Gonnae get in touch wi the wabsite owners fur tae let them ken aboot this problem.</li></ul></p>">
 
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
@@ -203,4 +203,4 @@ was trying to connect. -->
 <!ENTITY enableTls10.note "TLS 1.0 and TLS 1.1 will be disabled fur aye in a future roll-oot.">
 <!ENTITY enableTls10.label "Enable TLS 1.0 and 1.1">
 
-<!ENTITY networkProtocolError.longDesc "<p>The page yer tryin tae view cannae be shawn acause an error in the netwark protocol wis detectit.</p><ul><li>Please get in touch wi the wabsite owners fur tae lat them ken aboot this problem.</li></ul>">
+<!ENTITY networkProtocolError.longDesc "<p>The page yer tryin tae view cannae be shawn acause an error in the netwark protocol wis detectit.</p><ul><li>Gonnae get in touch wi the wabsite owners fur tae lat them ken aboot this problem.</li></ul>">

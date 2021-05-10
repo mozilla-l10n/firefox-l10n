@@ -44,7 +44,7 @@
 <!ENTITY translation.errorTranslating.label     "There has been a mishanter owersettin this page.">
 <!ENTITY translation.tryAgain.button            "Try Aince Mair">
 
-<!ENTITY translation.serviceUnavailable.label   "Owersettin isnae available the noo. Please gie it anither shot later on.">
+<!ENTITY translation.serviceUnavailable.label   "Owersettin isnae available the noo. Gie it anither shot later on.">
 
 <!ENTITY translation.options.menu               "Options">
 <!-- LOCALIZATION NOTE (translation.options.neverForSite.accesskey,
