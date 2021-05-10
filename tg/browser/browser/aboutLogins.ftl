@@ -75,6 +75,12 @@ about-logins-login-intro-heading-logged-out2 = Воридшавиҳои ниго
 about-logins-login-intro-heading-logged-in = Ягон воридшавии ҳамоҳангшуда ёфт нашуд.
 login-intro-description = Агар шумо воридшавиҳои худро дар дастгоҳҳои гуногун ба { -brand-product-name } сабт карда бошед, дар он сурат шумо дар ин ҷо ба онҳо ҳамин тавр дастрасӣ пайдо мекунед:
 login-intro-instruction-fxa = Эҷод кунед ё ба { -fxaccount-brand-name }-и худ аз дастгоҳе, ки дар он воридшавиҳои шумо нигоҳ дошта шудаанд, ворид шавед
+login-intro-instruction-fxa-settings = Мутмаин шавед, ки шумо дар Танзимоти { -sync-brand-short-name } барои «Воридшавиҳо» аломати қайдро гузоштед
+about-logins-intro-instruction-help = Барои гирифтани кумак ба <a data-l10n-name="help-link">Дастгирии { -lockwise-brand-short-name }</a> ташриф оред
+login-intro-instructions-fxa = Эҷод кунед ё ба { -fxaccount-brand-name(capitalization: "sentence") }-и худ аз дастгоҳе, ки дар он воридшавиҳои шумо нигоҳ дошта шудаанд, ворид шавед.
+login-intro-instructions-fxa-settings = Ба Танзимот > Ҳамоҳангсозӣ > Фаъол кардани ҳамоҳангсозӣ гузаред… Ба «Воридшавиҳо ва ниҳонвожаҳо» аломати қайдро гузоред.
+login-intro-instructions-fxa-help = Барои гирифтани кумак ба <a data-l10n-name="help-link">Дастгирии { -lockwise-brand-short-name }</a> ташриф оред.
+about-logins-intro-import = Агар воридшавиҳои шумо дар браузери дигар нигоҳ дошта бошанд, шумо метавонед <a data-l10n-name="import-link">онҳоро ба { -lockwise-brand-short-name } ворид кунед</a>
 
 ## Login
 
