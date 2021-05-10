@@ -1018,6 +1018,7 @@ enhanced-tracking-protection-setting-custom =
 content-blocking-etp-standard-desc = Imbytéva ñemo’ã ha tembiapokuépe g̃uarã. Umi kuatiarogue henyhẽta hekoitépe.
 content-blocking-etp-strict-desc = Ñemo’ãve, hákatu ikatu ndahetái tenda térã tetepy nahenyhẽi.
 content-blocking-etp-custom-desc = Eiporavo mba’ete tapykuehoha ha scripts ejokose.
+content-blocking-etp-blocking-desc = { -brand-short-name } ojoko ko’ãva:
 content-blocking-private-windows = Tetepy rapykueho ovetã ñemíme
 content-blocking-cross-site-cookies = Kookie tenda pa’ũme
 content-blocking-cross-site-cookies-in-all-windows = Tenda ojuasáva kookie opaite ovetãme (oĩhápe kookie tapykuehoháva)

@@ -66,7 +66,7 @@ experimental-features-webrtc-global-mute-toggles =
 experimental-features-webrtc-global-mute-toggles-description = Embojuaju moambueha WebRTC iñambuéva tuichaháicha omoneĩva puruharápe omondohóvo tuichaháicha iñe’ẽatãha ha ha’ãngamýi.
 # Win32k Lockdown
 experimental-features-win32k-lockdown =
-    .label = Win32k ñemomombyry
+    .label = Win32k jejoko
 experimental-features-win32k-lockdown-description = Eipe’a pe Win32k API jepuru kundahára rendayképe. Ome’ẽkuaa tekorosãve, hákatu naiporãmbái térã ojavykuaa. (Windows-pe añoite)
 # JS JIT Warp project
 experimental-features-js-warp =
