@@ -14,7 +14,7 @@ date-crashed-heading = Date Crashed
 submit-crash-button-label = Submit
 # This text is used to replace the label of the crash submit button
 # if the crash submission fails.
-submit-crash-button-failure-label = Didnae wark
+submit-crash-button-failure-label = Didnae wirk
 crashes-submitted-label = Submittit Crash Reports
 date-submitted-heading = Date Submittit
 view-crash-button-label = View

@@ -47,7 +47,7 @@ app-basics-update-dir =
        *[other] Update Folder
     }
 app-basics-update-history = Update Historie
-app-basics-show-update-history = Shaw Update Historie
+app-basics-show-update-history = Kythe Update Historie
 # Represents the path to the binary used to start the application.
 app-basics-binary = Application Binary
 app-basics-profile-dir =
@@ -77,7 +77,7 @@ app-basics-key-mozilla = Mozilla Airtin Service Key
 app-basics-safe-mode = Sauf Mode
 show-dir-label =
     { PLATFORM() ->
-        [macos] Shaw in Finder
+        [macos] Kythe in Finder
         [windows] Open Folder
        *[other] Open Directory
     }
@@ -325,7 +325,7 @@ gpu-device-reset-button = Trigger Device Reset
 uses-tiling = Yaises Tilin
 content-uses-tiling = Yaises Tilin (Content)
 off-main-thread-paint-enabled = Aff Main Threid Pentin Enabled
-off-main-thread-paint-worker-count = Aff Main Threid Pentin Warker Coont
+off-main-thread-paint-worker-count = Aff Main Threid Pentin Wirker Coont
 target-frame-rate = Target Frame Rate
 min-lib-versions = Expectit minimum version
 loaded-lib-versions = Version in yaise
