@@ -62,6 +62,12 @@ context-still_secure = 与 { $name } 的加密对话已成功刷新。
 msgevent-encryption-required-part1 = 您试图将未加密的消息发送给 { $name }。根据政策，不允许发送未加密的消息。
 msgevent-encryption-required-part2 = 尝试进行私人对话。将在私人对话开始后重发您的消息。
 msgevent-encryption-error = 加密消息时出错，消息未发送。
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-connection-ended = { $name } 已关闭与您的加密连接。为避免意外发送未加密的消息，你的消息并未发送。请结束或重新开始您的加密对话。
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-setup-error = 与 { $name } 建立私人对话时出错。
 # Do not translate 'OTR' (name of an encryption protocol)
 msgevent-msg-reflected = 您正在接收自己的 OTR 消息。要么您正在自言自语，要么有人正在复读您的消息。
 # Variables:
@@ -110,6 +116,9 @@ error-enc = 加密消息时发生错误。
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 error-not_priv = 您已将加密的数据发送给 { $name }，而对方并未预期收到此数据。
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+error-not-priv = 您发送了加密数据给 { $name }，但对方并未如预期收到。
 error-unreadable = 您发出了无法读取的加密消息。
 error-malformed = 您发出了数据格式错误的消息。
 resent = [重发]
