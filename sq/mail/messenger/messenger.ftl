@@ -11,6 +11,12 @@ unread-messages-os-tooltip =
     }
 about-rights-notification-text = { -brand-short-name } është program i lirë dhe me burim të hapët, i krijuar nga një bashkësi mijëra vetash nga anembanë bota.
 
+## Toolbar
+
+addons-and-themes-button =
+    .label = Shtesa dhe Tema
+    .tooltip = Administroni shtesat tuaja
+
 ## Folder Pane
 
 folder-pane-toolbar =
@@ -43,3 +49,34 @@ show-recent-folders-label =
 folder-toolbar-toggle-folder-compact-view =
     .label = Parje e Ngjeshur
     .accesskey = N
+
+## AppMenu
+
+# Since v89 we dropped the platforms distinction between Options or Preferences
+# and consolidated everything with Preferences.
+appmenu-preferences =
+    .label = Parapëlqime
+appmenu-addons-and-themes =
+    .label = Shtesa dhe Tema
+appmenu-help-enter-troubleshoot-mode =
+    .label = Mënyra Diagnostikim…
+appmenu-help-exit-troubleshoot-mode =
+    .label = Çaktivizo Mënyrën Diagnostikim
+appmenu-help-more-troubleshooting-info =
+    .label = Më Tepër të Dhëna Diagnostikimi
+
+## Action Button Context Menu
+
+toolbar-context-menu-manage-extension =
+    .label = Administroni Zgjerimin
+    .accesskey = A
+toolbar-context-menu-remove-extension =
+    .label = Hiqe Zgjerimin
+    .accesskey = H
+
+## Add-on removal warning
+
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = Të hiqet { $name }?
+addon-removal-confirmation-button = Hiqe
