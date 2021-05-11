@@ -229,6 +229,10 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Waɗtu Yiylorɗe Woowaanɗe ngam Windows Keeriiɗo
     .accesskey = P
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu =
+    .label = Ɓeydu yiylorde
 
 ## Local search mode one-off buttons
 ## Variables:
