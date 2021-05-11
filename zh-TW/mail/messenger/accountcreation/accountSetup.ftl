@@ -7,6 +7,9 @@ account-setup-tab-title = 帳號設定
 ## Header
 
 account-setup-title = 設定現有的電子郵件地址
+account-setup-description =
+    若要使用您目前的電子郵件地址，請填寫該帳號的登入資訊。<br/>
+    { -brand-product-name } 將會自動尋找可用並建議使用的伺服器設定。
 
 ## Form fields
 
@@ -22,6 +25,8 @@ account-setup-name-warning-icon =
     .title = { account-setup-name-warning }
 account-setup-email-label = 電子郵件地址
     .accesskey = E
+account-setup-email-input =
+    .placeholder = aming_wang@example.com.tw
 account-setup-email-info-icon =
     .title = 您目前的電子郵件地址
 account-setup-email-warning = 無效的電子郵件地址
@@ -95,15 +100,58 @@ account-setup-step3-image =
     .title = 找到設定
 account-setup-step4-image =
     .title = 連線錯誤
+account-setup-privacy-footnote = 將依照我們的<a data-l10n-name="privacy-policy-link">隱私權保護政策</a>使用您的登入資訊，並且只會儲存於您本機電腦上。
+account-setup-selection-help = 不確定要怎麼選？
+account-setup-selection-error = 需要幫忙嗎？
+account-setup-documentation-help = 設定文件
+account-setup-forum-help = 技術支援討論區
 
 ## Results area
 
+account-setup-protocol-title = 選擇通訊協定
+# Note: IMAP is the name of a protocol.
+account-setup-result-imap = IMAP
+account-setup-result-imap-description = 與您的伺服器同步信件匣與郵件
+# Note: POP3 is the name of a protocol.
+account-setup-result-pop = POP3
+account-setup-result-pop-description = 將您伺服器上的信件匣與郵件下載到電腦上
+# Note: Exchange is the name of a product.
+account-setup-result-exchange = Exchange
+account-setup-result-exchange-description = Microsoft Exchange Server
+account-setup-incoming-title = 內送
+account-setup-outgoing-title = 外寄
+account-setup-username-title = 使用者名稱
+account-setup-exchange-title = 伺服器
 
 ## Error messages
 
 
 ## Manual config area
 
+account-setup-manual-config-title = 伺服器設定
+account-setup-incoming-protocol-label = 內送通訊協定
+protocol-imap-option = { account-setup-result-imap }
+protocol-pop-option = { account-setup-result-pop }
+account-setup-outgoing-protocol-label = 外寄通訊協定
+outgoing-protocol = SMTP
+account-setup-incoming-server-label = 內送伺服器
+account-setup-outgoing-server-label = 外寄伺服器
+account-setup-incoming-port-label = 內送通訊埠
+account-setup-outoing-port-label = 外寄通訊埠
+account-setup-incoming-ssl-label = 內送 SSL
+account-setup-outgoing-ssl-label = 外寄 SSL
+ssl-autodetect-option = 自動偵測
+ssl-noencryption-option = 無
+ssl-starttls-option = STARTTLS
+ssl-tls-option = SSL/TLS
+account-setup-incoming-auth-label = 內送認證方式
+account-setup-outgoing-auth-label = 外寄認證方式
+account-setup-incoming-username-label = 內送使用者名稱
+account-setup-outgoing-username-label = 外寄使用者名稱
+account-setup-advanced-setup-button = 進階設定
+    .accesskey = A
 
 ## Warning insecure server
 
+account-setup-insecure-server-checkbox = 我了解風險
+    .accesskey = u

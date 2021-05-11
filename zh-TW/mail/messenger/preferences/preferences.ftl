@@ -12,6 +12,7 @@ preferences-title =
         }
 preferences-tab-title =
     .title = 偏好設定
+preferences-doc-title = 偏好設定
 category-list =
     .aria-label = 分類
 pane-general-title = 一般
@@ -90,8 +91,8 @@ update-in-progress-ok-button = 捨棄 (&D)
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = 繼續 (&C)
-account-button = 帳號設定
 addons-button = 擴充套件與佈景主題
+account-button = 帳號設定
 open-addons-sidebar-button = 附加元件與佈景主題
 
 ## OS Authentication dialog
