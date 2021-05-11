@@ -23,6 +23,9 @@ upgrade-dialog-new-primary-default-button = { -brand-short-name } mijn voorkeurs
 upgrade-dialog-new-primary-pin-button = { -brand-short-name } aan mijn taakbalk vastmaken
 upgrade-dialog-new-primary-theme-button = Kies een thema
 upgrade-dialog-new-secondary-button = Niet nu
+# This string is only shown on Windows 7, where we intentionally suppress the
+# theme selection screen.
+upgrade-dialog-new-primary-win7-button = OK, begrepen!
 
 ## Theme selection screen
 
