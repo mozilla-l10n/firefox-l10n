@@ -219,6 +219,10 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Ter calo Injin Yeny Makwongo pi Dirica me Mung
     .accesskey = D
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu =
+    .label = Med injin me yeny
 
 ## Local search mode one-off buttons
 ## Variables:
