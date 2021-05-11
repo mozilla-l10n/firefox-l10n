@@ -19,6 +19,11 @@ experimental-features-media-avif =
 experimental-features-media-avif-description = Als deze functie is ingeschakeld, ondersteunt { -brand-short-name } het AV1 Image File (AVIF)-formaat. Dit is een bestandsformaat voor stilstaande beelden dat gebruik maakt van de mogelijkheden van de AV1-videocompressie-algoritmen om de afbeeldingsgrootte te verkleinen. Zie <a data-l10n-name="bugzilla">bug 1443863</a> voor meer details.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
+experimental-features-media-jxl =
+    .label = Media: JPEG XL
+experimental-features-media-jxl-description = Als deze functie is ingeschakeld, ondersteunt { -brand-short-name } de JPEG XL (JXL)-indeling. Dit is een verbeterde bestandsindeling voor afbeeldingen die een verliesvrije overgang van traditionele JPEG-bestanden ondersteunt. Zie <a data-l10n-name="bugzilla">bug 1539075</a> voor meer details.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
     .label = Web API: inputmode
 # "inputmode" and "contenteditable" are technical terms and shouldn't be translated.
