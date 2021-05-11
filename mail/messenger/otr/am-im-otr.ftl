@@ -17,12 +17,15 @@ otr-log =
     .label = OTR-versleutelde berichten in gesprekslogboeken opnemen
 otr-requireEncryption =
     .label = End-to-end-versleuteling voor een-op-een-gesprekken vereisen
+otr-require-encryption =
+    .label = End-to-end-versleuteling voor een-op-een-gesprekken vereisen
 otr-require-encryption-info =
     Wanneer end-to-end-versleuteling wordt vereist, worden berichten in een-op-een-gesprekken
     niet verzonden, tenzij ze kunnen worden versleuteld. Ontvangen onversleutelde berichten
     worden niet getoond als onderdeel van het reguliere gesprek en ook niet geregistreerd.
 otr-verifyNudge =
     .label = Mij altijd eraan herinneren een ongeverifieerd contact te verifiëren
-
 otr-notYetAvailable = nog niet beschikbaar
-
+otr-verify-nudge =
+    .label = Mij altijd eraan herinneren een ongeverifieerd contact te verifiëren
+otr-not-yet-available = nog niet beschikbaar
