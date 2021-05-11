@@ -11,6 +11,8 @@ newtab-settings-button =
 newtab-personalize-button-label = Přizpůsobit
     .title = Přizpůsobení nového panelu
     .aria-label = Přizpůsobení nového panelu
+newtab-personalize-dialog-label =
+    .aria-label = Přizpůsobit
 
 ## Search box component.
 
