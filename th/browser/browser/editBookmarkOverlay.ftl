@@ -49,4 +49,4 @@ bookmark-overlay-keyword-2 =
     .value = คำสำคัญ
     .accesskey = K
 bookmark-overlay-tags-caption-label = ใช้ป้ายกำกับเพื่อจัดระเบียบและค้นหาที่คั่นหน้าได้จากแถบที่อยู่
-bookmark-overlay-keyword-caption-label = ใช้คำสำคัญเพื่อเปิดที่คั่นหน้าได้โดยตรงจากแถบที่อยู่
+bookmark-overlay-keyword-caption-label-2 = ใช้คำสำคัญคำเดียวเพื่อเปิดที่คั่นหน้าโดยตรงจากแถบที่อยู่

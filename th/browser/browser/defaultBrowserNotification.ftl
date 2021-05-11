@@ -12,6 +12,11 @@ default-browser-notification-button =
 ## depending on the operating system (Windows vs other). The checkbox label and
 ## secondary button are shared between the variants.
 
+default-browser-prompt-title-pin = ต้องการทำให้ { -brand-short-name } เป็นเบราว์เซอร์หลักของคุณหรือไม่
+default-browser-prompt-message-pin = นำ { -brand-short-name } มาไว้ที่ปลายนิ้วมือของคุณโดยทำให้เป็นเบราว์เซอร์เริ่มต้นของคุณและปักหมุดเข้ากับแถบงานของคุณ
+default-browser-prompt-button-primary-pin = ทำให้เป็นเบราว์เซอร์หลัก
+default-browser-prompt-title-alt = ต้องการทำให้ { -brand-short-name } เป็นเบราว์เซอร์เริ่มต้นของคุณหรือไม่
+default-browser-prompt-message-alt = รับความเร็ว ความปลอดภัย และความเป็นส่วนตัวในทุกครั้งที่คุณเรียกดู
 default-browser-prompt-button-primary-alt = ตั้งเป็นเบราว์เซอร์เริ่มต้น
 default-browser-prompt-checkbox-not-again-label = อย่าแสดงข้อความนี้อีก
 default-browser-prompt-button-secondary = ไม่ใช่ตอนนี้

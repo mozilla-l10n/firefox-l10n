@@ -1002,9 +1002,12 @@ enhanced-tracking-protection-setting-custom =
 content-blocking-etp-standard-desc = การป้องกันและประสิทธิภาพแบบสมดุล หน้าเว็บจะโหลดเป็นปกติ
 content-blocking-etp-strict-desc = การป้องกันที่แกร่งขึ้น แต่อาจทำให้บางไซต์หรือเนื้อหาหยุดทำงานได้
 content-blocking-etp-custom-desc = เลือกตัวติดตามหรือสคริปต์ที่ต้องการปิดกั้น
+content-blocking-etp-blocking-desc = { -brand-short-name } จะปิดกั้นสิ่งต่อไปนี้:
 content-blocking-private-windows = ตัวติดตามเนื้อหาในหน้าต่างส่วนตัว
 content-blocking-cross-site-cookies = คุกกี้ข้ามไซต์
+content-blocking-cross-site-cookies-in-all-windows = คุกกี้แบบข้ามไซต์ในทุกหน้าต่าง (รวมถึงคุกกี้ติดตาม)
 content-blocking-cross-site-tracking-cookies = คุกกี้ติดตามข้ามไซต์
+content-blocking-all-cross-site-cookies-private-windows = คุกกี้แบบข้ามไซต์ในหน้าต่างส่วนตัว
 content-blocking-cross-site-tracking-cookies-plus-isolate = คุกกี้ติดตามข้ามไซต์ และแยกคุกกี้ที่เหลืออยู่
 content-blocking-social-media-trackers = ตัวติดตามสื่อสังคมออนไลน์
 content-blocking-all-cookies = คุกกี้ทั้งหมด
@@ -1124,6 +1127,8 @@ collection-backlogged-crash-reports =
     .label = อนุญาตให้ { -brand-short-name } ส่งรายงานข้อขัดข้องที่ค้างอยู่ในนามของคุณ
     .accesskey = ต
 collection-backlogged-crash-reports-link = เรียนรู้เพิ่มเติม
+collection-backlogged-crash-reports-with-link = อนุญาตให้ { -brand-short-name } ส่งรายงานข้อขัดข้องในชื่อของคุณ <a data-l10n-name="crash-reports-link">เรียนรู้เพิ่มเติม</a>
+    .accesskey = ข
 
 ## Privacy Section - Security
 ##
