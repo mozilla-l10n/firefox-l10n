@@ -5,6 +5,9 @@
 
 ## These strings appear on the warning you see when first visiting about:config.
 
+about-config-intro-warning-title = Продолжете со претпазливост
+about-config-intro-warning-text = Промената на поставките за напредна конфигурација може да влијае на ефикасноста или безбедноста на { -brand-short-name }.
+about-config-intro-warning-checkbox = Предупреди ме кога ќе се обидам да пристапам до овие преференци
 about-config-intro-warning-button = Прифати го ризикот и продолжи
 
 ##
@@ -28,6 +31,7 @@ about-config-pref-delete-button =
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
+about-config-pref-add-type-boolean = Булов израз
 about-config-pref-add-type-number = Број
 about-config-pref-add-type-string = Текст
 
