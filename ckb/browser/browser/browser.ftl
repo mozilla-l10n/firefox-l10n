@@ -228,6 +228,10 @@ search-one-offs-context-set-as-default-private =
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu =
+    .label = بزوێنەری گەڕان زیادبکە
 
 ## Local search mode one-off buttons
 ## Variables:
@@ -516,6 +520,9 @@ library-bookmarks-menu =
 save-to-pocket-button =
     .label = پاشەکەوتی بکە لە { -pocket-brand-name }
     .tooltiptext = پاشەکەوتی بکە لە { -pocket-brand-name }
+
+## Customize Toolbar Buttons
+
 
 ## More items
 
