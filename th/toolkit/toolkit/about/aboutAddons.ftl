@@ -10,6 +10,7 @@ search-header =
     .searchbuttonlabel = ค้นหา
 search-header-shortcut =
     .key = f
+list-empty-get-extensions-message = รับส่วนขยายและชุดตกแต่งบน <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-installed =
     .value = คุณไม่ได้ติดตั้งส่วนเสริมประเภทนี้ไว้
 list-empty-available-updates =
