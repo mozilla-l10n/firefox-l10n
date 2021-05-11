@@ -76,12 +76,39 @@ account-setup-looking-up-exchange = Konfiguracija so přepytuje: Exchange server
 account-setup-checking-password = Hesło so kontroluje…
 account-setup-installing-addon = Přidatk so sćahuje a instaluje…
 account-setup-success-half-manual = Slědowace nastajenja su so přez wuprobowanje podateho serwera namakali:
+account-setup-success-guess = Konfiguracija přez probowanje zwučenych serwerowych mjenow namakana.
+account-setup-success-guess-offline = Sće offline. Smy nastajenja předpokładli, ale dyrbiće prawe nastajenja zapodać.
+account-setup-success-password = Hesło je w porjadku
+account-setup-success-addon = Přidatk je so wuspěšnje zainstalował
+# Note: Do not translate or replace Mozilla. It stands for the public project mozilla.org, not Mozilla Corporation. The database is a generic, public domain facility usable by any client.
+account-setup-success-settings-db = Konfiguracija w datowej bance Mozilla ISP namakana.
+account-setup-success-settings-disk = Konfiguracija na instalaciji { -brand-short-name } namakana
+account-setup-success-settings-isp = Konfiguracija při e-mejlowym poskićowarju namakana.
+# Note: Microsoft Exchange is a product name.
+account-setup-success-settings-exchange = Konfiguracija je so za serwer Microsoft Exchange namakał.
 
 ## Illustrations
 
+account-setup-step1-image =
+    .title = Spočatna konfiguracija
+account-setup-step2-image =
+    .title = Začituje so…
+account-setup-step3-image =
+    .title = Konfiguracija je so namakała
+account-setup-step4-image =
+    .title = Zwiskowy zmylk
+account-setup-selection-help = Njejsće sej wěsty, štož maće wubrać?
+account-setup-selection-error = Trjebaće pomoc?
+account-setup-documentation-help = Konfiguraciska dokumentacija
+account-setup-forum-help = Forum pomocy
 
 ## Results area
 
+account-setup-protocol-title = Protokol wubraś
+# Note: IMAP is the name of a protocol.
+account-setup-result-imap = IMAP
+# Note: POP3 is the name of a protocol.
+account-setup-result-pop = POP3
 
 ## Error messages
 
