@@ -12,6 +12,7 @@ auth-cancel-access-key = C
 auth-error = 验证联系人身份时发生错误。
 auth-success = 已成功验证联系人的身份。
 auth-successThem = 您的联系人已成功验证您的身份。您可能也想问他们问题，来验证其身份。
+auth-success-them = 您的联系人已成功验证您的身份。您可能也想问他们问题，来验证其身份。
 auth-fail = 无法验证联系人的身份。
 auth-waiting = 等待联系人完成验证…
 finger-verify = 验证

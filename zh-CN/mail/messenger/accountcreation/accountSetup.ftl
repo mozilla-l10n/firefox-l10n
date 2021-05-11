@@ -65,6 +65,7 @@ account-setup-button-done = 完成
 account-setup-looking-up-settings = 正在查询配置…
 account-setup-looking-up-settings-guess = 正在查询配置：正在尝试常用的服务器名称…
 account-setup-looking-up-settings-half-manual = 正在查询配置：正在探测服务器…
+account-setup-looking-up-disk = 正在查询配置：{ -brand-short-name } 安装…
 account-setup-looking-up-isp = 正在查询配置：电子邮件服务商...
 # Note: Do not translate or replace Mozilla. It stands for the public project mozilla.org, not Mozilla Corporation. The database is a generic, public domain facility usable by any client.
 account-setup-looking-up-db = 正在查询配置：Mozilla ISP 数据库…
@@ -77,11 +78,17 @@ account-setup-success-password = 密码正确
 account-setup-success-addon = 已成功安装附加组件
 # Note: Do not translate or replace Mozilla. It stands for the public project mozilla.org, not Mozilla Corporation. The database is a generic, public domain facility usable by any client.
 account-setup-success-settings-db = 从 Mozilla ISP 数据库中找到配置。
+account-setup-success-settings-disk = 在 { -brand-short-name } 安装找到配置。
+account-setup-success-settings-isp = 从电子邮件服务商找到配置。
+# Note: Microsoft Exchange is a product name.
+account-setup-success-settings-exchange = 找到 Microsoft Exchange 服务器的配置。
 
 ## Illustrations
 
 account-setup-step1-image =
     .title = 初始设置
+account-setup-step2-image =
+    .title = 正在加载…
 account-setup-step3-image =
     .title = 找到配置
 account-setup-step4-image =
@@ -111,6 +118,7 @@ account-setup-exchange-title = 服务器
 ## Error messages
 
 account-setup-credentials-wrong = 验证失败。请检查用户名和密码
+account-setup-find-settings-failed = { -brand-short-name } 未能找到你的邮件账户设置
 
 ## Manual config area
 
