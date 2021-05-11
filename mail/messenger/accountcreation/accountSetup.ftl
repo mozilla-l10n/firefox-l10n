@@ -120,6 +120,8 @@ account-setup-exchange-title = Servidor
 
 ## Error messages
 
+# Note: The reference to "janedoe" (Jane Doe) is the name of an example person. You will want to translate it to whatever example persons would be named in your language. In the example, AD is the name of the Windows domain, and this should usually not be translated.
+account-setup-credentials-incomplete = Falha na autenticação. As credenciais informadas estão incorretas ou outro nome de usuário é necessário para acessar a conta. Este nome de usuário geralmente é a conta no domínio do Windows, com ou sem o prefixo do domínio (por exemplo, alice ou AD\\alice)
 account-setup-credentials-wrong = Falha na autenticação. Verifique o nome de usuário e a senha
 account-setup-find-settings-failed = O { -brand-short-name } não conseguiu encontrar as configurações de sua conta de email
 
