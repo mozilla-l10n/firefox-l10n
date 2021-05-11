@@ -12,6 +12,7 @@ preferences-title =
         }
 preferences-tab-title =
     .title = პარამეტრები
+preferences-doc-title = პარამეტრები
 category-list =
     .aria-label = კატეგორიები
 pane-general-title = ძირითადი
