@@ -21,6 +21,7 @@ experimental-features-media-avif-description = Hdyž tuta funkcija je zmóžnjen
 # by various online articles and is technical in nature.
 experimental-features-media-jxl =
     .label = Medije: JPEG XL
+experimental-features-media-jxl-description = Hdyž tuta funkcija je zmóžnjena, { -brand-short-name } format JPEG XL (XL) podpěruje. To je polěpšeny datajowy format za wobrazy, kotryž přechad bjez stratow wot tradicionelnych JPEG-datajow podpěruje. Hlejće <a data-l10n-name="bugzilla">zmylkowu rozprawu 1539075</a> za dalše podrobnosće.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
