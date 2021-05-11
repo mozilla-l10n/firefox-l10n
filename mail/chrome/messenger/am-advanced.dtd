@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from am-advanced.xul -->
-
 <!-- extracted from am-advanced.xhtml -->
 
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
@@ -27,5 +25,4 @@
 <!ENTITY serverPort.label "Port: ">
 <!ENTITY userName.label   "使用者名稱:">
 <!ENTITY connectionSecurity.label "連線安全性: ">
-<!ENTITY authMethod.label   "認證方式: ">
-
+<!ENTITY authMethod.label   "驗證方式: ">

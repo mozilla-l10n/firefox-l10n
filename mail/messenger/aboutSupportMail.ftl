@@ -11,10 +11,8 @@ accounts-incoming-server = 收件伺服器
 accounts-outgoing-servers = 寄件伺服器
 accounts-server-name = 名稱
 accounts-conn-security = 連線安全性
-accounts-auth-method = 認證方式
+accounts-auth-method = 驗證方式
 accounts-default = 預設值？
 identity-name = 身份識別
-
 send-via-email = 透過電子郵件寄出
-
 app-basics-telemetry = Telemetry 資料
