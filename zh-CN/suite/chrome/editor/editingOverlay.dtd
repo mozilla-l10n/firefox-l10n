@@ -58,3 +58,5 @@
 <!ENTITY publishToolbarCmd.tooltip "上载文件到远端地址">
 <!ENTITY printToolbarCmd.label "打印">
 <!ENTITY printToolbarCmd.tooltip "打印此页">
+<!ENTITY formToolbarCmd.label "表单">
+<!ENTITY formToolbarCmd.tooltip "插入新表单或编辑所选表单的属性">
