@@ -206,6 +206,10 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = သီးသန့်ဝင်းဒိုးများ၏ ရှာဖွေရေးအင်ဂျင်အဖြစ် သတ်မှတ်ပါ
     .accesskey = P
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu =
+    .label = ရှာဖွေရေး အင်ဂျင်ကို ထပ်ထည့်ပါ
 
 ## Local search mode one-off buttons
 ## Variables:
