@@ -58,3 +58,5 @@
 <!ENTITY publishToolbarCmd.tooltip "ფაილის ატვირთვა გარე სერვერზე">
 <!ENTITY printToolbarCmd.label "ამობეჭდვა">
 <!ENTITY printToolbarCmd.tooltip "ამ გვერდის ამობეჭდვა">
+<!ENTITY formToolbarCmd.label "ველები">
+<!ENTITY formToolbarCmd.tooltip "ჩასვით ახალი ველები ან ჩაასწორეთ შერჩეულის პარამეტრები">
