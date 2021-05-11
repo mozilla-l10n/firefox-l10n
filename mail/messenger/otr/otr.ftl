@@ -59,6 +59,9 @@ context-gone_secure_unverified = Começou a conversa criptografada, mas não ver
 context-still_secure = Restaurou com sucesso a conversa criptografada com { $name }.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
+msgevent-setup-error = Ocorreu um erro ao preparar uma conversa privativa com { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
 msgevent-msg-resent = A última mensagem para { $name } foi reenviada.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
