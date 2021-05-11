@@ -92,6 +92,9 @@ msgevent-rcvdmsg-unrecognized = 您收到来自 { $name } 的 OTR 消息无法�
 context-gone-secure-private = 已开始与 { $name } 的私人对话。
 # Variables:
 #   $name (String) - the screen name of a chat contact person
+context-gone-secure-unverified = 已开始与 { $name } 有加密，但未经验证的对话。
+# Variables:
+#   $name (String) - the screen name of a chat contact person
 context-still-secure = 成功刷新与 { $name } 的加密对话。
 error-enc = 加密消息时发生错误。
 # Variables:
