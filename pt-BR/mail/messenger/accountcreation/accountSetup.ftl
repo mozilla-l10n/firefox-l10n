@@ -94,6 +94,26 @@ account-setup-manual-config-title = Configurações do servidor
 account-setup-incoming-protocol-label = Protocolo de recebimento
 protocol-imap-option = { account-setup-result-imap }
 protocol-pop-option = { account-setup-result-pop }
+account-setup-outgoing-protocol-label = Protocolo de envio
+outgoing-protocol = SMTP
+account-setup-incoming-server-label = Servidor de recebimento
+account-setup-outgoing-server-label = Servidor de envio
+account-setup-incoming-port-label = Porto de recebimento
+account-setup-outoing-port-label = Porto de envio
+account-setup-incoming-ssl-label = SSL de recebimento
+account-setup-outgoing-ssl-label = SSL de envio
+ssl-autodetect-option = Detectar automaticamente
+ssl-noencryption-option = Nenhum
+ssl-starttls-option = STARTTLS
+ssl-tls-option = SSL/TLS
+account-setup-incoming-auth-label = Autenticação de recebimento
+account-setup-outgoing-auth-label = Autenticação de envio
+account-setup-incoming-username-label = Nome de usuário de recebimento
+account-setup-outgoing-username-label = Nome de usuário de envio
+account-setup-advanced-setup-button = Configuração avançada
+    .accesskey = v
 
 ## Warning insecure server
 
+account-setup-insecure-server-checkbox = Eu entendo os riscos
+    .accesskey = E
