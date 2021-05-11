@@ -181,6 +181,10 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = पूर्वनिर्धारित खोजी इन्जिन बनाउनुहोस्
     .accesskey = D
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu =
+    .label = खोज इन्जिन थप्नुहोस्
 
 ## Local search mode one-off buttons
 ## Variables:
@@ -373,6 +377,9 @@ library-bookmarks-menu =
     .label = पुस्तकचिनोहरू
 
 ## Pocket toolbar button
+
+
+## Customize Toolbar Buttons
 
 
 ## More items
