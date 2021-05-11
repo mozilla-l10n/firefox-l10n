@@ -94,6 +94,9 @@ menu-file-print-preview =
 menu-file-print =
     .label = Печати…
     .accesskey = ч
+menu-file-import-from-another-browser =
+    .label = Увези од друг прелистувач...
+    .accesskey = и
 menu-file-go-offline =
     .label = Работи локално
     .accesskey = Р
@@ -142,6 +145,9 @@ menu-view-full-zoom-enlarge =
 menu-view-full-zoom-reduce =
     .label = Намали
     .accesskey = м
+menu-view-full-zoom-actual-size =
+    .label = Вистинска големина
+    .accesskey = В
 menu-view-full-zoom-toggle =
     .label = Зумирај само текст
     .accesskey = т
@@ -190,6 +196,8 @@ menu-history-synced-tabs =
     .label = Синхронизирани јазичиња
 menu-history-restore-last-session =
     .label = Врати претходна сесија
+menu-history-hidden-tabs =
+    .label = Скриени јазичиња
 menu-history-undo-menu =
     .label = Скоро-затворени јазичиња
 menu-history-undo-window-menu =
@@ -263,7 +271,7 @@ menu-window-bring-all-to-front =
 # NOTE: For Engineers, any additions or changes to Help menu strings should
 # also be reflected in the related strings in appmenu.ftl. Those strings, by
 # convention, will have the same ID as these, but prefixed with "app".
-# Example: appmenu-help-product
+# Example: appmenu-get-help
 #
 # These strings are duplicated to allow for different casing depending on
 # where the strings appear.
@@ -292,3 +300,8 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Рестрартирај со овозможени додатоци
     .accesskey = R
+# Label of the Help menu item. Either this or
+# menu-help-notdeceptive is shown.
+menu-help-report-deceptive-site =
+    .label = Пријавете измамничка страница
+    .accesskey = D

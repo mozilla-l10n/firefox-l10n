@@ -11,6 +11,10 @@ navbar-tooltip-instruction =
 
 ## Back
 
+main-context-menu-back =
+    .tooltiptext = Оди една страница назад
+    .aria-label = Назад
+    .accesskey = Б
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
 toolbar-button-back =
@@ -33,11 +37,17 @@ toolbar-button-forward-2 =
 
 ## Reload
 
+main-context-menu-reload =
+    .aria-label = Превчитај
+    .accesskey = П
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
 ## Stop
 
+main-context-menu-stop =
+    .aria-label = Стоп
+    .accesskey = С
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -45,6 +55,9 @@ toolbar-button-stop =
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+
+## Firefox Account Button
+
 
 ## Save Page
 
@@ -79,6 +92,11 @@ main-context-menu-save-link =
     .accesskey = С
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+
+## The access keys for "Copy Link" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
@@ -152,6 +170,11 @@ main-context-menu-media-video-fullscreen =
 main-context-menu-media-video-leave-fullscreen =
     .label = Исклучи цел екран
     .accesskey = у
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-pip =
+    .label = Слика во слика
+    .accesskey = с
 main-context-menu-image-reload =
     .label = Превчитај ја сликата
     .accesskey = р
@@ -215,6 +238,14 @@ main-context-menu-send-to-device =
 main-context-menu-view-background-image =
     .label = Прикажи ја позадинската слика
     .accesskey = ж
+
+## The access keys for "Use Saved Login" and "Use Saved Password"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+
+##
+
 main-context-menu-keyword =
     .label = Додај клучен збор за ова пребарување…
     .accesskey = к

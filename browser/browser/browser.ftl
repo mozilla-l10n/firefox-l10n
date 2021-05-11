@@ -23,7 +23,7 @@ browser-main-window =
 # there is no content title:
 #
 # "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
+# "private" - "Mozilla Firefox — (Private Browsing)"
 #
 # The last two are for use when there *is* a content title.
 # Do not use the brand name in the last two attributes, as we do on non-macOS.
@@ -51,6 +51,12 @@ urlbar-identity-button =
 
 ## Tooltips for images appearing in the address bar
 
+urlbar-services-notification-anchor =
+    .tooltiptext = Отвори панел за инсталација на порака
+urlbar-web-notification-anchor =
+    .tooltiptext = Променете дали можете да добивате известувања од страницата
+urlbar-midi-notification-anchor =
+    .tooltiptext = Отвори MIDI панел
 urlbar-eme-notification-anchor =
     .tooltiptext = Менаџирање со користење на софтвер со DRM
 urlbar-web-rtc-share-microphone-notification-anchor =
@@ -69,6 +75,8 @@ urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Менаџирајте го споделувањето на вашата камера и/или микрофон со ова место
 urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Складирани податоци во Трајно складиште
+urlbar-tip-help-icon =
+    .title = Побарајте помош
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -163,9 +171,16 @@ bookmark-panel-cancel =
     .accesskey = О
 bookmark-panel-done-button =
     .label = Во ред
+# Width of the bookmark panel.
+# Should be large enough to fully display the Done and
+# Cancel/Remove Bookmark buttons.
+bookmark-panel =
+    .style = min-width: 23em
 
 ## Identity Panel
 
+identity-connection-not-secure = Врската не е безбедна
+identity-connection-secure = Врската е безбедна
 identity-connection-internal = Ова е безбедна страница на { -brand-short-name }.
 identity-connection-file = Оваа страница е складирана на вашиот компјутер.
 identity-extension-page = Оваа страница е вчитана преку проширување.
@@ -174,11 +189,18 @@ identity-passive-loaded = Делови од оваа страница не се 
 identity-active-loaded = Ја исклучивте заштитата за оваа страница.
 identity-weak-encryption = Оваа страница користи слаба енкрипција.
 identity-insecure-login-forms = Најавувањата на оваа страница можат да бидат злоупотребени.
+identity-permissions =
+    .value = Дозволи
 identity-permissions-reload-hint = Можно е да треба да ја превчитате страницата за измените да имаат ефект.
 identity-permissions-empty = Немате активирано специфични дозволи за ова место.
+identity-clear-site-data =
+    .label = Исчисти колачиња и податоци за мрежно место
+identity-connection-not-secure-security-view = Вие не сте безбедно поврзани со оваа страница.
+identity-connection-verified = Вие сте безбедно поврзани со оваа страница.
 identity-remove-cert-exception =
     .label = Отстрани исклучок
     .accesskey = Д
+identity-description-insecure = Вашата врска со оваа страница не е приватна. Информациите што ги доставувате може да ги гледаат други (како лозинки, пораки, кредитни картички, итн.).
 identity-description-insecure-login-forms = Податоците што ги внесувате за најава на оваа страница не се безбедни и би можеле да бидат злоупотребени.
 identity-description-weak-cipher-intro = Вашата врска со ова мрежно место користи слаба енкрипција и не е приватна.
 identity-description-weak-cipher-risk = Други луѓе можат да ги гледаат вашите информации или да го менуваат однесувањето на мрежното место.
@@ -237,6 +259,8 @@ popup-all-windows-shared = Сите видливи прозорци на ваш�
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Барај или внеси адреса
+# This placeholder is used when not in search mode and the user's default search
+# engine is unknown.
 urlbar-placeholder =
     .placeholder = Барај или внеси адреса
 urlbar-remote-control-notification-anchor =
