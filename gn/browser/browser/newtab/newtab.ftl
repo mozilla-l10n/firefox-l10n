@@ -11,6 +11,8 @@ newtab-settings-button =
 newtab-personalize-button-label = Ñemomba’e
     .title = Eñemomba’e tendayke pyahúre
     .aria-label = Eñemomba’e tendayke pyahúre
+newtab-personalize-dialog-label =
+    .aria-label = Ñemomba’e
 
 ## Search box component.
 
