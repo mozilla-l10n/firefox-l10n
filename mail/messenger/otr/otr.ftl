@@ -73,10 +73,52 @@ msgevent-msg-reflected = Ви отримуєте власні повідомле
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-msg-resent = Останнє повідомлення до { $name } було повторно надіслано.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg-not-private = Зашифроване повідомлення, отримане від { $name }, неможливо прочитати, оскільки зараз ви не в приватній бесіді.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg-unreadable = Ви отримали зашифроване повідомлення від { $name }, яке неможливо прочитати.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg-malformed = Ви отримали хибні дані повідомлення від { $name }.
+# A Heartbeat is a technical message used to keep a connection alive.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-log-heartbeat-rcvd = Ви отримали технічне повідомлення для продовження встановленого зʼєднання від { $name }.
+# A Heartbeat is a technical message used to keep a connection alive.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-log-heartbeat-sent = Надіслано технічне повідомлення для продовження встановленого зʼєднання з { $name }.
+# Do not translate 'OTR' (name of an encryption protocol)
+msgevent-rcvdmsg-general-err = Сталася неочікувана помилка під час спроби захистити вашу бесіду за допомогою OTR.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+#   $msg (string) - the message that was received.
+msgevent-rcvdmsg-unencrypted = Вказане повідомлення, отримане від { $name }, не було зашифровано: { $msg }
+# Do not translate 'OTR' (name of an encryption protocol)
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg-unrecognized = Ви отримали нерозпізнане повідомлення OTR від { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg-for-other-instance = Повідомлення, надіслане { $name }, призначене для іншого сеансу. Якщо ви входили до системи кілька разів, повідомлення може бути отримане в іншому сеансі.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-gone-secure-private = Розпочато приватну бесіду з { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-gone-secure-unverified = Розпочато зашифровану, але неперевірену бесіду з { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-still-secure = Зашифровану бесіду з { $name } успішно оновлено.
 error-enc = Сталася помилка під час шифрування повідомлення.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 error-not_priv = Ви надіслали зашифровані дані користувачу { $name }, який їх не очікував.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+error-not-priv = Ви надіслали зашифровані дані користувачеві { $name }, що не очікував цього.
 error-unreadable = Ви надіслали захищене повідомлення, яке неможливо прочитати.
 error-malformed = Ви передали хибне повідомлення з даними.
 resent = [надіслати ще раз]
