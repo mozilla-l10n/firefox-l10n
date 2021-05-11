@@ -183,6 +183,10 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Socraigh mar Inneall Cuardaigh Réamhshocraithe
     .accesskey = d
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu =
+    .label = Inneall cuardaigh nua
 
 ## Local search mode one-off buttons
 ## Variables:
@@ -374,6 +378,9 @@ library-bookmarks-menu =
 save-to-pocket-button =
     .label = Sábháil i b{ -pocket-brand-name }
     .tooltiptext = Sábháil i b{ -pocket-brand-name }
+
+## Customize Toolbar Buttons
+
 
 ## More items
 
