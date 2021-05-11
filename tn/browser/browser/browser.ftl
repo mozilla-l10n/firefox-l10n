@@ -123,6 +123,10 @@ full-screen-exit =
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Fetola Dithulaganyo tsa Patlo
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu =
+    .label = Tsenya selaodisi kgolo sa patlo
 
 ## Local search mode one-off buttons
 ## Variables:
@@ -257,6 +261,9 @@ bookmarks-toolbar-placeholder-button =
 
 
 ## Pocket toolbar button
+
+
+## Customize Toolbar Buttons
 
 
 ## More items
