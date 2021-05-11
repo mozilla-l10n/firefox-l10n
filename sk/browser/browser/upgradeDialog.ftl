@@ -23,6 +23,9 @@ upgrade-dialog-new-primary-default-button = Nastaviť { -brand-short-name } ako 
 upgrade-dialog-new-primary-pin-button = Pripnúť { -brand-short-name } na hlavný panel úloh
 upgrade-dialog-new-primary-theme-button = Vyberte si tému vzhľadu
 upgrade-dialog-new-secondary-button = Teraz nie
+# This string is only shown on Windows 7, where we intentionally suppress the
+# theme selection screen.
+upgrade-dialog-new-primary-win7-button = Ok, rozumiem
 
 ## Theme selection screen
 
