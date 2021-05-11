@@ -109,12 +109,48 @@ account-setup-protocol-title = Protokol wubraś
 account-setup-result-imap = IMAP
 # Note: POP3 is the name of a protocol.
 account-setup-result-pop = POP3
+# Note: Exchange is the name of a product.
+account-setup-result-exchange = Exchange
+account-setup-result-exchange-description = Serwer Microsoft Exchange
+account-setup-incoming-title = Dochadźace
+account-setup-outgoing-title = Wuchadźace
+account-setup-username-title = Wužiwarske mjeno
+account-setup-exchange-title = Serwer
 
 ## Error messages
 
+# Note: The reference to "janedoe" (Jane Doe) is the name of an example person. You will want to translate it to whatever example persons would be named in your language. In the example, AD is the name of the Windows domain, and this should usually not be translated.
+account-setup-credentials-incomplete = Awtentifikacija je so nimokuliła. Pak the zapodate přizjewjenske daty su wopačne pak přidatne wužiwarske mjeno je trěbne za přizjewjenje. Tute wužiwarske mjeno je zwjetša přizjewjenje Windowsoweje domeny z domenu abo bjez domeny (na přikład jananjeznatowa abo AD\\jananjeznatowa).
+account-setup-credentials-wrong = Awtentifikacija je so nimokuliła. Prošu přepruwujće wužiwarske mjeno a hesło
+account-setup-find-settings-failed = { -brand-short-name } njemóžeše nastajenja za waše e-mejlowe konto namakać.
+account-setup-exchange-config-unverifiable = Konfiguracija njeda so přepruwować. Jeli waše wužiwarske mjeno a waše hesło stej korektnej, je najskerje serwerowy adminsitrator wubranu konfiguraciju za waše konto znjemóžnił. Wubjerće druhi protokol.
 
 ## Manual config area
 
+account-setup-manual-config-title = Serwerowe nastajenja
+account-setup-incoming-protocol-label = Protokol dochadźacych
+protocol-imap-option = { account-setup-result-imap }
+protocol-pop-option = { account-setup-result-pop }
+account-setup-outgoing-protocol-label = Wuchadny protokol
+outgoing-protocol = SMTP
+account-setup-incoming-server-label = Dochadny serwer
+account-setup-outgoing-server-label = Wuchadny serwer
+account-setup-incoming-port-label = Dochadny port
+account-setup-outoing-port-label = Wuchadny port
+account-setup-incoming-ssl-label = Dochadny SSL
+account-setup-outgoing-ssl-label = Wuchadny SSL
+ssl-autodetect-option = Awtomatisce zwěsćić
+ssl-noencryption-option = Žane
+ssl-starttls-option = STARTTLS
+ssl-tls-option = SSL/TLS
+account-setup-incoming-auth-label = Dochadna awtentifikacija
+account-setup-outgoing-auth-label = Wuchadna awtentifikacija
+account-setup-incoming-username-label = Dochadne wužiwarske mjeno
+account-setup-outgoing-username-label = Wuchadne wužiwarske mjeno
+account-setup-advanced-setup-button = Rozšěrjena konfiguracija
+    .accesskey = R
 
 ## Warning insecure server
 
+account-setup-insecure-server-checkbox = Rozumju rizika
+    .accesskey = u
