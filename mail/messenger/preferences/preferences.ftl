@@ -12,6 +12,7 @@ preferences-title =
         }
 preferences-tab-title =
     .title = Налаштування
+preferences-doc-title = Налаштування
 category-list =
     .aria-label = Категорії
 pane-general-title = Загальні
@@ -90,8 +91,8 @@ update-in-progress-ok-button = &Відхилити
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Продовжити
-account-button = Налаштування облікового запису
 addons-button = Розширення і теми
+account-button = Налаштування облікового запису
 open-addons-sidebar-button = Додатки й теми
 
 ## OS Authentication dialog
