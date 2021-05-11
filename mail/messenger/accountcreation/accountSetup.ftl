@@ -41,9 +41,12 @@ account-setup-remember-password = 记住密码
 
 ## Action buttons
 
+account-setup-button-done = 完成
+    .accesskey = D
 
 ## Notifications
 
+account-setup-looking-up-settings = 正在查询配置…
 
 ## Illustrations
 
@@ -92,3 +95,5 @@ account-setup-advanced-setup-button = 高级配置
 
 ## Warning insecure server
 
+account-setup-insecure-server-checkbox = 我已了解相关风险。
+    .accesskey = u
