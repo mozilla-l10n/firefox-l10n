@@ -257,18 +257,39 @@ onboarding-multistage-theme-description-alpenglow =
 
 ## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 
+# "Hero Text" displayed on left side of welcome screen.
+# The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
+# It also signals the passion users bring to Firefox, how they use
+# Firefox to pursue those passions, as well as the boldness in their
+# choice to use Firefox over a larger competitor browser.
+# An alternative title for localization is: "It starts here".
+# This text can be formatted to span multiple lines as needed.
+mr1-welcome-screen-hero-text =
+    ทุกอย่างเริ่มจาก
+    ที่นี่
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = ปิดภาพเคลื่อนไหว
+mr1-onboarding-welcome-header = ยินดีต้อนรับสู่ { -brand-short-name }
+mr1-onboarding-set-default-pin-primary-button-label = ทำให้ { -brand-short-name } เป็นเบราว์เซอร์หลักของฉัน
+    .title = ตั้ง { -brand-short-name } เป็นเบราว์เซอร์หลักและปักหมุดเข้ากับแถบงาน
+mr1-onboarding-set-default-only-primary-button-label = ทำให้ { -brand-short-name } เป็นเบราว์เซอร์เริ่มต้นของฉัน
 mr1-onboarding-set-default-secondary-button-label = ไม่ใช่ตอนนี้
 mr1-onboarding-sign-in-button-label = ลงชื่อเข้า
 mr1-onboarding-import-header = นำทุกอย่างติดตัวไปด้วย
+mr1-onboarding-import-subtitle = นำเข้ารหัสผ่าน <br/>ที่คั่นหน้า และอื่น ๆ ของคุณ
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = นำเข้าจาก { $previous }
+# This string will be used in cases where we can't detect the previous browser name.
+mr1-onboarding-import-primary-button-label-no-attribution = นำเข้าจากเบราว์เซอร์ก่อนหน้า
 mr1-onboarding-import-secondary-button-label = ไม่ใช่ตอนนี้
 mr1-onboarding-theme-header = ทำให้เป็นของคุณเอง
+mr1-onboarding-theme-subtitle = ปรับแต่ง { -brand-short-name } ด้วยชุดตกแต่ง
+mr1-onboarding-theme-primary-button-label = บันทึกชุดตกแต่ง
 mr1-onboarding-theme-secondary-button-label = ไม่ใช่ตอนนี้
+# System theme uses operating system color settings
+mr1-onboarding-theme-label-system = ชุดตกแต่งระบบ
 mr1-onboarding-theme-label-light = สว่าง
 mr1-onboarding-theme-label-dark = มืด
 # "Alpenglow" here is the name of the theme, and should be kept in English.
@@ -279,3 +300,43 @@ mr1-onboarding-theme-label-alpenglow = Alpenglow
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of system theme
+mr1-onboarding-theme-tooltip-system =
+    .title =
+        ใช้ชุดตกแต่งสำหรับปุ่ม เมนู และหน้าต่าง
+        ตามระบบปฏิบัติการ
+# Input description for system theme
+mr1-onboarding-theme-description-system =
+    .aria-description =
+        ใช้ชุดตกแต่งสำหรับปุ่ม เมนู และหน้าต่าง
+        ตามระบบปฏิบัติการ
+# Tooltip displayed on hover of light theme
+mr1-onboarding-theme-tooltip-light =
+    .title =
+        ใช้ชุดตกแต่งแบบสว่างสำหรับปุ่ม
+        เมนู และหน้าต่าง
+# Input description for light theme
+mr1-onboarding-theme-description-light =
+    .aria-description =
+        ใช้ชุดตกแต่งแบบสว่างสำหรับปุ่ม
+        เมนู และหน้าต่าง
+# Tooltip displayed on hover of dark theme
+mr1-onboarding-theme-tooltip-dark =
+    .title =
+        ใช้ชุดตกแต่งแบบมืดสำหรับปุ่ม
+        เมนู และหน้าต่าง
+# Input description for dark theme
+mr1-onboarding-theme-description-dark =
+    .aria-description =
+        ใช้ชุดตกแต่งแบบมืดสำหรับปุ่ม
+        เมนู และหน้าต่าง
+# Tooltip displayed on hover of Alpenglow theme
+mr1-onboarding-theme-tooltip-alpenglow =
+    .title =
+        ใช้ชุดตกแต่งแบบไดนามิกที่มีสีสันสำหรับปุ่ม
+        เมนู และหน้าต่าง
+# Input description for Alpenglow theme
+mr1-onboarding-theme-description-alpenglow =
+    .aria-description =
+        ใช้ชุดตกแต่งแบบไดนามิกที่มีสีสันสำหรับปุ่ม
+        เมนู และหน้าต่าง
