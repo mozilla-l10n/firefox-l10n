@@ -4,3 +4,5 @@
 
 account-settingsTitle = Authenticatie-instellingen
 account-channelTitle = Standaard kanalen
+account-settings-title = Authenticatie-instellingen
+account-channel-title = Standaardkanalen

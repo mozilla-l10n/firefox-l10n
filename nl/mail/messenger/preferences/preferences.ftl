@@ -12,6 +12,7 @@ preferences-title =
         }
 preferences-tab-title =
     .title = Voorkeuren
+preferences-doc-title = Voorkeuren
 category-list =
     .aria-label = Categorieën
 pane-general-title = Algemeen
@@ -90,8 +91,8 @@ update-in-progress-ok-button = &Verwerpen
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Doorgaan
-account-button = Accountinstellingen
 addons-button = Extensies & Thema’s
+account-button = Accountinstellingen
 open-addons-sidebar-button = Add-ons en thema’s
 
 ## OS Authentication dialog
