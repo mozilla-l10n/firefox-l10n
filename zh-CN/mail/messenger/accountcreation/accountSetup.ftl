@@ -74,6 +74,8 @@ account-setup-success-settings-db = 从 Mozilla ISP 数据库中找到配置。
 
 ## Illustrations
 
+account-setup-step1-image =
+    .title = 初始设置
 account-setup-step3-image =
     .title = 找到配置
 account-setup-step4-image =

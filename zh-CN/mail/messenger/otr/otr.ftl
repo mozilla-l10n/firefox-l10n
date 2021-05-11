@@ -57,6 +57,42 @@ context-gone_secure_unverified = 与 { $name } 有加密，但未经验证的对
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 context-still_secure = 与 { $name } 的加密对话已成功刷新。
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-msg-resent = 已重发最后一条给 { $name } 的消息。
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg-not-private = 由于您与 { $name } 当前未在私人对话，无法读取接收到的加密消息。
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg-unreadable = 您收到一条来自 { $name } 的无法读取的加密消息。
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg-malformed = 您收到一条来自 { $name } 的数据格式错误的消息。
+# A Heartbeat is a technical message used to keep a connection alive.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-log-heartbeat-rcvd = 从 { $name } 收到心跳。
+# A Heartbeat is a technical message used to keep a connection alive.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-log-heartbeat-sent = 已发送心跳至 { $name }。
+# Do not translate 'OTR' (name of an encryption protocol)
+msgevent-rcvdmsg-general-err = 尝试使用 OTR 保护您的对话时发生意外错误。
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+#   $msg (string) - the message that was received.
+msgevent-rcvdmsg-unencrypted = 收到来自 { $name } 以下消息未加密：{ $msg }
+# Do not translate 'OTR' (name of an encryption protocol)
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg-unrecognized = 您收到来自 { $name } 的 OTR 消息无法识别。
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-gone-secure-private = 已开始与 { $name } 的私人对话。
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-still-secure = 成功刷新与 { $name } 的加密对话。
 error-enc = 加密消息时发生错误。
 # Variables:
 #   $name (String) - the screen name of a chat contact person
