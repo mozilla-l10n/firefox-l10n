@@ -23,6 +23,9 @@ upgrade-dialog-new-primary-default-button = 将 { -brand-short-name } 设为我�
 upgrade-dialog-new-primary-pin-button = 将 { -brand-short-name } 固定到我的任务栏
 upgrade-dialog-new-primary-theme-button = 选择主题
 upgrade-dialog-new-secondary-button = 暂时不要
+# This string is only shown on Windows 7, where we intentionally suppress the
+# theme selection screen.
+upgrade-dialog-new-primary-win7-button = 好，知道了！
 
 ## Theme selection screen
 
