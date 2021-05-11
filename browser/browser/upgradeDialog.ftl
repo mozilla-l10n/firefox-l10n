@@ -23,6 +23,9 @@ upgrade-dialog-new-primary-default-button = Зробити { -brand-short-name }
 upgrade-dialog-new-primary-pin-button = Закріпити { -brand-short-name } на панелі завдань
 upgrade-dialog-new-primary-theme-button = Обрати тему
 upgrade-dialog-new-secondary-button = Не зараз
+# This string is only shown on Windows 7, where we intentionally suppress the
+# theme selection screen.
+upgrade-dialog-new-primary-win7-button = Гаразд, зрозуміло!
 
 ## Theme selection screen
 
