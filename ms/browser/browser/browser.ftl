@@ -200,6 +200,10 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Tetapkan sebagai Enjin Carian Piawai
     .accesskey = P
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu =
+    .label = Tambah enjin carian
 
 ## Local search mode one-off buttons
 ## Variables:
