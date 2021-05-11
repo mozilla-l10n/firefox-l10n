@@ -7,6 +7,9 @@ account-setup-tab-title = Kontokonfiguration
 ## Header
 
 account-setup-title = Konfigurera en befintlig e-postadress
+account-setup-description =
+    För att använda din nuvarande e-postadress, fyll i dina uppgifter.<br/>
+    { -brand-product-name } söker automatiskt efter en den bästa och fungerande serverkonfigurationen.
 
 ## Form fields
 
@@ -65,15 +68,39 @@ account-setup-button-done = Klar
 ## Notifications
 
 account-setup-looking-up-settings = Undersöker konfigurationen…
+account-setup-looking-up-settings-guess = Undersöker konfigurationen: Försöker med vanliga servernamn…
+account-setup-looking-up-settings-half-manual = Undersöker konfiguration: Avsöker server...
+account-setup-looking-up-disk = Undersöker konfiguration: { -brand-short-name } installation…
+account-setup-looking-up-isp = Undersöker konfiguration: E-postleverantör…
+# Note: Do not translate or replace Mozilla. It stands for the public project mozilla.org, not Mozilla Corporation. The database is a generic, public domain facility usable by any client.
+account-setup-looking-up-db = Undersöker konfiguration: Mozilla ISP-databas…
+account-setup-looking-up-mx = Undersöker konfiguration: Inkommande e-postdomän…
+account-setup-looking-up-exchange = Undersöker konfiguration: Exchange-server…
+account-setup-checking-password = Kontrollerar lösenord…
+account-setup-installing-addon = Hämtar och installerar tillägg…
+account-setup-success-half-manual = Följande inställningar hittades genom att sondera den givna servern:
+account-setup-success-guess = Konfiguration hittades genom att prova vanliga servernamn.
+account-setup-success-guess-offline = Du är offline. Vi gissade några inställningar men du måste ange rätt inställningar.
+account-setup-success-password = Lösenord OK
+account-setup-success-addon = Tillägget har installerats
+# Note: Do not translate or replace Mozilla. It stands for the public project mozilla.org, not Mozilla Corporation. The database is a generic, public domain facility usable by any client.
+account-setup-success-settings-db = Konfiguration hittades i Mozilla ISP-databas.
+account-setup-success-settings-disk = Konfiguration hittades vid installationen av { -brand-short-name }.
+account-setup-success-settings-isp = Konfigurationen hittades hos e-postleverantören.
+# Note: Microsoft Exchange is a product name.
+account-setup-success-settings-exchange = Konfiguration hittades för en Microsoft Exchange-server.
 
 ## Illustrations
 
+account-setup-step1-image =
+    .title = Första installationen
 account-setup-step2-image =
     .title = Laddar…
 account-setup-step3-image =
     .title = Konfiguration hittad
 account-setup-step4-image =
     .title = Anslutningsfel
+account-setup-privacy-footnote = Dina uppgifter kommer att användas i enlighet med vår <a data-l10n-name="privacy-policy-link">sekretesspolicy</a> och lagras endast lokalt på din dator.
 account-setup-selection-help = Är du inte säker på vad du ska välja?
 account-setup-selection-error = Behöver du hjälp?
 account-setup-documentation-help = Installationsdokumentation
@@ -84,8 +111,10 @@ account-setup-forum-help = Supportforum
 account-setup-protocol-title = Välj protokoll
 # Note: IMAP is the name of a protocol.
 account-setup-result-imap = IMAP
+account-setup-result-imap-description = Håll dina mappar och e-postmeddelanden synkroniserade på din server
 # Note: POP3 is the name of a protocol.
 account-setup-result-pop = POP3
+account-setup-result-pop-description = Håll dina mappar och e-postmeddelanden på din dator
 # Note: Exchange is the name of a product.
 account-setup-result-exchange = Exchange
 account-setup-result-exchange-description = Microsoft Exchange Server
@@ -96,7 +125,11 @@ account-setup-exchange-title = Server
 
 ## Error messages
 
+# Note: The reference to "janedoe" (Jane Doe) is the name of an example person. You will want to translate it to whatever example persons would be named in your language. In the example, AD is the name of the Windows domain, and this should usually not be translated.
+account-setup-credentials-incomplete = Autentisering misslyckades. Antingen är de angivna uppgifterna felaktiga eller så krävs ett separat användarnamn för inloggning. Detta användarnamn är vanligtvis din Windows-domäninloggning med eller utan domänen (till exempel janedoe eller AD\\janedoe)
+account-setup-credentials-wrong = Autentisering misslyckades. Kontrollera användarnamnet och lösenordet
 account-setup-find-settings-failed = { -brand-short-name } misslyckades med att hitta inställningarna för ditt e-postkonto
+account-setup-exchange-config-unverifiable = Konfigurationen kunde inte verifieras. Om ditt användarnamn och lösenord är korrekt är det troligt att serveradministratören har inaktiverat den valda konfigurationen för ditt konto. Försök att välja ett annat protokoll.
 
 ## Manual config area
 
