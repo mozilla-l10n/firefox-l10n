@@ -4,3 +4,5 @@
 
 account-settingsTitle = Cài đặt xác thực
 account-channelTitle = Kênh mặc định
+account-settings-title = Cài đặt xác thực
+account-channel-title = Kênh mặc định

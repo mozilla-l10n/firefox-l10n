@@ -12,6 +12,7 @@ preferences-title =
         }
 preferences-tab-title =
     .title = Tùy chỉnh
+preferences-doc-title = Tùy chỉnh
 category-list =
     .aria-label = Thể loại
 pane-general-title = Tổng quát
@@ -90,8 +91,8 @@ update-in-progress-ok-button = &Loại bỏ
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Tiếp tục
-account-button = Cài đặt tài khoản
 addons-button = Tiện ích mở rộng & chủ đề
+account-button = Cài đặt tài khoản
 open-addons-sidebar-button = Tiện ích mở rộng và chủ đề
 
 ## OS Authentication dialog
