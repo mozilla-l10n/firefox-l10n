@@ -138,6 +138,10 @@ search-one-offs-change-settings-compact-button =
 search-one-offs-context-set-as-default =
     .label = Als Standard-Sichmaschinn festleeën
     .accesskey = D
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu =
+    .label = Sichmaschinn dobäisetzen
 
 ## Local search mode one-off buttons
 ## Variables:
@@ -260,6 +264,9 @@ library-bookmarks-menu =
     .label = Lieszeechen
 
 ## Pocket toolbar button
+
+
+## Customize Toolbar Buttons
 
 
 ## More items
