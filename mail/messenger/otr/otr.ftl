@@ -57,6 +57,61 @@ context-gone_secure_unverified = Krypterad, men overifierad konversation med { $
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 context-still_secure = Uppdaterade den krypterade konversationen med { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-encryption-required-part1 = Du försökte skicka ett okrypterat meddelande till { $name }. Som en policy är okrypterade meddelanden inte tillåtna.
+msgevent-encryption-required-part2 = Försöker starta en privat konversation. Ditt meddelande kommer att skickas igen när den privata konversationen startar.
+msgevent-encryption-error = Ett fel inträffade vid kryptering av ditt meddelande. Meddelandet skickades inte.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-connection-ended = { $name } har redan stängt sin krypterade anslutning till dig. För att undvika att du av misstag skickar ett meddelande utan kryptering, skickades inte ditt meddelande. Avsluta din krypterade konversation eller starta om den.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-setup-error = Ett fel inträffade när du skapade en privat konversation med { $name }.
+# Do not translate 'OTR' (name of an encryption protocol)
+msgevent-msg-reflected = Du får dina egna OTR-meddelanden. Du försöker antingen prata med dig själv eller så återspeglar någon dina meddelanden tillbaka till dig.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-msg-resent = Det sista meddelandet till { $name } skickades på nytt.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg-not-private = Det krypterade meddelandet som tas emot från { $name } är oläsligt eftersom du för närvarande inte kommunicerar privat.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg-unreadable = Du fick ett oläsligt krypterat meddelande från { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg-malformed = Du fick ett felaktigt datameddelande från { $name }.
+# A Heartbeat is a technical message used to keep a connection alive.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-log-heartbeat-rcvd = Heartbeat mottagen från { $name }.
+# A Heartbeat is a technical message used to keep a connection alive.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-log-heartbeat-sent = Heartbeat skickad till { $name }.
+# Do not translate 'OTR' (name of an encryption protocol)
+msgevent-rcvdmsg-general-err = Ett oväntat fel inträffade när du försökte skydda din konversation med OTR.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+#   $msg (string) - the message that was received.
+msgevent-rcvdmsg-unencrypted = Följande meddelande från { $name } krypterades inte: { $msg }
+# Do not translate 'OTR' (name of an encryption protocol)
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg-unrecognized = Du fick ett okänt OTR-meddelande från { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg-for-other-instance = { $name } har skickat ett meddelande som är avsett för en annan session. Om du är inloggad flera gånger kan en annan session ha fått meddelandet.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-gone-secure-private = Privat konversation med { $name } startad.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-gone-secure-unverified = Krypterad, men overifierad konversation med { $name } startad.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-still-secure = Uppdaterade den krypterade konversationen med { $name }.
 error-enc = Ett fel inträffade vid kryptering av meddelandet.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
