@@ -19,6 +19,11 @@ experimental-features-media-avif =
 experimental-features-media-avif-description = 이 기능을 사용하면 { -brand-short-name }는 AVIF (AV1 이미지 파일) 형식을 지원합니다. 이것은 이미지 크기를 줄이기 위해 AV1 비디오 압축 알고리즘의 기능을 활용하는 정지 이미지 파일 형식입니다. 자세한 내용은 <a data-l10n-name="bugzilla">bug 1443863</a>을 참고하세요.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
+experimental-features-media-jxl =
+    .label = 미디어: JPEG XL
+experimental-features-media-jxl-description = 이 기능을 사용하면 { -brand-short-name }가 JPEG XL (JXL) 형식을 지원합니다. 이것은 기존 JPEG 파일에서 무손실 전환을 지원하는 향상된 이미지 파일 형식입니다. 자세한 내용은 <a data-l10n-name="bugzilla">버그 1539075</a>를 참고하세요.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
     .label = Web API: inputmode
 # "inputmode" and "contenteditable" are technical terms and shouldn't be translated.
