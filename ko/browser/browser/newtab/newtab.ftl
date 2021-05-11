@@ -11,6 +11,8 @@ newtab-settings-button =
 newtab-personalize-button-label = 개인화
     .title = 새 탭 개인화
     .aria-label = 새 탭 개인화
+newtab-personalize-dialog-label =
+    .aria-label = 개인화
 
 ## Search box component.
 

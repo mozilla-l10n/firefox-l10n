@@ -23,6 +23,9 @@ upgrade-dialog-new-primary-default-button = { -brand-short-name }를 기본 브�
 upgrade-dialog-new-primary-pin-button = { -brand-short-name }를 작업 표시줄에 고정
 upgrade-dialog-new-primary-theme-button = 테마 선택
 upgrade-dialog-new-secondary-button = 나중에
+# This string is only shown on Windows 7, where we intentionally suppress the
+# theme selection screen.
+upgrade-dialog-new-primary-win7-button = 확인
 
 ## Theme selection screen
 
