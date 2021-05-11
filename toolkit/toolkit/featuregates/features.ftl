@@ -21,6 +21,7 @@ experimental-features-media-avif-description = 開啟此功能後，{ -brand-sho
 # by various online articles and is technical in nature.
 experimental-features-media-jxl =
     .label = 媒體: JPEG XL 格式
+experimental-features-media-jxl-description = 開啟此功能後，{ -brand-short-name } 將支援 JPEG XL（JXL）格式，這種加強過的新版圖檔格式支援不失真壓縮，讓您可從傳統的 JPEG 格式轉型升級。若需更多資訊，請參考 <a data-l10n-name="bugzilla">bug 1539075</a>。
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
