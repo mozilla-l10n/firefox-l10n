@@ -1143,6 +1143,8 @@ collection-backlogged-crash-reports =
     .label = Emoneĩ { -brand-short-name } omondóvo marandu jejavy rehegua nde rérape
     .accesskey = c
 collection-backlogged-crash-reports-link = Kuaave
+collection-backlogged-crash-reports-with-link = Emoneĩ { -brand-short-name } omomarandúvo jejavymeme nde rérape <a data-l10n-name="crash-reports-link">Eikuaave</a>
+    .accesskey = c
 
 ## Privacy Section - Security
 ##
