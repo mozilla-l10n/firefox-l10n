@@ -41,6 +41,16 @@ account-setup-remember-password = 记住密码
 
 ## Action buttons
 
+account-setup-button-cancel = 取消
+    .accesskey = a
+account-setup-button-manual-config = 手动配置
+    .accesskey = m
+account-setup-button-stop = 停止
+    .accesskey = S
+account-setup-button-retest = 重新测试
+    .accesskey = t
+account-setup-button-continue = 继续
+    .accesskey = C
 account-setup-button-done = 完成
     .accesskey = D
 
@@ -55,6 +65,7 @@ account-setup-looking-up-db = 正在查询配置：Mozilla ISP 数据库…
 account-setup-looking-up-mx = 正在查询配置：收件域名…
 account-setup-looking-up-exchange = 正在查询配置：Exchange 服务器…
 account-setup-checking-password = 正在验证密码…
+account-setup-success-password = 密码正确
 
 ## Illustrations
 
