@@ -12,6 +12,9 @@ account-setup-title = Konfigurera en befintlig e-postadress
 
 account-setup-name-label = Ditt fullständiga namn
     .accesskey = D
+# Note: "John Doe" is a multiple-use name that is used when the true name of a person is unknown. We use this fake name as an input placeholder. Translators should update this to reflect the placeholder name of their language/country.
+account-setup-name-input =
+    .placeholder = Sven Svensson
 account-setup-name-info-icon =
     .title = Ditt namn, som det visas för andra
 account-setup-name-warning = Ange ditt namn
@@ -19,6 +22,8 @@ account-setup-name-warning-icon =
     .title = { account-setup-name-warning }
 account-setup-email-label = E-postadress
     .accesskey = E
+account-setup-email-input =
+    .placeholder = sven.svensson@exempel.se
 account-setup-email-info-icon =
     .title = Din befintliga e-postadress
 account-setup-email-warning = Ogiltig e-postadress
@@ -66,12 +71,35 @@ account-setup-looking-up-settings = Undersöker konfigurationen…
 
 ## Results area
 
+# Note: POP3 is the name of a protocol.
+account-setup-result-pop = POP3
+# Note: Exchange is the name of a product.
+account-setup-result-exchange = Exchange
+account-setup-result-exchange-description = Microsoft Exchange Server
+account-setup-incoming-title = Inkommande
+account-setup-outgoing-title = Utgående
+account-setup-username-title = Användarnamn
+account-setup-exchange-title = Server
 
 ## Error messages
 
 
 ## Manual config area
 
+account-setup-manual-config-title = Serverinställningar
+account-setup-incoming-protocol-label = Inkommande protokoll
+protocol-imap-option = { account-setup-result-imap }
+protocol-pop-option = { account-setup-result-pop }
+account-setup-outgoing-protocol-label = Utgående protokoll
+outgoing-protocol = SMTP
+account-setup-incoming-server-label = Inkommande server
+account-setup-outgoing-server-label = Utgående server
+account-setup-incoming-port-label = Inkommande port
+account-setup-outoing-port-label = Utgående port
+account-setup-incoming-ssl-label = Inkommande SSL
+account-setup-outgoing-ssl-label = Utgående SSL
+ssl-autodetect-option = Identifiera automatiskt
+ssl-noencryption-option = Ingen
 ssl-starttls-option = STARTTLS
 ssl-tls-option = SSL/TLS
 account-setup-incoming-auth-label = Inkommande autentisering
