@@ -12,6 +12,7 @@ preferences-title =
         }
 preferences-tab-title =
     .title = Preferências
+preferences-doc-title = Preferências
 category-list =
     .aria-label = Categorias
 pane-general-title = Geral
@@ -90,8 +91,8 @@ update-in-progress-ok-button = &Descartar
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuar
-account-button = Configurações da conta
 addons-button = Extensões e Temas
+account-button = Configurações da conta
 open-addons-sidebar-button = Extensões e temas
 
 ## OS Authentication dialog
