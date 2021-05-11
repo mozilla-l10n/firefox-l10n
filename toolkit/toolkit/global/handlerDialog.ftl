@@ -2,14 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# Please keep the emphasis around the hostname and scheme (ie the
-# `<strong>` HTML tags). Please also keep the hostname as close to the start
-# of the sentence as your language's grammar allows.
-#
-# Variables:
-#  $host - the hostname that is initiating the request
-#  $scheme - the type of link that's being opened.
-handler-dialog-host = <strong>{ $host }</strong>-ը ցանկանում է բացել <strong>{ $scheme }</strong> հղումը:
 
 ## Permission Dialog
 ## Variables:
@@ -17,11 +9,29 @@ handler-dialog-host = <strong>{ $host }</strong>-ը ցանկանում է բաց
 ##  $scheme - the type of link that's being opened.
 ##  $appName - Name of the application that will be opened.
 
+permission-dialog-description = Թույլատրե՞լ այս կայքին բացել { $scheme } հղումը:
+
+## Please keep the emphasis around the hostname and scheme (ie the
+## `<strong>` HTML tags). Please also keep the hostname as close to the start
+## of the sentence as your language's grammar allows.
+
+permission-dialog-remember = Միշտ թույլատրել <strong>{ $host }</strong>-ին բացել <strong>{ $scheme }</strong> հղումները
+permission-dialog-remember-file = Միշտ թույլատրել այս ֆայլին բացել <strong>{ $scheme }</strong> հղումները
+
+##
+
+permission-dialog-unset-description = Դուք պետք է ընտրեք հավելվածը:
 
 ## Chooser dialog
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+chooser-dialog =
+    .buttonlabelaccept = Բացել հղումը
+    .buttonaccesskeyaccept = O
+chooser-dialog-description = Ընտրեք ծրագիր՝ { $scheme } հղումը բացելու համար:
+# Please keep the emphasis around the scheme (ie the `<strong>` HTML tags).
+chooser-dialog-remember = Միշտ օգտագործել այս ծրագիրը՝ <strong>{ $scheme }</strong> հղումները բացելու համար
 choose-other-app-description = Ընտրեք այլ ծրագիր
 choose-app-btn =
     .label = Ընտրել…

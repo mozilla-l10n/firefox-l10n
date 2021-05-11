@@ -711,6 +711,10 @@ sync-engine-prefs =
         }
     .tooltiptext = Ընդհանուր, Գաղտնիություն և Անվտանգության կարգավորումները, որոնք դուք փոխել եք
     .accesskey = ը
+sync-engine-settings =
+    .label = Կարգավորումներ
+    .tooltiptext = Գլխավոր, գաղտնիության և անվտանգութփյան կարգավորումները, որ փոխել եք
+    .accesskey = s
 
 ## The device name controls.
 
