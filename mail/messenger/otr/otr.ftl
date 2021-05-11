@@ -57,6 +57,11 @@ context-gone_secure_unverified = 与 { $name } 有加密，但未经验证的对
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 context-still_secure = 与 { $name } 的加密对话已成功刷新。
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-encryption-required-part1 = 您试图将未加密的消息发送给 { $name }。根据政策，不允许发送未加密的消息。
+msgevent-encryption-required-part2 = 尝试进行私人对话。将在私人对话开始后重发您的消息。
+msgevent-encryption-error = 加密消息时出错，消息未发送。
 # Do not translate 'OTR' (name of an encryption protocol)
 msgevent-msg-reflected = 您正在接收自己的 OTR 消息。要么您正在自言自语，要么有人正在复读您的消息。
 # Variables:

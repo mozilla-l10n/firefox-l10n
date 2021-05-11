@@ -38,6 +38,12 @@ account-setup-password-toggle =
     .title = 显示/隐藏密码
 account-setup-remember-password = 记住密码
     .accesskey = m
+#   YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows.
+account-setup-exchange-input =
+    .placeholder = 您的域﹨您的用户名
+#   Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network.
+account-setup-exchange-info-icon =
+    .title = 域登录
 
 ## Action buttons
 
@@ -82,14 +88,18 @@ account-setup-step4-image =
     .title = 连接错误
 account-setup-selection-help = 不确定要怎么选？
 account-setup-selection-error = 需要帮助？
+account-setup-documentation-help = 设置文档
+account-setup-forum-help = 支持论坛
 
 ## Results area
 
 account-setup-protocol-title = 选择协议
 # Note: IMAP is the name of a protocol.
 account-setup-result-imap = IMAP
+account-setup-result-imap-description = 与您的服务器同步各文件夹与邮件
 # Note: POP3 is the name of a protocol.
 account-setup-result-pop = POP3
+account-setup-result-pop-description = 将您服务器上的各文件夹与邮件下载到本机
 # Note: Exchange is the name of a product.
 account-setup-result-exchange = Exchange
 account-setup-result-exchange-description = Microsoft Exchange 服务器
