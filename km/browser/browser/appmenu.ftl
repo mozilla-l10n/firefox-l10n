@@ -5,8 +5,6 @@
 
 ## App Menu
 
-appmenuitem-update-banner =
-    .label-update-downloading = ទាញយកបច្ចុប្បន្នភាព { -brand-shorter-name }
 appmenuitem-customize-mode =
     .label = ប្ដូរ​តាម​តម្រូវ​ការ…
 
@@ -16,6 +14,22 @@ appmenuitem-new-window =
     .label = បង្អួច​​​ថ្មី
 appmenuitem-new-private-window =
     .label = បង្អួច​ឯកជន​ថ្មី
+appmenuitem-passwords =
+    .label = ពាក្យសម្ងាត់
+appmenuitem-addons-and-themes =
+    .label = កម្មវិធីបន្ថែមស្បែក
+appmenuitem-find-in-page =
+    .label = ស្វែងរកក្នុងទំព័រ…
+appmenuitem-more-tools =
+    .label = ឧបករណ៍ច្រើនទៀត
+appmenuitem-exit =
+    .label = ចេញ
+appmenu-menu-button-closed =
+    .tooltiptext = បើកម៉ឺនុយពាក្យសុំ
+    .label = { -brand-shorter-name }
+appmenu-menu-button-opened =
+    .tooltiptext = បិទបញ្ជីពាក្យស្នើសុំ
+    .label = { -brand-shorter-name }
 
 ## Zoom and Fullscreen Controls
 
@@ -49,26 +63,11 @@ appmenuitem-save-page =
 appmenu-about =
     .label = អំពី { -brand-shorter-name }
     .accesskey = A
-appmenu-help-troubleshooting-info =
-    .label = ព័ត៌មាន​អំពី​ដំណោះស្រាយ​បញ្ហា
-    .accesskey = T
-appmenu-help-taskmanager =
-    .label = កម្មវិធី​គ្រប់គ្រង​ភារកិច្ច
 appmenu-help-report-site-issue =
     .label = រាយការណ៍​បញ្ហា​គេហទំព័រ…
 appmenu-help-feedback-page =
     .label = ដាក់​ស្នើ​មតិកែលម្អ…
     .accesskey = S
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = ចាប់ផ្ដើម​ឡើងវិញ​ដោយ​បិទ​ដំណើរការកម្មវិធី​បន្ថែម…
-    .accesskey = R
-appmenu-help-safe-mode-with-addons =
-    .label = ចាប់ផ្ដើម​ឡើងវិញ​ដោយ​បើកដំណើរការ​​កម្មវិធី​បន្ថែម
-    .accesskey = R
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

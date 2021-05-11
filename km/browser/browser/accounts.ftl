@@ -10,4 +10,4 @@ account-finish-account-setup = បញ្ចប់​ការរៀបចំ​�
 account-reconnect-to-fxa = គណនី​ត្រូវបាន​ផ្ដាច់
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
-account-disconnected = អ្នក​ត្រូវបាន​ផ្ដាច់
+account-disconnected2 = គណនីត្រូវបានផ្តាច់
