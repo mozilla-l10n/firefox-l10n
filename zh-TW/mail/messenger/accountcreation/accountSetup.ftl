@@ -125,6 +125,11 @@ account-setup-exchange-title = 伺服器
 
 ## Error messages
 
+# Note: The reference to "janedoe" (Jane Doe) is the name of an example person. You will want to translate it to whatever example persons would be named in your language. In the example, AD is the name of the Windows domain, and this should usually not be translated.
+account-setup-credentials-incomplete = 驗證失敗。可能是輸入的登入資訊不正確，或需要使用另一個使用者名稱來登入。這個使用者名稱通常會是您的 Windows 網域登入帳號，可能包含或不包含網域名稱（例如 aming_wang 或 AD\\aming_wang）
+account-setup-credentials-wrong = 驗證失敗，請檢查輸入的使用者名稱與密碼是否正確
+account-setup-find-settings-failed = { -brand-short-name } 找不到您適用的郵件帳號設定
+account-setup-exchange-config-unverifiable = 無法確認設定方式。若您確定已經輸入正確使用者名稱與密碼的話，可能是伺服器管理員針對您的帳號停用了選擇的設定方式，請試著改用另一種通訊協定。
 
 ## Manual config area
 
@@ -144,8 +149,8 @@ ssl-autodetect-option = 自動偵測
 ssl-noencryption-option = 無
 ssl-starttls-option = STARTTLS
 ssl-tls-option = SSL/TLS
-account-setup-incoming-auth-label = 內送認證方式
-account-setup-outgoing-auth-label = 外寄認證方式
+account-setup-incoming-auth-label = 內送驗證方式
+account-setup-outgoing-auth-label = 外寄驗證方式
 account-setup-incoming-username-label = 內送使用者名稱
 account-setup-outgoing-username-label = 外寄使用者名稱
 account-setup-advanced-setup-button = 進階設定
