@@ -4,19 +4,16 @@
 
 page-info-window =
     .style = width: 600px; min-height: 500px;
-
 copy =
     .key = C
 menu-copy =
     .label = Копирај
     .accesskey = К
-
 select-all =
     .key = A
 menu-select-all =
     .label = Избери сè
     .accesskey = е
-
 general-tab =
     .label = Општо
     .accesskey = О
@@ -40,7 +37,6 @@ general-meta-name =
     .label = Име
 general-meta-content =
     .label = Содржина
-
 media-tab =
     .label = Медиум
     .accesskey = М
@@ -68,13 +64,11 @@ media-save-as =
 media-save-image-as =
     .label = Сними како…
     .accesskey = н
-
 perm-tab =
     .label = Дозволи
     .accesskey = Д
 permissions-for =
     .value = Дозволи за:
-
 security-tab =
     .label = Безбедност
     .accesskey = с
@@ -95,21 +89,16 @@ security-view-identity-validity =
     .value = Истекува на:
 security-view-privacy =
     .value = Приватност и историја
-
 security-view-privacy-history-value = Сум го посетил ли ова мрежно место пред денес?
-
 security-view-privacy-clearsitedata =
     .label = Исчисти колачиња и податоци за мрежно место
     .accesskey = И
-
 security-view-privacy-passwords-value = Дали снимив некои лозинки за оваа страница?
-
 security-view-privacy-viewpasswords =
     .label = Прикажи снимени лозинки
     .accesskey = р
 security-view-technical =
     .value = Технички детали
-
 help-button =
     .label = Помош
 
@@ -118,6 +107,11 @@ help-button =
 ## Variables:
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
+
+security-site-data-cookies-only = Да, колачиња
+security-site-data-no = Не
+
+##
 
 image-size-unknown = Непозната
 page-info-not-specified =
@@ -137,7 +131,6 @@ media-video = Видео
 media-audio = Аудио
 saved-passwords-yes = Да
 saved-passwords-no = Не
-
 no-page-title =
     .value = Безимена страница:
 general-quirks-mode =
@@ -152,14 +145,12 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = Користи основни
 security-no-visits = Не
-
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = { $type } слика
-
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -169,20 +160,17 @@ media-image-type =
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
     .value = { $dimx }px × { $dimy }px (размер { $scaledx }px × { $scaledy }px)
-
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx }px × { $dimy }px
-
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } KB
-
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
 # Variables:
@@ -190,11 +178,10 @@ media-file-size = { $size } KB
 media-block-image =
     .label = Блокирај слики од { $website }
     .accesskey = Б
-
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:
-#   $website (string) - The url of the website pageInfo is getting info for
+#   $website (string) — The url of the website pageInfo is getting info for
 page-info-page =
     .title = Инфомации за страницата - { $website }
 page-info-frame =

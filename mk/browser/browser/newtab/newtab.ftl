@@ -15,7 +15,6 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = Барај
     .aria-label = Барај
-
 newtab-search-box-search-the-web-text = Пребарајте на Интернет
 newtab-search-box-search-the-web-input =
     .placeholder = Пребарајте на Интернет
@@ -24,23 +23,25 @@ newtab-search-box-search-the-web-input =
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-search-engine-header = Додај сервис за пребарување
 newtab-topsites-add-topsites-header = Ново врвно мрежно место
 newtab-topsites-edit-topsites-header = Уреди врвно мрежно место
+newtab-topsites-title-label = Наслов
 newtab-topsites-title-input =
     .placeholder = Внесете наслов
-
+newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Внесете или вметнете URL
 newtab-topsites-url-validation = Потребен е валиден URL
+newtab-topsites-use-image-link = Користи сопствена слика…
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Откажи
 newtab-topsites-delete-history-button = Избриши од историја
 newtab-topsites-save-button = Сними
+newtab-topsites-preview-button = Преглед
 newtab-topsites-add-button = Додај
-
-## Top Sites - Delete history confirmation dialog. 
 
 ## Top Sites - Delete history confirmation dialog.
 
@@ -48,8 +49,21 @@ newtab-confirm-delete-history-p1 = Дали сте сигурни дека са�
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Ова дејство не може да се одврати.
 
+## Top Sites - Sponsored label
+
+
 ## Context Menu - Action Tooltips.
 
+# General tooltip for context menus.
+newtab-menu-section-tooltip =
+    .title = Отвори мени
+    .aria-label = Отвори мени
+# This tooltip is for the context menu of Pocket cards or Topsites
+# Variables:
+#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+newtab-menu-content-tooltip =
+    .title = Отвори мени
+    .aria-label = Отвори мени за констект за { $title }
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = Уреди го ова место
@@ -70,6 +84,10 @@ newtab-menu-archive-pocket = Архивирај во { -pocket-brand-name }
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
+newtab-privacy-modal-button-done = Готово
+newtab-privacy-modal-header = Вашата приватност е важна.
+newtab-privacy-modal-link = Дознајте како работи приватноста на новиот таб
+
 ##
 
 # Bookmark is a noun in this case, "Remove bookmark".
@@ -77,17 +95,18 @@ newtab-menu-remove-bookmark = Отстрани обележувач
 # Bookmark is a verb here.
 newtab-menu-bookmark = Обележувач
 
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
-## it is a noun. As in, "Copy the link that belongs to this downloaded item".
-
-
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
+
+newtab-menu-copy-download-link = Копирај врска за преземање
+newtab-menu-go-to-download-page = Оди до страницата за преземање
+newtab-menu-remove-download = Избриши од историјата
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
 ## system for each operating system.
 
+newtab-menu-open-file = Отвори датотека
 
 ## Card Labels: These labels are associated to pages to give
 ## context on how the element is related to the user, e.g. type indicates that
@@ -95,17 +114,21 @@ newtab-menu-bookmark = Обележувач
 
 newtab-label-visited = Посетени
 newtab-label-bookmarked = Обележани
+newtab-label-removed-bookmark = Обележувачот е остранет
 newtab-label-recommended = Во тренд
 newtab-label-saved = Снимено во { -pocket-brand-name }
-
-## Section Menu: These strings are displayed in the section context menu and are 
-## meant as a call to action for the given section.
-
+newtab-label-download = Преземено
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
+newtab-section-menu-remove-section = Отстранете го делот
+newtab-section-menu-move-up = Помести нагоре
+newtab-section-menu-move-down = Помести надолу
+newtab-section-menu-privacy-notice = Белешка за приватност
+
 ## Section aria-labels
+
 
 ## Section Headers.
 
@@ -118,20 +141,25 @@ newtab-section-header-pocket = Препорачано од { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Започнете со прелистување и ние овде ќе ви прикажеме некои од одличните написи, видеа и други страници што неодамна сте ги поселите или обележале.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Имате видено сѐ! Навратете се подоцна за нови содржини од { $provider }. Не можете да чекате? Изберете популарна тема и откријте уште одлични содржини ширум Интернет.
 
-
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
+
+newtab-discovery-empty-section-topstories-try-again-button = Обиди се повторно
+newtab-discovery-empty-section-topstories-loading = Се вчитува…
 
 ## Pocket Content Section.
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Популарни теми:
+newtab-pocket-more-recommendations = Повеќе препораки
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
+
+
+## Customization Menu
 
