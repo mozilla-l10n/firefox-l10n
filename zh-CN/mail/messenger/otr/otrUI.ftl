@@ -37,7 +37,8 @@ finger-unseen = 保{ $name } 的身份尚未验证。尽管偶然的窃听不太
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 finger-seen = { $name } 使用未识别的计算机与您联系。尽管偶然的窃听不太可能，但为保万无一失。请验证此联系人的身份来避免受到监控。
-state-not_private = 当前对话并不隐私。
+state-not_private = 当前的对话不是私人对话。
+state-not-private = 当前的对话不是私人对话。
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 state-unverified = 由于 { $name } 的身份尚未验证，当前对话已加密但并不隐私。
@@ -48,6 +49,7 @@ state-private = { $name }的身份已验证。当前对话已加密且能保证�
 #   $name (String) - the screen name of a chat contact person
 state-finished = { $name } 已结束与您的加密对话；您也应该中断对话。
 state-not_private-label = 不安全
+state-not-private-label = 不安全
 state-unverified-label = 未验证
 state-private-label = 私人
 state-finished-label = 已完成
@@ -64,6 +66,7 @@ verify-title = 验证联系人的身份
 error-title = 错误
 success-title = 端到端加密
 successThem-title = 验证联系人的身份
+success-them-title = 验证联系人的身份
 fail-title = 无法验证
 waiting-title = 验证请求已发送
 # Do not translate 'OTR' (name of an encryption protocol)

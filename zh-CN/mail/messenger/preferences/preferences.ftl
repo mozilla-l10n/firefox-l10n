@@ -12,6 +12,7 @@ preferences-title =
         }
 preferences-tab-title =
     .title = 首选项
+preferences-doc-title = 首选项
 category-list =
     .aria-label = 分类
 pane-general-title = 常规
@@ -90,8 +91,8 @@ update-in-progress-ok-button = 放弃
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = 继续
-account-button = 账户设置
 addons-button = 扩展和主题
+account-button = 账户设置
 open-addons-sidebar-button = 扩展和主题
 
 ## OS Authentication dialog
