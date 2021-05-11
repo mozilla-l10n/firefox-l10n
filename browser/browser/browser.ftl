@@ -181,6 +181,10 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = ಪೂರ್ವನಿಯೋಜಿತ ಹುಡುಕು ಎಂಜಿನ್‌ ಆಗಿ ಹೊಂದಿಸು
     .accesskey = D
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu =
+    .label = ಹುಡುಕು ಸಾಧನವನ್ನು ಸೇರಿಸಿ
 
 ## Local search mode one-off buttons
 ## Variables:
@@ -368,6 +372,9 @@ library-bookmarks-menu =
     .label = ಪುಟಗುರುತುಗಳು
 
 ## Pocket toolbar button
+
+
+## Customize Toolbar Buttons
 
 
 ## More items
