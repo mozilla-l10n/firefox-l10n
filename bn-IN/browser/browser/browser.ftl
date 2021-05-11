@@ -210,6 +210,10 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = অনুসন্ধান ইঞ্জিনকে ডিফল্ট হিসাবে সংকলন করুন
     .accesskey = D
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu =
+    .label = অনুসন্ধানের ইঞ্জিন যোগ করুন
 
 ## Local search mode one-off buttons
 ## Variables:
