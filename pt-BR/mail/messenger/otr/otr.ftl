@@ -78,6 +78,9 @@ error-enc = Ocorreu um erro ao criptografar a mensagem.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 error-not_priv = Você enviou dados criptografados para { $name }, que não os estava esperando.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+error-not-priv = Você enviou dados criptografados para { $name }, que não estava esperando por isso.
 error-unreadable = Você transmitiu uma mensagem criptografada ilegível.
 error-malformed = Você transmitiu uma mensagem de dados malformada.
 resent = [reenviar]

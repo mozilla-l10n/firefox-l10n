@@ -6,6 +6,10 @@ account-setup-tab-title = Configuração de conta
 
 ## Header
 
+account-setup-title = Configurar para usar seu endereço de email existente
+account-setup-description =
+    Para usar seu endereço de email atual, preencha suas credenciais.<br/>
+    O { -brand-product-name } irá procurar automaticamente uma configuração de servidor recomendada que esteja funcionando.
 
 ## Form fields
 
