@@ -223,6 +223,10 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = મૂળભૂત શોધ એંજીન તરીકે સેટ કરો
     .accesskey = D
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu =
+    .label = શોધ એન્જિન ઉમેરો
 
 ## Local search mode one-off buttons
 ## Variables:
