@@ -27,6 +27,11 @@ account-setup-email-info-icon =
 account-setup-email-warning = Endereço de email inválido
 account-setup-email-warning-icon =
     .title = { account-setup-email-warning }
+account-setup-password-toggle =
+    .title = Exibir/ocultar senha
+#   YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows.
+account-setup-exchange-input =
+    .placeholder = SEUDOMÍNIO\seunomedeusuário
 
 ## Action buttons
 
@@ -46,6 +51,7 @@ account-setup-button-done = Pronto
 ## Notifications
 
 account-setup-checking-password = Verificando a senha…
+account-setup-installing-addon = Baixando e instalando extensão…
 account-setup-success-password = A senha está correta
 account-setup-success-addon = A extensão foi instalada com sucesso
 # Note: Do not translate or replace Mozilla. It stands for the public project mozilla.org, not Mozilla Corporation. The database is a generic, public domain facility usable by any client.
