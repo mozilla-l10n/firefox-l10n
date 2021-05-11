@@ -19,6 +19,10 @@ experimental-features-media-avif =
 experimental-features-media-avif-description = Hdyž tuta funkcija je zmóžnjena, podpěruje { -brand-short-name } AVIF-format (AV1 Image File). To je datajowy format za stejace wobrazy, kotryž kmanosće algoritmusow widejokomprimowanja AV1 wužiwa, zo by wobrazowu wulkosć redukował. Hlejće <a data-l10n-name="bugzilla">zmylkowu rozprawu 1443863</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
+experimental-features-media-jxl =
+    .label = Medije: JPEG XL
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
     .label = Web API: inputmode
 # "inputmode" and "contenteditable" are technical terms and shouldn't be translated.
