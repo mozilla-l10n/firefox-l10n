@@ -52,6 +52,8 @@ account-setup-button-done = Pronto
 
 account-setup-checking-password = Verificando a senha…
 account-setup-installing-addon = Baixando e instalando extensão…
+account-setup-success-half-manual = As seguintes configurações foram encontradas ao examinar o servidor indicado:
+account-setup-success-guess = Configuração encontrada ao experimentar nomes de servidor comuns.
 account-setup-success-password = A senha está correta
 account-setup-success-addon = A extensão foi instalada com sucesso
 # Note: Do not translate or replace Mozilla. It stands for the public project mozilla.org, not Mozilla Corporation. The database is a generic, public domain facility usable by any client.
