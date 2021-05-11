@@ -23,6 +23,9 @@ upgrade-dialog-new-primary-default-button = Tornar o { -brand-short-name } meu n
 upgrade-dialog-new-primary-pin-button = Fixar o { -brand-short-name } na barra de tarefas
 upgrade-dialog-new-primary-theme-button = Escolha um tema
 upgrade-dialog-new-secondary-button = Agora não
+# This string is only shown on Windows 7, where we intentionally suppress the
+# theme selection screen.
+upgrade-dialog-new-primary-win7-button = Ok, entendi
 
 ## Theme selection screen
 
