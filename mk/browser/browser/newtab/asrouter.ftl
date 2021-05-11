@@ -2,25 +2,29 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 ## These messages are used as headings in the recommendation doorhanger
 
 cfr-doorhanger-extension-heading = Препорачани проширувања
+cfr-doorhanger-feature-heading = Препорачана карактеристика
 
 ##
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Зошто го гледам ова
-
 cfr-doorhanger-extension-cancel-button = Не сега
     .accesskey = Н
-
+cfr-doorhanger-extension-ok-button = Додади Сега
+    .accesskey = Д
+cfr-doorhanger-pintab-ok-button = Закачете го ова јазиче
+    .accesskey = П
+cfr-doorhanger-extension-manage-settings-button = Управувајте со поставките за препораките
+    .accesskey = У
 cfr-doorhanger-extension-learn-more-link = Дознајте повеќе
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = од { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Препорака
@@ -50,7 +54,6 @@ cfr-doorhanger-extension-total-users =
 cfr-doorhanger-pintab-animation-pause = Паузирај
 cfr-doorhanger-pintab-animation-resume = Продолжи
 
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Синхронизирајте ги вашите обележувачи насекаде.
@@ -61,41 +64,102 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 
 ## Protections panel
 
+cfr-protections-panel-link-text = Дознајте повеќе
+
 ## What's New toolbar button and panel
+
+# This string is used by screen readers to offer a text based alternative for
+# the notification icon
+cfr-badge-reader-label-newfeature = Нова функција:
+cfr-whatsnew-button =
+    .label = Што е ново
+    .tooltiptext = Што е ново
+cfr-whatsnew-panel-header = Што е ново
+cfr-whatsnew-tracking-blocked-link-text = Преглед на извештајот
+cfr-whatsnew-lockwise-backup-title = Направете резервна копија на вашите лозинки
+cfr-whatsnew-lockwise-backup-link-text = Вклучете резервни копии
+cfr-whatsnew-lockwise-take-title = Понесете ги вашите лозинки со вас
+cfr-whatsnew-lockwise-take-link-text = Преземете ја апликацијата
 
 ## Search Bar
 
+
+## Search bar
+
+
 ## Picture-in-Picture
+
+cfr-whatsnew-pip-cta = Дознајте повеќе
 
 ## Permission Prompt
 
+cfr-whatsnew-permission-prompt-cta = Дознајте повеќе
+
 ## Fingerprinter Counter
+
 
 ## Bookmark Sync
 
+
 ## Login Sync
+
 
 ## Send Tab
 
+
 ## Firefox Send
+
 
 ## Social Tracking Protection
 
+cfr-doorhanger-socialtracking-close-button = Затвори
+    .accesskey = З
+
 ## Enhanced Tracking Protection Milestones
+
 
 ## What’s New Panel Content for Firefox 76
 
+
 ## Lockwise message
+
 
 ## Vulnerable Passwords message
 
+
 ## Picture-in-Picture fullscreen message
+
 
 ## Protections Dashboard message
 
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
+
+
 ## Better PDF message
+
 
 ## DOH Message
 
+
+## Fission Experiment Message
+
+
 ## What's new: Cookies message
+
+
+## What's new: Media controls message
+
+
+## What's new: Search shortcuts
+
+
+## What's new: Cookies protection
+
+
+## What's new: Better bookmarking
+
+
+## What's new: Cross-site cookie tracking
 

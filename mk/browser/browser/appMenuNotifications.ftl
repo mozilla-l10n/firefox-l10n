@@ -25,4 +25,9 @@ appmenu-update-restart =
     .secondarybuttonlabel = Не сега
     .secondarybuttonaccesskey = Н
 appmenu-update-restart-message = По краткотрајното рестартирање, { -brand-shorter-name } ќе ги врати сите ваши отворени јазичиња и прозорци што не се дел од Приватно прелистување.
-    
+appmenu-addon-private-browsing-installed =
+    .buttonlabel = Во ред, разбрав
+    .buttonaccesskey = о
+appmenu-addon-post-install-incognito-checkbox =
+    .label = Дозволете оваа наставка да работи во приватни прозорчиња
+    .accesskey = А

@@ -43,3 +43,5 @@ customize-mode-undo-cmd =
     .label = Врати
 customize-mode-lwthemes-my-themes =
     .value = Мои теми
+customize-mode-touchbar-cmd =
+    .label = Прилагодете ја лентата за допир

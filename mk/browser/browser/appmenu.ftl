@@ -17,6 +17,10 @@ appmenuitem-new-private-window =
 
 ## Zoom and Fullscreen Controls
 
+appmenuitem-zoom-enlarge =
+    .label = Зголеми
+appmenuitem-zoom-reduce =
+    .label = Намали
 appmenuitem-fullscreen =
     .label = На цел екран
 
@@ -43,22 +47,9 @@ appmenuitem-save-page =
 appmenu-about =
     .label = За { -brand-shorter-name }
     .accesskey = A
-appmenu-help-troubleshooting-info =
-    .label = Информации за проблеми
-    .accesskey = И
 appmenu-help-feedback-page =
     .label = Испрати коментар…
     .accesskey = с
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Рестартирај со исклучени додатоци…
-    .accesskey = Р
-appmenu-help-safe-mode-with-addons =
-    .label = Рестрартирај со овозможени додатоци
-    .accesskey = R
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

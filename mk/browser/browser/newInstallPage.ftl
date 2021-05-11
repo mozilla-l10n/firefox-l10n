@@ -8,13 +8,10 @@
 ### given Firefox channel". These terms are not synonymous.
 
 title = Важни Вести
-
+heading = Промени во вашиот профил со { -brand-short-name }
 changed-title = Што се промени?
-
 options-title = Кои се моите опции?
-
 resources = Ресурси:
-
 sync-label = Внесете ја вашата е-пошта
 sync-input =
     .placeholder = Е-пошта
