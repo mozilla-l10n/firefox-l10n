@@ -65,15 +65,25 @@ account-setup-looking-up-db = 正在查询配置：Mozilla ISP 数据库…
 account-setup-looking-up-mx = 正在查询配置：收件域名…
 account-setup-looking-up-exchange = 正在查询配置：Exchange 服务器…
 account-setup-checking-password = 正在验证密码…
+account-setup-installing-addon = 正在下载安装附加组件…
+account-setup-success-guess-offline = 您已离线。我们已推测一些设置，但您需要输入正确的设置。
 account-setup-success-password = 密码正确
+account-setup-success-addon = 已成功安装附加组件
+# Note: Do not translate or replace Mozilla. It stands for the public project mozilla.org, not Mozilla Corporation. The database is a generic, public domain facility usable by any client.
+account-setup-success-settings-db = 从 Mozilla ISP 数据库中找到配置。
 
 ## Illustrations
 
+account-setup-step3-image =
+    .title = 找到配置
+account-setup-step4-image =
+    .title = 连接错误
 account-setup-selection-help = 不确定要怎么选？
 account-setup-selection-error = 需要帮助？
 
 ## Results area
 
+account-setup-protocol-title = 选择协议
 # Note: IMAP is the name of a protocol.
 account-setup-result-imap = IMAP
 # Note: POP3 is the name of a protocol.
@@ -81,6 +91,8 @@ account-setup-result-pop = POP3
 # Note: Exchange is the name of a product.
 account-setup-result-exchange = Exchange
 account-setup-result-exchange-description = Microsoft Exchange 服务器
+account-setup-incoming-title = 收件
+account-setup-outgoing-title = 发件
 account-setup-username-title = 用户名
 account-setup-exchange-title = 服务器
 
