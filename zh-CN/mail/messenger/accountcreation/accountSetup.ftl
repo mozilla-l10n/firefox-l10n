@@ -100,6 +100,7 @@ account-setup-exchange-title = 服务器
 
 ## Error messages
 
+account-setup-credentials-wrong = 验证失败。请检查用户名和密码
 
 ## Manual config area
 

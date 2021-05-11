@@ -57,6 +57,8 @@ context-gone_secure_unverified = 与 { $name } 有加密，但未经验证的对
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 context-still_secure = 与 { $name } 的加密对话已成功刷新。
+# Do not translate 'OTR' (name of an encryption protocol)
+msgevent-msg-reflected = 您正在接收自己的 OTR 消息。要么您正在自言自语，要么有人正在复读您的消息。
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-msg-resent = 已重发最后一条给 { $name } 的消息。
@@ -87,6 +89,9 @@ msgevent-rcvdmsg-unencrypted = 收到来自 { $name } 以下消息未加密：{ 
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-rcvdmsg-unrecognized = 您收到来自 { $name } 的 OTR 消息无法识别。
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg-for-other-instance = { $name } 在另一会话发送了消息。若您同时在多个设备登录，那么其他会话可能已收到该消息。
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 context-gone-secure-private = 已开始与 { $name } 的私人对话。
