@@ -80,6 +80,7 @@ protections-panel-cryptominers = Ymi criptominero oipurúva nde apopyvusu rembip
 protections-panel-fingerprinters = Umi Kuãhũ kuaaukaha ombyaty ne kundaha ha mohendaha ñemboheko omoheñói hag̃ua imba’eterã. Oipurúva ko kuãhũ ikatu ohapykueho heta ñanduti renda rupive.
 protections-panel-tracking-content = Tendakuéra ikatu ohupi maranduñemurã okaygua, ta’ãngamýi ha ambue tetepy orekóva tapykuehoha ayvu. Tetepy rapykuehoha jejoko ikatu oipytyvõ tendakuérape henyhẽ pya’eve hag̃ua hákatu heta votõ, myanyhẽha ha jeikeha kora ikatu ndoikovéi.
 protections-panel-social-media-trackers = Umi ava ñandutieta ohechakuaa tapykuehoha ambue ñanduti rendápe ohapykueho hag̃ua hembiapo, ohecha tapia ñandutípe. Kóva omoneĩ mba’apohaguasu ava ñandutietápe oikuaavévo ndehegui umi emoherakuãvagui ava ñandutietápe.
+protections-panel-description-shim-allowed = Oĩ tapykuehoha ikurusúva yvy gotyo oñemosãso’imíva ko kuatiaroguépe oñemongu’e rupi hendivekuéra.
 protections-panel-description-shim-allowed-learn-more = Kuaave
 protections-panel-shim-allowed-indicator =
     .tooltiptext = Tapykuehoha oñembojuruja’íva
