@@ -19,6 +19,11 @@ experimental-features-media-avif =
 experimental-features-media-avif-description = Якщо цю функцію увімкнено, { -brand-short-name } підтримує формат файлу зображень AV1 (AVIF). Це формат файлу нерухомого зображення, який використовує можливості алгоритмів стиснення відео AV1 для зменшення розміру зображення. Докладніше про <a data-l10n-name="bugzilla">ваду 1443863</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
+experimental-features-media-jxl =
+    .label = Медіа: JPEG XL
+experimental-features-media-jxl-description = Увімкнення цієї функції активує в { -brand-short-name } підтримку формату JPEG XL (JXL). Це вдосконалений формат файлів зображень, який підтримує перетворення без втрат з традиційних файлів JPEG. Для докладної інформації дивіться <a data-l10n-name="bugzilla">bug 1539075</a>.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
     .label = Web API: inputmode
 # "inputmode" and "contenteditable" are technical terms and shouldn't be translated.
