@@ -23,6 +23,9 @@ upgrade-dialog-new-primary-default-button = { -brand-short-name } k standardnemu
 upgrade-dialog-new-primary-pin-button = { -brand-short-name } k nadawkowej lajsće připjeć
 upgrade-dialog-new-primary-theme-button = Drastu wubrać
 upgrade-dialog-new-secondary-button = Nic nětko
+# This string is only shown on Windows 7, where we intentionally suppress the
+# theme selection screen.
+upgrade-dialog-new-primary-win7-button = W porjadku, sym zrozumił!
 
 ## Theme selection screen
 

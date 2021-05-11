@@ -11,6 +11,8 @@ newtab-settings-button =
 newtab-personalize-button-label = Personalizować
     .title = Nowy rajtark personalizować
     .aria-label = Nowy rajtark personalizować
+newtab-personalize-dialog-label =
+    .aria-label = Personalizować
 
 ## Search box component.
 
