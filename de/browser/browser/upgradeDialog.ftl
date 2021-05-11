@@ -22,6 +22,10 @@ upgrade-dialog-new-secondary-button = Nicht jetzt
 
 ## Theme selection screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-theme-title =
+    Starte neu durch
+    mit einem aktualisierten Theme
 upgrade-dialog-theme-system = System-Theme
     .title = Den Betriebssystemeinstellungen für Schaltflächen, Menüs und Fenster folgen
 upgrade-dialog-theme-light = Hell
