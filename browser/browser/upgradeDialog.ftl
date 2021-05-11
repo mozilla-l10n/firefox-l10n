@@ -23,6 +23,9 @@ upgrade-dialog-new-primary-default-button = Gör { -brand-short-name } till min 
 upgrade-dialog-new-primary-pin-button = Fäst { -brand-short-name } i mitt aktivitetsfält
 upgrade-dialog-new-primary-theme-button = Välj ett tema
 upgrade-dialog-new-secondary-button = Inte nu
+# This string is only shown on Windows 7, where we intentionally suppress the
+# theme selection screen.
+upgrade-dialog-new-primary-win7-button = Okej, jag förstår!
 
 ## Theme selection screen
 
