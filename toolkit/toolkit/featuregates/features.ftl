@@ -19,6 +19,11 @@ experimental-features-media-avif =
 experimental-features-media-avif-description = A funkció engedélyezésével a { -brand-short-name } támogatja az AV1 (AVIF) képfájl-formátumot. Ez egy olyan állókép-formátum, ami az AV1 videotömörítési algoritmusokat használja a képméret csökkentése érdekében. További részletekért lásd az <a data-l10n-name="bugzilla">1443863-as számú jegyet</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
+experimental-features-media-jxl =
+    .label = Média: JPEG XL
+experimental-features-media-jxl-description = A funkció engedélyezésével a { -brand-short-name } támogatni fogja a JPEG XL (JXL) formátumot. Ez egy továbbfejlesztett képfájlformátum, amely támogatja a veszteségmentes átmenetet a hagyományos JPEG-fájlokból. További részletekért lásd a <a data-l10n-name="bugzilla">1539075-ös számú jegyet</a>.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
     .label = Web API: inputmode
 # "inputmode" and "contenteditable" are technical terms and shouldn't be translated.

@@ -23,6 +23,9 @@ upgrade-dialog-new-primary-default-button = A { -brand-short-name } alapértelme
 upgrade-dialog-new-primary-pin-button = A { -brand-short-name } rögzítése a tálcára
 upgrade-dialog-new-primary-theme-button = Válasszon témát
 upgrade-dialog-new-secondary-button = Most nem
+# This string is only shown on Windows 7, where we intentionally suppress the
+# theme selection screen.
+upgrade-dialog-new-primary-win7-button = Rendben, értem!
 
 ## Theme selection screen
 
