@@ -71,15 +71,48 @@ account-setup-looking-up-settings = Пошук конфігурації…
 
 ## Illustrations
 
+account-setup-forum-help = Форум підтримки
 
 ## Results area
 
+account-setup-protocol-title = Вибрати протокол
+# Note: IMAP is the name of a protocol.
+account-setup-result-imap = IMAP
+account-setup-result-imap-description = Синхронізуйте свої теки та електронні листи на сервері
+# Note: POP3 is the name of a protocol.
+account-setup-result-pop = POP3
+account-setup-result-pop-description = Зберігайте теки та електронні листи на комп’ютері
+# Note: Exchange is the name of a product.
+account-setup-result-exchange = Exchange
+account-setup-result-exchange-description = Сервер Microsoft Exchange
+account-setup-incoming-title = Вхідні
+account-setup-outgoing-title = Вихідні
+account-setup-username-title = Ім'я користувача
+account-setup-exchange-title = Сервер
 
 ## Error messages
 
 
 ## Manual config area
 
+account-setup-manual-config-title = Налаштування сервера
+account-setup-incoming-protocol-label = Вхідний протокол
+protocol-imap-option = { account-setup-result-imap }
+protocol-pop-option = { account-setup-result-pop }
+account-setup-outgoing-protocol-label = Вихідний протокол
+outgoing-protocol = SMTP
+account-setup-incoming-server-label = Сервер вхідної пошти
+account-setup-outgoing-server-label = Сервер вихідної пошти
+account-setup-incoming-port-label = Вхідний порт
+account-setup-outoing-port-label = Вихідний порт
+account-setup-incoming-ssl-label = Вхідний SSL
+account-setup-outgoing-ssl-label = Вихідний SSL
+ssl-autodetect-option = Автовиявлення
+ssl-noencryption-option = Немає
+ssl-starttls-option = STARTTLS
+ssl-tls-option = SSL/TLS
+account-setup-incoming-auth-label = Вхідна автентифікація
+account-setup-outgoing-auth-label = Вихідна автентифікація
 
 ## Warning insecure server
 

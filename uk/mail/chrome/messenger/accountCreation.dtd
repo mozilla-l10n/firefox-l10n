@@ -4,6 +4,7 @@
 
 <!ENTITY emailWizard.title               "Налаштуйте свою наявну електронну адресу">
 <!ENTITY emailWizard.caption             "Використовуйте вашу поточну електронну адресу">
+
 <!ENTITY name.label                      "Ваше ім’я:">
 <!ENTITY name.accesskey                  "і">
 <!ENTITY fullname.placeholder            "Ваше ім'я та прізвище">
@@ -47,7 +48,7 @@
 <!-- LOCALIZATION NOTE(exchange.label): Do not translate Exchange, it is a product name. -->
 <!ENTITY exchange.label                  "Exchange">
 <!ENTITY smtp.label                      "SMTP">
-<!ENTITY autodetect.label                "Автодетект">
+<!ENTITY autodetect.label                "Автовиявлення">
 <!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.
      Transmission of emails in cleartext over the Internet. -->
 <!ENTITY noEncryption.label              "Жодної">
@@ -59,6 +60,7 @@
 
 <!ENTITY advancedSetup.label             "Розширена конфігурація">
 <!ENTITY advancedSetup.accesskey         "Р">
+
 <!ENTITY cancel.label                    "Скасувати">
 <!ENTITY cancel.accesskey                "к">
 <!ENTITY continue.label                  "Продовжити">
@@ -75,6 +77,7 @@
 <!ENTITY manual-config.accesskey         "Н">
 <!ENTITY open-provisioner.label          "Отримати нову адресу електронної пошти…">
 <!ENTITY open-provisioner.accesskey      "О">
+
 <!ENTITY get-help.label                  "Отримати допомогу">
 <!ENTITY get-help.accesskey              "д">
 
