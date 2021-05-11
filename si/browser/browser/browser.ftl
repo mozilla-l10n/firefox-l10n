@@ -185,6 +185,10 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = පෙරනිමි සෙවුම් එළවුම ලෙස තබන්න
     .accesskey = D
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu =
+    .label = සෙවුම් යන්ත්‍රයක් එක් කරන්න
 
 ## Local search mode one-off buttons
 ## Variables:
