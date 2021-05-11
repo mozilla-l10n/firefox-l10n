@@ -11,6 +11,8 @@ newtab-settings-button =
 newtab-personalize-button-label = Anpassa
     .title = Anpassa ny flik
     .aria-label = Anpassa ny flik
+newtab-personalize-dialog-label =
+    .aria-label = Anpassa
 
 ## Search box component.
 
