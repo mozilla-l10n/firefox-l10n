@@ -4,3 +4,5 @@
 
 account-settingsTitle = Autentiseringsinställningar
 account-channelTitle = Standardkanaler
+account-settings-title = Autentiseringsinställningar
+account-channel-title = Standardkanaler

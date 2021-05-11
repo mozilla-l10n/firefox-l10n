@@ -12,6 +12,7 @@ preferences-title =
         }
 preferences-tab-title =
     .title = Inställningar
+preferences-doc-title = Inställningar
 category-list =
     .aria-label = Kategorier
 pane-general-title = Allmänt
@@ -90,8 +91,8 @@ update-in-progress-ok-button = &Ignorera
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Fortsätt
-account-button = Kontoinställningar
 addons-button = Tillägg & teman
+account-button = Kontoinställningar
 open-addons-sidebar-button = Tillägg och teman
 
 ## OS Authentication dialog
