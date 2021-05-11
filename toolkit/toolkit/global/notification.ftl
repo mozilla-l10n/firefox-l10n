@@ -4,3 +4,7 @@
 
 notification-learnmore-default-label =
     .value = เรียนรู้เพิ่มเติม
+# This label is read by screen readers when focusing the close button for an
+# "infobar" (message shown when for example a popup is blocked).
+close-button-label =
+    .aria-label = ปิด

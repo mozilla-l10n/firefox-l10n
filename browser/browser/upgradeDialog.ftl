@@ -17,6 +17,31 @@ upgrade-dialog-new-item-tabs-title = แท็บอันทันสมัย
 upgrade-dialog-new-item-tabs-description = แสดงข้อมูลอย่างเรียบร้อย พร้อมทั้งรองรับการโฟกัส และการเคลื่อนไหวแบบยืดหยุ่น
 upgrade-dialog-new-item-icons-title = ไอคอนที่สดใสและข้อความที่ชัดเจนขึ้น
 upgrade-dialog-new-item-icons-description = ช่วยให้คุณทำสิ่งต่าง ๆ ได้ด้วยสัมผัสที่เบาขึ้น
+upgrade-dialog-new-primary-primary-button = ทำให้ { -brand-short-name } เป็นเบราว์เซอร์หลักของฉัน
+    .title = ตั้ง { -brand-short-name } เป็นเบราว์เซอร์เริ่มต้นและปักหมุดเข้ากับแถบงาน
+upgrade-dialog-new-primary-default-button = ทำให้ { -brand-short-name } เป็นเบราว์เซอร์เริ่มต้นของฉัน
+upgrade-dialog-new-primary-pin-button = ปักหมุด { -brand-short-name } เข้ากับแถบงานของฉัน
+upgrade-dialog-new-primary-theme-button = เลือกชุดตกแต่ง
+upgrade-dialog-new-secondary-button = ไม่ใช่ตอนนี้
+# This string is only shown on Windows 7, where we intentionally suppress the
+# theme selection screen.
+upgrade-dialog-new-primary-win7-button = ตกลง เข้าใจแล้ว!
 
 ## Theme selection screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-theme-title =
+    เริ่มต้นใหม่อย่างเรียบหรู
+    ด้วยชุดตกแต่งที่อัปเดตใหม่
+upgrade-dialog-theme-system = ชุดตกแต่งระบบ
+    .title = ใช้ชุดตกแต่งสำหรับปุ่ม เมนู และหน้าต่างตามระบบปฏิบัติการ
+upgrade-dialog-theme-light = สว่าง
+    .title = ใช้ชุดตกแต่งแบบสว่างสำหรับปุ่ม เมนู และหน้าต่าง
+upgrade-dialog-theme-dark = มืด
+    .title = ใช้ชุดตกแต่งแบบมืดสำหรับปุ่ม เมนู และหน้าต่าง
+upgrade-dialog-theme-alpenglow = Alpenglow
+    .title = ใช้ชุดตกแต่งแบบไดนามิกที่มีสีสันสำหรับปุ่ม เมนู และหน้าต่าง
+upgrade-dialog-theme-keep = ใช้ชุดตกแต่งเดิม
+    .title = ใช้ชุดตกแต่งที่คุณติดตั้งไว้ก่อนที่จะอัปเดต { -brand-short-name }
+upgrade-dialog-theme-primary-button = บันทึกชุดตกแต่ง
+upgrade-dialog-theme-secondary-button = ไม่ใช่ตอนนี้
