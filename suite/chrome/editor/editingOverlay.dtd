@@ -58,3 +58,5 @@
 <!ENTITY publishToolbarCmd.tooltip "Enviar arquivo para um local remoto">
 <!ENTITY printToolbarCmd.label "Imprimir">
 <!ENTITY printToolbarCmd.tooltip "Imprimir esta página">
+<!ENTITY formToolbarCmd.label "Formulário">
+<!ENTITY formToolbarCmd.tooltip "Inserir novo formulário ou editar propriedades do formulário selecionado">
