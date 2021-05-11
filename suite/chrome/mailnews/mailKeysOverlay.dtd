@@ -6,6 +6,10 @@
 <!ENTITY markAsReadCmd.accesskey "R">
 <!ENTITY markAsReadCmd.key       "m">
 
+<!ENTITY markAsUnreadCmd.label     "წასაკითხად">
+<!ENTITY markAsUnreadCmd.accesskey "ს">
+<!ENTITY markAsUnreadCmd.key       "m">
+
 <!ENTITY markFlaggedCmd.label     "ალამი">
 <!ENTITY markFlaggedCmd.accesskey "F">
 <!ENTITY markFlaggedCmd.key       "i">
