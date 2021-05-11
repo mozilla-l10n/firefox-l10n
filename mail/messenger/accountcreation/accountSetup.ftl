@@ -15,6 +15,9 @@ account-setup-description =
 
 account-setup-name-label = Seu nome completo
     .accesskey = n
+# Note: "John Doe" is a multiple-use name that is used when the true name of a person is unknown. We use this fake name as an input placeholder. Translators should update this to reflect the placeholder name of their language/country.
+account-setup-name-input =
+    .placeholder = Fulano
 account-setup-name-info-icon =
     .title = Seu nome, como será mostrado aos outros
 account-setup-name-warning = Digite seu nome
@@ -22,6 +25,8 @@ account-setup-name-warning-icon =
     .title = { account-setup-name-warning }
 account-setup-email-label = Endereço de email
     .accesskey = E
+account-setup-email-input =
+    .placeholder = fulano@example.com
 account-setup-email-info-icon =
     .title = Seu endereço de email existente
 account-setup-email-warning = Endereço de email inválido
@@ -124,6 +129,7 @@ account-setup-exchange-title = Servidor
 account-setup-credentials-incomplete = Falha na autenticação. As credenciais informadas estão incorretas ou outro nome de usuário é necessário para acessar a conta. Este nome de usuário geralmente é a conta no domínio do Windows, com ou sem o prefixo do domínio (por exemplo, alice ou AD\\alice)
 account-setup-credentials-wrong = Falha na autenticação. Verifique o nome de usuário e a senha
 account-setup-find-settings-failed = O { -brand-short-name } não conseguiu encontrar as configurações de sua conta de email
+account-setup-exchange-config-unverifiable = A configuração não pôde ser verificada. Se o nome de usuário e a senha estão corretos, é provável que o administrador do servidor tenha desativado a configuração selecionada em sua conta. Experimente selecionando outro protocolo.
 
 ## Manual config area
 
