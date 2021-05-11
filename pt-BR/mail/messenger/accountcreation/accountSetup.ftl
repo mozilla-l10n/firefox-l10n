@@ -27,11 +27,23 @@ account-setup-email-info-icon =
 account-setup-email-warning = Endereço de email inválido
 account-setup-email-warning-icon =
     .title = { account-setup-email-warning }
+account-setup-password-label = Senha
+    .accesskey = S
+    .title = Opcional, será usada apenas para validar o nome de usuário
+account-provisioner-button = Obter um novo endereço de email
+    .accesskey = O
 account-setup-password-toggle =
     .title = Exibir/ocultar senha
+account-setup-remember-password = Memorizar senha
+    .accesskey = M
+account-setup-exchange-label = Sua conta
+    .accesskey = c
 #   YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows.
 account-setup-exchange-input =
     .placeholder = SEUDOMÍNIO\seunomedeusuário
+#   Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network.
+account-setup-exchange-info-icon =
+    .title = Conta no domínio
 
 ## Action buttons
 
@@ -55,6 +67,10 @@ account-setup-looking-up-settings-guess = Procurando configuração: Experimenta
 account-setup-looking-up-settings-half-manual = Procurando configuração: Examinando servidor…
 account-setup-looking-up-disk = Procurando configuração: Instalação do { -brand-short-name }…
 account-setup-looking-up-isp = Procurando configuração: Provedor de email…
+# Note: Do not translate or replace Mozilla. It stands for the public project mozilla.org, not Mozilla Corporation. The database is a generic, public domain facility usable by any client.
+account-setup-looking-up-db = Procurando configuração: Base de dados da Mozilla de provedores de internet…
+account-setup-looking-up-mx = Procurando configuração: Domínio de recebimento de email…
+account-setup-looking-up-exchange = Procurando configuração: Servidor Exchange…
 account-setup-checking-password = Verificando a senha…
 account-setup-installing-addon = Baixando e instalando extensão…
 account-setup-success-half-manual = As seguintes configurações foram encontradas ao examinar o servidor indicado:
@@ -79,6 +95,7 @@ account-setup-step3-image =
     .title = Configuração encontrada
 account-setup-step4-image =
     .title = Erro de conexão
+account-setup-privacy-footnote = Suas credenciais serão usadas de acordo com nossa <a data-l10n-name="privacy-policy-link">política de privacidade</a> e serão armazenadas somente localmente no seu computador.
 account-setup-selection-help = Não tem certeza do que selecionar?
 account-setup-selection-error = Precisa de ajuda?
 account-setup-documentation-help = Documentação de configuração

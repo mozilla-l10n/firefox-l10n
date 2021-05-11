@@ -21,4 +21,6 @@ otr-require-encryption-info = Ao exigir criptografia de ponta a ponta, mensagens
 otr-verifyNudge =
     .label = Sempre me lembrar de verificar um contato não verificado
 otr-notYetAvailable = ainda não disponível
+otr-verify-nudge =
+    .label = Sempre me lembrar de verificar um contato não verificado
 otr-not-yet-available = não disponível ainda
