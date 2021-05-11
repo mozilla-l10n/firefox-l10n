@@ -11,6 +11,8 @@ newtab-settings-button =
 newtab-personalize-button-label = 个性化
     .title = 个性化标签页
     .aria-label = 个性化标签页
+newtab-personalize-dialog-label =
+    .aria-label = 个性化
 
 ## Search box component.
 
