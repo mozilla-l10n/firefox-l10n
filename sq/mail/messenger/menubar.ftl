@@ -9,6 +9,17 @@ menu-view-charset =
     .label = Kodim Teksti
     .accesskey = K
 
+## Tools Menu
+
+# Since v89 we dropped the platforms distinction between Options or Preferences
+# and consolidated everything with Preferences.
+menu-tools-preferences =
+    .label = Parapëlqime
+    .accesskey = P
+menu-addons-and-themes =
+    .label = Shtesa dhe Tema
+    .accesskey = S
+
 ## Help Menu
 
 menu-help-enter-troubleshoot-mode =
@@ -35,3 +46,18 @@ toolbar-delete-button =
 toolbar-undelete-button =
     .label = Çfshije
     .tooltiptext = Hiqe fshirjen e mesazheve të përzgjedhur
+
+## View / Layout
+
+mail-uidensity-label =
+    .label = Dendësi
+    .accesskey = D
+mail-uidensity-compact =
+    .label = Kompakte
+    .accesskey = K
+mail-uidensity-normal =
+    .label = Normale
+    .accesskey = N
+mail-uidensity-touch =
+    .label = Touch
+    .accesskey = T
