@@ -4,3 +4,5 @@
 
 account-settingsTitle = 認證設定
 account-channelTitle = 預設頻道
+account-settings-title = 認證設定
+account-channel-title = 預設頻道
