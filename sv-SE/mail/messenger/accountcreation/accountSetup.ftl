@@ -68,9 +68,22 @@ account-setup-looking-up-settings = Undersöker konfigurationen…
 
 ## Illustrations
 
+account-setup-step2-image =
+    .title = Laddar…
+account-setup-step3-image =
+    .title = Konfiguration hittad
+account-setup-step4-image =
+    .title = Anslutningsfel
+account-setup-selection-help = Är du inte säker på vad du ska välja?
+account-setup-selection-error = Behöver du hjälp?
+account-setup-documentation-help = Installationsdokumentation
+account-setup-forum-help = Supportforum
 
 ## Results area
 
+account-setup-protocol-title = Välj protokoll
+# Note: IMAP is the name of a protocol.
+account-setup-result-imap = IMAP
 # Note: POP3 is the name of a protocol.
 account-setup-result-pop = POP3
 # Note: Exchange is the name of a product.
@@ -83,6 +96,7 @@ account-setup-exchange-title = Server
 
 ## Error messages
 
+account-setup-find-settings-failed = { -brand-short-name } misslyckades med att hitta inställningarna för ditt e-postkonto
 
 ## Manual config area
 
