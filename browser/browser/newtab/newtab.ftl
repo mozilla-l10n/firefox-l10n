@@ -11,6 +11,8 @@ newtab-settings-button =
 newtab-personalize-button-label = Prispôsobiť
     .title = Prispôsobiť stránku novej karty
     .aria-label = Prispôsobiť stránku novej karty
+newtab-personalize-dialog-label =
+    .aria-label = Prispôsobiť
 
 ## Search box component.
 
