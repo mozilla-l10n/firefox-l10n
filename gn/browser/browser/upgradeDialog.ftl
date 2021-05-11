@@ -23,6 +23,9 @@ upgrade-dialog-new-primary-default-button = Ejapóta { -brand-short-name }-gui c
 upgrade-dialog-new-primary-pin-button = Amboja { -brand-short-name } che rembiaporã rendápe
 upgrade-dialog-new-primary-theme-button = Eiporavo ne téma
 upgrade-dialog-new-secondary-button = Ani ko’ág̃a
+# This string is only shown on Windows 7, where we intentionally suppress the
+# theme selection screen.
+upgrade-dialog-new-primary-win7-button = ¡Ok, arekóma!
 
 ## Theme selection screen
 
