@@ -23,6 +23,9 @@ upgrade-dialog-new-primary-default-button = Render { -brand-short-name } mi navi
 upgrade-dialog-new-primary-pin-button = Adde { -brand-short-name } al barra del applicationes
 upgrade-dialog-new-primary-theme-button = Elige un thema
 upgrade-dialog-new-secondary-button = Non ora
+# This string is only shown on Windows 7, where we intentionally suppress the
+# theme selection screen.
+upgrade-dialog-new-primary-win7-button = Ok, comprendite
 
 ## Theme selection screen
 

@@ -11,6 +11,8 @@ newtab-settings-button =
 newtab-personalize-button-label = Personalisar
     .title = Personalisar nove scheda
     .aria-label = Personalisar nove scheda
+newtab-personalize-dialog-label =
+    .aria-label = Personalisar
 
 ## Search box component.
 
