@@ -11,6 +11,8 @@ newtab-settings-button =
 newtab-personalize-button-label = Cá nhân hóa
     .title = Cá nhân hóa thẻ mới
     .aria-label = Cá nhân hóa thẻ mới
+newtab-personalize-dialog-label =
+    .aria-label = Cá nhân hóa
 
 ## Search box component.
 

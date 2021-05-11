@@ -19,6 +19,11 @@ experimental-features-media-avif =
 experimental-features-media-avif-description = Với tính năng này được bật, { -brand-short-name } hỗ trợ định dạng tập tin hình ảnh AV1 (AVIF). Đây là định dạng hình ảnh tĩnh, tận dụng các khả năng của thuật toán nén video AV1 để giảm kích thước hình ảnh. Xem <a data-l10n-name="bugzilla">bug 1443863</a> để biết thêm chi tiết.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
+experimental-features-media-jxl =
+    .label = Phương tiện: JPEG XL
+experimental-features-media-jxl-description = Với tính năng này được bật, { -brand-short-name } hỗ trợ định dạng JPEG XL (JXL). Đây là định dạng tập tin hình ảnh nâng cao hỗ trợ chuyển tiếp chất lượng cao từ các tập tin JPEG truyền thống. Xem <a data-l10n-name="bugzilla"> bug 1539075</a> để biết thêm chi tiết.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
     .label = Web API: inputmode
 # "inputmode" and "contenteditable" are technical terms and shouldn't be translated.
