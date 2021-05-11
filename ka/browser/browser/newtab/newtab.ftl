@@ -11,6 +11,8 @@ newtab-settings-button =
 newtab-personalize-button-label = მორგება
     .title = ახალი ჩანართის მორგება
     .aria-label = ახალი ჩანართის მორგება
+newtab-personalize-dialog-label =
+    .aria-label = მორგება
 
 ## Search box component.
 
