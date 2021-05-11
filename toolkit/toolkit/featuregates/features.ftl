@@ -19,6 +19,10 @@ experimental-features-media-avif =
 experimental-features-media-avif-description = ამ შესაძლებლობის ჩართვით, { -brand-short-name } მხარს უჭერს AV1 Image File (AVIF) სახეობას. ესაა სურათის ფაილის სახეობა, რომელიც იყენებს AV1 ვიდეო შეკუმშვის ალგორითმის შესაძლებლობებს, ზომის შესამცირებლად. ვრცლად, იხილეთ <a data-l10n-name="bugzilla">ხარვეზი 1443863</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
+experimental-features-media-jxl =
+    .label = Media: JPEG XL
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
     .label = Web API: inputmode
 # "inputmode" and "contenteditable" are technical terms and shouldn't be translated.
