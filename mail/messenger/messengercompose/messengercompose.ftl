@@ -116,3 +116,11 @@ move-attachment-last-panel-button =
 button-return-receipt =
     .label = Dëftesë
     .tooltiptext = Kërko një dëftesë kthimi për këtë mesazh
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+consider-bcc-notification = { $count } marrësit te fushat Për dhe Cc mund të shohin adresën e njëri-tjetrit. Në vend të kësaj, duke përdorur fushën Bcc mund të shmangni nxjerrjen zbuluar të marrësve.
+many-public-recipients-bcc =
+    .label = Më mirë përdor Bcc
+    .accesskey = M
+many-public-recipients-ignore =
+    .label = Mbaji Publikë Marrësit
+    .accesskey = b

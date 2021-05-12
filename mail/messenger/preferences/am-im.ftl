@@ -4,3 +4,5 @@
 
 account-settingsTitle = Rregullime Mirëfilltësimi
 account-channelTitle = Kanale Parazgjedhje
+account-settings-title = Rregullime Mirëfilltësimi
+account-channel-title = Kanale Parazgjedhje

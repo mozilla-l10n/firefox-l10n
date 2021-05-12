@@ -10,6 +10,9 @@ preferences-title =
             [windows] Mundësi
            *[other] Parapëlqime
         }
+preferences-tab-title =
+    .title = Parapëlqime
+preferences-doc-title = Parapëlqime
 category-list =
     .aria-label = Kategori
 pane-general-title = Të përgjithshme
@@ -88,8 +91,9 @@ update-in-progress-ok-button = &Hidhe Tej
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Vazhdo
-account-button = Rregullime Llogarie
 addons-button = Zgjerimet & Tema
+account-button = Rregullime Llogarie
+open-addons-sidebar-button = Shtesa dhe Tema
 
 ## OS Authentication dialog
 
@@ -323,6 +327,8 @@ quoted-text-color =
     .accesskey = n
 search-input =
     .placeholder = Kërko
+search-handler-table =
+    .placeholder = Filtroni lloje dhe veprime lënde
 type-column-label =
     .label = Lloj Lënde
     .accesskey = L
@@ -708,6 +714,17 @@ search-input-box =
             [windows] Gjej te Mundësitë
            *[other] Gjej te Parapalqimet
         }
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-preferences-input =
+    .style = width: 15.4em
+    .placeholder = Gjen te Parapëqlime
 
 ## Preferences UI Search Results
 
