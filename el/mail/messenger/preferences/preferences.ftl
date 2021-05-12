@@ -12,6 +12,7 @@ preferences-title =
         }
 preferences-tab-title =
     .title = Προτιμήσεις
+preferences-doc-title = Προτιμήσεις
 category-list =
     .aria-label = Κατηγορίες
 pane-general-title = Γενικά
@@ -90,8 +91,8 @@ update-in-progress-ok-button = &Απόρριψη
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Συνέχεια
-account-button = Ρυθμίσεις λογαριασμού
 addons-button = Επεκτάσεις & θέματα
+account-button = Ρυθμίσεις λογαριασμού
 open-addons-sidebar-button = Πρόσθετα και θέματα
 
 ## OS Authentication dialog

@@ -4,3 +4,5 @@
 
 account-settingsTitle = Ρυθμίσεις ταυτοποίησης
 account-channelTitle = Προεπιλεγμένα κανάλια
+account-settings-title = Ρυθμίσεις ταυτοποίησης
+account-channel-title = Προεπιλεγμένα κανάλια
