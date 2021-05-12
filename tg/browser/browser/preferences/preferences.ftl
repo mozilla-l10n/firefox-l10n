@@ -307,6 +307,8 @@ update-application-version = Версияи { $version } <a data-l10n-name="lear
 update-history =
     .label = Намоиши таърихи навсозиҳо…
     .accesskey = Н
+update-setting-write-failure-title = Ҳангоми нигоҳ доштани хусусиятҳои навсозӣ хато ба миён омад
+update-setting-write-failure-title2 = Ҳангоми нигоҳ доштани танзимоти навсозӣ хато ба миён омад
 update-in-progress-title = Навсозӣ идома дорад
 update-in-progress-ok-button = &Рад кардан
 # Continue is the cancel button so pressing escape or using a platform standard

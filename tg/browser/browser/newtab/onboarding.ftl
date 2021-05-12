@@ -148,9 +148,54 @@ onboarding-multistage-theme-tooltip-automatic-2 =
     .title =
         Барои намуди зоҳирии тугмаҳо, менюҳо ва равзанаҳо
         мавзӯи низоми амалкунандаи шуморо истифода мебарад.
+# Input description for automatic theme
+onboarding-multistage-theme-description-automatic-2 =
+    .aria-description =
+        Барои намуди зоҳирии тугмаҳо, менюҳо ва равзанаҳо
+        мавзӯи низоми амалкунандаи шуморо истифода мебарад.
+# Tooltip displayed on hover of light theme
+onboarding-multistage-theme-tooltip-light-2 =
+    .title =
+        Барои тугмаҳо, менюҳо ва равзанаҳо
+        намуди зоҳирии равшанро истифода мебарад.
+# Input description for light theme
+onboarding-multistage-theme-description-light =
+    .aria-description =
+        Барои тугмаҳо, менюҳо ва равзанаҳо
+        намуди зоҳирии равшанро истифода мебарад.
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark-2 =
+    .title =
+        Барои тугмаҳо, менюҳо ва равзанаҳо
+        намуди зоҳирии торикро истифода мебарад.
+# Input description for dark theme
+onboarding-multistage-theme-description-dark =
+    .aria-description =
+        Барои тугмаҳо, менюҳо ва равзанаҳо
+        намуди зоҳирии торикро истифода мебарад.
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow-2 =
+    .title =
+        Барои тугмаҳо, менюҳо ва равзанаҳо
+        намуди зоҳирии рангинро истифода мебарад.
+# Input description for Alpenglow theme
+onboarding-multistage-theme-description-alpenglow =
+    .aria-description =
+        Барои тугмаҳо, менюҳо ва равзанаҳо
+        намуди зоҳирии рангинро истифода мебарад.
 
 ## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 
+# "Hero Text" displayed on left side of welcome screen.
+# The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
+# It also signals the passion users bring to Firefox, how they use
+# Firefox to pursue those passions, as well as the boldness in their
+# choice to use Firefox over a larger competitor browser.
+# An alternative title for localization is: "It starts here".
+# This text can be formatted to span multiple lines as needed.
+mr1-welcome-screen-hero-text =
+    Оташ аз ин ҷо
+    оғоз меёбад
 mr1-onboarding-welcome-header = Хуш омадед ба { -brand-short-name }
 mr1-onboarding-set-default-secondary-button-label = Ҳоло не
 mr1-onboarding-sign-in-button-label = Ворид шудан
