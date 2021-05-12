@@ -200,7 +200,6 @@ onboarding-welcome-steps-indicator =
 # automatically added to the text inside it. "look" should stay inside the span.
 onboarding-multistage-theme-header = Zgjidhni një <span data-l10n-name="zap">pamje</span>
 onboarding-multistage-theme-subtitle = Personalizojeni { -brand-short-name }-in me një temë.
-onboarding-multistage-theme-primary-button-label = Ruaje Temën
 onboarding-multistage-theme-primary-button-label2 = U bë
 onboarding-multistage-theme-secondary-button-label = Jo tani
 # Automatic theme uses operating system color settings
@@ -243,3 +242,49 @@ onboarding-multistage-theme-tooltip-alpenglow-2 =
 # Input description for Alpenglow theme
 onboarding-multistage-theme-description-alpenglow =
     .aria-description = Përdorni një pamje plot ngjyra për butona, menu dhe dritare.
+
+## Multistage MR1 onboarding strings (MR1 about:welcome pages)
+
+# "Hero Text" displayed on left side of welcome screen.
+# The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
+# It also signals the passion users bring to Firefox, how they use
+# Firefox to pursue those passions, as well as the boldness in their
+# choice to use Firefox over a larger competitor browser.
+# An alternative title for localization is: "It starts here".
+# This text can be formatted to span multiple lines as needed.
+mr1-welcome-screen-hero-text =
+    Zjarri nis
+    këtu
+# This button will open system settings to turn on prefers-reduced-motion
+mr1-onboarding-reduce-motion-button-label = Çaktivizo animacionet
+mr1-onboarding-welcome-header = Mirë se vini te { -brand-short-name }
+mr1-onboarding-set-default-pin-primary-button-label = Bëje { -brand-short-name }-in shfletuesin tim parësor
+    .title = E vë { -brand-short-name }-in si shfletuesin parazgjedhje dhe e fikson te paneli
+mr1-onboarding-set-default-only-primary-button-label = Bëje { -brand-short-name }-in shfletuesin tim parazgjedhje
+mr1-onboarding-set-default-secondary-button-label = Jo tani
+mr1-onboarding-sign-in-button-label = Hyni
+mr1-onboarding-import-header = Merrni gjithçka me vete
+mr1-onboarding-import-subtitle = Importoni fjalëkalimet tuaj, <br/>faqerojtës dhe të tjera gjëra.
+# The primary import button label will depend on whether we can detect which browser was used to download Firefox.
+# Variables:
+#   $previous (Str) - Previous browser name, such as Edge, Chrome
+mr1-onboarding-import-primary-button-label-attribution = Importo prej { $previous }
+# This string will be used in cases where we can't detect the previous browser name.
+mr1-onboarding-import-primary-button-label-no-attribution = Importo prej shfletuesi të mëparshëm
+mr1-onboarding-import-secondary-button-label = Jo tani
+mr1-onboarding-theme-header = Bëjeni tuajin
+mr1-onboarding-theme-subtitle = Personalizojeni { -brand-short-name }-in me një temë.
+mr1-onboarding-theme-primary-button-label = Ruaje temën
+mr1-onboarding-theme-secondary-button-label = Jo tani
+# System theme uses operating system color settings
+mr1-onboarding-theme-label-system = Temë sistemi
+mr1-onboarding-theme-label-light = E çelët
+mr1-onboarding-theme-label-dark = E errët
+# "Alpenglow" here is the name of the theme, and should be kept in English.
+mr1-onboarding-theme-label-alpenglow = Alpenglow
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
