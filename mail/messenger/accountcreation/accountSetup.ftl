@@ -130,6 +130,25 @@ account-setup-incoming-protocol-label = Protocolo entrante
 protocol-imap-option = { account-setup-result-imap }
 protocol-pop-option = { account-setup-result-pop }
 account-setup-outgoing-protocol-label = Protocolo saliente
+outgoing-protocol = SMTP
+account-setup-incoming-server-label = Servidor entrante
+account-setup-outgoing-server-label = Servidor saliente
+account-setup-incoming-port-label = Puerto entrante
+account-setup-outoing-port-label = Puerto saliente
+account-setup-incoming-ssl-label = SSL entrante
+account-setup-outgoing-ssl-label = SSL saliente
+ssl-autodetect-option = Autodetectar
+ssl-noencryption-option = Ninguno
+ssl-starttls-option = STARTTLS
+ssl-tls-option = SSL/TLS
+account-setup-incoming-auth-label = Autenticación entrante
+account-setup-outgoing-auth-label = Autenticación saliente
+account-setup-incoming-username-label = Nombre de usuario entrante
+account-setup-outgoing-username-label = Nombre de usuario saliente
+account-setup-advanced-setup-button = Configuración avanzada
+    .accesskey = a
 
 ## Warning insecure server
 
+account-setup-insecure-server-checkbox = Entiendo los riesgos
+    .accesskey = i
