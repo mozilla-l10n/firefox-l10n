@@ -100,6 +100,7 @@ account-setup-step3-image =
     .title = 找到配置
 account-setup-step4-image =
     .title = 连接错误
+account-setup-privacy-footnote = 凭据将遵循我们的<a data-l10n-name="privacy-policy-link">隐私政策</a>进行使用，且仅会存储在本地。
 account-setup-selection-help = 不确定要怎么选？
 account-setup-selection-error = 需要帮助？
 account-setup-documentation-help = 设置文档
@@ -113,7 +114,7 @@ account-setup-result-imap = IMAP
 account-setup-result-imap-description = 与您的服务器同步各文件夹与邮件
 # Note: POP3 is the name of a protocol.
 account-setup-result-pop = POP3
-account-setup-result-pop-description = 将您服务器上的各文件夹与邮件下载到本机
+account-setup-result-pop-description = 将您服务器上的各文件夹与邮件下载到本地
 # Note: Exchange is the name of a product.
 account-setup-result-exchange = Exchange
 account-setup-result-exchange-description = Microsoft Exchange 服务器
