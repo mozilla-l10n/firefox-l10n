@@ -10,6 +10,7 @@ search-header =
     .searchbuttonlabel = Kërko
 search-header-shortcut =
     .key = f
+list-empty-get-extensions-message = Merrni zgjerime dhe tema te <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-installed =
     .value = Nuk keni të instaluar ndonjë shtesë të këtij lloji
 list-empty-available-updates =
@@ -34,6 +35,9 @@ sidebar-preferences-button-title =
             [windows] Mundësi { -brand-short-name }-i
            *[other] Parapëlqime { -brand-short-name }-i
         }
+addons-settings-button = Rregullime { -brand-short-name }
+sidebar-settings-button-title =
+    .title = Rregullime { -brand-short-name }
 show-unsigned-extensions-button =
     .label = Disa nga shtesat nuk u verifikuan dot
 show-all-extensions-button =
@@ -380,9 +384,6 @@ addon-detail-private-browsing-disallow = Mos e Lejo
 addon-badge-recommended2 =
     .title = { -brand-product-name } rekomandon vetëm zgjerime që pajohen me standadet tona mbi sigurinë dhe funksionimin
     .aria-label = { addon-badge-recommended2.title }
-addon-badge-line2 =
-    .title = Ky është një zgjerim zyrtar i ndërtuar nga krijuesit e { -brand-product-name }-it
-    .aria-label = { addon-badge-line2.title }
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =

@@ -28,6 +28,18 @@ search-input-box =
             [windows] Gjeni te Mundësitë
            *[other] Gjeni te Parapëlqimet
         }
+settings-page-title = Rregullime
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box2 =
+    .style = width: 15.4em
+    .placeholder = Gjej në Rregullime
 managed-notice = Shfletuesi juaj administrohet nga enti juaj.
 category-list =
     .aria-label = Kategori
@@ -46,12 +58,16 @@ category-privacy =
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
+pane-sync-title3 = Sync
+category-sync3 =
+    .tooltiptext = { pane-sync-title3 }
 pane-experimental-title = Eksperimente { -brand-short-name }
 category-experimental =
     .tooltiptext = Eksperimente { -brand-short-name }
 pane-experimental-subtitle = Vazhdoni me Kujdes
 pane-experimental-search-results-header = Eksperimente { -brand-short-name }: Vazhdoni me Kujdes
 pane-experimental-description = Ndryshimi i parapëlqimeve për formësim të mëtejshëm mund të ketë ndikim në funksionimin dhe sigurinë e { -brand-short-name }-it.
+pane-experimental-description2 = Ndryshimi i rregullimeve të mëtejshme të formësimit mund të ketë ndikim në punimin ose sigurinë e { -brand-short-name }-it.
 pane-experimental-reset =
     .label = Rikthe Parazgjedhjet
     .accesskey = R
@@ -121,6 +137,8 @@ search-results-empty-message =
         [windows] Na ndjeni! S’ka përfundime te Mundësitë për “<span data-l10n-name="query"></span>”.
        *[other] Na ndjeni! S’ka përfundime te Parapëlqimet për “<span data-l10n-name="query"></span>”.
     }
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 = Na ndjeni! Te Rregullimet s’ka përfundime për “<span data-l10n-name="query"></span>”.
 search-results-help-link = Ju duhet ndihmë? Vizitoni <a data-l10n-name="url">Asistencë { -brand-short-name }</a>
 
 ## General Section
@@ -369,6 +387,9 @@ update-application-check-choose =
 update-application-manual =
     .label = Të mos kontrollojë kurrë për përditësime (nuk rekomandohet)
     .accesskey = u
+update-application-background-enabled =
+    .label = Kur { -brand-short-name }-i nuk xhiron
+    .accesskey = K
 update-application-warning-cross-user-setting = Ky rregullim do të zbatohet mbi krejt llogaritë Windows dhe profile { -brand-short-name } që përdorin këtë instalim të { -brand-short-name }.
 update-application-use-service =
     .label = Për instalim përditësimesh përdor një shërbim në prapaskenë
@@ -382,6 +403,7 @@ update-setting-write-failure-message =
     { -brand-short-name }-i hasi një gabim dhe s’e ruajti këtë ndryshim. Kini parasysh se caktimi i këtij parapëlqimi mbi përditësimet lyp leje për shkrim te kartela më poshtë. Ju, ose një përgjegjës sistemi mund të jeni në gjendje ta zgjidhni gabimin duke i akorduar grupit Përdorues kontroll të plotë të kësaj kartele.
     
     S’u shkrua dot në kartelë: { $path }
+update-setting-write-failure-title2 = Gabim në ruajtje rregullimesh Përditësimi
 update-in-progress-title = Përditësim Në Kryerje e Sipër
 update-in-progress-message = Doni që { -brand-short-name }-i të vazhdojë këtë përditësim?
 update-in-progress-ok-button = &Hidhe Tej

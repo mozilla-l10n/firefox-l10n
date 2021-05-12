@@ -19,29 +19,15 @@ experimental-features-media-avif =
 experimental-features-media-avif-description = Me këtë veçori të aktivizuar, { -brand-short-name }-i mbulon formatin AV1 Image File (AVIF). Ky është një format figurash të palëvizshme që shfrytëzon aftësitë e algoritmeve AV1të ngjeshjes së videove për të reduktuar madhësi figurash. Për më tepër hollësi, shihni <a data-l10n-name="bugzilla">të metën 1443863</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
+experimental-features-media-jxl =
+    .label = Media: JPEG XL
+experimental-features-media-jxl-description = Me këtë veçori të aktivizuar, { -brand-short-name }-i mbulon formatin JPEG XL (JXL). Ky është një format i thelluar kartelash figurash që mbulon kalim pa humbje nga kartela tradicionale JPEG. Për më tepër hollësi, shihni <a data-l10n-name="bugzilla">të metën 1539075</a>.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
     .label = API Web: inputmode
 # "inputmode" and "contenteditable" are technical terms and shouldn't be translated.
 experimental-features-web-api-inputmode-description = Sendërtimi ynë i atributit global <a data-l10n-name="mdn-inputmode">inputmode</a> është përditësuar sipas <a data-l10n-name="whatwg">specifikimeve WHATWG</a>, por na duhet ende të bëjmë edhe ndryshime të tjera, bie fjala, bërja e mundur e përdorimit të tij për lëndë <em>contenteditable</em>. Për më tepër hollësi. shihni <a data-l10n-name="bugzilla">të metën 1205133</a>.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-web-api-link-preload =
-    .label = API Web: <link rel="preload">
-# Do not translate "rel", "preload" or "link" here, as they are all HTML spec
-# values that do not get translated.
-experimental-features-web-api-link-preload-description = Atributi <a data-l10n-name="rel">rel</a> me vlerën <code>"preload"</code> në një element <a data-l10n-name="link">&lt;link&gt;</a> është menduar të ndihmojë të furnizohen përfitimeve funksionimi duke ju lejuar të shkarkoni burime herët në ciklin e jetës së faqes, duke siguruar pasjen e tyre më herët dhe më pak gjasa të bllokojnë vizatimin e faqes. Për më tepër hollësi, lexoni <a data-l10n-name="readmore">“Parangarkim lënde me <code>rel="preload"</code>”</a> ose shihni <a data-l10n-name="bugzilla">të metën</a>.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-css-focus-visible =
-    .label = CSS: Pseudo-class: :focus-visible
-experimental-features-css-focus-visible-description = Lejon të zbatohen stile fokusi te elementë të tillë si butona dhe kontrolle formularësh, vetëm kur në ta fokusi jepet duke përdorur tastierën (p.sh. kur kalohet nëpër elementë përmes tastit Tab), dhe jo kur fokusi jepet duke përdorur një mi ose tjetër pajisje të ngjashme. Për më tepër hollësi, shihni <a data-l10n-name="bugzilla">të metën 1617600</a>.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-web-api-beforeinput =
-    .label = API Web: Akt beforeinput
-# The terms "beforeinput", "input", "textarea", and "contenteditable" are technical terms
-# and shouldn't be translated.
-experimental-features-web-api-beforeinput-description = Akti global <a data-l10n-name="mdn-beforeinput">beforeinput</a> vihet në punë në një <a data-l10n-name="mdn-input">&lt;input&gt;</a> dhe elementët <a data-l10n-name="mdn-textarea">&lt;textarea&gt;</a>, ose çfarëdo elementi për të cilin atributi <a data-l10n-name="mdn-contenteditable">contenteditable</a> është i aktivizuar, mu përpara vlerës së elementit, ndryshon. Akti u lejon aplikacioneve web të anashkalojnë sjelljen parazgjedhje të shfletuesit për ndërveprim përdoruesi, p.sh., aplikacionet web mund të anulojnë input përdoruesi vetëm për shenja specifike ose mund të ndryshojnë tekst të stilizuar të ngjitur, vetëm me stile të miratuar.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
@@ -69,9 +55,6 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Cookie
 experimental-features-abouthome-startup-cache =
     .label = fshehtinë nisjeje about:home
 experimental-features-abouthome-startup-cache-description = Një fshehtinë për dokumentin fillestar about:home, që, si parazgjedhje, ngarkohet gjatë nisjes. Qëllimi i fshehtinës është të përmirësojë punën e nisjes.
-experimental-features-print-preview-tab-modal =
-    .label = Rikonceptim i Paraparjes së Shtypjes
-experimental-features-print-preview-tab-modal-description = Sillet për herë të parë paraparje të rikonceptuar të shtypjes dhe e bën paraparjen e shtypjes të passhme në macOS. Kjo sjell dëmtim potencial të punimit dhe nuk përfshin krejt rregullimet e lidhura me shtypjen. Që të hyhet te krejt rregullimet e lidhura me shtypjen, përzgjidhni dialogun “Shtypni duke përdorur sistemin…” që nga brenda panelit të Shtypjeve.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
@@ -86,6 +69,10 @@ experimental-features-devtools-serviceworker-debugger-support-description = Akti
 experimental-features-webrtc-global-mute-toggles =
     .label = Butona Heshtimi Global WebRTC-je
 experimental-features-webrtc-global-mute-toggles-description = Shton kontrolle te treguesi i ndarjes globale me të tjerët të funksioneve WebRTC, çka u lejon përdoruesve të heshtojnë globalisht prurje nga mikrofonat dhe kamerat e tyre.
+# Win32k Lockdown
+experimental-features-win32k-lockdown =
+    .label = Kyçje Win32k
+experimental-features-win32k-lockdown-description = Çaktivizoni përdorim API-sh Win32k në skeda shfletuesi. Jep një siguri më të madhe, por mundet të jetë aktualisht e paqëndrueshme ose me yçkla. (Vetëm për Windows)
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
