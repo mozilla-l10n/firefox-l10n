@@ -6,3 +6,7 @@ common-dialog-title-null = Kjo faqe thotë
 common-dialog-title-system = { -brand-short-name }
 # Title displayed when the origin of a web dialog is unknown.
 common-dialog-title-unknown = E panjohur
+common-dialog-username =
+    .value = Emër përdoruesi
+common-dialog-password =
+    .value = Fjalëkalim
