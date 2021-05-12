@@ -58,3 +58,5 @@
 <!ENTITY publishToolbarCmd.tooltip "Siirrä tiedosto palvelimelle">
 <!ENTITY printToolbarCmd.label "Tulosta">
 <!ENTITY printToolbarCmd.tooltip "Tulosta tämä sivu">
+<!ENTITY formToolbarCmd.label "Lomake">
+<!ENTITY formToolbarCmd.tooltip "Lisää uusi lomake tai muokkaa valitun lomakkeen ominaisuuksia">
