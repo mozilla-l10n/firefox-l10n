@@ -44,16 +44,41 @@ about-processes-vr-process-name = VR (processo { $pid })
 about-processes-rdd-process-name = Decodificatore dati (processo { $pid })
 about-processes-socket-process-name = Rete (processo { $pid })
 about-processes-remote-sandbox-broker-process-name = Broker per sandbox remota (processo { $pid })
-about-processes-fork-server-process-name = Fork Server (processo { $pid })
+about-processes-fork-server-process-name = Fork server (processo { $pid })
 about-processes-preallocated-process-name = Preallocato (processo { $pid })
 about-processes-unknown-process-name = Altro ({ $type }, processo { $pid })
 
+about-processes-browser-process = { -brand-short-name } ({ $pid })
+about-processes-web-process = Processo web condiviso ({ $pid })
+about-processes-file-process = File ({ $pid })
+about-processes-extension-process = Estensioni ({ $pid })
+about-processes-privilegedabout-process = Pagine about ({ $pid })
+about-processes-plugin-process = Plugin ({ $pid })
+about-processes-privilegedmozilla-process = Siti { -vendor-short-name } ({ $pid })
+about-processes-gmp-plugin-process = Plugin multimediali Gecko ({ $pid })
+about-processes-gpu-process = GPU ({ $pid })
+about-processes-vr-process = VR ({ $pid })
+about-processes-rdd-process = Decodificatore dati ({ $pid })
+about-processes-socket-process = Rete ({ $pid })
+about-processes-remote-sandbox-broker-process = Broker per sandbox remota ({ $pid })
+about-processes-fork-server-process = Fork server ({ $pid })
+about-processes-preallocated-process = Preallocato ({ $pid })
 
 # Process
 # Variables:
 #   $name (String) The name assigned to the process.
 #   $pid (String) The process id of this process, assigned by the OS.
 about-processes-process-name = processo { $pid }: { $name }
+about-processes-unknown-process = Altro: { $type } ({ $pid })
+
+## Isolated process names
+## Variables:
+##    $pid (String) The process id of this process, assigned by the OS.
+##    $origin (String) The domain name for this process.
+
+about-processes-web-isolated-process = { $origin } ({ $pid })
+about-processes-web-large-allocation-process = { $origin } ({ $pid }, grande)
+about-processes-with-coop-coep-process = { $origin } ({ $pid }, cross-origin isolato)
 
 ## Details within processes
 
