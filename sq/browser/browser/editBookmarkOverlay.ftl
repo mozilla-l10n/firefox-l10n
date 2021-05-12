@@ -49,4 +49,4 @@ bookmark-overlay-keyword-2 =
     .value = Fjalëkyç
     .accesskey = F
 bookmark-overlay-tags-caption-label = Përdorni etiketat për të sistemuar dhe kërkuar faqerojtës që nga shtylla e adresave
-bookmark-overlay-keyword-caption-label = Përdorini fjalëkyçet që të hapni faqerojtës drejt e nga shtylla e adresave
+bookmark-overlay-keyword-caption-label-2 = Përdorni një fjalëkyç të vetëm për të hapur faqerojtës drejt e nga shtylla e adresave
