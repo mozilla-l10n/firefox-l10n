@@ -64,11 +64,23 @@ about-processes-process-name = processo { $pid }: { $name }
 #                     than 5 threads.
 about-processes-thread-summary = Thread ({ $number })
 
+about-processes-active-threads = { $active ->
+  [one] { $active } thread attivo su { $number }: { $list }
+  *[other] { $active } thread attivi su { $number }: { $list }
+}
+
+about-processes-inactive-threads = { $number ->
+   [one] { $number } thread non attivo
+  *[other] { $number } thread non attivi
+}
+
 # Thread details
 # Variables:
 #   $name (String) The name assigned to the thread.
 #   $tid (String) The thread id of this thread, assigned by the OS.
 about-processes-thread-name = Thread { $tid }: { $name }
+about-processes-thread-name-and-id = { $name }
+    .title = ID thread: { $tid }
 
 # Tab
 # Variables:
