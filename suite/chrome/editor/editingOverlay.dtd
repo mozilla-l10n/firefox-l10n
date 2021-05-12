@@ -58,3 +58,5 @@
 <!ENTITY publishToolbarCmd.tooltip "Μεταφόρτωση αρχείου σε απομακρυσμένη τοποθεσία">
 <!ENTITY printToolbarCmd.label "Εκτύπωση">
 <!ENTITY printToolbarCmd.tooltip "Εκτύπωση σελίδας">
+<!ENTITY formToolbarCmd.label "Φόρμα">
+<!ENTITY formToolbarCmd.tooltip "Εισαγωγή νέας φόρμας ή επεξεργασία ιδιοτήτων επιλεγμένης φόρμας">
