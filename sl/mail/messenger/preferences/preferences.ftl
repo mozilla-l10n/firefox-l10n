@@ -12,6 +12,7 @@ preferences-title =
         }
 preferences-tab-title =
     .title = Nastavitve
+preferences-doc-title = Nastavitve
 category-list =
     .aria-label = Kategorije
 pane-general-title = Splošno
