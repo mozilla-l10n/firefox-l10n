@@ -5,12 +5,12 @@
 places-open =
     .label = Hape
     .accesskey = H
-places-open-tab =
-    .label = Hape në Skedë të Re
-    .accesskey = S
 places-open-in-tab =
     .label = Hape në Skedë të Re
     .accesskey = R
+places-open-tab =
+    .label = Hape në Skedë të Re
+    .accesskey = S
 places-open-all-bookmarks =
     .label = Hapi Tërë Faqerojtësit
     .accesskey = H
@@ -20,7 +20,13 @@ places-open-all-in-tabs =
 places-open-window =
     .label = Hape në Dritare të Re
     .accesskey = D
+places-open-in-window =
+    .label = Hape në Dritare të Re
+    .accesskey = R
 places-open-private-window =
+    .label = Hape në Dritare të Re Private
+    .accesskey = P
+places-open-in-private-window =
     .label = Hape në Dritare të Re Private
     .accesskey = P
 places-new-bookmark =
@@ -35,12 +41,6 @@ places-new-folder =
 places-new-separator =
     .label = Ndarës i Ri
     .accesskey = s
-places-open-in-window =
-    .label = Hape në Dritare të Re
-    .accesskey = R
-places-open-in-private-window =
-    .label = Hape në Dritare të Re Private
-    .accesskey = P
 places-add-bookmark =
     .label = Shtoni Faqerojtës…
     .accesskey = F
@@ -91,6 +91,16 @@ places-edit-bookmark =
 places-edit-generic =
     .label = Përpunoni…
     .accesskey = P
+places-edit-folder =
+    .label = Riemërtoni Dosje…
+    .accesskey = R
+places-remove-folder =
+    .label =
+        { $count ->
+            [1] Hiqni Dosje
+           *[other] Hiqni Dosje
+        }
+    .accesskey = H
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Faqerojtës të administruar
