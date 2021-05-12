@@ -2,17 +2,21 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY markAsReadCmd.label "Som läst">
+<!ENTITY markAsReadCmd.label     "Som läst">
 <!ENTITY markAsReadCmd.accesskey "m">
-<!ENTITY markAsReadCmd.key "m">
+<!ENTITY markAsReadCmd.key       "m">
 
-<!ENTITY markFlaggedCmd.label "Flagga">
+<!ENTITY markAsUnreadCmd.label     "Som oläst">
+<!ENTITY markAsUnreadCmd.accesskey "o">
+<!ENTITY markAsUnreadCmd.key       "m">
+
+<!ENTITY markFlaggedCmd.label     "Flagga">
 <!ENTITY markFlaggedCmd.accesskey "F">
-<!ENTITY markFlaggedCmd.key "i">
+<!ENTITY markFlaggedCmd.key       "i">
 
-<!ENTITY openMessageWindowCmd.label "Öppna meddelande">
+<!ENTITY openMessageWindowCmd.label     "Öppna meddelande">
 <!ENTITY openMessageWindowCmd.accesskey "Ö">
-<!ENTITY openMessageWindowCmd.key "o">
+<!ENTITY openMessageWindowCmd.key       "o">
 
 <!ENTITY tagCmd0.key "0">
 <!ENTITY tagCmd1.key "1">
