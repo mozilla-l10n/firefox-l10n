@@ -108,6 +108,9 @@ onboarding-browse-privately-text = Falamhaichidh gleus a’ bhrabhsaidh phrìobh
 onboarding-browse-privately-button = Fosgail uinneag phrìobhaideach
 onboarding-firefox-send-title = Cùm na faidhlichean co-roinnte agad prìobhaideach
 onboarding-firefox-send-text2 = Luchdaich suas na faidhlichean agad gu { -send-brand-name } is co-roinn iad le gleus crioptachaidh o cheann gu ceann agus ceangal air am falbh an ùine gu fèin-obrachail.
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text2 = Co-roinn duilleagan eadar na h-uidheaman agad ’s cha leig thu leas lethbhreac a dhèanamh de cheanglaichean no am brabhsair fhàgail.
 
 ## Message strings belonging to the Return to AMO flow
 
