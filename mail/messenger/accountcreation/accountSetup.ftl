@@ -6,6 +6,10 @@ account-setup-tab-title = Paskyros kūrimas
 
 ## Header
 
+account-setup-title = Nustatykite turimą el. pašto adresą
+account-setup-description =
+    Norėdami naudoti turimą el. pašto adresą, užpildykite savo kredencialus. <br/>
+    „{ -brand-product-name }“ bandys automatiškai surasti veikiančią ir rekomenduojamą serverių konfigūraciją.
 
 ## Form fields
 
@@ -15,11 +19,15 @@ account-setup-name-label = Jūsų vardas ir pavardė
 account-setup-name-input =
     .placeholder = Jonas Jonaitis (Jaunesnysis)
 account-setup-name-warning = Įveskite savo vardą
+account-setup-email-label = Elektroninio pašto adresas
+    .accesskey = E
 account-setup-email-input =
     .placeholder = john.doe@example.com
 account-setup-email-info-icon =
     .title = Jūsų turimas el. pašto adresas
 account-setup-email-warning = Netinkamas el. pašto adresas
+account-setup-email-warning-icon =
+    .title = { account-setup-email-warning }
 account-setup-password-label = Slaptažodis
     .accesskey = S
     .title = Nebūtinas, bus naudojamas tikrinant naudotojo vardą
@@ -69,6 +77,14 @@ account-setup-selection-error = Reikia pagalbos?
 
 ## Manual config area
 
+protocol-imap-option = { account-setup-result-imap }
+protocol-pop-option = { account-setup-result-pop }
+account-setup-outgoing-protocol-label = Išsiuntimo protokolas
+outgoing-protocol = SMTP
+ssl-starttls-option = STARTTLS
+ssl-tls-option = SSL/TLS
 
 ## Warning insecure server
 
+account-setup-insecure-server-checkbox = Aš suprantu pavojus
+    .accesskey = s
