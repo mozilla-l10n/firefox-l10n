@@ -17,6 +17,8 @@ otr-log =
     .label = Zahrnúť šifrované OTR správy v protokoloch konverzácií
 otr-requireEncryption =
     .label = Vyžadovať obojstranné šifrovanie pre individuálne konverzácie
+otr-require-encryption =
+    .label = Vyžadovať obojstranné šifrovanie pre individuálne konverzácie
 otr-require-encryption-info =
     Ak sa vyžaduje obojstranné šifrovanie, správy v individuálnych konverzáciách
     nebudú odoslané, pokiaľ ich nebude možné zašifrovať. Prijímané nezašifrované správy
@@ -24,3 +26,6 @@ otr-require-encryption-info =
 otr-verifyNudge =
     .label = Vždy ma upozorniť, aby som overil zatiaľ neoverený kontakt
 otr-notYetAvailable = zatiaľ nedostupné
+otr-verify-nudge =
+    .label = Vždy ma upozorniť, aby som overil zatiaľ neoverený kontakt
+otr-not-yet-available = zatiaľ nedostupné
