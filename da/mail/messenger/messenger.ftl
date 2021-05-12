@@ -18,6 +18,10 @@ folder-pane-toolbar =
 
 ## AppMenu
 
+appmenu-help-enter-troubleshoot-mode =
+    .label = Fejlsøgnings-tilstand…
+appmenu-help-exit-troubleshoot-mode =
+    .label = Slå fejlsøgnings-tilstand fra
 appmenu-help-more-troubleshooting-info =
     .label = Mere teknisk information
 

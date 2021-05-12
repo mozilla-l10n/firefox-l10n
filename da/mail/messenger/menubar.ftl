@@ -14,6 +14,12 @@ menu-view-charset =
 
 ## Help Menu
 
+menu-help-enter-troubleshoot-mode =
+    .label = Fejlsøgnings-tilstand…
+    .accesskey = F
+menu-help-exit-troubleshoot-mode =
+    .label = Slå fejlsøgnings-tilstand fra
+    .accesskey = S
 menu-help-more-troubleshooting-info =
     .label = Mere teknisk information
     .accesskey = t
