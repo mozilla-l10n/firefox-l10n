@@ -5,14 +5,18 @@
 
 ## App Menu
 
-appmenuitem-update-banner =
-    .label-update-downloading = Po shkarkohet përditësim { -brand-shorter-name }-i
 appmenuitem-update-banner2 =
     .label-update-downloading = Shkarkim përditësimi { -brand-shorter-name }
     .label-update-available = Ka përditësim gati — shkarkojeni tani
     .label-update-manual = Ka përditësim gati — shkarkojeni tani
     .label-update-unsupported = S’arrihet të përditësohet
     .label-update-restart = Ka përditësim gati — riniseni tani
+appmenuitem-update-banner3 =
+    .label-update-downloading = Po shkarkohet përditësim { -brand-shorter-name }-i
+    .label-update-available = Përditësim gati — shkarkojeni që tani
+    .label-update-manual = Përditësim gati — shkarkojeni që tani
+    .label-update-unsupported = S’arrihet të përditësohet — mospërputhje sistemi
+    .label-update-restart = Përditësim gati — riniseni tani
 appmenuitem-protection-dashboard-title = Pult Mbrojtjesh
 appmenuitem-customize-mode =
     .label = Përshtateni…
@@ -25,8 +29,6 @@ appmenuitem-new-private-window =
     .label = Dritare e Re Private
 appmenuitem-passwords =
     .label = Fjalëkalime
-appmenuitem-extensions-and-themes =
-    .label = Zgjerime dhe Tema
 appmenuitem-addons-and-themes =
     .label = Shtesa dhe Tema
 appmenuitem-find-in-page =
@@ -160,11 +162,6 @@ appmenu-about =
 appmenu-get-help =
     .label = Merrni ndihmë
     .accesskey = M
-appmenu-help-troubleshooting-info =
-    .label = Të dhëna Diagnostikimi
-    .accesskey = D
-appmenu-help-taskmanager =
-    .label = Përgjegjës Punësh
 appmenu-help-more-troubleshooting-info =
     .label = Më Tepër të Dhëna Diagnostikimi
     .accesskey = D
@@ -173,16 +170,6 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = Parashtroni Përshtypjet…
     .accesskey = P
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Riniseni me Shtesat të Çaktivizuara…
-    .accesskey = Ç
-appmenu-help-safe-mode-with-addons =
-    .label = Rinise me Shtesat të Aktivizuara
-    .accesskey = A
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
