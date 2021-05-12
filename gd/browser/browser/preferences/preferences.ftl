@@ -635,12 +635,14 @@ forms-ask-to-save-logins =
 forms-exceptions =
     .label = Eisgeachdan…
     .accesskey = E
+forms-breach-alerts-learn-more-link = Barrachd fiosrachaidh
 forms-saved-logins =
     .label = Clàraidhean a-steach sàbhailte…
     .accesskey = l
 forms-master-pw-use =
     .label = Cleachd prìomh fhacal-faire
     .accesskey = m
+forms-primary-pw-learn-more-link = Barrachd fiosrachaidh
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
 # when searching for the old name. The accesskey is unused.
@@ -851,6 +853,7 @@ permissions-a11y-privacy-link = Barrachd fiosrachaidh
 collection-header = Cruinneachadh is cleachdadh dàta le { -brand-short-name }
 collection-description = Tha sinn ag obair gu cruaidh airson an dà chuid roghainnean a thoirt dhut agus dìreach an dàta a chruinneachadh a dh’fheumas sinn airson { -brand-short-name } a sholar dhan a h-uile duine agus airson a leasachadh. Iarraidh sinn cead ort uair sam bith ma bhios feum air dàta pearsanta.
 collection-privacy-notice = Sanas prìobhaideachd
+collection-health-report-telemetry-disabled-link = Barrachd fiosrachaidh
 collection-health-report =
     .label = Leig le { -brand-short-name } dàta teicnigeach is dàta mu eadar-ghabhail a chur gu { -vendor-short-name }
     .accesskey = r
