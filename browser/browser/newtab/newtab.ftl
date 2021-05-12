@@ -11,6 +11,8 @@ newtab-settings-button =
 newtab-personalize-button-label = Kişiselleştir
     .title = Yeni sekmeyi kişiselleştir
     .aria-label = Yeni sekmeyi kişiselleştir
+newtab-personalize-dialog-label =
+    .aria-label = Kişiselleştir
 
 ## Search box component.
 
