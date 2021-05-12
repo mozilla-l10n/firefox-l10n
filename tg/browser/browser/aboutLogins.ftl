@@ -206,6 +206,7 @@ about-logins-confirm-remove-all-sync-dialog-message =
        *[other] Ин амал ҳамаи воридшавиҳоеро, ки шумо дар { -brand-short-name } нигоҳ доштед, дар ҳамаи дастгоҳҳои бо { -fxaccount-brand-name } ҳамоҳангшуда тоза мекунад. Аз он ҷумла, ҳамаи ҳушдорҳо оид ба вайронкуниҳое, ки дар ин ҷо пайдо мешаванд, тоза карда мешаванд. Шумо ин амалро пас аз иҷро бекор карда наметавонед.
     }
 about-logins-confirm-export-dialog-title = Содир кардани воридшавиҳо ва ниҳонвожаҳо
+about-logins-confirm-export-dialog-message = Ниҳонвожаҳои шумо дар шакли матни хондашаванда нигоҳ дошта мешаванд (масалан, BadP@ssw0rd), бинобар ин, ҳар касе, ки метавонад файлро кушояд, ҳам метавонад ниҳонвожаҳоро бинад.
 about-logins-confirm-export-dialog-confirm-button = Содирот…
 about-logins-alert-import-title = Воридот анҷом ёфт
 about-logins-alert-import-message = Дидани ҷамъбасти муфассал оид ба воридот

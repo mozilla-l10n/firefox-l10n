@@ -119,9 +119,16 @@ onboarding-multistage-set-default-secondary-button-label = Ҳоло не
 onboarding-multistage-pin-default-primary-button-label = Таъин кардани { -brand-short-name } ҳамчун браузери асосии ман
 onboarding-multistage-import-primary-button-label = Оғоз кардани воридкунӣ
 onboarding-multistage-import-secondary-button-label = Ҳоло не
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+onboarding-welcome-steps-indicator =
+    .aria-label = Оғози кор: экран { $current } аз { $total }
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "look" should stay inside the span.
 onboarding-multistage-theme-header = <span data-l10n-name="zap">Намуди зоҳириеро</span> интихоб намоед
+onboarding-multistage-theme-subtitle = Намуди зоҳирии { -brand-short-name }-ро бо мавзӯи дилхоҳ иваз намоед.
 onboarding-multistage-theme-primary-button-label2 = Тайёр
 onboarding-multistage-theme-secondary-button-label = Ҳоло не
 # Automatic theme uses operating system color settings
@@ -136,6 +143,11 @@ onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of automatic theme
+onboarding-multistage-theme-tooltip-automatic-2 =
+    .title =
+        Барои намуди зоҳирии тугмаҳо, менюҳо ва равзанаҳо
+        мавзӯи низоми амалкунандаи шуморо истифода мебарад.
 
 ## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 

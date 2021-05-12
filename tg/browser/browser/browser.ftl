@@ -304,6 +304,7 @@ identity-https-only-dropdown-off-temporarily =
     .label = Муваққатан ғайрифаъол
 identity-https-only-info-no-upgrade = Иваз кардани пайвастшавӣ аз HTTP ғайриимкон аст.
 identity-permissions-storage-access-header = Кукиҳои байнисомонавӣ
+identity-permissions-storage-access-learn-more = Маълумоти бештар
 identity-permissions-reload-hint = Барои татбиқ кардани тағйирот шумо бояд саҳифаро аз нав бор кунед.
 identity-permissions-empty = Шумо барои ин сомона ягон иҷозати маҳсусро таъин накардед.
 identity-clear-site-data =

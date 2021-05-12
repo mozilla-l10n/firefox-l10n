@@ -11,6 +11,8 @@ newtab-settings-button =
 newtab-personalize-button-label = Танзимоти шахсӣ
     .title = Танзимоти шахсии варақаи нав
     .aria-label = Танзимоти шахсии варақаи нав
+newtab-personalize-dialog-label =
+    .aria-label = Танзимоти шахсӣ
 
 ## Search box component.
 
