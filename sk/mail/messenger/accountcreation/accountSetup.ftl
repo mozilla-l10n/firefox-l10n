@@ -70,9 +70,37 @@ account-setup-button-done = Hotovo
 account-setup-looking-up-settings = Vyhľadáva sa konfigurácia…
 account-setup-looking-up-settings-guess = Vyhľadáva sa konfigurácia: skúšajú sa bežné názvy serverov…
 account-setup-looking-up-settings-half-manual = Vyhľadáva sa konfigurácia: prebieha testovanie servera…
+account-setup-looking-up-disk = Vyhľadáva sa konfigurácia: v inštalácii { -brand-short-name(case: "gen") }…
+account-setup-looking-up-isp = Vyhľadáva sa konfigurácia: u poskytovateľa e-mailu…
+# Note: Do not translate or replace Mozilla. It stands for the public project mozilla.org, not Mozilla Corporation. The database is a generic, public domain facility usable by any client.
+account-setup-looking-up-db = Vyhľadáva sa konfigurácia: v databáze Mozilla ISP…
+account-setup-looking-up-mx = Vyhľadáva sa konfigurácia: v doméne prichádzajúcej pošty…
+account-setup-looking-up-exchange = Vyhľadáva sa konfigurácia: na serveri Exchange…
+account-setup-checking-password = Overuje sa heslo…
+account-setup-installing-addon = Preberá a inštaluje sa doplnok…
+account-setup-success-half-manual = Nasledujúce nastavenia sa našli sondovaním na danom serveri:
+account-setup-success-guess = Konfigurácia bola nájdená vyskúšaním bežných názvov serverov.
+account-setup-success-guess-offline = Práve ste v režime offline. Niektoré nastavenia sme sa pokúsili odhadnúť, ale korektné hodnoty budete musieť vložiť sami.
+account-setup-success-password = Heslo je v poriadku
+account-setup-success-addon = Doplnok bol úspešne nainštalovaný
+# Note: Do not translate or replace Mozilla. It stands for the public project mozilla.org, not Mozilla Corporation. The database is a generic, public domain facility usable by any client.
+account-setup-success-settings-db = Konfigurácia bola nájdená v databáze Mozilla ISP.
+account-setup-success-settings-disk = Konfigurácia bola nájdená v inštalácii { -brand-short-name(case: "gen") }.
+account-setup-success-settings-isp = Konfigurácia bola nájdená u poskytovateľa e-mailu.
+# Note: Microsoft Exchange is a product name.
+account-setup-success-settings-exchange = Konfigurácia bola nájdená na serveri Microsoft Exchange.
 
 ## Illustrations
 
+account-setup-step1-image =
+    .title = Úvodné nastavenie
+account-setup-step2-image =
+    .title = Načítava sa…
+account-setup-step3-image =
+    .title = Konfigurácia bola nájdená
+account-setup-step4-image =
+    .title = Chyba pripojenia
+account-setup-privacy-footnote = Vaše prihlasovacie údaje budú použité v súlade s našimi <a data-l10n-name="privacy-policy-link">pravidlami ochrany osobných údajov</a> a budú uložené iba lokálne vo vašom počítači.
 account-setup-selection-help = Neviete, čo zvoliť?
 account-setup-selection-error = Potrebujete pomoc?
 account-setup-documentation-help = Dokumentácia k nastaveniu
@@ -90,11 +118,16 @@ account-setup-result-pop-description = Ponecháva vaše priečinky a e-maily v p
 # Note: Exchange is the name of a product.
 account-setup-result-exchange = Exchange
 account-setup-result-exchange-description = Microsoft Exchange Server
+account-setup-incoming-title = Prichádzajúca
+account-setup-outgoing-title = Odchádzajúca
 account-setup-username-title = Používateľské meno
 account-setup-exchange-title = Server
 
 ## Error messages
 
+account-setup-credentials-wrong = Overenie zlyhalo. Skontrolujte používateľské meno a heslo
+account-setup-find-settings-failed = { -brand-short-name(case: "dat") } sa nepodarilo nájsť nastavenia pre váš e-mailový účet
+account-setup-exchange-config-unverifiable = Konfiguráciu sa nepodarilo overiť. Ak sú vaše používateľské meno a heslo správne, je pravdepodobné, že správca servera zakázal vybratú konfiguráciu vášho účtu. Skúste zvoliť iný protokol.
 
 ## Manual config area
 
