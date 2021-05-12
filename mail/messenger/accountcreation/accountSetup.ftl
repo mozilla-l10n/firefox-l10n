@@ -64,7 +64,7 @@ account-setup-button-done = Končano
 account-setup-looking-up-settings = Iskanje nastavitev …
 account-setup-looking-up-settings-guess = Iskanje nastavitev: Poskušanje z običajnimi imeni strežnikov …
 account-setup-looking-up-settings-half-manual = Iskanje nastavitev: Raziskovanje strežnika …
-account-setup-looking-up-disk = Iskanje nastavitev: Nameščanje { -brand-short-name(sklon: "rodilnik") } …
+account-setup-looking-up-disk = Iskanje nastavitev: v { -brand-short-name(sklon: "mestnik") } …
 account-setup-looking-up-isp = Iskanje nastavitev: Ponudnik e-pošte …
 # Note: Do not translate or replace Mozilla. It stands for the public project mozilla.org, not Mozilla Corporation. The database is a generic, public domain facility usable by any client.
 account-setup-looking-up-db = Iskanje nastavitev: Mozillina podatkovna zbirka ponudnikov internetnih storitev …
@@ -73,6 +73,12 @@ account-setup-looking-up-exchange = Iskanje nastavitev: Strežnik Exchange …
 account-setup-checking-password = Preverjanje gesla …
 account-setup-installing-addon = Prenašanje in nameščanje dodatka …
 account-setup-success-half-manual = Z zaznavanjem navedenega strežnika so bile najdene naslednje nastavitve:
+account-setup-success-guess = Nastavitve so bile najdene s preskušanjem običajnih imen strežnikov.
+account-setup-success-guess-offline = Trenutno ste brez povezave. Nekatere od nastavitev smo uganili, vendar boste morali prave vrednosti vnesti sami.
+account-setup-success-password = Geslo pravilno
+account-setup-success-addon = Dodatek je uspešno nameščen
+# Note: Do not translate or replace Mozilla. It stands for the public project mozilla.org, not Mozilla Corporation. The database is a generic, public domain facility usable by any client.
+account-setup-success-settings-db = Nastavitve so bile najdene v Mozillini zbirki podatkov ponudnikov internetnih storitev.
 
 ## Illustrations
 
@@ -93,11 +99,15 @@ account-setup-forum-help = Forum za podporo
 account-setup-protocol-title = Izberite protokol
 # Note: IMAP is the name of a protocol.
 account-setup-result-imap = IMAP
+account-setup-result-imap-description = E-pošta in mape naj se sinhronizirajo s strežnikom
 # Note: POP3 is the name of a protocol.
 account-setup-result-pop = POP3
+account-setup-result-pop-description = E-pošta in mape naj bodo shranjene na računalniku
 # Note: Exchange is the name of a product.
 account-setup-result-exchange = Exchange
 account-setup-result-exchange-description = Strežnik Microsoft Exchange
+account-setup-incoming-title = Dohodni
+account-setup-outgoing-title = Odhodni
 account-setup-username-title = Uporabniško ime
 account-setup-exchange-title = Strežnik
 
@@ -108,17 +118,27 @@ account-setup-find-settings-failed = { -brand-short-name } ni uspel najti nastav
 ## Manual config area
 
 account-setup-manual-config-title = Nastavitve strežnika
+account-setup-incoming-protocol-label = Dohodni protokol
 protocol-imap-option = { account-setup-result-imap }
 protocol-pop-option = { account-setup-result-pop }
+account-setup-outgoing-protocol-label = Odhodni protokol
 outgoing-protocol = SMTP
 account-setup-incoming-server-label = Dohodni strežnik
 account-setup-outgoing-server-label = Odhodni strežnik
 account-setup-incoming-port-label = Dohodna vrata
 account-setup-outoing-port-label = Odhodna vrata
+account-setup-incoming-ssl-label = Dohodni SSL
+account-setup-outgoing-ssl-label = Odhodni SSL
 ssl-autodetect-option = Samodejno zaznaj
 ssl-noencryption-option = Brez
 ssl-starttls-option = STARTTLS
 ssl-tls-option = SSL/TLS
+account-setup-incoming-auth-label = Dohodna overitev
+account-setup-outgoing-auth-label = Odhodna overitev
+account-setup-incoming-username-label = Dohodno uporabniško ime
+account-setup-outgoing-username-label = Odhodno uporabniško ime
+account-setup-advanced-setup-button = Napredne nastavitve
+    .accesskey = a
 
 ## Warning insecure server
 
