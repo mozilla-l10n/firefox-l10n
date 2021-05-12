@@ -19,6 +19,9 @@ upgrade-dialog-new-primary-default-button = Err { -brand-short-name } d iminig-i
 upgrade-dialog-new-primary-pin-button = Rzi ɣer { -brand-short-name } ufaggag-iw n twuriwin
 upgrade-dialog-new-primary-theme-button = Fren asentel
 upgrade-dialog-new-secondary-button = Mačči tura
+# This string is only shown on Windows 7, where we intentionally suppress the
+# theme selection screen.
+upgrade-dialog-new-primary-win7-button = Ih, awi-t!
 
 ## Theme selection screen
 
