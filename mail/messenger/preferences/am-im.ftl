@@ -4,3 +4,5 @@
 
 account-settingsTitle = Tapatumo tikrinimo nuostatos
 account-channelTitle = Numatytieji kanalai
+account-settings-title = Tapatumo tikrinimo nuostatos
+account-channel-title = Numatytieji kanalai
