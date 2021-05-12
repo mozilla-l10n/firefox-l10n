@@ -55,3 +55,6 @@ mail-uidensity-compact =
 mail-uidensity-normal =
     .label = Normaali
     .accesskey = N
+mail-uidensity-touch =
+    .label = Kosketus
+    .accesskey = k
