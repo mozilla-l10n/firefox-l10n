@@ -113,12 +113,23 @@ account-setup-result-exchange = Exchange
 account-setup-result-exchange-description = Servidor de Microsoft Exchange
 account-setup-incoming-title = Entrante
 account-setup-outgoing-title = Saliente
+account-setup-username-title = Nombre de usuario
+account-setup-exchange-title = Servidor
 
 ## Error messages
 
+# Note: The reference to "janedoe" (Jane Doe) is the name of an example person. You will want to translate it to whatever example persons would be named in your language. In the example, AD is the name of the Windows domain, and this should usually not be translated.
+account-setup-credentials-incomplete = Falló la autenticación. O las credenciales introducidas son incorrectas o se requiere un nombre de usuario separado para iniciar sesión. Este nombre de usuario suele ser el inicio de sesión en el dominio de Windows con o sin el dominio (por ejemplo juanperez o AD\\juanperez)
+account-setup-credentials-wrong = Falló la autenticación. Verifique el nombre de usuario y la contraseña
+account-setup-find-settings-failed = { -brand-short-name } no pudo encontrar la configuración de la cuenta de correo electrónico
 
 ## Manual config area
 
+account-setup-manual-config-title = Configuración del servidor
+account-setup-incoming-protocol-label = Protocolo entrante
+protocol-imap-option = { account-setup-result-imap }
+protocol-pop-option = { account-setup-result-pop }
+account-setup-outgoing-protocol-label = Protocolo saliente
 
 ## Warning insecure server
 
