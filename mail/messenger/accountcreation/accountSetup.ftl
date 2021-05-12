@@ -3,3 +3,32 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 account-setup-tab-title = Fiók beállítása
+
+## Header
+
+
+## Form fields
+
+account-setup-name-label = A teljes neve
+    .accesskey = n
+
+## Action buttons
+
+
+## Notifications
+
+
+## Illustrations
+
+
+## Results area
+
+
+## Error messages
+
+
+## Manual config area
+
+
+## Warning insecure server
+
