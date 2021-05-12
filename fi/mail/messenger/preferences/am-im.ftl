@@ -4,3 +4,5 @@
 
 account-settingsTitle = Tunnistautumisen asetukset
 account-channelTitle = Oletuskanavat
+account-settings-title = Tunnistautumisen asetukset
+account-channel-title = Oletuskanavat
