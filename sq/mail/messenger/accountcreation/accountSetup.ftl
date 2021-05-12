@@ -7,6 +7,9 @@ account-setup-tab-title = Ujdisje Llogarie
 ## Header
 
 account-setup-title = Ujdisni Adresën Tuaj Email Ekzistuese
+account-setup-description =
+    Që të përdoret adresa juaj e tanishme email, plotësoni kredencialet tuaja.<br/>
+    { -brand-product-name }-i do të kërkojë automatikisht për një formësim funksional dhe të rekomanduar shërbyesi.
 
 ## Form fields
 
@@ -97,6 +100,7 @@ account-setup-step3-image =
     .title = U gjet formësim
 account-setup-step4-image =
     .title = Gabim lidhjeje
+account-setup-privacy-footnote = Kredencialet tuaja do të përdoren në përputhje me <a data-l10n-name="privacy-policy-link">rregullat tona të privatësisë</a> dhe do të depozitohen lokalisht vetëm në kompjuterin tuaj.
 account-setup-selection-help = S’jeni të sigurt ç’të përzgjidhni?
 account-setup-selection-error = Ju duhet ndihmë?
 account-setup-documentation-help = Dokumentim ujdisjeje
@@ -121,6 +125,11 @@ account-setup-exchange-title = Shërbyes
 
 ## Error messages
 
+# Note: The reference to "janedoe" (Jane Doe) is the name of an example person. You will want to translate it to whatever example persons would be named in your language. In the example, AD is the name of the Windows domain, and this should usually not be translated.
+account-setup-credentials-incomplete = Mirëfilltësimi dështoi. Ose kredencialet e dhëna s’janë të sakta, ose për hyrjen lypset një emër përdoruesi më vete. Ky emër përdoruesi zakonisht është ai i përdorur për përkatësinë tuaj Windows, me ose pa përkatësinë (për shembull, dhiashyte ose AD\\dhiashyte)
+account-setup-credentials-wrong = Mirëfilltësimi dështoi. Ju lutemi,, kontrolloni emrin e përdoruesi dhe fjalëkalimin
+account-setup-find-settings-failed = { -brand-short-name } s’arriti të gjejë rregullimet për llogarinë tuaj email
+account-setup-exchange-config-unverifiable = Formësimi s’u verifikua dot. Nëse emri juaj i përdoruesit dhe fjalëkalimi janë të saktë, gjasat janë që përgjegjësi i shërbyesit të ketë çaktivizuar për llogarinë tuaj formësimin e përzgjedhur. Provoni përzgjedhjen e një protokolli tjetër.
 
 ## Manual config area
 
