@@ -79,6 +79,9 @@ about-processes-unknown-process = Altro: { $type } ({ $pid })
 about-processes-web-isolated-process = { $origin } ({ $pid })
 about-processes-web-large-allocation-process = { $origin } ({ $pid }, grande)
 about-processes-with-coop-coep-process = { $origin } ({ $pid }, cross-origin isolato)
+about-processes-web-isolated-process-private = { $origin } — Anonima ({ $pid })
+about-processes-web-large-allocation-process-private = { $origin } — Anonima ({ $pid }, grande)
+about-processes-with-coop-coep-process-private = { $origin } — Anonima ({ $pid }, cross-origin isolato)
 
 ## Details within processes
 
