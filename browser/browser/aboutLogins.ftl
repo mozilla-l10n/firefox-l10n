@@ -79,6 +79,7 @@ login-intro-instruction-fxa-settings = Dèan cinnteach gu bheil cromag ann am bo
 about-logins-intro-instruction-help = Tadhail air <a data-l10n-name="help-link">Taic { -lockwise-brand-short-name }</a> airson cobhair
 login-intro-instructions-fxa-help = Tadhail air <a data-l10n-name="help-link">taic { -lockwise-brand-short-name }</a> airson barrachd cuideachaidh.
 about-logins-intro-import = Ma shàbhail thu na clàraidhean a-steach agad ann am brabhsair eile, ’s urrainn dhut <a data-l10n-name="import-link">an ion-phortadh gu { -lockwise-brand-short-name }</a>
+about-logins-intro-import2 = Ma chaidh na clàraidhean a-steach agad a shàbhaladh taobh a-muigh { -brand-product-name }, ’s urrainn dhut an <a data-l10n-name="import-browser-link">ion-phortadh à brabhsair eile</a> no <a data-l10n-name="import-file-link">à faidhle</a>
 
 ## Login
 
