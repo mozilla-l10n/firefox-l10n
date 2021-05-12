@@ -75,6 +75,8 @@ account-setup-looking-up-mx = Ieškoma konfigūracija: gaunamo pašto domenas �
 account-setup-looking-up-exchange = Ieškoma konfigūracija: „Exchange“ serveris …
 account-setup-checking-password = Tikrinamas slaptažodis …
 account-setup-installing-addon = Atsisiunčiamas ir įdiegiamas priedas …
+account-setup-success-half-manual = Tikrinant nurodytą serverį rasti šie nustatymai :
+account-setup-success-guess = Bandant įprastus serverių pavadinimus rasta ši konfigūracija.
 account-setup-success-guess-offline = Šiuo metu atsijungta nuo tinklo. Programa pabandė nuspėti dalį nuostatų, tačiau jums reikės jas patikslinti.
 account-setup-success-password = Slaptažodis tinkamas
 account-setup-success-addon = Priedas sėkmingai įdiegtas
@@ -98,6 +100,7 @@ account-setup-step4-image =
 account-setup-privacy-footnote = Jūsų kredencialai bus naudojami pagal mūsų <a data-l10n-name="privacy-policy-link">privatumo politiką </a> ir bus saugomi tik jūsų kompiuteryje.
 account-setup-selection-help = Nežinote, ką pasirinkti?
 account-setup-selection-error = Reikia pagalbos?
+account-setup-documentation-help = Sąrankos žinynas
 account-setup-forum-help = Palaikymo forumas
 
 ## Results area
@@ -105,20 +108,48 @@ account-setup-forum-help = Palaikymo forumas
 account-setup-protocol-title = Pasirinkite protokolą
 # Note: IMAP is the name of a protocol.
 account-setup-result-imap = IMAP
+account-setup-result-imap-description = Aplankus ir el. laiškus visada sinchronizuoti su serveriu.
+# Note: POP3 is the name of a protocol.
+account-setup-result-pop = POP3
+account-setup-result-pop-description = Aplankus ir el. laiškus saugoti tik kompiuteryje
+# Note: Exchange is the name of a product.
+account-setup-result-exchange = „Exchange“
+account-setup-result-exchange-description = „Microsoft Exchange“ serveris
+account-setup-incoming-title = Gaunami
+account-setup-outgoing-title = Siunčiami
+account-setup-username-title = Naudotojo vardas
+account-setup-exchange-title = Serveris
 
 ## Error messages
 
+account-setup-credentials-wrong = Nepavyko autentifikuoti. Patikrinkite vartotojo vardą ir slaptažodį
+account-setup-find-settings-failed = „{ -brand-short-name }“ nepavyko rasti jūsų el. pašto paskyros nustatymų
+account-setup-exchange-config-unverifiable = Nepavyko patvirtinti konfigūracijos. Jei jūsų vartotojo vardas ir slaptažodis yra teisingi, tikėtina, kad serverio administratorius išjungė pasirinktą jūsų paskyros konfigūraciją. Pabandykite pasirinkti kitą protokolą.
 
 ## Manual config area
 
+account-setup-manual-config-title = Serverio nuostatos
+account-setup-incoming-protocol-label = Laiškų gavimo protokolas
 protocol-imap-option = { account-setup-result-imap }
 protocol-pop-option = { account-setup-result-pop }
 account-setup-outgoing-protocol-label = Išsiuntimo protokolas
 outgoing-protocol = SMTP
+account-setup-incoming-server-label = Gaunamų laišku serveris
+account-setup-outgoing-server-label = Siunčiamu laiškų serveris
+account-setup-incoming-port-label = Gaunamų laišku prievadas
+account-setup-outoing-port-label = Siuenčiamų laišku prievadas
+account-setup-incoming-ssl-label = Laiškai gaunami SSL ryšiu
+account-setup-outgoing-ssl-label = Laiškai siunčiami SSL ryšiu
 ssl-autodetect-option = Nustatyti automatiškai
 ssl-noencryption-option = Joks
 ssl-starttls-option = STARTTLS
 ssl-tls-option = SSL/TLS
+account-setup-incoming-auth-label = Autentifikacija gaunamų laiškų serveryje
+account-setup-outgoing-auth-label = Autentifikacija siunčiamų laiškų serveryje
+account-setup-incoming-username-label = Vartotojo vardas gaunamų laišku serveryje
+account-setup-outgoing-username-label = Vartotojo vardas siunčiamų laišku serveryje
+account-setup-advanced-setup-button = Sudėtingesnis derinimas
+    .accesskey = S
 
 ## Warning insecure server
 
