@@ -12,6 +12,7 @@ preferences-title =
         }
 preferences-tab-title =
     .title = Nuostatos
+preferences-doc-title = Nuostatos
 category-list =
     .aria-label = Kategorijos
 pane-general-title = Bendrosios

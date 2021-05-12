@@ -43,6 +43,7 @@ auth-question-and-answer-label =
     .label = { auth-question-and-answer }
 auth-shared-secret-label =
     .label = { auth-shared-secret }
+auth-manual-instruction = Susisiekite su pokalbio partneriu naudodamiesi kitu autentifikuotu ryšio kanalu, pavyzdžiui, el. paštu, pasirašydami laišką „OpenPGP“, arba telefonu. Turėtumėte pasakyti vienas kitam savo „pirštų atspaudus“. „Piršto atspaudas“ yra kontrolinė suma, pagal kurią identifikuojamas šifravimo raktas. Jei jie sutampa, sekančiame dialogo lange turėtumėte nurodyti kad patikrinote „pirštų atspaudus“.
 auth-how = Kaip norėtumėte patikrinti adresato tapatybę?
 auth-qaInstruction = Sugalvokite klausimą, į kurį atsakymą žinote tik jūs ir jūsų kontaktas. Įveskite klausimą ir atsakymą, tada palaukite, kol kontaktas įves atsakymą. Jei atsakymai nesutampa, jūsų naudojamas ryšio kanalas gali būti stebimas.
 auth-secretInstruction = Sugalvokite paslaptį, žinomą tik jums ir jūsų kontaktui. Nenaudokite to paties interneto ryšio pasikeisdami paslaptimi. Įveskite paslaptį, tada palaukite, kol jūsų kontaktas ją įves. Jei paslaptys nesutampa, jūsų naudojamas ryšio kanalas gali būti stebimas.

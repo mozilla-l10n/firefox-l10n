@@ -57,6 +57,22 @@ context-gone_secure_unverified = Pradėtas šifruotas, bet nepatvirtintas pokalb
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 context-still_secure = Sėkmingai atnaujinote užšifruotą pokalbį su „{ $name }“.
+msgevent-encryption-required-part2 = Bandoma pradėti privatų pokalbį. Jūsų pranešimas bus pakartotas, kai pokalbis prasidės.
+msgevent-encryption-error = Šifruojant jūsų pranešimą įvyko klaida. Jis nebuvo išsiųstas.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-setup-error = Pradedant privatų pokalbį su „{ $name }“ įvyko klaida.
+# Do not translate 'OTR' (name of an encryption protocol)
+msgevent-msg-reflected = Gaunate savo OTR pranešimus. Jūs arba bandote pasikalbėti su savimi, arba kažkas gražina jūsų pranešimus.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-msg-resent = Pakartotas paskutinis „{ $name }“ skirtas pranešimas.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg-not-private = Iš „{ $name }“ gautas užšifruotas pranešimas yra neįskaitomas, nes šiuo metu jūs nenaudojate pranešimų šifravimo.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg-unreadable = Iš „{ $name }“ gavote neįskaitomą šifruotą pranešimą.
 error-enc = Šifruojant pranešimą įvyko klaida.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
