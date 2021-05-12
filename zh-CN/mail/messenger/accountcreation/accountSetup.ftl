@@ -7,6 +7,9 @@ account-setup-tab-title = 账户设置
 ## Header
 
 account-setup-title = 设置现有的电子邮件地址
+account-setup-description =
+    若要使用您现有的电子邮件地址，请填写您的凭据。<br/>
+    { -brand-product-name } 将会自动查询可用并推荐使用的服务器配置。
 
 ## Form fields
 
@@ -38,6 +41,8 @@ account-setup-password-toggle =
     .title = 显示/隐藏密码
 account-setup-remember-password = 记住密码
     .accesskey = m
+account-setup-exchange-label = 您的登录信息
+    .accesskey = l
 #   YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows.
 account-setup-exchange-input =
     .placeholder = 您的域﹨您的用户名
@@ -123,6 +128,7 @@ account-setup-exchange-title = 服务器
 account-setup-credentials-incomplete = 验证失败。可能是您输入的凭据不正确，或需要使用单独的用户名登录。此用户名通常是 Windows 的域登录用户名，可以包含也可以不包含域（如：janedoe 或 AD\\janedoe）。
 account-setup-credentials-wrong = 验证失败。请检查用户名和密码
 account-setup-find-settings-failed = { -brand-short-name } 未能找到你的邮件账户设置
+account-setup-exchange-config-unverifiable = 无法验证配置。如果您的用户名和密码确认无误，则可能是服务器管理员已禁用了您为账户所选的配置。请尝试选择其他协议。
 
 ## Manual config area
 
