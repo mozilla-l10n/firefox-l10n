@@ -80,3 +80,4 @@ toolbar-context-menu-remove-extension =
 #  $name (String): The name of the addon that will be removed.
 addon-removal-title = Të hiqet { $name }?
 addon-removal-confirmation-button = Hiqe
+addon-removal-confirmation-message = Të hiqet { $name }, si dhe formësimi dhe të dhënat e saj nga { -brand-short-name }-i?
