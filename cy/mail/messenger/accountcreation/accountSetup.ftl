@@ -100,15 +100,63 @@ account-setup-step3-image =
     .title = Wedi canfod ffurfweddiad
 account-setup-step4-image =
     .title = Gwall cysylltiad
+account-setup-privacy-footnote = Bydd eich manylion yn cael eu defnyddio'n unol â'n polisi preifatrwydd <a data-l10n-name="privacy-policy-link">polisi preifatrwydd</a> a'u cadw'n lleol ar eich cyfrifiadur.
+account-setup-selection-help = Ddim yn siŵr beth i'w ddewis?
+account-setup-selection-error = Angen cymorth?
+account-setup-documentation-help = Dogfennaeth gosod
+account-setup-forum-help = Fforwm cefnogi
 
 ## Results area
 
+account-setup-protocol-title = Dewis y protocol
+# Note: IMAP is the name of a protocol.
+account-setup-result-imap = IMAP
+account-setup-result-imap-description = Cadw eich ffolderi a'ch e-byst wedi'u cydweddu ar eich gweinydd
+# Note: POP3 is the name of a protocol.
+account-setup-result-pop = POP3
+account-setup-result-pop-description = Cadw eich ffolderi a'ch e-byst ar eich cyfrifiadur
+# Note: Exchange is the name of a product.
+account-setup-result-exchange = Exchange
+account-setup-result-exchange-description = Gweinydd Microsoft Exchange
+account-setup-incoming-title = Derbyn
+account-setup-outgoing-title = Anfon
+account-setup-username-title = Enw Defnyddiwr
+account-setup-exchange-title = Gweinydd
 
 ## Error messages
 
+# Note: The reference to "janedoe" (Jane Doe) is the name of an example person. You will want to translate it to whatever example persons would be named in your language. In the example, AD is the name of the Windows domain, and this should usually not be translated.
+account-setup-credentials-incomplete = Methodd y dilysu. Naill ai mae'r manylion a gofnodwyd yn anghywir neu mae angen enw defnyddiwr ar wahân ar gyfer mewngofnodi. Yr enw defnyddiwr hwn fel rheol yw eich mewngofnod parth Windows gyda'r parth neu hebddo (er enghraifft, sianjones neu AD\\sianjones)
+account-setup-credentials-wrong = Methodd y dilysu. Gwiriwch yr enw defnyddiwr a'r cyfrinair
+account-setup-find-settings-failed = Methodd { -brand-short-name } â dod o hyd i'r gosodiadau ar gyfer eich cyfrif e-bost
+account-setup-exchange-config-unverifiable = Nid oedd modd dilysu eich ffurfweddiad. Os yw'ch enw defnyddiwr a'ch cyfrinair yn gywir, mae'n debygol bod gweinyddwr y gweinydd wedi analluogi'r ffurfweddiad a ddewiswyd ar gyfer eich cyfrif. Ceisiwch ddewis protocol arall.
 
 ## Manual config area
 
+account-setup-manual-config-title = Gosodiadau gweinydd
+account-setup-incoming-protocol-label = Protocol Derbyn
+protocol-imap-option = { account-setup-result-imap }
+protocol-pop-option = { account-setup-result-pop }
+account-setup-outgoing-protocol-label = Protocol Anfon
+outgoing-protocol = SMTP
+account-setup-incoming-server-label = Gweinydd Derbyn
+account-setup-outgoing-server-label = Gweinydd Anfon
+account-setup-incoming-port-label = Porth Derbyn
+account-setup-outoing-port-label = Porth Anfon
+account-setup-incoming-ssl-label = SSL Derbyn
+account-setup-outgoing-ssl-label = SSL Anfon
+ssl-autodetect-option = Awtoganfod
+ssl-noencryption-option = Dim
+ssl-starttls-option = STARTTLS
+ssl-tls-option = SSL/TLS
+account-setup-incoming-auth-label = Dilysu Derbyn
+account-setup-outgoing-auth-label = Dilysu Anfon
+account-setup-incoming-username-label = Enw Defnyddiwr Derbyn
+account-setup-outgoing-username-label = Enw Defnyddiwr Anfon
+account-setup-advanced-setup-button = Ffurfweddiad uwch
+    .accesskey = F
 
 ## Warning insecure server
 
+account-setup-insecure-server-checkbox = Rwy'n deall y peryglon
+    .accesskey = p
