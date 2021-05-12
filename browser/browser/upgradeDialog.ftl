@@ -23,6 +23,9 @@ upgrade-dialog-new-primary-default-button = Gwneud { -brand-short-name } fy mhor
 upgrade-dialog-new-primary-pin-button = Pinio { -brand-short-name } i'm bar tasgau
 upgrade-dialog-new-primary-theme-button = Dewis thema
 upgrade-dialog-new-secondary-button = Nid nawr
+# This string is only shown on Windows 7, where we intentionally suppress the
+# theme selection screen.
+upgrade-dialog-new-primary-win7-button = Iawn, rwy'n deall!
 
 ## Theme selection screen
 
