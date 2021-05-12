@@ -58,3 +58,5 @@
 <!ENTITY publishToolbarCmd.tooltip "Publicera fil">
 <!ENTITY printToolbarCmd.label "Skriv ut">
 <!ENTITY printToolbarCmd.tooltip "Skriv ut den här sidan">
+<!ENTITY formToolbarCmd.label "Formulär">
+<!ENTITY formToolbarCmd.tooltip "Infoga ett nytt formulär eller redigera det valda formulärets egenskaper">
