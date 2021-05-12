@@ -6,6 +6,10 @@
 <!ENTITY markAsReadCmd.accesskey "Ω">
 <!ENTITY markAsReadCmd.key       "m">
 
+<!ENTITY markAsUnreadCmd.label     "Ως μη αναγνωσμένο">
+<!ENTITY markAsUnreadCmd.accesskey "Ω">
+<!ENTITY markAsUnreadCmd.key       "m">
+
 <!ENTITY markFlaggedCmd.label     "Σημαία">
 <!ENTITY markFlaggedCmd.accesskey "Σ">
 <!ENTITY markFlaggedCmd.key       "i">
