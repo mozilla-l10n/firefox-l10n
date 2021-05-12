@@ -6,3 +6,7 @@ calendar-editable-item-privacy-icon-private =
     .alt = Zasebnost: zaseben dogodek
 calendar-editable-item-privacy-icon-confidential =
     .alt = Zasebnost: prikaži samo čas in datum
+calendar-editable-item-todo-icon-task =
+    .alt = Opravilo
+calendar-editable-item-todo-icon-completed-task =
+    .alt = Dokončano opravilo
