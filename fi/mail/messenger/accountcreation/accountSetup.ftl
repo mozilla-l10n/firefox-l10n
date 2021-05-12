@@ -14,6 +14,11 @@ account-setup-email-label = Sähköpostiosoite
 account-setup-email-warning = Virheellinen sähköpostiosoite
 account-setup-email-warning-icon =
     .title = { account-setup-email-warning }
+account-setup-password-label = Salasana
+    .accesskey = a
+    .title = Valinnainen, käytetään vain käyttäjätunnuksen vahvistamiseen
+account-provisioner-button = Hanki uusi sähköpostiosoite
+    .accesskey = H
 account-setup-password-toggle =
     .title = Näytä/piilota salasana
 account-setup-remember-password = Muista salasana
@@ -23,6 +28,14 @@ account-setup-remember-password = Muista salasana
 
 account-setup-button-cancel = Peruuta
     .accesskey = e
+account-setup-button-stop = Pysäytä
+    .accesskey = P
+account-setup-button-retest = Testaa uudelleen
+    .accesskey = T
+account-setup-button-continue = Jatka
+    .accesskey = J
+account-setup-button-done = Valmis
+    .accesskey = V
 
 ## Notifications
 
