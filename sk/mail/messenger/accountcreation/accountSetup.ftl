@@ -41,12 +41,35 @@ account-setup-password-toggle =
     .title = Zobraziť/skryť heslo
 account-setup-remember-password = Zapamätať si heslo
     .accesskey = Z
+account-setup-exchange-label = Vaše prihlasovacie údaje
+    .accesskey = V
+#   YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows.
+account-setup-exchange-input =
+    .placeholder = VAŠA_DOMÉNA\používateľské_meno
+#   Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network.
+account-setup-exchange-info-icon =
+    .title = Prihlásenie k doméne
 
 ## Action buttons
 
+account-setup-button-cancel = Zrušiť
+    .accesskey = Z
+account-setup-button-manual-config = Nastaviť manuálne
+    .accesskey = m
+account-setup-button-stop = Zastaviť
+    .accesskey = Z
+account-setup-button-retest = Znova otestovať nastavenie
+    .accesskey = n
+account-setup-button-continue = Pokračovať
+    .accesskey = P
+account-setup-button-done = Hotovo
+    .accesskey = H
 
 ## Notifications
 
+account-setup-looking-up-settings = Vyhľadáva sa konfigurácia…
+account-setup-looking-up-settings-guess = Vyhľadáva sa konfigurácia: skúšajú sa bežné názvy serverov…
+account-setup-looking-up-settings-half-manual = Vyhľadáva sa konfigurácia: prebieha testovanie servera…
 
 ## Illustrations
 
@@ -60,8 +83,10 @@ account-setup-forum-help = Fórum podpory
 account-setup-protocol-title = Zvoľte protokol
 # Note: IMAP is the name of a protocol.
 account-setup-result-imap = IMAP
+account-setup-result-imap-description = Udržuje vaše priečinky a e-maily synchronizované so serverom
 # Note: POP3 is the name of a protocol.
 account-setup-result-pop = POP3
+account-setup-result-pop-description = Ponecháva vaše priečinky a e-maily v počítači
 # Note: Exchange is the name of a product.
 account-setup-result-exchange = Exchange
 account-setup-result-exchange-description = Microsoft Exchange Server
@@ -81,6 +106,22 @@ account-setup-outgoing-protocol-label = Protokol odchádzajúcej pošty
 outgoing-protocol = SMTP
 account-setup-incoming-server-label = Server prichádzajúcej pošty
 account-setup-outgoing-server-label = Server odchádzajúcej pošty
+account-setup-incoming-port-label = Port prichádzajúcej pošty
+account-setup-outoing-port-label = Port odchádzajúcej pošty
+account-setup-incoming-ssl-label = SSL pre prichádzajúcu poštu
+account-setup-outgoing-ssl-label = SSL pre odchádzajúcu poštu
+ssl-autodetect-option = Autodetekcia
+ssl-noencryption-option = Žiadne
+ssl-starttls-option = STARTTLS
+ssl-tls-option = SSL/TLS
+account-setup-incoming-auth-label = Overenie pre prichádzajúcu poštu
+account-setup-outgoing-auth-label = Overenie pre odchádzajúcu poštu
+account-setup-incoming-username-label = Používateľské meno
+account-setup-outgoing-username-label = Používateľské meno
+account-setup-advanced-setup-button = Pokročilé nastavenie
+    .accesskey = P
 
 ## Warning insecure server
 
+account-setup-insecure-server-checkbox = Rozumiem rizikám
+    .accesskey = R
