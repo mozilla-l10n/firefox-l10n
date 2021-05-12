@@ -59,3 +59,4 @@
 <!ENTITY printToolbarCmd.label "Nyomtatás">
 <!ENTITY printToolbarCmd.tooltip "Oldal kinyomtatása">
 <!ENTITY formToolbarCmd.label "Űrlap">
+<!ENTITY formToolbarCmd.tooltip "Új űrlap beszúrása vagy a kiválasztott űrlap tulajdonságainak szerkesztése">
