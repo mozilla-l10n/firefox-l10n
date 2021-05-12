@@ -4,6 +4,9 @@
 
 about-rights-notification-text = { -brand-short-name } er gratis open source-software, bygget af tusindvis af ildsjæle fra hele verden.
 
+## Toolbar
+
+
 ## Folder Pane
 
 folder-pane-toolbar =
@@ -11,4 +14,15 @@ folder-pane-toolbar =
     .accesskey = V
 
 ## Folder Toolbar Header Popup
+
+
+## AppMenu
+
+appmenu-help-more-troubleshooting-info =
+    .label = Mere teknisk information
+
+## Action Button Context Menu
+
+
+## Add-on removal warning
 
