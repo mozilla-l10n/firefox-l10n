@@ -119,6 +119,8 @@ account-setup-exchange-title = 服务器
 
 ## Error messages
 
+# Note: The reference to "janedoe" (Jane Doe) is the name of an example person. You will want to translate it to whatever example persons would be named in your language. In the example, AD is the name of the Windows domain, and this should usually not be translated.
+account-setup-credentials-incomplete = 验证失败。可能是您输入的凭据不正确，或需要使用单独的用户名登录。此用户名通常是 Windows 的域登录用户名，可以包含也可以不包含域（如：janedoe 或 AD\\janedoe）。
 account-setup-credentials-wrong = 验证失败。请检查用户名和密码
 account-setup-find-settings-failed = { -brand-short-name } 未能找到你的邮件账户设置
 
