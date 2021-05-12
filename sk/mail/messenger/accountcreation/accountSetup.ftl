@@ -32,6 +32,9 @@ account-setup-email-info-icon =
 account-setup-email-warning = Neplatná e-mailová adresa
 account-setup-email-warning-icon =
     .title = { account-setup-email-warning }
+account-setup-password-label = Heslo
+    .accesskey = H
+    .title = Voliteľné, bude použité len na overenie používateľského mena
 account-provisioner-button = Získať novú e-mailovú adresu
     .accesskey = n
 account-setup-password-toggle =
@@ -47,15 +50,37 @@ account-setup-remember-password = Zapamätať si heslo
 
 ## Illustrations
 
+account-setup-selection-help = Neviete, čo zvoliť?
+account-setup-selection-error = Potrebujete pomoc?
+account-setup-documentation-help = Dokumentácia k nastaveniu
+account-setup-forum-help = Fórum podpory
 
 ## Results area
 
+account-setup-protocol-title = Zvoľte protokol
+# Note: IMAP is the name of a protocol.
+account-setup-result-imap = IMAP
+# Note: POP3 is the name of a protocol.
+account-setup-result-pop = POP3
+# Note: Exchange is the name of a product.
+account-setup-result-exchange = Exchange
+account-setup-result-exchange-description = Microsoft Exchange Server
+account-setup-username-title = Používateľské meno
+account-setup-exchange-title = Server
 
 ## Error messages
 
 
 ## Manual config area
 
+account-setup-manual-config-title = Nastavenia servera
+account-setup-incoming-protocol-label = Protokol prichádzajúcej pošty
+protocol-imap-option = { account-setup-result-imap }
+protocol-pop-option = { account-setup-result-pop }
+account-setup-outgoing-protocol-label = Protokol odchádzajúcej pošty
+outgoing-protocol = SMTP
+account-setup-incoming-server-label = Server prichádzajúcej pošty
+account-setup-outgoing-server-label = Server odchádzajúcej pošty
 
 ## Warning insecure server
 
