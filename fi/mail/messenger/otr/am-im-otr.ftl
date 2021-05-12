@@ -17,12 +17,15 @@ otr-log =
     .label = Sisällytä OTR-salatut viestit keskustelulokeihin
 otr-requireEncryption =
     .label = Vaadi päästä päähän -salaus kahdenvälisille keskusteluille
+otr-require-encryption =
+    .label = Vaadi päästä päähän -salaus kahdenvälisille keskusteluille
 otr-require-encryption-info =
     Kun vaaditaan päästä päähän -salausta, viestejä henkilökohtaisissa keskusteluissa
     ei lähetetä, ellei niitä voida salata. Saapuneita salaamattomia viestejä
     ei näytetä osana normaalia keskustelua, eikä niitä myöskään kirjata.
 otr-verifyNudge =
     .label = Muistuta minua aina varmistamaan varmistamaton yhteyshenkilö
-
 otr-notYetAvailable = ei vielä saatavilla
-
+otr-verify-nudge =
+    .label = Muistuta minua aina varmistamaan varmistamaton yhteyshenkilö
+otr-not-yet-available = ei vielä saatavilla
