@@ -9,6 +9,15 @@ menu-view-charset =
     .label = Tegnkodning
     .accesskey = T
 
+## Tools Menu
+
+
+## Help Menu
+
+menu-help-more-troubleshooting-info =
+    .label = Mere teknisk information
+    .accesskey = t
+
 ## Mail Toolbar
 
 toolbar-junk-button =
@@ -23,3 +32,6 @@ toolbar-delete-button =
 toolbar-undelete-button =
     .label = Fortryd sletning
     .tooltiptext = Fortryd sletning af valgte meddelelser
+
+## View / Layout
+
