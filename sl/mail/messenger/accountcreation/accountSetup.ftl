@@ -6,6 +6,7 @@ account-setup-tab-title = Nastavitev računa
 
 ## Header
 
+account-setup-title = Nastavite obstoječi e-poštni naslov
 
 ## Form fields
 
@@ -65,18 +66,61 @@ account-setup-looking-up-settings-guess = Iskanje nastavitev: Poskušanje z obi�
 account-setup-looking-up-settings-half-manual = Iskanje nastavitev: Raziskovanje strežnika …
 account-setup-looking-up-disk = Iskanje nastavitev: Nameščanje { -brand-short-name(sklon: "rodilnik") } …
 account-setup-looking-up-isp = Iskanje nastavitev: Ponudnik e-pošte …
+# Note: Do not translate or replace Mozilla. It stands for the public project mozilla.org, not Mozilla Corporation. The database is a generic, public domain facility usable by any client.
+account-setup-looking-up-db = Iskanje nastavitev: Mozillina podatkovna zbirka ponudnikov internetnih storitev …
+account-setup-looking-up-mx = Iskanje nastavitev: Domena za dohodno e-pošto …
+account-setup-looking-up-exchange = Iskanje nastavitev: Strežnik Exchange …
+account-setup-checking-password = Preverjanje gesla …
+account-setup-installing-addon = Prenašanje in nameščanje dodatka …
+account-setup-success-half-manual = Z zaznavanjem navedenega strežnika so bile najdene naslednje nastavitve:
 
 ## Illustrations
 
+account-setup-step1-image =
+    .title = Začetna nastavitev
+account-setup-step2-image =
+    .title = Nalaganje …
+account-setup-step3-image =
+    .title = Nastavitve najdene
+account-setup-step4-image =
+    .title = Napaka v povezavi
+account-setup-selection-help = Ne veste, kaj izbrati?
+account-setup-selection-error = Potrebujete pomoč?
+account-setup-forum-help = Forum za podporo
 
 ## Results area
 
+account-setup-protocol-title = Izberite protokol
+# Note: IMAP is the name of a protocol.
+account-setup-result-imap = IMAP
+# Note: POP3 is the name of a protocol.
+account-setup-result-pop = POP3
+# Note: Exchange is the name of a product.
+account-setup-result-exchange = Exchange
+account-setup-result-exchange-description = Strežnik Microsoft Exchange
+account-setup-username-title = Uporabniško ime
+account-setup-exchange-title = Strežnik
 
 ## Error messages
 
+account-setup-find-settings-failed = { -brand-short-name } ni uspel najti nastavitev za vaš e-poštni račun
 
 ## Manual config area
 
+account-setup-manual-config-title = Nastavitve strežnika
+protocol-imap-option = { account-setup-result-imap }
+protocol-pop-option = { account-setup-result-pop }
+outgoing-protocol = SMTP
+account-setup-incoming-server-label = Dohodni strežnik
+account-setup-outgoing-server-label = Odhodni strežnik
+account-setup-incoming-port-label = Dohodna vrata
+account-setup-outoing-port-label = Odhodna vrata
+ssl-autodetect-option = Samodejno zaznaj
+ssl-noencryption-option = Brez
+ssl-starttls-option = STARTTLS
+ssl-tls-option = SSL/TLS
 
 ## Warning insecure server
 
+account-setup-insecure-server-checkbox = Razumem tveganja
+    .accesskey = u
