@@ -68,9 +68,38 @@ account-setup-button-done = Wedi gorffen
 ## Notifications
 
 account-setup-looking-up-settings = Chwilio am y ffurfweddiad…
+account-setup-looking-up-settings-guess = Yn chwilio drwy'r ffurfweddiad: Yn rhoi cynnig ar enwau gweinydd cyffredin ...
+account-setup-looking-up-settings-half-manual = Yn chwilio drwy'r ffurfweddiad: Yn holi'r gweinydd...
+account-setup-looking-up-disk = Yn chwilio drwy'r ffurfweddiad: yn gosod { -brand-short-name }…
+account-setup-looking-up-isp = Yn chwilio drwy'r ffurfweddiad: Darparwyr e-bost…
+# Note: Do not translate or replace Mozilla. It stands for the public project mozilla.org, not Mozilla Corporation. The database is a generic, public domain facility usable by any client.
+account-setup-looking-up-db = Yn chwilio drwy'r ffurfweddiad: cronfa ddata ISP Mozilla...
+account-setup-looking-up-mx = Yn chwilio drwy'r ffurfweddiad: Parthau derbyn e-bost...
+account-setup-looking-up-exchange = Yn chwilio drwy'r ffurfweddiad: Gweinydd Exchange...
+account-setup-checking-password = Yn gwirio'r cyfrinair...
+account-setup-installing-addon = Yn llwytho i lawr a gosod ychwanegyn…
+account-setup-success-half-manual = Canfuwyd y gosodiadau canlynol trwy archwilio'r gweinydd hwn:
+account-setup-success-guess = Canfuwyd y ffurfweddiad drwy roi cynnig ar enwau gweinydd cyffredin.
+account-setup-success-guess-offline = Rydych all-lein. Rydym wedi dyfalu rhai gosodiadau ond bydd angen i chi osod y gosodiadau cywir.
+account-setup-success-password = Cyfrinair yn iawn
+account-setup-success-addon = Wedi gosod yr ychwanegyn yn llwyddiannus
+# Note: Do not translate or replace Mozilla. It stands for the public project mozilla.org, not Mozilla Corporation. The database is a generic, public domain facility usable by any client.
+account-setup-success-settings-db = Ffurfweddiad wedi'i ganfod yng nghronfa ddata ISP Mozilla.
+account-setup-success-settings-disk = Ffurfweddiad wedi'i ganfod ar osodiad { -brand-short-name }.
+account-setup-success-settings-isp = Ffurfweddiad wedi'i ganfod yn y darparwr e-bost.
+# Note: Microsoft Exchange is a product name.
+account-setup-success-settings-exchange = Ffurfweddiad wedi'i ganfod ar gyfer gweinydd Microsoft Exchange.
 
 ## Illustrations
 
+account-setup-step1-image =
+    .title = Gosodiad cychwynnol
+account-setup-step2-image =
+    .title = Yn llwytho…
+account-setup-step3-image =
+    .title = Wedi canfod ffurfweddiad
+account-setup-step4-image =
+    .title = Gwall cysylltiad
 
 ## Results area
 
