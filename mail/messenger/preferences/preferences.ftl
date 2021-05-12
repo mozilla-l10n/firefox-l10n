@@ -12,6 +12,7 @@ preferences-title =
         }
 preferences-tab-title =
     .title = Nastavenia
+preferences-doc-title = Nastavenia
 category-list =
     .aria-label = Kategórie
 pane-general-title = Všeobecné
@@ -90,8 +91,8 @@ update-in-progress-ok-button = &Zrušiť
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Pokračovať
-account-button = Nastavenia účtu
 addons-button = Rozšírenia a témy vzhľadu
+account-button = Nastavenia účtu
 open-addons-sidebar-button = Doplnky a témy
 
 ## OS Authentication dialog
@@ -137,7 +138,7 @@ remove-search-engine =
     .label = Odstrániť
     .accesskey = i
 minimize-to-tray-label =
-    .label = Ak je { -brand-short-name } minimalizovaný, presunúť ho do zásobníka
+    .label = Ak je { -brand-short-name } minimalizovaný, presunúť ho oblasti oznámení
     .accesskey = m
 new-message-arrival = Pri prijatí novej správy
 mail-play-sound-label =
@@ -166,12 +167,12 @@ customize-alert-label =
     .label = Prispôsobiť…
     .accesskey = o
 tray-icon-label =
-    .label = Zobraziť ikonu v oznamovacej oblasti systémového panela úloh
+    .label = Zobraziť ikonu v oblasti oznámení systémového panela úloh
     .accesskey = k
 biff-use-system-alert =
     .label = Použiť systémové upozornenia
 tray-icon-unread-label =
-    .label = Zobraziť ikonu neprečítaných správ na systémovom paneli úloh
+    .label = Zobraziť ikonu pre neprečítané správy v oblasti oznámení
     .accesskey = k
 tray-icon-unread-description = Odporúča sa pri používaní malých tlačidiel na paneli úloh
 mail-system-sound-label =
