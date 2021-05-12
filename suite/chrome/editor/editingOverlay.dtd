@@ -58,3 +58,4 @@
 <!ENTITY publishToolbarCmd.tooltip "Bestand uploaden naar een externe locatie">
 <!ENTITY printToolbarCmd.label "Afdrukken">
 <!ENTITY printToolbarCmd.tooltip "Deze pagina afdrukken">
+<!ENTITY formToolbarCmd.label "Formulier">
