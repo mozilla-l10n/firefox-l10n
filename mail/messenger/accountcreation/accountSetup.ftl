@@ -68,9 +68,42 @@ account-setup-button-done = Готово
 ## Notifications
 
 account-setup-looking-up-settings = Пошук конфігурації…
+account-setup-looking-up-settings-guess = Пошук конфігурації: Перевірка поширених імен серверів…
+account-setup-looking-up-settings-half-manual = Пошук конфігурації: Випробування сервера…
+account-setup-looking-up-disk = Пошук конфігурації: встановлення { -brand-short-name }...
+account-setup-looking-up-isp = Пошук конфігурації: постачальник електронної пошти…
+# Note: Do not translate or replace Mozilla. It stands for the public project mozilla.org, not Mozilla Corporation. The database is a generic, public domain facility usable by any client.
+account-setup-looking-up-db = Пошук конфігурації: база даних ISP Mozilla…
+account-setup-looking-up-mx = Пошук конфігурації: домен вхідної пошти…
+account-setup-looking-up-exchange = Пошук конфігурації: Сервер Exchange…
+account-setup-checking-password = Перевірка пароля…
+account-setup-installing-addon = Завантаження і встановлення додатка…
+account-setup-success-half-manual = Такі налаштування було знайдено під час випробування цього сервера:
+account-setup-success-guess = Конфігурацію знайдено за допомогою перевірки поширених імен серверів.
+account-setup-success-guess-offline = Ви працюєте в автономному режимі. Ми здогадалися про деякі налаштування, але ви повинні ввести правильні налаштування власноруч.
+account-setup-success-password = Пароль прийнято
+account-setup-success-addon = Додаток успішно встановлено
+# Note: Do not translate or replace Mozilla. It stands for the public project mozilla.org, not Mozilla Corporation. The database is a generic, public domain facility usable by any client.
+account-setup-success-settings-db = Конфігурацію знайдено в базі даних ISP Mozilla.
+account-setup-success-settings-disk = Конфігурацію знайдено під час встановлення { -brand-short-name }.
+account-setup-success-settings-isp = Конфігурацію знайдено у постачальника послуг електронної пошти.
+# Note: Microsoft Exchange is a product name.
+account-setup-success-settings-exchange = Знайдено конфігурацію для сервера Microsoft Exchange.
 
 ## Illustrations
 
+account-setup-step1-image =
+    .title = Початкове налаштування
+account-setup-step2-image =
+    .title = Завантаження…
+account-setup-step3-image =
+    .title = Конфігурацію знайдено
+account-setup-step4-image =
+    .title = Помилка з'єднання
+account-setup-privacy-footnote = Ваші облікові дані використовуватимуться згідно з нашою <a data-l10n-name="privacy-policy-link">політикою конфіденційності</a> та зберігатимуться лише локально на вашому комп’ютері.
+account-setup-selection-help = Не знаєте, що вибрати?
+account-setup-selection-error = Потрібна допомога?
+account-setup-documentation-help = Документація з налаштування
 account-setup-forum-help = Форум підтримки
 
 ## Results area
@@ -92,6 +125,11 @@ account-setup-exchange-title = Сервер
 
 ## Error messages
 
+# Note: The reference to "janedoe" (Jane Doe) is the name of an example person. You will want to translate it to whatever example persons would be named in your language. In the example, AD is the name of the Windows domain, and this should usually not be translated.
+account-setup-credentials-incomplete = Помилка автентифікації. Або введені облікові дані неправильні, або для входу потрібно окреме ім’я користувача. Це ім’я користувача, як правило, є вашим ім'ям домену Windows із доменом або без нього (наприклад, janedoe або AD\\janedoe)
+account-setup-credentials-wrong = Помилка автентифікації. Перевірте ім’я користувача та пароль
+account-setup-find-settings-failed = { -brand-short-name } не може знайти налаштування для вашого облікового запису електронної пошти
+account-setup-exchange-config-unverifiable = Не вдалося перевірити конфігурацію. Якщо ваше ім’я користувача та пароль правильні, ймовірно, що адміністратор сервера вимкнув вибрану конфігурацію для вашого облікового запису. Спробуйте вибрати інший протокол.
 
 ## Manual config area
 
@@ -113,6 +151,12 @@ ssl-starttls-option = STARTTLS
 ssl-tls-option = SSL/TLS
 account-setup-incoming-auth-label = Вхідна автентифікація
 account-setup-outgoing-auth-label = Вихідна автентифікація
+account-setup-incoming-username-label = Вхідне ім’я користувача
+account-setup-outgoing-username-label = Вихідне ім’я користувача
+account-setup-advanced-setup-button = Розширені налаштування
+    .accesskey = Р
 
 ## Warning insecure server
 
+account-setup-insecure-server-checkbox = Я розумію ризики
+    .accesskey = о
