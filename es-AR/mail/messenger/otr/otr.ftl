@@ -73,10 +73,52 @@ msgevent-msg-reflected = Está recibiendo sus propios mensajes OTR. Está intent
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-msg-resent = Se reenvió el último mensaje a { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg-not-private = El mensaje cifrado recibido de { $name } no se puede leer ya que no se está comunicando en privado en este momento.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg-unreadable = Recibió un mensaje cifrado ilegible de { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg-malformed = Recibió un mensaje de datos con formato incorrecto de { $name }.
+# A Heartbeat is a technical message used to keep a connection alive.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-log-heartbeat-rcvd = Pulsos recibidos de { $name }.
+# A Heartbeat is a technical message used to keep a connection alive.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-log-heartbeat-sent = Pulso enviado a { $name }.
+# Do not translate 'OTR' (name of an encryption protocol)
+msgevent-rcvdmsg-general-err = Se produjo un error inesperado al intentar proteger su conversación usando OTR.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+#   $msg (string) - the message that was received.
+msgevent-rcvdmsg-unencrypted = El siguiente mensaje recibido de { $name } no se cifró: { $msg }
+# Do not translate 'OTR' (name of an encryption protocol)
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg-unrecognized = Recibió un mensaje OTR no reconocido de { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg-for-other-instance = { $name } envió un mensaje destinado a una sesión diferente. Si inició sesión varias veces, otra sesión puede haber recibido el mensaje.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-gone-secure-private = Se inició una conversación privada con { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-gone-secure-unverified = Se inició una conversación cifrada pero no verificada con { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-still-secure = Actualizó con éxito la conversación cifrada con { $name }.
 error-enc = Se produjo un error al cifrar el mensaje.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 error-not_priv = Envió datos cifrados a { $name }, que no lo esperaba.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+error-not-priv = Envió datos cifrados a { $name } que no los esperaba.
 error-unreadable = Transmitió un mensaje cifrado ilegible.
 error-malformed = Transmitió un mensaje de datos con formato incorrecto.
 resent = [reenviado]
