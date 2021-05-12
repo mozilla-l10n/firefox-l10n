@@ -7,3 +7,16 @@ default-browser-notification-message = <strong>Të caktohet { -brand-short-name 
 default-browser-notification-button =
     .label = Vëre si parazgjedhje
     .accesskey = V
+
+## These strings are used for the default browser prompt. There are 2 variations
+## depending on the operating system (Windows vs other). The checkbox label and
+## secondary button are shared between the variants.
+
+default-browser-prompt-title-pin = Të bëhet { -brand-short-name }-i shfletuesi juaj parësor?
+default-browser-prompt-message-pin = Kijeni { -brand-short-name }-in në majë të gishtave — bëjeni shfletuesin tuaj parazgjedhje dhe fiksojeni te paneli.
+default-browser-prompt-button-primary-pin = Bëje shfletues parazgjedhje
+default-browser-prompt-title-alt = Të bëhet { -brand-short-name }-i shfletuesi juaj parazgjedhje?
+default-browser-prompt-message-alt = Përfitoni shpejtësi, siguri dhe privatësi, sa herë që shfletoni.
+default-browser-prompt-button-primary-alt = Vëre si shfletuesin parazgjedhje
+default-browser-prompt-checkbox-not-again-label = Mos e shfaq sërish këtë mesazh
+default-browser-prompt-button-secondary = Jo tani

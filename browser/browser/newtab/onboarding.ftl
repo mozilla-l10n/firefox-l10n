@@ -288,3 +288,43 @@ mr1-onboarding-theme-label-alpenglow = Alpenglow
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of system theme
+mr1-onboarding-theme-tooltip-system =
+    .title =
+        Për butona, menu dhe dritare
+        ndiq temën e sistemin operativ.
+# Input description for system theme
+mr1-onboarding-theme-description-system =
+    .aria-description =
+        Për butona, menu dhe dritare
+        ndiq temën e sistemin operativ.
+# Tooltip displayed on hover of light theme
+mr1-onboarding-theme-tooltip-light =
+    .title =
+        Për butona, menu dhe dritare,
+        përdor një temë të çelët.
+# Input description for light theme
+mr1-onboarding-theme-description-light =
+    .aria-description =
+        Për butona, menu dhe dritare,
+        përdor një temë të çelët.
+# Tooltip displayed on hover of dark theme
+mr1-onboarding-theme-tooltip-dark =
+    .title =
+        Për butona, menu dhe dritare,
+        përdor një temë të errët.
+# Input description for dark theme
+mr1-onboarding-theme-description-dark =
+    .aria-description =
+        Për butona, menu dhe dritare,
+        përdor një temë të errët.
+# Tooltip displayed on hover of Alpenglow theme
+mr1-onboarding-theme-tooltip-alpenglow =
+    .title =
+        Për butona, menu dhe dritare, përdor
+        një temë dinamike, plot ngjyra.
+# Input description for Alpenglow theme
+mr1-onboarding-theme-description-alpenglow =
+    .aria-description =
+        Për butona, menu dhe dritare, përdor
+        një temë dinamike, plot ngjyra.

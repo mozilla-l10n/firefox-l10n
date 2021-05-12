@@ -10,4 +10,4 @@ account-finish-account-setup = Përfundoni Rregullim Llogarie
 account-reconnect-to-fxa = Llogaria u Shkëput
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
-account-disconnected = Jeni shkëputur
+account-disconnected2 = Llogaria u shkëput
