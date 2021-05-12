@@ -19,6 +19,10 @@ experimental-features-media-avif =
 experimental-features-media-avif-description = Με αυτή τη λειτουργία, το { -brand-short-name } υποστηρίζει τη μορφή εικόνας AV1 (AVIF). Πρόκειται για μια μορφή αρχείου ακίνητης εικόνας που αξιοποιεί τις δυνατότητες των αλγορίθμων συμπίεσης βίντεο AV1 για τη μείωση του μεγέθους της. Δείτε το <a data-l10n-name="bugzilla">σφάλμα 1443863 </a> για περισσότερες λεπτομέρειες.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
+experimental-features-media-jxl =
+    .label = Πολυμέσα: JPEG XL
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
     .label = Web API: inputmode
 # "inputmode" and "contenteditable" are technical terms and shouldn't be translated.

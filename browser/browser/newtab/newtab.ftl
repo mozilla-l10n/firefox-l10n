@@ -11,6 +11,8 @@ newtab-settings-button =
 newtab-personalize-button-label = Εξατομίκευση
     .title = Εξατομίκευση νέας καρτέλας
     .aria-label = Εξατομίκευση νέας καρτέλας
+newtab-personalize-dialog-label =
+    .aria-label = Εξατομίκευση
 
 ## Search box component.
 
