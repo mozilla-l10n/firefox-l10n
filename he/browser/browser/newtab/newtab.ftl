@@ -11,6 +11,8 @@ newtab-settings-button =
 newtab-personalize-button-label = התאמה אישית
     .title = התאמה אישית של דף הלשונית החדשה
     .aria-label = התאמה אישית של דף הלשונית החדשה
+newtab-personalize-dialog-label =
+    .aria-label = התאמה אישית
 
 ## Search box component.
 

@@ -22,6 +22,9 @@ upgrade-dialog-new-primary-default-button = הגדרת { -brand-short-name } כ�
 upgrade-dialog-new-primary-pin-button = הצמדת { -brand-short-name } לשורת המשימות שלי
 upgrade-dialog-new-primary-theme-button = בחירת ערכת נושא
 upgrade-dialog-new-secondary-button = לא כעת
+# This string is only shown on Windows 7, where we intentionally suppress the
+# theme selection screen.
+upgrade-dialog-new-primary-win7-button = בסדר, הבנתי!
 
 ## Theme selection screen
 
