@@ -77,6 +77,7 @@ login-intro-description = Ma shàbhail thu na clàraidhean a-steach agad ann am 
 login-intro-instruction-fxa = Cruthaich { -fxaccount-brand-name } no clàraich a-steach dha air an uidheam far an deach na clàraidhean a-steach agad a shàbhaladh
 login-intro-instruction-fxa-settings = Dèan cinnteach gu bheil cromag ann am bogsa nan clàraidhean a-steach ann an roghainnean { -sync-brand-short-name }
 about-logins-intro-instruction-help = Tadhail air <a data-l10n-name="help-link">Taic { -lockwise-brand-short-name }</a> airson cobhair
+login-intro-instructions-fxa-help = Tadhail air <a data-l10n-name="help-link">taic { -lockwise-brand-short-name }</a> airson barrachd cuideachaidh.
 about-logins-intro-import = Ma shàbhail thu na clàraidhean a-steach agad ann am brabhsair eile, ’s urrainn dhut <a data-l10n-name="import-link">an ion-phortadh gu { -lockwise-brand-short-name }</a>
 
 ## Login
@@ -165,9 +166,17 @@ confirm-discard-changes-dialog-confirm-button = Tilg air falbh
 ## Breach Alert notification
 
 breach-alert-text = Chaidh faclan-faire a ghoid air an làrach-lìn seo on a dh’ùraich thu an clàradh a-steach agad turas mu dheireadh. Atharraich am facal-faire agad a dhìon a’ chunntais agad.
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = Tadhail air { $hostname }
+about-logins-breach-alert-learn-more-link = Barrachd fiosrachaidh
 
 ## Vulnerable Password notification
 
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = Tadhail air { $hostname }
+about-logins-vulnerable-alert-learn-more-link = Barrachd fiosrachaidh
 
 ## Error Messages
 
@@ -183,6 +192,16 @@ about-logins-error-message-default = Thachair mearachd nuair a dh’fheuch sinn 
 
 
 ## Login Import Dialog
+
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
 
 
 ##

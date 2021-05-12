@@ -13,36 +13,27 @@ cfr-doorhanger-pintab-heading = Feuch seo: Prìnich an taba
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Carson a tha mi a’ faicinn seo?
-
 cfr-doorhanger-extension-cancel-button = Chan ann an-dràsta
     .accesskey = d
-
 cfr-doorhanger-extension-ok-button = Cuir ris an-dràsta
     .accesskey = C
 cfr-doorhanger-pintab-ok-button = Prìnich an taba seo
     .accesskey = P
-
 cfr-doorhanger-extension-manage-settings-button = Stiùirich roghainnean nam molaidhean
     .accesskey = m
-
 cfr-doorhanger-extension-never-show-recommendation = Na seall am moladh seo dhomh
     .accesskey = s
-
 cfr-doorhanger-extension-learn-more-link = Barrachd fiosrachaidh
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = le { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Moladh
-
 cfr-doorhanger-extension-notification2 = Moladh
     .tooltiptext = Leudachan a mholamaid
     .a11y-announcement = Tha moladh leudachain ann
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Moladh
@@ -72,7 +63,6 @@ cfr-doorhanger-extension-total-users =
         [few] { $total } cleachdaichean
        *[other] { $total } cleachdaiche
     }
-
 cfr-doorhanger-pintab-description = Faigh cothrom luath air na làraichean a chleachdas tu gu tric. Cùm làraichean fosgailte ’nan tabaichean (fiù ma nì thu ath-thòiseachadh).
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -80,10 +70,8 @@ cfr-doorhanger-pintab-description = Faigh cothrom luath air na làraichean a chl
 cfr-doorhanger-pintab-step1 = <b>Dèan briogadh deas</b> air an taba a tha thu airson prìneachadh.
 cfr-doorhanger-pintab-step2 = Tagh <b>Prìnich an taba</b> on chlàr-taice.
 cfr-doorhanger-pintab-step3 = Ma thig ùrachadh air an làrach, chì thu dotag ghorm air an taba phrìnichte agad.
-
 cfr-doorhanger-pintab-animation-pause = Cuir ’na stad
 cfr-doorhanger-pintab-animation-resume = Lean air
-
 
 ## Firefox Accounts Message
 
@@ -105,26 +93,20 @@ cfr-protections-panel-link-text = Barrachd fiosrachaidh
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Gleus ùr:
-
 cfr-whatsnew-button =
     .label = Na tha ùr
     .tooltiptext = Na tha ùr
-
 cfr-whatsnew-panel-header = Na tha ùr
-
 cfr-whatsnew-release-notes-link-text = Leugh na nòtaichean sgaoilidh
-
 cfr-whatsnew-fx70-title = Tha { -brand-short-name } a’ strì nas cruaidhe airson do phrìobhaideachd a-nis
 cfr-whatsnew-fx70-body =
     Tha an t-ùrachadh seo a’ cur spionnadh sa ghleus a dhìonas o thracadh thu agus
     nì e fiù nas fhasa e faclan-faire tèarainte a chruthachadh airson gach làrach.
-
 cfr-whatsnew-tracking-protect-title = Dìon thu fhèin o thracaichean
 cfr-whatsnew-tracking-protect-body =
     Bacaidh { -brand-short-name } mòran dhe na tracaichean cumanta a leanas riut
     air feadh làraichean agus nam meadhanan sòisealta.
 cfr-whatsnew-tracking-protect-link-text = Seall an aithisg agad
-
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -137,11 +119,9 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = A-mach o { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Seall an aithisg
-
 cfr-whatsnew-lockwise-backup-title = Dèan lethbhreac-glèidhidh dhe na faclan-faire agad
 cfr-whatsnew-lockwise-backup-body = Gin faclan-faire tèarainte a-nis as urrainn dhut cleachdadh àite sam bith far an clàraich thu a-steach.
 cfr-whatsnew-lockwise-backup-link-text = Cuir na lethbhreacan-glèidhidh air
-
 cfr-whatsnew-lockwise-take-title = Thoir leat na faclan-faire agad
 cfr-whatsnew-lockwise-take-body =
     Bheir an aplacaid mobile { -lockwise-brand-short-name } cothrom tèarainte dhut
@@ -152,6 +132,9 @@ cfr-whatsnew-lockwise-take-link-text = Faigh an aplacaid
 
 cfr-whatsnew-searchbar-title = Faigh lorg air rudan nas luaithe le nas lugha de sgrìobhadh le bàr an t-seolaidh
 cfr-whatsnew-searchbar-body-topsites = Nise, cha leig thu leas ach bàr an t-seòlaidh a thaghadh agus nochdaidh bogsa le ceanglaichean ri brod nan làrach agad.
+
+## Search bar
+
 cfr-whatsnew-searchbar-icon-alt-text = Ìomhaigheag na glainne-mheudachaidh
 
 ## Picture-in-Picture
@@ -179,7 +162,6 @@ cfr-whatsnew-fingerprinter-counter-header =
        *[other] lorgaiche-meur air am bacadh
     }
 cfr-whatsnew-fingerprinter-counter-body = Bacaidh { -brand-shorter-name } iomadh lorgaiche-meur a chruinnicheas fiosrachadh os ìseal mun uidheam agad is mu na nì thu airson pròifil sanasachd a chruthachadh dhìot.
-
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Lorgaichean-meur
 cfr-whatsnew-fingerprinter-counter-body-alt = ’S urrainn dha { -brand-shorter-name } iomadh lorgaiche-meur a bhacadh a chruinnicheas fiosrachadh os ìseal mun uidheam agad is mu na nì thu airson pròifil sanasachd a chruthachadh dhìot.
@@ -245,17 +227,47 @@ cfr-doorhanger-milestone-ok-button = Seall na h-uile
 
 ## What’s New Panel Content for Firefox 76
 
+
 ## Lockwise message
+
 
 ## Vulnerable Passwords message
 
+
 ## Picture-in-Picture fullscreen message
+
 
 ## Protections Dashboard message
 
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
+
+cfr-whatsnew-protections-cta-link = Seall deas-bhòrd an dìona
+
 ## Better PDF message
+
 
 ## DOH Message
 
+
+## Fission Experiment Message
+
+
 ## What's new: Cookies message
+
+
+## What's new: Media controls message
+
+
+## What's new: Search shortcuts
+
+
+## What's new: Cookies protection
+
+
+## What's new: Better bookmarking
+
+
+## What's new: Cross-site cookie tracking
 

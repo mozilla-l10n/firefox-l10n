@@ -418,6 +418,8 @@ pointerlock-warning-no-domain = Tha smachd aig an sgrìobhainn seo air an tomhai
 
 ## Subframe crash notification
 
+crashed-subframe-learnmore-link =
+    .value = Barrachd fiosrachaidh
 
 ## Bookmarks panels, menus and toolbar
 

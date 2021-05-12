@@ -41,6 +41,8 @@ whatsnew-panel-header = Na tha ùr
 ## performance profiles. To enable it go to profiler.firefox.com and click
 ## "Enable Profiler Menu Button".
 
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings = Deasaich na roghainnean…
 
 ## History panel
 

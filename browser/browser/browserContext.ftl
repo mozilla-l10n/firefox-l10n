@@ -88,6 +88,9 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
+## Firefox Account Button
+
+
 ## Save Page
 
 main-context-menu-page-save =
@@ -136,6 +139,9 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-bookmark-this-link =
     .label = Cruthaich comharra-lìn dhan cheangal seo
     .accesskey = l
+main-context-menu-bookmark-link =
+    .label = Cruthaich comharra-lìn dhan cheangal
+    .accesskey = g
 main-context-menu-save-link =
     .label = Sàbhail an ceangal mar…
     .accesskey = S
@@ -158,6 +164,9 @@ main-context-menu-copy-email =
 main-context-menu-copy-link =
     .label = Dèan lethbhreac de sheòladh a' cheangail
     .accesskey = a
+main-context-menu-copy-link-simple =
+    .label = Dèan lethbhreac dhen cheangal
+    .accesskey = l
 
 ## Media (video/audio) controls
 ##
@@ -248,6 +257,15 @@ main-context-menu-video-copy-location =
 main-context-menu-audio-copy-location =
     .label = Dèan lethbhreac de sheòladh na fuaime
     .accesskey = D
+main-context-menu-image-copy-link =
+    .label = Dèan lethbhreac de cheangal an deilbh
+    .accesskey = d
+main-context-menu-video-copy-link =
+    .label = Dèan lethbhreac de cheangal a’ video
+    .accesskey = v
+main-context-menu-audio-copy-link =
+    .label = Dèan lethbhreac de cheangal na fuaime
+    .accesskey = f
 main-context-menu-image-save-as =
     .label = Sàbhail an dealbh mar…
     .accesskey = S
