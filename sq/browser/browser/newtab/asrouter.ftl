@@ -200,20 +200,21 @@ cfr-doorhanger-cryptominers-description = Privatësia juaj ka vlerë. { -brand-s
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (Number) - The date we began recording the count of blocked trackers
+#   $date (String) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
         [one] 	{ -brand-short-name } bllokoi mbi <b>{ $blockedCount }</b> gjurmues që prej { $date }!
        *[other] 	{ -brand-short-name } bllokoi mbi <b>{ $blockedCount }</b> gjurmues që prej { $date }!
     }
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Datetime) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading2 =
     { $blockedCount ->
        *[other] { -brand-short-name } bllokoi mbi <b>{ $blockedCount }</b> gjurmues që prej { DATETIME($date, month: "long", year: "numeric") }!
     }
 cfr-doorhanger-milestone-ok-button = Shihini Krejt
     .accesskey = S
-cfr-doorhanger-milestone-close-button = Mbylle
-    .accesskey = M
 
 ## What’s New Panel Content for Firefox 76
 
@@ -238,6 +239,12 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Ikonë foto-në foto
 
 ## Protections Dashboard message
 
+cfr-doorhanger-milestone-close-button = Mbylle
+    .accesskey = M
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
+
 cfr-whatsnew-protections-header = Mbrojtje përmbledhtasi
 cfr-whatsnew-protections-body = Pulti i Mbrojtjeve përfshin raporte përmbledhëse rreth cenimesh të dhënash dhe administrimi fjalëkalimesh. Tani mund të ndiqni se sa cenime keni zgjidhur, dhe të shihni nëse ndonjë nga fjalëkalimet tuaj të ruajtur është ekspozuar në një cenim të dhënash.
 cfr-whatsnew-protections-cta-link = Shihni Pult Mbrojtjesh
@@ -252,7 +259,7 @@ cfr-whatsnew-better-pdf-body = Dokumentet PDF tani hapen drejt e në { -brand-sh
 
 cfr-doorhanger-doh-body = Privatësia juaj ka rëndësi. { -brand-short-name }-i tani e tutje ia kalon në mënyrë të siguruar kërkesat tuaja DNS, kurdo që është e mundur, një shërbimi partner, për t’ju mbrojtur teksa shfletoni.
 cfr-doorhanger-doh-header = Kërkesa DNS të fshehtëzuara, më të sigurta
-cfr-doorhanger-doh-primary-button = OK, e mora vesh
+cfr-doorhanger-doh-primary-button-2 = OK
     .accesskey = O
 cfr-doorhanger-doh-secondary-button = Çaktivizoje
     .accesskey = Ç

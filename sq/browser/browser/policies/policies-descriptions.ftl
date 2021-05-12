@@ -11,9 +11,12 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Caktoni rregulla të cilat WebExtensions mund t’i shohin përmes chrome.storage.managed.
+policy-AllowedDomainsForApps = Përcaktoni përkatësi të lejuara të hyjnë në Google Workspace.
 policy-AppAutoUpdate = Aktivizoni ose çaktivizoni përditësime të vetvetishme aplikacionesh.
 policy-AppUpdateURL = Caktoni URL vetjake përditësimi aplikacioni.
 policy-Authentication = Formësoni mirëfilltësim të integruar për sajte që e mbulojnë atë.
+policy-AutoLaunchProtocolsFromOrigins = Përcaktoni një listë protokollesh të jashtë që mund të përdoren prej origjinash të treguara, pa pyetur përdoruesin.
+policy-BackgroundAppUpdate2 = Aktivizoni ose çaktivizoni përditësuesin në prapaskenë.
 policy-BlockAboutAddons = Bllokoni hyrje te Përgjegjësi i Shtesave (about:addons).
 policy-BlockAboutConfig = Bllokoni hyrje te faqja about:config.
 policy-BlockAboutProfiles = Bllokoni hyrje te faqja about:profiles.
@@ -106,6 +109,7 @@ policy-SearchEngines = Formësoni rregullime motori kërkimesh. Ky rregull tani 
 policy-SearchSuggestEnabled = Aktivizoni ose çaktivizoni sugjerime kërkimi.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Instaloni module PKCS #11.
+policy-ShowHomeButton = Shfaqe butonin Shtëpi te paneli.
 policy-SSLVersionMax = Caktoni version maksimum SSL-je.
 policy-SSLVersionMin = Caktoni version minimum SSL-je.
 policy-SupportMenu = Shtoni te menuja e ndihmës një element vetjak menuje asistence.

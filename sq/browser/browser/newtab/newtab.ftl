@@ -11,6 +11,8 @@ newtab-settings-button =
 newtab-personalize-button-label = Personalizojeni
     .title = Personalizoni skedën e re
     .aria-label = Personalizoni skedën e re
+newtab-personalize-dialog-label =
+    .aria-label = Personalizojeni
 
 ## Search box component.
 
@@ -19,6 +21,20 @@ newtab-search-box-search-button =
     .title = Kërko
     .aria-label = Kërko
 newtab-search-box-search-the-web-text = Kërkoni në Web
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-text = Kërkoni me { $engine } ose jepni adresë
+newtab-search-box-handoff-text-no-engine = Bëni kërkim ose jepni adresë
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-input =
+    .placeholder = Kërkoni me { $engine } ose jepni adresë
+    .title = Kërkoni me { $engine } ose jepni adresë
+    .aria-label = Kërkoni me { $engine } ose jepni adresë
+newtab-search-box-handoff-input-no-engine =
+    .placeholder = Bëni kërkim ose jepni adresë
+    .title = Bëni kërkim ose jepni adresë
+    .aria-label = Bëni kërkim ose jepni adresë
 newtab-search-box-search-the-web-input =
     .placeholder = Kërkoni në Web
     .title = Kërkoni në Web
