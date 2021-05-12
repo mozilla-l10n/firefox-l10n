@@ -6,6 +6,9 @@
 <!ENTITY markAsReadCmd.accesskey "O">
 <!ENTITY markAsReadCmd.key       "m">
 
+<!ENTITY markAsUnreadCmd.label     "Olvasatlanként">
+<!ENTITY markAsUnreadCmd.accesskey "O">
+
 <!ENTITY markFlaggedCmd.label     "Zászlócska">
 <!ENTITY markFlaggedCmd.accesskey "Z">
 <!ENTITY markFlaggedCmd.key       "i">

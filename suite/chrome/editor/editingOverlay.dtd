@@ -58,3 +58,4 @@
 <!ENTITY publishToolbarCmd.tooltip "Fájl feltöltése távoli kiszolgálóra">
 <!ENTITY printToolbarCmd.label "Nyomtatás">
 <!ENTITY printToolbarCmd.tooltip "Oldal kinyomtatása">
+<!ENTITY formToolbarCmd.label "Űrlap">
