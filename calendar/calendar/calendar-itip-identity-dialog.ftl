@@ -3,3 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 calendar-itip-identity-warning = Még nem szerepel a vendéglistán.
+calendar-itip-identity-label = Válasz mint:
