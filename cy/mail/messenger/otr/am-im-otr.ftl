@@ -17,12 +17,15 @@ otr-log =
     .label = Cynnwys negeseuon wedi'u hamgryptio OTR mewn cofnodion sgwrsio
 otr-requireEncryption =
     .label = Angen amgryptio pen-i-ben ar gyfer sgyrsiau un i un
+otr-require-encryption =
+    .label = Angen amgryptio o'r dechrau i'r diwedd ar gyfer sgyrsiau un i un
 otr-require-encryption-info =
     Wrth ofyn am amgryptio negeseuon o ben-i-ben, ni fydd negeseuon mewn sgyrsiau
     un i un yn cael eu hanfon oni bai bod modd eu hamgryptio. Ni fydd negeseuon wedi'u
     derbyn heb eu hamgryptio yn cael eu dangos fel rhan o'r sgwrs arferol, na'u cofnodi chwaith.
 otr-verifyNudge =
     .label = Atgoffa bob tro i wirio cyswllt heb ei wirio
-
 otr-notYetAvailable = ddim ar gael eto
-
+otr-verify-nudge =
+    .label = Atgoffa bob tro i wirio cyswllt heb ei wirio
+otr-not-yet-available = ddim ar gael eto
