@@ -35,6 +35,8 @@ account-setup-email-warning-icon =
 account-setup-password-label = Slaptažodis
     .accesskey = S
     .title = Nebūtinas, bus naudojamas tikrinant naudotojo vardą
+account-provisioner-button = Gauti naują el. pašto adresą
+    .accesskey = n
 account-setup-password-toggle =
     .title = Rodyti / slėpti slaptažodį
 account-setup-remember-password = Įsiminti slaptažodį
@@ -68,6 +70,7 @@ account-setup-button-done = Atlikta
 account-setup-looking-up-settings = Ieškoma konfigūracija …
 account-setup-looking-up-settings-guess = Ieškoma konfigūracija: bandomi įprasti serverių pavadinimai …
 account-setup-looking-up-settings-half-manual = Ieškoma konfigūracija: tikrinamas serveris …
+account-setup-looking-up-disk = Ieškoma konfigūracijos: „{ -brand-short-name }“ nustatymuose ...
 account-setup-looking-up-isp = Ieškoma konfigūracija: el. pašto teikėjas …
 # Note: Do not translate or replace Mozilla. It stands for the public project mozilla.org, not Mozilla Corporation. The database is a generic, public domain facility usable by any client.
 account-setup-looking-up-db = Ieškoma konfigūracija „Mozilla“ turimoje paslaugų tiekėjų duomenų bazėje …
@@ -122,6 +125,8 @@ account-setup-exchange-title = Serveris
 
 ## Error messages
 
+# Note: The reference to "janedoe" (Jane Doe) is the name of an example person. You will want to translate it to whatever example persons would be named in your language. In the example, AD is the name of the Windows domain, and this should usually not be translated.
+account-setup-credentials-incomplete = Autentifikuotis nepavyko. Arba įvesti kredencialai yra neteisingi, arba norint prisijungti reikia kitokio vartotojo vardo. Šis vartotojo vardas paprastai yra jūsų „Windows“ domeno prisijungimo vardas su domenu arba be jo (pvz., jonasjonaitis arba AD\\jonasjonaitis)
 account-setup-credentials-wrong = Nepavyko autentifikuoti. Patikrinkite vartotojo vardą ir slaptažodį
 account-setup-find-settings-failed = „{ -brand-short-name }“ nepavyko rasti jūsų el. pašto paskyros nustatymų
 account-setup-exchange-config-unverifiable = Nepavyko patvirtinti konfigūracijos. Jei jūsų vartotojo vardas ir slaptažodis yra teisingi, tikėtina, kad serverio administratorius išjungė pasirinktą jūsų paskyros konfigūraciją. Pabandykite pasirinkti kitą protokolą.
