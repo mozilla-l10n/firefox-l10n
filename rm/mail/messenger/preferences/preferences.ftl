@@ -10,6 +10,8 @@ preferences-title =
             [windows] Preferenzas
            *[other] Preferenzas
         }
+preferences-tab-title =
+    .title = Preferenzas
 category-list =
     .aria-label = Categorias
 pane-general-title = General
@@ -88,8 +90,9 @@ update-in-progress-ok-button = &Interrumper
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Cuntinuar
-account-button = Parameters dal conto
 addons-button = Extensiuns & designs
+account-button = Parameters dal conto
+open-addons-sidebar-button = Supplements e designs
 
 ## OS Authentication dialog
 
@@ -165,6 +168,12 @@ customize-alert-label =
 tray-icon-label =
     .label = Mussar ina icona en il tray
     .accesskey = t
+biff-use-system-alert =
+    .label = Utilisar las notificaziuns dal sistem
+tray-icon-unread-label =
+    .label = Mussar ina icona en la zona da notificaziuns per ils messadis nunlegids
+    .accesskey = t
+tray-icon-unread-description = Recumandà sche buttuns pitschens vegnan utilisads en la trav da las applicaziuns
 mail-system-sound-label =
     .label = Tun predefinì dal sistem per novs e-mails
     .accesskey = T
@@ -317,6 +326,8 @@ quoted-text-color =
     .accesskey = C
 search-input =
     .placeholder = Tschertgar
+search-handler-table =
+    .placeholder = Filtrar tips da cuntegn ed acziuns
 type-column-label =
     .label = Tip da datoteca
     .accesskey = T
@@ -702,6 +713,17 @@ search-input-box =
             [windows] Tschertgar en las preferenzas
            *[other] Tschertgar en las preferenzas
         }
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-preferences-input =
+    .style = width: 15.4em
+    .placeholder = Tschertgar en las preferenzas
 
 ## Preferences UI Search Results
 

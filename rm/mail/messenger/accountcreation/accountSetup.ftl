@@ -129,9 +129,34 @@ account-setup-exchange-title = Server
 account-setup-credentials-incomplete = L'autentificaziun n'è betg reussida. U che las infurmaziuns d'annunzia endatadas n'èn betg correctas u ch'in num d'utilisader separà è necessari per s'annunziar. Quest num d'utilisader correspunda normalmain a quel da l'annunzia a la domena Windows cun u senza la domena (per exempel martincantieni u AD\\martincantieni).
 account-setup-credentials-wrong = L'autentificaziun n'è betg reussida. Controllescha per plaschair il num d'utilisader ed il pled-clav.
 account-setup-find-settings-failed = { -brand-short-name } n'ha betg chattà la configuraziun per tes conto dad e-mail
+account-setup-exchange-config-unverifiable = I n'è betg reussì da verifitgar la configuraziun. Sche tes num d'utilisader ed il pled-clav èn corrects, èsi probabel che l'administratur dal server ha deactivà la configuraziun tschernida per tes conto. Emprova da tscherner in auter protocol.
 
 ## Manual config area
 
+account-setup-manual-config-title = Parameters dal server
+account-setup-incoming-protocol-label = Protocol per posta che entra
+protocol-imap-option = { account-setup-result-imap }
+protocol-pop-option = { account-setup-result-pop }
+account-setup-outgoing-protocol-label = Protocol per posta che sorta
+outgoing-protocol = SMTP
+account-setup-incoming-server-label = Server d'entrada
+account-setup-outgoing-server-label = Server da sortida
+account-setup-incoming-port-label = Port d'entrada
+account-setup-outoing-port-label = Port da sortida
+account-setup-incoming-ssl-label = SSL entrada
+account-setup-outgoing-ssl-label = SSL sortida
+ssl-autodetect-option = Determinaziun automatica
+ssl-noencryption-option = Nagina
+ssl-starttls-option = STARTTLS
+ssl-tls-option = SSL/TLS
+account-setup-incoming-auth-label = Autentificaziun entrada
+account-setup-outgoing-auth-label = Autentificaziun sortida
+account-setup-incoming-username-label = Num d'utilisader entrada
+account-setup-outgoing-username-label = Num d'utilisader sortida
+account-setup-advanced-setup-button = Configuraziun avanzada
+    .accesskey = a
 
 ## Warning insecure server
 
+account-setup-insecure-server-checkbox = Jau chapesch las ristgas
+    .accesskey = c

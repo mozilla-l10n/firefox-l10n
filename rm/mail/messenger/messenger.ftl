@@ -2,7 +2,20 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+# $count (Number) - Number of unread messages.
+unread-messages-os-tooltip =
+    { $count ->
+        [one] 1 messadi nunlegì
+       *[other] { $count } messadis nunlegids
+    }
 about-rights-notification-text = { -brand-short-name } è in program gratuit ed open-source, realisà dad ina communitad da millis persunas da tut il mund.
+
+## Toolbar
+
+addons-and-themes-button =
+    .label = Supplements e designs
+    .tooltip = Administrescha tes supplements
 
 ## Folder Pane
 
@@ -36,3 +49,35 @@ show-recent-folders-label =
 folder-toolbar-toggle-folder-compact-view =
     .label = Vista cumpacta
     .accesskey = c
+
+## AppMenu
+
+# Since v89 we dropped the platforms distinction between Options or Preferences
+# and consolidated everything with Preferences.
+appmenu-preferences =
+    .label = Preferenzas
+appmenu-addons-and-themes =
+    .label = Supplements e designs
+appmenu-help-enter-troubleshoot-mode =
+    .label = Modus per schliar problems…
+appmenu-help-exit-troubleshoot-mode =
+    .label = Deactivar il modus per schliar problems
+appmenu-help-more-troubleshooting-info =
+    .label = Dapli infurmaziuns per schliar problems
+
+## Action Button Context Menu
+
+toolbar-context-menu-manage-extension =
+    .label = Administrar l'extensiun
+    .accesskey = e
+toolbar-context-menu-remove-extension =
+    .label = Allontanar l'extensiun
+    .accesskey = x
+
+## Add-on removal warning
+
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = Allontanar { $name }?
+addon-removal-confirmation-button = Allontanar
+addon-removal-confirmation-message = Allontanar { $name } sco era sia configuraziun e sias datas da { -brand-short-name }?
