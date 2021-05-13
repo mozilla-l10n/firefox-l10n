@@ -209,9 +209,9 @@ addon-updates-update-addons-automatically = Automaticky aktualizovať doplnky
 ## extensions-updates-update-addons-automatically.label menu item).
 
 addon-updates-reset-updates-to-automatic = Nastaviť všetky doplnky na automatické aktualizovanie
-    .accesskey = s
+    .accesskey = e
 addon-updates-reset-updates-to-manual = Nastaviť všetky doplnky na manuálne aktualizovanie
-    .accesskey = s
+    .accesskey = e
 
 ## Status messages displayed when updating add-ons
 
@@ -233,7 +233,7 @@ addon-open-about-debugging = Ladiť doplnky
 
 # This is displayed in the page options menu
 addon-manage-extensions-shortcuts = Spravovať klávesové skratky pre rozšírenia
-    .accesskey = n
+    .accesskey = S
 shortcuts-no-addons = Nemáte povolené žiadne rozšírenie.
 shortcuts-no-commands = Nasledujúce rozšírenia nemajú skratky:
 shortcuts-input =
