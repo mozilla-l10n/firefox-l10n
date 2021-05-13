@@ -1018,6 +1018,7 @@ enhanced-tracking-protection-setting-custom =
 content-blocking-etp-standard-desc = Equiliber tranter protecziun e prestaziun. Paginas chargian normal.
 content-blocking-etp-strict-desc = Ina protecziun pli severa, ma po avair per consequenza che tschertas websites u tscherts cuntegns na funcziuneschan betg pli.
 content-blocking-etp-custom-desc = Tscherna ils fastizaders ed ils scripts che duain vegnir bloccads.
+content-blocking-etp-blocking-desc = { -brand-short-name } blochescha il suandant:
 content-blocking-private-windows = Cuntegn che fastizescha en fanestras privatas
 content-blocking-cross-site-cookies = Cookies interpaginals
 content-blocking-cross-site-cookies-in-all-windows = Cookies interpaginals en tut las fanestras (inclus cookies che fastizeschan)
@@ -1142,6 +1143,8 @@ collection-backlogged-crash-reports =
     .label = Permetter a { -brand-short-name } da trametter automaticamain rapports da collaps anc betg tramess
     .accesskey = c
 collection-backlogged-crash-reports-link = Ulteriuras infurmaziuns
+collection-backlogged-crash-reports-with-link = Permetter a { -brand-short-name } da trametter tes rapports da collaps che spetgan <a data-l10n-name="crash-reports-link">Ulteriuras infurmaziuns</a>
+    .accesskey = c
 
 ## Privacy Section - Security
 ##
