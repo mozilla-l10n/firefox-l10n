@@ -58,6 +58,12 @@ account-setup-button-manual-config = Configure manually
     .accesskey = m
 account-setup-button-stop = Stop
     .accesskey = S
+account-setup-button-retest = Re-test
+    .accesskey = t
+account-setup-button-continue = Continue
+    .accesskey = C
+account-setup-button-done = Done
+    .accesskey = D
 
 ## Notifications
 
@@ -106,12 +112,51 @@ account-setup-protocol-title = Select the protocol
 # Note: IMAP is the name of a protocol.
 account-setup-result-imap = IMAP
 account-setup-result-imap-description = Keep your folders and emails synced on your server
+# Note: POP3 is the name of a protocol.
+account-setup-result-pop = POP3
+account-setup-result-pop-description = Keep your folders and emails on your computer
+# Note: Exchange is the name of a product.
+account-setup-result-exchange = Exchange
+account-setup-result-exchange-description = Microsoft Exchange Server
+account-setup-incoming-title = Incoming
+account-setup-outgoing-title = Outgoing
+account-setup-username-title = Username
+account-setup-exchange-title = Server
 
 ## Error messages
 
+# Note: The reference to "janedoe" (Jane Doe) is the name of an example person. You will want to translate it to whatever example persons would be named in your language. In the example, AD is the name of the Windows domain, and this should usually not be translated.
+account-setup-credentials-incomplete = Authentication failed. Either the entered credentials are incorrect or a separate username is required for logging in. This username is usually your Windows domain login with or without the domain (for example, janedoe or AD\\janedoe)
+account-setup-credentials-wrong = Authentication failed. Please check the username and password
+account-setup-find-settings-failed = { -brand-short-name } failed to find the settings for your email account
+account-setup-exchange-config-unverifiable = Configuration could not be verified. If your username and password are correct, it’s likely that the server administrator has disabled the selected configuration for your account. Try selecting another protocol.
 
 ## Manual config area
 
+account-setup-manual-config-title = Server settings
+account-setup-incoming-protocol-label = Incoming Protocol
+protocol-imap-option = { account-setup-result-imap }
+protocol-pop-option = { account-setup-result-pop }
+account-setup-outgoing-protocol-label = Outgoing Protocol
+outgoing-protocol = SMTP
+account-setup-incoming-server-label = Incoming Server
+account-setup-outgoing-server-label = Outgoing Server
+account-setup-incoming-port-label = Incoming Port
+account-setup-outoing-port-label = Outgoing Port
+account-setup-incoming-ssl-label = Incoming SSL
+account-setup-outgoing-ssl-label = Outgoing SSL
+ssl-autodetect-option = Autodetect
+ssl-noencryption-option = None
+ssl-starttls-option = STARTTLS
+ssl-tls-option = SSL/TLS
+account-setup-incoming-auth-label = Incoming Authentication
+account-setup-outgoing-auth-label = Outgoing Authentication
+account-setup-incoming-username-label = Incoming Username
+account-setup-outgoing-username-label = Outgoing Username
+account-setup-advanced-setup-button = Advanced config
+    .accesskey = A
 
 ## Warning insecure server
 
+account-setup-insecure-server-checkbox = I understand the risks
+    .accesskey = u
