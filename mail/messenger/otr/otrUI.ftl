@@ -67,6 +67,7 @@ verify-title = Identitu wašogo kontakta pśespytowaś
 error-title = Zmólka
 success-title = Koděrowanje wót kóńca do kóńca
 successThem-title = Identitu wašogo kontakta pśespytowaś
+success-them-title = Identitu wašogo kontakta pśeglědowaś
 fail-title = Pśespytanje njejo móžne
 waiting-title = Wokšuśeńske napšašowanje jo se pósłało
 # Do not translate 'OTR' (name of an encryption protocol)
