@@ -21,3 +21,4 @@ newsletter-email-placeholder =
 newsletter-privacy-label = Mi sta ben la gjestion di Mozilla des mês informazions, come spiegât in cheste <a data-l10n-name="privacy-policy">Politiche di riservatece</a>.
 newsletter-subscribe-button = Sotscrîf
 newsletter-thanks-title = Gracie!
+newsletter-thanks-message = Al podarès jessi necessari confermâ une sotscrizion se no tu sês za iscrit a un boletin di Mozilla. Controle se tu âs une nestre e-mail te tô casele di pueste o il filtri pes e-mail malvoludis.
