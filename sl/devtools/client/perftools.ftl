@@ -30,6 +30,7 @@ perftools-devtools-settings-label = Nastavitve
 
 ##
 
+perftools-button-start-recording = Začni snemati
 perftools-button-add-directory = Dodaj imenik
 perftools-button-remove-directory = Odstrani izbrane
 perftools-button-edit-settings = Uredi nastavitve …
@@ -38,4 +39,9 @@ perftools-button-edit-settings = Uredi nastavitve …
 
 
 ##
+
+
+## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
+## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
+## preferences are true.
 

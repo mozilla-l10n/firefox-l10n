@@ -16,6 +16,9 @@ upgrade-dialog-new-primary-default-button = Nastavi { -brand-short-name } kot pr
 upgrade-dialog-new-primary-pin-button = Pripni { -brand-short-name } v opravilno vrstico
 upgrade-dialog-new-primary-theme-button = Izberite temo
 upgrade-dialog-new-secondary-button = Ne zdaj
+# This string is only shown on Windows 7, where we intentionally suppress the
+# theme selection screen.
+upgrade-dialog-new-primary-win7-button = Razumem!
 
 ## Theme selection screen
 
@@ -23,5 +26,7 @@ upgrade-dialog-theme-light = Svetla
     .title = Uporabi svetlo temo za gumbe, menije in okna
 upgrade-dialog-theme-dark = Temna
     .title = Uporabi temno temo za gumbe, menije in okna
+upgrade-dialog-theme-keep = Obdrži dosedanjo
+    .title = Uporabi temo, nameščeno pred posodobitvijo { -brand-short-name(sklon: "rodilnik") }
 upgrade-dialog-theme-primary-button = Shrani temo
 upgrade-dialog-theme-secondary-button = Ne zdaj

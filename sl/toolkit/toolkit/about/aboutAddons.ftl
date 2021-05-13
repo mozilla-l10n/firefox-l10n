@@ -10,6 +10,7 @@ search-header =
     .searchbuttonlabel = Išči
 search-header-shortcut =
     .key = f
+list-empty-get-extensions-message = Odkrijte razširitve in teme na <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-installed =
     .value = Nimate nameščenega nobenega dodatka te vrste.
 list-empty-available-updates =
