@@ -9,3 +9,6 @@ enable-inspect-element-message = Esamine e modifiche l'HTML e il CSS cul ispetô
 enable-about-debugging-message = Svilupe e fâs il debug di WebExtensions, web workers, service workers e altri cui struments di svilup di Firefox.
 enable-key-shortcut-message = Tu âs ativât une scurte dai struments di disvilup. Se tu lu âs fat par erôr, tu puedis sierâ cheste schede.
 enable-menu-message = Perfezione l'HTML, il CSS e il codiç JavaScript dal to sît web cun struments come l'ispetôr e i struments pal debug.
+enable-common-message = I struments  di svilup di Firefox a son disativâts come impostazion predefinide, par dâti plui control sul to navigadôr.
+enable-learn-more-link = Plui informazions sui struments di svilup
+enable-enable-button = Ative i struments di svilup
