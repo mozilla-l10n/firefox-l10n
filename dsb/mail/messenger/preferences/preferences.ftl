@@ -12,6 +12,7 @@ preferences-title =
         }
 preferences-tab-title =
     .title = Nastajenja
+preferences-doc-title = Nastajenja
 category-list =
     .aria-label = Kategorije
 pane-general-title = Powšykne
@@ -90,8 +91,8 @@ update-in-progress-ok-button = &Zachyśiś
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Dalej
-account-button = Kontowe nastajenja
 addons-button = Rozšyrjenja a drastwy
+account-button = Kontowe nastajenja
 open-addons-sidebar-button = Dodanki a drastwy
 
 ## OS Authentication dialog
