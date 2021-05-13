@@ -15,7 +15,7 @@ about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = Dâts Telemetry
 about-telemetry-more-information = Âstu bisugne di plui informazions?
-about-telemetry-firefox-data-doc = La <a data-l10n-name="data-doc-link">documentazion dai dâts di Firefox</a>a inclût vuidis sul funzionament dai nestris imprescj dai dâts dimostratîfs.
+about-telemetry-firefox-data-doc = La <a data-l10n-name="data-doc-link">documentazion dai dâts di Firefox</a> e inclût vuidis su cemût lavorâ cui nestris imprescj pe gjestion dai dâts.
 about-telemetry-telemetry-client-doc = La <a data-l10n-name="client-doc-link">documentazion dal client di Firefox Telemetry</a> a inclût definizions di concets, documentazion API e referencis di dâts.
 about-telemetry-telemetry-dashboard = Cui <a data-l10n-name="dashboard-link">panei di Telemetry</a> al e pussibil visualizâ i dâts di Mozilla ricevûts cun Telemetry.
 about-telemetry-show-in-Firefox-json-viewer = Vierç in tal visôr JSON
