@@ -5,18 +5,16 @@
 otr-finger =
     .buttonlabelaccept = Serrar
     .title = Improntas OTR gia visas pli baud
-
 finger-intro = Improntas da clavs OTR dad anteriuras conversaziuns criptadas da fin-a-fin
-
 finger-screenName =
+    .label = Contact
+finger-screen-name =
     .label = Contact
 finger-verified =
     .label = Status da verificaziun
 finger-fingerprint =
     .label = Impronta
-
 finger-remove =
     .label = Stizzar ils elements tschernids
-
 finger-remove-all =
     .label = Stizzar tut

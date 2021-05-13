@@ -48,6 +48,7 @@ auth-how = Co vuls ti verifitgar l'identitad da tes contact?
 auth-qaInstruction = Pensa ad ina dumonda che mo ti e tes contact pudais respunder. Endatescha la dumonda e la resposta, spetga lura enfin che tes contact ha endatà la resposta. Sche las respostas na correspundan betg, vegn il chanal da communicaziun che vus utilisais eventualmain surveglià.
 auth-secretInstruction = Pensa ad in secret che mo ti e tes contact enconuschais. N'utilisescha betg la medema connexiun d'internet per discurrer davart il secret. Endatescha il secret e spetga lura enfin che tes contact al ha endatà. Sch'ils secrets na correspundan betg, vegn il chanal da communicaziun che vus utilisais eventualmain surveglià.
 auth-qa-instruction = Pensa ad ina dumonda che mo ti e tes contact pudais respunder. Endatescha la dumonda e la resposta, spetga lura enfin che tes contact ha endatà la resposta. Sche las respostas na correspundan betg, vegn il chanal da communicaziun che vus utilisais eventualmain surveglià.
+auth-secret-instruction = Pensa ad in secret che mo ti e tes contact enconuschais. N'utilisescha betg la medema connexiun d'internet per discurrer davart il secret. Endatescha il secret e spetga lura enfin che tes contact al ha endatà. Sch'ils secrets na correspundan betg, vegn il chanal da communicaziun che vus utilisais eventualmain surveglià.
 auth-question = Endatescha ina dumonda:
 auth-answer = Endatescha la resposta (cun resguardar maiusclas/minusclas):
 auth-secret = Endatescha il secret:
