@@ -15,7 +15,6 @@
 <!ENTITY helpTroubleshootingInfo.accesskey "c">
 <!ENTITY helpSafeMode.label     "Reštartovať a zakázať doplnky…">
 <!ENTITY helpSafeMode.accesskey "R">
-
 <!ENTITY helpSafeMode.stop.label     "Reštartovať s povolenými doplnkami">
 <!ENTITY helpSafeMode.stop.accesskey "R">
 <!ENTITY productHelp.label "Pomocník aplikácie &brandShortName;">
@@ -31,10 +30,10 @@
 <!ENTITY helpFeedbackPage.accesskey "O">
 
 <!ENTITY helpShowTour2.label "Prehliadka aplikácie &brandShorterName;">
-<!ENTITY helpShowTour2.accesskey "a">
+<!ENTITY helpShowTour2.accesskey "h">
 
 <!ENTITY helpGetInvolvedPage.label "Zapojte sa">
 <!ENTITY helpGetInvolvedPage.accesskey "Z">
 
-<!ENTITY helpDonationsPage.label "Prispejte">
-<!ENTITY helpDonationsPage.accesskey "P">
+<!ENTITY helpDonationsPage.label "Darovať príspevok">
+<!ENTITY helpDonationsPage.accesskey "D">
