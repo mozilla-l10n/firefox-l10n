@@ -44,7 +44,7 @@ chooser-window =
 chooser-dialog =
     .buttonlabelaccept = Otevřít odkaz
     .buttonaccesskeyaccept = O
-chooser-dialog-description = Vyberte aplikaci pr otevírání odkazů typu { $scheme }.
+chooser-dialog-description = Vyberte aplikaci pro otevírání odkazů typu { $scheme }.
 # Please keep the emphasis around the scheme (ie the `<strong>` HTML tags).
 chooser-dialog-remember = Pro otevírání odkazů typu <strong>{ $scheme }</strong> vždy používat tuto aplikaci
 chooser-dialog-remember-extra =
