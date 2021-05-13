@@ -97,6 +97,7 @@ account-setup-step3-image =
     .title = Konfiguracija je so namakała
 account-setup-step4-image =
     .title = Zwiskowy zmylk
+account-setup-privacy-footnote = Waše přizjewjenske daty so po našich <a data-l10n-name="privacy-policy-link">prawidłach priwatnosće</a> wužiwaja a składuja so jenož lokalnje na wašim ličaku.
 account-setup-selection-help = Njejsće sej wěsty, štož maće wubrać?
 account-setup-selection-error = Trjebaće pomoc?
 account-setup-documentation-help = Konfiguraciska dokumentacija
@@ -107,8 +108,10 @@ account-setup-forum-help = Forum pomocy
 account-setup-protocol-title = Protokol wubraś
 # Note: IMAP is the name of a protocol.
 account-setup-result-imap = IMAP
+account-setup-result-imap-description = Dźeržće swoje rjadowaki a e-mejle na swojim serwerje synchrone
 # Note: POP3 is the name of a protocol.
 account-setup-result-pop = POP3
+account-setup-result-pop-description = Wobchowajće swoje rjadowaki a e-mejle na swojim ličaku
 # Note: Exchange is the name of a product.
 account-setup-result-exchange = Exchange
 account-setup-result-exchange-description = Serwer Microsoft Exchange
