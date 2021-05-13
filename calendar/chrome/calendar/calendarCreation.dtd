@@ -6,7 +6,7 @@
 <!ENTITY wizard.label             "Luo uusi kalenteri" >
 <!ENTITY wizard.description       "Määritä kalenterin sijainti" >
 
-<!ENTITY initialpage.description    "Kalenterin voi tallentaa joko tälle tietokoneelle tai palvelimelle, jolloin sitä voi lukea verkon yli. Voit myös jakaa jonkin kalenterin ystäviesi tai työtovereidesi kanssa." >
+<!ENTITY initialpage.description    "Kalenterin voi tallentaa joko tälle tietokoneelle tai palvelimelle, jolloin sitä voi käyttää verkossa. Voit myös jakaa jonkin kalenterin ystäviesi tai työtovereidesi kanssa." >
 <!ENTITY initialpage.computer.label  "Tällä tietokoneella">
 <!ENTITY initialpage.network.label  "Verkossa">
 
