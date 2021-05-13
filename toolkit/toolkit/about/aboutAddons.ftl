@@ -35,9 +35,9 @@ sidebar-preferences-button-title =
             [windows] Možnosti aplikácie { -brand-short-name }
            *[other] Možnosti aplikácie { -brand-short-name }
         }
-addons-settings-button = Nastavenia aplikácie { -brand-short-name }
+addons-settings-button = Nastavenia { -brand-short-name(case: "gen") }
 sidebar-settings-button-title =
-    .title = Nastavenia aplikácie { -brand-short-name }
+    .title = Nastavenia { -brand-short-name(case: "gen") }
 show-unsigned-extensions-button =
     .label = Niektoré rozšírenia nemohli byť overené
 show-all-extensions-button =
