@@ -23,6 +23,9 @@ upgrade-dialog-new-primary-default-button = Ορισμός { -brand-short-name }
 upgrade-dialog-new-primary-pin-button = Καρφίτσωμα { -brand-short-name } στη γραμμή εργασιών
 upgrade-dialog-new-primary-theme-button = Επιλογή θέματος
 upgrade-dialog-new-secondary-button = Όχι τώρα
+# This string is only shown on Windows 7, where we intentionally suppress the
+# theme selection screen.
+upgrade-dialog-new-primary-win7-button = Εντάξει, το κατάλαβα!
 
 ## Theme selection screen
 

@@ -21,6 +21,7 @@ experimental-features-media-avif-description = Με αυτή τη λειτουρ
 # by various online articles and is technical in nature.
 experimental-features-media-jxl =
     .label = Πολυμέσα: JPEG XL
+experimental-features-media-jxl-description = Με την ενεργοποίηση αυτής της λειτουργίας, το { -brand-short-name } υποστηρίζει τη μορφή JPEG XL (JXL). Πρόκειται για μια βελτιωμένη μορφή αρχείων εικόνας που υποστηρίζει τη μετάβαση από τα παραδοσιακά αρχεία JPEG χωρίς απώλειες. Δείτε το <a data-l10n-name="bugzilla">σφάλμα 1539075</a> για περισσότερες λεπτομέρειες.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
