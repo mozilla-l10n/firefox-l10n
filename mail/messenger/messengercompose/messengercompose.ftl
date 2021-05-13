@@ -117,3 +117,11 @@ move-attachment-last-panel-button =
 button-return-receipt =
     .label = Retschavida
     .tooltiptext = Dumandar ina conferma da retschavida per quest messadi
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+consider-bcc-notification = Ils { $count } destinaturs en ils champs A e CC vesan l'adressa in da l'auter. Ti pos zuppentar destinaturs cun utilisar Bcc.
+many-public-recipients-bcc =
+    .label = Utilisar Bcc
+    .accesskey = U
+many-public-recipients-ignore =
+    .label = Mantegnair visibel ils destinaturs
+    .accesskey = M
