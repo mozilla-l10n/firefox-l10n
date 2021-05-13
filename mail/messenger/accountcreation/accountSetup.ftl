@@ -7,6 +7,9 @@ account-setup-tab-title = Konfigurowanje konta
 ## Header
 
 account-setup-title = Nastajće swoju eksistowacu e-mejlowu adresu
+account-setup-description =
+    Zo byšće swoju aktualnu e-mejlowu adresu wužiwał, zapodajće swoje přizjewjenske daty.<br/>
+    { -brand-product-name } budźe awtomatisce za fungowacej a doporučenej serwerowej konfiguraciju pytać.
 
 ## Form fields
 
