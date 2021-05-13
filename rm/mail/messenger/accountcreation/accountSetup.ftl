@@ -128,6 +128,7 @@ account-setup-exchange-title = Server
 # Note: The reference to "janedoe" (Jane Doe) is the name of an example person. You will want to translate it to whatever example persons would be named in your language. In the example, AD is the name of the Windows domain, and this should usually not be translated.
 account-setup-credentials-incomplete = L'autentificaziun n'è betg reussida. U che las infurmaziuns d'annunzia endatadas n'èn betg correctas u ch'in num d'utilisader separà è necessari per s'annunziar. Quest num d'utilisader correspunda normalmain a quel da l'annunzia a la domena Windows cun u senza la domena (per exempel martincantieni u AD\\martincantieni).
 account-setup-credentials-wrong = L'autentificaziun n'è betg reussida. Controllescha per plaschair il num d'utilisader ed il pled-clav.
+account-setup-find-settings-failed = { -brand-short-name } n'ha betg chattà la configuraziun per tes conto dad e-mail
 
 ## Manual config area
 
