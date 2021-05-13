@@ -19,6 +19,10 @@ experimental-features-media-avif =
 experimental-features-media-avif-description = Quand aquesta foncionalitat es activada, { -brand-short-name } prend en carga lo format AV1 Image File (AVIF). Aqueste format de fichièr d’imatge fixe utiliza las capacitats dels algoritmes de compression vidèo AV1 per reduire la talha de l’imatge. Consultatz aqueste <a data-l10n-name="bugzilla">bug 1443863</a> per mai de detalhs.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
+experimental-features-media-jxl =
+    .label = Mèdia : JPEG XL
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
     .label = Web API : inputmode
 # "inputmode" and "contenteditable" are technical terms and shouldn't be translated.
