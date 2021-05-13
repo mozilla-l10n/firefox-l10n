@@ -84,9 +84,19 @@ account-setup-success-addon = Dodank jo se wuspěšnje zainstalěrował
 account-setup-success-settings-db = Konfiguracija jo se namakała w datowej bance Mozilla ISP.
 account-setup-success-settings-disk = Konfigurcija jo se namakała pśi instalěrowanju { -brand-short-name }.
 account-setup-success-settings-isp = Konfiguracija jo se namakała pśi e-mailowem póbitowarju.
+# Note: Microsoft Exchange is a product name.
+account-setup-success-settings-exchange = Konfiguracija jo se namakała za serwer Microsoft Exchange.
 
 ## Illustrations
 
+account-setup-step1-image =
+    .title = Zachopna konfiguracija
+account-setup-step2-image =
+    .title = Zacytujo se…
+account-setup-step3-image =
+    .title = Konfiguracija jo se namakała
+account-setup-step4-image =
+    .title = Zwiskowa zmólka
 
 ## Results area
 
