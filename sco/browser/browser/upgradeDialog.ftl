@@ -23,6 +23,9 @@ upgrade-dialog-new-primary-default-button = Mak { -brand-short-name } ma staunar
 upgrade-dialog-new-primary-pin-button = Peen { -brand-short-name } tae ma taskbaur
 upgrade-dialog-new-primary-theme-button = Wale a theme
 upgrade-dialog-new-secondary-button = No jist noo
+# This string is only shown on Windows 7, where we intentionally suppress the
+# theme selection screen.
+upgrade-dialog-new-primary-win7-button = Awricht, got ye!
 
 ## Theme selection screen
 

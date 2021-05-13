@@ -1018,6 +1018,7 @@ enhanced-tracking-protection-setting-custom =
 content-blocking-etp-standard-desc = Eeksie-peeksie atween bieldin and performance. Pages will load as ordinar.
 content-blocking-etp-strict-desc = Mair bieldin, but micht gar some sites or content tae brek.
 content-blocking-etp-custom-desc = Wale whit trackers and scripts tae block.
+content-blocking-etp-blocking-desc = { -brand-short-name } blocks the follaein:
 content-blocking-private-windows = Trackin content in Preevat Windaes
 content-blocking-cross-site-cookies = Cross-site cookies
 content-blocking-cross-site-cookies-in-all-windows = Cross-site cookies in aw windaes (includes trackin cookies)
@@ -1142,6 +1143,8 @@ collection-backlogged-crash-reports =
     .label = Alloo { -brand-short-name } tae send backlogged crash reports on yer behauf
     .accesskey = c
 collection-backlogged-crash-reports-link = Lairn mair
+collection-backlogged-crash-reports-with-link = Alloo { -brand-short-name } tae send backlogged crash reports on yer behauf <a data-l10n-name="crash-reports-link">Lairn mair</a>
+    .accesskey = c
 
 ## Privacy Section - Security
 ##
