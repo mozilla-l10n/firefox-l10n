@@ -88,7 +88,7 @@ account-setup-success-settings-db = Konfiguracija w datowej bance Mozilla ISP na
 account-setup-success-settings-disk = Konfiguracija na instalaciji { -brand-short-name } namakana
 account-setup-success-settings-isp = Konfiguracija při e-mejlowym poskićowarju namakana.
 # Note: Microsoft Exchange is a product name.
-account-setup-success-settings-exchange = Konfiguracija je so za serwer Microsoft Exchange namakał.
+account-setup-success-settings-exchange = Konfiguracija je so za serwer Microsoft Exchange namakała.
 
 ## Illustrations
 
