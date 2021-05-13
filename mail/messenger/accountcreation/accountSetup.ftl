@@ -150,6 +150,13 @@ ssl-noencryption-option = None
 ssl-starttls-option = STARTTLS
 ssl-tls-option = SSL/TLS
 account-setup-incoming-auth-label = Incoming Authentication
+account-setup-outgoing-auth-label = Outgoing Authentication
+account-setup-incoming-username-label = Incoming Username
+account-setup-outgoing-username-label = Outgoing Username
+account-setup-advanced-setup-button = Advanced config
+    .accesskey = A
 
 ## Warning insecure server
 
+account-setup-insecure-server-checkbox = I understand the risks
+    .accesskey = u
