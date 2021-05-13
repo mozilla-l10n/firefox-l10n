@@ -7,6 +7,9 @@ account-setup-tab-title = Konfigurěrowanje konta
 ## Header
 
 account-setup-title = Nastajśo swóju eksistěrujucu e-mailowu adresu
+account-setup-description =
+    Aby swóju aktualnu e-mailowu adresu wužywał, zapódajśo swóje pśizjawjeńske daty.<br/>
+    { -brand-product-name } buźo awtomatiski za funkcioněrujuceju a dopóruconeju serweroweju konfiguraciju pytaś.
 
 ## Form fields
 
@@ -97,15 +100,43 @@ account-setup-step3-image =
     .title = Konfiguracija jo se namakała
 account-setup-step4-image =
     .title = Zwiskowa zmólka
+account-setup-privacy-footnote = Waše pśizjawjeńske daty se pó našych <a data-l10n-name="privacy-policy-link">pšawidłach priwatnosći</a> wužywaju a składuju se jano lokalnje na wašom licadle.
+account-setup-selection-help = Njejsćo se wěsty, což maśo wubraś?
+account-setup-selection-error = Trjebaśo pomoc?
+account-setup-documentation-help = Konfiguraciska dokumentacija
+account-setup-forum-help = Forum pomocy
 
 ## Results area
 
+account-setup-protocol-title = Protokol wubraś
+# Note: IMAP is the name of a protocol.
+account-setup-result-imap = IMAP
+account-setup-result-imap-description = Źaržćo swóje zarědniki a mejlki na swójom serwerje synchrone
+# Note: POP3 is the name of a protocol.
+account-setup-result-pop = POP3
+account-setup-result-pop-description = Wobchowajśo swóje zastojniki a mejlki na swójom licadle
+# Note: Exchange is the name of a product.
+account-setup-result-exchange = Exchange
+account-setup-result-exchange-description = Serwer Microsoft Exchange
+account-setup-incoming-title = Dochadajuce
+account-setup-outgoing-title = Wuchadajuce
+account-setup-username-title = Wužywarske mě
+account-setup-exchange-title = Serwer
 
 ## Error messages
 
+# Note: The reference to "janedoe" (Jane Doe) is the name of an example person. You will want to translate it to whatever example persons would be named in your language. In the example, AD is the name of the Windows domain, and this should usually not be translated.
+account-setup-credentials-incomplete = Awtentifikacija njejo se raźiła. Pak zapódane pśizjawjeńske daty su wopacne pak pśidatne wužywaŕske mě jo trěbne za pśizjawjenje. Toś to wužywaŕske mě jo zwětšego pśizjawjenje Windowsoweje domeny z domenu abo bźez domeny (na pśikład jananjeznata abo AD\\jananjeznata).
+account-setup-credentials-wrong = Awtentifikacija njejo se raźiła. Pšosym pśeglědajśo wužywaŕske mě a gronidło
+account-setup-find-settings-failed = { -brand-short-name } njejo mógał nastajenja za wašo e-mailowe konto namakaś.
+account-setup-exchange-config-unverifiable = Konfiguracija njedajo se pśeglědowaś. Jolic wašo wužywaŕske mě a wašo gronidło stej korektnej, jo nejskerjej serwerowy adminsitrator wubranu konfiguraciju za wašo konto znjemóžnił. Wubjeŕśo drugi protokol.
 
 ## Manual config area
 
+account-setup-manual-config-title = Serwerowe nastajenja
+account-setup-incoming-protocol-label = Dochadowy protokol
+protocol-imap-option = { account-setup-result-imap }
+protocol-pop-option = { account-setup-result-pop }
 
 ## Warning insecure server
 
