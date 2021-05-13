@@ -9,15 +9,35 @@ account-setup-tab-title = Ρύθμιση λογαριασμού
 
 ## Form fields
 
+account-setup-name-label = Το ονοματεπώνυμό σας
+    .accesskey = ο
+# Note: "John Doe" is a multiple-use name that is used when the true name of a person is unknown. We use this fake name as an input placeholder. Translators should update this to reflect the placeholder name of their language/country.
+account-setup-name-input =
+    .placeholder = Ονοματεπώνυμο
 account-setup-name-warning-icon =
     .title = { account-setup-name-warning }
 account-setup-email-label = Διεύθυνση email
     .accesskey = Δ
+account-setup-email-input =
+    .placeholder = onomateponimo@example.com
 account-setup-email-warning-icon =
     .title = { account-setup-email-warning }
+account-setup-password-label = Κωδικός πρόσβασης
+    .accesskey = Κ
+    .title = Προαιρετικό, θα χρησιμοποιηθεί μόνο για την επαλήθευση του ονόματος χρήστη
+account-provisioner-button = Απόκτηση νέας διεύθυνσης email
+    .accesskey = Α
+account-setup-remember-password = Απομνημόνευση κωδικού πρόσβασης
+    .accesskey = Α
+account-setup-exchange-label = Η σύνδεσή σας
+    .accesskey = σ
 
 ## Action buttons
 
+account-setup-button-cancel = Ακύρωση
+    .accesskey = Α
+account-setup-button-stop = Διακοπή
+    .accesskey = Δ
 account-setup-button-continue = Συνέχεια
     .accesskey = Σ
 account-setup-button-done = Τέλος
@@ -25,6 +45,7 @@ account-setup-button-done = Τέλος
 
 ## Notifications
 
+account-setup-looking-up-settings = Αναζήτηση ρυθμίσεων παραμέτρων…
 
 ## Illustrations
 
@@ -34,6 +55,9 @@ account-setup-step2-image =
     .title = Φόρτωση…
 account-setup-step4-image =
     .title = Σφάλμα σύνδεσης
+account-setup-selection-error = Χρειάζεστε βοήθεια;
+account-setup-documentation-help = Τεκμηρίωση ρύθμισης
+account-setup-forum-help = Φόρουμ υποστήριξης
 
 ## Results area
 
