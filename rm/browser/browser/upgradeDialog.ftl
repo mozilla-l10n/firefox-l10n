@@ -23,6 +23,9 @@ upgrade-dialog-new-primary-default-button = Definir { -brand-short-name } sco me
 upgrade-dialog-new-primary-pin-button = Fixar { -brand-short-name } en la taskbar
 upgrade-dialog-new-primary-theme-button = Tscherner in design
 upgrade-dialog-new-secondary-button = Betg ussa
+# This string is only shown on Windows 7, where we intentionally suppress the
+# theme selection screen.
+upgrade-dialog-new-primary-win7-button = OK, chapì!
 
 ## Theme selection screen
 

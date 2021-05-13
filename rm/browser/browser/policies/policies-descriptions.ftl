@@ -15,6 +15,7 @@ policy-AllowedDomainsForApps = Definescha las domenas che dastgan acceder a Goog
 policy-AppAutoUpdate = Activar u deactivar l'actualisaziun automatica da l'applicaziun.
 policy-AppUpdateURL = Definir ina URL dad actualisaziun persunalisada per l'applicaziun.
 policy-Authentication = Configurar l'autentificaziun integrada per websites che la sustegnan.
+policy-AutoLaunchProtocolsFromOrigins = Definescha ina glista da protocols externs che pon vegnir utilisads da funtaunas inditgadas senza dumandar l'utilisader.
 policy-BackgroundAppUpdate2 = Activar u deactivar las actualisaziuns davos las culissas.
 policy-BlockAboutAddons = Bloccar l'access a l'administraziun da supplements (about:addons).
 policy-BlockAboutConfig = Bloccar l'access a la pagina about:config.
