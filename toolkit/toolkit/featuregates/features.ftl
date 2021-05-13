@@ -19,6 +19,11 @@ experimental-features-media-avif =
 experimental-features-media-avif-description = Lorsque cette fonctionnalité est activée, { -brand-short-name } prend en charge le format AV1 Image File (AVIF). Ce format de fichier d’image fixe exploite les capacités des algorithmes de compression vidéo AV1 pour réduire la taille de l’image. Consultez <a data-l10n-name="bugzilla">bug 1443863</a> pour plus de détails.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
+experimental-features-media-jxl =
+    .label = Multimédia : JPEG XL
+experimental-features-media-jxl-description = Lorsque cette fonctionnalité est activée, { -brand-short-name } prend en charge le format JPEG XL (JXL). Il s’agit d’un format de fichier image amélioré qui prend en charge la transition sans perte à partir des fichiers JPEG traditionnels. Voir le <a data-l10n-name="bugzilla">bug 1539075</a> pour plus de détails.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
     .label = API web : inputmode
 # "inputmode" and "contenteditable" are technical terms and shouldn't be translated.
