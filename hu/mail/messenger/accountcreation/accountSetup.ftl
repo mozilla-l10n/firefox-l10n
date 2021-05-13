@@ -6,6 +6,7 @@ account-setup-tab-title = Fiók beállítása
 
 ## Header
 
+account-setup-title = Meglévő e-mail fiók beállítása
 
 ## Form fields
 
@@ -73,6 +74,13 @@ account-setup-looking-up-mx = Konfiguráció keresése: Bejövő e-mail domain�
 account-setup-looking-up-exchange = Konfiguráció keresése: Exchange kiszolgáló…
 account-setup-checking-password = Jelszó ellenőrzése…
 account-setup-installing-addon = Kiegészítő letöltése és telepítése…
+account-setup-success-guess-offline = Kapcsolat nélküli üzemmódban van. Néhány beállítást kitaláltunk, de meg kell adnia a helyes beállításokat.
+account-setup-success-password = Jelszó rendben
+account-setup-success-addon = A kiegészítő telepítése sikeresen megtörtént
+# Note: Do not translate or replace Mozilla. It stands for the public project mozilla.org, not Mozilla Corporation. The database is a generic, public domain facility usable by any client.
+account-setup-success-settings-db = A konfiguráció megtalálható a Mozilla ISP adatbázisában.
+account-setup-success-settings-disk = A konfiguráció megtalálható a { -brand-short-name } telepítésben.
+account-setup-success-settings-isp = A konfiguráció megtalálható az e-mail-szolgáltatónál.
 
 ## Illustrations
 
