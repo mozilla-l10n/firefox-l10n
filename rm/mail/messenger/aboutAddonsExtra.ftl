@@ -4,3 +4,6 @@
 
 add-on-options-button =
     .title = Opziuns dals supplements
+atn-addons-heading-search-input =
+    .placeholder = Tschertgar sin addons.thunderbird.net
+sidebar-preferences-button-title = Preferenzas da { -brand-short-name }
