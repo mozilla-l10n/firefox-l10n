@@ -116,6 +116,9 @@ error-enc = Pśi koděrowanju powěsći jo zmólka nastała.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 error-not_priv = Sćo pósłał { $name } skoděrowane daty, kótarež wón njejo wótcakał.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+error-not-priv = Sćo pósłał { $name } skoděrowane daty, kótarež wón njejo wótcakał.
 error-unreadable = Sćo pósrědnił njecytajobnu skoděrowanu powěsć.
 error-malformed = Sćo pósrědnił powěsć z wobškóźonymi datami.
 resent = [znowego pósłany]
