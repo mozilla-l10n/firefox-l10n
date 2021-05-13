@@ -36,6 +36,8 @@ account-setup-exchange-label = Η σύνδεσή σας
 
 account-setup-button-cancel = Ακύρωση
     .accesskey = Α
+account-setup-button-manual-config = Χειροκίνητη ρύθμιση
+    .accesskey = ρ
 account-setup-button-stop = Διακοπή
     .accesskey = Δ
 account-setup-button-continue = Συνέχεια
@@ -86,6 +88,8 @@ account-setup-outoing-port-label = Θύρα εξερχομένων
 ssl-autodetect-option = Αυτόματος εντοπισμός
 ssl-starttls-option = STARTTLS
 ssl-tls-option = SSL/TLS
+account-setup-advanced-setup-button = Σύνθετη διαμόρφωση
+    .accesskey = Σ
 
 ## Warning insecure server
 
