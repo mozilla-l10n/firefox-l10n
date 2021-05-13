@@ -73,10 +73,52 @@ msgevent-msg-reflected = Ti retschaivas tes agens messadis OTR. U che ti emprova
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-msg-resent = L'ultim messadi a { $name } è vegnì tramess anc ina giada.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg-not-private = Il messadi criptà retschavì da { $name } n'è betg legibel perquai che vus na communitgais betg a moda privata.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg-unreadable = Ti has retschavì in messadi criptà betg legibel da { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg-malformed = Ti has retschavì in messadi da datas nunvalid da { $name }.
+# A Heartbeat is a technical message used to keep a connection alive.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-log-heartbeat-rcvd = Retschavì in messadi da battacor da { $name }.
+# A Heartbeat is a technical message used to keep a connection alive.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-log-heartbeat-sent = Tramess in messadi da battacor a { $name }.
+# Do not translate 'OTR' (name of an encryption protocol)
+msgevent-rcvdmsg-general-err = Ina errur nunspetgada è succedida durant l'emprova da proteger tia conversaziun cun agid dad OTR.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+#   $msg (string) - the message that was received.
+msgevent-rcvdmsg-unencrypted = Il suandant messadi retschavì da { $name } n'è betg vegnì criptà: { $msg }
+# Do not translate 'OTR' (name of an encryption protocol)
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg-unrecognized = Ti has retschavì in messadi OTR betg reconuschì da { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg-for-other-instance = { $name } ha tramess in messadi destinà ad in'autra sesida. Sche ti es annunzià pliras giadas, èsi pussaivel che in'autra sesida ha retschavì il messadi.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-gone-secure-private = Ina conversaziun privata cun { $name } ha cumenzà.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-gone-secure-unverified = Ina conversaziun criptada, ma betg verifitgada cun { $name } ha cumenzà.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-still-secure = Actualisà cun success la conversaziun criptada cun { $name }.
 error-enc = Ina errur è succedida durant criptar il messadi.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 error-not_priv = Ti has tramess datas criptadas a { $name } che n'ha betg spetgà in messadi criptà.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+error-not-priv = Ti has tramess datas criptadas a { $name } che n'ha betg las spetgà.
 error-unreadable = Ti has tramess in messadi criptà illegibel.
 error-malformed = Ti has tramess in messadi da datas nunvalid.
 resent = [reenvià]
