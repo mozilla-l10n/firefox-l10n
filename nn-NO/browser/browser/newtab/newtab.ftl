@@ -11,6 +11,8 @@ newtab-settings-button =
 newtab-personalize-button-label = Tilpass
     .title = Tilpass ny fane-side
     .aria-label = Tilpass ny fane-side
+newtab-personalize-dialog-label =
+    .aria-label = Tilpass
 
 ## Search box component.
 
