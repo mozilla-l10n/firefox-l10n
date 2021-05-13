@@ -24,13 +24,13 @@ menu-addons-and-themes =
 
 menu-help-enter-troubleshoot-mode =
     .label = Režim riešenia problémov…
-    .accesskey = p
+    .accesskey = R
 menu-help-exit-troubleshoot-mode =
     .label = Vypnúť režim riešenia problémov
     .accesskey = V
 menu-help-more-troubleshooting-info =
     .label = Ďalšie informácie pre riešenie problémov
-    .accesskey = i
+    .accesskey = a
 
 ## Mail Toolbar
 
