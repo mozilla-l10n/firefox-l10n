@@ -109,10 +109,16 @@ context-gone-secure-private = Cychwynnodd sgwrs breifat gyda { $name }.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 context-gone-secure-unverified = Cychwynnodd sgwrs breifat heb ei gwirio gyda { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-still-secure = Adnewyddwyd y sgwrs wedi'i hamgryptio yn llwyddiannus gyda { $name }.
 error-enc = Digwyddodd gwall wrth amgryptio'r neges.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 error-not_priv = Rydych wedi anfon data wedi'i amgryptio at { $name }, nad oedd yn ei ddisgwyl.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+error-not-priv = Rydych wedi anfon data wedi'i amgryptio at { $name }, nad oedd yn ei ddisgwyl.
 error-unreadable = Rydych wedi trosglwyddo neges annarllenadwy wedi'i hamgryptio.
 error-malformed = Rydych wedi trosglwyddo neges ddata wedi'i hanffurfio.
 resent = [ail anfon]
