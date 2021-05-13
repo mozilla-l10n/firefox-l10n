@@ -305,3 +305,38 @@ mr1-onboarding-theme-tooltip-system =
     .title =
         Va daûr dal teme dal sisteme operatîf
         pai botons, i menù e i barcons.
+# Input description for system theme
+mr1-onboarding-theme-description-system =
+    .aria-description =
+        Va daûr dal teme dal sisteme operatîf
+        pai botons, i menù e i barcons.
+# Tooltip displayed on hover of light theme
+mr1-onboarding-theme-tooltip-light =
+    .title =
+        Dopre un teme clâr pai botons,
+        i menù e i barcons.
+# Input description for light theme
+mr1-onboarding-theme-description-light =
+    .aria-description =
+        Dopre un teme clâr pai botons,
+        i menù e i barcons.
+# Tooltip displayed on hover of dark theme
+mr1-onboarding-theme-tooltip-dark =
+    .title =
+        Dopre un teme scûr pai botons,
+        i menù e i barcons.
+# Input description for dark theme
+mr1-onboarding-theme-description-dark =
+    .aria-description =
+        Dopre un teme scûr pai botons,
+        i menù e i barcons.
+# Tooltip displayed on hover of Alpenglow theme
+mr1-onboarding-theme-tooltip-alpenglow =
+    .title =
+        Dopre un colorât e dinamic pai botons,
+        i menù e i barcons.
+# Input description for Alpenglow theme
+mr1-onboarding-theme-description-alpenglow =
+    .aria-description =
+        Dopre un colorât e dinamic pai botons,
+        i menù e i barcons.
