@@ -11,6 +11,8 @@ newtab-settings-button =
 newtab-personalize-button-label = Personalise
     .title = Personalise new tab
     .aria-label = Personalise new tab
+newtab-personalize-dialog-label =
+    .aria-label = Personalise
 
 ## Search box component.
 
