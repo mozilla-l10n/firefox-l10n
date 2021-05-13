@@ -277,9 +277,31 @@ mr1-onboarding-set-default-secondary-button-label = No cumò
 mr1-onboarding-sign-in-button-label = Jentre
 mr1-onboarding-import-header = Puartiti daûr dut
 mr1-onboarding-import-subtitle = Impuarte passwords, <br/>segnelibris e ancjemò altri.
+# The primary import button label will depend on whether we can detect which browser was used to download Firefox.
+# Variables:
+#   $previous (Str) - Previous browser name, such as Edge, Chrome
+mr1-onboarding-import-primary-button-label-attribution = Impuarte di { $previous }
+# This string will be used in cases where we can't detect the previous browser name.
+mr1-onboarding-import-primary-button-label-no-attribution = Impuarte dal navigadôr precedent
+mr1-onboarding-import-secondary-button-label = No cumò
+mr1-onboarding-theme-header = Adatilu al tô stîl
+mr1-onboarding-theme-subtitle = Personalize { -brand-short-name } cuntun teme.
+mr1-onboarding-theme-primary-button-label = Salve il teme
+mr1-onboarding-theme-secondary-button-label = No cumò
+# System theme uses operating system color settings
+mr1-onboarding-theme-label-system = Teme di sisteme
+mr1-onboarding-theme-label-light = Clâr
+mr1-onboarding-theme-label-dark = Scûr
+# "Alpenglow" here is the name of the theme, and should be kept in English.
+mr1-onboarding-theme-label-alpenglow = Alpenglow
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of system theme
+mr1-onboarding-theme-tooltip-system =
+    .title =
+        Va daûr dal teme dal sisteme operatîf
+        pai botons, i menù e i barcons.
