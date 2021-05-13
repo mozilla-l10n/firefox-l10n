@@ -267,6 +267,7 @@ onboarding-multistage-theme-description-alpenglow =
 # Firefox to pursue those passions, as well as the boldness in their
 # choice to use Firefox over a larger competitor browser.
 # An alternative title for localization is: "It starts here".
+# This text can be formatted to span multiple lines as needed.
 mr1-welcome-screen-hero-text = Det byrjar her
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Slå av animasjonar
@@ -277,6 +278,7 @@ mr1-onboarding-set-default-only-primary-button-label = Vel { -brand-short-name }
 mr1-onboarding-set-default-secondary-button-label = Ikkje no
 mr1-onboarding-sign-in-button-label = Logg inn
 mr1-onboarding-import-header = Ta med deg alt
+mr1-onboarding-import-subtitle = Importer passorda dine, <br/>bokmerke og meir.
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
