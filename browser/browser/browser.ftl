@@ -251,6 +251,14 @@ search-one-offs-context-set-as-default-private =
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
+# Shown when adding new engines from the address bar shortcut buttons or context
+# menu, or from the search bar shortcut buttons.
+# Variables:
+#  $engineName (String): The name of the engine.
+search-one-offs-add-engine =
+    .label = Dodaj »{ $engineName }«
+    .tooltiptext = Dodaj iskalnik »{ $engineName }«
+    .aria-label = Dodaj iskalnik »{ $engineName }«
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -312,6 +320,7 @@ identity-header-security-with-host =
     .title = Varnost povezave za { $host }
 identity-connection-not-secure = Povezava ni varna
 identity-connection-secure = Povezava varna
+identity-connection-failure = Napaka pri povezovanju
 identity-connection-internal = To je varna stran { -brand-short-name(sklon: "rodilnik") }.
 identity-connection-file = Ta stran je shranjena na vašem računalniku.
 identity-extension-page = To stran je naložila razširitev.

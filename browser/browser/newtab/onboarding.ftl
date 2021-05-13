@@ -262,6 +262,7 @@ mr1-onboarding-reduce-motion-button-label = Izklopi animacije
 mr1-onboarding-welcome-header = Dobrodošli v { -brand-short-name(sklon: "mestnik") }
 mr1-onboarding-set-default-pin-primary-button-label = Nastavi { -brand-short-name } kot moj glavni brskalnik
     .title = Nastavi { -brand-short-name } kot privzeti brskalnik in ga pripni v opravilno vrstico
+mr1-onboarding-set-default-only-primary-button-label = Nastavi { -brand-short-name } kot privzet brskalnik
 mr1-onboarding-set-default-secondary-button-label = Ne zdaj
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
@@ -276,6 +277,8 @@ mr1-onboarding-theme-secondary-button-label = Ne zdaj
 mr1-onboarding-theme-label-system = Sistemska tema
 mr1-onboarding-theme-label-light = Svetla
 mr1-onboarding-theme-label-dark = Temna
+# "Alpenglow" here is the name of the theme, and should be kept in English.
+mr1-onboarding-theme-label-alpenglow = Alpenglow
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
