@@ -156,3 +156,5 @@ account-setup-advanced-setup-button = Configuration avancée
 
 ## Warning insecure server
 
+account-setup-insecure-server-checkbox = Je comprends les risques
+    .accesskey = u
