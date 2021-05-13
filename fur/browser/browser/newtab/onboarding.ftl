@@ -200,7 +200,6 @@ onboarding-welcome-steps-indicator =
 # automatically added to the text inside it. "look" should stay inside the span.
 onboarding-multistage-theme-header = Sielç un <span data-l10n-name="zap">aspiet</span>
 onboarding-multistage-theme-subtitle = Personalize { -brand-short-name } cuntun teme.
-onboarding-multistage-theme-primary-button-label = Salve il teme
 onboarding-multistage-theme-primary-button-label2 = Fat
 onboarding-multistage-theme-secondary-button-label = No cumò
 # Automatic theme uses operating system color settings
@@ -255,3 +254,32 @@ onboarding-multistage-theme-description-alpenglow =
     .aria-description =
         Dopre un aspiet incolorît pai botons,
         pai menù e pai barcons.
+
+## Multistage MR1 onboarding strings (MR1 about:welcome pages)
+
+# "Hero Text" displayed on left side of welcome screen.
+# The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
+# It also signals the passion users bring to Firefox, how they use
+# Firefox to pursue those passions, as well as the boldness in their
+# choice to use Firefox over a larger competitor browser.
+# An alternative title for localization is: "It starts here".
+# This text can be formatted to span multiple lines as needed.
+mr1-welcome-screen-hero-text =
+    Scomencìn
+    di chi
+# This button will open system settings to turn on prefers-reduced-motion
+mr1-onboarding-reduce-motion-button-label = Disative lis animazions
+mr1-onboarding-welcome-header = Benvignûts su { -brand-short-name }
+mr1-onboarding-set-default-pin-primary-button-label = Rint { -brand-short-name } il gno navigadôr primari
+    .title = Stabilìs { -brand-short-name } come navigadôr predefinît e fissilu te sbare des aplicazions
+mr1-onboarding-set-default-only-primary-button-label = Rint { -brand-short-name } il gno navigadôr predefinît
+mr1-onboarding-set-default-secondary-button-label = No cumò
+mr1-onboarding-sign-in-button-label = Jentre
+mr1-onboarding-import-header = Puartiti daûr dut
+mr1-onboarding-import-subtitle = Impuarte passwords, <br/>segnelibris e ancjemò altri.
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
