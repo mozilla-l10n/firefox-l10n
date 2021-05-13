@@ -37,3 +37,18 @@ features-network-desc = Ten monitorât lis richiestis di rêt che a puedin fâ l
 features-storage-title = Archiviazion
 features-storage-desc = Zonte, modifiche e gjave i dâts di cache, cookies, basis di dâts e session. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-responsive-title = Modalitât di dissen adatabil
+features-responsive-desc = Prove i sîts su dispositîfs emulâts tal navigadôr. <a data-l10n-name="learn-more">{ features-learn-more }</a>
+features-visual-editing-title = Modifiche visuâl
+features-visual-editing-desc = Perfezione lis animazions, l'inlineament e i margjins. <a data-l10n-name="learn-more">{ features-learn-more }</a>
+features-performance-title = Prestazions
+features-performance-desc = Sbloche lis gossis, semplifiche i procès, otimize lis risorsis. <a data-l10n-name="learn-more">{ features-learn-more }</a>
+features-memory-title = Memorie
+features-memory-desc = Cjate lis pierditis di memorie e met un tic di snait aes aplicazions. <a data-l10n-name="learn-more">{ features-learn-more }</a>
+# Variables:
+#   $errorDescription (String) - The error that occurred e.g. 404 - Not Found
+newsletter-error-common = La richieste di sotscrizion no je lade a bon fin ({ $errorDescription }).
+newsletter-error-unknown = Al è vignût fûr un erôr inspietât.
+newsletter-error-timeout = Richieste di sotscrizion scjadude.
+# Variables:
+#   $shortcut (String) - The keyboard shortcut used for the tool
+welcome-message = Tu âs ativât cun sucès i struments di svilup! Par scomençâ, esplore il menù “Svilupadôr web” o vierç i struments cun { $shortcut }.
