@@ -137,6 +137,26 @@ account-setup-manual-config-title = Serwerowe nastajenja
 account-setup-incoming-protocol-label = Dochadowy protokol
 protocol-imap-option = { account-setup-result-imap }
 protocol-pop-option = { account-setup-result-pop }
+account-setup-outgoing-protocol-label = Wuchadny protokol
+outgoing-protocol = SMTP
+account-setup-incoming-server-label = Dochadowy serwer
+account-setup-outgoing-server-label = Wuchadny serwer
+account-setup-incoming-port-label = Dochadny port
+account-setup-outoing-port-label = Wuchadny port
+account-setup-incoming-ssl-label = Dochadny SSL
+account-setup-outgoing-ssl-label = Wuchadny SSL
+ssl-autodetect-option = Awtomatiski namakaś
+ssl-noencryption-option = Žedno
+ssl-starttls-option = STARTTLS
+ssl-tls-option = SSL/TLS
+account-setup-incoming-auth-label = Dochadna awtentifikacija
+account-setup-outgoing-auth-label = Wuchadna awtentifikacija
+account-setup-incoming-username-label = Dochadne wužywaŕske mě
+account-setup-outgoing-username-label = Wuchadne wužywaŕske mě
+account-setup-advanced-setup-button = Rozšyrjona konfiguracija
+    .accesskey = R
 
 ## Warning insecure server
 
+account-setup-insecure-server-checkbox = Rozmějom rizika
+    .accesskey = R
