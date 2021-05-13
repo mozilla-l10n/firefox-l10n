@@ -114,12 +114,45 @@ account-setup-result-imap = IMAP
 account-setup-result-imap-description = Gardez vos dossiers et messages synchronisés sur votre serveur
 # Note: POP3 is the name of a protocol.
 account-setup-result-pop = POP3
+account-setup-result-pop-description = Conservez vos dossiers et messages sur votre ordinateur
+# Note: Exchange is the name of a product.
+account-setup-result-exchange = Exchange
+account-setup-result-exchange-description = Serveur Microsoft Exchange
+account-setup-incoming-title = Entrant
+account-setup-outgoing-title = Sortant
+account-setup-username-title = Nom d’utilisateur
+account-setup-exchange-title = Serveur
 
 ## Error messages
 
+account-setup-credentials-wrong = Échec de l’authentification. Veuillez vérifier le nom d’utilisateur et le mot de passe
+account-setup-find-settings-failed = { -brand-short-name } n’a pas trouvé les paramètres de votre compte de messagerie
+account-setup-exchange-config-unverifiable = La configuration n’a pas pu être vérifiée. Si votre nom d’utilisateur et votre mot de passe sont corrects, il est probable que l’administrateur du serveur a désactivé la configuration sélectionnée pour votre compte. Essayez de sélectionner un autre protocole.
 
 ## Manual config area
 
+account-setup-manual-config-title = Paramètres du serveur
+account-setup-incoming-protocol-label = Protocole de réception
+protocol-imap-option = { account-setup-result-imap }
+protocol-pop-option = { account-setup-result-pop }
+account-setup-outgoing-protocol-label = Protocole d’envoi
+outgoing-protocol = SMTP
+account-setup-incoming-server-label = Serveur de réception
+account-setup-outgoing-server-label = Serveur d’envoi
+account-setup-incoming-port-label = Port entrant
+account-setup-outoing-port-label = Port sortant
+account-setup-incoming-ssl-label = SSL entrant
+account-setup-outgoing-ssl-label = SSL sortant
+ssl-autodetect-option = Autodétection
+ssl-noencryption-option = Aucun
+ssl-starttls-option = STARTTLS
+ssl-tls-option = SSL/TLS
+account-setup-incoming-auth-label = Authentification entrante
+account-setup-outgoing-auth-label = Authentification sortante
+account-setup-incoming-username-label = Nom d’utilisateur entrant
+account-setup-outgoing-username-label = Nom d’utilisateur sortant
+account-setup-advanced-setup-button = Configuration avancée
+    .accesskey = a
 
 ## Warning insecure server
 
