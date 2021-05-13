@@ -22,3 +22,18 @@ newsletter-privacy-label = Mi sta ben la gjestion di Mozilla des mês informazio
 newsletter-subscribe-button = Sotscrîf
 newsletter-thanks-title = Gracie!
 newsletter-thanks-message = Al podarès jessi necessari confermâ une sotscrizion se no tu sês za iscrit a un boletin di Mozilla. Controle se tu âs une nestre e-mail te tô casele di pueste o il filtri pes e-mail malvoludis.
+footer-title = Firefox Developer Edition
+footer-message = Ciristu alc di plui rispiet ai struments di svilup? Bute un voli al navigadôr Firefox compilât di pueste pai svilupadôrs e i flus di lavôr modernis.
+footer-learn-more-link = Plui informazions
+features-learn-more = Plui informazions
+features-inspector-title = Ispetôr
+features-inspector-desc = Ispezione e perfezione il codiç par fâ sù disposizions cun precisions a nivel di pixel. <a data-l10n-name="learn-more">{ features-learn-more }</a>
+features-console-title = Console
+features-console-desc = Ten di voli i problemis relatîfs a CSS, JavaScript, sigurece e rêt. <a data-l10n-name="learn-more">{ features-learn-more }</a>
+features-debugger-title = Strument pal debug
+features-debugger-desc = Un potent strument pal debug di JavaScript cun supuart pes infrastruturis di lavôr plui popolârs. <a data-l10n-name="learn-more">{ features-learn-more }</a>
+features-network-title = Rêt
+features-network-desc = Ten monitorât lis richiestis di rêt che a puedin fâ lâ plui planc o blocâ un sît. <a data-l10n-name="learn-more">{ features-learn-more }</a>
+features-storage-title = Archiviazion
+features-storage-desc = Zonte, modifiche e gjave i dâts di cache, cookies, basis di dâts e session. <a data-l10n-name="learn-more">{ features-learn-more }</a>
+features-responsive-title = Modalitât di dissen adatabil
