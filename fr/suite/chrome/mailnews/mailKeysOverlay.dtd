@@ -6,6 +6,10 @@
 <!ENTITY markAsReadCmd.accesskey "l">
 <!ENTITY markAsReadCmd.key       "m">
 
+<!ENTITY markAsUnreadCmd.label     "Comme non lu">
+<!ENTITY markAsUnreadCmd.accesskey "u">
+<!ENTITY markAsUnreadCmd.key       "m">
+
 <!ENTITY markFlaggedCmd.label     "Comme coché">
 <!ENTITY markFlaggedCmd.accesskey "c">
 <!ENTITY markFlaggedCmd.key       "i">
