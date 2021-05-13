@@ -12,7 +12,7 @@
 upgrade-dialog-new-title = Découvrez votre nouveau { -brand-short-name }
 upgrade-dialog-new-subtitle = Conçu pour vous amener où vous voulez, encore plus vite
 upgrade-dialog-new-item-menu-title = Barres d’outils et menus simplifiés
-upgrade-dialog-new-item-menu-description = Donnez la priorité aux choses importantes pour trouver ce dont vous avez besoin.
+upgrade-dialog-new-item-menu-description = Donnent la priorité aux choses importantes pour trouver ce dont vous avez besoin.
 upgrade-dialog-new-item-tabs-title = Onglets modernes
 upgrade-dialog-new-item-tabs-description = Présentent les informations avec soin en renforçant la concentration et la fluidité des mouvements.
 upgrade-dialog-new-item-icons-title = Nouvelles icônes et messages plus précis
