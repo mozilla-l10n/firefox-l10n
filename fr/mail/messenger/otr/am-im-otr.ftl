@@ -17,12 +17,15 @@ otr-log =
     .label = Inclure les messages chiffrés OTR dans les historiques de conversation
 otr-requireEncryption =
     .label = Exiger un chiffrement de bout en bout pour les conversations en tête-à-tête
+otr-require-encryption =
+    .label = Exiger un chiffrement de bout en bout pour les conversations en tête-à-tête
 otr-require-encryption-info =
     Lorsque vous demandez le chiffrement de bout en bout, les messages dans les conversations individuelles
     ne seront envoyés que s’ils peuvent être chiffrés. Les messages reçus non chiffrés ne s’afficheront pas 
     dans le cadre de la conversation normale et ne seront pas non plus enregistrés.
 otr-verifyNudge =
     .label = Toujours me rappeler de vérifier un contact non vérifié
-
 otr-notYetAvailable = pas encore disponible
-
+otr-verify-nudge =
+    .label = Toujours me rappeler de vérifier un contact non vérifié
+otr-not-yet-available = pas encore disponible
