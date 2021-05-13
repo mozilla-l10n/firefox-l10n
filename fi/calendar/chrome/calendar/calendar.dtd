@@ -9,8 +9,6 @@
 <!ENTITY calendar.newevent.button.tooltip         "Luo uusi tapahtuma" >
 <!ENTITY calendar.newtask.button.tooltip          "Luo uusi tehtävä" >
 
-<!ENTITY calendar.unifinder.todoitems.label       "Tehtävät" >
-
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Näytä suoritetut tehtävät">
 
 <!ENTITY calendar.today.button.label          "Tänään">
@@ -268,7 +266,7 @@
 <!ENTITY calendar.context.newserver.accesskey          "n">
 <!ENTITY calendar.context.findcalendar.label           "Etsi kalenteri…" >
 <!ENTITY calendar.context.findcalendar.accesskey       "E" >
-<!ENTITY calendar.context.deleteserver2.label          "Tyhjennä kalenteri…">
+<!ENTITY calendar.context.deleteserver2.label          "Poista kalenteri…">
 <!ENTITY calendar.context.deleteserver2.accesskey      "T">
 
 <!-- LOCALIZATION NOTE (calendar.context.removeserver.label): Removing the
@@ -355,7 +353,6 @@
 <!ENTITY calendarproperties.color.label                    "Väri:">
 <!ENTITY calendarproperties.webdav.label                   "iCalendar (ICS)">
 <!ENTITY calendarproperties.caldav.label                   "CalDAV">
-<!ENTITY calendarproperties.wcap.label                     "Sun Java System Calendar Server (WCAP)">
 <!ENTITY calendarproperties.format.label                   "Formaatti:">
 <!ENTITY calendarproperties.location.label                 "Sijainti:">
 <!ENTITY calendarproperties.refreshInterval.label          "Päivitä kalenteri:">
@@ -364,7 +361,6 @@
 <!ENTITY calendarproperties.readonly.label                 "Vain luku">
 <!ENTITY calendarproperties.firealarms.label               "Näytä muistutukset">
 <!ENTITY calendarproperties.cache3.label                   "Yhteydettömän tilan tuki">
-<!ENTITY calendarproperties.enabled.label                  "Tämä kalenteri on aktiivinen">
 <!ENTITY calendarproperties.enabled2.label                 "Ota tämä kalenteri käyttöön">
 <!ENTITY calendarproperties.forceDisabled.label            "Tämän kalenterin tuottajaa ei löytynyt. Tämä tapahtuu usein tiettyjen lisäosien poistamisen tai käytöstä poistamisen jälkeen.">
 <!ENTITY calendarproperties.unsubscribe.label              "Peruuta tilaus">
