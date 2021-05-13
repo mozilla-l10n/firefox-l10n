@@ -4,6 +4,7 @@
 
 <!ENTITY emailWizard.title               "Nastavenie existujúcej e-mailovej adresy">
 <!ENTITY emailWizard.caption             "Použiť existujúcu e-mailovú adresu">
+
 <!ENTITY name.label                      "Vaše meno:">
 <!ENTITY name.accesskey                  "n">
 <!ENTITY fullname.placeholder            "Vaše celé meno">
@@ -24,7 +25,7 @@
 <!ENTITY usernameEx.label                "Vaše prihlasovacie meno:">
 <!ENTITY usernameEx.accesskey            "l">
 <!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
-<!ENTITY usernameEx.placeholder          "YOURDOMAIN\yourusername">
+<!ENTITY usernameEx.placeholder          "VAŠA_DOMÉNA\používateľské_meno">
 <!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
 <!ENTITY usernameEx.text                 "Prihlásenie k doméne">
 
@@ -59,6 +60,7 @@
 
 <!ENTITY advancedSetup.label             "Spresniť nastavenie">
 <!ENTITY advancedSetup.accesskey         "e">
+
 <!ENTITY cancel.label                    "Zrušiť">
 <!ENTITY cancel.accesskey                "Z">
 <!ENTITY continue.label                  "Pokračovať">
@@ -75,6 +77,7 @@
 <!ENTITY manual-config.accesskey         "m">
 <!ENTITY open-provisioner.label          "Získať novú e-mailovú adresu…">
 <!ENTITY open-provisioner.accesskey      "v">
+
 <!ENTITY get-help.label                  "Získať pomoc">
 <!ENTITY get-help.accesskey              "p">
 
