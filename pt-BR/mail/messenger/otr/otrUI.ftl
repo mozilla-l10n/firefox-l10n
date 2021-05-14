@@ -66,6 +66,7 @@ verify-title = Verifique a identidade do seu contato
 error-title = Erro
 success-title = Criptografia de ponta a ponta
 successThem-title = Verifique a identidade do seu contato
+success-them-title = Verificar a identidade do contato
 fail-title = Não foi possível verificar
 waiting-title = Pedido de verificação enviado
 # Do not translate 'OTR' (name of an encryption protocol)

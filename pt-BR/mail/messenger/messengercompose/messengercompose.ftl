@@ -122,10 +122,31 @@ button-return-receipt =
 
 to-compose-address-row-label =
     .value = Para
+#   $key (String) - the shortcut key for this field
+to-compose-show-address-row-menuitem =
+    .label = Campo { to-compose-address-row-label.value }
+    .accesskey = P
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+to-compose-show-address-row-label =
+    .value = { to-compose-address-row-label.value }
+    .tooltiptext = Exibir campo { to-compose-address-row-label.value } ({ to-compose-show-address-row-menuitem.acceltext })
 cc-compose-address-row-label =
     .value = Cc
+#   $key (String) - the shortcut key for this field
+cc-compose-show-address-row-menuitem =
+    .label = Campo { cc-compose-address-row-label.value }
+    .accesskey = C
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+cc-compose-show-address-row-label =
+    .value = { cc-compose-address-row-label.value }
+    .tooltiptext = Exibir campo { cc-compose-address-row-label.value } ({ cc-compose-show-address-row-menuitem.acceltext })
 bcc-compose-address-row-label =
     .value = Cco
+#   $key (String) - the shortcut key for this field
+bcc-compose-show-address-row-menuitem =
+    .label = Campo { bcc-compose-address-row-label.value }
+    .accesskey = o
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
 bcc-compose-show-address-row-label =
     .value = { bcc-compose-address-row-label.value }
     .tooltiptext = Exibir campo { bcc-compose-address-row-label.value } ({ bcc-compose-show-address-row-menuitem.acceltext })
