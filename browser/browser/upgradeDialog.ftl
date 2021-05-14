@@ -21,6 +21,7 @@ upgrade-dialog-new-primary-primary-button = Nastaviť { -brand-short-name } ako 
     .title = Nastaví { -brand-short-name } ako predvolený prehliadač a pripne ho na hlavný panel úloh
 upgrade-dialog-new-primary-default-button = Nastaviť { -brand-short-name } ako môj predvolený prehliadač
 upgrade-dialog-new-primary-pin-button = Pripnúť { -brand-short-name } na hlavný panel úloh
+upgrade-dialog-new-primary-pin-alt-button = Pripnúť na panel úloh
 upgrade-dialog-new-primary-theme-button = Vyberte si tému vzhľadu
 upgrade-dialog-new-secondary-button = Teraz nie
 # This string is only shown on Windows 7, where we intentionally suppress the

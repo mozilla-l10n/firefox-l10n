@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 window-minimize-command =
-    .label = Minimalizovať okno
+    .label = Minimalizovať
 window-zoom-command =
     .label = Zväčšiť okno
 window-new-shortcut =
