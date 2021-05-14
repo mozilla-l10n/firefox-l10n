@@ -28,7 +28,7 @@ about-processes-column-cpu-total = CPU
 ##    $type (String) The raw type for this process. Used for unknown processes.
 
 about-processes-browser-process-name = { -brand-short-name } (프로세스 { $pid })
-about-processes-web-process-name = 웹 (프로세스 { $pid }, 공유됨)
+about-processes-web-process-name = 웹 (프로세스 { $pid }, 공유)
 about-processes-web-isolated-process-name = { $origin }에 대한 웹 (프로세스 { $pid })
 about-processes-web-large-allocation = { $origin }에 대한 웹 (프로세스 { $pid }, 큼)
 about-processes-with-coop-coep-process-name = { $origin }에 대한 웹 (프로세스 { $pid }, 교차 원본 격리됨)
@@ -51,6 +51,20 @@ about-processes-unknown-process-name = 기타 ({ $type }, 프로세스 { $pid })
 #   $name (String) The name assigned to the process.
 #   $pid (String) The process id of this process, assigned by the OS.
 about-processes-process-name = 프로세스 { $pid }: { $name }
+
+## Process names
+## Variables:
+##    $pid (String) The process id of this process, assigned by the OS.
+
+about-processes-browser-process = { -brand-short-name } ({ $pid })
+about-processes-web-process = 공유 웹 프로세스 ({ $pid })
+about-processes-file-process = 파일 ({ $pid })
+
+## Isolated process names
+## Variables:
+##    $pid (String) The process id of this process, assigned by the OS.
+##    $origin (String) The domain name for this process.
+
 
 ## Details within processes
 
