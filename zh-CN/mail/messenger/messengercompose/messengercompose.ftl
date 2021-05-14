@@ -127,6 +127,11 @@ to-compose-show-address-row-label =
     .tooltiptext = 显示“{ to-compose-address-row-label.value }”栏（{ to-compose-show-address-row-menuitem.acceltext }）
 cc-compose-address-row-label =
     .value = 抄送
+#   $key (String) - the shortcut key for this field
+cc-compose-show-address-row-menuitem =
+    .label = “{ cc-compose-address-row-label.value }”栏
+    .accesskey = C
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
 cc-compose-show-address-row-label =
     .value = { cc-compose-address-row-label.value }
     .tooltiptext = 显示“{ cc-compose-address-row-label.value }”栏（{ cc-compose-show-address-row-menuitem.acceltext }）
