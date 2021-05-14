@@ -57,7 +57,10 @@ about-processes-process-name = Processús { $pid } : { $name }
 ##    $pid (String) The process id of this process, assigned by the OS.
 
 about-processes-browser-process = { -brand-short-name } ({ $pid })
+about-processes-file-process = Fichièrs ({ $pid })
 about-processes-extension-process = Extensions ({ $pid })
+about-processes-plugin-process = Extensions ({ $pid })
+about-processes-privilegedmozilla-process = { -vendor-short-name } sites ({ $pid })
 about-processes-socket-process = Ret ({ $pid })
 
 ## Isolated process names
