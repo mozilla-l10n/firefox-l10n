@@ -59,12 +59,31 @@ about-processes-process-name = 프로세스 { $pid }: { $name }
 about-processes-browser-process = { -brand-short-name } ({ $pid })
 about-processes-web-process = 공유 웹 프로세스 ({ $pid })
 about-processes-file-process = 파일 ({ $pid })
+about-processes-extension-process = 확장 기능 ({ $pid })
+about-processes-privilegedabout-process = 페이지 정보 ({ $pid })
+about-processes-plugin-process = 플러그인 ({ $pid })
+about-processes-privilegedmozilla-process = { -vendor-short-name } 사이트 ({ $pid })
+about-processes-gmp-plugin-process = Gecko 미디어 플러그인 ({ $pid })
+about-processes-gpu-process = GPU ({ $pid })
+about-processes-vr-process = VR ({ $pid })
+about-processes-rdd-process = 데이터 디코더 ({ $pid })
+about-processes-socket-process = 네트워크 ({ $pid })
+about-processes-remote-sandbox-broker-process = 원격 샌드박스 브로커 ({ $pid })
+about-processes-fork-server-process = 포크 서버 ({ $pid })
+about-processes-preallocated-process = 사전 할당 ({ $pid })
+# Unknown process names
+# Variables:
+#    $pid (String) The process id of this process, assigned by the OS.
+#    $type (String) The raw type for this process.
+about-processes-unknown-process = 기타: { $type } ({ $pid })
 
 ## Isolated process names
 ## Variables:
 ##    $pid (String) The process id of this process, assigned by the OS.
 ##    $origin (String) The domain name for this process.
 
+about-processes-web-isolated-process = { $origin } ({ $pid })
+about-processes-web-large-allocation-process = { $origin } ({ $pid }, 큼)
 
 ## Details within processes
 
