@@ -54,6 +54,7 @@ about-processes-process-name = מזהה תהליך { $pid }: { $name }
 ## Variables:
 ##    $pid (String) The process id of this process, assigned by the OS.
 
+about-processes-browser-process = { -brand-short-name } (‏{ $pid })
 about-processes-web-process = תהליך אינטרנט משותף ({ $pid })
 about-processes-file-process = קבצים ({ $pid })
 about-processes-extension-process = הרחבות ({ $pid })
@@ -66,12 +67,22 @@ about-processes-vr-process = מציאות מדומה ({ $pid })
 about-processes-rdd-process = מפענח נתונים ({ $pid })
 about-processes-socket-process = רשת ({ $pid })
 about-processes-remote-sandbox-broker-process = מתווך ארגז חול מרוחק ({ $pid })
+about-processes-preallocated-process = מוקצה מראש ({ $pid })
+# Unknown process names
+# Variables:
+#    $pid (String) The process id of this process, assigned by the OS.
+#    $type (String) The raw type for this process.
+about-processes-unknown-process = אחר: { $type } ‏({ $pid })
 
 ## Isolated process names
 ## Variables:
 ##    $pid (String) The process id of this process, assigned by the OS.
 ##    $origin (String) The domain name for this process.
 
+about-processes-web-isolated-process = { $origin } (‏{ $pid })
+about-processes-web-large-allocation-process = { $origin } (‏{ $pid }, גדול)
+about-processes-web-isolated-process-private = { $origin } — פרטי ({ $pid })
+about-processes-web-large-allocation-process-private = { $origin } — פרטי ({ $pid }, גדול)
 
 ## Details within processes
 
