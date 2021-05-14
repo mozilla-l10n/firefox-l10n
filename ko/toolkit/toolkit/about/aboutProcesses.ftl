@@ -85,6 +85,9 @@ about-processes-unknown-process = 기타: { $type } ({ $pid })
 about-processes-web-isolated-process = { $origin } ({ $pid })
 about-processes-web-large-allocation-process = { $origin } ({ $pid }, 큼)
 about-processes-with-coop-coep-process = { $origin } ({ $pid }, 교차 원본 격리됨)
+about-processes-web-isolated-process-private = { $origin } — 사생활 보호 ({ $pid })
+about-processes-web-large-allocation-process-private = { $origin } — 사생활 보호 ({ $pid }, 큼)
+about-processes-with-coop-coep-process-private = { $origin } — 사생활 보호 ({ $pid }, 교차 원본 격리됨)
 
 ## Details within processes
 
