@@ -129,6 +129,21 @@ move-attachment-last-panel-button =
 button-return-receipt =
     .label = Kwitowanka
     .tooltiptext = Kwitowanku za tutu powěsć požadać
+
+# Addressing Area
+
+to-compose-address-row-label =
+    .value = Komu
+#   $key (String) - the shortcut key for this field
+to-compose-show-address-row-menuitem =
+    .label = Polo { to-compose-address-row-label.value }
+    .accesskey = P
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+to-compose-show-address-row-label =
+    .value = { to-compose-address-row-label.value }
+    .tooltiptext = Polo { to-compose-address-row-label.value } pokazać ({ to-compose-show-address-row-menuitem.acceltext })
+cc-compose-address-row-label =
+    .value = Kopija
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 consider-bcc-notification = Přijimarjo w polomaj Komu a Kopija móža adresu druhich widźeć. Ličba: { $count }. Wužiwajće město toho polo Schowana kopija, zo byšće tomu zadźěwał, zo so přijimarjo přeradźuja.
 many-public-recipients-bcc =
