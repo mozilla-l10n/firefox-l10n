@@ -21,6 +21,7 @@ upgrade-dialog-new-primary-primary-button = Imposta { -brand-short-name } come b
     .title = Imposta { -brand-short-name } come browser predefinito e lo aggiunge alla barra delle applicazioni
 upgrade-dialog-new-primary-default-button = Imposta { -brand-short-name } come browser predefinito
 upgrade-dialog-new-primary-pin-button = Aggiungi { -brand-short-name } alla barra delle applicazioni
+upgrade-dialog-new-primary-pin-alt-button = Aggiunti alla barra delle applicazioni
 upgrade-dialog-new-primary-theme-button = Scegli un tema
 upgrade-dialog-new-secondary-button = Non adesso
 # This string is only shown on Windows 7, where we intentionally suppress the
