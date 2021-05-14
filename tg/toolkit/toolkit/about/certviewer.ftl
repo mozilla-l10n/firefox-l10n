@@ -9,6 +9,7 @@
 ## Certificate information labels
 
 certificate-viewer-location = Ҷойгиршавӣ
+certificate-viewer-fingerprints = Нақшҳои ангушт
 # This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Боргирӣ кардан

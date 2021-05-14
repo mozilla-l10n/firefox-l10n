@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+certmgr-detail-pretty-print-tab-title =
+    .label = Тафсилот
+    .accesskey = Т
+certmgr-fingerprints = Нақшҳои ангушт
+certmgr-cert-detail-sha-256-fingerprint = Нақши ангушти SHA-256
+certmgr-cert-detail-sha-1-fingerprint = Нақши ангушти SHA1
 certmgr-delete-cert =
     .title = Нест кардани гувоҳинома
     .style = width: 48em; height: 24em;

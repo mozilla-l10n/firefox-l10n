@@ -11,8 +11,17 @@
 upgrade-dialog-new-item-tabs-title = Варақаҳои ҳозиразамон
 upgrade-dialog-new-primary-theme-button = Мавзӯеро интихоб кунед
 upgrade-dialog-new-secondary-button = Ҳоло не
+# This string is only shown on Windows 7, where we intentionally suppress the
+# theme selection screen.
+upgrade-dialog-new-primary-win7-button = Хуб, фаҳмидам!
 
 ## Theme selection screen
 
+upgrade-dialog-theme-system = Мавзӯи низомӣ
+    .title = Истифодаи мавзӯи низоми амалкунанда барои тугмаҳо, менюҳо ва равзанаҳо
+upgrade-dialog-theme-light = Равшан
+    .title = Истифодаи мавзӯи равшан барои тугмаҳо, менюҳо ва равзанаҳо
+upgrade-dialog-theme-dark = Торик
+    .title = Истифодаи мавзӯи торик барои тугмаҳо, менюҳо ва равзанаҳо
 upgrade-dialog-theme-primary-button = Нигоҳ доштани мавзӯъ
 upgrade-dialog-theme-secondary-button = Ҳоло не

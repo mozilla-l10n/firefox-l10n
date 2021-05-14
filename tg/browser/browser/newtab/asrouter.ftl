@@ -124,11 +124,11 @@ cfr-whatsnew-permission-prompt-cta = Маълумоти бештар
 # localization, because it would result in the number showing twice.
 cfr-whatsnew-fingerprinter-counter-header =
     { $fingerprinterCount ->
-        [one] Хонандаи изи ангушти манъшуда
-       *[other] Хонандаи изи ангушти манъшуда
+        [one] Хонандаи нақши ангушти манъшуда
+       *[other] Хонандаи нақши ангушти манъшуда
     }
 # Message variation when fingerprinters count is less than 10
-cfr-whatsnew-fingerprinter-counter-header-alt = Хонандаи изи ангушт
+cfr-whatsnew-fingerprinter-counter-header-alt = Хонандаи нақши ангушт
 
 ## Bookmark Sync
 

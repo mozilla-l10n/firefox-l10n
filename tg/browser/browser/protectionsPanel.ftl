@@ -39,7 +39,7 @@ protections-panel-not-blocking-why-label = Чаро?
 protections-panel-content-blocking-tracking-protection = Муҳтавои пайгирикунанда
 protections-panel-content-blocking-socialblock = Васоити пайгирии шабакаҳои иҷтимоӣ
 protections-panel-content-blocking-cryptominers-label = Криптомайнерҳо
-protections-panel-content-blocking-fingerprinters-label = Хонандаи изи ангушт
+protections-panel-content-blocking-fingerprinters-label = Хонандаи нақши ангушт
 
 ## In the protections panel, Content Blocking category items are in three sections:
 ##   "Blocked" for categories being blocked in the current page,

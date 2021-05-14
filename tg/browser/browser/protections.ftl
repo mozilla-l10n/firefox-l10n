@@ -14,7 +14,7 @@ graph-today = Имрӯз
 social-tab-title = Васоити пайгирии шабакаҳои иҷтимоӣ
 cookie-tab-title = Кукиҳои васоити пайгирӣ байни сомонаҳо
 tracker-tab-title = Муҳтавои пайгирикунанда
-fingerprinter-tab-title = Хонандаи изи ангушт
+fingerprinter-tab-title = Хонандаи нақши ангушт
 cryptominer-tab-title = Криптомайнерҳо
 protections-close-button2 =
     .aria-label = Пӯшидан
@@ -66,11 +66,11 @@ bar-tooltip-tracker =
            *[other] { $count } муҳтавои пайгирикунанда ({ $percentage }%)
         }
 bar-tooltip-fingerprinter =
-    .title = Хонандаи изи ангушт
+    .title = Хонандаи нақши ангушт
     .aria-label =
         { $count ->
-            [one] { $count } хонандаи изи ангушт ({ $percentage }%)
-           *[other] { $count } хонандаи изи ангушт ({ $percentage }%)
+            [one] { $count } хонандаи нақши ангушт ({ $percentage }%)
+           *[other] { $count } хонандаи нақши ангушт ({ $percentage }%)
         }
 bar-tooltip-cryptominer =
     .title = Криптомайнерҳо

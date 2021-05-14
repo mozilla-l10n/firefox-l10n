@@ -791,7 +791,7 @@ content-blocking-unvisited-cookies = Кукиҳо аз сомонаҳои боқ
 content-blocking-all-windows-tracking-content = Муҳтавои пайгирикунанда дар ҳамаи равзанаҳо
 content-blocking-all-third-party-cookies = Ҳамаи кукиҳои тарафҳои сеюм
 content-blocking-cryptominers = Криптомайнерҳо
-content-blocking-fingerprinters = Хонандаи изи ангушт
+content-blocking-fingerprinters = Хонандаи нақши ангушт
 content-blocking-warning-title = Диққат!
 content-blocking-warning-learn-how = Бифаҳмед, ки чӣ тавр
 content-blocking-reload-description = Барои татбиқ кардани ин тағйирот шумо бояд варақаҳои худро аз нав бор кунед.
@@ -820,7 +820,7 @@ content-blocking-cryptominers-label =
 # Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
 # that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
 content-blocking-fingerprinters-label =
-    .label = Хонандаи изи ангушт
+    .label = Хонандаи нақши ангушт
     .accesskey = Х
 
 ## Privacy Section - Tracking
