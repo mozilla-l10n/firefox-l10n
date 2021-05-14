@@ -112,6 +112,29 @@ move-attachment-last-panel-button =
 button-return-receipt =
     .label = 收件回執
     .tooltiptext = 要求對方收信後寄發回執
+
+# Addressing Area
+
+to-compose-address-row-label =
+    .value = 給
+#   $key (String) - the shortcut key for this field
+to-compose-show-address-row-menuitem =
+    .label = 「{ to-compose-address-row-label.value }」欄位
+    .accesskey = T
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+to-compose-show-address-row-label =
+    .value = { to-compose-address-row-label.value }
+    .tooltiptext = 顯示「{ to-compose-address-row-label.value }」欄位（{ to-compose-show-address-row-menuitem.acceltext }）
+cc-compose-address-row-label =
+    .value = 副本
+#   $key (String) - the shortcut key for this field
+cc-compose-show-address-row-menuitem =
+    .label = 「{ cc-compose-address-row-label.value }」欄位
+    .accesskey = C
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+cc-compose-show-address-row-label =
+    .value = { cc-compose-address-row-label.value }
+    .tooltiptext = 顯示「{ cc-compose-address-row-label.value }」欄位（{ cc-compose-show-address-row-menuitem.acceltext }）
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 consider-bcc-notification = 「給」與「副本」收件者共有 { $count } 位，都會看到彼此的收件信箱。您可以改用「密件副本」來避免揭露收件者資訊。
 many-public-recipients-bcc =
