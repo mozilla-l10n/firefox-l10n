@@ -85,6 +85,9 @@ about-processes-unknown-process = 其他: { $type }（{ $pid }）
 about-processes-web-isolated-process = { $origin }（{ $pid }）
 about-processes-web-large-allocation-process = { $origin }（{ $pid }，大型）
 about-processes-with-coop-coep-process = { $origin }（{ $pid }，隔離跨來源）
+about-processes-web-isolated-process-private = { $origin } — 隱私（{ $pid }）
+about-processes-web-large-allocation-process-private = { $origin } — 隱私（{ $pid }，大型）
+about-processes-with-coop-coep-process-private = { $origin } — 隱私（{ $pid }，隔離跨來源）
 
 ## Details within processes
 
@@ -99,6 +102,22 @@ about-processes-thread-summary = 執行緒（{ $number }）
 #   $name (String) The name assigned to the thread.
 #   $tid (String) The thread id of this thread, assigned by the OS.
 about-processes-thread-name = 執行緒 { $tid }: { $name }
+# Single-line summary of threads (idle process)
+# Variables:
+#    $number (Number) The number of threads in the process. Typically larger
+#                     than 30. We don't expect to ever have processes with less
+#                     than 5 threads.
+#                     The process is idle so all threads are inactive.
+about-processes-inactive-threads =
+    { $number ->
+       *[other] { $number } 個閒置的執行緒
+    }
+# Thread details
+# Variables:
+#   $name (String) The name assigned to the thread.
+#   $tid (String) The thread id of this thread, assigned by the OS.
+about-processes-thread-name-and-id = { $name }
+    .title = 執行緒 ID: { $tid }
 # Tab
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
@@ -125,10 +144,16 @@ about-processes-frame-name-many = 子畫框（{ $number }）: { $shortUrl }
 
 # Common case.
 about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }（{ NUMBER($total, maximumFractionDigits: 0) }{ $unit }）
+# Common case.
+about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
+    .title = 總 CPU 時間: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = （測量中）
 # Special case: process or thread is currently idle.
 about-processes-cpu-user-and-kernel-idle = 閒置（{ NUMBER($total, maximumFractionDigits: 2) }{ $unit }）
+# Special case: process or thread is currently idle.
+about-processes-cpu-idle = 閒置
+    .title = 總 CPU 時間: { NUMBER($total, maximumFractionDigits: 2) }{ $unit }
 
 ## Displaying Memory (total and delta)
 ## Variables:
