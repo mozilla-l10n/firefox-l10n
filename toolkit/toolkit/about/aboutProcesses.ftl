@@ -85,6 +85,9 @@ about-processes-unknown-process = 其他：{ $type }（{ $pid }）
 about-processes-web-isolated-process = { $origin }（{ $pid }）
 about-processes-web-large-allocation-process = { $origin }（{ $pid }，大型）
 about-processes-with-coop-coep-process = { $origin }（{ $pid }，隔离跨源）
+about-processes-web-isolated-process-private = { $origin } — 私有（{ $pid }）
+about-processes-web-large-allocation-process-private = { $origin } — 私有（{ $pid }，大型）
+about-processes-with-coop-coep-process-private = { $origin } — 私有（{ $pid }，隔离跨源）
 
 ## Details within processes
 
