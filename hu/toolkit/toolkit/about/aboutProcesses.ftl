@@ -61,12 +61,30 @@ about-processes-web-process = Megosztott webes folyamat ({ $pid })
 about-processes-file-process = Fájlok ({ $pid })
 about-processes-extension-process = Kiegészítők ({ $pid })
 about-processes-plugin-process = Bővítmények ({ $pid })
+about-processes-privilegedmozilla-process = { -vendor-short-name } webhelyek ({ $pid })
+about-processes-gmp-plugin-process = Gecko médiabővítmények ({ $pid })
+about-processes-gpu-process = GPU ({ $pid })
+about-processes-vr-process = VR ({ $pid })
+about-processes-rdd-process = Adatdekóder ({ $pid })
+about-processes-socket-process = Hálózat ({ $pid })
+about-processes-preallocated-process = Előre kiosztott ({ $pid })
+# Unknown process names
+# Variables:
+#    $pid (String) The process id of this process, assigned by the OS.
+#    $type (String) The raw type for this process.
+about-processes-unknown-process = Egyéb: { $type } ({ $pid })
 
 ## Isolated process names
 ## Variables:
 ##    $pid (String) The process id of this process, assigned by the OS.
 ##    $origin (String) The domain name for this process.
 
+about-processes-web-isolated-process = { $origin } ({ $pid })
+about-processes-web-large-allocation-process = { $origin } ({ $pid }, nagy)
+about-processes-with-coop-coep-process = { $origin } ({ $pid }, eredet szerint elkülönítve)
+about-processes-web-isolated-process-private = { $origin } – Privát ({ $pid })
+about-processes-web-large-allocation-process-private = { $origin } – Privát ({ $pid }, nagy)
+about-processes-with-coop-coep-process-private = { $origin } – Privát ({ $pid }, eredet szerint elkülönítve)
 
 ## Details within processes
 
@@ -81,6 +99,21 @@ about-processes-thread-summary = Szálak ({ $number })
 #   $name (String) The name assigned to the thread.
 #   $tid (String) The thread id of this thread, assigned by the OS.
 about-processes-thread-name = { $tid }. szál: { $name }
+# Single-line summary of threads (non-idle process)
+# Variables:
+#    $number (Number) The number of threads in the process. Typically larger
+#                     than 30. We don't expect to ever have processes with less
+#                     than 5 threads.
+#    $active (Number) The number of active threads in the process.
+#                     The value will be greater than 0 and will never be
+#                     greater than $number.
+#    $list (String) Comma separated list of active threads.
+#                   Can be an empty string if the process is idle.
+about-processes-active-threads =
+    { $active ->
+        [one] { $active } aktív szál / { $number }: { $list }
+       *[other] { $active } aktív szál / { $number }: { $list }
+    }
 # Tab
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
