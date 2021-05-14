@@ -28,7 +28,7 @@ about-processes-column-cpu-total = CPU
 ##    $type (String) The raw type for this process. Used for unknown processes.
 
 about-processes-browser-process-name = { -brand-short-name } (프로세스 { $pid })
-about-processes-web-process-name = 웹 (프로세스 { $pid }, 공유)
+about-processes-web-process-name = 웹 (프로세스 { $pid }, 공유됨)
 about-processes-web-isolated-process-name = { $origin }에 대한 웹 (프로세스 { $pid })
 about-processes-web-large-allocation = { $origin }에 대한 웹 (프로세스 { $pid }, 큼)
 about-processes-with-coop-coep-process-name = { $origin }에 대한 웹 (프로세스 { $pid }, 교차 원본 격리됨)
@@ -84,6 +84,7 @@ about-processes-unknown-process = 기타: { $type } ({ $pid })
 
 about-processes-web-isolated-process = { $origin } ({ $pid })
 about-processes-web-large-allocation-process = { $origin } ({ $pid }, 큼)
+about-processes-with-coop-coep-process = { $origin } ({ $pid }, 교차 원본 격리됨)
 
 ## Details within processes
 
@@ -98,6 +99,22 @@ about-processes-thread-summary = 스레드 ({ $number })
 #   $name (String) The name assigned to the thread.
 #   $tid (String) The thread id of this thread, assigned by the OS.
 about-processes-thread-name = 스레드 { $tid }: { $name }
+# Single-line summary of threads (idle process)
+# Variables:
+#    $number (Number) The number of threads in the process. Typically larger
+#                     than 30. We don't expect to ever have processes with less
+#                     than 5 threads.
+#                     The process is idle so all threads are inactive.
+about-processes-inactive-threads =
+    { $number ->
+       *[other] { $number } 비활성화 스레드
+    }
+# Thread details
+# Variables:
+#   $name (String) The name assigned to the thread.
+#   $tid (String) The thread id of this thread, assigned by the OS.
+about-processes-thread-name-and-id = { $name }
+    .title = 스레드 id: { $tid }
 # Tab
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
@@ -124,10 +141,16 @@ about-processes-frame-name-many = 서브 프레임 ({ $number }): { $shortUrl }
 
 # Common case.
 about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") } ({ NUMBER($total, maximumFractionDigits: 0) }{ $unit })
+# Common case.
+about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
+    .title = 전체 CPU 시간: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (측정 중)
 # Special case: process or thread is currently idle.
 about-processes-cpu-user-and-kernel-idle = 유휴 ({ NUMBER($total, maximumFractionDigits: 2) }{ $unit })
+# Special case: process or thread is currently idle.
+about-processes-cpu-idle = 유휴
+    .title = 전체 CPU 시간: { NUMBER($total, maximumFractionDigits: 2) }{ $unit }
 
 ## Displaying Memory (total and delta)
 ## Variables:
@@ -142,6 +165,9 @@ about-processes-cpu-user-and-kernel-idle = 유휴 ({ NUMBER($total, maximumFract
 
 # Common case.
 about-processes-total-memory-size = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit } ({ $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit })
+# Common case.
+about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
+    .title = 변화: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit }
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
 
