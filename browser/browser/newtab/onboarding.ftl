@@ -248,6 +248,10 @@ return-to-amo-get-started-button = Inizia a usare { -brand-short-name }
 # An alternative title for localization is: "It starts here".
 mr1-welcome-screen-hero-text = Cominciamo da qui
 
+# Caption for background image in about:welcome. "Soraya Osorio" is the name
+# of the person and shouldn't be translated.
+mr1-onboarding-welcome-image-caption = Soraya Osorio — Designer di mobili, fan di Firefox
+
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Disattiva animazioni
 
