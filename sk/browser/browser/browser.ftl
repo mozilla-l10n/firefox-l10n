@@ -378,7 +378,7 @@ identity-more-info-link-text =
 ## Window controls
 
 browser-window-minimize-button =
-    .tooltiptext = Minimalizovať okno
+    .tooltiptext = Minimalizovať
 browser-window-maximize-button =
     .tooltiptext = Maximalizovať
 browser-window-restore-down-button =
