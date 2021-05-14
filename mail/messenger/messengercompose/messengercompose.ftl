@@ -117,6 +117,18 @@ move-attachment-last-panel-button =
 button-return-receipt =
     .label = Confirmação
     .tooltiptext = Solicitar uma confirmação de leitura desta mensagem
+
+# Addressing Area
+
+to-compose-address-row-label =
+    .value = Para
+cc-compose-address-row-label =
+    .value = Cc
+bcc-compose-address-row-label =
+    .value = Cco
+bcc-compose-show-address-row-label =
+    .value = { bcc-compose-address-row-label.value }
+    .tooltiptext = Exibir campo { bcc-compose-address-row-label.value } ({ bcc-compose-show-address-row-menuitem.acceltext })
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 consider-bcc-notification = Os { $count } destinatários em Para e Cc podem ver os endereços uns dos outros. Você pode evitar revelar destinatários mudando para Cco.
 many-public-recipients-bcc =
