@@ -84,8 +84,10 @@ about-processes-unknown-process = Druhi: { $type } ({ $pid })
 
 about-processes-web-isolated-process = { $origin } ({ $pid })
 about-processes-web-large-allocation-process = { $origin } ({ $pid }, wulki)
+about-processes-with-coop-coep-process = { $origin } ({ $pid }, přez cross-origin izolowany)
 about-processes-web-isolated-process-private = { $origin } – priwatny ({ $pid })
 about-processes-web-large-allocation-process-private = { $origin } – priwatny ({ $pid }, wulki)
+about-processes-with-coop-coep-process-private = { $origin } – priwatny ({ $pid }, přez cross-origin izolowany)
 
 ## Details within processes
 
