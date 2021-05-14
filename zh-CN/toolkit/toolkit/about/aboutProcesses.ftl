@@ -121,7 +121,7 @@ about-processes-active-threads =
 #                     The process is idle so all threads are inactive.
 about-processes-inactive-threads =
     { $number ->
-       *[other] { $number } 个空闲的线程
+       *[other] { $number } 个空闲线程
     }
 # Thread details
 # Variables:
