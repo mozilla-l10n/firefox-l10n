@@ -21,6 +21,7 @@ upgrade-dialog-new-primary-primary-button = 将 { -brand-short-name } 设为我�
     .title = 将 { -brand-short-name } 设为默认浏览器，并固定到任务栏
 upgrade-dialog-new-primary-default-button = 将 { -brand-short-name } 设为我的默认浏览器
 upgrade-dialog-new-primary-pin-button = 将 { -brand-short-name } 固定到我的任务栏
+upgrade-dialog-new-primary-pin-alt-button = 固定到任务栏
 upgrade-dialog-new-primary-theme-button = 选择主题
 upgrade-dialog-new-secondary-button = 暂时不要
 # This string is only shown on Windows 7, where we intentionally suppress the
