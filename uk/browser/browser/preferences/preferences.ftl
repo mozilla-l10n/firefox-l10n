@@ -564,7 +564,7 @@ home-prefs-highlights-option-most-recent-download =
 home-prefs-highlights-option-saved-to-pocket =
     .label = Збережене в { -pocket-brand-name }
 home-prefs-recent-activity-header =
-    .label = Недавні дії
+    .label = Нещодавня активність
 home-prefs-recent-activity-description = Добірка недавніх сайтів та вмісту
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
