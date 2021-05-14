@@ -83,9 +83,6 @@
 <!ENTITY reorderAttachmentsCmd.accesskey "s">
 <!ENTITY reorderAttachmentsCmd.key "x">
 <!ENTITY toggleAttachmentPaneCmd.label "Panel príloh">
-<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
-     For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
-     as attachments.accesskey. -->
 <!ENTITY toggleAttachmentPaneCmd.accesskey "p">
 <!ENTITY selectAllCmd.accesskey "a">
 <!ENTITY findBarCmd.label "Hľadať…">
@@ -214,7 +211,7 @@
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
-<!ENTITY minimizeWindow.label "Minimalizovať okno">
+<!ENTITY minimizeWindow.label "Minimalizovať">
 <!ENTITY bringAllToFront.label "Všetko preniesť do popredia">
 <!ENTITY zoomWindow.label "Zväčšiť okno">
 <!ENTITY windowMenu.label "Okno">
