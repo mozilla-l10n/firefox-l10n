@@ -21,8 +21,12 @@ upgrade-dialog-new-primary-primary-button = Definir { -brand-short-name } coma n
     .title = Definís { -brand-short-name } coma navegador per defaut e lo penja a la barra de prètzfaches
 upgrade-dialog-new-primary-default-button = Definir { -brand-short-name } coma navegador per defaut
 upgrade-dialog-new-primary-pin-button = Penjar { -brand-short-name } a ma barra de prètzfaches
+upgrade-dialog-new-primary-pin-alt-button = Penjar a la barra de prètzfaches
 upgrade-dialog-new-primary-theme-button = Causir un tèma
 upgrade-dialog-new-secondary-button = Pas ara
+# This string is only shown on Windows 7, where we intentionally suppress the
+# theme selection screen.
+upgrade-dialog-new-primary-win7-button = D’acòrdi, plan comprés !
 
 ## Theme selection screen
 
