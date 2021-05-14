@@ -12,6 +12,7 @@ preferences-title =
         }
 preferences-tab-title =
     .title = Dewisiadau
+preferences-doc-title = Dewisiadau
 category-list =
     .aria-label = Categorïau
 pane-general-title = Cyffredinol
@@ -90,8 +91,8 @@ update-in-progress-ok-button = &Dileu
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Parhau
-account-button = Gosodiadau'r Cyfrif
 addons-button = Estyniadau a Themâu
+account-button = Gosodiadau'r Cyfrif
 open-addons-sidebar-button = Ychwanegion a Themâu
 
 ## OS Authentication dialog

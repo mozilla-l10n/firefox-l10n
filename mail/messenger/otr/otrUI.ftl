@@ -31,11 +31,15 @@ alert-refresh = Yn ceisio adnewyddu'r sgwrs wedi'i hamgryptio gyda { $name }.
 alert-gone_insecure = Daeth y sgwrs wedi'i hamgryptio gyda { $name } i ben.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
+alert-gone-insecure = Daeth y sgwrs wedi'i hamgryptio gyda { $name } i ben.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
 finger-unseen = Nid yw hunaniaeth { $name } wedi'i wirio eto. Nid yw'n bosibl i glustfeinio'n achlysurol, ond gyda pheth ymdrech gallai rhywun fod yn gwrando. Rhwystrwch  wyliadwriaeth trwy wirio hunaniaeth y cyswllt hwn.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 finger-seen = Mae { $name } yn cysylltu â chi o gyfrifiadur heb ei adnabod. Nid yw'n bosibl clustfeinio'n achlysurol, ond gyda pheth ymdrech gall rhywun fod yn gwrando. Rhwystrwch wyliadwriaeth trwy wirio hunaniaeth y cyswllt hwn.
 state-not_private = Nid yw'r sgwrs gyfredol yn breifat.
+state-not-private = Nid yw'r sgwrs gyfredol yn breifat.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 state-unverified = Mae'r sgwrs gyfredol wedi'i hamgryptio ond nid yn breifat, gan nad yw hunaniaeth { $name } wedi'i gwirio eto.
@@ -46,6 +50,7 @@ state-private = Mae hunaniaeth { $name } wedi'i wirio. Mae'r sgwrs gyfredol wedi
 #   $name (String) - the screen name of a chat contact person
 state-finished = Mae { $name } wedi dod â'u sgwrs wedi'i hamgryptio gyda chi i ben; dylech wneud yr un peth.
 state-not_private-label = Anniogel
+state-not-private-label = Anniogel
 state-unverified-label = Heb ei wirio
 state-private-label = Preifat
 state-finished-label = Wedi gorffen
@@ -62,6 +67,7 @@ verify-title = Gwirio hunaniaeth eich cyswllt
 error-title = Gwall
 success-title = Amgryptio Pen-i-Ben
 successThem-title = Gwirio hunaniaeth eich cyswllt
+success-them-title = Gwiriwch hunaniaeth eich cyswllt
 fail-title = Methu gwirio
 waiting-title = Cais dilysu wedi'i anfon
 # Do not translate 'OTR' (name of an encryption protocol)
