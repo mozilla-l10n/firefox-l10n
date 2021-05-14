@@ -68,6 +68,8 @@ about-processes-gpu-process = GPU ({ $pid })
 about-processes-vr-process = VR ({ $pid })
 about-processes-rdd-process = Decodificador de dados ({ $pid })
 about-processes-socket-process = Rede ({ $pid })
+about-processes-remote-sandbox-broker-process = Broker de isolamento remoto  ({ $pid })
+about-processes-fork-server-process = Servidor de fork ({ $pid })
 about-processes-preallocated-process = Pré-alocado ({ $pid })
 # Unknown process names
 # Variables:
@@ -82,8 +84,10 @@ about-processes-unknown-process = Outro: { $type } ({ $pid })
 
 about-processes-web-isolated-process = { $origin } ({ $pid })
 about-processes-web-large-allocation-process = { $origin } ({ $pid }, grande)
+about-processes-with-coop-coep-process = { $origin } ({ $pid }, isolamento de origem cruzada)
 about-processes-web-isolated-process-private = { $origin } — Privativo ({ $pid })
 about-processes-web-large-allocation-process-private = { $origin } — Privativo ({ $pid }, grande)
+about-processes-with-coop-coep-process-private = { $origin } — Privativo ({ $pid }, isolamento de origem cruzada)
 
 ## Details within processes
 
