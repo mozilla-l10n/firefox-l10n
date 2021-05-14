@@ -84,15 +84,63 @@ account-setup-success-settings-isp = A konfiguráció megtalálható az e-mail-s
 
 ## Illustrations
 
+account-setup-step1-image =
+    .title = Kezdeti beállítás
+account-setup-step2-image =
+    .title = Betöltés…
+account-setup-step3-image =
+    .title = Konfiguráció megtalálva
+account-setup-step4-image =
+    .title = Kapcsolódási hiba
+account-setup-selection-help = Nem tudja, mit válasszon?
+account-setup-selection-error = Segítségre van szüksége?
+account-setup-documentation-help = Telepítési dokumentáció
+account-setup-forum-help = Támogatói fórum
 
 ## Results area
 
+account-setup-protocol-title = Válassza ki a protokollt
+# Note: IMAP is the name of a protocol.
+account-setup-result-imap = IMAP
+# Note: POP3 is the name of a protocol.
+account-setup-result-pop = POP3
+# Note: Exchange is the name of a product.
+account-setup-result-exchange = Exchange
+account-setup-result-exchange-description = Microsoft Exchange Server
+account-setup-incoming-title = Bejövő
+account-setup-outgoing-title = Kimenő
+account-setup-username-title = Felhasználónév
+account-setup-exchange-title = Kiszolgáló
 
 ## Error messages
 
+account-setup-credentials-wrong = Hitelesítés sikertelen. Ellenőrizze a felhasználónevet és a jelszót.
+account-setup-find-settings-failed = A { -brand-short-name } nem találta meg az e-mail-fiókja beállításait
 
 ## Manual config area
 
+account-setup-manual-config-title = Kiszolgáló beállításai
+account-setup-incoming-protocol-label = Bejövő protokoll
+protocol-imap-option = { account-setup-result-imap }
+protocol-pop-option = { account-setup-result-pop }
+account-setup-outgoing-protocol-label = Kimenő protokoll
+outgoing-protocol = SMTP
+account-setup-incoming-server-label = Bejövő kiszolgáló
+account-setup-outgoing-server-label = Kimenő kiszolgáló
+account-setup-incoming-port-label = Bejövő port
+account-setup-outoing-port-label = Kimenő port
+account-setup-incoming-ssl-label = Bejövő SSL
+account-setup-outgoing-ssl-label = Kimenő SSL
+ssl-autodetect-option = Automatikus felismerés
+ssl-noencryption-option = Egyik sem
+ssl-starttls-option = STARTTLS
+ssl-tls-option = SSL/TLS
+account-setup-incoming-auth-label = Bejövő hitelesítés
+account-setup-outgoing-auth-label = Kimenő hitelesítés
+account-setup-incoming-username-label = Bejövő felhasználónév
+account-setup-outgoing-username-label = Kimenő felhasználónév
+account-setup-advanced-setup-button = Speciális beállítások
+    .accesskey = S
 
 ## Warning insecure server
 
