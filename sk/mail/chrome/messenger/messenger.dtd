@@ -943,7 +943,7 @@
 <!ENTITY statusText.label "Hotovo">
 
 <!-- Mac OS X Window Menu -->
-<!ENTITY minimizeWindow.label "Minimalizovať okno">
+<!ENTITY minimizeWindow.label "Minimalizovať">
 <!ENTITY minimizeWindow.key "M">
 <!ENTITY bringAllToFront.label "Všetko preniesť do popredia">
 <!ENTITY zoomWindow.label "Lupa">
