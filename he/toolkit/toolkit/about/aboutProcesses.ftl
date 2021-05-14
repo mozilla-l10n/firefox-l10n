@@ -162,6 +162,9 @@ about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "pe
 about-processes-cpu-user-and-kernel-not-ready = (בתהליך מדידה)
 # Special case: process or thread is currently idle.
 about-processes-cpu-user-and-kernel-idle = לא פעיל ({ NUMBER($total, maximumFractionDigits: 2) } { $unit })
+# Special case: process or thread is currently idle.
+about-processes-cpu-idle = בהמתנה
+    .title = זמן מעבד כולל: { NUMBER($total, maximumFractionDigits: 2) } { $unit }
 
 ## Displaying Memory (total and delta)
 ## Variables:
@@ -176,6 +179,9 @@ about-processes-cpu-user-and-kernel-idle = לא פעיל ({ NUMBER($total, maxim
 
 # Common case.
 about-processes-total-memory-size = { NUMBER($total, maximumFractionDigits: 0) } { $totalUnit } ({ $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) } { $deltaUnit })
+# Common case.
+about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigits: 0) } { $totalUnit }
+    .title = התפתחות: ‎{ $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) } ‏{ $deltaUnit }
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) } { $totalUnit }
 
