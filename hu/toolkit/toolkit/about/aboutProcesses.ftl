@@ -60,6 +60,7 @@ about-processes-browser-process = { -brand-short-name } ({ $pid })
 about-processes-web-process = Megosztott webes folyamat ({ $pid })
 about-processes-file-process = Fájlok ({ $pid })
 about-processes-extension-process = Kiegészítők ({ $pid })
+about-processes-privilegedabout-process = About lapok ({ $pid })
 about-processes-plugin-process = Bővítmények ({ $pid })
 about-processes-privilegedmozilla-process = { -vendor-short-name } webhelyek ({ $pid })
 about-processes-gmp-plugin-process = Gecko médiabővítmények ({ $pid })
@@ -114,6 +115,23 @@ about-processes-active-threads =
         [one] { $active } aktív szál / { $number }: { $list }
        *[other] { $active } aktív szál / { $number }: { $list }
     }
+# Single-line summary of threads (idle process)
+# Variables:
+#    $number (Number) The number of threads in the process. Typically larger
+#                     than 30. We don't expect to ever have processes with less
+#                     than 5 threads.
+#                     The process is idle so all threads are inactive.
+about-processes-inactive-threads =
+    { $number ->
+        [one] { $number } inaktív szál
+       *[other] { $number } inaktív szál
+    }
+# Thread details
+# Variables:
+#   $name (String) The name assigned to the thread.
+#   $tid (String) The thread id of this thread, assigned by the OS.
+about-processes-thread-name-and-id = { $name }
+    .title = Szálazonosító: { $tid }
 # Tab
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
@@ -140,10 +158,16 @@ about-processes-frame-name-many = Részkeretek ({ $number }): { $shortUrl }
 
 # Common case.
 about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") } ({ NUMBER($total, maximumFractionDigits: 0) }{ $unit })
+# Common case.
+about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
+    .title = Teljes processzoridő: { NUMBER($total, maximumFractionDigits: 0) } { $unit }
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (mérés folyamatban)
 # Special case: process or thread is currently idle.
 about-processes-cpu-user-and-kernel-idle = tétlen ({ NUMBER($total, maximumFractionDigits: 2) }{ $unit })
+# Special case: process or thread is currently idle.
+about-processes-cpu-idle = tétlen
+    .title = Teljes processzoridő: { NUMBER($total, maximumFractionDigits: 0) } { $unit }
 
 ## Displaying Memory (total and delta)
 ## Variables:
@@ -158,6 +182,9 @@ about-processes-cpu-user-and-kernel-idle = tétlen ({ NUMBER($total, maximumFrac
 
 # Common case.
 about-processes-total-memory-size = { NUMBER($total, maximumFractionDigits: 0) } { $totalUnit } ({ $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) } { $deltaUnit })
+# Common case.
+about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigits: 0) } { $totalUnit }
+    .title = Evolúció: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) } { $deltaUnit }
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) } { $totalUnit }
 
