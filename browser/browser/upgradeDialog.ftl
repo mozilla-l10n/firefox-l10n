@@ -21,6 +21,7 @@ upgrade-dialog-new-primary-primary-button = { -brand-short-name }를 기본 브�
     .title = { -brand-short-name }를 기본 브라우저로 설정하고 작업 표시줄에 고정
 upgrade-dialog-new-primary-default-button = { -brand-short-name }를 기본 브라우저로 설정
 upgrade-dialog-new-primary-pin-button = { -brand-short-name }를 작업 표시줄에 고정
+upgrade-dialog-new-primary-pin-alt-button = 작업 표시줄에 고정
 upgrade-dialog-new-primary-theme-button = 테마 선택
 upgrade-dialog-new-secondary-button = 나중에
 # This string is only shown on Windows 7, where we intentionally suppress the
