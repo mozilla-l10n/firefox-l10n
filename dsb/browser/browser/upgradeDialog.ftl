@@ -21,6 +21,7 @@ upgrade-dialog-new-primary-primary-button = { -brand-short-name } k primarnemu w
     .title = Nastaja { -brand-short-name } ako standardny wobglědowak a pśipina jen k nadawkowej rědce
 upgrade-dialog-new-primary-default-button = { -brand-short-name } k strandardnemu wobglědowakoju cyniś
 upgrade-dialog-new-primary-pin-button = { -brand-short-name } k nadawkowej rědce pśipěś
+upgrade-dialog-new-primary-pin-alt-button = K nadawkowej rědce pśipěś
 upgrade-dialog-new-primary-theme-button = Drastwu wubraś
 upgrade-dialog-new-secondary-button = Nic něnto
 # This string is only shown on Windows 7, where we intentionally suppress the

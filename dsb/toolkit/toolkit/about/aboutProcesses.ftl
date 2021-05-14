@@ -52,6 +52,26 @@ about-processes-unknown-process-name = Drugi ({ $type }, proces { $pid })
 #   $pid (String) The process id of this process, assigned by the OS.
 about-processes-process-name = Proces { $pid }: { $name }
 
+## Process names
+## Variables:
+##    $pid (String) The process id of this process, assigned by the OS.
+
+about-processes-browser-process = { -brand-short-name } ({ $pid })
+about-processes-web-process = Źělony webproces ({ $pid })
+about-processes-file-process = Dataje ({ $pid })
+about-processes-extension-process = Rozšyrjenja ({ $pid })
+about-processes-privilegedabout-process = Boki „about“ ({ $pid })
+about-processes-plugin-process = Tykace ({ $pid })
+about-processes-privilegedmozilla-process = Sedła { -vendor-short-name } ({ $pid })
+about-processes-gmp-plugin-process = Medijowe tykace Gecko ({ $pid })
+about-processes-gpu-process = GPU ({ $pid })
+
+## Isolated process names
+## Variables:
+##    $pid (String) The process id of this process, assigned by the OS.
+##    $origin (String) The domain name for this process.
+
+
 ## Details within processes
 
 # Single-line summary of threads
