@@ -88,6 +88,12 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
+## Firefox Account Button
+
+toolbar-button-fxaccount =
+    .label = { -fxaccount-brand-name(capitalization: "sentence") }
+    .tooltiptext = { -fxaccount-brand-name(capitalization: "sentence") }
+
 ## Save Page
 
 main-context-menu-page-save =
@@ -308,12 +314,12 @@ main-context-menu-image-email =
 main-context-menu-image-set-as-background =
     .label = Танзим кардан ҳамчун заминаи мизи корӣ…
     .accesskey = Т
-main-context-menu-image-info =
-    .label = Дидани иттилооти тасвир
-    .accesskey = Д
 main-context-menu-image-set-image-as-background =
     .label = Танзим кардани тасвир ҳамчун заминаи мизи корӣ…
     .accesskey = Т
+main-context-menu-image-info =
+    .label = Дидани иттилооти тасвир
+    .accesskey = Д
 main-context-menu-image-desc =
     .label = Дидани тавсиф
     .accesskey = Д
