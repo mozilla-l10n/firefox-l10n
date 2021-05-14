@@ -20,6 +20,7 @@ upgrade-dialog-new-primary-primary-button = הגדרת { -brand-short-name } כ�
     .title = מגדיר את { -brand-short-name } כדפדפן ברירת המחדל ומצמיד אותו לשורת המשימות
 upgrade-dialog-new-primary-default-button = הגדרת { -brand-short-name } כדפדפן ברירת המחדל שלי
 upgrade-dialog-new-primary-pin-button = הצמדת { -brand-short-name } לשורת המשימות שלי
+upgrade-dialog-new-primary-pin-alt-button = הצמדה לשורת המשימות
 upgrade-dialog-new-primary-theme-button = בחירת ערכת נושא
 upgrade-dialog-new-secondary-button = לא כעת
 # This string is only shown on Windows 7, where we intentionally suppress the

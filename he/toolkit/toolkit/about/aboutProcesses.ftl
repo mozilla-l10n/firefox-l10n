@@ -50,6 +50,29 @@ about-processes-unknown-process-name = אחר ({ $type }, מזהה תהליך { 
 #   $pid (String) The process id of this process, assigned by the OS.
 about-processes-process-name = מזהה תהליך { $pid }: { $name }
 
+## Process names
+## Variables:
+##    $pid (String) The process id of this process, assigned by the OS.
+
+about-processes-web-process = תהליך אינטרנט משותף ({ $pid })
+about-processes-file-process = קבצים ({ $pid })
+about-processes-extension-process = הרחבות ({ $pid })
+about-processes-privilegedabout-process = דפי about (‏{ $pid })
+about-processes-plugin-process = תוספים חיצוניים ({ $pid })
+about-processes-privilegedmozilla-process = אתרי { -vendor-short-name } (‏{ $pid })
+about-processes-gmp-plugin-process = תוספי מדיה של Gecko (‏{ $pid })
+about-processes-gpu-process = מעבד גרפי ({ $pid })
+about-processes-vr-process = מציאות מדומה ({ $pid })
+about-processes-rdd-process = מפענח נתונים ({ $pid })
+about-processes-socket-process = רשת ({ $pid })
+about-processes-remote-sandbox-broker-process = מתווך ארגז חול מרוחק ({ $pid })
+
+## Isolated process names
+## Variables:
+##    $pid (String) The process id of this process, assigned by the OS.
+##    $origin (String) The domain name for this process.
+
+
 ## Details within processes
 
 # Single-line summary of threads
