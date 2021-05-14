@@ -57,6 +57,28 @@ context-gone_secure_unverified = Titkosított, de nem ellenőrzött beszélgeté
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 context-still_secure = Sikeresen frissítette a titkosított beszélgetést a következővel: { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-encryption-required-part1 = Nem titkosított üzenetet próbált küldeni { $name } részére. A házirend alapján a titkosítatlan üzenetek nem engedélyezettek.
+msgevent-encryption-required-part2 = Privát beszélgetést próbál indítani. Az üzenete újra lesz küldve, ha a privát beszélgetés elindul.
+msgevent-encryption-error = Hiba történt az üzenet titkosításakor. Az üzenetet nem lett elküldve.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-connection-ended = { $name } már bezárta a titkosított kapcsolatot Önnel. Hogy elkerülje az üzenet titkosítás nélküli véletlen elküldését, az üzenete nem lett elküldve. Fejezze be a titkosított beszélgetést, vagy indítsa újra.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-setup-error = Hiba történt a partnerrel folytatott privát beszélgetés beállításakor: { $name }.
+# Do not translate 'OTR' (name of an encryption protocol)
+msgevent-msg-reflected = A saját OTR-üzeneteit kapja meg. Vagy saját magával próbál beszélgetni, vagy valaki visszaküldi Önnek az üzeneteit.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-msg-resent = A(z) { $name } számára küldött utolsó üzenet újraküldve.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg-not-private = A(z) { $name } felől érkező titkosított üzenet olvashatatlan, mert jelenleg nem privát módon kommunikál.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg-unreadable = Olvashatatlan titkosított üzenetet kapott a következőtől: { $name }.
 error-enc = Hiba történt az üzenet titkosításakor.
 # Variables:
 #   $name (String) - the screen name of a chat contact person

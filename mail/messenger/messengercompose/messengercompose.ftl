@@ -125,7 +125,7 @@ to-compose-address-row-label =
 #   $key (String) - the shortcut key for this field
 to-compose-show-address-row-menuitem =
     .label = { to-compose-address-row-label.value } mező
-    .accesskey = m
+    .accesskey = C
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
 to-compose-show-address-row-label =
     .value = { to-compose-address-row-label.value }
@@ -135,8 +135,21 @@ cc-compose-address-row-label =
 #   $key (String) - the shortcut key for this field
 cc-compose-show-address-row-menuitem =
     .label = { cc-compose-address-row-label.value } mező
-    .accesskey = C
+    .accesskey = M
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+cc-compose-show-address-row-label =
+    .value = { cc-compose-address-row-label.value }
+    .tooltiptext = A { cc-compose-address-row-label.value } mező megjelenítése ({ cc-compose-show-address-row-menuitem.acceltext })
+bcc-compose-address-row-label =
+    .value = Rejtett másolatot kap
+#   $key (String) - the shortcut key for this field
+bcc-compose-show-address-row-menuitem =
+    .label = { bcc-compose-address-row-label.value } mező
+    .accesskey = R
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+bcc-compose-show-address-row-label =
+    .value = { bcc-compose-address-row-label.value }
+    .tooltiptext = A { bcc-compose-address-row-label.value } mező megjelenítése ({ bcc-compose-show-address-row-menuitem.acceltext })
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 consider-bcc-notification = A címzett és másolatot kapó { $count } partner láthatja egymás e-mail-címét. Elkerülheti a címzettek közzétételét, ha helyette titkos másolatot használ.
 many-public-recipients-bcc =
