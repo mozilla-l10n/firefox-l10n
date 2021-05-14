@@ -11,6 +11,8 @@ newtab-settings-button =
 newtab-personalize-button-label = Tichinäx
     .title = Tichinäx k'ak'a' ruwi'
     .aria-label = Tichinäx k'ak'a' ruwi'
+newtab-personalize-dialog-label =
+    .aria-label = Tichinäx
 
 ## Search box component.
 
