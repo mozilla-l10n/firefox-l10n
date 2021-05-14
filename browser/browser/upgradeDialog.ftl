@@ -21,6 +21,7 @@ upgrade-dialog-new-primary-primary-button = Зробити { -brand-short-name }
     .title = Встановлює { -brand-short-name } типовим браузером і закріплює його на панелі завдань
 upgrade-dialog-new-primary-default-button = Зробити { -brand-short-name } моїм типовим браузером
 upgrade-dialog-new-primary-pin-button = Закріпити { -brand-short-name } на панелі завдань
+upgrade-dialog-new-primary-pin-alt-button = Закріпити на панелі завдань
 upgrade-dialog-new-primary-theme-button = Обрати тему
 upgrade-dialog-new-secondary-button = Не зараз
 # This string is only shown on Windows 7, where we intentionally suppress the

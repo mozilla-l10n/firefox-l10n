@@ -52,6 +52,38 @@ about-processes-unknown-process-name = Інше ({ $type }, процес { $pid 
 #   $pid (String) The process id of this process, assigned by the OS.
 about-processes-process-name = Процес { $pid }: { $name }
 
+## Process names
+## Variables:
+##    $pid (String) The process id of this process, assigned by the OS.
+
+about-processes-browser-process = { -brand-short-name } ({ $pid })
+about-processes-web-process = Спільний веб процес ({ $pid })
+about-processes-file-process = Файли ({ $pid })
+about-processes-extension-process = Розширення ({ $pid })
+about-processes-privilegedabout-process = Про сторінки ({ $pid })
+about-processes-plugin-process = Плагіни ({ $pid })
+about-processes-privilegedmozilla-process = { -vendor-short-name } сайти ({ $pid })
+about-processes-gmp-plugin-process = Медіа-плагіни Gecko ({ $pid })
+about-processes-gpu-process = GPU ({ $pid })
+about-processes-vr-process = VR ({ $pid })
+about-processes-rdd-process = Декодер даних ({ $pid })
+about-processes-socket-process = Мережа ({ $pid })
+# Unknown process names
+# Variables:
+#    $pid (String) The process id of this process, assigned by the OS.
+#    $type (String) The raw type for this process.
+about-processes-unknown-process = Інше: { $type } ({ $pid })
+
+## Isolated process names
+## Variables:
+##    $pid (String) The process id of this process, assigned by the OS.
+##    $origin (String) The domain name for this process.
+
+about-processes-web-isolated-process = { $origin } ({ $pid })
+about-processes-web-large-allocation-process = { $origin } ({ $pid }, великий)
+about-processes-web-isolated-process-private = { $origin } — Приватний ({ $pid })
+about-processes-web-large-allocation-process-private = { $origin } — Приватний ({ $pid }, великий)
+
 ## Details within processes
 
 # Single-line summary of threads
@@ -65,6 +97,42 @@ about-processes-thread-summary = Потоків ({ $number })
 #   $name (String) The name assigned to the thread.
 #   $tid (String) The thread id of this thread, assigned by the OS.
 about-processes-thread-name = Потік { $tid }: { $name }
+# Single-line summary of threads (non-idle process)
+# Variables:
+#    $number (Number) The number of threads in the process. Typically larger
+#                     than 30. We don't expect to ever have processes with less
+#                     than 5 threads.
+#    $active (Number) The number of active threads in the process.
+#                     The value will be greater than 0 and will never be
+#                     greater than $number.
+#    $list (String) Comma separated list of active threads.
+#                   Can be an empty string if the process is idle.
+about-processes-active-threads =
+    { $active ->
+        [one] { $active } активний потік з { $number }: { $list }
+        [few] { $active } активні потоки з { $number }: { $list }
+        [many] { $active } активних потоків з { $number }: { $list }
+       *[other] { $active } активних потоків з { $number }: { $list }
+    }
+# Single-line summary of threads (idle process)
+# Variables:
+#    $number (Number) The number of threads in the process. Typically larger
+#                     than 30. We don't expect to ever have processes with less
+#                     than 5 threads.
+#                     The process is idle so all threads are inactive.
+about-processes-inactive-threads =
+    { $number ->
+        [one] { $number } неактивний потік
+        [few] { $number } неактивні потоки
+        [many] { $number } неактивних потоків
+       *[other] { $number } неактивних потоків
+    }
+# Thread details
+# Variables:
+#   $name (String) The name assigned to the thread.
+#   $tid (String) The thread id of this thread, assigned by the OS.
+about-processes-thread-name-and-id = { $name }
+    .title = Ідентифікатор потоку: { $tid }
 # Tab
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
@@ -91,10 +159,16 @@ about-processes-frame-name-many = Підфрейми ({ $number }): { $shortUrl 
 
 # Common case.
 about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") } ({ NUMBER($total, maximumFractionDigits: 0) }{ $unit })
+# Common case.
+about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
+    .title = Загальний час CPU: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (вимірювання)
 # Special case: process or thread is currently idle.
 about-processes-cpu-user-and-kernel-idle = неактивний ({ NUMBER($total, maximumFractionDigits: 2) }{ $unit })
+# Special case: process or thread is currently idle.
+about-processes-cpu-idle = бездіяльний
+    .title = Загальний час CPU: { NUMBER($total, maximumFractionDigits: 2) }{ $unit }
 
 ## Displaying Memory (total and delta)
 ## Variables:
@@ -109,6 +183,9 @@ about-processes-cpu-user-and-kernel-idle = неактивний ({ NUMBER($total
 
 # Common case.
 about-processes-total-memory-size = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit } ({ $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit })
+# Common case.
+about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
+    .title = Динаміка: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit }
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
 
