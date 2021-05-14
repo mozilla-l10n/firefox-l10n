@@ -68,6 +68,8 @@ about-processes-gpu-process = GPU ({ $pid })
 about-processes-vr-process = VR ({ $pid })
 about-processes-rdd-process = Adatdekóder ({ $pid })
 about-processes-socket-process = Hálózat ({ $pid })
+about-processes-remote-sandbox-broker-process = Távoli homokozóbróker ({ $pid })
+about-processes-fork-server-process = Fork kiszolgáló ({ $pid })
 about-processes-preallocated-process = Előre kiosztott ({ $pid })
 # Unknown process names
 # Variables:
