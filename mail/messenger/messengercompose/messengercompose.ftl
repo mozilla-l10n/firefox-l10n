@@ -123,6 +123,39 @@ move-attachment-last-panel-button =
 button-return-receipt =
     .label = Підтвердження отримання
     .tooltiptext = Надсилати запит про підтвердження отримання цього повідомлення
+
+# Addressing Area
+
+to-compose-address-row-label =
+    .value = Кому
+#   $key (String) - the shortcut key for this field
+to-compose-show-address-row-menuitem =
+    .label = Поле { to-compose-address-row-label.value }
+    .accesskey = К
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+to-compose-show-address-row-label =
+    .value = { to-compose-address-row-label.value }
+    .tooltiptext = Показати { to-compose-address-row-label.value } Поле ({ to-compose-show-address-row-menuitem.acceltext })
+cc-compose-address-row-label =
+    .value = Копія
+#   $key (String) - the shortcut key for this field
+cc-compose-show-address-row-menuitem =
+    .label = Поле { cc-compose-address-row-label.value }
+    .accesskey = я
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+cc-compose-show-address-row-label =
+    .value = { cc-compose-address-row-label.value }
+    .tooltiptext = Показати { cc-compose-address-row-label.value } Поле ({ cc-compose-show-address-row-menuitem.acceltext })
+bcc-compose-address-row-label =
+    .value = Прихована копія
+#   $key (String) - the shortcut key for this field
+bcc-compose-show-address-row-menuitem =
+    .label = Поле { bcc-compose-address-row-label.value }
+    .accesskey = х
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+bcc-compose-show-address-row-label =
+    .value = { bcc-compose-address-row-label.value }
+    .tooltiptext = Показати { bcc-compose-address-row-label.value } Поле ({ bcc-compose-show-address-row-menuitem.acceltext })
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 consider-bcc-notification = { $count } одержувачі у Кому та Копія можуть бачити адресу одне одного. Ви можете уникнути розголошення одержувачів, використовуючи замість цього приховану копію.
 many-public-recipients-bcc =
