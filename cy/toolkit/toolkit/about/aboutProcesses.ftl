@@ -52,6 +52,42 @@ about-processes-unknown-process-name = Arall ({ $type }, proses { $pid })
 #   $pid (String) The process id of this process, assigned by the OS.
 about-processes-process-name = Proses { $pid }: { $name }
 
+## Process names
+## Variables:
+##    $pid (String) The process id of this process, assigned by the OS.
+
+about-processes-browser-process = { -brand-short-name } ({ $pid })
+about-processes-web-process = Proses We a Rennir ({ $pid })
+about-processes-file-process = Ffeiliau ({ $pid })
+about-processes-extension-process = Estyniadau ({ $pid })
+about-processes-privilegedabout-process = Ynglŷn â thudalennau ({ $pid })
+about-processes-plugin-process = Ategion ({ $pid })
+about-processes-privilegedmozilla-process = Gwefannau { -vendor-short-name } ({ $pid })
+about-processes-gmp-plugin-process = Ategion Cyfryngau Gecko ({ $pid })
+about-processes-gpu-process = GPU ({ $pid })
+about-processes-vr-process = VR ({ $pid })
+about-processes-rdd-process = Datgodiwr Data ({ $pid })
+about-processes-socket-process = Rhwydwaith ({ $pid })
+about-processes-remote-sandbox-broker-process = Brocer Blwch Tywod Pell  ({ $pid })
+about-processes-fork-server-process = Gweinydd Fforc  ({ $pid })
+about-processes-preallocated-process = Wedi'i rhagddyrannu  ({ $pid })
+# Unknown process names
+# Variables:
+#    $pid (String) The process id of this process, assigned by the OS.
+#    $type (String) The raw type for this process.
+about-processes-unknown-process = Arall: { $type } ({ $pid })
+
+## Isolated process names
+## Variables:
+##    $pid (String) The process id of this process, assigned by the OS.
+##    $origin (String) The domain name for this process.
+
+about-processes-web-isolated-process = { $origin } ({ $pid })
+about-processes-web-large-allocation-process = { $origin } ({ $pid }, mawr)
+about-processes-with-coop-coep-process = { $origin } ({ $pid }, traws-darddiad ynysig)
+about-processes-web-isolated-process-private = { $origin } — Preifat ({ $pid })
+about-processes-web-large-allocation-process-private = { $origin } — Preifat ({ $pid }, mawr)
+
 ## Details within processes
 
 # Single-line summary of threads
