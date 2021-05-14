@@ -52,6 +52,40 @@ about-processes-unknown-process-name = 其他（{ $type }，程序 { $pid }）
 #   $pid (String) The process id of this process, assigned by the OS.
 about-processes-process-name = 處理程序 { $pid }: { $name }
 
+## Process names
+## Variables:
+##    $pid (String) The process id of this process, assigned by the OS.
+
+about-processes-browser-process = { -brand-short-name }（{ $pid }）
+about-processes-web-process = 共享的網頁處理程序（{ $pid }）
+about-processes-file-process = 檔案（{ $pid }）
+about-processes-extension-process = 擴充套件（{ $pid }）
+about-processes-privilegedabout-process = 關於頁面（{ $pid }）
+about-processes-plugin-process = 外掛程式（{ $pid }）
+about-processes-privilegedmozilla-process = { -vendor-short-name } 網站（{ $pid }）
+about-processes-gmp-plugin-process = Gecko 媒體外掛程式（{ $pid }）
+about-processes-gpu-process = GPU（{ $pid }）
+about-processes-vr-process = VR（{ $pid }）
+about-processes-rdd-process = 資料解碼器（{ $pid }）
+about-processes-socket-process = 網路（{ $pid }）
+about-processes-remote-sandbox-broker-process = 遠端沙盒溝通工具（{ $pid }）
+about-processes-fork-server-process = Fork 伺服器（{ $pid }）
+about-processes-preallocated-process = 預先分配（{ $pid }）
+# Unknown process names
+# Variables:
+#    $pid (String) The process id of this process, assigned by the OS.
+#    $type (String) The raw type for this process.
+about-processes-unknown-process = 其他: { $type }（{ $pid }）
+
+## Isolated process names
+## Variables:
+##    $pid (String) The process id of this process, assigned by the OS.
+##    $origin (String) The domain name for this process.
+
+about-processes-web-isolated-process = { $origin }（{ $pid }）
+about-processes-web-large-allocation-process = { $origin }（{ $pid }，大型）
+about-processes-with-coop-coep-process = { $origin }（{ $pid }，隔離跨來源）
+
 ## Details within processes
 
 # Single-line summary of threads

@@ -21,6 +21,7 @@ upgrade-dialog-new-primary-primary-button = 將 { -brand-short-name } 設為我�
     .title = 將 { -brand-short-name } 設為預設瀏覽器，並釘選到工作列
 upgrade-dialog-new-primary-default-button = 將 { -brand-short-name } 設為我的預設瀏覽器
 upgrade-dialog-new-primary-pin-button = 將 { -brand-short-name } 釘選到我的工作列
+upgrade-dialog-new-primary-pin-alt-button = 釘選到工作列
 upgrade-dialog-new-primary-theme-button = 選擇佈景主題
 upgrade-dialog-new-secondary-button = 現在不要
 # This string is only shown on Windows 7, where we intentionally suppress the
