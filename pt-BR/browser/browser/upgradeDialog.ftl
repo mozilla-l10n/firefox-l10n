@@ -21,6 +21,7 @@ upgrade-dialog-new-primary-primary-button = Tornar o { -brand-short-name } meu n
     .title = Define o { -brand-short-name } como navegador padrão e fixa na barra de tarefas
 upgrade-dialog-new-primary-default-button = Tornar o { -brand-short-name } meu navegador padrão
 upgrade-dialog-new-primary-pin-button = Fixar o { -brand-short-name } na barra de tarefas
+upgrade-dialog-new-primary-pin-alt-button = Fixar na barra de tarefas
 upgrade-dialog-new-primary-theme-button = Escolha um tema
 upgrade-dialog-new-secondary-button = Agora não
 # This string is only shown on Windows 7, where we intentionally suppress the
