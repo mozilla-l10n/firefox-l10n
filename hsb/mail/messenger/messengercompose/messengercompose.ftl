@@ -144,6 +144,24 @@ to-compose-show-address-row-label =
     .tooltiptext = Polo { to-compose-address-row-label.value } pokazać ({ to-compose-show-address-row-menuitem.acceltext })
 cc-compose-address-row-label =
     .value = Kopija
+#   $key (String) - the shortcut key for this field
+cc-compose-show-address-row-menuitem =
+    .label = Polo { cc-compose-address-row-label.value }
+    .accesskey = K
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+cc-compose-show-address-row-label =
+    .value = { cc-compose-address-row-label.value }
+    .tooltiptext = Polo { cc-compose-address-row-label.value } pokazać ({ cc-compose-show-address-row-menuitem.acceltext })
+bcc-compose-address-row-label =
+    .value = Schowana kopija
+#   $key (String) - the shortcut key for this field
+bcc-compose-show-address-row-menuitem =
+    .label = Polo { bcc-compose-address-row-label.value }
+    .accesskey = S
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+bcc-compose-show-address-row-label =
+    .value = { bcc-compose-address-row-label.value }
+    .tooltiptext = Polo { bcc-compose-address-row-label.value } pokazać ({ bcc-compose-show-address-row-menuitem.acceltext })
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 consider-bcc-notification = Přijimarjo w polomaj Komu a Kopija móža adresu druhich widźeć. Ličba: { $count }. Wužiwajće město toho polo Schowana kopija, zo byšće tomu zadźěwał, zo so přijimarjo přeradźuja.
 many-public-recipients-bcc =
