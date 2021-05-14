@@ -112,6 +112,34 @@ move-attachment-last-panel-button =
 button-return-receipt =
     .label = 回执
     .tooltiptext = 要求对方收件后发送回执
+
+# Addressing Area
+
+to-compose-address-row-label =
+    .value = 收件人
+#   $key (String) - the shortcut key for this field
+to-compose-show-address-row-menuitem =
+    .label = “{ to-compose-address-row-label.value }”栏
+    .accesskey = T
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+to-compose-show-address-row-label =
+    .value = { to-compose-address-row-label.value }
+    .tooltiptext = 显示“{ to-compose-address-row-label.value }”栏（{ to-compose-show-address-row-menuitem.acceltext }）
+cc-compose-address-row-label =
+    .value = 抄送
+cc-compose-show-address-row-label =
+    .value = { cc-compose-address-row-label.value }
+    .tooltiptext = 显示“{ cc-compose-address-row-label.value }”栏（{ cc-compose-show-address-row-menuitem.acceltext }）
+bcc-compose-address-row-label =
+    .value = 密送
+#   $key (String) - the shortcut key for this field
+bcc-compose-show-address-row-menuitem =
+    .label = “{ bcc-compose-address-row-label.value }”栏
+    .accesskey = B
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+bcc-compose-show-address-row-label =
+    .value = { bcc-compose-address-row-label.value }
+    .tooltiptext = 显示“{ bcc-compose-address-row-label.value }”栏（{ bcc-compose-show-address-row-menuitem.acceltext }）
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 consider-bcc-notification = “收件人”与“抄送”共有 { $count } 位，他们可以看到彼此的邮箱地址。您可以改用“密送”来避免泄露相关人信息。
 many-public-recipients-bcc =
