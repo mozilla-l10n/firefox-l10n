@@ -117,6 +117,26 @@ move-attachment-last-panel-button =
 button-return-receipt =
     .label = Visszaigazolás
     .tooltiptext = Visszaigazolás kérése az üzenetről
+
+# Addressing Area
+
+to-compose-address-row-label =
+    .value = Címzett
+#   $key (String) - the shortcut key for this field
+to-compose-show-address-row-menuitem =
+    .label = { to-compose-address-row-label.value } mező
+    .accesskey = m
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+to-compose-show-address-row-label =
+    .value = { to-compose-address-row-label.value }
+    .tooltiptext = A { to-compose-address-row-label.value } mező megjelenítése ({ to-compose-show-address-row-menuitem.acceltext })
+cc-compose-address-row-label =
+    .value = Másolatot kap
+#   $key (String) - the shortcut key for this field
+cc-compose-show-address-row-menuitem =
+    .label = { cc-compose-address-row-label.value } mező
+    .accesskey = C
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 consider-bcc-notification = A címzett és másolatot kapó { $count } partner láthatja egymás e-mail-címét. Elkerülheti a címzettek közzétételét, ha helyette titkos másolatot használ.
 many-public-recipients-bcc =

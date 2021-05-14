@@ -144,3 +144,5 @@ account-setup-advanced-setup-button = Speciális beállítások
 
 ## Warning insecure server
 
+account-setup-insecure-server-checkbox = Megértettem a kockázatokat
+    .accesskey = k
