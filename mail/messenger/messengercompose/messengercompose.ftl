@@ -135,6 +135,16 @@ cc-compose-show-address-row-menuitem =
 cc-compose-show-address-row-label =
     .value = { cc-compose-address-row-label.value }
     .tooltiptext = 顯示「{ cc-compose-address-row-label.value }」欄位（{ cc-compose-show-address-row-menuitem.acceltext }）
+bcc-compose-address-row-label =
+    .value = 密件副本
+#   $key (String) - the shortcut key for this field
+bcc-compose-show-address-row-menuitem =
+    .label = 「{ bcc-compose-address-row-label.value }」欄位
+    .accesskey = B
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+bcc-compose-show-address-row-label =
+    .value = { bcc-compose-address-row-label.value }
+    .tooltiptext = 顯示「{ bcc-compose-address-row-label.value }」欄位（{ bcc-compose-show-address-row-menuitem.acceltext }）
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 consider-bcc-notification = 「給」與「副本」收件者共有 { $count } 位，都會看到彼此的收件信箱。您可以改用「密件副本」來避免揭露收件者資訊。
 many-public-recipients-bcc =
