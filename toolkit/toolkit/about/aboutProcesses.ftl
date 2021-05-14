@@ -68,9 +68,9 @@ about-processes-gpu-process = GPU ({ $pid })
 about-processes-vr-process = VR ({ $pid })
 about-processes-rdd-process = Datgodiwr Data ({ $pid })
 about-processes-socket-process = Rhwydwaith ({ $pid })
-about-processes-remote-sandbox-broker-process = Brocer Blwch Tywod Pell  ({ $pid })
-about-processes-fork-server-process = Gweinydd Fforc  ({ $pid })
-about-processes-preallocated-process = Wedi'i rhagddyrannu  ({ $pid })
+about-processes-remote-sandbox-broker-process = Brocer Blwch Tywod Pell ({ $pid })
+about-processes-fork-server-process = Gweinydd Fforc ({ $pid })
+about-processes-preallocated-process = Wedi'i rhagddyrannu ({ $pid })
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
@@ -87,6 +87,7 @@ about-processes-web-large-allocation-process = { $origin } ({ $pid }, mawr)
 about-processes-with-coop-coep-process = { $origin } ({ $pid }, traws-darddiad ynysig)
 about-processes-web-isolated-process-private = { $origin } — Preifat ({ $pid })
 about-processes-web-large-allocation-process-private = { $origin } — Preifat ({ $pid }, mawr)
+about-processes-with-coop-coep-process-private = { $origin } — Preifat ({ $pid }, traws-darddiad ynysig)
 
 ## Details within processes
 
@@ -101,6 +102,46 @@ about-processes-thread-summary = Trywyddau ({ $number })
 #   $name (String) The name assigned to the thread.
 #   $tid (String) The thread id of this thread, assigned by the OS.
 about-processes-thread-name = Trywydd { $tid }: { $name }
+# Single-line summary of threads (non-idle process)
+# Variables:
+#    $number (Number) The number of threads in the process. Typically larger
+#                     than 30. We don't expect to ever have processes with less
+#                     than 5 threads.
+#    $active (Number) The number of active threads in the process.
+#                     The value will be greater than 0 and will never be
+#                     greater than $number.
+#    $list (String) Comma separated list of active threads.
+#                   Can be an empty string if the process is idle.
+about-processes-active-threads =
+    { $active ->
+        [zero] { $active } edafedd gweithredol allan o { $number }:{ $list }
+        [one] { $active } edafedd gweithredol allan o { $number }:{ $list }
+        [two] { $active } edafedd gweithredol allan o { $number }:{ $list }
+        [few] { $active } edafedd gweithredol allan o { $number }:{ $list }
+        [many] { $active } edafedd gweithredol allan o { $number }:{ $list }
+       *[other] { $active } edafedd gweithredol allan o { $number }:{ $list }
+    }
+# Single-line summary of threads (idle process)
+# Variables:
+#    $number (Number) The number of threads in the process. Typically larger
+#                     than 30. We don't expect to ever have processes with less
+#                     than 5 threads.
+#                     The process is idle so all threads are inactive.
+about-processes-inactive-threads =
+    { $number ->
+        [zero] { $number } edafedd anweithredol
+        [one] { $number } edafedd anweithredol
+        [two] { $number } edafedd anweithredol
+        [few] { $number } edafedd anweithredol
+        [many] { $number } edafedd anweithredol
+       *[other] { $number } edafedd anweithredol
+    }
+# Thread details
+# Variables:
+#   $name (String) The name assigned to the thread.
+#   $tid (String) The thread id of this thread, assigned by the OS.
+about-processes-thread-name-and-id = { $name }
+    .title = ID edafedd: { $tid }
 # Tab
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
@@ -127,10 +168,16 @@ about-processes-frame-name-many = Is-fframiau ({ $number }): { $shortUrl }
 
 # Common case.
 about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") } ({ NUMBER($total, maximumFractionDigits: 0) }{ $unit })
+# Common case.
+about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
+    .title = Cyfanswm amser CPU: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (yn mesur)
 # Special case: process or thread is currently idle.
 about-processes-cpu-user-and-kernel-idle = segur ({ NUMBER($total, maximumFractionDigits: 2) }{ $unit })
+# Special case: process or thread is currently idle.
+about-processes-cpu-idle = yn segur
+    .title = Cyfanswm amser CPU: { NUMBER($total, maximumFractionDigits: 2) }{ $unit }
 
 ## Displaying Memory (total and delta)
 ## Variables:
@@ -145,6 +192,9 @@ about-processes-cpu-user-and-kernel-idle = segur ({ NUMBER($total, maximumFracti
 
 # Common case.
 about-processes-total-memory-size = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit } ({ $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit })
+# Common case.
+about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigits: 0) }
+    .title = Esblygiad: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit }
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
 
