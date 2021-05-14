@@ -52,6 +52,22 @@ about-processes-unknown-process-name = Egyéb ({ $type }, folyamat: { $pid })
 #   $pid (String) The process id of this process, assigned by the OS.
 about-processes-process-name = Folyamat: { $pid }: { $name }
 
+## Process names
+## Variables:
+##    $pid (String) The process id of this process, assigned by the OS.
+
+about-processes-browser-process = { -brand-short-name } ({ $pid })
+about-processes-web-process = Megosztott webes folyamat ({ $pid })
+about-processes-file-process = Fájlok ({ $pid })
+about-processes-extension-process = Kiegészítők ({ $pid })
+about-processes-plugin-process = Bővítmények ({ $pid })
+
+## Isolated process names
+## Variables:
+##    $pid (String) The process id of this process, assigned by the OS.
+##    $origin (String) The domain name for this process.
+
+
 ## Details within processes
 
 # Single-line summary of threads

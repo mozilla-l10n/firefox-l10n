@@ -21,6 +21,7 @@ upgrade-dialog-new-primary-primary-button = A { -brand-short-name } elsődleges 
     .title = Beállítja a { -brand-short-name }ot alapértelmezett böngészőnek, és rögzíti a tálcára
 upgrade-dialog-new-primary-default-button = A { -brand-short-name } alapértelmezett böngészővé tétele
 upgrade-dialog-new-primary-pin-button = A { -brand-short-name } rögzítése a tálcára
+upgrade-dialog-new-primary-pin-alt-button = Rögzítés a tálcára
 upgrade-dialog-new-primary-theme-button = Válasszon témát
 upgrade-dialog-new-secondary-button = Most nem
 # This string is only shown on Windows 7, where we intentionally suppress the
