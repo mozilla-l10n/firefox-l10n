@@ -56,6 +56,7 @@ upgrade-dialog-new-primary-pin-button =
         [neuter] { -brand-short-name(case: "acc") }
        *[other] aplikaci { -brand-short-name }
     } na lištu
+upgrade-dialog-new-primary-pin-alt-button = Připnout na lištu
 upgrade-dialog-new-primary-theme-button = Vybrat vzhled
 upgrade-dialog-new-secondary-button = Teď ne
 # This string is only shown on Windows 7, where we intentionally suppress the
