@@ -52,6 +52,42 @@ about-processes-unknown-process-name = Diğer ({ $type }, işlem { $pid })
 #   $pid (String) The process id of this process, assigned by the OS.
 about-processes-process-name = İşlem { $pid }: { $name }
 
+## Process names
+## Variables:
+##    $pid (String) The process id of this process, assigned by the OS.
+
+about-processes-browser-process = { -brand-short-name } ({ $pid })
+about-processes-file-process = Dosyalar ({ $pid })
+about-processes-extension-process = Uzantılar ({ $pid })
+about-processes-privilegedabout-process = About sayfaları ({ $pid })
+about-processes-plugin-process = Yan uygulamalar ({ $pid })
+about-processes-privilegedmozilla-process = { -vendor-short-name } siteleri ({ $pid })
+about-processes-gmp-plugin-process = Gecko ortam yan uygulamaları ({ $pid })
+about-processes-gpu-process = GPU ({ $pid })
+about-processes-vr-process = VR ({ $pid })
+about-processes-rdd-process = Veri çözücü ({ $pid })
+about-processes-socket-process = Ağ ({ $pid })
+about-processes-remote-sandbox-broker-process = Uzak sandbox aracısı { $pid }
+about-processes-fork-server-process = Fork sunucusu ({ $pid })
+about-processes-preallocated-process = Ayrılmış ({ $pid })
+# Unknown process names
+# Variables:
+#    $pid (String) The process id of this process, assigned by the OS.
+#    $type (String) The raw type for this process.
+about-processes-unknown-process = Diğer: { $type } ({ $pid })
+
+## Isolated process names
+## Variables:
+##    $pid (String) The process id of this process, assigned by the OS.
+##    $origin (String) The domain name for this process.
+
+about-processes-web-isolated-process = { $origin } ({ $pid })
+about-processes-web-large-allocation-process = { $origin } ({ $pid }, büyük)
+about-processes-with-coop-coep-process = { $origin } ({ $pid }, çapraz köken izole)
+about-processes-web-isolated-process-private = { $origin } — Gizli ({ $pid })
+about-processes-web-large-allocation-process-private = { $origin } — Gizli ({ $pid }, büyük)
+about-processes-with-coop-coep-process-private = { $origin } — Gizli ({ $pid }, çapraz köken izole)
+
 ## Details within processes
 
 # Single-line summary of threads
@@ -65,6 +101,23 @@ about-processes-thread-summary = İş parçacıkları ({ $number })
 #   $name (String) The name assigned to the thread.
 #   $tid (String) The thread id of this thread, assigned by the OS.
 about-processes-thread-name = İş parçacığı { $tid }: { $name }
+# Single-line summary of threads (idle process)
+# Variables:
+#    $number (Number) The number of threads in the process. Typically larger
+#                     than 30. We don't expect to ever have processes with less
+#                     than 5 threads.
+#                     The process is idle so all threads are inactive.
+about-processes-inactive-threads =
+    { $number ->
+        [one] { $number } pasif iş parçacığı
+       *[other] { $number } pasif iş parçacığı
+    }
+# Thread details
+# Variables:
+#   $name (String) The name assigned to the thread.
+#   $tid (String) The thread id of this thread, assigned by the OS.
+about-processes-thread-name-and-id = { $name }
+    .title = İş parçacığı kimliği: { $tid }
 # Tab
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
@@ -91,10 +144,16 @@ about-processes-frame-name-many = Alt çerçeveler ({ $number }): { $shortUrl }
 
 # Common case.
 about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") } ({ NUMBER($total, maximumFractionDigits: 0) } { $unit })
+# Common case.
+about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
+    .title = Toplam CPU süresi: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (ölçülüyor)
 # Special case: process or thread is currently idle.
 about-processes-cpu-user-and-kernel-idle = boşta ({ NUMBER($total, maximumFractionDigits: 2) } { $unit })
+# Special case: process or thread is currently idle.
+about-processes-cpu-idle = boşta
+    .title = Toplam CPU süresi: { NUMBER($total, maximumFractionDigits: 2) }{ $unit }
 
 ## Displaying Memory (total and delta)
 ## Variables:
