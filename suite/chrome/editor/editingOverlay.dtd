@@ -58,3 +58,5 @@
 <!ENTITY publishToolbarCmd.tooltip "Выгрузить файл на удалённый сервер">
 <!ENTITY printToolbarCmd.label "Печать">
 <!ENTITY printToolbarCmd.tooltip "Распечатать эту страницу">
+<!ENTITY formToolbarCmd.label "Форма">
+<!ENTITY formToolbarCmd.tooltip "Вставить новую форму или изменить свойства выбранной формы">
