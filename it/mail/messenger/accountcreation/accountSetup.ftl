@@ -56,6 +56,10 @@ account-setup-button-cancel = Annulla
     .accesskey = A
 account-setup-button-manual-config = Configura manualmente
     .accesskey = m
+account-setup-button-stop = Interrompi
+    .accesskey = e
+account-setup-button-retest = Riesamina
+    .accesskey = s
 account-setup-button-continue = Continua
     .accesskey = C
 account-setup-button-done = Fatto
@@ -64,6 +68,7 @@ account-setup-button-done = Fatto
 ## Notifications
 
 account-setup-looking-up-settings = Ricerca configurazione…
+account-setup-looking-up-settings-guess = Ricerca configurazione: stiamo verificando i nomi dei server utilizzati più comunemente…
 account-setup-looking-up-settings-half-manual = Ricerca configurazione: verifica del server...
 account-setup-looking-up-disk = Ricerca configurazione: installazione di { -brand-short-name }...
 account-setup-looking-up-isp = Ricerca configurazione: fornitore di posta elettronica...
@@ -74,6 +79,8 @@ account-setup-looking-up-exchange = Ricerca configurazione: server Exchange...
 account-setup-checking-password = Controllo password…
 account-setup-installing-addon = Download e installazione del componente aggiuntivo…
 account-setup-success-half-manual = Sono state trovate le seguenti impostazioni interrogando il server impostato:
+account-setup-success-guess = Configurazione rilevata cercando tra i nomi dei server più comuni.
+account-setup-success-guess-offline = La connessione non è attiva. Abbiamo cercato di indovinare alcune impostazioni ma sarà necessario inserire le impostazioni corrette.
 account-setup-success-password = La password è corretta
 account-setup-success-addon = Componente aggiuntivo installato con successo
 # Note: Do not translate or replace Mozilla. It stands for the public project mozilla.org, not Mozilla Corporation. The database is a generic, public domain facility usable by any client.
@@ -118,6 +125,8 @@ account-setup-exchange-title = Server
 
 ## Error messages
 
+# Note: The reference to "janedoe" (Jane Doe) is the name of an example person. You will want to translate it to whatever example persons would be named in your language. In the example, AD is the name of the Windows domain, and this should usually not be translated.
+account-setup-credentials-incomplete = Autenticazione non riuscita. Le credenziali non sono corrette oppure è richiesto un nome utente diverso. Normalmente si tratta dello stesso nome utente utilizzato per accedere al dominio Windows, con o senza il dominio (ad esempio mariorossi o AD\\mariorossi).
 account-setup-credentials-wrong = Autenticazione non riuscita. Assicurati che nome utente e password siano corretti
 account-setup-find-settings-failed = { -brand-short-name } non è riuscito a trovare le impostazioni per il tuo account email
 account-setup-exchange-config-unverifiable = Impossibile verificare la configurazione. Se il nome utente e la password sono corretti, è possibile che l’amministratore del server abbia disattivato la configurazione selezionata per questo account. Provare a selezionare un altro protocollo.
