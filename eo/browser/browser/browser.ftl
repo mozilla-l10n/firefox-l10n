@@ -330,6 +330,7 @@ identity-https-only-info-turn-off2 = Se la paĝo ne bone funkcias, vi povas mal�
 identity-https-only-info-no-upgrade = Ne eblas ŝanĝi la konekton HTTP.
 identity-permissions-storage-access-header = Interretejaj kuketoj
 identity-permissions-storage-access-hint = Tiuj ĉi aliaj partoprenantoj povas uzi interretejajn kuketojn kaj retejajn datumojn dum vi estas en tiu ĉi retejo,
+identity-permissions-storage-access-learn-more = Pli da informo
 identity-permissions-reload-hint = Vi eble bezonos reŝargi la paĝon por ke la ŝanĝoj estu aplikitaj.
 identity-permissions-empty = Vi ne donis iun ajn specialan permeson al tiu ĉi retejo.
 identity-clear-site-data =
