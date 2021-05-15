@@ -117,6 +117,36 @@ move-attachment-last-panel-button =
 button-return-receipt =
     .label = Recibo
     .tooltiptext = Pedir recibo por este mensaje
+
+# Addressing Area
+
+to-compose-address-row-label =
+    .value = Para
+#   $key (String) - the shortcut key for this field
+to-compose-show-address-row-menuitem =
+    .label = Campo { to-compose-address-row-label.value }
+    .accesskey = T
+    .acceltext = { ctrl-cmd-shift-pretty-prefix } { $key }
+to-compose-show-address-row-label =
+    .value = { to-compose-address-row-label.value }
+    .tooltiptext = Mostrar { to-compose-address-row-label.value } Campo ({ to-compose-show-address-row-menuitem.acceltext })
+cc-compose-address-row-label =
+    .value = Cc
+#   $key (String) - the shortcut key for this field
+cc-compose-show-address-row-menuitem =
+    .label = Campo { cc-compose-address-row-label.value }
+    .accesskey = C
+    .acceltext = { ctrl-cmd-shift-pretty-prefix } { $key }
+cc-compose-show-address-row-label =
+    .value = { cc-compose-address-row-label.value }
+    .tooltiptext = Mostrar { cc-compose-address-row-label.value } Campo { cc-compose-show-address-row-menuitem.acceltext }
+bcc-compose-address-row-label =
+    .value = Cco
+#   $key (String) - the shortcut key for this field
+bcc-compose-show-address-row-menuitem =
+    .label = Campo { bcc-compose-address-row-label.value }
+    .accesskey = B
+    .acceltext = { ctrl-cmd-shift-pretty-prefix } { $key }
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 consider-bcc-notification = Los destinatarios de { $count } en Para y Cc pueden ver la dirección de los otros. Puede evitar revelar destinatarios usando Cco en su lugar.
 many-public-recipients-bcc =
