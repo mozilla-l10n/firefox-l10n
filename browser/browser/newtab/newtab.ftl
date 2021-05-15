@@ -11,6 +11,8 @@ newtab-settings-button =
 newtab-personalize-button-label = Personalisearje
     .title = Nij ljepblêd personalisearje
     .aria-label = Nij ljepblêd personalisearje
+newtab-personalize-dialog-label =
+    .aria-label = Personalisearje
 
 ## Search box component.
 
