@@ -52,6 +52,28 @@ about-processes-unknown-process-name = Muu ({ $type }, prosessi { $pid })
 #   $pid (String) The process id of this process, assigned by the OS.
 about-processes-process-name = Prosessi { $pid }: { $name }
 
+## Process names
+## Variables:
+##    $pid (String) The process id of this process, assigned by the OS.
+
+about-processes-browser-process = { -brand-short-name } ({ $pid })
+about-processes-file-process = Tiedostot ({ $pid })
+about-processes-extension-process = Laajennukset ({ $pid })
+about-processes-plugin-process = Liitännäiset ({ $pid })
+about-processes-socket-process = Verkko ({ $pid })
+# Unknown process names
+# Variables:
+#    $pid (String) The process id of this process, assigned by the OS.
+#    $type (String) The raw type for this process.
+about-processes-unknown-process = Muu: { $type } ({ $pid })
+
+## Isolated process names
+## Variables:
+##    $pid (String) The process id of this process, assigned by the OS.
+##    $origin (String) The domain name for this process.
+
+about-processes-web-isolated-process = { $origin } ({ $pid })
+
 ## Details within processes
 
 # Single-line summary of threads
