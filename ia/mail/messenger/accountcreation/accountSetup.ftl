@@ -53,6 +53,7 @@ account-setup-button-done = Facite
 
 ## Notifications
 
+account-setup-success-password = Contrasigno OK
 
 ## Illustrations
 
