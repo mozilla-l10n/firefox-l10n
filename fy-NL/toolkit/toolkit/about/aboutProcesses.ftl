@@ -60,7 +60,7 @@ about-processes-browser-process = { -brand-short-name } ({ $pid })
 about-processes-web-process = Dield webproses ({ $pid })
 about-processes-file-process = Bestannen ({ $pid })
 about-processes-extension-process = Utwreidingen ({ $pid })
-about-processes-privilegedabout-process = Oer-siden ({ $pid })
+about-processes-privilegedabout-process = About-siden ({ $pid })
 about-processes-plugin-process = Ynstekkers ({ $pid })
 about-processes-privilegedmozilla-process = { -vendor-short-name }-websites ({ $pid })
 about-processes-gmp-plugin-process = Gecko Media-ynstekkers ({ $pid })
@@ -184,6 +184,9 @@ about-processes-cpu-idle = ynaktyf
 
 # Common case.
 about-processes-total-memory-size = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit } ({ $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit })
+# Common case.
+about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
+    .title = Evolúsje: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit }
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
 
