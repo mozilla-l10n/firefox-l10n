@@ -21,8 +21,12 @@ upgrade-dialog-new-primary-primary-button = Tib'an nab'ey okik'amaya'l chi re ri
     .title = Tib'an chi re ri { -brand-short-name } achi'el ri okik'amaya'l k'o wi chuqa' taq pin pa ri kikajtz'ik samajib'äl
 upgrade-dialog-new-primary-default-button = Tib'an nab'ey okik'amaya'l chi re ri { -brand-short-name }
 upgrade-dialog-new-primary-pin-button = Pin { -brand-short-name } pa ri rukajtz'ik taq samaj
+upgrade-dialog-new-primary-pin-alt-button = Pin pa rukajtz'ik samajib'äl
 upgrade-dialog-new-primary-theme-button = Ticha' jun wachinel
 upgrade-dialog-new-secondary-button = Wakami mani
+# This string is only shown on Windows 7, where we intentionally suppress the
+# theme selection screen.
+upgrade-dialog-new-primary-win7-button = ¡Ütz, niq'ax pa nuwi'!
 
 ## Theme selection screen
 
