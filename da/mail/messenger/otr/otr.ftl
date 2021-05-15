@@ -96,10 +96,29 @@ msgevent-rcvdmsg-general-err = Der opstod en uventet fejl under forsøget på at
 #   $name (String) - the screen name of a chat contact person
 #   $msg (string) - the message that was received.
 msgevent-rcvdmsg-unencrypted = Følgende meddelelse modtaget fra { $name } var ikke krypteret: { $msg }
+# Do not translate 'OTR' (name of an encryption protocol)
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg-unrecognized = Du modtog en ukendt OTR-meddelelse fra { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg-for-other-instance = { $name } har sendt en meddelelse beregnet til en anden session. Hvis du er logget ind flere gange, kan en anden session have modtaget meddelelsen.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-gone-secure-private = Privat samtale med { $name } startet.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-gone-secure-unverified = Krypteret, men ikke-bekræftet samtale med { $name } startet.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-still-secure = Opdaterede den krypterede samtale med { $name }.
 error-enc = Der opstod en fejl under kryptering af meddelelsen.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 error-not_priv = Du sendte krypterede data til { $name }, som ikke forventede det.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+error-not-priv = Du sendte krypterede data til { $name }, som ikke forventede det.
 error-unreadable = Du sendte en ulæselig krypteret meddelelse.
 error-malformed = Du sendte en ugyldig datameddelelse.
 resent = [gensendt]
