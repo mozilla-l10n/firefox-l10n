@@ -31,11 +31,15 @@ alert-refresh = Forsøger at opdatere den krypterede samtale med { $name }.
 alert-gone_insecure = Den krypterede samtale med { $name } sluttede.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
+alert-gone-insecure = Den krypterede samtale med { $name } sluttede.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
 finger-unseen = { $name }s identitet er ikke bekræftet endnu. Tilfældig aflytning er ikke mulig, men med en vis indsats kan nogen lytte med. Bekræft denne kontakts identitet for at forhindre overvågning.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 finger-seen = { $name } kontakter dig fra en ukendt computer. Tilfældig aflytning er ikke mulig, men med en vis indsats kan nogen lytte med. Bekræft denne kontakts identitet for at forhindre overvågning.
 state-not_private = Den aktuelle samtale er ikke privat.
+state-not-private = Den aktuelle samtale er ikke privat.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 state-unverified = Den aktuelle samtale er krypteret, men ikke privat, da { $name }s identitet endnu ikke er bekræftet.
@@ -46,6 +50,7 @@ state-private = { $name }s identitet er verificeret. Den aktuelle samtale er kry
 #   $name (String) - the screen name of a chat contact person
 state-finished = { $name } har afsluttet sin krypterede samtale med dig; du bør gøre det samme.
 state-not_private-label = Usikker
+state-not-private-label = Usikker
 state-unverified-label = Ubekræftet
 state-private-label = Privat
 state-finished-label = Afsluttet
@@ -62,6 +67,7 @@ verify-title = Bekræft din kontakts identitet
 error-title = Fejl
 success-title = End to end-kryptering
 successThem-title = Bekræft din kontakts identitet
+success-them-title = Bekræft din kontakts identitet
 fail-title = Kunne ikke bekræfte
 waiting-title = Bekræftelsesanmodning sendt
 # Do not translate 'OTR' (name of an encryption protocol)

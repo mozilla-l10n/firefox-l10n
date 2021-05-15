@@ -17,8 +17,11 @@ otr-log =
     .label = Inkluder OTR-krypterede meddelelser i samtalelogger
 otr-requireEncryption =
     .label = Kræv end to end-kryptering ved en til en-samtaler
+otr-require-encryption =
+    .label = Kræv end to end-kryptering ved en til en-samtaler
 otr-verifyNudge =
     .label = Mind mig altid om at bekræfte en ubekræftet kontakt
-
 otr-notYetAvailable = endnu ikke tilgængelig
-
+otr-verify-nudge =
+    .label = Mind mig altid om at bekræfte en ubekræftet kontakt
+otr-not-yet-available = endnu ikke tilgængelig
