@@ -123,6 +123,39 @@ move-attachment-last-panel-button =
 button-return-receipt =
     .label = Patvirtinimas
     .tooltiptext = Paprašyti pristatymo patvirtinimo šiam pranešimui
+
+# Addressing Area
+
+to-compose-address-row-label =
+    .value = Gavėjas
+#   $key (String) - the shortcut key for this field
+to-compose-show-address-row-menuitem =
+    .label = { to-compose-address-row-label.value } laukas
+    .accesskey = l
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+to-compose-show-address-row-label =
+    .value = { to-compose-address-row-label.value }
+    .tooltiptext = Parodyti { to-compose-address-row-label.value } lauką ({ to-compose-show-address-row-menuitem.acceltext })
+cc-compose-address-row-label =
+    .value = Kopija
+#   $key (String) - the shortcut key for this field
+cc-compose-show-address-row-menuitem =
+    .label = { cc-compose-address-row-label.value } lauks
+    .accesskey = l
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+cc-compose-show-address-row-label =
+    .value = { cc-compose-address-row-label.value }
+    .tooltiptext = Parodo { cc-compose-address-row-label.value } lauką ({ cc-compose-show-address-row-menuitem.acceltext })
+bcc-compose-address-row-label =
+    .value = Nematoma kopija
+#   $key (String) - the shortcut key for this field
+bcc-compose-show-address-row-menuitem =
+    .label = { bcc-compose-address-row-label.value } laukas
+    .accesskey = l
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+bcc-compose-show-address-row-label =
+    .value = { bcc-compose-address-row-label.value }
+    .tooltiptext = Parodo { bcc-compose-address-row-label.value } lauką ({ bcc-compose-show-address-row-menuitem.acceltext })
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 consider-bcc-notification = { $count } gavėjai iš „To“ ir „Cc“ gali matyti vienas kito adresą. Jei norite to išvengti, naudokite nematomas kopijas (BCC).
 many-public-recipients-bcc =
