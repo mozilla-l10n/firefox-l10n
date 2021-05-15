@@ -115,6 +115,13 @@ move-attachment-last-panel-button =
 button-return-receipt =
     .label = Untfangstbefêstiging
     .tooltiptext = In ûntfangstbefêstiging foar dit berjocht freegje
+
+# Addressing Area
+
+to-compose-address-row-label =
+    .value = Oan
+cc-compose-address-row-label =
+    .value = Cc
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 consider-bcc-notification = De { $count } ûntfangers yn Oan en Cc kinne inoars adres sjen. Jo kinne foarkomme dat ûntfangers toand wurde troch yn stee hjirfan Bcc te brûken.
 many-public-recipients-bcc =
