@@ -32,7 +32,7 @@
 <!ENTITY search.label "Vyhľadávanie na webe">
 <!ENTITY tabWindows.label "Prehliadanie na kartách">
 <!ENTITY links.label "Správanie sa odkazov">
-<!ENTITY download.label "Preberanie súborov">
+<!ENTITY download.label "Sťahovanie súborov">
 
 <!ENTITY security.label "Súkromie a bezpečnosť">
 <!ENTITY privatedata.label "Súkromné údaje">

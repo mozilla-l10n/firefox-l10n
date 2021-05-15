@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY progress.title                  "Prebieha preberanie súboru…">
+<!ENTITY progress.title                  "Prebieha sťahovanie súboru…">
 <!ENTITY closeWindow.key                 "w">
 <!ENTITY cmd.pause.tooltip               "Pozastaviť">
 <!ENTITY cmd.resume.tooltip              "Pokračovať">
@@ -16,5 +16,5 @@
 <!ENTITY cmd.goToDownloadPage.accesskey  "r">
 <!ENTITY cmd.copyDownloadLink.label      "Kopírovať adresu súboru">
 <!ENTITY cmd.copyDownloadLink.accesskey  "K">
-<!ENTITY closeWhenDone.label             "Po dokončení preberania zavrieť toto okno.">
+<!ENTITY closeWhenDone.label             "Po dokončení sťahovania zavrieť toto okno.">
 <!ENTITY closeWhenDone.accesskey         "d">

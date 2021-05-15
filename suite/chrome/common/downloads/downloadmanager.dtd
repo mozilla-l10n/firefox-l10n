@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY downloadManager.title           "Správca preberania súborov">
+<!ENTITY downloadManager.title           "Správca sťahovania súborov">
 
 <!ENTITY menuBar.tooltip                 "Panel Ponuka">
 <!ENTITY searchBar.tooltip               "Panel Vyhľadávanie">
@@ -13,7 +13,7 @@
 <!ENTITY search.key                      "f">
 
 <!ENTITY cmd.clearList.label             "Vymazať zoznam">
-<!ENTITY cmd.clearList.tooltip           "Odstrániť dokončené, zrušené alebo neúspešne prevzaté súbory zo zoznamu">
+<!ENTITY cmd.clearList.tooltip           "Odstrániť dokončené, zrušené alebo neúspešne stiahnuté súbory zo zoznamu">
 <!ENTITY cmd.clearList.accesskey         "V">
 
 <!ENTITY col.name.label                  "Názov">
@@ -91,6 +91,5 @@
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
      This command is shown in the context menu when downloads are blocked.
      -->
-<!ENTITY cmd.unblock2.label               "Povoliť prevzatie">
+<!ENTITY cmd.unblock2.label               "Povoliť stiahnutie">
 <!ENTITY cmd.unblock2.accesskey           "l">
-
