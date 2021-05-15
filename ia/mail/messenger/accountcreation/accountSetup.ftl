@@ -66,6 +66,8 @@ account-setup-success-password = Contrasigno OK
 
 ## Manual config area
 
+account-setup-manual-config-title = Parametros de servitor
+protocol-imap-option = { account-setup-result-imap }
 
 ## Warning insecure server
 
