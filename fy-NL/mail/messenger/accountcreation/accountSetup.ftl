@@ -7,6 +7,9 @@ account-setup-tab-title = Account ynstelle
 ## Header
 
 account-setup-title = Jo besteande e-mailadres ynstelle
+account-setup-description =
+    Folje om jo aktuele e-mailadres te brûken jo oanmeldgegevens yn.<br/>
+    { -brand-product-name } siket automatysk nei in wurkjende en oanrekommandearre serverkonfiguraasje.
 
 ## Form fields
 
@@ -89,12 +92,15 @@ account-setup-success-settings-exchange = Konfiguraasje fûn foar in Microsoft E
 
 ## Illustrations
 
+account-setup-step1-image =
+    .title = Inisjele konfiguraasje
 account-setup-step2-image =
     .title = Lade…
 account-setup-step3-image =
     .title = Konfiguraasje fûn
 account-setup-step4-image =
     .title = Ferbiningsflater
+account-setup-privacy-footnote = Jo oanmeldgegevens wurde brûkt yn oerienstimming mei ús <a data-l10n-name="privacy-policy-link">privacybelied</a> en wurde allinnich lokaal op jo kompjûter bewarre.
 account-setup-selection-help = Net wis wat jo selektearje moatte?
 account-setup-selection-error = Help nedich?
 account-setup-documentation-help = Ynstellingsdokumintaasje
@@ -119,6 +125,11 @@ account-setup-exchange-title = Server
 
 ## Error messages
 
+# Note: The reference to "janedoe" (Jane Doe) is the name of an example person. You will want to translate it to whatever example persons would be named in your language. In the example, AD is the name of the Windows domain, and this should usually not be translated.
+account-setup-credentials-incomplete = Autentikaasje mislearre. Of de ynfierde gegevens binne ferkeard of der is in aparte brûkersnamme nedich om oan te melden. Dizze brûkersnamme is normaal jo Windows-domein-oanmelding mei of sûnder it domein (bygelyks janedoe of AD\\janedoe)
+account-setup-credentials-wrong = Autentikaasje mislearre. Kontrolearje de brûkersnamme en it wachtwurd
+account-setup-find-settings-failed = { -brand-short-name } koe de ynstellingen foar jo e-mailaccount net fine
+account-setup-exchange-config-unverifiable = Konfiguraasje koe net ferifiearre wurde. As jo brûkersnamme en wachtwurd goed binne, is it wierskynlik dat de serverbehearder de selektearre konfiguraasje foar jo account útskeakele hat. Probearje in oar protokol te selektearjen.
 
 ## Manual config area
 
