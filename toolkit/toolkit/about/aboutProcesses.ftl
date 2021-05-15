@@ -56,6 +56,7 @@ about-processes-process-name = Proces { $pid }: { $name }
 ## Variables:
 ##    $pid (String) The process id of this process, assigned by the OS.
 
+about-processes-browser-process = { -brand-short-name } ({ $pid })
 about-processes-web-process = Gedeeld webproces ({ $pid })
 about-processes-file-process = Bestanden ({ $pid })
 about-processes-extension-process = Extensies ({ $pid })
@@ -180,6 +181,9 @@ about-processes-cpu-user-and-kernel-idle = inactief ({ NUMBER($total, maximumFra
 
 # Common case.
 about-processes-total-memory-size = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit } ({ $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit })
+# Common case.
+about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigits: 0) } { $totalUnit }
+    .title = Evolutie: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) } { $deltaUnit }
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
 
