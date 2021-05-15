@@ -5,10 +5,10 @@
 places-open =
     .label = 開く
     .accesskey = O
-places-open-tab =
+places-open-in-tab =
     .label = 新規タブで開く
     .accesskey = w
-places-open-in-tab =
+places-open-tab =
     .label = 新規タブで開く
     .accesskey = w
 places-open-all-bookmarks =
@@ -20,7 +20,14 @@ places-open-all-in-tabs =
 places-open-window =
     .label = 新規ウインドウで開く
     .accesskey = N
+places-open-in-window =
+    .label = 新規ウインドウで開く
+    .accesskey = N
 places-open-private-window =
+    .label = 新規プライベートウインドウで開く
+    .accesskey = P
+
+places-open-in-private-window =
     .label = 新規プライベートウインドウで開く
     .accesskey = P
 
@@ -36,13 +43,6 @@ places-new-folder =
 places-new-separator =
     .label = 新規区切り
     .accesskey = S
-
-places-open-in-window =
-    .label = 新規ウインドウで開く
-    .accesskey = N
-places-open-in-private-window =
-    .label = 新規プライベートウインドウで開く
-    .accesskey = P
 
 places-add-bookmark =
     .label = ブックマークを追加...
@@ -98,6 +98,13 @@ places-edit-bookmark =
 places-edit-generic =
     .label = 編集...
     .accesskey = i
+
+places-edit-folder =
+  .label = フォルダー名を変更...
+  .accesskey = e
+places-remove-folder =
+  .label = フォルダーを削除
+  .accesskey = m
 
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
