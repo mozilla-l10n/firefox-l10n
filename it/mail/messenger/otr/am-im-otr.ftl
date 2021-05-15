@@ -17,9 +17,12 @@ otr-log =
     .label = Includi i messaggi crittati OTR nei registri delle conversazioni
 otr-requireEncryption =
     .label = Richiedi crittografia end-to-end per conversazioni a due
+otr-require-encryption =
+    .label = Richiedi crittografia end-to-end per conversazioni a due
 otr-require-encryption-info = Se si imposta il requisito della crittografia end-to-end, i messaggi in una conversazioni a due verranno inviati esclusivamente se è possibile crittarli. Eventuali messaggi non crittati ricevuti non verranno visualizzati nella conversazione, né registrarti.
 otr-verifyNudge =
     .label = Ricordami sempre di verificare un contatto non verificato
-
 otr-notYetAvailable = non ancora disponibile
-
+otr-verify-nudge =
+    .label = Ricordami sempre di verificare un contatto non verificato
+otr-not-yet-available = non ancora disponibile
