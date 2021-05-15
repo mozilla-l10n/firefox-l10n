@@ -21,6 +21,7 @@ upgrade-dialog-new-primary-primary-button = Render { -brand-short-name } mi navi
     .title = Predefini { -brand-short-name } como navigator e lo appuncta in le barra del activitates
 upgrade-dialog-new-primary-default-button = Render { -brand-short-name } mi navigator primari?
 upgrade-dialog-new-primary-pin-button = Adde { -brand-short-name } al barra del applicationes
+upgrade-dialog-new-primary-pin-alt-button = Appunctar al barra del activitates
 upgrade-dialog-new-primary-theme-button = Elige un thema
 upgrade-dialog-new-secondary-button = Non ora
 # This string is only shown on Windows 7, where we intentionally suppress the

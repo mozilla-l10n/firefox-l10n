@@ -52,6 +52,39 @@ about-processes-unknown-process-name = Altere ({ $type }, processo { $pid })
 #   $pid (String) The process id of this process, assigned by the OS.
 about-processes-process-name = Processo { $pid }: { $name }
 
+## Process names
+## Variables:
+##    $pid (String) The process id of this process, assigned by the OS.
+
+about-processes-browser-process = { -brand-short-name } ({ $pid })
+about-processes-web-process = Processo web compartite ({ $pid })
+about-processes-file-process = File ({ $pid })
+about-processes-extension-process = Extensiones ({ $pid })
+about-processes-privilegedabout-process = Paginas re ({ $pid })
+about-processes-plugin-process = Plugins ({ $pid })
+about-processes-privilegedmozilla-process = Sitos { -vendor-short-name } ({ $pid })
+about-processes-gmp-plugin-process = Plugins multimedial Gecko ({ $pid })
+about-processes-gpu-process = GPU ({ $pid })
+about-processes-vr-process = VR ({ $pid })
+about-processes-rdd-process = Decodificator de datos ({ $pid })
+about-processes-socket-process = Rete ({ $pid })
+about-processes-preallocated-process = Pre-allocate ({ $pid })
+# Unknown process names
+# Variables:
+#    $pid (String) The process id of this process, assigned by the OS.
+#    $type (String) The raw type for this process.
+about-processes-unknown-process = Altero: { $type } ({ $pid })
+
+## Isolated process names
+## Variables:
+##    $pid (String) The process id of this process, assigned by the OS.
+##    $origin (String) The domain name for this process.
+
+about-processes-web-isolated-process = { $origin } ({ $pid })
+about-processes-web-large-allocation-process = { $origin } ({ $pid }, grande)
+about-processes-web-isolated-process-private = { $origin } — Anonyme ({ $pid })
+about-processes-web-large-allocation-process-private = { $origin } — Anonyme ({ $pid }, grande)
+
 ## Details within processes
 
 # Single-line summary of threads
@@ -95,6 +128,9 @@ about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigit
 about-processes-cpu-user-and-kernel-not-ready = (mesurante)
 # Special case: process or thread is currently idle.
 about-processes-cpu-user-and-kernel-idle = non active ({ NUMBER($total, maximumFractionDigits: 2) }{ $unit })
+# Special case: process or thread is currently idle.
+about-processes-cpu-idle = inactive
+    .title = Tempore CPU total
 
 ## Displaying Memory (total and delta)
 ## Variables:
@@ -109,6 +145,9 @@ about-processes-cpu-user-and-kernel-idle = non active ({ NUMBER($total, maximumF
 
 # Common case.
 about-processes-total-memory-size = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit } ({ $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit })
+# Common case.
+about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
+    .title = Evolution: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit }
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
 
