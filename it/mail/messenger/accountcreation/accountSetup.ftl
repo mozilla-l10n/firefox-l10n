@@ -95,12 +95,49 @@ account-setup-protocol-title = Seleziona il protocollo
 # Note: IMAP is the name of a protocol.
 account-setup-result-imap = IMAP
 account-setup-result-imap-description = Mantieni le tue cartelle e le email sincronizzate sul tuo server
+# Note: POP3 is the name of a protocol.
+account-setup-result-pop = POP3
+account-setup-result-pop-description = Conserva le tue cartelle e le email sul tuo computer
+# Note: Exchange is the name of a product.
+account-setup-result-exchange = Exchange
+account-setup-result-exchange-description = Server Microsoft Exchange
+account-setup-incoming-title = In entrata
+account-setup-outgoing-title = In uscita
+account-setup-username-title = Nome utente
+account-setup-exchange-title = Server
 
 ## Error messages
 
+account-setup-credentials-wrong = Autenticazione non riuscita. Assicurati che nome utente e password siano corretti
+account-setup-find-settings-failed = { -brand-short-name } non è riuscito a trovare le impostazioni per il tuo account email
+account-setup-exchange-config-unverifiable = Impossibile verificare la configurazione. Se il nome utente e la password sono corretti, è possibile che l’amministratore del server abbia disattivato la configurazione selezionata per questo account. Provare a selezionare un altro protocollo.
 
 ## Manual config area
 
+account-setup-manual-config-title = Impostazioni server
+account-setup-incoming-protocol-label = Protocollo in entrata
+protocol-imap-option = { account-setup-result-imap }
+protocol-pop-option = { account-setup-result-pop }
+account-setup-outgoing-protocol-label = Protocollo in uscita
+outgoing-protocol = SMTP
+account-setup-incoming-server-label = Server posta in entrata
+account-setup-outgoing-server-label = Server posta in uscita
+account-setup-incoming-port-label = Porta in entrata
+account-setup-outoing-port-label = Porta in uscita
+account-setup-incoming-ssl-label = SSL in entrata
+account-setup-outgoing-ssl-label = SSL in uscita
+ssl-autodetect-option = Rilevamento automatico
+ssl-noencryption-option = Nessuna
+ssl-starttls-option = STARTTLS
+ssl-tls-option = SSL/TLS
+account-setup-incoming-auth-label = Autenticazione in entrata
+account-setup-outgoing-auth-label = Autenticazione in uscita
+account-setup-incoming-username-label = Nome utente in entrata
+account-setup-outgoing-username-label = Nome utente in uscita
+account-setup-advanced-setup-button = Configurazione avanzata
+    .accesskey = v
 
 ## Warning insecure server
 
+account-setup-insecure-server-checkbox = Sono consapevole dei rischi
+    .accesskey = r
