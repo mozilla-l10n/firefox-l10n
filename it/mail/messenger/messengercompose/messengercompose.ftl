@@ -115,6 +115,20 @@ move-attachment-last-panel-button =
 button-return-receipt =
     .label = Ricevuta
     .tooltiptext = Richiedi una ricevuta di ritorno per questo messaggio
+
+# Addressing Area
+
+to-compose-address-row-label =
+    .value = A
+cc-compose-address-row-label =
+    .value = Cc
+#   $key (String) - the shortcut key for this field
+cc-compose-show-address-row-menuitem =
+    .label = Campo { cc-compose-address-row-label.value }
+    .accesskey = C
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+bcc-compose-address-row-label =
+    .value = Ccn
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 consider-bcc-notification = I { $count } destinatari in A e Cc possono vedere i rispettivi indirizzi. Puoi evitare di divulgare gli indirizzi dei destinatari utilizzando Ccn.
 many-public-recipients-bcc =
