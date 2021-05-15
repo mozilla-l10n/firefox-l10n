@@ -60,8 +60,13 @@ about-processes-browser-process = { -brand-short-name } ({ $pid })
 about-processes-web-process = Delad webbprocess ({ $pid })
 about-processes-file-process = Filer ({ $pid })
 about-processes-extension-process = Tillägg ({ $pid })
+about-processes-privilegedabout-process = Om sidorna ({ $pid })
+about-processes-plugin-process = Insticksmoduler ({ $pid })
+about-processes-privilegedmozilla-process = { -vendor-short-name } webbplatser ({ $pid })
+about-processes-gmp-plugin-process = Gecko media-insticksmoduler ({ $pid })
 about-processes-gpu-process = GPU ({ $pid })
 about-processes-vr-process = VR ({ $pid })
+about-processes-socket-process = Nätverk ({ $pid })
 
 ## Isolated process names
 ## Variables:
