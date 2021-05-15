@@ -21,6 +21,7 @@ upgrade-dialog-new-primary-primary-button = Gör { -brand-short-name } till min 
     .title = Ställer in { -brand-short-name } som standardwebbläsare och fäster den i aktivitetsfältet
 upgrade-dialog-new-primary-default-button = Gör { -brand-short-name } till min standardwebbläsare
 upgrade-dialog-new-primary-pin-button = Fäst { -brand-short-name } i mitt aktivitetsfält
+upgrade-dialog-new-primary-pin-alt-button = Fäst till aktivitetsfältet
 upgrade-dialog-new-primary-theme-button = Välj ett tema
 upgrade-dialog-new-secondary-button = Inte nu
 # This string is only shown on Windows 7, where we intentionally suppress the
