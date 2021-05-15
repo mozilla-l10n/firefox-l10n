@@ -127,7 +127,7 @@ button-return-receipt =
 # Addressing Area
 
 to-compose-address-row-label =
-    .value = Gavėjas
+    .value = Kam
 #   $key (String) - the shortcut key for this field
 to-compose-show-address-row-menuitem =
     .label = { to-compose-address-row-label.value } laukas
