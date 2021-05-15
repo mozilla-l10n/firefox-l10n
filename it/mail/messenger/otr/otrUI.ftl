@@ -8,6 +8,7 @@ auth-label = Verifica l’identità del tuo contatto
 reauth-label = Verifica nuovamente l’identità del tuo contatto
 auth-cancel = Annulla
 auth-cancelAccessKey = A
+auth-cancel-access-key = A
 auth-error = Si è verificato un errore durante la verifica dell’identità del tuo contatto.
 auth-success = Verifica dell’identità del contatto completata correttamente.
 auth-successThem = Il tuo contatto ha verificato correttamente la tua identità. Si consiglia di verificare anche la sua identità ponendo la tua domanda.
