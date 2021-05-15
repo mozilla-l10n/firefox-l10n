@@ -117,6 +117,15 @@ move-attachment-last-panel-button =
 button-return-receipt =
     .label = Kvitto
     .tooltiptext = Begär ett returkvitto för detta meddelande
+
+# Addressing Area
+
+to-compose-address-row-label =
+    .value = Till
+cc-compose-address-row-label =
+    .value = Kopia
+bcc-compose-address-row-label =
+    .value = Dold kopia
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 consider-bcc-notification = { $count } mottagare i fältet Till och Kopia kan se varandras adresser. Du kan undvika att avslöja mottagare genom att använda dold kopia istället.
 many-public-recipients-bcc =
