@@ -21,8 +21,12 @@ upgrade-dialog-new-primary-primary-button = { -brand-short-name } myn foarkarsbr
     .title = Stelt { -brand-short-name } yn as standertbrowser en makket it fêst oan de taakbalke
 upgrade-dialog-new-primary-default-button = { -brand-short-name } myn foarkarsbrowser meitsje
 upgrade-dialog-new-primary-pin-button = { -brand-short-name } oan myn taakbalke fêstmeitsje
+upgrade-dialog-new-primary-pin-alt-button = Oan taakbalke fêstsette
 upgrade-dialog-new-primary-theme-button = Kies in tema
 upgrade-dialog-new-secondary-button = No net
+# This string is only shown on Windows 7, where we intentionally suppress the
+# theme selection screen.
+upgrade-dialog-new-primary-win7-button = OK, begrepen!
 
 ## Theme selection screen
 
