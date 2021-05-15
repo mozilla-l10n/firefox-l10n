@@ -66,7 +66,9 @@ about-processes-privilegedmozilla-process = Trang web { -vendor-short-name } ({ 
 about-processes-gmp-plugin-process = Phần bổ trợ phương tiện Gecko ({ $pid })
 about-processes-gpu-process = GPU ({ $pid })
 about-processes-vr-process = VR ({ $pid })
+about-processes-rdd-process = Bộ giải mã dữ liệu ({ $pid })
 about-processes-socket-process = Mạng ({ $pid })
+about-processes-fork-server-process = Máy chủ Fork ({ $pid })
 about-processes-preallocated-process = Được tải trước ({ $pid })
 # Unknown process names
 # Variables:
