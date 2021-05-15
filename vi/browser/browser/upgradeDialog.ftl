@@ -21,6 +21,7 @@ upgrade-dialog-new-primary-primary-button = Đặt { -brand-short-name } làm tr
     .title = Đặt { -brand-short-name } làm trình duyệt mặc định và ghim vào thanh tác vụ
 upgrade-dialog-new-primary-default-button = Đặt { -brand-short-name } làm trình duyệt mặc định của tôi
 upgrade-dialog-new-primary-pin-button = Ghim { -brand-short-name } vào thanh tác vụ của tôi
+upgrade-dialog-new-primary-pin-alt-button = Ghim vào thanh tác vụ
 upgrade-dialog-new-primary-theme-button = Chọn một chủ đề
 upgrade-dialog-new-secondary-button = Không phải bây giờ
 # This string is only shown on Windows 7, where we intentionally suppress the
