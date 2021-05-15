@@ -315,6 +315,7 @@ about-logins-import-dialog-error-unable-to-read-description = CSV ファイル�
 about-logins-import-dialog-error-no-logins-imported = ログイン情報は読み込まれませんでした
 about-logins-import-dialog-error-learn-more = 詳細
 about-logins-import-dialog-error-try-again = 再試行...
+about-logins-import-dialog-error-try-import-again = 読み込みを再試行...
 about-logins-import-dialog-error-cancel = キャンセル
 
 about-logins-import-report-title = 読み込み結果
