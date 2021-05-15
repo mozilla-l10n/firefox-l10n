@@ -60,9 +60,9 @@ options-screenshot-label = Verhalten für Bildschirmfoto
 # Label for the checkbox that toggles screenshot to clipboard feature
 options-screenshot-clipboard-label = Bildschirmfoto in Zwischenablage kopieren
 options-screenshot-clipboard-tooltip =
-    .title = Bildschirmfoto direkt in der Zwischenablage speichern
+    .title = Bildschirmfoto direkt in die Zwischenablage speichern
 options-screenshot-clipboard-tooltip2 =
-    .title = Bildschirmfoto direkt in der Zwischenablage speichern
+    .title = Bildschirmfoto direkt in die Zwischenablage speichern
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
 options-screenshot-audio-label = Ton eines Kameraverschlusses abspielen
 options-screenshot-audio-tooltip =
