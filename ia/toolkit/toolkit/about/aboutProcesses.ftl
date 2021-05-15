@@ -131,9 +131,6 @@ about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "pe
 about-processes-cpu-user-and-kernel-not-ready = (mesurante)
 # Special case: process or thread is currently idle.
 about-processes-cpu-user-and-kernel-idle = non active ({ NUMBER($total, maximumFractionDigits: 2) }{ $unit })
-# Special case: process or thread is currently idle.
-about-processes-cpu-idle = inactive
-    .title = Tempore CPU total
 
 ## Displaying Memory (total and delta)
 ## Variables:
