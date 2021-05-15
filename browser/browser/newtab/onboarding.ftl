@@ -200,7 +200,6 @@ onboarding-welcome-steps-indicator =
 # automatically added to the text inside it. "look" should stay inside the span.
 onboarding-multistage-theme-header = Elektu <span data-l10n-name="zap">aspekton</span>
 onboarding-multistage-theme-subtitle = Personecigu { -brand-short-name } per etoso.
-onboarding-multistage-theme-primary-button-label = Konservi etoson
 onboarding-multistage-theme-primary-button-label2 = Farita
 onboarding-multistage-theme-secondary-button-label = Ne nun
 # Automatic theme uses operating system color settings
@@ -239,3 +238,18 @@ onboarding-multistage-theme-tooltip-alpenglow-2 =
 # Input description for Alpenglow theme
 onboarding-multistage-theme-description-alpenglow =
     .aria-description = Uzi kolorplenan aspekton por butonoj, menuoj kaj fenestroj.
+
+## Multistage MR1 onboarding strings (MR1 about:welcome pages)
+
+# Caption for background image in about:welcome. "Soraya Osorio" is the name
+# of the person and shouldn't be translated.
+mr1-onboarding-welcome-image-caption = Soraya Osorio — Fasonisto de mebloj, fanatika pri Firefox
+# This button will open system settings to turn on prefers-reduced-motion
+mr1-onboarding-reduce-motion-button-label = Malŝalti animaciojn
+mr1-onboarding-welcome-header = Bonvenon al { -brand-short-name }
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
