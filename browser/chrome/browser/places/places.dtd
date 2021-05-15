@@ -44,7 +44,7 @@
 <!ENTITY col.name.label          "이름">
 <!ENTITY col.tags.label          "태그">
 <!ENTITY col.url.label           "주소">
-<!ENTITY col.mostrecentvisit.label "최근 방문">
+<!ENTITY col.mostrecentvisit.label "최근 방문일">
 <!ENTITY col.visitcount.label    "방문 횟수">
 <!ENTITY col.dateadded.label     "저장일">
 <!ENTITY col.lastmodified.label  "마지막 수정일">
@@ -60,4 +60,3 @@
 <!ENTITY forwardButton.tooltip  "앞으로 가기">
 
 <!ENTITY detailsPane.selectAnItemText.description "속성을 보고 편집할 항목을 선택하세요">
-
