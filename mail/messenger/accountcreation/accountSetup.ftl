@@ -7,16 +7,26 @@ account-setup-tab-title = Configurazione account
 ## Header
 
 account-setup-title = Configura un account email esistente
+account-setup-description =
+    Per utilizzare il tuo indirizzo email attuale, inserisci le credenziali.<br/>¶
+    { -brand-product-name } cercherà automaticamente una configurazione del server funzionante e consigliata.
 
 ## Form fields
 
 account-setup-name-label = Nome e cognome
     .accesskey = c
+# Note: "John Doe" is a multiple-use name that is used when the true name of a person is unknown. We use this fake name as an input placeholder. Translators should update this to reflect the placeholder name of their language/country.
+account-setup-name-input =
+    .placeholder = Mario Rossi
 account-setup-name-info-icon =
     .title = Nome da visualizzare
 account-setup-name-warning = Inserisci il tuo nome
 account-setup-name-warning-icon =
     .title = { account-setup-name-warning }
+account-setup-email-label = Indirizzo email
+    .accesskey = n
+account-setup-email-input =
+    .placeholder = mario.rossi@example.com
 account-setup-email-info-icon =
     .title = Il tuo indirizzo email esistente
 account-setup-email-warning = Indirizzo email non valido
