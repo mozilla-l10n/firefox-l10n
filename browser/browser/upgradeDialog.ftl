@@ -21,6 +21,7 @@ upgrade-dialog-new-primary-primary-button = { -brand-short-name } tarayıcısın
     .title = { -brand-short-name } tarayıcısını varsayılan tarayıcı olarak ayarlayıp görev çubuğuna sabitler
 upgrade-dialog-new-primary-default-button = { -brand-short-name } tarayıcısını varsayılan tarayıcım yap
 upgrade-dialog-new-primary-pin-button = { -brand-short-name } tarayıcısını görev çubuğuma sabitle
+upgrade-dialog-new-primary-pin-alt-button = Görev çubuğuna sabitle
 upgrade-dialog-new-primary-theme-button = Temanızı seçin
 upgrade-dialog-new-secondary-button = Daha sonra
 # This string is only shown on Windows 7, where we intentionally suppress the
