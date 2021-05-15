@@ -17,12 +17,15 @@ otr-log =
     .label = OTR-fersifere berjochten yn petearlochboeken opnimme
 otr-requireEncryption =
     .label = End-to-end-fersifering foar ien-op-ien-petearen fereaskje
+otr-require-encryption =
+    .label = End-to-end-fersifering foar ien-op-ien-petearen fereaskje
 otr-require-encryption-info =
     Wannear end-to-end-fersifering fereaske wurdt, wurde berjochten yn ien-op-ien-petearen
     net ferstjoerd, útsein se fersifere wurde kinne. Untfongen net-fersifere berjochten
     wurde net toand as ûnderdiel fan it reguliere petear en ek net registrearre.
 otr-verifyNudge =
     .label = My altyd in omtinken stjoere om in net-ferifiearre kontakt te ferifiearjen
-
 otr-notYetAvailable = noch net beskikber
-
+otr-verify-nudge =
+    .label = My altyd in omtinken stjoere om in net-ferifiearre kontakt te ferifiearjen
+otr-not-yet-available = noch net beskikber
