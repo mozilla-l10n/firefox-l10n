@@ -12,4 +12,6 @@ default-browser-notification-button =
 ## depending on the operating system (Windows vs other). The checkbox label and
 ## secondary button are shared between the variants.
 
+default-browser-prompt-button-primary-alt = Негізгі браузер қылу
+default-browser-prompt-checkbox-not-again-label = Бұл хабарламаны енді көрсетпеу
 default-browser-prompt-button-secondary = Қазір емес
