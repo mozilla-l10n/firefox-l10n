@@ -52,6 +52,23 @@ about-processes-unknown-process-name = Andra ({ $type }, process { $pid })
 #   $pid (String) The process id of this process, assigned by the OS.
 about-processes-process-name = Process { $pid }: { $name }
 
+## Process names
+## Variables:
+##    $pid (String) The process id of this process, assigned by the OS.
+
+about-processes-browser-process = { -brand-short-name } ({ $pid })
+about-processes-web-process = Delad webbprocess ({ $pid })
+about-processes-file-process = Filer ({ $pid })
+about-processes-extension-process = Tillägg ({ $pid })
+about-processes-gpu-process = GPU ({ $pid })
+about-processes-vr-process = VR ({ $pid })
+
+## Isolated process names
+## Variables:
+##    $pid (String) The process id of this process, assigned by the OS.
+##    $origin (String) The domain name for this process.
+
+
 ## Details within processes
 
 # Single-line summary of threads
