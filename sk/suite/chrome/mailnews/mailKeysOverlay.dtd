@@ -6,6 +6,10 @@
 <!ENTITY markAsReadCmd.accesskey "S">
 <!ENTITY markAsReadCmd.key       "m">
 
+<!ENTITY markAsUnreadCmd.label     "Správu ako neprečítanú">
+<!ENTITY markAsUnreadCmd.accesskey "n">
+<!ENTITY markAsUnreadCmd.key       "m">
+
 <!ENTITY markFlaggedCmd.label     "Správu vlajkou">
 <!ENTITY markFlaggedCmd.accesskey "o">
 <!ENTITY markFlaggedCmd.key       "i">

@@ -43,7 +43,7 @@
 <!ENTITY passwordExpireCmd.label "Odhlásiť sa">
 <!ENTITY passwordExpireCmd.accesskey "O">
 
-<!ENTITY downloadManagerCmd.label "Správca preberania súborov">
+<!ENTITY downloadManagerCmd.label "Správca sťahovania súborov">
 <!ENTITY downloadManagerCmd.accesskey "S">
 <!ENTITY downloadManagerCmd.commandkey "j">
 

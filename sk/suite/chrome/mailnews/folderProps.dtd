@@ -44,7 +44,7 @@
 
 <!ENTITY selectofflineNewsgroup.check.label      "Označiť túto diskusiu na použitie v režime offline">
 <!ENTITY selectofflineNewsgroup.check.accesskey  "O">
-<!ENTITY offlineNewsgroup.button.label           "Prevziať">
+<!ENTITY offlineNewsgroup.button.label           "Stiahnuť">
 <!ENTITY offlineNewsgroup.button.accesskey       "P">
 
 <!ENTITY folderProps.name.label                  "Názov:">
@@ -59,7 +59,6 @@
 <!ENTITY folderType.label                        "Typ priečinka:">
 
 <!ENTITY folderQuotaTab.label                    "Kvóta">
-<!ENTITY folderQuotaRoot.label                   "Hlavná kvóta:">
 <!ENTITY folderQuotaUsage.label                  "Využitie:">
 <!ENTITY folderQuotaStatus.label                 "Stav:">
 

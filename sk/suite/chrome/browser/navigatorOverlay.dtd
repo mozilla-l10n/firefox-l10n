@@ -15,7 +15,6 @@
 
 <!ENTITY closeOtherTabs.label "Zavrieť ostatné karty">
 <!ENTITY closeOtherTabs.accesskey "a">
-
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -24,9 +23,6 @@ left instead of right. -->
 
 <!ENTITY uploadFile.label "Odoslať súbor…">
 <!ENTITY uploadFile.accesskey "s">
-
-<!ENTITY printSetupCmd.label "Nastavenie tlače…">
-<!ENTITY printSetupCmd.accesskey "N">
 
 <!-- Edit Menu -->
 <!ENTITY findOnCmd.label "Hľadať na tejto stránke…">
@@ -126,13 +122,13 @@ left instead of right. -->
 <!ENTITY cookieDisplayImagesCmd.accesskey "S">
 <!ENTITY cookieAllowImagesCmd.label "Povoliť obrázky z tejto stránky">
 <!ENTITY cookieAllowImagesCmd.accesskey "P">
-<!ENTITY cookieAllowImagesMsg.label "Obrázky z tejto stránky budú vždy prevzaté.">
+<!ENTITY cookieAllowImagesMsg.label "Obrázky z tejto stránky budú vždy stiahnuté.">
 <!ENTITY cookieImagesDefaultCmd.label "Použiť predvolené povolenia pre obrázky">
 <!ENTITY cookieImagesDefaultCmd.accesskey "u">
-<!ENTITY cookieImagesDefaultMsg.label "Obrázky z tejto stránky budú prevzaté podľa predvolených nastavení.">
+<!ENTITY cookieImagesDefaultMsg.label "Obrázky z tejto stránky budú stiahnuté podľa predvolených nastavení.">
 <!ENTITY cookieBlockImagesCmd.label "Blokovať obrázky z tejto stránky">
 <!ENTITY cookieBlockImagesCmd.accesskey "B">
-<!ENTITY cookieBlockImagesMsg.label "Obrázky z tejto stránky nebudú nikdy prevzaté.">
+<!ENTITY cookieBlockImagesMsg.label "Obrázky z tejto stránky nebudú nikdy stiahnuté.">
 
 <!ENTITY popupsMessageChangeTitle.label "Povolenia pre vyskakovacie okná zmenené">
 <!ENTITY popupAllowCmd.label "Povoliť vyskakovacie okná pre túto stránku">

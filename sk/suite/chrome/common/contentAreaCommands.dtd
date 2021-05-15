@@ -7,6 +7,8 @@
 <!ENTITY popupWindowRejectCmd.accesskey "k">
 <!ENTITY popupWindowAllowCmd.label      "Povoliť vyskakovacie okná z tejto stránky">
 <!ENTITY popupWindowAllowCmd.accesskey  "k">
+
+<!-- Context Menu -->
 <!ENTITY openLinkCmdInTab.label       "Otvoriť odkaz na novej karte">
 <!ENTITY openLinkCmdInTab.accesskey   "k">
 <!ENTITY openLinkCmd.label            "Otvoriť odkaz v novom okne">
@@ -153,7 +155,7 @@ items are mutually exclusive. -->
 <!ENTITY spellNoSuggestions.label       "(Žiadne pravopisné návrhy)">
 <!ENTITY spellDictionaries.label        "Jazyky">
 <!ENTITY spellDictionaries.accesskey    "J">
-<!ENTITY spellAddDictionaries.label     "Prevziať ďalšie slovníky…">
+<!ENTITY spellAddDictionaries.label     "Stiahnuť ďalšie slovníky…">
 <!ENTITY spellAddDictionaries.accesskey "P">
 
 <!ENTITY fillLoginMenu.label          "Vyplniť prihlasovacie údaje">

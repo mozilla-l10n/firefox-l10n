@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from am-server-top.xul -->
-
 <!ENTITY messageStorage.label "Úložisko správ">
 <!ENTITY securitySettings.label "Bezpečnostné nastavenia">
 <!ENTITY serverSettings.label "Nastavenie servera">
@@ -42,9 +40,8 @@
 <!ENTITY daysEnd.label "dní">
 <!ENTITY deleteOnServer2.label "až kým nebudú odstránené">
 <!ENTITY deleteOnServer2.accesskey "b">
-<!ENTITY downloadOnBiff.label "Automaticky prevziať novú poštu">
+<!ENTITY downloadOnBiff.label "Automaticky sťahovať novú poštu">
 <!ENTITY downloadOnBiff.accesskey "y">
-<!ENTITY username.label "Názov účtu">
 <!ENTITY deleteMessagePrefix.label "Pri odstránení správy:">
 <!ENTITY modelMoveToTrash.label "Presunúť ju do priečinka:">
 <!ENTITY modelMoveToTrash.accesskey "j">
@@ -60,10 +57,10 @@
 <!ENTITY loginAtStartup.label "Pri štarte skontrolovať novú poštu">
 <!ENTITY loginAtStartup.accesskey "v">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
-    maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
-	 of messages between them
+     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
+     of messages between them
 -->
-<!ENTITY maxMessagesStart.label "Opýtať sa pri preberaní viac ako">
+<!ENTITY maxMessagesStart.label "Opýtať sa pri sťahovaní viac ako">
 <!ENTITY maxMessagesStart.accesskey "s">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "správ">
