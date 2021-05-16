@@ -11,6 +11,8 @@ newtab-settings-button =
 newtab-personalize-button-label = Personalizuj
     .title = Personalizuj nową kartę
     .aria-label = Personalizuj nową kartę
+newtab-personalize-dialog-label =
+    .aria-label = Personalizuj
 
 ## Search box component.
 

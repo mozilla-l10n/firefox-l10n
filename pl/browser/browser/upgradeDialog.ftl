@@ -21,8 +21,12 @@ upgrade-dialog-new-primary-primary-button = Ustaw przeglądarkę { -brand-short-
     .title = Ustawia przeglądarkę { -brand-short-name } jako domyślną i przypina ją do paska zadań
 upgrade-dialog-new-primary-default-button = Ustaw przeglądarkę { -brand-short-name } jako domyślną
 upgrade-dialog-new-primary-pin-button = Przypnij przeglądarkę { -brand-short-name } do paska zadań
+upgrade-dialog-new-primary-pin-alt-button = Przypnij do paska zadań
 upgrade-dialog-new-primary-theme-button = Wybierz motyw
 upgrade-dialog-new-secondary-button = Nie teraz
+# This string is only shown on Windows 7, where we intentionally suppress the
+# theme selection screen.
+upgrade-dialog-new-primary-win7-button = OK
 
 ## Theme selection screen
 
