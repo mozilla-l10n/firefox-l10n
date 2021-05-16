@@ -66,6 +66,7 @@ about-processes-privilegedmozilla-process = { -vendor-short-name } webbplatser (
 about-processes-gmp-plugin-process = Gecko media-insticksmoduler ({ $pid })
 about-processes-gpu-process = GPU ({ $pid })
 about-processes-vr-process = VR ({ $pid })
+about-processes-rdd-process = Datavkodare ({ $pid })
 about-processes-socket-process = Nätverk ({ $pid })
 # Unknown process names
 # Variables:
