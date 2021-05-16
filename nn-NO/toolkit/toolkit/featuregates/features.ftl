@@ -19,6 +19,10 @@ experimental-features-media-avif =
 experimental-features-media-avif-description = Når denne funksjonen er slått på, støttar { -brand-short-name } AVIF-format (AV1). Dette er eit stillbildefilformat som utnyttar moglegheitene til AV1-videokomprimeringsalgoritmar for å redusere bildestørrelse. Sjå <a data-l10n-name="bugzilla">bug 1443863</a> for meir informasjon.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
+experimental-features-media-jxl =
+    .label = Media: JPEG XL
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
     .label = Web API: inputmode
 # "inputmode" and "contenteditable" are technical terms and shouldn't be translated.
