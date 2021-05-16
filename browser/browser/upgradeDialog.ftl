@@ -21,8 +21,12 @@ upgrade-dialog-new-primary-primary-button = Сделать { -brand-short-name }
     .title = Устанавливает { -brand-short-name } в качестве браузера по умолчанию и закрепляет его на панели задач
 upgrade-dialog-new-primary-default-button = Сделать { -brand-short-name } моим браузером по умолчанию
 upgrade-dialog-new-primary-pin-button = Закрепить { -brand-short-name } на моей панели задач
+upgrade-dialog-new-primary-pin-alt-button = Закрепить на панели задач
 upgrade-dialog-new-primary-theme-button = Выбрать тему
 upgrade-dialog-new-secondary-button = Не сейчас
+# This string is only shown on Windows 7, where we intentionally suppress the
+# theme selection screen.
+upgrade-dialog-new-primary-win7-button = Ок, понятно!
 
 ## Theme selection screen
 
