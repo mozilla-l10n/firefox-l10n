@@ -13,7 +13,6 @@ enable-common-message = Инструментите на разработчика
 enable-learn-more-link = Научете повече за развойните инструменти
 enable-enable-button = Включване
 enable-close-button = Затваряне на раздела
-
 welcome-title = Добре дошли в развойните инструменти на Firefox!
 newsletter-title = Бюлетин на разработчиците на Мозила
 newsletter-message = Получавайте новини, хитрости и ресурси за програмисти директно в своята поща.
@@ -23,11 +22,9 @@ newsletter-privacy-label = Съгласен съм Mozilla да борави с 
 newsletter-subscribe-button = Абониране
 newsletter-thanks-title = Благодарим!
 newsletter-thanks-message = Ако преди не сте потвърждавали абонамент за бюлетин на Mozilla ще трябва да го направите сега. Моля, проверете входящата или папката с нежелана поща за писмо от нас.
-
 footer-title = Firefox Developer Edition
 footer-message = Търсите нещо повече от развойни инструменти? Изпробвайте мрежовият четец Firefox, създаден специално за разработчици и съвременни похвати на разработка.
 footer-learn-more-link = Научете повече
-
 features-learn-more = Научете повече
 features-inspector-title = Инспектор
 features-inspector-desc = Проверка и усъвършенстване на кода на перфектни до пиксела дизайни. <a data-l10n-name="learn-more">{ features-learn-more }</a>
@@ -38,7 +35,7 @@ features-debugger-desc = Мощен дебъгер на JavaScript с поддр
 features-network-title = Мрежа
 features-network-desc = Преглеждане на заявки по мрежата, които биха забавили или блокирали страницата ви. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-storage-title = Хранилище
-features-storage-desc = Добавяне, промяна и премахване на буфера, бисквитки, банките от данни и сесийните данни. <a data-l10n-name="learn-more">{ features-learn-more }</a>
+features-storage-desc = Добавяне, промяна и премахване на складирани данни, бисквитките, банките от данни и сесийните данни. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-responsive-title = Режим за адаптивен дизайн
 features-responsive-desc = Изпитване на страници на емулирани от четеца устройства. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-visual-editing-title = Нагледно редактиране
