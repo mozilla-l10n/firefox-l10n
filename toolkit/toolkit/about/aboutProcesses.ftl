@@ -62,6 +62,12 @@ about-processes-extension-process = Extensions ({ $pid })
 about-processes-plugin-process = Extensions ({ $pid })
 about-processes-privilegedmozilla-process = { -vendor-short-name } sites ({ $pid })
 about-processes-socket-process = Ret ({ $pid })
+about-processes-preallocated-process = Prealogat ({ $pid })
+# Unknown process names
+# Variables:
+#    $pid (String) The process id of this process, assigned by the OS.
+#    $type (String) The raw type for this process.
+about-processes-unknown-process = Autre : { $type } ({ $pid })
 
 ## Isolated process names
 ## Variables:
@@ -83,6 +89,12 @@ about-processes-thread-summary = Fils d’execucion ({ $number })
 #   $name (String) The name assigned to the thread.
 #   $tid (String) The thread id of this thread, assigned by the OS.
 about-processes-thread-name = Fil d’execucion { $tid } : { $name }
+# Thread details
+# Variables:
+#   $name (String) The name assigned to the thread.
+#   $tid (String) The thread id of this thread, assigned by the OS.
+about-processes-thread-name-and-id = { $name }
+    .title = ID fil : { $tid }
 # Tab
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
