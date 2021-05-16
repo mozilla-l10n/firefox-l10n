@@ -112,12 +112,43 @@ account-setup-protocol-title = Wybierz protokół
 # Note: IMAP is the name of a protocol.
 account-setup-result-imap = IMAP
 account-setup-result-imap-description = Foldery i poczta synchronizowane na serwerze
+# Note: POP3 is the name of a protocol.
+account-setup-result-pop = POP3
+account-setup-result-pop-description = Foldery i poczta na komputerze
+# Note: Exchange is the name of a product.
+account-setup-result-exchange = Exchange
+account-setup-result-exchange-description = Serwer Microsoft Exchange
+account-setup-incoming-title = Serwer poczty przychodzącej
+account-setup-outgoing-title = Serwer poczty wychodzącej
+account-setup-username-title = Nazwa użytkownika
+account-setup-exchange-title = Serwer
 
 ## Error messages
 
+# Note: The reference to "janedoe" (Jane Doe) is the name of an example person. You will want to translate it to whatever example persons would be named in your language. In the example, AD is the name of the Windows domain, and this should usually not be translated.
+account-setup-credentials-incomplete = Uwierzytelnienie się nie powiodło. Podane dane logowania są niepoprawne lub do zalogowania wymagana jest oddzielna nazwa użytkownika. Ta nazwa użytkownika to zwykle login do domeny Windows z lub bez domeny (np. alicja lub AD\\alicja).
+account-setup-credentials-wrong = Uwierzytelnienie się nie powiodło. Sprawdź poprawność nazwy użytkownika i hasła.
+account-setup-find-settings-failed = { -brand-short-name } nie znalazł ustawień konta.
+account-setup-exchange-config-unverifiable = Konfiguracja nie mogła zostać zweryfikowana. Jeśli nazwa użytkownika i hasło są poprawne, to prawdopodobnie administrator serwera wyłączył wybraną konfigurację dla tego konta. Spróbuj wybrać inny protokół.
 
 ## Manual config area
 
+account-setup-manual-config-title = Konfiguracja serwera
+account-setup-incoming-protocol-label = Protokół poczty przychodzącej
+protocol-imap-option = { account-setup-result-imap }
+protocol-pop-option = { account-setup-result-pop }
+account-setup-outgoing-protocol-label = Protokół poczty wychodzącej
+outgoing-protocol = SMTP
+account-setup-incoming-server-label = Serwer poczty przychodzącej
+account-setup-outgoing-server-label = Serwer poczty wychodzącej
+account-setup-incoming-port-label = Port poczty przychodzącej
+account-setup-outoing-port-label = Port poczty wychodzącej
+account-setup-incoming-ssl-label = SSL poczty przychodzącej
+account-setup-outgoing-ssl-label = SSL poczty wychodzącej
+ssl-autodetect-option = Wykryj
+ssl-noencryption-option = Bez szyfrowania
+ssl-starttls-option = STARTTLS
+ssl-tls-option = SSL/TLS
 
 ## Warning insecure server
 
