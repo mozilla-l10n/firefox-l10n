@@ -5,7 +5,7 @@
 clear-site-data-window =
     .title = Изчистване на данни
     .style = width: 35em
-clear-site-data-description = Изчиствайки всички бисквитки и данни на страници запазени от { -brand-short-name } може да бъдете отписани от някои сайтове, както и ще бъде премахнато съдържанието за работа извън мрежа. Изчистването на буфера няма да повлияе на вписванията ви.
+clear-site-data-description = Изчиствайки всички бисквитки и данни на страници запазени от { -brand-short-name } може да бъдете отписани от някои сайтове, както и ще бъде премахнато съдържанието за работа извън мрежа. Изчистването на склада няма да повлияе на вписванията ви.
 clear-site-data-close-key =
     .key = w
 # The parameters in parentheses in this string describe disk usage
@@ -31,16 +31,16 @@ clear-site-data-cookies-info = При изчистване може да бъд�
 #   $amount (Number) - Amount of cache currently stored on disk
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
 clear-site-data-cache-with-data =
-    .label = Буферирано съдържание от мрежата ({ $amount } { $unit })
-    .accesskey = б
+    .label = Складирано съдържание от мрежата ({ $amount } { $unit })
+    .accesskey = с
 # This string is a placeholder for while the data used to fill
 # clear-site-data-cache-with-data is loading. This placeholder is usually
 # only shown for a very short time (< 1s), so it should be very similar
 # or the same as clear-site-data-cache-with-data (except the amount and unit),
 # to avoid flickering.
 clear-site-data-cache-empty =
-    .label = Буферирано съдържание от интернет
-    .accesskey = б
+    .label = Складирано съдържание от интернет
+    .accesskey = с
 clear-site-data-cache-info = Ще принуди страниците да презаредят своите изображения и данни
 clear-site-data-cancel =
     .label = Отказ

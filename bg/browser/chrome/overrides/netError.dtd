@@ -47,7 +47,7 @@
 
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY notCached.longDesc "<p>Търсеният документ не е наличен в буфера на &brandShortName;.</p>
+<!ENTITY notCached.longDesc "<p>Търсеният документ не е наличен в склада на &brandShortName;.</p>
 <ul>
   <li>Като предпазна мярка &brandShortName; не прави повторна заявка на документи с поверително съдържание.</li>
   <li>Натиснете „Повторен опит“ за нова заявка на документа от страницата.</li>
