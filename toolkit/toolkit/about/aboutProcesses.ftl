@@ -68,6 +68,7 @@ about-processes-gpu-process = GPU ({ $pid })
 about-processes-vr-process = VR ({ $pid })
 about-processes-rdd-process = Декодер даних ({ $pid })
 about-processes-socket-process = Мережа ({ $pid })
+about-processes-preallocated-process = Попередньо розподілено ({ $pid })
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
