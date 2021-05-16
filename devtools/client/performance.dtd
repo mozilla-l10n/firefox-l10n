@@ -13,7 +13,7 @@
 
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusTooltip): This string
   -  is displayed as the tooltip for the buffer capacity during a recording. -->
-<!ENTITY performanceUI.bufferStatusTooltip "Профайлерът записва извадки в кръгов буфер и при запълване на буфера новите извадки започват да заместват извадките от началото на записването.">
+<!ENTITY performanceUI.bufferStatusTooltip "Профайлерът записва извадки в кръгов склад и при запълване на склада новите извадки започват да заместват извадките от началото на записването.">
 
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.disabledE10S): This string
   -  is displayed as a message for why the real time overview graph is disabled
@@ -22,9 +22,9 @@
 
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusFull): This string
   -  is displayed when the profiler's circular buffer has started to overlap. -->
-<!ENTITY performanceUI.bufferStatusFull "Буферът е пълен. Сега старите извадки ще започнат да се заменят с нови.">
+<!ENTITY performanceUI.bufferStatusFull "Складът е пълен. Сега старите извадки ще започнат да се заменят с нови.">
 
-<!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
+<!-- LOCALIZATION NOTE (performanceUI.unavailableNoticePB): This is the label shown
   -  in the details view while the profiler is unavailable, for example, while
   -  in Private Browsing mode. -->
 <!ENTITY performanceUI.unavailableNoticePB "Записване на профил в момента е недостъпно. Моля, затворете всички поверителни прозорци и опитайте отново.">
