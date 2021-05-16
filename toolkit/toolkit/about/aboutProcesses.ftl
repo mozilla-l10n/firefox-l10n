@@ -162,7 +162,7 @@ about-processes-cpu-user-and-kernel-not-ready = (đang đo)
 about-processes-cpu-user-and-kernel-idle = rảnh ({ NUMBER($total, maximumFractionDigits: 2) }{ $unit })
 # Special case: process or thread is currently idle.
 about-processes-cpu-idle = Rảnh
-    .title = Tổng thời gian CPU: { NUMBER($total, maximumFractionDigits: 2) }
+    .title = Tổng thời gian CPU: { NUMBER($total, maximumFractionDigits: 2) }{ $unit }
 
 ## Displaying Memory (total and delta)
 ## Variables:
