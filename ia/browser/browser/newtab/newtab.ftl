@@ -59,7 +59,7 @@ newtab-topsites-url-input =
     .placeholder = Scriber o collar un URL
 newtab-topsites-url-validation = Es necessari un URL valide
 newtab-topsites-image-url-label = URL de imagine personal
-newtab-topsites-use-image-link = Uso de imagine personal...
+newtab-topsites-use-image-link = Usar un imagine personalisate…
 newtab-topsites-image-validation = Error durante le cargamento del imagine. Prova un altere URL.
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
