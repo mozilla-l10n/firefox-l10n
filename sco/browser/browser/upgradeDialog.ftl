@@ -21,6 +21,7 @@ upgrade-dialog-new-primary-primary-button = Mak { -brand-short-name } ma staunar
     .title = Sets { -brand-short-name } as staunart stravaiger and peens tae taskbaur
 upgrade-dialog-new-primary-default-button = Mak { -brand-short-name } ma staunart stravaiger
 upgrade-dialog-new-primary-pin-button = Peen { -brand-short-name } tae ma taskbaur
+upgrade-dialog-new-primary-pin-alt-button = Peen tae taskbaur
 upgrade-dialog-new-primary-theme-button = Wale a theme
 upgrade-dialog-new-secondary-button = No jist noo
 # This string is only shown on Windows 7, where we intentionally suppress the
