@@ -8,11 +8,15 @@
 
 ## New changes screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-new-title = Willkommen zum neuen { -brand-short-name }
+upgrade-dialog-new-subtitle = Entwickelt, um dich schneller ans Ziel zu bringen
 upgrade-dialog-new-item-menu-title = Angepasste Symbolleisten und Menüs
 upgrade-dialog-new-item-menu-description = Priorisieren die wichtigen Dinge, damit du das findest, was du brauchst.
 upgrade-dialog-new-item-tabs-title = Moderne Tabs
 upgrade-dialog-new-item-tabs-description = Enthalten übersichtlich Informationen und unterstützen so Fokus und flexible Bewegung.
 upgrade-dialog-new-item-icons-title = Neue Symbole und klarere Nachrichten
+upgrade-dialog-new-item-icons-description = Helfen dir, schneller an dein Ziel zu kommen.
 upgrade-dialog-new-primary-primary-button = { -brand-short-name } als primären Browser festlegen
     .title = Setzt { -brand-short-name } als Standardbrowser heftet es an die Taskleiste
 upgrade-dialog-new-primary-default-button = { -brand-short-name } als Standardbrowser festlegen
