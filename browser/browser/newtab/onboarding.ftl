@@ -257,6 +257,16 @@ onboarding-multistage-theme-description-alpenglow =
 
 ## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 
+# "Hero Text" displayed on left side of welcome screen.
+# The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
+# It also signals the passion users bring to Firefox, how they use
+# Firefox to pursue those passions, as well as the boldness in their
+# choice to use Firefox over a larger competitor browser.
+# An alternative title for localization is: "It starts here".
+# This text can be formatted to span multiple lines as needed.
+mr1-welcome-screen-hero-text =
+    Wenn der Funke
+    zündet
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Animationen deaktivieren
 mr1-onboarding-welcome-header = Willkommen bei { -brand-short-name }
@@ -265,6 +275,7 @@ mr1-onboarding-set-default-pin-primary-button-label = { -brand-short-name } als 
 mr1-onboarding-set-default-only-primary-button-label = { -brand-short-name } als Standardbrowser festlegen
 mr1-onboarding-set-default-secondary-button-label = Nicht jetzt
 mr1-onboarding-sign-in-button-label = Anmelden
+mr1-onboarding-import-header = Nehme alles mit
 mr1-onboarding-import-subtitle = Importiere deine Passwörter, <br/>Lesezeichen und mehr.
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
@@ -273,6 +284,7 @@ mr1-onboarding-import-primary-button-label-attribution = Aus { $previous } impor
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = Aus vorherigem Browser importieren
 mr1-onboarding-import-secondary-button-label = Nicht jetzt
+mr1-onboarding-theme-header = Ganz dein Style
 mr1-onboarding-theme-subtitle = Personalisiere { -brand-short-name } mit einem Theme.
 mr1-onboarding-theme-primary-button-label = Theme speichern
 mr1-onboarding-theme-secondary-button-label = Nicht jetzt
