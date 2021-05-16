@@ -85,6 +85,8 @@ profiler-popup-capture-shortcut =
 
 ## History panel
 
+appmenu-reopen-all-tabs = Nate kuaiyo da sukua
+appmenu-reopen-all-windows = Na síne kuaíyo da ventana
 
 ## Help panel
 
@@ -96,6 +98,8 @@ appmenu-about =
 appmenu-get-help =
     .label = Nánuku chineída noo´o
     .accesskey = H
+appmenu-help-report-site-issue =
+    .label = Iyo iin tixi nuu sitio ya´a...
 appmenu-help-feedback-page =
     .label = Chu'un ichí a jíaníninu...
     .accesskey = C
@@ -116,6 +120,8 @@ appmenu-help-not-deceptive =
 
 ## More Tools
 
+appmenu-customizetoolbar =
+    .label = Sá´á vii barra ka̱a̱...
 appmenu-taskmanager =
     .label = Tetiñu da tareas
 appmenu-developer-tools-subheader = Da ka̱a̱ ka̱a̱ nánuku
