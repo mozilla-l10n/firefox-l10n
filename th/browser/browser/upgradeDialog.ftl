@@ -21,6 +21,7 @@ upgrade-dialog-new-primary-primary-button = ทำให้ { -brand-short-name 
     .title = ตั้ง { -brand-short-name } เป็นเบราว์เซอร์เริ่มต้นและปักหมุดเข้ากับแถบงาน
 upgrade-dialog-new-primary-default-button = ทำให้ { -brand-short-name } เป็นเบราว์เซอร์เริ่มต้นของฉัน
 upgrade-dialog-new-primary-pin-button = ปักหมุด { -brand-short-name } เข้ากับแถบงานของฉัน
+upgrade-dialog-new-primary-pin-alt-button = ปักหมุดที่แถบงาน
 upgrade-dialog-new-primary-theme-button = เลือกชุดตกแต่ง
 upgrade-dialog-new-secondary-button = ไม่ใช่ตอนนี้
 # This string is only shown on Windows 7, where we intentionally suppress the
