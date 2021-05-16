@@ -16,6 +16,11 @@ bookmark-overlay-name-2 =
 bookmark-overlay-url =
     .value = URL
     .accesskey = U
+# Location refers to the position of the bookmark within the browser's
+# bookmarks, not to its URL or address.
+bookmark-overlay-location-2 =
+    .value = Nuu iñɨnu
+    .accesskey = L
 bookmark-overlay-choose =
     .label = Kaji...
 bookmark-overlay-folders-expander =
@@ -40,3 +45,6 @@ bookmark-overlay-tags-expander =
 bookmark-overlay-keyword =
     .value = Tu´un clave
     .accesskey = b
+bookmark-overlay-keyword-2 =
+    .value = Tu´un clave
+    .accesskey = K

@@ -12,4 +12,7 @@ upgrade-dialog-new-secondary-button = Nkuvi ntañu´u
 
 ## Theme selection screen
 
+upgrade-dialog-theme-dark = Teku tun
+    .title = Ni'in teku tun nuu botones, menus, jii ventanas
+upgrade-dialog-theme-primary-button = Chuva'a tema
 upgrade-dialog-theme-secondary-button = Nkuvi ntañu´u
