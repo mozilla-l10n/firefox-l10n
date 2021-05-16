@@ -5,9 +5,9 @@
 chat-joining-chat-icon2 =
     .alt = Присоединение к чату
 chat-left-chat-icon2 =
-    .alt = Покидание чата
+    .alt = Покинул(а) чат
 chat-participant-owner-role-icon2 =
-    .alt = Создатель
+    .alt = Владелец
 chat-participant-administrator-role-icon2 =
     .alt = Администратор
 chat-participant-moderator-role-icon2 =
