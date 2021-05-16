@@ -264,7 +264,7 @@ onboarding-multistage-theme-description-alpenglow =
 # choice to use Firefox over a larger competitor browser.
 # An alternative title for localization is: "It starts here".
 # This text can be formatted to span multiple lines as needed.
-mr1-welcome-screen-hero-text = Le foco initia ci
+mr1-welcome-screen-hero-text = Que nos comencia ci
 # Caption for background image in about:welcome. "Soraya Osorio" is the name
 # of the person and shouldn't be translated.
 mr1-onboarding-welcome-image-caption = Soraya Osorio — Designer de mobiles, fan de Firefox
@@ -277,15 +277,15 @@ mr1-onboarding-set-default-only-primary-button-label = Render { -brand-short-nam
 mr1-onboarding-set-default-secondary-button-label = Non ora
 mr1-onboarding-sign-in-button-label = Aperir session
 mr1-onboarding-import-header = Porta toto con te
-mr1-onboarding-import-subtitle = Importa to contrasignos, <br/>marcapaginas e altero ancora
+mr1-onboarding-import-subtitle = Importa tu contrasignos, <br/>marcapaginas e multo plus.
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = Importar ex { $previous }
 # This string will be used in cases where we can't detect the previous browser name.
-mr1-onboarding-import-primary-button-label-no-attribution = Importar ex la previe navigator
+mr1-onboarding-import-primary-button-label-no-attribution = Importar del previe navigator
 mr1-onboarding-import-secondary-button-label = Non ora
-mr1-onboarding-theme-header = Rende lo tue
+mr1-onboarding-theme-header = Personalisa lo
 mr1-onboarding-theme-subtitle = Personalisa { -brand-short-name } per un thema.
 mr1-onboarding-theme-primary-button-label = Salvar le thema
 mr1-onboarding-theme-secondary-button-label = Non ora

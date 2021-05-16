@@ -1143,7 +1143,7 @@ collection-backlogged-crash-reports =
     .label = Permitter a { -brand-short-name } de inviar reportos de collapso arretrate in tu nomine
     .accesskey = c
 collection-backlogged-crash-reports-link = Saper plus
-collection-backlogged-crash-reports-with-link = Permitter { -brand-short-name }  inviar per conto tue le reportos de crash suspendite <a data-l10n-name="crash-reports-link">saper plus</a>
+collection-backlogged-crash-reports-with-link = Permitter que { -brand-short-name } invia in tu nomine le reportos accumulate de crash <a data-l10n-name="crash-reports-link">saper plus</a>
     .accesskey = P
 
 ## Privacy Section - Security

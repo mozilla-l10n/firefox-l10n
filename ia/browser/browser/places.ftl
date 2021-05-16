@@ -92,13 +92,13 @@ places-edit-generic =
     .label = Rediger…
     .accesskey = i
 places-edit-folder =
-    .label = Renominar plica…
+    .label = Renominar dossier…
     .accesskey = R
 places-remove-folder =
     .label =
         { $count ->
-            [1] Remover plica
-           *[other] Remover plicas
+            [1] Remover dossier
+           *[other] Remover dossiers
         }
     .accesskey = v
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
