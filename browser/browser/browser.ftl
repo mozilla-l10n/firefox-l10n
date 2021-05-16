@@ -294,6 +294,7 @@ identity-header-security-with-host =
     .title = ความปลอดภัยของการเชื่อมต่อสำหรับ { $host }
 identity-connection-not-secure = การเชื่อมต่อไม่ปลอดภัย
 identity-connection-secure = การเชื่อมต่อปลอดภัย
+identity-connection-failure = การเชื่อมต่อล้มเหลว
 identity-connection-internal = นี่คือหน้า { -brand-short-name } ที่ปลอดภัย
 identity-connection-file = หน้านี้ถูกจัดเก็บไว้ในคอมพิวเตอร์ของคุณ
 identity-extension-page = หน้านี้ถูกโหลดจากส่วนขยาย
