@@ -85,9 +85,9 @@ about-processes-unknown-process = Altere: { $type } ({ $pid })
 about-processes-web-isolated-process = { $origin } ({ $pid })
 about-processes-web-large-allocation-process = { $origin } ({ $pid }, grande)
 about-processes-with-coop-coep-process = { $origin } ({ $pid }, cross-origin insulate)
-about-processes-web-isolated-process-private = { $origin } — Anonyme ({ $pid })
-about-processes-web-large-allocation-process-private = { $origin } — Anonyme ({ $pid }, grande)
-about-processes-with-coop-coep-process-private = { $origin } — Anonyme ({ $pid }, cross-origin insulate)
+about-processes-web-isolated-process-private = { $origin } — Private ({ $pid })
+about-processes-web-large-allocation-process-private = { $origin } — Private ({ $pid }, grande)
+about-processes-with-coop-coep-process-private = { $origin } — Private ({ $pid }, cross-origin insulate)
 
 ## Details within processes
 
