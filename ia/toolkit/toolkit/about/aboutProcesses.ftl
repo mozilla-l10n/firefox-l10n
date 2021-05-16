@@ -60,7 +60,7 @@ about-processes-browser-process = { -brand-short-name } ({ $pid })
 about-processes-web-process = Processo web compartite ({ $pid })
 about-processes-file-process = File ({ $pid })
 about-processes-extension-process = Extensiones ({ $pid })
-about-processes-privilegedabout-process = Paginas re ({ $pid })
+about-processes-privilegedabout-process = Paginas 'about:' ({ $pid })
 about-processes-plugin-process = Plugins ({ $pid })
 about-processes-privilegedmozilla-process = Sitos { -vendor-short-name } ({ $pid })
 about-processes-gmp-plugin-process = Plugins multimedial Gecko ({ $pid })
@@ -75,7 +75,7 @@ about-processes-preallocated-process = Pre-allocate ({ $pid })
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
 #    $type (String) The raw type for this process.
-about-processes-unknown-process = Altero: { $type } ({ $pid })
+about-processes-unknown-process = Altere: { $type } ({ $pid })
 
 ## Isolated process names
 ## Variables:
