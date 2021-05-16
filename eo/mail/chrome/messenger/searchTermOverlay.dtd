@@ -2,12 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY matchAll.label     "Match all of the following">
-<!ENTITY matchAll.accesskey "a">
-<!ENTITY matchAny.label     "Match any of the following">
-<!ENTITY matchAny.accesskey "o">
-<!ENTITY matchAllMsgs.label     "Match all messages">
-<!ENTITY matchAllMsgs.accesskey "m">
+<!ENTITY matchAll.label     "Kongrui kun ĉiuj kondiĉoj">
+<!ENTITY matchAll.accesskey "j">
+<!ENTITY matchAny.label     "Kongrui kun ajna kondiĉo">
+<!ENTITY matchAny.accesskey "n">
+<!ENTITY matchAllMsgs.label     "Neniu kondiĉo, ĉiuj mesaĝoj">
+<!ENTITY matchAllMsgs.accesskey "u">
 
 <!-- LOCALIZATION NOTE
   The values below are used to control the widths of the search widgets.
