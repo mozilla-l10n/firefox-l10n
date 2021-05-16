@@ -217,6 +217,7 @@ confirm-discard-changes-dialog-confirm-button = Рад кардан
 ## Breach Alert notification
 
 about-logins-breach-alert-title = Ҳамла дар сомона
+breach-alert-text = Аз он вақте, ки шумо тафсилоти воридшавии худро охирон бор навсозӣ кардед, ниҳонвожаҳои шумо ошкор ё дуздӣ карда шудаанд. Барои муҳофизат кардани ҳисоби худ, ниҳонвожаи худро иваз намоед.
 about-logins-breach-alert-date = Ин ҳамла санаи { DATETIME($date, day: "numeric", month: "long", year: "numeric") } ба миён омад
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
@@ -226,6 +227,7 @@ about-logins-breach-alert-learn-more-link = Маълумоти бештар
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Ниҳонвожаи камқувват
+about-logins-vulnerable-alert-text2 = Ин ниҳонвожа дар ҳисоби дигар истифода карда шуд, ки эҳтимол маълумоти он ҳисоб ошкор ё дуздӣ карда шуд. Аз нав истифода кардани маълумоти корбари ҷорӣ метавонад ҳисобҳои шуморо зери хатар гузорад.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = Ба { $hostname } гузаред
@@ -233,6 +235,11 @@ about-logins-vulnerable-alert-learn-more-link = Маълумоти бештар
 
 ## Error Messages
 
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login-with-link = Воридшавӣ барои { $loginTitle } бо ин номи корбар аллакай вуҷуд дорад. <a data-l10n-name="duplicate-link">Ба воридшавии мавҷудбуда мегузаред?</a>
 # This is a generic error message.
 about-logins-error-message-default = Ҳангоми кӯшиши нигоҳ доштани ин ниҳонвожа хато ба миён омад.
 
