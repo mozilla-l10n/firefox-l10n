@@ -149,6 +149,14 @@ ssl-autodetect-option = Wykryj
 ssl-noencryption-option = Bez szyfrowania
 ssl-starttls-option = STARTTLS
 ssl-tls-option = SSL/TLS
+account-setup-incoming-auth-label = Uwierzytelnianie poczty przychodzącej
+account-setup-outgoing-auth-label = Uwierzytelnianie poczty wychodzącej
+account-setup-incoming-username-label = Nazwa użytkownika poczty przychodzącej
+account-setup-outgoing-username-label = Nazwa użytkownika poczty wychodzącej
+account-setup-advanced-setup-button = Utwórz konto i edytuj jego ustawienia
+    .accesskey = e
 
 ## Warning insecure server
 
+account-setup-insecure-server-checkbox = Rozumiem ryzyko
+    .accesskey = R
