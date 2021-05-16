@@ -94,7 +94,7 @@ toolbar-button-stop-reload =
 ## Save Page
 
 main-context-menu-page-save =
-    .label = I-save ang Pahina Bilang…
+    .label = i-Save ang Pahina Bilang…
     .accesskey = P
 toolbar-button-page-save =
     .label = { main-context-menu-page-save.label }
@@ -288,7 +288,7 @@ main-context-menu-plugin-hide =
     .label = Itago ang plugin na ito
     .accesskey = H
 main-context-menu-save-to-pocket =
-    .label = I-save ang Pahina sa { -pocket-brand-name }
+    .label = i-Save ang Pahina sa { -pocket-brand-name }
     .accesskey = k
 main-context-menu-send-to-device =
     .label = Ipadala ang Pahina sa Device

@@ -50,7 +50,7 @@ appmenu-fxa-header =
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-fxa-signed-in-label = Mag sign-in
 appmenuitem-save-page =
-    .label = I-save ang Pahina Bilang…
+    .label = i-Save ang Pahina Bilang…
 
 ## What's New panel in App menu.
 
