@@ -58,7 +58,7 @@ about-processes-process-name = Proceso{ $pid }: { $name }
 
 about-processes-browser-process = { -brand-short-name } ({ $pid })
 about-processes-web-process = Proceso web compartido ({ $pid })
-about-processes-file-process = Archivos ({ $pido })
+about-processes-file-process = Archivos ({ $pid })
 about-processes-extension-process = Extensiones ({ $pid })
 about-processes-privilegedabout-process = Acerca de las páginas ({ $pid })
 about-processes-plugin-process = Plugins ({ $pid })
@@ -75,7 +75,7 @@ about-processes-preallocated-process = Preasignado ({ $pid })
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
 #    $type (String) The raw type for this process.
-about-processes-unknown-process = Otro: { $type } ({ $pido })
+about-processes-unknown-process = Otro: { $type } ({ $pid })
 
 ## Isolated process names
 ## Variables:
@@ -185,8 +185,8 @@ about-processes-cpu-idle = inactivo
 # Common case.
 about-processes-total-memory-size = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit } ({ $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit })
 # Common case.
-about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit } { $totalUnit }
-    .title = Evolución: { NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit }{ $deltaUnit }
+about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
+    .title = Evolución: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit }
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
 
