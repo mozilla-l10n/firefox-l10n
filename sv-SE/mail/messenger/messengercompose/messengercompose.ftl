@@ -122,10 +122,34 @@ button-return-receipt =
 
 to-compose-address-row-label =
     .value = Till
+#   $key (String) - the shortcut key for this field
+to-compose-show-address-row-menuitem =
+    .label = Fältet { to-compose-address-row-label.value }
+    .accesskey = T
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+to-compose-show-address-row-label =
+    .value = { to-compose-address-row-label.value }
+    .tooltiptext = Visa fältet { to-compose-address-row-label.value } ({ to-compose-show-address-row-menuitem.acceltext })
 cc-compose-address-row-label =
     .value = Kopia
+#   $key (String) - the shortcut key for this field
+cc-compose-show-address-row-menuitem =
+    .label = Fältet { cc-compose-address-row-label.value }
+    .accesskey = K
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+cc-compose-show-address-row-label =
+    .value = { cc-compose-address-row-label.value }
+    .tooltiptext = Visa fältet { cc-compose-address-row-label.value } ({ cc-compose-show-address-row-menuitem.acceltext })
 bcc-compose-address-row-label =
     .value = Dold kopia
+#   $key (String) - the shortcut key for this field
+bcc-compose-show-address-row-menuitem =
+    .label = Fältet { bcc-compose-address-row-label.value }
+    .accesskey = D
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+bcc-compose-show-address-row-label =
+    .value = { bcc-compose-address-row-label.value }
+    .tooltiptext = Visa fältet { bcc-compose-address-row-label.value } ({ bcc-compose-show-address-row-menuitem.acceltext })
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 consider-bcc-notification = { $count } mottagare i fältet Till och Kopia kan se varandras adresser. Du kan undvika att avslöja mottagare genom att använda dold kopia istället.
 many-public-recipients-bcc =
