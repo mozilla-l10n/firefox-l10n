@@ -44,3 +44,6 @@ toolbar-context-menu-remove-from-toolbar =
 toolbar-context-menu-view-customize-toolbar =
     .label = Приспособяване…
     .accesskey = П
+toolbar-context-menu-bookmarks-show-other-bookmarks =
+    .label = Показване на другите отметки
+    .accesskey = д

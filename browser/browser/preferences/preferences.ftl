@@ -810,11 +810,11 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Бисквитки и данни на страници
-sitedata-total-size-calculating = Изчисляване на размера на данните и буфера…
+sitedata-total-size-calculating = Изчисляване на размера на данните и склада…
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size = Буферът, бисквитките и данните от страници в момента заемат { $value } { $unit } дисково пространство.
+sitedata-total-size = Складът, бисквитките и данните от страници в момента заемат { $value } { $unit } дисково пространство.
 sitedata-learn-more = Научете повече
 sitedata-delete-on-close =
     .label = Изтриване на бисквитки и данни на страници при затваряне на { -brand-short-name }
