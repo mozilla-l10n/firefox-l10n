@@ -82,8 +82,10 @@ about-processes-unknown-process = Altero: { $type } ({ $pid })
 
 about-processes-web-isolated-process = { $origin } ({ $pid })
 about-processes-web-large-allocation-process = { $origin } ({ $pid }, grande)
+about-processes-with-coop-coep-process = { $origin } ({ $pid }, cross-origin insulate)
 about-processes-web-isolated-process-private = { $origin } — Anonyme ({ $pid })
 about-processes-web-large-allocation-process-private = { $origin } — Anonyme ({ $pid }, grande)
+about-processes-with-coop-coep-process-private = { $origin } — Anonyme ({ $pid }, cross-origin insulate)
 
 ## Details within processes
 
@@ -98,6 +100,12 @@ about-processes-thread-summary = Argumentos ({ $number })
 #   $name (String) The name assigned to the thread.
 #   $tid (String) The thread id of this thread, assigned by the OS.
 about-processes-thread-name = Argumento { $tid }: { $name }
+# Thread details
+# Variables:
+#   $name (String) The name assigned to the thread.
+#   $tid (String) The thread id of this thread, assigned by the OS.
+about-processes-thread-name-and-id = { $name }
+    .title = id de argumento: { $tid }
 # Tab
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
@@ -131,6 +139,9 @@ about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "pe
 about-processes-cpu-user-and-kernel-not-ready = (mesurante)
 # Special case: process or thread is currently idle.
 about-processes-cpu-user-and-kernel-idle = non active ({ NUMBER($total, maximumFractionDigits: 2) }{ $unit })
+# Special case: process or thread is currently idle.
+about-processes-cpu-idle = inactive
+    .title = Tempore de CPU total: { NUMBER($total, maximumFractionDigits: 2) }{ $unit }
 
 ## Displaying Memory (total and delta)
 ## Variables:
