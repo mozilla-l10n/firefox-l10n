@@ -65,18 +65,53 @@ account-setup-looking-up-settings = Поиск конфигурации…
 account-setup-checking-password = Проверка пароля…
 account-setup-installing-addon = Загрузка и установка дополнения…
 account-setup-success-guess-offline = Вы не подключены к сети. Мы попробовали угадать некоторые настройки, но вам нужно будет ввести правильные настройки.
+account-setup-success-addon = Дополнение успешно установлено
 
 ## Illustrations
 
+account-setup-step1-image =
+    .title = Начальная настройка
+account-setup-step2-image =
+    .title = Загрузка…
+account-setup-step3-image =
+    .title = Конфигурация найдена
+account-setup-step4-image =
+    .title = Ошибка соединения
+account-setup-selection-help = Не знаете, что выбрать?
+account-setup-selection-error = Нужна помощь?
+account-setup-documentation-help = Документация по настройке
+account-setup-forum-help = Форум поддержки
 
 ## Results area
 
+account-setup-protocol-title = Выберите протокол
+# Note: IMAP is the name of a protocol.
+account-setup-result-imap = IMAP
+# Note: POP3 is the name of a protocol.
+account-setup-result-pop = POP3
+# Note: Exchange is the name of a product.
+account-setup-result-exchange = Exchange
+account-setup-result-exchange-description = Сервер Microsoft Exchange
+account-setup-username-title = Имя пользователя
+account-setup-exchange-title = Сервер
 
 ## Error messages
 
 
 ## Manual config area
 
+account-setup-manual-config-title = Параметры сервера
+protocol-imap-option = { account-setup-result-imap }
+protocol-pop-option = { account-setup-result-pop }
+outgoing-protocol = SMTP
+ssl-autodetect-option = Автоопределение
+ssl-noencryption-option = Нет
+ssl-starttls-option = STARTTLS
+ssl-tls-option = SSL/TLS
+account-setup-advanced-setup-button = Дополнительная настройка
+    .accesskey = е
 
 ## Warning insecure server
 
+account-setup-insecure-server-checkbox = Я понимаю риски
+    .accesskey = ю
