@@ -257,4 +257,4 @@ newtab-custom-close-button = Začinić
 # and non-essential but also not entirely trivial and useless.
 newtab-custom-snippets-title = Šlipki
 newtab-custom-snippets-subtitle = Pokiwy a nowinki wot { -vendor-short-name } a { -brand-product-name }
-newtab-custom-settings = Dlaše nastajenja rjadować
+newtab-custom-settings = Dalše nastajenja rjadować
