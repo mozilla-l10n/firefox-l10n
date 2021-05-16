@@ -270,8 +270,8 @@ mr1-welcome-screen-hero-text =
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Animationen deaktivieren
 mr1-onboarding-welcome-header = Willkommen bei { -brand-short-name }
-mr1-onboarding-set-default-pin-primary-button-label = { -brand-short-name } als primären Browser festlegen
-    .title = Setzt { -brand-short-name } als Standardbrowser und heftet es an die Taskleiste
+mr1-onboarding-set-default-pin-primary-button-label = { -brand-short-name } als Hauptbrowser festlegen
+    .title = Setzt { -brand-short-name } als Standardbrowser und heftet ihn an die Taskleiste
 mr1-onboarding-set-default-only-primary-button-label = { -brand-short-name } als Standardbrowser festlegen
 mr1-onboarding-set-default-secondary-button-label = Nicht jetzt
 mr1-onboarding-sign-in-button-label = Anmelden
