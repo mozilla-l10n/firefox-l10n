@@ -8,7 +8,7 @@
 
 ## New changes screen
 
-upgrade-dialog-new-item-menu-title = Schlankere Symbolleisten und Menüs
+upgrade-dialog-new-item-menu-title = Angepasste Symbolleisten und Menüs
 upgrade-dialog-new-item-menu-description = Priorisieren die wichtigen Dinge, damit du das findest, was du brauchst.
 upgrade-dialog-new-item-tabs-title = Moderne Tabs
 upgrade-dialog-new-item-tabs-description = Enthalten übersichtlich Informationen und unterstützen so Fokus und flexible Bewegung.
