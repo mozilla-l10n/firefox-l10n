@@ -9,7 +9,7 @@ printui-save-to-pdf-title = Запазване като
 # $sheetCount (integer) - Number of paper sheets
 printui-sheets-count =
     { $sheetCount ->
-        [one] { $sheetCount } лист
+        [one] Общо { $sheetCount } листа
        *[other] { $sheetCount } листа
     }
 printui-page-range-all = Всички
@@ -38,7 +38,9 @@ printui-scale-fit-to-page-width = Побиране по ширина на лис
 printui-scale-pcent = Мащаб
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Двустранно отпечатване
-printui-duplex-checkbox = Печат и от двете страни
+printui-two-sided-printing-off = Изключено
+# Flip the sheet as if it were bound along its long edge.
+printui-two-sided-printing-long-edge = Обърнете на дълъг ръб
 # Section title for miscellaneous print options
 printui-options = Настройки
 printui-headers-footers-checkbox = Печат на горни и долни колонтитули
