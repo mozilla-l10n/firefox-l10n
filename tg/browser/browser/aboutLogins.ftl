@@ -302,6 +302,7 @@ about-logins-import-dialog-items-error =
     }
 about-logins-import-dialog-done = Тайёр
 about-logins-import-dialog-error-title = Хатои воридот
+about-logins-import-dialog-error-conflicting-values-title = Якчанд қимати ихтилофнок барои як воридшавӣ
 about-logins-import-dialog-error-conflicting-values-description = Барои мисол: якчанд номи корбар, ниҳонвожа, нишонии URL ва ғайра барои як воридшавӣ.
 about-logins-import-dialog-error-file-format-title = Формати файл мушкилӣ дорад
 about-logins-import-dialog-error-file-permission-title = Файл хонда нашуд

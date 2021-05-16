@@ -62,11 +62,13 @@ cfr-doorhanger-extension-total-users =
 
 ## These messages are steps on how to use the feature and are shown together.
 
+cfr-doorhanger-pintab-step2 = Аз меню <b>Васл кардани варақа</b>-ро интихоб намоед.
 cfr-doorhanger-pintab-animation-pause = Таваққуф кардан
 cfr-doorhanger-pintab-animation-resume = Давом додан
 
 ## Firefox Accounts Message
 
+cfr-doorhanger-bookmark-fxa-header = Хатбаракҳои худро дар куҷое, ки набошед, ҳамоҳанг кунед.
 cfr-doorhanger-bookmark-fxa-link-text = Хатбаракҳо ҳозир ҳамоҳанг карда шаванд…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Тугмаи «Пӯшидан»

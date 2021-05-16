@@ -228,6 +228,14 @@ search-one-offs-context-set-as-default-private =
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
+# Shown when adding new engines from the address bar shortcut buttons or context
+# menu, or from the search bar shortcut buttons.
+# Variables:
+#  $engineName (String): The name of the engine.
+search-one-offs-add-engine =
+    .label = Илова кардани “{ $engineName }”
+    .tooltiptext = Илова кардани низоми ҷустуҷӯии “{ $engineName }”
+    .aria-label = Илова кардани низоми ҷустуҷӯии  “{ $engineName }”
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -287,9 +295,13 @@ identity-header-security-with-host =
     .title = Амнияти пайвастшавӣ барои { $host }
 identity-connection-not-secure = Пайвастшавӣ бехатар нест
 identity-connection-secure = Пайвастшавӣ бехатар аст
+identity-connection-failure = Пайвастшавӣ қатъ шуд
 identity-connection-internal = Ин саҳифаи бехатари { -brand-short-name } мебошад.
 identity-connection-file = Ин саҳифа дар компютери шумо нигоҳ дошта мешавад.
 identity-extension-page = Ин саҳифа аз васеъшавӣ бор карда шудааст.
+identity-active-blocked = { -brand-short-name } қисмҳои ин саҳифаро манъ кард, зеро ки онҳо бехатар нестанд.
+identity-passive-loaded = Қисмҳои ин саҳифа бехатар нестанд (масалан, тасвирҳо).
+identity-active-loaded = Шумо барои ин саҳифа муҳофизатро ғайрифаъол кардед.
 identity-weak-encryption = Ин саҳифа рамзгузории камқувватро истифода мебарад.
 identity-insecure-login-forms = Воридшавиҳое, ки шумо дар ин саҳифа ворид мекунед, метавонанд ошкор карда шаванд.
 identity-permissions =
