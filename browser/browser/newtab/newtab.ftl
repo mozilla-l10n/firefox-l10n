@@ -54,13 +54,13 @@ newtab-topsites-edit-shortcut-header = Upraviť skratku
 newtab-topsites-title-label = Názov
 newtab-topsites-title-input =
     .placeholder = Zadajte názov
-newtab-topsites-url-label = URL
+newtab-topsites-url-label = Adresa URL
 newtab-topsites-url-input =
-    .placeholder = Zadajte alebo prilepte URL
-newtab-topsites-url-validation = Vyžaduje sa platná URL
-newtab-topsites-image-url-label = URL adresa vlastného obrázku
+    .placeholder = Zadajte alebo prilepte adresu URL
+newtab-topsites-url-validation = Vyžaduje sa platná adresa URL
+newtab-topsites-image-url-label = Adresa URL vlastného obrázka
 newtab-topsites-use-image-link = Použiť vlastný obrázok…
-newtab-topsites-image-validation = Obrázok sa nepodarilo načítať. Skúste inú URL adresu.
+newtab-topsites-image-validation = Obrázok sa nepodarilo načítať. Skúste inú adresu URL.
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
