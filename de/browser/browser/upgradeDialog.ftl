@@ -12,13 +12,13 @@
 upgrade-dialog-new-title = Willkommen zum neuen { -brand-short-name }
 upgrade-dialog-new-subtitle = Entwickelt, um dich schneller ans Ziel zu bringen
 upgrade-dialog-new-item-menu-title = Angepasste Symbolleisten und Menüs
-upgrade-dialog-new-item-menu-description = Priorisieren die wichtigen Dinge, damit du das findest, was du brauchst.
+upgrade-dialog-new-item-menu-description = Stellen die wichtigen Dinge in den Vordergrund, damit du das findest, was du brauchst.
 upgrade-dialog-new-item-tabs-title = Moderne Tabs
-upgrade-dialog-new-item-tabs-description = Enthalten übersichtlich Informationen und unterstützen so Fokus und flexible Bewegung.
+upgrade-dialog-new-item-tabs-description = Enthalten übersichtlich Informationen und unterstützen sowohl fokussiertes als auch flexibles Arbeiten.
 upgrade-dialog-new-item-icons-title = Neue Symbole und klarere Nachrichten
 upgrade-dialog-new-item-icons-description = Helfen dir, schneller an dein Ziel zu kommen.
-upgrade-dialog-new-primary-primary-button = { -brand-short-name } als primären Browser festlegen
-    .title = Setzt { -brand-short-name } als Standardbrowser heftet es an die Taskleiste
+upgrade-dialog-new-primary-primary-button = { -brand-short-name } als Hauptbrowser festlegen
+    .title = Setzt { -brand-short-name } als Standardbrowser heftet ihn an die Taskleiste
 upgrade-dialog-new-primary-default-button = { -brand-short-name } als Standardbrowser festlegen
 upgrade-dialog-new-primary-pin-button = { -brand-short-name } an die Taskleiste anheften
 upgrade-dialog-new-primary-theme-button = Ein Theme auswählen
