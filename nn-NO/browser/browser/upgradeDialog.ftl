@@ -19,8 +19,12 @@ upgrade-dialog-new-primary-primary-button = Vel { -brand-short-name } som primæ
     .title = Stiller inn { -brand-short-name } som standardnettlesar og festar han til oppgåvelinja
 upgrade-dialog-new-primary-default-button = Vel { -brand-short-name } som stanardnettlesar
 upgrade-dialog-new-primary-pin-button = Fest { -brand-short-name } til oppgåvelinja
+upgrade-dialog-new-primary-pin-alt-button = Fest til oppgåvelinje
 upgrade-dialog-new-primary-theme-button = Vel eit tema
 upgrade-dialog-new-secondary-button = Ikkje no
+# This string is only shown on Windows 7, where we intentionally suppress the
+# theme selection screen.
+upgrade-dialog-new-primary-win7-button = OK, eg forstår!
 
 ## Theme selection screen
 
