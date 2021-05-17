@@ -59,3 +59,4 @@
 <!ENTITY printToolbarCmd.label "Afdrukken">
 <!ENTITY printToolbarCmd.tooltip "Deze pagina afdrukken">
 <!ENTITY formToolbarCmd.label "Formulier">
+<!ENTITY formToolbarCmd.tooltip "Een nieuw formulier invoegen of de eigenschappen van het geselecteerde formulier bewerken">
