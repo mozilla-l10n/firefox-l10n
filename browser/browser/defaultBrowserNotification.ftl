@@ -16,6 +16,7 @@ default-browser-prompt-title-pin = Gjør { -brand-short-name } til din primærne
 default-browser-prompt-message-pin = Ha alltid { -brand-short-name } tilgjengelig — sett den til standard nettleser og fest den til oppgavelinjen.
 default-browser-prompt-button-primary-pin = Velg som primærnettleser?
 default-browser-prompt-title-alt = Gjør { -brand-short-name } til din standardnettleser?
+default-browser-prompt-message-alt = Få hastighet, sikkerhet og personvern hver gang du surfer.
 default-browser-prompt-button-primary-alt = Velg som standardnettleser
 default-browser-prompt-checkbox-not-again-label = Vis ikke denne meldingen igjen
 default-browser-prompt-button-secondary = Ikke nå
