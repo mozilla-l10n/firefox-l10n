@@ -32,4 +32,14 @@ calendar-ics-file-dialog-progress-message = Inportatzen…
 calendar-ics-file-import-success = Ondo inportatu da!
 calendar-ics-file-import-error = Errore bat egon da eta inportatzeak huts egin du.
 calendar-ics-file-import-complete = Inportazioa amaitua.
+calendar-ics-file-import-duplicates =
+    { $duplicatesCount ->
+        [one] Elementu bat ez ikusi da, helburu egutegian bera badagoelako.
+       *[other] { $duplicatesCount } elementu ez ikusi dira, helburu egutegian badaudelako.
+    }
+calendar-ics-file-import-errors =
+    { $errorsCount ->
+        [one] Huts egin du elementu baten inportazioak. Begiratu errore kontsola xehetasunentzat.
+       *[other] { $errorsCount } elementuk huts egin dute inportatzean. Begiratu errore kontsola xehetasunentzat.
+    }
 calendar-ics-file-dialog-no-calendars = Ez dago egutegirik gertaerak eta zereginak inportatu dezakeenik.
