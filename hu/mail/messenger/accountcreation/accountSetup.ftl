@@ -7,6 +7,9 @@ account-setup-tab-title = Fiók beállítása
 ## Header
 
 account-setup-title = Meglévő e-mail fiók beállítása
+account-setup-description =
+    A jelenlegi e-mail-címe használatához ki kell töltenie a hitelesítő adatait.<br/>
+    A { -brand-product-name } automatikusan megkeresi a működő és ajánlott kiszolgálóbeállításokat.
 
 ## Form fields
 
@@ -66,6 +69,7 @@ account-setup-button-done = Kész
 
 account-setup-looking-up-settings = Konfiguráció keresése…
 account-setup-looking-up-settings-guess = Konfiguráció keresése: Gyakori kiszolgálónevek kipróbálása…
+account-setup-looking-up-settings-half-manual = Konfiguráció keresése: Kiszolgáló vizsgálata…
 account-setup-looking-up-disk = Konfiguráció keresése: { -brand-short-name } telepítés…
 account-setup-looking-up-isp = Konfiguráció keresése: E-mail-szolgáltató…
 # Note: Do not translate or replace Mozilla. It stands for the public project mozilla.org, not Mozilla Corporation. The database is a generic, public domain facility usable by any client.
@@ -74,6 +78,8 @@ account-setup-looking-up-mx = Konfiguráció keresése: Bejövő e-mail domain�
 account-setup-looking-up-exchange = Konfiguráció keresése: Exchange kiszolgáló…
 account-setup-checking-password = Jelszó ellenőrzése…
 account-setup-installing-addon = Kiegészítő letöltése és telepítése…
+account-setup-success-half-manual = Az adott kiszolgáló vizsgálata a következő beállításokat találta:
+account-setup-success-guess = A beállításokat a gyakori kiszolgálónevek keresése találta.
 account-setup-success-guess-offline = Kapcsolat nélküli üzemmódban van. Néhány beállítást kitaláltunk, de meg kell adnia a helyes beállításokat.
 account-setup-success-password = Jelszó rendben
 account-setup-success-addon = A kiegészítő telepítése sikeresen megtörtént
