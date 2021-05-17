@@ -15,6 +15,7 @@ policy-AllowedDomainsForApps = Definier domene som får tilgang til Google Works
 policy-AppAutoUpdate = Slå på eller slå av automatiske programoppdateringar.
 policy-AppUpdateURL = Spesifiser eigendefinert programoppdateringsadresse.
 policy-Authentication = Konfigurer integrert godkjenning for nettsider som støttar det.
+policy-AutoLaunchProtocolsFromOrigins = Definer ei liste over eksterne protokollar som kan brukast frå spesifiserte kjelder uan å spørje brukaren.
 policy-BackgroundAppUpdate2 = Slå på eller av bakgrunnsoppdateraren.
 policy-BlockAboutAddons = Blokker tilgang til Tilleggshandteraren (about:addons)
 policy-BlockAboutConfig = Blokker tilgang til about:config-sida.
