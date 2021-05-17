@@ -92,9 +92,32 @@ account-setup-success-settings-exchange = Atopouse a configuración para un serv
 
 ## Illustrations
 
+account-setup-step1-image =
+    .title = Configuración inicial
+account-setup-step2-image =
+    .title = Cargando…
+account-setup-step3-image =
+    .title = Atopouse a configuración
+account-setup-step4-image =
+    .title = Erro de conexión
+account-setup-privacy-footnote = As súas credenciais utilizaranse segundo a nosa <a data-l10n-name="privacy-policy-link"> política de privacidade </a> e só se almacenarán localmente no seu computador.
+account-setup-selection-help = Non sabe que seleccionar?
+account-setup-selection-error = Precisa axuda?
+account-setup-documentation-help = Documentación de configuración
+account-setup-forum-help = Foro de asistencia
 
 ## Results area
 
+account-setup-protocol-title = Seleccione o protocolo
+# Note: IMAP is the name of a protocol.
+account-setup-result-imap = IMAP
+account-setup-result-imap-description = Gardar os seus cartafoles e correos electrónicos sincronizados co servidor
+# Note: POP3 is the name of a protocol.
+account-setup-result-pop = POP3
+account-setup-result-pop-description = Gardar os seus cartafoles e correos electrónicos no seu computador
+# Note: Exchange is the name of a product.
+account-setup-result-exchange = Exchange
+account-setup-result-exchange-description = Servidor Microsoft Exchange
 
 ## Error messages
 
