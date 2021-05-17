@@ -14,6 +14,10 @@ page-title = Горт! Клаату барада никто!
 error-title-text = Хуш омадед ба одамон!
 # Movie: The Day The Earth Stood Still. Spoken by Klaatu.
 error-short-desc-text = Мо ба шумо бо сулҳ ва некӣ омадем!
+# Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics
+error-long-desc1 = Робот ба одам зарар расонида наметавонад ё аз беамалии худ роҳ дода наметавонад, ки ба одам зарар расонида шавад.
+# Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..."
+error-long-desc2 = Роботҳо он чизҳоеро диданд, ки одам ҳеҷ вақт бовар намекунад.
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = Ва онҳо нақша доранд.
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
