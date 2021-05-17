@@ -24,6 +24,9 @@ upgrade-dialog-new-primary-pin-button = { -brand-short-name } an die Taskleiste 
 upgrade-dialog-new-primary-pin-alt-button = An die Taskleiste anheften
 upgrade-dialog-new-primary-theme-button = Ein Theme auswählen
 upgrade-dialog-new-secondary-button = Nicht jetzt
+# This string is only shown on Windows 7, where we intentionally suppress the
+# theme selection screen.
+upgrade-dialog-new-primary-win7-button = OK, verstanden!
 
 ## Theme selection screen
 

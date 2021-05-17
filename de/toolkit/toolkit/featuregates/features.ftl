@@ -21,6 +21,7 @@ experimental-features-media-avif-description = Wenn diese Funktion aktiviert ist
 # by various online articles and is technical in nature.
 experimental-features-media-jxl =
     .label = Media: JPEG XL
+experimental-features-media-jxl-description = Wenn diese Funktion aktiviert ist, unterstützt { -brand-short-name } das JPEG-XL-Format (JXL). Dies ist ein erweitertes Bilddateiformat, das einen verlustfreien Übergang von traditionellen JPEG-Dateien unterstützt. Weitere Informationen erhalten Sie im <a data-l10n-name="bugzilla">Bug 1539075</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
