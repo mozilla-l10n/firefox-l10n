@@ -138,6 +138,16 @@ cc-compose-show-address-row-menuitem =
 cc-compose-show-address-row-label =
     .value = { cc-compose-address-row-label.value }
     .tooltiptext = Veld { cc-compose-address-row-label.value } tonen ({ cc-compose-show-address-row-menuitem.acceltext })
+bcc-compose-address-row-label =
+    .value = Bcc
+#   $key (String) - the shortcut key for this field
+bcc-compose-show-address-row-menuitem =
+    .label = Veld { bcc-compose-address-row-label.value }
+    .accesskey = B
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+bcc-compose-show-address-row-label =
+    .value = { bcc-compose-address-row-label.value }
+    .tooltiptext = Veld { bcc-compose-address-row-label.value } tonen ({ bcc-compose-show-address-row-menuitem.acceltext })
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 consider-bcc-notification = De { $count } ontvangers in Aan en Cc kunnen elkaars adres zien. U kunt voorkomen dat ontvangers worden onthuld door in plaats hiervan Bcc te gebruiken.
 many-public-recipients-bcc =
