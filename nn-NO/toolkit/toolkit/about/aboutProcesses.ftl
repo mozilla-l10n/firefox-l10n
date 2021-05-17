@@ -68,6 +68,8 @@ about-processes-gpu-process = GPU ({ $pid })
 about-processes-vr-process = VR ({ $pid })
 about-processes-rdd-process = Datadekodar ({ $pid })
 about-processes-socket-process = Nettverk ({ $pid })
+about-processes-fork-server-process = Forkserver ({ $pid })
+about-processes-preallocated-process = Førehandstildelt ({ $pid })
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
