@@ -46,12 +46,36 @@ account-setup-exchange-label = Seus datos de acceso
 #   YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows.
 account-setup-exchange-input =
     .placeholder = SEUDOMINIO\seunomedeusuario
+#   Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network.
+account-setup-exchange-info-icon =
+    .title = Datos de acceso ó dominio
 
 ## Action buttons
 
+account-setup-button-cancel = Cancelar
+    .accesskey = a
+account-setup-button-manual-config = Configurar manualmente
+    .accesskey = m
+account-setup-button-stop = Interromper
+    .accesskey = I
+account-setup-button-retest = Probar novamente
+    .accesskey = t
+account-setup-button-continue = Continuar
+    .accesskey = C
+account-setup-button-done = Feito
+    .accesskey = F
 
 ## Notifications
 
+account-setup-looking-up-settings = Procurando a configuración…
+account-setup-looking-up-settings-guess = Procurando a configuración: probando nomes de servidor comúns…
+account-setup-looking-up-settings-half-manual = Procurando a configuración: probando o servidor…
+account-setup-looking-up-disk = Procurando a configuración: instalación do { -brand-short-name }…
+account-setup-looking-up-isp = Procurando a configuración: provedor de correo electrónico…
+# Note: Do not translate or replace Mozilla. It stands for the public project mozilla.org, not Mozilla Corporation. The database is a generic, public domain facility usable by any client.
+account-setup-looking-up-db = Procurando a configuración: base de datos de provedores de internet de Mozilla…
+account-setup-looking-up-mx = Procurando a configuración: dominio de correo entrante…
+account-setup-looking-up-exchange = Procurando a configuración: servidor Exchange…
 
 ## Illustrations
 
