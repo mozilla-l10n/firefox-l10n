@@ -88,6 +88,7 @@ account-setup-exchange-title = Servitor
 
 account-setup-manual-config-title = Parametros de servitor
 protocol-imap-option = { account-setup-result-imap }
+protocol-pop-option = { account-setup-result-pop }
 outgoing-protocol = SMTP
 ssl-autodetect-option = Deteger automaticamente
 ssl-noencryption-option = Nulle
