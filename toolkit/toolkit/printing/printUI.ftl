@@ -41,6 +41,8 @@ printui-two-sided-printing = Двустранно отпечатване
 printui-two-sided-printing-off = Изключено
 # Flip the sheet as if it were bound along its long edge.
 printui-two-sided-printing-long-edge = Обърнете на дълъг ръб
+# Flip the sheet as if it were bound along its short edge.
+printui-two-sided-printing-short-edge = Обърнете на къс ръб
 # Section title for miscellaneous print options
 printui-options = Настройки
 printui-headers-footers-checkbox = Печат на горни и долни колонтитули
@@ -54,14 +56,19 @@ printui-margins-default = По поздразбиране
 printui-margins-min = Минимум
 printui-margins-none = Без
 printui-margins-custom-inches = По избор (инчове)
+printui-margins-custom-mm = По избор (мм)
 printui-margins-custom-top = Отгоре
 printui-margins-custom-top-inches = Отгоре (инчове)
+printui-margins-custom-top-mm = Отгоре (мм)
 printui-margins-custom-bottom = Отдолу
 printui-margins-custom-bottom-inches = Отдолу (инчове)
+printui-margins-custom-bottom-mm = Отдолу (мм)
 printui-margins-custom-left = Отляво
 printui-margins-custom-left-inches = Отляво (инчове)
+printui-margins-custom-left-mm = Отляво (мм)
 printui-margins-custom-right = Отдясно
 printui-margins-custom-right-inches = Отдясно (инчове)
+printui-margins-custom-right-mm = Отдясно (мм)
 printui-system-dialog-link = Печат с помощта на системния диалог…
 printui-primary-button = Отпечатване
 printui-primary-button-save = Запазване
@@ -98,6 +105,7 @@ printui-paper-tabloid = Таблоид
 
 printui-error-invalid-scale = Мащабът трябва да е между 10 и 200.
 printui-error-invalid-margin = Въведете валидни отстояния за избрания размер хартия.
+printui-error-invalid-copies = Броят на копията трябва да е число между 1 и 10000
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Диапазонът трябва да е между 1 и { $numPages }.
