@@ -14,6 +14,7 @@ upgrade-dialog-new-subtitle = Utforma for å ta deg dit du vil, raskare
 upgrade-dialog-new-item-menu-title = Straumlinjeforma verktøyfelt og menyer
 upgrade-dialog-new-item-menu-description = Prioriterer dei viktige tinga slik at du finn det du treng
 upgrade-dialog-new-item-tabs-title = Moderne faner
+upgrade-dialog-new-item-icons-title = Nye ikon og tydelegare meldingar
 upgrade-dialog-new-item-icons-description = Hjelper deg med å finne vegen på ein lettare måte.
 upgrade-dialog-new-primary-primary-button = Vel { -brand-short-name } som primærnettlesar
     .title = Stiller inn { -brand-short-name } som standardnettlesar og festar han til oppgåvelinja
@@ -28,6 +29,10 @@ upgrade-dialog-new-primary-win7-button = OK, eg forstår!
 
 ## Theme selection screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-theme-title =
+    Få ein ny start
+    med eit oppdatert tema
 upgrade-dialog-theme-system = Systemtema
     .title = Følg operativsystem-temaet for knappar, menyar og vindauge
 upgrade-dialog-theme-light = Lyst
