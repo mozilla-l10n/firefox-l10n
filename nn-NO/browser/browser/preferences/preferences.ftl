@@ -1018,6 +1018,7 @@ enhanced-tracking-protection-setting-custom =
 content-blocking-etp-standard-desc = Balansert for vern og yting. Sider vil laste normalt.
 content-blocking-etp-strict-desc = Sterkare vern, men kan føre til at nokre nettstadar eller innhald ikkje vil fungere.
 content-blocking-etp-custom-desc = Vel kva for sporarar og skript som skal blokkerast.
+content-blocking-etp-blocking-desc = { -brand-short-name } blokkerer følgjande:
 content-blocking-private-windows = Sporingsinnhald i private vindauge
 content-blocking-cross-site-cookies = Infokapslar på tvers av nettstadar
 content-blocking-cross-site-tracking-cookies = Sporingsinfokapslar på tvers av nettstadar
