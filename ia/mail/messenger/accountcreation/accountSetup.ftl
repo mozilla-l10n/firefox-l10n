@@ -27,6 +27,9 @@ account-setup-email-info-icon =
 account-setup-email-warning = Adresse email non valide
 account-setup-email-warning-icon =
     .title = { account-setup-email-warning }
+account-setup-password-label = Contrasigno
+    .accesskey = C
+    .title = Optional, solo essera usate pro validar le nomine de usator
 account-setup-password-toggle =
     .title = Monstrar/celar le contrasigno
 account-setup-remember-password = Rememorar le contrasigno
@@ -44,6 +47,8 @@ account-setup-exchange-info-icon =
 
 account-setup-button-cancel = Cancellar
     .accesskey = a
+account-setup-button-manual-config = Configurar manualmente
+    .accesskey = m
 account-setup-button-stop = Stoppar
     .accesskey = S
 account-setup-button-retest = Retestar
@@ -65,6 +70,8 @@ account-setup-success-password = Contrasigno OK
 
 account-setup-step2-image =
     .title = Cargante…
+account-setup-step4-image =
+    .title = Error de connexion
 account-setup-selection-error = Require tu adjuta?
 
 ## Results area
