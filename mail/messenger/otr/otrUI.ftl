@@ -50,6 +50,7 @@ state-private = L’identité de { $name } a été vérifiée. La conversation e
 #   $name (String) - the screen name of a chat contact person
 state-finished = { $name } a mis fin à sa conversation chiffrée avec vous ; vous devriez faire de même.
 state-not_private-label = Non sécurisé
+state-not-private-label = Non sécurisé
 state-unverified-label = Non vérifié
 state-private-label = Privé
 state-finished-label = Terminé
