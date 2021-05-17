@@ -21,3 +21,5 @@ policy-HardwareAcceleration = Дар ҳолати «false» суръатафзо
 
 ##
 
+policy-NewTabPage = Саҳифаи варақаи навро фаъол ё ғайрифаъол мекунад.
+policy-Proxy = Хусусиятҳои проксиро танзим мекунад.
