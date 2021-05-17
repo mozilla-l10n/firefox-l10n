@@ -9,6 +9,16 @@ about-private-browsing-info-title = En ur prenestr merdeiñ prevez emaoc’h
 about-private-browsing-info-myths = Mojennoù a vez alies diwar-benn ar merdeiñ prevez
 about-private-browsing =
     .title = Klask er web
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff =
+    .title = Klask gant { $engine } pe skrivañ ur chomlecʼh
+about-private-browsing-handoff-no-engine =
+    .title = Klask pe skrivañ ur chomlecʼh
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff-text = Klask gant { $engine } pe skrivañ ur chomlecʼh
+about-private-browsing-handoff-text-no-engine = Klask pe skrivañ ur chomlecʼh
 about-private-browsing-not-private = N'emaoc’h ket e-barzh ur prenestr merdeiñ prevez.
 about-private-browsing-info-description = { -brand-short-name } a skarzh ho roll istor klask ha merdeiñ pa guitait an arload pe pa serrit an holl brenestroù hag ivinelloù merdeiñ prevez. Daoust ma ne lak ket ac’hanoc’h da vezañ dizanv evit al lec’hiennoù pe evit ho pourchaser kenrouedad e vo aesoc’h da zerc’hel prevez ar pezh a rit enlinenn evit an dud all a implij an urzhiataer-mañ.
 about-private-browsing-need-more-privacy = Ezhomm ho peus muioc’h a brevezded?

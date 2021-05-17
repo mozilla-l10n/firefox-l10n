@@ -5,8 +5,6 @@
 
 ## App Menu
 
-appmenuitem-update-banner =
-    .label-update-downloading = O pellgargañ hizivadenn { -brand-shorter-name }
 appmenuitem-protection-dashboard-title = Taolenn-stur ar gwarezioù
 appmenuitem-customize-mode =
     .label = Personelaat…
@@ -17,6 +15,38 @@ appmenuitem-new-window =
     .label = Prenestr nevez
 appmenuitem-new-private-window =
     .label = Prenestr merdeiñ prevez nevez
+appmenuitem-passwords =
+    .label = Gerioù-tremen
+appmenuitem-addons-and-themes =
+    .label = Enlugelladoù ha temoù
+appmenuitem-find-in-page =
+    .label = Klask er bajenn…
+appmenuitem-more-tools =
+    .label = Ostilhoù ouzhpenn
+appmenuitem-exit =
+    .label = Kuitaat
+appmenu-menu-button-closed =
+    .tooltiptext = Digeriñ lañser an arloadoù
+    .label = { -brand-shorter-name }
+appmenu-menu-button-opened =
+    .tooltiptext = Serriñ lañser an arloadoù
+    .label = { -brand-shorter-name }
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Kuitaat
+           *[other] Kuitaat
+        }
+appmenu-menu-button-closed2 =
+    .tooltiptext = Digeriñ lañser an arloadoù
+    .label = { -brand-short-name }
+appmenu-menu-button-opened2 =
+    .tooltiptext = Serriñ lañser an arloadoù
+    .label = { -brand-short-name }
+# Settings is now used to access the browser settings across all platforms,
+# instead of Options or Preferences.
+appmenuitem-settings =
+    .label = Arventennoù
 
 ## Zoom and Fullscreen Controls
 
@@ -82,26 +112,11 @@ profiler-popup-capture-shortcut =
 appmenu-about =
     .label = A-zivout { -brand-shorter-name }
     .accesskey = A
-appmenu-help-troubleshooting-info =
-    .label = Titouroù disac'hañ
-    .accesskey = T
-appmenu-help-taskmanager =
-    .label = Ardoer trevelloù
 appmenu-help-report-site-issue =
     .label = Danevell kudennoù al lec'hienn…
 appmenu-help-feedback-page =
     .label = Reiñ ho meno…
     .accesskey = m
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Adloc'hañ gant an askouezhioù diweredekaet…
-    .accesskey = r
-appmenu-help-safe-mode-with-addons =
-    .label = Adloc'hañ gant an askouezhioù diweredekaet
-    .accesskey = r
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
