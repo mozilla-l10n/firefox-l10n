@@ -48,6 +48,7 @@ auth-how = Como você quer verificar a identidade do seu contato?
 auth-qaInstruction = Pense numa pergunta cuja resposta seja conhecida apenas por você e seu contato. Digite a pergunta e a resposta e aguarde o contato digitar a mesma resposta. Se as respostas não combinarem, o canal de comunicação que você está usando pode estar sob vigilância.
 auth-secretInstruction = Pense em um segredo conhecido apenas por você e seu contato. Não use a mesma conexão de internet para trocar o segredo. Digite o segredo e aguarde o contato também digitar. Se os segredos não coincidirem, o canal de comunicação que você está usando pode estar sob vigilância.
 auth-qa-instruction = Pense numa pergunta cuja resposta seja conhecida apenas por você e seu contato. Digite a pergunta e a resposta e aguarde o contato digitar a mesma resposta. Se as respostas não combinarem, o canal de comunicação que você está usando pode estar sob vigilância.
+auth-secret-instruction = Pense em um segredo conhecido apenas por você e seu contato. Não use a mesma conexão de internet para trocar o segredo. Digite o segredo e aguarde o contato também digitar. Se os segredos não coincidirem, o canal de comunicação que você está usando pode estar sob vigilância.
 auth-question = Digite uma pergunta:
 auth-answer = Digite a resposta (diferencia maiúsculas de minúsculas):
 auth-secret = Digite o segredo:
