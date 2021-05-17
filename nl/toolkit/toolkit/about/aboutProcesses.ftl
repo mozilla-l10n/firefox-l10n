@@ -60,6 +60,7 @@ about-processes-browser-process = { -brand-short-name } ({ $pid })
 about-processes-web-process = Gedeeld webproces ({ $pid })
 about-processes-file-process = Bestanden ({ $pid })
 about-processes-extension-process = Extensies ({ $pid })
+about-processes-privilegedabout-process = ‘About:’-pagina’s ({ $pid })
 about-processes-plugin-process = Plug-ins ({ $pid })
 about-processes-privilegedmozilla-process = { -vendor-short-name }-websites ({ $pid })
 about-processes-gmp-plugin-process = Gecko Media-plug-ins ({ $pid })
@@ -166,6 +167,9 @@ about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "pe
 about-processes-cpu-user-and-kernel-not-ready = (wordt gemeten)
 # Special case: process or thread is currently idle.
 about-processes-cpu-user-and-kernel-idle = inactief ({ NUMBER($total, maximumFractionDigits: 2) }{ $unit })
+# Special case: process or thread is currently idle.
+about-processes-cpu-idle = inactief
+    .title = Totale CPU-tijd: { NUMBER($total, maximumFractionDigits: 2) } { $unit }
 
 ## Displaying Memory (total and delta)
 ## Variables:

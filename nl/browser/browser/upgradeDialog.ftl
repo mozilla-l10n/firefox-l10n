@@ -21,6 +21,7 @@ upgrade-dialog-new-primary-primary-button = { -brand-short-name } mijn voorkeurs
     .title = Stelt { -brand-short-name } in als standaardbrowser en maakt het vast aan de taakbalk
 upgrade-dialog-new-primary-default-button = { -brand-short-name } mijn voorkeursbrowser maken
 upgrade-dialog-new-primary-pin-button = { -brand-short-name } aan mijn taakbalk vastmaken
+upgrade-dialog-new-primary-pin-alt-button = Aan taakbalk vastzetten
 upgrade-dialog-new-primary-theme-button = Kies een thema
 upgrade-dialog-new-secondary-button = Niet nu
 # This string is only shown on Windows 7, where we intentionally suppress the
