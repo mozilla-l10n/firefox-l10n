@@ -13,6 +13,11 @@ account-setup-description =
 
 ## Form fields
 
+account-setup-name-label = Uw volledige naam
+    .accesskey = n
+# Note: "John Doe" is a multiple-use name that is used when the true name of a person is unknown. We use this fake name as an input placeholder. Translators should update this to reflect the placeholder name of their language/country.
+account-setup-name-input =
+    .placeholder = Jan Jansen
 account-setup-name-info-icon =
     .title = Uw naam, zoals getoond aan anderen
 account-setup-name-warning = Voer uw naam in
@@ -20,6 +25,8 @@ account-setup-name-warning-icon =
     .title = { account-setup-name-warning }
 account-setup-email-label = E-mailadres
     .accesskey = E
+account-setup-email-input =
+    .placeholder = jan.jansen@voorbeeld.com
 account-setup-email-info-icon =
     .title = Uw bestaande e-mailadres
 account-setup-email-warning = Ongeldig e-mailadres
@@ -28,8 +35,14 @@ account-setup-email-warning-icon =
 account-setup-password-label = Wachtwoord
     .accesskey = W
     .title = Optioneel, wordt alleen gebruikt om de gebruikersnaam te valideren
+account-provisioner-button = Een nieuw e-mailadres aanvragen
+    .accesskey = v
 account-setup-password-toggle =
     .title = Wachtwoord tonen/verbergen
+account-setup-remember-password = Wachtwoord onthouden
+    .accesskey = h
+account-setup-exchange-label = Uw aanmelding
+    .accesskey = a
 #   YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows.
 account-setup-exchange-input =
     .placeholder = UWDOMEIN\gebruikersnaam
@@ -79,6 +92,8 @@ account-setup-success-settings-exchange = Configuratie gevonden voor een Microso
 
 ## Illustrations
 
+account-setup-step1-image =
+    .title = Initiële instellingen
 account-setup-step2-image =
     .title = Laden…
 account-setup-step3-image =
@@ -88,14 +103,18 @@ account-setup-step4-image =
 account-setup-privacy-footnote = Uw aanmeldgegevens worden gebruikt in overeenstemming met ons <a data-l10n-name="privacy-policy-link">privacybeleid</a> en worden alleen lokaal op uw computer opgeslagen.
 account-setup-selection-help = Weet u niet wat u moet selecteren?
 account-setup-selection-error = Hulp nodig?
+account-setup-documentation-help = Insteldocumentatie
 account-setup-forum-help = Ondersteuningsforum
 
 ## Results area
 
+account-setup-protocol-title = Selecteer het protocol
 # Note: IMAP is the name of a protocol.
 account-setup-result-imap = IMAP
+account-setup-result-imap-description = Uw mappen en e-mailberichten gesynchroniseerd op uw server bewaren
 # Note: POP3 is the name of a protocol.
 account-setup-result-pop = POP3
+account-setup-result-pop-description = Uw mappen en e-mailberichten op uw computer bewaren
 # Note: Exchange is the name of a product.
 account-setup-result-exchange = Exchange
 account-setup-result-exchange-description = Microsoft Exchange-server
@@ -106,21 +125,34 @@ account-setup-exchange-title = Server
 
 ## Error messages
 
+# Note: The reference to "janedoe" (Jane Doe) is the name of an example person. You will want to translate it to whatever example persons would be named in your language. In the example, AD is the name of the Windows domain, and this should usually not be translated.
+account-setup-credentials-incomplete = Authenticatie mislukt. De ingevoerde gegevens zijn onjuist of er is een aparte gebruikersnaam vereist om aan te melden. Deze gebruikersnaam is meestal uw Windows-domeinaanmelding met of zonder het domein (bijvoorbeeld janedoe of AD\\janedoe)
 account-setup-credentials-wrong = Authenticatie mislukt. Controleer de gebruikersnaam en het wachtwoord
+account-setup-find-settings-failed = { -brand-short-name } kan de instellingen voor uw e-mailaccount niet vinden
+account-setup-exchange-config-unverifiable = Configuratie kan niet worden geverifieerd. Als uw gebruikersnaam en wachtwoord juist zijn, heeft de serverbeheerder waarschijnlijk de geselecteerde configuratie voor uw account uitgeschakeld. Probeer een ander protocol te selecteren.
 
 ## Manual config area
 
 account-setup-manual-config-title = Serverinstellingen
+account-setup-incoming-protocol-label = Inkomend protocol
 protocol-imap-option = { account-setup-result-imap }
 protocol-pop-option = { account-setup-result-pop }
 account-setup-outgoing-protocol-label = Uitgaand protocol
 outgoing-protocol = SMTP
 account-setup-incoming-server-label = Inkomende server
 account-setup-outgoing-server-label = Uitgaande server
+account-setup-incoming-port-label = Inkomende poort
+account-setup-outoing-port-label = Uitgaande poort
+account-setup-incoming-ssl-label = Inkomende SSL
+account-setup-outgoing-ssl-label = Uitgaande SSL
 ssl-autodetect-option = Autodetectie
 ssl-noencryption-option = Geen
 ssl-starttls-option = STARTTLS
 ssl-tls-option = SSL/TLS
+account-setup-incoming-auth-label = Inkomende authenticatie
+account-setup-outgoing-auth-label = Uitgaande authenticatie
+account-setup-incoming-username-label = Inkomende gebruikersnaam
+account-setup-outgoing-username-label = Uitgaande gebruikersnaam
 account-setup-advanced-setup-button = Uitgebreide configuratie
     .accesskey = U
 
