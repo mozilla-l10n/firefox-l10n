@@ -133,6 +133,30 @@ account-setup-exchange-config-unverifiable = Non se puido verificar a configurac
 
 ## Manual config area
 
+account-setup-manual-config-title = Configuración do servidor
+account-setup-incoming-protocol-label = Protocolo entrante
+protocol-imap-option = { account-setup-result-imap }
+protocol-pop-option = { account-setup-result-pop }
+account-setup-outgoing-protocol-label = Protocolo saínte
+outgoing-protocol = SMTP
+account-setup-incoming-server-label = Servidor entrante
+account-setup-outgoing-server-label = Servidor saínte
+account-setup-incoming-port-label = Porto entrante
+account-setup-outoing-port-label = Porto saínte
+account-setup-incoming-ssl-label = SSL entrante
+account-setup-outgoing-ssl-label = SSL saínte
+ssl-autodetect-option = Detectar automaticamente
+ssl-noencryption-option = Ningún
+ssl-starttls-option = STARTTLS
+ssl-tls-option = SSL/TLS
+account-setup-incoming-auth-label = Autenticación entrante
+account-setup-outgoing-auth-label = Autenticación saínte
+account-setup-incoming-username-label = Nome de usuario entrante
+account-setup-outgoing-username-label = Nome de usuario saínte
+account-setup-advanced-setup-button = Configuración avanzada
+    .accesskey = a
 
 ## Warning insecure server
 
+account-setup-insecure-server-checkbox = Eu comprendo os riscos
+    .accesskey = u
