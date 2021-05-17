@@ -41,5 +41,8 @@ import-paragraph = O { -brand-short-name } permítelle importar mensaxes de corr
 import-label = Importar
     .aria-label = Importar datos de outros programas
 about-paragraph = O Thunderbird é o principal cliente de correo electrónico e calendario multiplataforma de código aberto, libre para uso persoal e empresarial. Queremos manter a súa seguranza e facelo aínda mellor. Unha doazón permitiranos contratar desenvolvedores, pagar infraestruturas e seguir mellorando.
-about-paragraph-2 = <b>O Thunderbird está financiado por usuarios coma vostede! Se lle gusta o Thunderbird, considere facer unha doazón.</b> O mellor xeito de asegurarse de que o Thunderbird permanece dispoñible é
-about-donation = faga unha doazón
+about-paragraph-2 = <b>O Thunderbird está financiado por usuarios coma vostede! Se lle gusta o Thunderbird, considere facer unha doazón.</b> O mellor xeito de asegurarse de que o Thunderbird permanece dispoñíbel é
+about-donation = facer unha doazón
+about-paragraph-consider-donation = <b>O Thunderbird está financiado por usuarios coma vostede! Se lle gusta o Thunderbird, considere facer unha doazón.</b> O mellor xeito de asegurarse de que o Thunderbird permanece dispoñíbel é <a data-l10n-name="donation-link"> facer unha doazón</a>.
+explore-link = Explorar funcionalidades
+support-link = Asistencia
