@@ -21,6 +21,7 @@ upgrade-dialog-new-primary-primary-button = { -brand-short-name } als Hauptbrows
     .title = Setzt { -brand-short-name } als Standardbrowser heftet ihn an die Taskleiste
 upgrade-dialog-new-primary-default-button = { -brand-short-name } als Standardbrowser festlegen
 upgrade-dialog-new-primary-pin-button = { -brand-short-name } an die Taskleiste anheften
+upgrade-dialog-new-primary-pin-alt-button = An die Taskleiste anheften
 upgrade-dialog-new-primary-theme-button = Ein Theme auswählen
 upgrade-dialog-new-secondary-button = Nicht jetzt
 
