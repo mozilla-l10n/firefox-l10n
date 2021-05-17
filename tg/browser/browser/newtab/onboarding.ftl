@@ -97,6 +97,11 @@ onboarding-personal-data-promise-button = Ваъдаи моро хонед
 ## Message strings belonging to the Return to AMO flow
 
 return-to-amo-sub-header = Аҷоиб, шумо { -brand-short-name } доред
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = Акнун биёед <icon></icon><b>{ $addon-name }</b>-ро насб намоед.
 return-to-amo-extension-button = Илова кардани васеъшавӣ
 return-to-amo-get-started-button = Оғози кор бо { -brand-short-name }
 onboarding-not-now-button-label = Ҳоло не
@@ -104,6 +109,11 @@ onboarding-not-now-button-label = Ҳоло не
 ## Custom Return To AMO onboarding strings
 
 return-to-amo-subtitle = Аҷоиб, шумо { -brand-short-name } доред
+# <img data-l10n-name="icon"/> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-title = Акнун биёед <img data-l10n-name="icon"/> <b>{ $addon-name }</b>-ро насб намоед.
 return-to-amo-add-extension-label = Илова кардани васеъшавӣ
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
