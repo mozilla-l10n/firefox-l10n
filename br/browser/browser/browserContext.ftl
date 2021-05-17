@@ -216,8 +216,18 @@ main-context-menu-media-play-speed-fastest =
     .label = Tizh divuzul (2×)
     .accesskey = d
 main-context-menu-media-play-speed-2 =
-    .label = Tizh
+    .label = Tizhder
     .accesskey = T
+main-context-menu-media-play-speed-slow-2 =
+    .label = 0.5×
+main-context-menu-media-play-speed-normal-2 =
+    .label = 1.0×
+main-context-menu-media-play-speed-fast-2 =
+    .label = 1.25×
+main-context-menu-media-play-speed-faster-2 =
+    .label = 1.5×
+main-context-menu-media-play-speed-fastest-2 =
+    .label = 2×
 main-context-menu-media-loop =
     .label = Dol
     .accesskey = D
@@ -254,6 +264,12 @@ main-context-menu-image-view =
 main-context-menu-video-view =
     .label = Gwelout ar video
     .accesskey = i
+main-context-menu-image-view-new-tab =
+    .label = Digeriñ ar skeudenn en un ivinell nevez
+    .accesskey = s
+main-context-menu-video-view-new-tab =
+    .label = Digeriñ ar video en un ivinell nevez
+    .accesskey = v
 main-context-menu-image-copy =
     .label = Eilañ ar skeudenn
     .accesskey = r
@@ -284,6 +300,9 @@ main-context-menu-image-email =
 main-context-menu-image-set-as-background =
     .label = Arventennañ evel Drekleur ar burev…
     .accesskey = l
+main-context-menu-image-set-image-as-background =
+    .label = Lakaat ar skeudenn da zrekleur ar vurev…
+    .accesskey = z
 main-context-menu-image-info =
     .label = Gwelout stlennoù ar skeudenn
     .accesskey = w
@@ -328,9 +347,21 @@ main-context-menu-generate-new-password =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-use-saved-password =
+    .label = Implijout ar ger-tremen enrollet
+    .accesskey = g
 
 ##
 
+main-context-menu-suggest-strong-password =
+    .label = Kinnig ur ger-tremen kreñv…
+    .accesskey = k
+main-context-menu-manage-logins =
+    .label = Merañ an titouroù kennaskañ…
+    .accesskey = M
+main-context-menu-manage-logins2 =
+    .label = Merañ an titouroù kennaskañ
+    .accesskey = M
 main-context-menu-keyword =
     .label = Ouzhpennañ ur ger-alc'hwez evit ar c'hlask-mañ …
     .accesskey = k
