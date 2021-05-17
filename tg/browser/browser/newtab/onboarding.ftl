@@ -196,6 +196,8 @@ onboarding-multistage-theme-description-alpenglow =
 mr1-welcome-screen-hero-text =
     Оташ аз ин ҷо
     оғоз меёбад
+# This button will open system settings to turn on prefers-reduced-motion
+mr1-onboarding-reduce-motion-button-label = Хомӯш кардани аниматсияҳо
 mr1-onboarding-welcome-header = Хуш омадед ба { -brand-short-name }
 mr1-onboarding-set-default-secondary-button-label = Ҳоло не
 mr1-onboarding-sign-in-button-label = Ворид шудан

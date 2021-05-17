@@ -153,8 +153,17 @@ newtab-menu-open-file = Кушодани файл
 newtab-label-visited = Дидашуда
 newtab-label-bookmarked = Дар хатбаракҳо
 newtab-label-removed-bookmark = Хатбарак тоза карда шуд
+newtab-label-recommended = Маъмул
 newtab-label-saved = Ба { -pocket-brand-name } нигоҳ дошта шуд
 newtab-label-download = Боргиришуда
+# This string is used in the story cards to indicate sponsored content
+# Variables:
+#  $sponsorOrSource (String): This is the name of a company or their domain
+newtab-label-sponsored = { $sponsorOrSource } · дорои реклама мебошад
+# This string is used at the bottom of story cards to indicate sponsored content
+# Variables:
+#  $sponsor (String): This is the name of a sponsor
+newtab-label-sponsored-by = Аз тарафи сарпарасти { $sponsor }
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
