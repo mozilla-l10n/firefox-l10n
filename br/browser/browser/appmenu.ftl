@@ -72,6 +72,7 @@ appmenu-fxa-sync-and-save-data =
     .value = Goubredañ hag enrollañ ar roadennoù
 appmenu-fxa-sync-and-save-data2 = Goubredañ hag enrollañ ar roadennoù
 appmenu-fxa-signed-in-label = Kennaskañ
+appmenu-fxa-show-more-tabs = Diskouez muioc'h a ivinelloù
 appmenuitem-save-page =
     .label = Enrollañ ar bajenn evel…
 
@@ -92,9 +93,13 @@ profiler-popup-title =
     .value = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
     .aria-label = Diskouez muioc'h a ditouroù
+profiler-popup-description-title =
+    .value = Enrollañ, dielfennañ, rannañ
 profiler-popup-learn-more = Gouzout hiroc’h
 profiler-popup-settings =
     .value = Arventennoù
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings = Kemmañ an arventennoù…
 profiler-popup-recording-screen = Oc’h enrollañ…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
@@ -117,12 +122,21 @@ profiler-popup-capture-shortcut =
 
 ## History panel
 
+appmenu-manage-history =
+    .label = Merañ ar roll istor
+appmenu-reopen-all-tabs = Digeriñ en-dro an holl ivinelloù
+appmenu-reopen-all-windows = Digeriñ en-dro an holl prenestroù
 
 ## Help panel
 
+appmenu-help-header =
+    .title = Skoazell { -brand-shorter-name }
 appmenu-about =
     .label = A-zivout { -brand-shorter-name }
     .accesskey = A
+appmenu-get-help =
+    .label = Kaout skoazell
+    .accesskey = s
 appmenu-help-report-site-issue =
     .label = Danevell kudennoù al lec'hienn…
 appmenu-help-feedback-page =
@@ -145,5 +159,8 @@ appmenu-help-not-deceptive =
 
 ## More Tools
 
+appmenu-customizetoolbar =
+    .label = Personelaat ar varrenn ostilhoù…
 appmenu-taskmanager =
     .label = Ardoer trevelloù
+appmenu-developer-tools-subheader = Ostilhoù ar merdeer
