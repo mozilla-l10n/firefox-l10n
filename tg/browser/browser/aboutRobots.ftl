@@ -18,6 +18,8 @@ error-short-desc-text = Мо ба шумо бо сулҳ ва некӣ омад�
 error-long-desc1 = Робот ба одам зарар расонида наметавонад ё аз беамалии худ роҳ дода наметавонад, ки ба одам зарар расонида шавад.
 # Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..."
 error-long-desc2 = Роботҳо он чизҳоеро диданд, ки одам ҳеҷ вақт бовар намекунад.
+# Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots.
+error-long-desc3 = Роботҳо — дӯстони пластикии шумо буда, дар ҳамроҳӣ бо онҳо хушҳол мешавед.
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = Ва онҳо нақша доранд.
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
