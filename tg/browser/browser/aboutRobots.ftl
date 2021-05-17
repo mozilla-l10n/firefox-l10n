@@ -12,6 +12,8 @@
 page-title = Горт! Клаату барада никто!
 # Movie: Logan's Run... Box (cyborg): "Welcome Humans! I am ready for you."
 error-title-text = Хуш омадед ба одамон!
+# Movie: The Day The Earth Stood Still. Spoken by Klaatu.
+error-short-desc-text = Мо ба шумо бо сулҳ ва некӣ омадем!
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = Ва онҳо нақша доранд.
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.

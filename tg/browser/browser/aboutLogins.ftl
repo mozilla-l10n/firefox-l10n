@@ -305,7 +305,9 @@ about-logins-import-dialog-error-title = Хатои воридот
 about-logins-import-dialog-error-conflicting-values-title = Якчанд қимати ихтилофнок барои як воридшавӣ
 about-logins-import-dialog-error-conflicting-values-description = Барои мисол: якчанд номи корбар, ниҳонвожа, нишонии URL ва ғайра барои як воридшавӣ.
 about-logins-import-dialog-error-file-format-title = Формати файл мушкилӣ дорад
+about-logins-import-dialog-error-file-format-description = Унвонҳои сутунҳо нодуруст мебошанд ё вуҷуд надоранд. Мутмаин шавед, ки файл барои номи корбар, ниҳонвожа ва нишонии URL сутунҳоро дар бар мегирад.
 about-logins-import-dialog-error-file-permission-title = Файл хонда нашуд
+about-logins-import-dialog-error-file-permission-description = { -brand-short-name } барои хондани ин файл иҷозат надорад. Кӯшиш кунед, ки иҷозатҳои файлро иваз намоед.
 about-logins-import-dialog-error-unable-to-read-title = Файл таҷзия карда намешавад
 about-logins-import-dialog-error-unable-to-read-description = Мутмаин шавед, ки шумо файли CSV ё TSV-ро интихоб кардед.
 about-logins-import-dialog-error-no-logins-imported = Ягон воридшавӣ ворид карда нашудааст
@@ -319,6 +321,7 @@ about-logins-import-report-description = Воридшавиҳо ва ниҳон�
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = Сатри { $number }
+about-logins-import-report-row-description-no-change = Такрор: Мувофиқати дақиқ барои воридшавии мавҷудбуда
 about-logins-import-report-row-description-modified = Воридшавии мавҷудбуда навсозӣ карда шуд
 about-logins-import-report-row-description-added = Воридшавии нав илова шуд
 about-logins-import-report-row-description-error = Хато: Як майдон намерасад
