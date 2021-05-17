@@ -49,4 +49,4 @@ bookmark-overlay-keyword-2 =
     .value = Nøkkelord
     .accesskey = N
 bookmark-overlay-tags-caption-label = Bruk etikettar for å organisere og søkje etter bokmerke frå adresselinja
-bookmark-overlay-keyword-caption-label = Bruk nøkkelord for å opne bokmerke direkte frå adresselinja
+bookmark-overlay-keyword-caption-label-2 = Bruk eitt enkelt nøkkelord for å opne bokmerke direkte frå adresselinja
