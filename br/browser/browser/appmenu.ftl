@@ -61,6 +61,17 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Goubredañ bremañ
+appmenu-remote-tabs-turn-on-sync =
+    .label = Gweredekaat ar c’houbredañ…
+appmenuitem-fxa-toolbar-sync-now2 = Goubredañ bremañ
+appmenuitem-fxa-manage-account = Merañ ar gont
+appmenu-fxa-header =
+    .title = { -fxaccount-brand-name }
+appmenu-fxa-header2 = { -fxaccount-brand-name }
+appmenu-fxa-sync-and-save-data =
+    .value = Goubredañ hag enrollañ ar roadennoù
+appmenu-fxa-sync-and-save-data2 = Goubredañ hag enrollañ ar roadennoù
+appmenu-fxa-signed-in-label = Kennaskañ
 appmenuitem-save-page =
     .label = Enrollañ ar bajenn evel…
 
