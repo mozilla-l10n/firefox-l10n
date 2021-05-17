@@ -83,4 +83,6 @@ sec-error-js-add-mod-failure = Модул илова карда намешава
 sec-error-js-del-mod-failure = Модул нест карда намешавад
 sec-error-crl-already-exists = CRL аллакай вуҷуд дорад.
 sec-error-not-initialized = NSS оғоз нашудааст.
+sec-error-bad-http-response = Сервер посухи HTTP-и нодурустро баргардонид
+sec-error-bad-ldap-response = Сервер посухи LDAP-и нодурустро баргардонид
 sec-error-expired-password = Муҳлати ниҳонвожа ба анҷом расид.
