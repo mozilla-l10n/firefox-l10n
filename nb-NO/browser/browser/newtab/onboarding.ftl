@@ -269,6 +269,9 @@ onboarding-multistage-theme-description-alpenglow =
 # An alternative title for localization is: "It starts here".
 # This text can be formatted to span multiple lines as needed.
 mr1-welcome-screen-hero-text = Det begynner her
+# Caption for background image in about:welcome. "Soraya Osorio" is the name
+# of the person and shouldn't be translated.
+mr1-onboarding-welcome-image-caption = Soraya Osorio — Møbeldesigner, Firefox-fan
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Slå av animasjoner
 mr1-onboarding-welcome-header = Velkommen til { -brand-short-name }
@@ -287,6 +290,7 @@ mr1-onboarding-import-primary-button-label-attribution = Importer fra { $previou
 mr1-onboarding-import-primary-button-label-no-attribution = Importer fra forrige nettleser
 mr1-onboarding-import-secondary-button-label = Ikke nå
 mr1-onboarding-theme-header = Gjør den til din egen
+mr1-onboarding-theme-subtitle = Tilpass { -brand-short-name } med et tema.
 mr1-onboarding-theme-primary-button-label = Lagre tema
 mr1-onboarding-theme-secondary-button-label = Ikke nå
 # System theme uses operating system color settings
@@ -301,6 +305,16 @@ mr1-onboarding-theme-label-alpenglow = Alpenglow
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of system theme
+mr1-onboarding-theme-tooltip-system =
+    .title =
+        Følg operativsystemets tema
+        for knapper, menyer og vinduer.
+# Input description for system theme
+mr1-onboarding-theme-description-system =
+    .aria-description =
+        Følg operativsystemets tema
+        for knapper, menyer og vinduer.
 # Tooltip displayed on hover of light theme
 mr1-onboarding-theme-tooltip-light =
     .title =
