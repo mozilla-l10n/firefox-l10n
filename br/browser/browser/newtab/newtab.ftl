@@ -241,6 +241,16 @@ newtab-custom-row-selector =
        *[other] { $num } renk
     }
 newtab-custom-sponsored-sites = Berradurioù paeroniet
+newtab-custom-pocket-title = Erbedet gant { -pocket-brand-name }
+newtab-custom-pocket-subtitle = Danvezioù dibar dibabet gant { -pocket-brand-name }, ezel familh { -brand-product-name }
 newtab-custom-pocket-sponsored = Istorioù paeroniet
 newtab-custom-recent-title = Oberiantiz nevesañ
+newtab-custom-recent-subtitle = Un dibab lec'hiennoù ha danvezioù nevez
 newtab-custom-close-button = Serriñ
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+newtab-custom-snippets-title = Notennigoù
+newtab-custom-snippets-subtitle = Tunioù ha nevezinti gant { -vendor-short-name } ha { -brand-product-name }
+newtab-custom-settings = Merañ muioc'h a arventennoù
