@@ -29,6 +29,8 @@ account-setup-email-warning-icon =
     .title = { account-setup-email-warning }
 account-setup-password-toggle =
     .title = Monstrar/celar le contrasigno
+account-setup-remember-password = Rememorar le contrasigno
+    .accesskey = m
 account-setup-exchange-label = Tu credentiales
     .accesskey = c
 #   YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows.
@@ -53,13 +55,31 @@ account-setup-button-done = Facite
 
 ## Notifications
 
+account-setup-looking-up-settings = Recerca configuration…
+account-setup-checking-password = Verifica de contrasigno…
+account-setup-installing-addon = Discargamento e installation del additivo…
+account-setup-success-guess-offline = Tu es foras de linea. Nos ha divinate alcun parametros ma tu debe inserer le parametros correcte.
 account-setup-success-password = Contrasigno OK
 
 ## Illustrations
 
+account-setup-step2-image =
+    .title = Cargante…
+account-setup-selection-error = Require tu adjuta?
 
 ## Results area
 
+# Note: IMAP is the name of a protocol.
+account-setup-result-imap = IMAP
+# Note: POP3 is the name of a protocol.
+account-setup-result-pop = POP3
+# Note: Exchange is the name of a product.
+account-setup-result-exchange = Excambiar
+account-setup-result-exchange-description = Microsoft Exchange Server
+account-setup-incoming-title = Entrante
+account-setup-outgoing-title = Exiente
+account-setup-username-title = Nomine de usator
+account-setup-exchange-title = Servitor
 
 ## Error messages
 
@@ -68,6 +88,11 @@ account-setup-success-password = Contrasigno OK
 
 account-setup-manual-config-title = Parametros de servitor
 protocol-imap-option = { account-setup-result-imap }
+outgoing-protocol = SMTP
+ssl-autodetect-option = Deteger automaticamente
+ssl-noencryption-option = Nulle
+ssl-starttls-option = STARTTLS
+ssl-tls-option = SSL/TLS
 
 ## Warning insecure server
 

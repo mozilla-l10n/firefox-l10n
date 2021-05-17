@@ -115,6 +115,15 @@ move-attachment-last-panel-button =
 button-return-receipt =
     .label = Quitantia
     .tooltiptext = Requirer un quitantia de retorno pro iste message
+
+# Addressing Area
+
+to-compose-address-row-label =
+    .value = A
+cc-compose-address-row-label =
+    .value = CC
+bcc-compose-address-row-label =
+    .value = Ccn
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 consider-bcc-notification = Le { $count } destinatarios in A e Cc pote vider lor relative adresses. Tu pote impedir le divulgation del adresses del destinatarios per Ccn.
 many-public-recipients-bcc =
