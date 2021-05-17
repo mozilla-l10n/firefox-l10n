@@ -115,7 +115,7 @@ extension-controlled-privacy-containers = Васеъшавии <img data-l10n-na
 extension-controlled-websites-content-blocking-all-trackers = Васеъшавии <img data-l10n-name="icon"/> { $name } ин танзимотро идора мекунад.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
-extension-controlled-proxy-config = An extension, <img data-l10n-name="icon"/> { $name }, is controlling how { -brand-short-name } connects to the internet.
+extension-controlled-proxy-config = Васеъшавии <img data-l10n-name="icon"/> { $name } идора мекунад, ки чӣ тавр { -brand-short-name } ба интернет пайваст мешавад.
 
 ## Preferences UI Search Results
 
