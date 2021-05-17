@@ -4,7 +4,7 @@
 
 customize-mode-restore-defaults =
     .label = Restaurar padrão
-customize-mode-menu-and-toolbars-header = Arraste seus itens preferidos para a barra de ferramentas ou para o menu expandido.
+customize-mode-menu-and-toolbars-header = Arraste os itens que você mais usa para a barra de ferramentas ou para o menu expandido. Arraste para cá os que você não usa tanto.
 customize-mode-overflow-list-title = Menu expandido
 customize-mode-uidensity =
     .label = Densidade
