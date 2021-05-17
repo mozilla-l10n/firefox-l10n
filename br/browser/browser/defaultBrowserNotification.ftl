@@ -7,3 +7,10 @@ default-browser-notification-message = <strong>Lakaat { -brand-short-name } da v
 default-browser-notification-button =
     .label = Lakaat dre ziouer
     .accesskey = L
+
+## These strings are used for the default browser prompt. There are 2 variations
+## depending on the operating system (Windows vs other). The checkbox label and
+## secondary button are shared between the variants.
+
+default-browser-prompt-title-pin = Dibab { -brand-short-name } evel merdeer pennañ?
+default-browser-prompt-button-secondary = Diwezhatoc'h
