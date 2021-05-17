@@ -46,3 +46,12 @@ about-donation = facer unha doazón
 about-paragraph-consider-donation = <b>O Thunderbird está financiado por usuarios coma vostede! Se lle gusta o Thunderbird, considere facer unha doazón.</b> O mellor xeito de asegurarse de que o Thunderbird permanece dispoñíbel é <a data-l10n-name="donation-link"> facer unha doazón</a>.
 explore-link = Explorar funcionalidades
 support-link = Asistencia
+involved-link = Participe
+developer-link = Documentación de desenvolvemento
+read = Ler as mensaxes
+compose = Escribir unha nova mensaxe
+search = Buscar nas mensaxes
+filter = Xestionar os filtros das mensaxes
+nntp-subscription = Xestionar as subscricións de grupos de noticias
+rss-subscription = Xestionar as subscricións de fontes de noticias
+e2e = Cifraxe de extremo a extremo
