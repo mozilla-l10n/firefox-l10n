@@ -125,6 +125,8 @@ account-setup-exchange-title = Serveur
 
 ## Error messages
 
+# Note: The reference to "janedoe" (Jane Doe) is the name of an example person. You will want to translate it to whatever example persons would be named in your language. In the example, AD is the name of the Windows domain, and this should usually not be translated.
+account-setup-credentials-incomplete = Échec de l’authentification. Soit les identifiants saisis sont incorrects, soit un nom d’utilisateur séparé est nécessaire pour se connecter. Ce nom d’utilisateur est généralement votre identifiant de domaine Windows, avec ou sans le domaine (par exemple, jeannedupont ou AD\\jeannedupont)
 account-setup-credentials-wrong = Échec de l’authentification. Veuillez vérifier le nom d’utilisateur et le mot de passe
 account-setup-find-settings-failed = { -brand-short-name } n’a pas trouvé les paramètres de votre compte de messagerie
 account-setup-exchange-config-unverifiable = La configuration n’a pas pu être vérifiée. Si votre nom d’utilisateur et votre mot de passe sont corrects, il est probable que l’administrateur du serveur a désactivé la configuration sélectionnée pour votre compte. Essayez de sélectionner un autre protocole.
