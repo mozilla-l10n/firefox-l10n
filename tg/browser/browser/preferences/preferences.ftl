@@ -92,6 +92,30 @@ restart-later = Баъдтар аз нав оғоз карда шавад
 ## Variables:
 ##   $name (String): name of the extension
 
+# This string is shown to notify the user that their home page
+# is being controlled by an extension.
+extension-controlled-homepage-override = Васеъшавии <img data-l10n-name="icon"/> { $name } саҳифаи асосии шуморо идора мекунад.
+# This string is shown to notify the user that their new tab page
+# is being controlled by an extension.
+extension-controlled-new-tab-url = Васеъшавии <img data-l10n-name="icon"/> { $name } саҳифаи варақаи нави шуморо идора мекунад.
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlled-password-saving = Васеъшавии <img data-l10n-name="icon"/> { $name } ин танзимотро идора мекунад.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlled-web-notifications = Васеъшавии <img data-l10n-name="icon"/> { $name } ин танзимотро идора мекунад.
+# This string is shown to notify the user that the default search engine
+# is being controlled by an extension.
+extension-controlled-default-search = Васеъшавии <img data-l10n-name="icon"/> { $name } низоми ҷустуҷӯии шуморо ба сурати пешфарз танзим кард.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlled-privacy-containers = Васеъшавии <img data-l10n-name="icon"/> { $name } барои оғози кор «Варақаҳои дарбаргиранда»-ро талаб мекунад.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlled-websites-content-blocking-all-trackers = Васеъшавии <img data-l10n-name="icon"/> { $name } ин танзимотро идора мекунад.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlled-proxy-config = An extension, <img data-l10n-name="icon"/> { $name }, is controlling how { -brand-short-name } connects to the internet.
 
 ## Preferences UI Search Results
 
