@@ -73,6 +73,7 @@ account-setup-step2-image =
 account-setup-step4-image =
     .title = Error de connexion
 account-setup-selection-error = Require tu adjuta?
+account-setup-forum-help = Foro de supporto
 
 ## Results area
 
