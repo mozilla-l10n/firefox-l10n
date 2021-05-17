@@ -76,6 +76,19 @@ account-setup-looking-up-isp = Procurando a configuración: provedor de correo e
 account-setup-looking-up-db = Procurando a configuración: base de datos de provedores de internet de Mozilla…
 account-setup-looking-up-mx = Procurando a configuración: dominio de correo entrante…
 account-setup-looking-up-exchange = Procurando a configuración: servidor Exchange…
+account-setup-checking-password = Verificando o contrasinal…
+account-setup-installing-addon = Descargando e instalando o complemento…
+account-setup-success-half-manual = Atopáronse as seguintes configuracións probando o servidor indicado:
+account-setup-success-guess = Configuración atopada probando nomes de servidor comúns.
+account-setup-success-guess-offline = Está desconectado. Suxeríronse algúns valores, máis terá que introducir os valores correctos.
+account-setup-success-password = O contrasinal é correcto
+account-setup-success-addon = O complemento instalouse correctamente
+# Note: Do not translate or replace Mozilla. It stands for the public project mozilla.org, not Mozilla Corporation. The database is a generic, public domain facility usable by any client.
+account-setup-success-settings-db = Configuración atopada na base de datos de provedores de internet de Mozilla.
+account-setup-success-settings-disk = Configuración atopada na instalación de { -brand-short-name }.
+account-setup-success-settings-isp = Configuración atopada no provedor de correo electrónico.
+# Note: Microsoft Exchange is a product name.
+account-setup-success-settings-exchange = Atopouse a configuración para un servidor de Microsoft Exchange.
 
 ## Illustrations
 
