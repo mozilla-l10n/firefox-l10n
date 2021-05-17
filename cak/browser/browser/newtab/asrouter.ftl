@@ -217,12 +217,10 @@ cfr-doorhanger-milestone-heading =
 #   $date (Datetime) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading2 =
     { $blockedCount ->
-        [one] { -brand-short-name } xq'at pa <b>{ $blockedCount }</b> ojqanel { DATETIME($date, month: "long", year: "numeric") }
-       *[other] { -brand-short-name } xeq'at pa <b>{ $blockedCount }</b> ojqanela' { DATETIME($date, month: "long", year: "numeric") }
+        [one] { -brand-short-name } xuq'ät <b>{ $blockedCount }</b> ojqanel { DATETIME($date, month: "long", year: "numeric") }
+       *[other] { -brand-short-name } xeruq'ät <b>{ $blockedCount }</b> ojqanela' { DATETIME($date, month: "long", year: "numeric") }
     }
 cfr-doorhanger-milestone-ok-button = Titzet Ronojel
-    .accesskey = t
-cfr-doorhanger-milestone-close-button = Titz'apïx
     .accesskey = t
 
 ## What’s New Panel Content for Firefox 76
@@ -248,6 +246,8 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Ruwachib'al Picture-in-picture
 
 ## Protections Dashboard message
 
+cfr-doorhanger-milestone-close-button = Titz'apïx
+    .accesskey = t
 
 ## What’s New Panel Content for Firefox 76
 ## Protections Dashboard message
@@ -266,8 +266,6 @@ cfr-whatsnew-better-pdf-body = Wakami ri aj PDF taq wuj jumul yejaq pa { -brand-
 
 cfr-doorhanger-doh-body = K'o rejqalem ri awichinanem. { -brand-short-name } wakami nrojqaj rub'ey pa jikil rub'eyal ri DNS taq k'utuj, akuchi' k'o chi k'o jun achib'ilan samaj richin yatruchajij toq yatok pa k'amaya'l.
 cfr-doorhanger-doh-header = Kikanoxik jikïl chuqa' man etaman ta rusik'ixik taq DNS
-cfr-doorhanger-doh-primary-button = ÜTZ, Wetaman chik
-    .accesskey = T
 cfr-doorhanger-doh-primary-button-2 = Ütz
     .accesskey = t
 cfr-doorhanger-doh-secondary-button = Tichup
