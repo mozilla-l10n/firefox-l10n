@@ -10,9 +10,11 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-CertificatesDescription = Гувоҳиномаҳоро илова кунед ё гувоҳиномаҳои дарунсохтро истифода баред.
 policy-DisablePrivateBrowsing = Тамошокунии махфиро ғайрифаъол мекунад.
 policy-DNSOverHTTPS = Танзим кардани DNS тавассути HTTPS.
 policy-FirefoxHome = Танзим кардани саҳифаи асосии Firefox.
+policy-HardwareAcceleration = Дар ҳолати «false» суръатафзои сахтафзор хомӯш карда мешавад.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 

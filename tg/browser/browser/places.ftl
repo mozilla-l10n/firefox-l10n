@@ -5,10 +5,10 @@
 places-open =
     .label = Кушодан
     .accesskey = К
-places-open-tab =
+places-open-in-tab =
     .label = Кушодан дар варақаи нав
     .accesskey = К
-places-open-in-tab =
+places-open-tab =
     .label = Кушодан дар варақаи нав
     .accesskey = К
 places-open-all-bookmarks =
@@ -20,7 +20,13 @@ places-open-all-in-tabs =
 places-open-window =
     .label = Кушодан дар равзанаи нав
     .accesskey = К
+places-open-in-window =
+    .label = Кушодан дар равзанаи нав
+    .accesskey = К
 places-open-private-window =
+    .label = Кушодан дар равзанаи махфии нав
+    .accesskey = К
+places-open-in-private-window =
     .label = Кушодан дар равзанаи махфии нав
     .accesskey = К
 places-new-bookmark =
@@ -35,12 +41,6 @@ places-new-folder =
 places-new-separator =
     .label = Ҷудосози нав
     .accesskey = Ҷ
-places-open-in-window =
-    .label = Кушодан дар равзанаи нав
-    .accesskey = К
-places-open-in-private-window =
-    .label = Кушодан дар равзанаи махфии нав
-    .accesskey = К
 places-add-bookmark =
     .label = Илова кардани хатбарак…
     .accesskey = И
@@ -90,6 +90,16 @@ places-edit-bookmark =
     .accesskey = Т
 places-edit-generic =
     .label = Таҳрир кардан…
+    .accesskey = Т
+places-edit-folder =
+    .label = Иваз кардани номи ҷузвдон…
+    .accesskey = И
+places-remove-folder =
+    .label =
+        { $count ->
+            [1] Тоза кардани ҷузвдон
+           *[other] Тоза кардани ҷузвдонҳо
+        }
     .accesskey = Т
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =

@@ -94,3 +94,5 @@ sec-error-bad-http-response = Сервер посухи HTTP-и нодуруст
 sec-error-bad-ldap-response = Сервер посухи LDAP-и нодурустро баргардонид
 sec-error-crl-import-failed = Ҳангоми кӯшиши ворид кардани CRL хато ба миён омад.
 sec-error-expired-password = Муҳлати ниҳонвожа ба анҷом расид.
+sec-error-locked-password = Ниҳонвожа мамнуъ шуд.
+sec-error-unknown-pkcs11-error = Хатои номаълум барои PKCS #11 ба миён омад.
