@@ -35,6 +35,17 @@ account-setup-email-warning-icon =
 account-setup-password-label = Contrasinal
     .accesskey = a
     .title = Opcional, só será usado para validar o nome de usuario
+account-provisioner-button = Obter un novo enderezo de correo electrónico
+    .accesskey = n
+account-setup-password-toggle =
+    .title = Amosar/Agochar o contrasinal
+account-setup-remember-password = Lembrar o contrasinal
+    .accesskey = m
+account-setup-exchange-label = Seus datos de acceso
+    .accesskey = d
+#   YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows.
+account-setup-exchange-input =
+    .placeholder = SEUDOMINIO\seunomedeusuario
 
 ## Action buttons
 
