@@ -26,6 +26,7 @@ type-subframe = Подрамка
 type-tracker = Тракер
 type-addon = Добавка
 type-browser = Четец
+type-worker = Работник
 type-other = Друго
 
 ## Values for the Energy Impact column
@@ -51,6 +52,8 @@ size-GB = { $value } ГБ
 
 close-tab =
     .title = Затваряне на раздела
+show-addon =
+    .title = Покажи управлението на добавки
 # Tooltip when hovering an item of the about:performance table
 # Variables:
 #   $totalDispatches (Number) - how many dispatches occurred for this page since it loaded
