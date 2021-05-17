@@ -271,7 +271,7 @@ onboarding-multistage-theme-description-alpenglow =
 mr1-welcome-screen-hero-text = Započinamy wottud
 # Caption for background image in about:welcome. "Soraya Osorio" is the name
 # of the person and shouldn't be translated.
-mr1-onboarding-welcome-image-caption = Soraya Osorio — Meblowy designer, fan Firefox
+mr1-onboarding-welcome-image-caption = Soraya Osorio — Meblowa designerka, přiwisnica Firefox
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Animacije znjemóžnić
 mr1-onboarding-welcome-header = Witajće k { -brand-short-name }
