@@ -2,17 +2,21 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY markAsReadCmd.label "Přečtené">
+<!ENTITY markAsReadCmd.label     "Přečtené">
 <!ENTITY markAsReadCmd.accesskey "P">
-<!ENTITY markAsReadCmd.key "m">
+<!ENTITY markAsReadCmd.key       "m">
 
-<!ENTITY markFlaggedCmd.label "Praporek">
+<!ENTITY markAsUnreadCmd.label     "Nepřečtené">
+<!ENTITY markAsUnreadCmd.accesskey "n">
+<!ENTITY markAsUnreadCmd.key       "m">
+
+<!ENTITY markFlaggedCmd.label     "Praporek">
 <!ENTITY markFlaggedCmd.accesskey "p">
-<!ENTITY markFlaggedCmd.key "i">
+<!ENTITY markFlaggedCmd.key       "i">
 
-<!ENTITY openMessageWindowCmd.label "Otevřít zprávu">
+<!ENTITY openMessageWindowCmd.label     "Otevřít zprávu">
 <!ENTITY openMessageWindowCmd.accesskey "v">
-<!ENTITY openMessageWindowCmd.key "o">
+<!ENTITY openMessageWindowCmd.key       "o">
 
 <!ENTITY tagCmd0.key "0">
 <!ENTITY tagCmd1.key "1">
