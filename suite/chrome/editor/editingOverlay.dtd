@@ -58,3 +58,5 @@
 <!ENTITY publishToolbarCmd.tooltip "Umístí soubor na vzdálený server">
 <!ENTITY printToolbarCmd.label "Tisknout">
 <!ENTITY printToolbarCmd.tooltip "Vytiskne tuto stránku">
+<!ENTITY formToolbarCmd.label "Formulář">
+<!ENTITY formToolbarCmd.tooltip "Vložte nový formulář nebo upravte vlastnosti vybraného formuláře">
