@@ -56,7 +56,7 @@ policy-DownloadDirectory = Stabilìs e bloche la cartele pai file discjariâts.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Abilite o disabilite il bloc dai contignûts e, in maniere opzionâl, blochilu.
 # “lock” means that the user won’t be able to change this setting
-policy-EncryptedMediaExtensions = Abilite o disabilite lis estensions multimediâls cifradis e, in maniere opzionâl, blochilis.
+policy-EncryptedMediaExtensions = Abilite o disabilite lis estensions multimediâls cifradis (Encrypted Media Extensions) e, in maniere opzionâl, blochilis.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
