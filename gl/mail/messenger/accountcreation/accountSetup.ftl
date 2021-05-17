@@ -118,9 +118,18 @@ account-setup-result-pop-description = Gardar os seus cartafoles e correos elect
 # Note: Exchange is the name of a product.
 account-setup-result-exchange = Exchange
 account-setup-result-exchange-description = Servidor Microsoft Exchange
+account-setup-incoming-title = Entrante
+account-setup-outgoing-title = Saínte
+account-setup-username-title = Nome de usuario
+account-setup-exchange-title = Servidor
 
 ## Error messages
 
+# Note: The reference to "janedoe" (Jane Doe) is the name of an example person. You will want to translate it to whatever example persons would be named in your language. In the example, AD is the name of the Windows domain, and this should usually not be translated.
+account-setup-credentials-incomplete = Fallou a autenticación. Ou as credenciais introducidas son incorrectas ou é necesario un nome de usuario distinto para identificarse. Este nome de usuario adoita ser o usuario do dominio de Windows con ou sen o dominio (por exemplo, rosaliacastro ou AD\\rosaliacastro)
+account-setup-credentials-wrong = Fallou a autenticación. Comprobe o nome de usuario e o contrasinal
+account-setup-find-settings-failed = O { -brand-short-name } non atopou a configuración da súa conta de correo electrónico
+account-setup-exchange-config-unverifiable = Non se puido verificar a configuración. Se o seu nome de usuario e contrasinal son correctos, é probábel que o administrador do servidor desactivase a configuración seleccionada para a súa conta. Probe a seleccionar outro protocolo.
 
 ## Manual config area
 
