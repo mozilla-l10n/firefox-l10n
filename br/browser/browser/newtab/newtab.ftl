@@ -11,6 +11,8 @@ newtab-settings-button =
 newtab-personalize-button-label = Personelaat
     .title = Personelaat un ivinell nevez
     .aria-label = Personelaat un ivinell nevez
+newtab-personalize-dialog-label =
+    .aria-label = Personelaat
 
 ## Search box component.
 
@@ -19,16 +21,36 @@ newtab-search-box-search-button =
     .title = Klask
     .aria-label = Klask
 newtab-search-box-search-the-web-text = Klask er web
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-text = Klask gant { $engine } pe skrivañ ur chomlecʼh
+newtab-search-box-handoff-text-no-engine = Klask pe skrivañ ur chomlecʼh
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-input =
+    .placeholder = Klask gant { $engine } pe skrivañ ur chomlecʼh
+    .title = Klask gant { $engine } pe skrivañ ur chomlecʼh
+    .aria-label = Klask gant { $engine } pe skrivañ ur chomlecʼh
+newtab-search-box-handoff-input-no-engine =
+    .placeholder = Klask pe skrivañ ur chomlecʼh
+    .title = Klask pe skrivañ ur chomlecʼh
+    .aria-label = Klask pe skrivañ ur chomlecʼh
 newtab-search-box-search-the-web-input =
     .placeholder = Klask er web
     .title = Klask er web
+    .aria-label = Klask er web
+newtab-search-box-text = Klask er web
+newtab-search-box-input =
+    .placeholder = Klask er web
     .aria-label = Klask er web
 
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = Ouzhpennañ ul lusker klask
 newtab-topsites-add-topsites-header = Lec'hiennoù gwellañ nevez
-newtab-topsites-edit-topsites-header = Embann al Lec'hiennoù Gwellañ
+newtab-topsites-add-shortcut-header = Berradenn nevez
+newtab-topsites-edit-topsites-header = Kemmañ al lec'hienn wellañ
+newtab-topsites-edit-shortcut-header = Kemmañ ar verradenn
 newtab-topsites-title-label = Titl
 newtab-topsites-title-input =
     .placeholder = Enankañ un titl

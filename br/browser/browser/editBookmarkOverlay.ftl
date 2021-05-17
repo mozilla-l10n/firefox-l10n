@@ -10,6 +10,17 @@ bookmark-overlay-location =
     .accesskey = L
 bookmark-overlay-folder =
     .value = Teuliad:
+bookmark-overlay-name-2 =
+    .value = Anv
+    .accesskey = A
+bookmark-overlay-url =
+    .value = URL
+    .accesskey = U
+# Location refers to the position of the bookmark within the browser's
+# bookmarks, not to its URL or address.
+bookmark-overlay-location-2 =
+    .value = Lec’h
+    .accesskey = L
 bookmark-overlay-choose =
     .label = Dibab…
 bookmark-overlay-folders-expander =
@@ -31,3 +42,6 @@ bookmark-overlay-tags-expander =
 bookmark-overlay-keyword =
     .value = Ger alc'hwez:
     .accesskey = r
+bookmark-overlay-keyword-2 =
+    .value = Ger-alc'hwez
+    .accesskey = G
