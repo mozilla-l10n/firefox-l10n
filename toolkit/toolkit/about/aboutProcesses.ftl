@@ -68,6 +68,8 @@ about-processes-gpu-process = GPU ({ $pid })
 about-processes-vr-process = VR ({ $pid })
 about-processes-rdd-process = Декодер даних ({ $pid })
 about-processes-socket-process = Мережа ({ $pid })
+about-processes-remote-sandbox-broker-process = Віддалений брокер пісочниці ({ $pid })
+about-processes-fork-server-process = Сервер розгалуження ({ $pid })
 about-processes-preallocated-process = Попередньо розподілено ({ $pid })
 # Unknown process names
 # Variables:
@@ -82,8 +84,10 @@ about-processes-unknown-process = Інше: { $type } ({ $pid })
 
 about-processes-web-isolated-process = { $origin } ({ $pid })
 about-processes-web-large-allocation-process = { $origin } ({ $pid }, великий)
+about-processes-with-coop-coep-process = { $origin } ({ $pid }, ізольовано від сторонніх джерел)
 about-processes-web-isolated-process-private = { $origin } — Приватний ({ $pid })
 about-processes-web-large-allocation-process-private = { $origin } — Приватний ({ $pid }, великий)
+about-processes-with-coop-coep-process-private = { $origin } — Приватний ({ $pid }, ізольовано від сторонніх джерел)
 
 ## Details within processes
 
