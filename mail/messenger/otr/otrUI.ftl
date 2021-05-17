@@ -12,6 +12,7 @@ auth-cancel-access-key = C
 auth-error = Ocorreu um erro ao verificar a identidade do seu contato.
 auth-success = A verificação da identidade do seu contato foi concluída com êxito.
 auth-successThem = Seu contato verificou sua identidade com sucesso. Você também pode verificar a identidade dele fazendo sua própria pergunta.
+auth-success-them = Seu contato verificou sua identidade com sucesso. Você também pode verificar a identidade dele fazendo sua própria pergunta.
 auth-fail = Falha ao verificar a identidade do seu contato.
 auth-waiting = Aguardando o contato concluir a verificação…
 finger-verify = Verificar
