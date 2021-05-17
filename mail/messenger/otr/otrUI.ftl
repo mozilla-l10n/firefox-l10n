@@ -8,13 +8,16 @@ auth-label = Ověřit identitu kontaktu
 reauth-label = Znovu ověřit identitu kontaktu
 auth-cancel = Zrušit
 auth-cancelAccessKey = Z
+auth-cancel-access-key = Z
 auth-error = Při ověřování identity kontaktu došlo k chybě.
 auth-success = Identita kontaktu byla úspěšně ověřena.
 auth-successThem = Kontakt úspěšně ověřil vaši identitu. Možná budete chtít ověřit zase jeho identitu položením své otázky.
+auth-success-them = Kontakt úspěšně ověřil vaši identitu. Možná budete chtít ověřit zase jeho identitu položením své otázky.
 auth-fail = Ověření identity kontaktu se nezdařilo.
 auth-waiting = Čekání na dokončení ověření kontaktem…
 finger-verify = Ověřit
 finger-verify-accessKey = O
+finger-verify-access-key = O
 # Do not translate 'OTR' (name of an encryption protocol)
 buddycontextmenu-label = Přidat otisk klíče OTR
 # Variables:
@@ -28,11 +31,15 @@ alert-refresh = Probíhá pokus o obnovení šifrované konverzace s uživatelem
 alert-gone_insecure = Šifrovaná konverzace s uživatelem { $name } skončila.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
+alert-gone-insecure = Šifrovaná konverzace s uživatelem { $name } skončila.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
 finger-unseen = Identita uživatele { $name } ještě nebyla ověřena. Příležitostné odposlouchávání možné není, ale s vynaložením určitého úsilí odposlech možný je. Předejděte tomu ověřením identity tohoto kontaktu.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 finger-seen = Uživatel { $name } vás kontaktuje z neznámého počítače. Příležitostné odposlouchávání možné není, ale s vynaložením určitého úsilí odposlech možný je. Předejděte tomu ověřením identity tohoto kontaktu.
 state-not_private = Aktuální konverzace není soukromá.
+state-not-private = Aktuální konverzace není soukromá.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 state-unverified = Aktuální konverzace je šifrovaná, ale není soukromá, protože identita uživatele { $name } ještě nebyla ověřena.
@@ -43,6 +50,7 @@ state-private = Identita uživatele { $name } byla ověřena. Aktuální konverz
 #   $name (String) - the screen name of a chat contact person
 state-finished = Uživatel { $name } s vámi ukončil šifrovanou konverzaci, měli byste udělat totéž.
 state-not_private-label = Nezabezpečeno
+state-not-private-label = Nezabezpečeno
 state-unverified-label = Neověřeno
 state-private-label = Soukromé
 state-finished-label = Ukončeno
@@ -59,6 +67,7 @@ verify-title = Ověřit identitu kontaktu
 error-title = Chyba
 success-title = Koncové šifrování
 successThem-title = Ověřit identitu kontaktu
+success-them-title = Ověřit identitu kontaktu
 fail-title = Nelze ověřit
 waiting-title = Žádost o ověření byla odeslána
 # Do not translate 'OTR' (name of an encryption protocol)

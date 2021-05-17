@@ -12,6 +12,7 @@ preferences-title =
         }
 preferences-tab-title =
     .title = Předvolby
+preferences-doc-title = Předvolby
 category-list =
     .aria-label = Kategorie
 pane-general-title = Obecné
