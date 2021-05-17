@@ -90,6 +90,9 @@ toolbar-button-stop-reload =
 
 ## Firefox Account Button
 
+toolbar-button-fxaccount =
+    .label = { -fxaccount-brand-name(capitalization: "sentence") }
+    .tooltiptext = { -fxaccount-brand-name(capitalization: "sentence") }
 
 ## Save Page
 
@@ -105,6 +108,12 @@ main-context-menu-bookmark-add =
     .aria-label = Lakaat ur sined war ar bajenn-mañ
     .accesskey = b
     .tooltiptext = Lakaat ur sined war ar bajenn-mañ
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-edit-mac =
+    .label = Kemmañ ar sined
+    .accesskey = K
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-add-with-shortcut =
@@ -206,6 +215,9 @@ main-context-menu-media-play-speed-faster =
 main-context-menu-media-play-speed-fastest =
     .label = Tizh divuzul (2×)
     .accesskey = d
+main-context-menu-media-play-speed-2 =
+    .label = Tizh
+    .accesskey = T
 main-context-menu-media-loop =
     .label = Dol
     .accesskey = D
