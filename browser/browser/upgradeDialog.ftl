@@ -11,6 +11,10 @@
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-new-title = Säg hej till nya { -brand-short-name }
 upgrade-dialog-new-subtitle = Designad för att snabbt ta dig dit du vill
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline
+# style to be automatically added to the text inside it. { -brand-short-name }
+# should stay inside the span.
+upgrade-dialog-new-alt-subtitle = Börja med att göra <span data-l10n-name="zap">{ -brand-short-name }</span> tillgänglig med ett klick
 upgrade-dialog-new-item-menu-title = Strömlinjeformat verktygsfält och menyer
 upgrade-dialog-new-item-menu-description = Prioritera de viktiga sakerna så att du hittar vad du behöver.
 upgrade-dialog-new-item-tabs-title = Moderna flikar
@@ -27,6 +31,14 @@ upgrade-dialog-new-secondary-button = Inte nu
 # This string is only shown on Windows 7, where we intentionally suppress the
 # theme selection screen.
 upgrade-dialog-new-primary-win7-button = Okej, jag förstår!
+
+## Default browser screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title = Gör { -brand-short-name } till din standardwebbläsare?
+upgrade-dialog-default-subtitle = Få hastighet, säkerhet och integritet varje gång du surfar.
+upgrade-dialog-default-primary-button = Ange som standardwebbläsare
+upgrade-dialog-default-secondary-button = Inte nu
 
 ## Theme selection screen
 
