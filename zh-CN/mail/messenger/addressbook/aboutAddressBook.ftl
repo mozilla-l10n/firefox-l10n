@@ -29,6 +29,12 @@ about-addressbook-books-context-delete =
 
 ## Cards
 
+about-addressbook-name-format-display =
+    .label = 显示名称
+about-addressbook-sort-name-ascending =
+    .label = 按名称排序（A > Z）
+about-addressbook-sort-name-descending =
+    .label = 按名称排序（Z > A）
 
 ## Details
 
