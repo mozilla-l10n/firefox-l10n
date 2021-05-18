@@ -11,6 +11,10 @@
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-new-title = Da il benvignût a un gnûf { -brand-short-name }
 upgrade-dialog-new-subtitle = Progjetât par puartâti là che ti covente, ma plui svelt
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline
+# style to be automatically added to the text inside it. { -brand-short-name }
+# should stay inside the span.
+upgrade-dialog-new-alt-subtitle = Scomence mentint <span data-l10n-name="zap">{ -brand-short-name }</span> a puartade di man
 upgrade-dialog-new-item-menu-title = Sbare dai struments e menù semplificâts
 upgrade-dialog-new-item-menu-description = Prioritât aes robis impuartantis, cussì di cjatâ che che ti covente.
 upgrade-dialog-new-item-tabs-title = Schedis modernis
@@ -23,6 +27,14 @@ upgrade-dialog-new-primary-default-button = Rint { -brand-short-name } il gno na
 upgrade-dialog-new-primary-pin-button = Fisse { -brand-short-name } te mê sbare des aplicazions
 upgrade-dialog-new-primary-theme-button = Sielç un teme
 upgrade-dialog-new-secondary-button = No cumò
+
+## Default browser screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title = Rindi { -brand-short-name } il to navigadôr predefinît?
+upgrade-dialog-default-subtitle = Garantìssiti velocitât, sigurece e riservatece ogni volte che tu navighis.
+upgrade-dialog-default-primary-button = Met come navigadôr predefinît
+upgrade-dialog-default-secondary-button = No cumò
 
 ## Theme selection screen
 
