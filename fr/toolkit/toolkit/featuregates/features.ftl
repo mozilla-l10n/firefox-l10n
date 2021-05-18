@@ -16,7 +16,7 @@ experimental-features-web-gpu-description2 = Cette nouvelle API fournit une pris
 # by various online articles and is technical in nature.
 experimental-features-media-avif =
     .label = Multimédia : AVIF
-experimental-features-media-avif-description = Lorsque cette fonctionnalité est activée, { -brand-short-name } prend en charge le format AV1 Image File (AVIF). Ce format de fichier d’image fixe exploite les capacités des algorithmes de compression vidéo AV1 pour réduire la taille de l’image. Consultez <a data-l10n-name="bugzilla">bug 1443863</a> pour plus de détails.
+experimental-features-media-avif-description = Lorsque cette fonctionnalité est activée, { -brand-short-name } prend en charge le format AV1 Image File (AVIF). Ce format de fichier d’image fixe exploite les capacités des algorithmes de compression vidéo AV1 pour réduire la taille de l’image. Consultez le <a data-l10n-name="bugzilla">bug 1443863</a> pour plus de détails.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-jxl =
