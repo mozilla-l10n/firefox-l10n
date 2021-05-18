@@ -11,6 +11,10 @@
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-new-title = გაიცანით ახალი { -brand-short-name }
 upgrade-dialog-new-subtitle = შექმნილი, რომ მიგიყვანოთ სადაც გსურთ, მეტად სწრაფად
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline
+# style to be automatically added to the text inside it. { -brand-short-name }
+# should stay inside the span.
+upgrade-dialog-new-alt-subtitle = გამოიყენეთ ხოლმე <span data-l10n-name="zap">{ -brand-short-name }</span> ერთი დაწკაპებით
 upgrade-dialog-new-item-menu-title = დახვეწილი ხელსაწყოთა ზოლი და მენიუები
 upgrade-dialog-new-item-menu-description = წინ წამოწევს მნიშვნელოვანს, რომ ადვილად მიაგნოთ.
 upgrade-dialog-new-item-tabs-title = თანამედროვე ჩანართები
@@ -26,6 +30,14 @@ upgrade-dialog-new-secondary-button = ახლა არა
 # This string is only shown on Windows 7, where we intentionally suppress the
 # theme selection screen.
 upgrade-dialog-new-primary-win7-button = კარგი, გასაგებია!
+
+## Default browser screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title = გახდეს { -brand-short-name } თქვენი ნაგულისხმევი ბრაუზერი?
+upgrade-dialog-default-subtitle = სისწრაფე, უსაფრთხოება და პირადულობა, გვერდების ყოველი მონახულებისას.
+upgrade-dialog-default-primary-button = ნაგულისხმევ ბრაუზერად დაყენება
+upgrade-dialog-default-secondary-button = ახლა არა
 
 ## Theme selection screen
 
