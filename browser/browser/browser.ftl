@@ -520,6 +520,11 @@ urlbar-placeholder-with-name =
     .placeholder = Vyhľadajte cez { $name } alebo zadajte webovú adresu
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Prehliadač je ovládaný na diaľku
+# Variables
+#  $component (String): the name of the component which forces remote control.
+#    Example: "DevTools", "Marionette", "RemoteAgent".
+urlbar-remote-control-notification-anchor2 =
+    .tooltiptext = Prehliadač je ovládaný na diaľku (dôvod: { $component })
 urlbar-permissions-granted =
     .tooltiptext = Tejto stránke ste udelili dodatočné povolenia.
 urlbar-switch-to-tab =
