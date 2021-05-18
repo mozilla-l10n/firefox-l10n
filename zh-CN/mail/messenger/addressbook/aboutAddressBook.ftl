@@ -41,7 +41,6 @@ about-addressbook-sort-name-descending =
 about-addressbook-begin-edit-contact-button = 编辑
 about-addressbook-cancel-edit-contact-button = 取消
 about-addressbook-save-edit-contact-button = 保存
-about-addressbook-details-email-addresses-header = 邮箱地址
 about-addressbook-details-phone-numbers-header = 手机号码
 about-addressbook-details-home-address-header = 家庭地址
 about-addressbook-details-work-address-header = 工作地址
