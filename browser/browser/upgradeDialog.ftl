@@ -11,6 +11,18 @@
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-new-title = Pasisveikinkite su naująja „{ -brand-short-name }“
 upgrade-dialog-new-subtitle = Sukurta tam, kad greičiau patektumėte ten kur norite
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline
+# style to be automatically added to the text inside it. { -brand-short-name }
+# should stay inside the span.
+upgrade-dialog-new-alt-subtitle = Pradžiai padarykite <span data-l10n-name="zap">„{ -brand-short-name }“</span> pasiekiamą vienu paspaudimu
+
+## Default browser screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title = Paskirti „{ -brand-short-name }“ jūsų pagrindine naršykle?
+upgrade-dialog-default-subtitle = Gaukite greitį, saugumą, ir privatumą kiekvieno naršymo metu.
+upgrade-dialog-default-primary-button = Skirti numatytąja naršykle
+upgrade-dialog-default-secondary-button = Ne dabar
 
 ## Theme selection screen
 
