@@ -10,6 +10,10 @@
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-new-title = Spoznajte novi { -brand-short-name }
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline
+# style to be automatically added to the text inside it. { -brand-short-name }
+# should stay inside the span.
+upgrade-dialog-new-alt-subtitle = Za začetek naj bo <span data-l10n-name="zap">{ -brand-short-name }</span> oddaljen samo en klik
 upgrade-dialog-new-item-tabs-title = Sodobni zavihki
 upgrade-dialog-new-item-icons-title = Sveže ikone in jasnejša sporočila
 upgrade-dialog-new-primary-default-button = Nastavi { -brand-short-name } kot privzet brskalnik
