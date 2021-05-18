@@ -11,6 +11,10 @@
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-new-title = Tab'ij ola chi re jun k'ak'a' { -brand-short-name }
 upgrade-dialog-new-subtitle = Wachib'en richin nib'e xab'akuchi', yalan anin
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline
+# style to be automatically added to the text inside it. { -brand-short-name }
+# should stay inside the span.
+upgrade-dialog-new-alt-subtitle = Tatikirisaj rub'anik <span data-l10n-name = "zap"> { -brand-short-name } </span> rik'in jun pitz'oj richin nawïl
 upgrade-dialog-new-item-menu-title = Utzirisan kajtz'ik taq samajib'äl chuqa' kutsamaj
 upgrade-dialog-new-item-menu-description = Niya' kiq'ij ri k'atzinel taq wachinäq richin nawïl ri nawajo'.
 upgrade-dialog-new-item-tabs-title = K'ak'a' taq ruwi'
@@ -27,6 +31,14 @@ upgrade-dialog-new-secondary-button = Wakami mani
 # This string is only shown on Windows 7, where we intentionally suppress the
 # theme selection screen.
 upgrade-dialog-new-primary-win7-button = ¡Ütz, niq'ax pa nuwi'!
+
+## Default browser screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title = ¿La nib'an chi ri { -brand-short-name } tok nab'ey awokik'amaya'l?
+upgrade-dialog-default-subtitle = Tak'ulu' aninem, jikomal chuqa' ichinanem toq yatok pa k'amaya'l.
+upgrade-dialog-default-primary-button = Tiya' kan achi'el kanob'äl k'o wi
+upgrade-dialog-default-secondary-button = Wakami mani
 
 ## Theme selection screen
 
