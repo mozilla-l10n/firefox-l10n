@@ -8,6 +8,10 @@
 
 ## New changes screen
 
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline
+# style to be automatically added to the text inside it. { -brand-short-name }
+# should stay inside the span.
+upgrade-dialog-new-alt-subtitle = Aloitetaan tekemällä <span data-l10n-name="zap">{ -brand-short-name }in</span> käynnistäminen helpoksi
 upgrade-dialog-new-item-menu-title = Virtaviivaistetut työkalupalkit ja valikot
 upgrade-dialog-new-item-tabs-title = Nykyaikaiset välilehdet
 upgrade-dialog-new-item-icons-title = Uudet kuvakkeet ja selkeämmät viestit
@@ -22,6 +26,8 @@ upgrade-dialog-new-secondary-button = Ei nyt
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-default-title = Asetetaanko { -brand-short-name } oletusselaimeksi?
+upgrade-dialog-default-primary-button = Aseta oletusselaimeksi
+upgrade-dialog-default-secondary-button = Ei nyt
 
 ## Theme selection screen
 
