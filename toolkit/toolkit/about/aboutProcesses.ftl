@@ -52,6 +52,17 @@ about-processes-unknown-process-name = Annet ({ $type }, prosess { $pid })
 #   $pid (String) The process id of this process, assigned by the OS.
 about-processes-process-name = Prosess { $pid }: { $name }
 
+## Process names
+## Variables:
+##    $pid (String) The process id of this process, assigned by the OS.
+
+
+## Isolated process names
+## Variables:
+##    $pid (String) The process id of this process, assigned by the OS.
+##    $origin (String) The domain name for this process.
+
+
 ## Details within processes
 
 # Single-line summary of threads
@@ -95,6 +106,9 @@ about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigit
 about-processes-cpu-user-and-kernel-not-ready = (måling)
 # Special case: process or thread is currently idle.
 about-processes-cpu-user-and-kernel-idle = inaktiv ({ NUMBER($total, maximumFractionDigits: 2) } { $unit })
+# Special case: process or thread is currently idle.
+about-processes-cpu-idle = inaktiv
+    .title = Total prosessortid: { NUMBER($total, maximumFractionDigits: 2) } { $unit }
 
 ## Displaying Memory (total and delta)
 ## Variables:
