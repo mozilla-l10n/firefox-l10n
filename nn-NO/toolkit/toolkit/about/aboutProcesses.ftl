@@ -84,8 +84,10 @@ about-processes-unknown-process = Anna: { $type }({ $pid })
 
 about-processes-web-isolated-process = { $origin } ({ $pid })
 about-processes-web-large-allocation-process = { $origin } ({ $pid },stor)
+about-processes-with-coop-coep-process = { $origin } ({ $pid }, cross-origin isolert)
 about-processes-web-isolated-process-private = { $origin } — Privat ({ $pid })
 about-processes-web-large-allocation-process-private = { $origin } — Privat({ $pid },stor)
+about-processes-with-coop-coep-process-private = { $origin } — Privat ({ $pid }, cross-origin isolert)
 
 ## Details within processes
 
@@ -100,6 +102,21 @@ about-processes-thread-summary = Trådar ({ $number })
 #   $name (String) The name assigned to the thread.
 #   $tid (String) The thread id of this thread, assigned by the OS.
 about-processes-thread-name = Tråd { $tid }: { $name }
+# Single-line summary of threads (non-idle process)
+# Variables:
+#    $number (Number) The number of threads in the process. Typically larger
+#                     than 30. We don't expect to ever have processes with less
+#                     than 5 threads.
+#    $active (Number) The number of active threads in the process.
+#                     The value will be greater than 0 and will never be
+#                     greater than $number.
+#    $list (String) Comma separated list of active threads.
+#                   Can be an empty string if the process is idle.
+about-processes-active-threads =
+    { $active ->
+        [one] { $active } aktiv tråd av totalt { $number }: { $list }
+       *[other] { $active } aktive trådar av totalt { $number }: { $list }
+    }
 # Single-line summary of threads (idle process)
 # Variables:
 #    $number (Number) The number of threads in the process. Typically larger
