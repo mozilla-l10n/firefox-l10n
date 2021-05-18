@@ -26,6 +26,14 @@ upgrade-dialog-new-secondary-button = Plus tard
 # theme selection screen.
 upgrade-dialog-new-primary-win7-button = D’accord, j’ai compris !
 
+## Default browser screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title = Faire de { -brand-short-name } votre navigateur par défaut ?
+upgrade-dialog-default-subtitle = Toute votre navigation rapide, sûre et confidentielle.
+upgrade-dialog-default-primary-button = Définir comme navigateur par défaut
+upgrade-dialog-default-secondary-button = Plus tard
+
 ## Theme selection screen
 
 # This title can be explicitly wrapped to control which words are on which line.
