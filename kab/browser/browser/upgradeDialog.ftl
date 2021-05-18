@@ -33,6 +33,7 @@ upgrade-dialog-new-primary-win7-button = Ih, awi-t!
 upgrade-dialog-default-title = Err { -brand-short-name } diminig-ik·im amezwer?
 upgrade-dialog-default-subtitle = Inig yal tikkelt s urured, s uḍman d tbaḍnit.
 upgrade-dialog-default-primary-button = Sbadu-t d iminig amezwer
+upgrade-dialog-default-secondary-button = Mačči tura
 
 ## Theme selection screen
 
