@@ -34,6 +34,11 @@ upgrade-dialog-new-primary-win7-button = Ок, понятно!
 
 ## Default browser screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title = Сделать { -brand-short-name } вашим браузером по умолчанию?
+upgrade-dialog-default-subtitle = Получите скорость, безопасность и конфиденциальность на всех веб-страницах.
+upgrade-dialog-default-primary-button = Установить браузером по умолчанию
+upgrade-dialog-default-secondary-button = Не сейчас
 
 ## Theme selection screen
 
