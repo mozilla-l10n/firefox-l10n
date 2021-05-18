@@ -151,6 +151,9 @@ cc-compose-show-address-row-menuitem =
     .label = Polje { cc-compose-address-row-label.value }
     .accesskey = K
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+cc-compose-show-address-row-label =
+    .value = { cc-compose-address-row-label.value }
+    .tooltiptext = Prikaži polje { cc-compose-address-row-label.value } ({ cc-compose-show-address-row-menuitem.acceltext })
 bcc-compose-address-row-label =
     .value = Skp
 #   $key (String) - the shortcut key for this field
@@ -158,6 +161,9 @@ bcc-compose-show-address-row-menuitem =
     .label = Polje { bcc-compose-address-row-label.value }
     .accesskey = S
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+bcc-compose-show-address-row-label =
+    .value = { bcc-compose-address-row-label.value }
+    .tooltiptext = Prikaži polje { bcc-compose-address-row-label.value } ({ bcc-compose-show-address-row-menuitem.acceltext })
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-info = Prejemniki v poljih Za in Kp ({ $count }) bodo videli naslove drug drugega. Prejemnike lahko prikrijete tako, da uporabite polje Skp.
 many-public-recipients-bcc =
