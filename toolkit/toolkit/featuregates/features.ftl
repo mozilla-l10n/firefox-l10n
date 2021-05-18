@@ -19,29 +19,14 @@ experimental-features-media-avif =
 experimental-features-media-avif-description = Når denne funksjonen er aktivert, støtter { -brand-short-name } AVIF-format (AV1). Dette er et stillbildefilformat som utnytter mulighetene til AV1-videokomprimeringsalgoritmer for å redusere bildestørrelse. Se <a data-l10n-name="bugzilla">bug 1443863</a> for mer informasjon.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
+experimental-features-media-jxl =
+    .label = Media: JPEG XL
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
     .label = Web API: inputmode
 # "inputmode" and "contenteditable" are technical terms and shouldn't be translated.
 experimental-features-web-api-inputmode-description = Vår implementering av <a data-l10n-name="mdn-inputmode">inputmode</a> global attributt er oppdatert i henhold til <a data-l10n-name="whatwg">WHATWG-spesifikasjonen</a>, men vi må fortsatt gjøre andre endringer, som å gjøre det tilgjengelig på redigerbart innhold. Se <a data-l10n-name="bugzilla">bug 1205133</a> for mer informasjon.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-web-api-link-preload =
-    .label = Web API: <link rel="preload">
-# Do not translate "rel", "preload" or "link" here, as they are all HTML spec
-# values that do not get translated.
-experimental-features-web-api-link-preload-description = <a data-l10n-name="rel">rel</a>-attributtet med verdien <code>«preload»</code> på et <a data-l10n-name="link">&lt;link&gt;</a>-elementet er ment å bidra til å gi ytelsesgevinster ved å la deg laste ned ressurser tidligere i livssyklusen for sidene, sikre at de er tilgjengelige tidligere og at det er mindre sannsynlig at det blokkerer sidegjengivelse. Les <a data-l10n-name="readmore">«Preloading content with <code>rel="preload"</code>»</a> eller se <a data-l10n-name="bugzilla">bug 1583604</a> for mer informasjon.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-css-focus-visible =
-    .label = CSS: Pseudo-class: :focus-visible
-experimental-features-css-focus-visible-description = Tillater at focus-stiler blir bukte på elementer som knapper og skjemakontroller, bare når de er fokuserte ved hjelp av tastaturet (f.eks. når du bruker tabulator-tasten for å hoppe mellom elementer), og ikke når de er fokusert ved hjelp av en mus eller annen pekeenhet. Se <a data-l10n-name="bugzilla">bug 1617600</a> for mer informasjon.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-web-api-beforeinput =
-    .label = Web API: beforeinput Event
-# The terms "beforeinput", "input", "textarea", and "contenteditable" are technical terms
-# and shouldn't be translated.
-experimental-features-web-api-beforeinput-description = Den globale <a data-l10n-name="mdn-beforeinput">beforeinput</a>-hendelsen blir avfyrt på <a data-l10n-name="mdn-input">&lt;input&gt;</a>- og <a data-l10n-name="mdn-textarea">&lt;textarea&gt;</a>-elementer, eller et hvilket som helst element hvis <a data-l10n-name="mdn-contenteditable">contenteditable</a>-attributtet er aktivert, rett før elementets verdi endres. Hendelsen gjør at nettapper kan overstyre nettleserens standardatferd for brukerinteraksjon, for eksempel kan nettapper avbryte brukerinndata bare for spesifikke tegn eller kan endre innliming av stylet tekst bare med godkjente stiler.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
@@ -69,9 +54,6 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Infoka
 experimental-features-abouthome-startup-cache =
     .label = about:home oppstartshurtigbuffer
 experimental-features-abouthome-startup-cache-description = Et hurtigbuffer for det første about:home-dokument som er lastet som standard ved oppstart. Hensikten med hurtigbufferet er å forbedre oppstartsytelsen.
-experimental-features-print-preview-tab-modal =
-    .label = Redesign av forhåndsvisning
-experimental-features-print-preview-tab-modal-description = Introduserer den redesignede forhåndsvisning av utskrifter og gjør forhåndsvisning av utskrift tilgjengelig på macOS. Dette introduserer potensielle feil og inkluderer ikke alle utskriftsrelaterte innstillinger. For å få tilgang til alle utskriftsrelaterte innstillinger, velg «Skriv ut ved hjelp av systemdialogvinduet…» fra utskriftspanelet.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
@@ -86,6 +68,10 @@ experimental-features-devtools-serviceworker-debugger-support-description = Akti
 experimental-features-webrtc-global-mute-toggles =
     .label = Global WebRTC dempekontroll
 experimental-features-webrtc-global-mute-toggles-description = Legger til kontroller i WebRTCs globale delingsvarsel som brukere kan bruke til å globalt dempe sin mikrofon og kamerakilde.
+# Win32k Lockdown
+experimental-features-win32k-lockdown =
+    .label = Win32k-låsing
+experimental-features-win32k-lockdown-description = Deaktiver bruk av Win32k API-er i nettleserfaner. Gir økt sikkerhet, men kan for tiden være ustabil eller buggy. (Bare Windows)
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
