@@ -1143,6 +1143,8 @@ collection-backlogged-crash-reports =
     .label = Tillat { -brand-short-name } å sende etterslepne krasjrapporter på dine vegne
     .accesskey = s
 collection-backlogged-crash-reports-link = Les mer
+collection-backlogged-crash-reports-with-link = Tillat { -brand-short-name } å sende etterslepne krasjrapporter på dine vegne <a data-l10n-name="crash-reports-link">Les mer</a>
+    .accesskey = T
 
 ## Privacy Section - Security
 ##
