@@ -37,8 +37,8 @@ upgrade-dialog-new-primary-win7-button = OK, tutto chiaro
 ## Default browser screen
 
 # This title can be explicitly wrapped to control which words are on which line.
-upgrade-dialog-default-title = Impostare { -brand-short-name } come browser predefinito?
-upgrade-dialog-default-subtitle = Velocità, sicurezza e privacy sempre garantiti quando navighi online.
+upgrade-dialog-default-title = Imposta { -brand-short-name } come browser predefinito
+upgrade-dialog-default-subtitle = Velocità, sicurezza e privacy sempre garantiti quando navighi online
 upgrade-dialog-default-primary-button = Imposta come browser predefinito
 upgrade-dialog-default-secondary-button = Non adesso
 
