@@ -179,7 +179,7 @@ onboarding-multistage-pin-default-subtitle = Rask, sikker og privat nettlesing k
 # The "settings" here refers to "Windows 10 Settings App" and not the browser's
 onboarding-multistage-pin-default-waiting-subtitle = Vel { -brand-short-name } under nettlesar når innstillingane dine vert opna
 # The "settings" here refers to "Windows 10 Settings App" and not the browser's
-onboarding-multistage-pin-default-help-text = Dette vil feste { -brand-short-name } til oppgavelinja og opne innstillingar
+onboarding-multistage-pin-default-help-text = Dette vil feste { -brand-short-name } til oppgåvelinja og opne innstillingar
 onboarding-multistage-pin-default-primary-button-label = Vel { -brand-short-name } som primærnettlesar
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
@@ -276,7 +276,7 @@ mr1-onboarding-welcome-image-caption = Soraya Osorio — Møbeldesignar, Firefox
 mr1-onboarding-reduce-motion-button-label = Slå av animasjonar
 mr1-onboarding-welcome-header = Velkomen til { -brand-short-name }
 mr1-onboarding-set-default-pin-primary-button-label = Vel { -brand-short-name } som primærnettlesar
-    .title = Stiller innn { -brand-short-name } som standardnettlesar og festar han til oppgåvelinja
+    .title = Stiller inn { -brand-short-name } som standardnettlesar og festar han til oppgåvelinja
 mr1-onboarding-set-default-only-primary-button-label = Vel { -brand-short-name } som stanardnettlesar
 mr1-onboarding-set-default-secondary-button-label = Ikkje no
 mr1-onboarding-sign-in-button-label = Logg inn
