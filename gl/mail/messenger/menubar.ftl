@@ -34,6 +34,30 @@ menu-help-more-troubleshooting-info =
 
 ## Mail Toolbar
 
+toolbar-junk-button =
+    .label = Correo lixo
+    .tooltiptext = Marcar as mensaxes seleccionadas como correo lixo
+toolbar-not-junk-button =
+    .label = Correo normal
+    .tooltiptext = Quitar a marca de correo lixo as mensaxes seleccionadas
+toolbar-delete-button =
+    .label = Eliminar
+    .tooltiptext = Eliminar as mensaxes ou cartafoles seleccionados
+toolbar-undelete-button =
+    .label = Restaurar
+    .tooltiptext = Restaura as mensaxes seleccionadas
 
 ## View / Layout
 
+mail-uidensity-label =
+    .label = Densidade
+    .accesskey = D
+mail-uidensity-compact =
+    .label = Compactar
+    .accesskey = C
+mail-uidensity-normal =
+    .label = Normal
+    .accesskey = N
+mail-uidensity-touch =
+    .label = Táctil
+    .accesskey = T
