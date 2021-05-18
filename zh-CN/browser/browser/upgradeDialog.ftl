@@ -11,6 +11,10 @@
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-new-title = 邂逅全新的 { -brand-short-name }
 upgrade-dialog-new-subtitle = 重新设计，只为让您的浏览更轻快
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline
+# style to be automatically added to the text inside it. { -brand-short-name }
+# should stay inside the span.
+upgrade-dialog-new-alt-subtitle = 只需点击几下，即可开始使用 <span data-l10n-name="zap">{ -brand-short-name }</span>
 upgrade-dialog-new-item-menu-title = 更精简的工具栏和菜单
 upgrade-dialog-new-item-menu-description = 依优先级简化重排，操作更便捷。
 upgrade-dialog-new-item-tabs-title = 现代化的标签页设计
@@ -27,6 +31,14 @@ upgrade-dialog-new-secondary-button = 暂时不要
 # This string is only shown on Windows 7, where we intentionally suppress the
 # theme selection screen.
 upgrade-dialog-new-primary-win7-button = 好，知道了！
+
+## Default browser screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title = 要将 { -brand-short-name } 设为您的默认浏览器吗？
+upgrade-dialog-default-subtitle = 每一次浏览，都有最快速度、安全与隐私保护。
+upgrade-dialog-default-primary-button = 设为默认浏览器
+upgrade-dialog-default-secondary-button = 暂时不要
 
 ## Theme selection screen
 
