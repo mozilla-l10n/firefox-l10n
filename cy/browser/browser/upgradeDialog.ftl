@@ -11,6 +11,10 @@
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-new-title = Dywedwch helo wrth y { -brand-short-name } newydd
 upgrade-dialog-new-subtitle = Wedi'i gynllunio i fynd a chi i'r lle rydych am fynd iddo, yn gyflymach
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline
+# style to be automatically added to the text inside it. { -brand-short-name }
+# should stay inside the span.
+upgrade-dialog-new-alt-subtitle = Cychwynwch trwy osod<span data-l10n-name = "zap"> { -brand-short-name } </span> un clic i ffwrdd
 upgrade-dialog-new-item-menu-title = Bar offer a dewislenni llyfnach
 upgrade-dialog-new-item-menu-description = Blaenoriaethu'r pethau sy'n bwysig i chi.
 upgrade-dialog-new-item-tabs-title = Tabiau modern
@@ -27,6 +31,14 @@ upgrade-dialog-new-secondary-button = Nid nawr
 # This string is only shown on Windows 7, where we intentionally suppress the
 # theme selection screen.
 upgrade-dialog-new-primary-win7-button = Iawn, rwy'n deall!
+
+## Default browser screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title = Gwneud { -brand-short-name } eich prif borwr?
+upgrade-dialog-default-subtitle = Cael cyflymder, diogelwch a phreifatrwydd bob tro y byddwch chi'n pori.
+upgrade-dialog-default-primary-button = Gosod fel y porwr ragosodedig
+upgrade-dialog-default-secondary-button = Nid nawr
 
 ## Theme selection screen
 
