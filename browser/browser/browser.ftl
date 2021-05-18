@@ -509,6 +509,11 @@ urlbar-placeholder-with-name =
     .placeholder = ‏ניתן לחפש עם { $name } או להקליד כתובת
 urlbar-remote-control-notification-anchor =
     .tooltiptext = הדפדפן נשלט מרחוק
+# Variables
+#  $component (String): the name of the component which forces remote control.
+#    Example: "DevTools", "Marionette", "RemoteAgent".
+urlbar-remote-control-notification-anchor2 =
+    .tooltiptext = הדפדפן נמצא בשליטה מרוחקת (סיבה: { $component })
 urlbar-permissions-granted =
     .tooltiptext = הענקת לאתר זה הרשאות נוספות.
 urlbar-switch-to-tab =
