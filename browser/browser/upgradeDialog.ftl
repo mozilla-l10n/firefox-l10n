@@ -11,6 +11,16 @@
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-new-title = { -brand-short-name } у новом руху
 upgrade-dialog-new-subtitle = Води вас на жељену локацију још брже
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline
+# style to be automatically added to the text inside it. { -brand-short-name }
+# should stay inside the span.
+upgrade-dialog-new-alt-subtitle =
+    За почетак сместите <span data-l10n-name="zap">{ -brand-shorter-name.gender ->
+        [masculine] { -brand-short-name(case: "acc") }
+        [feminine] { -brand-short-name(case: "acc") }
+        [neuter] { -brand-short-name(case: "acc") }
+       *[other] програм { -brand-short-name }
+    }</span> надохват руке
 upgrade-dialog-new-item-menu-title = Поједностављена трака са алаткама и менији
 upgrade-dialog-new-item-menu-description = Дајте приоритет стварима које су вам битне.
 upgrade-dialog-new-item-tabs-title = Модерне картице
@@ -47,6 +57,20 @@ upgrade-dialog-new-primary-pin-button =
     } на траку задатака
 upgrade-dialog-new-primary-theme-button = Одабери тему
 upgrade-dialog-new-secondary-button = Не сада
+
+## Default browser screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title =
+    Поставити { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "acc") }
+        [feminine] { -brand-short-name(case: "acc") }
+        [neuter] { -brand-short-name(case: "acc") }
+       *[other] програм { -brand-short-name }
+    } као подразумевани прегледач?
+upgrade-dialog-default-subtitle = Претражујте интернет брзо, безбедно и приватно.
+upgrade-dialog-default-primary-button = Постави као подразумевани прегледач
+upgrade-dialog-default-secondary-button = Не сада
 
 ## Theme selection screen
 
