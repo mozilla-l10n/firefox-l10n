@@ -123,6 +123,8 @@ move-attachment-last-panel-button =
 button-return-receipt =
     .label = Potvrdenka
     .tooltiptext = Požiadať o potvrdenie o prijatí tejto správy
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+consider-bcc-notification = Príjemcovia v poliach Komu a Kópia (celkom { $count }) môžu navzájom vidieť svoje adresy. Zverejneniu príjemcov sa môžete vyhnúť použitím Skrytej kópie.
 
 # Addressing Area
 
@@ -157,7 +159,7 @@ bcc-compose-show-address-row-label =
     .value = { bcc-compose-address-row-label.value }
     .tooltiptext = Zobraziť pole { bcc-compose-address-row-label.value } ({ bcc-compose-show-address-row-menuitem.acceltext })
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
-consider-bcc-notification = Príjemcovia v poliach Komu a Kópia (celkom { $count }) môžu navzájom vidieť svoje adresy. Zverejneniu príjemcov sa môžete vyhnúť použitím Skrytej kópie.
+many-public-recipients-info = Príjemcovia (celkom { $count }) v poliach Komu a Kópia si navzájom uvidia adresy. Zverejňovaniu príjemcov sa môžete vyhnúť použitím Skrytej kópie.
 many-public-recipients-bcc =
     .label = Použiť Skrytú kópiu
     .accesskey = S

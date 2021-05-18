@@ -45,6 +45,10 @@ about-addressbook-sort-name-ascending =
     .label = Usporiadať podľa mena (A > Z)
 about-addressbook-sort-name-descending =
     .label = Usporiadať podľa mena (Z > A)
+about-addressbook-sort-email-ascending =
+    .label = Usporiadať podľa e-mailovej adresy (A > Z)
+about-addressbook-sort-email-descending =
+    .label = Usporiadať podľa e-mailovej adresy (Z > A)
 
 ## Details
 
