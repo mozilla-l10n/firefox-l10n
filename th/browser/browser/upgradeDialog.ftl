@@ -28,6 +28,11 @@ upgrade-dialog-new-secondary-button = ไม่ใช่ตอนนี้
 # theme selection screen.
 upgrade-dialog-new-primary-win7-button = ตกลง เข้าใจแล้ว!
 
+## Default browser screen
+
+upgrade-dialog-default-primary-button = ตั้งเป็นเบราว์เซอร์เริ่มต้น
+upgrade-dialog-default-secondary-button = ไม่ใช่ตอนนี้
+
 ## Theme selection screen
 
 # This title can be explicitly wrapped to control which words are on which line.
