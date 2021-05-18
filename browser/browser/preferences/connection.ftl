@@ -55,9 +55,9 @@ connection-proxy-noproxy = Nepoužívať proxy pre
     .accesskey = N
 connection-proxy-noproxy-desc = Príklad: .mozilla.org, .net.nz, 192.168.1.0/24
 # Do not translate localhost, 127.0.0.1 and ::1.
-connection-proxy-noproxy-localhost-desc = Pripojenie na localhost, 127.0.0.1, and ::1 nikdy proxy servery nepoužívajú.
+connection-proxy-noproxy-localhost-desc = Pripojenie na localhost, 127.0.0.1, a ::1 nikdy nepoužíva proxy server.
 # Do not translate "localhost", "127.0.0.1/8" and "::1". (You can translate "and".)
-connection-proxy-noproxy-localhost-desc-2 = Pripojenie na localhost, 127.0.0.1/8, a ::1 nikdy proxy servery nepoužívajú.
+connection-proxy-noproxy-localhost-desc-2 = Pripojenie na localhost, 127.0.0.1/8, a ::1 nikdy nepoužíva proxy server.
 connection-proxy-autotype =
     .label = Adresa URL pre automatické nastavenie serverov proxy
     .accesskey = A
