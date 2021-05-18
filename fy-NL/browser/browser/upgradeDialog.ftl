@@ -11,6 +11,10 @@
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-new-title = Sis hallo tsjin in nije { -brand-short-name }
 upgrade-dialog-new-subtitle = Untwurpen om jo flugger te bringen wêr't jo hinne wolle
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline
+# style to be automatically added to the text inside it. { -brand-short-name }
+# should stay inside the span.
+upgrade-dialog-new-alt-subtitle = Begjin troch <span data-l10n-name="zap">{ -brand-short-name }</span> ien klik fuortsmiten te meitsjen
 upgrade-dialog-new-item-menu-title = Streamline arkbalke en menu’s
 upgrade-dialog-new-item-menu-description = Jou prioriteit oan de wichtige dingen, sadat jo fine wat jo nedich hawwe.
 upgrade-dialog-new-item-tabs-title = Moderne ljepblêden
@@ -27,6 +31,14 @@ upgrade-dialog-new-secondary-button = No net
 # This string is only shown on Windows 7, where we intentionally suppress the
 # theme selection screen.
 upgrade-dialog-new-primary-win7-button = OK, begrepen!
+
+## Default browser screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title = { -brand-short-name } jo standertbrowser meitsje?
+upgrade-dialog-default-subtitle = Untfang snelheid, feilichheid en privacy, hieltyd as jo sneupe.
+upgrade-dialog-default-primary-button = As standertbrowser ynstelle
+upgrade-dialog-default-secondary-button = No net
 
 ## Theme selection screen
 
