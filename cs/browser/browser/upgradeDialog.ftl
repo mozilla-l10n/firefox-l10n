@@ -17,6 +17,16 @@ upgrade-dialog-new-title =
        *[other] nová aplikace { -brand-short-name }
     }
 upgrade-dialog-new-subtitle = Prohlížeč, který vás vezme, kam potřebujete, a rychle
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline
+# style to be automatically added to the text inside it. { -brand-short-name }
+# should stay inside the span.
+upgrade-dialog-new-alt-subtitle =
+    { -brand-short-name.gender ->
+        [masculine] <span data-l10n-name="zap">{ -brand-short-name(case: "acc") }</span>
+        [feminine] <span data-l10n-name="zap">{ -brand-short-name(case: "acc") }</span>
+        [neuter] <span data-l10n-name="zap">{ -brand-short-name(case: "acc") }</span>
+       *[other] Aplikaci <span data-l10n-name="zap">{ -brand-short-name }</span>
+    } můžete mít na klik myší
 upgrade-dialog-new-item-menu-title = Nové lišty a nabídky pro snazší ovládání
 upgrade-dialog-new-item-menu-description = Dávají přednost důležitým věcem, takže najdete, co potřebujete.
 upgrade-dialog-new-item-tabs-title = Moderní vzhled panelů
@@ -62,6 +72,20 @@ upgrade-dialog-new-secondary-button = Teď ne
 # This string is only shown on Windows 7, where we intentionally suppress the
 # theme selection screen.
 upgrade-dialog-new-primary-win7-button = Ok, rozumím
+
+## Default browser screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title =
+    Chcete { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "acc") }
+        [feminine] { -brand-short-name(case: "acc") }
+        [neuter] { -brand-short-name(case: "acc") }
+       *[other] aplikaci { -brand-short-name }
+    } nastavit jako svůj výchozí prohlížeč?
+upgrade-dialog-default-subtitle = Získejte rychlost, bezpečnost a soukromí pro své prohlížení.
+upgrade-dialog-default-primary-button = Nastavit jako výchozí prohlížeč
+upgrade-dialog-default-secondary-button = Teď ne
 
 ## Theme selection screen
 
