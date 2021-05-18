@@ -133,7 +133,7 @@ about-processes-inactive-threads =
 #   $name (String) The name assigned to the thread.
 #   $tid (String) The thread id of this thread, assigned by the OS.
 about-processes-thread-name-and-id = { $name }
-    .title = Tråd ID:{ $tid }
+    .title = Tråd-id: { $tid }
 # Tab
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
