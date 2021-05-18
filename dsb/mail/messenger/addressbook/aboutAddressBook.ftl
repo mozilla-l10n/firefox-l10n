@@ -56,3 +56,7 @@ about-addressbook-begin-edit-contact-button = Wobźěłaś
 about-addressbook-cancel-edit-contact-button = Pśetergnuś
 about-addressbook-save-edit-contact-button = Składowaś
 about-addressbook-details-email-addresses-header = E-mailowe adrese
+about-addressbook-details-phone-numbers-header = Telefonowe numery
+about-addressbook-details-home-address-header = Priwatna adresa
+about-addressbook-details-work-address-header = Słužbna adresa
+about-addressbook-details-other-info-header = Druge informacije

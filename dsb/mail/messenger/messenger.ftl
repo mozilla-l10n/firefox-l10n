@@ -76,6 +76,13 @@ toolbar-context-menu-remove-extension =
     .label = Rozšyrjenje wótwónoźeś
     .accesskey = t
 
+## Message headers
+
+message-header-address-in-address-book-icon =
+    .alt = Adresa jo w adresniku
+message-header-address-not-in-address-book-icon =
+    .alt = Adresa njejo w adresniku
+
 ## Add-on removal warning
 
 # Variables:
