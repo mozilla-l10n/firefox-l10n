@@ -11,6 +11,10 @@
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-new-title = Gặp gỡ { -brand-short-name } hoàn toàn mới
 upgrade-dialog-new-subtitle = Được thiết kế để đưa bạn đến nơi bạn muốn, nhanh hơn
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline
+# style to be automatically added to the text inside it. { -brand-short-name }
+# should stay inside the span.
+upgrade-dialog-new-alt-subtitle = Bắt đầu sử dụng <span data-l10n-name="zap">{ -brand-short-name }</span> sau vài cú nhấp chuột
 upgrade-dialog-new-item-menu-title = Thanh công cụ và menu được sắp xếp hợp lý
 upgrade-dialog-new-item-menu-description = Ưu tiên những việc quan trọng để bạn tìm thấy những gì bạn cần.
 upgrade-dialog-new-item-tabs-title = Các thẻ hiện đại
@@ -27,6 +31,14 @@ upgrade-dialog-new-secondary-button = Không phải bây giờ
 # This string is only shown on Windows 7, where we intentionally suppress the
 # theme selection screen.
 upgrade-dialog-new-primary-win7-button = Ok, đã hiểu!
+
+## Default browser screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title = Đặt { -brand-short-name } làm trình duyệt mặc định của bạn?
+upgrade-dialog-default-subtitle = Tốc độ, an toàn và quyền riêng tư mỗi khi bạn duyệt.
+upgrade-dialog-default-primary-button = Đặt làm trình duyệt mặc định
+upgrade-dialog-default-secondary-button = Không phải bây giờ
 
 ## Theme selection screen
 
