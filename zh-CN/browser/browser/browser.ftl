@@ -499,6 +499,11 @@ urlbar-placeholder-with-name =
     .placeholder = 使用 { $name } 搜索，或者输入网址
 urlbar-remote-control-notification-anchor =
     .tooltiptext = 浏览器正被远程控制
+# Variables
+#  $component (String): the name of the component which forces remote control.
+#    Example: "DevTools", "Marionette", "RemoteAgent".
+urlbar-remote-control-notification-anchor2 =
+    .tooltiptext = 浏览器受到远程控制（原因：{ $component }）
 urlbar-permissions-granted =
     .tooltiptext = 您已授予此站点更多权限。
 urlbar-switch-to-tab =
