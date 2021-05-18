@@ -25,6 +25,10 @@ pill-aria-label =
         [one] { $email }: prema Intro para modificar, Suprimir para retirar.
        *[other] { $email }, 1 de { $count }: prema Intro para modificar, Suprimir para retirar.
     }
+#   $email (String) - the email address
+pill-tooltip-invalid-address = { $email } non é un enderezo de correo electrónico válido
+#   $email (String) - the email address
+pill-tooltip-not-in-address-book = { $email } non está na súa axenda de enderezos
 pill-action-edit =
     .label = Modificar o enderezo
     .accesskey = e
@@ -37,6 +41,34 @@ pill-action-move-cc =
 pill-action-move-bcc =
     .label = Mover a CCO
     .accesskey = O
+
+# Attachment widget
+
+ctrl-cmd-shift-pretty-prefix =
+    { PLATFORM() ->
+        [macos] ⇧ ⌘{ " " }
+       *[other] Ctrl+Maiús+
+    }
+trigger-attachment-picker-key = A
+toggle-attachment-pane-key = M
+menuitem-toggle-attachment-pane =
+    .label = Panel de anexos
+    .accesskey = x
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key }
+toolbar-button-add-attachment =
+    .label = Anexar
+    .tooltiptext = Engadir un anexo ({ ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key })
+add-attachment-notification-reminder =
+    .label = Engadir un anexo…
+    .tooltiptext = { toolbar-button-add-attachment.tooltiptext }
+menuitem-attach-files =
+    .label = Ficheiro(s)…
+    .accesskey = F
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
+context-menuitem-attach-files =
+    .label = Anexar ficheiro(s)…
+    .accesskey = f
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
 #   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count =
     .value =
@@ -56,6 +88,66 @@ attachments-placeholder-tooltip =
 #   { attachment-bucket-count.accesskey } - Do not localize this message.
 key-toggle-attachment-pane =
     .key = { attachment-bucket-count.accesskey }
+expand-attachment-pane-tooltip =
+    .tooltiptext = Amosar o panel de anexos ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+collapse-attachment-pane-tooltip =
+    .tooltiptext = Agochar o panel de anexos ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+drop-file-label-attachment =
+    { $count ->
+        [one] Engadir como anexo
+       *[other] Engadir como anexos
+    }
+drop-file-label-inline =
+    { $count ->
+        [one] Inserir dentro da mensaxe
+       *[other] Inserir dentro da mensaxe
+    }
+
+# Reorder Attachment Panel
+
+move-attachment-first-panel-button =
+    .label = Mover ó principio
+move-attachment-left-panel-button =
+    .label = Mover á esquerda
+move-attachment-right-panel-button =
+    .label = Mover á dereita
+move-attachment-last-panel-button =
+    .label = Mover ó final
 button-return-receipt =
     .label = Aviso de recepción
     .tooltiptext = Solicita un aviso de recepción desta mensaxe
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+consider-bcc-notification = Os destinatarios de { $count } en Para e Cc poden ver os enderezos uns dos outros. Pode evitar divulgar os destinatarios usando no seu lugar Cco.
+
+# Addressing Area
+
+to-compose-address-row-label =
+    .value = Para
+#   $key (String) - the shortcut key for this field
+to-compose-show-address-row-menuitem =
+    .label = Campo { to-compose-address-row-label.value }
+    .accesskey = P
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+to-compose-show-address-row-label =
+    .value = { to-compose-address-row-label.value }
+    .tooltiptext = Amosar o campo { to-compose-address-row-label.value } ({ to-compose-show-address-row-menuitem.acceltext })
+cc-compose-address-row-label =
+    .value = Cc
+#   $key (String) - the shortcut key for this field
+cc-compose-show-address-row-menuitem =
+    .label = Campo { cc-compose-address-row-label.value }
+    .accesskey = C
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+cc-compose-show-address-row-label =
+    .value = { cc-compose-address-row-label.value }
+    .tooltiptext = Amosar o campo { cc-compose-address-row-label.value } ({ cc-compose-show-address-row-menuitem.acceltext })
+bcc-compose-address-row-label =
+    .value = Cco
+#   $key (String) - the shortcut key for this field
+bcc-compose-show-address-row-menuitem =
+    .label = Campo { bcc-compose-address-row-label.value }
+    .accesskey = o
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+bcc-compose-show-address-row-label =
+    .value = { bcc-compose-address-row-label.value }
+    .tooltiptext = Amosar o campo { bcc-compose-address-row-label.value } ({ bcc-compose-show-address-row-menuitem.acceltext })
