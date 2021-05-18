@@ -115,6 +115,8 @@ move-attachment-last-panel-button =
 button-return-receipt =
     .label = Ontvangstbevestiging
     .tooltiptext = Een ontvangstbevestiging voor dit bericht vragen
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+consider-bcc-notification = De { $count } ontvangers in Aan en Cc kunnen elkaars adres zien. U kunt voorkomen dat ontvangers worden onthuld door in plaats hiervan Bcc te gebruiken.
 
 # Addressing Area
 
@@ -149,7 +151,7 @@ bcc-compose-show-address-row-label =
     .value = { bcc-compose-address-row-label.value }
     .tooltiptext = Veld { bcc-compose-address-row-label.value } tonen ({ bcc-compose-show-address-row-menuitem.acceltext })
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
-consider-bcc-notification = De { $count } ontvangers in Aan en Cc kunnen elkaars adres zien. U kunt voorkomen dat ontvangers worden onthuld door in plaats hiervan Bcc te gebruiken.
+many-public-recipients-info = De { $count } ontvangers in Aan en Cc zullen elkaars adres zien. U kunt voorkomen dat ontvangers worden onthuld door in plaats hiervan Bcc te gebruiken.
 many-public-recipients-bcc =
     .label = In plaats hiervan Bcc gebruiken
     .accesskey = g
