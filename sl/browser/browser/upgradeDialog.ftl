@@ -20,6 +20,13 @@ upgrade-dialog-new-secondary-button = Ne zdaj
 # theme selection screen.
 upgrade-dialog-new-primary-win7-button = Razumem!
 
+## Default browser screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title = Želite nastaviti { -brand-short-name } za privzeti brskalnik?
+upgrade-dialog-default-primary-button = Nastavi kot privzeti brskalnik
+upgrade-dialog-default-secondary-button = Ne zdaj
+
 ## Theme selection screen
 
 upgrade-dialog-theme-light = Svetla
