@@ -516,6 +516,11 @@ urlbar-placeholder-with-name =
     .placeholder = Voer zoekterm voor { $name } of adres in
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Browser wordt op afstand bestuurd
+# Variables
+#  $component (String): the name of the component which forces remote control.
+#    Example: "DevTools", "Marionette", "RemoteAgent".
+urlbar-remote-control-notification-anchor2 =
+    .tooltiptext = Browser wordt op afstand beheerd (reden: { $component })
 urlbar-permissions-granted =
     .tooltiptext = U hebt deze website aanvullende toestemmingen gegeven.
 urlbar-switch-to-tab =
