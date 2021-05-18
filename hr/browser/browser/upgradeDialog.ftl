@@ -11,6 +11,10 @@
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-new-title = Pozdravi novi { -brand-short-name }
 upgrade-dialog-new-subtitle = Dizajniran da te brže dovede kamo želiš ići
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline
+# style to be automatically added to the text inside it. { -brand-short-name }
+# should stay inside the span.
+upgrade-dialog-new-alt-subtitle = Za početak, neka <span data-l10n-name="zap">{ -brand-short-name }</span> bude udaljen samo jedan klik mišem
 upgrade-dialog-new-item-menu-title = Pojednostavljena alatna traka i izbornici
 upgrade-dialog-new-item-menu-description = Daje prioritet važnim stvarima da pronađeš ono što ti treba.
 upgrade-dialog-new-item-tabs-title = Moderne kartice
@@ -23,6 +27,14 @@ upgrade-dialog-new-primary-default-button = Postavi { -brand-short-name } kao za
 upgrade-dialog-new-primary-pin-button = Prikvači { -brand-short-name } na programsku traku
 upgrade-dialog-new-primary-theme-button = Odaberi temu
 upgrade-dialog-new-secondary-button = Ne sada
+
+## Default browser screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title = Postaviti { -brand-short-name } kao zadani preglednik?
+upgrade-dialog-default-subtitle = Brzina, sigurnost i privatnost svaki put kada surfaš.
+upgrade-dialog-default-primary-button = Postavi kao zadani preglednik
+upgrade-dialog-default-secondary-button = Ne sada
 
 ## Theme selection screen
 
