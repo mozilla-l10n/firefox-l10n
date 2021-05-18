@@ -499,6 +499,11 @@ urlbar-placeholder-with-name =
     .placeholder = Tìm kiếm với { $name } hoặc nhập địa chỉ
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Trình duyệt đang ở trong chế độ truy cập từ xa
+# Variables
+#  $component (String): the name of the component which forces remote control.
+#    Example: "DevTools", "Marionette", "RemoteAgent".
+urlbar-remote-control-notification-anchor2 =
+    .tooltiptext = Trình duyệt đang được điều khiển từ xa (lý do: { $component })
 urlbar-permissions-granted =
     .tooltiptext = Bạn đã cấp cho trang web này các quyền bổ sung.
 urlbar-switch-to-tab =
