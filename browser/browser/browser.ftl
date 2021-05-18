@@ -511,6 +511,11 @@ urlbar-placeholder-with-name =
     .placeholder = Søk med { $name } eller skriv inn adresse
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Nettleseren er under fjernstyring
+# Variables
+#  $component (String): the name of the component which forces remote control.
+#    Example: "DevTools", "Marionette", "RemoteAgent".
+urlbar-remote-control-notification-anchor2 =
+    .tooltiptext = Nettleseren er under fjernkontroll (årsak: { $component })
 urlbar-permissions-granted =
     .tooltiptext = Du har gitt dette nettstedet noen spesialtillatelser.
 urlbar-switch-to-tab =
