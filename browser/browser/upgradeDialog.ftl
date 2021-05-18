@@ -8,7 +8,19 @@
 
 ## New changes screen
 
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline
+# style to be automatically added to the text inside it. { -brand-short-name }
+# should stay inside the span.
+upgrade-dialog-new-alt-subtitle = Luncurkan <span data-l10n-name="zap">{ -brand-short-name }</span> dengan sekali klik
 upgrade-dialog-new-item-tabs-title = Tab nan modern
+
+## Default browser screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title = Jadikan { -brand-short-name } peramban baku Anda?
+upgrade-dialog-default-subtitle = Dapatkan kecepatan, keamanan, dan privasi setiap kali Anda menjelajah.
+upgrade-dialog-default-primary-button = Setel sebagai peramban baku
+upgrade-dialog-default-secondary-button = Jangan sekarang
 
 ## Theme selection screen
 
