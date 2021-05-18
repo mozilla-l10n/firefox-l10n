@@ -10,6 +10,18 @@
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-new-title = Si hei til nye { -brand-short-name }
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline
+# style to be automatically added to the text inside it. { -brand-short-name }
+# should stay inside the span.
+upgrade-dialog-new-alt-subtitle = Start med å gjøre <span data-l10n-name="zap">{ -brand-short-name }</span> tilgjengelig med ett klikk
+
+## Default browser screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title = Gjør { -brand-short-name } til din standardnettleser?
+upgrade-dialog-default-subtitle = Få hastighet, sikkerhet og personvern hver gang du surfer.
+upgrade-dialog-default-primary-button = Velg som standardnettleser
+upgrade-dialog-default-secondary-button = Ikke nå
 
 ## Theme selection screen
 
