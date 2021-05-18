@@ -74,6 +74,13 @@ toolbar-context-menu-remove-extension =
     .label = Ta bort tillägg
     .accesskey = T
 
+## Message headers
+
+message-header-address-in-address-book-icon =
+    .alt = Adressen finns i adressboken
+message-header-address-not-in-address-book-icon =
+    .alt = Adressen finns inte i adressboken
+
 ## Add-on removal warning
 
 # Variables:
