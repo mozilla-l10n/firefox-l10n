@@ -11,6 +11,10 @@
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-new-title = I thoni njatjeta një { -brand-short-name }-i të ri
 upgrade-dialog-new-subtitle = I konceptuar për t’ju shpënë ku doni të shkoni, më shpejt
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline
+# style to be automatically added to the text inside it. { -brand-short-name }
+# should stay inside the span.
+upgrade-dialog-new-alt-subtitle = Nisjani duke e kaluar <span data-l10n-name="zap">{ -brand-short-name }</span> një klikim larg
 upgrade-dialog-new-item-menu-title = Panel dhe menu më të hajthme
 upgrade-dialog-new-item-menu-description = Jepuni përparësi gjërave të rëndësishme, që të gjeni ç’ju duhet.
 upgrade-dialog-new-item-tabs-title = Skeda moderne
@@ -26,6 +30,14 @@ upgrade-dialog-new-secondary-button = Jo tani
 # This string is only shown on Windows 7, where we intentionally suppress the
 # theme selection screen.
 upgrade-dialog-new-primary-win7-button = OK, e mora vesh!
+
+## Default browser screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title = Të bëhet { -brand-short-name }-i shfletuesi juaj parazgjedhje?
+upgrade-dialog-default-subtitle = Përfitoni shpejtësi, siguri dhe privatësi, sa herë që shfletoni.
+upgrade-dialog-default-primary-button = Vëre si shfletuesin parazgjedhje
+upgrade-dialog-default-secondary-button = Jo tani
 
 ## Theme selection screen
 
