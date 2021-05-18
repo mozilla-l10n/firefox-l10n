@@ -75,6 +75,13 @@ toolbar-context-menu-remove-extension =
     .label = Odstrániť rozšírenie
     .accesskey = O
 
+## Message headers
+
+message-header-address-in-address-book-icon =
+    .alt = Adresa sa nachádza v adresári kontaktov
+message-header-address-not-in-address-book-icon =
+    .alt = Adresa sa nenachádza v adresári kontaktov
+
 ## Add-on removal warning
 
 # Variables:
