@@ -15,6 +15,14 @@ upgrade-dialog-new-secondary-button = Ҳоло не
 # theme selection screen.
 upgrade-dialog-new-primary-win7-button = Хуб, фаҳмидам!
 
+## Default browser screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title = Браузери { -brand-short-name }-ро ҳамчун браузери пешфарз таъин мекунед?
+upgrade-dialog-default-subtitle = Ҳар вақте ки шумо бо Интернет кор мекунед, суръат, амният ва махфиятро ба даст оред.
+upgrade-dialog-default-primary-button = Гузоштан ҳамчун браузери пешфарз
+upgrade-dialog-default-secondary-button = Ҳоло не
+
 ## Theme selection screen
 
 upgrade-dialog-theme-system = Мавзӯи низомӣ
