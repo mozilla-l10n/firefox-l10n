@@ -15,7 +15,7 @@ upgrade-dialog-new-subtitle = Utforma for å ta deg dit du vil, raskare
 # style to be automatically added to the text inside it. { -brand-short-name }
 # should stay inside the span.
 upgrade-dialog-new-alt-subtitle = Start med å gjere <span data-l10n-name="zap">{ -brand-short-name }</span> tilgjengeleg med eitt klikk
-upgrade-dialog-new-item-menu-title = Straumlinjeforma verktøyfelt og menyer
+upgrade-dialog-new-item-menu-title = Straumlinjeforma verktøylinje og menyer
 upgrade-dialog-new-item-menu-description = Prioriterer dei viktige tinga slik at du finn det du treng
 upgrade-dialog-new-item-tabs-title = Moderne faner
 upgrade-dialog-new-item-icons-title = Nye ikon og tydelegare meldingar
