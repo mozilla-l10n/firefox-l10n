@@ -11,6 +11,10 @@
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-new-title = Say hullo tae a new { -brand-short-name }
 upgrade-dialog-new-subtitle = Shapit tae get ye whaiur ye want tae gang, faster
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline
+# style to be automatically added to the text inside it. { -brand-short-name }
+# should stay inside the span.
+upgrade-dialog-new-alt-subtitle = Stert by makkin <span data-l10n-name="zap">{ -brand-short-name }</span> anely a click awa
 upgrade-dialog-new-item-menu-title = Pared-doon toolbaur and menus
 upgrade-dialog-new-item-menu-description = Pit the important things tae the front sae ye can airt-oot whit ye need
 upgrade-dialog-new-item-tabs-title = Modern tabs
@@ -27,6 +31,14 @@ upgrade-dialog-new-secondary-button = No jist noo
 # This string is only shown on Windows 7, where we intentionally suppress the
 # theme selection screen.
 upgrade-dialog-new-primary-win7-button = Awricht, got ye!
+
+## Default browser screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title = Mak { -brand-short-name } yer staunart wab-stravaiger?
+upgrade-dialog-default-subtitle = Get speed, siccarness and preevacy onie time ye stravaig.
+upgrade-dialog-default-primary-button = Set as staunart wab-stravaiger
+upgrade-dialog-default-secondary-button = No Jist Noo
 
 ## Theme selection screen
 
