@@ -10,6 +10,10 @@
 
 upgrade-dialog-new-secondary-button = Nkuvi ntañu´u
 
+## Default browser screen
+
+upgrade-dialog-default-secondary-button = Nkuvi ntañu´u
+
 ## Theme selection screen
 
 upgrade-dialog-theme-dark = Teku tun
