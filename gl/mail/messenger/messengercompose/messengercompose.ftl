@@ -117,7 +117,7 @@ button-return-receipt =
     .label = Aviso de recepción
     .tooltiptext = Solicita un aviso de recepción desta mensaxe
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
-consider-bcc-notification = Os destinatarios de { $count } en Para e Cc poden ver os enderezos uns dos outros. Pode evitar divulgar os destinatarios usando no seu lugar Cco.
+consider-bcc-notification = Os { $count } destinatarios en Para e Cc poden ver os enderezos uns dos outros. Pode evitar divulgar os destinatarios usando no seu lugar Cco.
 
 # Addressing Area
 
@@ -151,3 +151,11 @@ bcc-compose-show-address-row-menuitem =
 bcc-compose-show-address-row-label =
     .value = { bcc-compose-address-row-label.value }
     .tooltiptext = Amosar o campo { bcc-compose-address-row-label.value } ({ bcc-compose-show-address-row-menuitem.acceltext })
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+many-public-recipients-info = Os { $count } destinatarios en Para e Cc poden ver os enderezos uns dos outros. Pode evitar divulgar os destinatarios usando no seu lugar Cco.
+many-public-recipients-bcc =
+    .label = Mudar para Cco (con copia oculta)
+    .accesskey = u
+many-public-recipients-ignore =
+    .label = Manter os destinatarios visíbeis
+    .accesskey = M
