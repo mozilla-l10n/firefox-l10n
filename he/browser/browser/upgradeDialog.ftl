@@ -27,6 +27,14 @@ upgrade-dialog-new-secondary-button = לא כעת
 # theme selection screen.
 upgrade-dialog-new-primary-win7-button = בסדר, הבנתי!
 
+## Default browser screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title = להפוך את { -brand-short-name } לדפדפן ברירת המחדל שלך?
+upgrade-dialog-default-subtitle = קבלת מהירות, בטיחות ופרטיות בכל פעם שגולשים ברשת.
+upgrade-dialog-default-primary-button = הגדרה כדפדפן ברירת המחדל
+upgrade-dialog-default-secondary-button = לא כעת
+
 ## Theme selection screen
 
 upgrade-dialog-theme-system = ערכת הנושא של המערכת
