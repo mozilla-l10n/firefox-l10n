@@ -511,6 +511,11 @@ urlbar-placeholder-with-name =
     .placeholder = Tschertgar cun { $name } u endatar in'adressa
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Il navigatur vegn controllà a distanza
+# Variables
+#  $component (String): the name of the component which forces remote control.
+#    Example: "DevTools", "Marionette", "RemoteAgent".
+urlbar-remote-control-notification-anchor2 =
+    .tooltiptext = Il navigatur vegn controllà a distanza (motiv: { $component })
 urlbar-permissions-granted =
     .tooltiptext = Ti has concedì dretgs supplementars a questa pagina.
 urlbar-switch-to-tab =
