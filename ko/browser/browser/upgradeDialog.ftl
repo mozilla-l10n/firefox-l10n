@@ -11,6 +11,10 @@
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-new-title = 새로운 { -brand-short-name }를 만나보세요
 upgrade-dialog-new-subtitle = 원하는 곳으로 더 빨리 이동할 수 있도록 설계됨
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline
+# style to be automatically added to the text inside it. { -brand-short-name }
+# should stay inside the span.
+upgrade-dialog-new-alt-subtitle = 클릭 한 번으로 <span data-l10n-name="zap">{ -brand-short-name }</span> 시작
 upgrade-dialog-new-item-menu-title = 간소화된 도구 모음 및 메뉴
 upgrade-dialog-new-item-menu-description = 중요한 것에 우선순위를 두어서 필요한 것을 찾을 수 있도록 합니다.
 upgrade-dialog-new-item-tabs-title = 현대적인 탭
@@ -27,6 +31,14 @@ upgrade-dialog-new-secondary-button = 나중에
 # This string is only shown on Windows 7, where we intentionally suppress the
 # theme selection screen.
 upgrade-dialog-new-primary-win7-button = 확인
+
+## Default browser screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title = { -brand-short-name }를 기본 브라우저로 설정하시겠습니까?
+upgrade-dialog-default-subtitle = 탐색할 때 속도, 안전 및 개인 정보 보호 기능이 제공됩니다.
+upgrade-dialog-default-primary-button = 기본 브라우저로 설정
+upgrade-dialog-default-secondary-button = 나중에
 
 ## Theme selection screen
 
