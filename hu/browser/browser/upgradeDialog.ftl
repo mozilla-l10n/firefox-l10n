@@ -11,6 +11,10 @@
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-new-title = Köszönjön az új { -brand-short-name }nak
 upgrade-dialog-new-subtitle = Arra tervezve, hogy gyorsabban eljusson oda, ahová szeretne
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline
+# style to be automatically added to the text inside it. { -brand-short-name }
+# should stay inside the span.
+upgrade-dialog-new-alt-subtitle = Kezdje azzal, hogy a <span data-l10n-name="zap">{ -brand-short-name }</span> csak egy kattintásnyira legyen
 upgrade-dialog-new-item-menu-title = Korszerűsített eszköztár és menük
 upgrade-dialog-new-item-menu-description = Priorizálja a fontos dolgokat, hogy megtalálja amire szüksége van.
 upgrade-dialog-new-item-tabs-title = Modern lapok
@@ -27,6 +31,14 @@ upgrade-dialog-new-secondary-button = Most nem
 # This string is only shown on Windows 7, where we intentionally suppress the
 # theme selection screen.
 upgrade-dialog-new-primary-win7-button = Rendben, értem!
+
+## Default browser screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title = A { -brand-short-name } legyen az alapértelmezett böngészője?
+upgrade-dialog-default-subtitle = Szerezzen gyorsaságot, biztonságot és adatvédelmet minden böngészés során.
+upgrade-dialog-default-primary-button = Beállítás alapértelmezett böngészőként
+upgrade-dialog-default-secondary-button = Most nem
 
 ## Theme selection screen
 
