@@ -11,6 +11,10 @@
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-new-title = Witajśo k nowemu { -brand-short-name }
 upgrade-dialog-new-subtitle = Wuwity, aby was tam pśewóźił, źož sćo, malsnjejšy
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline
+# style to be automatically added to the text inside it. { -brand-short-name }
+# should stay inside the span.
+upgrade-dialog-new-alt-subtitle = Zachopśo, aby <span data-l10n-name="zap">{ -brand-short-name }</span> jano jadno kliknjenje zdalony był
 upgrade-dialog-new-item-menu-title = Moderna symbolowa rědka a moderne menije
 upgrade-dialog-new-item-menu-description = Dajśo wažnym wěcam prioritu, aby namakał, což trjebaśo.
 upgrade-dialog-new-item-tabs-title = Moderne rejtariki
@@ -27,6 +31,14 @@ upgrade-dialog-new-secondary-button = Nic něnto
 # This string is only shown on Windows 7, where we intentionally suppress the
 # theme selection screen.
 upgrade-dialog-new-primary-win7-button = W pórěźe, som zrozměł!
+
+## Default browser screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title = { -brand-short-name } k swójomu standardnemu wobglědowakoju cyniś?
+upgrade-dialog-default-subtitle = Dostańśo malsnosć, wěstotu a priwatnosć kuždy raz, gaž pśeglědujośo.
+upgrade-dialog-default-primary-button = Ako standardny wobglědowak nastajiś
+upgrade-dialog-default-secondary-button = Nic něnto
 
 ## Theme selection screen
 
