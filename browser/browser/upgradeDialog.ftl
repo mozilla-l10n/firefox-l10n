@@ -11,6 +11,10 @@
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-new-title = Saludatz lo { -brand-short-name } novèl
 upgrade-dialog-new-subtitle = Concebut per vos menar ont volgatz, encara mai rapidament
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline
+# style to be automatically added to the text inside it. { -brand-short-name }
+# should stay inside the span.
+upgrade-dialog-new-alt-subtitle = Començatz per rendre <span data-l10n-name="zap">{ -brand-short-name }</span> mai facilament accessible
 upgrade-dialog-new-item-menu-title = Barras d’aisinas e menús simplificats
 upgrade-dialog-new-item-menu-description = Triatz las causas que volètz trobar quand vos fan mestièr.
 upgrade-dialog-new-item-tabs-title = Onglets modèrns
@@ -27,6 +31,14 @@ upgrade-dialog-new-secondary-button = Pas ara
 # This string is only shown on Windows 7, where we intentionally suppress the
 # theme selection screen.
 upgrade-dialog-new-primary-win7-button = D’acòrdi, plan comprés !
+
+## Default browser screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title = Definir { -brand-short-name } coma navegador per defaut ?
+upgrade-dialog-default-subtitle = Velocitat, seguretat e confidencialitat cada còp que navegatz.
+upgrade-dialog-default-primary-button = Definir coma navegador per defaut
+upgrade-dialog-default-secondary-button = Pas ara
 
 ## Theme selection screen
 
