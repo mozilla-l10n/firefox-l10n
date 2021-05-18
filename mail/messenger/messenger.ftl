@@ -74,6 +74,13 @@ toolbar-context-menu-remove-extension =
     .label = Utwreiding fuortsmite
     .accesskey = f
 
+## Message headers
+
+message-header-address-in-address-book-icon =
+    .alt = Adres stiet yn it adresboek
+message-header-address-not-in-address-book-icon =
+    .alt = Adres stiet net yn it adresboek
+
 ## Add-on removal warning
 
 # Variables:
