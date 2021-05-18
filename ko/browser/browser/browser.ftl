@@ -499,6 +499,11 @@ urlbar-placeholder-with-name =
     .placeholder = { $name } 검색 또는 주소 입력
 urlbar-remote-control-notification-anchor =
     .tooltiptext = 브라우저가 원격 제어중
+# Variables
+#  $component (String): the name of the component which forces remote control.
+#    Example: "DevTools", "Marionette", "RemoteAgent".
+urlbar-remote-control-notification-anchor2 =
+    .tooltiptext = 브라우저가 원격 제어 중입니다 (이유: { $component })
 urlbar-permissions-granted =
     .tooltiptext = 이 웹 사이트에 추가 권한을 부여했습니다.
 urlbar-switch-to-tab =
