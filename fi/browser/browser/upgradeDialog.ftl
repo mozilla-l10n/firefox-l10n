@@ -18,6 +18,11 @@ upgrade-dialog-new-primary-pin-button = Kiinnitä { -brand-short-name } tehtäv�
 upgrade-dialog-new-primary-theme-button = Valitse teema
 upgrade-dialog-new-secondary-button = Ei nyt
 
+## Default browser screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title = Asetetaanko { -brand-short-name } oletusselaimeksi?
+
 ## Theme selection screen
 
 # This title can be explicitly wrapped to control which words are on which line.
