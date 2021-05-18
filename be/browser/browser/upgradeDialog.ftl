@@ -11,6 +11,10 @@
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-new-title = Павітайцеся з новым { -brand-short-name }
 upgrade-dialog-new-subtitle = Створаны, каб хутчэй даставіць вас туды, куды вы хочаце
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline
+# style to be automatically added to the text inside it. { -brand-short-name }
+# should stay inside the span.
+upgrade-dialog-new-alt-subtitle = Пачніце, размясціўшы <span data-l10n-name="zap">{ -brand-short-name }</span> на адлегласці пстрыку
 upgrade-dialog-new-item-menu-title = Аптымізаванае меню і панэль інструментаў
 upgrade-dialog-new-item-menu-description = Вызначце прыярытэт важных рэчаў, каб знайсці тое, што вам трэба.
 upgrade-dialog-new-item-tabs-title = Сучасныя карткі
@@ -27,6 +31,14 @@ upgrade-dialog-new-secondary-button = Не зараз
 # This string is only shown on Windows 7, where we intentionally suppress the
 # theme selection screen.
 upgrade-dialog-new-primary-win7-button = Добра, зразумела!
+
+## Default browser screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title = Зрабіць { -brand-short-name } вашым прадвызначаным браўзерам?
+upgrade-dialog-default-subtitle = Атрымайце хуткасць, бяспеку і прыватнасць пры кожным праглядзе.
+upgrade-dialog-default-primary-button = Зрабіць прадвызначаным браўзерам
+upgrade-dialog-default-secondary-button = Не зараз
 
 ## Theme selection screen
 
