@@ -73,6 +73,13 @@ toolbar-context-menu-remove-extension =
     .label = 移除擴充套件
     .accesskey = v
 
+## Message headers
+
+message-header-address-in-address-book-icon =
+    .alt = 在通訊錄中的地址
+message-header-address-not-in-address-book-icon =
+    .alt = 不在通訊錄中的地址
+
 ## Add-on removal warning
 
 # Variables:
