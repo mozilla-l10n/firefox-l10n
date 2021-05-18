@@ -74,6 +74,13 @@ toolbar-context-menu-remove-extension =
     .label = Extensie verwijderen
     .accesskey = v
 
+## Message headers
+
+message-header-address-in-address-book-icon =
+    .alt = Adres staat in het adresboek
+message-header-address-not-in-address-book-icon =
+    .alt = Adres staat niet in het adresboek
+
 ## Add-on removal warning
 
 # Variables:

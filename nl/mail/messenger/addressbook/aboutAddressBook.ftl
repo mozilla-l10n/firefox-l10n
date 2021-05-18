@@ -37,6 +37,26 @@ about-addressbook-search-all =
     .placeholder = Alle adresboeken doorzoeken
 about-addressbook-name-format-display =
     .label = Weergavenaam
+about-addressbook-name-format-firstlast =
+    .label = Voornaam Achternaam
+about-addressbook-name-format-lastfirst =
+    .label = Achternaam, Voornaam
+about-addressbook-sort-name-ascending =
+    .label = Sorteren op naam (A > Z)
+about-addressbook-sort-name-descending =
+    .label = Sorteren op naam (Z > A)
+about-addressbook-sort-email-ascending =
+    .label = Sorteren op e-mailadres (A > Z)
+about-addressbook-sort-email-descending =
+    .label = Sorteren op e-mailadres (Z > A)
 
 ## Details
 
+about-addressbook-begin-edit-contact-button = Bewerken
+about-addressbook-cancel-edit-contact-button = Annuleren
+about-addressbook-save-edit-contact-button = Opslaan
+about-addressbook-details-email-addresses-header = E-mailadressen
+about-addressbook-details-phone-numbers-header = Telefoonnummers
+about-addressbook-details-home-address-header = Adres
+about-addressbook-details-work-address-header = Werkadres
+about-addressbook-details-other-info-header = Andere informatie
