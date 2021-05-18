@@ -76,6 +76,13 @@ toolbar-context-menu-remove-extension =
     .label = Odstrani razširitev
     .accesskey = s
 
+## Message headers
+
+message-header-address-in-address-book-icon =
+    .alt = Naslov je v imeniku
+message-header-address-not-in-address-book-icon =
+    .alt = Naslova ni v imeniku
+
 ## Add-on removal warning
 
 # Variables:
