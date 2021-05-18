@@ -11,6 +11,10 @@
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-new-title = Πείτε γεια στο νέο { -brand-short-name }
 upgrade-dialog-new-subtitle = Σχεδιάστηκε για να σας μεταφέρει εκεί που θέλετε, γρηγορότερα
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline
+# style to be automatically added to the text inside it. { -brand-short-name }
+# should stay inside the span.
+upgrade-dialog-new-alt-subtitle = Ξεκινήστε κάνοντας το <span data-l10n-name="zap">{ -brand-short-name }</span> προσβάσιμο με ένα κλικ
 upgrade-dialog-new-item-menu-title = Βελτιωμένη γραμμή εργαλείων και μενού
 upgrade-dialog-new-item-menu-description = Δώστε προτεραιότητα στα πιο σημαντικά πράγματα.
 upgrade-dialog-new-item-tabs-title = Σύγχρονες καρτέλες
@@ -26,6 +30,14 @@ upgrade-dialog-new-secondary-button = Όχι τώρα
 # This string is only shown on Windows 7, where we intentionally suppress the
 # theme selection screen.
 upgrade-dialog-new-primary-win7-button = Εντάξει, το κατάλαβα!
+
+## Default browser screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title = Ορισμός { -brand-short-name } ως προεπιλεγμένου προγράμματος περιήγησης;
+upgrade-dialog-default-subtitle = Ταχύτητα, ασφάλεια και ιδιωτικότητα σε κάθε περιήγησή σας.
+upgrade-dialog-default-primary-button = Ορισμός ως προεπιλεγμένο πρόγραμμα περιήγησης
+upgrade-dialog-default-secondary-button = Όχι τώρα
 
 ## Theme selection screen
 
