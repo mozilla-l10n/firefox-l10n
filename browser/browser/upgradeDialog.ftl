@@ -2,7 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 ### Strings for the upgrade dialog that can be displayed on major version change.
+
 
 ## New changes screen
 
@@ -11,6 +13,10 @@ upgrade-dialog-new-title =
     Dai il benvenuto a un
     nuovo { -brand-short-name }
 upgrade-dialog-new-subtitle = Progettato per portarti dove ti serve, alla massima velocità.
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline
+# style to be automatically added to the text inside it. { -brand-short-name }
+# should stay inside the span.
+upgrade-dialog-new-alt-subtitle = Inizia mettendo <span data-l10n-name="zap">{ -brand-short-name }</span> a portata di mouse
 upgrade-dialog-new-item-menu-title = Barra degli strumenti e menu più semplici
 upgrade-dialog-new-item-menu-description = Priorità agli elementi più importanti, così potrai trovare al volo ciò che ti serve.
 upgrade-dialog-new-item-tabs-title = Schede moderne
@@ -27,6 +33,14 @@ upgrade-dialog-new-secondary-button = Non adesso
 # This string is only shown on Windows 7, where we intentionally suppress the
 # theme selection screen.
 upgrade-dialog-new-primary-win7-button = OK, tutto chiaro
+
+## Default browser screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title = Impostare { -brand-short-name } come browser predefinito?
+upgrade-dialog-default-subtitle = Velocità, sicurezza e privacy sempre garantiti quando navighi online.
+upgrade-dialog-default-primary-button = Imposta come browser predefinito
+upgrade-dialog-default-secondary-button = Non adesso
 
 ## Theme selection screen
 
