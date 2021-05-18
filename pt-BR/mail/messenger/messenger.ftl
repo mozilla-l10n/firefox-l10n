@@ -74,6 +74,13 @@ toolbar-context-menu-remove-extension =
     .label = Remover extensão
     .accesskey = v
 
+## Message headers
+
+message-header-address-in-address-book-icon =
+    .alt = O endereço está no catálogo de endereços
+message-header-address-not-in-address-book-icon =
+    .alt = O endereço não está no catálogo de endereços
+
 ## Add-on removal warning
 
 # Variables:
