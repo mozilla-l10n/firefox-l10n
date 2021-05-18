@@ -11,6 +11,10 @@
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-new-title = Ini azul i { -brand-short-name } amaynut
 upgrade-dialog-new-subtitle = Yettufeṣṣel i wakken ak·akem-yawi sani tebɣiḍ, s urured
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline
+# style to be automatically added to the text inside it. { -brand-short-name }
+# should stay inside the span.
+upgrade-dialog-new-alt-subtitle = Bdu s tririt <span data-l10n-name="zap">{ -brand-short-name } s usiti kan
 upgrade-dialog-new-item-menu-title = Afeggag n yifecka d wumuɣen ttwasifssen
 upgrade-dialog-new-item-tabs-title = Accaren atraren
 upgrade-dialog-new-primary-primary-button = Err { -brand-short-name } d iminig-iw agejdan
@@ -22,6 +26,13 @@ upgrade-dialog-new-secondary-button = Mačči tura
 # This string is only shown on Windows 7, where we intentionally suppress the
 # theme selection screen.
 upgrade-dialog-new-primary-win7-button = Ih, awi-t!
+
+## Default browser screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title = Err { -brand-short-name } diminig-ik·im amezwer?
+upgrade-dialog-default-subtitle = Inig yal tikkelt s urured, s uḍman d tbaḍnit.
+upgrade-dialog-default-primary-button = Sbadu-t d iminig amezwer
 
 ## Theme selection screen
 
