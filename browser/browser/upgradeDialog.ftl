@@ -11,6 +11,10 @@
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-new-title = Dígale hola a un nuevo { -brand-short-name }
 upgrade-dialog-new-subtitle = Diseñado para ir a dónde quiera, más rápido
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline
+# style to be automatically added to the text inside it. { -brand-short-name }
+# should stay inside the span.
+upgrade-dialog-new-alt-subtitle = Empiece por hacer <span data-l10n-name="zap">{ -brand-short-name }</span> a un clic de distancia
 upgrade-dialog-new-item-menu-title = Barra de herramientas y menús optimizados
 upgrade-dialog-new-item-menu-description = Priorizando las cosas importantes para que encuentre lo que necesite.
 upgrade-dialog-new-item-tabs-title = Pestañas modernas
@@ -27,6 +31,9 @@ upgrade-dialog-new-secondary-button = No ahora
 # This string is only shown on Windows 7, where we intentionally suppress the
 # theme selection screen.
 upgrade-dialog-new-primary-win7-button = ¡De acuerdo, entendido!
+
+## Default browser screen
+
 
 ## Theme selection screen
 
