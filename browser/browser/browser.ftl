@@ -511,6 +511,11 @@ urlbar-placeholder-with-name =
     .placeholder = Sök med { $name } eller ange adress
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Webbläsaren är fjärrstyrd
+# Variables
+#  $component (String): the name of the component which forces remote control.
+#    Example: "DevTools", "Marionette", "RemoteAgent".
+urlbar-remote-control-notification-anchor2 =
+    .tooltiptext = Webbläsaren är fjärrstyrd (orsak: { $component })
 urlbar-permissions-granted =
     .tooltiptext = Du har beviljat denna webbplats ytterligare behörigheter.
 urlbar-switch-to-tab =
