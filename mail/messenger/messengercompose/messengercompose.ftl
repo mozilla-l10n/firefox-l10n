@@ -136,10 +136,30 @@ consider-bcc-notification = Prejemniki v poljih Za in Kp ({ $count }) lahko vidi
 
 to-compose-address-row-label =
     .value = Za
+#   $key (String) - the shortcut key for this field
+to-compose-show-address-row-menuitem =
+    .label = Polje { to-compose-address-row-label.value }
+    .accesskey = Z
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+to-compose-show-address-row-label =
+    .value = { to-compose-address-row-label.value }
+    .tooltiptext = Prikaži polje { to-compose-address-row-label.value } ({ to-compose-show-address-row-menuitem.acceltext })
 cc-compose-address-row-label =
     .value = Kp
+#   $key (String) - the shortcut key for this field
+cc-compose-show-address-row-menuitem =
+    .label = Polje { cc-compose-address-row-label.value }
+    .accesskey = K
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
 bcc-compose-address-row-label =
     .value = Skp
+#   $key (String) - the shortcut key for this field
+bcc-compose-show-address-row-menuitem =
+    .label = Polje { bcc-compose-address-row-label.value }
+    .accesskey = S
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+many-public-recipients-info = Prejemniki v poljih Za in Kp ({ $count }) bodo videli naslove drug drugega. Prejemnike lahko prikrijete tako, da uporabite polje Skp.
 many-public-recipients-bcc =
     .label = Raje uporabi Skp
     .accesskey = S
