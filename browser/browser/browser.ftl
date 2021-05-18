@@ -526,6 +526,11 @@ urlbar-placeholder-with-name =
     .placeholder = Pytajće z { $name } abo zapodajće adresu
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Wobhladowak so zdaloka wodźi
+# Variables
+#  $component (String): the name of the component which forces remote control.
+#    Example: "DevTools", "Marionette", "RemoteAgent".
+urlbar-remote-control-notification-anchor2 =
+    .tooltiptext = Wobhladowak so daloko wodźi (přičina: { $component })
 urlbar-permissions-granted =
     .tooltiptext = Sće tutomu websydłu přidatne prawa dał.
 urlbar-switch-to-tab =
