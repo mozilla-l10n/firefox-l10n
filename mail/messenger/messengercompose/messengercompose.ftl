@@ -117,6 +117,8 @@ move-attachment-last-panel-button =
 button-return-receipt =
     .label = Confirmação
     .tooltiptext = Solicitar uma confirmação de leitura desta mensagem
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+consider-bcc-notification = Os { $count } destinatários em Para e Cc podem ver os endereços uns dos outros. Você pode evitar revelar destinatários mudando para Cco.
 
 # Addressing Area
 
@@ -151,7 +153,7 @@ bcc-compose-show-address-row-label =
     .value = { bcc-compose-address-row-label.value }
     .tooltiptext = Exibir campo { bcc-compose-address-row-label.value } ({ bcc-compose-show-address-row-menuitem.acceltext })
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
-consider-bcc-notification = Os { $count } destinatários em Para e Cc podem ver os endereços uns dos outros. Você pode evitar revelar destinatários mudando para Cco.
+many-public-recipients-info = Os { $count } destinatários em Para e Cc irão ver os endereços uns dos outros. Você pode evitar revelar destinatários usando Cco.
 many-public-recipients-bcc =
     .label = Mudar para Cco (com cópia oculta)
     .accesskey = u
