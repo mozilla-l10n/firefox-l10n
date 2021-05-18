@@ -11,6 +11,10 @@
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-new-title = Emomaitei { -brand-short-name } pyahúpe
 upgrade-dialog-new-subtitle = Ojejapo oje’ói hag̃ua ohosehápe, pya’eve
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline
+# style to be automatically added to the text inside it. { -brand-short-name }
+# should stay inside the span.
+upgrade-dialog-new-alt-subtitle = Eñepyrũ ejapo <span data-l10n-name="zap">{ -brand-short-name }</span> peteĩ jekutúpe
 upgrade-dialog-new-item-menu-title = Tembipuru renda ha poravorã oikoitéva
 upgrade-dialog-new-item-menu-description = Emotenonde umi mba’e emomba’evéva ejuhu hag̃ua eikotevẽva.
 upgrade-dialog-new-item-tabs-title = Tendayke ag̃aguáva
@@ -26,6 +30,14 @@ upgrade-dialog-new-secondary-button = Ani ko’ág̃a
 # This string is only shown on Windows 7, where we intentionally suppress the
 # theme selection screen.
 upgrade-dialog-new-primary-win7-button = ¡Ok, arekóma!
+
+## Default browser screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title = Ejapo { -brand-short-name }-gui ne kundaha ypyguávarõ
+upgrade-dialog-default-subtitle = Erekosépa ipya’e, hekorosã ha hekoñemíva eikundaha vove.
+upgrade-dialog-default-primary-button = Ejapo kundahára ijypyguávarõ
+upgrade-dialog-default-secondary-button = Ani ko’ág̃a
 
 ## Theme selection screen
 
