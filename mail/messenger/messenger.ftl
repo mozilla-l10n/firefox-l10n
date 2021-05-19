@@ -76,6 +76,15 @@ toolbar-context-menu-remove-extension =
 
 ## Message headers
 
+message-header-address-in-address-book-icon =
+    .alt = O enderezo está na axenda de enderezos
+message-header-address-not-in-address-book-icon =
+    .alt = O enderezo non está na axenda de enderezos
 
 ## Add-on removal warning
 
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = Retirar { $name }?
+addon-removal-confirmation-button = Retirar
+addon-removal-confirmation-message = Quere eliminar { $name } xunto coa súa configuración e datos do { -brand-short-name }?
