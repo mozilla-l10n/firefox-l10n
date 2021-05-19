@@ -27,6 +27,7 @@ openpgp-missing-signature-key = Mezu hau jada ez daukazun gako batekin sinatu ze
 openpgp-search-signature-key =
     .label = Aurkitu…
 # Don't translate the terms "OpenPGP" and "MS-Exchange"
+openpgp-broken-exchange-opened = Hau OpenPGP mezu bat da, non badirudi MS-Exchangek ondatu duela eta ezin da konpondu fitxategi lokal batetik ireki delako. Kopiatu mezua posta karpeta baten eta saiatu automatikoki konpontzen.
 openpgp-broken-exchange-info = Hau OpenPGP mezu bat da itxuraz MS-Exchange hondatu duena. Mezuaren edukia ez bada ikusten espero bezala, konponketa automatikoa proba dezakezu.
 openpgp-broken-exchange-repair =
     .label = Konpondu mezua

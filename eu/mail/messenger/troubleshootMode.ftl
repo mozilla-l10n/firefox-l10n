@@ -13,3 +13,20 @@ troubleshoot-mode-disable-addons =
 troubleshoot-mode-reset-toolbars =
     .label = Garbitu tresna-barra eta kontrolak
     .accesskey = G
+troubleshoot-mode-change-and-restart =
+    .label = Aldaketak egin eta berrabiarazi
+    .accesskey = A
+troubleshoot-mode-continue =
+    .label = Jarraitu arazoak konpontzeko moduan
+    .accesskey = J
+troubleshoot-mode-quit =
+    .label =
+        { PLATFORM() ->
+            [windows] Irten
+           *[other] Irten
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] I
+           *[other] I
+        }
