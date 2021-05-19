@@ -75,6 +75,13 @@ toolbar-context-menu-remove-extension =
     .label = Удалить расширение
     .accesskey = л
 
+## Message headers
+
+message-header-address-in-address-book-icon =
+    .alt = Этот адрес есть в Адресной книге
+message-header-address-not-in-address-book-icon =
+    .alt = Этого адреса нет в Адресной книге
+
 ## Add-on removal warning
 
 # Variables:
