@@ -5,18 +5,16 @@
 otr-finger =
     .buttonlabelaccept = Itxi
     .title = Aurretik ikusitako OTR hatz-markak
-
 finger-intro = OTR hatz-marka gakoa aurreko muturretik muturrera zifratutako elkarrizketena.
-
 finger-screenName =
+    .label = Kontaktua
+finger-screen-name =
     .label = Kontaktua
 finger-verified =
     .label = Egiaztapen egoera
 finger-fingerprint =
     .label = Hatz-marka
-
 finger-remove =
     .label = Kendu hautatutakoak
-
 finger-remove-all =
     .label = Kendu denak

@@ -4,3 +4,5 @@
 
 account-settingsTitle = Autentifikazio ezarpenak
 account-channelTitle = Kanal lehenetsiak
+account-settings-title = Autentifikazio ezarpenak
+account-channel-title = Kanal lehenetsiak
