@@ -6,6 +6,8 @@ about-addressbook-title = Rubrica
 
 ## Toolbar
 
+about-addressbook-toolbar-new-address-book =
+    .label = Nuova rubrica
 about-addressbook-toolbar-new-carddav-address-book =
     .label = Nuova rubrica CardDAV
 about-addressbook-toolbar-new-ldap-address-book =
@@ -27,6 +29,10 @@ about-addressbook-books-context-delete =
 
 ## Cards
 
+# Variables:
+# $name (String) - Name of the address book that will be searched.
+about-addressbook-search =
+    .placeholder = Cerca in { $name }
 about-addressbook-search-all =
     .placeholder = Cerca in tutte le rubriche
 about-addressbook-name-format-display =
