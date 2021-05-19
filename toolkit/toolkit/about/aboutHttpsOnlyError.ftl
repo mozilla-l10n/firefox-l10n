@@ -21,3 +21,11 @@ about-httpsonly-explanation-continue = Ako nastavite, način rada "samo HTTPS" b
 about-httpsonly-button-continue-to-site = Nastavi na stranicu preko HTTP-a
 about-httpsonly-button-go-back = Idi natrag
 about-httpsonly-link-learn-more = Saznaj više…
+
+## Suggestion Box that only shows up if a secure connection to www can be established
+## Variables:
+##   $websiteUrl (String) - Url of the website that can be securely loded with these alternatives. Example: example.com
+
+about-httpsonly-suggestion-box-header = Moguća alternativa
+about-httpsonly-suggestion-box-www-text = Postoji sigurna verzija stranice <em>www.{ $websiteUrl }</em>. Možeš posjetiti tu stranicu umjesto <em>{ $websiteUrl }</em>.
+about-httpsonly-suggestion-box-www-button = Idi na www.{ $websiteUrl }

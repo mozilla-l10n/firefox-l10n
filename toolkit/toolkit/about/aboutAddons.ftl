@@ -10,6 +10,7 @@ search-header =
     .searchbuttonlabel = Traži
 search-header-shortcut =
     .key = f
+list-empty-get-extensions-message = Nabavi proširenja i teme na <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-installed =
     .value = Nemate instaliran nijedan dodatak ove vrste
 list-empty-available-updates =
@@ -34,6 +35,9 @@ sidebar-preferences-button-title =
             [windows] Mogućnosti za { -brand-short-name }
            *[other] Postavke za { -brand-short-name }
         }
+addons-settings-button = Postavke { -brand-short-name(case: "gen") }
+sidebar-settings-button-title =
+    .title = Postavke { -brand-short-name(case: "gen") }
 show-unsigned-extensions-button =
     .label = Neka proširenja nisu mogla biti verificirana
 show-all-extensions-button =
@@ -380,9 +384,6 @@ addon-detail-private-browsing-disallow = Nemoj dozvoliti
 addon-badge-recommended2 =
     .title = { -brand-product-name } preporučuje samo proširenja koja udovoljavaju našim standardima za sigurnost i performanse
     .aria-label = { addon-badge-recommended2.title }
-addon-badge-line2 =
-    .title = Ovo je službeno proširenje koje su stvorili tvorci { -brand-product-name }a
-    .aria-label = { addon-badge-line2.title }
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =

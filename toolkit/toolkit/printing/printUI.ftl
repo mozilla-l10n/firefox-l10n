@@ -39,7 +39,6 @@ printui-scale-fit-to-page-width = Prilagodi širini stranice
 printui-scale-pcent = Mjerilo
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Obostrani ispis
-printui-duplex-checkbox = Ispis s obje strane
 printui-two-sided-printing-off = Isključeno
 # Flip the sheet as if it were bound along its long edge.
 printui-two-sided-printing-long-edge = Preokreni na dužem rubu
@@ -58,14 +57,19 @@ printui-margins-default = Zadano
 printui-margins-min = Minimalno
 printui-margins-none = Bez
 printui-margins-custom-inches = Prilagođeno (inči)
+printui-margins-custom-mm = Prilagođeno (mm)
 printui-margins-custom-top = Vrh
 printui-margins-custom-top-inches = Vrh (inči)
+printui-margins-custom-top-mm = Vrh (mm)
 printui-margins-custom-bottom = Dno
 printui-margins-custom-bottom-inches = Dno (inči)
+printui-margins-custom-bottom-mm = Dno (mm)
 printui-margins-custom-left = Lijevo
 printui-margins-custom-left-inches = Lijevo (inči)
+printui-margins-custom-left-mm = Lijevo (mm)
 printui-margins-custom-right = Desno
 printui-margins-custom-right-inches = Desno (inči)
+printui-margins-custom-right-mm = Desno (mm)
 printui-system-dialog-link = Ispiši pomoću sistemskog dijaloškog prozora…
 printui-primary-button = Ispiši
 printui-primary-button-save = Spremi
