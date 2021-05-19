@@ -25,6 +25,7 @@ upgrade-dialog-new-primary-primary-button = Definir { -brand-short-name } sco me
     .title = Definescha { -brand-short-name } sco navigatur da standard ed al fixescha en la taskbar
 upgrade-dialog-new-primary-default-button = Definir { -brand-short-name } sco mes navigatur da standard
 upgrade-dialog-new-primary-pin-button = Fixar { -brand-short-name } en la taskbar
+upgrade-dialog-new-primary-pin-alt-button = Fixar en la taskbar
 upgrade-dialog-new-primary-theme-button = Tscherner in design
 upgrade-dialog-new-secondary-button = Betg ussa
 # This string is only shown on Windows 7, where we intentionally suppress the
