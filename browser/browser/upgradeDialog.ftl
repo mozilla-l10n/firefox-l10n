@@ -20,6 +20,8 @@ upgrade-dialog-new-item-menu-description = Memprioritaskan hal-hal penting sehin
 upgrade-dialog-new-item-tabs-title = Tab nan modern
 upgrade-dialog-new-item-icons-title = Ikon yang segar, serta pesan yang lebih jelas
 upgrade-dialog-new-item-icons-description = Membantu Anda menemukan jalan dengan sentuhan yang lebih ringan.
+upgrade-dialog-new-primary-primary-button = Jadikan { -brand-short-name } peramban utama saya
+    .title = Jadikan { -brand-short-name } sebagai peramban baku dan sematkan ke bilah tugas
 upgrade-dialog-new-primary-default-button = Jadikan { -brand-short-name } peramban baku Anda?
 upgrade-dialog-new-primary-pin-button = Sematkan { -brand-short-name } ke bilah tugas saya
 upgrade-dialog-new-primary-pin-alt-button = Sematkan ke bilah tugas
@@ -43,5 +45,15 @@ upgrade-dialog-default-secondary-button = Jangan sekarang
 upgrade-dialog-theme-title =
     Dapatkan awal yang bersih
     dengan tema yang diperbarui
+upgrade-dialog-theme-system = Tema sistem
+    .title = Ikuti tema sistem operasi untuk tombol, menu, dan jendela.
+upgrade-dialog-theme-light = Terang
+    .title = Gunakan tampilan terang untuk tombol, menu, dan jendela.
+upgrade-dialog-theme-dark = Gelap
+    .title = Gunakan tampilan gelap untuk tombol, menu, dan jendela.
+upgrade-dialog-theme-alpenglow = Alpenglow
+    .title = Gunakan tampilan dinamis berwarna untuk tombol, menu, dan jendela.
+upgrade-dialog-theme-keep = Pertahankan sebelumnya
+    .title = Gunakan tema yang pernah Anda instal sebelum memperbarui { -brand-short-name }
 upgrade-dialog-theme-primary-button = Simpan tema
 upgrade-dialog-theme-secondary-button = Jangan sekarang

@@ -19,6 +19,10 @@ experimental-features-media-avif =
 experimental-features-media-avif-description = Jika fitur ini diaktifkan, { -brand-short-name } akan mendukung format Berkas Gambar AV1 (AVIF). Ini adalah format berkas gambar diam yang memanfaatkan kemampuan algoritme kompresi video AV1 untuk mengurangi ukuran gambar. Lihat <a data-l10n-name="bugzilla">bug 1443863</a> untuk detail lebih lanjut.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
+experimental-features-media-jxl =
+    .label = Media: JPEG XL
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
     .label = API Web: inputmode
 # "inputmode" and "contenteditable" are technical terms and shouldn't be translated.
@@ -64,6 +68,9 @@ experimental-features-devtools-serviceworker-debugger-support-description = Meng
 experimental-features-webrtc-global-mute-toggles =
     .label = Aktifkan/Nonaktifkan Kesenyapan WebRTC Global
 experimental-features-webrtc-global-mute-toggles-description = Tambahkan kontrol ke indikator berbagi global WebRTC yang memungkinkan pengguna menonaktfikan suara mikrofon dan umpan kamera secara global.
+# Win32k Lockdown
+experimental-features-win32k-lockdown =
+    .label = Win32k Lockdown
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
