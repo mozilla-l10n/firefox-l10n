@@ -7,3 +7,16 @@ default-browser-notification-message = <strong>Nastawić aplikacyjo { -brand-sho
 default-browser-notification-button =
     .label = Nastow za bazowo
     .accesskey = N
+
+## These strings are used for the default browser prompt. There are 2 variations
+## depending on the operating system (Windows vs other). The checkbox label and
+## secondary button are shared between the variants.
+
+default-browser-prompt-title-pin = Nastawić aplikacyjo { -brand-short-name } za bazowo przeglōndarka?
+default-browser-prompt-message-pin = Snadnie używej aplikacyje { -brand-short-name } — nastow jōm za swoja bazowo przeglōndarka i przipnij se jōm do poska z zadaniami.
+default-browser-prompt-button-primary-pin = Nastow bazowo przeglōndarka
+default-browser-prompt-title-alt = Nastawić aplikacyjo { -brand-short-name } za bazowo przeglōndarka?
+default-browser-prompt-message-alt = Miyj gibkość, bezpieczyństwo a ôchrōna prywatności przi kożdym przeglōndaniu neca.
+default-browser-prompt-button-primary-alt = Nastow za bazowo przeglōndarka
+default-browser-prompt-checkbox-not-again-label = Niy pokazuj już tyj wiadōmości
+default-browser-prompt-button-secondary = Niy teroz

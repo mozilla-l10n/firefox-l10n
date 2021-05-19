@@ -10,4 +10,4 @@ account-finish-account-setup = Dokōńcz sztalować kōnto
 account-reconnect-to-fxa = Kōnto je rozłōnczōne
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
-account-disconnected = Rozłōnczyło cie
+account-disconnected2 = Kōnto je rozłōnczōne
