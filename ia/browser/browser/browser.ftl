@@ -511,6 +511,11 @@ urlbar-placeholder-with-name =
     .placeholder = Cerca con { $name } o insere adresse
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Le navigator es sub controlo remote
+# Variables
+#  $component (String): the name of the component which forces remote control.
+#    Example: "DevTools", "Marionette", "RemoteAgent".
+urlbar-remote-control-notification-anchor2 =
+    .tooltiptext = Le navigator es sub controlo remote (ration: { $component })
 urlbar-permissions-granted =
     .tooltiptext = Tu ha concedite permissiones additional a iste sito web.
 urlbar-switch-to-tab =
