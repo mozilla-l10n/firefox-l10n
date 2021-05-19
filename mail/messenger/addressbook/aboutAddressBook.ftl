@@ -35,6 +35,28 @@ about-addressbook-search =
     .placeholder = Поиск в { $name }
 about-addressbook-search-all =
     .placeholder = Поиск во всех адресных книгах
+about-addressbook-name-format-display =
+    .label = Отображаемое имя
+about-addressbook-name-format-firstlast =
+    .label = Первый Последний
+about-addressbook-name-format-lastfirst =
+    .label = Последний, Первый
+about-addressbook-sort-name-ascending =
+    .label = Сортировать по имени (от А до Я)
+about-addressbook-sort-name-descending =
+    .label = Сортировать по имени (от Я до А)
+about-addressbook-sort-email-ascending =
+    .label = Сортировать по адресу эл. почты (от A до Z)
+about-addressbook-sort-email-descending =
+    .label = Сортировать по адресу эл. почты (от Z до A)
 
 ## Details
 
+about-addressbook-begin-edit-contact-button = Изменить
+about-addressbook-cancel-edit-contact-button = Отмена
+about-addressbook-save-edit-contact-button = Сохранить
+about-addressbook-details-email-addresses-header = Адреса электронной почты
+about-addressbook-details-phone-numbers-header = Телефонные номера
+about-addressbook-details-home-address-header = Домашний адрес
+about-addressbook-details-work-address-header = Рабочий адрес
+about-addressbook-details-other-info-header = Дополнительная информация
