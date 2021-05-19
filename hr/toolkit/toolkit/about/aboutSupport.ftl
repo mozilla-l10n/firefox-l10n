@@ -129,10 +129,12 @@ sandbox-sys-call-number = Poziv sustava
 sandbox-sys-call-args = Argumenti
 safe-mode-title = Pokušaj siguran način rada
 restart-in-safe-mode-label = Ponovo pokreni s isključenim dodacima …
+troubleshoot-mode-title = Dijagnosticiranje problema
+restart-in-troubleshoot-mode-label = Način rada za rješavanje problema…
 clear-startup-cache-title = Pokušaj poništiti predmemoriju pokretanja
 clear-startup-cache-label = Poništi predmemoriju pokretanja …
-startup-cache-dialog-title = Poništi predmemoriju pokretanja
-startup-cache-dialog-body = Za poništavanje predmemorije pokretanja, ponovo pokreni { -brand-short-name }. Ovo neće promijeniti tvoje { -brand-short-name } postavke niti ukloniti dodana proširenja.
+startup-cache-dialog-title2 = Ponovno pokrenuti { -brand-short-name } za čišćenje predmemorije pokretanja?
+startup-cache-dialog-body2 = Ovo neće promijeniti tvoje postavke ni ukloniti proširenja.
 restart-button-label = Pokreni ponovo
 
 ## Media titles
