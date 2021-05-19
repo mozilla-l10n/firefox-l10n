@@ -68,6 +68,8 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
+<!ENTITY exitDOMFullscreen.button "Баромад аз экрани пурра (Esc)">
+<!ENTITY exitDOMFullscreenMac.button "Баромад аз экрани пурра (esc)">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -205,6 +207,8 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fullZoom.label                 "Танзими андоза">
 
 
+<!ENTITY quitApplicationCmdWin2.label       "Баромад">
+<!ENTITY quitApplicationCmdWin2.tooltip     "Баромад аз &brandShorterName;">
 
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
