@@ -123,6 +123,8 @@ move-attachment-last-panel-button =
 button-return-receipt =
     .label = Підтвердження отримання
     .tooltiptext = Надсилати запит про підтвердження отримання цього повідомлення
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+consider-bcc-notification = { $count } одержувачі у Кому та Копія можуть бачити адресу одне одного. Ви можете уникнути розголошення одержувачів, використовуючи замість цього приховану копію.
 
 # Addressing Area
 
@@ -157,7 +159,7 @@ bcc-compose-show-address-row-label =
     .value = { bcc-compose-address-row-label.value }
     .tooltiptext = Показати { bcc-compose-address-row-label.value } Поле ({ bcc-compose-show-address-row-menuitem.acceltext })
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
-consider-bcc-notification = { $count } одержувачі у Кому та Копія можуть бачити адресу одне одного. Ви можете уникнути розголошення одержувачів, використовуючи замість цього приховану копію.
+many-public-recipients-info = { $count } одержувачі у Кому та Копія бачитимуть адресу одне одного. Ви можете уникнути розголошення одержувачів, використовуючи замість цього приховану копію.
 many-public-recipients-bcc =
     .label = Використовувати приховану копію натомість
     .accesskey = В
