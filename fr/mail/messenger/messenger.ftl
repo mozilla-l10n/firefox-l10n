@@ -74,6 +74,13 @@ toolbar-context-menu-remove-extension =
     .label = Supprimer l’extension
     .accesskey = m
 
+## Message headers
+
+message-header-address-in-address-book-icon =
+    .alt = L’adresse est dans le carnet d’adresses
+message-header-address-not-in-address-book-icon =
+    .alt = L’adresse n’est pas dans le carnet d’adresses
+
 ## Add-on removal warning
 
 # Variables:
