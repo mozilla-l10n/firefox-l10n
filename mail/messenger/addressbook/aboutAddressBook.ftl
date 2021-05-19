@@ -12,6 +12,8 @@ about-addressbook-toolbar-new-ldap-address-book =
     .label = Nuova rubrica LDAP
 about-addressbook-toolbar-new-contact =
     .label = Nuovo contatto
+about-addressbook-toolbar-new-list =
+    .label = Nuova lista
 
 ## Books
 
