@@ -49,6 +49,7 @@ appmenu-update-manual2 =
     .buttonaccesskey = Б
     .secondarybuttonlabel = Нодида гузарондан
     .secondarybuttonaccesskey = Н
+appmenu-update-manual-message2 = { -brand-shorter-name } ба таври худкор навсозӣ карда нашуд. Версияи навро боргирӣ намоед — ягон маълумоти ҳифзшуда ё танзимоти шумо гум намешавад.
 appmenu-update-unsupported2 =
     .label = Навсозӣ карда нашуд
     .buttonlabel = Маълумоти бештар
