@@ -53,3 +53,10 @@ about-addressbook-sort-email-descending =
 ## Details
 
 about-addressbook-begin-edit-contact-button = Modifitgar
+about-addressbook-cancel-edit-contact-button = Interrumper
+about-addressbook-save-edit-contact-button = Memorisar
+about-addressbook-details-email-addresses-header = Adressas dad e-mail
+about-addressbook-details-phone-numbers-header = Numers da telefon
+about-addressbook-details-home-address-header = Adressa privata
+about-addressbook-details-work-address-header = Adressa da fatschenta
+about-addressbook-details-other-info-header = Autras infurmaziuns
