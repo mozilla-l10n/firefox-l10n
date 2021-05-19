@@ -18,6 +18,7 @@ upgrade-dialog-new-alt-subtitle = Start med å gjere <span data-l10n-name="zap">
 upgrade-dialog-new-item-menu-title = Straumlinjeforma verktøylinje og menyar
 upgrade-dialog-new-item-menu-description = Prioriterer dei viktige tinga slik at du finn det du treng
 upgrade-dialog-new-item-tabs-title = Moderne faner
+upgrade-dialog-new-item-tabs-description = Inneheld tydleg informasjon, hjelper deg å fokusere og er lett å flytte rundt.
 upgrade-dialog-new-item-icons-title = Nye ikon og tydelegare meldingar
 upgrade-dialog-new-item-icons-description = Hjelper deg med å finne vegen på ein lettare måte.
 upgrade-dialog-new-primary-primary-button = Vel { -brand-short-name } som primærnettlesar
