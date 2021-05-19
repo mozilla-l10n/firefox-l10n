@@ -10,4 +10,4 @@ account-finish-account-setup = Selesaikan Pengaturan Akun
 account-reconnect-to-fxa = Akun Terputus
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
-account-disconnected = Sambungan akun Anda telah diputus
+account-disconnected2 = Akun terputus
