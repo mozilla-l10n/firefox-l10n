@@ -49,3 +49,5 @@ customize-mode-lwthemes-my-themes =
     .value = Temaku
 customize-mode-touchbar-cmd =
     .label = Ubahsuai Touch Bar...
+customize-mode-downloads-button-autohide =
+    .label = Sembunyikan tombol jika kosong
