@@ -119,6 +119,41 @@ button-return-receipt =
     .tooltiptext = Dumandar ina conferma da retschavida per quest messadi
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 consider-bcc-notification = Ils { $count } destinaturs en ils champs A e CC vesan l'adressa in da l'auter. Ti pos zuppentar destinaturs cun utilisar Bcc.
+
+# Addressing Area
+
+to-compose-address-row-label =
+    .value = A
+#   $key (String) - the shortcut key for this field
+to-compose-show-address-row-menuitem =
+    .label = Champ { to-compose-address-row-label.value }
+    .accesskey = h
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+to-compose-show-address-row-label =
+    .value = { to-compose-address-row-label.value }
+    .tooltiptext = Mussar il champ { to-compose-address-row-label.value } ({ to-compose-show-address-row-menuitem.acceltext })
+cc-compose-address-row-label =
+    .value = Cc
+#   $key (String) - the shortcut key for this field
+cc-compose-show-address-row-menuitem =
+    .label = Champ { cc-compose-address-row-label.value }
+    .accesskey = C
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+cc-compose-show-address-row-label =
+    .value = { cc-compose-address-row-label.value }
+    .tooltiptext = Mussar il champ { cc-compose-address-row-label.value } ({ cc-compose-show-address-row-menuitem.acceltext })
+bcc-compose-address-row-label =
+    .value = Bcc
+#   $key (String) - the shortcut key for this field
+bcc-compose-show-address-row-menuitem =
+    .label = Champ { bcc-compose-address-row-label.value }
+    .accesskey = m
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+bcc-compose-show-address-row-label =
+    .value = { bcc-compose-address-row-label.value }
+    .tooltiptext = Mussar il champ { bcc-compose-address-row-label.value } ({ bcc-compose-show-address-row-menuitem.acceltext })
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+many-public-recipients-info = Ils { $count } destinaturs en ils champs A e CC pon vesair l'adressa in da l'auter. Ti pos zuppentar ils destinaturs cun utilisar Bcc.
 many-public-recipients-bcc =
     .label = Utilisar Bcc
     .accesskey = U

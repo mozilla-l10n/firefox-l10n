@@ -74,6 +74,13 @@ toolbar-context-menu-remove-extension =
     .label = Allontanar l'extensiun
     .accesskey = x
 
+## Message headers
+
+message-header-address-in-address-book-icon =
+    .alt = L'adressa sa chatta en il cudeschet d'adressas
+message-header-address-not-in-address-book-icon =
+    .alt = L'adressa na sa chatta betg en il cudeschet d'adressas
+
 ## Add-on removal warning
 
 # Variables:
