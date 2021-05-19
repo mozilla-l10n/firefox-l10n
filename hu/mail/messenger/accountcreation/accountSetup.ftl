@@ -87,6 +87,8 @@ account-setup-success-addon = A kiegészítő telepítése sikeresen megtörtén
 account-setup-success-settings-db = A konfiguráció megtalálható a Mozilla ISP adatbázisában.
 account-setup-success-settings-disk = A konfiguráció megtalálható a { -brand-short-name } telepítésben.
 account-setup-success-settings-isp = A konfiguráció megtalálható az e-mail-szolgáltatónál.
+# Note: Microsoft Exchange is a product name.
+account-setup-success-settings-exchange = A Microsoft Exchange kiszolgáló konfigurációja megtalálva.
 
 ## Illustrations
 

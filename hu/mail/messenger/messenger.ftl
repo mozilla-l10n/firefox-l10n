@@ -74,6 +74,13 @@ toolbar-context-menu-remove-extension =
     .label = Kiegészítő eltávolítása
     .accesskey = t
 
+## Message headers
+
+message-header-address-in-address-book-icon =
+    .alt = A cím a címjegyzékben található
+message-header-address-not-in-address-book-icon =
+    .alt = A cím nem szerepel a címjegyzékben
+
 ## Add-on removal warning
 
 # Variables:

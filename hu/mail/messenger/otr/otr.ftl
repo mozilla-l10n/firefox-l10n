@@ -79,10 +79,46 @@ msgevent-rcvdmsg-not-private = A(z) { $name } felől érkező titkosított üzen
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-rcvdmsg-unreadable = Olvashatatlan titkosított üzenetet kapott a következőtől: { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg-malformed = Helytelenül formázott adatüzenetet kapott tőle: { $name }.
+# A Heartbeat is a technical message used to keep a connection alive.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-log-heartbeat-rcvd = Kapcsolatfenntartási üzenet érkezett a következőtől: { $name }.
+# A Heartbeat is a technical message used to keep a connection alive.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-log-heartbeat-sent = Kapcsolatfenntartási üzenet küldve a következőnek: { $name }.
+# Do not translate 'OTR' (name of an encryption protocol)
+msgevent-rcvdmsg-general-err = Váratlan hiba történt a beszélgetés OTR használatával történő védelme közben.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+#   $msg (string) - the message that was received.
+msgevent-rcvdmsg-unencrypted = A következő, { $name } felől kapott üzenet nem volt titkosítva: { $msg }
+# Do not translate 'OTR' (name of an encryption protocol)
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg-unrecognized = Fel nem ismert OTR-üzenetet kapott tőle: { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg-for-other-instance = { $name } egy másik munkamenetnek szánt üzenetet küldött. Ha többször is be van jelentkezve, akkor egy másik munkamenet is megkaphatta az üzenetet.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-gone-secure-private = Privát beszélgetés indítva a következővel: { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-gone-secure-unverified = Titkosított, de nem ellenőrzött beszélgetés indítva a következővel: { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-still-secure = Sikeresen frissítette a titkosított beszélgetést a következővel: { $name }.
 error-enc = Hiba történt az üzenet titkosításakor.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 error-not_priv = Titkosított adatokat küldött { $name } számára, aki nem számított rá.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+error-not-priv = Titkosított adatokat küldött { $name } számára, aki nem számított rá.
 error-unreadable = Olvashatatlan titkosított üzenetet továbbított.
 error-malformed = Nem megfelelő formátumú adatüzenetet továbbított.
 resent = [újraküldve]
