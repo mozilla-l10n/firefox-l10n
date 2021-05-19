@@ -59,3 +59,10 @@ verify-ssl-ca =
 
 ## Certificate export "Save as" and error dialogs
 
+save-cert-as = Нигоҳ доштани гувоҳинома ба файл
+cert-format-base64 = Гувоҳиномаи X.509 (PEM)
+cert-format-base64-chain = Гувоҳиномаи X.509 бо занҷир (PEM)
+cert-format-der = Гувоҳиномаи X.509 (DER)
+cert-format-pkcs7 = Гувоҳиномаи X.509 (PKCS#7)
+cert-format-pkcs7-chain = Гувоҳиномаи X.509 бо занҷир (PKCS#7)
+write-file-failure = Хатои файл

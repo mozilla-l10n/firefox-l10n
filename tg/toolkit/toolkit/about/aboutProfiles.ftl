@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+profiles-flush-fail-title = Тағйирот нигоҳ дошта нашуд
 profiles-cannot-set-as-default-title = Ҳамчун пешфарз таъин карда намешавад
 profiles-delete-profile-title = Нест кардани профил
 profiles-delete-files = Нест кардани файлҳо
