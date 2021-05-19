@@ -39,4 +39,12 @@
 -send-brand-name = Firefox Send
 -screenshots-brand-name = Firefox Screenshots
 -mozilla-vpn-brand-name = Mozilla VPN
--profiler-brand-name = Firefox Profiler
+-profiler-brand-name =
+    { $case ->
+       *[nom] Firefox Profiler
+        [gen] Firefox Profilera
+        [dat] Firefox Profileru
+        [acc] Firefox Profiler
+        [loc] Firefox Profileru
+        [ins] Firefox Profilerom
+    }
