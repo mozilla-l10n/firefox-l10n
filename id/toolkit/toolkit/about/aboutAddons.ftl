@@ -10,7 +10,7 @@ search-header =
     .searchbuttonlabel = Cari
 search-header-shortcut =
     .key = f
-list-empty-get-extensions-message = Dapatkan ekstensi dan tema di <a data-l10n-name="get-Extension">{ $domain }</a>
+list-empty-get-extensions-message = Dapatkan ekstensi dan tema di <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-installed =
     .value = Anda tidak memiliki pengaya terpasang jenis ini
 list-empty-available-updates =

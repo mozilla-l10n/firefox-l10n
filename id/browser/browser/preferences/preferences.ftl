@@ -1127,7 +1127,7 @@ collection-backlogged-crash-reports =
     .label = Izinkan { -brand-short-name } mengirim tumpukan laporan kerusakan atas nama Anda
     .accesskey = r
 collection-backlogged-crash-reports-link = Pelajari Lebih Lanjut
-collection-backlogged-crash-reports-with-link = Izinkan { -brand-short-name } mengirim laporan kerusakan sebelumnya atas nama Anda <a data-l10n-name="crash-report-link">Pelajari lebih lanjut</a>
+collection-backlogged-crash-reports-with-link = Izinkan { -brand-short-name } mengirim laporan kerusakan sebelumnya atas nama Anda <a data-l10n-name="crash-reports-link">Pelajari lebih lanjut</a>
     .accesskey = l
 
 ## Privacy Section - Security
