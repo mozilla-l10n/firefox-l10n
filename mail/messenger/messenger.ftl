@@ -74,6 +74,13 @@ toolbar-context-menu-remove-extension =
     .label = Rimuovi estensione
     .accesskey = R
 
+## Message headers
+
+message-header-address-in-address-book-icon =
+    .alt = L’indirizzo è presente nella rubrica
+message-header-address-not-in-address-book-icon =
+    .alt = L’indirizzo non è presente nella rubrica
+
 ## Add-on removal warning
 
 # Variables:
