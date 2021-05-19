@@ -49,6 +49,26 @@ ctrl-cmd-shift-pretty-prefix =
         [macos] ⇧ ⌘{ " " }
        *[other] Ctrl+Shift+
     }
+trigger-attachment-picker-key = A
+toggle-attachment-pane-key = M
+menuitem-toggle-attachment-pane =
+    .label = Eranskinen panela
+    .accesskey = E
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key }
+toolbar-button-add-attachment =
+    .label = Erantsi
+    .tooltiptext = Gehitu eranskina ({ ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key })
+add-attachment-notification-reminder =
+    .label = Gehitu eranskina…
+    .tooltiptext = { toolbar-button-add-attachment.tooltiptext }
+menuitem-attach-files =
+    .label = Fitxategia(k)…
+    .accesskey = F
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
+context-menuitem-attach-files =
+    .label = Erantsi fitxategia(k)…
+    .accesskey = r
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
 #   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count =
     .value =
@@ -69,9 +89,31 @@ attachments-placeholder-tooltip =
 #   { attachment-bucket-count.accesskey } - Do not localize this message.
 key-toggle-attachment-pane =
     .key = { attachment-bucket-count.accesskey }
+expand-attachment-pane-tooltip =
+    .tooltiptext = Erakutsi eranskinen panela ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+collapse-attachment-pane-tooltip =
+    .tooltiptext = Gorde eranskinen panela ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+drop-file-label-attachment =
+    { $count ->
+        [one] Gehitu eranskina bezala
+       *[other] Gehitu eranskinak bezala
+    }
+drop-file-label-inline =
+    { $count ->
+        [one] Erakutsi barnekoa
+       *[other] Erakutsi barnekoak
+    }
 
 # Reorder Attachment Panel
 
+move-attachment-first-panel-button =
+    .label = Mugi lehenera
+move-attachment-left-panel-button =
+    .label = Mugi ezkerrera
+move-attachment-right-panel-button =
+    .label = Mugi eskumara
+move-attachment-last-panel-button =
+    .label = Mugi azkenera
 button-return-receipt =
     .label = Hartu-agiria
     .tooltiptext = Eskatu hartu-agiria mezu honetarako
