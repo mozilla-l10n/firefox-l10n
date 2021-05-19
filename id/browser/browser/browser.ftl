@@ -239,6 +239,14 @@ search-one-offs-context-set-as-default-private =
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
+# Shown when adding new engines from the address bar shortcut buttons or context
+# menu, or from the search bar shortcut buttons.
+# Variables:
+#  $engineName (String): The name of the engine.
+search-one-offs-add-engine =
+    .label = Tambahkan "{ $engineName }"
+    .tooltiptext = Tambahkan mesin pencari "{ $engineName }"
+    .aria-label = Tambahkan mesin pencari "{ $engineName }"
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -294,6 +302,7 @@ identity-header-security-with-host =
     .title = Keamanan Sambungan untuk { $host }
 identity-connection-not-secure = Sambungan tidak aman
 identity-connection-secure = Sambungan aman
+identity-connection-failure = Sambungan gagal
 identity-connection-internal = Ini adalah laman { -brand-short-name } aman.
 identity-connection-file = Laman ini tersimpan di komputer Anda.
 identity-extension-page = Laman ini dimuat dari ekstensi.
@@ -490,6 +499,11 @@ urlbar-placeholder-with-name =
     .placeholder = Cari lewat { $name } atau masukkan alamat
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Peramban dalam kendali jarak jauh
+# Variables
+#  $component (String): the name of the component which forces remote control.
+#    Example: "DevTools", "Marionette", "RemoteAgent".
+urlbar-remote-control-notification-anchor2 =
+    .tooltiptext = Browser berada di bawah kendali jarak jauh (alasan: { $component })
 urlbar-permissions-granted =
     .tooltiptext = Anda telah memberikan izin tambahan kepada situs web ini.
 urlbar-switch-to-tab =

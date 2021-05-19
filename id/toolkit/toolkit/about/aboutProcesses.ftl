@@ -52,6 +52,43 @@ about-processes-unknown-process-name = Lainnya ({ $type }, proses { $pid })
 #   $pid (String) The process id of this process, assigned by the OS.
 about-processes-process-name = Proses { $pid }: { $name }
 
+## Process names
+## Variables:
+##    $pid (String) The process id of this process, assigned by the OS.
+
+about-processes-browser-process = { -brand-short-name } ({ $pid })
+about-processes-web-process = Shared Web Process ({ $pid })
+about-processes-file-process = Berkas ({ $pid })
+about-processes-extension-process = Ekstensi ({ $pid })
+about-processes-privilegedabout-process = Laman about ({ $pid })
+about-processes-plugin-process = Plugin ({ $pid })
+about-processes-privilegedmozilla-process = Situs { -vendor-short-name } ({ $pid })
+about-processes-gmp-plugin-process = Plugin Media Gecko ({ $pid })
+about-processes-gpu-process = GPU ({ $pid })
+about-processes-vr-process = VR ({ $pid })
+about-processes-rdd-process = Pendekode Data ({ $pid })
+about-processes-socket-process = Jaringan ({ $pid })
+about-processes-remote-sandbox-broker-process = Broker Kotak Pasir Daring ({ $pid })
+about-processes-fork-server-process = Server Fork ({ $pid })
+about-processes-preallocated-process = Praalokasi ({ $pid })
+# Unknown process names
+# Variables:
+#    $pid (String) The process id of this process, assigned by the OS.
+#    $type (String) The raw type for this process.
+about-processes-unknown-process = Lainnya: { $type } ({ $pid })
+
+## Isolated process names
+## Variables:
+##    $pid (String) The process id of this process, assigned by the OS.
+##    $origin (String) The domain name for this process.
+
+about-processes-web-isolated-process = { $origin } ({ $pid })
+about-processes-web-large-allocation-process = { $origin } ({ $pid }, besar)
+about-processes-with-coop-coep-process = { $origin } ({ $pid }, terisolasi cross-origin)
+about-processes-web-isolated-process-private = { $origin } — Pribadi ({ $pid })
+about-processes-web-large-allocation-process-private = { $origin } — Pribadi ({ $pid }, besar)
+about-processes-with-coop-coep-process-private = { $origin } — Pribadi ({ $pid }, terisolasi cross-origin)
+
 ## Details within processes
 
 # Single-line summary of threads
@@ -65,6 +102,36 @@ about-processes-thread-summary = Utas ({ $number })
 #   $name (String) The name assigned to the thread.
 #   $tid (String) The thread id of this thread, assigned by the OS.
 about-processes-thread-name = Utas { $tid }: { $name }
+# Single-line summary of threads (non-idle process)
+# Variables:
+#    $number (Number) The number of threads in the process. Typically larger
+#                     than 30. We don't expect to ever have processes with less
+#                     than 5 threads.
+#    $active (Number) The number of active threads in the process.
+#                     The value will be greater than 0 and will never be
+#                     greater than $number.
+#    $list (String) Comma separated list of active threads.
+#                   Can be an empty string if the process is idle.
+about-processes-active-threads =
+    { $active ->
+       *[other] { $active } utas aktif dari { $number }: { $list }
+    }
+# Single-line summary of threads (idle process)
+# Variables:
+#    $number (Number) The number of threads in the process. Typically larger
+#                     than 30. We don't expect to ever have processes with less
+#                     than 5 threads.
+#                     The process is idle so all threads are inactive.
+about-processes-inactive-threads =
+    { $number ->
+       *[other] { $number } utas tidak aktif
+    }
+# Thread details
+# Variables:
+#   $name (String) The name assigned to the thread.
+#   $tid (String) The thread id of this thread, assigned by the OS.
+about-processes-thread-name-and-id = { $name }
+    .title = ID utas: { $tid }
 # Tab
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
@@ -91,10 +158,16 @@ about-processes-frame-name-many = Subframe ({ $number }): { $shortUrl }
 
 # Common case.
 about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") } ({ NUMBER($total, maximumFractionDigits: 0) }{ $unit })
+# Common case.
+about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
+    .title = Waktu CPU total: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (mengukur)
 # Special case: process or thread is currently idle.
 about-processes-cpu-user-and-kernel-idle = menganggur ({ NUMBER($total, maximumFractionDigits: 2) }{ $unit })
+# Special case: process or thread is currently idle.
+about-processes-cpu-idle = menganggur
+    .title = Waktu CPU total: { NUMBER($total, maximumFractionDigits: 2) }{ $unit }
 
 ## Displaying Memory (total and delta)
 ## Variables:
@@ -109,6 +182,9 @@ about-processes-cpu-user-and-kernel-idle = menganggur ({ NUMBER($total, maximumF
 
 # Common case.
 about-processes-total-memory-size = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit } ({ $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit })
+# Common case.
+about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
+    .title = Evolusi: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit }
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
 

@@ -5,14 +5,18 @@
 
 ## App Menu
 
-appmenuitem-update-banner =
-    .label-update-downloading = Mengunduh pembaruan { -brand-shorter-name }
 appmenuitem-update-banner2 =
     .label-update-downloading = Mengunduh pembaruan { -brand-shorter-name }
     .label-update-available = Versi baru tersedia — unduh sekarang
     .label-update-manual = Versi baru tersedia — unduh sekarang
     .label-update-unsupported = Gagal memperbarui
     .label-update-restart = Versi baru tersedia — mulai ulang sekarang
+appmenuitem-update-banner3 =
+    .label-update-downloading = Mengunduh pembaruan { -brand-shorter-name }
+    .label-update-available = Pembaruan tersedia — unduh sekarang
+    .label-update-manual = Pembaruan tersedia — unduh sekarang
+    .label-update-unsupported = Pembaruan tersedia — sistem tidak kompatibel
+    .label-update-restart = Pembaruan tersedia — mulai ulang sekarang
 appmenuitem-protection-dashboard-title = Dasbor Perlindungan
 appmenuitem-customize-mode =
     .label = Ubahsuai…
@@ -25,8 +29,6 @@ appmenuitem-new-private-window =
     .label = Jendela Mode Pribadi Baru
 appmenuitem-passwords =
     .label = Kata Sandi
-appmenuitem-extensions-and-themes =
-    .label = Ekstensi dan Tema
 appmenuitem-addons-and-themes =
     .label = Pengaya dan Tema
 appmenuitem-find-in-page =
@@ -160,11 +162,6 @@ appmenu-about =
 appmenu-get-help =
     .label = Dapatkan Bantuan
     .accesskey = D
-appmenu-help-troubleshooting-info =
-    .label = Informasi Pemecahan Masalah…
-    .accesskey = M
-appmenu-help-taskmanager =
-    .label = Pengelola Tugas
 appmenu-help-more-troubleshooting-info =
     .label = Informasi Pemecahan Masalah Lebih Lanjut
     .accesskey = I
@@ -173,16 +170,6 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = Kirim Saran…
     .accesskey = S
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Mulai Ulang dengan Pengaya Dinonaktifkan…
-    .accesskey = n
-appmenu-help-safe-mode-with-addons =
-    .label = Mulai Ulang dengan Pengaya Diaktifkan
-    .accesskey = n
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

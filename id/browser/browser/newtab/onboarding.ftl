@@ -227,12 +227,12 @@ onboarding-multistage-theme-description-automatic-2 =
 # Tooltip displayed on hover of light theme
 onboarding-multistage-theme-tooltip-light-2 =
     .title =
-        Gunakan tampilan cerah untuk
+        Gunakan tampilan terang untuk
         tombol, menu, dan jendela.
 # Input description for light theme
 onboarding-multistage-theme-description-light =
     .aria-description =
-        Gunakan tampilan cerah untuk
+        Gunakan tampilan terang untuk
         tombol, menu, dan jendela.
 # Tooltip displayed on hover of dark theme
 onboarding-multistage-theme-tooltip-dark-2 =
@@ -257,6 +257,16 @@ onboarding-multistage-theme-description-alpenglow =
 
 ## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 
+# "Hero Text" displayed on left side of welcome screen.
+# The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
+# It also signals the passion users bring to Firefox, how they use
+# Firefox to pursue those passions, as well as the boldness in their
+# choice to use Firefox over a larger competitor browser.
+# An alternative title for localization is: "It starts here".
+# This text can be formatted to span multiple lines as needed.
+mr1-welcome-screen-hero-text =
+    Semangat dimulai
+    dari sini
 # Caption for background image in about:welcome. "Soraya Osorio" is the name
 # of the person and shouldn't be translated.
 mr1-onboarding-welcome-image-caption = Soraya Osorio — Desainer Furnitur, penggemar Firefox
@@ -264,7 +274,7 @@ mr1-onboarding-welcome-image-caption = Soraya Osorio — Desainer Furnitur, peng
 mr1-onboarding-reduce-motion-button-label = Nonaktifkan animasi
 mr1-onboarding-welcome-header = Selamat datang di { -brand-short-name }
 mr1-onboarding-set-default-pin-primary-button-label = Jadikan { -brand-short-name } peramban utama saya
-    .title = Jadikan { -brand-short-name } sebagai peramban baku dan pinkan di bilah tugas
+    .title = Jadikan { -brand-short-name } sebagai peramban baku dan sematkan ke bilah tugas
 mr1-onboarding-set-default-only-primary-button-label = Jadikan { -brand-short-name } peramban baku saya
 mr1-onboarding-set-default-secondary-button-label = Jangan sekarang
 mr1-onboarding-sign-in-button-label = Masuk
