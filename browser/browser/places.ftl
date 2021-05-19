@@ -5,10 +5,10 @@
 places-open =
     .label = Buka
     .accesskey = B
-places-open-tab =
+places-open-in-tab =
     .label = Buka di Tab Baru
     .accesskey = T
-places-open-in-tab =
+places-open-tab =
     .label = Buka di Tab Baru
     .accesskey = T
 places-open-all-bookmarks =
@@ -20,8 +20,14 @@ places-open-all-in-tabs =
 places-open-window =
     .label = Buka di Jendela Baru
     .accesskey = J
+places-open-in-window =
+    .label = Buka di Jendela Baru
+    .accesskey = J
 places-open-private-window =
     .label = Buka Tautan di Jendela Penjelajahan Pribadi Baru
+    .accesskey = P
+places-open-in-private-window =
+    .label = Buka di Jendela Penjelajahan Pribadi Baru
     .accesskey = P
 places-new-bookmark =
     .label = Markah Baru…
@@ -35,12 +41,6 @@ places-new-folder =
 places-new-separator =
     .label = Garis Pemisah Baru
     .accesskey = G
-places-open-in-window =
-    .label = Buka di Jendela Baru
-    .accesskey = J
-places-open-in-private-window =
-    .label = Buka di Jendela Penjelajahan Pribadi Baru
-    .accesskey = P
 places-add-bookmark =
     .label = Tambah Markah…
     .accesskey = M
@@ -91,6 +91,16 @@ places-edit-bookmark =
 places-edit-generic =
     .label = Edit…
     .accesskey = E
+places-edit-folder =
+    .label = Ganti Nama Folder…
+    .accesskey = G
+places-remove-folder =
+    .label =
+        { $count ->
+            [1] Hapus Folder
+           *[other] Hapus Folder
+        }
+    .accesskey = H
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Markah yang dikelola

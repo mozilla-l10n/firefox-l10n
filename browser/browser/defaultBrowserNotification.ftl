@@ -17,5 +17,5 @@ default-browser-prompt-button-primary-pin = Jadikan sebagai peramban utama
 default-browser-prompt-title-alt = Jadikan { -brand-short-name } peramban baku Anda?
 default-browser-prompt-message-alt = Dapatkan kecepatan, keamanan, dan privasi setiap kali Anda menjelajah.
 default-browser-prompt-button-primary-alt = Setel sebagai peramban baku
-default-browser-prompt-checkbox-label = Jangan tanya lagi
+default-browser-prompt-checkbox-not-again-label = Jangan tampilkan lagi
 default-browser-prompt-button-secondary = Jangan sekarang
