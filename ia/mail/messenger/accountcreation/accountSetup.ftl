@@ -7,9 +7,12 @@ account-setup-tab-title = Configuration de conto
 ## Header
 
 account-setup-title = Configura tu adresse email existente
+account-setup-description = Pro usar tu actual e-mail adresse plena tu credentiales.<br/>¶ { -brand-product-name } automaticamente cercara un configuration del servitor functionante e recommendate.
 
 ## Form fields
 
+account-setup-name-label = Tu nomine complete
+    .accesskey = c
 # Note: "John Doe" is a multiple-use name that is used when the true name of a person is unknown. We use this fake name as an input placeholder. Translators should update this to reflect the placeholder name of their language/country.
 account-setup-name-input =
     .placeholder = Johannes Esposito
@@ -30,6 +33,8 @@ account-setup-email-warning-icon =
 account-setup-password-label = Contrasigno
     .accesskey = C
     .title = Optional, solo essera usate pro validar le nomine de usator
+account-provisioner-button = Obtene un nove adresse e-mail
+    .accesskey = O
 account-setup-password-toggle =
     .title = Monstrar/celar le contrasigno
 account-setup-remember-password = Rememorar le contrasigno
