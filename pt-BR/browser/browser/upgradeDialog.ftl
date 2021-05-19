@@ -9,13 +9,13 @@
 ## New changes screen
 
 # This title can be explicitly wrapped to control which words are on which line.
-upgrade-dialog-new-title = Dê boas-vindas a um novo { -brand-short-name }
+upgrade-dialog-new-title = Diga olá a um novo { -brand-short-name }
 upgrade-dialog-new-subtitle = Projetado para te levar onde você quiser, mais rápido
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline
 # style to be automatically added to the text inside it. { -brand-short-name }
 # should stay inside the span.
 upgrade-dialog-new-alt-subtitle = Comece deixando o <span data-l10n-name="zap">{ -brand-short-name }</span> a um clique de distância
-upgrade-dialog-new-item-menu-title = Barra de ferramentas e menus simplificados
+upgrade-dialog-new-item-menu-title = Menus e barra de ferramentas simplificados
 upgrade-dialog-new-item-menu-description = Prioriza as coisas importantes para você encontrar o que precisa.
 upgrade-dialog-new-item-tabs-title = Abas modernas
 upgrade-dialog-new-item-tabs-description = Contém informações de forma organizada, aceitando foco e movimento flexível.
