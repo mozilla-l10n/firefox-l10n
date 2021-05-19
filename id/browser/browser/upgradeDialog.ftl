@@ -18,7 +18,8 @@ upgrade-dialog-new-alt-subtitle = Luncurkan <span data-l10n-name="zap">{ -brand-
 upgrade-dialog-new-item-menu-title = Bilah alat dan menu yang disederhanakan
 upgrade-dialog-new-item-menu-description = Memprioritaskan hal-hal penting sehingga Anda menemukan apa yang dibutuhkan.
 upgrade-dialog-new-item-tabs-title = Tab nan modern
-upgrade-dialog-new-item-icons-title = Ikon yang segar, serta pesan yang lebih jelas
+upgrade-dialog-new-item-tabs-description = Informasi tersaji dengan rapi, mendukung gerakan terfokus dan fleksibel
+upgrade-dialog-new-item-icons-title = Ikon nan segar, serta pesan yang lebih jelas
 upgrade-dialog-new-item-icons-description = Membantu Anda menemukan jalan dengan sentuhan yang lebih ringan.
 upgrade-dialog-new-primary-primary-button = Jadikan { -brand-short-name } peramban utama saya
     .title = Jadikan { -brand-short-name } sebagai peramban baku dan sematkan ke bilah tugas
