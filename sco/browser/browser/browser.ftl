@@ -511,6 +511,11 @@ urlbar-placeholder-with-name =
     .placeholder = Sairch wi { $name } or inpit address
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Wab-stravaiger is unner remote control
+# Variables
+#  $component (String): the name of the component which forces remote control.
+#    Example: "DevTools", "Marionette", "RemoteAgent".
+urlbar-remote-control-notification-anchor2 =
+    .tooltiptext = Wab-stravaiger is unner remote control (reason: { $component })
 urlbar-permissions-granted =
     .tooltiptext = Ye've gied this wabsite mair permeesions.
 urlbar-switch-to-tab =
