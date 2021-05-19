@@ -25,8 +25,12 @@ upgrade-dialog-new-primary-primary-button = Postavi { -brand-short-name } kao pr
     .title = Postavlja { -brand-short-name } kao zadani preglednik i prikvači ga na programsku traku
 upgrade-dialog-new-primary-default-button = Postavi { -brand-short-name } kao zadani preglednik
 upgrade-dialog-new-primary-pin-button = Prikvači { -brand-short-name } na programsku traku
+upgrade-dialog-new-primary-pin-alt-button = Prikvači na programsku traku
 upgrade-dialog-new-primary-theme-button = Odaberi temu
 upgrade-dialog-new-secondary-button = Ne sada
+# This string is only shown on Windows 7, where we intentionally suppress the
+# theme selection screen.
+upgrade-dialog-new-primary-win7-button = U redu, shvaćam!
 
 ## Default browser screen
 
