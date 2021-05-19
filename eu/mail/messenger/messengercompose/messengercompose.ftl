@@ -152,3 +152,11 @@ bcc-compose-show-address-row-menuitem =
 bcc-compose-show-address-row-label =
     .value = { bcc-compose-address-row-label.value }
     .tooltiptext = Erakutsi { bcc-compose-address-row-label.value } eremua { bcc-compose-show-address-row-menuitem.acceltext }
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+many-public-recipients-info = Nori eta Ccko { $count } hartzailek besteen helbideak ikusiko dituzte. Hartzaileak erakustea saihestu dezakezu Bcc erabiliz.
+many-public-recipients-bcc =
+    .label = Erabili Bcc horren ordez
+    .accesskey = B
+many-public-recipients-ignore =
+    .label = Mantendu hartzaileak ikusgai
+    .accesskey = i
