@@ -291,8 +291,8 @@ bookmark-panel-remove =
         }
     .accesskey = E
 bookmark-panel-show-editor-checkbox =
-    .label = Exibir editor ao salvar
-    .accesskey = d
+    .label = Exibir este painel ao adicionar um favorito
+    .accesskey = x
 bookmark-panel-done-button =
     .label = Concluído
 bookmark-panel-save-button =
