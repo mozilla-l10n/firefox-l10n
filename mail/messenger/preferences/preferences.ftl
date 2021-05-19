@@ -171,6 +171,10 @@ tray-icon-label =
     .accesskey = r
 biff-use-system-alert =
     .label = Erabili sistema jakinarazpenak
+tray-icon-unread-label =
+    .label = Erakutsi erretiluko ikonoa mezu irakurri gabeentzat
+    .accesskey = E
+tray-icon-unread-description = Gomendagarria zeregin-barra botoi txikiak erabiltzean
 mail-system-sound-label =
     .label = Lehenetsitako sistema-soinua posta berriarentzat
     .accesskey = s
@@ -323,6 +327,8 @@ quoted-text-color =
     .accesskey = o
 search-input =
     .placeholder = Bilatu
+search-handler-table =
+    .placeholder = Iragazi eduki mota eta ekintzak
 type-column-label =
     .label = Eduki mota
     .accesskey = t
@@ -708,6 +714,17 @@ search-input-box =
             [windows] Bilatu aukeretan
            *[other] Bilatu hobespenetan
         }
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-preferences-input =
+    .style = width: 15.4em
+    .placeholder = Bilatu hobespenetan
 
 ## Preferences UI Search Results
 

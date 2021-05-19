@@ -4,21 +4,17 @@
 
 fonts-window-close =
     .key = w
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = Lehenetsia ({ $name })
 fonts-label-default-unnamed =
     .label = Lehenetsia
-
 fonts-encoding-dialog-title =
     .title = Letra-tipoak eta kodeketak
-
 fonts-language-legend =
     .value = Letra-tipoa:
     .accesskey = t
-
 fonts-proportional-label =
     .value = Proportzionala:
     .accesskey = P
@@ -89,45 +85,38 @@ font-language-group-tibetan =
 
 default-font-serif =
     .label = Serif
-
 default-font-sans-serif =
     .label = Sans Serif
-
 font-size-label =
     .value = Tamaina:
     .accesskey = e
-
+font-size-proportional-label =
+    .value = Tamaina:
+    .accesskey = T
 font-size-monospace-label =
     .value = Tamaina:
     .accesskey = i
-
 font-serif-label =
     .value = Serif:
     .accesskey = S
-
 font-sans-serif-label =
     .value = Sans-serif:
     .accesskey = n
-
 font-monospace-label =
     .value = Tarte bakarrekoa:
     .accesskey = T
-
 font-min-size-label =
     .value = Gutxieneko letra-tamaina:
     .accesskey = x
-
 min-size-none =
     .label = Bat ere ez
 
 ## Fonts in message
 
 font-control-legend = Letra-tipoaren kontrola
-
 use-document-fonts-checkbox =
     .label = Baimendu mezuak beste letra-tipo batzuk erabiltzea
     .accesskey = o
-
 use-fixed-width-plain-checkbox =
     .label = Erabili zabalera finkoko letra-tipoa testu-arrunteko mezuentzat
     .accesskey = f
@@ -135,17 +124,13 @@ use-fixed-width-plain-checkbox =
 ## Language settings
 
 text-encoding-legend = Testuaren kodeketa
-
 text-encoding-description = Ezarri posta bidali eta jasotzeko karaktere-kodeketa lehenetsiak
-
 font-outgoing-email-label =
     .value = Irteerako posta:
     .accesskey = r
-
 font-incoming-email-label =
     .value = Sarrerakoa posta:
     .accesskey = S
-
 default-font-reply-checkbox =
     .label = Ahal bada, erabili erantzunetan karaktere-kodeketa lehenetsia
     .accesskey = h

@@ -106,6 +106,27 @@ openpgp-key-send-key =
 openpgp-key-man-copy-to-clipbrd =
     .label = Kopiatu gako publikoa arbelera
     .accesskey = a
+openpgp-key-man-copy-key-ids =
+    .label =
+        { $count ->
+            [one] Kopiatu ID gakoa arbelera
+           *[other] Kopiatu ID gakoak arbelera
+        }
+    .accesskey = K
+openpgp-key-man-copy-fprs =
+    .label =
+        { $count ->
+            [one] Kopiatu hatz-marka arbelera
+           *[other] Kopiatu hatz-markak arbelera
+        }
+    .accesskey = h
+openpgp-key-man-copy-to-clipboard =
+    .label =
+        { $count ->
+            [one] Kopiatu gako publikoa arbelera
+           *[other] Kopiatu gako publikoak arbelera
+        }
+    .accesskey = g
 openpgp-key-man-ctx-expor-to-file-label =
     .label = Esportatu gakoak fitxategira
 openpgp-key-man-ctx-copy-to-clipbrd-label =
@@ -615,5 +636,6 @@ dlg-button-retry = Saiatu be&rriro
 dlg-button-skip = &Saltatu
 # Strings used in enigmailCommon.js
 enig-error = OpenPGP errorea
+# Strings used in enigmailMsgBox.js
 enig-alert-title =
     .title = OpenPGP alerta
