@@ -73,6 +73,8 @@ no-proxy-label =
 no-proxy-example = Για παράδειγμα: .mozilla.org, .net.nz, 192.168.1.0/24
 # Note: Do not translate localhost, 127.0.0.1 and ::1.
 no-proxy-localhost-label = Συνδέσεις στο localhost, 127.0.0.1 και ::1 δεν περνούν ποτέ μέσω διαμεσολαβητή.
+# Do not translate "localhost", "127.0.0.1/8" and "::1". (You can translate "and".)
+connection-proxy-noproxy-localhost-desc-2 = Οι συνδέσεις στο localhost, 127.0.0.1/8 και ::1, δεν γίνονται ποτέ μέσω διακομιστή μεσολάβησης.
 proxy-password-prompt =
     .label = Να μην ζητείται ταυτοποίηση αν είναι αποθηκευμένος ο κωδικός πρόσβασης
     .accesskey = μ

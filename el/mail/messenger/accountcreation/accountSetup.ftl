@@ -48,6 +48,7 @@ account-setup-button-done = Τέλος
 ## Notifications
 
 account-setup-looking-up-settings = Αναζήτηση ρυθμίσεων παραμέτρων…
+account-setup-checking-password = Έλεγχος κωδικού πρόσβασης…
 
 ## Illustrations
 
@@ -80,14 +81,23 @@ account-setup-exchange-title = Διακομιστής
 
 ## Manual config area
 
+account-setup-manual-config-title = Ρυθμίσεις διακομιστή
+account-setup-incoming-protocol-label = Πρωτόκολλο εισερχομένων
 protocol-imap-option = { account-setup-result-imap }
 protocol-pop-option = { account-setup-result-pop }
+account-setup-outgoing-protocol-label = Πρωτόκολλο εξερχομένων
 outgoing-protocol = SMTP
+account-setup-incoming-server-label = Διακομιστής εισερχομένων
+account-setup-outgoing-server-label = Διακομιστής εξερχομένων
 account-setup-incoming-port-label = Θύρα εισερχομένων
 account-setup-outoing-port-label = Θύρα εξερχομένων
+account-setup-incoming-ssl-label = SSL εισερχομένων
+account-setup-outgoing-ssl-label = SSL εξερχομένων
 ssl-autodetect-option = Αυτόματος εντοπισμός
 ssl-starttls-option = STARTTLS
 ssl-tls-option = SSL/TLS
+account-setup-incoming-username-label = Όνομα χρήστη εισερχομένων
+account-setup-outgoing-username-label = Όνομα χρήστη εξερχομένων
 account-setup-advanced-setup-button = Σύνθετη διαμόρφωση
     .accesskey = Σ
 
