@@ -9,6 +9,29 @@ menu-view-charset =
     .label = Testuaren kodeketa
     .accesskey = k
 
+## Tools Menu
+
+# Since v89 we dropped the platforms distinction between Options or Preferences
+# and consolidated everything with Preferences.
+menu-tools-preferences =
+    .label = Hobespenak
+    .accesskey = H
+menu-addons-and-themes =
+    .label = Gehigarriak eta itxurak
+    .accesskey = G
+
+## Help Menu
+
+menu-help-enter-troubleshoot-mode =
+    .label = Arazoak konpontzeko modua…
+    .accesskey = A
+menu-help-exit-troubleshoot-mode =
+    .label = Desaktibatu arazoak konpontzeko modua
+    .accesskey = D
+menu-help-more-troubleshooting-info =
+    .label = Arazoak konpontzeko informazio gehiago
+    .accesskey = i
+
 ## Mail Toolbar
 
 toolbar-junk-button =
@@ -23,3 +46,18 @@ toolbar-delete-button =
 toolbar-undelete-button =
     .label = Desezabatu
     .tooltiptext = Desezabatu aukeratutako mezuak
+
+## View / Layout
+
+mail-uidensity-label =
+    .label = Dentsitatea
+    .accesskey = D
+mail-uidensity-compact =
+    .label = Trinkoa
+    .accesskey = T
+mail-uidensity-normal =
+    .label = Arrunta
+    .accesskey = A
+mail-uidensity-touch =
+    .label = Ukipena
+    .accesskey = U
