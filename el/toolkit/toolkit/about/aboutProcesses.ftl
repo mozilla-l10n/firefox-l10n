@@ -52,6 +52,33 @@ about-processes-unknown-process-name = Άλλο ({ $type }, διεργασία {
 #   $pid (String) The process id of this process, assigned by the OS.
 about-processes-process-name = Διεργασία { $pid }: { $name }
 
+## Process names
+## Variables:
+##    $pid (String) The process id of this process, assigned by the OS.
+
+about-processes-browser-process = { -brand-short-name } ({ $pid })
+about-processes-file-process = Αρχεία ({ $pid })
+about-processes-extension-process = Επεκτάσεις ({ $pid })
+about-processes-plugin-process = Αρθρώματα ({ $pid })
+about-processes-gpu-process = GPU ({ $pid })
+about-processes-vr-process = VR ({ $pid })
+about-processes-socket-process = Δίκτυο ({ $pid })
+# Unknown process names
+# Variables:
+#    $pid (String) The process id of this process, assigned by the OS.
+#    $type (String) The raw type for this process.
+about-processes-unknown-process = Άλλο: { $type } ({ $pid })
+
+## Isolated process names
+## Variables:
+##    $pid (String) The process id of this process, assigned by the OS.
+##    $origin (String) The domain name for this process.
+
+about-processes-web-isolated-process = { $origin } ({ $pid })
+about-processes-web-large-allocation-process = { $origin } ({ $pid }, μεγάλο)
+about-processes-web-isolated-process-private = { $origin } — Ιδιωτικό ({ $pid })
+about-processes-web-large-allocation-process-private = { $origin } — Ιδιωτικό ({ $pid }, μεγάλο)
+
 ## Details within processes
 
 # Single-line summary of threads
@@ -65,6 +92,17 @@ about-processes-thread-summary = Νήματα ({ $number })
 #   $name (String) The name assigned to the thread.
 #   $tid (String) The thread id of this thread, assigned by the OS.
 about-processes-thread-name = Νήμα { $tid }: { $name }
+# Single-line summary of threads (idle process)
+# Variables:
+#    $number (Number) The number of threads in the process. Typically larger
+#                     than 30. We don't expect to ever have processes with less
+#                     than 5 threads.
+#                     The process is idle so all threads are inactive.
+about-processes-inactive-threads =
+    { $number ->
+        [one] { $number } ανενεργό νήμα
+       *[other] { $number } ανενεργά νήματα
+    }
 # Tab
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
@@ -91,6 +129,9 @@ about-processes-frame-name-many = Υποπλαίσια ({ $number }): { $shortUr
 
 # Common case.
 about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") } ({ NUMBER($total, maximumFractionDigits: 0) }{ $unit })
+# Common case.
+about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
+    .title = Συνολικός χρόνος CPU: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (μέτρηση)
 # Special case: process or thread is currently idle.
@@ -109,6 +150,9 @@ about-processes-cpu-user-and-kernel-idle = Αδρανές ({ NUMBER($total, maxi
 
 # Common case.
 about-processes-total-memory-size = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit } ({ $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit })
+# Common case.
+about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
+    .title = Εξέλιξη: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit }
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
 

@@ -25,6 +25,7 @@ upgrade-dialog-new-primary-primary-button = Ορισμός { -brand-short-name }
     .title = Ορίζει το { -brand-short-name } ως το προεπιλεγμένο πρόγραμμα περιήγησης και το καρφιτσώνει στη γραμμή εργασιών
 upgrade-dialog-new-primary-default-button = Ορισμός { -brand-short-name } ως προεπιλεγμένου φυλλομετρητή
 upgrade-dialog-new-primary-pin-button = Καρφίτσωμα { -brand-short-name } στη γραμμή εργασιών
+upgrade-dialog-new-primary-pin-alt-button = Καρφίτσωμα στη γραμμή εργασιών
 upgrade-dialog-new-primary-theme-button = Επιλογή θέματος
 upgrade-dialog-new-secondary-button = Όχι τώρα
 # This string is only shown on Windows 7, where we intentionally suppress the
