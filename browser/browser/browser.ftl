@@ -514,6 +514,11 @@ urlbar-placeholder-with-name =
     .placeholder = Keressen a(z) { $name } keresővel vagy adjon meg egy címet
 urlbar-remote-control-notification-anchor =
     .tooltiptext = A böngészőt távolról irányítják
+# Variables
+#  $component (String): the name of the component which forces remote control.
+#    Example: "DevTools", "Marionette", "RemoteAgent".
+urlbar-remote-control-notification-anchor2 =
+    .tooltiptext = A böngésző távvezérlés alatt áll (ok: { $component })
 urlbar-permissions-granted =
     .tooltiptext = További engedélyeket adott ennek az oldalnak.
 urlbar-switch-to-tab =
