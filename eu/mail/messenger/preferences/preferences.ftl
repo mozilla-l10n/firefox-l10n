@@ -10,6 +10,9 @@ preferences-title =
             [windows] Aukerak
            *[other] Hobespenak
         }
+preferences-tab-title =
+    .title = Hobespenak
+preferences-doc-title = Hobespenak
 category-list =
     .aria-label = Kategoriak
 pane-general-title = Orokorra
@@ -90,6 +93,7 @@ update-in-progress-ok-button = &Baztertu
 update-in-progress-cancel-button = &Jarraitu
 addons-button = Hedapenak eta Gaiak
 account-button = Kontu-ezarpenak
+open-addons-sidebar-button = Gehigarriak eta itxurak
 
 ## OS Authentication dialog
 
@@ -165,6 +169,8 @@ customize-alert-label =
 tray-icon-label =
     .label = Erakutsi erretiluko ikonoa
     .accesskey = r
+biff-use-system-alert =
+    .label = Erabili sistema jakinarazpenak
 mail-system-sound-label =
     .label = Lehenetsitako sistema-soinua posta berriarentzat
     .accesskey = s
