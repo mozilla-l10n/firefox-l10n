@@ -29,18 +29,33 @@ about-addressbook-books-context-delete =
 
 ## Cards
 
+# Variables:
+# $name (String) - Name of the address book that will be searched.
+about-addressbook-search =
+    .placeholder = 搜索 { $name }
+about-addressbook-search-all =
+    .placeholder = 搜索所有通讯录
 about-addressbook-name-format-display =
     .label = 显示名称
+about-addressbook-name-format-firstlast =
+    .label = 名前姓后
+about-addressbook-name-format-lastfirst =
+    .label = 姓前名后
 about-addressbook-sort-name-ascending =
     .label = 按名称排序（A > Z）
 about-addressbook-sort-name-descending =
     .label = 按名称排序（Z > A）
+about-addressbook-sort-email-ascending =
+    .label = 按电子邮件地址排序（A > Z）
+about-addressbook-sort-email-descending =
+    .label = 按电子邮件地址排序（Z > A）
 
 ## Details
 
 about-addressbook-begin-edit-contact-button = 编辑
 about-addressbook-cancel-edit-contact-button = 取消
 about-addressbook-save-edit-contact-button = 保存
+about-addressbook-details-email-addresses-header = 电子邮件地址
 about-addressbook-details-phone-numbers-header = 手机号码
 about-addressbook-details-home-address-header = 家庭地址
 about-addressbook-details-work-address-header = 工作地址
