@@ -74,6 +74,13 @@ toolbar-context-menu-remove-extension =
     .label = Αφαίρεση επέκτασης
     .accesskey = φ
 
+## Message headers
+
+message-header-address-in-address-book-icon =
+    .alt = Η διεύθυνση βρίσκεται στο ευρετήριο
+message-header-address-not-in-address-book-icon =
+    .alt = Η διεύθυνση δεν βρίσκεται στο ευρετήριο
+
 ## Add-on removal warning
 
 # Variables:
