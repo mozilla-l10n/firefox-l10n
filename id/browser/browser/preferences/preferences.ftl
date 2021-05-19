@@ -1002,9 +1002,12 @@ enhanced-tracking-protection-setting-custom =
 content-blocking-etp-standard-desc = Seimbang untuk perlindungan dan kinerja. Halaman akan dimuat secara normal.
 content-blocking-etp-strict-desc = Perlindungan yang lebih kuat, tetapi dapat menyebabkan beberapa situs atau konten rusak.
 content-blocking-etp-custom-desc = Pilih pelacak dan skrip yang akan diblokir.
+content-blocking-etp-blocking-desc = { -brand-short-name } memblokir yang berikut:
 content-blocking-private-windows = Melacak konten di Jendela Pribadi
 content-blocking-cross-site-cookies = Kuki lintas situs
+content-blocking-cross-site-cookies-in-all-windows = Kuki lintas situs di semua jendela (termasuk kuki pelacakan)
 content-blocking-cross-site-tracking-cookies = Kuki pelacakan lintas situs
+content-blocking-all-cross-site-cookies-private-windows = Kuki lintas situs di Jendela Pribadi
 content-blocking-cross-site-tracking-cookies-plus-isolate = Kuki pelacak lintas situs, dan isolasi kuki tersisa
 content-blocking-social-media-trackers = Pelacak media sosial
 content-blocking-all-cookies = Semua kuki
@@ -1124,6 +1127,8 @@ collection-backlogged-crash-reports =
     .label = Izinkan { -brand-short-name } mengirim tumpukan laporan kerusakan atas nama Anda
     .accesskey = r
 collection-backlogged-crash-reports-link = Pelajari Lebih Lanjut
+collection-backlogged-crash-reports-with-link = Izinkan { -brand-short-name } mengirim laporan kerusakan sebelumnya atas nama Anda <a data-l10n-name="crash-report-link">Pelajari lebih lanjut</a>
+    .accesskey = l
 
 ## Privacy Section - Security
 ##

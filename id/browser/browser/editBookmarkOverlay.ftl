@@ -49,4 +49,4 @@ bookmark-overlay-keyword-2 =
     .value = Kata Kunci
     .accesskey = K
 bookmark-overlay-tags-caption-label = Gunakan tag untuk mengelola dan mencari markah dari bilah alamat
-bookmark-overlay-keyword-caption-label = Gunakan kata kunci untuk membuka markah langsung dari bilah alamat
+bookmark-overlay-keyword-caption-label-2 = Gunakan satu kata kunci untuk membuka markah langsung dari bilah alamat
