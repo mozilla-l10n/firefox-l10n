@@ -83,7 +83,7 @@ about-debugging-setup-title = Konfiguracija
 # Introduction text in the Setup page to explain how to configure remote debugging.
 about-debugging-setup-intro = Konfiguriraj način povezivanja za uklanjanje grešaka na tvom uređaju.
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
-about-debugging-setup-this-firefox2 = Koristi <a>{ about-debugging-this-firefox-runtime-name }</a> za uklanjanje grešaka proširenja i radnih procesa ove verzije { -brand-shorter-name }a.
+about-debugging-setup-this-firefox2 = Koristi <a>{ about-debugging-this-firefox-runtime-name }</a> za uklanjanje grešaka proširenja i radnih procesa ove verzije { -brand-shorter-name(case: "gen") }.
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Spoji uređaj
 # USB section of the Setup page

@@ -3,13 +3,13 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 aboutDialog-title =
-    .title = O { -brand-full-name }u
+    .title = O { -brand-full-name(case: "loc") }
 releaseNotes-link = Što je novo
 update-checkForUpdatesButton =
     .label = Provjeri dostupnost dopuna
     .accesskey = j
 update-updateButton =
-    .label = Ponovo pokreni za aktualiziranje { -brand-shorter-name }a
+    .label = Ponovo pokreni za aktualiziranje { -brand-shorter-name(case: "gen") }
     .accesskey = R
 update-checkingForUpdates = Provjera dopuna…
 update-downloading = <img data-l10n-name="icon"/>Preuzimanje dopune — <label data-l10n-name="download-status"/>
