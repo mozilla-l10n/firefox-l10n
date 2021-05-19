@@ -49,8 +49,8 @@ chooser-dialog-description = Odaberi aplikaciju za otvaranje poveznice { $scheme
 chooser-dialog-remember = Uvijek koristi ovu aplikaciju za otvaranje poveznica <strong>{ $scheme }</strong>
 chooser-dialog-remember-extra =
     { PLATFORM() ->
-        [windows] Ovo se može promijeniti u mogućnostima { -brand-short-name }a.
-       *[other] Ovo se može promijeniti u postavkama { -brand-short-name }a.
+        [windows] Ovo se može promijeniti u mogućnostima { -brand-short-name(case: "gen") }.
+       *[other] Ovo se može promijeniti u postavkama { -brand-short-name(case: "gen") }.
     }
 choose-other-app-description = Odaberi jedan drugi program
 choose-app-btn =

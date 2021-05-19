@@ -11,4 +11,4 @@ elevation-error-manual = { -brand-short-name } možeš aktualizirati na najnovij
 elevation-finished-page = Dopuna sprema za instalaciju
 elevation-finished-background-page = Dopuna s pobojšanjima za sigurnost i stabilnost za { -brand-short-name } je preuzeta i može se instalirati.
 elevation-finished-background = Dopuna:
-elevation-more-elevated = Ova nadogradnja zahtjeva administratorske ovlasti. Nadogradnja će se instalirati pri sljedećem pokretanju { -brand-short-name }a. Ponovo pokreni { -brand-short-name } sada ili ga nastaviti koristiti i ponovo ga pokreni kasnije ili zanemari ovu nadogradnju
+elevation-more-elevated = Ova nadogradnja zahtjeva administratorske ovlasti. Nadogradnja će se instalirati pri sljedećem pokretanju { -brand-short-name(case: "gen") }. Ponovo pokreni { -brand-short-name } sada ili ga nastaviti koristiti i ponovo ga pokreni kasnije ili zanemari ovu nadogradnju
