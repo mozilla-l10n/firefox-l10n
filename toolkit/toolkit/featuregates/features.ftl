@@ -21,6 +21,7 @@ experimental-features-media-avif-description = Når denne funksjonen er slått p
 # by various online articles and is technical in nature.
 experimental-features-media-jxl =
     .label = Media: JPEG XL
+experimental-features-media-jxl-description = Med denne funksjonen aktivert støttar { -brand-short-name } formatet JPEG XL (JXL). Dette er eit forbetra bildefilformat som støttar tapsfri overgang frå tradisjonelle JPEG-filer. Sjå <a data-l10n-name="bugzilla">feilrapport 1539075</a> for meir informasjon.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
@@ -71,6 +72,7 @@ experimental-features-webrtc-global-mute-toggles-description = Legg til kontroll
 # Win32k Lockdown
 experimental-features-win32k-lockdown =
     .label = Win32k-låsing
+experimental-features-win32k-lockdown-description = Deaktiver bruk av Win32k API-ar i nettlesarfaner. Gir auka sikkerheit, men kan for tida vere ustabil eller utsett for feil. (Berre Windows)
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
