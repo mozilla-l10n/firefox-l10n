@@ -117,6 +117,8 @@ move-attachment-last-panel-button =
 button-return-receipt =
     .label = Recibo
     .tooltiptext = Pedir recibo por este mensaje
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+consider-bcc-notification = Los destinatarios de { $count } en Para y Cc pueden ver la dirección de los otros. Puede evitar revelar destinatarios usando Cco en su lugar.
 
 # Addressing Area
 
@@ -151,7 +153,7 @@ bcc-compose-show-address-row-label =
     .value = { bcc-compose-address-row-label.value }
     .tooltiptext = Mostrar { bcc-compose-address-row-label.value } Campo { bcc-compose-show-address-row-menuitem.acceltext }
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
-consider-bcc-notification = Los destinatarios de { $count } en Para y Cc pueden ver la dirección de los otros. Puede evitar revelar destinatarios usando Cco en su lugar.
+many-public-recipients-info = Los destinatarios de { $count } en Para y Cc pueden ver la dirección de los demás. Puede evitar revelar destinatarios usando Cco en su lugar.
 many-public-recipients-bcc =
     .label = Usar Cco En Su Lugar
     .accesskey = U

@@ -58,3 +58,5 @@ about-addressbook-save-edit-contact-button = Guardar
 about-addressbook-details-email-addresses-header = Direcciones de correo electrónico
 about-addressbook-details-phone-numbers-header = Números de teléfono
 about-addressbook-details-home-address-header = Dirección personal
+about-addressbook-details-work-address-header = Dirección laboral
+about-addressbook-details-other-info-header = Otra información
