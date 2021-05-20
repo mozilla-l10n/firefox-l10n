@@ -36,3 +36,9 @@ experimental-features-cookie-samesite-none-requires-secure2 =
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
     .label = Cookies: Schemeful SameSite
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-devtools-serviceworker-debugger-support =
+    .label = Binviji diorrenerien : diveugañ ar Service Worker
+# Fission is the name of the feature and should not be translated.
+experimental-features-fission =
+    .label = Fission (Site Isolation)
