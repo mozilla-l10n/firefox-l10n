@@ -123,6 +123,8 @@ move-attachment-last-panel-button =
 button-return-receipt =
     .label = Patvirtinimas
     .tooltiptext = Paprašyti pristatymo patvirtinimo šiam pranešimui
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+consider-bcc-notification = { $count } gavėjai iš „To“ ir „Cc“ gali matyti vienas kito adresą. Jei norite to išvengti, naudokite nematomas kopijas (BCC).
 
 # Addressing Area
 
@@ -157,7 +159,7 @@ bcc-compose-show-address-row-label =
     .value = { bcc-compose-address-row-label.value }
     .tooltiptext = Parodo { bcc-compose-address-row-label.value } lauką ({ bcc-compose-show-address-row-menuitem.acceltext })
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
-consider-bcc-notification = { $count } gavėjai iš „To“ ir „Cc“ gali matyti vienas kito adresą. Jei norite to išvengti, naudokite nematomas kopijas (BCC).
+many-public-recipients-info = { $count } gavėjai iš „To“ ir „Cc“ gali matyti vienas kito adresą. Jei norite to išvengti, naudokite nematomas kopijas (Bcc).
 many-public-recipients-bcc =
     .label = Vietoj to naudoti nematomas kopijas (BCC)
     .accesskey = n

@@ -29,6 +29,10 @@ about-addressbook-books-context-delete =
 
 ## Cards
 
+# Variables:
+# $name (String) - Name of the address book that will be searched.
+about-addressbook-search =
+    .placeholder = Ieškoti „{ $name }“
 about-addressbook-search-all =
     .placeholder = Ieškoti visose adresų knygose
 about-addressbook-name-format-display =
@@ -48,7 +52,11 @@ about-addressbook-sort-email-descending =
 
 ## Details
 
+about-addressbook-begin-edit-contact-button = Redaguoti
+about-addressbook-cancel-edit-contact-button = Atšaukti
+about-addressbook-save-edit-contact-button = Įrašyti
 about-addressbook-details-email-addresses-header = El. paštas
 about-addressbook-details-phone-numbers-header = Telefonų numeriai
 about-addressbook-details-home-address-header = Namų adresas
 about-addressbook-details-work-address-header = Darbovietės adresas
+about-addressbook-details-other-info-header = Kita informacija
