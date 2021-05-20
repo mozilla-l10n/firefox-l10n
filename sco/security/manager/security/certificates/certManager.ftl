@@ -2,6 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+certmgr-tab-mine =
+    .label = Yer Certificates
+certmgr-subject-label = Issued Tae
+certmgr-fingerprints = Fingirprents
 
 ## PKCS#12 file dialogs
 
@@ -24,6 +28,7 @@ file-browse-pkcs12-spec = PKCS12 Files
 
 ## Add Security Exception dialog
 
+add-exception-domain-mismatch-short = Wrang Site
 
 ## Certificate export "Save as" and error dialogs
 

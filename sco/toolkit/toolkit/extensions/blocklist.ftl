@@ -2,5 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0
 
+blocklist-accept =
+    .label = Restert { -brand-short-name }
+    .accesskey = R
 blocklist-more-information =
     .value = Mair information
+blocklist-blocked =
+    .label = Blockit
+blocklist-checkbox =
+    .label = Disable
