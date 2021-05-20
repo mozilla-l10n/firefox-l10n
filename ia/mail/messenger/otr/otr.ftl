@@ -59,6 +59,14 @@ context-gone_secure_unverified = Initiate conversation cryptate, ma non verifica
 context-still_secure = Conversation cryptate con { $name } reinitiate con successo.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
+msgevent-encryption-required-part1 = Tu ha tentate inviar un non message non cryptate a { $name }. Como regulamento, le messages non cryptate non es consentite.
+msgevent-encryption-required-part2 = Tentativa pro initiar un conversation private. Tu message sera reinviate quando le conversation private initia.
+msgevent-encryption-error = Un error occurreva cryptante tu message. Message non inviate.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-connection-ended = { $name } ha jam claudite su connexion cryptate pro te. Pro evitar que tu accidentalmente invia un message non cryptate, tu message non ha essite inviate. Claude tu conversation cryptate, o reinitia lo.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
 msgevent-setup-error = Un error occurreva durante le preparation de un conversation private con { $name }.
 # Do not translate 'OTR' (name of an encryption protocol)
 msgevent-msg-reflected = Tu recipe tu proprie messages OTR. Tu tenta parlar a te mesme o qualcuno reflecte tu messages retro a te.
@@ -108,6 +116,9 @@ error-enc = Un error occurreva durante que on cryptava le message.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 error-not_priv = Tu inviava a { $name } datos cryptate que ille non attendeva.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+error-not-priv = Tu inviava a { $name } datos cryptate que ille non attendeva.
 error-unreadable = Tu transmitteva un message cryptate non legibile.
 error-malformed = Tu transmitteva un message de datos malformate.
 resent = [reinviate]

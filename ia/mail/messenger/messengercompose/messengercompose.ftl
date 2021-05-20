@@ -115,17 +115,43 @@ move-attachment-last-panel-button =
 button-return-receipt =
     .label = Quitantia
     .tooltiptext = Requirer un quitantia de retorno pro iste message
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+consider-bcc-notification = Le { $count } destinatarios in A e Cc pote vider lor relative adresses. Tu pote impedir le divulgation del adresses del destinatarios per Ccn.
 
 # Addressing Area
 
 to-compose-address-row-label =
     .value = A
+#   $key (String) - the shortcut key for this field
+to-compose-show-address-row-menuitem =
+    .label = Campo { to-compose-address-row-label.value }
+    .accesskey = a
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+to-compose-show-address-row-label =
+    .value = { to-compose-address-row-label.value }
+    .tooltiptext = Monstrar { to-compose-address-row-label.value } Campo ({ to-compose-show-address-row-menuitem.acceltext })
 cc-compose-address-row-label =
     .value = CC
+#   $key (String) - the shortcut key for this field
+cc-compose-show-address-row-menuitem =
+    .label = Campo { cc-compose-address-row-label.value }
+    .accesskey = C
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+cc-compose-show-address-row-label =
+    .value = { cc-compose-address-row-label.value }
+    .tooltiptext = Monstrar { cc-compose-address-row-label.value } Campo ({ cc-compose-show-address-row-menuitem.acceltext })
 bcc-compose-address-row-label =
     .value = Ccn
+#   $key (String) - the shortcut key for this field
+bcc-compose-show-address-row-menuitem =
+    .label = Campo { bcc-compose-address-row-label.value }
+    .accesskey = m
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+bcc-compose-show-address-row-label =
+    .value = { bcc-compose-address-row-label.value }
+    .tooltiptext = Monstrar campo { bcc-compose-address-row-label.value } ({ bcc-compose-show-address-row-menuitem.acceltext })
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
-consider-bcc-notification = Le { $count } destinatarios in A e Cc pote vider lor relative adresses. Tu pote impedir le divulgation del adresses del destinatarios per Ccn.
+many-public-recipients-info = Le { $count } destinatarios in A e Cc videra lor le un le altere lor adresses. Tu pote impedir le divulgation del adresses del destinatarios per Ccn.
 many-public-recipients-bcc =
     .label = Usar Bcc in vice
     .accesskey = U

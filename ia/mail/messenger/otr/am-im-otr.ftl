@@ -17,6 +17,8 @@ otr-log =
     .label = includer messages cryptate OTR in le registros de conversation
 otr-requireEncryption =
     .label = Requirer cryptation end-to-end pro le conversationes un-a-un
+otr-require-encryption =
+    .label = Requirer cryptation end-to-end pro le conversationes un-a-un
 otr-require-encryption-info =
     Quando require le cryptographia end-to-end, messages in conversationes un-a-un
     non sera inviate a minus que illos pote esser cryptate. Le messages recipite non cryptate
