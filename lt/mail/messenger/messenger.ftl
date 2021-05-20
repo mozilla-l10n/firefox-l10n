@@ -75,6 +75,13 @@ toolbar-context-menu-remove-extension =
     .label = Pašalinti priedą
     .accesskey = P
 
+## Message headers
+
+message-header-address-in-address-book-icon =
+    .alt = Adresas yra adresų knygoje
+message-header-address-not-in-address-book-icon =
+    .alt = Adreso nėra adresų knygoje
+
 ## Add-on removal warning
 
 # Variables:
