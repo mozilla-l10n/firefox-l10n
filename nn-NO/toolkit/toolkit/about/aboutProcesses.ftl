@@ -62,7 +62,7 @@ about-processes-file-process = Filer ({ $pid })
 about-processes-extension-process = Utviding ({ $pid })
 about-processes-privilegedabout-process = «Om»-sidene ({ $pid })
 about-processes-plugin-process = Programtillegg ({ $pid })
-about-processes-privilegedmozilla-process = { -vendor-short-name } nettstadar ({ $pid })
+about-processes-privilegedmozilla-process = { -vendor-short-name }-nettstadar ({ $pid })
 about-processes-gmp-plugin-process = Gecko media-programtillegg ({ $pid })
 about-processes-gpu-process = GPU ({ $pid })
 about-processes-vr-process = VR ({ $pid })
@@ -83,10 +83,10 @@ about-processes-unknown-process = Anna: { $type }({ $pid })
 ##    $origin (String) The domain name for this process.
 
 about-processes-web-isolated-process = { $origin } ({ $pid })
-about-processes-web-large-allocation-process = { $origin } ({ $pid },stor)
+about-processes-web-large-allocation-process = { $origin } ({ $pid }, stor)
 about-processes-with-coop-coep-process = { $origin } ({ $pid }, cross-origin isolert)
 about-processes-web-isolated-process-private = { $origin } — Privat ({ $pid })
-about-processes-web-large-allocation-process-private = { $origin } — Privat({ $pid },stor)
+about-processes-web-large-allocation-process-private = { $origin } — Privat({ $pid }, stor)
 about-processes-with-coop-coep-process-private = { $origin } — Privat ({ $pid }, cross-origin isolert)
 
 ## Details within processes
