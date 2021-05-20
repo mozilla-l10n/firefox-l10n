@@ -100,6 +100,7 @@ account-setup-step3-image =
     .title = Konfiguráció megtalálva
 account-setup-step4-image =
     .title = Kapcsolódási hiba
+account-setup-privacy-footnote = A hitelesítő adatait az <a data-l10n-name="privacy-policy-link">adatvédelmi irányelveink</a> szerint használjuk fel, és csak helyben tároljuk, az Ön számítógépén.
 account-setup-selection-help = Nem tudja, mit válasszon?
 account-setup-selection-error = Segítségre van szüksége?
 account-setup-documentation-help = Telepítési dokumentáció
@@ -110,8 +111,10 @@ account-setup-forum-help = Támogatói fórum
 account-setup-protocol-title = Válassza ki a protokollt
 # Note: IMAP is the name of a protocol.
 account-setup-result-imap = IMAP
+account-setup-result-imap-description = Mappák és e-mailek szinkronban tartása a kiszolgálón
 # Note: POP3 is the name of a protocol.
 account-setup-result-pop = POP3
+account-setup-result-pop-description = Mappák és e-mailek tárolása az Ön számítógépén
 # Note: Exchange is the name of a product.
 account-setup-result-exchange = Exchange
 account-setup-result-exchange-description = Microsoft Exchange Server
@@ -122,8 +125,11 @@ account-setup-exchange-title = Kiszolgáló
 
 ## Error messages
 
+# Note: The reference to "janedoe" (Jane Doe) is the name of an example person. You will want to translate it to whatever example persons would be named in your language. In the example, AD is the name of the Windows domain, and this should usually not be translated.
+account-setup-credentials-incomplete = Hitelesítés sikertelen. A megadott hitelesítő adatok hibásak vagy külön felhasználónév szükséges a bejelentkezéshez. Ez a felhasználónév általában a Windows tartományi bejelentkezése a tartomány nevével vagy anélkül (például gipszjakab vagy AD\\gipszjakab).
 account-setup-credentials-wrong = Hitelesítés sikertelen. Ellenőrizze a felhasználónevet és a jelszót.
 account-setup-find-settings-failed = A { -brand-short-name } nem találta meg az e-mail-fiókja beállításait
+account-setup-exchange-config-unverifiable = A konfigurációt nem lehetett megerősíteni. Ha a felhasználóneve és a jelszava helyes, akkor valószínű, hogy a kiszolgáló adminisztrátora letiltotta a fiókjának kiválasztott konfigurációját. Próbáljon meg másik protokollt választani.
 
 ## Manual config area
 
