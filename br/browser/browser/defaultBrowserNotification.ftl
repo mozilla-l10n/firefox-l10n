@@ -16,6 +16,7 @@ default-browser-prompt-title-pin = Dibab { -brand-short-name } evel merdeer penn
 default-browser-prompt-message-pin = Dalc’hit { -brand-short-name } tost ouzhoc’h — lakait anezhañ da verdeer dre ziouer ha spilhennit anezhañ en ho parrenn drevelloù.
 default-browser-prompt-button-primary-pin = Lakaat da verdeer pennañ
 default-browser-prompt-title-alt = Lakaat { -brand-short-name } da verdeer dre ziouer?
+default-browser-prompt-message-alt = Ho pezet tizhder, surentez ha dangelez bewech ma verdeit.
 default-browser-prompt-button-primary-alt = Lakaat da verdeer dre ziouer
 default-browser-prompt-checkbox-not-again-label = Arabat diskouez ar gemennadenn-mañ adarre
 default-browser-prompt-button-secondary = Diwezhatoc'h

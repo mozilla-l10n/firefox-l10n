@@ -28,6 +28,18 @@ search-input-box =
             [windows] Klask en dibarzhioù
            *[other] Klask er gwellvezioù
         }
+settings-page-title = Arventennoù
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box2 =
+    .style = width: 15.4em
+    .placeholder = Find in Settings
 managed-notice = Ardoet eo ho merdeer gant hoc'h aozadur.
 category-list =
     .aria-label = Rummadoù
@@ -46,7 +58,14 @@ category-privacy =
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
+pane-sync-title3 = Goubredañ
+category-sync3 =
+    .tooltiptext = { pane-sync-title3 }
+pane-experimental-title = Arnodoù { -brand-short-name }
+category-experimental =
+    .tooltiptext = Arnodoù { -brand-short-name }
 pane-experimental-subtitle = Kendalc'hit gant evezh
+pane-experimental-search-results-header = Arnod { -brand-short-name } : Diwall mat
 pane-experimental-reset =
     .label = Assav an arventennoù dre ziouer
     .accesskey = A
@@ -113,6 +132,8 @@ search-results-empty-message =
         [windows] Digarezit! N'eus disoc'h ebet en dibarzhioù evit “<span data-l10n-name="query"></span>”.
        *[other] Digarezit! N'eus disoc'h ebet er Gwellvezioù evit “<span data-l10n-name="query"></span>”.
     }
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 = Digarezit! N'eus disoc'h ebet en arventennoù evit “<span data-l10n-name="query"><span data-l10n-name="query"></span>”.
 search-results-help-link = Ezhomm sikour? Gweladenniñ <a data-l10n-name="url">Skoazell { -brand-short-name }</a>
 
 ## General Section
