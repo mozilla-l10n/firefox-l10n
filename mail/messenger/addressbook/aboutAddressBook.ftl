@@ -13,9 +13,9 @@ about-addressbook-toolbar-new-carddav-address-book =
 about-addressbook-toolbar-new-ldap-address-book =
     .label = Новая адресная книга LDAP
 about-addressbook-toolbar-new-contact =
-    .label = Создать контакт
+    .label = Новый контакт
 about-addressbook-toolbar-new-list =
-    .label = Создать список
+    .label = Новый список
 
 ## Books
 
