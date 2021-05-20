@@ -58,3 +58,5 @@
 <!ENTITY publishToolbarCmd.tooltip "Last opp fil til eksternt område">
 <!ENTITY printToolbarCmd.label "Skriv ut">
 <!ENTITY printToolbarCmd.tooltip "Skriv ut denne siden">
+<!ENTITY formToolbarCmd.label "Skjema">
+<!ENTITY formToolbarCmd.tooltip "Sett inn nytt skjema eller rediger den valgte skjemaets egenskaper">
