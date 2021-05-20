@@ -84,23 +84,35 @@ account-setup-success-addon = Additivo installate con successo
 # Note: Do not translate or replace Mozilla. It stands for the public project mozilla.org, not Mozilla Corporation. The database is a generic, public domain facility usable by any client.
 account-setup-success-settings-db = Configuration trovate in le base de datos de Mozilla ISP.
 account-setup-success-settings-disk = Configuration trovate sur le installation de { -brand-short-name }.
-account-setup-success-settings-isp = Configuration trovate a fornitor de e-mail.
+account-setup-success-settings-isp = Configuration trovate pro le fornitor de e-mail.
+# Note: Microsoft Exchange is a product name.
+account-setup-success-settings-exchange = Configuration trovate pro un servitor Microsoft Exchange.
 
 ## Illustrations
 
+account-setup-step1-image =
+    .title = Installation initial
 account-setup-step2-image =
     .title = Cargante…
+account-setup-step3-image =
+    .title = Configuration trovate
 account-setup-step4-image =
     .title = Error de connexion
+account-setup-privacy-footnote = Tu credentiales essera usate in accordo a nostre <a data-l10n-name="privacy-policy-link">politica de confidentialitate</a> e essera solo immagazinate localmente sur tu computator.
+account-setup-selection-help = Non es tu secur de que seliger?
 account-setup-selection-error = Require tu adjuta?
+account-setup-documentation-help = Installation de documentation
 account-setup-forum-help = Foro de supporto
 
 ## Results area
 
+account-setup-protocol-title = Elige le protocollo
 # Note: IMAP is the name of a protocol.
 account-setup-result-imap = IMAP
+account-setup-result-imap-description = Mantene tu plicas e e-mails synchronisate sur tu servitor
 # Note: POP3 is the name of a protocol.
 account-setup-result-pop = POP3
+account-setup-result-pop-description = Mantene tu plicas e e-mails sur tu computator
 # Note: Exchange is the name of a product.
 account-setup-result-exchange = Excambiar
 account-setup-result-exchange-description = Microsoft Exchange Server
@@ -111,17 +123,38 @@ account-setup-exchange-title = Servitor
 
 ## Error messages
 
+# Note: The reference to "janedoe" (Jane Doe) is the name of an example person. You will want to translate it to whatever example persons would be named in your language. In the example, AD is the name of the Windows domain, and this should usually not be translated.
+account-setup-credentials-incomplete = Authentication fallite. O le credentiales inserite non es correcte o un altere nomine de usator es obligatori pro le authentication. Iste nomine de usator sole esser tu credential pro le dominio de Windows con o sin le dominio (per exemplo, janedoe o ADI\\janedoe)
+account-setup-credentials-wrong = Authentication fallite. Verifica le nomine de usator e le contrasigno
+account-setup-find-settings-failed = { -brand-short-name } non ha potite trovar le parametros pro tu conto e-mail
+account-setup-exchange-config-unverifiable = Le configuration non pote esser verificate. Si tu nomine de usator e contrasigno es correcte, il es probabile que le administrator del servitor ha disactivate le configuration seligite pro tu conto. Prova seliger un altere protocollo.
 
 ## Manual config area
 
 account-setup-manual-config-title = Parametros de servitor
+account-setup-incoming-protocol-label = Protocollo de arrivata
 protocol-imap-option = { account-setup-result-imap }
 protocol-pop-option = { account-setup-result-pop }
+account-setup-outgoing-protocol-label = Protocollo de exito
 outgoing-protocol = SMTP
+account-setup-incoming-server-label = Servitor de arrivata
+account-setup-outgoing-server-label = Servitor de exito
+account-setup-incoming-port-label = Porta de arrivata
+account-setup-outoing-port-label = Porta de exito
+account-setup-incoming-ssl-label = SSL de arrivata
+account-setup-outgoing-ssl-label = SSL de exito
 ssl-autodetect-option = Deteger automaticamente
 ssl-noencryption-option = Nulle
 ssl-starttls-option = STARTTLS
 ssl-tls-option = SSL/TLS
+account-setup-incoming-auth-label = Authentication de arrivata
+account-setup-outgoing-auth-label = Authentication de exito
+account-setup-incoming-username-label = Nomine de usator de arrivata
+account-setup-outgoing-username-label = Nomine de usator de exito
+account-setup-advanced-setup-button = Configuration avantiate
+    .accesskey = a
 
 ## Warning insecure server
 
+account-setup-insecure-server-checkbox = Io comprende le riscos
+    .accesskey = c
