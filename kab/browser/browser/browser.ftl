@@ -514,6 +514,11 @@ urlbar-placeholder-with-name =
     .placeholder = Nadi s { $name } neɣ sekcem tansa
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Iminig yettwaṭṭef s wudem anmeggag
+# Variables
+#  $component (String): the name of the component which forces remote control.
+#    Example: "DevTools", "Marionette", "RemoteAgent".
+urlbar-remote-control-notification-anchor2 =
+    .tooltiptext = Iinig ha-t ddaw usenqed anmeggag (ssebba: { $component })
 urlbar-permissions-granted =
     .tooltiptext = Ɣur-k tisirag-nniḍen akken ad tkecmeḍ ɣeṛ usmel-a web.
 urlbar-switch-to-tab =
