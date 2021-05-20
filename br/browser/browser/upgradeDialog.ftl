@@ -14,6 +14,16 @@ upgrade-dialog-new-subtitle = Krouet evit ho kas d'al lec'h a fell deoc'h, buano
 upgrade-dialog-new-item-menu-title = Barrenn ostilhoù ha lañserioù eeunaet
 upgrade-dialog-new-item-tabs-title = Ivinelloù modern
 upgrade-dialog-new-item-icons-title = Arlunioù nevez ha kemennadennoù sklaeroc'h
+upgrade-dialog-new-primary-primary-button = Lakaat { -brand-short-name } da verdeer kentañ
+    .title = A lak { -brand-short-name } da verdeer dre-ziouer ha spilhenn anezhañ da varrenn an trevelloù
+upgrade-dialog-new-primary-default-button = Lakaat { -brand-short-name } da verdeer dre-ziouer
+upgrade-dialog-new-primary-pin-button = Spilhennañ { -brand-short-name } da varrenn an trevelloù
+upgrade-dialog-new-primary-pin-alt-button = Spilhennañ da varrenn an trevelloù
+upgrade-dialog-new-primary-theme-button = Dibab un tem
+upgrade-dialog-new-secondary-button = Ket bremañ
+# This string is only shown on Windows 7, where we intentionally suppress the
+# theme selection screen.
+upgrade-dialog-new-primary-win7-button = Mat eo, komprenet em eus !
 
 ## Default browser screen
 
