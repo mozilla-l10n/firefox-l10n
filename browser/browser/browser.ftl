@@ -538,6 +538,11 @@ urlbar-placeholder-with-name =
     .placeholder = Chwilio gyda { $name } neu rhoi'r cyfeiriad
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Mae'r porwr o dan reolaeth bell
+# Variables
+#  $component (String): the name of the component which forces remote control.
+#    Example: "DevTools", "Marionette", "RemoteAgent".
+urlbar-remote-control-notification-anchor2 =
+    .tooltiptext = Mae'r porwr o dan reolaeth bell (rheswm: { $component })
 urlbar-permissions-granted =
     .tooltiptext = Rydych wedi rhoi caniatâd ychwanegol i'r wefan hon.
 urlbar-switch-to-tab =
