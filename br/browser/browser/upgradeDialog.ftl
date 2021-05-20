@@ -8,6 +8,12 @@
 
 ## New changes screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-new-title = Lârout demat d'un { -brand-short-name } nevez
+upgrade-dialog-new-subtitle = Krouet evit ho kas d'al lec'h a fell deoc'h, buanoc'h
+upgrade-dialog-new-item-menu-title = Barrenn ostilhoù ha lañserioù eeunaet
+upgrade-dialog-new-item-tabs-title = Ivinelloù modern
+upgrade-dialog-new-item-icons-title = Arlunioù nevez ha kemennadennoù sklaeroc'h
 
 ## Default browser screen
 
