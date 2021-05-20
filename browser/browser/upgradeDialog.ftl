@@ -18,6 +18,8 @@ upgrade-dialog-new-alt-subtitle = Start med å gjøre <span data-l10n-name="zap"
 upgrade-dialog-new-item-menu-title = Strømlinjeformede verktøylinjer og menyer
 upgrade-dialog-new-item-menu-description = Prioriter de viktige tingene slik at du finner det du trenger.
 upgrade-dialog-new-item-tabs-title = Moderne faner
+upgrade-dialog-new-item-tabs-description = Inneholder tydelig informasjon, hjelper deg å fokusere og er lett å flytte rundt.
+upgrade-dialog-new-item-icons-title = Nye ikoner og tydeligere meldinger
 upgrade-dialog-new-primary-primary-button = Gjør { -brand-short-name } til min primære nettleser
     .title = Setter { -brand-short-name } som standard nettleser og fester den til oppgavelinjen
 upgrade-dialog-new-primary-default-button = Gjør { -brand-short-name } til min standardnettleser
