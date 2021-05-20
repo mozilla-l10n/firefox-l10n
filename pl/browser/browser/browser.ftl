@@ -520,6 +520,11 @@ urlbar-placeholder-with-name =
     .placeholder = Wprowadź adres lub szukaj w { $name }
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Przeglądarka jest zdalnie zarządzana
+# Variables
+#  $component (String): the name of the component which forces remote control.
+#    Example: "DevTools", "Marionette", "RemoteAgent".
+urlbar-remote-control-notification-anchor2 =
+    .tooltiptext = Przeglądarka jest zdalnie zarządzana (przez: { $component })
 urlbar-permissions-granted =
     .tooltiptext = Witryna korzysta z dodatkowych uprawnień.
 urlbar-switch-to-tab =
