@@ -20,6 +20,7 @@ upgrade-dialog-new-item-menu-description = Prioriter de viktige tingene slik at 
 upgrade-dialog-new-item-tabs-title = Moderne faner
 upgrade-dialog-new-item-tabs-description = Inneholder tydelig informasjon, hjelper deg å fokusere og er lett å flytte rundt.
 upgrade-dialog-new-item-icons-title = Nye ikoner og tydeligere meldinger
+upgrade-dialog-new-item-icons-description = Hjelp deg med å komme raskere til målet ditt.
 upgrade-dialog-new-primary-primary-button = Gjør { -brand-short-name } til min primære nettleser
     .title = Setter { -brand-short-name } som standard nettleser og fester den til oppgavelinjen
 upgrade-dialog-new-primary-default-button = Gjør { -brand-short-name } til min standardnettleser
