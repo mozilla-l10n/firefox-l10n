@@ -75,6 +75,13 @@ toolbar-context-menu-remove-extension =
     .label = Usuń rozszerzenie
     .accesskey = U
 
+## Message headers
+
+message-header-address-in-address-book-icon =
+    .alt = Adres jest w książce adresowej
+message-header-address-not-in-address-book-icon =
+    .alt = Adresu nie ma w książce adresowej
+
 ## Add-on removal warning
 
 # Variables:

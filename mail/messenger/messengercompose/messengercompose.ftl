@@ -123,6 +123,8 @@ move-attachment-last-panel-button =
 button-return-receipt =
     .label = Potwierdzenie
     .tooltiptext = Żądaj potwierdzenia dostarczenia tej wiadomości
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+consider-bcc-notification = { $count } odbiorców w polach Do i Kopia może widzieć swoje adresy. Można uniknąć ujawniania odbiorców, używając zamiast tego pola Ukryta kopia.
 
 # Addressing Area
 
@@ -157,7 +159,7 @@ bcc-compose-show-address-row-label =
     .value = { bcc-compose-address-row-label.value }
     .tooltiptext = Pokaż pole „{ bcc-compose-address-row-label.value }” ({ bcc-compose-show-address-row-menuitem.acceltext })
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
-consider-bcc-notification = { $count } odbiorców w polach Do i Kopia może widzieć swoje adresy. Można uniknąć ujawniania odbiorców, używając zamiast tego pola Ukryta kopia.
+many-public-recipients-info = { $count } odbiorców w polach Do i Kopia będzie widzieć swoje adresy. Można uniknąć ujawniania odbiorców, używając zamiast tego pola Ukryta kopia.
 many-public-recipients-bcc =
     .label = Użyj pola Ukryta kopia
     .accesskey = U
