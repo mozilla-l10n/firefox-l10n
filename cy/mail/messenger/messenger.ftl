@@ -78,6 +78,13 @@ toolbar-context-menu-remove-extension =
     .label = Tynnu Estyniad
     .accesskey = T
 
+## Message headers
+
+message-header-address-in-address-book-icon =
+    .alt = Cyfeiriad yn y Llyfr Cyfeiriadau
+message-header-address-not-in-address-book-icon =
+    .alt = Nid yw'r cyfeiriad yn y Llyfr Cyfeiriadau
+
 ## Add-on removal warning
 
 # Variables:
