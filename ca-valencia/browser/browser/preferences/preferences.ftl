@@ -28,6 +28,18 @@ search-input-box =
             [windows] Cerca en les opcions
            *[other] Cerca en les preferències
         }
+settings-page-title = Paràmetres
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box2 =
+    .style = width: 15.4em
+    .placeholder = Cerca en els paràmetres
 managed-notice = El navegador està gestionat per la vostra organització.
 category-list =
     .aria-label = Categories
@@ -46,12 +58,16 @@ category-privacy =
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
+pane-sync-title3 = Sincronització
+category-sync3 =
+    .tooltiptext = { pane-sync-title3 }
 pane-experimental-title = Experiments del { -brand-short-name }
 category-experimental =
     .tooltiptext = Experiments del { -brand-short-name }
 pane-experimental-subtitle = Aneu amb compte
 pane-experimental-search-results-header = Experiments del { -brand-short-name }: Aneu amb compte
 pane-experimental-description = La modificació de les preferències avançades de configuració pot afectar el rendiment o la seguretat del { -brand-short-name }.
+pane-experimental-description2 = La modificació dels paràmetres avançats de configuració pot afectar el rendiment o la seguretat del { -brand-short-name }.
 pane-experimental-reset =
     .label = Restaura els valors per defecte
     .accesskey = R
@@ -121,6 +137,8 @@ search-results-empty-message =
         [windows] No s'ha trobat «<span data-l10n-name="query"></span>» a les opcions.
        *[other] No s'ha trobat «<span data-l10n-name="query"></span>» a les preferències.
     }
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 = No s'ha trobat «<span data-l10n-name="query"></span>» als paràmetres.
 search-results-help-link = Necessiteu ajuda? Visiteu l'<a data-l10n-name="url">assistència del { -brand-short-name }</a>
 
 ## General Section
@@ -369,6 +387,9 @@ update-application-check-choose =
 update-application-manual =
     .label = No cerques mai actualitzacions (no recomanat)
     .accesskey = N
+update-application-background-enabled =
+    .label = Quan el { -brand-short-name } no s'estiga executant
+    .accesskey = Q
 update-application-warning-cross-user-setting = Este paràmetre s'aplicarà a tots els comptes del Windows i perfils del { -brand-short-name } que utilitzen esta instal·lació del { -brand-short-name }.
 update-application-use-service =
     .label = Instal·la les actualitzacions en segon pla
@@ -380,6 +401,15 @@ update-setting-write-failure-title = Error en guardar les preferències d'actual
 # intentional so the path is easier to identify.
 update-setting-write-failure-message =
     El { -brand-short-name } ha trobat un error i no ha desat aquest canvi. Tingueu en compte que, per definir aquesta preferència d'actualització, necessiteu permís per escriure al fitxer següent. Podeu resoldre l’error, o un administrador del sistema, concedint al grup «Usuaris» el control total d'aquest fitxer.
+    
+    No s'ha pogut escriure al fitxer: { $path }
+update-setting-write-failure-title2 = Error en guardar els paràmetres d'actualització
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message2 =
+    El { -brand-short-name } ha trobat un error i no ha desat aquest canvi. Tingueu en compte que, per canviar aquest paràmetre d'actualització, necessiteu permís per escriure al fitxer següent. Podeu resoldre l’error, o un administrador del sistema, concedint al grup «Usuaris» el control total d'aquest fitxer.
     
     No s'ha pogut escriure al fitxer: { $path }
 update-in-progress-title = Actualització en curs
@@ -431,6 +461,9 @@ browsing-picture-in-picture-toggle-enabled =
     .label = Activa els controls de vídeo d'imatge sobre imatge
     .accesskey = A
 browsing-picture-in-picture-learn-more = Més informació
+browsing-media-control =
+    .label = Controla el contingut multimèdia amb teclat, auriculars o interfície virtual
+    .accesskey = v
 browsing-media-control-learn-more = Més informació
 browsing-cfr-recommendations =
     .label = Recomana extensions durant la navegació
@@ -497,6 +530,11 @@ home-prefs-topsites-header =
 home-prefs-topsites-description = Els llocs que visiteu més sovint
 home-prefs-topsites-by-option-sponsored =
     .label = Llocs principals patrocinats
+home-prefs-shortcuts-header =
+    .label = Dreceres
+home-prefs-shortcuts-description = Llocs que guardeu o visiteu
+home-prefs-shortcuts-by-option-sponsored =
+    .label = Dreceres patrocinades
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -504,6 +542,7 @@ home-prefs-topsites-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = Recomanat per { $provider }
 home-prefs-recommended-by-description-update = Contingut excepcional d'arreu del web, seleccionat per { $provider }
+home-prefs-recommended-by-description-new = Contingut excepcional seleccionat per { $provider }, part de la família de { -brand-product-name }
 
 ##
 
@@ -512,8 +551,6 @@ home-prefs-recommended-by-option-sponsored-stories =
     .label = Articles patrocinats
 home-prefs-highlights-header =
     .label = Destacats
-home-prefs-recent-activity-header =
-    .label = Activitat recent
 home-prefs-highlights-description = Una selecció dels llocs que heu guardat o visitat
 home-prefs-highlights-option-visited-pages =
     .label = Pàgines visitades
@@ -523,6 +560,9 @@ home-prefs-highlights-option-most-recent-download =
     .label = Baixada més recent
 home-prefs-highlights-option-saved-to-pocket =
     .label = Pàgines guardades al { -pocket-brand-name }
+home-prefs-recent-activity-header =
+    .label = Activitat recent
+home-prefs-recent-activity-description = Una selecció de continguts i llocs recents
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -530,6 +570,7 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-snippets-header =
     .label = Retalls
 home-prefs-snippets-description = Actualitzacions de { -vendor-short-name } i del { -brand-product-name }
+home-prefs-snippets-description-new = Consells i novetats de { -vendor-short-name } i del { -brand-product-name }
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -568,6 +609,7 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Mostra suggeriments de cerca en les finestres privades
 suggestions-addressbar-settings-generic = Canvia les preferències d'altres suggeriments de la barra d'adreces
+suggestions-addressbar-settings-generic2 = Canvia els paràmetres d'altres suggeriments de la barra d'adreces
 search-suggestions-cant-show = No es mostraran suggeriments de cerca als resultats de la barra d'ubicació perquè heu configurat el { -brand-short-name } per tal que no recorde mai l'historial.
 search-one-click-header = Motors de cerca amb un sol clic
 search-one-click-header2 = Dreceres de cerca
@@ -602,6 +644,8 @@ containers-back-button =
             [windows] Torna a les opcions
            *[other] Torna a les preferències
         }
+containers-back-button2 =
+    .aria-label = Torna als paràmetres
 containers-header = Pestanyes de contenidor
 containers-add-button =
     .label = Afig un contenidor nou
@@ -611,6 +655,8 @@ containers-new-tab-check =
     .accesskey = S
 containers-preferences-button =
     .label = Preferències
+containers-settings-button =
+    .label = Paràmetres
 containers-remove-button =
     .label = Elimina
 
@@ -621,6 +667,10 @@ sync-signedout-caption = El vostre web a tot arreu
 sync-signedout-description = Sincronitzeu les vostres adreces d'interés, historial, pestanyes, contrasenyes, complements i preferències en tots els vostres dispositius.
 sync-signedout-account-signin2 =
     .label = Inicia la sessió al { -sync-brand-short-name }…
+    .accesskey = I
+sync-signedout-description2 = Sincronitzeu les vostres adreces d'interés, historial, pestanyes, contrasenyes, complements i paràmetres en tots els vostres dispositius.
+sync-signedout-account-signin3 =
+    .label = Inicia la sessió per sincronitzar…
     .accesskey = I
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -661,6 +711,10 @@ prefs-sync-setup =
     .label = Configura el { -sync-brand-short-name }…
     .accesskey = C
 prefs-sync-offer-setup-label = Sincronitzeu les vostres adreces d'interés, historial, pestanyes, contrasenyes, complements i preferències en tots els vostres dispositius.
+prefs-sync-turn-on-syncing =
+    .label = Activa la sincronització…
+    .accesskey = s
+prefs-sync-offer-setup-label2 = Sincronitzeu les vostres adreces d'interés, historial, pestanyes, contrasenyes, complements i paràmetres en tots els vostres dispositius.
 prefs-sync-now =
     .labelnotsyncing = Sincronitza ara
     .accesskeynotsyncing = S
@@ -681,6 +735,7 @@ sync-currently-syncing-prefs =
         [windows] Opcions
        *[other] Preferències
     }
+sync-currently-syncing-settings = Paràmetres
 sync-change-options =
     .label = Canvia…
     .accesskey = C
@@ -728,6 +783,10 @@ sync-engine-prefs =
         }
     .tooltiptext = Paràmetres generals, de privadesa i de seguretat que heu canviat
     .accesskey = s
+sync-engine-settings =
+    .label = Paràmetres
+    .tooltiptext = Paràmetres generals, de privadesa i de seguretat que heu canviat
+    .accesskey = P
 
 ## The device name controls.
 
@@ -921,9 +980,16 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Pestanyes obertes
     .accesskey = P
+# Shortcuts refers to the shortcut tiles on the new tab page, previously known as top sites. Translation should be consistent.
+addressbar-locbar-shortcuts-option =
+    .label = Dreceres
+    .accesskey = D
 addressbar-locbar-topsites-option =
     .label = Llocs principals
     .accesskey = L
+addressbar-locbar-engines-option =
+    .label = Motors de cerca
+    .accesskey = M
 addressbar-suggestions-settings = Canvia les preferències dels suggeriments de motors de cerca
 
 ## Privacy Section - Content Blocking
@@ -931,6 +997,7 @@ addressbar-suggestions-settings = Canvia les preferències dels suggeriments de 
 content-blocking-enhanced-tracking-protection = Protecció contra el seguiment millorada
 content-blocking-section-top-level-description = Hi ha elements que vos fan el seguiment mentre navegueu per recopilar informació sobre els vostres hàbits de navegació i interessos. El { -brand-short-name } bloca molts d'estos elements de seguiment i altres scripts maliciosos.
 content-blocking-learn-more = Més informació
+content-blocking-fpi-incompatibility-warning = Esteu utilitzant FPI (First Party Isolation), que substitueix alguns paràmetres de galetes del { -brand-short-name }.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -1134,6 +1201,11 @@ space-alert-under-5gb-ok-button =
     .label = Entesos
     .accesskey = n
 space-alert-under-5gb-message = El { -brand-short-name } s'està quedant sense espai de disc. És possible que el contingut dels llocs web no es mostre correctament. Vegeu «Més informació» per optimitzar l'ús de disc i millorar l'experiència de navegació.
+space-alert-over-5gb-settings-button =
+    .label = Obri els paràmetres
+    .accesskey = O
+space-alert-over-5gb-message2 = <strong>El { -brand-short-name } s'està quedant sense espai de disc.</strong> És possible que el contingut dels llocs web no es mostre correctament. Podeu esborrar les dades emmagatzemades dels llocs a «Paràmetres > Privadesa i seguretat > Galetes i dades dels llocs».
+space-alert-under-5gb-message2 = <strong>El { -brand-short-name } s'està quedant sense espai de disc.</strong> És possible que el contingut dels llocs web no es mostre correctament. Vegeu «Més informació» per optimitzar l'ús de disc i millorar l'experiència de navegació.
 
 ## Privacy Section - HTTPS-Only
 

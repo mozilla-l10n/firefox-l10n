@@ -2,14 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# Please keep the emphasis around the hostname and scheme (ie the
-# `<strong>` HTML tags). Please also keep the hostname as close to the start
-# of the sentence as your language's grammar allows.
-#
-# Variables:
-#  $host - the hostname that is initiating the request
-#  $scheme - the type of link that's being opened.
-handler-dialog-host = <strong>{ $host }</strong> vol obrir un enllaç de tipus <strong>{ $scheme }</strong>.
 
 ## Permission Dialog
 ## Variables:
@@ -17,11 +9,49 @@ handler-dialog-host = <strong>{ $host }</strong> vol obrir un enllaç de tipus <
 ##  $scheme - the type of link that's being opened.
 ##  $appName - Name of the application that will be opened.
 
+permission-dialog-description = Voleu permetre que este lloc òbriga l'enllaç { $scheme }?
+permission-dialog-description-file = Voleu permetre que este fitxer òbriga l'enllaç { $scheme }?
+permission-dialog-description-host = Voleu permetre que { $host } òbriga l'enllaç { $scheme }?
+permission-dialog-description-app = Voleu permetre que este lloc òbriga l'enllaç { $scheme } amb { $appName }?
+permission-dialog-description-host-app = Voleu permetre que { $host } òbriga l'enllaç { $scheme } amb { $appName }?
+permission-dialog-description-file-app = Voleu permetre que este fitxer òbriga l'enllaç { $scheme } amb { $appName }?
+
+## Please keep the emphasis around the hostname and scheme (ie the
+## `<strong>` HTML tags). Please also keep the hostname as close to the start
+## of the sentence as your language's grammar allows.
+
+permission-dialog-remember = Permet sempre que <strong>{ $host }</strong> òbriga els enllaços <strong>{ $scheme }</strong>
+permission-dialog-remember-file = Permet sempre que este fitxer òbriga els enllaços <strong>{ $scheme }</strong>
+
+##
+
+permission-dialog-btn-open-link =
+    .label = Obri l'enllaç
+    .accessKey = O
+permission-dialog-btn-choose-app =
+    .label = Tria una aplicació
+    .accessKey = A
+permission-dialog-unset-description = Haureu de triar una aplicació.
+permission-dialog-set-change-app-link = Trieu una altra aplicació.
 
 ## Chooser dialog
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+chooser-window =
+    .title = Trieu una aplicació
+    .style = min-width: 26em; min-height: 26em;
+chooser-dialog =
+    .buttonlabelaccept = Obri l'enllaç
+    .buttonaccesskeyaccept = O
+chooser-dialog-description = Trieu una aplicació per obrir l'enllaç { $scheme }.
+# Please keep the emphasis around the scheme (ie the `<strong>` HTML tags).
+chooser-dialog-remember = Utilitza sempre esta aplicació per obrir els enllaços <strong>{ $scheme }</strong>
+chooser-dialog-remember-extra =
+    { PLATFORM() ->
+        [windows] Es pot canviar des de les opcions del { -brand-short-name }.
+       *[other] Es pot canviar des de les preferències del { -brand-short-name }.
+    }
 choose-other-app-description = Trieu una altra aplicació
 choose-app-btn =
     .label = Trieu…

@@ -18,6 +18,7 @@ login-filter =
 create-login-button = Crea un inici de sessió
 fxaccounts-sign-in-text = Accediu a les contrasenyes en tots els vostres dispositius
 fxaccounts-sign-in-button = Inicia la sessió al { -sync-brand-short-name }
+fxaccounts-sign-in-sync-button = Inicia la sessió per sincronitzar
 fxaccounts-avatar-button =
     .title = Gestiona el compte
 
@@ -70,11 +71,15 @@ about-logins-list-item-vulnerable-password-icon =
 
 login-intro-heading = Esteu cercant els inicis de sessió que heu guardat? Configureu el { -sync-brand-short-name }.
 about-logins-login-intro-heading-logged-out = Esteu cercant els inicis de sessió que heu guardat? Configureu el { -sync-brand-short-name } o importeu-los.
+about-logins-login-intro-heading-logged-out2 = Cerqueu els vostres inicis de sessió guardats? Activeu la sincronització o importeu-los.
 about-logins-login-intro-heading-logged-in = No s'ha trobat cap inici de sessió sincronitzat.
 login-intro-description = Si heu guardat els vostres inicis de sessió en el { -brand-product-name } des d'un altre dispositiu, esta és la manera de tindre-los també ací:
 login-intro-instruction-fxa = Creeu un { -fxaccount-brand-name } o inicieu-hi la sessió des del dispositiu on teniu guardats els vostres inicis de sessió
 login-intro-instruction-fxa-settings = Assegureu-vos que heu seleccionat la casella de selecció Inicis de sessió en els paràmetres del { -sync-brand-short-name }
 about-logins-intro-instruction-help = Visiteu l'<a data-l10n-name="help-link">assistència del { -lockwise-brand-short-name }</a> per obtindre més ajuda
+login-intro-instructions-fxa = Creeu un { -fxaccount-brand-name } o inicieu-hi la sessió des del dispositiu on teniu guardats els vostres inicis de sessió.
+login-intro-instructions-fxa-settings = Aneu a Paràmetres > Sync > Activa la sincronització... Marqueu la casella de selecció «Inicis de sessió i contrasenyes».
+login-intro-instructions-fxa-help = Visiteu l'<a data-l10n-name="help-link">assistència del { -lockwise-brand-short-name }</a> per obtindre més ajuda.
 about-logins-intro-import = Si els vostres inicis de sessió estan guardats en un altre navegador, podeu <a data-l10n-name="import-link">importar-los al { -lockwise-brand-short-name }</a>
 about-logins-intro-import2 = Si els vostres inicis de sessió estan guardats fora del { -brand-product-name }, podeu <a data-l10n-name="import-browser-link">importar-los d'un altre navegador</a> o <a data-l10n-name="import-file-link">d'un fitxer</a>
 
@@ -84,6 +89,7 @@ login-item-new-login-title = Crea un inici de sessió
 login-item-edit-button = Edita
 about-logins-login-item-remove-button = Elimina
 login-item-origin-label = Adreça del lloc web
+login-item-tooltip-message = Assegureu-vos que coincidisca amb l'adreça exacta del lloc web on inicieu la sessió.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Nom d'usuari
@@ -197,9 +203,17 @@ about-logins-confirm-remove-all-sync-dialog-title =
         [one] Voleu eliminar { $count } inici de sessió de tots els dispositius?
        *[other] Voleu eliminar tots els { $count } inicis de sessió de tots els dispositius?
     }
+about-logins-confirm-remove-all-sync-dialog-message =
+    { $count ->
+        [1] Això eliminarà l'inici de sessió desat pel { -brand-short-name } en tots els dispositius sincronitzats amb el vostre { -fxaccount-brand-name }. També eliminarà les alertes de filtracions que apareixen aquí. Aquesta acció no es pot desfer.
+        [one] Això eliminarà l'inici de sessió desat pel { -brand-short-name } en tots els dispositius sincronitzats amb el vostre { -fxaccount-brand-name }. També eliminarà les alertes de filtracions que apareixen aquí. Aquesta acció no es pot desfer.
+       *[other] Això eliminarà tots els inicis de sessió desats pel { -brand-short-name } en tots els dispositius sincronitzats amb el vostre { -fxaccount-brand-name }. També eliminarà les alertes de filtracions que apareixen aquí. Aquesta acció no es pot desfer.
+    }
 about-logins-confirm-export-dialog-title = Exporta els inicis de sessió i contrasenyes
 about-logins-confirm-export-dialog-message = Les contrasenyes es guardaran com a text llegible (per exemple, «malaC0ntr@senya»), de manera que qualsevol que puga obrir el fitxer exportat les podrà veure.
 about-logins-confirm-export-dialog-confirm-button = Exporta…
+about-logins-alert-import-title = Fi de la importació
+about-logins-alert-import-message = Mostra un resum detallat de la importació
 confirm-discard-changes-dialog-title = Voleu descartar els canvis no guardats?
 confirm-discard-changes-dialog-message = Es perdran tots els canvis que no hàgeu guardat.
 confirm-discard-changes-dialog-confirm-button = Descarta
@@ -258,6 +272,96 @@ about-logins-import-file-picker-import-button = Importa
 # filter by the operating system.
 about-logins-import-file-picker-csv-filter-title =
     { PLATFORM() ->
-        [macos] Document CSV
-       *[other] Fitxer CSV
+        [macos] Document CSV (valors separats per comes)
+       *[other] Fitxer CSV (valors separats per comes)
     }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] Document TSV (valors separats per tabuladors)
+       *[other] Fitxer TSV (valors separats per tabuladors)
+    }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-dialog-title = Fi de la importació
+about-logins-import-dialog-items-added =
+    { $count ->
+        [one] <span>Inicis de sessió nous afegits:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Inicis de sessió nous afegits:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified =
+    { $count ->
+        [one] <span>Inicis de sessió existents actualitzats:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Inicis de sessió existents actualitzats:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+        [one] <span>Inicis de sessió duplicats:</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(no importat)</span>
+       *[other] <span>Inicis de sessió duplicats:</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(no importats)</span>
+    }
+about-logins-import-dialog-items-error =
+    { $count ->
+        [one] <span>Errors:</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(no s'ha importat)</span>
+       *[other] <span>Errors:</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(no s'han importat)</span>
+    }
+about-logins-import-dialog-done = Fet
+about-logins-import-dialog-error-title = Error d'importació
+about-logins-import-dialog-error-conflicting-values-title = Un inici de sessió conté diversos valors conflictius
+about-logins-import-dialog-error-conflicting-values-description = Per exemple: diversos noms d'usuari, contrasenyes, URL, etc. per a un mateix inici de sessió.
+about-logins-import-dialog-error-file-format-title = Problema del format de fitxer
+about-logins-import-dialog-error-file-format-description = Falten les capçaleres de columna o són incorrectes. Assegureu-vos que el fitxer incloga columnes per al nom d'usuari, la contrasenya i l'URL.
+about-logins-import-dialog-error-file-permission-title = No s’ha pogut llegir el fitxer
+about-logins-import-dialog-error-file-permission-description = El { -brand-short-name } no té permís per llegir el fitxer. Proveu de canviar els permisos del fitxer.
+about-logins-import-dialog-error-unable-to-read-title = No s’ha pogut analitzar el fitxer
+about-logins-import-dialog-error-unable-to-read-description = Assegureu-vos que heu triat un fitxer CSV (valors separats per comes) o TSV (valors separats per tabuladors).
+about-logins-import-dialog-error-no-logins-imported = No s'ha importat cap inici de sessió
+about-logins-import-dialog-error-learn-more = Més informació
+about-logins-import-dialog-error-try-again = Torna-ho a provar…
+about-logins-import-dialog-error-try-import-again = Torna a provar d'importar…
+about-logins-import-dialog-error-cancel = Cancel·la
+about-logins-import-report-title = Resum de la importació
+about-logins-import-report-description = Inici de sessió i contrasenyes importats en el { -brand-short-name }.
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = Fila { $number }
+about-logins-import-report-row-description-no-change = Duplicat: Coincidència exacta amb un inici de sessió existent
+about-logins-import-report-row-description-modified = Inici de sessió existent actualitzat
+about-logins-import-report-row-description-added = Inici de sessió nou afegit
+about-logins-import-report-row-description-error = Error: Falta un camp
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+about-logins-import-report-row-description-error-multiple-values = Error: Hi ha diversos valors per a { $field }
+about-logins-import-report-row-description-error-missing-field = Error: Falta { $field }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-report-added =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">inicis de sessió nous afegits</div>
+    }
+about-logins-import-report-modified =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">inicis de sessió existents actualitzats</div>
+    }
+about-logins-import-report-no-change =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">inicis de sessió duplicats</div> <div data-l10n-name="not-imported">(no importats)</div>
+    }
+about-logins-import-report-error =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">errors</div> <div data-l10n-name="not-imported">(no importats)</div>
+    }
+
+## Logins import report page
+
+about-logins-import-report-page-title = Informe de resum de la importació

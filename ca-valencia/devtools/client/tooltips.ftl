@@ -12,19 +12,14 @@ learn-more = <span data-l10n-name="link">Més informació</span>
 ## the property is not applied.
 ## Variables:
 ##   $property (string) - A CSS property name e.g. "color".
-
-
-## In the Rule View when a CSS property cannot be successfully applied we display
-## an icon. When this icon is hovered this message is displayed to explain why
-## the property is not applied.
-## Variables:
-##   $property (string) - A CSS property name e.g. "color".
 ##   $display (string) - A CSS display value e.g. "inline-block".
 
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
 ## the problem can be solved.
+
+inactive-text-overflow-when-no-overflow-fix = Proveu d'afegir <strong>overflow:hidden</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why

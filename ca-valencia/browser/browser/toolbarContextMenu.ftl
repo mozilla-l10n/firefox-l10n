@@ -24,6 +24,13 @@ toolbar-context-menu-undo-close-tabs =
            *[other] Desfés el tancament de les pestanyes
         }
     .accesskey = f
+toolbar-context-menu-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Torna a obrir la pestanya tancada
+           *[other] Torna a obrir les pestanyes tancades
+        }
+    .accesskey = o
 toolbar-context-menu-manage-extension =
     .label = Gestiona l'extensió
     .accesskey = e
@@ -45,18 +52,27 @@ toolbar-context-menu-pin-to-overflow-menu =
 toolbar-context-menu-auto-hide-downloads-button =
     .label = Amaga automàticament en la barra d'eines
     .accesskey = A
+toolbar-context-menu-auto-hide-downloads-button-2 =
+    .label = Amaga el botó quan la llista siga buida
+    .accesskey = A
 toolbar-context-menu-remove-from-toolbar =
     .label = Elimina de la barra d'eines
     .accesskey = E
 toolbar-context-menu-view-customize-toolbar =
     .label = Personalitza…
     .accesskey = P
-toolbar-context-menu-bookmarks-toolbar-always-show =
-    .label = Sempre
-    .accesskey = S
-toolbar-context-menu-bookmarks-toolbar-never-show =
-    .label = Mai
+toolbar-context-menu-view-customize-toolbar-2 =
+    .label = Personalitza la barra d'eines…
+    .accesskey = P
+toolbar-context-menu-bookmarks-toolbar-always-show-2 =
+    .label = Mostra sempre
     .accesskey = M
-toolbar-context-menu-bookmarks-toolbar-on-new-tab =
-    .label = Només en una pestanya nova
+toolbar-context-menu-bookmarks-toolbar-never-show-2 =
+    .label = No mostres mai
     .accesskey = N
+toolbar-context-menu-bookmarks-toolbar-on-new-tab-2 =
+    .label = Mostra només en una pestanya nova
+    .accesskey = o
+toolbar-context-menu-bookmarks-show-other-bookmarks =
+    .label = Mostra «Altres adreces d'interés»
+    .accesskey = M

@@ -268,6 +268,8 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = Afig a les adreces d'interés
+bookmarks-edit-bookmark = Edita l'adreça d'interés
 bookmark-panel-cancel =
     .label = Cancel·la
     .accesskey = C
@@ -285,6 +287,8 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = s
 bookmark-panel-done-button =
     .label = Fet
+bookmark-panel-save-button =
+    .label = Guarda
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -371,11 +375,34 @@ browser-window-close-button =
 
 ## Tab actions
 
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = REPRODUINT
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = SILENCIADA
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = REPRODUCC. AUTOMÀTICA BLOCADA
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = IMATGE SOBRE IMATGE
 
 ## These labels should be written in all capital letters if your locale supports them.
 ## Variables:
 ##  $count (number): number of affected tabs
 
+browser-tab-mute =
+    { $count ->
+        [1] SILENCIA LA PESTANYA
+       *[other] SILENCIA { $count } PESTANYES
+    }
+browser-tab-unmute =
+    { $count ->
+        [1] NO SILENCIÏS LA PESTANYA
+       *[other] NO SILENCIÏS { $count } PESTANYES
+    }
+browser-tab-unblock =
+    { $count ->
+        [1] REPRODUEIX LA PESTANYA
+       *[other] REPRODUEIX { $count } PESTANYES
+    }
 
 ## Bookmarks toolbar items
 
@@ -392,6 +419,16 @@ popup-select-camera =
 popup-select-microphone =
     .value = Micròfon per compartir:
     .accesskey = M
+popup-select-camera-device =
+    .value = Càmera:
+    .accesskey = C
+popup-select-camera-icon =
+    .tooltiptext = Càmera
+popup-select-microphone-device =
+    .value = Micròfon:
+    .accesskey = M
+popup-select-microphone-icon =
+    .tooltiptext = Micròfon
 popup-all-windows-shared = Es compartiran totes les finestres visibles de la pantalla.
 popup-screen-sharing-not-now =
     .label = Ara no
@@ -401,6 +438,13 @@ popup-screen-sharing-never =
     .accesskey = N
 popup-silence-notifications-checkbox = Desactiva les notificacions del { -brand-short-name } mentre s'estiga compartint
 popup-silence-notifications-checkbox-warning = El { -brand-short-name } no mostrarà notificacions mentre estigueu compartint.
+popup-screen-sharing-block =
+    .label = Bloca
+    .accesskey = B
+popup-screen-sharing-always-block =
+    .label = Bloca sempre
+    .accesskey = s
+popup-mute-notifications-checkbox = Silencia les notificacions del lloc web mentre s'està compartint
 
 ## WebRTC window or screen share tab switch warning
 
@@ -510,6 +554,13 @@ urlbar-result-action-tabtosearch-web = Cerca amb { $engine } directament des de 
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = Cerca en { $engine } directament des de la barra d'adreces
+# Action text for copying to clipboard.
+urlbar-result-action-copy-to-clipboard = Copia
+# Shows the result of a formula expression being calculated, the last = sign will be shown
+# as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result = = { $result }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -537,11 +588,20 @@ pointerlock-warning-no-domain = Este document té el control del punter. Premeu 
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>Part d'esta pàgina ha fallat.</strong> Per notificar el problema al { -brand-product-name } i que s'arregli més ràpidament, envieu un informe.
+crashed-subframe-learnmore-link =
+    .value = Més informació
+crashed-subframe-submit =
+    .label = Envia l'informe
+    .accesskey = E
 
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
     .label = Mostra totes les adreces d'interés
+bookmarks-manage-bookmarks =
+    .label = Gestiona les adreces d'interés
+bookmarks-recent-bookmarks-panel-subheader = Adreces d'interés recents
 bookmarks-toolbar-chevron =
     .tooltiptext = Mostra més adreces d'interés
 bookmarks-sidebar-content =
@@ -562,6 +622,12 @@ bookmarks-tools-toolbar-visibility-menuitem =
     .label =
         { $isVisible ->
             [true] Amaga la barra d'eines d'adreces d'interés
+           *[other] Mostra la barra de les adreces d'interés
+        }
+bookmarks-tools-toolbar-visibility-panel =
+    .label =
+        { $isVisible ->
+            [true] Amaga la barra de les adreces d'interés
            *[other] Mostra la barra de les adreces d'interés
         }
 bookmarks-tools-menu-button-visibility =
@@ -589,11 +655,16 @@ bookmarks-toolbar-placeholder =
     .title = Elements de la barra de les adreces d'interés
 bookmarks-toolbar-placeholder-button =
     .label = Elements de la barra de les adreces d'interés
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = Afig la pestanya actual a les adreces d'interés
 
 ## Library Panel items
 
 library-bookmarks-menu =
     .label = Adreces d'interés
+library-recent-activity-title =
+    .value = Activitat recent
 
 ## Pocket toolbar button
 
@@ -603,6 +674,20 @@ save-to-pocket-button =
 
 ## Customize Toolbar Buttons
 
+# Variables:
+#  $shortcut (String): keyboard shortcut to open the add-ons manager
+toolbar-addons-themes-button =
+    .label = Complements i temes
+    .tooltiptext = Gestioneu els complements i temes ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open settings (only on macOS)
+toolbar-settings-button =
+    .label = Paràmetres
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Obre els paràmetres ({ $shortcut })
+           *[other] Obre els paràmetres
+        }
 
 ## More items
 
@@ -613,12 +698,25 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Este lloc conté àudio o vídeo que utilitza programari de DRM, cosa que pot limitar allò que el { -brand-short-name } vos pot permetre fer.
+eme-notifications-drm-content-playing-manage = Gestiona els paràmetres
+eme-notifications-drm-content-playing-manage-accesskey = G
+eme-notifications-drm-content-playing-dismiss = Descarta
+eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Password save/update panel
 
+panel-save-update-username = Nom d'usuari
+panel-save-update-password = Contrasenya
 
 ## Add-on removal warning
 
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = Voleu eliminar { $name }?
+addon-removal-abuse-report-checkbox = Informeu d'esta extensió a { -vendor-short-name }
 
 ## Remote / Synced tabs
 
+remote-tabs-manage-account =
+    .label = Gestiona el compte
+remote-tabs-sync-now = Sincronitza ara

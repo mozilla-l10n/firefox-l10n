@@ -88,6 +88,12 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
+## Firefox Account Button
+
+toolbar-button-fxaccount =
+    .label = { -fxaccount-brand-name }
+    .tooltiptext = { -fxaccount-brand-name }
+
 ## Save Page
 
 main-context-menu-page-save =
@@ -102,6 +108,18 @@ main-context-menu-bookmark-add =
     .aria-label = Afig la pàgina a les adreces d'interés
     .accesskey = d
     .tooltiptext = Afig la pàgina a les adreces d'interés
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-add-mac =
+    .label = Afig la pàgina a les adreces d'interés
+    .accesskey = A
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-edit-mac =
+    .label = Edita l'adreça d'interés
+    .accesskey = E
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-add-with-shortcut =
@@ -136,6 +154,9 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-bookmark-this-link =
     .label = Afig l'enllaç a les adreces d'interés
     .accesskey = l
+main-context-menu-bookmark-link =
+    .label = Afig l'enllaç a les adreces d'interés
+    .accesskey = e
 main-context-menu-save-link =
     .label = Anomena i guarda el contingut de l'enllaç…
     .accesskey = g
@@ -156,6 +177,9 @@ main-context-menu-copy-email =
     .label = Copia l'adreça electrònica
     .accesskey = e
 main-context-menu-copy-link =
+    .label = Copia la ubicació de l'enllaç
+    .accesskey = u
+main-context-menu-copy-link-simple =
     .label = Copia l'enllaç
     .accesskey = C
 
@@ -200,6 +224,19 @@ main-context-menu-media-play-speed-faster =
 main-context-menu-media-play-speed-fastest =
     .label = Màxima velocitat (×2)
     .accesskey = M
+main-context-menu-media-play-speed-2 =
+    .label = Velocitat
+    .accesskey = V
+main-context-menu-media-play-speed-slow-2 =
+    .label = 0,5×
+main-context-menu-media-play-speed-normal-2 =
+    .label = 1,0×
+main-context-menu-media-play-speed-fast-2 =
+    .label = 1,25×
+main-context-menu-media-play-speed-faster-2 =
+    .label = 1,5×
+main-context-menu-media-play-speed-fastest-2 =
+    .label = 2×
 main-context-menu-media-loop =
     .label = Repetició
     .accesskey = R
@@ -227,6 +264,11 @@ main-context-menu-media-video-leave-fullscreen =
 main-context-menu-media-pip =
     .label = Imatge sobre imatge
     .accesskey = I
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-watch-pip =
+    .label = Mostra en mode d'Imatge sobre Imatge
+    .accesskey = I
 main-context-menu-image-reload =
     .label = Recarrega la imatge
     .accesskey = R
@@ -236,6 +278,12 @@ main-context-menu-image-view =
 main-context-menu-video-view =
     .label = Visualitza el vídeo
     .accesskey = i
+main-context-menu-image-view-new-tab =
+    .label = Obri la imatge en una pestanya nova
+    .accesskey = i
+main-context-menu-video-view-new-tab =
+    .label = Obri el vídeo en una pestanya nova
+    .accesskey = v
 main-context-menu-image-copy =
     .label = Copia la imatge
     .accesskey = m
@@ -247,6 +295,15 @@ main-context-menu-video-copy-location =
     .accesskey = o
 main-context-menu-audio-copy-location =
     .label = Copia la ubicació de l'àudio
+    .accesskey = o
+main-context-menu-image-copy-link =
+    .label = Copia l'enllaç de la imatge
+    .accesskey = o
+main-context-menu-video-copy-link =
+    .label = Copia l'enllaç del vídeo
+    .accesskey = o
+main-context-menu-audio-copy-link =
+    .label = Copia l'enllaç de l'àudio
     .accesskey = o
 main-context-menu-image-save-as =
     .label = Anomena i guarda la imatge…
@@ -260,6 +317,9 @@ main-context-menu-image-set-as-background =
 main-context-menu-image-info =
     .label = Visualitza la informació de la imatge
     .accesskey = f
+main-context-menu-image-set-image-as-background =
+    .label = Defineix la imatge com a fons d'escriptori…
+    .accesskey = D
 main-context-menu-image-desc =
     .label = Visualitza la descripció
     .accesskey = d
@@ -272,6 +332,9 @@ main-context-menu-audio-save-as =
 main-context-menu-video-image-save-as =
     .label = Anomena i guarda una instantània…
     .accesskey = g
+main-context-menu-video-take-snapshot =
+    .label = Fes una instantània…
+    .accesskey = F
 main-context-menu-video-email =
     .label = Envia el vídeo per correu…
     .accesskey = a
@@ -301,9 +364,24 @@ main-context-menu-generate-new-password =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-use-saved-login =
+    .label = Utilitza un inici de sessió guardat
+    .accesskey = U
+main-context-menu-use-saved-password =
+    .label = Utilitza una contrasenya guardada
+    .accesskey = U
 
 ##
 
+main-context-menu-suggest-strong-password =
+    .label = Suggereix una contrasenya segura…
+    .accesskey = S
+main-context-menu-manage-logins =
+    .label = Gestiona els inicis de sessió…
+    .accesskey = G
+main-context-menu-manage-logins2 =
+    .label = Gestiona els inicis de sessió
+    .accesskey = G
 main-context-menu-keyword =
     .label = Afig una paraula clau per a esta cerca…
     .accesskey = p
@@ -346,6 +424,9 @@ main-context-menu-print-selection =
 main-context-menu-view-selection-source =
     .label = Codi font de la selecció
     .accesskey = e
+main-context-menu-take-screenshot =
+    .label = Fes una captura de pantalla
+    .accesskey = F
 main-context-menu-view-page-source =
     .label = Codi font de la pàgina
     .accesskey = f
@@ -360,6 +441,9 @@ main-context-menu-bidi-switch-page =
     .accesskey = g
 main-context-menu-inspect-element =
     .label = Inspecciona l'element
+    .accesskey = I
+main-context-menu-inspect =
+    .label = Inspecciona
     .accesskey = I
 main-context-menu-inspect-a11y-properties =
     .label = Inspecciona les propietats d'accessibilitat

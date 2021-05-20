@@ -4,7 +4,7 @@
 
 <!ENTITY  intro2.label                "Heu triat obrir:">
 <!ENTITY  from.label                  "des de:">
-<!ENTITY  actionQuestion.label        "Què hauria de fer el &brandShortName; amb este fitxer?">
+<!ENTITY  actionQuestion.label        "Què ha de fer el &brandShortName; amb este fitxer?">
 
 <!ENTITY  openWith.label              "Obri amb">
 <!ENTITY  openWith.accesskey          "O">

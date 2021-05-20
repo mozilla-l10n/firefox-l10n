@@ -120,6 +120,9 @@ cfr-whatsnew-lockwise-take-link-text = Baixa l'aplicació
 
 cfr-whatsnew-searchbar-title = Escriviu menys i trobeu més amb la barra d'adreces
 cfr-whatsnew-searchbar-body-topsites = Ara, podeu seleccionar la barra d'adreces i es desplegarà un quadre amb enllaços als vostres llocs principals.
+
+## Search bar
+
 cfr-whatsnew-searchbar-icon-alt-text = Icona de lupa
 
 ## Picture-in-Picture
@@ -202,10 +205,15 @@ cfr-doorhanger-milestone-heading =
     { $blockedCount ->
        *[other] El { -brand-short-name } ha blocat més de <b>{ $blockedCount }</b> elements de seguiment des del { $date }
     }
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Datetime) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading2 =
+    { $blockedCount ->
+       *[other] El { -brand-short-name } ha blocat més de <b>{ $blockedCount }</b> elements de seguiment des del { DATETIME($date, month: "long", year: "numeric") }
+    }
 cfr-doorhanger-milestone-ok-button = Mostra-ho tot
     .accesskey = M
-cfr-doorhanger-milestone-close-button = Tanca
-    .accesskey = T
 
 ## What’s New Panel Content for Firefox 76
 
@@ -230,6 +238,12 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Icona d'Imatge sobre imatge
 
 ## Protections Dashboard message
 
+cfr-doorhanger-milestone-close-button = Tanca
+    .accesskey = T
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
+
 cfr-whatsnew-protections-header = Totes les proteccions d'un cop d'ull
 cfr-whatsnew-protections-body = El Tauler de proteccions inclou un resum de les filtracions de dades i gestió de contrasenyes. Ara podeu fer el seguiment de les filtracions que heu resolt i comprovar si alguna de les vostres contrasenyes guardades podrien haver estat exposades en una filtració de dades.
 cfr-whatsnew-protections-cta-link = Mostra el tauler de proteccions
@@ -246,6 +260,8 @@ cfr-doorhanger-doh-body = La vostra privadesa és important. Ara el { -brand-sho
 cfr-doorhanger-doh-header = Consultes DNS més segures i xifrades
 cfr-doorhanger-doh-primary-button = Entesos
     .accesskey = o
+cfr-doorhanger-doh-primary-button-2 = D'acord
+    .accesskey = D
 cfr-doorhanger-doh-secondary-button = Inhabilita
     .accesskey = h
 
@@ -274,3 +290,18 @@ cfr-whatsnew-media-keys-button = Vegeu com fer-ho
 
 cfr-whatsnew-search-shortcuts-header = Dreceres de cerca a la barra d'adreces
 cfr-whatsnew-search-shortcuts-body = Ara, quan escriviu el nom d'un motor de cerca o un lloc específic a la barra d'adreces, apareixerà una drecera blava als suggeriments de cerca de sota. Seleccioneu esta drecera per fer la cerca directament des de la barra d'adreces.
+
+## What's new: Cookies protection
+
+cfr-whatsnew-supercookies-header = Protecció contra supergaletes malicioses
+cfr-whatsnew-supercookies-body = De forma secreta, els llocs web poden adjuntar una «supergaleta» en el vostre navegador que vos fa el seguiment mentre navegueu, fins i tot després d'esborrar les galetes. Ara el { -brand-short-name } ofereix una millor protecció contra les supergaletes perquè no puguen fer el seguiment de la vostra activitat a Internet d'un lloc a l'altre.
+
+## What's new: Better bookmarking
+
+cfr-whatsnew-bookmarking-header = Millor gestió de les adreces d'interés
+cfr-whatsnew-bookmarking-body = És més fàcil fer un seguiment dels vostres llocs preferits. Ara el { -brand-short-name } recorda la vostra ubicació preferida per a les adreces d'interés guardades, mostra per defecte la barra d'adreces d'interés en les pestanyes noves i vos permet accedir fàcilment a la resta de les adreces d'interés mitjançant una carpeta en la barra d'eines.
+
+## What's new: Cross-site cookie tracking
+
+cfr-whatsnew-cross-site-tracking-header = Protecció integral contra el seguiment de galetes entre llocs
+cfr-whatsnew-cross-site-tracking-body = Ara podeu triar si voleu una protecció millorada contra el seguiment de les galetes. El { -brand-short-name } pot aïllar les vostres dades i activitats dels llocs que visiteu, per tal que la informació emmagatzemada en el navegador no es compartisca entre els llocs web.
