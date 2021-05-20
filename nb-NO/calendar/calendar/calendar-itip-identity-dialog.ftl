@@ -4,3 +4,4 @@
 
 calendar-itip-identity-dialog-title = Ikke innbydd?
 calendar-itip-identity-warning = Du er ikke på gjestelisten ennå.
+calendar-itip-identity-label = Svar som:
