@@ -232,6 +232,7 @@ newtab-error-fallback-refresh-link = Adkargit ar bajenn evit klask en-dro.
 ## Customization Menu
 
 newtab-custom-shortcuts-title = Berradennoù
+newtab-custom-shortcuts-subtitle = Lec'hiennoù bet enrollet pe gweladennet ganeoc'h
 newtab-custom-row-selector =
     { $num ->
         [one] { $num } renk
