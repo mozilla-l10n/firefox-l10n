@@ -45,3 +45,5 @@ upgrade-dialog-theme-alpenglow = Alpenglow
     .title = Implijout un tem gant lusk ha livioù e-leizh evit ar boutonoù, lañserioù ha prenestroù
 upgrade-dialog-theme-keep = Mirout an tem kent
     .title = Implijout an tem ho poa staliet a-raok hizivaat { -brand-short-name }
+upgrade-dialog-theme-primary-button = Enrollañ an tem
+upgrade-dialog-theme-secondary-button = Ket bremañ
