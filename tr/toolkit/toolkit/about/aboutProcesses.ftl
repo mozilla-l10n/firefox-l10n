@@ -57,6 +57,7 @@ about-processes-process-name = İşlem { $pid }: { $name }
 ##    $pid (String) The process id of this process, assigned by the OS.
 
 about-processes-browser-process = { -brand-short-name } ({ $pid })
+about-processes-web-process = Paylaşımlı web işlemi ({ $pid })
 about-processes-file-process = Dosyalar ({ $pid })
 about-processes-extension-process = Uzantılar ({ $pid })
 about-processes-privilegedabout-process = About sayfaları ({ $pid })
