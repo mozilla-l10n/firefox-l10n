@@ -513,6 +513,11 @@ urlbar-placeholder-with-name =
     .placeholder = { $name } ile arama yapın veya adres yazın
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Tarayıcı uzaktan kontrol ediliyor
+# Variables
+#  $component (String): the name of the component which forces remote control.
+#    Example: "DevTools", "Marionette", "RemoteAgent".
+urlbar-remote-control-notification-anchor2 =
+    .tooltiptext = Tarayıcı uzaktan kontrol ediliyor (sebep: { $component })
 urlbar-permissions-granted =
     .tooltiptext = Bu siteye ek izinler verdiniz.
 urlbar-switch-to-tab =
