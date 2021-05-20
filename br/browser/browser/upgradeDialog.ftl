@@ -29,8 +29,19 @@ upgrade-dialog-new-primary-win7-button = Mat eo, komprenet em eus !
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-default-title = Lakaat { -brand-short-name } da verdeer dre ziouer?
+upgrade-dialog-default-subtitle = Ho pezet tizhder, surentez ha dangelez bewech ma verdeit.
 upgrade-dialog-default-primary-button = Lakaat da verdeer dre ziouer
 upgrade-dialog-default-secondary-button = Diwezhatoc'h
 
 ## Theme selection screen
 
+upgrade-dialog-theme-system = Tem ar reizhiad
+    .title = Implijout tem ar reizhiad korvoiñ evit ar boutonoù, lañserioù ha prenestroù
+upgrade-dialog-theme-light = Sklaer
+    .title = Implijout un tem sklaer evit ar boutonoù, lañserioù ha prenestroù
+upgrade-dialog-theme-dark = Teñval
+    .title = Implijout un tem teñval evit ar boutonoù, lañserioù ha prenestroù
+upgrade-dialog-theme-alpenglow = Alpenglow
+    .title = Implijout un tem gant lusk ha livioù e-leizh evit ar boutonoù, lañserioù ha prenestroù
+upgrade-dialog-theme-keep = Mirout an tem kent
+    .title = Implijout an tem ho poa staliet a-raok hizivaat { -brand-short-name }
