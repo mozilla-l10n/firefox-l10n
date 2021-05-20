@@ -46,9 +46,17 @@ about-addressbook-sort-name-ascending =
 about-addressbook-sort-name-descending =
     .label = Sortuj według nazw (Z→A)
 about-addressbook-sort-email-ascending =
-    .label = Sortuj według adresu e-mail (A→Z)
+    .label = Sortuj według adresów e-mail (A→Z)
 about-addressbook-sort-email-descending =
-    .label = Sortuj według adresu e-mail (Z→A)
+    .label = Sortuj według adresów e-mail (Z→A)
 
 ## Details
 
+about-addressbook-begin-edit-contact-button = Edytuj
+about-addressbook-cancel-edit-contact-button = Anuluj
+about-addressbook-save-edit-contact-button = Zapisz
+about-addressbook-details-email-addresses-header = Adresy e-mail
+about-addressbook-details-phone-numbers-header = Numery telefonu
+about-addressbook-details-home-address-header = Adres domowy
+about-addressbook-details-work-address-header = Adres służbowy
+about-addressbook-details-other-info-header = Pozostałe informacje
