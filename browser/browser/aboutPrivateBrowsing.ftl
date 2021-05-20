@@ -9,6 +9,16 @@ about-private-browsing-info-title = Estás en una ventana privada
 about-private-browsing-info-myths = Mitos comunes sobre la navegación privada
 about-private-browsing =
     .title = Buscar en la web
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff =
+    .title = Buscar con { $engine } o introducir una dirección
+about-private-browsing-handoff-no-engine =
+    .title = Buscar o escribir dirección
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff-text = Buscar con { $engine } o introducir una dirección
+about-private-browsing-handoff-text-no-engine = Buscar o escribir dirección
 about-private-browsing-not-private = En este momento no estás en una ventana privada.
 about-private-browsing-info-description = { -brand-short-name } elimina tu búsqueda y el historial de navegación cuando sales de la aplicación o cierras todas las pestañas y ventanas de navegación privada. Aunque esto no te vuelve anónimo en los sitios web o en tu proveedor de servicios de Internet, hace que sea más fácil mantener lo que haces en línea privado de cualquier otra persona que use esta computadora.
 about-private-browsing-need-more-privacy = ¿necesitas más privacidad?
