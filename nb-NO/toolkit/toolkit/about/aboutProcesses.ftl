@@ -56,12 +56,38 @@ about-processes-process-name = Prosess { $pid }: { $name }
 ## Variables:
 ##    $pid (String) The process id of this process, assigned by the OS.
 
+about-processes-browser-process = { -brand-short-name } ({ $pid })
+about-processes-web-process = Delt nettprosess ({ $pid })
+about-processes-file-process = Filer ({ $pid })
+about-processes-extension-process = Utvidelser ({ $pid })
+about-processes-privilegedabout-process = «About»-sidene ({ $pid })
+about-processes-plugin-process = Programtillegg ({ $pid })
+about-processes-privilegedmozilla-process = { -vendor-short-name }-nettsteder ({ $pid })
+about-processes-gmp-plugin-process = Gecko Media-programtillegg ({ $pid })
+about-processes-gpu-process = GPU ({ $pid })
+about-processes-vr-process = VR ({ $pid })
+about-processes-rdd-process = Datadekoder ({ $pid })
+about-processes-socket-process = Nettverk ({ $pid })
+about-processes-remote-sandbox-broker-process = Remote Sandbox Broker ({ $pid })
+about-processes-fork-server-process = Forkserver ({ $pid })
+about-processes-preallocated-process = Forhåndstildelt ({ $pid })
+# Unknown process names
+# Variables:
+#    $pid (String) The process id of this process, assigned by the OS.
+#    $type (String) The raw type for this process.
+about-processes-unknown-process = Annet: { $type }({ $pid })
 
 ## Isolated process names
 ## Variables:
 ##    $pid (String) The process id of this process, assigned by the OS.
 ##    $origin (String) The domain name for this process.
 
+about-processes-web-isolated-process = { $origin } ({ $pid })
+about-processes-web-large-allocation-process = { $origin } ({ $pid }, stor)
+about-processes-with-coop-coep-process = { $origin } ({ $pid }, cross-origin isolert)
+about-processes-web-isolated-process-private = { $origin } — Privat ({ $pid })
+about-processes-web-large-allocation-process-private = { $origin } — Privat({ $pid }, stor)
+about-processes-with-coop-coep-process-private = { $origin } — Privat ({ $pid }, cross-origin isolert)
 
 ## Details within processes
 
