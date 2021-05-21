@@ -19,25 +19,14 @@ experimental-features-media-avif =
 experimental-features-media-avif-description = Kun tämä ominaisuus on käytössä, { -brand-short-name } tukee AV1-kuvatiedostomuotoa (AVIF). Se on liikkumattoman kuvan tiedostomuoto, joka hyödyntää AV1-videopakkausalgoritmin keinoja kuvan koon pienentämiseksi. Lisätietoja on <a data-l10n-name="bugzilla">bugissa 1443863</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
+experimental-features-media-jxl =
+    .label = Media: JPEG XL
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
     .label = Web API: inputmode
 # "inputmode" and "contenteditable" are technical terms and shouldn't be translated.
 experimental-features-web-api-inputmode-description = Globaalin attribuutin <a data-l10n-name="mdn-inputmode">inputmode</a> toteutuksemme on päivitetty <a data-l10n-name="whatwg">WHATWG-määrittelyn</a> mukaisesti, mutta meidän tarvitsee vielä tehdä muitakin muutoksia, kuten mahdollistaa sen käyttö contenteditable-sisällössä. Lisätietoja on <a data-l10n-name="bugzilla">bugissa 1205133</a>.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-web-api-link-preload =
-    .label = Web API: <link rel="preload">
-# Do not translate "rel", "preload" or "link" here, as they are all HTML spec
-# values that do not get translated.
-experimental-features-web-api-link-preload-description = <a data-l10n-name="rel">rel</a>-attribuutin arvo <code>"preload"</code> <a data-l10n-name="link">&lt;link&gt;</a>-elementissä on tarkoitettu auttamaan suorituskyvyn parantamisessa. Arvon ansiosta resurssit voidaan ladata aiemmin sivun elinkaaren aikana, minkä johdosta ne ovat saatavilla aiemmin ja siten estävät epätodennäköisemmin sivun piirtämisen. Lue lisää artikkelista <a data-l10n-name="readmore">”Preloading content with <code>rel="preload"</code>”</a> tai <a data-l10n-name="bugzilla">bugista 1583604</a>.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-css-focus-visible =
-    .label = CSS: Pseudo-class: :focus-visible
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-web-api-beforeinput =
-    .label = Web API: beforeinput Event
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
@@ -63,9 +52,6 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Attrib
 experimental-features-abouthome-startup-cache =
     .label = about:home-sivun käynnistyksen välimuisti
 experimental-features-abouthome-startup-cache-description = Käynnistyksessä oletuksena ladattavan about:home-sivun välimuisti. Sen tarkoitus on parantaa käynnistymisen suorituskykyä.
-experimental-features-print-preview-tab-modal =
-    .label = Tulostuksen esikatselun uusi design
-experimental-features-print-preview-tab-modal-description = Ottaa käyttöön tulostuksen esikatselun uuden designin ja mahdollistaa tulostuksen esikatselun macOS-käyttöjärjestelmässä. Tämä ei välttämättä toimi täysin eikä sisällä kaikki tulostusasetuksia. Loppujen tulostusasetusten muuttamiseksi tarvitsee valita ”Tulosta käyttäen järjestelmän tulostusikkunaa…” Tulosta-paneelista.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =

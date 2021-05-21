@@ -23,6 +23,7 @@ upgrade-dialog-new-primary-primary-button = Aseta { -brand-short-name } oletusse
     .title = Asettaa { -brand-short-name }in oletusselaimeksi ja kiinnittää sen tehtäväpalkkiin
 upgrade-dialog-new-primary-default-button = Aseta { -brand-short-name } oletusselaimeksi
 upgrade-dialog-new-primary-pin-button = Kiinnitä { -brand-short-name } tehtäväpalkkiin
+upgrade-dialog-new-primary-pin-alt-button = Kiinnitä tehtäväpalkkiin
 upgrade-dialog-new-primary-theme-button = Valitse teema
 upgrade-dialog-new-secondary-button = Ei nyt
 # This string is only shown on Windows 7, where we intentionally suppress the

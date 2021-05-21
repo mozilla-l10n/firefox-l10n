@@ -512,6 +512,11 @@ urlbar-placeholder-with-name =
     .placeholder = Hae hakukoneella { $name } tai kirjoita osoite
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Selain on kauko-ohjauksessa
+# Variables
+#  $component (String): the name of the component which forces remote control.
+#    Example: "DevTools", "Marionette", "RemoteAgent".
+urlbar-remote-control-notification-anchor2 =
+    .tooltiptext = Selain on etäohjauksessa (syy: { $component })
 urlbar-permissions-granted =
     .tooltiptext = Olet myöntänyt tälle sivustolle lisäoikeuksia.
 urlbar-switch-to-tab =
