@@ -117,6 +117,41 @@ button-return-receipt =
     .tooltiptext = ქვითრის მოთხოვნა ამ წერილისთვის
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 consider-bcc-notification = ველებში მითითებული { $count } მიმღები იხილავს ერთმანეთის მისამართებს. ამის ასარიდებლად, შეგიძლიათ გამოიყენოთ ფარული (Bcc) ველი.
+
+# Addressing Area
+
+to-compose-address-row-label =
+    .value = ვის
+#   $key (String) - the shortcut key for this field
+to-compose-show-address-row-menuitem =
+    .label = { to-compose-address-row-label.value } ველი
+    .accesskey = ვ
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+to-compose-show-address-row-label =
+    .value = { to-compose-address-row-label.value }
+    .tooltiptext = გამოჩნდეს { to-compose-address-row-label.value } ველი ({ to-compose-show-address-row-menuitem.acceltext })
+cc-compose-address-row-label =
+    .value = ასლი
+#   $key (String) - the shortcut key for this field
+cc-compose-show-address-row-menuitem =
+    .label = { cc-compose-address-row-label.value } ველი
+    .accesskey = ე
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+cc-compose-show-address-row-label =
+    .value = { cc-compose-address-row-label.value }
+    .tooltiptext = გამოჩნდეს { cc-compose-address-row-label.value } ველი ({ cc-compose-show-address-row-menuitem.acceltext })
+bcc-compose-address-row-label =
+    .value = ფარული ასლი
+#   $key (String) - the shortcut key for this field
+bcc-compose-show-address-row-menuitem =
+    .label = { bcc-compose-address-row-label.value } ველი
+    .accesskey = ლ
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+bcc-compose-show-address-row-label =
+    .value = { bcc-compose-address-row-label.value }
+    .tooltiptext = გამოჩნდეს { bcc-compose-address-row-label.value } ველი ({ bcc-compose-show-address-row-menuitem.acceltext })
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+many-public-recipients-info = ველებში მითითებული { $count } მიმღები იხილავს ერთმანეთის მისამართს. ამის ასარიდებლად, შეგიძლიათ გამოიყენოთ ფარული (Bcc) ველი.
 many-public-recipients-bcc =
     .label = ფარული ასლებით შეცვლა
     .accesskey = ფ

@@ -74,6 +74,13 @@ toolbar-context-menu-remove-extension =
     .label = გაფართოების ამოშლა
     .accesskey = ლ
 
+## Message headers
+
+message-header-address-in-address-book-icon =
+    .alt = მისამართი წიგნაკშია
+message-header-address-not-in-address-book-icon =
+    .alt = მისამართი არაა წიგნაკში
+
 ## Add-on removal warning
 
 # Variables:
