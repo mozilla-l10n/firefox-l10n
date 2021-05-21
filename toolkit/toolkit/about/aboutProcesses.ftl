@@ -100,6 +100,12 @@ about-processes-thread-summary = Säikeet ({ $number })
 #   $name (String) The name assigned to the thread.
 #   $tid (String) The thread id of this thread, assigned by the OS.
 about-processes-thread-name = Säie { $tid }: { $name }
+# Thread details
+# Variables:
+#   $name (String) The name assigned to the thread.
+#   $tid (String) The thread id of this thread, assigned by the OS.
+about-processes-thread-name-and-id = { $name }
+    .title = Säikeen id: { $tid }
 # Tab
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
@@ -126,6 +132,9 @@ about-processes-frame-name-many = Alikehykset ({ $number }): { $shortUrl }
 
 # Common case.
 about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") } ({ NUMBER($total, maximumFractionDigits: 0) } { $unit })
+# Common case.
+about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
+    .title = Suoritinaika yhteensä: { NUMBER($total, maximumFractionDigits: 0) } { $unit }
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (mittaus kesken)
 # Special case: process or thread is currently idle.

@@ -238,12 +238,12 @@ onboarding-multistage-theme-description-light =
 onboarding-multistage-theme-tooltip-dark-2 =
     .title =
         Käytä tummaa ulkoasua
-        painikkeille, valikoille ja ikkunoile.
+        painikkeille, valikoille ja ikkunoille.
 # Input description for dark theme
 onboarding-multistage-theme-description-dark =
     .aria-description =
         Käytä tummaa ulkoasua
-        painikkeille, valikoille ja ikkunoile.
+        painikkeille, valikoille ja ikkunoille.
 # Tooltip displayed on hover of Alpenglow theme
 onboarding-multistage-theme-tooltip-alpenglow-2 =
     .title =
@@ -265,6 +265,9 @@ onboarding-multistage-theme-description-alpenglow =
 # An alternative title for localization is: "It starts here".
 # This text can be formatted to span multiple lines as needed.
 mr1-welcome-screen-hero-text = Palo on irti
+# Caption for background image in about:welcome. "Soraya Osorio" is the name
+# of the person and shouldn't be translated.
+mr1-onboarding-welcome-image-caption = Soraya Osorio — Huonekalujen suunnittelija, Firefox-fani
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Poista animaatiot käytöstä
 mr1-onboarding-welcome-header =
@@ -301,6 +304,16 @@ mr1-onboarding-theme-label-alpenglow = Alpenglow
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of system theme
+mr1-onboarding-theme-tooltip-system =
+    .title =
+        Seuraa käyttöjärjestelmän teemaa
+        painikkeille, valikoille ja ikkunoille.
+# Input description for system theme
+mr1-onboarding-theme-description-system =
+    .aria-description =
+        Seuraa käyttöjärjestelmän teemaa
+        painikkeille, valikoille ja ikkunoille.
 # Tooltip displayed on hover of light theme
 mr1-onboarding-theme-tooltip-light =
     .title =
@@ -311,3 +324,23 @@ mr1-onboarding-theme-description-light =
     .aria-description =
         Käytä vaaleaa teemaa painikkeille,
         valikoille ja ikkunoille.
+# Tooltip displayed on hover of dark theme
+mr1-onboarding-theme-tooltip-dark =
+    .title =
+        Käytä tummaa teemaa painikkeille,
+        valikoille ja ikkunoille.
+# Input description for dark theme
+mr1-onboarding-theme-description-dark =
+    .aria-description =
+        Käytä tummaa teemaa painikkeille,
+        valikoille ja ikkunoille.
+# Tooltip displayed on hover of Alpenglow theme
+mr1-onboarding-theme-tooltip-alpenglow =
+    .title =
+        Käytä dynaamista ja värikästä teemaa
+        painikkeille, valikoille ja ikkunoille.
+# Input description for Alpenglow theme
+mr1-onboarding-theme-description-alpenglow =
+    .aria-description =
+        Käytä dynaamista ja värikästä teemaa
+        painikkeille, valikoille ja ikkunoille.
