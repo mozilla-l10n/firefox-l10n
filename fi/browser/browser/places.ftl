@@ -94,6 +94,13 @@ places-edit-generic =
 places-edit-folder =
     .label = Nimeä kansio uudelleen…
     .accesskey = N
+places-remove-folder =
+    .label =
+        { $count ->
+            [1] Poista kansio
+           *[other] Poista kansiot
+        }
+    .accesskey = P
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Hallinnoidut kirjanmerkit
