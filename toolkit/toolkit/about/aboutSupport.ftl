@@ -407,6 +407,9 @@ support-printing-prefs-value = Arvo
 
 ## Normandy sections
 
+support-remote-experiments-title = Etäkokeilut
 support-remote-experiments-name = Nimi
+support-remote-experiments-branch = Kokeiluhaara
+support-remote-features-title = Etäominaisuudet
 support-remote-features-name = Nimi
 support-remote-features-status = Tila
