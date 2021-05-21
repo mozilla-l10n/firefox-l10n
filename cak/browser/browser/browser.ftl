@@ -514,6 +514,11 @@ urlbar-placeholder-with-name =
     .placeholder = Takanoj pa { $name } o tatz'ib'aj ri rochochib'al
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Ri Okik'amaya'l k'o pa ruq'a' ri näj chajinïk
+# Variables
+#  $component (String): the name of the component which forces remote control.
+#    Example: "DevTools", "Marionette", "RemoteAgent".
+urlbar-remote-control-notification-anchor2 =
+    .tooltiptext = Näj nisamajïx pe ri okik'amaya'l (aruma: { $component })
 urlbar-permissions-granted =
     .tooltiptext = Xaya' ruwi' ya'oj q'ij chi re re ajk'amaya'l ruxaq re'.
 urlbar-switch-to-tab =
