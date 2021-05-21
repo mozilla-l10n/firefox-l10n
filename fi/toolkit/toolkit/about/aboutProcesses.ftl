@@ -57,10 +57,20 @@ about-processes-process-name = Prosessi { $pid }: { $name }
 ##    $pid (String) The process id of this process, assigned by the OS.
 
 about-processes-browser-process = { -brand-short-name } ({ $pid })
+about-processes-web-process = Jaettu web-prosessi ({ $pid })
 about-processes-file-process = Tiedostot ({ $pid })
 about-processes-extension-process = Laajennukset ({ $pid })
+about-processes-privilegedabout-process = About-sivut ({ $pid })
 about-processes-plugin-process = Liitännäiset ({ $pid })
+about-processes-privilegedmozilla-process = { -vendor-short-name }-sivustot ({ $pid })
+about-processes-gmp-plugin-process = Gecko-medialiitännäiset ({ $pid })
+about-processes-gpu-process = GPU ({ $pid })
+about-processes-vr-process = VR ({ $pid })
+about-processes-rdd-process = Datan purku ({ $pid })
 about-processes-socket-process = Verkko ({ $pid })
+about-processes-remote-sandbox-broker-process = Remote Sandbox Broker ({ $pid })
+about-processes-fork-server-process = Fork Server ({ $pid })
+about-processes-preallocated-process = Esijaettu ({ $pid })
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
@@ -73,6 +83,9 @@ about-processes-unknown-process = Muu: { $type } ({ $pid })
 ##    $origin (String) The domain name for this process.
 
 about-processes-web-isolated-process = { $origin } ({ $pid })
+about-processes-web-large-allocation-process = { $origin } ({ $pid }, suuri)
+about-processes-web-isolated-process-private = { $origin } — yksityinen ({ $pid })
+about-processes-web-large-allocation-process-private = { $origin } — Private ({ $pid }, suuri)
 
 ## Details within processes
 

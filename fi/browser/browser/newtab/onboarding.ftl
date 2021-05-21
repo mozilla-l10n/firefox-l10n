@@ -301,3 +301,13 @@ mr1-onboarding-theme-label-alpenglow = Alpenglow
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of light theme
+mr1-onboarding-theme-tooltip-light =
+    .title =
+        Käytä vaaleaa teemaa painikkeille,
+        valikoille ja ikkunoille.
+# Input description for light theme
+mr1-onboarding-theme-description-light =
+    .aria-description =
+        Käytä vaaleaa teemaa painikkeille,
+        valikoille ja ikkunoille.
