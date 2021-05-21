@@ -126,6 +126,12 @@ account-setup-find-settings-failed = { -brand-short-name }, e-posta hesabınız�
 account-setup-manual-config-title = Sunucu ayarları
 protocol-imap-option = { account-setup-result-imap }
 protocol-pop-option = { account-setup-result-pop }
+outgoing-protocol = SMTP
+ssl-autodetect-option = Otomatik algıla
+ssl-starttls-option = STARTTLS
+ssl-tls-option = SSL/TLS
+account-setup-advanced-setup-button = Gelişmiş yapılandırma
+    .accesskey = G
 
 ## Warning insecure server
 
