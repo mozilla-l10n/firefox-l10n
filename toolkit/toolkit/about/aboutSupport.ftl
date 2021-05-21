@@ -410,6 +410,7 @@ support-printing-prefs-value = Arvo
 support-remote-experiments-title = Etäkokeilut
 support-remote-experiments-name = Nimi
 support-remote-experiments-branch = Kokeiluhaara
+support-remote-experiments-see-about-studies = Sivulta <a data-l10n-name="support-about-studies-link">about:studies</a> voi lukea lisätietoja, kuten miten poistaa käytöstä yksittäisiä kokeiluja tai estää { -brand-short-name } suorittamasta tällaista kokeilua tulevaisuudessa.
 support-remote-features-title = Etäominaisuudet
 support-remote-features-name = Nimi
 support-remote-features-status = Tila
