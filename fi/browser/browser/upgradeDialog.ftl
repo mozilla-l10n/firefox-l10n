@@ -34,6 +34,7 @@ upgrade-dialog-new-primary-win7-button = Selvä, ymmärretty!
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-default-title = Asetetaanko { -brand-short-name } oletusselaimeksi?
+upgrade-dialog-default-subtitle = Nopeutta, turvallisuutta ja yksityisyyttä joka kerta kun selaat.
 upgrade-dialog-default-primary-button = Aseta oletusselaimeksi
 upgrade-dialog-default-secondary-button = Ei nyt
 
