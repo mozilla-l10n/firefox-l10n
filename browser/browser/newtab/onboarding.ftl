@@ -264,7 +264,7 @@ onboarding-multistage-theme-description-alpenglow =
 # choice to use Firefox over a larger competitor browser.
 # An alternative title for localization is: "It starts here".
 # This text can be formatted to span multiple lines as needed.
-mr1-welcome-screen-hero-text = Palo on irti
+mr1-welcome-screen-hero-text = Ruvetaan hommiin
 # Caption for background image in about:welcome. "Soraya Osorio" is the name
 # of the person and shouldn't be translated.
 mr1-onboarding-welcome-image-caption = Soraya Osorio — Huonekalujen suunnittelija, Firefox-fani
