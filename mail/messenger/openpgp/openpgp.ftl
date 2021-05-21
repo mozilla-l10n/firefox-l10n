@@ -634,5 +634,6 @@ dlg-button-retry = &Tentar novamente
 dlg-button-skip = &Ignorar
 # Strings used in enigmailCommon.js
 enig-error = Erro OpenPGP
+# Strings used in enigmailMsgBox.js
 enig-alert-title =
     .title = Alerta OpenPGP
