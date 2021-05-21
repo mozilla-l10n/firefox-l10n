@@ -301,3 +301,33 @@ mr1-onboarding-theme-description-system =
     .aria-description =
         Sledi temi operacijskega sistema
         za gumbe, menije in okna.
+# Tooltip displayed on hover of light theme
+mr1-onboarding-theme-tooltip-light =
+    .title =
+        Uporabi svetlo temo za gumbe,
+        menije in okna.
+# Input description for light theme
+mr1-onboarding-theme-description-light =
+    .aria-description =
+        Uporabi svetlo temo za gumbe,
+        menije in okna.
+# Tooltip displayed on hover of dark theme
+mr1-onboarding-theme-tooltip-dark =
+    .title =
+        Uporabi temno temo za gumbe,
+        menije in okna.
+# Input description for dark theme
+mr1-onboarding-theme-description-dark =
+    .aria-description =
+        Uporabi temno temo za gumbe,
+        menije in okna.
+# Tooltip displayed on hover of Alpenglow theme
+mr1-onboarding-theme-tooltip-alpenglow =
+    .title =
+        Uporabi energično, barvito temo za
+        gumbe, menije in okna.
+# Input description for Alpenglow theme
+mr1-onboarding-theme-description-alpenglow =
+    .aria-description =
+        Uporabi energično, barvito temo za
+        gumbe, menije in okna.

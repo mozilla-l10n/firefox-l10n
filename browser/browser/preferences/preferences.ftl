@@ -1149,6 +1149,8 @@ collection-backlogged-crash-reports =
     .label = { -brand-short-name(sklon: "dajalnik") } dovoli, da v vašem imenu pošilja poročila o sesutjih iz zaloge
     .accesskey = z
 collection-backlogged-crash-reports-link = Več o tem
+collection-backlogged-crash-reports-with-link = { -brand-short-name(sklon: "dajalnik") } dovoli, da v vašem imenu pošilja poročila o sesutjih iz zaloge <a data-l10n-name="crash-reports-link">Več o tem</a>
+    .accesskey = z
 
 ## Privacy Section - Security
 ##
