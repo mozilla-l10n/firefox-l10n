@@ -19,6 +19,11 @@ experimental-features-media-avif =
 experimental-features-media-avif-description = Rik'in re samaj tzijon re', { -brand-short-name } nutob'ej ri rub'anikil ruyakb'al wachib'äl AV1 (AVIF). Re re' jun rub'anikil ruyakb'al wachib'äl ri nikokisab'ej ketamab'al taq algoritmo richin kijitz'oj AV1 richin nich'utinisäx rupalem. Tab'etz'eta' ri <a data-l10n-name="bugzilla">bug 1443863</a> richin ri rub'anikil.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
+experimental-features-media-jxl =
+    .label = Samajib'äl: JPEG XL
+experimental-features-media-jxl-description = Rik'in re tzijon samajib'äl re', { -brand-short-name } nuk'ül ri rub'anikil JPEG XL (JXL). Re' jun rub'anikil utzirisan ruyakb'al wachib'äl, ri nuya' q'ij chi re ri ruq'axik akuchi' majun tzij nusäch pa JPEG taq yakb'äl. Tak'ulb'ej ri <a data-l10n-name="bugzilla">bug 1539075</a> richin ch'aqa' rub'anikil.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
     .label = Web API: inputmode
 # "inputmode" and "contenteditable" are technical terms and shouldn't be translated.
