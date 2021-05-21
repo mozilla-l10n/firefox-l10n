@@ -20,15 +20,69 @@
 <!ENTITY newPrivateWindowCmd.accesskey "Z">
 <!ENTITY closeCmd.label "Zapri">
 <!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "Z">
+<!ENTITY printSetupCmd.label "Priprava strani …">
+<!ENTITY printSetupCmd.accesskey "r">
+<!ENTITY printPreviewCmd.label "Predogled tiskanja">
+<!ENTITY printPreviewCmd.accesskey "i">
+<!ENTITY printCmd.label "Natisni …">
+<!ENTITY printCmd.accesskey "t">
+<!ENTITY printCmd.key "P">
 
 <!-- LOCALIZATION NOTE (.modifiers): The following entites are for the
      application menu. Never change the modifiers unless you are 100% sure that
      they are different on your locale (should be very rare). -->
+<!ENTITY preferencesCmdMac.label          "Nastavitve …">
+<!ENTITY preferencesCmdMac.key            ",">
+<!ENTITY preferencesCmdMac.modifiers      "accel">
+<!ENTITY servicesMenu.label               "Storitve">
+<!ENTITY hideThisAppCmd.label             "Skrij &brandShortName;">
+<!ENTITY hideThisAppCmd.key               "S">
+<!ENTITY hideThisAppCmd.modifiers         "accel">
+<!ENTITY hideOtherAppsCmd.label           "Skrij ostale">
+<!ENTITY hideOtherAppsCmd.key             "o">
+<!ENTITY hideOtherAppsCmd.modifiers       "accel,alt">
+<!ENTITY showAllAppsCmd.label             "Prikaži vse">
+<!ENTITY openHelpCmdMac.label             "Pomoč za &brandShortName;">
+<!ENTITY openHelpCmdMac.accesskey         "P">
+<!ENTITY openHelpCmdMac.key               "?">
+<!ENTITY openHelpCmdMac.modifiers         "accel">
 
+<!ENTITY quitApplicationCmd.label         "Izhod">
+<!ENTITY quitApplicationCmd.key           "Q">
+<!ENTITY quitApplicationCmd.accesskey     "h">
+<!ENTITY quitApplicationCmdMac.label      "Zapri &brandShortName;">
+<!ENTITY quitApplicationCmdMac.accesskey  "p">
+<!ENTITY quitApplicationCmdUnix.label     "Izhod">
+<!ENTITY quitApplicationCmdUnix.accesskey "h">
 
+<!ENTITY editMenu.label                   "Urejanje">
+<!ENTITY editMenu.accesskey               "U">
+<!ENTITY undoCmd.label                    "Razveljavi">
+<!ENTITY undoCmd.key                      "Z">
+<!ENTITY undoCmd.accesskey                "z">
+<!ENTITY redoCmd.label                    "Uveljavi">
+<!ENTITY redoCmd.key                      "Y">
+<!ENTITY redoCmdMac.key                   "Z">
+<!ENTITY redoCmd.accesskey                "U">
+<!ENTITY cutCmd.label                     "Izreži">
+<!ENTITY cutCmd.key                       "X">
+<!ENTITY cutCmd.accesskey                 "i">
+<!ENTITY copyCmd.label                    "Kopiraj">
+<!ENTITY copyCmd.key                      "C">
+<!ENTITY copyCmd.accesskey                "K">
+<!ENTITY pasteCmd.label                   "Prilepi">
+<!ENTITY pasteCmd.key                     "V">
+<!ENTITY pasteCmd.accesskey               "P">
+<!ENTITY pasteGoCmd.label                 "Prilepi in odpri">
+<!ENTITY pasteGoCmd.accesskey             "o">
 
 <!-- LOCALIZATION NOTE (pasteSearchCmd): "Search" is a verb, this is the
      search bar equivalent to the url bar's "Paste & Go"  -->
+<!ENTITY pasteSearchCmd.label             "Prilepi in išči">
+<!ENTITY pasteSearchCmd.accesskey         "š">
+<!ENTITY deleteCmd.label                  "Izbriši">
+<!ENTITY deleteCmd.accesskey              "b">
 <!-- LOCALIZATION NOTE (findBarCmd.accesskey): This accesskey should be within
      findBarCmd.label found in editorOverlay.dtd, findCmd.label in messenger.dtd
      and messengercompose.dtd and findOnCmd.label found in navigatorOverlay.dtd -->
