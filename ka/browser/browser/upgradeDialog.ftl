@@ -25,6 +25,7 @@ upgrade-dialog-new-primary-primary-button = აქციეთ { -brand-short-na
     .title = { -brand-short-name } გახდება ნაგულისხმევი ბრაუზერი და მიმაგრდება ამოცანათა ზოლზე
 upgrade-dialog-new-primary-default-button = გახდეს { -brand-short-name } ჩემი ძირითადი ბრაუზერი
 upgrade-dialog-new-primary-pin-button = განთავსდეს { -brand-short-name } ჩემს ამოცანათა ზოლზე
+upgrade-dialog-new-primary-pin-alt-button = სამუშაო ზოლზე მიმაგრება
 upgrade-dialog-new-primary-theme-button = აირჩიეთ გაფორმება
 upgrade-dialog-new-secondary-button = ახლა არა
 # This string is only shown on Windows 7, where we intentionally suppress the
