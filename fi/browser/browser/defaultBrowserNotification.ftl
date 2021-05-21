@@ -13,8 +13,10 @@ default-browser-notification-button =
 ## secondary button are shared between the variants.
 
 default-browser-prompt-title-pin = Asetetaanko { -brand-short-name } oletusselaimeksi?
+default-browser-prompt-message-pin = Pidä { -brand-short-name } käden ulottuvilla — aseta se oletusselaimeksi ja kiinnitä se tehtäväpalkkiin.
 default-browser-prompt-button-primary-pin = Aseta ensisijaiseksi selaimeksi
 default-browser-prompt-title-alt = Asetetaanko { -brand-short-name } oletusselaimeksi?
+default-browser-prompt-message-alt = Nopeutta, turvallisuutta ja yksityisyyttä joka kerta kun selaat.
 default-browser-prompt-button-primary-alt = Aseta oletusselaimeksi
-default-browser-prompt-checkbox-label = Älä kysy uudestaan
+default-browser-prompt-checkbox-not-again-label = Älä näytä tätä viestiä uudelleen
 default-browser-prompt-button-secondary = Ei nyt
