@@ -49,3 +49,5 @@ customize-mode-lwthemes-my-themes =
     .value = Omat teemat
 customize-mode-touchbar-cmd =
     .label = Muokkaa Touch Baria…
+customize-mode-downloads-button-autohide =
+    .label = Piilota painike sen ollessa tyhjä
