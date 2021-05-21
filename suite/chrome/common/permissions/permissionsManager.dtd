@@ -1,0 +1,19 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY windowtitle.label              "Izjeme">
+<!ENTITY treehead.sitename.label        "Spletno mesto">
+<!ENTITY treehead.status.label          "Stanje">
+<!ENTITY remove.label                   "Odstrani spletno mesto">
+<!ENTITY remove.accesskey               "O">
+<!ENTITY removeall.label                "Odstrani vsa spletna mesta">
+<!ENTITY removeall.accesskey            "v">
+<!ENTITY address.label                  "Naslov spletnega mesta:">
+<!ENTITY address.accesskey              "l">
+<!ENTITY block.label                    "Zavrni">
+<!ENTITY block.accesskey                "Z">
+<!ENTITY session.label                  "Dovoli v tej seji">
+<!ENTITY session.accesskey              "s">
+<!ENTITY allow.label                    "Dovoli">
+<!ENTITY allow.accesskey                "D">
