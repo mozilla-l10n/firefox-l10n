@@ -18,8 +18,9 @@ upgrade-dialog-new-alt-subtitle = Aloitetaan tekemällä <span data-l10n-name="z
 upgrade-dialog-new-item-menu-title = Virtaviivaistetut työkalupalkit ja valikot
 upgrade-dialog-new-item-menu-description = laittavat asiat tärkeysjärjestykseen, jotta löydät tarvitsemasi.
 upgrade-dialog-new-item-tabs-title = Nykyaikaiset välilehdet
+upgrade-dialog-new-item-tabs-description = näyttävät tiedot siististi, tukien keskittymistä ja sulavaa liikkumista.
 upgrade-dialog-new-item-icons-title = Uudet kuvakkeet ja selkeämmät viestit
-upgrade-dialog-new-item-icons-description = Auttavat perille kevyemmällä otteella.
+upgrade-dialog-new-item-icons-description = auttavat perille kevyemmällä otteella.
 upgrade-dialog-new-primary-primary-button = Aseta { -brand-short-name } oletusselaimeksi
     .title = Asettaa { -brand-short-name }in oletusselaimeksi ja kiinnittää sen tehtäväpalkkiin
 upgrade-dialog-new-primary-default-button = Aseta { -brand-short-name } oletusselaimeksi
