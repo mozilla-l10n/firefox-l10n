@@ -84,9 +84,10 @@ about-processes-unknown-process = Juley: { $type } ({ $pid })
 
 about-processes-web-isolated-process = { $origin } ({ $pid })
 about-processes-web-large-allocation-process = { $origin } ({ $pid }), nïm)
-about-processes-with-coop-coep-process = { $origin } ({ $pid }), xoch'in-jech'en ruxe'el
+about-processes-with-coop-coep-process = { $origin } ({ $pid }), xoch'in-jech'en ruxe'el)
 about-processes-web-isolated-process-private = { $origin } — Ichinan ({ $pid })
 about-processes-web-large-allocation-process-private = { $origin } — Ichinan ({ $pid }, nïm)
+about-processes-with-coop-coep-process-private = { $origin } — Ichinan ({ $pid }), xoch'in-jech'en ruxe'el)
 
 ## Details within processes
 
@@ -101,6 +102,38 @@ about-processes-thread-summary = Threads ({ $number })
 #   $name (String) The name assigned to the thread.
 #   $tid (String) The thread id of this thread, assigned by the OS.
 about-processes-thread-name = Thread { $tid }: { $name }
+# Single-line summary of threads (non-idle process)
+# Variables:
+#    $number (Number) The number of threads in the process. Typically larger
+#                     than 30. We don't expect to ever have processes with less
+#                     than 5 threads.
+#    $active (Number) The number of active threads in the process.
+#                     The value will be greater than 0 and will never be
+#                     greater than $number.
+#    $list (String) Comma separated list of active threads.
+#                   Can be an empty string if the process is idle.
+about-processes-active-threads =
+    { $active ->
+        [one] { $active } tzijïl rub'atz' { $number }: { $list }
+       *[other] { $active } tzijïl taq rub'atz' { $number }: { $list }
+    }
+# Single-line summary of threads (idle process)
+# Variables:
+#    $number (Number) The number of threads in the process. Typically larger
+#                     than 30. We don't expect to ever have processes with less
+#                     than 5 threads.
+#                     The process is idle so all threads are inactive.
+about-processes-inactive-threads =
+    { $number ->
+        [one] { $number } tzijïl rub'atz'
+       *[other] { $number } tzijïl taq rub'atz'
+    }
+# Thread details
+# Variables:
+#   $name (String) The name assigned to the thread.
+#   $tid (String) The thread id of this thread, assigned by the OS.
+about-processes-thread-name-and-id = { $name }
+    .title = Rajilab'al b'ätz': { $tid }
 # Tab
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
@@ -127,10 +160,16 @@ about-processes-frame-name-many = Achruchi' ({ $number }): { $shortUrl }
 
 # Common case.
 about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") } ({ NUMBER($total, maximumFractionDigits: 0) }{ $unit })
+# Common case.
+about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
+    .title = Ronojel ruq'ijul CPU: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (netäx)
 # Special case: process or thread is currently idle.
 about-processes-cpu-user-and-kernel-idle = metzijïl ({ NUMBER($total, maximumFractionDigits: 2) }{ $unit })
+# Special case: process or thread is currently idle.
+about-processes-cpu-idle = chupül
+    .title = Ronojel ruq'ijul: { NUMBER($total, maximumFractionDigits: 2) }{ $unit }
 
 ## Displaying Memory (total and delta)
 ## Variables:
@@ -145,6 +184,9 @@ about-processes-cpu-user-and-kernel-idle = metzijïl ({ NUMBER($total, maximumFr
 
 # Common case.
 about-processes-total-memory-size = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit } ({ $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit })
+# Common case.
+about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
+    .title = Rujalik: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit }
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
 
