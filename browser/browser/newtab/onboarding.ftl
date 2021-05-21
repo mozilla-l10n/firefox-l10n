@@ -281,7 +281,7 @@ mr1-onboarding-set-default-only-primary-button-label = Aseta { -brand-short-name
 mr1-onboarding-set-default-secondary-button-label = Ei nyt
 mr1-onboarding-sign-in-button-label = Kirjaudu sisään
 mr1-onboarding-import-header = Tuo kaikki mukanasi
-mr1-onboarding-import-subtitle = Tuo salasanat, <br/>kirjanmerkit ja muut asiat.
+mr1-onboarding-import-subtitle = Tuo salasanat, <br/>kirjanmerkit ynnä muut.
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
@@ -289,6 +289,7 @@ mr1-onboarding-import-primary-button-label-attribution = Tuo selaimesta { $previ
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = Tuo edellisestä selaimesta
 mr1-onboarding-import-secondary-button-label = Ei nyt
+mr1-onboarding-theme-header = Omalla tyylillä
 mr1-onboarding-theme-subtitle = Mukauta { -brand-short-name }ia teemalla.
 mr1-onboarding-theme-primary-button-label = Tallenna teema
 mr1-onboarding-theme-secondary-button-label = Ei nyt

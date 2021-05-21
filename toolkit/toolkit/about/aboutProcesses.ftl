@@ -141,6 +141,9 @@ about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "pe
 about-processes-cpu-user-and-kernel-not-ready = (mittaus kesken)
 # Special case: process or thread is currently idle.
 about-processes-cpu-user-and-kernel-idle = jouten ({ NUMBER($total, maximumFractionDigits: 2) } { $unit })
+# Special case: process or thread is currently idle.
+about-processes-cpu-idle = joutilas
+    .title = Suoritinaika yhteensä: { NUMBER($total, maximumFractionDigits: 2) } { $unit }
 
 ## Displaying Memory (total and delta)
 ## Variables:
