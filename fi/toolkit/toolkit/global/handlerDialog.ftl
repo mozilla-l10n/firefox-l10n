@@ -2,14 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# Please keep the emphasis around the hostname and scheme (ie the
-# `<strong>` HTML tags). Please also keep the hostname as close to the start
-# of the sentence as your language's grammar allows.
-#
-# Variables:
-#  $host - the hostname that is initiating the request
-#  $scheme - the type of link that's being opened.
-handler-dialog-host = <strong>{ $host }</strong> haluaa avata <strong>{ $scheme }</strong>-linkin.
 
 ## Permission Dialog
 ## Variables:
@@ -17,12 +9,12 @@ handler-dialog-host = <strong>{ $host }</strong> haluaa avata <strong>{ $scheme 
 ##  $scheme - the type of link that's being opened.
 ##  $appName - Name of the application that will be opened.
 
-permission-dialog-description = Sallitaanko tämän sivuston avata { $scheme }-linkki?
-permission-dialog-description-file = Sallitaanko tämän tiedoston avata { $scheme }-linkki?
-permission-dialog-description-host = Sallitaanko sivuston { $host } avata { $scheme }-linkki?
-permission-dialog-description-app = Sallitaanko tämän sivuston avata { $scheme }-linkki sovelluksella { $appName }?
-permission-dialog-description-host-app = Sallitaanko sivuston { $host } avata { $scheme }-linkki sovelluksella { $appName }?
-permission-dialog-description-file-app = Sallitaanko tämän tiedoston avata { $scheme }-linkki sovelluksella { $appName }?
+permission-dialog-description = Saako tämä sivusto avata { $scheme }-linkin?
+permission-dialog-description-file = Saako tämä tiedosto avata { $scheme }-linkin?
+permission-dialog-description-host = Saako sivusto { $host } avata { $scheme }-linkin?
+permission-dialog-description-app = Saako tämä sivusto avata { $scheme }-linkin sovelluksella { $appName }?
+permission-dialog-description-host-app = Saako sivusto { $host } avata { $scheme }-linkin sovelluksella { $appName }?
+permission-dialog-description-file-app = Saako tämä tiedosto avata { $scheme }-linkin sovelluksella { $appName }?
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
