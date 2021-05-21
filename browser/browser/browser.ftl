@@ -511,6 +511,11 @@ urlbar-placeholder-with-name =
     .placeholder = მოძებნეთ { $name } საძიებოთი ან შეიყვანეთ მისამართი
 urlbar-remote-control-notification-anchor =
     .tooltiptext = ბრაუზერი დაშორებული მართვის ქვეშაა
+# Variables
+#  $component (String): the name of the component which forces remote control.
+#    Example: "DevTools", "Marionette", "RemoteAgent".
+urlbar-remote-control-notification-anchor2 =
+    .tooltiptext = ბრაუზერი დაშორებული მართვის ქვეშაა (მიზეზი: { $component })
 urlbar-permissions-granted =
     .tooltiptext = ამ საიტისთვის გარკვეული ნებართვები გაქვთ მითითებული.
 urlbar-switch-to-tab =

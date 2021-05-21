@@ -68,7 +68,7 @@ experimental-features-devtools-serviceworker-debugger-support-description = ჩ�
 # WebRTC global mute toggle controls
 experimental-features-webrtc-global-mute-toggles =
     .label = WebRTC Global Mute Toggles
-experimental-features-webrtc-global-mute-toggles-description = ამატებს სამართავს WebRTC-ის ერთიან საზიარო მაჩვენებელში, რომლითაც მომხმარებელს შეუძლია ერთიანად დაადუმოს მიკროფონისა და კამერის არხები.
+experimental-features-webrtc-global-mute-toggles-description = ამატებს სამართავს WebRTC-ის საერთო საზიარო მაჩვენებელში, რომლითაც მომხმარებელს შეუძლია ერთიანად დაადუმოს მიკროფონისა და კამერის არხები.
 # Win32k Lockdown
 experimental-features-win32k-lockdown =
     .label = Win32k Lockdown
