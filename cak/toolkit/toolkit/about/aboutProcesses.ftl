@@ -57,12 +57,20 @@ about-processes-process-name = Tajinïk { $pid }: { $name }
 ##    $pid (String) The process id of this process, assigned by the OS.
 
 about-processes-browser-process = { -brand-short-name } ({ $pid })
+about-processes-web-process = Komonin Rutajinik Ajk'amaya'l ({ $pid })
 about-processes-file-process = Taq yakb'äl ({ $pid })
+about-processes-extension-process = Taq K'amal ({ $pid })
+about-processes-privilegedabout-process = Chi kij ri taq ruxaq ({ $pid }{ $pid })
 about-processes-plugin-process = Taq pluyin ({ $pid })
 about-processes-privilegedmozilla-process = { -vendor-short-name } taq ruxaq ({ $pid })
+about-processes-gmp-plugin-process = Gecko K'oxom Nak'ab'äl ({ $pid })
 about-processes-gpu-process = GPU ({ $pid })
 about-processes-vr-process = VR ({ $pid })
+about-processes-rdd-process = Sik'inel Tzij ({ $pid })
 about-processes-socket-process = K'amab'ey ({ $pid })
+about-processes-remote-sandbox-broker-process = Näj Sandbox Broker ({ $pid })
+about-processes-fork-server-process = Rukojol Ruk'u'x K'amab'ey ({ $pid })
+about-processes-preallocated-process = Ya'on ({ $pid })
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
@@ -76,6 +84,7 @@ about-processes-unknown-process = Juley: { $type } ({ $pid })
 
 about-processes-web-isolated-process = { $origin } ({ $pid })
 about-processes-web-large-allocation-process = { $origin } ({ $pid }), nïm)
+about-processes-with-coop-coep-process = { $origin } ({ $pid }), xoch'in-jech'en ruxe'el
 about-processes-web-isolated-process-private = { $origin } — Ichinan ({ $pid })
 about-processes-web-large-allocation-process-private = { $origin } — Ichinan ({ $pid }, nïm)
 
