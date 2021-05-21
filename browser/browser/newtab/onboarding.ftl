@@ -199,7 +199,7 @@ onboarding-welcome-steps-indicator =
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "look" should stay inside the span.
 onboarding-multistage-theme-header = Valitse <span data-l10n-name="zap">ulkoasu</span>
-onboarding-multistage-theme-subtitle = Mukauta { -brand-short-name }ia teemalla.
+onboarding-multistage-theme-subtitle = Valitse { -brand-short-name }-teema makusi mukaan.
 onboarding-multistage-theme-primary-button-label2 = Valmis
 onboarding-multistage-theme-secondary-button-label = Ei nyt
 # Automatic theme uses operating system color settings
@@ -280,7 +280,7 @@ mr1-onboarding-set-default-pin-primary-button-label = Aseta { -brand-short-name 
 mr1-onboarding-set-default-only-primary-button-label = Aseta { -brand-short-name } oletusselaimeksi
 mr1-onboarding-set-default-secondary-button-label = Ei nyt
 mr1-onboarding-sign-in-button-label = Kirjaudu sisään
-mr1-onboarding-import-header = Tuo kaikki mukanasi
+mr1-onboarding-import-header = Kaikki mukanasi
 mr1-onboarding-import-subtitle = Tuo salasanat, <br/>kirjanmerkit ynnä muut.
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
@@ -290,7 +290,7 @@ mr1-onboarding-import-primary-button-label-attribution = Tuo selaimesta { $previ
 mr1-onboarding-import-primary-button-label-no-attribution = Tuo edellisestä selaimesta
 mr1-onboarding-import-secondary-button-label = Ei nyt
 mr1-onboarding-theme-header = Omalla tyylillä
-mr1-onboarding-theme-subtitle = Mukauta { -brand-short-name }ia teemalla.
+mr1-onboarding-theme-subtitle = Valitse { -brand-short-name }-teema makusi mukaan.
 mr1-onboarding-theme-primary-button-label = Tallenna teema
 mr1-onboarding-theme-secondary-button-label = Ei nyt
 # System theme uses operating system color settings
