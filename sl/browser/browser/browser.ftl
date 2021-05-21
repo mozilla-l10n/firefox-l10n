@@ -526,6 +526,11 @@ urlbar-placeholder-with-name =
     .placeholder = Iščite z iskalnikom { $name } ali vnesite naslov
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Brskalnik je pod daljinskim upravljanjem
+# Variables
+#  $component (String): the name of the component which forces remote control.
+#    Example: "DevTools", "Marionette", "RemoteAgent".
+urlbar-remote-control-notification-anchor2 =
+    .tooltiptext = Brskalnik je pod oddaljenim upravljanjem (razlog: { $component })
 urlbar-permissions-granted =
     .tooltiptext = Tej strani ste dodelili dodatna dovoljenja.
 urlbar-switch-to-tab =
