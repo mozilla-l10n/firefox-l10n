@@ -15,6 +15,7 @@ policy-AllowedDomainsForApps = Määritä verkkotunnukset, joilla on pääsy Goo
 policy-AppAutoUpdate = Käytä tai poista käytöstä sovelluksen automaattiset päivitykset.
 policy-AppUpdateURL = Aseta oma sovelluksen päivittämisen URL-osoite.
 policy-Authentication = Määritä sisäänrakennettu tunnistautuminen sivustoille, jotka tukevat sitä.
+policy-AutoLaunchProtocolsFromOrigins = Määritä lista ulkoisista yhteyskäytännöistä, joita voi käyttää määrätyistä lähteistä kysymättä lupaa käyttäjältä.
 policy-BackgroundAppUpdate2 = Ota käyttöön tai poista käytöstä taustalla suoritettavien päivitysten toiminnallisuus.
 policy-BlockAboutAddons = Estä pääsy lisäosien hallintaan (about:addons).
 policy-BlockAboutConfig = Estä pääsy about:config-sivulle.
