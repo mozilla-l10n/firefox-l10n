@@ -16,8 +16,11 @@ upgrade-dialog-new-title = Spoznajte novi { -brand-short-name }
 upgrade-dialog-new-alt-subtitle = Za začetek naj bo <span data-l10n-name="zap">{ -brand-short-name }</span> oddaljen samo en klik
 upgrade-dialog-new-item-tabs-title = Sodobni zavihki
 upgrade-dialog-new-item-icons-title = Sveže ikone in jasnejša sporočila
+upgrade-dialog-new-primary-primary-button = Nastavi { -brand-short-name } kot moj glavni brskalnik
+    .title = Nastavite { -brand-short-name } kot privzeti brskalnik in ga pripnite v opravilno vrstico
 upgrade-dialog-new-primary-default-button = Nastavi { -brand-short-name } kot privzet brskalnik
 upgrade-dialog-new-primary-pin-button = Pripni { -brand-short-name } v opravilno vrstico
+upgrade-dialog-new-primary-pin-alt-button = Pripni v opravilno vrstico
 upgrade-dialog-new-primary-theme-button = Izberite temo
 upgrade-dialog-new-secondary-button = Ne zdaj
 # This string is only shown on Windows 7, where we intentionally suppress the
@@ -33,6 +36,8 @@ upgrade-dialog-default-secondary-button = Ne zdaj
 
 ## Theme selection screen
 
+upgrade-dialog-theme-system = Sistemska tema
+    .title = Sledi temi operacijskega sistema za gumbe, menije in okna
 upgrade-dialog-theme-light = Svetla
     .title = Uporabi svetlo temo za gumbe, menije in okna
 upgrade-dialog-theme-dark = Temna

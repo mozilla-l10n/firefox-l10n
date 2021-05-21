@@ -10,4 +10,4 @@ account-finish-account-setup = Končaj nastavitev računa
 account-reconnect-to-fxa = Račun odklopljen
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
-account-disconnected = Povezava je bila prekinjena
+account-disconnected2 = Račun odklopljen

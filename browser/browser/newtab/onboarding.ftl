@@ -257,6 +257,9 @@ onboarding-multistage-theme-description-alpenglow =
 
 ## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 
+# Caption for background image in about:welcome. "Soraya Osorio" is the name
+# of the person and shouldn't be translated.
+mr1-onboarding-welcome-image-caption = Soraya Osorio – oblikovalka pohištva, ljubiteljica Firefoxa
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Izklopi animacije
 mr1-onboarding-welcome-header = Dobrodošli v { -brand-short-name(sklon: "mestnik") }
@@ -264,6 +267,8 @@ mr1-onboarding-set-default-pin-primary-button-label = Nastavi { -brand-short-nam
     .title = Nastavi { -brand-short-name } kot privzeti brskalnik in ga pripni v opravilno vrstico
 mr1-onboarding-set-default-only-primary-button-label = Nastavi { -brand-short-name } kot privzet brskalnik
 mr1-onboarding-set-default-secondary-button-label = Ne zdaj
+mr1-onboarding-sign-in-button-label = Prijava
+mr1-onboarding-import-subtitle = Uvozite svoja gesla, zaznamke<br/>in druge podatke.
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
@@ -271,6 +276,7 @@ mr1-onboarding-import-primary-button-label-attribution = Uvozi iz brskalnika { $
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = Uvozi iz prejšnjega brskalnika
 mr1-onboarding-import-secondary-button-label = Ne zdaj
+mr1-onboarding-theme-subtitle = Prilagodite svoj { -brand-short-name } s temo.
 mr1-onboarding-theme-primary-button-label = Shrani temo
 mr1-onboarding-theme-secondary-button-label = Ne zdaj
 # System theme uses operating system color settings
@@ -285,3 +291,13 @@ mr1-onboarding-theme-label-alpenglow = Alpenglow
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of system theme
+mr1-onboarding-theme-tooltip-system =
+    .title =
+        Sledi temi operacijskega sistema
+        za gumbe, menije in okna.
+# Input description for system theme
+mr1-onboarding-theme-description-system =
+    .aria-description =
+        Sledi temi operacijskega sistema
+        za gumbe, menije in okna.

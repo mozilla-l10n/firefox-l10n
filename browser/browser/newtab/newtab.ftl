@@ -11,6 +11,8 @@ newtab-settings-button =
 newtab-personalize-button-label = Prilagodi
     .title = Prilagodite nov zavihek
     .aria-label = Prilagodite nov zacihek
+newtab-personalize-dialog-label =
+    .aria-label = Prilagodi
 
 ## Search box component.
 
