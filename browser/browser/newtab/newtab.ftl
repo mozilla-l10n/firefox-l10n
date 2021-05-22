@@ -11,6 +11,8 @@ newtab-settings-button =
 newtab-personalize-button-label = Жекелендіру
     .title = Жаңа бетті жекелендіру
     .aria-label = Жаңа бетті жекелендіру
+newtab-personalize-dialog-label =
+    .aria-label = Жекелендіру
 
 ## Search box component.
 
@@ -19,6 +21,20 @@ newtab-search-box-search-button =
     .title = Іздеу
     .aria-label = Іздеу
 newtab-search-box-search-the-web-text = Интернетте іздеу
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-text = { $engine } көмегімен іздеу немесе адрес
+newtab-search-box-handoff-text-no-engine = Іздеу немесе адрес
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-input =
+    .placeholder = { $engine } көмегімен іздеу немесе адрес
+    .title = { $engine } көмегімен іздеу немесе адрес
+    .aria-label = { $engine } көмегімен іздеу немесе адрес
+newtab-search-box-handoff-input-no-engine =
+    .placeholder = Іздеу немесе адрес
+    .title = Іздеу немесе адрес
+    .aria-label = Іздеу немесе адрес
 newtab-search-box-search-the-web-input =
     .placeholder = Интернетте іздеу
     .title = Интернетте іздеу
