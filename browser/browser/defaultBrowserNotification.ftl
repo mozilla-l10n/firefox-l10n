@@ -7,3 +7,13 @@ default-browser-notification-message = <strong>Vil du indstille { -brand-short-n
 default-browser-notification-button =
     .label = Indstil som standard
     .accesskey = s
+
+## These strings are used for the default browser prompt. There are 2 variations
+## depending on the operating system (Windows vs other). The checkbox label and
+## secondary button are shared between the variants.
+
+default-browser-prompt-title-pin = Gør { -brand-short-name } til din foretrukne browser?
+default-browser-prompt-button-primary-pin = Angiv som foretrukken browser
+default-browser-prompt-title-alt = Gør { -brand-short-name } til din standard-browser?
+default-browser-prompt-button-primary-alt = Angiv som standard-browser
+default-browser-prompt-button-secondary = Ikke nu
