@@ -252,9 +252,9 @@ search-one-offs-engine-with-alias =
 # Variables:
 #  $engineName (String): The name of the engine.
 search-one-offs-add-engine =
-    .label = Lisää “{ $engineName }”
-    .tooltiptext = Lisää hakukone “{ $engineName }”
-    .aria-label = Lisää hakukone “{ $engineName }”
+    .label = Lisää ”{ $engineName }”
+    .tooltiptext = Lisää hakukone ”{ $engineName }”
+    .aria-label = Lisää hakukone ”{ $engineName }”
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
