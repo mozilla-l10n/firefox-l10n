@@ -19,9 +19,24 @@ upgrade-dialog-new-primary-primary-button = Gør { -brand-short-name } til min f
 upgrade-dialog-new-primary-default-button = Gør { -brand-short-name } til min standard-browser
 upgrade-dialog-new-primary-pin-button = Fastgør { -brand-short-name } til min proceslinje
 upgrade-dialog-new-primary-pin-alt-button = Fastgør til proceslinjen
+upgrade-dialog-new-primary-theme-button = Vælg et tema
+upgrade-dialog-new-secondary-button = Ikke nu
+# This string is only shown on Windows 7, where we intentionally suppress the
+# theme selection screen.
+upgrade-dialog-new-primary-win7-button = Ok, forstået!
 
 ## Default browser screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title = Gør { -brand-short-name } til din standard-browser?
+upgrade-dialog-default-primary-button = Angiv som standard-browser
+upgrade-dialog-default-secondary-button = Ikke nu
 
 ## Theme selection screen
 
+upgrade-dialog-theme-system = Systemets tema
+    .title = Følg operativsystems tema til knapper, menuer og vinduer
+upgrade-dialog-theme-light = Lyst
+    .title = Brug et lyst tema til knapper, menuer og vinduer
+upgrade-dialog-theme-dark = Mørkt
+    .title = Brug et mørkt tema til knapper, menuer og vinduer

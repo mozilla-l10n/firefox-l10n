@@ -15,6 +15,7 @@ policy-AllowedDomainsForApps = Angiv domæner, der har tilladelse til at tilgå 
 policy-AppAutoUpdate = Slå automatisk opdatering af programmet til eller fra.
 policy-AppUpdateURL = Indstil tilpasset URL for app-opdateringer
 policy-Authentication = Indstil integreret godkendelse for websteder, der understøtter det
+policy-AutoLaunchProtocolsFromOrigins = Angiv en liste med eksterne protokoller, der kan anvendes fra specificerede kilder uden at spørge brugeren.
 policy-BackgroundAppUpdate2 = Slå opdatering i baggrund til og fra.
 policy-BlockAboutAddons = Bloker adgang til fanebladet Tilføjelser (about:addons).
 policy-BlockAboutConfig = Bloker adgang til about:config.

@@ -514,6 +514,11 @@ urlbar-placeholder-with-name =
     .placeholder = Søg med { $name } eller indtast en adresse
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Browseren fjernstyres
+# Variables
+#  $component (String): the name of the component which forces remote control.
+#    Example: "DevTools", "Marionette", "RemoteAgent".
+urlbar-remote-control-notification-anchor2 =
+    .tooltiptext = Browseren er underlagt fjernstyring (Årsag: { $component })
 urlbar-permissions-granted =
     .tooltiptext = Du har givet dette websted yderligere tilladelser.
 urlbar-switch-to-tab =

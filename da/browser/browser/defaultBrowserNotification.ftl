@@ -13,7 +13,10 @@ default-browser-notification-button =
 ## secondary button are shared between the variants.
 
 default-browser-prompt-title-pin = Gør { -brand-short-name } til din foretrukne browser?
+default-browser-prompt-message-pin = Hav { -brand-short-name } inden for rækkevidde - gør den til din standard-browser og fastgør den til proceslinjen.
 default-browser-prompt-button-primary-pin = Angiv som foretrukken browser
 default-browser-prompt-title-alt = Gør { -brand-short-name } til din standard-browser?
+default-browser-prompt-message-alt = Altid høj hastighed, sikkerhed og beskyttelse af dit privatliv.
 default-browser-prompt-button-primary-alt = Angiv som standard-browser
+default-browser-prompt-checkbox-not-again-label = Vis ikke denne besked igen
 default-browser-prompt-button-secondary = Ikke nu
