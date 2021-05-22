@@ -78,6 +78,7 @@ experimental-features-js-warp-description = Ota käyttöön Warp, projekti javaS
 # Fission is the name of the feature and should not be translated.
 experimental-features-fission =
     .label = Fission (sivustojen eristäminen)
+experimental-features-fission-description = Fission (sivustojen eristäminen) on kokeellinen ominaisuus { -brand-short-name }issa, jonka tarkoitus on tarjota lisäkerros tietoturvaongelmia vastaan suojautumisessa. Eristämällä jokaisen sivuston yksittäiseksi prosessiksi, Fission vaikeuttaa haitallisten sivustojen pääsyä muiden vierailemiesi sivustojen tietoihin. Tämä on merkittävä arkkitehtuurillinen muutos { -brand-short-name }issa ja arvostamme, jos päätät testata ja ilmoittaa mahdollisesti havaitsemistasi ongelmista. Lisätietoja on tarjolla <a data-l10n-name="wiki">wikissä</a>.
 # Support for having multiple Picture-in-Picture windows open simultaneously
 experimental-features-multi-pip =
     .label = Useita kuvia kuvassa -tuki
