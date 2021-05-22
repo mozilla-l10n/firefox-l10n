@@ -714,10 +714,10 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Osa sivuston äänitteistä tai videoista käyttää DRM-ohjelmistoa, joka voi rajoittaa mitä { -brand-short-name } voi antaa tehdä niillä.
-eme-notifications-drm-content-playing-manage = Hallitse asetuksia
-eme-notifications-drm-content-playing-manage-accesskey = H
+eme-notifications-drm-content-playing-manage = Muokkaa asetuksia
+eme-notifications-drm-content-playing-manage-accesskey = M
 eme-notifications-drm-content-playing-dismiss = Hylkää
-eme-notifications-drm-content-playing-dismiss-accesskey = y
+eme-notifications-drm-content-playing-dismiss-accesskey = H
 
 ## Password save/update panel
 
