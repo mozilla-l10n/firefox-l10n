@@ -212,6 +212,10 @@ switch-links-to-new-tabs =
     .label = Porta in primo piano le nuove schede aperte da un link
     .accesskey = P
 
+switch-to-new-tabs =
+    .label = Porta in primo piano la scheda quando si aproono link, immagini o contenuti multimediali in una nuova scheda
+    .accesskey = P
+
 show-tabs-in-taskbar =
     .label = Visualizza un’anteprima delle schede nella barra delle applicazioni di Windows
     .accesskey = V
