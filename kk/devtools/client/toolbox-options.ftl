@@ -61,6 +61,8 @@ options-screenshot-label = Скриншот мінез-құлығы
 options-screenshot-clipboard-label = Алмасу буферіне скриншотты жасау
 options-screenshot-clipboard-tooltip =
     .title = Скриншотты тікелей алмасу буферіне сақтайды
+options-screenshot-clipboard-tooltip2 =
+    .title = Скриншотты тікелей алмасу буферіне сақтайды
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
 options-screenshot-audio-label = Камера түсіргішінің дыбысын ойнату
 options-screenshot-audio-tooltip =
