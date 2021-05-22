@@ -10,6 +10,7 @@ search-header =
     .searchbuttonlabel = Søg
 search-header-shortcut =
     .key = f
+list-empty-get-extensions-message = Hent udvidelser og temaer på <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-installed =
     .value = Du har ikke nogen tilføjelser af denne type installeret
 list-empty-available-updates =
