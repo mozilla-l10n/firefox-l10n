@@ -10,6 +10,7 @@ search-header =
     .searchbuttonlabel = Іздеу
 search-header-shortcut =
     .key = f
+list-empty-get-extensions-message = Кеңейтулер және темаларды <a data-l10n-name="get-extensions">{ $domain }</a> жерінен алыңыз
 list-empty-installed =
     .value = Сізде осы түрдегі қосымшалар орнатылмаған
 list-empty-available-updates =
@@ -34,6 +35,9 @@ sidebar-preferences-button-title =
             [windows] { -brand-short-name } опциялары
            *[other] { -brand-short-name } баптаулары
         }
+addons-settings-button = { -brand-short-name } баптаулары
+sidebar-settings-button-title =
+    .title = { -brand-short-name } баптаулары
 show-unsigned-extensions-button =
     .label = Кейбір кеңейтулерді растау мүмкін емес
 show-all-extensions-button =
