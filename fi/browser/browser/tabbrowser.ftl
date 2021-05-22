@@ -5,4 +5,4 @@
 # Variables:
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
-    .label = Salli tällaisten ilmoitusten sivustolta { $domain } viedä sinut heidän välilehteen
+    .label = Salli, että tällaiset ilmoitukset sivustolta { $domain } vievät sinut heidän välilehteen
