@@ -10,8 +10,8 @@
 <!ENTITY playButton.pauseLabel "Pysäytä">
 <!ENTITY muteButton.muteLabel "Vaimenna ääni">
 <!ENTITY muteButton.unmuteLabel "Palauta ääni">
-<!ENTITY fullscreenButton.enterfullscreenlabel "Kokoruututila">
-<!ENTITY fullscreenButton.exitfullscreenlabel "Poistu kokoruututilasta">
+<!ENTITY fullscreenButton.enterfullscreenlabel "Koko näytön tila">
+<!ENTITY fullscreenButton.exitfullscreenlabel "Poistu koko näytön tilasta">
 <!ENTITY castingButton.castingLabel "Lähetä ruudulle">
 <!ENTITY closedCaption.off "Pois käytöstä">
 <!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to

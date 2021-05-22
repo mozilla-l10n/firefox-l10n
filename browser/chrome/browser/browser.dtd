@@ -41,7 +41,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY personalbar.accessibleLabel "Kirjanmerkit">
 <!ENTITY bookmarksToolbarItem.label "Kirjanmerkkipalkin linkit">
 
-<!ENTITY fullScreenCmd.label "Kokoruututila">
+<!ENTITY fullScreenCmd.label "Koko näytön tila">
 
 <!ENTITY pictureInPictureHideToggle.label "Piilota kuva kuvassa -kytkin">
 <!ENTITY pictureInPictureHideToggle.accesskey "P">
@@ -76,14 +76,14 @@ this container is a toolbar. This avoids double-speaking. -->
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 <!ENTITY fullscreenWarning.beforeDomain.label "">
-<!ENTITY fullscreenWarning.afterDomain.label "on nyt kokoruututilassa">
-<!ENTITY fullscreenWarning.generic.label "Dokumentti on nyt kokoruututilassa">
+<!ENTITY fullscreenWarning.afterDomain.label "on nyt koko näytön tilassa">
+<!ENTITY fullscreenWarning.generic.label "Dokumentti on nyt koko näytön tilassa">
 
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
-<!ENTITY exitDOMFullscreen.button "Poistu kokoruututilasta (Esc)">
-<!ENTITY exitDOMFullscreenMac.button "Poistu kokoruututilasta (esc)">
+<!ENTITY exitDOMFullscreen.button "Poistu koko näytön tilasta (Esc)">
+<!ENTITY exitDOMFullscreenMac.button "Poistu koko näytön tilasta (esc)">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -285,4 +285,4 @@ this container is a toolbar. This avoids double-speaking. -->
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
      used as a textual label for the indicator used by assistive technology
      users. -->
-<!ENTITY accessibilityIndicator.tooltip "Esteettömyysominaisuudet käytössä">
+<!ENTITY accessibilityIndicator.tooltip "Saavutettavuusominaisuudet käytössä">

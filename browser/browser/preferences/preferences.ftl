@@ -1115,7 +1115,7 @@ permissions-addon-exceptions =
     .label = Poikkeukset…
     .accesskey = P
 permissions-a11y-privacy-checkbox =
-    .label = Estä esteettömyyspalveluja käyttämästä selaintasi
+    .label = Estä saavutettavuuspalveluja käyttämästä selaintasi
     .accesskey = v
 permissions-a11y-privacy-link = Lue lisää
 
