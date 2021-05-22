@@ -1222,11 +1222,11 @@ httpsonly-header = Tryb używania wyłącznie protokołu HTTPS
 httpsonly-description = Protokół HTTPS zapewnia zabezpieczone, zaszyfrowane połączenie między przeglądarką { -brand-short-name } a odwiedzanymi witrynami. Większość witryn obsługuje HTTPS, a jeśli tryb używania wyłącznie protokołu HTTPS jest włączony, to { -brand-short-name } przełączy wszystkie połączenia na HTTPS.
 httpsonly-learn-more = Więcej informacji
 httpsonly-radio-enabled =
-    .label = Tryb używania wyłącznie protokołu HTTPS we wszystkich oknach
+    .label = Włącz we wszystkich oknach
 httpsonly-radio-enabled-pbm =
-    .label = Tryb używania wyłącznie protokołu HTTPS tylko w oknach prywatnych
+    .label = Włącz tylko w oknach prywatnych
 httpsonly-radio-disabled =
-    .label = Nie włączaj trybu używania wyłącznie protokołu HTTPS
+    .label = Nie włączaj
 
 ## The following strings are used in the Download section of settings
 

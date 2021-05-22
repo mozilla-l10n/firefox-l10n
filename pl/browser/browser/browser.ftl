@@ -393,7 +393,7 @@ browser-tab-audio-playing2 = ODTWARZANIE
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-muted2 = WYCISZONE
 # This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-blocked = ZABLOKOWANO AUTOMATYCZNE ODTWARZANIE
+browser-tab-audio-blocked = ZABLOKOWANO AUTOODTWARZANIE
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = OBRAZ W OBRAZIE
 
