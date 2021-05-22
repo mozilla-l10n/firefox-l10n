@@ -21,6 +21,7 @@ experimental-features-media-avif-description = Når denne funktion er slået til
 # by various online articles and is technical in nature.
 experimental-features-media-jxl =
     .label = Media: JPEG XL
+experimental-features-media-jxl-description = Når denne funktion er slået til understøtter { -brand-short-name } formatet JPEG XL (JXL). Dette er et forbedret billedfil-format, der understøtter tabsfri overgang fra traditionelle JPEG-filer. <a data-l10n-name="bugzilla">Læs mere</a>
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
