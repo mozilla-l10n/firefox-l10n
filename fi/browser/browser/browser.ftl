@@ -218,7 +218,7 @@ full-screen-autohide =
     .label = Piilota työkalupalkit
     .accesskey = P
 full-screen-exit =
-    .label = Poistu kokoruututilasta
+    .label = Poistu koko näytön tilasta
     .accesskey = o
 
 ## Search Engine selection buttons (one-offs)
@@ -591,11 +591,11 @@ urlbar-result-action-search-tabs = Etsi välilehdistä
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
-fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> on nyt kokoruututilassa
-fullscreen-warning-no-domain = Dokumentti on nyt kokoruututilassa
-fullscreen-exit-button = Poistu kokoruututilasta (Esc)
+fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> on nyt koko näytön tilassa
+fullscreen-warning-no-domain = Dokumentti on nyt koko näytön tilassa
+fullscreen-exit-button = Poistu koko näytön tilasta (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
-fullscreen-exit-mac-button = Poistu kokoruututilasta (esc)
+fullscreen-exit-mac-button = Poistu koko näytön tilasta (esc)
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"

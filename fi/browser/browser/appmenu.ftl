@@ -67,7 +67,7 @@ appmenuitem-zoom-enlarge =
 appmenuitem-zoom-reduce =
     .label = Loitonna
 appmenuitem-fullscreen =
-    .label = Kokoruututila
+    .label = Koko näytön tila
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
