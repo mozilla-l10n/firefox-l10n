@@ -178,13 +178,13 @@ menu-view-charset =
 ## use on macOS.
 
 menu-view-enter-full-screen =
-    .label = Siirry kokoruututilaan
+    .label = Siirry koko näytön tilaan
     .accesskey = S
 menu-view-exit-full-screen =
-    .label = Poistu kokoruututilasta
+    .label = Poistu koko näytön tilasta
     .accesskey = P
 menu-view-full-screen =
-    .label = Kokoruututila
+    .label = Koko näytön tila
     .accesskey = K
 
 ##
