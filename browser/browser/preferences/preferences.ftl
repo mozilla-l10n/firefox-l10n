@@ -982,8 +982,8 @@ addressbar-locbar-openpage-option =
     .accesskey = a
 # Shortcuts refers to the shortcut tiles on the new tab page, previously known as top sites. Translation should be consistent.
 addressbar-locbar-shortcuts-option =
-    .label = Oikotiet
-    .accesskey = O
+    .label = oikoteistä
+    .accesskey = o
 addressbar-locbar-topsites-option =
     .label = ykkössivustoista
     .accesskey = y
