@@ -12,6 +12,13 @@
 # style to be automatically added to the text inside it. { -brand-short-name }
 # should stay inside the span.
 upgrade-dialog-new-alt-subtitle = Begynd med at sørge for, at <span data-l10n-name="zap">{ -brand-short-name }</span> kun er et klik væk.
+upgrade-dialog-new-item-menu-title = Strømlinet værktøjslinje og menuer
+upgrade-dialog-new-item-tabs-title = Moderne faneblade
+upgrade-dialog-new-primary-primary-button = Gør { -brand-short-name } til min foretrukne browser
+    .title = Sætter { -brand-short-name } som standard-browser og fastgør den til proceslinjen
+upgrade-dialog-new-primary-default-button = Gør { -brand-short-name } til min standard-browser
+upgrade-dialog-new-primary-pin-button = Fastgør { -brand-short-name } til min proceslinje
+upgrade-dialog-new-primary-pin-alt-button = Fastgør til proceslinjen
 
 ## Default browser screen
 

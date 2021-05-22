@@ -1018,9 +1018,12 @@ enhanced-tracking-protection-setting-custom =
 content-blocking-etp-standard-desc = Balanceret mellem beskyttelse og ydelse. Sider indlæses som normalt.
 content-blocking-etp-strict-desc = Bedre beskyttelse, men kan forhindre nogle websteder i at fungere.
 content-blocking-etp-custom-desc = Vælg selv, hvilke sporings-teknologier og scripts der skal blokeres.
+content-blocking-etp-blocking-desc = { -brand-short-name } blokerer følgende:
 content-blocking-private-windows = Sporings-indhold i private vinduer.
 content-blocking-cross-site-cookies = Cookies på tværs af websteder
+content-blocking-cross-site-cookies-in-all-windows = Cookies på tværs af websteder i alle vinduer (herunder sporingscookies)
 content-blocking-cross-site-tracking-cookies = Sporings-cookies på tværs af websteder
+content-blocking-all-cross-site-cookies-private-windows = Cookies på tværs af websteder i private vinduer
 content-blocking-cross-site-tracking-cookies-plus-isolate = Sporings-cookies på tværs af websteder, isolering af resterende cookies.
 content-blocking-social-media-trackers = Sporing via sociale medier
 content-blocking-all-cookies = Alle cookies
@@ -1140,6 +1143,8 @@ collection-backlogged-crash-reports =
     .label = Tillad at { -brand-short-name } sender ophobede fejlrapporter på dine vegne
     .accesskey = o
 collection-backlogged-crash-reports-link = Læs mere
+collection-backlogged-crash-reports-with-link = Tillad at { -brand-short-name } sender ophobede fejlrapporter på dine vegne <a data-l10n-name="crash-reports-link">Læs mere</a>
+    .accesskey = o
 
 ## Privacy Section - Security
 ##
