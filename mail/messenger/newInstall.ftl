@@ -6,4 +6,4 @@ connection-window =
     .title = Noticias importantes
 continue-button =
     .label = Continuar
-main-text = Esta instalación do { -brand-short-name } ten un novo perfil. Non comparte datos de correo electrónico, contrasinais, preferencias do usuario e axendas de enderezos con outras instalacións neste ordenador do { -brand-product-name } (incluíndo { -brand-product-name }, { -brand-product-name } Beta e { -brand-product-name } Diario).
+main-text = Esta instalación do { -brand-short-name } ten un novo perfil. Non comparte datos de correo electrónico, contrasinais, preferencias do usuario e axendas de enderezos con outras instalacións neste ordenador do { -brand-product-name } (incluíndo { -brand-product-name }, { -brand-product-name } Beta e { -brand-product-name } Daily).
