@@ -25,7 +25,7 @@ onboarding-button-label-get-started = Začni
 
 ## Welcome page strings
 
-onboarding-welcome-header = Dobrodošli v { -brand-short-name }
+onboarding-welcome-header = Dobrodošli v { -brand-short-name(sklon: "mestnik") }
 onboarding-welcome-body = Brskalnik že imate.<br/>Spoznajte še ostale storitve { -brand-product-name }.
 onboarding-welcome-learn-more = Spoznajte prednosti.
 onboarding-welcome-modal-get-body = Brskalnik že imate.<br/>Zdaj pa kar najbolje izkoristite { -brand-product-name }.
