@@ -6,3 +6,7 @@ common-dialog-title-null = Siden siger
 common-dialog-title-system = { -brand-short-name }
 # Title displayed when the origin of a web dialog is unknown.
 common-dialog-title-unknown = Ukendt
+common-dialog-username =
+    .value = Brugernavn
+common-dialog-password =
+    .value = Adgangskode
