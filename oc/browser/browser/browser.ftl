@@ -514,6 +514,11 @@ urlbar-placeholder-with-name =
     .placeholder = Recercar amb { $name } o picar una adreça
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Lo navegador es contrarotlat a distància
+# Variables
+#  $component (String): the name of the component which forces remote control.
+#    Example: "DevTools", "Marionette", "RemoteAgent".
+urlbar-remote-control-notification-anchor2 =
+    .tooltiptext = Lo navigador es contrarotlat a distància (rason : { $component })
 urlbar-permissions-granted =
     .tooltiptext = Avètz donat de permissions suplementàrias a aquel site.
 urlbar-switch-to-tab =
