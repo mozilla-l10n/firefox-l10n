@@ -180,7 +180,7 @@ onboarding-multistage-pin-default-subtitle = Nopeaa, turvallista ja yksityistä 
 onboarding-multistage-pin-default-waiting-subtitle = Valitse { -brand-short-name } Selain-kohdasta, kun asetukset avautuu
 # The "settings" here refers to "Windows 10 Settings App" and not the browser's
 onboarding-multistage-pin-default-help-text = Tämä kiinnittää { -brand-short-name }in tehtäväpalkkiin ja avaa asetukset
-onboarding-multistage-pin-default-primary-button-label = Vaihda oletusselaimeksi { -brand-short-name }
+onboarding-multistage-pin-default-primary-button-label = Vaihda pääselaimeksi { -brand-short-name }
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Tuo salasanat, kirjanmerkit ja <span data-l10n-name="zap">paljon muuta</span>
@@ -277,7 +277,7 @@ mr1-onboarding-welcome-header =
         [with-cases] Tervetuloa { -brand-short-name(case: "illative") }
        *[no-cases] Tässä { -brand-short-name }, tervetuloa
     }
-mr1-onboarding-set-default-pin-primary-button-label = Aseta { -brand-short-name } oletusselaimeksi
+mr1-onboarding-set-default-pin-primary-button-label = Aseta { -brand-short-name } pääselaimeksi
     .title = Asettaa { -brand-short-name }in oletusselaimeksi ja kiinnittää sen tehtäväpalkkiin
 mr1-onboarding-set-default-only-primary-button-label = Aseta { -brand-short-name } oletusselaimeksi
 mr1-onboarding-set-default-secondary-button-label = Ei nyt
