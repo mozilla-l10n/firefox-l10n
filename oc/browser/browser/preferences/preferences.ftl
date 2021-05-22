@@ -1143,6 +1143,8 @@ collection-backlogged-crash-reports =
     .label = Permetre a { -brand-short-name } d’enviar los rapòrts de bugs en espèra
     .accesskey = P
 collection-backlogged-crash-reports-link = Ne saber mai
+collection-backlogged-crash-reports-with-link = Autorizar { -brand-short-name } a enviar de rapòrt de plantatge en espèra a vòstre nom <a data-l10n-name="crash-reports-link">Ne saber mai</a>
+    .accesskey = A
 
 ## Privacy Section - Security
 ##
