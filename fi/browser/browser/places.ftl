@@ -52,7 +52,7 @@ places-add-folder =
     .accesskey = o
 places-add-separator =
     .label = Lisää erotin
-    .accesskey = i
+    .accesskey = e
 places-view =
     .label = Näytä
     .accesskey = N
@@ -100,7 +100,7 @@ places-remove-folder =
             [1] Poista kansio
            *[other] Poista kansiot
         }
-    .accesskey = P
+    .accesskey = o
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Hallinnoidut kirjanmerkit
@@ -120,5 +120,5 @@ places-remove-bookmark =
         }
     .accesskey = o
 places-manage-bookmarks =
-    .label = Hallinnoi kirjanmerkkejä
-    .accesskey = H
+    .label = Järjestele kirjanmerkkejä
+    .accesskey = J
