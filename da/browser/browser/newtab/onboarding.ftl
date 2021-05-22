@@ -313,3 +313,18 @@ mr1-onboarding-theme-tooltip-dark =
     .title =
         Brug et mørkt tema til knapper, 
         menuer og vinduer.
+# Input description for dark theme
+mr1-onboarding-theme-description-dark =
+    .aria-description =
+        Brug et mørkt tema til knapper, 
+        menuer og vinduer.
+# Tooltip displayed on hover of Alpenglow theme
+mr1-onboarding-theme-tooltip-alpenglow =
+    .title =
+        Brug et dynamisk og farverigt tema til knapper, 
+        menuer og vinduer.
+# Input description for Alpenglow theme
+mr1-onboarding-theme-description-alpenglow =
+    .aria-description =
+        Brug et dynamisk og farverigt tema til knapper, 
+        menuer og vinduer.

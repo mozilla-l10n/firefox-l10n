@@ -91,6 +91,16 @@ places-edit-bookmark =
 places-edit-generic =
     .label = Rediger
     .accesskey = R
+places-edit-folder =
+    .label = Omdøb mappe…
+    .accesskey = d
+places-remove-folder =
+    .label =
+        { $count ->
+            [1] Fjern mappe
+           *[other] Fjern mapper
+        }
+    .accesskey = F
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Administrerede bogmærker

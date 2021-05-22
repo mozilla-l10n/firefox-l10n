@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+tab-context-new-tab =
+    .label = Nyt faneblad
+    .accesskey = N
 reload-tab =
     .label = Genindlæs faneblad
     .accesskey = e
@@ -66,15 +69,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Luk flere faneblade
     .accesskey = a
-tab-context-share-url =
-    .label = Del
-    .accesskey = D
-tab-context-share-more =
-    .label = Mere…
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->
@@ -94,6 +88,15 @@ move-tabs =
 move-tab =
     .label = Flyt faneblad
     .accesskey = y
+tab-context-share-url =
+    .label = Del
+    .accesskey = D
+tab-context-share-more =
+    .label = Mere…
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
