@@ -520,6 +520,11 @@ urlbar-placeholder-with-name =
     .placeholder = Шукайце ў { $name } або ўвядзіце адрас
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Браўзер знаходзіцца пад аддаленым кіраваннем
+# Variables
+#  $component (String): the name of the component which forces remote control.
+#    Example: "DevTools", "Marionette", "RemoteAgent".
+urlbar-remote-control-notification-anchor2 =
+    .tooltiptext = Браўзер пад дыстанцыйным кіраваннем (прычына: { $component })
 urlbar-permissions-granted =
     .tooltiptext = Вы далі гэтаму вэб-сайту дадатковыя дазволы.
 urlbar-switch-to-tab =
