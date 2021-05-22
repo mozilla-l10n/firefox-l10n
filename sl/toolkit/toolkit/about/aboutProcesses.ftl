@@ -17,12 +17,24 @@ about-processes-shutdown-tab =
 
 about-processes-column-name = Ime
 about-processes-column-memory-resident = Pomnilnik
+about-processes-column-cpu-total = CPE
 
 ## Process names
 ## Variables:
 ##    $pid (String) The process id of this process, assigned by the OS.
 ##    $origin (String) The domain name for this process.
 ##    $type (String) The raw type for this process. Used for unknown processes.
+
+
+## Process names
+## Variables:
+##    $pid (String) The process id of this process, assigned by the OS.
+
+
+## Isolated process names
+## Variables:
+##    $pid (String) The process id of this process, assigned by the OS.
+##    $origin (String) The domain name for this process.
 
 
 ## Details within processes
@@ -59,3 +71,10 @@ about-processes-tab-name = Zavihek: { $name }
 
 ## Memory units
 
+memory-unit-B = &nbsp;B
+memory-unit-KB = &nbsp;KB
+memory-unit-MB = &nbsp;MB
+memory-unit-GB = &nbsp;GB
+memory-unit-TB = &nbsp;TB
+memory-unit-PB = &nbsp;PB
+memory-unit-EB = &nbsp;EB
