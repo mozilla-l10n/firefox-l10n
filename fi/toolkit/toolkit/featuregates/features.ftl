@@ -21,6 +21,7 @@ experimental-features-media-avif-description = Kun tämä ominaisuus on käytös
 # by various online articles and is technical in nature.
 experimental-features-media-jxl =
     .label = Media: JPEG XL
+experimental-features-media-jxl-description = Kun tämä ominaisuus on käytössä, { -brand-short-name } tukee JPEG XL (JXL) -muotoa. Kyseessä on paranneltu kuvatiedostomuoto, joka tukee häviötöntä siirtymää perinteisistä JPEG-tiedostoista. Katso <a data-l10n-name="bugzilla">bug 1539075 -kuvaus</a> saadaksesi lisätietoja.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
@@ -62,6 +63,14 @@ experimental-features-devtools-serviceworker-debugger-support =
     .label = Web-työkalut: Service Worker -vianjäljitys
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = Ottaa käyttöön kokeellisen Service Worker -tuen Debugger-paneelissa. Tämä voi hidastaa web-työkaluja ja lisätä muistinkulutusta.
+# WebRTC global mute toggle controls
+experimental-features-webrtc-global-mute-toggles =
+    .label = WebRTC:n globaalit mykistysohjaimet
+experimental-features-webrtc-global-mute-toggles-description = Lisää ohjaimet WebRTC:n globaaliin jakamisilmaisimeen. Ohjaimet mahdollistavat mikrofonin ja kameran mykistämisen globaalisti.
+# Win32k Lockdown
+experimental-features-win32k-lockdown =
+    .label = Win32k-lukitus
+experimental-features-win32k-lockdown-description = Estä Win32k-rajapintojen käyttäminen selaimen välilehdissä. Parantaa tietoturvaa, mutta saattaa olla epävakaa tai häiriöaltis. (Vain Windowsille)
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
@@ -76,3 +85,6 @@ experimental-features-multi-pip-description = Kokeellinen tuki, jonka ansiosta u
 experimental-features-http3 =
     .label = HTTP/3-yhteyskäytäntö
 experimental-features-http3-description = Kokeellinen tuki HTTP/3-yhteyskäytännölle.
+# Search during IME
+experimental-features-ime-search =
+    .label = Osoiterivi: näytä tulokset IME-koostamisen aikana
