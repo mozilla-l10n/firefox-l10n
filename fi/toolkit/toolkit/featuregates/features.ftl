@@ -88,4 +88,4 @@ experimental-features-http3 =
 experimental-features-http3-description = Kokeellinen tuki HTTP/3-yhteyskäytännölle.
 # Search during IME
 experimental-features-ime-search =
-    .label = Osoiterivi: näytä tulokset IME-koostamisen aikana
+    .label = Osoitepalkki: näytä tulokset IME-koostamisen aikana
