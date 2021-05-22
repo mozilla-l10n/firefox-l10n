@@ -49,3 +49,5 @@ customize-mode-lwthemes-my-themes =
     .value = Mine temaer
 customize-mode-touchbar-cmd =
     .label = Tilpas Touch Bar…
+customize-mode-downloads-button-autohide =
+    .label = Skjul knappen, når listen er tom

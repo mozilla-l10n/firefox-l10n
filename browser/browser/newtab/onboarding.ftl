@@ -257,6 +257,17 @@ onboarding-multistage-theme-description-alpenglow =
 
 ## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 
+# "Hero Text" displayed on left side of welcome screen.
+# The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
+# It also signals the passion users bring to Firefox, how they use
+# Firefox to pursue those passions, as well as the boldness in their
+# choice to use Firefox over a larger competitor browser.
+# An alternative title for localization is: "It starts here".
+# This text can be formatted to span multiple lines as needed.
+mr1-welcome-screen-hero-text = Alt starter her
+# Caption for background image in about:welcome. "Soraya Osorio" is the name
+# of the person and shouldn't be translated.
+mr1-onboarding-welcome-image-caption = Soraya Osorio - møbeldesigner og Firefox-fan
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Slå animationer fra
 mr1-onboarding-welcome-header = Velkommen til { -brand-short-name }
@@ -265,6 +276,7 @@ mr1-onboarding-set-default-pin-primary-button-label = Gør { -brand-short-name }
 mr1-onboarding-set-default-only-primary-button-label = Gør { -brand-short-name } til min standard-browser
 mr1-onboarding-set-default-secondary-button-label = Ikke nu
 mr1-onboarding-sign-in-button-label = Log ind
+mr1-onboarding-import-header = Tag det hele med dig
 mr1-onboarding-import-subtitle = Importer dine adgangskoder, <br/>bogmærker med mere.
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
@@ -273,6 +285,7 @@ mr1-onboarding-import-primary-button-label-attribution = Importer fra { $previou
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = Importer fra tidligere browser
 mr1-onboarding-import-secondary-button-label = Ikke nu
+mr1-onboarding-theme-header = Du bestemmer
 mr1-onboarding-theme-subtitle = Gør{ -brand-short-name } mere personlig med et tema.
 mr1-onboarding-theme-primary-button-label = Gem tema
 mr1-onboarding-theme-secondary-button-label = Ikke nu
