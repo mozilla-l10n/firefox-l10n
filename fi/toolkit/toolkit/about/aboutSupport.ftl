@@ -133,7 +133,7 @@ troubleshoot-mode-title = Selvitä ongelmia
 restart-in-troubleshoot-mode-label = Vianmääritystila…
 clear-startup-cache-title = Kokeile tyhjentää käynnistyksen välimuisti
 clear-startup-cache-label = Tyhjennä käynnistyksen välimuisti…
-startup-cache-dialog-title2 = Käynnistetäänkö { -brand-short-name } uudestaan käynnistyksen välimuistin tyhjentämiseksi?
+startup-cache-dialog-title2 = Käynnistetäänkö { -brand-short-name } uudelleen ja tyhjennetään käynnistyksen välimuisti?
 startup-cache-dialog-body2 = Tämä ei muuta asetuksiasi tai poista laajennuksia.
 restart-button-label = Käynnistä uudestaan
 
