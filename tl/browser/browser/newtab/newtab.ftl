@@ -49,7 +49,7 @@ newtab-topsites-image-validation = Nabigo ang pag-load ng larawan. Subukan ang i
 
 newtab-topsites-cancel-button = Kanselahin
 newtab-topsites-delete-history-button = Burahin sa Kasaysayan
-newtab-topsites-save-button = I-save
+newtab-topsites-save-button = i-Save
 newtab-topsites-preview-button = I-preview
 newtab-topsites-add-button = Idagdag
 

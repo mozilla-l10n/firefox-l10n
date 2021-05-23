@@ -179,7 +179,7 @@ page-action-send-tabs-urlbar =
            *[other] Magpadala ng { $tabCount } Tab sa Device
         }
 page-action-pocket-panel =
-    .label = I-save ang Pahina sa { -pocket-brand-name }
+    .label = i-Save ang Pahina sa { -pocket-brand-name }
 page-action-copy-url-panel =
     .label = Kopyahin ang Link
 page-action-copy-url-urlbar =
@@ -458,7 +458,7 @@ urlbar-go-button =
 urlbar-page-action-button =
     .tooltiptext = Page actions
 urlbar-pocket-button =
-    .tooltiptext = I-save sa { -pocket-brand-name }
+    .tooltiptext = i-Save sa { -pocket-brand-name }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -575,8 +575,8 @@ library-bookmarks-menu =
 ## Pocket toolbar button
 
 save-to-pocket-button =
-    .label = I-save sa { -pocket-brand-name }
-    .tooltiptext = I-save sa { -pocket-brand-name }
+    .label = i-Save sa { -pocket-brand-name }
+    .tooltiptext = i-Save sa { -pocket-brand-name }
 
 ## Customize Toolbar Buttons
 
