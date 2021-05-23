@@ -110,10 +110,10 @@ onboarding-firefox-send-title = Udržujte svoje zdieľané súbory v súkromí
 onboarding-firefox-send-text2 = Zdieľajte svoje súbory prostredníctvom služby { -send-brand-name }, ktorá ich chráni pomocou end-to-end šifrovania a odkazov, ktorých platnosť automaticky vyprší.
 onboarding-firefox-send-button = Vyskúšajte { -send-brand-name }
 onboarding-mobile-phone-title = Nainštalujte si { -brand-product-name } do svojho telefónu
-onboarding-mobile-phone-text = Prevezmite si { -brand-product-name } pre iOS a Android a zosynchronizujte svoje údaje medzi zariadeniami.
+onboarding-mobile-phone-text = Stiahnite si { -brand-product-name } pre iOS a Android a zosynchronizujte svoje údaje medzi zariadeniami.
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
-onboarding-mobile-phone-button = Prevziať mobilný prehliadač
+onboarding-mobile-phone-button = Stiahnuť mobilný prehliadač
 onboarding-send-tabs-title = Odosielajte si karty medzi zariadeniami
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.

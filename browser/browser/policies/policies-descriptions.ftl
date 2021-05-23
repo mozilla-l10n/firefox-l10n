@@ -26,7 +26,7 @@ policy-CaptivePortal = Povolenie alebo zakázanie podpory pre captive portály.
 policy-CertificatesDescription = Pridá certifikáty alebo použije zabudované certifikáty.
 policy-Cookies = Povolí alebo zakáže webovým stránkam nastavovať cookies.
 policy-DisabledCiphers = Zakáže šifry.
-policy-DefaultDownloadDirectory = Nastaví predvolené umiestnenie pre preberanie súborov.
+policy-DefaultDownloadDirectory = Nastaví predvolené umiestnenie pre sťahovanie súborov.
 policy-DisableAppUpdate = Zabráni aktualizáciám prehliadača.
 policy-DisableBuiltinPDFViewer = Zablokuje PDF prehliadač PDF.js zabudovaný v aplikácii { -brand-short-name }.
 policy-DisableDefaultBrowserAgent = Zabráni agentovi Default browser vykonávať akékoľvek činnosti. Platí len pre Windows; iné platformy nemajú agenta Default browser.
@@ -54,7 +54,7 @@ policy-DisplayBookmarksToolbar = Zobrazí panel záložiek v predvolenom nastave
 policy-DisplayMenuBar = Zobrazí hlavnú ponuku v predvolenom nastavení.
 policy-DNSOverHTTPS = Nastavenie DNS cez HTTPS.
 policy-DontCheckDefaultBrowser = Vypne kontrolu predvoleného prehliadača pri spustení.
-policy-DownloadDirectory = Nastaví a uzamkne umiestnenie pre preberanie súborov.
+policy-DownloadDirectory = Nastaví a uzamkne umiestnenie pre sťahovanie súborov.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Zapne alebo vypne blokovanie obsahu a prípadne túto funkciu uzamkne.
 # “lock” means that the user won’t be able to change this setting
@@ -100,7 +100,7 @@ policy-Permissions2 = Nastaví povolenia pre kameru, mikrofón, polohu, upozorne
 policy-PictureInPicture = Povolí alebo zakáže režim obraz v obraze.
 policy-PopupBlocking = Povolí určitým webovým stránkam zobrazovať v predvolenom nastavení vyskakovacie okná.
 policy-Preferences = Nastaví a uzamkne hodnotu pre podmnožinu predvolieb.
-policy-PromptForDownloadLocation = Spýta sa na umiestnenie súboru pred jeho prevzatím.
+policy-PromptForDownloadLocation = Spýta sa na umiestnenie súboru pred jeho stiahnutím.
 policy-Proxy = Nakonfiguruje nastavenia proxy.
 policy-RequestedLocales = Nastaví zoznam požadovaných jazykov aplikácie, v poradí podľa nastavenej priority.
 policy-SanitizeOnShutdown2 = Vymaže údaje o prehliadaní v priebehu vypnutia.

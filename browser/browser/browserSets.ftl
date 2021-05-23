@@ -46,8 +46,8 @@ search-focus-shortcut-alt =
 downloads-shortcut =
     .key =
         { PLATFORM() ->
-            [linux] y
-           *[other] j
+            [linux] Y
+           *[other] J
         }
 addons-shortcut =
     .key = A

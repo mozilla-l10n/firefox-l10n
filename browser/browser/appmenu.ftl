@@ -6,17 +6,17 @@
 ## App Menu
 
 appmenuitem-update-banner2 =
-    .label-update-downloading = Preberá sa aktualizácia pre { -brand-shorter-name }
-    .label-update-available = Dostupná aktualizácia — prevziať
-    .label-update-manual = Dostupná aktualizácia — prevziať
+    .label-update-downloading = Sťahuje sa aktualizácia pre { -brand-shorter-name }
+    .label-update-available = Je dostupná aktualizácia — stiahnuť
+    .label-update-manual = Je dostupná aktualizácia — stiahnuť
     .label-update-unsupported = Nie je možné aktualizovať
-    .label-update-restart = Dostupná aktualizácia — reštartovať
+    .label-update-restart = Je dostupná aktualizácia — reštartovať
 appmenuitem-update-banner3 =
-    .label-update-downloading = Preberá sa aktualizácia pre { -brand-shorter-name }
-    .label-update-available = Dostupná aktualizácia — prevziať
-    .label-update-manual = Dostupná aktualizácia — prevziať
-    .label-update-unsupported = Dostupná aktualizácia — nekompatibilný systém
-    .label-update-restart = Dostupná aktualizácia — reštartovať
+    .label-update-downloading = Sťahuje sa aktualizácia pre { -brand-shorter-name }
+    .label-update-available = Je dostupná aktualizácia — stiahnuť
+    .label-update-manual = Je dostupná aktualizácia — stiahnuť
+    .label-update-unsupported = Nebolo možné aktualizovať — nekompatibilný systém
+    .label-update-restart = Je dostupná aktualizácia — reštartovať
 appmenuitem-protection-dashboard-title = Nástenka ochrany súkromia
 appmenuitem-customize-mode =
     .label = Prispôsobiť…

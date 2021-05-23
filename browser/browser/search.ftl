@@ -12,8 +12,8 @@ opensearch-error-duplicate-title = Chyba pri inštalácii
 opensearch-error-duplicate-desc = Aplikácii { -brand-short-name } sa nepodarilo nainštalovať vyhľadávací modul z  “{ $location-url }”, pretože modul s rovnakým názvom už existuje.
 opensearch-error-format-title = Neplatný formát
 opensearch-error-format-desc = Aplikácii { -brand-short-name } sa nepodarilo nainštalovať vyhľadávací modul z { $location-url }
-opensearch-error-download-title = Chyba pri preberaní
-opensearch-error-download-desc = Aplikácii { -brand-short-name } sa nepodarilo prevziať vyhľadávací modul z { $location-url }
+opensearch-error-download-title = Chyba pri sťahovaní
+opensearch-error-download-desc = Aplikácii { -brand-short-name } sa nepodarilo sťiahnuť vyhľadávací modul z { $location-url }
 
 ##
 
