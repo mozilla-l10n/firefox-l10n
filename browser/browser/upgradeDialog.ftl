@@ -10,7 +10,7 @@
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-new-title = Sig hej til en ny { -brand-short-name }
-upgrade-dialog-new-subtitle = Skabt til hurtigere at få dig der hen, hvor du vil
+upgrade-dialog-new-subtitle = Skabt til hurtigere at få dig derhen, du vil
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline
 # style to be automatically added to the text inside it. { -brand-short-name }
 # should stay inside the span.
