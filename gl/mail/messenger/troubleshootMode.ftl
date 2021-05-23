@@ -19,3 +19,14 @@ troubleshoot-mode-change-and-restart =
 troubleshoot-mode-continue =
     .label = Continuar no modo de resolución de problemas
     .accesskey = C
+troubleshoot-mode-quit =
+    .label =
+        { PLATFORM() ->
+            [windows] Saír
+           *[other] Saír
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] Q
+           *[other] Q
+        }
