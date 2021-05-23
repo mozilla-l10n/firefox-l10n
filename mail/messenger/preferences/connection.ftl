@@ -4,6 +4,23 @@
 
 connection-dns-over-https-url-resolver = Usar o provedor
     .accesskey = r
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item-default =
+    .label = { $name } (predeterminado)
+    .tooltiptext = Utilizar o URL predeterminado para resolver DNS por HTTPS
+connection-dns-over-https-url-custom =
+    .label = Personalizado
+    .accesskey = P
+    .tooltiptext = Insira o seu URL preferido para resolver DNS sobre HTTPS
+connection-dns-over-https-custom-label = Personalizado
+connection-dialog-window =
+    .title = Configuración da conexión
+    .style =
+        { PLATFORM() ->
+            [macos] width: 44em !important
+           *[other] width: 49em !important
+        }
 connection-proxy-legend = Configurar proxys para acceder á Internet
 proxy-type-no =
     .label = Sen proxy
