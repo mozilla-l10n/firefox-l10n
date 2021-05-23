@@ -78,7 +78,7 @@ newtab-confirm-delete-history-p2 = Toś ta akcija njedajo se anulěrowaś.
 
 ## Top Sites - Sponsored label
 
-newtab-topsite-sponsored = Sponsorowany
+newtab-topsite-sponsored = Sponserowany
 
 ## Context Menu - Action Tooltips.
 
@@ -118,7 +118,7 @@ newtab-menu-show-privacy-info = Naše sponsory a waša priwatnosć
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = Dokóńcone
-newtab-privacy-modal-button-manage = Nastajenja sponsorowanego wopśimjeśa zastojaś
+newtab-privacy-modal-button-manage = Nastajenja sponserowanego wopśimjeśa zastojaś
 newtab-privacy-modal-header = Waša priwatnosć jo wažna
 newtab-privacy-modal-paragraph-2 =
     Pśidatnje k našwicanjeju pśejmajucych tšojenjow, pokazujomy wam teke relewantny, 
@@ -165,11 +165,11 @@ newtab-label-download = Ześěgnjony
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
-newtab-label-sponsored = { $sponsorOrSource } - sponsorowane
+newtab-label-sponsored = { $sponsorOrSource } - sponserowane
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
-newtab-label-sponsored-by = Sponsorowany wót { $sponsor }
+newtab-label-sponsored-by = Sponserowany wót { $sponsor }
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -244,10 +244,10 @@ newtab-custom-row-selector =
         [few] { $num } smužki
        *[other] { $num } smužkow
     }
-newtab-custom-sponsored-sites = Sponsorowane zwězanja
+newtab-custom-sponsored-sites = Sponserowane zwězanja
 newtab-custom-pocket-title = Wót { -pocket-brand-name } dopórucone
 newtab-custom-pocket-subtitle = Wósebne wopśimjeśe, wubrane pśez { -pocket-brand-name }, źěla swójźby { -brand-product-name }
-newtab-custom-pocket-sponsored = Sponsorowane tšojeńka
+newtab-custom-pocket-sponsored = Sponserowane tšojeńka
 newtab-custom-recent-title = Nejnowša aktiwita
 newtab-custom-recent-subtitle = Wuběrk nejnowšych sedłow a nejnowšego wopśimjeśa
 newtab-custom-close-button = Zacyniś
