@@ -10,4 +10,4 @@ account-finish-account-setup = Afslut opsætning af konto
 account-reconnect-to-fxa = Forbindelsen til kontoen er afbrudt
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
-account-disconnected = Forbindelsen er blevet afbrudt
+account-disconnected2 = Forbindelsen til kontoen er afbrudt
