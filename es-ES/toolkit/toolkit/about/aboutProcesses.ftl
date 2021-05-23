@@ -52,6 +52,23 @@ about-processes-unknown-process-name = Otro ({ $type }, proceso { $pid })
 #   $pid (String) The process id of this process, assigned by the OS.
 about-processes-process-name = Proceso{ $pid }: { $name }
 
+## Process names
+## Variables:
+##    $pid (String) The process id of this process, assigned by the OS.
+
+about-processes-browser-process = { -brand-short-name } ({ $pid })
+about-processes-web-process = Proceso web compartido ({ $pid })
+about-processes-file-process = Archivos ({ $pid })
+about-processes-extension-process = Extensiones ({ $pid })
+about-processes-privilegedabout-process = Páginas "about" ({ $pid })
+about-processes-plugin-process = Plugins ({ $pid })
+
+## Isolated process names
+## Variables:
+##    $pid (String) The process id of this process, assigned by the OS.
+##    $origin (String) The domain name for this process.
+
+
 ## Details within processes
 
 # Single-line summary of threads

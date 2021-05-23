@@ -247,6 +247,14 @@ search-one-offs-context-set-as-default-private =
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
+# Shown when adding new engines from the address bar shortcut buttons or context
+# menu, or from the search bar shortcut buttons.
+# Variables:
+#  $engineName (String): The name of the engine.
+search-one-offs-add-engine =
+    .label = Añadir “{ $engineName }”
+    .tooltiptext = Añadir buscador “{ $engineName }”
+    .aria-label = Añadir buscador “{ $engineName }”
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -506,6 +514,11 @@ urlbar-placeholder-with-name =
     .placeholder = Buscar con { $name } o introducir una dirección
 urlbar-remote-control-notification-anchor =
     .tooltiptext = El navegador está bajo control remoto
+# Variables
+#  $component (String): the name of the component which forces remote control.
+#    Example: "DevTools", "Marionette", "RemoteAgent".
+urlbar-remote-control-notification-anchor2 =
+    .tooltiptext = El navegador está bajo control remoto (razón: { $component })
 urlbar-permissions-granted =
     .tooltiptext = Ha concedido permisos adicionales a este sitio web.
 urlbar-switch-to-tab =
