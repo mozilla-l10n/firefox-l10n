@@ -49,4 +49,4 @@ bookmark-overlay-keyword-2 =
     .value = Ŝlosilvorto
     .accesskey = v
 bookmark-overlay-tags-caption-label = Uzu etikedojn por organizi kaj serĉi legosignojn el la adresa strio
-bookmark-overlay-keyword-caption-label = Uzi ŝlosilvortojn por malfermi legosignojn rekte el la adresa strio
+bookmark-overlay-keyword-caption-label-2 = Uzi ŝlosilvorton por malfermi legosignojn rekte el la adresa strio

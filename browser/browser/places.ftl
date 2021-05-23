@@ -5,12 +5,12 @@
 places-open =
     .label = Malfermi
     .accesskey = M
-places-open-tab =
-    .label = Malfermi en nova langeto
-    .accesskey = n
 places-open-in-tab =
     .label = Malfermi en nova langeto
     .accesskey = M
+places-open-tab =
+    .label = Malfermi en nova langeto
+    .accesskey = n
 places-open-all-bookmarks =
     .label = Malfermi ĉiujn legosignojn
     .accesskey = l
@@ -20,9 +20,15 @@ places-open-all-in-tabs =
 places-open-window =
     .label = Malfermi en nova fenestro
     .accesskey = F
+places-open-in-window =
+    .label = Malfermi en nova fenestro
+    .accesskey = f
 places-open-private-window =
     .label = Malfermi en nova privata fenestro
     .accesskey = P
+places-open-in-private-window =
+    .label = Malfermi en nova privata fenestro
+    .accesskey = p
 places-new-bookmark =
     .label = Nova legosigno…
     .accesskey = N
@@ -35,12 +41,6 @@ places-new-folder =
 places-new-separator =
     .label = Nova apartigilo
     .accesskey = N
-places-open-in-window =
-    .label = Malfermi en nova fenestro
-    .accesskey = f
-places-open-in-private-window =
-    .label = Malfermi en nova privata fenestro
-    .accesskey = p
 places-add-bookmark =
     .label = Aldoni legosignon…
     .accesskey = A
@@ -91,6 +91,17 @@ places-edit-bookmark =
 places-edit-generic =
     .label = Modifi…
     .accesskey = M
+places-edit-folder =
+    .label = Renomi dosierujon…
+    .accesskey = d
+places-remove-folder =
+    .label =
+        { $count ->
+            [1] Forigi dosierujon
+            [one] Forigi dosierujon
+           *[other] Forigi dosierujojn
+        }
+    .accesskey = F
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Administrataj legosignoj
