@@ -4,3 +4,6 @@
 
 account-settingsTitle = 認証設定
 account-channelTitle = 既定のチャンネル
+
+account-settings-title = 認証設定
+account-channel-title = 既定のチャンネル
