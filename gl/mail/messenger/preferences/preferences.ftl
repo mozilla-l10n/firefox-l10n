@@ -556,6 +556,15 @@ master-password-label =
 master-password-button =
     .label = Cambiar o contrasinal principal…
     .accesskey = C
+primary-password-description = Un contrasinal principal protexe todos os seus contrasinais, pero terá que introducilo cada vez que inicie sesión.
+primary-password-label =
+    .label = Usar un contrasinal principal
+    .accesskey = U
+primary-password-button =
+    .label = Cambiar o contrasinal principal...
+    .accesskey = C
+forms-primary-pw-fips-title = Actualmente está en modo FIPS. O modo FIPS require un contrasinal principal non baleiro.
+forms-master-pw-fips-desc = Produciuse un erro ao mudar o contrasinal
 junk-description = Defina a configuración predeterminada para o correo lixo. As configuracións específicas de cada conta poden configurarse en Configuracións da conta.
 junk-label =
     .label = Cando marco mensaxes como lixo:
@@ -596,6 +605,12 @@ certificate-ask =
 ocsp-label =
     .label = Consultar aos servidores OCSP responder para confirmar a validez dos certificados
     .accesskey = t
+certificate-button =
+    .label = Xestionar os certificados…
+    .accesskey = e
+security-devices-button =
+    .label = Dispositivos de seguranza...
+    .accesskey = D
 
 ## Chat Tab
 
@@ -636,6 +651,17 @@ notification-name =
     .label = só co nome do remitente
 notification-empty =
     .label = sen información
+notification-type-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Animar a icona da doca
+           *[other] Facer escintilar o elemento da barra de tarefas
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] o
+           *[other] F
+        }
 chat-play-sound-label =
     .label = Reproducir un son
     .accesskey = d
@@ -651,6 +677,25 @@ chat-custom-sound-label =
 chat-browse-sound-button =
     .label = Examinar…
     .accesskey = x
+theme-label =
+    .value = Tema:
+    .accesskey = T
+style-thunderbird =
+    .label = Thunderbird
+style-bubbles =
+    .label = Burbullas
+style-dark =
+    .label = Escuro
+style-paper =
+    .label = Follas de papel
+style-simple =
+    .label = Simple
+preview-label = Vista previa:
+no-preview-label = A vista previa non está dispoñíbel
+no-preview-description = Este tema non é válido ou actualmente non está dispoñíbel (extensión desactivada, modo seguro, ...).
+chat-variant-label =
+    .value = Variante:
+    .accesskey = V
 
 ## Preferences UI Search Results
 
