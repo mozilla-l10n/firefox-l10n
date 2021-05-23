@@ -257,6 +257,16 @@ onboarding-multistage-theme-description-alpenglow =
 
 ## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 
+# "Hero Text" displayed on left side of welcome screen.
+# The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
+# It also signals the passion users bring to Firefox, how they use
+# Firefox to pursue those passions, as well as the boldness in their
+# choice to use Firefox over a larger competitor browser.
+# An alternative title for localization is: "It starts here".
+# This text can be formatted to span multiple lines as needed.
+mr1-welcome-screen-hero-text =
+    Kjer se vse
+    začenja
 # Caption for background image in about:welcome. "Soraya Osorio" is the name
 # of the person and shouldn't be translated.
 mr1-onboarding-welcome-image-caption = Soraya Osorio – oblikovalka pohištva, ljubiteljica Firefoxa
@@ -268,6 +278,7 @@ mr1-onboarding-set-default-pin-primary-button-label = Nastavi { -brand-short-nam
 mr1-onboarding-set-default-only-primary-button-label = Nastavi { -brand-short-name } kot privzet brskalnik
 mr1-onboarding-set-default-secondary-button-label = Ne zdaj
 mr1-onboarding-sign-in-button-label = Prijava
+mr1-onboarding-import-header = Prinesite vse s seboj
 mr1-onboarding-import-subtitle = Uvozite svoja gesla, zaznamke<br/>in druge podatke.
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
@@ -276,6 +287,7 @@ mr1-onboarding-import-primary-button-label-attribution = Uvozi iz brskalnika { $
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = Uvozi iz prejšnjega brskalnika
 mr1-onboarding-import-secondary-button-label = Ne zdaj
+mr1-onboarding-theme-header = Uredite ga po svoje
 mr1-onboarding-theme-subtitle = Prilagodite svoj { -brand-short-name } s temo.
 mr1-onboarding-theme-primary-button-label = Shrani temo
 mr1-onboarding-theme-secondary-button-label = Ne zdaj
