@@ -18,6 +18,7 @@ upgrade-dialog-new-alt-subtitle = Begynd med at sørge for, at <span data-l10n-n
 upgrade-dialog-new-item-menu-title = Strømlinet værktøjslinje og menuer
 upgrade-dialog-new-item-menu-description = Fokuser på de vigtige ting, så du finder dét, du har brug for.
 upgrade-dialog-new-item-tabs-title = Moderne faneblade
+upgrade-dialog-new-item-tabs-description = Indeholder overskuelige oplysninger, så du bedre kan fokusere og holde orden.
 upgrade-dialog-new-item-icons-title = Nye ikoner og tydeligere beskeder
 upgrade-dialog-new-item-icons-description = Hjælper dig med hurtigt at finde frem.
 upgrade-dialog-new-primary-primary-button = Gør { -brand-short-name } til min foretrukne browser
