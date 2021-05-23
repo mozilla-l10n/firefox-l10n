@@ -18,6 +18,8 @@ abuse-report-learnmore =
     ਪੱਕਾ ਨਹੀਂ ਕਿ ਕਿਹੜਾ ਮਸਲਾ ਚੁਣਨਾ ਹੈ?
     <a data-l10n-name="learnmore-link">ਇਕਸਟੈਨਸ਼ਨਾਂ ਤੇ ਥੀਮਾਂ ਬਾਰੇ ਰਿਪੋਰਟ ਕਰਨ ਬਾਰੇ ਹੋਰ ਸਿੱਖੋ</a>
 abuse-report-submit-description = ਸਮੱਸਿਆ ਬਾਰੇ ਜਾਣਕਾਰੀ ਦਿਓ (ਚੋਣਵਾਂ)
+abuse-report-textarea =
+    .placeholder = ਜੇ ਅਸੀਂ ਸਮੱਸਿਆ ਦੱਸੀਏ ਤਾਂ ਸਾਡੇ ਲਈ ਉਸ ਦਾ ਹੱਲ਼ ਲੱਭਣਾ ਸੌਖਾ ਹੁੰਦਾ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੇ ਤਜਰਬੇ ਬਾਰੇ ਦੱਸੋ। ਵਧੀਆ ਵੈੱਬ ਬਣਾਈ ਰੱਖਣ ਲਈ ਸਾਡੀ ਮਦਦ ਕਰਨ ਵਾਸਤੇ ਤੁਹਾਡਾ ਧੰਨਵਾਦ ਹੈ।
 abuse-report-submit-note = ਨੋਟ: ਨਿੱਜੀ ਜਾਣਕਾਰੀ ਨਾ ਸ਼ਾਮਲ ਕਰੋ (ਜਿਵੇਂ ਕਿ ਨਾਂ, ਈਮੇਲ ਸਿਰਨਾਵਾਂ, ਫ਼ੋਨ ਨੰਬਰ, ਭੂਗੋਲਿਕ ਸਿਰਨਾਵਾਂ)। { -vendor-short-name } ਇਹਨਾਂ ਰਿਪੋਰਟਾਂ ਦਾ ਪੱਕਾ ਰਿਕਾਰਡ ਰੱਖਦਾ ਹੈ।
 
 ## Panel buttons.
@@ -30,6 +32,12 @@ abuse-report-submit-button = ਭੇਜੋ
 ## Message bars descriptions.
 
 
+## Variables:
+##   $addon-name (string) - Name of the add-on
+
+
+## Message bars descriptions.
+##
 ## Variables:
 ##   $addon-name (string) - Name of the add-on
 
