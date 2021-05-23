@@ -5,28 +5,20 @@
 cookies-window-dialog =
     .title = Cookies
     .style = width: 36em;
-
 window-close-key =
     .key = w
-
 window-focus-search-key =
     .key = f
-
 window-focus-search-alt-key =
     .key = k
-
 filter-search-label =
     .value = Buscar:
     .accesskey = B
-
 cookies-on-system-label = As seguintes cookies están almacenadas no computador:
-
 treecol-site-header =
     .label = Sitio
-
 treecol-name-header =
     .label = Nome da cookie
-
 props-name-label =
     .value = Nome:
 props-value-label =
@@ -39,15 +31,14 @@ props-secure-label =
     .value = Enviar a:
 props-expires-label =
     .value = Caduca:
-
+props-container-label =
+    .value = Contedor:
 remove-cookie-button =
     .label = Eliminar cookie
     .accesskey = r
-
 remove-all-cookies-button =
     .label = Eliminar todas as cookies
     .accesskey = a
-
 cookie-close-button =
     .label = Pechar
     .accesskey = c
