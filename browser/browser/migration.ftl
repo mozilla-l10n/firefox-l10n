@@ -3,11 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 migration-wizard =
-    .title = ਇੰਪੋਰਟ ਸਹਾਇਕ
+    .title = ਦਰਾਮਦ ਸਹਾਇਕ
 import-from =
     { PLATFORM() ->
-        [windows] ਚੋਣਾਂ, ਬੁੱਕਮਾਰਕ, ਅਤੀਤ, ਪਾਸਵਰਡ ਅਤੇ ਹੋਰ ਡਾਟਾ ਇੱਥੋਂ ਇੰਪੋਰਟ ਕਰੋ:
-       *[other] ਚੋਣਾਂ, ਬੁੱਕਮਾਰਕ, ਅਤੀਤ, ਪਾਸਵਰਡ ਅਤੇ ਹੋਰ ਡਾਟਾ ਇੱਥੋਂ ਇੰਪੋਰਟ ਕਰੋ:
+        [windows] ਚੋਣਾਂ, ਬੁੱਕਮਾਰਕ, ਅਤੀਤ, ਪਾਸਵਰਡ ਅਤੇ ਹੋਰ ਡਾਟਾ ਇੱਥੋਂ ਦਰਾਮਦ ਕਰੋ:
+       *[other] ਚੋਣਾਂ, ਬੁੱਕਮਾਰਕ, ਅਤੀਤ, ਪਾਸਵਰਡ ਅਤੇ ਹੋਰ ਡਾਟਾ ਇੱਥੋਂ ਦਰਾਮਦ ਕਰੋ:
     }
 import-from-bookmarks = ਬੁੱਕਮਾਰਕ ਇੱਥੋਂ ਇੰਪੋਰਟ:
 import-from-ie =
@@ -23,7 +23,7 @@ import-from-edge-beta =
     .label = Microsoft Edge Beta
     .accesskey = d
 import-from-nothing =
-    .label = ਕੁਝ ਵੀ ਇੰਪੋਰਟ ਨਾ ਕਰੋ
+    .label = ਕੁਝ ਵੀ ਦਰਾਮਦ ਨਾ ਕਰੋ
     .accesskey = D
 import-from-safari =
     .label = Safari
@@ -52,36 +52,36 @@ import-from-360se =
 no-migration-sources = ਕੋਈ ਵੀ ਪ੍ਰੋਗਰਾਮ ਨਹੀਂ ਲੱਭਿਆ, ਜਿਸ ਵਿੱਚ ਬੁੱਕਮਾਰਕ, ਅਤੀਤ ਜਾਂ ਪਾਸਵਰਡ ਡਾਟਾ ਹੋਵੇ।
 import-source-page-title = ਸੈਟਿੰਗਾਂ ਅਤੇ ਡਾਟਾ ਦਰਾਮਦ ਕਰੋ
 import-items-page-title = ਦਰਾਮਦ ਕਰਨ ਲਈ ਚੀਜ਼ਾਂ
-import-items-description = ਇੰਪੋਰਟ ਕਰਨ ਲਈ ਆਈਟਮਾਂ ਚੁਣੋ:
+import-items-description = ਦਰਾਮਦ ਕਰਨ ਲਈ ਚੀਜ਼ਾਂ ਚੁਣੋ:
 import-permissions-page-title = { -brand-short-name } ਨੂੰ ਇਜਾਜ਼ਤਾਂ ਦਿਓ
 # Do not translate "Bookmarks.plist"; the file name is the same everywhere.
 import-permissions-description =
     macOS ਨੇ ਸਫ਼ਾਰੀ ਦੇ ਬੁੱਕਮਾਰਕ ਲਈ ਪਹੁੰਚ ਵਾਸਤੇ ਤੁਹਾਨੂੰ ਖਾਸ ਤੌਰ ਉੱਤੇ
     { -brand-short-name } ਨੂੰ ਇਜਾਜ਼ਤ ਦੇਣਾ ਜ਼ਰੂਰੀ ਕੀਤਾ ਹੈ। “ਜਾਰੀ ਰੱਖੋ“ ਨੂੰ ਕਲਿੱਕ ਕਰੋ ਅਤੇ ਫ਼ਾਇਲ ਖੋਲ੍ਹੋ ਪੈਨਲ ਵਿੱਚ “Bookmarks.plist” ਫ਼ਾਇਲ ਨੂੰ ਚੁਣੋ।
-import-migrating-page-title = ਇੰਪੋਰਟ ਕੀਤੀਆਂ ਜਾਂਦੀਆਂ ਹਨ...
-import-migrating-description = ਹੇਠ ਦਿੱਤੀਆਂ ਆਈਟਮਾਂ ਇੰਪੋਰਟ ਕੀਤੀਆਂ ਜਾ ਰਹੀਆਂ ਹਨ...
+import-migrating-page-title = …ਦਰਾਮਦ ਕੀਤੀਆਂ ਜਾਂਦੀਆਂ ਹਨ
+import-migrating-description = ਹੇਠ ਦਿੱਤੀਆਂ ਚੀਜ਼ਾਂ ਦਰਾਮਦ ਕੀਤੀਆਂ ਜਾ ਰਹੀਆਂ ਹਨ...
 import-select-profile-page-title = ਪਰੋਫਾਇਲ ਚੁਣੋ
-import-select-profile-description = ਇਹ ਪਰੋਫਾਇਲ ਇੰਪੋਰਟ ਕਰਨ ਲਈ ਉਪਲੱਬਧ ਹਨ:
-import-done-page-title = ਇੰਪੋਰਟ ਮੁਕੰਮਲ ਹੋਇਆ
-import-done-description = ਇਹ ਆਈਟਮਾਂ ਸਫਲਤਾਪੂਰਕ ਇੰਪੋਰਟ ਕੀਤੀਆਂ ਗਈਆਂ ਹਨ:
+import-select-profile-description = ਇਹ ਪਰੋਫਾਇਲ ਦਰਾਮਦ ਕਰਨ ਲਈ ਉਪਲੱਬਧ ਹਨ:
+import-done-page-title = ਦਰਾਮਦ ਮੁਕੰਮਲ ਹੋਇਆ
+import-done-description = ਇਹ ਚੀਜ਼ਾਂ ਕਾਮਯਾਬੀ ਨਾਲ ਦਰਾਮਦ ਕੀਤੀਆਂ ਗਈਆਂ ਹਨ:
 import-close-source-browser = ਜਾਰੀ ਰੱਖਣ ਤੋਂ ਪਹਿਲਾਂ ਚੁਣੇ ਗਏ ਬਰਾਊਜ਼ਰ ਦੇ ਬੰਦ ਕਰਨ ਨੂੰ ਯਕੀਨੀ ਬਣਾਓ।
 # Displays which browser the bookmarks are being imported from
 #
 # Variables:
 #   $source (String): The browser the user has chosen to import bookmarks from.
 imported-bookmarks-source = { $source } ਤੋਂ
-source-name-ie = ਇੰਟਰਨੈੱਟ ਐਕਸਪਲੋਰਰ
+source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
 source-name-edge-beta = Microsoft Edge Beta
 source-name-safari = Safari
 source-name-canary = Google Chrome Canary
-source-name-chrome = ਗੂਗਲ ਕਰੋਮ
-source-name-chrome-beta = ਗੂਗਲ ਕਰੋਮ ਬੀਟਾ
-source-name-chrome-dev = ਗੂਗਲ ਕਰੋਮ ਡਿਵ
+source-name-chrome = Google Chrome
+source-name-chrome-beta = Google Chrome Beta
+source-name-chrome-dev = Google Chrome Dev
 source-name-chromium = Chromium
-source-name-firefox = ਮੋਜ਼ੀਲਾ ਫਾਇਰਫਾਕਸ
-source-name-360se = 360 ਸੁਰੱਖਿਆ ਬਰਾਊਜ਼ਰ
-imported-safari-reading-list = ਪੜ੍ਹਨ ਸੂਚੀ (ਸਫਾਰੀ ਤੋਂ)
+source-name-firefox = Mozilla Firefox
+source-name-360se = 360 Secure Browser
+imported-safari-reading-list = ਪੜ੍ਹਨ ਸੂਚੀ (Safari ਤੋਂ)
 imported-edge-reading-list = ਪੜ੍ਹਨ ਸੂਚੀ (Edge ਤੋਂ)
 
 ## Browser data types
