@@ -111,6 +111,8 @@ primary-password-os-auth-dialog-message-win = Para crear un contrasinal principa
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = crear un contrasinal principal
+# Don't change this label.
+master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## General Tab
 
@@ -129,7 +131,27 @@ restore-default-label =
     .label = Restaurar as predefinicións
     .accesskey = R
 default-search-engine = Buscador predeterminado
+add-search-engine =
+    .label = Engadir desde un ficheiro
+    .accesskey = a
+remove-search-engine =
+    .label = Retirar
+    .accesskey = R
+minimize-to-tray-label =
+    .label = Cando se minimiza o { -brand-short-name }, móveo á zona de notificación
+    .accesskey = m
 new-message-arrival = Cando cheguen mensaxes novas:
+mail-play-sound-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Reproducir o seguinte ficheiro de son:
+           *[other] Reproducir un son
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] d
+           *[other] d
+        }
 mail-play-button =
     .label = Reproducir
     .accesskey = r
@@ -137,6 +159,7 @@ change-dock-icon = Cambiar as preferencias da icona do aplicativo
 app-icon-options =
     .label = Opcións da icona do aplicativo…
     .accesskey = n
+notification-settings = As alertas e o son predeterminado poden desactivarse no panel de notificacións das preferencias do sistema.
 animated-alert-label =
     .label = Amosar un aviso
     .accesskey = r
@@ -144,8 +167,10 @@ customize-alert-label =
     .label = Personalizar…
     .accesskey = P
 tray-icon-label =
-    .label = Amosar unha icona na área de notificación
+    .label = Amosar unha icona na zona de notificación
     .accesskey = t
+biff-use-system-alert =
+    .label = Usar as notificacións do sistema
 mail-custom-sound-label =
     .label = Usar o seguinte ficheiro de son
     .accesskey = n
