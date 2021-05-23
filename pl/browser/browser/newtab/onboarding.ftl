@@ -175,7 +175,7 @@ onboarding-multistage-set-default-secondary-button-label = Nie teraz
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. { -brand-short-name } should stay inside the span.
 onboarding-multistage-pin-default-header = Zacznij od ustawienia przeglądarki <span data-l10n-name="zap">{ -brand-short-name }</span> tak, aby była zawsze pod ręką
-onboarding-multistage-pin-default-subtitle = Szybko, bezpiecznie i prywatnie przeglądaj Internet.
+onboarding-multistage-pin-default-subtitle = Zawsze szybko, bezpiecznie i prywatnie przeglądaj Internet.
 # The "settings" here refers to "Windows 10 Settings App" and not the browser's
 onboarding-multistage-pin-default-waiting-subtitle = Po otwarciu ustawień wybierz „{ -brand-short-name }” w sekcji Przeglądarka sieci Web
 # The "settings" here refers to "Windows 10 Settings App" and not the browser's
@@ -184,7 +184,7 @@ onboarding-multistage-pin-default-primary-button-label = Ustaw przeglądarkę { 
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Importuj hasła, <br/>zakładki i <span data-l10n-name="zap">więcej</span>
-onboarding-multistage-import-subtitle = Przechodzisz z innej przeglądarki? Przeniesienie wszystkiego do przeglądarki { -brand-short-name } jest łatwe.
+onboarding-multistage-import-subtitle = Przechodzisz z innej przeglądarki? Możesz łatwo przenieść wszystko do przeglądarki { -brand-short-name }.
 onboarding-multistage-import-primary-button-label = Zacznij import
 onboarding-multistage-import-secondary-button-label = Nie teraz
 # Info displayed in the footer of import settings screen during onboarding flow.
