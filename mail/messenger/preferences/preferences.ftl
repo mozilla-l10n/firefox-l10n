@@ -34,6 +34,27 @@ general-language-and-appearance-header = Idioma e aparencia
 general-incoming-mail-header = Correos entrantes
 general-files-and-attachment-header = Ficheiros e anexos
 general-tags-header = Etiquetas
+general-reading-and-display-header = Lectura e visualización
+general-updates-header = Actualizacións
+general-network-and-diskspace-header = Rede e espazo en disco
+general-indexing-label = Indexación
+composition-category-header = Redacción
+composition-attachments-header = Anexos
+composition-spelling-title = Ortografía
+compose-html-style-title = Estilo HTML
+composition-addressing-header = Enderezos
+privacy-main-header = Privacidade
+privacy-passwords-header = Contrasinais
+privacy-junk-header = Correo lixo
+collection-header = Recolección e uso de datos do { -brand-short-name }
+collection-description = Esforzámonos para darlle opcións e recoller só aquilo que precisamos para prover e perfeccionar o { -brand-short-name } para todo o mundo. Sempre lle solicitaremos permiso antes de recoller información persoal.
+collection-privacy-notice = Política de privacidade
+collection-health-report-telemetry-disabled = Xa non permite que o { -vendor-short-name } capture datos técnicos e de interacción. Todos os datos do pasado eliminaranse nun prazo de 30 días.
+collection-health-report-telemetry-disabled-link = Máis información
+collection-health-report =
+    .label = Permitir que o { -brand-short-name } envíe datos técnicos e de interacción a { -vendor-short-name }
+    .accesskey = r
+collection-health-report-link = Máis información
 
 ## OS Authentication dialog
 
