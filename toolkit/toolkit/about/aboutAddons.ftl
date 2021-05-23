@@ -10,6 +10,7 @@ search-header =
     .searchbuttonlabel = Serĉi
 search-header-shortcut =
     .key = f
+list-empty-get-extensions-message = Elŝutu etendaĵojn kaj etosojn el <a data-l10n-name="get-extensions">
 list-empty-installed =
     .value = Vi havas neniun aldonaĵon de tiu tipo instalita
 list-empty-available-updates =

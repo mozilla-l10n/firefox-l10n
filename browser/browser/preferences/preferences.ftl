@@ -1018,9 +1018,12 @@ enhanced-tracking-protection-setting-custom =
 content-blocking-etp-standard-desc = Ekvilibrita por protekto kaj efikeco. Paĝoj ŝargiĝos normale.
 content-blocking-etp-strict-desc = Pli forta proteko, sed kelkaj retejoj aŭ enhavjo povus ne bone funkcii.
 content-blocking-etp-custom-desc = Elektu blokotajn spurilojn kaj skriptojn
+content-blocking-etp-blocking-desc = { -brand-short-name } blokas la jenon:
 content-blocking-private-windows = Spurila enhavo en privataj fenestroj
 content-blocking-cross-site-cookies = Interretejaj kuketoj
+content-blocking-cross-site-cookies-in-all-windows = Interretejajn kuketojn en ĉiuj fenestroj (tio inkluzivas spurilajn kuketojn)
 content-blocking-cross-site-tracking-cookies = Interretejaj spuriloj
+content-blocking-all-cross-site-cookies-private-windows = Interretejajn kuketojn en privataj fenestroj
 content-blocking-cross-site-tracking-cookies-plus-isolate = Interretejaj spurilaj kuketoj, kaj izoli ceterajn kuketojn
 content-blocking-social-media-trackers = Sociretaj spuriloj
 content-blocking-all-cookies = Ĉiuj kuketoj
@@ -1140,6 +1143,8 @@ collection-backlogged-crash-reports =
     .label = Permesi al { -brand-short-name } sendi antaŭe kolektitajn raportojn pri paneo
     .accesskey = p
 collection-backlogged-crash-reports-link = Pli da informo
+collection-backlogged-crash-reports-with-link = Permesi al { -brand-short-name } aŭtomate sendi ankoraŭ nesenditajn raportojn pri paneo. <a data-l10n-name="crash-reports-link">Pli da informo</a>
+    .accesskey = A
 
 ## Privacy Section - Security
 ##
