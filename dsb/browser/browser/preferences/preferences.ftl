@@ -535,12 +535,12 @@ home-prefs-topsites-header =
     .label = Nejcesćej woglědane sedła
 home-prefs-topsites-description = Sedła, ku kótarymž se nejcesćej woglědujośo
 home-prefs-topsites-by-option-sponsored =
-    .label = Sponsorowane nejlubše sedła
+    .label = Sponserowane nejlubše sedła
 home-prefs-shortcuts-header =
     .label = Zwězanja
 home-prefs-shortcuts-description = Sedła, kótarež składujośo abo ku kótarymž se woglědujośo
 home-prefs-shortcuts-by-option-sponsored =
-    .label = Sponsorowane zwězanja
+    .label = Sponserowane zwězanja
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -554,7 +554,7 @@ home-prefs-recommended-by-description-new = Wósebne wopśimjeśe, wubrane pśez
 
 home-prefs-recommended-by-learn-more = Kak funkcioněrujo
 home-prefs-recommended-by-option-sponsored-stories =
-    .label = Sponsorowane tšojenja pokazaś
+    .label = Sponserowane tšojenja pokazaś
 home-prefs-highlights-header =
     .label = Wjerški
 home-prefs-highlights-description = Wuběrk websedłow, kótarež sćo składował abo se woglědał
