@@ -96,3 +96,4 @@ sec-error-crl-import-failed = Ҳангоми кӯшиши ворид карда�
 sec-error-expired-password = Муҳлати ниҳонвожа ба анҷом расид.
 sec-error-locked-password = Ниҳонвожа мамнуъ шуд.
 sec-error-unknown-pkcs11-error = Хатои номаълум барои PKCS #11 ба миён омад.
+mozilla-pkix-error-required-tls-feature-missing = Хусусияти лозимии TLS вуҷуд надорад.

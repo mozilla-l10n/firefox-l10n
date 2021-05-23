@@ -12,6 +12,7 @@
 
 policy-CertificatesDescription = Гувоҳиномаҳоро илова кунед ё гувоҳиномаҳои дарунсохтро истифода баред.
 policy-DisablePrivateBrowsing = Тамошокунии махфиро ғайрифаъол мекунад.
+policy-DisableTelemetry = Санҷиши дурдаст (телеметрия)-ро хомӯш мекунад.
 policy-DNSOverHTTPS = Танзим кардани DNS тавассути HTTPS.
 policy-FirefoxHome = Танзим кардани саҳифаи асосии Firefox.
 policy-HardwareAcceleration = Дар ҳолати «false» суръатафзои сахтафзор хомӯш карда мешавад.
