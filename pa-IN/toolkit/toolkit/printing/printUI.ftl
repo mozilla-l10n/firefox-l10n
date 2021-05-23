@@ -38,12 +38,11 @@ printui-scale-fit-to-page-width = ਸਫ਼ੇ ਦੀ ਚੌੜਾਈ 'ਤੇ ਫ�
 printui-scale-pcent = ਸਕੇਲ
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = ਦੋ ਪਾਸੀ ਪਰਿੰਟ ਕਰਨਾ
-printui-duplex-checkbox = ਦੋਵੇਂ ਪਾਸਿਆਂ ਉੱਤੇ ਪਰਿੰਟ ਕਰੋ
 printui-two-sided-printing-off = ਬੰਦ
-# Flip the page on the side (like a book).
-printui-two-sided-printing-side-edge = ਪਾਸਿਓ ਪਲਟੋ
-# Flip the page on the top (like a vertical calendar).
-printui-two-sided-printing-top-edge = ਸਿਖਰੋਂ ਪਲਟੋ
+# Flip the sheet as if it were bound along its long edge.
+printui-two-sided-printing-long-edge = ਲੰਮੇ ਪਾਸਿਓ ਪਲਟੋ
+# Flip the sheet as if it were bound along its short edge.
+printui-two-sided-printing-short-edge = ਛੋਟੇ ਪਾਸਿਓ ਪਲਟੋ
 # Section title for miscellaneous print options
 printui-options = ਚੋਣਾਂ
 printui-headers-footers-checkbox = ਸਿਰਲੇਖ ਅਤੇ ਫੁੱਟਰ ਨੂੰ ਪਰਿੰਟ ਕਰੋ
@@ -57,14 +56,19 @@ printui-margins-default = ਡਿਫਾਲਟ
 printui-margins-min = ਘੱਟੋ-ਘੱਟ
 printui-margins-none = ਕੋਈ ਨਹੀਂ
 printui-margins-custom-inches = ਪਸੰਦੀਦਾ (ਇੰਚ)
+printui-margins-custom-mm = ਪਸੰਦੀਦਾ (ਮਿਲੀਮੀਟਰ)
 printui-margins-custom-top = ਸਿਖਰ
 printui-margins-custom-top-inches = ਉੱਤੇ (ਇੰਚ)
+printui-margins-custom-top-mm = ਸਿਖਰ (ਮਿਲੀਮੀਟਰ)
 printui-margins-custom-bottom = ਥੱਲਾ
 printui-margins-custom-bottom-inches = ਹੇਠਾਂ (ਇੰਚ)
+printui-margins-custom-bottom-mm = ਹੇਠਾਂ (ਮਿਲੀਮੀਟਰ)
 printui-margins-custom-left = ਖੱਬੇ
 printui-margins-custom-left-inches = ਖੱਬੇ (ਇੰਚ)
+printui-margins-custom-left-mm = ਖੱਬੇ (ਮਿਲੀਮੀਟਰ)
 printui-margins-custom-right = ਸੱਜੇ
 printui-margins-custom-right-inches = ਸੱਜੇ (ਇੰਚ)
+printui-margins-custom-right-mm = ਸੱਜੇ (ਮਿਲੀਮੀਟਰ)
 printui-system-dialog-link = …ਸਿਸਟਮ ਡਾਈਲਾਗ ਨੂੰ ਵਰਤ ਕੇ ਪਰਿੰਟ ਕਰੋ
 printui-primary-button = ਪਰਿੰਟ ਕਰੋ
 printui-primary-button-save = ਸੰਭਾਲੋ
@@ -101,6 +105,7 @@ printui-paper-tabloid = ਸਮਾਚਾਰ ਪੱਤਰ
 
 printui-error-invalid-scale = ਸਕੇਲ ਲਈ ਨੰਬਰ 10 ਤੋਂ 200 ਦੇ ਵਿਚਾਲੇ ਚਾਹੀਦਾ ਹੈ।
 printui-error-invalid-margin = ਚੁਣੇ ਗਏ ਪੇਪਰ ਆਕਾਰ ਲਈ ਢੁੱਕਵਾਂ ਹਾਸ਼ੀਆ ਦਿਓ।
+printui-error-invalid-copies = ਕਾਪੀਆਂ ਦੀ ਗਿਣਤੀ 1 ਤੋਂ 10000 ਦੇ ਵਿਚਾਲੇ ਹੋਣੀ ਚਾਹੀਦੀ ਹੈ।
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = ਰੇਜ਼ ਲਈ ਨੰਬਰ 1 ਅਤੇ { $numPages } ਦੇ ਵਿਚਾਲੇ ਚਾਹੀਦਾ ਹੈ।
