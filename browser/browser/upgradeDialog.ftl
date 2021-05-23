@@ -16,8 +16,9 @@ upgrade-dialog-new-subtitle = Zasnovan, da vas pripelje na cilj – hitreje
 # should stay inside the span.
 upgrade-dialog-new-alt-subtitle = Za začetek naj bo <span data-l10n-name="zap">{ -brand-short-name }</span> oddaljen samo en klik
 upgrade-dialog-new-item-menu-title = Poenostavljena orodna vrstica in meniji
-upgrade-dialog-new-item-menu-description = Postavlja pomembne stvari v ospredje, da jih lažje najdete, ko jih potrebujete.
+upgrade-dialog-new-item-menu-description = Postavite pomembne stvari v ospredje, da jih lažje najdete, ko jih potrebujete.
 upgrade-dialog-new-item-tabs-title = Sodobni zavihki
+upgrade-dialog-new-item-tabs-description = Pregledno združuje vse informacije ter pomaga pri osredotočanju in premikanju.
 upgrade-dialog-new-item-icons-title = Sveže ikone in jasnejša sporočila
 upgrade-dialog-new-item-icons-description = Pomagajo vam najti pot skozi program z manj truda.
 upgrade-dialog-new-primary-primary-button = Nastavi { -brand-short-name } kot moj glavni brskalnik

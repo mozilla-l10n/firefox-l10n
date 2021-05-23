@@ -80,6 +80,7 @@ protections-panel-cryptominers = Kriptorudarji izrabljajo zmogljivost vašega ra
 protections-panel-fingerprinters = Sledilci prstnih odtisov zbirajo nastavitve vašega brskalnika in računalnika, da si ustvarijo vaš profil. S pomočjo digitalnega prstnega odtisa vam lahko sledijo na različnih spletnih straneh.
 protections-panel-tracking-content = Spletne strani lahko naložijo zunanje oglase, videoposnetke in drugo vsebino s kodo za sledenje. Zavračanje sledilne vsebine lahko pospeši nalaganje spletnih strani, vendar nekateri gumbi in obrazci morda ne bodo delovali.
 protections-panel-social-media-trackers = Družbena omrežja postavljajo sledilce na druga spletna mesta, da bi spremljali, kaj počnete, vidite in gledate na spletu. To družbenim medijem omogoča, da o vas izvedo več kot le tisto, kar delite na svojih družbenih profilih.
+protections-panel-description-shim-allowed = Nekateri spodaj označeni sledilci so na tej strani delno dovoljeni, ker ste z njimi sodelovali.
 protections-panel-description-shim-allowed-learn-more = Več o tem
 protections-panel-shim-allowed-indicator =
     .tooltiptext = Sledilec delno dovoljen
