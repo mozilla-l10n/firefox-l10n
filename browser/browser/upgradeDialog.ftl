@@ -25,8 +25,12 @@ upgrade-dialog-new-primary-primary-button = Hacer que { -brand-short-name } sea 
     .title = Establece { -brand-short-name } como el navegador predeterminado y lo fija a la barra de tareas
 upgrade-dialog-new-primary-default-button = Hacer que { -brand-short-name } sea mi navegador predeterminado
 upgrade-dialog-new-primary-pin-button = Fijar { -brand-short-name } a mi barra de tareas
+upgrade-dialog-new-primary-pin-alt-button = Fijar a la barra de tareas
 upgrade-dialog-new-primary-theme-button = Elija un tema
 upgrade-dialog-new-secondary-button = Ahora no
+# This string is only shown on Windows 7, where we intentionally suppress the
+# theme selection screen.
+upgrade-dialog-new-primary-win7-button = ¡De acuerdo, entendido!
 
 ## Default browser screen
 
