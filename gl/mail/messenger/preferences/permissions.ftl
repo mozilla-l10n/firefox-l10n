@@ -38,6 +38,7 @@ save-button =
     .label = Gardar as modificacións
     .accesskey = s
 permission-can-label = Permitir
+permission-can-access-first-party-label = Permitir só a primeira parte
 permission-can-session-label = Permitir nesta sesión
 permission-cannot-label = Bloquear
 invalid-uri-message = Introduza un nome de servidor válido
