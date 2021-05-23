@@ -21,6 +21,7 @@ experimental-features-media-avif-description = Quand aquesta foncionalitat es ac
 # by various online articles and is technical in nature.
 experimental-features-media-jxl =
     .label = Mèdia : JPEG XL
+experimental-features-media-jxl-description = Quand aquesta foncionalitat es activada, { -brand-short-name } pren en carga lo format JPEG XL (JXL). S’agís d’un format de fichièr d’imatge amelhorat que pren en carga la transicion sens pèrda a partir dels fichièrs JPEG tradicionels. Vejatz lo <a data-l10n-name="bugzilla">bug 1539075</a> per mai de detalhs.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
