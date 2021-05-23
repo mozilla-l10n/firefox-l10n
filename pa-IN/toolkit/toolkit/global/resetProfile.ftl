@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = { -brand-short-name } ਨੂੰ ਤਾਜ਼ਾ ਕਰੋ
+refresh-profile-dialog-title = { -brand-short-name } ਨੂੰ ਇਸ ਦੀਆਂ ਮੂਲ ਸੈਟਿੰਗਾਂ ਨਾਲ ਤਾਜ਼ਾ ਬਣਾਉਣਾ ਹੈ?
 refresh-profile-dialog-button =
     .label = { -brand-short-name } ਨੂੰ ਤਾਜ਼ਾ ਕਰੋ
 refresh-profile-description = ਸਮੱਸਿਆਵਾਂ ਠੀਕ ਕਰਨ ਅਤੇ ਕਾਰਗੁਜ਼ਾਰੀ ਸੁਧਾਰਨ ਲਈ ਤਾਜ਼ਾ ਸ਼ੁਰੂਆਤ ਕਰੋ।
@@ -12,3 +13,4 @@ refresh-profile-remove = ਤੁਹਾਡੀਆਂ ਐਡ-ਆਨ ਅਤੇ ਕਸ
 refresh-profile-restore = ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ਦੀਆਂ ਸੈਟਿੰਗਾਂ ਨੂੰ ਉਹਨਾਂ ਦੇ ਡਿਫਾਲਟ ਲਈ ਬਹਾਲ ਕੀਤਾ ਜਾਵੇਗਾ
 refresh-profile = { -brand-short-name } ਨੂੰ ਅਨੁਕੂਲ ਬਣਾਓ
 refresh-profile-button = …{ -brand-short-name } ਨੂੰ ਤਾਜ਼ਾ ਕਰੋ
+refresh-profile-learn-more = ਹੋਰ ਜਾਣੋ
