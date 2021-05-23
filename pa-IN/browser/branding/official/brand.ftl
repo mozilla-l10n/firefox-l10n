@@ -13,6 +13,7 @@
 ##
 ## Reference: https://www.mozilla.org/styleguide/communications/translation/
 
+
 ## Firefox and Mozilla Brand
 ##
 ## Firefox and Mozilla must be treated as a brand.
@@ -34,4 +35,4 @@
 # remain unchanged across different versions (Nightly, Beta, etc.).
 -brand-product-name = Firefox
 -vendor-short-name = Mozilla
-trademarkInfo = ਫਾਇਰਫਾਕਸ ਅਤੇ ਫਾਇਰਫਾਕਸ ਲੋੋਗੋ ਮੌਜ਼ੀਲਾ ਫਾਊਂਡੇਸ਼ਨ ਦੇ ਮਾਰਕੇ ਹਨ।
+trademarkInfo = Firefox ਅਤੇ Firefox ਲੋੋਗੋ Mozilla ਫਾਊਂਡੇਸ਼ਨ ਦੇ ਮਾਰਕੇ ਹਨ।
