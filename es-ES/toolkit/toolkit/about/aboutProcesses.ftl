@@ -62,12 +62,32 @@ about-processes-file-process = Archivos ({ $pid })
 about-processes-extension-process = Extensiones ({ $pid })
 about-processes-privilegedabout-process = Páginas "about" ({ $pid })
 about-processes-plugin-process = Plugins ({ $pid })
+about-processes-privilegedmozilla-process = Sitios { -vendor-short-name } ({ $pid })
+about-processes-gmp-plugin-process = Plugins de medios de Gecko ({ $pid })
+about-processes-gpu-process = GPU ({ $pid })
+about-processes-vr-process = Realidad Virtual ({ $pid })
+about-processes-rdd-process = Decodificador de datos ({ $pid })
+about-processes-socket-process = Red ({ $pid })
+about-processes-remote-sandbox-broker-process = Remote Sandbox Broker ({ $pid })
+about-processes-fork-server-process = Fork Server ({ $pid })
+about-processes-preallocated-process = Preasignado ({ $pid })
+# Unknown process names
+# Variables:
+#    $pid (String) The process id of this process, assigned by the OS.
+#    $type (String) The raw type for this process.
+about-processes-unknown-process = Otro: { $type } ({ $pid })
 
 ## Isolated process names
 ## Variables:
 ##    $pid (String) The process id of this process, assigned by the OS.
 ##    $origin (String) The domain name for this process.
 
+about-processes-web-isolated-process = { $origin } ({ $pid })
+about-processes-web-large-allocation-process = { $origin } ({ $pid }, grande)
+about-processes-with-coop-coep-process = { $origin } ({ $pid }, origen cruzado aislado)
+about-processes-web-isolated-process-private = { $origin } — Privado ({ $pid })
+about-processes-web-large-allocation-process-private = { $origin } — Privado ({ $pid }, grande)
+about-processes-with-coop-coep-process-private = { $origin } — Privado ({ $pid }, origen cruzado aislado)
 
 ## Details within processes
 
@@ -82,6 +102,38 @@ about-processes-thread-summary = Hilos ({ $number })
 #   $name (String) The name assigned to the thread.
 #   $tid (String) The thread id of this thread, assigned by the OS.
 about-processes-thread-name = Hilo { $tid }: { $name }
+# Single-line summary of threads (non-idle process)
+# Variables:
+#    $number (Number) The number of threads in the process. Typically larger
+#                     than 30. We don't expect to ever have processes with less
+#                     than 5 threads.
+#    $active (Number) The number of active threads in the process.
+#                     The value will be greater than 0 and will never be
+#                     greater than $number.
+#    $list (String) Comma separated list of active threads.
+#                   Can be an empty string if the process is idle.
+about-processes-active-threads =
+    { $active ->
+        [one] { $active } hilo activo de { $number }: { $list }
+       *[other] { $active } hilos activos de { $number }: { $list }
+    }
+# Single-line summary of threads (idle process)
+# Variables:
+#    $number (Number) The number of threads in the process. Typically larger
+#                     than 30. We don't expect to ever have processes with less
+#                     than 5 threads.
+#                     The process is idle so all threads are inactive.
+about-processes-inactive-threads =
+    { $number ->
+        [one] { $number } hilo inactivo
+       *[other] { $number } hilos inactivos
+    }
+# Thread details
+# Variables:
+#   $name (String) The name assigned to the thread.
+#   $tid (String) The thread id of this thread, assigned by the OS.
+about-processes-thread-name-and-id = { $name }
+    .title = Id del hilo: { $tid }
 # Tab
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
@@ -108,10 +160,16 @@ about-processes-frame-name-many = Submarcos ({ $number }): { $shortUrl }
 
 # Common case.
 about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") } ({ NUMBER($total, maximumFractionDigits: 0) }{ $unit })
+# Common case.
+about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
+    .title = Tiempo total de CPU: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (medición en curso)
 # Special case: process or thread is currently idle.
 about-processes-cpu-user-and-kernel-idle = inactivo ({ NUMBER($total, maximumFractionDigits: 2) }{ $unit })
+# Special case: process or thread is currently idle.
+about-processes-cpu-idle = inactivo
+    .title = Tiempo total de CPU: { NUMBER($total, maximumFractionDigits: 2) }{ $unit }
 
 ## Displaying Memory (total and delta)
 ## Variables:
@@ -126,6 +184,9 @@ about-processes-cpu-user-and-kernel-idle = inactivo ({ NUMBER($total, maximumFra
 
 # Common case.
 about-processes-total-memory-size = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit } ({ $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit })
+# Common case.
+about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
+    .title = Evolución: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit }
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
 
