@@ -21,10 +21,10 @@ connection-dialog-window =
             [macos] width: 44em !important
            *[other] width: 49em !important
         }
-connection-proxy-legend = Configurar proxys para acceder á Internet
+connection-proxy-legend = Configurar servidores mandatarios para acceder a Internet
 proxy-type-no =
-    .label = Sen proxy
-    .accesskey = y
+    .label = Sen servidor mandatario
+    .accesskey = d
 proxy-type-wpad =
     .label = Detectar automaticamente a configuración do proxy para esta rede
     .accesskey = r
@@ -40,6 +40,12 @@ proxy-http-label =
 http-port-label =
     .value = Porto:
     .accesskey = t
+proxy-http-sharing =
+    .label = Usar este servidor mandatario tamém para HTTPS
+    .accesskey = H
+proxy-https-label =
+    .value = Servidor mandatario HTTPS:
+    .accesskey = T
 ssl-port-label =
     .value = Porto:
     .accesskey = r
@@ -65,3 +71,5 @@ no-proxy-label =
     .value = Sen proxy para:
     .accesskey = p
 no-proxy-example = Exemplo: .mozilla.org, .net.nz, 192.168.1.0/24
+# Note: Do not translate localhost, 127.0.0.1 and ::1.
+no-proxy-localhost-label = As conexións con localhost, 127.0.0.1 e :: 1 nunca pasan por servidor mandatario.
