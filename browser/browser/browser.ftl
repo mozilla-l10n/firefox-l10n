@@ -561,7 +561,7 @@ urlbar-result-action-search-in-private = W priwatnem woknje pytaś
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Z { $engine } pytaś
-urlbar-result-action-sponsored = Sponsorowany
+urlbar-result-action-sponsored = Sponserowany
 urlbar-result-action-switch-tab = K rejtarikoju pśejś
 urlbar-result-action-visit = Woglědaś se
 # Directs a user to press the Tab key to perform a search with the specified
