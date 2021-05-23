@@ -247,6 +247,14 @@ search-one-offs-context-set-as-default-private =
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
+# Shown when adding new engines from the address bar shortcut buttons or context
+# menu, or from the search bar shortcut buttons.
+# Variables:
+#  $engineName (String): The name of the engine.
+search-one-offs-add-engine =
+    .label = Aldoni { $engineName }
+    .tooltiptext = Aldoni serĉilon { $engineName }
+    .aria-label = Aldoni serĉilon “{ $engineName }
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -306,6 +314,7 @@ identity-header-security-with-host =
     .title = Sekureco de konekto por { $host }
 identity-connection-not-secure = Nesekura konekto
 identity-connection-secure = Sekura konekto
+identity-connection-failure = Malsukcesa konekto
 identity-connection-internal = Tiu ĉi estas sekura paĝo de { -brand-short-name }.
 identity-connection-file = Tiu ĉi paĝo estas konservita en via komputilo.
 identity-extension-page = Tiu ĉi paĝo estas ŝargata de etendaĵo.
@@ -502,6 +511,11 @@ urlbar-placeholder-with-name =
     .placeholder = Serĉi per { $name } aŭ tajpi adreson
 urlbar-remote-control-notification-anchor =
     .tooltiptext = La retumilo estas sub fora regado
+# Variables
+#  $component (String): the name of the component which forces remote control.
+#    Example: "DevTools", "Marionette", "RemoteAgent".
+urlbar-remote-control-notification-anchor2 =
+    .tooltiptext = La retumilo estas sub fora regado (kialo: { $component })
 urlbar-permissions-granted =
     .tooltiptext = Vi aldonis permesojn al tiu ĉi retejo.
 urlbar-switch-to-tab =
