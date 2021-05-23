@@ -49,3 +49,5 @@ customize-mode-lwthemes-my-themes =
     .value = Miaj etosoj
 customize-mode-touchbar-cmd =
     .label = Personecigi la tuŝan strion…
+customize-mode-downloads-button-autohide =
+    .label = Kaŝi butonon se la listo malplenas
