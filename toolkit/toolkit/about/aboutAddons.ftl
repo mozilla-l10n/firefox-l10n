@@ -10,6 +10,7 @@ search-header =
     .searchbuttonlabel = ਖੋਜੋ
 search-header-shortcut =
     .key = f
+list-empty-get-extensions-message = <a data-l10n-name="get-extensions">{ $domain }</a> ਤੋਂ ਇਕਸਟੈਨਸ਼ਨਾਂ ਤੇ ਥੀਮ ਲਵੋ
 list-empty-installed =
     .value = ਤੁਹਾਡੇ ਕੋਲ ਇਸ ਕਿਸਮ ਦੀ ਕੋਈ ਵੀ ਐਡ-ਆਨ ਇੰਸਟਾਲ ਨਹੀਂ ਹੈ
 list-empty-available-updates =
@@ -34,6 +35,9 @@ sidebar-preferences-button-title =
             [windows] { -brand-short-name } ਚੋਣਾਂ
            *[other] { -brand-short-name } ਪਸੰਦਾਂ
         }
+addons-settings-button = { -brand-short-name } ਸੈਟਿੰਗਾਂ
+sidebar-settings-button-title =
+    .title = { -brand-short-name } ਸੈਟਿੰਗਾਂ
 show-unsigned-extensions-button =
     .label = ਕੁਝ ਇਕਸਟੈਨਸ਼ਨਾਂ ਦੀ ਜਾਂਚ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕੀ
 show-all-extensions-button =
@@ -378,9 +382,6 @@ addon-detail-private-browsing-disallow = ਮਨਜ਼ੂਰ ਨਾ ਕਰੋ
 addon-badge-recommended2 =
     .title = { -brand-product-name } ਉਹ ਇਕਸਟੈਨਸ਼ਨਾਂ ਦੀ ਸਿਫਾਰਸ਼ ਕਰਦਾ ਹੈ, ਜੋ ਸੁਰੱਖਿਆ ਅਤੇ ਕਾਰਗੁਜ਼ਾਰੀ ਲਈ ਸਾਡੇ ਮਿਆਰ ਪੂਰੇ ਕਰਦੇ ਹਨ।
     .aria-label = { addon-badge-recommended2.title }
-addon-badge-line2 =
-    .title = ਇਹ ਅਧਿਕਾਰਿਤ ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ { -brand-product-name } ਦੇ ਨਿਰਮਾਤਾ ਵਲੋਂ ਬਣਾਇਆ ਗਿਆ ਹੈ।
-    .aria-label = { addon-badge-line2.title }
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =

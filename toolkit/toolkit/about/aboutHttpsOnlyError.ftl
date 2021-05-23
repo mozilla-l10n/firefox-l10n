@@ -25,3 +25,11 @@ about-httpsonly-explanation-continue =
 about-httpsonly-button-continue-to-site = HTTP ਸਾਈਟ ਨਾਲ ਜਾਰੀ ਰੱਖੋ
 about-httpsonly-button-go-back = ਪਿੱਛੇ ਜਾਓ
 about-httpsonly-link-learn-more = …ਹੋਰ ਜਾਣੋ
+
+## Suggestion Box that only shows up if a secure connection to www can be established
+## Variables:
+##   $websiteUrl (String) - Url of the website that can be securely loded with these alternatives. Example: example.com
+
+about-httpsonly-suggestion-box-header = ਸੰਭਾਵਿਤ ਬਦਲ
+about-httpsonly-suggestion-box-www-text = <em>www.{ $websiteUrl }</em> ਦਾ ਸੁਰੱਖਿਅਤ ਵਰਜ਼ਨ ਹੈ। ਤੁਸੀਂ <em>{ $websiteUrl }</em> ਦੀ ਬਜਾਏ ਇਸ ਸਫ਼ੇ ਨੂੰ ਖੋਲ੍ਹ ਸਕਦੇ ਹੋ।
+about-httpsonly-suggestion-box-www-button = www.{ $websiteUrl } ਉੱਤੇ ਜਾਓ

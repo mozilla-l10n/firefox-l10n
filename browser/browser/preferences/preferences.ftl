@@ -1020,6 +1020,7 @@ enhanced-tracking-protection-setting-custom =
 content-blocking-etp-standard-desc = ਸੁਰੱਖਿਆ ਅਤੇ ਕਾਰਗੁਜ਼ਾਰੀ ਵਿਚਾਲੇ ਸੰਤੁਲਨ ਹੈ, ਸਫ਼ੇ ਆਮ ਨਾਲੋਂ ਵੱਧ ਤੇਜ਼ੀ ਨਾਲ ਲੋਡ ਹੁੰਦੇ ਹਨ।
 content-blocking-etp-strict-desc = ਵਧੇਰੇ ਸੁਰੱਖਿਆ, ਪਰ ਕੁਝ ਸਾਈਟਾਂ ਜਾਂ ਸਮੱਗਰੀ ਦੇ ਨਾ ਕੰਮ ਕਰਨ ਦਾ ਕਾਰਨ ਹੋ ਸਕਦਾ ਹੈ।
 content-blocking-etp-custom-desc = ਚੁਣੋ ਕਿ ਕਿਹੜੇ ਟਰੈਕਰਾਂ ਅਤੇ ਸਕ੍ਰਿਪਟਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਉਣੀ ਹੈ।
+content-blocking-etp-blocking-desc = { -brand-short-name } ਨੇ ਹੇਠ ਦਿੱਤਿਆਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ ਹੈ:
 content-blocking-private-windows = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਆਂ ‘ਚ ਸਮੱਗਰੀ ਟਰੈਕਿੰਗ
 content-blocking-cross-site-cookies = ਅੰਤਰ-ਸਾਈਟ ਕੂਕੀਜ਼
 content-blocking-cross-site-cookies-in-all-windows = ਸਾਰੀਆਂ ਵਿੰਡੋਆਂ ਵਿੱਚ ਅੰਤਰ-ਸਾਈਟ ਕੂਕੀਜ਼ (ਟਰੈਕ ਕਰਨ ਵਾਲੇ ਕੂਕੀਜ਼ ਸਮੇਤ)
@@ -1147,6 +1148,8 @@ collection-backlogged-crash-reports =
     .label = { -brand-short-name } ਨੂੰ ਤੁਹਾਡੇ ਤੌਰ 'ਤੇ ਬੈਕ-ਲਾਗ ਕਰੈਸ਼ ਰਿਪੋਰਟਾਂ ਭੇਜਣ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ
     .accesskey = c
 collection-backlogged-crash-reports-link = ਹੋਰ ਜਾਣੋ
+collection-backlogged-crash-reports-with-link = { -brand-short-name } ਨੂੰ ਤੁਹਾਡੇ ਤੌਰ ਉੱਤੇ ਬੈਕਲਾਗ ਕੀਤੀਆਂ ਕਰੈਸ਼ ਰਿਪੋਰਟਾਂ ਭੇਜਣ ਦਿਓ <a data-l10n-name="crash-reports-link">ਹੋਰ ਜਾਣੋ</a>
+    .accesskey = c
 
 ## Privacy Section - Security
 ##
