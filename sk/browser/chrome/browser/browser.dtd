@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "Otvorí ponuku">
+
 <!ENTITY navbarOverflow.label                "Ďalšie nástroje…">
 
 <!-- Tab context menu -->
@@ -42,10 +43,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY fullScreenCmd.label "Na celú obrazovku">
 
-
-<!-- } is above this key on many keyboards -->
-
-
 <!ENTITY pictureInPictureHideToggle.label "Skryť prepínanie obrazu v obraze">
 <!ENTITY pictureInPictureHideToggle.accesskey "S">
 
@@ -56,6 +53,9 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Pripojiť ďalšie zariadenie…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     followed by the user's email. -->
 <!ENTITY fxa.menu.signin.label "Prihlásiť sa do aplikácie &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Zapnúť &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "Služby aplikácie &brandProductName;">
@@ -101,7 +101,6 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY printButton.label            "Tlačiť">
 <!ENTITY printButton.tooltip          "Umožní vytlačiť túto stránku">
 
-
 <!ENTITY searchItem.title             "Vyhľadávanie">
 
 <!-- Toolbar items -->
@@ -125,10 +124,10 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY historyButton.label            "História">
 
-<!ENTITY downloads.label              "Správca preberania súborov">
+<!ENTITY downloads.label              "Správca sťahovania súborov">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
-<!ENTITY libraryDownloads.label       "Prevzaté súbory">
+<!ENTITY libraryDownloads.label       "Stiahnuté súbory">
 <!ENTITY addons.label                 "Doplnky">
 
 <!ENTITY webDeveloperMenu.label       "Webový vývojár">
@@ -150,6 +149,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY historyUndoWindowMenu.label "Nedávno zatvorené okná">
 
 <!ENTITY appMenuHistory.showAll.label "Zobraziť celú históriu">
+
 <!ENTITY appMenuHistory.clearRecent.label "Vymazať nedávnu históriu…">
 <!ENTITY appMenuHistory.restoreSession.label "Obnoviť poslednú reláciu">
 <!ENTITY appMenuHistory.viewSidebar.label "Zobraziť bočný panel História">
@@ -158,12 +158,15 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuHelp.label "Pomocník">
 
 <!ENTITY appMenuRemoteTabs.label "Synchronizované karty">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Žiadne otvorené karty">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showMore.label "Zobraziť ďalšie">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.tooltip):
+     This is shown after the tabs list if we can display more tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showMore.tooltip "Zobrazí ďalšie karty z tohto zariadenia">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
@@ -191,7 +194,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY customizeMenu.addToToolbar.label "Pridať na panel nástrojov">
 <!ENTITY customizeMenu.addToToolbar.accesskey "s">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
-     customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
+     customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Pridať do rozširujúcej ponuky">
@@ -219,18 +222,12 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY pageAction.copyLink.label    "Kopírovať odkaz">
 
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
 <!ENTITY saveToPocketCmd.label        "Uložiť stránku do Pocketu">
 <!ENTITY pocketMenuitem.label         "Zobraziť zoznam v Pockete">
 
 <!ENTITY emailPageCmd.label           "Odoslať odkaz…">
-
-<!-- Media (video/audio) controls -->
-
-<!-- LOCALIZATION NOTE :
-fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
-fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
-If shift key is needed with your locale popular keyboard for them,
-you can use these alternative items. Otherwise, their values should be empty.  -->
 
 <!ENTITY fullZoom.label                 "Lupa">
 
@@ -257,7 +254,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Pridať slovníky…">
 <!ENTITY spellAddDictionaries.accesskey "P">
 
-
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Karty prehliadača">
@@ -273,8 +269,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.msg2                "Prajeme bezpečné prehliadanie!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Ďakujeme!">
 
-<!ENTITY updateAvailable.panelUI.label "Prevziať aktualizáciu aplikácie &brandShorterName;">
-<!ENTITY updateManual.panelUI.label "Prevziať novú verziu aplikácie &brandShorterName;">
+<!ENTITY updateAvailable.panelUI.label "Stiahnuť aktualizáciu aplikácie &brandShorterName;">
+<!ENTITY updateManual.panelUI.label "Stiahnuť novú verziu aplikácie &brandShorterName;">
 <!ENTITY updateUnsupported.panelUI.label "Ďalšie aktualizácie nie sú dostupné">
 <!ENTITY updateRestart.panelUI.label2 "Reštartovať a aktualizovať aplikáciu &brandShorterName;">
 

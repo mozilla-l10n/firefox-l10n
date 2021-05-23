@@ -157,7 +157,7 @@ newtab-label-bookmarked = V záložkách
 newtab-label-removed-bookmark = Záložka bola odstránená
 newtab-label-recommended = Trendy
 newtab-label-saved = Uložené do služby { -pocket-brand-name }
-newtab-label-download = Prevzaté
+newtab-label-download = Stiahnuté
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
