@@ -247,6 +247,14 @@ search-one-offs-context-set-as-default-private =
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
+# Shown when adding new engines from the address bar shortcut buttons or context
+# menu, or from the search bar shortcut buttons.
+# Variables:
+#  $engineName (String): The name of the engine.
+search-one-offs-add-engine =
+    .label = افزودن «{ $engineName }»
+    .tooltiptext = افزودن موتور جست‌وجوی «{ $engineName }»
+    .aria-label = افزودن موتور جست‌وجوی «{ $engineName }»
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -306,6 +314,7 @@ identity-header-security-with-host =
     .title = امنیتِ اتصال برای { $host }
 identity-connection-not-secure = اتصال امن نیست
 identity-connection-secure = اتصال امن است
+identity-connection-failure = شکست در برقراری ارتباط
 identity-connection-internal = این یک صفحهٔ امن { -brand-short-name } است.
 identity-connection-file = این صفحه بر روی رایانه شما ذخیره شده است.
 identity-extension-page = این صفحه توسط یک افزونه بارگیری شده است.
@@ -502,6 +511,11 @@ urlbar-placeholder-with-name =
     .placeholder = با { $name } جست‌وجو یا آدرسی وارد کنید
 urlbar-remote-control-notification-anchor =
     .tooltiptext = مرورگر تحت کنترل از راه دور است
+# Variables
+#  $component (String): the name of the component which forces remote control.
+#    Example: "DevTools", "Marionette", "RemoteAgent".
+urlbar-remote-control-notification-anchor2 =
+    .tooltiptext = مرورگر تحت کنترل از راه دور است (دلیل: { $component })
 urlbar-permissions-granted =
     .tooltiptext = به این پایگاه وب دسترسی‌های اضافی اعطا کرده‌اید.
 urlbar-switch-to-tab =
