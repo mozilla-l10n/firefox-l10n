@@ -14,7 +14,7 @@
 <!ENTITY AlignDefault.label "Predefinite">
 <!ENTITY AlignLeft.label "Sinistra">
 <!ENTITY AlignCenter.label "Centro">
-<!ENTITY AlignRight.label "Dextera">
+<!ENTITY AlignRight.label "Dextra">
 
 <!ENTITY RemoveFieldSet.label "Remover gruppo de campos">
 <!ENTITY RemoveFieldSet.accesskey "R">

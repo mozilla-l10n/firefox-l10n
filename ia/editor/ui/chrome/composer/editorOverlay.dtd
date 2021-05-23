@@ -198,7 +198,7 @@
 <!ENTITY alignCenter.label "Centro">
 <!ENTITY alignCenter.accesskey "C">
 <!ENTITY alignCenter.tooltip "Alinear al centro">
-<!ENTITY alignRight.label "Dextera">
+<!ENTITY alignRight.label "Dextra">
 <!ENTITY alignRight.accesskey "D">
 <!ENTITY alignRight.tooltip "Alinear a dextra">
 <!ENTITY alignJustify.label "Justificar">
@@ -262,7 +262,7 @@
 <!ENTITY tableCell.accesskey "C">
 <!ENTITY tableCellContents.label "Contento del cella">
 <!ENTITY tableCellContents.accesskey "n">
-<!ENTITY tableAllCells.label "Tote le cellas">
+<!ENTITY tableAllCells.label "Tote le cellulas">
 <!ENTITY tableAllCells.accesskey "T">
 <!ENTITY tableCellBefore.label "Cella precedente">
 <!ENTITY tableCellBefore.accesskey "d">

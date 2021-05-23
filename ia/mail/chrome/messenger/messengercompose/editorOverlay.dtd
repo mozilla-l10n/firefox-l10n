@@ -121,7 +121,7 @@
 
 <!ENTITY formatFontColor.label "Color del texto…">
 <!ENTITY formatFontColor.accesskey "C">
-<!ENTITY tableOrCellColor.label "Color de fundo tabella o cella…">
+<!ENTITY tableOrCellColor.label "Color de fundo de tabella o cellula…">
 <!ENTITY tableOrCellColor.accesskey "F">
 
 <!ENTITY formatRemoveStyles.key "Y">
@@ -181,7 +181,7 @@
 <!ENTITY alignCenter.label "Centro">
 <!ENTITY alignCenter.accesskey "C">
 <!ENTITY alignCenter.tooltip "Alinear al centro">
-<!ENTITY alignRight.label "Dextera">
+<!ENTITY alignRight.label "Dextra">
 <!ENTITY alignRight.accesskey "D">
 <!ENTITY alignRight.tooltip "Alinear a dextra">
 <!ENTITY alignJustify.label "Justificar">
@@ -232,16 +232,16 @@
 <!ENTITY tableColumnBefore.accesskey "a">
 <!ENTITY tableColumnAfter.label "Columna sequente">
 <!ENTITY tableColumnAfter.accesskey "s">
-<!ENTITY tableCell.label "Cella">
-<!ENTITY tableCells.label "Cella(s)">
+<!ENTITY tableCell.label "Cellula">
+<!ENTITY tableCells.label "Cellula(s)">
 <!ENTITY tableCell.accesskey "C">
-<!ENTITY tableCellContents.label "Contento del cella">
+<!ENTITY tableCellContents.label "Contento del cellula">
 <!ENTITY tableCellContents.accesskey "n">
-<!ENTITY tableAllCells.label "Tote le cellas">
+<!ENTITY tableAllCells.label "Tote le cellulas">
 <!ENTITY tableAllCells.accesskey "T">
-<!ENTITY tableCellBefore.label "Cella precedente">
+<!ENTITY tableCellBefore.label "Cellula precedente">
 <!ENTITY tableCellBefore.accesskey "d">
-<!ENTITY tableCellAfter.label "Cella sequente">
+<!ENTITY tableCellAfter.label "Cellula sequente">
 <!ENTITY tableCellAfter.accesskey "u">
 <!-- Delete SubMenu -->
 <!ENTITY tableDeleteMenu.label "Deler">
@@ -254,7 +254,7 @@
 -->
 <!ENTITY tableJoinCells.label "U">
 <!ENTITY tableJoinCells.accesskey "U">
-<!ENTITY tableSplitCell.label "Divider cella">
+<!ENTITY tableSplitCell.label "Divider cellula">
 <!ENTITY tableSplitCell.accesskey "D">
 <!ENTITY convertToTable.label "Crear tabella ab le selection">
 <!ENTITY convertToTable.accesskey "r">

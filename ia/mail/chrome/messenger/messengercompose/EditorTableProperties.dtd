@@ -7,7 +7,7 @@
 <!ENTITY applyButton.accesskey            "A">
 <!ENTITY closeButton.label                "Clauder">
 <!ENTITY tableTab.label                   "Tabella">
-<!ENTITY cellTab.label                    "Cellas">
+<!ENTITY cellTab.label                    "Cellulas">
 <!ENTITY tableRows.label                  "Rigas:">
 <!ENTITY tableRows.accessKey              "R">
 <!ENTITY tableColumns.label               "Columnas:">
@@ -23,8 +23,8 @@
 <!ENTITY tableSpacing.accessKey           "S">
 <!ENTITY tablePadding.label               "Margines:">
 <!ENTITY tablePadding.accessKey           "M">
-<!ENTITY tablePxBetwCells.label           "pixels inter cellas">
-<!ENTITY tablePxBetwBrdrCellContent.label "pixels inter bordo del cella e contento">
+<!ENTITY tablePxBetwCells.label           "pixels inter cellulas">
+<!ENTITY tablePxBetwBrdrCellContent.label "pixels inter bordo del cellula e contento">
 <!ENTITY tableAlignment.label             "Alineamento tabella:">
 <!ENTITY tableAlignment.accessKey         "A">
 <!ENTITY tableCaption.label               "Legenda:">
@@ -37,7 +37,7 @@
 <!ENTITY tableInheritColor.label           "(Sia le color del pagina transparente)">
 
 <!ENTITY cellSelection.label              "Selection">
-<!ENTITY cellSelectCell.label             "Cella">
+<!ENTITY cellSelectCell.label             "Cellula">
 <!ENTITY cellSelectRow.label              "Riga">
 <!ENTITY cellSelectColumn.label           "Columna">
 <!ENTITY cellSelectNext.label             "Sequente">
@@ -50,7 +50,7 @@
 <!ENTITY cellHorizontal.accessKey         "Z">
 <!ENTITY cellVertical.label               "Vertical:">
 <!ENTITY cellVertical.accessKey           "V">
-<!ENTITY cellStyle.label                  "Stilo cella:">
+<!ENTITY cellStyle.label                  "Stilo del cellula:">
 <!ENTITY cellStyle.accessKey              "t">
 <!ENTITY cellNormal.label                 "Normal">
 <!ENTITY cellHeader.label                 "Titulo">
@@ -63,7 +63,7 @@
 <!ENTITY cellAlignBottom.label            "Basso">
 <!ENTITY cellAlignJustify.label           "Justificar">
 <!ENTITY cellInheritColor.label           "(Sia le color del tabella transparente)">
-<!ENTITY cellUseCheckboxHelp.label        "Usar le quadratos de selection pro definir qual proprietates applicar a tote le cellas seligite">
+<!ENTITY cellUseCheckboxHelp.label        "Usar le quadratos de selection pro definir qual proprietates applicar a tote le cellulas seligite">
 
 <!-- Used in both Table and Cell panels  -->
 <!ENTITY size.label                       "Dimension">
@@ -72,4 +72,4 @@
 <!ENTITY backgroundColor.accessKey        "f">
 <!ENTITY AlignLeft.label                  "Sinistra">
 <!ENTITY AlignCenter.label                "Centro">
-<!ENTITY AlignRight.label                 "Dextera">
+<!ENTITY AlignRight.label                 "Dextra">

@@ -17,7 +17,7 @@
 <!ENTITY leftRadio.accessKey "S">
 <!ENTITY centerRadio.label "Centro">
 <!ENTITY centerRadio.accessKey "C">
-<!ENTITY rightRadio.label "Dextera">
+<!ENTITY rightRadio.label "Dextra">
 <!ENTITY rightRadio.accessKey "D">
 
 <!ENTITY threeDShading.label "Umbrar 3D">
