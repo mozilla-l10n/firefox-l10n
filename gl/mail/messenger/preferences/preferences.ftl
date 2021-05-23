@@ -92,9 +92,25 @@ update-in-progress-ok-button = &Descartar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuar
 addons-button = Extensións e temas
+account-button = Configuración da conta
+open-addons-sidebar-button = Complementos e temas
 
 ## OS Authentication dialog
 
+# This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message-win = Para crear un contrasinal principal, introduza as súas credenciais de autenticación do Windows. Isto axuda a protexer a seguranza das súas contas.
+# This message can be seen by trying to add a Master Password.
+# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+master-password-os-auth-dialog-message-macosx = crear un contrasinal mestre
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = Para crear un contrasinal principal, insira as súas credenciais de autenticación no Windows. Isto axuda a protexer a seguranza das súas contas.
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = crear un contrasinal principal
 
 ## General Tab
 
