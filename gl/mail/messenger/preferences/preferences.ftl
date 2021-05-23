@@ -55,6 +55,28 @@ collection-health-report =
     .label = Permitir que o { -brand-short-name } envíe datos técnicos e de interacción a { -vendor-short-name }
     .accesskey = r
 collection-health-report-link = Máis información
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = O informe de datos está desactivado na configuración desta compilación
+collection-backlogged-crash-reports =
+    .label = Permitir que o { -brand-short-name } envíe informes de erros pendentes automaticamente
+    .accesskey = c
+collection-backlogged-crash-reports-link = Máis información
+privacy-security-header = Seguranza
+privacy-scam-detection-title = Detección de estafas
+privacy-anti-virus-title = Antivirus
+privacy-certificates-title = Certificados
+chat-pane-header = Conversas
+chat-status-title = Estado
+chat-notifications-title = Notificacións
+chat-pane-styling-header = Estilo
+choose-messenger-language-description = Escolla os idiomas usados para amosar os menús, as mensaxes e as notificacións do { -brand-short-name }.
+manage-messenger-languages-button =
+    .label = Estabelecer as alternativas…
+    .accesskey = l
+confirm-messenger-language-change-description = Reiniciar o { -brand-short-name } para aplicar estes cambios
+confirm-messenger-language-change-button = Aplicar e reiniciar
+update-setting-write-failure-title = Produciuse un erro ao gardar as preferencias da actualización
 
 ## OS Authentication dialog
 
