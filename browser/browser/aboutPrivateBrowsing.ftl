@@ -6,7 +6,7 @@ privatebrowsingpage-open-private-window-label = ਪ੍ਰਾਈਵੇਟ ਵਿ�
     .accesskey = P
 about-private-browsing-search-placeholder = ਵੈੱਬ ‘ਤੇ ਲੱਭੋ
 about-private-browsing-info-title = ਤੁਸੀਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ‘ਚ ਹੋ
-about-private-browsing-info-myths = ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਬਾਰੇ ਆਮ ਮਿੱਥਾਂ
+about-private-browsing-info-myths = ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਬਾਰੇ ਗਲਤ ਧਾਰਨਾਵਾਂ
 about-private-browsing =
     .title = ਵੈੱਬ ‘ਤੇ ਲੱਭੋ
 # Variables

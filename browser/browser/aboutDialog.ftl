@@ -15,14 +15,14 @@ update-checkingForUpdates = ਅੱਪਡੇਟ ਲਈ ਚੈੱਕ ਕੀਤਾ 
 update-downloading = <img data-l10n-name="icon"/>ਅੱਪਡੇਟ ਡਾਊਨਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ — <label data-l10n-name="download-status"/>
 update-downloading-message = ਅੱਪਡੇਟ ਡਾਊਨਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ — <label data-l10n-name="download-status"/>
 update-applying = …ਅੱਪਡੇਟ ਲਾਗੂ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
-update-failed = ਅੱਪਡੇਟ ਫੇਲ੍ਹ ਹੋਇਆ। <label data-l10n-name="failed-link">ਤਾਜ਼ਾ ਵਰਜਨ ਡਾਊਨਲੋਡ ਕਰੋ</label>
+update-failed = ਅੱਪਡੇਟ ਫੇਲ੍ਹ ਹੋਇਆ। <label data-l10n-name="failed-link">ਨਵਾਂ ਵਰਜ਼ਨ ਡਾਊਨਲੋਡ ਕਰੋ</label>
 update-failed-main = ਅੱਪਡੇਟ ਫੇਲ੍ਹ ਹੈ। <a data-l10n-name="failed-link-main">ਤਾਜ਼ਾ ਵਰਜ਼ਨ ਡਾਊਨਲੋਡ ਕਰੋ</a>
 update-adminDisabled = ਤੁਹਾਡੇ ਸਿਸਟਮ ਪਰਸ਼ਾਸ਼ਕ ਵਲੋਂ ਅੱਪਡੇਟ ਅਸਮਰੱਥ ਕੀਤੇ ਹਨ।
 update-noUpdatesFound = { -brand-short-name } ਅੱਪ-ਟੂ-ਡੇਟ ਹੈ
 update-otherInstanceHandlingUpdates = { -brand-short-name } ਨੂੰ ਕਿਸੇ ਹੋਰ ਮੌਕੇ ਰਾਹੀਂ ਅੱਪਡੇਟ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
 update-manual = <label data-l10n-name="manual-link"/> ‘ਤੇ ਅੱਪਡੇਟ ਮੌਜੂਦ ਹੈ
 update-unsupported = ਤੁਸੀਂ ਇਸ ਸਿਸਟਮ ਲਈ ਹੋਰ ਅੱਪਡੇਟ ਨਹੀਂ ਕਰ ਸਕਦੇ ਹੋ। <label data-l10n-name="unsupported-link">ਹੋਰ ਜਾਣੋ</label>
-update-restarting = …ਮੁੜ-ਚਾਲੂ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
+update-restarting = …ਮੁੜ-ਚਾਲੂ ਹੋ ਰਿਹਾ ਹੈ
 channel-description = ਇਸ ਸਮੇਂ ਤੁਸੀਂ <label data-l10n-name="current-channel"></label> ਅੱਪਡੇਟ ਚੈਨਲ ਵਰਤ ਰਹੇ ਹੋ।
 warningDesc-version = { -brand-short-name } ਤਜਰਬੇ ਅਧੀਨ ਹੈ ਅਤੇ ਅਸਥਿਰ ਹੋ ਸਕਦਾ ਹੈ।
 aboutdialog-help-user = { -brand-product-name } ਮਦਦ
