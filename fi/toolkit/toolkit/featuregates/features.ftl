@@ -65,8 +65,8 @@ experimental-features-devtools-serviceworker-debugger-support =
 experimental-features-devtools-serviceworker-debugger-support-description = Ottaa käyttöön kokeellisen Service Worker -tuen Debugger-paneelissa. Tämä voi hidastaa web-työkaluja ja lisätä muistinkulutusta.
 # WebRTC global mute toggle controls
 experimental-features-webrtc-global-mute-toggles =
-    .label = WebRTC:n globaalit mykistysohjaimet
-experimental-features-webrtc-global-mute-toggles-description = Lisää ohjaimet WebRTC:n globaaliin jakamisilmaisimeen. Ohjaimet mahdollistavat mikrofonin ja kameran mykistämisen globaalisti.
+    .label = WebRTC:n globaalit vaimennusohjaimet
+experimental-features-webrtc-global-mute-toggles-description = Lisää ohjaimet WebRTC:n globaaliin jakamisilmaisimeen. Ohjaimet mahdollistavat mikrofonin ja kameran vaimentamisen globaalisti.
 # Win32k Lockdown
 experimental-features-win32k-lockdown =
     .label = Win32k-lukitus

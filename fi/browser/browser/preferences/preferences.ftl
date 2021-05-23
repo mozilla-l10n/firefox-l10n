@@ -1143,7 +1143,7 @@ collection-backlogged-crash-reports =
     .label = Salli, että { -brand-short-name } lähettää lähettämättömät kaatumisilmoitukset puolestasi
     .accesskey = e
 collection-backlogged-crash-reports-link = Lue lisää
-collection-backlogged-crash-reports-with-link = Salli, että { -brand-short-name } lähettää lähettämättömän kaatumisraportit puolestasi <a data-l10n-name="crash-reports-link">Lue lisää</a>
+collection-backlogged-crash-reports-with-link = Salli, että { -brand-short-name } lähettää lähettämättömät kaatumisraportit puolestasi <a data-l10n-name="crash-reports-link">Lue lisää</a>
     .accesskey = S
 
 ## Privacy Section - Security
