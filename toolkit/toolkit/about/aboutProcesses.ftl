@@ -86,7 +86,7 @@ about-processes-web-isolated-process = { $origin } ({ $pid })
 about-processes-web-large-allocation-process = { $origin } ({ $pid }, suuri)
 about-processes-with-coop-coep-process = { $origin } ({ $pid }, lähteet eristetty toisistaan)
 about-processes-web-isolated-process-private = { $origin } — yksityinen ({ $pid })
-about-processes-web-large-allocation-process-private = { $origin } — Private ({ $pid }, suuri)
+about-processes-web-large-allocation-process-private = { $origin } — yksityinen ({ $pid }, suuri)
 about-processes-with-coop-coep-process-private = { $origin } — yksityinen ({ $pid }, lähteet eristetty toisistaan)
 
 ## Details within processes
