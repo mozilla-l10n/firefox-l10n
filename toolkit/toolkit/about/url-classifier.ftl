@@ -40,7 +40,6 @@ url-classifier-debug-sb-modules = Moduly protokolu pre službu Safe Browsing
 url-classifier-debug-modules = Aktuálne moduly protokolu
 url-classifier-debug-sbjs-modules = Protokol JS pre službu Safe Browsing
 url-classifier-debug-file = Aktuálny súbor protokolu
-
 url-classifier-trigger-update = Spustiť aktualizáciu
 url-classifier-not-available = N/A
 url-classifier-disable-sbjs-log = Zakázať denník JS služby Safe Browsing
@@ -51,4 +50,4 @@ url-classifier-updating = aktualizuje sa
 url-classifier-cannot-update = aktualizácia nie je možná
 url-classifier-success = úspech
 url-classifier-update-error = chyba pri aktualizácii ({ $error })
-url-classifier-download-error = chyba pri preberaní ({ $error })
+url-classifier-download-error = chyba pri sťahovaní ({ $error })

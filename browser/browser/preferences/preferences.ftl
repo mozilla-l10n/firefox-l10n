@@ -134,8 +134,8 @@ search-results-header = Výsledky vyhľadávania
 # `<span data-l10n-name="query"></span>` will be replaced by the search term.
 search-results-empty-message =
     { PLATFORM() ->
-        [windows] Mrzí nás to, no pre hľadaný výraz “<span data-l10n-name="query"></span>” sme v možnostiach nič nenašli.
-       *[other] Mrzí nás to, no pre hľadaný výraz “<span data-l10n-name="query"></span>” sme v možnostiach nič nenašli.
+        [windows] Mrzí nás to, no pre hľadaný výraz „<span data-l10n-name="query"></span>“ sme v možnostiach nič nenašli.
+       *[other] Mrzí nás to, no pre hľadaný výraz „<span data-l10n-name="query"></span>” sme v možnostiach nič nenašli.
     }
 # `<span data-l10n-name="query"></span>` will be replaced by the search term.
 search-results-empty-message2 = Mrzí nás to, ale pre hľadaný výraz “<span data-l10n-name="query"></span>” sme v možnostiach nič nenašli.

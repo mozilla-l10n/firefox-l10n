@@ -272,7 +272,7 @@ header-back-button =
 # ("recommends") in the final sentence is a link to external documentation.
 discopane-intro =
     Rozšírenia a témy vzhľadu sú ako aplikácie pre váš prehliadač. S nimi môžete
-    chrániť svoje heslá, preberať videá, hľadať výhodné ponuky, blokovať reklamy,
+    chrániť svoje heslá, sťahovať videá, hľadať výhodné ponuky, blokovať reklamy,
     meniť vzhľad prehliadača a omnoho viac. Tieto malé programy väčšinou vyrába
     niekto iný ako my. Tu je výber <a data-l10n-name="learn-more-trigger">odporúčaných</a>
     rozšírení pre { -brand-product-name }, ktoré majú jedinečnú bezpečnosť a funkcie.

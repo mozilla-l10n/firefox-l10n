@@ -89,7 +89,7 @@ about-debugging-setup-connect-heading = Pripojenie zariadenia
 # USB section of the Setup page
 about-debugging-setup-usb-title = USB
 # Explanatory text displayed in the Setup page when USB debugging is disabled
-about-debugging-setup-usb-disabled = Aktivácia tejto možnosti spustí preberanie vyžadovaných komponentov na ladenie pomocou Android USB do prehliadača { -brand-shorter-name }.
+about-debugging-setup-usb-disabled = Aktivácia tejto možnosti spustí sťahovanie vyžadovaných komponentov na ladenie pomocou Android USB do prehliadača { -brand-shorter-name }.
 # Text of the button displayed in the USB section of the setup page when USB debugging is disabled.
 # Clicking on it will download components needed to debug USB Devices remotely.
 about-debugging-setup-usb-enable-button = Povoliť USB zariadenia
