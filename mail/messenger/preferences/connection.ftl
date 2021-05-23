@@ -72,4 +72,16 @@ no-proxy-label =
     .accesskey = p
 no-proxy-example = Exemplo: .mozilla.org, .net.nz, 192.168.1.0/24
 # Note: Do not translate localhost, 127.0.0.1 and ::1.
-no-proxy-localhost-label = As conexións con localhost, 127.0.0.1 e :: 1 nunca pasan por servidor mandatario.
+no-proxy-localhost-label = As conexións con localhost, 127.0.0.1 e :: 1 nunca pasan polo servidor mandatario.
+# Do not translate "localhost", "127.0.0.1/8" and "::1". (You can translate "and".)
+connection-proxy-noproxy-localhost-desc-2 = As conexións con localhost, 127.0.0.1/8 e :: 1 nunca pasan polo servidor mandatario.
+proxy-password-prompt =
+    .label = Non solicite autenticación se se garda o contrasinal
+    .accesskey = i
+    .tooltiptext = Esta opción autentícao en silencio nos servidores mandatarios cando gardou as credenciais para eles. Preguntaráselle se falla a autenticación.
+proxy-remote-dns =
+    .label = Empregar o servidor mandatario para DNS ao usar SOCKS v5
+    .accesskey = d
+proxy-enable-doh =
+    .label = Activar DNS por HTTPS
+    .accesskey = t
