@@ -30,4 +30,4 @@ messenger-languages-select-language =
     .placeholder = Escolla un idioma para engadilo…
 messenger-languages-installed-label = Idiomas instalados
 messenger-languages-available-label = Idiomas dispoñíbeis
-messenger-languages-error = O { -brand-short-name } non pode actualizar os seus idiomas neste momento. Comprobe que está conectado a Internet ou ténteo novamente.
+messenger-languages-error = O { -brand-short-name } non é quen actualizar os seus idiomas neste momento. Comprobe que está conectado a Internet ou ténteo novamente.
