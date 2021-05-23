@@ -77,6 +77,21 @@ manage-messenger-languages-button =
 confirm-messenger-language-change-description = Reiniciar o { -brand-short-name } para aplicar estes cambios
 confirm-messenger-language-change-button = Aplicar e reiniciar
 update-setting-write-failure-title = Produciuse un erro ao gardar as preferencias da actualización
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message =
+    O { -brand-short-name } atopou un erro e non gardou este cambio. Teña en conta que para estabelecer esta preferencia de actualización é preciso o permiso para escribir no seguinte ficheiro. Vostede ou o administrador do sistema poden resolver o erro concedendo ao grupo de usuarios o control total sobre este ficheiro.
+    
+    Non foi posíbel escribir no ficheiro: { $path }
+update-in-progress-title = Actualización en curso
+update-in-progress-message = Quere que o { -brand-short-name } continúe con esta actualización?
+update-in-progress-ok-button = &Descartar
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = &Continuar
+addons-button = Extensións e temas
 
 ## OS Authentication dialog
 
