@@ -50,3 +50,13 @@ upgrade-dialog-theme-system = Sistema etoso
     .title =
         Uzi la etoson de la mastruma sistemo
         por butonoj, menuoj kaj fenestroj
+upgrade-dialog-theme-light = Hela
+    .title = Uzi helan aspekton por butonoj, menuoj kaj fenestroj
+upgrade-dialog-theme-dark = Malhela
+    .title = Uzi malhelan aspekton por butonoj, menuoj kaj fenestroj
+upgrade-dialog-theme-alpenglow = Alpenglow
+    .title = Uzi dinamikan, kolorplenan etoson por butonoj, menuoj kaj fenestroj
+upgrade-dialog-theme-keep = Gardi antaŭan
+    .title = Uzi la etoson kiun vi havis instalita antaŭ la ĝisdatigo de { -brand-short-name }
+upgrade-dialog-theme-primary-button = Konservi etoson
+upgrade-dialog-theme-secondary-button = Ne nun

@@ -318,10 +318,10 @@ mr1-onboarding-theme-description-dark =
 # Tooltip displayed on hover of Alpenglow theme
 mr1-onboarding-theme-tooltip-alpenglow =
     .title =
-        Uzi dinamikan etoson por butonoj,
+        Uzi dinamikan, kolorplenan etoson por butonoj,
         menuoj kaj fenestroj.
 # Input description for Alpenglow theme
 mr1-onboarding-theme-description-alpenglow =
     .aria-description =
-        Uzi dinamikan etoson por butonoj,
+        Uzi dinamikan, kolorplenan etoson por butonoj,
         menuoj kaj fenestroj.
