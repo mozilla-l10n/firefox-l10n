@@ -6,7 +6,7 @@
 ### This file contains the entities needed to use the Find Bar.
 
 findbar-next =
-    .tooltiptext = Airt oot the nixt time this phrase occurs
+    .tooltiptext = Airt oot the neist time this phrase occurs
 findbar-previous =
     .tooltiptext = Airt oot the last time this phrase occurred
 findbar-find-button-close =

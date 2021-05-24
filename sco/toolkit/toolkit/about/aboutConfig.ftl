@@ -7,6 +7,13 @@ config-window =
 
 ## Strings used to display a warning in about:config
 
+config-search-prefs =
+    .value = Sairch:
+    .accesskey = r
+config-focus-search =
+    .key = r
+config-focus-search-2 =
+    .key = f
 
 ## These strings are used for column headers
 

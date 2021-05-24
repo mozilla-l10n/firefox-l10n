@@ -27,7 +27,7 @@ abuse-report-submit-note =
 ## Panel buttons.
 
 abuse-report-cancel-button = Stap
-abuse-report-next-button = Nixt
+abuse-report-next-button = Neist
 abuse-report-goback-button = Gang back
 abuse-report-submit-button = Submit
 
