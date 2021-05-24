@@ -6,6 +6,8 @@ certmgr-tab-mine =
     .label = Yer Certificates
 certmgr-subject-label = Issued Tae
 certmgr-fingerprints = Fingirprents
+certmgr-email =
+    .label = Email Address
 exception-mgr-cert-location-url =
     .value = Airtin:
 

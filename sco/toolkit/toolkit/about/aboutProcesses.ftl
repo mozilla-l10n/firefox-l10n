@@ -8,6 +8,7 @@
 
 ## Column headers
 
+about-processes-column-name = Nemme
 
 ## Process names
 ## Variables:

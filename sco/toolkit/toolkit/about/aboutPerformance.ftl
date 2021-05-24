@@ -5,13 +5,18 @@
 
 ## Column headers
 
+column-name = Nemme
+column-type = Type
 
 ## Special values for the Name column
 
 
 ## Values for the Type column
 
+type-tab = Tab
 type-addon = Eik-on
+type-browser = Stravaiger
+type-other = Ither
 
 ## Values for the Energy Impact column
 ##

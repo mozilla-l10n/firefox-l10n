@@ -8,6 +8,12 @@
 
 ## These strings are used for column headers
 
+config-lock-column =
+    .label = Status
+config-type-column =
+    .label = Type
+config-value-column =
+    .label = Vailue
 
 ## These strings are used for tooltips
 

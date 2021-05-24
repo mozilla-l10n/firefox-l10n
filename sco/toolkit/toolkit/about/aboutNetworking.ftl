@@ -3,6 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-networking-dns-trr-url = DoH URL
+about-networking-addresses = Addresses
+about-networking-dns-lookup-table-column = IPs
+about-networking-dns-https-rr-lookup-table-column = HTTP RRs
 
 ## Link is intended as "network link"
 
