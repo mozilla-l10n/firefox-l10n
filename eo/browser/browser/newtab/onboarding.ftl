@@ -241,15 +241,57 @@ onboarding-multistage-theme-description-alpenglow =
 
 ## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 
+# "Hero Text" displayed on left side of welcome screen.
+# The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
+# It also signals the passion users bring to Firefox, how they use
+# Firefox to pursue those passions, as well as the boldness in their
+# choice to use Firefox over a larger competitor browser.
+# An alternative title for localization is: "It starts here".
+# This text can be formatted to span multiple lines as needed.
+mr1-welcome-screen-hero-text = Ĉio komenciĝas ĉi tie
 # Caption for background image in about:welcome. "Soraya Osorio" is the name
 # of the person and shouldn't be translated.
 mr1-onboarding-welcome-image-caption = Soraya Osorio — Fasonisto de mebloj, fanatika pri Firefox
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Malŝalti animaciojn
 mr1-onboarding-welcome-header = Bonvenon al { -brand-short-name }
+mr1-onboarding-set-default-pin-primary-button-label = Igi { -brand-short-name } mia ĉefa retumilo
+    .title = Difini { -brand-short-name } kiel la ĉefan retumilon kaj alpinglas ĝin al la taska strio.
+mr1-onboarding-set-default-only-primary-button-label = Igi { -brand-short-name } mia ĉefa retumilo
+mr1-onboarding-set-default-secondary-button-label = Ne nun
+mr1-onboarding-sign-in-button-label = Komenci seancon
+mr1-onboarding-import-header = Portu ĉion kun vi
+mr1-onboarding-import-subtitle = Enporti viajn pasvortojn, <br/>legosignojn, kaj pli.
+# The primary import button label will depend on whether we can detect which browser was used to download Firefox.
+# Variables:
+#   $previous (Str) - Previous browser name, such as Edge, Chrome
+mr1-onboarding-import-primary-button-label-attribution = Enporti el { $previous }
+# This string will be used in cases where we can't detect the previous browser name.
+mr1-onboarding-import-primary-button-label-no-attribution = Enporti el antaŭa retumilo
+mr1-onboarding-import-secondary-button-label = Ne nun
+mr1-onboarding-theme-header = Personecigu ĝin
+mr1-onboarding-theme-subtitle = Personecigi { -brand-short-name } per etoso.
+mr1-onboarding-theme-primary-button-label = Konservi etoson
+mr1-onboarding-theme-secondary-button-label = Ne nun
+# System theme uses operating system color settings
+mr1-onboarding-theme-label-system = Sistema etoso
+mr1-onboarding-theme-label-light = Hela
+mr1-onboarding-theme-label-dark = Malhela
+# "Alpenglow" here is the name of the theme, and should be kept in English.
+mr1-onboarding-theme-label-alpenglow = Alpenglow
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of system theme
+mr1-onboarding-theme-tooltip-system =
+    .title =
+        Uzi la etoson de la mastruma sistemo
+        por butonoj, menuoj kaj fenestroj.
+# Input description for system theme
+mr1-onboarding-theme-description-system =
+    .aria-description =
+        Uzi la etoson de la mastruma sistemo
+        por butonoj, menuoj kaj fenestroj.
