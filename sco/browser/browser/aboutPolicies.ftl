@@ -6,3 +6,9 @@ about-policies-title = Enterprise Policies
 # 'Active' is used to describe the policies that are currently active
 active-policies-tab = Active
 errors-tab = Mishanters
+documentation-tab = Documentation
+no-specified-policies-message = The Enterprise Policies service is active but nae policies are enabled.
+inactive-message = The Enterprise Policies service is no active.
+policy-name = Policy Nemme
+policy-value = Policy Vailue
+policy-errors = Policy Mishanters

@@ -7,15 +7,21 @@
 
 about-config-intro-warning-title = Haud Forrit wi Tent
 about-config-intro-warning-text = Chyngin advanced confeeguration preferences can effect { -brand-short-name } performance or siccarness.
+about-config-intro-warning-checkbox = Lat me ken whan I go tae access these preferences
 about-config-intro-warning-button = Accept the Risk and Gang On
 
 ##
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Chyngin these preferences can effect { -brand-short-name } performance or siccarness.
+about-config-page-title = Advanced Preferences
+about-config-search-input1 =
+    .placeholder = Airt-oot preference nemme
 about-config-show-all = Kythe Aw
 about-config-pref-add-button =
     .title = Eik on
+about-config-pref-toggle-button =
+    .title = Toggle
 about-config-pref-edit-button =
     .title = Edit
 about-config-pref-save-button =
@@ -29,6 +35,7 @@ about-config-pref-delete-button =
 
 about-config-pref-add-type-boolean = Boolean
 about-config-pref-add-type-number = Nummer
+about-config-pref-add-type-string = String
 
 ## Preferences with a non-default value are differentiated visually, and at the
 ## same time the state is made accessible to screen readers using an aria-label
