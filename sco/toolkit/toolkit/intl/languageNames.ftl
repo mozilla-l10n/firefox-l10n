@@ -3,3 +3,5 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 language-name-gd = Scots Gaelic
+language-name-uk = Ukrainian
+language-name-vi = Vietnamese

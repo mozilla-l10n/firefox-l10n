@@ -6,6 +6,9 @@ profile-selection-button-accept =
     .label = Stert { -brand-short-name }
 profile-selection-button-cancel =
     .label = Ootgang
+profile-selection-delete-button =
+    .label = Dicht Profile…
+    .accesskey = D
 
 ## Messages used in the profile manager
 

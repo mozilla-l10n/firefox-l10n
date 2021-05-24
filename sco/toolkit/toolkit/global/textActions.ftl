@@ -5,6 +5,13 @@
 text-action-undo =
     .label = Undae
     .accesskey = U
+text-action-undo-shortcut =
+    .key = Z
+text-action-redo =
+    .label = Dae Ower
+    .accesskey = r
+text-action-redo-shortcut =
+    .key = Y
 text-action-delete =
     .label = Dicht
     .accesskey = D

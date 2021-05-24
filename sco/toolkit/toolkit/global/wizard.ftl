@@ -5,6 +5,9 @@
 wizard-macos-button-back =
     .label = Gang Back
     .accesskey = B
+wizard-macos-button-next =
+    .label = Haud Forrit
+    .accesskey = H
 wizard-macos-button-finish =
     .label = Duin
 wizard-linux-button-finish =

@@ -4,11 +4,14 @@
 
 profiles-restart-title = Restert
 profiles-restart-in-safe-mode = Restert Wi Eik-ons Disabled…
+profiles-flush-fail-title = Chynges no saved
+profiles-flush-conflict = { profiles-conflict }
 profiles-flush-restart-button = Restert { -brand-short-name }
 profiles-remove = Remuive
 profiles-yes = aye
 profiles-no = naw
 profiles-rename-profile-title = Renemme Profile
+profiles-delete-profile-title = Dicht Profile
 profiles-delete-files = Dicht Files
 profiles-dont-delete-files = Dinnae Dicht Files
 profiles-delete-profile-failed-title = Mishanter
