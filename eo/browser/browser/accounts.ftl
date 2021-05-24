@@ -10,4 +10,4 @@ account-finish-account-setup = Fini agordon de konto
 account-reconnect-to-fxa = Konto nekonektita
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
-account-disconnected = Vi ne plu estas konektita
+account-disconnected2 = Konto malkonektita

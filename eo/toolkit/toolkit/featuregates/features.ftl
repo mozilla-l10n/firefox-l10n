@@ -21,6 +21,7 @@ experimental-features-media-avif-description = Se tiu ĉi trajto estas aktiva, {
 # by various online articles and is technical in nature.
 experimental-features-media-jxl =
     .label = Media: JPEG XL
+experimental-features-media-jxl-description = Se tiu ĉi trajto estas aktiva, { -brand-short-name } subtenas la dosierformon JPEG XL (JXL). Temas pri plibonigita bilda dosierformo, kiu subtenas senperdan transiron el tradiciaj JPEG dosieroj. Vizitu <a data-l10n-name="bugzilla">la erarraporton 1539075</a> por havi pli da informo.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
@@ -68,6 +69,10 @@ experimental-features-devtools-serviceworker-debugger-support-description = Tio 
 experimental-features-webrtc-global-mute-toggles =
     .label = Ŝalti/malŝalti sonon WebRTC ĉie
 experimental-features-webrtc-global-mute-toggles-description = Aldoni regilojn al la ĉiea indikilo pri dividi de WebRTC, kiu permesas al uzantoj malaktivigi siajn mikrofonojn kaj fimilojn ĉie.
+# Win32k Lockdown
+experimental-features-win32k-lockdown =
+    .label = Blokado de Win32k
+experimental-features-win32k-lockdown-description = Malaktivigi la uzon de la APIs de Win32k en retumilaj langetoj. Tio plibonigas sekurecon, sed povas nuntempe esti nestabila aŭ ne kompleta. (nur por Windows)
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
