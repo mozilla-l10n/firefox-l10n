@@ -735,3 +735,4 @@ search-results-empty-message =
         [windows] Sentímolo! Non hai resultados nas opcións para «<span data-l10n-name="query"></span>».
        *[other] Sentímolo! Non hai resultados nas preferencias para «<span data-l10n-name="query"></span>».
     }
+search-results-help-link = Precisa axuda? Visite a <a data-l10n-name="url">asistencia do { -brand-short-name }</a>
