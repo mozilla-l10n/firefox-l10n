@@ -23,7 +23,7 @@ open-sidebar = Sidebaurs
 search-popover = Sairch shortcuts
 # Describes searches limited to a specific scope
 # (e.g. searching only in history).
-search-search-in = Sairch in:
+search-search-in = Airt oot in:
 
 ## Various categories of shortcuts for search.
 
