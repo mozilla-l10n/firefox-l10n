@@ -12,4 +12,11 @@ default-browser-notification-button =
 ## depending on the operating system (Windows vs other). The checkbox label and
 ## secondary button are shared between the variants.
 
+default-browser-prompt-title-pin = Ĉu igi { -brand-short-name } via ĉefa retumilo?
+default-browser-prompt-message-pin = Tenu { -brand-short-name } ĉemane — igu ĝin via norma retumilo kaj alpinglu ĝin al la taska strio.
+default-browser-prompt-button-primary-pin = Igi retumilon ĉefa
+default-browser-prompt-title-alt = Ĉu igi { -brand-short-name } via norma retumilo?
+default-browser-prompt-message-alt = Via tuta retumo rapida, sekura kaj privata.
+default-browser-prompt-button-primary-alt = Difini kiel norma retumilo
+default-browser-prompt-checkbox-not-again-label = Ne montri tiun ĉi mesaĝon denove
 default-browser-prompt-button-secondary = Ne nun
