@@ -582,7 +582,7 @@ urlbar-result-action-calculator-result = = { $result }
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
 urlbar-result-action-search-bookmarks = Sairch Buikmerks
-urlbar-result-action-search-history = Airt-oot in Historie
+urlbar-result-action-search-history = Airt Oot in Historie
 urlbar-result-action-search-tabs = Sairch Tabs
 
 ## Full Screen and Pointer Lock UI
