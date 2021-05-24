@@ -19,29 +19,14 @@ experimental-features-media-avif =
 experimental-features-media-avif-description = Se tiu ĉi trajto estas aktiva, { -brand-short-name } subtenas la bildan dosierformon AV1 (AVIF). Tiu ĉi dosierformo uzas la kapablojn de la videokompaktigaj algoritmoj de AV1 por redukti la grandon de bildo. Vizitu la <a data-l10n-name="bugzilla">problemon 1443863</a> por havi pli da informo.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
+experimental-features-media-jxl =
+    .label = Media: JPEG XL
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
     .label = Web API: inputmode
 # "inputmode" and "contenteditable" are technical terms and shouldn't be translated.
 experimental-features-web-api-inputmode-description = Nia realigo de la <a data-l10n-name="mdn-inputmode">inputmode</a> ĝenerala atributo estis ĝisdatigita laŭ <a data-l10n-name="whatwg">la specifo de WHATWG</a>, sed restas ankoraŭ aliaj ŝanĝoj, kiel la disponigo en modifebla enhavo kreita de contenteditable. Vizitu la <a data-l10n-name="bugzilla">problemon 1205133</a> por havi pli da informo.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-web-api-link-preload =
-    .label = Web API: <link rel="preload">
-# Do not translate "rel", "preload" or "link" here, as they are all HTML spec
-# values that do not get translated.
-experimental-features-web-api-link-preload-description = La atributo <a data-l10n-name="rel">rel</a> kun la valoro <code>"preload"</code> en elemento <a data-l10n-name="link">&lt;link&gt;</a> havas la celon plibonigi la efikecon per pli frua ŝargado de rimedoj dum la vivo de la paĝo, kio signifas ke ili estos pli frue disponeblaj kaj malpli probable blokos la montron de la paĝo. Legu <a data-l10n-name="readmore">“Antaŭŝargado de enhavo per <code>rel="preload"</code>”</a> aŭ vizitu la <a data-l10n-name="bugzilla">problemon 1583604</a> por havi pli da informo.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-css-focus-visible =
-    .label = CSS: Pseudo-class: :focus-visible
-experimental-features-css-focus-visible-description = Tio ĉi permesas apliki fokusajn stilojn al elementoj kiel butonoj kaj formularaj elementoj, nur kiam ili ricevas la fokuson per klavaro (ekzemple dum uzo de tabklavo inter elementoj), sed ne kiam ili ricevas la fokuson per musalklako aŭ per iu alia aparato. Vizitu la <a data-l10n-name="bugzilla">problemon 1617600</a> por havi pli da informo.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-web-api-beforeinput =
-    .label = Web API: beforeinput Event
-# The terms "beforeinput", "input", "textarea", and "contenteditable" are technical terms
-# and shouldn't be translated.
-experimental-features-web-api-beforeinput-description = La ĝenerala evento <a data-l10n-name="mdn-beforeinput">beforeinput</a> iĝas aktiva en elementoj <a data-l10n-name="mdn-input">&lt;input&gt;</a> kaj <a data-l10n-name="mdn-textarea">&lt;textarea&gt;</a>, aŭ en iu ajn elemento kies atributo <a data-l10n-name="mdn-contenteditable">contenteditable</a> estas aktiva, tuj antaŭ la ŝanĝiĝo de valoro de la elemento. Tiu evento permesas al teksaĵaj programoj superregi la norman konduton de la retumilo rilate al interago de uzanto, ezkemple, programoj teksaĵaj povas nuligi la tajpadon de kelkaj signoj, aŭ povas modifi la stilon de algluita teksto tiel ke kongruas kun aprobita listo de stiloj.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
@@ -69,9 +54,6 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Kuketo
 experimental-features-abouthome-startup-cache =
     .label = about:home komenca staplo
 experimental-features-abouthome-startup-cache-description = Staplo por la komenca dokumento about:home, kiu estas norme ŝargita komence. La celo de tiu ĉi staplo estas plibonigi la efikecon de starto.
-experimental-features-print-preview-tab-modal =
-    .label = Refasonado de la antaŭvido de presado
-experimental-features-print-preview-tab-modal-description = Tio ĉi enkondukas la refasonitan antaŭvidon de presado kaj disponigas la antaŭvidon de presado en macOS. Tio povus eventuale misfunkcii kaj ĝi ne inkluzivas ĉiujn agordojn presajn. Por aliri ĉiuj tiujn agordojn, elektu "Presi per sistema dialogo…” ene de la presa panelo.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
