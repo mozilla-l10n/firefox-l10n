@@ -13,10 +13,18 @@
 <!ENTITY alwaysClear.label                "Pri ukončení programu &brandShortName; vždy odstrániť súkromné údaje">
 <!ENTITY alwaysClear.accesskey            "k">
 
+<!--LOCALIZATION NOTE : The askBeforeClear label is
+    no longer used but we might bring it back later
+-->
 <!ENTITY askBeforeClear.label             "Pred odstránením súkromných údajov sa vždy opýtať">
 <!ENTITY askBeforeClear.accesskey         "o">
 
 <!ENTITY clearDataSettings.label          "Pri odstraňovaní súkromných údajov programu &brandShortName; odstrániť:">
+
+<!ENTITY clearData.label "Vymazať tieto súkromné údaje:">
+<!ENTITY clearData.cpd.label "Manuálne">
+<!ENTITY clearData.onShutdown.label "Pri ukončení">
+
 
 <!--LOCALIZATION NOTE (clearDataDialog.label, clearDataSilent.label, clearDataDialog.accesskey):
   The only difference bettween the two labels is that one calls a dialog, the other doesn't.

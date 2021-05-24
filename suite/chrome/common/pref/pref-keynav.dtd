@@ -18,3 +18,10 @@
 <!ENTITY browseWithCaretShortCut.accesskey "F">
 <!ENTITY browseWithCaretWarn.label "Upozorniť pred zapnutím funkcie Prehliadanie pomocou klávesnice">
 <!ENTITY browseWithCaretWarn.accesskey "U">
+
+<!ENTITY modifiers.label "Modifikačné klávesy">
+<!ENTITY acceleratorKey.label "Klávesová skratka:">
+<!ENTITY acceleratorKey.accesskey "K">
+<!ENTITY menuAccessKey.label "Prístupový kláves ponuky">
+<!ENTITY menuAccessKey.accesskey "P">
+<!ENTITY modifiersDesc.label "Poznámka: hodnota nula zakáže modifikačný kláves.">

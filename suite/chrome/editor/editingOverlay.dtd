@@ -40,6 +40,14 @@
 <!ENTITY insertInputImageCmd.accesskey "O">
 <!ENTITY insertTextAreaCmd.label "Textová plocha…">
 <!ENTITY insertTextAreaCmd.accesskey "T">
+<!ENTITY insertSelectCmd.label "Výberové pole (select)…">
+<!ENTITY insertSelectCmd.accesskey "V">
+<!ENTITY insertButtonCmd.label "Definovať tlačidlo…">
+<!ENTITY insertButtonCmd.accesskey "t">
+<!ENTITY insertLabelCmd.label "Definovať popisok">
+<!ENTITY insertLabelCmd.accesskey "o">
+<!ENTITY insertFieldSetCmd.label "Definovať množinu polí...">
+<!ENTITY insertFieldSetCmd.accesskey "m">
 
 <!-- Toolbar buttons/items -->
 <!ENTITY newToolbarCmd.label "Nový">
@@ -50,3 +58,5 @@
 <!ENTITY publishToolbarCmd.tooltip "Odoslať súbor na vzdialený server">
 <!ENTITY printToolbarCmd.label "Tlačiť">
 <!ENTITY printToolbarCmd.tooltip "Tlačiť stránku">
+<!ENTITY formToolbarCmd.label "Formulár">
+<!ENTITY formToolbarCmd.tooltip "Vloží nový formulár alebo upraví vlastnosti vybraného formulára">
