@@ -155,7 +155,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuHistory.viewSidebar.label "Kythe Historie Sidebaur">
 <!ENTITY appMenuHistory.hideSidebar.label "Hide Historie Sidebaur">
 <!ENTITY appMenuHistory.recentHistory.label "Recent Historie">
-<!ENTITY appMenuHelp.label "Help">
+<!ENTITY appMenuHelp.label "Hauners">
 
 <!ENTITY appMenuRemoteTabs.label "Synced Tabs">
 

@@ -9,7 +9,7 @@
 <!ENTITY retry.label "Try Aince Mair">
 <!ENTITY returnToPreviousPage.label "Gang Back">
 <!ENTITY returnToPreviousPage1.label "Gang Back (Recommendit)">
-<!ENTITY advanced2.label "Advancit…">
+<!ENTITY advanced2.label "Advanced…">
 <!ENTITY viewCertificate.label "View Certificate">
 
 <!-- Specific error messages -->
@@ -175,7 +175,7 @@ was trying to connect. -->
 
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
-<!ENTITY sslv3Used.longDesc2 "Advancit info: SSL_ERROR_UNSUPPORTED_VERSION">
+<!ENTITY sslv3Used.longDesc2 "Advanced info: SSL_ERROR_UNSUPPORTED_VERSION">
 
 <!ENTITY certerror.pagetitle2  "Tak Tent: Potential Siccarness Risk Aheid">
 <!ENTITY certerror.sts.pagetitle  "Didnae Connect: Potential Siccarness Issue">

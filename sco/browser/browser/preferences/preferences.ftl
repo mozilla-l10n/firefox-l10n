@@ -409,7 +409,7 @@ update-setting-write-failure-title2 = Mishanter savin Update settins
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message2 =
-    { -brand-short-name } cam across a mishanter and didnae save this chynge. Mind that chynging this update settin needs permiseesion tae write tae the file ablow. Yersel or a seestem admeenistrator micht be able tae sort the mishanter by giein the Yaisers group full control tae this file.
+    { -brand-short-name } cam across a mishanter and didnae save this chynge. Mind that chynging this update settin needs permeesion tae write tae the file ablow. Yersel or a seestem admeenistrator micht be able tae sort the mishanter by giein the Yaisers group full control tae this file.
     
     Couldnae write tae file: { $path }
 update-in-progress-title = Update Unnerwey

@@ -47,7 +47,7 @@
 <!ENTITY col.mostrecentvisit.label "Maist Recent Visit">
 <!ENTITY col.visitcount.label    "Visit Coont">
 <!ENTITY col.dateadded.label     "Eikit on">
-<!ENTITY col.lastmodified.label  "Lest Modifiet">
+<!ENTITY col.lastmodified.label  "Last Chynged">
 
 <!ENTITY cmd.find.key  "f">
 
