@@ -5,6 +5,13 @@
 
 ## Strings used for device manager
 
+devmgr-header-details =
+    .label = Details
+devmgr-header-value =
+    .label = Vailue
+devmgr-button-login =
+    .label = Log In
+    .accesskey = n
 devmgr-button-logout =
     .label = Log Oot
     .accesskey = O

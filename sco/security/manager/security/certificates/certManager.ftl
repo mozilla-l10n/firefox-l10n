@@ -4,10 +4,25 @@
 
 certmgr-tab-mine =
     .label = Yer Certificates
+certmgr-detail-general-tab-title =
+    .label = General
+    .accesskey = G
+certmgr-detail-pretty-print-tab-title =
+    .label = Details
+    .accesskey = D
 certmgr-subject-label = Issued Tae
 certmgr-fingerprints = Fingirprents
 certmgr-email =
     .label = Email Address
+certmgr-export =
+    .label = Export…
+    .accesskey = x
+certmgr-delete =
+    .label = Dicht…
+    .accesskey = D
+certmgr-restore =
+    .label = Inbring…
+    .accesskey = b
 exception-mgr-cert-location-url =
     .value = Airtin:
 
