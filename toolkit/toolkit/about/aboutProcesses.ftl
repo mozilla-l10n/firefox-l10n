@@ -52,6 +52,38 @@ about-processes-unknown-process-name = Alia ({ $type }, procezo { $pid })
 #   $pid (String) The process id of this process, assigned by the OS.
 about-processes-process-name = Procezo { $pid }: { $name }
 
+## Process names
+## Variables:
+##    $pid (String) The process id of this process, assigned by the OS.
+
+about-processes-browser-process = { -brand-short-name } ({ $pid })
+about-processes-web-process = Dividata teksaĵa procezo ({ $pid })
+about-processes-file-process = Dosieroj ({ $pid })
+about-processes-extension-process = Etendaĵoj ({ $pid })
+about-processes-privilegedabout-process = Paĝoj :about ({ $pid })
+about-processes-plugin-process = Kromprogramoj ({ $pid })
+about-processes-privilegedmozilla-process = Retejoj de { -vendor-short-name } ({ $pid })
+about-processes-gmp-plugin-process = Kromprogramoj aŭdvidaĵaj de Gecko ({ $pid })
+about-processes-gpu-process = GPU ({ $pid })
+about-processes-vr-process = Virtuala realo ({ $pid })
+about-processes-rdd-process = Datuma malkodilo ({ $pid })
+about-processes-socket-process = Reto ({ $pid })
+about-processes-remote-sandbox-broker-process = Agento por mallokaj izolejoj  ({ $pid })
+about-processes-fork-server-process = Forka servilo ({ $pid })
+about-processes-preallocated-process = Antaŭasignado ({ $pid })
+# Unknown process names
+# Variables:
+#    $pid (String) The process id of this process, assigned by the OS.
+#    $type (String) The raw type for this process.
+about-processes-unknown-process = Aliaj: { $type } ({ $pid })
+
+## Isolated process names
+## Variables:
+##    $pid (String) The process id of this process, assigned by the OS.
+##    $origin (String) The domain name for this process.
+
+about-processes-web-isolated-process = { $origin } ({ $pid })
+
 ## Details within processes
 
 # Single-line summary of threads
