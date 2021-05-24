@@ -696,6 +696,42 @@ no-preview-description = Este tema non é válido ou actualmente non está dispo
 chat-variant-label =
     .value = Variante:
     .accesskey = V
+chat-header-label =
+    .label = Amosar a cabeceira
+    .accesskey = c
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box =
+    .style = width: 16.4em
+    .placeholder =
+        { PLATFORM() ->
+            [windows] Buscar nas opcións
+           *[other] Buscar nas preferencias
+        }
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-preferences-input =
+    .style = width: 16.4em
+    .placeholder = Buscar nas preferencias
 
 ## Preferences UI Search Results
 
+search-results-header = Resultados da busca
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Sentímolo! Non hai resultados nas opcións para «<span data-l10n-name="query"></span>».
+       *[other] Sentímolo! Non hai resultados nas preferencias para «<span data-l10n-name="query"></span>».
+    }
