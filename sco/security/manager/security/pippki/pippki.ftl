@@ -17,9 +17,17 @@ pippki-pw-change-ok = Passwird chynged wioot onie problems.
 
 ## Reset Primary Password dialog
 
+reset-primary-password-window =
+    .title = Reset Primary Passwird
+    .style = width: 40em
+reset-password-button-label =
+    .label = Reset
+pippki-reset-password-confirmation-title = Reset Primary Passwird
 
 ## Downloading cert dialog
 
+download-cert-view-cert =
+    .label = View
 
 ## Client Authorization Ask dialog
 

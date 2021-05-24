@@ -18,15 +18,27 @@ devmgr-button-logout =
 devmgr-button-changepw =
     .label = Chynge Passwird
     .accesskey = P
+devmgr-button-enable-fips =
+    .label = Enable FIPS
+    .accesskey = F
 
 ## Strings used for load device
 
+load-device-browse =
+    .label = Stravaig…
+    .accesskey = S
 
 ## Token Manager
 
+devinfo-status =
+    .label = Status
 devinfo-status-disabled =
     .label = Disabled
+devinfo-desc =
+    .label = Description
 devinfo-hwversion =
     .label = HW Version
 devinfo-fwversion =
     .label = FW Version
+devinfo-modpath =
+    .label = Path
