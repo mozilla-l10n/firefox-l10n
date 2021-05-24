@@ -7,5 +7,7 @@ newsletter-email-placeholder =
 newsletter-thanks-title = Cheers!
 footer-learn-more-link = Lairn mair
 features-learn-more = Lairn mair
+features-debugger-title = Bugdichter
+features-network-title = Netwark
 features-storage-title = Storage
 features-performance-title = Performance
