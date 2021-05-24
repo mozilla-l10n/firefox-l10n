@@ -262,6 +262,27 @@ about-debugging-extension-location =
 # For instance "geckoprofiler@mozilla.com" or "{ed26ddcb-5611-4512-a89a-51b8db81cfb2}".
 about-debugging-extension-id =
     .label = ID rozšíření
+# This string is displayed as a label of the button that pushes a test payload
+# to a service worker.
+# Note this relates to the "Push" API, which is normally not localized so it is
+# probably better to not localize it.
+about-debugging-worker-action-push2 = Push
+    .disabledTitle =
+        Push od service workeru je pro { -brand-shorter-name.gender ->
+            [masculine] víceprocesový { -brand-shorter-name(case: "acc") }
+            [feminine] víceprocesovou { -brand-shorter-name(case: "acc") }
+            [neuter] víceprocesové { -brand-shorter-name(case: "acc") }
+           *[other] víceprocesovou aplikaci { -brand-shorter-name }
+        } zakázán
+# This string is displayed as a label of the button that starts a service worker.
+about-debugging-worker-action-start2 = Spustit
+    .disabledTitle =
+        Spuštění service workeru je pro { -brand-shorter-name.gender ->
+            [masculine] víceprocesový { -brand-shorter-name(case: "acc") }
+            [feminine] víceprocesovou { -brand-shorter-name(case: "acc") }
+            [neuter] víceprocesové { -brand-shorter-name(case: "acc") }
+           *[other] víceprocesovou aplikaci { -brand-shorter-name }
+        } zakázáno
 # This string is displayed as a label of the button that unregisters a service worker.
 about-debugging-worker-action-unregister = Zrušit registraci
 # Displayed for service workers in runtime pages that listen to Fetch events.
@@ -286,12 +307,29 @@ about-debugging-worker-scope =
 # of a worker
 about-debugging-worker-push-service =
     .label = Služba Push
+# Displayed as title of the inspect button when service worker debugging is disabled.
+about-debugging-worker-inspect-action-disabled =
+    .title =
+        Zkoumání service workerů je pro { -brand-shorter-name.gender ->
+            [masculine] víceprocesový { -brand-shorter-name(case: "acc") }
+            [feminine] víceprocesovou { -brand-shorter-name(case: "acc") }
+            [neuter] víceprocesové { -brand-shorter-name(case: "acc") }
+           *[other] víceprocesovou aplikaci { -brand-shorter-name }
+        } zakázáno
+# Displayed as title of the inspect button for zombie tabs (e.g. tabs loaded via a session restore).
+about-debugging-zombie-tab-inspect-action-disabled =
+    .title = Panel není plně načtený a nelze ho v průzkumníku otevřít
 # Displayed as name for the Main Process debug target in the Processes category. Only for
 # remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-name = Hlavní proces
 # Displayed as description for the Main Process debug target in the Processes category.
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-description2 = Hlavní proces pro cílový prohlížeč
+# Displayed instead of the Main Process debug target when the preference
+# `devtools.browsertoolbox.fission` is true.
+about-debugging-multiprocess-toolbox-name = Sada nástrojů pro práci s více procesy
+# Description for the Multiprocess Toolbox target.
+about-debugging-multiprocess-toolbox-description = Hlavní procesy a procesy pro obsah v cílovém prohlížeči
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = Zavřít zprávu

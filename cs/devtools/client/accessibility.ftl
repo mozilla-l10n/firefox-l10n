@@ -26,7 +26,9 @@ accessibility-text-label-issue-area = K označení prvků <div>oblasti</div>, kt
 accessibility-text-label-issue-dialog = Dialogy by měly být označeny. <a>Zjistit více</a>
 accessibility-text-label-issue-document-title = Dokumenty musí mít <code>title</code>. <a>Zjistit více</a>
 accessibility-text-label-issue-embed = Vložený obsah musí být označen. <a>Zjistit více</a>
+accessibility-text-label-issue-figure = Obrázky s volitelnými titulky by měly být označeny štítkem. <a>Zjistit více</a>
 accessibility-text-label-issue-fieldset = Prvky <code>fieldset</code> musí být označeny. <a>Zjistit více</a>
+accessibility-text-label-issue-fieldset-legend2 = Prvek <span>fieldset</span> označte pomocí <code>legend</code>. <a>Zjistit více</a>
 accessibility-text-label-issue-form = Prvky formuláře musí být označeny. <a>Zjistit více</a>
 accessibility-text-label-issue-form-visible = Prvky formuláře by měly mít viditelný textový popisek. <a>Zjistit více</a>
 accessibility-text-label-issue-frame = Prvky <code>frame</code> musí být označeny. <a>Zjistit více</a>
@@ -36,9 +38,11 @@ accessibility-text-label-issue-heading-content = Nadpisy by měly mít viditeln�
 accessibility-text-label-issue-iframe = Použijte atribut <code>title</code> k popisu obsahu <span>iframe</span>. <a>Zjistit více</a>
 accessibility-text-label-issue-image = Obsah s obrázky musí být označen. <a>Zjistit více</a>
 accessibility-text-label-issue-interactive = Interaktivní prvky musí být označeny. <a>Zjistit více</a>
+accessibility-text-label-issue-optgroup-label2 = Prvek <span>optgroup</span> označte atributem <code>label</code>. <a>Zjistit více</a>
 accessibility-text-label-issue-toolbar = Panely nástrojů musí být označeny, pokud existuje více než jeden panel nástrojů. <a>Zjistit více</a>
 
 ## Text entries for a paragraph used in the accessibility panel sidebar's checks section
 ## that describe that currently selected accessible object has a keyboard accessibility
 ## issue.
 
+accessibility-keyboard-issue-semantics = Prvky dosažitelné pomocí klávesnice by měly mít interaktivní sémantiku. <a>Zjistit více</a>
