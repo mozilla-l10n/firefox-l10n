@@ -295,3 +295,33 @@ mr1-onboarding-theme-description-system =
     .aria-description =
         Uzi la etoson de la mastruma sistemo
         por butonoj, menuoj kaj fenestroj.
+# Tooltip displayed on hover of light theme
+mr1-onboarding-theme-tooltip-light =
+    .title =
+        Uzi helan etoson por butonoj,
+        menuoj kaj fenestroj.
+# Input description for light theme
+mr1-onboarding-theme-description-light =
+    .aria-description =
+        Uzi helan etoson por butonoj,
+        menuoj kaj fenestroj.
+# Tooltip displayed on hover of dark theme
+mr1-onboarding-theme-tooltip-dark =
+    .title =
+        Uzi malhelan etoson por butonoj,
+        menuoj kaj fenestroj.
+# Input description for dark theme
+mr1-onboarding-theme-description-dark =
+    .aria-description =
+        Uzi malhelan etoson por butonoj,
+        menuoj kaj fenestroj.
+# Tooltip displayed on hover of Alpenglow theme
+mr1-onboarding-theme-tooltip-alpenglow =
+    .title =
+        Uzi dinamikan etoson por butonoj,
+        menuoj kaj fenestroj.
+# Input description for Alpenglow theme
+mr1-onboarding-theme-description-alpenglow =
+    .aria-description =
+        Uzi dinamikan etoson por butonoj,
+        menuoj kaj fenestroj.
