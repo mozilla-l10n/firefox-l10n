@@ -197,6 +197,7 @@ cfr-whatsnew-protections-icon-alt = Нишони сипар
 
 ## Better PDF message
 
+cfr-whatsnew-better-pdf-header = Таҷрибаи хубтари PDF
 
 ## DOH Message
 

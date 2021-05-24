@@ -204,6 +204,8 @@ newtab-empty-section-highlights = Тамошокунии сомонаҳоро о
 newtab-discovery-empty-section-topstories-header = Шумо ҳамаро хондед!
 newtab-discovery-empty-section-topstories-try-again-button = Аз нав кӯшиш кардан
 newtab-discovery-empty-section-topstories-loading = Бор шуда истодааст…
+# Displays when a layout in a section took too long to fetch articles.
+newtab-discovery-empty-section-topstories-timed-out = Хуш! Мо ин қисматро қариб бор кардем, аммо на он қадар зиёд.
 
 ## Pocket Content Section.
 
