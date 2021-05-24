@@ -4,6 +4,8 @@
 
 certmgr-tab-mine =
     .label = Yer Certificates
+certmgr-tab-people =
+    .label = Fowk
 certmgr-detail-general-tab-title =
     .label = General
     .accesskey = G
@@ -24,6 +26,9 @@ certmgr-email =
     .label = Email Address
 certmgr-serial =
     .label = Serial Nummer
+certmgr-view =
+    .label = View…
+    .accesskey = V
 certmgr-export =
     .label = Export…
     .accesskey = x
@@ -41,6 +46,9 @@ certmgr-restore =
     .accesskey = b
 exception-mgr-cert-location-url =
     .value = Airtin:
+exception-mgr-cert-status-view-cert =
+    .label = View…
+    .accesskey = V
 
 ## PKCS#12 file dialogs
 
