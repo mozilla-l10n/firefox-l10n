@@ -35,6 +35,8 @@ about-webrtc-sdp-heading = SDP
 
 ##
 
+about-webrtc-stats-clear = Dicht Historie
+about-webrtc-log-clear = Dicht Log
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:

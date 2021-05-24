@@ -75,6 +75,9 @@ security-view-identity-validity =
     .value = Expires on:
 security-view-privacy =
     .value = Preevacy & Historie
+security-view-privacy-clearsitedata =
+    .label = Dicht Cookies and Site Data
+    .accesskey = C
 help-button =
     .label = Hauners
 

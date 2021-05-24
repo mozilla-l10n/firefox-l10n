@@ -19,3 +19,7 @@ devmgr-button-changepw =
 
 devinfo-status-disabled =
     .label = Disabled
+devinfo-hwversion =
+    .label = HW Version
+devinfo-fwversion =
+    .label = FW Version

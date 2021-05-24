@@ -25,6 +25,7 @@ options-select-dev-tools-theme-label = Themes
 
 ## Editor section
 
+options-sourceeditor-tabsize-label = Tab size
 
 ## Advanced section
 

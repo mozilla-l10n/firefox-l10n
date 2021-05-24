@@ -10,6 +10,7 @@
 
 certificate-viewer-email-address = Email Address
 certificate-viewer-ip-address = IP Address
+certificate-viewer-version = Version
 
 ## Variables:
 ##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
