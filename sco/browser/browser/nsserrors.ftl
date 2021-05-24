@@ -72,3 +72,7 @@ ssl-error-rx-unexpected-cert-verify = SSL received an unexpectit Certificate Ver
 ssl-error-rx-unexpected-client-key-exch = SSL received an unexpectit Client Key Exchange haunshake greeance.
 ssl-error-rx-unexpected-finished = SSL received an unexpectit Feenisht haunshake greeance.
 ssl-error-rx-unexpected-change-cipher = SSL received an unexpectit Change Cipher Spec record.
+ssl-error-rx-unexpected-alert = SSL received an unexpectit Alert record.
+ssl-error-rx-unexpected-handshake = SSL received an unexpectit Haunshake record.
+ssl-error-rx-unexpected-application-data = SSL received an unexpectit Application Data record.
+ssl-error-rx-unknown-record-type = SSL received a record wi an unkent content type.
