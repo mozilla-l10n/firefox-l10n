@@ -150,6 +150,8 @@ bcc-compose-show-address-row-menuitem =
 bcc-compose-show-address-row-label =
     .value = { bcc-compose-address-row-label.value }
     .tooltiptext = Εμφάνιση { bcc-compose-address-row-label.value } πεδίου { bcc-compose-show-address-row-menuitem.acceltext }
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+many-public-recipients-info = Οι { $count } αποδέκτες στο Προς και Κοιν θα βλέπουν τις διευθύνσεις των υπολοίπων αποδεκτών. Μπορείτε να αποφύγετε την αποκάλυψη των διευθύνσεων των αποδεκτών χρησιμοποιώντας αντίθετα το Κρυφή Κοιν.
 many-public-recipients-bcc =
     .label = Χρήση "Κρ. Κοιν."
     .accesskey = Χ
