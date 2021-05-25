@@ -61,6 +61,8 @@ options-screenshot-label = Snímky obrazovky
 options-screenshot-clipboard-label = Uložiť snímku obrazovky do schránky
 options-screenshot-clipboard-tooltip =
     .title = Uloží snímku obrazovky priamo do schránky
+# Label for the checkbox that toggles screenshot to clipboard feature
+options-screenshot-clipboard-only-label = Uložiť snímku obrazovky iba do schránky
 options-screenshot-clipboard-tooltip2 =
     .title = Uloží snímku obrazovky priamo do schránky
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
