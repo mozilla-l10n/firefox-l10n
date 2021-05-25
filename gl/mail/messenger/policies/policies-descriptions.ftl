@@ -73,3 +73,4 @@ policy-PDFjs = Desactivar ou configurar PDF.js, o visor de PDF integrado no { -b
 policy-Permissions2 = Configurar os permisos para a cámara, o micrófono, a localización, as notificacións e a reprodución automática.
 policy-Preferences = Definir e bloquear o valor dun subconxunto de preferencias.
 policy-PromptForDownloadLocation = Preguntar onde gardar os ficheiros ao descargar.
+policy-Proxy = Configura os axustes do servidor mandatario.
