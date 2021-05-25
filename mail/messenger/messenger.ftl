@@ -16,6 +16,9 @@ about-rights-notification-text = { -brand-short-name } är fri programvara baser
 addons-and-themes-button =
     .label = Tillägg och teman
     .tooltip = Hantera dina tillägg
+redirect-msg-button =
+    .label = Omdirigera
+    .tooltiptext = Omdirigera valt meddelande
 
 ## Folder Pane
 
@@ -50,6 +53,12 @@ folder-toolbar-toggle-folder-compact-view =
     .label = Kompakt vy
     .accesskey = K
 
+## Menu
+
+redirect-msg-menuitem =
+    .label = Omdirigera
+    .accesskey = d
+
 ## AppMenu
 
 # Since v89 we dropped the platforms distinction between Options or Preferences
@@ -64,6 +73,18 @@ appmenu-help-exit-troubleshoot-mode =
     .label = Stäng av felsökningsläge
 appmenu-help-more-troubleshooting-info =
     .label = Mer felsökningsinformation
+appmenu-redirect-msg =
+    .label = Omdirigera
+
+## Context menu
+
+context-menu-redirect-msg =
+    .label = Omdirigera
+
+## Message header pane
+
+other-action-redirect-msg =
+    .label = Omdirigera
 
 ## Action Button Context Menu
 
