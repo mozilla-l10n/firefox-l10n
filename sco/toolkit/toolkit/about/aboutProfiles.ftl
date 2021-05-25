@@ -4,13 +4,23 @@
 
 profiles-restart-title = Restert
 profiles-restart-in-safe-mode = Restert Wi Eik-ons Disabled…
+profiles-restart-normal = Restert as ordinar…
 profiles-flush-fail-title = Chynges no saved
 profiles-flush-conflict = { profiles-conflict }
 profiles-flush-restart-button = Restert { -brand-short-name }
+# Variables:
+#   $name (String) - Name of the profile
+profiles-name = Profile: { $name }
+profiles-is-default = Staunart Profile
 profiles-remove = Remuive
+profiles-cannot-set-as-default-title = No able tae set as staunart
+profiles-cannot-set-as-default-message = The staunart profile cannae be chynged fur { -brand-short-name }.
 profiles-yes = aye
 profiles-no = naw
 profiles-rename-profile-title = Renemme Profile
+# Variables:
+#   $name (String) - Name of the profile
+profiles-invalid-profile-name = The profile nemme “{ $name }” isnae allooed.
 profiles-delete-profile-title = Dicht Profile
 profiles-delete-files = Dicht Files
 profiles-dont-delete-files = Dinnae Dicht Files

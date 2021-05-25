@@ -32,6 +32,9 @@ pippki-reset-password-confirmation-title = Reset Primary Passwird
 
 ## Downloading cert dialog
 
+download-cert-window =
+    .title = Doonloadin Certificate
+    .style = width: 46em
 download-cert-view-cert =
     .label = View
 

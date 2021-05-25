@@ -46,5 +46,6 @@ devinfo-fwversion =
     .label = FW Version
 devinfo-modpath =
     .label = Path
+login-failed = Couldnae Log In
 devinfo-serialnum =
     .label = Serial Nummer
