@@ -61,6 +61,8 @@ options-screenshot-label = Beteende för skärmdump
 options-screenshot-clipboard-label = Skärmdump till Urklipp
 options-screenshot-clipboard-tooltip =
     .title = Sparar skärmdump direkt till Urklipp
+# Label for the checkbox that toggles screenshot to clipboard feature
+options-screenshot-clipboard-only-label = Skärmdump endast till urklipp
 options-screenshot-clipboard-tooltip2 =
     .title = Sparar skärmdump direkt till urklipp
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
