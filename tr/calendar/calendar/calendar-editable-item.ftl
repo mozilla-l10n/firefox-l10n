@@ -16,3 +16,7 @@ calendar-editable-item-multiday-event-icon-continue =
     .alt = Çok günlü etkinlik devam ediyor
 calendar-editable-item-multiday-event-icon-end =
     .alt = Çok günlü etkinlik bitiyor
+calendar-editable-item-reminder-icon-alarm =
+    .alt = Bir anımsatma uyarısı zamanlandı
+calendar-editable-item-reminder-icon-email =
+    .alt = Bir anımsatma e-postası zamanlandı
