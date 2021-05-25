@@ -49,6 +49,12 @@ folder-toolbar-toggle-folder-compact-view =
     .label = 紧凑模式
     .accesskey = C
 
+## Menu
+
+redirect-msg-menuitem =
+    .label = 重定向
+    .accesskey = D
+
 ## AppMenu
 
 # Since v89 we dropped the platforms distinction between Options or Preferences
@@ -63,6 +69,18 @@ appmenu-help-exit-troubleshoot-mode =
     .label = 关闭故障排除模式
 appmenu-help-more-troubleshooting-info =
     .label = 更多排障信息
+appmenu-redirect-msg =
+    .label = 重定向
+
+## Context menu
+
+context-menu-redirect-msg =
+    .label = 重定向
+
+## Message header pane
+
+other-action-redirect-msg =
+    .label = 重定向
 
 ## Action Button Context Menu
 
