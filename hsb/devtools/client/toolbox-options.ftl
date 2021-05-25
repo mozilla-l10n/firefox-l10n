@@ -61,6 +61,8 @@ options-screenshot-label = Zadźerženje fota wobrazowki
 options-screenshot-clipboard-label = Foto wobrazowki do mjezyskłada
 options-screenshot-clipboard-tooltip =
     .title = Składuje foto wobrazowki direktnje do mjazyskłada
+# Label for the checkbox that toggles screenshot to clipboard feature
+options-screenshot-clipboard-only-label = Foto wobrazowki jenož do mjezyskłada
 options-screenshot-clipboard-tooltip2 =
     .title = Składuje foto wobrazowki direktnje do mjazyskłada
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
