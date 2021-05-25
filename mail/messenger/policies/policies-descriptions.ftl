@@ -26,6 +26,10 @@ policy-DefaultDownloadDirectory = Definir o cartafol de descarga predeterminado.
 policy-DisableAppUpdate = Impedir que o { -brand-short-name } se actualice.
 policy-DisableDefaultClientAgent = Impedir que o axente cliente predeterminado realice accións. Só se aplica a Windows; outras plataformas non teñen o axente.
 policy-DisableDeveloperTools = Bloquear o acceso ás ferramentas de desenvolvemento.
+policy-DisableFeedbackCommands = Desactivar as ordes para enviar opinións desde o menú de axuda (Enviar opinión e informar de sitio enganoso).
+policy-DisableForgetButton = Impedir o acceso ao botón Esquecer.
+policy-DisableFormHistory = Non lembrar o historial de buscas e formularios.
+policy-DisableMasterPasswordCreation = Se é verdadeiro, non se pode crear un contrasinal mestre.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
