@@ -16,6 +16,9 @@ about-rights-notification-text = A { -brand-short-name } szabad és nyílt forr�
 addons-and-themes-button =
     .label = Kiegészítők és témák
     .tooltip = Saját kiegészítők kezelése
+redirect-msg-button =
+    .label = Átirányítás
+    .tooltiptext = Kiválasztott üzenet átirányítása
 
 ## Folder Pane
 
@@ -50,6 +53,12 @@ folder-toolbar-toggle-folder-compact-view =
     .label = Tömör nézet
     .accesskey = T
 
+## Menu
+
+redirect-msg-menuitem =
+    .label = Átirányítás
+    .accesskey = i
+
 ## AppMenu
 
 # Since v89 we dropped the platforms distinction between Options or Preferences
@@ -64,6 +73,18 @@ appmenu-help-exit-troubleshoot-mode =
     .label = Hibakeresési mód kikapcsolása
 appmenu-help-more-troubleshooting-info =
     .label = További hibakeresési információ
+appmenu-redirect-msg =
+    .label = Átirányítás
+
+## Context menu
+
+context-menu-redirect-msg =
+    .label = Átirányítás
+
+## Message header pane
+
+other-action-redirect-msg =
+    .label = Átirányítás
 
 ## Action Button Context Menu
 
