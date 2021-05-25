@@ -30,6 +30,20 @@ policy-DisableFeedbackCommands = Desactivar as ordes para enviar opinións desde
 policy-DisableForgetButton = Impedir o acceso ao botón Esquecer.
 policy-DisableFormHistory = Non lembrar o historial de buscas e formularios.
 policy-DisableMasterPasswordCreation = Se é verdadeiro, non se pode crear un contrasinal mestre.
+policy-DisablePasswordReveal = Non permitir que os contrasinais se revelen nas identificacións gardadas.
+policy-DisableProfileImport = Desactivar a orde do menú para importar datos doutra aplicación.
+policy-DisableSafeMode = Desactivar a función para reiniciar no modo seguro. Nota: a tecla Maiús para entrar no modo seguro só se pode desactivar en Windows usando as políticas de grupo.
+policy-DisableSecurityBypass = Impedir que o usuario se salte certos avisos de seguranza.
+policy-DisableSystemAddonUpdate = Impedir que o { -brand-short-name } instale e actualice complementos do sistema.
+policy-DisableTelemetry = Desactivar a telemetría.
+policy-DisplayMenuBar = Amosar a barra de menú de xeito predeterminado.
+policy-DNSOverHTTPS = Configurar DNS sobre HTTPS.
+policy-DontCheckDefaultClient = Desactivar a comprobación do cliente predeterminado ao iniciar.
+policy-DownloadDirectory = Definir e bloquear o cartafol de descarga.
+# “lock” means that the user won’t be able to change this setting
+policy-EnableTrackingProtection = Activar ou desactivar o bloqueo de contido e, opcionalmente, bloquealo.
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = Activar ou desactivar Extensións de Medios Cifrados e, opcionalmente, bloquealo.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
