@@ -16,6 +16,9 @@ about-rights-notification-text = O { -brand-short-name } é um software livre e 
 addons-and-themes-button =
     .label = Extensões e temas
     .tooltip = Gerenciar extensões
+redirect-msg-button =
+    .label = Redirecionar
+    .tooltiptext = Redirecionar mensagens selecionadas
 
 ## Folder Pane
 
@@ -50,6 +53,12 @@ folder-toolbar-toggle-folder-compact-view =
     .label = Visão compacta
     .accesskey = c
 
+## Menu
+
+redirect-msg-menuitem =
+    .label = Redirecionar
+    .accesskey = d
+
 ## AppMenu
 
 # Since v89 we dropped the platforms distinction between Options or Preferences
@@ -64,6 +73,18 @@ appmenu-help-exit-troubleshoot-mode =
     .label = Desativar modo de solução de problemas
 appmenu-help-more-troubleshooting-info =
     .label = Mais informações para resolver problemas
+appmenu-redirect-msg =
+    .label = Redirecionar
+
+## Context menu
+
+context-menu-redirect-msg =
+    .label = Redirecionar
+
+## Message header pane
+
+other-action-redirect-msg =
+    .label = Redirecionar
 
 ## Action Button Context Menu
 

@@ -295,6 +295,7 @@ openpgp-keygen-external-success = ID da chave GnuPG externa foi salva!
 openpgp-radio-none =
     .label = Nenhuma
 openpgp-radio-none-desc = Não usar OpenPGP para esta identidade.
+openpgp-radio-key-not-usable = Esta chave não pode ser usada como chave pessoal, porque está faltando a chave secreta!
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = Expira em: { $date }
 openpgp-key-expires-image =
