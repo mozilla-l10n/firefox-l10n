@@ -68,3 +68,8 @@ policy-OfferToSaveLoginsDefault = Definir o valor predeterminado para permitir q
 policy-OverrideFirstRunPage = Anular a páxina de primeira execución. Deixe esta política en branco se quere desactivar a páxina de primeira execución.
 policy-OverridePostUpdatePage = Anula a páxina de «Novidades» posterior á actualización. Deixe esta política en branco se quere desactivar a páxina posterior á actualización.
 policy-PasswordManagerEnabled = Activar o gardado de contrasinais no xestor de contrasinais.
+# PDF.js and PDF should not be translated
+policy-PDFjs = Desactivar ou configurar PDF.js, o visor de PDF integrado no { -brand-short-name }.
+policy-Permissions2 = Configurar os permisos para a cámara, o micrófono, a localización, as notificacións e a reprodución automática.
+policy-Preferences = Definir e bloquear o valor dun subconxunto de preferencias.
+policy-PromptForDownloadLocation = Preguntar onde gardar os ficheiros ao descargar.
