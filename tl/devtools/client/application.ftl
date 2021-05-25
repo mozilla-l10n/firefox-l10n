@@ -34,7 +34,7 @@ serviceworker-worker-start2 = Simulan
     .title = Maaari lamang makapagsimula ng mga service worker kung naka-disable ang multi e10s
 # Alt text for the image icon displayed inside a debug link for a service worker.
 serviceworker-worker-inspect-icon =
-    .alt = i-Inspect
+    .alt = Suriin
 # Text for the start link displayed for a registered but not running Service Worker.
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start3 = Simulan
