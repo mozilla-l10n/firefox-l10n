@@ -61,6 +61,8 @@ options-screenshot-label = Screenshot Behavior
 options-screenshot-clipboard-label = Screenshot to clipboard
 options-screenshot-clipboard-tooltip =
     .title = Saves to the screenshot directly to the clipboard
+# Label for the checkbox that toggles screenshot to clipboard feature
+options-screenshot-clipboard-only-label = Screenshot to clipboard only
 options-screenshot-clipboard-tooltip2 =
     .title = Tallentaa kuvakaappauksen suoraan leikepöydälle
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
