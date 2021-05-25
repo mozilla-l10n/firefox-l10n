@@ -51,7 +51,7 @@ policy-Extensions = Instalar, desinstalar ou bloquear extensións. A opción de 
 policy-ExtensionSettings = Xestionar todos os aspectos da instalación de extensións.
 policy-ExtensionUpdate = Activar ou desactivar as actualizacións automáticas de extensións.
 policy-HardwareAcceleration = Se é falso, desactiva a aceleración por hardware.
-policy-InstallAddonsPermission = Permite que certos sitios web instalen complementos.
+policy-InstallAddonsPermission = Permitir que certos sitios web instalen complementos.
 policy-LegacyProfiles = Desactivar a funcionalidade que obriga a ter un perfil separado para cada instalación.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
@@ -61,3 +61,4 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Reverter o comportamen
 
 ##
 
+policy-LocalFileLinks = Permitir que sitios web específicos liguen a ficheiros locais.
