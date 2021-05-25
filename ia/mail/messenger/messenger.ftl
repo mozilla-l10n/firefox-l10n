@@ -16,6 +16,9 @@ about-rights-notification-text = { -brand-short-name } es un software gratuite e
 addons-and-themes-button =
     .label = Additivos e themas
     .tooltip = Gerer additivos e themas
+redirect-msg-button =
+    .label = Re-diriger
+    .tooltiptext = Re-dirige le message seligite
 
 ## Folder Pane
 
@@ -50,6 +53,9 @@ folder-toolbar-toggle-folder-compact-view =
     .label = Visualisation compacte
     .accesskey = c
 
+## Menu
+
+
 ## AppMenu
 
 # Since v89 we dropped the platforms distinction between Options or Preferences
@@ -64,6 +70,12 @@ appmenu-help-exit-troubleshoot-mode =
     .label = Disactivar le modo diagnostic
 appmenu-help-more-troubleshooting-info =
     .label = Altere informationes diagnostic
+
+## Context menu
+
+
+## Message header pane
+
 
 ## Action Button Context Menu
 
