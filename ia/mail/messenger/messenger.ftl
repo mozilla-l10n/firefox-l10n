@@ -55,6 +55,9 @@ folder-toolbar-toggle-folder-compact-view =
 
 ## Menu
 
+redirect-msg-menuitem =
+    .label = Re-diriger
+    .accesskey = d
 
 ## AppMenu
 
@@ -70,12 +73,18 @@ appmenu-help-exit-troubleshoot-mode =
     .label = Disactivar le modo diagnostic
 appmenu-help-more-troubleshooting-info =
     .label = Altere informationes diagnostic
+appmenu-redirect-msg =
+    .label = Re-diriger
 
 ## Context menu
 
+context-menu-redirect-msg =
+    .label = Re-diriger
 
 ## Message header pane
 
+other-action-redirect-msg =
+    .label = Re-diriger
 
 ## Action Button Context Menu
 
