@@ -3,5 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # This is temporary until bug 1521632 is fixed
 
+elevation-update-wizard =
+    .title = Saftware Update
 elevation-details-link-label =
     .value = Details
+elevation-finished-page = Update Redd tae Instaw
+elevation-finished-background = Update:
