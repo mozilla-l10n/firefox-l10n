@@ -61,6 +61,8 @@ options-screenshot-label = Compòrtament per las capturas d’ecran
 options-screenshot-clipboard-label = Captura d'ecran cap al pòrtapapièr
 options-screenshot-clipboard-tooltip =
     .title = Servar la captura d'ecran dirèctament al pòrtapapièr
+# Label for the checkbox that toggles screenshot to clipboard feature
+options-screenshot-clipboard-only-label = Captura d'ecran cap al quichapapièrs sonque
 options-screenshot-clipboard-tooltip2 =
     .title = Servar la captura d'ecran dirèctament al pòrtapapièr
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
