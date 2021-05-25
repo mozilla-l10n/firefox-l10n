@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+tab-context-new-tab =
+    .label = Жаңа бет
+    .accesskey = Ж
 reload-tab =
     .label = Бетті қайта жүктеу
     .accesskey = й
@@ -51,9 +54,6 @@ bookmark-tab =
 reopen-in-container =
     .label = Контейнерде қайтадан ашу
     .accesskey = а
-tab-context-open-in-container =
-    .label = Жаңа контейнерде ашу
-    .accesskey = е
 move-to-start =
     .label = Басына жылжыту
     .accesskey = с
@@ -66,15 +66,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Бірнеше бетті жабу
     .accesskey = ш
-tab-context-share-url =
-    .label = Бөлісу
-    .accesskey = л
-tab-context-share-more =
-    .label = Көбірек…
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->
@@ -94,6 +85,15 @@ move-tabs =
 move-tab =
     .label = Бетті жылжыту
     .accesskey = ы
+tab-context-share-url =
+    .label = Бөлісу
+    .accesskey = л
+tab-context-share-more =
+    .label = Көбірек…
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->

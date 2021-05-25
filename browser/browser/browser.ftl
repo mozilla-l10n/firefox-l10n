@@ -665,6 +665,15 @@ save-to-pocket-button =
 toolbar-addons-themes-button =
     .label = Қосымшалар және темалар
     .tooltiptext = Қосымшалар және темаларыңызды басқару ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open settings (only on macOS)
+toolbar-settings-button =
+    .label = Баптаулар
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Баптауларды ашу ({ $shortcut })
+           *[other] Баптауларды ашу
+        }
 
 ## More items
 

@@ -248,11 +248,19 @@ onboarding-multistage-theme-description-alpenglow =
 
 ## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 
+# This button will open system settings to turn on prefers-reduced-motion
+mr1-onboarding-reduce-motion-button-label = Анимацияларды сөндіру
+mr1-onboarding-welcome-header = { -brand-short-name } өніміне қош келдіңіз
 mr1-onboarding-set-default-secondary-button-label = Қазір емес
 mr1-onboarding-sign-in-button-label = Кіру
+# The primary import button label will depend on whether we can detect which browser was used to download Firefox.
+# Variables:
+#   $previous (Str) - Previous browser name, such as Edge, Chrome
+mr1-onboarding-import-primary-button-label-attribution = { $previous } ішінен импорттау
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = Бұрынғы браузерден импорттау
 mr1-onboarding-import-secondary-button-label = Қазір емес
+mr1-onboarding-theme-subtitle = { -brand-short-name } өнімін тема көмегімен жеке қылыңыз.
 mr1-onboarding-theme-primary-button-label = Теманы сақтау
 mr1-onboarding-theme-secondary-button-label = Қазір емес
 # System theme uses operating system color settings
@@ -267,3 +275,33 @@ mr1-onboarding-theme-label-alpenglow = Alpenglow
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of system theme
+mr1-onboarding-theme-tooltip-system =
+    .title =
+        Батырмалар, мәзірлер және терезелер үшін
+        операциялық жүйе баптауларын қолдану.
+# Input description for system theme
+mr1-onboarding-theme-description-system =
+    .aria-description =
+        Батырмалар, мәзірлер және терезелер үшін
+        операциялық жүйе баптауларын қолдану.
+# Tooltip displayed on hover of light theme
+mr1-onboarding-theme-tooltip-light =
+    .title =
+        Батырмалар, мәзірлер және терезелер үшін
+        ашық түсті теманы қолдану.
+# Input description for light theme
+mr1-onboarding-theme-description-light =
+    .aria-description =
+        Батырмалар, мәзірлер және терезелер үшін
+        ашық түсті теманы қолдану.
+# Tooltip displayed on hover of dark theme
+mr1-onboarding-theme-tooltip-dark =
+    .title =
+        Батырмалар, мәзірлер және терезелер үшін
+        күңгірт түсті теманы қолдану.
+# Input description for dark theme
+mr1-onboarding-theme-description-dark =
+    .aria-description =
+        Батырмалар, мәзірлер және терезелер үшін
+        күңгірт түсті теманы қолдану.
