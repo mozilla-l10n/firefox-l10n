@@ -8,6 +8,4 @@ account-finish-account-setup = Completa configurazione account
 
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
-account-reconnect-to-fxa = Account disconnesso
-
 account-disconnected2 = Account disconnesso

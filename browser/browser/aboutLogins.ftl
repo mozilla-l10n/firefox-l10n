@@ -74,7 +74,6 @@ about-logins-list-item-vulnerable-password-icon =
 
 login-intro-heading = Stai cercando le credenziali che hai salvato? Configura { -sync-brand-short-name }.
 
-about-logins-login-intro-heading-logged-out = Stai cercando le credenziali che hai salvato? Configura { -sync-brand-short-name } o importale.
 about-logins-login-intro-heading-logged-out2 = Stai cercando le credenziali che hai salvato? Attiva la sincronizzazione o importale.
 about-logins-login-intro-heading-logged-in = Credenziali sincronizzate non trovate.
 login-intro-description = Se le credenziali sono salvate in { -brand-product-name } su un altro dispositivo, ecco come renderle disponibili qui:
@@ -309,7 +308,6 @@ about-logins-import-dialog-error-unable-to-read-title = Impossibile elaborare il
 about-logins-import-dialog-error-unable-to-read-description = Assicurarsi di aver selezionato un file CSV o TSV.
 about-logins-import-dialog-error-no-logins-imported = Non è stata importata alcuna credenziale
 about-logins-import-dialog-error-learn-more = Ulteriori informazioni
-about-logins-import-dialog-error-try-again = Riprova…
 about-logins-import-dialog-error-try-import-again = Riprova importazione…
 about-logins-import-dialog-error-cancel = Annulla
 
