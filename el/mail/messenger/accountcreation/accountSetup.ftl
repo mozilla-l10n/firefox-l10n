@@ -80,6 +80,15 @@ account-setup-checking-password = Έλεγχος κωδικού πρόσβαση
 account-setup-installing-addon = Λήψη και εγκατάσταση πρόσθετου…
 account-setup-success-half-manual = Κατά τον έλεγχο του διακομιστή εντοπίστηκαν οι παρακάτω ρυθμίσεις:
 account-setup-success-guess = Ρυθμίσεις που βρέθηκαν κατά τη δοκιμή των κοινών ονομάτων.
+account-setup-success-guess-offline = Είστε εκτός σύνδεσης. Τοποθετήσαμε μερικές ρυθμίσεις αλλά θα χρειαστεί να εισάγετε τις σωστές.
+account-setup-success-password = Ο κωδικός πρόσβασης είναι εντάξει.
+account-setup-success-addon = Το πρόσθετο εγκαταστάθηκε επιτυχώς
+# Note: Do not translate or replace Mozilla. It stands for the public project mozilla.org, not Mozilla Corporation. The database is a generic, public domain facility usable by any client.
+account-setup-success-settings-db = Βρέθηκε ρύθμιση στην βάση δεδομένων του Mozilla ISP.
+account-setup-success-settings-disk = Βρέθηκε ρύθμιση στην εγκατάσταση του { -brand-short-name }.
+account-setup-success-settings-isp = Βρέθηκε ρύθμιση στον πάροχο ηλεκτρονικού ταχυδρομείου.
+# Note: Microsoft Exchange is a product name.
+account-setup-success-settings-exchange = Βρέθηκε ρύθμιση για τον διακομιστή Microsoft Exchange.
 
 ## Illustrations
 
@@ -87,18 +96,25 @@ account-setup-step1-image =
     .title = Αρχική ρύθμιση
 account-setup-step2-image =
     .title = Φόρτωση…
+account-setup-step3-image =
+    .title = Βρέθηκε ρύθμιση
 account-setup-step4-image =
     .title = Σφάλμα σύνδεσης
+account-setup-privacy-footnote = Τα διαπιστευτήριά σας θα χρησιμοποιηθούν σύμφωνα με την <a data-l10n-name="privacy-policy-link">πολιτική απορρήτου</a> μας και θα αποθηκευτούν μόνο τοπικά στον υπολογιστή σας.
+account-setup-selection-help = Δεν είστε σίγουροι τι να επιλέξετε;
 account-setup-selection-error = Χρειάζεστε βοήθεια;
 account-setup-documentation-help = Τεκμηρίωση ρύθμισης
 account-setup-forum-help = Φόρουμ υποστήριξης
 
 ## Results area
 
+account-setup-protocol-title = Επιλέξτε το πρωτόκολλο
 # Note: IMAP is the name of a protocol.
 account-setup-result-imap = IMAP
+account-setup-result-imap-description = Διατηρήστε συγχρονισμένους τους φακέλους και τα μηνύματα με τον διακομιστή σας
 # Note: POP3 is the name of a protocol.
 account-setup-result-pop = POP3
+account-setup-result-pop-description = Διατηρήστε τους φακέλους και τα μηνύματα στον υπολογιστή σας
 # Note: Exchange is the name of a product.
 account-setup-result-exchange = Exchange
 account-setup-result-exchange-description = Διακομιστής Microsoft Exchange
@@ -109,6 +125,11 @@ account-setup-exchange-title = Διακομιστής
 
 ## Error messages
 
+# Note: The reference to "janedoe" (Jane Doe) is the name of an example person. You will want to translate it to whatever example persons would be named in your language. In the example, AD is the name of the Windows domain, and this should usually not be translated.
+account-setup-credentials-incomplete = Η αυθεντικοποίηση απέτυχε. Είτε τα διαπιστευτήρια που εισαγάγατε είναι λάθος είτε απαιτείται ξεχωριστό όνομα χρήστη για είσοδο. Το όνομα χρήστη συνήθως είναι το όνομα χρήστη για τον τομέα στα Windows, με ή χωρίς το όνομα τομέα (για παράδειγμα janedoe ή AD\\janedoe).
+account-setup-credentials-wrong = Η αυθεντικοποίηση απέτυχε. Παρακαλούμε ελέγξτε το όνομα χρήστη και τον κωδικό πρόσβασης
+account-setup-find-settings-failed = Το { -brand-short-name } απέτυχε να εντοπίσει τις ρυθμίσεις του λογαριασμού ηλεκτρονικής αλληλογραφίας σας
+account-setup-exchange-config-unverifiable = Δεν ήταν δυνατή η επαλήθευση των ρυθμίσεων. Αν το όνομα χρήστη και ο κωδικός πρόσβασης είναι σωστά, ενδέχεται ο διαχειριστής του διακομιστή σας να έχει απενεργοποιήσει την επιλεγμένη ρύθμιση για το λογαριασμό σας. Δοκιμάστε επιλέγοντας άλλο πρωτόκολλο.
 
 ## Manual config area
 
@@ -125,8 +146,11 @@ account-setup-outoing-port-label = Θύρα εξερχομένων
 account-setup-incoming-ssl-label = SSL εισερχομένων
 account-setup-outgoing-ssl-label = SSL εξερχομένων
 ssl-autodetect-option = Αυτόματος εντοπισμός
+ssl-noencryption-option = Κανένα
 ssl-starttls-option = STARTTLS
 ssl-tls-option = SSL/TLS
+account-setup-incoming-auth-label = Αυθεντικοποίηση εισερχομένων
+account-setup-outgoing-auth-label = Αυθεντικοποίηση εξερχομένων
 account-setup-incoming-username-label = Όνομα χρήστη εισερχομένων
 account-setup-outgoing-username-label = Όνομα χρήστη εξερχομένων
 account-setup-advanced-setup-button = Σύνθετη διαμόρφωση

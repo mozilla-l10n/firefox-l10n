@@ -29,6 +29,26 @@ about-addressbook-books-context-delete =
 
 ## Cards
 
+# Variables:
+# $name (String) - Name of the address book that will be searched.
+about-addressbook-search =
+    .placeholder = Αναζήτηση για { $name }
+about-addressbook-search-all =
+    .placeholder = Αναζήτηση όλων των βιβλίων διευθύνσεων
+about-addressbook-name-format-display =
+    .label = Εμφανιζόμενο όνομα
+about-addressbook-name-format-firstlast =
+    .label = Όνομα Επώνυμο
+about-addressbook-name-format-lastfirst =
+    .label = Επώνυμο, Όνομα
+about-addressbook-sort-name-ascending =
+    .label = Ταξινόμηση κατά όνομα (Α > Ω)
+about-addressbook-sort-name-descending =
+    .label = Ταξινόμηση κατά όνομα (Ω > Α)
+about-addressbook-sort-email-ascending =
+    .label = Ταξινόμηση κατά διεύθυνση ηλεκτρονικής αλληλογραφίας (A > Z)
+about-addressbook-sort-email-descending =
+    .label = Ταξινόμηση κατά διεύθυνση ηλεκτρονικής αλληλογραφίας (Z > A)
 
 ## Details
 
@@ -38,4 +58,5 @@ about-addressbook-save-edit-contact-button = Αποθήκευση
 about-addressbook-details-email-addresses-header = Διευθύνσεις email
 about-addressbook-details-phone-numbers-header = Αριθμοί τηλεφώνου
 about-addressbook-details-home-address-header = Διεύθυνση οικίας
+about-addressbook-details-work-address-header = Διεύθυνση Εργασίας
 about-addressbook-details-other-info-header = Άλλες πληροφορίες

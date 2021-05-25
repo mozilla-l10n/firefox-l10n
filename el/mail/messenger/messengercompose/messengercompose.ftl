@@ -117,6 +117,39 @@ button-return-receipt =
     .tooltiptext = Απαίτηση ενός αποδεικτικού επιστροφής για αυτό το μήνυμα
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 consider-bcc-notification = Οι { $count } παραλήπτες στα πεδία "Προς" και "Κοιν." μπορούν να δουν τις διευθύνσεις των άλλων. Μπορείτε να αποφύγετε την αποκάλυψη των παραληπτών με την "Κρ. Κοιν.".
+
+# Addressing Area
+
+to-compose-address-row-label =
+    .value = Προς
+#   $key (String) - the shortcut key for this field
+to-compose-show-address-row-menuitem =
+    .label = { to-compose-address-row-label.value } Πεδίο
+    .accesskey = ε
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+to-compose-show-address-row-label =
+    .value = { to-compose-address-row-label.value }
+    .tooltiptext = Εμφάνιση { to-compose-address-row-label.value } πεδίου { to-compose-show-address-row-menuitem.acceltext }
+cc-compose-address-row-label =
+    .value = Κοιν
+#   $key (String) - the shortcut key for this field
+cc-compose-show-address-row-menuitem =
+    .label = { cc-compose-address-row-label.value } Πεδίο
+    .accesskey = δ
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+cc-compose-show-address-row-label =
+    .value = { cc-compose-address-row-label.value }
+    .tooltiptext = Εμφάνιση { cc-compose-address-row-label.value } Πεδίου { cc-compose-show-address-row-menuitem.acceltext }
+bcc-compose-address-row-label =
+    .value = Κρυφή Κοιν
+#   $key (String) - the shortcut key for this field
+bcc-compose-show-address-row-menuitem =
+    .label = { bcc-compose-address-row-label.value } Πεδίο
+    .accesskey = ο
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+bcc-compose-show-address-row-label =
+    .value = { bcc-compose-address-row-label.value }
+    .tooltiptext = Εμφάνιση { bcc-compose-address-row-label.value } πεδίου { bcc-compose-show-address-row-menuitem.acceltext }
 many-public-recipients-bcc =
     .label = Χρήση "Κρ. Κοιν."
     .accesskey = Χ
