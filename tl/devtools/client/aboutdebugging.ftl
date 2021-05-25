@@ -215,7 +215,7 @@ about-debugging-debug-target-list-empty = Wala pa.
 # Text of a button displayed next to debug targets of "runtime" pages. Clicking on this
 # button will open a DevTools toolbox that will allow inspecting the target.
 # A target can be an addon, a tab, a worker...
-about-debugging-debug-target-inspect-button = I-inspect
+about-debugging-debug-target-inspect-button = Suriin
 # Text of a button displayed in the "This Firefox" page, in the Temporary Extension
 # section. Clicking on the button will open a file picker to load a temporary extension
 about-debugging-tmp-extension-install-button = Mag-load ng Pansamantalang Add-on...
