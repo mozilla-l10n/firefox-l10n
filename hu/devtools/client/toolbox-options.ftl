@@ -61,6 +61,8 @@ options-screenshot-label = Képernyőkép viselkedése
 options-screenshot-clipboard-label = Képernyőkép a vágólapra
 options-screenshot-clipboard-tooltip =
     .title = A képernyőkép mentése közvetlenül a vágólapra
+# Label for the checkbox that toggles screenshot to clipboard feature
+options-screenshot-clipboard-only-label = Képernyőkép csak a vágólapra helyezése
 options-screenshot-clipboard-tooltip2 =
     .title = A képernyőképet közvetlenül a vágólapra menti
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
