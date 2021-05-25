@@ -18,6 +18,9 @@ about-rights-notification-text = { -brand-short-name } je darmotna softwara wote
 addons-and-themes-button =
     .label = Přidatki a drasty
     .tooltip = Waše přidatki rjadować
+redirect-msg-button =
+    .label = Dale sposrědkować
+    .tooltiptext = Wubranu powěsć dale sposrědkować
 
 ## Folder Pane
 
@@ -52,6 +55,12 @@ folder-toolbar-toggle-folder-compact-view =
     .label = Kompaktny napohlad
     .accesskey = K
 
+## Menu
+
+redirect-msg-menuitem =
+    .label = Dale sposrědkować
+    .accesskey = D
+
 ## AppMenu
 
 # Since v89 we dropped the platforms distinction between Options or Preferences
@@ -66,6 +75,18 @@ appmenu-help-exit-troubleshoot-mode =
     .label = Modus za rozrisanje problemow znjemóžnić
 appmenu-help-more-troubleshooting-info =
     .label = Dalše informacije za rozrisowanje problemow
+appmenu-redirect-msg =
+    .label = Dale sposrědkować
+
+## Context menu
+
+context-menu-redirect-msg =
+    .label = Dale sposrědkować
+
+## Message header pane
+
+other-action-redirect-msg =
+    .label = Dale sposrědkować
 
 ## Action Button Context Menu
 
