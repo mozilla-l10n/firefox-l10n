@@ -72,7 +72,7 @@ experimental-features-webrtc-global-mute-toggles-description = Adiciona controle
 # Win32k Lockdown
 experimental-features-win32k-lockdown =
     .label = Confinamento de Win32k
-experimental-features-win32k-lockdown-description = Desativa o uso de APIs Win32k nas abas do navegador. Fornece um aumento na segurança, mas no momento pode apresentar instabilidade ou falhas. (apenas em Windows)
+experimental-features-win32k-lockdown-description = Desativar o uso de APIs Win32k nas abas do navegador. Fornece um aumento na segurança, mas no momento pode apresentar instabilidade ou falhas (apenas em Windows).
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
