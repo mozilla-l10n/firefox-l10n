@@ -317,6 +317,7 @@ can-sandbox-content = 콘텐트 프로세스 샌드박싱
 can-sandbox-media = 미디어 플러그인 샌드박싱
 content-sandbox-level = 콘텐츠 프로세스 샌드박스 수준
 effective-content-sandbox-level = 효과적인 콘텐츠 프로세스 샌드박스 수준
+content-win32k-lockdown-state = 콘텐츠 프로세스에 대한 Win32k 잠금 상태
 sandbox-proc-type-content = 내용
 sandbox-proc-type-file = 파일 내용
 sandbox-proc-type-media-plugin = 미디어 플러그인
