@@ -61,6 +61,8 @@ options-screenshot-label = 스크린샷 동작
 options-screenshot-clipboard-label = 스크린샷을 클립보드에 저장
 options-screenshot-clipboard-tooltip =
     .title = 스크린샷을 클립보드에 바로 저장합니다
+# Label for the checkbox that toggles screenshot to clipboard feature
+options-screenshot-clipboard-only-label = 스크린샷을 클립보드에 저장만
 options-screenshot-clipboard-tooltip2 =
     .title = 스크린샷을 클립보드에 바로 저장합니다
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
