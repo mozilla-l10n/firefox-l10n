@@ -311,6 +311,9 @@ openpgp-keygen-external-success = Eksterny ID GnuPG-kluča je so składował!
 openpgp-radio-none =
     .label = Žadyn
 openpgp-radio-none-desc = OpenPGP za tutu identitu njewužiwać.
+openpgp-radio-key-not-usable = Tutón kluč njeda so za wosobinski kluč wužiwać, dokelž tajny kluč faluje!
+openpgp-radio-key-not-accepted = Zo byšće tutón kluč wužiwał, dyrbiće jón jako wosobinski kluč schwalić!
+openpgp-radio-key-not-found = Tutón kluč njeda so namakać! Jeli chceće jón wužiwać, dyrbiće jón do { -brand-short-name } importować.
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = Spadnje: { $date }
 openpgp-key-expires-image =
@@ -650,5 +653,6 @@ dlg-button-retry = &Hišće raz spytać
 dlg-button-skip = &Přeskočić
 # Strings used in enigmailCommon.js
 enig-error = OpenPGP-zmylk
+# Strings used in enigmailMsgBox.js
 enig-alert-title =
     .title = OpenPGP-zdźělenka
