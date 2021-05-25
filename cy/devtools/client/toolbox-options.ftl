@@ -61,6 +61,8 @@ options-screenshot-label = Ymddygiad Llun Sgrin
 options-screenshot-clipboard-label = Llun sgrin i'r clipfwrdd
 options-screenshot-clipboard-tooltip =
     .title = Yn cadw i'r llun sgrin yn uniongyrchol i'r clipfwrdd
+# Label for the checkbox that toggles screenshot to clipboard feature
+options-screenshot-clipboard-only-label = Llun sgrin i'r clipfwrdd yn unig
 options-screenshot-clipboard-tooltip2 =
     .title = Yn cadw i'r llun sgrin yn uniongyrchol i'r clipfwrdd
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
