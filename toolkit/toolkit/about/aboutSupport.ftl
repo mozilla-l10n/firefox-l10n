@@ -337,6 +337,7 @@ can-sandbox-content = Sandkasse for innhaldsprosessar
 can-sandbox-media = Sandkasse for media-programtillegg
 content-sandbox-level = Nivå for sandkasse for innhaldsprosessar
 effective-content-sandbox-level = Effektiv sandbox-nivå for innhaldsprosess
+content-win32k-lockdown-state = Win32k-låsestatus for innhaldsprosessar
 sandbox-proc-type-content = innhald
 sandbox-proc-type-file = filinnhald
 sandbox-proc-type-media-plugin = programtillegg for media
