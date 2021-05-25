@@ -327,6 +327,9 @@ openpgp-keygen-external-success = ID Allwedd GnuPG Allanol wedi'i chadw!
 openpgp-radio-none =
     .label = Dim
 openpgp-radio-none-desc = Peidiwch â defnyddio OpenPGP ar gyfer yr hunaniaeth hon.
+openpgp-radio-key-not-usable = Nid yw'r allwedd hon yn ddefnyddiadwy fel allwedd bersonol, oherwydd mae'r allwedd gyfrinachol ar goll!
+openpgp-radio-key-not-accepted = I ddefnyddio'r allwedd hon mae'n rhaid i chi ei chymeradwyo fel allwedd bersonol!
+openpgp-radio-key-not-found = Nid oedd modd canfod yr allwedd hon! Os ydych am ei defnyddio rhaid i chi ei mewnforio i { -brand-short-name }.
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = Yn dod i ben ar: { $date }
 openpgp-key-expires-image =
@@ -666,5 +669,6 @@ dlg-button-retry = &Ceisio eto
 dlg-button-skip = &Hepgor
 # Strings used in enigmailCommon.js
 enig-error = Gwall OpenPGP
+# Strings used in enigmailMsgBox.js
 enig-alert-title =
     .title = Rhybudd OpenPGP
