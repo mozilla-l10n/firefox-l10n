@@ -105,6 +105,12 @@ main-context-menu-bookmark-add =
     .aria-label = i-Bookmark ang Pahinang Ito
     .accesskey = m
     .tooltiptext = i-Bookmark ang pahinang ito
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-add-mac =
+    .label = i-Bookmark ang Pahina
+    .accesskey = B
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-add-with-shortcut =
