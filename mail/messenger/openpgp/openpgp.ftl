@@ -296,6 +296,8 @@ openpgp-radio-none =
     .label = Nenhuma
 openpgp-radio-none-desc = Não usar OpenPGP para esta identidade.
 openpgp-radio-key-not-usable = Esta chave não pode ser usada como chave pessoal, porque está faltando a chave secreta!
+openpgp-radio-key-not-accepted = Para usar esta chave, você precisa aprovar como sendo uma chave pessoal!
+openpgp-radio-key-not-found = Esta chave não foi encontrada! Se quiser usar, você precisa importar para o { -brand-short-name }.
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = Expira em: { $date }
 openpgp-key-expires-image =
