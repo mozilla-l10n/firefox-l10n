@@ -61,6 +61,8 @@ options-screenshot-label = Hành vi chụp màn hình
 options-screenshot-clipboard-label = Sao chép ảnh chụp màn hình vào bộ nhớ tạm
 options-screenshot-clipboard-tooltip =
     .title = Lưu ảnh chụp màn hình trực tiếp vào bộ nhớ tạm
+# Label for the checkbox that toggles screenshot to clipboard feature
+options-screenshot-clipboard-only-label = Chỉ chụp màn hình vào khay nhớ tạm
 options-screenshot-clipboard-tooltip2 =
     .title = Lưu ảnh chụp màn hình trực tiếp vào khay nhớ tạm
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
