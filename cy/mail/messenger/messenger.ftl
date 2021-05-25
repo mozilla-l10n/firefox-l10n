@@ -59,6 +59,9 @@ folder-toolbar-toggle-folder-compact-view =
 
 ## Menu
 
+redirect-msg-menuitem =
+    .label = Ailgyfeirio
+    .accesskey = A
 
 ## AppMenu
 
@@ -74,12 +77,18 @@ appmenu-help-exit-troubleshoot-mode =
     .label = Diffodd y Modd Datrys Problemau
 appmenu-help-more-troubleshooting-info =
     .label = Rhagor o Wybodaeth i Ddatrys Problemau
+appmenu-redirect-msg =
+    .label = Ailgyfeirio
 
 ## Context menu
 
+context-menu-redirect-msg =
+    .label = Ailgyfeirio
 
 ## Message header pane
 
+other-action-redirect-msg =
+    .label = Ailgyfeirio
 
 ## Action Button Context Menu
 
