@@ -20,6 +20,12 @@ policy-BlockAboutProfiles = Bloquear o acceso á páxina about:profiles.
 policy-BlockAboutSupport = Bloquear o acceso á páxina about:support.
 policy-CaptivePortal = Activar ou desactivar o soporte de portal en catividade.
 policy-CertificatesDescription = Engadir certificados ou usar os certificados integrados.
+policy-Cookies = Permitir ou denegar aos sitios web estabelecer rastros («cookies»).
+policy-DisabledCiphers = Desactivar a cifraxe.
+policy-DefaultDownloadDirectory = Definir o cartafol de descarga predeterminado.
+policy-DisableAppUpdate = Impedir que o { -brand-short-name } se actualice.
+policy-DisableDefaultClientAgent = Impedir que o axente cliente predeterminado realice accións. Só se aplica a Windows; outras plataformas non teñen o axente.
+policy-DisableDeveloperTools = Bloquear o acceso ás ferramentas de desenvolvemento.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
