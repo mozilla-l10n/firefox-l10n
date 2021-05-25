@@ -61,6 +61,8 @@ options-screenshot-label = 畫面擷圖行為
 options-screenshot-clipboard-label = 將畫面擷圖拍到剪貼簿
 options-screenshot-clipboard-tooltip =
     .title = 直接將畫面擷圖拍到剪貼簿
+# Label for the checkbox that toggles screenshot to clipboard feature
+options-screenshot-clipboard-only-label = 只拍攝畫面擷圖到剪貼簿
 options-screenshot-clipboard-tooltip2 =
     .title = 直接將畫面擷圖拍到剪貼簿
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
