@@ -14,6 +14,12 @@ certmgr-detail-pretty-print-tab-title =
     .accesskey = D
 certmgr-subject-label = Issued Tae
 certmgr-fingerprints = Fingirprents
+certmgr-cert-detail-serial-number = Serial Nummer
+certmgr-cert-detail-sha-256-fingerprint = SHA-256 Fingirprent
+certmgr-cert-detail-sha-1-fingerprint = SHA1 Fingirprent
+certmgr-delete-cert =
+    .title = Dicht Certificate
+    .style = width: 48em; height: 24em;
 certmgr-cert-name =
     .label = Certificate Nemme
 certmgr-begins-on = Sterts On
@@ -53,18 +59,34 @@ exception-mgr-cert-status-view-cert =
 ## PKCS#12 file dialogs
 
 file-browse-pkcs12-spec = PKCS12 Files
+choose-p12-restore-file-dialog = Certificate File tae Inbring
 
 ## Import certificate(s) file dialog
 
+file-browse-certificate-spec = Certificate Files
 
 ## For editing certificates trust
 
 
 ## For Deleting Certificates
 
+delete-user-cert-title =
+    .title = Dicht yer Certificates
+delete-user-cert-confirm = Are ye shair ye're wantin tae dicht these certificates?
+delete-email-cert-title =
+    .title = Dicht E-Mail Certificates
+delete-email-cert-confirm = Are ye shair ye're wantin tae dicht these fowk's e-mail certificates?
+# Used for semi-uniquely representing a cert.
+#
+# Variables:
+#   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
+cert-with-serial =
+    .value = Certificate wi serial nummer: { $serialNumber }
 
 ## Cert Viewer
 
+not-present =
+    .value = <No Pairt O Certificate>
 
 ## Used to show whether an override is temporary or permanent
 
@@ -75,3 +97,4 @@ add-exception-domain-mismatch-short = Wrang Site
 
 ## Certificate export "Save as" and error dialogs
 
+write-file-failure = File Mishanter
