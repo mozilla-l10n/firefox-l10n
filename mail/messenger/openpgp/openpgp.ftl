@@ -295,6 +295,9 @@ openpgp-keygen-external-success = Külső GnuPG kulcsazonosító elmentve.
 openpgp-radio-none =
     .label = Nincs
 openpgp-radio-none-desc = Ne használjon OpenPGP-t ehhez a személyazonossághoz.
+openpgp-radio-key-not-usable = Ez a kulcs nem használható személyes kulcsként, mert hiányzik a titkos kulcs.
+openpgp-radio-key-not-accepted = A kulcs használatához jóvá kell hagynia személyes kulcsként.
+openpgp-radio-key-not-found = Ez a kulcs nem található. Ha használná, akkor importálnia kell a { -brand-short-name }be.
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = Lejár: { $date }
 openpgp-key-expires-image =
@@ -634,5 +637,6 @@ dlg-button-retry = Új&ra
 dlg-button-skip = &Kihagyás
 # Strings used in enigmailCommon.js
 enig-error = OpenPGP hiba
+# Strings used in enigmailMsgBox.js
 enig-alert-title =
     .title = OpenPGP figyelmeztetés
