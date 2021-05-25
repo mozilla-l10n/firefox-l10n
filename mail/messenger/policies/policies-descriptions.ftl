@@ -62,3 +62,9 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Reverter o comportamen
 ##
 
 policy-LocalFileLinks = Permitir que sitios web específicos liguen a ficheiros locais.
+policy-NetworkPrediction = Activar ou desactivar a predición de rede (recuperación previa de DNS).
+policy-OfferToSaveLogins = Aplicar a configuración para permitir que o { -brand-short-name } ofreza lembrar as identificacións e os contrasinais gardados. Acéptanse os valores verdadeiro e falso.
+policy-OfferToSaveLoginsDefault = Definir o valor predeterminado para permitir que o { -brand-short-name } se ofreza para lembrar as identificacións e contrasinais gardados. Acéptanse os valores verdadeiro e falso.
+policy-OverrideFirstRunPage = Anular a páxina de primeira execución. Deixe esta política en branco se quere desactivar a páxina de primeira execución.
+policy-OverridePostUpdatePage = Anula a páxina de «Novidades» posterior á actualización. Deixe esta política en branco se quere desactivar a páxina posterior á actualización.
+policy-PasswordManagerEnabled = Activar o gardado de contrasinais no xestor de contrasinais.
