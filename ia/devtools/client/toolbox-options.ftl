@@ -61,6 +61,8 @@ options-screenshot-label = Comportamento de capturas de schermo
 options-screenshot-clipboard-label = Capturar schermo in area de transferentia
 options-screenshot-clipboard-tooltip =
     .title = Salva le captura de schermo directemente in le area de transferentia
+# Label for the checkbox that toggles screenshot to clipboard feature
+options-screenshot-clipboard-only-label = Capturar schermo solo in area de transferentia
 options-screenshot-clipboard-tooltip2 =
     .title = Copiar le instantaneo directemente in le area de transferentia
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
