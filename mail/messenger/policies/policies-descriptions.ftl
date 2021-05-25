@@ -18,6 +18,8 @@ policy-BlockAboutAddons = Bloquear o acceso ao xestor de complementos (about:add
 policy-BlockAboutConfig = Bloquear o acceso á páxina about:config.
 policy-BlockAboutProfiles = Bloquear o acceso á páxina about:profiles.
 policy-BlockAboutSupport = Bloquear o acceso á páxina about:support.
+policy-CaptivePortal = Activar ou desactivar o soporte de portal en catividade.
+policy-CertificatesDescription = Engadir certificados ou usar os certificados integrados.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
