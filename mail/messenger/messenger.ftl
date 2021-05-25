@@ -20,6 +20,9 @@ about-rights-notification-text = Mae { -brand-short-name } yn feddalwedd cod ago
 addons-and-themes-button =
     .label = Ychwanegion a Themâu
     .tooltip = Rheoli eich ychwanegion
+redirect-msg-button =
+    .label = Ailgyfeirio
+    .tooltiptext = Ailgyfeirio'r neges hon
 
 ## Folder Pane
 
@@ -54,6 +57,9 @@ folder-toolbar-toggle-folder-compact-view =
     .label = Golwg Cryno
     .accesskey = G
 
+## Menu
+
+
 ## AppMenu
 
 # Since v89 we dropped the platforms distinction between Options or Preferences
@@ -68,6 +74,12 @@ appmenu-help-exit-troubleshoot-mode =
     .label = Diffodd y Modd Datrys Problemau
 appmenu-help-more-troubleshooting-info =
     .label = Rhagor o Wybodaeth i Ddatrys Problemau
+
+## Context menu
+
+
+## Message header pane
+
 
 ## Action Button Context Menu
 
