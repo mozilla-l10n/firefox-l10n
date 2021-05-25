@@ -61,6 +61,8 @@ options-screenshot-label = Schermafbeeldingsgedrag
 options-screenshot-clipboard-label = Schermafbeelding naar klembord
 options-screenshot-clipboard-tooltip =
     .title = Slaat de schermafbeelding rechtstreeks op naar het klembord
+# Label for the checkbox that toggles screenshot to clipboard feature
+options-screenshot-clipboard-only-label = Schermafbeelding alleen naar klembord
 options-screenshot-clipboard-tooltip2 =
     .title = Slaat de schermafbeelding rechtstreeks op naar het klembord
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
