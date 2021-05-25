@@ -44,6 +44,15 @@ policy-DownloadDirectory = Definir e bloquear o cartafol de descarga.
 policy-EnableTrackingProtection = Activar ou desactivar o bloqueo de contido e, opcionalmente, bloquealo.
 # “lock” means that the user won’t be able to change this setting
 policy-EncryptedMediaExtensions = Activar ou desactivar Extensións de Medios Cifrados e, opcionalmente, bloquealo.
+# A “locked” extension can’t be disabled or removed by the user. This policy
+# takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
+# English or translate them as verbs.
+policy-Extensions = Instalar, desinstalar ou bloquear extensións. A opción de instalar usa os URLs ou rutas como parámetros. As opcións para desinstalar e bloquear usan os IDs das extensións.
+policy-ExtensionSettings = Xestionar todos os aspectos da instalación de extensións.
+policy-ExtensionUpdate = Activar ou desactivar as actualizacións automáticas de extensións.
+policy-HardwareAcceleration = Se é falso, desactiva a aceleración por hardware.
+policy-InstallAddonsPermission = Permite que certos sitios web instalen complementos.
+policy-LegacyProfiles = Desactivar a funcionalidade que obriga a ter un perfil separado para cada instalación.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
