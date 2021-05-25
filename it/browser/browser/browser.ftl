@@ -178,8 +178,6 @@ page-action-send-tabs-urlbar =
             [one] Invia scheda a dispositivo
            *[other] Invia { $tabCount } schede a dispositivo
         }
-page-action-pocket-panel =
-    .label = Salva pagina in { -pocket-brand-name }
 page-action-copy-url-panel =
     .label = Copia link
 page-action-copy-url-urlbar =
@@ -608,8 +606,6 @@ crashed-subframe-submit =
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = Visualizza tutti i segnalibri
 bookmarks-manage-bookmarks =
     .label = Gestisci segnalibri
 bookmarks-recent-bookmarks-panel-subheader = Segnalibri recenti
