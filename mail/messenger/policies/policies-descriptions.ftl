@@ -74,3 +74,15 @@ policy-Permissions2 = Configurar os permisos para a cámara, o micrófono, a loc
 policy-Preferences = Definir e bloquear o valor dun subconxunto de preferencias.
 policy-PromptForDownloadLocation = Preguntar onde gardar os ficheiros ao descargar.
 policy-Proxy = Configura os axustes do servidor mandatario.
+policy-RequestedLocales = Define a lista de idiomas solicitados para a aplicación por orde de preferencia.
+policy-SanitizeOnShutdown2 = Limpar os datos de navegación ao saír.
+policy-SearchEngines = Configurar os axustes do buscador. Esta política só está dispoñíbel na versión Extended Support Release (ESR).
+policy-SearchSuggestEnabled = Activar ou desactivar as suxestións de busca.
+# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
+policy-SecurityDevices = Instalar os módulos PKCS #11.
+policy-SSLVersionMax = Definir a versión máxima de SSL.
+policy-SSLVersionMin = Definir a versión mínima de SSL.
+policy-SupportMenu = Engadir un elemento de menú de asistencia personalizada ao menú de axuda.
+policy-UserMessaging = Non amosar ao usuario certas mensaxes.
+# “format” refers to the format used for the value of this policy.
+policy-WebsiteFilter = Bloquear sitios web para que non sexan visitados. Vexa a documentación para obter máis información sobre o formato.
