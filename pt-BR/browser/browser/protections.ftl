@@ -53,7 +53,7 @@ protections-close-button2 =
     .aria-label = Fechar
     .title = Fechar
 mobile-app-title = Bloqueie rastreadores de anúncios em mais dispositivos
-mobile-app-card-content = Use o navegador móvel com proteção integrada contra rastreamento de anúncios.
+mobile-app-card-content = Use o navegador para dispositivos móveis com proteção integrada contra rastreamento de anúncios.
 mobile-app-links = Navegador { -brand-product-name } para <a data-l10n-name="android-mobile-inline-link">Android</a> e <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Nunca esqueça uma senha novamente
 lockwise-title-logged-in2 = Gerenciamento de senhas
