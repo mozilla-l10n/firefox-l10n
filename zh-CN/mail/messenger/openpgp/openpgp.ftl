@@ -285,6 +285,9 @@ openpgp-keygen-external-success = 已保存外部 GnuPG 密钥 ID！
 openpgp-radio-none =
     .label = 无
 openpgp-radio-none-desc = 不要为此身份使用 OpenPGP。
+openpgp-radio-key-not-usable = 由于缺少私钥，无法将此密钥用作个人密钥！
+openpgp-radio-key-not-accepted = 若要使用此密钥，您须先将其设为个人密钥！
+openpgp-radio-key-not-found = 找不到此密钥！若您想要使用此密钥，请先导入至 { -brand-short-name }。
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = 到期于：{ $date }
 openpgp-key-expires-image =
@@ -565,5 +568,6 @@ dlg-button-retry = 重试(&R)
 dlg-button-skip = 跳过(&S)
 # Strings used in enigmailCommon.js
 enig-error = OpenPGP 错误
+# Strings used in enigmailMsgBox.js
 enig-alert-title =
     .title = OpenPGP 警报
