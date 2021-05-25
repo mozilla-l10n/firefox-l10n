@@ -29,11 +29,13 @@ about-processes-column-cpu-total = CPE
 
 about-processes-browser-process-name = { -brand-short-name } (proces { $pid })
 about-processes-web-process-name = Splet (proces { $pid }, skupen)
+about-processes-web-isolated-process-name = Splet (proces { $pid }) za { $origin }
 about-processes-file-process-name = Datoteke (proces { $pid })
 about-processes-extension-process-name = Razširitve (proces { $pid })
 about-processes-privilegedabout-process-name = Predstavitev (proces { $pid })
 about-processes-plugin-process-name = Vtičniki (proces { $pid })
 about-processes-privilegedmozilla-process-name = Splet (proces { $pid }) za spletna mesta { -vendor-short-name }
+about-processes-gmp-plugin-process-name = Geckovi predstavnostni vtičniki (proces { $pid })
 about-processes-gpu-process-name = GPE (proces { $pid })
 about-processes-vr-process-name = VR (proces { $pid })
 about-processes-socket-process-name = Omrežje (proces { $pid })
@@ -55,6 +57,8 @@ about-processes-file-process = Datoteke ({ $pid })
 about-processes-extension-process = Razširitve ({ $pid })
 about-processes-privilegedabout-process = Strani About ({ $pid })
 about-processes-plugin-process = Vtičniki ({ $pid })
+about-processes-privilegedmozilla-process = Spletna mesta { -vendor-short-name(sklon: "rodilnik") } ({ $pid })
+about-processes-gmp-plugin-process = Geckovi predstavnostni vtičniki ({ $pid })
 about-processes-gpu-process = GPE ({ $pid })
 about-processes-vr-process = VR ({ $pid })
 about-processes-socket-process = Omrežje ({ $pid })
@@ -145,8 +149,12 @@ about-processes-frame-name-many = Podokviri ({ $number }): { $shortUrl }
 ##    $unit (String) The unit in which to display $total. See the definitions
 ##                   of `duration-unit-*`.
 
+# Common case.
+about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") } ({ NUMBER($total, maximumFractionDigits: 0) } { $unit })
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (merjenje)
+# Special case: process or thread is currently idle.
+about-processes-cpu-user-and-kernel-idle = nedejavno ({ NUMBER($total, maximumFractionDigits: 2) } { $unit })
 
 ## Displaying Memory (total and delta)
 ## Variables:
@@ -159,6 +167,10 @@ about-processes-cpu-user-and-kernel-not-ready = (merjenje)
 ##    $deltaUnit (String) The unit in which to display $delta. See the definitions
 ##                        of `memory-unit-*`.
 
+# Common case.
+about-processes-total-memory-size = { NUMBER($total, maximumFractionDigits: 0) } { $totalUnit } ({ $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) } { $deltaUnit })
+# Special case: no change.
+about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) } { $totalUnit }
 
 ## Duration units
 

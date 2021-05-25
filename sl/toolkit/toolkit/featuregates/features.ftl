@@ -8,9 +8,15 @@ experimental-features-css-masonry2 =
     .label = CSS: Masonry Layout
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
-experimental-features-css-focus-visible =
-    .label = CSS: Pseudo-class: :focus-visible
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
+# about:home should be kept in English, as it refers to the the URI for
+# the internal default home page.
+experimental-features-abouthome-startup-cache =
+    .label = Zagonski predpomnilnik about:home
+# Support for having multiple Picture-in-Picture windows open simultaneously
+experimental-features-multi-pip =
+    .label = Podpora za več slik v sliki
+experimental-features-http3 =
+    .label = Protokol HTTP/3
+experimental-features-http3-description = Poskusna podpora za protokol HTTP/3.
