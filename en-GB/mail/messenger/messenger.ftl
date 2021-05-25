@@ -16,6 +16,9 @@ about-rights-notification-text = { -brand-short-name } is free and open source s
 addons-and-themes-button =
     .label = Add-ons and Themes
     .tooltip = Manage your add-ons
+redirect-msg-button =
+    .label = Redirect
+    .tooltiptext = Redirect selected message
 
 ## Folder Pane
 
@@ -50,6 +53,12 @@ folder-toolbar-toggle-folder-compact-view =
     .label = Compact View
     .accesskey = C
 
+## Menu
+
+redirect-msg-menuitem =
+    .label = Redirect
+    .accesskey = d
+
 ## AppMenu
 
 # Since v89 we dropped the platforms distinction between Options or Preferences
@@ -64,6 +73,18 @@ appmenu-help-exit-troubleshoot-mode =
     .label = Turn Troubleshoot Mode Off
 appmenu-help-more-troubleshooting-info =
     .label = More Troubleshooting Information
+appmenu-redirect-msg =
+    .label = Redirect
+
+## Context menu
+
+context-menu-redirect-msg =
+    .label = Redirect
+
+## Message header pane
+
+other-action-redirect-msg =
+    .label = Redirect
 
 ## Action Button Context Menu
 
