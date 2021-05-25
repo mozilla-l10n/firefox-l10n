@@ -15,6 +15,9 @@ about-rights-notification-text = { -brand-short-name } 是一款自由且开源�
 addons-and-themes-button =
     .label = 扩展和主题
     .tooltip = 管理您的附加组件
+redirect-msg-button =
+    .label = 重定向
+    .tooltiptext = 将选择的消息重定向
 
 ## Folder Pane
 
