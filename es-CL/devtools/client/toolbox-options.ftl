@@ -61,6 +61,8 @@ options-screenshot-label = Comportamiento de capturas de pantalla
 options-screenshot-clipboard-label = Capturar al portapapeles
 options-screenshot-clipboard-tooltip =
     .title = Guarda las capturas de pantalla directo en el portapapeles
+# Label for the checkbox that toggles screenshot to clipboard feature
+options-screenshot-clipboard-only-label = Capturar solo al portapapeles
 options-screenshot-clipboard-tooltip2 =
     .title = Guarda las capturas de pantalla directo en el portapapeles
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
