@@ -61,6 +61,8 @@ options-screenshot-label = Gedrach skermôfbylding
 options-screenshot-clipboard-label = Skermôfbylding nei klamboerd
 options-screenshot-clipboard-tooltip =
     .title = Bewarret de skermôfbylding daliks nei it klamboerd
+# Label for the checkbox that toggles screenshot to clipboard feature
+options-screenshot-clipboard-only-label = Skermôfbylding allinnich nei klamboerd
 options-screenshot-clipboard-tooltip2 =
     .title = Bewarret de skermôfbylding streekrjocht nei it klamboerd
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
