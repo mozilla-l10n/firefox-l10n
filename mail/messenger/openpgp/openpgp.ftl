@@ -303,6 +303,9 @@ openpgp-keygen-external-success = Зовнішній ID ключа GnuPG збе�
 openpgp-radio-none =
     .label = Немає
 openpgp-radio-none-desc = Не користуватися OpenPGP для цієї особи.
+openpgp-radio-key-not-usable = Цей ключ не можна застосувати як особистий ключ, оскільки таємний ключ відсутній!
+openpgp-radio-key-not-accepted = Щоб застосовувати цей ключ, ви повинні затвердити його як особистий ключ!
+openpgp-radio-key-not-found = Не вдалося знайти цей ключ! Якщо ви хочете ним скористатися, ви повинні імпортувати його до { -brand-short-name }.
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = Чинний до: { $date }
 openpgp-key-expires-image =
