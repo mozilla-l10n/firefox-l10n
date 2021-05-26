@@ -336,6 +336,7 @@ can-sandbox-content = Sisältöprosessin suorittaminen hiekkalaatikossa
 can-sandbox-media = Medialiitännäisen suorittaminen hiekkalaatikossa
 content-sandbox-level = Sisältöprosessin hiekkalaatikkotaso
 effective-content-sandbox-level = Sisältöprosessin efektiivinen hiekkalaatikkotaso
+content-win32k-lockdown-state = Win32k-lukitustila sisältöprosessille
 sandbox-proc-type-content = sisältö
 sandbox-proc-type-file = tiedostojen sisältö
 sandbox-proc-type-media-plugin = medialiitännäinen
