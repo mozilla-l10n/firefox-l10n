@@ -145,8 +145,6 @@ troubleshoot-mode-title = Diagnostika problémů
 restart-in-troubleshoot-mode-label = Režim řešení potíží…
 clear-startup-cache-title = Zkuste vymazat mezipaměť spouštění
 clear-startup-cache-label = Vymazat mezipaměť spouštění…
-startup-cache-dialog-title = Vymazání mezipaměti spouštění
-startup-cache-dialog-body = Pro vymazání mezipaměti spouštění se { -brand-short-name } restartuje. Nedojde k žádné změně vašich nastavení ani odstranění rozšíření, které jste si do { -brand-short-name(case: "gen") } nainstalovali.
 startup-cache-dialog-title2 =
     Chcete restartovat { -brand-shorter-name.gender ->
         [masculine] { -brand-short-name(case: "acc") }
@@ -361,6 +359,7 @@ can-sandbox-content = Sandbox procesů pro obsah
 can-sandbox-media = Sandbox zásuvných modulů médií
 content-sandbox-level = Úroveň sandboxu procesů pro obsah
 effective-content-sandbox-level = Účinná úroveň sandboxu procesů pro obsah
+content-win32k-lockdown-state = Stav uzamčení Win32k procesů pro obsah
 sandbox-proc-type-content = obsah
 sandbox-proc-type-file = obsah souboru
 sandbox-proc-type-media-plugin = zásuvný modul médií
