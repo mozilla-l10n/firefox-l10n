@@ -16,6 +16,9 @@ about-rights-notification-text = { -brand-short-name } is vrije en opensourcesof
 addons-and-themes-button =
     .label = Add-ons en thema's
     .tooltip = Uw add-ons beheren
+redirect-msg-button =
+    .label = Omleiden
+    .tooltiptext = Geselecteerd bericht omleiden
 
 ## Folder Pane
 
@@ -50,6 +53,12 @@ folder-toolbar-toggle-folder-compact-view =
     .label = Compacte weergave
     .accesskey = C
 
+## Menu
+
+redirect-msg-menuitem =
+    .label = Omleiden
+    .accesskey = O
+
 ## AppMenu
 
 # Since v89 we dropped the platforms distinction between Options or Preferences
@@ -64,6 +73,18 @@ appmenu-help-exit-troubleshoot-mode =
     .label = Probleemoplossingsmodus uitschakelen
 appmenu-help-more-troubleshooting-info =
     .label = Meer probleemoplossingsinformatie
+appmenu-redirect-msg =
+    .label = Omleiden
+
+## Context menu
+
+context-menu-redirect-msg =
+    .label = Omleiden
+
+## Message header pane
+
+other-action-redirect-msg =
+    .label = Omleiden
 
 ## Action Button Context Menu
 
