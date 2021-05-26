@@ -18,12 +18,12 @@ upgrade-dialog-new-alt-subtitle = Initia per render <span data-l10n-name="zap">{
 upgrade-dialog-new-item-menu-title = Barra de instrumentos e menu simplificate
 upgrade-dialog-new-item-menu-description = Da le prioritate al cosas importante, assi que tu trova lo que tu require.
 upgrade-dialog-new-item-tabs-title = Schedas moderne
-upgrade-dialog-new-item-tabs-description = Contine tote informationes, plus supporto pro concentration e flexibilitate de movimento
+upgrade-dialog-new-item-tabs-description = Organisa informationes, con supporto de focalisation e movimento flexibile.
 upgrade-dialog-new-item-icons-title = Nove icones e messages plus clar
 upgrade-dialog-new-item-icons-description = Te adjuta a trovar tu via con un tocco plus legier
-upgrade-dialog-new-primary-primary-button = Render { -brand-short-name } mi navigator primari
-    .title = Predefini { -brand-short-name } como navigator e lo appuncta in le barra del activitates
-upgrade-dialog-new-primary-default-button = Render { -brand-short-name } mi navigator primari?
+upgrade-dialog-new-primary-primary-button = Facer de { -brand-short-name } mi navigator primari
+    .title = Predefini { -brand-short-name } como navigator e lo affixa sur le barra de activitates
+upgrade-dialog-new-primary-default-button = Facer de { -brand-short-name } mi navigator primari?
 upgrade-dialog-new-primary-pin-button = Adde { -brand-short-name } al barra del applicationes
 upgrade-dialog-new-primary-pin-alt-button = Appunctar al barra del activitates
 upgrade-dialog-new-primary-theme-button = Elige un thema
@@ -44,7 +44,7 @@ upgrade-dialog-default-secondary-button = Non ora
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-theme-title =
-    Reinitiar
+    Refresca tu experientia
     con un nove thema
 upgrade-dialog-theme-system = Thema del systema
     .title = Sequer le themas del systema operative pro buttones, menus e fenestras
