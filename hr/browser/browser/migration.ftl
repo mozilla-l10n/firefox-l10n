@@ -59,7 +59,7 @@ import-permissions-description = macOS zahtijeva da izričito dopustiš { -brand
 import-migrating-page-title = Uvozi se …
 import-migrating-description = Sljedeće stavke se trenutačno uvoze …
 import-select-profile-page-title = Odaberi profil
-import-select-profile-description = Uvoz je moguć iz sljedećih profila:
+import-select-profile-description = Uvoz sljedećih profila je moguć iz:
 import-done-page-title = Uvoz završen
 import-done-description = Sljedeće stavke su uspješno uvezene:
 import-close-source-browser = Prije nastavka, provjeri je li odabrani preglednik zatvoren.
@@ -67,7 +67,7 @@ import-close-source-browser = Prije nastavka, provjeri je li odabrani preglednik
 #
 # Variables:
 #   $source (String): The browser the user has chosen to import bookmarks from.
-imported-bookmarks-source = From { $source }
+imported-bookmarks-source = Iz { $source }a
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
 source-name-edge-beta = Microsoft Edge beta
