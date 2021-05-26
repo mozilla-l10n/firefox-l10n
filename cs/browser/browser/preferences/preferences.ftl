@@ -66,7 +66,6 @@ category-experimental =
     .tooltiptext = Experimenty { -brand-short-name(case: "gen") }
 pane-experimental-subtitle = Tady pozor!
 pane-experimental-search-results-header = Experimenty { -brand-short-name(case: "gen") }: Postupujte obezřetně!
-pane-experimental-description = Změny v pokročilé konfiguraci mohou negativně ovlivnit výkon a bezpečnost aplikace { -brand-short-name }.
 pane-experimental-description2 =
     Změny v pokročilém nastavení mohou negativně ovlivnit výkon a bezpečnost { -brand-short-name.gender ->
         [masculine] { -brand-short-name(case: "gen") }
@@ -234,6 +233,9 @@ warn-on-open-many-tabs =
         } zpomalit
     .accesskey = d
 switch-links-to-new-tabs =
+    .label = Přepnout na nový panel otevřený z odkazu
+    .accesskey = n
+switch-to-new-tabs =
     .label = Přepnout na nový panel otevřený z odkazu
     .accesskey = n
 show-tabs-in-taskbar =
@@ -1193,7 +1195,6 @@ content-blocking-etp-strict-desc = Silnější ochrana. Může omezit fungován�
 content-blocking-etp-custom-desc = Vyberte sledovací prvky a skripty, které chcete zablokovat.
 content-blocking-etp-blocking-desc = { -brand-short-name } blokuje:
 content-blocking-private-windows = Sledující obsah v anonymních oknech
-content-blocking-cross-site-cookies = Cross-site cookies
 content-blocking-cross-site-cookies-in-all-windows = Všechny cookies třetích stran (včetně sledovacích cookies)
 content-blocking-cross-site-tracking-cookies = Sledovací cookies
 content-blocking-all-cross-site-cookies-private-windows = Cookies třetích stran v anonymních oknech
