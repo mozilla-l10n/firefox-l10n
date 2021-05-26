@@ -295,6 +295,9 @@ openpgp-keygen-external-success = Externe GnuPG-sleutel-ID opgeslagen!
 openpgp-radio-none =
     .label = Geen
 openpgp-radio-none-desc = Gebruik OpenPGP niet voor deze identiteit.
+openpgp-radio-key-not-usable = Deze sleutel is niet bruikbaar als persoonlijke sleutel, omdat de geheime sleutel ontbreekt!
+openpgp-radio-key-not-accepted = Om deze sleutel te gebruiken, moet u deze goedkeuren als een persoonlijke sleutel!
+openpgp-radio-key-not-found = Deze sleutel kan niet worden gevonden! Als u deze wilt gebruiken, moet u hem importeren in { -brand-short-name }.
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = Vervalt op: { $date }
 openpgp-key-expires-image =
@@ -634,5 +637,6 @@ dlg-button-retry = &Opnieuw proberen
 dlg-button-skip = Over&slaan
 # Strings used in enigmailCommon.js
 enig-error = OpenPGP-fout
+# Strings used in enigmailMsgBox.js
 enig-alert-title =
     .title = OpenPGP-waarschuwing
