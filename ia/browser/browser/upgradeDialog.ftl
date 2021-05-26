@@ -16,7 +16,7 @@ upgrade-dialog-new-subtitle = Projectate pro portar te ubi tu desira, plus rapid
 # should stay inside the span.
 upgrade-dialog-new-alt-subtitle = Initia per render <span data-l10n-name="zap">{ -brand-short-name }</span> a portata de mus
 upgrade-dialog-new-item-menu-title = Barra de instrumentos e menu simplificate
-upgrade-dialog-new-item-menu-description = Prioritate al cosas importante, assi tu trovara lo que te besonia.
+upgrade-dialog-new-item-menu-description = Da le prioritate al cosas importante, assi que tu trova lo que tu require.
 upgrade-dialog-new-item-tabs-title = Schedas moderne
 upgrade-dialog-new-item-tabs-description = Contine tote informationes, plus supporto pro concentration e flexibilitate de movimento
 upgrade-dialog-new-item-icons-title = Nove icones e messages plus clar
