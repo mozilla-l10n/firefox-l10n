@@ -295,6 +295,9 @@ openpgp-keygen-external-success = Eksterne GnuPG-kaai-ID bewarre!
 openpgp-radio-none =
     .label = Gjin
 openpgp-radio-none-desc = Brûk OpenPGP net foar dizze identiteit.
+openpgp-radio-key-not-usable = Dizze kaai is net brûkber as persoanlike kaai, omdat de geheime kaai ûntbrekt!
+openpgp-radio-key-not-accepted = Om dizze kaai te brûken, moatte jo dizze goedkarre as persoanlike kaai!
+openpgp-radio-key-not-found = Dizze kaai koe net fûn wurde! As jo it brûke wolle, moatte jo him ymportearje yn { -brand-short-name }.
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = Ferrint op: { $date }
 openpgp-key-expires-image =
@@ -634,5 +637,6 @@ dlg-button-retry = &Opnij probearje
 dlg-button-skip = Oer&slaan
 # Strings used in enigmailCommon.js
 enig-error = OpenPGP-flater
+# Strings used in enigmailMsgBox.js
 enig-alert-title =
     .title = OpenPGP-warskôging
