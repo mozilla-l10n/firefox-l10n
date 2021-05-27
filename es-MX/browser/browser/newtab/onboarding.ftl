@@ -257,6 +257,37 @@ onboarding-multistage-theme-description-alpenglow =
 
 ## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 
+# "Hero Text" displayed on left side of welcome screen.
+# The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
+# It also signals the passion users bring to Firefox, how they use
+# Firefox to pursue those passions, as well as the boldness in their
+# choice to use Firefox over a larger competitor browser.
+# An alternative title for localization is: "It starts here".
+# This text can be formatted to span multiple lines as needed.
+mr1-welcome-screen-hero-text =
+    El fuego comienza
+    aquí
+# This button will open system settings to turn on prefers-reduced-motion
+mr1-onboarding-reduce-motion-button-label = Desactivar animaciones
+mr1-onboarding-welcome-header = Bienvenido a { -brand-short-name }
+mr1-onboarding-set-default-pin-primary-button-label = Hacer de { -brand-short-name } mi navegador principal
+    .title = Establece { -brand-short-name } como navegador predeterminado y lo ancla a la barra de tareas
+mr1-onboarding-set-default-only-primary-button-label = Hacer { -brand-short-name } mi navegador predeterminado
+mr1-onboarding-set-default-secondary-button-label = Ahora no
+mr1-onboarding-sign-in-button-label = Iniciar sesión
+mr1-onboarding-import-header = Tráelo todo contigo
+mr1-onboarding-import-subtitle = Importa tus contraseñas, <br/>marcadores y más.
+# The primary import button label will depend on whether we can detect which browser was used to download Firefox.
+# Variables:
+#   $previous (Str) - Previous browser name, such as Edge, Chrome
+mr1-onboarding-import-primary-button-label-attribution = Importar desde { $Previous }
+# This string will be used in cases where we can't detect the previous browser name.
+mr1-onboarding-import-primary-button-label-no-attribution = Importar desde el navegador anterior
+mr1-onboarding-import-secondary-button-label = Ahora no
+mr1-onboarding-theme-header = Hazlo tuyo
+mr1-onboarding-theme-subtitle = Personaliza { -brand-short-name } con un tema.
+mr1-onboarding-theme-primary-button-label = Guardar tema
+mr1-onboarding-theme-secondary-button-label = Ahora no
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
