@@ -321,6 +321,7 @@ identity-header-security-with-host =
     .title = Diogelroez ar c'hennask evit { $host }
 identity-connection-not-secure = N'eo ket diarvar ar c'hennask
 identity-connection-secure = Kennask suraet
+identity-connection-failure = Fazi kennaskañ
 identity-connection-internal = Ur bajenn { -brand-short-name } diarvar eo.
 identity-connection-file = War hoc'h urzhiataer eo kadavet ar bajenn-mañ.
 identity-extension-page = Diwar un askouezh eo karget ar bajenn-mañ.
