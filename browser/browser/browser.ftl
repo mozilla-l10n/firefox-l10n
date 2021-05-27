@@ -402,6 +402,12 @@ browser-tab-mute =
         [one] SILENCIAR { $count } PESTAÑA
        *[other] SILENCIAR { $count } PESTAÑAS
     }
+browser-tab-unmute =
+    { $count ->
+        [1] DEJAR DE SILENCIAR PESTAÑA
+        [one] DEJAR DE SILENCIAR { $count } PESTAÑA
+       *[other] DEJAR DE SILENCIAR { $count } PESTAÑAS
+    }
 browser-tab-unblock =
     { $count ->
         [1] REPRODUCIR PESTAÑA
@@ -561,6 +567,11 @@ urlbar-result-action-tabtosearch-web = Buscar con { $engine } directamente desde
 urlbar-result-action-tabtosearch-other-engine = Buscar con { $engine } directamente desde la barra de direcciones
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = Copiar
+# Shows the result of a formula expression being calculated, the last = sign will be shown
+# as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result = = { $result }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -588,9 +599,18 @@ pointerlock-warning-no-domain = Este documento tiene el control de tu puntero. P
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>Parte de esta página falló.</strong> Para que { -brand-product-name } sepa sobre este problema y se arregle más rápido, por favor envía un informe.
+crashed-subframe-learnmore-link =
+    .value = Saber más
+crashed-subframe-submit =
+    .label = Enviar informe
+    .accesskey = E
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-manage-bookmarks =
+    .label = Administrar marcadores
+bookmarks-recent-bookmarks-panel-subheader = Marcadores recientes
 bookmarks-toolbar-chevron =
     .tooltiptext = Mostrar más marcadores
 bookmarks-sidebar-content =
@@ -612,6 +632,12 @@ bookmarks-tools-toolbar-visibility-menuitem =
         { $isVisible ->
             [true] Ocultar barra de marcadores
            *[other] Ver la barra de marcadores
+        }
+bookmarks-tools-toolbar-visibility-panel =
+    .label =
+        { $isVisible ->
+            [true] Ocultar Barra de Marcadores
+           *[other] Mostrar Barra de Marcadores
         }
 bookmarks-tools-menu-button-visibility =
     .label =
@@ -638,6 +664,9 @@ bookmarks-toolbar-placeholder =
     .title = Elementos de la barra de marcadores
 bookmarks-toolbar-placeholder-button =
     .label = Elementos de la barra de marcadores
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = Agregar pestaña actual a Marcadores
 
 ## Library Panel items
 
@@ -678,9 +707,14 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Algún audio o video en este sitio usa software DRM, que puede limitar lo que { -brand-short-name } te permite hacer con él.
+eme-notifications-drm-content-playing-manage = Administrar configuraciones
+eme-notifications-drm-content-playing-manage-accesskey = M
+eme-notifications-drm-content-playing-dismiss = Descartar
+eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Password save/update panel
 
+panel-save-update-username = Nombre de usuario
 
 ## Add-on removal warning
 
