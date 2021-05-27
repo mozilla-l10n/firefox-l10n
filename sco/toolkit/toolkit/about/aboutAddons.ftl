@@ -298,7 +298,7 @@ install-theme-button = Instaw Theme
 # The label of the button that appears after installing an add-on. Upon click,
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Manage
-find-more-addons = FInd mair eik-ons
+find-more-addons = Find mair eik-ons
 # This is a label for the button to open the "more options" menu, it is only
 # used for screen readers.
 addon-options-button =
@@ -425,7 +425,7 @@ locale-heading = Manage Yer Leids
 updates-heading = Manage Yer Updates
 discover-heading = Mak { -brand-short-name } Yer Ain
 shortcuts-heading = Manage Extension Shortcuts
-default-heading-search-label = FInd mair eik-ons
+default-heading-search-label = Find mair eik-ons
 addons-heading-search-input =
     .placeholder = Sairch addons.mozilla.org
 addon-page-options-button =
