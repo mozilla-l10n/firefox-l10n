@@ -39,7 +39,9 @@ upgrade-dialog-default-secondary-button = Agora non
 ## Theme selection screen
 
 # This title can be explicitly wrapped to control which words are on which line.
-upgrade-dialog-theme-title = Comeza de novo¶cun tema actualizado
+upgrade-dialog-theme-title =
+    Comeza de novo
+    cun tema actualizado
 upgrade-dialog-theme-system = Tema do sistema
     .title = Seguir o tema do sistema operativo para botóns, menús e xanelas
 upgrade-dialog-theme-light = Claro
