@@ -213,8 +213,6 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = Ver todo
     .accesskey = V
-cfr-doorhanger-milestone-close-button = Cerrar
-    .accesskey = C
 
 ## What’s New Panel Content for Firefox 76
 
@@ -239,6 +237,12 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Ícono de picture-in-picture
 
 ## Protections Dashboard message
 
+cfr-doorhanger-milestone-close-button = Cerrar
+    .accesskey = C
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
+
 cfr-whatsnew-protections-header = Protecciones a la vista
 cfr-whatsnew-protections-body = El Panel de protecciones incluye informes resumidos sobre filtraciones de datos y administración de contraseñas. Ahora puedes realizar un seguimiento de cuántas filtraciones se resolvieron y ver si alguna de tus contraseñas guardadas pudo estar expuesta en una filtración de datos.
 cfr-whatsnew-protections-cta-link = Ver panel de protecciones
@@ -253,8 +257,8 @@ cfr-whatsnew-better-pdf-body = Los documentos PDF ahora se abren directamente en
 
 cfr-doorhanger-doh-body = Tu privacidad importa. { -brand-short-name } ahora enruta de forma segura tus solicitudes DNS siempre que sea posible a un servicio asociado para protegerte mientras navegas.
 cfr-doorhanger-doh-header = Búsquedas DNS más seguras y encriptadas
-cfr-doorhanger-doh-primary-button = Perfecto, lo entiendo
-    .accesskey = O
+cfr-doorhanger-doh-primary-button-2 = Aceptar
+    .accesskey = A
 cfr-doorhanger-doh-secondary-button = Deshabilitar
     .accesskey = D
 
@@ -293,3 +297,8 @@ cfr-whatsnew-supercookies-body = Los sitios web pueden adjuntar en secreto una "
 
 cfr-whatsnew-bookmarking-header = Mejores marcadores
 cfr-whatsnew-bookmarking-body = Es más fácil realizar un seguimiento de tus sitios favoritos. { -brand-short-name } ahora recuerda tu ubicación preferida para los marcadores guardados, muestra la barra de herramientas de marcadores de forma predeterminada en las pestañas nuevas y te brinda fácil acceso al resto de tus marcadores a través de una carpeta de la barra de herramientas.
+
+## What's new: Cross-site cookie tracking
+
+cfr-whatsnew-cross-site-tracking-header = Protección integral contra el rastreo de cookies entre sitios
+cfr-whatsnew-cross-site-tracking-body = Ahora puedes optar por una mejor protección contra el rastreo de cookies. { -brand-short-name } puedes aislar tus actividades y datos al sitio en el que te encuentras actualmente, así que la información almacenada en el navegador no se comparte entre sitios web.
