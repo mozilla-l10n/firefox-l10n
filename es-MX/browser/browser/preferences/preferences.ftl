@@ -28,6 +28,18 @@ search-input-box =
             [windows] Encontrar en opciones
            *[other] Encontrar en configuraciones
         }
+settings-page-title = Configuraciones
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box2 =
+    .style = width: 15.4em
+    .placeholder = Buscar en ajustes
 managed-notice = Tu organización gestiona el navegador.
 category-list =
     .aria-label = Categorías
@@ -46,12 +58,12 @@ category-privacy =
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
+pane-sync-title3 = Sincronizar
 pane-experimental-title = Experimentos de { -brand-short-name }
 category-experimental =
     .tooltiptext = Experimentos de { -brand-short-name }
 pane-experimental-subtitle = Continuar con precaución
 pane-experimental-search-results-header = Experimentos de { -brand-short-name }: proceder con precaución
-pane-experimental-description = Cambiar las preferencias de configuración avanzada puede afectar el rendimiento o la seguridad de { -brand-short-name }.
 pane-experimental-reset =
     .label = Restaurar predeterminados
     .accesskey = R
@@ -971,7 +983,6 @@ content-blocking-etp-standard-desc = Equilibrada entre protección y rendimiento
 content-blocking-etp-strict-desc = Protección más elevada, pero puede causar que algunos sitios o contenidos fallen.
 content-blocking-etp-custom-desc = Elige cuáles rastreadores y scripts quieres bloquear.
 content-blocking-private-windows = Contenido de rastreo en ventanas privadas
-content-blocking-cross-site-cookies = Cookies entre sitios
 content-blocking-cross-site-tracking-cookies = Cookies de rastreo multisitio
 content-blocking-cross-site-tracking-cookies-plus-isolate = Cookies de rastreo de sitios cruzados, y aislación del resto de las cookies
 content-blocking-social-media-trackers = Rastreadores de red social

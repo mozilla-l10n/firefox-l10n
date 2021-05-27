@@ -11,9 +11,12 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Establece políticas a las que WebExtensions pueda acceder a través de chrome.storage.managed.
+policy-AllowedDomainsForApps = Define los dominios autorizados para acceder a Google Workspace.
 policy-AppAutoUpdate = Activar o desactivar la actualización automática de la aplicación.
 policy-AppUpdateURL = Establecer la URL de actualización de la aplicación personalizada.
 policy-Authentication = Configurar la autenticación integrada para sitios web que lo admitan.
+policy-AutoLaunchProtocolsFromOrigins = Define una lista de protocolos externos que pueden ser usados desde los orígenes que aparecen en la lista sin que se le pregunte al usuario.
+policy-BackgroundAppUpdate2 = Habilitar o deshabilitar la actualización en segundo plano.
 policy-BlockAboutAddons = Bloquear el acceso al administrador de complementos (about:addons).
 policy-BlockAboutConfig = Bloquear acceso a la página about:config
 policy-BlockAboutProfiles = Bloquear acceso a la página about:profiles.
@@ -81,6 +84,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Volver al comportamien
 policy-LocalFileLinks = Permitir a sitios web específicos para enlazar a archivos locales.
 policy-ManagedBookmarks = Configura una lista de marcadores administrada por un administrador que el usuario no puede cambiar.
 policy-MasterPassword = Requerir o  bloquear el uso de una contraseña maestra.
+policy-ManualAppUpdateOnly = Permitir solo actualizaciones manuales y no notificar al usuario sobre las actualizaciones.
 policy-PrimaryPassword = Requerir o evitar el uso de una contraseña maestra.
 policy-NetworkPrediction = Habilitar o deshabilitar predicción de red (búsqueda previa de DNS).
 policy-NewTabPage = Habilitar o deshabilitar la página Nueva pestaña.
@@ -105,6 +109,7 @@ policy-SearchEngines = Configurar los ajustes del motor de búsqueda. Esta polí
 policy-SearchSuggestEnabled = Habilitar o deshabilitar sugerencias de búsqueda.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Instalar módulos PKCS #11.
+policy-ShowHomeButton = Muestra el botón de inicio en la barra de herramientas.
 policy-SSLVersionMax = Establecer la versión máxima de SSL.
 policy-SSLVersionMin = Establecer la versión mínima de SSL.
 policy-SupportMenu = Agregar un elemento personalizado de asistencia al menú de ayuda.
