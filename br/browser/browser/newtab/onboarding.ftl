@@ -164,9 +164,12 @@ return-to-amo-add-extension-label = Ouzhpennañ an askouezh
 onboarding-multistage-welcome-header = Degemer mat e <span data-l10n-name="zap">{ -brand-short-name }</span>
 onboarding-multistage-welcome-secondary-button-label = Kennaskañ
 onboarding-multistage-welcome-secondary-button-text = Ur gont a zo ganeoc'h?
+onboarding-multistage-set-default-primary-button-label = Lakaat dre ziouer
+onboarding-multistage-set-default-secondary-button-label = Diwezhatoc'h
 onboarding-multistage-import-primary-button-label = Loc'hañ an enporzhiadur
 onboarding-multistage-import-secondary-button-label = Ket bremañ
 onboarding-multistage-theme-subtitle = Personelait { -brand-short-name } gant an neuz.
+onboarding-multistage-theme-primary-button-label2 = Graet
 onboarding-multistage-theme-secondary-button-label = Ket bremañ
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = Emgefreek
@@ -174,6 +177,15 @@ onboarding-multistage-theme-label-light = Sklaer
 onboarding-multistage-theme-label-dark = Teñval
 # "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
 onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
+
+## Multistage MR1 onboarding strings (MR1 about:welcome pages)
+
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip

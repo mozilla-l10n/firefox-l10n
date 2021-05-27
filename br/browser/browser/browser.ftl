@@ -187,8 +187,6 @@ page-action-send-tabs-urlbar =
             [many] Kas { $tabCount } a ivinelloù d'an trevnad
            *[other] Kas { $tabCount } ivinell d'an trevnad
         }
-page-action-pocket-panel =
-    .label = Enrollañ ar bajenn etrezek { -pocket-brand-name }
 page-action-copy-url-panel =
     .label = Eilañ an ere
 page-action-copy-url-urlbar =
@@ -416,6 +414,10 @@ popup-select-camera =
 popup-select-microphone =
     .value = Klevell da rannañ:
     .accesskey = K
+popup-select-camera-icon =
+    .tooltiptext = Kamera
+popup-select-microphone-icon =
+    .tooltiptext = Mikro
 popup-all-windows-shared = Rannet e vo an holl brenestroù gwelus war ho skramm.
 popup-screen-sharing-not-now =
     .label = Diwezhatoc'h
@@ -526,6 +528,13 @@ urlbar-result-action-before-tabtosearch-web = Pouezañ Tab evit klask gant { $en
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-before-tabtosearch-other = Pouezañ Tab evit klask war { $engine }
+# Action text for copying to clipboard.
+urlbar-result-action-copy-to-clipboard = Eilañ
+# Shows the result of a formula expression being calculated, the last = sign will be shown
+# as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result = = { $result }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -553,14 +562,17 @@ pointerlock-warning-no-domain = Meret eo ho logodenn gant an teul-mañ. Pouezit 
 
 ## Subframe crash notification
 
+crashed-subframe-learnmore-link =
+    .value = Gouzout hiroc'h
 crashed-subframe-submit =
     .label = Kas danevell
     .accesskey = K
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = Diskouez an holl sinedoù
+bookmarks-manage-bookmarks =
+    .label = Merañ ar sinedoù
+bookmarks-recent-bookmarks-panel-subheader = Sinedoù nevez
 bookmarks-toolbar-chevron =
     .tooltiptext = Diskouez meur a sined
 bookmarks-sidebar-content =
@@ -634,12 +646,17 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Bez ez eus aodio ha video war ar bajenn-mañ a arver meziantoù DRM, ar pezh a c'hell bevenniñ ar pezh a vezoc'h laosket gant { -brand-short-name } d'ober ganto.
+eme-notifications-drm-content-playing-manage = Merañ an arventennoù
 
 ## Password save/update panel
 
+panel-save-update-username = Anv implijer
+panel-save-update-password = Ger-tremen
 
 ## Add-on removal warning
 
 
 ## Remote / Synced tabs
 
+remote-tabs-manage-account =
+    .label = Merañ ar gont
