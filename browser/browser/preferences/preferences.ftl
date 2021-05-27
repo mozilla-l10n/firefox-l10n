@@ -212,7 +212,7 @@ switch-links-to-new-tabs =
     .accesskey = P
 
 switch-to-new-tabs =
-    .label = Porta in primo piano la scheda quando si aproono link, immagini o contenuti multimediali in una nuova scheda
+    .label = Porta in primo piano la scheda quando si aprono link, immagini o contenuti multimediali in una nuova scheda
     .accesskey = P
 
 show-tabs-in-taskbar =
