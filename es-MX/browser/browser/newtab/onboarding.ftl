@@ -44,7 +44,6 @@ onboarding-join-form-signin-label = ¿Ya tienes una cuenta?
 # Text for link to submit the sign in form
 onboarding-join-form-signin = Iniciar sesión
 onboarding-start-browsing-button-label = Empieza a navegar
-onboarding-not-now-button-label = Ahora no
 onboarding-cards-dismiss =
     .title = Descartar
     .aria-label = Descartar
@@ -86,99 +85,6 @@ onboarding-benefit-monitor-title = { -monitor-brand-short-name }
 onboarding-benefit-monitor-text = Recibe notificaciones cuando tu información personal sea encontrada en una filtración de datos conocida.
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 onboarding-benefit-lockwise-text = Administra tus contraseñas manteniéndolas protegidas y contigo.
-
-## Custom Return To AMO onboarding strings
-
-return-to-amo-subtitle = Genial, has instalado { -brand-short-name }
-# <img data-l10n-name="icon"/> will be replaced with the icon belonging to the extension
-#
-# Variables:
-#   $addon-name (String) - Name of the add-on
-return-to-amo-addon-title = Ahora obtengamos <img data-l10n-name="icon"/> <b>{ $addon-name }</b> para ti.
-return-to-amo-add-extension-label = Agregar la extensión
-
-## Multistage 3-screen onboarding flow strings (about:welcome pages)
-
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
-# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
-onboarding-multistage-welcome-header = Te damos la bienvenida a <span data-l10n-name = "zap">{ -brand-short-name }</span>
-onboarding-multistage-welcome-subtitle = El navegador rápido, seguro y privado respaldado por una organización sin fines de lucro.
-onboarding-multistage-welcome-primary-button-label = Iniciar configuración
-onboarding-multistage-welcome-secondary-button-label = Iniciar sesión
-onboarding-multistage-welcome-secondary-button-text = ¿Tienes una cuenta?
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
-# automatically added to the text inside it. "more" should stay inside the span.
-onboarding-multistage-import-header = Importa tus contraseñas, <br/>marcadores y <span data-l10n-name = "zap">más</span>
-onboarding-multistage-import-subtitle = ¿Vienes de otro navegador? Es fácil traer todo a { -brand-short-name }.
-onboarding-multistage-import-primary-button-label = Iniciar importación
-onboarding-multistage-import-secondary-button-label = Ahora no
-# Info displayed in the footer of import settings screen during onboarding flow.
-# This supports welcome screen showing top sites imported from the user's default browser.
-onboarding-import-sites-disclaimer = Los sitios listados aquí fueron encontrados en este dispositivo. { -brand-short-name } no guarda ni sincroniza datos de otro navegador a menos que elijas importarlos.
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-onboarding-welcome-steps-indicator =
-    .aria-label = Primeros pasos: pantalla { $current } de { $total }
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
-# automatically added to the text inside it. "look" should stay inside the span.
-onboarding-multistage-theme-header = Selecciona un <span data-l10n-name="zap">aspecto</span>
-onboarding-multistage-theme-subtitle = Personaliza { -brand-short-name } con un tema.
-onboarding-multistage-theme-primary-button-label = Guardar tema
-onboarding-multistage-theme-secondary-button-label = Ahora no
-# Automatic theme uses operating system color settings
-onboarding-multistage-theme-label-automatic = Automático
-onboarding-multistage-theme-label-light = Claro
-onboarding-multistage-theme-label-dark = Oscuro
-# "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
-onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
-
-## Please make sure to split the content of the title attribute into lines whose
-## width corresponds to about 40 Latin characters, to ensure that the tooltip
-## doesn't become too long. Line breaks will be preserved when displaying the
-## tooltip.
-
-# Tooltip displayed on hover of automatic theme
-onboarding-multistage-theme-tooltip-automatic-2 =
-    .title =
-        Heredar la apariencia de tu sistema
-        operativo para botones, menús y ventanas.
-# Input description for automatic theme
-onboarding-multistage-theme-description-automatic-2 =
-    .aria-description =
-        Heredar la apariencia de tu sistema
-        operativo para botones, menús y ventanas.
-# Tooltip displayed on hover of light theme
-onboarding-multistage-theme-tooltip-light-2 =
-    .title =
-        Usar una apariencia clara para botones, 
-        menús y ventanas.
-# Input description for light theme
-onboarding-multistage-theme-description-light =
-    .aria-description =
-        Usar una apariencia clara para botones, 
-        menús y ventanas.
-# Tooltip displayed on hover of dark theme
-onboarding-multistage-theme-tooltip-dark-2 =
-    .title =
-        Usar una apariencia oscura para botones, 
-        menús y ventanas.
-# Input description for dark theme
-onboarding-multistage-theme-description-dark =
-    .aria-description =
-        Usar una apariencia oscura para botones, 
-        menús y ventanas.
-# Tooltip displayed on hover of Alpenglow theme
-onboarding-multistage-theme-tooltip-alpenglow-2 =
-    .title =
-        Usar una apariencia colorida para botones,
-        menús y ventanas.
-# Input description for Alpenglow theme
-onboarding-multistage-theme-description-alpenglow =
-    .aria-description =
-        Usar una apariencia colorida para botones,
-        menús y ventanas.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -239,3 +145,121 @@ return-to-amo-sub-header = Excelente, tienes { -brand-short-name }
 return-to-amo-addon-header = Ahora vamos a conseguirte <icon></icon><b>{ $addon-name }.</b>
 return-to-amo-extension-button = Agregar la extensión
 return-to-amo-get-started-button = Comenzar con { -brand-short-name }
+onboarding-not-now-button-label = Ahora no
+
+## Custom Return To AMO onboarding strings
+
+return-to-amo-subtitle = Genial, has instalado { -brand-short-name }
+# <img data-l10n-name="icon"/> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-title = Ahora obtengamos <img data-l10n-name="icon"/> <b>{ $addon-name }</b> para ti.
+return-to-amo-add-extension-label = Agregar la extensión
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-welcome-header = Te damos la bienvenida a <span data-l10n-name = "zap">{ -brand-short-name }</span>
+onboarding-multistage-welcome-subtitle = El navegador rápido, seguro y privado respaldado por una organización sin fines de lucro.
+onboarding-multistage-welcome-primary-button-label = Iniciar configuración
+onboarding-multistage-welcome-secondary-button-label = Iniciar sesión
+onboarding-multistage-welcome-secondary-button-text = ¿Tienes una cuenta?
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "default" should stay inside the span.
+onboarding-multistage-set-default-header = Hacer de { -brand-short-name } tu <span data-l10n-name="zap"> predeterminado </span>
+onboarding-multistage-set-default-subtitle = Velocidad, seguridad y privacidad cada vez que navegas.
+onboarding-multistage-set-default-primary-button-label = Hacer predeterminado
+onboarding-multistage-set-default-secondary-button-label = Ahora no
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-pin-default-header = Empieza por dejar <span data-l10n-name="zap">{ -brand-short-name }</span> a un clic de distancia
+onboarding-multistage-pin-default-subtitle = Navegación rápida, segura y privada cada vez que utilizas la web.
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-waiting-subtitle = Elige { -brand-short-name } en "Navegador web" cuando se abra la configuración
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-help-text = Esto fijará { -brand-short-name } en la barra de tareas y abrirá la configuración
+onboarding-multistage-pin-default-primary-button-label = Hacer { -brand-short-name } mi navegador principal
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "more" should stay inside the span.
+onboarding-multistage-import-header = Importa tus contraseñas, <br/>marcadores y <span data-l10n-name = "zap">más</span>
+onboarding-multistage-import-subtitle = ¿Vienes de otro navegador? Es fácil traer todo a { -brand-short-name }.
+onboarding-multistage-import-primary-button-label = Iniciar importación
+onboarding-multistage-import-secondary-button-label = Ahora no
+# Info displayed in the footer of import settings screen during onboarding flow.
+# This supports welcome screen showing top sites imported from the user's default browser.
+onboarding-import-sites-disclaimer = Los sitios listados aquí fueron encontrados en este dispositivo. { -brand-short-name } no guarda ni sincroniza datos de otro navegador a menos que elijas importarlos.
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+onboarding-welcome-steps-indicator =
+    .aria-label = Primeros pasos: pantalla { $current } de { $total }
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "look" should stay inside the span.
+onboarding-multistage-theme-header = Selecciona un <span data-l10n-name="zap">aspecto</span>
+onboarding-multistage-theme-subtitle = Personaliza { -brand-short-name } con un tema.
+onboarding-multistage-theme-primary-button-label2 = Hecho
+onboarding-multistage-theme-secondary-button-label = Ahora no
+# Automatic theme uses operating system color settings
+onboarding-multistage-theme-label-automatic = Automático
+onboarding-multistage-theme-label-light = Claro
+onboarding-multistage-theme-label-dark = Oscuro
+# "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
+onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
+# Tooltip displayed on hover of automatic theme
+onboarding-multistage-theme-tooltip-automatic-2 =
+    .title =
+        Heredar la apariencia de tu sistema
+        operativo para botones, menús y ventanas.
+# Input description for automatic theme
+onboarding-multistage-theme-description-automatic-2 =
+    .aria-description =
+        Heredar la apariencia de tu sistema
+        operativo para botones, menús y ventanas.
+# Tooltip displayed on hover of light theme
+onboarding-multistage-theme-tooltip-light-2 =
+    .title =
+        Usar una apariencia clara para botones, 
+        menús y ventanas.
+# Input description for light theme
+onboarding-multistage-theme-description-light =
+    .aria-description =
+        Usar una apariencia clara para botones, 
+        menús y ventanas.
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark-2 =
+    .title =
+        Usar una apariencia oscura para botones, 
+        menús y ventanas.
+# Input description for dark theme
+onboarding-multistage-theme-description-dark =
+    .aria-description =
+        Usar una apariencia oscura para botones, 
+        menús y ventanas.
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow-2 =
+    .title =
+        Usar una apariencia colorida para botones,
+        menús y ventanas.
+# Input description for Alpenglow theme
+onboarding-multistage-theme-description-alpenglow =
+    .aria-description =
+        Usar una apariencia colorida para botones,
+        menús y ventanas.
+
+## Multistage MR1 onboarding strings (MR1 about:welcome pages)
+
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
