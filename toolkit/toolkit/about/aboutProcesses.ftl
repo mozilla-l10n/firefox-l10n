@@ -65,12 +65,19 @@ about-processes-privilegedmozilla-process = Sites { -vendor-short-name } ({ $pid
 about-processes-gmp-plugin-process = Plugins multimédia Gecko ({ $pid })
 about-processes-gpu-process = Processeur graphique ({ $pid })
 about-processes-vr-process = Réalité virtuelle ({ $pid })
+# Unknown process names
+# Variables:
+#    $pid (String) The process id of this process, assigned by the OS.
+#    $type (String) The raw type for this process.
+about-processes-unknown-process = Autre : { $type } ({ $pid })
 
 ## Isolated process names
 ## Variables:
 ##    $pid (String) The process id of this process, assigned by the OS.
 ##    $origin (String) The domain name for this process.
 
+about-processes-web-isolated-process = { $origin } ({ $pid })
+about-processes-web-isolated-process-private = { $origin } — Privé ({ $pid })
 
 ## Details within processes
 
@@ -111,6 +118,9 @@ about-processes-frame-name-many = Iframes imbriqués ({ $number }) : { $shortUr
 
 # Common case.
 about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") } ({ NUMBER($total, maximumFractionDigits: 0) } { $unit })
+# Common case.
+about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
+    .title = Temps total de CPU : { NUMBER($total, maximumFractionDigits: 0) } { $unit }
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (mesure en cours)
 # Special case: process or thread is currently idle.
@@ -129,6 +139,9 @@ about-processes-cpu-user-and-kernel-idle = inactif ({ NUMBER($total, maximumFrac
 
 # Common case.
 about-processes-total-memory-size = { NUMBER($total, maximumFractionDigits: 0) } { $totalUnit } ({ $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) } { $deltaUnit })
+# Common case.
+about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigits: 0) } { $totalUnit }
+    .title = Évolution : { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) } { $deltaUnit }
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) } { $totalUnit }
 
