@@ -101,15 +101,56 @@ account-setup-step3-image =
 account-setup-step4-image =
     .title = Konexio errorea
 account-setup-selection-error = Laguntza bila?
+account-setup-documentation-help = Konfigurazio dokumentazioa
+account-setup-forum-help = Laguntza foroa
 
 ## Results area
 
+account-setup-protocol-title = Hautatu protokoloa
+# Note: IMAP is the name of a protocol.
+account-setup-result-imap = IMAP
+account-setup-result-imap-description = Mantendu zure karpetak eta postak sinkronizatuak zure zerbitzarian
+# Note: POP3 is the name of a protocol.
+account-setup-result-pop = POP3
+account-setup-result-pop-description = Mantendu zure karpetak eta postak zure konputagailuan
+# Note: Exchange is the name of a product.
+account-setup-result-exchange = Exchange
+account-setup-result-exchange-description = Microsoft Exchange Server
+account-setup-incoming-title = Sarrerakoa
+account-setup-outgoing-title = Irteerakoa
+account-setup-username-title = Erabiltzaile-izena
+account-setup-exchange-title = Zerbitzaria
 
 ## Error messages
 
+# Note: The reference to "janedoe" (Jane Doe) is the name of an example person. You will want to translate it to whatever example persons would be named in your language. In the example, AD is the name of the Windows domain, and this should usually not be translated.
+account-setup-credentials-incomplete = Autentifikazioak huts egin du.Edo sartutako kredentzialak ez dira zuzenak edo aparteko erabiltzaile-izena behar da saioa hasteko. Erabiltzaile-izen hau normalean zure windows domeinuko saiokoa izaten da domeinuaz edo domeinu gabe (Adibidez, mikeltxo edo AD\\mikeltxo).
+account-setup-credentials-wrong = Autentifikazioak huts egin du. Mesedez berrikusi erabiltzaile izena eta pasahitza.
+account-setup-find-settings-failed = { -brand-short-name }(e)k ez du zure posta-kontuaren ezarpenik aurkitu.
+account-setup-exchange-config-unverifiable = Konfigurazioa ezin da egiaztatu. Zure erabiltzaile izena eta pasahitza zuzenak badira, litekeena da zerbitzari administratzaileak zure konturako aukeratutako konfigurazioa desgaitu izana. Saiatu beste protokolo bat aukeratuz.
 
 ## Manual config area
 
+account-setup-manual-config-title = Zerbitzariaren ezarpenak
+account-setup-incoming-protocol-label = Sarrera protokoloa
+protocol-imap-option = { account-setup-result-imap }
+protocol-pop-option = { account-setup-result-pop }
+account-setup-outgoing-protocol-label = Irteera protokoloa
+outgoing-protocol = SMTP
+account-setup-incoming-server-label = Hartzeko zerbitzaria:
+account-setup-outgoing-server-label = Posta bidaltzeko zerbitzaria:
+account-setup-incoming-port-label = Sarrera portua
+account-setup-outoing-port-label = Irteera portua
+account-setup-incoming-ssl-label = Sarrerako SSL
+account-setup-outgoing-ssl-label = Irteerako SSL
+ssl-autodetect-option = Autodetektatu
+ssl-noencryption-option = Bat ere ez
+ssl-starttls-option = STARTTLS
+ssl-tls-option = SSL/TLS
+account-setup-incoming-auth-label = Sarrera autentifikazioa
+account-setup-outgoing-auth-label = Irteera autentifikazioa
+account-setup-incoming-username-label = Hartzeko erabiltzaile izena
+account-setup-outgoing-username-label = Bidaltzeko erabiltzaile izena
 
 ## Warning insecure server
 
