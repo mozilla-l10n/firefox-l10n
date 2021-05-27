@@ -24,8 +24,7 @@ rights-intro-point-3 =
 rights-intro-point-4 =
     To, jak używōmy twojich prywatnych danych i ôpiniji posłanych do ôrganizacyji
     { -vendor-short-name } bez aplikacyjo { -brand-short-name }, ôpisujymy we
-    <a data-l10n-name="mozilla-privacy-policy-link">{ -brand-short-name }¶
-    Prawidłach prywatności</a>.
+    <a data-l10n-name="mozilla-privacy-policy-link">{ -brand-short-name } Prawidłach prywatności</a>.
 rights-intro-point-4-unbranded = Wszyskie płatne prawidła prywatności do tego produktu winny być sam wystawiōne.
 rights-intro-point-5 =
     Niykere funkcyje aplikacyje { -brand-short-name } używajōm informacyjnych 
