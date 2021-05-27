@@ -88,6 +88,12 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
+## Firefox Account Button
+
+toolbar-button-fxaccount =
+    .label = { -fxaccount-brand-name(capitalization: "sentence") }
+    .tooltiptext = { -fxaccount-brand-name(capitalization: "sentence") }
+
 ## Save Page
 
 main-context-menu-page-save =
@@ -102,6 +108,18 @@ main-context-menu-bookmark-add =
     .aria-label = Agregar esta página a marcadores
     .accesskey = m
     .tooltiptext = Agregar esta página a marcadores
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-add-mac =
+    .label = Añadir a Marcadores
+    .accesskey = m
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-edit-mac =
+    .label = Editar marcador
+    .accesskey = m
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-add-with-shortcut =
@@ -136,6 +154,9 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-bookmark-this-link =
     .label = Agregar este enlace a marcadores
     .accesskey = l
+main-context-menu-bookmark-link =
+    .label = Añadir enlace a marcadores
+    .accesskey = A
 main-context-menu-save-link =
     .label = Guardar vínculo como…
     .accesskey = G
@@ -158,6 +179,9 @@ main-context-menu-copy-email =
 main-context-menu-copy-link =
     .label = Copiar dirección del enlace
     .accesskey = a
+main-context-menu-copy-link-simple =
+    .label = Copiar enlace
+    .accesskey = l
 
 ## Media (video/audio) controls
 ##
@@ -200,6 +224,19 @@ main-context-menu-media-play-speed-faster =
 main-context-menu-media-play-speed-fastest =
     .label = Ultra rápido (2×)
     .accesskey = L
+main-context-menu-media-play-speed-2 =
+    .label = Velocidad
+    .accesskey = V
+main-context-menu-media-play-speed-slow-2 =
+    .label = 0.5×
+main-context-menu-media-play-speed-normal-2 =
+    .label = 1.0×
+main-context-menu-media-play-speed-fast-2 =
+    .label = 1.25×
+main-context-menu-media-play-speed-faster-2 =
+    .label = 1.5×
+main-context-menu-media-play-speed-fastest-2 =
+    .label = 2×
 main-context-menu-media-loop =
     .label = Repetir
     .accesskey = R
@@ -227,6 +264,11 @@ main-context-menu-media-video-leave-fullscreen =
 main-context-menu-media-pip =
     .label = Picture-in-Picture
     .accesskey = u
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-watch-pip =
+    .label = Ver en Picture-in-Picture
+    .accesskey = i
 main-context-menu-image-reload =
     .label = Recargar imagen
     .accesskey = R
@@ -236,6 +278,12 @@ main-context-menu-image-view =
 main-context-menu-video-view =
     .label = Ver video
     .accesskey = i
+main-context-menu-image-view-new-tab =
+    .label = Abrir imagen en una nueva pestaña
+    .accesskey = I
+main-context-menu-video-view-new-tab =
+    .label = Abrir vídeo en una pestaña nueva
+    .accesskey = A
 main-context-menu-image-copy =
     .label = Copiar imagen
     .accesskey = C
@@ -248,6 +296,15 @@ main-context-menu-video-copy-location =
 main-context-menu-audio-copy-location =
     .label = Copiar dirección del audio
     .accesskey = o
+main-context-menu-image-copy-link =
+    .label = Copiar el enlace de la imagen
+    .accesskey = o
+main-context-menu-video-copy-link =
+    .label = Copiar enlace del video
+    .accesskey = o
+main-context-menu-audio-copy-link =
+    .label = Copiar el enlace del audio
+    .accesskey = o
 main-context-menu-image-save-as =
     .label = Guardar imagen como…
     .accesskey = u
@@ -256,6 +313,9 @@ main-context-menu-image-email =
     .accesskey = a
 main-context-menu-image-set-as-background =
     .label = Establecer como fondo de escritorio…
+    .accesskey = s
+main-context-menu-image-set-image-as-background =
+    .label = Establecer imagen como fondo de escritorio…
     .accesskey = s
 main-context-menu-image-info =
     .label = Ver información de la imagen
@@ -272,6 +332,9 @@ main-context-menu-audio-save-as =
 main-context-menu-video-image-save-as =
     .label = Guardar captura como…
     .accesskey = G
+main-context-menu-video-take-snapshot =
+    .label = Tomar captura…
+    .accesskey = T
 main-context-menu-video-email =
     .label = Enviar video…
     .accesskey = a
@@ -301,9 +364,21 @@ main-context-menu-generate-new-password =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-use-saved-login =
+    .label = Usar inicio de sesión guardado
+    .accesskey = g
+main-context-menu-use-saved-password =
+    .label = Usar contraseña guardada
+    .accesskey = g
 
 ##
 
+main-context-menu-suggest-strong-password =
+    .label = Sugerir contraseña segura...
+    .accesskey = S
+main-context-menu-manage-logins2 =
+    .label = Administrar inicios de sesión
+    .accesskey = m
 main-context-menu-keyword =
     .label = Establecer una palabra clave para esta búsqueda…
     .accesskey = p
@@ -346,6 +421,9 @@ main-context-menu-print-selection =
 main-context-menu-view-selection-source =
     .label = Ver el código fuente de esta selección
     .accesskey = e
+main-context-menu-take-screenshot =
+    .label = Hacer captura de pantalla
+    .accesskey = c
 main-context-menu-view-page-source =
     .label = Ver código fuente de esta página
     .accesskey = V
@@ -361,6 +439,9 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = Inspeccionar elemento
     .accesskey = I
+main-context-menu-inspect =
+    .label = Inspeccionar
+    .accesskey = Q
 main-context-menu-inspect-a11y-properties =
     .label = Inspeccionar propiedades de accesibilidad
 main-context-menu-eme-learn-more =

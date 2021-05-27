@@ -181,8 +181,6 @@ page-action-send-tabs-urlbar =
             [one] Enviar pestaña a dispositivo
            *[other] Enviar { $tabCount } pestañas a dispositivo
         }
-page-action-pocket-panel =
-    .label = Guardar página en { -pocket-brand-name }
 page-action-copy-url-panel =
     .label = Copiar enlace
 page-action-copy-url-urlbar =
@@ -247,6 +245,14 @@ search-one-offs-context-set-as-default-private =
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
+# Shown when adding new engines from the address bar shortcut buttons or context
+# menu, or from the search bar shortcut buttons.
+# Variables:
+#  $engineName (String): The name of the engine.
+search-one-offs-add-engine =
+    .label = Añadir “{ $engineName }”
+    .tooltiptext = Añadir buscador “{ $engineName }”
+    .aria-label = Añadir buscador “{ $engineName }”
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -268,6 +274,8 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = Agregar marcador
+bookmarks-edit-bookmark = Editar marcador
 bookmark-panel-cancel =
     .label = Cancelar
     .accesskey = C
@@ -285,6 +293,8 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = S
 bookmark-panel-done-button =
     .label = Terminar
+bookmark-panel-save-button =
+    .label = Guardar
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -302,6 +312,7 @@ identity-header-security-with-host =
     .title = Seguridad de la conexión para { $host }
 identity-connection-not-secure = Conexión no segura
 identity-connection-secure = Conexión segura
+identity-connection-failure = Fallo de conexión
 identity-connection-internal = Esta es un página { -brand-short-name } segura.
 identity-connection-file = Esta página está almacenada en tu computadora.
 identity-extension-page = Esta página se carga desde una extensión.
@@ -326,6 +337,7 @@ identity-https-only-info-turn-off2 = Si el sitio no funciona correctamente, es p
 identity-https-only-info-no-upgrade = No se puede actualizar la conexión desde HTTP.
 identity-permissions-storage-access-header = Cookies entre sitios
 identity-permissions-storage-access-hint = Estas partes pueden usar cookies de sitios cruzados y datos del sitio mientras está en este sitio.
+identity-permissions-storage-access-learn-more = Saber más
 identity-permissions-reload-hint = Puede que tengas que recargar la página para que se apliquen los cambios.
 identity-permissions-empty = No tienes permitido en este sitio web ningún permiso especial.
 identity-clear-site-data =
@@ -371,6 +383,14 @@ browser-window-close-button =
 
 ## Tab actions
 
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = REPRODUCIENDO
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = SILENCIADO
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = AUTOREPRODUCCIÓN BLOQUEDA
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = PICTURE-IN-PICTURE
 
 ## These labels should be written in all capital letters if your locale supports them.
 ## Variables:
@@ -571,8 +591,6 @@ pointerlock-warning-no-domain = Este documento tiene el control de tu puntero. P
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = Mostrar todos los marcadores
 bookmarks-toolbar-chevron =
     .tooltiptext = Mostrar más marcadores
 bookmarks-sidebar-content =
