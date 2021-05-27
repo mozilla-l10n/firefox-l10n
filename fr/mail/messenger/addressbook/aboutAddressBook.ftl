@@ -20,6 +20,8 @@ about-addressbook-toolbar-new-list =
 ## Books
 
 all-address-books = Tous les carnets d’adresses
+about-addressbook-books-context-properties =
+    .label = Propriétés
 about-addressbook-books-context-synchronize =
     .label = Synchroniser
 about-addressbook-books-context-delete =
