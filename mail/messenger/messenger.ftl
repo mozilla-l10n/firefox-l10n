@@ -18,6 +18,9 @@ about-rights-notification-text = { -brand-short-name } jo dermotna softwara wót
 addons-and-themes-button =
     .label = Dodanki a drastwy
     .tooltip = Waše dodanki zastojaś
+redirect-msg-button =
+    .label = Dalej pósrědniś
+    .tooltiptext = Wubranu powěsć dalej pósrědniś
 
 ## Folder Pane
 
@@ -52,6 +55,12 @@ folder-toolbar-toggle-folder-compact-view =
     .label = Kompaktny naglěd
     .accesskey = K
 
+## Menu
+
+redirect-msg-menuitem =
+    .label = Dalej pósrědniś
+    .accesskey = D
+
 ## AppMenu
 
 # Since v89 we dropped the platforms distinction between Options or Preferences
@@ -66,6 +75,18 @@ appmenu-help-exit-troubleshoot-mode =
     .label = Modus za rozwězowanje problemow znjemóžniś
 appmenu-help-more-troubleshooting-info =
     .label = Dalšne informacije za rozwězowanje problemow
+appmenu-redirect-msg =
+    .label = Dalej pósrědniś
+
+## Context menu
+
+context-menu-redirect-msg =
+    .label = Dalej pósrědniś
+
+## Message header pane
+
+other-action-redirect-msg =
+    .label = Dalej pósrědniś
 
 ## Action Button Context Menu
 
