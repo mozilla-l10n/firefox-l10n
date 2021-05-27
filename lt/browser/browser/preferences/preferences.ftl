@@ -66,7 +66,6 @@ category-experimental =
     .tooltiptext = „{ -brand-short-name }“ eksperimentai
 pane-experimental-subtitle = Elkitės atsargiai
 pane-experimental-search-results-header = „{ -brand-short-name }“ eksperimentai: elkitės atsargiai
-pane-experimental-description = Išplėstinių nuostatų keitimas gali paveikti „{ -brand-short-name }“ veikimą arba saugumą.
 pane-experimental-description2 = Išplėstinių nuostatų keitimas gali paveikti „{ -brand-short-name }“ veikimą arba saugumą.
 pane-experimental-reset =
     .label = Atstatyti numatytuosius
@@ -412,8 +411,8 @@ update-setting-write-failure-title2 = Klaida įrašant naujinimų nuostatas
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message2 =
-    „{ -brand-short-name }“ susidūrė su klaida ir neįrašė šio pakeitimo. Atminkite, kad norint pakeisti šią naujinimų nuostatą, reikalingas leidimas rašyti į žemiau nurodytą failą. Jūs, arba sistemos prižiūrėtojas, gali pabandyti tai sutvarkyti, suteikiant visišką šio failo valdymo teisę „Users“ grupei.¶
-    ¶
+    „{ -brand-short-name }“ susidūrė su klaida ir neįrašė šio pakeitimo. Atminkite, kad norint pakeisti šią naujinimų nuostatą, reikalingas leidimas rašyti į žemiau nurodytą failą. Jūs, arba sistemos prižiūrėtojas, gali pabandyti tai sutvarkyti, suteikiant visišką šio failo valdymo teisę „Users“ grupei.
+    
     Nepavyko rašymas į failą: { $path }
 update-in-progress-title = Vyksta naujinimas
 update-in-progress-message = Ar norite, kad „{ -brand-short-name }“ tęstų šį naujinimą?
@@ -1023,7 +1022,6 @@ content-blocking-etp-standard-desc = Subalansuota apsaugai ir našumui. Tinklala
 content-blocking-etp-strict-desc = Stipresnė apsauga, tačiau gali sutrikti kai kurių svetainių veikimas.
 content-blocking-etp-custom-desc = Pasirinkite, kurios stebėjimo elementus ir scenarijus norite blokuoti.
 content-blocking-private-windows = Stebėjimui naudojamas turinys privačiojo naršymo languose
-content-blocking-cross-site-cookies = Tarp svetainių veikiantys slapukai
 content-blocking-cross-site-cookies-in-all-windows = Tarp svetainių veikiantys slapukai visuose languose (įskaitant stebėjimo slapukus)
 content-blocking-cross-site-tracking-cookies = Tarp svetainių veikiantys stebėjimo slapukai
 content-blocking-all-cross-site-cookies-private-windows = Tarp svetainių veikiantys slapukai privačiuose languose
