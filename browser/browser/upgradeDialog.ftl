@@ -25,6 +25,7 @@ upgrade-dialog-new-primary-primary-button = Faire de { -brand-short-name } mon n
     .title = Définit { -brand-short-name } comme navigateur par défaut et l’épingle à la barre des tâches
 upgrade-dialog-new-primary-default-button = Faire de { -brand-short-name } mon navigateur par défaut
 upgrade-dialog-new-primary-pin-button = Épingler { -brand-short-name } à la barre des tâches
+upgrade-dialog-new-primary-pin-alt-button = Épingler à la barre des tâches
 upgrade-dialog-new-primary-theme-button = Choisir un thème
 upgrade-dialog-new-secondary-button = Plus tard
 # This string is only shown on Windows 7, where we intentionally suppress the
