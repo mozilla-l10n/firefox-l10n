@@ -5,12 +5,6 @@
 
 ## App Menu
 
-appmenuitem-update-banner2 =
-    .label-update-downloading = Discargamento in curso del actualisation de { -brand-shorter-name }
-    .label-update-available = Actualisation disponibile — discargar ora
-    .label-update-manual = Actualisation disponibile — discargar ora
-    .label-update-unsupported = Impossibile actualisar
-    .label-update-restart = Actualisation disponibile — reinitiar ora
 appmenuitem-update-banner3 =
     .label-update-downloading = Discargamento de actualisation de  { -brand-shorter-name } in curso
     .label-update-available = Actualisation disponibile — discargar ora
@@ -35,14 +29,6 @@ appmenuitem-find-in-page =
     .label = Trovar in pagina…
 appmenuitem-more-tools =
     .label = Altere utensiles
-appmenuitem-exit =
-    .label = Exir
-appmenu-menu-button-closed =
-    .tooltiptext = Aperir menu del application
-    .label = { -brand-shorter-name }
-appmenu-menu-button-opened =
-    .tooltiptext = Clauder menu del application
-    .label = { -brand-shorter-name }
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
@@ -79,16 +65,12 @@ appmenu-remote-tabs-turn-on-sync =
     .label = Activar Sync…
 appmenuitem-fxa-toolbar-sync-now2 = Synchronisar ora
 appmenuitem-fxa-manage-account = Gerer conto
-appmenu-fxa-header =
-    .title = { -fxaccount-brand-name }
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
 appmenu-fxa-last-sync = Ultime synchronisation: { $time }
     .label = Ultime synchronisation: { $time }
-appmenu-fxa-sync-and-save-data =
-    .value = Synchronisar e salvar datos
 appmenu-fxa-sync-and-save-data2 = Synchronisar e salvar datos
 appmenu-fxa-signed-in-label = Aperir session
 appmenu-fxa-setup-sync =
@@ -122,9 +104,7 @@ profiler-popup-settings =
     .value = Parametros
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Redaction de parametros...
-profiler-popup-disabled =
-    Le profilator es actualmente disactivate, multo probabilemente perque un fenestra de navigation¶
-    anonyme es aperte.
+profiler-popup-disabled = Le profilator es actualmente disactivate, multo probabilemente perque un fenestra de navigation anonyme es aperte.
 profiler-popup-recording-screen = Registrante…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
