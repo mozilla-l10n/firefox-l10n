@@ -22,9 +22,10 @@
 <!ENTITY dnsNotFound.longDesc1 "<strong>ئەگەر ناونیشانەکە ڕاستبێت، دەتوانیت شتی تر تاقی بکەیتەوە وەک:</strong>
 <ul>
   <li>کاتێکی تر هەوڵبدەرەوە.</li>
- · <li>دڵنیابەرەوە لە هێلێ ئینتەرنێتەکەت.</li>¶
+ · <li>دڵنیابەرەوە لە هێلێ ئینتەرنێتەکەت.</li>
   <li>ئەگەر پەیوەندیت هەیە لە پشتی ئاگرەدیوارەوە, چێکی ئەوەبکە کە  &brandShortName; دەسەڵاتی هەیە  بچیتە ناو ئینتەرنێت.</li>
 </ul>">
+
 
 
 <!ENTITY generic.longDesc "<p>&brandShortName; ناتوانێت پەڕگە باربکات لەبەر چەند هۆکارێک.</p>">
@@ -39,12 +40,12 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 
+
+
+
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
-
-
-
 
 
 
@@ -65,11 +66,7 @@ was trying to connect. -->
 
 
 
-
-
 <!ENTITY securityOverride.exceptionButton1Label "مەترسیەکە وەردەگرم و بەردەوام بە">
-
-
 
 
 
@@ -78,12 +75,8 @@ was trying to connect. -->
 
 <!ENTITY certerror.pagetitle2  "ئاگاداربە: کێشەیەکی مەترسیدار لە پێشە">
 
-
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-
-
-
 
 
 
