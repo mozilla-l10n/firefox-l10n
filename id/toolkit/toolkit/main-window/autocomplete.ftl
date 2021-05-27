@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## Import Logins Autocomplete
+### Import Logins Autocomplete
 
 # Variables:
 #   $browser (String) - Browser name to import logins from.
@@ -18,13 +18,13 @@ autocomplete-import-logins-info =
 ##   $host (String) - Host name of the current site.
 
 autocomplete-import-logins-chrome =
-    <div data-l10n-name="line1">Import info masuk Anda dari Google Chrome</div>¶
+    <div data-l10n-name="line1">Import info masuk Anda dari Google Chrome</div>
     <div data-l10n-name="line2">untuk { $host } dan situs lain</div>
 autocomplete-import-logins-chromium =
-    <div data-l10n-name="line1">Import info masuk Anda dari Chromium</div>¶
+    <div data-l10n-name="line1">Import info masuk Anda dari Chromium</div>
     <div data-l10n-name="line2">untuk { $host } dan situs lain</div>
 autocomplete-import-logins-chromium-edge =
-    <div data-l10n-name="line1">Import info masuk Anda dari Microsoft Edge</div>¶
+    <div data-l10n-name="line1">Import info masuk Anda dari Microsoft Edge</div>
     <div data-l10n-name="line2">untuk { $host } dan situs lain</div>
 
 ##
