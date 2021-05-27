@@ -73,7 +73,6 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Klask a rit ho titouroù kennaskañ? Arventennit { -sync-brand-short-name }.
-about-logins-login-intro-heading-logged-out = Klask a rit ho titouroù kennaskañ enroller? Arventennit { -sync-brand-short-name } pe enporzhit anezho.
 about-logins-login-intro-heading-logged-out2 = Klask a rit war-lec'h ho titouroù kennaskañ enrollet? Gweredekait Sync pe enporzhit anezho.
 about-logins-login-intro-heading-logged-in = N'eus bet kavet titour kennaskañ ebet.
 login-intro-description = M’ho peus enrollet ho titouroù kennaskañ { -brand-product-name } war un trevnad all, setu penaos kaout anezho amañ:
@@ -285,9 +284,13 @@ about-logins-import-file-picker-tsv-filter-title =
 about-logins-import-dialog-title = Echu eo gant an enporzhiañ
 about-logins-import-dialog-done = Graet
 about-logins-import-dialog-error-title = Fazi enporzhiañ
+about-logins-import-dialog-error-file-permission-title = N'hall ket lenn ar restr
 about-logins-import-dialog-error-learn-more = Gouzout hiroc’h
-about-logins-import-dialog-error-try-again = Klask en-dro…
 about-logins-import-dialog-error-cancel = Nullañ
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = Linenn { $number }
 
 ##
 ## Variables:
