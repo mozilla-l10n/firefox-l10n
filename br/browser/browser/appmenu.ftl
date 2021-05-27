@@ -60,8 +60,15 @@ appmenu-remote-tabs-turn-on-sync =
 appmenuitem-fxa-toolbar-sync-now2 = Goubredañ bremañ
 appmenuitem-fxa-manage-account = Merañ ar gont
 appmenu-fxa-header2 = { -fxaccount-brand-name }
+# Variables
+# $time (string) - Localized relative time since last sync (e.g. 1 second ago,
+# 3 hours ago, etc.)
+appmenu-fxa-last-sync = Goubredad diwezhañ { $time }
+    .label = Goubredad diwezhañ { $time }
 appmenu-fxa-sync-and-save-data2 = Goubredañ hag enrollañ ar roadennoù
 appmenu-fxa-signed-in-label = Kennaskañ
+appmenu-fxa-setup-sync =
+    .label = Gweredekaat ar goubredañ…
 appmenu-fxa-show-more-tabs = Diskouez muioc'h a ivinelloù
 appmenuitem-save-page =
     .label = Enrollañ ar bajenn evel…

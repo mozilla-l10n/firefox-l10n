@@ -393,6 +393,8 @@ browser-window-close-button =
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-playing2 = O LENN
 # This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = DIDROUZ
+# This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-blocked = LENN EMGEFREEK HARZET
 
 ## These labels should be written in all capital letters if your locale supports them.

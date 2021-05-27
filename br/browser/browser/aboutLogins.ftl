@@ -282,20 +282,45 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = Echu eo gant an enporzhiañ
+about-logins-import-dialog-items-added =
+    { $count ->
+        [one] <span>Titour kennaskañ nevez ouzhpennet:</span> <span data-l10n-name="count"></span>
+        [two] <span>Titouroù kennaskañ nevez ouzhpennet:</span> <span data-l10n-name="count"></span>
+        [few] <span>Titouroù kennaskañ nevez ouzhpennet:</span> <span data-l10n-name="count"></span>
+        [many] <span>Titouroù kennaskañ nevez ouzhpennet:</span> <span data-l10n-name="count"></span>
+       *[other] <span>Titouroù kennaskañ nevez ouzhpennet:</span> <span data-l10n-name="count"></span>
+    }
 about-logins-import-dialog-done = Graet
 about-logins-import-dialog-error-title = Fazi enporzhiañ
+about-logins-import-dialog-error-conflicting-values-title = Tabut war un titour kennaskañ gant meur a dalvoud
+about-logins-import-dialog-error-conflicting-values-description = Da skouer: meur a anv arveriad, ger-tremen, URL, hag all. evit un titour kennaskañ
+about-logins-import-dialog-error-file-format-title = Fazi mentrezh ar restr
+about-logins-import-dialog-error-file-format-description = Talbenn bann didalvoudek pe a vank. Bezit sur ez eus ur vann evit an anv arveriad, ar ger-tremen hag an URL.
 about-logins-import-dialog-error-file-permission-title = N'hall ket lenn ar restr
+about-logins-import-dialog-error-file-permission-description = { -brand-short-name } n'eus ket ar gwir da lenn ar restr. Klaskit kemmañ aotreoù ar restr.
+about-logins-import-dialog-error-unable-to-read-title = N'haller ket dielfennañ ar restr
+about-logins-import-dialog-error-unable-to-read-description = Bezit sur ho peus diuzet ur restr CSV pe TSV.
+about-logins-import-dialog-error-no-logins-imported = N'eus bet enporzhiet titour kennaskañ ebet
 about-logins-import-dialog-error-learn-more = Gouzout hiroc’h
+about-logins-import-dialog-error-try-import-again = Klaskit enporzhiañ en-dro...
 about-logins-import-dialog-error-cancel = Nullañ
+about-logins-import-report-title = Diverradenn an enporzhiadur
+about-logins-import-report-description = Titouroù kennaskañ enporzhiet e { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = Linenn { $number }
+about-logins-import-report-row-description-no-change = Eiladur: klotañ a ra gant un titour kennaskañ a zo anezhañ endeo
+about-logins-import-report-row-description-modified = Titour kennaskañ hizivaet
+about-logins-import-report-row-description-added = Titour kennaskañ ouzhpennet
+about-logins-import-report-row-description-error = Fazi: maezienn a vank
 
 ##
 ## Variables:
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
+about-logins-import-report-row-description-error-multiple-values = Fazi: meur a dalvoud evit { $field }
+about-logins-import-report-row-description-error-missing-field = Fazi: { $field } a vank
 
 ##
 ## Variables:
@@ -304,3 +329,4 @@ about-logins-import-report-row-index = Linenn { $number }
 
 ## Logins import report page
 
+about-logins-import-report-page-title = Danevell diverrañ an enporzhiañ
