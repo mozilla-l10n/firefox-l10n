@@ -11,6 +11,8 @@ newtab-settings-button =
 newtab-personalize-button-label = Personalizar
     .title = Personalizar la nueva pestaña
     .aria-label = Personalizar la nueva pestaña
+newtab-personalize-dialog-label =
+    .aria-label = Personalizar
 
 ## Search box component.
 
@@ -19,11 +21,24 @@ newtab-search-box-search-button =
     .title = Buscar
     .aria-label = Buscar
 newtab-search-box-search-the-web-text = Buscar en la Web
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-text = Buscar con { $engine } o ingresar dirección
+newtab-search-box-handoff-text-no-engine = Buscar o ingresar dirección
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-input =
+    .placeholder = Buscar con { $engine } o ingresar dirección
+    .title = Buscar con { $engine } o ingresar dirección
+    .aria-label = Buscar con { $engine } o ingresar dirección
+newtab-search-box-handoff-input-no-engine =
+    .placeholder = Buscar o ingresar dirección
+    .title = Buscar o ingresar dirección
+    .aria-label = Buscar o ingresar dirección
 newtab-search-box-search-the-web-input =
     .placeholder = Buscar en la Web
     .title = Buscar en la Web
     .aria-label = Buscar en la Web
-newtab-search-box-text = Buscar en la web
 newtab-search-box-input =
     .placeholder = Buscar en la web
     .aria-label = Buscar en la web
