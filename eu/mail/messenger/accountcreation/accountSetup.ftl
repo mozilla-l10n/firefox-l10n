@@ -151,6 +151,10 @@ account-setup-incoming-auth-label = Sarrera autentifikazioa
 account-setup-outgoing-auth-label = Irteera autentifikazioa
 account-setup-incoming-username-label = Hartzeko erabiltzaile izena
 account-setup-outgoing-username-label = Bidaltzeko erabiltzaile izena
+account-setup-advanced-setup-button = Konfigurazio aurreratua
+    .accesskey = a
 
 ## Warning insecure server
 
+account-setup-insecure-server-checkbox = Arriskuak ulertzen ditut.
+    .accesskey = u
