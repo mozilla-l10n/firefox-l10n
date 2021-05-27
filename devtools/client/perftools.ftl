@@ -10,6 +10,9 @@
 
 ## All of the headings for the various sections.
 
+perftools-heading-settings = Potpune postavke
+perftools-heading-buffer = Postavke međuspremnika
+perftools-heading-features = Funkcije
 
 ##
 
@@ -50,4 +53,3 @@ perftools-button-edit-settings = Uredi postavke…
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
 ## preferences are true.
 
--profiler-brand-name = Firefox Profiler

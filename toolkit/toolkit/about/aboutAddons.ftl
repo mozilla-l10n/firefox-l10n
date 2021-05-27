@@ -407,7 +407,7 @@ recommended-extensions-heading = Preporučeni dodatci
 recommended-themes-heading = Preporučene teme
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
-recommended-theme-1 = Osjećate li se kreativno? <a data-l10n-name="link">Izradite vlastitu temu s Firefox Color.</a>
+recommended-theme-1 = Želiš drugačiji dizajn? <a data-l10n-name="link">Izradi vlastiti motiv s Firefox Color.</a>
 
 ## Page headings
 
