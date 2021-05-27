@@ -288,9 +288,55 @@ mr1-onboarding-theme-header = Hazlo tuyo
 mr1-onboarding-theme-subtitle = Personaliza { -brand-short-name } con un tema.
 mr1-onboarding-theme-primary-button-label = Guardar tema
 mr1-onboarding-theme-secondary-button-label = Ahora no
+# System theme uses operating system color settings
+mr1-onboarding-theme-label-system = Tema del sistema
+mr1-onboarding-theme-label-light = Claro
+mr1-onboarding-theme-label-dark = Oscuro
+# "Alpenglow" here is the name of the theme, and should be kept in English.
+mr1-onboarding-theme-label-alpenglow = Alpenglow
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of system theme
+mr1-onboarding-theme-tooltip-system =
+    .title =
+        Seguir el tema del sistema operativo
+        para botones, menús y ventanas.
+# Input description for system theme
+mr1-onboarding-theme-description-system =
+    .aria-description =
+        Seguir el tema del sistema operativo
+        para botones, menús y ventanas.
+# Tooltip displayed on hover of light theme
+mr1-onboarding-theme-tooltip-light =
+    .title =
+        Usar un tema claro para botones,
+        menús y ventanas.
+# Input description for light theme
+mr1-onboarding-theme-description-light =
+    .aria-description =
+        Usar un tema claro para botones,
+        menús y ventanas.
+# Tooltip displayed on hover of dark theme
+mr1-onboarding-theme-tooltip-dark =
+    .title =
+        Usar un tema oscuro para botones,
+        menús y ventanas.
+# Input description for dark theme
+mr1-onboarding-theme-description-dark =
+    .aria-description =
+        Usar un tema oscuro para botones,
+        menús y ventanas.
+# Tooltip displayed on hover of Alpenglow theme
+mr1-onboarding-theme-tooltip-alpenglow =
+    .title =
+        Usar un tema dinámico y colorido para botones,
+        menús y ventanas.
+# Input description for Alpenglow theme
+mr1-onboarding-theme-description-alpenglow =
+    .aria-description =
+        Usar un tema dinámico y colorido para botones,
+        menús y ventanas.
