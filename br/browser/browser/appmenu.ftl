@@ -92,11 +92,15 @@ profiler-popup-reveal-description-button =
     .aria-label = Diskouez muioc'h a ditouroù
 profiler-popup-description-title =
     .value = Enrollañ, dielfennañ, rannañ
+profiler-popup-description = Kenlabourat war kudennoù digonusted en ur embann aeladoù da rannañ gant hor skipailh.
 profiler-popup-learn-more = Gouzout hiroc’h
 profiler-popup-settings =
     .value = Arventennoù
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Kemmañ an arventennoù…
+profiler-popup-disabled =
+    Diweredekaet eo an aelader evit ar mare, moarvat peogwir eo digoret ur prenestr
+    merdeiñ prevez.
 profiler-popup-recording-screen = Oc’h enrollañ…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
@@ -106,6 +110,8 @@ profiler-popup-start-recording-button =
     .label = Stagañ da enrollañ
 profiler-popup-discard-button =
     .label = Dilezel
+profiler-popup-capture-button =
+    .label = Pakañ
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
@@ -134,6 +140,9 @@ appmenu-about =
 appmenu-get-help =
     .label = Kaout skoazell
     .accesskey = s
+appmenu-help-more-troubleshooting-info =
+    .label = Muioc'h a ditouroù disac’hañ
+    .accesskey = M
 appmenu-help-report-site-issue =
     .label = Danevell kudennoù al lec'hienn…
 appmenu-help-feedback-page =
@@ -143,6 +152,12 @@ appmenu-help-feedback-page =
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-enter-troubleshoot-mode2 =
+    .label = Mod disac’hañ
+    .accesskey = d
+appmenu-help-exit-troubleshoot-mode =
+    .label = Diweredekaat ar mod disac’hañ
+    .accesskey = D
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

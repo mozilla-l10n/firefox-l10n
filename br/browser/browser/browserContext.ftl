@@ -109,6 +109,12 @@ main-context-menu-bookmark-add =
     .accesskey = b
     .tooltiptext = Lakaat ur sined war ar bajenn-mañ
 # This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-add-mac =
+    .label = Lakaat ar bajenn-mañ er sinedoù
+    .accesskey = L
+# This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
 # so should probably have the same access key if possible.
 main-context-menu-bookmark-edit-mac =
@@ -147,6 +153,9 @@ main-context-menu-open-link-new-private-window =
     .accesskey = m
 main-context-menu-bookmark-this-link =
     .label = Lakaat ur sined war an ere
+    .accesskey = L
+main-context-menu-bookmark-link =
+    .label = Lakaat an ere-mañ er sinedoù
     .accesskey = L
 main-context-menu-save-link =
     .label = Enrollañ an ere evel…
@@ -255,6 +264,11 @@ main-context-menu-media-video-leave-fullscreen =
 main-context-menu-media-pip =
     .label = Skeudenn-ouzh-skeudenn
     .accesskey = S
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-watch-pip =
+    .label = Gwelout er mod skeudenn-ouzh-skeudenn
+    .accesskey = G
 main-context-menu-image-reload =
     .label = Adkargañ ar skeudenn
     .accesskey = r
@@ -318,6 +332,9 @@ main-context-menu-audio-save-as =
 main-context-menu-video-image-save-as =
     .label = Enrollañ an dapadenn-skramm evel…
     .accesskey = n
+main-context-menu-video-take-snapshot =
+    .label = Kemer un dapadenn...
+    .accesskey = K
 main-context-menu-video-email =
     .label = Kas ar video dre bostel…
     .accesskey = K
@@ -347,6 +364,9 @@ main-context-menu-generate-new-password =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-use-saved-login =
+    .label = Implijout un titour kennaskañ enrollet
+    .accesskey = I
 main-context-menu-use-saved-password =
     .label = Implijout ar ger-tremen enrollet
     .accesskey = g
@@ -356,9 +376,6 @@ main-context-menu-use-saved-password =
 main-context-menu-suggest-strong-password =
     .label = Kinnig ur ger-tremen kreñv…
     .accesskey = k
-main-context-menu-manage-logins =
-    .label = Merañ an titouroù kennaskañ…
-    .accesskey = M
 main-context-menu-manage-logins2 =
     .label = Merañ an titouroù kennaskañ
     .accesskey = M
