@@ -55,6 +55,9 @@ folder-toolbar-toggle-folder-compact-view =
 
 ## Menu
 
+redirect-msg-menuitem =
+    .label = Reindirizza
+    .accesskey = d
 
 ## AppMenu
 
