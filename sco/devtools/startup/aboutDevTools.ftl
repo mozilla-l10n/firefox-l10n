@@ -31,9 +31,22 @@ features-inspector-desc = Luik-ower and refine code fur tae big pixel-perfect la
 features-console-title = Console
 features-console-desc = Track CSS, JavaScript, siccarness and netwark issues. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-debugger-title = Bugdichter
+features-debugger-desc = Pooerfu JavaScript bugdichter wi support fur yer framewark. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-network-title = Netwark
+features-network-desc = Monitor netwark requests that can slow or block yer site. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-storage-title = Storage
+features-storage-desc = Add, chynge and remuive cache, cookies, databases and session data. <a data-l10n-name="learn-more">{ features-learn-more }</a>
+features-responsive-title = Responsive Design Mode
+features-responsive-desc = Test sites on emulatit devices in yer stravaiger. <a data-l10n-name="learn-more">{ features-learn-more }</a>
+features-visual-editing-title = Visual Editin
+features-visual-editing-desc = Fine-tune animations, alignment and paddin. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-performance-title = Performance
+features-performance-desc = Unblock bottlenecks, pare doon processes, mak the maist o assets. <a data-l10n-name="learn-more">{ features-learn-more }</a>
+features-memory-title = Memory
+features-memory-desc = Find memory leaks and mak yer application gleg. <a data-l10n-name="learn-more">{ features-learn-more }</a>
+# Variables:
+#   $errorDescription (String) - The error that occurred e.g. 404 - Not Found
+newsletter-error-common = Subscription request didnae wirk ({ $errorDescription }).
 newsletter-error-unknown = An unexpectit mishanter tuik place.
 newsletter-error-timeout = Subscription request timed oot.
 # Variables:
