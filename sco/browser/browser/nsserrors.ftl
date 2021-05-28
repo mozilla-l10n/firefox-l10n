@@ -321,3 +321,7 @@ sec-error-invalid-policy-mapping = Policy mappin conteens oniepolicy
 sec-error-policy-validation-failed = Cert chain fails policy trystmakkin
 sec-error-unknown-aia-location-type = Unkent airtin type in cert AIA extension
 sec-error-bad-http-response = Server returned bad HTTP repone
+sec-error-bad-ldap-response = Server returned bad LDAP repone
+sec-error-failed-to-encode-data = Didnae encode data wi ASN1 encoder
+sec-error-bad-info-access-location = Bad information ingang airtin in cert extension
+sec-error-libpkix-internal = Libpkix internal mishanter tuik place durin cert trystmakkin.

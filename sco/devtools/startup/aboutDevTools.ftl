@@ -8,9 +8,18 @@ enable-inspect-element-title = Enable Firefox Developer Tools tae yaise Inspect 
 enable-inspect-element-message = Luik ower and edit HTML and CSS wi the Forderer Tools’ Inspector.
 enable-about-debugging-message = Forder and bugdicht WabExtensions, wab warkers, service warkers and mair wi Firefox Developer Tools.
 enable-key-shortcut-message = Ye activatit a Forderer Tools shortcut. Gin ye didnae mean tae, ye can sneck this Tab.
+enable-menu-message = Mak yer wabsite’s HTML, CSS, and JavaScript braw wi tools like Inspector and Debugger.
+enable-common-message = Firefox Developer Tools are disabled by default fur tae gie ye mair control ower yer stravaiger.
+enable-learn-more-link = Lairn mair aboot Forderer Tools
+enable-enable-button = Enable Forderer Tools
 enable-close-button = Sneck this Tab
+welcome-title = Walcome tae Firefox Developer Tools!
+newsletter-title = Mozilla Developer Newsletter
+newsletter-message = Get forderer news, tricks and resources sent richt tae yer inbox.
 newsletter-email-placeholder =
     .placeholder = Email
+newsletter-privacy-label = I'm awricht wi Mozilla haunlin ma info as set oot in this <a data-l10n-name="privacy-policy">Preevacy Policy</a>.
+newsletter-subscribe-button = Subscribe
 newsletter-thanks-title = Cheers!
 footer-learn-more-link = Lairn mair
 features-learn-more = Lairn mair
@@ -18,3 +27,8 @@ features-debugger-title = Bugdichter
 features-network-title = Netwark
 features-storage-title = Storage
 features-performance-title = Performance
+newsletter-error-unknown = An unexpectit mishanter tuik place.
+newsletter-error-timeout = Subscription request timed oot.
+# Variables:
+#   $shortcut (String) - The keyboard shortcut used for the tool
+welcome-message = Ye've enabled Developer Tools wioot onie problem! Fur tae get stertit, hae a deek at the Wab Forderer menu or open the tools wi { $shortcut }.
