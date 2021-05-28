@@ -27,6 +27,9 @@ footer-message = Luikin fur mair nor jist Developer Tools? Hae a deek at the Fir
 footer-learn-more-link = Lairn mair
 features-learn-more = Lairn mair
 features-inspector-title = Inspector
+features-inspector-desc = Luik-ower and refine code fur tae big pixel-perfect layoots. <a data-l10n-name="learn-more">{ features-learn-more }</a>
+features-console-title = Console
+features-console-desc = Track CSS, JavaScript, siccarness and netwark issues. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-debugger-title = Bugdichter
 features-network-title = Netwark
 features-storage-title = Storage
