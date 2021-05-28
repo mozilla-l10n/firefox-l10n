@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+certmgr-title =
+    .title = Certificate Manager
 certmgr-tab-mine =
     .label = Yer Certificates
 certmgr-tab-people =
@@ -17,6 +19,7 @@ certmgr-detail-pretty-print-tab-title =
 certmgr-subject-label = Issued Tae
 certmgr-issuer-label = Issued By
 certmgr-fingerprints = Fingirprents
+certmgr-cert-detail-org = Organisation (O)
 certmgr-cert-detail-serial-number = Serial Nummer
 certmgr-cert-detail-sha-256-fingerprint = SHA-256 Fingirprent
 certmgr-cert-detail-sha-1-fingerprint = SHA1 Fingirprent
@@ -97,12 +100,18 @@ cert-with-serial =
 
 not-present =
     .value = <No Pairt O Certificate>
+# Add usage
+verify-ssl-client =
+    .value = SSL Client Certificate
+verify-ssl-server =
+    .value = SSL Server Certificate
 # Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
 send-no-client-certificate = Send nae client certificate
 
 ## Used to show whether an override is temporary or permanent
 
 permanent-override = Ayebidin
+temporary-override = Temporar
 
 ## Add Security Exception dialog
 
