@@ -73,6 +73,8 @@ no-proxy-label =
 no-proxy-example = Příklad: .mozilla.org, .net.nz, 192.168.1.0/24
 # Note: Do not translate localhost, 127.0.0.1 and ::1.
 no-proxy-localhost-label = Spojení na localhost, 127.0.0.1 a ::1 nikdy proxy servery nepoužívají.
+# Do not translate "localhost", "127.0.0.1/8" and "::1". (You can translate "and".)
+connection-proxy-noproxy-localhost-desc-2 = Spojení na localhost, 127.0.0.1/8 a ::1 nikdy proxy servery nepoužívají.
 proxy-password-prompt =
     .label = Nedotazovat se na autentizaci, pokud je heslo uloženo
     .accesskey = e
