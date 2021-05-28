@@ -6,3 +6,4 @@ add-on-options-button =
     .title = Lisäosan asetukset
 atn-addons-heading-search-input =
     .placeholder = Hae addons.thunderbird.netistä
+sidebar-preferences-button-title = { -brand-short-name }-asetukset

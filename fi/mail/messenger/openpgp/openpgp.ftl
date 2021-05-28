@@ -294,6 +294,9 @@ openpgp-keygen-external-success = Ulkoisen GnuPG-avaimen tunniste tallennettu!
 openpgp-radio-none =
     .label = Ei mitään
 openpgp-radio-none-desc = Älä käytä OpenPGP:tä tähän henkilöyteen.
+openpgp-radio-key-not-usable = Tämä avain ei ole soveltuva henkilökohtaiseksi avaimeksi, koska salainen avain puuttuu!
+openpgp-radio-key-not-accepted = Tämän avaimen käyttämiseksi sinun on hyväksyttävä se henkilökohtaiseksi avaimeksi!
+openpgp-radio-key-not-found = Tätä avainta ei löytynyt! Jos haluat käyttää sitä, sinun on tuotava se { -brand-short-name }iin.
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = Vanhenee: { $date }
 openpgp-key-expires-image =
@@ -633,5 +636,6 @@ dlg-button-retry = &Yritä uudelleen
 dlg-button-skip = &Ohita
 # Strings used in enigmailCommon.js
 enig-error = OpenPGP-virhe
+# Strings used in enigmailMsgBox.js
 enig-alert-title =
     .title = OpenPGP-hälytys
