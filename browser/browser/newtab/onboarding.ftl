@@ -280,7 +280,7 @@ mr1-onboarding-import-subtitle = Importa tus contraseñas, <br/>marcadores y má
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
-mr1-onboarding-import-primary-button-label-attribution = Importar desde { $Previous }
+mr1-onboarding-import-primary-button-label-attribution = Importar desde { $previous }
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = Importar desde el navegador anterior
 mr1-onboarding-import-secondary-button-label = Ahora no
