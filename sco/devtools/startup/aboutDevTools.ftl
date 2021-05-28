@@ -21,8 +21,12 @@ newsletter-email-placeholder =
 newsletter-privacy-label = I'm awricht wi Mozilla haunlin ma info as set oot in this <a data-l10n-name="privacy-policy">Preevacy Policy</a>.
 newsletter-subscribe-button = Subscribe
 newsletter-thanks-title = Cheers!
+newsletter-thanks-message = Gin ye hivnae confirmed a subscription tae a Mozilla-relatit newsletter afore, ye micht hae tae dae sae. Please check yer inbox or yer spam filter fur an email fae us.
+footer-title = Firefox Developer Edition
+footer-message = Luikin fur mair nor jist Developer Tools? Hae a deek at the Firefox stravaiger biggit specifically fur forderers and modern warkflows.
 footer-learn-more-link = Lairn mair
 features-learn-more = Lairn mair
+features-inspector-title = Inspector
 features-debugger-title = Bugdichter
 features-network-title = Netwark
 features-storage-title = Storage
