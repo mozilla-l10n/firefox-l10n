@@ -6,7 +6,7 @@
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = Haud Forrit wi Tent
-about-config-intro-warning-text = Chyngin advanced confeeguration preferences can effect { -brand-short-name } performance or siccarness.
+about-config-intro-warning-text = Chyngin advanced confeeguration preferences can affect { -brand-short-name } performance or siccarness.
 about-config-intro-warning-checkbox = Lat me ken whan I go tae access these preferences
 about-config-intro-warning-button = Accept the Risk and Gang On
 
