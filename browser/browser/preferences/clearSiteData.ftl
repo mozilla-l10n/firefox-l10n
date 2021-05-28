@@ -31,16 +31,16 @@ clear-site-data-cookies-info = Pśez lašowanje móžo k wašomu wótzjawjanjeju
 #   $amount (Number) - Amount of cache currently stored on disk
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
 clear-site-data-cache-with-data =
-    .label = Webwopśimjeśe w cachu ({ $amount } { $unit })
-    .accesskey = W
+    .label = Pufrowane webwopśimjeśe ({ $amount } { $unit })
+    .accesskey = P
 # This string is a placeholder for while the data used to fill
 # clear-site-data-cache-with-data is loading. This placeholder is usually
 # only shown for a very short time (< 1s), so it should be very similar
 # or the same as clear-site-data-cache-with-data (except the amount and unit),
 # to avoid flickering.
 clear-site-data-cache-empty =
-    .label = Webwopśimjeśe w cachu
-    .accesskey = W
+    .label = Pufrowane webwopśimjeśe
+    .accesskey = u
 clear-site-data-cache-info = Pomina se, až websedła wobraze a daty znowego zacytaju
 clear-site-data-cancel =
     .label = Pśetergnuś
