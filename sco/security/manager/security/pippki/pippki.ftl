@@ -11,6 +11,8 @@ change-password-window =
 change-device-password-window =
     .title = Chynge Passwird
 change-password-old = Passwird the noo:
+change-password-new = New passwird:
+change-password-reenter = New passwird (again):
 
 ## Reset Password dialog
 

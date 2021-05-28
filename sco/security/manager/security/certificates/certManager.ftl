@@ -6,6 +6,8 @@ certmgr-tab-mine =
     .label = Yer Certificates
 certmgr-tab-people =
     .label = Fowk
+certmgr-tab-servers =
+    .label = Servers
 certmgr-detail-general-tab-title =
     .label = General
     .accesskey = G
@@ -13,6 +15,7 @@ certmgr-detail-pretty-print-tab-title =
     .label = Details
     .accesskey = D
 certmgr-subject-label = Issued Tae
+certmgr-issuer-label = Issued By
 certmgr-fingerprints = Fingirprents
 certmgr-cert-detail-serial-number = Serial Nummer
 certmgr-cert-detail-sha-256-fingerprint = SHA-256 Fingirprent
@@ -22,6 +25,8 @@ certmgr-delete-cert =
     .style = width: 48em; height: 24em;
 certmgr-cert-name =
     .label = Certificate Nemme
+certmgr-cert-server =
+    .label = Server
 certmgr-begins-on = Sterts On
 certmgr-begins-label =
     .label = Sterts On
@@ -52,12 +57,17 @@ certmgr-restore =
     .accesskey = b
 exception-mgr-cert-location-url =
     .value = Airtin:
+exception-mgr-cert-location-download =
+    .label = Get Certificate
+    .accesskey = G
 exception-mgr-cert-status-view-cert =
     .label = View…
     .accesskey = V
+pk11-bad-password = The passwird inpit wisnae richt.
 
 ## PKCS#12 file dialogs
 
+choose-p12-backup-file-dialog = File Nemme tae Backup
 file-browse-pkcs12-spec = PKCS12 Files
 choose-p12-restore-file-dialog = Certificate File tae Inbring
 
@@ -87,13 +97,17 @@ cert-with-serial =
 
 not-present =
     .value = <No Pairt O Certificate>
+# Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
+send-no-client-certificate = Send nae client certificate
 
 ## Used to show whether an override is temporary or permanent
 
+permanent-override = Ayebidin
 
 ## Add Security Exception dialog
 
 add-exception-domain-mismatch-short = Wrang Site
+add-exception-expired-short = Ootdatit Information
 
 ## Certificate export "Save as" and error dialogs
 
