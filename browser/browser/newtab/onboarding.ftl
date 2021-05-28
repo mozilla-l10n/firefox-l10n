@@ -169,7 +169,7 @@ onboarding-multistage-welcome-secondary-button-text = Já tem uma conta?
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "default" should stay inside the span.
 onboarding-multistage-set-default-header = Torne o { -brand-short-name } seu <span data-l10n-name="zap">padrão</span>
-onboarding-multistage-set-default-subtitle = Velocidade, segurança e privacidade sempre que você navega.
+onboarding-multistage-set-default-subtitle = Velocidade, segurança e privacidade sempre que você navegar.
 onboarding-multistage-set-default-primary-button-label = Tornar padrão
 onboarding-multistage-set-default-secondary-button-label = Agora não
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
@@ -251,6 +251,8 @@ onboarding-multistage-theme-description-alpenglow =
 mr1-welcome-screen-hero-text = Começa aqui
 # Caption for background image in about:welcome. "Soraya Osorio" is the name
 # of the person and shouldn't be translated.
+# In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
+# You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = Soraya Osorio — Designer de móveis, fã do Firefox
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Desativar animações
