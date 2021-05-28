@@ -284,11 +284,11 @@ about-logins-import-file-picker-tsv-filter-title =
 about-logins-import-dialog-title = Echu eo gant an enporzhiañ
 about-logins-import-dialog-items-added =
     { $count ->
-        [one] <span>Titour kennaskañ nevez ouzhpennet:</span> <span data-l10n-name="count"></span>
-        [two] <span>Titouroù kennaskañ nevez ouzhpennet:</span> <span data-l10n-name="count"></span>
-        [few] <span>Titouroù kennaskañ nevez ouzhpennet:</span> <span data-l10n-name="count"></span>
-        [many] <span>Titouroù kennaskañ nevez ouzhpennet:</span> <span data-l10n-name="count"></span>
-       *[other] <span>Titouroù kennaskañ nevez ouzhpennet:</span> <span data-l10n-name="count"></span>
+        [one] <span>Titour kennaskañ nevez ouzhpennet:</span> <span data-l10n-name="count">{ $count }</span>
+        [two] <span>Titouroù kennaskañ nevez ouzhpennet:</span> <span data-l10n-name="count">{ $count }</span></span>
+        [few] <span>Titouroù kennaskañ nevez ouzhpennet:</span> <span data-l10n-name="count">{ $count }</span></span>
+        [many] <span>Titouroù kennaskañ nevez ouzhpennet:</span> <span data-l10n-name="count">{ $count }</span></span>
+       *[other] <span>Titouroù kennaskañ nevez ouzhpennet:</span> <span data-l10n-name="count">{ $count }</span></span>
     }
 about-logins-import-dialog-done = Graet
 about-logins-import-dialog-error-title = Fazi enporzhiañ
