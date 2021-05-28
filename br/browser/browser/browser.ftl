@@ -345,6 +345,7 @@ identity-https-only-info-turn-on2 = Gweredekait ar mod HTTPS hepken evit al lec�
 identity-https-only-info-turn-off2 = Ma seblant bezañ torret ar bajenn e c’hallit diweredekaat ar mod HTTPS hepken evit ma vefe adkarget al lec’hienn gant HTTP diziogel.
 identity-https-only-info-no-upgrade = N'haller ket gwellaat ar c'hennask HTTP.
 identity-permissions-storage-access-header = Toupinoù etrelec'hienn
+identity-permissions-storage-access-hint = An aozadurioù-mañ a c'hall implijout toupinoù etre al lec’hiennoù hag ar roadennoù lec’hienn p’emaoc’h war al lec’hienn-mañ.
 identity-permissions-storage-access-learn-more = Gouzout hiroc’h
 identity-permissions-reload-hint = Ret eo deoc'h adkargañ ar bajenn evit arloañ ar c'hemmoù.
 identity-permissions-empty = N'ho peus roet aotre arbennik ebet d'al lec'hienn-mañ.
@@ -397,6 +398,8 @@ browser-tab-audio-playing2 = O LENN
 browser-tab-audio-muted2 = DIDROUZ
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-blocked = LENN EMGEFREEK HARZET
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = SKEUDENN-OUZH-SKEUDENN
 
 ## These labels should be written in all capital letters if your locale supports them.
 ## Variables:
@@ -408,6 +411,7 @@ browser-tab-audio-blocked = LENN EMGEFREEK HARZET
 browser-import-button2 =
     .label = Enporzhiañ ar sinedoù…
     .tooltiptext = Enporzhiañ ar sinedoù adalek ur merdeer all betek { -brand-short-name }.
+bookmarks-toolbar-empty-message = Evit kaout anezho buan e c’hallit lakaat ho sinedoù amañ e barrenn-ostilhoù ar sinedoù. <a data-l10n-name="manage-bookmarks">
 
 ## WebRTC Pop-up notifications
 
@@ -417,8 +421,14 @@ popup-select-camera =
 popup-select-microphone =
     .value = Klevell da rannañ:
     .accesskey = K
+popup-select-camera-device =
+    .value = Kamera:
+    .accesskey = K
 popup-select-camera-icon =
     .tooltiptext = Kamera
+popup-select-microphone-device =
+    .value = Klevell:
+    .accesskey = K
 popup-select-microphone-icon =
     .tooltiptext = Mikro
 popup-all-windows-shared = Rannet e vo an holl brenestroù gwelus war ho skramm.
@@ -430,6 +440,13 @@ popup-screen-sharing-never =
     .accesskey = N
 popup-silence-notifications-checkbox = Diweredekaat ar rebuziñ eus { -brand-short-name } e-pad ar rannadenn
 popup-silence-notifications-checkbox-warning = { -brand-short-name } na ziskouezo ket a rebuzadurioù p’emaoc’h o rannañ.
+popup-screen-sharing-block =
+    .label = Stankañ
+    .accesskey = S
+popup-screen-sharing-always-block =
+    .label = Stankañ bepred
+    .accesskey = b
+popup-mute-notifications-checkbox = Mudañ ar rebuzadurioù lec’hienn pa vezit ho rannañ
 
 ## WebRTC window or screen share tab switch warning
 
@@ -486,6 +503,11 @@ urlbar-placeholder-with-name =
     .placeholder = Klaskit gant: { $name } pe enankit ur chomlec'h
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Reoliet a-bell eo ar merdeer
+# Variables
+#  $component (String): the name of the component which forces remote control.
+#    Example: "DevTools", "Marionette", "RemoteAgent".
+urlbar-remote-control-notification-anchor2 =
+    .tooltiptext = Reoliet a-bell eo ar merdeer (abeg: { $component })
 urlbar-permissions-granted =
     .tooltiptext = Roet ho peus aotreoù ouzhpenn d'al lec'hienn-mañ.
 urlbar-switch-to-tab =
@@ -531,6 +553,14 @@ urlbar-result-action-before-tabtosearch-web = Pouezañ Tab evit klask gant { $en
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-before-tabtosearch-other = Pouezañ Tab evit klask war { $engine }
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-tabtosearch-web = Klaskit gant { $engine } war-eeun eus ar varrenn chomlec’h
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-tabtosearch-other-engine = Klaskit gant { $engine } war-eeun eus ar varrenn chomlec’h
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = Eilañ
 # Shows the result of a formula expression being calculated, the last = sign will be shown
@@ -565,6 +595,7 @@ pointerlock-warning-no-domain = Meret eo ho logodenn gant an teul-mañ. Pouezit 
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>Sac’het eo ul lodenn eus al lec’hienn.</strong> Evit kelaouiñ { -brand-product-name } eus ar gudenn-se ha kempenn anezhi buanoc’h e c’hallit leuniañ un danevell.
 crashed-subframe-learnmore-link =
     .value = Gouzout hiroc'h
 crashed-subframe-submit =
@@ -598,6 +629,12 @@ bookmarks-tools-toolbar-visibility-menuitem =
             [true] Kuzhat barrenn ostilhoù ar sinedoù
            *[other] Gwelout barrenn ostilhoù ar sinedoù
         }
+bookmarks-tools-toolbar-visibility-panel =
+    .label =
+        { $isVisible ->
+            [true] Kuzhat barrenn ar sinedoù
+           *[other] Diskouez barrenn ar sinedoù
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
@@ -623,6 +660,9 @@ bookmarks-toolbar-placeholder =
     .title = Ergorennoù barrenn ostilhoù ar sinedoù
 bookmarks-toolbar-placeholder-button =
     .label = Ergorennoù barrenn ostilhoù ar sinedoù
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = Lakaat an ivinell vremanel er sinedoù
 
 ## Library Panel items
 
@@ -639,6 +679,20 @@ save-to-pocket-button =
 
 ## Customize Toolbar Buttons
 
+# Variables:
+#  $shortcut (String): keyboard shortcut to open the add-ons manager
+toolbar-addons-themes-button =
+    .label = Askouezhioù ha neuzioù
+    .tooltiptext = Merit hoc’h askouezhioù hag ho neuzioù ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open settings (only on macOS)
+toolbar-settings-button =
+    .label = Arventennoù
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Digeriñ an arventennoù ({ $shortcut })
+           *[other] Digeriñ an arventennoù
+        }
 
 ## More items
 
@@ -650,6 +704,9 @@ more-menu-go-offline =
 
 eme-notifications-drm-content-playing = Bez ez eus aodio ha video war ar bajenn-mañ a arver meziantoù DRM, ar pezh a c'hell bevenniñ ar pezh a vezoc'h laosket gant { -brand-short-name } d'ober ganto.
 eme-notifications-drm-content-playing-manage = Merañ an arventennoù
+eme-notifications-drm-content-playing-manage-accesskey = M
+eme-notifications-drm-content-playing-dismiss = Argas
+eme-notifications-drm-content-playing-dismiss-accesskey = A
 
 ## Password save/update panel
 
@@ -658,6 +715,9 @@ panel-save-update-password = Ger-tremen
 
 ## Add-on removal warning
 
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = Dilemel { $name }?
 
 ## Remote / Synced tabs
 
