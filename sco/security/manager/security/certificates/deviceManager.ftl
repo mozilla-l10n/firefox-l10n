@@ -24,6 +24,16 @@ devmgr-button-enable-fips =
 
 ## Strings used for load device
 
+load-device =
+    .title = Load PKCS#11 Device Driver
+load-device-modname =
+    .value = Module Nemme
+    .accesskey = M
+load-device-modname-default =
+    .value = New PKCS#11 Module
+load-device-filename =
+    .value = Module filenemme
+    .accesskey = f
 load-device-browse =
     .label = Stravaig…
     .accesskey = S

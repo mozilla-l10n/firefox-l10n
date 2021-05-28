@@ -5,12 +5,27 @@
 
 ### Import Logins Autocomplete
 
+# Variables:
+#   $browser (String) - Browser name to import logins from.
+#   $host (String) - Host name of the current site.
+autocomplete-import-logins =
+    <div data-l10n-name="line1">Inbring yer login fae { $browser }</div>
+    <div data-l10n-name="line2">fur { $host } and ither sites</div>
 autocomplete-import-logins-info =
     .tooltiptext = Lairn mair
 
 ## Variables:
 ##   $host (String) - Host name of the current site.
 
+autocomplete-import-logins-chrome =
+    <div data-l10n-name="line1">Inbring yer login fae Google Chrome</div>
+    <div data-l10n-name="line2">fur { $host } and ither sites</div>
+autocomplete-import-logins-chromium =
+    <div data-l10n-name="line1">Inbring yer login fae Chromium</div>
+    <div data-l10n-name="line2">fur { $host } and ither sites</div>
+autocomplete-import-logins-chromium-edge =
+    <div data-l10n-name="line1">Inbring yer login fae Microsoft Edge</div>
+    <div data-l10n-name="line2">fur { $host } and ither sites</div>
 
 ##
 

@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+profiles-title = Aboot Profiles
 profiles-restart-title = Restert
 profiles-restart-in-safe-mode = Restert Wi Eik-ons Disabled…
 profiles-restart-normal = Restert as ordinar…
@@ -12,6 +13,8 @@ profiles-flush-restart-button = Restert { -brand-short-name }
 #   $name (String) - Name of the profile
 profiles-name = Profile: { $name }
 profiles-is-default = Staunart Profile
+profiles-rootdir = Root Directory
+profiles-rename = Renemme
 profiles-remove = Remuive
 profiles-cannot-set-as-default-title = No able tae set as staunart
 profiles-cannot-set-as-default-message = The staunart profile cannae be chynged fur { -brand-short-name }.

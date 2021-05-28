@@ -31,6 +31,9 @@ config-value-column =
 
 ## These strings are used for the context menu
 
+config-modify =
+    .label = Chynge
+    .accesskey = C
 config-reset =
     .label = Reset
     .accesskey = R
@@ -38,4 +41,12 @@ config-boolean =
     .label = Boolean
     .accesskey = B
 config-default = staunart
+config-modified = chynged
 config-property-bool = boolean
+config-nan-text = The text ye inpit isnae a nummer.
+# Variables:
+#   $type (String): type of value (boolean, integer or string)
+config-new-title = New { $type } vailue
+# Variables:
+#   $type (String): type of value (boolean, integer or string)
+config-modify-title = Inpit { $type } vailue
