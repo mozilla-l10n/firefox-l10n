@@ -25,6 +25,17 @@ experimental-features-media-avif-description =
     } podporu pro formát AVIF založený na AV1. Jde o statický obrazový formát, který využívá možnosti formátu videa AV1 pro zmenšení velikosti obrázků. Podrobnosti najdete v <a data-l10n-name="bugzilla">bugu 1443863</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
+experimental-features-media-jxl =
+    .label = Média: JPEG XL
+experimental-features-media-jxl-description =
+    Zapne { -brand-short-name.gender ->
+        [masculine] ve { -brand-short-name(case: "loc") }
+        [feminine] v { -brand-short-name(case: "loc") }
+        [neuter] v { -brand-short-name(case: "loc") }
+       *[other] v aplikaci { -brand-short-name }
+    } podporu pro formát JPEG XL (JXL). Toto je vylepšený formát obrazového souboru, který podporuje bezztrátový přechod z tradičních JPEG souborů. Podrobnosti najdete v <a data-l10n-name="bugzilla">bugu 1539075</a>.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
     .label = Web API: inputmode
 # "inputmode" and "contenteditable" are technical terms and shouldn't be translated.
