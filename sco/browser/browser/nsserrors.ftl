@@ -152,3 +152,6 @@ ssl-error-incorrect-signature-algorithm = Wrang signature algorithm specified in
 ssl-error-next-protocol-no-callback = The neist protocol negotiation extension wis enabled, but the cawback wis dichtit afore bein needit.
 ssl-error-next-protocol-no-protocol = The server supports nae protocols that the client advertises in the ALPN extension.
 ssl-error-inappropriate-fallback-alert = The server rejectit the haunshake acause the client doongradit tae a lower TLS version nor the server supports.
+ssl-error-weak-server-cert-key = The server certificate includit a public key that wis ower stintit.
+ssl-error-rx-short-dtls-read = No eneuch room in buffer fur DTLS record.
+ssl-error-no-supported-signature-algorithm = Nae supportit TLS signature algorithm wis confeegurt.
