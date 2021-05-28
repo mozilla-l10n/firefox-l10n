@@ -43,6 +43,7 @@ config-boolean =
 config-default = staunart
 config-modified = chynged
 config-property-bool = boolean
+config-nan-title = Vailue isnae suithfest
 config-nan-text = The text ye inpit isnae a nummer.
 # Variables:
 #   $type (String): type of value (boolean, integer or string)

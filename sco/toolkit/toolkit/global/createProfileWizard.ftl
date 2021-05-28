@@ -2,9 +2,17 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+create-profile-window =
+    .title = Mak Profile Helpender
+    .style = width: 45em; height: 32em;
 
 ## First wizard page
 
+create-profile-first-page-header =
+    { PLATFORM() ->
+        [macos] Introduction
+       *[other] Walcome tae the { create-profile-window.title }
+    }
 profile-creation-explanation-4 =
     { PLATFORM() ->
         [macos] Tae stert makkin yer profile, click Haud Forrit.
