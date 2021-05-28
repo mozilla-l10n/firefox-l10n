@@ -50,6 +50,9 @@ folder-toolbar-toggle-folder-compact-view =
     .label = Tiivis näkymä
     .accesskey = T
 
+## Menu
+
+
 ## AppMenu
 
 # Since v89 we dropped the platforms distinction between Options or Preferences
@@ -59,6 +62,12 @@ appmenu-preferences =
 appmenu-addons-and-themes =
     .label = Lisäosat ja teemat
 
+## Context menu
+
+
+## Message header pane
+
+
 ## Action Button Context Menu
 
 toolbar-context-menu-manage-extension =
@@ -67,6 +76,13 @@ toolbar-context-menu-manage-extension =
 toolbar-context-menu-remove-extension =
     .label = Poista laajennus
     .accesskey = P
+
+## Message headers
+
+message-header-address-in-address-book-icon =
+    .alt = Osoite on osoitekirjassa
+message-header-address-not-in-address-book-icon =
+    .alt = Osoite ei ole osoitekirjassa
 
 ## Add-on removal warning
 
