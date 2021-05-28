@@ -337,6 +337,7 @@ can-sandbox-content = Content Process Sandboxin
 can-sandbox-media = Media Plugin Sandboxin
 content-sandbox-level = Content Process Sandbox Level
 effective-content-sandbox-level = Effective Content Process Sandbox Level
+content-win32k-lockdown-state = Win32k Lockdoon State fur Content Process
 sandbox-proc-type-content = content
 sandbox-proc-type-file = file content
 sandbox-proc-type-media-plugin = media plugin
