@@ -16,6 +16,9 @@ about-rights-notification-text = { -brand-short-name } es un software gratuito y
 addons-and-themes-button =
     .label = Complementos y temas
     .tooltip = Administrar complementos
+redirect-msg-button =
+    .label = Redirigir
+    .tooltiptext = Redirigir el mensaje seleccionado
 
 ## Folder Pane
 
@@ -50,6 +53,12 @@ folder-toolbar-toggle-folder-compact-view =
     .label = Vista compacta
     .accesskey = C
 
+## Menu
+
+redirect-msg-menuitem =
+    .label = Redirigir
+    .accesskey = D
+
 ## AppMenu
 
 # Since v89 we dropped the platforms distinction between Options or Preferences
@@ -64,6 +73,18 @@ appmenu-help-exit-troubleshoot-mode =
     .label = Deshabilitar resolución de problemas
 appmenu-help-more-troubleshooting-info =
     .label = Más información sobre resolución de problemas
+appmenu-redirect-msg =
+    .label = Redirigir
+
+## Context menu
+
+context-menu-redirect-msg =
+    .label = Redirigir
+
+## Message header pane
+
+other-action-redirect-msg =
+    .label = Redirigir
 
 ## Action Button Context Menu
 
