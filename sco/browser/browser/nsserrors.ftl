@@ -106,3 +106,4 @@ ssl-error-no-server-key-for-alg = Server disnae hae a key fur the attemptit key 
 ssl-error-token-insertion-removal = PKCS#11 token wis pittin in or remuived while operation wis unnerwey.
 ssl-error-token-slot-not-found = Nae PKCS#11 token could be fund fur tae dae a necessar operation.
 ssl-error-no-compression-overlap = Cannae communicate siccarly wi peer: nae common compression algorithm(s).
+ssl-error-handshake-not-completed = Cannae initiate anither SSL haunshake afore current haunshake is feenisht.
