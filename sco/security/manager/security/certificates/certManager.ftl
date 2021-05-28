@@ -108,6 +108,7 @@ permanent-override = Ayebidin
 
 add-exception-domain-mismatch-short = Wrang Site
 add-exception-expired-short = Ootdatit Information
+add-exception-valid-short = Suithfest Certificate
 
 ## Certificate export "Save as" and error dialogs
 
