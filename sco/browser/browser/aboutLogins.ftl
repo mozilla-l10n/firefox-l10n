@@ -70,7 +70,6 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Luikin fur yer saved logins? Set up { -sync-brand-short-name }.
-about-logins-login-intro-heading-logged-out = Luikin fur yer saved logins? Set up { -sync-brand-short-name } or Inbring Them.
 about-logins-login-intro-heading-logged-out2 = Luikin fur yer saved logins? Turn on sync or inbring them.
 about-logins-login-intro-heading-logged-in = Nae synced logins fund.
 login-intro-description = Gin ye saved yer logins tae { -brand-product-name } on anither device, here's how tae get them here:
@@ -306,7 +305,7 @@ about-logins-import-dialog-items-error =
     }
 about-logins-import-dialog-done = Duin
 about-logins-import-dialog-error-title = Inbringin Mishanter
-about-logins-import-dialog-error-conflicting-values-title = Multiple Conflictin Values fur Ane Login
+about-logins-import-dialog-error-conflicting-values-title = Multiple Conflictin Vailues fur Ane Login
 about-logins-import-dialog-error-conflicting-values-description = Fur exemple: multiple yaiser nemmes, passwirds, URLs, etc. fur ane login
 about-logins-import-dialog-error-file-format-title = File Format Issue
 about-logins-import-dialog-error-file-format-description = Wrang or tint column heiders. Mak shair the file includes columns fur yaiser nemme, passwird and URL.
@@ -316,7 +315,6 @@ about-logins-import-dialog-error-unable-to-read-title = No Able tae Parse File
 about-logins-import-dialog-error-unable-to-read-description = Mak shair ye selectit a CSV or TSV file.
 about-logins-import-dialog-error-no-logins-imported = Nae logins hae been inbrocht
 about-logins-import-dialog-error-learn-more = Lairn mair
-about-logins-import-dialog-error-try-again = Try Aince Mair...
 about-logins-import-dialog-error-try-import-again = Try Inbringin Aince Mair...
 about-logins-import-dialog-error-cancel = Stap
 about-logins-import-report-title = Inbringin Summary
@@ -334,7 +332,7 @@ about-logins-import-report-row-description-error = Mishanter: Tint field
 ## Variables:
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
-about-logins-import-report-row-description-error-multiple-values = Mishanter: Multiple values fur { $field }
+about-logins-import-report-row-description-error-multiple-values = Mishanter: Multiple vailues fur { $field }
 about-logins-import-report-row-description-error-missing-field = Mishanter: Tint { $field }
 
 ##
