@@ -24,6 +24,8 @@ about-addressbook-books-context-properties =
     .label = პარამეტრები
 about-addressbook-books-context-synchronize =
     .label = სინქრონიზაცია
+about-addressbook-books-context-print =
+    .label = ამობეჭდვა…
 about-addressbook-books-context-delete =
     .label = წაშლა
 
@@ -35,6 +37,8 @@ about-addressbook-search =
     .placeholder = მოიძებნოს { $name }
 about-addressbook-search-all =
     .placeholder = მოიძებნოს ყველა წიგნაკი
+about-addressbook-sort-button =
+    .title = ჩამონათვალის რიგითობის შეცვლა
 about-addressbook-name-format-display =
     .label = გამოსაჩენი სახელი
 about-addressbook-name-format-firstlast =
