@@ -298,6 +298,7 @@ mr1-onboarding-sign-in-button-label = Logga in
 ## Title, subtitle and primary button string used on set default onboarding screen
 ## when Firefox is not default browser
 
+mr1-onboarding-default-primary-button-label = Gör till standardwebbläsare
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
