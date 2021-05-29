@@ -151,27 +151,57 @@ account-setup-port-label = პორტი:
     .title = მიუთითეთ პორტის ნორმარდ 0, თვითდადგენისთვის
 account-setup-auto-description = { -brand-short-name } შეეცდება თავად შეავსოს დარჩენილი ველები.
 account-setup-ssl-label = კავშირის უსაფრთხოება:
+account-setup-outgoing-server-legend = გამავალი სერვერი
 
 ## Incoming/Outgoing SSL Authentication options
 
 ssl-autodetect-option = თვითამოცნობა
+ssl-no-authentication-option = ანგარიშზე შესვლის გარეშე
+ssl-cleartext-password-option = ჩვეულებრივი პაროლი
+ssl-encrypted-password-option = დაშიფრული პაროლი
 
 ## Incoming/Outgoing SSL options
 
 ssl-noencryption-option = არცერთი
+account-setup-auth-label = ანგარიშზე შესვლის მეთოდი:
+account-setup-username-label = მომხმარებელი:
 account-setup-advanced-setup-button = გაფართოებული გამართვა
     .accesskey = ო
 
 ## Warning insecure server dialog
 
+account-setup-insecure-title = გაფრთხილება!
+account-setup-insecure-incoming-title = შემომავალის პარამეტრები:
+account-setup-insecure-outgoing-title = გამავალის პარამეტრები:
+# Variables:
+#  $server (String): The name of the hostname of the server the user was trying to connect to.
+account-setup-warning-cleartext = <b>{ $server }</b> არ იყენებს დაშიფვრას.
+account-setup-warning-cleartext-details = ფოსტის დაუცველი სერვერები არ იყენებს დაშიფრულ კავშირებს პაროლებისა და პირადი ინფორმაციის უსაფრთხოებისთვის. ამ სერვერთან მიერთებით, შესაძლოა გამჟღავნდეს თქვენი პაროლი და პირადი მონაცემები.
 account-setup-insecure-server-checkbox = ვაცნობიერებ საფრთხეებს
     .accesskey = ც
+account-setup-insecure-description = { -brand-short-name } საშუალებას გაძლევთ ისარგებლოთ ელფოსტით, მოცემული გამართვით. თუმცა, მაინც გირჩევთ მიმართოთ ხელმძღვანელობას ან ელფოსტის მომწოდებელს, ამ დაუცველი კავშირების თაობაზე. ვრცლად იხილეთ <a data-l10n-name="thunderbird-faq-link">Thunderbird ᲮᲓᲙ</a>.
+insecure-dialog-cancel-button = პარამეტრების შეცვლა
+    .accesskey = შ
+insecure-dialog-confirm-button = დადასტურება
+    .accesskey = ტ
 
 ## Warning Exchange confirmation dialog
 
+# Variables:
+#  $domain (String): The name of the server where the configuration was found, e.g. rackspace.com.
+exchange-dialog-question = { -brand-short-name } პოულობს თქვენი ანგარიშის მონაცემებს { $domain }-ზე. გსურთ, განაგრძოთ და წარადგინოთ ანგარიშის მონაცემები?
+exchange-dialog-confirm-button = შესვლა
+exchange-dialog-cancel-button = გაუქმება
 
 ## Alert dialogs
 
+account-setup-creation-error-title = შეცდომა ანგარიშის შექმნისას
+account-setup-error-server-exists = შემომავალი სერვერი უკვე არსებობს.
+account-setup-confirm-advanced-title = დამატებით გამართვის დადასტურება
+account-setup-confirm-advanced-description = ეს ფანჯარა დაიხურება და ანგარიში შეიქმნება მიმდინარე პარამეტრებით, იმ შემთხვევაშიც, თუ არასწორადაა გამართული. გსურთ, განაგრძოთ?
 
 ## Addon installation section
 
+account-setup-addon-install-title = ჩადგმა
+account-setup-addon-install-intro = ეს მესამე მხარის დამატება მოგცემთ წვდომის შესაძლებლობას თქვენს ელფოსტის ანგარიშთან ამ სერვერზე:
+account-setup-addon-no-protocol = ელფოსტის ამ სერვერზე, სამწუხაროდ არაა მხარდაჭერილი ღია ოქმები. { account-setup-addon-install-intro }
