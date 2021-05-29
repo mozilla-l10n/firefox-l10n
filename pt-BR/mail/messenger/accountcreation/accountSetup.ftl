@@ -124,6 +124,11 @@ account-setup-result-smtp = SMTP
 account-setup-result-no-encryption = Sem criptografia
 account-setup-result-ssl = SSL/TLS
 account-setup-result-starttls = STARTTLS
+account-setup-result-outgoing-existing = Usar um servidor de envio SMTP já existente
+# Variables:
+#  $incoming (String): The email/username used to log into the incoming server
+#  $outgoing (String): The email/username used to log into the outgoing server
+account-setup-result-username-different = Recebimento: { $incoming }, Envio: { $outgoing }
 
 ## Error messages
 
@@ -141,6 +146,7 @@ account-setup-protocol-label = Protocolo:
 protocol-imap-option = { account-setup-result-imap }
 protocol-pop-option = { account-setup-result-pop }
 protocol-exchange-option = { account-setup-result-exchange }
+account-setup-hostname-label = Servidor:
 account-setup-ssl-label = Segurança da conexão:
 account-setup-outgoing-server-legend = Servidores de envio
 
@@ -162,8 +168,8 @@ account-setup-advanced-setup-button = Configuração avançada
 ## Warning insecure server dialog
 
 account-setup-insecure-title = Aviso!
-account-setup-insecure-incoming-title = Configurações de recebimento:
-account-setup-insecure-outgoing-title = Configurações de envio:
+account-setup-insecure-incoming-title = Configuração de recebimento:
+account-setup-insecure-outgoing-title = Configuração de envio:
 # Variables:
 #  $server (String): The name of the hostname of the server the user was trying to connect to.
 account-setup-warning-cleartext = <b>{ $server }</b> não usa criptografia.
@@ -180,6 +186,9 @@ exchange-dialog-cancel-button = Cancelar
 
 ## Alert dialogs
 
+account-setup-creation-error-title = Erro ao criar conta
+account-setup-error-server-exists = O servidor de recebimento já existe.
+account-setup-confirm-advanced-title = Confirmar configuração avançada
 
 ## Addon installation section
 

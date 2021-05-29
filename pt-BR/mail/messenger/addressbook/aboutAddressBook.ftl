@@ -24,6 +24,8 @@ about-addressbook-books-context-properties =
     .label = Propriedades
 about-addressbook-books-context-synchronize =
     .label = Sincronizar
+about-addressbook-books-context-print =
+    .label = Imprimir…
 about-addressbook-books-context-delete =
     .label = Excluir
 
