@@ -32,12 +32,42 @@ upgrade-dialog-new-secondary-button = 現在不要
 # theme selection screen.
 upgrade-dialog-new-primary-win7-button = 好，知道了！
 
+## Pin Firefox screen
+##
+## These title, subtitle and button strings differ between platforms as they
+## match the OS' application context menu item action where Windows uses "pin"
+## and "taskbar" while macOS "keep" and "Dock" (proper noun).
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-pin-title =
+    { PLATFORM() ->
+        [macos] 將 { -brand-short-name } 保留在您的 Dock
+       *[other] 將 { -brand-short-name } 釘選到您的工作列
+    }
+# The English macOS string avoids repeating "Keep" a third time, so if your
+# translations don't repeat anyway, the same string can be used cross-platform.
+upgrade-dialog-pin-subtitle =
+    { PLATFORM() ->
+        [macos] 輕輕鬆鬆使用最新版的 { -brand-short-name }。
+       *[other] 輕輕鬆鬆使用最新版的 { -brand-short-name }。
+    }
+upgrade-dialog-pin-primary-button =
+    { PLATFORM() ->
+        [macos] 保留在 Dock
+       *[other] 釘選到工作列
+    }
+upgrade-dialog-pin-secondary-button = 現在不要
+
 ## Default browser screen
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-default-title = 要將 { -brand-short-name } 設為您的預設瀏覽器嗎？
 upgrade-dialog-default-subtitle = 隨時上網都有最快速度、安全與隱私保護。
 upgrade-dialog-default-primary-button = 設為預設瀏覽器
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title-2 = 將 { -brand-short-name } 設為您的預設瀏覽器
+upgrade-dialog-default-subtitle-2 = 開啟速度、安全性、隱私權的自動保護。
+upgrade-dialog-default-primary-button-2 = 設為預設瀏覽器
 upgrade-dialog-default-secondary-button = 現在不要
 
 ## Theme selection screen
@@ -46,6 +76,8 @@ upgrade-dialog-default-secondary-button = 現在不要
 upgrade-dialog-theme-title =
     使用新佈景主題
     讓我們重新再出發
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-theme-title-2 = 使用新佈景主題讓我們重新再出發
 upgrade-dialog-theme-system = 系統佈景主題
     .title = 依照作業系統設定的佈景主題顯示按鈕、選單、視窗
 upgrade-dialog-theme-light = 亮色

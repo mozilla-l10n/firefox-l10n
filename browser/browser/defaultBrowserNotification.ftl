@@ -14,6 +14,7 @@ default-browser-notification-button =
 
 default-browser-prompt-title-pin = 要將 { -brand-short-name } 設為您的主要瀏覽器嗎？
 default-browser-prompt-message-pin = 將 { -brand-short-name } 設為預設瀏覽器並釘選到工作列，方便隨手開啟。
+default-browser-prompt-message-pin-mac = 將 { -brand-short-name } 設為預設瀏覽器並保留在您的 Dock，方便隨手開啟。
 default-browser-prompt-button-primary-pin = 設為主要瀏覽器
 default-browser-prompt-title-alt = 要將 { -brand-short-name } 設為您的預設瀏覽器嗎？
 default-browser-prompt-message-alt = 隨時上網都有最快速度、安全與隱私保護。
