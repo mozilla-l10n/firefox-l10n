@@ -337,6 +337,7 @@ can-sandbox-content = შიგთავსის პროცესის გ�
 can-sandbox-media = მედია მოდულის გამიჯვნა
 content-sandbox-level = შიგთავსის პროცესის გამიჯვნის დონე
 effective-content-sandbox-level = შიგთავსის პროცესის გამიჯვნის ეფექტიანი დონე
+content-win32k-lockdown-state = Win32k შეზღუდვის მდგომარეობა, შიგთავსის პროცესისთვის
 sandbox-proc-type-content = შიგთავსი
 sandbox-proc-type-file = ფაილის შიგთავსი
 sandbox-proc-type-media-plugin = მედიის მოდული

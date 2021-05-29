@@ -61,6 +61,8 @@ options-screenshot-label = Screenshot Behavior
 options-screenshot-clipboard-label = Screenshot to clipboard
 options-screenshot-clipboard-tooltip =
     .title = Saves to the screenshot directly to the clipboard
+# Label for the checkbox that toggles screenshot to clipboard feature
+options-screenshot-clipboard-only-label = ეკრანის გადაღებისას, მხოლოდ ასლის აღება
 options-screenshot-clipboard-tooltip2 =
     .title = Saves the screenshot directly to the clipboard
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
