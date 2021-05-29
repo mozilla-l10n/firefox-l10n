@@ -18,6 +18,12 @@ permissions-session =
 permissions-allow =
     .label = 允許
     .accesskey = A
+permissions-button-off =
+    .label = 關閉
+    .accesskey = O
+permissions-button-off-temporarily =
+    .label = 暫時關閉
+    .accesskey = T
 permissions-site-name =
     .label = 網站
 permissions-status =
@@ -58,6 +64,10 @@ permissions-capabilities-listitem-block =
     .value = 阻擋
 permissions-capabilities-listitem-allow-session =
     .value = 此次瀏覽階段允許
+permissions-capabilities-listitem-off =
+    .value = 關閉
+permissions-capabilities-listitem-off-temporarily =
+    .value = 暫時關閉
 
 ## Invalid Hostname Dialog
 
@@ -77,6 +87,12 @@ permissions-exceptions-cookie-window =
     .title = 例外 - Cookie 與網站資料
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = 您可以指定哪些網站是否可以設定 Cookie 和儲存網站資料。請在下方輸入要指定的完整網址，然後點擊「封鎖」、「此次瀏覽階段允許」或「允許」。
+
+## Exceptions - HTTPS-Only Mode
+
+permissions-exceptions-https-only-window =
+    .title = 例外 - 純 HTTPS 模式
+    .style = { permissions-window.style }
 
 ## Exceptions - Pop-ups
 

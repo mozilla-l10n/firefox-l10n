@@ -251,15 +251,51 @@ onboarding-multistage-theme-description-alpenglow =
 mr1-welcome-screen-hero-text = 一切從這裡開始
 # Caption for background image in about:welcome. "Soraya Osorio" is the name
 # of the person and shouldn't be translated.
+# In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
+# You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = Soraya Osorio — 家具設計師、Firefox 粉絲
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = 關閉動畫
+
+## Title and primary button strings differ between platforms as they
+## match the OS' application context menu item action where Windows uses "pin"
+## and "taskbar" while macOS "keep" and "Dock" (proper noun).
+
+# Title used on welcome page when Firefox is not pinned
+mr1-onboarding-pin-header =
+    { PLATFORM() ->
+        [macos] 將 { -brand-short-name } 保留在您的 Dock，方便快速使用
+       *[other] 將 { -brand-short-name } 釘選到您的工作列，方便快速使用
+    }
+# Primary button string used on welcome page when Firefox is not pinned.
+mr1-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] 保留在 Dock
+       *[other] 釘選到工作列
+    }
+
+## Multistage MR1 onboarding strings (about:welcome pages)
+
+# This string will be used on welcome page primary button label
+# when Firefox is both pinned and default
+mr1-onboarding-get-started-primary-button-label = 開始使用
 mr1-onboarding-welcome-header = 歡迎使用 { -brand-short-name }
 mr1-onboarding-set-default-pin-primary-button-label = 將 { -brand-short-name } 設為我的主要瀏覽器
     .title = 將 { -brand-short-name } 設為預設瀏覽器並釘選到工作列
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
 mr1-onboarding-set-default-only-primary-button-label = 將 { -brand-short-name } 設為我的預設瀏覽器
 mr1-onboarding-set-default-secondary-button-label = 暫時不要
 mr1-onboarding-sign-in-button-label = 登入
+
+## Title, subtitle and primary button string used on set default onboarding screen
+## when Firefox is not default browser
+
+mr1-onboarding-default-header = 將 { -brand-short-name } 設為您的預設瀏覽器
+mr1-onboarding-default-primary-button-label = 設為預設瀏覽器
+
+## Multistage MR1 onboarding strings (about:welcome pages)
+
 mr1-onboarding-import-header = 隨身攜帶
 mr1-onboarding-import-subtitle =
     匯入您的密碼、書籤<br/>
