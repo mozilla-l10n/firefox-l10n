@@ -27,12 +27,34 @@ upgrade-dialog-new-primary-primary-button = Imposta { -brand-short-name } come b
     .title = Imposta { -brand-short-name } come browser predefinito e lo aggiunge alla barra delle applicazioni
 upgrade-dialog-new-primary-default-button = Imposta { -brand-short-name } come browser predefinito
 upgrade-dialog-new-primary-pin-button = Aggiungi { -brand-short-name } alla barra delle applicazioni
-upgrade-dialog-new-primary-pin-alt-button = Aggiunti alla barra delle applicazioni
+upgrade-dialog-new-primary-pin-alt-button = Aggiungi alla barra delle applicazioni
 upgrade-dialog-new-primary-theme-button = Scegli un tema
 upgrade-dialog-new-secondary-button = Non adesso
 # This string is only shown on Windows 7, where we intentionally suppress the
 # theme selection screen.
 upgrade-dialog-new-primary-win7-button = OK, tutto chiaro
+
+## Pin Firefox screen
+##
+## These title, subtitle and button strings differ between platforms as they
+## match the OS' application context menu item action where Windows uses "pin"
+## and "taskbar" while macOS "keep" and "Dock" (proper noun).
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-pin-title = { PLATFORM() ->
+    [macos] Aggiungi { -brand-short-name } al Dock
+   *[other] Aggiungi { -brand-short-name } alla barra delle applicazioni
+}
+# The English macOS string avoids repeating "Keep" a third time, so if your
+# translations don't repeat anyway, the same string can be used cross-platform.
+upgrade-dialog-pin-subtitle =
+    La versione più moderna di { -brand-short-name } mai realizzata,
+    sempre a portata di mano.
+upgrade-dialog-pin-primary-button = { PLATFORM() ->
+    [macos] Aggiungi al Dock
+   *[other] Aggiungi alla barra delle applicazioni
+}
+upgrade-dialog-pin-secondary-button = Non adesso
 
 ## Default browser screen
 
@@ -40,6 +62,10 @@ upgrade-dialog-new-primary-win7-button = OK, tutto chiaro
 upgrade-dialog-default-title = Imposta { -brand-short-name } come browser predefinito
 upgrade-dialog-default-subtitle = Velocità, sicurezza e privacy sempre garantiti quando navighi online
 upgrade-dialog-default-primary-button = Imposta come browser predefinito
+upgrade-dialog-default-title-2 =
+    Imposta { -brand-short-name } come browser predefinito
+upgrade-dialog-default-subtitle-2 = Velocità, sicurezza e privacy senza preoccupazioni.
+upgrade-dialog-default-primary-button-2 = Imposta come browser predefinito
 upgrade-dialog-default-secondary-button = Non adesso
 
 ## Theme selection screen
@@ -48,6 +74,8 @@ upgrade-dialog-default-secondary-button = Non adesso
 upgrade-dialog-theme-title =
     Inizia al meglio
     con un nuovo tema
+upgrade-dialog-theme-title-2 =
+    Inizia al meglio con un nuovo tema
 upgrade-dialog-theme-system = Tema di sistema
     .title = Utilizza la stessa combinazione di colori del sistema operativo per pulsanti, menu e finestre.
 upgrade-dialog-theme-light = Chiaro
