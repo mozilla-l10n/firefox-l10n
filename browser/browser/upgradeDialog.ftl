@@ -27,12 +27,23 @@ upgrade-dialog-new-secondary-button = לא כעת
 # theme selection screen.
 upgrade-dialog-new-primary-win7-button = בסדר, הבנתי!
 
+## Pin Firefox screen
+##
+## These title, subtitle and button strings differ between platforms as they
+## match the OS' application context menu item action where Windows uses "pin"
+## and "taskbar" while macOS "keep" and "Dock" (proper noun).
+
+upgrade-dialog-pin-secondary-button = לא כעת
+
 ## Default browser screen
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-default-title = להפוך את { -brand-short-name } לדפדפן ברירת המחדל שלך?
 upgrade-dialog-default-subtitle = קבלת מהירות, בטיחות ופרטיות בכל פעם שגולשים ברשת.
 upgrade-dialog-default-primary-button = הגדרה כדפדפן ברירת המחדל
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title-2 = הגדרת { -brand-short-name } כדפדפן ברירת המחדל שלך
+upgrade-dialog-default-primary-button-2 = הגדרה כדפדפן ברירת המחדל
 upgrade-dialog-default-secondary-button = לא כעת
 
 ## Theme selection screen
