@@ -20,7 +20,6 @@ account-setup-name-input =
     .placeholder = Тарас Шевченко
 account-setup-name-info-icon =
     .title = Ваше ім’я, яким його бачитимуть інші
-account-setup-name-warning = Введіть своє ім’я
 account-setup-name-warning-icon =
     .title = { account-setup-name-warning }
 account-setup-email-label = Адреса електронної пошти
@@ -29,7 +28,6 @@ account-setup-email-input =
     .placeholder = john.doe@example.com
 account-setup-email-info-icon =
     .title = Ваша наявна адреса електронної пошти
-account-setup-email-warning = Недійсна адреса електронної пошти
 account-setup-email-warning-icon =
     .title = { account-setup-email-warning }
 account-setup-password-label = Пароль
@@ -122,6 +120,15 @@ account-setup-incoming-title = Вхідні
 account-setup-outgoing-title = Вихідні
 account-setup-username-title = Ім'я користувача
 account-setup-exchange-title = Сервер
+account-setup-result-smtp = SMTP
+account-setup-result-no-encryption = Без шифрування
+account-setup-result-ssl = SSL/TLS
+account-setup-result-starttls = STARTTLS
+account-setup-result-outgoing-existing = Використовувати наявний вихідний SMTP-сервер
+# Variables:
+#  $incoming (String): The email/username used to log into the incoming server
+#  $outgoing (String): The email/username used to log into the outgoing server
+account-setup-result-username-different = Вхідний: { $incoming }, вихідний: { $outgoing }
 
 ## Error messages
 
@@ -131,32 +138,70 @@ account-setup-credentials-wrong = Помилка автентифікації. �
 account-setup-find-settings-failed = { -brand-short-name } не може знайти налаштування для вашого облікового запису електронної пошти
 account-setup-exchange-config-unverifiable = Не вдалося перевірити конфігурацію. Якщо ваше ім’я користувача та пароль правильні, ймовірно, що адміністратор сервера вимкнув вибрану конфігурацію для вашого облікового запису. Спробуйте вибрати інший протокол.
 
-## Manual config area
+## Manual configuration area
 
 account-setup-manual-config-title = Налаштування сервера
-account-setup-incoming-protocol-label = Вхідний протокол
+account-setup-incoming-server-legend = Сервер вхідної пошти
+account-setup-protocol-label = Протокол:
 protocol-imap-option = { account-setup-result-imap }
 protocol-pop-option = { account-setup-result-pop }
-account-setup-outgoing-protocol-label = Вихідний протокол
-outgoing-protocol = SMTP
-account-setup-incoming-server-label = Сервер вхідної пошти
-account-setup-outgoing-server-label = Сервер вихідної пошти
-account-setup-incoming-port-label = Вхідний порт
-account-setup-outoing-port-label = Вихідний порт
-account-setup-incoming-ssl-label = Вхідний SSL
-account-setup-outgoing-ssl-label = Вихідний SSL
+protocol-exchange-option = { account-setup-result-exchange }
+account-setup-hostname-label = Ім'я хоста:
+account-setup-port-label = Порт:
+    .title = Встановіть для порту номер 0 для автоматичного виявлення
+account-setup-auto-description = { -brand-short-name } спробує автоматично визначити поля, які залишились порожніми.
+account-setup-ssl-label = Безпека з’єднання:
+account-setup-outgoing-server-legend = Сервер вихідної пошти
+
+## Incoming/Outgoing SSL Authentication options
+
 ssl-autodetect-option = Автовиявлення
+ssl-no-authentication-option = Без автентифікації
+ssl-cleartext-password-option = Звичайний пароль
+ssl-encrypted-password-option = Зашифрований пароль
+
+## Incoming/Outgoing SSL options
+
 ssl-noencryption-option = Немає
-ssl-starttls-option = STARTTLS
-ssl-tls-option = SSL/TLS
-account-setup-incoming-auth-label = Вхідна автентифікація
-account-setup-outgoing-auth-label = Вихідна автентифікація
-account-setup-incoming-username-label = Вхідне ім’я користувача
-account-setup-outgoing-username-label = Вихідне ім’я користувача
+account-setup-auth-label = Метод автентифікації:
+account-setup-username-label = Ім’я користувача:
 account-setup-advanced-setup-button = Розширені налаштування
     .accesskey = Р
 
-## Warning insecure server
+## Warning insecure server dialog
 
+account-setup-insecure-title = Увага!
+account-setup-insecure-incoming-title = Налаштування вхідної пошти:
+account-setup-insecure-outgoing-title = Налаштування вихідної пошти:
+# Variables:
+#  $server (String): The name of the hostname of the server the user was trying to connect to.
+account-setup-warning-cleartext = <b>{ $server }</b> не застосовує шифрування.
+account-setup-warning-cleartext-details = Небезпечні поштові сервери не використовують шифрований зв’язок для захисту ваших паролів та інших особистих даних. З’єднуючись з цим сервером ви можете видати ваш пароль та особисті дані.
 account-setup-insecure-server-checkbox = Я розумію ризики
     .accesskey = о
+account-setup-insecure-description = { -brand-short-name } може дозволити вам отримати вашу пошту з використанням зазначеної конфігурації. Однак, вам варто звернутись до вашого адміністратора чи поштового постачальника щодо цих неправильних з’єднань. Перегляньте <a data-l10n-name="thunderbird-faq-link">ЧаП Thunderbird</a> для отримання додаткових відомостей.
+insecure-dialog-cancel-button = Змінити налаштування.
+    .accesskey = н
+insecure-dialog-confirm-button = Підтвердити
+    .accesskey = П
+
+## Warning Exchange confirmation dialog
+
+# Variables:
+#  $domain (String): The name of the server where the configuration was found, e.g. rackspace.com.
+exchange-dialog-question = { -brand-short-name } знайшов налаштування для вашого облікового запису на { $domain }. Хочете продовжити та ввести свої облікові дані?
+exchange-dialog-confirm-button = Ім'я користувача
+exchange-dialog-cancel-button = Скасувати
+
+## Alert dialogs
+
+account-setup-creation-error-title = Помилка створення облікового запису
+account-setup-error-server-exists = Сервер вхідної пошти вже існує.
+account-setup-confirm-advanced-title = Підтвердити персональні конфігурації
+account-setup-confirm-advanced-description = Це діалогове вікно буде закрито, а також буде створено обліковий запис із поточними налаштуваннями, навіть якщо конфігурація неправильна. Хочете продовжити?
+
+## Addon installation section
+
+account-setup-addon-install-title = Встановити
+account-setup-addon-install-intro = Отримати доступ до вашого облікового запису пошти на цьому сервері може допомогти сторонній додаток:
+account-setup-addon-no-protocol = На жаль, цей поштовий сервер не підтримує відкриті протоколи. { account-setup-addon-install-intro }
