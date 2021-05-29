@@ -18,6 +18,12 @@ permissions-session =
 permissions-allow =
     .label = Autorizar
     .accesskey = A
+permissions-button-off =
+    .label = Activar
+    .accesskey = A
+permissions-button-off-temporarily =
+    .label = Desactivar temporàriament
+    .accesskey = D
 permissions-site-name =
     .label = Site web
 permissions-status =
@@ -58,6 +64,10 @@ permissions-capabilities-listitem-block =
     .value = Blocar
 permissions-capabilities-listitem-allow-session =
     .value = Autorizar pendent la session
+permissions-capabilities-listitem-off =
+    .value = Desactivat
+permissions-capabilities-listitem-off-temporarily =
+    .value = Temporàriament desactivat
 
 ## Invalid Hostname Dialog
 
@@ -77,6 +87,12 @@ permissions-exceptions-cookie-window =
     .title = Excepcions - Cookies e donadas de sites
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = Podètz especificar quines sites pòdon totjorn o jamai utilizar los cookies e las donadas. Picatz l’adreça del site que volètz gerir e clicar Blocar, Autorizar pendent la session, o Autorizar.
+
+## Exceptions - HTTPS-Only Mode
+
+permissions-exceptions-https-only-window =
+    .title = Excepcions - Mòde HTTPS solament
+    .style = { permissions-window.style }
 
 ## Exceptions - Pop-ups
 
