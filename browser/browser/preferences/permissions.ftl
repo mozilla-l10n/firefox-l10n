@@ -66,6 +66,8 @@ permissions-capabilities-listitem-allow-session =
     .value = Tillåten för session
 permissions-capabilities-listitem-off =
     .value = Av
+permissions-capabilities-listitem-off-temporarily =
+    .value = Tillfälligt av
 
 ## Invalid Hostname Dialog
 
@@ -88,6 +90,10 @@ permissions-exceptions-cookie-desc = Du kan ange vilka webbplatser som alltid el
 
 ## Exceptions - HTTPS-Only Mode
 
+permissions-exceptions-https-only-window =
+    .title = Undantag - Endast HTTPS-läge
+    .style = { permissions-window.style }
+permissions-exceptions-https-only-desc = Du kan inaktivera Endast HTTPS-läge för specifika webbplatser. { -brand-short-name } försöker inte uppgradera anslutningen för att säkra HTTPS för dessa webbplatser. Undantag gäller inte privata fönster.
 
 ## Exceptions - Pop-ups
 
