@@ -158,3 +158,9 @@ many-public-recipients-bcc =
 many-public-recipients-ignore =
     .label = მიმღებების საჯაროდ დატოვება
     .accesskey = ჯ
+
+## Notifications
+
+# Variables:
+# $identity (string) - The name of the used identity, most likely an email address.
+compose-missing-identity-warning = გამგზავნის მისამართის შესაბამისი ვინაობა ვერ მოიძებნა. შეტყობინება გაიგზავნება გამგზავნის ველში მოცემული მისამართიდან და { $identity } ვინაობის პარამეტრებით.
