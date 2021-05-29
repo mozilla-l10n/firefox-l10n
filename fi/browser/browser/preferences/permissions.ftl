@@ -18,6 +18,12 @@ permissions-session =
 permissions-allow =
     .label = Salli
     .accesskey = a
+permissions-button-off =
+    .label = Poista käytöstä
+    .accesskey = P
+permissions-button-off-temporarily =
+    .label = Poista käytöstä väliaikaisesti
+    .accesskey = v
 permissions-site-name =
     .label = Sivusto
 permissions-status =
@@ -58,6 +64,10 @@ permissions-capabilities-listitem-block =
     .value = Estä
 permissions-capabilities-listitem-allow-session =
     .value = Salli istunnon ajaksi
+permissions-capabilities-listitem-off =
+    .value = Pois
+permissions-capabilities-listitem-off-temporarily =
+    .value = Pois väliaikaisesti
 
 ## Invalid Hostname Dialog
 
@@ -83,6 +93,7 @@ permissions-exceptions-cookie-desc = Määrätyt sivustot saavat tai eivät saa 
 permissions-exceptions-https-only-window =
     .title = Poikkeukset - Vain HTTPS -tila
     .style = { permissions-window.style }
+permissions-exceptions-https-only-desc = Voit poistaa Vain HTTPS -tilan käytöstä haluamiesi sivustojen kohdalla. { -brand-short-name } ei näin ollen yritä päivittää yhteyttä suojattuun HTTPS-tilaan kyseisten sivustojen kohdalla. Poikkeukset eivät päde yksityisiin ikkunoihin.
 
 ## Exceptions - Pop-ups
 
