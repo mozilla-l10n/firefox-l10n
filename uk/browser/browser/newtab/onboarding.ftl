@@ -267,15 +267,40 @@ onboarding-multistage-theme-description-alpenglow =
 mr1-welcome-screen-hero-text = Вогонь лине звідси
 # Caption for background image in about:welcome. "Soraya Osorio" is the name
 # of the person and shouldn't be translated.
+# In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
+# You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = Soraya Osorio — Дизайнерка меблів, шанувальниця Firefox
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Вимкнути анімацію
+
+## Title and primary button strings differ between platforms as they
+## match the OS' application context menu item action where Windows uses "pin"
+## and "taskbar" while macOS "keep" and "Dock" (proper noun).
+
+
+## Multistage MR1 onboarding strings (about:welcome pages)
+
+# This string will be used on welcome page primary button label
+# when Firefox is both pinned and default
+mr1-onboarding-get-started-primary-button-label = Розпочати
 mr1-onboarding-welcome-header = Вітаємо в { -brand-short-name }
 mr1-onboarding-set-default-pin-primary-button-label = Зробити { -brand-short-name } моїм основним браузером
     .title = Встановлює { -brand-short-name } типовим браузером та закріплює його на панелі завдань
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
 mr1-onboarding-set-default-only-primary-button-label = Зробити { -brand-short-name } моїм типовим браузером
 mr1-onboarding-set-default-secondary-button-label = Не зараз
 mr1-onboarding-sign-in-button-label = Увійти
+
+## Title, subtitle and primary button string used on set default onboarding screen
+## when Firefox is not default browser
+
+mr1-onboarding-default-header = Зробити { -brand-short-name } типовим
+mr1-onboarding-default-subtitle = Увімкніть автопілот швидкості, безпеки та приватності.
+mr1-onboarding-default-primary-button-label = Зробити типовим браузером
+
+## Multistage MR1 onboarding strings (about:welcome pages)
+
 mr1-onboarding-import-header = Візьміть все це з собою
 mr1-onboarding-import-subtitle = Імпортуйте свої паролі, <br/>закладки та інші дані.
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
