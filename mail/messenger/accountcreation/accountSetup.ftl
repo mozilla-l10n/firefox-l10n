@@ -124,6 +124,7 @@ account-setup-result-smtp = SMTP
 account-setup-result-no-encryption = 未加密
 account-setup-result-ssl = SSL/TLS
 account-setup-result-starttls = STARTTLS
+account-setup-result-outgoing-existing = 使用已有的发件 SMTP 服务器
 
 ## Error messages
 
@@ -136,29 +137,48 @@ account-setup-exchange-config-unverifiable = 无法验证配置。如果您的�
 ## Manual configuration area
 
 account-setup-manual-config-title = 服务器设置
+account-setup-incoming-server-legend = 收件服务器
+account-setup-protocol-label = 协议：
 protocol-imap-option = { account-setup-result-imap }
 protocol-pop-option = { account-setup-result-pop }
+account-setup-hostname-label = 主机名：
+account-setup-outgoing-server-legend = 发件服务器
 
 ## Incoming/Outgoing SSL Authentication options
 
 ssl-autodetect-option = 自动检测
+ssl-cleartext-password-option = 普通密码
 
 ## Incoming/Outgoing SSL options
 
 ssl-noencryption-option = 无
+account-setup-username-label = 用户名：
 account-setup-advanced-setup-button = 高级配置
     .accesskey = A
 
 ## Warning insecure server dialog
 
+account-setup-insecure-title = 警告！
+account-setup-insecure-incoming-title = 收件设置：
+account-setup-insecure-outgoing-title = 发件设置：
 account-setup-insecure-server-checkbox = 我已了解相关风险。
     .accesskey = u
+insecure-dialog-cancel-button = 更改设置
+    .accesskey = S
+insecure-dialog-confirm-button = 确认
+    .accesskey = C
 
 ## Warning Exchange confirmation dialog
 
+# Variables:
+#  $domain (String): The name of the server where the configuration was found, e.g. rackspace.com.
+exchange-dialog-question = { -brand-short-name } 在 { $domain } 上找到了您的账户设置信息，您要继续并提交凭据吗？
+exchange-dialog-cancel-button = 取消
 
 ## Alert dialogs
 
+account-setup-confirm-advanced-title = 确认高级配置
 
 ## Addon installation section
 
+account-setup-addon-install-title = 安装

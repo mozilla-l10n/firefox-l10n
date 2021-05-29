@@ -20,5 +20,5 @@
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY smtpEditTitle.label "SMTP服务器">
 <!ENTITY serverPortDefault.label "默认：">
-<!ENTITY authMethod.label "验证方式： ">
+<!ENTITY authMethod.label "验证方式：">
 <!ENTITY authMethod.accesskey "i">

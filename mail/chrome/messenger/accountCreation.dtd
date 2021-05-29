@@ -75,8 +75,6 @@
 <!ENTITY manual-config.accesskey         "M">
 <!ENTITY open-provisioner.label          "获取新的电子邮件地址…">
 <!ENTITY open-provisioner.accesskey      "g">
-
-
 <!ENTITY get-help.label                  "获取帮助">
 <!ENTITY get-help.accesskey              "H">
 
@@ -99,7 +97,7 @@
      the incoming or outgoing servers, then the page that pops up will have
      this text in a button to take you back to the previous page to change
      the settings and try again. -->
-<!ENTITY changeSettings.label            "修改设置">
+<!ENTITY changeSettings.label            "更改设置">
 <!ENTITY changeSettings.accesskey        "S">
 
 <!ENTITY contactYourProvider.description "&brandShortName; 可以让您通过使用提供的配置信息来收取邮件。但是，对于这些不正确的连接，您应该联系您的管理员或者电子邮件提供商，更详细的信息请参见 Thunderbird 常见问题解答。">

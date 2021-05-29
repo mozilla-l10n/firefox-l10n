@@ -155,3 +155,9 @@ many-public-recipients-bcc =
 many-public-recipients-ignore =
     .label = 保持收件人公开
     .accesskey = K
+
+## Notifications
+
+# Variables:
+# $identity (string) - The name of the used identity, most likely an email address.
+compose-missing-identity-warning = 找不到匹配发件人（From）地址的唯一身份。该邮件将使用当前 From 字段和 { $identity } 身份的设置发送。
