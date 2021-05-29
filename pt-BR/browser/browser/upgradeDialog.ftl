@@ -51,6 +51,12 @@ upgrade-dialog-pin-subtitle =
         [macos] Ainda tem acesso fácil ao { -brand-short-name } mais recente.
        *[other] Ainda mantém o { -brand-short-name } mais recente ao alcance.
     }
+upgrade-dialog-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Manter no Dock
+       *[other] Fixar na barra de tarefas
+    }
+upgrade-dialog-pin-secondary-button = Agora não
 
 ## Default browser screen
 
@@ -58,12 +64,17 @@ upgrade-dialog-pin-subtitle =
 upgrade-dialog-default-title = Tornar o { -brand-short-name } seu navegador padrão?
 upgrade-dialog-default-subtitle = Tenha velocidade, segurança e privacidade sempre que você navegar.
 upgrade-dialog-default-primary-button = Definir como navegador padrão
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title-2 = Tornar o { -brand-short-name } o navegador padrão
+upgrade-dialog-default-primary-button-2 = Definir como navegador padrão
 upgrade-dialog-default-secondary-button = Agora não
 
 ## Theme selection screen
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-theme-title = Experimente um novo tema
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-theme-title-2 = Experimente um tema nítido
 upgrade-dialog-theme-system = Tema do sistema
     .title = Seguir o tema do sistema operacional em botões, menus e janelas
 upgrade-dialog-theme-light = Claro
