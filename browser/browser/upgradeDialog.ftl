@@ -38,6 +38,17 @@ upgrade-dialog-new-primary-win7-button = 好，知道了！
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-pin-title =
+    { PLATFORM() ->
+        [macos] 在您的程序坞中保留 { -brand-short-name }
+       *[other] 将 { -brand-short-name } 固定到您的任务栏
+    }
+upgrade-dialog-pin-primary-button =
+    { PLATFORM() ->
+        [macos] 在程序坞中保留
+       *[other] 固定到任务栏
+    }
 upgrade-dialog-pin-secondary-button = 暂时不要
 
 ## Default browser screen
