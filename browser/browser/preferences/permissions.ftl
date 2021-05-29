@@ -18,6 +18,12 @@ permissions-session =
 permissions-allow =
     .label = Dowolić
     .accesskey = D
+permissions-button-off =
+    .label = Znjemóžnić
+    .accesskey = n
+permissions-button-off-temporarily =
+    .label = Nachwilu znjemóžnić
+    .accesskey = c
 permissions-site-name =
     .label = Websydło
 permissions-status =
@@ -58,6 +64,10 @@ permissions-capabilities-listitem-block =
     .value = Blokować
 permissions-capabilities-listitem-allow-session =
     .value = Za posedźenje dowolić
+permissions-capabilities-listitem-off =
+    .value = Znjemóžnjeny
+permissions-capabilities-listitem-off-temporarily =
+    .value = Nachwilu znjemóžnjeny
 
 ## Invalid Hostname Dialog
 
@@ -77,6 +87,12 @@ permissions-exceptions-cookie-window =
     .title = Wuwzaća - placki a sydłowe daty
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = Móžeće podać, kotre websydła smědźa přeco abo njesmědźa ženje placki a sydłowe daty wužiwać. Zapisajće eksaktnu adresu sydła, kotrež chceće rjadować a klikńće potom na Blokować, Za posedźenje dowolić abo Dowolić.
+
+## Exceptions - HTTPS-Only Mode
+
+permissions-exceptions-https-only-window =
+    .title = Wuwzaća - Modus Jenož-HTTPS
+    .style = { permissions-window.style }
 
 ## Exceptions - Pop-ups
 
