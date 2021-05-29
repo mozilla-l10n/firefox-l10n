@@ -14,6 +14,7 @@ default-browser-notification-button =
 
 default-browser-prompt-title-pin = Asetetaanko { -brand-short-name } pääselaimeksi?
 default-browser-prompt-message-pin = Pidä { -brand-short-name } käden ulottuvilla — aseta se oletusselaimeksi ja kiinnitä se tehtäväpalkkiin.
+default-browser-prompt-message-pin-mac = Pidä { -brand-short-name } käden ulottuvilla — aseta se oletusselaimeksi ja kiinnitä se telakkaan.
 default-browser-prompt-button-primary-pin = Aseta pääselaimeksi
 default-browser-prompt-title-alt = Asetetaanko { -brand-short-name } oletusselaimeksi?
 default-browser-prompt-message-alt = Nopeutta, turvallisuutta ja yksityisyyttä joka kerta kun selaat.

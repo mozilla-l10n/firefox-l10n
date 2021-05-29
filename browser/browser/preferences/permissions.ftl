@@ -78,6 +78,12 @@ permissions-exceptions-cookie-window =
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = Määrätyt sivustot saavat tai eivät saa asettaa evästeitä ja tallentaa tietoja tietokoneellesi. Kirjoita sivuston osoite ja napsauta Salli, Salli istunnon ajaksi tai Estä.
 
+## Exceptions - HTTPS-Only Mode
+
+permissions-exceptions-https-only-window =
+    .title = Poikkeukset - Vain HTTPS -tila
+    .style = { permissions-window.style }
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window =
