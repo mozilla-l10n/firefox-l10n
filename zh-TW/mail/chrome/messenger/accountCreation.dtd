@@ -36,7 +36,7 @@
 <!ENTITY incoming.label                  "收件:">
 <!ENTITY incomingColumn.label            "收件">
 <!ENTITY outgoing.label                  "寄件:">
-<!ENTITY outgoingColumn.label            "外寄">
+<!ENTITY outgoingColumn.label            "寄件">
 <!ENTITY username.label                  "使用者名稱:">
 <!ENTITY serverRow.label                 "伺服器:">
 <!ENTITY portRow.label                   "Port:">

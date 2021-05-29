@@ -72,7 +72,7 @@ account-setup-looking-up-disk = 正在尋找設定: { -brand-short-name } 安裝
 account-setup-looking-up-isp = 正在尋找設定: 電子郵件服務供應商…
 # Note: Do not translate or replace Mozilla. It stands for the public project mozilla.org, not Mozilla Corporation. The database is a generic, public domain facility usable by any client.
 account-setup-looking-up-db = 正在尋找設定: Mozilla ISP 資料庫…
-account-setup-looking-up-mx = 正在尋找設定: 內送郵件網域…
+account-setup-looking-up-mx = 正在尋找設定: 收件郵件網域…
 account-setup-looking-up-exchange = 正在尋找設定: Exchange 伺服器…
 account-setup-checking-password = 正在檢查密碼…
 account-setup-installing-addon = 正在下載安裝附加元件…
@@ -116,8 +116,8 @@ account-setup-result-pop-description = 將您伺服器上的信件匣與郵件�
 # Note: Exchange is the name of a product.
 account-setup-result-exchange = Exchange
 account-setup-result-exchange-description = Microsoft Exchange Server
-account-setup-incoming-title = 內送
-account-setup-outgoing-title = 外寄
+account-setup-incoming-title = 收件
+account-setup-outgoing-title = 寄件
 account-setup-username-title = 使用者名稱
 account-setup-exchange-title = 伺服器
 account-setup-result-smtp = SMTP
@@ -125,6 +125,10 @@ account-setup-result-no-encryption = 無加密
 account-setup-result-ssl = SSL/TLS
 account-setup-result-starttls = STARTTLS
 account-setup-result-outgoing-existing = 使用已存在的 SMTP 寄件伺服器
+# Variables:
+#  $incoming (String): The email/username used to log into the incoming server
+#  $outgoing (String): The email/username used to log into the outgoing server
+account-setup-result-username-different = 收件: { $incoming }，寄件: { $outgoing }
 
 ## Error messages
 
@@ -137,6 +141,7 @@ account-setup-exchange-config-unverifiable = 無法確認設定方式。若您�
 ## Manual configuration area
 
 account-setup-manual-config-title = 伺服器設定
+account-setup-incoming-server-legend = 收件伺服器
 account-setup-protocol-label = 通訊協定:
 protocol-imap-option = { account-setup-result-imap }
 protocol-pop-option = { account-setup-result-pop }
@@ -144,7 +149,9 @@ protocol-exchange-option = { account-setup-result-exchange }
 account-setup-hostname-label = 主機名稱:
 account-setup-port-label = Port:
     .title = 輸入 0 即可進行自動偵測
+account-setup-auto-description = { -brand-short-name } 將嘗試自動偵測留白的欄位。
 account-setup-ssl-label = 連線安全性:
+account-setup-outgoing-server-legend = 寄件伺服器
 
 ## Incoming/Outgoing SSL Authentication options
 
@@ -164,6 +171,8 @@ account-setup-advanced-setup-button = 進階設定
 ## Warning insecure server dialog
 
 account-setup-insecure-title = 警告！
+account-setup-insecure-incoming-title = 收件設定:
+account-setup-insecure-outgoing-title = 寄件設定:
 # Variables:
 #  $server (String): The name of the hostname of the server the user was trying to connect to.
 account-setup-warning-cleartext = <b>{ $server }</b> 未加密連線。
@@ -185,6 +194,7 @@ exchange-dialog-cancel-button = 取消
 ## Alert dialogs
 
 account-setup-creation-error-title = 建立帳號時發生錯誤
+account-setup-error-server-exists = 收件伺服器已存在。
 
 ## Addon installation section
 
