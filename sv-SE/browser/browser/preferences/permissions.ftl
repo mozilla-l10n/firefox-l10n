@@ -18,6 +18,12 @@ permissions-session =
 permissions-allow =
     .label = Tillåt
     .accesskey = å
+permissions-button-off =
+    .label = Stäng av
+    .accesskey = a
+permissions-button-off-temporarily =
+    .label = Stäng av tillfälligt
+    .accesskey = t
 permissions-site-name =
     .label = Webbplats
 permissions-status =
@@ -58,6 +64,8 @@ permissions-capabilities-listitem-block =
     .value = Blockera
 permissions-capabilities-listitem-allow-session =
     .value = Tillåten för session
+permissions-capabilities-listitem-off =
+    .value = Av
 
 ## Invalid Hostname Dialog
 
@@ -77,6 +85,9 @@ permissions-exceptions-cookie-window =
     .title = Undantag - Kakor och webbplatsdata
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = Du kan ange vilka webbplatser som alltid eller aldrig får använda kakor och webbplatsdata.  Skriv den exakta adressen till den webbplats du vill hantera och klicka sedan på Blockera, Tillåt för sessionen eller Tillåt.
+
+## Exceptions - HTTPS-Only Mode
+
 
 ## Exceptions - Pop-ups
 
