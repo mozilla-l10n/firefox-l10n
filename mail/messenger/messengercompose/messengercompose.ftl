@@ -160,3 +160,9 @@ many-public-recipients-bcc =
 many-public-recipients-ignore =
     .label = Håll mottagarna offentliga
     .accesskey = H
+
+## Notifications
+
+# Variables:
+# $identity (string) - The name of the used identity, most likely an email address.
+compose-missing-identity-warning = En unik identitet som matchar Från-adressen hittades inte. Meddelandet skickas med det aktuella Från-fältet och inställningar från identitet { $identity }.

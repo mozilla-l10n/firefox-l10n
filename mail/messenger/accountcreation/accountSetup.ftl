@@ -179,6 +179,7 @@ account-setup-warning-cleartext = <b>{ $server }</b> använder inte kryptering.
 account-setup-warning-cleartext-details = En osäker e-postserver använder inte en krypterad anslutning för att skydda dina lösenord och privata uppgifter. Genom att ansluta till den här servern kan dina lösenord och privata uppgifter avslöjas.
 account-setup-insecure-server-checkbox = Jag förstår riskerna
     .accesskey = f
+account-setup-insecure-description = Med { -brand-short-name } kan du komma åt din e-post med de angivna inställningarna. Du bör dock kontakta din administratör eller e-postleverantör angående dessa felaktiga anslutningar. Se <a data-l10n-name="thunderbird-faq-link">vanliga frågor om Thunderbird</a> för mer information.
 insecure-dialog-cancel-button = Ändra inställningar
     .accesskey = n
 insecure-dialog-confirm-button = Bekräfta
@@ -186,6 +187,9 @@ insecure-dialog-confirm-button = Bekräfta
 
 ## Warning Exchange confirmation dialog
 
+# Variables:
+#  $domain (String): The name of the server where the configuration was found, e.g. rackspace.com.
+exchange-dialog-question = { -brand-short-name } hittade din kontoinställningsinformation på { $domain }. Vill du fortsätta och skicka dina uppgifter?
 exchange-dialog-confirm-button = Inloggning
 exchange-dialog-cancel-button = Avbryt
 
@@ -194,7 +198,10 @@ exchange-dialog-cancel-button = Avbryt
 account-setup-creation-error-title = Fel vid skapande av konto
 account-setup-error-server-exists = Inkommande server finns redan.
 account-setup-confirm-advanced-title = Bekräfta avancerad konfiguration
+account-setup-confirm-advanced-description = Denna dialogruta stängs och ett konto med de aktuella inställningarna skapas, även om konfigurationen är felaktig. Vill du fortsätta?
 
 ## Addon installation section
 
 account-setup-addon-install-title = Installera
+account-setup-addon-install-intro = Ett tillägg från tredje part kan låta dig komma åt ditt e-postkonto på den här servern:
+account-setup-addon-no-protocol = Den här e-postservern stöder tyvärr inte öppna protokoll. { account-setup-addon-install-intro }
