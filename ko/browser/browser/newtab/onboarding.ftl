@@ -267,15 +267,46 @@ onboarding-multistage-theme-description-alpenglow =
 mr1-welcome-screen-hero-text = 시작
 # Caption for background image in about:welcome. "Soraya Osorio" is the name
 # of the person and shouldn't be translated.
+# In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
+# You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = Soraya Osorio — 가구 디자이너, Firefox 팬
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = 애니메이션 끄기
+
+## Title and primary button strings differ between platforms as they
+## match the OS' application context menu item action where Windows uses "pin"
+## and "taskbar" while macOS "keep" and "Dock" (proper noun).
+
+# Title used on welcome page when Firefox is not pinned
+mr1-onboarding-pin-header =
+    { PLATFORM() ->
+        [macos] 쉽게 접근할 수 있도록 { -brand-short-name }를 Dock에 보관
+       *[other] 쉽게 접근할 수 있도록 { -brand-short-name }를 작업 표시 줄에 고정
+    }
+# Primary button string used on welcome page when Firefox is not pinned.
+mr1-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Dock에 보관
+       *[other] 작업 표시줄에 고정
+    }
+
+## Multistage MR1 onboarding strings (about:welcome pages)
+
 mr1-onboarding-welcome-header = { -brand-short-name }에 오신 것을 환영합니다
 mr1-onboarding-set-default-pin-primary-button-label = { -brand-short-name }를 기본 브라우저로 설정
     .title = { -brand-short-name }를 기본 브라우저로 설정하고 작업 표시줄에 고정
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
 mr1-onboarding-set-default-only-primary-button-label = { -brand-short-name }를 기본 브라우저로 설정
 mr1-onboarding-set-default-secondary-button-label = 나중에
 mr1-onboarding-sign-in-button-label = 로그인
+
+## Title, subtitle and primary button string used on set default onboarding screen
+## when Firefox is not default browser
+
+
+## Multistage MR1 onboarding strings (about:welcome pages)
+
 mr1-onboarding-import-header = 모든 것을 가져오기
 mr1-onboarding-import-subtitle = 비밀번호, 북마크 등을 <br/>가져옵니다.
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
