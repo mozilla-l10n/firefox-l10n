@@ -44,6 +44,19 @@ upgrade-dialog-pin-title =
         [macos] დარჩეს { -brand-short-name } პროგრამების Dock-ში
        *[other] განთავსდეს { -brand-short-name } სამუშაო ზოლზე
     }
+# The English macOS string avoids repeating "Keep" a third time, so if your
+# translations don't repeat anyway, the same string can be used cross-platform.
+upgrade-dialog-pin-subtitle =
+    { PLATFORM() ->
+        [macos] ახლოს იქონიეთ ახალთახალი { -brand-short-name }.
+       *[other] დატოვეთ ახალთახალი { -brand-short-name } ხელმისაწვდომ ადგილას
+    }
+upgrade-dialog-pin-primary-button =
+    { PLATFORM() ->
+        [macos] დატოვება Dock-ზე
+       *[other] სამუშაო ზოლზე მიმაგრება
+    }
+upgrade-dialog-pin-secondary-button = ახლა არა
 
 ## Default browser screen
 
@@ -53,6 +66,7 @@ upgrade-dialog-default-subtitle = სისწრაფე, უსაფრთ�
 upgrade-dialog-default-primary-button = ნაგულისხმევ ბრაუზერად დაყენება
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-default-title-2 = აქციეთ { -brand-short-name } ნაგულისხმევად
+upgrade-dialog-default-subtitle-2 = გახადეთ სიჩქარე, უსაფრთხოება და პირადულობა, თავისთავადი.
 upgrade-dialog-default-primary-button-2 = ნაგულისხმევ ბრაუზერად დაყენება
 upgrade-dialog-default-secondary-button = ახლა არა
 
@@ -62,6 +76,8 @@ upgrade-dialog-default-secondary-button = ახლა არა
 upgrade-dialog-theme-title =
     სუფთა ფურცლიდან
     განახლებული გაფორმებით
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-theme-title-2 = სუფთა ფურცლიდან, ახალთახალი გაფორმებით
 upgrade-dialog-theme-system = სისტემური გაფორმება
     .title = შეუხამებს სისტემის გაფორმებას ღილაკებს, მენიუსა და ფანჯრებს
 upgrade-dialog-theme-light = ნათელი
