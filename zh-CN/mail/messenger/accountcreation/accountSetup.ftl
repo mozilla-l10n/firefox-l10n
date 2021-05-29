@@ -149,17 +149,21 @@ protocol-exchange-option = { account-setup-result-exchange }
 account-setup-hostname-label = 主机名：
 account-setup-port-label = 端口：
     .title = 端口设为 0，则为自动检测
+account-setup-auto-description = { -brand-short-name } 将尝试自动检测留白的字段。
 account-setup-ssl-label = 连接安全性：
 account-setup-outgoing-server-legend = 发件服务器
 
 ## Incoming/Outgoing SSL Authentication options
 
 ssl-autodetect-option = 自动检测
+ssl-no-authentication-option = 无须验证
 ssl-cleartext-password-option = 普通密码
+ssl-encrypted-password-option = 加密过的密码
 
 ## Incoming/Outgoing SSL options
 
 ssl-noencryption-option = 无
+account-setup-auth-label = 验证方式：
 account-setup-username-label = 用户名：
 account-setup-advanced-setup-button = 高级配置
     .accesskey = A
@@ -169,8 +173,13 @@ account-setup-advanced-setup-button = 高级配置
 account-setup-insecure-title = 警告！
 account-setup-insecure-incoming-title = 收件设置：
 account-setup-insecure-outgoing-title = 发件设置：
+# Variables:
+#  $server (String): The name of the hostname of the server the user was trying to connect to.
+account-setup-warning-cleartext = <b>{ $server }</b> 未加密连接。
+account-setup-warning-cleartext-details = 不安全的邮件服务器不使用加密连接以保护您的密码及个人信息。连接到这样的邮件服务器有可能会泄露您的密码和个人信息。
 account-setup-insecure-server-checkbox = 我已了解相关风险。
     .accesskey = u
+account-setup-insecure-description = { -brand-short-name } 可以让您通过使用提供的配置信息来收取邮件。但是，对于这些不正确的连接，您应该联系您的管理员或者电子邮件提供商，更详细的信息请参见 <a data-l10n-name="thunderbird-faq-link">Thunderbird 常见问题解答</a>。
 insecure-dialog-cancel-button = 更改设置
     .accesskey = S
 insecure-dialog-confirm-button = 确认
@@ -181,13 +190,18 @@ insecure-dialog-confirm-button = 确认
 # Variables:
 #  $domain (String): The name of the server where the configuration was found, e.g. rackspace.com.
 exchange-dialog-question = { -brand-short-name } 在 { $domain } 上找到了您的账户设置信息，您要继续并提交凭据吗？
+exchange-dialog-confirm-button = 登录
 exchange-dialog-cancel-button = 取消
 
 ## Alert dialogs
 
+account-setup-creation-error-title = 创建账户时发生错误
+account-setup-error-server-exists = 收件服务器已存在。
 account-setup-confirm-advanced-title = 确认高级配置
+account-setup-confirm-advanced-description = 此对话框将关闭，即使配置不正确，也会使用当前设置来创建账户。您确定要继续吗？
 
 ## Addon installation section
 
 account-setup-addon-install-title = 安装
 account-setup-addon-install-intro = 安装第三方附加组件后，可让您访问此服务器上的邮件账户：
+account-setup-addon-no-protocol = 此邮件服务器不支持开放式协议。{ account-setup-addon-install-intro }
