@@ -292,6 +292,7 @@ mr1-onboarding-sign-in-button-label = 登录
 ## when Firefox is not default browser
 
 mr1-onboarding-default-header = 将 { -brand-short-name } 设为您的默认浏览器
+mr1-onboarding-default-subtitle = 自动获得快速、安全、私密的浏览体验。
 mr1-onboarding-default-primary-button-label = 设为默认浏览器
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
