@@ -24,6 +24,8 @@ about-addressbook-books-context-properties =
     .label = Savybės
 about-addressbook-books-context-synchronize =
     .label = Sinchronizuoti
+about-addressbook-books-context-print =
+    .label = Spausdinti…
 about-addressbook-books-context-delete =
     .label = Ištrinti
 
