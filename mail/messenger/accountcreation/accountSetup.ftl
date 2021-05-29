@@ -20,7 +20,6 @@ account-setup-name-input =
     .placeholder = Fulano
 account-setup-name-info-icon =
     .title = Seu nome, como será mostrado aos outros
-account-setup-name-warning = Digite seu nome
 account-setup-name-warning-icon =
     .title = { account-setup-name-warning }
 account-setup-email-label = Endereço de email
@@ -29,7 +28,6 @@ account-setup-email-input =
     .placeholder = fulano@example.com
 account-setup-email-info-icon =
     .title = Seu endereço de email existente
-account-setup-email-warning = Endereço de email inválido
 account-setup-email-warning-icon =
     .title = { account-setup-email-warning }
 account-setup-password-label = Senha
@@ -122,6 +120,10 @@ account-setup-incoming-title = Recebimento
 account-setup-outgoing-title = Envio
 account-setup-username-title = Nome de usuário
 account-setup-exchange-title = Servidor
+account-setup-result-smtp = SMTP
+account-setup-result-no-encryption = Sem criptografia
+account-setup-result-ssl = SSL/TLS
+account-setup-result-starttls = STARTTLS
 
 ## Error messages
 
@@ -131,32 +133,54 @@ account-setup-credentials-wrong = Falha na autenticação. Verifique o nome de u
 account-setup-find-settings-failed = O { -brand-short-name } não conseguiu encontrar as configurações de sua conta de email
 account-setup-exchange-config-unverifiable = A configuração não pôde ser verificada. Se o nome de usuário e a senha estão corretos, é provável que o administrador do servidor tenha desativado a configuração selecionada em sua conta. Experimente selecionando outro protocolo.
 
-## Manual config area
+## Manual configuration area
 
 account-setup-manual-config-title = Configurações do servidor
-account-setup-incoming-protocol-label = Protocolo de recebimento
+account-setup-incoming-server-legend = Servidor de recebimento
+account-setup-protocol-label = Protocolo:
 protocol-imap-option = { account-setup-result-imap }
 protocol-pop-option = { account-setup-result-pop }
-account-setup-outgoing-protocol-label = Protocolo de envio
-outgoing-protocol = SMTP
-account-setup-incoming-server-label = Servidor de recebimento
-account-setup-outgoing-server-label = Servidor de envio
-account-setup-incoming-port-label = Porto de recebimento
-account-setup-outoing-port-label = Porto de envio
-account-setup-incoming-ssl-label = SSL de recebimento
-account-setup-outgoing-ssl-label = SSL de envio
+protocol-exchange-option = { account-setup-result-exchange }
+account-setup-ssl-label = Segurança da conexão:
+account-setup-outgoing-server-legend = Servidores de envio
+
+## Incoming/Outgoing SSL Authentication options
+
 ssl-autodetect-option = Detectar automaticamente
+ssl-no-authentication-option = Sem autenticação
+ssl-cleartext-password-option = Senha normal
+ssl-encrypted-password-option = Senha criptografada
+
+## Incoming/Outgoing SSL options
+
 ssl-noencryption-option = Nenhum
-ssl-starttls-option = STARTTLS
-ssl-tls-option = SSL/TLS
-account-setup-incoming-auth-label = Autenticação de recebimento
-account-setup-outgoing-auth-label = Autenticação de envio
-account-setup-incoming-username-label = Nome de usuário de recebimento
-account-setup-outgoing-username-label = Nome de usuário de envio
+account-setup-auth-label = Método de autenticação:
+account-setup-username-label = Nome de usuário:
 account-setup-advanced-setup-button = Configuração avançada
     .accesskey = v
 
-## Warning insecure server
+## Warning insecure server dialog
 
+account-setup-insecure-title = Aviso!
+account-setup-insecure-incoming-title = Configurações de recebimento:
+account-setup-insecure-outgoing-title = Configurações de envio:
+# Variables:
+#  $server (String): The name of the hostname of the server the user was trying to connect to.
+account-setup-warning-cleartext = <b>{ $server }</b> não usa criptografia.
 account-setup-insecure-server-checkbox = Eu entendo os riscos
     .accesskey = E
+insecure-dialog-cancel-button = Alterar configurações
+    .accesskey = A
+insecure-dialog-confirm-button = Confirmar
+    .accesskey = C
+
+## Warning Exchange confirmation dialog
+
+exchange-dialog-cancel-button = Cancelar
+
+## Alert dialogs
+
+
+## Addon installation section
+
+account-setup-addon-install-title = Instalar
