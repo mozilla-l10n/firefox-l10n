@@ -66,6 +66,7 @@ upgrade-dialog-default-subtitle = Tenha velocidade, segurança e privacidade sem
 upgrade-dialog-default-primary-button = Definir como navegador padrão
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-default-title-2 = Tornar o { -brand-short-name } o navegador padrão
+upgrade-dialog-default-subtitle-2 = Tenha velocidade, segurança e privacidade automaticamente.
 upgrade-dialog-default-primary-button-2 = Definir como navegador padrão
 upgrade-dialog-default-secondary-button = Agora não
 
