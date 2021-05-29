@@ -176,6 +176,7 @@ account-setup-insecure-outgoing-title = Inställningar för utgående:
 # Variables:
 #  $server (String): The name of the hostname of the server the user was trying to connect to.
 account-setup-warning-cleartext = <b>{ $server }</b> använder inte kryptering.
+account-setup-warning-cleartext-details = En osäker e-postserver använder inte en krypterad anslutning för att skydda dina lösenord och privata uppgifter. Genom att ansluta till den här servern kan dina lösenord och privata uppgifter avslöjas.
 account-setup-insecure-server-checkbox = Jag förstår riskerna
     .accesskey = f
 insecure-dialog-cancel-button = Ändra inställningar
