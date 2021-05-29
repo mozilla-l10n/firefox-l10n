@@ -18,6 +18,12 @@ permissions-session =
 permissions-allow =
     .label = 允许
     .accesskey = A
+permissions-button-off =
+    .label = 关闭
+    .accesskey = O
+permissions-button-off-temporarily =
+    .label = 暂时关闭
+    .accesskey = T
 permissions-site-name =
     .label = 网站
 permissions-status =
@@ -58,6 +64,10 @@ permissions-capabilities-listitem-block =
     .value = 阻止
 permissions-capabilities-listitem-allow-session =
     .value = 在这次浏览期间允许
+permissions-capabilities-listitem-off =
+    .value = 关闭
+permissions-capabilities-listitem-off-temporarily =
+    .value = 暂时关闭
 
 ## Invalid Hostname Dialog
 
@@ -77,6 +87,12 @@ permissions-exceptions-cookie-window =
     .title = 例外 - Cookie 和网站数据
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = 您可以指定一律允许或不允许哪些网站使用 Cookie 和网站数据。请输入所要指定的完整网址，然后点击“阻止”、“在这次浏览期间允许”或“允许”。
+
+## Exceptions - HTTPS-Only Mode
+
+permissions-exceptions-https-only-window =
+    .title = 例外 - HTTPS-Only 模式
+    .style = { permissions-window.style }
 
 ## Exceptions - Pop-ups
 
