@@ -292,6 +292,9 @@ mr1-onboarding-pin-primary-button-label =
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
+# This string will be used on welcome page primary button label
+# when Firefox is both pinned and default
+mr1-onboarding-get-started-primary-button-label = 시작하기
 mr1-onboarding-welcome-header = { -brand-short-name }에 오신 것을 환영합니다
 mr1-onboarding-set-default-pin-primary-button-label = { -brand-short-name }를 기본 브라우저로 설정
     .title = { -brand-short-name }를 기본 브라우저로 설정하고 작업 표시줄에 고정
@@ -304,6 +307,9 @@ mr1-onboarding-sign-in-button-label = 로그인
 ## Title, subtitle and primary button string used on set default onboarding screen
 ## when Firefox is not default browser
 
+mr1-onboarding-default-header = { -brand-short-name }를 기본 브라우저로 설정
+mr1-onboarding-default-subtitle = 탐색할 때 속도, 안전 및 개인 정보 보호 기능이 제공됩니다.
+mr1-onboarding-default-primary-button-label = 기본 브라우저로 설정
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
