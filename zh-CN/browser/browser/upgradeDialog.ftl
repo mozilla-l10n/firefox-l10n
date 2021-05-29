@@ -66,6 +66,7 @@ upgrade-dialog-default-subtitle = 每一次浏览，都有最快速度、安全�
 upgrade-dialog-default-primary-button = 设为默认浏览器
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-default-title-2 = 将 { -brand-short-name } 设为您的默认浏览器
+upgrade-dialog-default-subtitle-2 = 自动获得快速、安全、私密的浏览体验。
 upgrade-dialog-default-primary-button-2 = 设为默认浏览器
 upgrade-dialog-default-secondary-button = 暂时不要
 
