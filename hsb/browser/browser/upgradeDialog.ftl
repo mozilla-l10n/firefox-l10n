@@ -32,12 +32,23 @@ upgrade-dialog-new-secondary-button = Nic nětko
 # theme selection screen.
 upgrade-dialog-new-primary-win7-button = W porjadku, sym zrozumił!
 
+## Pin Firefox screen
+##
+## These title, subtitle and button strings differ between platforms as they
+## match the OS' application context menu item action where Windows uses "pin"
+## and "taskbar" while macOS "keep" and "Dock" (proper noun).
+
+upgrade-dialog-pin-secondary-button = Nic nětko
+
 ## Default browser screen
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-default-title = Chceće { -brand-short-name } k swojemu standardnemu wobhladowakej činić?
 upgrade-dialog-default-subtitle = Dóstanće spěšnosć, wěstotu a priwatnosć kóždy raz, hdyž přehladujeće.
 upgrade-dialog-default-primary-button = Jako standardny wobhladowak nastajić
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title-2 = { -brand-short-name } k swojemu standardnemu wobhladowakej činić
+upgrade-dialog-default-primary-button-2 = Jako standardny wobhladowak nastajić
 upgrade-dialog-default-secondary-button = Nic nětko
 
 ## Theme selection screen
