@@ -10,6 +10,9 @@ preferences-title =
             [windows] Опције
            *[other] Поставке
         }
+preferences-tab-title =
+    .title = Поставке
+preferences-doc-title = Поставке
 pane-general-title = Опште
 category-general =
     .tooltiptext = { pane-general-title }
@@ -74,8 +77,9 @@ update-in-progress-ok-button = &Одбаци
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Настави
-account-button = Подешавања налога
 addons-button = Проширења и теме
+account-button = Подешавања налога
+open-addons-sidebar-button = Додаци и теме
 
 ## OS Authentication dialog
 
