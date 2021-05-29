@@ -264,8 +264,8 @@ mr1-onboarding-reduce-motion-button-label = 关闭动画
 # Title used on welcome page when Firefox is not pinned
 mr1-onboarding-pin-header =
     { PLATFORM() ->
-        [macos] 在您的程序坞中保留 { -brand-short-name }，以便访问
-       *[other] 将 { -brand-short-name } 固定到您的任务栏，以便访问
+        [macos] 在您的程序坞中保留 { -brand-short-name }，方便访问
+       *[other] 将 { -brand-short-name } 固定到您的任务栏，方便访问
     }
 # Primary button string used on welcome page when Firefox is not pinned.
 mr1-onboarding-pin-primary-button-label =
