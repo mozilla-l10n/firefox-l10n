@@ -303,6 +303,7 @@ openpgp-keygen-external-success = Išorinio „GnuPG“ rakto ID išsaugotas.
 openpgp-radio-none =
     .label = Joks
 openpgp-radio-none-desc = Šiai tapatybei „OpenPGP“ nenaudoti.
+openpgp-radio-key-not-found = Šio rakto rasti nepavyko! Jei norite jį naudoti, turite jį importuoti į „{ -brand-short-name }“.
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = Galiojimas baigiasi: { $date }
 openpgp-key-expires-image =
