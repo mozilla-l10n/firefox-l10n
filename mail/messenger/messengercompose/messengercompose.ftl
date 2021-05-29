@@ -166,3 +166,9 @@ many-public-recipients-bcc =
 many-public-recipients-ignore =
     .label = Залишити отримувачів видимими
     .accesskey = З
+
+## Notifications
+
+# Variables:
+# $identity (string) - The name of the used identity, most likely an email address.
+compose-missing-identity-warning = Адреса електронної пошти, що відповідає полю "Від" не знайдена. Повідомлення буде надіслано з використанням поточного поля "Від" і налаштувань адреси електронної пошти { $identity }.
