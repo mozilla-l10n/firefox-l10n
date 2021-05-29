@@ -17,7 +17,6 @@ account-setup-name-input =
     .placeholder = Janez Novak
 account-setup-name-info-icon =
     .title = Vaše ime, s katerim se predstavljate
-account-setup-name-warning = Vnesite svoje ime
 account-setup-name-warning-icon =
     .title = { account-setup-name-warning }
 account-setup-email-label = E-poštni naslov
@@ -26,7 +25,6 @@ account-setup-email-input =
     .placeholder = janez.novak@example.com
 account-setup-email-info-icon =
     .title = Vaš obstoječi e-poštni naslov
-account-setup-email-warning = Neveljaven e-poštni naslov
 account-setup-email-warning-icon =
     .title = { account-setup-email-warning }
 account-setup-password-label = Geslo
@@ -115,32 +113,63 @@ account-setup-exchange-title = Strežnik
 
 account-setup-find-settings-failed = { -brand-short-name } ni uspel najti nastavitev za vaš e-poštni račun
 
-## Manual config area
+## Manual configuration area
 
 account-setup-manual-config-title = Nastavitve strežnika
-account-setup-incoming-protocol-label = Dohodni protokol
 protocol-imap-option = { account-setup-result-imap }
 protocol-pop-option = { account-setup-result-pop }
-account-setup-outgoing-protocol-label = Odhodni protokol
-outgoing-protocol = SMTP
-account-setup-incoming-server-label = Dohodni strežnik
-account-setup-outgoing-server-label = Odhodni strežnik
-account-setup-incoming-port-label = Dohodna vrata
-account-setup-outoing-port-label = Odhodna vrata
-account-setup-incoming-ssl-label = Dohodni SSL
-account-setup-outgoing-ssl-label = Odhodni SSL
+account-setup-hostname-label = Ime gostitelja:
+account-setup-port-label = Vrata:
+    .title = Za samodejno zaznavo nastavite številko vrat na 0
+account-setup-auto-description = { -brand-short-name } bo poskusil samodejno zaznati vrednosti za neizpolnjena polja.
+account-setup-ssl-label = Varnost povezave:
+account-setup-outgoing-server-legend = Odhodni strežnik
+
+## Incoming/Outgoing SSL Authentication options
+
 ssl-autodetect-option = Samodejno zaznaj
+ssl-no-authentication-option = Brez overitve
+ssl-cleartext-password-option = Običajno geslo
+ssl-encrypted-password-option = Šifrirano geslo
+
+## Incoming/Outgoing SSL options
+
 ssl-noencryption-option = Brez
-ssl-starttls-option = STARTTLS
-ssl-tls-option = SSL/TLS
-account-setup-incoming-auth-label = Dohodna overitev
-account-setup-outgoing-auth-label = Odhodna overitev
-account-setup-incoming-username-label = Dohodno uporabniško ime
-account-setup-outgoing-username-label = Odhodno uporabniško ime
+account-setup-auth-label = Način overitve:
+account-setup-username-label = Uporabniško ime:
 account-setup-advanced-setup-button = Napredne nastavitve
     .accesskey = a
 
-## Warning insecure server
+## Warning insecure server dialog
 
+account-setup-insecure-title = Opozorilo!
+account-setup-insecure-incoming-title = Nastavitve za dohodno pošto:
+account-setup-insecure-outgoing-title = Nastavitve za odhodno pošto:
+# Variables:
+#  $server (String): The name of the hostname of the server the user was trying to connect to.
+account-setup-warning-cleartext = <b>{ $server }</b> ne uporablja šifriranja.
+account-setup-warning-cleartext-details = Nezaščiteni poštni strežniki za varnost vaših gesel in zasebnih podatkov ne uporabljajo šifriranih povezav. S povezavo s tem strežnikom bi lahko izpostavili svoje geslo in zasebne podatke.
 account-setup-insecure-server-checkbox = Razumem tveganja
     .accesskey = u
+account-setup-insecure-description = { -brand-short-name } vam lahko omogoči, da dostopate do svoje pošte z uporabo navedenih nastavitev. Glede neprimernega načina povezovanja pa se morate obrniti na svojega skrbnika ali ponudnika e-poštnih storitev. Za več informacij si preberite <a data-l10n-name="thunderbird-faq-link">pogosta vprašanja o Thunderbirdu</a>.
+insecure-dialog-cancel-button = Spremeni nastavitve
+    .accesskey = S
+insecure-dialog-confirm-button = Potrdi
+    .accesskey = t
+
+## Warning Exchange confirmation dialog
+
+exchange-dialog-confirm-button = Prijava
+exchange-dialog-cancel-button = Prekliči
+
+## Alert dialogs
+
+account-setup-creation-error-title = Napaka pri ustvarjanju računa
+account-setup-error-server-exists = Dohodni strežnik že obstaja.
+account-setup-confirm-advanced-title = Potrdite napredne nastavitve
+account-setup-confirm-advanced-description = To pogovorno okno se bo zaprlo in ustvaril se bo račun s trenutnimi nastavitvami, tudi če nastavitev ni pravilna. Ali želite nadaljevati?
+
+## Addon installation section
+
+account-setup-addon-install-title = Namesti
+account-setup-addon-no-protocol = Ta e-poštni strežnik žal ne podpira odprtih protokolov. { account-setup-addon-install-intro }

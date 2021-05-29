@@ -172,3 +172,9 @@ many-public-recipients-bcc =
 many-public-recipients-ignore =
     .label = Naj bodo prejemniki javni
     .accesskey = N
+
+## Notifications
+
+# Variables:
+# $identity (string) - The name of the used identity, most likely an email address.
+compose-missing-identity-warning = Edinstvene identitete za naslov v polju Od ni bilo mogoče najti. Sporočilo bo poslano z uporabo trenutnega polja Od in nastavitev za identiteto { $identity }.
