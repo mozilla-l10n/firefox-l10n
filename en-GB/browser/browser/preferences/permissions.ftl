@@ -18,6 +18,12 @@ permissions-session =
 permissions-allow =
     .label = Allow
     .accesskey = A
+permissions-button-off =
+    .label = Turn Off
+    .accesskey = O
+permissions-button-off-temporarily =
+    .label = Turn Off Temporarily
+    .accesskey = T
 permissions-site-name =
     .label = Web Site
 permissions-status =
@@ -58,6 +64,10 @@ permissions-capabilities-listitem-block =
     .value = Block
 permissions-capabilities-listitem-allow-session =
     .value = Allow for Session
+permissions-capabilities-listitem-off =
+    .value = Off
+permissions-capabilities-listitem-off-temporarily =
+    .value = Off temporarily
 
 ## Invalid Hostname Dialog
 
@@ -77,6 +87,13 @@ permissions-exceptions-cookie-window =
     .title = Exceptions - Cookies and Site Data
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = You can specify which web sites are always or never allowed to use cookies and site data.  Type the exact address of the site you want to manage and then click Block, Allow for Session, or Allow.
+
+## Exceptions - HTTPS-Only Mode
+
+permissions-exceptions-https-only-window =
+    .title = Exceptions - HTTPS-Only Mode
+    .style = { permissions-window.style }
+permissions-exceptions-https-only-desc = You can turn off HTTPS-Only Mode for specific websites. { -brand-short-name } won’t attempt to upgrade the connection to secure HTTPS for those sites. Exceptions do not apply to private windows.
 
 ## Exceptions - Pop-ups
 

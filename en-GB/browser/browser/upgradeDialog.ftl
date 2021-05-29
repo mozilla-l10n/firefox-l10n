@@ -32,12 +32,42 @@ upgrade-dialog-new-secondary-button = Not now
 # theme selection screen.
 upgrade-dialog-new-primary-win7-button = Okay, got it!
 
+## Pin Firefox screen
+##
+## These title, subtitle and button strings differ between platforms as they
+## match the OS' application context menu item action where Windows uses "pin"
+## and "taskbar" while macOS "keep" and "Dock" (proper noun).
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-pin-title =
+    { PLATFORM() ->
+        [macos] Keep { -brand-short-name } in your Dock
+       *[other] Pin { -brand-short-name } to your taskbar
+    }
+# The English macOS string avoids repeating "Keep" a third time, so if your
+# translations don't repeat anyway, the same string can be used cross-platform.
+upgrade-dialog-pin-subtitle =
+    { PLATFORM() ->
+        [macos] Get easy access to the freshest { -brand-short-name } yet.
+       *[other] Keep the freshest { -brand-short-name } yet within reach.
+    }
+upgrade-dialog-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Keep in Dock
+       *[other] Pin to taskbar
+    }
+upgrade-dialog-pin-secondary-button = Not now
+
 ## Default browser screen
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-default-title = Make { -brand-short-name } your default browser?
 upgrade-dialog-default-subtitle = Get speed, safety, and privacy every time you browse.
 upgrade-dialog-default-primary-button = Set as default browser
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title-2 = Make { -brand-short-name } your default
+upgrade-dialog-default-subtitle-2 = Put speed, safety, and privacy on autopilot.
+upgrade-dialog-default-primary-button-2 = Make default browser
 upgrade-dialog-default-secondary-button = Not now
 
 ## Theme selection screen
@@ -46,6 +76,8 @@ upgrade-dialog-default-secondary-button = Not now
 upgrade-dialog-theme-title =
     Get a clean start
     with an updated theme
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-theme-title-2 = Get a clean start with a crisp theme
 upgrade-dialog-theme-system = System theme
     .title = Follow the operating system theme for buttons, menus, and windows
 upgrade-dialog-theme-light = Light
