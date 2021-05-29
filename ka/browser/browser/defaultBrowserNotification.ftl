@@ -14,6 +14,7 @@ default-browser-notification-button =
 
 default-browser-prompt-title-pin = გახდეს { -brand-short-name } თქვენი ძირითადი ბრაუზერი?
 default-browser-prompt-message-pin = იქონიეთ { -brand-short-name } თქვენს თითებთან ახლოს — აქციეთ ნაგულისხმევ ბრაუზერად და მიამაგრეთ ამოცანათა ზოლზე.
+default-browser-prompt-message-pin-mac = იქონიეთ { -brand-short-name } თქვენს თითებთან ახლოს — აქციეთ ნაგულისხმევ ბრაუზერად და ჩაამატეთ პროგრამების ზოლზე.
 default-browser-prompt-button-primary-pin = გახდეს ძირითადი ბრაუზერი
 default-browser-prompt-title-alt = გახდეს { -brand-short-name } თქვენი ნაგულისხმევი ბრაუზერი?
 default-browser-prompt-message-alt = სისწრაფე, უსაფრთხოება და პირადულობა, გვერდების ყოველი მონახულებისას.

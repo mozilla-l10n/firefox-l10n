@@ -18,6 +18,12 @@ permissions-session =
 permissions-allow =
     .label = დაშვება
     .accesskey = დ
+permissions-button-off =
+    .label = გამორთვა
+    .accesskey = ო
+permissions-button-off-temporarily =
+    .label = გამორთვა დროებით
+    .accesskey = დ
 permissions-site-name =
     .label = საიტი
 permissions-status =
@@ -58,6 +64,10 @@ permissions-capabilities-listitem-block =
     .value = შეზღუდული
 permissions-capabilities-listitem-allow-session =
     .value = ნებადართული ამ სეანსზე
+permissions-capabilities-listitem-off =
+    .value = გამორთ.
+permissions-capabilities-listitem-off-temporarily =
+    .value = დროებით გამორთ.
 
 ## Invalid Hostname Dialog
 
@@ -77,6 +87,13 @@ permissions-exceptions-cookie-window =
     .title = გამონაკლისები – ფუნთუშები და საიტის მონაცემები
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = შეგიძლიათ მიუთითოთ საიტები, რომელთაც ყოველთვის შეეძლება ფუნთუშებისა და საიტის მონაცემების გამოყენება.  აკრიფეთ საიტის ზუსტი მისამართი, შემდეგ კი დააწკაპეთ დაშვებას, სეანსზე დაშვებას ან აკრძალვას.
+
+## Exceptions - HTTPS-Only Mode
+
+permissions-exceptions-https-only-window =
+    .title = გამონაკლისები - მხოლოდ HTTPS რეჟიმი
+    .style = { permissions-window.style }
+permissions-exceptions-https-only-desc = მხოლოდ HTTPS რეჟიმი შეგიძლიათ გამორთოთ ცალკეულ საიტებზე. { -brand-short-name } აღარ შეეცდება კავშირის გადაყვანას დაცულ HTTPS-ზე ამ საიტებისთვის. გამონაკლისები არ შეეხება პირად ფანჯრებს.
 
 ## Exceptions - Pop-ups
 
