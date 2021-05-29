@@ -261,9 +261,24 @@ mr1-onboarding-reduce-motion-button-label = 关闭动画
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
+# Title used on welcome page when Firefox is not pinned
+mr1-onboarding-pin-header =
+    { PLATFORM() ->
+        [macos] 在您的程序坞中保留 { -brand-short-name }，以便访问
+       *[other] 将 { -brand-short-name } 固定到您的任务栏，以便访问
+    }
+# Primary button string used on welcome page when Firefox is not pinned.
+mr1-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] 在程序坞中保留
+       *[other] 固定到任务栏
+    }
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
+# This string will be used on welcome page primary button label
+# when Firefox is both pinned and default
+mr1-onboarding-get-started-primary-button-label = 开始使用
 mr1-onboarding-welcome-header = 欢迎使用 { -brand-short-name }
 mr1-onboarding-set-default-pin-primary-button-label = 将 { -brand-short-name } 设为我的主浏览器
     .title = 将 { -brand-short-name } 设为默认浏览器，并固定到任务栏
@@ -276,6 +291,7 @@ mr1-onboarding-sign-in-button-label = 登录
 ## Title, subtitle and primary button string used on set default onboarding screen
 ## when Firefox is not default browser
 
+mr1-onboarding-default-header = 将 { -brand-short-name } 设为您的默认浏览器
 mr1-onboarding-default-primary-button-label = 设为默认浏览器
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
