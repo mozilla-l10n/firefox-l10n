@@ -310,6 +310,7 @@ mr1-onboarding-sign-in-button-label = შესვლა
 ## when Firefox is not default browser
 
 mr1-onboarding-default-header = აქციეთ { -brand-short-name } ნაგულისხმევად
+mr1-onboarding-default-subtitle = გახადეთ სიჩქარე, უსაფრთხოება და პირადულობა, თავისთავადი.
 mr1-onboarding-default-primary-button-label = ნაგულისხმევ ბრაუზერად დაყენება
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
