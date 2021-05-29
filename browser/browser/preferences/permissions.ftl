@@ -18,6 +18,12 @@ permissions-session =
 permissions-allow =
     .label = Cho phép
     .accesskey = h
+permissions-button-off =
+    .label = Tắt
+    .accesskey = O
+permissions-button-off-temporarily =
+    .label = Tắt tạm thời
+    .accesskey = T
 permissions-site-name =
     .label = Trang web
 permissions-status =
@@ -58,6 +64,10 @@ permissions-capabilities-listitem-block =
     .value = Chặn
 permissions-capabilities-listitem-allow-session =
     .value = Cho phép theo phiên
+permissions-capabilities-listitem-off =
+    .value = Tắt
+permissions-capabilities-listitem-off-temporarily =
+    .value = Tắt tạm thời
 
 ## Invalid Hostname Dialog
 
@@ -77,6 +87,13 @@ permissions-exceptions-cookie-window =
     .title = Ngoại lệ - Cookie và dữ liệu trang web
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = Bạn có thể chỉ định trang web nào luôn hoặc không bao giờ được phép sử dụng cookie và dữ liệu trang web. Nhập địa chỉ chính xác của trang web bạn muốn quản lý và sau đó nhấp vào Chặn, Chỉ cho phép với phiên này hoặc Cho phép.
+
+## Exceptions - HTTPS-Only Mode
+
+permissions-exceptions-https-only-window =
+    .title = Ngoại trừ - Chế độ chỉ HTTPS
+    .style = { permissions-window.style }
+permissions-exceptions-https-only-desc = Bạn có thể tắt Chế độ chỉ HTTPS cho các trang web cụ thể. { -brand-short-name } sẽ không cố gắng nâng cấp kết nối để bảo mật HTTPS cho các trang web đó. Các trường hợp ngoại lệ không áp dụng cho các cửa sổ riêng tư.
 
 ## Exceptions - Pop-ups
 
