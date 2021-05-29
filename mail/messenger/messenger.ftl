@@ -16,6 +16,9 @@ about-rights-notification-text = { -brand-short-name } თავისუფა�
 addons-and-themes-button =
     .label = დამატებები და თემები
     .tooltip = მართეთ დამატებები
+redirect-msg-button =
+    .label = გადამისამართება
+    .tooltiptext = შერჩეული წერილის გადამისამართება
 
 ## Folder Pane
 
@@ -50,6 +53,12 @@ folder-toolbar-toggle-folder-compact-view =
     .label = შემჭიდროებული ჩვენება
     .accesskey = ჭ
 
+## Menu
+
+redirect-msg-menuitem =
+    .label = გადამისამართება
+    .accesskey = დ
+
 ## AppMenu
 
 # Since v89 we dropped the platforms distinction between Options or Preferences
@@ -64,6 +73,18 @@ appmenu-help-exit-troubleshoot-mode =
     .label = ხარვეზის აღმოფხვრის რეჟიმის გამორთვა
 appmenu-help-more-troubleshooting-info =
     .label = ხარვეზის აღმოფხვრის ვრცელი მონაცემები
+appmenu-redirect-msg =
+    .label = გადამისამართება
+
+## Context menu
+
+context-menu-redirect-msg =
+    .label = გადამისამართება
+
+## Message header pane
+
+other-action-redirect-msg =
+    .label = გადამისამართება
 
 ## Action Button Context Menu
 
