@@ -90,6 +90,10 @@ permissions-exceptions-cookie-desc = Вы можете указать, каки�
 
 ## Exceptions - HTTPS-Only Mode
 
+permissions-exceptions-https-only-window =
+    .title = Исключения — Режим «Только HTTPS»
+    .style = { permissions-window.style }
+permissions-exceptions-https-only-desc = Вы можете отключить Режим «Только HTTPS» для определённых веб-сайтов. { -brand-short-name } не будет пытаться переключать соединение на защищённый HTTPS для этих сайтов. Исключения не распространяются на приватные окна.
 
 ## Exceptions - Pop-ups
 
