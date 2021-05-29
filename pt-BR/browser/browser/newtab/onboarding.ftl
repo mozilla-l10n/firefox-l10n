@@ -256,12 +256,45 @@ mr1-welcome-screen-hero-text = Começa aqui
 mr1-onboarding-welcome-image-caption = Soraya Osorio — Designer de móveis, fã do Firefox
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Desativar animações
+
+## Title and primary button strings differ between platforms as they
+## match the OS' application context menu item action where Windows uses "pin"
+## and "taskbar" while macOS "keep" and "Dock" (proper noun).
+
+# Title used on welcome page when Firefox is not pinned
+mr1-onboarding-pin-header =
+    { PLATFORM() ->
+        [macos] Mantenha o { -brand-short-name } no Dock para fácil acesso
+       *[other] Fixe o { -brand-short-name } na barra de tarefas para fácil acesso
+    }
+# Primary button string used on welcome page when Firefox is not pinned.
+mr1-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Manter no Dock
+       *[other] Fixar na barra de tarefas
+    }
+
+## Multistage MR1 onboarding strings (about:welcome pages)
+
+# This string will be used on welcome page primary button label
+# when Firefox is both pinned and default
+mr1-onboarding-get-started-primary-button-label = Introdução
 mr1-onboarding-welcome-header = Boas-vindas ao { -brand-short-name }
 mr1-onboarding-set-default-pin-primary-button-label = Tornar o { -brand-short-name } meu navegador principal
     .title = Define o { -brand-short-name } como navegador principal e fixa na barra de tarefas
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
 mr1-onboarding-set-default-only-primary-button-label = Tornar o { -brand-short-name } meu navegador padrão
 mr1-onboarding-set-default-secondary-button-label = Agora não
 mr1-onboarding-sign-in-button-label = Entrar
+
+## Title, subtitle and primary button string used on set default onboarding screen
+## when Firefox is not default browser
+
+mr1-onboarding-default-header = Tornar o { -brand-short-name } o navegador padrão
+
+## Multistage MR1 onboarding strings (about:welcome pages)
+
 mr1-onboarding-import-header = Traga tudo com você
 mr1-onboarding-import-subtitle = Importe suas senhas, <br/>favoritos e muito mais.
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
