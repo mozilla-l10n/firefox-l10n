@@ -18,6 +18,9 @@ about-rights-notification-text = { -brand-short-name } je brezplačen in odprtok
 addons-and-themes-button =
     .label = Dodatki in teme
     .tooltip = Upravljanje dodatkov
+redirect-msg-button =
+    .label = Preusmeri
+    .tooltiptext = Preusmeri izbrano sporočilo
 
 ## Folder Pane
 
@@ -52,6 +55,12 @@ folder-toolbar-toggle-folder-compact-view =
     .label = Zgoščen pogled
     .accesskey = Z
 
+## Menu
+
+redirect-msg-menuitem =
+    .label = Preusmeri
+    .accesskey = u
+
 ## AppMenu
 
 # Since v89 we dropped the platforms distinction between Options or Preferences
@@ -66,6 +75,18 @@ appmenu-help-exit-troubleshoot-mode =
     .label = Izključi način za odpravljanje težav
 appmenu-help-more-troubleshooting-info =
     .label = Več podatkov za odpravljanje težav
+appmenu-redirect-msg =
+    .label = Preusmeri
+
+## Context menu
+
+context-menu-redirect-msg =
+    .label = Preusmeri
+
+## Message header pane
+
+other-action-redirect-msg =
+    .label = Preusmeri
 
 ## Action Button Context Menu
 
