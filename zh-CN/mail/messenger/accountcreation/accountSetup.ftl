@@ -20,7 +20,6 @@ account-setup-name-input =
     .placeholder = 李四
 account-setup-name-info-icon =
     .title = 你的名字，显示给其他人
-account-setup-name-warning = 请输入您的名字
 account-setup-name-warning-icon =
     .title = { account-setup-name-warning }
 account-setup-email-label = 电子邮件地址
@@ -29,7 +28,6 @@ account-setup-email-input =
     .placeholder = john.doe@example.com
 account-setup-email-info-icon =
     .title = 您现有的电子邮件地址
-account-setup-email-warning = 无效的电子邮件地址
 account-setup-email-warning-icon =
     .title = { account-setup-email-warning }
 account-setup-password-label = 密码
@@ -122,6 +120,10 @@ account-setup-incoming-title = 收件
 account-setup-outgoing-title = 发件
 account-setup-username-title = 用户名
 account-setup-exchange-title = 服务器
+account-setup-result-smtp = SMTP
+account-setup-result-no-encryption = 未加密
+account-setup-result-ssl = SSL/TLS
+account-setup-result-starttls = STARTTLS
 
 ## Error messages
 
@@ -131,32 +133,32 @@ account-setup-credentials-wrong = 验证失败。请检查用户名和密码
 account-setup-find-settings-failed = { -brand-short-name } 未能找到你的邮件账户设置
 account-setup-exchange-config-unverifiable = 无法验证配置。如果您的用户名和密码确认无误，则可能是服务器管理员已禁用了您为账户所选的配置。请尝试选择其他协议。
 
-## Manual config area
+## Manual configuration area
 
 account-setup-manual-config-title = 服务器设置
-account-setup-incoming-protocol-label = 收件协议
 protocol-imap-option = { account-setup-result-imap }
 protocol-pop-option = { account-setup-result-pop }
-account-setup-outgoing-protocol-label = 发件协议
-outgoing-protocol = SMTP
-account-setup-incoming-server-label = 收件服务器
-account-setup-outgoing-server-label = 发件服务器
-account-setup-incoming-port-label = 收件端口
-account-setup-outoing-port-label = 发件端口
-account-setup-incoming-ssl-label = 收件 SSL
-account-setup-outgoing-ssl-label = 发件 SSL
+
+## Incoming/Outgoing SSL Authentication options
+
 ssl-autodetect-option = 自动检测
+
+## Incoming/Outgoing SSL options
+
 ssl-noencryption-option = 无
-ssl-starttls-option = STARTTLS
-ssl-tls-option = SSL/TLS
-account-setup-incoming-auth-label = 收件身份验证
-account-setup-outgoing-auth-label = 发件身份验证
-account-setup-incoming-username-label = 收件用户名
-account-setup-outgoing-username-label = 发件用户名
 account-setup-advanced-setup-button = 高级配置
     .accesskey = A
 
-## Warning insecure server
+## Warning insecure server dialog
 
 account-setup-insecure-server-checkbox = 我已了解相关风险。
     .accesskey = u
+
+## Warning Exchange confirmation dialog
+
+
+## Alert dialogs
+
+
+## Addon installation section
+
