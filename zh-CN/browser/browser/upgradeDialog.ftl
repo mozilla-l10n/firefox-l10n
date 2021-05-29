@@ -44,6 +44,13 @@ upgrade-dialog-pin-title =
         [macos] 在您的程序坞中保留 { -brand-short-name }
        *[other] 将 { -brand-short-name } 固定到您的任务栏
     }
+# The English macOS string avoids repeating "Keep" a third time, so if your
+# translations don't repeat anyway, the same string can be used cross-platform.
+upgrade-dialog-pin-subtitle =
+    { PLATFORM() ->
+        [macos] 方便随时访问全新体验的 { -brand-short-name }。
+       *[other] 方便随时访问全新体验的 { -brand-short-name }。
+    }
 upgrade-dialog-pin-primary-button =
     { PLATFORM() ->
         [macos] 在程序坞中保留
