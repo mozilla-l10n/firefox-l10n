@@ -18,6 +18,12 @@ permissions-session =
 permissions-allow =
     .label = 허용
     .accesskey = A
+permissions-button-off =
+    .label = 끄기
+    .accesskey = O
+permissions-button-off-temporarily =
+    .label = 일시적으로 끄기
+    .accesskey = T
 permissions-site-name =
     .label = 웹 사이트
 permissions-status =
@@ -58,6 +64,10 @@ permissions-capabilities-listitem-block =
     .value = 차단
 permissions-capabilities-listitem-allow-session =
     .value = 세션 허용
+permissions-capabilities-listitem-off =
+    .value = 끄기
+permissions-capabilities-listitem-off-temporarily =
+    .value = 일시적으로 끄기
 
 ## Invalid Hostname Dialog
 
@@ -77,6 +87,9 @@ permissions-exceptions-cookie-window =
     .title = 예외 - 쿠키와 사이트 데이터
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = 웹 사이트별로 쿠키나 사이트 데이터를 항상 사용하거나 사용하지 않도록 설정할 수 있습니다.  관리할 사이트의 정확한 주소를 입력하고 '차단'이나 '세션 허용', '허용'을 누르세요.
+
+## Exceptions - HTTPS-Only Mode
+
 
 ## Exceptions - Pop-ups
 
