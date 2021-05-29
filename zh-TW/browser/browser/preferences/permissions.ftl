@@ -93,6 +93,7 @@ permissions-exceptions-cookie-desc = 您可以指定哪些網站是否可以設�
 permissions-exceptions-https-only-window =
     .title = 例外 - 純 HTTPS 模式
     .style = { permissions-window.style }
+permissions-exceptions-https-only-desc = 您可以針對特定網站關閉純 HTTPS 模式。連線到這些網站時，{ -brand-short-name } 不會嘗試升級為安全的 HTTPS 連線。例外網站不會在隱私保護視窗中生效。
 
 ## Exceptions - Pop-ups
 
