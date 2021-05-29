@@ -14,6 +14,7 @@ default-browser-notification-button =
 
 default-browser-prompt-title-pin = Đặt { -brand-short-name } làm trình duyệt mặc định của bạn?
 default-browser-prompt-message-pin = Giữ { -brand-short-name } trong tầm tay bạn — đặt nó làm trình duyệt mặc định của bạn và ghim nó vào thanh tác vụ của bạn.
+default-browser-prompt-message-pin-mac = Giữ { -brand-short-name } trong tầm tay bạn — đặt nó làm trình duyệt mặc định của bạn và giữ nó trong thanh Dock của bạn.
 default-browser-prompt-button-primary-pin = Đặt làm trình duyệt mặc định
 default-browser-prompt-title-alt = Đặt { -brand-short-name } làm trình duyệt mặc định của bạn?
 default-browser-prompt-message-alt = Tốc độ, an toàn và quyền riêng tư mỗi khi bạn duyệt.
