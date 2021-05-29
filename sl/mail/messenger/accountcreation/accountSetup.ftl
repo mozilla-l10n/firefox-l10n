@@ -124,8 +124,11 @@ account-setup-result-username-different = Dohodni: { $incoming }, odhodni: { $ou
 
 ## Error messages
 
+# Note: The reference to "janedoe" (Jane Doe) is the name of an example person. You will want to translate it to whatever example persons would be named in your language. In the example, AD is the name of the Windows domain, and this should usually not be translated.
+account-setup-credentials-incomplete = Overitev ni uspela. Ali so vnesene poverilnice napačne ali pa je za prijavo zahtevano ločeno uporabniško ime. To uporabniško ime je običajno vaša prijava za domeno sistema Windows z ali brez domene (npr. janeznovak ali AD\\janeznovak).
 account-setup-credentials-wrong = Overitev ni uspela. Preverite uporabniško ime in geslo
 account-setup-find-settings-failed = { -brand-short-name } ni uspel najti nastavitev za vaš e-poštni račun
+account-setup-exchange-config-unverifiable = Nastavitve ni bilo mogoče preveriti. Če sta uporabniško ime in geslo pravilni, je verjetno, da je skrbnik strežnika onemogočil izbrano nastavitev za vaš račun. Poskusite izbrati drug protokol.
 
 ## Manual configuration area
 
