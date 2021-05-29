@@ -17,6 +17,9 @@ about-rights-notification-text = { -brand-short-name } je voľne šíriteľný o
 addons-and-themes-button =
     .label = Doplnky a témy
     .tooltip = Správa vašich doplnkov
+redirect-msg-button =
+    .label = Presmerovať
+    .tooltiptext = Presmerovať vybranú správu
 
 ## Folder Pane
 
@@ -51,6 +54,12 @@ folder-toolbar-toggle-folder-compact-view =
     .label = Kompaktné zobrazenie
     .accesskey = K
 
+## Menu
+
+redirect-msg-menuitem =
+    .label = Presmerovať
+    .accesskey = r
+
 ## AppMenu
 
 # Since v89 we dropped the platforms distinction between Options or Preferences
@@ -65,6 +74,18 @@ appmenu-help-exit-troubleshoot-mode =
     .label = Vypnúť režim riešenia problémov
 appmenu-help-more-troubleshooting-info =
     .label = Ďalšie informácie pre riešenie problémov
+appmenu-redirect-msg =
+    .label = Presmerovať
+
+## Context menu
+
+context-menu-redirect-msg =
+    .label = Presmerovať
+
+## Message header pane
+
+other-action-redirect-msg =
+    .label = Presmerovať
 
 ## Action Button Context Menu
 

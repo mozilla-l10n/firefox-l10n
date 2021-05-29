@@ -23,7 +23,7 @@
 <!ENTITY stopButton.label "Zastaviť">
 <!ENTITY stopButton.accessKey "s">
 <!ENTITY userDictionary.label "Osobný slovník:">
-<!ENTITY moreDictionaries.label "Prevziať ďalšie slovníky…">
+<!ENTITY moreDictionaries.label "Stiahnuť ďalšie slovníky…">
 <!ENTITY addToUserDictionaryButton.label "Pridať slovo">
 <!ENTITY addToUserDictionaryButton.accessKey "P">
 <!ENTITY editUserDictionaryButton.label "Upraviť slovník…">

@@ -40,7 +40,7 @@
 <!ENTITY daysEnd.label "dní">
 <!ENTITY deleteOnServer2.label "až kým nebudú odstránené">
 <!ENTITY deleteOnServer2.accesskey "b">
-<!ENTITY downloadOnBiff.label "Automaticky prevziať novú poštu">
+<!ENTITY downloadOnBiff.label "Automaticky stiahnuť novú poštu">
 <!ENTITY downloadOnBiff.accesskey "o">
 <!ENTITY deleteMessagePrefix.label "Pri odstránení správy:">
 <!ENTITY modelMoveToTrash.label "Presunúť ju do priečinka:">
@@ -60,7 +60,7 @@
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
     of messages between them
 -->
-<!ENTITY maxMessagesStart.label "Opýtať sa pri preberaní viac ako">
+<!ENTITY maxMessagesStart.label "Opýtať sa pri sťahovaní viac ako">
 <!ENTITY maxMessagesStart.accesskey "s">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "správ">

@@ -39,12 +39,12 @@
 
 <!ENTITY offlineFolder.check.label               "Používať tento priečinok offline">
 <!ENTITY offlineFolder.check.accesskey           "u">
-<!ENTITY offlineFolder.button.label              "Prevziať">
+<!ENTITY offlineFolder.button.label              "Stiahnuť">
 <!ENTITY offlineFolder.button.accesskey          "P">
 
 <!ENTITY selectofflineNewsgroup.check.label      "Označiť túto diskusiu na použitie v režime offline">
 <!ENTITY selectofflineNewsgroup.check.accesskey  "O">
-<!ENTITY offlineNewsgroup.button.label           "Prevziať">
+<!ENTITY offlineNewsgroup.button.label           "Stiahnuť">
 <!ENTITY offlineNewsgroup.button.accesskey       "P">
 
 <!ENTITY folderProps.name.label                  "Názov:">
