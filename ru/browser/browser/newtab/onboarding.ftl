@@ -267,15 +267,51 @@ onboarding-multistage-theme-description-alpenglow =
 mr1-welcome-screen-hero-text = Firefox начинается здесь
 # Caption for background image in about:welcome. "Soraya Osorio" is the name
 # of the person and shouldn't be translated.
+# In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
+# You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = Soraya Osorio — Дизайнер мебели, фанатка Firefox
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Отключить анимации
+
+## Title and primary button strings differ between platforms as they
+## match the OS' application context menu item action where Windows uses "pin"
+## and "taskbar" while macOS "keep" and "Dock" (proper noun).
+
+# Title used on welcome page when Firefox is not pinned
+mr1-onboarding-pin-header =
+    { PLATFORM() ->
+        [macos] Оставьте { -brand-short-name } в Dock для быстрого доступа
+       *[other] Закрепите { -brand-short-name } на панели задач для быстрого доступа
+    }
+# Primary button string used on welcome page when Firefox is not pinned.
+mr1-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Оставить в Dock
+       *[other] Закрепить на панели задач
+    }
+
+## Multistage MR1 onboarding strings (about:welcome pages)
+
+# This string will be used on welcome page primary button label
+# when Firefox is both pinned and default
+mr1-onboarding-get-started-primary-button-label = Начать
 mr1-onboarding-welcome-header = Добро пожаловать в { -brand-short-name }
 mr1-onboarding-set-default-pin-primary-button-label = Сделать { -brand-short-name } моим основным браузером
     .title = Устанавливает { -brand-short-name } в качестве браузера по умолчанию и закрепляет на панели задач
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
 mr1-onboarding-set-default-only-primary-button-label = Сделать { -brand-short-name } моим браузером по умолчанию
 mr1-onboarding-set-default-secondary-button-label = Не сейчас
 mr1-onboarding-sign-in-button-label = Войти
+
+## Title, subtitle and primary button string used on set default onboarding screen
+## when Firefox is not default browser
+
+mr1-onboarding-default-header = Сделать { -brand-short-name } браузером по умолчанию
+mr1-onboarding-default-primary-button-label = Сделать браузером по умолчанию
+
+## Multistage MR1 onboarding strings (about:welcome pages)
+
 mr1-onboarding-import-header = Возьмите всё с собой
 mr1-onboarding-import-subtitle = Импортируйте свои пароли, <br/>закладки и многое другое.
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
