@@ -20,7 +20,6 @@ account-setup-name-input =
     .placeholder = პეტრე პავლიაშვილი
 account-setup-name-info-icon =
     .title = სახელი, რომლებსაც სხვები დაინახავენ
-account-setup-name-warning = გთხოვთ მიუთითოთ თქვენი სახელი
 account-setup-name-warning-icon =
     .title = { account-setup-name-warning }
 account-setup-email-label = ელფოსტის მისამართი
@@ -29,7 +28,6 @@ account-setup-email-input =
     .placeholder = petre.pavliashvili@example.com
 account-setup-email-info-icon =
     .title = თქვენი მიმდინარე ელფოსტის მისამართი
-account-setup-email-warning = ელფოსტის არასწორი მისამართი
 account-setup-email-warning-icon =
     .title = { account-setup-email-warning }
 account-setup-password-label = პაროლი
@@ -122,6 +120,15 @@ account-setup-incoming-title = მიღებული
 account-setup-outgoing-title = გაგზავნილი
 account-setup-username-title = მომხმარებლის სახელი
 account-setup-exchange-title = სერვერი
+account-setup-result-smtp = SMTP
+account-setup-result-no-encryption = დაშიფვრის გარეშე
+account-setup-result-ssl = SSL/TLS
+account-setup-result-starttls = STARTTLS
+account-setup-result-outgoing-existing = არსებული გამავალი SMTP სერვერით სარგებლობა
+# Variables:
+#  $incoming (String): The email/username used to log into the incoming server
+#  $outgoing (String): The email/username used to log into the outgoing server
+account-setup-result-username-different = შემომავალი: { $incoming }, გამავალი: { $outgoing }
 
 ## Error messages
 
@@ -131,32 +138,40 @@ account-setup-credentials-wrong = შესვლა ვერ მოხერ�
 account-setup-find-settings-failed = { -brand-short-name } ვერ ახერხებს პარამეტრების მოძიებას, თქვენი ელფოსტის ანგარიშისთვის.
 account-setup-exchange-config-unverifiable = გამართვის პარამეტრების დამოწმება ვერ მოხერხდა. თუ თქვენი სახელი და პაროლი სწორია, შესაძლოა სერვერის ხელმძღვანელობამ გათიშა აღნიშნული პარამეტრები თქვენი ანგარიშისთვის. სცადეთ სხვა ოქმის მითითება.
 
-## Manual config area
+## Manual configuration area
 
 account-setup-manual-config-title = სერვერის პარამეტრები
-account-setup-incoming-protocol-label = შემომავალი ოქმი
+account-setup-incoming-server-legend = შემომავალი სერვერი
+account-setup-protocol-label = ოქმი:
 protocol-imap-option = { account-setup-result-imap }
 protocol-pop-option = { account-setup-result-pop }
-account-setup-outgoing-protocol-label = გამავალი ოქმი
-outgoing-protocol = SMTP
-account-setup-incoming-server-label = შემომავალი სერვერი
-account-setup-outgoing-server-label = გამავალი სერვერი
-account-setup-incoming-port-label = შემომავალი პორტი
-account-setup-outoing-port-label = გამავალი პორტი
-account-setup-incoming-ssl-label = შემომავალი SSL
-account-setup-outgoing-ssl-label = გამავალი SSL
+protocol-exchange-option = { account-setup-result-exchange }
+account-setup-hostname-label = ჰოსტის სახელი:
+account-setup-port-label = პორტი:
+    .title = მიუთითეთ პორტის ნორმარდ 0, თვითდადგენისთვის
+account-setup-auto-description = { -brand-short-name } შეეცდება თავად შეავსოს დარჩენილი ველები.
+account-setup-ssl-label = კავშირის უსაფრთხოება:
+
+## Incoming/Outgoing SSL Authentication options
+
 ssl-autodetect-option = თვითამოცნობა
+
+## Incoming/Outgoing SSL options
+
 ssl-noencryption-option = არცერთი
-ssl-starttls-option = STARTTLS
-ssl-tls-option = SSL/TLS
-account-setup-incoming-auth-label = შემომავალი დამოწმება
-account-setup-outgoing-auth-label = გამავალი დამოწმება
-account-setup-incoming-username-label = შემომავალი მომხმარებლის სახელი
-account-setup-outgoing-username-label = გამავალი მომხმარებლის სახელი
 account-setup-advanced-setup-button = გაფართოებული გამართვა
     .accesskey = ო
 
-## Warning insecure server
+## Warning insecure server dialog
 
 account-setup-insecure-server-checkbox = ვაცნობიერებ საფრთხეებს
     .accesskey = ც
+
+## Warning Exchange confirmation dialog
+
+
+## Alert dialogs
+
+
+## Addon installation section
+

@@ -294,6 +294,9 @@ openpgp-keygen-external-success = გარე GnuPG-გასაღების
 openpgp-radio-none =
     .label = არცერთი
 openpgp-radio-none-desc = არ გამოიყენოს OpenPGP ამ მისამართისთვის.
+openpgp-radio-key-not-usable = ეს გასაღები არ გამოდგება პირად გასაღებად, ვინაიდან საიდუმლო გასაღები აკლია!
+openpgp-radio-key-not-accepted = ამ გასაღების გამოსაყენებლად, პირად გასაღებად უნდა დაამოწმოთ!
+openpgp-radio-key-not-found = ეს გასაღები ვერ მოიძებნა. თუ გსურთ მისი გამოყენება, შეიტანეთ { -brand-short-name }-ში.
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = ვადა: { $date }
 openpgp-key-expires-image =
@@ -633,5 +636,6 @@ dlg-button-retry = &გამეორება
 dlg-button-skip = &გამოტოვება
 # Strings used in enigmailCommon.js
 enig-error = OpenPGP შეცდომა
+# Strings used in enigmailMsgBox.js
 enig-alert-title =
     .title = OpenPGP ცნობა
