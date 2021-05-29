@@ -166,3 +166,9 @@ many-public-recipients-bcc =
 many-public-recipients-ignore =
     .label = Позволить адресатам видеть адреса друг друга
     .accesskey = в
+
+## Notifications
+
+# Variables:
+# $identity (string) - The name of the used identity, most likely an email address.
+compose-missing-identity-warning = Адрес электронной почты, соответствующий адресу в поле От:, не найден. Сообщение будет отправлено с использованием текущего адреса в поле От: и настроек адреса электронной почты { $identity }.

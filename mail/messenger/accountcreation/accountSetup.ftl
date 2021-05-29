@@ -116,8 +116,8 @@ account-setup-result-pop-description = Храните свои папки и э�
 # Note: Exchange is the name of a product.
 account-setup-result-exchange = Exchange
 account-setup-result-exchange-description = Сервер Microsoft Exchange
-account-setup-incoming-title = Входящая
-account-setup-outgoing-title = Исходящая
+account-setup-incoming-title = Для получения
+account-setup-outgoing-title = Для отправки
 account-setup-username-title = Имя пользователя
 account-setup-exchange-title = Сервер
 account-setup-result-smtp = SMTP
@@ -125,6 +125,10 @@ account-setup-result-no-encryption = Без шифрования
 account-setup-result-ssl = SSL/TLS
 account-setup-result-starttls = STARTTLS
 account-setup-result-outgoing-existing = Использовать существующий сервер исходящей почты (SMTP)
+# Variables:
+#  $incoming (String): The email/username used to log into the incoming server
+#  $outgoing (String): The email/username used to log into the outgoing server
+account-setup-result-username-different = Для получения: { $incoming }, Для отправки: { $outgoing }
 
 ## Error messages
 
@@ -137,9 +141,11 @@ account-setup-exchange-config-unverifiable = Конфигурация не мо�
 ## Manual configuration area
 
 account-setup-manual-config-title = Параметры сервера
+account-setup-incoming-server-legend = Cервер входящей почты
 account-setup-protocol-label = Протокол:
 protocol-imap-option = { account-setup-result-imap }
 protocol-pop-option = { account-setup-result-pop }
+protocol-exchange-option = { account-setup-result-exchange }
 account-setup-hostname-label = Имя сервера:
 account-setup-port-label = Порт:
     .title = Установите номер порта в 0 для автоопределения
