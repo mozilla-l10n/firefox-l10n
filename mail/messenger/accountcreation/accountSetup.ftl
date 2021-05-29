@@ -121,8 +121,14 @@ account-setup-outgoing-title = In uscita
 account-setup-username-title = Nome utente
 account-setup-exchange-title = Server
 account-setup-result-smtp = SMTP
+account-setup-result-no-encryption = Nessuna crittografia
 account-setup-result-ssl = SSL/TLS
 account-setup-result-starttls = STARTTLS
+account-setup-result-outgoing-existing = Utilizza server della posta in uscita SMTP esistente
+# Variables:
+#  $incoming (String): The email/username used to log into the incoming server
+#  $outgoing (String): The email/username used to log into the outgoing server
+account-setup-result-username-different = In entrata: { $incoming }. In uscita: { $outgoing }
 
 ## Error messages
 
@@ -135,29 +141,60 @@ account-setup-exchange-config-unverifiable = Impossibile verificare la configura
 ## Manual configuration area
 
 account-setup-manual-config-title = Impostazioni server
+account-setup-incoming-server-legend = Server in entrata
+account-setup-protocol-label = Protocollo:
 protocol-imap-option = { account-setup-result-imap }
 protocol-pop-option = { account-setup-result-pop }
+protocol-exchange-option = { account-setup-result-exchange }
+account-setup-hostname-label = Server:
+account-setup-auto-description = { -brand-short-name } tenterà di rilevare automaticamente i campi lasciati vuoti.
+account-setup-ssl-label = Sicurezza della connessione:
+account-setup-outgoing-server-legend = Server in uscita
 
 ## Incoming/Outgoing SSL Authentication options
 
 ssl-autodetect-option = Rilevamento automatico
+ssl-no-authentication-option = Nessuna autenticazione
+ssl-cleartext-password-option = Password normale
+ssl-encrypted-password-option = Password crittata
 
 ## Incoming/Outgoing SSL options
 
 ssl-noencryption-option = Nessuna
+account-setup-auth-label = Metodo di autenticazione:
+account-setup-username-label = Nome utente:
 account-setup-advanced-setup-button = Configurazione avanzata
     .accesskey = v
 
 ## Warning insecure server dialog
 
+account-setup-insecure-title = Attenzione
+account-setup-insecure-incoming-title = Impostazioni in entrata:
+account-setup-insecure-outgoing-title = Impostazioni in uscita:
+# Variables:
+#  $server (String): The name of the hostname of the server the user was trying to connect to.
+account-setup-warning-cleartext = <b>{ $server }</b> non utilizza alcuna crittografia.
+account-setup-warning-cleartext-details = Un server di posta non sicuro non utilizza collegamenti crittati per proteggere password e informazioni personali. Collegandosi a questo server si mette a rischio la sicurezza delle password e dei dati personali.
 account-setup-insecure-server-checkbox = Sono consapevole dei rischi
     .accesskey = r
+insecure-dialog-cancel-button = Cambia impostazioni
+    .accesskey = b
+insecure-dialog-confirm-button = Conferma
+    .accesskey = o
 
 ## Warning Exchange confirmation dialog
 
+exchange-dialog-confirm-button = Accedi
+exchange-dialog-cancel-button = Annulla
 
 ## Alert dialogs
 
+account-setup-creation-error-title = Errore durante la creazione dell’account
+account-setup-error-server-exists = Il server in entrata è già presente.
+account-setup-confirm-advanced-title = Conferma configurazione avanzata
 
 ## Addon installation section
 
+account-setup-addon-install-title = Installa
+account-setup-addon-install-intro = Un componente aggiuntivo di terze parti può consentire l’accesso all’account email su questo server:
+account-setup-addon-no-protocol = Questo server di posta non supporta i protocolli aperti. { account-setup-addon-install-intro }
