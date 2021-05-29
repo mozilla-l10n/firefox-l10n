@@ -18,6 +18,12 @@ permissions-session =
 permissions-allow =
     .label = הרשה
     .accesskey = ש
+permissions-button-off =
+    .label = כיבוי
+    .accesskey = כ
+permissions-button-off-temporarily =
+    .label = כיבוי באופן זמני
+    .accesskey = ז
 permissions-site-name =
     .label = אתר
 permissions-status =
@@ -58,6 +64,10 @@ permissions-capabilities-listitem-block =
     .value = חסום
 permissions-capabilities-listitem-allow-session =
     .value = הרשה למשך ההפעלה
+permissions-capabilities-listitem-off =
+    .value = כבוי
+permissions-capabilities-listitem-off-temporarily =
+    .value = כבוי באופן זמני
 
 ## Invalid Hostname Dialog
 
@@ -77,6 +87,13 @@ permissions-exceptions-cookie-window =
     .title = חריגות - עוגיות ונתוני אתרים
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = באפשרותך לציין לאלו אתרים מותר או אסור תמיד להשתמש בעוגיות ונתוני אתרים.  יש להקליד את הכתובת המדויקת של האתר שברצונך לנהל ואז ללחוץ על חסום, הרשה למשך ההפעלה, או הרשה.
+
+## Exceptions - HTTPS-Only Mode
+
+permissions-exceptions-https-only-window =
+    .title = חריגות - מצב HTTPS בלבד
+    .style = { permissions-window.style }
+permissions-exceptions-https-only-desc = באפשרותך לכבות את מצב HTTPS בלבד עבור אתרים מסוימים. { -brand-short-name } לא ינסה לשדרג את החיבור ל-HTTPS מאובטח עבור אתרים אלו. החריגות אינן חלות בחלונות פרטיים.
 
 ## Exceptions - Pop-ups
 
