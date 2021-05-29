@@ -176,8 +176,10 @@ account-setup-insecure-outgoing-title = 寄件設定:
 # Variables:
 #  $server (String): The name of the hostname of the server the user was trying to connect to.
 account-setup-warning-cleartext = <b>{ $server }</b> 未加密連線。
+account-setup-warning-cleartext-details = 不安全的郵件伺服器並不會透過加密連線來保護您的密碼和隱私資料。 連線到這個伺服器很可能讓您的密碼以及隱私資料曝光。
 account-setup-insecure-server-checkbox = 我了解風險
     .accesskey = u
+account-setup-insecure-description = { -brand-short-name } 可讓您使用剛輸入的設定值來收信。但您仍應連絡系統管理員或電子郵件業者，確認是否有正確的連線參數可用。若需更多資訊，請參考 <a data-l10n-name="thunderbird-faq-link">Thunderbird 常見問題</a>。
 insecure-dialog-cancel-button = 變更設定
     .accesskey = S
 insecure-dialog-confirm-button = 確認
@@ -195,8 +197,11 @@ exchange-dialog-cancel-button = 取消
 
 account-setup-creation-error-title = 建立帳號時發生錯誤
 account-setup-error-server-exists = 收件伺服器已存在。
+account-setup-confirm-advanced-title = 確認進階設定
+account-setup-confirm-advanced-description = 此對話框將關閉，就算設定內容不正確也會使用目前設定來建立帳號。您確定要繼續嗎？
 
 ## Addon installation section
 
 account-setup-addon-install-title = 安裝
 account-setup-addon-install-intro = 安裝第三方附加元件後，可讓您存取此伺服器上的郵件帳號:
+account-setup-addon-no-protocol = 此郵件伺服器不支援開放式通訊協定。{ account-setup-addon-install-intro }
