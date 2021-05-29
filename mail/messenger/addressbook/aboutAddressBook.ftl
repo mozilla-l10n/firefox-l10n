@@ -24,6 +24,8 @@ about-addressbook-books-context-properties =
     .label = Egenskaper
 about-addressbook-books-context-synchronize =
     .label = Synkronisera
+about-addressbook-books-context-print =
+    .label = Skriv ut…
 about-addressbook-books-context-delete =
     .label = Ta bort
 

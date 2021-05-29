@@ -20,7 +20,6 @@ account-setup-name-input =
     .placeholder = Sven Svensson
 account-setup-name-info-icon =
     .title = Ditt namn, som det visas för andra
-account-setup-name-warning = Ange ditt namn
 account-setup-name-warning-icon =
     .title = { account-setup-name-warning }
 account-setup-email-label = E-postadress
@@ -29,7 +28,6 @@ account-setup-email-input =
     .placeholder = sven.svensson@exempel.se
 account-setup-email-info-icon =
     .title = Din befintliga e-postadress
-account-setup-email-warning = Ogiltig e-postadress
 account-setup-email-warning-icon =
     .title = { account-setup-email-warning }
 account-setup-password-label = Lösenord
@@ -122,6 +120,15 @@ account-setup-incoming-title = Inkommande
 account-setup-outgoing-title = Utgående
 account-setup-username-title = Användarnamn
 account-setup-exchange-title = Server
+account-setup-result-smtp = SMTP
+account-setup-result-no-encryption = Ingen kryptering
+account-setup-result-ssl = SSL/TLS
+account-setup-result-starttls = STARTTLS
+account-setup-result-outgoing-existing = Använd befintlig utgående SMTP-server
+# Variables:
+#  $incoming (String): The email/username used to log into the incoming server
+#  $outgoing (String): The email/username used to log into the outgoing server
+account-setup-result-username-different = Inkommande: { $incoming }, Utgående: { $outgoing }
 
 ## Error messages
 
@@ -131,32 +138,62 @@ account-setup-credentials-wrong = Autentisering misslyckades. Kontrollera använ
 account-setup-find-settings-failed = { -brand-short-name } misslyckades med att hitta inställningarna för ditt e-postkonto
 account-setup-exchange-config-unverifiable = Konfigurationen kunde inte verifieras. Om ditt användarnamn och lösenord är korrekt är det troligt att serveradministratören har inaktiverat den valda konfigurationen för ditt konto. Försök att välja ett annat protokoll.
 
-## Manual config area
+## Manual configuration area
 
 account-setup-manual-config-title = Serverinställningar
-account-setup-incoming-protocol-label = Inkommande protokoll
+account-setup-incoming-server-legend = Inkommande server
+account-setup-protocol-label = Protokoll:
 protocol-imap-option = { account-setup-result-imap }
 protocol-pop-option = { account-setup-result-pop }
-account-setup-outgoing-protocol-label = Utgående protokoll
-outgoing-protocol = SMTP
-account-setup-incoming-server-label = Inkommande server
-account-setup-outgoing-server-label = Utgående server
-account-setup-incoming-port-label = Inkommande port
-account-setup-outoing-port-label = Utgående port
-account-setup-incoming-ssl-label = Inkommande SSL
-account-setup-outgoing-ssl-label = Utgående SSL
+protocol-exchange-option = { account-setup-result-exchange }
+account-setup-hostname-label = Värdnamn:
+account-setup-port-label = Port:
+    .title = Ställ in portnumret till 0 för automatisk detektering
+account-setup-auto-description = { -brand-short-name } försöker automatiskt fylla i fält som lämnats tomma.
+account-setup-ssl-label = Anslutningssäkerhet:
+account-setup-outgoing-server-legend = Utgående server
+
+## Incoming/Outgoing SSL Authentication options
+
 ssl-autodetect-option = Identifiera automatiskt
+ssl-no-authentication-option = Ingen autentisering
+ssl-cleartext-password-option = Normalt lösenord
+ssl-encrypted-password-option = Krypterat lösenord
+
+## Incoming/Outgoing SSL options
+
 ssl-noencryption-option = Ingen
-ssl-starttls-option = STARTTLS
-ssl-tls-option = SSL/TLS
-account-setup-incoming-auth-label = Inkommande autentisering
-account-setup-outgoing-auth-label = Utgående autentisering
-account-setup-incoming-username-label = Inkommande användarnamn
-account-setup-outgoing-username-label = Utgående användarnamn
+account-setup-auth-label = Autentiseringsmetod:
+account-setup-username-label = Användarnamn:
 account-setup-advanced-setup-button = Avancerad konfiguration
     .accesskey = A
 
-## Warning insecure server
+## Warning insecure server dialog
 
+account-setup-insecure-title = Varning!
+account-setup-insecure-incoming-title = Inställningar för inkommande:
+account-setup-insecure-outgoing-title = Inställningar för utgående:
+# Variables:
+#  $server (String): The name of the hostname of the server the user was trying to connect to.
+account-setup-warning-cleartext = <b>{ $server }</b> använder inte kryptering.
 account-setup-insecure-server-checkbox = Jag förstår riskerna
     .accesskey = f
+insecure-dialog-cancel-button = Ändra inställningar
+    .accesskey = n
+insecure-dialog-confirm-button = Bekräfta
+    .accesskey = B
+
+## Warning Exchange confirmation dialog
+
+exchange-dialog-confirm-button = Inloggning
+exchange-dialog-cancel-button = Avbryt
+
+## Alert dialogs
+
+account-setup-creation-error-title = Fel vid skapande av konto
+account-setup-error-server-exists = Inkommande server finns redan.
+account-setup-confirm-advanced-title = Bekräfta avancerad konfiguration
+
+## Addon installation section
+
+account-setup-addon-install-title = Installera
