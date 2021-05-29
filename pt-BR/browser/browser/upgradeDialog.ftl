@@ -32,6 +32,26 @@ upgrade-dialog-new-secondary-button = Agora não
 # theme selection screen.
 upgrade-dialog-new-primary-win7-button = Ok, entendi
 
+## Pin Firefox screen
+##
+## These title, subtitle and button strings differ between platforms as they
+## match the OS' application context menu item action where Windows uses "pin"
+## and "taskbar" while macOS "keep" and "Dock" (proper noun).
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-pin-title =
+    { PLATFORM() ->
+        [macos] Manter o { -brand-short-name } no Dock
+       *[other] Fixar o { -brand-short-name } na barra de tarefas
+    }
+# The English macOS string avoids repeating "Keep" a third time, so if your
+# translations don't repeat anyway, the same string can be used cross-platform.
+upgrade-dialog-pin-subtitle =
+    { PLATFORM() ->
+        [macos] Ainda tem acesso fácil ao { -brand-short-name } mais recente.
+       *[other] Ainda mantém o { -brand-short-name } mais recente ao alcance.
+    }
+
 ## Default browser screen
 
 # This title can be explicitly wrapped to control which words are on which line.
