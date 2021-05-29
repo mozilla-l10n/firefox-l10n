@@ -255,6 +255,27 @@ mr1-onboarding-welcome-image-caption = Soraya Osorio — Designer di mobili, fan
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Disattiva animazioni
 
+## Title and primary button strings differ between platforms as they
+## match the OS' application context menu item action where Windows uses "pin"
+## and "taskbar" while macOS "keep" and "Dock" (proper noun).
+
+# Title used on welcome page when Firefox is not pinned
+mr1-onboarding-pin-header = { PLATFORM() ->
+    [macos] Mantieni { -brand-short-name } nel Dock per un accesso più rapido
+   *[other] Aggiungi { -brand-short-name } alla barra delle applicazioni per un accesso più rapido
+}
+# Primary button string used on welcome page when Firefox is not pinned.
+mr1-onboarding-pin-primary-button-label = { PLATFORM() ->
+    [macos] Mantieni nel Dock
+   *[other] Aggiungi alla barra delle applicazioni
+}
+
+## Multistage MR1 onboarding strings (about:welcome pages)
+
+# This string will be used on welcome page primary button label
+# when Firefox is both pinned and default
+mr1-onboarding-get-started-primary-button-label = Inizia
+
 mr1-onboarding-welcome-header = Benvenuto in { -brand-short-name }
 mr1-onboarding-set-default-pin-primary-button-label = Imposta { -brand-short-name } come browser principale
   .title = Imposta { -brand-short-name } come browser predefinito e lo aggiunge alla barra delle applicazioni
@@ -262,6 +283,15 @@ mr1-onboarding-set-default-pin-primary-button-label = Imposta { -brand-short-nam
 mr1-onboarding-set-default-only-primary-button-label = Imposta { -brand-short-name } come browser predefinito
 mr1-onboarding-set-default-secondary-button-label = Non adesso
 mr1-onboarding-sign-in-button-label = Accedi
+
+## Title, subtitle and primary button string used on set default onboarding screen
+## when Firefox is not default browser
+
+mr1-onboarding-default-header = Imposta { -brand-short-name } come browser predefinito
+mr1-onboarding-default-subtitle = Velocità, sicurezza e privacy senza preoccupazioni.
+mr1-onboarding-default-primary-button-label = Imposta come browser predefinito
+
+## Multistage MR1 onboarding strings (about:welcome pages)
 
 mr1-onboarding-import-header = Porta tutto con te
 mr1-onboarding-import-subtitle = Importa password, segnalibri<br/>e altro ancora.
