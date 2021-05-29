@@ -90,6 +90,10 @@ permissions-exceptions-cookie-desc = 웹 사이트별로 쿠키나 사이트 데
 
 ## Exceptions - HTTPS-Only Mode
 
+permissions-exceptions-https-only-window =
+    .title = 예외 - HTTPS 전용 모드
+    .style = { permissions-window.style }
+permissions-exceptions-https-only-desc = 특정 웹 사이트에 대해 HTTPS 전용 모드를 끌 수 있습니다. { -brand-short-name }는 해당 사이트에 대해 연결을 보안 HTTPS로 업그레이드를 시도하지 않습니다. 사생활 보호 창에는 예외가 적용되지 않습니다.
 
 ## Exceptions - Pop-ups
 
