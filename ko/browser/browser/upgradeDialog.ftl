@@ -41,12 +41,19 @@ upgrade-dialog-new-primary-win7-button = 확인
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-pin-title =
     { PLATFORM() ->
-        [macos] { -brand-short-name }를 Dock에 보관
+        [macos] { -brand-short-name }를 Dock에 넣기
        *[other] { -brand-short-name }를 작업 표시줄에 고정
+    }
+# The English macOS string avoids repeating "Keep" a third time, so if your
+# translations don't repeat anyway, the same string can be used cross-platform.
+upgrade-dialog-pin-subtitle =
+    { PLATFORM() ->
+        [macos] 최신 { -brand-short-name }에 쉽게 접근
+       *[other] 최신 { -brand-short-name }를 가까운 곳에 두기
     }
 upgrade-dialog-pin-primary-button =
     { PLATFORM() ->
-        [macos] Dock에 보관
+        [macos] Dock에 넣기
        *[other] 작업 표시줄에 고정
     }
 upgrade-dialog-pin-secondary-button = 나중에
