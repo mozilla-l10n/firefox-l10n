@@ -65,9 +65,9 @@ permissions-capabilities-listitem-block =
 permissions-capabilities-listitem-allow-session =
     .value = Разрешить на сессию
 permissions-capabilities-listitem-off =
-    .value = Отключено
+    .value = Отключить
 permissions-capabilities-listitem-off-temporarily =
-    .value = Временно отключено
+    .value = Временно отключить
 
 ## Invalid Hostname Dialog
 
