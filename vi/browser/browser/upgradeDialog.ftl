@@ -32,12 +32,42 @@ upgrade-dialog-new-secondary-button = Không phải bây giờ
 # theme selection screen.
 upgrade-dialog-new-primary-win7-button = Ok, đã hiểu!
 
+## Pin Firefox screen
+##
+## These title, subtitle and button strings differ between platforms as they
+## match the OS' application context menu item action where Windows uses "pin"
+## and "taskbar" while macOS "keep" and "Dock" (proper noun).
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-pin-title =
+    { PLATFORM() ->
+        [macos] Giữ { -brand-short-name } trong Dock của bạn
+       *[other] Ghim { -brand-short-name } vào thanh tác vụ của bạn
+    }
+# The English macOS string avoids repeating "Keep" a third time, so if your
+# translations don't repeat anyway, the same string can be used cross-platform.
+upgrade-dialog-pin-subtitle =
+    { PLATFORM() ->
+        [macos] Dễ dàng truy cập vào { -brand-short-name } mới nhất.
+       *[other] Giữ { -brand-short-name } mới nhất trong tầm tay.
+    }
+upgrade-dialog-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Thêm vào thanh Dock
+       *[other] Ghim vào thanh tác vụ
+    }
+upgrade-dialog-pin-secondary-button = Không phải bây giờ
+
 ## Default browser screen
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-default-title = Đặt { -brand-short-name } làm trình duyệt mặc định của bạn?
 upgrade-dialog-default-subtitle = Tốc độ, an toàn và quyền riêng tư mỗi khi bạn duyệt.
 upgrade-dialog-default-primary-button = Đặt làm trình duyệt mặc định
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title-2 = Đặt { -brand-short-name } làm trình duyệt mặc định của bạn
+upgrade-dialog-default-subtitle-2 = Đặt tốc độ, an toàn và quyền riêng tư vào chế độ tự động.
+upgrade-dialog-default-primary-button-2 = Đặt làm trình duyệt mặc định
 upgrade-dialog-default-secondary-button = Không phải bây giờ
 
 ## Theme selection screen
@@ -46,6 +76,8 @@ upgrade-dialog-default-secondary-button = Không phải bây giờ
 upgrade-dialog-theme-title =
     Khởi đầu dễ dàng
     với một chủ đề mới
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-theme-title-2 = Bắt đầu với một chủ đề mới
 upgrade-dialog-theme-system = Chủ đề hệ thống
     .title = Áp dụng theo chủ đề hệ điều hành cho các nút, menu và cửa sổ
 upgrade-dialog-theme-light = Sáng
