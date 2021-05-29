@@ -24,6 +24,8 @@ about-addressbook-books-context-properties =
     .label = Властивості
 about-addressbook-books-context-synchronize =
     .label = Синхронізувати
+about-addressbook-books-context-print =
+    .label = Друкувати…
 about-addressbook-books-context-delete =
     .label = Видалити
 
