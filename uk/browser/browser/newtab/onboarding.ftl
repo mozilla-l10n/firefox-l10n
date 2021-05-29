@@ -277,6 +277,18 @@ mr1-onboarding-reduce-motion-button-label = Вимкнути анімацію
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
+# Title used on welcome page when Firefox is not pinned
+mr1-onboarding-pin-header =
+    { PLATFORM() ->
+        [macos] Для зручного доступу додайте { -brand-short-name } у Док
+       *[other] Для зручного доступу закріпіть { -brand-short-name } на панелі завдань
+    }
+# Primary button string used on welcome page when Firefox is not pinned.
+mr1-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Додати у Док
+       *[other] Закріпити на панелі завдань
+    }
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 

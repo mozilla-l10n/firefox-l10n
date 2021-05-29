@@ -38,6 +38,24 @@ upgrade-dialog-new-primary-win7-button = Гаразд, зрозуміло!
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-pin-title =
+    { PLATFORM() ->
+        [macos] Додати { -brand-short-name } у Док
+       *[other] Закріпити { -brand-short-name } на панелі завдань
+    }
+# The English macOS string avoids repeating "Keep" a third time, so if your
+# translations don't repeat anyway, the same string can be used cross-platform.
+upgrade-dialog-pin-subtitle =
+    { PLATFORM() ->
+        [macos] Отримайте легкий доступ до найновішого { -brand-short-name }.
+       *[other] Тримайте під рукою найновіший { -brand-short-name }.
+    }
+upgrade-dialog-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Додати у док
+       *[other] Закріпити на панелі завдань
+    }
 upgrade-dialog-pin-secondary-button = Не зараз
 
 ## Default browser screen
