@@ -32,12 +32,23 @@ upgrade-dialog-new-secondary-button = 暂时不要
 # theme selection screen.
 upgrade-dialog-new-primary-win7-button = 好，知道了！
 
+## Pin Firefox screen
+##
+## These title, subtitle and button strings differ between platforms as they
+## match the OS' application context menu item action where Windows uses "pin"
+## and "taskbar" while macOS "keep" and "Dock" (proper noun).
+
+upgrade-dialog-pin-secondary-button = 暂时不要
+
 ## Default browser screen
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-default-title = 要将 { -brand-short-name } 设为您的默认浏览器吗？
 upgrade-dialog-default-subtitle = 每一次浏览，都有最快速度、安全与隐私保护。
 upgrade-dialog-default-primary-button = 设为默认浏览器
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title-2 = 将 { -brand-short-name } 设为您的默认浏览器
+upgrade-dialog-default-primary-button-2 = 设为默认浏览器
 upgrade-dialog-default-secondary-button = 暂时不要
 
 ## Theme selection screen
