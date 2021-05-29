@@ -125,6 +125,10 @@ account-setup-result-no-encryption = 未加密
 account-setup-result-ssl = SSL/TLS
 account-setup-result-starttls = STARTTLS
 account-setup-result-outgoing-existing = 使用已有的发件 SMTP 服务器
+# Variables:
+#  $incoming (String): The email/username used to log into the incoming server
+#  $outgoing (String): The email/username used to log into the outgoing server
+account-setup-result-username-different = 收件：{ $incoming }，发件：{ $outgoing }
 
 ## Error messages
 
@@ -141,7 +145,11 @@ account-setup-incoming-server-legend = 收件服务器
 account-setup-protocol-label = 协议：
 protocol-imap-option = { account-setup-result-imap }
 protocol-pop-option = { account-setup-result-pop }
+protocol-exchange-option = { account-setup-result-exchange }
 account-setup-hostname-label = 主机名：
+account-setup-port-label = 端口：
+    .title = 端口设为 0，则为自动检测
+account-setup-ssl-label = 连接安全性：
 account-setup-outgoing-server-legend = 发件服务器
 
 ## Incoming/Outgoing SSL Authentication options
@@ -182,3 +190,4 @@ account-setup-confirm-advanced-title = 确认高级配置
 ## Addon installation section
 
 account-setup-addon-install-title = 安装
+account-setup-addon-install-intro = 安装第三方附加组件后，可让您访问此服务器上的邮件账户：
