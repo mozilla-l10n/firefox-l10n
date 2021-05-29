@@ -20,7 +20,6 @@ account-setup-name-input =
     .placeholder = Jonas Jonaitis (Jaunesnysis)
 account-setup-name-info-icon =
     .title = Kitiems rodomas jūsų vardas
-account-setup-name-warning = Įveskite savo vardą
 account-setup-name-warning-icon =
     .title = { account-setup-name-warning }
 account-setup-email-label = Elektroninio pašto adresas
@@ -29,7 +28,6 @@ account-setup-email-input =
     .placeholder = john.doe@example.com
 account-setup-email-info-icon =
     .title = Jūsų turimas el. pašto adresas
-account-setup-email-warning = Netinkamas el. pašto adresas
 account-setup-email-warning-icon =
     .title = { account-setup-email-warning }
 account-setup-password-label = Slaptažodis
@@ -122,6 +120,11 @@ account-setup-incoming-title = Gaunami
 account-setup-outgoing-title = Siunčiami
 account-setup-username-title = Naudotojo vardas
 account-setup-exchange-title = Serveris
+account-setup-result-smtp = SMTP
+account-setup-result-no-encryption = Be šifravimo
+account-setup-result-ssl = SSL/TLS
+account-setup-result-starttls = STARTTLS
+account-setup-result-outgoing-existing = Bus naudojamas esamas SMTP serveris
 
 ## Error messages
 
@@ -131,32 +134,49 @@ account-setup-credentials-wrong = Nepavyko autentifikuoti. Patikrinkite vartotoj
 account-setup-find-settings-failed = „{ -brand-short-name }“ nepavyko rasti jūsų el. pašto paskyros nustatymų
 account-setup-exchange-config-unverifiable = Nepavyko patvirtinti konfigūracijos. Jei jūsų vartotojo vardas ir slaptažodis yra teisingi, tikėtina, kad serverio administratorius išjungė pasirinktą jūsų paskyros konfigūraciją. Pabandykite pasirinkti kitą protokolą.
 
-## Manual config area
+## Manual configuration area
 
 account-setup-manual-config-title = Serverio nuostatos
-account-setup-incoming-protocol-label = Laiškų gavimo protokolas
+account-setup-incoming-server-legend = Gaunamų laišku serveris
+account-setup-protocol-label = Protokolas:
 protocol-imap-option = { account-setup-result-imap }
 protocol-pop-option = { account-setup-result-pop }
-account-setup-outgoing-protocol-label = Išsiuntimo protokolas
-outgoing-protocol = SMTP
-account-setup-incoming-server-label = Gaunamų laišku serveris
-account-setup-outgoing-server-label = Siunčiamu laiškų serveris
-account-setup-incoming-port-label = Gaunamų laišku prievadas
-account-setup-outoing-port-label = Siuenčiamų laišku prievadas
-account-setup-incoming-ssl-label = Laiškai gaunami SSL ryšiu
-account-setup-outgoing-ssl-label = Laiškai siunčiami SSL ryšiu
+protocol-exchange-option = { account-setup-result-exchange }
+account-setup-hostname-label = Serverio pavadinimas:
+account-setup-ssl-label = Saugusis ryšys:
+account-setup-outgoing-server-legend = Siunčiamu laiškų serveris
+
+## Incoming/Outgoing SSL Authentication options
+
 ssl-autodetect-option = Nustatyti automatiškai
+ssl-no-authentication-option = Tapatumas netikrinamas
+ssl-cleartext-password-option = Paprastas slaptažodis
+ssl-encrypted-password-option = Šifruotas slaptažodis
+
+## Incoming/Outgoing SSL options
+
 ssl-noencryption-option = Joks
-ssl-starttls-option = STARTTLS
-ssl-tls-option = SSL/TLS
-account-setup-incoming-auth-label = Autentifikacija gaunamų laiškų serveryje
-account-setup-outgoing-auth-label = Autentifikacija siunčiamų laiškų serveryje
-account-setup-incoming-username-label = Vartotojo vardas gaunamų laišku serveryje
-account-setup-outgoing-username-label = Vartotojo vardas siunčiamų laišku serveryje
+account-setup-auth-label = Tapatumo tikrinimo metodas:
+account-setup-username-label = Naudotojo vardas:
 account-setup-advanced-setup-button = Sudėtingesnis derinimas
     .accesskey = S
 
-## Warning insecure server
+## Warning insecure server dialog
 
+account-setup-insecure-title = Dėmesio!
 account-setup-insecure-server-checkbox = Aš suprantu pavojus
     .accesskey = s
+
+## Warning Exchange confirmation dialog
+
+exchange-dialog-cancel-button = Atšaukti
+
+## Alert dialogs
+
+account-setup-creation-error-title = Klaida kuriant paskyrą
+account-setup-error-server-exists = Toks laiškų gavimo serveris jau yra.
+account-setup-confirm-advanced-description = Šis dialogo langas bus užvertas ir paskyra bus sukurta naudojant esamus parametrus, net jei jie neteisingi. Ar tikrai norite tęsti?
+
+## Addon installation section
+
+account-setup-addon-install-title = Įdiegti
