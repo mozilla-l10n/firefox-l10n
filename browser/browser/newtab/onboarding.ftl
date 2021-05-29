@@ -280,13 +280,13 @@ mr1-onboarding-reduce-motion-button-label = 애니메이션 끄기
 # Title used on welcome page when Firefox is not pinned
 mr1-onboarding-pin-header =
     { PLATFORM() ->
-        [macos] 쉽게 접근할 수 있도록 { -brand-short-name }를 Dock에 보관
+        [macos] 쉽게 접근할 수 있도록 { -brand-short-name }를 Dock에 넣기
        *[other] 쉽게 접근할 수 있도록 { -brand-short-name }를 작업 표시 줄에 고정
     }
 # Primary button string used on welcome page when Firefox is not pinned.
 mr1-onboarding-pin-primary-button-label =
     { PLATFORM() ->
-        [macos] Dock에 보관
+        [macos] Dock에 넣기
        *[other] 작업 표시줄에 고정
     }
 

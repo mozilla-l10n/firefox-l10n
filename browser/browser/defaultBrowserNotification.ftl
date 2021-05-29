@@ -14,7 +14,7 @@ default-browser-notification-button =
 
 default-browser-prompt-title-pin = { -brand-short-name }를 기본 브라우저로 설정하시겠습니까?
 default-browser-prompt-message-pin = { -brand-short-name }를 손쉽게 사용할 수 있습니다. 기본 브라우저로 만들고 작업 표시줄에 고정하세요.
-default-browser-prompt-message-pin-mac = { -brand-short-name }를 손쉽게 사용할 수 있습니다. 기본 브라우저로 만들고 Dock에 보관하세요.
+default-browser-prompt-message-pin-mac = { -brand-short-name }를 손쉽게 사용할 수 있습니다. 기본 브라우저로 만들고 Dock에 넣으세요.
 default-browser-prompt-button-primary-pin = 기본 브라우저로 설정
 default-browser-prompt-title-alt = { -brand-short-name }를 기본 브라우저로 설정하시겠습니까?
 default-browser-prompt-message-alt = 탐색할 때 속도, 안전 및 개인 정보 보호 기능이 제공됩니다.
