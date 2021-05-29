@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# The question portion of the following message should have the <strong> and </strong> tags surrounding it.
+default-browser-notification-message = <strong> Поставете го { -brand-short-name } како стандарден прелистувач? </strong> Добијте брзо, безбедно и приватно прелистување секогаш кога користите мрежа.
 default-browser-notification-button =
     .label = Постави како основен
     .accesskey = е
