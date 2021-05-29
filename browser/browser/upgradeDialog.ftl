@@ -42,7 +42,7 @@ upgrade-dialog-new-primary-win7-button = OK, tutto chiaro
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-pin-title = { PLATFORM() ->
-    [macos] Aggiungi { -brand-short-name } al Dock
+    [macos] Mantieni { -brand-short-name } nel Dock
    *[other] Aggiungi { -brand-short-name } alla barra delle applicazioni
 }
 # The English macOS string avoids repeating "Keep" a third time, so if your
@@ -51,7 +51,7 @@ upgrade-dialog-pin-subtitle =
     La versione più moderna di { -brand-short-name } mai realizzata,
     sempre a portata di mano.
 upgrade-dialog-pin-primary-button = { PLATFORM() ->
-    [macos] Aggiungi al Dock
+    [macos] Mantieni nel Dock
    *[other] Aggiungi alla barra delle applicazioni
 }
 upgrade-dialog-pin-secondary-button = Non adesso
@@ -62,8 +62,7 @@ upgrade-dialog-pin-secondary-button = Non adesso
 upgrade-dialog-default-title = Imposta { -brand-short-name } come browser predefinito
 upgrade-dialog-default-subtitle = Velocità, sicurezza e privacy sempre garantiti quando navighi online
 upgrade-dialog-default-primary-button = Imposta come browser predefinito
-upgrade-dialog-default-title-2 =
-    Imposta { -brand-short-name } come browser predefinito
+upgrade-dialog-default-title-2 = Imposta { -brand-short-name } come browser predefinito
 upgrade-dialog-default-subtitle-2 = Velocità, sicurezza e privacy senza preoccupazioni.
 upgrade-dialog-default-primary-button-2 = Imposta come browser predefinito
 upgrade-dialog-default-secondary-button = Non adesso
