@@ -32,12 +32,22 @@ upgrade-dialog-new-secondary-button = Ikkje no
 # theme selection screen.
 upgrade-dialog-new-primary-win7-button = OK, eg forstår!
 
+## Pin Firefox screen
+##
+## These title, subtitle and button strings differ between platforms as they
+## match the OS' application context menu item action where Windows uses "pin"
+## and "taskbar" while macOS "keep" and "Dock" (proper noun).
+
+upgrade-dialog-pin-secondary-button = Ikkje no
+
 ## Default browser screen
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-default-title = Bruke { -brand-short-name } som standardnettlesar?
 upgrade-dialog-default-subtitle = Få fart, sikkerheit og personvern kvar gong du surfar.
 upgrade-dialog-default-primary-button = Vel som standardnettlesar
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title-2 = Bruk { -brand-short-name } som standardnettlesar
 upgrade-dialog-default-secondary-button = Ikkje no
 
 ## Theme selection screen
