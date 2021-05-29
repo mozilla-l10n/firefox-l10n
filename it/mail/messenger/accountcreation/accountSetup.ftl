@@ -20,7 +20,6 @@ account-setup-name-input =
     .placeholder = Mario Rossi
 account-setup-name-info-icon =
     .title = Nome da visualizzare
-account-setup-name-warning = Inserisci il tuo nome
 account-setup-name-warning-icon =
     .title = { account-setup-name-warning }
 account-setup-email-label = Indirizzo email
@@ -29,7 +28,6 @@ account-setup-email-input =
     .placeholder = mario.rossi@example.com
 account-setup-email-info-icon =
     .title = Il tuo indirizzo email esistente
-account-setup-email-warning = Indirizzo email non valido
 account-setup-email-warning-icon =
     .title = { account-setup-email-warning }
 account-setup-password-label = Password
@@ -122,6 +120,9 @@ account-setup-incoming-title = In entrata
 account-setup-outgoing-title = In uscita
 account-setup-username-title = Nome utente
 account-setup-exchange-title = Server
+account-setup-result-smtp = SMTP
+account-setup-result-ssl = SSL/TLS
+account-setup-result-starttls = STARTTLS
 
 ## Error messages
 
@@ -131,32 +132,32 @@ account-setup-credentials-wrong = Autenticazione non riuscita. Assicurati che no
 account-setup-find-settings-failed = { -brand-short-name } non è riuscito a trovare le impostazioni per il tuo account email
 account-setup-exchange-config-unverifiable = Impossibile verificare la configurazione. Se il nome utente e la password sono corretti, è possibile che l’amministratore del server abbia disattivato la configurazione selezionata per questo account. Provare a selezionare un altro protocollo.
 
-## Manual config area
+## Manual configuration area
 
 account-setup-manual-config-title = Impostazioni server
-account-setup-incoming-protocol-label = Protocollo in entrata
 protocol-imap-option = { account-setup-result-imap }
 protocol-pop-option = { account-setup-result-pop }
-account-setup-outgoing-protocol-label = Protocollo in uscita
-outgoing-protocol = SMTP
-account-setup-incoming-server-label = Server posta in entrata
-account-setup-outgoing-server-label = Server posta in uscita
-account-setup-incoming-port-label = Porta in entrata
-account-setup-outoing-port-label = Porta in uscita
-account-setup-incoming-ssl-label = SSL in entrata
-account-setup-outgoing-ssl-label = SSL in uscita
+
+## Incoming/Outgoing SSL Authentication options
+
 ssl-autodetect-option = Rilevamento automatico
+
+## Incoming/Outgoing SSL options
+
 ssl-noencryption-option = Nessuna
-ssl-starttls-option = STARTTLS
-ssl-tls-option = SSL/TLS
-account-setup-incoming-auth-label = Autenticazione in entrata
-account-setup-outgoing-auth-label = Autenticazione in uscita
-account-setup-incoming-username-label = Nome utente in entrata
-account-setup-outgoing-username-label = Nome utente in uscita
 account-setup-advanced-setup-button = Configurazione avanzata
     .accesskey = v
 
-## Warning insecure server
+## Warning insecure server dialog
 
 account-setup-insecure-server-checkbox = Sono consapevole dei rischi
     .accesskey = r
+
+## Warning Exchange confirmation dialog
+
+
+## Alert dialogs
+
+
+## Addon installation section
+
