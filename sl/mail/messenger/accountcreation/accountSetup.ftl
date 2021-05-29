@@ -77,6 +77,10 @@ account-setup-success-password = Geslo pravilno
 account-setup-success-addon = Dodatek je uspešno nameščen
 # Note: Do not translate or replace Mozilla. It stands for the public project mozilla.org, not Mozilla Corporation. The database is a generic, public domain facility usable by any client.
 account-setup-success-settings-db = Nastavitve so bile najdene v Mozillini zbirki podatkov ponudnikov internetnih storitev.
+account-setup-success-settings-disk = Nastavitve so bile najdene v { -brand-short-name(sklon: "mestnik") }.
+account-setup-success-settings-isp = Nastavitve so bile najdene pri ponudniku e-pošte.
+# Note: Microsoft Exchange is a product name.
+account-setup-success-settings-exchange = Nastavitve so bile najdene za strežnik Microsoft Exchange.
 
 ## Illustrations
 
@@ -108,16 +112,29 @@ account-setup-incoming-title = Dohodni
 account-setup-outgoing-title = Odhodni
 account-setup-username-title = Uporabniško ime
 account-setup-exchange-title = Strežnik
+account-setup-result-smtp = SMTP
+account-setup-result-no-encryption = Brez šifriranja
+account-setup-result-ssl = SSL/TLS
+account-setup-result-starttls = STARTTLS
+account-setup-result-outgoing-existing = Uporabi obstoječi odhodni strežnik SMTP
+# Variables:
+#  $incoming (String): The email/username used to log into the incoming server
+#  $outgoing (String): The email/username used to log into the outgoing server
+account-setup-result-username-different = Dohodni: { $incoming }, odhodni: { $outgoing }
 
 ## Error messages
 
+account-setup-credentials-wrong = Overitev ni uspela. Preverite uporabniško ime in geslo
 account-setup-find-settings-failed = { -brand-short-name } ni uspel najti nastavitev za vaš e-poštni račun
 
 ## Manual configuration area
 
 account-setup-manual-config-title = Nastavitve strežnika
+account-setup-incoming-server-legend = Dohodni strežnik
+account-setup-protocol-label = Protokol:
 protocol-imap-option = { account-setup-result-imap }
 protocol-pop-option = { account-setup-result-pop }
+protocol-exchange-option = { account-setup-result-exchange }
 account-setup-hostname-label = Ime gostitelja:
 account-setup-port-label = Vrata:
     .title = Za samodejno zaznavo nastavite številko vrat na 0
@@ -159,6 +176,9 @@ insecure-dialog-confirm-button = Potrdi
 
 ## Warning Exchange confirmation dialog
 
+# Variables:
+#  $domain (String): The name of the server where the configuration was found, e.g. rackspace.com.
+exchange-dialog-question = { -brand-short-name } je našel podatke za nastavitev računa na { $domain }. Ali želite nadaljevati in vnesti svoje prijavne podatke?
 exchange-dialog-confirm-button = Prijava
 exchange-dialog-cancel-button = Prekliči
 
