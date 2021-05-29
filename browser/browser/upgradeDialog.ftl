@@ -32,12 +32,24 @@ upgrade-dialog-new-secondary-button = Не зараз
 # theme selection screen.
 upgrade-dialog-new-primary-win7-button = Гаразд, зрозуміло!
 
+## Pin Firefox screen
+##
+## These title, subtitle and button strings differ between platforms as they
+## match the OS' application context menu item action where Windows uses "pin"
+## and "taskbar" while macOS "keep" and "Dock" (proper noun).
+
+upgrade-dialog-pin-secondary-button = Не зараз
+
 ## Default browser screen
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-default-title = Зробити { -brand-short-name } вашим типовим браузером?
 upgrade-dialog-default-subtitle = Отримайте швидкість, безпеку та приватність завжди під час перегляду.
 upgrade-dialog-default-primary-button = Встановити типовим браузером
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title-2 = Зробити { -brand-short-name } типовим
+upgrade-dialog-default-subtitle-2 = Увімкніть автопілот швидкості, безпеки та приватності.
+upgrade-dialog-default-primary-button-2 = Зробити типовим браузером
 upgrade-dialog-default-secondary-button = Не зараз
 
 ## Theme selection screen
@@ -46,6 +58,8 @@ upgrade-dialog-default-secondary-button = Не зараз
 upgrade-dialog-theme-title =
     Розпочніть роботу
     з оновленою темою
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-theme-title-2 = Розпочніть роботу начисто зі свіжою темою
 upgrade-dialog-theme-system = Системна тема
     .title = Використовувати тему операційної системи для кнопок, меню та вікон
 upgrade-dialog-theme-light = Світла

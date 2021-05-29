@@ -18,6 +18,12 @@ permissions-session =
 permissions-allow =
     .label = Дозволити
     .accesskey = Д
+permissions-button-off =
+    .label = Вимкнути
+    .accesskey = В
+permissions-button-off-temporarily =
+    .label = Вимкнути тимчасово
+    .accesskey = т
 permissions-site-name =
     .label = Вебсайт
 permissions-status =
@@ -58,6 +64,10 @@ permissions-capabilities-listitem-block =
     .value = Блокувати
 permissions-capabilities-listitem-allow-session =
     .value = Дозволити на сеанс
+permissions-capabilities-listitem-off =
+    .value = Вимкнено
+permissions-capabilities-listitem-off-temporarily =
+    .value = Вимкнено тимчасово
 
 ## Invalid Hostname Dialog
 
@@ -77,6 +87,13 @@ permissions-exceptions-cookie-window =
     .title = Винятки - Куки і дані сайтів
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = Ви можете вказати, яким вебсайтам завжди дозволяти, а яким ніколи не дозволяти використовувати куки і дані сайтів.  Введіть точну адресу сайту, який ви хочете додати, після чого натисніть Блокувати, Дозволити на сеанс чи Дозволити.
+
+## Exceptions - HTTPS-Only Mode
+
+permissions-exceptions-https-only-window =
+    .title = Винятки — HTTPS-режим
+    .style = { permissions-window.style }
+permissions-exceptions-https-only-desc = Ви можете вимкнути HTTPS-режим для певних вебсайтів. { -brand-short-name } не намагатиметься оновити з’єднання, щоб захистити ці сайти за допомогою HTTPS. Винятки не стосуються приватних вікон.
 
 ## Exceptions - Pop-ups
 
