@@ -177,6 +177,7 @@ account-setup-warning-cleartext = <b>{ $server }</b> non utilizza alcuna crittog
 account-setup-warning-cleartext-details = Un server di posta non sicuro non utilizza collegamenti crittati per proteggere password e informazioni personali. Collegandosi a questo server si mette a rischio la sicurezza delle password e dei dati personali.
 account-setup-insecure-server-checkbox = Sono consapevole dei rischi
     .accesskey = r
+account-setup-insecure-description = { -brand-short-name } scaricherà la posta utilizzando questa configurazione. Tuttavia si consiglia di contattare l’amministratore o il fornitore della casella di posta per informarlo di questo collegamento non adeguato. Leggere le <a data-l10n-name="thunderbird-faq-link">FAQ di Thunderbird</a> per maggiori informazioni.
 insecure-dialog-cancel-button = Cambia impostazioni
     .accesskey = b
 insecure-dialog-confirm-button = Conferma
@@ -184,6 +185,9 @@ insecure-dialog-confirm-button = Conferma
 
 ## Warning Exchange confirmation dialog
 
+# Variables:
+#  $domain (String): The name of the server where the configuration was found, e.g. rackspace.com.
+exchange-dialog-question = { -brand-short-name } ha trovato le informazioni per la configurazione dell’account su { $domain }. Procedere comunque e inviare le tue credenziali?
 exchange-dialog-confirm-button = Accedi
 exchange-dialog-cancel-button = Annulla
 
@@ -192,6 +196,7 @@ exchange-dialog-cancel-button = Annulla
 account-setup-creation-error-title = Errore durante la creazione dell’account
 account-setup-error-server-exists = Il server in entrata è già presente.
 account-setup-confirm-advanced-title = Conferma configurazione avanzata
+account-setup-confirm-advanced-description = Questa finestra verrà chiusa e sarà creato un account con la configurazione corrente, anche se non corretta. Procedere?
 
 ## Addon installation section
 
