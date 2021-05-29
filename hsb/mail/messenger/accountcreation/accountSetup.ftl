@@ -20,7 +20,6 @@ account-setup-name-input =
     .placeholder = Jan Njeznaty
 account-setup-name-info-icon =
     .title = Waše mjeno, kaž so druhim pokazuje
-account-setup-name-warning = Prošu zapodajće swoje mjeno
 account-setup-name-warning-icon =
     .title = { account-setup-name-warning }
 account-setup-email-label = E-mejlowa adresa
@@ -29,7 +28,6 @@ account-setup-email-input =
     .placeholder = jan.njeznaty@example.com
 account-setup-email-info-icon =
     .title = Waša eksistowaca e-mejlowa adresa
-account-setup-email-warning = Njepłaćiwa e-mejlowa adresa
 account-setup-email-warning-icon =
     .title = { account-setup-email-warning }
 account-setup-password-label = Hesło
@@ -122,6 +120,15 @@ account-setup-incoming-title = Dochadźace
 account-setup-outgoing-title = Wuchadźace
 account-setup-username-title = Wužiwarske mjeno
 account-setup-exchange-title = Serwer
+account-setup-result-smtp = SMTP
+account-setup-result-no-encryption = Žane zaklučowanje
+account-setup-result-ssl = SSL/TLS
+account-setup-result-starttls = STARTTLS
+account-setup-result-outgoing-existing = Eksistowacy SMTP-serwer wužiwać
+# Variables:
+#  $incoming (String): The email/username used to log into the incoming server
+#  $outgoing (String): The email/username used to log into the outgoing server
+account-setup-result-username-different = Dochadny: { $incoming }, wuchadny: { $outgoing }
 
 ## Error messages
 
@@ -131,32 +138,70 @@ account-setup-credentials-wrong = Awtentifikacija je so nimokuliła. Prošu pře
 account-setup-find-settings-failed = { -brand-short-name } njemóžeše nastajenja za waše e-mejlowe konto namakać.
 account-setup-exchange-config-unverifiable = Konfiguracija njeda so přepruwować. Jeli waše wužiwarske mjeno a waše hesło stej korektnej, je najskerje serwerowy adminsitrator wubranu konfiguraciju za waše konto znjemóžnił. Wubjerće druhi protokol.
 
-## Manual config area
+## Manual configuration area
 
 account-setup-manual-config-title = Serwerowe nastajenja
-account-setup-incoming-protocol-label = Protokol dochadźacych
+account-setup-incoming-server-legend = Dochadny serwer
+account-setup-protocol-label = Protokol:
 protocol-imap-option = { account-setup-result-imap }
 protocol-pop-option = { account-setup-result-pop }
-account-setup-outgoing-protocol-label = Wuchadny protokol
-outgoing-protocol = SMTP
-account-setup-incoming-server-label = Dochadny serwer
-account-setup-outgoing-server-label = Wuchadny serwer
-account-setup-incoming-port-label = Dochadny port
-account-setup-outoing-port-label = Wuchadny port
-account-setup-incoming-ssl-label = Dochadny SSL
-account-setup-outgoing-ssl-label = Wuchadny SSL
+protocol-exchange-option = { account-setup-result-exchange }
+account-setup-hostname-label = Mjeno hosta:
+account-setup-port-label = Port:
+    .title = Za awtomatiske wotkryće portowe čisło na 0 stajić
+account-setup-auto-description = { -brand-short-name } budźe pospytować, pola awtomatisce wotkryć, kotrež su prózdne.
+account-setup-ssl-label = Zwiskowa wěstota:
+account-setup-outgoing-server-legend = Wuchadny serwer
+
+## Incoming/Outgoing SSL Authentication options
+
 ssl-autodetect-option = Awtomatisce zwěsćić
+ssl-no-authentication-option = Žana awtentifikacija
+ssl-cleartext-password-option = Normalne hesło
+ssl-encrypted-password-option = Zaklučowane hesło
+
+## Incoming/Outgoing SSL options
+
 ssl-noencryption-option = Žane
-ssl-starttls-option = STARTTLS
-ssl-tls-option = SSL/TLS
-account-setup-incoming-auth-label = Dochadna awtentifikacija
-account-setup-outgoing-auth-label = Wuchadna awtentifikacija
-account-setup-incoming-username-label = Dochadne wužiwarske mjeno
-account-setup-outgoing-username-label = Wuchadne wužiwarske mjeno
+account-setup-auth-label = Awtentifikaciska metoda:
+account-setup-username-label = Wužiwarske mjeno:
 account-setup-advanced-setup-button = Rozšěrjena konfiguracija
     .accesskey = R
 
-## Warning insecure server
+## Warning insecure server dialog
 
+account-setup-insecure-title = Warnowanje!
+account-setup-insecure-incoming-title = Dochadne nastajenja:
+account-setup-insecure-outgoing-title = Wuchadne nastajenja:
+# Variables:
+#  $server (String): The name of the hostname of the server the user was trying to connect to.
+account-setup-warning-cleartext = <b>{ $server }</b> zaklučowanje njewužiwa.
+account-setup-warning-cleartext-details = Njewěste serwery njewužiwaja zaklučowane zwiski, zo bychu waše hesła a priwatne daty škitali. Přez zwjazanje z tutym serwerom wy móhli swoje hesło a priwatne daty přeradźić.
 account-setup-insecure-server-checkbox = Rozumju rizika
     .accesskey = u
+account-setup-insecure-description = { -brand-short-name } móže wam zmóžnić, zo z pomocu podatych konfiguracjiow k swojej e-mejli dóńdźeće. Ale wy měł so ze swojim administratorom abo e-mejlowym poskićowarjom tutych njepřihódnych zwiskow dla do zwiska stajić. Hlejće <a data-l10n-name="thunderbird-faq-link">husto stajene prašenja Thunderbird</a> za dalše informacije.
+insecure-dialog-cancel-button = Nastajenja změnić
+    .accesskey = N
+insecure-dialog-confirm-button = Wobkrućić
+    .accesskey = b
+
+## Warning Exchange confirmation dialog
+
+# Variables:
+#  $domain (String): The name of the server where the configuration was found, e.g. rackspace.com.
+exchange-dialog-question = { -brand-short-name } je informacije wo konfiguraciji konta na { $domain } namakał. Chceće pokročować a swoje přizjewjenske daty wotpósłać?
+exchange-dialog-confirm-button = Přizjewjenje
+exchange-dialog-cancel-button = Přetorhnyć
+
+## Alert dialogs
+
+account-setup-creation-error-title = Zmylk při załoženju konta
+account-setup-error-server-exists = Dochadny serwer hižo eksistuje.
+account-setup-confirm-advanced-title = Rozšěrjenu konfiguraciju wobkrućić
+account-setup-confirm-advanced-description = Tutón dialog so začini a konto z aktualnymi nastajenjemi so załoži, byrnjež konfiguracija wopačna była. Chceće pokročować?
+
+## Addon installation section
+
+account-setup-addon-install-title = Instalować
+account-setup-addon-install-intro = Přidatk třećeho poskićowarja móže wam přistup na waše e-mejlowe konto na tutym serwerje zmóžnić:
+account-setup-addon-no-protocol = Tutón e-mejlowy serwer bohužel wotewrjene protokole njepodpěruje. { account-setup-addon-install-intro }
