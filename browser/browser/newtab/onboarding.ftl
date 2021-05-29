@@ -269,9 +269,19 @@ mr1-welcome-screen-hero-text =
     hommiin
 # Caption for background image in about:welcome. "Soraya Osorio" is the name
 # of the person and shouldn't be translated.
+# In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
+# You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = Soraya Osorio — Huonekalujen suunnittelija, Firefox-fani
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Poista animaatiot käytöstä
+
+## Title and primary button strings differ between platforms as they
+## match the OS' application context menu item action where Windows uses "pin"
+## and "taskbar" while macOS "keep" and "Dock" (proper noun).
+
+
+## Multistage MR1 onboarding strings (about:welcome pages)
+
 mr1-onboarding-welcome-header =
     { -brand-short-name.case-status ->
         [with-cases] Tervetuloa { -brand-short-name(case: "illative") }
@@ -279,9 +289,20 @@ mr1-onboarding-welcome-header =
     }
 mr1-onboarding-set-default-pin-primary-button-label = Aseta { -brand-short-name } pääselaimeksi
     .title = Asettaa { -brand-short-name }in oletusselaimeksi ja kiinnittää sen tehtäväpalkkiin
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
 mr1-onboarding-set-default-only-primary-button-label = Aseta { -brand-short-name } oletusselaimeksi
 mr1-onboarding-set-default-secondary-button-label = Ei nyt
 mr1-onboarding-sign-in-button-label = Kirjaudu sisään
+
+## Title, subtitle and primary button string used on set default onboarding screen
+## when Firefox is not default browser
+
+mr1-onboarding-default-header = Aseta { -brand-short-name } oletukseksi
+mr1-onboarding-default-primary-button-label = Aseta oletusselaimeksi
+
+## Multistage MR1 onboarding strings (about:welcome pages)
+
 mr1-onboarding-import-header = Kaikki mukanasi
 mr1-onboarding-import-subtitle = Tuo salasanat, <br/>kirjanmerkit ynnä muut.
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
