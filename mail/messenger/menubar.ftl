@@ -8,3 +8,23 @@
 menu-view-charset =
     .label = Кодирање текста
     .accesskey = К
+
+## Tools Menu
+
+# Since v89 we dropped the platforms distinction between Options or Preferences
+# and consolidated everything with Preferences.
+menu-tools-preferences =
+    .label = Поставке
+    .accesskey = к
+menu-addons-and-themes =
+    .label = Додаци и теме
+    .accesskey = Д
+
+## Help Menu
+
+
+## Mail Toolbar
+
+
+## View / Layout
+
