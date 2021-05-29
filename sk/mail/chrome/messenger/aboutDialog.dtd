@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY aboutDialog.title          "O aplikácii &brandFullName;">
 
 <!-- LOCALIZATION NOTE (update.*):
@@ -71,14 +75,14 @@
      the latest version of Firefox (e.g. https://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.failed.start        "Aktualizácia zlyhala. ">
-<!ENTITY update.failed.linkText     "Prevziať najnovšiu verziu">
+<!ENTITY update.failed.linkText     "Stiahnuť najnovšiu verziu">
 <!ENTITY update.failed.end          "">
 
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
      all go into one line and have an anchor in between with text that is the same as the link to a site
      to download the latest version of Firefox (e.g. https://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.manual.start        "Prevziať ">
+<!ENTITY update.manual.start        "Stiahnuť ">
 <!ENTITY update.manual.linkText     "najnovšiu verziu">
 <!ENTITY update.manual.end          "">
 
@@ -97,11 +101,10 @@
      is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
-<!ENTITY update.downloading.start   "Preberá sa aktualizácia — ">
+<!ENTITY update.downloading.start   "Sťahuje sa aktualizácia —">
 <!ENTITY update.downloading.end     "">
 
 <!ENTITY update.applying            "Aktualizácia sa inštaluje…">
-
 <!ENTITY update.restarting          "Reštartovanie…">
 
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
