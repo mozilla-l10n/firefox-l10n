@@ -18,6 +18,12 @@ permissions-session =
 permissions-allow =
     .label = Permitir
     .accesskey = P
+permissions-button-off =
+    .label = Desativar
+    .accesskey = D
+permissions-button-off-temporarily =
+    .label = Desativar temporariamente
+    .accesskey = t
 permissions-site-name =
     .label = Site
 permissions-status =
@@ -58,6 +64,10 @@ permissions-capabilities-listitem-block =
     .value = Bloquear
 permissions-capabilities-listitem-allow-session =
     .value = Permitir nesta sessão
+permissions-capabilities-listitem-off =
+    .value = Desativado
+permissions-capabilities-listitem-off-temporarily =
+    .value = Desativado temporariamente
 
 ## Invalid Hostname Dialog
 
@@ -77,6 +87,12 @@ permissions-exceptions-cookie-window =
     .title = Exceções - Cookies e dados de sites
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = Você pode especificar que sites têm ou não permissão para armazenar cookies e dados de sites no seu computador. Digite o endereço exato de um site e clique em Permitir, Bloquear ou Permitir nesta sessão.
+
+## Exceptions - HTTPS-Only Mode
+
+permissions-exceptions-https-only-window =
+    .title = Exceções - Modo somente HTTPS
+    .style = { permissions-window.style }
 
 ## Exceptions - Pop-ups
 

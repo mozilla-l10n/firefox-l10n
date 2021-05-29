@@ -292,6 +292,7 @@ mr1-onboarding-sign-in-button-label = Entrar
 ## when Firefox is not default browser
 
 mr1-onboarding-default-header = Tornar o { -brand-short-name } o navegador padrão
+mr1-onboarding-default-primary-button-label = Definir como navegador padrão
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
