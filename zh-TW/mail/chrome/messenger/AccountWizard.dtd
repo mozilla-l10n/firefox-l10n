@@ -56,7 +56,7 @@
 <!ENTITY defaultPortLabel.label "預設:">
 <!ENTITY defaultPortValue.label "">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServer.description "請輸入您收件伺服器的名稱。（例:「pop.example.net」）。">
+<!ENTITY incomingServer.description "請輸入您收件伺服器的名稱。（例:「mail.example.net」）。">
 <!ENTITY incomingServer.label "收件伺服器:">
 <!ENTITY incomingServer.accesskey "S">
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->

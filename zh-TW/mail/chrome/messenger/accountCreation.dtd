@@ -4,7 +4,6 @@
 
 <!ENTITY emailWizard.title               "設定現有的電子郵件地址">
 <!ENTITY emailWizard.caption             "使用目前的電子郵件地址">
-
 <!ENTITY name.label                      "您的大名:">
 <!ENTITY name.accesskey                  "n">
 <!ENTITY fullname.placeholder            "您的全名">
@@ -35,7 +34,7 @@
 
 <!ENTITY manualConfigTable.summary       "伺服器設定">
 <!ENTITY incoming.label                  "收件:">
-<!ENTITY incomingColumn.label            "內送">
+<!ENTITY incomingColumn.label            "收件">
 <!ENTITY outgoing.label                  "寄件:">
 <!ENTITY outgoingColumn.label            "外寄">
 <!ENTITY username.label                  "使用者名稱:">
@@ -60,7 +59,6 @@
 
 <!ENTITY advancedSetup.label             "進階設定">
 <!ENTITY advancedSetup.accesskey         "A">
-
 <!ENTITY cancel.label                    "取消">
 <!ENTITY cancel.accesskey                "a">
 <!ENTITY continue.label                  "繼續">
@@ -77,7 +75,6 @@
 <!ENTITY manual-config.accesskey         "M">
 <!ENTITY open-provisioner.label          "註冊新信箱…">
 <!ENTITY open-provisioner.accesskey      "g">
-
 <!ENTITY get-help.label                  "取得幫助">
 <!ENTITY get-help.accesskey              "H">
 

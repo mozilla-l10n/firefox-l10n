@@ -24,6 +24,8 @@ about-addressbook-books-context-properties =
     .label = 屬性
 about-addressbook-books-context-synchronize =
     .label = 同步
+about-addressbook-books-context-print =
+    .label = 列印…
 about-addressbook-books-context-delete =
     .label = 刪除
 
