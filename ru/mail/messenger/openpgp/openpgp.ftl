@@ -303,6 +303,9 @@ openpgp-keygen-external-success = Идентификатор внешнего к
 openpgp-radio-none =
     .label = Нет
 openpgp-radio-none-desc = Не использовать OpenPGP для этой учётной записи.
+openpgp-radio-key-not-usable = Этот ключ нельзя использовать в качестве личного ключа, так как секретный ключ отсутствует!
+openpgp-radio-key-not-accepted = Чтобы использовать этот ключ, вы должны одобрить его как личный ключ!
+openpgp-radio-key-not-found = Не удалось найти этот ключ! Если вы хотите его использовать, вы должны импортировать его в { -brand-short-name }.
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = Истекает: { $date }
 openpgp-key-expires-image =
@@ -642,5 +645,6 @@ dlg-button-retry = &Повторить
 dlg-button-skip = Пропуст&ить
 # Strings used in enigmailCommon.js
 enig-error = Ошибка OpenPGP
+# Strings used in enigmailMsgBox.js
 enig-alert-title =
     .title = Предупреждение OpenPGP
