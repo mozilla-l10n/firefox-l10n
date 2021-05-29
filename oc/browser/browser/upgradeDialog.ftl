@@ -32,6 +32,14 @@ upgrade-dialog-new-secondary-button = Pas ara
 # theme selection screen.
 upgrade-dialog-new-primary-win7-button = D’acòrdi, plan comprés !
 
+## Pin Firefox screen
+##
+## These title, subtitle and button strings differ between platforms as they
+## match the OS' application context menu item action where Windows uses "pin"
+## and "taskbar" while macOS "keep" and "Dock" (proper noun).
+
+upgrade-dialog-pin-secondary-button = Pas ara
+
 ## Default browser screen
 
 # This title can be explicitly wrapped to control which words are on which line.
