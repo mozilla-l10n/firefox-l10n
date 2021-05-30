@@ -44,6 +44,13 @@ upgrade-dialog-pin-title =
         [macos] Fixa el { -brand-short-name } al Dock
        *[other] Fixa el { -brand-short-name } a la barra de tasques
     }
+# The English macOS string avoids repeating "Keep" a third time, so if your
+# translations don't repeat anyway, the same string can be used cross-platform.
+upgrade-dialog-pin-subtitle =
+    { PLATFORM() ->
+        [macos] Tingueu el { -brand-short-name } més modern a l'abast de la mà.
+       *[other] Tingueu el { -brand-short-name } més modern a l'abast de la mà.
+    }
 upgrade-dialog-pin-primary-button =
     { PLATFORM() ->
         [macos] Fixa'l al Dock
@@ -65,6 +72,12 @@ upgrade-dialog-default-secondary-button = Ara no
 
 ## Theme selection screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-theme-title =
+    Comenceu des de zero
+    amb un tema actualitzat
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-theme-title-2 = Comenceu des de zero amb un tema més nítid
 upgrade-dialog-theme-system = Tema del sistema
     .title = Utilitza el tema del sistema operatiu per als botons, menús i finestres
 upgrade-dialog-theme-light = Clar
