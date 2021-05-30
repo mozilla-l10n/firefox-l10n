@@ -67,6 +67,7 @@ upgrade-dialog-default-primary-button = Eliger como navigator predefinite
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-default-title-2 = Rende { -brand-short-name } tu predefinite
 upgrade-dialog-default-subtitle-2 = Pone in autopilota velocitate, securitate e confidentialitate.
+upgrade-dialog-default-primary-button-2 = Predefinir navigator
 upgrade-dialog-default-secondary-button = Non ora
 
 ## Theme selection screen
@@ -75,6 +76,8 @@ upgrade-dialog-default-secondary-button = Non ora
 upgrade-dialog-theme-title =
     Refresca tu experientia
     con un nove thema
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-theme-title-2 = Initia ben con un thema nitide
 upgrade-dialog-theme-system = Thema del systema
     .title = Sequer le themas del systema operative pro buttones, menus e fenestras
 upgrade-dialog-theme-light = Clar
