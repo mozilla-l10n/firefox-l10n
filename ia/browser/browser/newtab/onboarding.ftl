@@ -272,12 +272,33 @@ mr1-welcome-screen-hero-text = Que nos comencia ci
 mr1-onboarding-welcome-image-caption = Soraya Osorio — Designer de mobiles, fan de Firefox
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Disactivar le animationes
+
+## Title and primary button strings differ between platforms as they
+## match the OS' application context menu item action where Windows uses "pin"
+## and "taskbar" while macOS "keep" and "Dock" (proper noun).
+
+
+## Multistage MR1 onboarding strings (about:welcome pages)
+
+# This string will be used on welcome page primary button label
+# when Firefox is both pinned and default
+mr1-onboarding-get-started-primary-button-label = Comenciar
 mr1-onboarding-welcome-header = Benvenite a { -brand-short-name }
 mr1-onboarding-set-default-pin-primary-button-label = Render { -brand-short-name } mi navigator principal
     .title = Stabili { -brand-short-name } como navigator predefinite e lo adde al barra del applicationes
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
 mr1-onboarding-set-default-only-primary-button-label = Facer de { -brand-short-name } mi navigator primari?
 mr1-onboarding-set-default-secondary-button-label = Non ora
 mr1-onboarding-sign-in-button-label = Aperir session
+
+## Title, subtitle and primary button string used on set default onboarding screen
+## when Firefox is not default browser
+
+mr1-onboarding-default-primary-button-label = Render predefinite le navigator
+
+## Multistage MR1 onboarding strings (about:welcome pages)
+
 mr1-onboarding-import-header = Porta toto con te
 mr1-onboarding-import-subtitle = Importa tu contrasignos, <br/>marcapaginas e multo plus.
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
