@@ -18,6 +18,12 @@ permissions-session =
 permissions-allow =
     .label = Leisti
     .accesskey = L
+permissions-button-off =
+    .label = Išjungti
+    .accesskey = g
+permissions-button-off-temporarily =
+    .label = Išjungti laikinai
+    .accesskey = k
 permissions-site-name =
     .label = Svetainė
 permissions-status =
@@ -58,6 +64,10 @@ permissions-capabilities-listitem-block =
     .value = Neleisti
 permissions-capabilities-listitem-allow-session =
     .value = Leisti vienam seansui
+permissions-capabilities-listitem-off =
+    .value = Išjungta
+permissions-capabilities-listitem-off-temporarily =
+    .value = Išjungta laikinai
 
 ## Invalid Hostname Dialog
 
@@ -77,6 +87,13 @@ permissions-exceptions-cookie-window =
     .title = Išimtys – slapukai ir svetainių duomenys
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = Galite nurodyti kurioms svetainėms visada, arba niekada, leidžiate naudoti slapukus bei svetainių duomenis.  Įveskite tikslų adresą svetainės, kuriai norite atlikti pakeitimus, ir tada spustelėkite „Neleisti“, „Leisti vienam seansui“, arba „Leisti“.
+
+## Exceptions - HTTPS-Only Mode
+
+permissions-exceptions-https-only-window =
+    .title = Išimtys – tik HTTPS veiksena
+    .style = { permissions-window.style }
+permissions-exceptions-https-only-desc = Galite išjungti tik HTTPS veikseną tam tikroms svetainėms. „{ -brand-short-name }“ šioms svetainėms nebandys apsaugoti ryšio su HTTPS. Išimtys negalioja privačiojo naršymo languose.
 
 ## Exceptions - Pop-ups
 

@@ -263,15 +263,56 @@ onboarding-multistage-theme-description-alpenglow =
 # Firefox to pursue those passions, as well as the boldness in their
 # choice to use Firefox over a larger competitor browser.
 # An alternative title for localization is: "It starts here".
+# This text can be formatted to span multiple lines as needed.
 mr1-welcome-screen-hero-text = Tai prasideda čia
+# Caption for background image in about:welcome. "Soraya Osorio" is the name
+# of the person and shouldn't be translated.
+# In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
+# You can see the picture in about:welcome in Nightly 90.
+mr1-onboarding-welcome-image-caption = Soraya Osorio – baldų dizainerė, „Firefox“ gerbėja
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Išjungti animacijas
+
+## Title and primary button strings differ between platforms as they
+## match the OS' application context menu item action where Windows uses "pin"
+## and "taskbar" while macOS "keep" and "Dock" (proper noun).
+
+# Title used on welcome page when Firefox is not pinned
+mr1-onboarding-pin-header =
+    { PLATFORM() ->
+        [macos] Laikykite „{ -brand-short-name }“ savo užduočių juostoje sparčiam pasiekimui
+       *[other] Įsekite „{ -brand-short-name }“ į savo užduočių juostą sparčiam pasiekimui
+    }
+# Primary button string used on welcome page when Firefox is not pinned.
+mr1-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Laikyti užduočių juostoje
+       *[other] Įsegti į užduočių juostą
+    }
+
+## Multistage MR1 onboarding strings (about:welcome pages)
+
+# This string will be used on welcome page primary button label
+# when Firefox is both pinned and default
+mr1-onboarding-get-started-primary-button-label = Pradėti
 mr1-onboarding-welcome-header = Sveiki, čia „{ -brand-short-name }“
 mr1-onboarding-set-default-pin-primary-button-label = Paskirti „{ -brand-short-name }“ mano pagrindine naršykle
     .title = Padaro „{ -brand-short-name }“ numatytąja naršykle ir prisega į užduočių juostą
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
 mr1-onboarding-set-default-only-primary-button-label = Paskirti „{ -brand-short-name }“ mano pagrindine naršykle
 mr1-onboarding-set-default-secondary-button-label = Ne dabar
 mr1-onboarding-sign-in-button-label = Prisijungti
+
+## Title, subtitle and primary button string used on set default onboarding screen
+## when Firefox is not default browser
+
+mr1-onboarding-default-header = Paskirti „{ -brand-short-name }“ jūsų pagrindine
+mr1-onboarding-default-subtitle = Įjunkite autopilotą greičiui, saugumui, ir privatumui.
+mr1-onboarding-default-primary-button-label = Skirti numatytąja naršykle
+
+## Multistage MR1 onboarding strings (about:welcome pages)
+
 mr1-onboarding-import-header = Pasiimkite visa tai su savimi
 mr1-onboarding-import-subtitle = Importuokite savo slaptažodžius, <br/>adresyną, ir dar daugiau.
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
