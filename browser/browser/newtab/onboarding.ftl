@@ -310,6 +310,8 @@ mr1-onboarding-sign-in-button-label = Inicia la sessió
 ## when Firefox is not default browser
 
 mr1-onboarding-default-header = Feu que el { -brand-short-name } sigui el navegador per defecte
+mr1-onboarding-default-subtitle = Obteniu velocitat, seguretat i privadesa de forma automàtica.
+mr1-onboarding-default-primary-button-label = Fes que sigui el navegador per defecte
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
@@ -330,6 +332,8 @@ mr1-onboarding-theme-secondary-button-label = Ara no
 mr1-onboarding-theme-label-system = Tema del sistema
 mr1-onboarding-theme-label-light = Clar
 mr1-onboarding-theme-label-dark = Fosc
+# "Alpenglow" here is the name of the theme, and should be kept in English.
+mr1-onboarding-theme-label-alpenglow = Alpenglow
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
