@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 process-type-web = Contenuti web
+process-type-browser = Principale
 
 process-type-privilegedabout = Pagine “about” privilegiate
 
@@ -21,3 +22,6 @@ process-type-gpu = GPU
 process-type-socket = Socket
 
 process-type-prealloc = Preallocato
+
+# process used to decode media
+process-type-rdd = RDD
