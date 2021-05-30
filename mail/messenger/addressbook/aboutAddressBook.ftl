@@ -24,6 +24,8 @@ about-addressbook-books-context-properties =
     .label = Ominaisuudet
 about-addressbook-books-context-synchronize =
     .label = Synkronoi
+about-addressbook-books-context-print =
+    .label = Tulosta…
 about-addressbook-books-context-delete =
     .label = Poista
 
@@ -35,6 +37,8 @@ about-addressbook-search =
     .placeholder = Hae { $name }
 about-addressbook-search-all =
     .placeholder = Hae kaikista osoitekirjoista
+about-addressbook-sort-button =
+    .title = Muuta listan järjestystä
 about-addressbook-name-format-display =
     .label = Näyttönimi
 about-addressbook-name-format-firstlast =
