@@ -183,8 +183,6 @@ page-action-send-tabs-urlbar =
             [few] Siųsti { $tabCount } kortelių į įrenginį
            *[other] Siųsti { $tabCount } korteles į įrenginį
         }
-page-action-pocket-panel =
-    .label = Įrašyti tinklalapį į „{ -pocket-brand-name }“
 page-action-copy-url-panel =
     .label = Kopijuoti saitą
 page-action-copy-url-urlbar =
@@ -249,6 +247,14 @@ search-one-offs-context-set-as-default-private =
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
+# Shown when adding new engines from the address bar shortcut buttons or context
+# menu, or from the search bar shortcut buttons.
+# Variables:
+#  $engineName (String): The name of the engine.
+search-one-offs-add-engine =
+    .label = Pirdėti „{ $engineName }“
+    .tooltiptext = Pridėti ieškyklę „{ $engineName }“
+    .aria-label = Pridėti ieškyklę „{ $engineName }“
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -309,6 +315,7 @@ identity-header-security-with-host =
     .title = Ryšio saugumas su { $host }
 identity-connection-not-secure = Ryšys nesaugus
 identity-connection-secure = Ryšys saugus
+identity-connection-failure = Prisijungti nepavyko
 identity-connection-internal = Tai yra saugus „{ -brand-short-name }“ tinklalapis.
 identity-connection-file = Šis tinklalapis yra įrašytas jūsų kompiuteryje.
 identity-extension-page = Šis tinklalapis yra įkeltas iš priedo.
@@ -511,6 +518,11 @@ urlbar-placeholder-with-name =
     .placeholder = Ieškokite per „{ $name }“ arba įveskite adresą
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Naršyklė valdoma per nuotolį
+# Variables
+#  $component (String): the name of the component which forces remote control.
+#    Example: "DevTools", "Marionette", "RemoteAgent".
+urlbar-remote-control-notification-anchor2 =
+    .tooltiptext = Naršyklė yra valdoma nuotoliniu būdu (priežastis: { $component })
 urlbar-permissions-granted =
     .tooltiptext = Šiai svetainei esate suteikę papildomų leidimų.
 urlbar-switch-to-tab =
@@ -607,8 +619,6 @@ crashed-subframe-submit =
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = Rodyti visą adresyną
 bookmarks-manage-bookmarks =
     .label = Tvarkyti adresyną
 bookmarks-recent-bookmarks-panel-subheader = Paskiausi adresyno įrašai

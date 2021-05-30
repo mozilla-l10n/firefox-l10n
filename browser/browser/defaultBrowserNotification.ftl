@@ -14,6 +14,7 @@ default-browser-notification-button =
 
 default-browser-prompt-title-pin = Paskirti „{ -brand-short-name }“ jūsų pagrindine naršykle?
 default-browser-prompt-message-pin = Greitai pasiekite „{ -brand-short-name }“ – paskirkite ją savo numatytąja naršykle ir įsekite į užduočių juostą.
+default-browser-prompt-message-pin-mac = Greitai pasiekite „{ -brand-short-name }“ – paskirkite ją savo numatytąja naršykle ir įsekite į užduočių juostą.
 default-browser-prompt-button-primary-pin = Paskirti pagrindine naršykle
 default-browser-prompt-title-alt = Paskirti „{ -brand-short-name }“ jūsų pagrindine naršykle?
 default-browser-prompt-message-alt = Gaukite greitį, saugumą, ir privatumą kiekvieno naršymo metu.

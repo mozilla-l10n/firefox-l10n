@@ -15,6 +15,7 @@ policy-AllowedDomainsForApps = Nurodyti domenus, kuriems leidžiama pasiekti „
 policy-AppAutoUpdate = Įjungti arba išjungti automatinius programos naujinimus.
 policy-AppUpdateURL = Nustatyti pasirinktinį programos naujinimų URL.
 policy-Authentication = Keisti integruotą autentikaciją ją palaikančioms svetainėms.
+policy-AutoLaunchProtocolsFromOrigins = Nurodykite sąrašą išorinių protokolų, kurie galės būti naudojami iš išvardintų šaltinių, neperspėjant naudotojo.
 policy-BackgroundAppUpdate2 = Įjungti arba išjungti foninio naujinimo tarnybą.
 policy-BlockAboutAddons = Blokuoti prieigą prie priedų valdymo (about:addons).
 policy-BlockAboutConfig = Blokuoti prieigą prie about:config puslapio.

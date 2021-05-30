@@ -7,7 +7,4 @@
 account-finish-account-setup = Užbaigti paskyros kūrimą
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
-account-reconnect-to-fxa = Paskyra atjungta
-# Used as the FxA toolbar menu item title when the user
-# needs to reconnect their account.
-account-disconnected = Paskyra buvo atjungta
+account-disconnected2 = Paskyra atjungta
