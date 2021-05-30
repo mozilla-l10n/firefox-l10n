@@ -15,6 +15,14 @@ upgrade-dialog-new-subtitle = Sukurta tam, kad greičiau patektumėte ten kur no
 # style to be automatically added to the text inside it. { -brand-short-name }
 # should stay inside the span.
 upgrade-dialog-new-alt-subtitle = Pradžiai padarykite <span data-l10n-name="zap">„{ -brand-short-name }“</span> pasiekiamą vienu paspaudimu
+upgrade-dialog-new-item-menu-title = Suprantamesnė priemonių juosta ir meniu
+
+## Pin Firefox screen
+##
+## These title, subtitle and button strings differ between platforms as they
+## match the OS' application context menu item action where Windows uses "pin"
+## and "taskbar" while macOS "keep" and "Dock" (proper noun).
+
 
 ## Default browser screen
 

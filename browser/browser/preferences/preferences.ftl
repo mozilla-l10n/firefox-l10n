@@ -181,6 +181,9 @@ warn-on-open-many-tabs =
 switch-links-to-new-tabs =
     .label = Atveriant saitą naujoje kortelėje, įkelti ją į pirmąjį planą
     .accesskey = v
+switch-to-new-tabs =
+    .label = Atveriant saitą, paveikslą, ar mediją naujoje kortelėje, įkelti ją į pirmąjį planą
+    .accesskey = t
 show-tabs-in-taskbar =
     .label = Rodyti kortelių miniatiūras „Windows“ užduočių juostoje
     .accesskey = m
@@ -1021,6 +1024,7 @@ enhanced-tracking-protection-setting-custom =
 content-blocking-etp-standard-desc = Subalansuota apsaugai ir našumui. Tinklalapiai bus įkeliami įprastai.
 content-blocking-etp-strict-desc = Stipresnė apsauga, tačiau gali sutrikti kai kurių svetainių veikimas.
 content-blocking-etp-custom-desc = Pasirinkite, kurios stebėjimo elementus ir scenarijus norite blokuoti.
+content-blocking-etp-blocking-desc = „{ -brand-short-name }“ blokuoja:
 content-blocking-private-windows = Stebėjimui naudojamas turinys privačiojo naršymo languose
 content-blocking-cross-site-cookies-in-all-windows = Tarp svetainių veikiantys slapukai visuose languose (įskaitant stebėjimo slapukus)
 content-blocking-cross-site-tracking-cookies = Tarp svetainių veikiantys stebėjimo slapukai
@@ -1144,6 +1148,8 @@ collection-backlogged-crash-reports =
     .label = Leisti „{ -brand-short-name }“ siųsti sukauptus strigčių pranešimus jūsų vardu
     .accesskey = g
 collection-backlogged-crash-reports-link = Sužinoti daugiau
+collection-backlogged-crash-reports-with-link = Leisti „{ -brand-short-name }“ siųsti sukauptus strigčių pranešimus jūsų vardu. <a data-l10n-name="crash-reports-link">Sužinoti daugiau</a>
+    .accesskey = s
 
 ## Privacy Section - Security
 ##
