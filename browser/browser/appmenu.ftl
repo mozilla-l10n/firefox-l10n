@@ -5,13 +5,11 @@
 
 ## App Menu
 
-appmenuitem-update-banner =
-    .label-update-downloading = S'està baixant l'actualització del { -brand-shorter-name }
-appmenuitem-update-banner2 =
+appmenuitem-update-banner3 =
     .label-update-downloading = S'està baixant l'actualització del { -brand-shorter-name }
     .label-update-available = Hi ha una actualització — baixa-la ara
     .label-update-manual = Hi ha una actualització — baixa-la ara
-    .label-update-unsupported = No s'ha pogut actualitzar
+    .label-update-unsupported = No s'ha pogut actualitzar — sistema incompatible
     .label-update-restart = Hi ha una actualització — reinicia ara
 appmenuitem-protection-dashboard-title = Tauler de proteccions
 appmenuitem-customize-mode =
@@ -25,22 +23,12 @@ appmenuitem-new-private-window =
     .label = Finestra privada nova
 appmenuitem-passwords =
     .label = Contrasenyes
-appmenuitem-extensions-and-themes =
-    .label = Extensions i temes
 appmenuitem-addons-and-themes =
     .label = Complements i temes
 appmenuitem-find-in-page =
     .label = Cerca a la pàgina…
 appmenuitem-more-tools =
     .label = Més eines
-appmenuitem-exit =
-    .label = Surt
-appmenu-menu-button-closed =
-    .tooltiptext = Obre el menú de l'aplicació
-    .label = { -brand-shorter-name }
-appmenu-menu-button-opened =
-    .tooltiptext = Tanca el menú de l'aplicació
-    .label = { -brand-shorter-name }
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
@@ -77,16 +65,12 @@ appmenu-remote-tabs-turn-on-sync =
     .label = Activa la sincronització…
 appmenuitem-fxa-toolbar-sync-now2 = Sincronitza ara
 appmenuitem-fxa-manage-account = Gestiona el compte
-appmenu-fxa-header =
-    .title = { -fxaccount-brand-name }
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
 appmenu-fxa-last-sync = Última sincronització: { $time }
     .label = Última sincronització: { $time }
-appmenu-fxa-sync-and-save-data =
-    .value = Sincronitza i desa les dades
 appmenu-fxa-sync-and-save-data2 = Sincronitza i desa les dades
 appmenu-fxa-signed-in-label = Inicia la sessió
 appmenu-fxa-setup-sync =
@@ -160,11 +144,6 @@ appmenu-about =
 appmenu-get-help =
     .label = Obteniu ajuda
     .accesskey = j
-appmenu-help-troubleshooting-info =
-    .label = Informació de resolució de problemes
-    .accesskey = r
-appmenu-help-taskmanager =
-    .label = Gestor de tasques
 appmenu-help-more-troubleshooting-info =
     .label = Més informació de resolució de problemes
     .accesskey = n
@@ -173,16 +152,6 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = Envia comentaris…
     .accesskey = E
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Reinicia amb els complements inhabilitats…
-    .accesskey = R
-appmenu-help-safe-mode-with-addons =
-    .label = Reinicia amb els complements habilitats
-    .accesskey = R
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
