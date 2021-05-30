@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+tab-context-new-tab =
+    .label = Pestanya nova
+    .accesskey = n
 reload-tab =
     .label = Torna a carregar la pestanya
     .accesskey = r
@@ -51,9 +54,9 @@ bookmark-tab =
 reopen-in-container =
     .label = Torna a obrir en un contenidor
     .accesskey = e
-tab-context-open-in-container =
-    .label = Obre en un contenidor nou
-    .accesskey = e
+tab-context-open-in-new-container-tab =
+    .label = Obre en una pestanya de contenidor nova
+    .accesskey = b
 move-to-start =
     .label = Mou al principi
     .accesskey = p
@@ -66,15 +69,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Tanca diverses pestanyes
     .accesskey = a
-tab-context-share-url =
-    .label = Comparteix
-    .accesskey = x
-tab-context-share-more =
-    .label = Més…
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->
@@ -94,6 +88,15 @@ move-tabs =
 move-tab =
     .label = Mou la pestanya
     .accesskey = u
+tab-context-share-url =
+    .label = Comparteix
+    .accesskey = x
+tab-context-share-more =
+    .label = Més…
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
