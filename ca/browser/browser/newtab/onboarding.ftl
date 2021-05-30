@@ -282,12 +282,17 @@ mr1-onboarding-sign-in-button-label = Inicia la sessió
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
-mr1-onboarding-import-header = Porteu-ho tot sempre a sobre
+mr1-onboarding-import-header = Emporteu-vos-ho tot
 mr1-onboarding-import-subtitle = Importeu les vostres contrasenyes, <br/>adreces d'interès i molt més.
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = Importa del { $previous }
+# This string will be used in cases where we can't detect the previous browser name.
+mr1-onboarding-import-primary-button-label-no-attribution = Importa del navegador anterior
+mr1-onboarding-import-secondary-button-label = Ara no
+mr1-onboarding-theme-header = Feu-lo vostre
+mr1-onboarding-theme-subtitle = Personalitzeu el { -brand-short-name } amb un tema.
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
