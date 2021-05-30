@@ -23,7 +23,7 @@ permissions-site-name =
 permissions-status =
     .label = Status
 permissions-remove =
-    .label = Websedło wowónoźeś
+    .label = Websedło wotwónoźeś
     .accesskey = w
 permissions-remove-all =
     .label = Wšykne websedła wótwónoźeś
@@ -77,6 +77,9 @@ permissions-exceptions-cookie-window =
     .title = Wuwześa - cookieje a sedłowe daty
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = Móžośo pódaś, kótare websedła směju pśecej abo njesměju nigda cookieje a sedłowe daty wužywaś. Zapišćo eksaktnu adresu sedła, kótarež cośo zastojaś a klikniśo pótom na Blokěrowaś, Za pósejźenje dowóliś abo Dowóliś.
+
+## Exceptions - HTTPS-Only Mode
+
 
 ## Exceptions - Pop-ups
 
