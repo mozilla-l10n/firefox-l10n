@@ -49,4 +49,4 @@ bookmark-overlay-keyword-2 =
     .value = Paraula clau
     .accesskey = P
 bookmark-overlay-tags-caption-label = Utilitzeu etiquetes per organitzar i cercar les adreces d'interès des de la barra d'adreces
-bookmark-overlay-keyword-caption-label = Utilitzeu paraules clau per obrir les adreces d'interès directament des de la barra d'adreces
+bookmark-overlay-keyword-caption-label-2 = Utilitzeu una única paraula clau per a obrir adreces d'interès directament des de la barra d'adreces
