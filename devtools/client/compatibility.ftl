@@ -42,3 +42,5 @@ compatibility-issue-occurrences =
        *[other] { $number } ocurrències
     }
 compatibility-no-issues-found = No s'ha trobat cap problema de compatibilitat.
+compatibility-close-settings-button =
+    .title = Tanca els paràmetres

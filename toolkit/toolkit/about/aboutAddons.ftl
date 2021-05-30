@@ -10,6 +10,7 @@ search-header =
     .searchbuttonlabel = Cerca
 search-header-shortcut =
     .key = f
+list-empty-get-extensions-message = Obteniu més extensions i temes a <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-installed =
     .value = No teniu instal·lat cap complement d'aquest tipus
 list-empty-available-updates =
@@ -34,6 +35,9 @@ sidebar-preferences-button-title =
             [windows] Opcions del { -brand-short-name }
            *[other] Preferències del { -brand-short-name }
         }
+addons-settings-button = Paràmetres del { -brand-short-name }
+sidebar-settings-button-title =
+    .title = Paràmetres del { -brand-short-name }
 show-unsigned-extensions-button =
     .label = No s'han pogut verificar algunes extensions
 show-all-extensions-button =
@@ -374,9 +378,6 @@ addon-detail-private-browsing-disallow = No ho permetis
 addon-badge-recommended2 =
     .title = El { -brand-product-name } només recomana extensions que compleixen els nostres estàndards de seguretat i de rendiment
     .aria-label = { addon-badge-recommended2.title }
-addon-badge-line2 =
-    .title = Aquesta és una extensió oficial creada pels creadors del { -brand-product-name }
-    .aria-label = { addon-badge-line2.title }
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
