@@ -10,10 +10,12 @@
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-new-title = Doneu la benvinguda al nou { -brand-short-name }
+upgrade-dialog-new-subtitle = Dissenyat per dur-vos on vulgueu a màxima velocitat
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline
 # style to be automatically added to the text inside it. { -brand-short-name }
 # should stay inside the span.
 upgrade-dialog-new-alt-subtitle = Per començar, feu que el <span data-l10n-name="zap">{ -brand-short-name }</span> estigui a un sol clic
+upgrade-dialog-new-item-menu-title = Menús i barres d'eines optimitzats
 upgrade-dialog-new-item-menu-description = Prioritzeu les coses importants perquè trobeu allò que necessiteu.
 upgrade-dialog-new-item-tabs-title = Pestanyes modernes
 upgrade-dialog-new-primary-primary-button = Fes que el { -brand-short-name } sigui el meu navegador principal
@@ -68,3 +70,7 @@ upgrade-dialog-theme-dark = Fosc
     .title = Utilitza un tema fosc per als botons, menús i finestres
 upgrade-dialog-theme-alpenglow = Alpenglow
     .title = Utilitza un tema dinàmic i acolorit per als botons, menús i finestres
+upgrade-dialog-theme-keep = Mantén l'anterior
+    .title = Utilitza el tema que teníeu instal·lat abans d'actualitzar el { -brand-short-name }
+upgrade-dialog-theme-primary-button = Desa el tema
+upgrade-dialog-theme-secondary-button = Ara no
