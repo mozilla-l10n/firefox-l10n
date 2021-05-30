@@ -20,7 +20,6 @@ account-setup-name-input =
     .placeholder = Mario Rossi
 account-setup-name-info-icon =
     .title = Nome da visualizzare
-account-setup-name-warning = Inserisci il tuo nome
 account-setup-name-warning-icon =
     .title = { account-setup-name-warning }
 account-setup-email-label = Indirizzo email
@@ -29,7 +28,6 @@ account-setup-email-input =
     .placeholder = mario.rossi@example.com
 account-setup-email-info-icon =
     .title = Il tuo indirizzo email esistente
-account-setup-email-warning = Indirizzo email non valido
 account-setup-email-warning-icon =
     .title = { account-setup-email-warning }
 account-setup-password-label = Password
@@ -122,6 +120,15 @@ account-setup-incoming-title = In entrata
 account-setup-outgoing-title = In uscita
 account-setup-username-title = Nome utente
 account-setup-exchange-title = Server
+account-setup-result-smtp = SMTP
+account-setup-result-no-encryption = Nessuna crittografia
+account-setup-result-ssl = SSL/TLS
+account-setup-result-starttls = STARTTLS
+account-setup-result-outgoing-existing = Utilizza server della posta in uscita SMTP esistente
+# Variables:
+#  $incoming (String): The email/username used to log into the incoming server
+#  $outgoing (String): The email/username used to log into the outgoing server
+account-setup-result-username-different = In entrata: { $incoming }. In uscita: { $outgoing }
 
 ## Error messages
 
@@ -131,32 +138,70 @@ account-setup-credentials-wrong = Autenticazione non riuscita. Assicurati che no
 account-setup-find-settings-failed = { -brand-short-name } non è riuscito a trovare le impostazioni per il tuo account email
 account-setup-exchange-config-unverifiable = Impossibile verificare la configurazione. Se il nome utente e la password sono corretti, è possibile che l’amministratore del server abbia disattivato la configurazione selezionata per questo account. Provare a selezionare un altro protocollo.
 
-## Manual config area
+## Manual configuration area
 
 account-setup-manual-config-title = Impostazioni server
-account-setup-incoming-protocol-label = Protocollo in entrata
+account-setup-incoming-server-legend = Server in entrata
+account-setup-protocol-label = Protocollo:
 protocol-imap-option = { account-setup-result-imap }
 protocol-pop-option = { account-setup-result-pop }
-account-setup-outgoing-protocol-label = Protocollo in uscita
-outgoing-protocol = SMTP
-account-setup-incoming-server-label = Server posta in entrata
-account-setup-outgoing-server-label = Server posta in uscita
-account-setup-incoming-port-label = Porta in entrata
-account-setup-outoing-port-label = Porta in uscita
-account-setup-incoming-ssl-label = SSL in entrata
-account-setup-outgoing-ssl-label = SSL in uscita
+protocol-exchange-option = { account-setup-result-exchange }
+account-setup-hostname-label = Server:
+account-setup-port-label = Porta:
+    .title = Imposta 0 come numero della porta per rilevarla automaticamente
+account-setup-auto-description = { -brand-short-name } tenterà di rilevare automaticamente i campi lasciati vuoti.
+account-setup-ssl-label = Sicurezza della connessione:
+account-setup-outgoing-server-legend = Server in uscita
+
+## Incoming/Outgoing SSL Authentication options
+
 ssl-autodetect-option = Rilevamento automatico
+ssl-no-authentication-option = Nessuna autenticazione
+ssl-cleartext-password-option = Password normale
+ssl-encrypted-password-option = Password crittata
+
+## Incoming/Outgoing SSL options
+
 ssl-noencryption-option = Nessuna
-ssl-starttls-option = STARTTLS
-ssl-tls-option = SSL/TLS
-account-setup-incoming-auth-label = Autenticazione in entrata
-account-setup-outgoing-auth-label = Autenticazione in uscita
-account-setup-incoming-username-label = Nome utente in entrata
-account-setup-outgoing-username-label = Nome utente in uscita
+account-setup-auth-label = Metodo di autenticazione:
+account-setup-username-label = Nome utente:
 account-setup-advanced-setup-button = Configurazione avanzata
     .accesskey = v
 
-## Warning insecure server
+## Warning insecure server dialog
 
+account-setup-insecure-title = Attenzione
+account-setup-insecure-incoming-title = Impostazioni in entrata:
+account-setup-insecure-outgoing-title = Impostazioni in uscita:
+# Variables:
+#  $server (String): The name of the hostname of the server the user was trying to connect to.
+account-setup-warning-cleartext = <b>{ $server }</b> non utilizza alcuna crittografia.
+account-setup-warning-cleartext-details = Un server di posta non sicuro non utilizza collegamenti crittati per proteggere password e informazioni personali. Collegandosi a questo server si mette a rischio la sicurezza delle password e dei dati personali.
 account-setup-insecure-server-checkbox = Sono consapevole dei rischi
     .accesskey = r
+account-setup-insecure-description = { -brand-short-name } scaricherà la posta utilizzando questa configurazione. Tuttavia si consiglia di contattare l’amministratore o il fornitore della casella di posta per informarlo di questo collegamento non adeguato. Leggere le <a data-l10n-name="thunderbird-faq-link">FAQ di Thunderbird</a> per maggiori informazioni.
+insecure-dialog-cancel-button = Cambia impostazioni
+    .accesskey = b
+insecure-dialog-confirm-button = Conferma
+    .accesskey = o
+
+## Warning Exchange confirmation dialog
+
+# Variables:
+#  $domain (String): The name of the server where the configuration was found, e.g. rackspace.com.
+exchange-dialog-question = { -brand-short-name } ha trovato le informazioni per la configurazione dell’account su { $domain }. Procedere comunque e inviare le tue credenziali?
+exchange-dialog-confirm-button = Accedi
+exchange-dialog-cancel-button = Annulla
+
+## Alert dialogs
+
+account-setup-creation-error-title = Errore durante la creazione dell’account
+account-setup-error-server-exists = Il server in entrata è già presente.
+account-setup-confirm-advanced-title = Conferma configurazione avanzata
+account-setup-confirm-advanced-description = Questa finestra verrà chiusa e sarà creato un account con la configurazione corrente, anche se non corretta. Procedere?
+
+## Addon installation section
+
+account-setup-addon-install-title = Installa
+account-setup-addon-install-intro = Un componente aggiuntivo di terze parti può consentire l’accesso all’account email su questo server:
+account-setup-addon-no-protocol = Questo server di posta non supporta i protocolli aperti. { account-setup-addon-install-intro }
