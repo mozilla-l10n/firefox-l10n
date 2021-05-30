@@ -91,6 +91,16 @@ places-edit-bookmark =
 places-edit-generic =
     .label = Edita…
     .accesskey = E
+places-edit-folder =
+    .label = Reanomena la carpeta…
+    .accesskey = e
+places-remove-folder =
+    .label =
+        { $count ->
+            [1] Elimina la carpeta
+           *[other] Elimina les carpetes
+        }
+    .accesskey = m
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Adreces d'interès gestionades
