@@ -184,6 +184,15 @@ support-third-party-modules-title = Mòduls de tercers
 support-third-party-modules-module = Fitxer de mòdul
 support-third-party-modules-version = Versió del fitxer
 support-third-party-modules-vendor = Informació del proveïdor
+support-third-party-modules-status = Estat
+support-third-party-modules-status-loaded = Carregat
+support-third-party-modules-status-blocked = Blocat
+support-third-party-modules-status-redirected = Redirigit
+support-third-party-modules-no-value = (Cap valor)
+support-third-party-modules-button-open =
+    .title = Obre la ubicació del fitxer…
+support-third-party-modules-folder-icon =
+    .title = Obre la ubicació del fitxer…
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -287,6 +296,7 @@ content-sandbox-level = Nivell de l'entorn de proves de processos de contingut
 effective-content-sandbox-level = Nivell de l'entorn de proves de processos de contingut efectiu
 sandbox-proc-type-content = contingut
 sandbox-proc-type-media-plugin = connector multimèdia
+startup-cache-title = Memòria cau d'inici
 launcher-process-status-0 = Activat
 launcher-process-status-1 = Desactivat a causa d'un error
 launcher-process-status-unknown = Estat desconegut
@@ -302,6 +312,17 @@ multi-process-status-6 = Inhabilitat perquè l'entrada de text és incompatible
 multi-process-status-7 = Inhabilitat per part dels complements
 multi-process-status-8 = Inhabilitat de forma forçada
 multi-process-status-unknown = Estat desconegut
+# Variables
+# $fissionWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+fission-windows = { $fissionWindows }/{ $totalWindows }
+fission-status-experiment-control = Desactivat per un experiment
+fission-status-experiment-treatment = Activat per un experiment
+fission-status-disabled-by-e10s-env = Desactivat per l'entorn
+fission-status-enabled-by-env = Activat per l'entorn
+fission-status-disabled-by-safe-mode = Desactivat pel mode segur
+fission-status-enabled-by-default = Activat per defecte
+fission-status-disabled-by-default = Desactivat per defecte
 fission-status-enabled-by-user-pref = Activat per l'usuari
 fission-status-disabled-by-user-pref = Desactivat per l'usuari
 fission-status-disabled-by-e10s-other = E10s desactivat
@@ -327,6 +348,8 @@ policies-error = Error
 
 ## Printing section
 
+support-printing-title = Impressió
+support-printing-troubleshoot = Resolució de problemes
 support-printing-prefs-name = Nom
 support-printing-prefs-value = Valor
 
