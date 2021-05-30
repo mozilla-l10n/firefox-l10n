@@ -20,6 +20,9 @@ permission-dialog-remember-file = Միշտ թույլատրել այս ֆայլ�
 
 ##
 
+permission-dialog-btn-open-link =
+    .label = Բացել հղումը
+    .accessKey = O
 permission-dialog-unset-description = Դուք պետք է ընտրեք հավելվածը:
 
 ## Chooser dialog
