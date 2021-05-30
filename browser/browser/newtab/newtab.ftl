@@ -11,6 +11,8 @@ newtab-settings-button =
 newtab-personalize-button-label = Personalitza
     .title = Personalitza la pestanya nova
     .aria-label = Personalitza la pestanya nova
+newtab-personalize-dialog-label =
+    .aria-label = Personalitza
 
 ## Search box component.
 
@@ -37,7 +39,6 @@ newtab-search-box-search-the-web-input =
     .placeholder = Cerca al web
     .title = Cerca al web
     .aria-label = Cerca al web
-newtab-search-box-text = Cerca al web
 newtab-search-box-input =
     .placeholder = Cerca al web
     .aria-label = Cerca al web
