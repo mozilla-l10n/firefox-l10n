@@ -160,3 +160,9 @@ many-public-recipients-bcc =
 many-public-recipients-ignore =
     .label = Manter públicos os destinatários
     .accesskey = M
+
+## Notifications
+
+# Variables:
+# $identity (string) - The name of the used identity, most likely an email address.
+compose-missing-identity-warning = Não foi encontrada uma identidade única correspondente ao endereço do remetente. A mensagem será enviada usando o campo De atual e as configurações da identidade { $identity }.

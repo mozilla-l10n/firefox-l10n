@@ -179,6 +179,7 @@ account-setup-warning-cleartext = <b>{ $server }</b> não usa criptografia.
 account-setup-warning-cleartext-details = Servidores não seguros de email não usam conexões criptografadas para proteger suas senhas e informações privativas. Ao se conectar a este servidor, você pode expor essas informações.
 account-setup-insecure-server-checkbox = Eu entendo os riscos
     .accesskey = E
+account-setup-insecure-description = O { -brand-short-name } pode permitir configurar seu email usando as definições fornecidas. Entretanto, você deve entrar em contato com seu administrador ou provedor de email para falar a respeito dessas conexões impróprias. Veja mais informações nas <a data-l10n-name="thunderbird-faq-link">perguntas frequentes do Thunderbird</a>.
 insecure-dialog-cancel-button = Alterar configurações
     .accesskey = A
 insecure-dialog-confirm-button = Confirmar
@@ -186,6 +187,10 @@ insecure-dialog-confirm-button = Confirmar
 
 ## Warning Exchange confirmation dialog
 
+# Variables:
+#  $domain (String): The name of the server where the configuration was found, e.g. rackspace.com.
+exchange-dialog-question = O { -brand-short-name } encontrou informações de configuração da sua conta em { $domain }. Quer continuar e enviar suas credenciais?
+exchange-dialog-confirm-button = Entrar
 exchange-dialog-cancel-button = Cancelar
 
 ## Alert dialogs
@@ -193,7 +198,10 @@ exchange-dialog-cancel-button = Cancelar
 account-setup-creation-error-title = Erro ao criar conta
 account-setup-error-server-exists = O servidor de recebimento já existe.
 account-setup-confirm-advanced-title = Confirmar configuração avançada
+account-setup-confirm-advanced-description = Este diálogo será fechado e será criada uma conta com a configuração atual, mesmo se a configuração estiver incorreta. Quer continuar?
 
 ## Addon installation section
 
 account-setup-addon-install-title = Instalar
+account-setup-addon-install-intro = Uma extensão de terceiros pode permitir que você acesse sua conta de email neste servidor:
+account-setup-addon-no-protocol = Este servidor de email infelizmente não suporta protocolos abertos. { account-setup-addon-install-intro }
