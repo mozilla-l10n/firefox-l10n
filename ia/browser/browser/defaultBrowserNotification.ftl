@@ -14,6 +14,7 @@ default-browser-notification-button =
 
 default-browser-prompt-title-pin = Render { -brand-short-name } tu navigator primari?
 default-browser-prompt-message-pin = Tene { -brand-short-name } sempre a portata de mano: predefini lo como navigator e adde lo al barra del applicationes.
+default-browser-prompt-message-pin-mac = Mantene { -brand-short-name }  a portata de manos: rende lo tu navigator predefinite e mantene lo in tu Bassino.
 default-browser-prompt-button-primary-pin = Render navigator primari
 default-browser-prompt-title-alt = Render { -brand-short-name } tu navigator primari?
 default-browser-prompt-message-alt = Obtene velocitate, securitate e confidentialitate cata vice que tu naviga.

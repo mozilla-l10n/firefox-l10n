@@ -18,6 +18,12 @@ permissions-session =
 permissions-allow =
     .label = Permitter
     .accesskey = P
+permissions-button-off =
+    .label = Disactivar
+    .accesskey = D
+permissions-button-off-temporarily =
+    .label = Disactivar temporarimente
+    .accesskey = t
 permissions-site-name =
     .label = Sito web
 permissions-status =
@@ -84,6 +90,10 @@ permissions-exceptions-cookie-desc = Tu pote specificar qual sitos web sempre o 
 
 ## Exceptions - HTTPS-Only Mode
 
+permissions-exceptions-https-only-window =
+    .title = Exceptiones - modo solo-HTTPS
+    .style = { permissions-window.style }
+permissions-exceptions-https-only-desc = Tu pote disactivar le Modo solo-HTTPS pro specific sitos web. { -brand-short-name } non tentara promover le connexion a secur HTTPS pro ille sitos. Le  exceptiones non vale pro fenestras anonyme.
 
 ## Exceptions - Pop-ups
 

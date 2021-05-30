@@ -32,12 +32,41 @@ upgrade-dialog-new-secondary-button = Non ora
 # theme selection screen.
 upgrade-dialog-new-primary-win7-button = Ok, comprendite
 
+## Pin Firefox screen
+##
+## These title, subtitle and button strings differ between platforms as they
+## match the OS' application context menu item action where Windows uses "pin"
+## and "taskbar" while macOS "keep" and "Dock" (proper noun).
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-pin-title =
+    { PLATFORM() ->
+        [macos] Mantene { -brand-short-name } in tu Bassino
+       *[other] Appuncta { -brand-short-name } a tu barra del activitates
+    }
+# The English macOS string avoids repeating "Keep" a third time, so if your
+# translations don't repeat anyway, the same string can be used cross-platform.
+upgrade-dialog-pin-subtitle =
+    { PLATFORM() ->
+        [macos] Obtene jam facile accesso al plus fresc { -brand-short-name }.
+       *[other] Mantene jam le plus fresc { -brand-short-name } a portata de mano.
+    }
+upgrade-dialog-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Mantener in le Bassino
+       *[other] Appunctar al barra del activitates
+    }
+upgrade-dialog-pin-secondary-button = Non ora
+
 ## Default browser screen
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-default-title = Render { -brand-short-name } tu navigator primari?
 upgrade-dialog-default-subtitle = Obtene velocitate, securitate e confidentialitate cata vice que tu naviga.
 upgrade-dialog-default-primary-button = Eliger como navigator predefinite
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title-2 = Rende { -brand-short-name } tu predefinite
+upgrade-dialog-default-subtitle-2 = Pone in autopilota velocitate, securitate e confidentialitate.
 upgrade-dialog-default-secondary-button = Non ora
 
 ## Theme selection screen
