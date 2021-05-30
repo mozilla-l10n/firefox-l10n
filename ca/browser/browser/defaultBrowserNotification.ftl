@@ -14,6 +14,7 @@ default-browser-notification-button =
 
 default-browser-prompt-title-pin = Voleu que el { -brand-short-name } sigui el vostre navegador principal?
 default-browser-prompt-message-pin = Tingueu el { -brand-short-name } ben a mà: feu que sigui el navegador per defecte i fixeu-lo a la barra de tasques.
+default-browser-prompt-message-pin-mac = Tingueu el { -brand-short-name } ben a mà: feu que sigui el navegador per defecte i fixeu-lo al Dock.
 default-browser-prompt-button-primary-pin = Fes que sigui el navegador principal
 default-browser-prompt-title-alt = Voleu que el { -brand-short-name } sigui el vostre navegador per defecte?
 default-browser-prompt-message-alt = Velocitat, seguretat i privadesa sempre que navegueu.
