@@ -3,4 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 account-settingsTitle = Authentifizierungs-Einstellungen
-account-channelTitle = Standardkanäle
+account-channelTitle = Standardräume
+
+account-settings-title = Authentifizierungs-Einstellungen
+account-channel-title = Standardräume

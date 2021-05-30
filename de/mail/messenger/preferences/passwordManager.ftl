@@ -10,6 +10,10 @@ focus-search-shortcut =
     .key = f
 focus-search-altshortcut =
     .key = k
+focus-search-primary-shortcut =
+    .key = f
+focus-search-alt-shortcut =
+    .key = k
 copy-provider-url-cmd =
     .label = Adresse kopieren
     .accesskey = A
@@ -49,6 +53,10 @@ import =
     .label = Importieren…
     .accesskey = m
 close-button =
+    .label = Schließen
+    .accesskey = c
+
+password-close-button =
     .label = Schließen
     .accesskey = c
 

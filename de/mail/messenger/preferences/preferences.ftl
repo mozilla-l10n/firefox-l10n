@@ -2,7 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
 close-button =
     .aria-label = Schließen
 
@@ -12,6 +11,8 @@ preferences-title =
             [windows] Einstellungen
            *[other] Einstellungen
         }
+
+preferences-doc-title = Einstellungen
 
 category-list =
     .aria-label = Kategorien
@@ -133,8 +134,10 @@ update-in-progress-ok-button = &Verwerfen
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Fortfahren
 
-account-button = Konten-Einstellungen
 addons-button = Erweiterungen & Themes
+
+account-button = Konten-Einstellungen
+open-addons-sidebar-button = Erweiterungen und Themes
 
 ## OS Authentication dialog
 
@@ -224,6 +227,15 @@ customize-alert-label =
 tray-icon-label =
     .label = Im Infobereich anzeigen
     .accesskey = n
+
+biff-use-system-alert =
+    .label = Systembenachrichtigung verwenden
+
+tray-icon-unread-label =
+    .label = Taskleistensymbol bei ungelesenen Nachrichten anzeigen
+    .accesskey = z
+
+tray-icon-unread-description = Bei Verwendung kleiner Taskleistenschaltflächen empfohlen
 
 mail-system-sound-label =
     .label = Systemklang für neue Nachrichten
@@ -417,13 +429,12 @@ quoted-text-color =
 search-input =
     .placeholder = Suchen
 
-type-column-label =
-    .label = Dateityp
-    .accesskey = D
+search-handler-table =
+    .placeholder = Dateitypen und Aktionen suchen
 
-action-column-label =
-    .label = Aktion
-    .accesskey = A
+type-column-label = Dateityp
+
+action-column-label = Aktion
 
 save-to-label =
     .label = Dateien speichern unter
@@ -913,6 +924,18 @@ search-input-box =
         [windows] In Einstellungen suchen
         *[other] In Einstellungen suchen
     }
+
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-preferences-input =
+    .style = width: 15.4em
+    .placeholder = In Einstellungen suchen
 
 ## Preferences UI Search Results
 
