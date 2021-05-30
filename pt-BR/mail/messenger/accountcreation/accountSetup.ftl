@@ -147,6 +147,9 @@ protocol-imap-option = { account-setup-result-imap }
 protocol-pop-option = { account-setup-result-pop }
 protocol-exchange-option = { account-setup-result-exchange }
 account-setup-hostname-label = Servidor:
+account-setup-port-label = Porta:
+    .title = Defina o número da porta como 0 para detecção automática
+account-setup-auto-description = O { -brand-short-name } tentará detectar automaticamente os campos deixados vazios.
 account-setup-ssl-label = Segurança da conexão:
 account-setup-outgoing-server-legend = Servidores de envio
 
@@ -173,6 +176,7 @@ account-setup-insecure-outgoing-title = Configuração de envio:
 # Variables:
 #  $server (String): The name of the hostname of the server the user was trying to connect to.
 account-setup-warning-cleartext = <b>{ $server }</b> não usa criptografia.
+account-setup-warning-cleartext-details = Servidores não seguros de email não usam conexões criptografadas para proteger suas senhas e informações privativas. Ao se conectar a este servidor, você pode expor essas informações.
 account-setup-insecure-server-checkbox = Eu entendo os riscos
     .accesskey = E
 insecure-dialog-cancel-button = Alterar configurações
