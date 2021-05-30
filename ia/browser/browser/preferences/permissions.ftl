@@ -58,6 +58,10 @@ permissions-capabilities-listitem-block =
     .value = Blocar
 permissions-capabilities-listitem-allow-session =
     .value = Permitter pro le session
+permissions-capabilities-listitem-off =
+    .value = Inactive
+permissions-capabilities-listitem-off-temporarily =
+    .value = Disactivate temporarimente
 
 ## Invalid Hostname Dialog
 
@@ -77,6 +81,9 @@ permissions-exceptions-cookie-window =
     .title = Exceptiones - Cookies e Datos de sito
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = Tu pote specificar qual sitos web sempre o nunquam pote usar cookies e datos de sito.  Scribe le adresse exacte del sito que tu vole gerer e pois clicca sur Blocar, Permitter pro le session, o Permitter.
+
+## Exceptions - HTTPS-Only Mode
+
 
 ## Exceptions - Pop-ups
 
