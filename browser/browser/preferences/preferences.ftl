@@ -66,7 +66,6 @@ category-experimental =
     .tooltiptext = Experiments del { -brand-short-name }
 pane-experimental-subtitle = Aneu amb compte
 pane-experimental-search-results-header = Experiments del { -brand-short-name }: Aneu amb compte
-pane-experimental-description = La modificació de les preferències avançades de configuració pot afectar el rendiment o la seguretat del { -brand-short-name }.
 pane-experimental-description2 = La modificació dels paràmetres avançats de configuració pot afectar el rendiment o la seguretat del { -brand-short-name }.
 pane-experimental-reset =
     .label = Restaura els valors per defecte
@@ -182,6 +181,9 @@ warn-on-open-many-tabs =
 switch-links-to-new-tabs =
     .label = En obrir un enllaç en una pestanya nova, vés-hi immediatament
     .accesskey = b
+switch-to-new-tabs =
+    .label = En obrir un enllaç, una imatge o un fitxer multimèdia en una pestanya nova, vés-hi immediatament
+    .accesskey = h
 show-tabs-in-taskbar =
     .label = Mostra les previsualitzacions de les pestanyes a la barra de tasques del Windows
     .accesskey = q
@@ -1018,9 +1020,11 @@ enhanced-tracking-protection-setting-custom =
 content-blocking-etp-standard-desc = Equilibri entre protecció i rendiment. Les pàgines es carregaran amb normalitat.
 content-blocking-etp-strict-desc = Més protecció, però pot fer que alguns llocs o algun contingut no funcionin correctament.
 content-blocking-etp-custom-desc = Trieu quins elements de seguiment i scripts cal blocar.
+content-blocking-etp-blocking-desc = El { -brand-short-name } bloca el següent:
 content-blocking-private-windows = Contingut que fa seguiment en finestres privades
-content-blocking-cross-site-cookies = Galetes entre llocs
+content-blocking-cross-site-cookies-in-all-windows = Galetes entre llocs en totes les finestres (inclou galetes de seguiment)
 content-blocking-cross-site-tracking-cookies = Galetes de seguiment entre llocs
+content-blocking-all-cross-site-cookies-private-windows = Galetes entre llocs en finestres privades
 content-blocking-cross-site-tracking-cookies-plus-isolate = Galetes de seguiment entre llocs, i aïlla les galetes restants
 content-blocking-social-media-trackers = Elements de seguiment de xarxes socials
 content-blocking-all-cookies = Totes les galetes
@@ -1140,6 +1144,8 @@ collection-backlogged-crash-reports =
     .label = Permet que el { -brand-short-name } enviï els informes de fallada pendents automàticament
     .accesskey = f
 collection-backlogged-crash-reports-link = Més informació
+collection-backlogged-crash-reports-with-link = Permet que el { -brand-short-name } enviï els informes de fallada pendents automàticament <a data-l10n-name="crash-reports-link">Més informació</a>
+    .accesskey = f
 
 ## Privacy Section - Security
 ##
