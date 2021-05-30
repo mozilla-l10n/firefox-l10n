@@ -32,12 +32,42 @@ upgrade-dialog-new-secondary-button = No ahora
 # theme selection screen.
 upgrade-dialog-new-primary-win7-button = ¡De acuerdo, entendido!
 
+## Pin Firefox screen
+##
+## These title, subtitle and button strings differ between platforms as they
+## match the OS' application context menu item action where Windows uses "pin"
+## and "taskbar" while macOS "keep" and "Dock" (proper noun).
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-pin-title =
+    { PLATFORM() ->
+        [macos] Mantener { -brand-short-name } a la barra de tareas
+       *[other] Pegar { -brand-short-name } a la barra de tareas
+    }
+# The English macOS string avoids repeating "Keep" a third time, so if your
+# translations don't repeat anyway, the same string can be used cross-platform.
+upgrade-dialog-pin-subtitle =
+    { PLATFORM() ->
+        [macos] Obtenga acceso fácil a la última versión de { -brand-short-name }
+       *[other] Mantenga a su alcance la última versión de { -brand-short-name }
+    }
+upgrade-dialog-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Mantener en la barra de tareas
+       *[other] Pegar a la barra de tareas
+    }
+upgrade-dialog-pin-secondary-button = Ahora no
+
 ## Default browser screen
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-default-title = ¿Hacer que { -brand-short-name } sea el navegador predeterminado?
 upgrade-dialog-default-subtitle = Velocidad, seguridad y privacidad cada vez que navegue.
 upgrade-dialog-default-primary-button = Establecer como navegador predeterminado
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title-2 = Hacer que { -brand-short-name } sea el predeterminado
+upgrade-dialog-default-subtitle-2 = Ponga velocidad, seguridad y privacidad en piloto automático.
+upgrade-dialog-default-primary-button-2 = Establecer navegador predeterminado
 upgrade-dialog-default-secondary-button = No ahora
 
 ## Theme selection screen
@@ -46,6 +76,8 @@ upgrade-dialog-default-secondary-button = No ahora
 upgrade-dialog-theme-title =
     Empezar de cero
     con un tema actualizado
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-theme-title-2 = Obtenga un nuevo comienzo con un tema nítido
 upgrade-dialog-theme-system = Tema del sistema
     .title = Usar el tema del sistema operativo para botones, menús y ventanas
 upgrade-dialog-theme-light = Claro
