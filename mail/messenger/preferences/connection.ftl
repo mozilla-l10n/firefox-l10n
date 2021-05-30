@@ -97,6 +97,9 @@ no-proxy-example = Beispiel: .mozilla.org, .net.de, 192.168.1.0/24
 # Note: Do not translate localhost, 127.0.0.1 and ::1.
 no-proxy-localhost-label = Verbindungen mit localhost, 127.0.0.1 und ::1 werden nie über einen Proxy geleitet.
 
+# Do not translate "localhost", "127.0.0.1/8" and "::1". (You can translate "and".)
+connection-proxy-noproxy-localhost-desc-2 = Verbindungen mit localhost, 127.0.0.1/8 und ::1 werden nie über einen Proxy geleitet.
+
 proxy-password-prompt =
     .label = Keine Authentifizierungsanfrage bei gespeichertem Passwort
     .accesskey = z

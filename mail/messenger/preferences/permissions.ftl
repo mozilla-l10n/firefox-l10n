@@ -9,6 +9,9 @@ permissions-reminder-window =
 window-close-key =
     .key = w
 
+permission-preferences-close-window =
+    .key = w
+
 website-address-label =
     .value = Adresse der Website:
     .accesskey = d

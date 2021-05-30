@@ -7,31 +7,31 @@ receipts-dialog-window =
 
 return-receipt-checkbox =
     .label = Immer eine Empfangsbestätigung anfordern
-    .acceskey = m
+    .accesskey = m
 
 receipt-arrive-label = Wenn eine Empfangsbestätigung ankommt:
 
 receipt-leave-radio =
     .label = Im Posteingang belassen
-    .acceskey = P
+    .accesskey = P
 
 receipt-move-radio =
     .label = In den Ordner für gesendete Nachrichten verschieben
-    .acceskey = O
+    .accesskey = O
 
 receipt-request-label = Wenn aufgefordert wird, eine Empfangsbestätigung zu senden:
 
 receipt-return-never-radio =
     .label = Nie eine Empfangsbestätigung senden
-    .acceskey = N
+    .accesskey = N
 
 receipt-return-some-radio =
     .label = Bei manchen Nachrichten Empfangsbestätigungen erlauben
-    .acceskey = B
+    .accesskey = B
 
 receipt-not-to-cc =
     .value = Wenn ich nicht in der An- oder CC-Zeile stehe:
-    .acceskey = W
+    .accesskey = W
 
 receipt-send-never-label =
     .label = Nie senden
@@ -44,8 +44,8 @@ receipt-send-ask-label =
 
 sender-outside-domain =
     .value = Wenn der Absender außerhalb meiner Domain ist:
-    .acceskey = E
+    .accesskey = E
 
 other-cases-label =
     .value = In allen anderen Fällen:
-    .acceskey = n
+    .accesskey = n

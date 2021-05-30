@@ -11,6 +11,8 @@ autodetect-online-label =
 
 startup-label = Benutzerdefinierter Zustand beim Programmstart:
 
+offline-preference-startup-label = Benutzerdefinierter Zustand beim Programmstart:
+
 status-radio-remember =
     .label = Vorherigen Online-/Offline-Status merken
     .accesskey = V
