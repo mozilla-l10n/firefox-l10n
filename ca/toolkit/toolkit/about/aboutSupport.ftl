@@ -130,10 +130,9 @@ sandbox-sys-call-number = Crida del sistema
 sandbox-sys-call-args = Arguments
 safe-mode-title = Proveu el mode segur
 restart-in-safe-mode-label = Reinicia amb els complements inhabilitats…
+restart-in-troubleshoot-mode-label = Mode de resolució de problemes…
 clear-startup-cache-title = Proveu d'esborrar la memòria cau d'inici
 clear-startup-cache-label = Esborra la memòria cau d'inici…
-startup-cache-dialog-title = Esborra la memòria cau d’inici
-startup-cache-dialog-body = Reinicieu el { -brand-short-name } per esborrar la memòria cau d'inici. Això no canviarà els vostres paràmetres ni eliminarà cap extensió que hàgiu afegit al { -brand-short-name }.
 restart-button-label = Reinicia
 
 ## Media titles
@@ -181,6 +180,10 @@ remote-debugging-url = URL
 
 ##
 
+support-third-party-modules-title = Mòduls de tercers
+support-third-party-modules-module = Fitxer de mòdul
+support-third-party-modules-version = Versió del fitxer
+support-third-party-modules-vendor = Informació del proveïdor
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -253,8 +256,8 @@ gpu-device-id = ID del dispositiu
 gpu-subsys-id = ID del subsistema
 gpu-drivers = Controladors
 gpu-ram = RAM
-gpu-driver-vendor = Versió del controlador
-gpu-driver-version = Proveïdor del controlador
+gpu-driver-vendor = Proveïdor del controlador
+gpu-driver-version = Versió del controlador
 gpu-driver-date = Data del controlador
 gpu-active = Activa
 webgl1-extensions = Extensions WebGL 1
