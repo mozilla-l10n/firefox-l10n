@@ -4,11 +4,14 @@
 
 refresh-profile-dialog =
     .title = Restableix el { -brand-short-name } a l'estat inicial
+refresh-profile-dialog-title = Voleu restablir el { -brand-short-name } als paràmetres per defecte?
 refresh-profile-dialog-button =
     .label = Restableix el { -brand-short-name } a l'estat inicial
-refresh-profile-description = Comenceu des de zero per resoldre els problemes i restablir el rendiment.
+refresh-profile-description = Comenceu des de zero per resoldre problemes i restablir el rendiment.
 refresh-profile-description-details = Aquesta operació:
 refresh-profile-remove = Elimina els complements i les personalitzacions
 refresh-profile-restore = Restaura els paràmetres del navegador per defecte
+refresh-profile-dialog-description = Comenceu des de zero per arreglar problemes de rendiment. Això eliminarà les vostres extensions i personalitzacions. No perdreu la informació essencial, com ara les adreces d'interès o les contrasenyes.
 refresh-profile = Poseu a punt el { -brand-short-name }
 refresh-profile-button = Restableix el { -brand-short-name } a l'estat inicial…
+refresh-profile-learn-more = Més informació
