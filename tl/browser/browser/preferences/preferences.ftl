@@ -51,7 +51,6 @@ category-experimental =
     .tooltiptext = Mga { -brand-short-name } Experiment
 pane-experimental-subtitle = Mag-ingat sa Pagpatuloy
 pane-experimental-search-results-header = Mga { -brand-short-name } Experiment: Mag-ingat sa Pagpatuloy
-pane-experimental-description = Ang pagbago sa mga advanced configuration preference ay maaaring makaapekto sa performance o seguridad ng { -brand-short-name }.
 help-button-label = Suporta sa { -brand-short-name }
 addons-button-label = Mga Extension at Tema
 focus-search =
@@ -250,8 +249,8 @@ check-user-spelling =
 files-and-applications-title = Mga File at Application
 download-header = Mga Download
 download-save-to =
-    .label = I-save ang mga file sa
-    .accesskey = v
+    .label = i-Save ang mga file sa
+    .accesskey = S
 download-choose-folder =
     .label =
         { PLATFORM() ->
@@ -280,7 +279,7 @@ applications-action-column =
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension } file
 applications-action-save =
-    .label = I-save ang File
+    .label = i-Save ang File
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =

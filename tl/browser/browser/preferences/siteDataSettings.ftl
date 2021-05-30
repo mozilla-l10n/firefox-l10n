@@ -28,11 +28,11 @@ site-data-button-cancel =
     .label = Kanselahin
     .accesskey = C
 site-data-button-save =
-    .label = I-save ang mga Pagbabago
-    .accesskey = a
+    .label = i-Save ang mga Pagbabago
+    .accesskey = S
 site-data-settings-dialog =
-    .buttonlabelaccept = I-save ang mga Pagbabago
-    .buttonaccesskeyaccept = a
+    .buttonlabelaccept = i-Save ang mga Pagbabago
+    .buttonaccesskeyaccept = S
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")

@@ -14,10 +14,10 @@ blocklist-button-cancel =
     .label = Kanselahin
     .accesskey = C
 blocklist-button-ok =
-    .label = I-save ang mga Pagbabago
+    .label = i-Save ang mga Pagbabago
     .accesskey = S
 blocklist-dialog =
-    .buttonlabelaccept = I-save ang mga Pagbabago
+    .buttonlabelaccept = i-Save ang mga Pagbabago
     .buttonaccesskeyaccept = S
 # This template constructs the name of the block list in the block lists dialog.
 # It combines the list name and description.

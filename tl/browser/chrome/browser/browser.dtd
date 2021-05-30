@@ -224,7 +224,7 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
-<!ENTITY saveToPocketCmd.label        "I-save ang Pahina sa Pocket">
+<!ENTITY saveToPocketCmd.label        "i-Save ang Pahina sa Pocket">
 <!ENTITY pocketMenuitem.label         "Tingnan ang Pocket List">
 
 <!ENTITY emailPageCmd.label           "i-Email ang Link…">

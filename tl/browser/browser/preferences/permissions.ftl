@@ -32,10 +32,10 @@ permissions-button-cancel =
     .label = Kanselahin
     .accesskey = C
 permissions-button-ok =
-    .label = I-save ang mga Pagbabago
+    .label = i-Save ang mga Pagbabago
     .accesskey = S
 permission-dialog =
-    .buttonlabelaccept = I-save ang mga Pagbabago
+    .buttonlabelaccept = i-Save ang mga Pagbabago
     .buttonaccesskeyaccept = S
 permissions-autoplay-menu = Ang default para sa lahat ng mga website:
 permissions-searchbox =
@@ -77,6 +77,9 @@ permissions-exceptions-cookie-window =
     .title = Mga Exception - Mga Cookie at Site Data
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = Maaari mong tukuyin kung aling website ang lagi o hindi mo pahihintulutang gumamit ng mga cookie at site data. I-type ang mismong address ng site na gusto mong i-manage at pindutin ang Harangin, Payagan para sa Session, o Payagan.
+
+## Exceptions - HTTPS-Only Mode
+
 
 ## Exceptions - Pop-ups
 
