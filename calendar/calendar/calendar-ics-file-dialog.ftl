@@ -14,6 +14,20 @@ calendar-ics-file-dialog-message-2 = Importa del fitxer:
 calendar-ics-file-dialog-calendar-menu-label = Importa en el calendari:
 calendar-ics-file-dialog-items-loading-message =
     .value = S'estan carregant els elements…
+calendar-ics-file-dialog-search-input =
+    .placeholder = Filtra elements…
+calendar-ics-file-dialog-sort-start-ascending =
+    .label = Ordena per data d'inici (de primera a última)
+calendar-ics-file-dialog-sort-start-descending =
+    .label = Ordena per data d'inici (d'última a primera)
+# "A > Z" is used as a concise way to say "alphabetical order".
+# You may replace it with something appropriate to your language.
+calendar-ics-file-dialog-sort-title-ascending =
+    .label = Ordena per títol (A > Z)
+# "Z > A" is used as a concise way to say "reverse alphabetical order".
+# You may replace it with something appropriate to your language.
+calendar-ics-file-dialog-sort-title-descending =
+    .label = Ordena per títol (Z > A)
 calendar-ics-file-dialog-progress-message = S'està important…
 calendar-ics-file-import-success = S'ha importat correctament
 calendar-ics-file-import-error = S'ha produït un error i la importació ha fallat.
