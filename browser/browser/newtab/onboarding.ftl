@@ -200,7 +200,6 @@ onboarding-welcome-steps-indicator =
 # automatically added to the text inside it. "look" should stay inside the span.
 onboarding-multistage-theme-header = Trieu una <span data-l10n-name = "zap">aparença</span>
 onboarding-multistage-theme-subtitle = Personalitzeu el { -brand-short-name } amb un tema.
-onboarding-multistage-theme-primary-button-label = Desa el tema
 onboarding-multistage-theme-primary-button-label2 = Fet
 onboarding-multistage-theme-secondary-button-label = Ara no
 # Automatic theme uses operating system color settings
@@ -255,3 +254,37 @@ onboarding-multistage-theme-description-alpenglow =
     .aria-description =
         Utilitza una aparença acolorida per als
         botons, menús i finestres.
+
+## Multistage MR1 onboarding strings (MR1 about:welcome pages)
+
+# This button will open system settings to turn on prefers-reduced-motion
+mr1-onboarding-reduce-motion-button-label = Desactiva les animacions
+
+## Title and primary button strings differ between platforms as they
+## match the OS' application context menu item action where Windows uses "pin"
+## and "taskbar" while macOS "keep" and "Dock" (proper noun).
+
+
+## Multistage MR1 onboarding strings (about:welcome pages)
+
+mr1-onboarding-welcome-header = Us donem la benvinguda al { -brand-short-name }
+mr1-onboarding-set-default-pin-primary-button-label = Fes que el { -brand-short-name } sigui el meu navegador principal
+    .title = Defineix el { -brand-short-name } com a navegador per defecte i el fixa a la barra de taques
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
+mr1-onboarding-set-default-only-primary-button-label = Fes que el { -brand-short-name } sigui el meu navegador per defecte
+mr1-onboarding-set-default-secondary-button-label = Ara no
+mr1-onboarding-sign-in-button-label = Inicia la sessió
+
+## Title, subtitle and primary button string used on set default onboarding screen
+## when Firefox is not default browser
+
+
+## Multistage MR1 onboarding strings (about:welcome pages)
+
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
