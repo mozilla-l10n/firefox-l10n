@@ -295,6 +295,7 @@ mr1-onboarding-sign-in-button-label = Connexion
 ## Title, subtitle and primary button string used on set default onboarding screen
 ## when Firefox is not default browser
 
+mr1-onboarding-default-header = Definir { -brand-short-name } coma navegador per defaut
 mr1-onboarding-default-primary-button-label = Definir coma navegador per defaut
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
