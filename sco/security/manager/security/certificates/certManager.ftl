@@ -207,8 +207,16 @@ verify-email-recip =
 # Cert verification
 cert-not-verified-cert-revoked = Couldnae trystmak this certificate acause it's been makkit no suithfest.
 cert-not-verified-cert-expired = Couldnae trystmak this certificate acause it's oot o date.
+cert-not-verified-cert-not-trusted = Couldnae trystmak this certicate acause it isnae trustit.
+cert-not-verified-issuer-not-trusted = Couldnae trystmak this certicate acause the issuer isnae trustit.
+cert-not-verified-issuer-unknown = Couldnae trystmak this certicate acause the issuer is unkent.
+cert-not-verified-ca-invalid = Couldnae trystmak this certicate acause the CA certificate isnae suithfest.
+cert-not-verified_algorithm-disabled = Couldnae trystmak this certificate acause it wis signed yaisin a signature algorithm that wis disabled acause that algorithm isnae siccar.
+cert-not-verified-unknown = Couldnae trystmak this certificate for unkent reasons.
 # Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
 send-no-client-certificate = Send nae client certificate
+# Used when no cert is stored for an override
+no-cert-stored-for-override = (No Stored)
 
 ## Used to show whether an override is temporary or permanent
 
@@ -217,7 +225,10 @@ temporary-override = Temporar
 
 ## Add Security Exception dialog
 
+add-exception-branded-warning = Ye're aboot tae owerride how { -brand-short-name } identifies this site.
+add-exception-invalid-header = This site ettles fur tae identify itsel with information that isnae suithfest.
 add-exception-domain-mismatch-short = Wrang Site
+add-exception-domain-mismatch-long = The certificate belangs tae anither site, which mebbe means that somebody is ettlin fur tae impersonate this site.
 add-exception-expired-short = Ootdatit Information
 add-exception-valid-short = Suithfest Certificate
 
