@@ -5,6 +5,11 @@
 
 ## Strings used for device manager
 
+devmgr =
+    .title = Device Manager
+    .style = width: 67em; height: 32em;
+devmgr-devlist =
+    .label = Siccarness Modules and Devices
 devmgr-header-details =
     .label = Details
 devmgr-header-value =
@@ -18,14 +23,24 @@ devmgr-button-logout =
 devmgr-button-changepw =
     .label = Chynge Passwird
     .accesskey = P
+devmgr-button-load =
+    .label = Load
+    .accesskey = L
+devmgr-button-unload =
+    .label = Unload
+    .accesskey = U
 devmgr-button-enable-fips =
     .label = Enable FIPS
+    .accesskey = F
+devmgr-button-disable-fips =
+    .label = Disable FIPS
     .accesskey = F
 
 ## Strings used for load device
 
 load-device =
     .title = Load PKCS#11 Device Driver
+load-device-info = Inpit the information fur the module ye're wantin tae eik on.
 load-device-modname =
     .value = Module Nemme
     .accesskey = M
@@ -44,10 +59,16 @@ devinfo-status =
     .label = Status
 devinfo-status-disabled =
     .label = Disabled
+devinfo-status-not-present =
+    .label = No There
+devinfo-status-uninitialized =
+    .label = Uninitialised
 devinfo-status-not-logged-in =
     .label = No Logged In
 devinfo-status-logged-in =
     .label = Logged In
+devinfo-status-ready =
+    .label = Redd
 devinfo-desc =
     .label = Description
 devinfo-man-id =
@@ -56,11 +77,16 @@ devinfo-hwversion =
     .label = HW Version
 devinfo-fwversion =
     .label = FW Version
+devinfo-modname =
+    .label = Module
 devinfo-modpath =
     .label = Path
 login-failed = Couldnae Log In
+devinfo-label =
+    .label = Label
 devinfo-serialnum =
     .label = Serial Nummer
+fips-nonempty-password-required = FIPS mode needs ye tae hae a Maister Passwird set fur ilka siccarness device. Gonnae set the passwird afore ettlin tae enable FIPS mode.
 add-module-failure = No able tae eik on module
 del-module-warning = Are ye shair ye're wantin tae dicht this siccarness module?
 del-module-error = No able tae dicht module

@@ -230,8 +230,22 @@ add-exception-invalid-header = This site ettles fur tae identify itsel with info
 add-exception-domain-mismatch-short = Wrang Site
 add-exception-domain-mismatch-long = The certificate belangs tae anither site, which mebbe means that somebody is ettlin fur tae impersonate this site.
 add-exception-expired-short = Ootdatit Information
+add-exception-expired-long = The certificate isnae suithfest richt noo. It micht hae been pauchelt or tint, and could be yaised by somebody fur tae impersonate this site.
+add-exception-unverified-or-bad-signature-short = Unkent Identity
+add-exception-unverified-or-bad-signature-long = The certificate isnae trustit acause it hasnae been trystmakkit as issued by a trustit authority yaisin a siccar signature.
 add-exception-valid-short = Suithfest Certificate
+add-exception-valid-long = This site gies oot suithfest, trystmakkit identification.  There's nae need tae eik on an exception.
+add-exception-checking-short = Checkin Information
+add-exception-checking-long = Ettlin fur tae identify this site…
+add-exception-no-cert-short = Nae Information Available
+add-exception-no-cert-long = No able tae get identification status fur this site.
 
 ## Certificate export "Save as" and error dialogs
 
+save-cert-as = Save Certificate Tae File
+cert-format-base64 = X.509 Certificate (PEM)
+cert-format-base64-chain = X.509 Certificate wi chyne (PEM)
+cert-format-der = X.509 Certificate (DER)
+cert-format-pkcs7 = X.509 Certificate (PKCS#7)
+cert-format-pkcs7-chain = X.509 Certificate wi chyne (PKCS#7)
 write-file-failure = File Mishanter
