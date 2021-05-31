@@ -160,3 +160,9 @@ many-public-recipients-bcc =
 many-public-recipients-ignore =
     .label = A címzettek legyenek nyilvánosak
     .accesskey = l
+
+## Notifications
+
+# Variables:
+# $identity (string) - The name of the used identity, most likely an email address.
+compose-missing-identity-warning = Nem található egyedi személyazonosság, amely egyezik a feladó címével. Az üzenete a jelenlegi Feladó mező, és a(z) { $identity } személyazonosság beállításaival lesz elküldve.

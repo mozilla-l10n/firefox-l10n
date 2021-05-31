@@ -141,29 +141,67 @@ account-setup-exchange-config-unverifiable = A konfigurációt nem lehetett mege
 ## Manual configuration area
 
 account-setup-manual-config-title = Kiszolgáló beállításai
+account-setup-incoming-server-legend = Bejövő kiszolgáló
+account-setup-protocol-label = Protokoll:
 protocol-imap-option = { account-setup-result-imap }
 protocol-pop-option = { account-setup-result-pop }
+protocol-exchange-option = { account-setup-result-exchange }
+account-setup-hostname-label = Gépnév:
+account-setup-port-label = Port:
+    .title = Az automatikus észleléshez állítsa 0-ra a portszámot
+account-setup-auto-description = A { -brand-short-name } megpróbálja automatikusan észlelni az üresen hagyott mezőket.
+account-setup-ssl-label = Kapcsolat biztonsága:
+account-setup-outgoing-server-legend = Kimenő kiszolgáló
 
 ## Incoming/Outgoing SSL Authentication options
 
 ssl-autodetect-option = Automatikus felismerés
+ssl-no-authentication-option = Nincs hitelesítés
+ssl-cleartext-password-option = Normál jelszó
+ssl-encrypted-password-option = Titkosított jelszó
 
 ## Incoming/Outgoing SSL options
 
 ssl-noencryption-option = Egyik sem
+account-setup-auth-label = Hitelesítési módszer:
+account-setup-username-label = Felhasználónév:
 account-setup-advanced-setup-button = Speciális beállítások
     .accesskey = S
 
 ## Warning insecure server dialog
 
+account-setup-insecure-title = Vigyázat!
+account-setup-insecure-incoming-title = Bejövő beállítások:
+account-setup-insecure-outgoing-title = Kimenő beállítások:
+# Variables:
+#  $server (String): The name of the hostname of the server the user was trying to connect to.
+account-setup-warning-cleartext = A(z) <b>{ $server }</b> nem használ titkosítást.
+account-setup-warning-cleartext-details = A nem biztonságos levelezőkiszolgálók nem használnak titkosított kapcsolatokat a jelszavak és a privát információk védelme érdekében. Ha ilyen kiszolgálóhoz kapcsolódik, a jelszava és privát információi kiderülhetnek.
 account-setup-insecure-server-checkbox = Megértettem a kockázatokat
     .accesskey = k
+account-setup-insecure-description = A { -brand-short-name } megengedi a levelezést ezzel a konfigurációval. Ennek ellenére kérjük, forduljon a rendszergazdájához vagy az e-mail szolgáltatójához, és hívja fel a figyelmét ezekre a helytelen kapcsolatokra. További részletekért lásd a <a data-l10n-name="thunderbird-faq-link">Thunderbird GYIK</a> dokumentumot.
+insecure-dialog-cancel-button = Beállítások módosítása
+    .accesskey = B
+insecure-dialog-confirm-button = Megerősítés
+    .accesskey = M
 
 ## Warning Exchange confirmation dialog
 
+# Variables:
+#  $domain (String): The name of the server where the configuration was found, e.g. rackspace.com.
+exchange-dialog-question = A { -brand-short-name } megtalálta a fiókinformációit ehhez: { $domain }. Folytatja és elküldi a hitelesítő adatait?
+exchange-dialog-confirm-button = Bejelentkezés
+exchange-dialog-cancel-button = Mégse
 
 ## Alert dialogs
 
+account-setup-creation-error-title = Hiba a fiók létrehozásakor
+account-setup-error-server-exists = Már van bejövő kiszolgáló.
+account-setup-confirm-advanced-title = Speciális beállítások megerősítése
+account-setup-confirm-advanced-description = Ez a párbeszédpanel bezáródik, és létrejön egy fiók a jelenlegi beállításokkal, még akkor is, ha a konfiguráció hibás. Folytatja?
 
 ## Addon installation section
 
+account-setup-addon-install-title = Telepítés
+account-setup-addon-install-intro = Egy harmadik féltől származó kiegészítővel hozzáférhet az e-mail fiókjához ezen a kiszolgálón:
+account-setup-addon-no-protocol = Ez az e-mail-kiszolgáló sajnos nem támogatja a nyílt protokollokat. { account-setup-addon-install-intro }
