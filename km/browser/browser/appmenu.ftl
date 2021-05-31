@@ -22,14 +22,10 @@ appmenuitem-find-in-page =
     .label = ស្វែងរកក្នុងទំព័រ…
 appmenuitem-more-tools =
     .label = ឧបករណ៍ច្រើនទៀត
-appmenuitem-exit =
-    .label = ចេញ
-appmenu-menu-button-closed =
-    .tooltiptext = បើកម៉ឺនុយពាក្យសុំ
-    .label = { -brand-shorter-name }
-appmenu-menu-button-opened =
-    .tooltiptext = បិទបញ្ជីពាក្យស្នើសុំ
-    .label = { -brand-shorter-name }
+# Settings is now used to access the browser settings across all platforms,
+# instead of Options or Preferences.
+appmenuitem-settings =
+    .label = ការកំណត់
 
 ## Zoom and Fullscreen Controls
 
@@ -44,16 +40,29 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = ធ្វើ​សមកាលកម្ម​ឥឡូវ
+appmenu-remote-tabs-sign-into-sync =
+    .label = ចូល​ដើម្បី​ធ្វើ​សមកាលកម្ម…
+appmenu-remote-tabs-turn-on-sync =
+    .label = បើកសមកាលកម្ម...
+appmenuitem-fxa-toolbar-sync-now2 = ធ្វើសមកាលកម្មឥឡូវនេះ
+appmenuitem-fxa-manage-account = គ្រប់គ្រង​គណនី
+appmenu-fxa-signed-in-label = ចូល
 appmenuitem-save-page =
     .label = រក្សា​ទុក​ទំព័រជា...
 
 ## What's New panel in App menu.
 
+whatsnew-panel-header = អ្វីដែលថ្មី
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
 ## "Enable Profiler Menu Button".
 
+profiler-popup-learn-more = ស្វែងយល់បន្ថែម
+profiler-popup-settings =
+    .value = ការកំណត់
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings = កែសម្រួួលការកំណត់…
 
 ## History panel
 
