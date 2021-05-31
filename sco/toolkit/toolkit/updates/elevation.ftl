@@ -15,3 +15,8 @@ elevation-finished-background-page =
     A siccarness and stieveness update fur { -brand-short-name } has been
     doonloadit and is ready tae be instawed.
 elevation-finished-background = Update:
+elevation-more-elevated =
+    This update needs admeenistrator preevileges. The update will be
+    instawed the next time { -brand-short-name } sterts. Ye can restert
+    { -brand-short-name } the noo, haud forrit wirkin and restert efter, or turn doon this
+    update.

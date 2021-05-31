@@ -32,12 +32,42 @@ upgrade-dialog-new-secondary-button = No jist noo
 # theme selection screen.
 upgrade-dialog-new-primary-win7-button = Awricht, got ye!
 
+## Pin Firefox screen
+##
+## These title, subtitle and button strings differ between platforms as they
+## match the OS' application context menu item action where Windows uses "pin"
+## and "taskbar" while macOS "keep" and "Dock" (proper noun).
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-pin-title =
+    { PLATFORM() ->
+        [macos] Keep { -brand-short-name } in yer Dock
+       *[other] Peen { -brand-short-name } tae yer taskbaur
+    }
+# The English macOS string avoids repeating "Keep" a third time, so if your
+# translations don't repeat anyway, the same string can be used cross-platform.
+upgrade-dialog-pin-subtitle =
+    { PLATFORM() ->
+        [macos] Get easy ingang tae the freshest { -brand-short-name } yet.
+       *[other] Keep the freshest { -brand-short-name } yet tae haun.
+    }
+upgrade-dialog-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Keep in Dock
+       *[other] Peen tae taskbaur
+    }
+upgrade-dialog-pin-secondary-button = No jist noo
+
 ## Default browser screen
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-default-title = Mak { -brand-short-name } yer staunart wab-stravaiger?
 upgrade-dialog-default-subtitle = Get speed, siccarness and preevacy onie time ye stravaig.
 upgrade-dialog-default-primary-button = Set as staunart wab-stravaiger
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title-2 = Mak { -brand-short-name } yer staunart
+upgrade-dialog-default-subtitle-2 = Pit speed, siccarness, and preevacy on autopilot.
+upgrade-dialog-default-primary-button-2 = Mak staunart wab-stravaiger
 upgrade-dialog-default-secondary-button = No Jist Noo
 
 ## Theme selection screen
@@ -46,6 +76,8 @@ upgrade-dialog-default-secondary-button = No Jist Noo
 upgrade-dialog-theme-title =
     Get a clean stert
     wi an updatit theme
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-theme-title-2 = Get a clean stert wi a nacketie theme
 upgrade-dialog-theme-system = Seestem theme
     .title = Follae the operatin seestem theme fur buttons, menus, and windaes
 upgrade-dialog-theme-light = Licht

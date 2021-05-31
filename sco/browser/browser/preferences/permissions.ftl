@@ -18,6 +18,12 @@ permissions-session =
 permissions-allow =
     .label = Alloo
     .accesskey = A
+permissions-button-off =
+    .label = Turn Aff
+    .accesskey = A
+permissions-button-off-temporarily =
+    .label = Turn Aff Fur Noo
+    .accesskey = T
 permissions-site-name =
     .label = Wabsite
 permissions-status =
@@ -58,6 +64,10 @@ permissions-capabilities-listitem-block =
     .value = Block
 permissions-capabilities-listitem-allow-session =
     .value = Alloo for Session
+permissions-capabilities-listitem-off =
+    .value = Aff
+permissions-capabilities-listitem-off-temporarily =
+    .value = Aff fur noo
 
 ## Invalid Hostname Dialog
 
@@ -77,6 +87,13 @@ permissions-exceptions-cookie-window =
     .title = Exceptions - Cookies and Site Data
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = Ye can set oot whit wabsites are ayeweys or nivver allooed tae yaise cookies and site data.  Type the exact address o the site ye want tae manage and then click Block, Alloo fur Session, or Alloo.
+
+## Exceptions - HTTPS-Only Mode
+
+permissions-exceptions-https-only-window =
+    .title = Exceptions - HTTPS-Anely Mode
+    .style = { permissions-window.style }
+permissions-exceptions-https-only-desc = Ye can turn aff HTTPS-Anely Mode fur specific wabsites. { -brand-short-name } willnae ettle tae upgrade the connection tae siccar HTTPS fur thae sites. Exceptions dinnae apply tae preevat windaes.
 
 ## Exceptions - Pop-ups
 
