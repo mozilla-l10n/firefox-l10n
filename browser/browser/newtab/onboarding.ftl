@@ -308,6 +308,7 @@ mr1-onboarding-sign-in-button-label = Bejelentkezés
 ## when Firefox is not default browser
 
 mr1-onboarding-default-header = A { -brand-short-name } alapértelmezetté tétele
+mr1-onboarding-default-subtitle = Tegye robotpilótára a sebességet, a biztonságot és az adatvédelmet
 mr1-onboarding-default-primary-button-label = Alapértelmezett böngészővé tétel
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
