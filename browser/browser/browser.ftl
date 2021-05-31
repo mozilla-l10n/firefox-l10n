@@ -181,8 +181,6 @@ page-action-send-tabs-urlbar =
             [one] Envoyer l’onglet à un appareil
            *[other] Envoyer { $tabCount } onglets à un appareil
         }
-page-action-pocket-panel =
-    .label = Enregistrer la page dans { -pocket-brand-name }
 page-action-copy-url-panel =
     .label = Copier le lien
 page-action-copy-url-urlbar =
@@ -514,6 +512,11 @@ urlbar-placeholder-with-name =
     .placeholder = Rechercher avec { $name } ou saisir une adresse
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Le navigateur est contrôlé à distance
+# Variables
+#  $component (String): the name of the component which forces remote control.
+#    Example: "DevTools", "Marionette", "RemoteAgent".
+urlbar-remote-control-notification-anchor2 =
+    .tooltiptext = Le navigateur est sous contrôle à distance (raison : { $component })
 urlbar-permissions-granted =
     .tooltiptext = Vous avez accordé des permissions supplémentaires à ce site web.
 urlbar-switch-to-tab =
@@ -610,8 +613,6 @@ crashed-subframe-submit =
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = Afficher tous les marque-pages
 bookmarks-manage-bookmarks =
     .label = Organiser les marque-pages
 bookmarks-recent-bookmarks-panel-subheader = Marque-pages récents
