@@ -340,6 +340,7 @@ can-sandbox-content = Sandboxing διεργασίας περιεχομένου
 can-sandbox-media = Sandboxing αρθρώματος πολυμέσων
 content-sandbox-level = Επίπεδο sandbox διεργασίας περιεχομένου
 effective-content-sandbox-level = Αποτελεσματικό επίπεδο επεξεργασίας περιεχομένου sandbox
+content-win32k-lockdown-state = Κατάσταση κλειδώματος Win32k για διεργασία περιεχομένου
 sandbox-proc-type-content = περιεχόμενο
 sandbox-proc-type-file = περιεχόμενο αρχείου
 sandbox-proc-type-media-plugin = άρθρωμα πολυμέσων

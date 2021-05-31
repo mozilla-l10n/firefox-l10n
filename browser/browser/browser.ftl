@@ -47,14 +47,14 @@ browser-main-window-title = { -brand-full-name }
 ##
 
 urlbar-identity-button =
-    .aria-label = Πληροφορίες ιστοσελίδας
+    .aria-label = Προβολή πληροφοριών ιστοσελίδας
 
 ## Tooltips for images appearing in the address bar
 
 urlbar-services-notification-anchor =
     .tooltiptext = Άνοιγμα πλαισίου μηνυμάτων εγκατάστασης
 urlbar-web-notification-anchor =
-    .tooltiptext = Αλλαγή του αν θα λαμβάνετε ειδοποιήσεις από τον ιστοτόπο
+    .tooltiptext = Επιλέξτε εάν θέλετε να λαμβάνετε ειδοποιήσεις από τον ιστότοπο
 urlbar-midi-notification-anchor =
     .tooltiptext = Άνοιγμα πίνακα MIDI
 urlbar-eme-notification-anchor =
@@ -181,8 +181,6 @@ page-action-send-tabs-urlbar =
             [one] Αποστολή καρτέλας σε συσκευή
            *[other] Αποστολή { $tabCount } καρτελών σε συσκευή
         }
-page-action-pocket-panel =
-    .label = Αποθήκευση σελίδας στο { -pocket-brand-name }
 page-action-copy-url-panel =
     .label = Αντιγραφή συνδέσμου
 page-action-copy-url-urlbar =
@@ -511,6 +509,11 @@ urlbar-placeholder-with-name =
     .placeholder = Αναζήτηση με { $name } ή εισαγωγή διεύθυνσης
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Το πρόγραμμα περιήγησης ελέγχεται απομακρυσμένα
+# Variables
+#  $component (String): the name of the component which forces remote control.
+#    Example: "DevTools", "Marionette", "RemoteAgent".
+urlbar-remote-control-notification-anchor2 =
+    .tooltiptext = Ο φυλλομετρητής βρίσκεται υπό απομακρυσμένο έλεγχο (αιτία: { $component })
 urlbar-permissions-granted =
     .tooltiptext = Έχετε χορηγήσει πρόσθετα δικαιώματα σε αυτή την ιστοσελίδα.
 urlbar-switch-to-tab =
@@ -607,8 +610,6 @@ crashed-subframe-submit =
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = Προβολή όλων των σελιδοδεικτών
 bookmarks-manage-bookmarks =
     .label = Διαχείριση σελιδοδεικτών
 bookmarks-recent-bookmarks-panel-subheader = Πρόσφατοι σελιδοδείκτες
