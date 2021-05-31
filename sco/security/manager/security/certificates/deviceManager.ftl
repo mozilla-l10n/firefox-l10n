@@ -87,6 +87,15 @@ devinfo-label =
 devinfo-serialnum =
     .label = Serial Nummer
 fips-nonempty-password-required = FIPS mode needs ye tae hae a Maister Passwird set fur ilka siccarness device. Gonnae set the passwird afore ettlin tae enable FIPS mode.
+fips-nonempty-primary-password-required = FIPS mode needs ye tae hae a Primary Passwird set fur ilka siccarness device. Gonnae set the passwird afore ettlin tae enable FIPS mode.
+unable-to-toggle-fips = No able tae chynge the FIPS mode fur the siccarness device. It;s recommendit that ye ootgang fae this application and restert it.
+load-pk11-module-file-picker-title = Wale a PKCS#11 device driver tae load
+# Load Module Dialog
+load-module-help-empty-module-name =
+    .value = The module nemme cannae be tuim.
+# Do not translate 'Root Certs'
+load-module-help-root-certs-module-name =
+    .value = ‘Root Certs‘ is reserved and cannae be yaised as the module nemme.
 add-module-failure = No able tae eik on module
 del-module-warning = Are ye shair ye're wantin tae dicht this siccarness module?
 del-module-error = No able tae dicht module
