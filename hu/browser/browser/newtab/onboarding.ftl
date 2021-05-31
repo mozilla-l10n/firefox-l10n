@@ -267,15 +267,51 @@ onboarding-multistage-theme-description-alpenglow =
 mr1-welcome-screen-hero-text = A tűz itt kezdődik
 # Caption for background image in about:welcome. "Soraya Osorio" is the name
 # of the person and shouldn't be translated.
+# In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
+# You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = Soraya Osorio – Bútortevező, Firefox rajongó
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Animációk kikapcsolása
+
+## Title and primary button strings differ between platforms as they
+## match the OS' application context menu item action where Windows uses "pin"
+## and "taskbar" while macOS "keep" and "Dock" (proper noun).
+
+# Title used on welcome page when Firefox is not pinned
+mr1-onboarding-pin-header =
+    { PLATFORM() ->
+        [macos] A könnyű hozzáférés érdekében tartsa a { -brand-short-name } a Dokkon
+       *[other] A könnyű hozzáférés érdekében rögzítse a { -brand-short-name } címet a tálcára
+    }
+# Primary button string used on welcome page when Firefox is not pinned.
+mr1-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Hozzáadás a Dokkhoz
+       *[other] Rögzítés a tálcára
+    }
+
+## Multistage MR1 onboarding strings (about:welcome pages)
+
+# This string will be used on welcome page primary button label
+# when Firefox is both pinned and default
+mr1-onboarding-get-started-primary-button-label = Kezdő lépések
 mr1-onboarding-welcome-header = Üdvözli a { -brand-short-name }
 mr1-onboarding-set-default-pin-primary-button-label = A { -brand-short-name } elsődleges böngészővé tétele
     .title = Beállítja elsődleges böngészőként a { -brand-short-name }ot, és kitűzi a tálcára
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
 mr1-onboarding-set-default-only-primary-button-label = A { -brand-short-name } alapértelmezett böngészővé tétele
 mr1-onboarding-set-default-secondary-button-label = Most nem
 mr1-onboarding-sign-in-button-label = Bejelentkezés
+
+## Title, subtitle and primary button string used on set default onboarding screen
+## when Firefox is not default browser
+
+mr1-onboarding-default-header = A { -brand-short-name } alapértelmezetté tétele
+mr1-onboarding-default-primary-button-label = Alapértelmezett böngészővé tétel
+
+## Multistage MR1 onboarding strings (about:welcome pages)
+
 mr1-onboarding-import-header = Hozzon mindent magával
 mr1-onboarding-import-subtitle = Importálja jelszavait, <br/>könyvjelzőit és még sok mást.
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
