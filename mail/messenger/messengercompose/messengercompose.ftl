@@ -115,6 +115,8 @@ move-attachment-last-panel-button =
 button-return-receipt =
     .label = Accusé de réception
     .tooltiptext = Demander un accusé de réception pour ce message
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+consider-bcc-notification = Les { $count } destinataires dans les zones Pour et Copie à peuvent voir les adresses des autres destinataires. Vous pouvez éviter de divulguer ces adresses en utilisant la Copie cachée.
 
 # Addressing Area
 
@@ -149,10 +151,13 @@ bcc-compose-show-address-row-label =
     .value = { bcc-compose-address-row-label.value }
     .tooltiptext = Afficher le champ { bcc-compose-address-row-label.value } ({ bcc-compose-show-address-row-menuitem.acceltext })
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
-consider-bcc-notification = Les { $count } destinataires dans les zones Pour et Copie à peuvent voir les adresses des autres destinataires. Vous pouvez éviter de divulguer ces adresses en utilisant la Copie cachée.
+many-public-recipients-info = Les { $count } destinataires en « Pour » et « Copie à » verront les adresses des autres. Vous pouvez éviter de révéler les destinataires en utilisant plutôt « Copie cachée à ».
 many-public-recipients-bcc =
     .label = Utiliser plutôt la Copie cachée
     .accesskey = U
 many-public-recipients-ignore =
     .label = Garder les destinataires publics
     .accesskey = G
+
+## Notifications
+
