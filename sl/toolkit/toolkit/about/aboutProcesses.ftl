@@ -159,7 +159,7 @@ about-processes-cpu-user-and-kernel-not-ready = (merjenje)
 about-processes-cpu-user-and-kernel-idle = nedejavno ({ NUMBER($total, maximumFractionDigits: 2) } { $unit })
 # Special case: process or thread is currently idle.
 about-processes-cpu-idle = nedejavno
-    .title = Skupen čas CPR: { NUMBER($total, maximumFractionDigits: 2) } { $unit }
+    .title = Skupen čas CPE: { NUMBER($total, maximumFractionDigits: 2) } { $unit }
 
 ## Displaying Memory (total and delta)
 ## Variables:
