@@ -24,6 +24,8 @@ about-addressbook-books-context-properties =
     .label = Tulajdonságok
 about-addressbook-books-context-synchronize =
     .label = Szinkronizálás
+about-addressbook-books-context-print =
+    .label = Nyomtatás…
 about-addressbook-books-context-delete =
     .label = Törlés
 
