@@ -1,0 +1,20 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  pref.history.title                "Zgodovina">
+
+<!ENTITY  pref.history.caption              "Zgodovina brskanja">
+<!ENTITY  historyPages.label                "Zgodovina je seznam strani, ki ste jih kdaj obiskali.">
+<!ENTITY  clearHistory.label                "Počisti zgodovino">
+<!ENTITY  clearHistory.accesskey            "č">
+
+<!ENTITY  locationBarHistory.caption        "Zgodovina naslovne vrstice">
+<!ENTITY  urlBarHistoryEnabled.caption      "Omogoči zgodovino naslovne vrstice">
+<!ENTITY  urlBarHistoryEnabled.accesskey    "O">
+<!ENTITY  formfillHistory.caption           "Zgodovina obrazcev in iskanja">
+<!ENTITY  enableFormfill.label              "Omogoči zgodovino obrazcev in iskanja">
+<!ENTITY  enableFormfill.accesskey          "i">
+<!ENTITY  formfillExpire.label              "Ohrani zgodovino obrazcev in iskanja">
+<!ENTITY  formfillExpire.accesskey          "h">
+<!ENTITY  formfillDays.label                "dni">

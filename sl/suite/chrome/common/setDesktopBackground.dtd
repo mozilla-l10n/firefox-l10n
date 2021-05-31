@@ -1,0 +1,19 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY setDesktopBackground.title "Nastavi ozadje namizja">
+
+<!ENTITY position.label             "Položaj:">
+<!ENTITY position.accesskey         "P">
+<!ENTITY position.tile.label        "Razpostavi">
+<!ENTITY position.stretch.label     "Raztegni">
+<!ENTITY position.center.label      "Na sredino">
+<!ENTITY position.fill.label        "Zapolni">
+<!ENTITY position.fit.label         "Prilagodi">
+<!ENTITY picker.label               "Barva:">
+<!ENTITY picker.accesskey           "B">
+<!ENTITY preview.caption            "Predogled">
+<!ENTITY apply.label                "Uporabi">
+<!ENTITY apply.accesskey            "U">
+<!ENTITY close.label                "Zapri">
