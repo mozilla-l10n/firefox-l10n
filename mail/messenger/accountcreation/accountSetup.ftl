@@ -20,7 +20,6 @@ account-setup-name-input =
     .placeholder = Jan Jansen
 account-setup-name-info-icon =
     .title = Uw naam, zoals getoond aan anderen
-account-setup-name-warning = Voer uw naam in
 account-setup-name-warning-icon =
     .title = { account-setup-name-warning }
 account-setup-email-label = E-mailadres
@@ -29,7 +28,6 @@ account-setup-email-input =
     .placeholder = jan.jansen@voorbeeld.com
 account-setup-email-info-icon =
     .title = Uw bestaande e-mailadres
-account-setup-email-warning = Ongeldig e-mailadres
 account-setup-email-warning-icon =
     .title = { account-setup-email-warning }
 account-setup-password-label = Wachtwoord
@@ -122,6 +120,15 @@ account-setup-incoming-title = Inkomend
 account-setup-outgoing-title = Uitgaand
 account-setup-username-title = Gebruikersnaam
 account-setup-exchange-title = Server
+account-setup-result-smtp = SMTP
+account-setup-result-no-encryption = Geen versleuteling
+account-setup-result-ssl = SSL/TLS
+account-setup-result-starttls = STARTTLS
+account-setup-result-outgoing-existing = Bestaande uitgaande (SMTP-)server gebruiken
+# Variables:
+#  $incoming (String): The email/username used to log into the incoming server
+#  $outgoing (String): The email/username used to log into the outgoing server
+account-setup-result-username-different = Inkomend: { $incoming }, uitgaand: { $outgoing }
 
 ## Error messages
 
@@ -131,32 +138,66 @@ account-setup-credentials-wrong = Authenticatie mislukt. Controleer de gebruiker
 account-setup-find-settings-failed = { -brand-short-name } kan de instellingen voor uw e-mailaccount niet vinden
 account-setup-exchange-config-unverifiable = Configuratie kan niet worden geverifieerd. Als uw gebruikersnaam en wachtwoord juist zijn, heeft de serverbeheerder waarschijnlijk de geselecteerde configuratie voor uw account uitgeschakeld. Probeer een ander protocol te selecteren.
 
-## Manual config area
+## Manual configuration area
 
 account-setup-manual-config-title = Serverinstellingen
-account-setup-incoming-protocol-label = Inkomend protocol
+account-setup-incoming-server-legend = Inkomende server
+account-setup-protocol-label = Protocol:
 protocol-imap-option = { account-setup-result-imap }
 protocol-pop-option = { account-setup-result-pop }
-account-setup-outgoing-protocol-label = Uitgaand protocol
-outgoing-protocol = SMTP
-account-setup-incoming-server-label = Inkomende server
-account-setup-outgoing-server-label = Uitgaande server
-account-setup-incoming-port-label = Inkomende poort
-account-setup-outoing-port-label = Uitgaande poort
-account-setup-incoming-ssl-label = Inkomende SSL
-account-setup-outgoing-ssl-label = Uitgaande SSL
+protocol-exchange-option = { account-setup-result-exchange }
+account-setup-hostname-label = Hostnaam:
+account-setup-port-label = Poort:
+    .title = Stel het poortnummer in op 0 voor autodetectie
+account-setup-auto-description = { -brand-short-name } probeert velden die leeg zijn gelaten automatisch te detecteren.
+account-setup-ssl-label = Verbindingsbeveiliging:
+account-setup-outgoing-server-legend = Uitgaande server
+
+## Incoming/Outgoing SSL Authentication options
+
 ssl-autodetect-option = Autodetectie
+ssl-no-authentication-option = Geen authenticatie
+ssl-cleartext-password-option = Normaal wachtwoord
+ssl-encrypted-password-option = Versleuteld wachtwoord
+
+## Incoming/Outgoing SSL options
+
 ssl-noencryption-option = Geen
-ssl-starttls-option = STARTTLS
-ssl-tls-option = SSL/TLS
-account-setup-incoming-auth-label = Inkomende authenticatie
-account-setup-outgoing-auth-label = Uitgaande authenticatie
-account-setup-incoming-username-label = Inkomende gebruikersnaam
-account-setup-outgoing-username-label = Uitgaande gebruikersnaam
+account-setup-auth-label = Authenticatiemethode:
+account-setup-username-label = Gebruikersnaam:
 account-setup-advanced-setup-button = Uitgebreide configuratie
     .accesskey = U
 
-## Warning insecure server
+## Warning insecure server dialog
 
+account-setup-insecure-title = Waarschuwing!
+account-setup-insecure-incoming-title = Instellingen inkomend:
+account-setup-insecure-outgoing-title = Instellingen uitgaand:
+# Variables:
+#  $server (String): The name of the hostname of the server the user was trying to connect to.
+account-setup-warning-cleartext = <b>{ $server }</b> gebruikt geen versleuteling.
+account-setup-warning-cleartext-details = Niet-beveiligde mailservers gebruiken geen versleutelde verbindingen om uw wachtwoorden en privégegevens te beschermen. Door verbinding te maken met deze server kunt u uw wachtwoorden en privégegevens onthullen.
 account-setup-insecure-server-checkbox = Ik begrijp de risico’s
     .accesskey = b
+account-setup-insecure-description = { -brand-short-name } kan u toegang tot uw e-mail geven met de opgegeven configuratie. U zou echter contact moeten opnemen met uw systeembeheerder of e-mailprovider vanwege deze onjuiste verbindingen. Zie de <a data-l10n-name="thunderbird-faq-link">Thunderbird-FAQ</a> voor meer informatie.
+insecure-dialog-cancel-button = Instellingen wijzigen
+    .accesskey = I
+insecure-dialog-confirm-button = Bevestigen
+    .accesskey = B
+
+## Warning Exchange confirmation dialog
+
+# Variables:
+#  $domain (String): The name of the server where the configuration was found, e.g. rackspace.com.
+exchange-dialog-question = { -brand-short-name } heeft uw accountinstellingen op { $domain } gevonden. Wilt u doorgaan en uw aanmeldgegevens versturen?
+exchange-dialog-confirm-button = Aanmelden
+exchange-dialog-cancel-button = Annuleren
+
+## Alert dialogs
+
+account-setup-creation-error-title = Fout bij aanmaken van account
+account-setup-error-server-exists = Inkomende server bestaat al.
+account-setup-confirm-advanced-title = Uitgebreide configuratie bevestigen
+
+## Addon installation section
+
