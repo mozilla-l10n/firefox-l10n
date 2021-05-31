@@ -1,0 +1,21 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- extracted from content/pref-media.xul -->
+
+<!-- LOCALIZATION NOTE : FILE Media management prefs -->
+<!ENTITY pref.media.title               "Predstavnost">
+<!ENTITY mediaHTML5Preferences.label    "Zvok/video">
+<!ENTITY allowMediaAutoplay.label       "Omogoči samodejno predvajanje predstavnostne vsebine HTML5">
+<!ENTITY allowMediaAutoplay.accesskey   "a">
+
+<!ENTITY enableDrmMedia.label           "Omogoči upravljanje digitalnih pravic (DRM) za">
+
+<!ENTITY animLoopingTitle.label         "Animirane slike naj se ponavljajo">
+<!ENTITY animLoopAsSpecified.label      "tolikokrat, kot določa slika">
+<!ENTITY animLoopAsSpecified.accesskey  "k">
+<!ENTITY animLoopOnce.label             "enkrat">
+<!ENTITY animLoopOnce.accesskey         "e">
+<!ENTITY animLoopNever.label            "nikoli">
+<!ENTITY animLoopNever.accesskey        "n">

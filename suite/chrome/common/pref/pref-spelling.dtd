@@ -1,0 +1,20 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+   
+<!ENTITY prefSpelling.title                   "Črkovanje">
+<!ENTITY generalSpelling.label                "Splošno">
+<!ENTITY checkSpellingWhenTyping.label        "Med tipkanjem preverjaj črkovanje:">
+<!ENTITY checkSpellingWhenTyping.accesskey    "v">
+<!ENTITY dontCheckSpelling.label              "nikoli">
+<!ENTITY multilineCheckSpelling.label         "v poljih z več vrsticami">
+<!ENTITY alwaysCheckSpelling.label            "v vseh poljih">
+<!ENTITY spellForMailAndNews.label            "Pošta in novičarske skupine">
+<!ENTITY checkSpellingBeforeSend.label        "Pred pošiljanjem preveri črkovanje">
+<!ENTITY checkSpellingBeforeSend.accesskey    "P">
+<!ENTITY spellCheckInline.label               "Preverjaj črkovanje med tipkanjem">
+<!ENTITY spellCheckInline.accesskey           "t">
+<!ENTITY languagePopup.label                  "Jezik:">
+<!ENTITY languagePopup.accessKey              "J">
+<!ENTITY moreDictionaries.label               "Prenesi dodatne slovarje &#x2026;">
+<!ENTITY noSpellCheckAvailable.label          "Ni razpoložljivih slovarjev.">
