@@ -130,6 +130,9 @@ pk11-bad-password = The passwird inpit wisnae richt.
 pkcs12-decode-err = Couldnae decode the file. Either it's no in PKCS #12 format, has been camshauchlet, or the passwird ye inpit wisnae richt.
 pkcs12-unknown-err-restore = Couldnae restore the PKCS #12 file for unkent reasons.
 pkcs12-unknown-err-backup = Couldnae mak the PKCS #12 backup file for unkent reasons.
+pkcs12-unknown-err = The PKCS #12 operation didnae wirk for unkent reasons.
+pkcs12-info-no-smartcard-backup = It isnae possible tae back up certificates fae a haurdware siccarness device sic as a smairt caird.
+pkcs12-dup-data = The certificate and preevat key awready exist on the siccarness device.
 
 ## PKCS#12 file dialogs
 
@@ -140,18 +143,37 @@ choose-p12-restore-file-dialog = Certificate File tae Inbring
 ## Import certificate(s) file dialog
 
 file-browse-certificate-spec = Certificate Files
+import-ca-certs-prompt = Wale File conteenin CA certificate(s) fur tae inbring
+import-email-cert-prompt = Wale File conteenin somebody's Email certificate fur tae inbring
 
 ## For editing certificates trust
 
+# Variables:
+#   $certName: the name of certificate
+edit-trust-ca = The certificate “{ $certName }” represents a Certificate Authority.
 
 ## For Deleting Certificates
 
 delete-user-cert-title =
     .title = Dicht yer Certificates
 delete-user-cert-confirm = Are ye shair ye're wantin tae dicht these certificates?
+delete-user-cert-impact = If ye dicht yin o yer ain certificates, ye cannae yaise it tae identify yersel onie mair.
+delete-ssl-cert-title =
+    .title = Dicht Server Certificate Exceptions
+delete-ssl-cert-confirm = Are you sure ye're wantin tae dicht these server exceptions?
+delete-ssl-cert-impact = If ye dicht a server exception, ye restore the ordinar siccarness checks fur thon server and require it tae yaise a suithfest certificate.
+delete-ssl-override-title =
+    .title = Dicht Server Certificate Exception
+delete-ssl-override-confirm = Are you sure ye're wantin tae dicht this server exception?
+delete-ssl-override-impact = If ye dicht a server exception, ye restore the ordinar siccarness checks fur thon server and require it tae yaise a suithfest certificate.
+delete-ca-cert-title =
+    .title = Dicht or Dinnae Trust CA Certificates
+delete-ca-cert-confirm = Ye hae speired tae dicht these CA certificates. Fur biggit-in certificates aw trust will be remuived, which comes tae the same thing. Are ye shair ye're wantin tae dicht or dinnae trust?
+delete-ca-cert-impact = If ye dicht or dinnae trust a certificate authority (CA) certificate, this application willnae trust onie certificates gied oot by that CA onie mair.
 delete-email-cert-title =
     .title = Dicht E-Mail Certificates
 delete-email-cert-confirm = Are ye shair ye're wantin tae dicht these fowk's e-mail certificates?
+delete-email-cert-impact = If ye dicht a body’s e-mail certificate, ye'll no be able tae send encryptit e-mail tae thon body onie mair.
 # Used for semi-uniquely representing a cert.
 #
 # Variables:
@@ -161,13 +183,30 @@ cert-with-serial =
 
 ## Cert Viewer
 
+# Title used for the Certificate Viewer.
+#
+# Variables:
+#   $certificate : a string representative of the certificate being viewed.
+cert-viewer-title =
+    .title = Certificate Viewer: “{ $certName }”
 not-present =
     .value = <No Pairt O Certificate>
+# Cert verification
+cert-verified = This certificate has been trystmakkit fur the follaein yaises:
 # Add usage
 verify-ssl-client =
     .value = SSL Client Certificate
 verify-ssl-server =
     .value = SSL Server Certificate
+verify-ssl-ca =
+    .value = SSL Certificate Authority
+verify-email-signer =
+    .value = Email Signer Certificate
+verify-email-recip =
+    .value = Email Recipient Certificate
+# Cert verification
+cert-not-verified-cert-revoked = Couldnae trystmak this certificate acause it's been makkit no suithfest.
+cert-not-verified-cert-expired = Couldnae trystmak this certificate acause it's oot o date.
 # Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
 send-no-client-certificate = Send nae client certificate
 
