@@ -51,6 +51,7 @@ upgrade-dialog-pin-secondary-button = Όχι τώρα
 upgrade-dialog-default-title = Ορισμός { -brand-short-name } ως προεπιλεγμένου προγράμματος περιήγησης;
 upgrade-dialog-default-subtitle = Ταχύτητα, ασφάλεια και ιδιωτικότητα σε κάθε περιήγησή σας.
 upgrade-dialog-default-primary-button = Ορισμός ως προεπιλεγμένο πρόγραμμα περιήγησης
+upgrade-dialog-default-subtitle-2 = Βάλτε την ταχύτητα, την ασφάλεια και το απόρρητο στον αυτόματο πιλότο.
 upgrade-dialog-default-secondary-button = Όχι τώρα
 
 ## Theme selection screen
