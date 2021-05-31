@@ -135,24 +135,40 @@ account-setup-exchange-config-unverifiable = Δεν ήταν δυνατή η ε�
 ## Manual configuration area
 
 account-setup-manual-config-title = Ρυθμίσεις διακομιστή
+account-setup-incoming-server-legend = Διακομιστής εισερχομένων
 account-setup-protocol-label = Πρωτόκολλο:
 protocol-imap-option = { account-setup-result-imap }
 protocol-pop-option = { account-setup-result-pop }
 protocol-exchange-option = { account-setup-result-exchange }
+account-setup-hostname-label = Όνομα υπολογιστή:
+account-setup-port-label = Θύρα:
+    .title = Ορίστε τον αριθμό θύρας σε 0 για αυτόματη ανίχνευση
+account-setup-ssl-label = Ασφάλεια σύνδεσης:
+account-setup-outgoing-server-legend = Διακομιστής εξερχομένων
 
 ## Incoming/Outgoing SSL Authentication options
 
 ssl-autodetect-option = Αυτόματος εντοπισμός
+ssl-no-authentication-option = Χωρίς ταυτοποίηση
+ssl-cleartext-password-option = Κανονικός κωδικός πρόσβασης
+ssl-encrypted-password-option = Κρυπτογραφημένος κωδικός πρόσβασης
 
 ## Incoming/Outgoing SSL options
 
 ssl-noencryption-option = Κανένα
+account-setup-auth-label = Μέθοδος ταυτοποίησης:
+account-setup-username-label = Όνομα χρήστη:
 account-setup-advanced-setup-button = Σύνθετη διαμόρφωση
     .accesskey = Σ
 
 ## Warning insecure server dialog
 
 account-setup-insecure-title = Προειδοποίηση!
+account-setup-insecure-incoming-title = Ρυθμίσεις εισερχομένων:
+account-setup-insecure-outgoing-title = Ρυθμίσεις εξερχομένων:
+# Variables:
+#  $server (String): The name of the hostname of the server the user was trying to connect to.
+account-setup-warning-cleartext = Το <b>{ $server }</b> δεν χρησιμοποιεί κρυπτογράφηση.
 account-setup-insecure-server-checkbox = Κατανοώ τους κινδύνους
     .accesskey = τ
 
@@ -164,3 +180,4 @@ account-setup-insecure-server-checkbox = Κατανοώ τους κινδύνο�
 
 ## Addon installation section
 
+account-setup-addon-install-title = Εγκατάσταση
