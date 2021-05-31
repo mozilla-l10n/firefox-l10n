@@ -6,4 +6,5 @@
 ### "Glean" and "Glean SDK" should remain in English.
 
 about-glean-page-title = O Glean
+about-glean-warning = Nepravilna uporaba tega vmesnika lahko povzroči sesutje { -brand-short-name(sklon: "rodilnik") }.
 controls-button-label = Pošlji nastavitve
