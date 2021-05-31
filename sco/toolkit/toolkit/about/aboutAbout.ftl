@@ -3,3 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-about-title = Aboot Aboot
+about-about-note =
+    This is a list o “aboot” pages fur ye tae hae a swatch at.<br/>
+    Some o them micht be dumfoonerin. Some are fur diagnostic purposes anely.<br/>
+    And some are left oot acause they need speirin strings.
