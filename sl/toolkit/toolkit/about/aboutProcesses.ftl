@@ -38,6 +38,7 @@ about-processes-privilegedmozilla-process-name = Splet (proces { $pid }) za sple
 about-processes-gmp-plugin-process-name = Geckovi predstavnostni vtičniki (proces { $pid })
 about-processes-gpu-process-name = GPE (proces { $pid })
 about-processes-vr-process-name = VR (proces { $pid })
+about-processes-rdd-process-name = Dekoder podatkov (proces { $pid })
 about-processes-socket-process-name = Omrežje (proces { $pid })
 about-processes-preallocated-process-name = Vnaprej dodeljeno (proces { $pid })
 about-processes-unknown-process-name = Drugo ({ $type }, proces { $pid })
@@ -61,6 +62,7 @@ about-processes-privilegedmozilla-process = Spletna mesta { -vendor-short-name(s
 about-processes-gmp-plugin-process = Geckovi predstavnostni vtičniki ({ $pid })
 about-processes-gpu-process = GPE ({ $pid })
 about-processes-vr-process = VR ({ $pid })
+about-processes-rdd-process = Dekoder podatkov ({ $pid })
 about-processes-socket-process = Omrežje ({ $pid })
 about-processes-preallocated-process = Vnaprej dodeljeno ({ $pid })
 # Unknown process names
@@ -155,6 +157,9 @@ about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigit
 about-processes-cpu-user-and-kernel-not-ready = (merjenje)
 # Special case: process or thread is currently idle.
 about-processes-cpu-user-and-kernel-idle = nedejavno ({ NUMBER($total, maximumFractionDigits: 2) } { $unit })
+# Special case: process or thread is currently idle.
+about-processes-cpu-idle = nedejavno
+    .title = Skupen čas CPR: { NUMBER($total, maximumFractionDigits: 2) } { $unit }
 
 ## Displaying Memory (total and delta)
 ## Variables:
@@ -169,6 +174,9 @@ about-processes-cpu-user-and-kernel-idle = nedejavno ({ NUMBER($total, maximumFr
 
 # Common case.
 about-processes-total-memory-size = { NUMBER($total, maximumFractionDigits: 0) } { $totalUnit } ({ $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) } { $deltaUnit })
+# Common case.
+about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigits: 0) } { $totalUnit }
+    .title = Razvoj: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) } { $deltaUnit }
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) } { $totalUnit }
 

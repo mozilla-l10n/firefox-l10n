@@ -57,14 +57,10 @@ about-webrtc-ice-pair-bytes-sent = Poslano bajtov:
 about-webrtc-ice-pair-bytes-received = Prejetih bajtov:
 about-webrtc-ice-component-id = ID komponente
 
-##
-
-
 ## "Avg." is an abbreviation for Average. These are used as data labels.
 
-
-##
-
+about-webrtc-avg-bitrate-label = Povpr. bitna hitrost:
+about-webrtc-avg-framerate-label = Povpr. hitrost sličic:
 
 ## These adjectives are used to label a line of statistics collected for a peer
 ## connection. The data represents either the local or remote end of the
@@ -121,6 +117,8 @@ about-webrtc-fold-show-msg = prikaži podrobnosti
     .title = kliknite za razširjanje tega razdelka
 about-webrtc-fold-hide-msg = skrij podrobnosti
     .title = kliknite za strnjanje tega razdelka
+about-webrtc-dropped-frames-label = Izpuščene sličice:
+about-webrtc-discarded-packets-label = Zavrženi paketi:
 about-webrtc-decoder-label = Dekodirnik
 about-webrtc-encoder-label = Kodirnik
 about-webrtc-show-tab-label = Prikaži zavihek

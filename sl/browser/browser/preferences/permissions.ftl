@@ -18,6 +18,12 @@ permissions-session =
 permissions-allow =
     .label = Dovoli
     .accesskey = D
+permissions-button-off =
+    .label = Izključi
+    .accesskey = I
+permissions-button-off-temporarily =
+    .label = Začasno izključi
+    .accesskey = Z
 permissions-site-name =
     .label = Spletna stran
 permissions-status =
@@ -58,6 +64,10 @@ permissions-capabilities-listitem-block =
     .value = Prepovej
 permissions-capabilities-listitem-allow-session =
     .value = Dovoli v tej seji
+permissions-capabilities-listitem-off =
+    .value = Izključeno
+permissions-capabilities-listitem-off-temporarily =
+    .value = Začasno izključeno
 
 ## Invalid Hostname Dialog
 
@@ -77,6 +87,12 @@ permissions-exceptions-cookie-window =
     .title = Izjeme – Piškotki in podatki strani
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = Določite lahko, katere spletne strani lahko vedno ali ne smejo nikoli shranjevati piškotkov in podatkov strani. Vnesite točen naslov strani in nato kliknite gumb Prepovej, Dovoli v tej seji ali Dovoli.
+
+## Exceptions - HTTPS-Only Mode
+
+permissions-exceptions-https-only-window =
+    .title = Izjeme – Način samo HTTPS
+    .style = { permissions-window.style }
 
 ## Exceptions - Pop-ups
 
