@@ -18,6 +18,12 @@ permissions-session =
 permissions-allow =
     .label = Engedélyezés
     .accesskey = E
+permissions-button-off =
+    .label = Kikapcsolás
+    .accesskey = K
+permissions-button-off-temporarily =
+    .label = Ideiglenes kikapcsolás
+    .accesskey = I
 permissions-site-name =
     .label = Weboldal
 permissions-status =
@@ -58,6 +64,10 @@ permissions-capabilities-listitem-block =
     .value = Tiltás
 permissions-capabilities-listitem-allow-session =
     .value = Engedélyezés a munkamenetben
+permissions-capabilities-listitem-off =
+    .value = Ki
+permissions-capabilities-listitem-off-temporarily =
+    .value = Ideiglenesen ki
 
 ## Invalid Hostname Dialog
 
@@ -77,6 +87,13 @@ permissions-exceptions-cookie-window =
     .title = Kivételek – Sütik és oldaladatok
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = Megadhatja mely webhelyek nem használhatnak soha sütiket és oldaladatokat, illetve melyek használhatnak mindig. Írja be a kezelendő oldal pontos címét, majd kattintson a Tiltás, Engedélyezés a munkamenetben, vagy az Engedélyezés gombra.
+
+## Exceptions - HTTPS-Only Mode
+
+permissions-exceptions-https-only-window =
+    .title = Kivételek – Csak HTTPS mód
+    .style = { permissions-window.style }
+permissions-exceptions-https-only-desc = Az egyes webhelyeknél kikapcsolhatja a Csak HTTPS módot. A { -brand-short-name } nem próbálja meg biztonságos HTTPS-re frissíteni a kapcsolatot ezeknél a webhelyeknél. A kivételek nem vonatkoznak a privát ablakokra.
 
 ## Exceptions - Pop-ups
 

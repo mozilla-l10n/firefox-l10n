@@ -32,12 +32,42 @@ upgrade-dialog-new-secondary-button = Most nem
 # theme selection screen.
 upgrade-dialog-new-primary-win7-button = Rendben, értem!
 
+## Pin Firefox screen
+##
+## These title, subtitle and button strings differ between platforms as they
+## match the OS' application context menu item action where Windows uses "pin"
+## and "taskbar" while macOS "keep" and "Dock" (proper noun).
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-pin-title =
+    { PLATFORM() ->
+        [macos] A { -brand-short-name } hozzáadása a Dokkhoz
+       *[other] A { -brand-short-name } rögzítése a tálcára
+    }
+# The English macOS string avoids repeating "Keep" a third time, so if your
+# translations don't repeat anyway, the same string can be used cross-platform.
+upgrade-dialog-pin-subtitle =
+    { PLATFORM() ->
+        [macos] Érje el könnyedén a legfrissebb { -brand-short-name }ot.
+       *[other] Tartsa elérhető közelségben a legfrissebb { -brand-short-name }ot.
+    }
+upgrade-dialog-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Hozzáadás a Dokkhoz
+       *[other] Rögzítés a tálcára
+    }
+upgrade-dialog-pin-secondary-button = Most nem
+
 ## Default browser screen
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-default-title = A { -brand-short-name } legyen az alapértelmezett böngészője?
 upgrade-dialog-default-subtitle = Szerezzen gyorsaságot, biztonságot és adatvédelmet minden böngészés során.
 upgrade-dialog-default-primary-button = Beállítás alapértelmezett böngészőként
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title-2 = A { -brand-short-name } alapértelmezetté tétele
+upgrade-dialog-default-subtitle-2 = Tegye robotpilótára a sebességet, a biztonságot és az adatvédelmet
+upgrade-dialog-default-primary-button-2 = Alapértelmezett böngészővé tétel
 upgrade-dialog-default-secondary-button = Most nem
 
 ## Theme selection screen
@@ -46,6 +76,8 @@ upgrade-dialog-default-secondary-button = Most nem
 upgrade-dialog-theme-title =
     Induljon tisztán
     egy frissített témával
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-theme-title-2 = Induljon tisztán egy ropogós, új témával
 upgrade-dialog-theme-system = Rendszertéma
     .title = Az operációs rendszer témájának követése a gomboknál, menüknél és ablakoknál
 upgrade-dialog-theme-light = Világos
