@@ -267,15 +267,52 @@ onboarding-multistage-theme-description-alpenglow =
 mr1-welcome-screen-hero-text = Het vuur begint hier
 # Caption for background image in about:welcome. "Soraya Osorio" is the name
 # of the person and shouldn't be translated.
+# In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
+# You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = Soraya Osorio – Meubelontwerper, Firefox-fan
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Animaties uitschakelen
+
+## Title and primary button strings differ between platforms as they
+## match the OS' application context menu item action where Windows uses "pin"
+## and "taskbar" while macOS "keep" and "Dock" (proper noun).
+
+# Title used on welcome page when Firefox is not pinned
+mr1-onboarding-pin-header =
+    { PLATFORM() ->
+        [macos] { -brand-short-name } aan uw Dock toevoegen voor eenvoudige toegang
+       *[other] { -brand-short-name } aan uw taakbalk vastzetten voor eenvoudige toegang
+    }
+# Primary button string used on welcome page when Firefox is not pinned.
+mr1-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Aan Dock toevoegen
+       *[other] Aan taakbalk vastzetten
+    }
+
+## Multistage MR1 onboarding strings (about:welcome pages)
+
+# This string will be used on welcome page primary button label
+# when Firefox is both pinned and default
+mr1-onboarding-get-started-primary-button-label = Beginnen
 mr1-onboarding-welcome-header = Welkom bij { -brand-short-name }
 mr1-onboarding-set-default-pin-primary-button-label = { -brand-short-name } mijn voorkeursbrowser maken
     .title = Stelt { -brand-short-name } in als standaardbrowser en maakt het aan de taakbalk vast
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
 mr1-onboarding-set-default-only-primary-button-label = { -brand-short-name } mijn voorkeursbrowser maken
 mr1-onboarding-set-default-secondary-button-label = Niet nu
 mr1-onboarding-sign-in-button-label = Aanmelden
+
+## Title, subtitle and primary button string used on set default onboarding screen
+## when Firefox is not default browser
+
+mr1-onboarding-default-header = { -brand-short-name } uw standaardbrowser maken
+mr1-onboarding-default-subtitle = Zet snelheid, veiligheid en privacy op de automatische piloot.
+mr1-onboarding-default-primary-button-label = Standaardbrowser maken
+
+## Multistage MR1 onboarding strings (about:welcome pages)
+
 mr1-onboarding-import-header = Neem alles met u mee
 mr1-onboarding-import-subtitle = Importeer uw wachtwoorden, <br/>bladwijzers en meer.
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
