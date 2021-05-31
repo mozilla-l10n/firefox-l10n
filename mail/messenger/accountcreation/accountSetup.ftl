@@ -121,8 +121,14 @@ account-setup-outgoing-title = Εξερχόμενα
 account-setup-username-title = Όνομα χρήστη
 account-setup-exchange-title = Διακομιστής
 account-setup-result-smtp = SMTP
+account-setup-result-no-encryption = Χωρίς κρυπτογράφηση
 account-setup-result-ssl = SSL/TLS
 account-setup-result-starttls = STARTTLS
+account-setup-result-outgoing-existing = Χρήση υπάρχοντος διακομιστή SMTP εξερχομένων
+# Variables:
+#  $incoming (String): The email/username used to log into the incoming server
+#  $outgoing (String): The email/username used to log into the outgoing server
+account-setup-result-username-different = Εισερχόμενα: { $incoming }, Εξερχόμενα: { $outgoing }
 
 ## Error messages
 
@@ -171,12 +177,21 @@ account-setup-insecure-outgoing-title = Ρυθμίσεις εξερχομένω�
 account-setup-warning-cleartext = Το <b>{ $server }</b> δεν χρησιμοποιεί κρυπτογράφηση.
 account-setup-insecure-server-checkbox = Κατανοώ τους κινδύνους
     .accesskey = τ
+insecure-dialog-cancel-button = Αλλαγή ρυθμίσεων
+    .accesskey = ρ
+insecure-dialog-confirm-button = Επιβεβαίωση
+    .accesskey = Ε
 
 ## Warning Exchange confirmation dialog
 
+exchange-dialog-confirm-button = Σύνδεση
+exchange-dialog-cancel-button = Ακύρωση
 
 ## Alert dialogs
 
+account-setup-creation-error-title = Σφάλμα δημιουργίας λογαριασμού
+account-setup-error-server-exists = Ο διακομιστής εισερχομένων υπάρχει ήδη.
+account-setup-confirm-advanced-title = Επιβεβαίωση σύνθετων ρυθμίσεων
 
 ## Addon installation section
 
