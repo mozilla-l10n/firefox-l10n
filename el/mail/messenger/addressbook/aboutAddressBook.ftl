@@ -24,6 +24,8 @@ about-addressbook-books-context-properties =
     .label = Ιδιότητες
 about-addressbook-books-context-synchronize =
     .label = Συγχρονισμός
+about-addressbook-books-context-print =
+    .label = Εκτύπωση…
 about-addressbook-books-context-delete =
     .label = Διαγραφή
 
