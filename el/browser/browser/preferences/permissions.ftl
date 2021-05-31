@@ -90,6 +90,9 @@ permissions-exceptions-cookie-desc = Μπορείτε να καθορίσετε 
 
 ## Exceptions - HTTPS-Only Mode
 
+permissions-exceptions-https-only-window =
+    .title = Εξαιρέσεις - Λειτουργία μόνο-HTTPS
+    .style = { permissions-window.style }
 
 ## Exceptions - Pop-ups
 
