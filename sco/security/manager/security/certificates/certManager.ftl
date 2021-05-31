@@ -114,6 +114,7 @@ exception-mgr =
 exception-mgr-extra-button =
     .label = Confirm Siccarness Exception
     .accesskey = C
+exception-mgr-supplemental-warning = Evendoon banks, shops, and ither public sites willnae speir ye tae dae this.
 exception-mgr-cert-location-url =
     .value = Airtin:
 exception-mgr-cert-location-download =
@@ -122,7 +123,13 @@ exception-mgr-cert-location-download =
 exception-mgr-cert-status-view-cert =
     .label = View…
     .accesskey = V
+exception-mgr-permanent =
+    .label = Store this exception ayebidin
+    .accesskey = S
 pk11-bad-password = The passwird inpit wisnae richt.
+pkcs12-decode-err = Couldnae decode the file. Either it's no in PKCS #12 format, has been camshauchlet, or the passwird ye inpit wisnae richt.
+pkcs12-unknown-err-restore = Couldnae restore the PKCS #12 file for unkent reasons.
+pkcs12-unknown-err-backup = Couldnae mak the PKCS #12 backup file for unkent reasons.
 
 ## PKCS#12 file dialogs
 
