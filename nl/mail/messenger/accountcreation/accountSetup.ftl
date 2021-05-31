@@ -198,6 +198,10 @@ exchange-dialog-cancel-button = Annuleren
 account-setup-creation-error-title = Fout bij aanmaken van account
 account-setup-error-server-exists = Inkomende server bestaat al.
 account-setup-confirm-advanced-title = Uitgebreide configuratie bevestigen
+account-setup-confirm-advanced-description = Dit dialoogvenster zal worden gesloten en er wordt een account met de huidige instellingen aangemaakt, ook als de configuratie onjuist is. Wilt u doorgaan?
 
 ## Addon installation section
 
+account-setup-addon-install-title = Installeren
+account-setup-addon-install-intro = Een add-on van derden kan het mogelijk maken om toegang tot uw e-mailaccount op deze server te krijgen:
+account-setup-addon-no-protocol = Deze e-mailserver ondersteunt helaas geen open protocollen. { account-setup-addon-install-intro }
