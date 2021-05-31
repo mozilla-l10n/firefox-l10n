@@ -20,7 +20,6 @@ account-setup-name-input =
     .placeholder = Gipsz Jakab
 account-setup-name-info-icon =
     .title = Így fog megjelenni a neve
-account-setup-name-warning = Adja meg a nevét
 account-setup-name-warning-icon =
     .title = { account-setup-name-warning }
 account-setup-email-label = E-mail cím
@@ -29,7 +28,6 @@ account-setup-email-input =
     .placeholder = gipsz.jakab@example.com
 account-setup-email-info-icon =
     .title = A meglévő e-mail címe
-account-setup-email-warning = Érvénytelen e-mail cím
 account-setup-email-warning-icon =
     .title = { account-setup-email-warning }
 account-setup-password-label = Jelszó
@@ -122,6 +120,15 @@ account-setup-incoming-title = Bejövő
 account-setup-outgoing-title = Kimenő
 account-setup-username-title = Felhasználónév
 account-setup-exchange-title = Kiszolgáló
+account-setup-result-smtp = SMTP
+account-setup-result-no-encryption = Nincs titkosítás
+account-setup-result-ssl = SSL/TLS
+account-setup-result-starttls = STARTTLS
+account-setup-result-outgoing-existing = Meglévő SMTP-kiszolgáló használata
+# Variables:
+#  $incoming (String): The email/username used to log into the incoming server
+#  $outgoing (String): The email/username used to log into the outgoing server
+account-setup-result-username-different = Bejövő: { $incoming }, Kimenő: { $outgoing }
 
 ## Error messages
 
@@ -131,32 +138,32 @@ account-setup-credentials-wrong = Hitelesítés sikertelen. Ellenőrizze a felha
 account-setup-find-settings-failed = A { -brand-short-name } nem találta meg az e-mail-fiókja beállításait
 account-setup-exchange-config-unverifiable = A konfigurációt nem lehetett megerősíteni. Ha a felhasználóneve és a jelszava helyes, akkor valószínű, hogy a kiszolgáló adminisztrátora letiltotta a fiókjának kiválasztott konfigurációját. Próbáljon meg másik protokollt választani.
 
-## Manual config area
+## Manual configuration area
 
 account-setup-manual-config-title = Kiszolgáló beállításai
-account-setup-incoming-protocol-label = Bejövő protokoll
 protocol-imap-option = { account-setup-result-imap }
 protocol-pop-option = { account-setup-result-pop }
-account-setup-outgoing-protocol-label = Kimenő protokoll
-outgoing-protocol = SMTP
-account-setup-incoming-server-label = Bejövő kiszolgáló
-account-setup-outgoing-server-label = Kimenő kiszolgáló
-account-setup-incoming-port-label = Bejövő port
-account-setup-outoing-port-label = Kimenő port
-account-setup-incoming-ssl-label = Bejövő SSL
-account-setup-outgoing-ssl-label = Kimenő SSL
+
+## Incoming/Outgoing SSL Authentication options
+
 ssl-autodetect-option = Automatikus felismerés
+
+## Incoming/Outgoing SSL options
+
 ssl-noencryption-option = Egyik sem
-ssl-starttls-option = STARTTLS
-ssl-tls-option = SSL/TLS
-account-setup-incoming-auth-label = Bejövő hitelesítés
-account-setup-outgoing-auth-label = Kimenő hitelesítés
-account-setup-incoming-username-label = Bejövő felhasználónév
-account-setup-outgoing-username-label = Kimenő felhasználónév
 account-setup-advanced-setup-button = Speciális beállítások
     .accesskey = S
 
-## Warning insecure server
+## Warning insecure server dialog
 
 account-setup-insecure-server-checkbox = Megértettem a kockázatokat
     .accesskey = k
+
+## Warning Exchange confirmation dialog
+
+
+## Alert dialogs
+
+
+## Addon installation section
+
