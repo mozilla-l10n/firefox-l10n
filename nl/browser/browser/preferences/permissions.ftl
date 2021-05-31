@@ -18,6 +18,12 @@ permissions-session =
 permissions-allow =
     .label = Toestaan
     .accesskey = T
+permissions-button-off =
+    .label = Uitschakelen
+    .accesskey = U
+permissions-button-off-temporarily =
+    .label = Tijdelijk uitschakelen
+    .accesskey = T
 permissions-site-name =
     .label = Website
 permissions-status =
@@ -58,6 +64,10 @@ permissions-capabilities-listitem-block =
     .value = Blokkeren
 permissions-capabilities-listitem-allow-session =
     .value = Toestaan voor sessie
+permissions-capabilities-listitem-off =
+    .value = Uit
+permissions-capabilities-listitem-off-temporarily =
+    .value = Tijdelijk uit
 
 ## Invalid Hostname Dialog
 
@@ -77,6 +87,13 @@ permissions-exceptions-cookie-window =
     .title = Uitzonderingen - Cookies en websitegegevens
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = U kunt opgeven welke websites altijd of nooit toestemming hebben om cookies en websitegegevens te gebruiken. Typ het exacte adres van de website die u wilt beheren en klik vervolgens op Blokkeren, Toestaan voor sessie of Toestaan.
+
+## Exceptions - HTTPS-Only Mode
+
+permissions-exceptions-https-only-window =
+    .title = Uitzonderingen – Alleen-HTTPS-modus
+    .style = { permissions-window.style }
+permissions-exceptions-https-only-desc = U kunt de Alleen-HTTPS-modus voor specifieke websites uitschakelen. { -brand-short-name } zal voor die websites niet proberen de verbinding naar veilige HTTPS te upgraden. Uitzonderingen zijn niet van toepassing op privévensters.
 
 ## Exceptions - Pop-ups
 
