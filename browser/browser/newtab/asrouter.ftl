@@ -213,8 +213,6 @@ cfr-doorhanger-milestone-heading2 =
     }
 cfr-doorhanger-milestone-ok-button = Tout afficher
     .accesskey = T
-cfr-doorhanger-milestone-close-button = Fermer
-    .accesskey = F
 
 ## What’s New Panel Content for Firefox 76
 
@@ -239,6 +237,8 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Icône d’incrustation vidéo
 
 ## Protections Dashboard message
 
+cfr-doorhanger-milestone-close-button = Fermer
+    .accesskey = F
 
 ## What’s New Panel Content for Firefox 76
 ## Protections Dashboard message
@@ -257,8 +257,6 @@ cfr-whatsnew-better-pdf-body = Les documents PDF s’ouvrent maintenant directem
 
 cfr-doorhanger-doh-body = Le respect de votre vie privée est important. Désormais, et lorsque cela est possible, { -brand-short-name } envoie vos requêtes DNS de manière sécurisée vers un service fourni par un partenaire pour vous protéger pendant votre navigation.
 cfr-doorhanger-doh-header = Des requêtes DNS chiffrées et plus sûres
-cfr-doorhanger-doh-primary-button = D’accord, j’ai compris.
-    .accesskey = o
 cfr-doorhanger-doh-primary-button-2 = OK
     .accesskey = O
 cfr-doorhanger-doh-secondary-button = Désactiver
@@ -304,3 +302,10 @@ cfr-whatsnew-bookmarking-body = Il est plus facile de garder trace de vos sites 
 
 cfr-whatsnew-cross-site-tracking-header = Protection complète contre le pistage des cookies intersites
 cfr-whatsnew-cross-site-tracking-body = Vous pouvez désormais opter pour une meilleure protection contre le pistage des cookies. { -brand-short-name } peut isoler vos activités et données du site sur lequel vous vous trouvez afin que les informations stockées dans le navigateur ne soient pas partagées entre les sites web.
+
+## Full Video Support CFR message
+
+cfr-doorhanger-video-support-body = Les vidéos de ce site peuvent ne pas être lues correctement sur cette version de { -brand-short-name }. Pour une prise en charge vidéo complète, vous devez mettre à jour { -brand-short-name }.
+cfr-doorhanger-video-support-header = Mettez à jour { -brand-short-name } pour lire la vidéo
+cfr-doorhanger-video-support-primary-button = Mettre à jour
+    .accesskey = M
