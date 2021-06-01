@@ -6,3 +6,7 @@ calendar-editable-item-privacy-icon-private =
     .alt = ความเป็นส่วนตัว: กิจกรรมส่วนตัว
 calendar-editable-item-privacy-icon-confidential =
     .alt = ความเป็นส่วนตัว: แสดงวันและเวลาเท่านั้น
+calendar-editable-item-todo-icon-task =
+    .alt = งาน
+calendar-editable-item-todo-icon-completed-task =
+    .alt = งานที่เสร็จสมบูรณ์
