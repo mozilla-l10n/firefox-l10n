@@ -23,7 +23,7 @@
 <!ENTITY sendPageCmd.accesskey "τ">
 
 <!-- View menu items -->
-<!ENTITY compositionToolbarCmd.label "Γραμμή εργαλείων σύνταξης">
+<!ENTITY compositionToolbarCmd.label "Γραμμή εργαλείων σύνθεσης">
 <!ENTITY compositionToolbarCmd.accesskey "γ">
 <!ENTITY formattingToolbarCmd.label "Γραμμή εργαλείων μορφής">
 <!ENTITY formattingToolbarCmd.accesskey "μ">

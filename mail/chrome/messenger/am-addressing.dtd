@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from am-addressing.xul -->
-
 <!-- extracted from am-addressing.xhtml -->
 
 <!ENTITY addressing.label          "Σύνταξη &amp; διευθυνσιοδότηση">
@@ -19,13 +17,11 @@
 <!ENTITY directories.accesskey     "ρ">
 <!ENTITY directoriesNone.label     "Κανένα">
 
-<!-- am-addressing.xul -->
-
 <!-- am-addressing.xhtml -->
 
-<!ENTITY compositionGroupTitle.label          "Σύνταξη">
+<!ENTITY compositionGroupTitle.label          "Σύνθεση">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
-<!ENTITY useHtml.label                        "Σύνταξη μηνυμάτων σε μορφή HTML">
+<!ENTITY useHtml.label                        "Σύνθεση μηνυμάτων σε μορφή HTML">
 <!ENTITY useHtml.accesskey                    "Σ">
 <!ENTITY autoQuote.label                      "Αυτόματη παράθεση του αρχικού μηνύματος κατά την απάντηση">
 <!ENTITY autoQuote.accesskey                  "π">
@@ -44,7 +40,7 @@
 <!ENTITY includeSigOnForward.label            "Χρήση υπογραφής στις προωθήσεις">
 <!ENTITY includeSigOnForward.accesskey        "θ">
 
-<!ENTITY globalComposingPrefs.label           "Γενικές προτιμήσεις σύνταξης…">
+<!ENTITY globalComposingPrefs.label           "Γενικές προτιμήσεις σύνθεσης…">
 <!ENTITY globalComposingPrefs.accesskey       "κ">
 
 <!ENTITY globalAddressingPrefs.label          "Γενικές προτιμήσεις διευθυνσιοδότησης…">
