@@ -307,8 +307,6 @@ cfr-whatsnew-better-pdf-body =
 
 cfr-doorhanger-doh-body = Na vašem soukromí záleží. V zájmu vaší ochrany nyní { -brand-short-name }, kdykoli je to možné, bezpečně směruje vaše DNS požadavky na partnerskou službu.
 cfr-doorhanger-doh-header = Bezpečnější, šifrované vyhledávání v DNS
-cfr-doorhanger-doh-primary-button = OK, rozumím
-    .accesskey = O
 cfr-doorhanger-doh-primary-button-2 = OK
     .accesskey = O
 cfr-doorhanger-doh-secondary-button = Zakázat
@@ -354,3 +352,27 @@ cfr-whatsnew-bookmarking-body = Zpráva vašich oblíbených stránek je nyní j
 
 cfr-whatsnew-cross-site-tracking-header = Důkladná ochrana proti sledování pomocí cookies třetích stran
 cfr-whatsnew-cross-site-tracking-body = Nově můžete využít lepší ochranu proti sledování skrze cookies. { -brand-short-name } vaše vnitřně oddělí uložené informace o vašich aktivitách a data navštívených stránek, takže nebudou sdíleny mezi servery.
+
+## Full Video Support CFR message
+
+cfr-doorhanger-video-support-body =
+    V této verzi { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "gen") }
+        [feminine] { -brand-short-name(case: "gen") }
+        [neuter] { -brand-short-name(case: "gen") }
+       *[other] aplikace { -brand-short-name }
+    } se videa na tomto serveru nemusí přehrávat správně. Pro plnou podporu videí { -brand-short-name.gender ->
+        [masculine] svůj { -brand-short-name(case: "acc") }
+        [feminine] svou { -brand-short-name(case: "acc") }
+        [neuter] své { -brand-short-name(case: "acc") }
+       *[other] aplikaci { -brand-short-name }
+    } aktualizujte.
+cfr-doorhanger-video-support-header =
+    Pro přehrání videa aktualizujte { -brand-short-name.gender ->
+        [masculine] svůj { -brand-short-name(case: "acc") }
+        [feminine] svou { -brand-short-name(case: "acc") }
+        [neuter] své { -brand-short-name(case: "acc") }
+       *[other] svou aplikaci { -brand-short-name }
+    }.
+cfr-doorhanger-video-support-primary-button = Aktualizovat
+    .accesskey = A
