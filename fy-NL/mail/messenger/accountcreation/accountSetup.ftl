@@ -122,6 +122,13 @@ account-setup-username-title = Brûkersnamme
 account-setup-exchange-title = Server
 account-setup-result-smtp = SMTP
 account-setup-result-no-encryption = Gjin fersifering
+account-setup-result-ssl = SSL/TLS
+account-setup-result-starttls = STARTTLS
+account-setup-result-outgoing-existing = Besteande útgeande (SMTP-)server brûke
+# Variables:
+#  $incoming (String): The email/username used to log into the incoming server
+#  $outgoing (String): The email/username used to log into the outgoing server
+account-setup-result-username-different = Ynkommend: { $incoming }, útgeand: { $outgoing }
 
 ## Error messages
 
@@ -134,29 +141,63 @@ account-setup-exchange-config-unverifiable = Konfiguraasje koe net ferifiearre w
 ## Manual configuration area
 
 account-setup-manual-config-title = Serverynstellingen
+account-setup-incoming-server-legend = Ynkommende server
+account-setup-protocol-label = Protokol:
 protocol-imap-option = { account-setup-result-imap }
 protocol-pop-option = { account-setup-result-pop }
+protocol-exchange-option = { account-setup-result-exchange }
+account-setup-hostname-label = Hostnamme:
+account-setup-port-label = Poarte:
+    .title = Stel it poartenûmer yn op 0 foar autodeteksje
+account-setup-auto-description = { -brand-short-name } probearret fjilden dy't leech litten binne, automatysk te detektearjen.
+account-setup-ssl-label = Ferbiningsbefeiliging:
+account-setup-outgoing-server-legend = Utgeande server
 
 ## Incoming/Outgoing SSL Authentication options
 
 ssl-autodetect-option = Autodeteksje
+ssl-no-authentication-option = Gjin autentikaasje
+ssl-cleartext-password-option = Normaal wachtwurd
+ssl-encrypted-password-option = Fersifere wachtwurd
 
 ## Incoming/Outgoing SSL options
 
 ssl-noencryption-option = Gjin
+account-setup-auth-label = Autentikaasjemetoade:
+account-setup-username-label = Brûkersnamme:
 account-setup-advanced-setup-button = Wiidweidige konfiguraasje
     .accesskey = W
 
 ## Warning insecure server dialog
 
+account-setup-insecure-title = Warskôging!
+account-setup-insecure-incoming-title = Ynstellingen ynkommend:
+account-setup-insecure-outgoing-title = Ynstellingen útgeand:
+# Variables:
+#  $server (String): The name of the hostname of the server the user was trying to connect to.
+account-setup-warning-cleartext = <b>{ $server }</b> brûkt gjin fersifering.
+account-setup-warning-cleartext-details = Net-befeilige e-mailservers brûke gjin fersifere ferbiningen om jo wachtwurden en priveegegevens te beskermen. Troch ferbining te meitsjen mei dizze server is it mooglik dat jo wachtwurd en priveegegevens toand wurdt.
 account-setup-insecure-server-checkbox = Ik begryp de risiko's
     .accesskey = b
+account-setup-insecure-description = { -brand-short-name } kin jo tagong ta jo e-mail jaan mei de opjûne konfiguraasje. Jo soene echter kontakt opnimme moatte mei jo systeembehearder of e-mailprovider fanwegen dizze net-krekte ferbiningen. Sjoch de <a data-l10n-name="thunderbird-faq-link">Thunderbird-FAQ</a> foar mear ynformaasje.
+insecure-dialog-cancel-button = Ynstellingen wizigje
+    .accesskey = Y
+insecure-dialog-confirm-button = Befêstigje
+    .accesskey = B
 
 ## Warning Exchange confirmation dialog
 
+# Variables:
+#  $domain (String): The name of the server where the configuration was found, e.g. rackspace.com.
+exchange-dialog-question = { -brand-short-name } hat jo accountynstellingen fan { $domain } fûn. Wolle jo trochgean en jo oanmeldgegevens ferstjoere?
+exchange-dialog-confirm-button = Oanmelde
+exchange-dialog-cancel-button = Annulearje
 
 ## Alert dialogs
 
+account-setup-creation-error-title = Flater by oanmeitsjen fan account
+account-setup-error-server-exists = Ynkommende server bestiet al.
+account-setup-confirm-advanced-title = Wiidweidige konfiguraasje befêstigje
 
 ## Addon installation section
 
