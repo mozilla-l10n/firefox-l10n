@@ -210,8 +210,6 @@ cfr-doorhanger-milestone-heading2 =
     }
 cfr-doorhanger-milestone-ok-button = 查看全部
     .accesskey = S
-cfr-doorhanger-milestone-close-button = 关闭
-    .accesskey = C
 
 ## What’s New Panel Content for Firefox 76
 
@@ -236,6 +234,8 @@ cfr-whatsnew-pip-fullscreen-icon-alt = 画中画图标
 
 ## Protections Dashboard message
 
+cfr-doorhanger-milestone-close-button = 关闭
+    .accesskey = C
 
 ## What’s New Panel Content for Firefox 76
 ## Protections Dashboard message
@@ -254,8 +254,6 @@ cfr-whatsnew-better-pdf-body = PDF 文档现可直接在 { -brand-short-name } �
 
 cfr-doorhanger-doh-body = 隐私是公民的基本权利。{ -brand-short-name } 现在会尽可能使用合作伙伴提供的一项服务处理您的 DNS 请求，让您上网更安全。
 cfr-doorhanger-doh-header = 更安全、经加密的 DNS 查询
-cfr-doorhanger-doh-primary-button = 好，知道了
-    .accesskey = O
 cfr-doorhanger-doh-primary-button-2 = 好的
     .accesskey = O
 cfr-doorhanger-doh-secondary-button = 禁用
@@ -301,3 +299,9 @@ cfr-whatsnew-bookmarking-body = 更轻松地追踪您喜爱的网站。{ -brand-
 
 cfr-whatsnew-cross-site-tracking-header = 全面的跨网站 Cookie 跟踪保护
 cfr-whatsnew-cross-site-tracking-body = 现在起，您可以更好地保护自己不受 Cookie 跟踪。{ -brand-short-name } 可将您在不同网站上的活动与数据相互分隔，杜绝浏览器中存储的信息在网站间共享。
+
+## Full Video Support CFR message
+
+cfr-doorhanger-video-support-header = 更新 { -brand-short-name } 以播放视频
+cfr-doorhanger-video-support-primary-button = 立即更新
+    .accesskey = U

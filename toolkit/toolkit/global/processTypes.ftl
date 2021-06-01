@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 process-type-web = 网页内容
+process-type-browser = 主要
 # process used to run privileged about pages,
 # such as about:home
 process-type-privilegedabout = About 特权页
@@ -25,3 +26,5 @@ process-type-gpu = GPU
 process-type-socket = 套接字
 # process preallocated; may change to other types
 process-type-prealloc = 预分配
+# process used to decode media
+process-type-rdd = RDD
