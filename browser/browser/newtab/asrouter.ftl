@@ -311,3 +311,10 @@ cfr-whatsnew-bookmarking-body = Det är lättare att hålla koll på dina favori
 
 cfr-whatsnew-cross-site-tracking-header = Omfattande skydd mot spårning av globala kakor
 cfr-whatsnew-cross-site-tracking-body = Du kan nu välja bättre skydd mot kakspårning. { -brand-short-name } kan isolera dina aktiviteter och data till den webbplats du befinner dig på, så att information som lagras i webbläsaren inte delas mellan webbplatser.
+
+## Full Video Support CFR message
+
+cfr-doorhanger-video-support-body = Videor på den här webbplatsen kanske inte spelas upp korrekt i den här versionen av { -brand-short-name }. Uppdatera { -brand-short-name } nu för fullständig videosupport.
+cfr-doorhanger-video-support-header = Uppdatera { -brand-short-name } för att spela upp video
+cfr-doorhanger-video-support-primary-button = Uppdatera nu
+    .accesskey = U
