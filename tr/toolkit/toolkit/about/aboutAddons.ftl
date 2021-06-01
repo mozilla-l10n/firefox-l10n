@@ -35,9 +35,9 @@ sidebar-preferences-button-title =
             [windows] { -brand-short-name } Seçenekleri
            *[other] { -brand-short-name } Tercihleri
         }
-addons-settings-button = { -brand-short-name } ayarları
+addons-settings-button = { -brand-short-name } Ayarları
 sidebar-settings-button-title =
-    .title = { -brand-short-name } ayarları
+    .title = { -brand-short-name } Ayarları
 show-unsigned-extensions-button =
     .label = Bazı uzantılar doğrulanamadı
 show-all-extensions-button =
