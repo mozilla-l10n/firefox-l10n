@@ -310,6 +310,7 @@ mr1-onboarding-sign-in-button-label = Anmelden
 ## when Firefox is not default browser
 
 mr1-onboarding-default-header = Lege { -brand-short-name } als Standard fest
+mr1-onboarding-default-subtitle = Schalte Geschwindigkeit, Sicherheit und Datenschutz auf Autopilot.
 mr1-onboarding-default-primary-button-label = Als Standardbrowser festlegen
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
