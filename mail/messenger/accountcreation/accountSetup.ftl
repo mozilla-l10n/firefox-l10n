@@ -20,7 +20,6 @@ account-setup-name-input =
     .placeholder = Jan Njeznaty
 account-setup-name-info-icon =
     .title = Wašo mě, kaž wóno pokažo se drugim luźam
-account-setup-name-warning = Pšosym zapódajśo swójo mě
 account-setup-name-warning-icon =
     .title = { account-setup-name-warning }
 account-setup-email-label = E-mailowa adresa
@@ -29,7 +28,6 @@ account-setup-email-input =
     .placeholder = jan.njeznaty@example.com
 account-setup-email-info-icon =
     .title = Waša eksistěrujuca e-mailowa adresa
-account-setup-email-warning = Njepłaśiwa e-mailowa adresa
 account-setup-email-warning-icon =
     .title = { account-setup-email-warning }
 account-setup-password-label = Gronidło
@@ -122,6 +120,15 @@ account-setup-incoming-title = Dochadajuce
 account-setup-outgoing-title = Wuchadajuce
 account-setup-username-title = Wužywarske mě
 account-setup-exchange-title = Serwer
+account-setup-result-smtp = SMTP
+account-setup-result-no-encryption = Žedne koděrowanje
+account-setup-result-ssl = SSL/TLS
+account-setup-result-starttls = STARTTLS
+account-setup-result-outgoing-existing = Eksistěrujucy wuchadny SMTP-serwer wužywaś
+# Variables:
+#  $incoming (String): The email/username used to log into the incoming server
+#  $outgoing (String): The email/username used to log into the outgoing server
+account-setup-result-username-different = Dochadny: { $incoming }, wuchadny: { $outgoing }
 
 ## Error messages
 
@@ -131,32 +138,53 @@ account-setup-credentials-wrong = Awtentifikacija njejo se raźiła. Pšosym pś
 account-setup-find-settings-failed = { -brand-short-name } njejo mógał nastajenja za wašo e-mailowe konto namakaś.
 account-setup-exchange-config-unverifiable = Konfiguracija njedajo se pśeglědowaś. Jolic wašo wužywaŕske mě a wašo gronidło stej korektnej, jo nejskerjej serwerowy adminsitrator wubranu konfiguraciju za wašo konto znjemóžnił. Wubjeŕśo drugi protokol.
 
-## Manual config area
+## Manual configuration area
 
 account-setup-manual-config-title = Serwerowe nastajenja
-account-setup-incoming-protocol-label = Dochadowy protokol
+account-setup-incoming-server-legend = Dochadny serwer
+account-setup-protocol-label = Protokol:
 protocol-imap-option = { account-setup-result-imap }
 protocol-pop-option = { account-setup-result-pop }
-account-setup-outgoing-protocol-label = Wuchadny protokol
-outgoing-protocol = SMTP
-account-setup-incoming-server-label = Dochadowy serwer
-account-setup-outgoing-server-label = Wuchadny serwer
-account-setup-incoming-port-label = Dochadny port
-account-setup-outoing-port-label = Wuchadny port
-account-setup-incoming-ssl-label = Dochadny SSL
-account-setup-outgoing-ssl-label = Wuchadny SSL
+protocol-exchange-option = { account-setup-result-exchange }
+account-setup-hostname-label = Hostmě:
+account-setup-port-label = Port:
+    .title = Za awtomatiske namakanje portowy numer na 0 stajiś
+account-setup-auto-description = { -brand-short-name } buźo wopytowaś, póla awtomatiski namakaś, kótarež su prozne.
+account-setup-ssl-label = Zwiskowa wěstota:
+account-setup-outgoing-server-legend = Wuchadny serwer
+
+## Incoming/Outgoing SSL Authentication options
+
 ssl-autodetect-option = Awtomatiski namakaś
+ssl-no-authentication-option = Žedno awtentificěrowanje
+ssl-cleartext-password-option = Normalne gronidło
+ssl-encrypted-password-option = Skoděrowane gronidło
+
+## Incoming/Outgoing SSL options
+
 ssl-noencryption-option = Žedno
-ssl-starttls-option = STARTTLS
-ssl-tls-option = SSL/TLS
-account-setup-incoming-auth-label = Dochadna awtentifikacija
-account-setup-outgoing-auth-label = Wuchadna awtentifikacija
-account-setup-incoming-username-label = Dochadne wužywaŕske mě
-account-setup-outgoing-username-label = Wuchadne wužywaŕske mě
+account-setup-auth-label = Awtentificěrowańska metoda:
+account-setup-username-label = Wužywaŕske mě:
 account-setup-advanced-setup-button = Rozšyrjona konfiguracija
     .accesskey = R
 
-## Warning insecure server
+## Warning insecure server dialog
 
+account-setup-insecure-title = Warnowanje!
+account-setup-insecure-incoming-title = Dochadne nastajenja:
+account-setup-insecure-outgoing-title = Wuchadne nastajenja:
+# Variables:
+#  $server (String): The name of the hostname of the server the user was trying to connect to.
+account-setup-warning-cleartext = <b>{ $server }</b> koděrowanje njewužywa.
+account-setup-warning-cleartext-details = Njewěste e-mailowe serwery njewužywaju skoděrowane zwiski, aby šćitali waše gronidła a priwatne informacije. Gaž zwězujośo z toś tym serwerom, wy by mógał swójo gronidło a swóje priwatne informacije wótekšyś.
 account-setup-insecure-server-checkbox = Rozmějom rizika
     .accesskey = R
+
+## Warning Exchange confirmation dialog
+
+
+## Alert dialogs
+
+
+## Addon installation section
+
