@@ -18,6 +18,12 @@ permissions-session =
 permissions-allow =
     .label = İzin ver
     .accesskey = z
+permissions-button-off =
+    .label = Kapat
+    .accesskey = K
+permissions-button-off-temporarily =
+    .label = Geçici olarak kapat
+    .accesskey = G
 permissions-site-name =
     .label = Web sitesi
 permissions-status =
@@ -58,6 +64,10 @@ permissions-capabilities-listitem-block =
     .value = Engelle
 permissions-capabilities-listitem-allow-session =
     .value = Oturum boyunca izin ver
+permissions-capabilities-listitem-off =
+    .value = Kapalı
+permissions-capabilities-listitem-off-temporarily =
+    .value = Geçici olarak kapalı
 
 ## Invalid Hostname Dialog
 
@@ -77,6 +87,9 @@ permissions-exceptions-cookie-window =
     .title = İstisnalar - Çerezler ve Site Verileri
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = Hangi web sitelerinin çerezleri ve site verilerini her zaman kullanabileceğini veya hiç kullanmayacağını belirleyebilirsiniz.  Yönetmek istediğiniz sitenin tam adresini yazıp “Engelle”, “Oturum boyunca izin ver” veya “İzin ver”e tıklayın.
+
+## Exceptions - HTTPS-Only Mode
+
 
 ## Exceptions - Pop-ups
 
