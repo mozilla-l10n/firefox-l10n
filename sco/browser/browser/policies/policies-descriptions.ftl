@@ -21,12 +21,37 @@ policy-BlockAboutAddons = Block ingang tae the Eik-ons Manager (aboot:eikons).
 policy-BlockAboutConfig = Block ingang tae the aboot:confeeg page.
 policy-BlockAboutProfiles = Block ingang tae the aboot:profiles page.
 policy-BlockAboutSupport = Block ingang tae the aboot:support page.
-policy-Bookmarks = Create buikmerks in the Buikmerks toolbaur, Buikmerks menu, or a specified folder ben them.
+policy-Bookmarks = Mak buikmerks in the Buikmerks toolbaur, Buikmerks menu, or a specified folder ben them.
 policy-CaptivePortal = Enable or disable captive portal support.
 policy-CertificatesDescription = Eik on certificates or yaise in-biggit certificates.
 policy-Cookies = Alloo or deny wabsites tae set cookies.
 policy-DisabledCiphers = Disable ciphers.
+policy-DefaultDownloadDirectory = Set the staunart doonload directory.
+policy-DisableAppUpdate = Stap the stravaiger fae updatin.
+policy-DisableBuiltinPDFViewer = Disable PDF.js, the in-biggit PDF viewer in { -brand-short-name }.
+policy-DisableDefaultBrowserAgent = Stap the staunart stravaiger agent fae takkin onie actions. Anely applicable tae Windows; ither platforms dinnae hae the agent.
+policy-DisableDeveloperTools = Block ingang tae the forderer tools.
+policy-DisableFeedbackCommands = Disable commands tae send feedback fae the Hauners menu (Submit Feedback and Report Begowkin Site).
+policy-DisableFirefoxAccounts = Disable { -fxaccount-brand-name } based services, includin Sync.
+# Firefox Screenshots is the name of the feature, and should not be translated.
+policy-DisableFirefoxScreenshots = Disable the Firefox Screenshots featur.
+policy-DisableFirefoxStudies = Stap { -brand-short-name } fae runnin studies.
+policy-DisableForgetButton = Stap ingang tae the Tyne button.
+policy-DisableFormHistory = Dinnae mind o airt-oot and form historie.
+policy-DisableMasterPasswordCreation = Gin true, a maister passwird cannae be makkit.
+policy-DisablePrimaryPasswordCreation = Gin true, a Primary Passwird cannae be makkit.
+policy-DisablePasswordReveal = Dinnae alloo passwirds tae be kythed in saved logins.
+policy-DisablePocket = Disable the featur tae save wabpages tae Pocket.
 policy-DisablePrivateBrowsing = Disable Preevat Stravaigin
+policy-DisableProfileImport = Disable the menu command tae Inbring data fae anither stravaiger.
+policy-DisableProfileRefresh = Disable the Refresh { -brand-short-name } button in the aboot:support page.
+policy-DisableSafeMode = Disable the featur tae restert in Sauf Mode. Tak tent: the Shift key fur tae gang intae Sauf Mode can anely be disabled on Windows yaisin Group Policy.
+policy-DisableSecurityBypass = Stap the yaiser fae joukin certain siccarness warnins.
+policy-DisableSetAsDesktopBackground = Disable the menu command Set as Desktap Backgrund fur images.
+policy-DisableSystemAddonUpdate = Stap the stravaiger fae instawin and updatin seestem eik-ons.
+policy-DisableTelemetry = Turn aff Telemetry.
+policy-DisplayBookmarksToolbar = Kythe the Buikmerks Toolbaur as staunart.
+policy-DisplayMenuBar = Kythe the Menu Baur as staunart.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
