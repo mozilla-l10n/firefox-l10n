@@ -260,8 +260,6 @@ cfr-whatsnew-better-pdf-body = Imesliyen PDF ttaldayen-d tura srid deg { -brand-
 
 cfr-doorhanger-doh-body = Aqader n tudert-ik tabaḍnit yeεna-aɣ. { -brand-short-name } yettawi akka tura s wudem aɣelsan isutar-ik.im DNS a melmi i as-tettunefk tegnit ɣer uqeddac amendid akken ad tettummestneḍ mi ara tettinigeḍ.
 cfr-doorhanger-doh-header = Inadiyen DNS s wugar n tɣellist d uwgelhen
-cfr-doorhanger-doh-primary-button = IH awi-t-id
-    .accesskey = o
 cfr-doorhanger-doh-primary-button-2 = Ih
     .accesskey = I
 cfr-doorhanger-doh-secondary-button = Sens
@@ -307,3 +305,9 @@ cfr-whatsnew-bookmarking-body = Yeshel maḍi ad teǧǧeḍ lateṛ n yismal-ik�
 
 cfr-whatsnew-cross-site-tracking-header = Ammesten ummid mgal aḍfar n yinagan n tuqqna gar yismal
 cfr-whatsnew-cross-site-tracking-body = Tzemreḍ tura ad tferneḍ ammesten yufraren mgal aḍfar n yinagan n tuqqna. { -brand-short-name }  yezmer ad d-yeεzel tigawin-inek·inem d yisefka ɣef usmel ideg telliḍ imir-nni akken talɣut yettukelsen deg yiminig ur tettwabḍu ara gar yismal web.
+
+## Full Video Support CFR message
+
+cfr-doorhanger-video-support-header = Leqqem { -brand-short-name } i tɣuri n tvidyut
+cfr-doorhanger-video-support-primary-button = Leqqem tura
+    .accesskey = L
