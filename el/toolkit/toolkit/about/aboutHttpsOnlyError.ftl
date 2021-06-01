@@ -7,7 +7,7 @@ about-httpsonly-insecure-title = Μη διαθέσιμη ασφαλής σύνδ
 #   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
 about-httpsonly-insecure-explanation-unavailable = Περιηγείστε σε λειτουργία Μόνο-HTTPS και δεν διατίθεται ασφαλής έκδοση HTTPS του <em>{ $websiteUrl }</em>.
 about-httpsonly-insecure-explanation-reasons = Πιθανότατα, η ιστοσελίδα δεν υποστηρίζει HTTPS, αλλά είναι επίσης πιθανό ότι ένας εισβολέας αποκλείει την έκδοση HTTPS.
-about-httpsonly-insecure-explanation-exception = Ενώ ο κίνδυνος ασφαλείας είναι μικρός, αν αποφασίσετε να επισκεφθείτε την έκδοση HTTP της ιστοσελίδας, δεν θα πρέπει να καταχωρήσετε ευαίσθητες πληροφορίες, όπως κωδικούς πρόσβασης, emails ή στοιχεία πιστωτικών καρτών.
+about-httpsonly-insecure-explanation-exception = Ενώ ο κίνδυνος ασφαλείας είναι μικρός, αν αποφασίσετε να επισκεφθείτε την έκδοση HTTP της ιστοσελίδας, δεν θα πρέπει να καταχωρήσετε ευαίσθητες πληροφορίες, όπως κωδικούς πρόσβασης, email ή στοιχεία πιστωτικών καρτών.
 about-httpsonly-button-make-exception = Αποδοχή κινδύνου και συνέχεια στην ιστοσελίδα
 about-httpsonly-title-alert = Ειδοποίηση λειτουργίας Μόνο-HTTPS
 about-httpsonly-title-connection-not-available = Μη διαθέσιμη ασφαλής σύνδεση
