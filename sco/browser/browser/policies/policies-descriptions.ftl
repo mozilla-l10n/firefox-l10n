@@ -15,6 +15,12 @@ policy-AllowedDomainsForApps = Define domains allooed ingang tae Google Workspac
 policy-AppAutoUpdate = Enable or disable automatic application update.
 policy-AppUpdateURL = Set custom app update URL.
 policy-Authentication = Confeegur integratit uphaudin fur wabsites that support it.
+policy-AutoLaunchProtocolsFromOrigins = Define a list o ootby protocols that can be yaised fae listit origins wioot speirin the yaiser.
+policy-BackgroundAppUpdate2 = Enable or disable the backgrund updater.
+policy-BlockAboutAddons = Block ingang tae the Eik-ons Manager (aboot:eikons).
+policy-BlockAboutConfig = Block ingang tae the aboot:confeeg page.
+policy-BlockAboutProfiles = Block ingang tae the aboot:profiles page.
+policy-BlockAboutSupport = Block ingang tae the aboot:support page.
 policy-DisabledCiphers = Disable ciphers.
 policy-DisablePrivateBrowsing = Disable Preevat Stravaigin
 
