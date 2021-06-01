@@ -113,10 +113,10 @@ fonts-allow-own =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
-fonts-languages-fallback-header = Codifica del testo per contenuti datati
-fonts-languages-fallback-desc = Questa codifica del testo viene utilizzata per contenuti datati che non specificano una propria codifica.
+fonts-languages-fallback-header = Codifica testo per contenuti datati
+fonts-languages-fallback-desc = Questa codifica testo viene utilizzata per contenuti datati che non specificano una propria codifica.
 
-fonts-languages-fallback-label = Codifica del testo da utilizzare
+fonts-languages-fallback-label = Codifica testo da utilizzare
     .accesskey = o
 
 fonts-languages-fallback-name-auto =
