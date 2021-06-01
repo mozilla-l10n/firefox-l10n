@@ -21,6 +21,8 @@ connection-dialog-window =
             [macos] width: 44em !important
            *[other] width: 49em !important
         }
+connection-disable-extension =
+    .label = Kiegészítő letiltása
 connection-proxy-legend = Proxy beállítása az internet eléréséhez
 proxy-type-no =
     .label = Nincs proxy
