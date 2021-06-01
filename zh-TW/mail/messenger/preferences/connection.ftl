@@ -21,6 +21,8 @@ connection-dialog-window =
             [macos] width: 44em !important
            *[other] width: 49em !important
         }
+connection-disable-extension =
+    .label = 停用擴充套件
 connection-proxy-legend = 設定存取網際網路的代理伺服器 (Proxy)
 proxy-type-no =
     .label = 不使用 Proxy
