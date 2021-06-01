@@ -14,6 +14,7 @@ default-browser-notification-button =
 
 default-browser-prompt-title-pin = { -brand-short-name } als Hauptbrowser festlegen?
 default-browser-prompt-message-pin = Haben Sie { -brand-short-name } immer zur Hand – legen Sie ihn als Standardbrowser fest und heften Sie ihn an die Taskleiste.
+default-browser-prompt-message-pin-mac = Haben Sie { -brand-short-name } immer zur Hand – legen Sie ihn als Standardbrowser fest und behalten Sie ihn im Dock.
 default-browser-prompt-button-primary-pin = Als Hauptbrowser festlegen
 default-browser-prompt-title-alt = { -brand-short-name } als Standardbrowser festlegen?
 default-browser-prompt-message-alt = Holen Sie sich Geschwindigkeit, Sicherheit und Datenschutz bei jedem Surfen.
