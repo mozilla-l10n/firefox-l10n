@@ -302,7 +302,7 @@ cfr-whatsnew-cross-site-tracking-body = 现在起，您可以更好地保护自�
 
 ## Full Video Support CFR message
 
-cfr-doorhanger-video-support-body = 此网站上的视频可能无法在此版本的 { -brand-short-name } 正常播放。若需完整的视频支持，请立即更新 { -brand-short-name }。
+cfr-doorhanger-video-support-body = 该网站上的视频可能无法在此版本的 { -brand-short-name } 正常播放。若需完整的视频支持，请立即更新 { -brand-short-name }。
 cfr-doorhanger-video-support-header = 更新 { -brand-short-name } 以播放视频
 cfr-doorhanger-video-support-primary-button = 立即更新
     .accesskey = U
