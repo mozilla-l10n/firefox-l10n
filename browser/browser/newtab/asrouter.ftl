@@ -275,7 +275,7 @@ cfr-doorhanger-doh-secondary-button = Отключить
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-body-approved = Ваша приватность имеет значение. { -brand-short-name } теперь изолирует веб-сайты друг от друга, помещая их в так называемые «песочницы», так что теперь хакерам станет труднее украсть пароли, данные кредитных карт и другую важную для вас информацию.
+cfr-doorhanger-fission-body-approved = Ваша приватность имеет значение. { -brand-short-name } теперь изолирует веб-сайты друг от друга, помещая их в так называемые «песочницы», так что теперь хакерам станет труднее украсть пароли, данные банковских карт и другую важную для вас информацию.
 cfr-doorhanger-fission-header = Изоляция сайта
 cfr-doorhanger-fission-primary-button = OK, понятно
     .accesskey = я
