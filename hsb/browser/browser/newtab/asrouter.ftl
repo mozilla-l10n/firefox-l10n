@@ -322,5 +322,6 @@ cfr-whatsnew-cross-site-tracking-body = Móžeće škit před slědowanjom přez
 
 ## Full Video Support CFR message
 
+cfr-doorhanger-video-support-header = { -brand-short-name } aktualizować, zo byšće widejo wothrał
 cfr-doorhanger-video-support-primary-button = Nětko aktualizować
     .accesskey = N
