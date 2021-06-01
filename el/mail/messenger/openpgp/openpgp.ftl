@@ -387,8 +387,8 @@ filter-term-pgpencrypted-label = Κρυπτογραφημένο κατά OpenPGP
 filter-key-required = Πρέπει να επιλέξετε ένα κλειδί παραλήπτη.
 filter-key-not-found = Δεν ήταν δυνατή η εύρεση ενός κλειδιού κρυπτογράφησης για το '{ $desc }'.
 filter-warn-key-not-secret =
-    Προειδοποίηση - η ενέργεια φίλτρου "Κρυπτογράφηση με το κλειδί" αντικαθιστά τους παραλήπτες.
-    Εάν δεν έχετε το μυστικό κλειδί για το '{ $desc }' δεν θα μπορείτε πλέον να διαβάζετε τα μηνύματα.
+    Προειδοποίηση - η ενέργεια φίλτρου "Κρυπτογράφηση με κλειδί" αντικαθιστά τους παραλήπτες.
+    Εάν δεν έχετε το μυστικό κλειδί για το '{ $desc }', δεν θα μπορείτε πλέον να διαβάζετε τα email.
 # Strings filtersWrapper.jsm
 filter-decrypt-move-label = Οριστική αποκρυπτογράφηση (OpenPGP)
 filter-decrypt-copy-label = Δημιουργία αποκρυπτογραφημένου αντιγράφου (OpenPGP)
@@ -633,5 +633,6 @@ dlg-button-retry = &Επανάληψη
 dlg-button-skip = &Παράλειψη
 # Strings used in enigmailCommon.js
 enig-error = Σφάλμα OpenPGP
+# Strings used in enigmailMsgBox.js
 enig-alert-title =
     .title = Ειδοποίηση OpenPGP
