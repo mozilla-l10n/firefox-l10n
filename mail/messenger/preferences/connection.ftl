@@ -21,6 +21,8 @@ connection-dialog-window =
             [macos] width: 44em !important
            *[other] width: 49em !important
         }
+connection-disable-extension =
+    .label = Poista laajennus käytöstä
 connection-proxy-legend = Määritä välityspalvelinasetukset
 proxy-type-no =
     .label = Ei välityspalvelinta
