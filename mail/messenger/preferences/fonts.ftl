@@ -124,7 +124,7 @@ use-fixed-width-plain-checkbox =
 ## Language settings
 
 text-encoding-legend = Codifica testo
-text-encoding-description = Impostare la codifica di testo predefinita per inviare e ricevere la posta
+text-encoding-description = Impostare la codifica testo predefinita per inviare e ricevere la posta
 font-outgoing-email-label =
     .value = Posta in uscita:
     .accesskey = s
@@ -132,5 +132,5 @@ font-incoming-email-label =
     .value = Posta in arrivo:
     .accesskey = a
 default-font-reply-checkbox =
-    .label = Se possibile utilizzare la codifica del testo predefinita nelle risposte
+    .label = Se possibile utilizzare la codifica testo predefinita nelle risposte
     .accesskey = S
