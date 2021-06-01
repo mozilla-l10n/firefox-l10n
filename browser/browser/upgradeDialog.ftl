@@ -44,6 +44,13 @@ upgrade-dialog-pin-title =
         [macos] Behalte { -brand-short-name } im Dock
        *[other] Hefte { -brand-short-name } an die Taskleiste
     }
+# The English macOS string avoids repeating "Keep" a third time, so if your
+# translations don't repeat anyway, the same string can be used cross-platform.
+upgrade-dialog-pin-subtitle =
+    { PLATFORM() ->
+        [macos] Habe den neuesten { -brand-short-name } immer zur Hand.
+       *[other] Habe den neuesten { -brand-short-name } immer zur Hand.
+    }
 upgrade-dialog-pin-primary-button =
     { PLATFORM() ->
         [macos] Im Dock behalten
@@ -69,6 +76,8 @@ upgrade-dialog-default-secondary-button = Nicht jetzt
 upgrade-dialog-theme-title =
     Starte neu durch
     mit einem aktualisierten Theme
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-theme-title-2 = Starte neu durch mit einem frischen Theme
 upgrade-dialog-theme-system = System-Theme
     .title = Den Betriebssystemeinstellungen für Schaltflächen, Menüs und Fenster folgen
 upgrade-dialog-theme-light = Hell
