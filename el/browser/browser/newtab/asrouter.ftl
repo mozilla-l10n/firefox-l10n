@@ -309,3 +309,10 @@ cfr-whatsnew-bookmarking-body = Είναι πιο εύκολο να παρακο
 
 cfr-whatsnew-cross-site-tracking-header = Πλήρης προστασία από τα cookies καταγραφής μεταξύ ιστοσελίδων
 cfr-whatsnew-cross-site-tracking-body = Μπορείτε τώρα να εγγραφείτε για καλύτερη προστασία από καταγραφή cookie. Το { -brand-short-name } μπορεί να απομονώσει τις δραστηριότητες και τα δεδομένα σας στην ιστοσελίδα που βρίσκεστε, ώστε οι αποθηκευμένες πληροφορίες να μην μοιράζονται μεταξύ ιστοσελίδων.
+
+## Full Video Support CFR message
+
+cfr-doorhanger-video-support-body = Τα βίντεο αυτής της ιστοσελίδας ενδέχεται να μην αναπαράγονται σωστά σε αυτή την έκδοση του { -brand-short-name }. Για πλήρη υποστήριξη βίντεο, ενημερώστε το { -brand-short-name } τώρα.
+cfr-doorhanger-video-support-header = Ενημερώστε το { -brand-short-name } για αναπαραγωγή του βίντεο
+cfr-doorhanger-video-support-primary-button = Ενημέρωση τώρα
+    .accesskey = Ε
