@@ -4,3 +4,9 @@
 
 third-party-header-module-list = Modül listesi
 third-party-header-loading-events = Olaylar yükleniyor
+third-party-message-no-duration = Kaydedilmedi
+third-party-detail-version = Dosya sürümü
+third-party-detail-vendor = Sağlayıcı bilgileri
+third-party-detail-app = Uygulama
+third-party-th-process = İşlem
+third-party-th-status = Durum
