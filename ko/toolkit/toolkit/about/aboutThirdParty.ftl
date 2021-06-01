@@ -9,7 +9,9 @@ third-party-intro =
     Microsoft 또는 { -vendor-short-name }에서 서명하지 않은 모듈은 
     제3자 모듈로 간주됩니다.
 third-party-header-module-list = 모듈 목록
+third-party-header-loading-events = 로드 이벤트
 third-party-message-empty = 제3자 모듈이 감지되지 않았습니다.
+third-party-message-no-duration = 기록 안 됨
 third-party-detail-version = 파일 버전
 third-party-detail-vendor = 공급업체 정보
 third-party-detail-occurrences = 횟수
@@ -17,9 +19,14 @@ third-party-detail-occurrences = 횟수
 third-party-detail-duration = 평균 차단 시간 (ms)
     .title = 이 모듈이 애플리케이션을 차단한 시간입니다.
 third-party-detail-app = 애플리케이션
+third-party-detail-publisher = 게시자
 third-party-th-process = 프로세스
 third-party-th-duration = 로드 시간 (ms)
 third-party-th-status = 상태
+third-party-tag-ime = IME
+    .title = 이 유형의 모듈은 제3자 IME를 사용할 때 로드됩니다.
+third-party-tag-shellex = 셸 확장
+    .title = 이 유형의 모듈은 시스템 파일 대화 상자를 열 때 로드됩니다.
 third-party-tag-background = 백그라운드
     .title =
         이 모듈은 백그라운드에서 로드되었기 때문에 

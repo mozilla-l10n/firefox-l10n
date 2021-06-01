@@ -302,6 +302,7 @@ cfr-whatsnew-cross-site-tracking-body = 이제 쿠키 추적으로부터 더 나
 
 ## Full Video Support CFR message
 
+cfr-doorhanger-video-support-body = 이 사이트의 동영상은 이 버전의 { -brand-short-name }에서 제대로 재생되지 않을 수 있습니다. 전체 동영상 지원을 받으려면, 지금 { -brand-short-name }를 업데이트하세요.
 cfr-doorhanger-video-support-header = 동영상을 재생하려면 { -brand-short-name } 업데이트
 cfr-doorhanger-video-support-primary-button = 지금 업데이트
     .accesskey = U
