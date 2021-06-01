@@ -309,3 +309,10 @@ cfr-whatsnew-bookmarking-body = It's easier tae keep on tap o yer favourite site
 
 cfr-whatsnew-cross-site-tracking-header = Aw-oot bieldin fae cross-site cookie trackin
 cfr-whatsnew-cross-site-tracking-body = Ye can noo opt in tae better bieldin fae cookie trackin. { -brand-short-name } can isolate yer ongauns and data tae the site ye're on jist noo, sae's information stored in the wab-stravaiger isnae shared atween wabsites.
+
+## Full Video Support CFR message
+
+cfr-doorhanger-video-support-body = Videos on this site micht no wirk richt on this version o { -brand-short-name }. Fur full video support, update { -brand-short-name } noo.
+cfr-doorhanger-video-support-header = Update { -brand-short-name } fur tae pley video
+cfr-doorhanger-video-support-primary-button = Update Noo
+    .accesskey = U
