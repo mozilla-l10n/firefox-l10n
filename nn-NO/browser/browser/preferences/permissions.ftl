@@ -58,6 +58,10 @@ permissions-capabilities-listitem-block =
     .value = Blokker
 permissions-capabilities-listitem-allow-session =
     .value = Tillat for programøkta
+permissions-capabilities-listitem-off =
+    .value = Av
+permissions-capabilities-listitem-off-temporarily =
+    .value = Kortvarig av
 
 ## Invalid Hostname Dialog
 
@@ -77,6 +81,9 @@ permissions-exceptions-cookie-window =
     .title = Unntak - Infokapslar og nettstaddata
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = Du kan spesifisere kva for nettstadar som alltid eller aldri får bruke infokapslar og nettstaddata.  Skriv inn den eksakte adressa til nettstaden du vil administrere, og klikk deretter Blokker, Tillat for økt, eller Tillat.
+
+## Exceptions - HTTPS-Only Mode
+
 
 ## Exceptions - Pop-ups
 
