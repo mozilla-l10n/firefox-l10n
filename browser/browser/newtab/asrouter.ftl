@@ -220,8 +220,6 @@ cfr-doorhanger-milestone-heading2 =
     }
 cfr-doorhanger-milestone-ok-button = Összes megjelenítése
     .accesskey = m
-cfr-doorhanger-milestone-close-button = Bezárás
-    .accesskey = B
 
 ## What’s New Panel Content for Firefox 76
 
@@ -246,6 +244,8 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Kép a képben ikon
 
 ## Protections Dashboard message
 
+cfr-doorhanger-milestone-close-button = Bezárás
+    .accesskey = B
 
 ## What’s New Panel Content for Firefox 76
 ## Protections Dashboard message
@@ -264,8 +264,6 @@ cfr-whatsnew-better-pdf-body = A PDF-dokumentumok már közvetlenül a { -brand-
 
 cfr-doorhanger-doh-body = Számít az adatvédelem. A { -brand-short-name }, amikor csak lehet, biztonságosan továbbítja a DNS-kéréseit egy partnerszolgáltatóhoz, hogy megvédje Önt, miközben böngészik.
 cfr-doorhanger-doh-header = Biztonságosabb, titkosított DNS-keresések
-cfr-doorhanger-doh-primary-button = Rendben, értem
-    .accesskey = R
 cfr-doorhanger-doh-primary-button-2 = Rendben
     .accesskey = R
 cfr-doorhanger-doh-secondary-button = Letiltás
@@ -311,3 +309,9 @@ cfr-whatsnew-bookmarking-body = Könnyebb nyomon követni kedvenc webhelyeit. A 
 
 cfr-whatsnew-cross-site-tracking-header = Átfogó védelem a webhelyek közötti sütik követése ellen
 cfr-whatsnew-cross-site-tracking-body = Mostantól jobban védve lehet a sütik általi nyomon követéstől. A { -brand-short-name } elkülönítheti tevékenységeit és adatait az épp használt weblaptól, így a böngészőben tárolt információ nem kerül webhelyközi megosztásra.
+
+## Full Video Support CFR message
+
+cfr-doorhanger-video-support-header = A videó lejátszásához frissítse a { -brand-short-name }ot
+cfr-doorhanger-video-support-primary-button = Frissítés most
+    .accesskey = F
