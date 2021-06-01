@@ -68,6 +68,10 @@ appmenu-update-restart =
     .secondarybuttonlabel = Teď ne
     .secondarybuttonaccesskey = n
 appmenu-update-restart-message = Po rychlém restartu obnoví { -brand-shorter-name } všechny otevřené panely a okna, která nejsou v režimu anonymního prohlížení.
+appmenu-addon-private-browsing-installed =
+    .buttonlabel = Ok, rozumím
+    .buttonaccesskey = O
+appmenu-addon-post-install-message = Své doplňky spravujte klepnutím na <image data-l10n-name='addon-install-icon'></image> v nabídce <image data-l10n-name='addon-menu-icon'></image>.
 appmenu-update-available2 =
     .label = Nová aktualizace
     .buttonlabel = Stáhnout
@@ -114,7 +118,7 @@ appmenu-update-restart2 =
     .secondarybuttonlabel = Zavřít
     .secondarybuttonaccesskey = Z
 appmenu-update-restart-message2 =
-    Stáhněte si nejnovější verzi { -brand-shorter-name.gender ->
+    Nainstalujte si nejnovější verzi { -brand-shorter-name.gender ->
         [masculine] { -brand-shorter-name(case: "gen") }
         [feminine] { -brand-shorter-name(case: "gen") }
         [neuter] { -brand-shorter-name(case: "gen") }
@@ -144,14 +148,9 @@ appmenu-update-other-instance-message =
         [neuter] { -brand-shorter-name(case: "gen") }
        *[other] aplikace { -brand-shorter-name }
     }. Pro spuštění aktualizace tuto kopii ukončete, nebo spuštění vynuťte (běžící aplikace pak může přestat správně fungovat, dokud ji nerestartujete).
-appmenu-addon-private-browsing-installed =
-    .buttonlabel = Ok, rozumím
-    .buttonaccesskey = O
-appmenu-addon-post-install-message = Své doplňky spravujte klepnutím na <image data-l10n-name='addon-install-icon'></image> v nabídce <image data-l10n-name='addon-menu-icon'></image>.
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = OK
     .buttonaccesskey = O
-appmenu-addon-post-install-message2 = Spravujte svá rozšíření a vzhledy z hlavní nabídky aplikace.
 appmenu-addon-post-install-message3 = Spravujte své doplňky a vzhledy z hlavní nabídky aplikace.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Povolit toto rozšíření v anonymních oknech
