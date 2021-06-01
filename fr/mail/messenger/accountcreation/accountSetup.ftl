@@ -176,14 +176,32 @@ account-setup-insecure-outgoing-title = Paramètres du courrier sortant :
 # Variables:
 #  $server (String): The name of the hostname of the server the user was trying to connect to.
 account-setup-warning-cleartext = <b>{ $server }</b> n’utilise pas de chiffrement.
+account-setup-warning-cleartext-details = Les serveurs de courrier non sécurisés n’utilisent pas de connexions chiffrées pour protéger vos mots de passe et vos informations privées. En vous connectant à ce serveur, vous pourriez exposer votre mot de passe et vos informations privées.
 account-setup-insecure-server-checkbox = Je comprends les risques
     .accesskey = u
+account-setup-insecure-description = { -brand-short-name } peut vous permettre d’accéder à vos courriels en utilisant les configurations fournies. Cependant, vous devriez contacter votre administrateur ou votre fournisseur de messagerie au sujet de ces connexions incorrectes. Consultez la <a data-l10n-name="thunderbird-faq-link">FAQ de Thunderbird</a> pour plus d’informations.
+insecure-dialog-cancel-button = Modifier les paramètres
+    .accesskey = s
+insecure-dialog-confirm-button = Confirmer
+    .accesskey = C
 
 ## Warning Exchange confirmation dialog
 
+# Variables:
+#  $domain (String): The name of the server where the configuration was found, e.g. rackspace.com.
+exchange-dialog-question = { -brand-short-name } a trouvé les informations de configuration de votre compte sur { $domain }. Voulez-vous continuer et soumettre vos informations d’identification ?
+exchange-dialog-confirm-button = Connexion
+exchange-dialog-cancel-button = Annuler
 
 ## Alert dialogs
 
+account-setup-creation-error-title = Erreur lors de la création du compte
+account-setup-error-server-exists = Le serveur de courrier entrant existe déjà.
+account-setup-confirm-advanced-title = Confirmer la configuration avancée
+account-setup-confirm-advanced-description = Cette boîte de dialogue sera fermée et un compte avec les paramètres actuels sera créé, même si la configuration est incorrecte. Voulez-vous poursuivre ?
 
 ## Addon installation section
 
+account-setup-addon-install-title = Installation
+account-setup-addon-install-intro = Un module complémentaire tiers peut vous permettre d’accéder à votre compte de messagerie sur ce serveur :
+account-setup-addon-no-protocol = Malheureusement, ce serveur de messagerie ne prend pas en charge les protocoles ouverts. { account-setup-addon-install-intro }
