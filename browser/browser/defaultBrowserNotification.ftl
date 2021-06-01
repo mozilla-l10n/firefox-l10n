@@ -14,6 +14,7 @@ default-browser-notification-button =
 
 default-browser-prompt-title-pin = { -brand-short-name } jo foarkarsbrowser meitsje?
 default-browser-prompt-message-pin = Hâld { -brand-short-name } binnen jo hantberik – meitsje it jo standertbrowser en set it fêst oan jo taakbalke.
+default-browser-prompt-message-pin-mac = Hâld { -brand-short-name } binnen jo hantberik – meitsje it jo standertbrowser en foegje it oan jo Dock ta.
 default-browser-prompt-button-primary-pin = Foarkarsbrowser meitsje
 default-browser-prompt-title-alt = { -brand-short-name } jo standertbrowser meitsje?
 default-browser-prompt-message-alt = Untfang snelheid, feilichheid en privacy, hieltyd as jo sneupe.

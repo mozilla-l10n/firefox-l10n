@@ -18,6 +18,12 @@ permissions-session =
 permissions-allow =
     .label = Tastean
     .accesskey = T
+permissions-button-off =
+    .label = Utskeakelje
+    .accesskey = U
+permissions-button-off-temporarily =
+    .label = Tydlik útskeakelje
+    .accesskey = T
 permissions-site-name =
     .label = Website
 permissions-status =
@@ -58,6 +64,10 @@ permissions-capabilities-listitem-block =
     .value = Blokkearje
 permissions-capabilities-listitem-allow-session =
     .value = Tastean foar sesje
+permissions-capabilities-listitem-off =
+    .value = Ut
+permissions-capabilities-listitem-off-temporarily =
+    .value = Tydlik út
 
 ## Invalid Hostname Dialog
 
@@ -77,6 +87,13 @@ permissions-exceptions-cookie-window =
     .title = Utsûnderingen - Cookies en websitegegevens
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = Jo kinne opjaan hokker websites altyd of nea tastimming hawwe om cookies en websitegegevens te brûken. Typ it eksakte adres fan de website dy't jo beheare wolle en klik dêrnei op Blokkearje, Tastean foar sesje of Tastean.
+
+## Exceptions - HTTPS-Only Mode
+
+permissions-exceptions-https-only-window =
+    .title = Utsûnderingen – Allinnich-HTTPS-modus
+    .style = { permissions-window.style }
+permissions-exceptions-https-only-desc = Jo kinne de Allinnich-HTTPS-modus foar spesifike websites útskeakelje. { -brand-short-name } sil foar dy websites net probearje de ferbining nei feilige HTTPS te fernijen. Utsûnderingen binne net fan tapassing op priveefinsters.
 
 ## Exceptions - Pop-ups
 
