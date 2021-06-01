@@ -10,6 +10,11 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-3rdparty = Set policies that WebExtensions can gang intae via chrome.storage.managed.
+policy-AllowedDomainsForApps = Define domains allooed ingang tae Google Workspace.
+policy-AppAutoUpdate = Enable or disable automatic application update.
+policy-AppUpdateURL = Set custom app update URL.
+policy-Authentication = Confeegur integratit uphaudin fur wabsites that support it.
 policy-DisabledCiphers = Disable ciphers.
 policy-DisablePrivateBrowsing = Disable Preevat Stravaigin
 
