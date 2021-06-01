@@ -38,6 +38,17 @@ upgrade-dialog-new-primary-win7-button = W porjadku, sym zrozumił!
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-pin-title =
+    { PLATFORM() ->
+        [macos] { -brand-short-name } we wašim doku wobchować
+       *[other] { -brand-short-name } k wašej nadawkowej lajsće připjeć
+    }
+upgrade-dialog-pin-primary-button =
+    { PLATFORM() ->
+        [macos] W doku wobchować
+       *[other] K nadawkowej lajsće připjeć
+    }
 upgrade-dialog-pin-secondary-button = Nic nětko
 
 ## Default browser screen
