@@ -309,3 +309,10 @@ cfr-whatsnew-bookmarking-body = Det er lettare å halde oversikt over favorittne
 
 cfr-whatsnew-cross-site-tracking-header = Omfattande vern mot sporingsinfokapslar på tvers av nettstadar
 cfr-whatsnew-cross-site-tracking-body = Du kan no velje betre vern mot infokapsel-sporing. { -brand-short-name } kan isolere aktivitetane og dataa dine til nettstaden du er på, slik at informasjon som er lagra i nettlesaren ikkje blir delt mellom nettstadar.
+
+## Full Video Support CFR message
+
+cfr-doorhanger-video-support-body = Videoar på dnne nettstaden kan ikkje spelast av rett på denne versjonen av { -brand-short-name }. For full videostøtte, oppdater { -brand-short-name } no.
+cfr-doorhanger-video-support-header = Oppdater { -brand-short-name } for å spele av video
+cfr-doorhanger-video-support-primary-button = Oppdater no
+    .accesskey = O
