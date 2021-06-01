@@ -48,7 +48,7 @@
 <!-- Used just in context popup. -->
 <!ENTITY createLinkCmd.label "Δημιουργία συνδέσμου…">
 <!ENTITY createLinkCmd.accesskey "Δ">
-<!ENTITY editLinkCmd.label "Επεξεργασία συνδέσμου σε νέα σύνταξη">
+<!ENTITY editLinkCmd.label "Επεξεργασία συνδέσμου σε νέο παράθυρο σύνθεσης">
 <!ENTITY editLinkCmd.accesskey "μ">
 
 <!-- Font Face SubMenu -->
