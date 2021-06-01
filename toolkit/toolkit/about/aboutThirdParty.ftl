@@ -29,7 +29,7 @@ third-party-tag-shellex = Systemowe rozšěrjenje
     .title = Tutón modulowy typ so začita, hdyž systemowy datajowy dialog wočinjeće.
 third-party-tag-background = Pozadk
     .title =
-        Tutón modul njeje nałoženje blokował, dokelž je so w slězynje
+        Tutón modul njeje nałoženje blokował, dokelž je so w pozadku
         začitał.
 third-party-unsigned-icon =
     .title = Tutón modul njeje signowany
