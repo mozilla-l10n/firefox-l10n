@@ -19,3 +19,25 @@ third-party-detail-publisher = Közzétevő
 third-party-th-process = Folyamat
 third-party-th-duration = Betöltés időtartama (ms)
 third-party-th-status = Állapot
+third-party-tag-ime = IME
+    .title = Ez a modultípus akkor kerül betöltésre, ha harmadik féltől származó IME-t használ.
+third-party-tag-background = Háttér
+    .title =
+        Ez a modul nem blokkolja az alkalmazást, mert a háttérben lett
+        betöltve.
+third-party-unsigned-icon =
+    .title = Ez a modul nincs aláírva
+third-party-warning-icon =
+    .title = A { -brand-short-name } összeomlott a modul kódjában
+third-party-status-loaded = Betöltött
+third-party-status-blocked = Blokkolt
+third-party-status-redirected = Átirányított
+third-party-button-copy-to-clipboard = Nyers adatok másolása a vágólapra
+third-party-button-reload = Újratöltés rendszer-információkkal
+    .title = Újratöltés rendszer-információkkal
+third-party-button-open =
+    .title = A fájl helyének megnyitása…
+third-party-button-expand =
+    .title = Részletes információk megjelenítése
+third-party-button-collapse =
+    .title = Részletes információk összecsukása
