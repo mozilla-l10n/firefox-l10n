@@ -163,9 +163,11 @@ menu-view-page-basic-style =
     .label = Stile pagina di base
     .accesskey = S
 menu-view-charset =
-    .label = Codifica del testo
+    .label = Codifica testo
     .accesskey = C
-
+menu-view-repair-text-encoding =
+    .label = Correggi codifica testo
+    .accesskey = C
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
