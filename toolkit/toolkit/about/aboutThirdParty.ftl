@@ -4,6 +4,11 @@
 
 third-party-page-title = Harmadik féltől származó modul információi
 third-party-section-title = Harmadik féltől származó modulok a { -brand-short-name }ban
+third-party-intro =
+    Az oldal azokat a harmadik féltől származó modulokat mutatja, melyek
+    a { -brand-short-name } épültek. Minden olyan modul, amelyet nem a
+    Microsoft vagy a { -vendor-short-name } írt alá, harmadik féltől
+    származónak számít.
 third-party-header-module-list = Modullista
 third-party-header-loading-events = Események betöltése
 third-party-message-empty = Nem észlelhetők harmadik féltől származó modulok.
@@ -21,6 +26,8 @@ third-party-th-duration = Betöltés időtartama (ms)
 third-party-th-status = Állapot
 third-party-tag-ime = IME
     .title = Ez a modultípus akkor kerül betöltésre, ha harmadik féltől származó IME-t használ.
+third-party-tag-shellex = Felületbővítmény
+    .title = Ez a modultípus akkor kerül betöltésre, ha megnyitja a rendszer fájl párbeszédablakát.
 third-party-tag-background = Háttér
     .title =
         Ez a modul nem blokkolja az alkalmazást, mert a háttérben lett

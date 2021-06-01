@@ -312,6 +312,7 @@ cfr-whatsnew-cross-site-tracking-body = Mostantól jobban védve lehet a sütik 
 
 ## Full Video Support CFR message
 
+cfr-doorhanger-video-support-body = Előfordulhat, hogy az oldalon található videók nem játszhatók le a { -brand-short-name } ezen verziójában. A teljes videótámogatásért frissítse most a { -brand-short-name }ot.
 cfr-doorhanger-video-support-header = A videó lejátszásához frissítse a { -brand-short-name }ot
 cfr-doorhanger-video-support-primary-button = Frissítés most
     .accesskey = F
