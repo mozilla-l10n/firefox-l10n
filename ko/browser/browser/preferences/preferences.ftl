@@ -1125,10 +1125,10 @@ addon-recommendations-link = 더 알아보기
 # or builds with no Telemetry support available.
 collection-health-report-disabled = 이 빌드 설정에서는 데이터 보고가 비활성화 되어 있음
 collection-backlogged-crash-reports =
-    .label = { -brand-short-name }가 사용자를 대신하여 백로그된 충돌 보고서를 보내도록 허용함
+    .label = { -brand-short-name }가 사용자를 대신하여 백로그된 충돌 보고서를 보내도록 허용
     .accesskey = c
 collection-backlogged-crash-reports-link = 더 알아보기
-collection-backlogged-crash-reports-with-link = { -brand-short-name }가 사용자를 대신하여 백로그된 충돌 보고서를 보내도록 허용함 <a data-l10n-name="crash-reports-link">더 알아보기</a>
+collection-backlogged-crash-reports-with-link = { -brand-short-name }가 사용자를 대신하여 백로그된 충돌 보고서를 보내도록 허용 <a data-l10n-name="crash-reports-link">더 알아보기</a>
     .accesskey = c
 
 ## Privacy Section - Security
