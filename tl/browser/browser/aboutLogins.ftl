@@ -20,7 +20,7 @@ fxaccounts-sign-in-text = Kuhanin ang iyong mga password sa iba mong mga device
 fxaccounts-sign-in-button = Mag-sign in sa { -sync-brand-short-name }
 fxaccounts-sign-in-sync-button = Mag-sign in sa sync
 fxaccounts-avatar-button =
-    .title = I-manage ang account
+    .title = Pamahalaan ang account
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -70,7 +70,6 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Hinahanap mo ba ang iyong naka-save na mga login? I-set up ang { -sync-brand-short-name }.
-about-logins-login-intro-heading-logged-out = Hinahanap mo ang iyong mga naka-save na login? I-setup ang { -sync-brand-short-name } o i-import ang mga ito.
 about-logins-login-intro-heading-logged-in = Walang natagpuang naka-sync na mga login.
 login-intro-description = Kung nag-save ka ng mga login mo sa { -brand-product-name } sa ibang device, ganito ang dapat gawin para makuha mo sila rito:
 login-intro-instruction-fxa = Gumawa ng o mag-sign in sa iyong { -fxaccount-brand-name } sa device kung saan naka-save ang mga login mo
@@ -278,7 +277,6 @@ about-logins-import-dialog-error-title = Error sa Pag-import
 about-logins-import-dialog-error-file-format-title = May Isyu sa Format ng File
 about-logins-import-dialog-error-file-permission-title = Hindi mabasa ang File
 about-logins-import-dialog-error-learn-more = Karagdagang kaalaman
-about-logins-import-dialog-error-try-again = Subukan Muli...
 about-logins-import-dialog-error-cancel = Kanselahin
 #
 # Variables:

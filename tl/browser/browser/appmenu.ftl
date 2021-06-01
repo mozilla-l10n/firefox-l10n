@@ -21,11 +21,6 @@ appmenuitem-addons-and-themes =
     .label = mga Add-on at Themes
 appmenuitem-find-in-page =
     .label = Hanapin Sa Pahina...
-appmenuitem-exit =
-    .label = Lumabas
-appmenu-menu-button-closed =
-    .tooltiptext = Buksan ang Application Menu
-    .label = { -brand-shorter-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -45,8 +40,7 @@ appmenuitem-fullscreen =
 fxa-toolbar-sync-now =
     .label = Mag-sync Na
 appmenuitem-fxa-toolbar-sync-now2 = I-sync ngayon
-appmenu-fxa-header =
-    .title = { -fxaccount-brand-name }
+appmenuitem-fxa-manage-account = Pamahalaan ang account
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-fxa-signed-in-label = Mag sign-in
 appmenuitem-save-page =
@@ -83,6 +77,8 @@ profiler-popup-capture-shortcut =
 
 ## History panel
 
+appmenu-manage-history =
+    .label = Pamahalaan ang Kasaysayan
 appmenu-reopen-all-tabs = Muling Buksan ang Lahat ng mga Tab
 appmenu-reopen-all-windows = Muling buksan ang Lahat ng mga Window
 

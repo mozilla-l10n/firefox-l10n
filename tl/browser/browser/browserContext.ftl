@@ -313,6 +313,9 @@ main-context-menu-generate-new-password =
 
 ##
 
+main-context-menu-manage-logins2 =
+    .label = Pamahalaan ang ang Login
+    .accesskey = L
 main-context-menu-keyword =
     .label = Magdagdag ng Keyword para sa Search na ito...
     .accesskey = K
