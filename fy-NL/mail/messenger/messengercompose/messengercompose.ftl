@@ -158,3 +158,9 @@ many-public-recipients-bcc =
 many-public-recipients-ignore =
     .label = Untfangers iepenbier litte
     .accesskey = i
+
+## Notifications
+
+# Variables:
+# $identity (string) - The name of the used identity, most likely an email address.
+compose-missing-identity-warning = Der is gjin unike identiteit lyk oan it Fan-adres fûn. It berjocht sil ferstjoerd wurde mei it aktuele Fan-fjild en ynstellingen fan de identiteit fan { $identity }.
