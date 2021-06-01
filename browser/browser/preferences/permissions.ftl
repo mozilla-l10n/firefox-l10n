@@ -18,6 +18,12 @@ permissions-session =
 permissions-allow =
     .label = Erlauben
     .accesskey = E
+permissions-button-off =
+    .label = Ausschalten
+    .accesskey = A
+permissions-button-off-temporarily =
+    .label = Temporär ausschalten
+    .accesskey = T
 permissions-site-name =
     .label = Website
 permissions-status =
@@ -58,6 +64,10 @@ permissions-capabilities-listitem-block =
     .value = Blockieren
 permissions-capabilities-listitem-allow-session =
     .value = Für diese Sitzung erlauben
+permissions-capabilities-listitem-off =
+    .value = Aus
+permissions-capabilities-listitem-off-temporarily =
+    .value = Temporär aus
 
 ## Invalid Hostname Dialog
 
