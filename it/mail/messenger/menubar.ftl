@@ -6,7 +6,7 @@
 ## View Menu
 
 menu-view-charset =
-    .label = Codifica del testo
+    .label = Codifica testo
     .accesskey = c
 
 ## Tools Menu
