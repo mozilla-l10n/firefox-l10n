@@ -260,8 +260,6 @@ cfr-whatsnew-better-pdf-body = PDF belgeleri artık doğrudan { -brand-short-nam
 
 cfr-doorhanger-doh-body = Gizliliğiniz bizim için önemli. Web’de gezinirken gizliliğinizi korumak için { -brand-short-name } artık DNS isteklerinizi mümkün olduğunca iş ortaklarımıza yönlendiriyor.
 cfr-doorhanger-doh-header = Daha güvenli, şifrelenmiş DNS sorguları
-cfr-doorhanger-doh-primary-button = Tamam
-    .accesskey = m
 cfr-doorhanger-doh-primary-button-2 = Tamam
     .accesskey = T
 cfr-doorhanger-doh-secondary-button = Devre dışı bırak
@@ -307,3 +305,10 @@ cfr-whatsnew-bookmarking-body = Sevdiğiniz siteleri kaydetmek kolaylaştı. { -
 
 cfr-whatsnew-cross-site-tracking-header = Siteler arası çerez takibine karşı kapsamlı koruma
 cfr-whatsnew-cross-site-tracking-body = Artık çerez takibinden daha iyi korunmayı seçebilirsiniz. { -brand-short-name }, etkinliklerinizi ve verilerinizi içinde bulunduğunuz siteyle sınırlı kalacak şekilde izole edebilir. Böylece tarayıcıda depolanan bilgiler web siteleri arasında paylaşılmaz.
+
+## Full Video Support CFR message
+
+cfr-doorhanger-video-support-body = Bu sitedeki videolar { -brand-short-name }’un bu sürümünde düzgün oynatılamayabilir. Eksiksiz video desteği için { -brand-short-name } tarayıcınızı güncellemelisiniz.
+cfr-doorhanger-video-support-header = Videoları izlemek için { -brand-short-name }’ güncelleyin
+cfr-doorhanger-video-support-primary-button = Şimdi güncelle
+    .accesskey = m
