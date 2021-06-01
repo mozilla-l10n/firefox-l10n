@@ -21,6 +21,8 @@ connection-dialog-window =
             [macos] width: 44em !important
            *[other] width: 49em !important
         }
+connection-disable-extension =
+    .label = Rozšěrjenje znjemóžnić
 connection-proxy-legend = Proksy za přistup k internetej konfigurować
 proxy-type-no =
     .label = Žadyn proksy
