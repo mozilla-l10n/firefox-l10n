@@ -24,6 +24,8 @@ about-addressbook-books-context-properties =
     .label = Eigenskippen
 about-addressbook-books-context-synchronize =
     .label = Syngronisearje
+about-addressbook-books-context-print =
+    .label = Ofdrukke…
 about-addressbook-books-context-delete =
     .label = Fuortsmite
 

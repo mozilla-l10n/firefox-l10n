@@ -198,6 +198,10 @@ exchange-dialog-cancel-button = Annulearje
 account-setup-creation-error-title = Flater by oanmeitsjen fan account
 account-setup-error-server-exists = Ynkommende server bestiet al.
 account-setup-confirm-advanced-title = Wiidweidige konfiguraasje befêstigje
+account-setup-confirm-advanced-description = Dit dialoochfinster sil sluten wurde en der wurdt in account mei de aktuele ynstellingen oanmakke, ek as de konfiguraasje net krekt is. Wolle jo trochgean?
 
 ## Addon installation section
 
+account-setup-addon-install-title = Ynstallearje
+account-setup-addon-install-intro = In add-on fan tredden kin tagong jaan ta jo e-mailaccount op dizze server:
+account-setup-addon-no-protocol = Dizze e-mailserver stipet spitigernôch gjin iepen protokollen. { account-setup-addon-install-intro }
