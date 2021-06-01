@@ -44,6 +44,13 @@ upgrade-dialog-pin-title =
         [macos] { -brand-short-name } we wašim doku wobchować
        *[other] { -brand-short-name } k wašej nadawkowej lajsće připjeć
     }
+# The English macOS string avoids repeating "Keep" a third time, so if your
+# translations don't repeat anyway, the same string can be used cross-platform.
+upgrade-dialog-pin-subtitle =
+    { PLATFORM() ->
+        [macos] Wobstarajće sej lochki přistup k dotal najčerstwišemu { -brand-short-name }.
+       *[other] Wobchowajće najčerstwiši { -brand-short-name } k ruce.
+    }
 upgrade-dialog-pin-primary-button =
     { PLATFORM() ->
         [macos] W doku wobchować
