@@ -24,6 +24,8 @@ about-addressbook-books-context-properties =
     .label = Kakosći
 about-addressbook-books-context-synchronize =
     .label = Synchronizěrowaś
+about-addressbook-books-context-print =
+    .label = Śišćaś…
 about-addressbook-books-context-delete =
     .label = Lašowaś
 
