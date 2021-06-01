@@ -210,8 +210,6 @@ cfr-doorhanger-milestone-heading2 =
     }
 cfr-doorhanger-milestone-ok-button = 檢視全部
     .accesskey = S
-cfr-doorhanger-milestone-close-button = 關閉
-    .accesskey = C
 
 ## What’s New Panel Content for Firefox 76
 
@@ -236,6 +234,8 @@ cfr-whatsnew-pip-fullscreen-icon-alt = 子母畫面圖示
 
 ## Protections Dashboard message
 
+cfr-doorhanger-milestone-close-button = 關閉
+    .accesskey = C
 
 ## What’s New Panel Content for Firefox 76
 ## Protections Dashboard message
@@ -254,8 +254,6 @@ cfr-whatsnew-better-pdf-body = 現在可以直接在 { -brand-short-name } 直�
 
 cfr-doorhanger-doh-body = 您的隱私權相當重要。現在起，{ -brand-short-name } 會在您上網時，盡可能透過夥伴所提供的服務安全地進行 DNS 查詢，以保護您的隱私。
 cfr-doorhanger-doh-header = 更安全、加密的 DNS 查詢
-cfr-doorhanger-doh-primary-button = 好，知道了
-    .accesskey = O
 cfr-doorhanger-doh-primary-button-2 = 好的
     .accesskey = O
 cfr-doorhanger-doh-secondary-button = 停用
@@ -301,3 +299,10 @@ cfr-whatsnew-bookmarking-body = 很簡單就能追蹤您最愛的網站。{ -bra
 
 cfr-whatsnew-cross-site-tracking-header = 全面保護您不受跨網站 Cookie 追蹤
 cfr-whatsnew-cross-site-tracking-body = 現在起，您可以選擇開啟更強大的保護功能，保護您不被 Cookie 追蹤。{ -brand-short-name } 可分別隔離您在不同網站上的行為與資料，讓資料不會在網站間流傳。
+
+## Full Video Support CFR message
+
+cfr-doorhanger-video-support-body = 此網站上的影片可能無法於這個版本的 { -brand-short-name } 正常播放。若需完整支援影片播放，請更新 { -brand-short-name }。
+cfr-doorhanger-video-support-header = 更新 { -brand-short-name } 來播放影片
+cfr-doorhanger-video-support-primary-button = 立即更新
+    .accesskey = U
