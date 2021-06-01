@@ -21,6 +21,10 @@ policy-BlockAboutAddons = Block ingang tae the Eik-ons Manager (aboot:eikons).
 policy-BlockAboutConfig = Block ingang tae the aboot:confeeg page.
 policy-BlockAboutProfiles = Block ingang tae the aboot:profiles page.
 policy-BlockAboutSupport = Block ingang tae the aboot:support page.
+policy-Bookmarks = Create buikmerks in the Buikmerks toolbaur, Buikmerks menu, or a specified folder ben them.
+policy-CaptivePortal = Enable or disable captive portal support.
+policy-CertificatesDescription = Eik on certificates or yaise in-biggit certificates.
+policy-Cookies = Alloo or deny wabsites tae set cookies.
 policy-DisabledCiphers = Disable ciphers.
 policy-DisablePrivateBrowsing = Disable Preevat Stravaigin
 
