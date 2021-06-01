@@ -216,8 +216,6 @@ cfr-doorhanger-milestone-heading2 =
     }
 cfr-doorhanger-milestone-ok-button = Xem tất cả
     .accesskey = S
-cfr-doorhanger-milestone-close-button = Đóng
-    .accesskey = C
 
 ## What’s New Panel Content for Firefox 76
 
@@ -242,6 +240,8 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Biểu tượng hình trong hình
 
 ## Protections Dashboard message
 
+cfr-doorhanger-milestone-close-button = Đóng
+    .accesskey = C
 
 ## What’s New Panel Content for Firefox 76
 ## Protections Dashboard message
@@ -260,8 +260,6 @@ cfr-whatsnew-better-pdf-body = Tài liệu PDF hiện mở trực tiếp bằng 
 
 cfr-doorhanger-doh-body = Vấn đề riêng tư của bạn. { -brand-short-name } bây giờ định tuyến an toàn các yêu cầu DNS của bạn bất cứ khi nào có thể đến dịch vụ đối tác để bảo vệ bạn trong khi bạn duyệt.
 cfr-doorhanger-doh-header = Truy vấn DNS được mã hóa, an toàn hơn
-cfr-doorhanger-doh-primary-button = OK, đã hiểu
-    .accesskey = O
 cfr-doorhanger-doh-primary-button-2 = Okey
     .accesskey = O
 cfr-doorhanger-doh-secondary-button = Vô hiệu hóa
@@ -307,3 +305,10 @@ cfr-whatsnew-bookmarking-body = Theo dõi các trang web yêu thích của bạn
 
 cfr-whatsnew-cross-site-tracking-header = Bảo vệ toàn diện khỏi theo dõi cookie trên nhiều trang web
 cfr-whatsnew-cross-site-tracking-body = Bây giờ bạn có thể chọn tham gia để bảo vệ tốt hơn khỏi theo dõi cookie. { -brand-short-name } có thể cô lập các hoạt động và dữ liệu của bạn với trang web bạn hiện đang truy cập, vì vậy thông tin được lưu trữ trong trình duyệt sẽ không được chia sẻ giữa các trang web.
+
+## Full Video Support CFR message
+
+cfr-doorhanger-video-support-body = Các video trên trang web này có thể phát không đúng trên phiên bản { -brand-short-name } này. Để được hỗ trợ đầy đủ về video, hãy cập nhật { -brand-short-name } ngay bây giờ.
+cfr-doorhanger-video-support-header = Cập nhật { -brand-short-name } để phát video
+cfr-doorhanger-video-support-primary-button = Cập nhật bây giờ
+    .accesskey = U
