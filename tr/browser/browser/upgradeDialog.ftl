@@ -44,6 +44,13 @@ upgrade-dialog-pin-title =
         [macos] { -brand-short-name } tarayıcısını Dock’ta tut
        *[other] { -brand-short-name } tarayıcısını görev çubuğuma sabitle
     }
+# The English macOS string avoids repeating "Keep" a third time, so if your
+# translations don't repeat anyway, the same string can be used cross-platform.
+upgrade-dialog-pin-subtitle =
+    { PLATFORM() ->
+        [macos] Yepyeni { -brand-short-name } daima elinizin altında olsun.
+       *[other] Yepyeni { -brand-short-name } daima elinizin altında olsun.
+    }
 upgrade-dialog-pin-primary-button =
     { PLATFORM() ->
         [macos] Dock’ta tut
@@ -57,6 +64,8 @@ upgrade-dialog-pin-secondary-button = Daha sonra
 upgrade-dialog-default-title = { -brand-short-name } varsayılan tarayıcınız olarak ayarlansın mı?
 upgrade-dialog-default-subtitle = Her seferinde hızlı, güvenli ve gizli gezintiye kavuşun.
 upgrade-dialog-default-primary-button = Varsayılan tarayıcı yap
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title-2 = { -brand-short-name }’u varsayılan tarayıcınız yapın
 upgrade-dialog-default-subtitle-2 = Hızı, güvenliği ve gizliliği otomatikleştirin.
 upgrade-dialog-default-primary-button-2 = Varsayılan tarayıcı yap
 upgrade-dialog-default-secondary-button = Daha sonra

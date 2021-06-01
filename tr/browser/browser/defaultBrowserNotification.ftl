@@ -14,6 +14,7 @@ default-browser-notification-button =
 
 default-browser-prompt-title-pin = { -brand-short-name } ana tarayıcınız olarak ayarlansın mı?
 default-browser-prompt-message-pin = { -brand-short-name } tarayıcınızı varsayılan tarayıcınız yapıp görev çubuğunuza sabitleyebilirsiniz.
+default-browser-prompt-message-pin-mac = { -brand-short-name } daima elinizin altında olsun: Varsayılan tarayıcınız yapın ve Dock’ta tutun.
 default-browser-prompt-button-primary-pin = Ana tarayıcı olarak ayarla
 default-browser-prompt-title-alt = { -brand-short-name } varsayılan tarayıcınız olarak ayarlansın mı?
 default-browser-prompt-message-alt = Her seferinde hızlı, güvenli ve gizli gezintiye kavuşun.

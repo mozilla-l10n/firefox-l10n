@@ -90,6 +90,10 @@ permissions-exceptions-cookie-desc = Hangi web sitelerinin çerezleri ve site ve
 
 ## Exceptions - HTTPS-Only Mode
 
+permissions-exceptions-https-only-window =
+    .title = İstisnalar - Yalnızca HTTPS Modu
+    .style = { permissions-window.style }
+permissions-exceptions-https-only-desc = Belirli web siteleri için yalnızca HTTPS modunu kapatabilirsiniz. Böylece { -brand-short-name }, bu sitelerde HTTPS güvenliğini sağlamak üzere bağlantıyı yükseltme girişiminde bulunmaz. İstisnalar gizli pencerelerde geçerli değildir.
 
 ## Exceptions - Pop-ups
 
