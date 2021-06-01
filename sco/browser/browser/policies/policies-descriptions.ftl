@@ -83,5 +83,9 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Chynge back tae bygane
 
 policy-LocalFileLinks = Alloo specific wabsites tae link tae local files.
 policy-ManagedBookmarks = Confeegurs a list o buikmerks managed by an admeenistrator that cannae be chynged by the yaiser.
-policy-MasterPassword = Require or stap yaisin a maister passwird.
+policy-MasterPassword = Require or prevent yaisin a maister passwird.
+policy-ManualAppUpdateOnly = Alloo manual updates anely and dinnae lat the yaiser ken aboot updates.
+policy-PrimaryPassword = Require or prevent yaisin a Primary Passwird.
+policy-NetworkPrediction = Enable or disable netwark prediction (DNS prefetchin).
+policy-NewTabPage = Enable or disable the New Tab page.
 policy-Proxy = Confeegur proxy settins.
