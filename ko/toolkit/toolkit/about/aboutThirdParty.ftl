@@ -20,8 +20,14 @@ third-party-detail-app = 애플리케이션
 third-party-th-process = 프로세스
 third-party-th-duration = 로드 시간 (ms)
 third-party-th-status = 상태
+third-party-tag-background = 백그라운드
+    .title =
+        이 모듈은 백그라운드에서 로드되었기 때문에 
+        애플리케이션을 차단하지 않았습니다.
 third-party-unsigned-icon =
     .title = 이 모듈은 서명되지 않음
+third-party-warning-icon =
+    .title = 이 모듈의 코드에서 { -brand-short-name } 충돌이 발생했습니다.
 third-party-status-loaded = 로드됨
 third-party-status-blocked = 차단됨
 third-party-status-redirected = 리디렉션됨

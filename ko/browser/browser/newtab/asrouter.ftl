@@ -299,3 +299,9 @@ cfr-whatsnew-bookmarking-body = 즐겨찾는 사이트를 더 쉽게 추적할 �
 
 cfr-whatsnew-cross-site-tracking-header = 교차 사이트 쿠키 추적으로부터 포괄적인 보호
 cfr-whatsnew-cross-site-tracking-body = 이제 쿠키 추적으로부터 더 나은 보호를 선택할 수 있습니다. { -brand-short-name }는 활동과 데이터를 현재 사이트로 분리하여 브라우저에 저장된 정보가 웹 사이트간에 공유되지 않도록 합니다.
+
+## Full Video Support CFR message
+
+cfr-doorhanger-video-support-header = 동영상을 재생하려면 { -brand-short-name } 업데이트
+cfr-doorhanger-video-support-primary-button = 지금 업데이트
+    .accesskey = U
