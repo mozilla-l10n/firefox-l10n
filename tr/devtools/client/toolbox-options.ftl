@@ -61,6 +61,8 @@ options-screenshot-label = Ekran görüntüsü davranışı
 options-screenshot-clipboard-label = Ekran görüntüsü panoya
 options-screenshot-clipboard-tooltip =
     .title = Ekran görüntüsünü doğrudan panoya kaydeder
+# Label for the checkbox that toggles screenshot to clipboard feature
+options-screenshot-clipboard-only-label = Ekran görüntüsü yalnızca panoya
 options-screenshot-clipboard-tooltip2 =
     .title = Ekran görüntüsünü doğrudan panoya kaydeder
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
