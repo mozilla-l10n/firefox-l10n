@@ -21,6 +21,8 @@ connection-dialog-window =
             [macos] width: 44em !important
            *[other] width: 49em !important
         }
+connection-disable-extension =
+    .label = Onemogoči razširitev
 connection-proxy-legend = Nastavitve posrednika za dostop do interneta
 proxy-type-no =
     .label = Brez posrednika
