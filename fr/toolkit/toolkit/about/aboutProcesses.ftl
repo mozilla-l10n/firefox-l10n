@@ -87,6 +87,7 @@ about-processes-web-large-allocation-process = { $origin } ({ $pid }, grande all
 about-processes-with-coop-coep-process = { $origin } ({ $pid }, processus multiorigine isolé)
 about-processes-web-isolated-process-private = { $origin } — Privé ({ $pid })
 about-processes-web-large-allocation-process-private = { $origin } — Privé ({ $pid }, grande allocation)
+about-processes-with-coop-coep-process-private = { $origin } — Privé ({ $pid }, processus multiorigine isolé)
 
 ## Details within processes
 
@@ -166,6 +167,9 @@ about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "pe
 about-processes-cpu-user-and-kernel-not-ready = (mesure en cours)
 # Special case: process or thread is currently idle.
 about-processes-cpu-user-and-kernel-idle = inactif ({ NUMBER($total, maximumFractionDigits: 2) } { $unit })
+# Special case: process or thread is currently idle.
+about-processes-cpu-idle = inactif
+    .title = Temps total de CPU : { NUMBER($total, maximumFractionDigits: 2) } { $unit }
 
 ## Displaying Memory (total and delta)
 ## Variables:
