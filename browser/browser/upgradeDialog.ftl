@@ -32,12 +32,42 @@ upgrade-dialog-new-secondary-button = Nic něnto
 # theme selection screen.
 upgrade-dialog-new-primary-win7-button = W pórěźe, som zrozměł!
 
+## Pin Firefox screen
+##
+## These title, subtitle and button strings differ between platforms as they
+## match the OS' application context menu item action where Windows uses "pin"
+## and "taskbar" while macOS "keep" and "Dock" (proper noun).
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-pin-title =
+    { PLATFORM() ->
+        [macos] { -brand-short-name } we wašom doku zachowaś
+       *[other] { -brand-short-name } k wašej nadawkowej rědce pśipěś
+    }
+# The English macOS string avoids repeating "Keep" a third time, so if your
+# translations don't repeat anyway, the same string can be used cross-platform.
+upgrade-dialog-pin-subtitle =
+    { PLATFORM() ->
+        [macos] Wobstarajśo se lažki pśistup k dotychměst nejfryšnjejšemu { -brand-short-name }.
+       *[other] Wobchowajśo nejfryšnjejšy { -brand-short-name } k ruce.
+    }
+upgrade-dialog-pin-primary-button =
+    { PLATFORM() ->
+        [macos] W doku zabchowaś
+       *[other] K nadawkowej rědce pśipěś
+    }
+upgrade-dialog-pin-secondary-button = Nic něnto
+
 ## Default browser screen
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-default-title = { -brand-short-name } k swójomu standardnemu wobglědowakoju cyniś?
 upgrade-dialog-default-subtitle = Dostańśo malsnosć, wěstotu a priwatnosć kuždy raz, gaž pśeglědujośo.
 upgrade-dialog-default-primary-button = Ako standardny wobglědowak nastajiś
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title-2 = { -brand-short-name } k swójomu standardnemu wobglědowakoju cyniś
+upgrade-dialog-default-subtitle-2 = Stajśo malsnosć, wěstotu a priwatnosć na awtopilot.
+upgrade-dialog-default-primary-button-2 = Ako standardny wobglědowak nastajiś
 upgrade-dialog-default-secondary-button = Nic něnto
 
 ## Theme selection screen
@@ -46,6 +76,8 @@ upgrade-dialog-default-secondary-button = Nic něnto
 upgrade-dialog-theme-title =
     Mějśo cysty start
     ze zaktualizowaneju drastwu
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-theme-title-2 = Mějśo cysty start z fryšneju drastwu
 upgrade-dialog-theme-system = Systemowa drastwa
     .title = Drastwu źěłowego systema za tłocaški, menije a wokna wužywaś
 upgrade-dialog-theme-light = Swětły
