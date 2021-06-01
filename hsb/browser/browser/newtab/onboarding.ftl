@@ -281,6 +281,12 @@ mr1-onboarding-reduce-motion-button-label = Animacije znjemóžnić
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
+# Title used on welcome page when Firefox is not pinned
+mr1-onboarding-pin-header =
+    { PLATFORM() ->
+        [macos] { -brand-short-name } za lóši přistup we wašim doku wobchować
+       *[other] { -brand-short-name } za lóši přistup k wašej nadawkowej lajsće připjeć
+    }
 # Primary button string used on welcome page when Firefox is not pinned.
 mr1-onboarding-pin-primary-button-label =
     { PLATFORM() ->
@@ -306,6 +312,7 @@ mr1-onboarding-sign-in-button-label = Přizjewić
 ## when Firefox is not default browser
 
 mr1-onboarding-default-header = { -brand-short-name } k swojemu standardnemu wobhladowakej činić
+mr1-onboarding-default-subtitle = Stajće spěšnosć, wěstotu a priwatnosć na awtopilot.
 mr1-onboarding-default-primary-button-label = Jako standardny wobhladowak nastajić
 
 ## Multistage MR1 onboarding strings (about:welcome pages)

@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+third-party-page-title = Informacije wo modulu třećeho poskićowarja
 third-party-section-title = Lisćina modulow třećich poskićowarjow w { -brand-short-name }
 third-party-header-module-list = Lisćina modulow
 third-party-header-loading-events = Začitanje podawkow

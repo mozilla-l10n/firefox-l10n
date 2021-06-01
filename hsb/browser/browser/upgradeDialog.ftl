@@ -59,6 +59,7 @@ upgrade-dialog-default-subtitle = Dóstanće spěšnosć, wěstotu a priwatnosć
 upgrade-dialog-default-primary-button = Jako standardny wobhladowak nastajić
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-default-title-2 = { -brand-short-name } k swojemu standardnemu wobhladowakej činić
+upgrade-dialog-default-subtitle-2 = Stajće spěšnosć, wěstotu a priwatnosć na awtopilot.
 upgrade-dialog-default-primary-button-2 = Jako standardny wobhladowak nastajić
 upgrade-dialog-default-secondary-button = Nic nětko
 
@@ -68,6 +69,8 @@ upgrade-dialog-default-secondary-button = Nic nětko
 upgrade-dialog-theme-title =
     Mějće čisty start
     ze zaktualizowanej drastu
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-theme-title-2 = Započńće z čistym startom z čerstwej drastu
 upgrade-dialog-theme-system = Systemowa drasta
     .title = Drastu dźěłoweho systema za tłóčatka, menije a wokna wužiwać
 upgrade-dialog-theme-light = Swětły
