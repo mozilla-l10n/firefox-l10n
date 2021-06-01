@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 third-party-page-title = 第三方模块信息
-third-party-section-title = { -brand-short-name }中的第三方模块列表
+third-party-section-title = { -brand-short-name } 中的第三方模块列表
 third-party-intro = 此页面显示注入到您 { -brand-short-name } 的第三方程序模块。任何未经 Microsoft 或 { -vendor-short-name } 签名的模块均会被视为第三方模块。
 third-party-header-module-list = 模块列表
 third-party-header-loading-events = 正在加载事件
@@ -11,16 +11,16 @@ third-party-message-empty = 未检测到任何第三方模块。
 third-party-message-no-duration = 未记录
 third-party-detail-version = 文件版本
 third-party-detail-vendor = 厂商信息
-third-party-detail-occurrences = 次数
+third-party-detail-occurrences = 加载次数
     .title = 此模块的加载次数。
-third-party-detail-duration = 平均阻塞时间（毫秒）
+third-party-detail-duration = 平均阻塞时间（ms）
     .title = 此模块阻塞应用程序的时长。
 third-party-detail-app = 应用程序
 third-party-detail-publisher = 发行商
 third-party-th-process = 进程
-third-party-th-duration = 加载持续时间（毫秒）
+third-party-th-duration = 加载持续时间（ms）
 third-party-th-status = 状态
-third-party-tag-ime = 输入法（IME）
+third-party-tag-ime = 输入法
     .title = 当您使用第三方输入法时会加载此类模块。
 third-party-tag-shellex = Shell 扩展
     .title = 当您打开系统文件对话框时会加载此类模块。
