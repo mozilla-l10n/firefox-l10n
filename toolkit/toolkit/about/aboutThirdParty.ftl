@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 third-party-page-title = 第三方模块信息
+third-party-section-title = { -brand-short-name }中的第三方模块列表
 third-party-header-module-list = 模块列表
 third-party-message-empty = 未检测到任何第三方模块。
 third-party-message-no-duration = 未记录
@@ -10,6 +11,9 @@ third-party-detail-version = 文件版本
 third-party-detail-vendor = 厂商信息
 third-party-detail-occurrences = 次数
     .title = 此模块的加载次数。
+third-party-detail-duration = 平均阻塞时间（毫秒）
+    .title = 此模块阻塞应用程序的时长。
+third-party-detail-app = 应用程序
 third-party-detail-publisher = 发布者
 third-party-th-process = 进程
 third-party-th-duration = 加载持续时间（毫秒）
@@ -18,6 +22,8 @@ third-party-tag-ime = 输入法（IME）
     .title = 当您使用第三方输入法时会加载此类模块。
 third-party-tag-shellex = Shell 扩展
     .title = 当您打开系统文件对话框时会加载此类模块。
+third-party-tag-background = 后台
+    .title = 此类模块在后台加载，不会阻塞应用程序。
 third-party-unsigned-icon =
     .title = 此模块未签名
 third-party-status-loaded = 已加载
