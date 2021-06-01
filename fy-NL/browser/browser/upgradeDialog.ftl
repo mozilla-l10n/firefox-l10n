@@ -32,12 +32,42 @@ upgrade-dialog-new-secondary-button = No net
 # theme selection screen.
 upgrade-dialog-new-primary-win7-button = OK, begrepen!
 
+## Pin Firefox screen
+##
+## These title, subtitle and button strings differ between platforms as they
+## match the OS' application context menu item action where Windows uses "pin"
+## and "taskbar" while macOS "keep" and "Dock" (proper noun).
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-pin-title =
+    { PLATFORM() ->
+        [macos] { -brand-short-name } oan jo Dock tafoegje
+       *[other] { -brand-short-name } oan jo taakbalke fêstsette
+    }
+# The English macOS string avoids repeating "Keep" a third time, so if your
+# translations don't repeat anyway, the same string can be used cross-platform.
+upgrade-dialog-pin-subtitle =
+    { PLATFORM() ->
+        [macos] Krij ienfâldich tagong ta de meast frisse { -brand-short-name } oant no ta.
+       *[other] Hâld de meast frisse { -brand-short-name } oant no ta binnen hantberik.
+    }
+upgrade-dialog-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Oan Dock tafoegje
+       *[other] Oan taakbalke fêstsette
+    }
+upgrade-dialog-pin-secondary-button = No net
+
 ## Default browser screen
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-default-title = { -brand-short-name } jo standertbrowser meitsje?
 upgrade-dialog-default-subtitle = Untfang snelheid, feilichheid en privacy, hieltyd as jo sneupe.
 upgrade-dialog-default-primary-button = As standertbrowser ynstelle
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title-2 = { -brand-short-name } jo standertbrowser meitsje
+upgrade-dialog-default-subtitle-2 = Set snelheid, feiligens en privacy op de automatyske piloat.
+upgrade-dialog-default-primary-button-2 = Standertbrowser meitsje
 upgrade-dialog-default-secondary-button = No net
 
 ## Theme selection screen
@@ -46,6 +76,8 @@ upgrade-dialog-default-secondary-button = No net
 upgrade-dialog-theme-title =
     Soargje foar in frisse start
     mei in bywurke tema
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-theme-title-2 = Soargje foar in skjinne start mei in fris tema
 upgrade-dialog-theme-system = Systeemtema
     .title = It tema fan it bestjoeringssysteem folgje foar knoppen, menu’s en finsters
 upgrade-dialog-theme-light = Ljocht
