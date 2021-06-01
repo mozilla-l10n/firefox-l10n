@@ -4,7 +4,9 @@
 
 third-party-section-title = Lisćina modulow třećich poskićowarjow w { -brand-short-name }
 third-party-header-module-list = Lisćina modulow
+third-party-header-loading-events = Začitanje podawkow
 third-party-message-empty = Žane module třećich poskićowarjow namakane.
+third-party-message-no-duration = Njenatočene
 third-party-detail-version = Datajowa wersija
 third-party-detail-vendor = Informacije zhotowjerja
 third-party-detail-occurrences = Wustupowanja
@@ -18,12 +20,16 @@ third-party-th-duration = Začitanske traće (ms)
 third-party-th-status = Status
 third-party-tag-ime = IME
     .title = Tutón modulowy typ so začita, hdyž IME třećeho poskićowarja wužiwaće.
+third-party-tag-shellex = Systemowe rozšěrjenje
+    .title = Tutón modulowy typ so začita, hdyž systemowy datajowy dialog wočinjeće.
 third-party-tag-background = Pozadk
     .title =
         Tutón modul njeje nałoženje blokował, dokelž je so w slězynje
         začitał.
 third-party-unsigned-icon =
     .title = Tutón modul njeje signowany
+third-party-warning-icon =
+    .title = { -brand-short-name } je w kodźe z tutoho modula spadnył
 third-party-status-loaded = Začitany
 third-party-status-blocked = Zablokowany
 third-party-status-redirected = Dalesposrědkowany
