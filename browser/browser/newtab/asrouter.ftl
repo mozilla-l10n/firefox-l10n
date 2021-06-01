@@ -217,8 +217,6 @@ cfr-doorhanger-milestone-heading2 =
     }
 cfr-doorhanger-milestone-ok-button = Ver tudo
     .accesskey = V
-cfr-doorhanger-milestone-close-button = Fechar
-    .accesskey = F
 
 ## What’s New Panel Content for Firefox 76
 
@@ -243,6 +241,8 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Ícone de picture-in-picture
 
 ## Protections Dashboard message
 
+cfr-doorhanger-milestone-close-button = Fechar
+    .accesskey = F
 
 ## What’s New Panel Content for Firefox 76
 ## Protections Dashboard message
@@ -261,8 +261,6 @@ cfr-whatsnew-better-pdf-body = Documentos PDF agora são abertos diretamente no 
 
 cfr-doorhanger-doh-body = Sua privacidade é importante. Agora o { -brand-short-name } roteia com segurança suas requisição de DNS, sempre que possível, para um serviço parceiro para proteger você enquanto navega.
 cfr-doorhanger-doh-header = Pesquisas de DNS mais seguras e criptografadas
-cfr-doorhanger-doh-primary-button = OK, entendi
-    .accesskey = O
 cfr-doorhanger-doh-primary-button-2 = OK
     .accesskey = O
 cfr-doorhanger-doh-secondary-button = Desativar
@@ -308,3 +306,10 @@ cfr-whatsnew-bookmarking-body = É mais fácil acompanhar seus sites preferidos.
 
 cfr-whatsnew-cross-site-tracking-header = Proteção abrangente contra rastreamento de cookies entre sites
 cfr-whatsnew-cross-site-tracking-body = Agora você pode optar por ter melhor proteção contra rastreamento de cookies. O { -brand-short-name } pode isolar suas atividades e dados do site em que você está no momento, para que as informações armazenadas no navegador não sejam compartilhadas entre sites.
+
+## Full Video Support CFR message
+
+cfr-doorhanger-video-support-body = Os vídeos neste site podem não ser reproduzidos corretamente nesta versão do { -brand-short-name }. Para suporte completo a vídeos, atualize agora o { -brand-short-name }.
+cfr-doorhanger-video-support-header = Atualizar o { -brand-short-name } para reproduzir vídeo
+cfr-doorhanger-video-support-primary-button = Atualizar agora
+    .accesskey = A
