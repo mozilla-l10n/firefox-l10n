@@ -20,7 +20,6 @@ account-setup-name-input =
     .placeholder = John Doe
 account-setup-name-info-icon =
     .title = Jo namme, as toant oan oaren
-account-setup-name-warning = Fier jo namme yn
 account-setup-name-warning-icon =
     .title = { account-setup-name-warning }
 account-setup-email-label = E-mailadres
@@ -29,7 +28,6 @@ account-setup-email-input =
     .placeholder = john.doe@example.com
 account-setup-email-info-icon =
     .title = Jo besteande e-mailadres
-account-setup-email-warning = Unjildich e-mailadres
 account-setup-email-warning-icon =
     .title = { account-setup-email-warning }
 account-setup-password-label = Wachtwurd
@@ -122,6 +120,8 @@ account-setup-incoming-title = Ynkommend
 account-setup-outgoing-title = Utgeand
 account-setup-username-title = Brûkersnamme
 account-setup-exchange-title = Server
+account-setup-result-smtp = SMTP
+account-setup-result-no-encryption = Gjin fersifering
 
 ## Error messages
 
@@ -131,32 +131,32 @@ account-setup-credentials-wrong = Autentikaasje mislearre. Kontrolearje de brûk
 account-setup-find-settings-failed = { -brand-short-name } koe de ynstellingen foar jo e-mailaccount net fine
 account-setup-exchange-config-unverifiable = Konfiguraasje koe net ferifiearre wurde. As jo brûkersnamme en wachtwurd goed binne, is it wierskynlik dat de serverbehearder de selektearre konfiguraasje foar jo account útskeakele hat. Probearje in oar protokol te selektearjen.
 
-## Manual config area
+## Manual configuration area
 
 account-setup-manual-config-title = Serverynstellingen
-account-setup-incoming-protocol-label = Ynkommend protokol
 protocol-imap-option = { account-setup-result-imap }
 protocol-pop-option = { account-setup-result-pop }
-account-setup-outgoing-protocol-label = Utgeand protokol
-outgoing-protocol = SMTP
-account-setup-incoming-server-label = Ynkommende server
-account-setup-outgoing-server-label = Utgeande server
-account-setup-incoming-port-label = Ynkommende poarte
-account-setup-outoing-port-label = Utgeande poarte
-account-setup-incoming-ssl-label = Ynkommende SSL
-account-setup-outgoing-ssl-label = Utgeande SSL
+
+## Incoming/Outgoing SSL Authentication options
+
 ssl-autodetect-option = Autodeteksje
+
+## Incoming/Outgoing SSL options
+
 ssl-noencryption-option = Gjin
-ssl-starttls-option = STARTTLS
-ssl-tls-option = SSL/TLS
-account-setup-incoming-auth-label = Ynkommende autentikaasje
-account-setup-outgoing-auth-label = Utgeande autentikaasje
-account-setup-incoming-username-label = Ynkommende brûkersnamme
-account-setup-outgoing-username-label = Utgeande brûkersnamme
 account-setup-advanced-setup-button = Wiidweidige konfiguraasje
     .accesskey = W
 
-## Warning insecure server
+## Warning insecure server dialog
 
 account-setup-insecure-server-checkbox = Ik begryp de risiko's
     .accesskey = b
+
+## Warning Exchange confirmation dialog
+
+
+## Alert dialogs
+
+
+## Addon installation section
+
