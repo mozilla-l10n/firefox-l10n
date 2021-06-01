@@ -188,8 +188,8 @@ properties-general-size =
 media-animated-image-type =
     .value =
         { $frames ->
-            [one] { $type } Image (animated, { $frames } frame)
-           *[other] { $type } Image (animated, { $frames } frames)
+            [one] { $type } Image (animatit, { $frames } frame)
+           *[other] { $type } Image (animatit, { $frames } frames)
         }
 # This string is used to display the type of
 # an image
@@ -197,6 +197,15 @@ media-animated-image-type =
 #   $type (string) - The type of an image
 media-image-type =
     .value = { $type } Image
+# This string is used to display the size of a scaled image
+# in both scaled and unscaled pixels
+# Variables:
+#   $dimx (number) - The horizontal size of an image
+#   $dimy (number) - The vertical size of an image
+#   $scaledx (number) - The scaled horizontal size of an image
+#   $scaledy (number) - The scaled vertical size of an image
+media-dimensions-scaled =
+    .value = { $dimx }px × { $dimy }px (scaled tae { $scaledx }px × { $scaledy }px)
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
@@ -208,3 +217,18 @@ media-dimensions =
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } KB
+# This string is used to display the website name next to the
+# "Block Images" checkbox in the media tab
+# Variables:
+#   $website (string) - The website name
+media-block-image =
+    .label = Block Images fae { $website }
+    .accesskey = B
+# This string is used to display the URL of the website on top of the
+# pageInfo dialog box
+# Variables:
+#   $website (string) — The url of the website pageInfo is getting info for
+page-info-page =
+    .title = Page Info — { $website }
+page-info-frame =
+    .title = Frame Info — { $website }
