@@ -21,6 +21,8 @@ connection-dialog-window =
             [macos] width: 44em !important
            *[other] width: 49em !important
         }
+connection-disable-extension =
+    .label = Απενεργοποίηση επέκτασης
 connection-proxy-legend = Ρύθμιση διακομιστών μεσολάβησης για πρόσβαση στο διαδίκτυο
 proxy-type-no =
     .label = Χωρίς διακομιστή μεσολάβησης
