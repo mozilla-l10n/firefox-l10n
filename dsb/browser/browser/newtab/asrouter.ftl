@@ -230,8 +230,6 @@ cfr-doorhanger-milestone-heading2 =
     }
 cfr-doorhanger-milestone-ok-button = Wšykne pokazaś
     .accesskey = k
-cfr-doorhanger-milestone-close-button = Zacyniś
-    .accesskey = Z
 
 ## What’s New Panel Content for Firefox 76
 
@@ -256,6 +254,8 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Symbol wobraz-we-wobrazu
 
 ## Protections Dashboard message
 
+cfr-doorhanger-milestone-close-button = Zacyniś
+    .accesskey = Z
 
 ## What’s New Panel Content for Firefox 76
 ## Protections Dashboard message
@@ -274,8 +274,6 @@ cfr-whatsnew-better-pdf-body = PDF-dokumenty se něnto direktnje w { -brand-shor
 
 cfr-doorhanger-doh-body = Waša priwatnosć jo wažna. { -brand-short-name } něnto, gažkuli jo móžno, partnaŕskej słužbje waše DNS-napšašowanja wěsće pśenosujo, aby was šćitał, mjaztym až pśeglědujośo.
 cfr-doorhanger-doh-header = Wěcej wěstych skoděrowanych DNS-pytanjow
-cfr-doorhanger-doh-primary-button = W pórěźe, som zrozměł
-    .accesskey = r
 cfr-doorhanger-doh-primary-button-2 = W pórěźe
     .accesskey = r
 cfr-doorhanger-doh-secondary-button = Znjemóžniś
@@ -321,3 +319,10 @@ cfr-whatsnew-bookmarking-body = Jo lažčej, pśeglěd nad wašymi nejlubšymi s
 
 cfr-whatsnew-cross-site-tracking-header = Wobšyrny šćit pśed slědowanim pśez cookieje někotarych sedłow
 cfr-whatsnew-cross-site-tracking-body = Móžośo šćit pśed slědowanim pśez cookieje pólěpšyś. { -brand-short-name } móžo waše aktiwity a daty na sedło wobgranicowaś, na kótaremž rowno sćo, až njeby se informacije, kótarež su we wobglědowaku skłaźone, mjaz websedłami wuměnili.
+
+## Full Video Support CFR message
+
+cfr-doorhanger-video-support-body = Wideo na toś tom sedle se snaź w toś tej wersiji { -brand-short-name } pšawje njewótgrawaju. Aktualizěrujśo něnto { -brand-short-name } za połnu wideopódpěru.
+cfr-doorhanger-video-support-header = { -brand-short-name } aktualizěrowaś, aby wy wideo wótgrał
+cfr-doorhanger-video-support-primary-button = Něnto aktualizěrowaś
+    .accesskey = N
