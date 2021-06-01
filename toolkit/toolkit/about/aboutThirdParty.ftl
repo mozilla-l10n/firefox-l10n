@@ -4,6 +4,10 @@
 
 third-party-page-title = Informacije wo modulu třećeho poskićowarja
 third-party-section-title = Lisćina modulow třećich poskićowarjow w { -brand-short-name }
+third-party-intro =
+    Tuta strona module třećeho poskićowarja pokazuje, kotrež su so do wašeho
+    { -brand-short-name } injicěrowali. Kóždy modul, kotryž wot Microsoft abo
+    { -vendor-short-name } signowany njeje, maja za modul třećeho poskićowarja.
 third-party-header-module-list = Lisćina modulow
 third-party-header-loading-events = Začitanje podawkow
 third-party-message-empty = Žane module třećich poskićowarjow namakane.

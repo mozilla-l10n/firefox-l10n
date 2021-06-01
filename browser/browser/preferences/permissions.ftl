@@ -93,6 +93,7 @@ permissions-exceptions-cookie-desc = Móžeće podać, kotre websydła smědźa 
 permissions-exceptions-https-only-window =
     .title = Wuwzaća - Modus Jenož-HTTPS
     .style = { permissions-window.style }
+permissions-exceptions-https-only-desc = Móžeće modus Jenož-HTTPS za wěste websydła znjemóžnić. { -brand-short-name } njespyta, zwisk za te sydła na wěsty HTTPS aktualizować. Wuwzaća za priwatne wokna njepłaća.
 
 ## Exceptions - Pop-ups
 
