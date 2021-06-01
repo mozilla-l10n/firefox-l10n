@@ -10,6 +10,8 @@ third-party-intro =
     { -vendor-short-name } signiert wurde, gilt als Modul von Drittanbietern.
 third-party-header-module-list = Modulliste
 third-party-header-loading-events = Ereignisse werden geladen
+third-party-message-empty = Es wurden keine Module von Drittanbietern erkannt.
+third-party-detail-version = Dateiversion
 third-party-button-open =
     .title = Dateipfad öffnen…
 third-party-button-expand =
