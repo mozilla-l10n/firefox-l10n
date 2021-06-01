@@ -179,12 +179,29 @@ account-setup-warning-cleartext = <b>{ $server }</b> koděrowanje njewužywa.
 account-setup-warning-cleartext-details = Njewěste e-mailowe serwery njewužywaju skoděrowane zwiski, aby šćitali waše gronidła a priwatne informacije. Gaž zwězujośo z toś tym serwerom, wy by mógał swójo gronidło a swóje priwatne informacije wótekšyś.
 account-setup-insecure-server-checkbox = Rozmějom rizika
     .accesskey = R
+account-setup-insecure-description = { -brand-short-name } móžo wam dowóliś, aby wy wótwołał swóju e-mail z pomocu pódanych konfiguracijow. Ale wy by dejał swójogo administratora abo e-mailowego póbitowarja njezgódnych zwiskow dla kontaktěrowaś. Glědajśo <a data-l10n-name="thunderbird-faq-link">cesto stajone pšašanja</a> za dalšne informacije.
+insecure-dialog-cancel-button = Nastajenja změniś
+    .accesskey = N
+insecure-dialog-confirm-button = Wobkšuśiś
+    .accesskey = b
 
 ## Warning Exchange confirmation dialog
 
+# Variables:
+#  $domain (String): The name of the server where the configuration was found, e.g. rackspace.com.
+exchange-dialog-question = { -brand-short-name } jo namakał informacije wó konfiguraciji konta na { $domain }. Cośo pókšacowaś a swóje pśizjawjeńske daty wótpósłaś?
+exchange-dialog-confirm-button = Pśizjawjenje
+exchange-dialog-cancel-button = Pśetergnuś
 
 ## Alert dialogs
 
+account-setup-creation-error-title = Zmólka pśi napóranju konta
+account-setup-error-server-exists = Dochadny serwer južo eksistěrujo.
+account-setup-confirm-advanced-title = Rozšyrjonu konfiguraciju wobkšuśiś
+account-setup-confirm-advanced-description = Toś ten dialog se zacynijo a konto z aktualnymi nastajenjami se załožyjo, lěcrownož konfiguracija jo wopacna. Cośo pókšacowaś?
 
 ## Addon installation section
 
+account-setup-addon-install-title = Instalěrowaś
+account-setup-addon-install-intro = Dodank tśeśego póbitowarja móžo wam pśistup k wašomu e-mailowemu kontoju na toś tom serwerje zmóžniś:
+account-setup-addon-no-protocol = Toś ten e-mailowy serwer bóžko wótwórjone protokole njepódpěra. { account-setup-addon-install-intro }

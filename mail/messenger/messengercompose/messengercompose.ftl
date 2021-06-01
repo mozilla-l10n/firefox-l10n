@@ -172,3 +172,9 @@ many-public-recipients-bcc =
 many-public-recipients-ignore =
     .label = Dostawarje zjawne źaržaś
     .accesskey = D
+
+## Notifications
+
+# Variables:
+# $identity (string) - The name of the used identity, most likely an email address.
+compose-missing-identity-warning = Jadnorazowa identita, kótaraž adresy wótpósłarja wótpowědujo, njejo se namakała. Powěsć se z pomocu pólom Wót a nastajenja z identity { $identity } pósćelo.
