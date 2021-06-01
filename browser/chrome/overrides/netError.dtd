@@ -128,11 +128,11 @@
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara2 "Το &brandShortName; ανίχνευσε μια πιθανή απειλή ασφαλείας και δεν συνέχισε στο <span class='hostname'/>. Αν επισκεφθείτε αυτή την ιστοσελίδα, οι επιτιθέμενοι ίσως προσπαθήσουν να υποκλέψουν πληροφορίες, όπως κωδικούς πρόσβασης, emails ή λεπτομέρειες πιστωτικής κάρτας.">
+<!ENTITY certerror.introPara2 "Το &brandShortName; ανίχνευσε μια πιθανή απειλή ασφαλείας και δεν συνέχισε στο <span class='hostname'/>. Αν επισκεφθείτε αυτή την ιστοσελίδα, οι επιτιθέμενοι ίσως προσπαθήσουν να υποκλέψουν πληροφορίες, όπως κωδικούς πρόσβασης, email ή στοιχεία πιστωτικών καρτών.">
 <!ENTITY certerror.sts.introPara "Το &brandShortName; ανίχνευσε μια πιθανή απειλή ασφαλείας και δεν συνέχισε στο <span class='hostname'/>, επειδή αυτή η ιστοσελίδα απαιτεί μια ασφαλή σύνδεση.">
 
 <!ENTITY certerror.expiredCert.introPara "Το &brandShortName; ανίχνευσε ένα ζήτημα και δεν συνέχισε στο <span class='hostname'/>. Είτε η ιστοσελίδα έχει ρυθμιστεί με λάθος τρόπο είτε το ρολόι του υπολογιστή σας έχει οριστεί σε λάθος ώρα.">
-<!ENTITY certerror.expiredCert.secondPara2 "Το πιστοποιητικό της ιστοσελίδας έχει πιθανώς λήξει, εμποδίζοντας την ασφαλή σύνδεση του &brandShortName;. Αν επισκεφθείτε αυτή την ιστοσελίδα, οι επιτιθέμενοι ενδέχεται να αποπειραθούν να υποκλέψουν πληροφορίες, όπως τους κωδικούς πρόσβασης, τα emails ή τις λεπτομέρειες των πιστωτικών καρτών σας.">
+<!ENTITY certerror.expiredCert.secondPara2 "Το πιστοποιητικό της ιστοσελίδας έχει πιθανώς λήξει, εμποδίζοντας την ασφαλή σύνδεση του &brandShortName;. Αν επισκεφθείτε αυτή την ιστοσελίδα, οι επιτιθέμενοι ενδέχεται να αποπειραθούν να υποκλέψουν πληροφορίες, όπως τους κωδικούς πρόσβασης, τα email ή τα στοιχεία των πιστωτικών καρτών σας.">
 <!ENTITY certerror.expiredCert.sts.secondPara "Το πιστοποιητικό της ιστοσελίδας έχει πιθανώς λήξει, εμποδίζοντας την ασφαλή σύνδεση του &brandShortName;.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Τι μπορείτε να κάνετε γι' αυτό;">
