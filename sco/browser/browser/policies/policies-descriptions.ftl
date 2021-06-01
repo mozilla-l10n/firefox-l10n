@@ -52,10 +52,36 @@ policy-DisableSystemAddonUpdate = Stap the stravaiger fae instawin and updatin s
 policy-DisableTelemetry = Turn aff Telemetry.
 policy-DisplayBookmarksToolbar = Kythe the Buikmerks Toolbaur as staunart.
 policy-DisplayMenuBar = Kythe the Menu Baur as staunart.
+policy-DNSOverHTTPS = Confeegur DNS ower HTTPS.
+policy-DontCheckDefaultBrowser = Disable check fur staunart stravaiger on stertup.
+policy-DownloadDirectory = Set and lock the doonload directory.
+# “lock” means that the user won’t be able to change this setting
+policy-EnableTrackingProtection = Enable or disable Content Blockin and optionally lock it.
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = Enable or disable Encryptit Media Extensions and optionally lock it.
+# A “locked” extension can’t be disabled or removed by the user. This policy
+# takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
+# English or translate them as verbs.
+policy-Extensions = Instaw, uninstaw or lock extensions. The Instaw option taks URLs or paths as parameters. The Uninstaw and Lockit options tak extension IDs.
+policy-ExtensionSettings = Manage aw aspecks o extension instawment.
+policy-ExtensionUpdate = Enable or disable automatic extension updates.
+policy-FirefoxHome = Confeegur Firefox Hame.
+policy-FlashPlugin = Alloo or deny yaisage o the Flash plugin.
+policy-Handlers = Confeegur staunart application handlers.
+policy-HardwareAcceleration = Gin wrang, turn aff haurdware acceleration.
+# “lock” means that the user won’t be able to change this setting
+policy-Homepage = Set and optionally lock the hamepage.
+policy-InstallAddonsPermission = Alloo certain wabsites tae instaw eik-ons.
+policy-LegacyProfiles = Disable the featur garin a separate profile fur ilka instawment.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
+policy-LegacySameSiteCookieBehaviorEnabled = Enable staunart bygane SameSite cookie behavior settin.
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Chynge back tae bygane SameSite behavior fur cookies on specified sites.
 
 ##
 
+policy-LocalFileLinks = Alloo specific wabsites tae link tae local files.
+policy-ManagedBookmarks = Confeegurs a list o buikmerks managed by an admeenistrator that cannae be chynged by the yaiser.
+policy-MasterPassword = Require or stap yaisin a maister passwird.
 policy-Proxy = Confeegur proxy settins.
