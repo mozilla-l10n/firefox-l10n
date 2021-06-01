@@ -4,6 +4,7 @@
 
 third-party-page-title = 第三方模块信息
 third-party-section-title = { -brand-short-name }中的第三方模块列表
+third-party-intro = 此页面显示注入到您 { -brand-short-name } 的第三方程序模块。任何未经 Microsoft 或 { -vendor-short-name } 签名的模块均会被视为第三方模块。
 third-party-header-module-list = 模块列表
 third-party-message-empty = 未检测到任何第三方模块。
 third-party-message-no-duration = 未记录
@@ -30,6 +31,8 @@ third-party-status-loaded = 已加载
 third-party-status-blocked = 已阻止
 third-party-status-redirected = 已重定向
 third-party-button-copy-to-clipboard = 复制原始数据到剪贴板
+third-party-button-reload = 刷新系统信息
+    .title = 刷新系统信息
 third-party-button-open =
     .title = 打开文件位置…
 third-party-button-expand =
