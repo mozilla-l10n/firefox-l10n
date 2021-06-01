@@ -2,9 +2,16 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+third-party-page-title = Kolmansien osapuolten moduulien tiedot
+third-party-section-title = Lista { -brand-short-name }issa olevista kolmansien osapuolten moduuleista
+third-party-intro =
+    Tämä sivu näyttää kolmansien osapuolten moduulit, jotka injektoitiin
+    { -brand-short-name }iin. Mikä tahansa moduuli, joka ei ole Microsoftin tai
+    { -vendor-short-name }n allekirjoittama, mielletään kolmannen osapuolen moduuliksi.
 third-party-header-module-list = Moduulilista
 third-party-header-loading-events = Ladataan tapahtumia
 third-party-message-empty = Kolmansien osapuolten moduuleja ei havaittu.
+third-party-message-no-duration = Ei nauhoitettu
 third-party-detail-version = Tiedoston versio
 third-party-detail-vendor = Valmistajan tiedot
 third-party-detail-app = Sovellus
@@ -13,6 +20,8 @@ third-party-th-process = Prosessi
 third-party-th-status = Tila
 third-party-unsigned-icon =
     .title = Tämä moduuli ei ole allekirjoitettu
+third-party-warning-icon =
+    .title = { -brand-short-name } kaatui tämän moduulin koodissa
 third-party-status-loaded = Ladattu
 third-party-status-blocked = Estetty
 third-party-button-copy-to-clipboard = Kopioi muokkaamaton data leikepöydälle

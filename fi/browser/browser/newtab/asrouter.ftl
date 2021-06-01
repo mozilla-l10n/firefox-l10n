@@ -264,8 +264,6 @@ cfr-whatsnew-better-pdf-body = PDF-tiedostot avautuvat nyt suoraan { -brand-shor
 
 cfr-doorhanger-doh-body = Yksityisyydelläsi on merkitystä. { -brand-short-name } reitittää nyt DNS-pyynnöt suojatusti, mikäli mahdollista, kumppanipalveluun suojellaksesi sinua, kun selaat verkkoa.
 cfr-doorhanger-doh-header = Turvallisemmat, salatut DNS-haut
-cfr-doorhanger-doh-primary-button = Selvä
-    .accesskey = S
 cfr-doorhanger-doh-primary-button-2 = OK
     .accesskey = O
 cfr-doorhanger-doh-secondary-button = Poista käytöstä
@@ -311,3 +309,10 @@ cfr-whatsnew-bookmarking-body = Suosikkisivustojesi seuranta on helpompaa. { -br
 
 cfr-whatsnew-cross-site-tracking-header = Kattava suojaus sivustorajat ylittäviltä seurainevästeiltä
 cfr-whatsnew-cross-site-tracking-body = Voit nyt valita paremman suojauksen seurainevästeiltä. { -brand-short-name } voi eristää toimintasi ja tietosi muilta sivustoilta, jotta selaimeen tallennettuja tietoja ei jaeta sivustolta toiselle.
+
+## Full Video Support CFR message
+
+cfr-doorhanger-video-support-body = Videot tällä sivustolla eivät välttämättä toimi kunnolla tällä { -brand-short-name }in versiolla. Päivitä { -brand-short-name } nyt saadaksesi täyden videotuen.
+cfr-doorhanger-video-support-header = Päivitä { -brand-short-name } toistaaksesi videon
+cfr-doorhanger-video-support-primary-button = Päivitä nyt
+    .accesskey = P
