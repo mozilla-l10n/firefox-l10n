@@ -306,6 +306,7 @@ mr1-onboarding-sign-in-button-label = Logg inn
 ## when Firefox is not default browser
 
 mr1-onboarding-default-header = Bruk { -brand-short-name } som standard
+mr1-onboarding-default-primary-button-label = Bruk som standardnettlesar
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 

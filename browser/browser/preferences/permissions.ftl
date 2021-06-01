@@ -21,6 +21,9 @@ permissions-allow =
 permissions-button-off =
     .label = Slå av
     .accesskey = S
+permissions-button-off-temporarily =
+    .label = Slå av kortvarig
+    .accesskey = k
 permissions-site-name =
     .label = Nettside
 permissions-status =
@@ -87,6 +90,9 @@ permissions-exceptions-cookie-desc = Du kan spesifisere kva for nettstadar som a
 
 ## Exceptions - HTTPS-Only Mode
 
+permissions-exceptions-https-only-window =
+    .title = Unntak - Berre HTTPS-modus
+    .style = { permissions-window.style }
 
 ## Exceptions - Pop-ups
 
