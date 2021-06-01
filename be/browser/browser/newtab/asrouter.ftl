@@ -228,8 +228,6 @@ cfr-doorhanger-milestone-heading2 =
     }
 cfr-doorhanger-milestone-ok-button = Пабачыць усе
     .accesskey = ы
-cfr-doorhanger-milestone-close-button = Закрыць
-    .accesskey = З
 
 ## What’s New Panel Content for Firefox 76
 
@@ -254,6 +252,8 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Значок «выява ў выяве»
 
 ## Protections Dashboard message
 
+cfr-doorhanger-milestone-close-button = Закрыць
+    .accesskey = З
 
 ## What’s New Panel Content for Firefox 76
 ## Protections Dashboard message
@@ -272,8 +272,6 @@ cfr-whatsnew-better-pdf-body = Цяпер дакументы PDF адкрыва�
 
 cfr-doorhanger-doh-body = Ваша прыватнасць мае значэнне. { -brand-short-name } зараз бяспечна накіроўвае вашы запыты DNS, калі гэта магчыма, у партнёрскі сэрвіс, каб абараніць вас у час аглядання.
 cfr-doorhanger-doh-header = Больш бяспечны, зашыфраваны пошук DNS
-cfr-doorhanger-doh-primary-button = OK, зразумела
-    .accesskey = O
 cfr-doorhanger-doh-primary-button-2 = Добра
     .accesskey = Д
 cfr-doorhanger-doh-secondary-button = Адключыць
@@ -319,3 +317,10 @@ cfr-whatsnew-bookmarking-body = Стала прасцей асочваць ва�
 
 cfr-whatsnew-cross-site-tracking-header = Комплексная абарона ад міжсайтавых кукаў асочвання
 cfr-whatsnew-cross-site-tracking-body = Цяпер вы можаце ўключыць лепшую абарону ад кукаў асочвання. { -brand-short-name } можа ізаляваць вашу дзейнасць і дадзеныя на сайце, на якім вы зараз знаходзіцеся, таму інфармацыя, якая захоўваецца ў браўзеры, не перадаецца паміж вэб-сайтамі.
+
+## Full Video Support CFR message
+
+cfr-doorhanger-video-support-body = Відэа на гэтым сайце могуць прайгравацца няправільна ў гэтай версіі { -brand-short-name }. Для поўнай падтрымкі відэа абнавіце { -brand-short-name } зараз.
+cfr-doorhanger-video-support-header = Абнавіце { -brand-short-name } для прайгравання відэа
+cfr-doorhanger-video-support-primary-button = Абнавіць зараз
+    .accesskey = А
