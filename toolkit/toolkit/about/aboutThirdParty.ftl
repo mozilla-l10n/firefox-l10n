@@ -11,6 +11,7 @@ third-party-intro =
 third-party-header-module-list = Lisćina modulow
 third-party-header-loading-events = Zacytanje tšojenjow
 third-party-message-empty = Žedne module tśeśich póbitowarjow namakane.
+third-party-message-no-duration = Njenagraty
 third-party-detail-version = Datajowa wersija
 third-party-detail-vendor = Informacije zgótowarja
 third-party-detail-occurrences = Wustupowanja
