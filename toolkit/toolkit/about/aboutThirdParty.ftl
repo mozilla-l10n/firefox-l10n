@@ -16,3 +16,23 @@ third-party-detail-publisher = Wudawaćel
 third-party-th-process = Proces
 third-party-th-duration = Začitanske traće (ms)
 third-party-th-status = Status
+third-party-tag-ime = IME
+    .title = Tutón modulowy typ so začita, hdyž IME třećeho poskićowarja wužiwaće.
+third-party-tag-background = Pozadk
+    .title =
+        Tutón modul njeje nałoženje blokował, dokelž je so w slězynje
+        začitał.
+third-party-unsigned-icon =
+    .title = Tutón modul njeje signowany
+third-party-status-loaded = Začitany
+third-party-status-blocked = Zablokowany
+third-party-status-redirected = Dalesposrědkowany
+third-party-button-copy-to-clipboard = Hrube daty do mjezyskłada kopěrować
+third-party-button-reload = Ze systemowymi informacijemi znowa začitać
+    .title = Ze systemowymi informacijemi znowa začitać
+third-party-button-open =
+    .title = Datajowe městno wočinić…
+third-party-button-expand =
+    .title = Nadrobne informacije pokazać
+third-party-button-collapse =
+    .title = Nadrobne informacije schować
