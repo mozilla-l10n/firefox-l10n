@@ -16,6 +16,9 @@ about-rights-notification-text = { -brand-short-name } kode irekikoa eta softwar
 addons-and-themes-button =
     .label = Gehigarriak eta itxurak
     .tooltip = Gehigarriak eta itxurak kudeatu
+redirect-msg-button =
+    .label = Birbideratzea
+    .tooltiptext = Birbideratu hautatutako mezua
 
 ## Folder Pane
 
@@ -50,6 +53,12 @@ folder-toolbar-toggle-folder-compact-view =
     .label = Ikuspegi trinkoa
     .accesskey = t
 
+## Menu
+
+redirect-msg-menuitem =
+    .label = Birbideratzea
+    .accesskey = B
+
 ## AppMenu
 
 # Since v89 we dropped the platforms distinction between Options or Preferences
@@ -64,6 +73,18 @@ appmenu-help-exit-troubleshoot-mode =
     .label = Desaktibatu arazoak konpontzeko modua
 appmenu-help-more-troubleshooting-info =
     .label = Arazoak konpontzeko informazio gehiago
+appmenu-redirect-msg =
+    .label = Birbideratzea
+
+## Context menu
+
+context-menu-redirect-msg =
+    .label = Birbideratzea
+
+## Message header pane
+
+other-action-redirect-msg =
+    .label = Birbideratzea
 
 ## Action Button Context Menu
 
