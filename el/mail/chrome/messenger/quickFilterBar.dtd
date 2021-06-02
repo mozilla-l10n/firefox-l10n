@@ -59,7 +59,7 @@
      include unread messages.
      -->
 <!ENTITY quickFilterBar.unread.tooltip
-         "Προβολή μόνο των μη αναγνωσμένων μηνυμάτων.">
+         "Προβολή μόνο των μη αναγνωσμένων μηνυμάτων">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.starred.label):
      The label for the filter button that causes us to filter results to only
@@ -73,7 +73,7 @@
      include messages that have been starred/flagged.
      -->
 <!ENTITY quickFilterBar.starred.tooltip
-         "Προβολή μόνο των μηνυμάτων με αστέρι.">
+         "Προβολή μόνο των μηνυμάτων με αστέρι">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.inaddrbook.label):
      The label for the filter button that causes us to filter results to only
@@ -89,7 +89,7 @@
      books.
      -->
 <!ENTITY quickFilterBar.inaddrbook.tooltip
-         "Προβολή μόνο των μηνυμάτων από ανθρώπους που βρίσκονται στο ευρετήριο σας.">
+         "Προβολή μόνο των μηνυμάτων από άτομα του ευρετηρίου σας">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.tags.label):
      The label for the filter button that causes us to filter results to only
@@ -103,7 +103,7 @@
      include messages with at least one tag on them.
      -->
 <!ENTITY quickFilterBar.tags.tooltip
-         "Προβολή μόνο των μηνυμάτων που έχουν ετικέτες.">
+         "Προβολή μόνο των μηνυμάτων με ετικέτες">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.attachment.label):
      The label for the filter button that causes us to filter results to only
@@ -117,7 +117,7 @@
      include messages with attachments.
      -->
 <!ENTITY quickFilterBar.attachment.tooltip
-         "Προβολή μόνο των μηνυμάτων με συνημμένα.">
+         "Προβολή μόνο των μηνυμάτων με συνημμένα">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.resultsLabel.some.formatString):
      This is used to populate the results box; it either displays the
