@@ -151,7 +151,7 @@
 <!ENTITY BrowsePhoto.accesskey          "ρ">
 <!ENTITY PhotoURL.label                 "Στο διαδίκτυο">
 <!ENTITY PhotoURL.accesskey             "δ">
-<!ENTITY PhotoURL.placeholder           "Επικολλήστε ή εισάγετε τη διαδικτυακή διεύθυνση μιας φωτογραφίας">
+<!ENTITY PhotoURL.placeholder           "Επικολλήστε ή εισαγάγετε τη διεύθυνση web μιας φωτογραφίας">
 <!ENTITY UpdatePhoto.label              "Ενημέρωση">
 <!ENTITY UpdatePhoto.accesskey          "ν">
 <!ENTITY PhotoDropTarget.label          "Σύρετε μια νέα φωτογραφία εδώ">

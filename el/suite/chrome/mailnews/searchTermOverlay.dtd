@@ -4,7 +4,7 @@
 
 <!ENTITY matchAll.label     "Αντιστοίχιση όλων των παρακάτω">
 <!ENTITY matchAll.accesskey "Α">
-<!ENTITY matchAny.label     "Αντιστοίχιση όλων των παρακάτω">
+<!ENTITY matchAny.label     "Αντιστοίχιση οποιωνδήποτε από τα παρακάτω">
 <!ENTITY matchAny.accesskey "ν">
 <!ENTITY matchAllMsgs.label     "Αντιστοίχιση όλων των μηνυμάτων">
 <!ENTITY matchAllMsgs.accesskey "τ">
