@@ -25,4 +25,5 @@ sync-input =
 sync-button = Kenderc'hel
 sync-terms = En ur genderc'hel ec'h asantit d'an <a data-l10n-name="terms">divizoù arver</a> ha d'ar <a data-l10n-name="privacy">reolenn a-fet buhez prevez</a>.
 sync-first = Ar wech kentañ a implijit { -sync-brand-name }? Ezhomm ho po kennaskañ da holl staliadurioù Firefox evit goubredañ ho titouroù.
+new-install-sync-first = Ar wech kentañ eo deoc'h ober gant Sync? Ret e vo deoc’h kennaskañ ouzh holl staliadurioù Firefox evit goubredañ ho titouroù.
 sync-learn = Gouzout hiroc'h

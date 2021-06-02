@@ -152,6 +152,8 @@ intl-regional-prefs = Gwellvezioù rannvroel
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
+remote-debugging-title = Diveugañ a-bell (Komenad Chromium)
+remote-debugging-accepting-connections = Oc'h asantiñ kennaskadennoù
 remote-debugging-url = URL
 
 ##
@@ -327,4 +329,7 @@ policies-active = Oberiant
 policies-error = Fazi
 
 ## Printing section
+
+
+## Normandy sections
 

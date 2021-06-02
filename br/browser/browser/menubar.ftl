@@ -298,6 +298,13 @@ menu-preferences =
             [windows] b
            *[other] l
         }
+menu-settings =
+    .label = Arventennoù
+    .accesskey =
+        { PLATFORM() ->
+            [windows] A
+           *[other] A
+        }
 menu-tools-layout-debugger =
     .label = Diveuger ar pajennaozañ
     .accesskey = D
@@ -338,6 +345,12 @@ menu-help-keyboard-shortcuts =
 menu-help-troubleshooting-info =
     .label = Titouroù disac'hañ
     .accesskey = T
+menu-get-help =
+    .label = Kaout skoazell
+    .accesskey = K
+menu-help-more-troubleshooting-info =
+    .label = Muioc'h a ditouroù disac’hañ
+    .accesskey = M
 menu-help-report-site-issue =
     .label = Danevell kudennoù al lec'hienn…
 menu-help-feedback-page =
@@ -349,6 +362,12 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Adloc'hañ gant an askouezhioù diweredekaet
     .accesskey = r
+menu-help-enter-troubleshoot-mode2 =
+    .label = Mod disac’hañ
+    .accesskey = M
+menu-help-exit-troubleshoot-mode =
+    .label = Diweredekaat ar mod disac’hañ
+    .accesskey = D
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
