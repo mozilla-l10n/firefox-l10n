@@ -16,6 +16,10 @@ appmenuitem-new-private-window =
     .label = Uinneag phrìobhaideach ùr
 appmenuitem-addons-and-themes =
     .label = Tuilleadain ’s ùrlaran
+# Settings is now used to access the browser settings across all platforms,
+# instead of Options or Preferences.
+appmenuitem-settings =
+    .label = Roghainnean
 
 ## Zoom and Fullscreen Controls
 
@@ -41,6 +45,8 @@ whatsnew-panel-header = Na tha ùr
 ## performance profiles. To enable it go to profiler.firefox.com and click
 ## "Enable Profiler Menu Button".
 
+profiler-popup-settings =
+    .value = Roghainnean
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Deasaich na roghainnean…
 
