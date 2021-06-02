@@ -26,11 +26,11 @@ third-party-th-status = Status
 third-party-tag-ime = IME
     .title = Dit type module wordt geladen als u een IME van derden gebruikt.
 third-party-tag-shellex = Shell-extensie
-    .title = Dit type module wordt geladen als u een bestandsdialoogvenster van het systeem opent.
+    .title = Dit type module wordt geladen als u het bestandsdialoogvenster van het systeem opent.
 third-party-tag-background = Achtergrond
     .title =
         Deze module heeft de toepassing niet geblokkeerd, omdat deze in de
-        achtergrond is geladen
+        achtergrond is geladen.
 third-party-unsigned-icon =
     .title = Deze module is niet ondertekend
 third-party-warning-icon =
