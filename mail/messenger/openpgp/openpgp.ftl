@@ -402,7 +402,7 @@ import-info-fpr = Αποτύπωμα
 import-info-details = Προβολή λεπτομερειών και διαχείριση αποδοχής κλειδιών
 import-info-no-keys = Δεν εισήχθηκαν κλειδιά.
 # Strings in enigmailKeyManager.js
-import-from-clip = Θέλετε να εισάγετε μερικά κλειδιά από το πρόχειρο;
+import-from-clip = Θέλετε να εισαγάγετε μερικά κλειδιά από το πρόχειρο;
 import-from-url = Λήψη δημόσιου κλειδιού από αυτήν τη διεύθυνση URL:
 copy-to-clipbrd-failed = Δεν ήταν δυνατή η αντιγραφή των επιλεγμένων κλειδιών στο πρόχειρο.
 copy-to-clipbrd-ok = Τα κλειδιά αντιγράφηκαν στο πρόχειρο
