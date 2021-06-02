@@ -334,7 +334,7 @@
 <!ENTITY addressesSidebarTitle.label "Επαφές">
 
 <!-- Identity popup customize menuitem -->
-<!ENTITY customizeFromAddress.label "Προσαρμογή διεύθυνσης αποστολής…">
+<!ENTITY customizeFromAddress.label "Προσαρμογή διεύθυνσης αποστολέα…">
 <!ENTITY customizeFromAddress.accesskey "δ">
 
 <!-- Accessibility name for the document -->
