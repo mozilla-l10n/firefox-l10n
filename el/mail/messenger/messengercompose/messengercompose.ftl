@@ -62,12 +62,12 @@ add-attachment-notification-reminder =
     .label = Προσθήκη συνημμένου…
     .tooltiptext = { toolbar-button-add-attachment.tooltiptext }
 menuitem-attach-files =
-    .label = Αρχείο(α)…
+    .label = Αρχεία…
     .accesskey = Α
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
 context-menuitem-attach-files =
-    .label = Επισύναψη Αρχείου(ων)…
-    .accesskey = ρ
+    .label = Επισύναψη αρχείων…
+    .accesskey = ψ
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
 #   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count =
@@ -158,3 +158,6 @@ many-public-recipients-bcc =
 many-public-recipients-ignore =
     .label = Διατήρηση ορατών παραληπτών
     .accesskey = Δ
+
+## Notifications
+
