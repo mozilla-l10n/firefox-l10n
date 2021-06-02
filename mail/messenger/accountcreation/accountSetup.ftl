@@ -179,6 +179,11 @@ account-setup-warning-cleartext = <b>{ $server }</b> ez du zifratzerik erabiltze
 account-setup-warning-cleartext-details = Posta-zerbitzari ez-seguruek ez dute zifratutako konexiorik erabiltzen zure pasahitz eta informazio pribatua babesteko. Konexio honetara konektatuz gero, zure pasahitz eta informazio pribatua agerian gera daiteke.
 account-setup-insecure-server-checkbox = Arriskuak ulertzen ditut.
     .accesskey = u
+account-setup-insecure-description = { -brand-short-name }(e)k dakartzan konfigurazioekin zure posta eskura dezakezu. Halere,  zure administrariaz edo posta hornitzaileaz jarri beharko zenuke harremanetan. Ikusi <a data-l10n-name="thunderbird-faq-link"> Thunderbirden FAQ </a> argibide gehiagorako.
+insecure-dialog-cancel-button = Aldatu ezarpenak
+    .accesskey = e
+insecure-dialog-confirm-button = Berretsi
+    .accesskey = B
 
 ## Warning Exchange confirmation dialog
 
