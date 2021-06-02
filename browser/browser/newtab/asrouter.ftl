@@ -5,14 +5,14 @@
 
 ## These messages are used as headings in the recommendation doorhanger
 
-cfr-doorhanger-extension-heading = Extensão Recomendada
+cfr-doorhanger-extension-heading = Extensão recomendada
 cfr-doorhanger-feature-heading = Recurso recomendado
 cfr-doorhanger-pintab-heading = Experimente isso: Fixar aba
 
 ##
 
 cfr-doorhanger-extension-sumo-link =
-    .tooltiptext = Por que estou vendo isso
+    .tooltiptext = Por que isso apareceu
 cfr-doorhanger-extension-cancel-button = Agora não
     .accesskey = n
 cfr-doorhanger-extension-ok-button = Adicionar agora
@@ -310,6 +310,6 @@ cfr-whatsnew-cross-site-tracking-body = Agora você pode optar por ter melhor pr
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = Os vídeos neste site podem não ser reproduzidos corretamente nesta versão do { -brand-short-name }. Para suporte completo a vídeos, atualize agora o { -brand-short-name }.
-cfr-doorhanger-video-support-header = Atualizar o { -brand-short-name } para reproduzir vídeo
+cfr-doorhanger-video-support-header = Atualize o { -brand-short-name } para reproduzir vídeo
 cfr-doorhanger-video-support-primary-button = Atualizar agora
     .accesskey = A
