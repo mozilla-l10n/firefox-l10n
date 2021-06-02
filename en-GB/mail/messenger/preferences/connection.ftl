@@ -21,6 +21,8 @@ connection-dialog-window =
             [macos] width: 44em !important
            *[other] width: 49em !important
         }
+connection-disable-extension =
+    .label = Disable Extension
 connection-proxy-legend = Configure Proxies to Access the Internet
 proxy-type-no =
     .label = No proxy
