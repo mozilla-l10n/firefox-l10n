@@ -12,6 +12,6 @@
 <!ENTITY addressingTab.label    "Σύνθεση &amp; διευθυνσιοδότηση">
 
 <!ENTITY publicData.label        "Δημόσια Δεδομένα">
-<!ENTITY privateData.label       "Ιδιωτικά Δεδομένα">
+<!ENTITY privateData.label       "Ιδιωτικά δεδομένα">
 <!ENTITY identityAlias.label     "Ετικέτα ταυτότητας:">
 <!ENTITY identityAlias.accesskey "τ">
