@@ -61,6 +61,8 @@ options-screenshot-label = Mba’erechaha japyhypyre reko
 options-screenshot-clipboard-label = Mba’erechaha japyhypyre kuatiajokohápe
 options-screenshot-clipboard-tooltip =
     .title = Eñongatu mba’erechaha japyhypyre kuatiajokohaitépe
+# Label for the checkbox that toggles screenshot to clipboard feature
+options-screenshot-clipboard-only-label = Mba’erechaha japyhypyre kuatiajokohápe
 options-screenshot-clipboard-tooltip2 =
     .title = Eñongatu mba’erechaha japyhypyre kuatiajokohápe
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool

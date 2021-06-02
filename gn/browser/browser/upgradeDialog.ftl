@@ -25,11 +25,31 @@ upgrade-dialog-new-primary-primary-button = Ajapo { -brand-short-name }-gui che 
     .title = Ejapo { -brand-short-name }-gui kundahára ijypyguávarõ ha emboja tembiaporã rendápe
 upgrade-dialog-new-primary-default-button = Ejapóta { -brand-short-name }-gui che kundahára ypyguávarõ
 upgrade-dialog-new-primary-pin-button = Amboja { -brand-short-name } che rembiaporã rendápe
+upgrade-dialog-new-primary-pin-alt-button = Emboja tembiaporã rendáre
 upgrade-dialog-new-primary-theme-button = Eiporavo ne téma
 upgrade-dialog-new-secondary-button = Ani ko’ág̃a
 # This string is only shown on Windows 7, where we intentionally suppress the
 # theme selection screen.
 upgrade-dialog-new-primary-win7-button = ¡Ok, arekóma!
+
+## Pin Firefox screen
+##
+## These title, subtitle and button strings differ between platforms as they
+## match the OS' application context menu item action where Windows uses "pin"
+## and "taskbar" while macOS "keep" and "Dock" (proper noun).
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-pin-title =
+    { PLATFORM() ->
+        [macos] Emoĩ { -brand-short-name } nde Dock-pe
+       *[other] Emboja { -brand-short-name } ne rembiaporã rendáre
+    }
+upgrade-dialog-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Emoĩ nde Dock-pe
+       *[other] Emboja ne rembiaporã rendáre
+    }
+upgrade-dialog-pin-secondary-button = Ani ko’ág̃a
 
 ## Default browser screen
 
@@ -37,6 +57,10 @@ upgrade-dialog-new-primary-win7-button = ¡Ok, arekóma!
 upgrade-dialog-default-title = Ejapo { -brand-short-name }-gui ne kundaha ypyguávarõ
 upgrade-dialog-default-subtitle = Erekosépa ipya’e, hekorosã ha hekoñemíva eikundaha vove.
 upgrade-dialog-default-primary-button = Ejapo kundahára ijypyguávarõ
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title-2 = Ejapo { -brand-short-name }-gui ne kundahára ypygua
+upgrade-dialog-default-subtitle-2 = Embopya’e, emohekorosã ha emoñemigua ijehegui.
+upgrade-dialog-default-primary-button-2 = Ejapo kundahára ijypyguárõ
 upgrade-dialog-default-secondary-button = Ani ko’ág̃a
 
 ## Theme selection screen
@@ -45,6 +69,8 @@ upgrade-dialog-default-secondary-button = Ani ko’ág̃a
 upgrade-dialog-theme-title =
     Emoñepyrũ tekopotĩme
     peteĩ téma hekopyahúva ndive
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-theme-title-2 = Emoñepyrũ yvyetégui peteĩ téma pyahu ndive
 upgrade-dialog-theme-system = Téma apopyvusu
     .title = Ehapykueho téma apopyvusu oku'éva votõ, poravorã ha ovetãme g̃uarã
 upgrade-dialog-theme-light = Sakã
