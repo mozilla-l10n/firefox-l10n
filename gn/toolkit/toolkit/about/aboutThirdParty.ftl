@@ -3,3 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 third-party-header-module-list = Ta’ãha rysýi
+third-party-header-loading-events = Emyanyhẽ tembiaporã
+third-party-message-empty = Ndojejuhúi mbohapyháva ra’ãha.
+third-party-message-no-duration = Oñemboheraguapy’ỹva
+third-party-detail-version = Peteĩchagua marandurenda
+third-party-detail-vendor = Me’ẽhára marandu
