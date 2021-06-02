@@ -52,6 +52,22 @@ about-processes-unknown-process-name = Ambue ({ $type }, rapereko { $pid })
 #   $pid (String) The process id of this process, assigned by the OS.
 about-processes-process-name = Tapereko { $pid }: { $name }
 
+## Process names
+## Variables:
+##    $pid (String) The process id of this process, assigned by the OS.
+
+about-processes-browser-process = { -brand-short-name } ({ $pid })
+about-processes-web-process = Ñanduti mba’eapo oñondivegua ({ $pid })
+about-processes-file-process = Marandurenda ({ $pid })
+about-processes-extension-process = Jepysokue ({ $pid })
+about-processes-privilegedabout-process = Kuatiarogue rehegua ({ $pid })
+
+## Isolated process names
+## Variables:
+##    $pid (String) The process id of this process, assigned by the OS.
+##    $origin (String) The domain name for this process.
+
+
 ## Details within processes
 
 # Single-line summary of threads
