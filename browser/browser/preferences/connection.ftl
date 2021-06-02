@@ -38,6 +38,9 @@ connection-proxy-http-port = Porta
 connection-proxy-http-sharing =
     .label = Utilizza questo proxy anche per FTP e HTTPS
     .accesskey = c
+connection-proxy-https-sharing =
+    .label = Utilizza questo proxy anche per HTTPS
+    .accesskey = c
 
 connection-proxy-https = Proxy HTTPS
     .accesskey = S
