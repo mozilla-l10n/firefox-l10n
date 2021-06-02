@@ -240,12 +240,18 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Clàraich a-steach gu { -brand-product-name }…
     .accesskey = g
-menu-tools-addons-and-themes =
-    .label = Tuilleadain ’s ùrlaran
-    .accesskey = a
 menu-tools-turn-on-sync =
     .label = Cuir { -sync-brand-short-name } air…
     .accesskey = r
+menu-tools-addons-and-themes =
+    .label = Tuilleadain ’s ùrlaran
+    .accesskey = a
+menu-tools-fxa-sign-in2 =
+    .label = Clàraich a-steach
+    .accesskey = C
+menu-tools-turn-on-sync2 =
+    .label = Cuir an sioncronachadh air…
+    .accesskey = n
 menu-tools-sync-now =
     .label = Sioncronaich an-dràsta
     .accesskey = S
@@ -255,6 +261,12 @@ menu-tools-fxa-re-auth =
 menu-tools-web-developer =
     .label = Leasaichear-lìn
     .accesskey = L
+menu-tools-browser-tools =
+    .label = Innealan a’ bhrabhsair
+    .accesskey = b
+menu-tools-task-manager =
+    .label = Manaidsear nan saothair
+    .accesskey = M
 menu-tools-page-source =
     .label = Bun-tùs na duilleige
     .accesskey = u
@@ -271,6 +283,13 @@ menu-preferences =
         { PLATFORM() ->
             [windows] o
            *[other] n
+        }
+menu-settings =
+    .label = Roghainnean
+    .accesskey =
+        { PLATFORM() ->
+            [windows] R
+           *[other] R
         }
 menu-tools-layout-debugger =
     .label = Dì-bhugaichear na co-dhealbhachd

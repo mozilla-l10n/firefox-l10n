@@ -143,6 +143,23 @@ return-to-amo-addon-title = Nise, nach fhaigh sinn <img data-l10n-name="icon"/> 
 ## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 
 
+## Title and primary button strings differ between platforms as they
+## match the OS' application context menu item action where Windows uses "pin"
+## and "taskbar" while macOS "keep" and "Dock" (proper noun).
+
+
+## Multistage MR1 onboarding strings (about:welcome pages)
+
+
+## Title, subtitle and primary button string used on set default onboarding screen
+## when Firefox is not default browser
+
+
+## Multistage MR1 onboarding strings (about:welcome pages)
+
+# System theme uses operating system color settings
+mr1-onboarding-theme-label-system = Ùrlar an t-siostaim
+
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
 ## doesn't become too long. Line breaks will be preserved when displaying the

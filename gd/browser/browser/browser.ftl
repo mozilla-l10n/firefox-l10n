@@ -443,6 +443,12 @@ bookmarks-tools-toolbar-visibility-menuitem =
             [true] Falaich bàr-inneal nan comharra-lìn
            *[other] Seall bàr nan comharra-lìn
         }
+bookmarks-tools-toolbar-visibility-panel =
+    .label =
+        { $isVisible ->
+            [true] Falaich bàr nan comharra-lìn
+           *[other] Seall bàr nan comharra-lìn
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->

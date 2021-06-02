@@ -16,6 +16,8 @@ appmenuitem-new-private-window =
     .label = Uinneag phrìobhaideach ùr
 appmenuitem-addons-and-themes =
     .label = Tuilleadain ’s ùrlaran
+appmenuitem-more-tools =
+    .label = Barrachd innealan
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -80,5 +82,8 @@ appmenu-help-not-deceptive =
 
 ## More Tools
 
+appmenu-customizetoolbar =
+    .label = Gnàthaich am bàr-inneal...
 appmenu-taskmanager =
     .label = Manaidsear nan saothair
+appmenu-developer-tools-subheader = Innealan a’ bhrabhsair
