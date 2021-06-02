@@ -63,13 +63,58 @@ certificate-viewer-signature-scheme = Signature Scheme
 certificate-viewer-timestamp = Timestemp
 certificate-viewer-value = Vailue
 certificate-viewer-version = Version
+certificate-viewer-business-category = Business Caitegory
+certificate-viewer-subject-name = Subjeck Nemme
+certificate-viewer-issuer-name = Issuer Nemme
+certificate-viewer-validity = Suithfestness
+certificate-viewer-subject-alt-names = Subjeck Alt Nemmes
+certificate-viewer-public-key-info = Public Key Info
+certificate-viewer-miscellaneous = Sindry
+certificate-viewer-fingerprints = Fingirprents
+certificate-viewer-basic-constraints = Staunart Constraints
+certificate-viewer-key-usages = Key Yaises
+certificate-viewer-extended-key-usages = Extendit Key Yaises
+certificate-viewer-ocsp-stapling = OCSP Staplin
+certificate-viewer-subject-key-id = Subjeck Key ID
+certificate-viewer-authority-key-id = Authority Key ID
+certificate-viewer-authority-info-aia = Authority Info (AIA)
+certificate-viewer-certificate-policies = Certificate Policies
+certificate-viewer-embedded-scts = Embeddit SCTs
+certificate-viewer-crl-endpoints = CRL Endpynts
+# This message is used as a row header in the Miscellaneous section.
+# The associated data cell contains links to download the certificate.
+certificate-viewer-download = Doonload
+# This message is used to replace boolean values (true/false) in several certificate fields, e.g. Certificate Authority
+# Variables:
+#   $boolean (String) - true/false value for the specific field
+certificate-viewer-boolean =
+    { $boolean ->
+        [true] Aye
+       *[false] Naw
+    }
 
 ## Variables:
 ##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
 
+certificate-viewer-download-pem = PEM (cert)
+    .download = { $fileName }.pem
+certificate-viewer-download-pem-chain = PEM (chain)
+    .download = { $fileName }-chain.pem
+# The title attribute for Critical Extension icon
+certificate-viewer-critical-extension =
+    .title = This extension has been merkt as creetical, meanin that clients maun rejeck the certificate gin they dinnae unnerstaun it.
+certificate-viewer-export = Ootgie
+    .download = { $fileName }.pem
 
 ##
 
+# Label for a tab where we haven't found a better label:
+certificate-viewer-unknown-group-label = (unkent)
 
 ## Labels for tabs displayed in stand-alone about:certificate page
 
+certificate-viewer-tab-mine = Yer Certificates
+certificate-viewer-tab-people = Fowk
+certificate-viewer-tab-servers = Servers
+certificate-viewer-tab-ca = Authorities
+certificate-viewer-tab-unkonwn = Unkent
