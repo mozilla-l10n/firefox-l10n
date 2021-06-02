@@ -20,7 +20,6 @@ account-setup-name-input =
     .placeholder = Mikel Biteri
 account-setup-name-info-icon =
     .title = Zure izena, besteei erakutsiko zaien bezala
-account-setup-name-warning = Idatzi zure izena mesedez
 account-setup-name-warning-icon =
     .title = { account-setup-name-warning }
 account-setup-email-label = Helbide elektronikoa
@@ -29,7 +28,6 @@ account-setup-email-input =
     .placeholder = mikel.biteri@adibidez.net
 account-setup-email-info-icon =
     .title = Zure posta elektroniko bat
-account-setup-email-warning = Posta-helbide baliogabea
 account-setup-email-warning-icon =
     .title = { account-setup-email-warning }
 account-setup-password-label = Pasahitza
@@ -100,6 +98,8 @@ account-setup-step3-image =
     .title = Konfigurazioa aurkitua
 account-setup-step4-image =
     .title = Konexio errorea
+account-setup-privacy-footnote = Zure kredentzialak gure <a data-l10n-name="privacy-policy-link"> Pribatutasun-politikaren arabera erabiliko dira </a> eta zure ordenagailuan lokalean bakarrik gordeko dira
+account-setup-selection-help = Ez dakizu zer hautatu?
 account-setup-selection-error = Laguntza bila?
 account-setup-documentation-help = Konfigurazio dokumentazioa
 account-setup-forum-help = Laguntza foroa
@@ -120,6 +120,15 @@ account-setup-incoming-title = Sarrerakoa
 account-setup-outgoing-title = Irteerakoa
 account-setup-username-title = Erabiltzaile-izena
 account-setup-exchange-title = Zerbitzaria
+account-setup-result-smtp = SMTP
+account-setup-result-no-encryption = Zifraketarik ez
+account-setup-result-ssl = SSL/TLS
+account-setup-result-starttls = STARTTLS
+account-setup-result-outgoing-existing = Erabili badagoen irteerako SMTP zerbitzaria
+# Variables:
+#  $incoming (String): The email/username used to log into the incoming server
+#  $outgoing (String): The email/username used to log into the outgoing server
+account-setup-result-username-different = Sarrerakoa: { $incoming }; Irteerakoa: { $outgoing }
 
 ## Error messages
 
@@ -129,32 +138,53 @@ account-setup-credentials-wrong = Autentifikazioak huts egin du. Mesedez berriku
 account-setup-find-settings-failed = { -brand-short-name }(e)k ez du zure posta-kontuaren ezarpenik aurkitu.
 account-setup-exchange-config-unverifiable = Konfigurazioa ezin da egiaztatu. Zure erabiltzaile izena eta pasahitza zuzenak badira, litekeena da zerbitzari administratzaileak zure konturako aukeratutako konfigurazioa desgaitu izana. Saiatu beste protokolo bat aukeratuz.
 
-## Manual config area
+## Manual configuration area
 
 account-setup-manual-config-title = Zerbitzariaren ezarpenak
-account-setup-incoming-protocol-label = Sarrera protokoloa
+account-setup-incoming-server-legend = Hartzeko zerbitzaria
+account-setup-protocol-label = Protokoloa:
 protocol-imap-option = { account-setup-result-imap }
 protocol-pop-option = { account-setup-result-pop }
-account-setup-outgoing-protocol-label = Irteera protokoloa
-outgoing-protocol = SMTP
-account-setup-incoming-server-label = Hartzeko zerbitzaria:
-account-setup-outgoing-server-label = Posta bidaltzeko zerbitzaria:
-account-setup-incoming-port-label = Sarrera portua
-account-setup-outoing-port-label = Irteera portua
-account-setup-incoming-ssl-label = Sarrerako SSL
-account-setup-outgoing-ssl-label = Irteerako SSL
+protocol-exchange-option = { account-setup-result-exchange }
+account-setup-hostname-label = Ostalari-izena:
+account-setup-port-label = Ataka:
+    .title = ezarri ataka zenbakia 0 autodetektatzeko
+account-setup-auto-description = { -brand-short-name } hutsik dauden eremuak auto-detektatzen saiatuko da.
+account-setup-ssl-label = Konexioaren segurtasuna:
+account-setup-outgoing-server-legend = Posta bidaltzeko zerbitzaria
+
+## Incoming/Outgoing SSL Authentication options
+
 ssl-autodetect-option = Autodetektatu
+ssl-no-authentication-option = Autentifikaziorik ez
+ssl-cleartext-password-option = Pasahitz arrunta
+ssl-encrypted-password-option = Zifratutako pasahitza
+
+## Incoming/Outgoing SSL options
+
 ssl-noencryption-option = Bat ere ez
-ssl-starttls-option = STARTTLS
-ssl-tls-option = SSL/TLS
-account-setup-incoming-auth-label = Sarrera autentifikazioa
-account-setup-outgoing-auth-label = Irteera autentifikazioa
-account-setup-incoming-username-label = Hartzeko erabiltzaile izena
-account-setup-outgoing-username-label = Bidaltzeko erabiltzaile izena
+account-setup-auth-label = Autentifikazio metodoa:
+account-setup-username-label = Erabiltzaile-izena:
 account-setup-advanced-setup-button = Konfigurazio aurreratua
     .accesskey = a
 
-## Warning insecure server
+## Warning insecure server dialog
 
+account-setup-insecure-title = Kontuz!
+account-setup-insecure-incoming-title = Hartzeko ezarpenak:
+account-setup-insecure-outgoing-title = Irteerako ezarpenak:
+# Variables:
+#  $server (String): The name of the hostname of the server the user was trying to connect to.
+account-setup-warning-cleartext = <b>{ $server }</b> ez du zifratzerik erabiltzen.
+account-setup-warning-cleartext-details = Posta-zerbitzari ez-seguruek ez dute zifratutako konexiorik erabiltzen zure pasahitz eta informazio pribatua babesteko. Konexio honetara konektatuz gero, zure pasahitz eta informazio pribatua agerian gera daiteke.
 account-setup-insecure-server-checkbox = Arriskuak ulertzen ditut.
     .accesskey = u
+
+## Warning Exchange confirmation dialog
+
+
+## Alert dialogs
+
+
+## Addon installation section
+
