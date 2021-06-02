@@ -12,6 +12,9 @@
 ### across the developer tools. A good criteria is the language in which you'd find the
 ### best documentation on web development on the web.
 
+# Alt text for the image icon displayed inside a debug link for a service worker.
+serviceworker-worker-inspect-icon =
+    .alt = Luik-ower
 # Text for the start link displayed for a registered but not running Service Worker.
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start3 = Stert
