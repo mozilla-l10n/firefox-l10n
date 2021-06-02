@@ -263,15 +263,44 @@ onboarding-multistage-theme-description-alpenglow =
 # Firefox to pursue those passions, as well as the boldness in their
 # choice to use Firefox over a larger competitor browser.
 # An alternative title for localization is: "It starts here".
+# This text can be formatted to span multiple lines as needed.
 mr1-welcome-screen-hero-text = Tata oñepyrũ ápe
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Eipe’aite mbovy’aha
+
+## Title and primary button strings differ between platforms as they
+## match the OS' application context menu item action where Windows uses "pin"
+## and "taskbar" while macOS "keep" and "Dock" (proper noun).
+
+# Primary button string used on welcome page when Firefox is not pinned.
+mr1-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Emoĩ Dock ndive
+       *[other] Emboja tembiaporã rendáre
+    }
+
+## Multistage MR1 onboarding strings (about:welcome pages)
+
+# This string will be used on welcome page primary button label
+# when Firefox is both pinned and default
+mr1-onboarding-get-started-primary-button-label = Eñepyrũ
 mr1-onboarding-welcome-header = Eg̃uahẽporãite { -brand-short-name }-pe
 mr1-onboarding-set-default-pin-primary-button-label = Ajapo { -brand-short-name }-gui che kundahára aipuruvévarõ
     .title = Areko { -brand-short-name } kundahára ypyguárõ ha ambojuaju tembiaporã rendáre
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
 mr1-onboarding-set-default-only-primary-button-label = Ajapo { -brand-short-name }-gui kundahára ypyguávarõ
 mr1-onboarding-set-default-secondary-button-label = Ani ko’ág̃a
 mr1-onboarding-sign-in-button-label = Eñepyrũ tembiapo
+
+## Title, subtitle and primary button string used on set default onboarding screen
+## when Firefox is not default browser
+
+mr1-onboarding-default-header = Ejapo { -brand-short-name }-gui ne kundahára ypygua
+mr1-onboarding-default-primary-button-label = Ejapo kundahára ijypyguárõ
+
+## Multistage MR1 onboarding strings (about:welcome pages)
+
 mr1-onboarding-import-header = Eguerahapa nendive
 mr1-onboarding-import-subtitle = Emba’egueru ne ñe’ẽñemi, <br/>techaukaha ha hetave.
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.

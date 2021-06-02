@@ -216,8 +216,6 @@ cfr-doorhanger-milestone-heading2 =
     }
 cfr-doorhanger-milestone-ok-button = Hechapa
     .accesskey = H
-cfr-doorhanger-milestone-close-button = Mboty
-    .accesskey = C
 
 ## What’s New Panel Content for Firefox 76
 
@@ -242,6 +240,8 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Peteĩva ta’ãnga ra’ãnga’i
 
 ## Protections Dashboard message
 
+cfr-doorhanger-milestone-close-button = Mboty
+    .accesskey = C
 
 ## What’s New Panel Content for Firefox 76
 ## Protections Dashboard message
@@ -260,8 +260,6 @@ cfr-whatsnew-better-pdf-body = Kuatiakuéra PDF ko’ág̃a ijurujáma { -brand-
 
 cfr-doorhanger-doh-body = Ne ñemigua tuichamba’e. { -brand-short-name } ombohape tekorosãme umi ne mba’ejerure DNS ikatu vove peteĩ mba’epuru oñembyatýva nemo’ã hag̃ua eikundaha aja.
 cfr-doorhanger-doh-header = Jehekapy DNS hekorosã ha ipapapýva
-cfr-doorhanger-doh-primary-button = OK, Aikumbýma
-    .accesskey = O
 cfr-doorhanger-doh-primary-button-2 = Moneĩ
     .accesskey = O
 cfr-doorhanger-doh-secondary-button = Pe’a
@@ -307,3 +305,9 @@ cfr-whatsnew-bookmarking-body = Ndahyasyive ehapykuehóvo tendakuéra ehayhuvév
 
 cfr-whatsnew-cross-site-tracking-header = Ñemo’ãmba kookie ohapykuehóva tenda pa’ũme rovake
 cfr-whatsnew-cross-site-tracking-body = Ko’ág̃a ikatu eiporavo omo’ãvéva kookie rapykuehoha rovake. { -brand-short-name } ikatu omoha’eño ne rembiapo ha mba’ekuaarã tenda eimehápe marandu oñembyatýva kundahárape ani hag̃ua oñemoherakuã ñanduti renda rupi.
+
+## Full Video Support CFR message
+
+cfr-doorhanger-video-support-header = Embohekopyahu { -brand-short-name } ehecha hag̃ua ta’ãngamýi
+cfr-doorhanger-video-support-primary-button = Embohekopyahu ko’ág̃a
+    .accesskey = U
