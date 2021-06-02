@@ -33,7 +33,7 @@
 <!ENTITY saveAsTemplateCmd.accesskey "ρ">
 <!ENTITY attachMenu.label "Επισύναψη">
 <!ENTITY attachMenu.accesskey "ψ">
-<!ENTITY attachFileCmd.label "Αρχείο(α)…">
+<!ENTITY attachFileCmd.label "Αρχεία…">
 <!ENTITY attachFileCmd.accesskey "Α">
 <!ENTITY attachPageCmd.label "Ιστοσελίδα…">
 <!ENTITY attachPageCmd.accesskey "Ι">
@@ -51,6 +51,8 @@
 <!ENTITY editRewrapCmd.label "Aναδίπλωση">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey  "δ">
+
+<!-- Edit menu items -->
 <!ENTITY accountManagerCmd.label "Ρυθμίσεις λογαριασμού αλληλογραφίας &amp; ομάδων συζήτησης…">
 <!ENTITY accountManagerCmd.accesskey "θ">
 
@@ -134,7 +136,7 @@
 <!ENTITY renameAttachment.accesskey "Μ">
 <!ENTITY deleteAttachment.accesskey "Δ">
 <!ENTITY selectAllAttachments.accesskey "ό">
-<!ENTITY attachFile.label "Επισύναψη αρχείου(ων)…">
+<!ENTITY attachFile.label "Επισύναψη αρχείων…">
 <!ENTITY attachFile.accesskey "Ε">
 <!ENTITY attachPage.label "Επισύναψη ιστοσελίδας…">
 <!ENTITY attachPage.accesskey "ι">

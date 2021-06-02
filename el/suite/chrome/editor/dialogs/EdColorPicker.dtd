@@ -18,5 +18,5 @@
 <!ENTITY background.accessKey "Φ">
 <!ENTITY table.label "Πίνακας">
 <!ENTITY table.accessKey "π">
-<!ENTITY cell.label "Κελί(α)">
+<!ENTITY cell.label "Κελιά">
 <!ENTITY cell.accessKey "Κ">
