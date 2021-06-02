@@ -723,3 +723,4 @@ addon-removal-title = Dilemel { $name }?
 
 remote-tabs-manage-account =
     .label = Merañ ar gont
+remote-tabs-sync-now = Goubredañ bremañ

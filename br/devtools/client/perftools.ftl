@@ -91,9 +91,18 @@ pref-thread-stream-trans =
     .title = Network stream transport
 perftools-thread-socket-thread =
     .title = The thread where networking code runs any blocking socket calls
+perftools-thread-img-decoder =
+    .title = Image decoding threads
+perftools-thread-dns-resolver =
+    .title = DNS resolution happens on this thread
+perftools-thread-js-helper =
+    .title = JS engine background work such as off-main-thread compiles
 
 ##
 
+perftools-record-all-registered-threads = Bypass selections above and record all registered threads
+perftools-tools-threads-input-label =
+    .title = These thread names are a comma separated list that is used to enable profiling of the threads in the profiler. The name needs to be only a partial match of the thread name to be included. It is whitespace sensitive.
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
