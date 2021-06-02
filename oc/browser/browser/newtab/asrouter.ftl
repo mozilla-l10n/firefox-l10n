@@ -222,8 +222,6 @@ cfr-doorhanger-milestone-heading2 =
     }
 cfr-doorhanger-milestone-ok-button = O mostrar tot
     .accesskey = m
-cfr-doorhanger-milestone-close-button = Tampar
-    .accesskey = T
 
 ## What’s New Panel Content for Firefox 76
 
@@ -248,6 +246,8 @@ cfr-whatsnew-pip-fullscreen-icon-alt = icòna vidèos incrustada
 
 ## Protections Dashboard message
 
+cfr-doorhanger-milestone-close-button = Tampar
+    .accesskey = T
 
 ## What’s New Panel Content for Firefox 76
 ## Protections Dashboard message
@@ -266,8 +266,6 @@ cfr-whatsnew-better-pdf-body = Los documents se dobrisson ara dirèctament dins 
 
 cfr-doorhanger-doh-body = Vòstra vida privada es importanta. Ara { -brand-short-name } encamina de forma segura vòstras requèstas DNS tant coma se pòt via un servici partenari per vos protegir pendent la navegacion.
 cfr-doorhanger-doh-header = Requèstas DNS mai seguras e chifradas
-cfr-doorhanger-doh-primary-button = Òc, plan comprés
-    .accesskey = c
 cfr-doorhanger-doh-primary-button-2 = OK
     .accesskey = O
 cfr-doorhanger-doh-secondary-button = Desactivar
@@ -313,3 +311,10 @@ cfr-whatsnew-bookmarking-body = Es mai simple de gardar vòstres sites preferits
 
 cfr-whatsnew-cross-site-tracking-header = Proteccion integrala contra lo seguiment de cookies intersites
 cfr-whatsnew-cross-site-tracking-body = Ara podètz causir se volètz una proteccion melhorada contra lo seguiment dels cookies. { -brand-short-name } pòt isolar vòstras activitats e donadas dels lòcs que visitatz, per dire que las informacions emmagazinadas al navegador sián pas partejadas entre sites.
+
+## Full Video Support CFR message
+
+cfr-doorhanger-video-support-body = Las vidèos d’aqueste site poirián se legir amb dificultat amb aquesta version de { -brand-short-name }. Per una presa en carga complèta, actualizatz { -brand-short-name } ara.
+cfr-doorhanger-video-support-header = Actualizatz { -brand-short-name } per legir la vidèo
+cfr-doorhanger-video-support-primary-button = Actualizar ara
+    .accesskey = A
