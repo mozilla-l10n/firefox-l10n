@@ -62,6 +62,14 @@ about-processes-file-process = Marandurenda ({ $pid })
 about-processes-extension-process = Jepysokue ({ $pid })
 about-processes-privilegedabout-process = Kuatiarogue rehegua ({ $pid })
 about-processes-plugin-process = Moĩmbaha ({ $pid })
+about-processes-privilegedmozilla-process = { -vendor-short-name } renda ({ $pid })
+about-processes-gmp-plugin-process = Gecko rupytyha moĩmbaha ({ $pid })
+about-processes-gpu-process = GPU ({ $pid })
+about-processes-vr-process = VR ({ $pid })
+about-processes-rdd-process = Mba’ekuaarã papapy’oha ({ $pid })
+about-processes-socket-process = Ñanduti ({ $pid })
+about-processes-remote-sandbox-broker-process = Remote Sandbox Broker ({ $pid })
+about-processes-fork-server-process = Fork Server ({ $pid })
 
 ## Isolated process names
 ## Variables:
