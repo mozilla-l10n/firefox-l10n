@@ -220,8 +220,6 @@ cfr-doorhanger-milestone-heading2 =
     }
 cfr-doorhanger-milestone-ok-button = Vis alle
     .accesskey = V
-cfr-doorhanger-milestone-close-button = Luk
-    .accesskey = L
 
 ## What’s New Panel Content for Firefox 76
 
@@ -246,6 +244,8 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Ikon for billede-i-billede
 
 ## Protections Dashboard message
 
+cfr-doorhanger-milestone-close-button = Luk
+    .accesskey = L
 
 ## What’s New Panel Content for Firefox 76
 ## Protections Dashboard message
@@ -264,8 +264,6 @@ cfr-whatsnew-better-pdf-body = PDF-dokumenter åbnes nu direkte i { -brand-short
 
 cfr-doorhanger-doh-body = Du har ret til et privatliv. { -brand-short-name } dirigerer nu så vidt muligt dine DNS-forespørgsler sikkert via en tjeneste leveret af en partner for at beskytte dig på nettet.
 cfr-doorhanger-doh-header = Sikrere, krypterede DNS-opslag
-cfr-doorhanger-doh-primary-button = Ok, forstået
-    .accesskey = O
 cfr-doorhanger-doh-primary-button-2 = Okay
     .accesskey = O
 cfr-doorhanger-doh-secondary-button = Deaktiver
@@ -311,3 +309,10 @@ cfr-whatsnew-bookmarking-body = Det er blevet nemmere at holde styr på dine ynd
 
 cfr-whatsnew-cross-site-tracking-header = Omfattende beskyttelse mod cookie-sporing på tværs af websteder
 cfr-whatsnew-cross-site-tracking-body = Du kan du vælge at blive endnu bedre beskyttet mod sporing via cookies. { -brand-short-name } kan isolere dine aktiviteter og data til det websted, du besøger. På dén måde bliver information gemt i browseren ikke delt mellem websteder.
+
+## Full Video Support CFR message
+
+cfr-doorhanger-video-support-body = Videoer på dette websted afspilles måske ikke korrekt i denne version af { -brand-short-name }. Opdater { -brand-short-name } nu for fuld understøttelse af video.
+cfr-doorhanger-video-support-header = Opdater { -brand-short-name } for at afspille video
+cfr-doorhanger-video-support-primary-button = Opdater nu
+    .accesskey = O
