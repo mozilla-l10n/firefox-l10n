@@ -15,7 +15,7 @@
 <!ENTITY openButton.accesskey        "γ">
 <!ENTITY deleteButton.label          "Διαγραφή">
 <!ENTITY deleteButton.accesskey      "Δ">
-<!ENTITY searchDialogTitle.label     "Αναζήτηση Μηνυμάτων">
+<!ENTITY searchDialogTitle.label     "Αναζήτηση μηνυμάτων">
 <!ENTITY results.label               "Αποτελέσματα">
 <!ENTITY moveButton.label            "Μετακίνηση σε">
 <!ENTITY moveButton.accesskey        "α">
