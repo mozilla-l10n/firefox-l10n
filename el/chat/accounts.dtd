@@ -17,7 +17,7 @@
 <!ENTITY accountManager.close.commandkey     "a">
 <!-- This title must be short, displayed with a big font size -->
 <!ENTITY accountManager.noAccount.title      "Δεν έχει ρυθμιστεί ακόμη λογαριασμός">
-<!ENTITY accountManager.noAccount.description 'Κάντε κλικ στο κουμπί "&accountManager.newAccount.label;" και το &brandShortName; θα σας βοηθήσει να ρυθμίσετε ένα νέο.'>
+<!ENTITY accountManager.noAccount.description 'Κάντε κλικ στο κουμπί "&accountManager.newAccount.label;" και το &brandShortName; θα σας βοηθήσει να ρυθμίσετε έναν νέο.'>
 <!ENTITY account.autoSignOn.label     "Σύνδεση κατά την εκκίνηση">
 <!ENTITY account.autoSignOn.accesskey "Σ">
 <!ENTITY account.connect.label        "Σύνδεση">
