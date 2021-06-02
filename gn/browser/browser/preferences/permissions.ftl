@@ -18,6 +18,9 @@ permissions-session =
 permissions-allow =
     .label = Moneĩ
     .accesskey = A
+permissions-button-off =
+    .label = Eipe’aite
+    .accesskey = O
 permissions-site-name =
     .label = Ñanduti renda
 permissions-status =
@@ -77,6 +80,9 @@ permissions-exceptions-cookie-window =
     .title = Ijykepeguáva: Kookie ha tenda mba’ekuaarã
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = Ikatu ere máva ñanduti rendápa akóinte oipuru térã araka’eve ndoipurúiva kookie ha mba’ekuaarã tendagua. Ehai ñandutirape tenda reisãmbyhyséva ha upéi ehesakutu Joko, emoneĩ tembiapo térã Emoneĩ.
+
+## Exceptions - HTTPS-Only Mode
+
 
 ## Exceptions - Pop-ups
 
