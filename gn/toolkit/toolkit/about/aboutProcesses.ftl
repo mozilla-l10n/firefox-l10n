@@ -70,12 +70,21 @@ about-processes-rdd-process = Mba’ekuaarã papapy’oha ({ $pid })
 about-processes-socket-process = Ñanduti ({ $pid })
 about-processes-remote-sandbox-broker-process = Remote Sandbox Broker ({ $pid })
 about-processes-fork-server-process = Fork Server ({ $pid })
+about-processes-preallocated-process = Ñeme’ẽmby ({ $pid })
+# Unknown process names
+# Variables:
+#    $pid (String) The process id of this process, assigned by the OS.
+#    $type (String) The raw type for this process.
+about-processes-unknown-process = Ambue: { $type } ({ $pid })
 
 ## Isolated process names
 ## Variables:
 ##    $pid (String) The process id of this process, assigned by the OS.
 ##    $origin (String) The domain name for this process.
 
+about-processes-web-isolated-process = { $origin } ({ $pid })
+about-processes-web-large-allocation-process = { $origin } ({ $pid }, tuicha)
+about-processes-with-coop-coep-process = { $origin } ({ $pid }, teñoiha ojuasáva mombyrygua)
 
 ## Details within processes
 
@@ -90,6 +99,12 @@ about-processes-thread-summary = Inimbo ({ $number })
 #   $name (String) The name assigned to the thread.
 #   $tid (String) The thread id of this thread, assigned by the OS.
 about-processes-thread-name = Inimbo { $tid }: { $name }
+# Thread details
+# Variables:
+#   $name (String) The name assigned to the thread.
+#   $tid (String) The thread id of this thread, assigned by the OS.
+about-processes-thread-name-and-id = { $name }
+    .title = Id inimbo: { $tid }
 # Tab
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
@@ -120,6 +135,9 @@ about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigit
 about-processes-cpu-user-and-kernel-not-ready = (ta’ãha)
 # Special case: process or thread is currently idle.
 about-processes-cpu-user-and-kernel-idle = hekoreíva ({ NUMBER($total, maximumFractionDigits: 2) }{ $unit })
+# Special case: process or thread is currently idle.
+about-processes-cpu-idle = Oĩreíva
+    .title = CPU aravo: { NUMBER($total, maximumFractionDigits: 2) }{ $unit }
 
 ## Displaying Memory (total and delta)
 ## Variables:
@@ -134,6 +152,9 @@ about-processes-cpu-user-and-kernel-idle = hekoreíva ({ NUMBER($total, maximumF
 
 # Common case.
 about-processes-total-memory-size = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit } ({ $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit })
+# Common case.
+about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
+    .title = Mongakuaa: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit }
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
 
