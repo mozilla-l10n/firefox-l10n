@@ -4,7 +4,7 @@
 
 permissions-reminder-window =
     .title = Εξαιρέσεις
-    .style = width: 40em;
+    .style = width: 45em;
 window-close-key =
     .key = w
 permission-preferences-close-window =
@@ -42,4 +42,4 @@ permission-can-access-first-party-label = Να επιτρέπεται μόνο �
 permission-can-session-label = Αποδοχή για τη συνεδρία
 permission-cannot-label = Φραγή
 invalid-uri-message = Παρακαλούμε εισάγετε ένα έγκυρο όνομα συστήματος
-invalid-uri-title = Εισήχθηκε μη έγκυρο όνομα συστήματος
+invalid-uri-title = Εισήχθη μη έγκυρο όνομα συστήματος

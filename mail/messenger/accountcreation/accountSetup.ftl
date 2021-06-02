@@ -6,7 +6,7 @@ account-setup-tab-title = Ρύθμιση λογαριασμού
 
 ## Header
 
-account-setup-title = Ρύθμιση της υπάρχουσας διεύθυνσης ηλεκτρονικού ταχυδρομείου σας
+account-setup-title = Ρύθμιση της υπάρχουσας διεύθυνσης email σας
 account-setup-description =
     Για να χρησιμοποιήσετε την υπάρχουσα διεύθυνση ηλεκτρονικού ταχυδρομείου σας, συμπληρώστε τα διαπιστευτήριά σας. <br/>
     Το { -brand-product-name } θα αναζητήσει αυτόματα τις λειτουργικές και προτεινόμενες ρυθμίσεις του διακομιστή.
@@ -21,15 +21,15 @@ account-setup-name-input =
 account-setup-name-info-icon =
     .title = Το όνομά σας, όπως θα εμφανίζεται στους άλλους
 account-setup-name-warning-icon =
-    .title = { account-setup-name-warning }
+    .title = Παρακαλώ εισαγάγετε το όνομά σας
 account-setup-email-label = Διεύθυνση email
     .accesskey = Δ
 account-setup-email-input =
     .placeholder = onomateponimo@example.com
 account-setup-email-info-icon =
-    .title = Η υπάρχουσα διεύθυνση ηλεκτρονικού ταχυδρομείου σας
+    .title = Η υπάρχουσα διεύθυνση email σας
 account-setup-email-warning-icon =
-    .title = { account-setup-email-warning }
+    .title = Μη έγκυρη διεύθυνση email
 account-setup-password-label = Κωδικός πρόσβασης
     .accesskey = Κ
     .title = Προαιρετικό, θα χρησιμοποιηθεί μόνο για την επαλήθευση του ονόματος χρήστη

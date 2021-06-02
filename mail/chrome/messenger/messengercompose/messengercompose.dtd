@@ -18,7 +18,7 @@
 <!ENTITY newContact.accesskey "Ε">
 <!ENTITY attachMenu.label "Επισύναψη">
 <!ENTITY attachMenu.accesskey "ψ">
-<!ENTITY attachFileCmd.label "Αρχείο(α)…">
+<!ENTITY attachFileCmd.label "Αρχεία…">
 <!ENTITY attachFileCmd.accesskey "Α">
 <!ENTITY attachFileCmd.key "A">
 <!ENTITY attachCloudCmd.label "Filelink">
@@ -306,7 +306,7 @@
 <!ENTITY removeAllAttachments.accesskey "ρ">
 <!ENTITY selectAll.label "Επιλογή όλων">
 <!ENTITY selectAll.accesskey "λ">
-<!ENTITY attachFile.label "Επισύναψη αρχείου(ων)…">
+<!ENTITY attachFile.label "Επισύναψη αρχείων…">
 <!ENTITY attachFile.accesskey "σ">
 <!ENTITY attachCloud.label "Filelink…">
 <!ENTITY attachCloud.accesskey "i">
