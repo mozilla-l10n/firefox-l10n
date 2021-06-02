@@ -18,6 +18,7 @@ login-filter =
 create-login-button = Cruthaich clàradh a-steach ùr
 fxaccounts-sign-in-text = Faigh cothrom air na faclan-faire agad air uidheaman eile
 fxaccounts-sign-in-button = Clàraich a-steach gu { -sync-brand-short-name }
+fxaccounts-sign-in-sync-button = Clàraich a-steach a shioncronachadh
 fxaccounts-avatar-button =
     .title = Stiùirich an cunntas
 
@@ -71,12 +72,13 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = A’ lorg nan clàraidhean a-steach a shàbhail thu? Suidhich { -sync-brand-short-name }.
-about-logins-login-intro-heading-logged-out = A’ lorg nan clàraidhean a-steach a shàbhail thu? Suidhich { -sync-brand-short-name } no ion-phortaich iad.
+about-logins-login-intro-heading-logged-out2 = A bheil na logins a shàbhail thu a dhìth ort? Cuir an sioncronachadh air no ion-phortaich iad.
 about-logins-login-intro-heading-logged-in = Cha deach clàradh a-steach sioncronaichte a lorg.
 login-intro-description = Ma shàbhail thu na clàraidhean a-steach agad ann am { -brand-product-name } air uidheam eile, seo mar a gheibh thu greim orra an-seo:
 login-intro-instruction-fxa = Cruthaich { -fxaccount-brand-name } no clàraich a-steach dha air an uidheam far an deach na clàraidhean a-steach agad a shàbhaladh
 login-intro-instruction-fxa-settings = Dèan cinnteach gu bheil cromag ann am bogsa nan clàraidhean a-steach ann an roghainnean { -sync-brand-short-name }
 about-logins-intro-instruction-help = Tadhail air <a data-l10n-name="help-link">Taic { -lockwise-brand-short-name }</a> airson cobhair
+login-intro-instructions-fxa = Cruthaich { -fxaccount-brand-name(capitalization: "sentence") } air an uidheam far an do shàbhail thu na logins agad no cruthaich cunntas ùr.
 login-intro-instructions-fxa-help = Tadhail air <a data-l10n-name="help-link">taic { -lockwise-brand-short-name }</a> airson barrachd cuideachaidh.
 about-logins-intro-import = Ma shàbhail thu na clàraidhean a-steach agad ann am brabhsair eile, ’s urrainn dhut <a data-l10n-name="import-link">an ion-phortadh gu { -lockwise-brand-short-name }</a>
 about-logins-intro-import2 = Ma chaidh na clàraidhean a-steach agad a shàbhaladh taobh a-muigh { -brand-product-name }, ’s urrainn dhut an <a data-l10n-name="import-browser-link">ion-phortadh à brabhsair eile</a> no <a data-l10n-name="import-file-link">à faidhle</a>
