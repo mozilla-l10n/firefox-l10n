@@ -69,6 +69,6 @@
 <!ENTITY numberOfMessages.label                  "Αριθμός μηνυμάτων:">
 <!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
 <!ENTITY numberUnknown.label                     "άγνωστο">
-<!ENTITY sizeOnDisk.label                        "Μέγεθος στο δίσκο:">
+<!ENTITY sizeOnDisk.label                        "Μέγεθος στον δίσκο:">
 <!-- LOCALIZATION NOTE: When the size can't be determined, this string is displayed as the size -->
 <!ENTITY sizeUnknown.label                       "άγνωστο">
