@@ -67,7 +67,7 @@
 <!-- These controls are in the Link Box -->
 <!ENTITY showImageLinkBorder.label "Εμφάνιση πλαισίου γύρω από εικόνα με σύνδεσμο">
 <!ENTITY showImageLinkBorder.accessKey "β">
-<!ENTITY LinkAdvancedEditButton.label "Προηγμένη επεξεργασία συνδέσμου…">
+<!ENTITY LinkAdvancedEditButton.label "Σύνθετη επεξεργασία συνδέσμου…">
 <!ENTITY LinkAdvancedEditButton.accessKey "δ">
 <!ENTITY LinkAdvancedEditButton.tooltip "Προσθήκη ή τροποποίηση ιδιοτήτων HTML, στυλ και JavaScript">
 
