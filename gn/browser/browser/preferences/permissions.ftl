@@ -21,6 +21,9 @@ permissions-allow =
 permissions-button-off =
     .label = Eipe’aite
     .accesskey = O
+permissions-button-off-temporarily =
+    .label = Jepe’a sapy’agua
+    .accesskey = T
 permissions-site-name =
     .label = Ñanduti renda
 permissions-status =
@@ -61,6 +64,10 @@ permissions-capabilities-listitem-block =
     .value = Jokoha
 permissions-capabilities-listitem-allow-session =
     .value = Tembiapópe g̃uarã moneĩ
+permissions-capabilities-listitem-off =
+    .value = Mboguepyre
+permissions-capabilities-listitem-off-temporarily =
+    .value = Jepe’a sapy’agua
 
 ## Invalid Hostname Dialog
 
@@ -83,6 +90,9 @@ permissions-exceptions-cookie-desc = Ikatu ere máva ñanduti rendápa akóinte 
 
 ## Exceptions - HTTPS-Only Mode
 
+permissions-exceptions-https-only-window =
+    .title = Ykepegua – HTTPS ayvu añópe
+    .style = { permissions-window.style }
 
 ## Exceptions - Pop-ups
 
