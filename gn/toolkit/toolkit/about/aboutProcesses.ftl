@@ -61,6 +61,7 @@ about-processes-web-process = Ñanduti mba’eapo oñondivegua ({ $pid })
 about-processes-file-process = Marandurenda ({ $pid })
 about-processes-extension-process = Jepysokue ({ $pid })
 about-processes-privilegedabout-process = Kuatiarogue rehegua ({ $pid })
+about-processes-plugin-process = Moĩmbaha ({ $pid })
 
 ## Isolated process names
 ## Variables:
