@@ -280,14 +280,14 @@ mr1-onboarding-reduce-motion-button-label = Disactivar le animationes
 # Title used on welcome page when Firefox is not pinned
 mr1-onboarding-pin-header =
     { PLATFORM() ->
-        [macos] Mantene { -brand-short-name } in tu Bassino pro acceder facilemente
-       *[other] Appuncta { -brand-short-name } a tu barra del activitates pro acceder facilemente
+        [macos] Mantener { -brand-short-name } in tu Dock pro accesso facile
+       *[other] Fixar { -brand-short-name } a tu barra de activitates pro accesso facile
     }
 # Primary button string used on welcome page when Firefox is not pinned.
 mr1-onboarding-pin-primary-button-label =
     { PLATFORM() ->
-        [macos] Mantener in le Bassino
-       *[other] Appunctar al barra del activitates
+        [macos] Mantener in le Dock
+       *[other] Fixar al barra de activitates
     }
 
 ## Multistage MR1 onboarding strings (about:welcome pages)

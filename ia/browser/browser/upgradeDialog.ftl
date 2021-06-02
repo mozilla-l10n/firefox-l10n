@@ -41,8 +41,8 @@ upgrade-dialog-new-primary-win7-button = Ok, comprendite
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-pin-title =
     { PLATFORM() ->
-        [macos] Mantene { -brand-short-name } in tu Bassino
-       *[other] Appuncta { -brand-short-name } a tu barra del activitates
+        [macos] Mantener { -brand-short-name } in tu Dock
+       *[other] Fixar { -brand-short-name } a tu barra de activitates
     }
 # The English macOS string avoids repeating "Keep" a third time, so if your
 # translations don't repeat anyway, the same string can be used cross-platform.
@@ -53,8 +53,8 @@ upgrade-dialog-pin-subtitle =
     }
 upgrade-dialog-pin-primary-button =
     { PLATFORM() ->
-        [macos] Mantener in le Bassino
-       *[other] Appunctar al barra del activitates
+        [macos] Mantener in le Dock
+       *[other] Fixar al barra de activitates
     }
 upgrade-dialog-pin-secondary-button = Non ora
 
