@@ -187,9 +187,18 @@ insecure-dialog-confirm-button = Berretsi
 
 ## Warning Exchange confirmation dialog
 
+exchange-dialog-confirm-button = Saio-hasiera
+exchange-dialog-cancel-button = Utzi
 
 ## Alert dialogs
 
+account-setup-creation-error-title = Errorea kontua sortzean
+account-setup-error-server-exists = Hartzeko zerbitzaria dagoeneko badago.
+account-setup-confirm-advanced-title = Konfigurazio aurreratua berretsi
+account-setup-confirm-advanced-description = Elkarrizketa koadro hau itxiko da eta kontua sortuko da oraingo ezarpenekin, akastun konfigurazioa bada ere. Aurrera jo nahi duzu?
 
 ## Addon installation section
 
+account-setup-addon-install-title = Instalatu
+account-setup-addon-install-intro = Hirugarren baten gehigarriak ahalbidetu diezazuke sarbidea zure posta elektronikoari zerbitzari honetan:
+account-setup-addon-no-protocol = Posta zerbitzariak zoritzarrez ez ditu onartzen protokolo irekiak. { account-setup-addon-install-intro }

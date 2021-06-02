@@ -21,6 +21,8 @@ connection-dialog-window =
             [macos] width: 44em !important
            *[other] width: 49em !important
         }
+connection-disable-extension =
+    .label = Desgaitu hedapena
 connection-proxy-legend = Konfiguratu Internet atzitzeko proxy-ak
 proxy-type-no =
     .label = Proxy-rik ez
