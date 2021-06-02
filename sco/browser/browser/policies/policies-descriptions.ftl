@@ -105,3 +105,14 @@ policy-Proxy = Confeegur proxy settins.
 policy-RequestedLocales = Set the list o requestit locales fur the application in order o preference.
 policy-SanitizeOnShutdown2 = Dicht flittin aboot data on shutdoon.
 policy-SearchBar = Set the staunart airtin o the sairch baur. The yaiser can aye mak it their ain.
+policy-SearchEngines = Confeegur airt-oot engine settins. This policy is available anely on the Extendit Support Release (ESR) version.
+policy-SearchSuggestEnabled = Enable or disable airt-oot suggestions.
+# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
+policy-SecurityDevices = Instaw PKCS #11 modules.
+policy-ShowHomeButton = Kythe the hame button on the toolbaur.
+policy-SSLVersionMax = Set the maximum SSL version.
+policy-SSLVersionMin = Set the meenimum SSL version.
+policy-SupportMenu = Eik a custom support menu item on tae the hauners menu.
+policy-UserMessaging = Dinnae kythe certain messages tae the yaiser.
+# “format” refers to the format used for the value of this policy.
+policy-WebsiteFilter = Block wabsites fae bein veesitit. See documentation fur mair details on the format.
