@@ -104,7 +104,7 @@ profiler-popup-settings =
     .value = Parametros
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Redaction de parametros...
-profiler-popup-disabled = Le profilator es actualmente disactivate, multo probabilemente perque un fenestra de navigation anonyme es aperte.
+profiler-popup-disabled = Le profilator es actualmente disactivate, multo probabilemente perque un fenestra de navigation private es aperte.
 profiler-popup-recording-screen = Registrante…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
