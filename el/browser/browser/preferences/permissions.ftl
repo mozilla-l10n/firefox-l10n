@@ -72,7 +72,7 @@ permissions-capabilities-listitem-off-temporarily =
 ## Invalid Hostname Dialog
 
 permissions-invalid-uri-title = Άκυρο όνομα συστήματος
-permissions-invalid-uri-label = Παρακαλώ εισάγετε ένα έγκυρο όνομα συστήματος
+permissions-invalid-uri-label = Παρακαλώ εισαγάγετε ένα έγκυρο όνομα υπολογιστή
 
 ## Exceptions - Tracking Protection
 
