@@ -45,7 +45,7 @@
 <!ENTITY insertMathCmd.accesskey "Μ">
 <!ENTITY insertCharsCmd.label "Χαρακτήρες και σύμβολα…">
 <!ENTITY insertCharsCmd.accesskey "Χ">
-<!ENTITY insertBreakAllCmd.label "Αλλαγή γραμμής κάτω από εικόνα(ες)">
+<!ENTITY insertBreakAllCmd.label "Αλλαγή γραμμής κάτω από εικόνες">
 <!ENTITY insertBreakAllCmd.accesskey "κ">
 
 <!-- Used just in context popup. -->
@@ -247,14 +247,14 @@
 <!ENTITY tableTable.label "Πίνακας">
 <!ENTITY tableTable.accesskey "Π">
 <!ENTITY tableRow.label "Γραμμή">
-<!ENTITY tableRows.label "Σειρά(ές)">
+<!ENTITY tableRows.label "Σειρές">
 <!ENTITY tableRow.accesskey "Γ">
 <!ENTITY tableRowAbove.label "Γραμμή πάνω">
 <!ENTITY tableRowAbove.accesskey "Γ">
 <!ENTITY tableRowBelow.label "Γραμμή κάτω">
 <!ENTITY tableRowBelow.accesskey "κ">
 <!ENTITY tableColumn.label "Στήλη">
-<!ENTITY tableColumns.label "Στήλη(ες)">
+<!ENTITY tableColumns.label "Στήλες">
 <!ENTITY tableColumn.accesskey "Σ">
 <!ENTITY tableColumnBefore.label "Στήλη πριν">
 <!ENTITY tableColumnBefore.accesskey "τ">

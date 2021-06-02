@@ -38,7 +38,7 @@
 <!ENTITY helpButton.label "Βοήθεια">
 <!ENTITY searchButton.label "Αναζήτηση">
 
-<!ENTITY authorButton.label "Δημιουργός(οί)">
+<!ENTITY authorButton.label "Δημιουργοί">
 <!ENTITY copyrightButton.label "Πνευματικά δικαιώματα">
 
 <!ENTITY bookmarkButton.label "Σελιδοδείκτες">

@@ -15,7 +15,7 @@
 <!ENTITY  selectall.accesskey    "ό">
 <!ENTITY  openHelpMac.key        "?">
 <!ENTITY  closeWindow.key        "w">
-<!ENTITY  copyLinks.label           "Αντιγραφή συνδέσμου(ων)">
+<!ENTITY  copyLinks.label           "Αντιγραφή συνδέσμων">
 <!ENTITY  copyLinks.accesskey       "σ">
 <!ENTITY  openInNewTab.label        "Άνοιγμα σε νέα καρτέλα">
 <!ENTITY  openInNewTab.accesskey    "κ">
