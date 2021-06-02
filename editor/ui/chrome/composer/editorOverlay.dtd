@@ -42,7 +42,7 @@
 <!ENTITY insertMathCmd.accesskey "Μ">
 <!ENTITY insertCharsCmd.label "Χαρακτήρες και σύμβολα…">
 <!ENTITY insertCharsCmd.accesskey "Χ">
-<!ENTITY insertBreakAllCmd.label "Αλλαγή γραμμής κάτω από εικόνα(ες)">
+<!ENTITY insertBreakAllCmd.label "Αλλαγή γραμμής κάτω από εικόνες">
 <!ENTITY insertBreakAllCmd.accesskey "κ">
 
 <!-- Used just in context popup. -->
@@ -161,7 +161,7 @@
 <!ENTITY heading6Cmd.accesskey "6">
 <!ENTITY paragraphAddressCmd.label "Διεύθυνση">
 <!ENTITY paragraphAddressCmd.accesskey "θ">
-<!ENTITY paragraphPreformatCmd.label "Προ-μορφοποίηση">
+<!ENTITY paragraphPreformatCmd.label "Προμορφοποίηση">
 <!ENTITY paragraphPreformatCmd.accesskey "ρ">
 
 <!-- List menu items -->
@@ -183,7 +183,7 @@
 <!ENTITY ParagraphSelect.title "Παράγραφος">
 <!ENTITY ParagraphSelect.tooltip "Επιλέξτε μια μορφή λίστας">
 <!-- Shared in Paragraph, and Toolbar menulist -->
-<!ENTITY bodyTextCmd.label "Κύριος μέρος κειμένου">
+<!ENTITY bodyTextCmd.label "Κύριο μέρος">
 <!ENTITY bodyTextCmd.accesskey "μ">
 <!-- isn't used in menu now, but may be added in future -->
 <!ENTITY advancedPropertiesCmd.label "Προηγμένες ιδιότητες">

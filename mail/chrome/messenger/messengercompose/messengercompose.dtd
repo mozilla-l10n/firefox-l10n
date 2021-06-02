@@ -256,7 +256,7 @@
 <!ENTITY attachmentBucketCloseButton.tooltip "Απόκρυψη του πίνακα συνημμένων">
 
 <!-- Format Toolbar, imported from editorAppShell.xhtml -->
-<!ENTITY SmileButton.tooltip "Εισαγωγή φατσούλας">
+<!ENTITY SmileButton.tooltip "Εισαγωγή emoji">
 <!ENTITY smiley1Cmd.label "Χαμόγελο">
 <!ENTITY smiley2Cmd.label "Κατσούφιασμα">
 <!ENTITY smiley3Cmd.label "Κλείσιμο ματιού">
