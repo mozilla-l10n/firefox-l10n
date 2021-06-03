@@ -19,8 +19,8 @@
 <!ENTITY  whichIs.label              "which is:">
 
 <!ENTITY  chooseHandlerMac.label      "Wale…">
-<!ENTITY  chooseHandlerMac.accesskey  "C">
+<!ENTITY  chooseHandlerMac.accesskey  "W">
 <!ENTITY  chooseHandler.label         "Stravaig…">
-<!ENTITY  chooseHandler.accesskey     "B">
+<!ENTITY  chooseHandler.accesskey     "S">
 
 <!ENTITY  unknownPromptText.label     "Wad ye like tae save this file?">

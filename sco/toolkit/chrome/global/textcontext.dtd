@@ -7,7 +7,7 @@
 <!ENTITY spellUndoAddToDictionary.label "Undae Eik On Tae Dictionary">
 <!ENTITY spellUndoAddToDictionary.accesskey "n">
 <!ENTITY spellCheckToggle.label "Check Spellin">
-<!ENTITY spellCheckToggle.accesskey "g">
+<!ENTITY spellCheckToggle.accesskey "n">
 <!ENTITY spellNoSuggestions.label "(Nae Spellin Suggestions)">
 <!ENTITY spellDictionaries.label "Leids">
 <!ENTITY spellDictionaries.accesskey "l">

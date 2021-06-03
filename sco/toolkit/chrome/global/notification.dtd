@@ -9,6 +9,6 @@
 <!ENTITY learnMoreNoEllipsis "Lairn mair">
 
 <!ENTITY defaultButton.label "Awricht!">
-<!ENTITY defaultButton.accesskey "O">
+<!ENTITY defaultButton.accesskey "A">
 
 <!ENTITY moreActionsButton.accessibleLabel "Mair actions">

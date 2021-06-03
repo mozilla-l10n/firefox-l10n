@@ -44,10 +44,10 @@ show-all-extensions-button =
     .label = Kythe aw extensions
 cmd-show-details =
     .label = Kythe Mair Information
-    .accesskey = S
+    .accesskey = K
 cmd-find-updates =
     .label = Airt-oot Updates
-    .accesskey = F
+    .accesskey = A
 cmd-preferences =
     .label =
         { PLATFORM() ->

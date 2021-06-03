@@ -39,7 +39,7 @@
 <!ENTITY cmd.restore2.label             "Restore">
 <!ENTITY cmd.restore2.accesskey         "R">
 <!ENTITY cmd.restoreFromFile.label      "Wale File…">
-<!ENTITY cmd.restoreFromFile.accesskey  "C">
+<!ENTITY cmd.restoreFromFile.accesskey  "W">
 
 <!ENTITY col.name.label          "Nemme">
 <!ENTITY col.tags.label          "Tags">
