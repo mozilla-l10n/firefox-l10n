@@ -302,3 +302,8 @@ cfr-whatsnew-bookmarking-body = Es más fácil realizar un seguimiento de tus si
 
 cfr-whatsnew-cross-site-tracking-header = Protección integral contra el rastreo de cookies entre sitios
 cfr-whatsnew-cross-site-tracking-body = Ahora puedes optar por una mejor protección contra el rastreo de cookies. { -brand-short-name } puedes aislar tus actividades y datos al sitio en el que te encuentras actualmente, así que la información almacenada en el navegador no se comparte entre sitios web.
+
+## Full Video Support CFR message
+
+cfr-doorhanger-video-support-primary-button = Actualizar ahora
+    .accesskey = A
