@@ -19,7 +19,7 @@ psmerr-ssl-disabled = Cannae connect siccarly acause the SSL protocol has been d
 psmerr-ssl2-disabled = Cannae connect siccarly acause the site yaises an aulder, unsiccar version o the SSL protocol.
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
-    Ye hae received a certificate that isnae valid. Please get in touch wi the server admeenistrator or email correspondent and gie them the follaein information:
+    Ye hae received a certificate that isnae suithfest. Please get in touch wi the server admeenistrator or email correspondent and gie them the follaein information:
     
     Yer certificate conteens the same serial nummer as anither certificate gied oot by the certificate authority. Please get yersel a new certificate conteenin a unique serial nummer.
 ssl-error-export-only-server = Unable tae communicate siccarly. Peer disnae support high-grade encryption.
@@ -114,7 +114,7 @@ ssl-error-session-not-found = Client’s SSL session ID no fund in server’s se
 ssl-error-decryption-failed-alert = Peer wisnae able tae decrypt an SSL record it received.
 ssl-error-record-overflow-alert = Peer received an SSL record that wis mair muckle nor allooed.
 ssl-error-unknown-ca-alert = Peer disnae recognise and trust the CA that gied oot yer certificate.
-ssl-error-access-denied-alert = Peer received a valid certificate, but ingang wis denied.
+ssl-error-access-denied-alert = Peer received a suithfest certificate, but ingang wis denied.
 ssl-error-decode-error-alert = Peer couldnae decode an SSL haunshake message.
 ssl-error-decrypt-error-alert = Peer reports that signature trystmakkin or key exchange gaed agley.
 ssl-error-export-restriction-alert = Peer reports negotiation no in compliance wi export regulations.
@@ -136,11 +136,11 @@ ssl-error-renegotiation-not-allowed = Renegotiation isnae allooed on this SSL so
 ssl-error-unsafe-negotiation = Peer ettlet at an auld style (mebbe shooglie) haunshake.
 ssl-error-rx-unexpected-uncompressed-record = SSL received an unexpectit uncompressit record.
 ssl-error-weak-server-ephemeral-dh-key = SSL received a stintit ephemeral Diffie-Hellman key in Server Key Exchange haunshake message.
-ssl-error-next-protocol-data-invalid = SSL received NPN extension data that isnae valid.
+ssl-error-next-protocol-data-invalid = SSL received NPN extension data that isnae suithfest.
 ssl-error-feature-not-supported-for-ssl2 = SSL featur no supportit fur SSL 2.0 connections.
 ssl-error-feature-not-supported-for-servers = SSL featur no supportit fur servers.
 ssl-error-feature-not-supported-for-clients = SSL featur no supportit fur clients.
-ssl-error-invalid-version-range = SSL version range isnae valid.
+ssl-error-invalid-version-range = SSL version range isnae suithfest.
 ssl-error-cipher-disallowed-for-version = SSL peer selectit a cipher suite that isnae allooed fur the selectit protocol version.
 ssl-error-rx-malformed-hello-verify-request = SSL received an ill-makkit Hello Verify Request haunshake message.
 ssl-error-rx-unexpected-hello-verify-request = SSL received an unexpectit Hello Verify Request haunshake message.
@@ -163,12 +163,12 @@ sec-error-library-failure = siccarness leebrar failure.
 sec-error-bad-data = siccarness leebrar: received bad data.
 sec-error-output-len = siccarness leebrar: ootpit length mishanter.
 sec-error-input-len = siccarness leebrar has unnergaen an inpit length mishanter.
-sec-error-invalid-args = siccarness leebrar: airguments no valid.
-sec-error-invalid-algorithm = siccarness leebrar: algorithm no valid.
-sec-error-invalid-ava = siccarness leebrar: AVA no valid.
+sec-error-invalid-args = siccarness leebrar: airguments no suithfest.
+sec-error-invalid-algorithm = siccarness leebrar: algorithm no suithfest.
+sec-error-invalid-ava = siccarness leebrar: AVA no suithfest.
 sec-error-invalid-time = Time string no formattit richt.
 sec-error-bad-der = siccarness leebrar: DER-encodit message no formattit richt.
-sec-error-bad-signature = Peer’s certificate has a signature that isnae valid.
+sec-error-bad-signature = Peer’s certificate has a signature that isnae suithfest.
 sec-error-expired-certificate = Peer’s Certificate has gaed oot o date.
 sec-error-revoked-certificate = Peer’s Certificate has been revokit.
 sec-error-unknown-issuer = Peer’s Certificate issuer isnae recognised.
