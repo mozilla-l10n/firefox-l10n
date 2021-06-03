@@ -46,6 +46,19 @@ upgrade-dialog-pin-secondary-button = Ahora no
 upgrade-dialog-default-title = ¿Hacer { -brand-short-name } tu navegador predeterminado?
 upgrade-dialog-default-subtitle = Obtén velocidad, seguridad y privacidad cada vez que navegas.
 upgrade-dialog-default-primary-button = Establecer como navegador predeterminado
+upgrade-dialog-default-secondary-button = Ahora no
 
 ## Theme selection screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-theme-title =
+    Empieza renovado
+    con un tema actualizado
+upgrade-dialog-theme-system = Tema del sistema
+    .title = Usar el tema del sistema operativo para botones, menùs y ventanas
+upgrade-dialog-theme-light = Claro
+    .title = Usar un tema claro para botones, menús y ventanas
+upgrade-dialog-theme-dark = Oscuro
+    .title = Usar un tema oscuro para botones, menús y ventanas
+upgrade-dialog-theme-alpenglow = Alpenglow
+    .title = Usar un tema dinámico y colorido para botones, menús y ventanas
