@@ -19,29 +19,15 @@ experimental-features-media-avif =
 experimental-features-media-avif-description = Con esta función activada, { -brand-short-name } soporta el formato de archivo de imagen AV1 (AVIF). Este es un formato de archivo de imagen fija que aprovecha las capacidades de los algoritmos de compresión de video AV1 para reducir el tamaño de la imagen. Consulta el <a data-l10n-name="bugzilla">bug 1443863</a> para obtener más detalles.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
+experimental-features-media-jxl =
+    .label = Medios: JPEG XL
+experimental-features-media-jxl-description = Con esta función activada, { -brand-short-name } admite el formato JPEG XL (JXL). Este es un formato de archivo de imagen mejorado que admite la transición sin perdida de archivos JPEG tradicionales. Consulta el <a data-l10n-name="bugzilla">bug 1539075</a> para obtener más detalles.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
     .label = Web API: inputmode
 # "inputmode" and "contenteditable" are technical terms and shouldn't be translated.
 experimental-features-web-api-inputmode-description = Nuestra implementación del atributo global <a data-l10n-name="mdn-inputmode">inputmode</a> se ha actualizado según <a data-l10n-name="whatwg">la especificación WHATWG</a>, pero todavía necesitamos hacer más cambios, como por ejemplo que quede disponible en contenidos contenteditable. Consulta el <a data-l10n-name="bugzilla">bug 1205133</a> para obtener más detalles.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-web-api-link-preload =
-    .label = Web API: <link rel="preload">
-# Do not translate "rel", "preload" or "link" here, as they are all HTML spec
-# values that do not get translated.
-experimental-features-web-api-link-preload-description = El atributo <a data-l10n-name="rel">rel</a> con valor <code>"preload"</code> en un elemento <a data-l10n-name="link">&lt;link&gt;</a> está destinado a ayudar a proveer mejoras de rendimiento al permitir descargar recursos de la página previamente, asegurando que estén disponibles antes y de esa forma reduciendo la posibilidad de que bloqueen el dibujo de la página. Lee <a data-l10n-name="readmore">“Precargando contenido con <code>rel="preload"</code>”</a> o consulta el <a data-l10n-name="bugzilla">bug 1583604</a> para obtener más detalles.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-css-focus-visible =
-    .label = CSS: Pseudo-class: :focus-visible
-experimental-features-css-focus-visible-description = Permite que los estilos de enfoque se apliquen a elementos como botones y controles de formularios, solo cuando se enfocan usando el teclado (por ejemplo, al cambiar de pestaña entre elementos), y no cuando se enfocan usando un ratón u otro dispositivo. Consulta el <a data-l10n-name="bugzilla">bug 1617600</a> para obtener más detalles.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-web-api-beforeinput =
-    .label = Web API: beforeinput Event
-# The terms "beforeinput", "input", "textarea", and "contenteditable" are technical terms
-# and shouldn't be translated.
-experimental-features-web-api-beforeinput-description = El evento global <a data-l10n-name="mdn-beforeinput">beforeinput</a> se activa en elementos <a data-l10n-name="mdn-input">&lt;input&gt;</a> y <a data-l10n-name="mdn-textarea">&lt;textarea&gt;</a>, o cualquier otro elemento cuyo atributo <a data-l10n-name="mdn-contenteditable">contenteditable</a> esté habilitado, inmediatamente antes de que cambie el valor del elemento. El evento permite que las aplicaciones web anulen el comportamiento predeterminado del navegador para la interacción del usuario permitiendo, por ejemplo, que las aplicaciones web puedan cancelar la entrada del usuario solo para caracteres específicos o puedan modificar el pegar texto con estilo permitiendo solo estilos aprobados.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
@@ -69,9 +55,6 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Las co
 experimental-features-abouthome-startup-cache =
     .label = caché de inicio de about:home
 experimental-features-abouthome-startup-cache-description = Caché para el documento inicial about:home que se carga de manera predeterminada al inicio. El propósito del caché es mejorar el rendimiento de inicio.
-experimental-features-print-preview-tab-modal =
-    .label = Rediseño de la vista previa de impresión
-experimental-features-print-preview-tab-modal-description = Presenta la vista previa de impresión rediseñada y hace que la vista previa de impresión esté disponible en macOS. Esto introduce fallos potenciales y no incluye todas las configuraciones relacionadas con la impresión. Para acceder a todos los ajustes relacionados con la impresión selecciona "Imprimir usando el cuadro de diálogo del sistema…" desde el panel de impresión.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
@@ -86,6 +69,10 @@ experimental-features-devtools-serviceworker-debugger-support-description = Habi
 experimental-features-webrtc-global-mute-toggles =
     .label = Alternar sonido WebRTC globalmente
 experimental-features-webrtc-global-mute-toggles-description = Agregar controles al indicador de intercambio global WebRTC que permita a los usuarios interrumpir globalmente la compartición de tu micrófono y cámara.
+# Win32k Lockdown
+experimental-features-win32k-lockdown =
+    .label = Bloqueo de Win32k
+experimental-features-win32k-lockdown-description = Desactivar el uso de las API de Win32k en las pestañas del navegador. Proporciona un aumento de la seguridad, pero actualmente puede ser inestable o presentar fallas. (Solo Windows)
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
@@ -101,3 +88,7 @@ experimental-features-multi-pip-description = Función experimental para permiti
 experimental-features-http3 =
     .label = Protocolo HTTP/3
 experimental-features-http3-description = Soporte experimental para el protocolo HTTP/3.
+# Search during IME
+experimental-features-ime-search =
+    .label = Barra de direcciones: mostrar los resultados durante la composición IME
+experimental-features-ime-search-description = Una IME (Input Method Editor) es una herramienta que te permite escribir símbolos complejos, como los que se usan en los idiomas escritos del Índico o Asia oriental, utilizando un teclado estándar. Activar este experimento mantendrá abierto el panel de la barra de direcciones, mostrando resultados de búsqueda y sugerencias, mientras se usa IME para escribir texto. Ten en cuenta que el IME puede mostrar un panel que cubre los resultados de la barra de direcciones, por lo que se recomienda el uso de esta preferencia solo si el IME no usa este tipo de panel.
