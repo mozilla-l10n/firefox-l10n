@@ -108,6 +108,7 @@ urlbar-tip-icon-description =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = Камтар чоп кунед, бештар ёбед: Рост аз навори нишонӣ тавассути { $engineName } ҷустуҷӯ кунед.
+urlbar-search-tips-redirect-2 = Барои дидани пешниҳодҳои ҷустуҷӯ аз { $engineName } ва таърихи тамошокунӣ, ҷустуҷӯи худро аз навори нишонӣ оғоз намоед.
 
 ## Local search mode indicator labels in the urlbar
 
@@ -175,8 +176,6 @@ page-action-send-tabs-urlbar =
             [1] Фиристодани варақа ба дастгоҳ
            *[other] Фиристодани { $tabCount } варақа ба дастгоҳ
         }
-page-action-pocket-panel =
-    .label = Нигоҳ доштани саҳифа ба { -pocket-brand-name }
 page-action-copy-url-panel =
     .label = Нусха бардоштани пайванд
 page-action-copy-url-urlbar =
@@ -572,8 +571,6 @@ crashed-subframe-submit =
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = Намоиш додани ҳамаи хатбаракҳо
 bookmarks-manage-bookmarks =
     .label = Идоракунии хатбаракҳо
 bookmarks-recent-bookmarks-panel-subheader = Хатбаракҳои охирин

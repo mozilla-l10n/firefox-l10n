@@ -236,3 +236,8 @@ cfr-whatsnew-bookmarking-header = Хатбаракгузории такмилё�
 
 ## What's new: Cross-site cookie tracking
 
+
+## Full Video Support CFR message
+
+cfr-doorhanger-video-support-primary-button = Ҳозир навсозӣ кунед
+    .accesskey = Ҳ
