@@ -57,11 +57,11 @@ import-permissions-page-title = Gonnae gie { -brand-short-name } permeesions?
 # Do not translate "Bookmarks.plist"; the file name is the same everywhere.
 import-permissions-description = macOS needs ye tae gie direct permeesion tae { -brand-short-name } fur tae hae ingang tae Safari’s buikmerks. Click “Continue” and wale the “Bookmarks.plist” file in the File Open panel that kythes itsel.
 import-migrating-page-title = Inbringin…
-import-migrating-description = Thir items are bein inbrocht the noo...
+import-migrating-description = The follaein items are bein inbrocht the noo…
 import-select-profile-page-title = Wale Profile
-import-select-profile-description = Thir profiles are redd tae inbring fae:
+import-select-profile-description = The follaein profiles are at haun tae inbring fae:
 import-done-page-title = Inbringin Feenisht
-import-done-description = Thir items were inbrocht wi nae problems:
+import-done-description = The follaein items were inbrocht wioot onie problem:
 import-close-source-browser = Gonnae mak siccar the wab-stravaiger ye've waled is sneckit afore haudin forrit.
 # Displays which browser the bookmarks are being imported from
 #
