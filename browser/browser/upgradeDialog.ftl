@@ -38,6 +38,24 @@ upgrade-dialog-new-primary-win7-button = ¡De acuerdo, entendido!
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-pin-title =
+    { PLATFORM() ->
+        [macos] Mantener { -brand-short-name } en tu Dock
+       *[other] Fijar { -brand-short-name } a la barra de tareas
+    }
+# The English macOS string avoids repeating "Keep" a third time, so if your
+# translations don't repeat anyway, the same string can be used cross-platform.
+upgrade-dialog-pin-subtitle =
+    { PLATFORM() ->
+        [macos] Obten acceso fácil a la última versión de { -brand-short-name }
+       *[other] Manten a tu alcance la última versión de { -brand-short-name }
+    }
+upgrade-dialog-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Mantener en el Dock
+       *[other] Fijar a la barra de tareas
+    }
 upgrade-dialog-pin-secondary-button = Ahora no
 
 ## Default browser screen
@@ -46,6 +64,8 @@ upgrade-dialog-pin-secondary-button = Ahora no
 upgrade-dialog-default-title = ¿Hacer { -brand-short-name } tu navegador predeterminado?
 upgrade-dialog-default-subtitle = Obtén velocidad, seguridad y privacidad cada vez que navegas.
 upgrade-dialog-default-primary-button = Establecer como navegador predeterminado
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title-2 = Hacer que { -brand-short-name } sea el predeterminado
 upgrade-dialog-default-secondary-button = Ahora no
 
 ## Theme selection screen
