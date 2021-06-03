@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+toolbar-context-menu-new-tab =
+    .label = Nueva pestaña
+    .accesskey = N
 toolbar-context-menu-reload-selected-tab =
     .label = Recargar pestaña seleccionada
     .accesskey = R
@@ -24,6 +27,14 @@ toolbar-context-menu-undo-close-tabs =
            *[other] Deshacer cerrar pestañas
         }
     .accesskey = U
+toolbar-context-menu-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Reabrir pestaña cerrada
+            [one] Reabrir pestaña cerrada
+           *[other] Reabrir pestañas cerradas
+        }
+    .accesskey = e
 toolbar-context-menu-manage-extension =
     .label = Gestionar extensión
     .accesskey = E
@@ -51,15 +62,6 @@ toolbar-context-menu-remove-from-toolbar =
 toolbar-context-menu-view-customize-toolbar =
     .label = Personalizar…
     .accesskey = P
-toolbar-context-menu-bookmarks-toolbar-always-show =
-    .label = Siempre
-    .accesskey = A
-toolbar-context-menu-bookmarks-toolbar-never-show =
-    .label = Nunca
-    .accesskey = N
-toolbar-context-menu-bookmarks-toolbar-on-new-tab =
-    .label = Solo en una pestaña nueva
-    .accesskey = O
 toolbar-context-menu-bookmarks-toolbar-always-show-2 =
     .label = Mostrar siempre
     .accesskey = A
