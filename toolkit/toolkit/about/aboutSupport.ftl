@@ -130,10 +130,12 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Argumentos
 safe-mode-title = Probar modo seguro
 restart-in-safe-mode-label = Reiniciar con Complementos Deshabilitados…
+troubleshoot-mode-title = Diagnosticar problemas
+restart-in-troubleshoot-mode-label = Modo de resolución de problemas…
 clear-startup-cache-title = Intentar limpiar la caché de inicio
 clear-startup-cache-label = Limpiar caché de inicio…
-startup-cache-dialog-title = Limpiar caché de inicio
-startup-cache-dialog-body = Reinicia { -brand-short-name } para limpiar la caché de inicio. Esto no cambiará tu configuración ni elimina las extensiones que has agregado a { -brand-short-name }.
+startup-cache-dialog-title2 = ¿Reiniciar { -brand-short-name } para limpiar la caché de inicio?
+startup-cache-dialog-body2 = Esto no cambiará tu configuración ni eliminará extensiones
 restart-button-label = Reiniciar
 
 ## Media titles
@@ -195,6 +197,10 @@ support-third-party-modules-thread = Hilo
 support-third-party-modules-base = Dirección de imagebase
 support-third-party-modules-uptime = Tiempo de actividad del proceso (ms)
 support-third-party-modules-duration = Duración de la carga (ms)
+support-third-party-modules-status = Estado
+support-third-party-modules-status-loaded = Cargado
+support-third-party-modules-status-blocked = Bloqueado
+support-third-party-modules-status-redirected = Redirigido
 support-third-party-modules-empty = No se han cargado módulos de terceros.
 support-third-party-modules-no-value = (Sin valor)
 support-third-party-modules-button-open =
@@ -331,6 +337,7 @@ can-sandbox-content = Entorno de prueba para procesar contenidos
 can-sandbox-media = Entorno de pruebas para extensiones de multimedia
 content-sandbox-level = Entorno de prueba para procesar contenidos
 effective-content-sandbox-level = Nivel efectivo del contenedor de proceso de contenido
+content-win32k-lockdown-state = Estado de bloqueo de Win32k para el proceso de contenido
 sandbox-proc-type-content = contenido
 sandbox-proc-type-file = contenido del archivo
 sandbox-proc-type-media-plugin = plugin de medios
@@ -399,3 +406,13 @@ support-printing-clear-settings-button = Eliminar los ajustes de impresión guar
 support-printing-modified-settings = Ajustes de impresión modificados
 support-printing-prefs-name = Nombre
 support-printing-prefs-value = Valor
+
+## Normandy sections
+
+support-remote-experiments-title = Experimentos remotos
+support-remote-experiments-name = Nombre
+support-remote-experiments-branch = Rama de experimentos
+support-remote-experiments-see-about-studies = Ver <a data-l10n-name="support-about-studies-link">about:studies</a> para más información, incluyendo como desactivar experimentos individuales o desactivar que { -brand-short-name } ejecute este tipo de experimento en el futuro.
+support-remote-features-title = Funciones remotas
+support-remote-features-name = Nombre
+support-remote-features-status = Estado
