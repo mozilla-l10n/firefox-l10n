@@ -211,6 +211,14 @@ cfr-doorhanger-milestone-heading =
     { $blockedCount ->
        *[other] ¡{ -brand-short-name } bloqueó más de <b>{ $blockedCount }</b> rastreadores desde { $date }!
     }
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Datetime) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading2 =
+    { $blockedCount ->
+        [one] { -brand-short-name } ha bloqueado más de <b>{ $blockedCount }</b> rastreador desde { DATETIME($date, month: "long", year: "numeric") }
+       *[other] { -brand-short-name } ha bloqueado más de <b>{ $blockedCount }</b> rastreadores desde { DATETIME($date, month: "long", year: "numeric") }
+    }
 cfr-doorhanger-milestone-ok-button = Ver todo
     .accesskey = V
 
@@ -305,5 +313,7 @@ cfr-whatsnew-cross-site-tracking-body = Ahora puedes optar por una mejor protecc
 
 ## Full Video Support CFR message
 
+cfr-doorhanger-video-support-body = Es posible que los videos de este sitio no se reproduzcan correctamente en esta versión de { -brand-short-name }. Para obtener compatibilidad completa de video, actualiza { -brand-short-name } ahora.
+cfr-doorhanger-video-support-header = Actualiza { -brand-short-name } para reproducir video
 cfr-doorhanger-video-support-primary-button = Actualizar ahora
     .accesskey = A
