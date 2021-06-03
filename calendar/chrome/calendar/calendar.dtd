@@ -368,7 +368,7 @@
 
 <!-- Calendar Publish Dialog -->
 <!ENTITY calendar.publish.dialog.title              "Δημοσίευση ημερολογίου">
-<!ENTITY calendar.publish.url.label                 "Δημοσίευση URL">
+<!ENTITY calendar.publish.url.label                 "URL δημοσίευσης">
 <!ENTITY calendar.publish.publish.button      "Δημοσίευση">
 <!ENTITY calendar.publish.close.button      "Κλείσιμο">
 
