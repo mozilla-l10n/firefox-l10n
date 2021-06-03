@@ -178,8 +178,6 @@ page-action-send-tabs-urlbar =
             [one] Ուղարկել ներդիրը սարքին
            *[other] Ուղարկել { $tabCount } ներդիրները սարքին
         }
-page-action-pocket-panel =
-    .label = Պահպանել էջը { -pocket-brand-name }-ում
 page-action-copy-url-panel =
     .label = Պատճենել հղումը
 page-action-copy-url-urlbar =
@@ -489,8 +487,6 @@ pointerlock-warning-no-domain = Այս փաստաթուղթը ղեկավարու
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = Ցուցադրել բոլոր էջանիշերը
 bookmarks-toolbar-chevron =
     .tooltiptext = Ցուցադրել ավելի շատ էջանիշեր
 bookmarks-sidebar-content =
@@ -565,6 +561,8 @@ eme-notifications-drm-content-playing = Այս կայքում որոշ ձայն�
 
 ## Password save/update panel
 
+panel-save-update-username = Օգտվողի անուն
+panel-save-update-password = Գաղտնաբառ
 
 ## Add-on removal warning
 
