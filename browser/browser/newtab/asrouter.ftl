@@ -188,8 +188,6 @@ cfr-doorhanger-cryptominers-description = حریم‌خصوصی شما اهمی�
 
 cfr-doorhanger-milestone-ok-button = نمایش همه
     .accesskey = ن
-cfr-doorhanger-milestone-close-button = بستن
-    .accesskey = C
 
 ## What’s New Panel Content for Firefox 76
 
@@ -209,6 +207,8 @@ cfr-whatsnew-pip-fullscreen-icon-alt = نقشک تصویر در تصویر
 
 ## Protections Dashboard message
 
+cfr-doorhanger-milestone-close-button = بستن
+    .accesskey = C
 
 ## What’s New Panel Content for Firefox 76
 ## Protections Dashboard message
@@ -226,8 +226,6 @@ cfr-whatsnew-better-pdf-body = اکنون سندهای PDF مستقیماً در
 ## DOH Message
 
 cfr-doorhanger-doh-header = جست‌وجوی DNS رمزنگاری‌شدهٔ امن‌تر
-cfr-doorhanger-doh-primary-button = حله، گرفتم
-    .accesskey = O
 cfr-doorhanger-doh-secondary-button = از کار انداختن
     .accesskey = D
 
@@ -255,3 +253,10 @@ cfr-doorhanger-fission-secondary-button = اطلاعات بیشتر
 
 ## What's new: Cross-site cookie tracking
 
+
+## Full Video Support CFR message
+
+cfr-doorhanger-video-support-body = ویدئوهای این سایت ممکن است در نسخهٔ فعلی { -brand-short-name } به درستی نمایش داده نشود. برای پشتیبانی ویدئویی کامل، { -brand-short-name } را هم‌اکنون بروزرسانی کنید.
+cfr-doorhanger-video-support-header = برای پخش ویدیو، { -brand-short-name } را بروز کنید
+cfr-doorhanger-video-support-primary-button = هم‌اکنون بروزرسانی شود
+    .accesskey = ه
