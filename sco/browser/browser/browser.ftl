@@ -597,7 +597,7 @@ fullscreen-exit-mac-button = Ootgang fae Hale Screen (esc)
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> has control o yer pynter. Press Esc fur tae tak control back.
-pointerlock-warning-no-domain = This document has control o yer pynter. Press Esc tae tak control back.
+pointerlock-warning-no-domain = This document has control o yer pynter. Press Esc fur tae tak back control.
 
 ## Subframe crash notification
 
