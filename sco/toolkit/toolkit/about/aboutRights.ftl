@@ -121,7 +121,7 @@ rights-webservices-term-6 =
 rights-webservices-term-7 =
     These terms are governed by the laws o the state o California, U.S.A.,
     excludin its conflict o law proveesions. Gin onie portion o these terms is
-    haudit tae be invalid or no enforceable, the remainin portions will stey in
+    haudit tae be no suithfest or no enforceable, the remainin portions will stey in
     full force and effect. In the event o a conflict atween an owerset
     version o these terms and the English leid version, the English
     leid version shall control.

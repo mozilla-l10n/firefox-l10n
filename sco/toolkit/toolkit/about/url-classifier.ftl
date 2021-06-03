@@ -5,6 +5,6 @@
 url-classifier-search-title = Sairch
 url-classifier-search-result-uri = URI: { $uri }
 url-classifier-search-input = URL
-url-classifier-search-error-invalid-url = No a valid URL
+url-classifier-search-error-invalid-url = No a suithfest URL
 url-classifier-cache-clear-btn = Dicht
 url-classifier-download-error = doonload mishanter ({ $error })
