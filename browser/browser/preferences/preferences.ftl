@@ -1144,6 +1144,8 @@ collection-backlogged-crash-reports =
     .label = Permitir que { -brand-short-name } envíe los informes de fallos pendientes en tu nombre
     .accesskey = c
 collection-backlogged-crash-reports-link = Saber más
+collection-backlogged-crash-reports-with-link = Permitir que { -brand-short-name } envié informes de fallos acumulados en tu nombre. <a data-l10n-name="crash-reports-link">Aprender más</a>
+    .accesskey = c
 
 ## Privacy Section - Security
 ##
@@ -1205,6 +1207,11 @@ space-alert-under-5gb-ok-button =
     .label = Perfecto, entendido
     .accesskey = K
 space-alert-under-5gb-message = { -brand-short-name } se está quedando sin espacio en el disco. Tal vez los contenidos web no se muestren correctamente. Visita "Aprende más" para optimizar el utilizo del disco y mejorar la navegación.
+space-alert-over-5gb-settings-button =
+    .label = Abrir ajustes
+    .accesskey = A
+space-alert-over-5gb-message2 = <strong>{ -brand-short-name } se está quedando sin espacio en disco. </strong> Los contenidos del sitio web pueden no mostrarse correctamente. Puede limpiar los datos de sitios guardados en Ajustes > Privacidad y Seguridad > Cookies y datos del sitio.
+space-alert-under-5gb-message2 = <strong>{ -brand-short-name } se está quedando sin espacio en disco. </strong> los contenidos de los sitios web no pueden mostrarse correctamente. Visita “Saber más” para optimizar el uso del disco para una mejor experiencia de navegación.
 
 ## Privacy Section - HTTPS-Only
 
