@@ -8,7 +8,7 @@
 <!ENTITY serverDirectory.accesskey "γ">
 <!ENTITY usingSubscription.label "Εμφάνιση μόνο εγγεγραμμένων φακέλων">
 <!ENTITY usingSubscription.accesskey "λ">
-<!ENTITY dualUseFolders.label "Ο διακομιστής υποστηρίζει φακέλους που περιέχουν υποφακέλους και μηνύματα">
+<!ENTITY dualUseFolders.label "Ο διακομιστής υποστηρίζει φακέλους με υποφακέλους και μηνύματα">
 <!ENTITY dualUseFolders.accesskey "σ">
 <!ENTITY maximumConnectionsNumber.label "Μέγιστος αριθμός συνδέσεων διακομιστή στην κρυφή μνήμη">
 <!ENTITY maximumConnectionsNumber.accesskey "Μ">

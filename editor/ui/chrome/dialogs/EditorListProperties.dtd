@@ -10,7 +10,7 @@
 <!ENTITY bulletStyle.label "Μορφή κουκκίδων:">
 <!ENTITY startingNumber.label "Έναρξη από:">
 <!ENTITY startingNumber.accessKey "ξ">
-<!ENTITY none.value "Κανένα">
+<!ENTITY none.value "Τίποτα">
 <!ENTITY bulletList.value "Λίστα με κουκκίδες (Μη αριθμημένη)">
 <!ENTITY numberList.value "Αριθμημένη λίστα">
 <!ENTITY definitionList.value "Λίστα ορισμών">
