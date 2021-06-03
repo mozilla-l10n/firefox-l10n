@@ -16,6 +16,7 @@ options-select-dev-tools-theme-label = Themes
 
 ## "Default Color Unit" options for the Inspector
 
+options-default-color-unit-name = Colour Nemmes
 
 ## Style Editor section
 
@@ -26,6 +27,7 @@ options-select-dev-tools-theme-label = Themes
 ## Editor section
 
 options-sourceeditor-tabsize-label = Tab size
+options-sourceeditor-keybinding-default-label = Staunart
 
 ## Advanced section
 
