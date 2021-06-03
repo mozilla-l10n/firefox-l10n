@@ -18,6 +18,19 @@ upgrade-dialog-new-alt-subtitle = Empieza por poner <span data-l10n-name="zap">{
 upgrade-dialog-new-item-menu-title = Barra de herramientas y menús optimizados
 upgrade-dialog-new-item-menu-description = Prioriza las cosas importantes para que encuentres lo que necesitas.
 upgrade-dialog-new-item-tabs-title = Pestañas modernas
+upgrade-dialog-new-item-tabs-description = Contiene la información de manera ordenada, apoyando el enfoque y el movimiento flexible.
+upgrade-dialog-new-item-icons-title = Iconos nuevos y mensajes más claros
+upgrade-dialog-new-item-icons-description = Te ayuda a encontrar tu camino con un toque más ligero.
+upgrade-dialog-new-primary-primary-button = Establecer { -brand-short-name } como mi navegador principal
+    .title = Establece { -brand-short-name } como el navegador predeterminado y lo fija en la barra de tareas
+upgrade-dialog-new-primary-default-button = Establecer { -brand-short-name } como mi navegador predeterminado
+upgrade-dialog-new-primary-pin-button = Fijar { -brand-short-name } a mi barra de tareas
+upgrade-dialog-new-primary-pin-alt-button = Fijar a la barra de tareas
+upgrade-dialog-new-primary-theme-button = Elige un tema
+upgrade-dialog-new-secondary-button = Ahora no
+# This string is only shown on Windows 7, where we intentionally suppress the
+# theme selection screen.
+upgrade-dialog-new-primary-win7-button = ¡De acuerdo, entendido!
 
 ## Pin Firefox screen
 ##
@@ -25,6 +38,7 @@ upgrade-dialog-new-item-tabs-title = Pestañas modernas
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
+upgrade-dialog-pin-secondary-button = Ahora no
 
 ## Default browser screen
 
