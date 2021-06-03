@@ -42,6 +42,10 @@ upgrade-dialog-pin-secondary-button = Ahora no
 
 ## Default browser screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title = ¿Hacer { -brand-short-name } tu navegador predeterminado?
+upgrade-dialog-default-subtitle = Obtén velocidad, seguridad y privacidad cada vez que navegas.
+upgrade-dialog-default-primary-button = Establecer como navegador predeterminado
 
 ## Theme selection screen
 
