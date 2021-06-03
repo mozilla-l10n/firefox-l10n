@@ -268,9 +268,9 @@ openpgp-copy-cmd-label =
 #   $identity (String) - the email address of the currently selected identity
 openpgp-description =
     { $count ->
-        [0] Το Thunderbird δεν έχει ένα προσωπικό κλειδί OpenPGP για <b>{ $identity }</b>
-        [one] Το Thunderbird βρήκε { $count } προσωπικό κλειδί OpenPGP που είναι συσχετισμένο με <b>{ $identity }</b>
-       *[other] Το Thunderbird βρήκε { $count } προσωπικά κλειδιά OpenPGP που είναι συσχετισμένα με <b>{ $identity }</b>
+        [0] Το Thunderbird δεν έχει προσωπικό κλειδί OpenPGP για το <b>{ $identity }</b>
+        [one] Το Thunderbird βρήκε { $count } προσωπικό κλειδί OpenPGP που σχετίζεται με το <b>{ $identity }</b>
+       *[other] Το Thunderbird βρήκε { $count } προσωπικά κλειδιά OpenPGP που σχετίζονται με το <b>{ $identity }</b>
     }
 #   $count (Number) - the number of configured keys associated with the current identity
 #   $key (String) - the currently selected OpenPGP key
