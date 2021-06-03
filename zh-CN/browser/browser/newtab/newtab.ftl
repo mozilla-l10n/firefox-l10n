@@ -39,7 +39,6 @@ newtab-search-box-search-the-web-input =
     .placeholder = 在网络上搜索
     .title = 在网络上搜索
     .aria-label = 在网络上搜索
-newtab-search-box-text = 在网上搜索
 newtab-search-box-input =
     .placeholder = 在网上搜索
     .aria-label = 在网上搜索
@@ -126,7 +125,7 @@ newtab-privacy-modal-link = 了解新标签页如何保障您的隐私
 ##
 
 # Bookmark is a noun in this case, "Remove bookmark".
-newtab-menu-remove-bookmark = 移除书签
+newtab-menu-remove-bookmark = 删除书签
 # Bookmark is a verb here.
 newtab-menu-bookmark = 添加书签
 

@@ -5,10 +5,10 @@
 places-open =
     .label = 打开
     .accesskey = O
-places-open-in-tab =
+places-open-tab =
     .label = 新建标签页打开
     .accesskey = w
-places-open-tab =
+places-open-in-tab =
     .label = 新建标签页打开
     .accesskey = w
 places-open-all-bookmarks =
@@ -20,13 +20,7 @@ places-open-all-in-tabs =
 places-open-window =
     .label = 新建窗口打开
     .accesskey = N
-places-open-in-window =
-    .label = 新建窗口打开
-    .accesskey = N
 places-open-private-window =
-    .label = 新建隐私窗口打开
-    .accesskey = P
-places-open-in-private-window =
     .label = 新建隐私窗口打开
     .accesskey = P
 places-new-bookmark =
@@ -41,6 +35,12 @@ places-new-folder =
 places-new-separator =
     .label = 新建分隔条
     .accesskey = S
+places-open-in-window =
+    .label = 新建窗口打开
+    .accesskey = N
+places-open-in-private-window =
+    .label = 新建隐私窗口打开
+    .accesskey = P
 places-add-bookmark =
     .label = 新建书签…
     .accesskey = B
@@ -97,8 +97,8 @@ places-edit-folder =
 places-remove-folder =
     .label =
         { $count ->
-            [1] 移除文件夹
-           *[other] 移除文件夹
+            [1] 删除文件夹
+           *[other] 删除文件夹
         }
     .accesskey = m
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
@@ -115,8 +115,8 @@ other-bookmarks-folder =
 places-remove-bookmark =
     .label =
         { $count ->
-            [1] 移除书签
-           *[other] 移除 { $count } 个书签
+            [1] 删除书签
+           *[other] 删除 { $count } 个书签
         }
     .accesskey = e
 places-manage-bookmarks =
