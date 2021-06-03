@@ -6,4 +6,4 @@ add-on-options-button =
     .title = Možnosti doplnku
 atn-addons-heading-search-input =
     .placeholder = Hľadať na stránke addons.thunderbird.net
-sidebar-preferences-button-title = Nastavenia { -brand-short-name(case: "gen") }
+sidebar-preferences-button-title = Nastavenia aplikácie { -brand-short-name }

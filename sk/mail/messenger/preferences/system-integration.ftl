@@ -34,5 +34,5 @@ system-search-integration-label =
     .label = Umožniť službe { system-search-engine-name } prehľadávať správy
     .accesskey = U
 check-on-startup-label =
-    .label = Pri štarte { -brand-short-name(case: "gen") } vždy vykonať túto kontrolu
+    .label = Pri štarte { -brand-short-name }u vždy vykonať túto kontrolu
     .accesskey = a
