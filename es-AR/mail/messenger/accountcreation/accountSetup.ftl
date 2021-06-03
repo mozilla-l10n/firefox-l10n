@@ -20,7 +20,6 @@ account-setup-name-input =
     .placeholder = Juan Pérez
 account-setup-name-info-icon =
     .title = Su nombre, como se mostrará al resto
-account-setup-name-warning = Ingrese su nombre
 account-setup-name-warning-icon =
     .title = { account-setup-name-warning }
 account-setup-email-label = Dirección de correo electrónico
@@ -29,7 +28,6 @@ account-setup-email-input =
     .placeholder = juan.perez@example.com
 account-setup-email-info-icon =
     .title = Dirección de correo electrónico existente
-account-setup-email-warning = Dirección de correo electrónico no válida
 account-setup-email-warning-icon =
     .title = { account-setup-email-warning }
 account-setup-password-label = Contraseña
@@ -122,6 +120,15 @@ account-setup-incoming-title = Entrante
 account-setup-outgoing-title = Saliente
 account-setup-username-title = Nombre de usuario
 account-setup-exchange-title = Servidor
+account-setup-result-smtp = SMTP
+account-setup-result-no-encryption = Sin cifrar
+account-setup-result-ssl = SSL/TLS
+account-setup-result-starttls = STARTTLS
+account-setup-result-outgoing-existing = Usar el servidor saliente SMTP existente
+# Variables:
+#  $incoming (String): The email/username used to log into the incoming server
+#  $outgoing (String): The email/username used to log into the outgoing server
+account-setup-result-username-different = Entrante: { $incoming }, saliente: { $outgoing }
 
 ## Error messages
 
@@ -131,32 +138,58 @@ account-setup-credentials-wrong = Falló la autenticación. Verifique el nombre 
 account-setup-find-settings-failed = { -brand-short-name } no pudo encontrar la configuración de la cuenta de correo electrónico
 account-setup-exchange-config-unverifiable = No se pudo verificar la configuración. Si su nombre de usuario y contraseña son correctos, es probable que el administrador del servidor haya deshabilitado la configuración seleccionada para su cuenta. Intente seleccionar otro protocolo.
 
-## Manual config area
+## Manual configuration area
 
 account-setup-manual-config-title = Configuración del servidor
-account-setup-incoming-protocol-label = Protocolo entrante
+account-setup-incoming-server-legend = Servidor entrante
+account-setup-protocol-label = Protocolo:
 protocol-imap-option = { account-setup-result-imap }
 protocol-pop-option = { account-setup-result-pop }
-account-setup-outgoing-protocol-label = Protocolo saliente
-outgoing-protocol = SMTP
-account-setup-incoming-server-label = Servidor entrante
-account-setup-outgoing-server-label = Servidor saliente
-account-setup-incoming-port-label = Puerto entrante
-account-setup-outoing-port-label = Puerto saliente
-account-setup-incoming-ssl-label = SSL entrante
-account-setup-outgoing-ssl-label = SSL saliente
+protocol-exchange-option = { account-setup-result-exchange }
+account-setup-hostname-label = Host
+account-setup-port-label = Puerto:
+    .title = Establecer el número del puerto en 0 para la detección automática
+account-setup-auto-description = { -brand-short-name } intentará detectar automáticamente los campos que se dejan en blanco.
+account-setup-ssl-label = Seguridad de la conexión:
+account-setup-outgoing-server-legend = Servidor saliente
+
+## Incoming/Outgoing SSL Authentication options
+
 ssl-autodetect-option = Autodetectar
+ssl-no-authentication-option = Sin autenticación
+ssl-cleartext-password-option = Contraseña normal
+ssl-encrypted-password-option = Contraseña cifrada
+
+## Incoming/Outgoing SSL options
+
 ssl-noencryption-option = Ninguno
-ssl-starttls-option = STARTTLS
-ssl-tls-option = SSL/TLS
-account-setup-incoming-auth-label = Autenticación entrante
-account-setup-outgoing-auth-label = Autenticación saliente
-account-setup-incoming-username-label = Nombre de usuario entrante
-account-setup-outgoing-username-label = Nombre de usuario saliente
+account-setup-auth-label = Método de autenticación:
+account-setup-username-label = Nombre de usuario:
 account-setup-advanced-setup-button = Configuración avanzada
     .accesskey = a
 
-## Warning insecure server
+## Warning insecure server dialog
 
+account-setup-insecure-title = ¡Advertencia!
+account-setup-insecure-incoming-title = Configuración entrante:
+account-setup-insecure-outgoing-title = Configuración saliente:
+# Variables:
+#  $server (String): The name of the hostname of the server the user was trying to connect to.
+account-setup-warning-cleartext = <b>{ $server }</b> no usa cifrado.
+account-setup-warning-cleartext-details = Los servidores de correo inseguros no usan conexiones cifradas para proteger sus contraseñas e información privada. Al conectarse a este servidor podría estar exponiendo sus contraseñas e información privada.
 account-setup-insecure-server-checkbox = Entiendo los riesgos
     .accesskey = i
+account-setup-insecure-description = { -brand-short-name } puede permitirle acceder a su correo utilizando las configuraciones proporcionadas. Sin embargo, debe comunicarse con su administrador o proveedor de correo electrónico con respecto a estas conexiones incorrectas. Consulte las <a data-l10n-name="thunderbird-faq-link"> preguntas frecuentes sobre Thunderbird </a> para obtener más información.
+insecure-dialog-cancel-button = Cambiar la configuración
+    .accesskey = S
+insecure-dialog-confirm-button = Confirmar
+    .accesskey = C
+
+## Warning Exchange confirmation dialog
+
+
+## Alert dialogs
+
+
+## Addon installation section
+
