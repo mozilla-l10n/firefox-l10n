@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Page title
+about-performance-title = Task Manager
 
 ## Column headers
 
@@ -16,6 +18,7 @@ column-type = Type
 type-tab = Tab
 type-addon = Eik-on
 type-browser = Stravaiger
+type-worker = Wirker
 type-other = Ither
 
 ## Values for the Energy Impact column
@@ -36,3 +39,5 @@ size-GB = { $value } GB
 
 ## Tooltips for the action buttons
 
+close-tab =
+    .title = Sneck tab

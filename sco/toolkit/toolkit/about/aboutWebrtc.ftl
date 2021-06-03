@@ -12,6 +12,10 @@
 
 ##
 
+# "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
+# an abbreviation for Identifier. This string should not normally be translated
+# and is used as a data label.
+about-webrtc-peerconnection-id-label = PeerConnection ID:
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
@@ -35,6 +39,9 @@ about-webrtc-sdp-heading = SDP
 
 ##
 
+# This adjective is used to label a table column. Cells in this column contain
+# the localized javascript string representation of "true" or are left blank.
+about-webrtc-nominated = Nominatit
 about-webrtc-stats-clear = Dicht Historie
 about-webrtc-log-clear = Dicht Log
 
