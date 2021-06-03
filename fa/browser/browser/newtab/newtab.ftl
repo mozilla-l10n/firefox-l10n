@@ -11,6 +11,8 @@ newtab-settings-button =
 newtab-personalize-button-label = شخصی‌سازی
     .title = شحصی‌سازی زبانهٔ جدید
     .aria-label = شحصی‌سازی زبانهٔ جدید
+newtab-personalize-dialog-label =
+    .aria-label = شخصی‌سازی
 
 ## Search box component.
 
@@ -37,7 +39,6 @@ newtab-search-box-search-the-web-input =
     .placeholder = جست‌وجوی وب
     .title = جست‌وجوی وب
     .aria-label = جست‌وجوی وب
-newtab-search-box-text = جست‌وجو در وب
 newtab-search-box-input =
     .placeholder = جست‌وجو در وب
     .aria-label = جست‌وجو در وب
