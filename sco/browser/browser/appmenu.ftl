@@ -26,7 +26,7 @@ appmenuitem-passwords =
 appmenuitem-addons-and-themes =
     .label = Eik-ons and Themes
 appmenuitem-find-in-page =
-    .label = Airt-oot in Page...
+    .label = Airt-oot in Page…
 appmenuitem-more-tools =
     .label = Mair Tools
 appmenuitem-exit2 =
@@ -103,9 +103,9 @@ profiler-popup-learn-more = Lairn mair
 profiler-popup-settings =
     .value = Settins
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
-profiler-popup-edit-settings = Edit Settins...
+profiler-popup-edit-settings = Edit Settins…
 profiler-popup-disabled = The profile is disabled the noo, maist like acause o a Preevat Stravaigin windae bein open.
-profiler-popup-recording-screen = Recordin...
+profiler-popup-recording-screen = Recordin…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
 profiler-popup-presets-custom =
@@ -167,7 +167,7 @@ appmenu-help-exit-troubleshoot-mode =
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
 appmenu-help-report-deceptive-site =
-    .label = Report Begowkin Site...
+    .label = Report Begowkin Site…
     .accesskey = B
 appmenu-help-not-deceptive =
     .label = This Isnae a Begowkin Site…

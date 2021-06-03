@@ -13,7 +13,7 @@ about-config-intro-warning-button = Accept the Risk and Gang On
 ##
 
 # This is shown on the page before searching but after the warning is accepted.
-about-config-caution-text = Chyngin these preferences can affect { -brand-short-name } performance or siccarness.
+about-config-caution-text = Chyngin these preferences can effect { -brand-short-name } performance or siccarness.
 about-config-page-title = Advanced Preferences
 about-config-search-input1 =
     .placeholder = Airt-oot preference nemme

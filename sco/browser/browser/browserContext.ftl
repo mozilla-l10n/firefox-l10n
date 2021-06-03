@@ -13,7 +13,7 @@ navbar-tooltip-instruction =
 
 main-context-menu-back =
     .tooltiptext = Gang back ane page
-    .aria-label = Back
+    .aria-label = Gang back
     .accesskey = B
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
@@ -23,8 +23,8 @@ toolbar-button-back =
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
     .tooltiptext = Gang back ane page ({ $shortcut })
-    .aria-label = Back
-    .accesskey = B
+    .aria-label = Gang back
+    .accesskey = a
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
     .label = Gang back
