@@ -498,7 +498,7 @@ urlbar-placeholder-search-mode-other-bookmarks =
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .placeholder = Inpit airt-oot terms
-    .aria-label = Sairch historie
+    .aria-label = Airt-oot historie
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Inpit airt-oot terms

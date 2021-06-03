@@ -13,7 +13,7 @@ appmenuitem-update-banner3 =
     .label-update-restart = Update redd — restert noo
 appmenuitem-protection-dashboard-title = Bieldins Dashbuird
 appmenuitem-customize-mode =
-    .label = Mak yer ain...
+    .label = Mak yer ain…
 
 ## Zoom Controls
 

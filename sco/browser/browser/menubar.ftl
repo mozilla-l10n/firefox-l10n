@@ -121,7 +121,7 @@ menu-edit-find-again =
     .accesskey = c
 menu-edit-bidi-switch-text-direction =
     .label = Turn Roond Text Direction
-    .accesskey = w
+    .accesskey = R
 
 ## View Menu
 
@@ -135,7 +135,7 @@ menu-view-customize-toolbar =
     .label = Mak yer ain…
     .accesskey = M
 menu-view-customize-toolbar2 =
-    .label = Mak Toolbaur Yer Ain...
+    .label = Mak Toolbaur Yer Ain…
     .accesskey = Y
 menu-view-sidebar =
     .label = Sidebaur
