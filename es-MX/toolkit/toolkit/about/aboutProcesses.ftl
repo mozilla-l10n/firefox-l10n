@@ -52,6 +52,43 @@ about-processes-unknown-process-name = Otro ({ $type }, proceso { $pid })
 #   $pid (String) The process id of this process, assigned by the OS.
 about-processes-process-name = Proceso{ $pid }: { $name }
 
+## Process names
+## Variables:
+##    $pid (String) The process id of this process, assigned by the OS.
+
+about-processes-browser-process = { -brand-short-name } ({ $pid })
+about-processes-web-process = Proceso Web Compartido ({ $pid })
+about-processes-file-process = Archivos ({ $pid })
+about-processes-extension-process = Extensiones ({ $pid })
+about-processes-privilegedabout-process = Páginas "about:" ({ $pid })
+about-processes-plugin-process = Complementos ({ $pid })
+about-processes-privilegedmozilla-process = Sitios { -vendor-short-name } ({ $pid })
+about-processes-gmp-plugin-process = Complementos de medios Gecko ({ $pid })
+about-processes-gpu-process = GPU ({ $pid })
+about-processes-vr-process = VR ({ $pid })
+about-processes-rdd-process = Decodificador de datos ({ $pid })
+about-processes-socket-process = Red ({ $pid })
+about-processes-remote-sandbox-broker-process = Agente de Espacio Aislado Remoto ({ $pid })
+about-processes-fork-server-process = Servidor de bifurcación ({ $pid })
+about-processes-preallocated-process = Preasignado ({ $pid })
+# Unknown process names
+# Variables:
+#    $pid (String) The process id of this process, assigned by the OS.
+#    $type (String) The raw type for this process.
+about-processes-unknown-process = Otro: { $type } ({ $pid })
+
+## Isolated process names
+## Variables:
+##    $pid (String) The process id of this process, assigned by the OS.
+##    $origin (String) The domain name for this process.
+
+about-processes-web-isolated-process = { $origin } ({ $pid })
+about-processes-web-large-allocation-process = { $origin } ({ $pid }, grande)
+about-processes-with-coop-coep-process = { $origin } ({ $pid }, origen cruzado aislado)
+about-processes-web-isolated-process-private = { $origin } — Privado ({ $pid })
+about-processes-web-large-allocation-process-private = { $origin } — Privado ({ $pid }, grande)
+about-processes-with-coop-coep-process-private = { $origin } — Privado ({ $pid }, origen cruzado aislado)
+
 ## Details within processes
 
 # Single-line summary of threads
