@@ -16,7 +16,7 @@ cfr-doorhanger-extension-sumo-link =
 cfr-doorhanger-extension-cancel-button = No Jist Noo
     .accesskey = N
 cfr-doorhanger-extension-ok-button = Eik On Noo
-    .accesskey = A
+    .accesskey = E
 cfr-doorhanger-pintab-ok-button = Peen This Tab
     .accesskey = P
 cfr-doorhanger-extension-manage-settings-button = Manage Recommendation Settins
@@ -190,7 +190,7 @@ cfr-doorhanger-firefox-send-ok-button = Try { -send-brand-name }
 ## Social Tracking Protection
 
 cfr-doorhanger-socialtracking-ok-button = See Bieldins
-    .accesskey = P
+    .accesskey = B
 cfr-doorhanger-socialtracking-close-button = Sneck
     .accesskey = C
 cfr-doorhanger-socialtracking-dont-show-again = Dinnae kythe messages like this oniemair
@@ -265,7 +265,7 @@ cfr-whatsnew-better-pdf-body = PDF documents noo open straicht intae { -brand-sh
 cfr-doorhanger-doh-body = Yer preevacy maitters. { -brand-short-name } noo, whenivver it can, sends yer DNS speirins siccar tae a pertner service fur tae bield ye while ye stravaige.
 cfr-doorhanger-doh-header = Mair siccar, encryptit DNS luik-ups
 cfr-doorhanger-doh-primary-button-2 = Awricht
-    .accesskey = O
+    .accesskey = A
 cfr-doorhanger-doh-secondary-button = Disable
     .accesskey = D
 

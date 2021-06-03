@@ -141,7 +141,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY logins.label                           "Logins and Passwirds">
 
 <!ENTITY overflowCustomizeToolbar.label       "Mak Toolbaur Yer Ain…">
-<!ENTITY overflowCustomizeToolbar.accesskey   "C">
+<!ENTITY overflowCustomizeToolbar.accesskey   "M">
 
 <!ENTITY historyMenu.label "Historie">
 <!ENTITY historyUndoMenu.label "Recently Sneckit Tabs">
@@ -234,7 +234,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY sidebarCloseButton.tooltip     "Sneck sidebaur">
 
 <!ENTITY quitApplicationCmdWin2.label       "Ootgang">
-<!ENTITY quitApplicationCmdWin2.accesskey   "x">
+<!ENTITY quitApplicationCmdWin2.accesskey   "g">
 <!ENTITY quitApplicationCmdWin2.tooltip     "Ootgang fae &brandShorterName;">
 <!ENTITY quitApplicationCmd.label       "Quit">
 <!ENTITY quitApplicationCmd.accesskey   "Q">
