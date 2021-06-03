@@ -311,3 +311,10 @@ cfr-whatsnew-bookmarking-body = Sledovanie obľúbených webov je jednoduchšie.
 
 cfr-whatsnew-cross-site-tracking-header = Komplexná ochrana pred sledovaním pomocou cookies tretích strán
 cfr-whatsnew-cross-site-tracking-body = Teraz sa môžete využiť lepšiu ochranu pred sledovaním pomocou súborov cookies. { -brand-short-name } dokáže izolovať vaše aktivity a údaje od webu, na ktorom sa momentálne nachádzate, takže informácie uložené v prehliadači sa medzi webmi nezdieľajú.
+
+## Full Video Support CFR message
+
+cfr-doorhanger-video-support-body = Videá na tejto stránke sa v tejto verzii { -brand-short-name(case: "gen") } nemusia prehrávať správne. Ak chcete získať úplnú podporu videa, aktualizujte prehliadač { -brand-short-name } na novšiu verziu.
+cfr-doorhanger-video-support-header = Ak chcete prehrať video, aktualizujte { -brand-short-name } na novšiu verziu
+cfr-doorhanger-video-support-primary-button = Aktualizovať teraz
+    .accesskey = A
