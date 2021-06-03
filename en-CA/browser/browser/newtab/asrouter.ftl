@@ -220,8 +220,6 @@ cfr-doorhanger-milestone-heading2 =
     }
 cfr-doorhanger-milestone-ok-button = See All
     .accesskey = S
-cfr-doorhanger-milestone-close-button = Close
-    .accesskey = C
 
 ## What’s New Panel Content for Firefox 76
 
@@ -246,6 +244,8 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Picture-in-picture icon
 
 ## Protections Dashboard message
 
+cfr-doorhanger-milestone-close-button = Close
+    .accesskey = C
 
 ## What’s New Panel Content for Firefox 76
 ## Protections Dashboard message
@@ -264,8 +264,6 @@ cfr-whatsnew-better-pdf-body = PDF documents now open directly in { -brand-short
 
 cfr-doorhanger-doh-body = Your privacy matters. { -brand-short-name } now securely routes your DNS requests whenever possible to a partner service to protect you while you browse.
 cfr-doorhanger-doh-header = More secure, encrypted DNS lookups
-cfr-doorhanger-doh-primary-button = OK, Got it
-    .accesskey = O
 cfr-doorhanger-doh-primary-button-2 = Okay
     .accesskey = O
 cfr-doorhanger-doh-secondary-button = Disable
@@ -311,3 +309,10 @@ cfr-whatsnew-bookmarking-body = It’s easier to keep track of your favourite si
 
 cfr-whatsnew-cross-site-tracking-header = Comprehensive protection from cross-site cookie tracking
 cfr-whatsnew-cross-site-tracking-body = You can now opt in to better protection from cookie tracking. { -brand-short-name } can isolate your activities and data to the site you’re currently on so information stored in the browser isn’t shared between websites.
+
+## Full Video Support CFR message
+
+cfr-doorhanger-video-support-body = Videos on this site may not play correctly on this version of { -brand-short-name }. For full video support, update { -brand-short-name } now.
+cfr-doorhanger-video-support-header = Update { -brand-short-name } to play video
+cfr-doorhanger-video-support-primary-button = Update Now
+    .accesskey = U
