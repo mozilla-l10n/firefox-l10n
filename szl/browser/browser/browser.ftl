@@ -183,8 +183,6 @@ page-action-send-tabs-urlbar =
             [few] Poślij { $tabCount } katy na maszina
            *[many] Poślij { $tabCount } kart na maszina
         }
-page-action-pocket-panel =
-    .label = Spamiyntej strōna w usudze { -pocket-brand-name }
 page-action-copy-url-panel =
     .label = Kopiuj link
 page-action-copy-url-urlbar =
@@ -375,7 +373,7 @@ browser-window-close-button =
 ## Tab actions
 
 # This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-playing2 = PUSZCZANIE
+browser-tab-audio-playing2 = GRO
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-muted2 = BEZ KLANGU
 # This label should be written in all capital letters if your locale supports them.
@@ -595,8 +593,6 @@ crashed-subframe-submit =
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = Pokoż wszyskie zokłodki
 bookmarks-manage-bookmarks =
     .label = Regiyruj zokłodkami
 bookmarks-recent-bookmarks-panel-subheader = Niydowne zokłodki
