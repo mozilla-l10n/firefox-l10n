@@ -101,7 +101,7 @@ detail-private-disallowed-description2 = This extension disnae rin while preevat
 detail-private-required-label = Needs Ingang tae Preevat Windaes
 detail-private-required-description2 = This extension has ingang tae your online ongauns while preevat stravaigin. <a data-l10n-name="learn-more">Lairn mair</a>
 detail-private-browsing-on =
-    .label = Allow
+    .label = Alloo
     .tooltiptext = Enable in Preevat Stravaigin
 detail-private-browsing-off =
     .label = Dinnae Alloo

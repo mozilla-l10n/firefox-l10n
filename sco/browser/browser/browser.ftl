@@ -181,8 +181,6 @@ page-action-send-tabs-urlbar =
             [1] Send Tab tae Device
            *[other] Send { $tabCount } Tabs tae Device
         }
-page-action-pocket-panel =
-    .label = Save Page tae { -pocket-brand-name }
 page-action-copy-url-panel =
     .label = Copy Link
 page-action-copy-url-urlbar =
@@ -229,7 +227,7 @@ search-one-offs-with-title = This time, sairch wi:
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
-    .label = Chynge Sairch Settings
+    .label = Chynge Sairch Settins
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Chynge sairch settins
 search-one-offs-context-open-new-tab =
@@ -612,8 +610,6 @@ crashed-subframe-submit =
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = Kythe Aw Buikmerks
 bookmarks-manage-bookmarks =
     .label = Manage Buikmerks
 bookmarks-recent-bookmarks-panel-subheader = Recent Buikmerks

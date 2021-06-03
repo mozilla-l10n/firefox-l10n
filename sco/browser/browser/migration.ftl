@@ -47,7 +47,7 @@ import-from-firefox =
     .label = Firefox
     .accesskey = x
 import-from-360se =
-    .label = 360 Secure Browser
+    .label = 360 Siccar Stravaiger
     .accesskey = 3
 no-migration-sources = Nae programs that hae buikmerks, historie or passwird data could be airtit oot.
 import-source-page-title = Inbring Settins and Data
@@ -78,7 +78,7 @@ source-name-chrome-beta = Google Chrome Beta
 source-name-chrome-dev = Google Chrome Dev
 source-name-chromium = Chromium
 source-name-firefox = Mozilla Firefox
-source-name-360se = 360 Secure Browser
+source-name-360se = 360 Siccar Stravaiger
 imported-safari-reading-list = Readin List (Fae Safari)
 imported-edge-reading-list = Readin List (Fae Edge)
 

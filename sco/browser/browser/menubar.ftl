@@ -22,7 +22,7 @@ menu-application-hide-other =
 menu-application-show-all =
     .label = Kythe Aw
 menu-application-touch-bar =
-    .label = Mak Touch Baur Yer Ain...
+    .label = Mak Touch Baur Yer Ain…
 
 ##
 
@@ -132,7 +132,7 @@ menu-view-toolbars-menu =
     .label = Toolbaurs
     .accesskey = T
 menu-view-customize-toolbar =
-    .label = Mak yer ain...
+    .label = Mak yer ain…
     .accesskey = C
 menu-view-customize-toolbar2 =
     .label = Mak Toolbaur Yer Ain...
@@ -204,7 +204,7 @@ menu-history =
 menu-history-show-all-history =
     .label = Kythe Aw Historie
 menu-history-clear-recent-history =
-    .label = Dicht Recent Historie...
+    .label = Dicht Recent Historie…
 menu-history-synced-tabs =
     .label = Synced Tabs
 menu-history-restore-last-session =
@@ -254,15 +254,15 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Sign In Tae { -brand-product-name }…
     .accesskey = g
+menu-tools-turn-on-sync =
+    .label = Turn on { -sync-brand-short-name }…
+    .accesskey = n
 menu-tools-addons-and-themes =
     .label = Eik-ons and Themes
     .accesskey = A
 menu-tools-fxa-sign-in2 =
     .label = Sign In
     .accesskey = g
-menu-tools-turn-on-sync =
-    .label = Turn on { -sync-brand-short-name }…
-    .accesskey = n
 menu-tools-turn-on-sync2 =
     .label = Turn on Sync…
     .accesskey = n
@@ -287,13 +287,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Page Info
     .accesskey = I
-menu-settings =
-    .label = Settins
-    .accesskey =
-        { PLATFORM() ->
-            [windows] S
-           *[other] n
-        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -303,6 +296,13 @@ menu-preferences =
     .accesskey =
         { PLATFORM() ->
             [windows] O
+           *[other] n
+        }
+menu-settings =
+    .label = Settins
+    .accesskey =
+        { PLATFORM() ->
+            [windows] S
            *[other] n
         }
 menu-tools-layout-debugger =

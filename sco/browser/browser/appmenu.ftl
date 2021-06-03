@@ -5,12 +5,6 @@
 
 ## App Menu
 
-appmenuitem-update-banner2 =
-    .label-update-downloading = Doonloadin { -brand-shorter-name } update
-    .label-update-available = Update redd — doonload noo
-    .label-update-manual = Update redd — doonload noo
-    .label-update-unsupported = No able tae update
-    .label-update-restart = Update redd — restert noo
 appmenuitem-update-banner3 =
     .label-update-downloading = Doonloadin { -brand-shorter-name } update
     .label-update-available = Update redd — doonload noo
@@ -35,14 +29,6 @@ appmenuitem-find-in-page =
     .label = Airt-oot in Page...
 appmenuitem-more-tools =
     .label = Mair Tools
-appmenuitem-exit =
-    .label = Ootgang
-appmenu-menu-button-closed =
-    .tooltiptext = Open Application Menu
-    .label = { -brand-shorter-name }
-appmenu-menu-button-opened =
-    .tooltiptext = Sneck Application Menu
-    .label = { -brand-shorter-name }
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
@@ -79,16 +65,12 @@ appmenu-remote-tabs-turn-on-sync =
     .label = Turn on Sync…
 appmenuitem-fxa-toolbar-sync-now2 = Sync Noo
 appmenuitem-fxa-manage-account = Manage Accoont
-appmenu-fxa-header =
-    .title = { -fxaccount-brand-name }
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
 appmenu-fxa-last-sync = Last synced { $time }
     .label = Last synced { $time }
-appmenu-fxa-sync-and-save-data =
-    .value = Sync and Save Data
 appmenu-fxa-sync-and-save-data2 = Sync and save data
 appmenu-fxa-signed-in-label = Sign In
 appmenu-fxa-setup-sync =
@@ -194,7 +176,7 @@ appmenu-help-not-deceptive =
 ## More Tools
 
 appmenu-customizetoolbar =
-    .label = Mak Toolbaur Yer Ain...
+    .label = Mak Toolbaur Yer Ain…
 appmenu-taskmanager =
     .label = Task Manager
 appmenu-developer-tools-subheader = Wab-Stravaiger Tools

@@ -243,7 +243,7 @@ preferences-zoom-text-only =
 language-header = Leid
 choose-language-description = Wale yer preferred leid for kythin pages
 choose-button =
-    .label = Wale...
+    .label = Wale…
     .accesskey = W
 choose-browser-language-description = Wale the leids yaised tae kythe menus, messages, and notifications fae { -brand-short-name }.
 manage-browser-languages-button =
@@ -914,7 +914,7 @@ history-clear-on-close-settings =
     .label = Settins…
     .accesskey = t
 history-clear-button =
-    .label = Dicht Historie...
+    .label = Dicht Historie…
     .accesskey = s
 
 ## Privacy Section - Site Data

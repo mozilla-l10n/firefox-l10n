@@ -62,7 +62,7 @@ rights-safebrowsing =
 rights-safebrowsing-term-1 = Open the application preferences
 rights-safebrowsing-term-2 = Wale the Siccarness walin
 rights-safebrowsing-term-3 = Untick the option tae “{ enableSafeBrowsing-label }”
-enableSafeBrowsing-label = Block hairmfu and begowkin content
+enableSafeBrowsing-label = Block uncannie and begowkin content
 rights-safebrowsing-term-4 = Sauf Stravaigin is noo disabled
 rights-locationawarebrowsing =
     <strong>Airtin Aware Stravaigin: </strong>is ayeways opt-in. Nae airtin
