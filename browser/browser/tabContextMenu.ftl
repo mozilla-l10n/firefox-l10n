@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+tab-context-new-tab =
+    .label = Nueva pestaña
+    .accesskey = t
 reload-tab =
     .label = Recargar pestaña
     .accesskey = R
@@ -14,6 +17,13 @@ duplicate-tab =
 duplicate-tabs =
     .label = Duplicar Pestañas
     .accesskey = D
+# The following string is displayed on a menuitem that will close the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
+close-tabs-to-the-start =
+    .label = Cerrar pestañas a la izquierda
+    .accesskey = l
+# The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = Cerrar pestañas a la derecha
     .accesskey = d
@@ -44,6 +54,9 @@ bookmark-tab =
 reopen-in-container =
     .label = Reabrir en Contenedor
     .accesskey = e
+tab-context-open-in-new-container-tab =
+    .label = Abrir en nueva pestaña contenedora
+    .accesskey = e
 move-to-start =
     .label = Mover al inicio
     .accesskey = S
@@ -56,10 +69,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Cerrar varias pestañas
     .accesskey = M
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->
@@ -79,6 +88,23 @@ move-tabs =
 move-tab =
     .label = Mover pestaña
     .accesskey = v
+tab-context-share-url =
+    .label = Compartir
+    .accesskey = h
+tab-context-share-more =
+    .label = Más…
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
+tab-context-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Reabrir pestaña cerrada
+            [one] Reabrir pestaña cerrada
+           *[other] Reabrir pestañas cerradas
+        }
+    .accesskey = p
 tab-context-close-tabs =
     .label =
         { $tabCount ->
