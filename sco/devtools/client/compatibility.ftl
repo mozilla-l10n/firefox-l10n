@@ -5,6 +5,7 @@
 
 ## Messages used as headers in the main pane
 
+compatibility-all-elements-header = Aw Issues
 
 ## Message used as labels for the type of issue
 
