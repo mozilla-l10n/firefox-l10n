@@ -217,8 +217,6 @@ cfr-whatsnew-better-pdf-body = Agora los documentos PDF ábrense direutamente en
 
 cfr-doorhanger-doh-body = La privacidá ye importante. Agora { -brand-short-name } empobina de mou seguru les tos solicitúes DNS, siempres que seya posible, a un serviciu asociáu pa protexete mentanto restoles.
 cfr-doorhanger-doh-header = Busques DNS más segures y cifraes
-cfr-doorhanger-doh-primary-button = D'acuerdu, entendílo
-    .accesskey = D
 cfr-doorhanger-doh-primary-button-2 = D'acuerdu
     .accesskey = D
 cfr-doorhanger-doh-secondary-button = Desactivar
@@ -253,3 +251,9 @@ cfr-whatsnew-bookmarking-header = Marcadores ameyoraos
 
 ## What's new: Cross-site cookie tracking
 
+
+## Full Video Support CFR message
+
+cfr-doorhanger-video-support-header = Anueva { -brand-short-name } pa reproducir el videu
+cfr-doorhanger-video-support-primary-button = Anovar
+    .accesskey = A
