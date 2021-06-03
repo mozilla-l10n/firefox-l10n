@@ -39,7 +39,6 @@ newtab-search-box-search-the-web-input =
     .placeholder = 웹 검색
     .title = 웹 검색
     .aria-label = 웹 검색
-newtab-search-box-text = 웹 검색
 newtab-search-box-input =
     .placeholder = 웹 검색
     .aria-label = 웹 검색
@@ -148,7 +147,7 @@ newtab-menu-remove-download = 기록에서 삭제
 newtab-menu-show-file =
     { PLATFORM() ->
         [macos] Finder에서 보기
-       *[other] 저장 폴더 열기
+       *[other] 상위 폴더 열기
     }
 newtab-menu-open-file = 파일 열기
 
