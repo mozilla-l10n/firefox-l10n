@@ -35,7 +35,7 @@
 <!ENTITY importFrom360se.label          "360 Siccar Stravaiger">
 <!ENTITY importFrom360se.accesskey      "3">
 
-<!ENTITY noMigrationSources.label       "Nae programs that contain buikmerks, historie or passwird data could be airtit oot.">
+<!ENTITY noMigrationSources.label       "Nae programs that hae buikmerks, historie or passwird data could be airtit oot.">
 
 <!ENTITY importSource.title             "Inbring Settins and Data">
 <!ENTITY importItems.title              "Items tae Inbring">

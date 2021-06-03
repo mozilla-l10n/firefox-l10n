@@ -52,7 +52,7 @@ chooser-dialog-remember-extra =
         [windows] This can be chynged in { -brand-short-name }’s options.
        *[other] This can be chynged in { -brand-short-name }’s preferences.
     }
-choose-other-app-description = Wale ither Application
+choose-other-app-description = Wale anither Application
 choose-app-btn =
     .label = Wale…
     .accessKey = W
