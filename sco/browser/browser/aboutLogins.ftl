@@ -29,7 +29,7 @@ menu =
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Inbring fae Anither Wab-Stravaiger
 about-logins-menu-menuitem-import-from-a-file = Inbring fae a File...
-about-logins-menu-menuitem-export-logins = Export Logins…
+about-logins-menu-menuitem-export-logins = Ootgie Logins…
 about-logins-menu-menuitem-remove-all-logins = Rid Aw Logins...
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -136,10 +136,10 @@ about-logins-copy-password-os-auth-dialog-message-macosx = copy the saved passwi
 
 master-password-notification-message = Gonnae inpit yer maister passwird fur tae see saved logins & passwirds
 # This message can be seen when attempting to export a password in about:logins on Windows.
-about-logins-export-password-os-auth-dialog-message-win = Fur tae export yer logins, inpit yer Windows login parteeculars. This helps bield the siccarness o yer accoonts.
+about-logins-export-password-os-auth-dialog-message-win = Fur tae ootgie yer logins, inpit yer Windows login parteeculars. This helps bield the siccarness o yer accoonts.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-export-password-os-auth-dialog-message-macosx = export saved logins and passwirds
+about-logins-export-password-os-auth-dialog-message-macosx = ootgie saved logins and passwirds
 
 ## Primary Password notification
 
@@ -208,9 +208,9 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [one] This will remuive the login ye've saved tae { -brand-short-name } on aw devices synced tae yer { -fxaccount-brand-name }. Forby, this will remuive breach alerts that kythe here. Ye'll no be able tae undae this action.
        *[other] This will remuive aw logins ye've saved tae { -brand-short-name } on aw devices synced tae yer { -fxaccount-brand-name }. Forby, this will remuive breach alerts that kythe here. Ye'll no be able tae undae this action.
     }
-about-logins-confirm-export-dialog-title = Export logins and passwirds
+about-logins-confirm-export-dialog-title = Ootgie logins and passwirds
 about-logins-confirm-export-dialog-message = Yer passwirds will be saved as readable text (e.g., BadP@ssw1rd) sae that oniebodie whae can open the exportit file can see them.
-about-logins-confirm-export-dialog-confirm-button = Export…
+about-logins-confirm-export-dialog-confirm-button = Ootgie…
 about-logins-alert-import-title = Inbringin Feenisht
 about-logins-alert-import-message = Luik at detailed Inbringin Summary
 confirm-discard-changes-dialog-title = Discaird unsaved chynges?
@@ -249,11 +249,11 @@ about-logins-error-message-default = A mishanter tuik place while ettlin fur tae
 ## Login Export Dialog
 
 # Title of the file picker dialog
-about-logins-export-file-picker-title = Export Logins File
+about-logins-export-file-picker-title = Ootgie Logins File
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = logins.csv
-about-logins-export-file-picker-export-button = Export
+about-logins-export-file-picker-export-button = Ootgie
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 about-logins-export-file-picker-csv-filter-title =
@@ -315,7 +315,7 @@ about-logins-import-dialog-error-unable-to-read-title = No Able tae Parse File
 about-logins-import-dialog-error-unable-to-read-description = Mak shair ye selectit a CSV or TSV file.
 about-logins-import-dialog-error-no-logins-imported = Nae logins hae been inbrocht
 about-logins-import-dialog-error-learn-more = Lairn mair
-about-logins-import-dialog-error-try-import-again = Try Inbringin Aince Mair...
+about-logins-import-dialog-error-try-import-again = Try Inbringin Aince Mair…
 about-logins-import-dialog-error-cancel = Stap
 about-logins-import-report-title = Inbringin Summary
 about-logins-import-report-description = Logins and passwirds inbrocht tae { -brand-short-name }.

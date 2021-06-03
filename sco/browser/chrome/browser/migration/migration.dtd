@@ -16,7 +16,7 @@
 <!ENTITY importFromEdgeLegacy.accesskey "L">
 <!ENTITY importFromEdgeBeta.label       "Microsoft Edge Beta">
 <!ENTITY importFromEdgeBeta.accesskey   "d">
-<!ENTITY importFromNothing.label        "Dinnae inbring oniehin">
+<!ENTITY importFromNothing.label        "Dinnae inbring oniethin">
 <!ENTITY importFromNothing.accesskey    "D">
 <!ENTITY importFromSafari.label         "Safari">
 <!ENTITY importFromSafari.accesskey     "S">
@@ -47,7 +47,7 @@
 <!ENTITY selectProfile.title            "Wale Profile">
 <!ENTITY selectProfile.label            "The follaein profiles are at haun tae inbring fae:">
 
-<!ENTITY done.title                     "Inbring Feenisht">
+<!ENTITY done.title                     "Inbringin Feenisht">
 <!ENTITY done.label                     "The follaein items were inbrocht wioot onie problem:">
 
 <!ENTITY closeSourceBrowser.label       "Gonnae mak siccar the selectit stravaiger is sneckit afore gangin on.">
