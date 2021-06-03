@@ -20,4 +20,4 @@ default-browser-prompt-title-alt = Mak { -brand-short-name } yer staunart wab-st
 default-browser-prompt-message-alt = Get speed, siccarness and preevacy onie time ye stravaig.
 default-browser-prompt-button-primary-alt = Set as staunart wab-stravaiger
 default-browser-prompt-checkbox-not-again-label = Dinnae kythe this message again
-default-browser-prompt-button-secondary = No Jist Noo
+default-browser-prompt-button-secondary = No jist noo

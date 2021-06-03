@@ -35,7 +35,7 @@
 <!ENTITY importFrom360se.label          "360 Siccar Stravaiger">
 <!ENTITY importFrom360se.accesskey      "3">
 
-<!ENTITY noMigrationSources.label       "Nae programs that contain buikmerks, historie or passwird data could be fund.">
+<!ENTITY noMigrationSources.label       "Nae programs that contain buikmerks, historie or passwird data could be airtit oot.">
 
 <!ENTITY importSource.title             "Inbring Settins and Data">
 <!ENTITY importItems.title              "Items tae Inbring">
@@ -50,4 +50,4 @@
 <!ENTITY done.title                     "Inbringin Feenisht">
 <!ENTITY done.label                     "The follaein items were inbrocht wioot onie problem:">
 
-<!ENTITY closeSourceBrowser.label       "Gonnae mak siccar the selectit stravaiger is sneckit afore gangin on.">
+<!ENTITY closeSourceBrowser.label       "Gonnae mak siccar the wab-stravaiger ye've waled is sneckit afore haudin forrit.">

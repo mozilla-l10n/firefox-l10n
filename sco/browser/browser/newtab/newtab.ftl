@@ -39,7 +39,6 @@ newtab-search-box-search-the-web-input =
     .placeholder = Sairch the Wab
     .title = Sairch the Wab
     .aria-label = Sairch the Wab
-newtab-search-box-text = Sairch the wab
 newtab-search-box-input =
     .placeholder = Sairch the wab
     .aria-label = Sairch the wab
@@ -214,7 +213,7 @@ newtab-empty-section-topstories = Ye're aw caught up. Check back efter fur mair 
 newtab-discovery-empty-section-topstories-header = Ye're aw caught up!
 newtab-discovery-empty-section-topstories-content = Check back efter for mair stories.
 newtab-discovery-empty-section-topstories-try-again-button = Try Aince Mair
-newtab-discovery-empty-section-topstories-loading = Loadin...
+newtab-discovery-empty-section-topstories-loading = Loadin…
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Och! We'd nearly loadit this section, but it didnae quite happen.
 

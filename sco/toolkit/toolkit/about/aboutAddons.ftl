@@ -403,7 +403,7 @@ addon-badge-verified2 =
 
 available-updates-heading = Updates Redd
 recent-updates-heading = Recent Updates
-release-notes-loading = Loadin...
+release-notes-loading = Loadin…
 release-notes-error = Awfie sorry, but there wis a mishanter loadin the roll-oot notes.
 addon-permissions-empty = This extension disnae need onie permeesions
 addon-permissions-required = Permeesions needit fur core functions:

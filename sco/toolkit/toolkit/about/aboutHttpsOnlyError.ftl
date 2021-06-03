@@ -20,7 +20,7 @@ about-httpsonly-explanation-risk = It could be as weel that an ondinger is invol
 about-httpsonly-explanation-continue = Gin ye haud forrit, HTTPS-Anely Mode will be turnt aff for this site jist for the noo.
 about-httpsonly-button-continue-to-site = Haud Forrit tae HTTP Site
 about-httpsonly-button-go-back = Gang Back
-about-httpsonly-link-learn-more = Lairn Mair...
+about-httpsonly-link-learn-more = Lairn Mair…
 
 ## Suggestion Box that only shows up if a secure connection to www can be established
 ## Variables:

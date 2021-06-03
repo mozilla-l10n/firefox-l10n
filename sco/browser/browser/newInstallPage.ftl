@@ -7,7 +7,7 @@
 ### Firefox" and "version" is used to mean "the specific revision number of a
 ### given Firefox channel". These terms are not synonymous.
 
-title = Important News
+title = Muckle News
 heading = Chynges tae yer { -brand-short-name } profile
 changed-title = Whit's chynged?
 changed-desc-profiles = This instawment o { -brand-short-name } has a new profile. A profile is the set o files whaur Firefox saves information sic as buikmerks, passwirds, and yaiser preferences.

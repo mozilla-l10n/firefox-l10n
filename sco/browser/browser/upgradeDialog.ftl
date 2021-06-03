@@ -68,7 +68,7 @@ upgrade-dialog-default-primary-button = Set as staunart wab-stravaiger
 upgrade-dialog-default-title-2 = Mak { -brand-short-name } yer staunart
 upgrade-dialog-default-subtitle-2 = Pit speed, siccarness, and preevacy on autopilot.
 upgrade-dialog-default-primary-button-2 = Mak staunart wab-stravaiger
-upgrade-dialog-default-secondary-button = No Jist Noo
+upgrade-dialog-default-secondary-button = No jist noo
 
 ## Theme selection screen
 

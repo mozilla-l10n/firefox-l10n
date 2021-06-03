@@ -145,7 +145,7 @@ return-to-amo-sub-header = Smashin, ye've got { -brand-short-name }
 return-to-amo-addon-header = Noo lat's fix ye up wi <icon></icon><b>{ $addon-name }.</b>
 return-to-amo-extension-button = Eik On the Extension
 return-to-amo-get-started-button = Get Stertit wi { -brand-short-name }
-onboarding-not-now-button-label = No Jist Noo
+onboarding-not-now-button-label = No jist noo
 
 ## Custom Return To AMO onboarding strings
 
@@ -323,7 +323,7 @@ mr1-onboarding-import-primary-button-label-attribution = Inbring fae { $previous
 mr1-onboarding-import-primary-button-label-no-attribution = Inbring fae previous wab-stravaiger
 mr1-onboarding-import-secondary-button-label = No jist noo
 mr1-onboarding-theme-header = Mak it yer ain
-mr1-onboarding-theme-subtitle = Personalise { -brand-short-name } wi a theme
+mr1-onboarding-theme-subtitle = Personalise { -brand-short-name } wi a theme.
 mr1-onboarding-theme-primary-button-label = Save theme
 mr1-onboarding-theme-secondary-button-label = No jist noo
 # System theme uses operating system color settings
