@@ -18,7 +18,7 @@ update-applying = Թարմացման կիրառում...
 update-failed = Թարմացումը չհաջողվեց:<label data-l10n-name="failed-link">Ներբեռնել վերջին տարբերակը</label>
 update-failed-main = Թարմացումը չհաջողվեց:<a data-l10n-name="failed-link-main">Ներբեռնել վերջին տարբերակը</a>
 update-adminDisabled = Թարմացումներն անջատված են ձեր ցանացային ադմինիստրատորի կողմից:
-update-noUpdatesFound = { -brand-short-name }-ը թարմ է
+update-noUpdatesFound = { -brand-short-name }-ն արդիական է
 update-otherInstanceHandlingUpdates = { -brand-short-name }-ը թարմացվել է այլ օրինակի կողմից
 update-manual = Թարմացումները հասանելի են՝ <label data-l10n-name="manual-link"/>
 update-unsupported = Չեք կարող կատարել հետագա թարմացումներ այս համակարգում:<label data-l10n-name="unsupported-link">Իմանալ ավելին</label>
