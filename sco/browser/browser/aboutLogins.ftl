@@ -161,7 +161,7 @@ enable-password-sync-preferences-button =
             [windows] Gang tae { -sync-brand-short-name } Options
            *[other] Gang tae { -sync-brand-short-name } Preferences
         }
-    .accesskey = V
+    .accesskey = G
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = Dinnae speir me again
     .accesskey = D

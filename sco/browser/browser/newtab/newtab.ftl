@@ -67,7 +67,7 @@ newtab-topsites-cancel-button = Stap
 newtab-topsites-delete-history-button = Dicht fae Historie
 newtab-topsites-save-button = Save
 newtab-topsites-preview-button = Preview
-newtab-topsites-add-button = Eik On
+newtab-topsites-add-button = Eik on
 
 ## Top Sites - Delete history confirmation dialog.
 

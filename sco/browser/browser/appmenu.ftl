@@ -151,7 +151,7 @@ appmenu-help-report-site-issue =
     .label = Report Site Issue…
 appmenu-help-feedback-page =
     .label = Gie Feedback…
-    .accesskey = S
+    .accesskey = G
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -168,10 +168,10 @@ appmenu-help-exit-troubleshoot-mode =
 
 appmenu-help-report-deceptive-site =
     .label = Report Begowkin Site...
-    .accesskey = D
+    .accesskey = B
 appmenu-help-not-deceptive =
     .label = This Isnae a Begowkin Site…
-    .accesskey = D
+    .accesskey = B
 
 ## More Tools
 

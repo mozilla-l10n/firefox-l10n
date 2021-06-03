@@ -235,10 +235,10 @@ search-one-offs-context-open-new-tab =
     .accesskey = T
 search-one-offs-context-set-as-default =
     .label = Set as Staunart Airt-oot Engine
-    .accesskey = D
+    .accesskey = S
 search-one-offs-context-set-as-default-private =
     .label = Set as Staunart Airt-oot Engine fur Preevat Windaes
-    .accesskey = P
+    .accesskey = S
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
@@ -278,7 +278,7 @@ bookmarks-add-bookmark = Eik on buikmerk
 bookmarks-edit-bookmark = Edit buikmerk
 bookmark-panel-cancel =
     .label = Stap
-    .accesskey = C
+    .accesskey = S
 # Variables:
 #  $count (number): number of bookmarks that will be removed
 bookmark-panel-remove =
@@ -440,7 +440,7 @@ popup-select-microphone-icon =
 popup-all-windows-shared = Aw veesible windaes on yer screen will be shared.
 popup-screen-sharing-not-now =
     .label = No Jist Noo
-    .accesskey = w
+    .accesskey = o
 popup-screen-sharing-never =
     .label = Nivver Alloo
     .accesskey = N
@@ -606,7 +606,7 @@ crashed-subframe-learnmore-link =
     .value = Lairn mair
 crashed-subframe-submit =
     .label = Inpit report
-    .accesskey = S
+    .accesskey = I
 
 ## Bookmarks panels, menus and toolbar
 

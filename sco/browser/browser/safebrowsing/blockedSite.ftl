@@ -30,4 +30,4 @@ safeb-blocked-harmful-page-error-desc-no-override = <span data-l10n-name='sitena
 safeb-blocked-harmful-page-learn-more = Lairn mair aboot { -brand-short-name }’s Phishin and Malware Bieldin at <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 safeb-palm-notdeceptive =
     .label = This isnae a begowkin site…
-    .accesskey = d
+    .accesskey = b

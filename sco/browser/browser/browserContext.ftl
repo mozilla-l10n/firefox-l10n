@@ -200,7 +200,7 @@ main-context-menu-media-pause =
 
 main-context-menu-media-mute =
     .label = Wheesht
-    .accesskey = M
+    .accesskey = W
 main-context-menu-media-unmute =
     .label = Unwheesht
     .accesskey = U
@@ -255,10 +255,10 @@ main-context-menu-media-hide-controls =
 
 main-context-menu-media-video-fullscreen =
     .label = Hale Screen
-    .accesskey = F
+    .accesskey = H
 main-context-menu-media-video-leave-fullscreen =
     .label = Ootgang fae Hale Screen
-    .accesskey = u
+    .accesskey = g
 # This is used when right-clicking on a video in the
 # content area when the Picture-in-Picture feature is enabled.
 main-context-menu-media-pip =
@@ -369,7 +369,7 @@ main-context-menu-use-saved-login =
     .accesskey = o
 main-context-menu-use-saved-password =
     .label = Yaise Saved Passwird
-    .accesskey = o
+    .accesskey = i
 
 ##
 
@@ -432,16 +432,16 @@ main-context-menu-view-page-info =
     .accesskey = I
 main-context-menu-bidi-switch-text =
     .label = Turn Roond Text Direction
-    .accesskey = w
+    .accesskey = T
 main-context-menu-bidi-switch-page =
     .label = Turn Roond Page Direction
     .accesskey = D
 main-context-menu-inspect-element =
     .label = Luik-ower Element
-    .accesskey = Q
+    .accesskey = w
 main-context-menu-inspect =
     .label = Luik-ower
-    .accesskey = Q
+    .accesskey = w
 main-context-menu-inspect-a11y-properties =
     .label = Luik-ower Accessibility Properties
 main-context-menu-eme-learn-more =

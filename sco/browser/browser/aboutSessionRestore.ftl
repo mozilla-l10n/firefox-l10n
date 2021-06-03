@@ -34,7 +34,7 @@ welcome-back-page-title = Yaldy!
 welcome-back-page-info = { -brand-short-name } is redd tae gang.
 welcome-back-restore-button =
     .label = Fire in!
-    .accesskey = L
+    .accesskey = F
 welcome-back-restore-all-label = Restore aw windaes & tabs
 welcome-back-restore-some-label = Restore jist the anes ye want
 welcome-back-page-info-link = Yer eik-ons and customisations hae been remuived and yer wab-stravaiger setting hae been restored tae their defaults. Gin this didnae sort yer problem, <a data-l10n-name="link-more">lairn mair aboot whit ye can dae.</a>

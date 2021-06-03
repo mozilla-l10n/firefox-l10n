@@ -627,7 +627,7 @@ search-remove-engine =
     .label = Remuive
     .accesskey = R
 search-add-engine =
-    .label = Eik On
+    .label = Eik on
     .accesskey = E
 search-find-more-link = Find mair airt-oot engines
 # This warning is displayed when the chosen keyword is already in use

@@ -51,7 +51,7 @@ downloads-cmd-show-button =
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
-            [macos] Kythe in Finder
+            [macos] Kythe In Finder
            *[other] Open Conteenin Folder
         }
 downloads-cmd-show-description =
