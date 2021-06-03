@@ -20,7 +20,6 @@ account-setup-name-input =
     .placeholder = Ján Novák
 account-setup-name-info-icon =
     .title = Vaše meno tak ako bude zobrazené ostatným
-account-setup-name-warning = Prosím, zadajte svoje meno
 account-setup-name-warning-icon =
     .title = { account-setup-name-warning }
 account-setup-email-label = E-mailová adresa
@@ -29,7 +28,6 @@ account-setup-email-input =
     .placeholder = jan.novak@example.com
 account-setup-email-info-icon =
     .title = Vaša existujúca e-mailová adresa
-account-setup-email-warning = Neplatná e-mailová adresa
 account-setup-email-warning-icon =
     .title = { account-setup-email-warning }
 account-setup-password-label = Heslo
@@ -70,7 +68,7 @@ account-setup-button-done = Hotovo
 account-setup-looking-up-settings = Vyhľadáva sa konfigurácia…
 account-setup-looking-up-settings-guess = Vyhľadáva sa konfigurácia: skúšajú sa bežné názvy serverov…
 account-setup-looking-up-settings-half-manual = Vyhľadáva sa konfigurácia: prebieha testovanie servera…
-account-setup-looking-up-disk = Vyhľadáva sa konfigurácia: v inštalácii { -brand-short-name(case: "gen") }…
+account-setup-looking-up-disk = Vyhľadáva sa konfigurácia: v inštalácii { -brand-short-name }u…
 account-setup-looking-up-isp = Vyhľadáva sa konfigurácia: u poskytovateľa e-mailu…
 # Note: Do not translate or replace Mozilla. It stands for the public project mozilla.org, not Mozilla Corporation. The database is a generic, public domain facility usable by any client.
 account-setup-looking-up-db = Vyhľadáva sa konfigurácia: v databáze Mozilla ISP…
@@ -85,7 +83,7 @@ account-setup-success-password = Heslo je v poriadku
 account-setup-success-addon = Doplnok bol úspešne nainštalovaný
 # Note: Do not translate or replace Mozilla. It stands for the public project mozilla.org, not Mozilla Corporation. The database is a generic, public domain facility usable by any client.
 account-setup-success-settings-db = Konfigurácia bola nájdená v databáze Mozilla ISP.
-account-setup-success-settings-disk = Konfigurácia bola nájdená v inštalácii { -brand-short-name(case: "gen") }.
+account-setup-success-settings-disk = Konfigurácia bola nájdená v inštalácii { -brand-short-name }u.
 account-setup-success-settings-isp = Konfigurácia bola nájdená u poskytovateľa e-mailu.
 # Note: Microsoft Exchange is a product name.
 account-setup-success-settings-exchange = Konfigurácia bola nájdená na serveri Microsoft Exchange.
@@ -128,35 +126,35 @@ account-setup-exchange-title = Server
 # Note: The reference to "janedoe" (Jane Doe) is the name of an example person. You will want to translate it to whatever example persons would be named in your language. In the example, AD is the name of the Windows domain, and this should usually not be translated.
 account-setup-credentials-incomplete = Overenie zlyhalo. Buď sú zadané prihlasovacie údaje nesprávne, alebo sa na prihlásenie vyžaduje samostatné používateľské meno. Týmto menom je zvyčajne vaše prihlásenie do domény systému Windows, s uvedením domény alebo bez nej (napríklad jannovak alebo DOMENA\jannovak)
 account-setup-credentials-wrong = Overenie zlyhalo. Skontrolujte používateľské meno a heslo
-account-setup-find-settings-failed = { -brand-short-name(case: "dat") } sa nepodarilo nájsť nastavenia pre váš e-mailový účet
+account-setup-find-settings-failed = { -brand-short-name }u sa nepodarilo nájsť nastavenia pre váš e-mailový účet
 account-setup-exchange-config-unverifiable = Konfiguráciu sa nepodarilo overiť. Ak sú vaše používateľské meno a heslo správne, je pravdepodobné, že správca servera zakázal vybratú konfiguráciu vášho účtu. Skúste zvoliť iný protokol.
 
-## Manual config area
+## Manual configuration area
 
 account-setup-manual-config-title = Nastavenia servera
-account-setup-incoming-protocol-label = Protokol prichádzajúcej pošty
 protocol-imap-option = { account-setup-result-imap }
 protocol-pop-option = { account-setup-result-pop }
-account-setup-outgoing-protocol-label = Protokol odchádzajúcej pošty
-outgoing-protocol = SMTP
-account-setup-incoming-server-label = Server prichádzajúcej pošty
-account-setup-outgoing-server-label = Server odchádzajúcej pošty
-account-setup-incoming-port-label = Port prichádzajúcej pošty
-account-setup-outoing-port-label = Port odchádzajúcej pošty
-account-setup-incoming-ssl-label = SSL pre prichádzajúcu poštu
-account-setup-outgoing-ssl-label = SSL pre odchádzajúcu poštu
+
+## Incoming/Outgoing SSL Authentication options
+
 ssl-autodetect-option = Autodetekcia
+
+## Incoming/Outgoing SSL options
+
 ssl-noencryption-option = Žiadne
-ssl-starttls-option = STARTTLS
-ssl-tls-option = SSL/TLS
-account-setup-incoming-auth-label = Overenie pre prichádzajúcu poštu
-account-setup-outgoing-auth-label = Overenie pre odchádzajúcu poštu
-account-setup-incoming-username-label = Používateľské meno
-account-setup-outgoing-username-label = Používateľské meno
 account-setup-advanced-setup-button = Pokročilé nastavenie
     .accesskey = P
 
-## Warning insecure server
+## Warning insecure server dialog
 
 account-setup-insecure-server-checkbox = Rozumiem rizikám
     .accesskey = R
+
+## Warning Exchange confirmation dialog
+
+
+## Alert dialogs
+
+
+## Addon installation section
+
