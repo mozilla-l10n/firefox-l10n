@@ -38,12 +38,12 @@
 <!ENTITY netOffline.longDesc2 "<p>The stravaiger is wirkin in its affline mode and cannae connect tae the speirt-efter item.</p><ul><li>Is the computer connectit tae an active netwark?</li><li>Press &quot;Try Aince Mair&quot; tae switch tae online mode and reload the page.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Content Encodin Mishanter">
-<!ENTITY contentEncodingError.longDesc "<p>The page ye're ettlin tae luik at cannae be kythed acause it yaises a form o compression that's either no suithfest or no supportit.</p><ul><li>Gonnae get in touch wi the wabsite owners tae lat them ken aboot this problem.</li></ul>">
+<!ENTITY contentEncodingError.longDesc "<p>The page ye're ettlin tae luik at cannae be kythed acause it yaises a form o compression that's either no suithfest or no supportit.</p><ul><li>Gonnae get in touch wi the wabsite owners fur tae lat them ken aboot this problem.</li></ul>">
 
 <!ENTITY unsafeContentType.title "File Type No Sauf">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
-  <li>Gonnae get in touch wi the wabsite owners tae lat them ken aboot this problem.</li>
+  <li>Gonnae get in touch wi the wabsite owners fur tae lat them ken aboot this problem.</li>
 </ul>
 ">
 
@@ -69,7 +69,7 @@
 <!ENTITY unknownSocketType.longDesc "<p>The site reponed tae the netwark speirin in an unexpectit wey and the stravaiger cannae haud forrit.</p>">
 
 <!ENTITY nssFailure2.title "Siccar Connection Didnae Wirk">
-<!ENTITY nssFailure2.longDesc2 "<p>The page ye're ettlin fur tae luik at cannae be kythed acause the authenticity o the received data couldnae be trystmakkit.</p><ul><li>Gonnae get in touch wi the wabsite owners tae lat them ken aboot this problem.</li></ul>">
+<!ENTITY nssFailure2.longDesc2 "<p>The page ye're ettlin fur tae luik at cannae be kythed acause the authenticity o the received data couldnae be trystmakkit.</p><ul><li>Gonnae get in touch wi the wabsite owners fur tae lat them ken aboot this problem.</li></ul>">
 
 <!ENTITY nssBadCert.title "Siccar Connection Didnae Wirk">
 <!ENTITY nssBadCert.longDesc2 "<ul>
@@ -91,7 +91,7 @@
 <!ENTITY xfoBlocked.longDesc "<p>The stravaiger stapped this page fae loadin in this context acause the page has an X-Frame-Options policy that willnae alloo it.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Camshauchlet Content Mishanter">
-<!ENTITY corruptedContentErrorv2.longDesc "<p>The page yer tryin tae view cannae be shawn acause a mishanter in the data transmission wis detectit.</p><ul><li>Gonnae get in touch wi the wabsite owners tae lat them ken aboot this problem.</li></ul>">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>The page yer tryin tae view cannae be shawn acause a mishanter in the data transmission wis detectit.</p><ul><li>Gonnae get in touch wi the wabsite owners fur tae lat them ken aboot this problem.</li></ul>">
 
 <!ENTITY remoteXUL.title "Remote XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Gonnae get in touch wi the wabsite owners fur tae let them ken aboot this problem.</li></ul></p>">
