@@ -7,3 +7,15 @@ default-browser-notification-message = <strong>تنظیم { -brand-short-name } 
 default-browser-notification-button =
     .label = تنظیم به عنوان پیش‌فرض
     .accesskey = S
+
+## These strings are used for the default browser prompt. There are 2 variations
+## depending on the operating system (Windows vs other). The checkbox label and
+## secondary button are shared between the variants.
+
+default-browser-prompt-title-pin = { -brand-short-name } را تبدیل به مرورگر پیش‌فرض خود می‌کنید؟
+default-browser-prompt-button-primary-pin = تبدیل کردن به مرورگر پیش‌فرض
+default-browser-prompt-title-alt = { -brand-short-name } را به مرورگر پیش‌فرض خود تبدیل می‌کنید؟
+default-browser-prompt-message-alt = در هر زمانی هنگام مرور اینترنت، سرعت، امنیت و حریم‌خصوصی را همراه داشته باشید.
+default-browser-prompt-button-primary-alt = تنظیم به عنوان مرورگر پیش‌فرض
+default-browser-prompt-checkbox-not-again-label = این پیام را دوباره نمایش نده
+default-browser-prompt-button-secondary = هم‌اکنون نه
