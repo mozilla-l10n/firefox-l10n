@@ -90,8 +90,8 @@ update-in-progress-ok-button = &Hylkää
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Jatka
-account-button = Tilin asetukset
 addons-button = Laajennukset ja teemat
+account-button = Tilin asetukset
 open-addons-sidebar-button = Lisäosat ja teemat
 
 ## OS Authentication dialog
@@ -168,6 +168,11 @@ customize-alert-label =
 tray-icon-label =
     .label = Näytä ilmoitusalueen kuvake
     .accesskey = i
+biff-use-system-alert =
+    .label = Käytä järjestelmäilmoitusta
+tray-icon-unread-label =
+    .label = Näytä lukemattomien viestien kuvake ilmoitusalueella
+    .accesskey = t
 mail-system-sound-label =
     .label = Järjestelmän oletusääni uudelle sähköpostille
     .accesskey = J
