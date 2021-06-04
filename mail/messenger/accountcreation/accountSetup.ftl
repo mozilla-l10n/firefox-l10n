@@ -20,7 +20,6 @@ account-setup-name-input =
     .placeholder = Flurina Bundi
 account-setup-name-info-icon =
     .title = Tes num, uschia co el duai vegnir mussà ad auters
-account-setup-name-warning = Endatescha per plaschair tes num
 account-setup-name-warning-icon =
     .title = { account-setup-name-warning }
 account-setup-email-label = Adressa dad e-mail
@@ -29,7 +28,6 @@ account-setup-email-input =
     .placeholder = flurina.bundi@example.com
 account-setup-email-info-icon =
     .title = Tia adressa dad e-mail existenta
-account-setup-email-warning = Adressa dad e-mail nunvalida
 account-setup-email-warning-icon =
     .title = { account-setup-email-warning }
 account-setup-password-label = Pled-clav
@@ -122,6 +120,15 @@ account-setup-incoming-title = Posta che entra
 account-setup-outgoing-title = Posta che sorta
 account-setup-username-title = Num d'utilisader
 account-setup-exchange-title = Server
+account-setup-result-smtp = SMTP
+account-setup-result-no-encryption = Nagin criptadi
+account-setup-result-ssl = SSL/TLS
+account-setup-result-starttls = STARTTLS
+account-setup-result-outgoing-existing = Utilisar in server da sortida SMTP existent
+# Variables:
+#  $incoming (String): The email/username used to log into the incoming server
+#  $outgoing (String): The email/username used to log into the outgoing server
+account-setup-result-username-different = Entrada: { $incoming }, sortida: { $outgoing }
 
 ## Error messages
 
@@ -131,32 +138,68 @@ account-setup-credentials-wrong = L'autentificaziun n'è betg reussida. Controll
 account-setup-find-settings-failed = { -brand-short-name } n'ha betg chattà la configuraziun per tes conto dad e-mail
 account-setup-exchange-config-unverifiable = I n'è betg reussì da verifitgar la configuraziun. Sche tes num d'utilisader ed il pled-clav èn corrects, èsi probabel che l'administratur dal server ha deactivà la configuraziun tschernida per tes conto. Emprova da tscherner in auter protocol.
 
-## Manual config area
+## Manual configuration area
 
 account-setup-manual-config-title = Parameters dal server
-account-setup-incoming-protocol-label = Protocol per posta che entra
+account-setup-incoming-server-legend = Server d'entrada
+account-setup-protocol-label = Protocol:
 protocol-imap-option = { account-setup-result-imap }
 protocol-pop-option = { account-setup-result-pop }
-account-setup-outgoing-protocol-label = Protocol per posta che sorta
-outgoing-protocol = SMTP
-account-setup-incoming-server-label = Server d'entrada
-account-setup-outgoing-server-label = Server da sortida
-account-setup-incoming-port-label = Port d'entrada
-account-setup-outoing-port-label = Port da sortida
-account-setup-incoming-ssl-label = SSL entrada
-account-setup-outgoing-ssl-label = SSL sortida
+protocol-exchange-option = { account-setup-result-exchange }
+account-setup-hostname-label = Num dal host:
+account-setup-port-label = Port:
+    .title = Endatescha 0 per il numer dal port per laschar emplenir automaticamain
+account-setup-auto-description = { -brand-short-name } vegn ad empruvar dad emplenir automaticamain champs vids.
+account-setup-ssl-label = Segirezza da connexiun:
+account-setup-outgoing-server-legend = Server da sortida
+
+## Incoming/Outgoing SSL Authentication options
+
 ssl-autodetect-option = Determinaziun automatica
+ssl-no-authentication-option = Nagina autentificaziun
+ssl-cleartext-password-option = Pled-clav normal
+ssl-encrypted-password-option = Pled-clav criptà
+
+## Incoming/Outgoing SSL options
+
 ssl-noencryption-option = Nagina
-ssl-starttls-option = STARTTLS
-ssl-tls-option = SSL/TLS
-account-setup-incoming-auth-label = Autentificaziun entrada
-account-setup-outgoing-auth-label = Autentificaziun sortida
-account-setup-incoming-username-label = Num d'utilisader entrada
-account-setup-outgoing-username-label = Num d'utilisader sortida
+account-setup-auth-label = Metoda d'autentificaziun:
+account-setup-username-label = Num d'utilisader:
 account-setup-advanced-setup-button = Configuraziun avanzada
     .accesskey = a
 
-## Warning insecure server
+## Warning insecure server dialog
 
+account-setup-insecure-title = Attenziun!
+account-setup-insecure-incoming-title = Parameters da l'entrada:
+account-setup-insecure-outgoing-title = Parameters da la sortida:
+# Variables:
+#  $server (String): The name of the hostname of the server the user was trying to connect to.
+account-setup-warning-cleartext = <b>{ $server }</b> n'utilisescha nagin criptadi.
+account-setup-warning-cleartext-details = Servers betg segirs n'utiliseschan nagin criptadi per proteger tes pleds-clav e tias datas persunalas. Cun connectar cun quest server ristgas ti che terzs vesian tes pled-clav e tias datas persunalas.
 account-setup-insecure-server-checkbox = Jau chapesch las ristgas
     .accesskey = c
+account-setup-insecure-description = { -brand-short-name } po ta permetter dad acceder a tes e-mails cun la configuraziun messa a disposiziun. Tuttina vegn recumandà da contactar tes administratur u il purschider dad e-mail areguard questas connexiuns nunadattadas. Vesair il <a data-l10n-name="thunderbird-faq-link">FAQ (dumondas frequentas) da Thunderbird</a> per ulteriuras infurmaziuns.
+insecure-dialog-cancel-button = Midar ils parameters
+    .accesskey = M
+insecure-dialog-confirm-button = Confermar
+    .accesskey = C
+
+## Warning Exchange confirmation dialog
+
+# Variables:
+#  $domain (String): The name of the server where the configuration was found, e.g. rackspace.com.
+exchange-dialog-question = { -brand-short-name } ha chattà las infurmaziuns per configurar tes conto sin { $domain }. Vuls ti cuntinuar e trametter tias infurmaziuns d'annunzia?
+exchange-dialog-confirm-button = S'annunziar
+exchange-dialog-cancel-button = Interrumper
+
+## Alert dialogs
+
+account-setup-creation-error-title = Errur cun crear il conto
+account-setup-error-server-exists = Il server d'entrada exista gia.
+account-setup-confirm-advanced-title = Confermar la configuraziun avanzada
+account-setup-confirm-advanced-description = Quest dialog vegn serrà ed in conto cun la configuraziun actuala vegn creà, era sche la configuraziun è incorrecta. Vuls ti cuntinuar?
+
+## Addon installation section
+
+account-setup-addon-install-title = Installar
