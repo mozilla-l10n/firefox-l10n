@@ -308,6 +308,7 @@ cfr-whatsnew-cross-site-tracking-body = Ko’ág̃a ikatu eiporavo omo’ãvéva
 
 ## Full Video Support CFR message
 
+cfr-doorhanger-video-support-body = Ikatu ko’ã ta’ãngamýi ko tendagua ndojehechaporãi { -brand-short-name } ag̃aguápe. Embojokupyty hag̃ua ta’ãngamýi, embohekopyahu { -brand-short-name } ko’ág̃a.
 cfr-doorhanger-video-support-header = Embohekopyahu { -brand-short-name } ehecha hag̃ua ta’ãngamýi
 cfr-doorhanger-video-support-primary-button = Embohekopyahu ko’ág̃a
     .accesskey = U
