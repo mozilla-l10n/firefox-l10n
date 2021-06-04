@@ -30,7 +30,7 @@ perftools-description-intro =
     localmente, pero puedes elegir si quieres subirlos para compartirlos.
 perftools-description-local-build =
     Si estás perfilando una compilación que hiciste tu, en este
-    equipo, por favor añade el objdir de tu compulación a la lista a continuación para que
+    equipo, por favor añade el objdir de tu compilación a la lista a continuación para que
     pueda utilizarse para buscar información simbólica..
 
 ## The controls for the interval at which the profiler samples the code.
@@ -106,7 +106,6 @@ perftools-tools-threads-input-label =
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
 ## preferences are true.
 
--profiler-brand-name = Perfilador de Firefox
 perftools-onboarding-message = <b>Nuevo</b>: { -profiler-brand-name } está ahora integrado en las herramientas para desarrolladores. <a>Aprender más</a> acerca de esta poderosa nueva herramienta.
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (Por un tiempo limitado, podrás acceder al panel de rendimiento original a través de <a>{ options-context-advanced-settings }</a>)
