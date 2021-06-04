@@ -55,6 +55,10 @@ perftools-button-start-recording = Iniciar grabación
 perftools-button-capture-recording = Capturar la grabación
 perftools-button-cancel-recording = Cancelar grabación
 perftools-button-save-settings = Guardar ajustes y volver
+perftools-button-restart = Reiniciar
+perftools-button-add-directory = Agregar un directorio
+perftools-button-remove-directory = Eliminar lo seleccionado
+perftools-button-edit-settings = Editar ajustes…
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
@@ -66,3 +70,5 @@ perftools-button-save-settings = Guardar ajustes y volver
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
 ## preferences are true.
 
+perftools-onboarding-close-button =
+    .aria-label = Cerrar el mensaje introductorio
