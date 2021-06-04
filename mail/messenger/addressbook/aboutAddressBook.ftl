@@ -24,6 +24,8 @@ about-addressbook-books-context-properties =
     .label = Caracteristicas
 about-addressbook-books-context-synchronize =
     .label = Sincronisar
+about-addressbook-books-context-print =
+    .label = Stampar…
 about-addressbook-books-context-delete =
     .label = Stizzar
 
@@ -35,6 +37,8 @@ about-addressbook-search =
     .placeholder = Tschertgar { $name }
 about-addressbook-search-all =
     .placeholder = Tschertgar en tut ils cudeschets d'adressas
+about-addressbook-sort-button =
+    .title = Midar la zavrada da la glista
 about-addressbook-name-format-display =
     .label = Num per mussar
 about-addressbook-name-format-firstlast =

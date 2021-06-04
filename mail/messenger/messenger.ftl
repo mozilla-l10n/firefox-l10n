@@ -16,6 +16,9 @@ about-rights-notification-text = { -brand-short-name } è in program gratuit ed 
 addons-and-themes-button =
     .label = Supplements e designs
     .tooltip = Administrescha tes supplements
+redirect-msg-button =
+    .label = Renviar
+    .tooltiptext = Renviar il messadi tschernì
 
 ## Folder Pane
 
@@ -50,6 +53,12 @@ folder-toolbar-toggle-folder-compact-view =
     .label = Vista cumpacta
     .accesskey = c
 
+## Menu
+
+redirect-msg-menuitem =
+    .label = Renviar
+    .accesskey = R
+
 ## AppMenu
 
 # Since v89 we dropped the platforms distinction between Options or Preferences
@@ -64,6 +73,18 @@ appmenu-help-exit-troubleshoot-mode =
     .label = Deactivar il modus per schliar problems
 appmenu-help-more-troubleshooting-info =
     .label = Dapli infurmaziuns per schliar problems
+appmenu-redirect-msg =
+    .label = Renviar
+
+## Context menu
+
+context-menu-redirect-msg =
+    .label = Renviar
+
+## Message header pane
+
+other-action-redirect-msg =
+    .label = Renviar
 
 ## Action Button Context Menu
 
