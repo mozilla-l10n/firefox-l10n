@@ -164,6 +164,7 @@ account-setup-insecure-outgoing-title = Lähtevän postin asetukset:
 # Variables:
 #  $server (String): The name of the hostname of the server the user was trying to connect to.
 account-setup-warning-cleartext = <b>{ $server }</b> ei käytä salausta.
+account-setup-warning-cleartext-details = Suojaamattomat sähköpostipalvelimet eivät salaa yhteyksiään eivätkä siten suojele salasanojasi ja henkilökohtaisia tietojasi. Salasanasi ja henkilökohtaiset tietosi voivat joutua vääriin käsiin ottamalla yhteyden tähän palvelimeen.
 account-setup-insecure-server-checkbox = Ymmärrän riskit
     .accesskey = Y
 insecure-dialog-confirm-button = Vahvista
