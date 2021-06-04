@@ -120,6 +120,11 @@ account-setup-incoming-title = Prichádzajúca
 account-setup-outgoing-title = Odchádzajúca
 account-setup-username-title = Používateľské meno
 account-setup-exchange-title = Server
+account-setup-result-smtp = SMTP
+account-setup-result-no-encryption = Bez zabezpečenia
+account-setup-result-ssl = SSL/TLS
+account-setup-result-starttls = STARTTLS
+account-setup-result-outgoing-existing = Použiť existujúci server pre odosielanie pošty (SMTP)
 
 ## Error messages
 
@@ -132,29 +137,58 @@ account-setup-exchange-config-unverifiable = Konfiguráciu sa nepodarilo overiť
 ## Manual configuration area
 
 account-setup-manual-config-title = Nastavenia servera
+account-setup-incoming-server-legend = Server prichádzajúcej pošty
+account-setup-protocol-label = Protokol:
 protocol-imap-option = { account-setup-result-imap }
 protocol-pop-option = { account-setup-result-pop }
+protocol-exchange-option = { account-setup-result-exchange }
+account-setup-hostname-label = Server:
+account-setup-ssl-label = Zabezpečenie pripojenia:
+account-setup-outgoing-server-legend = Server odchádzajúcej pošty
 
 ## Incoming/Outgoing SSL Authentication options
 
 ssl-autodetect-option = Autodetekcia
+ssl-no-authentication-option = Žiadne overenia totožnosti
+ssl-cleartext-password-option = Normálne heslo
+ssl-encrypted-password-option = Zašifrované heslo
 
 ## Incoming/Outgoing SSL options
 
 ssl-noencryption-option = Žiadne
+account-setup-auth-label = Metóda overenia:
+account-setup-username-label = Používateľské meno:
 account-setup-advanced-setup-button = Pokročilé nastavenie
     .accesskey = P
 
 ## Warning insecure server dialog
 
+account-setup-insecure-title = Upozornenie!
+account-setup-insecure-incoming-title = Nastavenia pre prichádzajúcu poštu:
+account-setup-insecure-outgoing-title = Nastavenia pre odchádzajúcu poštu:
+# Variables:
+#  $server (String): The name of the hostname of the server the user was trying to connect to.
+account-setup-warning-cleartext = Server <b>{ $server }</b> nepoužíva šifrovanie.
+account-setup-warning-cleartext-details = Nezabezpečené poštové servery nepoužívajú šifrované pripojenia na ochranu hesiel a súkromných informácií. Pri pripojení k tomuto serveru je možné vaše heslo a citlivé údaje prečítať treťou stranou.
 account-setup-insecure-server-checkbox = Rozumiem rizikám
     .accesskey = R
+insecure-dialog-cancel-button = Zmeniť nastavenia
+    .accesskey = Z
+insecure-dialog-confirm-button = Potvrdiť
+    .accesskey = P
 
 ## Warning Exchange confirmation dialog
 
+exchange-dialog-cancel-button = Zrušiť
 
 ## Alert dialogs
 
+account-setup-creation-error-title = Chyba pri vytváraní účtu
+account-setup-error-server-exists = Server pre prichádzajúcu poštu už existuje.
+account-setup-confirm-advanced-title = Potvrdenie pokročilého nastavenia
+account-setup-confirm-advanced-description = Toto dialógové okno bude zatvorené a účet s týmito nastaveniami bude vytvorený a to aj v prípade, že konfigurácia nie je správna. Chcete pokračovať?
 
 ## Addon installation section
 
+account-setup-addon-install-title = Nainštalovať
+account-setup-addon-install-intro = Doplnok tretej strany vám umožňuje prístup k vašej e-mailovej adrese na tomto serveri:
