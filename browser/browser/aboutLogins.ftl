@@ -287,10 +287,28 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = আমদানি সম্পূৰ্ণ হ'ল
+about-logins-import-dialog-items-added =
+    { $count ->
+       *[other] <span>নতুন লগিন যোগ কৰা হ'ল:</span> <span data-l10n-name="count">{ $count }টা</span>
+    }
+about-logins-import-dialog-items-modified =
+    { $count ->
+       *[other] <span>মজুত থকা লগইনসমূহ আপডেট কৰা হ'ল:</span> <span data-l10n-name="count">{ $count }টা</span>
+    }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+       *[other] <span>ডুপ্লিকেট লগিন পোৱা গৈছে:</span> <span data-l10n-name="count">{ $count }টা</span> <span data-l10n-name="meta">(আমদানি কৰা নহ'ল)</span>
+    }
+about-logins-import-dialog-items-error =
+    { $count ->
+       *[other] <span>ত্ৰুটি:</span> <span data-l10n-name="count">{ $count }টা</span> <span data-l10n-name="meta">(আমদানি কৰা নহ'ল)</span>
+    }
 about-logins-import-dialog-done = হৈ গ'ল
 about-logins-import-dialog-error-title = আমদানি ত্ৰুটি
 about-logins-import-dialog-error-conflicting-values-title = একেটা লগিনৰ বাবে একাধিক বিৰোধী মান
 about-logins-import-dialog-error-conflicting-values-description = উদাহৰণস্বৰূপে- একেটা লগিনৰ বাবে একাধিক ব্যৱহাৰকাৰীনাম, পাছৱৰ্ড, URL, ইত্যাদি।
+about-logins-import-dialog-error-file-format-title = ফাইল ফৰ্মেটৰ সমস্যা
+about-logins-import-dialog-error-file-format-description = অশুদ্ধ বা সন্ধানহীন স্তম্ভৰ শিৰোশাৰী। ফাইলটোত ব্যৱহাৰকাৰীনাম, পাছৱৰ্ড আৰু URLৰ স্তম্ভ থকাটো নিশ্চিত কৰক।
 
 ##
 ## Variables:
