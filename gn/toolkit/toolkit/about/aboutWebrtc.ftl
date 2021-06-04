@@ -58,16 +58,10 @@ about-webrtc-ice-pair-bytes-sent = Bytes mondopyre:
 about-webrtc-ice-pair-bytes-received = Bytes japyhypyre:
 about-webrtc-ice-component-id = ID rape’apo
 
-##
-
-
 ## "Avg." is an abbreviation for Average. These are used as data labels.
 
 about-webrtc-avg-bitrate-label = Avg. bitrate:
 about-webrtc-avg-framerate-label = Avg. aravo’ivépe:
-
-##
-
 
 ## These adjectives are used to label a line of statistics collected for a peer
 ## connection. The data represents either the local or remote end of the
@@ -193,8 +187,8 @@ about-webrtc-aec-logging-off-state-msg = marandurenda haipy japyhypyréva ikatu 
 #  $packets (Number) - The number of packets received.
 about-webrtc-received-label =
     { $packets ->
-        [one] Ñapytĩmby { $packets } guahẽmbyre
-       *[other] Ñapytĩmbykuéra { $packets } guahẽmbyre
+        [one] Ñapytĩmby { $packets } g̃uahẽmbyre
+       *[other] Ñapytĩmbykuéra { $packets } g̃uahẽmbyre
     }
 # This is the total number of packets lost by the PeerConnection.
 # Variables:
