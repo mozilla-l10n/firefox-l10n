@@ -312,16 +312,35 @@ about-logins-import-dialog-error-file-format-description = অশুদ্ধ �
 about-logins-import-dialog-error-file-permission-title = ফাইল পঢ়িব পৰা নগ'ল
 about-logins-import-dialog-error-file-permission-description = ফাইলটো পঢ়িবলৈ { -brand-short-name }-ৰ অনুমতি নাই। ফাইলৰ অনুমতিসমূহ সলনি কৰি চাওক।
 about-logins-import-dialog-error-unable-to-read-description = আপুনি কোনো CSV বা TSV ফাইল বাছনি কৰাটো নিশ্চিত কৰক।
+about-logins-import-dialog-error-no-logins-imported = কোনো লগিন আমদানি কৰা হোৱা নাই
+about-logins-import-dialog-error-learn-more = অধিক জানক
+about-logins-import-dialog-error-try-import-again = পুনৰ আমদানি কৰাৰ চেষ্টা কৰক...
+about-logins-import-dialog-error-cancel = বাতিল কৰক
+about-logins-import-report-title = আমদানিৰ সাৰাংশ
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = { $number } নং শাৰী
+about-logins-import-report-row-description-no-change = ডুপ্লিকেট: মজুত থকা লগিনৰ হুবহু মিল
+about-logins-import-report-row-description-modified = মজুত থকা লগিন আপডেট কৰা হ'ল
+about-logins-import-report-row-description-added = নতুন লগিন যোগ কৰা হ'ল
+about-logins-import-report-row-description-error = ত্ৰুটি: ক্ষেত্ৰ সন্ধানহীন
 
 ##
 ## Variables:
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
+about-logins-import-report-row-description-error-multiple-values = ত্ৰুটি: { $field }ৰ একাধিক মান
+about-logins-import-report-row-description-error-missing-field = ত্ৰুটি: { $field } সন্ধানহীন
 
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-report-added =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }টা</div> <div data-l10n-name="details">নতুন লগিন যোগ কৰা হ'ল</div>
+    }
 
 ## Logins import report page
 
