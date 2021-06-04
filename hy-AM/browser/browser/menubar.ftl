@@ -245,6 +245,9 @@ menu-tools-fxa-sign-in =
 menu-tools-turn-on-sync =
     .label = Միացնել { -sync-brand-short-name }…
     .accesskey = n
+menu-tools-fxa-sign-in2 =
+    .label = Մուտք գործել
+    .accesskey = g
 menu-tools-sync-now =
     .label = Սինք
     .accesskey = Ս
@@ -288,15 +291,6 @@ menu-window-bring-all-to-front =
 # NOTE: For Engineers, any additions or changes to Help menu strings should
 # also be reflected in the related strings in appmenu.ftl. Those strings, by
 # convention, will have the same ID as these, but prefixed with "app".
-# Example: appmenu-help-product
-#
-# These strings are duplicated to allow for different casing depending on
-# where the strings appear.
-
-
-# NOTE: For Engineers, any additions or changes to Help menu strings should
-# also be reflected in the related strings in appmenu.ftl. Those strings, by
-# convention, will have the same ID as these, but prefixed with "app".
 # Example: appmenu-get-help
 #
 # These strings are duplicated to allow for different casing depending on
@@ -320,8 +314,6 @@ menu-help-keyboard-shortcuts =
 menu-help-troubleshooting-info =
     .label = Անսարքության տեղեկատվություն
     .accesskey = Ա
-menu-help-taskmanager =
-    .label = Առաջադրանքների ղեկավար
 menu-help-report-site-issue =
     .label = Զեկուցել կայքի խնդրի մասին…
 menu-help-feedback-page =
