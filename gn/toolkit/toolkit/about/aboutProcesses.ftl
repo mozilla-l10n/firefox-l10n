@@ -117,6 +117,17 @@ about-processes-active-threads =
         [one] { $active } inimbo hendýva { $number }: { $list } mba’e
        *[other] { $active } inimbokuéra hendýva { $number }: { $list } mba’e
     }
+# Single-line summary of threads (idle process)
+# Variables:
+#    $number (Number) The number of threads in the process. Typically larger
+#                     than 30. We don't expect to ever have processes with less
+#                     than 5 threads.
+#                     The process is idle so all threads are inactive.
+about-processes-inactive-threads =
+    { $number ->
+        [one] { $number } inimbo ndoikóiva
+       *[other] { $number } inimbokuéra ndoikóiva
+    }
 # Thread details
 # Variables:
 #   $name (String) The name assigned to the thread.
@@ -149,6 +160,9 @@ about-processes-frame-name-many = Kora’ive ({ $number }): { $shortUrl }
 
 # Common case.
 about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") } ({ NUMBER($total, maximumFractionDigits: 0) }{ $unit })
+# Common case.
+about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
+    .title = CPU aravo: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (ta’ãha)
 # Special case: process or thread is currently idle.
