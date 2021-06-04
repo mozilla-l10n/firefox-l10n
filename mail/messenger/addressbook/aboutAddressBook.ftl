@@ -24,6 +24,8 @@ about-addressbook-books-context-properties =
     .label = Vlastnosti
 about-addressbook-books-context-synchronize =
     .label = Synchronizovať
+about-addressbook-books-context-print =
+    .label = Tlačiť…
 about-addressbook-books-context-delete =
     .label = Odstrániť
 
