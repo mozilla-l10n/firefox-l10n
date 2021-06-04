@@ -183,8 +183,6 @@ page-action-send-tabs-urlbar =
             [one] ডিভাইচলৈ { $tabCount }টা টেব পঠিয়াওক
            *[other] ডিভাইচলৈ { $tabCount }টা টেব পঠিয়াওক
         }
-page-action-pocket-panel =
-    .label = { -pocket-brand-name }-ত পৃষ্ঠা সাঁচি থওক
 page-action-copy-url-panel =
     .label = লিংক কপি কৰক
 page-action-copy-url-urlbar =
@@ -266,6 +264,11 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = বুকমাৰ্ক যোগ কৰক
+bookmarks-edit-bookmark = বুকমাৰ্ক সম্পাদন কৰক
+bookmark-panel-cancel =
+    .label = বাতিল কৰক
+    .accesskey = ল
 bookmark-panel-show-editor-checkbox =
     .label = সঞ্চয় কৰোঁতে এডিটৰ দেখুৱাব
     .accesskey = S
@@ -419,8 +422,6 @@ urlbar-result-action-visit = দৰ্শন কৰক
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = সকলো পত্ৰচিহ্ন দেখুৱাওক
 bookmarks-toolbar-chevron =
     .tooltiptext = অধিক পত্ৰচিহ্ন দেখুৱাওক
 bookmarks-sidebar-content =
@@ -444,6 +445,9 @@ library-bookmarks-menu =
 save-to-pocket-button =
     .label = { -pocket-brand-name }-ত সাঁচি থওক
     .tooltiptext = { -pocket-brand-name }-ত সাঁচি থওক
+
+## Customize Toolbar Buttons
+
 
 ## More items
 

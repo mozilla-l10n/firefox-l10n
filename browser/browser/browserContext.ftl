@@ -88,6 +88,9 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
+## Firefox Account Button
+
+
 ## Save Page
 
 main-context-menu-page-save =
@@ -200,6 +203,16 @@ main-context-menu-media-play-speed-faster =
 main-context-menu-media-play-speed-fastest =
     .label = হাস্যকৰ (2×)
     .accesskey = L
+main-context-menu-media-play-speed-slow-2 =
+    .label = 0.5×
+main-context-menu-media-play-speed-normal-2 =
+    .label = 1.0×
+main-context-menu-media-play-speed-fast-2 =
+    .label = 1.25×
+main-context-menu-media-play-speed-faster-2 =
+    .label = 1.5×
+main-context-menu-media-play-speed-fastest-2 =
+    .label = 2×
 main-context-menu-media-loop =
     .label = লুপ
     .accesskey = L
@@ -227,6 +240,11 @@ main-context-menu-media-video-leave-fullscreen =
 main-context-menu-media-pip =
     .label = ছবিৰ-ওপৰত-ছবি
     .accesskey = u
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-watch-pip =
+    .label = ছবিৰ-ওপৰত-ছবি অৱস্থাত চাওক
+    .accesskey = অ
 main-context-menu-image-reload =
     .label = ছবি পুনৰ ল'ড কৰক
     .accesskey = R
@@ -236,6 +254,12 @@ main-context-menu-image-view =
 main-context-menu-video-view =
     .label = ভিডিঅ' দৰ্শন কৰক
     .accesskey = i
+main-context-menu-image-view-new-tab =
+    .label = নতুন টেবত ছবি খোলক
+    .accesskey = ছ
+main-context-menu-video-view-new-tab =
+    .label = নতুন টেবত ভিডিঅ' খোলক
+    .accesskey = ব
 main-context-menu-image-copy =
     .label = ছবি কপি কৰক
     .accesskey = y
@@ -248,6 +272,15 @@ main-context-menu-video-copy-location =
 main-context-menu-audio-copy-location =
     .label = অডিঅ' অৱস্থান কপি কৰক
     .accesskey = o
+main-context-menu-image-copy-link =
+    .label = ছবিৰ লিংক কপি কৰক
+    .accesskey = ক
+main-context-menu-video-copy-link =
+    .label = ভিডিঅ'ৰ লিংক কপি কৰক
+    .accesskey = ক
+main-context-menu-audio-copy-link =
+    .label = অডিঅ'ৰ লিংক কপি কৰক
+    .accesskey = ক
 main-context-menu-image-save-as =
     .label = এই ধৰণে ছবি সংৰক্ষণ কৰক…
     .accesskey = v
@@ -257,6 +290,9 @@ main-context-menu-image-email =
 main-context-menu-image-set-as-background =
     .label = ডেস্কটপৰ পটভূমি হিচাপে সংহতি কৰক…
     .accesskey = S
+main-context-menu-image-set-image-as-background =
+    .label = ছবিখন ডেস্কটপৰ পটভূমি হিচাপে ছেট কৰক...
+    .accesskey = ট
 main-context-menu-image-info =
     .label = ছবি তথ্য দৰ্শন কৰক
     .accesskey = f
@@ -272,6 +308,9 @@ main-context-menu-audio-save-as =
 main-context-menu-video-image-save-as =
     .label = স্নেপশ্বটক এই ধৰণে সংৰক্ষণ কৰক…
     .accesskey = S
+main-context-menu-video-take-snapshot =
+    .label = স্নেপশ্বট লওক...
+    .accesskey = ল
 main-context-menu-video-email =
     .label = ভিডিঅ' ইমেইল কৰক…
     .accesskey = a
@@ -301,9 +340,21 @@ main-context-menu-generate-new-password =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-use-saved-login =
+    .label = সাঁচি থোৱা লগিন ব্যৱহাৰ কৰক
+    .accesskey = ৱ
+main-context-menu-use-saved-password =
+    .label = সাঁচি থোৱা পাছৱাৰ্ড ব্যৱহাৰ কৰক
+    .accesskey = ৱ
 
 ##
 
+main-context-menu-suggest-strong-password =
+    .label = শক্তিশালী পাছৱৰ্ডৰ পৰামৰ্শ দিয়ক…
+    .accesskey = শ
+main-context-menu-manage-logins2 =
+    .label = লগিন পৰিচালনা কৰক
+    .accesskey = প
 main-context-menu-keyword =
     .label = এই সন্ধানৰ বাবে এটা কিৱাৰ্ড যোগ কৰক…
     .accesskey = K
@@ -346,6 +397,9 @@ main-context-menu-print-selection =
 main-context-menu-view-selection-source =
     .label = নিৰ্বাচিত উৎস দৰ্শন
     .accesskey = e
+main-context-menu-take-screenshot =
+    .label = স্ক্ৰীণশ্বট লওক
+    .accesskey = ল
 main-context-menu-view-page-source =
     .label = পৃষ্ঠা উৎস দৰ্শন কৰক
     .accesskey = V
@@ -360,6 +414,9 @@ main-context-menu-bidi-switch-page =
     .accesskey = D
 main-context-menu-inspect-element =
     .label = উপাদান নীৰিক্ষণ কৰক
+    .accesskey = Q
+main-context-menu-inspect =
+    .label = নিৰীক্ষণ কৰক
     .accesskey = Q
 main-context-menu-inspect-a11y-properties =
     .label = অভিগম্যতা বৈশিষ্ট্যসমূহ নিৰীক্ষণ কৰক
