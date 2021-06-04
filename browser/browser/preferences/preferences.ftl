@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+do-not-track-learn-more = অধিক জানক
 pref-page-title =
     { PLATFORM() ->
         [windows] বিকল্প
@@ -49,6 +50,7 @@ tabs-group-header = টেবসমূহ
 show-tabs-in-taskbar =
     .label = টেবৰ পুৰ্বদৰ্শনসমূহ উইণ্ড'সমূহৰ কাৰ্য্যবাৰত দেখুৱাওক
     .accesskey = k
+browser-containers-learn-more = অধিক জানক
 
 ## General Section - Language & Appearance
 
@@ -148,12 +150,14 @@ applications-use-other-label =
 
 ##
 
+play-drm-content-learn-more = অধিক জানক
 update-application-use-service =
     .label = আপডেইটসমূহ ইনস্টল কৰিবলে এটা পটভূমি সেৱা ব্যৱহাৰ কৰক
     .accesskey = b
 
 ## General Section - Performance
 
+performance-settings-learn-more = অধিক জানক
 performance-allow-hw-accel =
     .label = যেতিয়া উপলব্ধ তেতিয়া হাৰ্ডৱেৰ ত্বৰণ ব্যৱহাৰ কৰক
     .accesskey = r
@@ -170,9 +174,13 @@ browsing-use-smooth-scrolling =
 browsing-use-cursor-navigation =
     .label = পৃষ্ঠাৰ মাজত ব্ৰাউছ কৰিবলৈ সদায়ে কাৰ্চাৰ চাবি ব্যৱহাৰ কৰিব
     .accesskey = c
+browsing-picture-in-picture-learn-more = অধিক জানক
+browsing-media-control-learn-more = অধিক জানক
+browsing-cfr-recommendations-learn-more = অধিক জানক
 
 ## General Section - Proxy
 
+network-proxy-connection-learn-more = অধিক জানক
 network-proxy-connection-settings =
     .label = পছন্দসমূহ…
     .accesskey = e
@@ -206,6 +214,7 @@ choose-bookmark =
 
 ##
 
+home-prefs-recommended-by-learn-more = ই কেনেকৈ কাম কৰে
 
 ## Search Section
 
@@ -269,9 +278,11 @@ sync-engine-history =
 forms-exceptions =
     .label = ব্যতিক্ৰমসমূহ…
     .accesskey = x
+forms-breach-alerts-learn-more-link = অধিক জানক
 forms-master-pw-use =
     .label = এটা মুখ্য পাছৱৰ্ড ব্যৱহাৰ কৰক
     .accesskey = U
+forms-primary-pw-learn-more-link = অধিক জানক
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
 # when searching for the old name. The accesskey is unused.
@@ -308,12 +319,14 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-learn-more = অধিক জানক
 
 ## Privacy Section - Address Bar
 
 
 ## Privacy Section - Content Blocking
 
+content-blocking-learn-more = অধিক জানক
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -327,6 +340,7 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Permissions
 
+permissions-notification-link = অধিক জানক
 permissions-block-popups =
     .label = প'প-আপ উইণ্ড'সমূহ প্ৰতিৰোধ কৰক
     .accesskey = B
@@ -336,15 +350,21 @@ permissions-block-popups-exceptions =
 permissions-addon-exceptions =
     .label = ব্যতিক্ৰমসমূহ…
     .accesskey = E
+permissions-a11y-privacy-link = অধিক জানক
 
 ## Privacy Section - Data Collection
 
+collection-health-report-telemetry-disabled-link = অধিক জানক
+collection-health-report-link = অধিক জানক
+addon-recommendations-link = অধিক জানক
+collection-backlogged-crash-reports-link = অধিক জানক
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-enable-safe-browsing-link = অধিক জানক
 
 ## Privacy Section - Certificates
 
@@ -352,9 +372,13 @@ certs-header = প্ৰমাণপত্ৰসমূহ
 certs-enable-ocsp =
     .label = প্ৰমাণপত্ৰসমূহৰ বৰ্তমান বৈধতা সুনিশ্চিত কৰিবলে OCSP ৰেস্পণ্ডাৰক প্ৰশ্ন কৰক
     .accesskey = Q
+space-alert-learn-more-button =
+    .label = অধিক জানক
+    .accesskey = ন
 
 ## Privacy Section - HTTPS-Only
 
+httpsonly-learn-more = অধিক জানক
 
 ## The following strings are used in the Download section of settings
 
