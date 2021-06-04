@@ -277,6 +277,12 @@ mr1-onboarding-reduce-motion-button-label = Eipe’aite mbovy’aha
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
+# Title used on welcome page when Firefox is not pinned
+mr1-onboarding-pin-header =
+    { PLATFORM() ->
+        [macos] Emoĩ { -brand-short-name } nde Dock-pe eike pya’e hag̃ua
+       *[other] Emboja { -brand-short-name } ne rembiaporã rendáre eike pya’e hag̃ua
+    }
 # Primary button string used on welcome page when Firefox is not pinned.
 mr1-onboarding-pin-primary-button-label =
     { PLATFORM() ->
@@ -302,6 +308,7 @@ mr1-onboarding-sign-in-button-label = Eñepyrũ tembiapo
 ## when Firefox is not default browser
 
 mr1-onboarding-default-header = Ejapo { -brand-short-name }-gui ne kundahára ypygua
+mr1-onboarding-default-subtitle = Embopya’e, emohekorosã ha emoñemigua ijehegui.
 mr1-onboarding-default-primary-button-label = Ejapo kundahára ijypyguárõ
 
 ## Multistage MR1 onboarding strings (about:welcome pages)

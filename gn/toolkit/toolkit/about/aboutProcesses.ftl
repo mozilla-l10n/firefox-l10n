@@ -85,6 +85,9 @@ about-processes-unknown-process = Ambue: { $type } ({ $pid })
 about-processes-web-isolated-process = { $origin } ({ $pid })
 about-processes-web-large-allocation-process = { $origin } ({ $pid }, tuicha)
 about-processes-with-coop-coep-process = { $origin } ({ $pid }, teñoiha ojuasáva mombyrygua)
+about-processes-web-isolated-process-private = { $origin } — Tekoñemi ({ $pid })
+about-processes-web-large-allocation-process-private = { $origin } — Tekoñemi ({ $pid }), tuicha)
+about-processes-with-coop-coep-process-private = { $origin } — Tekoñemi ({ $pid }, teñoiha ojuasáva mombyrygua)
 
 ## Details within processes
 
@@ -99,6 +102,21 @@ about-processes-thread-summary = Inimbo ({ $number })
 #   $name (String) The name assigned to the thread.
 #   $tid (String) The thread id of this thread, assigned by the OS.
 about-processes-thread-name = Inimbo { $tid }: { $name }
+# Single-line summary of threads (non-idle process)
+# Variables:
+#    $number (Number) The number of threads in the process. Typically larger
+#                     than 30. We don't expect to ever have processes with less
+#                     than 5 threads.
+#    $active (Number) The number of active threads in the process.
+#                     The value will be greater than 0 and will never be
+#                     greater than $number.
+#    $list (String) Comma separated list of active threads.
+#                   Can be an empty string if the process is idle.
+about-processes-active-threads =
+    { $active ->
+        [one] { $active } inimbo hendýva { $number }: { $list } mba’e
+       *[other] { $active } inimbokuéra hendýva { $number }: { $list } mba’e
+    }
 # Thread details
 # Variables:
 #   $name (String) The name assigned to the thread.
