@@ -425,7 +425,7 @@ bookmarks-toolbar-empty-message = Eike pya’e hag̃ua, emoĩ nde rechaukaha tec
 ## WebRTC Pop-up notifications
 
 popup-select-camera =
-    .value = Ta’angamýi hetápe guarãva:
+    .value = Ta’angamýi hetápe g̃uarãva:
     .accesskey = C
 popup-select-microphone =
     .value = Ñe’ẽatãha hetápe g̃uarãva:

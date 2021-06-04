@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-page-title = Marandu apañuãi oñemyatyrõ haguã
+page-title = Marandu apañuãi oñemyatyrõ hag̃ua
 page-subtitle = Ko kuatiarogue oguereko marandu aporekoguáva ikatúva eipuru emyatyrõse jave peteĩ apañuãi. Ehekáramo mbohovái umi porandu oikovéva  { -brand-short-name } rehegua, eike <a data-l10n-name="support-link">tenda eikekuaaha</a>.
 crashes-title = Marandu jejavyguáva
 crashes-id = ID momarandu
