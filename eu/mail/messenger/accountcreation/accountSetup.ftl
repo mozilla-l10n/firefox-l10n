@@ -187,6 +187,9 @@ insecure-dialog-confirm-button = Berretsi
 
 ## Warning Exchange confirmation dialog
 
+# Variables:
+#  $domain (String): The name of the server where the configuration was found, e.g. rackspace.com.
+exchange-dialog-question = { -brand-short-name } zure kontuko ezarpenak aurkitu ditu hemen: { $domain }. Jarraitu nahi duzu eta zure kredentzialak aurkeztu?
 exchange-dialog-confirm-button = Saio-hasiera
 exchange-dialog-cancel-button = Utzi
 
