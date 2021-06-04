@@ -78,6 +78,7 @@ login-intro-instruction-fxa-settings = { -sync-brand-short-name } ছেটি�
 about-logins-intro-instruction-help = অধিক সহায়ৰ বাবে <a data-l10n-name="help-link">{ -lockwise-brand-short-name } সাহায্য</a>লৈ যাওক
 login-intro-instructions-fxa = সেই ডিভাইচত আপোনাৰ { -fxaccount-brand-name(capitalization: "sentence") } সৃষ্টি বা ছাইন ইন কৰক য'ত আপোনাৰ লগইনবোৰ সাঁচি থোৱা আছে।
 login-intro-instructions-fxa-settings = ছেটিংছলৈ যাওক > ছিংক > ছিংক চালু কৰক… লগিন আৰু পাছৱৰ্ডসমূহৰ চেকবক্সটো বাছনি কৰক।
+login-intro-instructions-fxa-help = অধিক সহায়ৰ বাবে <a data-l10n-name="help-link">{ -lockwise-brand-short-name } সাহায্য</a>লৈ যাওক।
 about-logins-intro-import = আপোনাৰ লগিনসমূহ আন কোনো ব্ৰাউজাৰত সঞ্চয় কৰা থাকিলে আপুনি <a data-l10n-name="import-link">সেয়া { -lockwise-brand-short-name }-ত আমদানি</a> কৰিব পাৰে
 about-logins-intro-import2 = যদি আপোনাৰ লগিনবোৰ { -brand-product-name }-ৰ বাহিৰত সাঁচি থোৱা আছে তেন্তে আপুনি <a data-l10n-name="import-file-link">কোনো ফাইলৰ পৰা</a> নাইবা <a data-l10n-name="import-browser-link">অন্য ব্ৰাউজাৰৰ পৰা সেইবোৰ আমদানি কৰিব পাৰে</a>
 
@@ -87,6 +88,7 @@ login-item-new-login-title = নতুন লগইন সৃষ্টি কৰ
 login-item-edit-button = সম্পাদনা
 about-logins-login-item-remove-button = আঁতৰাওক
 login-item-origin-label = ৱেবছাইট ঠিকনা
+login-item-tooltip-message = এইটো আপুনি লগ ইন কৰা ৱেবছাইটৰ সঠিক ঠিকনাৰ সৈতে মিলাটো নিশ্চিত কৰক।
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = ব্যৱহাৰকাৰীনাম
@@ -197,6 +199,8 @@ about-logins-confirm-remove-all-sync-dialog-title =
 about-logins-confirm-export-dialog-title = লগিন আৰু পাছৱৰ্ড ৰপ্তানি কৰক
 about-logins-confirm-export-dialog-message = আপোনাৰ পাছৱৰ্ডসমূহ পঢ়াযোগ্য পাঠ (যেনে- BadP@ssw0rd) হিচাপে সঞ্চয় কৰা হ'ব গতিকে ৰপ্তানি ফাইলটো খুলিব পৰা যিকোনো ব্যক্তিয়ে সেয়া চাব পাৰে।
 about-logins-confirm-export-dialog-confirm-button = ৰপ্তানি কৰক…
+about-logins-alert-import-title = আমদানি সম্পূৰ্ণ হ'ল
+about-logins-alert-import-message = আমদানিৰ বিতং সাৰাংশ চাওক
 confirm-discard-changes-dialog-title = সঞ্চয় নকৰা সালসলনি নাকচ কৰিবনে?
 confirm-discard-changes-dialog-message = সঞ্চয় নকৰা সকলো সালসলনি হেৰাই যাব।
 confirm-discard-changes-dialog-confirm-button = নাকচ কৰক
@@ -258,11 +262,23 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] CSV নথি
        *[other] CSV ফাইল
     }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] TSV নথিপত্ৰ
+       *[other] TSV ফাইল
+    }
 
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-dialog-title = আমদানি সম্পূৰ্ণ হ'ল
+about-logins-import-dialog-done = হৈ গ'ল
+about-logins-import-dialog-error-title = আমদানি ত্ৰুটি
+about-logins-import-dialog-error-conflicting-values-title = একেটা লগিনৰ বাবে একাধিক বিৰোধী মান
+about-logins-import-dialog-error-conflicting-values-description = উদাহৰণস্বৰূপে- একেটা লগিনৰ বাবে একাধিক ব্যৱহাৰকাৰীনাম, পাছৱৰ্ড, URL, ইত্যাদি।
 
 ##
 ## Variables:
