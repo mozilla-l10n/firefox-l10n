@@ -32,12 +32,35 @@ upgrade-dialog-new-secondary-button = Ahora no
 # theme selection screen.
 upgrade-dialog-new-primary-win7-button = ¡Ok, ya caché!
 
+## Pin Firefox screen
+##
+## These title, subtitle and button strings differ between platforms as they
+## match the OS' application context menu item action where Windows uses "pin"
+## and "taskbar" while macOS "keep" and "Dock" (proper noun).
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-pin-title =
+    { PLATFORM() ->
+        [macos] Mantener { -brand-short-name } en tu Dock
+       *[other] Fijar { -brand-short-name } a tu barra de tareas
+    }
+upgrade-dialog-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Mantener en el Dock
+       *[other] Fijar a la barra de tareas
+    }
+upgrade-dialog-pin-secondary-button = Ahora no
+
 ## Default browser screen
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-default-title = ¿Hacer de { -brand-short-name } tu navegador primario?
 upgrade-dialog-default-subtitle = Obtén velocidad, seguridad y privacidad cada vez que navegas.
 upgrade-dialog-default-primary-button = Establecer como navegador predeterminado
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title-2 = Hacer de { -brand-short-name } el predeterminado
+upgrade-dialog-default-subtitle-2 = Pon velocidad, seguridad y privacidad en piloto automático.
+upgrade-dialog-default-primary-button-2 = Establecer como navegador predeterminado
 upgrade-dialog-default-secondary-button = Ahora no
 
 ## Theme selection screen
