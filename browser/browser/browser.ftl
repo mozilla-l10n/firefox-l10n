@@ -441,6 +441,14 @@ urlbar-placeholder-search-mode-other-bookmarks =
 urlbar-placeholder-search-mode-other-history =
     .placeholder = সন্ধানৰ পদ লিখক
     .aria-label = সন্ধানৰ ইতিহাস
+# This placeholder is used when searching open tabs.
+urlbar-placeholder-search-mode-other-tabs =
+    .placeholder = সন্ধানৰ পদ লিখক
+    .aria-label = টেবৰ সন্ধান কৰক
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = { $name }-এৰে সন্ধান কৰক নাইবা ঠিকনা লিখক
 urlbar-remote-control-notification-anchor =
     .tooltiptext = ব্ৰাউজাৰ ৰিম'ট কণ্ট্ৰ'লৰ আওতাত আছে
 urlbar-permissions-granted =
