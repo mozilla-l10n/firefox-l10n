@@ -36,6 +36,7 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = ঠিক আছে, বুজিছোঁ
     .buttonaccesskey = O
 appmenu-addon-post-install-message = <image data-l10n-name='addon-menu-icon'></image> মেন্যুত <image data-l10n-name='addon-install-icon'></image>-ত ক্লিক কৰি আপোনাৰ এড-অ'নবোৰ পৰিচালনা কৰক।
+appmenu-update-available-message2 = { -brand-shorter-name }-ৰ শেহতীয়া সংস্কৰণ ডাউনল'ড কৰক।
 appmenu-addon-post-install-incognito-checkbox =
     .label = এই এক্সটেনশ্যনক ব্যক্তিগত উইণ্ড'বোৰত চলাৰ অনুমতি দিয়ক
     .accesskey = A

@@ -5,8 +5,6 @@
 
 ## App Menu
 
-appmenuitem-update-banner =
-    .label-update-downloading = { -brand-shorter-name } আপডেট কৰি থকা হৈছে
 appmenuitem-protection-dashboard-title = সুৰক্ষা ডেশ্বব'ৰ্ড
 appmenuitem-customize-mode =
     .label = স্বনিৰ্বাচন…
@@ -53,24 +51,11 @@ whatsnew-panel-footer-checkbox =
 
 ## Help panel
 
-appmenu-help-troubleshooting-info =
-    .label = সমস্যামুক্তিৰ তথ্য
-    .accesskey = T
 appmenu-help-report-site-issue =
     .label = ছাইট সমস্যাৰ প্ৰতিবেদন দিয়ক…
 appmenu-help-feedback-page =
     .label = সঁহাৰি জমা দিয়ক…
     .accesskey = S
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = এড-অন সমূহ অসামৰ্থবান থকাকে পুনৰাম্ভ কৰক…
-    .accesskey = R
-appmenu-help-safe-mode-with-addons =
-    .label = এড-অনসমূহ সক্ৰিয় কৰি পুনৰাৰম্ভ কৰক
-    .accesskey = R
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -88,3 +73,8 @@ appmenu-help-not-deceptive =
 
 ## More Tools
 
+appmenu-customizetoolbar =
+    .label = টুলবাৰ কাষ্টমাইজ কৰক...
+appmenu-taskmanager =
+    .label = কাৰ্য্য ব্যৱস্থাপক
+appmenu-developer-tools-subheader = ব্ৰাউজাৰৰ সা-সঁজুলি
