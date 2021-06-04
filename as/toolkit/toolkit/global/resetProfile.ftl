@@ -12,3 +12,4 @@ refresh-profile-remove = আপোনাৰ এড-অনসমূহ আৰু 
 refresh-profile-restore = আপোনাৰ ব্ৰাউছাৰ সংহতিসমূহ অবিকল্পিতলৈ পুনৰ সংহতি কৰক
 refresh-profile = { -brand-short-name } ক টিউন আপ কৰক
 refresh-profile-button = { -brand-short-name } সতেজ কৰক…
+refresh-profile-learn-more = অধিক জানক
