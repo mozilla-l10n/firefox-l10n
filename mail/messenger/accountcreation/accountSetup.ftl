@@ -125,6 +125,10 @@ account-setup-result-no-encryption = Bez zabezpečenia
 account-setup-result-ssl = SSL/TLS
 account-setup-result-starttls = STARTTLS
 account-setup-result-outgoing-existing = Použiť existujúci server pre odosielanie pošty (SMTP)
+# Variables:
+#  $incoming (String): The email/username used to log into the incoming server
+#  $outgoing (String): The email/username used to log into the outgoing server
+account-setup-result-username-different = Server prichádzajúcej pošty: { $incoming }, server odchádzajúcej pošty: { $outgoing }
 
 ## Error messages
 
@@ -143,6 +147,9 @@ protocol-imap-option = { account-setup-result-imap }
 protocol-pop-option = { account-setup-result-pop }
 protocol-exchange-option = { account-setup-result-exchange }
 account-setup-hostname-label = Server:
+account-setup-port-label = Port:
+    .title = Nastavením hodnoty 0 zvolíte automatickú detekciu portu
+account-setup-auto-description = { -brand-short-name } sa pokúsi automaticky zistiť polia, ktoré zostávajú nevyplnené.
 account-setup-ssl-label = Zabezpečenie pripojenia:
 account-setup-outgoing-server-legend = Server odchádzajúcej pošty
 
@@ -172,6 +179,7 @@ account-setup-warning-cleartext = Server <b>{ $server }</b> nepoužíva šifrova
 account-setup-warning-cleartext-details = Nezabezpečené poštové servery nepoužívajú šifrované pripojenia na ochranu hesiel a súkromných informácií. Pri pripojení k tomuto serveru je možné vaše heslo a citlivé údaje prečítať treťou stranou.
 account-setup-insecure-server-checkbox = Rozumiem rizikám
     .accesskey = R
+account-setup-insecure-description = { -brand-short-name } vám môže umožniť získať vaše e-mailové správy použitím poskytnutej konfigurácie. Avšak mali by ste kontaktovať vášho poskytovateľa e-mailovej schránky alebo správcu systému a požiadať ho o údaje k neplatným pripojeniam. Ďalšie informácie nájdete na stránke <a data-l10n-name="thunderbird-faq-link">Thunderbird - Často kladené otázky</a>.
 insecure-dialog-cancel-button = Zmeniť nastavenia
     .accesskey = Z
 insecure-dialog-confirm-button = Potvrdiť
@@ -179,6 +187,10 @@ insecure-dialog-confirm-button = Potvrdiť
 
 ## Warning Exchange confirmation dialog
 
+# Variables:
+#  $domain (String): The name of the server where the configuration was found, e.g. rackspace.com.
+exchange-dialog-question = { -brand-short-name } našiel informácie o nastavení vášho účtu na serveri { $domain }. Chcete pokračovať a odoslať svoje prihlasovacie údaje?
+exchange-dialog-confirm-button = Prihlásiť sa
 exchange-dialog-cancel-button = Zrušiť
 
 ## Alert dialogs
@@ -192,3 +204,4 @@ account-setup-confirm-advanced-description = Toto dialógové okno bude zatvoren
 
 account-setup-addon-install-title = Nainštalovať
 account-setup-addon-install-intro = Doplnok tretej strany vám umožňuje prístup k vašej e-mailovej adrese na tomto serveri:
+account-setup-addon-no-protocol = Tento e-mailový server bohužiaľ nepodporuje otvorené protokoly. { account-setup-addon-install-intro }

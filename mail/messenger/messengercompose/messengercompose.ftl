@@ -166,3 +166,9 @@ many-public-recipients-bcc =
 many-public-recipients-ignore =
     .label = Ponechať príjemcov viditeľných
     .accesskey = P
+
+## Notifications
+
+# Variables:
+# $identity (string) - The name of the used identity, most likely an email address.
+compose-missing-identity-warning = Unikátna identita zodpovedajúca adrese odosielateľa nebola nájdená. Správa bude odoslaná pomocou súčasnej adresy odosielateľa a nastavení pre identitu { $identity }.

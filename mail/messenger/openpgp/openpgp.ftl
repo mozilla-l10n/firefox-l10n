@@ -303,6 +303,9 @@ openpgp-keygen-external-success = ID externého kľúča GnuPG bolo uložené!
 openpgp-radio-none =
     .label = Žiadny
 openpgp-radio-none-desc = Pre túto identitu nepoužívať OpenPGP.
+openpgp-radio-key-not-usable = Tento kľúč nie je možné použiť ako osobný kľúč, pretože chýba tajný kľúč.
+openpgp-radio-key-not-accepted = Ak chcete použiť tento kľúč, musíte ho schváliť ako osobný kľúč.
+openpgp-radio-key-not-found = Tento kľúč sa nepodarilo nájsť. Ak ho chcete použiť, musíte ho naimportovať do aplikácie { -brand-short-name }.
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = Platnosť vyprší: { $date }
 openpgp-key-expires-image =
