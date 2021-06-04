@@ -99,6 +99,9 @@ cfr-whatsnew-lockwise-take-link-text = এপ লাভ কৰক
 ## Search Bar
 
 cfr-whatsnew-searchbar-title = কমাই টাইপ কৰক, ঠিকনা দণ্ডিকাৰে অধিক বিচাৰি পাওক
+
+## Search bar
+
 cfr-whatsnew-searchbar-icon-alt-text = মেগনিফাইং গ্লাছ আইকন
 
 ## Picture-in-Picture
@@ -177,6 +180,10 @@ cfr-whatsnew-lockwise-icon-alt = { -lockwise-brand-short-name } আইকন
 ## Protections Dashboard message
 
 
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
+
+
 ## Better PDF message
 
 
@@ -185,9 +192,26 @@ cfr-whatsnew-lockwise-icon-alt = { -lockwise-brand-short-name } আইকন
 
 ## Fission Experiment Message
 
+cfr-doorhanger-fission-secondary-button = অধিক জানক
+    .accesskey = ন
 
 ## What's new: Cookies message
 
 
 ## What's new: Media controls message
+
+
+## What's new: Search shortcuts
+
+
+## What's new: Cookies protection
+
+
+## What's new: Better bookmarking
+
+
+## What's new: Cross-site cookie tracking
+
+
+## Full Video Support CFR message
 

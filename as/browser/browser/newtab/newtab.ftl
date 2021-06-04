@@ -48,6 +48,9 @@ newtab-topsites-add-button = যোগ কৰক
 ## Top Sites - Delete history confirmation dialog.
 
 
+## Top Sites - Sponsored label
+
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
@@ -156,9 +159,13 @@ newtab-section-header-pocket = { $provider }-ৰ দ্বাৰা পৰাম
 
 ## Pocket Content Section.
 
+newtab-pocket-learn-more = অধিক জানক
 newtab-pocket-cta-button = { -pocket-brand-name } পাওক
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
 newtab-error-fallback-refresh-link = পুনৰ চেষ্টা কৰিবলৈ পৃষ্ঠা সতেজ কৰক।
+
+## Customization Menu
+

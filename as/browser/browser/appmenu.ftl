@@ -74,7 +74,8 @@ appmenu-fxa-last-sync = { $time } অন্তিম ছিংক কৰা হ�
 appmenu-fxa-sync-and-save-data2 = ডাটা ছিংক কৰি সাঁচি থওক
 appmenu-fxa-signed-in-label = ছাইন ইন কৰক
 appmenu-fxa-setup-sync =
-    .label = ছিংকিং চালু কৰক…
+    .label = ছিংক কৰা চালু কৰক…
+appmenu-fxa-show-more-tabs = আৰু টেব দেখুৱাওক
 appmenuitem-save-page =
     .label = এই ধৰণে পৃষ্ঠা সংৰক্ষণ কৰক…
 
@@ -91,6 +92,11 @@ whatsnew-panel-footer-checkbox =
 ## performance profiles. To enable it go to profiler.firefox.com and click
 ## "Enable Profiler Menu Button".
 
+profiler-popup-title =
+    .value = { -profiler-brand-name }
+profiler-popup-reveal-description-button =
+    .aria-label = অধিক তথ্য প্ৰকাশ কৰক
+profiler-popup-learn-more = অধিক জানক
 
 ## History panel
 
