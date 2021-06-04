@@ -25,6 +25,13 @@ perftools-heading-local-build = Compilación local
 
 ##
 
+perftools-description-intro =
+    Las grabaciones abren <a>profiler.firefox.com</a> en una nueva pestaña. Todos los datos son almacenados
+    localmente, pero puedes elegir si quieres subirlos para compartirlos.
+perftools-description-local-build =
+    Si estás perfilando una compilación que hiciste tu, en este
+    equipo, por favor añade el objdir de tu compilación a la lista a continuación para que
+    pueda utilizarse para buscar información simbólica.
 
 ## The controls for the interval at which the profiler samples the code.
 
