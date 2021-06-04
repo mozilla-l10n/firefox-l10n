@@ -49,7 +49,11 @@ perftools-devtools-settings-label = Ajustes
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
+perftools-status-private-browsing-notice =
+    El perfilador se desactiva cuando se activa la navegación privada.
+    Cierra todas las ventanas privadas para volver a activar el perfilador
 perftools-status-recording-stopped-by-another-tool = Otra herramienta detuvo la grabación
+perftools-status-restart-required = Se debe reiniciar el navegador para activar esta función.
 
 ## These are shown briefly when the user is waiting for the profiler to respond.
 
@@ -69,9 +73,34 @@ perftools-button-edit-settings = Editar ajustes…
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
+perftools-thread-gecko-main =
+    .title = Los procesos principales tanto para el proceso padre como para los procesos de contenido
+perftools-thread-compositor =
+    .title = Combina diferentes elementos pintados en la página.
+perftools-thread-dom-worker =
+    .title = Esto se ocupa tanto de los web workers como de los service workers
+perftools-thread-renderer =
+    .title = Cuando WebRender está habilitado, el hilo que ejecuta las llamadas OpenGL
+perftools-thread-render-backend =
+    .title = El hilo WebRender RenderBackend
+perftools-thread-paint-worker =
+    .title = Cuando se habilita el pintado fuera del hilo principal, el hilo en el que se realiza el pintado
+perftools-thread-style-thread =
+    .title = El cálculo de estilo se divide en múltiples hilos
+pref-thread-stream-trans =
+    .title = Transporte de flujo de red
+perftools-thread-socket-thread =
+    .title = El hilo donde el código de red ejecuta cualquier llamada de socket de bloqueo
+perftools-thread-img-decoder =
+    .title = Hilos de decodificación de imágenes
+perftools-thread-dns-resolver =
+    .title = La resolución de DNS ocurre en este hilo
+perftools-thread-js-helper =
+    .title = Trabajo en segundo plano del motor JS, como compilaciones fuera del hilo principal
 
 ##
 
+perftools-record-all-registered-threads = Omitir las selecciones de arriba y grabar todos los hilos registrados
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
