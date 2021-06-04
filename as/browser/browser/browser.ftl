@@ -269,11 +269,23 @@ bookmarks-edit-bookmark = বুকমাৰ্ক সম্পাদন কৰ�
 bookmark-panel-cancel =
     .label = বাতিল কৰক
     .accesskey = ল
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [1] বুকমাৰ্ক আঁতৰাওক
+            [one] { $count }টা বুকমাৰ্ক আঁতৰাওক
+           *[other] { $count }টা বুকমাৰ্ক আঁতৰাওক
+        }
+    .accesskey = ত
 bookmark-panel-show-editor-checkbox =
     .label = সঞ্চয় কৰোঁতে এডিটৰ দেখুৱাব
     .accesskey = S
 bookmark-panel-done-button =
     .label = হৈ গ'ল
+bookmark-panel-save-button =
+    .label = সাঁচি থওক
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -282,12 +294,21 @@ bookmark-panel =
 
 ## Identity Panel
 
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-site-information = { $host }-ৰ ছাইটৰ তথ্য
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-header-security-with-host =
+    .title = { $host }-ৰ সংযোগৰ সুৰক্ষা
 identity-connection-not-secure = সংযোগ সুৰক্ষিত নহয়
 identity-connection-secure = সংযোগ সুৰক্ষিত
+identity-connection-failure = সংযোগৰ বিফলতা
 identity-connection-internal = এইখন এখন সুৰক্ষিত { -brand-short-name } পৃষ্ঠা।
 identity-connection-file = এই পৃষ্ঠাখন আপোনাৰ কম্পিউটাৰত সংৰক্ষিত।
 identity-extension-page = এই পৃষ্ঠাখন এক্সটেনশ্যন এটাৰ পৰা ল'ড কৰা হৈছে।
 identity-active-blocked = { -brand-short-name }-এ এই পৃষ্ঠাখনৰ কিছুমান অংশ অৱৰোধ কৰিছে যিবোৰ সুৰক্ষিত নহয়।
+identity-custom-root = এনে এক প্ৰমাণপত্ৰ জাৰীকৰ্তাৰ দ্বাৰা সংযোগ প্ৰমাণিত কৰা হৈছে যাক Mozilla-ই চিনি নাপায়।
 identity-passive-loaded = এই পৃষ্ঠাখনৰ কিছুমান অংশ সুৰক্ষিত নহয় (যেনে ছবিসমূহ)।
 identity-active-loaded = আপুনি এই পৃষ্ঠাখনত সুৰক্ষা নিষ্ক্ৰিয় কৰিছে।
 identity-weak-encryption = এই পৃষ্ঠাখনে দুৰ্বল এনক্ৰীপশ্যন ব্যৱহাৰ কৰে।
@@ -295,12 +316,14 @@ identity-insecure-login-forms = এই পৃষ্ঠাখনত প্ৰৱ�
 identity-permissions =
     .value = অনুমতিসমূহ
 identity-https-only-connection-upgraded = (HTTPSলৈ আপগ্ৰেড কৰা হৈছে)
+identity-https-only-label = কেৱল-HTTPS ম'ড
 identity-https-only-dropdown-on =
     .label = চালু
 identity-https-only-dropdown-off =
     .label = বন্ধ
 identity-https-only-info-turn-off2 = যদি পৃষ্ঠাখন নষ্ট যেন লাগে তেন্তে আপুনি অসুৰক্ষিত HTTP ব্যৱহাৰ কৰি পুনৰ ল'ড কৰিবলৈ এই ছাইটৰ বাবে কেৱল-HTTPS ম'ড বন্ধ কৰিব বিচাৰিব পাৰে।
 identity-permissions-storage-access-header = ক্ৰ'ছ-ছাইট কুকিজ
+identity-permissions-storage-access-learn-more = অধিক জানক
 identity-permissions-reload-hint = সাল-সলনি প্ৰয়োগ কৰিবলৈ আপুনি পৃষ্ঠাখন ৰিল'ড কৰিব লাগিব পাৰে।
 identity-permissions-empty = আপুনি এই ছাইটটোক কোনো বিশেষ অনুমতি প্ৰদান কৰা নাই।
 identity-clear-site-data =
@@ -351,6 +374,16 @@ popup-select-camera =
 popup-select-microphone =
     .value = অংশীদাৰী কৰিবলে মাইক্ৰফোন:
     .accesskey = M
+popup-select-camera-device =
+    .value = কেমেৰা:
+    .accesskey = C
+popup-select-camera-icon =
+    .tooltiptext = কেমেৰা
+popup-select-microphone-device =
+    .value = মাইক্ৰ'ফ'ন:
+    .accesskey = M
+popup-select-microphone-icon =
+    .tooltiptext = মাইক্ৰ'ফ'ন
 popup-all-windows-shared = আপোনাৰ পৰ্দাত থকা সকলো দৃশ্যমান উইণ্ড'ক অংশীদাৰী কৰা হব।
 popup-screen-sharing-not-now =
     .label = এতিয়া নহয়
