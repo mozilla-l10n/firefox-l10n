@@ -295,6 +295,9 @@ openpgp-keygen-external-success = L'ID da la clav GnuPG externa è vegnida memor
 openpgp-radio-none =
     .label = Nagina
 openpgp-radio-none-desc = Betg utilisar OpenPGP per questa identitad.
+openpgp-radio-key-not-usable = Questa clav na po betg vegnir duvrada sco clav persunala perquai che la clav secreta manca!
+openpgp-radio-key-not-accepted = Per utilisar questa clav, la stos ti approvar sco clav persunala!
+openpgp-radio-key-not-found = Impussibel da chattar questa clav! Sche ti la vuls utilisar, la stos ti importar en { -brand-short-name }.
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = Scada ils: { $date }
 openpgp-key-expires-image =
@@ -634,5 +637,6 @@ dlg-button-retry = &Reempruvar
 dlg-button-skip = &Sursiglir
 # Strings used in enigmailCommon.js
 enig-error = Errur OpenPGP
+# Strings used in enigmailMsgBox.js
 enig-alert-title =
     .title = Avertiment OpenPGP

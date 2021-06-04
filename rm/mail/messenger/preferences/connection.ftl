@@ -21,6 +21,8 @@ connection-dialog-window =
             [macos] width: 44em !important
            *[other] width: 49em !important
         }
+connection-disable-extension =
+    .label = Deactivar l'extensiun
 connection-proxy-legend = Configurar ils proxies per l'access a l'internet
 proxy-type-no =
     .label = Nagin proxy

@@ -203,3 +203,5 @@ account-setup-confirm-advanced-description = Quest dialog vegn serrà ed in cont
 ## Addon installation section
 
 account-setup-addon-install-title = Installar
+account-setup-addon-install-intro = In supplement dad ina terza partida po ta pussibilitar dad acceder al conto dad e-mail sin quest server:
+account-setup-addon-no-protocol = Quest server dad e-mail na sustegna deplorablamain betg protocols averts. { account-setup-addon-install-intro }

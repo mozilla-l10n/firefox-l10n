@@ -160,3 +160,9 @@ many-public-recipients-bcc =
 many-public-recipients-ignore =
     .label = Mantegnair visibel ils destinaturs
     .accesskey = M
+
+## Notifications
+
+# Variables:
+# $identity (string) - The name of the used identity, most likely an email address.
+compose-missing-identity-warning = Betg chattà ina identitad univoca che correspunda a l'adressa «da». Il messadi vegn tramess cun utilisar il champ «da» actual ed ils parameters da l'identitad { $identity }.
