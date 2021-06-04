@@ -43,6 +43,8 @@ options-sourceeditor-label = Preferencies del editor
 
 # The heading (this item is also used in perftools.ftl)
 options-context-advanced-settings = Axustes avanzaos
+# The label for checkbox that toggles JavaScript on or off
+options-disable-javascript-label = Desactivar JavaScript *
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = Activar la depuración remota
 # The message shown for settings that trigger page reload
