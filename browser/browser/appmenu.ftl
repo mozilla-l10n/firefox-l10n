@@ -5,6 +5,12 @@
 
 ## App Menu
 
+appmenuitem-update-banner3 =
+    .label-update-downloading = { -brand-shorter-name }-ৰ আপডেট ডাউনল'ড কৰক
+    .label-update-available = আপডেট উপলব্ধ — এতিয়াই ডাউনল'ড কৰক
+    .label-update-manual = আপডেট উপলব্ধ — এতিয়াই ডাউনল'ড কৰক
+    .label-update-unsupported = আপডেট কৰিব পৰা নগ'ল — ছিষ্টেম অসংগত
+    .label-update-restart = আপডেট উপলব্ধ — এতিয়াই পুনৰাৰম্ভ কৰক
 appmenuitem-protection-dashboard-title = সুৰক্ষা ডেশ্বব'ৰ্ড
 appmenuitem-customize-mode =
     .label = স্বনিৰ্বাচন…
@@ -15,6 +21,30 @@ appmenuitem-new-window =
     .label = নতুন উইণ্ড'
 appmenuitem-new-private-window =
     .label = নতুন ব্যক্তিগত উইণ্ড'
+appmenuitem-passwords =
+    .label = পাছৱৰ্ড
+appmenuitem-addons-and-themes =
+    .label = এড-অন আৰু থীম
+appmenuitem-find-in-page =
+    .label = পৃষ্ঠাত বিচাৰক…
+appmenuitem-more-tools =
+    .label = আৰু সা-সঁজুলি
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] প্ৰস্থান কৰক
+           *[other] প্ৰস্থান কৰক
+        }
+appmenu-menu-button-closed2 =
+    .tooltiptext = এপ্লিকেশ্যনৰ মেন্যু খোলক
+    .label = { -brand-short-name }
+appmenu-menu-button-opened2 =
+    .tooltiptext = এপ্লিকেশ্যনৰ মেন্যু বন্ধ কৰক
+    .label = { -brand-short-name }
+# Settings is now used to access the browser settings across all platforms,
+# instead of Options or Preferences.
+appmenuitem-settings =
+    .label = ছেটিংছ
 
 ## Zoom and Fullscreen Controls
 
@@ -29,6 +59,22 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = এতিয়া সংমিহলি কৰক
+appmenu-remote-tabs-sign-into-sync =
+    .label = ছিংক কৰিবলৈ ছাইন ইন কৰক…
+appmenu-remote-tabs-turn-on-sync =
+    .label = ছিংক চালু কৰক…
+appmenuitem-fxa-toolbar-sync-now2 = এতিয়াই ছিংক কৰক
+appmenuitem-fxa-manage-account = একাউণ্ট পৰিচালনা কৰক
+appmenu-fxa-header2 = { -fxaccount-brand-name }
+# Variables
+# $time (string) - Localized relative time since last sync (e.g. 1 second ago,
+# 3 hours ago, etc.)
+appmenu-fxa-last-sync = { $time } অন্তিম ছিংক কৰা হৈছে
+    .label = { $time } অন্তিম ছিংক কৰা হৈছে
+appmenu-fxa-sync-and-save-data2 = ডাটা ছিংক কৰি সাঁচি থওক
+appmenu-fxa-signed-in-label = ছাইন ইন কৰক
+appmenu-fxa-setup-sync =
+    .label = ছিংকিং চালু কৰক…
 appmenuitem-save-page =
     .label = এই ধৰণে পৃষ্ঠা সংৰক্ষণ কৰক…
 
