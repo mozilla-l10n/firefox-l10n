@@ -8,3 +8,6 @@ calendar-print-layout-month-grid = Grille mensuelle
 calendar-print-layout-week-planner = Grille hebdomadaire
 calendar-print-filter-events = Évènements
 calendar-print-filter-tasks = Tâches
+calendar-print-filter-taskswithnoduedate = Tâches sans date d’échéance
+calendar-print-range-from = De
+calendar-print-next-button = Suivant
