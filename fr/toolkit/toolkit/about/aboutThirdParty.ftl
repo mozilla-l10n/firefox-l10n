@@ -4,10 +4,7 @@
 
 third-party-page-title = Informations sur les modules tiers
 third-party-section-title = Liste des modules tiers dans { -brand-short-name }
-third-party-intro =
-    Cette page affiche les modules tiers qui ont été injectés dans votre
-    { -brand-short-name }. Tout module qui n'est pas signé par Microsoft ou
-    { -vendor-short-name } est considéré comme un module tiers.
+third-party-intro = Cette page affiche les modules tiers qui ont été injectés dans votre { -brand-short-name }. Tout module qui n’est pas signé par Microsoft ou { -vendor-short-name } est considéré comme un module tiers.
 third-party-header-module-list = Liste des modules
 third-party-message-no-duration = Non enregistré
 third-party-detail-version = Version du fichier
@@ -17,6 +14,8 @@ third-party-detail-occurrences = Occurrences
 third-party-th-process = Processus
 third-party-th-duration = Durée de chargement (ms)
 third-party-th-status = État
+third-party-tag-background = Arrière-plan
+    .title = Ce module n’a pas bloqué l’application car il était chargé en arrière-plan.
 third-party-unsigned-icon =
     .title = Ce module n’est pas signé
 third-party-status-loaded = Chargé
