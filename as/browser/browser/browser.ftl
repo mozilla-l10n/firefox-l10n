@@ -391,6 +391,15 @@ popup-screen-sharing-not-now =
 popup-screen-sharing-never =
     .label = কেতিয়াও অনুমতি নিদিব
     .accesskey = N
+popup-silence-notifications-checkbox = ভাগ-বতৰা কৰাৰ সময়ত { -brand-short-name }-ৰ জাননীবোৰ নিষ্ক্ৰিয় কৰিব
+popup-silence-notifications-checkbox-warning = আপুনি ভাগ-বতৰা কৰাৰ সময়ত { -brand-short-name }-এ জাননী নেদেখুৱায় ।
+popup-screen-sharing-block =
+    .label = বাধা দিয়ক
+    .accesskey = য়
+popup-screen-sharing-always-block =
+    .label = সদায় বাধা দিব
+    .accesskey = স
+popup-mute-notifications-checkbox = ভাগ-বতৰা কৰাৰ সময়ত ৱেবছাইটৰ জাননীবোৰ নিমাত কৰিব
 
 ## WebRTC window or screen share tab switch warning
 
@@ -408,6 +417,30 @@ urlbar-default-placeholder =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = ঠিকনা সন্ধান কৰক অথবা সুমুৱাওক
+# This placeholder is used in search mode with search engines that search the
+# entire web.
+# Variables
+#  $name (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-placeholder-search-mode-web-2 =
+    .placeholder = ৱেবত সন্ধান কৰক
+    .aria-label = { $name }-এৰে সন্ধান কৰক
+# This placeholder is used in search mode with search engines that search a
+# specific site (e.g., Amazon).
+# Variables
+#  $name (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-placeholder-search-mode-other-engine =
+    .placeholder = সন্ধানৰ পদ লিখক
+    .aria-label = { $name }-ৰ সন্ধান কৰক
+# This placeholder is used when searching bookmarks.
+urlbar-placeholder-search-mode-other-bookmarks =
+    .placeholder = সন্ধানৰ পদ লিখক
+    .aria-label = বুকমাৰ্কৰ সন্ধান কৰক
+# This placeholder is used when searching history.
+urlbar-placeholder-search-mode-other-history =
+    .placeholder = সন্ধানৰ পদ লিখক
+    .aria-label = সন্ধানৰ ইতিহাস
 urlbar-remote-control-notification-anchor =
     .tooltiptext = ব্ৰাউজাৰ ৰিম'ট কণ্ট্ৰ'লৰ আওতাত আছে
 urlbar-permissions-granted =
