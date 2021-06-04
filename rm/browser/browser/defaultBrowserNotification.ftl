@@ -14,6 +14,7 @@ default-browser-notification-button =
 
 default-browser-prompt-title-pin = Definir { -brand-short-name } sco tes navigatur principal?
 default-browser-prompt-message-pin = Plazzescha { -brand-short-name } uschia ch'il navigatur è adina per mauns – al definescha sco navigatur da standard ed al fixescha en tia taskbar.
+default-browser-prompt-message-pin-mac = Plazzescha { -brand-short-name } uschia ch'il navigatur è adina per mauns – al definescha sco navigatur da standard ed al fixescha en tes Dock.
 default-browser-prompt-button-primary-pin = Definir sco navigatur principal
 default-browser-prompt-title-alt = Definir { -brand-short-name } sco navigatur da standard?
 default-browser-prompt-message-alt = Va per sveltezza, segirezza e sfera privata durant che ti navigheschas.
