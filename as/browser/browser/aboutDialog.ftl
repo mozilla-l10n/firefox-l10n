@@ -13,6 +13,7 @@ update-updateButton =
     .accesskey = R
 update-checkingForUpdates = আপডেটৰ বাবে পৰিক্ষা চলি আছে…
 update-downloading = <img data-l10n-name="icon"/>আপডেট ডাউনল'ড হৈ আছে — <label data-l10n-name="download-status"/>
+update-downloading-message = আপডেট ডাউনল'ড হৈ আছে — <label data-l10n-name="download-status"/>
 update-applying = আপডেইট প্ৰয়োগ কৰা হৈছে…
 update-failed = আপডেট ব্যৰ্থ। <label data-l10n-name="failed-link">শেহতীয়া সংস্কৰণ ডাউনল'ড কৰক</label>
 update-failed-main = আপডেট ব্যৰ্থ। <a data-l10n-name="failed-link-main">শেহতীয়া সংস্কৰণ ডাউনল'ড কৰক</a>
@@ -24,6 +25,8 @@ update-unsupported = আপুনি এই চিস্টেমত ততো�
 update-restarting = পুনৰাৰম্ভ হৈ আছে…
 channel-description = আপুনি বৰ্তমানে <label data-l10n-name="current-channel"></label> আপডেইট চেনেলত আছে।{ " " }
 warningDesc-version = { -brand-short-name } পৰিক্ষামূলক আৰু অস্থিৰ হব পাৰে।
+aboutdialog-help-user = { -brand-product-name } সহায়
+aboutdialog-submit-feedback = মতামত দাখিল কৰক
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> এটা <label data-l10n-name="community-exp-creditsLink">বিশ্বব্যাপী সম্প্ৰদায়</label> যি ৱেবক মুক্ত, ৰাজহুৱা আৰু সকলোৱে অভিগম কৰিব পৰা বনাবলে একেলগে কাম কৰি আছে।
 community-2 = { -brand-short-name } ৰূপাংকণ কৰিছে <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, এটা <label data-l10n-name="community-creditsLink">বিশ্বব্যাপী সম্প্ৰদায়</label> যি ৱেবক মুক্ত, ৰাজহুৱা আৰু সকলোৱে অভিগম কৰিব পৰা বনাবলে একেলগে কাম কৰি আছে।
 helpus = সহায় কৰিব বিচাৰে? <label data-l10n-name="helpus-donateLink">কিবা অনুদান দিয়ক</label> অথবা <label data-l10n-name="helpus-getInvolvedLink">জড়িত হওক!</label>

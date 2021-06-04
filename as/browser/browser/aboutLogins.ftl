@@ -18,6 +18,7 @@ login-filter =
 create-login-button = নতুন লগইন সৃষ্টি কৰক
 fxaccounts-sign-in-text = আপোনাৰ পাছৱৰ্ডসমূহ আপোনাৰ অন্যান্য ডিভাইচত পাওক
 fxaccounts-sign-in-button = { -sync-brand-short-name }-ত ছাইন ইন কৰক
+fxaccounts-sign-in-sync-button = ছিংক কৰিবলৈ ছাইন ইন কৰক
 fxaccounts-avatar-button =
     .title = একাউণ্ট পৰিচালনা
 
@@ -69,12 +70,14 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = আপোনাৰ সাঁচি থোৱা লগইনবোৰ বিচাৰি আছে? { -sync-brand-short-name } ছেট আপ কৰক।
-about-logins-login-intro-heading-logged-out = আপোনাৰ সাঁচি থোৱা লগইনবোৰ বিচাৰি আছে? { -sync-brand-short-name } ছেট আপ নাইবা আমদানি কৰক।
+about-logins-login-intro-heading-logged-out2 = আপোনাৰ সাঁচি থোৱা লগইন বিচাৰি আছে নেকি? ছিংক চালু কৰক নাইবা সেইবোৰ আমদানি কৰক।
 about-logins-login-intro-heading-logged-in = কোনো চিংক্‌ড লগইন পোৱা নগ'ল।
 login-intro-description = যদি আপুনি আপোনাৰ লগইনবোৰ বেলেগ কোনো ডিভাইচত থকা { -brand-product-name }-ত সাঁচি থোৱা কৰিছে তেন্তে সেয়া ইয়াত এনেকৈ পাব:
 login-intro-instruction-fxa = সেই ডিভাইচত আপোনাৰ { -fxaccount-brand-name } সৃষ্টি বা ছাইন ইন কৰক য'ত আপোনাৰ লগইনবোৰ সাঁচি থোৱা কৰি থোৱা আছে।
 login-intro-instruction-fxa-settings = { -sync-brand-short-name } ছেটিংছত লগইনবোৰৰ চ্চেকব'ক্স চয়ন কৰাটো সুনিশ্চিত কৰক
 about-logins-intro-instruction-help = অধিক সহায়ৰ বাবে <a data-l10n-name="help-link">{ -lockwise-brand-short-name } সাহায্য</a>লৈ যাওক
+login-intro-instructions-fxa = সেই ডিভাইচত আপোনাৰ { -fxaccount-brand-name(capitalization: "sentence") } সৃষ্টি বা ছাইন ইন কৰক য'ত আপোনাৰ লগইনবোৰ সাঁচি থোৱা আছে।
+login-intro-instructions-fxa-settings = ছেটিংছলৈ যাওক > ছিংক > ছিংক চালু কৰক… লগিন আৰু পাছৱৰ্ডসমূহৰ চেকবক্সটো বাছনি কৰক।
 about-logins-intro-import = আপোনাৰ লগিনসমূহ আন কোনো ব্ৰাউজাৰত সঞ্চয় কৰা থাকিলে আপুনি <a data-l10n-name="import-link">সেয়া { -lockwise-brand-short-name }-ত আমদানি</a> কৰিব পাৰে
 about-logins-intro-import2 = যদি আপোনাৰ লগিনবোৰ { -brand-product-name }-ৰ বাহিৰত সাঁচি থোৱা আছে তেন্তে আপুনি <a data-l10n-name="import-file-link">কোনো ফাইলৰ পৰা</a> নাইবা <a data-l10n-name="import-browser-link">অন্য ব্ৰাউজাৰৰ পৰা সেইবোৰ আমদানি কৰিব পাৰে</a>
 
@@ -255,3 +258,21 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] CSV নথি
        *[other] CSV ফাইল
     }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+
+## Logins import report page
+
