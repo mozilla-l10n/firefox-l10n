@@ -15,10 +15,8 @@
 # Text displayed for the updated time of the service worker. The <time> element will
 # display the last update time of the service worker script.
 serviceworker-worker-updated = <time>{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time> আপডেট কৰা হৈছিল
-
 # Text displayed next to the URL for the source of the service worker (e-g. "Source my/path/to/worker-js")
 serviceworker-worker-source = উৎস
-
 # Text displayed next to the current status of the service worker.
 serviceworker-worker-status = স্থিতি
 
@@ -28,7 +26,7 @@ serviceworker-worker-status = স্থিতি
 # Service Worker status. A running service worker is registered, currently executed, can
 # be debugged and stopped.
 serviceworker-worker-status-running = চলি আছে
-
 # Service Worker status. A stopped service worker is registered but not currently active.
 serviceworker-worker-status-stopped = বন্ধ কৰা হৈছে
-
+# Link will open https://developer.mozilla.org/docs/Web/API/Service_Worker_API/Using_Service_Workers
+serviceworker-empty-intro-link = অধিক জানক
