@@ -105,6 +105,18 @@ main-context-menu-bookmark-add =
     .aria-label = এই পৃষ্ঠাখন বুকমাৰ্ক কৰক
     .accesskey = m
     .tooltiptext = এই পৃষ্ঠাখন বুকমাৰ্ক কৰক
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-add-mac =
+    .label = পৃষ্ঠা বুকমাৰ্ক কৰক
+    .accesskey = ক
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-edit-mac =
+    .label = বুকমাৰ্ক সম্পাদন কৰক
+    .accesskey = ক
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-add-with-shortcut =
@@ -139,6 +151,9 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-bookmark-this-link =
     .label = এই লিংক পত্ৰচিহ্ন কৰক
     .accesskey = L
+main-context-menu-bookmark-link =
+    .label = লিংক বুকমাৰ্ক কৰক
+    .accesskey = ৰ
 main-context-menu-save-link =
     .label = এই ধৰণে লিংক সংৰক্ষণ কৰক…
     .accesskey = k
@@ -161,6 +176,9 @@ main-context-menu-copy-email =
 main-context-menu-copy-link =
     .label = লিংক অৱস্থান কপি কৰক
     .accesskey = a
+main-context-menu-copy-link-simple =
+    .label = লিংক কপি কৰক
+    .accesskey = L
 
 ## Media (video/audio) controls
 ##
@@ -203,6 +221,9 @@ main-context-menu-media-play-speed-faster =
 main-context-menu-media-play-speed-fastest =
     .label = হাস্যকৰ (2×)
     .accesskey = L
+main-context-menu-media-play-speed-2 =
+    .label = গতি
+    .accesskey = গ
 main-context-menu-media-play-speed-slow-2 =
     .label = 0.5×
 main-context-menu-media-play-speed-normal-2 =

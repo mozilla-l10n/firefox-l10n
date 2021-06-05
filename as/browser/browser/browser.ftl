@@ -247,6 +247,18 @@ search-one-offs-context-set-as-default-private =
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
+# Shown when adding new engines from the address bar shortcut buttons or context
+# menu, or from the search bar shortcut buttons.
+# Variables:
+#  $engineName (String): The name of the engine.
+search-one-offs-add-engine =
+    .label = “{ $engineName }” যোগ কৰক
+    .tooltiptext = “{ $engineName }” ছাৰ্চ ইঞ্জিন যোগ কৰক
+    .aria-label = “{ $engineName }” ছাৰ্চ ইঞ্জিন যোগ কৰক
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu =
+    .label = ছাৰ্চ ইঞ্জিন যোগ কৰক
 
 ## Local search mode one-off buttons
 ## Variables:
@@ -321,6 +333,8 @@ identity-https-only-dropdown-on =
     .label = চালু
 identity-https-only-dropdown-off =
     .label = বন্ধ
+identity-https-only-dropdown-off-temporarily =
+    .label = অস্থায়ীভাৱে বন্ধ
 identity-https-only-info-turn-off2 = যদি পৃষ্ঠাখন নষ্ট যেন লাগে তেন্তে আপুনি অসুৰক্ষিত HTTP ব্যৱহাৰ কৰি পুনৰ ল'ড কৰিবলৈ এই ছাইটৰ বাবে কেৱল-HTTPS ম'ড বন্ধ কৰিব বিচাৰিব পাৰে।
 identity-permissions-storage-access-header = ক্ৰ'ছ-ছাইট কুকিজ
 identity-permissions-storage-access-learn-more = অধিক জানক
