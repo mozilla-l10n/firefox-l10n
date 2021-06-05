@@ -187,9 +187,21 @@ insecure-dialog-confirm-button = Confirmar
 
 ## Warning Exchange confirmation dialog
 
+# Variables:
+#  $domain (String): The name of the server where the configuration was found, e.g. rackspace.com.
+exchange-dialog-question = { -brand-short-name } encontró la información de configuración de su cuenta en { $domain }. ¿QUiere continuar y enviar sus credenciales?
+exchange-dialog-confirm-button = Iniciar sesión
+exchange-dialog-cancel-button = Cancelar
 
 ## Alert dialogs
 
+account-setup-creation-error-title = Error creando cuenta
+account-setup-error-server-exists = El servidor de entrada ya existe.
+account-setup-confirm-advanced-title = Confirmar configuración avanzada
+account-setup-confirm-advanced-description = Este diálogo se cerrará y se creará una cuenta con la configuración actual, aún cuando la configuración sea incorrecta. ¿Quiere continuar?
 
 ## Addon installation section
 
+account-setup-addon-install-title = Instalar
+account-setup-addon-install-intro = Un complemento de terceros puede permitirle acceder a su cuenta de correo electrónico en este servidor:
+account-setup-addon-no-protocol = Este servidor de correo desafortunadamente no soporta protocolos abiertos. { account-setup-addon-install-intro }
