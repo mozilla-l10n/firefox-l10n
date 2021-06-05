@@ -181,7 +181,7 @@ account-setup-insecure-server-checkbox = Entiendo los riesgos
     .accesskey = i
 account-setup-insecure-description = { -brand-short-name } puede permitirle acceder a su correo utilizando las configuraciones proporcionadas. Sin embargo, debe comunicarse con su administrador o proveedor de correo electrónico con respecto a estas conexiones incorrectas. Consulte las <a data-l10n-name="thunderbird-faq-link"> preguntas frecuentes sobre Thunderbird </a> para obtener más información.
 insecure-dialog-cancel-button = Cambiar la configuración
-    .accesskey = S
+    .accesskey = o
 insecure-dialog-confirm-button = Confirmar
     .accesskey = C
 
