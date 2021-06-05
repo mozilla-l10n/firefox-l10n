@@ -49,7 +49,6 @@ category-experimental =
     .tooltiptext = { -brand-short-name } Փորձեր
 pane-experimental-subtitle = Շարունակեք զգուշորեն
 pane-experimental-search-results-header = { -brand-short-name }-ի փորձեր. զգուշությամբ շարունակեք
-pane-experimental-description = Նախապատվությունների ընդլայնված կազմաձևի փոփոխումը կարող է ազդել { -brand-short-name }-ի արդյունավետության կամ անվտանգության վրա:
 help-button-label = { -brand-short-name }-ի աջակցում
 addons-button-label = Ընդլայնումներ և Ոճեր
 focus-search =
@@ -658,7 +657,7 @@ sync-currently-syncing-tabs = Բացել ներդիրները
 sync-currently-syncing-logins-passwords = Մուտքանուններ և գաղտնաբառեր
 sync-currently-syncing-addresses = Հասցեներ
 sync-currently-syncing-creditcards = Վարկային քարտեր
-sync-currently-syncing-addons = Հավելասարքեր
+sync-currently-syncing-addons = Հավելումներ
 sync-currently-syncing-prefs =
     { PLATFORM() ->
         [windows] Ընտրանքներ
@@ -700,7 +699,7 @@ sync-engine-creditcards =
     .tooltiptext = Անուններ, համարներ և սպառման ամսաթվեր (միայն դեսքթոփում)
     .accesskey = C
 sync-engine-addons =
-    .label = Հավելումները
+    .label = Հավելումներ
     .tooltiptext = Ընդլայնումներ և ոճեր Firefox-ի համար
     .accesskey = Հ
 sync-engine-prefs =
