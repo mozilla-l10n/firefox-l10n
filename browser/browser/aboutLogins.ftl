@@ -311,6 +311,7 @@ about-logins-import-dialog-error-file-format-title = ফাইল ফৰ্ম�
 about-logins-import-dialog-error-file-format-description = অশুদ্ধ বা সন্ধানহীন স্তম্ভৰ শিৰোশাৰী। ফাইলটোত ব্যৱহাৰকাৰীনাম, পাছৱৰ্ড আৰু URLৰ স্তম্ভ থকাটো নিশ্চিত কৰক।
 about-logins-import-dialog-error-file-permission-title = ফাইল পঢ়িব পৰা নগ'ল
 about-logins-import-dialog-error-file-permission-description = ফাইলটো পঢ়িবলৈ { -brand-short-name }-ৰ অনুমতি নাই। ফাইলৰ অনুমতিসমূহ সলনি কৰি চাওক।
+about-logins-import-dialog-error-unable-to-read-title = ফাইল পাৰ্ছ কৰিব পৰা নগ'ল
 about-logins-import-dialog-error-unable-to-read-description = আপুনি কোনো CSV বা TSV ফাইল বাছনি কৰাটো নিশ্চিত কৰক।
 about-logins-import-dialog-error-no-logins-imported = কোনো লগিন আমদানি কৰা হোৱা নাই
 about-logins-import-dialog-error-learn-more = অধিক জানক

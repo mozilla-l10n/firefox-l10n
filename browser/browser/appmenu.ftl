@@ -97,12 +97,37 @@ profiler-popup-title =
 profiler-popup-reveal-description-button =
     .aria-label = অধিক তথ্য প্ৰকাশ কৰক
 profiler-popup-learn-more = অধিক জানক
+profiler-popup-recording-screen = ৰেকৰ্ড হৈ আছে…
+profiler-popup-start-recording-button =
+    .label = ৰেকৰ্ডিং আৰম্ভ কৰক
+profiler-popup-start-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧1
+       *[other] Ctrl+Shift+1
+    }
+profiler-popup-capture-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧2
+       *[other] Ctrl+Shift+2
+    }
 
 ## History panel
 
+appmenu-manage-history =
+    .label = ইতিহাস পৰিচালনা কৰক
+appmenu-reopen-all-tabs = সকলো টেব পুনৰ খোলক
+appmenu-reopen-all-windows = সকলো উইণ্ড' পুনৰ খোলক
 
 ## Help panel
 
+appmenu-help-header =
+    .title = { -brand-shorter-name }-ৰ সহায়
+appmenu-about =
+    .label = { -brand-shorter-name }-ৰ বিষয়ে
+    .accesskey = ষ
+appmenu-get-help =
+    .label = সহায় পাওক
+    .accesskey = স
 appmenu-help-report-site-issue =
     .label = ছাইট সমস্যাৰ প্ৰতিবেদন দিয়ক…
 appmenu-help-feedback-page =
