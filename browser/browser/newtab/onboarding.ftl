@@ -267,15 +267,50 @@ onboarding-multistage-theme-description-alpenglow =
 mr1-welcome-screen-hero-text = Fieu e flomma per cumenzar
 # Caption for background image in about:welcome. "Soraya Osorio" is the name
 # of the person and shouldn't be translated.
+# In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
+# You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = Soraya Osorio – designra da mobiglias e fan da Firefox
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Deactivar las animaziuns
+
+## Title and primary button strings differ between platforms as they
+## match the OS' application context menu item action where Windows uses "pin"
+## and "taskbar" while macOS "keep" and "Dock" (proper noun).
+
+# Title used on welcome page when Firefox is not pinned
+mr1-onboarding-pin-header =
+    { PLATFORM() ->
+        [macos] Fixar { -brand-short-name } en tes Dock per l'access direct
+       *[other] Fixar { -brand-short-name } en tia taskbar per l'access direct
+    }
+# Primary button string used on welcome page when Firefox is not pinned.
+mr1-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Fixar en il Dock
+       *[other] Fixar en la taskbar
+    }
+
+## Multistage MR1 onboarding strings (about:welcome pages)
+
+# This string will be used on welcome page primary button label
+# when Firefox is both pinned and default
+mr1-onboarding-get-started-primary-button-label = Cumenzar
 mr1-onboarding-welcome-header = Bainvegni en { -brand-short-name }
 mr1-onboarding-set-default-pin-primary-button-label = Definir { -brand-short-name } sco mes navigatur principal
     .title = Definescha { -brand-short-name } sco navigatur da standard ed al fixeschan en la taskbar
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
 mr1-onboarding-set-default-only-primary-button-label = Definir { -brand-short-name } sco mes navigatur da standard
 mr1-onboarding-set-default-secondary-button-label = Betg ussa
 mr1-onboarding-sign-in-button-label = S'annunziar
+
+## Title, subtitle and primary button string used on set default onboarding screen
+## when Firefox is not default browser
+
+mr1-onboarding-default-header = Definescha { -brand-short-name } sco standard
+
+## Multistage MR1 onboarding strings (about:welcome pages)
+
 mr1-onboarding-import-header = Prenda tut cun tai
 mr1-onboarding-import-subtitle = Importescha tes pleds-clav, <br/>segnapaginas e dapli.
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
