@@ -21,15 +21,16 @@
 <li>Isal un erôr di ortografie, o di scriture, o di maiusculis te direzion?</li><li>Âstu i permès necessaris par acedi al ogjet desiderât?</li></ul>">
 
 <!ENTITY fileAccessDenied.title "Al è stât dineât l'acès al file">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>Al podarès jessi stât gjavât, mot, opûr i permès dal file a impedissin l'acès.</li></ul>">
 
-<!ENTITY generic.title "No si pues completâ la richieste.">
-<!ENTITY generic.longDesc "<p>Pal moment altris informazions su chest probleme o erôr no son disponibilis.</p>">
+<!ENTITY generic.title "Impussibil completâ la richieste.">
+<!ENTITY generic.longDesc "<p>Pal moment no son disponibilis altris informazions su chest probleme o erôr.</p>">
 
 <!ENTITY malformedURI.title "La direzion no je valide">
-<!ENTITY malformedURI.longDesc "<p>L'indiriç proviodût nol è intun formât ricognossût. Verifiche che no sedin erôrs te sbare dai indiriçs e torne a provâ.</p> ">
+<!ENTITY malformedURI.longDesc "<p>La direzion furnide no je intun formât ricognossût. Verifiche che no sedin erôrs te sbare de direzion e torne prove.</p> ">
 
 <!ENTITY netInterrupt.title "Trasferiment dai dâts interot">
-<!ENTITY netInterrupt.longDesc "<p>Il sgarfadôr si à conetût in mût coret, ma la conession e je stade fermade dilunc il trasferiment des informazions. Par plase torne a provâ.</p><ul><li>Rivistu a navigâ in altris sîts? Controle la conession ae rêt dal to ordenadôr.</li><li>Âstu ancjemò problemis? Consulte il to aministradôr di rêt o il to Provider Internet par vê assistence.</li></ul>">
+<!ENTITY netInterrupt.longDesc "<p>Il navigadôr si è conetût in mût coret, ma la conession e je stade interote dilunc il trasferiment des informazions.  Par plasê torne prove.</p><ul><li>Rivistu a navigâ in altris sîts? Controle la conession ae rêt dal to computer.</li><li>Âstu ancjemò problemis? Consulte il to aministradôr di rêt o il to furnidôr di servizis Internet par vê assistence.</li></ul>">
 
 <!ENTITY notCached.title "Document scjadût">
 

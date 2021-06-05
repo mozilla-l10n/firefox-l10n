@@ -23,7 +23,6 @@ newtab-search-box-search-the-web-input =
     .placeholder = Cîr tal Web
     .title = Cîr tal Web
     .aria-label = Cîr tal Web
-newtab-search-box-text = Cîr tal web
 newtab-search-box-input =
     .placeholder = Cîr tal web
     .aria-label = Cîr tal web
@@ -44,7 +43,7 @@ newtab-topsites-url-input =
 newtab-topsites-url-validation = URL valit necessari
 newtab-topsites-image-url-label = URL di imagjin personalizade
 newtab-topsites-use-image-link = Dopre une imagjin personalizade…
-newtab-topsites-image-validation = No si è rivâts a cjariâ la imagjin. Prove cuntun URL diferent.
+newtab-topsites-image-validation = Nol è stât pussibil cjariâ la imagjin. Prove cuntun URL diferent.
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
