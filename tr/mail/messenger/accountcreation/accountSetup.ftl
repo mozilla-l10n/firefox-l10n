@@ -17,7 +17,6 @@ account-setup-name-input =
     .placeholder = Ahmet Yılmaz
 account-setup-name-info-icon =
     .title = Başkalarına gösterilecek adınız
-account-setup-name-warning = Lütfen adınızı girin
 account-setup-name-warning-icon =
     .title = { account-setup-name-warning }
 account-setup-email-label = E-posta adresi
@@ -26,7 +25,6 @@ account-setup-email-input =
     .placeholder = ahmet.yilmaz@example.com
 account-setup-email-info-icon =
     .title = Mevcut e-posta adresiniz
-account-setup-email-warning = Geçersiz e-posta adresi
 account-setup-email-warning-icon =
     .title = { account-setup-email-warning }
 account-setup-password-label = Parola
@@ -66,6 +64,7 @@ account-setup-button-done = Tamam
 
 account-setup-looking-up-settings = Yapılandırma aranıyor…
 account-setup-looking-up-settings-guess = Yapılandırma aranıyor: Sık kullanılan sunucu isimleri deneniyor…
+account-setup-looking-up-settings-half-manual = Yapılandırma aranıyor: Sunucu inceleniyor…
 account-setup-looking-up-disk = Yapılandırma aranıyor: { -brand-short-name } kurulumu…
 account-setup-looking-up-isp = Yapılandırma aranıyor: E-posta sağlayıcısı…
 # Note: Do not translate or replace Mozilla. It stands for the public project mozilla.org, not Mozilla Corporation. The database is a generic, public domain facility usable by any client.
@@ -74,6 +73,8 @@ account-setup-looking-up-mx = Yapılandırma aranıyor: Gelen e-posta alan adı�
 account-setup-looking-up-exchange = Yapılandırma aranıyor: Exchange sunucusu…
 account-setup-checking-password = Parola kontrol ediliyor…
 account-setup-installing-addon = Eklenti indirilip yükleniyor…
+account-setup-success-half-manual = Belirtilen sunucu incelenerek aşağıdaki ayarlar bulundu:
+account-setup-success-guess = Sık kullanılan sunucu adları denenerek yapılandırma bulundu.
 account-setup-success-guess-offline = Çevrimdışısınız. Bazı ayarları tahmin ettik ama doğru ayarları elle girmeniz gerekecek.
 account-setup-success-password = Parola doğru
 account-setup-success-addon = Eklenti başarıyla yüklendi
@@ -94,6 +95,7 @@ account-setup-step3-image =
     .title = Yapılandırma bulundu
 account-setup-step4-image =
     .title = Bağlantı hatası
+account-setup-privacy-footnote = Hesap bilgileriniz <a data-l10n-name="privacy-policy-link">gizlilik politikamıza</a> uygun şekilde kullanılacak ve yalnızca bilgisayarınızda saklanacaktır.
 account-setup-selection-help = Neyi seçeceğinizden emin değil misiniz?
 account-setup-selection-error = Yardım mı lazım?
 account-setup-documentation-help = Kurulum belgeleri
@@ -115,23 +117,74 @@ account-setup-incoming-title = Gelen
 account-setup-outgoing-title = Giden
 account-setup-username-title = Kullanıcı adı
 account-setup-exchange-title = Sunucu
+account-setup-result-smtp = SMTP
+account-setup-result-no-encryption = Şifreleme yok
+account-setup-result-ssl = SSL/TLS
+account-setup-result-starttls = STARTTLS
+account-setup-result-outgoing-existing = Mevcut giden SMTP sunucusunu kullan
+# Variables:
+#  $incoming (String): The email/username used to log into the incoming server
+#  $outgoing (String): The email/username used to log into the outgoing server
+account-setup-result-username-different = Gelen: { $incoming }, giden: { $outgoing }
 
 ## Error messages
 
+# Note: The reference to "janedoe" (Jane Doe) is the name of an example person. You will want to translate it to whatever example persons would be named in your language. In the example, AD is the name of the Windows domain, and this should usually not be translated.
+account-setup-credentials-incomplete = Kimlik doğrulama başarısız oldu. Girilen kimlik bilgileri yanlış veya oturum açmak için ayrı bir kullanıcı adı gerekiyor. Bu kullanıcı adı genellikle Windows etki alanı hesabınızdır. Etki alanı dahil olabilir veya olmayabilir. (Örn. aliatabakar veya AD\\aliatabakar)
 account-setup-credentials-wrong = Kimlik doğrulama başarısız oldu. Lütfen kullanıcı adını ve parolayı kontrol edin
 account-setup-find-settings-failed = { -brand-short-name }, e-posta hesabınızın ayarlarını bulamadı
+account-setup-exchange-config-unverifiable = Yapılandırma doğrulanamadı. Kullanıcı adınız ve parolanız doğruysa sunucu yöneticisi hesabınız için seçili yapılandırmayı devre dışı bırakmış olabilir. Başka bir protokol seçmeyi deneyin.
 
-## Manual config area
+## Manual configuration area
 
 account-setup-manual-config-title = Sunucu ayarları
+account-setup-protocol-label = Protokol:
 protocol-imap-option = { account-setup-result-imap }
 protocol-pop-option = { account-setup-result-pop }
-outgoing-protocol = SMTP
+protocol-exchange-option = { account-setup-result-exchange }
+account-setup-hostname-label = Sunucu:
+account-setup-port-label = Port:
+    .title = Otomatik algılama için port numarasını 0 olarak ayarlayın
+account-setup-auto-description = { -brand-short-name }, boş bırakılan alanları otomatik olarak algılamaya çalışır.
+account-setup-ssl-label = Bağlantı güvenliği:
+
+## Incoming/Outgoing SSL Authentication options
+
 ssl-autodetect-option = Otomatik algıla
-ssl-starttls-option = STARTTLS
-ssl-tls-option = SSL/TLS
+ssl-cleartext-password-option = Normal parola
+ssl-encrypted-password-option = Şifrelenmiş parola
+
+## Incoming/Outgoing SSL options
+
+account-setup-username-label = Kullanıcı adı:
 account-setup-advanced-setup-button = Gelişmiş yapılandırma
     .accesskey = G
 
-## Warning insecure server
+## Warning insecure server dialog
 
+account-setup-insecure-title = Uyarı!
+# Variables:
+#  $server (String): The name of the hostname of the server the user was trying to connect to.
+account-setup-warning-cleartext = <b>{ $server }</b> sunucusu şifreleme kullanmıyor.
+account-setup-warning-cleartext-details = Güvensiz posta sunucuları, parolalarınızı ve özel bilgilerinizi korumak için şifrelenmiş bağlantı kullanmaz. Bu sunucuya bağlanarak parolanızı ve özel bilgilenizi ifşa ediyor olabilirsiniz.
+account-setup-insecure-description = { -brand-short-name }, mevcut yapılandırmayı kullanarak e-postalarınızı almanızı sağlayabilir ama sorunlu bağlantılarla ilgili olarak sistem yöneticinizle veya e-posta sağlayıcınızla iletişime geçmelisiniz. Daha fazla bilgi için <a data-l10n-name="thunderbird-faq-link">Thunderbird SSS</a>'ye bakın.
+insecure-dialog-cancel-button = Ayarları değiştir
+    .accesskey = d
+
+## Warning Exchange confirmation dialog
+
+# Variables:
+#  $domain (String): The name of the server where the configuration was found, e.g. rackspace.com.
+exchange-dialog-question = { -brand-short-name }, { $domain } üzerinde hesap kurulum bilgilerinizi buldu. Devam etmek ve hesap bilgilerinizi göndermek ister misiniz?
+exchange-dialog-confirm-button = Giriş yap
+exchange-dialog-cancel-button = Vazgeç
+
+## Alert dialogs
+
+account-setup-confirm-advanced-description = Bu iletişim kutusu kapatılacak ve yapılandırma hatalı olsa bile mevcut ayarlarla bir hesap oluşturulacaktır. Devam etmek istiyor musunuz?
+
+## Addon installation section
+
+account-setup-addon-install-title = Yükle
+account-setup-addon-install-intro = Üçüncü taraflarca geliştirilen bir eklenti, bu sunucudaki e-posta hesabınıza erişmenize olanak sağlayabilir:
+account-setup-addon-no-protocol = Bu e-posta sunucusu maalesef açık protokolleri desteklemiyor. { account-setup-addon-install-intro }
