@@ -5,8 +5,6 @@
 
 ## App Menu
 
-appmenuitem-update-banner =
-    .label-update-downloading = Ներբեռնել { -brand-shorter-name }-ի թարմացումը
 appmenuitem-protection-dashboard-title = Պաշտպանության վահանակ
 appmenuitem-customize-mode =
     .label = Հարմարեցնել…
@@ -19,14 +17,12 @@ appmenuitem-new-private-window =
     .label = Սկսել Գաղտնի դիտարկում
 appmenuitem-passwords =
     .label = Գաղտնաբառեր
-appmenuitem-extensions-and-themes =
-    .label = Ընդլայնումներ և Ոճեր
+appmenuitem-addons-and-themes =
+    .label = Հավելումներ և ոճեր
 appmenuitem-find-in-page =
     .label = Գտնել էջում…
 appmenuitem-more-tools =
     .label = Լրացուցիչ գործիքներ
-appmenuitem-exit =
-    .label = Փակել
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -46,8 +42,6 @@ appmenuitem-fullscreen =
 fxa-toolbar-sync-now =
     .label = Սինք
 appmenuitem-fxa-manage-account = Կառավարել հաշիվը
-appmenu-fxa-header =
-    .title = { -fxaccount-brand-name }
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-fxa-signed-in-label = Մուտք գործել
 appmenuitem-save-page =
@@ -106,26 +100,11 @@ appmenu-about =
 appmenu-get-help =
     .label = Ստանալ օգնություն
     .accesskey = H
-appmenu-help-troubleshooting-info =
-    .label = Անսարքության տեղեկատվություն
-    .accesskey = Ա
-appmenu-help-taskmanager =
-    .label = Առաջադրանքների ղեկավար
 appmenu-help-report-site-issue =
     .label = Զեկուցել կայքի խնդրի մասին…
 appmenu-help-feedback-page =
     .label = Ուղարկել արձագանք…
     .accesskey = Ո
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Վերամեկնարկել՝ անջատելով հավելումները…
-    .accesskey = Վ
-appmenu-help-safe-mode-with-addons =
-    .label = Վերամեկնարկել՝ միացնելով հավելումները
-    .accesskey = Վ
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

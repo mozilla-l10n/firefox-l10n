@@ -548,6 +548,11 @@ save-to-pocket-button =
 
 ## Customize Toolbar Buttons
 
+# Variables:
+#  $shortcut (String): keyboard shortcut to open the add-ons manager
+toolbar-addons-themes-button =
+    .label = Հավելումներ և ոճեր
+    .tooltiptext = Կառավարեք ձեր հավելումները և ոճերը ({ $shortcut })
 
 ## More items
 
