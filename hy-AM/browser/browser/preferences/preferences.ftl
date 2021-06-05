@@ -901,6 +901,10 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Բացել ներդիրները
     .accesskey = Բ
+# Shortcuts refers to the shortcut tiles on the new tab page, previously known as top sites. Translation should be consistent.
+addressbar-locbar-shortcuts-option =
+    .label = Դյուրանցումներ
+    .accesskey = S
 addressbar-locbar-topsites-option =
     .label = Լավագույն կայքեր
     .accesskey = T

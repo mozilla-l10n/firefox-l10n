@@ -19,7 +19,7 @@ printui-orientation = Դիրքավորում
 printui-landscape = Ալբոմային
 printui-portrait = Գրքային
 # Section title for the printer or destination device to target
-printui-destination-label = Նպատակակետ
+printui-destination-label = Նպատակակետը
 printui-destination-pdf-label = Պահել PDF-ում
 printui-more-settings = Լրացուցիչ կարգավորումներ
 printui-less-settings = Քիչ կարգավորումներ
@@ -32,6 +32,14 @@ printui-scale-pcent = Մասշտաբ
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Երկկողմանի տպագրություն
 printui-two-sided-printing-off = Անջ.
+printui-color-mode-label = Գունավոր կերպը
+printui-color-mode-color = Գունավոր
+printui-color-mode-bw = Սեւ եւ սպիտակ
+printui-margins = Լուսանցքներ
+printui-margins-none = Չկա
+printui-system-dialog-link = Տպել՝ օգտագործելով համակարգի երկխոսությունը…
+printui-loading = Նախադիտման պատրաստում
+printui-pages-per-sheet = Էջեր թերթում
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 

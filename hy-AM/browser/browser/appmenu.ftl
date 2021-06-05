@@ -23,6 +23,12 @@ appmenuitem-find-in-page =
     .label = Գտնել էջում…
 appmenuitem-more-tools =
     .label = Լրացուցիչ գործիքներ
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Դուրս գալ
+           *[other] Փակել
+        }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -126,6 +132,8 @@ appmenu-help-not-deceptive =
 
 ## More Tools
 
+appmenu-customizetoolbar =
+    .label = Հարմարեցնել Գործիքագոտին...
 appmenu-taskmanager =
     .label = Խնդիրների կառավար
 appmenu-developer-tools-subheader = Զննարկչի գործիքներ

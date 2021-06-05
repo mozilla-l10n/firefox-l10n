@@ -45,3 +45,5 @@ customize-mode-lwthemes-my-themes =
     .value = Իմ ձևավորումները
 customize-mode-touchbar-cmd =
     .label = Հարմարեցնել Հպման փեղկը...
+customize-mode-downloads-button-autohide =
+    .label = Թաքցնել կոճակը, երբ դատարկ է

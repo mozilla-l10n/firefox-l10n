@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+tab-context-new-tab =
+    .label = Նոր ներդիր
+    .accesskey = w
 reload-tab =
     .label = Կրկին բեռնել ներդիրը
     .accesskey = Կ
@@ -14,6 +17,13 @@ duplicate-tab =
 duplicate-tabs =
     .label = Կրկնօրինակել բոլոր ներդիրները
     .accesskey = D
+# The following string is displayed on a menuitem that will close the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
+close-tabs-to-the-start =
+    .label = Փակել ներդիրները դեպի ձախ
+    .accesskey = l
+# The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = Փակել ներդիրները աջից
     .accesskey = ջ
@@ -44,6 +54,9 @@ bookmark-tab =
 reopen-in-container =
     .label = Կրկին բացել Պարունակում
     .accesskey = e
+tab-context-open-in-new-container-tab =
+    .label = Բացել Նոր Պարունակ Ներդիրում
+    .accesskey = e
 move-to-start =
     .label = Տեղափոխել Մեկնարկ
     .accesskey = S
@@ -56,9 +69,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Փակել բազմակի ներդիրները
     .accesskey = M
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->
@@ -78,4 +88,24 @@ move-tabs =
     .accesskey = v
 move-tab =
     .label = Տեղափոխել ներիրը
+    .accesskey = v
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
+tab-context-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Փակել ներդիրը
+            [one] Փակել ներդիրները
+           *[other] Փակել ներդիրները
+        }
+    .accesskey = C
+tab-context-move-tabs =
+    .label =
+        { $tabCount ->
+            [1] Տեղափոխել ներդիրը
+            [one] Տեղափոխել ներդիրները
+           *[other] Տեղափոխել ներդիրները
+        }
     .accesskey = v
