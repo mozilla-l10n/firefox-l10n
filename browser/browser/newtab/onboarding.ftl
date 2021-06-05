@@ -279,6 +279,18 @@ mr1-onboarding-reduce-motion-button-label = Izklopi animacije
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
+# Title used on welcome page when Firefox is not pinned
+mr1-onboarding-pin-header =
+    { PLATFORM() ->
+        [macos] Obdržite { -brand-short-name } v Docku za hiter dostop
+       *[other] Pripnite { -brand-short-name } v opravilno vrstico za hiter dostop
+    }
+# Primary button string used on welcome page when Firefox is not pinned.
+mr1-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Obdrži v Docku
+       *[other] Pripni v opravilno vrstico
+    }
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 

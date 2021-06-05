@@ -278,8 +278,6 @@ cfr-whatsnew-better-pdf-body = Dokumenti PDF se zdaj odpirajo neposredno v { -br
 
 cfr-doorhanger-doh-body = Vaša zasebnost šteje. { -brand-short-name } sedaj varno usmerja vaše zahteve DNS, kadar je to mogoče, preko partnerske storitve, da vas ščiti med brskanjem.
 cfr-doorhanger-doh-header = Varnejša, šifrirana iskanja DNS
-cfr-doorhanger-doh-primary-button = V redu, razumem
-    .accesskey = V
 cfr-doorhanger-doh-primary-button-2 = V redu
     .accesskey = V
 cfr-doorhanger-doh-secondary-button = Onemogoči
@@ -325,3 +323,10 @@ cfr-whatsnew-bookmarking-body = Lažje je slediti svojim najljubšim spletnim me
 
 cfr-whatsnew-cross-site-tracking-header = Celovita zaščita pred sledenjem s piškotki med spletnimi mesti
 cfr-whatsnew-cross-site-tracking-body = Zdaj se lahko odločite za boljšo zaščito pred sledenjem s piškotki. { -brand-short-name } lahko izolira vaše dejavnosti in podatke za spletno mesto, na katerem se trenutno nahajate, tako da se informacije, shranjene v brskalniku, ne delijo med spletnimi mesti.
+
+## Full Video Support CFR message
+
+cfr-doorhanger-video-support-body = Videoposnetki na tem spletnem mestu se v tej različici { -brand-short-name(sklon: "rodilnik") } morda ne bodo predvajali pravilno. Za popolno podporo videoposnetkom posodobite { -brand-short-name(sklon: "tozilnik") } zdaj.
+cfr-doorhanger-video-support-header = Posodobite { -brand-short-name(sklon: "tozilnik") } za predvajanje videa
+cfr-doorhanger-video-support-primary-button = Posodobi zdaj
+    .accesskey = P
