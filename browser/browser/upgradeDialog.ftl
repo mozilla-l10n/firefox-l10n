@@ -59,6 +59,7 @@ upgrade-dialog-default-subtitle = Получите скорость, безоп�
 upgrade-dialog-default-primary-button = Установить браузером по умолчанию
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-default-title-2 = Сделать { -brand-short-name } браузером по умолчанию
+upgrade-dialog-default-subtitle-2 = Поставьте на автопилот свою скорость, безопасность и приватность.
 upgrade-dialog-default-primary-button-2 = Сделать браузером по умолчанию
 upgrade-dialog-default-secondary-button = Не сейчас
 
@@ -68,6 +69,8 @@ upgrade-dialog-default-secondary-button = Не сейчас
 upgrade-dialog-theme-title =
     Начните с чистого листа
     с обновлённой темой
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-theme-title-2 = Начните с чистого листа со свежей темой
 upgrade-dialog-theme-system = Системная тема
     .title = Следовать теме операционной системы для кнопок, меню и окон
 upgrade-dialog-theme-light = Светлая
