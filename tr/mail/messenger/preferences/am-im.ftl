@@ -4,3 +4,5 @@
 
 account-settingsTitle = Kimlik Doğrulama Ayarları
 account-channelTitle = Varsayılan Kanallar
+account-settings-title = Kimlik Doğrulama Ayarları
+account-channel-title = Varsayılan Kanallar
