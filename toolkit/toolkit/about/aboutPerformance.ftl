@@ -62,5 +62,5 @@ show-addon =
 #   $durationSincePrevious (Number) - how much CPU time was used in the last 2 seconds
 item =
     .title =
-        Ուղարկումները դեռ բեռնվում են․ { $totalDispatches } ({ $totalDuration }ms)
-        Վերջին վայրկյանների ուղարկումները․ { $dispatchesSincePrevious } ({ $durationSincePrevious }ms)
+        Մշակիչի ռեսուրսները բեռնելուց սկսած՝․ { $totalDispatches } ({ $totalDuration }ms)
+        Մշակիչի ռեսուրսները վերջին վայրկյաններին՝ { $dispatchesSincePrevious } ({ $durationSincePrevious }ms)
