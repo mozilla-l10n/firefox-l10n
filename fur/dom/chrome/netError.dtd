@@ -68,14 +68,10 @@
 <li>Ancjemò problemis? Contate il to aministradôr di rêt o il furnidôr di servizis internet.</li></ul>">
 
 <!ENTITY proxyResolveFailure.title "Impussibil contatâ il servidôr proxy">
-<!ENTITY proxyResolveFailure.longDesc "<p>Il browser al è configurât par utilizâ un servidôr proxy, ma no si à podût cjatâ il proxy.</p> 
-<ul>  <li>Ise juste la configurazion proxy dal browser? Controle lis impostazions e torne a provâ.</li> 
-<li>L'computer isal conetût a une rêt ative?</li> 
-<li>Ancjemò problemis? Contate l'aministradôr di rêt o il provider internet.</li> 
-</ul>">
+<!ENTITY proxyResolveFailure.longDesc "<p>Il navigadôr al è configurât in mût di doprâ un servidôr proxy, ma no si à podût cjatâ il proxy.</p> <ul><li>Ise juste la configurazion dal proxy dal navigadôr? Controle lis impostazions e torne prove.</li><li>Isal il computer conetût a une rêt ative?</li><li>Âstu ancjemò problemis? Contate il to aministradôr di rêt o il to furnidôr di servizis internet pe assistence.</li></ul>">
 
-<!ENTITY redirectLoop.title "Redirezion cicliche">
-<!ENTITY redirectLoop.longDesc "<p>Il sgarfadôr al à finît di provâ a recuperâ l'ogjet domandât. Il sît al cîr di redirezionâ la domande in mût che no puedi mai jessi completade.</p><ul><li>Astu disabilitât o blocât cookies necessaris par chest sît?</li><li><em>NOTE</em>: Se ancje acetant i cookies dal sît no to rivis a risolvi il probleme, al è probabil che si trati di un probleme di configurazion dal servidôr e no dal to computer.</li></ul>">
+<!ENTITY redirectLoop.title "Re-indreçament ciclic">
+<!ENTITY redirectLoop.longDesc "<p>Il navigadôr al à finît di provâ a recuperâ l'ogjet domandât. Il sît al cîr di indreçâ la domande in mût che nol sedi pussibil completâle.</p><ul><li>Âstu disativât o blocât i cookies necessaris par chest sît?</li><li><em>NOTE</em>: Se ancje acetant i cookies dal sît no to rivis a risolvi il probleme, al è probabil che si trati di un probleme di configurazion dal servidôr e no dal to computer.</li></ul>">
 
 <!ENTITY unknownSocketType.title "Rispueste scorete">
 <!ENTITY unknownSocketType.longDesc "<p>Il sît al à rispuindût ae domande di rêt in mût che no si spietave, e il browser nol pues lâ indenant.</p>">
