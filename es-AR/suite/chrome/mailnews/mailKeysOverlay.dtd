@@ -7,7 +7,7 @@
 <!ENTITY markAsReadCmd.key       "m">
 
 <!ENTITY markAsUnreadCmd.label     "Como no leído">
-<!ENTITY markAsUnreadCmd.accesskey "U">
+<!ENTITY markAsUnreadCmd.accesskey "n">
 <!ENTITY markAsUnreadCmd.key       "m">
 
 <!ENTITY markFlaggedCmd.label     "Destacado">
