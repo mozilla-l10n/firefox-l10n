@@ -4,6 +4,7 @@
 
 third-party-page-title = Информация о сторонних модулях
 third-party-section-title = Список сторонних модулей в { -brand-short-name }
+third-party-intro = На этой странице отображены сторонние модули, которые были внедрены в ваш { -brand-short-name }. Любой модуль, не подписанный Microsoft или { -vendor-short-name }, считается сторонним.
 third-party-header-module-list = Список модулей
 third-party-header-loading-events = Загрузка событий
 third-party-message-empty = Сторонних модулей не обнаружено.
@@ -12,11 +13,17 @@ third-party-detail-version = Версия файла
 third-party-detail-vendor = Информация производителя
 third-party-detail-occurrences = Вхождения
     .title = Сколько раз был загружен этот модуль.
+third-party-detail-duration = Среднее время блокировки (мс)
+    .title = Как долго этот модуль блокировал это приложение.
 third-party-detail-app = Приложение
 third-party-detail-publisher = Издатель
 third-party-th-process = Процесс
 third-party-th-duration = Продолжительность загрузки (мс)
 third-party-th-status = Состояние
+third-party-tag-ime = IME
+    .title = Данный тип модуля загружается, когда вы используете сторонний IME.
+third-party-tag-shellex = Расширение оболочки
+    .title = Данный тип модуля загружается, когда вы открываете системное диалоговое окно работы с файлами.
 third-party-unsigned-icon =
     .title = Этот модуль не подписан
 third-party-status-loaded = Загружен
