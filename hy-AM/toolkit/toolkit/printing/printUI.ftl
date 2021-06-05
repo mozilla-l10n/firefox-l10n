@@ -32,14 +32,30 @@ printui-scale-pcent = Մասշտաբ
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Երկկողմանի տպագրություն
 printui-two-sided-printing-off = Անջ.
+# Section title for miscellaneous print options
+printui-options = Ընտրանքներ
+printui-headers-footers-checkbox = Տպել էջագլուխները և էջատակները
+printui-backgrounds-checkbox = Տպել խորքերը
 printui-color-mode-label = Գունավոր կերպը
 printui-color-mode-color = Գունավոր
 printui-color-mode-bw = Սեւ եւ սպիտակ
 printui-margins = Լուսանցքներ
 printui-margins-none = Չկա
+printui-margins-custom-inches = Ընտրված (դյույմ)
 printui-system-dialog-link = Տպել՝ օգտագործելով համակարգի երկխոսությունը…
+printui-primary-button = Տպել
+printui-cancel-button = Չեղարկել
+printui-close-button = Փակել
 printui-loading = Նախադիտման պատրաստում
+# Reported by screen readers and other accessibility tools to indicate that
+# the print preview has focus.
+printui-preview-label =
+    .aria-label = Տպելու նախադիտում
 printui-pages-per-sheet = Էջեր թերթում
+# This is shown next to the Print button with an indefinite loading spinner
+# when the user prints a page and it is being sent to the printer.
+printui-print-progress-indicator = Տպում է…
+printui-print-progress-indicator-saving = Պահպանում է...
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 

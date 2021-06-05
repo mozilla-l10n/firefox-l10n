@@ -31,7 +31,7 @@ shrink-to-fit =
 options-group-label =
     .value = Կարգավորումներ
 print-bg =
-    .label = Տպել Խորապատկերը (Գույները և Նկարները)
+    .label = Տպել խորքը (գույները և նկարները)
     .accesskey = Խ
 margin-group-label-inches =
     .value = Երիզ (Մատնաչափ)
@@ -103,7 +103,6 @@ print-window =
     .title = Տպել
 print-complete =
     .value = Տպված է:
-
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =
