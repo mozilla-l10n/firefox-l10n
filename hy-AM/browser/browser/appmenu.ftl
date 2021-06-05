@@ -40,7 +40,8 @@ appmenuitem-fullscreen =
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =
-    .label = Սինք
+    .label = Համաժամեցնել
+appmenuitem-fxa-toolbar-sync-now2 = Համաժամեցնել
 appmenuitem-fxa-manage-account = Կառավարել հաշիվը
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-fxa-signed-in-label = Մուտք գործել
@@ -126,4 +127,5 @@ appmenu-help-not-deceptive =
 ## More Tools
 
 appmenu-taskmanager =
-    .label = Առաջադրանքների ղեկավար
+    .label = Խնդիրների կառավար
+appmenu-developer-tools-subheader = Զննարկչի գործիքներ

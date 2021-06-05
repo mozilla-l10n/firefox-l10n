@@ -604,6 +604,9 @@ sync-signedout-description = Համաժամեցրեք ձեր բոլոր էջան
 sync-signedout-account-signin2 =
     .label = Մուտք գործել { -sync-brand-short-name }…
     .accesskey = i
+sync-signedout-account-signin3 =
+    .label = Մուտք գործեք՝ համաժամեցնելու համար…
+    .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -656,7 +659,7 @@ sync-currently-syncing-history = Պատմություն
 sync-currently-syncing-tabs = Բացել ներդիրները
 sync-currently-syncing-logins-passwords = Մուտքանուններ և գաղտնաբառեր
 sync-currently-syncing-addresses = Հասցեներ
-sync-currently-syncing-creditcards = Վարկային քարտեր
+sync-currently-syncing-creditcards = Բանկային քարտեր
 sync-currently-syncing-addons = Հավելումներ
 sync-currently-syncing-prefs =
     { PLATFORM() ->

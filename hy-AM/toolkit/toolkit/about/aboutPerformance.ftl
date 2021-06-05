@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 # Page title
-about-performance-title = Առաջադրանքի ղեկավար
+about-performance-title = Խնդիրների կառավար
 
 ## Column headers
 
@@ -54,7 +54,6 @@ close-tab =
     .title = Փակել ներդիրը
 show-addon =
     .title = Ցուցադրել հավելումների կառավարչում
-
 # Tooltip when hovering an item of the about:performance table
 # Variables:
 #   $totalDispatches (Number) - how many dispatches occurred for this page since it loaded

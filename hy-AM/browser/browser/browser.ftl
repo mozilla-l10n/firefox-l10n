@@ -576,3 +576,4 @@ panel-save-update-password = Գաղտնաբառ
 
 remote-tabs-manage-account =
     .label = Կառավարել հաշիվը
+remote-tabs-sync-now = Համաժամեցնել
