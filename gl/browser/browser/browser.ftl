@@ -181,8 +181,6 @@ page-action-send-tabs-urlbar =
             [one] Enviar lapela ao dispositivo
            *[other] Enviar { $tabCount } lapelas ao dispositivo
         }
-page-action-pocket-panel =
-    .label = Gardar páxina en { -pocket-brand-name }
 page-action-copy-url-panel =
     .label = Copiar ligazón
 page-action-copy-url-urlbar =
@@ -247,6 +245,14 @@ search-one-offs-context-set-as-default-private =
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
+# Shown when adding new engines from the address bar shortcut buttons or context
+# menu, or from the search bar shortcut buttons.
+# Variables:
+#  $engineName (String): The name of the engine.
+search-one-offs-add-engine =
+    .label = Engadir «{ $engineName }»
+    .tooltiptext = Engadir o motor de busca «{ $engineName }»
+    .aria-label = Engadir o motor de busca «{ $engineName }»
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -506,6 +512,11 @@ urlbar-placeholder-with-name =
     .placeholder = Buscar en { $name } ou introducir un enderezo
 urlbar-remote-control-notification-anchor =
     .tooltiptext = O navegador está baixo control remoto
+# Variables
+#  $component (String): the name of the component which forces remote control.
+#    Example: "DevTools", "Marionette", "RemoteAgent".
+urlbar-remote-control-notification-anchor2 =
+    .tooltiptext = O navegador está baixo control remoto (motivo: { $component })
 urlbar-permissions-granted =
     .tooltiptext = Concedeu a este sitio web permisos adicionais.
 urlbar-switch-to-tab =
@@ -602,8 +613,6 @@ crashed-subframe-submit =
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = Amosar todos os marcadores
 bookmarks-manage-bookmarks =
     .label = Xestionar marcadores
 bookmarks-recent-bookmarks-panel-subheader = Marcadores recentes
