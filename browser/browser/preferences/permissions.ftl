@@ -18,6 +18,12 @@ permissions-session =
 permissions-allow =
     .label = Povoliť
     .accesskey = P
+permissions-button-off =
+    .label = Vypnúť
+    .accesskey = V
+permissions-button-off-temporarily =
+    .label = Vypnúť dočasne
+    .accesskey = d
 permissions-site-name =
     .label = Webová stránka
 permissions-status =
@@ -58,6 +64,10 @@ permissions-capabilities-listitem-block =
     .value = Zakázať
 permissions-capabilities-listitem-allow-session =
     .value = Povoliť pre reláciu
+permissions-capabilities-listitem-off =
+    .value = Vypnutá
+permissions-capabilities-listitem-off-temporarily =
+    .value = Dočasne vypnutá
 
 ## Invalid Hostname Dialog
 
@@ -77,6 +87,13 @@ permissions-exceptions-cookie-window =
     .title = Výnimky - Cookies a údaje stránok
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = Na tomto mieste môžete určiť, ktoré stránky môžu alebo nemôžu využívať cookies a údaje stránok. Zadajte presnú adresu stránky, potom kliknite na tlačidlo Zakázať, Povoliť pre reláciu alebo na Povoliť.
+
+## Exceptions - HTTPS-Only Mode
+
+permissions-exceptions-https-only-window =
+    .title = Výnimky z režimu Len HTTPS
+    .style = { permissions-window.style }
+permissions-exceptions-https-only-desc = Pre konkrétne webové stránky môžete vypnúť režim "Len HTTPS". Pre tieto stránky sa { -brand-short-name } nebude snažiť inovovať pripojenie na zabezpečené HTTPS. Výnimky sa nevzťahujú na súkromné okná.
 
 ## Exceptions - Pop-ups
 
