@@ -216,8 +216,6 @@ cfr-doorhanger-milestone-heading2 =
     }
 cfr-doorhanger-milestone-ok-button = Vesair tut
     .accesskey = s
-cfr-doorhanger-milestone-close-button = Serrar
-    .accesskey = S
 
 ## What’s New Panel Content for Firefox 76
 
@@ -242,6 +240,8 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Icona da maletg-en-maletg
 
 ## Protections Dashboard message
 
+cfr-doorhanger-milestone-close-button = Serrar
+    .accesskey = S
 
 ## What’s New Panel Content for Firefox 76
 ## Protections Dashboard message
@@ -260,8 +260,6 @@ cfr-whatsnew-better-pdf-body = PDFs vegnan ussa averts direct en { -brand-short-
 
 cfr-doorhanger-doh-body = La protecziun da tias datas è impurtanta. { -brand-short-name } trametta ussa tias dumondas DNS – adina cura che quai è pussaivel – a moda segirada ad in servetsch dad in partenari. Per ta proteger durant il navigar.
 cfr-doorhanger-doh-header = Retschertgas DNS criptadas e pli segiras
-cfr-doorhanger-doh-primary-button = OK, chapì
-    .accesskey = O
 cfr-doorhanger-doh-primary-button-2 = OK
     .accesskey = O
 cfr-doorhanger-doh-secondary-button = Deactivar
@@ -307,3 +305,10 @@ cfr-whatsnew-bookmarking-body = Igl è pli simpel da tegnair en egl tias website
 
 cfr-whatsnew-cross-site-tracking-header = Protecziun cumpletta cunter fastizaders da cookies interpaginals
 cfr-whatsnew-cross-site-tracking-body = Ti pos ussa tscherner ina protecziun avanzada cunter fastizaders da cookies. { -brand-short-name } po isolar tias activitads e datas da la website che ti visitas gist per che las infurmaziuns memorisadas en il navigatur na vegnian betg cundividas tranter differentas websites.
+
+## Full Video Support CFR message
+
+cfr-doorhanger-video-support-body = Videos sin questa website na vegnan eventualmain betg reproducids endretg cun questa versiun da { -brand-short-name }. Per garantir il sustegn cumplet da video, actualisescha ussa { -brand-short-name }.
+cfr-doorhanger-video-support-header = Actualisar { -brand-short-name } per far ir il video
+cfr-doorhanger-video-support-primary-button = Actualisar ussa
+    .accesskey = u
