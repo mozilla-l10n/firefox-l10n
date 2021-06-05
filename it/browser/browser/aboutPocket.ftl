@@ -15,6 +15,7 @@ pocket-panel-saved-error-generic = Si è verificato un errore durante il salvata
 pocket-panel-saved-error-tag-length = La lunghezza massima per le etichette è di 25 caratteri
 pocket-panel-saved-error-only-links = È possibile salvare solo link
 pocket-panel-saved-error-not-saved = Pagina non salvata
+pocket-panel-saved-error-no-internet = È necessario essere connessi a Internet per poter salvare in { -pocket-brand-name }. Connettersi a Internet e riprovare.
 pocket-panel-saved-page-removed = Pagina rimossa
 pocket-panel-saved-page-saved = Salvata in { -pocket-brand-name }
 pocket-panel-saved-processing-remove = Rimozione pagina…
