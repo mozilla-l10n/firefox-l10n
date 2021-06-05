@@ -11,14 +11,16 @@
 <!ENTITY connectionFailure.longDesc "<p>Ancje se il sît al somee valit, il navigadôr nol è rivât a stabilî une conession.</p><ul><li>Podaressial jessi che in chest moment il sît nol sedi disponibil? Torne prove chi di un pôc.</li><li>Rivistu a navigâ in altris sîts?  Controle la conession ae rêt dal to computer.</li><li>Sono il to computer o la rêt protezûts di un firewall o di un proxy? Une configurazion sbaliade e podarès interferî cu la navigazion Internet.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "Puarte sogjete a restrizions par motîfs di sigurece">
+<!ENTITY deniedPortAccess.longDesc "<p>La direzion domandade e à specificât une puarte (p.e. <q>mozilla.org:80</q> pe puarte 80 su mozilla.org) pal solit doprade par finalitâts <em>diviersis</em> rispiet ae navigazion sul Web. Il navigadôr al à anulât la richieste par motîfs di sigurece.</p>">
 
-<!ENTITY dnsNotFound.title "Indiriç no cjatât">
+<!ENTITY dnsNotFound.title "Direzion no cjatade">
 <!ENTITY dnsNotFound.longDesc "<p>Il navigadôr nol à podût cjatâ il servidôr che al ospite la direzion indicade.</p><ul><li>Âstu sbaliât di scrivi il domini? (p.e. <q><strong>ww</strong>.mozilla.org</q> invezit di <q><strong>www</strong>.mozilla.org</q>)</li><li>Esistie pardabon la direzion di chest domini?  La sô regjistrazion e podarès jessi scjadude.</li><li>Rivistu a navigâ su altris sîts?  Verifiche la conession ae rêt e lis impostazions dal servidôr DNS.</li><li>Il to computer o la tô rêt sono protezûts di un firewall o di un proxy?  Impostazions sbaliadis a puedin interferî cu la navigazion tal web.</li></ul>">
 
 <!ENTITY fileNotFound.title "File no cjatât">
-<!ENTITY fileNotFound.longDesc "<ul><li>L'ogjet puedial jessi stât eliminât o mot, o i puedial jessi stât cambiât il non?</li> 
-<li>Isal un erôr di ortografie, digitazion, o maiusculis te direzion?</li><li>Astu il permès necessari par acedi al ogjet desiderât?</li></ul>">
+<!ENTITY fileNotFound.longDesc "<ul><li>Isal pussibil che l'ogjet al sedi stât eliminât o mot, o che al vedi cambiât il non?</li> 
+<li>Isal un erôr di ortografie, o di scriture, o di maiusculis te direzion?</li><li>Âstu i permès necessaris par acedi al ogjet desiderât?</li></ul>">
 
+<!ENTITY fileAccessDenied.title "Al è stât dineât l'acès al file">
 
 <!ENTITY generic.title "No si pues completâ la richieste.">
 <!ENTITY generic.longDesc "<p>Pal moment altris informazions su chest probleme o erôr no son disponibilis.</p>">
