@@ -99,20 +99,20 @@ about-debugging-setup-usb-disable-button = Անջատել USB սարքերը
 # components are downloaded and installed.
 about-debugging-setup-usb-updating-button = Թարմացվում է․․․
 # USB section of the Setup page (USB status)
-about-debugging-setup-usb-status-enabled = Միացված
+about-debugging-setup-usb-status-enabled = Միացված է
 about-debugging-setup-usb-status-disabled = Անջատված
 about-debugging-setup-usb-status-updating = Թարմացվում է ...
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-dev-menu2 = Միացրեք Մշակողի ցանկը ձեր Android սարքում։
 # USB section step by step guide
-about-debugging-setup-usb-step-enable-debug2 = Միացնել USB վրիպազերծումը Android-ի Մշակողի ցանկում։
+about-debugging-setup-usb-step-enable-debug2 = Միացրեք USB վրիպազերծումը Android-ի Մշակողի ցանկում։
 # USB section step by step guide
-about-debugging-setup-usb-step-enable-debug-firefox2 = Միացնել USB վրիպազերծումը Android սարքի Firefox-ում։
+about-debugging-setup-usb-step-enable-debug-firefox2 = Միացրեք USB վրիպազերծումը Android սարքի Firefox-ում։
 # USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Միացրեք Android սարքը ձեր համակարգչին:
 # Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
 # The link goes to https://developer.mozilla.org/docs/Tools/Remote_Debugging/Debugging_over_USB
-about-debugging-setup-usb-troubleshoot = USB սարքին միացնելիս խնդիրնե՞ր են առաջացել։ <a>Խափանաշտկել</a>
+about-debugging-setup-usb-troubleshoot = USB սարքին կապակցելիս խնդիրնե՞ր են առաջացել։ <a>Խափանաշտկել</a>
 # Network section of the Setup page
 about-debugging-setup-network =
     .title = Ցանցի գտնվելու վայրը
