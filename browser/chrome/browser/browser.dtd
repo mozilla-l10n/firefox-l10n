@@ -105,7 +105,7 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "Տուն">
-<!ENTITY homeButton.defaultPage.tooltip "&brandShortName; Տնէջ">
+<!ENTITY homeButton.defaultPage.tooltip "&brandShortName;-ի Տնային էջ">
 
 <!ENTITY bookmarksButton.label          "Էջանիշեր">
 
