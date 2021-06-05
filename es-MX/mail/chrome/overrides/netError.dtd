@@ -50,8 +50,19 @@
 ">
 
 <!ENTITY malformedURI.title "La dirección no es válida">
+<!ENTITY malformedURI.longDesc "
+<ul>
+  <li>Usualmente, las direcciones web son escritas así
+    <strong>http://www.example.com/</strong></li>
+  <li>Por favor, asegúrate de estar utilizando las diagonales correctas (p. e.
+    <strong>/</strong>).</li>
+</ul>
+">
 
+<!ENTITY netInterrupt.title "La conexión fue interrumpida">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
+<!ENTITY notCached.title "Documento expirado">
 
 
 
