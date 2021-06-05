@@ -38,6 +38,11 @@ upgrade-dialog-new-primary-win7-button = OK, eg forstår!
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
+upgrade-dialog-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Behald i Dock
+       *[other] Fest til oppgåvelinja
+    }
 upgrade-dialog-pin-secondary-button = Ikkje no
 
 ## Default browser screen
@@ -48,6 +53,7 @@ upgrade-dialog-default-subtitle = Få fart, sikkerheit og personvern kvar gong d
 upgrade-dialog-default-primary-button = Vel som standardnettlesar
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-default-title-2 = Bruk { -brand-short-name } som standardnettlesar
+upgrade-dialog-default-primary-button-2 = Bruk som standardnettlesar
 upgrade-dialog-default-secondary-button = Ikkje no
 
 ## Theme selection screen
