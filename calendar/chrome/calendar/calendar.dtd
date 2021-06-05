@@ -296,7 +296,7 @@
 
 <!-- LOCALIZATION NOTE (calendar.context.showonly.accesskey)
      This is the access key used for the showOnlyCalendar string -->
-<!ENTITY calendar.context.showonly.accesskey           "O">
+<!ENTITY calendar.context.showonly.accesskey           "Y">
 <!ENTITY calendar.context.showall.label                "Tüm takvimleri göster">
 <!ENTITY calendar.context.showall.accesskey            "ü">
 
