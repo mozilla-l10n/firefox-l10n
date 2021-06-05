@@ -28,6 +28,7 @@ upgrade-dialog-new-primary-win7-button = Լավ, haskaca
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
+upgrade-dialog-pin-secondary-button = Ոչ հիմա
 
 ## Default browser screen
 
