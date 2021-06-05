@@ -14,6 +14,7 @@ default-browser-notification-button =
 
 default-browser-prompt-title-pin = Converter o { -brand-short-name } no seu navegador principal?
 default-browser-prompt-message-pin = Manteña o { -brand-short-name } ao alcance dos seus dedos: convértao no seu navegador predeterminado e fíxeo á barra de tarefas.
+default-browser-prompt-message-pin-mac = Manteña o { -brand-short-name } ao alcance dos seus dedos: convértao no seu navegador predeterminado e fíxeo á súa doca.
 default-browser-prompt-button-primary-pin = Converter no navegador principal
 default-browser-prompt-title-alt = Converter o { -brand-short-name } no navegador predeterminado?
 default-browser-prompt-message-alt = Obteña velocidade, seguranza e privacidade cada vez que navegue.

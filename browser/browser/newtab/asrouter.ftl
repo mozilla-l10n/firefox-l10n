@@ -266,8 +266,6 @@ cfr-whatsnew-better-pdf-body = Os documentos PDF agora abren directamente en { -
 
 cfr-doorhanger-doh-body = A súa privacidade importa. { -brand-short-name } dirixe agora as súas solicitudes de DNS de forma segura sempre que sexa posible para un servizo asociado para protexelo mentres navega.
 cfr-doorhanger-doh-header = Consultas aos DNS cifradas e máis seguras
-cfr-doorhanger-doh-primary-button = Entendín
-    .accesskey = E
 cfr-doorhanger-doh-primary-button-2 = Aceptar
     .accesskey = A
 cfr-doorhanger-doh-secondary-button = Desactivar
@@ -313,3 +311,10 @@ cfr-whatsnew-bookmarking-body = É máis doado facer o seguimento dos sitios fav
 
 cfr-whatsnew-cross-site-tracking-header = Protección integral contra o seguimento transversal de rastros entre sitios
 cfr-whatsnew-cross-site-tracking-body = Agora pode optar a unha mellor protección fronte ao rastrexo dos rastros.{ -brand-short-name } pode illar as súas actividades en datos no sitio onde está actualmente e así a información gardada no navegador non se comparte entre sitios web.
+
+## Full Video Support CFR message
+
+cfr-doorhanger-video-support-body = É posíbel que os vídeos deste sitio non se reproduzan correctamente nesta versión do { -brand-short-name }. Para obter compatibilidade completa de vídeo, actualice o { -brand-short-name } agora.
+cfr-doorhanger-video-support-header = Actualizar o { -brand-short-name } para reproducir vídeo
+cfr-doorhanger-video-support-primary-button = Actualizar agora
+    .accesskey = u
