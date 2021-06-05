@@ -5,6 +5,8 @@
 
 ## Tooltips
 
+about-processes-shutdown-tab =
+    .title = Փակել ներդիրը
 
 ## Column headers
 
