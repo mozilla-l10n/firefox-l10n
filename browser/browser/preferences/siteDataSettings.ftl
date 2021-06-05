@@ -6,7 +6,7 @@
 ## Settings
 
 site-data-settings-window =
-    .title = Zachowane ciasteczka i dane stron
+    .title = Zachowane ciasteczka i dane witryn
 site-data-settings-description = Następujące witryny przechowują ciasteczka i dane na tym komputerze. { -brand-short-name } trwale przechowuje dane do czasu ręcznego ich usunięcia i usuwa nietrwałe dane, jeśli potrzebna jest przestrzeń.
 site-data-search-textbox =
     .placeholder = Szukaj witryn
@@ -52,6 +52,6 @@ site-data-remove-shown =
 site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = Usuń
-site-data-removing-header = Usuwanie ciasteczek i danych stron
-site-data-removing-desc = Usunięcie ciasteczek i danych stron może spowodować wylogowanie z niektórych witryn. Czy wprowadzić zmiany?
+site-data-removing-header = Usuwanie ciasteczek i danych witryn
+site-data-removing-desc = Usunięcie ciasteczek i danych witryn może spowodować wylogowanie z niektórych witryn. Czy wprowadzić zmiany?
 site-data-removing-table = Ciasteczka i dane stron następujących witryn zostaną usunięte:
