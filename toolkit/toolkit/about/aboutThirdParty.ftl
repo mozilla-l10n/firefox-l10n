@@ -4,6 +4,10 @@
 
 third-party-page-title = Üçüncü Taraf Modül Bilgileri
 third-party-section-title = { -brand-short-name } tarayıcısındaki üçüncü taraf modüllerin listesi
+third-party-intro =
+    Bu sayfa, { -brand-short-name } tarayıcınıza yüklenmiş üçüncü taraf modülleri
+    gösterir. Microsoft veya { -vendor-short-name } tarafından imzalanmamış
+    herhangi bir modül, üçüncü taraf modül olarak kabul edilir.
 third-party-header-module-list = Modül listesi
 third-party-header-loading-events = Olaylar yükleniyor
 third-party-message-empty = Hiçbir üçüncü taraf modülü algılanmadı.
