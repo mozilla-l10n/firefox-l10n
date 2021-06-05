@@ -5,7 +5,7 @@
 clear-site-data-window =
     .title = Czyszczenie danych
     .style = width: 35em
-clear-site-data-description = Wyczyszczenie wszystkich ciasteczek i danych stron przechowywanych przez przeglądarkę { -brand-short-name } może spowodować wylogowanie ze stron i usunąć treści offline. Czyszczenie danych pamięci podręcznej nie wpłynie na zachowane dane logowania.
+clear-site-data-description = Wyczyszczenie wszystkich ciasteczek i danych witryn przechowywanych przez przeglądarkę { -brand-short-name } może spowodować wylogowanie z witryn i usunąć treści offline. Czyszczenie danych pamięci podręcznej nie wpłynie na zachowane dane logowania.
 clear-site-data-close-key =
     .key = w
 # The parameters in parentheses in this string describe disk usage
@@ -14,7 +14,7 @@ clear-site-data-close-key =
 #   $amount (Number) - Amount of site data currently stored on disk
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
 clear-site-data-cookies-with-data =
-    .label = Ciasteczka i dane stron ({ $amount } { $unit })
+    .label = Ciasteczka i dane witryn ({ $amount } { $unit })
     .accesskey = C
 # This string is a placeholder for while the data used to fill
 # clear-site-data-cookies-with-data is loading. This placeholder is usually
@@ -22,7 +22,7 @@ clear-site-data-cookies-with-data =
 # or the same as clear-site-data-cookies-with-data (except the amount and unit),
 # to avoid flickering.
 clear-site-data-cookies-empty =
-    .label = Ciasteczka i dane stron
+    .label = Ciasteczka i dane witryn
     .accesskey = C
 clear-site-data-cookies-info = Może skutkować wylogowaniem ze stron po wyczyszczeniu
 # The parameters in parentheses in this string describe disk usage

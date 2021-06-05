@@ -183,8 +183,6 @@ page-action-send-tabs-urlbar =
             [few] Wyślij { $tabCount } strony na urządzenie
            *[many] Wyślij { $tabCount } stron na urządzenie
         }
-page-action-pocket-panel =
-    .label = Wyślij stronę do { -pocket-brand-name }
 page-action-copy-url-panel =
     .label = Kopiuj odnośnik
 page-action-copy-url-urlbar =
@@ -346,7 +344,7 @@ identity-permissions-storage-access-learn-more = Więcej informacji
 identity-permissions-reload-hint = Ponowne wczytanie strony może być konieczne, aby wprowadzone zmiany przyniosły skutek.
 identity-permissions-empty = Witryna korzysta z domyślnych uprawnień.
 identity-clear-site-data =
-    .label = Wyczyść ciasteczka i dane stron…
+    .label = Wyczyść ciasteczka i dane witryny…
 identity-connection-not-secure-security-view = Połączenie z tą witryną nie jest zabezpieczone.
 identity-connection-verified = Połączenie z tą witryną jest zabezpieczone.
 identity-ev-owner-label = Certyfikat wystawiony dla:
@@ -621,8 +619,6 @@ crashed-subframe-submit =
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = Wyświetl wszystkie zakładki
 bookmarks-manage-bookmarks =
     .label = Zarządzaj zakładkami
 bookmarks-recent-bookmarks-panel-subheader = Ostatnio dodane zakładki

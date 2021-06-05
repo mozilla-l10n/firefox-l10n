@@ -74,9 +74,12 @@ permissions-exceptions-etp-desc = Ochrona została wyłączona dla tych witryn.
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window =
-    .title = Ciasteczka i dane stron — wyjątki
+    .title = Ciasteczka i dane witryn — wyjątki
     .style = { permissions-window.style }
-permissions-exceptions-cookie-desc = Określ zasady akceptacji ciasteczek i danych stron. Podaj dokładny adres witryny, której uprawnienia chcesz zmodyfikować, a następnie naciśnij Zezwalaj, Blokuj lub Zezwalaj na czas sesji.
+permissions-exceptions-cookie-desc = Określ zasady akceptacji ciasteczek i danych witryn. Podaj dokładny adres witryny, której uprawnienia chcesz zmodyfikować, a następnie naciśnij Zezwalaj, Blokuj lub Zezwalaj na czas sesji.
+
+## Exceptions - HTTPS-Only Mode
+
 
 ## Exceptions - Pop-ups
 
