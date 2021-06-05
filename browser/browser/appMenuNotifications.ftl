@@ -62,6 +62,7 @@ appmenu-update-restart2 =
     .buttonaccesskey = প
     .secondarybuttonlabel = বৰখাস্ত কৰক
     .secondarybuttonaccesskey = ব
+appmenu-update-restart-message2 = { -brand-shorter-name }-ৰ শেহতীয়া সংস্কৰণ লাভ কৰক। খোলা টেব আৰু উইণ্ড'সমূহ পুনঃস্থাপন কৰা হ'ব।
 appmenu-addon-post-install-incognito-checkbox =
     .label = এই এক্সটেনশ্যনক ব্যক্তিগত উইণ্ড'বোৰত চলাৰ অনুমতি দিয়ক
     .accesskey = A
