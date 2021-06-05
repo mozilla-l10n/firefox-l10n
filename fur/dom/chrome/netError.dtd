@@ -2,15 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY loadError.label "Problemis cjamant la pagjine">
-<!ENTITY retry.label "Torne a provâ">
+<!ENTITY loadError.label "Erôr di cjariament de pagjine">
+<!ENTITY retry.label "Torne prove">
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "No si à podût conetisi">
-<!ENTITY connectionFailure.longDesc "<p>Ancje se il sît al samee valit, il sgarfadôr nol è rivât a stabilî une conession.</p><ul><li>Podaressial jessi che il sît al in chest moment no disponbil? Torne a provâ ca di un pôc.</li><li>Rivistu a navigâ in altris sîts? Controle la conession ae rêt dal to ordenadôr.</li><li>Isal il to ordenadôr o rêt protezût di un firewall o di un proxy? Une configurazion sbaliade e podarès interferî cu la navigazion Internet.</li></ul>">
+<!ENTITY connectionFailure.title "No si è rivâts a conetisi">
+<!ENTITY connectionFailure.longDesc "<p>Ancje se il sît al somee valit, il navigadôr nol è rivât a stabilî une conession.</p><ul><li>Podaressial jessi che in chest moment il sît nol sedi disponibil? Torne prove chi di un pôc.</li><li>Rivistu a navigâ in altris sîts?  Controle la conession ae rêt dal to computer.</li><li>Sono il to computer o la rêt protezûts di un firewall o di un proxy? Une configurazion sbaliade e podarès interferî cu la navigazion Internet.</li></ul>">
 
-<!ENTITY deniedPortAccess.title "Puarte blocade par motîfs di sigurece">
+<!ENTITY deniedPortAccess.title "Puarte sogjete a restrizions par motîfs di sigurece">
 
 <!ENTITY dnsNotFound.title "Indiriç no cjatât">
 <!ENTITY dnsNotFound.longDesc "<p>Il navigadôr nol à podût cjatâ il servidôr che al ospite la direzion indicade.</p><ul><li>Âstu sbaliât di scrivi il domini? (p.e. <q><strong>ww</strong>.mozilla.org</q> invezit di <q><strong>www</strong>.mozilla.org</q>)</li><li>Esistie pardabon la direzion di chest domini?  La sô regjistrazion e podarès jessi scjadude.</li><li>Rivistu a navigâ su altris sîts?  Verifiche la conession ae rêt e lis impostazions dal servidôr DNS.</li><li>Il to computer o la tô rêt sono protezûts di un firewall o di un proxy?  Impostazions sbaliadis a puedin interferî cu la navigazion tal web.</li></ul>">
