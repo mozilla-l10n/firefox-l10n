@@ -44,6 +44,13 @@ upgrade-dialog-pin-title =
         [macos] Оставить { -brand-short-name } в моем Dock
        *[other] Закрепить { -brand-short-name } на моей панели задач
     }
+# The English macOS string avoids repeating "Keep" a third time, so if your
+# translations don't repeat anyway, the same string can be used cross-platform.
+upgrade-dialog-pin-subtitle =
+    { PLATFORM() ->
+        [macos] Быстрый и легкий доступ к самому новому { -brand-short-name }.
+       *[other] Держите самый новый { -brand-short-name } под своей рукой.
+    }
 upgrade-dialog-pin-primary-button =
     { PLATFORM() ->
         [macos] Оставить в Dock
