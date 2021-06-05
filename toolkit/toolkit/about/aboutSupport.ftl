@@ -342,6 +342,7 @@ policies-error = Սխալ
 
 ## Printing section
 
+support-printing-title = Տպում է
 support-printing-troubleshoot = Խափանաշտկում
 
 ## Normandy sections

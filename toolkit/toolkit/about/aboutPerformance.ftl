@@ -23,7 +23,7 @@ preloaded-tab = Նախաբեռնված․ { $title }
 
 type-tab = Ներդիր
 type-subframe = Ենթաշրջանակ
-type-tracker = Հետևող
+type-tracker = Հետագծում
 type-addon = Հավելում
 type-browser = Զննարկիչ
 type-worker = Աշխատող
