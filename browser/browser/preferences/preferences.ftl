@@ -66,7 +66,6 @@ category-experimental =
     .tooltiptext = Eksperymenty przeglądarki { -brand-short-name }
 pane-experimental-subtitle = Zachowaj ostrożność
 pane-experimental-search-results-header = Eksperymenty przeglądarki { -brand-short-name }: zachowaj ostrożność
-pane-experimental-description = Modyfikacja zaawansowanych preferencji może wpłynąć na wydajność lub bezpieczeństwo przeglądarki { -brand-short-name }.
 pane-experimental-description2 = Modyfikacja zaawansowanych ustawień może wpłynąć na wydajność lub bezpieczeństwo przeglądarki { -brand-short-name }.
 pane-experimental-reset =
     .label = Przywróć domyślne
@@ -921,22 +920,22 @@ history-clear-button =
 
 ## Privacy Section - Site Data
 
-sitedata-header = Ciasteczka i dane stron
-sitedata-total-size-calculating = Obliczanie rozmiaru danych i pamięci podręcznej stron…
+sitedata-header = Ciasteczka i dane witryn
+sitedata-total-size-calculating = Obliczanie rozmiaru danych i pamięci podręcznej witryn…
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size = Przechowywane ciasteczka, dane i pamięć podręczna stron zajmują { $value } { $unit } na dysku.
+sitedata-total-size = Przechowywane ciasteczka, dane i pamięć podręczna witryn zajmują { $value } { $unit } na dysku.
 sitedata-learn-more = Więcej informacji
 sitedata-delete-on-close =
-    .label = Usuwanie ciasteczek i danych stron podczas zamykania przeglądarki { -brand-short-name }
+    .label = Usuwanie ciasteczek i danych witryn podczas zamykania przeglądarki { -brand-short-name }
     .accesskey = U
-sitedata-delete-on-close-private-browsing = W stale aktywnym trybie przeglądania prywatnego ciasteczka i dane stron są zawsze usuwane podczas zamykania programu { -brand-short-name }.
+sitedata-delete-on-close-private-browsing = W stale aktywnym trybie przeglądania prywatnego ciasteczka i dane witryn są zawsze usuwane podczas zamykania programu { -brand-short-name }.
 sitedata-allow-cookies-option =
-    .label = Akceptowanie ciasteczek i danych stron
+    .label = Akceptowanie ciasteczek i danych witryn
     .accesskey = A
 sitedata-disallow-cookies-option =
-    .label = Blokowanie ciasteczek i danych stron
+    .label = Blokowanie ciasteczek i danych witryn
     .accesskey = B
 # This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
 # The list items are the strings named sitedata-block-*-option*.
@@ -1024,7 +1023,6 @@ content-blocking-etp-strict-desc = Silniejsza ochrona, ale może powodować niep
 content-blocking-etp-custom-desc = Wybierz, które elementy śledzące i skrypty blokować:
 content-blocking-etp-blocking-desc = { -brand-short-name } blokuje:
 content-blocking-private-windows = treści z elementami śledzącymi w oknach prywatnych
-content-blocking-cross-site-cookies = ciasteczka między witrynami
 content-blocking-cross-site-cookies-in-all-windows = ciasteczka między witrynami we wszystkich oknach (w tym śledzące)
 content-blocking-cross-site-tracking-cookies = ciasteczka śledzące między witrynami
 content-blocking-all-cross-site-cookies-private-windows = ciasteczka między witrynami w prywatnych oknach
@@ -1203,8 +1201,8 @@ space-alert-over-5gb-pref-button =
         }
 space-alert-over-5gb-message =
     { PLATFORM() ->
-        [windows] Przeglądarce { -brand-short-name } zaczyna brakować miejsca na dysku. Zawartość stron może być wyświetlana niepoprawnie. Przechowywane dane może wyczyścić w Opcje → Prywatność i bezpieczeństwo → Ciasteczka i dane stron.
-       *[other] Przeglądarce { -brand-short-name } zaczyna brakować miejsca na dysku. Zawartość stron może być wyświetlana niepoprawnie. Przechowywane dane może wyczyścić w Preferencje → Prywatność i bezpieczeństwo → Ciasteczka i dane stron.
+        [windows] Przeglądarce { -brand-short-name } zaczyna brakować miejsca na dysku. Zawartość stron może być wyświetlana niepoprawnie. Przechowywane dane może wyczyścić w Opcje → Prywatność i bezpieczeństwo → Ciasteczka i dane witryn.
+       *[other] Przeglądarce { -brand-short-name } zaczyna brakować miejsca na dysku. Zawartość stron może być wyświetlana niepoprawnie. Przechowywane dane może wyczyścić w Preferencje → Prywatność i bezpieczeństwo → Ciasteczka i dane witryn.
     }
 space-alert-under-5gb-ok-button =
     .label = OK
@@ -1213,7 +1211,7 @@ space-alert-under-5gb-message = Przeglądarce { -brand-short-name } zaczyna brak
 space-alert-over-5gb-settings-button =
     .label = Otwórz ustawienia
     .accesskey = O
-space-alert-over-5gb-message2 = <strong>Przeglądarce { -brand-short-name } zaczyna brakować miejsca na dysku.</strong> Zawartość stron może być wyświetlana niepoprawnie. Przechowywane dane może wyczyścić w Ustawienia → Prywatność i bezpieczeństwo → Ciasteczka i dane stron.
+space-alert-over-5gb-message2 = <strong>Przeglądarce { -brand-short-name } zaczyna brakować miejsca na dysku.</strong> Zawartość stron może być wyświetlana niepoprawnie. Przechowywane dane może wyczyścić w Ustawienia → Prywatność i bezpieczeństwo → Ciasteczka i dane witryn.
 space-alert-under-5gb-message2 = <strong>Przeglądarce { -brand-short-name } zaczyna brakować miejsca na dysku.</strong> Zawartość stron może być wyświetlana niepoprawnie. Skorzystaj z odnośnika „Więcej informacji”, aby zoptymalizować użycie dysku dla lepszego przeglądania.
 
 ## Privacy Section - HTTPS-Only
