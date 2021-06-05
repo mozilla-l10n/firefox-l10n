@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 process-type-web = Contido web
+process-type-browser = Principal
 # process used to run privileged about pages,
 # such as about:home
 process-type-privilegedabout = Privilexiado sobre
@@ -25,3 +26,5 @@ process-type-gpu = GPU
 process-type-socket = Zócalo
 # process preallocated; may change to other types
 process-type-prealloc = Prealocado
+# process used to decode media
+process-type-rdd = RDD
