@@ -21,6 +21,8 @@ third-party-th-duration = Yükleme süresi (ms)
 third-party-th-status = Durum
 third-party-tag-ime = IME
     .title = Bu modül türü, üçüncü taraf IME kullandığınızda yüklenir.
+third-party-tag-shellex = Kabuk uzantısı
+    .title = Bu modül türü, sistem dosyası iletişim kutusunu açtığınızda yüklenir.
 third-party-tag-background = Arka plan
     .title =
         Bu modül arka planda yüklendiği için
