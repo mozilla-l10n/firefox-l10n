@@ -43,7 +43,7 @@ newtab-topsites-url-input =
 newtab-topsites-url-validation = URL valit necessari
 newtab-topsites-image-url-label = URL di imagjin personalizade
 newtab-topsites-use-image-link = Dopre une imagjin personalizade…
-newtab-topsites-image-validation = Nol è stât pussibil cjariâ la imagjin. Prove cuntun URL diferent.
+newtab-topsites-image-validation = No si à rivât a cjariâ la imagjin. Prove cuntun URL diferent.
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 

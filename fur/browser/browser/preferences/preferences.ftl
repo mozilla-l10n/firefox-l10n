@@ -54,7 +54,6 @@ category-experimental =
     .tooltiptext = Esperiments di { -brand-short-name }
 pane-experimental-subtitle = Continue cun cautele
 pane-experimental-search-results-header = Esperiments di { -brand-short-name }: continue cun cautele
-pane-experimental-description = Modificant lis preferencis di configurazion avanzadis si pues lâ a tocjâ lis prestazions di { -brand-short-name } o la sigurece.
 pane-experimental-reset =
     .label = Ripristine predefinîts
     .accesskey = R
@@ -822,7 +821,7 @@ forms-primary-pw-change =
 # use { "" } as the value.
 forms-primary-pw-former-name = Une volte cognossude tant che password principâl
 forms-primary-pw-fips-title = Tu sês cumò te modalitât FIPS. FIPS al domande une password primarie no vueide.
-forms-master-pw-fips-desc = No si è rivâts a cambiâ la password
+forms-master-pw-fips-desc = No si à rivât a cambiâ la password
 
 ## OS Authentication dialog
 
@@ -987,7 +986,6 @@ content-blocking-etp-standard-desc = Belançât par vê protezion e prestazions.
 content-blocking-etp-strict-desc = Protezion miorade, ma cualchi sît o contignût al podarès no funzionâ ben.
 content-blocking-etp-custom-desc = Sielç cualis spiis (trackers) e scripts blocâ.
 content-blocking-private-windows = Contignûts che a spiin tai barcons privâts
-content-blocking-cross-site-cookies = Cookies inter-sît
 content-blocking-cross-site-tracking-cookies = Cookies inter-sît che a spiin
 content-blocking-cross-site-tracking-cookies-plus-isolate = Cookies inter-sît che a spiin e isole i cookies che a restin
 content-blocking-social-media-trackers = Spiis (trackers) dai social media
