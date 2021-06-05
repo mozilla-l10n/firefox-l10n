@@ -12,6 +12,7 @@ preferences-title =
         }
 preferences-tab-title =
     .title = Tercihler
+preferences-doc-title = Tercihler
 category-list =
     .aria-label = Kategoriler
 pane-general-title = Genel

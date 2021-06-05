@@ -16,6 +16,9 @@ about-rights-notification-text = { -brand-short-name }, tüm dünyadan binlerce 
 addons-and-themes-button =
     .label = Eklentiler ve temalar
     .tooltip = Eklentilerinizi yönetin
+redirect-msg-button =
+    .label = Yönlendir
+    .tooltiptext = Seçilen iletiyi yönlendir
 
 ## Folder Pane
 
@@ -50,6 +53,12 @@ folder-toolbar-toggle-folder-compact-view =
     .label = Yoğun görünüm
     .accesskey = Y
 
+## Menu
+
+redirect-msg-menuitem =
+    .label = Yönlendir
+    .accesskey = Y
+
 ## AppMenu
 
 # Since v89 we dropped the platforms distinction between Options or Preferences
@@ -64,6 +73,18 @@ appmenu-help-exit-troubleshoot-mode =
     .label = Sorun giderme modunu kapat
 appmenu-help-more-troubleshooting-info =
     .label = Sorun giderme bilgileri
+appmenu-redirect-msg =
+    .label = Yönlendir
+
+## Context menu
+
+context-menu-redirect-msg =
+    .label = Yönlendir
+
+## Message header pane
+
+other-action-redirect-msg =
+    .label = Yönlendir
 
 ## Action Button Context Menu
 
@@ -73,6 +94,9 @@ toolbar-context-menu-manage-extension =
 toolbar-context-menu-remove-extension =
     .label = Uzantıyı kaldır
     .accesskey = n
+
+## Message headers
+
 
 ## Add-on removal warning
 
