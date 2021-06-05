@@ -7,7 +7,7 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "No si è rivâts a conetisi">
+<!ENTITY connectionFailure.title "No si à rivât a conetisi">
 <!ENTITY connectionFailure.longDesc "<p>Ancje se il sît al somee valit, il navigadôr nol è rivât a stabilî une conession.</p><ul><li>Podaressial jessi che in chest moment il sît nol sedi disponibil? Torne prove chi di un pôc.</li><li>Rivistu a navigâ in altris sîts?  Controle la conession ae rêt dal to computer.</li><li>Sono il to computer o la rêt protezûts di un firewall o di un proxy? Une configurazion sbaliade e podarès interferî cu la navigazion Internet.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "Puarte sogjete a restrizions par motîfs di sigurece">
@@ -33,6 +33,7 @@
 <!ENTITY netInterrupt.longDesc "<p>Il navigadôr si è conetût in mût coret, ma la conession e je stade interote dilunc il trasferiment des informazions.  Par plasê torne prove.</p><ul><li>Rivistu a navigâ in altris sîts? Controle la conession ae rêt dal to computer.</li><li>Âstu ancjemò problemis? Consulte il to aministradôr di rêt o il to furnidôr di servizis Internet par vê assistence.</li></ul>">
 
 <!ENTITY notCached.title "Document scjadût">
+<!ENTITY notCached.longDesc "<p>Il document domandât nol è disponibil inte memorie cache dal navigadôr.</p><ul><li>Tant che misure di sigurece, il navigadôr nol torne a domandâ documents sensibii.</li><li>Fâs clic su Torne prove par tornâ a domandâ il document dal sît web.</li></ul>">
 
 <!ENTITY netOffline.title "Modalitât fûr rêt">
 <!ENTITY netOffline.longDesc2 "<p>In chest moment il browser al è in modalitât no in linie e nol pues conetisi al ogjet domandât.</p> 
