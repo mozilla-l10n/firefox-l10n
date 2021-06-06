@@ -61,7 +61,7 @@ cfr-doorhanger-extension-total-users =
         [few] { $total } uživatelé
        *[other] { $total } uživatelů
     }
-cfr-doorhanger-pintab-description = Nechte si nejpoužívanější stránky po ruce v panelu, který neztratíe ani při restartu počítače.
+cfr-doorhanger-pintab-description = Nechte si nejpoužívanější stránky po ruce v panelu, který neztratíte ani při restartu počítače.
 
 ## These messages are steps on how to use the feature and are shown together.
 
@@ -346,7 +346,7 @@ cfr-whatsnew-supercookies-body = Některé servery tajně posílají vašemu pro
 ## What's new: Better bookmarking
 
 cfr-whatsnew-bookmarking-header = Vylepšená funkce záložek
-cfr-whatsnew-bookmarking-body = Zpráva vašich oblíbených stránek je nyní jednodušší. { -brand-short-name } si pamatuje vámi preferované umístění pro ukládání nových záložek, ve výchozím nastavení zobrazuje lištu záložek při otevření nového panelu, která zároveň poskytuje snadný přístup k ostatním nesetříděným záložkám.
+cfr-whatsnew-bookmarking-body = Zpráva vašich oblíbených stránek je nyní jednodušší. { -brand-short-name } si pamatuje vámi preferované umístění pro ukládání nových záložek, ve výchozím nastavení zobrazuje lištu záložek při otevření nového panelu, která zároveň poskytuje snadný přístup k ostatním záložkám.
 
 ## What's new: Cross-site cookie tracking
 

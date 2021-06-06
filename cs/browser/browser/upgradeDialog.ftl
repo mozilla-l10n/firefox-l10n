@@ -73,6 +73,37 @@ upgrade-dialog-new-secondary-button = Teď ne
 # theme selection screen.
 upgrade-dialog-new-primary-win7-button = Ok, rozumím
 
+## Pin Firefox screen
+##
+## These title, subtitle and button strings differ between platforms as they
+## match the OS' application context menu item action where Windows uses "pin"
+## and "taskbar" while macOS "keep" and "Dock" (proper noun).
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-pin-title =
+    { PLATFORM() ->
+        [macos]
+            Připnout { -brand-short-name.gender ->
+                [masculine] { -brand-short-name(case: "acc") }
+                [feminine] { -brand-short-name(case: "acc") }
+                [neuter] { -brand-short-name(case: "acc") }
+               *[other] aplikaci { -brand-short-name }
+            } do docku
+       *[other]
+            Připnout { -brand-short-name.gender ->
+                [masculine] { -brand-short-name(case: "acc") }
+                [feminine] { -brand-short-name(case: "acc") }
+                [neuter] { -brand-short-name(case: "acc") }
+               *[other] aplikaci { -brand-short-name }
+            } na lištu
+    }
+upgrade-dialog-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Připnout do docku
+       *[other] Připnout na lištu
+    }
+upgrade-dialog-pin-secondary-button = Teď ne
+
 ## Default browser screen
 
 # This title can be explicitly wrapped to control which words are on which line.
@@ -85,6 +116,16 @@ upgrade-dialog-default-title =
     } nastavit jako svůj výchozí prohlížeč?
 upgrade-dialog-default-subtitle = Získejte rychlost, bezpečnost a soukromí pro své prohlížení.
 upgrade-dialog-default-primary-button = Nastavit jako výchozí prohlížeč
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title-2 =
+    Nastavit { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "acc") }
+        [feminine] { -brand-short-name(case: "acc") }
+        [neuter] { -brand-short-name(case: "acc") }
+       *[other] aplikaci { -brand-short-name }
+    } jako výchozí prohlížeč
+upgrade-dialog-default-subtitle-2 = Rychlost, bezpečnost a soukromí především.
+upgrade-dialog-default-primary-button-2 = Nastavit jako výchozí prohlížeč
 upgrade-dialog-default-secondary-button = Teď ne
 
 ## Theme selection screen
@@ -93,6 +134,8 @@ upgrade-dialog-default-secondary-button = Teď ne
 upgrade-dialog-theme-title =
     Začněte s čistým
     novým vzhledem
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-theme-title-2 = Začněte s čistým a novým vzhledem
 upgrade-dialog-theme-system = Podle systému
     .title = Vzhled s barevným tématem podle nastavení operačního systému.
 upgrade-dialog-theme-light = Světlý
