@@ -51,7 +51,7 @@ perftools-devtools-settings-label = Ajustes
 
 perftools-status-private-browsing-notice =
     El perfilador se desactiva cuando se activa la navegación privada.
-    Ciere todas las ventanas privadas para volver a activar el perfilador
+    Cierre todas las ventanas privadas para volver a activar el perfilador
 perftools-status-recording-stopped-by-another-tool = Otra herramienta detuvo la grabación.
 perftools-status-restart-required = Se debe reiniciar el navegador para activar esta función.
 
@@ -108,7 +108,6 @@ perftools-tools-threads-input-label =
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
 ## preferences are true.
 
--profiler-brand-name = Firefox Profiler
 perftools-onboarding-message = <b>Nuevo</b>: { -profiler-brand-name } ahora está integrado en las herramientas para desarrolladores. <a>Saber más</a> sobre esta poderosa herramienta.
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (Por un tiempo limitado, puede acceder al panel original de rendimiento a través de <a>{ options-context-advanced-settings }</a>)
