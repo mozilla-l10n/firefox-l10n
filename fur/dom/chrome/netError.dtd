@@ -91,12 +91,19 @@
 <p>Se tu desideris distès zontâ une ecezion par chest sît, tu puedis fâlu tes tôs impostazions di cifradure avanzade.</p>
 ">
 
+<!ENTITY cspBlocked.title "Blocât des politichis di sigurece dai contignûts">
+<!ENTITY cspBlocked.longDesc "<p>Il navigadôr al à impedît a cheste pagjine di cjariâsi in cheste maniere parcè che la pagjine e à une politiche di sigurece dai contignûts che no lu permet.</p>">
 
+<!ENTITY xfoBlocked.title "Blocât des politichis X-Frame-Options">
+<!ENTITY xfoBlocked.longDesc "<p>Il navigadôr al à impedît il cjariament di cheste pagjine in chest contest parcè che la pagjine e à une politiche X-Frame-Options che no lu permet.</p>">
 
+<!ENTITY corruptedContentErrorv2.title "Erôr di contignût ruvinât">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Nol è pussibil mostrâ la pagjine che tu stâs cirint di visualizâ parcè che al è stât rilevât un erôr te trasmission dai dâts.</p><ul><li>Par plasê contate i proprietaris dal sît web par informâju di chest probleme.</li></ul>">
 
-<!ENTITY remoteXUL.title "XUL remot">
+<!ENTITY remoteXUL.title "XUL esterni">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Contate par plasê l'aministradôr dal sît par informâlu di chest probleme.</li></ul></p>">
 
+<!ENTITY inadequateSecurityError.title "La tô conession no je sigure">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 
