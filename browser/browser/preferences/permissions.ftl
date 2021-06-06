@@ -18,6 +18,12 @@ permissions-session =
 permissions-allow =
     .label = Дазволіць
     .accesskey = Д
+permissions-button-off =
+    .label = Выключыць
+    .accesskey = В
+permissions-button-off-temporarily =
+    .label = Часова выключыць
+    .accesskey = Ч
 permissions-site-name =
     .label = Вэб-сайт
 permissions-status =
@@ -58,6 +64,10 @@ permissions-capabilities-listitem-block =
     .value = Блакаваць
 permissions-capabilities-listitem-allow-session =
     .value = Дазволіць на час сэсіі
+permissions-capabilities-listitem-off =
+    .value = Выкл.
+permissions-capabilities-listitem-off-temporarily =
+    .value = Часова выкл.
 
 ## Invalid Hostname Dialog
 
@@ -83,7 +93,7 @@ permissions-exceptions-cookie-desc = Вы можаце ўказаць, якім 
 permissions-exceptions-https-only-window =
     .title = Выключэнні - Рэжым толькі HTTPS
     .style = { permissions-window.style }
-permissions-exceptions-https-only-desc = Вы можаце адключыць рэжым толькі HTTPS для пэўных вэб-сайтаў. { -brand-short-name } не будзе спрабаваць пераключыць злучэнне на бяспечны HTTPS для гэтых сайтаў. Выключэнні не распаўсюджваюцца на прыватныя вокны.
+permissions-exceptions-https-only-desc = Вы можаце выключыць рэжым толькі HTTPS для пэўных вэб-сайтаў. { -brand-short-name } не будзе спрабаваць пераключыць злучэнне на бяспечны HTTPS для гэтых сайтаў. Выключэнні не распаўсюджваюцца на прыватныя вокны.
 
 ## Exceptions - Pop-ups
 
