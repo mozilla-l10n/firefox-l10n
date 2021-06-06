@@ -267,15 +267,39 @@ onboarding-multistage-theme-description-alpenglow =
 # Firefox to pursue those passions, as well as the boldness in their
 # choice to use Firefox over a larger competitor browser.
 # An alternative title for localization is: "It starts here".
+# This text can be formatted to span multiple lines as needed.
 mr1-welcome-screen-hero-text = Ён пачынаецца тут
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Адключыць анімацыі
+
+## Title and primary button strings differ between platforms as they
+## match the OS' application context menu item action where Windows uses "pin"
+## and "taskbar" while macOS "keep" and "Dock" (proper noun).
+
+# Title used on welcome page when Firefox is not pinned
+mr1-onboarding-pin-header =
+    { PLATFORM() ->
+        [macos] Для зручнага доступу дадайце { -brand-short-name } у Док
+       *[other] Для зручнага доступу замацуйце { -brand-short-name } на панэлі задач
+    }
+
+## Multistage MR1 onboarding strings (about:welcome pages)
+
 mr1-onboarding-welcome-header = Вітаем у { -brand-short-name }
 mr1-onboarding-set-default-pin-primary-button-label = Зрабіць { -brand-short-name } маім асноўным браўзерам
     .title = Усталёўвае { -brand-short-name } прадвызначаным браўзерам і замацоўвае ў панэлі задач
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
 mr1-onboarding-set-default-only-primary-button-label = Зрабіць { -brand-short-name } маім прадвызначаным браўзерам
 mr1-onboarding-set-default-secondary-button-label = Не зараз
 mr1-onboarding-sign-in-button-label = Увайсці
+
+## Title, subtitle and primary button string used on set default onboarding screen
+## when Firefox is not default browser
+
+
+## Multistage MR1 onboarding strings (about:welcome pages)
+
 mr1-onboarding-import-header = Вазьміце ўсё з сабой
 mr1-onboarding-import-subtitle = Імпартуйце свае паролі, <br/>закладкі і шмат іншага.
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.

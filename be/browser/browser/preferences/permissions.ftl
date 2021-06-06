@@ -78,6 +78,13 @@ permissions-exceptions-cookie-window =
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = Вы можаце ўказаць, якім вэб-сайтам заўжды дазволена або забаронена выкарыстоўваць кукі і дадзеныя сайтаў.  Упішыце дакладны адрас сайта, якім вы хочаце распарадзіцца, і націсніце Блакаваць, Дазволіць на сеанс, або Дазволіць.
 
+## Exceptions - HTTPS-Only Mode
+
+permissions-exceptions-https-only-window =
+    .title = Выключэнні - Рэжым толькі HTTPS
+    .style = { permissions-window.style }
+permissions-exceptions-https-only-desc = Вы можаце адключыць рэжым толькі HTTPS для пэўных вэб-сайтаў. { -brand-short-name } не будзе спрабаваць пераключыць злучэнне на бяспечны HTTPS для гэтых сайтаў. Выключэнні не распаўсюджваюцца на прыватныя вокны.
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window =
