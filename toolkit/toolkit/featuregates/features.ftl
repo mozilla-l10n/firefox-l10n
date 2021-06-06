@@ -19,6 +19,11 @@ experimental-features-media-avif =
 experimental-features-media-avif-description = Калі гэтая функцыя ўключана, { -brand-short-name } будзе падтрымлiваць фармат файла выявы AV1 (AVIF). Гэта фармат файлаў нерухомых выяў, які выкарыстоўвае магчымасці алгарытмаў сціску відэа AV1 для памяншэння памеру выявы. Для больш падрабязнай інфармацыі гл. <a data-l10n-name="bugzilla">хiбу 1443863</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
+experimental-features-media-jxl =
+    .label = Media: JPEG XL
+experimental-features-media-jxl-description = Калі гэтая функцыя ўключана, { -brand-short-name } падтрымлівае фармат JPEG XL (JXL). Гэта палепшаны фармат файла выявы, які падтрымлівае ператварэнне без страт з традыцыйных файлаў JPEG. Для больш падрабязнай інфармацыі гл. <a data-l10n-name="bugzilla">хiбу 1539075</a>.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
     .label = Web API: inputmode
 # "inputmode" and "contenteditable" are technical terms and shouldn't be translated.
