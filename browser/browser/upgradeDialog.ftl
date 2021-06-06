@@ -8,12 +8,22 @@
 
 ## New changes screen
 
+upgrade-dialog-new-item-tabs-title = Заманауи беттер
+upgrade-dialog-new-item-tabs-description = Фокусты және оңай навигацияны қолдайтын ақпараттың икемді көрінісі
+upgrade-dialog-new-item-icons-title = Жаңартылған таңбалашалар және айқын хабарламалар
 upgrade-dialog-new-primary-pin-alt-button = Тапсырмалар панеліне бекіту
 upgrade-dialog-new-primary-theme-button = Теманы таңдау
 upgrade-dialog-new-secondary-button = Қазір емес
 # This string is only shown on Windows 7, where we intentionally suppress the
 # theme selection screen.
 upgrade-dialog-new-primary-win7-button = Жақсы, түсіндім!
+
+## Pin Firefox screen
+##
+## These title, subtitle and button strings differ between platforms as they
+## match the OS' application context menu item action where Windows uses "pin"
+## and "taskbar" while macOS "keep" and "Dock" (proper noun).
+
 
 ## Default browser screen
 

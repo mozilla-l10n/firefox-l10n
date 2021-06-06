@@ -260,8 +260,6 @@ cfr-whatsnew-better-pdf-body = PDF құжаттары енді тікелей { 
 
 cfr-doorhanger-doh-body = Сіздің жекелігіңіз маңызды. { -brand-short-name } енді шолу кезінде сізді қорғау үшін DNS сұранымдарыңызды мүмкін болған кезде серіктес қызметі арқылы қауіпсіз түрде бағыттайды.
 cfr-doorhanger-doh-header = Одан әрі қауіпсіз, шифрленген DNS іздеулері
-cfr-doorhanger-doh-primary-button = Жақсы, түсіндім
-    .accesskey = а
 cfr-doorhanger-doh-primary-button-2 = ОК
     .accesskey = О
 cfr-doorhanger-doh-secondary-button = Сөндіру
@@ -307,3 +305,8 @@ cfr-whatsnew-bookmarking-body = Сіздің сүйікті сайттарыңы
 
 cfr-whatsnew-cross-site-tracking-header = Сайтаралық cookie файлдары бақылауынан кешенді қорғау
 cfr-whatsnew-cross-site-tracking-body = Сіз енді бақылайтын cookie файлдарынан жақсартылған қорғанысты іске қоса аласыз. { -brand-short-name } браузерде сақталған ақпаратпен веб-сайттармен бөліспеу үшін сіздің әрекеттеріңіз бен деректерді сіз тұрған сайтта оқшаулай алады.
+
+## Full Video Support CFR message
+
+cfr-doorhanger-video-support-primary-button = Қазір жаңарту
+    .accesskey = у
