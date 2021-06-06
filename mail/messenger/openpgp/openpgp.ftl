@@ -301,6 +301,15 @@ openpgp-keygen-external-success = ID externího klíče v GnuPG bylo uloženo!
 openpgp-radio-none =
     .label = Žádný
 openpgp-radio-none-desc = Pro tuto identitu OpenPGP nepoužívat.
+openpgp-radio-key-not-usable = Tento klíč nelze použít jako osobní, protože chybí tajný klíč.
+openpgp-radio-key-not-accepted = Pro použití tohoto klíče ho nejprve musíte schválit jako osobní.
+openpgp-radio-key-not-found =
+    Tento klíč se nepodařilo najít. Pokud ho chcete použít, nejdříve ho do { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "gen") }
+        [feminine] { -brand-short-name(case: "gen") }
+        [neuter] { -brand-short-name(case: "gen") }
+       *[other] aplikace { -brand-short-name }
+    } naimportujte.
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = Datum konce platnosti: { $date }
 openpgp-key-expires-image =
@@ -651,5 +660,6 @@ dlg-button-retry = &Opakovat
 dlg-button-skip = &Přeskočit
 # Strings used in enigmailCommon.js
 enig-error = Chyba OpenPGP
+# Strings used in enigmailMsgBox.js
 enig-alert-title =
     .title = Upozornění - OpenPGP
