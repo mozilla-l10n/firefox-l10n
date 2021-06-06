@@ -340,9 +340,46 @@ onboarding-multistage-theme-description-alpenglow =
 mr1-welcome-screen-hero-text = Začínáme
 # Caption for background image in about:welcome. "Soraya Osorio" is the name
 # of the person and shouldn't be translated.
+# In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
+# You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = Soraya Osorio — návrhářka nábytku a fanynka Firefoxu
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Vypnout animace
+
+## Title and primary button strings differ between platforms as they
+## match the OS' application context menu item action where Windows uses "pin"
+## and "taskbar" while macOS "keep" and "Dock" (proper noun).
+
+# Title used on welcome page when Firefox is not pinned
+mr1-onboarding-pin-header =
+    { PLATFORM() ->
+        [macos]
+            { -brand-short-name.gender ->
+                [masculine] Mějte { -brand-short-name(case: "acc") } na dosah připnutý ve svém docku.
+                [feminine] Mějte { -brand-short-name(case: "acc") } na dosah připnutou ve svém docku.
+                [neuter] Mějte { -brand-short-name(case: "acc") } na dosah připnuté ve svém docku.
+               *[other] Mějte aplikaci { -brand-short-name } na dosah připnutou ve svém docku.
+            }
+       *[other]
+            { -brand-short-name.gender ->
+                [masculine] Mějte { -brand-short-name(case: "acc") } na dosah připnutý na své liště.
+                [feminine] Mějte { -brand-short-name(case: "acc") } na dosah připnutou na své liště.
+                [neuter] Mějte { -brand-short-name(case: "acc") } na dosah připnuté na své liště.
+               *[other] Mějte aplikaci { -brand-short-name } na dosah připnutou na své liště.
+            }
+    }
+# Primary button string used on welcome page when Firefox is not pinned.
+mr1-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Připnout do docku
+       *[other] Připnout na lištu
+    }
+
+## Multistage MR1 onboarding strings (about:welcome pages)
+
+# This string will be used on welcome page primary button label
+# when Firefox is both pinned and default
+mr1-onboarding-get-started-primary-button-label = Jdeme na to
 mr1-onboarding-welcome-header = Vítá vás { -brand-short-name }
 mr1-onboarding-set-default-pin-primary-button-label =
     Nastavit { -brand-short-name.gender ->
@@ -363,6 +400,8 @@ mr1-onboarding-set-default-pin-primary-button-label =
             [neuter] ho
            *[other] ji
         } na lištu
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
 mr1-onboarding-set-default-only-primary-button-label =
     Nastavit { -brand-short-name.gender ->
         [masculine] { -brand-short-name(case: "acc") }
@@ -372,6 +411,22 @@ mr1-onboarding-set-default-only-primary-button-label =
     } jako můj výchozí prohlížeč
 mr1-onboarding-set-default-secondary-button-label = Teď ne
 mr1-onboarding-sign-in-button-label = Přihlásit se
+
+## Title, subtitle and primary button string used on set default onboarding screen
+## when Firefox is not default browser
+
+mr1-onboarding-default-header =
+    Nastavit { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "acc") }
+        [feminine] { -brand-short-name(case: "acc") }
+        [neuter] { -brand-short-name(case: "acc") }
+       *[other] aplikaci { -brand-short-name }
+    } jako výchozí prohlížeč
+mr1-onboarding-default-subtitle = Rychlost, bezpečnost a soukromí především.
+mr1-onboarding-default-primary-button-label = Nastavit jako výchozí prohlížeč
+
+## Multistage MR1 onboarding strings (about:welcome pages)
+
 mr1-onboarding-import-header = Všechno, vždy a po ruce
 mr1-onboarding-import-subtitle = Importujte svá hesla, <br/>záložky a další
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.

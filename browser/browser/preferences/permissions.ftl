@@ -18,6 +18,12 @@ permissions-session =
 permissions-allow =
     .label = Povolit
     .accesskey = P
+permissions-button-off =
+    .label = Vypnout
+    .accesskey = o
+permissions-button-off-temporarily =
+    .label = Dočasně vypnout
+    .accesskey = t
 permissions-site-name =
     .label = Server
 permissions-status =
@@ -58,6 +64,10 @@ permissions-capabilities-listitem-block =
     .value = Blokovat
 permissions-capabilities-listitem-allow-session =
     .value = Povolit pro relaci
+permissions-capabilities-listitem-off =
+    .value = Vypnuto
+permissions-capabilities-listitem-off-temporarily =
+    .value = Dočasně vypnuto
 
 ## Invalid Hostname Dialog
 
@@ -77,6 +87,13 @@ permissions-exceptions-cookie-window =
     .title = Výjimky pro používání cookies a dat stránek
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = Zde můžete určit, které servery mohou nebo nesmí používat cookies a data stránek. Zadejte přesnou adresu serveru a klepněte na tlačítko Blokovat, Povolit pro relaci nebo Povolit.
+
+## Exceptions - HTTPS-Only Mode
+
+permissions-exceptions-https-only-window =
+    .title = Servery, které mohou používat nezabezpečený protokol HTTP
+    .style = { permissions-window.style }
+permissions-exceptions-https-only-desc = Zde můžete určit, které servery mohou používat nezabezpečený protokol HTTP. Na těchto serverech se { -brand-short-name } nebude pokoušet o automatické navázání spojení skrze protokol HTTPS. Pro anonymní okna tento seznam výjimek neplatí.
 
 ## Exceptions - Pop-ups
 
