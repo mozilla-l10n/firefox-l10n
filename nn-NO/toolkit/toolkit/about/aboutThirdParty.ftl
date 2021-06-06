@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+third-party-header-module-list = Modulliste
 third-party-header-loading-events = Lastar hendingar
 third-party-detail-version = Filversjon
 third-party-detail-vendor = Leverandørinformasjon
@@ -16,3 +17,25 @@ third-party-th-duration = Lastetid (ms)
 third-party-th-status = Status
 third-party-tag-ime = IME
     .title = Denne modultypen vert lada når du brukar ein tredjeparts IME.
+third-party-tag-shellex = Shell-utviding
+    .title = Denne modultypen vert lasta ned når du opnar dialogruta for systemfiler.
+third-party-tag-background = Bakgrunn
+    .title =
+        Denne modulen blokkerte ikkje programmet fordi han vart lasta inn
+        i bakgrunnen.
+third-party-unsigned-icon =
+    .title = Denne modulen er ikkje signert
+third-party-warning-icon =
+    .title = { -brand-short-name } krasja i koden for denne modulen.
+third-party-status-loaded = Lasta
+third-party-status-blocked = Blokkert
+third-party-status-redirected = Omdirigert
+third-party-button-copy-to-clipboard = Kopier rådata til utklippstavla
+third-party-button-reload = Last på nytt med systeminfo
+    .title = Last på nytt med systeminformasjon
+third-party-button-open =
+    .title = Opne filplassering…
+third-party-button-expand =
+    .title = Vis detaljert informasjon
+third-party-button-collapse =
+    .title = Skjul detaljert informasjon
