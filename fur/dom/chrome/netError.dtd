@@ -74,9 +74,10 @@
 <!ENTITY redirectLoop.longDesc "<p>Il navigadôr al à finît di provâ a recuperâ l'ogjet domandât. Il sît al cîr di indreçâ la domande in mût che nol sedi pussibil completâle.</p><ul><li>Âstu disativât o blocât i cookies necessaris par chest sît?</li><li><em>NOTE</em>: Se ancje acetant i cookies dal sît no to rivis a risolvi il probleme, al è probabil che si trati di un probleme di configurazion dal servidôr e no dal to computer.</li></ul>">
 
 <!ENTITY unknownSocketType.title "Rispueste scorete">
-<!ENTITY unknownSocketType.longDesc "<p>Il sît al à rispuindût ae domande di rêt in mût che no si spietave, e il browser nol pues lâ indenant.</p>">
+<!ENTITY unknownSocketType.longDesc "<p>Il sît al à rispuindût ae domande di rêt intun mût che no si spietave, e il navigadôr nol pues lâ indenant.</p>">
 
 <!ENTITY nssFailure2.title "Conession sigure falide">
+<!ENTITY nssFailure2.longDesc2 "<p>Nol è pussibil mostrâ la pagjine che tu stâs cirint di visualizâ parcè che no si pues verificâ la autenticitât dai dâts ricevûts.</p><ul><li>Par plasê contate i proprietaris dal sît web par informâju di chest probleme.</li></ul>">
 
 <!ENTITY nssBadCert.title "Conession sigure falide">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>Chest al pues jessi un probleme cu la configuazion dal servidôr, o al podarès jessi che cualchidun al stedi provant a impersonâ il servidôr.</li> <li>Se in passât la conession a chest servidôr e lave, l'erôr al podarès jessi temporani, e tu puedis provâ di gnûf plui tart.</li> </ul>">
