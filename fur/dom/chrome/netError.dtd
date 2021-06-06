@@ -106,5 +106,9 @@
 <!ENTITY inadequateSecurityError.title "La tô conession no je sigure">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> al dopre une tecnologjie di sigurece sorpassade e vulnerabil ai atacs. Un malintenzionât al podarès rivelâ cun facilitât informazions che tu crodis che a sedin al sigûr. L'aministradôr dal sît web al scugnarà comedâ il servidôr prime di podê visitâ il sît.</p><p>Codiç di erôr: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
+<!ENTITY blockedByPolicy.title "Pagjine blocade">
 
+<!ENTITY networkProtocolError.title "Erôr di protocol di rêt">
+<!ENTITY networkProtocolError.longDesc "<p>Nol è pussibil mostrâ la pagjine che tu stâs cirint di visualizâ parcè che al è stât rilevât un erôr tal protocol di rêt.</p><ul><li>Par plasê contate i proprietaris dal sît web par informâju di chest probleme.</li></ul>">
