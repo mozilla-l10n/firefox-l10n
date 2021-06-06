@@ -281,6 +281,12 @@ mr1-onboarding-reduce-motion-button-label = Slå av animasjonar
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
+# Title used on welcome page when Firefox is not pinned
+mr1-onboarding-pin-header =
+    { PLATFORM() ->
+        [macos] Behald { -brand-short-name } i Dock for enkel tilgang
+       *[other] Fest { -brand-short-name } til oppgåvelinja for enkel tilgang
+    }
 # Primary button string used on welcome page when Firefox is not pinned.
 mr1-onboarding-pin-primary-button-label =
     { PLATFORM() ->
@@ -306,6 +312,7 @@ mr1-onboarding-sign-in-button-label = Logg inn
 ## when Firefox is not default browser
 
 mr1-onboarding-default-header = Bruk { -brand-short-name } som standard
+mr1-onboarding-default-subtitle = Set fart, sikkerheit og personvern på autopilot.
 mr1-onboarding-default-primary-button-label = Bruk som standardnettlesar
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
