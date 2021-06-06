@@ -181,8 +181,6 @@ page-action-send-tabs-urlbar =
             [one] Бетті құрылғыға жіберу
            *[other] Бетті { $tabCount } құрылғыға жіберу
         }
-page-action-pocket-panel =
-    .label = Бетті { -pocket-brand-name }-ке сақтау
 page-action-copy-url-panel =
     .label = Сілтемені көшіріп алу
 page-action-copy-url-urlbar =
@@ -247,6 +245,14 @@ search-one-offs-context-set-as-default-private =
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
+# Shown when adding new engines from the address bar shortcut buttons or context
+# menu, or from the search bar shortcut buttons.
+# Variables:
+#  $engineName (String): The name of the engine.
+search-one-offs-add-engine =
+    .label = "{ $engineName }" қосу
+    .tooltiptext = "{ $engineName }" іздеу жүйесін қосу
+    .aria-label = "{ $engineName }" іздеу жүйесін қосу
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -306,6 +312,7 @@ identity-header-security-with-host =
     .title = { $host } үшін байланыс қауіпсіздігі
 identity-connection-not-secure = Байланыс қауіпсіз емес
 identity-connection-secure = Байланыс қауіпсіз
+identity-connection-failure = Байланысу сәтсіз аяқталды
 identity-connection-internal = Бұл - қауіпсіз { -brand-short-name } беті.
 identity-connection-file = Бұл парақ сіздің компьютеріңізде сақталған.
 identity-extension-page = Бұл парақ кеңейтуден жүктелген.
@@ -389,6 +396,21 @@ browser-tab-audio-pip = СУРЕТТЕГІ СУРЕТ
 ## Variables:
 ##  $count (number): number of affected tabs
 
+browser-tab-mute =
+    { $count ->
+        [1] БЕТ ДЫБЫСЫН БАСУ
+       *[other] { $count } БЕТ ДЫБЫСЫН БАСУ
+    }
+browser-tab-unmute =
+    { $count ->
+        [1] БЕТ ДЫБЫСЫН ІСКЕ ҚОСУ
+       *[other] { $count } БЕТ ДЫБЫСЫН ІСКЕ ҚОСУ
+    }
+browser-tab-unblock =
+    { $count ->
+        [1] БЕТТІ ОЙНАТУ
+       *[other] { $count } БЕТТІ ОЙНАТУ
+    }
 
 ## Bookmarks toolbar items
 
@@ -487,6 +509,11 @@ urlbar-placeholder-with-name =
     .placeholder = { $name } көмегімен іздеу немесе адрес
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Браузер қашықтан басқарылуда
+# Variables
+#  $component (String): the name of the component which forces remote control.
+#    Example: "DevTools", "Marionette", "RemoteAgent".
+urlbar-remote-control-notification-anchor2 =
+    .tooltiptext = Браузер қашықтан басқарылуда (себебі: { $component })
 urlbar-permissions-granted =
     .tooltiptext = Бұл веб-сайтқа қосымша рұқсаттарды бердіңіз.
 urlbar-switch-to-tab =
@@ -583,8 +610,6 @@ crashed-subframe-submit =
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = Барлық бетбелгілерді көрсету
 bookmarks-manage-bookmarks =
     .label = Бетбелгілерді басқару
 bookmarks-recent-bookmarks-panel-subheader = Жуырдағы бетбелгілер

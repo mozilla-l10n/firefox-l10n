@@ -48,3 +48,4 @@ bookmark-overlay-keyword =
 bookmark-overlay-keyword-2 =
     .value = Кілтсөз
     .accesskey = к
+bookmark-overlay-keyword-caption-label-2 = Бетбелгілерді адрес жолағынан тікелей ашу үшін бір кілт сөзді пайдаланыңыз
