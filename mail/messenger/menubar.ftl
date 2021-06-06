@@ -8,6 +8,32 @@ menu-view-charset =
     .label = Textkodierung
     .accesskey = T
 
+## Tools Menu
+
+# Since v89 we dropped the platforms distinction between Options or Preferences
+# and consolidated everything with Preferences.
+menu-tools-preferences =
+    .label = Einstellungen
+    .accesskey = E
+
+menu-addons-and-themes =
+    .label = Add-ons und Themes
+    .accesskey = A
+
+## Help Menu
+
+menu-help-enter-troubleshoot-mode =
+    .label = Fehlerbehebungsmodus…
+    .accesskey = F
+
+menu-help-exit-troubleshoot-mode =
+    .label = Fehlerbehebungsmodus deaktivieren
+    .accesskey = F
+
+menu-help-more-troubleshooting-info =
+    .label = Weitere Informationen zur Fehlerbehebung
+    .accesskey = z
+
 ## Mail Toolbar
 
 toolbar-junk-button =
@@ -22,3 +48,21 @@ toolbar-delete-button =
 toolbar-undelete-button =
     .label = Wiederherstellen
     .tooltiptext = Löschen gewählter Nachricht(en) rückgängig machen
+
+## View / Layout
+
+mail-uidensity-label =
+    .label = Dichte
+    .accesskey = D
+
+mail-uidensity-compact =
+    .label = Kompakt
+    .accesskey = K
+
+mail-uidensity-normal =
+    .label = Normal
+    .accesskey = N
+
+mail-uidensity-touch =
+    .label = Touch
+    .accesskey = T
