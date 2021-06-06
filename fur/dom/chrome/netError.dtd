@@ -80,9 +80,16 @@
 <!ENTITY nssFailure2.longDesc2 "<p>Nol è pussibil mostrâ la pagjine che tu stâs cirint di visualizâ parcè che no si pues verificâ la autenticitât dai dâts ricevûts.</p><ul><li>Par plasê contate i proprietaris dal sît web par informâju di chest probleme.</li></ul>">
 
 <!ENTITY nssBadCert.title "Conession sigure falide">
-<!ENTITY nssBadCert.longDesc2 "<ul> <li>Chest al pues jessi un probleme cu la configuazion dal servidôr, o al podarès jessi che cualchidun al stedi provant a impersonâ il servidôr.</li> <li>Se in passât la conession a chest servidôr e lave, l'erôr al podarès jessi temporani, e tu puedis provâ di gnûf plui tart.</li> </ul>">
+<!ENTITY nssBadCert.longDesc2 "<ul> 
+<li>Chest al podarès jessi un probleme cu la configurazion dal servidôr, opûr al podarès jessi che cualchidun al stedi cirint di impersonâ il servidôr.</li> 
+<li>Se in passât la conession a chest servidôr e leve, al podarès stâi che l'erôr al sedi temporani e tu puedis provâ di gnûf plui tart.</li> 
+</ul>">
 
 <!ENTITY securityOverride.linkText "O tu puedis zontâ une ecezion…">
+<!ENTITY securityOverride.warningContent "
+<p>No tu varessis di zontâ une ecezion se tu stâs doprant une conession internet che no à la tô complete fiducie o se no tu sês solit viodi un avîs di chest servidôr.</p>
+<p>Se tu desideris distès zontâ une ecezion par chest sît, tu puedis fâlu tes tôs impostazions di cifradure avanzade.</p>
+">
 
 
 
