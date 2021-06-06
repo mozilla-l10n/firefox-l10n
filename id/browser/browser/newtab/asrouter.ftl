@@ -214,8 +214,6 @@ cfr-doorhanger-milestone-heading2 =
     }
 cfr-doorhanger-milestone-ok-button = Lihat Semua
     .accesskey = L
-cfr-doorhanger-milestone-close-button = Tutup
-    .accesskey = T
 
 ## What’s New Panel Content for Firefox 76
 
@@ -240,6 +238,8 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Ikon gambar-dalam-gambar
 
 ## Protections Dashboard message
 
+cfr-doorhanger-milestone-close-button = Tutup
+    .accesskey = T
 
 ## What’s New Panel Content for Firefox 76
 ## Protections Dashboard message
@@ -258,8 +258,6 @@ cfr-whatsnew-better-pdf-body = Dokumen PDF kini dapat dibuka langsung di { -bran
 
 cfr-doorhanger-doh-body = Privasi Anda penting. { -brand-short-name } sekarang dengan aman merutekan permintaan DNS Anda bila memungkinkan ke layanan mitra untuk melindungi saat Anda menjelajah.
 cfr-doorhanger-doh-header = Pencarian DNS yang lebih aman dan terenkripsi
-cfr-doorhanger-doh-primary-button = Oke, Beres
-    .accesskey = O
 cfr-doorhanger-doh-primary-button-2 = Oke
     .accesskey = O
 cfr-doorhanger-doh-secondary-button = Nonaktifkan
@@ -305,3 +303,8 @@ cfr-whatsnew-bookmarking-body = Lebih mudah melacak situs favorit Anda. { -brand
 
 cfr-whatsnew-cross-site-tracking-header = Perlindungan menyeluruh dari pelacakan kuki lintas situs
 cfr-whatsnew-cross-site-tracking-body = Kini Anda dapat memilih perlindungan yang lebih baik dari pelacakan kuki. { -brand-short-name } dapat mengisolasi aktivitas dan data situs tempat Anda berada sekarang sehingga informasi yang tersimpan di peramban tidak dibagikan di antara situs web.
+
+## Full Video Support CFR message
+
+cfr-doorhanger-video-support-primary-button = Perbarui Sekarang
+    .accesskey = u
