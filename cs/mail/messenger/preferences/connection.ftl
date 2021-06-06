@@ -21,6 +21,8 @@ connection-dialog-window =
             [macos] width: 44em !important
            *[other] width: 49em !important
         }
+connection-disable-extension =
+    .label = Zakázat rozšíření
 connection-proxy-legend = Nastavení proxy serverů pro přístup k internetu
 proxy-type-no =
     .label = Bez proxy serveru
