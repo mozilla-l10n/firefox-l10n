@@ -15,15 +15,16 @@ pocket-panel-saved-error-generic = Ett fel upptäcktes då du försökte spara t
 pocket-panel-saved-error-tag-length = Etiketter kan max vara 25 tecken
 pocket-panel-saved-error-only-links = Endast länkar kan sparas
 pocket-panel-saved-error-not-saved = Sidan sparades inte
+pocket-panel-saved-error-no-internet = Du måste vara ansluten till Internet för att kunna spara till { -pocket-brand-name }. Anslut till Internet och försök igen.
 pocket-panel-saved-page-removed = Sidan borttagen
-pocket-panel-saved-page-saved = Spara till { -pocket-brand-name }
+pocket-panel-saved-page-saved = Sparad till { -pocket-brand-name }
 pocket-panel-saved-processing-remove = Tar bort sida…
 pocket-panel-saved-processing-tags = Lägger till etiketter…
 pocket-panel-saved-remove-page = Ta bort sida
 pocket-panel-saved-save-tags = Spara
 pocket-panel-saved-saving-tags = Sparar…
 pocket-panel-saved-suggested-tags = Föreslagna etiketter
-pocket-panel-saved-tags-saved = Etiketter Tillagda
+pocket-panel-saved-tags-saved = Etiketter tillagda
 pocket-panel-signup-view-list = Visa lista
 
 ## about:pocket-signup panel
