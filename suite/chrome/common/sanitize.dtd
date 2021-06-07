@@ -11,6 +11,7 @@
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear"
      dropdown. -->
 <!ENTITY clearTimeDuration.label          "Časové období mazání:">
+<!ENTITY clearTimeDuration.accesskey      "m">
 <!ENTITY clearTimeDuration.lastHour       "Poslední hodina">
 <!ENTITY clearTimeDuration.last2Hours     "Poslední dvě hodiny">
 <!ENTITY clearTimeDuration.last4Hours     "Poslední čtyři hodiny">
@@ -64,3 +65,5 @@
 
 <!ENTITY sanitizeButton.label            "Vymazat důvěrná data">
 <!ENTITY itemSitePreferences.label        "Nastavení pro daný server">
+<!ENTITY itemSitePreferences.accesskey    "p">
+<!ENTITY itemSitePreferencesS.accesskey   "t">
