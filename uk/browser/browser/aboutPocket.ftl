@@ -15,6 +15,7 @@ pocket-panel-saved-error-generic = При спробі збереження в {
 pocket-panel-saved-error-tag-length = Мітки мають обмеження до 25 символів
 pocket-panel-saved-error-only-links = Можна зберігати лише посилання
 pocket-panel-saved-error-not-saved = Сторінку не збережено
+pocket-panel-saved-error-no-internet = Для можливості збереження у { -pocket-brand-name } ви повинні бути під'єднані до Інтернету. Перевірте своє з'єднання і спробуйте знову.
 pocket-panel-saved-page-removed = Сторінку вилучено
 pocket-panel-saved-page-saved = Збережено в { -pocket-brand-name }
 pocket-panel-saved-processing-remove = Вилучення сторінки…
