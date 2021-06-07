@@ -33,9 +33,16 @@ pocket-panel-signup-learn-more = Μάθετε περισσότερα
 pocket-panel-signup-login = Σύνδεση
 pocket-panel-signup-signup-email = Εγγραφή με email
 pocket-panel-signup-signup-cta = Εγγραφείτε στο { -pocket-brand-name }. Δωρεάν.
+pocket-panel-signup-signup-firefox = Εγγραφή με { -brand-product-name }
 pocket-panel-signup-tagline = Αποθηκεύστε άρθρα και βίντεο από το { -brand-product-name } για προβολή στο { -pocket-brand-name } από οποιαδήποτε συσκευή, ανά πάσα στιγμή.
 pocket-panel-signup-tagline-story-one = Κάντε κλικ στο κουμπί του { -pocket-brand-name } για να αποθηκεύσετε οποιοδήποτε άρθρο, βίντεο ή σελίδα από το { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Προβολή στο { -pocket-brand-name } σε οποιαδήποτε συσκευή, ανά πάσα στιγμή.
 
 ## about:pocket-home panel
 
+pocket-panel-home-my-list = Η λίστα μου
+pocket-panel-home-welcome-back = Καλώς ορίσατε ξανά
+pocket-panel-home-paragraph = Μπορείτε να χρησιμοποιήσετε το { -pocket-brand-name } για να εξερευνήσετε και να αποθηκεύσετε ιστοσελίδες, άρθρα, βίντεο, podcast, ή για να επιστρέψετε σε αυτό που διαβάζατε.
+pocket-panel-home-explore-popular-topics = Εξερεύνηση δημοφιλών θεμάτων
+pocket-panel-home-discover-more = Ανακάλυψη
+pocket-panel-home-explore-more = Εξερεύνηση
