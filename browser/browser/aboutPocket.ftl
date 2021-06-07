@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Дадаць тэгі
+pocket-panel-saved-error-generic = Узнікла памылка пры спробе захаваць у { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Тэгі абмежаваныя 25 сімваламі
 pocket-panel-saved-error-only-links = Можна захаваць толькі спасылкі
 pocket-panel-saved-error-not-saved = Старонка не захавана
