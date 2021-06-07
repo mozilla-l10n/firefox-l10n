@@ -159,6 +159,7 @@ language-name-ru = Ρωσική
 language-name-rw = Κινιαρουάντα
 language-name-sa = Σανσκριτική
 language-name-sc = Σαρδηνιανή
+language-name-sco = Σκωτικά
 language-name-sd = Σινδική
 language-name-se = Βόρεια Σαάμι
 language-name-sg = Σάνγκο

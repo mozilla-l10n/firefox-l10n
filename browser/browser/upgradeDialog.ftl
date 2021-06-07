@@ -60,6 +60,8 @@ upgrade-dialog-default-secondary-button = Όχι τώρα
 upgrade-dialog-theme-title =
     Κάντε μια νέα αρχή
     με ένα ενημερωμένο θέμα
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-theme-title-2 = Κάντε μια νέα αρχή με ένα φρέσκο θέμα
 upgrade-dialog-theme-system = Θέμα συστήματος
     .title = Χρήση του θέματος συστήματος για τα κουμπιά, τα μενού και τα παράθυρα
 upgrade-dialog-theme-light = Φωτεινό
