@@ -31,6 +31,7 @@ pocket-panel-signup-view-list = Преглед на списъка
 pocket-panel-signup-already-have = Вече сте потребител на { -pocket-brand-name }?
 pocket-panel-signup-learn-more = Научете повече
 pocket-panel-signup-login = Вписване
+pocket-panel-signup-signup-email = Регистриране с електронна поща
 pocket-panel-signup-signup-cta = Регистрирайте се в { -pocket-brand-name }. Безплатно е.
 pocket-panel-signup-signup-firefox = Регистриране с { -brand-product-name }
 pocket-panel-signup-tagline = Запазвайте статии и видео от { -brand-product-name } и можете да ги преглеждате в { -pocket-brand-name } на всяко устройство по всяко време.
