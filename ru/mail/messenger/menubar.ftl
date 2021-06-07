@@ -47,6 +47,12 @@ toolbar-undelete-button =
     .label = Восстановить
     .tooltiptext = Отменить удаление выбранных сообщений
 
+## View
+
+menu-view-repair-text-encoding =
+    .label = Исправить кодировку текста
+    .accesskey = п
+
 ## View / Layout
 
 mail-uidensity-label =
