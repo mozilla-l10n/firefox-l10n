@@ -41,4 +41,7 @@ upgrade-dialog-default-secondary-button = Nu acum
 upgrade-dialog-theme-title =
     Obține un start curat
     cu o temă actualizată
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-theme-title-2 = Obține un start curat cu o temă nouă
+upgrade-dialog-theme-primary-button = Salvează tema
 upgrade-dialog-theme-secondary-button = Nu acum
