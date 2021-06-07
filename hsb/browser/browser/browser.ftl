@@ -702,7 +702,7 @@ save-to-pocket-button =
 
 repair-text-encoding-button =
     .label = Tekstowe kodowanje reparować
-    .tooltiptext = Korektne tekstowe kodowanje z wobsaha strony wujódać
+    .tooltiptext = Korektne tekstowe kodowanje z wobsaha strony wuhódać
 
 ## Customize Toolbar Buttons
 
