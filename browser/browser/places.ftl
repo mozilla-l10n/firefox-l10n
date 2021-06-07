@@ -17,7 +17,6 @@ places-open-window =
 places-open-private-window =
     .label = Deschide într-o fereastră privată nouă
     .accesskey = p
-
 places-new-bookmark =
     .label = Marcaj nou…
     .accesskey = B
@@ -30,7 +29,6 @@ places-new-folder =
 places-new-separator =
     .label = Separator nou
     .accesskey = S
-
 places-view =
     .label = Vizualizare
     .accesskey = V
@@ -49,12 +47,10 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = După dată și site
     .accesskey = t
-
 places-history-search =
     .placeholder = Caută în istoric
 places-bookmarks-search =
     .placeholder = Caută marcaje
-
 places-delete-domain-data =
     .label = Uită totul despre acest site
     .accesskey = d
@@ -64,3 +60,6 @@ places-sortby-name =
 places-properties =
     .label = Proprietăți
     .accesskey = i
+# Managed bookmarks are created by an administrator and cannot be changed by the user.
+managed-bookmarks =
+    .label = Marcaje gestionate
