@@ -173,8 +173,6 @@ page-action-send-tabs-panel =
     .label = 탭 { $tabCount }개를 기기로 보내기
 page-action-send-tabs-urlbar =
     .tooltiptext = 탭 { $tabCount }개를 기기로 보내기
-page-action-pocket-panel =
-    .label = 페이지를 { -pocket-brand-name }에 저장
 page-action-copy-url-panel =
     .label = 링크 복사
 page-action-copy-url-urlbar =
@@ -600,8 +598,6 @@ crashed-subframe-submit =
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = 모든 북마크 보기
 bookmarks-manage-bookmarks =
     .label = 북마크 관리
 bookmarks-recent-bookmarks-panel-subheader = 최근 북마크
@@ -674,6 +670,12 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = { -pocket-brand-name }에 저장
     .tooltiptext = { -pocket-brand-name }에 저장
+
+## Repair text encoding toolbar button
+
+repair-text-encoding-button =
+    .label = 텍스트 인코딩 복구
+    .tooltiptext = 페이지 콘텐츠에서 올바른 텍스트 인코딩 추측
 
 ## Customize Toolbar Buttons
 

@@ -159,6 +159,7 @@ language-name-ru = 러시아어
 language-name-rw = 킨야완다어
 language-name-sa = 산스크리트
 language-name-sc = 사르디니아어
+language-name-sco = 스코트어
 language-name-sd = 신다이어
 language-name-se = 북사미어
 language-name-sg = 상고어
