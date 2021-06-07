@@ -549,7 +549,7 @@ browsing-use-autoscroll =
     .accesskey = s
 
 browsing-use-smooth-scrolling =
-    .label = Utilizza lo scorrimento continuo
+    .label = Utilizza lo scorrimento fluido
     .accesskey = a
 
 browsing-use-onscreen-keyboard =
