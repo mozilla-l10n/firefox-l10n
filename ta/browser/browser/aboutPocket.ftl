@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = குறிகளைச் சேர்
+pocket-panel-saved-error-generic = { -pocket-brand-name } ல் சேமிக்கும்போது பிழை ஏற்பட்டது.
 pocket-panel-saved-error-tag-length = குறிகள் 25 எழுத்துக்குமேல் இருக்கக்கூடாது
 pocket-panel-saved-error-only-links = தொடுப்புகள் மட்டுமே சேமிக்க முடியும்
 pocket-panel-saved-error-not-saved = சேமிக்கப்படவில்லை
