@@ -13,7 +13,10 @@ pocket-panel-saved-add-tags =
     .placeholder = Lägg till etiketter
 pocket-panel-saved-error-generic = Ett fel upptäcktes då du försökte spara till { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Etiketter kan max vara 25 tecken
+pocket-panel-saved-error-only-links = Endast länkar kan sparas
+pocket-panel-saved-error-not-saved = Sidan sparades inte
 pocket-panel-saved-page-removed = Sidan borttagen
+pocket-panel-saved-page-saved = Spara till { -pocket-brand-name }
 pocket-panel-saved-processing-remove = Tar bort sida…
 pocket-panel-saved-processing-tags = Lägger till etiketter…
 pocket-panel-saved-remove-page = Ta bort sida
@@ -25,10 +28,15 @@ pocket-panel-signup-view-list = Visa lista
 
 ## about:pocket-signup panel
 
+pocket-panel-signup-already-have = Är du redan en { -pocket-brand-name }-användare?
 pocket-panel-signup-learn-more = Läs mer
 pocket-panel-signup-login = Logga in
+pocket-panel-signup-signup-email = Registrera dig med din e-postadress
 pocket-panel-signup-signup-cta = Registrera dig för { -pocket-brand-name }. Det är gratis.
+pocket-panel-signup-signup-firefox = Registrera dig med { -brand-product-name }
 pocket-panel-signup-tagline = Spara artiklar och videor från { -brand-product-name } för att visa i { -pocket-brand-name } på vilken enhet som helst, när som helst.
+pocket-panel-signup-tagline-story-one = Klicka på { -pocket-brand-name } knappen för att spara vilken artikel, video eller sida som helst från { -brand-product-name }.
+pocket-panel-signup-tagline-story-two = Visa i { -pocket-brand-name } på vilken enhet som helst, när som helst.
 
 ## about:pocket-home panel
 
