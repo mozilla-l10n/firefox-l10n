@@ -40,3 +40,9 @@ pocket-panel-signup-tagline-story-two = { -pocket-brand-name } でいつでも�
 
 ## about:pocket-home panel
 
+pocket-panel-home-my-list = マイリスト
+pocket-panel-home-welcome-back = おかえりなさい
+pocket-panel-home-paragraph = { -pocket-brand-name } でウェブページ、記事、動画、ポッドキャストを探して保存したり、読んでいた記事に戻ることができます。
+pocket-panel-home-explore-popular-topics = 人気の記事を探す
+pocket-panel-home-discover-more = その他の記事を見る
+pocket-panel-home-explore-more = 探す
