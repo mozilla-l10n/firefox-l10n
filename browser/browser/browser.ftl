@@ -396,6 +396,10 @@ browser-tab-audio-pip = ছবিৰ-ওপৰত-ছবি
 
 ## Bookmarks toolbar items
 
+browser-import-button2 =
+    .label = বুকমাৰ্ক আমদানি কৰক…
+    .tooltiptext = আন এটা ব্ৰাউজাৰৰ পৰা { -brand-short-name }-লৈ বুকমাৰ্ক আমদানি কৰক।
+bookmarks-toolbar-empty-message = আপোনাৰ বুকমাৰ্কবোৰ দ্ৰুতগতিত পাবলৈ সেইবোৰ ইয়াত থকা বুকমাৰ্ক টুলবাৰটোত ৰাখক। <a data-l10n-name="manage-bookmarks">বুকমাৰ্ক পৰিচালনা কৰক…</a>
 
 ## WebRTC Pop-up notifications
 
