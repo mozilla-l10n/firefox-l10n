@@ -173,6 +173,9 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = 텍스트 인코딩
     .accesskey = c
+menu-view-repair-text-encoding =
+    .label = 텍스트 인코딩 복구
+    .accesskey = c
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -254,15 +257,15 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = { -brand-product-name }에 로그인…
     .accesskey = g
+menu-tools-turn-on-sync =
+    .label = { -sync-brand-short-name } 켜기…
+    .accesskey = n
 menu-tools-addons-and-themes =
     .label = 부가 기능 및 테마
     .accesskey = A
 menu-tools-fxa-sign-in2 =
     .label = 로그인
     .accesskey = g
-menu-tools-turn-on-sync =
-    .label = { -sync-brand-short-name } 켜기…
-    .accesskey = n
 menu-tools-turn-on-sync2 =
     .label = Sync 켜기…
     .accesskey = n
@@ -287,13 +290,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = 페이지 정보
     .accesskey = I
-menu-settings =
-    .label = 설정
-    .accesskey =
-        { PLATFORM() ->
-            [windows] S
-           *[other] n
-        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -303,6 +299,13 @@ menu-preferences =
     .accesskey =
         { PLATFORM() ->
             [windows] O
+           *[other] n
+        }
+menu-settings =
+    .label = 설정
+    .accesskey =
+        { PLATFORM() ->
+            [windows] S
            *[other] n
         }
 menu-tools-layout-debugger =
