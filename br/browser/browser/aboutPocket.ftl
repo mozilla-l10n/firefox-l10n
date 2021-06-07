@@ -34,7 +34,9 @@ pocket-panel-signup-login = Kennaskañ
 pocket-panel-signup-signup-email = Krouiñ ur gont gant ar chomlec'h postel
 pocket-panel-signup-signup-cta = Krouit ur gont { -pocket-brand-name }. Digoust eo.
 pocket-panel-signup-signup-firefox = Krouiñ ur gont gant { -brand-product-name }
+pocket-panel-signup-tagline = Enrollit pennadoù ha videoioù adalek { -brand-product-name } evit gwelet anezho war { -pocket-brand-name } war forzh peseurt trevnad, p’ho peus c’hoant.
 pocket-panel-signup-tagline-story-one = Klikit war an afell { -pocket-brand-name } evit enrollañ ur pennad, video pe pajenn adalek { -brand-product-name }.
+pocket-panel-signup-tagline-story-two = Sellit anezhañ e { -pocket-brand-name } war forzh peseurt trevnad, p’ho peus c’hoant.
 
 ## about:pocket-home panel
 
