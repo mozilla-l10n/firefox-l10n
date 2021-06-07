@@ -56,13 +56,7 @@ about-webrtc-ice-pair-bytes-sent = Byte đã gửi:
 about-webrtc-ice-pair-bytes-received = Byte đã nhận:
 about-webrtc-ice-component-id = ID thành phần
 
-##
-
-
 ## "Avg." is an abbreviation for Average. These are used as data labels.
-
-
-##
 
 
 ## These adjectives are used to label a line of statistics collected for a peer
@@ -141,6 +135,11 @@ about-webrtc-receive-bandwidth-bytes-sec = Băng thông nhận (byte/giây)
 # The amount of time it takes for a packet to travel from the local machine to the remote machine,
 # and then have a packet return
 about-webrtc-round-trip-time-ms = RTT ms
+# This is a section heading for video frame statistics for a MediaStreamTrack.
+# see https://developer.mozilla.org/en-US/docs/Web/API/MediaStreamTrack.
+# Variables:
+#   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
+about-webrtc-frame-stats-heading = Thống kê khung hình video - ID MediaStreamTrack: { $track-identifier }
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
@@ -154,6 +153,27 @@ about-webrtc-aec-logging-off-state-msg = các tập tin nhật ký đã chụp c
 
 ##
 
+# This is the total number of packets received on the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets received.
+about-webrtc-received-label =
+    { $packets ->
+       *[other] Đã nhận { $packets } gói
+    }
+# This is the total number of packets lost by the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets lost.
+about-webrtc-lost-label =
+    { $packets ->
+       *[other] Đã mất { $packets } gói
+    }
+# This is the total number of packets sent by the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets sent.
+about-webrtc-sent-label =
+    { $packets ->
+       *[other] Đã gửi { $packets } gói
+    }
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
