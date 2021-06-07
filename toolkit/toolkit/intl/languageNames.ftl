@@ -159,6 +159,7 @@ language-name-ru = 俄語
 language-name-rw = 盧安達語
 language-name-sa = 梵語 (古印度語)
 language-name-sc = 薩丁尼語 (義大利)
+language-name-sco = 低地蘇格蘭語
 language-name-sd = 辛德語 (印度)
 language-name-se = 北薩米語 (挪威．芬蘭)
 language-name-sg = 桑戈語 (中非)
