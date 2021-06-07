@@ -116,3 +116,6 @@ addon-removal-confirmation-message =
         [neuter] { -brand-short-name(case: "gen") }
        *[other] aplikace { -brand-short-name }
     }?
+caret-browsing-prompt-title = Procházení stránky
+caret-browsing-prompt-text = Stisknutím klávesy F7 zapnete či vypnete funkci Procházení stránky. Ta umístí do obsahu textový kurzor, který vám umožní vybírat text pomocí klávesnice. Chcete zapnout funkci Procházení stránky?
+caret-browsing-prompt-check-text = Příště se už neptat.
