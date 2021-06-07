@@ -31,6 +31,7 @@ pocket-panel-signup-already-have = ທ່ານໄດ້ເປັນຜູ້ໃ
 pocket-panel-signup-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
 pocket-panel-signup-login = ເຂົ້າສູ່ລະບົບ
 pocket-panel-signup-signup-email = ລົງທະບຽນດ້ວຍອີເມວ
+pocket-panel-signup-signup-cta = ລົງທະບຽນນໍາໃຊ້ { -pocket-brand-name } ຟຣີ
 pocket-panel-signup-signup-firefox = ລົງທະບຽນດ້ວຍ { -brand-product-name }
 
 ## about:pocket-home panel
