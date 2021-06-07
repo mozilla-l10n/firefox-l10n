@@ -33,6 +33,7 @@ pocket-panel-signup-learn-more = Докладніше
 pocket-panel-signup-login = Увійти
 pocket-panel-signup-signup-email = Реєстрація за адресою електронної пошти
 pocket-panel-signup-signup-cta = Зареєструйтеся в { -pocket-brand-name }. Це безплатно.
+pocket-panel-signup-signup-firefox = Реєстрація з { -brand-product-name }
 pocket-panel-signup-tagline = Зберігайте статті та відео з { -brand-product-name }, щоб переглядати їх в { -pocket-brand-name } на будь-якому пристрої та в будь-який час.
 pocket-panel-signup-tagline-story-one = Натисніть кнопку { -pocket-brand-name } для збереження будь-якої статті, відео чи сторінки з { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Переглядайте в { -pocket-brand-name } на будь-якому пристрої та в будь-який час.
