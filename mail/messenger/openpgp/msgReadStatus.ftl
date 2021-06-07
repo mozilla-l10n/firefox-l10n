@@ -37,3 +37,16 @@ openpgp-enc-key-with-subkey-id = ID da sua chave de descriptografia: { $key } (I
 openpgp-unknown-key-id = Chave desconhecida
 openpgp-other-enc-additional-key-ids = Além disso, a mensagem foi criptografada para os proprietários das seguintes chaves:
 openpgp-other-enc-all-key-ids = A mensagem foi criptografada para os proprietários das seguintes chaves:
+openpgp-message-header-encrypted-ok-icon =
+    .alt = Descriptografia bem-sucedida
+openpgp-message-header-signed-ok-icon =
+    .alt = Assinatura boa
+# Mismatch icon is used for notok state as well
+openpgp-message-header-signed-mismatch-icon =
+    .alt = Assinatura ruim
+openpgp-message-header-signed-unknown-icon =
+    .alt = Status de assinatura desconhecido
+openpgp-message-header-signed-verified-icon =
+    .alt = Assinatura verificada
+openpgp-message-header-signed-unverified-icon =
+    .alt = Assinatura não verificada
