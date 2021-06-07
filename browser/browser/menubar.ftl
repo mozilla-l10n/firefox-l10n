@@ -173,6 +173,9 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = Codificación del texto
     .accesskey = c
+menu-view-repair-text-encoding =
+    .label = Reparar codificación de texto
+    .accesskey = c
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -254,15 +257,15 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Conectarse a { -brand-product-name }…
     .accesskey = g
+menu-tools-turn-on-sync =
+    .label = Activar { -sync-brand-short-name }…
+    .accesskey = n
 menu-tools-addons-and-themes =
     .label = Complementos y temas
     .accesskey = A
 menu-tools-fxa-sign-in2 =
     .label = Conectarse
     .accesskey = g
-menu-tools-turn-on-sync =
-    .label = Activar { -sync-brand-short-name }…
-    .accesskey = n
 menu-tools-turn-on-sync2 =
     .label = Activar la sincronización…
     .accesskey = n
@@ -287,13 +290,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Información de la página
     .accesskey = I
-menu-settings =
-    .label = Ajustes
-    .accesskey =
-        { PLATFORM() ->
-            [windows] S
-           *[other] n
-        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -303,6 +299,13 @@ menu-preferences =
     .accesskey =
         { PLATFORM() ->
             [windows] O
+           *[other] n
+        }
+menu-settings =
+    .label = Ajustes
+    .accesskey =
+        { PLATFORM() ->
+            [windows] S
            *[other] n
         }
 menu-tools-layout-debugger =
@@ -342,14 +345,12 @@ menu-help-import-from-another-browser =
 menu-help-keyboard-shortcuts =
     .label = Atajos del teclado
     .accesskey = K
-menu-get-help =
-    .label = Obtener ayuda
-    .accesskey = H
 menu-help-troubleshooting-info =
     .label = Información para resolver problemas
     .accesskey = T
-menu-help-taskmanager =
-    .label = Administrador de tareas
+menu-get-help =
+    .label = Obtener ayuda
+    .accesskey = H
 menu-help-more-troubleshooting-info =
     .label = Más información para resolver problemas
     .accesskey = T
