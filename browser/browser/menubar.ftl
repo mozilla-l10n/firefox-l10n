@@ -173,6 +173,9 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = Tekstowe kodowanje
     .accesskey = d
+menu-view-repair-text-encoding =
+    .label = Tekstowe kodowanje reparować
+    .accesskey = d
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -254,15 +257,15 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Pola { -brand-product-name } přizjewić…
     .accesskey = e
+menu-tools-turn-on-sync =
+    .label = { -sync-brand-short-name } zmóžnić
+    .accesskey = m
 menu-tools-addons-and-themes =
     .label = Přidatki a drasty
     .accesskey = P
 menu-tools-fxa-sign-in2 =
     .label = Přizjewić
     .accesskey = i
-menu-tools-turn-on-sync =
-    .label = { -sync-brand-short-name } zmóžnić
-    .accesskey = m
 menu-tools-turn-on-sync2 =
     .label = Sync zmóžnić…
     .accesskey = n
@@ -287,13 +290,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Info wo stronje
     .accesskey = I
-menu-settings =
-    .label = Nastajenja
-    .accesskey =
-        { PLATFORM() ->
-            [windows] N
-           *[other] s
-        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -304,6 +300,13 @@ menu-preferences =
         { PLATFORM() ->
             [windows] N
            *[other] N
+        }
+menu-settings =
+    .label = Nastajenja
+    .accesskey =
+        { PLATFORM() ->
+            [windows] N
+           *[other] s
         }
 menu-tools-layout-debugger =
     .label = Layout Debugger
@@ -342,14 +345,12 @@ menu-help-import-from-another-browser =
 menu-help-keyboard-shortcuts =
     .label = Tastowe skrótšenki
     .accesskey = T
-menu-get-help =
-    .label = Pomoc sej wobstarać
-    .accesskey = P
 menu-help-troubleshooting-info =
     .label = Informacije za rozrisowanje problemow
     .accesskey = I
-menu-help-taskmanager =
-    .label = Zrjadowak nadawkow
+menu-get-help =
+    .label = Pomoc sej wobstarać
+    .accesskey = P
 menu-help-more-troubleshooting-info =
     .label = Dalše informacije za rozrisowanje problemow
     .accesskey = D

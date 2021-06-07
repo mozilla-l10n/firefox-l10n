@@ -185,8 +185,6 @@ page-action-send-tabs-urlbar =
             [few] { $tabCount } rajtarki na grat pósłać
            *[other] { $tabCount } rajtarkow na grat pósłać
         }
-page-action-pocket-panel =
-    .label = Stronu pola { -pocket-brand-name } składować
 page-action-copy-url-panel =
     .label = Wotkaz kopěrować
 page-action-copy-url-urlbar =
@@ -627,8 +625,6 @@ crashed-subframe-submit =
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = Wšě zapołožki pokazać
 bookmarks-manage-bookmarks =
     .label = Zapołožki rjadować
 bookmarks-recent-bookmarks-panel-subheader = Najnowše zapołožki
@@ -701,6 +697,12 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = Pola { -pocket-brand-name } składować
     .tooltiptext = Pola { -pocket-brand-name } składować
+
+## Repair text encoding toolbar button
+
+repair-text-encoding-button =
+    .label = Tekstowe kodowanje reparować
+    .tooltiptext = Korektne tekstowe kodowanje z wobsaha strony wujódać
 
 ## Customize Toolbar Buttons
 
