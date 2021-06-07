@@ -29,7 +29,20 @@ pocket-panel-signup-view-list = Ver lista
 ## about:pocket-signup panel
 
 pocket-panel-signup-already-have = Já é um usuário do { -pocket-brand-name }?
+pocket-panel-signup-learn-more = Saiba mais
+pocket-panel-signup-login = Entre
+pocket-panel-signup-signup-email = Cadastre-se por email
+pocket-panel-signup-signup-cta = Cadastre-se no { -pocket-brand-name }. É gratuito.
+pocket-panel-signup-signup-firefox = Cadastre-se pelo { -brand-product-name }
+pocket-panel-signup-tagline = Salve artigos e vídeos do { -brand-product-name } para ver no { -pocket-brand-name } em qualquer dispositivo, quando quiser.
 pocket-panel-signup-tagline-story-one = Clique no botão { -pocket-brand-name } para salvar um artigo, vídeo ou página do { -brand-product-name }.
+pocket-panel-signup-tagline-story-two = Veja no { -pocket-brand-name } em qualquer dispositivo, quando quiser.
 
 ## about:pocket-home panel
 
+pocket-panel-home-my-list = Minha lista
+pocket-panel-home-welcome-back = Bem-vindo de volta
+pocket-panel-home-paragraph = Você pode usar o { -pocket-brand-name } para explorar e salvar páginas, artigos, vídeos, podcasts ou voltar ao que estava lendo.
+pocket-panel-home-explore-popular-topics = Explorar tópicos populares
+pocket-panel-home-discover-more = Descubra mais
+pocket-panel-home-explore-more = Explorar
