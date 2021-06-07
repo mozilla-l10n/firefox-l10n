@@ -30,10 +30,13 @@ pocket-panel-signup-view-list = Ver lista
 
 pocket-panel-signup-already-have = ¿Ya eres usuario de { -pocket-brand-name }?
 pocket-panel-signup-learn-more = Aprender más
+pocket-panel-signup-login = Conéctate
 pocket-panel-signup-signup-email = Registrarse usando un email
+pocket-panel-signup-signup-cta = Regístrate en { -pocket-brand-name }. Es gratis.
 pocket-panel-signup-signup-firefox = Registrarse con { -brand-product-name }
 pocket-panel-signup-tagline = Guarda artículos y videos desde { -brand-product-name } para verlos en { -pocket-brand-name } en cualquier dispositivo y momento.
 pocket-panel-signup-tagline-story-one = Aprieta el botón { -pocket-brand-name } para guardar cualquier artículo, video o página de { -brand-product-name }.
+pocket-panel-signup-tagline-story-two = Mírala en { -pocket-brand-name } en cualquier dispositivo y momento.
 
 ## about:pocket-home panel
 
