@@ -11,12 +11,19 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = টেগ যোগ কৰক
+pocket-panel-saved-error-generic = { -pocket-brand-name }-ত সাঁচি থ'বলৈ চেষ্টা কৰোঁতে কিবা ত্ৰুটি ঘটিছে।
+pocket-panel-saved-error-only-links = কেৱল লিংক সাঁচি থ'ব পাৰি
+pocket-panel-saved-error-not-saved = পৃষ্ঠা সাঁচি থোৱা হোৱা নাই
+pocket-panel-saved-error-no-internet = { -pocket-brand-name }-ত সাঁচি থ'বলৈ আপুনি ইণ্টাৰনেটৰ সৈতে সংযোগ কৰিবই লাগিব। অনুগ্ৰহ কৰি ইণ্টাৰনেটৰ সৈতে সংযোগ কৰি পুনৰ চেষ্টা কৰক।
 pocket-panel-saved-page-removed = পৃষ্ঠা আঁতৰোৱা হ'ল
 pocket-panel-saved-page-saved = { -pocket-brand-name }-ত সাঁচি থোৱা হ'ল
 pocket-panel-saved-processing-remove = পৃষ্ঠা আঁতৰাই থকা হৈছে…
+pocket-panel-saved-processing-tags = টেগ যোগ কৰি থকা হৈছে…
 pocket-panel-saved-remove-page = পৃষ্ঠা আঁতৰাওক
 pocket-panel-saved-save-tags = সাঁচি থওক
 pocket-panel-saved-saving-tags = সঞ্চয় কৰি থকা হৈছে…
+pocket-panel-saved-suggested-tags = পৰামৰ্শমূলক টেগ
+pocket-panel-saved-tags-saved = টেগসমূহ যোগ কৰা হ'ল
 pocket-panel-signup-view-list = তালিকা চাওক
 
 ## about:pocket-signup panel
@@ -25,7 +32,11 @@ pocket-panel-signup-already-have = ইতিমধ্যে এগৰাকী {
 pocket-panel-signup-learn-more = অধিক জানক
 pocket-panel-signup-login = লগিন কৰক
 pocket-panel-signup-signup-email = ইমেইলেৰে ছাইন আপ কৰক
+pocket-panel-signup-signup-cta = { -pocket-brand-name }-ৰ বাবে ছাইন আপ কৰক। এয়া বিনামূলীয়া।
 pocket-panel-signup-signup-firefox = { -brand-product-name }-এৰে ছাইন আপ কৰক
+pocket-panel-signup-tagline-story-two = { -pocket-brand-name }-ত যিকোনো ডিভাইচত, যেতিয়াই-তেতিয়াই চাওক।
 
 ## about:pocket-home panel
 
+pocket-panel-home-my-list = মোৰ তালিকা
+pocket-panel-home-welcome-back = পুনৰ স্বাগতম জনাইছোঁ
