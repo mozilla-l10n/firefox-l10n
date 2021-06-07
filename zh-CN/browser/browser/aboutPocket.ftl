@@ -28,6 +28,7 @@ pocket-panel-signup-view-list = 查看列表
 
 ## about:pocket-signup panel
 
+pocket-panel-signup-already-have = 已经注册过 { -pocket-brand-name } 账户了？
 pocket-panel-signup-learn-more = 详细了解
 pocket-panel-signup-login = 登录
 pocket-panel-signup-signup-email = 通过电子邮件注册
