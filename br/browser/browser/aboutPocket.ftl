@@ -28,6 +28,7 @@ pocket-panel-signup-view-list = Gwelout ar roll
 
 ## about:pocket-signup panel
 
+pocket-panel-signup-already-have = Un arveriad { -pocket-brand-name } oc'h endeo?
 pocket-panel-signup-learn-more = Gouzout hiroc'h
 pocket-panel-signup-login = Kennaskañ
 pocket-panel-signup-signup-email = Krouiñ ur gont gant ar chomlec'h postel
