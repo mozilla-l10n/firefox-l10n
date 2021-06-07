@@ -15,6 +15,7 @@ pocket-panel-saved-error-generic = При попытке сохранить в {
 pocket-panel-saved-error-tag-length = Длина тега не должна превышать 25 символов
 pocket-panel-saved-error-only-links = Можно сохранять только ссылки
 pocket-panel-saved-error-not-saved = Страница не сохранена
+pocket-panel-saved-error-no-internet = Чтобы сохранять в { -pocket-brand-name }, вы должны быть подключены к Интернету. Пожалуйста, подключитесь к Интернету, и попробуйте снова.
 pocket-panel-saved-page-removed = Страница удалена
 pocket-panel-saved-page-saved = Сохранено в { -pocket-brand-name }
 pocket-panel-saved-processing-remove = Удаление страницы…
