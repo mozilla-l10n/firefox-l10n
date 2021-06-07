@@ -40,3 +40,9 @@ pocket-panel-signup-tagline-story-two = Tampilkan lewat { -pocket-brand-name } d
 
 ## about:pocket-home panel
 
+pocket-panel-home-my-list = Daftar Saya
+pocket-panel-home-welcome-back = Selamat Datang Kembali
+pocket-panel-home-paragraph = Anda dapat menggunakan { -pocket-brand-name } untuk menjelajahi dan menyimpan laman web, artikel, video, podcast, atau kembali ke yang telah Anda baca.
+pocket-panel-home-explore-popular-topics = Jelajahi Topik Populer
+pocket-panel-home-discover-more = Temukan Lebih Banyak
+pocket-panel-home-explore-more = Jelajahi
