@@ -15,6 +15,7 @@ pocket-panel-saved-error-generic = Узнікла памылка пры спро
 pocket-panel-saved-error-tag-length = Тэгі абмежаваныя 25 сімваламі
 pocket-panel-saved-error-only-links = Можна захаваць толькі спасылкі
 pocket-panel-saved-error-not-saved = Старонка не захавана
+pocket-panel-saved-error-no-internet = Вы мусіце быць падключанымі да Інтэрнэту, каб захаваць у { -pocket-brand-name }. Калі ласка, злучыцеся з Інтэрнэтам і паспрабуйце зноў.
 pocket-panel-saved-page-removed = Старонка выдалена
 pocket-panel-saved-page-saved = Захавана ў { -pocket-brand-name }
 pocket-panel-saved-processing-remove = Выдаленне старонкі…
