@@ -181,8 +181,6 @@ page-action-send-tabs-urlbar =
             [one] Enviar aba para dispositivo
            *[other] Enviar { $tabCount } abas para dispositivo
         }
-page-action-pocket-panel =
-    .label = Salvar página no { -pocket-brand-name }
 page-action-copy-url-panel =
     .label = Copiar link
 page-action-copy-url-urlbar =
@@ -612,8 +610,6 @@ crashed-subframe-submit =
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = Mostrar todos os favoritos
 bookmarks-manage-bookmarks =
     .label = Gerenciar favoritos
 bookmarks-recent-bookmarks-panel-subheader = Favoritos recentes
@@ -686,6 +682,12 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = Salvar no { -pocket-brand-name }
     .tooltiptext = Salvar no { -pocket-brand-name }
+
+## Repair text encoding toolbar button
+
+repair-text-encoding-button =
+    .label = Reparar codificação de texto
+    .tooltiptext = Estimar codificação de texto correta a partir do conteúdo da página
 
 ## Customize Toolbar Buttons
 
