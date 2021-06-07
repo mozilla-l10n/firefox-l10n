@@ -173,6 +173,9 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = Кодування символів
     .accesskey = К
+menu-view-repair-text-encoding =
+    .label = Відновити кодування тексту
+    .accesskey = к
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -254,15 +257,15 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Увійти в { -brand-product-name }…
     .accesskey = в
+menu-tools-turn-on-sync =
+    .label = Увімкнути { -sync-brand-short-name(case: "acc") }…
+    .accesskey = м
 menu-tools-addons-and-themes =
     .label = Додатки й теми
     .accesskey = к
 menu-tools-fxa-sign-in2 =
     .label = Увійти
     .accesskey = в
-menu-tools-turn-on-sync =
-    .label = Увімкнути { -sync-brand-short-name(case: "acc") }…
-    .accesskey = м
 menu-tools-turn-on-sync2 =
     .label = Увімкнути синхронізацію…
     .accesskey = н
@@ -287,13 +290,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Інформація про сторінку
     .accesskey = І
-menu-settings =
-    .label = Налаштування
-    .accesskey =
-        { PLATFORM() ->
-            [windows] Н
-           *[other] ш
-        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -304,6 +300,13 @@ menu-preferences =
         { PLATFORM() ->
             [windows] Н
            *[other] Н
+        }
+menu-settings =
+    .label = Налаштування
+    .accesskey =
+        { PLATFORM() ->
+            [windows] Н
+           *[other] ш
         }
 menu-tools-layout-debugger =
     .label = Зневаджувач шаблона
