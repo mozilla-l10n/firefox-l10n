@@ -8,14 +8,21 @@
 
 ## about:pocket-saved panel
 
+# Placeholder text for tag input
+pocket-panel-saved-add-tags =
+    .placeholder = Adder etiquettas
 pocket-panel-saved-error-generic = Un error occurreva durante le tentativa de salvar in { -pocket-brand-name }.
+pocket-panel-saved-error-tag-length = Le etiquettas es limitate a 25 characteres
 pocket-panel-saved-error-not-saved = Pagina non salvate
 pocket-panel-saved-page-removed = Pagina removite
 pocket-panel-saved-page-saved = Salvate in { -pocket-brand-name }
 pocket-panel-saved-processing-remove = Remotion del pagina…
+pocket-panel-saved-processing-tags = Addente le etiquettas…
 pocket-panel-saved-remove-page = Remover le pagina
 pocket-panel-saved-save-tags = Salvar
 pocket-panel-saved-saving-tags = Salvamento…
+pocket-panel-saved-suggested-tags = Etiquettas suggerite
+pocket-panel-saved-tags-saved = Etiquettas addite
 pocket-panel-signup-view-list = Vide le lista
 
 ## about:pocket-signup panel
