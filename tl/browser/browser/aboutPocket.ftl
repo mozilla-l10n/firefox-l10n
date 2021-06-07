@@ -16,6 +16,7 @@ pocket-panel-saved-error-tag-length = Tags ay limitado sa 25 characters
 pocket-panel-saved-error-only-links = Tanging mga link lamang ay maaaring i-save
 pocket-panel-saved-error-not-saved = Pahina ay hindi na I-save
 pocket-panel-saved-page-removed = Pahina ay na Tanggal
+pocket-panel-saved-page-saved = I-save sa { -pocket-brand-name }
 pocket-panel-saved-processing-remove = Inaalis ang Pahina…
 pocket-panel-saved-processing-tags = Dinadagdagan ang tanda...
 pocket-panel-saved-remove-page = Alisin ang Pahina
