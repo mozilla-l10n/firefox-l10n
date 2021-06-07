@@ -29,6 +29,7 @@ pocket-panel-signup-view-list = View List
 ## about:pocket-signup panel
 
 pocket-panel-signup-already-have = Awready a { -pocket-brand-name } yaiser?
+pocket-panel-signup-learn-more = Lairn mair
 pocket-panel-signup-login = Log in
 pocket-panel-signup-signup-email = Sign up wi email
 pocket-panel-signup-signup-cta = Sign up fur { -pocket-brand-name }. It’s free.
