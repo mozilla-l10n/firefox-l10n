@@ -13,6 +13,7 @@ pocket-panel-saved-add-tags =
     .placeholder = Додај ознаку
 pocket-panel-saved-error-generic = Десила се грешка при покушају снимања у { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Ознаке су ограничене на 25 знакова
+pocket-panel-saved-error-only-links = Можете сачувати само везе
 pocket-panel-saved-error-not-saved = Страница није снимљена
 pocket-panel-saved-page-removed = Страница уклоњена
 pocket-panel-saved-page-saved = Снимљено у { -pocket-brand-name }
