@@ -159,6 +159,7 @@ language-name-ru = Ryska
 language-name-rw = Rwanda
 language-name-sa = Sanskrit
 language-name-sc = Sardiska
+language-name-sco = Skotska
 language-name-sd = Sindhi
 language-name-se = Samiska
 language-name-sg = Sango

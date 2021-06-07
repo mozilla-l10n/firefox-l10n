@@ -173,6 +173,9 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = Textkodning
     .accesskey = k
+menu-view-repair-text-encoding =
+    .label = Reparera textkodning
+    .accesskey = k
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -254,15 +257,15 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Logga in till { -brand-product-name }…
     .accesskey = g
+menu-tools-turn-on-sync =
+    .label = Slå på { -sync-brand-short-name }…
+    .accesskey = p
 menu-tools-addons-and-themes =
     .label = Tillägg och teman
     .accesskey = T
 menu-tools-fxa-sign-in2 =
     .label = Logga in
     .accesskey = L
-menu-tools-turn-on-sync =
-    .label = Slå på { -sync-brand-short-name }…
-    .accesskey = p
 menu-tools-turn-on-sync2 =
     .label = Aktivera synkronisering…
     .accesskey = A
@@ -287,13 +290,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Sidinfo
     .accesskey = d
-menu-settings =
-    .label = Inställningar
-    .accesskey =
-        { PLATFORM() ->
-            [windows] n
-           *[other] n
-        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -304,6 +300,13 @@ menu-preferences =
         { PLATFORM() ->
             [windows] I
            *[other] I
+        }
+menu-settings =
+    .label = Inställningar
+    .accesskey =
+        { PLATFORM() ->
+            [windows] n
+           *[other] n
         }
 menu-tools-layout-debugger =
     .label = Felsök layout
@@ -342,14 +345,12 @@ menu-help-import-from-another-browser =
 menu-help-keyboard-shortcuts =
     .label = Tangentbordskommandon
     .accesskey = T
-menu-get-help =
-    .label = Få hjälp
-    .accesskey = h
 menu-help-troubleshooting-info =
     .label = Felsökningsinformation
     .accesskey = F
-menu-help-taskmanager =
-    .label = Aktivitetshanterare
+menu-get-help =
+    .label = Få hjälp
+    .accesskey = h
 menu-help-more-troubleshooting-info =
     .label = Mer felsökningsinformation
     .accesskey = f
