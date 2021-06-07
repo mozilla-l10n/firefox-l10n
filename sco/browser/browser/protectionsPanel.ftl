@@ -76,7 +76,7 @@ protections-panel-site-not-working-view-send-report = Send a report
 ##
 
 protections-panel-cross-site-tracking-cookies = These cookies follae ye fae site tae site tae gaither data aboot whit ye dae online. They're set by third pairties sic as advertisers and analytics companies.
-protections-panel-cryptominers = Cryptohowkers yaiser yer seestem's computin pouer fur tae howk oot digital siller. Cryptohowkin scripts rin doon yer battery, slow doon yer computer, and can rin up yer energy bill.
+protections-panel-cryptominers = Cryptohowkers yaiser yer system's computin pouer fur tae howk oot digital siller. Cryptohowkin scripts rin doon yer battery, slow doon yer computer, and can rin up yer energy bill.
 protections-panel-fingerprinters = Fingirprenters gaither settins fae yer stravaiger and computer fur tae mak a profile o ye. Yaisin thon digital fingirprent, they can track ye across ither wabsites.
 protections-panel-tracking-content = Wabsites micht load ootside ads, videos, and ither content wi trackin code. Blockin trackin content can help sites load faster, but some buttons, forms, and login fields micht no wirk.
 protections-panel-social-media-trackers = Social networks pit trackers on ither websites fur tae follae whit ye dae, see, and watch online. This alloos social media companies tae lairn mair aboot ye forby jist whit ye share on yer social media profiles.

@@ -48,7 +48,7 @@ tracker-tab-description = Wabsites micht load ootside ads, videos, and ither con
 fingerprinter-tab-title = Fingirprenters
 fingerprinter-tab-content = Fingirprenters gaither settins fae yer wab-stravaiger and computer fur tae mak a profile o ye. Yaisin this digital fingirprent, they can track ye across ither wabsites. <a data-l10n-name="learn-more-link">Lairn mair</a>
 cryptominer-tab-title = Cryptohowkers
-cryptominer-tab-content = Cryptohowkers yaise yer seestem's computin pouer fur tae howk oot digital siller, Cryptohowkin scripts rin doon yer battery, slow doon yer computer, and can rin up yer energy bill. <a data-l10n-name="learn-more-link">Lairn mair</a>
+cryptominer-tab-content = Cryptohowkers yaise yer system's computin pouer fur tae howk oot digital siller, Cryptohowkin scripts rin doon yer battery, slow doon yer computer, and can rin up yer energy bill. <a data-l10n-name="learn-more-link">Lairn mair</a>
 protections-close-button2 =
     .aria-label = Sneck
     .title = Sneck

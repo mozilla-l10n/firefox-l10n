@@ -263,7 +263,7 @@ translate-exceptions =
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
-    .label = Yaise yer operatin seestem settins fur “{ $localeName }” tae format dates, times, nummers, and meisurments.
+    .label = Yaise yer operatin system settins fur “{ $localeName }” tae format dates, times, nummers, and meisurments.
 check-user-spelling =
     .label = Check yer spellin as ye type
     .accesskey = t
@@ -317,7 +317,7 @@ applications-use-os-default =
         { PLATFORM() ->
             [macos] Yaise macOS staunart application
             [windows] Yaise Windows staunart application
-           *[other] Yaise seestem staunart application
+           *[other] Yaise system staunart application
         }
 applications-use-other =
     .label = Yaise anither...
@@ -402,7 +402,7 @@ update-setting-write-failure-title = Mishanter savin Update preferences
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message =
-    { -brand-short-name } cam across a mishanter and didnae save this chynge. Mind that settin this update preference needs permeesion tae write tae the file ablow. Yersel or a seestem admeenistrator micht be able tae sort the mishanter by giein the Yaisers group full control tae this file.
+    { -brand-short-name } cam across a mishanter and didnae save this chynge. Mind that settin this update preference needs permeesion tae write tae the file ablow. Yersel or a system admeenistrator micht be able tae sort the mishanter by giein the Yaisers group full control tae this file.
     
     Couldnae write tae file: { $path }
 update-setting-write-failure-title2 = Mishanter savin Update settins
@@ -411,7 +411,7 @@ update-setting-write-failure-title2 = Mishanter savin Update settins
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message2 =
-    { -brand-short-name } cam across a mishanter and didnae save this chynge. Mind that chynging this update settin needs permeesion tae write tae the file ablow. Yersel or a seestem admeenistrator micht be able tae sort the mishanter by giein the Yaisers group full control tae this file.
+    { -brand-short-name } cam across a mishanter and didnae save this chynge. Mind that chynging this update settin needs permeesion tae write tae the file ablow. Yersel or a system admeenistrator micht be able tae sort the mishanter by giein the Yaisers group full control tae this file.
     
     Couldnae write tae file: { $path }
 update-in-progress-title = Update Unnerwey
@@ -427,7 +427,7 @@ performance-title = Performance
 performance-use-recommended-settings-checkbox =
     .label = Yaise recommendit performance settins
     .accesskey = Y
-performance-use-recommended-settings-desc = These settins are shapit tae yer computer's haurdware and operatin seestem.
+performance-use-recommended-settings-desc = These settins are shapit tae yer computer's haurdware and operatin system.
 performance-settings-learn-more = Lairn mair
 performance-allow-hw-accel =
     .label = Yaise haurdware acceleration whaur possible

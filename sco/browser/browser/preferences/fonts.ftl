@@ -69,7 +69,7 @@ fonts-langgroup-tibetan =
 fonts-langgroup-canadian =
     .label = Unified Canadian Syllabary
 fonts-langgroup-other =
-    .label = Ither Scrievin Seestems
+    .label = Ither Scrievin Systems
 
 ## Default fonts and their sizes
 

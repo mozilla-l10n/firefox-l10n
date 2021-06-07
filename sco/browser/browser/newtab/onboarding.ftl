@@ -218,12 +218,12 @@ onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 onboarding-multistage-theme-tooltip-automatic-2 =
     .title =
         Cairry ower the kythe o yer operatin
-        seestem fur buttons, menus and windaes.
+        system fur buttons, menus and windaes.
 # Input description for automatic theme
 onboarding-multistage-theme-description-automatic-2 =
     .aria-description =
         Cairry ower the kythe o yer operatin
-        seestem fur buttons, menus and windaes.
+        system fur buttons, menus and windaes.
 # Tooltip displayed on hover of light theme
 onboarding-multistage-theme-tooltip-light-2 =
     .title =
@@ -327,7 +327,7 @@ mr1-onboarding-theme-subtitle = Personalise { -brand-short-name } wi a theme.
 mr1-onboarding-theme-primary-button-label = Save theme
 mr1-onboarding-theme-secondary-button-label = No jist noo
 # System theme uses operating system color settings
-mr1-onboarding-theme-label-system = Seestem theme
+mr1-onboarding-theme-label-system = System theme
 mr1-onboarding-theme-label-light = Licht
 mr1-onboarding-theme-label-dark = Daurk
 # "Alpenglow" here is the name of the theme, and should be kept in English.
@@ -341,12 +341,12 @@ mr1-onboarding-theme-label-alpenglow = Alpenglow
 # Tooltip displayed on hover of system theme
 mr1-onboarding-theme-tooltip-system =
     .title =
-        Follae the operatin seestem theme
+        Follae the operatin system theme
         fur buttons, menus and windaes.
 # Input description for system theme
 mr1-onboarding-theme-description-system =
     .aria-description =
-        Follae the operatin seestem theme
+        Follae the operatin system theme
         fur buttons, menus and windaes.
 # Tooltip displayed on hover of light theme
 mr1-onboarding-theme-tooltip-light =

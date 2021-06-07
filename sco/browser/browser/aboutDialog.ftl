@@ -17,11 +17,11 @@ update-downloading-message = Doonloadin update — <label data-l10n-name="downlo
 update-applying = Instawin update...
 update-failed = Update misgaed. <label data-l10n-name="failed-link">Doonload the latest version</label>
 update-failed-main = Update misgaed. <a data-l10n-name="failed-link-main">Doonload the latest version</a>
-update-adminDisabled = Updates disabled by yer seestem admeenistrator
+update-adminDisabled = Updates disabled by yer system admeenistrator
 update-noUpdatesFound = { -brand-short-name } is up tae date
 update-otherInstanceHandlingUpdates = { -brand-short-name } is bein updatit by anither instance
 update-manual = Updates available at <label data-l10n-name="manual-link"/>
-update-unsupported = Ye cannae mak onie mair updates on this seestem. <label data-l10n-name="unsupported-link">Lairn mair</label>
+update-unsupported = Ye cannae mak onie mair updates on this system. <label data-l10n-name="unsupported-link">Lairn mair</label>
 update-restarting = Restertin...
 channel-description = The noo, ye're on the <label data-l10n-name="current-channel"></label> update channel.
 warningDesc-version = { -brand-short-name } is experimental and micht no be stieve.

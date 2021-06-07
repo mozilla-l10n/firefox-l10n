@@ -200,7 +200,7 @@ cfr-doorhanger-socialtracking-description = Yer preevacy maitters. { -brand-shor
 cfr-doorhanger-fingerprinters-heading = { -brand-short-name } blockit a fingirprenter on this page
 cfr-doorhanger-fingerprinters-description = Yer preevacy maitters. { -brand-short-name } noo blocks fingirprenters, which gaither bitties o information kenmerks aboot yer device fur tae track ye.
 cfr-doorhanger-cryptominers-heading = { -brand-short-name } blockit a cryptohowker on this page
-cfr-doorhanger-cryptominers-description = Yer preevacy maitters. { -brand-short-name } noo blocks cryptohowkers, which yaise yer seestem's computin pouer fur tae howk oot digital siller.
+cfr-doorhanger-cryptominers-description = Yer preevacy maitters. { -brand-short-name } noo blocks cryptohowkers, which yaise yer system's computin pouer fur tae howk oot digital siller.
 
 ## Enhanced Tracking Protection Milestones
 

@@ -277,7 +277,7 @@ discopane-intro =
     bield passwirds, doonload videos, airt oot sales, block scunnersome ads, chynge
     how yer wab-stravaiger luiks, and a guid wheen mair. These wee saftware programs are
     aft developed by a third pairty. Here’s a pickle { -brand-product-name }
-    <a data-l10n-name="learn-more-trigger">recommends</a> fur stoatin
+    <a data-l10n-name="learn-more-trigger">recommends</a> fur byordinar
     siccarness, performance, and function.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations =

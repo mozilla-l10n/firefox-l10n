@@ -345,7 +345,7 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = Ye arenae connectit siccar tae this site.
 identity-connection-verified = Ye're connectit siccar tae this site.
 identity-ev-owner-label = Certificate issued tae:
-identity-description-custom-root = Mozilla disnae ken this certificate issuer. It micht hae been eikit on fae yer operatin seestem or by an admeenistrator. <label data-l10n-name="link">Lairn Mair</label>
+identity-description-custom-root = Mozilla disnae ken this certificate issuer. It micht hae been eikit on fae yer operatin system or by an admeenistrator. <label data-l10n-name="link">Lairn Mair</label>
 identity-remove-cert-exception =
     .label = Remuive Exception
     .accesskey = R
@@ -682,6 +682,9 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = Save tae { -pocket-brand-name }
     .tooltiptext = Save tae { -pocket-brand-name }
+
+## Repair text encoding toolbar button
+
 
 ## Customize Toolbar Buttons
 
