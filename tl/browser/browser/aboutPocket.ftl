@@ -28,11 +28,15 @@ pocket-panel-signup-view-list = Tingnan ang Listahan
 
 ## about:pocket-signup panel
 
+pocket-panel-signup-already-have = Gumagamit ka na ba ng { -pocket-brand-name }?
 pocket-panel-signup-learn-more = Alamin pa
 pocket-panel-signup-login = Mag-log in
 pocket-panel-signup-signup-email = Mag-sign up gamit ang email
 pocket-panel-signup-signup-cta = Mag-sign up para sa { -pocket-brand-name }. Ito ay libre.
 pocket-panel-signup-signup-firefox = Mag-sign up sa { -brand-product-name }
+pocket-panel-signup-tagline = Mag-save ng mga artikulo at video mula sa { -brand-product-name } para makita sa { -pocket-brand-name } sa anumang device, anumang oras.
+pocket-panel-signup-tagline-story-one = Pindutin ang { -pocket-brand-name } Button para ma-save ang kahit anong artikulo, video o pahina mula sa { -brand-product-name }.
+pocket-panel-signup-tagline-story-two = Tingnan sa { -pocket-brand-name } sa anumang device, anumang oras.
 
 ## about:pocket-home panel
 
