@@ -173,6 +173,9 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = 文字編碼
     .accesskey = c
+menu-view-repair-text-encoding =
+    .label = 修復文字編碼
+    .accesskey = c
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -254,15 +257,15 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = 登入 { -brand-product-name }…
     .accesskey = g
+menu-tools-turn-on-sync =
+    .label = 開啟 { -sync-brand-short-name }…
+    .accesskey = n
 menu-tools-addons-and-themes =
     .label = 附加元件與佈景主題
     .accesskey = A
 menu-tools-fxa-sign-in2 =
     .label = 登入
     .accesskey = g
-menu-tools-turn-on-sync =
-    .label = 開啟 { -sync-brand-short-name }…
-    .accesskey = n
 menu-tools-turn-on-sync2 =
     .label = 開啟同步…
     .accesskey = n
@@ -287,13 +290,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = 頁面資訊
     .accesskey = I
-menu-settings =
-    .label = 設定
-    .accesskey =
-        { PLATFORM() ->
-            [windows] S
-           *[other] n
-        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -303,6 +299,13 @@ menu-preferences =
     .accesskey =
         { PLATFORM() ->
             [windows] O
+           *[other] n
+        }
+menu-settings =
+    .label = 設定
+    .accesskey =
+        { PLATFORM() ->
+            [windows] S
            *[other] n
         }
 menu-tools-layout-debugger =

@@ -15,6 +15,7 @@ pocket-panel-saved-error-generic = 嘗試儲存至 { -pocket-brand-name } 時發
 pocket-panel-saved-error-tag-length = 標籤僅能有 25 字元
 pocket-panel-saved-error-only-links = 僅能儲存鏈結
 pocket-panel-saved-error-not-saved = 未儲存頁面
+pocket-panel-saved-error-no-internet = 您必須連線至網際網路才能儲存至 { -pocket-brand-name }。請先連上網路再試一次。
 pocket-panel-saved-page-removed = 已移除頁面
 pocket-panel-saved-page-saved = 已儲存至 { -pocket-brand-name }
 pocket-panel-saved-processing-remove = 正在移除頁面…
