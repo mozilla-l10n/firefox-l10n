@@ -47,6 +47,12 @@ toolbar-undelete-button =
     .label = 反刪除
     .tooltiptext = 取消刪除選擇的訊息
 
+## View
+
+menu-view-repair-text-encoding =
+    .label = 修復文字編碼
+    .accesskey = c
+
 ## View / Layout
 
 mail-uidensity-label =
