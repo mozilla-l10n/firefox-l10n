@@ -683,6 +683,12 @@ save-to-pocket-button =
     .label = Αποθήκευση στο { -pocket-brand-name }
     .tooltiptext = Αποθήκευση στο { -pocket-brand-name }
 
+## Repair text encoding toolbar button
+
+repair-text-encoding-button =
+    .label = Επιδιόρθωση κωδικοποίησης κειμένου
+    .tooltiptext = Υπόθεση σωστής κωδικοποίησης κειμένου από το περιεχόμενο της σελίδας
+
 ## Customize Toolbar Buttons
 
 # Variables:
