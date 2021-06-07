@@ -47,6 +47,12 @@ toolbar-undelete-button =
     .label = Törlés visszavonása
     .tooltiptext = Kijelölt üzenetek törlésének visszavonása
 
+## View
+
+menu-view-repair-text-encoding =
+    .label = Szövegkódolás javítása
+    .accesskey = k
+
 ## View / Layout
 
 mail-uidensity-label =
