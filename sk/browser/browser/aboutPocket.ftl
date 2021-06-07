@@ -40,3 +40,9 @@ pocket-panel-signup-tagline-story-two = Tieto sú potom so službou { -pocket-br
 
 ## about:pocket-home panel
 
+pocket-panel-home-my-list = Môj zoznam
+pocket-panel-home-welcome-back = Vitajte späť
+pocket-panel-home-paragraph = { -pocket-brand-name } môžete použiť na preskúmanie a uloženie webových stránok, článkov, videí, podcastov alebo na návrat k tomu, čo ste práve čítali.
+pocket-panel-home-explore-popular-topics = Preskúmať populárne témy
+pocket-panel-home-discover-more = Objavte ďalšie
+pocket-panel-home-explore-more = Preskúmať
