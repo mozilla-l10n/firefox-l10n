@@ -40,3 +40,9 @@ pocket-panel-signup-tagline-story-two = Vis i { -pocket-brand-name }, på kva so
 
 ## about:pocket-home panel
 
+pocket-panel-home-my-list = Mi liste
+pocket-panel-home-welcome-back = Velkomen tilbake
+pocket-panel-home-paragraph = Du kan bruke { -pocket-brand-name } for å utforske og lagre nettsider, artiklar, videoar, podkastar eller gå tillbaka til det du har lese.
+pocket-panel-home-explore-popular-topics = Utforsk populære emne
+pocket-panel-home-discover-more = Oppdag meir
+pocket-panel-home-explore-more = Utforsk
