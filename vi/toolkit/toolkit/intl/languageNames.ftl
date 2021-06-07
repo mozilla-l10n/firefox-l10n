@@ -159,6 +159,7 @@ language-name-ru = Nga
 language-name-rw = Kinyarwanda
 language-name-sa = Phạn
 language-name-sc = Sardinia
+language-name-sco = Scots
 language-name-sd = Sindhi
 language-name-se = Bắc Sami
 language-name-sg = Trung Phi

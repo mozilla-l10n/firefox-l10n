@@ -173,6 +173,9 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = Bảng mã văn bản
     .accesskey = c
+menu-view-repair-text-encoding =
+    .label = Sửa chữa mã hóa văn bản
+    .accesskey = c
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -254,15 +257,15 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Đăng nhập vào { -brand-product-name }…
     .accesskey = g
+menu-tools-turn-on-sync =
+    .label = Bật { -sync-brand-short-name }…
+    .accesskey = n
 menu-tools-addons-and-themes =
     .label = Tiện ích mở rộng và chủ đề
     .accesskey = A
 menu-tools-fxa-sign-in2 =
     .label = Đăng nhập
     .accesskey = g
-menu-tools-turn-on-sync =
-    .label = Bật { -sync-brand-short-name }…
-    .accesskey = n
 menu-tools-turn-on-sync2 =
     .label = Bật đồng bộ hóa…
     .accesskey = n
@@ -287,13 +290,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Thông tin về trang này
     .accesskey = I
-menu-settings =
-    .label = Cài đặt
-    .accesskey =
-        { PLATFORM() ->
-            [windows] S
-           *[other] n
-        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -303,6 +299,13 @@ menu-preferences =
     .accesskey =
         { PLATFORM() ->
             [windows] O
+           *[other] n
+        }
+menu-settings =
+    .label = Cài đặt
+    .accesskey =
+        { PLATFORM() ->
+            [windows] S
            *[other] n
         }
 menu-tools-layout-debugger =
@@ -342,14 +345,12 @@ menu-help-import-from-another-browser =
 menu-help-keyboard-shortcuts =
     .label = Các phím tắt bàn phím
     .accesskey = K
-menu-get-help =
-    .label = Nhận trợ giúp
-    .accesskey = H
 menu-help-troubleshooting-info =
     .label = Thông tin xử lý sự cố
     .accesskey = T
-menu-help-taskmanager =
-    .label = Quản lý tác vụ
+menu-get-help =
+    .label = Nhận trợ giúp
+    .accesskey = H
 menu-help-more-troubleshooting-info =
     .label = Thông tin xử lý sự cố khác
     .accesskey = T
