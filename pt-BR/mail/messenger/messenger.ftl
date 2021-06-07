@@ -109,3 +109,4 @@ message-header-address-not-in-address-book-icon =
 addon-removal-title = Remover { $name }?
 addon-removal-confirmation-button = Remover
 addon-removal-confirmation-message = Remover { $name } junto com suas configurações e dados do { -brand-short-name }?
+caret-browsing-prompt-check-text = Não perguntar novamente.
