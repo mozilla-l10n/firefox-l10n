@@ -28,6 +28,7 @@ pocket-panel-signup-view-list = Senarai Paparan
 
 ## about:pocket-signup panel
 
+pocket-panel-signup-already-have = Sudah menjadi pengguna { -pocket-brand-name }?
 pocket-panel-signup-learn-more = Ketahui Selanjutnya
 pocket-panel-signup-login = Log masuk
 pocket-panel-signup-signup-email = Daftar dengan e-mel
