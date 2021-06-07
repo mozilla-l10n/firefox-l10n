@@ -29,9 +29,13 @@ pocket-panel-signup-view-list = Veddi elenco
 ## about:pocket-signup panel
 
 pocket-panel-signup-learn-more = Atre informaçioin
+pocket-panel-signup-login = Intra
 pocket-panel-signup-signup-email = Acedi con l'email
+pocket-panel-signup-signup-cta = Registrite in sce { -pocket-brand-name }. L'é de badda.
+pocket-panel-signup-signup-firefox = Registrite con { -brand-product-name }
 pocket-panel-signup-tagline = Sarva articoli e video da { -brand-product-name } pe veddile in sce { -pocket-brand-name } da qualonque dispoxitivo e in qualonque momento.
 pocket-panel-signup-tagline-story-one = Sciacca o pomello { -pocket-brand-name } pe sarvâ qualonque articolo, video ò pagina da { -brand-product-name }.
+pocket-panel-signup-tagline-story-two = Amialo in { -pocket-brand-name } da qualonque dispoxitivo e in qualonque momento.
 
 ## about:pocket-home panel
 
