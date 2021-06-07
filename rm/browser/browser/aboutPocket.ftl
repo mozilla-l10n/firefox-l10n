@@ -40,4 +40,9 @@ pocket-panel-signup-tagline-story-two = Vesair en { -pocket-brand-name } sin min
 
 ## about:pocket-home panel
 
+pocket-panel-home-my-list = Mia glista
 pocket-panel-home-welcome-back = Bel che ti turnas
+pocket-panel-home-paragraph = Ti pos utilisar { -pocket-brand-name } per explorar e memorisar paginas d'internet, artitgels, videos, podcasts u leger vinavant là nua che ti has chalà.
+pocket-panel-home-explore-popular-topics = Scuvrir temas populars
+pocket-panel-home-discover-more = Scuvrir dapli
+pocket-panel-home-explore-more = Explorar
