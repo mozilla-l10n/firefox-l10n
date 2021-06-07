@@ -33,6 +33,7 @@ pocket-panel-signup-learn-more = Zjistit více
 pocket-panel-signup-login = Přihlaste se
 pocket-panel-signup-signup-email = Registrace e-mailem
 pocket-panel-signup-signup-cta = Zaregistrujte se do služby { -pocket-brand-name }. Je to zdarma.
+pocket-panel-signup-signup-firefox = Registrace účtem { -brand-product-name }u
 pocket-panel-signup-tagline = Ukládejte si články a videa z { -brand-product-name }u pro zobrazení ve službě { -pocket-brand-name } kdykoliv a na jakémkoli zařízení.
 pocket-panel-signup-tagline-story-one = Klepněte na tlačítko služby { -pocket-brand-name } pro uložení jakéhokoliv článku, videa nebo stránky přímo z { -brand-product-name }u.
 pocket-panel-signup-tagline-story-two = Zobrazení ve službě { -pocket-brand-name } kdykoliv a na jakémkoliv zařízení.
