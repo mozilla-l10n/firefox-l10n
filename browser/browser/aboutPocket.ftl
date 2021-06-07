@@ -17,6 +17,7 @@ pocket-panel-saved-error-only-links = Išsaugoti galima tik nuorodas
 pocket-panel-saved-error-not-saved = Tinklalapis neišsaugotas
 pocket-panel-saved-page-removed = Tinklalapis pašalintas
 pocket-panel-saved-page-saved = Išsaugota į „{ -pocket-brand-name }“
+pocket-panel-saved-processing-remove = Tinklalapis šalinamas…
 pocket-panel-saved-processing-tags = Pridedamos gairės…
 pocket-panel-saved-remove-page = Pašalinti tinklalapį
 pocket-panel-saved-save-tags = Išsaugoti
