@@ -40,3 +40,9 @@ pocket-panel-signup-tagline-story-two = Xem trên { -pocket-brand-name } ở b�
 
 ## about:pocket-home panel
 
+pocket-panel-home-my-list = Danh sách của tôi
+pocket-panel-home-welcome-back = Chào mừng trở lại
+pocket-panel-home-paragraph = Bạn có thể sử dụng { -pocket-brand-name } để khám phá và lưu các trang web, bài viết, video, podcast hoặc quay lại những gì bạn đã đọc.
+pocket-panel-home-explore-popular-topics = Khám phá các chủ đề phổ biến
+pocket-panel-home-discover-more = Khám phá nhiều hơn
+pocket-panel-home-explore-more = Khám phá
