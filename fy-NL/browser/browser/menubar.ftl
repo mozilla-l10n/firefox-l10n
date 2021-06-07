@@ -173,6 +173,9 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = Tekenkodearring
     .accesskey = T
+menu-view-repair-text-encoding =
+    .label = Tekstkodearring reparearje
+    .accesskey = r
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -254,15 +257,15 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Oanmelde by { -brand-product-name }…
     .accesskey = m
+menu-tools-turn-on-sync =
+    .label = { -sync-brand-short-name } ynskeakelje…
+    .accesskey = y
 menu-tools-addons-and-themes =
     .label = Add-ons en tema’s
     .accesskey = A
 menu-tools-fxa-sign-in2 =
     .label = Oanmelde
     .accesskey = m
-menu-tools-turn-on-sync =
-    .label = { -sync-brand-short-name } ynskeakelje…
-    .accesskey = y
 menu-tools-turn-on-sync2 =
     .label = Syngronisaasje ynskeakelje…
     .accesskey = n
@@ -287,13 +290,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Side-ynfo
     .accesskey = f
-menu-settings =
-    .label = Ynstellingen
-    .accesskey =
-        { PLATFORM() ->
-            [windows] Y
-           *[other] n
-        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -304,6 +300,13 @@ menu-preferences =
         { PLATFORM() ->
             [windows] O
            *[other] F
+        }
+menu-settings =
+    .label = Ynstellingen
+    .accesskey =
+        { PLATFORM() ->
+            [windows] Y
+           *[other] n
         }
 menu-tools-layout-debugger =
     .label = Lay-out-debugger
@@ -342,14 +345,12 @@ menu-help-import-from-another-browser =
 menu-help-keyboard-shortcuts =
     .label = Fluchtoetsen
     .accesskey = t
-menu-get-help =
-    .label = Help krije
-    .accesskey = H
 menu-help-troubleshooting-info =
     .label = Probleemoplossingsynformaasje
     .accesskey = P
-menu-help-taskmanager =
-    .label = Taakbehearder
+menu-get-help =
+    .label = Help krije
+    .accesskey = H
 menu-help-more-troubleshooting-info =
     .label = Mear probleemoplossingsynformaasje
     .accesskey = p

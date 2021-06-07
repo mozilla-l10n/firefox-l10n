@@ -181,8 +181,6 @@ page-action-send-tabs-urlbar =
             [one] Ljepblêd nei apparaat ferstjoere
            *[other] { $tabCount } ljepblêden nei apparaat ferstjoere
         }
-page-action-pocket-panel =
-    .label = Side bewarje nei { -pocket-brand-name }
 page-action-copy-url-panel =
     .label = Keppeling kopiearje
 page-action-copy-url-urlbar =
@@ -615,8 +613,6 @@ crashed-subframe-submit =
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = Alle blêdwizers toane
 bookmarks-manage-bookmarks =
     .label = Blêdwizers beheare
 bookmarks-recent-bookmarks-panel-subheader = Resinte blêdwizers
@@ -689,6 +685,12 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = Bewarje nei { -pocket-brand-name }
     .tooltiptext = Bewarje nei { -pocket-brand-name }
+
+## Repair text encoding toolbar button
+
+repair-text-encoding-button =
+    .label = Tekstkodearring reparearje
+    .tooltiptext = Betink krekte tekstkodearring fan sideynhâld út
 
 ## Customize Toolbar Buttons
 
