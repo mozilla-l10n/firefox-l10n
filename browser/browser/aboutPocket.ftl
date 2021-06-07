@@ -30,7 +30,9 @@ pocket-panel-signup-already-have = 이미 { -pocket-brand-name }을 쓰고 있�
 pocket-panel-signup-learn-more = 더 알아보기
 pocket-panel-signup-login = 로그인
 pocket-panel-signup-signup-email = 이메일로 가입
+pocket-panel-signup-signup-cta = { -pocket-brand-name }에 가입하세요. 무료입니다.
 pocket-panel-signup-signup-firefox = { -brand-product-name }로 가입하기
+pocket-panel-signup-tagline = { -brand-product-name }에서 글과 동영상을 저장하면 다른 기기에서 { -pocket-brand-name }을 사용해 아무 때나 보실 수 있습니다.
 pocket-panel-signup-tagline-story-one = { -pocket-brand-name } 단추를 누르면 { -brand-product-name }에서 어떠한 글, 동영상, 또는 페이지도 저장합니다.
 pocket-panel-signup-tagline-story-two = 모든 기기에서 아무 때나 { -pocket-brand-name }에서 볼 수 있습니다.
 
