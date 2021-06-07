@@ -29,6 +29,7 @@ pocket-panel-signup-view-list = Liste anzeigen
 ## about:pocket-signup panel
 
 pocket-panel-signup-already-have = Sind Sie bereits { -pocket-brand-name }-Nutzer?
+pocket-panel-signup-learn-more = Weitere Informationen
 pocket-panel-signup-login = Anmelden
 pocket-panel-signup-signup-email = Mit E-Mail registrieren
 pocket-panel-signup-signup-cta = Registrieren Sie sich bei { -pocket-brand-name }. Das ist kostenlos.
