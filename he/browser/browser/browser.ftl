@@ -181,8 +181,6 @@ page-action-send-tabs-urlbar =
             [one] שליחת לשונית למכשיר
            *[other] שליחת { $tabCount } לשוניות למכשיר
         }
-page-action-pocket-panel =
-    .label = שמירת דף אל { -pocket-brand-name }
 page-action-copy-url-panel =
     .label = העתקת קישור
 page-action-copy-url-urlbar =
@@ -610,8 +608,6 @@ crashed-subframe-submit =
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = הצגת כל הסימניות
 bookmarks-manage-bookmarks =
     .label = ניהול סימניות
 bookmarks-recent-bookmarks-panel-subheader = סימניות אחרונות
@@ -684,6 +680,12 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = שמירה אל { -pocket-brand-name }
     .tooltiptext = שמירה אל { -pocket-brand-name }
+
+## Repair text encoding toolbar button
+
+repair-text-encoding-button =
+    .label = תיקון קידוד טקסט
+    .tooltiptext = ניחוש קידוד הטקסט הנכון בהסתמך על תוכן הדף
 
 ## Customize Toolbar Buttons
 

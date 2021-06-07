@@ -173,6 +173,9 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = קידוד טקסט
     .accesskey = ק
+menu-view-repair-text-encoding =
+    .label = תיקון קידוד טקסט
+    .accesskey = ק
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -254,15 +257,15 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = כניסה אל { -brand-product-name }…
     .accesskey = כ
+menu-tools-turn-on-sync =
+    .label = הפעלת { -sync-brand-short-name }…
+    .accesskey = ה
 menu-tools-addons-and-themes =
     .label = תוספות וערכות נושא
     .accesskey = ת
 menu-tools-fxa-sign-in2 =
     .label = כניסה
     .accesskey = כ
-menu-tools-turn-on-sync =
-    .label = הפעלת { -sync-brand-short-name }…
-    .accesskey = ה
 menu-tools-turn-on-sync2 =
     .label = הפעלת סנכרון
     .accesskey = ס
@@ -287,13 +290,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = מידע על הדף
     .accesskey = מ
-menu-settings =
-    .label = הגדרות
-    .accesskey =
-        { PLATFORM() ->
-            [windows] ג
-           *[other] ג
-        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -304,6 +300,13 @@ menu-preferences =
         { PLATFORM() ->
             [windows] א
            *[other] ד
+        }
+menu-settings =
+    .label = הגדרות
+    .accesskey =
+        { PLATFORM() ->
+            [windows] ג
+           *[other] ג
         }
 menu-tools-layout-debugger =
     .label = ניפוי שגיאות פריסה
@@ -342,14 +345,12 @@ menu-help-import-from-another-browser =
 menu-help-keyboard-shortcuts =
     .label = קיצורי מקלדת
     .accesskey = ק
-menu-get-help =
-    .label = קבלת עזרה
-    .accesskey = ע
 menu-help-troubleshooting-info =
     .label = מידע לפתרון בעיות
     .accesskey = מ
-menu-help-taskmanager =
-    .label = מנהל משימות
+menu-get-help =
+    .label = קבלת עזרה
+    .accesskey = ע
 menu-help-more-troubleshooting-info =
     .label = מידע נוסף לפתרון בעיות
     .accesskey = מ

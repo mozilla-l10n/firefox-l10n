@@ -15,6 +15,7 @@ pocket-panel-saved-error-generic = אירעה שגיאה בעת ניסיון ל�
 pocket-panel-saved-error-tag-length = התגיות מוגבלות ל־25 תווים
 pocket-panel-saved-error-only-links = ניתן לשמור קישורים בלבד
 pocket-panel-saved-error-not-saved = העמוד לא נשמר
+pocket-panel-saved-error-no-internet = יש להתחבר לאינטרנט כדי לשמור ל־{ -pocket-brand-name }. נא לבדוק את החיבור שלך ולנסות שוב.
 pocket-panel-saved-page-removed = העמוד הוסר
 pocket-panel-saved-page-saved = נשמר ל־{ -pocket-brand-name }
 pocket-panel-saved-processing-remove = העמוד מוסר…
