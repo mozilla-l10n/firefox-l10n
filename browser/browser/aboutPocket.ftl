@@ -35,6 +35,7 @@ pocket-panel-signup-signup-email = Регистриране с електрон�
 pocket-panel-signup-signup-cta = Регистрирайте се в { -pocket-brand-name }. Безплатно е.
 pocket-panel-signup-signup-firefox = Регистриране с { -brand-product-name }
 pocket-panel-signup-tagline = Запазвайте статии и видео от { -brand-product-name } и можете да ги преглеждате в { -pocket-brand-name } на всяко устройство по всяко време.
+pocket-panel-signup-tagline-story-one = Използвайте бутона на { -pocket-brand-name }, за да запазите статия, видео или страница от { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Преглеждайте в { -pocket-brand-name } на всяко устройство и по всяко време.
 
 ## about:pocket-home panel
