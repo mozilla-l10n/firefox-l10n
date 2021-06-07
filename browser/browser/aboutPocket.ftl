@@ -29,6 +29,7 @@ pocket-panel-signup-view-list = జాబితాను చూడండి
 ## about:pocket-signup panel
 
 pocket-panel-signup-already-have = ఇప్పటికే { -pocket-brand-name } వాడుతున్నారా?
+pocket-panel-signup-learn-more = ఇంకా తెలుసుకోండి
 pocket-panel-signup-login = ప్రవేశించండి
 pocket-panel-signup-signup-email = ఇమెయిల్ తో సైన్అప్ అవ్వండ్
 pocket-panel-signup-signup-cta = { -pocket-brand-name } కోసం నమోదవ్వండి. ఉచితమే.
