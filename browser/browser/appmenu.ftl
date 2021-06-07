@@ -5,8 +5,6 @@
 
 ## App Menu
 
-appmenuitem-update-banner =
-    .label-update-downloading = Se descarcă actualizarea { -brand-shorter-name }
 appmenuitem-protection-dashboard-title = Tablou de bord privind protecțiile
 appmenuitem-customize-mode =
     .label = Personalizează…
@@ -17,6 +15,10 @@ appmenuitem-new-window =
     .label = Fereastră nouă
 appmenuitem-new-private-window =
     .label = Fereastră privată nouă
+# Settings is now used to access the browser settings across all platforms,
+# instead of Options or Preferences.
+appmenuitem-settings =
+    .label = Setări
 
 ## Zoom and Fullscreen Controls
 
@@ -47,6 +49,10 @@ whatsnew-panel-footer-checkbox =
 ## performance profiles. To enable it go to profiler.firefox.com and click
 ## "Enable Profiler Menu Button".
 
+profiler-popup-settings =
+    .value = Setări
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings = Editează setările…
 
 ## History panel
 
@@ -56,26 +62,11 @@ whatsnew-panel-footer-checkbox =
 appmenu-about =
     .label = Despre { -brand-shorter-name }
     .accesskey = A
-appmenu-help-troubleshooting-info =
-    .label = Informații pentru depanare
-    .accesskey = T
-appmenu-help-taskmanager =
-    .label = Manager de activități
 appmenu-help-report-site-issue =
     .label = Raportează problemă cu site-ul…
 appmenu-help-feedback-page =
     .label = Trimite feedback…
     .accesskey = S
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Repornește cu suplimentele dezactivate…
-    .accesskey = R
-appmenu-help-safe-mode-with-addons =
-    .label = Repornește cu suplimentele activate
-    .accesskey = R
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

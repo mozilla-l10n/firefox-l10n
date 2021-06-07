@@ -88,6 +88,9 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
+## Firefox Account Button
+
+
 ## Save Page
 
 main-context-menu-page-save =
@@ -236,6 +239,9 @@ main-context-menu-image-view =
 main-context-menu-video-view =
     .label = Vezi videoclipul
     .accesskey = I
+main-context-menu-image-view-new-tab =
+    .label = Deschide imaginea într-o filă nouă
+    .accesskey = I
 main-context-menu-image-copy =
     .label = Copiază imaginea
     .accesskey = y
@@ -247,6 +253,9 @@ main-context-menu-video-copy-location =
     .accesskey = o
 main-context-menu-audio-copy-location =
     .label = Copiază locația secvenței vocale
+    .accesskey = o
+main-context-menu-image-copy-link =
+    .label = Copiază linkul imaginii
     .accesskey = o
 main-context-menu-image-save-as =
     .label = Salvează imaginea ca…
@@ -343,6 +352,9 @@ main-context-menu-frame-view-info =
 main-context-menu-view-selection-source =
     .label = Vezi sursa selecției
     .accesskey = e
+main-context-menu-take-screenshot =
+    .label = Realizează o captură de ecran
+    .accesskey = T
 main-context-menu-view-page-source =
     .label = Vezi sursa paginii
     .accesskey = V

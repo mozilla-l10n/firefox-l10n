@@ -271,6 +271,13 @@ menu-preferences =
             [windows] O
            *[other] n
         }
+menu-settings =
+    .label = Setări
+    .accesskey =
+        { PLATFORM() ->
+            [windows] S
+           *[other] n
+        }
 menu-tools-layout-debugger =
     .label = Depanator de așezare în pagină
     .accesskey = L
@@ -283,15 +290,6 @@ menu-window-bring-all-to-front =
     .label = Adu toate în față
 
 ## Help Menu
-
-
-# NOTE: For Engineers, any additions or changes to Help menu strings should
-# also be reflected in the related strings in appmenu.ftl. Those strings, by
-# convention, will have the same ID as these, but prefixed with "app".
-# Example: appmenu-help-product
-#
-# These strings are duplicated to allow for different casing depending on
-# where the strings appear.
 
 
 # NOTE: For Engineers, any additions or changes to Help menu strings should
@@ -320,8 +318,6 @@ menu-help-keyboard-shortcuts =
 menu-help-troubleshooting-info =
     .label = Informații pentru depanare
     .accesskey = T
-menu-help-taskmanager =
-    .label = Manager de activități
 menu-help-report-site-issue =
     .label = Raportează problemă cu site-ul…
 menu-help-feedback-page =

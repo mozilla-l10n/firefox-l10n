@@ -180,8 +180,6 @@ page-action-send-tabs-urlbar =
             [few] Trimite { $tabCount } file către un dispozitiv
            *[other] Trimite { $tabCount } de file către un dispozitiv
         }
-page-action-pocket-panel =
-    .label = Salvează pagina în { -pocket-brand-name }
 page-action-copy-url-panel =
     .label = Copiază linkul
 page-action-copy-url-urlbar =
@@ -499,8 +497,6 @@ pointerlock-warning-no-domain = Documentul controlează acum cursorul. Apasă Es
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = Afișează toate marcajele
 bookmarks-toolbar-chevron =
     .tooltiptext = Afișează mai multe marcaje
 bookmarks-sidebar-content =
@@ -560,8 +556,20 @@ save-to-pocket-button =
     .label = Salvează în { -pocket-brand-name }
     .tooltiptext = Salvează în { -pocket-brand-name }
 
+## Repair text encoding toolbar button
+
+
 ## Customize Toolbar Buttons
 
+# Variables:
+#  $shortcut (String): keyboard shortcut to open settings (only on macOS)
+toolbar-settings-button =
+    .label = Setări
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Deschide setările ({ $shortcut })
+           *[other] Deschide setările
+        }
 
 ## More items
 
@@ -572,6 +580,7 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Unele elemente audio sau video de pe acest site folosesc programe DRM, care pot limita ceea ce îți permite { -brand-short-name } să faci cu ele.
+eme-notifications-drm-content-playing-manage = Gestionează setările
 
 ## Password save/update panel
 
