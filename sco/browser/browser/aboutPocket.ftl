@@ -15,6 +15,7 @@ pocket-panel-saved-error-generic = There wis a mishanter whan tryin tae save tae
 pocket-panel-saved-error-tag-length = Tags cannae be mair nor 25 chairacters
 pocket-panel-saved-error-only-links = Anely links can be saved
 pocket-panel-saved-error-not-saved = Page No Saved
+pocket-panel-saved-error-no-internet = Ye maun be connectit tae the Internet fur tae save tae { -pocket-brand-name }. Gonnae connect tae the Internet and gie it anither shot.
 pocket-panel-saved-page-removed = Page Remuivit
 pocket-panel-saved-page-saved = Saved tae { -pocket-brand-name }
 pocket-panel-saved-processing-remove = Remuvin Page…
