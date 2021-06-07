@@ -173,6 +173,9 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = Text Encodin
     .accesskey = c
+menu-view-repair-text-encoding =
+    .label = Pit Richt Text Encodin
+    .accesskey = c
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.

@@ -685,6 +685,9 @@ save-to-pocket-button =
 
 ## Repair text encoding toolbar button
 
+repair-text-encoding-button =
+    .label = Pit richt text encodin
+    .tooltiptext = Guess richt text encodin fae page content
 
 ## Customize Toolbar Buttons
 
