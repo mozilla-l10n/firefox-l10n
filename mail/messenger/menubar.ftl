@@ -47,6 +47,12 @@ toolbar-undelete-button =
     .label = Fuortsmiten ûngedien meitsje
     .tooltiptext = Fuortsmiten fan selektearre berjochten ûngedien meitsje
 
+## View
+
+menu-view-repair-text-encoding =
+    .label = Tekstkodearring reparearje
+    .accesskey = r
+
 ## View / Layout
 
 mail-uidensity-label =
