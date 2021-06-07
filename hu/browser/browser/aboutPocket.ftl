@@ -15,6 +15,7 @@ pocket-panel-saved-error-generic = Hiba történt a { -pocket-brand-name }re men
 pocket-panel-saved-error-tag-length = A címkék legfeljebb 25 karakter hosszúak lehetnek
 pocket-panel-saved-error-only-links = Csak hivatkozások menthetők
 pocket-panel-saved-error-not-saved = Az oldal nem lett mentve
+pocket-panel-saved-error-no-internet = Csatlakoznia kell az internethez a { -pocket-brand-name }re mentéshez. Ellenőrizze az internetkapcsolatot, és próbálja újra.
 pocket-panel-saved-page-removed = Oldal eltávolítva
 pocket-panel-saved-page-saved = Mentve a { -pocket-brand-name }be
 pocket-panel-saved-processing-remove = Oldal eltávolítása…
