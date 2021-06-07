@@ -34,6 +34,8 @@ pocket-panel-signup-login = لِج
 pocket-panel-signup-signup-email = سجّل بالبريد الإلكتروني
 pocket-panel-signup-signup-cta = سجل في { -pocket-brand-name }. مجانًا.
 pocket-panel-signup-signup-firefox = سجّل بفَيَرفُكس
+pocket-panel-signup-tagline = احفظ المقالات و الڤديوهات من { -brand-product-name } لعرضها في { -pocket-brand-name } على أي جهاز و في أي وقت.
+pocket-panel-signup-tagline-story-one = انقر على زر { -pocket-brand-name } لحفظ أي مقالة أو ڤديو أو صفحة من { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = اعرض في { -pocket-brand-name } على أي جهاز في أي وقت.
 
 ## about:pocket-home panel
