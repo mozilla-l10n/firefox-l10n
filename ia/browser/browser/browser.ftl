@@ -181,8 +181,6 @@ page-action-send-tabs-urlbar =
             [one] Inviar scheda al apparato
            *[other] Inviar { $tabCount } schedas al apparato
         }
-page-action-pocket-panel =
-    .label = Salvar pagina in { -pocket-brand-name }
 page-action-copy-url-panel =
     .label = Copiar ligamine
 page-action-copy-url-urlbar =
@@ -612,8 +610,6 @@ crashed-subframe-submit =
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = Monstrar tote le marcapaginas
 bookmarks-manage-bookmarks =
     .label = Gerer marcapaginas
 bookmarks-recent-bookmarks-panel-subheader = Marcapaginas recente
@@ -686,6 +682,12 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = Salvar in { -pocket-brand-name }
     .tooltiptext = Salvar in { -pocket-brand-name }
+
+## Repair text encoding toolbar button
+
+repair-text-encoding-button =
+    .label = Corriger le codification del texto:
+    .tooltiptext = Divina le correcte codification del texto ab le contento del pagina
 
 ## Customize Toolbar Buttons
 
