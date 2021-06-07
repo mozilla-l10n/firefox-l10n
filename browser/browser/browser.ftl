@@ -181,8 +181,6 @@ page-action-send-tabs-urlbar =
             [one] Lap küldése az eszközre
            *[other] { $tabCount } lap küldése az eszközre
         }
-page-action-pocket-panel =
-    .label = Oldal mentése a { -pocket-brand-name }be
 page-action-copy-url-panel =
     .label = Hivatkozás másolása
 page-action-copy-url-urlbar =
@@ -615,8 +613,6 @@ crashed-subframe-submit =
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = Minden könyvjelző megjelenítése
 bookmarks-manage-bookmarks =
     .label = Könyvjelzők kezelése
 bookmarks-recent-bookmarks-panel-subheader = Friss könyvjelzők
@@ -689,6 +685,12 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = Mentés a { -pocket-brand-name }be
     .tooltiptext = Mentés a { -pocket-brand-name }be
+
+## Repair text encoding toolbar button
+
+repair-text-encoding-button =
+    .label = Szövegkódolás javítása
+    .tooltiptext = A szöveg kódolásának kitalálása az oldal tartalma alapján
 
 ## Customize Toolbar Buttons
 
