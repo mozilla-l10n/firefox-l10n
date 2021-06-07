@@ -40,6 +40,8 @@ pocket-panel-signup-tagline-story-two = İstediğiniz cihazda, istediğiniz zama
 
 ## about:pocket-home panel
 
+pocket-panel-home-my-list = Listem
+pocket-panel-home-welcome-back = Tekrar hoş geldiniz
 pocket-panel-home-paragraph = { -pocket-brand-name }’ı kullanarak web sayfalarını, makaleleri, videoları, podcast’leri keşfedip kaydedebilir, okuduklarınıza kaldığınız yerden devam edebilirsiniz.
 pocket-panel-home-explore-popular-topics = Popüler konuları keşfedin
 pocket-panel-home-discover-more = Daha fazlasını keşfedin
