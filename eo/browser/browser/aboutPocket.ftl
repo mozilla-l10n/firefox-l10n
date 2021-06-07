@@ -40,3 +40,9 @@ pocket-panel-signup-tagline-story-two = Vidi { -pocket-brand-name } en iu ajn ap
 
 ## about:pocket-home panel
 
+pocket-panel-home-my-list = Mia listo
+pocket-panel-home-welcome-back = Bonvenon denove
+pocket-panel-home-paragraph = Vi povas uzi { -pocket-brand-name } por esplori kaj konservi retpaĝojn, artikolojn, filmetojn, podkastojn, aŭ por reiri al aferoj, kiujn vi jam legis.
+pocket-panel-home-explore-popular-topics = Esplori popularajn temojn
+pocket-panel-home-discover-more = Malkovri pli da aferoj
+pocket-panel-home-explore-more = Esplori
