@@ -36,6 +36,7 @@ pocket-panel-signup-signup-cta = Regístrate en { -pocket-brand-name }. Es grati
 pocket-panel-signup-signup-firefox = Regístrate con { -brand-product-name }
 pocket-panel-signup-tagline = Guardar artículos y videos desde { -brand-product-name } para ver en { -pocket-brand-name } o en cualquier dispositivo, en cualquier momento.
 pocket-panel-signup-tagline-story-one = Haz clic en el botón de { -pocket-brand-name } para guardar cualquier artículo, video o página desde { -brand-product-name }.
+pocket-panel-signup-tagline-story-two = Ver en { -pocket-brand-name } o en cualquier dispositivo, en cualquier momento.
 
 ## about:pocket-home panel
 
