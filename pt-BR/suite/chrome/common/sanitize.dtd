@@ -23,9 +23,11 @@
 
 <!--  LOCALIZATION NOTE (sanitizeSelectedWarning): Warning that appears
       when not all items are selected in the in Clear Private data dialog. -->
+<!ENTITY sanitizeSelectedWarning          "Todos os itens selecionados serão limpos.">
 
 <!-- LOCALIZATION NOTE (sanitizeUndoWarning): Second warning
      paragraph that always appears. -->
+<!ENTITY sanitizeUndoWarning              "Essa ação não pode ser desfeita.">
 
 <!ENTITY sanitizeItems.label              "Limpar agora os seguintes itens:">
 
@@ -62,3 +64,6 @@
 <!ENTITY itemSessionsS.accesskey          "u">
 
 <!ENTITY sanitizeButton.label            "Limpar dados pessoais agora">
+<!ENTITY itemSitePreferences.label        "Preferências de sites">
+<!ENTITY itemSitePreferences.accesskey    "P">
+<!ENTITY itemSitePreferencesS.accesskey   "t">
