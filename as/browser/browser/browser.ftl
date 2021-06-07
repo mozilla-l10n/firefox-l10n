@@ -434,6 +434,7 @@ popup-mute-notifications-checkbox = ভাগ-বতৰা কৰাৰ সম�
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-window = আপুনি { -brand-short-name } ভাগ-বতৰা কৰি আছে। আপুনি নতুন টেবলৈ সলনি কৰোঁতে অন্য লোকে চাব পাৰে।
 sharing-warning-proceed-to-tab =
     .label = টেবলৈ আগবাঢ়ক
 
@@ -565,6 +566,9 @@ library-bookmarks-menu =
 save-to-pocket-button =
     .label = { -pocket-brand-name }-ত সাঁচি থওক
     .tooltiptext = { -pocket-brand-name }-ত সাঁচি থওক
+
+## Repair text encoding toolbar button
+
 
 ## Customize Toolbar Buttons
 
