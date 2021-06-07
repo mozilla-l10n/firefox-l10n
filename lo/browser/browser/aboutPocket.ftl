@@ -35,6 +35,7 @@ pocket-panel-signup-signup-email = ລົງທະບຽນດ້ວຍອີເ
 pocket-panel-signup-signup-cta = ລົງທະບຽນນໍາໃຊ້ { -pocket-brand-name } ຟຣີ
 pocket-panel-signup-signup-firefox = ລົງທະບຽນດ້ວຍ { -brand-product-name }
 pocket-panel-signup-tagline = ບັນທືກບົດຄວາມ ແລະ ວີດີໂອຈາກ { -brand-product-name } ເພື່ອເບີ່ງໃນ { -pocket-brand-name } ເທີງອຼປະກອນຕ່າງໆ ທຼກເວລາ
+pocket-panel-signup-tagline-story-one = ຄິກປຸ່ມ { -pocket-brand-name } ເພື່ອບັນທຶກກະທູ້, ວີດີໂອ ຫຼຶ ໜ້າອື່ນໆຈາກ { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = ເບີ່ງໃນ { -pocket-brand-name } ເທີງອຸປະກອນຕ່າງໆ ທຸກເວລາ
 
 ## about:pocket-home panel
