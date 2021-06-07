@@ -15,6 +15,7 @@ pocket-panel-saved-error-generic = Der is in flater bard by it bewarjen nei { -p
 pocket-panel-saved-error-tag-length = Labels binne beheint ta 25 tekens
 pocket-panel-saved-error-only-links = Allinnich keppelingen kinne bewarre wurde
 pocket-panel-saved-error-not-saved = Side net bewarre
+pocket-panel-saved-error-no-internet = Jo moatte mei it ynternet ferbûn wêze om nei { -pocket-brand-name } bewarje te kinnen. Kontrolearje jo ferbining en probearje it opnij.
 pocket-panel-saved-page-removed = Side fuortsmiten
 pocket-panel-saved-page-saved = Bewarre nei { -pocket-brand-name }
 pocket-panel-saved-processing-remove = Side fuortsmite…
