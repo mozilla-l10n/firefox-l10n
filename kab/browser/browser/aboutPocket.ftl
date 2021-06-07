@@ -40,3 +40,8 @@ pocket-panel-signup-tagline-story-two = Sken di { -pocket-brand-name } ɣef yal 
 
 ## about:pocket-home panel
 
+pocket-panel-home-my-list = Tabdart-inu
+pocket-panel-home-welcome-back = Ansuf ar tuɣalin
+pocket-panel-home-explore-popular-topics = Snirem isental yettwassnen
+pocket-panel-home-discover-more = Issin ugar
+pocket-panel-home-explore-more = Snirem
