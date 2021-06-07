@@ -37,3 +37,5 @@ openpgp-enc-key-with-subkey-id = ID de clave de decryptation: { $key } (ID de su
 openpgp-unknown-key-id = Clave incognite
 openpgp-other-enc-additional-key-ids = In addition, le message ha essite cryptate pro le proprietarios del sequente claves:
 openpgp-other-enc-all-key-ids = Le message ha essite cryptate pro le proprietarios del sequente claves:
+openpgp-message-header-signed-verified-icon =
+    .alt = Firma verificate
