@@ -47,6 +47,12 @@ toolbar-undelete-button =
     .label = Ångra ta bort
     .tooltiptext = Ångra borttagning av valda meddelanden
 
+## View
+
+menu-view-repair-text-encoding =
+    .label = Reparera textkodning
+    .accesskey = k
+
 ## View / Layout
 
 mail-uidensity-label =
