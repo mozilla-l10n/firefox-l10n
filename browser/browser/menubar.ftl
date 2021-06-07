@@ -174,7 +174,7 @@ menu-view-charset =
     .label = Кодування символів
     .accesskey = К
 menu-view-repair-text-encoding =
-    .label = Відновити кодування тексту
+    .label = Виправити кодування тексту
     .accesskey = к
 
 ## These should match what Safari and other Apple applications
