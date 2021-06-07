@@ -40,3 +40,9 @@ pocket-panel-signup-tagline-story-two = Katsele { -pocket-brand-name }-palveluss
 
 ## about:pocket-home panel
 
+pocket-panel-home-my-list = Oma lista
+pocket-panel-home-welcome-back = Tervetuloa takaisin
+pocket-panel-home-paragraph = Voit käyttää { -pocket-brand-name }ia selataksesi ja tallentaaksesi verkkosivuja, artikkeleja, videoita, podcasteja tai palata aiemmin lukemaasi asiaan.
+pocket-panel-home-explore-popular-topics = Selaa suosittuja aiheita
+pocket-panel-home-discover-more = Löydä lisää
+pocket-panel-home-explore-more = Selaa
