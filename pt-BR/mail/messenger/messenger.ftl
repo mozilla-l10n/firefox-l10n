@@ -110,6 +110,7 @@ addon-removal-title = Remover { $name }?
 addon-removal-confirmation-button = Remover
 addon-removal-confirmation-message = Remover { $name } junto com suas configurações e dados do { -brand-short-name }?
 caret-browsing-prompt-title = Navegação com cursor do teclado
+caret-browsing-prompt-text = A tecla F7 ativa ou desativa a navegação com cursor do teclado. Este recurso coloca um cursor móvel em alguns conteúdos, permitindo selecionar texto usando o teclado. Quer ativar a navegação com cursor do teclado?
 caret-browsing-prompt-check-text = Não perguntar novamente.
 repair-text-encoding-button =
     .label = Reparar codificação de texto

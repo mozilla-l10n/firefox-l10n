@@ -39,6 +39,8 @@ openpgp-other-enc-additional-key-ids = Além disso, a mensagem foi criptografada
 openpgp-other-enc-all-key-ids = A mensagem foi criptografada para os proprietários das seguintes chaves:
 openpgp-message-header-encrypted-ok-icon =
     .alt = Descriptografia bem-sucedida
+openpgp-message-header-encrypted-notok-icon =
+    .alt = Falha na descriptografia
 openpgp-message-header-signed-ok-icon =
     .alt = Assinatura boa
 # Mismatch icon is used for notok state as well
