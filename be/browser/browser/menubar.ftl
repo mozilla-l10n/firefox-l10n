@@ -173,6 +173,9 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = Кадаванне тэксту
     .accesskey = к
+menu-view-repair-text-encoding =
+    .label = Выправіць кадаванне тэксту
+    .accesskey = В
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -254,15 +257,15 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Увайсці ў { -brand-product-name }…
     .accesskey = і
+menu-tools-turn-on-sync =
+    .label = Уключыць { -sync-brand-short-name }…
+    .accesskey = ь
 menu-tools-addons-and-themes =
     .label = Дадаткі і тэмы
     .accesskey = Д
 menu-tools-fxa-sign-in2 =
     .label = Увайсці
     .accesskey = У
-menu-tools-turn-on-sync =
-    .label = Уключыць { -sync-brand-short-name }…
-    .accesskey = ь
 menu-tools-turn-on-sync2 =
     .label = Уключыць сінхранізацыю…
     .accesskey = і
@@ -287,13 +290,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Звесткі пра старонку
     .accesskey = З
-menu-settings =
-    .label = Налады
-    .accesskey =
-        { PLATFORM() ->
-            [windows] ы
-           *[other] д
-        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -304,6 +300,13 @@ menu-preferences =
         { PLATFORM() ->
             [windows] Н
            *[other] л
+        }
+menu-settings =
+    .label = Налады
+    .accesskey =
+        { PLATFORM() ->
+            [windows] ы
+           *[other] д
         }
 menu-tools-layout-debugger =
     .label = Адладчык макета
@@ -342,14 +345,12 @@ menu-help-import-from-another-browser =
 menu-help-keyboard-shortcuts =
     .label = Спалучэнні клавіш
     .accesskey = К
-menu-get-help =
-    .label = Атрымаць дапамогу
-    .accesskey = р
 menu-help-troubleshooting-info =
     .label = Звесткі для вырашэння праблемаў
     .accesskey = З
-menu-help-taskmanager =
-    .label = Менеджар задач
+menu-get-help =
+    .label = Атрымаць дапамогу
+    .accesskey = р
 menu-help-more-troubleshooting-info =
     .label = Звесткі для вырашэння праблемаў
     .accesskey = е
