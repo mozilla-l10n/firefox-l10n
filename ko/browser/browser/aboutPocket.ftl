@@ -16,11 +16,13 @@ pocket-panel-saved-error-tag-length = 태그의 최대 길이는 25자입니다
 pocket-panel-saved-error-only-links = 링크만 저장할 수 있습니다
 pocket-panel-saved-error-not-saved = 페이지를 저장하지 못했음
 pocket-panel-saved-page-removed = 페이지가 삭제됨
+pocket-panel-saved-page-saved = { -pocket-brand-name }에 저장됨
 pocket-panel-saved-processing-remove = 페이지를 삭제하는 중…
 pocket-panel-saved-processing-tags = 페이지를 추가하는 중…
 pocket-panel-saved-remove-page = 페이지 삭제
 pocket-panel-saved-save-tags = 저장
 pocket-panel-saved-saving-tags = 저장 중…
+pocket-panel-saved-suggested-tags = 추천 태그
 pocket-panel-saved-tags-saved = 태그를 추가함
 pocket-panel-signup-view-list = 목록 보기
 
@@ -38,3 +40,9 @@ pocket-panel-signup-tagline-story-two = 모든 기기에서 아무 때나 { -poc
 
 ## about:pocket-home panel
 
+pocket-panel-home-my-list = 내 목록
+pocket-panel-home-welcome-back = 환영합니다
+pocket-panel-home-paragraph = { -pocket-brand-name }을 사용하여 웹 페이지, 기사, 동영상, 팟캐스트를 탐색 및 저장하거나 읽은 내용으로 돌아갈 수 있습니다.
+pocket-panel-home-explore-popular-topics = 인기 주제 탐색
+pocket-panel-home-discover-more = 더 발견하기
+pocket-panel-home-explore-more = 탐색하기
