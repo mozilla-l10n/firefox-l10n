@@ -40,4 +40,9 @@ pocket-panel-signup-tagline-story-two = Oglejte si v { -pocket-brand-name }u na 
 
 ## about:pocket-home panel
 
+pocket-panel-home-my-list = Moj seznam
+pocket-panel-home-welcome-back = Dobrodošli nazaj
 pocket-panel-home-paragraph = { -pocket-brand-name } lahko uporabljate za raziskovanje in shranjevanje spletnih strani, člankov, videoposnetkov in poddaj ali za vračanje na vsebine, ki ste jih brali.
+pocket-panel-home-explore-popular-topics = Razišči pogoste teme
+pocket-panel-home-discover-more = Odkrijte več
+pocket-panel-home-explore-more = Razišči
