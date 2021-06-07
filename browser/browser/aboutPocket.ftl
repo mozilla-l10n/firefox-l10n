@@ -15,6 +15,7 @@ pocket-panel-saved-error-generic = 오류가 발생해 { -pocket-brand-name }에
 pocket-panel-saved-error-tag-length = 태그의 최대 길이는 25자입니다
 pocket-panel-saved-error-only-links = 링크만 저장할 수 있습니다
 pocket-panel-saved-error-not-saved = 페이지를 저장하지 못했음
+pocket-panel-saved-error-no-internet = { -pocket-brand-name }에 저장하려면 인터넷에 연결되어 있어야 합니다. 인터넷에 연결하고 다시 시도하세요.
 pocket-panel-saved-page-removed = 페이지가 삭제됨
 pocket-panel-saved-page-saved = { -pocket-brand-name }에 저장됨
 pocket-panel-saved-processing-remove = 페이지를 삭제하는 중…
