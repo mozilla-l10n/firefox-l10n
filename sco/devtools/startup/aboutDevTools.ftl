@@ -18,7 +18,7 @@ newsletter-title = Mozilla Developer Newsletter
 newsletter-message = Get forderer news, tricks and resources sent richt tae yer inbox.
 newsletter-email-placeholder =
     .placeholder = Email
-newsletter-privacy-label = I'm awricht wi Mozilla haunlin ma info as set oot in this <a data-l10n-name="privacy-policy">Preevacy Policy</a>.
+newsletter-privacy-label = I'm awricht wi Mozilla haunlin ma info as set oot in this <a data-l10n-name="privacy-policy">Privacy Policy</a>.
 newsletter-subscribe-button = Subscribe
 newsletter-thanks-title = Cheers!
 newsletter-thanks-message = Gin ye hivnae confirmed a subscription tae a Mozilla-relatit newsletter afore, ye micht hae tae dae sae. Please check yer inbox or yer spam filter fur an email fae us.

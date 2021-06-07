@@ -92,20 +92,20 @@ detail-update-manual =
     .label = Aff
     .tooltiptext = Dinnae automatically instaw updates
 # Used as a description for the option to allow or block an add-on in private windows.
-detail-private-browsing-label = Rin in Preevat Windaes
+detail-private-browsing-label = Rin in Private Windaes
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
-detail-private-disallowed-label = No Allooed in Preevat Windaes
-detail-private-disallowed-description2 = This extension disnae rin while preevat stravaigin. <a data-l10n-name="learn-more">Lairn mair</a>
+detail-private-disallowed-label = No Allooed in Private Windaes
+detail-private-disallowed-description2 = This extension disnae rin while private stravaigin. <a data-l10n-name="learn-more">Lairn mair</a>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
-detail-private-required-label = Needs Ingang tae Preevat Windaes
-detail-private-required-description2 = This extension has ingang tae your online ongauns while preevat stravaigin. <a data-l10n-name="learn-more">Lairn mair</a>
+detail-private-required-label = Needs Ingang tae Private Windaes
+detail-private-required-description2 = This extension has ingang tae your online ongauns while private stravaigin. <a data-l10n-name="learn-more">Lairn mair</a>
 detail-private-browsing-on =
     .label = Alloo
-    .tooltiptext = Enable in Preevat Stravaigin
+    .tooltiptext = Enable in Private Stravaigin
 detail-private-browsing-off =
     .label = Dinnae Alloo
-    .tooltiptext = Disable in Preevat Stravaigin
+    .tooltiptext = Disable in Private Stravaigin
 detail-home =
     .label = Hamepage
 detail-home-value =
@@ -153,10 +153,10 @@ legacy-extensions =
     .value = Bygane Extensions
 legacy-extensions-description = These extensions dinnae meet current { -brand-short-name } staunarts sae they've been deactivatit. <label data-l10n-name="legacy-learn-more">Lairn aboot the chynges tae eik-ons</label>
 private-browsing-description2 =
-    { -brand-short-name } is chyngin how extensions wirk in preevat stravaigin. Onie new extensions ye eik on tae
-    { -brand-short-name } willnae rin as staunart in Preevat Windaes. Unless ye alloo it in settins, the
+    { -brand-short-name } is chyngin how extensions wirk in private stravaigin. Onie new extensions ye eik on tae
+    { -brand-short-name } willnae rin as staunart in Private Windaes. Unless ye alloo it in settins, the
     extension willnae wirk while preevat stravaigin, and willnae hae ingang tae yer online ongauns
-    there. We’ve makkit this chynge fur tae keep yer preevat stravaigin preevat.
+    there. We’ve makkit this chynge fur tae keep yer private stravaigin private.
     <label data-l10n-name="private-browsing-learn-more">Learn how to manage extension settings</label>
 addon-category-discover = Recommendations
 addon-category-discover-title =
@@ -284,7 +284,7 @@ discopane-notice-recommendations =
     Some o these recommendations are personalised. They're based on ither
     extensions ye’ve instawed, profile preferences, and statistics o yaise.
 discopane-notice-learn-more = Lairn mair
-privacy-policy = Preevacy Policy
+privacy-policy = Privacy Policy
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
 #   $author (string) - The name of the add-on developer.
@@ -378,9 +378,9 @@ install-update-button = Update
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = Allooed in preevat windaes
+    .title = Allooed in private windaes
     .aria-label = { addon-badge-private-browsing-allowed2.title }
-addon-detail-private-browsing-help = When allooed, the extension will hae ingang tae yer online ongauns while preevat stravaigin. <a data-l10n-name="learn-more">Lairn mair</a>
+addon-detail-private-browsing-help = When allooed, the extension will hae ingang tae yer online ongauns while private stravaigin. <a data-l10n-name="learn-more">Lairn mair</a>
 addon-detail-private-browsing-allow = Alloo
 addon-detail-private-browsing-disallow = Dinnae Alloo
 

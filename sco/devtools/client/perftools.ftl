@@ -33,7 +33,7 @@ perftools-devtools-settings-label = Settins
 ##
 
 perftools-button-restart = Restert
-perftools-button-edit-settings = Edit Settins...
+perftools-button-edit-settings = Edit Settins…
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 

@@ -132,7 +132,7 @@ pkcs12-unknown-err-restore = Couldnae restore the PKCS #12 file for unkent reaso
 pkcs12-unknown-err-backup = Couldnae mak the PKCS #12 backup file for unkent reasons.
 pkcs12-unknown-err = The PKCS #12 operation didnae wirk for unkent reasons.
 pkcs12-info-no-smartcard-backup = It isnae possible tae back up certificates fae a haurdware siccarness device sic as a smairt caird.
-pkcs12-dup-data = The certificate and preevat key awready exist on the siccarness device.
+pkcs12-dup-data = The certificate and private key awready exist on the siccarness device.
 
 ## PKCS#12 file dialogs
 

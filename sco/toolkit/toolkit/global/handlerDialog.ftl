@@ -58,4 +58,4 @@ choose-app-btn =
     .accessKey = W
 choose-other-app-window-title = Anither Application…
 # Displayed under the name of a protocol handler in the Launch Application dialog.
-choose-dialog-privatebrowsing-disabled = Disabled in Preevat Windaes
+choose-dialog-privatebrowsing-disabled = Disabled in Private Windaes

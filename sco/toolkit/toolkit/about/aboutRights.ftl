@@ -29,8 +29,8 @@ rights-intro-point-4 =
     How we yaise yer personal information and feedback submittit tae
     { -vendor-short-name } through { -brand-short-name } is set oot in the
     <a data-l10n-name="mozilla-privacy-policy-link">{ -brand-short-name }
-    Preevacy Policy</a>.
-rights-intro-point-4-unbranded = Onie applicable preevacy policies fur this product should be listit here.
+    Privacy Policy</a>.
+rights-intro-point-4-unbranded = Onie applicable privacy policies fur this product should be listit here.
 rights-intro-point-5 =
     Some { -brand-short-name } featurs mak yaise o wab-based information
     services, houanivver, we cannae guarantee they're 100% accurate or
