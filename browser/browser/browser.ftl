@@ -674,8 +674,8 @@ save-to-pocket-button =
 ## Repair text encoding toolbar button
 
 repair-text-encoding-button =
-    .label = 修复文本编码
-    .tooltiptext = 根据页面内容猜测正确的文本编码
+    .label = 修复文字编码
+    .tooltiptext = 根据页面内容猜测正确的文字编码
 
 ## Customize Toolbar Buttons
 
