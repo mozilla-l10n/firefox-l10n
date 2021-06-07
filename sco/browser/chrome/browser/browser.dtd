@@ -133,7 +133,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY webDeveloperMenu.label       "Wab Forderer">
 
 <!ENTITY newNavigatorCmd.label        "New Windae">
-<!ENTITY newPrivateWindow.label     "New Preevat Windae">
+<!ENTITY newPrivateWindow.label     "New Private Windae">
 
 <!ENTITY editMenu.label         "Edit">
 <!ENTITY preferencesCmd2.label       "Options">

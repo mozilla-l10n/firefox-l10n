@@ -29,15 +29,15 @@ onboarding-welcome-header = Walcome tae { -brand-short-name }
 onboarding-welcome-body = Ye've got the wab-stravaiger.<br/>Noo meet the lave o { -brand-product-name }.
 onboarding-welcome-learn-more = Lairn mair aboot the advantages.
 onboarding-welcome-modal-get-body = Ye've got the wab-stravaiger.<br/>Noo get the maist oot o { -brand-product-name }.
-onboarding-welcome-modal-supercharge-body = Mak yer preevacy bieldin stang o the trump.
-onboarding-welcome-modal-privacy-body = Ye've got the wab-stravaiger. Noo lat's add mair preevacy bieldin.
+onboarding-welcome-modal-supercharge-body = Mak yer privacy bieldin stang o the trump.
+onboarding-welcome-modal-privacy-body = Ye've got the wab-stravaiger. Noo lat's add mair privacy bieldin.
 onboarding-welcome-modal-family-learn-more = Lairn aboot the { -brand-product-name } faimily o products.
 onboarding-welcome-form-header = Stert Here
 onboarding-join-form-body = Inpit yer email address fur tae get stertit.
 onboarding-join-form-email =
     .placeholder = Inpit email
 onboarding-join-form-email-error = Suithfest email needit
-onboarding-join-form-legal = By haudin forrit, ye're agreein tae the <a data-l10n-name="terms">Terms o Service</a> and <a data-l10n-name="privacy">Preevacy Notice</a>.
+onboarding-join-form-legal = By haudin forrit, ye're agreein tae the <a data-l10n-name="terms">Terms o Service</a> and <a data-l10n-name="privacy">Privacy Notice</a>.
 onboarding-join-form-continue = Haud Forrit
 # This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
 onboarding-join-form-signin-label = Awready hae an accoont?
@@ -72,7 +72,7 @@ onboarding-sync-form-sub-header = fur tae haud forrit tae { -sync-brand-name }
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
-onboarding-benefit-products-text = Get the job duin wi a faimily o tools that taks tent o yer preevacy across yer devices.
+onboarding-benefit-products-text = Get the job duin wi a faimily o tools that taks tent o yer privacy across yer devices.
 # "Personal Data Promise" is a concept that should be translated consistently
 # across the product. It refers to a concept shown elsewhere to the user: "The
 # Firefox Personal Data Promise is the way we honor your data in everything we
@@ -103,10 +103,10 @@ onboarding-data-sync-button2 = Sign in tae { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Stey Tentie tae Data Breaches
 onboarding-firefox-monitor-text2 = { -monitor-brand-name } keeps a watch oot fur if yer email has kythed itsel in a kent data breach and lats ye ken gin it kythes itsel in a new breach.
 onboarding-firefox-monitor-button = Sign Up for Alerts
-onboarding-browse-privately-title = Stravaig in Preevat
-onboarding-browse-privately-text = Preevat Stravaigin dichts yer sairch and stravaigin historie tae keep it secret fae oniebodie that yaises yer computer.
-onboarding-browse-privately-button = Open a Preevat Windae
-onboarding-firefox-send-title = Keep Yer Shared Files Preevat
+onboarding-browse-privately-title = Stravaig in Private
+onboarding-browse-privately-text = Private Stravaigin dichts yer sairch and stravaigin historie tae keep it secret fae oniebodie that yaises yer computer.
+onboarding-browse-privately-button = Open a Private Windae
+onboarding-firefox-send-title = Keep Yer Shared Files Private
 onboarding-firefox-send-text2 = Upload yer files tae { -send-brand-name } tae share them wi end-tae-end encryption and a link that automatically expires.
 onboarding-firefox-send-button = Try { -send-brand-name }
 onboarding-mobile-phone-title = Get { -brand-product-name } on Yer Phone
@@ -131,7 +131,7 @@ onboarding-facebook-container-button = Eik On the Extension
 onboarding-import-browser-settings-title = Inbring Yer Buikmerks, Passwirds, and Mair
 onboarding-import-browser-settings-text = Get fired in—bring yer Chrome sites and settins wi ye, nae fash.
 onboarding-import-browser-settings-button = Inbring Chrome Data
-onboarding-personal-data-promise-title = Shapit for Preevacy
+onboarding-personal-data-promise-title = Shapit for Privacy
 onboarding-personal-data-promise-text = { -brand-product-name } haunles yer data wi tent by takkin no sae muckle o it, and bein suithfest aboot whit we dae wi it.
 onboarding-personal-data-promise-button = Read oor Promise
 
@@ -162,20 +162,20 @@ return-to-amo-add-extension-label = Eik On the Extension
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. { -brand-short-name } should stay inside the span.
 onboarding-multistage-welcome-header = Walcome tae <span data-l10n-name="zap">{ -brand-short-name }</span>
-onboarding-multistage-welcome-subtitle = The fast, siccar, and preevat wab-stravaiger that's uphaudit by a non-profit.
+onboarding-multistage-welcome-subtitle = The fast, siccar, and private wab-stravaiger that's uphaudit by a non-profit.
 onboarding-multistage-welcome-primary-button-label = Stert Setup
 onboarding-multistage-welcome-secondary-button-label = Sign in
 onboarding-multistage-welcome-secondary-button-text = Got an accoont?
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "default" should stay inside the span.
 onboarding-multistage-set-default-header = Mak { -brand-short-name } yer <span data-l10n-name="zap">staunart</span>
-onboarding-multistage-set-default-subtitle = Speed, siccarness and preevacy ilka time ye stravaig.
+onboarding-multistage-set-default-subtitle = Speed, siccarness and privacy ilka time ye stravaig.
 onboarding-multistage-set-default-primary-button-label = Mak Staunart
 onboarding-multistage-set-default-secondary-button-label = No jist noo
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. { -brand-short-name } should stay inside the span.
 onboarding-multistage-pin-default-header = Stert by makkin <span data-l10n-name="zap">{ -brand-short-name }</span> anely a click awa
-onboarding-multistage-pin-default-subtitle = Fast, siccar, and preevat stravaigin ilka time ye yaise the wab.
+onboarding-multistage-pin-default-subtitle = Fast, siccar, and private stravaigin ilka time ye yaise the wab.
 # The "settings" here refers to "Windows 10 Settings App" and not the browser's
 onboarding-multistage-pin-default-waiting-subtitle = Wale { -brand-short-name } unner Wab-stravaiger when yer settins come up
 # The "settings" here refers to "Windows 10 Settings App" and not the browser's
@@ -308,7 +308,7 @@ mr1-onboarding-sign-in-button-label = Sign in
 ## when Firefox is not default browser
 
 mr1-onboarding-default-header = Mak { -brand-short-name } yer staunart
-mr1-onboarding-default-subtitle = Pit speed, siccarness, and preevacy on autopilot.
+mr1-onboarding-default-subtitle = Pit speed, siccarness, and privacy on autopilot.
 mr1-onboarding-default-primary-button-label = Mak staunart wab-stravaiger
 
 ## Multistage MR1 onboarding strings (about:welcome pages)

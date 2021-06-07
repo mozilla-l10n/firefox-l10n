@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 # The question portion of the following message should have the <strong> and </strong> tags surrounding it.
-default-browser-notification-message = <strong>Set { -brand-short-name } as yer staunart wab-stravaiger?</strong> Get fast, sauf, and preevat stravaigin whenever ye yaise the wab.
+default-browser-notification-message = <strong>Set { -brand-short-name } as yer staunart wab-stravaiger?</strong> Get fast, sauf, and private stravaigin whenever ye yaise the wab.
 default-browser-notification-button =
     .label = Set as staunart
     .accesskey = S
@@ -17,7 +17,7 @@ default-browser-prompt-message-pin = Keep { -brand-short-name } at haun — mak 
 default-browser-prompt-message-pin-mac = Keep { -brand-short-name } at haun — mak it yer staunart wab-stravaiger and keep it in yer Dock.
 default-browser-prompt-button-primary-pin = Mak main wab-stravaiger
 default-browser-prompt-title-alt = Mak { -brand-short-name } yer staunart wab-stravaiger?
-default-browser-prompt-message-alt = Get speed, siccarness and preevacy onie time ye stravaig.
+default-browser-prompt-message-alt = Get speed, siccarness and privacy onie time ye stravaig.
 default-browser-prompt-button-primary-alt = Set as staunart wab-stravaiger
 default-browser-prompt-checkbox-not-again-label = Dinnae kythe this message again
 default-browser-prompt-button-secondary = No jist noo

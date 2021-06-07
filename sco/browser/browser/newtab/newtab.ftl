@@ -104,7 +104,7 @@ newtab-menu-topsites-placeholder-tooltip =
 
 newtab-menu-edit-topsites = Edit
 newtab-menu-open-new-window = Open in a New Windae
-newtab-menu-open-new-private-window = Open in a New Preevat Windae
+newtab-menu-open-new-private-window = Open in a New Private Windae
 newtab-menu-dismiss = Dismiss
 newtab-menu-pin = Peen
 newtab-menu-unpin = Remuive Peen
@@ -112,19 +112,19 @@ newtab-menu-delete-history = Dicht fae Historie
 newtab-menu-save-to-pocket = Save tae { -pocket-brand-name }
 newtab-menu-delete-pocket = Dicht fae { -pocket-brand-name }
 newtab-menu-archive-pocket = Archive in { -pocket-brand-name }
-newtab-menu-show-privacy-info = Oor sponsors & yer preevacy
+newtab-menu-show-privacy-info = Oor sponsors & yer privacy
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = Duin
 newtab-privacy-modal-button-manage = Manage sponsored content settins
-newtab-privacy-modal-header = Yer preevacy maitters.
+newtab-privacy-modal-header = Yer privacy maitters.
 newtab-privacy-modal-paragraph-2 =
     Forby dishin oot the maist by-ordinar stories, we can shaw ye relevant,
     tentily checked-oot content fae selectit sponsors. Dinnae fash, <strong>yer stravaigin
     data nivver leaves yer ain copy o { -brand-product-name }</strong> — we dinnae see it, and oor
     sponsors dinnae either.
-newtab-privacy-modal-link = Lairn how preevacy wirks on the new tab
+newtab-privacy-modal-link = Lairn how privacy wirks on the new tab
 
 ##
 
@@ -182,7 +182,7 @@ newtab-section-menu-add-topsite = Eik On Tap Site
 newtab-section-menu-add-search-engine = Eik On Airt-oot Engine
 newtab-section-menu-move-up = Shift Up
 newtab-section-menu-move-down = Shift Doon
-newtab-section-menu-privacy-notice = Preevacy Notice
+newtab-section-menu-privacy-notice = Privacy Notice
 
 ## Section aria-labels
 

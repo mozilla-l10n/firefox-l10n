@@ -25,10 +25,10 @@ graph-week-summary-private-window = Trackers { -brand-short-name } blockit this 
 protection-report-webpage-title = Bieldins Dashbuird
 protection-report-page-content-title = Bieldins Dashbuird
 # This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
-protection-report-page-summary = { -brand-short-name } can bield yer preevacy ahint the scenes while ye stravaig. This is a personalised summary o thon bieldins, includin tools fur tae tak control o yer online siccarness.
+protection-report-page-summary = { -brand-short-name } can bield yer privacy ahint the scenes while ye stravaig. This is a personalised summary o thon bieldins, includin tools fur tae tak control o yer online siccarness.
 # This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
-protection-report-page-summary-default = { -brand-short-name } bields yer preevacy ahint the scenes while ye stravaig. This is a personalised summary o thon bieldins, includin tools fur tae tak control o yer online siccarness.
-protection-report-settings-link = Manage your preevacy and siccarness settins
+protection-report-page-summary-default = { -brand-short-name } bields yer privacy ahint the scenes while ye stravaig. This is a personalised summary o thon bieldins, includin tools fur tae tak control o yer online siccarness.
+protection-report-settings-link = Manage your privacy and siccarness settins
 etp-card-title-always = Augmentit Trackin Bieldin: Ayeweys On
 etp-card-title-custom-not-blocking = Augmentit Trackin Bieldin: AFF
 etp-card-content-description = { -brand-short-name } automatically hinders companies fae sleekitly follaein ye aroond the wab.

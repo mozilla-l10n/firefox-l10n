@@ -32,7 +32,7 @@ community-2 = { -brand-short-name } is designt by <label data-l10n-name="communi
 helpus = Want tae help? <label data-l10n-name="helpus-donateLink">Mak a contreebution</label> or <label data-l10n-name="helpus-getInvolvedLink">get involved!</label>
 bottomLinks-license = Licensin Information
 bottomLinks-rights = End-Yaiser Richts
-bottomLinks-privacy = Preevacy Policy
+bottomLinks-privacy = Privacy Policy
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1

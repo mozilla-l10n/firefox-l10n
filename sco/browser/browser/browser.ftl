@@ -16,9 +16,9 @@
 #  $content-title (String): the title of the web content.
 browser-main-window =
     .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } (Preevat Stravaigin)
+    .data-title-private = { -brand-full-name } (Private Stravaigin)
     .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — { -brand-full-name } (Preevat Stravaigin)
+    .data-content-title-private = { $content-title } — { -brand-full-name } (Private Stravaigin)
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -35,9 +35,9 @@ browser-main-window =
 #  $content-title (String): the title of the web content.
 browser-main-window-mac =
     .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — (Preevat Stravaigin)
+    .data-title-private = { -brand-full-name } — (Private Stravaigin)
     .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } — (Preevat Stravaigin)
+    .data-content-title-private = { $content-title } — (Private Stravaigin)
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -237,7 +237,7 @@ search-one-offs-context-set-as-default =
     .label = Set as Staunart Airt-oot Engine
     .accesskey = S
 search-one-offs-context-set-as-default-private =
-    .label = Set as Staunart Airt-oot Engine fur Preevat Windaes
+    .label = Set as Staunart Airt-oot Engine fur Private Windaes
     .accesskey = S
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
@@ -349,15 +349,15 @@ identity-description-custom-root = Mozilla disnae ken this certificate issuer. I
 identity-remove-cert-exception =
     .label = Remuive Exception
     .accesskey = R
-identity-description-insecure = Yer connection tae this site isnae preevat. Information ye inpit micht be seen by ithers (likesay, passwirds, messages, credit cairds, etc.).
+identity-description-insecure = Yer connection tae this site isnae privat. Information ye inpit micht be seen by ithers (likesay, passwirds, messages, credit cairds, etc.).
 identity-description-insecure-login-forms = The login information ye inpit on this page isnae siccar and micht be compromised.
-identity-description-weak-cipher-intro = Yer connection tae this wabsite isnae preevat and yaises stintit encryption.
+identity-description-weak-cipher-intro = Yer connection tae this wabsite isnae private and yaises stintit encryption.
 identity-description-weak-cipher-risk = Ither fowk can see yer information or chynge the wabsite's behaviour.
 identity-description-active-blocked = { -brand-short-name } has blockit pairts o this page that arenae siccar. <label data-l10n-name="link">Lairn Mair</label>
-identity-description-passive-loaded = Yer connection isnae preevat and information ye share wi the site micht be seen by ithers.
+identity-description-passive-loaded = Yer connection isnae private and information ye share wi the site micht be seen by ithers.
 identity-description-passive-loaded-insecure = This wabsite haud content that isnae siccar (sic as images). <label data-l10n-name="link">Lairn Mair</label>
 identity-description-passive-loaded-mixed = Although { -brand-short-name } has blockit some content, there is aye content on the page that isnae siccar (sic as images). <label data-l10n-name="link">Lairn Mair</label>
-identity-description-active-loaded = This wabsite hauds content that isnae siccar (sic as scripts) and yer connection tae it isnae preevat.
+identity-description-active-loaded = This wabsite hauds content that isnae siccar (sic as scripts) and yer connection tae it isnae private.
 identity-description-active-loaded-insecure = Information ye share wi this site micht be seen by ithers (likesay, passwirds, messages, credit cairds, etc.).
 identity-learn-more =
     .value = Lairn Mair
@@ -536,9 +536,9 @@ urlbar-pocket-button =
 # "Search", and we would like to avoid strings like "Search MSN Search".
 # Variables
 #  $engine (String): the name of a search engine
-urlbar-result-action-search-in-private-w-engine = Sairch wi { $engine } in a Preevat Windae
+urlbar-result-action-search-in-private-w-engine = Sairch wi { $engine } in a Private Windae
 # Used when the private browsing engine is the same as the default engine.
-urlbar-result-action-search-in-private = Sairch in a Preevat Windae
+urlbar-result-action-search-in-private = Sairch in a Private Windae
 # The "with" format was chosen because the search engine name can end with
 # "Search", and we would like to avoid strings like "Search MSN Search".
 # Variables

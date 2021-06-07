@@ -52,7 +52,7 @@ category-home =
 pane-search-title = Sairch
 category-search =
     .tooltiptext = { pane-search-title }
-pane-privacy-title = Preevacy & Siccarness
+pane-privacy-title = Privacy & Siccarness
 category-privacy =
     .tooltiptext = { pane-privacy-title }
 pane-sync-title2 = { -sync-brand-short-name }
@@ -589,9 +589,9 @@ search-bar-shown =
     .label = Eik on sairch baur in toolbaur
 search-engine-default-header = Staunart Airt-oot Engine
 search-engine-default-desc-2 = This is yer staunart airt-oot engine in the address baur and sairch baur. Ye can chynge it at onie time.
-search-engine-default-private-desc-2 = Wale anither staunart airt-oot engine fur Preevat Windaes anely
+search-engine-default-private-desc-2 = Wale anither staunart airt-oot engine fur Private Windaes anely
 search-separate-default-engine =
-    .label = Yaise this airt-oot engine in Preevate Windaes
+    .label = Yaise this airt-oot engine in Private Windaes
     .accesskey = Y
 search-suggestions-header = Airt-oot Suggestions
 search-suggestions-desc = Decide how suggestions fae airt-oot engines kythe.
@@ -609,7 +609,7 @@ search-show-suggestions-url-bar-option =
 search-show-suggestions-above-history-option =
     .label = Kythe airt-oot suggestions aheid o stravaigin historie in address baur results
 search-show-suggestions-private-windows =
-    .label = Kythe airt-oot suggestions in Preevat Windaes
+    .label = Kythe airt-oot suggestions in Private Windaes
 suggestions-addressbar-settings-generic = Chynge preferences for ither address baur suggestions
 suggestions-addressbar-settings-generic2 = Chynge settins for ither address baur suggestions
 search-suggestions-cant-show = Airt-oot suggestions willnae be kythed in location baur results acause ye've confeegurt { -brand-short-name } tae nivver mind o historie.
@@ -783,11 +783,11 @@ sync-engine-prefs =
             [windows] Options
            *[other] Preferences
         }
-    .tooltiptext = General, Preevacy, and Siccarness settins ye’ve chynged
+    .tooltiptext = General, Privacy, and Siccarness settins ye’ve chynged
     .accesskey = s
 sync-engine-settings =
     .label = Settins
-    .tooltiptext = General, Preevacy, and Siccarness settins ye’ve chynged
+    .tooltiptext = General, Privacy, and Siccarness settins ye’ve chynged
     .accesskey = s
 
 ## The device name controls.
@@ -806,7 +806,7 @@ sync-connect-another-device = Connect anither device
 
 ## Privacy Section
 
-privacy-header = Stravaiger Preevacy
+privacy-header = Stravaiger Privacy
 
 ## Privacy Section - Logins and Passwords
 
@@ -897,9 +897,9 @@ history-remember-option-never =
 history-remember-option-custom =
     .label = Yaise custom settins for historie
 history-remember-description = { -brand-short-name } will mind yer stravaigin, doonload, form and sairch historie.
-history-dontremember-description = { -brand-short-name } will yaise the same settins as preevat stravaigin, and willnae mind o onie historie as ye stravaig the Wab.
+history-dontremember-description = { -brand-short-name } will yaise the same settins as private stravaigin, and willnae mind o onie historie as ye stravaig the Wab.
 history-private-browsing-permanent =
-    .label = Ayeweys yaise preevat stravaigin mode
+    .label = Ayeweys yaise private stravaigin mode
     .accesskey = p
 history-remember-browser-option =
     .label = Mind o stravaigin and doonload historie
@@ -929,7 +929,7 @@ sitedata-learn-more = Lairn mair
 sitedata-delete-on-close =
     .label = Dicht cookies and site data when { -brand-short-name } is sneckit
     .accesskey = c
-sitedata-delete-on-close-private-browsing = In ayebidin preevat stravaigin mode, cookies and site date will ayeweys be dichtit when { -brand-short-name } is sneckit.
+sitedata-delete-on-close-private-browsing = In ayebidin private stravaigin mode, cookies and site date will ayeweys be dichtit when { -brand-short-name } is sneckit.
 sitedata-allow-cookies-option =
     .label = Accept cookies and site data
     .accesskey = A
@@ -1021,10 +1021,10 @@ content-blocking-etp-standard-desc = Eeksie-peeksie atween bieldin and performan
 content-blocking-etp-strict-desc = Mair bieldin, but micht gar some sites or content tae brek.
 content-blocking-etp-custom-desc = Wale whit trackers and scripts tae block.
 content-blocking-etp-blocking-desc = { -brand-short-name } blocks the follaein:
-content-blocking-private-windows = Trackin content in Preevat Windaes
+content-blocking-private-windows = Trackin content in Private Windaes
 content-blocking-cross-site-cookies-in-all-windows = Cross-site cookies in aw windaes (includes trackin cookies)
 content-blocking-cross-site-tracking-cookies = Cross-site trackin cookies
-content-blocking-all-cross-site-cookies-private-windows = Cross-site cookies in Preevat Windaes
+content-blocking-all-cross-site-cookies-private-windows = Cross-site cookies in Private Windaes
 content-blocking-cross-site-tracking-cookies-plus-isolate = Cross-site trackin cookies, and isolate onie ither cookies
 content-blocking-social-media-trackers = Social media trackers
 content-blocking-all-cookies = Aw cookies
@@ -1048,7 +1048,7 @@ content-blocking-tracking-protection-option-all-windows =
     .label = In aw windaes
     .accesskey = A
 content-blocking-option-private =
-    .label = Anely in Preevat Windaes
+    .label = Anely in Private Windaes
     .accesskey = p
 content-blocking-tracking-protection-change-block-list = Chynge block list
 content-blocking-cookies-label =
@@ -1124,7 +1124,7 @@ permissions-a11y-privacy-link = Lairn mair
 
 collection-header = { -brand-short-name } Data Collection and Yaise
 collection-description = We ettle tae gie ye chyces and tae gaither anely whit we need tae provide and tae forder { -brand-short-name } for awbodie. We ayeweys speir for permeesion afore gettin personal information.
-collection-privacy-notice = Preevacy Notice
+collection-privacy-notice = Privacy Notice
 collection-health-report-telemetry-disabled = Ye're nae langer lattin { -vendor-short-name } captur technical and interaction data. Aw bygane data will be dichtit within 30 days.
 collection-health-report-telemetry-disabled-link = Lairn mair
 collection-health-report =
@@ -1200,8 +1200,8 @@ space-alert-over-5gb-pref-button =
         }
 space-alert-over-5gb-message =
     { PLATFORM() ->
-        [windows] { -brand-short-name } is rinnin oot o disk space. Wabsite contents micht no kythe richt. Ye can dicht stored data in Options > Preevacy & Siccarness > Cookies and Site Data.
-       *[other] { -brand-short-name } is rinnin oot o disk space. Wabsite contents micht no kythe richt. Ye can dicht stored data in Preferences > Preevacy & Siccarness > Cookies and Site Data.
+        [windows] { -brand-short-name } is rinnin oot o disk space. Wabsite contents micht no kythe richt. Ye can dicht stored data in Options > Privacy & Siccarness > Cookies and Site Data.
+       *[other] { -brand-short-name } is rinnin oot o disk space. Wabsite contents micht no kythe richt. Ye can dicht stored data in Preferences > Privacy & Siccarness > Cookies and Site Data.
     }
 space-alert-under-5gb-ok-button =
     .label = Awricht, Got ye
@@ -1210,7 +1210,7 @@ space-alert-under-5gb-message = { -brand-short-name } is rinnin oot o disk space
 space-alert-over-5gb-settings-button =
     .label = Open Settins
     .accesskey = O
-space-alert-over-5gb-message2 = <strong>{ -brand-short-name } is rinnin oot o disk space.</strong> Wabsite contents micht no kythe richt. Ye can dicht stored data in Settins > Preevacy & Siccarness > Cookies and Site Data.
+space-alert-over-5gb-message2 = <strong>{ -brand-short-name } is rinnin oot o disk space.</strong> Wabsite contents micht no kythe richt. Ye can dicht stored data in Settins > Privacy & Siccarness > Cookies and Site Data.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } is rinnin oot o disk space.</strong> Wabsite contents micht no kythe richt. Gang tae “Lairn Mair” tae mak the maist o yer disk yaise fur a better stravaigin experience.
 
 ## Privacy Section - HTTPS-Only
@@ -1221,7 +1221,7 @@ httpsonly-learn-more = Lairn mair
 httpsonly-radio-enabled =
     .label = Yaise HTTPS-Anely Mode in aw windaes
 httpsonly-radio-enabled-pbm =
-    .label = Yaise HTTPS-Anely Mode in preevat windaes, jist
+    .label = Yaise HTTPS-Anely Mode in private windaes, jist
 httpsonly-radio-disabled =
     .label = Dinnae yaise HTTPS-Anely Mode
 

@@ -94,7 +94,7 @@ cfr-whatsnew-button =
     .tooltiptext = Whit's New
 cfr-whatsnew-panel-header = Whit's New
 cfr-whatsnew-release-notes-link-text = Read the roll-oot notes
-cfr-whatsnew-fx70-title = { -brand-short-name } noo fechts aw the mair for yer preevacy.
+cfr-whatsnew-fx70-title = { -brand-short-name } noo fechts aw the mair for yer privacy.
 cfr-whatsnew-fx70-body =
     The latest update eiks-on tae the Trackin Bieldin featur and maks it
     even easier tae mak siccar passwirds for ilka site.
@@ -196,11 +196,11 @@ cfr-doorhanger-socialtracking-close-button = Sneck
 cfr-doorhanger-socialtracking-dont-show-again = Dinnae kythe messages like this oniemair
     .accesskey = D
 cfr-doorhanger-socialtracking-heading = { -brand-short-name } stapped a social netwark fae trackin ye here
-cfr-doorhanger-socialtracking-description = Yer preevacy maitters. { -brand-short-name } noo blocks common social media trackers, pittin leemits on how muckle data they can gaither aboot whit ye're daein online.
+cfr-doorhanger-socialtracking-description = Yer privacy maitters. { -brand-short-name } noo blocks common social media trackers, pittin leemits on how muckle data they can gaither aboot whit ye're daein online.
 cfr-doorhanger-fingerprinters-heading = { -brand-short-name } blockit a fingirprenter on this page
-cfr-doorhanger-fingerprinters-description = Yer preevacy maitters. { -brand-short-name } noo blocks fingirprenters, which gaither bitties o information kenmerks aboot yer device fur tae track ye.
+cfr-doorhanger-fingerprinters-description = Yer privacy maitters. { -brand-short-name } noo blocks fingirprenters, which gaither bitties o information kenmerks aboot yer device fur tae track ye.
 cfr-doorhanger-cryptominers-heading = { -brand-short-name } blockit a cryptohowker on this page
-cfr-doorhanger-cryptominers-description = Yer preevacy maitters. { -brand-short-name } noo blocks cryptohowkers, which yaise yer system's computin pouer fur tae howk oot digital siller.
+cfr-doorhanger-cryptominers-description = Yer privacy maitters. { -brand-short-name } noo blocks cryptohowkers, which yaise yer system's computin pouer fur tae howk oot digital siller.
 
 ## Enhanced Tracking Protection Milestones
 
@@ -262,7 +262,7 @@ cfr-whatsnew-better-pdf-body = PDF documents noo open straicht intae { -brand-sh
 
 ## DOH Message
 
-cfr-doorhanger-doh-body = Yer preevacy maitters. { -brand-short-name } noo, whenivver it can, sends yer DNS speirins siccar tae a pertner service fur tae bield ye while ye stravaige.
+cfr-doorhanger-doh-body = Yer privacy maitters. { -brand-short-name } noo, whenivver it can, sends yer DNS speirins siccar tae a pertner service fur tae bield ye while ye stravaige.
 cfr-doorhanger-doh-header = Mair siccar, encryptit DNS luik-ups
 cfr-doorhanger-doh-primary-button-2 = Awricht
     .accesskey = A
@@ -271,7 +271,7 @@ cfr-doorhanger-doh-secondary-button = Disable
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-body-approved = Yer preevacy maitters. { -brand-short-name } noo sets asinder, or saundboxes, wabsites fae each ither, makkin it haurder fur hackers tae pauchle passwirds, credit caird nummers, and ither sensitive information.
+cfr-doorhanger-fission-body-approved = Yer privacy maitters. { -brand-short-name } noo sets asinder, or saundboxes, wabsites fae each ither, makkin it haurder fur hackers tae pauchle passwirds, credit caird nummers, and ither sensitive information.
 cfr-doorhanger-fission-header = Site Isolatin
 cfr-doorhanger-fission-primary-button = Awricht, Got ye
     .accesskey = O

@@ -20,7 +20,7 @@ appmenuitem-customize-mode =
 appmenuitem-new-window =
     .label = New Windae
 appmenuitem-new-private-window =
-    .label = New Preevat Windae
+    .label = New Private Windae
 appmenuitem-passwords =
     .label = Passwirds
 appmenuitem-addons-and-themes =
@@ -104,7 +104,7 @@ profiler-popup-settings =
     .value = Settins
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Edit Settins…
-profiler-popup-disabled = The profile is disabled the noo, maist like acause o a Preevat Stravaigin windae bein open.
+profiler-popup-disabled = The profile is disabled the noo, maist like acause o a Private Stravaigin windae bein open.
 profiler-popup-recording-screen = Recordin…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.

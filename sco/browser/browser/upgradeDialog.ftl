@@ -62,11 +62,11 @@ upgrade-dialog-pin-secondary-button = No jist noo
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-default-title = Mak { -brand-short-name } yer staunart wab-stravaiger?
-upgrade-dialog-default-subtitle = Get speed, siccarness and preevacy onie time ye stravaig.
+upgrade-dialog-default-subtitle = Get speed, siccarness and privacy onie time ye stravaig.
 upgrade-dialog-default-primary-button = Set as staunart wab-stravaiger
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-default-title-2 = Mak { -brand-short-name } yer staunart
-upgrade-dialog-default-subtitle-2 = Pit speed, siccarness, and preevacy on autopilot.
+upgrade-dialog-default-subtitle-2 = Pit speed, siccarness, and privacy on autopilot.
 upgrade-dialog-default-primary-button-2 = Mak staunart wab-stravaiger
 upgrade-dialog-default-secondary-button = No jist noo
 
@@ -78,8 +78,8 @@ upgrade-dialog-theme-title =
     wi an updatit theme
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-theme-title-2 = Get a clean stert wi a nacketie theme
-upgrade-dialog-theme-system = Seestem theme
-    .title = Follae the operatin seestem theme fur buttons, menus, and windaes
+upgrade-dialog-theme-system = System theme
+    .title = Follae the operatin system theme fur buttons, menus, and windaes
 upgrade-dialog-theme-light = Licht
     .title = Yaise a licht theme fur buttons, menus, and windaes
 upgrade-dialog-theme-dark = Daurk

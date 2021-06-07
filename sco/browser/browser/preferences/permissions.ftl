@@ -93,7 +93,7 @@ permissions-exceptions-cookie-desc = Ye can set oot whit wabsites are ayeweys or
 permissions-exceptions-https-only-window =
     .title = Exceptions - HTTPS-Anely Mode
     .style = { permissions-window.style }
-permissions-exceptions-https-only-desc = Ye can turn aff HTTPS-Anely Mode fur specific wabsites. { -brand-short-name } willnae ettle tae upgrade the connection tae siccar HTTPS fur thae sites. Exceptions dinnae apply tae preevat windaes.
+permissions-exceptions-https-only-desc = Ye can turn aff HTTPS-Anely Mode fur specific wabsites. { -brand-short-name } willnae ettle tae upgrade the connection tae siccar HTTPS fur thae sites. Exceptions dinnae apply tae private windaes.
 
 ## Exceptions - Pop-ups
 

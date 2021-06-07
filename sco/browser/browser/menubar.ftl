@@ -67,7 +67,7 @@ menu-file-new-window =
     .label = New Windae
     .accesskey = N
 menu-file-new-private-window =
-    .label = New Preevat Windae
+    .label = New Private Windae
     .accesskey = W
 # "Open Location" is only displayed on macOS, and only on windows
 # that aren't main browser windows, or when there are no windows

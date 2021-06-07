@@ -120,7 +120,7 @@ library-version-title = Leebrar Versions
 copy-text-to-clipboard-label = Copy text tae clipbuird
 copy-raw-data-to-clipboard-label = Copy raw data tae clipbuird
 sandbox-title = Sandbox
-sandbox-sys-call-log-title = Rejectit Seestem Caws
+sandbox-sys-call-log-title = Rejectit System Caws
 sandbox-sys-call-index = #
 sandbox-sys-call-age = Seconds Syne
 sandbox-sys-call-pid = PID
@@ -168,8 +168,8 @@ intl-locales-requested = Requestit Locales
 intl-locales-available = Locales At Haun
 intl-locales-supported = App Locales
 intl-locales-default = Default Locale
-intl-os-title = Operatin Seestem
-intl-os-prefs-system-locales = Seestem Locales
+intl-os-title = Operatin System
+intl-os-prefs-system-locales = System Locales
 intl-regional-prefs = Regional Preferences
 
 ## Remote Debugging
@@ -259,7 +259,7 @@ text-copied = Text copied tae clipbuird
 
 blocked-driver = Blockit fur yer graphics driver version.
 blocked-gfx-card = Blockit fur yer graphics caird acause o unresolvit driver issues.
-blocked-os-version = Blockit for yer operatin seestem version.
+blocked-os-version = Blockit for yer operatin system version.
 blocked-mismatched-version = Blockit fur yer graphics driver version mismatch atween registry and DLL.
 # Variables
 # $driverVersion - The graphics driver version string
@@ -329,7 +329,7 @@ off-main-thread-paint-worker-count = Aff Main Threid Pentin Wirker Coont
 target-frame-rate = Target Frame Rate
 min-lib-versions = Expectit minimum version
 loaded-lib-versions = Version in yaise
-has-seccomp-bpf = Seccomp-BPF (Seestem Caw Filterin)
+has-seccomp-bpf = Seccomp-BPF (System Caw Filterin)
 has-seccomp-tsync = Seccomp Threid Synchronization
 has-user-namespaces = Yaiser Nemmespaces
 has-privileged-user-namespaces = Yaiser Nemmespaces fur preevileged processes
