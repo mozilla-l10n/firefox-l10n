@@ -33,6 +33,7 @@ pocket-panel-signup-learn-more = Află mai multe
 pocket-panel-signup-login = Autentifică-te
 pocket-panel-signup-signup-email = Înregistrare cu e-mail
 pocket-panel-signup-signup-cta = Înregistrează-te pentru { -pocket-brand-name }. Este gratuit.
+pocket-panel-signup-signup-firefox = Fă-ți un cont { -brand-product-name }
 pocket-panel-signup-tagline = Salvează articole și videoclipuri din { -brand-product-name } pentru a le vedea în { -pocket-brand-name } de pe orice dispozitiv, oricând.
 pocket-panel-signup-tagline-story-one = Clic pe butonul { -pocket-brand-name } pentru a salva orice articol, videoclip sau pagină din { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Vezi în { -pocket-brand-name } de pe orice dispozitiv, oricând.
