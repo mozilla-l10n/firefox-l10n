@@ -37,3 +37,12 @@ openpgp-enc-key-with-subkey-id = ID κλειδιού αποκρυπτογράφ�
 openpgp-unknown-key-id = Άγνωστο κλειδί
 openpgp-other-enc-additional-key-ids = Επιπλέον, το μήνυμα κρυπτογραφήθηκε στους κατόχους των ακόλουθων κλειδιών:
 openpgp-other-enc-all-key-ids = Το μήνυμα κρυπτογραφήθηκε στους κατόχους των ακόλουθων κλειδιών:
+openpgp-message-header-encrypted-ok-icon =
+    .alt = Επιτυχής αποκρυπτογράφηση
+openpgp-message-header-encrypted-notok-icon =
+    .alt = Αποτυχία αποκρυπτογράφησης
+openpgp-message-header-signed-ok-icon =
+    .alt = Καλή υπογραφή
+# Mismatch icon is used for notok state as well
+openpgp-message-header-signed-mismatch-icon =
+    .alt = Κακή υπογραφή
