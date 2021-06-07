@@ -173,6 +173,9 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = Tekstowe koděrowanje
     .accesskey = d
+menu-view-repair-text-encoding =
+    .label = Tekstowe koděrowanje reparěrowaś
+    .accesskey = d
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -254,15 +257,15 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Pla { -brand-product-name } pśizjawiś…
     .accesskey = a
+menu-tools-turn-on-sync =
+    .label = { -sync-brand-short-name } zmóžniś
+    .accesskey = m
 menu-tools-addons-and-themes =
     .label = Dodanki a drastwy
     .accesskey = D
 menu-tools-fxa-sign-in2 =
     .label = Pśizjawiś
     .accesskey = P
-menu-tools-turn-on-sync =
-    .label = { -sync-brand-short-name } zmóžniś
-    .accesskey = m
 menu-tools-turn-on-sync2 =
     .label = Sync zmóžniś…
     .accesskey = n
@@ -287,19 +290,19 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Info wó boku
     .accesskey = I
-menu-settings =
-    .label = Nastajenja
-    .accesskey =
-        { PLATFORM() ->
-            [windows] N
-           *[other] N
-        }
 menu-preferences =
     .label =
         { PLATFORM() ->
             [windows] Nastajenja
            *[other] Nastajenja
         }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] N
+           *[other] N
+        }
+menu-settings =
+    .label = Nastajenja
     .accesskey =
         { PLATFORM() ->
             [windows] N
@@ -342,14 +345,12 @@ menu-help-import-from-another-browser =
 menu-help-keyboard-shortcuts =
     .label = Tastowe skrotconki
     .accesskey = T
-menu-get-help =
-    .label = Pomoc se wobstaraś
-    .accesskey = P
 menu-help-troubleshooting-info =
     .label = Informacije za rozwězowanje problemow
     .accesskey = I
-menu-help-taskmanager =
-    .label = Zastojnik nadawkow
+menu-get-help =
+    .label = Pomoc se wobstaraś
+    .accesskey = P
 menu-help-more-troubleshooting-info =
     .label = Dalšne informacije za rozwězowanje problemow
     .accesskey = D

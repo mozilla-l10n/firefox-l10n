@@ -185,8 +185,6 @@ page-action-send-tabs-urlbar =
             [few] { $tabCount } rejtariki na rěd pósłaś
            *[other] { $tabCount } rejtarikow na rěd pósłaś
         }
-page-action-pocket-panel =
-    .label = Bok do { -pocket-brand-name } składowaś
 page-action-copy-url-panel =
     .label = Wótkaz kopěrowaś
 page-action-copy-url-urlbar =
@@ -627,8 +625,6 @@ crashed-subframe-submit =
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = Wše cytańske znamjenja pokazaś
 bookmarks-manage-bookmarks =
     .label = Cytańske znamjenja zastojaś
 bookmarks-recent-bookmarks-panel-subheader = Nejnowše cytańske znamjenja
@@ -701,6 +697,12 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = Pla { -pocket-brand-name } składowaś
     .tooltiptext = Pla { -pocket-brand-name } składowaś
+
+## Repair text encoding toolbar button
+
+repair-text-encoding-button =
+    .label = Tekstowe koděrowanje reparěrowaś
+    .tooltiptext = Korektne tekstowe koděrowanje z wopśimjeśa boka wugódaś
 
 ## Customize Toolbar Buttons
 
