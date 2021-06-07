@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = टैग जोड़ें
+pocket-panel-saved-error-generic = { -pocket-brand-name } में सहेजने की कोशिश करते समय त्रुटि हुई थी।
 pocket-panel-saved-error-tag-length = टैग 25 वर्णों तक सीमित है
 pocket-panel-saved-error-only-links = सिर्फ लिंक सहेजा जा सकता हैं
 pocket-panel-saved-error-not-saved = पेज सहेजा नही गया
@@ -31,9 +32,11 @@ pocket-panel-signup-already-have = पहले से { -pocket-brand-name } �
 pocket-panel-signup-learn-more = और जानें
 pocket-panel-signup-login = लॉग इन
 pocket-panel-signup-signup-email = ईमेल के साथ साइन अप करें
+pocket-panel-signup-signup-cta = { -pocket-brand-name } के लिए साइन अप करें। यह मुफ़्त है ।
 pocket-panel-signup-signup-firefox = { -brand-product-name } के साथ साइन अप करें
 pocket-panel-signup-tagline = किसी भी समय, { -pocket-brand-name } में कोई भी डिवाइस पर देखने के लिए { -brand-product-name } से आलेख और वीडियो सहेजें.
 pocket-panel-signup-tagline-story-one = { -brand-product-name } से कोई भी आलेख, वीडियो या पृष्ठ को सहेजने के लिए { -pocket-brand-name } बटन को क्लिक करे.
+pocket-panel-signup-tagline-story-two = किसी भी समय, { -pocket-brand-name } में कोई भी डिवाइस पर देखे।
 
 ## about:pocket-home panel
 
