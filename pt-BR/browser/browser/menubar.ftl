@@ -173,6 +173,9 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = Codificação de texto
     .accesskey = c
+menu-view-repair-text-encoding =
+    .label = Reparar codificação de texto
+    .accesskey = c
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -254,15 +257,15 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Entrar no { -brand-product-name }…
     .accesskey = E
+menu-tools-turn-on-sync =
+    .label = Ativar o { -sync-brand-short-name }…
+    .accesskey = A
 menu-tools-addons-and-themes =
     .label = Extensões e temas
     .accesskey = E
 menu-tools-fxa-sign-in2 =
     .label = Entrar
     .accesskey = E
-menu-tools-turn-on-sync =
-    .label = Ativar o { -sync-brand-short-name }…
-    .accesskey = A
 menu-tools-turn-on-sync2 =
     .label = Ativar o Sync…
     .accesskey = n
@@ -287,13 +290,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Informações da página
     .accesskey = I
-menu-settings =
-    .label = Configurações
-    .accesskey =
-        { PLATFORM() ->
-            [windows] C
-           *[other] n
-        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -304,6 +300,13 @@ menu-preferences =
         { PLATFORM() ->
             [windows] O
            *[other] P
+        }
+menu-settings =
+    .label = Configurações
+    .accesskey =
+        { PLATFORM() ->
+            [windows] C
+           *[other] n
         }
 menu-tools-layout-debugger =
     .label = Depurador de layout
