@@ -47,6 +47,12 @@ toolbar-undelete-button =
     .label = Restabilir
     .tooltiptext = Restabilir le messages seligite
 
+## View
+
+menu-view-repair-text-encoding =
+    .label = Corriger le codification del texto:
+    .accesskey = c
+
 ## View / Layout
 
 mail-uidensity-label =
