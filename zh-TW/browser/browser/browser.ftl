@@ -181,8 +181,6 @@ page-action-send-tabs-urlbar =
             [1] 將分頁傳送到其他裝置
            *[other] 傳送 { $tabCount } 個到其他裝置
         }
-page-action-pocket-panel =
-    .label = 將頁面儲存至 { -pocket-brand-name }
 page-action-copy-url-panel =
     .label = 複製鏈結
 page-action-copy-url-urlbar =
@@ -612,8 +610,6 @@ crashed-subframe-submit =
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = 顯示所有書籤
 bookmarks-manage-bookmarks =
     .label = 管理書籤
 bookmarks-recent-bookmarks-panel-subheader = 最近加入的書籤
@@ -686,6 +682,12 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = 儲存至 { -pocket-brand-name }
     .tooltiptext = 儲存至 { -pocket-brand-name }
+
+## Repair text encoding toolbar button
+
+repair-text-encoding-button =
+    .label = 修復文字編碼
+    .tooltiptext = 根據訊息內容猜測正確的文字編碼
 
 ## Customize Toolbar Buttons
 
