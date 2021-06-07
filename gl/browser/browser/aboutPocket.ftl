@@ -40,3 +40,9 @@ pocket-panel-signup-tagline-story-two = Véxao en { -pocket-brand-name } en calq
 
 ## about:pocket-home panel
 
+pocket-panel-home-my-list = A miña lista
+pocket-panel-home-welcome-back = Reciba a benvida de novo
+pocket-panel-home-paragraph = Pode empregar { -pocket-brand-name } para explorar e gardar páxinas web, artigos, vídeos, podcasts ou volver ao que estaba a ler.
+pocket-panel-home-explore-popular-topics = Explorar temas populares
+pocket-panel-home-discover-more = Descubrir máis
+pocket-panel-home-explore-more = Explorar
