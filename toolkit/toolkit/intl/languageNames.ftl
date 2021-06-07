@@ -159,6 +159,7 @@ language-name-ru = orosz
 language-name-rw = kinyarwanda
 language-name-sa = szanszkrit
 language-name-sc = szárd
+language-name-sco = scots
 language-name-sd = sindhi
 language-name-se = északi számi
 language-name-sg = sango
