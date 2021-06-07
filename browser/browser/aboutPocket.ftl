@@ -16,6 +16,7 @@ pocket-panel-saved-error-tag-length = ჭდე უნდა შედგებ�
 pocket-panel-saved-error-only-links = შესაძლებელია მხოლოდ ბმულების შენახვა
 pocket-panel-saved-error-not-saved = გვერდი არ შეინახა
 pocket-panel-saved-page-removed = გვერდი წაიშალა
+pocket-panel-saved-page-saved = შენახულია { -pocket-brand-name }-ში
 pocket-panel-saved-processing-remove = იშლება გვერდი…
 pocket-panel-saved-processing-tags = ემატება ჭდეები…
 pocket-panel-saved-remove-page = გვერდის წაშლა
@@ -30,9 +31,18 @@ pocket-panel-signup-view-list = სიის ნახვა
 pocket-panel-signup-already-have = უკვე იყენებთ { -pocket-brand-name }-ს?
 pocket-panel-signup-learn-more = დაწვრილებით
 pocket-panel-signup-login = შესვლა
+pocket-panel-signup-signup-email = ანგარიშის შექმნა ელფოსტით
+pocket-panel-signup-signup-cta = შექმენით { -pocket-brand-name }-ანგარიში. უფასოა.
+pocket-panel-signup-signup-firefox = ანგარიში { -brand-product-name }-ით
 pocket-panel-signup-tagline = შეინახეთ სტატიები და ვიდეოები { -brand-product-name }-იდან მათ { -pocket-brand-name }-ში სანახავად ნებისმიერ მოწყობილობაზე, ნებისმიერ დროს.
 pocket-panel-signup-tagline-story-one = { -brand-product-name }-იდან ნებისმიერი სტატიის, ვიდეოს ან გვერდის შესანახად დააწკაპეთ { -pocket-brand-name } ღილაკს.
 pocket-panel-signup-tagline-story-two = დაათვალიერეთ { -pocket-brand-name }-ში ნებისმიერ მოწყობილობაზე, ნებისმიერ დროს.
 
 ## about:pocket-home panel
 
+pocket-panel-home-my-list = ჩემი სია
+pocket-panel-home-welcome-back = კეთილი იყოს თქვენი დაბრუნება
+pocket-panel-home-paragraph = შეგიძლიათ გამოიყენოთ { -pocket-brand-name } აღმოსაჩენად და შესანახად ვებგვერდების, სტატიების, ვიდეოების, პოდკასტების, ან განაგრძოთ კითხვა იქიდან, სადაც გაჩერდით.
+pocket-panel-home-explore-popular-topics = გაეცანით ცნობილ თემებს
+pocket-panel-home-discover-more = აღმოაჩინეთ მეტი
+pocket-panel-home-explore-more = დათვალიერება
