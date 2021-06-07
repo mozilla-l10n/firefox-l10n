@@ -40,3 +40,9 @@ pocket-panel-signup-tagline-story-two = Besjoch se op ferskate apparaten, wannea
 
 ## about:pocket-home panel
 
+pocket-panel-home-my-list = Myn list
+pocket-panel-home-welcome-back = Wolkom werom
+pocket-panel-home-paragraph = Jo kinne { -pocket-brand-name } brûke om websiden, artikelen, fideo’s en podcasts te ferkennen en te bewarjen, of om tebek te gean nei wat jo oan it lêzen wiene.
+pocket-panel-home-explore-popular-topics = Populêre ûnderwerpen ferkenne
+pocket-panel-home-discover-more = Mear ûntdekke
+pocket-panel-home-explore-more = Ferkenne
