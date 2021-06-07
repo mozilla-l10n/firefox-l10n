@@ -173,8 +173,6 @@ page-action-send-tabs-panel =
     .label = 发送 { $tabCount } 个标签页到设备
 page-action-send-tabs-urlbar =
     .tooltiptext = 发送 { $tabCount } 个标签页到设备
-page-action-pocket-panel =
-    .label = 保存页面到 { -pocket-brand-name }
 page-action-copy-url-panel =
     .label = 复制链接
 page-action-copy-url-urlbar =
@@ -600,8 +598,6 @@ crashed-subframe-submit =
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = 管理所有书签
 bookmarks-manage-bookmarks =
     .label = 管理书签
 bookmarks-recent-bookmarks-panel-subheader = 最近的书签
@@ -674,6 +670,12 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = 保存到 { -pocket-brand-name }
     .tooltiptext = 保存到 { -pocket-brand-name }
+
+## Repair text encoding toolbar button
+
+repair-text-encoding-button =
+    .label = 修复文本编码
+    .tooltiptext = 根据页面内容猜测正确的文本编码
 
 ## Customize Toolbar Buttons
 
