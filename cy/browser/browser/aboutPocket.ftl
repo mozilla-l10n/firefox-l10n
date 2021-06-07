@@ -23,6 +23,7 @@ pocket-panel-saved-remove-page = Tynnu Tudalen
 pocket-panel-saved-save-tags = Cadw
 pocket-panel-saved-saving-tags = Cadw…
 pocket-panel-saved-suggested-tags = Awgrymiadau o Dagiau
+pocket-panel-saved-tags-saved = Ychwanegwyd Tagiau
 pocket-panel-signup-view-list = Gweld Rhestr
 
 ## about:pocket-signup panel
@@ -39,3 +40,9 @@ pocket-panel-signup-tagline-story-two = Gweld yn { -pocket-brand-name } ar unrhy
 
 ## about:pocket-home panel
 
+pocket-panel-home-my-list = Fy Rhestr
+pocket-panel-home-welcome-back = Croeso Nôl
+pocket-panel-home-paragraph = Gallwch ddefnyddio { -pocket-brand-name } i archwilio a chadw tudalennau gwe, erthyglau, fideos, podlediadau neu fynd yn ôl at yr hyn rydych chi wedi bod yn ei ddarllen.
+pocket-panel-home-explore-popular-topics = Archwilio Pynciau Poblogaidd
+pocket-panel-home-discover-more = Darganfod Rhagor
+pocket-panel-home-explore-more = Archwilio
