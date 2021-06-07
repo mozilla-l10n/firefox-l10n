@@ -52,7 +52,7 @@ login-list-count =
     }
 login-list-sort-label-text = Сортувати:
 login-list-name-option = Ім'я (А-Я)
-login-list-name-reverse-option = Назва (Z-A)
+login-list-name-reverse-option = Назва (Я-А)
 about-logins-login-list-alerts-option = Попередження
 login-list-last-changed-option = Змінено
 login-list-last-used-option = Використано
@@ -71,7 +71,6 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Шукаєте свої збережені паролі? Налаштуйте { -sync-brand-short-name(case: "acc") }.
-about-logins-login-intro-heading-logged-out = Шукаєте свої збережені паролі? Налаштуйте { -sync-brand-short-name } для їхнього імпорту.
 about-logins-login-intro-heading-logged-out2 = Шукаєте збережені паролі? Увімкніть синхронізацію або імпортуйте їх.
 about-logins-login-intro-heading-logged-in = Не знайдено синхронізованих паролів.
 login-intro-description = Якщо ви зберегли паролі в { -brand-product-name } на іншому пристрої, ось як отримати їх тут:
@@ -323,7 +322,6 @@ about-logins-import-dialog-error-unable-to-read-title = Не вдалося пр
 about-logins-import-dialog-error-unable-to-read-description = Переконайтеся, що вибрали файл CSV або TSV.
 about-logins-import-dialog-error-no-logins-imported = Жоден пароль не імпортовано
 about-logins-import-dialog-error-learn-more = Дізнатися більше
-about-logins-import-dialog-error-try-again = Спробувати знову…
 about-logins-import-dialog-error-try-import-again = Повторити спробу імпорту…
 about-logins-import-dialog-error-cancel = Скасувати
 about-logins-import-report-title = Підсумок імпорту
