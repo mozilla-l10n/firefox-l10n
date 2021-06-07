@@ -40,3 +40,9 @@ pocket-panel-signup-tagline-story-two = Nézze meg a { -pocket-brand-name }en b�
 
 ## about:pocket-home panel
 
+pocket-panel-home-my-list = Saját lista
+pocket-panel-home-welcome-back = Üdvözöljük újra
+pocket-panel-home-paragraph = A { -pocket-brand-name } segítségével weboldalakat, cikkeket, videókat, podcastokat fedezhet fel és menthet el, vagy visszatérhet az olvasottakhoz.
+pocket-panel-home-explore-popular-topics = Népszerű témák felfedezése
+pocket-panel-home-discover-more = Folytassa a felfedezést
+pocket-panel-home-explore-more = Felfedezés
