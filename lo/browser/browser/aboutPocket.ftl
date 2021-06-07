@@ -24,6 +24,7 @@ pocket-panel-saved-save-tags = ບັນທຶກ
 pocket-panel-saved-saving-tags = ກຳລັງບັນທຶກ...
 pocket-panel-saved-suggested-tags = ແທັກທີ່ໄດ້ຮັບການແນະນຳ
 pocket-panel-saved-tags-saved = ໄດ້ເພີ່ມແທັກແລ້ວ
+pocket-panel-signup-view-list = ເບີ່ງລາຍການ
 
 ## about:pocket-signup panel
 
@@ -33,6 +34,8 @@ pocket-panel-signup-login = ເຂົ້າສູ່ລະບົບ
 pocket-panel-signup-signup-email = ລົງທະບຽນດ້ວຍອີເມວ
 pocket-panel-signup-signup-cta = ລົງທະບຽນນໍາໃຊ້ { -pocket-brand-name } ຟຣີ
 pocket-panel-signup-signup-firefox = ລົງທະບຽນດ້ວຍ { -brand-product-name }
+pocket-panel-signup-tagline = ບັນທືກບົດຄວາມ ແລະ ວີດີໂອຈາກ { -brand-product-name } ເພື່ອເບີ່ງໃນ { -pocket-brand-name } ເທີງອຼປະກອນຕ່າງໆ ທຼກເວລາ
+pocket-panel-signup-tagline-story-two = ເບີ່ງໃນ { -pocket-brand-name } ເທີງອຸປະກອນຕ່າງໆ ທຸກເວລາ
 
 ## about:pocket-home panel
 
