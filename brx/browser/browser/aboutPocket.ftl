@@ -8,6 +8,7 @@
 
 ## about:pocket-saved panel
 
+pocket-panel-saved-processing-remove = पेजखौ बोखारगासिनो…
 pocket-panel-saved-remove-page = पेजखौ बोखार
 pocket-panel-saved-save-tags = थिना दोन
 pocket-panel-saved-saving-tags = थिना दोनगासिनो दङ…
