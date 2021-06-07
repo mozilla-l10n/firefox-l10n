@@ -40,3 +40,6 @@ pocket-panel-signup-tagline-story-two = ดูใน { -pocket-brand-name } บ�
 
 ## about:pocket-home panel
 
+pocket-panel-home-my-list = รายการของฉัน
+pocket-panel-home-welcome-back = ยินดีต้อนรับกลับ
+pocket-panel-home-explore-more = สำรวจ
