@@ -8,7 +8,11 @@
 
 ## about:pocket-saved panel
 
+# Placeholder text for tag input
+pocket-panel-saved-add-tags =
+    .placeholder = ট্যাগসমূহ যোগ করুন
 pocket-panel-saved-error-generic = { -pocket-brand-name } এ সংরক্ষণ করতে ত্রুটি ঘটেছে।
+pocket-panel-saved-error-tag-length = ট্যাগ সমূহ 25 অক্ষরের মধ্যে সীমাবদ্ধ
 pocket-panel-saved-error-only-links = শুধু লিঙ্ক সংরক্ষণ করা যাবে
 pocket-panel-saved-error-not-saved = পাতা সংরক্ষণ করা হয়নি
 pocket-panel-saved-page-removed = পাতা অপসারণ করা হয়েছে
@@ -24,6 +28,7 @@ pocket-panel-signup-view-list = তালিকা দেখুন
 
 ## about:pocket-signup panel
 
+pocket-panel-signup-already-have = আপনি কি একজন { -pocket-brand-name } ব্যবহারকারী?
 pocket-panel-signup-learn-more = আরও জানুন
 pocket-panel-signup-login = লগ ইন
 pocket-panel-signup-signup-email = ইমেইল দিয়ে সাইন আপ করুন
