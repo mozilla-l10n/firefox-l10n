@@ -29,6 +29,7 @@ pocket-panel-signup-view-list = Titz'et Cholb'äl
 ## about:pocket-signup panel
 
 pocket-panel-signup-already-have = ¿La at ruwinaq chik ri { -pocket-brand-name }?
+pocket-panel-signup-learn-more = Tetamäx Ch'aqa' Chik
 pocket-panel-signup-login = Titikirisäx molojri'ïl
 pocket-panel-signup-signup-email = Tatikirisaj molojri'ïl rik'in taqoya'l
 pocket-panel-signup-signup-cta = Tatz'ib'aj ab'i' rik'in { -pocket-brand-name }. Majun rajil.
@@ -39,3 +40,9 @@ pocket-panel-signup-tagline-story-two = Titz'et pa { -pocket-brand-name } pa jun
 
 ## about:pocket-home panel
 
+pocket-panel-home-my-list = Nucholajem
+pocket-panel-home-welcome-back = Ütz Apetik
+pocket-panel-home-paragraph = Yatikïr nawokisaj { -pocket-brand-name } richin yakanon chuqa' ye'ayäk ruxaq k'amaya'l, taq wachinäq, taq silowäch, podcasts o yatzolin pa ri asik'in kan.
+pocket-panel-home-explore-popular-topics = Kenik'öx Nab'ey taq Wachinel
+pocket-panel-home-discover-more = Tikanöx Ch'aqa' Chik
+pocket-panel-home-explore-more = Tikanöx
