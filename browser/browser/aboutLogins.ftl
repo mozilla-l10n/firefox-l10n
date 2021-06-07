@@ -318,6 +318,7 @@ about-logins-import-dialog-error-learn-more = অধিক জানক
 about-logins-import-dialog-error-try-import-again = পুনৰ আমদানি কৰাৰ চেষ্টা কৰক...
 about-logins-import-dialog-error-cancel = বাতিল কৰক
 about-logins-import-report-title = আমদানিৰ সাৰাংশ
+about-logins-import-report-description = { -brand-short-name }-লৈ আমদানি কৰা লগিন আৰু পাছৱৰ্ডসমূহ।
 #
 # Variables:
 #  $number (number) - The number of the row
@@ -341,6 +342,19 @@ about-logins-import-report-row-description-error-missing-field = ত্ৰুট
 about-logins-import-report-added =
     { $count ->
        *[other] <div data-l10n-name="count">{ $count }টা</div> <div data-l10n-name="details">নতুন লগিন যোগ কৰা হ'ল</div>
+    }
+about-logins-import-report-modified =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }টা</div> <div data-l10n-name="details">মজুত লগিন আপডেট কৰা হ'ল</div>
+       *[other] <div data-l10n-name="count">{ $count }টা</div> <div data-l10n-name="details">মজুত লগিন আপডেট কৰা হ'ল</div>
+    }
+about-logins-import-report-no-change =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }টা</div> <div data-l10n-name="details">ডুপ্লিকেট লগিন</div> <div data-l10n-name="not-imported">(আমদানি কৰা হোৱা নাই)</div>
+    }
+about-logins-import-report-error =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }টা</div> <div data-l10n-name="details">ত্ৰুটি</div> <div data-l10n-name="not-imported">(আমদানি কৰা হোৱা নাই)</div>
     }
 
 ## Logins import report page
