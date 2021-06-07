@@ -16,6 +16,7 @@ upgrade-dialog-new-item-menu-description = Prioritizează lucrurile importante, 
 upgrade-dialog-new-item-tabs-title = File moderne
 upgrade-dialog-new-item-tabs-description = Conține informații într-un mod ordonat, sprijinind concentrarea și mișcarea flexibilă.
 upgrade-dialog-new-item-icons-title = Pictograme proaspete și mesaje mai clare
+upgrade-dialog-new-item-icons-description = Te ajută să îți găsești drumul cu o atingere mai ușoară.
 upgrade-dialog-new-primary-primary-button = Desemnează { -brand-short-name } ca browserul meu principal
     .title = Setează { -brand-short-name } drept browser implict și fixează în bara de activități
 upgrade-dialog-new-primary-default-button = Desemnează { -brand-short-name } ca browserul meu implicit
@@ -36,4 +37,8 @@ upgrade-dialog-default-secondary-button = Nu acum
 
 ## Theme selection screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-theme-title =
+    Obține un start curat
+    cu o temă actualizată
 upgrade-dialog-theme-secondary-button = Nu acum
