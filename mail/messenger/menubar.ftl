@@ -47,6 +47,12 @@ toolbar-undelete-button =
     .label = 恢复
     .tooltiptext = 恢复选择的消息或文件夹
 
+## View
+
+menu-view-repair-text-encoding =
+    .label = 修复文字编码
+    .accesskey = c
+
 ## View / Layout
 
 mail-uidensity-label =
