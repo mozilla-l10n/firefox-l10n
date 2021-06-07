@@ -30,6 +30,7 @@ pocket-panel-signup-view-list = Lijst weergeven
 
 pocket-panel-signup-already-have = Al een { -pocket-brand-name }-gebruiker?
 pocket-panel-signup-learn-more = Meer info
+pocket-panel-signup-login = Aanmelden
 pocket-panel-signup-signup-email = Registreren met e-mailadres
 pocket-panel-signup-signup-cta = Registreer voor { -pocket-brand-name }. Het is gratis.
 pocket-panel-signup-signup-firefox = Registreren met { -brand-product-name }
@@ -39,3 +40,9 @@ pocket-panel-signup-tagline-story-two = Bekijk ze op diverse apparaten, wanneer 
 
 ## about:pocket-home panel
 
+pocket-panel-home-my-list = Mijn lijst
+pocket-panel-home-welcome-back = Welkom terug
+pocket-panel-home-paragraph = U kunt { -pocket-brand-name } gebruiken om webpagina’s, artikelen, video’s en podcasts te verkennen en op te slaan, of om terug te gaan naar wat u aan het lezen was.
+pocket-panel-home-explore-popular-topics = Populaire onderwerpen verkennen
+pocket-panel-home-discover-more = Meer ontdekken
+pocket-panel-home-explore-more = Verkennen
