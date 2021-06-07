@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = टैग जोड़ें
+pocket-panel-saved-error-tag-length = टैग 25 वर्णों तक सीमित है
 pocket-panel-saved-error-only-links = सिर्फ लिंक सहेजा जा सकता हैं
 pocket-panel-saved-error-not-saved = पेज सहेजा नही गया
 pocket-panel-saved-page-removed = पृष्ठ हटाया गया
