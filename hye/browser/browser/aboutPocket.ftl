@@ -22,6 +22,7 @@ pocket-panel-saved-processing-tags = Պիտակների հաւելում…
 pocket-panel-saved-remove-page = Հեռացնել էջը
 pocket-panel-saved-save-tags = Պահպանել
 pocket-panel-saved-saving-tags = Պահպանում…
+pocket-panel-saved-suggested-tags = Առաջարկուող պիտակներ
 pocket-panel-saved-tags-saved = Պիտակները աւելացուել են
 pocket-panel-signup-view-list = Դիտել ցանկը
 
