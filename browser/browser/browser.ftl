@@ -173,8 +173,6 @@ page-action-send-tabs-panel =
     .label = Gửi { $tabCount } thẻ đến thiết bị
 page-action-send-tabs-urlbar =
     .tooltiptext = Gửi { $tabCount } thẻ đến thiết bị
-page-action-pocket-panel =
-    .label = Lưu trang vào { -pocket-brand-name }
 page-action-copy-url-panel =
     .label = Sao chép liên kết
 page-action-copy-url-urlbar =
@@ -600,8 +598,6 @@ crashed-subframe-submit =
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = Xem tất cả dấu trang
 bookmarks-manage-bookmarks =
     .label = Quản lý dấu trang
 bookmarks-recent-bookmarks-panel-subheader = Dấu trang gần đây
@@ -674,6 +670,12 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = Lưu vào { -pocket-brand-name }
     .tooltiptext = Lưu vào { -pocket-brand-name }
+
+## Repair text encoding toolbar button
+
+repair-text-encoding-button =
+    .label = Sửa chữa mã hóa văn bản
+    .tooltiptext = Đoán mã hóa văn bản chính xác từ nội dung trang
 
 ## Customize Toolbar Buttons
 

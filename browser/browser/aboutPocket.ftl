@@ -15,6 +15,7 @@ pocket-panel-saved-error-generic = Đã xảy ra lỗi khi đang lưu vào { -po
 pocket-panel-saved-error-tag-length = Các tag được giới hạn trong 25 ký tự
 pocket-panel-saved-error-only-links = Chỉ các các liên kết mới có thể được lưu lại
 pocket-panel-saved-error-not-saved = Trang chưa được lưu
+pocket-panel-saved-error-no-internet = Bạn phải kết nối Internet để lưu vào { -pocket-brand-name }. Vui lòng kết nối Internet và thử lại.
 pocket-panel-saved-page-removed = Trang đã bị xóa
 pocket-panel-saved-page-saved = Đã được lưu vào { -pocket-brand-name }
 pocket-panel-saved-processing-remove = Đang xóa trang...
