@@ -18,7 +18,6 @@ pocket-panel-saved-saving-tags = थिना दोनगासिनो दङ
 pocket-panel-signup-learn-more = गोबां सोलों
 pocket-panel-signup-login = लग इन
 pocket-panel-signup-signup-email = इ-मेइलजों साइन-आप खालाम
-pocket-panel-signup-signup-firefox = फायारफक्सजों साइन-आप खालाम
 
 ## about:pocket-home panel
 
