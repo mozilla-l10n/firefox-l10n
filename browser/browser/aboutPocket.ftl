@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Dodaj oznake
+pocket-panel-saved-error-generic = Došlo je do greške pri spremanju u { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Oznake su ograničene na 25 znakova
 pocket-panel-saved-error-only-links = Mogu se spremiti samo poveznice
 pocket-panel-saved-error-not-saved = Stranica nije spremljena
@@ -27,9 +28,15 @@ pocket-panel-signup-view-list = Prikaži popis
 
 ## about:pocket-signup panel
 
+pocket-panel-signup-already-have = Već jesi { -pocket-brand-name } korisnik?
+pocket-panel-signup-learn-more = Saznaj više
 pocket-panel-signup-login = Prijava
 pocket-panel-signup-signup-email = Registracija s e-poštom
+pocket-panel-signup-signup-cta = Registriraj se na { -pocket-brand-name }. Besplatno je.
 pocket-panel-signup-signup-firefox = Registracija s { -brand-product-name }om
+pocket-panel-signup-tagline = Spremi članke i video snimke iz { -brand-product-name }a za prikaz u { -pocket-brand-name }u, na bilo kojem uređaju, bilo kada.
+pocket-panel-signup-tagline-story-one = Za spremanje bilo kojeg članka, video snimke ili stranice iz { -brand-product-name }a, klikni na { -pocket-brand-name } tipku.
+pocket-panel-signup-tagline-story-two = Pogledaj u { -pocket-brand-name }u na bilo kojem uređaju, bilo kada.
 
 ## about:pocket-home panel
 
