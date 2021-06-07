@@ -40,3 +40,9 @@ pocket-panel-signup-tagline-story-two = 在任何时间、任何设备上的 { -
 
 ## about:pocket-home panel
 
+pocket-panel-home-my-list = 我的列表
+pocket-panel-home-welcome-back = 欢迎回来
+pocket-panel-home-paragraph = 您可以使用 { -pocket-brand-name } 浏览和保存网页、文章、视频、播客，或回到上次未阅读完的内容。
+pocket-panel-home-explore-popular-topics = 浏览热门话题
+pocket-panel-home-discover-more = 发现更多
+pocket-panel-home-explore-more = 发现
