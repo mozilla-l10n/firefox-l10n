@@ -40,3 +40,9 @@ pocket-panel-signup-tagline-story-two = ਕਿਸੇ ਵੀ ਡਿਵਾਈਸ, 
 
 ## about:pocket-home panel
 
+pocket-panel-home-my-list = ਮੇਰੀ ਸੂਚੀ
+pocket-panel-home-welcome-back = ਫਿਰ ਜੀ ਆਇਆਂ ਨੂੰ
+pocket-panel-home-paragraph = ਤੁਸੀਂ { -pocket-brand-name } ਨੂੰ ਵੈੱਬਸਾਈਟਾਂ, ਲੇਖ, ਵੀਡੀਓ, ਪੌਡਕਾਸਟਾਂ ਦੀ ਪੜਚੋਲ ਕਰਨ ਤੇ ਸੰਭਾਲਣ ਲਈ ਜਾਂ ਜੋ ਵੀ ਤੁਸੀਂ ਪੜ੍ਹ ਰਹੇ ਹੋ, ਉੱਤੇ ਜਾਣ ਲਈ ਵਰਤ ਸਕਦੇ ਹੋ।
+pocket-panel-home-explore-popular-topics = ਹਰਮਨਪਿਆਰੇ ਵਿਸ਼ਿਆਂ ਦੀ ਪੜਚੋਲ ਕਰੋ
+pocket-panel-home-discover-more = ਹੋਰ ਲੱਭੋ
+pocket-panel-home-explore-more = ਪੜਚੋਲ
