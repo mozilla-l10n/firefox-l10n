@@ -36,7 +36,7 @@ pocket-panel-signup-signup-cta = Registrearje foar { -pocket-brand-name }. It is
 pocket-panel-signup-signup-firefox = Registrearje mei { -brand-product-name }
 pocket-panel-signup-tagline = Bewarje artikelen en fideo’s fan { -brand-product-name } út foar werjaan yn { -pocket-brand-name } op ferskate apparaten, wannear dan ek.
 pocket-panel-signup-tagline-story-one = Klik op de { -pocket-brand-name }-knop om artikelen, fideo’s of siden fan { -brand-product-name } út te bewarjen.
-pocket-panel-signup-tagline-story-two = Besjoch se op ferskate apparaten, wannear dan ek.
+pocket-panel-signup-tagline-story-two = Besjoch se yn { -pocket-brand-name } op ferskate apparaten, wannear dan ek.
 
 ## about:pocket-home panel
 
