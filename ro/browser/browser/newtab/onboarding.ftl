@@ -258,7 +258,10 @@ mr1-onboarding-set-default-secondary-button-label = Nu acum
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
 mr1-onboarding-import-secondary-button-label = Nu acum
+mr1-onboarding-theme-primary-button-label = Salvează tema
 mr1-onboarding-theme-secondary-button-label = Nu acum
+# "Alpenglow" here is the name of the theme, and should be kept in English.
+mr1-onboarding-theme-label-alpenglow = Alpenglow
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
