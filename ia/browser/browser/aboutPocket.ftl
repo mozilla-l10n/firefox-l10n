@@ -15,6 +15,7 @@ pocket-panel-saved-error-generic = Un error occurreva durante le tentativa de sa
 pocket-panel-saved-error-tag-length = Le etiquettas es limitate a 25 characteres
 pocket-panel-saved-error-only-links = Solmente ligamines pote esser salvate
 pocket-panel-saved-error-not-saved = Pagina non salvate
+pocket-panel-saved-error-no-internet = Tu debe esser connectite a internet pro salvar in { -pocket-brand-name }. Connecte te e retenta.
 pocket-panel-saved-page-removed = Pagina removite
 pocket-panel-saved-page-saved = Salvate in { -pocket-brand-name }
 pocket-panel-saved-processing-remove = Remotion del pagina…
