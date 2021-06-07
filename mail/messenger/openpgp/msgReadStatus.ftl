@@ -37,3 +37,12 @@ openpgp-enc-key-with-subkey-id = Waš dešifrowanski ID signowarja: { $key } (po
 openpgp-unknown-key-id = Njeznaty kluč
 openpgp-other-enc-additional-key-ids = Nimo toho je so powěsć za wobsedźerjow slědowacych klučow zaklučowała:
 openpgp-other-enc-all-key-ids = Powěsć je so za wobsedźerjow slědowacych klučow zaklučowała:
+openpgp-message-header-encrypted-ok-icon =
+    .alt = Dešifrowanje wuspěšne
+openpgp-message-header-encrypted-notok-icon =
+    .alt = Dešifrowanje je so nimokuliło
+openpgp-message-header-signed-ok-icon =
+    .alt = Dobra signatura
+# Mismatch icon is used for notok state as well
+openpgp-message-header-signed-mismatch-icon =
+    .alt = Špatna signatura
