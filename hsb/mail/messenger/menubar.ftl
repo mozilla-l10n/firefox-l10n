@@ -47,6 +47,12 @@ toolbar-undelete-button =
     .label = Wobnowić
     .tooltiptext = Wubrane powěsće wobnowić
 
+## View
+
+menu-view-repair-text-encoding =
+    .label = Tekstowe kodowanje reparować
+    .accesskey = d
+
 ## View / Layout
 
 mail-uidensity-label =
