@@ -33,6 +33,7 @@ pocket-panel-signup-learn-more = Lue lisää
 pocket-panel-signup-login = Kirjaudu sisään
 pocket-panel-signup-signup-email = Rekisteröidy sähköpostiosoitteella
 pocket-panel-signup-signup-cta = Rekisteröidy { -pocket-brand-name }-palveluun. Se on ilmaista.
+pocket-panel-signup-signup-firefox = Rekisteröidy { -brand-product-name }-tilillä
 pocket-panel-signup-tagline = Tallenna artikkelit ja videot { -brand-product-name }ista { -pocket-brand-name }-palveluun katseltaviksi millä tahansa laitteella, koska tahansa.
 pocket-panel-signup-tagline-story-one = Napsauta { -pocket-brand-name }-painiketta tallentaaksesi artikkelin, videon tai sivun { -brand-product-name }issa.
 pocket-panel-signup-tagline-story-two = Katsele { -pocket-brand-name }-palvelussa millä tahansa laitteella, koska tahansa.
