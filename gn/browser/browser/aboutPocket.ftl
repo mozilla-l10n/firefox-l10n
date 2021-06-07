@@ -34,8 +34,15 @@ pocket-panel-signup-login = Eike
 pocket-panel-signup-signup-email = Eike ñanduti veve ndive
 pocket-panel-signup-signup-cta = Eñemboheraguapy { -pocket-brand-name }-pe. Reiete.
 pocket-panel-signup-signup-firefox = Eñemboheraguapy { -brand-product-name } ndive
+pocket-panel-signup-tagline = Eñongatu jehaipyre ha ta’ãngamýi { -brand-product-name } guive ehecha hag̃ua { -pocket-brand-name }-pe oimeraẽva mba’o’kápe ejapose vove.
 pocket-panel-signup-tagline-story-one = Eikutu pe votõ { -pocket-brand-name } eñongatu hag̃ua marandu, ta’angamýi térã kuatiarogue { -brand-product-name } guive.
 pocket-panel-signup-tagline-story-two = Ehecha { -pocket-brand-name }-pe mba’e’oka guive ejapose vove.
 
 ## about:pocket-home panel
 
+pocket-panel-home-my-list = Che mba’erysýi
+pocket-panel-home-welcome-back = Eg̃uahẽporã jey
+pocket-panel-home-paragraph = Eipurukuaa { -pocket-brand-name } eheka hag̃ua ha eñongatu ñanduti kuatiarogue, jehaipyre, ta’ãngamýi, podcasts térã ejevyjey emoñe’ẽva’ekuépe.
+pocket-panel-home-explore-popular-topics = Ehekaporã téma oñehenduvéva
+pocket-panel-home-discover-more = Ejuhukuaave
+pocket-panel-home-explore-more = Ehapykueho
