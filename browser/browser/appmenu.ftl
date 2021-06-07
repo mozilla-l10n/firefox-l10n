@@ -15,6 +15,8 @@ appmenuitem-new-window =
     .label = Fereastră nouă
 appmenuitem-new-private-window =
     .label = Fereastră privată nouă
+appmenuitem-find-in-page =
+    .label = Caută în pagină…
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
