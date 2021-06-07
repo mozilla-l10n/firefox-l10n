@@ -40,3 +40,9 @@ pocket-panel-signup-tagline-story-two = Ikusi edozein gailutan { -pocket-brand-n
 
 ## about:pocket-home panel
 
+pocket-panel-home-my-list = Nire zerrenda
+pocket-panel-home-welcome-back = Ongi etorri berriz ere
+pocket-panel-home-paragraph = { -pocket-brand-name } erabil dezakezu webguneak, artikuluak, bideoak, podcastak arakatu eta gordetzeko edo irakurtzen ari zinenera itzultzeko.
+pocket-panel-home-explore-popular-topics = Arakatu puri-purian dauden gaiak
+pocket-panel-home-discover-more = Aurkitu gehiago
+pocket-panel-home-explore-more = Arakatu
