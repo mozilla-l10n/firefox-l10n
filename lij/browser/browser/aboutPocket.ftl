@@ -28,6 +28,7 @@ pocket-panel-signup-view-list = Veddi elenco
 
 ## about:pocket-signup panel
 
+pocket-panel-signup-already-have = Ti gh'æ za 'n conto registròu in sce { -pocket-brand-name }?
 pocket-panel-signup-learn-more = Atre informaçioin
 pocket-panel-signup-login = Intra
 pocket-panel-signup-signup-email = Acedi con l'email
