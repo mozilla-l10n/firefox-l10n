@@ -159,6 +159,7 @@ language-name-ru = Rušćina
 language-name-rw = Kinjarwanda
 language-name-sa = Sanskrit
 language-name-sc = Sardinšćina
+language-name-sco = Šotiska jendźelšćina
 language-name-sd = Sindišćina, Sindhi
 language-name-se = Sewjerna Samišćina
 language-name-sg = Sango
