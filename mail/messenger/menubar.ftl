@@ -47,6 +47,12 @@ toolbar-undelete-button =
     .label = Відновити
     .tooltiptext = Відновити вибрані повідомлення
 
+## View
+
+menu-view-repair-text-encoding =
+    .label = Відновити кодування тексту
+    .accesskey = к
+
 ## View / Layout
 
 mail-uidensity-label =
