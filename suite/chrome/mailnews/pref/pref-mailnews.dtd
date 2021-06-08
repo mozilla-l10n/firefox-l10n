@@ -5,21 +5,21 @@
 <!ENTITY pref.mailnews.title              "ფოსტა და ჯგუფები">
 <!ENTITY generalSettings.caption          "ძირითადი პარამეტრები">
 <!ENTITY confirmMove.label                "თანხმობის მოთხოვნა საქაღალდის ურნაში გადატანისას">
-<!ENTITY confirmMove.accesskey            "C">
+<!ENTITY confirmMove.accesskey            "ხ">
 <!ENTITY preserveThreading.label          "მიმოწერის შენარჩუნება წერილების დახარისხებისას">
 <!ENTITY preserveThreading.accesskey      "ნ">
 <!ENTITY loadInBackground.label           "ახალ ჩანართებზე გადასვლა გახსნისთანავე">
-<!ENTITY loadInBackground.accesskey       "დ">
+<!ENTITY loadInBackground.accesskey       "ს">
 <!ENTITY mailBiffOnNewWindow.label        "ახალი ფოსტის შემოწმება მხოლოდ ფოსტისა და სიახლეთა ჯგუფების გახსნის შემდეგ">
-<!ENTITY mailBiffOnNewWindow.accesskey    "O">
+<!ENTITY mailBiffOnNewWindow.accesskey    "დ">
 
-<!ENTITY defaultMailSettings.description  "&brandShortName; პროგრამის ნაგულისხმებად მითთება:">
+<!ENTITY defaultMailSettings.description  "გახადეთ &brandShortName; ნაგულისხმევი:">
 <!ENTITY setDefaultMail.label             "ფოსტისთვის">
-<!ENTITY setDefaultMail.accesskey         "M">
+<!ENTITY setDefaultMail.accesskey         "ფ">
 <!ENTITY setDefaultNews.label             "სიახლეებისთვის">
-<!ENTITY setDefaultNews.accesskey         "N">
+<!ENTITY setDefaultNews.accesskey         "ე">
 <!ENTITY setDefaultFeed.label             "არხებისთვის">
-<!ENTITY setDefaultFeed.accesskey         "e">
+<!ENTITY setDefaultFeed.accesskey         "ბ">
 
 <!ENTITY useInternalSettings.description  "&brandShortName; ფოსტისა &amp; სიახლეების გამოყენება, ბრაუზერის ბმულების გახსნისას:">
 <!ENTITY useInternalMail.label            "ფოსტა (mailto:)">
@@ -28,7 +28,7 @@
 <!ENTITY useInternalNews.accesskey        "s">
 
 <!ENTITY messengerStartPage.caption       "ფოსტის საწყისი გვერდი">
-<!ENTITY enableStartPage.label            "საფოსტო სეანსის გაშვებისას, საწყისი გვერდის ჩვენება წერილების არეში">
+<!ENTITY enableStartPage.label            "როცა ფოსტა გაეშვება, გამოჩნდეს საწყისი გვერდი წერილების არეში">
 <!ENTITY enableStartPage.accesskey        "W">
 <!ENTITY location.label                   "მისამართი:">
 <!ENTITY location.accesskey               "L">
