@@ -47,6 +47,12 @@ toolbar-undelete-button =
     .label = Undelete
     .tooltiptext = Undelete selected messages
 
+## View
+
+menu-view-repair-text-encoding =
+    .label = Repair Text Encoding
+    .accesskey = c
+
 ## View / Layout
 
 mail-uidensity-label =
