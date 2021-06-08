@@ -55,8 +55,16 @@ upgrade-dialog-new-primary-pin-button =
         [neuter] { -brand-short-name(case: "acc") }
        *[other] програм { -brand-short-name }
     } на траку задатака
+upgrade-dialog-new-primary-pin-alt-button = Закачи на траку задатака
 upgrade-dialog-new-primary-theme-button = Одабери тему
 upgrade-dialog-new-secondary-button = Не сада
+
+## Pin Firefox screen
+##
+## These title, subtitle and button strings differ between platforms as they
+## match the OS' application context menu item action where Windows uses "pin"
+## and "taskbar" while macOS "keep" and "Dock" (proper noun).
+
 
 ## Default browser screen
 

@@ -10,8 +10,8 @@
 
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
-    .placeholder = Додај ознаку
-pocket-panel-saved-error-generic = Десила се грешка при покушају снимања у { -pocket-brand-name }.
+    .placeholder = Додајте ознаке
+pocket-panel-saved-error-generic = Дошло је до грешке при чувању у { -pocket-brand-name(case: "loc") }.
 pocket-panel-saved-error-tag-length = Ознаке су ограничене на 25 знакова
 pocket-panel-saved-error-only-links = Можете сачувати само везе
 pocket-panel-saved-error-not-saved = Страница није снимљена
@@ -42,3 +42,6 @@ pocket-panel-signup-tagline-story-two = Погледајте у { -pocket-brand-
 
 pocket-panel-home-my-list = Моја листа
 pocket-panel-home-welcome-back = Добро дошли назад
+pocket-panel-home-explore-popular-topics = Истражите популарне теме
+pocket-panel-home-discover-more = Откријте више
+pocket-panel-home-explore-more = Истражите
