@@ -18,6 +18,12 @@ permissions-session =
 permissions-allow =
     .label = Izinkan
     .accesskey = I
+permissions-button-off =
+    .label = Nonaktifkan
+    .accesskey = N
+permissions-button-off-temporarily =
+    .label = Nonaktifkan Sementara
+    .accesskey = S
 permissions-site-name =
     .label = Situs web
 permissions-status =
@@ -58,6 +64,10 @@ permissions-capabilities-listitem-block =
     .value = Blokir
 permissions-capabilities-listitem-allow-session =
     .value = Izinkan untuk Sesi ini
+permissions-capabilities-listitem-off =
+    .value = Nonaktif
+permissions-capabilities-listitem-off-temporarily =
+    .value = Nonaktif sementara
 
 ## Invalid Hostname Dialog
 
@@ -77,6 +87,12 @@ permissions-exceptions-cookie-window =
     .title = Pengecualian - Kuki dan Data Situs
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = Anda dapat menentukan situs web mana saja yang diizinkan atau tidak diizinkan untuk menggunakan kuki dan data situs. Ketik alamat situs secara persis yang ingin dikelola, kemudian klik Blokir, Izinkan untuk Sesi, atau Izinkan.
+
+## Exceptions - HTTPS-Only Mode
+
+permissions-exceptions-https-only-window =
+    .title = Pengecualian - Mode HTTPS-Only
+    .style = { permissions-window.style }
 
 ## Exceptions - Pop-ups
 

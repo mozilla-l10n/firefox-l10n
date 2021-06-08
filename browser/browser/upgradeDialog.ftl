@@ -32,12 +32,23 @@ upgrade-dialog-new-secondary-button = Jangan sekarang
 # theme selection screen.
 upgrade-dialog-new-primary-win7-button = Oke, paham
 
+## Pin Firefox screen
+##
+## These title, subtitle and button strings differ between platforms as they
+## match the OS' application context menu item action where Windows uses "pin"
+## and "taskbar" while macOS "keep" and "Dock" (proper noun).
+
+upgrade-dialog-pin-secondary-button = Jangan sekarang
+
 ## Default browser screen
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-default-title = Jadikan { -brand-short-name } peramban baku Anda?
 upgrade-dialog-default-subtitle = Dapatkan kecepatan, keamanan, dan privasi setiap kali Anda menjelajah.
 upgrade-dialog-default-primary-button = Setel sebagai peramban baku
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title-2 = Jadikan { -brand-short-name } peramban baku Anda
+upgrade-dialog-default-primary-button-2 = Jadikan sebagai peramban baku
 upgrade-dialog-default-secondary-button = Jangan sekarang
 
 ## Theme selection screen
