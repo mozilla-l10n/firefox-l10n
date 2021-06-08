@@ -82,6 +82,14 @@ upgrade-dialog-default-title =
     } као подразумевани прегледач?
 upgrade-dialog-default-subtitle = Претражујте интернет брзо, безбедно и приватно.
 upgrade-dialog-default-primary-button = Постави као подразумевани прегледач
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title-2 =
+    Постави { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "acc") }
+        [feminine] { -brand-short-name(case: "acc") }
+        [neuter] { -brand-short-name(case: "acc") }
+       *[other] програм { -brand-short-name }
+    } као подразумевани прегледач
 upgrade-dialog-default-secondary-button = Не сада
 
 ## Theme selection screen
