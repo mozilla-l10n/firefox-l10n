@@ -47,6 +47,12 @@ toolbar-undelete-button =
     .label = Peruuta poistaminen
     .tooltiptext = Peruuta valittujen viestien poistaminen
 
+## View
+
+menu-view-repair-text-encoding =
+    .label = Korjaa merkistökoodaus
+    .accesskey = K
+
 ## View / Layout
 
 mail-uidensity-compact =
