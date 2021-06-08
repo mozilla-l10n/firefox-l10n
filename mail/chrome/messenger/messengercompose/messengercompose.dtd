@@ -83,9 +83,6 @@
 <!ENTITY reorderAttachmentsCmd.accesskey "ლ">
 <!ENTITY reorderAttachmentsCmd.key "x">
 <!ENTITY toggleAttachmentPaneCmd.label "დანართის არე">
-<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
-     For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
-     as attachments.accesskey. -->
 <!ENTITY toggleAttachmentPaneCmd.accesskey "დ">
 <!ENTITY selectAllCmd.accesskey "შ">
 <!ENTITY findBarCmd.label "პოვნა…">
@@ -271,7 +268,7 @@
 <!ENTITY smiley9Cmd.label "კოცნა">
 <!ENTITY smiley10Cmd.label "ყვირილი">
 <!ENTITY smiley11Cmd.label "კმაყოფილება">
-<!ENTITY smiley12Cmd.label "განურჩევლობა">
+<!ENTITY smiley12Cmd.label "ფულიანი">
 <!ENTITY smiley13Cmd.label "ჩაქოლვა">
 <!ENTITY smiley14Cmd.label "უმანკოება">
 <!ENTITY smiley15Cmd.label "ტირილი">

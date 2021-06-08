@@ -261,6 +261,7 @@
 <!ENTITY tableProperties.label "ცხრილის პარამეტრები…">
 <!ENTITY tableProperties.accesskey "ი">
 
+<!-- Toolbar-only items -->
 <!ENTITY imageToolbarCmd.label "გამოსახულება">
 <!ENTITY imageToolbarCmd.tooltip "ახალი სურათის ჩამატება ან მონიშნული გამოსახულების ჩასწორება">
 <!ENTITY hruleToolbarCmd.label "თ.ხაზი">
@@ -285,7 +286,7 @@
 <!ENTITY numberListToolbarCmd.tooltip "გადნომრილი სიის ჩადგმა ან ამოღება">
 <!ENTITY outdentToolbarCmd.tooltip "გამოწეული აბზაცი (მარცხნივ)">
 <!ENTITY indentToolbarCmd.tooltip "ჩვეულებრივი აბზაცი (მარჯვნივ)">
-<!ENTITY AlignPopupButton.tooltip "ტექსტის განთავსების არჩევა">
+<!ENTITY AlignPopupButton.tooltip "ტექსტის განთავსება">
 <!ENTITY InsertPopupButton.tooltip "ბმულის, ღუზის, სურათის, ჰორიზონტული ხაზის ან ცხრილის ჩამატება">
 <!ENTITY alignLeftButton.tooltip "ტექსტის სწორება მარცხნივ">
 <!ENTITY alignCenterButton.tooltip "ტექსტის სწორება ცენტრზე">
