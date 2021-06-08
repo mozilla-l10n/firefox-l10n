@@ -12,7 +12,7 @@ safeb-blocked-unwanted-page-short-desc = { -brand-short-name } је блокир
 safeb-blocked-harmful-page-short-desc = { -brand-short-name } је блокирао ову страницу зато што може покушати да инсталира опасне програме који би украли или обрисали ваше податке (на пример, слике, лозинке, поруке и кредитне картице).
 safeb-palm-advisory-desc = Саветодавно мишљење дато од <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
 safeb-palm-accept-label = Назад
-safeb-palm-see-details-label = Погледајте детаље
+safeb-palm-see-details-label = Прикажи детаље
 safeb-blocked-phishing-page-error-desc-override = Сајт <span data-l10n-name='sitename'>{ $sitename }</span> је <a data-l10n-name='error_desc_link'>пријављен као обмањујућ</a>. Ако мислите да је то грешка, <a data-l10n-name='report_detection'>пријавите проблем</a> или <a data-l10n-name='ignore_warning_link'>игноришите упозорење</a> и наставите на сајт.
 safeb-blocked-phishing-page-error-desc-no-override = Сајт <span data-l10n-name='sitename'>{ $sitename }</span> је <a data-l10n-name='error_desc_link'>пријављен као обмањујућ</a>. Ако мислите да је то грешка, <a data-l10n-name='report_detection'>пријавите проблем</a>.
 safeb-blocked-phishing-page-learn-more = Сазнајте више о обманљивим сајтовима и “пецању” на <a data-l10n-name='learn_more_link'>www.antiphishing.org</a>. Сазнајте више о { -brand-short-name }-овој заштити од “пецања” и злонамерног софтвера на <a data-l10n-name='firefox_support'>support.mozilla.org</a>.

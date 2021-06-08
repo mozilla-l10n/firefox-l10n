@@ -169,7 +169,6 @@ appmenu-update-other-instance-message =
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = У реду
     .buttonaccesskey = У
-appmenu-addon-post-install-message2 = Управљајте додацима и темама из менија програма.
 appmenu-addon-post-install-message3 = Управљајте додацима и темама из менија програма.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Дозволи рад у приватним прозорима

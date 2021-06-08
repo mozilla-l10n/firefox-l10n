@@ -216,7 +216,7 @@ addon-updates-reset-updates-to-manual = Све додатке мануелно �
 addon-updates-updating = Ажурирам додатке
 addon-updates-installed = Ваши додаци су ажурирани.
 addon-updates-none-found = Нема ажурирања
-addon-updates-manual-updates-found = Погледај доступна ажурирања
+addon-updates-manual-updates-found = Прикажи доступна ажурирања
 
 ## Add-on install/debug strings for page options menu
 

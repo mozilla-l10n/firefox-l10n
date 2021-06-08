@@ -21,4 +21,4 @@
 <!ENTITY fillUsernameMenu.label       "Попуни корисничко име">
 <!ENTITY fillUsernameMenu.accesskey   "П">
 <!ENTITY noLoginSuggestions.label     "(нема предлога пријаве)">
-<!ENTITY viewSavedLogins.label        "Погледај снимљене пријаве">
+<!ENTITY viewSavedLogins.label        "Прикажи сачуване пријаве">

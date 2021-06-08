@@ -113,7 +113,7 @@ cfr-whatsnew-tracking-blocked-title =
        *[other] Блокираних софтвера за праћење
     }
 cfr-whatsnew-tracking-blocked-subtitle = Од { DATETIME($earliestDate, month: "long", year: "numeric") }
-cfr-whatsnew-tracking-blocked-link-text = Погледајте извештај
+cfr-whatsnew-tracking-blocked-link-text = Прикажи извештај
 cfr-whatsnew-lockwise-backup-title = Направите резервну копију лозинки
 cfr-whatsnew-lockwise-backup-body = Генеришите безбедне лозинке и приступите им свуда.
 cfr-whatsnew-lockwise-backup-link-text = Укључите резерве
@@ -197,8 +197,8 @@ cfr-doorhanger-firefox-send-ok-button = Испробајте { -send-brand-name(
 
 ## Social Tracking Protection
 
-cfr-doorhanger-socialtracking-ok-button = Погледај заштите
-    .accesskey = P
+cfr-doorhanger-socialtracking-ok-button = Прикажи заштите
+    .accesskey = з
 cfr-doorhanger-socialtracking-close-button = Затвори
     .accesskey = C
 cfr-doorhanger-socialtracking-dont-show-again = Немој ми више показивати овакве поруке
