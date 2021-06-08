@@ -311,9 +311,32 @@ onboarding-multistage-theme-description-alpenglow =
 # Firefox to pursue those passions, as well as the boldness in their
 # choice to use Firefox over a larger competitor browser.
 # An alternative title for localization is: "It starts here".
+# This text can be formatted to span multiple lines as needed.
 mr1-welcome-screen-hero-text = Све почиње овде
+# Caption for background image in about:welcome. "Soraya Osorio" is the name
+# of the person and shouldn't be translated.
+# In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
+# You can see the picture in about:welcome in Nightly 90.
+mr1-onboarding-welcome-image-caption = Soraya Osorio — дизајнерка намештаја, обожаватељка Firefox-а
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Искључи анимације
+
+## Title and primary button strings differ between platforms as they
+## match the OS' application context menu item action where Windows uses "pin"
+## and "taskbar" while macOS "keep" and "Dock" (proper noun).
+
+# Primary button string used on welcome page when Firefox is not pinned.
+mr1-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Додај на док
+       *[other] Закачи на траку задатака
+    }
+
+## Multistage MR1 onboarding strings (about:welcome pages)
+
+# This string will be used on welcome page primary button label
+# when Firefox is both pinned and default
+mr1-onboarding-get-started-primary-button-label = Увод
 mr1-onboarding-welcome-header =
     Добро дошли у { -brand-short-name.gender ->
         [masculine] { -brand-short-name(case: "acc") }
@@ -335,6 +358,8 @@ mr1-onboarding-set-default-pin-primary-button-label =
             [neuter] { -brand-short-name(case: "acc") } као подразумевани прегледач и качи га
            *[other] програм { -brand-short-name } као подразумевани прегледач и качи га
         } на траку задатака
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
 mr1-onboarding-set-default-only-primary-button-label =
     Постави { -brand-short-name.gender ->
         [masculine] { -brand-short-name(case: "acc") }
@@ -344,6 +369,13 @@ mr1-onboarding-set-default-only-primary-button-label =
     } као подразумевани прегледач
 mr1-onboarding-set-default-secondary-button-label = Не сада
 mr1-onboarding-sign-in-button-label = Пријави ме
+
+## Title, subtitle and primary button string used on set default onboarding screen
+## when Firefox is not default browser
+
+
+## Multistage MR1 onboarding strings (about:welcome pages)
+
 mr1-onboarding-import-header = Понесите све са собом
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:

@@ -58,6 +58,9 @@ upgrade-dialog-new-primary-pin-button =
 upgrade-dialog-new-primary-pin-alt-button = Закачи на траку задатака
 upgrade-dialog-new-primary-theme-button = Одабери тему
 upgrade-dialog-new-secondary-button = Не сада
+# This string is only shown on Windows 7, where we intentionally suppress the
+# theme selection screen.
+upgrade-dialog-new-primary-win7-button = Разумем
 
 ## Pin Firefox screen
 ##
@@ -65,6 +68,7 @@ upgrade-dialog-new-secondary-button = Не сада
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
+upgrade-dialog-pin-secondary-button = Не сада
 
 ## Default browser screen
 
