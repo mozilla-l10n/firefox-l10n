@@ -445,6 +445,7 @@ sharing-warning-proceed-to-tab =
 
 ## DevTools F12 popup
 
+enable-devtools-popup-description = F12 চমুপথ ব্যৱহাৰ কৰিবলৈ প্ৰথমে ৱেব বিকাশকৰ্তা মেন্যুৰ জৰিয়তে DevTools খোলক।
 
 ## URL Bar
 
@@ -488,6 +489,11 @@ urlbar-placeholder-with-name =
     .placeholder = { $name }-এৰে সন্ধান কৰক নাইবা ঠিকনা লিখক
 urlbar-remote-control-notification-anchor =
     .tooltiptext = ব্ৰাউজাৰ ৰিম'ট কণ্ট্ৰ'লৰ আওতাত আছে
+# Variables
+#  $component (String): the name of the component which forces remote control.
+#    Example: "DevTools", "Marionette", "RemoteAgent".
+urlbar-remote-control-notification-anchor2 =
+    .tooltiptext = ব্ৰাউজাৰ ৰিম'ট কণ্ট্ৰ'লৰ অধীনত আছে (কাৰণ: { $component })
 urlbar-permissions-granted =
     .tooltiptext = আপুনি এই ছাইটটোক অতিৰিক্ত অনুমতি প্ৰদান কৰিছে।
 urlbar-switch-to-tab =
@@ -518,7 +524,29 @@ urlbar-result-action-search-in-private = ব্যক্তিগত উইণ�
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = { $engine } ৰ সৈতে সন্ধান কৰক
+urlbar-result-action-sponsored = পৃষ্ঠপোষকতা কৰা
+urlbar-result-action-switch-tab = টেবলৈ সলাওক
 urlbar-result-action-visit = দৰ্শন কৰক
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-before-tabtosearch-web = { $engine }-এৰে সন্ধান কৰিবলৈ Tab টিপক
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-before-tabtosearch-other = { $engine }-ত সন্ধান কৰিবলৈ Tab টিপক
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-tabtosearch-web = { $engine }-এৰে চিধাই আপোনাৰ ঠিকনা দণ্ডিকাৰ পৰা সন্ধান কৰক
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-tabtosearch-other-engine = { $engine }-ত চিধাই আপোনাৰ ঠিকনা দণ্ডিকাৰ পৰা সন্ধান কৰক
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = কপি কৰক
 # Shows the result of a formula expression being calculated, the last = sign will be shown
