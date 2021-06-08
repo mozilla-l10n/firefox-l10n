@@ -66,7 +66,6 @@ category-experimental =
     .tooltiptext = Experiências do { -brand-short-name }
 pane-experimental-subtitle = Avançar com cuidado
 pane-experimental-search-results-header = Experiências { -brand-short-name }: Prosseguir com cuidado
-pane-experimental-description = Alterar as preferências avançadas de configuração pode interferir com o desempenho ou segurança do { -brand-short-name }.
 pane-experimental-description2 = Alterar definições de configuração avançadas pode interferir com o desempenho ou segurança do { -brand-short-name }.
 pane-experimental-reset =
     .label = Repor predefinições
@@ -1018,8 +1017,8 @@ enhanced-tracking-protection-setting-custom =
 content-blocking-etp-standard-desc = Balanceado para proteção e desempenho. As páginas serão carregadas normalmente.
 content-blocking-etp-strict-desc = Proteção mais forte, mas pode causar problemas em alguns sites ou conteúdos.
 content-blocking-etp-custom-desc = Escolha quais os rastreadores e scripts a bloquear.
+content-blocking-etp-blocking-desc = O { -brand-short-name } bloqueia o seguinte:
 content-blocking-private-windows = Conteúdo de monitorização nas janelas privadas
-content-blocking-cross-site-cookies = Cookies inter-sites
 content-blocking-cross-site-cookies-in-all-windows = Cookies entre sites em todas as janelas (inclui cookies de rastreamento)
 content-blocking-cross-site-tracking-cookies = Cookies de monitorização entre sites
 content-blocking-all-cross-site-cookies-private-windows = Cookies entre sites em janelas privadas
@@ -1142,6 +1141,8 @@ collection-backlogged-crash-reports =
     .label = Permitir que o { -brand-short-name } envie os relatórios pendentes de falhas em seu nome
     .accesskey = f
 collection-backlogged-crash-reports-link = Saber mais
+collection-backlogged-crash-reports-with-link = Permitir que a { -brand-short-name } envie relatórios de falhas acumuladas em seu nome. <a data-l10n-name="crash-reports-link">Saber mais</a>
+    .accesskey = f
 
 ## Privacy Section - Security
 ##

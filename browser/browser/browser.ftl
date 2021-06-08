@@ -181,8 +181,6 @@ page-action-send-tabs-urlbar =
             [one] Enviar separador para dispositivo
            *[other] Enviar { $tabCount } separadores para dispositivo
         }
-page-action-pocket-panel =
-    .label = Guardar página no { -pocket-brand-name }
 page-action-copy-url-panel =
     .label = Copiar ligação
 page-action-copy-url-urlbar =
@@ -247,6 +245,14 @@ search-one-offs-context-set-as-default-private =
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
+# Shown when adding new engines from the address bar shortcut buttons or context
+# menu, or from the search bar shortcut buttons.
+# Variables:
+#  $engineName (String): The name of the engine.
+search-one-offs-add-engine =
+    .label = Adicionar o “{ $engineName }”
+    .tooltiptext = Adicionar o motor de pesquisa do “{ $engineName }”
+    .aria-label = Adicionar o motor de pesquisa do “{ $engineName }”
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -306,6 +312,7 @@ identity-header-security-with-host =
     .title = Segurança da ligação para { $host }
 identity-connection-not-secure = Ligação insegura
 identity-connection-secure = Ligação segura
+identity-connection-failure = Falha de ligação
 identity-connection-internal = Esta é uma página segura do { -brand-short-name }.
 identity-connection-file = Esta página está armazenada no seu computador.
 identity-extension-page = Esta página está carregada a partir de uma extensão.
@@ -505,6 +512,11 @@ urlbar-placeholder-with-name =
     .placeholder = Pesquisar com { $name } ou introduzir endereço
 urlbar-remote-control-notification-anchor =
     .tooltiptext = O navegador está sob controlo remoto
+# Variables
+#  $component (String): the name of the component which forces remote control.
+#    Example: "DevTools", "Marionette", "RemoteAgent".
+urlbar-remote-control-notification-anchor2 =
+    .tooltiptext = O navegador está sob controlo remoto (motivo: { $component })
 urlbar-permissions-granted =
     .tooltiptext = Concedeu permissões adicionais a este site.
 urlbar-switch-to-tab =
@@ -601,8 +613,6 @@ crashed-subframe-submit =
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = Mostrar todos os marcadores
 bookmarks-manage-bookmarks =
     .label = Gerir marcadores
 bookmarks-recent-bookmarks-panel-subheader = Marcadores recentes
@@ -675,6 +685,9 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = Guardar no { -pocket-brand-name }
     .tooltiptext = Guardar no { -pocket-brand-name }
+
+## Repair text encoding toolbar button
+
 
 ## Customize Toolbar Buttons
 

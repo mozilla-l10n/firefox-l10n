@@ -61,6 +61,8 @@ options-screenshot-label = Comportamento da captura de ecrã
 options-screenshot-clipboard-label = Tirar uma captura de ecrã para a área de transferência
 options-screenshot-clipboard-tooltip =
     .title = Guarda a captura de ecrã diretamente para a área de transferência
+# Label for the checkbox that toggles screenshot to clipboard feature
+options-screenshot-clipboard-only-label = Capturar o ecrã para a área de transferência apenas
 options-screenshot-clipboard-tooltip2 =
     .title = Guarda a captura de ecrã diretamente para a área de transferência
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool

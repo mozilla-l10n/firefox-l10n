@@ -52,6 +52,43 @@ about-processes-unknown-process-name = Outro ({ $type }, processo { $pid })
 #   $pid (String) The process id of this process, assigned by the OS.
 about-processes-process-name = Processo { $pid }: { $name }
 
+## Process names
+## Variables:
+##    $pid (String) The process id of this process, assigned by the OS.
+
+about-processes-browser-process = { -brand-short-name } ({ $pid })
+about-processes-web-process = Processo web partilhado ({ $pid })
+about-processes-file-process = Ficheiros ({ $pid })
+about-processes-extension-process = Extensões ({ $pid })
+about-processes-privilegedabout-process = Páginas de informação ({ $pid })
+about-processes-plugin-process = Plug-ins ({ $pid })
+about-processes-privilegedmozilla-process = Sites { -vendor-short-name } ({ $pid })
+about-processes-gmp-plugin-process = Plug-ins de media Gecko ({ $pid })
+about-processes-gpu-process = GPU ({ $pid })
+about-processes-vr-process = VR ({ $pid })
+about-processes-rdd-process = Descodificador de dados ({ $pid })
+about-processes-socket-process = Rede ({ $pid })
+about-processes-remote-sandbox-broker-process = Agente de isolamento remoto ({ $pid })
+about-processes-fork-server-process = Fork do servidor ({ $pid })
+about-processes-preallocated-process = Pré-alocado ({ $pid })
+# Unknown process names
+# Variables:
+#    $pid (String) The process id of this process, assigned by the OS.
+#    $type (String) The raw type for this process.
+about-processes-unknown-process = Outro: { $type } ({ $pid })
+
+## Isolated process names
+## Variables:
+##    $pid (String) The process id of this process, assigned by the OS.
+##    $origin (String) The domain name for this process.
+
+about-processes-web-isolated-process = { $origin } ({ $pid })
+about-processes-web-large-allocation-process = { $origin } ({ $pid }, grande)
+about-processes-with-coop-coep-process = { $origin } ({ $pid }, origem cruzada isolada)
+about-processes-web-isolated-process-private = { $origin } — Privado ({ $pid })
+about-processes-web-large-allocation-process-private = { $origin } — Privado ({ $pid }, grande)
+about-processes-with-coop-coep-process-private = { $origin } — Privado ({ $pid }, origem cruzada isolada)
+
 ## Details within processes
 
 # Single-line summary of threads
@@ -65,6 +102,32 @@ about-processes-thread-summary = Threads ({ $number })
 #   $name (String) The name assigned to the thread.
 #   $tid (String) The thread id of this thread, assigned by the OS.
 about-processes-thread-name = Thread { $tid }: { $name }
+# Single-line summary of threads (non-idle process)
+# Variables:
+#    $number (Number) The number of threads in the process. Typically larger
+#                     than 30. We don't expect to ever have processes with less
+#                     than 5 threads.
+#    $active (Number) The number of active threads in the process.
+#                     The value will be greater than 0 and will never be
+#                     greater than $number.
+#    $list (String) Comma separated list of active threads.
+#                   Can be an empty string if the process is idle.
+about-processes-active-threads =
+    { $active ->
+        [one] { $active } thread ativa de { $number }: { $list }
+       *[other] { $active } threads ativas de { $number }: { $list }
+    }
+# Single-line summary of threads (idle process)
+# Variables:
+#    $number (Number) The number of threads in the process. Typically larger
+#                     than 30. We don't expect to ever have processes with less
+#                     than 5 threads.
+#                     The process is idle so all threads are inactive.
+about-processes-inactive-threads =
+    { $number ->
+        [one] { $number } thread inativa
+       *[other] { $number } threads inativas
+    }
 # Tab
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
