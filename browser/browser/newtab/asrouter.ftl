@@ -222,8 +222,6 @@ cfr-doorhanger-milestone-heading2 =
     }
 cfr-doorhanger-milestone-ok-button = ყველას ნახვა
     .accesskey = ნ
-cfr-doorhanger-milestone-close-button = დახურვა
-    .accesskey = ხ
 
 ## What’s New Panel Content for Firefox 76
 
@@ -248,6 +246,8 @@ cfr-whatsnew-pip-fullscreen-icon-alt = ეკრანი-ეკრანში 
 
 ## Protections Dashboard message
 
+cfr-doorhanger-milestone-close-button = დახურვა
+    .accesskey = ხ
 
 ## What’s New Panel Content for Firefox 76
 ## Protections Dashboard message
@@ -266,8 +266,6 @@ cfr-whatsnew-better-pdf-body = PDF-დოკუმენტებს ახლ�
 
 cfr-doorhanger-doh-body = თქვენი პირადულობა უმნიშვნელოვანესია. { -brand-short-name } ახლა უკვე უსაფრთხოდ გადაამისამართებს თქვენს DNS-მოთხოვნებს, როცა კი შესაძლებელი იქნება, პარტნიორი მომსახურების მეშვეობით, რომ გვერდების მონახულებისას მუდამ დაცული იყოთ.
 cfr-doorhanger-doh-header = მეტად უსაფრთხო, დაშიფრული DNS-გარდაქმნები
-cfr-doorhanger-doh-primary-button = კარგი, გასაგებია
-    .accesskey = კ
 cfr-doorhanger-doh-primary-button-2 = კარგი
     .accesskey = კ
 cfr-doorhanger-doh-secondary-button = გამორთვა
@@ -313,3 +311,10 @@ cfr-whatsnew-bookmarking-body = საყვარელ საიტებზ�
 
 cfr-whatsnew-cross-site-tracking-header = ყოვლისმომცველი დაცვა საიტთაშორისი ფუნთუშებით თვალთვალისგან
 cfr-whatsnew-cross-site-tracking-body = ახლა უკვე შეგიძლიათ ისარგებლოთ ფუნთუშებით თვალთვალისგან გაუმჯობესებული დაცვით. { -brand-short-name } გამოაცალკევებს, მიმდინარე საიტზე თქვენი მოქმედებების შესახებ ინფორმაციას და შესაბამისად, ბრაუზერში შენახული მონაცემები ვეღარ გაზიარდება სხვადასხვა საიტებს შორის.
+
+## Full Video Support CFR message
+
+cfr-doorhanger-video-support-body = ვიდეოებს ამ საიტზე, სათანადოდ ვერ უშვებს ამ ვერსიის { -brand-short-name }. ვიდეოების სრული მხარდაჭერისთვის, განაახლეთ { -brand-short-name } ახლავე.
+cfr-doorhanger-video-support-header = განაახლეთ { -brand-short-name } ვიდეოს გასაშვებად
+cfr-doorhanger-video-support-primary-button = განახლება ახლავე
+    .accesskey = გ
