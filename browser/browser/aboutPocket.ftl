@@ -49,6 +49,7 @@ pocket-panel-signup-tagline-story-two = Погледајте у { -pocket-brand-
 
 pocket-panel-home-my-list = Моја листа
 pocket-panel-home-welcome-back = Добро дошли назад
+pocket-panel-home-paragraph = { -pocket-brand-name(case: "acc") } можете да користите за откривање и чување веб-страница, чланака, видео-снимака и подкаста, а можете се и вратити ономе што сте читали.
 pocket-panel-home-explore-popular-topics = Истражите популарне теме
 pocket-panel-home-discover-more = Откријте више
 pocket-panel-home-explore-more = Истражите
