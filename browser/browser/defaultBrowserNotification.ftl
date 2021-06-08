@@ -32,6 +32,13 @@ default-browser-prompt-message-pin =
         [neuter] { -brand-short-name } буде надохват руке – поставите га
        *[other] програм { -brand-short-name } буде надохват руке – поставите га
     } као подразумевани прегледач и закачите на траку задатака.
+default-browser-prompt-message-pin-mac =
+    Нека вам { -brand-short-name.gender ->
+        [masculine] { -brand-short-name } буде надохват руке – поставите га
+        [feminine] { -brand-short-name } буде надохват руке – поставите је
+        [neuter] { -brand-short-name } буде надохват руке – поставите га
+       *[other] програм { -brand-short-name } буде надохват руке – поставите га
+    } као подразумевани прегледач и додајте на док.
 default-browser-prompt-button-primary-pin = Постави као примарни прегледач
 default-browser-prompt-title-alt =
     Поставити { -brand-short-name.gender ->

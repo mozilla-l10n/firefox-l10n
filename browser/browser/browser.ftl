@@ -183,8 +183,6 @@ page-action-send-tabs-urlbar =
             [few] Пошаљи { $tabCount } картице на уређај
            *[other] Пошаљи { $tabCount } картица на уређај
         }
-page-action-pocket-panel =
-    .label = Сачувај страницу у { -pocket-brand-name(case: "loc") }
 page-action-copy-url-panel =
     .label = Копирај везу
 page-action-copy-url-urlbar =
@@ -249,6 +247,14 @@ search-one-offs-context-set-as-default-private =
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
+# Shown when adding new engines from the address bar shortcut buttons or context
+# menu, or from the search bar shortcut buttons.
+# Variables:
+#  $engineName (String): The name of the engine.
+search-one-offs-add-engine =
+    .label = Додај „{ $engineName }”
+    .tooltiptext = Додајте претраживач „{ $engineName }”
+    .aria-label = Додајте претраживач „{ $engineName }”
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -309,6 +315,7 @@ identity-header-security-with-host =
     .title = Безбедност везе за { $host }
 identity-connection-not-secure = Веза није безбедна
 identity-connection-secure = Веза је безбедна
+identity-connection-failure = Грешка при повезивању
 identity-connection-internal =
     Ово је безбедна страница { -brand-short-name.gender ->
         [masculine] { -brand-short-name(case: "gen") }
@@ -517,6 +524,11 @@ urlbar-placeholder-with-name =
     .placeholder = Претражите у претраживачу { $name } или унесите адресу
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Прегледач је под даљинским управљањем
+# Variables
+#  $component (String): the name of the component which forces remote control.
+#    Example: "DevTools", "Marionette", "RemoteAgent".
+urlbar-remote-control-notification-anchor2 =
+    .tooltiptext = Прегледач је под даљинским управљањем (разлог: { $component })
 urlbar-permissions-granted =
     .tooltiptext = Овом веб-сајту сте одобрили додатне дозволе.
 urlbar-switch-to-tab =
@@ -613,8 +625,6 @@ crashed-subframe-submit =
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = Прикажи све обележиваче
 bookmarks-manage-bookmarks =
     .label = Управљај обележивачима
 bookmarks-recent-bookmarks-panel-subheader = Недавни обележивачи
@@ -687,6 +697,12 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = Сачувај у { -pocket-brand-name(case: "loc") }
     .tooltiptext = Сачувај у { -pocket-brand-name(case: "loc") }
+
+## Repair text encoding toolbar button
+
+repair-text-encoding-button =
+    .label = Исправи кодни распоред
+    .tooltiptext = Препознаје кодирање текста на основу садржаја странице
 
 ## Customize Toolbar Buttons
 
