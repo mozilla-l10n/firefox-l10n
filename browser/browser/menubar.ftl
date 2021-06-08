@@ -173,6 +173,9 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = Merkistökoodaus
     .accesskey = M
+menu-view-repair-text-encoding =
+    .label = Korjaa merkistökoodaus
+    .accesskey = m
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -254,15 +257,15 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Kirjaudu { -brand-product-name }iin…
     .accesskey = K
+menu-tools-turn-on-sync =
+    .label = Ota { -sync-brand-short-name } käyttöön…
+    .accesskey = O
 menu-tools-addons-and-themes =
     .label = Lisäosat ja teemat
     .accesskey = L
 menu-tools-fxa-sign-in2 =
     .label = Kirjaudu sisään
     .accesskey = K
-menu-tools-turn-on-sync =
-    .label = Ota { -sync-brand-short-name } käyttöön…
-    .accesskey = O
 menu-tools-turn-on-sync2 =
     .label = Ota synkronointi käyttöön…
     .accesskey = O
@@ -287,13 +290,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Tietoja sivusta
     .accesskey = T
-menu-settings =
-    .label = Asetukset
-    .accesskey =
-        { PLATFORM() ->
-            [windows] S
-           *[other] S
-        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -304,6 +300,13 @@ menu-preferences =
         { PLATFORM() ->
             [windows] A
            *[other] A
+        }
+menu-settings =
+    .label = Asetukset
+    .accesskey =
+        { PLATFORM() ->
+            [windows] S
+           *[other] S
         }
 menu-tools-layout-debugger =
     .label = Layout Debugger

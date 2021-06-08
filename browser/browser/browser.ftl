@@ -181,8 +181,6 @@ page-action-send-tabs-urlbar =
             [one] Lähetä välilehti laitteeseen
            *[other] Lähetä { $tabCount } välilehteä laitteeseen
         }
-page-action-pocket-panel =
-    .label = Tallenna sivu { -pocket-brand-name }-palveluun
 page-action-copy-url-panel =
     .label = Kopioi linkki
 page-action-copy-url-urlbar =
@@ -613,8 +611,6 @@ crashed-subframe-submit =
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = Näytä kaikki kirjanmerkit
 bookmarks-manage-bookmarks =
     .label = Järjestele kirjanmerkkejä
 bookmarks-recent-bookmarks-panel-subheader = Uusimmat kirjanmerkit
@@ -687,6 +683,12 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = Tallenna { -pocket-brand-name }-palveluun
     .tooltiptext = Tallenna { -pocket-brand-name }-palveluun
+
+## Repair text encoding toolbar button
+
+repair-text-encoding-button =
+    .label = Korjaa merkistökoodaus
+    .tooltiptext = Arvaa oikea merkistökoodaus sivun sisällöstä
 
 ## Customize Toolbar Buttons
 

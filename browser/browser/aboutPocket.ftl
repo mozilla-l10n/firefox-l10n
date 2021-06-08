@@ -15,6 +15,7 @@ pocket-panel-saved-error-generic = Tapahtui virhe tallennettaessa { -pocket-bran
 pocket-panel-saved-error-tag-length = Tunnisteet voivat olla enintään 25 merkkiä pitkiä
 pocket-panel-saved-error-only-links = Vain linkkejä voidaan tallentaa
 pocket-panel-saved-error-not-saved = Sivua ei ole tallennettu
+pocket-panel-saved-error-no-internet = Tarvitset aktiivisen internetyhteyden tallentaaksesi { -pocket-brand-name }iin. Yhdistä internetiin ja yritä uudelleen.
 pocket-panel-saved-page-removed = Sivu poistettiin
 pocket-panel-saved-page-saved = Tallennettiin { -pocket-brand-name }-palveluun
 pocket-panel-saved-processing-remove = Poistetaan sivu…
