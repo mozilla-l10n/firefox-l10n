@@ -173,6 +173,9 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = Codificação de texto
     .accesskey = C
+menu-view-repair-text-encoding =
+    .label = Corrigir a codificação de texto
+    .accesskey = C
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -254,15 +257,15 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Iniciar sessão no { -brand-product-name }…
     .accesskey = I
+menu-tools-turn-on-sync =
+    .label = Ligar { -sync-brand-short-name }…
+    .accesskey = L
 menu-tools-addons-and-themes =
     .label = Extras e temas
     .accesskey = x
 menu-tools-fxa-sign-in2 =
     .label = Iniciar sessão
     .accesskey = c
-menu-tools-turn-on-sync =
-    .label = Ligar { -sync-brand-short-name }…
-    .accesskey = L
 menu-tools-turn-on-sync2 =
     .label = Ativar a sincronização…
     .accesskey = v
@@ -287,13 +290,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Informação da página
     .accesskey = I
-menu-settings =
-    .label = Definições
-    .accesskey =
-        { PLATFORM() ->
-            [windows] n
-           *[other] n
-        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -304,6 +300,13 @@ menu-preferences =
         { PLATFORM() ->
             [windows] O
            *[other] f
+        }
+menu-settings =
+    .label = Definições
+    .accesskey =
+        { PLATFORM() ->
+            [windows] n
+           *[other] n
         }
 menu-tools-layout-debugger =
     .label = Depurador de layout
@@ -342,14 +345,12 @@ menu-help-import-from-another-browser =
 menu-help-keyboard-shortcuts =
     .label = Atalhos de teclado
     .accesskey = h
-menu-get-help =
-    .label = Obter ajuda
-    .accesskey = j
 menu-help-troubleshooting-info =
     .label = Informação para resolução de problemas
     .accesskey = r
-menu-help-taskmanager =
-    .label = Gestor de tarefas
+menu-get-help =
+    .label = Obter ajuda
+    .accesskey = j
 menu-help-more-troubleshooting-info =
     .label = Mais informação para diagnóstico
     .accesskey = g

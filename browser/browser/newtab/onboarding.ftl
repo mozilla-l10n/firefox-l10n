@@ -281,9 +281,24 @@ mr1-onboarding-reduce-motion-button-label = Desativar as animações
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
+# Title used on welcome page when Firefox is not pinned
+mr1-onboarding-pin-header =
+    { PLATFORM() ->
+        [macos] Mantenha o { -brand-short-name } na sua Doca para um acesso mais fácil
+       *[other] Fixe o { -brand-short-name } na sua barra de tarefas para um acesso mais fácil
+    }
+# Primary button string used on welcome page when Firefox is not pinned.
+mr1-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Manter na Doca
+       *[other] Fixar na barra de tarefas
+    }
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
+# This string will be used on welcome page primary button label
+# when Firefox is both pinned and default
+mr1-onboarding-get-started-primary-button-label = Começar
 mr1-onboarding-welcome-header = Bem-vindo(a) ao { -brand-short-name }
 mr1-onboarding-set-default-pin-primary-button-label = Definir o { -brand-short-name } como o meu navegador principal
     .title = Define o { -brand-short-name } como o navegador principal e fixa o mesmo à barra de tarefas
@@ -296,6 +311,9 @@ mr1-onboarding-sign-in-button-label = Iniciar sessão
 ## Title, subtitle and primary button string used on set default onboarding screen
 ## when Firefox is not default browser
 
+mr1-onboarding-default-header = Predefinir o { -brand-short-name }
+mr1-onboarding-default-subtitle = Coloque a velocidade, segurança e privacidade em piloto automático.
+mr1-onboarding-default-primary-button-label = Predefinir o navegador
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
