@@ -9,6 +9,7 @@ third-party-intro =
     { -brand-short-name }. ნებისმიერი მოდული, რომელსაც Microsoft ან
     { -vendor-short-name } არ აწერს ხელს, მიჩნეულია გარეშე მოდულად.
 third-party-header-module-list = მოდულების სია
+third-party-header-loading-events = იტვირთება ხდომილებები
 third-party-message-empty = გარეშე მოდულები არ აღმოჩენილა.
 third-party-message-no-duration = არაა ჩაწერილი
 third-party-detail-version = ფაილის ვერსია
