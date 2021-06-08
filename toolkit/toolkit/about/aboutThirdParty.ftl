@@ -25,3 +25,25 @@ third-party-th-duration = Duração do carregamento (ms)
 third-party-th-status = Estado
 third-party-tag-ime = IME
     .title = Este tipo de módulo é carregado quando utiliza um IME de terceiros.
+third-party-tag-shellex = Extensão da Shell
+    .title = Este tipo de módulo é carregado quando abre a janela de sistema para ficheiros.
+third-party-tag-background = Segundo plano
+    .title =
+        Este tipo de módulo não bloqueou a aplicação porque foi carregado 
+        em segundo plano.
+third-party-unsigned-icon =
+    .title = Este módulo não está assinado
+third-party-warning-icon =
+    .title = O { -brand-short-name } falhou durante a execução de código deste módulo
+third-party-status-loaded = Carregado
+third-party-status-blocked = Bloqueado
+third-party-status-redirected = Redirecionado
+third-party-button-copy-to-clipboard = Copiar dados em bruto para a área de transferência
+third-party-button-reload = Recarregar com informações do sistema
+    .title = Recarregar com informações do sistema
+third-party-button-open =
+    .title = Abrir localização do ficheiro…
+third-party-button-expand =
+    .title = Mostrar informações detalhadas
+third-party-button-collapse =
+    .title = Recolher informações detalhadas
