@@ -531,15 +531,29 @@ urlbar-result-action-calculator-result = = { $result }
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
+urlbar-result-action-search-bookmarks = বুকমাৰ্কসমূহত সন্ধান কৰক
+urlbar-result-action-search-history = ইতিহাসত সন্ধান কৰক
+urlbar-result-action-search-tabs = টেবসমূহত সন্ধান কৰক
 
 ## Full Screen and Pointer Lock UI
 
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is full screen, e.g. "mozilla.org"
+fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> এতিয়া পূৰ্ণ স্ক্ৰীণত আছে
+fullscreen-warning-no-domain = এই নথিপত্ৰ এতিয়া পূৰ্ণ স্ক্ৰীণত আছে
 fullscreen-exit-button = ফুলস্ক্ৰীণৰ পৰা ওলাওক (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = ফুলস্ক্ৰীণৰ পৰা ওলাওক (esc)
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
+pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span>-ৰ হাতত আপোনাৰ পইণ্টাৰৰ নিয়ন্ত্ৰণ আছে। নিয়ন্ত্ৰণ ঘূৰাই ল'বলৈ Esc টিপক।
+pointerlock-warning-no-domain = এই নথিপত্ৰৰ হাতত আপোনাৰ পইণ্টাৰৰ নিয়ন্ত্ৰণ আছে। নিয়ন্ত্ৰণ ঘূৰাই ল'বলৈ Esc টিপক।
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>এই পৃষ্ঠাৰ কিছু অংশ ক্ৰেশ্ব হৈছে।</strong> { -brand-product-name }-ক এই সমস্যাটোৰ বিষয়ে জনাবলৈ আৰু ইয়াক দ্ৰুততাৰে ঠিক কৰিবলৈ, অনুগ্ৰহ কৰি এখন প্ৰতিবেদন দাখিল কৰক।
 crashed-subframe-learnmore-link =
     .value = অধিক জানক
 crashed-subframe-submit =
