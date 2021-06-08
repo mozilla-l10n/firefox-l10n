@@ -548,10 +548,15 @@ crashed-subframe-submit =
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-manage-bookmarks =
+    .label = বুকমাৰ্ক পৰিচালনা কৰক
+bookmarks-recent-bookmarks-panel-subheader = শেহতীয়া বুকমাৰ্কসমূহ
 bookmarks-toolbar-chevron =
     .tooltiptext = অধিক পত্ৰচিহ্ন দেখুৱাওক
 bookmarks-sidebar-content =
     .aria-label = পত্ৰচিহ্নসমূহ
+bookmarks-menu-button =
+    .label = বুকমাৰ্কৰ মেন্যু
 bookmarks-bookmark-edit-panel =
     .label = এই পত্ৰচিহ্ন সম্পাদন কৰক
 bookmarks-toolbar-menu =
