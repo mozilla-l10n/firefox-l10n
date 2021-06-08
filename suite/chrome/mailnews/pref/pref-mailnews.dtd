@@ -23,16 +23,16 @@
 
 <!ENTITY useInternalSettings.description  "&brandShortName; ფოსტისა &amp; სიახლეების გამოყენება, ბრაუზერის ბმულების გახსნისას:">
 <!ENTITY useInternalMail.label            "ფოსტა (mailto:)">
-<!ENTITY useInternalMail.accesskey        "a">
+<!ENTITY useInternalMail.accesskey        "ა">
 <!ENTITY useInternalNews.label            "სიახლეები (news:, snews:, nntp:)">
-<!ENTITY useInternalNews.accesskey        "s">
+<!ENTITY useInternalNews.accesskey        "ს">
 
 <!ENTITY messengerStartPage.caption       "ფოსტის საწყისი გვერდი">
 <!ENTITY enableStartPage.label            "როცა ფოსტა გაეშვება, გამოჩნდეს საწყისი გვერდი წერილების არეში">
-<!ENTITY enableStartPage.accesskey        "W">
+<!ENTITY enableStartPage.accesskey        "რ">
 <!ENTITY location.label                   "მისამართი:">
-<!ENTITY location.accesskey               "L">
-<!ENTITY useDefault.label                 "ძირითადის აღდგენა">
-<!ENTITY useDefault.accesskey             "D">
+<!ENTITY location.accesskey               "რ">
+<!ENTITY useDefault.label                 "ნაგულისხმევის აღდგენა">
+<!ENTITY useDefault.accesskey             "ღ">
 <!ENTITY rememberLastMsg.label            "ბოლო მონიშნული წერილის დამახსოვრება">
-<!ENTITY rememberLastMsg.accesskey        "R">
+<!ENTITY rememberLastMsg.accesskey        "ბ">
