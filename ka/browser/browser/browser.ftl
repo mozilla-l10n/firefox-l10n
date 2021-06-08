@@ -683,6 +683,12 @@ save-to-pocket-button =
     .label = { -pocket-brand-name }-ში შენახვა
     .tooltiptext = { -pocket-brand-name }-ში შენახვა
 
+## Repair text encoding toolbar button
+
+repair-text-encoding-button =
+    .label = ტექსტის კოდირების გასწორება
+    .tooltiptext = ამოიცნობს სათანადო კოდირებას გვერდის შიგთავსიდან
+
 ## Customize Toolbar Buttons
 
 # Variables:

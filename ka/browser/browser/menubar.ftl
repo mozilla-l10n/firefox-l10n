@@ -173,6 +173,9 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = ტექსტის კოდირება
     .accesskey = კ
+menu-view-repair-text-encoding =
+    .label = ტექსტის კოდირების გასწორება
+    .accesskey = კ
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -254,15 +257,15 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = { -brand-product-name } – შესვლა...
     .accesskey = ვ
+menu-tools-turn-on-sync =
+    .label = ჩართეთ { -sync-brand-short-name }...
+    .accesskey = ჩ
 menu-tools-addons-and-themes =
     .label = დამატებები და თემები
     .accesskey = დ
 menu-tools-fxa-sign-in2 =
     .label = შესვლა
     .accesskey = ვ
-menu-tools-turn-on-sync =
-    .label = ჩართეთ { -sync-brand-short-name }...
-    .accesskey = ჩ
 menu-tools-turn-on-sync2 =
     .label = ჩართეთ დასინქრონება…
     .accesskey = ე
@@ -287,19 +290,19 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = გვერდის მონაცემები
     .accesskey = ი
-menu-settings =
-    .label = პარამეტრები
-    .accesskey =
-        { PLATFORM() ->
-            [windows] პ
-           *[other] ტ
-        }
 menu-preferences =
     .label =
         { PLATFORM() ->
             [windows] პარამეტრები
            *[other] პარამეტრები
         }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] პ
+           *[other] ტ
+        }
+menu-settings =
+    .label = პარამეტრები
     .accesskey =
         { PLATFORM() ->
             [windows] პ
@@ -342,14 +345,12 @@ menu-help-import-from-another-browser =
 menu-help-keyboard-shortcuts =
     .label = კლავიატურის მალსახმობები
     .accesskey = კ
-menu-get-help =
-    .label = მხარდაჭერის მიღება
-    .accesskey = ხ
 menu-help-troubleshooting-info =
     .label = ხარვეზის აღმოფხვრის მონაცემები
     .accesskey = ფ
-menu-help-taskmanager =
-    .label = ამოცანათა მმართველი
+menu-get-help =
+    .label = მხარდაჭერის მიღება
+    .accesskey = ხ
 menu-help-more-troubleshooting-info =
     .label = ხარვეზის აღმოფხვრის ვრცელი მონაცემები
     .accesskey = ფ

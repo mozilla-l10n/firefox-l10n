@@ -159,6 +159,7 @@ language-name-ru = რუსული
 language-name-rw = კინიარუანდა
 language-name-sa = სანსკრიტი
 language-name-sc = სარდინიული
+language-name-sco = შოტლანდიური
 language-name-sd = სინდი
 language-name-se = ჩრდილო სამი
 language-name-sg = სანგო
