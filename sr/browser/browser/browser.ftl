@@ -47,7 +47,7 @@ browser-main-window-title = { -brand-full-name }
 ##
 
 urlbar-identity-button =
-    .aria-label = Погледај информације сајта
+    .aria-label = Прикажи информације о сајту
 
 ## Tooltips for images appearing in the address bar
 

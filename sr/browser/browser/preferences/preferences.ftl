@@ -58,7 +58,6 @@ category-experimental =
     .tooltiptext = { -brand-short-name } експерименти
 pane-experimental-subtitle = Наставите с опрезом
 pane-experimental-search-results-header = { -brand-short-name } експерименти: наставите с опрезом
-pane-experimental-description = Промена напредних подешавања може да утиче на перформансе или безбедност { -brand-short-name }-а.
 pane-experimental-description2 =
     Промена напредних подешавања може негативно да утиче на перформансе и безбедност { -brand-short-name.gender ->
         [masculine] { -brand-short-name(case: "gen") }
@@ -1004,7 +1003,6 @@ content-blocking-etp-standard-desc = Уравнотежена заштита и 
 content-blocking-etp-strict-desc = Заштита је моћнија, али може проузроковати да се неке веб странице или садржај не учитају.
 content-blocking-etp-custom-desc = Изаберите које пратиоце и скрипте треба блокирати.
 content-blocking-private-windows = Садржај који прати у приватним прозорима
-content-blocking-cross-site-cookies = Колачићи трећих страна
 content-blocking-cross-site-cookies-in-all-windows = Колачићи трећих страна у свим прозорима (укључујући колачиће за праћење)
 content-blocking-cross-site-tracking-cookies = Колачићи за праћење трећих страна
 content-blocking-all-cross-site-cookies-private-windows = Колачићи трећих страна у приватним прозорима
@@ -1166,7 +1164,7 @@ certs-enable-ocsp =
     .label = Захтевај од OCSP сервера да потврди ваљаност сертификата
     .accesskey = З
 certs-view =
-    .label = Погледај сертификате…
+    .label = Прикажи сертификате…
     .accesskey = с
 certs-devices =
     .label = Безбедносни уређаји…
