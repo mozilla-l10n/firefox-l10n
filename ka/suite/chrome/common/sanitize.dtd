@@ -2,40 +2,68 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY sanitizeDialog.title            "პირად მონაცემთა დასუფთავება">
-<!ENTITY sanitizeItems.label             "შემდეგი ელემენტების ახლავე ამოშლა:">
+<!ENTITY sanitizeDialog.title             "პირად მონაცემთა დასუფთავება">
 
-<!--LOCALIZATION NOTE : Make sure to not have overlapped  accesskeys with
-    pref-privatedata.dtd. These entities are also used in the private data
-    preferences dialog.
--->
-<!ENTITY itemHistory.label               "ისტორია">
-<!ENTITY itemHistory.accesskey           "ტ">
-<!ENTITY itemHistoryS.accesskey          "r">
-<!ENTITY itemUrlBar.label                "მისამართების ზოლის ისტორია">
-<!ENTITY itemUrlBar.accesskey            "ზ">
-<!ENTITY itemUrlBarS.accesskey           "t">
-<!ENTITY itemDownloads.label             "ჩამოტვირთვების ისტორია">
-<!ENTITY itemDownloads.accesskey         "ჩ">
-<!ENTITY itemDownloadsS.accesskey        "ო">
-<!ENTITY itemFormSearchHistory.label     "შევსებული ველებისა და ძიების ისტორია">
-<!ENTITY itemFormSearchHistory.accesskey "შ">
+<!-- LOCALIZATION NOTE (sanitizeDialog.width): width of the Clear Recent
+     History dialog -->
+<!ENTITY sanitizeDialog.width             "34em">
+
+<!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear"
+     dropdown. -->
+<!ENTITY clearTimeDuration.label          "გასასუფთავებელი დროის შუალედი:">
+<!ENTITY clearTimeDuration.accesskey      "ფ">
+<!ENTITY clearTimeDuration.lastHour       "ბოლო საათი">
+<!ENTITY clearTimeDuration.last2Hours     "ბოლო ორი საათი">
+<!ENTITY clearTimeDuration.last4Hours     "ბოლო ოთხი საათი">
+<!ENTITY clearTimeDuration.today          "დღევანდელი">
+<!ENTITY clearTimeDuration.everything     "ყველაფერი">
+<!-- Localization note (clearTimeDuration.suffix) - trailing entity for
+     languages that require it. -->
+<!ENTITY clearTimeDuration.suffix         "">
+
+<!--  LOCALIZATION NOTE (sanitizeSelectedWarning): Warning that appears
+      when not all items are selected in the in Clear Private data dialog. -->
+<!ENTITY sanitizeSelectedWarning          "ყველა მონიშნული გასუფთავდება.">
+
+<!-- LOCALIZATION NOTE (sanitizeUndoWarning): Second warning
+     paragraph that always appears. -->
+<!ENTITY sanitizeUndoWarning              "ეს ქმედება შეუქცევადია.">
+
+<!ENTITY sanitizeItems.label              "შემდეგი ელემენტების ახლავე ამოშლა:">
+
+<!-- LOCALIZATION NOTE : Try to make sure to not have overlapped  accesskeys
+     with pref-privatedata.dtd. These entities are also used in the private
+     data preferences dialog. -->
+<!ENTITY itemHistory.label                "ისტორია">
+<!ENTITY itemHistory.accesskey            "ტ">
+<!ENTITY itemHistoryS.accesskey           "r">
+<!ENTITY itemUrlBar.label                 "მისამართების ზოლის ისტორია">
+<!ENTITY itemUrlBar.accesskey             "ზ">
+<!ENTITY itemUrlBarS.accesskey            "t">
+<!ENTITY itemDownloads.label              "ჩამოტვირთვების ისტორია">
+<!ENTITY itemDownloads.accesskey          "ჩ">
+<!ENTITY itemDownloadsS.accesskey         "ო">
+<!ENTITY itemFormSearchHistory.label      "შევსებული ველებისა და ძიების ისტორია">
+<!ENTITY itemFormSearchHistory.accesskey  "შ">
 <!ENTITY itemFormSearchHistoryS.accesskey "ე">
-<!ENTITY itemCache.label                 "ბუფერი">
-<!ENTITY itemCache.accesskey             "ე">
-<!ENTITY itemCacheS.accesskey            "ი">
-<!ENTITY itemCookies.label               "ფუნთუშები">
-<!ENTITY itemCookies.accesskey           "ფ">
-<!ENTITY itemCookiesS.accesskey          "ნ">
-<!ENTITY itemOfflineApps.label           "კავშირგარეშე მონაცემები">
-<!ENTITY itemOfflineApps.accesskey       "კ">
-<!ENTITY itemOfflineAppsS.accesskey      "რ">
-<!ENTITY itemPasswords.label             "შენახული პაროლები">
-<!ENTITY itemPasswords.accesskey         "პ">
-<!ENTITY itemPasswordsS.accesskey        "ლ">
-<!ENTITY itemSessions.label              "ანგარიშზე შესვლის სეანსები">
-<!ENTITY itemSessions.accesskey          "გ">
+<!ENTITY itemCache.label                  "ბუფერი">
+<!ENTITY itemCache.accesskey              "ე">
+<!ENTITY itemCacheS.accesskey             "ი">
+<!ENTITY itemCookies.label                "ფუნთუშები">
+<!ENTITY itemCookies.accesskey            "ფ">
+<!ENTITY itemCookiesS.accesskey           "ნ">
+<!ENTITY itemOfflineApps.label            "კავშირგარეშე მონაცემები">
+<!ENTITY itemOfflineApps.accesskey        "კ">
+<!ENTITY itemOfflineAppsS.accesskey       "რ">
+<!ENTITY itemPasswords.label              "შენახული პაროლები">
+<!ENTITY itemPasswords.accesskey          "პ">
+<!ENTITY itemPasswordsS.accesskey         "ლ">
+<!ENTITY itemSessions.label               "ანგარიშზე შესვლის სეანსები">
+<!ENTITY itemSessions.accesskey           "გ">
 
-<!ENTITY itemSessionsS.accesskey         "ბ">
+<!ENTITY itemSessionsS.accesskey          "ბ">
 
 <!ENTITY sanitizeButton.label            "პირად მონაცემთა გასუფთავება ახლავე">
+<!ENTITY itemSitePreferences.label        "საიტის პარამეტრები">
+<!ENTITY itemSitePreferences.accesskey    "პ">
+<!ENTITY itemSitePreferencesS.accesskey   "ტ">
