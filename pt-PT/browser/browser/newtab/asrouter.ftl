@@ -222,8 +222,6 @@ cfr-doorhanger-milestone-heading2 =
     }
 cfr-doorhanger-milestone-ok-button = Ver tudo
     .accesskey = V
-cfr-doorhanger-milestone-close-button = Fechar
-    .accesskey = F
 
 ## What’s New Panel Content for Firefox 76
 
@@ -248,6 +246,8 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Ícone de vídeo em janela flutuante
 
 ## Protections Dashboard message
 
+cfr-doorhanger-milestone-close-button = Fechar
+    .accesskey = F
 
 ## What’s New Panel Content for Firefox 76
 ## Protections Dashboard message
@@ -266,8 +266,6 @@ cfr-whatsnew-better-pdf-body = Os documentos PDF são agora abertos diretamente 
 
 cfr-doorhanger-doh-body = A sua privacidade é importante. Agora, o { -brand-short-name } encaminha os seus pedidos de DNS de forma segura e sempre que possível, para um serviço de um parceiro para o proteger enquanto navega.
 cfr-doorhanger-doh-header = Pesquisas de DNS encriptadas e mais seguras
-cfr-doorhanger-doh-primary-button = OK, percebi
-    .accesskey = O
 cfr-doorhanger-doh-primary-button-2 = OK
     .accesskey = O
 cfr-doorhanger-doh-secondary-button = Desativar
@@ -313,3 +311,10 @@ cfr-whatsnew-bookmarking-body = É mais fácil seguir os seus sites favoritos. O
 
 cfr-whatsnew-cross-site-tracking-header = Proteção abrangente contra rastreamento de cookies entre sites
 cfr-whatsnew-cross-site-tracking-body = Agora pode optar por obter uma melhor proteção contra as cookies de rastreamento. O { -brand-short-name } pode isolar as suas atividades e dados dos sites que não esteja a visitar, para que as informações armazenadas no navegador não sejam partilhadas entre os sites.
+
+## Full Video Support CFR message
+
+cfr-doorhanger-video-support-body = Os vídeos neste site podem não ser reproduzidos corretamente nesta versão do { -brand-short-name }. Para uma maior compatibilidade vídeo, atualize agora o { -brand-short-name }.
+cfr-doorhanger-video-support-header = Atualizar o { -brand-short-name } para reproduzir o vídeo
+cfr-doorhanger-video-support-primary-button = Atualizar agora
+    .accesskey = u
