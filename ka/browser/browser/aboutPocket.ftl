@@ -15,6 +15,7 @@ pocket-panel-saved-error-generic = { -pocket-brand-name }-ში შენახ
 pocket-panel-saved-error-tag-length = ჭდე უნდა შედგებოდეს არაუმეტეს 25 სიმბოლოსგან
 pocket-panel-saved-error-only-links = შესაძლებელია მხოლოდ ბმულების შენახვა
 pocket-panel-saved-error-not-saved = გვერდი არ შეინახა
+pocket-panel-saved-error-no-internet = { -pocket-brand-name }-ში შესანახად, საჭიროა ინტერნეტკავშირი. გთხოვთ დაუკავშირდეთ ქსელს და კვლავ სცადოთ.
 pocket-panel-saved-page-removed = გვერდი წაიშალა
 pocket-panel-saved-page-saved = შენახულია { -pocket-brand-name }-ში
 pocket-panel-saved-processing-remove = იშლება გვერდი…
