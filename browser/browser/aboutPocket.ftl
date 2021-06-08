@@ -14,25 +14,26 @@ pocket-panel-saved-add-tags =
 pocket-panel-saved-error-generic = Дошло је до грешке при чувању у { -pocket-brand-name(case: "loc") }.
 pocket-panel-saved-error-tag-length = Ознаке су ограничене на 25 знакова
 pocket-panel-saved-error-only-links = Можете сачувати само везе
-pocket-panel-saved-error-not-saved = Страница није снимљена
-pocket-panel-saved-page-removed = Страница уклоњена
-pocket-panel-saved-page-saved = Снимљено у { -pocket-brand-name }
-pocket-panel-saved-processing-remove = Уклањам страницу…
-pocket-panel-saved-processing-tags = Додајем ознаку…
+pocket-panel-saved-error-not-saved = Страница није сачувана
+pocket-panel-saved-error-no-internet = Да бисте сачували садржај у { -pocket-brand-name(case: "loc") }, морате се повезати на интернет. Урадите то и покушајте поново.
+pocket-panel-saved-page-removed = Страница је уклоњена
+pocket-panel-saved-page-saved = Сачувано у { -pocket-brand-name(case: "loc") }
+pocket-panel-saved-processing-remove = Уклањање странице…
+pocket-panel-saved-processing-tags = Додавање ознака…
 pocket-panel-saved-remove-page = Уклони страницу
 pocket-panel-saved-save-tags = Сачувај
-pocket-panel-saved-saving-tags = Снимам…
+pocket-panel-saved-saving-tags = Чување…
 pocket-panel-saved-suggested-tags = Предложене ознаке
 pocket-panel-saved-tags-saved = Ознаке су додате
 pocket-panel-signup-view-list = Прикажи листу
 
 ## about:pocket-signup panel
 
-pocket-panel-signup-already-have = Већ сте { -pocket-brand-name } корисник?
+pocket-panel-signup-already-have = Већ користите { -pocket-brand-name(case: "acc") }?
 pocket-panel-signup-learn-more = Сазнајте више
-pocket-panel-signup-login = Пријави ме
-pocket-panel-signup-signup-email = Региструј се са е-поштом
-pocket-panel-signup-signup-cta = Региструјте се да користите { -pocket-brand-name }. Бесплатно је.
+pocket-panel-signup-login = Пријава
+pocket-panel-signup-signup-email = Регистрација имејлом
+pocket-panel-signup-signup-cta = Региструјте се на { -pocket-brand-name(case: "loc") }. Бесплатно је.
 pocket-panel-signup-signup-firefox = Региструј се
 pocket-panel-signup-tagline = Сачувајте чланке и видео-снимке из { -brand-product-name }-а да бисте их погледали у { -pocket-brand-name }-у на било ком уређају, било када.
 pocket-panel-signup-tagline-story-one = Кликните на дугме { -pocket-brand-name } да бисте сачували чланак, видео или страницу из { -brand-product-name }-а.
