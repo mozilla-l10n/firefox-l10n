@@ -11,6 +11,9 @@ remove-address-row-type = { $type } ველის მოცილება
 remove-address-row-type-label =
     .tooltiptext = { $type } ველის მოცილება
 #   $type (String) - the type of the addressing row
+remove-address-row-button =
+    .title = { $type } ველის მოცილება
+#   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type-aria-label =
     { $count ->

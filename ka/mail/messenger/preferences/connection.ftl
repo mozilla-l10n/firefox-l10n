@@ -21,6 +21,8 @@ connection-dialog-window =
             [macos] width: 44em !important
            *[other] width: 45em !important
         }
+connection-disable-extension =
+    .label = გაფართოების ამორთვა
 connection-proxy-legend = პროქსის გამართვა ინტერნეტ კავშირისთვის
 proxy-type-no =
     .label = პროქსი არაა

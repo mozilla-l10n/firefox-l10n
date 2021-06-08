@@ -47,6 +47,12 @@ toolbar-undelete-button =
     .label = აღდგენა
     .tooltiptext = შერჩეული წერილების დაბრუნება
 
+## View
+
+menu-view-repair-text-encoding =
+    .label = ტექსტის კოდირების გასწორება
+    .accesskey = წ
+
 ## View / Layout
 
 mail-uidensity-label =
