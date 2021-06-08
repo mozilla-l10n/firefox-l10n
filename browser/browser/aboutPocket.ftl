@@ -15,6 +15,7 @@ pocket-panel-saved-error-generic = Ocorreu um erro ao tentar guardar no { -pocke
 pocket-panel-saved-error-tag-length = As etiquetas estão limitadas a 25 caracteres
 pocket-panel-saved-error-only-links = Só podem ser guardadas ligações
 pocket-panel-saved-error-not-saved = Página não guardada
+pocket-panel-saved-error-no-internet = Deve estar ligado à Internet para poder guardar no { -pocket-brand-name }. Por favor, ligue-se à Internet e tente novamente.
 pocket-panel-saved-page-removed = Página removida
 pocket-panel-saved-page-saved = Guardada no { -pocket-brand-name }
 pocket-panel-saved-processing-remove = A remover página…
