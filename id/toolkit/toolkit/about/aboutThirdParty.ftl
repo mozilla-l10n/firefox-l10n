@@ -12,9 +12,7 @@ third-party-th-process = Proses
 third-party-th-duration = Durasi Pemuatan (md)
 third-party-th-status = Status
 third-party-tag-background = Latar Belakang
-    .title =
-        Modul ini memblokir aplikasi karena telah dimuat¶ 
-        di belakang
+    .title = Modul ini memblokir aplikasi karena telah dimuat di belakang
 third-party-unsigned-icon =
     .title = Modul ini tidak ditandatangani
 third-party-status-loaded = Dimuat
