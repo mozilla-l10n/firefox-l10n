@@ -15,6 +15,7 @@ pocket-panel-saved-error-generic = Terjadi kesalahan saat mencoba menyimpan ke {
 pocket-panel-saved-error-tag-length = Panjang karakter maksimum tag adalah 25 karakter
 pocket-panel-saved-error-only-links = Hanya tautan yang dapat disimpan
 pocket-panel-saved-error-not-saved = Laman Tidak Disimpan
+pocket-panel-saved-error-no-internet = Anda harus tersambung ke Internet untuk menyimpan ke { -pocket-brand-name }. Periksa sambungan Anda lalu coba lagi.
 pocket-panel-saved-page-removed = Laman Dihapus
 pocket-panel-saved-page-saved = Disimpan di { -pocket-brand-name }
 pocket-panel-saved-processing-remove = Menghapus Laman…
