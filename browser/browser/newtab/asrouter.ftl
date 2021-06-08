@@ -236,8 +236,8 @@ cfr-doorhanger-milestone-heading2 =
         [few] { -brand-short-name } је блокирао више од <b>{ $blockedCount }</b> програма за праћење од { DATETIME($date, month: "long", year: "numeric") }!
        *[other] { -brand-short-name } је блокирао више од <b>{ $blockedCount }</b> програма за праћење од { DATETIME($date, month: "long", year: "numeric") }!
     }
-cfr-doorhanger-milestone-ok-button = Погледај све
-    .accesskey = S
+cfr-doorhanger-milestone-ok-button = Прикажи све
+    .accesskey = П
 
 ## What’s New Panel Content for Firefox 76
 

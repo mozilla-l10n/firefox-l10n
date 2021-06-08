@@ -18,6 +18,12 @@ permissions-session =
 permissions-allow =
     .label = Дозволи
     .accesskey = Д
+permissions-button-off =
+    .label = Искључи
+    .accesskey = И
+permissions-button-off-temporarily =
+    .label = Привремено искључи
+    .accesskey = П
 permissions-site-name =
     .label = Веб сајт
 permissions-status =
@@ -58,6 +64,10 @@ permissions-capabilities-listitem-block =
     .value = Блокирај
 permissions-capabilities-listitem-allow-session =
     .value = Дозволи за ову сесију
+permissions-capabilities-listitem-off =
+    .value = Искључено
+permissions-capabilities-listitem-off-temporarily =
+    .value = Привремено искључено
 
 ## Invalid Hostname Dialog
 
@@ -77,6 +87,12 @@ permissions-exceptions-cookie-window =
     .title = Изузеци – колачићи и подаци о сајтовима
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = Можете да наведете веб-сајтове који смеју да користе колачиће и податке сајтова а који не. Унесите тачну адресу сајта и кликните на „Блокирај”, „Дозволи за сесију” или „Дозволи”.
+
+## Exceptions - HTTPS-Only Mode
+
+permissions-exceptions-https-only-window =
+    .title = Изузеци – режим „Само HTTPS”
+    .style = { permissions-window.style }
 
 ## Exceptions - Pop-ups
 
