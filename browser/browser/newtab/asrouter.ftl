@@ -327,3 +327,8 @@ cfr-whatsnew-bookmarking-body = Праћење омиљених страница
 
 cfr-whatsnew-cross-site-tracking-header = Свеобухватна заштита од праћења путем међустраничних колачића
 cfr-whatsnew-cross-site-tracking-body = Сада можете да укључите побољшану заштиту од праћења помоћу колачића. { -brand-short-name } може да изолује ваше активности и податке на сајту на ком се тренутно налазите, спречавајући да се подаци сачувани у прегледачу преносе на друге сајтове.
+
+## Full Video Support CFR message
+
+cfr-doorhanger-video-support-primary-button = Ажурирај
+    .accesskey = А

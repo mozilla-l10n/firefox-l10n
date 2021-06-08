@@ -11,6 +11,8 @@ newtab-settings-button =
 newtab-personalize-button-label = Прилагоди
     .title = Прилагоди нову картицу
     .aria-label = Прилагоди нову картицу
+newtab-personalize-dialog-label =
+    .aria-label = Персонализација
 
 ## Search box component.
 
@@ -37,7 +39,6 @@ newtab-search-box-search-the-web-input =
     .placeholder = Претражи веб
     .title = Претражи веб
     .aria-label = Претражи веб
-newtab-search-box-text = Претражите интернет
 newtab-search-box-input =
     .placeholder = Претражите интернет
     .aria-label = Претражите интернет
