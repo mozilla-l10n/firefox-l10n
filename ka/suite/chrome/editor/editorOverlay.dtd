@@ -337,7 +337,7 @@
 <!ENTITY indent.label "აბზაცი">
 <!ENTITY indentToolbarCmd.tooltip "ჩვეულებრივი აბზაცი (მარჯვნივ)">
 <!ENTITY AlignPopupButton.label "განთავსება">
-<!ENTITY AlignPopupButton.tooltip "ტექსტის განთავსების არჩევა">
+<!ENTITY AlignPopupButton.tooltip "ტექსტის განთავსება">
 <!ENTITY InsertPopupButton.label "ჩამატება">
 <!ENTITY InsertPopupButton.tooltip "ბმულის, ღუზის, სურათის, ჰორიზონტული ხაზის ან ცხრილის ჩამატება">
 <!ENTITY alignLeftButton.label "სწორება მარცხნივ">
