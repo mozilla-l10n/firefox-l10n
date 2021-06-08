@@ -38,6 +38,25 @@ upgrade-dialog-new-primary-win7-button = Ok, entendi!
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-pin-title =
+    { PLATFORM() ->
+        [macos] Manter o { -brand-short-name } na sua Dock
+       *[other] Fixar o { -brand-short-name } na sua barra de tarefas
+    }
+# The English macOS string avoids repeating "Keep" a third time, so if your
+# translations don't repeat anyway, the same string can be used cross-platform.
+upgrade-dialog-pin-subtitle =
+    { PLATFORM() ->
+        [macos] Tenha um acesso facilitado ao { -brand-short-name } mais recente.
+       *[other] Mantenha o { -brand-short-name } mais recente por perto.
+    }
+upgrade-dialog-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Manter na Doca
+       *[other] Fixar na barra de tarefas
+    }
+upgrade-dialog-pin-secondary-button = Agora não
 
 ## Default browser screen
 
@@ -45,6 +64,10 @@ upgrade-dialog-new-primary-win7-button = Ok, entendi!
 upgrade-dialog-default-title = Tornar o { -brand-short-name } no seu navegador predefinido?
 upgrade-dialog-default-subtitle = Obtenha velocidade, segurança e privacidade sempre que navega.
 upgrade-dialog-default-primary-button = Definir como navegador predefinido
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title-2 = Predefinir o { -brand-short-name }
+upgrade-dialog-default-subtitle-2 = Coloque a velocidade, segurança e privacidade em piloto automático.
+upgrade-dialog-default-primary-button-2 = Definir como navegador predefinido
 upgrade-dialog-default-secondary-button = Agora não
 
 ## Theme selection screen
@@ -53,6 +76,8 @@ upgrade-dialog-default-secondary-button = Agora não
 upgrade-dialog-theme-title =
     Comece do zero
     com um tema atualizado
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-theme-title-2 = Comece do zero com um tema nítido
 upgrade-dialog-theme-system = Tema de sistema
     .title = Segue o tema do sistema operativo para botões, menus e janelas
 upgrade-dialog-theme-light = Claro
