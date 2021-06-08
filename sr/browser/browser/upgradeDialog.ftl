@@ -68,6 +68,11 @@ upgrade-dialog-new-primary-win7-button = Разумем
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
+upgrade-dialog-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Додај на док
+       *[other] Закачи на траку задатака
+    }
 upgrade-dialog-pin-secondary-button = Не сада
 
 ## Default browser screen
@@ -90,6 +95,8 @@ upgrade-dialog-default-title-2 =
         [neuter] { -brand-short-name(case: "acc") }
        *[other] програм { -brand-short-name }
     } као подразумевани прегледач
+upgrade-dialog-default-subtitle-2 = Брзина, безбедност и приватност пре свега.
+upgrade-dialog-default-primary-button-2 = Постави као подразумевани прегледач
 upgrade-dialog-default-secondary-button = Не сада
 
 ## Theme selection screen
