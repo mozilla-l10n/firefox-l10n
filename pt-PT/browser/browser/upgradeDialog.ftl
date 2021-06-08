@@ -25,8 +25,19 @@ upgrade-dialog-new-primary-primary-button = Definir o { -brand-short-name } como
     .title = Define o { -brand-short-name } como o navegador principal e fixa o mesmo à barra de ferramentas
 upgrade-dialog-new-primary-default-button = Tornar o { -brand-short-name } no meu navegador predefinido
 upgrade-dialog-new-primary-pin-button = Fixar o { -brand-short-name } à minha barra de tarefas
+upgrade-dialog-new-primary-pin-alt-button = Fixar na barra de tarefas
 upgrade-dialog-new-primary-theme-button = Escolher um tema
 upgrade-dialog-new-secondary-button = Agora não
+# This string is only shown on Windows 7, where we intentionally suppress the
+# theme selection screen.
+upgrade-dialog-new-primary-win7-button = Ok, entendi!
+
+## Pin Firefox screen
+##
+## These title, subtitle and button strings differ between platforms as they
+## match the OS' application context menu item action where Windows uses "pin"
+## and "taskbar" while macOS "keep" and "Dock" (proper noun).
+
 
 ## Default browser screen
 
