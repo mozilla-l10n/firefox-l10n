@@ -126,10 +126,10 @@ start-page-label =
     .accesskey = რ
 location-label =
     .value = მისამართი:
-    .accesskey = o
+    .accesskey = ი
 restore-default-label =
-    .label = ნაგულისხმების აღდგენა
-    .accesskey = R
+    .label = ნაგულისხმევის აღდგენა
+    .accesskey = ღ
 default-search-engine = ნაგულისხმევი საძიებო სისტემა
 add-search-engine =
     .label = ფაილიდან დამატება
@@ -162,7 +162,7 @@ app-icon-options =
 notification-settings = შეგიძლიათ გამორთოთ ნაგულისხმევი ხმოვანი სიგნალი და სხვა ნიშნები შეტყობინებების არეში, სისტემის პარამეტრებიდან.
 animated-alert-label =
     .label = გაფრთხილების ჩვენება
-    .accesskey = S
+    .accesskey = ვ
 customize-alert-label =
     .label = მორგება…
     .accesskey = გ
@@ -182,8 +182,8 @@ mail-custom-sound-label =
     .label = შემდეგი ხმოვანი ფაილის გამოყენება
     .accesskey = ყ
 mail-browse-sound-button =
-    .label = ნუსხა…
-    .accesskey = B
+    .label = ამორჩევა…
+    .accesskey = ო
 enable-gloda-search-label =
     .label = ერთიანი ძიებისა და გზავნილთა აღრიცხვის ჩართვა
     .accesskey = ე
@@ -337,17 +337,17 @@ action-column-label =
     .accesskey = A
 save-to-label =
     .label = ფაილების შენახვა…
-    .accesskey = S
+    .accesskey = ნ
 choose-folder-label =
     .label =
         { PLATFORM() ->
             [macos] შერჩევა…
-           *[other] ნუსხა…
+           *[other] ამორჩევა…
         }
     .accesskey =
         { PLATFORM() ->
-            [macos] C
-           *[other] B
+            [macos] ე
+           *[other] ო
         }
 always-ask-label =
     .label = ფაილების შესანახი მდებარეობის ყოველ ჯერზე მითითება
