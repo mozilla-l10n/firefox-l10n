@@ -20,7 +20,6 @@ account-setup-name-input =
     .placeholder = John Jones
 account-setup-name-info-icon =
     .title = Eich enw, fel mae'n cael ei ddangos i eraill
-account-setup-name-warning = Rhowch eich enw
 account-setup-name-warning-icon =
     .title = { account-setup-name-warning }
 account-setup-email-label = Cyfeiriad e-bost
@@ -29,7 +28,6 @@ account-setup-email-input =
     .placeholder = john.jones@example.com
 account-setup-email-info-icon =
     .title = Eich cyfeiriad e-bost cyfredol
-account-setup-email-warning = Cyfeiriad e-bost annilys
 account-setup-email-warning-icon =
     .title = { account-setup-email-warning }
 account-setup-password-label = Cyfrinair
@@ -122,6 +120,15 @@ account-setup-incoming-title = Derbyn
 account-setup-outgoing-title = Anfon
 account-setup-username-title = Enw Defnyddiwr
 account-setup-exchange-title = Gweinydd
+account-setup-result-smtp = SMTP
+account-setup-result-no-encryption = Dim Amgryptiad
+account-setup-result-ssl = SSL/TLS
+account-setup-result-starttls = STARTTLS
+account-setup-result-outgoing-existing = Defnyddio'r gweinydd SMTP anfon cyfredol
+# Variables:
+#  $incoming (String): The email/username used to log into the incoming server
+#  $outgoing (String): The email/username used to log into the outgoing server
+account-setup-result-username-different = Derbyn: { $incoming }, Anfon: { $outgoing }
 
 ## Error messages
 
@@ -131,32 +138,68 @@ account-setup-credentials-wrong = Methodd y dilysu. Gwiriwch yr enw defnyddiwr a
 account-setup-find-settings-failed = Methodd { -brand-short-name } â dod o hyd i'r gosodiadau ar gyfer eich cyfrif e-bost
 account-setup-exchange-config-unverifiable = Nid oedd modd dilysu eich ffurfweddiad. Os yw'ch enw defnyddiwr a'ch cyfrinair yn gywir, mae'n debygol bod gweinyddwr y gweinydd wedi analluogi'r ffurfweddiad a ddewiswyd ar gyfer eich cyfrif. Ceisiwch ddewis protocol arall.
 
-## Manual config area
+## Manual configuration area
 
 account-setup-manual-config-title = Gosodiadau gweinydd
-account-setup-incoming-protocol-label = Protocol Derbyn
+account-setup-incoming-server-legend = Gweinydd Derbyn
+account-setup-protocol-label = Protocol:
 protocol-imap-option = { account-setup-result-imap }
 protocol-pop-option = { account-setup-result-pop }
-account-setup-outgoing-protocol-label = Protocol Anfon
-outgoing-protocol = SMTP
-account-setup-incoming-server-label = Gweinydd Derbyn
-account-setup-outgoing-server-label = Gweinydd Anfon
-account-setup-incoming-port-label = Porth Derbyn
-account-setup-outoing-port-label = Porth Anfon
-account-setup-incoming-ssl-label = SSL Derbyn
-account-setup-outgoing-ssl-label = SSL Anfon
+protocol-exchange-option = { account-setup-result-exchange }
+account-setup-hostname-label = Enw Gwesteiwr:
+account-setup-port-label = Porth:
+    .title = Gosod rhif y porth i 0 ar gyfer awtoganfod
+account-setup-auto-description = Bydd { -brand-short-name } yn ceisio awtoganfod meysydd sy'n cael eu gadael yn wag.
+account-setup-ssl-label = Diogelwch y cysylltiad:
+account-setup-outgoing-server-legend = Gweinydd anfon
+
+## Incoming/Outgoing SSL Authentication options
+
 ssl-autodetect-option = Awtoganfod
+ssl-no-authentication-option = Dim dilysiad
+ssl-cleartext-password-option = Cyfrinair arferol
+ssl-encrypted-password-option = Cyfrinair wedi'i amgryptio
+
+## Incoming/Outgoing SSL options
+
 ssl-noencryption-option = Dim
-ssl-starttls-option = STARTTLS
-ssl-tls-option = SSL/TLS
-account-setup-incoming-auth-label = Dilysu Derbyn
-account-setup-outgoing-auth-label = Dilysu Anfon
-account-setup-incoming-username-label = Enw Defnyddiwr Derbyn
-account-setup-outgoing-username-label = Enw Defnyddiwr Anfon
+account-setup-auth-label = Dull dilysu:
+account-setup-username-label = Enw defnyddiwr:
 account-setup-advanced-setup-button = Ffurfweddiad uwch
     .accesskey = F
 
-## Warning insecure server
+## Warning insecure server dialog
 
+account-setup-insecure-title = Rhybudd!
+account-setup-insecure-incoming-title = Gosodiadau derbyn:
+account-setup-insecure-outgoing-title = Gosodiadau anfon:
+# Variables:
+#  $server (String): The name of the hostname of the server the user was trying to connect to.
+account-setup-warning-cleartext = Nid yw <b>{ $server }</b> yn defnyddio amgryptio.
+account-setup-warning-cleartext-details = Nid yw gweinyddion e-bost anniogel yn defnyddio cysylltiadau wedi'u hamgryptio i ddiogelu eich cyfrinair a manylion preifat. Drwy gysylltu â'r gweinydd yma mae modd i chi amlygu eich cyfrinair a manylion preifat.
 account-setup-insecure-server-checkbox = Rwy'n deall y peryglon
     .accesskey = p
+account-setup-insecure-description = Mae { -brand-short-name } yn gallu caniatáu i chi estyn eich e-bost drwy ddefnyddio'r ffurfweddiad parod. Er hynny, dylech gysylltu â'ch gweinyddwr neu ddarparwr e-bost ynghylch cysylltiadau anaddas. Gw. <a data-l10n-name="thunderbird-faq-link">Cwestiynau Thunderbird</a> am ragor o wybodaeth.
+insecure-dialog-cancel-button = Newid Gosodiadau
+    .accesskey = G
+insecure-dialog-confirm-button = Cadarnhau
+    .accesskey = C
+
+## Warning Exchange confirmation dialog
+
+# Variables:
+#  $domain (String): The name of the server where the configuration was found, e.g. rackspace.com.
+exchange-dialog-question = Mae { -brand-short-name } wedi canfod manylion gosod eich cyfrif ar { $domain }. Hoffech chi barhau a chyflwyno'ch manylion?
+exchange-dialog-confirm-button = Mewngofnodi
+exchange-dialog-cancel-button = Diddymu
+
+## Alert dialogs
+
+account-setup-creation-error-title = Gwall wrth Greu Cyfrif
+account-setup-error-server-exists = Mae'r gweinydd derbyn yn bodoli eisoes.
+account-setup-confirm-advanced-title = Cadarnhau Ffurfweddiad Uwch
+account-setup-confirm-advanced-description = Bydd y ddeialog hon yn cael ei chau a bydd cyfrif gyda'r gosodiadau cyfredol yn cael ei greu, hyd yn oed os yw'r ffurfweddiad yn anghywir. Hoffech chi barhau?
+
+## Addon installation section
+
+account-setup-addon-install-title = Gosod
