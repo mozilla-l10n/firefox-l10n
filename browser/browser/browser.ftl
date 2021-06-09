@@ -181,8 +181,6 @@ page-action-send-tabs-urlbar =
             [one] Send faneblad til enhed
            *[other] Send { $tabCount } faneblade til enhed
         }
-page-action-pocket-panel =
-    .label = Gem side til { -pocket-brand-name }
 page-action-copy-url-panel =
     .label = Kopier link
 page-action-copy-url-urlbar =
@@ -277,7 +275,7 @@ search-one-offs-history =
 ## Bookmark Panel
 
 bookmarks-add-bookmark = Tilføj bogmærke
-bookmarks-edit-bookmark = Rediger Bogmærke
+bookmarks-edit-bookmark = Rediger bogmærke
 bookmark-panel-cancel =
     .label = Afbryd
     .accesskey = A
@@ -615,8 +613,6 @@ crashed-subframe-submit =
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = Vis alle bogmærker
 bookmarks-manage-bookmarks =
     .label = Håndter bogmærker
 bookmarks-recent-bookmarks-panel-subheader = Seneste bogmærker
@@ -689,6 +685,9 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = Gem til { -pocket-brand-name }
     .tooltiptext = Gem til { -pocket-brand-name }
+
+## Repair text encoding toolbar button
+
 
 ## Customize Toolbar Buttons
 
