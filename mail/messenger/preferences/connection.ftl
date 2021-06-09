@@ -21,6 +21,8 @@ connection-dialog-window =
             [macos] width: 44em !important
            *[other] width: 49em !important
         }
+connection-disable-extension =
+    .label = Analluogi Estyniad
 connection-proxy-legend = Ffurfweddu'r Dirprwyon i Gael Mynediad i'r Rhyngrwyd
 proxy-type-no =
     .label = Dim dirprwy

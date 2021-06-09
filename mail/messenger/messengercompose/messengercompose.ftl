@@ -11,6 +11,9 @@ remove-address-row-type = Tynnwch y maes { $type }
 remove-address-row-type-label =
     .tooltiptext = Tynnwch y maes { $type }
 #   $type (String) - the type of the addressing row
+remove-address-row-button =
+    .title = Tynnu'r maes { $type }
+#   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type-aria-label =
     { $count ->
@@ -184,3 +187,9 @@ many-public-recipients-bcc =
 many-public-recipients-ignore =
     .label = Cadw Derbynwyr yn Gyhoeddus
     .accesskey = G
+
+## Notifications
+
+# Variables:
+# $identity (string) - The name of the used identity, most likely an email address.
+compose-missing-identity-warning = Methu canfod hunaniaeth unigryw sy'n cyd-fynd a'r cyfeiriad Oddi wrth. Bydd y neges yn cael ei hanfon gan ddefnyddio'r maes Oddi wrth cyfredol a'r gosodiadau o hunaniaeth { $identity }.

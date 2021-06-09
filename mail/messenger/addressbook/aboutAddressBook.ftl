@@ -24,6 +24,8 @@ about-addressbook-books-context-properties =
     .label = Priodweddau
 about-addressbook-books-context-synchronize =
     .label = Cydweddu
+about-addressbook-books-context-print =
+    .label = Argraffu…
 about-addressbook-books-context-delete =
     .label = Dileu
 
