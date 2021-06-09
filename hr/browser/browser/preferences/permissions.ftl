@@ -58,6 +58,10 @@ permissions-capabilities-listitem-block =
     .value = Blokiraj
 permissions-capabilities-listitem-allow-session =
     .value = Dozvoli za sesiju
+permissions-capabilities-listitem-off =
+    .value = Isključeno
+permissions-capabilities-listitem-off-temporarily =
+    .value = Isključeno privremeno
 
 ## Invalid Hostname Dialog
 
@@ -77,6 +81,12 @@ permissions-exceptions-cookie-window =
     .title = Iznimke - kolačići i podaci web stranice
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = Možeš odrediti web stranice, koje smiju uvijek ili ne smiju nikada koristiti kolačiće i podatke web stranice. Upiši točnu adresu stranice koju želiš podesiti i klikni „Blokiraj”, „Dozvoli za sesiju” ili „Dozvoli”.
+
+## Exceptions - HTTPS-Only Mode
+
+permissions-exceptions-https-only-window =
+    .title = Iznimke - način rada "samo HTTPS"
+    .style = { permissions-window.style }
 
 ## Exceptions - Pop-ups
 

@@ -183,8 +183,6 @@ page-action-send-tabs-urlbar =
             [few] Pošalji { $tabCount } kartice na uređaj
            *[other] Pošalji { $tabCount } kartica na uređaj
         }
-page-action-pocket-panel =
-    .label = Spremi stranicu u { -pocket-brand-name }
 page-action-copy-url-panel =
     .label = Kopiraj poveznicu
 page-action-copy-url-urlbar =
@@ -621,8 +619,6 @@ crashed-subframe-submit =
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = Prikaži sve zabilješke
 bookmarks-manage-bookmarks =
     .label = Upravljanje zabilješkama
 bookmarks-recent-bookmarks-panel-subheader = Nedavne zabilješke
@@ -695,6 +691,12 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = Spremi u { -pocket-brand-name }
     .tooltiptext = Spremi u { -pocket-brand-name }
+
+## Repair text encoding toolbar button
+
+repair-text-encoding-button =
+    .label = Ispravi kodiranje teksta
+    .tooltiptext = Pogodi ispravno kodiranje teksta uz pomoć sadržaja stranice
 
 ## Customize Toolbar Buttons
 

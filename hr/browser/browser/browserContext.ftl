@@ -108,6 +108,18 @@ main-context-menu-bookmark-add =
     .aria-label = Zabilježi ovu stranicu
     .accesskey = Z
     .tooltiptext = Zabilježi ovu stranicu
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-add-mac =
+    .label = Zabilježi stranicu (m)
+    .accesskey = m
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-edit-mac =
+    .label = Uredi zabilješku (m)
+    .accesskey = m
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-add-with-shortcut =
@@ -302,12 +314,12 @@ main-context-menu-image-email =
 main-context-menu-image-set-as-background =
     .label = Postavi kao pozadinu radne površine …
     .accesskey = s
-main-context-menu-image-info =
-    .label = Prikaži informacije o slici
-    .accesskey = f
 main-context-menu-image-set-image-as-background =
     .label = Postavi sliku kao pozadinsku sliku…
     .accesskey = k
+main-context-menu-image-info =
+    .label = Prikaži informacije o slici
+    .accesskey = f
 main-context-menu-image-desc =
     .label = Prikaži opis
     .accesskey = o
@@ -364,9 +376,6 @@ main-context-menu-use-saved-password =
 main-context-menu-suggest-strong-password =
     .label = Predloži jaku lozinku...
     .accesskey = j
-main-context-menu-manage-logins =
-    .label = Upravljaj prijavama…
-    .accesskey = m
 main-context-menu-manage-logins2 =
     .label = Upravljaj prijavama
     .accesskey = m

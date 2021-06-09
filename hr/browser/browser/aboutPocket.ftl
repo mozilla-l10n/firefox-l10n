@@ -15,6 +15,7 @@ pocket-panel-saved-error-generic = Došlo je do greške pri spremanju u { -pocke
 pocket-panel-saved-error-tag-length = Oznake su ograničene na 25 znakova
 pocket-panel-saved-error-only-links = Mogu se spremiti samo poveznice
 pocket-panel-saved-error-not-saved = Stranica nije spremljena
+pocket-panel-saved-error-no-internet = Za spremanje u { -pocket-brand-name } potrebna je internetska veza. Spoji se na internet i pokušaj ponovno.
 pocket-panel-saved-page-removed = Stranica uklonjena
 pocket-panel-saved-page-saved = Spremljeno u { -pocket-brand-name }
 pocket-panel-saved-processing-remove = Uklanjanje stranice…
