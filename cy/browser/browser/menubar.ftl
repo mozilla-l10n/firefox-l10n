@@ -173,6 +173,9 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = Amgodiad Testun
     .accesskey = T
+menu-view-repair-text-encoding =
+    .label = Trwsio Amgodio Testun
+    .accesskey = T
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -254,15 +257,15 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Mewngofnodi i { -brand-product-name }…
     .accesskey = M
+menu-tools-turn-on-sync =
+    .label = Cychwyn { -sync-brand-short-name }…
+    .accesskey = C
 menu-tools-addons-and-themes =
     .label = Ychwanegion a Themâu
     .accesskey = Y
 menu-tools-fxa-sign-in2 =
     .label = Mewngofnodi
     .accesskey = M
-menu-tools-turn-on-sync =
-    .label = Cychwyn { -sync-brand-short-name }…
-    .accesskey = C
 menu-tools-turn-on-sync2 =
     .label = Cychwyn Sync…
     .accesskey = C
@@ -287,13 +290,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Gwybodaeth am y Dudalen
     .accesskey = w
-menu-settings =
-    .label = Gosodiadau
-    .accesskey =
-        { PLATFORM() ->
-            [windows] G
-           *[other] d
-        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -304,6 +300,13 @@ menu-preferences =
         { PLATFORM() ->
             [windows] O
            *[other] w
+        }
+menu-settings =
+    .label = Gosodiadau
+    .accesskey =
+        { PLATFORM() ->
+            [windows] G
+           *[other] d
         }
 menu-tools-layout-debugger =
     .label = Dadfygiwr Dyluniad
@@ -342,14 +345,12 @@ menu-help-import-from-another-browser =
 menu-help-keyboard-shortcuts =
     .label = Llwybrau Byr Bysellfwrdd
     .accesskey = B
-menu-get-help =
-    .label = Derbyn Cymorth
-    .accesskey = D
 menu-help-troubleshooting-info =
     .label = Gwybodaeth am Ddatrys Problemau
     .accesskey = G
-menu-help-taskmanager =
-    .label = Rheolwr Tasgau
+menu-get-help =
+    .label = Derbyn Cymorth
+    .accesskey = D
 menu-help-more-troubleshooting-info =
     .label = Rhagor o Wybodaeth i Ddatrys Problemau
     .accesskey = R
