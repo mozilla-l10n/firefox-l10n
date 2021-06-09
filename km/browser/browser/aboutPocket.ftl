@@ -40,3 +40,8 @@ pocket-panel-signup-tagline-story-two = មើល​ក្នុង { -pocket-br
 
 ## about:pocket-home panel
 
+pocket-panel-home-my-list = បញ្ជីរបស់ខ្ញុំ
+pocket-panel-home-welcome-back = ស្វាគមន៍ការត្រឡប់មកវិញម្ដងទៀត
+pocket-panel-home-explore-popular-topics = ស្វែងរកប្រធានបទពេញនិយម
+pocket-panel-home-discover-more = ស្វែងយល់បន្ថែម
+pocket-panel-home-explore-more = រុករក
