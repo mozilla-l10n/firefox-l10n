@@ -47,6 +47,12 @@ toolbar-undelete-button =
     .label = Dad-ddileu
     .tooltiptext = Dad-ddileu'r negeseuon hyn
 
+## View
+
+menu-view-repair-text-encoding =
+    .label = Trwsio Amgodio Testun
+    .accesskey = T
+
 ## View / Layout
 
 mail-uidensity-label =
