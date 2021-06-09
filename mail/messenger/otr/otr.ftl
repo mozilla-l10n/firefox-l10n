@@ -57,7 +57,28 @@ context-gone_secure_unverified = { $name } kişisiyle, şifrelenmiş ancak doğr
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 context-still_secure = { $name } kişisiyle şifrelenmiş görüşme başarıyla yenilendi.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-encryption-required-part1 = { $name } kişisine şifrelenmemiş bir ileti göndermeye çalıştınız. İlke gereği, şifrelenmemiş iletilere izin verilmiyor.
+msgevent-encryption-required-part2 = Özel bir görüşme başlatılmaya çalışılıyor. Özel görüşme başladığında mesajınız yeniden gönderilecektir.
 msgevent-encryption-error = İletiniz şifrelenirken bir hata oluştu. İleti gönderilmedi.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-connection-ended = { $name } sizinle olan şifrelenmiş bağlantısını kapattı. Yanlışlıkla şifrelememiş mesaj göndermenizi önlemek için mesajınız gönderilmedi. Lütfen şifrelenmiş görüşmeyi sonlandırın veya yeniden başlatın.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-setup-error = { $name } ile özel görüşme ayarlanırken bir hata oluştu.
+# Do not translate 'OTR' (name of an encryption protocol)
+msgevent-msg-reflected = Kendi OTR mesajlarınızı alıyorsunuz. Ya kendinizle konuşmaya çalışıyorsunuz ya da birileri mesajlarınızı size geri yansıtıyor.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-msg-resent = { $name } kişisine son ileti yeniden gönderildi.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg-not-private = { $name } kişisinden alınan şifrelenmiş ileti, şu anda gizli iletişim kurmadığınız için okunamıyor.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg-unreadable = { $name } kişisinden okunamayan bir şifrelenmiş ileti aldınız.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-rcvdmsg-malformed = { $name } kişisinden hatalı oluşturulmuş bir veri iletisi aldınız.

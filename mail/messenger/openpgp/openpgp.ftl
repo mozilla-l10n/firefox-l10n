@@ -295,6 +295,7 @@ openpgp-keygen-external-success = Harici GnuPG anahtar kimliği kaydedildi!
 openpgp-radio-none-desc = Bu kimlik için OpenPGP kullanma.
 openpgp-radio-key-not-usable = Gizli anahtar eksik olduğu için bu anahtar kişisel anahtar olarak kullanılamaz.
 openpgp-radio-key-not-accepted = Bu anahtarı kullanmak için kişisel anahtar olarak onaylamanız gerekiyor.
+openpgp-radio-key-not-found = Bu anahtar bulunamadı! Anahtarı kullanmak istiyorsanız { -brand-short-name }’e aktarmalısınız.
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = Son geçerlilik tarihi: { $date }
 openpgp-key-expires-image =
@@ -400,7 +401,6 @@ openpgp-export-secret-fail = <b>Seçilen gizli anahtar dışa aktarılamadı.</b
 # Strings in keyObj.jsm
 key-ring-pub-key-revoked = { $userId } anahtarı (anahtar kimliği { $keyId }) iptal edildi.
 key-ring-pub-key-expired = { $userId } anahtarının (anahtar kimliği { $keyId }) süresi doldu.
-key-ring-key-disabled = { $userId } anahtarı (anahtar kimliği { $keyId }) devre dışı bırakıldı ve kullanılamaz.
 key-ring-sign-sub-keys-revoked = { $UserId } anahtarının tüm imzalama alt anahtarları (anahtar kimliği { $keyId }) iptal edildi.
 key-ring-sign-sub-keys-expired = { $userId } anahtarının (anahtar kimliği { $keyId }) tüm imzalama alt anahtarlarının süresi doldu.
 key-ring-enc-sub-keys-revoked = { $userId } anahtarının tüm şifreleme alt anahtarları (anahtar kimliği { $keyId }) iptal edildi.

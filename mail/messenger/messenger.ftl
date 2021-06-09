@@ -97,6 +97,10 @@ toolbar-context-menu-remove-extension =
 
 ## Message headers
 
+message-header-address-in-address-book-icon =
+    .alt = Bu adres, adres defterinde mevcut
+message-header-address-not-in-address-book-icon =
+    .alt = Bu adres, adres defterinde mevcut değil
 
 ## Add-on removal warning
 
@@ -105,3 +109,8 @@ toolbar-context-menu-remove-extension =
 addon-removal-title = { $name } kaldırılsın mı?
 addon-removal-confirmation-button = Kaldır
 addon-removal-confirmation-message = { $name } ile birlikte yapılandırması ve verileri { -brand-short-name } uygulamasından kaldırılsın mı?
+caret-browsing-prompt-title = Klavye ile Gezinti
+caret-browsing-prompt-check-text = Tekrar sorma.
+repair-text-encoding-button =
+    .label = Metin kodlamasını onar
+    .tooltiptext = İleti içeriğinden doğru metin kodlamasını tahmin et
