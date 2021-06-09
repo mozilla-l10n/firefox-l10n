@@ -32,12 +32,29 @@ upgrade-dialog-new-secondary-button = Ne sada
 # theme selection screen.
 upgrade-dialog-new-primary-win7-button = U redu, shvaćam!
 
+## Pin Firefox screen
+##
+## These title, subtitle and button strings differ between platforms as they
+## match the OS' application context menu item action where Windows uses "pin"
+## and "taskbar" while macOS "keep" and "Dock" (proper noun).
+
+upgrade-dialog-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Dodaj u Dock
+       *[other] Prikvači na programsku traku
+    }
+upgrade-dialog-pin-secondary-button = Ne sada
+
 ## Default browser screen
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-default-title = Postaviti { -brand-short-name } kao zadani preglednik?
 upgrade-dialog-default-subtitle = Brzina, sigurnost i privatnost svaki put kada surfaš.
 upgrade-dialog-default-primary-button = Postavi kao zadani preglednik
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title-2 = Postavi { -brand-short-name } kao zadani preglednik
+upgrade-dialog-default-subtitle-2 = Stavi brzinu, sigurnost i privatnost na autopilot.
+upgrade-dialog-default-primary-button-2 = Postavi kao zadani preglednik
 upgrade-dialog-default-secondary-button = Ne sada
 
 ## Theme selection screen
@@ -46,6 +63,8 @@ upgrade-dialog-default-secondary-button = Ne sada
 upgrade-dialog-theme-title =
     Čisti početak
     s novom temom
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-theme-title-2 = Čisti početak sa svježom temom
 upgrade-dialog-theme-system = Tema sustava
     .title = Slijedi temu sustava za tipke, izbornike i prozore
 upgrade-dialog-theme-light = Svijetla
