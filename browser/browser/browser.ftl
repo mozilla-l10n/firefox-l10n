@@ -183,8 +183,6 @@ page-action-send-tabs-urlbar =
             [one] Tabblad naar apparaat verzenden
            *[other] { $tabCount } tabbladen naar apparaat verzenden
         }
-page-action-pocket-panel =
-    .label = Pagina opslaan naar { -pocket-brand-name }
 page-action-copy-url-panel =
     .label = Koppeling kopiëren
 page-action-copy-url-urlbar =
@@ -617,8 +615,6 @@ crashed-subframe-submit =
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = Alle bladwijzers tonen
 bookmarks-manage-bookmarks =
     .label = Bladwijzers beheren
 bookmarks-recent-bookmarks-panel-subheader = Recente bladwijzers
@@ -691,6 +687,12 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = Opslaan naar { -pocket-brand-name }
     .tooltiptext = Opslaan naar { -pocket-brand-name }
+
+## Repair text encoding toolbar button
+
+repair-text-encoding-button =
+    .label = Tekstcodering repareren
+    .tooltiptext = De juiste tekstcodering raden vanuit de pagina-inhoud
 
 ## Customize Toolbar Buttons
 

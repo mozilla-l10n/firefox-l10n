@@ -15,6 +15,7 @@ pocket-panel-saved-error-generic = Er is een fout opgetreden bij het opslaan naa
 pocket-panel-saved-error-tag-length = Labels zijn beperkt tot 25 tekens
 pocket-panel-saved-error-only-links = Alleen koppelingen kunnen worden opgeslagen
 pocket-panel-saved-error-not-saved = Pagina niet opgeslagen
+pocket-panel-saved-error-no-internet = U moet met het internet zijn verbonden om naar { -pocket-brand-name } te kunnen opslaan. Maak verbinding met het internet en probeer het opnieuw.
 pocket-panel-saved-page-removed = Pagina verwijderd
 pocket-panel-saved-page-saved = Opgeslagen naar { -pocket-brand-name }
 pocket-panel-saved-processing-remove = Pagina verwijderen…
