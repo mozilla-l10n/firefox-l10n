@@ -23,7 +23,7 @@
 
 <!ENTITY performanceUI.toolbar.waterfall "Sequenza temporale">
 <!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Visualizza le diverse operazioni eseguite dal browser nel corso della registrazione, mostrandole in sequenza come una cascata.">
-<!ENTITY performanceUI.toolbar.js-calltree "JavaScript">
+<!ENTITY performanceUI.toolbar.js-calltree "Albero delle chiamate">
 <!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Evidenzia le funzioni JavaScript in cui il browser ha speso più tempo nel corso della registrazione.">
 <!ENTITY performanceUI.toolbar.memory-calltree "Allocazioni">
 <!ENTITY performanceUI.toolbar.allocations.tooltiptext "Visualizza in che modo è stata allocata la memoria nel corso della registrazione.">
