@@ -110,6 +110,7 @@ addon-removal-title = Remover { $name }?
 addon-removal-confirmation-button = Remover
 addon-removal-confirmation-message = Remove { $name } e su configuration e datos ex { -brand-short-name }?
 caret-browsing-prompt-title = Navigation a cursor
+caret-browsing-prompt-text = Premer sur F7 activa o disactiva le navigation a cursor. Iste functionalitate placia un cursor mobile intra alcun contento, permittente que tu selige texto con le claviero. Desira tu activar le navigation a cursor?
 caret-browsing-prompt-check-text = Non plus demandar.
 repair-text-encoding-button =
     .label = Corriger le codification del texto:
