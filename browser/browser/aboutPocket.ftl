@@ -40,3 +40,5 @@ pocket-panel-signup-tagline-story-two = { -pocket-brand-name }-те кез-ке�
 
 ## about:pocket-home panel
 
+pocket-panel-home-my-list = Менің тізімім
+pocket-panel-home-welcome-back = Қайта қош келдіңіз
