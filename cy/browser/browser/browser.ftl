@@ -713,7 +713,7 @@ save-to-pocket-button =
 ## Repair text encoding toolbar button
 
 repair-text-encoding-button =
-    .label = Trwsio Amgodio Testun
+    .label = Trwsio amgodio testun
     .tooltiptext = Dyfalu'r amgodio testun cywir o gynnwys y dudalen
 
 ## Customize Toolbar Buttons

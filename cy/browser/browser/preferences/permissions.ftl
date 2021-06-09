@@ -91,9 +91,9 @@ permissions-exceptions-cookie-desc = Gallwch bennu pa wefannau sy'n cael defnydd
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window =
-    .title = Eithriadau - Modd HTTPS yn Unig
+    .title = Eithriadau - Modd HTTPS-yn-Unig
     .style = { permissions-window.style }
-permissions-exceptions-https-only-desc = Gallwch ddiffodd Modd HTTPS-yn-unig ar gyfer gwefannau penodol. Ni fydd { -brand-short-name } yn ceisio uwchraddio'r cysylltiad i sicrhau HTTPS ar gyfer y gwefannau hynny. Nid oes eithriadau ar gyfer ffenestri preifat.
+permissions-exceptions-https-only-desc = Gallwch ddiffodd Modd HTTPS-yn-Unig ar gyfer gwefannau penodol. Ni fydd { -brand-short-name } yn ceisio uwchraddio'r cysylltiad i sicrhau HTTPS ar gyfer y gwefannau hynny. Nid oes eithriadau ar gyfer ffenestri preifat.
 
 ## Exceptions - Pop-ups
 

@@ -43,3 +43,7 @@ third-party-button-reload = Ail-lwytho gyda manylion y system
     .title = Ail-lwytho gyda manylion y system
 third-party-button-open =
     .title = Agor lleoliad ffeil…
+third-party-button-expand =
+    .title = Dangos gwybodaeth fanwl
+third-party-button-collapse =
+    .title = Cau gwybodaeth fanwl

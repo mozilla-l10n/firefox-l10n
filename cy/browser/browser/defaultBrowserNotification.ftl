@@ -14,7 +14,7 @@ default-browser-notification-button =
 
 default-browser-prompt-title-pin = Gwneud { -brand-short-name } eich prif borwr?
 default-browser-prompt-message-pin = Cadwch { -brand-short-name } ar flaenau eich bysedd — ei wneud eich porwr rhagosodedig a'i binio i'ch bar tasgau.
-default-browser-prompt-message-pin-mac = Cadwch { -brand-short-name } wrth law — ei wneud eich porwr rhagosodedig a'i gadw'n eich Doc.
+default-browser-prompt-message-pin-mac = Cadwch { -brand-short-name } wrth law — ei wneud eich prif borwr a'i gadw'n eich Doc.
 default-browser-prompt-button-primary-pin = Ei wneud eich prif borwr
 default-browser-prompt-title-alt = Gwneud { -brand-short-name } eich prif borwr?
 default-browser-prompt-message-alt = Cael cyflymder, diogelwch a phreifatrwydd bob tro y byddwch chi'n pori.

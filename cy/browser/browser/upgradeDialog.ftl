@@ -67,7 +67,7 @@ upgrade-dialog-default-primary-button = Gosod fel y porwr ragosodedig
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-default-title-2 = Gwneud { -brand-short-name } eich prif borwr
 upgrade-dialog-default-subtitle-2 = Rhowch gyflymder, diogelwch a phreifatrwydd ar awtobeilot.
-upgrade-dialog-default-primary-button-2 = Gwneud yn borwr rhagosodedig
+upgrade-dialog-default-primary-button-2 = Ei wneud eich prif borwr
 upgrade-dialog-default-secondary-button = Nid nawr
 
 ## Theme selection screen
@@ -77,7 +77,7 @@ upgrade-dialog-theme-title =
     Dechrau'n lân
     gyda thema wedi'i diweddaru
 # This title can be explicitly wrapped to control which words are on which line.
-upgrade-dialog-theme-title-2 = Dechrau'n lân gyda thema newydd
+upgrade-dialog-theme-title-2 = Dechrau'n lân gyda thema newydd sgleiniog
 upgrade-dialog-theme-system = Thema'r system
     .title = Dilyn botymau, dewislenni a ffenestri thema'r system weithredu
 upgrade-dialog-theme-light = Golau

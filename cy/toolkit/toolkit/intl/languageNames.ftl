@@ -159,6 +159,7 @@ language-name-ru = Rwseg
 language-name-rw = Kinyarwanda
 language-name-sa = Sansgrit
 language-name-sc = Sardinieg
+language-name-sco = Scots
 language-name-sd = Sindhi
 language-name-se = Sami Gogleddol
 language-name-sg = Sango
