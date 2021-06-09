@@ -173,6 +173,9 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = Metin kodlaması
     .accesskey = k
+menu-view-repair-text-encoding =
+    .label = Metin kodlamasını onar
+    .accesskey = M
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -254,15 +257,15 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = { -brand-product-name }’a giriş yap…
     .accesskey = g
+menu-tools-turn-on-sync =
+    .label = { -sync-brand-short-name }’i etkinleştir…
+    .accesskey = n
 menu-tools-addons-and-themes =
     .label = Eklentiler ve temalar
     .accesskey = a
 menu-tools-fxa-sign-in2 =
     .label = Giriş yap
     .accesskey = G
-menu-tools-turn-on-sync =
-    .label = { -sync-brand-short-name }’i etkinleştir…
-    .accesskey = n
 menu-tools-turn-on-sync2 =
     .label = Eşitlemeyi başlat…
     .accesskey = E
@@ -287,13 +290,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Sayfa bilgileri
     .accesskey = b
-menu-settings =
-    .label = Ayarlar
-    .accesskey =
-        { PLATFORM() ->
-            [windows] A
-           *[other] r
-        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -304,6 +300,13 @@ menu-preferences =
         { PLATFORM() ->
             [windows] S
            *[other] T
+        }
+menu-settings =
+    .label = Ayarlar
+    .accesskey =
+        { PLATFORM() ->
+            [windows] A
+           *[other] r
         }
 menu-tools-layout-debugger =
     .label = Düzen hata ayıklayıcısı

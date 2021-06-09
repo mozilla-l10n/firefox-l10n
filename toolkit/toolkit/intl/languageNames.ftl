@@ -159,6 +159,7 @@ language-name-ru = Rusça
 language-name-rw = Kinyarwanda Dili
 language-name-sa = Sanskritçe
 language-name-sc = Sardinya Dili
+language-name-sco = İskoçça
 language-name-sd = Sind Dili
 language-name-se = Nord Sami
 language-name-sg = Sango

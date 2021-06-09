@@ -33,6 +33,8 @@ third-party-tag-background = Arka plan
         uygulamayı engellemedi.
 third-party-unsigned-icon =
     .title = Bu modül imzalanmamış
+third-party-warning-icon =
+    .title = { -brand-short-name } bu modülden gelen kod yüzünden çöktü
 third-party-status-loaded = Yüklendi
 third-party-status-blocked = Engellendi
 third-party-status-redirected = Yönlendirildi
