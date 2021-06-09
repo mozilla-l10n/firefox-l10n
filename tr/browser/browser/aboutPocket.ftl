@@ -15,6 +15,7 @@ pocket-panel-saved-error-generic = { -pocket-brand-name }’a kaydetmeye çalı�
 pocket-panel-saved-error-tag-length = Etiketler en fazla 25 karakter olabilir
 pocket-panel-saved-error-only-links = Yalnızca bağlantılar kaydedilebilir
 pocket-panel-saved-error-not-saved = Sayfa kaydedilmedi
+pocket-panel-saved-error-no-internet = { -pocket-brand-name }’a kaydetmek için internete bağlı olmalısınız. Lütfen internete bağlanıp yeniden deneyin.
 pocket-panel-saved-page-removed = Sayfa silindi
 pocket-panel-saved-page-saved = { -pocket-brand-name }’a kaydedildi
 pocket-panel-saved-processing-remove = Sayfa siliniyor…
