@@ -173,6 +173,9 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = Tekstcodering
     .accesskey = c
+menu-view-repair-text-encoding =
+    .label = Tekstcodering repareren
+    .accesskey = c
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -254,15 +257,15 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Aanmelden bij { -brand-product-name }…
     .accesskey = m
+menu-tools-turn-on-sync =
+    .label = { -sync-brand-short-name } inschakelen…
+    .accesskey = n
 menu-tools-addons-and-themes =
     .label = Add-ons en thema’s
     .accesskey = A
 menu-tools-fxa-sign-in2 =
     .label = Aanmelden
     .accesskey = m
-menu-tools-turn-on-sync =
-    .label = { -sync-brand-short-name } inschakelen…
-    .accesskey = n
 menu-tools-turn-on-sync2 =
     .label = Synchronisatie inschakelen…
     .accesskey = n
@@ -287,13 +290,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Pagina-info
     .accesskey = i
-menu-settings =
-    .label = Instellingen
-    .accesskey =
-        { PLATFORM() ->
-            [windows] I
-           *[other] n
-        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -304,6 +300,13 @@ menu-preferences =
         { PLATFORM() ->
             [windows] O
            *[other] V
+        }
+menu-settings =
+    .label = Instellingen
+    .accesskey =
+        { PLATFORM() ->
+            [windows] I
+           *[other] n
         }
 menu-tools-layout-debugger =
     .label = Lay-out-debugger
@@ -342,14 +345,12 @@ menu-help-import-from-another-browser =
 menu-help-keyboard-shortcuts =
     .label = Sneltoetsen
     .accesskey = S
-menu-get-help =
-    .label = Hulp verkrijgen
-    .accesskey = H
 menu-help-troubleshooting-info =
     .label = Probleemoplossingsinformatie
     .accesskey = P
-menu-help-taskmanager =
-    .label = Taakbeheerder
+menu-get-help =
+    .label = Hulp verkrijgen
+    .accesskey = H
 menu-help-more-troubleshooting-info =
     .label = Meer probleemoplossingsinformatie
     .accesskey = p
