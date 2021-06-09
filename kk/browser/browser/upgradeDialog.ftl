@@ -24,10 +24,14 @@ upgrade-dialog-new-primary-win7-button = Жақсы, түсіндім!
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
+upgrade-dialog-pin-secondary-button = Қазір емес
 
 ## Default browser screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title = { -brand-short-name } өнімін негізгі браузер қылу керек пе?
 upgrade-dialog-default-primary-button = Негізгі браузер қылу
+upgrade-dialog-default-primary-button-2 = Негізгі браузер қылу
 upgrade-dialog-default-secondary-button = Қазір емес
 
 ## Theme selection screen
