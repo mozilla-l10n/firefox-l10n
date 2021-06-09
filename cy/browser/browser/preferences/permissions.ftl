@@ -18,6 +18,12 @@ permissions-session =
 permissions-allow =
     .label = Caniatáu
     .accesskey = a
+permissions-button-off =
+    .label = Diffodd
+    .accesskey = D
+permissions-button-off-temporarily =
+    .label = Diffodd Dros Dro
+    .accesskey = D
 permissions-site-name =
     .label = Gwefan
 permissions-status =
@@ -58,6 +64,10 @@ permissions-capabilities-listitem-block =
     .value = Rhwystro
 permissions-capabilities-listitem-allow-session =
     .value = Caniatáu ar gyfer y Sesiwn
+permissions-capabilities-listitem-off =
+    .value = Diffodd
+permissions-capabilities-listitem-off-temporarily =
+    .value = Diffodd dros dro
 
 ## Invalid Hostname Dialog
 
@@ -77,6 +87,13 @@ permissions-exceptions-cookie-window =
     .title = Eithriadau - Cwcis a Data Gwefan
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = Gallwch bennu pa wefannau sy'n cael defnyddio cwcis a data gwefannau, neu beidio.  Teipiwch union gyfeiriad y wefan rydych am ei reoli ac yna clicio Rhwystro, Caniatáu am y Sesiwn neu Caniatáu.
+
+## Exceptions - HTTPS-Only Mode
+
+permissions-exceptions-https-only-window =
+    .title = Eithriadau - Modd HTTPS yn Unig
+    .style = { permissions-window.style }
+permissions-exceptions-https-only-desc = Gallwch ddiffodd Modd HTTPS-yn-unig ar gyfer gwefannau penodol. Ni fydd { -brand-short-name } yn ceisio uwchraddio'r cysylltiad i sicrhau HTTPS ar gyfer y gwefannau hynny. Nid oes eithriadau ar gyfer ffenestri preifat.
 
 ## Exceptions - Pop-ups
 
