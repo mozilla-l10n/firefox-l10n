@@ -104,15 +104,34 @@ profiler-popup-discard-button =
     .label = បោះបង់
 profiler-popup-capture-button =
     .label = ចាប់យក
+profiler-popup-start-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧1
+       *[other] Ctrl+Shift+1
+    }
+profiler-popup-capture-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧2
+       *[other] Ctrl+Shift+2
+    }
 
 ## History panel
 
+appmenu-manage-history =
+    .label = គ្រប់គ្រងប្រវត្តិ
+appmenu-reopen-all-tabs = ស្ដារផ្ទាំងទាំងអស់ម្ដងទៀត
+appmenu-reopen-all-windows = ស្ដារផ្ទាំងបង្អួចទាំងអស់
 
 ## Help panel
 
+appmenu-help-header =
+    .title = ជំនួយ { -brand-shorter-name }
 appmenu-about =
     .label = អំពី { -brand-shorter-name }
     .accesskey = A
+appmenu-get-help =
+    .label = ទទួលបានជំនួយ
+    .accesskey = H
 appmenu-help-report-site-issue =
     .label = រាយការណ៍​បញ្ហា​គេហទំព័រ…
 appmenu-help-feedback-page =
@@ -137,3 +156,4 @@ appmenu-help-not-deceptive =
 
 appmenu-taskmanager =
     .label = កម្មវិធី​គ្រប់គ្រង​ភារកិច្ច
+appmenu-developer-tools-subheader = របារឧបករណ៍កម្មវិធីស្វែងរុករក
