@@ -163,6 +163,8 @@ account-setup-advanced-setup-button = Gelişmiş yapılandırma
 ## Warning insecure server dialog
 
 account-setup-insecure-title = Uyarı!
+account-setup-insecure-incoming-title = Gelen posta ayarları:
+account-setup-insecure-outgoing-title = Giden posta ayarları:
 # Variables:
 #  $server (String): The name of the hostname of the server the user was trying to connect to.
 account-setup-warning-cleartext = <b>{ $server }</b> sunucusu şifreleme kullanmıyor.
@@ -181,6 +183,8 @@ exchange-dialog-cancel-button = Vazgeç
 
 ## Alert dialogs
 
+account-setup-creation-error-title = Hesap Oluşturma Hatası
+account-setup-confirm-advanced-title = Gelişmiş Yapılandırmayı Onayla
 account-setup-confirm-advanced-description = Bu iletişim kutusu kapatılacak ve yapılandırma hatalı olsa bile mevcut ayarlarla bir hesap oluşturulacaktır. Devam etmek istiyor musunuz?
 
 ## Addon installation section
