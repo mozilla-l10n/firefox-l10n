@@ -308,6 +308,7 @@ cfr-whatsnew-cross-site-tracking-body = Tzemreḍ tura ad tferneḍ ammesten yuf
 
 ## Full Video Support CFR message
 
+cfr-doorhanger-video-support-body = Tividyutin ɣef usmel-a zemrent ur teddunt ara akken ilaq deg lqem-a n { -brand-short-name }. I tallalt n tvidyut taččurant, leqqem { -brand-short-name } tura.
 cfr-doorhanger-video-support-header = Leqqem { -brand-short-name } i tɣuri n tvidyut
 cfr-doorhanger-video-support-primary-button = Leqqem tura
     .accesskey = L
