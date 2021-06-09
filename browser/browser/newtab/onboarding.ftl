@@ -309,7 +309,7 @@ mr1-onboarding-sign-in-button-label = Mewngofnodi
 
 mr1-onboarding-default-header = Gwneud { -brand-short-name } eich prif borwr?
 mr1-onboarding-default-subtitle = Rhowch gyflymder, diogelwch a phreifatrwydd ar awtobeilot.
-mr1-onboarding-default-primary-button-label = Gwneud yn borwr rhagosodedig
+mr1-onboarding-default-primary-button-label = Ei wneud eich prif borwr
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
