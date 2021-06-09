@@ -330,5 +330,12 @@ cfr-whatsnew-cross-site-tracking-body = Сада можете да укључи�
 
 ## Full Video Support CFR message
 
+cfr-doorhanger-video-support-header =
+    Ажурирајте { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "acc") }
+        [feminine] { -brand-short-name(case: "acc") }
+        [neuter] { -brand-short-name(case: "acc") }
+       *[other] програм { -brand-short-name }
+    } да бисте пустили видео
 cfr-doorhanger-video-support-primary-button = Ажурирај
     .accesskey = А
