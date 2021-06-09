@@ -189,8 +189,6 @@ page-action-send-tabs-urlbar =
             [many] Anfon { $tabCount } Tab i Ddyfais
            *[other] Anfon { $tabCount } Thab i Ddyfais
         }
-page-action-pocket-panel =
-    .label = Cadw Tudalen i { -pocket-brand-name }
 page-action-copy-url-panel =
     .label = Copïo'r Ddolen
 page-action-copy-url-urlbar =
@@ -639,8 +637,6 @@ crashed-subframe-submit =
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = Dangos Pob Nod Tudalen
 bookmarks-manage-bookmarks =
     .label = Rheoli Nodau Tudalen
 bookmarks-recent-bookmarks-panel-subheader = Nodau Tudalen Diweddar
@@ -713,6 +709,12 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = Cadw i { -pocket-brand-name }
     .tooltiptext = Cadw i { -pocket-brand-name }
+
+## Repair text encoding toolbar button
+
+repair-text-encoding-button =
+    .label = Trwsio Amgodio Testun
+    .tooltiptext = Dyfalu'r amgodio testun cywir o gynnwys y dudalen
 
 ## Customize Toolbar Buttons
 

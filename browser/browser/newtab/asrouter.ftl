@@ -246,8 +246,6 @@ cfr-doorhanger-milestone-heading2 =
     }
 cfr-doorhanger-milestone-ok-button = Gweld y Cyfan
     .accesskey = G
-cfr-doorhanger-milestone-close-button = Cau
-    .accesskey = C
 
 ## What’s New Panel Content for Firefox 76
 
@@ -272,6 +270,8 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Eicon llun mewn llun
 
 ## Protections Dashboard message
 
+cfr-doorhanger-milestone-close-button = Cau
+    .accesskey = C
 
 ## What’s New Panel Content for Firefox 76
 ## Protections Dashboard message
@@ -290,8 +290,6 @@ cfr-whatsnew-better-pdf-body = Mae dogfennau PDF nawr yn agor yn uniongyrchol yn
 
 cfr-doorhanger-doh-body = Mae eich preifatrwydd yn bwysig. Mae { -brand-short-name } bellach yn cyfeirio eich ceisiadau DNS yn ddiogel pryd bynnag y bo modd at wasanaeth partner i'ch diogelu wrth i chi bori.
 cfr-doorhanger-doh-header = Chwilio DNS mwy diogel, wedi'u hamgryptio
-cfr-doorhanger-doh-primary-button = Iawn, Wedi deall!
-    .accesskey = I
 cfr-doorhanger-doh-primary-button-2 = Iawn
     .accesskey = I
 cfr-doorhanger-doh-secondary-button = Analluogi
@@ -337,3 +335,10 @@ cfr-whatsnew-bookmarking-body = Mae'n haws cadw golwg ar eich hoff wefannau. Mae
 
 cfr-whatsnew-cross-site-tracking-header = Diogelwch gynhwysfawr rhag tracio gan gwcis ar draws gwefannau
 cfr-whatsnew-cross-site-tracking-body = Nawr gallwch chi ddewis diogelwch gwell rhag tracio gan gwcis. Gall { -brand-short-name } ynysu eich gweithgareddau a'ch data i'r wefan rydych chi arni ar hyn o bryd felly nid yw gwybodaeth sy'n cael ei storio yn y porwr yn cael ei rhannu rhwng gwefannau.
+
+## Full Video Support CFR message
+
+cfr-doorhanger-video-support-body = Efallai na fydd fideos ar y wefan hon yn chwarae'n gywir ar y fersiwn hon o { -brand-short-name }. I gael cefnogaeth fideo lawn, diweddarwch { -brand-short-name } nawr.
+cfr-doorhanger-video-support-header = Diweddarwch { -brand-short-name } i chwarae fideo
+cfr-doorhanger-video-support-primary-button = Diweddarwch nawr
+    .accesskey = D
