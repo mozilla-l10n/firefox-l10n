@@ -373,10 +373,20 @@ mr1-onboarding-sign-in-button-label = Пријави ме
 ## Title, subtitle and primary button string used on set default onboarding screen
 ## when Firefox is not default browser
 
+mr1-onboarding-default-header =
+    Постави { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "acc") }
+        [feminine] { -brand-short-name(case: "acc") }
+        [neuter] { -brand-short-name(case: "acc") }
+       *[other] програм { -brand-short-name }
+    } као подразумевани прегледач
+mr1-onboarding-default-subtitle = Брзина, безбедност и приватност пре свега.
+mr1-onboarding-default-primary-button-label = Постави као подразумевани прегледач
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
 mr1-onboarding-import-header = Понесите све са собом
+mr1-onboarding-import-subtitle = Увезите лозинке, <br/>обележиваче и још много тога.
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
