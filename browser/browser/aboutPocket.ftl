@@ -15,6 +15,7 @@ pocket-panel-saved-error-generic = Beim Speichern des Links bei { -pocket-brand-
 pocket-panel-saved-error-tag-length = Tags dürfen höchsten 25 Zeichen lang sein.
 pocket-panel-saved-error-only-links = Es können nur Links gespeichert werden
 pocket-panel-saved-error-not-saved = Seite nicht gespeichert
+pocket-panel-saved-error-no-internet = Sie müssen mit dem Internet verbunden sein, um bei { -pocket-brand-name } zu speichern. Bitte stellen Sie eine Internetverbindung her und versuchen Sie es erneut.
 pocket-panel-saved-page-removed = Seite entfernt
 pocket-panel-saved-page-saved = Bei { -pocket-brand-name } gespeichert
 pocket-panel-saved-processing-remove = Seite wird entfernt…

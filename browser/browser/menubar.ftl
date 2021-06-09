@@ -173,6 +173,9 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = Textkodierung
     .accesskey = T
+menu-view-repair-text-encoding =
+    .label = Textkodierung reparieren
+    .accesskey = T
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -254,15 +257,15 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Bei { -brand-product-name } anmelden…
     .accesskey = B
+menu-tools-turn-on-sync =
+    .label = { -sync-brand-short-name } aktivieren…
+    .accesskey = n
 menu-tools-addons-and-themes =
     .label = Add-ons und Themes
     .accesskey = A
 menu-tools-fxa-sign-in2 =
     .label = Anmelden
     .accesskey = m
-menu-tools-turn-on-sync =
-    .label = { -sync-brand-short-name } aktivieren…
-    .accesskey = n
 menu-tools-turn-on-sync2 =
     .label = Synchronisation aktivieren…
     .accesskey = n
@@ -287,19 +290,19 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Seiteninformationen
     .accesskey = S
-menu-settings =
-    .label = Einstellungen
-    .accesskey =
-        { PLATFORM() ->
-            [windows] E
-           *[other] E
-        }
 menu-preferences =
     .label =
         { PLATFORM() ->
             [windows] Einstellungen
            *[other] Einstellungen
         }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] E
+           *[other] E
+        }
+menu-settings =
+    .label = Einstellungen
     .accesskey =
         { PLATFORM() ->
             [windows] E
@@ -342,14 +345,12 @@ menu-help-import-from-another-browser =
 menu-help-keyboard-shortcuts =
     .label = Tastenkombinationen
     .accesskey = T
-menu-get-help =
-    .label = Hilfe erhalten
-    .accesskey = H
 menu-help-troubleshooting-info =
     .label = Informationen zur Fehlerbehebung
     .accesskey = z
-menu-help-taskmanager =
-    .label = Task-Manager
+menu-get-help =
+    .label = Hilfe erhalten
+    .accesskey = H
 menu-help-more-troubleshooting-info =
     .label = Weitere Informationen zur Fehlerbehebung
     .accesskey = z
