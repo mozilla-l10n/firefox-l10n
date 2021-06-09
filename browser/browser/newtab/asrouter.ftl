@@ -226,8 +226,6 @@ cfr-doorhanger-milestone-heading2 =
     }
 cfr-doorhanger-milestone-ok-button = Vidi sve
     .accesskey = s
-cfr-doorhanger-milestone-close-button = Zatvori
-    .accesskey = Z
 
 ## What’s New Panel Content for Firefox 76
 
@@ -252,6 +250,8 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Ikona slike-u-slici
 
 ## Protections Dashboard message
 
+cfr-doorhanger-milestone-close-button = Zatvori
+    .accesskey = Z
 
 ## What’s New Panel Content for Firefox 76
 ## Protections Dashboard message
@@ -270,8 +270,6 @@ cfr-whatsnew-better-pdf-body = PDF dokumenti sada se otvaraju izravno u { -brand
 
 cfr-doorhanger-doh-body = Tvoja privatnost je važna. { -brand-short-name } sada sigurno usmjerava tvoje DNS zahtjeve kad god je to moguće na partnersku uslugu, kako bi te se zaštitilo dok pregledavaš.
 cfr-doorhanger-doh-header = Sigurnije, šifrirano pregledavanje DNS-a
-cfr-doorhanger-doh-primary-button = U redu, razumijem
-    .accesskey = r
 cfr-doorhanger-doh-primary-button-2 = U redu
     .accesskey = U
 cfr-doorhanger-doh-secondary-button = Deaktiviraj
@@ -317,3 +315,10 @@ cfr-whatsnew-bookmarking-body = Lakše je pratiti tvoje omiljene stranice. { -br
 
 cfr-whatsnew-cross-site-tracking-header = Sveobuhvatna zaštita od praćenja pomoću međustraničnih kolačića
 cfr-whatsnew-cross-site-tracking-body = Sada možeš uključiti bolju zaštitu od praćenja pomoću kolačića. { -brand-short-name } može izolirati tvoje aktivnosti i podatke na web stranici na kojoj se trenutno nalaziš, tako da se podatci u pregledniku ne mogu dijeliti među web stranicama.
+
+## Full Video Support CFR message
+
+cfr-doorhanger-video-support-body = Videozapisi na ovoj stranici možda se neće ispravno reproducirati na ovoj { -brand-short-name } verziji. Za potpunu podršku za videozapise, nadogradi { -brand-short-name } sada.
+cfr-doorhanger-video-support-header = Nadogradi { -brand-short-name } za reprodukciju videozapisa
+cfr-doorhanger-video-support-primary-button = Nadogradi sada
+    .accesskey = N
