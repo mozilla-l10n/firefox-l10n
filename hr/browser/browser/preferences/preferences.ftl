@@ -1009,6 +1009,7 @@ enhanced-tracking-protection-setting-custom =
 content-blocking-etp-standard-desc = Uravnoteženo za zaštitu i performansu. Stranice će se normalno učitavati.
 content-blocking-etp-strict-desc = Jača zaštita, ali može prouzročiti probleme nekim web-stanicama ili sadržajima.
 content-blocking-etp-custom-desc = Odaberi programe za praćenje i skripte koje želiš blokirati.
+content-blocking-etp-blocking-desc = { -brand-short-name } blokira sljedeće:
 content-blocking-private-windows = Praćenje sadržaja u privatnim prozorima
 content-blocking-cross-site-cookies-in-all-windows = Međustranični kolačići u svim prozorima (uključujući kolačiće za praćenje)
 content-blocking-cross-site-tracking-cookies = Višestranični kolačići za praćenje
