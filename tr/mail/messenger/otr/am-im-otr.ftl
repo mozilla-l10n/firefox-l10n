@@ -17,12 +17,15 @@ otr-log =
     .label = Görüşme günlüklerine OTR şifrelemeli iletileri dahil et
 otr-requireEncryption =
     .label = Bire bir görüşmeler için uçtan uca şifrelemeyi zorunlu tut
+otr-require-encryption =
+    .label = Bire bir görüşmeler için uçtan uca şifrelemeyi zorunlu tut
 otr-require-encryption-info =
     Uçtan uca şifreleme gerektiğinde, bire bir görüşmelerdeki iletiler
     şifrelenmedikleri sürece gönderilmez. Alınan şifrelenmemiş iletiler
     normal görüşmenin bir parçası olarak gösterilmez ve günlüğe kaydedilmez.
 otr-verifyNudge =
     .label = Doğrulanmamış kişileri doğrulamamı her zaman hatırlat
-
 otr-notYetAvailable = henüz mevcut değil
-
+otr-verify-nudge =
+    .label = Doğrulanmamış kişileri doğrulamamı her zaman hatırlat
+otr-not-yet-available = henüz mevcut değil

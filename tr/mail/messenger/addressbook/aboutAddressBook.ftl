@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, you can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-addressbook-title = Adres Defteri
 
 ## Toolbar
 
@@ -36,6 +37,12 @@ about-addressbook-search =
     .placeholder = { $name } defterinde ara
 about-addressbook-search-all =
     .placeholder = Tüm adres defterlerinde ara
+about-addressbook-sort-button =
+    .title = Liste sırasını değiştir
+about-addressbook-name-format-firstlast =
+    .label = Adı Soyadı
+about-addressbook-name-format-lastfirst =
+    .label = Soyadı, Adı
 about-addressbook-sort-name-ascending =
     .label = Ada göre sırala (A > Z)
 about-addressbook-sort-name-descending =
