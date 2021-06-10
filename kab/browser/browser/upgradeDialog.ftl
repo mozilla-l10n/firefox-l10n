@@ -16,6 +16,7 @@ upgrade-dialog-new-subtitle = Yettufeṣṣel i wakken ak·akem-yawi sani tebɣi
 # should stay inside the span.
 upgrade-dialog-new-alt-subtitle = Bdu s tririt <span data-l10n-name="zap">{ -brand-short-name } s usiti kan
 upgrade-dialog-new-item-menu-title = Afeggag n yifecka d wumuɣen ttwasifssen
+upgrade-dialog-new-item-menu-description = Izeggir deg wayen yesεan azal i wakken ad tafeḍ ayen iɣef tettnadiḍ.
 upgrade-dialog-new-item-tabs-title = Accaren atraren
 upgrade-dialog-new-primary-primary-button = Err { -brand-short-name } d iminig-iw agejdan
     .title = Yesbadu { -brand-short-name } d iminig amezwer yerna isneteḍ-it ɣer ufaggag n twuriwin
