@@ -135,6 +135,15 @@ appmenu-manage-history =
     .label = จัดการประวัติ
 appmenu-reopen-all-tabs = เปิดแท็บทั้งหมดใหม่
 appmenu-reopen-all-windows = เปิดหน้าต่างทั้งหมดใหม่
+appmenu-restore-session =
+    .label = เรียกคืนวาระก่อนหน้า
+appmenu-clear-history =
+    .label = ล้างประวัติล่าสุด…
+appmenu-recent-history-subheader = ประวัติล่าสุด
+appmenu-recently-closed-tabs =
+    .label = แท็บที่ปิดล่าสุด
+appmenu-recently-closed-windows =
+    .label = หน้าต่างที่ปิดล่าสุด
 
 ## Help panel
 
