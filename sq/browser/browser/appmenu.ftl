@@ -135,6 +135,15 @@ appmenu-manage-history =
     .label = Administroni Historik
 appmenu-reopen-all-tabs = Rihapi Krejt Skedat
 appmenu-reopen-all-windows = Rihapi Krejt Dritaret
+appmenu-restore-session =
+    .label = Riktheni Sesionin e Mëparshëm
+appmenu-clear-history =
+    .label = Spastroni Historikun Së Fundi…
+appmenu-recent-history-subheader = Historik Së Fundi
+appmenu-recently-closed-tabs =
+    .label = Skeda të Mbyllura Së Fundi
+appmenu-recently-closed-windows =
+    .label = Dritare të mbyllura Së Fundi
 
 ## Help panel
 
@@ -182,3 +191,5 @@ appmenu-customizetoolbar =
 appmenu-taskmanager =
     .label = Përgjegjës Punësh
 appmenu-developer-tools-subheader = Mjete Shfletuesi
+appmenu-developer-tools-extensions =
+    .label = Zgjerime për Zhvillues
