@@ -191,3 +191,5 @@ appmenu-customizetoolbar =
 appmenu-taskmanager =
     .label = Task Manager
 appmenu-developer-tools-subheader = Wab-Stravaiger Tools
+appmenu-developer-tools-extensions =
+    .label = Extensions fur developers
