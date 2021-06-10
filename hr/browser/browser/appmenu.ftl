@@ -137,6 +137,8 @@ appmenu-reopen-all-tabs = Ponovno otvori sve kartice
 appmenu-reopen-all-windows = Ponovno otvori sve prozore
 appmenu-recently-closed-tabs =
     .label = Nedavno zatvorene kartice
+appmenu-recently-closed-windows =
+    .label = Nedavno zatvoreni prozori
 
 ## Help panel
 
