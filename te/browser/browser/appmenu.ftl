@@ -97,6 +97,10 @@ appmenu-manage-history =
     .label = చరిత్ర నిర్వహణ
 appmenu-reopen-all-tabs = ట్యాబులన్నింటినీ మళ్లీ తెరువు
 appmenu-reopen-all-windows = కిటికీలన్నిటినీ మళ్ళీ తెరువు
+appmenu-restore-session =
+    .label = మునుపటి సెషన్‌ను పునరుద్ధరించు
+appmenu-clear-history =
+    .label = ఇటీవలి చరిత్రను తుడిచివేయి…
 appmenu-recently-closed-windows =
     .label = ఇటీవల మూసిన విండోలు
 
