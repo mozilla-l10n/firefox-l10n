@@ -139,6 +139,8 @@ appmenu-reopen-all-tabs = Alle ljepblêden opnij iepenje
 appmenu-reopen-all-windows = Alle finsters opnij iepenje
 appmenu-recently-closed-tabs =
     .label = Koartlyn sluten ljepblêden
+appmenu-recently-closed-windows =
+    .label = Koartlyn sluten skermen
 
 ## Help panel
 
