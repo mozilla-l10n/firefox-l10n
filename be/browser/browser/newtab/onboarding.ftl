@@ -285,6 +285,9 @@ mr1-onboarding-pin-header =
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
+# This string will be used on welcome page primary button label
+# when Firefox is both pinned and default
+mr1-onboarding-get-started-primary-button-label = Пачаць
 mr1-onboarding-welcome-header = Вітаем у { -brand-short-name }
 mr1-onboarding-set-default-pin-primary-button-label = Зрабіць { -brand-short-name } маім асноўным браўзерам
     .title = Усталёўвае { -brand-short-name } прадвызначаным браўзерам і замацоўвае ў панэлі задач
@@ -297,6 +300,9 @@ mr1-onboarding-sign-in-button-label = Увайсці
 ## Title, subtitle and primary button string used on set default onboarding screen
 ## when Firefox is not default browser
 
+mr1-onboarding-default-header = Зрабіць { -brand-short-name } прадвызначаным
+mr1-onboarding-default-subtitle = Пастаўце на аўтапілот хуткасць, бяспеку і прыватнасць.
+mr1-onboarding-default-primary-button-label = Зрабіць прадвызначаным браўзерам
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
