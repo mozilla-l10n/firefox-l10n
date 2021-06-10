@@ -48,6 +48,9 @@ appmenu-restore-session =
     .label = પહેલાનાં સત્રને પુન:સંગ્રહો
 appmenu-clear-history =
     .label = તાજેતરનાં ઇતિહાસને સાફ કરો…
+appmenu-recent-history-subheader = છેલ્લો ઇતિહાસ
+appmenu-recently-closed-tabs =
+    .label = છેલ્લે બધ થયેલ ટૅબ્સ
 appmenu-recently-closed-windows =
     .label = છેલ્લે બંધ થયેલ વિન્ડો
 
