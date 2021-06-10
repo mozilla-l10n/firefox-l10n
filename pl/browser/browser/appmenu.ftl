@@ -142,6 +142,8 @@ appmenu-clear-history =
 appmenu-recent-history-subheader = Ostatnio odwiedzone
 appmenu-recently-closed-tabs =
     .label = Ostatnio zamknięte karty
+appmenu-recently-closed-windows =
+    .label = Ostatnio zamknięte okna
 
 ## Help panel
 
