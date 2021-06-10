@@ -135,6 +135,8 @@ appmenu-manage-history =
     .label = Gerenciar histórico
 appmenu-reopen-all-tabs = Reabrir todas as abas
 appmenu-reopen-all-windows = Reabrir todas as janelas
+appmenu-restore-session =
+    .label = Restaurar sessão anterior
 
 ## Help panel
 
