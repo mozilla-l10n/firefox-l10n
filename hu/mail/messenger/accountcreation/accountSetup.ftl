@@ -106,7 +106,13 @@ account-setup-forum-help = Támogatói fórum
 
 ## Results area
 
-account-setup-protocol-title = Válassza ki a protokollt
+# Variables:
+#  $count (Number) - Number of available protocols.
+account-setup-results-area-title =
+    { $count ->
+        [one] Elérhető konfiguráció
+       *[other] Elérhető konfigurációk
+    }
 # Note: IMAP is the name of a protocol.
 account-setup-result-imap = IMAP
 account-setup-result-imap-description = Mappák és e-mailek szinkronban tartása a kiszolgálón

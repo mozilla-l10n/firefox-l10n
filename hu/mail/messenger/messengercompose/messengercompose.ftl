@@ -44,6 +44,9 @@ pill-action-move-cc =
 pill-action-move-bcc =
     .label = Áthelyezés a vakmásolatba
     .accesskey = v
+pill-action-expand-list =
+    .label = Lista kibontása
+    .accesskey = b
 
 # Attachment widget
 
