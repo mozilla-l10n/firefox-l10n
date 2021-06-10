@@ -17,6 +17,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = ახალი ჩანართი
 appmenuitem-new-window =
     .label = ახალი ფანჯარა
 appmenuitem-new-private-window =
@@ -135,6 +137,12 @@ appmenu-manage-history =
     .label = ისტორიის მართვა
 appmenu-reopen-all-tabs = ყველა ჩანართის ხელახლა გახსნა
 appmenu-reopen-all-windows = ყველა ფანჯრის ხელახლა გახსნა
+appmenu-clear-history =
+    .label = უახლესი ისტორიის გასუფთავება…
+appmenu-recently-closed-tabs =
+    .label = ბოლოს დახურული ჩანართები
+appmenu-recently-closed-windows =
+    .label = ბოლოს დახურული ფანჯრები
 
 ## Help panel
 
