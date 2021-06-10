@@ -148,3 +148,5 @@ appmenu-customizetoolbar =
 appmenu-taskmanager =
     .label = Խնդիրների կառավար
 appmenu-developer-tools-subheader = Զննարկչի գործիքներ
+appmenu-developer-tools-extensions =
+    .label = Ընդլայնումներ մշակողների համար
