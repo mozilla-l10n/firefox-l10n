@@ -5,12 +5,6 @@
 
 ## App Menu
 
-appmenuitem-update-banner2 =
-    .label-update-downloading = Hämtar uppdateringen av { -brand-shorter-name }
-    .label-update-available = Uppdatering tillgänglig — hämta nu
-    .label-update-manual = Uppdatering tillgänglig — hämta nu
-    .label-update-unsupported = Det gick inte att uppdatera
-    .label-update-restart = Uppdatering tillgänglig — starta om nu
 appmenuitem-update-banner3 =
     .label-update-downloading = Hämtar uppdatering av { -brand-shorter-name }
     .label-update-available = Uppdatering tillgänglig — hämta nu
@@ -23,6 +17,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Ny flik
 appmenuitem-new-window =
     .label = Nytt fönster
 appmenuitem-new-private-window =
@@ -35,14 +31,6 @@ appmenuitem-find-in-page =
     .label = Hitta på sidan…
 appmenuitem-more-tools =
     .label = Fler verktyg
-appmenuitem-exit =
-    .label = Avsluta
-appmenu-menu-button-closed =
-    .tooltiptext = Öppna applikationsmeny
-    .label = { -brand-shorter-name }
-appmenu-menu-button-opened =
-    .tooltiptext = Stäng applikationsmeny
-    .label = { -brand-shorter-name }
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
@@ -79,16 +67,12 @@ appmenu-remote-tabs-turn-on-sync =
     .label = Aktivera synkronisering…
 appmenuitem-fxa-toolbar-sync-now2 = Synkronisera nu
 appmenuitem-fxa-manage-account = Hantera konto
-appmenu-fxa-header =
-    .title = { -fxaccount-brand-name }
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
 appmenu-fxa-last-sync = Senast synkroniserad { $time }
     .label = Senast synkroniserad { $time }
-appmenu-fxa-sync-and-save-data =
-    .value = Synkronisera och spara data
 appmenu-fxa-sync-and-save-data2 = Synkronisera och spara data
 appmenu-fxa-signed-in-label = Logga in
 appmenu-fxa-setup-sync =
@@ -153,6 +137,8 @@ appmenu-manage-history =
     .label = Hantera historik
 appmenu-reopen-all-tabs = Återöppna alla flikar
 appmenu-reopen-all-windows = Återöppna alla fönster
+appmenu-recently-closed-tabs =
+    .label = Nyligen stängda flikar
 
 ## Help panel
 
