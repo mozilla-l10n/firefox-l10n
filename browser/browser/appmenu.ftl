@@ -104,6 +104,7 @@ appmenu-restore-session =
     .label = Վերականգնել նախորդ աշխատաշրջանը
 appmenu-clear-history =
     .label = Մաքրել Վերջին Պատմությունը...
+appmenu-recent-history-subheader = Վերջին պատմությունը
 appmenu-recently-closed-tabs =
     .label = Վերջին փակված ներդիրները
 appmenu-recently-closed-windows =
