@@ -10,6 +10,7 @@ refresh-profile-description = Zacznij ôd nowa, coby rozwiōnzać problymy i wr�
 refresh-profile-description-details = Bez to:
 refresh-profile-remove = Twoje rozszyrzynia i włosne sztalōnki bydōm skasowane
 refresh-profile-restore = Sztalōnki przeglōndarki wrōcōm do bazowych
+refresh-profile-dialog-description = Zacznij na nowo, coby naprawić problymy ze sprownościōm. Skasujōm sie bez to twoje rozszyrzynia i sztalōnki. Niy stracisz żodnych ważnych informacyji jak zokłodki abo hasła.
 refresh-profile = Napasuj aplikacyjo { -brand-short-name }
 refresh-profile-button = Ôdświyż aplikacyjo { -brand-short-name }…
 refresh-profile-learn-more = Przewiydz sie wiyncyj
