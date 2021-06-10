@@ -44,8 +44,14 @@ whatsnew-panel-header = Gnéithe Nua
 
 ## History panel
 
+appmenu-restore-session =
+    .label = Athchóirigh an Seisiún Roimhe Seo
+appmenu-clear-history =
+    .label = Glan an Stair Is Déanaí…
 appmenu-recently-closed-tabs =
     .label = Cluaisíní a Dúnadh Le Déanaí
+appmenu-recently-closed-windows =
+    .label = Fuinneoga a Dúnadh Le Déanaí
 
 ## Help panel
 
