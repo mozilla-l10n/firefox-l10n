@@ -43,6 +43,9 @@ pill-action-move-cc =
 pill-action-move-bcc =
     .label = 移动到“密送”
     .accesskey = b
+pill-action-expand-list =
+    .label = 展开列表
+    .accesskey = x
 
 # Attachment widget
 
