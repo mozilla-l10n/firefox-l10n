@@ -135,6 +135,7 @@ appmenu-restore-session =
     .label = Assav an estez kent
 appmenu-clear-history =
     .label = Skarzhañ ar roll istor nevesañ…
+appmenu-recent-history-subheader = Roll istor nevesañ
 appmenu-recently-closed-tabs =
     .label = Ivinelloù serret nevez zo
 appmenu-recently-closed-windows =
