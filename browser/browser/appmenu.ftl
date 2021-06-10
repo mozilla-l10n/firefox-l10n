@@ -5,12 +5,6 @@
 
 ## App Menu
 
-appmenuitem-update-banner2 =
-    .label-update-downloading = Baixando atualização do { -brand-shorter-name }
-    .label-update-available = Atualização disponível — baixar agora
-    .label-update-manual = Atualização disponível — baixar agora
-    .label-update-unsupported = Não é possível atualizar
-    .label-update-restart = Atualização disponível — reiniciar agora
 appmenuitem-update-banner3 =
     .label-update-downloading = Baixando atualização do { -brand-shorter-name }
     .label-update-available = Atualização disponível — baixar agora
@@ -23,6 +17,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Nova aba
 appmenuitem-new-window =
     .label = Nova janela
 appmenuitem-new-private-window =
@@ -35,14 +31,6 @@ appmenuitem-find-in-page =
     .label = Procurar na página…
 appmenuitem-more-tools =
     .label = Mais ferramentas
-appmenuitem-exit =
-    .label = Sair
-appmenu-menu-button-closed =
-    .tooltiptext = Abrir menu do aplicativo
-    .label = { -brand-shorter-name }
-appmenu-menu-button-opened =
-    .tooltiptext = Fechar menu do aplicativo
-    .label = { -brand-shorter-name }
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
@@ -79,16 +67,12 @@ appmenu-remote-tabs-turn-on-sync =
     .label = Ativar o Sync…
 appmenuitem-fxa-toolbar-sync-now2 = Sincronizar agora
 appmenuitem-fxa-manage-account = Gerenciar conta
-appmenu-fxa-header =
-    .title = { -fxaccount-brand-name }
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
 appmenu-fxa-last-sync = Última sincronização: { $time }
     .label = Última sincronização: { $time }
-appmenu-fxa-sync-and-save-data =
-    .value = Sincronizar e salvar dados
 appmenu-fxa-sync-and-save-data2 = Sincronizar e salvar dados
 appmenu-fxa-signed-in-label = Entrar
 appmenu-fxa-setup-sync =
