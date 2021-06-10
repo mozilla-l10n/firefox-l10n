@@ -5,12 +5,6 @@
 
 ## App Menu
 
-appmenuitem-update-banner2 =
-    .label-update-downloading = Laster ned { -brand-shorter-name }-oppdatering
-    .label-update-available = Oppdatering tilgjengelig — last ned nå
-    .label-update-manual = Oppdatering tilgjengelig — last ned nå
-    .label-update-unsupported = Kan ikke oppdatere
-    .label-update-restart = Oppdatering tilgjengelig — start på nytt
 appmenuitem-update-banner3 =
     .label-update-downloading = Laster ned { -brand-shorter-name }-oppdatering
     .label-update-available = Oppdatering tilgjengelig — last ned nå
@@ -23,6 +17,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Ny fane
 appmenuitem-new-window =
     .label = Nytt vindu
 appmenuitem-new-private-window =
@@ -35,14 +31,6 @@ appmenuitem-find-in-page =
     .label = Finn på siden …
 appmenuitem-more-tools =
     .label = Flere verktøy …
-appmenuitem-exit =
-    .label = Avslutt
-appmenu-menu-button-closed =
-    .tooltiptext = Åpne program-meny
-    .label = { -brand-shorter-name }
-appmenu-menu-button-opened =
-    .tooltiptext = Lukk program-meny
-    .label = { -brand-shorter-name }
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
@@ -79,16 +67,12 @@ appmenu-remote-tabs-turn-on-sync =
     .label = Slå på synkronisering …
 appmenuitem-fxa-toolbar-sync-now2 = Synkroniser nå
 appmenuitem-fxa-manage-account = Behandle konto
-appmenu-fxa-header =
-    .title = { -fxaccount-brand-name }
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
 appmenu-fxa-last-sync = Sist synkronisert { $time }
     .label = Sist synkronisert { $time }
-appmenu-fxa-sync-and-save-data =
-    .value = Synkroniser og lagre data
 appmenu-fxa-sync-and-save-data2 = Synkroniser og lagre data
 appmenu-fxa-signed-in-label = Logg inn
 appmenu-fxa-setup-sync =
@@ -153,6 +137,8 @@ appmenu-manage-history =
     .label = Behandle historikk
 appmenu-reopen-all-tabs = Åpne alle faner på nytt
 appmenu-reopen-all-windows = Åpne alle vinduer på nytt
+appmenu-recently-closed-tabs =
+    .label = Nylig lukkede faner
 
 ## Help panel
 
