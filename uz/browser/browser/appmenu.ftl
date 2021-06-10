@@ -46,6 +46,7 @@ appmenu-restore-session =
     .label = Oldingi seansni tiklash
 appmenu-clear-history =
     .label = So‘nggi tarixni tozalash
+appmenu-recent-history-subheader = Oxirgi tarix
 appmenu-recently-closed-windows =
     .label = Yaqinda yopilgan oynalar
 
