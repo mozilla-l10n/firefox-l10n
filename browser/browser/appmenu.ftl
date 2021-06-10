@@ -10,6 +10,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Jauna cilne
 appmenuitem-new-window =
     .label = Jauns logs
 appmenuitem-new-private-window =
@@ -38,6 +40,14 @@ whatsnew-panel-header = Kas jauns?
 
 ## History panel
 
+appmenu-restore-session =
+    .label = Atjaunot iepriekšējo sesiju
+appmenu-clear-history =
+    .label = Dzēst neseno vēsturi…
+appmenu-recently-closed-tabs =
+    .label = Nesen aizvērtās cilnes
+appmenu-recently-closed-windows =
+    .label = Nesen aizvērtie logi
 
 ## Help panel
 
