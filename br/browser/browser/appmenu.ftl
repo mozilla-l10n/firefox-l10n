@@ -187,3 +187,5 @@ appmenu-customizetoolbar =
 appmenu-taskmanager =
     .label = Ardoer trevelloù
 appmenu-developer-tools-subheader = Ostilhoù ar merdeer
+appmenu-developer-tools-extensions =
+    .label = Extensions for Developers
