@@ -17,6 +17,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Nowa karta
 appmenuitem-new-window =
     .label = Nowe okno
 appmenuitem-new-private-window =
@@ -191,3 +193,5 @@ appmenu-customizetoolbar =
 appmenu-taskmanager =
     .label = Menedżer zadań
 appmenu-developer-tools-subheader = Narzędzia przeglądarki
+appmenu-developer-tools-extensions =
+    .label = Rozszerzenia dla twórców witryn
