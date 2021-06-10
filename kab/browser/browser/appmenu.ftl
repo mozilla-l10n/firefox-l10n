@@ -5,12 +5,6 @@
 
 ## App Menu
 
-appmenuitem-update-banner2 =
-    .label-update-downloading = Asader n lqem { -brand-shorter-name }
-    .label-update-available = Lqem yella — sader tura
-    .label-update-manual = Lqem yella — sader tura
-    .label-update-unsupported = Yegguma ad yettuleqqem
-    .label-update-restart = Lqem yella — ales asenker tura
 appmenuitem-update-banner3 =
     .label-update-downloading = Asader n lqem { -brand-shorter-name }
     .label-update-available = Yella lqem — sader tura
@@ -23,6 +17,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Iccer amaynut
 appmenuitem-new-window =
     .label = Asfaylu amaynut
 appmenuitem-new-private-window =
@@ -35,14 +31,6 @@ appmenuitem-find-in-page =
     .label = Af deg usebter…
 appmenuitem-more-tools =
     .label = Ugar n yifecka
-appmenuitem-exit =
-    .label = Ffeɣ
-appmenu-menu-button-closed =
-    .tooltiptext = Ldi umuɣ n usnas
-    .label = { -brand-shorter-name }
-appmenu-menu-button-opened =
-    .tooltiptext = Mdel umuɣ n usnas
-    .label = { -brand-shorter-name }
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
@@ -79,16 +67,12 @@ appmenu-remote-tabs-turn-on-sync =
     .label = Rmed amtawi…
 appmenuitem-fxa-toolbar-sync-now2 = Mtawi tura
 appmenuitem-fxa-manage-account = Sefrek amiḍan
-appmenu-fxa-header =
-    .title = { -fxaccount-brand-name }
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
 appmenu-fxa-last-sync = Amtawi aneggaru { $time }
     .label = Amtawi aneggaru { $time }
-appmenu-fxa-sync-and-save-data =
-    .value = Mtawi sakin sekles isefka
 appmenu-fxa-sync-and-save-data2 = Mtawi sakin sekles isefka
 appmenu-fxa-signed-in-label = Kcem
 appmenu-fxa-setup-sync =
@@ -153,6 +137,8 @@ appmenu-manage-history =
     .label = Sefre azray
 appmenu-reopen-all-tabs = Ales tawaledyawt n meṛṛa accaren
 appmenu-reopen-all-windows = Ales tawaledyawt n meṛṛa isfuyla
+appmenu-recently-closed-windows =
+    .label = Isfuyla imedlen melmi kan
 
 ## Help panel
 
