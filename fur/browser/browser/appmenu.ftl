@@ -11,6 +11,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Gnove schede
 appmenuitem-new-window =
     .label = Gnûf barcon
 appmenuitem-new-private-window =
@@ -129,8 +131,15 @@ appmenu-manage-history =
     .label = Gjestìs cronologjie
 appmenu-reopen-all-tabs = Torne vierç dutis lis schedis
 appmenu-reopen-all-windows = Torne vierç ducj i barcons
+appmenu-restore-session =
+    .label = Ripristine la session precedente
 appmenu-clear-history =
     .label = Nete la cronologjie resinte...
+appmenu-recent-history-subheader = Cronologjie resinte
+appmenu-recently-closed-tabs =
+    .label = Schedis sieradis di resint
+appmenu-recently-closed-windows =
+    .label = Barcons sierâts di resint
 
 ## Help panel
 
@@ -178,3 +187,5 @@ appmenu-customizetoolbar =
 appmenu-taskmanager =
     .label = Gjestôr ativitâts
 appmenu-developer-tools-subheader = Struments dal navigadôr
+appmenu-developer-tools-extensions =
+    .label = Estension pai svilupadôrs
