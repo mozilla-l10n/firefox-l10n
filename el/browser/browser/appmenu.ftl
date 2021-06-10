@@ -193,3 +193,5 @@ appmenu-customizetoolbar =
 appmenu-taskmanager =
     .label = Διαχείριση εργασιών
 appmenu-developer-tools-subheader = Εργαλεία προγράμματος περιήγησης
+appmenu-developer-tools-extensions =
+    .label = Επεκτάσεις για προγραμματιστές
