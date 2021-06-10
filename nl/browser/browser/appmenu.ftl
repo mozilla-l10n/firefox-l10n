@@ -135,8 +135,14 @@ appmenu-manage-history =
     .label = Geschiedenis beheren
 appmenu-reopen-all-tabs = Alle tabbladen opnieuw openen
 appmenu-reopen-all-windows = Alle vensters opnieuw openen
+appmenu-restore-session =
+    .label = Vorige sessie herstellen
+appmenu-clear-history =
+    .label = Recente geschiedenis wissen…
 appmenu-recently-closed-tabs =
     .label = Onlangs gesloten tabbladen
+appmenu-recently-closed-windows =
+    .label = Onlangs gesloten vensters
 
 ## Help panel
 
