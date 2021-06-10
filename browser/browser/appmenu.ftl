@@ -127,6 +127,7 @@ appmenu-restore-session =
     .label = ស្ដារ​សម័យ​មុន
 appmenu-clear-history =
     .label = សម្អាត​ប្រវត្តិ​ថ្មីៗ…
+appmenu-recent-history-subheader = ប្រវត្តិ​ថ្មីៗ
 appmenu-recently-closed-tabs =
     .label = ផ្ទាំង​ដែល​បិទ​ថ្មីៗ
 appmenu-recently-closed-windows =
