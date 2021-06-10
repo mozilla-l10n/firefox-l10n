@@ -5,12 +5,6 @@
 
 ## App Menu
 
-appmenuitem-update-banner2 =
-    .label-update-downloading = Đang tải xuống bản cập nhật { -brand-shorter-name }
-    .label-update-available = Bản cập nhật đã có sẵn — tải xuống ngay
-    .label-update-manual = Bản cập nhật đã có sẵn — tải xuống ngay
-    .label-update-unsupported = Không thể cập nhật
-    .label-update-restart = Bản cập nhật đã có sẵn — khởi động lại ngay
 appmenuitem-update-banner3 =
     .label-update-downloading = Đang tải xuống bản cập nhật { -brand-shorter-name }
     .label-update-available = Đã có bản cập nhật — tải xuống ngay
@@ -35,14 +29,6 @@ appmenuitem-find-in-page =
     .label = Tìm trong trang…
 appmenuitem-more-tools =
     .label = Thêm công cụ
-appmenuitem-exit =
-    .label = Thoát
-appmenu-menu-button-closed =
-    .tooltiptext = Mở menu ứng dụng
-    .label = { -brand-shorter-name }
-appmenu-menu-button-opened =
-    .tooltiptext = Đóng menu ứng dụng
-    .label = { -brand-shorter-name }
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
@@ -79,16 +65,12 @@ appmenu-remote-tabs-turn-on-sync =
     .label = Bật đồng bộ hóa…
 appmenuitem-fxa-toolbar-sync-now2 = Đồng bộ ngay
 appmenuitem-fxa-manage-account = Quản lý tài khoản
-appmenu-fxa-header =
-    .title = { -fxaccount-brand-name }
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
 appmenu-fxa-last-sync = Đồng bộ hóa lần cuối { $time }
     .label = Đồng bộ hóa lần cuối { $time }
-appmenu-fxa-sync-and-save-data =
-    .value = Đồng bộ hóa và lưu dữ liệu
 appmenu-fxa-sync-and-save-data2 = Đồng bộ hóa và lưu dữ liệu
 appmenu-fxa-signed-in-label = Đăng nhập
 appmenu-fxa-setup-sync =
