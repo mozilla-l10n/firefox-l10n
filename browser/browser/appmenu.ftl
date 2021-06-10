@@ -135,6 +135,11 @@ appmenu-manage-history =
     .label = Zarządzaj historią
 appmenu-reopen-all-tabs = Przywróć wszystkie karty
 appmenu-reopen-all-windows = Przywróć wszystkie okna
+appmenu-restore-session =
+    .label = Przywróć poprzednią sesję
+appmenu-clear-history =
+    .label = Wyczyść historię przeglądania…
+appmenu-recent-history-subheader = Ostatnio odwiedzone
 appmenu-recently-closed-tabs =
     .label = Ostatnio zamknięte karty
 
