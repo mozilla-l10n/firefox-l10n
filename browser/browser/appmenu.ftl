@@ -193,3 +193,5 @@ appmenu-customizetoolbar =
 appmenu-taskmanager =
     .label = Feladatkezelő
 appmenu-developer-tools-subheader = Böngészőeszközök
+appmenu-developer-tools-extensions =
+    .label = Kiegészítők fejlesztőknek
