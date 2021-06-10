@@ -64,6 +64,7 @@ appmenu-restore-session =
     .label = Restaurează sesiunea anterioară
 appmenu-clear-history =
     .label = Șterge istoricul recent…
+appmenu-recent-history-subheader = Istoric recent
 appmenu-recently-closed-tabs =
     .label = File închise recent
 appmenu-recently-closed-windows =
