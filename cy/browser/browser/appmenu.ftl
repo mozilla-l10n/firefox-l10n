@@ -139,6 +139,8 @@ appmenu-reopen-all-tabs = Ailagor Pob Tab
 appmenu-reopen-all-windows = Ailagor Pob Ffenestr
 appmenu-recently-closed-tabs =
     .label = Tabiau Wedi eu Cau'n Ddiweddar
+appmenu-recently-closed-windows =
+    .label = Ffenestri wedi eu Cau yn Ddiweddar
 
 ## Help panel
 
