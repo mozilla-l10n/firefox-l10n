@@ -135,6 +135,8 @@ appmenu-manage-history =
     .label = Geçmişi yönet
 appmenu-reopen-all-tabs = Tüm sekmeleri yeniden aç
 appmenu-reopen-all-windows = Tüm pencereleri yeniden aç
+appmenu-restore-session =
+    .label = Önceki oturumu geri yükle
 appmenu-recent-history-subheader = Yakın geçmiş
 
 ## Help panel
