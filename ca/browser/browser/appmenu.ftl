@@ -17,6 +17,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Pestanya nova
 appmenuitem-new-window =
     .label = Finestra nova
 appmenuitem-new-private-window =
