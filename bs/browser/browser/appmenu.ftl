@@ -50,6 +50,8 @@ whatsnew-panel-footer-checkbox =
 
 ## History panel
 
+appmenu-restore-session =
+    .label = Vrati prethodnu sesiju
 appmenu-clear-history =
     .label = Obriši skorašnju historiju…
 appmenu-recent-history-subheader = Nedavna historija
