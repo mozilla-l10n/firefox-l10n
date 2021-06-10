@@ -190,3 +190,5 @@ appmenu-customizetoolbar =
 appmenu-taskmanager =
     .label = Upravitelj opravil
 appmenu-developer-tools-subheader = Orodja brskalnika
+appmenu-developer-tools-extensions =
+    .label = Razširitve za razvijalce
