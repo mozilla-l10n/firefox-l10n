@@ -102,6 +102,8 @@ profiler-popup-capture-shortcut =
 
 appmenu-recently-closed-tabs =
     .label = Վերջին փակված ներդիրները
+appmenu-recently-closed-windows =
+    .label = Վերջին փակված պատուհանները
 
 ## Help panel
 
