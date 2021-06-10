@@ -139,6 +139,7 @@ appmenu-reopen-all-tabs = Tornar dobrir totes los onglets
 appmenu-reopen-all-windows = Tornar dobrir totas las fenèstras
 appmenu-restore-session =
     .label = Restablir la session precedenta
+appmenu-recent-history-subheader = Istoric recent
 appmenu-recently-closed-tabs =
     .label = Onglets tampats recentament
 appmenu-recently-closed-windows =
