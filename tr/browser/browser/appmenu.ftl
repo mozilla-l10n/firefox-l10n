@@ -5,12 +5,6 @@
 
 ## App Menu
 
-appmenuitem-update-banner2 =
-    .label-update-downloading = { -brand-shorter-name } güncellemesi indiriliyor
-    .label-update-available = Güncelleme var: Şimdi indir
-    .label-update-manual = Güncelleme var: Şimdi indir
-    .label-update-unsupported = Güncelleme yapılamadı
-    .label-update-restart = Güncelleme var: Yeniden başlat
 appmenuitem-update-banner3 =
     .label-update-downloading = { -brand-shorter-name } güncellemesi indiriliyor
     .label-update-available = Güncelleme var: Şimdi indir
@@ -35,14 +29,6 @@ appmenuitem-find-in-page =
     .label = Sayfada bul…
 appmenuitem-more-tools =
     .label = Daha fazla araç
-appmenuitem-exit =
-    .label = Çık
-appmenu-menu-button-closed =
-    .tooltiptext = Uygulama menüsünü aç
-    .label = { -brand-shorter-name }
-appmenu-menu-button-opened =
-    .tooltiptext = Uygulama menüsünü kapat
-    .label = { -brand-shorter-name }
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
@@ -79,16 +65,12 @@ appmenu-remote-tabs-turn-on-sync =
     .label = Eşitlemeyi başlat…
 appmenuitem-fxa-toolbar-sync-now2 = Şimdi eşitle
 appmenuitem-fxa-manage-account = Hesabı yönet
-appmenu-fxa-header =
-    .title = { -fxaccount-brand-name }
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
 appmenu-fxa-last-sync = Son eşitleme: { $time }
     .label = Son eşitleme: { $time }
-appmenu-fxa-sync-and-save-data =
-    .value = Verileri eşitle ve kaydet
 appmenu-fxa-sync-and-save-data2 = Verileri eşitle ve kaydet
 appmenu-fxa-signed-in-label = Giriş yap
 appmenu-fxa-setup-sync =
