@@ -83,6 +83,15 @@ profiler-popup-capture-shortcut =
 
 appmenu-reopen-all-tabs = Nate kuaiyo da sukua
 appmenu-reopen-all-windows = Na síne kuaíyo da ventana
+appmenu-restore-session =
+    .label = Nate tuku sesión yata
+appmenu-clear-history =
+    .label = Xinó a nnánukunu ntañu´u…
+appmenu-recent-history-subheader = Da nnánuku vitan
+appmenu-recently-closed-tabs =
+    .label = Pestañas nnakasɨ ntañu´u
+appmenu-recently-closed-windows =
+    .label = Pestañas nnakasɨ ntañu´u
 
 ## Help panel
 
