@@ -46,6 +46,9 @@ pill-action-move-cc =
 pill-action-move-bcc =
     .label = Перемістити в поле Прихована копія
     .accesskey = х
+pill-action-expand-list =
+    .label = Розгорнути список
+    .accesskey = з
 
 # Attachment widget
 
