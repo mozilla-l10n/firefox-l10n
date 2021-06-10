@@ -193,3 +193,5 @@ appmenu-customizetoolbar =
 appmenu-taskmanager =
     .label = Диспетчер задач
 appmenu-developer-tools-subheader = Инструменты браузера
+appmenu-developer-tools-extensions =
+    .label = Расширения для разработчиков
