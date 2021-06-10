@@ -133,8 +133,14 @@ appmenu-manage-history =
     .label = Hallitse historiaa
 appmenu-reopen-all-tabs = Avaa uudelleen kaikki välilehdet
 appmenu-reopen-all-windows = Avaa uudelleen kaikki ikkunat
+appmenu-restore-session =
+    .label = Palauta edellinen istunto
+appmenu-clear-history =
+    .label = Poista viimeaikaisia historiatietoja…
 appmenu-recently-closed-tabs =
     .label = Suljetut välilehdet
+appmenu-recently-closed-windows =
+    .label = Suljetut ikkunat
 
 ## Help panel
 
