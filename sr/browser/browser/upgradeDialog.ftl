@@ -68,6 +68,24 @@ upgrade-dialog-new-primary-win7-button = Разумем
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-pin-title =
+    { PLATFORM() ->
+        [macos]
+            Додај { -brand-short-name.gender ->
+                [masculine] { -brand-short-name(case: "acc") }
+                [feminine] { -brand-short-name(case: "acc") }
+                [neuter] { -brand-short-name(case: "acc") }
+               *[other] програм { -brand-short-name }
+            } на док
+       *[other]
+            Закачи { -brand-short-name.gender ->
+                [masculine] { -brand-short-name(case: "acc") }
+                [feminine] { -brand-short-name(case: "acc") }
+                [neuter] { -brand-short-name(case: "acc") }
+               *[other] програм { -brand-short-name }
+            } на траку задатака
+    }
 upgrade-dialog-pin-primary-button =
     { PLATFORM() ->
         [macos] Додај на док
