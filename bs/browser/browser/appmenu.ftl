@@ -5,14 +5,14 @@
 
 ## App Menu
 
-appmenuitem-update-banner =
-    .label-update-downloading = Preuzimam { -brand-shorter-name } nadogradnju
 appmenuitem-protection-dashboard-title = Dashboard zaštite
 appmenuitem-customize-mode =
     .label = Prilagođavanje…
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Novi tab
 appmenuitem-new-window =
     .label = Novi prozor
 appmenuitem-new-private-window =
@@ -50,32 +50,21 @@ whatsnew-panel-footer-checkbox =
 
 ## History panel
 
+appmenu-recently-closed-tabs =
+    .label = Nedavno zatvoreni tabovi
+appmenu-recently-closed-windows =
+    .label = Nedavno zatvoreni prozori
 
 ## Help panel
 
 appmenu-about =
     .label = O { -brand-shorter-name }u
     .accesskey = O
-appmenu-help-troubleshooting-info =
-    .label = Informacije za rješavanje problema
-    .accesskey = I
-appmenu-help-taskmanager =
-    .label = Task Manager
 appmenu-help-report-site-issue =
     .label = Prijavite problem sa stranicom…
 appmenu-help-feedback-page =
     .label = Pošalji povratnu informaciju…
     .accesskey = P
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Restartuj sa onemogućenim add-onima…
-    .accesskey = R
-appmenu-help-safe-mode-with-addons =
-    .label = Restartuj sa omogućenim add-onima
-    .accesskey = R
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
