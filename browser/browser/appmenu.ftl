@@ -39,6 +39,14 @@ appmenuitem-save-page =
 
 ## History panel
 
+appmenu-restore-session =
+    .label = अघिल्लो सत्र पुनर्स्थापना गर्नुहोस्
+appmenu-clear-history =
+    .label = हालको इतिहास खाली गर्नुहोस्…
+appmenu-recently-closed-tabs =
+    .label = हालसालै बन्द गरिएका ट्याबहरू
+appmenu-recently-closed-windows =
+    .label = हालसालै बन्द गरिएका सञ्झ्यालहरू
 
 ## Help panel
 
