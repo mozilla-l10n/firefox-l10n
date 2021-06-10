@@ -17,6 +17,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Uusi välilehti
 appmenuitem-new-window =
     .label = Uusi ikkuna
 appmenuitem-new-private-window =
@@ -137,6 +139,7 @@ appmenu-restore-session =
     .label = Palauta edellinen istunto
 appmenu-clear-history =
     .label = Poista viimeaikaisia historiatietoja…
+appmenu-recent-history-subheader = Viimeaikainen historia
 appmenu-recently-closed-tabs =
     .label = Suljetut välilehdet
 appmenu-recently-closed-windows =
