@@ -139,6 +139,8 @@ appmenu-reopen-all-tabs = Reopen All Tabs
 appmenu-reopen-all-windows = Reopen All Windows
 appmenu-recently-closed-tabs =
     .label = Recently Closed Tabs
+appmenu-recently-closed-windows =
+    .label = Recently Closed Windows
 
 ## Help panel
 
