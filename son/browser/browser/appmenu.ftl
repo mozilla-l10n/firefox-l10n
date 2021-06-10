@@ -37,28 +37,17 @@ appmenuitem-save-page =
 
 ## History panel
 
+appmenu-recently-closed-windows =
+    .label = Zanfun kokor daabantey
 
 ## Help panel
 
 appmenu-about =
     .label = { -brand-shorter-name } ga
     .accesskey = a
-appmenu-help-troubleshooting-info =
-    .label = Karkahattayan alhabar
-    .accesskey = K
 appmenu-help-feedback-page =
     .label = Furari sanba…
     .accesskey = s
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Tunandi taaga kaŋ tontoney kayandi…
-    .accesskey = u
-appmenu-help-safe-mode-with-addons =
-    .label = Tunandi taaga kaŋ tontoney ga kayandi
-    .accesskey = u
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
