@@ -191,3 +191,5 @@ appmenu-customizetoolbar =
 appmenu-taskmanager =
     .label = Administrilo de taskoj
 appmenu-developer-tools-subheader = Iloj de retumilo
+appmenu-developer-tools-extensions =
+    .label = Etendaĵoj por programistoj
