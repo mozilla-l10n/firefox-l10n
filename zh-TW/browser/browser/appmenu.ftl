@@ -5,12 +5,6 @@
 
 ## App Menu
 
-appmenuitem-update-banner2 =
-    .label-update-downloading = 正在下載 { -brand-shorter-name } 更新
-    .label-update-available = 已有更新可用 — 立即下載
-    .label-update-manual = 已有更新可用 — 立即下載
-    .label-update-unsupported = 無法更新
-    .label-update-restart = 已有更新可用 — 立即重新啟動
 appmenuitem-update-banner3 =
     .label-update-downloading = 正在下載 { -brand-shorter-name } 更新
     .label-update-available = 已推出更新 — 立即下載
@@ -23,6 +17,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = 開新分頁
 appmenuitem-new-window =
     .label = 開新視窗
 appmenuitem-new-private-window =
@@ -35,14 +31,6 @@ appmenuitem-find-in-page =
     .label = 在頁面中搜尋…
 appmenuitem-more-tools =
     .label = 更多工具
-appmenuitem-exit =
-    .label = 結束
-appmenu-menu-button-closed =
-    .tooltiptext = 開啟應用程式選單
-    .label = { -brand-shorter-name }
-appmenu-menu-button-opened =
-    .tooltiptext = 關閉應用程式選單
-    .label = { -brand-shorter-name }
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
@@ -79,16 +67,12 @@ appmenu-remote-tabs-turn-on-sync =
     .label = 開啟同步…
 appmenuitem-fxa-toolbar-sync-now2 = 立刻同步
 appmenuitem-fxa-manage-account = 管理帳號
-appmenu-fxa-header =
-    .title = { -fxaccount-brand-name }
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
 appmenu-fxa-last-sync = 上次同步於 { $time }
     .label = 上次同步於 { $time }
-appmenu-fxa-sync-and-save-data =
-    .value = 同步並儲存資料
 appmenu-fxa-sync-and-save-data2 = 同步並儲存資料
 appmenu-fxa-signed-in-label = 登入
 appmenu-fxa-setup-sync =
@@ -151,6 +135,8 @@ appmenu-manage-history =
     .label = 管理歷史
 appmenu-reopen-all-tabs = 回復所有分頁
 appmenu-reopen-all-windows = 回復所有視窗
+appmenu-recently-closed-tabs =
+    .label = 最近關閉的分頁
 
 ## Help panel
 
