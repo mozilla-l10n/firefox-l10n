@@ -37,32 +37,21 @@ appmenuitem-save-page =
 
 ## History panel
 
+appmenu-recently-closed-tabs =
+    .label = সম্প্রতি বন্ধ করা ট্যাব
+appmenu-recently-closed-windows =
+    .label = সম্প্রতি বন্ধ করা উইন্ডো
 
 ## Help panel
 
 appmenu-about =
     .label = About { -brand-shorter-name }
     .accesskey = A
-appmenu-help-troubleshooting-info =
-    .label = সমাধান করার তথ্য
-    .accesskey = T
-appmenu-help-taskmanager =
-    .label = কাজ ব্যবস্থাপক
 appmenu-help-report-site-issue =
     .label = সাইটের সমস্যা রিপোর্ট করুন…
 appmenu-help-feedback-page =
     .label = মন্তব্য প্রদান…
     .accesskey = S
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = নিস্ক্রিয় অ্যাড-অনসহ পুনরায় শুরু…
-    .accesskey = R
-appmenu-help-safe-mode-with-addons =
-    .label = অ্যাড-অন সক্রিয় করে পুনরায় চালু করুন
-    .accesskey = R
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
