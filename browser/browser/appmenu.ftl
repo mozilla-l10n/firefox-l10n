@@ -135,6 +135,11 @@ appmenu-manage-history =
     .label = Historiju zastojaś
 appmenu-reopen-all-tabs = Wšykne rejtariki znowego wócyniś
 appmenu-reopen-all-windows = Wšykne wokna znowego wócyniś
+appmenu-restore-session =
+    .label = Pjerwjejšne pósejźenje wótnowiś
+appmenu-clear-history =
+    .label = Aktualnu historiju wuprozniś…
+appmenu-recent-history-subheader = Nejnowša historija
 appmenu-recently-closed-windows =
     .label = Rowno zacynjone wokna
 
