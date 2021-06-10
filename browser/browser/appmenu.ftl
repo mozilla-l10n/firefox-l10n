@@ -10,6 +10,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = नवीन टॅब
 appmenuitem-new-window =
     .label = नवीन पटल
 appmenuitem-new-private-window =
@@ -42,6 +44,11 @@ whatsnew-panel-header = नवीन काय आहे
 
 ## History panel
 
+appmenu-restore-session =
+    .label = मागील सत्र पूर्वस्थितीत आणा
+appmenu-clear-history =
+    .label = ताजे इतिहास नष्ट करा…
+appmenu-recent-history-subheader = ताजा इतिहास
 appmenu-recently-closed-tabs =
     .label = अलिकडील बंद केलेले टॅब्स
 appmenu-recently-closed-windows =
