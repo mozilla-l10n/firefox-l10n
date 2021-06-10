@@ -37,6 +37,13 @@ appmenuitem-save-page =
 
 ## History panel
 
+appmenu-clear-history =
+    .label = Dzēst nasenū viesturi…
+appmenu-recent-history-subheader = Nasenuo viesture
+appmenu-recently-closed-tabs =
+    .label = Naseņ aiztaiseituos cilnes
+appmenu-recently-closed-windows =
+    .label = Naseņ aiztaiseitī lūgi
 
 ## Help panel
 
