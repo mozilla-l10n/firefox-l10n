@@ -48,26 +48,11 @@ whatsnew-panel-header = नवीन काय आहे
 appmenu-about =
     .label = { -brand-shorter-name } विषयी
     .accesskey = A
-appmenu-help-troubleshooting-info =
-    .label = त्रुटीनिवारण माहिती
-    .accesskey = T
-appmenu-help-taskmanager =
-    .label = कार्य व्यवस्थापक
 appmenu-help-report-site-issue =
     .label = साईटची त्रुटी दाखल करा…
 appmenu-help-feedback-page =
     .label = अभिप्राय सादर करा…
     .accesskey = S
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = ॲड-ऑन्स् बंद असल्यावर पुनः सुरू करा…
-    .accesskey = R
-appmenu-help-safe-mode-with-addons =
-    .label = ॲड-ऑन्स् सक्रीय असल्यावर पुनः सुरू करा
-    .accesskey = R
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
