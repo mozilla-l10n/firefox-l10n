@@ -5,12 +5,6 @@
 
 ## App Menu
 
-appmenuitem-update-banner2 =
-    .label-update-downloading = Mengunduh pembaruan { -brand-shorter-name }
-    .label-update-available = Versi baru tersedia — unduh sekarang
-    .label-update-manual = Versi baru tersedia — unduh sekarang
-    .label-update-unsupported = Gagal memperbarui
-    .label-update-restart = Versi baru tersedia — mulai ulang sekarang
 appmenuitem-update-banner3 =
     .label-update-downloading = Mengunduh pembaruan { -brand-shorter-name }
     .label-update-available = Pembaruan tersedia — unduh sekarang
@@ -23,6 +17,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Tab Baru
 appmenuitem-new-window =
     .label = Jendela Baru
 appmenuitem-new-private-window =
@@ -35,14 +31,6 @@ appmenuitem-find-in-page =
     .label = Temukan di Halaman…
 appmenuitem-more-tools =
     .label = Alat Lainnya
-appmenuitem-exit =
-    .label = Keluar
-appmenu-menu-button-closed =
-    .tooltiptext = Buka Menu Aplikasi
-    .label = { -brand-shorter-name }
-appmenu-menu-button-opened =
-    .tooltiptext = Tutup Menu Aplikasi
-    .label = { -brand-shorter-name }
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
@@ -79,16 +67,12 @@ appmenu-remote-tabs-turn-on-sync =
     .label = Aktifkan Sinkronisasi…
 appmenuitem-fxa-toolbar-sync-now2 = Sinkronkan Sekarang
 appmenuitem-fxa-manage-account = Kelola Akun
-appmenu-fxa-header =
-    .title = { -fxaccount-brand-name }
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
 appmenu-fxa-last-sync = Terakhir disinkronkan { $time }
     .label = Terakhir disinkronkan { $time }
-appmenu-fxa-sync-and-save-data =
-    .value = Sinkronkan dan Simpan Data
 appmenu-fxa-sync-and-save-data2 = Sinkronkan dan Simpan Data
 appmenu-fxa-signed-in-label = Masuk
 appmenu-fxa-setup-sync =
@@ -151,6 +135,8 @@ appmenu-manage-history =
     .label = Kelola Riwayat
 appmenu-reopen-all-tabs = Buka Ulang Semua Tab
 appmenu-reopen-all-windows = Buka Ulang Semua Jendela
+appmenu-recently-closed-tabs =
+    .label = Tab yang Baru Saja Ditutup
 
 ## Help panel
 
