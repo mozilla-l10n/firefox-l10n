@@ -43,6 +43,7 @@ appmenu-restore-session =
     .label = পূর্ববর্তী সেশান পুনরুদ্ধার করুন
 appmenu-clear-history =
     .label = সম্প্রতি ব্যবহারের পূর্ববর্তী তথ্য মুছে ফেলুন…
+appmenu-recent-history-subheader = সাম্প্রতিক পূর্ববর্তী তথ্য
 appmenu-recently-closed-tabs =
     .label = সম্প্রতি বন্ধ করা ট্যাব
 appmenu-recently-closed-windows =
