@@ -10,6 +10,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = गोदान टेब
 appmenuitem-new-window =
     .label = गोदान उइन्ड'
 appmenuitem-new-private-window =
