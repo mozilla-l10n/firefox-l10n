@@ -5,14 +5,14 @@
 
 ## App Menu
 
-appmenuitem-update-banner =
-    .label-update-downloading = { -brand-shorter-name } کی تذکاری ڈونلوڈ کر رہے ہیں
 appmenuitem-protection-dashboard-title = حفاظتی ڈیش بورڈ
 appmenuitem-customize-mode =
     .label = تخصیص کریں…
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = نیا ٹیب
 appmenuitem-new-window =
     .label = نیا ونڈوں
 appmenuitem-new-private-window =
@@ -70,6 +70,10 @@ appmenu-manage-history =
     .label = تاریخ کا نظم کریں
 appmenu-reopen-all-tabs = تمام ٹیب کو دوبارہ کھولیں
 appmenu-reopen-all-windows = تمام ونڈوز کو دوبارہ کھولیں
+appmenu-recently-closed-tabs =
+    .label = حالیہ بند کیے گئے ٹیب
+appmenu-recently-closed-windows =
+    .label = حالیہ بند کیے گئے دریچے
 
 ## Help panel
 
@@ -78,26 +82,11 @@ appmenu-help-header =
 appmenu-about =
     .label = { -brand-shorter-name } کے بارے میں
     .accesskey = A
-appmenu-help-troubleshooting-info =
-    .label = ازالہ کاری معلومات
-    .accesskey = T
-appmenu-help-taskmanager =
-    .label = ٹاسک مینیجر
 appmenu-help-report-site-issue =
     .label = سائٹ مسلہ… رپورٹ کریں
 appmenu-help-feedback-page =
     .label = اپنی رائے بھیجیں...
     .accesskey = S
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = ایڈ اون نا اہل کر کے دوباره شروع کریں
-    .accesskey = R
-appmenu-help-safe-mode-with-addons =
-    .label = ایڈ اون اہل کر کے دوباره شروع کریں
-    .accesskey = R
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
