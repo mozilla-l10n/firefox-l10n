@@ -50,6 +50,8 @@ whatsnew-panel-footer-checkbox =
 
 ## History panel
 
+appmenu-clear-history =
+    .label = Obriši skorašnju historiju…
 appmenu-recently-closed-tabs =
     .label = Nedavno zatvoreni tabovi
 appmenu-recently-closed-windows =
