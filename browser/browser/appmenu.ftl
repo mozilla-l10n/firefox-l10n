@@ -5,12 +5,6 @@
 
 ## App Menu
 
-appmenuitem-update-banner2 =
-    .label-update-downloading = Λήψη ενημέρωσης του { -brand-shorter-name }
-    .label-update-available = Διαθέσιμη ενημέρωση — λήψη τώρα
-    .label-update-manual = Διαθέσιμη ενημέρωση — λήψη τώρα
-    .label-update-unsupported = Αδυναμία ενημέρωσης
-    .label-update-restart = Διαθέσιμη ενημέρωση — επανεκκίνηση τώρα
 appmenuitem-update-banner3 =
     .label-update-downloading = Λήψη ενημέρωσης του { -brand-shorter-name }
     .label-update-available = Διαθέσιμη ενημέρωση — λήψη τώρα
@@ -23,6 +17,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Νέα καρτέλα
 appmenuitem-new-window =
     .label = Νέο παράθυρο
 appmenuitem-new-private-window =
@@ -35,14 +31,6 @@ appmenuitem-find-in-page =
     .label = Εύρεση στη σελίδα…
 appmenuitem-more-tools =
     .label = Περισσότερα εργαλεία
-appmenuitem-exit =
-    .label = Έξοδος
-appmenu-menu-button-closed =
-    .tooltiptext = Άνοιγμα μενού εφαρμογής
-    .label = { -brand-shorter-name }
-appmenu-menu-button-opened =
-    .tooltiptext = Κλείσιμο μενού εφαρμογής
-    .label = { -brand-shorter-name }
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
@@ -79,16 +67,12 @@ appmenu-remote-tabs-turn-on-sync =
     .label = Ενεργοποίηση Sync…
 appmenuitem-fxa-toolbar-sync-now2 = Συγχρονισμός τώρα
 appmenuitem-fxa-manage-account = Διαχείριση λογαριασμού
-appmenu-fxa-header =
-    .title = { -fxaccount-brand-name }
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
 appmenu-fxa-last-sync = Τελευταίος συγχρονισμός: { $time }
     .label = Τελευταίος συγχρονισμός: { $time }
-appmenu-fxa-sync-and-save-data =
-    .value = Συγχρονισμός και αποθήκευση δεδομένων
 appmenu-fxa-sync-and-save-data2 = Συγχρονισμός και αποθήκευση δεδομένων
 appmenu-fxa-signed-in-label = Σύνδεση
 appmenu-fxa-setup-sync =
@@ -153,6 +137,14 @@ appmenu-manage-history =
     .label = Διαχείριση ιστορικού
 appmenu-reopen-all-tabs = Επαναφορά όλων των καρτελών
 appmenu-reopen-all-windows = Επαναφορά όλων των παραθύρων
+appmenu-restore-session =
+    .label = Επαναφορά προηγούμενης συνεδρίας
+appmenu-clear-history =
+    .label = Εκκαθάριση πρόσφατου ιστορικού…
+appmenu-recently-closed-tabs =
+    .label = Πρόσφατα κλεισμένες καρτέλες
+appmenu-recently-closed-windows =
+    .label = Πρόσφατα κλεισμένα παράθυρα
 
 ## Help panel
 
