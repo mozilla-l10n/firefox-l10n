@@ -5,12 +5,6 @@
 
 ## App Menu
 
-appmenuitem-update-banner2 =
-    .label-update-downloading = Henter { -brand-shorter-name }-opdatering
-    .label-update-available = Opdatering tilgængelig — hent nu
-    .label-update-manual = Opdatering tilgængelig — hent nu
-    .label-update-unsupported = Kan ikke opdatere
-    .label-update-restart = Opdatering tilgængelig — genstart nu
 appmenuitem-update-banner3 =
     .label-update-downloading = Henter { -brand-shorter-name }-opdatering
     .label-update-available = Opdatering tilgængelig — hent nu
@@ -23,6 +17,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Nyt faneblad
 appmenuitem-new-window =
     .label = Nyt vindue
 appmenuitem-new-private-window =
@@ -35,14 +31,6 @@ appmenuitem-find-in-page =
     .label = Find på side…
 appmenuitem-more-tools =
     .label = Flere værktøjer
-appmenuitem-exit =
-    .label = Afslut
-appmenu-menu-button-closed =
-    .tooltiptext = Åbn program-menu
-    .label = { -brand-shorter-name }
-appmenu-menu-button-opened =
-    .tooltiptext = Luk program-menu
-    .label = { -brand-shorter-name }
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
@@ -79,16 +67,12 @@ appmenu-remote-tabs-turn-on-sync =
     .label = Slå synkronisering til…
 appmenuitem-fxa-toolbar-sync-now2 = Synkroniser nu
 appmenuitem-fxa-manage-account = Håndter konto
-appmenu-fxa-header =
-    .title = { -fxaccount-brand-name }
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
 appmenu-fxa-last-sync = Senest synkroniseret { $time }
     .label = Senest synkroniseret { $time }
-appmenu-fxa-sync-and-save-data =
-    .value = Synkroniser og gem data
 appmenu-fxa-sync-and-save-data2 = Synkroniser og gem data
 appmenu-fxa-signed-in-label = Log ind
 appmenu-fxa-setup-sync =
