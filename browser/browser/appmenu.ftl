@@ -39,6 +39,8 @@ appmenuitem-save-page =
 
 appmenu-recently-closed-tabs =
     .label = সম্প্রতি বন্ধ করা ট্যাব
+appmenu-recently-closed-windows =
+    .label = সম্প্রতি বন্ধ করা উইন্ডো
 
 ## Help panel
 
