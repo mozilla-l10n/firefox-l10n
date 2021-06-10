@@ -10,6 +10,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = ಹೊಸ ಹಾಳೆ
 appmenuitem-new-window =
     .label = ಹೊಸ ಕಿಟಕಿ
 appmenuitem-new-private-window =
@@ -37,6 +39,8 @@ appmenuitem-save-page =
 
 ## History panel
 
+appmenu-clear-history =
+    .label = ಇತ್ತೀಚಿನ ಇತಿಹಾಸವನ್ನು ಅಳಿಸಿಹಾಕು…
 appmenu-recently-closed-tabs =
     .label = ಇತ್ತೀಚೆಗೆ ಮುಚ್ಚಲಾದ ಟ್ಯಾಬ್‌ಗಳು
 appmenu-recently-closed-windows =
