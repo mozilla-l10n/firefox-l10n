@@ -17,6 +17,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Nuova scheda
 appmenuitem-new-window =
     .label = Nuova finestra
 appmenuitem-new-private-window =
@@ -131,6 +133,15 @@ appmenu-manage-history =
     .label = Gestisci cronologia
 appmenu-reopen-all-tabs = Riapri tutte le schede
 appmenu-reopen-all-windows = Riapri tutte le finestre
+appmenu-restore-session =
+    .label = Ripristina la sessione precedente
+appmenu-clear-history =
+    .label = Cancella la cronologia recente…
+appmenu-recent-history-subheader = Cronologia recente
+appmenu-recently-closed-tabs =
+    .label = Schede chiuse di recente
+appmenu-recently-closed-windows =
+    .label = Finestre chiuse di recente
 
 ## Help panel
 
@@ -178,3 +189,5 @@ appmenu-customizetoolbar =
 appmenu-taskmanager =
     .label = Gestione attività
 appmenu-developer-tools-subheader = Strumenti del browser
+appmenu-developer-tools-extensions =
+    .label = Estensioni per sviluppatori
