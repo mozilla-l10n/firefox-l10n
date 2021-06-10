@@ -57,6 +57,9 @@ upgrade-dialog-pin-secondary-button = Ikke nå
 upgrade-dialog-default-title = Gjør { -brand-short-name } til din standardnettleser?
 upgrade-dialog-default-subtitle = Få hastighet, sikkerhet og personvern hver gang du surfer.
 upgrade-dialog-default-primary-button = Velg som standardnettleser
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title-2 = Bruk { -brand-short-name } som standardnettleser
+upgrade-dialog-default-primary-button-2 = Bruk som standard nettleser
 upgrade-dialog-default-secondary-button = Ikke nå
 
 ## Theme selection screen
