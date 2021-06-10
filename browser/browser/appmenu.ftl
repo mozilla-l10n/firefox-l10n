@@ -17,6 +17,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Новая картка
 appmenuitem-new-window =
     .label = Новае акно
 appmenuitem-new-private-window =
@@ -135,8 +137,12 @@ appmenu-manage-history =
     .label = Кіраванне гісторыяй
 appmenu-reopen-all-tabs = Перааадкрыць усе карткі
 appmenu-reopen-all-windows = Перааадкрыць усе вокны
+appmenu-restore-session =
+    .label = Аднавіць папярэдні сеанс
 appmenu-clear-history =
     .label = Ачысціць нядаўнюю гісторыю…
+appmenu-recently-closed-windows =
+    .label = Нядаўна закрытыя вокны
 
 ## Help panel
 
