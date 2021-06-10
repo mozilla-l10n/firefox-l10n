@@ -39,6 +39,15 @@ appmenuitem-save-page =
 
 ## History panel
 
+appmenu-restore-session =
+    .label = Pulih Sesi Dahulu
+appmenu-clear-history =
+    .label = Buang Sejarah Terkini…
+appmenu-recent-history-subheader = Sejarah Terkini
+appmenu-recently-closed-tabs =
+    .label = Tab Terkini Ditutup
+appmenu-recently-closed-windows =
+    .label = Tetingkap Terkini Ditutup
 
 ## Help panel
 
