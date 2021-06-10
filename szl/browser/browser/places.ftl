@@ -5,10 +5,10 @@
 places-open =
     .label = Ôdewrzij
     .accesskey = O
-places-open-in-tab =
+places-open-tab =
     .label = Ôdewrzij w nowyj karcie
     .accesskey = w
-places-open-tab =
+places-open-in-tab =
     .label = Ôdewrzij w nowyj karcie
     .accesskey = w
 places-open-all-bookmarks =
@@ -20,13 +20,7 @@ places-open-all-in-tabs =
 places-open-window =
     .label = Ôdewrzij w nowym ôknie
     .accesskey = N
-places-open-in-window =
-    .label = Ôdewrzij w nowym ôknie
-    .accesskey = N
 places-open-private-window =
-    .label = Ôdewrzij w nowym prywatnym ôknie
-    .accesskey = P
-places-open-in-private-window =
     .label = Ôdewrzij w nowym prywatnym ôknie
     .accesskey = P
 places-new-bookmark =
@@ -41,6 +35,12 @@ places-new-folder =
 places-new-separator =
     .label = Nowy separatōr
     .accesskey = S
+places-open-in-window =
+    .label = Ôdewrzij w nowym ôknie
+    .accesskey = N
+places-open-in-private-window =
+    .label = Ôdewrzij w nowym prywatnym ôknie
+    .accesskey = P
 places-add-bookmark =
     .label = Przidej zokłodka…
     .accesskey = Z
@@ -91,6 +91,18 @@ places-edit-bookmark =
 places-edit-generic =
     .label = Edytuj…
     .accesskey = y
+places-edit-folder =
+    .label = Przemianuj katalog…
+    .accesskey = e
+places-remove-folder =
+    .label =
+        { $count ->
+            [1] Wyciep katalog
+            [one] Wyciep katalog
+            [few] Wyciep katalogi
+           *[many] Wyciep katalogi
+        }
+    .accesskey = w
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Regiyrowane zokłodki

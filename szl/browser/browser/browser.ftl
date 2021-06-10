@@ -694,9 +694,17 @@ save-to-pocket-button =
 
 ## Repair text encoding toolbar button
 
+repair-text-encoding-button =
+    .label = Naprow kodowanie tekstu
+    .tooltiptext = Zgoduj dobre kodowanie tekstu z kōntekstu strōny
 
 ## Customize Toolbar Buttons
 
+# Variables:
+#  $shortcut (String): keyboard shortcut to open the add-ons manager
+toolbar-addons-themes-button =
+    .label = Rozszyrzynia i motywy
+    .tooltiptext = Regiyruj rozszyrzyniami i motywami ({ $shortcut })
 
 ## More items
 
