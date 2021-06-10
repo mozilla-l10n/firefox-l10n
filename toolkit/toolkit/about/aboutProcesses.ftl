@@ -61,6 +61,8 @@ about-processes-socket-process = Мрежа ({ $pid })
 ##    $pid (String) The process id of this process, assigned by the OS.
 ##    $origin (String) The domain name for this process.
 
+about-processes-web-isolated-process-private = { $origin } – приватни ({ $pid })
+about-processes-web-large-allocation-process-private = { $origin } – приватни ({ $pid }, велики)
 
 ## Details within processes
 
