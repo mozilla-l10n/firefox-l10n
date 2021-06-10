@@ -255,15 +255,52 @@ onboarding-multistage-theme-description-alpenglow =
 mr1-welcome-screen-hero-text = Sztartujymy
 # Caption for background image in about:welcome. "Soraya Osorio" is the name
 # of the person and shouldn't be translated.
+# In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
+# You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = Soraya Osorio — projektantka mebli, fanka Firefoxa
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Wyłōncz animacyje
+
+## Title and primary button strings differ between platforms as they
+## match the OS' application context menu item action where Windows uses "pin"
+## and "taskbar" while macOS "keep" and "Dock" (proper noun).
+
+# Title used on welcome page when Firefox is not pinned
+mr1-onboarding-pin-header =
+    { PLATFORM() ->
+        [macos] Trzimej { -brand-short-name } we Dock, coby mieć snadny dostymp
+       *[other] Przipnij { -brand-short-name } do poska ze zadaniami, coby mieć snadny dostymp
+    }
+# Primary button string used on welcome page when Firefox is not pinned.
+mr1-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Trzimej w Dock
+       *[other] Przipnij do poska ze zadaniami
+    }
+
+## Multistage MR1 onboarding strings (about:welcome pages)
+
+# This string will be used on welcome page primary button label
+# when Firefox is both pinned and default
+mr1-onboarding-get-started-primary-button-label = Zaczynōmy
 mr1-onboarding-welcome-header = Wito cie { -brand-short-name }
 mr1-onboarding-set-default-pin-primary-button-label = Nastow aplikacyjo { -brand-short-name } za bazowo przeglōndarka
     .title = Nastawio aplikacyjo { -brand-short-name } za bazowo przeglōndarka i przipino jōm do poska ze zadaniami
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
 mr1-onboarding-set-default-only-primary-button-label = Nastow aplikacyjo { -brand-short-name } za bazowo przeglōndarka
 mr1-onboarding-set-default-secondary-button-label = Niy teroz
 mr1-onboarding-sign-in-button-label = Wloguj sie
+
+## Title, subtitle and primary button string used on set default onboarding screen
+## when Firefox is not default browser
+
+mr1-onboarding-default-header = Nastow aplikacyjo { -brand-short-name } za bazowo
+mr1-onboarding-default-subtitle = Gibkość, bezpieczyństwo a prywatność - zawdy na przodku.
+mr1-onboarding-default-primary-button-label = Nastow bazowo przeglōndarka
+
+## Multistage MR1 onboarding strings (about:welcome pages)
+
 mr1-onboarding-import-header = Prziniyś to wszysko ze sobōm
 mr1-onboarding-import-subtitle = Importuj swoje hasła, <br/>zokłodki i inksze.
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.

@@ -49,4 +49,4 @@ bookmark-overlay-keyword-2 =
     .value = Kluczowe słowo
     .accesskey = K
 bookmark-overlay-tags-caption-label = Używej etyket, coby se poukłodać zokłodki i szukać za nimi na posku adresy
-bookmark-overlay-keyword-caption-label = Używej kluczowych słōw, coby ôtwiyrać zokłodki ze poska adresy
+bookmark-overlay-keyword-caption-label-2 = Używej jednego kluczowego słowa, coby ôtwiyrać zokłodki ze poska adresy
