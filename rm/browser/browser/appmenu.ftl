@@ -5,12 +5,6 @@
 
 ## App Menu
 
-appmenuitem-update-banner2 =
-    .label-update-downloading = Telechargiar l'actualisaziun da { -brand-shorter-name }
-    .label-update-available = Actualisaziun disponibla – ussa telechargiar
-    .label-update-manual = Actualisaziun disponibla – ussa telechargiar
-    .label-update-unsupported = Impussibel dad actualisar
-    .label-update-restart = Actualisaziun disponibla – ussa reaviar
 appmenuitem-update-banner3 =
     .label-update-downloading = Telechargiar l'actualisaziun da { -brand-shorter-name }
     .label-update-available = Actualisaziun disponibla – ussa telechargiar
@@ -23,6 +17,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Nov tab
 appmenuitem-new-window =
     .label = Nova fanestra
 appmenuitem-new-private-window =
@@ -35,14 +31,6 @@ appmenuitem-find-in-page =
     .label = Tschertgar en la pagina…
 appmenuitem-more-tools =
     .label = Ulteriurs utensils
-appmenuitem-exit =
-    .label = Terminar
-appmenu-menu-button-closed =
-    .tooltiptext = Avrir il menu d'applicaziun
-    .label = { -brand-shorter-name }
-appmenu-menu-button-opened =
-    .tooltiptext = Serrar il menu d'applicaziun
-    .label = { -brand-shorter-name }
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
@@ -79,16 +67,12 @@ appmenu-remote-tabs-turn-on-sync =
     .label = Activar la sincronisaziun…
 appmenuitem-fxa-toolbar-sync-now2 = Sincronisar ussa
 appmenuitem-fxa-manage-account = Administrar il conto
-appmenu-fxa-header =
-    .title = { -fxaccount-brand-name }
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
 appmenu-fxa-last-sync = Ultima sincronisaziun: { $time }
     .label = Ultima sincronisaziun: { $time }
-appmenu-fxa-sync-and-save-data =
-    .value = Sincronisar e memorisar las datas
 appmenu-fxa-sync-and-save-data2 = Sincronisar e memorisar las datas
 appmenu-fxa-signed-in-label = S'annunziar
 appmenu-fxa-setup-sync =
@@ -153,6 +137,15 @@ appmenu-manage-history =
     .label = Administrar la cronologia
 appmenu-reopen-all-tabs = Reavrir tut ils tabs
 appmenu-reopen-all-windows = Reavrir tut las fanestras
+appmenu-restore-session =
+    .label = Restaurar l'ultima sesida
+appmenu-clear-history =
+    .label = Stizzar la cronologia la pli nova…
+appmenu-recent-history-subheader = Cronologia nova
+appmenu-recently-closed-tabs =
+    .label = Tabs serrads dacurt
+appmenu-recently-closed-windows =
+    .label = Fanestras serradas dacurt
 
 ## Help panel
 
