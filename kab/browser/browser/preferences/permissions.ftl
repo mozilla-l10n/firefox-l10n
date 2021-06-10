@@ -18,6 +18,9 @@ permissions-session =
 permissions-allow =
     .label = Sireg
     .accesskey = i
+permissions-button-off =
+    .label = Sens
+    .accesskey = S
 permissions-site-name =
     .label = Asmel Web
 permissions-status =
@@ -58,6 +61,10 @@ permissions-capabilities-listitem-block =
     .value = Sewḥel
 permissions-capabilities-listitem-allow-session =
     .value = Sireg i tɣimit
+permissions-capabilities-listitem-off =
+    .value = Yensa
+permissions-capabilities-listitem-off-temporarily =
+    .value = Sens i kra n wakud
 
 ## Invalid Hostname Dialog
 
@@ -77,6 +84,9 @@ permissions-exceptions-cookie-window =
     .title = Tisuraf - Inagan n tuqna akked isefka n usmel
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = Tzemreḍ ad temmleḍ ismal web yettwasirgen dima neɣ urǧin ttwasirgen ad sqedcen isefka n yismal. Sekcem tansa n usmel sakin sit ɣef Sewḥel, Sireg i tɣimit, neɣ Sireg.
+
+## Exceptions - HTTPS-Only Mode
+
 
 ## Exceptions - Pop-ups
 

@@ -263,15 +263,37 @@ onboarding-multistage-theme-description-alpenglow =
 # Firefox to pursue those passions, as well as the boldness in their
 # choice to use Firefox over a larger competitor browser.
 # An alternative title for localization is: "It starts here".
+# This text can be formatted to span multiple lines as needed.
 mr1-welcome-screen-hero-text = Syagi ara yebdu kullec
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Sens imrayen
+
+## Title and primary button strings differ between platforms as they
+## match the OS' application context menu item action where Windows uses "pin"
+## and "taskbar" while macOS "keep" and "Dock" (proper noun).
+
+
+## Multistage MR1 onboarding strings (about:welcome pages)
+
+# This string will be used on welcome page primary button label
+# when Firefox is both pinned and default
+mr1-onboarding-get-started-primary-button-label = Bdu
 mr1-onboarding-welcome-header = Ansuf ɣer { -brand-short-name }
 mr1-onboarding-set-default-pin-primary-button-label = Err { -brand-short-name } d iminig-iw agejdan
     .title = Isbadu { -brand-short-name } d iminig amezwer yerna isenteḍ-it ɣer ufaggag n twuriwin
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
 mr1-onboarding-set-default-only-primary-button-label = Err { -brand-short-name } d iminig-iw amezwer
 mr1-onboarding-set-default-secondary-button-label = Mačči tura
 mr1-onboarding-sign-in-button-label = Kcem
+
+## Title, subtitle and primary button string used on set default onboarding screen
+## when Firefox is not default browser
+
+mr1-onboarding-default-primary-button-label = Err-it d iminig amezwer
+
+## Multistage MR1 onboarding strings (about:welcome pages)
+
 mr1-onboarding-import-header = Awi kullec yid-k·m
 mr1-onboarding-import-subtitle = Kter awalen-ik·im uffiren, <br/>ticraḍ n yisebtar d wayen-nniḍen.
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
