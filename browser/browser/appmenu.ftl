@@ -137,6 +137,10 @@ appmenu-manage-history =
     .label = Kudeatu historia
 appmenu-reopen-all-tabs = Ireki berriro fitxa guztiak
 appmenu-reopen-all-windows = Ireki berriro leiho guztiak
+appmenu-recently-closed-tabs =
+    .label = Itxitako azken fitxak
+appmenu-recently-closed-windows =
+    .label = Itxitako azken leihoak
 
 ## Help panel
 
