@@ -5,12 +5,6 @@
 
 ## App Menu
 
-appmenuitem-update-banner2 =
-    .label-update-downloading = { -brand-shorter-name } ਅੱਪਡੇਟ ਡਾਊਨਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
-    .label-update-available = ਅੱਪਡੇਟ ਮੌਜੂਦ ਹੈ — ਹੁਣੇ ਡਾਊਨਲੋਡ ਕਰੋ
-    .label-update-manual = ਅੱਪਡੇਟ ਮੌਜੂਦ ਹੈ — ਹੁਣੇ ਡਾਊਨਲੋਡ ਕਰੋ
-    .label-update-unsupported = ਅੱਪਡੇਟ ਲਈ ਅਸਮਰੱਥ ਹੈ
-    .label-update-restart = ਅੱਪਡੇਫ ਮੌਜੂਦ ਹੈ — ਹੁਣੇ ਮੁੜ-ਚਾਲੂ ਕਰੋ
 appmenuitem-update-banner3 =
     .label-update-downloading = { -brand-shorter-name } ਅੱਪਡੇਟ ਡਾਊਨਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
     .label-update-available = ਅੱਪਡੇਟ ਮੌਜੂਦ ਹੈ — ਹੁਣੇ ਡਾਊਨਲੋਡ ਕਰੋ
@@ -23,6 +17,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = ਨਵੀਂ ਟੈਬ
 appmenuitem-new-window =
     .label = ਨਵੀਂ ਵਿੰਡੋ
 appmenuitem-new-private-window =
@@ -35,14 +31,6 @@ appmenuitem-find-in-page =
     .label = …ਸਫ਼ੇ ਵਿੱਚ ਲੱਭੋ
 appmenuitem-more-tools =
     .label = ਹੋਰ ਟੂਲ
-appmenuitem-exit =
-    .label = ਬਾਹਰ
-appmenu-menu-button-closed =
-    .tooltiptext = ਐਪਲੀਕੇਸ਼ਨ ਮੇਨੂ ਖੋਲ੍ਹੋ
-    .label = { -brand-shorter-name }
-appmenu-menu-button-opened =
-    .tooltiptext = ਐਪਲੀਕੇਸ਼ਨ ਮੇਨੂ ਬੰਦ ਕਰੋ
-    .label = { -brand-shorter-name }
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
@@ -79,16 +67,12 @@ appmenu-remote-tabs-turn-on-sync =
     .label = …ਸਿੰਕ ਚਾਲੂ ਕਰੋ
 appmenuitem-fxa-toolbar-sync-now2 = ਹੁਣੇ ਸਿੰਕ ਕਰੋ
 appmenuitem-fxa-manage-account = ਖਾਤੇ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
-appmenu-fxa-header =
-    .title = { -fxaccount-brand-name }
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
 appmenu-fxa-last-sync = ਪਿਛਲਾ ਸਿੰਕ ਕੀਤਾ { $time }
     .label = ਪਿਛਲਾ ਸਿੰਕ ਕੀਤਾ { $time }
-appmenu-fxa-sync-and-save-data =
-    .value = ਡਾਟਾ ਸਿੰਕ ਕਰੋ ਤੇ ਸੰਭਾਲੋ
 appmenu-fxa-sync-and-save-data2 = ਡਾਟਾ ਸਿੰਕ ਕਰੋ ਤੇ ਸੰਭਾਲੋ
 appmenu-fxa-signed-in-label = ਸਾਇਨ ਇਨ
 appmenu-fxa-setup-sync =
@@ -151,6 +135,8 @@ appmenu-manage-history =
     .label = ਅਤੀਤ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
 appmenu-reopen-all-tabs = ਸਾਰੀਆਂ ਟੈਬਾਂ ਖੋਲ੍ਹੋ
 appmenu-reopen-all-windows = ਸਾਰੀਆਂ ਵਿੰਡੋ ਮੁੜ-ਖੋਲ੍ਹੋ
+appmenu-recently-closed-tabs =
+    .label = ਤਾਜ਼ਾ ਖੋਲ੍ਹੀਆਂ ਟੈਬਾਂ
 
 ## Help panel
 
