@@ -41,6 +41,14 @@ appmenuitem-save-page =
 
 ## History panel
 
+appmenu-restore-session =
+    .label = Əvvəlki Seansı Bərpa et
+appmenu-clear-history =
+    .label = Son Tarixçəni Təmizlə…
+appmenu-recently-closed-tabs =
+    .label = Yeni qapanmış vərəqlər
+appmenu-recently-closed-windows =
+    .label = Yeni qapanmış pəncərələr
 
 ## Help panel
 
