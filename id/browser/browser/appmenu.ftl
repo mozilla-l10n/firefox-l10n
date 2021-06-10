@@ -135,8 +135,12 @@ appmenu-manage-history =
     .label = Kelola Riwayat
 appmenu-reopen-all-tabs = Buka Ulang Semua Tab
 appmenu-reopen-all-windows = Buka Ulang Semua Jendela
+appmenu-restore-session =
+    .label = Pulihkan Sesi Sebelumnya
 appmenu-recently-closed-tabs =
     .label = Tab yang Baru Saja Ditutup
+appmenu-recently-closed-windows =
+    .label = Jendela yang Baru Saja Ditutup
 
 ## Help panel
 
