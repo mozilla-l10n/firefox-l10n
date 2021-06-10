@@ -5,12 +5,6 @@
 
 ## App Menu
 
-appmenuitem-update-banner2 =
-    .label-update-downloading = Загрузка обновления { -brand-shorter-name }
-    .label-update-available = Обновление доступно — загрузить сейчас
-    .label-update-manual = Обновление доступно — загрузить сейчас
-    .label-update-unsupported = Не удалось выполнить обновление
-    .label-update-restart = Обновление доступно — перезапустить сейчас
 appmenuitem-update-banner3 =
     .label-update-downloading = Загрузка обновления { -brand-shorter-name }
     .label-update-available = Доступно обновление — загрузить сейчас
@@ -23,6 +17,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Новая вкладка
 appmenuitem-new-window =
     .label = Новое окно
 appmenuitem-new-private-window =
@@ -35,14 +31,6 @@ appmenuitem-find-in-page =
     .label = Найти на странице…
 appmenuitem-more-tools =
     .label = Другие инструменты
-appmenuitem-exit =
-    .label = Выход
-appmenu-menu-button-closed =
-    .tooltiptext = Открыть меню приложения
-    .label = { -brand-shorter-name }
-appmenu-menu-button-opened =
-    .tooltiptext = Закрыть меню приложения
-    .label = { -brand-shorter-name }
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
@@ -79,16 +67,12 @@ appmenu-remote-tabs-turn-on-sync =
     .label = Включить синхронизацию…
 appmenuitem-fxa-toolbar-sync-now2 = Синхронизировать
 appmenuitem-fxa-manage-account = Управление аккаунтом
-appmenu-fxa-header =
-    .title = { -fxaccount-brand-name }
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
 appmenu-fxa-last-sync = Последняя синхронизация { $time }
     .label = Последняя синхронизация { $time }
-appmenu-fxa-sync-and-save-data =
-    .value = Синхронизация и сохранение данных
 appmenu-fxa-sync-and-save-data2 = Синхронизация и сохранение данных
 appmenu-fxa-signed-in-label = Войти
 appmenu-fxa-setup-sync =
@@ -153,6 +137,8 @@ appmenu-manage-history =
     .label = Управление журналом
 appmenu-reopen-all-tabs = Снова открыть все вкладки
 appmenu-reopen-all-windows = Снова открыть все окна
+appmenu-recently-closed-tabs =
+    .label = Недавно закрытые вкладки
 
 ## Help panel
 
