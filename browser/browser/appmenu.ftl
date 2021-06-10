@@ -5,12 +5,6 @@
 
 ## App Menu
 
-appmenuitem-update-banner2 =
-    .label-update-downloading = Завантажується оновлення { -brand-shorter-name }
-    .label-update-available = Доступне оновлення — завантажити зараз
-    .label-update-manual = Доступне оновлення — завантажити зараз
-    .label-update-unsupported = Не вдається оновити
-    .label-update-restart = Доступне оновлення — перезавантажити зараз
 appmenuitem-update-banner3 =
     .label-update-downloading = Завантажується оновлення { -brand-shorter-name }
     .label-update-available = Доступне оновлення — завантажити
@@ -23,6 +17,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Нова вкладка
 appmenuitem-new-window =
     .label = Нове вікно
 appmenuitem-new-private-window =
@@ -35,14 +31,6 @@ appmenuitem-find-in-page =
     .label = Знайти на сторінці…
 appmenuitem-more-tools =
     .label = Інші інструменти
-appmenuitem-exit =
-    .label = Вийти
-appmenu-menu-button-closed =
-    .tooltiptext = Відкрити меню програми
-    .label = { -brand-shorter-name }
-appmenu-menu-button-opened =
-    .tooltiptext = Закрити меню програми
-    .label = { -brand-shorter-name }
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
@@ -79,16 +67,12 @@ appmenu-remote-tabs-turn-on-sync =
     .label = Увімкнути синхронізацію…
 appmenuitem-fxa-toolbar-sync-now2 = Синхронізувати
 appmenuitem-fxa-manage-account = Керувати обліковим записом
-appmenu-fxa-header =
-    .title = { -fxaccount-brand-name }
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
 appmenu-fxa-last-sync = Востаннє синхронізовано { $time }
     .label = Востаннє синхронізовано { $time }
-appmenu-fxa-sync-and-save-data =
-    .value = Синхронізувати та зберегти дані
 appmenu-fxa-sync-and-save-data2 = Синхронізувати та зберегти дані
 appmenu-fxa-signed-in-label = Увійти
 appmenu-fxa-setup-sync =
@@ -153,6 +137,8 @@ appmenu-manage-history =
     .label = Керувати історією
 appmenu-reopen-all-tabs = Знову відкрити всі вкладки
 appmenu-reopen-all-windows = Знову відкрити всі вікна
+appmenu-recently-closed-tabs =
+    .label = Недавно закриті вкладки
 
 ## Help panel
 
