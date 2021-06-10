@@ -129,6 +129,15 @@ appmenu-manage-history =
     .label = أدِر التأريخ
 appmenu-reopen-all-tabs = أعِد فتح كل الألسنة
 appmenu-reopen-all-windows = أعِد فتح كل النوافذ
+appmenu-restore-session =
+    .label = استعد الجلسة السابقة
+appmenu-clear-history =
+    .label = امسح التأريخ الحالي…
+appmenu-recent-history-subheader = التأريخ القريب
+appmenu-recently-closed-tabs =
+    .label = الألسنة المُغلقة مؤخرًا
+appmenu-recently-closed-windows =
+    .label = النوافذ المغلقة مؤخرًا
 
 ## Help panel
 
