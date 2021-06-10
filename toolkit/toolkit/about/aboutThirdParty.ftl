@@ -4,3 +4,10 @@
 
 third-party-detail-app = Aplicacion
 third-party-detail-publisher = Editor
+third-party-th-status = Estat
+third-party-button-open =
+    .title = Dobrir l’emplaçament del fichièr…
+third-party-button-expand =
+    .title = Mostrar las informacions detalhadas
+third-party-button-collapse =
+    .title = Plegar las informacions detalhadas
