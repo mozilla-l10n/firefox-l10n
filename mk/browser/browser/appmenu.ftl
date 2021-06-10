@@ -43,6 +43,15 @@ appmenuitem-save-page =
 
 ## History panel
 
+appmenu-restore-session =
+    .label = Врати претходна сесија
+appmenu-clear-history =
+    .label = Исчисти ја скорешната историја…
+appmenu-recent-history-subheader = Скорешна историја на прелистување
+appmenu-recently-closed-tabs =
+    .label = Скоро-затворени јазичиња
+appmenu-recently-closed-windows =
+    .label = Скоро-затворени прозорци
 
 ## Help panel
 
