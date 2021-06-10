@@ -11,6 +11,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Նոր Ներդիր
 appmenuitem-new-window =
     .label = Նոր Պատուհան
 appmenuitem-new-private-window =
@@ -98,6 +100,8 @@ profiler-popup-capture-shortcut =
 
 ## History panel
 
+appmenu-recently-closed-tabs =
+    .label = Վերջին փակված ներդիրները
 
 ## Help panel
 
