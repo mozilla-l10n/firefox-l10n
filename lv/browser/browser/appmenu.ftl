@@ -44,6 +44,7 @@ appmenu-restore-session =
     .label = Atjaunot iepriekšējo sesiju
 appmenu-clear-history =
     .label = Dzēst neseno vēsturi…
+appmenu-recent-history-subheader = Nesenā vēsture
 appmenu-recently-closed-tabs =
     .label = Nesen aizvērtās cilnes
 appmenu-recently-closed-windows =
