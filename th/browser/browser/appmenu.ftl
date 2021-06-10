@@ -17,6 +17,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = แท็บใหม่
 appmenuitem-new-window =
     .label = หน้าต่างใหม่
 appmenuitem-new-private-window =
