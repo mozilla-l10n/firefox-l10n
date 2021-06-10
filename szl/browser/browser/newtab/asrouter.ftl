@@ -266,8 +266,6 @@ cfr-whatsnew-better-pdf-body = Dokumynta PDF ôtwiyrajōm sie teroz dyrekt w apl
 
 cfr-doorhanger-doh-body = Twoja prywatność je we wercie. Teroz, jak ino idzie, { -brand-short-name } bezpiecznie keruje twoje prośby DNS do partnerskij usugi, coby chrōnić cie, jak przeglōndosz internet.
 cfr-doorhanger-doh-header = Bezpieczniyjsze, zaszyfrowane szukania DNS
-cfr-doorhanger-doh-primary-button = OK
-    .accesskey = O
 cfr-doorhanger-doh-primary-button-2 = OK
     .accesskey = O
 cfr-doorhanger-doh-secondary-button = Zastow
@@ -313,3 +311,10 @@ cfr-whatsnew-bookmarking-body = Filowanie na swoje ulubiōne zokłodki je snadni
 
 cfr-whatsnew-cross-site-tracking-header = Pozorna ôchrōna ôd cookies, co śledzōm miyndzy strōnami
 cfr-whatsnew-cross-site-tracking-body = Teroz idzie se załōnczyć lepszo ôchrōna ôd cookies, co śledzōm miyndzy strōnami. { -brand-short-name } poradzi izolować twoja aktywność i dane na strōnie, na keryj żeś prawie je, tak co informacyje schrōniōne w przeglōndarce niy bydōm udostympniane miyndzy strōnami.
+
+## Full Video Support CFR message
+
+cfr-doorhanger-video-support-body = Przi tyj wersyji aplikacyje { -brand-short-name } filmy na tyj strōnie mogōm sie niy puszczać dobrze. Zaktualizuj aplikacyjo { -brand-short-name }, coby mieć pōłno ôbsuga filmōw.
+cfr-doorhanger-video-support-header = Zaktualizuj aplikacyjo { -brand-short-name }, coby puszczać filmy
+cfr-doorhanger-video-support-primary-button = Aktualizuj teroz
+    .accesskey = A

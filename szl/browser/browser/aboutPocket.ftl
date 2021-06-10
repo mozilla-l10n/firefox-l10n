@@ -15,6 +15,7 @@ pocket-panel-saved-error-generic = Przi spamiyntowaniu do usugi { -pocket-brand-
 pocket-panel-saved-error-tag-length = Etykety niy śmiōm mieć wiyncyj jak 25 znakōw
 pocket-panel-saved-error-only-links = Idzie spamiyntować ino linki
 pocket-panel-saved-error-not-saved = Strōna niy ma spamiyntano
+pocket-panel-saved-error-no-internet = Coby spamiyntować do usugi { -pocket-brand-name }, trza mieć połōnczynie z internetym. Połōncz sie z internetym i sprōbuj jeszcze roz.
 pocket-panel-saved-page-removed = Strōna je wyciepano
 pocket-panel-saved-page-saved = Spamiyntane w usudze { -pocket-brand-name }
 pocket-panel-saved-processing-remove = Wyciepowanie strōny…
@@ -40,3 +41,6 @@ pocket-panel-signup-tagline-story-two = Ôglōndej w usudze { -pocket-brand-name
 
 ## about:pocket-home panel
 
+pocket-panel-home-my-list = Mōj wykoz
+pocket-panel-home-welcome-back = Witej zaś
+pocket-panel-home-paragraph = Ze usugōm { -pocket-brand-name } idzie poznować i spamiyntować strōny, artykuły, filmy i podcasty, abo sie wrocać do czytanych rzeczy.
