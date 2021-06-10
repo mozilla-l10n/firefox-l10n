@@ -135,6 +135,10 @@ appmenu-manage-history =
     .label = مدیریت تاریخچه
 appmenu-reopen-all-tabs = بازگردانی همه زبانه‌ها
 appmenu-reopen-all-windows = بازگردانی همهٔ پنجره‌ها
+appmenu-recently-closed-tabs =
+    .label = زبانه‌های تازه بسته شده
+appmenu-recently-closed-windows =
+    .label = پنجره‌های تازه بسته شده
 
 ## Help panel
 
