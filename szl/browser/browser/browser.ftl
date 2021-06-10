@@ -247,6 +247,14 @@ search-one-offs-context-set-as-default-private =
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
+# Shown when adding new engines from the address bar shortcut buttons or context
+# menu, or from the search bar shortcut buttons.
+# Variables:
+#  $engineName (String): The name of the engine.
+search-one-offs-add-engine =
+    .label = Przidej „{ $engineName }”
+    .tooltiptext = Przidej wyszukowarka „{ $engineName }”
+    .aria-label = Przidej wyszukowarka „{ $engineName }”
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -268,6 +276,8 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = Przidej zokłodka
+bookmarks-edit-bookmark = Edytuj zokłodka
 bookmark-panel-cancel =
     .label = Pociep
     .accesskey = P
@@ -286,6 +296,8 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = E
 bookmark-panel-done-button =
     .label = Fertich
+bookmark-panel-save-button =
+    .label = Spamiyntej
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -303,6 +315,7 @@ identity-header-security-with-host =
     .title = Bezpieczyństwo połōnczynio ze serwerym { $host }
 identity-connection-not-secure = Połōnczynie niy ma zabezpieczōne
 identity-connection-secure = Połōnczynie je zabezpieczōne
+identity-connection-failure = Feler połōnczynio
 identity-connection-internal = To je zabezpieczōno strōna aplikacyje { -brand-short-name }.
 identity-connection-file = Ta strōna je trzimano na twojim kōmputrze.
 identity-extension-page = Ta strōna je zaladowano z rozszyrzynio.
@@ -327,6 +340,7 @@ identity-https-only-info-turn-off2 = Jak strōna wyglōndo na felerno, może byd
 identity-https-only-info-no-upgrade = Niy idzie sztajgnōńć połōnczynio ze HTTP.
 identity-permissions-storage-access-header = Cookies, co śledzōm miyndzy strōnami
 identity-permissions-storage-access-hint = Te strōny poradzōm używać cookies, co śledzōm cie miyndzy strōnami, i mieć dostymp do danych tyj strōny, jak żeś na nij je.
+identity-permissions-storage-access-learn-more = Przewiydz sie wiyncyj
 identity-permissions-reload-hint = Możno bydzie trza zaladować strōna jeszcze roz, coby wkludzić zmiany.
 identity-permissions-empty = Ta strōna niy dostała ôd ciebie żodnych ekstra zgōd.
 identity-clear-site-data =
@@ -504,6 +518,11 @@ urlbar-placeholder-with-name =
     .placeholder = Szukej ze { $name } abo wkludź adresa
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Przeglōndarka je kōntrolowano zdalnie
+# Variables
+#  $component (String): the name of the component which forces remote control.
+#    Example: "DevTools", "Marionette", "RemoteAgent".
+urlbar-remote-control-notification-anchor2 =
+    .tooltiptext = Przeglōndarka je pod zdalnym regiyrōnkiym (skuli: { $component })
 urlbar-permissions-granted =
     .tooltiptext = Ta strōna dostała ekstra zgody.
 urlbar-switch-to-tab =
@@ -557,6 +576,13 @@ urlbar-result-action-tabtosearch-web = Szukej ze { $engine } zaroz na posku z ad
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = Szukej na { $engine } zaroz na posku z adresōm
+# Action text for copying to clipboard.
+urlbar-result-action-copy-to-clipboard = Kopiuj
+# Shows the result of a formula expression being calculated, the last = sign will be shown
+# as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result = = { $result }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -665,6 +691,9 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = Spamiyntej do { -pocket-brand-name(case: "gen") }
     .tooltiptext = Spamiyntej do { -pocket-brand-name(case: "gen") }
+
+## Repair text encoding toolbar button
+
 
 ## Customize Toolbar Buttons
 

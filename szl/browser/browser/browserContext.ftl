@@ -88,6 +88,12 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
+## Firefox Account Button
+
+toolbar-button-fxaccount =
+    .label = { -fxaccount-brand-name }
+    .tooltiptext = { -fxaccount-brand-name }
+
 ## Save Page
 
 main-context-menu-page-save =
@@ -308,12 +314,12 @@ main-context-menu-image-email =
 main-context-menu-image-set-as-background =
     .label = Nastow za tapeta
     .accesskey = S
-main-context-menu-image-info =
-    .label = Pokoż informacyje ô ôbrazie
-    .accesskey = f
 main-context-menu-image-set-image-as-background =
     .label = Nastow ôbrozek za tapeta…
     .accesskey = S
+main-context-menu-image-info =
+    .label = Pokoż informacyje ô ôbrazie
+    .accesskey = f
 main-context-menu-image-desc =
     .label = Pokoż ôpis
     .accesskey = O
@@ -370,8 +376,8 @@ main-context-menu-use-saved-password =
 main-context-menu-suggest-strong-password =
     .label = Doradź siylne hasło…
     .accesskey = S
-main-context-menu-manage-logins =
-    .label = Regiyruj danymi logowanio…
+main-context-menu-manage-logins2 =
+    .label = Regiyruj danymi logowanio
     .accesskey = R
 main-context-menu-keyword =
     .label = Przidej kluczowe słowo do tego wyszukowanio…

@@ -5,14 +5,12 @@
 
 ## App Menu
 
-appmenuitem-update-banner =
+appmenuitem-update-banner3 =
     .label-update-downloading = Pobiyranie aktualizacyje aplikacyje { -brand-shorter-name }
-appmenuitem-update-banner2 =
-    .label-update-downloading = Pobiyranie aktualizacyje aplikacyje { -brand-shorter-name }
-    .label-update-available = Dostympno je aktualizacyjo — pobier teroz
-    .label-update-manual = Dostympno je aktualizacyjo — pobier teroz
-    .label-update-unsupported = Niy idzie zaktualizować
-    .label-update-restart = Dostympno je aktualizacyjo — resztartnij teroz
+    .label-update-available = Aktualizacyjo je dostympno — zaroz pobier
+    .label-update-manual = Aktualizacyjo je dostympno — zaroz pobier
+    .label-update-unsupported = Niy idzie zaktualizować — systym niy ma kōmpatybilny
+    .label-update-restart = Aktualizacyjo je dostympno — zaroz resztartnij
 appmenuitem-protection-dashboard-title = Przeglōnd ôchrōny
 appmenuitem-customize-mode =
     .label = Przipasuj…
@@ -25,22 +23,12 @@ appmenuitem-new-private-window =
     .label = Nowe prywatne ôkno
 appmenuitem-passwords =
     .label = Hasła
-appmenuitem-extensions-and-themes =
-    .label = Rozszyrzynia i motywy
 appmenuitem-addons-and-themes =
     .label = Rozszyrzynia i motywy
 appmenuitem-find-in-page =
     .label = Znojdź na strōnie…
 appmenuitem-more-tools =
     .label = Wiyncyj noczyń
-appmenuitem-exit =
-    .label = Skōńcz
-appmenu-menu-button-closed =
-    .tooltiptext = Ôdewrzij myni aplikacyje
-    .label = { -brand-shorter-name }
-appmenu-menu-button-opened =
-    .tooltiptext = Zawrzij myni aplikacyje
-    .label = { -brand-shorter-name }
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
@@ -77,16 +65,12 @@ appmenu-remote-tabs-turn-on-sync =
     .label = Załōncz synchronizacyjo…
 appmenuitem-fxa-toolbar-sync-now2 = Synchrōnizuj teroz
 appmenuitem-fxa-manage-account = Regiyruj kōntym
-appmenu-fxa-header =
-    .title = { -fxaccount-brand-name }
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
 appmenu-fxa-last-sync = Ôstatnio synchrōnizowane { $time }
     .label = Ôstatnio synchrōnizowane { $time }
-appmenu-fxa-sync-and-save-data =
-    .value = Synchrōnizuj i spamiyntej dane
 appmenu-fxa-sync-and-save-data2 = Synchrōnizuj i spamiyntej dane
 appmenu-fxa-signed-in-label = Wloguj
 appmenu-fxa-setup-sync =
@@ -160,11 +144,6 @@ appmenu-about =
 appmenu-get-help =
     .label = Pōmoc
     .accesskey = P
-appmenu-help-troubleshooting-info =
-    .label = Ô rozwiōnzowaniu problymōw
-    .accesskey = b
-appmenu-help-taskmanager =
-    .label = Mynedżer zadań
 appmenu-help-more-troubleshooting-info =
     .label = Wiyncyj ô rozwiōnzowaniu problymōw
     .accesskey = W
@@ -173,16 +152,6 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = Poślij ôpinijo
     .accesskey = S
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Resztartuj z wyłōnczōnymi rozszyrzyniami…
-    .accesskey = R
-appmenu-help-safe-mode-with-addons =
-    .label = Resztartuj ze załōnczōnymi roszyrzyniami
-    .accesskey = R
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

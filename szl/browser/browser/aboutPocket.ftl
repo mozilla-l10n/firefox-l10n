@@ -44,3 +44,6 @@ pocket-panel-signup-tagline-story-two = Ôglōndej w usudze { -pocket-brand-name
 pocket-panel-home-my-list = Mōj wykoz
 pocket-panel-home-welcome-back = Witej zaś
 pocket-panel-home-paragraph = Ze usugōm { -pocket-brand-name } idzie poznować i spamiyntować strōny, artykuły, filmy i podcasty, abo sie wrocać do czytanych rzeczy.
+pocket-panel-home-explore-popular-topics = Poznowej popularne tymaty
+pocket-panel-home-discover-more = Poznej wiyncyj
+pocket-panel-home-explore-more = Poznowej
