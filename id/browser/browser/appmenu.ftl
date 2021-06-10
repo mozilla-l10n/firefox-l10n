@@ -191,3 +191,5 @@ appmenu-customizetoolbar =
 appmenu-taskmanager =
     .label = Pengelola Tugas
 appmenu-developer-tools-subheader = Alat Peramban
+appmenu-developer-tools-extensions =
+    .label = Ekstensi untuk Pengembang
