@@ -17,6 +17,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Nowo karta
 appmenuitem-new-window =
     .label = Nowe ôkno
 appmenuitem-new-private-window =
@@ -133,6 +135,15 @@ appmenu-manage-history =
     .label = Regiyruj historyjōm
 appmenu-reopen-all-tabs = Ôdewrzij nazod wszyskie karty
 appmenu-reopen-all-windows = Ôdewrzij nazod wszyskie ôkna
+appmenu-restore-session =
+    .label = Wrōć ôstatnio sesyjo
+appmenu-clear-history =
+    .label = Wypucuj niydowno historyjo…
+appmenu-recent-history-subheader = Niydowno historyjo
+appmenu-recently-closed-tabs =
+    .label = Niydowno zawarte karty
+appmenu-recently-closed-windows =
+    .label = Niydowno zawarte ôkna
 
 ## Help panel
 
