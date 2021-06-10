@@ -44,6 +44,9 @@ pill-action-move-cc =
 pill-action-move-bcc =
     .label = Flytta till Dold kopia
     .accesskey = D
+pill-action-expand-list =
+    .label = Expandera lista
+    .accesskey = x
 
 # Attachment widget
 

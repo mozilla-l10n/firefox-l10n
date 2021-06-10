@@ -106,7 +106,13 @@ account-setup-forum-help = Supportforum
 
 ## Results area
 
-account-setup-protocol-title = Välj protokoll
+# Variables:
+#  $count (Number) - Number of available protocols.
+account-setup-results-area-title =
+    { $count ->
+        [one] Tillgänglig konfiguration
+       *[other] Tillgängliga konfigurationer
+    }
 # Note: IMAP is the name of a protocol.
 account-setup-result-imap = IMAP
 account-setup-result-imap-description = Håll dina mappar och e-postmeddelanden synkroniserade på din server
