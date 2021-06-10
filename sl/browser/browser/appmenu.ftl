@@ -5,12 +5,6 @@
 
 ## App Menu
 
-appmenuitem-update-banner2 =
-    .label-update-downloading = Prenašanje posodobitve za { -brand-shorter-name }
-    .label-update-available = Na voljo je posodobitev – prenesi zdaj
-    .label-update-manual = Na voljo je posodobitev – prenesi zdaj
-    .label-update-unsupported = Posodobitev ni mogoča
-    .label-update-restart = Na voljo je posodobitev – zaženi znova
 appmenuitem-update-banner3 =
     .label-update-downloading = Prenašanje posodobitve za { -brand-shorter-name }
     .label-update-available = Na voljo je posodobitev – prenesi zdaj
@@ -35,14 +29,6 @@ appmenuitem-find-in-page =
     .label = Najdi na strani …
 appmenuitem-more-tools =
     .label = Več orodij
-appmenuitem-exit =
-    .label = Izhod
-appmenu-menu-button-closed =
-    .tooltiptext = Odpri meni programa
-    .label = { -brand-shorter-name }
-appmenu-menu-button-opened =
-    .tooltiptext = Zapri meni programa
-    .label = { -brand-shorter-name }
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
@@ -79,16 +65,12 @@ appmenu-remote-tabs-turn-on-sync =
     .label = Vklopi sinhronizacijo …
 appmenuitem-fxa-toolbar-sync-now2 = Sinhroniziraj zdaj
 appmenuitem-fxa-manage-account = Upravljanje računa
-appmenu-fxa-header =
-    .title = { -fxaccount-brand-name }
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
 appmenu-fxa-last-sync = Sinhronizirano ob { $time }
     .label = Sinhronizirano ob { $time }
-appmenu-fxa-sync-and-save-data =
-    .value = Sinhroniziraj in shrani podatke
 appmenu-fxa-sync-and-save-data2 = Sinhroniziraj in shrani podatke
 appmenu-fxa-signed-in-label = Prijava
 appmenu-fxa-setup-sync =
