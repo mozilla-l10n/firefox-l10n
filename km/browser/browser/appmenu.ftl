@@ -11,6 +11,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = ផ្ទាំង​ថ្មី
 appmenuitem-new-window =
     .label = បង្អួច​​​ថ្មី
 appmenuitem-new-private-window =
@@ -121,6 +123,10 @@ appmenu-manage-history =
     .label = គ្រប់គ្រងប្រវត្តិ
 appmenu-reopen-all-tabs = ស្ដារផ្ទាំងទាំងអស់ម្ដងទៀត
 appmenu-reopen-all-windows = ស្ដារផ្ទាំងបង្អួចទាំងអស់
+appmenu-restore-session =
+    .label = ស្ដារ​សម័យ​មុន
+appmenu-clear-history =
+    .label = សម្អាត​ប្រវត្តិ​ថ្មីៗ…
 appmenu-recently-closed-tabs =
     .label = ផ្ទាំង​ដែល​បិទ​ថ្មីៗ
 appmenu-recently-closed-windows =
