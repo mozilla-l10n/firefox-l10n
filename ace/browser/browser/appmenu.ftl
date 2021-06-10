@@ -8,6 +8,8 @@
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Tab Barô
 appmenuitem-new-window =
     .label = Tingkap Barô
 appmenuitem-new-private-window =
@@ -31,28 +33,17 @@ appmenuitem-fullscreen =
 
 ## History panel
 
+appmenu-restore-session =
+    .label = Peuriwang Sesi Seugolomjih
 
 ## Help panel
 
 appmenu-about =
     .label = Bhaih { -brand-shorter-name }
     .accesskey = A
-appmenu-help-troubleshooting-info =
-    .label = Informasi Peubereh Masalah
-    .accesskey = T
 appmenu-help-feedback-page =
     .label = Kirém Feedback…
     .accesskey = S
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Peu udép keulayi ngön beu lön add-on…
-    .accesskey = R
-appmenu-help-safe-mode-with-addons =
-    .label = Peu udép keulayi ngön beu udép add-on
-    .accesskey = R
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
