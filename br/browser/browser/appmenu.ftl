@@ -11,6 +11,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Ivinell nevez
 appmenuitem-new-window =
     .label = Prenestr nevez
 appmenuitem-new-private-window =
@@ -129,6 +131,10 @@ appmenu-manage-history =
     .label = Merañ ar roll istor
 appmenu-reopen-all-tabs = Digeriñ en-dro an holl ivinelloù
 appmenu-reopen-all-windows = Digeriñ en-dro an holl prenestroù
+appmenu-recently-closed-tabs =
+    .label = Ivinelloù serret nevez zo
+appmenu-recently-closed-windows =
+    .label = Prenestroù serret nevez zo
 
 ## Help panel
 
