@@ -135,6 +135,7 @@ appmenu-manage-history =
     .label = Geçmişi yönet
 appmenu-reopen-all-tabs = Tüm sekmeleri yeniden aç
 appmenu-reopen-all-windows = Tüm pencereleri yeniden aç
+appmenu-recent-history-subheader = Yakın geçmiş
 
 ## Help panel
 
@@ -182,3 +183,5 @@ appmenu-customizetoolbar =
 appmenu-taskmanager =
     .label = Görev yöneticisi
 appmenu-developer-tools-subheader = Tarayıcı araçları
+appmenu-developer-tools-extensions =
+    .label = Geliştiricilere özel uzantılar
