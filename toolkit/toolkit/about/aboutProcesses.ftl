@@ -56,8 +56,14 @@ about-processes-process-name = Процес { $pid }: { $name }
 about-processes-web-process = Дељени веб-процес ({ $pid })
 about-processes-file-process = Датотеке ({ $pid })
 about-processes-extension-process = Додаци ({ $pid })
+about-processes-privilegedabout-process = Странице about: ({ $pid })
+about-processes-plugin-process = Додатне компоненте ({ $pid })
+about-processes-privilegedmozilla-process = Сајтови организације { -vendor-short-name } ({ $pid })
+about-processes-gpu-process = GPU ({ $pid })
+about-processes-vr-process = VR ({ $pid })
 about-processes-rdd-process = Декодер података ({ $pid })
 about-processes-socket-process = Мрежа ({ $pid })
+about-processes-preallocated-process = Унапред додељено ({ $pid })
 
 ## Isolated process names
 ## Variables:
