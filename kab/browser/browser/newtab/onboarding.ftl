@@ -272,6 +272,12 @@ mr1-onboarding-reduce-motion-button-label = Sens imrayen
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
+# Primary button string used on welcome page when Firefox is not pinned.
+mr1-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Eǧǧ-it deg Dock
+       *[other] Senteḍ ɣer ufaggag n twuriwin
+    }
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
@@ -290,6 +296,7 @@ mr1-onboarding-sign-in-button-label = Kcem
 ## Title, subtitle and primary button string used on set default onboarding screen
 ## when Firefox is not default browser
 
+mr1-onboarding-default-header = Err { -brand-short-name } d iminig-ik·im amezwer
 mr1-onboarding-default-primary-button-label = Err-it d iminig amezwer
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
