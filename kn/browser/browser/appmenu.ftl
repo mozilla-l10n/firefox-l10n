@@ -43,6 +43,7 @@ appmenu-restore-session =
     .label = ಹಿಂದಿನ ಅಧಿವೇಶನವನ್ನು ಮರಳಿ ಸ್ಥಾಪಿಸು
 appmenu-clear-history =
     .label = ಇತ್ತೀಚಿನ ಇತಿಹಾಸವನ್ನು ಅಳಿಸಿಹಾಕು…
+appmenu-recent-history-subheader = ಇತ್ತೀಚಿನ ಇತಿಹಾಸ
 appmenu-recently-closed-tabs =
     .label = ಇತ್ತೀಚೆಗೆ ಮುಚ್ಚಲಾದ ಟ್ಯಾಬ್‌ಗಳು
 appmenu-recently-closed-windows =
