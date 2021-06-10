@@ -44,24 +44,11 @@ whatsnew-panel-header = புதியவை என்ன
 appmenu-about =
     .label = { -brand-shorter-name } பற்றி
     .accesskey = A
-appmenu-help-troubleshooting-info =
-    .label = பிழைத்திருத்தல் தகவல்
-    .accesskey = T
 appmenu-help-report-site-issue =
     .label = தள சிக்கலை தெரிவி…
 appmenu-help-feedback-page =
     .label = கருத்துக்களைச் சமர்ப்பி…
     .accesskey = S
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = நிரலை நீக்கியபின் மீட்துவக்கு…
-    .accesskey = R
-appmenu-help-safe-mode-with-addons =
-    .label = நிரலை நீக்கியபின் மீட்துவக்கு…
-    .accesskey = R
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
