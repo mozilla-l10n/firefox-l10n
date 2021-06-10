@@ -5,12 +5,6 @@
 
 ## App Menu
 
-appmenuitem-update-banner2 =
-    .label-update-downloading = در حال دریافت بروزرسانیِ { -brand-shorter-name }
-    .label-update-available = بروزرسانی موجود است — شروع دریافت
-    .label-update-manual = بروزرسانی موجود است — شروع دریافت
-    .label-update-unsupported = بروزرسانی امکان‌پذیر نبود
-    .label-update-restart = بروزرسانی موجود است — راه‌انداری مجدد
 appmenuitem-update-banner3 =
     .label-update-downloading = در حال دریافت بروزرسانیِ { -brand-shorter-name }
     .label-update-available = بروزرسانی موجود است — هم‌اکنون دریافت کنید
@@ -35,14 +29,6 @@ appmenuitem-find-in-page =
     .label = پیداکردن در صفحه…
 appmenuitem-more-tools =
     .label = ابزارهای بیشتر
-appmenuitem-exit =
-    .label = خروج
-appmenu-menu-button-closed =
-    .tooltiptext = باز کردن منوی برنامه
-    .label = { -brand-shorter-name }
-appmenu-menu-button-opened =
-    .tooltiptext = بستن منوی برنامه
-    .label = { -brand-shorter-name }
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
@@ -79,16 +65,12 @@ appmenu-remote-tabs-turn-on-sync =
     .label = روشن کردن همگام‌سازی…
 appmenuitem-fxa-toolbar-sync-now2 = انجام همگام‌سازی
 appmenuitem-fxa-manage-account = مدیریت حساب
-appmenu-fxa-header =
-    .title = { -fxaccount-brand-name }
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
 appmenu-fxa-last-sync = آخرین همگام‌سازی { $time }
     .label = آخرین همگام‌سازی { $time }
-appmenu-fxa-sync-and-save-data =
-    .value = همگام‌سازی و ذخیرهٔ داده‌ها
 appmenu-fxa-sync-and-save-data2 = همگام‌سازی و ذخیرهٔ داده‌ها
 appmenu-fxa-signed-in-label = ورود
 appmenu-fxa-setup-sync =
