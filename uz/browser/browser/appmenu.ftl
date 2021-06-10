@@ -10,6 +10,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Yangi varaq
 appmenuitem-new-window =
     .label = Yangi oyna
 appmenuitem-new-private-window =
@@ -47,6 +49,8 @@ appmenu-restore-session =
 appmenu-clear-history =
     .label = So‘nggi tarixni tozalash
 appmenu-recent-history-subheader = Oxirgi tarix
+appmenu-recently-closed-tabs =
+    .label = Yaqinda yopilgan varaqlar
 appmenu-recently-closed-windows =
     .label = Yaqinda yopilgan oynalar
 
