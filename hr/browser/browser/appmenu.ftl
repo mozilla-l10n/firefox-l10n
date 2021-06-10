@@ -5,12 +5,6 @@
 
 ## App Menu
 
-appmenuitem-update-banner2 =
-    .label-update-downloading = Preuzimanje dopune za { -brand-shorter-name }
-    .label-update-available = Dostupna je dopuna — preuzmi sada
-    .label-update-manual = Dostupna je dopuna — preuzmi sada
-    .label-update-unsupported = Nije moguće ažurirati
-    .label-update-restart = Dostupna je dopuna — ponovno pokreni sada
 appmenuitem-update-banner3 =
     .label-update-downloading = Preuzimanje nadogradnje za { -brand-shorter-name }
     .label-update-available = Dostupna nadogradnja — preuzmi sada
@@ -23,6 +17,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Nova kartica
 appmenuitem-new-window =
     .label = Novi prozor
 appmenuitem-new-private-window =
@@ -35,14 +31,6 @@ appmenuitem-find-in-page =
     .label = Pronađi na stranici …
 appmenuitem-more-tools =
     .label = Više alata
-appmenuitem-exit =
-    .label = Izlaz
-appmenu-menu-button-closed =
-    .tooltiptext = Otvori izbornik aplikacije
-    .label = { -brand-shorter-name }
-appmenu-menu-button-opened =
-    .tooltiptext = Zatvori izbornik aplikacije
-    .label = { -brand-shorter-name }
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
@@ -79,16 +67,12 @@ appmenu-remote-tabs-turn-on-sync =
     .label = Uključi sinkronizaciju…
 appmenuitem-fxa-toolbar-sync-now2 = Sinkroniziraj sada
 appmenuitem-fxa-manage-account = Upravljaj računom
-appmenu-fxa-header =
-    .title = { -fxaccount-brand-name }
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
 appmenu-fxa-last-sync = Posljednja sinkronizacija { $time }
     .label = Posljednja sinkronizacija { $time }
-appmenu-fxa-sync-and-save-data =
-    .value = Sinkroniziraj i spremi podatke
 appmenu-fxa-sync-and-save-data2 = Sinkroniziraj i spremi podatke
 appmenu-fxa-signed-in-label = Prijavi se
 appmenu-fxa-setup-sync =
@@ -151,6 +135,8 @@ appmenu-manage-history =
     .label = Upravljanje poviješću
 appmenu-reopen-all-tabs = Ponovno otvori sve kartice
 appmenu-reopen-all-windows = Ponovno otvori sve prozore
+appmenu-recently-closed-tabs =
+    .label = Nedavno zatvorene kartice
 
 ## Help panel
 
