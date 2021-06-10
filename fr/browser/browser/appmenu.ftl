@@ -133,6 +133,8 @@ appmenu-reopen-all-tabs = Rouvrir tous les onglets
 appmenu-reopen-all-windows = Rouvrir toutes les fenêtres
 appmenu-recently-closed-tabs =
     .label = Onglets récemment fermés
+appmenu-recently-closed-windows =
+    .label = Fenêtres récemment fermées
 
 ## Help panel
 
