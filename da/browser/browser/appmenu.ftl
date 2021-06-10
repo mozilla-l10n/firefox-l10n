@@ -137,6 +137,10 @@ appmenu-manage-history =
     .label = Håndter historik
 appmenu-reopen-all-tabs = Åbn alle faneblade igen
 appmenu-reopen-all-windows = Åbn alle vinduer igen
+appmenu-recently-closed-tabs =
+    .label = Senest lukkede faneblade
+appmenu-recently-closed-windows =
+    .label = Senest lukkede vinduer
 
 ## Help panel
 
