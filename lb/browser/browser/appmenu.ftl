@@ -10,6 +10,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Neien Tab
 appmenuitem-new-window =
     .label = Nei Fënster
 appmenuitem-new-private-window =
@@ -37,6 +39,12 @@ appmenuitem-save-page =
 
 ## History panel
 
+appmenu-restore-session =
+    .label = Vireg Sessioun restauréieren
+appmenu-recently-closed-tabs =
+    .label = Rezent zougemaach Tabs
+appmenu-recently-closed-windows =
+    .label = Rezent zougemaach Fënsteren
 
 ## Help panel
 
