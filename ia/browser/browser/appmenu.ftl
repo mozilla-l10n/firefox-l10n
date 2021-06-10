@@ -191,3 +191,5 @@ appmenu-customizetoolbar =
 appmenu-taskmanager =
     .label = Gestor de activitate
 appmenu-developer-tools-subheader = Instrumentos de navigator
+appmenu-developer-tools-extensions =
+    .label = Extensiones pro disveloppatores
