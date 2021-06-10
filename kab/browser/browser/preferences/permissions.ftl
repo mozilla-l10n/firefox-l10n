@@ -21,6 +21,9 @@ permissions-allow =
 permissions-button-off =
     .label = Sens
     .accesskey = S
+permissions-button-off-temporarily =
+    .label = Sens i kra n wakud
+    .accesskey = S
 permissions-site-name =
     .label = Asmel Web
 permissions-status =
@@ -87,6 +90,10 @@ permissions-exceptions-cookie-desc = Tzemreḍ ad temmleḍ ismal web yettwasirg
 
 ## Exceptions - HTTPS-Only Mode
 
+permissions-exceptions-https-only-window =
+    .title = Tisuraf - Askar HTTPS kan
+    .style = { permissions-window.style }
+permissions-exceptions-https-only-desc = Tzemreḍ ad tsenseḍ askar HTTPS kan i yismal web isdiden. { -brand-short-name } ur yettaεraḍ ara ad ileqqem tuqqna ɣer HTTPS aɣellsan i yismal-a. Tisuraf ur ttusnasent ara i yisfuyla usligen.
 
 ## Exceptions - Pop-ups
 

@@ -181,8 +181,6 @@ page-action-send-tabs-urlbar =
             [one] Azen iccer ɣer yibenk
            *[other] Azen { $tabCount } waccaren ɣer yibenk
         }
-page-action-pocket-panel =
-    .label = Sekles asebter ɣer { -pocket-brand-name }
 page-action-copy-url-panel =
     .label = Nɣel aseɣwen
 page-action-copy-url-urlbar =
@@ -615,8 +613,6 @@ crashed-subframe-submit =
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = Sken akk ticraḍ n yisebtar
 bookmarks-manage-bookmarks =
     .label = Sefrek ticraḍ n yisebtar
 bookmarks-recent-bookmarks-panel-subheader = Ticraḍ n yisebtar n melmi kan
@@ -689,6 +685,12 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = Sekles ɣer { -pocket-brand-name }
     .tooltiptext = Sekles ɣer { -pocket-brand-name }
+
+## Repair text encoding toolbar button
+
+repair-text-encoding-button =
+    .label = Ṣeggem asettengel n uḍris
+    .tooltiptext = Sumer asettengel ameɣtu n uḍris seg ugbur n usebter
 
 ## Customize Toolbar Buttons
 

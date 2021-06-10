@@ -15,6 +15,7 @@ policy-AllowedDomainsForApps = Sbadu tiɣula yettusirgen i unekcum ɣer Google W
 policy-AppAutoUpdate = Rmed neɣ gdel alqem awurman n yisnasen.
 policy-AppUpdateURL = Sbadu URL n uleqqem udmawan i usnas.
 policy-Authentication = Swel asesteb usliɣ i yesmal web i ten-yessefraken.
+policy-AutoLaunchProtocolsFromOrigins = Sbadu tabdart n yineggafen iẓɣarayen i izemren ad ttusqedcen seg yiɣbula i d-yettwabedren war ma yettusuter deg useqdac.
 policy-BackgroundAppUpdate2 = Rmed neɣ sens aleqqam n ugilal.
 policy-BlockAboutAddons = Sewḥel anekcum ɣer umsefrek n izegrar  (about:addons).
 policy-BlockAboutConfig = Sewḥel anekcum ɣer usebter n about:config.
