@@ -27,12 +27,21 @@ upgrade-dialog-new-secondary-button = Mačči tura
 # theme selection screen.
 upgrade-dialog-new-primary-win7-button = Ih, awi-t!
 
+## Pin Firefox screen
+##
+## These title, subtitle and button strings differ between platforms as they
+## match the OS' application context menu item action where Windows uses "pin"
+## and "taskbar" while macOS "keep" and "Dock" (proper noun).
+
+upgrade-dialog-pin-secondary-button = Mačči tura
+
 ## Default browser screen
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-default-title = Err { -brand-short-name } diminig-ik·im amezwer?
 upgrade-dialog-default-subtitle = Inig yal tikkelt s urured, s uḍman d tbaḍnit.
 upgrade-dialog-default-primary-button = Sbadu-t d iminig amezwer
+upgrade-dialog-default-primary-button-2 = Err-it d iminig amezwer
 upgrade-dialog-default-secondary-button = Mačči tura
 
 ## Theme selection screen
