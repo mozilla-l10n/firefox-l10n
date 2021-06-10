@@ -10,6 +10,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Ново јазиче
 appmenuitem-new-window =
     .label = Нов прозорец
 appmenuitem-new-private-window =
