@@ -190,3 +190,5 @@ appmenu-customizetoolbar =
 appmenu-taskmanager =
     .label = מנהל משימות
 appmenu-developer-tools-subheader = כלי דפדפן
+appmenu-developer-tools-extensions =
+    .label = הרחבות עבור מפתחים
