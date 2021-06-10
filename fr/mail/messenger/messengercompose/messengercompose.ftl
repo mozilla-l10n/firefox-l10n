@@ -11,6 +11,9 @@ remove-address-row-type = Supprimer le champ { $type }
 remove-address-row-type-label =
     .tooltiptext = Supprimer le champ { $type }
 #   $type (String) - the type of the addressing row
+remove-address-row-button =
+    .title = Supprimer le champ { $type }
+#   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type-aria-label =
     { $count ->
