@@ -127,7 +127,7 @@ exception-mgr-permanent =
     .label = Guardar permanentemente esta excepción
     .accesskey = P
 pk11-bad-password = La contraseña del token no es correcta.
-pkcs12-decode-err = Falló la decodificación del archivo. Puede ser que no esté en formato PKCS#12, ha sido señado, o la contraseña que ingresó es incorrecta.
+pkcs12-decode-err = Falló la decodificación del archivo. Puede ser que no esté en formato PKCS#12, está corrupto, o la contraseña que ingresó es incorrecta.
 pkcs12-unknown-err-restore = Falló la restauración del archivo PKCS#12 por razones desconocidas.
 pkcs12-unknown-err-backup = Fallo la creación del archivo de respaldo PKCS#12 por razones desconocidas
 pkcs12-unknown-err = La operación PKCS #12 falló por alguna razón desconocida.
@@ -192,7 +192,7 @@ cert-viewer-title =
 not-present =
     .value = <No forma parte del certificado>
 # Cert verification
-cert-verified = El certificado ha sido verifiicado para los usos siguientes:
+cert-verified = El certificado fue verificado para los usos siguientes:
 # Add usage
 verify-ssl-client =
     .value = Certificado SSL cliente
@@ -205,7 +205,7 @@ verify-email-signer =
 verify-email-recip =
     .value = Certificado de correo del destinatario
 # Cert verification
-cert-not-verified-cert-revoked = No se pudo verificar este certificado porque ha sido revocado.
+cert-not-verified-cert-revoked = No se pudo verificar este certificado porque fue revocado.
 cert-not-verified-cert-expired = No se pudo verificar este certificado porque ha expirado
 cert-not-verified-cert-not-trusted = No se pudo verificar este certificado porque se desconfía de él.
 cert-not-verified-issuer-not-trusted = No se pudo verificar este certificado porque se desconfía del expeditor
@@ -232,7 +232,7 @@ add-exception-domain-mismatch-long = El certificado pertenece a un sitio diferen
 add-exception-expired-short = Información desactualizada
 add-exception-expired-long = El certificado no es válido actualmente. Puede haber sido robado o perdido, y podría ser usado por alguien para hacerse pasar por este sitio.
 add-exception-unverified-or-bad-signature-short = Identidad desconocida
-add-exception-unverified-or-bad-signature-long = El certificado no es confiable porque no ha sido verificado por una autoridad reconocida usando una firma segura.
+add-exception-unverified-or-bad-signature-long = El certificado no es confiable porque fue sido verificado por una autoridad reconocida usando una firma segura.
 add-exception-valid-short = Certificado válido
 add-exception-valid-long = Este sitio provee información válida y verificada.  No hay necesidad de agregar una excepción.
 add-exception-checking-short = Verificando información
