@@ -48,6 +48,7 @@ appmenu-restore-session =
     .label = Repiggia a sescion primma
 appmenu-clear-history =
     .label = Scancella a stöia ciù neuva…
+appmenu-recent-history-subheader = Stöia recente
 appmenu-recently-closed-tabs =
     .label = Feuggi seræ urtimamente
 appmenu-recently-closed-windows =
