@@ -193,3 +193,5 @@ appmenu-customizetoolbar =
 appmenu-taskmanager =
     .label = Xestor de tarefas
 appmenu-developer-tools-subheader = Caixa de ferramentas do navegador
+appmenu-developer-tools-extensions =
+    .label = Extensións para desenvolvedores
