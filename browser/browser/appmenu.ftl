@@ -10,6 +10,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = නව ටැබයක් විවෘත කරන්න
 appmenuitem-new-window =
     .label = නව කවුළුවක්
 appmenuitem-new-private-window =
@@ -37,30 +39,21 @@ appmenuitem-save-page =
 
 ## History panel
 
+appmenu-recently-closed-tabs =
+    .label = මෑතකදි වැසු ටැබ්
+appmenu-recently-closed-windows =
+    .label = මෑතකදී වැසූ කවුළු
 
 ## Help panel
 
 appmenu-about =
     .label = { -brand-shorter-name } පිළිබඳ
     .accesskey = A
-appmenu-help-troubleshooting-info =
-    .label = දෝෂ සෙවීමේ තොරතුරු
-    .accesskey = T
 appmenu-help-report-site-issue =
     .label = අඩවියේ දෝශය වාර්ථා කරන්න…
 appmenu-help-feedback-page =
     .label = ප්‍රතිචාරය යවන්න…
     .accesskey = S
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = ඇඩෝන දුබල කර යළි-අරඹන්න…
-    .accesskey = R
-appmenu-help-safe-mode-with-addons =
-    .label = සක්‍රීය කළ ඇඩෝන සමඟ යළි අරඹන්න
-    .accesskey = R
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
