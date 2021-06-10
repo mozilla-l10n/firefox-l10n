@@ -131,6 +131,11 @@ appmenu-manage-history =
     .label = 履歴を管理
 appmenu-reopen-all-tabs = タブをすべて開きなおす
 appmenu-reopen-all-windows = ウインドウをすべて開きなおす
+appmenu-recent-history-subheader = 最近の履歴
+appmenu-recently-closed-tabs =
+    .label = 最近閉じたタブ
+appmenu-recently-closed-windows =
+    .label = 最近閉じたウインドウ
 
 ## Help panel
 
