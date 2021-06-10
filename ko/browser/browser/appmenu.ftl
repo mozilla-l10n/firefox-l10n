@@ -139,6 +139,7 @@ appmenu-reopen-all-tabs = 모든 탭 다시 열기
 appmenu-reopen-all-windows = 모든 창 다시 열기
 appmenu-restore-session =
     .label = 이전 세션 복원
+appmenu-recent-history-subheader = 최근 기록
 appmenu-recently-closed-tabs =
     .label = 최근에 닫은 탭
 appmenu-recently-closed-windows =
