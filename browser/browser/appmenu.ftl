@@ -62,6 +62,8 @@ profiler-popup-edit-settings = Editează setările…
 
 appmenu-recently-closed-tabs =
     .label = File închise recent
+appmenu-recently-closed-windows =
+    .label = Ferestre închise recent
 
 ## Help panel
 
