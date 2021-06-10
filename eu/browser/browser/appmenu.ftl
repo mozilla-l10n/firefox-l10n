@@ -193,3 +193,5 @@ appmenu-customizetoolbar =
 appmenu-taskmanager =
     .label = Ataza-kudeatzailea
 appmenu-developer-tools-subheader = Nabigatzailearen tresnak
+appmenu-developer-tools-extensions =
+    .label = Garatzaileentzako hedapenak
