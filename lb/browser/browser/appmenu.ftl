@@ -43,22 +43,9 @@ appmenuitem-save-page =
 appmenu-about =
     .label = Iwwer { -brand-shorter-name }
     .accesskey = I
-appmenu-help-troubleshooting-info =
-    .label = Informatiounen zur Feelerbehiewung
-    .accesskey = f
 appmenu-help-feedback-page =
     .label = Feedback schécken…
     .accesskey = S
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Ouni Add-ons nei starten...
-    .accesskey = A
-appmenu-help-safe-mode-with-addons =
-    .label = Mat Add-ons nei starten
-    .accesskey = O
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
