@@ -11,6 +11,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Нов раздел
 appmenuitem-new-window =
     .label = Нов прозорец
 appmenuitem-new-private-window =
@@ -115,6 +117,8 @@ appmenu-restore-session =
     .label = Възстановяване на предишна сесия
 appmenu-clear-history =
     .label = Изчистване на скорошна история…
+appmenu-recently-closed-tabs =
+    .label = Последно затворени раздели
 appmenu-recently-closed-windows =
     .label = Последно затворени прозорци
 
