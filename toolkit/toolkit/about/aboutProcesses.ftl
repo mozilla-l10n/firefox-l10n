@@ -57,13 +57,20 @@ about-processes-process-name = Διεργασία { $pid }: { $name }
 ##    $pid (String) The process id of this process, assigned by the OS.
 
 about-processes-browser-process = { -brand-short-name } ({ $pid })
+about-processes-web-process = Κοινόχρηστη διεργασία ιστού ({ $pid })
 about-processes-file-process = Αρχεία ({ $pid })
 about-processes-extension-process = Επεκτάσεις ({ $pid })
 about-processes-privilegedabout-process = Σελίδες "about:" ({ $pid })
 about-processes-plugin-process = Αρθρώματα ({ $pid })
+about-processes-privilegedmozilla-process = Σελίδες της { -vendor-short-name } ({ $pid })
+about-processes-gmp-plugin-process = Αρθρώματα πολυμέσων Gecko ({ $pid })
 about-processes-gpu-process = GPU ({ $pid })
 about-processes-vr-process = VR ({ $pid })
+about-processes-rdd-process = Αποκωδικοποιητής δεδομένων ({ $pid })
 about-processes-socket-process = Δίκτυο ({ $pid })
+about-processes-remote-sandbox-broker-process = Απομακρυσμένο Sandbox Broker ({ $pid })
+about-processes-fork-server-process = Διακομιστής fork ({ $pid })
+about-processes-preallocated-process = Προκατανεμημένο ({ $pid })
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
@@ -77,8 +84,10 @@ about-processes-unknown-process = Άλλο: { $type } ({ $pid })
 
 about-processes-web-isolated-process = { $origin } ({ $pid })
 about-processes-web-large-allocation-process = { $origin } ({ $pid }, μεγάλο)
+about-processes-with-coop-coep-process = { $origin } ({ $pid }, απομονωμένο μεταξύ προελεύσεων)
 about-processes-web-isolated-process-private = { $origin } — Ιδιωτικό ({ $pid })
 about-processes-web-large-allocation-process-private = { $origin } — Ιδιωτικό ({ $pid }, μεγάλο)
+about-processes-with-coop-coep-process-private = { $origin } — Ιδιωτικό ({ $pid }, απομονωμένο μεταξύ προελεύσεων)
 
 ## Details within processes
 
@@ -158,6 +167,9 @@ about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "pe
 about-processes-cpu-user-and-kernel-not-ready = (μέτρηση)
 # Special case: process or thread is currently idle.
 about-processes-cpu-user-and-kernel-idle = Αδρανές ({ NUMBER($total, maximumFractionDigits: 2) }{ $unit })
+# Special case: process or thread is currently idle.
+about-processes-cpu-idle = αδρανές
+    .title = Συνολικός χρόνος CPU: { NUMBER($total, maximumFractionDigits: 2) }{ $unit }
 
 ## Displaying Memory (total and delta)
 ## Variables:
