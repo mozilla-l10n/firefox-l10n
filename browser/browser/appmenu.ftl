@@ -43,6 +43,7 @@ appmenu-restore-session =
     .label = अघिल्लो सत्र पुनर्स्थापना गर्नुहोस्
 appmenu-clear-history =
     .label = हालको इतिहास खाली गर्नुहोस्…
+appmenu-recent-history-subheader = हालको इतिहास
 appmenu-recently-closed-tabs =
     .label = हालसालै बन्द गरिएका ट्याबहरू
 appmenu-recently-closed-windows =
