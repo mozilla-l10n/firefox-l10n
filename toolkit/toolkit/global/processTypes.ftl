@@ -32,6 +32,7 @@ process-type-prealloc = Vooraf toegewezen
 ##
 
 process-type-default = Hoofd
+process-type-tab = Tabblad
 # process used to communicate with the GPU for
 # graphics acceleration
 process-type-gpu = GPU
