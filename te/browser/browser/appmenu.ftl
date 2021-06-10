@@ -103,6 +103,7 @@ appmenu-restore-session =
     .label = మునుపటి సెషన్‌ను పునరుద్ధరించు
 appmenu-clear-history =
     .label = ఇటీవలి చరిత్రను తుడిచివేయి…
+appmenu-recent-history-subheader = ఇటీవలి చరిత్ర
 appmenu-recently-closed-tabs =
     .label = ఇటీవల మూసిన ట్యాబులు
 appmenu-recently-closed-windows =
