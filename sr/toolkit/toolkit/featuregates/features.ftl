@@ -18,6 +18,11 @@ experimental-features-media-jxl =
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
+experimental-features-devtools-compatibility-panel =
+    .label = Алатке за програмере: панел компатибилности
+# Do not translate 'SameSite', 'Lax' and 'None'.
+experimental-features-cookie-samesite-lax-by-default2 =
+    .label = Колачићи: SameSite=Lax по подразумеваном
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
     .label = Алатке за програмере: отклањање грешака сервис воркера
