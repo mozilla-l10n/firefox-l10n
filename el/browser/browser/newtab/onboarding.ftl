@@ -309,6 +309,7 @@ mr1-onboarding-sign-in-button-label = Σύνδεση
 
 mr1-onboarding-default-header = Ορισμός { -brand-short-name } ως προεπιλογής
 mr1-onboarding-default-subtitle = Βάλτε την ταχύτητα, την ασφάλεια και το απόρρητο στον αυτόματο πιλότο.
+mr1-onboarding-default-primary-button-label = Ορισμός προεπιλεγμένου φυλλομετρητή
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 

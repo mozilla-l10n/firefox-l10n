@@ -14,6 +14,7 @@ default-browser-notification-button =
 
 default-browser-prompt-title-pin = Ορισμός { -brand-short-name } ως κύριου προγράμματος περιήγησης;
 default-browser-prompt-message-pin = Αποκτήστε άμεση πρόσβαση στο { -brand-short-name } — ορίστε το ως προεπιλογή και καρφιτσώστε το στη γραμμή εργασιών.
+default-browser-prompt-message-pin-mac = Αποκτήστε άμεση πρόσβαση στο { -brand-short-name } — ορίστε το ως προεπιλογή και κρατήστε το στο Dock σας.
 default-browser-prompt-button-primary-pin = Ορισμός ως κύριο πρόγραμμα περιήγησης
 default-browser-prompt-title-alt = Ορισμός { -brand-short-name } ως προεπιλεγμένου προγράμματος περιήγησης;
 default-browser-prompt-message-alt = Ταχύτητα, ασφάλεια και ιδιωτικότητα σε κάθε περιήγησή σας.
