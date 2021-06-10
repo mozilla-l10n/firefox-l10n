@@ -10,6 +10,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Nýr flipi
 appmenuitem-new-window =
     .label = Nýr gluggi
 appmenuitem-new-private-window =
@@ -37,32 +39,19 @@ appmenuitem-save-page =
 
 ## History panel
 
+appmenu-recently-closed-tabs =
+    .label = Nýlega lokaðir flipar
 
 ## Help panel
 
 appmenu-about =
     .label = Um { -brand-shorter-name }
     .accesskey = U
-appmenu-help-troubleshooting-info =
-    .label = Upplýsingar fyrir úrræðaleit
-    .accesskey = t
-appmenu-help-taskmanager =
-    .label = Verkefnisstjóri
 appmenu-help-report-site-issue =
     .label = Tilkynna vandamál á vefsvæði…
 appmenu-help-feedback-page =
     .label = Senda álit…
     .accesskey = S
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Endurræsa með viðbætur óvirkar…
-    .accesskey = r
-appmenu-help-safe-mode-with-addons =
-    .label = Endurræsa með viðbætur virkar
-    .accesskey = r
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
