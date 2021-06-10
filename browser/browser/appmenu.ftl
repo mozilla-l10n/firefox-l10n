@@ -10,6 +10,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Yeni vərəq
 appmenuitem-new-window =
     .label = Yeni Pəncərə
 appmenuitem-new-private-window =
@@ -45,6 +47,7 @@ appmenu-restore-session =
     .label = Əvvəlki Seansı Bərpa et
 appmenu-clear-history =
     .label = Son Tarixçəni Təmizlə…
+appmenu-recent-history-subheader = Yaxın Tarixçə
 appmenu-recently-closed-tabs =
     .label = Yeni qapanmış vərəqlər
 appmenu-recently-closed-windows =
