@@ -11,6 +11,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Bagong Tab
 appmenuitem-new-window =
     .label = Bagong Window
 appmenuitem-new-private-window =
