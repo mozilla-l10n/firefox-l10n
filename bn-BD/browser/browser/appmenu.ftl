@@ -10,6 +10,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = নতুন ট্যাব T
 appmenuitem-new-window =
     .label = নতুন উইন্ডো
 appmenuitem-new-private-window =
@@ -37,6 +39,10 @@ appmenuitem-save-page =
 
 ## History panel
 
+appmenu-restore-session =
+    .label = পূর্ববর্তী সেশন পুনরুদ্ধার
+appmenu-clear-history =
+    .label = সাম্প্রতিক ইতিহাস অপসারণ…
 appmenu-recently-closed-tabs =
     .label = সম্প্রতি বন্ধ করা ট্যাব
 appmenu-recently-closed-windows =
