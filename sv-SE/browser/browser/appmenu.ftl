@@ -137,8 +137,14 @@ appmenu-manage-history =
     .label = Hantera historik
 appmenu-reopen-all-tabs = Återöppna alla flikar
 appmenu-reopen-all-windows = Återöppna alla fönster
+appmenu-restore-session =
+    .label = Återställ föregående session
+appmenu-clear-history =
+    .label = Rensa ut tidigare historik…
 appmenu-recently-closed-tabs =
     .label = Nyligen stängda flikar
+appmenu-recently-closed-windows =
+    .label = Nyligen stängda fönster
 
 ## Help panel
 
