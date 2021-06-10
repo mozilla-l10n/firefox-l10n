@@ -11,6 +11,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Rakïj ñanj nakàa
 appmenuitem-new-window =
     .label = Ventana nakàa
 appmenuitem-new-private-window =
@@ -48,6 +50,15 @@ whatsnew-panel-footer-checkbox =
 
 ## History panel
 
+appmenu-restore-session =
+    .label = Nagi'iaj ñunj sesión gà gachin
+appmenu-clear-history =
+    .label = Dure' riña gaché nu'...
+appmenu-recent-history-subheader = Riña gaché nu nakò'
+appmenu-recently-closed-tabs =
+    .label = Rakïj ñanj hiaj narrán nakà
+appmenu-recently-closed-windows =
+    .label = Sa hiaj narrán nakà
 
 ## Help panel
 
