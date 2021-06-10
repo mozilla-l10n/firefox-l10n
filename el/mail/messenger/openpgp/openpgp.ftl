@@ -294,6 +294,7 @@ openpgp-keygen-external-success = Το εξωτερικό αναγνωριστι
 openpgp-radio-none =
     .label = Κανένα
 openpgp-radio-none-desc = Να μην χρησιμοποιηθεί OpenPGP για αυτή την ταυτότητα.
+openpgp-radio-key-not-usable = Αυτό το κλειδί δεν μπορεί να χρησιμοποιηθεί ως προσωπικό, επειδή λείπει το μυστικό κλειδί!
 openpgp-radio-key-not-accepted = Για να χρησιμοποιήσετε αυτό το κλειδί θα πρέπει να το εγκρίνετε ως προσωπικό κλειδί!
 openpgp-radio-key-not-found = Δεν ήταν δυνατή η εύρεση του κλειδιού! Εάν θέλετε να το χρησιμοποιήσετε, πρέπει να το εισαγάγετε στο { -brand-short-name }.
 #   $key (String) - the expiration date of the OpenPGP key
