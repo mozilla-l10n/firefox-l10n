@@ -83,6 +83,11 @@ appmenu-manage-history =
     .label = Pamahalaan ang Kasaysayan
 appmenu-reopen-all-tabs = Muling Buksan ang Lahat ng mga Tab
 appmenu-reopen-all-windows = Muling buksan ang Lahat ng mga Window
+appmenu-restore-session =
+    .label = Ibalik ang Nakaraang Session
+appmenu-clear-history =
+    .label = Burahin ang Kasaysayan
+appmenu-recent-history-subheader = Nakaraang Kasaysayan
 appmenu-recently-closed-windows =
     .label = Mga Bagong Sarang Window
 
