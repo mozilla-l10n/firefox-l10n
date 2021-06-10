@@ -43,24 +43,11 @@ appmenuitem-save-page =
 appmenu-about =
     .label = Par { -brand-shorter-name }
     .accesskey = a
-appmenu-help-troubleshooting-info =
-    .label = Problemu nūvieršonys informaceja
-    .accesskey = P
 appmenu-help-report-site-issue =
     .label = Ziņuot par problemu ar lopu…
 appmenu-help-feedback-page =
     .label = Nūsyuteit atsauksmi…
     .accesskey = s
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Puorstarteit ar deaktiveitim papyldynuojumym…
-    .accesskey = r
-appmenu-help-safe-mode-with-addons =
-    .label = Puorstarteit ar deaktiveitim papyldynuojumym
-    .accesskey = r
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
