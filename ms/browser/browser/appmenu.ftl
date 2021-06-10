@@ -10,6 +10,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Tab Baru
 appmenuitem-new-window =
     .label = Tetingkap Baru
 appmenuitem-new-private-window =
@@ -43,26 +45,11 @@ appmenuitem-save-page =
 appmenu-about =
     .label = Perihal { -brand-shorter-name }
     .accesskey = P
-appmenu-help-troubleshooting-info =
-    .label = Maklumat Pencarisilapan
-    .accesskey = P
-appmenu-help-taskmanager =
-    .label = Pengurus Tugasan
 appmenu-help-report-site-issue =
     .label = Laporkan Isu Laman…
 appmenu-help-feedback-page =
     .label = Hantar Maklum balas…
     .accesskey = H
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Mula semula dengan Add-ons Dinyahdayakan…
-    .accesskey = M
-appmenu-help-safe-mode-with-addons =
-    .label = Mula semula dengan Add-ons Didayakan
-    .accesskey = M
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
