@@ -139,6 +139,7 @@ appmenu-restore-session =
     .label = Restarigi antaŭan seancon
 appmenu-clear-history =
     .label = Viŝi ĵusan historion…
+appmenu-recent-history-subheader = Ĵusa historio
 appmenu-recently-closed-tabs =
     .label = Antaŭ nelonge fermitaj langetoj
 appmenu-recently-closed-windows =
