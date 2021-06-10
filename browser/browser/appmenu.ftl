@@ -54,6 +54,7 @@ appmenu-restore-session =
     .label = Recuperar a sesión anterior
 appmenu-clear-history =
     .label = Borrar o historial recient…
+appmenu-recent-history-subheader = Historial recient
 appmenu-recently-closed-tabs =
     .label = Pestanyas zarradas en zagueras
 appmenu-recently-closed-windows =
