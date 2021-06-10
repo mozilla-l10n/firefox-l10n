@@ -137,6 +137,10 @@ appmenu-manage-history =
     .label = Handter historikk
 appmenu-reopen-all-tabs = Opne alle faner på nytt
 appmenu-reopen-all-windows = Opne alle vindauge på nytt
+appmenu-recently-closed-tabs =
+    .label = Nyleg attlatne faner
+appmenu-recently-closed-windows =
+    .label = Nyleg attlatne vindauge
 
 ## Help panel
 
