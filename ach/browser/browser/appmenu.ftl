@@ -5,8 +5,6 @@
 
 ## App Menu
 
-appmenuitem-update-banner =
-    .label-update-downloading = Gamo ngec manyen pi { -brand-shorter-name }
 appmenuitem-customize-mode =
     .label = Yiki…
 
@@ -55,23 +53,10 @@ whatsnew-panel-footer-checkbox =
 appmenu-about =
     .label = Ikom { -brand-shorter-name }
     .accesskey = I
-appmenu-help-troubleshooting-info =
-    .label = Ngec me yubu bal
-    .accesskey = N
 appmenu-help-report-site-issue =
     .label = Mi ripot ikom peko me kakube…
 appmenu-help-feedback-page =
     .label = Cwal adwogi ne…
-    .accesskey = C
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Cak odoco ki med-ikome gi ma kijuko woko…
-    .accesskey = C
-appmenu-help-safe-mode-with-addons =
-    .label = Cak odoco kun nongo kicako med-ikome
     .accesskey = C
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
