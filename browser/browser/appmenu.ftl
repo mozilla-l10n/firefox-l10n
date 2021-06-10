@@ -191,3 +191,5 @@ appmenu-customizetoolbar =
 appmenu-taskmanager =
     .label = ตัวจัดการงาน
 appmenu-developer-tools-subheader = เครื่องมือสำหรับเบราว์เซอร์
+appmenu-developer-tools-extensions =
+    .label = ส่วนขยายสำหรับนักพัฒนา
