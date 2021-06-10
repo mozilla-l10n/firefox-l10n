@@ -173,6 +173,9 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = Рамзгузории матн
     .accesskey = Р
+menu-view-repair-text-encoding =
+    .label = Ислоҳкунии рамзгузории матн
+    .accesskey = И
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -227,6 +230,8 @@ menu-bookmarks-show-all =
     .label = Намоиш додани ҳамаи хатбаракҳо
 menu-bookmark-this-page =
     .label = Гузоштани хатбарак барои ин саҳифа
+menu-bookmarks-manage =
+    .label = Идоракунии хатбаракҳо
 menu-bookmark-current-tab =
     .label = Гузоштани хатбарак барои варақаи ҷорӣ
 menu-bookmark-edit =
@@ -254,15 +259,15 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Ворид шудан ба { -brand-product-name }…
     .accesskey = В
+menu-tools-turn-on-sync =
+    .label = Фаъол кардани { -sync-brand-short-name }…
+    .accesskey = Ф
 menu-tools-addons-and-themes =
     .label = Ҷузъҳои иловагӣ ва мавзӯъҳо
     .accesskey = Ҷ
 menu-tools-fxa-sign-in2 =
     .label = Ворид шудан
     .accesskey = В
-menu-tools-turn-on-sync =
-    .label = Фаъол кардани { -sync-brand-short-name }…
-    .accesskey = Ф
 menu-tools-turn-on-sync2 =
     .label = Фаъол кардани ҳамоҳангсозӣ…
     .accesskey = Ф
@@ -287,13 +292,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Маълумот дар бораи саҳифа
     .accesskey = М
-menu-settings =
-    .label = Танзимот
-    .accesskey =
-        { PLATFORM() ->
-            [windows] Т
-           *[other] т
-        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -304,6 +302,13 @@ menu-preferences =
         { PLATFORM() ->
             [windows] И
            *[other] Х
+        }
+menu-settings =
+    .label = Танзимот
+    .accesskey =
+        { PLATFORM() ->
+            [windows] Т
+           *[other] т
         }
 menu-tools-layout-debugger =
     .label = Ислоҳи нуқсонҳои тарҳрезӣ
@@ -342,14 +347,12 @@ menu-help-import-from-another-browser =
 menu-help-keyboard-shortcuts =
     .label = Миёнбурҳои клавиатура
     .accesskey = М
-menu-get-help =
-    .label = Гирифтани кумак
-    .accesskey = Г
 menu-help-troubleshooting-info =
     .label = Маълумот барои ислоҳи нуқсонҳо
     .accesskey = М
-menu-help-taskmanager =
-    .label = Мудири вазифаҳо
+menu-get-help =
+    .label = Гирифтани кумак
+    .accesskey = Г
 menu-help-more-troubleshooting-info =
     .label = Маълумоти бештар оид ба ислоҳи нуқсонҳо
     .accesskey = М
