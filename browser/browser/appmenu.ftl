@@ -11,6 +11,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = नया टैब
 appmenuitem-new-window =
     .label = नया विंडो
 appmenuitem-new-private-window =
@@ -74,6 +76,14 @@ profiler-popup-capture-shortcut =
 
 ## History panel
 
+appmenu-restore-session =
+    .label = पिछला सत्र पुनर्बहाल करें
+appmenu-clear-history =
+    .label = हालिया इतिहास साफ करें...
+appmenu-recently-closed-tabs =
+    .label = हाल में बंद टैब
+appmenu-recently-closed-windows =
+    .label = हाल में बंद विंडो
 
 ## Help panel
 
