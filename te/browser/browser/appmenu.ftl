@@ -97,6 +97,8 @@ appmenu-manage-history =
     .label = చరిత్ర నిర్వహణ
 appmenu-reopen-all-tabs = ట్యాబులన్నింటినీ మళ్లీ తెరువు
 appmenu-reopen-all-windows = కిటికీలన్నిటినీ మళ్ళీ తెరువు
+appmenu-recently-closed-windows =
+    .label = ఇటీవల మూసిన విండోలు
 
 ## Help panel
 
