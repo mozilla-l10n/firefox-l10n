@@ -193,3 +193,5 @@ appmenu-customizetoolbar =
 appmenu-taskmanager =
     .label = Jobliste
 appmenu-developer-tools-subheader = Browser-værktøj
+appmenu-developer-tools-extensions =
+    .label = Udvidelser til udviklere
