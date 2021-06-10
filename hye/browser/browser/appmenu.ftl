@@ -5,28 +5,24 @@
 
 ## App Menu
 
-appmenuitem-update-banner =
-    .label-update-downloading = Բեռնում{ -brand-shorter-name } թարմացում
 appmenuitem-protection-dashboard-title = Գաղտնիութեան վահանակ
 appmenuitem-customize-mode =
     .label = Յարմարեցնել…
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Նոր ներդիր
 appmenuitem-new-window =
     .label = Նոր պատուհան
 appmenuitem-new-private-window =
     .label = Սկսել գաղտնի դիտարկում
 appmenuitem-passwords =
     .label = Գաղտնաբառեր
-appmenuitem-extensions-and-themes =
-    .label = Ընդլայնումներ եւ համապատկերներ
 appmenuitem-find-in-page =
     .label = Փնտրել էջում…
 appmenuitem-more-tools =
     .label = Յաւելեալ գործիքներ
-appmenuitem-exit =
-    .label = Ելք
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -104,6 +100,15 @@ appmenu-manage-history =
     .label = Կարավարէք պատմութիւնը
 appmenu-reopen-all-tabs = Վերաբացէք բոլոր ներդիրները
 appmenu-reopen-all-windows = Վերաբացէք բոլոր պատուհանները
+appmenu-restore-session =
+    .label = Վերականգնել նախորդ աշխատաշրջանը
+appmenu-clear-history =
+    .label = Մաքրել վերջին պատմութիւնը…
+appmenu-recent-history-subheader = Վերջին պատմութիւնը
+appmenu-recently-closed-tabs =
+    .label = Վերջին փակուած ներդիրները
+appmenu-recently-closed-windows =
+    .label = Վերջին փակուած պատուհանները
 
 ## Help panel
 
@@ -115,26 +120,11 @@ appmenu-about =
 appmenu-get-help =
     .label = Ստանալ աւգնութիւն
     .accesskey = Ս
-appmenu-help-troubleshooting-info =
-    .label = Անսարքութեան տեղեկատուութիւն
-    .accesskey = T
-appmenu-help-taskmanager =
-    .label = Առաջադրանքների ղեկաւար
 appmenu-help-report-site-issue =
     .label = Զեկուցել կայքի թողարկման մասին…
 appmenu-help-feedback-page =
     .label = Հաստատման արձագանք…
     .accesskey = S
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Վերամեկնարկել՝ անջատելով հաւելումները…
-    .accesskey = R
-appmenu-help-safe-mode-with-addons =
-    .label = Վերամեկնարկել՝ միացնելով հաւելումները
-    .accesskey = R
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
