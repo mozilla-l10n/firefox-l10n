@@ -193,3 +193,5 @@ appmenu-customizetoolbar =
 appmenu-taskmanager =
     .label = Amsefrak n twuri
 appmenu-developer-tools-subheader = Ifecka n yiminig
+appmenu-developer-tools-extensions =
+    .label = Isiɣzaf i tnefliyin
