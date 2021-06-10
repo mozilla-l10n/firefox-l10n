@@ -60,6 +60,8 @@ profiler-popup-edit-settings = Editează setările…
 
 ## History panel
 
+appmenu-clear-history =
+    .label = Șterge istoricul recent…
 appmenu-recently-closed-tabs =
     .label = File închise recent
 appmenu-recently-closed-windows =
