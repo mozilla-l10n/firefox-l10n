@@ -39,6 +39,10 @@ appmenuitem-save-page =
 
 ## History panel
 
+appmenu-restore-session =
+    .label = Laai vorige sessie terug
+appmenu-clear-history =
+    .label = Maak onlangse geskiedenis skoon…
 appmenu-recently-closed-tabs =
     .label = Onlangs gesluite oortjies
 appmenu-recently-closed-windows =
