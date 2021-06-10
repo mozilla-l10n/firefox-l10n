@@ -5,12 +5,6 @@
 
 ## App Menu
 
-appmenuitem-update-banner2 =
-    .label-update-downloading = { -brand-shorter-name }-fernijingen downloade
-    .label-update-available = Update beschikbaar – no downloade
-    .label-update-manual = Update beschikbaar – no downloade
-    .label-update-unsupported = Kin net bywurkje
-    .label-update-restart = Fernijing beskikber – no opnij starte
 appmenuitem-update-banner3 =
     .label-update-downloading = { -brand-shorter-name }-fernijing wurdt download
     .label-update-available = Fernijing beskikber – no downloade
@@ -23,6 +17,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Nij ljepblêd
 appmenuitem-new-window =
     .label = Nij finster
 appmenuitem-new-private-window =
@@ -35,14 +31,6 @@ appmenuitem-find-in-page =
     .label = Sykje op side…
 appmenuitem-more-tools =
     .label = Mear ark
-appmenuitem-exit =
-    .label = Ofslute
-appmenu-menu-button-closed =
-    .tooltiptext = Tapassingsmenu iepenje
-    .label = { -brand-shorter-name }
-appmenu-menu-button-opened =
-    .tooltiptext = Tapassingsmenu slute
-    .label = { -brand-shorter-name }
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
@@ -79,16 +67,12 @@ appmenu-remote-tabs-turn-on-sync =
     .label = Syngronisaasje ynskeakelje…
 appmenuitem-fxa-toolbar-sync-now2 = No syngronisearje
 appmenuitem-fxa-manage-account = Account beheare
-appmenu-fxa-header =
-    .title = { -fxaccount-brand-name }
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
 appmenu-fxa-last-sync = Lêst syngronisearre: { $time }
     .label = Lêst syngronisearre: { $time }
-appmenu-fxa-sync-and-save-data =
-    .value = Syngronisearje en gegevens bewarje
 appmenu-fxa-sync-and-save-data2 = Syngronisearje en gegevens bewarje
 appmenu-fxa-signed-in-label = Oanmelde
 appmenu-fxa-setup-sync =
@@ -153,6 +137,8 @@ appmenu-manage-history =
     .label = Skiednis beheare
 appmenu-reopen-all-tabs = Alle ljepblêden opnij iepenje
 appmenu-reopen-all-windows = Alle finsters opnij iepenje
+appmenu-recently-closed-tabs =
+    .label = Koartlyn sluten ljepblêden
 
 ## Help panel
 
