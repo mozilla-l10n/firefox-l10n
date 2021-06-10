@@ -5,12 +5,6 @@
 
 ## App Menu
 
-appmenuitem-update-banner2 =
-    .label-update-downloading = Atsiunčiamas „{ -brand-shorter-name }“ naujinimas
-    .label-update-available = Galimas naujinimas — atsiųsti dabar
-    .label-update-manual = Galimas naujinimas — atsiųsti dabar
-    .label-update-unsupported = Naujinimas nepavyko
-    .label-update-restart = Galimas naujinimas — paleisti iš naujo dabar
 appmenuitem-update-banner3 =
     .label-update-downloading = Atsiunčiamas „{ -brand-shorter-name }“ naujinimas
     .label-update-available = Išleistas naujinimas – atsiųsti dabar
@@ -23,6 +17,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Nauja kortelė
 appmenuitem-new-window =
     .label = Naujas langas
 appmenuitem-new-private-window =
@@ -35,14 +31,6 @@ appmenuitem-find-in-page =
     .label = Rasti tinklalapyje…
 appmenuitem-more-tools =
     .label = Daugiau priemonių
-appmenuitem-exit =
-    .label = Išeiti
-appmenu-menu-button-closed =
-    .tooltiptext = Atverti programos meniu
-    .label = { -brand-shorter-name }
-appmenu-menu-button-opened =
-    .tooltiptext = Užverti programos meniu
-    .label = { -brand-shorter-name }
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
@@ -79,16 +67,12 @@ appmenu-remote-tabs-turn-on-sync =
     .label = Įjungti sinchronizavimą…
 appmenuitem-fxa-toolbar-sync-now2 = Sinchronizuoti dabar
 appmenuitem-fxa-manage-account = Tvarkyti paskyrą
-appmenu-fxa-header =
-    .title = „{ -fxaccount-brand-name }“ paskyra
 appmenu-fxa-header2 = „{ -fxaccount-brand-name }“ paskyra
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
 appmenu-fxa-last-sync = Paskiausiai sinchronizuota { $time }
     .label = Paskiausiai sinchronizuota { $time }
-appmenu-fxa-sync-and-save-data =
-    .value = Sinchronizuoti ir įrašyti duomenis
 appmenu-fxa-sync-and-save-data2 = Sinchronizuoti ir įrašyti duomenis
 appmenu-fxa-signed-in-label = Prisijungti
 appmenu-fxa-setup-sync =
@@ -151,6 +135,8 @@ appmenu-manage-history =
     .label = Tvarkyti žurnalą
 appmenu-reopen-all-tabs = Įkelti visas korteles
 appmenu-reopen-all-windows = Įkelti visus langus
+appmenu-recently-closed-tabs =
+    .label = Paskiausiai užvertos kortelės
 
 ## Help panel
 
