@@ -139,6 +139,7 @@ appmenu-restore-session =
     .label = Vorige sessie herstellen
 appmenu-clear-history =
     .label = Recente geschiedenis wissen…
+appmenu-recent-history-subheader = Recente geschiedenis
 appmenu-recently-closed-tabs =
     .label = Onlangs gesloten tabbladen
 appmenu-recently-closed-windows =
