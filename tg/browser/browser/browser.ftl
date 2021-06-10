@@ -109,6 +109,9 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Камтар чоп кунед, бештар ёбед: Рост аз навори нишонӣ тавассути { $engineName } ҷустуҷӯ кунед.
 urlbar-search-tips-redirect-2 = Барои дидани пешниҳодҳои ҷустуҷӯ аз { $engineName } ва таърихи тамошокунӣ, ҷустуҷӯи худро аз навори нишонӣ оғоз намоед.
+# Prompts users to use the Urlbar when they are typing in the domain of a
+# search engine, e.g. google.com or amazon.com.
+urlbar-tabtosearch-onboard = Барои зудтар пайдо кардани чизи лозимӣ ин миёнбурро интихоб кунед.
 
 ## Local search mode indicator labels in the urlbar
 
@@ -120,6 +123,8 @@ urlbar-search-mode-history = Таърих
 
 urlbar-geolocation-blocked =
     .tooltiptext = Шумо барои ин сомона маълумоти ҷойгиршавиро манъ кардед.
+urlbar-xr-blocked =
+    .tooltiptext = Шумо барои ин сомона дастрасии дастгоҳи воқеияти виртуалиро манъ кардед.
 urlbar-web-notifications-blocked =
     .tooltiptext = Шумо барои ин сомона огоҳиҳоро манъ кардед.
 urlbar-camera-blocked =
@@ -312,6 +317,7 @@ identity-connection-internal = Ин саҳифаи бехатари { -brand-sho
 identity-connection-file = Ин саҳифа дар компютери шумо нигоҳ дошта мешавад.
 identity-extension-page = Ин саҳифа аз васеъшавӣ бор карда шудааст.
 identity-active-blocked = { -brand-short-name } қисмҳои ин саҳифаро манъ кард, зеро ки онҳо бехатар нестанд.
+identity-custom-root = Пайвастшавӣ аз тарафи барорандаи гувоҳиномае тасдиқ карда шудааст, ки Mozilla онро эътироф намекунад.
 identity-passive-loaded = Қисмҳои ин саҳифа бехатар нестанд (масалан, тасвирҳо).
 identity-active-loaded = Шумо барои ин саҳифа муҳофизатро ғайрифаъол кардед.
 identity-weak-encryption = Ин саҳифа рамзгузории камқувватро истифода мебарад.
@@ -643,6 +649,9 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = Нигоҳ доштан ба { -pocket-brand-name }
     .tooltiptext = Нигоҳ доштан ба { -pocket-brand-name }
+
+## Repair text encoding toolbar button
+
 
 ## Customize Toolbar Buttons
 
