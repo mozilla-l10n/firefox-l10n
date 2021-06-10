@@ -10,6 +10,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Yañı İlmek
 appmenuitem-new-window =
     .label = Yañı Pencere
 appmenuitem-new-private-window =
@@ -37,31 +39,25 @@ appmenuitem-save-page =
 
 ## History panel
 
+appmenu-restore-session =
+    .label = Evvelki Oturımnı Keri Tikle
+appmenu-clear-history =
+    .label = Deminki Keçmişni Temizle…
+appmenu-recent-history-subheader = Yaqın Keçmiş
+appmenu-recently-closed-tabs =
+    .label = Demi Qapatılğan İlmekler
+appmenu-recently-closed-windows =
+    .label = Demi Qapatılğan Pencereler
 
 ## Help panel
 
 appmenu-about =
     .label = { -brand-shorter-name } Aqqında
     .accesskey = a
-appmenu-help-troubleshooting-info =
-    .label = Arıza Qıdıruv Malümatı
-    .accesskey = A
-appmenu-help-taskmanager =
-    .label = Uhde İdareçisi
 appmenu-help-report-site-issue =
     .label = Sayt Mes'elesini Maruzala…
 appmenu-help-feedback-page =
     .label = Keri Beslemeni Teslim Et…
-    .accesskey = K
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Eklentiler Ğayrı Faalleştirilgen Keliş Kene Başlat…
-    .accesskey = B
-appmenu-help-safe-mode-with-addons =
-    .label = Eklentiler Qabilleştirilgen Keliş Kene Başlat
     .accesskey = K
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
