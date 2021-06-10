@@ -48,6 +48,7 @@ appmenu-restore-session =
     .label = Athchóirigh an Seisiún Roimhe Seo
 appmenu-clear-history =
     .label = Glan an Stair Is Déanaí…
+appmenu-recent-history-subheader = Stair is Déanaí
 appmenu-recently-closed-tabs =
     .label = Cluaisíní a Dúnadh Le Déanaí
 appmenu-recently-closed-windows =
