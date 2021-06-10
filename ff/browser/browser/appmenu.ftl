@@ -10,6 +10,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Tabbere Hesere
 appmenuitem-new-window =
     .label = Henorde Hesere
 appmenuitem-new-private-window =
@@ -42,32 +44,25 @@ whatsnew-panel-header = Ko Hesɗi
 
 ## History panel
 
+appmenu-restore-session =
+    .label = Artir Yillannde Ɓennunde
+appmenu-clear-history =
+    .label = Momtu Aslol Sakketol…
+appmenu-recently-closed-tabs =
+    .label = Tabbe Uddaaɗe Sakket
+appmenu-recently-closed-windows =
+    .label = Kenorɗe Uddaaɗe Sakket
 
 ## Help panel
 
 appmenu-about =
     .label = Baɗte { -brand-shorter-name }
     .accesskey = B
-appmenu-help-troubleshooting-info =
-    .label = Humpito Ñawndugol Caɗeele
-    .accesskey = H
-appmenu-help-taskmanager =
-    .label = Yiilorde golle
 appmenu-help-report-site-issue =
     .label = Jaŋto Caɗeele Lowre…
 appmenu-help-feedback-page =
     .label = Neldu Duttinal…
     .accesskey = N
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Hurmitin tawa Ɓeyditte ena Ndaaƴaa…
-    .accesskey = H
-appmenu-help-safe-mode-with-addons =
-    .label = Hurmitin tawa Ɓeyditte ena Ndaaƴtaa…
-    .accesskey = H
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
