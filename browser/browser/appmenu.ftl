@@ -5,12 +5,6 @@
 
 ## App Menu
 
-appmenuitem-update-banner2 =
-    .label-update-downloading = Изтегляне на обновяване на { -brand-shorter-name }
-    .label-update-available = Налично е обновяване - изтегляне сега
-    .label-update-manual = Налично е обновяване - изтегляне сега
-    .label-update-unsupported = Грешка при обновяван
-    .label-update-restart = Налично е обновяване - нужен рестарт
 appmenuitem-protection-dashboard-title = Табло със защити
 appmenuitem-customize-mode =
     .label = Приспособяване…
@@ -29,14 +23,6 @@ appmenuitem-find-in-page =
     .label = Търсене в страницата
 appmenuitem-more-tools =
     .label = Още инструменти
-appmenuitem-exit =
-    .label = Изход
-appmenu-menu-button-closed =
-    .tooltiptext = Отваря менюто на приложението
-    .label = { -brand-shorter-name }
-appmenu-menu-button-opened =
-    .tooltiptext = Затваря менюто на приложението
-    .label = { -brand-shorter-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -57,16 +43,12 @@ fxa-toolbar-sync-now =
     .label = Синхронизиране
 appmenuitem-fxa-toolbar-sync-now2 = Синхронизиране
 appmenuitem-fxa-manage-account = Управление на сметка
-appmenu-fxa-header =
-    .title = { -fxaccount-brand-name }
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
 appmenu-fxa-last-sync = Последна синхронизация { $time }
     .label = Последна синхронизация { $time }
-appmenu-fxa-sync-and-save-data =
-    .value = Синхронизиране и запазване на данни
 appmenu-fxa-sync-and-save-data2 = Синхронизиране и запазване на данни
 appmenu-fxa-signed-in-label = Вход
 appmenu-fxa-setup-sync =
@@ -129,6 +111,12 @@ appmenu-manage-history =
     .label = Управление на история
 appmenu-reopen-all-tabs = Възстановяване на всички раздели
 appmenu-reopen-all-windows = Възстановяване на всички прозорци
+appmenu-restore-session =
+    .label = Възстановяване на предишна сесия
+appmenu-clear-history =
+    .label = Изчистване на скорошна история…
+appmenu-recently-closed-windows =
+    .label = Последно затворени прозорци
 
 ## Help panel
 
