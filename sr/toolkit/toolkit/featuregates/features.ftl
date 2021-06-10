@@ -18,6 +18,8 @@ experimental-features-media-jxl =
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
+experimental-features-devtools-color-scheme-simulation =
+    .label = Алатке за програмере: симулација шеме боја
 experimental-features-devtools-execution-context-selector =
     .label = Алатке за програмере: селектор контекста извршавања
 experimental-features-devtools-compatibility-panel =
