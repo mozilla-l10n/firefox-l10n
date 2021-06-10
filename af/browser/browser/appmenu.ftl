@@ -10,6 +10,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Nuwe oortjie
 appmenuitem-new-window =
     .label = Nuwe venster
 appmenuitem-new-private-window =
@@ -37,28 +39,17 @@ appmenuitem-save-page =
 
 ## History panel
 
+appmenu-recently-closed-tabs =
+    .label = Onlangs gesluite oortjies
 
 ## Help panel
 
 appmenu-about =
     .label = Aangaande { -brand-shorter-name }
     .accesskey = A
-appmenu-help-troubleshooting-info =
-    .label = Inligting vir probleemoplossing
-    .accesskey = p
 appmenu-help-feedback-page =
     .label = Dien terugvoer in…
     .accesskey = D
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Herbegin met byvoegings gedeaktiveer…
-    .accesskey = H
-appmenu-help-safe-mode-with-addons =
-    .label = Herbegin met byvoegings geaktiveer
-    .accesskey = r
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
