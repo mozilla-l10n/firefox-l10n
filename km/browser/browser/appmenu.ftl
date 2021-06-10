@@ -121,6 +121,10 @@ appmenu-manage-history =
     .label = គ្រប់គ្រងប្រវត្តិ
 appmenu-reopen-all-tabs = ស្ដារផ្ទាំងទាំងអស់ម្ដងទៀត
 appmenu-reopen-all-windows = ស្ដារផ្ទាំងបង្អួចទាំងអស់
+appmenu-recently-closed-tabs =
+    .label = ផ្ទាំង​ដែល​បិទ​ថ្មីៗ
+appmenu-recently-closed-windows =
+    .label = បង្អួច​ដែល​បាន​បិទ​ថ្មីៗ
 
 ## Help panel
 
