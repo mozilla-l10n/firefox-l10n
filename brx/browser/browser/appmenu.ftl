@@ -48,6 +48,7 @@ appmenu-restore-session =
     .label = आवगयनि जथुम्माखौ लाबोफिन
 appmenu-clear-history =
     .label = दानि जारिमिनखौ खोमोर...
+appmenu-recent-history-subheader = दानि जारिमिन
 appmenu-recently-closed-tabs =
     .label = बावैसो बन्द खालामनाय टेबफोर
 appmenu-recently-closed-windows =
