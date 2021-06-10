@@ -5,12 +5,6 @@
 
 ## App Menu
 
-appmenuitem-update-banner2 =
-    .label-update-downloading = Emboguejy { -brand-shorter-name } ñembohekopyahu
-    .label-update-available = Embohekopyahukuaa — emboguejy ko’ág̃a
-    .label-update-manual = Embohekopyahukuaa — emboguejy ko’ág̃a
-    .label-update-unsupported = Ndaikatúi embohekopyahu
-    .label-update-restart = Embohekopyahukuaa — emoñepyrũjey ko’ág̃a
 appmenuitem-update-banner3 =
     .label-update-downloading = Amboguejy { -brand-shorter-name } ñembohekopyahu
     .label-update-available = Eipurukuaáma ñembohekopyahu — Emboguejy ko’ág̃a
@@ -35,14 +29,6 @@ appmenuitem-find-in-page =
     .label = Kuatiaroguépe jejuhu…
 appmenuitem-more-tools =
     .label = Tembipuruve
-appmenuitem-exit =
-    .label = Ñesẽ
-appmenu-menu-button-closed =
-    .tooltiptext = Embojuruja tembipuru’i poravorã
-    .label = { -brand-shorter-name }
-appmenu-menu-button-opened =
-    .tooltiptext = Emboty tembipuru’i poravorã
-    .label = { -brand-shorter-name }
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
@@ -79,16 +65,12 @@ appmenu-remote-tabs-turn-on-sync =
     .label = Emyandy Ñembojuehe…
 appmenuitem-fxa-toolbar-sync-now2 = Embojuehe ko’ág̃a
 appmenuitem-fxa-manage-account = Mba’ete Ñangarekoha
-appmenu-fxa-header =
-    .title = { -fxaccount-brand-name }
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
 appmenu-fxa-last-sync = Ñembojuehe ipyahuvéva { $time }
     .label = Ñembojuehe ipyahuvéva { $time }
-appmenu-fxa-sync-and-save-data =
-    .value = Embojuehe ha eñongatu mba’ekuaarã
 appmenu-fxa-sync-and-save-data2 = Embojuehe ha eñongatu mba’ekuaarã
 appmenu-fxa-signed-in-label = Tembiapo ñepyrũ
 appmenu-fxa-setup-sync =
