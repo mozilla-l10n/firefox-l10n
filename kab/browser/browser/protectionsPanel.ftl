@@ -80,6 +80,7 @@ protections-panel-cryptominers = Ikripṭuminaren seqdacen tazmert n usiḍen n 
 protections-panel-fingerprinters = Idsilen umḍinen leqqḍen-d iɣewwaṛen seg yiminig-ik akked uselkim-ik akken ad rnun amaqnu fell-ak. Aseqdec n udsil-a umḍin, zemren ad k-ḍefṛen gar yismal iɣer i trezzuḍ.
 protections-panel-tracking-content = Ismal Web zemren ad d-salin adellel, tividyutin akked igburen izɣarayen i igebren iferdisen n uḍfaṛ. Asewḥel n ugbur yettwasemras akked ad yesɣiwel asali n yisebtar, maca kra n tqeffalin, tiferkiyin neɣ urtan n tuqqna zemren ur teddun ara.
 protections-panel-social-media-trackers = Iẓeḍwa n tmetti srusun ineḍfaren deg yesmal web-nniḍen akken ad ḍefren ayen txedmeḍ, tettwaliḍ, akken d wayen tettnezziheḍ srid. Ayagi yettaǧǧa tikebbaniyin n yiẓeḍwa n tmetti ad issinen ugar n wayen tbeṭṭuḍ deg yimeɣna-k n yiẓeḍwa n tmetti.
+protections-panel-description-shim-allowed = Kra n yineḍgaren yettwaṛecmen ddaw-a yekkes-asen usewḥel amuran ɣef usebter-a acku temyigweḍ yid-sen.
 protections-panel-description-shim-allowed-learn-more = Issin ugar
 protections-panel-content-blocking-manage-settings =
     .label = Sefrek iɣewwaṛen n tɣellist

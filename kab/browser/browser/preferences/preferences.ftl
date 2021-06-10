@@ -66,7 +66,6 @@ category-experimental =
     .tooltiptext = { -brand-short-name } Tirma
 pane-experimental-subtitle = Kemmel, maca ɣur-k.
 pane-experimental-search-results-header = { -brand-short-name } Tirma: ddu kan s leεqel
-pane-experimental-description = Abeddel n yismenyifen n twila leqqayen zemren ad ḥazen tamlellit neɣ taɣellist n { -brand-short-name }.
 pane-experimental-description2 = Abeddel n yiɣewwaren n twila lqayen zemren ad ḥazen tamlellit neɣ taɣellist n { -brand-short-name }.
 pane-experimental-reset =
     .label = Err-d iɣewwaren imezwer
@@ -182,6 +181,9 @@ warn-on-open-many-tabs =
 switch-links-to-new-tabs =
     .label = Ticki ad ldiɣ aseɣwen deg iccer amaynut, ddu ɣur-s imir
     .accesskey = T
+switch-to-new-tabs =
+    .label = Mi ara teldiḍ aseɣwen, neɣ tugna, neɣ amidyat deg yiccer amaynut, εeddi ɣur-s srid
+    .accesskey = r
 show-tabs-in-taskbar =
     .label = Sken taskant n yiccaren deg ufeggag n twira n Windows
     .accesskey = S
@@ -1020,7 +1022,6 @@ content-blocking-etp-strict-desc = Ammesten yettwaseǧhed, maca kra n yismal akk
 content-blocking-etp-custom-desc = Fren ineḍfaṛen akked iskripten ara tesweḥleḍ.
 content-blocking-etp-blocking-desc = { -brand-short-name } issewḥal aya:
 content-blocking-private-windows = Agbur yettwaseqdec i uḍfaṛ deg yisfuyla n tunigin tuligt
-content-blocking-cross-site-cookies = Inagan n tuqqna gar yismal
 content-blocking-cross-site-cookies-in-all-windows = Inagan n tuqqna gar yismal deg meṛṛa isfuyla (rnu ula d inagan n tuqqna n uḍfar)
 content-blocking-cross-site-tracking-cookies = Inagan n tuqqna i uḍfaṛ gar yismal
 content-blocking-all-cross-site-cookies-private-windows = Inagan n tuqqna deg yisfuyla usligen
@@ -1143,6 +1144,8 @@ collection-backlogged-crash-reports =
     .label = Sireg { -brand-short-name } akken ad yazen ineqqisen n uɣelluy deg ugilal
     .accesskey = c
 collection-backlogged-crash-reports-link = Issin ugar
+collection-backlogged-crash-reports-with-link = Sireg { -brand-short-name } ad yazen ineqqisen n uɣelluy deg ugilal s yisem-ik·im <a data-l10n-name="crash-reports-link">Issin ugar</a>
+    .accesskey = g
 
 ## Privacy Section - Security
 ##
