@@ -48,6 +48,9 @@ pill-action-move-cc =
 pill-action-move-bcc =
     .label = Do schowaneje kopije přesunyć
     .accesskey = s
+pill-action-expand-list =
+    .label = Lisćinu pokazać
+    .accesskey = i
 
 # Attachment widget
 
