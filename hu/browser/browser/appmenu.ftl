@@ -139,6 +139,8 @@ appmenu-reopen-all-tabs = Összes lap újranyitása
 appmenu-reopen-all-windows = Összes ablak újranyitása
 appmenu-recently-closed-tabs =
     .label = Nemrég bezárt lapok
+appmenu-recently-closed-windows =
+    .label = Nemrég bezárt ablakok
 
 ## Help panel
 
