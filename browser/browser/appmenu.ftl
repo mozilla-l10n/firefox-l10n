@@ -11,6 +11,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Uus kaart
 appmenuitem-new-window =
     .label = Uus aken
 appmenuitem-new-private-window =
@@ -48,7 +50,15 @@ whatsnew-panel-footer-checkbox =
 
 ## History panel
 
+appmenu-restore-session =
+    .label = Taasta eelmine seanss
+appmenu-clear-history =
+    .label = Kustuta hiljutine ajalugu…
 appmenu-recent-history-subheader = Hiljutine ajalugu
+appmenu-recently-closed-tabs =
+    .label = Hiljuti suletud kaardid
+appmenu-recently-closed-windows =
+    .label = Hiljuti suletud aknad
 
 ## Help panel
 
