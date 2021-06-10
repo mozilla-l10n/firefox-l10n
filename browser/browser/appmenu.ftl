@@ -17,6 +17,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Thẻ mới
 appmenuitem-new-window =
     .label = Cửa sổ mới
 appmenuitem-new-private-window =
@@ -135,6 +137,12 @@ appmenu-manage-history =
     .label = Quản lý lịch sử
 appmenu-reopen-all-tabs = Mở lại tất cả các thẻ
 appmenu-reopen-all-windows = Mở lại tất cả các cửa sổ
+appmenu-restore-session =
+    .label = Khôi phục phiên làm việc trước
+appmenu-recently-closed-tabs =
+    .label = Thẻ mới đóng gần đây
+appmenu-recently-closed-windows =
+    .label = Các cửa sổ mới đóng
 
 ## Help panel
 
