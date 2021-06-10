@@ -193,3 +193,5 @@ appmenu-customizetoolbar =
 appmenu-taskmanager =
     .label = Gestor de tarefas
 appmenu-developer-tools-subheader = Ferramentas do navegador
+appmenu-developer-tools-extensions =
+    .label = Extensões para Programadores
