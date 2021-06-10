@@ -44,6 +44,9 @@ pill-action-move-cc =
 pill-action-move-bcc =
     .label = Déplacer vers Copie cachée à
     .accesskey = h
+pill-action-expand-list =
+    .label = Développer la liste
+    .accesskey = D
 
 # Attachment widget
 
