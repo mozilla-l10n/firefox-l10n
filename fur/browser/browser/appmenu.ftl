@@ -5,14 +5,6 @@
 
 ## App Menu
 
-appmenuitem-update-banner =
-    .label-update-downloading = Daûr a discjariâ l'inzornament di { -brand-shorter-name }
-appmenuitem-update-banner2 =
-    .label-update-downloading = Daûr a discjariâ l'inzornament di { -brand-shorter-name }
-    .label-update-available = Inzornament disponibil — discjame cumò
-    .label-update-manual = Inzornament disponibil — discjame cumò
-    .label-update-unsupported = Impussibil inzornâ
-    .label-update-restart = Inzornament disponibil — torne invie cumò
 appmenuitem-protection-dashboard-title = Panel des protezions
 appmenuitem-customize-mode =
     .label = Personalize…
@@ -25,22 +17,12 @@ appmenuitem-new-private-window =
     .label = Gnûf barcon privât
 appmenuitem-passwords =
     .label = Passwords
-appmenuitem-extensions-and-themes =
-    .label = Estensions e temis
 appmenuitem-addons-and-themes =
     .label = Zontis e temis
 appmenuitem-find-in-page =
     .label = Cjate te pagjine…
 appmenuitem-more-tools =
     .label = Plui struments
-appmenuitem-exit =
-    .label = Jes
-appmenu-menu-button-closed =
-    .tooltiptext = Vierç menù aplicazion
-    .label = { -brand-shorter-name }
-appmenu-menu-button-opened =
-    .tooltiptext = Siere menù aplicazion
-    .label = { -brand-shorter-name }
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
@@ -77,16 +59,12 @@ appmenu-remote-tabs-turn-on-sync =
     .label = Ative la sincronizazion…
 appmenuitem-fxa-toolbar-sync-now2 = Sincronize cumò
 appmenuitem-fxa-manage-account = Gjestìs account
-appmenu-fxa-header =
-    .title = { -fxaccount-brand-name }
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
 appmenu-fxa-last-sync = Ultime volte sincronizât: { $time }
     .label = Ultime volte sincronizât: { $time }
-appmenu-fxa-sync-and-save-data =
-    .value = Sincronize e salve i dâts
 appmenu-fxa-sync-and-save-data2 = Sincronize e salve i dâts
 appmenu-fxa-signed-in-label = Jentre
 appmenu-fxa-setup-sync =
@@ -151,6 +129,8 @@ appmenu-manage-history =
     .label = Gjestìs cronologjie
 appmenu-reopen-all-tabs = Torne vierç dutis lis schedis
 appmenu-reopen-all-windows = Torne vierç ducj i barcons
+appmenu-clear-history =
+    .label = Nete la cronologjie resinte...
 
 ## Help panel
 
@@ -162,11 +142,6 @@ appmenu-about =
 appmenu-get-help =
     .label = Oten jutori
     .accesskey = j
-appmenu-help-troubleshooting-info =
-    .label = Informazions par risolvi problemis…
-    .accesskey = p
-appmenu-help-taskmanager =
-    .label = Gjestôr ativitâts
 appmenu-help-more-troubleshooting-info =
     .label = Plui informazions pe risoluzion dai problemis
     .accesskey = T
@@ -175,16 +150,6 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = Invie opinion
     .accesskey = o
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Torne invie disativant lis zontis...
-    .accesskey = r
-appmenu-help-safe-mode-with-addons =
-    .label = Torne invie abilitant lis zontis
-    .accesskey = a
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
