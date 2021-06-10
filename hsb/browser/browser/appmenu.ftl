@@ -5,12 +5,6 @@
 
 ## App Menu
 
-appmenuitem-update-banner2 =
-    .label-update-downloading = Aktualizaciju { -brand-shorter-name } sćahnyć
-    .label-update-available = Aktualizacija k dispoziciji – nětko sćahnyć
-    .label-update-manual = Aktualizacija k dispoziciji – nětko sćahnyć
-    .label-update-unsupported = Aktualizowanje móžne njeje
-    .label-update-restart = Aktualizacija k dispoziciji – nětko znowa startować
 appmenuitem-update-banner3 =
     .label-update-downloading = Aktualizaciju { -brand-shorter-name } sćahnyć
     .label-update-available = Aktualizacija k dispoziciji – nětko sćahnyć
@@ -23,6 +17,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Nowy rajtark
 appmenuitem-new-window =
     .label = Nowe wokno
 appmenuitem-new-private-window =
@@ -35,14 +31,6 @@ appmenuitem-find-in-page =
     .label = Na stronje pytać…
 appmenuitem-more-tools =
     .label = Dalše nastroje
-appmenuitem-exit =
-    .label = Skónčić
-appmenu-menu-button-closed =
-    .tooltiptext = Nałoženski meni wočinić
-    .label = { -brand-shorter-name }
-appmenu-menu-button-opened =
-    .tooltiptext = Nałoženski meni začinić
-    .label = { -brand-shorter-name }
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
@@ -79,16 +67,12 @@ appmenu-remote-tabs-turn-on-sync =
     .label = Sync zmóžnić…
 appmenuitem-fxa-toolbar-sync-now2 = Nětko synchronizować
 appmenuitem-fxa-manage-account = Konto rjadować
-appmenu-fxa-header =
-    .title = { -fxaccount-brand-name }
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
 appmenu-fxa-last-sync = Poslednja synchronizacija: { $time }
     .label = Poslednja synchronizacija: { $time }
-appmenu-fxa-sync-and-save-data =
-    .value = Synchronizować a daty składować
 appmenu-fxa-sync-and-save-data2 = Synchronizować a daty składować
 appmenu-fxa-signed-in-label = Přizjewić
 appmenu-fxa-setup-sync =
@@ -153,6 +137,15 @@ appmenu-manage-history =
     .label = Historiju rjadować
 appmenu-reopen-all-tabs = Wšě rajtarki znowa wočinić
 appmenu-reopen-all-windows = Wšě wokna znowa wočinić
+appmenu-restore-session =
+    .label = Předchadne posedźenje wobnowić
+appmenu-clear-history =
+    .label = Aktualnu historiju wuprózdnić…
+appmenu-recent-history-subheader = Najnowša historija
+appmenu-recently-closed-tabs =
+    .label = Runje začinjene rajtarki
+appmenu-recently-closed-windows =
+    .label = Runje začinjene wokna
 
 ## Help panel
 
