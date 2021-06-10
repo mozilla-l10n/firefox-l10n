@@ -15,7 +15,7 @@ ssl-connection-error = Ocurrió un error al conectarse a { $hostname }. { $error
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Código de error: { $error }
-psmerr-ssl-disabled = No se puede conectar de forma segura porque el protocolo SSL ha sido deshabilitado.
+psmerr-ssl-disabled = No se puede conectar de forma segura porque el protocolo SSL fue deshabilitado.
 psmerr-ssl2-disabled = No se puede conectar de forma segura porque el sitio usa una versión antigua e insegura del protocolo SSL.
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
@@ -170,8 +170,8 @@ sec-error-invalid-time = Cadena de fecha con formato incorrecto.
 sec-error-bad-der = biblioteca de seguridad: mensaje codificado en DER incorrectamente formateado.
 sec-error-bad-signature = El certificado del par tiene una firma no válida.
 sec-error-expired-certificate = El certificado del par ha expirado.
-sec-error-revoked-certificate = El certificado del par ha sido revocado.
-sec-error-unknown-issuer = El emisor del certificado del par no ha sido reconocido.
+sec-error-revoked-certificate = El certificado del par fue revocado.
+sec-error-unknown-issuer = El emisor del certificado del par no fue reconocido.
 sec-error-bad-key = La clave pública del par no es válida.
 sec-error-bad-password = La contraseña de seguridad es incorrecta.
 sec-error-retry-password = New password entered incorrectly.  Please try again.
