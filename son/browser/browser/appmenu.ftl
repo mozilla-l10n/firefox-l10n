@@ -10,6 +10,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Kanji taaga
 appmenuitem-new-window =
     .label = Zanfun taaga
 appmenuitem-new-private-window =
@@ -37,6 +39,12 @@ appmenuitem-save-page =
 
 ## History panel
 
+appmenu-restore-session =
+    .label = Goywaati bisantaa yeeti
+appmenu-clear-history =
+    .label = Taariki kokorantaa tuusu…
+appmenu-recently-closed-tabs =
+    .label = Kanjey kaŋ kokor ka daaba
 appmenu-recently-closed-windows =
     .label = Zanfun kokor daabantey
 
