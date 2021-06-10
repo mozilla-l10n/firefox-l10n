@@ -17,6 +17,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Llingüeta nueva
 appmenuitem-new-window =
     .label = Ventana nueva
 appmenuitem-new-private-window =
@@ -131,6 +133,15 @@ appmenu-manage-history =
     .label = Xestionar l'historial
 appmenu-reopen-all-tabs = Volver abrir toles llingüetes
 appmenu-reopen-all-windows = Volver abrir toles ventanes
+appmenu-restore-session =
+    .label = Restaurar la sesión anterior
+appmenu-clear-history =
+    .label = Llimpiar l'historial recién…
+appmenu-recent-history-subheader = Historial recién
+appmenu-recently-closed-tabs =
+    .label = Llingüetes zarraes apocayá
+appmenu-recently-closed-windows =
+    .label = Ventanes zarraes apocayá
 
 ## Help panel
 
@@ -178,3 +189,5 @@ appmenu-customizetoolbar =
 appmenu-taskmanager =
     .label = Xestor de xeres
 appmenu-developer-tools-subheader = Ferramientes del restolador
+appmenu-developer-tools-extensions =
+    .label = Estensiones pa desendolcadores
