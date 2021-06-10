@@ -10,6 +10,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = નવી ટૅબ
 appmenuitem-new-window =
     .label = નવી વિન્ડો
 appmenuitem-new-private-window =
