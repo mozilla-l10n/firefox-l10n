@@ -137,8 +137,12 @@ appmenu-manage-history =
     .label = Керувати історією
 appmenu-reopen-all-tabs = Знову відкрити всі вкладки
 appmenu-reopen-all-windows = Знову відкрити всі вікна
+appmenu-restore-session =
+    .label = Відновити попередній сеанс
 appmenu-recently-closed-tabs =
     .label = Недавно закриті вкладки
+appmenu-recently-closed-windows =
+    .label = Недавно закриті вікна
 
 ## Help panel
 
