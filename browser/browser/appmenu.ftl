@@ -23,6 +23,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Нова картица
 appmenuitem-new-window =
     .label = Нови прозор
 appmenuitem-new-private-window =
@@ -135,6 +137,13 @@ appmenu-manage-history =
     .label = Управљај историјом
 appmenu-reopen-all-tabs = Поново отвори све картице
 appmenu-reopen-all-windows = Поново отвори све прозоре
+appmenu-restore-session =
+    .label = Врати претходну сесију
+appmenu-clear-history =
+    .label = Обриши историју…
+appmenu-recent-history-subheader = Недавна историја
+appmenu-recently-closed-tabs =
+    .label = Недавно затворене картице
 appmenu-recently-closed-windows =
     .label = Недавно затворени прозори
 
@@ -196,3 +205,5 @@ appmenu-customizetoolbar =
 appmenu-taskmanager =
     .label = Менаџер задатака
 appmenu-developer-tools-subheader = Алатке прегледача
+appmenu-developer-tools-extensions =
+    .label = Додаци за програмере
