@@ -39,6 +39,11 @@ appmenuitem-save-page =
 
 ## History panel
 
+appmenu-restore-session =
+    .label = Sækja fyrri vafralotu
+appmenu-clear-history =
+    .label = Hreinsa nýlega ferla…
+appmenu-recent-history-subheader = Nýlegur ferill
 appmenu-recently-closed-tabs =
     .label = Nýlega lokaðir flipar
 appmenu-recently-closed-windows =
