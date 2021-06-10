@@ -17,6 +17,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = زبانه جدید
 appmenuitem-new-window =
     .label = پنجره جدید‌
 appmenuitem-new-private-window =
@@ -135,6 +137,11 @@ appmenu-manage-history =
     .label = مدیریت تاریخچه
 appmenu-reopen-all-tabs = بازگردانی همه زبانه‌ها
 appmenu-reopen-all-windows = بازگردانی همهٔ پنجره‌ها
+appmenu-restore-session =
+    .label = بازآوری نشست قبلی
+appmenu-clear-history =
+    .label = پاک کردن تاریخچه اخیر…
+appmenu-recent-history-subheader = تاریخچهٔ اخیر
 appmenu-recently-closed-tabs =
     .label = زبانه‌های تازه بسته شده
 appmenu-recently-closed-windows =
