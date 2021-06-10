@@ -53,6 +53,7 @@ appmenu-restore-session =
     .label = Dwok kare ma okato ni
 appmenu-clear-history =
     .label = Jwa gin mukato cokki…
+appmenu-recent-history-subheader = Mukato cokki
 appmenu-recently-closed-tabs =
     .label = Dirica matino ma kiloro cokki
 appmenu-recently-closed-windows =
