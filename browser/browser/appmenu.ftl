@@ -17,6 +17,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Nowy rejtarik
 appmenuitem-new-window =
     .label = Nowe wokno
 appmenuitem-new-private-window =
@@ -140,6 +142,8 @@ appmenu-restore-session =
 appmenu-clear-history =
     .label = Aktualnu historiju wuprozniś…
 appmenu-recent-history-subheader = Nejnowša historija
+appmenu-recently-closed-tabs =
+    .label = Rowno zacynjone rejtariki
 appmenu-recently-closed-windows =
     .label = Rowno zacynjone wokna
 
@@ -189,3 +193,5 @@ appmenu-customizetoolbar =
 appmenu-taskmanager =
     .label = Zastojnik nadawkow
 appmenu-developer-tools-subheader = Rědy wobglědowaka
+appmenu-developer-tools-extensions =
+    .label = Rozšyrjenja za wuwijarje
