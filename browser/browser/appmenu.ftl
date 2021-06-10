@@ -5,12 +5,6 @@
 
 ## App Menu
 
-appmenuitem-update-banner2 =
-    .label-update-downloading = Telecargament de la mesa a jorn de { -brand-shorter-name }
-    .label-update-available = Mesa a jorn disponibla — la telecargar ara
-    .label-update-manual = Mesa a jorn disponibla — la telecargar ara
-    .label-update-unsupported = Mesa a jorn impossibla
-    .label-update-restart = Mesa a jorn disponibla — reaviar ara
 appmenuitem-update-banner3 =
     .label-update-downloading = Telecargament mesa a jorn de { -brand-shorter-name }
     .label-update-available = Mesa a jorn disponibla — telecargar ara
@@ -23,6 +17,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Onglet novèl
 appmenuitem-new-window =
     .label = Fenèstra novèla
 appmenuitem-new-private-window =
@@ -35,14 +31,6 @@ appmenuitem-find-in-page =
     .label = Recercar dins la pagina…
 appmenuitem-more-tools =
     .label = Mai d’aisinas…
-appmenuitem-exit =
-    .label = Sortir
-appmenu-menu-button-closed =
-    .tooltiptext = Dobrir lo menú d’aplicacion
-    .label = { -brand-shorter-name }
-appmenu-menu-button-opened =
-    .tooltiptext = Tampar lo menú d’aplicacion
-    .label = { -brand-shorter-name }
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
@@ -79,16 +67,12 @@ appmenu-remote-tabs-turn-on-sync =
     .label = Activar la sincronizacion…
 appmenuitem-fxa-toolbar-sync-now2 = Sincronizar ara
 appmenuitem-fxa-manage-account = Gestion del compte
-appmenu-fxa-header =
-    .title = { -fxaccount-brand-name }
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
 appmenu-fxa-last-sync = Darrièra sincro. { $time }
     .label = Darrièra sincro. { $time }
-appmenu-fxa-sync-and-save-data =
-    .value = Sincronizar e enregistrar las donadas
 appmenu-fxa-sync-and-save-data2 = Sincronizar e enregistrar las donadas
 appmenu-fxa-signed-in-label = Connexion
 appmenu-fxa-setup-sync =
