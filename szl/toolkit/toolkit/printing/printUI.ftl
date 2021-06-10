@@ -39,6 +39,7 @@ printui-scale-fit-to-page-width = Przipasuj do szyrzki strōny
 printui-scale-pcent = Skala
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Durk ôbuch strōn
+printui-two-sided-printing-off = Wyłōnczōne
 # Section title for miscellaneous print options
 printui-options = Ôpcyje
 printui-headers-footers-checkbox = Durkuj nogōwki i stopki
