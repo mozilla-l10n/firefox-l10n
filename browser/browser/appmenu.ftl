@@ -5,12 +5,6 @@
 
 ## App Menu
 
-appmenuitem-update-banner2 =
-    .label-update-downloading = Descargar la actualización de { -brand-shorter-name }
-    .label-update-available = Actualización disponible, descargar ahora
-    .label-update-manual = Actualización disponible, descargar ahora
-    .label-update-unsupported = No se pudo actualizar
-    .label-update-restart = Actualización disponible, reiniciar ahora
 appmenuitem-update-banner3 =
     .label-update-downloading = Descargando actualización de { -brand-shorter-name }
     .label-update-available = Actualización disponible — descargar ahora
@@ -35,14 +29,6 @@ appmenuitem-find-in-page =
     .label = Encontrar en la página…
 appmenuitem-more-tools =
     .label = Más herramientas
-appmenuitem-exit =
-    .label = Salir
-appmenu-menu-button-closed =
-    .tooltiptext = Abrir el menú de la aplicación
-    .label = { -brand-shorter-name }
-appmenu-menu-button-opened =
-    .tooltiptext = Cerrar el menú de la aplicación
-    .label = { -brand-shorter-name }
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
@@ -79,16 +65,12 @@ appmenu-remote-tabs-turn-on-sync =
     .label = Habilitar Sync…
 appmenuitem-fxa-toolbar-sync-now2 = Sincronizar ahora
 appmenuitem-fxa-manage-account = Administrar cuenta
-appmenu-fxa-header =
-    .title = { -fxaccount-brand-name }
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
 appmenu-fxa-last-sync = Última sincronización { $time }
     .label = Última sincronización { $time }
-appmenu-fxa-sync-and-save-data =
-    .value = Sincronizar y guardar datos
 appmenu-fxa-sync-and-save-data2 = Sincronizar y guardar datos
 appmenu-fxa-signed-in-label = Iniciar sesión
 appmenu-fxa-setup-sync =
