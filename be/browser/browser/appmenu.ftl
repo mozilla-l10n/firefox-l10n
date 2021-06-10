@@ -141,6 +141,8 @@ appmenu-restore-session =
     .label = Аднавіць папярэдні сеанс
 appmenu-clear-history =
     .label = Ачысціць нядаўнюю гісторыю…
+appmenu-recently-closed-tabs =
+    .label = Нядаўна закрытыя карткі
 appmenu-recently-closed-windows =
     .label = Нядаўна закрытыя вокны
 
