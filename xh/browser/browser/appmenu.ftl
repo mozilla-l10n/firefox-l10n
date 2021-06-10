@@ -37,28 +37,17 @@ appmenuitem-save-page =
 
 ## History panel
 
+appmenu-recently-closed-tabs =
+    .label = Iithebhu ezivaliweyo kutshanje
 
 ## Help panel
 
 appmenu-about =
     .label = Malunga ne-{ -brand-shorter-name }
     .accesskey = M
-appmenu-help-troubleshooting-info =
-    .label = Inkcazelo yesisombululi-ngxaki
-    .accesskey = I
 appmenu-help-feedback-page =
     .label = Thumela ingxelo…
     .accesskey = T
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Qalisa kwakhona izongezelelo ziqhwalelisiwe…
-    .accesskey = Q
-appmenu-help-safe-mode-with-addons =
-    .label = Qalisa kwakhona izongezelelo ziqhwalelisiwe…
-    .accesskey = Q
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
