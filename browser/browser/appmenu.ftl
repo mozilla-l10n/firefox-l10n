@@ -5,12 +5,6 @@
 
 ## App Menu
 
-appmenuitem-update-banner2 =
-    .label-update-downloading = Downloading { -brand-shorter-name } update
-    .label-update-available = Update available — download now
-    .label-update-manual = Update available — download now
-    .label-update-unsupported = Unable to update
-    .label-update-restart = Update available — restart now
 appmenuitem-update-banner3 =
     .label-update-downloading = Downloading { -brand-shorter-name } update
     .label-update-available = Update available — download now
@@ -23,6 +17,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = New Tab
 appmenuitem-new-window =
     .label = New Window
 appmenuitem-new-private-window =
@@ -35,14 +31,6 @@ appmenuitem-find-in-page =
     .label = Find In Page…
 appmenuitem-more-tools =
     .label = More Tools
-appmenuitem-exit =
-    .label = Exit
-appmenu-menu-button-closed =
-    .tooltiptext = Open Application Menu
-    .label = { -brand-shorter-name }
-appmenu-menu-button-opened =
-    .tooltiptext = Close Application Menu
-    .label = { -brand-shorter-name }
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
@@ -79,16 +67,12 @@ appmenu-remote-tabs-turn-on-sync =
     .label = Turn on Sync…
 appmenuitem-fxa-toolbar-sync-now2 = Sync Now
 appmenuitem-fxa-manage-account = Manage Account
-appmenu-fxa-header =
-    .title = { -fxaccount-brand-name }
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
 appmenu-fxa-last-sync = Last synced { $time }
     .label = Last synced { $time }
-appmenu-fxa-sync-and-save-data =
-    .value = Sync and Save Data
 appmenu-fxa-sync-and-save-data2 = Sync and save data
 appmenu-fxa-signed-in-label = Sign In
 appmenu-fxa-setup-sync =
@@ -153,6 +137,8 @@ appmenu-manage-history =
     .label = Manage History
 appmenu-reopen-all-tabs = Reopen All Tabs
 appmenu-reopen-all-windows = Reopen All Windows
+appmenu-recently-closed-tabs =
+    .label = Recently Closed Tabs
 
 ## Help panel
 
