@@ -46,3 +46,7 @@ openpgp-message-header-signed-ok-icon =
 # Mismatch icon is used for notok state as well
 openpgp-message-header-signed-mismatch-icon =
     .alt = Κακή υπογραφή
+openpgp-message-header-signed-verified-icon =
+    .alt = Επαληθευμένη υπογραφή
+openpgp-message-header-signed-unverified-icon =
+    .alt = Μη επαληθευμένη υπογραφή

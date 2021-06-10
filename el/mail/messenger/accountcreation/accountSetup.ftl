@@ -106,7 +106,13 @@ account-setup-forum-help = Φόρουμ υποστήριξης
 
 ## Results area
 
-account-setup-protocol-title = Επιλέξτε το πρωτόκολλο
+# Variables:
+#  $count (Number) - Number of available protocols.
+account-setup-results-area-title =
+    { $count ->
+        [one] Διαθέσιμη ρύθμιση
+       *[other] Διαθέσιμες ρυθμίσεις
+    }
 # Note: IMAP is the name of a protocol.
 account-setup-result-imap = IMAP
 account-setup-result-imap-description = Διατηρήστε συγχρονισμένους τους φακέλους και τα μηνύματα με τον διακομιστή σας
