@@ -17,6 +17,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Nova lapela
 appmenuitem-new-window =
     .label = Nova xanela
 appmenuitem-new-private-window =
@@ -135,6 +137,14 @@ appmenu-manage-history =
     .label = Xestionar o historial
 appmenu-reopen-all-tabs = Volver abrir todas as lapelas
 appmenu-reopen-all-windows = Volver abrir todas as xanelas
+appmenu-restore-session =
+    .label = Restaurar a sesión anterior
+appmenu-clear-history =
+    .label = Borrar historial recente…
+appmenu-recently-closed-tabs =
+    .label = Lapelas pechadas recentemente
+appmenu-recently-closed-windows =
+    .label = Xanelas pechadas recentemente
 
 ## Help panel
 
