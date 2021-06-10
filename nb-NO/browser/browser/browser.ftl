@@ -181,8 +181,6 @@ page-action-send-tabs-urlbar =
             [one] Send fane til enhet
            *[other] Send { $tabCount } faner til enhet
         }
-page-action-pocket-panel =
-    .label = Lagre side til { -pocket-brand-name }
 page-action-copy-url-panel =
     .label = Kopier lenke
 page-action-copy-url-urlbar =
@@ -439,6 +437,8 @@ popup-select-microphone-device =
     .accesskey = M
 popup-select-microphone-icon =
     .tooltiptext = Mikrofon
+popup-select-speaker-icon =
+    .tooltiptext = Høyttalere
 popup-all-windows-shared = Alle synlige vinduer på skjermen vil deles.
 popup-screen-sharing-not-now =
     .label = Ikke nå
@@ -612,8 +612,6 @@ crashed-subframe-submit =
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = Vis alle bokmerker
 bookmarks-manage-bookmarks =
     .label = Behandle bokmerker
 bookmarks-recent-bookmarks-panel-subheader = Nylige bokmerker
@@ -686,6 +684,12 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = Lagre til { -pocket-brand-name }
     .tooltiptext = Lagre til { -pocket-brand-name }
+
+## Repair text encoding toolbar button
+
+repair-text-encoding-button =
+    .label = Reparer tekstkoding
+    .tooltiptext = Gjett riktig tekstkoding fra sideinnhold
 
 ## Customize Toolbar Buttons
 

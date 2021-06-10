@@ -18,6 +18,12 @@ permissions-session =
 permissions-allow =
     .label = Tillat
     .accesskey = T
+permissions-button-off =
+    .label = Slå av
+    .accesskey = S
+permissions-button-off-temporarily =
+    .label = Slå av midlertidig
+    .accesskey = a
 permissions-site-name =
     .label = Nettsted
 permissions-status =
@@ -58,6 +64,10 @@ permissions-capabilities-listitem-block =
     .value = Blokker
 permissions-capabilities-listitem-allow-session =
     .value = Tillat for programøkten
+permissions-capabilities-listitem-off =
+    .value = Av
+permissions-capabilities-listitem-off-temporarily =
+    .value = Midlertidig av
 
 ## Invalid Hostname Dialog
 
@@ -77,6 +87,12 @@ permissions-exceptions-cookie-window =
     .title = Unntak - Infokapsler og nettstedsdata
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = Du kan spesifisere hvilke nettsteder som alltid eller aldri får bruke infokapsler og nettsteddata.  Skriv inn den eksakte adressen til nettstedet du vil administrere, og klikk deretter Blokker, Tillat for økt, eller Tillat.
+
+## Exceptions - HTTPS-Only Mode
+
+permissions-exceptions-https-only-window =
+    .title = Unntak - kun-HTTPS-modus
+    .style = { permissions-window.style }
 
 ## Exceptions - Pop-ups
 
