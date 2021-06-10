@@ -193,3 +193,5 @@ appmenu-customizetoolbar =
 appmenu-taskmanager =
     .label = Rheolwr Tasgau
 appmenu-developer-tools-subheader = Offer y Porwr
+appmenu-developer-tools-extensions =
+    .label = Estyniadau ar gyfer Datblygwyr
