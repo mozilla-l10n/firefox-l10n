@@ -137,6 +137,8 @@ appmenu-manage-history =
     .label = Gerir l’istoric
 appmenu-reopen-all-tabs = Tornar dobrir totes los onglets
 appmenu-reopen-all-windows = Tornar dobrir totas las fenèstras
+appmenu-recently-closed-windows =
+    .label = Fenèstras tampadas recentament
 
 ## Help panel
 
