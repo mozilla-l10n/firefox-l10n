@@ -47,6 +47,12 @@ toolbar-undelete-button =
     .label = Επαναφορά
     .tooltiptext = Επαναφορά επιλεγμένων μηνυμάτων
 
+## View
+
+menu-view-repair-text-encoding =
+    .label = Επιδιόρθωση κωδικοποίησης κειμένου
+    .accesskey = π
+
 ## View / Layout
 
 mail-uidensity-label =
