@@ -173,6 +173,9 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = Tekstkoding
     .accesskey = T
+menu-view-repair-text-encoding =
+    .label = Reparer tekstkoding
+    .accesskey = e
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -227,6 +230,8 @@ menu-bookmarks-show-all =
     .label = Vis alle bokmerker
 menu-bookmark-this-page =
     .label = Bokmerk denne siden
+menu-bookmarks-manage =
+    .label = Behandle bokmerker
 menu-bookmark-current-tab =
     .label = Bokmerk gjeldende fane
 menu-bookmark-edit =
@@ -254,15 +259,15 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Logg inn på { -brand-product-name }…
     .accesskey = g
+menu-tools-turn-on-sync =
+    .label = Slå på { -sync-brand-short-name }…
+    .accesskey = S
 menu-tools-addons-and-themes =
     .label = Tillegg og temaer
     .accesskey = T
 menu-tools-fxa-sign-in2 =
     .label = Logg inn
     .accesskey = L
-menu-tools-turn-on-sync =
-    .label = Slå på { -sync-brand-short-name }…
-    .accesskey = S
 menu-tools-turn-on-sync2 =
     .label = Slå på synkronisering …
     .accesskey = S
@@ -287,13 +292,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Sideinformasjon
     .accesskey = d
-menu-settings =
-    .label = Innstillinger
-    .accesskey =
-        { PLATFORM() ->
-            [windows] n
-           *[other] n
-        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -304,6 +302,13 @@ menu-preferences =
         { PLATFORM() ->
             [windows] I
            *[other] I
+        }
+menu-settings =
+    .label = Innstillinger
+    .accesskey =
+        { PLATFORM() ->
+            [windows] n
+           *[other] n
         }
 menu-tools-layout-debugger =
     .label = Feilsøk layout
@@ -342,14 +347,12 @@ menu-help-import-from-another-browser =
 menu-help-keyboard-shortcuts =
     .label = Tastatursnarveier
     .accesskey = T
-menu-get-help =
-    .label = Få hjelp
-    .accesskey = F
 menu-help-troubleshooting-info =
     .label = Feilsøking
     .accesskey = F
-menu-help-taskmanager =
-    .label = Aktivitetsbehandler
+menu-get-help =
+    .label = Få hjelp
+    .accesskey = F
 menu-help-more-troubleshooting-info =
     .label = Mer feilsøkingsinformasjon
     .accesskey = M
