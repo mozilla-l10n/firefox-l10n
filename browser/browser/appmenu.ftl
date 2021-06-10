@@ -56,6 +56,11 @@ profiler-popup-edit-settings = Deasaich na roghainnean…
 
 ## History panel
 
+appmenu-restore-session =
+    .label = Aisig an seisean roimhe seo
+appmenu-clear-history =
+    .label = Glan an eachdraidh faisg ort…
+appmenu-recent-history-subheader = Eachdraidh o chionn goirid
 appmenu-recently-closed-tabs =
     .label = Tabaichean a dhùin thu o chionn ghoirid
 appmenu-recently-closed-windows =
