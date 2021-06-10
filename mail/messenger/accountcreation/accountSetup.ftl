@@ -155,6 +155,7 @@ protocol-exchange-option = { account-setup-result-exchange }
 account-setup-hostname-label = Όνομα υπολογιστή:
 account-setup-port-label = Θύρα:
     .title = Ορίστε τον αριθμό θύρας σε 0 για αυτόματη ανίχνευση
+account-setup-auto-description = Το { -brand-short-name } θα προσπαθήσει να εντοπίσει αυτόματα τα πεδία που παραμένουν κενά.
 account-setup-ssl-label = Ασφάλεια σύνδεσης:
 account-setup-outgoing-server-legend = Διακομιστής εξερχομένων
 
@@ -181,8 +182,10 @@ account-setup-insecure-outgoing-title = Ρυθμίσεις εξερχομένω�
 # Variables:
 #  $server (String): The name of the hostname of the server the user was trying to connect to.
 account-setup-warning-cleartext = Το <b>{ $server }</b> δεν χρησιμοποιεί κρυπτογράφηση.
+account-setup-warning-cleartext-details = Οι μη-ασφαλείς διακομιστές email δεν χρησιμοποιούν κρυπτογραφημένες συνδέσεις για την προστασία των κωδικών πρόσβασης και των προσωπικών πληροφοριών σας. Αν συνδεθείτε σε αυτόν τον διακομιστή, οι κωδικοί πρόσβασης και οι προσωπικές σας πληροφορίες ενδέχεται να εκτεθούν.
 account-setup-insecure-server-checkbox = Κατανοώ τους κινδύνους
     .accesskey = τ
+account-setup-insecure-description = Το { -brand-short-name } μπορεί να σας επιτρέψει να κάνετε λήψη των email σας με τις παρεχόμενες ρυθμίσεις. Ωστόσο, θα πρέπει να επικοινωνήσετε με τον διαχειριστή του συστήματος ή τον πάροχο ηλεκτρονικού ταχυδρομείου σας σχετικά με αυτές τις ασυνήθιστες συνδέσεις. Δείτε τις <a data-l10n-name="thunderbird-faq-link">συχνές ερωτήσεις του Thunderbird</a> για περισσότερες πληροφορίες.
 insecure-dialog-cancel-button = Αλλαγή ρυθμίσεων
     .accesskey = ρ
 insecure-dialog-confirm-button = Επιβεβαίωση
@@ -190,6 +193,9 @@ insecure-dialog-confirm-button = Επιβεβαίωση
 
 ## Warning Exchange confirmation dialog
 
+# Variables:
+#  $domain (String): The name of the server where the configuration was found, e.g. rackspace.com.
+exchange-dialog-question = Το { -brand-short-name } βρήκε τις πληροφορίες ρύθμισης του λογαριασμού σας στο { $domain }. Θέλετε να συνεχίσετε και να υποβάλετε τα διαπιστευτήριά σας;
 exchange-dialog-confirm-button = Σύνδεση
 exchange-dialog-cancel-button = Ακύρωση
 
@@ -198,7 +204,10 @@ exchange-dialog-cancel-button = Ακύρωση
 account-setup-creation-error-title = Σφάλμα δημιουργίας λογαριασμού
 account-setup-error-server-exists = Ο διακομιστής εισερχομένων υπάρχει ήδη.
 account-setup-confirm-advanced-title = Επιβεβαίωση σύνθετων ρυθμίσεων
+account-setup-confirm-advanced-description = Αυτό το παράθυρο διαλόγου θα κλείσει και θα δημιουργηθεί ένας λογαριασμός με τις τρέχουσες ρυθμίσεις, ακόμη και αν η ρύθμιση παραμέτρων είναι εσφαλμένη. Θέλετε να συνεχίσετε;
 
 ## Addon installation section
 
 account-setup-addon-install-title = Εγκατάσταση
+account-setup-addon-install-intro = Ένα πρόσθετο τρίτου μπορεί να σας επιτρέψει την πρόσβαση στον λογαριασμό email σας σε αυτό τον διακομιστή:
+account-setup-addon-no-protocol = Αυτός ο διακομιστής email δυστυχώς δεν υποστηρίζει ανοικτά πρωτόκολλα. { account-setup-addon-install-intro }
