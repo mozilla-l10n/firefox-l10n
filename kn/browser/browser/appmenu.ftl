@@ -43,24 +43,11 @@ appmenuitem-save-page =
 appmenu-about =
     .label = About { -brand-shorter-name }
     .accesskey = A
-appmenu-help-troubleshooting-info =
-    .label = Troubleshooting ಮಾಹಿತಿ
-    .accesskey = T
 appmenu-help-report-site-issue =
     .label = ಜಾಲದ ತೊಂದರೆ ವರದಿ ಮಾಡಿ…
 appmenu-help-feedback-page =
     .label = Submit ಅಭಿಪ್ರಾಯ…
     .accesskey = S
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Restart ಆಡ್‌-ಆನ್‌ಗಳನ್ನು ಅಶಕ್ತಗೊಳಿಸಿದ ನಂತರ…
-    .accesskey = R
-appmenu-help-safe-mode-with-addons =
-    .label = Restart ಆಡ್‌-ಆನ್‌ಗಳನ್ನು ಅಶಕ್ತಗೊಳಿಸಿದ ನಂತರ
-    .accesskey = R
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
