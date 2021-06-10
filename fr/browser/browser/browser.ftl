@@ -686,6 +686,12 @@ save-to-pocket-button =
     .label = Enregistrer dans { -pocket-brand-name }
     .tooltiptext = Enregistrer dans { -pocket-brand-name }
 
+## Repair text encoding toolbar button
+
+repair-text-encoding-button =
+    .label = Réparer l’encodage du texte
+    .tooltiptext = Détermine l’encodage correct du texte depuis le contenu de la page
+
 ## Customize Toolbar Buttons
 
 # Variables:
