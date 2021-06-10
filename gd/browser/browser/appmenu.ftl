@@ -10,6 +10,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Taba ùr
 appmenuitem-new-window =
     .label = Uinneag ùr
 appmenuitem-new-private-window =
@@ -54,6 +56,10 @@ profiler-popup-edit-settings = Deasaich na roghainnean…
 
 ## History panel
 
+appmenu-recently-closed-tabs =
+    .label = Tabaichean a dhùin thu o chionn ghoirid
+appmenu-recently-closed-windows =
+    .label = Uinneagan a dhùin thu o chionn ghoirid
 
 ## Help panel
 
