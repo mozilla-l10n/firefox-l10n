@@ -39,6 +39,8 @@ appmenuitem-save-page =
 
 appmenu-recently-closed-tabs =
     .label = ಇತ್ತೀಚೆಗೆ ಮುಚ್ಚಲಾದ ಟ್ಯಾಬ್‌ಗಳು
+appmenu-recently-closed-windows =
+    .label = ಇತ್ತೀಚಿಗೆ ಮುಚ್ಚಲಾದ ಕಿಟಕಿಗಳು
 
 ## Help panel
 
