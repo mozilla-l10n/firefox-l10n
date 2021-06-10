@@ -42,30 +42,21 @@ whatsnew-panel-header = പുതിയതെന്താണ്
 
 ## History panel
 
+appmenu-recently-closed-tabs =
+    .label = അടുത്തിടെ അടച്ച റ്റാബുകള്‍
+appmenu-recently-closed-windows =
+    .label = അടുത്തിടെ അടച്ച ജാലകങ്ങള്‍
 
 ## Help panel
 
 appmenu-about =
     .label = { -brand-shorter-name } സംബന്ധിച്ചു്
     .accesskey = A
-appmenu-help-troubleshooting-info =
-    .label = ട്രബിള്‍ഷൂട്ടിങിനുള്ള വിവരങ്ങള്‍
-    .accesskey = T
 appmenu-help-report-site-issue =
     .label = സൈറ്റ് ഇഷ്യു റിപ്പോർട്ട് ചെയ്യുക…
 appmenu-help-feedback-page =
     .label = അഭിപ്രായം രേഖപ്പെടുത്തുക…
     .accesskey = S
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = ആഡ്-ഓണുകള്‍ പ്രവര്‍ത്തന രഹിതമാക്കി വീണ്ടും ആരംഭിയ്ക്കൂ…
-    .accesskey = R
-appmenu-help-safe-mode-with-addons =
-    .label = ആഡ്-ഓണുകള്‍ പ്രവര്‍ത്തന രഹിതമാക്കി വീണ്ടും ആരംഭിയ്ക്കൂ
-    .accesskey = R
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
