@@ -80,6 +80,7 @@ appmenu-restore-session =
     .label = पिछला सत्र पुनर्बहाल करें
 appmenu-clear-history =
     .label = हालिया इतिहास साफ करें...
+appmenu-recent-history-subheader = ताजा इतिहास
 appmenu-recently-closed-tabs =
     .label = हाल में बंद टैब
 appmenu-recently-closed-windows =
