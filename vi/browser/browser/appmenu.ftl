@@ -193,3 +193,5 @@ appmenu-customizetoolbar =
 appmenu-taskmanager =
     .label = Quản lý tác vụ
 appmenu-developer-tools-subheader = Công cụ của trình duyệt
+appmenu-developer-tools-extensions =
+    .label = Tiện ích mở rộng dành cho nhà phát triển
