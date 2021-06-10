@@ -139,6 +139,7 @@ appmenu-restore-session =
     .label = Obnovi prejšnjo sejo
 appmenu-clear-history =
     .label = Počisti nedavno zgodovino …
+appmenu-recent-history-subheader = Nedavna zgodovina
 appmenu-recently-closed-tabs =
     .label = Nedavno zaprti zavihki
 appmenu-recently-closed-windows =
