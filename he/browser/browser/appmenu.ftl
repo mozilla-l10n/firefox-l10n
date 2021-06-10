@@ -134,8 +134,12 @@ appmenu-manage-history =
     .label = ניהול היסטוריה
 appmenu-reopen-all-tabs = פתיחת כל הלשוניות מחדש
 appmenu-reopen-all-windows = פתיחת כל החלונות מחדש
+appmenu-restore-session =
+    .label = שחזור הפעלה קודמת
 appmenu-recently-closed-tabs =
     .label = לשוניות שנסגרו לאחרונה
+appmenu-recently-closed-windows =
+    .label = חלונות שנסגרו לאחרונה
 
 ## Help panel
 
