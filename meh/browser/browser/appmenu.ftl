@@ -21,8 +21,6 @@ appmenuitem-find-in-page =
     .label = Nánuku nu página
 appmenuitem-more-tools =
     .label = Kue'eka ka̱a̱
-appmenuitem-exit =
-    .label = Kene
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
@@ -47,8 +45,6 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sincronizar ntañu´u
-appmenu-fxa-header =
-    .title = { -fxaccount-brand-name }
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-fxa-signed-in-label = Kajie´e sesión
 appmenuitem-save-page =
