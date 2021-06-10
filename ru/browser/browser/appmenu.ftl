@@ -139,6 +139,8 @@ appmenu-reopen-all-tabs = Снова открыть все вкладки
 appmenu-reopen-all-windows = Снова открыть все окна
 appmenu-recently-closed-tabs =
     .label = Недавно закрытые вкладки
+appmenu-recently-closed-windows =
+    .label = Недавно закрытые окна
 
 ## Help panel
 
