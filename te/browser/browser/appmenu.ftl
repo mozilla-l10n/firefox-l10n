@@ -11,6 +11,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = కొత్త ట్యాబు
 appmenuitem-new-window =
     .label = కొత్త విండో
 appmenuitem-new-private-window =
