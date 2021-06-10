@@ -19,4 +19,4 @@ crashes-submitted-label = Informes de fallos enviados
 date-submitted-heading = Fecha de envío
 view-crash-button-label = Ver
 no-reports-label = No se enviaron informes de problemas.
-no-config-label = Esta aplicación no ha sido configurada para mostrar informes de problemas. La preferencia <code>breakpad.reportURL</code> debe establecerse.
+no-config-label = Esta aplicación no fue configurada para mostrar informes de problemas. La preferencia <code>breakpad.reportURL</code> debe establecerse.

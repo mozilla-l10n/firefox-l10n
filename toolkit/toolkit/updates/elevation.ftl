@@ -12,8 +12,8 @@ elevation-error-manual =
     y descargando la última versión:
 elevation-finished-page = Actualización lista para instalar
 elevation-finished-background-page =
-    Una actualización de seguridad para { -brand-short-name } ha sido
-    descargada y está lista para ser instalada.
+    Una actualización de seguridad para { -brand-short-name } se
+    descargó y está lista para ser instalada.
 elevation-finished-background = Actualización:
 elevation-more-elevated =
     Esta actualización requiere privilegios de administrador. La actualización será
