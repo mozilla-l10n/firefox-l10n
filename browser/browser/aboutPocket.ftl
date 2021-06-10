@@ -15,6 +15,7 @@ pocket-panel-saved-error-generic = Une erreur s’est produite lors de l’enreg
 pocket-panel-saved-error-tag-length = Les étiquettes sont limitées à 25 caractères
 pocket-panel-saved-error-only-links = Seuls les liens peuvent être enregistrés
 pocket-panel-saved-error-not-saved = Page non enregistrée
+pocket-panel-saved-error-no-internet = Vous devez disposer d’une connexion à Internet pour enregistrer des liens dans { -pocket-brand-name }. Veuillez vous connecter à Internet puis réessayer.
 pocket-panel-saved-page-removed = Page supprimée
 pocket-panel-saved-page-saved = Page enregistrée dans { -pocket-brand-name }
 pocket-panel-saved-processing-remove = Suppression de la page…

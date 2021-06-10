@@ -173,6 +173,9 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = Encodage du texte
     .accesskey = E
+menu-view-repair-text-encoding =
+    .label = Réparer l’encodage du texte
+    .accesskey = c
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -254,15 +257,15 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Se connecter à { -brand-product-name }…
     .accesskey = e
+menu-tools-turn-on-sync =
+    .label = Activer { -sync-brand-short-name }…
+    .accesskey = n
 menu-tools-addons-and-themes =
     .label = Extensions et thèmes
     .accesskey = x
 menu-tools-fxa-sign-in2 =
     .label = Connexion
     .accesskey = C
-menu-tools-turn-on-sync =
-    .label = Activer { -sync-brand-short-name }…
-    .accesskey = n
 menu-tools-turn-on-sync2 =
     .label = Activer la synchronisation…
     .accesskey = n
@@ -287,13 +290,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Informations sur la page
     .accesskey = I
-menu-settings =
-    .label = Paramètres
-    .accesskey =
-        { PLATFORM() ->
-            [windows] a
-           *[other] a
-        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -304,6 +300,13 @@ menu-preferences =
         { PLATFORM() ->
             [windows] O
            *[other] f
+        }
+menu-settings =
+    .label = Paramètres
+    .accesskey =
+        { PLATFORM() ->
+            [windows] a
+           *[other] a
         }
 menu-tools-layout-debugger =
     .label = Débogueur de mise en page
