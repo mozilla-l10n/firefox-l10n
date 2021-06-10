@@ -5,12 +5,6 @@
 
 ## App Menu
 
-appmenuitem-update-banner2 =
-    .label-update-downloading = Téléchargement de la mise à jour de { -brand-shorter-name }
-    .label-update-available = Mise à jour disponible — télécharger maintenant
-    .label-update-manual = Mise à jour disponible — télécharger maintenant
-    .label-update-unsupported = Mise à jour impossible
-    .label-update-restart = Mise à jour disponible — redémarrer maintenant
 appmenuitem-update-banner3 =
     .label-update-downloading = Téléchargement de la mise à jour de { -brand-shorter-name }
     .label-update-available = Mise à jour disponible — télécharger maintenant
@@ -35,14 +29,6 @@ appmenuitem-find-in-page =
     .label = Rechercher dans la page…
 appmenuitem-more-tools =
     .label = Outils supplémentaires
-appmenuitem-exit =
-    .label = Quitter
-appmenu-menu-button-closed =
-    .tooltiptext = Ouvrir le menu de l’application
-    .label = { -brand-shorter-name }
-appmenu-menu-button-opened =
-    .tooltiptext = Fermer le menu de l’application
-    .label = { -brand-shorter-name }
 appmenuitem-exit2 =
     .label = Quitter
 appmenu-menu-button-closed2 =
@@ -75,16 +61,12 @@ appmenu-remote-tabs-turn-on-sync =
     .label = Activer la synchronisation…
 appmenuitem-fxa-toolbar-sync-now2 = Synchroniser maintenant
 appmenuitem-fxa-manage-account = Gestion du compte
-appmenu-fxa-header =
-    .title = { -fxaccount-brand-name(capitalization: "uppercase") }
 appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "uppercase") }
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
 appmenu-fxa-last-sync = Dernière synchronisation { $time }
     .label = Dernière synchronisation { $time }
-appmenu-fxa-sync-and-save-data =
-    .value = Synchroniser et enregistrer les données
 appmenu-fxa-sync-and-save-data2 = Synchroniser et enregistrer les données
 appmenu-fxa-signed-in-label = Connexion
 appmenu-fxa-setup-sync =
@@ -149,6 +131,8 @@ appmenu-manage-history =
     .label = Gérer l’historique
 appmenu-reopen-all-tabs = Rouvrir tous les onglets
 appmenu-reopen-all-windows = Rouvrir toutes les fenêtres
+appmenu-recently-closed-tabs =
+    .label = Onglets récemment fermés
 
 ## Help panel
 
