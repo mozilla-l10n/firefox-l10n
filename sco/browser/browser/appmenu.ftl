@@ -17,6 +17,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = New Tab
 appmenuitem-new-window =
     .label = New Windae
 appmenuitem-new-private-window =
@@ -133,6 +135,15 @@ appmenu-manage-history =
     .label = Manage Historie
 appmenu-reopen-all-tabs = Reopen Aw Tabs
 appmenu-reopen-all-windows = Reopen Aw Windaes
+appmenu-restore-session =
+    .label = Restore Previous Session
+appmenu-clear-history =
+    .label = Dicht Recent Historie…
+appmenu-recent-history-subheader = Recent Historie
+appmenu-recently-closed-tabs =
+    .label = Recently Sneckit Tabs
+appmenu-recently-closed-windows =
+    .label = Recently Sneckit Windaes
 
 ## Help panel
 
