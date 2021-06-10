@@ -42,30 +42,23 @@ whatsnew-panel-header = मा गोदान
 
 ## History panel
 
+appmenu-restore-session =
+    .label = आवगयनि जथुम्माखौ लाबोफिन
+appmenu-clear-history =
+    .label = दानि जारिमिनखौ खोमोर...
+appmenu-recently-closed-tabs =
+    .label = बावैसो बन्द खालामनाय टेबफोर
+appmenu-recently-closed-windows =
+    .label = दाबावैसो बन्द खालामनाय उइन्ड'स
 
 ## Help panel
 
 appmenu-about =
     .label = About { -brand-shorter-name }
     .accesskey = A
-appmenu-help-troubleshooting-info =
-    .label = जेंना बोस्रांनाय फोरमायथिहोग्रा
-    .accesskey = T
-appmenu-help-taskmanager =
-    .label = टास्क मेनेजार
 appmenu-help-feedback-page =
     .label = फिनथाइखौ गथाय...
     .accesskey = S
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = लोरबां खालामनाय Add-ons जों जागाय
-    .accesskey = R
-appmenu-help-safe-mode-with-addons =
-    .label = मावथि खालामनाय Add-ons जों जागाय
-    .accesskey = R
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
