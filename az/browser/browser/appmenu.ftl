@@ -5,8 +5,6 @@
 
 ## App Menu
 
-appmenuitem-update-banner =
-    .label-update-downloading = { -brand-shorter-name } yeniləməsi endirilir
 appmenuitem-customize-mode =
     .label = Fərdiləşdir…
 
@@ -49,26 +47,11 @@ appmenuitem-save-page =
 appmenu-about =
     .label = { -brand-shorter-name } Haqqında
     .accesskey = H
-appmenu-help-troubleshooting-info =
-    .label = Problemlərin aradan qaldırılması üzrə məlumatlar
-    .accesskey = P
-appmenu-help-taskmanager =
-    .label = Tapşırıq idarə edicisi
 appmenu-help-report-site-issue =
     .label = Sayt Problemini Bildir…
 appmenu-help-feedback-page =
     .label = Əks əlaqə göndər…
     .accesskey = g
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Əlavələri deaktiv edərək Yenidən başla…
-    .accesskey = Y
-appmenu-help-safe-mode-with-addons =
-    .label = Əlavələri aktiv edərək Yenidən başla
-    .accesskey = Y
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
