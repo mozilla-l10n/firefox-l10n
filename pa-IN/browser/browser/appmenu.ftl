@@ -139,6 +139,7 @@ appmenu-restore-session =
     .label = ਪਿਛਲੇ ਸ਼ੈਸ਼ਨ ਨੂੰ ਮੁੜ-ਸਟੋਰ ਕਰੋ
 appmenu-clear-history =
     .label = …ਤਾਜ਼ੇ ਅਤੀਤ ਨੂੰ ਸਾਫ਼ ਕਰੋ
+appmenu-recent-history-subheader = ਤਾਜ਼ਾ ਅਤੀਤ
 appmenu-recently-closed-tabs =
     .label = ਤਾਜ਼ਾ ਖੋਲ੍ਹੀਆਂ ਟੈਬਾਂ
 appmenu-recently-closed-windows =
