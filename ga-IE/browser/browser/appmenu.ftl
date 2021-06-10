@@ -10,6 +10,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Cluaisín Nua
 appmenuitem-new-window =
     .label = Fuinneog Nua
 appmenuitem-new-private-window =
@@ -42,32 +44,19 @@ whatsnew-panel-header = Gnéithe Nua
 
 ## History panel
 
+appmenu-recently-closed-tabs =
+    .label = Cluaisíní a Dúnadh Le Déanaí
 
 ## Help panel
 
 appmenu-about =
     .label = Maidir le { -brand-shorter-name }
     .accesskey = M
-appmenu-help-troubleshooting-info =
-    .label = Fabhtcheartú
-    .accesskey = t
-appmenu-help-taskmanager =
-    .label = Bainisteoir Tascanna
 appmenu-help-report-site-issue =
     .label = Tuairiscigh Fadhb le Suíomh…
 appmenu-help-feedback-page =
     .label = Seol Aiseolas Chugainn…
     .accesskey = S
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Atosaigh gan aon bhreiseáin…
-    .accesskey = A
-appmenu-help-safe-mode-with-addons =
-    .label = Atosaigh leis na Breiseáin ar siúl…
-    .accesskey = A
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
