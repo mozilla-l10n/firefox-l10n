@@ -39,6 +39,8 @@ appmenuitem-save-page =
 
 ## History panel
 
+appmenu-restore-session =
+    .label = ಹಿಂದಿನ ಅಧಿವೇಶನವನ್ನು ಮರಳಿ ಸ್ಥಾಪಿಸು
 appmenu-clear-history =
     .label = ಇತ್ತೀಚಿನ ಇತಿಹಾಸವನ್ನು ಅಳಿಸಿಹಾಕು…
 appmenu-recently-closed-tabs =
