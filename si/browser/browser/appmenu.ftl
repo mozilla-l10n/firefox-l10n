@@ -43,6 +43,7 @@ appmenu-restore-session =
     .label = පෙර සැසිය ප්‍රතිස්ථාපනය
 appmenu-clear-history =
     .label = මෑත ඉතිහාසය මකන්න...
+appmenu-recent-history-subheader = මෑත ඉතිහාසය
 appmenu-recently-closed-tabs =
     .label = මෑතකදි වැසු ටැබ්
 appmenu-recently-closed-windows =
