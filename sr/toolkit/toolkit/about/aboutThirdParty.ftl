@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 third-party-page-title = Информације о модулу треће стране
+third-party-section-title = Листа модула трећих страна у { -brand-short-name(case: "loc") }
 third-party-header-module-list = Листа модула
 third-party-header-loading-events = Учитавање догађаја
 third-party-message-empty = Модули трећих страна нису пронађени.

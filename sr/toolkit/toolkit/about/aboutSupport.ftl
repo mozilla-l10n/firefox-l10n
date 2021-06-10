@@ -130,6 +130,8 @@ troubleshoot-mode-title = Дијагностика проблема
 restart-in-troubleshoot-mode-label = Режим за решавање проблема…
 clear-startup-cache-title = Покушајте да избришете предмеморију покретања
 clear-startup-cache-label = Избриши предмеморију покретања…
+startup-cache-dialog-title2 = Рестартовати { -brand-short-name(case: "acc") } да бисте обрисали кеш покретања?
+startup-cache-dialog-body2 = Ово неће променити подешавања ни уклонити додатке.
 restart-button-label = Рестартуј
 
 ## Media titles
@@ -409,6 +411,7 @@ support-printing-prefs-value = Вредност
 
 support-remote-experiments-title = Удаљени експерименти
 support-remote-experiments-name = Назив
+support-remote-experiments-branch = Експериментална грана
 support-remote-features-title = Удаљене функције
 support-remote-features-name = Назив
 support-remote-features-status = Статус
