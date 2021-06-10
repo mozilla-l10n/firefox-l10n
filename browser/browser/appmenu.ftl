@@ -5,12 +5,6 @@
 
 ## App Menu
 
-appmenuitem-update-banner2 =
-    .label-update-downloading = { -brand-shorter-name }-update downloaden
-    .label-update-available = Update beschikbaar – nu downloaden
-    .label-update-manual = Update beschikbaar – nu downloaden
-    .label-update-unsupported = Kan niet bijwerken
-    .label-update-restart = Update beschikbaar – nu herstarten
 appmenuitem-update-banner3 =
     .label-update-downloading = { -brand-shorter-name }-update wordt gedownload
     .label-update-available = Update beschikbaar – nu downloaden
@@ -35,14 +29,6 @@ appmenuitem-find-in-page =
     .label = Zoeken op pagina…
 appmenuitem-more-tools =
     .label = Meer hulpmiddelen
-appmenuitem-exit =
-    .label = Afsluiten
-appmenu-menu-button-closed =
-    .tooltiptext = Toepassingsmenu openen
-    .label = { -brand-shorter-name }
-appmenu-menu-button-opened =
-    .tooltiptext = Toepassingsmenu sluiten
-    .label = { -brand-shorter-name }
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
@@ -79,16 +65,12 @@ appmenu-remote-tabs-turn-on-sync =
     .label = Synchronisatie inschakelen…
 appmenuitem-fxa-toolbar-sync-now2 = Nu synchroniseren
 appmenuitem-fxa-manage-account = Account beheren
-appmenu-fxa-header =
-    .title = { -fxaccount-brand-name }
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
 appmenu-fxa-last-sync = Laatst gesynchroniseerd: { $time }
     .label = Laatst gesynchroniseerd: { $time }
-appmenu-fxa-sync-and-save-data =
-    .value = Synchroniseren en gegevens opslaan
 appmenu-fxa-sync-and-save-data2 = Synchroniseren en gegevens opslaan
 appmenu-fxa-signed-in-label = Aanmelden
 appmenu-fxa-setup-sync =
@@ -153,6 +135,8 @@ appmenu-manage-history =
     .label = Geschiedenis beheren
 appmenu-reopen-all-tabs = Alle tabbladen opnieuw openen
 appmenu-reopen-all-windows = Alle vensters opnieuw openen
+appmenu-recently-closed-tabs =
+    .label = Onlangs gesloten tabbladen
 
 ## Help panel
 
