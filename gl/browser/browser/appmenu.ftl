@@ -141,6 +141,7 @@ appmenu-restore-session =
     .label = Restaurar a sesión anterior
 appmenu-clear-history =
     .label = Borrar historial recente…
+appmenu-recent-history-subheader = Historial recente
 appmenu-recently-closed-tabs =
     .label = Lapelas pechadas recentemente
 appmenu-recently-closed-windows =
