@@ -137,6 +137,15 @@ appmenu-manage-history =
     .label = Gerir Histórico
 appmenu-reopen-all-tabs = Reabrir todos os separadores
 appmenu-reopen-all-windows = Reabrir todas as janelas
+appmenu-restore-session =
+    .label = Restaurar sessão anterior
+appmenu-clear-history =
+    .label = Limpar histórico recente…
+appmenu-recent-history-subheader = Histórico recente
+appmenu-recently-closed-tabs =
+    .label = Separadores fechados recentemente
+appmenu-recently-closed-windows =
+    .label = Janelas fechadas recentemente
 
 ## Help panel
 
