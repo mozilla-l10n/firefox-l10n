@@ -117,6 +117,7 @@ appmenu-restore-session =
     .label = Възстановяване на предишна сесия
 appmenu-clear-history =
     .label = Изчистване на скорошна история…
+appmenu-recent-history-subheader = Скорошна история
 appmenu-recently-closed-tabs =
     .label = Последно затворени раздели
 appmenu-recently-closed-windows =
