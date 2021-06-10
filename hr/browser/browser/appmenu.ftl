@@ -135,6 +135,7 @@ appmenu-manage-history =
     .label = Upravljanje poviješću
 appmenu-reopen-all-tabs = Ponovno otvori sve kartice
 appmenu-reopen-all-windows = Ponovno otvori sve prozore
+appmenu-recent-history-subheader = Nedavna povijest
 appmenu-recently-closed-tabs =
     .label = Nedavno zatvorene kartice
 appmenu-recently-closed-windows =
