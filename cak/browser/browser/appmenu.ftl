@@ -135,6 +135,9 @@ appmenu-manage-history =
     .label = Tinuk'samajïx Natab'äl
 appmenu-reopen-all-tabs = Kejaq Chik Ronojel Ruwi'
 appmenu-reopen-all-windows = Kejaq Chik Ronojel Taq Tzuwäch
+appmenu-restore-session =
+    .label = Titzolin pa ri molojri'ïl xik'o
+appmenu-recent-history-subheader = K'ak'a' Natab'äl
 appmenu-recently-closed-windows =
     .label = Taq k'ajtz'ib' k'a b'a' etz'apin
 
