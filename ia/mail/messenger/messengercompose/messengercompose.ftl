@@ -44,6 +44,9 @@ pill-action-move-cc =
 pill-action-move-bcc =
     .label = Mover a Ccn
     .accesskey = n
+pill-action-expand-list =
+    .label = Expander lista
+    .accesskey = x
 
 # Attachment widget
 
