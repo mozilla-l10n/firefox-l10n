@@ -10,6 +10,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = புதிய கீற்று
 appmenuitem-new-window =
     .label = புதிய சாளரம்
 appmenuitem-new-private-window =
@@ -38,6 +40,15 @@ whatsnew-panel-header = புதியவை என்ன
 
 ## History panel
 
+appmenu-restore-session =
+    .label = முந்தைய அமர்வுக்கு மீட்டமை
+appmenu-clear-history =
+    .label = சமீபத்திய வரலாற்றைத் துடை...
+appmenu-recent-history-subheader = சமீபத்திய வரலாறு
+appmenu-recently-closed-tabs =
+    .label = சமீபத்தில் மூடப்பட்ட கீற்றுகள்
+appmenu-recently-closed-windows =
+    .label = சமீபத்தில் மூடப்பட்ட சாளரங்கள்
 
 ## Help panel
 
