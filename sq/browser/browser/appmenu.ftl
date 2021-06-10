@@ -5,12 +5,6 @@
 
 ## App Menu
 
-appmenuitem-update-banner2 =
-    .label-update-downloading = Shkarkim përditësimi { -brand-shorter-name }
-    .label-update-available = Ka përditësim gati — shkarkojeni tani
-    .label-update-manual = Ka përditësim gati — shkarkojeni tani
-    .label-update-unsupported = S’arrihet të përditësohet
-    .label-update-restart = Ka përditësim gati — riniseni tani
 appmenuitem-update-banner3 =
     .label-update-downloading = Po shkarkohet përditësim { -brand-shorter-name }-i
     .label-update-available = Përditësim gati — shkarkojeni që tani
@@ -23,6 +17,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Skedë e Re
 appmenuitem-new-window =
     .label = Dritare e Re
 appmenuitem-new-private-window =
@@ -35,14 +31,6 @@ appmenuitem-find-in-page =
     .label = Gjeni Në Faqe…
 appmenuitem-more-tools =
     .label = Më Tepër Mjete
-appmenuitem-exit =
-    .label = Dilni
-appmenu-menu-button-closed =
-    .tooltiptext = Hap Menu Aplikacionesh
-    .label = { -brand-shorter-name }
-appmenu-menu-button-opened =
-    .tooltiptext = Mbyll Menu Aplikacionesh
-    .label = { -brand-shorter-name }
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
@@ -79,16 +67,12 @@ appmenu-remote-tabs-turn-on-sync =
     .label = Aktivizoni Sync-un…
 appmenuitem-fxa-toolbar-sync-now2 = Njëkohësoji Tani
 appmenuitem-fxa-manage-account = Administroni Llogari
-appmenu-fxa-header =
-    .title = { -fxaccount-brand-name }
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
 appmenu-fxa-last-sync = Njëkohësuar së fundi më { $time }
     .label = Njëkohësuar së fundi më { $time }
-appmenu-fxa-sync-and-save-data =
-    .value = Njëkohëso dhe Ruaj të Dhëna
 appmenu-fxa-sync-and-save-data2 = Njëkohëso dhe Ruaj të Dhëna
 appmenu-fxa-signed-in-label = Hyni
 appmenu-fxa-setup-sync =
