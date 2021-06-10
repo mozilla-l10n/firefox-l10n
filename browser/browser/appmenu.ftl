@@ -17,6 +17,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Nouvel onglet
 appmenuitem-new-window =
     .label = Nouvelle fenêtre
 appmenuitem-new-private-window =
@@ -135,6 +137,7 @@ appmenu-restore-session =
     .label = Restaurer la session précédente
 appmenu-clear-history =
     .label = Effacer l’historique récent…
+appmenu-recent-history-subheader = Historique récent
 appmenu-recently-closed-tabs =
     .label = Onglets récemment fermés
 appmenu-recently-closed-windows =
@@ -186,3 +189,5 @@ appmenu-customizetoolbar =
 appmenu-taskmanager =
     .label = Gestionnaire de tâches
 appmenu-developer-tools-subheader = Outils du navigateur
+appmenu-developer-tools-extensions =
+    .label = Extensions de développement
