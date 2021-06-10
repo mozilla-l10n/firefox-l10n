@@ -5,12 +5,6 @@
 
 ## App Menu
 
-appmenuitem-update-banner2 =
-    .label-update-downloading = Pobieranie aktualizacji programu { -brand-shorter-name }
-    .label-update-available = Aktualizacja jest dostępna — pobierz teraz
-    .label-update-manual = Aktualizacja jest dostępna — pobierz teraz
-    .label-update-unsupported = Nie można uaktualnić
-    .label-update-restart = Aktualizacja jest dostępna — uruchom ponownie
 appmenuitem-update-banner3 =
     .label-update-downloading = Pobieranie aktualizacji programu { -brand-shorter-name }
     .label-update-available = Aktualizacja jest dostępna — pobierz teraz
@@ -35,14 +29,6 @@ appmenuitem-find-in-page =
     .label = Znajdź na stronie…
 appmenuitem-more-tools =
     .label = Więcej narzędzi
-appmenuitem-exit =
-    .label = Zakończ
-appmenu-menu-button-closed =
-    .tooltiptext = Otwórz menu aplikacji
-    .label = { -brand-shorter-name }
-appmenu-menu-button-opened =
-    .tooltiptext = Zamknij menu aplikacji
-    .label = { -brand-shorter-name }
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
@@ -79,16 +65,12 @@ appmenu-remote-tabs-turn-on-sync =
     .label = Włącz synchronizację…
 appmenuitem-fxa-toolbar-sync-now2 = Synchronizuj teraz
 appmenuitem-fxa-manage-account = Zarządzaj kontem
-appmenu-fxa-header =
-    .title = { -fxaccount-brand-name }
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
 appmenu-fxa-last-sync = Ostatnia synchronizacja: { $time }
     .label = Ostatnia synchronizacja: { $time }
-appmenu-fxa-sync-and-save-data =
-    .value = Synchronizuj i zachowuj dane
 appmenu-fxa-sync-and-save-data2 = Synchronizuj i zachowuj dane
 appmenu-fxa-signed-in-label = Zaloguj się
 appmenu-fxa-setup-sync =
@@ -153,6 +135,8 @@ appmenu-manage-history =
     .label = Zarządzaj historią
 appmenu-reopen-all-tabs = Przywróć wszystkie karty
 appmenu-reopen-all-windows = Przywróć wszystkie okna
+appmenu-recently-closed-tabs =
+    .label = Ostatnio zamknięte karty
 
 ## Help panel
 
