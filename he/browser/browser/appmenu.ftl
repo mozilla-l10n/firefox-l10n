@@ -5,12 +5,6 @@
 
 ## App Menu
 
-appmenuitem-update-banner2 =
-    .label-update-downloading = בתהליך הורדת עדכון ל־{ -brand-shorter-name }
-    .label-update-available = עדכון זמין — הורדה כעת
-    .label-update-manual = עדכון זמין — הורדה כעת
-    .label-update-unsupported = לא ניתן לעדכן
-    .label-update-restart = עדכון זמין — הפעלה מחדש כעת
 appmenuitem-update-banner3 =
     .label-update-downloading = בתהליך הורדת עדכון ל־{ -brand-shorter-name }
     .label-update-available = עדכון זמין — הורדה כעת
@@ -23,6 +17,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = לשונית חדשה
 appmenuitem-new-window =
     .label = חלון חדש
 appmenuitem-new-private-window =
@@ -35,14 +31,6 @@ appmenuitem-find-in-page =
     .label = חיפוש בדף…
 appmenuitem-more-tools =
     .label = כלים נוספים
-appmenuitem-exit =
-    .label = יציאה
-appmenu-menu-button-closed =
-    .tooltiptext = פתיחת תפריט היישום
-    .label = { -brand-shorter-name }
-appmenu-menu-button-opened =
-    .tooltiptext = סגירת תפריט היישום
-    .label = { -brand-shorter-name }
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
@@ -79,16 +67,12 @@ appmenu-remote-tabs-turn-on-sync =
     .label = הפעלת סנכרון…
 appmenuitem-fxa-toolbar-sync-now2 = סנכרון כעת
 appmenuitem-fxa-manage-account = ניהול חשבון
-appmenu-fxa-header =
-    .title = { -fxaccount-brand-name(case: "a") }
 appmenu-fxa-header2 = { -fxaccount-brand-name(case: "a") }
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
 appmenu-fxa-last-sync = סונכרן לאחרונה { $time }
     .label = סונכרן לאחרונה { $time }
-appmenu-fxa-sync-and-save-data =
-    .value = סנכרון ושמירת נתונים
 appmenu-fxa-sync-and-save-data2 = סנכרון ושמירת נתונים
 appmenu-fxa-signed-in-label = כניסה
 appmenu-fxa-setup-sync =
@@ -150,6 +134,8 @@ appmenu-manage-history =
     .label = ניהול היסטוריה
 appmenu-reopen-all-tabs = פתיחת כל הלשוניות מחדש
 appmenu-reopen-all-windows = פתיחת כל החלונות מחדש
+appmenu-recently-closed-tabs =
+    .label = לשוניות שנסגרו לאחרונה
 
 ## Help panel
 
