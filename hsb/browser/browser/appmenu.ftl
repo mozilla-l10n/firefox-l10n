@@ -193,3 +193,5 @@ appmenu-customizetoolbar =
 appmenu-taskmanager =
     .label = Zrjadowak nadawkow
 appmenu-developer-tools-subheader = Graty wobhladowaka
+appmenu-developer-tools-extensions =
+    .label = Rozšěrjenja za wuwiwarjow
