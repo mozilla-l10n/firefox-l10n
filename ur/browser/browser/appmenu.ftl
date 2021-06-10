@@ -74,6 +74,7 @@ appmenu-restore-session =
     .label = پچھلا سیشن بحال کریں
 appmenu-clear-history =
     .label = حالیہ سابقات خالی کریں…
+appmenu-recent-history-subheader = حالیہ سابقات
 appmenu-recently-closed-tabs =
     .label = حالیہ بند کیے گئے ٹیب
 appmenu-recently-closed-windows =
