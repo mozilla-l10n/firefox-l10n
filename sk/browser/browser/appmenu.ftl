@@ -139,6 +139,7 @@ appmenu-restore-session =
     .label = Obnoviť poslednú reláciu
 appmenu-clear-history =
     .label = Vymazať nedávnu históriu…
+appmenu-recent-history-subheader = Nedávna história
 appmenu-recently-closed-tabs =
     .label = Nedávno zatvorené karty
 appmenu-recently-closed-windows =
