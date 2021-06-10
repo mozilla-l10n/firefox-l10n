@@ -17,6 +17,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Nove scheda
 appmenuitem-new-window =
     .label = Nove fenestra
 appmenuitem-new-private-window =
@@ -133,6 +135,15 @@ appmenu-manage-history =
     .label = Gerer le chronologia
 appmenu-reopen-all-tabs = Reaperir tote le schedas
 appmenu-reopen-all-windows = Reaperir tote le fenestras
+appmenu-restore-session =
+    .label = Restaurar le session previe
+appmenu-clear-history =
+    .label = Vacuar le chronologia recente…
+appmenu-recent-history-subheader = Chronologia recente
+appmenu-recently-closed-tabs =
+    .label = Schedas claudite recentemente
+appmenu-recently-closed-windows =
+    .label = Fenestras claudite recentemente
 
 ## Help panel
 
