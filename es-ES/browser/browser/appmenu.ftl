@@ -139,6 +139,8 @@ appmenu-reopen-all-tabs = Reabrir todas las pestañas
 appmenu-reopen-all-windows = Reabrir todas las ventanas
 appmenu-recently-closed-tabs =
     .label = Pestañas cerradas recientemente
+appmenu-recently-closed-windows =
+    .label = Ventanas cerradas recientemente
 
 ## Help panel
 
