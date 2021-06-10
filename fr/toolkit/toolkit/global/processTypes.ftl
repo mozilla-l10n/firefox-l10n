@@ -31,6 +31,8 @@ process-type-prealloc = Préalloué
 ## Localization for Gecko process types defined in GeckoProcessTypes.h
 ##
 
+process-type-default = Principal
+process-type-tab = Onglet
 # process used to communicate with the GPU for
 # graphics acceleration
 process-type-gpu = GPU
@@ -43,3 +45,5 @@ process-type-rdd = RDD
 ## Other
 ##
 
+# fallback
+process-type-unknown = Inconnu
