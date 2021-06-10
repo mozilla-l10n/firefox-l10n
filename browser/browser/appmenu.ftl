@@ -10,6 +10,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = thebhu entsha
 appmenuitem-new-window =
     .label = Ifestile entsha
 appmenuitem-new-private-window =
@@ -37,8 +39,14 @@ appmenuitem-save-page =
 
 ## History panel
 
+appmenu-restore-session =
+    .label = Buyisela Iseshini yangaPhambili
+appmenu-clear-history =
+    .label = Susa iMbali Yakutshanje…
 appmenu-recently-closed-tabs =
     .label = Iithebhu ezivaliweyo kutshanje
+appmenu-recently-closed-windows =
+    .label = Iifestile ezivalwe kutshanje
 
 ## Help panel
 
