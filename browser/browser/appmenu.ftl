@@ -137,6 +137,10 @@ appmenu-reopen-all-tabs = Reabrir todas as abas
 appmenu-reopen-all-windows = Reabrir todas as janelas
 appmenu-restore-session =
     .label = Restaurar sessão anterior
+appmenu-recently-closed-tabs =
+    .label = Abas fechadas recentemente
+appmenu-recently-closed-windows =
+    .label = Janelas fechadas recentemente
 
 ## Help panel
 
