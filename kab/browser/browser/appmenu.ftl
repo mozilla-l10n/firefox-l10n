@@ -137,6 +137,10 @@ appmenu-manage-history =
     .label = Sefre azray
 appmenu-reopen-all-tabs = Ales tawaledyawt n meṛṛa accaren
 appmenu-reopen-all-windows = Ales tawaledyawt n meṛṛa isfuyla
+appmenu-restore-session =
+    .label = Err-d tiɣimit yezrin
+appmenu-recently-closed-tabs =
+    .label = Accaren imedlen melmi kan
 appmenu-recently-closed-windows =
     .label = Isfuyla imedlen melmi kan
 
