@@ -294,6 +294,8 @@ openpgp-keygen-external-success = Το εξωτερικό αναγνωριστι
 openpgp-radio-none =
     .label = Κανένα
 openpgp-radio-none-desc = Να μην χρησιμοποιηθεί OpenPGP για αυτή την ταυτότητα.
+openpgp-radio-key-not-accepted = Για να χρησιμοποιήσετε αυτό το κλειδί θα πρέπει να το εγκρίνετε ως προσωπικό κλειδί!
+openpgp-radio-key-not-found = Δεν ήταν δυνατή η εύρεση του κλειδιού! Εάν θέλετε να το χρησιμοποιήσετε, πρέπει να το εισαγάγετε στο { -brand-short-name }.
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = Λήγει στις: { $date }
 openpgp-key-expires-image =
@@ -449,18 +451,13 @@ openpgp-export-secret-fail = <b>Δεν ήταν δυνατή η εξαγωγή �
 # Strings in keyObj.jsm
 key-ring-pub-key-revoked = Το κλειδί { $userId } (αναγνωριστικό κλειδιού { $keyId }) είναι ανακλημένο.
 key-ring-pub-key-expired = Το κλειδί { $userId } (αναγνωριστικό κλειδιού { $keyId }) έχει λήξει.
-key-ring-key-disabled = Το κλειδί { $userId } (αναγνωριστικό κλειδιού { $keyId }) είναι απενεργοποιημένο· δεν μπορεί να χρησιμοποιηθεί.
-key-ring-key-invalid = Το κλειδί { $userId } (αναγνωριστικό κλειδιού { $keyId }) δεν είναι έγκυρο. Εξετάστε αν μπορείτε να το επαληθεύσετε σωστά.
-key-ring-key-not-trusted = Το κλειδί { $userId } (αναγνωριστικό κλειδιού { $keyId }) δεν είναι αρκετά αξιόπιστο. Ορίστε το επίπεδο εμπιστοσύνης του κλειδιού σας σε "απόλυτο" για να το χρησιμοποιήσετε για υπογραφή.
 key-ring-no-secret-key = Φαίνεται να μην έχετε το μυστικό κλειδί για { $userId } (αναγνωριστικό κλειδιού { $keyId }) στο αποθετήριο κλειδιών σας· δεν μπορείτε να χρησιμοποιήσετε το κλειδί για υπογραφή.
 key-ring-pub-key-not-for-signing = Το κλειδί { $userId } (αναγνωριστικό κλειδιού { $keyId }) δεν μπορεί να χρησιμοποιηθεί για υπογραφή.
 key-ring-pub-key-not-for-encryption = Το κλειδί { $userId } (αναγνωριστικό κλειδιού { $keyId }) δεν μπορεί να χρησιμοποιηθεί για κρυπτογράφηση.
 key-ring-sign-sub-keys-revoked = Ανακαλούνται όλα τα υποκλειδιά υπογραφής του κλειδιού { $userId } (αναγνωριστικό κλειδιού { $keyId }).
 key-ring-sign-sub-keys-expired = Όλα τα υποκλειδιά υπογραφής του κλειδιού { $userId } (αναγνωριστικό κλειδιού { $keyId }) έχουν λήξει.
-key-ring-sign-sub-keys-unusable = Όλα τα υποκλειδιά υπογραφής του κλειδιού { $userId } (αναγνωριστικό κλειδιού { $keyId }) έχουν ανακληθεί, λήξει ή δεν μπορούν να χρησιμοποιηθούν με άλλο τρόπο.
 key-ring-enc-sub-keys-revoked = Όλα τα υποκλειδιά κρυπτογράφησης του κλειδιού { $userId } (αναγνωριστικό κλειδιού { $keyId }) έχουν ανακληθεί.
 key-ring-enc-sub-keys-expired = Όλα τα υποκλειδιά κρυπτογράφησης του κλειδιού { $userId } (αναγνωριστικό κλειδιού { $keyId }) έχουν λήξει.
-key-ring-enc-sub-keys-unusable = Όλα τα υποκλειδιά κρυπτογράφησης του κλειδιού { $userId } (αναγνωριστικό κλειδιού { $keyId }) έχουν ανακληθεί, λήξει ή δεν μπορούν να χρησιμοποιηθούν με άλλο τρόπο.
 # Strings in gnupg-keylist.jsm
 keyring-photo = Φωτογραφία
 user-att-photo = Χαρακτηριστικό χρήστη (εικόνα JPEG)

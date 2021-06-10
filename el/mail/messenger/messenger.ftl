@@ -109,3 +109,6 @@ message-header-address-not-in-address-book-icon =
 addon-removal-title = Αφαίρεση του { $name };
 addon-removal-confirmation-button = Αφαίρεση
 addon-removal-confirmation-message = Αφαίρεση του { $name }, των ρυθμίσεων και των δεδομένων του από το { -brand-short-name };
+repair-text-encoding-button =
+    .label = Επιδιόρθωση κωδικοποίησης κειμένου
+    .tooltiptext = Υπόθεση σωστής κωδικοποίησης κειμένου από το περιεχόμενο του μηνύματος
