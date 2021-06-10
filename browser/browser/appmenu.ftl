@@ -37,6 +37,8 @@ appmenuitem-save-page =
 
 ## History panel
 
+appmenu-recently-closed-tabs =
+    .label = ಇತ್ತೀಚೆಗೆ ಮುಚ್ಚಲಾದ ಟ್ಯಾಬ್‌ಗಳು
 
 ## Help panel
 
