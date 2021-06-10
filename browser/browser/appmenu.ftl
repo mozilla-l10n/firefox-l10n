@@ -48,6 +48,7 @@ appmenu-restore-session =
     .label = Artir Yillannde Ɓennunde
 appmenu-clear-history =
     .label = Momtu Aslol Sakketol…
+appmenu-recent-history-subheader = Aslol Cakkitiingol
 appmenu-recently-closed-tabs =
     .label = Tabbe Uddaaɗe Sakket
 appmenu-recently-closed-windows =
