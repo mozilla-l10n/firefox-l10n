@@ -17,6 +17,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Nova langeto
 appmenuitem-new-window =
     .label = Nova fenestro
 appmenuitem-new-private-window =
@@ -133,6 +135,14 @@ appmenu-manage-history =
     .label = Administri historion
 appmenu-reopen-all-tabs = Remalfermi ĉiujn langetojn
 appmenu-reopen-all-windows = Remalfermi ĉiujn fenestrojn
+appmenu-restore-session =
+    .label = Restarigi antaŭan seancon
+appmenu-clear-history =
+    .label = Viŝi ĵusan historion…
+appmenu-recently-closed-tabs =
+    .label = Antaŭ nelonge fermitaj langetoj
+appmenu-recently-closed-windows =
+    .label = Antaŭ nelonge fermitaj fenestroj
 
 ## Help panel
 
