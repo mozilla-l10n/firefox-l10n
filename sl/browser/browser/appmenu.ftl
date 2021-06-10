@@ -17,6 +17,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Nov zavihek
 appmenuitem-new-window =
     .label = Novo okno
 appmenuitem-new-private-window =
@@ -133,6 +135,14 @@ appmenu-manage-history =
     .label = Upravljanje zgodovine
 appmenu-reopen-all-tabs = Ponovno odpri vse zavihke
 appmenu-reopen-all-windows = Ponovno odpri vsa okna
+appmenu-restore-session =
+    .label = Obnovi prejšnjo sejo
+appmenu-clear-history =
+    .label = Počisti nedavno zgodovino …
+appmenu-recently-closed-tabs =
+    .label = Nedavno zaprti zavihki
+appmenu-recently-closed-windows =
+    .label = Nedavno zaprta okna
 
 ## Help panel
 
