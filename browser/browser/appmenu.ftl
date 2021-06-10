@@ -5,42 +5,26 @@
 
 ## App Menu
 
-appmenuitem-update-banner =
-    .label-update-downloading = ينزّل تحديث { -brand-shorter-name }
-appmenuitem-update-banner2 =
-    .label-update-downloading = ينزّل تحديث { -brand-shorter-name }
-    .label-update-available = هناك تحديث متاح — نزّله الآن
-    .label-update-manual = هناك تحديث متاح — نزّله الآن
-    .label-update-unsupported = لا يمكنك التحديث
-    .label-update-restart = هناك تحديث متاح — أعِد التشغيل الآن
 appmenuitem-protection-dashboard-title = لوحة الحمايات
 appmenuitem-customize-mode =
     .label = خصّص…
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = لسان جديد
 appmenuitem-new-window =
     .label = نافذة جديدة
 appmenuitem-new-private-window =
     .label = نافذة خاصة جديدة
 appmenuitem-passwords =
     .label = كلمات السر
-appmenuitem-extensions-and-themes =
-    .label = الامتدادات والسمات
 appmenuitem-addons-and-themes =
     .label = الإضافات والسمات
 appmenuitem-find-in-page =
     .label = ابحث في الصفحة…
 appmenuitem-more-tools =
     .label = أدوات أكثر
-appmenuitem-exit =
-    .label = اخرُج
-appmenu-menu-button-closed =
-    .tooltiptext = افتح قائمة التطبيق
-    .label = { -brand-shorter-name }
-appmenu-menu-button-opened =
-    .tooltiptext = أغلِق قائمة التطبيق
-    .label = { -brand-shorter-name }
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
@@ -77,16 +61,12 @@ appmenu-remote-tabs-turn-on-sync =
     .label = فعّل المزامنة…
 appmenuitem-fxa-toolbar-sync-now2 = زامِن الآن
 appmenuitem-fxa-manage-account = أدِر الحساب
-appmenu-fxa-header =
-    .title = { -fxaccount-brand-name }
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
 appmenu-fxa-last-sync = كانت آخر مزامنة { $time }
     .label = كانت آخر مزامنة { $time }
-appmenu-fxa-sync-and-save-data =
-    .value = زامِن واحفظ البيانات
 appmenu-fxa-sync-and-save-data2 = زامِن واحفظ البيانات
 appmenu-fxa-signed-in-label = لِج
 appmenu-fxa-setup-sync =
@@ -160,11 +140,6 @@ appmenu-about =
 appmenu-get-help =
     .label = احصل على مُساعدة
     .accesskey = س
-appmenu-help-troubleshooting-info =
-    .label = معلومات مواجهة الأعطال
-    .accesskey = ط
-appmenu-help-taskmanager =
-    .label = مدير المهام
 appmenu-help-more-troubleshooting-info =
     .label = معلومات أكثر عن مواجهة الأعطال
     .accesskey = ه
@@ -173,16 +148,6 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = أرسِل تعليقًا…
     .accesskey = ر
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = أعِد التشغيل مع تعطيل الإضافات…
-    .accesskey = ش
-appmenu-help-safe-mode-with-addons =
-    .label = أعِد التشغيل مع تفعيل الإضافات
-    .accesskey = ش
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
