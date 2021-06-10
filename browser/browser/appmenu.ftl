@@ -5,14 +5,14 @@
 
 ## App Menu
 
-appmenuitem-update-banner =
-    .label-update-downloading = Se ye descargando l'actualización de { -brand-shorter-name }
 appmenuitem-protection-dashboard-title = Taulero de proteccions
 appmenuitem-customize-mode =
     .label = Personalizar…
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Nueva pestanya
 appmenuitem-new-window =
     .label = Nueva finestra
 appmenuitem-new-private-window =
@@ -50,32 +50,25 @@ whatsnew-panel-footer-checkbox =
 
 ## History panel
 
+appmenu-restore-session =
+    .label = Recuperar a sesión anterior
+appmenu-clear-history =
+    .label = Borrar o historial recient…
+appmenu-recently-closed-tabs =
+    .label = Pestanyas zarradas en zagueras
+appmenu-recently-closed-windows =
+    .label = Finestras zarradas en zagueras
 
 ## Help panel
 
 appmenu-about =
     .label = Arredol d'o { -brand-shorter-name }
     .accesskey = d
-appmenu-help-troubleshooting-info =
-    .label = Información pa solucionar problemas
-    .accesskey = f
-appmenu-help-taskmanager =
-    .label = Chestor de quefers
 appmenu-help-report-site-issue =
     .label = Reportar un problema con o puesto…
 appmenu-help-feedback-page =
     .label = Ninviar una opinión…
     .accesskey = v
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Reiniciar con os complementos desactivaus…
-    .accesskey = R
-appmenu-help-safe-mode-with-addons =
-    .label = Reiniciar con os complementos activaus
-    .accesskey = R
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
