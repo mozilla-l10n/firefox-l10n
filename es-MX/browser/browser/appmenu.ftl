@@ -17,6 +17,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Nueva pestaña
 appmenuitem-new-window =
     .label = Nueva ventana
 appmenuitem-new-private-window =
@@ -136,6 +138,10 @@ appmenu-manage-history =
     .label = Administrar historial
 appmenu-reopen-all-tabs = Reabrir todas las pestañas
 appmenu-reopen-all-windows = Reabrir todas las ventanas
+appmenu-restore-session =
+    .label = Restaurar la sesión anterior
+appmenu-clear-history =
+    .label = Borrar el historial reciente…
 appmenu-recently-closed-tabs =
     .label = Pestañas cerradas recientemente
 appmenu-recently-closed-windows =
