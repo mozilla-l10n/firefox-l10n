@@ -41,6 +41,8 @@ appmenuitem-save-page =
 
 appmenu-recently-closed-tabs =
     .label = Nýlega lokaðir flipar
+appmenu-recently-closed-windows =
+    .label = Nýlega lokaðir gluggar
 
 ## Help panel
 
