@@ -137,8 +137,14 @@ appmenu-manage-history =
     .label = Behandle historikk
 appmenu-reopen-all-tabs = Åpne alle faner på nytt
 appmenu-reopen-all-windows = Åpne alle vinduer på nytt
+appmenu-restore-session =
+    .label = Gjenopprett forrige programøkt
+appmenu-clear-history =
+    .label = Tøm nylig historikk …
 appmenu-recently-closed-tabs =
     .label = Nylig lukkede faner
+appmenu-recently-closed-windows =
+    .label = Nylig lukkede vinduer
 
 ## Help panel
 
