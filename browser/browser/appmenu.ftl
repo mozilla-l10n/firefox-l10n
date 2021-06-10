@@ -139,6 +139,8 @@ appmenu-reopen-all-tabs = Znovu otevřít všechny panely
 appmenu-reopen-all-windows = Znovu otevřít všechna okna
 appmenu-recently-closed-tabs =
     .label = Naposledy zavřené panely
+appmenu-recently-closed-windows =
+    .label = Naposledy zavřená okna
 
 ## Help panel
 
