@@ -135,6 +135,8 @@ appmenu-manage-history =
     .label = Управљај историјом
 appmenu-reopen-all-tabs = Поново отвори све картице
 appmenu-reopen-all-windows = Поново отвори све прозоре
+appmenu-recently-closed-windows =
+    .label = Недавно затворени прозори
 
 ## Help panel
 
