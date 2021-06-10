@@ -17,6 +17,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Nieuw tabblad
 appmenuitem-new-window =
     .label = Nieuw venster
 appmenuitem-new-private-window =
@@ -191,3 +193,5 @@ appmenu-customizetoolbar =
 appmenu-taskmanager =
     .label = Taakbeheerder
 appmenu-developer-tools-subheader = Browserhulpmidelen
+appmenu-developer-tools-extensions =
+    .label = Extensies voor ontwikkelaars
