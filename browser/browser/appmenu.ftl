@@ -42,6 +42,10 @@ whatsnew-panel-header = പുതിയതെന്താണ്
 
 ## History panel
 
+appmenu-restore-session =
+    .label = മുമ്പുള്ള സെഷന്‍ വീണ്ടെടുക്കുക
+appmenu-clear-history =
+    .label = ഏറ്റവും പുതിയ നാള്‍വഴി വെടിപ്പാക്കുക…
 appmenu-recently-closed-tabs =
     .label = അടുത്തിടെ അടച്ച റ്റാബുകള്‍
 appmenu-recently-closed-windows =
