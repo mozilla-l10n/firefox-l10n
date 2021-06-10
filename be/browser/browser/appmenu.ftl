@@ -135,6 +135,8 @@ appmenu-manage-history =
     .label = Кіраванне гісторыяй
 appmenu-reopen-all-tabs = Перааадкрыць усе карткі
 appmenu-reopen-all-windows = Перааадкрыць усе вокны
+appmenu-clear-history =
+    .label = Ачысціць нядаўнюю гісторыю…
 
 ## Help panel
 
