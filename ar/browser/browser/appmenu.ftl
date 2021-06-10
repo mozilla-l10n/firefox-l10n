@@ -185,3 +185,5 @@ appmenu-customizetoolbar =
 appmenu-taskmanager =
     .label = مدير المهام
 appmenu-developer-tools-subheader = أدوات المتصفّح
+appmenu-developer-tools-extensions =
+    .label = الامتدادات التي تخصّ المطوّرين
