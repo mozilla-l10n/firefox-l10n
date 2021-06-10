@@ -17,6 +17,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = K'ak'a' Ruwi'
 appmenuitem-new-window =
     .label = K'ak'a' tzuwäch
 appmenuitem-new-private-window =
@@ -137,7 +139,11 @@ appmenu-reopen-all-tabs = Kejaq Chik Ronojel Ruwi'
 appmenu-reopen-all-windows = Kejaq Chik Ronojel Taq Tzuwäch
 appmenu-restore-session =
     .label = Titzolin pa ri molojri'ïl xik'o
+appmenu-clear-history =
+    .label = Tiyuj K'ak'a' Natab'äl…
 appmenu-recent-history-subheader = K'ak'a' Natab'äl
+appmenu-recently-closed-tabs =
+    .label = Taq Ruwi' k'a b'a' Ketz'apïx
 appmenu-recently-closed-windows =
     .label = Taq k'ajtz'ib' k'a b'a' etz'apin
 
@@ -187,3 +193,5 @@ appmenu-customizetoolbar =
 appmenu-taskmanager =
     .label = Kinuk'samajel taq Samaj
 appmenu-developer-tools-subheader = Rusamajib'al Okik'amaya'l
+appmenu-developer-tools-extensions =
+    .label = Kik'amal B'anonela'
