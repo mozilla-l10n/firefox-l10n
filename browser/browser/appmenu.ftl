@@ -137,6 +137,8 @@ appmenu-reopen-all-tabs = Obnoviť všetky karty
 appmenu-reopen-all-windows = Obnoviť všetky okná
 appmenu-recently-closed-tabs =
     .label = Nedávno zatvorené karty
+appmenu-recently-closed-windows =
+    .label = Nedávno zatvorené okná
 
 ## Help panel
 
