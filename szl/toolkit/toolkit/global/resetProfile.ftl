@@ -12,3 +12,4 @@ refresh-profile-remove = Twoje rozszyrzynia i włosne sztalōnki bydōm skasowan
 refresh-profile-restore = Sztalōnki przeglōndarki wrōcōm do bazowych
 refresh-profile = Napasuj aplikacyjo { -brand-short-name }
 refresh-profile-button = Ôdświyż aplikacyjo { -brand-short-name }…
+refresh-profile-learn-more = Przewiydz sie wiyncyj
