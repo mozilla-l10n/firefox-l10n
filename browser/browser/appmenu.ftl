@@ -5,8 +5,6 @@
 
 ## App Menu
 
-appmenuitem-update-banner =
-    .label-update-downloading = { -brand-shorter-name }i uuenduse allalaadimine
 appmenuitem-protection-dashboard-title = Kaitsete koondpaneel
 appmenuitem-customize-mode =
     .label = Kohanda...
@@ -50,32 +48,18 @@ whatsnew-panel-footer-checkbox =
 
 ## History panel
 
+appmenu-recent-history-subheader = Hiljutine ajalugu
 
 ## Help panel
 
 appmenu-about =
     .label = { -brand-shorter-name }i teave
     .accesskey = e
-appmenu-help-troubleshooting-info =
-    .label = Probleemide lahendamise teave
-    .accesskey = P
-appmenu-help-taskmanager =
-    .label = Tegumihaldur
 appmenu-help-report-site-issue =
     .label = Anna teada saidil olevast veast…
 appmenu-help-feedback-page =
     .label = Anna tagasisidet…
     .accesskey = A
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Taaskäivita koos lisade keelamisega…
-    .accesskey = T
-appmenu-help-safe-mode-with-addons =
-    .label = Taaskäivita koos lisade lubamisega
-    .accesskey = T
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
