@@ -227,6 +227,8 @@ menu-bookmarks-show-all =
     .label = Afichar totes los marcapaginas
 menu-bookmark-this-page =
     .label = Marcar aquesta pagina
+menu-bookmarks-manage =
+    .label = Gerir los marcapaginas
 menu-bookmark-current-tab =
     .label = Marcar l’onglet actual
 menu-bookmark-edit =
@@ -254,15 +256,15 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Se connectar a { -brand-product-name }…
     .accesskey = c
+menu-tools-turn-on-sync =
+    .label = Activar { -sync-brand-short-name }
+    .accesskey = a
 menu-tools-addons-and-themes =
     .label = Moduls complementaris e tèmas
     .accesskey = M
 menu-tools-fxa-sign-in2 =
     .label = Se connectar
     .accesskey = c
-menu-tools-turn-on-sync =
-    .label = Activar { -sync-brand-short-name }
-    .accesskey = a
 menu-tools-turn-on-sync2 =
     .label = Activar la sincronizacion…
     .accesskey = n
@@ -287,13 +289,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Informacion sus la pagina
     .accesskey = I
-menu-settings =
-    .label = Paramètres
-    .accesskey =
-        { PLATFORM() ->
-            [windows] P
-           *[other] m
-        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -304,6 +299,13 @@ menu-preferences =
         { PLATFORM() ->
             [windows] O
            *[other] f
+        }
+menu-settings =
+    .label = Paramètres
+    .accesskey =
+        { PLATFORM() ->
+            [windows] P
+           *[other] m
         }
 menu-tools-layout-debugger =
     .label = Desbugador de disposicion
@@ -342,14 +344,12 @@ menu-help-import-from-another-browser =
 menu-help-keyboard-shortcuts =
     .label = Acorchis de clavièr
     .accesskey = c
-menu-get-help =
-    .label = Obténer d’ajuda
-    .accesskey = O
 menu-help-troubleshooting-info =
     .label = Informacions de depanatge
     .accesskey = d
-menu-help-taskmanager =
-    .label = Gestionari de tascas
+menu-get-help =
+    .label = Obténer d’ajuda
+    .accesskey = O
 menu-help-more-troubleshooting-info =
     .label = Mai d’informacions de reparacion
     .accesskey = M

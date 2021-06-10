@@ -181,8 +181,6 @@ page-action-send-tabs-urlbar =
             [one] Enviar l’onglet a un periferic
            *[other] Enviar { $tabCount } onglets al periferic
         }
-page-action-pocket-panel =
-    .label = Salvar la pagina dins { -pocket-brand-name }
 page-action-copy-url-panel =
     .label = Copiar lo ligam
 page-action-copy-url-urlbar =
@@ -442,6 +440,8 @@ popup-select-microphone-device =
     .accesskey = M
 popup-select-microphone-icon =
     .tooltiptext = Microfòn
+popup-select-speaker-icon =
+    .tooltiptext = Naut-parlaires
 popup-all-windows-shared = L'ensemble de las fenèstras visiblas sus vòstre ecran seràn partejadas.
 popup-screen-sharing-not-now =
     .label = Pas ara
@@ -615,8 +615,6 @@ crashed-subframe-submit =
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = Afichar totes los marcapaginas
 bookmarks-manage-bookmarks =
     .label = Gerir los marcapaginas
 bookmarks-recent-bookmarks-panel-subheader = Marcapaginas recents
@@ -689,6 +687,9 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = Enregistrar dins { -pocket-brand-name }
     .tooltiptext = Enregistrar dins { -pocket-brand-name }
+
+## Repair text encoding toolbar button
+
 
 ## Customize Toolbar Buttons
 
