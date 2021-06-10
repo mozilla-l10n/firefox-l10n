@@ -11,6 +11,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Sukua jíía
 appmenuitem-new-window =
     .label = Ventana jíía
 appmenuitem-new-private-window =
