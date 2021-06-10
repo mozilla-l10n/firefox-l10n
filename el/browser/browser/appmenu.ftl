@@ -141,6 +141,7 @@ appmenu-restore-session =
     .label = Επαναφορά προηγούμενης συνεδρίας
 appmenu-clear-history =
     .label = Εκκαθάριση πρόσφατου ιστορικού…
+appmenu-recent-history-subheader = Πρόσφατο ιστορικό
 appmenu-recently-closed-tabs =
     .label = Πρόσφατα κλεισμένες καρτέλες
 appmenu-recently-closed-windows =
