@@ -42,6 +42,10 @@ whatsnew-panel-header = नवीन काय आहे
 
 ## History panel
 
+appmenu-recently-closed-tabs =
+    .label = अलिकडील बंद केलेले टॅब्स
+appmenu-recently-closed-windows =
+    .label = अलिकडील बंद खिडकी
 
 ## Help panel
 
