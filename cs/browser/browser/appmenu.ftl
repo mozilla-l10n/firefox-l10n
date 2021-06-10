@@ -5,18 +5,6 @@
 
 ## App Menu
 
-appmenuitem-update-banner2 =
-    .label-update-downloading =
-        Stahování aktualizace { -brand-shorter-name.gender ->
-            [masculine] { -brand-shorter-name(case: "gen") }
-            [feminine] { -brand-shorter-name(case: "gen") }
-            [neuter] { -brand-shorter-name(case: "gen") }
-           *[other] { "" }
-        }
-    .label-update-available = Nová aktualizace — stáhnout
-    .label-update-manual = Nová aktualizace — stáhnout
-    .label-update-unsupported = Nelze nainstalovat novou aktualizaci
-    .label-update-restart = Nová aktualizace — restartovat
 appmenuitem-update-banner3 =
     .label-update-downloading =
         Stahování aktualizace { -brand-shorter-name.gender ->
@@ -35,6 +23,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Nový panel
 appmenuitem-new-window =
     .label = Nové okno
 appmenuitem-new-private-window =
@@ -47,14 +37,6 @@ appmenuitem-find-in-page =
     .label = Najít na stránce…
 appmenuitem-more-tools =
     .label = Další nástroje
-appmenuitem-exit =
-    .label = Ukončit
-appmenu-menu-button-closed =
-    .tooltiptext = Otevře nabídku aplikace
-    .label = { -brand-shorter-name }
-appmenu-menu-button-opened =
-    .tooltiptext = Zavře nabídku aplikace
-    .label = { -brand-shorter-name }
 appmenuitem-exit2 =
     .label = Ukončit
 appmenu-menu-button-closed2 =
@@ -87,16 +69,12 @@ appmenu-remote-tabs-turn-on-sync =
     .label = Zapnout synchronizaci…
 appmenuitem-fxa-toolbar-sync-now2 = Synchronizovat
 appmenuitem-fxa-manage-account = Správa účtu
-appmenu-fxa-header =
-    .title = { -fxaccount-brand-name }
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
 appmenu-fxa-last-sync = Naposledy synchronizováno { $time }
     .label = Naposledy synchronizováno { $time }
-appmenu-fxa-sync-and-save-data =
-    .value = Synchronizace a ukládání dat
 appmenu-fxa-sync-and-save-data2 = Synchronizace a ukládání dat
 appmenu-fxa-signed-in-label = Přihlásit se
 appmenu-fxa-setup-sync =
@@ -159,6 +137,8 @@ appmenu-manage-history =
     .label = Správa historie
 appmenu-reopen-all-tabs = Znovu otevřít všechny panely
 appmenu-reopen-all-windows = Znovu otevřít všechna okna
+appmenu-recently-closed-tabs =
+    .label = Naposledy zavřené panely
 
 ## Help panel
 
