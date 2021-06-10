@@ -41,6 +41,8 @@ appmenuitem-save-page =
 
 appmenu-recently-closed-tabs =
     .label = Onlangs gesluite oortjies
+appmenu-recently-closed-windows =
+    .label = Onlangs gesluite vensters
 
 ## Help panel
 
