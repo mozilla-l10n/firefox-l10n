@@ -139,6 +139,7 @@ appmenu-reopen-all-tabs = Mở lại tất cả các thẻ
 appmenu-reopen-all-windows = Mở lại tất cả các cửa sổ
 appmenu-restore-session =
     .label = Khôi phục phiên làm việc trước
+appmenu-recent-history-subheader = Lịch sử gần đây
 appmenu-recently-closed-tabs =
     .label = Thẻ mới đóng gần đây
 appmenu-recently-closed-windows =
