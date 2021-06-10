@@ -5,12 +5,6 @@
 
 ## App Menu
 
-appmenuitem-update-banner2 =
-    .label-update-downloading = Дар ҳоли боргирии навсозии { -brand-shorter-name }
-    .label-update-available = Навсозӣ дастрас аст — ҳозир боргирӣ кунед
-    .label-update-manual = Навсозӣ дастрас аст — ҳозир боргирӣ кунед
-    .label-update-unsupported = Навсозӣ карда намешавад
-    .label-update-restart = Навсозӣ дастрас аст — ҳозир аз нав оғоз кунед
 appmenuitem-update-banner3 =
     .label-update-downloading = Навсозии { -brand-shorter-name } боргирӣ шуда истодааст
     .label-update-available = Навсозӣ дастрас аст — ҳозир боргирӣ кунед
@@ -23,6 +17,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Варақаи нав
 appmenuitem-new-window =
     .label = Равзанаи нав
 appmenuitem-new-private-window =
@@ -35,14 +31,6 @@ appmenuitem-find-in-page =
     .label = Ҷустуҷӯ дар саҳифа…
 appmenuitem-more-tools =
     .label = Абзорҳои бештар
-appmenuitem-exit =
-    .label = Баромад
-appmenu-menu-button-closed =
-    .tooltiptext = Кушодани менюи барномаҳо
-    .label = { -brand-shorter-name }
-appmenu-menu-button-opened =
-    .tooltiptext = Пӯшидани менюи барномаҳо
-    .label = { -brand-shorter-name }
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
@@ -79,16 +67,12 @@ appmenu-remote-tabs-turn-on-sync =
     .label = Фаъол кардани ҳамоҳангсозӣ…
 appmenuitem-fxa-toolbar-sync-now2 = Ҳозир ҳамоҳанг кунед
 appmenuitem-fxa-manage-account = Идоракунии ҳисоб
-appmenu-fxa-header =
-    .title = { -fxaccount-brand-name }
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
 appmenu-fxa-last-sync = Ҳамоҳангсозии охирин { $time }
     .label = Ҳамоҳангсозии охирин { $time }
-appmenu-fxa-sync-and-save-data =
-    .value = Ҳамоҳангсозӣ ва нигоҳ доштани маълумот
 appmenu-fxa-sync-and-save-data2 = Ҳамоҳангсозӣ ва нигоҳ доштани маълумот
 appmenu-fxa-signed-in-label = Ворид шудан
 appmenu-fxa-setup-sync =
@@ -153,6 +137,15 @@ appmenu-manage-history =
     .label = Идоракунии таърих
 appmenu-reopen-all-tabs = Аз нав кушодани ҳамаи варақаҳо
 appmenu-reopen-all-windows = Аз нав кушодани ҳамаи равзанаҳо
+appmenu-restore-session =
+    .label = Барқарор кардани ҷаласаи қаблӣ
+appmenu-clear-history =
+    .label = Пок кардани таърихи охирин…
+appmenu-recent-history-subheader = Таърихи охирин
+appmenu-recently-closed-tabs =
+    .label = Варақаҳои ба наздикӣ пӯшидашуда
+appmenu-recently-closed-windows =
+    .label = Равзанаҳои ба наздикӣ пӯшидашуда
 
 ## Help panel
 
@@ -200,3 +193,5 @@ appmenu-customizetoolbar =
 appmenu-taskmanager =
     .label = Мудири вазифаҳо
 appmenu-developer-tools-subheader = Абзорҳои браузер
+appmenu-developer-tools-extensions =
+    .label = Васеъшавиҳо барои барномасозон
