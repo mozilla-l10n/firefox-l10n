@@ -17,6 +17,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Tendayke pyahu
 appmenuitem-new-window =
     .label = Ovetã pyahu
 appmenuitem-new-private-window =
@@ -135,6 +137,13 @@ appmenu-manage-history =
     .label = Tembiasakue ñangareko
 appmenu-reopen-all-tabs = Embojurujajey opaite tendayke
 appmenu-reopen-all-windows = Embojurujajey opaite ovetã
+appmenu-clear-history =
+    .label = Tembiasakue ramovéva ñemopotĩ…
+appmenu-recent-history-subheader = Tembiasakue ramovéva
+appmenu-recently-closed-tabs =
+    .label = Tendayke oñembotyramóva
+appmenu-recently-closed-windows =
+    .label = Ovetã oñembotyramóva
 
 ## Help panel
 
