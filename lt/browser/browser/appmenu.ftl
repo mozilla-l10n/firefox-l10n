@@ -191,3 +191,5 @@ appmenu-customizetoolbar =
 appmenu-taskmanager =
     .label = Užduočių tvarkytuvė
 appmenu-developer-tools-subheader = Naršyklės įrankiai
+appmenu-developer-tools-extensions =
+    .label = Priedai programuotojams
