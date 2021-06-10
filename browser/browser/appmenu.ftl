@@ -5,12 +5,6 @@
 
 ## App Menu
 
-appmenuitem-update-banner2 =
-    .label-update-downloading = Llwytho diweddariad { -brand-shorter-name } i lawr
-    .label-update-available = Diweddariad ar gael — llwythwch i lawr nawr
-    .label-update-manual = Diweddariad ar gael — llwythwch i lawr nawr
-    .label-update-unsupported = Methu diweddaru
-    .label-update-restart = Diweddariad ar gael — ail gychwynnwch nawr
 appmenuitem-update-banner3 =
     .label-update-downloading = Yn llwytho diweddariad { -brand-shorter-name } i lawr
     .label-update-available = Mae diweddariad ar gael — llwytho i lawr nawr
@@ -23,6 +17,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Tab Newydd
 appmenuitem-new-window =
     .label = Ffenestr Newydd
 appmenuitem-new-private-window =
@@ -35,14 +31,6 @@ appmenuitem-find-in-page =
     .label = Canfod ar Dudalen…
 appmenuitem-more-tools =
     .label = Rhagor o Offer
-appmenuitem-exit =
-    .label = Gadael
-appmenu-menu-button-closed =
-    .tooltiptext = Agor Dewislen y Rhaglen
-    .label = { -brand-shorter-name }
-appmenu-menu-button-opened =
-    .tooltiptext = Cau Dewislen y Rhaglen
-    .label = { -brand-shorter-name }
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
@@ -79,16 +67,12 @@ appmenu-remote-tabs-turn-on-sync =
     .label = Cychwyn Sync…
 appmenuitem-fxa-toolbar-sync-now2 = Cydweddu Nawr
 appmenuitem-fxa-manage-account = Rheoli Cyfrif
-appmenu-fxa-header =
-    .title = { -fxaccount-brand-name }
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
 appmenu-fxa-last-sync = Cydweddwyd diwethaf { $time }
     .label = Cydweddwyd diwethaf { $time }
-appmenu-fxa-sync-and-save-data =
-    .value = Cydweddu a Chadw Data
 appmenu-fxa-sync-and-save-data2 = Cydweddu a chadw data
 appmenu-fxa-signed-in-label = Mewngofnodi
 appmenu-fxa-setup-sync =
@@ -153,6 +137,8 @@ appmenu-manage-history =
     .label = Rheoli Hanes
 appmenu-reopen-all-tabs = Ailagor Pob Tab
 appmenu-reopen-all-windows = Ailagor Pob Ffenestr
+appmenu-recently-closed-tabs =
+    .label = Tabiau Wedi eu Cau'n Ddiweddar
 
 ## Help panel
 
