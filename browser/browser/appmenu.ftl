@@ -141,6 +141,7 @@ appmenu-restore-session =
     .label = Adfer y Sesiwn Flaenorol
 appmenu-clear-history =
     .label = Clirio Hanes Diweddar…
+appmenu-recent-history-subheader = Hanes Diweddar
 appmenu-recently-closed-tabs =
     .label = Tabiau Wedi eu Cau'n Ddiweddar
 appmenu-recently-closed-windows =
