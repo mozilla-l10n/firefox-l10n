@@ -11,6 +11,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Жаңа бет
 appmenuitem-new-window =
     .label = Жаңа терезе
 appmenuitem-new-private-window =
@@ -23,14 +25,6 @@ appmenuitem-find-in-page =
     .label = Беттен табу…
 appmenuitem-more-tools =
     .label = Көбірек саймандар
-appmenuitem-exit =
-    .label = Шығу
-appmenu-menu-button-closed =
-    .tooltiptext = Қолданбалар мәзірін ашу
-    .label = { -brand-shorter-name }
-appmenu-menu-button-opened =
-    .tooltiptext = Қолданбалар мәзірін жабу
-    .label = { -brand-shorter-name }
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
@@ -67,16 +61,12 @@ appmenu-remote-tabs-turn-on-sync =
     .label = Синхрондауды іске қосу…
 appmenuitem-fxa-toolbar-sync-now2 = Қазір синхрондау
 appmenuitem-fxa-manage-account = Тіркелгіні басқару
-appmenu-fxa-header =
-    .title = { -fxaccount-brand-name }
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
 appmenu-fxa-last-sync = Соңғы синхрондалу { $time }
     .label = Соңғы синхрондалу { $time }
-appmenu-fxa-sync-and-save-data =
-    .value = Деректерді синхрондау және сақтау
 appmenu-fxa-sync-and-save-data2 = Деректерді синхрондау және сақтау
 appmenu-fxa-signed-in-label = Кіру
 appmenu-fxa-setup-sync =
@@ -141,6 +131,10 @@ appmenu-manage-history =
     .label = Тарихты басқару
 appmenu-reopen-all-tabs = Барлық беттерді қайта ашу
 appmenu-reopen-all-windows = Барлық терезелерді қайта ашу
+appmenu-recently-closed-tabs =
+    .label = Жақында жабылған беттер
+appmenu-recently-closed-windows =
+    .label = Жақында жабылған терезелер
 
 ## Help panel
 
