@@ -137,6 +137,8 @@ appmenu-reopen-all-tabs = Įkelti visas korteles
 appmenu-reopen-all-windows = Įkelti visus langus
 appmenu-recently-closed-tabs =
     .label = Paskiausiai užvertos kortelės
+appmenu-recently-closed-windows =
+    .label = Paskiausiai užverti langai
 
 ## Help panel
 
