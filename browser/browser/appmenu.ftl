@@ -137,7 +137,13 @@ appmenu-reopen-all-tabs = Tüm sekmeleri yeniden aç
 appmenu-reopen-all-windows = Tüm pencereleri yeniden aç
 appmenu-restore-session =
     .label = Önceki oturumu geri yükle
+appmenu-clear-history =
+    .label = Yakın geçmişi temizle…
 appmenu-recent-history-subheader = Yakın geçmiş
+appmenu-recently-closed-tabs =
+    .label = Son kapatılan sekmeler
+appmenu-recently-closed-windows =
+    .label = Son kapatılan pencereler
 
 ## Help panel
 
