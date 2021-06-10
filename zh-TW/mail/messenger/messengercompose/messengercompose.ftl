@@ -43,6 +43,9 @@ pill-action-move-cc =
 pill-action-move-bcc =
     .label = 移到密件副本
     .accesskey = b
+pill-action-expand-list =
+    .label = 展開清單
+    .accesskey = x
 
 # Attachment widget
 

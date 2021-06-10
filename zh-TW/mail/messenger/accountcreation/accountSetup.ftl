@@ -106,7 +106,12 @@ account-setup-forum-help = 技術支援討論區
 
 ## Results area
 
-account-setup-protocol-title = 選擇通訊協定
+# Variables:
+#  $count (Number) - Number of available protocols.
+account-setup-results-area-title =
+    { $count ->
+       *[other] 可用設定
+    }
 # Note: IMAP is the name of a protocol.
 account-setup-result-imap = IMAP
 account-setup-result-imap-description = 與您的伺服器同步信件匣與郵件
