@@ -46,6 +46,10 @@ upgrade-dialog-pin-secondary-button = Не зараз
 upgrade-dialog-default-title = Зрабіць { -brand-short-name } вашым прадвызначаным браўзерам?
 upgrade-dialog-default-subtitle = Атрымайце хуткасць, бяспеку і прыватнасць пры кожным праглядзе.
 upgrade-dialog-default-primary-button = Зрабіць прадвызначаным браўзерам
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title-2 = Зрабіць { -brand-short-name } прадвызначаным
+upgrade-dialog-default-subtitle-2 = Пастаўце на аўтапілот хуткасць, бяспеку і прыватнасць.
+upgrade-dialog-default-primary-button-2 = Зрабіць прадвызначаным браўзерам
 upgrade-dialog-default-secondary-button = Не зараз
 
 ## Theme selection screen
@@ -54,6 +58,8 @@ upgrade-dialog-default-secondary-button = Не зараз
 upgrade-dialog-theme-title =
     Пачніце з чыстага ліста
     з абноўленай тэмай
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-theme-title-2 = Пачніце з чыстага ліста з выразнай тэмай
 upgrade-dialog-theme-system = Сістэмная тэма
     .title = Выкарыстоўваць тэму аперацыйнай сістэмы для кнопак, меню і акон
 upgrade-dialog-theme-light = Светлая
