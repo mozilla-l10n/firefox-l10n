@@ -5,12 +5,6 @@
 
 ## App Menu
 
-appmenuitem-update-banner2 =
-    .label-update-downloading = Ĝisdatigo de { -brand-shorter-name } elŝutata
-    .label-update-available = Ĝisdatigo disponebla — elŝuti nun
-    .label-update-manual = Ĝisdatigo disponebla — elŝuti nun
-    .label-update-unsupported = Ne eblas elŝuti la ĝisdatigon
-    .label-update-restart = Ĝisdatigo disponebla — restartigi nun
 appmenuitem-update-banner3 =
     .label-update-downloading = Ĝisdatigo de { -brand-shorter-name } elŝutata
     .label-update-available = Ĝisdatigo disponebla — elŝuti nun
@@ -35,14 +29,6 @@ appmenuitem-find-in-page =
     .label = Serĉi en la paĝo…
 appmenuitem-more-tools =
     .label = Pli da iloj
-appmenuitem-exit =
-    .label = Fini
-appmenu-menu-button-closed =
-    .tooltiptext = Malfermi menuon de programo
-    .label = { -brand-shorter-name }
-appmenu-menu-button-opened =
-    .tooltiptext = Fermi menuon de programo
-    .label = { -brand-shorter-name }
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
@@ -79,16 +65,12 @@ appmenu-remote-tabs-turn-on-sync =
     .label = Ŝalti Speguladon…
 appmenuitem-fxa-toolbar-sync-now2 = Speguli nun
 appmenuitem-fxa-manage-account = Administri konton
-appmenu-fxa-header =
-    .title = { -fxaccount-brand-name }
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
 appmenu-fxa-last-sync = Laste spegulita: { $time }
     .label = Laste spegulita: { $time }
-appmenu-fxa-sync-and-save-data =
-    .value = Speguli kaj konservi datumojn
 appmenu-fxa-sync-and-save-data2 = Speguli kaj konservi datumojn
 appmenu-fxa-signed-in-label = Komenci seancon
 appmenu-fxa-setup-sync =
