@@ -193,3 +193,5 @@ appmenu-customizetoolbar =
 appmenu-taskmanager =
     .label = ამოცანათა მმართველი
 appmenu-developer-tools-subheader = ბრაუზერის ხელსაწყოები
+appmenu-developer-tools-extensions =
+    .label = Extensions for Developers
