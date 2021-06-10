@@ -88,6 +88,8 @@ appmenu-restore-session =
 appmenu-clear-history =
     .label = Burahin ang Kasaysayan
 appmenu-recent-history-subheader = Nakaraang Kasaysayan
+appmenu-recently-closed-tabs =
+    .label = Mga Naisarang Tab
 appmenu-recently-closed-windows =
     .label = Mga Bagong Sarang Window
 
