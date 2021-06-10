@@ -53,6 +53,9 @@ about-processes-process-name = Процес { $pid }: { $name }
 ## Variables:
 ##    $pid (String) The process id of this process, assigned by the OS.
 
+about-processes-web-process = Дељени веб-процес ({ $pid })
+about-processes-file-process = Датотеке ({ $pid })
+about-processes-extension-process = Додаци ({ $pid })
 about-processes-rdd-process = Декодер података ({ $pid })
 about-processes-socket-process = Мрежа ({ $pid })
 
