@@ -139,6 +139,7 @@ appmenu-restore-session =
     .label = Pulihkan Sesi Sebelumnya
 appmenu-clear-history =
     .label = Bersihkan Riwayat Terakhir
+appmenu-recent-history-subheader = Riwayat Terakhir
 appmenu-recently-closed-tabs =
     .label = Tab yang Baru Saja Ditutup
 appmenu-recently-closed-windows =
