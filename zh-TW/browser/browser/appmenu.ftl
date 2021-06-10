@@ -137,6 +137,8 @@ appmenu-reopen-all-tabs = 回復所有分頁
 appmenu-reopen-all-windows = 回復所有視窗
 appmenu-recently-closed-tabs =
     .label = 最近關閉的分頁
+appmenu-recently-closed-windows =
+    .label = 最近關閉的視窗
 
 ## Help panel
 
