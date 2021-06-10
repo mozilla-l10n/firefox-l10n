@@ -60,6 +60,8 @@ profiler-popup-edit-settings = Editează setările…
 
 ## History panel
 
+appmenu-restore-session =
+    .label = Restaurează sesiunea anterioară
 appmenu-clear-history =
     .label = Șterge istoricul recent…
 appmenu-recently-closed-tabs =
