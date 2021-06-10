@@ -44,6 +44,12 @@ whatsnew-panel-header = નવું શું છે
 
 ## History panel
 
+appmenu-restore-session =
+    .label = પહેલાનાં સત્રને પુન:સંગ્રહો
+appmenu-clear-history =
+    .label = તાજેતરનાં ઇતિહાસને સાફ કરો…
+appmenu-recently-closed-windows =
+    .label = છેલ્લે બંધ થયેલ વિન્ડો
 
 ## Help panel
 
