@@ -10,6 +10,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Drica matidi manyen
 appmenuitem-new-window =
     .label = Dirica manyen
 appmenuitem-new-private-window =
@@ -47,6 +49,14 @@ whatsnew-panel-footer-checkbox =
 
 ## History panel
 
+appmenu-restore-session =
+    .label = Dwok kare ma okato ni
+appmenu-clear-history =
+    .label = Jwa gin mukato cokki…
+appmenu-recently-closed-tabs =
+    .label = Dirica matino ma kiloro cokki
+appmenu-recently-closed-windows =
+    .label = Dirica ma kiloro cokki
 
 ## Help panel
 
