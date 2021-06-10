@@ -42,32 +42,19 @@ whatsnew-panel-header = Yangi xususiyatlar
 
 ## History panel
 
+appmenu-recently-closed-windows =
+    .label = Yaqinda yopilgan oynalar
 
 ## Help panel
 
 appmenu-about =
     .label = { -brand-shorter-name } haqida
     .accesskey = h
-appmenu-help-troubleshooting-info =
-    .label = Nosozlik ma’lumoti
-    .accesskey = N
-appmenu-help-taskmanager =
-    .label = Vazifa menejeri
 appmenu-help-report-site-issue =
     .label = Saytdagi muammo haqida xabar berish
 appmenu-help-feedback-page =
     .label = Mulohaza bildirish
     .accesskey = b
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Qo‘sh. dasturlarni o‘chirib, qayta ishga tushirish
-    .accesskey = q
-appmenu-help-safe-mode-with-addons =
-    .label = Qo‘sh. dasturlarni yoqib, qayta ishga tushirish
-    .accesskey = q
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
