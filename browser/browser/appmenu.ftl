@@ -5,12 +5,6 @@
 
 ## App Menu
 
-appmenuitem-update-banner2 =
-    .label-update-downloading = { -brand-shorter-name }-Update wird heruntergeladen
-    .label-update-available = Update verfügbar – jetzt herunterladen
-    .label-update-manual = Update verfügbar – jetzt herunterladen
-    .label-update-unsupported = Update nicht möglich
-    .label-update-restart = Update verfügbar – jetzt neu starten
 appmenuitem-update-banner3 =
     .label-update-downloading = { -brand-shorter-name }-Update wird heruntergeladen
     .label-update-available = Update verfügbar – jetzt herunterladen
@@ -23,6 +17,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Neuer Tab
 appmenuitem-new-window =
     .label = ­Neues Fenster
 appmenuitem-new-private-window =
@@ -35,14 +31,6 @@ appmenuitem-find-in-page =
     .label = In Seite suchen…
 appmenuitem-more-tools =
     .label = Weitere Werkzeuge
-appmenuitem-exit =
-    .label = Beenden
-appmenu-menu-button-closed =
-    .tooltiptext = Anwendungsmenü öffnen
-    .label = { -brand-shorter-name }
-appmenu-menu-button-opened =
-    .tooltiptext = Anwendungsmenü schließen
-    .label = { -brand-shorter-name }
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
@@ -79,16 +67,12 @@ appmenu-remote-tabs-turn-on-sync =
     .label = Synchronisation aktivieren…
 appmenuitem-fxa-toolbar-sync-now2 = Jetzt synchronisieren
 appmenuitem-fxa-manage-account = Konto verwalten
-appmenu-fxa-header =
-    .title = { -fxaccount-brand-name }
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
 appmenu-fxa-last-sync = Zuletzt synchronisiert { $time }
     .label = Zuletzt synchronisiert { $time }
-appmenu-fxa-sync-and-save-data =
-    .value = Daten synchronisieren und speichern
 appmenu-fxa-sync-and-save-data2 = Daten synchronisieren und speichern
 appmenu-fxa-signed-in-label = Anmelden
 appmenu-fxa-setup-sync =
@@ -153,6 +137,8 @@ appmenu-manage-history =
     .label = Chronik verwalten
 appmenu-reopen-all-tabs = Alle Tabs wieder öffnen
 appmenu-reopen-all-windows = Alle Fenster wieder öffnen
+appmenu-recently-closed-tabs =
+    .label = Kürzlich geschlossene Tabs
 
 ## Help panel
 
