@@ -44,26 +44,11 @@ whatsnew-panel-header = Kas jauns?
 appmenu-about =
     .label = Par { -brand-shorter-name }
     .accesskey = a
-appmenu-help-troubleshooting-info =
-    .label = Problēmu novēršanas informācija
-    .accesskey = P
-appmenu-help-taskmanager =
-    .label = Uzdevumu pārvaldnieks
 appmenu-help-report-site-issue =
     .label = Ziņot par problēmu ar lapu…
 appmenu-help-feedback-page =
     .label = Nosūtīt atsauksmi…
     .accesskey = s
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Pārstartēt ar deaktivētiem papildinājumiem…
-    .accesskey = r
-appmenu-help-safe-mode-with-addons =
-    .label = Pārstartēt ar aktivētiem papildinājumiem
-    .accesskey = r
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
