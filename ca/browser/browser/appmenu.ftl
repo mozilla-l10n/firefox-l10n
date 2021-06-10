@@ -135,6 +135,8 @@ appmenu-reopen-all-tabs = Torna a obrir totes les pestanyes
 appmenu-reopen-all-windows = Torna a obrir totes les finestres
 appmenu-recently-closed-tabs =
     .label = Pestanyes tancades recentment
+appmenu-recently-closed-windows =
+    .label = Finestres tancades recentment
 
 ## Help panel
 
