@@ -191,3 +191,5 @@ appmenu-customizetoolbar =
 appmenu-taskmanager =
     .label = Tehtävienhallinta
 appmenu-developer-tools-subheader = Browser Tools
+appmenu-developer-tools-extensions =
+    .label = Extensions for Developers
