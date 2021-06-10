@@ -10,6 +10,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Jauna cilne
 appmenuitem-new-window =
     .label = Jauns lūgs
 appmenuitem-new-private-window =
@@ -37,6 +39,8 @@ appmenuitem-save-page =
 
 ## History panel
 
+appmenu-restore-session =
+    .label = Atjaunōt īprīkšejū seseju
 appmenu-clear-history =
     .label = Dzēst nasenū viesturi…
 appmenu-recent-history-subheader = Nasenuo viesture
