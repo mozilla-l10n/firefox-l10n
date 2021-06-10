@@ -48,26 +48,11 @@ whatsnew-panel-header = Cöse gh'é de neuvo
 appmenu-about =
     .label = Informaçioin in sce { -brand-shorter-name }
     .accesskey = I
-appmenu-help-troubleshooting-info =
-    .label = Informaçioin in sciâ soluçion di problemi
-    .accesskey = I
-appmenu-help-taskmanager =
-    .label = Gestion ativitæ
 appmenu-help-report-site-issue =
     .label = Denonçia Problema do Scito…
 appmenu-help-feedback-page =
     .label = Manda comento…
     .accesskey = M
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Arvi torna co-i conponenti azonti dizabilitæ
-    .accesskey = R
-appmenu-help-safe-mode-with-addons =
-    .label = Arvi torna co-i conponente azonti ativæ
-    .accesskey = R
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
