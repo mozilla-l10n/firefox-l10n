@@ -10,6 +10,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Neuvo feuggio
 appmenuitem-new-window =
     .label = Neuvo barcon
 appmenuitem-new-private-window =
@@ -42,6 +44,10 @@ whatsnew-panel-header = Cöse gh'é de neuvo
 
 ## History panel
 
+appmenu-recently-closed-tabs =
+    .label = Feuggi seræ urtimamente
+appmenu-recently-closed-windows =
+    .label = Barcoin seræ urtimamente
 
 ## Help panel
 
