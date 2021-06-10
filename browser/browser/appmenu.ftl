@@ -11,6 +11,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = Filă nouă
 appmenuitem-new-window =
     .label = Fereastră nouă
 appmenuitem-new-private-window =
@@ -58,6 +60,8 @@ profiler-popup-edit-settings = Editează setările…
 
 ## History panel
 
+appmenu-recently-closed-tabs =
+    .label = File închise recent
 
 ## Help panel
 
