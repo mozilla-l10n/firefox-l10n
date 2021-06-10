@@ -100,6 +100,10 @@ profiler-popup-capture-shortcut =
 
 ## History panel
 
+appmenu-restore-session =
+    .label = Վերականգնել նախորդ աշխատաշրջանը
+appmenu-clear-history =
+    .label = Մաքրել Վերջին Պատմությունը...
 appmenu-recently-closed-tabs =
     .label = Վերջին փակված ներդիրները
 appmenu-recently-closed-windows =
