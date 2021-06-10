@@ -187,3 +187,5 @@ appmenu-customizetoolbar =
 appmenu-taskmanager =
     .label = タスクマネージャー
 appmenu-developer-tools-subheader = ブラウザーツール
+appmenu-developer-tools-extensions =
+    .label = 開発者用拡張機能
