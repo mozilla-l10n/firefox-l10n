@@ -44,6 +44,10 @@ whatsnew-panel-header = Cöse gh'é de neuvo
 
 ## History panel
 
+appmenu-restore-session =
+    .label = Repiggia a sescion primma
+appmenu-clear-history =
+    .label = Scancella a stöia ciù neuva…
 appmenu-recently-closed-tabs =
     .label = Feuggi seræ urtimamente
 appmenu-recently-closed-windows =
