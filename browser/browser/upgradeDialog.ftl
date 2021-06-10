@@ -38,6 +38,19 @@ upgrade-dialog-new-primary-win7-button = Εντάξει, το κατάλαβα!
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-pin-title =
+    { PLATFORM() ->
+        [macos] Κρατήστε το { -brand-short-name } στο Dock σας
+       *[other] Καρφιτσώστε το { -brand-short-name } στη γραμμή εργασιών σας
+    }
+# The English macOS string avoids repeating "Keep" a third time, so if your
+# translations don't repeat anyway, the same string can be used cross-platform.
+upgrade-dialog-pin-subtitle =
+    { PLATFORM() ->
+        [macos] Αποκτήστε εύκολη πρόσβαση στο πιο φρέσκο { -brand-short-name }.
+       *[other] Κρατήστε κοντά σας το πιο φρέσκο { -brand-short-name }.
+    }
 upgrade-dialog-pin-primary-button =
     { PLATFORM() ->
         [macos] Διατήρηση στο Dock
@@ -51,7 +64,10 @@ upgrade-dialog-pin-secondary-button = Όχι τώρα
 upgrade-dialog-default-title = Ορισμός { -brand-short-name } ως προεπιλεγμένου προγράμματος περιήγησης;
 upgrade-dialog-default-subtitle = Ταχύτητα, ασφάλεια και ιδιωτικότητα σε κάθε περιήγησή σας.
 upgrade-dialog-default-primary-button = Ορισμός ως προεπιλεγμένο πρόγραμμα περιήγησης
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title-2 = Ορισμός του { -brand-short-name } ως προεπιλογής
 upgrade-dialog-default-subtitle-2 = Βάλτε την ταχύτητα, την ασφάλεια και το απόρρητο στον αυτόματο πιλότο.
+upgrade-dialog-default-primary-button-2 = Ορισμός προεπιλεγμένου φυλλομετρητή
 upgrade-dialog-default-secondary-button = Όχι τώρα
 
 ## Theme selection screen
