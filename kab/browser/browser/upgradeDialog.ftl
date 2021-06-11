@@ -42,6 +42,11 @@ upgrade-dialog-pin-title =
         [macos] Eǧǧ { -brand-short-name } deg Dock-inek·inem
        *[other] Senteḍ { -brand-short-name } ɣef ufeggag n twuriwin
     }
+upgrade-dialog-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Eǧǧ-it deg Dock
+       *[other] Senteḍ ɣer ufaggag n twuriwin
+    }
 upgrade-dialog-pin-secondary-button = Mačči tura
 
 ## Default browser screen
