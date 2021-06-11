@@ -2,40 +2,68 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY sanitizeDialog.title            "Poista yksityistietoja">
-<!ENTITY sanitizeItems.label             "Poista seuraavat tiedot:">
+<!ENTITY sanitizeDialog.title             "Poista yksityistietoja">
 
-<!--LOCALIZATION NOTE : Make sure to not have overlapped  accesskeys with
-    pref-privatedata.dtd. These entities are also used in the private data
-    preferences dialog.
--->
-<!ENTITY itemHistory.label               "Sivuhistoria">
-<!ENTITY itemHistory.accesskey           "S">
-<!ENTITY itemHistoryS.accesskey          "i">
-<!ENTITY itemUrlBar.label                "Osoitehistoria">
-<!ENTITY itemUrlBar.accesskey            "O">
-<!ENTITY itemUrlBarS.accesskey           "h">
-<!ENTITY itemDownloads.label             "Latauslista">
-<!ENTITY itemDownloads.accesskey         "L">
-<!ENTITY itemDownloadsS.accesskey        "u">
-<!ENTITY itemFormSearchHistory.label     "Tallennetut lomake- ja hakutiedot">
-<!ENTITY itemFormSearchHistory.accesskey "T">
+<!-- LOCALIZATION NOTE (sanitizeDialog.width): width of the Clear Recent
+     History dialog -->
+<!ENTITY sanitizeDialog.width             "34em">
+
+<!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear"
+     dropdown. -->
+<!ENTITY clearTimeDuration.label          "Tyhjennettävä ajanjakso: ">
+<!ENTITY clearTimeDuration.accesskey      "T">
+<!ENTITY clearTimeDuration.lastHour       "Viimeinen tunti">
+<!ENTITY clearTimeDuration.last2Hours     "Viimeiset 2 tuntia">
+<!ENTITY clearTimeDuration.last4Hours     "Viimeiset 4 tuntia">
+<!ENTITY clearTimeDuration.today          "Tämä päivä">
+<!ENTITY clearTimeDuration.everything     "Kaikki">
+<!-- Localization note (clearTimeDuration.suffix) - trailing entity for
+     languages that require it. -->
+<!ENTITY clearTimeDuration.suffix         "">
+
+<!--  LOCALIZATION NOTE (sanitizeSelectedWarning): Warning that appears
+      when not all items are selected in the in Clear Private data dialog. -->
+<!ENTITY sanitizeSelectedWarning          "Kaikki valitut tiedot poistetaan.">
+
+<!-- LOCALIZATION NOTE (sanitizeUndoWarning): Second warning
+     paragraph that always appears. -->
+<!ENTITY sanitizeUndoWarning              "Tätä toimintoa ei voi perua.">
+
+<!ENTITY sanitizeItems.label              "Poista seuraavat tiedot:">
+
+<!-- LOCALIZATION NOTE : Try to make sure to not have overlapped  accesskeys
+     with pref-privatedata.dtd. These entities are also used in the private
+     data preferences dialog. -->
+<!ENTITY itemHistory.label                "Sivuhistoria">
+<!ENTITY itemHistory.accesskey            "S">
+<!ENTITY itemHistoryS.accesskey           "i">
+<!ENTITY itemUrlBar.label                 "Osoitehistoria">
+<!ENTITY itemUrlBar.accesskey             "O">
+<!ENTITY itemUrlBarS.accesskey            "h">
+<!ENTITY itemDownloads.label              "Latauslista">
+<!ENTITY itemDownloads.accesskey          "L">
+<!ENTITY itemDownloadsS.accesskey         "u">
+<!ENTITY itemFormSearchHistory.label      "Tallennetut lomake- ja hakutiedot">
+<!ENTITY itemFormSearchHistory.accesskey  "T">
 <!ENTITY itemFormSearchHistoryS.accesskey "j">
-<!ENTITY itemCache.label                 "Väliaikaistiedostot">
-<!ENTITY itemCache.accesskey             "V">
-<!ENTITY itemCacheS.accesskey            "k">
-<!ENTITY itemCookies.label               "Evästeet">
-<!ENTITY itemCookies.accesskey           "E">
-<!ENTITY itemCookiesS.accesskey          "ä">
-<!ENTITY itemOfflineApps.label           "Yhteydettömän tilan tiedot">
-<!ENTITY itemOfflineApps.accesskey       "Y">
-<!ENTITY itemOfflineAppsS.accesskey      "d">
-<!ENTITY itemPasswords.label             "Tallennetut salasanat">
-<!ENTITY itemPasswords.accesskey         "a">
-<!ENTITY itemPasswordsS.accesskey        "n">
-<!ENTITY itemSessions.label              "Varmennetut istunnot">
-<!ENTITY itemSessions.accesskey          "r">
+<!ENTITY itemCache.label                  "Väliaikaistiedostot">
+<!ENTITY itemCache.accesskey              "V">
+<!ENTITY itemCacheS.accesskey             "k">
+<!ENTITY itemCookies.label                "Evästeet">
+<!ENTITY itemCookies.accesskey            "E">
+<!ENTITY itemCookiesS.accesskey           "ä">
+<!ENTITY itemOfflineApps.label            "Yhteydettömän tilan tiedot">
+<!ENTITY itemOfflineApps.accesskey        "Y">
+<!ENTITY itemOfflineAppsS.accesskey       "d">
+<!ENTITY itemPasswords.label              "Tallennetut salasanat">
+<!ENTITY itemPasswords.accesskey          "a">
+<!ENTITY itemPasswordsS.accesskey         "n">
+<!ENTITY itemSessions.label               "Varmennetut istunnot">
+<!ENTITY itemSessions.accesskey           "r">
 
-<!ENTITY itemSessionsS.accesskey         "m">
+<!ENTITY itemSessionsS.accesskey          "m">
 
 <!ENTITY sanitizeButton.label            "Poista valitut tiedot">
+<!ENTITY itemSitePreferences.label        "Sivustoasetukset">
+<!ENTITY itemSitePreferences.accesskey    "S">
+<!ENTITY itemSitePreferencesS.accesskey   "t">
