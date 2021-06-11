@@ -609,6 +609,7 @@ dlg-button-ok = &OK
 dlg-button-close = T&utup
 dlg-button-cancel = &Batal
 dlg-no-prompt = Jangan tampilkan dialog ini lagi.
+enig-prompt = Sapaan PromptPGP
 enig-confirm = Konfirmasi OpenPGP
 enig-alert = Lansiran OpenPGP
 enig-info = Informasi OpenPGP
