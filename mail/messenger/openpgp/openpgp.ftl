@@ -106,10 +106,49 @@ openpgp-key-send-key =
 openpgp-key-man-copy-to-clipbrd =
     .label = Salin Kunci Publik Ke Papan Klip
     .accesskey = c
+openpgp-key-man-copy-key-ids =
+    .label =
+        { $count ->
+           *[other] Salin ID Kunci ke Papan Klip
+        }
+    .accesskey = k
+openpgp-key-man-copy-fprs =
+    .label =
+        { $count ->
+           *[other] Salin Sidik Jari Ke Papan Klip
+        }
+    .accesskey = S
+openpgp-key-man-copy-to-clipboard =
+    .label =
+        { $count ->
+           *[other] Salin Kunci Publik Ke Papan Klip
+        }
+    .accesskey = P
 openpgp-key-man-ctx-expor-to-file-label =
     .label = Ekspor Kunci Ke File
 openpgp-key-man-ctx-copy-to-clipbrd-label =
     .label = Salin Kunci Publik Ke Papan Klip
+openpgp-key-man-ctx-copy =
+    .label = Salin
+    .accesskey = S
+openpgp-key-man-ctx-copy-fprs =
+    .label =
+        { $count ->
+           *[other] Sidik Jari
+        }
+    .accesskey = S
+openpgp-key-man-ctx-copy-key-ids =
+    .label =
+        { $count ->
+           *[other] ID Kunci
+        }
+    .accesskey = K
+openpgp-key-man-ctx-copy-public-keys =
+    .label =
+        { $count ->
+           *[other] Kunci Publik
+        }
+    .accesskey = P
 openpgp-key-man-close =
     .label = Tutup
 openpgp-key-man-reload =
@@ -246,6 +285,9 @@ openpgp-keygen-external-success = ID Kunci GnuPG Eksternal disimpan!
 openpgp-radio-none =
     .label = Nihil
 openpgp-radio-none-desc = Jangan gunakan OpenPGP untuk identitas ini.
+openpgp-radio-key-not-usable = Kunci ini tidak dapat digunakan sebagai kunci pribadi, karena kunci rahasia hilang!
+openpgp-radio-key-not-accepted = Untuk menggunakan kunci ini Anda harus menyetujuinya sebagai kunci pribadi!
+openpgp-radio-key-not-found = Kunci ini tidak ditemukan! Jika ingin menggunakannya, Anda harus mengimpornya ke { -brand-short-name }.
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = Kedaluwarsa pada: { $date }
 openpgp-key-expires-image =
@@ -399,18 +441,13 @@ openpgp-export-secret-fail = <b>Tidak dapat mengekspor kunci rahasia yang dipili
 # Strings in keyObj.jsm
 key-ring-pub-key-revoked = Kunci { $userId } (ID kunci { $keyId }) dicabut.
 key-ring-pub-key-expired = Kunci { $userId } (ID kunci { $keyId }) telah kedaluwarsa.
-key-ring-key-disabled = Kunci { $userId } (ID kunci { $keyId }) dinonaktifkan; itu tidak bisa digunakan.
-key-ring-key-invalid = Kunci { $userId } (ID kunci { $keyId } tidak valid. Harap pertimbangkan untuk memverifikasinya dengan benar.
-key-ring-key-not-trusted = Kunci { $userId } (ID kunci { $keyId }) tidak cukup tepercaya. Harap setel tingkat kepercayaan kunci Anda ke "ultimate" untuk digunakan bagi penandatanganan.
 key-ring-no-secret-key = Anda tampaknya tidak memiliki kunci rahasia untuk { $userId } (ID kunci { $keyId }) pada keyring Anda; Anda tidak dapat menggunakan kunci untuk menandatangani.
 key-ring-pub-key-not-for-signing = Kunci { $userId } (ID kunci { $keyId }) tidak dapat digunakan untuk penandatanganan.
 key-ring-pub-key-not-for-encryption = Kunci { $userId } (ID kunci { $keyId }) tidak dapat digunakan untuk enkripsi.
 key-ring-sign-sub-keys-revoked = Semua subkunci penandatanganan dari kunci { $userId } (ID kunci { $keyId }) dicabut.
 key-ring-sign-sub-keys-expired = Semua subkunci penandatanganan dari kunci { $userId } (ID kunci { $keyId }) telah kedaluwarsa.
-key-ring-sign-sub-keys-unusable = Semua subkunci penandatanganan dari kunci { $userId } (ID kunci { $keyId }) dicabut, kedaluwarsa, atau tidak dapat digunakan.
 key-ring-enc-sub-keys-revoked = Semua subkunci enkripsi dari kunci { $userId } (ID kunci { $keyId }) dicabut.
 key-ring-enc-sub-keys-expired = Semua subkunci enkripsi dari kunci { $userId } (ID kunci { $keyId }) telah kedaluwarsa.
-key-ring-enc-sub-keys-unusable = Semua subkunci enkripsi dari kunci { $userId } (ID kunci { $keyId }) dicabut, kedaluwarsa, atau tidak dapat digunakan.
 # Strings in gnupg-keylist.jsm
 keyring-photo = Foto
 user-att-photo = Atribut pengguna (gambar JPEG)
@@ -458,6 +495,7 @@ not-first-block = Kesalahan - Blok OpenPGP pertama bukan blok kunci publik
 import-key-confirm = Impor kunci publik yang disematkan dalam pesan?
 fail-key-import = Kesalahan - impor kunci gagal
 file-write-failed = Gagal menulis ke berkas  { $output }
+no-pgp-block = Kesalahan - Tidak ditemukan blok data OpenPGP terbungkus yang valid
 confirm-permissive-import = Impor gagal. Kunci yang Anda coba impor mungkin rusak atau menggunakan atribut yang tidak diketahui. Apakah Anda ingin mencoba mengimpor bagian yang benar? Ini mungkin mengakibatkan impor kunci yang tidak lengkap dan tidak dapat digunakan.
 # Strings used in trust.jsm
 key-valid-unknown = tidak dikenal
@@ -489,7 +527,9 @@ key-man-button-generate-key = &Hasilkan Kunci
 key-abort = Batalkan pembuatan kunci?
 key-man-button-generate-key-abort = B&atalkan Pembuatan Kunci
 key-man-button-generate-key-continue = Lanjutkan Pembuatan Kun&ci
+
 # Strings used in enigmailMessengerOverlay.js
+
 failed-decrypt = Kesalahan - dekripsi gagal
 fix-broken-exchange-msg-failed = Tidak berhasil memperbaiki pesan.
 attachment-no-match-from-signature = Tidak dapat mencocokkan file tanda tangan '{ $attachment }' dengan lampiran
@@ -577,5 +617,6 @@ dlg-button-retry = &Coba Lagi
 dlg-button-skip = &Lewati
 # Strings used in enigmailCommon.js
 enig-error = Kesalahan OpenPGP
+# Strings used in enigmailMsgBox.js
 enig-alert-title =
     .title = Lansiran OpenPGP
