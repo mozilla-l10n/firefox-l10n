@@ -11,6 +11,9 @@ remove-address-row-type = Elimine el campo { $type }
 remove-address-row-type-label =
     .tooltiptext = Eliminar el campo { $type }
 #   $type (String) - the type of the addressing row
+remove-address-row-button =
+    .title = Eliminar el campo { $type }
+#   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type-aria-label =
     { $count ->
@@ -41,6 +44,9 @@ pill-action-move-cc =
 pill-action-move-bcc =
     .label = Mover a CCO
     .accesskey = o
+pill-action-expand-list =
+    .label = Expandir lista
+    .accesskey = x
 
 # Attachment widget
 
