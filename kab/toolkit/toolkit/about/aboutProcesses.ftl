@@ -81,6 +81,9 @@ about-processes-unknown-process = Wayeḍ { $type } ({ $pid })
 ##    $origin (String) The domain name for this process.
 
 about-processes-web-isolated-process = { $origin } ({ $pid })
+about-processes-web-large-allocation-process = { $origin } ({ $pid }, meqqer)
+about-processes-web-isolated-process-private = { $origin } — Uslig ({ $pid })
+about-processes-web-large-allocation-process-private = { $origin } — Uslig ({ $pid }, meqqer)
 
 ## Details within processes
 
