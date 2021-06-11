@@ -2,26 +2,22 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-history-title = Историјат ажурирања
-history-intro = Следећа ажурирања су инсталирана
-
+history-title = Историја ажурирања
+history-intro = Инсталирана су следећа ажурирања
 close-button-label =
     .buttonlabelcancel = Затвори
-    .title = Историјат ажурирања
-
+    .title = Историја ажурирања
 no-updates-label = Још није инсталирано ниједно ажурирање
-name-header = Име надоградње
-date-header = Датум инсталирања
+name-header = Назив ажурирања
+date-header = Датум инсталације
 type-header = Тип
-state-header = Држава
-
+state-header = Стање
 # Used to display update history
 #
 # Variables:
 #   $name (String): name of the update
 #   $buildID (String): build identifier from the local updates.xml
 update-full-build-name = { $name } ({ $buildID })
-
 update-details = Детаљи
 update-installed-on = Инсталирано: { $date }
-update-status = Стање: { $status }
+update-status = Статус: { $status }
