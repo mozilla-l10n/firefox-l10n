@@ -153,10 +153,10 @@ appmenu-help-header =
     .title = راهنما { -brand-shorter-name }
 appmenu-about =
     .label = دربارهٔ { -brand-shorter-name }
-    .accesskey = A
+    .accesskey = د
 appmenu-get-help =
     .label = دریافت راهنمایی
-    .accesskey = H
+    .accesskey = ر
 appmenu-help-more-troubleshooting-info =
     .label = اطلاعات بیشتر
     .accesskey = T
@@ -164,7 +164,7 @@ appmenu-help-report-site-issue =
     .label = مشکل سایت را گزارش کنید…
 appmenu-help-feedback-page =
     .label = ارسال نظر…
-    .accesskey = S
+    .accesskey = ن
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

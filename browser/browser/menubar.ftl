@@ -50,7 +50,7 @@ menu-quit-button-win =
     .tooltip = خروج از { -brand-shorter-name }
 menu-about =
     .label = دربارهٔ { -brand-shorter-name }
-    .accesskey = A
+    .accesskey = د
 
 ## File Menu
 
@@ -355,12 +355,12 @@ menu-get-help =
     .accesskey = H
 menu-help-more-troubleshooting-info =
     .label = اطلاعات بیشتر
-    .accesskey = T
+    .accesskey = ب
 menu-help-report-site-issue =
     .label = مشکل سایت را گزارش کنید…
 menu-help-feedback-page =
     .label = ارسال نظر…
-    .accesskey = S
+    .accesskey = ن
 menu-help-safe-mode-without-addons =
     .label = راه‌اندازی مجدد به همراه غیرفعال کردن افزودنی‌ها…
     .accesskey = R
