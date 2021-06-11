@@ -173,6 +173,9 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = کدگذاری متن
     .accesskey = گ
+menu-view-repair-text-encoding =
+    .label = تعمیر رمزگذاری متن
+    .accesskey = ت
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -227,6 +230,8 @@ menu-bookmarks-show-all =
     .label = نمایش همهٔ نشانک‌ها
 menu-bookmark-this-page =
     .label = نشانک‌گذاری این صفحه
+menu-bookmarks-manage =
+    .label = مدیریت نشانک‌ها
 menu-bookmark-current-tab =
     .label = نشانک‌گذاری زبانهٔ فعلی
 menu-bookmark-edit =
@@ -254,15 +259,15 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = ورود به { -brand-product-name }ٕ‍ٕ…
     .accesskey = g
+menu-tools-turn-on-sync =
+    .label = روشن کردن { -sync-brand-short-name } ...
+    .accesskey = n
 menu-tools-addons-and-themes =
     .label = افزونه‌ها و تم‌ها
     .accesskey = ا
 menu-tools-fxa-sign-in2 =
     .label = وارد شدن
     .accesskey = g
-menu-tools-turn-on-sync =
-    .label = روشن کردن { -sync-brand-short-name } ...
-    .accesskey = n
 menu-tools-turn-on-sync2 =
     .label = روشن کردن همگام‌سازی…
     .accesskey = ر
@@ -287,13 +292,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = اطلاعات صفحه
     .accesskey = ا
-menu-settings =
-    .label = تنظیمات
-    .accesskey =
-        { PLATFORM() ->
-            [windows] s
-           *[other] n
-        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -304,6 +302,13 @@ menu-preferences =
         { PLATFORM() ->
             [windows] گ
            *[other] ت
+        }
+menu-settings =
+    .label = تنظیمات
+    .accesskey =
+        { PLATFORM() ->
+            [windows] s
+           *[other] n
         }
 menu-tools-layout-debugger =
     .label = اشکال‌زدای چیدمان

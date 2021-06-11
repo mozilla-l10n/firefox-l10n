@@ -181,8 +181,6 @@ page-action-send-tabs-urlbar =
             [one] ارسال به دستگاه
            *[other] ارسال { $tabCount } زبانه به دستگاه
         }
-page-action-pocket-panel =
-    .label = ذخیره صفحه در { -pocket-brand-name }
 page-action-copy-url-panel =
     .label = رونوشت پیوند
 page-action-copy-url-urlbar =
@@ -439,6 +437,8 @@ popup-select-microphone-device =
     .accesskey = M
 popup-select-microphone-icon =
     .tooltiptext = میکروفون
+popup-select-speaker-icon =
+    .tooltiptext = بلندگوها
 popup-all-windows-shared = همه‌ی پنجره‌هایی که مشاهده می‌کنید به اشتراک گذاشته می‌شود.
 popup-screen-sharing-not-now =
     .label = اکنون نه (w)
@@ -612,8 +612,6 @@ crashed-subframe-submit =
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = نمایش همهٔ نشانک‌ها
 bookmarks-manage-bookmarks =
     .label = مدیریت نشانک‌ها
 bookmarks-recent-bookmarks-panel-subheader = نشانک‌های اخیر
@@ -686,6 +684,12 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = ذخیره‌سازی در { -pocket-brand-name }
     .tooltiptext = ذخیره‌سازی در { -pocket-brand-name }
+
+## Repair text encoding toolbar button
+
+repair-text-encoding-button =
+    .label = تعمیر رمزگذاری متن
+    .tooltiptext = حدس زدنِ رمزگذاری متن بر اساس محتوای صفحه
 
 ## Customize Toolbar Buttons
 

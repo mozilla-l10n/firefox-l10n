@@ -34,12 +34,16 @@ pocket-panel-signup-learn-more = بیشتر بدانید
 pocket-panel-signup-login = ورود به سیستم
 pocket-panel-signup-signup-email = ثبت‌نام با ایمیل
 pocket-panel-signup-signup-cta = در { -pocket-brand-name } ثبت‌نام کنید. رایگان است.
-pocket-panel-signup-signup-firefox = ثبت نام توسط فایرفاکس
-pocket-panel-signup-tagline = مقاله‌ها و ویدئوها را با فایرفاکس ذخیره کنید و در هر زمان و دستگاهی به وسیله‌ی { -pocket-brand-name } ببینید.
-pocket-panel-signup-tagline-story-one = بر روی دکمه { -pocket-brand-name } کلیک کنید تا مقاله، ویدئو یا صفحات را از طریق فایرفاکس ذخیره کنید.
+pocket-panel-signup-signup-firefox = ثبت نام با { -brand-product-name }
+pocket-panel-signup-tagline = مقاله‌ها و ویدئوها را با { -brand-product-name } ذخیره کنید و در هر زمان و دستگاهی به وسیله‌ی { -pocket-brand-name } ببینید.
+pocket-panel-signup-tagline-story-one = بر روی دکمه { -pocket-brand-name } کلیک کنید تا مقاله، ویدئو یا صفحات را از طریق { -brand-product-name } ذخیره کنید.
 pocket-panel-signup-tagline-story-two = نمایش در { -pocket-brand-name } در هر دستگاه و در هر زمانی.
 
 ## about:pocket-home panel
 
 pocket-panel-home-my-list = فهرست من
 pocket-panel-home-welcome-back = خوش‌آمدید
+pocket-panel-home-paragraph = از { -pocket-brand-name } می‌توانید برای کاوش و ذخیرهٔ صفحات وب، مقالات، ویدئوها، پادکست‌ها و یا بازگشت به چیزی که قبلا می‌خواندید استفاده کنید.
+pocket-panel-home-explore-popular-topics = موضوعات جالب را پیدا کنید
+pocket-panel-home-discover-more = بیشتر ببینید
+pocket-panel-home-explore-more = کاوش
