@@ -136,6 +136,8 @@ search-results-empty-message =
         [windows] متاسفیم! هیچ نتیجه‌ای در گزینه‌ها برای «<span data-l10n-name="query"></span>» وجود ندارد.
        *[other] متاسفیم! هیچ نتیجه‌ای در ترجیحات برای «<span data-l10n-name="query"></span>» وجود ندارد.
     }
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 = متاسفیم! هیچ نتیجه‌ای در تنظیمات برای «<span data-l10n-name="query"></span>» وجود ندارد.
 search-results-help-link = نیاز به راهنمایی دارید؟ از <a data-l10n-name="url">پشتیبانی { -brand-short-name }</a> دیدن کنید
 
 ## General Section
@@ -179,6 +181,9 @@ warn-on-open-many-tabs =
 switch-links-to-new-tabs =
     .label = هنگامی که یک پیوند را در زبانه جدید باز میکنم، بلافاصله آن زبانه نمایش داده شود
     .accesskey = ه
+switch-to-new-tabs =
+    .label = هنگام باز کردن یک پیوند، عکس یا رسانه در یک زبانهٔ جدید، سریعا به آن منتقل بشو
+    .accesskey = ن
 show-tabs-in-taskbar =
     .label = پیش‌نمایش زبانه‌ها در نوار وضعیت ویندوز
     .accesskey = ز
@@ -255,6 +260,10 @@ translate-attribution = ترجمه با <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = استثناها…
     .accesskey = س
+# Variables:
+#    $localeName (string) - Localized name of the locale to be used.
+use-system-locale =
+    .label = در خصوص قالب تاریخ، زمان، اعداد و واحدهای اندازه‌گیری، از تنظیمات سیستم‌عامل برای «{ $localeName }» استفاده شود.
 check-user-spelling =
     .label = بررسی املا همزمان با نوشتن
     .accesskey = ن
@@ -303,6 +312,13 @@ applications-use-app =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = استفاده از { $app-name } (پیش‌فرض)
+applications-use-os-default =
+    .label =
+        { PLATFORM() ->
+            [macos] استفاده از برنامهٔ پیش‌فرض macOS
+            [windows] استفاده از برنامهٔ پیش‌فرض Windows
+           *[other] استفاده از برنامهٔ پیش‌فرض سیستم
+        }
 applications-use-other =
     .label = استفاده از برنامه‌ای دیگر…
 applications-select-helper = انتخاب برنامهٔ راهنما
@@ -373,10 +389,14 @@ update-application-check-choose =
 update-application-manual =
     .label = هرگز برای بروزرسانی‌ها بررسی نکن (توصیه نمی‌شود)
     .accesskey = ه
+update-application-background-enabled =
+    .label = هنگامی که { -brand-short-name } در حال اجرا نیست
+    .accesskey = ن
 update-application-use-service =
     .label = از سرویس پس‌زمینه برای نصب بروزرسانی ها استفاده شود
     .accesskey = پ
 update-setting-write-failure-title = خطا در ذخیره کردن ترجیحات بروزرسانی
+update-setting-write-failure-title2 = خطا در هنگام ذخیرهٔ تنطیمات بروزرسانی
 update-in-progress-title = در حال بروزرسانی
 update-in-progress-message = آیا می‌خواهید { -brand-short-name } به این بروزرسانی ادامه بدهد؟
 update-in-progress-ok-button = &نادیده گرفتن
@@ -493,8 +513,11 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = سایت‌های برتر
 home-prefs-topsites-description = سایت‌هایی که بیشتر بازدید می‌کنید
+home-prefs-topsites-by-option-sponsored =
+    .label = سایت های برتر حمایت شده
 home-prefs-shortcuts-header =
     .label = میان‌برها
+home-prefs-shortcuts-description = وب‌سایت‌هایی که ذخیره یا بازدید کرده‌اید
 home-prefs-shortcuts-by-option-sponsored =
     .label = میانبرهایی از حامیان مالی
 
@@ -564,6 +587,7 @@ search-show-suggestions-above-history-option =
     .label = نمایش پیشنهادات جست‌وجو در بالا ی تاریخچه مرورگر در نوار آدرس
 search-suggestions-cant-show = پیشنهادهای جست‌وجو در نوار مکان نمایش داده نخواهد شده زیرا شما { -brand-short-name } را به گونه‌ای تنظیم کرده‌اید که هیچ تاریخچه‌ای را نگه ندارد.
 search-one-click-header = موتورهای جست‌وجوی تک-کلیکی
+search-one-click-header2 = میانبرهای جستجو
 search-one-click-desc = در هنگام وارد کردن کلید واژه‌ها جهت جست‌وجو، موتورهای جست‌وجو جایگزین را از قسمت پایینی نوار آدرس یا نوار جست‌وجو انتخاب کنید.
 search-choose-engine-column =
     .label = موتور جست‌وجو
@@ -589,12 +613,22 @@ search-keyword-warning-bookmark = شما کلیدواژه‌ای انتخاب ن
 
 ## Containers Section
 
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] بازگشت به گزینه‌ها
+           *[other] بازگشت به ترجیحات
+        }
+containers-back-button2 =
+    .aria-label = بازگشت به تنظیمات
 containers-header = زبانه‌های حامل
 containers-add-button =
     .label = افزودن حامل جدید
     .accesskey = ا
 containers-preferences-button =
     .label = ترجیحات
+containers-settings-button =
+    .label = تنظیمات
 containers-remove-button =
     .label = حذف
 
@@ -603,6 +637,9 @@ containers-remove-button =
 
 sync-signedout-caption = وب را با خودتان همراه کنید
 sync-signedout-description = نشانک‌ها، تاریخچه، زبانه‌ها، گذرواژه‌ها، افزونه‌ها و ترجیحات خود را در تمام دستگاه‌هایتان همگام کنید.
+sync-signedout-account-signin2 =
+    .label = ورود به { -sync-brand-short-name }…
+    .accesskey = و
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -662,6 +699,7 @@ sync-currently-syncing-prefs =
         [windows] گزینه‌ها
        *[other] ترجیحات
     }
+sync-currently-syncing-settings = تنظیمات
 sync-change-options =
     .label = تغییر…
     .accesskey = c
@@ -708,6 +746,10 @@ sync-engine-prefs =
            *[other] ترجیحات
         }
     .tooltiptext = عمومی،‌ حریم شخصی، و تنظیمات امنیتی که شما تغییر داده اید
+    .accesskey = ت
+sync-engine-settings =
+    .label = تنظیمات
+    .tooltiptext = تنظیمات عمومی، حریم‌خصوصی، و امنیتی‌ای که تغییر داده‌اید
     .accesskey = ت
 
 ## The device name controls.
@@ -765,6 +807,7 @@ forms-master-pw-fips-desc = تغییر گذرواژه شکست خورد
 
 ## OS Authentication dialog
 
+master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
 
@@ -1057,11 +1100,20 @@ space-alert-under-5gb-ok-button =
     .label = باشه،‌ متوجه شدم
     .accesskey = ب
 space-alert-under-5gb-message = فضای ذخیره سازی { -brand-short-name } تمام شده است. ممکن است محتواهای سایت‌ها خوب نمایش داده نشود.“اطلاعات بیشتر” رابرای بهبود سازی فضای ذخیره سازی خود در جهت کسب تجربه بهتری از مرورگر مشاهده کنید.
+space-alert-over-5gb-settings-button =
+    .label = باز کردن تنظیمات
+    .accesskey = ب
 
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = حالت فقط HTTPS
 httpsonly-learn-more = بیشتر بدانید
+httpsonly-radio-enabled =
+    .label = فعال‌سازی حالت فقط-HTTPS در تمام پنجره‌ها
+httpsonly-radio-enabled-pbm =
+    .label = فعال‌سازی حالت فقط-HTTPS تنها در پنجره‌های ناشناس
+httpsonly-radio-disabled =
+    .label = حالت فقط-HTTPS فعال نشود
 
 ## The following strings are used in the Download section of settings
 
