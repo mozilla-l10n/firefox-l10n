@@ -234,7 +234,7 @@ cfr-doorhanger-doh-secondary-button = از کار انداختن
 cfr-doorhanger-fission-primary-button = باشه،‌ متوجه شدم
     .accesskey = O
 cfr-doorhanger-fission-secondary-button = اطلاعات بیشتر
-    .accesskey = L
+    .accesskey = ب
 
 ## What's new: Cookies message
 
