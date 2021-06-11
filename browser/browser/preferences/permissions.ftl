@@ -18,6 +18,12 @@ permissions-session =
 permissions-allow =
     .label = اجازه دادن
     .accesskey = ج
+permissions-button-off =
+    .label = خاموش کردن
+    .accesskey = خ
+permissions-button-off-temporarily =
+    .label = خاموش کردن موقت
+    .accesskey = ا
 permissions-site-name =
     .label = وب‌سایت
 permissions-status =
@@ -58,6 +64,10 @@ permissions-capabilities-listitem-block =
     .value = باز داشتن
 permissions-capabilities-listitem-allow-session =
     .value = اجازه دادن برای نشست
+permissions-capabilities-listitem-off =
+    .value = خاموش
+permissions-capabilities-listitem-off-temporarily =
+    .value = خاموشِ موقت
 
 ## Invalid Hostname Dialog
 
@@ -77,6 +87,13 @@ permissions-exceptions-cookie-window =
     .title = استثناها - کوکی‌ها و اطلاعات پایگاه‌ها
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = می‌توانید تعیین که چه پایگاه‌هایی می‌توانند همیشه یا هرگز دسترسی به کوکی‌ها و اطلاعات پایگاه‌ها داشته باشند. آدرس دقیق سایتی که می‌خواهید مدیریت کنید را وارد کنید و سپس بر روی «مسدود کردن»، «اجازه دادن در این نشست»، یا «اجازه دادن» کلیک کنید.
+
+## Exceptions - HTTPS-Only Mode
+
+permissions-exceptions-https-only-window =
+    .title = موارد استثنا - حالتِ فقط-HTTPS
+    .style = { permissions-window.style }
+permissions-exceptions-https-only-desc = شما می‌توانید حالت فقط-HTTPS را برای برخی از وب‌سایت‌ها غیرفعال کنید. { -brand-short-name } سعی به ارتقا اتصال در این وب‌سایت‌ها به HTTPS نخواهد کرد. موارد استثنا در پنجره‌های ناشناس تاثیر ندارند.
 
 ## Exceptions - Pop-ups
 
@@ -131,6 +148,10 @@ permissions-site-location-disable-desc = این امکان درخواست اجا
 permissions-site-xr-window =
     .title = تنظیمات - مجوزهای واقعیت مجازی
     .style = { permissions-window.style }
+permissions-site-xr-desc = وب‌سایت‌های مقابل درخواست استفاده از دستگاه‌های واقعیت مجازی شما را کرده‌اند. شما می‌توانید تعیین کنید کدام وب‌سایت‌ها امکان استفاده از دستگاه‌های واقعیت مجازی را دارند. شما همچین درخواست‌های جدید برای دسترسی به دستگاه‌های واقعیت مجازی را مسدود کنید.
+permissions-site-xr-disable-label =
+    .label = مسدود کردن درخواست‌های جدید برای دسترسی به دستگاه‌های واقعیت مجازی
+permissions-site-xr-disable-desc = این کار باعث می‌شود وب‌سایت‌هایی که در بالا لیست نشده‌اند امکان درخواست برای دسترسی به دستگاه‌های واقعیت مجازی را نداشته باشند. مسدود کردن امکان دسترسی به دستگاه‌های واقعیت مجازیی ممکن است امکانات برخی از وب‌سایت‌ها را از کار بیاندازد.
 
 ## Site Permissions - Camera
 
