@@ -18,10 +18,12 @@ upgrade-dialog-new-alt-subtitle = Bdu s tririt <span data-l10n-name="zap">{ -bra
 upgrade-dialog-new-item-menu-title = Afeggag n yifecka d wumuɣen ttwasifssen
 upgrade-dialog-new-item-menu-description = Izeggir deg wayen yesεan azal i wakken ad tafeḍ ayen iɣef tettnadiḍ.
 upgrade-dialog-new-item-tabs-title = Accaren atraren
+upgrade-dialog-new-item-icons-title = Tignitin timaynutin d yiznan ibanen ugar
 upgrade-dialog-new-primary-primary-button = Err { -brand-short-name } d iminig-iw agejdan
     .title = Yesbadu { -brand-short-name } d iminig amezwer yerna isneteḍ-it ɣer ufaggag n twuriwin
 upgrade-dialog-new-primary-default-button = Err { -brand-short-name } d iminig-iw amezwer
 upgrade-dialog-new-primary-pin-button = Rzi ɣer { -brand-short-name } ufaggag-iw n twuriwin
+upgrade-dialog-new-primary-pin-alt-button = Senteḍ ɣer ufaggag n twuriwin
 upgrade-dialog-new-primary-theme-button = Fren asentel
 upgrade-dialog-new-secondary-button = Mačči tura
 # This string is only shown on Windows 7, where we intentionally suppress the
@@ -34,6 +36,12 @@ upgrade-dialog-new-primary-win7-button = Ih, awi-t!
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-pin-title =
+    { PLATFORM() ->
+        [macos] Eǧǧ { -brand-short-name } deg Dock-inek·inem
+       *[other] Senteḍ { -brand-short-name } ɣef ufeggag n twuriwin
+    }
 upgrade-dialog-pin-secondary-button = Mačči tura
 
 ## Default browser screen
