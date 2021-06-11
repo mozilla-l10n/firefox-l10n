@@ -48,3 +48,7 @@ openpgp-message-header-signed-mismatch-icon =
     .alt = Firma incorrecta
 openpgp-message-header-signed-unknown-icon =
     .alt = Estado de firma desconocido
+openpgp-message-header-signed-verified-icon =
+    .alt = Firma verificada
+openpgp-message-header-signed-unverified-icon =
+    .alt = Firma no verificada
