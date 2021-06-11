@@ -47,6 +47,12 @@ toolbar-undelete-button =
     .label = Annulla eliminazione
     .tooltiptext = Annulla eliminazione dei messaggi selezionati
 
+## View
+
+menu-view-repair-text-encoding =
+    .label = Correggi codifica testo
+    .accesskey = C
+
 ## View / Layout
 
 mail-uidensity-label =
