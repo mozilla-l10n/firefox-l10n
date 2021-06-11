@@ -47,6 +47,12 @@ toolbar-undelete-button =
     .label = Verwijderen ongedaan maken
     .tooltiptext = Verwijdering van geselecteerde berichten ongedaan maken
 
+## View
+
+menu-view-repair-text-encoding =
+    .label = Tekstcodering repareren
+    .accesskey = c
+
 ## View / Layout
 
 mail-uidensity-label =
