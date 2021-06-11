@@ -523,10 +523,10 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
-home-prefs-content-header = Conteúdo inicial do Firefox
-home-prefs-content-description = Escolha que conteúdo você quer na tela inicial do Firefox.
+home-prefs-content-header = Conteúdo da página inicial do Firefox
+home-prefs-content-description = Escolha que conteúdo você quer na página inicial do Firefox.
 home-prefs-search-header =
-    .label = Pesquisar na web
+    .label = Campo de pesquisa na web
 home-prefs-topsites-header =
     .label = Sites preferidos
 home-prefs-topsites-description = Os sites que você mais visita
