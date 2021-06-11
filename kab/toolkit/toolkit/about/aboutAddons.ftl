@@ -10,6 +10,7 @@ search-header =
     .searchbuttonlabel = Nadi
 search-header-shortcut =
     .key = f
+list-empty-get-extensions-message = Awi isiɣzaf d yisental seg <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-installed =
     .value = Ur ɣur-k ara azegrir yettwasebden n tewsit-agi
 list-empty-available-updates =

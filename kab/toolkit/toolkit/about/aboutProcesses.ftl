@@ -52,6 +52,36 @@ about-processes-unknown-process-name = ({ $type }, akala { $pid }) wayeḍ
 #   $pid (String) The process id of this process, assigned by the OS.
 about-processes-process-name = Akala { $pid }: { $name }
 
+## Process names
+## Variables:
+##    $pid (String) The process id of this process, assigned by the OS.
+
+about-processes-browser-process = { -brand-short-name } ({ $pid })
+about-processes-web-process = Akal n web yettwabḍan ({ $pid })
+about-processes-file-process = Ifuyla ({ $pid })
+about-processes-extension-process = Isiɣzaf ({ $pid })
+about-processes-privilegedabout-process = Γef yisebtar ({ $pid })
+about-processes-plugin-process = Izegrar ({ $pid })
+about-processes-privilegedmozilla-process = Ismal { -vendor-short-name } ({ $pid })
+about-processes-gmp-plugin-process = Izegrar n umidyat Gecko ({ $pid })
+about-processes-gpu-process = GPU ({ $pid })
+about-processes-vr-process = VR ({ $pid })
+about-processes-rdd-process = Akestengal n yisefka ({ $pid })
+about-processes-socket-process = Azeṭṭa ({ $pid })
+about-processes-preallocated-process = Adeg uzwir ({ $pid })
+# Unknown process names
+# Variables:
+#    $pid (String) The process id of this process, assigned by the OS.
+#    $type (String) The raw type for this process.
+about-processes-unknown-process = Wayeḍ { $type } ({ $pid })
+
+## Isolated process names
+## Variables:
+##    $pid (String) The process id of this process, assigned by the OS.
+##    $origin (String) The domain name for this process.
+
+about-processes-web-isolated-process = { $origin } ({ $pid })
+
 ## Details within processes
 
 # Single-line summary of threads
