@@ -106,7 +106,13 @@ account-setup-forum-help = Stipefoarum
 
 ## Results area
 
-account-setup-protocol-title = Selektearje it protokol
+# Variables:
+#  $count (Number) - Number of available protocols.
+account-setup-results-area-title =
+    { $count ->
+        [one] Beskikbere konfiguraasje
+       *[other] Beskikbere konfiguraasjes
+    }
 # Note: IMAP is the name of a protocol.
 account-setup-result-imap = IMAP
 account-setup-result-imap-description = Hâld jo mappen en e-mailberjochten syngronisearre op jo server

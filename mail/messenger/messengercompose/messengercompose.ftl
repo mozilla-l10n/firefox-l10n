@@ -44,6 +44,9 @@ pill-action-move-cc =
 pill-action-move-bcc =
     .label = Ferpleatse nei Bcc
     .accesskey = B
+pill-action-expand-list =
+    .label = List útklappe
+    .accesskey = k
 
 # Attachment widget
 
