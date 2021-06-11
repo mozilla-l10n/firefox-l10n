@@ -11,6 +11,9 @@ remove-address-row-type = Odstrani polje { $type }
 remove-address-row-type-label =
     .tooltiptext = Odstrani polje { $type }
 #   $type (String) - the type of the addressing row
+remove-address-row-button =
+    .title = Odstrani polje { $type }
+#   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type-aria-label =
     { $count ->
@@ -45,6 +48,9 @@ pill-action-move-cc =
 pill-action-move-bcc =
     .label = Premakni v Skp
     .accesskey = S
+pill-action-expand-list =
+    .label = Razširi seznam
+    .accesskey = š
 
 # Attachment widget
 

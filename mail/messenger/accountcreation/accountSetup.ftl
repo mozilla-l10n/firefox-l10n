@@ -98,7 +98,15 @@ account-setup-forum-help = Forum za podporo
 
 ## Results area
 
-account-setup-protocol-title = Izberite protokol
+# Variables:
+#  $count (Number) - Number of available protocols.
+account-setup-results-area-title =
+    { $count ->
+        [one] Razpoložljiva nastavitev
+        [two] Razpoložljivi nastavitvi
+        [few] Razpoložljive nastavitve
+       *[other] Razpoložljive nastavitve
+    }
 # Note: IMAP is the name of a protocol.
 account-setup-result-imap = IMAP
 account-setup-result-imap-description = E-pošta in mape naj se sinhronizirajo s strežnikom
@@ -195,4 +203,5 @@ account-setup-confirm-advanced-description = To pogovorno okno se bo zaprlo in u
 ## Addon installation section
 
 account-setup-addon-install-title = Namesti
+account-setup-addon-install-intro = Dodatek tretjega ponudnika vam lahko omogoči dostop do vašega e-poštnega računa na tem strežniku:
 account-setup-addon-no-protocol = Ta e-poštni strežnik žal ne podpira odprtih protokolov. { account-setup-addon-install-intro }

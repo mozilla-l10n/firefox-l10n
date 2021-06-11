@@ -111,3 +111,6 @@ message-header-address-not-in-address-book-icon =
 addon-removal-title = Odstranim { $name }?
 addon-removal-confirmation-button = Odstrani
 addon-removal-confirmation-message = Odstranim { $name } skupaj z njegovimi nastavitvami in podatki iz { -brand-short-name(sklon: "rodilnik") }
+caret-browsing-prompt-title = Brskanje s kazalko
+caret-browsing-prompt-text = Tipka F7 vključi ali izključi brskanje s kazalko. Ta možnost na nekatero vsebino postavi premični kazalec, ki vam omogoča izbiro besedila s tipkovnico. Ali želite vključiti brskanje s kazalko?
+caret-browsing-prompt-check-text = Ne sprašuj več.
