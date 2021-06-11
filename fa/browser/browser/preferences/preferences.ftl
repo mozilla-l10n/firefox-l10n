@@ -28,6 +28,18 @@ search-input-box =
             [windows] پیدا‌کردن در گزینه‌ها
            *[other] پیدا‌کردن در ترجیحات
         }
+settings-page-title = تنظیمات
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box2 =
+    .style = width: 15.4em
+    .placeholder = Find in Settings
 managed-notice = مرورگر شما توسط سازمان شما مدیریت می شود.
 category-list =
     .aria-label = دسته‌بندی‌ها
@@ -46,11 +58,15 @@ category-privacy =
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
+pane-sync-title3 = همگام‌سازی
+category-sync3 =
+    .tooltiptext = { pane-sync-title3 }
 pane-experimental-title = آزمایش‌های { -brand-short-name }
 category-experimental =
     .tooltiptext = آزمایش‌های { -brand-short-name }
 pane-experimental-subtitle = با هوشیاری پیش بروید
 pane-experimental-search-results-header = آزمایش‌های { -brand-short-name }: با احتیاط ادامه دهید
+pane-experimental-description2 = تغییر تنظیمات پیشرفته می‌تواند بر روی کارآیی و امنیت { -brand-short-name } تاثیر بگذارد.
 pane-experimental-reset =
     .label = بازنشانی پیش‌فرض‌ها
     .accesskey = R
@@ -86,6 +102,9 @@ extension-controlled-homepage-override = یک افزودنی، <img data-l10n-na
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = یک افزودنی، <img data-l10n-name="icon"/>{ $name }، در کنترل صفحهٔ زبانه‌ٔ جدید شماست.
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlled-password-saving = یک افزونه، <img data-l10n-name="icon"/>{ $name }، این تنظیمات را کنترل می‌کند.
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlled-web-notifications = یک افزونه، <img data-l10n-name="icon"/>{ $name }، این تنظیمات را کنترل می‌کند.
