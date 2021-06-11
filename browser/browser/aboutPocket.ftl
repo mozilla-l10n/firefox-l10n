@@ -15,6 +15,7 @@ pocket-panel-saved-error-generic = خطایی در هنگام تلاش برای 
 pocket-panel-saved-error-tag-length = برچسب‌ها شامل محدودیت ۲۵ حرفی می‌باشند
 pocket-panel-saved-error-only-links = تنها لینک‌ها می توانند ذخیره شوند
 pocket-panel-saved-error-not-saved = صفحه ذخیره نشد
+pocket-panel-saved-error-no-internet = برای ذخیره در { -pocket-brand-name } باید به اینترنت متصل باشید. لطفا به اینترنت متصل و دوباره تلاش کنید.
 pocket-panel-saved-page-removed = صفحه حذف شد
 pocket-panel-saved-page-saved = در ‌{ -pocket-brand-name } ذخیره شده
 pocket-panel-saved-processing-remove = در حال حذف صفحه…
@@ -40,3 +41,5 @@ pocket-panel-signup-tagline-story-two = نمایش در { -pocket-brand-name } �
 
 ## about:pocket-home panel
 
+pocket-panel-home-my-list = فهرست من
+pocket-panel-home-welcome-back = خوش‌آمدید
