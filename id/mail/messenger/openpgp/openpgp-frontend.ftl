@@ -27,6 +27,7 @@ openpgp-missing-signature-key = Pesan ini ditandatangani dengan kunci yang belum
 openpgp-search-signature-key =
     .label = Menemukan…
 # Don't translate the terms "OpenPGP" and "MS-Exchange"
+openpgp-broken-exchange-opened = Ini adalah pesan OpenPGP yang tampaknya dirusak oleh MS-Exchange dan tidak bisa diperbaiki karena dibuka dari file lokal. Salin pesan ke folder email untuk mencoba perbaikan otomatis.
 openpgp-broken-exchange-info = Ini adalah pesan OpenPGP yang tampaknya rusak oleh MS-Exchange. Jika isi pesan tidak ditampilkan seperti yang diharapkan, Anda dapat mencoba perbaikan otomatis.
 openpgp-broken-exchange-repair =
     .label = Perbaiki pesan

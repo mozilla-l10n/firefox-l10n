@@ -10,6 +10,9 @@ preferences-title =
             [windows] Pengaturan
            *[other] Pengaturan
         }
+preferences-tab-title =
+    .title = Preferensi
+preferences-doc-title = Preferensi
 category-list =
     .aria-label = Kategori
 pane-general-title = Umum
@@ -89,6 +92,8 @@ update-in-progress-ok-button = &Hapus Perubahan
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Lanjutkan
 addons-button = Ekstensi & Tema
+account-button = Pengaturan Akun
+open-addons-sidebar-button = Pengaya dan Tema
 
 ## OS Authentication dialog
 
@@ -160,6 +165,12 @@ customize-alert-label =
 tray-icon-label =
     .label = Tampilkan ikon baki
     .accesskey = t
+biff-use-system-alert =
+    .label = Gunakan notifikasi sistem
+tray-icon-unread-label =
+    .label = Tampilkan ikon baki untuk pesan yang belum dibaca
+    .accesskey = t
+tray-icon-unread-description = Disarankan ketika menggunakan tombol bilah tugas kecil
 mail-system-sound-label =
     .label = Suara default dari sistem untuk surel baru
     .accesskey = d
@@ -312,6 +323,8 @@ quoted-text-color =
     .accesskey = o
 search-input =
     .placeholder = Cari
+search-handler-table =
+    .placeholder = Filter tipe dan tindakan konten
 type-column-label =
     .label = Tipe Isi
     .accesskey = T
@@ -697,6 +710,17 @@ search-input-box =
             [windows] Temukan di Opsi
            *[other] Temukan di Preferensi
         }
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-preferences-input =
+    .style = width: 15.4em
+    .placeholder = Temukan dalam Preferensi
 
 ## Preferences UI Search Results
 
