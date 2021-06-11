@@ -39,7 +39,7 @@ settings-page-title = تنظیمات
 # Do not translate.
 search-input-box2 =
     .style = width: 15.4em
-    .placeholder = Find in Settings
+    .placeholder = جستجو در تنظیمات
 managed-notice = مرورگر شما توسط سازمان شما مدیریت می شود.
 category-list =
     .aria-label = دسته‌بندی‌ها
@@ -540,11 +540,12 @@ home-prefs-highlights-option-visited-pages =
 home-prefs-highlights-options-bookmarks =
     .label = نشانک‌ها
 home-prefs-highlights-option-most-recent-download =
-    .label = آخرین دریافت
+    .label = جدیدترین بارگیری
 home-prefs-highlights-option-saved-to-pocket =
-    .label = صفحات در { -pocket-brand-name } ذخیره شد
+    .label = صفحات ذخیره شده در { -pocket-brand-name }
 home-prefs-recent-activity-header =
     .label = فعالیت‌های اخیر
+home-prefs-recent-activity-description = منتخبی از وب‌سایت‌ها و مطالب اخیر
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -552,6 +553,7 @@ home-prefs-recent-activity-header =
 home-prefs-snippets-header =
     .label = قطعه‌ها
 home-prefs-snippets-description = بروزرسانی از { -vendor-short-name } و { -brand-product-name }
+home-prefs-snippets-description-new = نکات و اخبار از { -vendor-short-name } و { -brand-product-name }
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -602,7 +604,7 @@ search-remove-engine =
 search-add-engine =
     .label = اضافه کردن
     .accesskey = A
-search-find-more-link = پیدا کردن موتورهای جست‌وجو بیشتر
+search-find-more-link = پیدا کردن موتورهای جستجو بیشتر
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = کلیدواژهٔ تکراری
@@ -838,7 +840,7 @@ history-remember-browser-option =
     .label = ذخیرهٔ تاریخچهٔ دریافت‌ها و مرور
     .accesskey = b
 history-remember-search-option =
-    .label = اطلاعاتی که در فرم‌های صفحات وب و نوار جست‌وجو وارد می‌شوند به خاطر سپرده شود
+    .label = به خاطر سپردن اطلاعاتی که در فرم‌های صفحات وب و نوار جستجو وارد می‌شوند
     .accesskey = ط
 history-clear-on-close-option =
     .label = تاریخچه همیشه هنگام بستن { -brand-short-name } پاک شود
