@@ -193,3 +193,5 @@ appmenu-customizetoolbar =
 appmenu-taskmanager =
     .label = مدیر وظایف
 appmenu-developer-tools-subheader = ابزارهای مرورگر
+appmenu-developer-tools-extensions =
+    .label = افزودنی‌ها برای توسعه‌دهندگان

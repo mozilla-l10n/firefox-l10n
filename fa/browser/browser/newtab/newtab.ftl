@@ -5,7 +5,7 @@
 
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
-newtab-page-title = زبانه جدید
+newtab-page-title = زبانهٔ جدید
 newtab-settings-button =
     .title = صفحهٔ زبانه جدید را سفارشی کنید
 newtab-personalize-button-label = شخصی‌سازی
@@ -18,34 +18,34 @@ newtab-personalize-dialog-label =
 
 # "Search" is a verb/action
 newtab-search-box-search-button =
-    .title = جست‌وجو
-    .aria-label = جست‌وجو
-newtab-search-box-search-the-web-text = جست‌وجوی وب
+    .title = جستجو
+    .aria-label = جستجو
+newtab-search-box-search-the-web-text = جستجوی وب
 # Variables
 #  $engine (String): the name of the user's default search engine
-newtab-search-box-handoff-text = با { $engine } جست‌وجو یا آدرسی وارد کنید
-newtab-search-box-handoff-text-no-engine = عبارتی برای جست‌وجو یا یک آدرس وارد کنید
+newtab-search-box-handoff-text = با { $engine } جستجو یا آدرسی وارد کنید
+newtab-search-box-handoff-text-no-engine = عبارتی برای جستجو یا یک آدرس وارد کنید
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-input =
-    .placeholder = با { $engine } جست‌وجو یا آدرسی وارد کنید
-    .title = با { $engine } جست‌وجو یا آدرسی وارد کنید
-    .aria-label = با { $engine } جست‌وجو یا آدرسی وارد کنید
+    .placeholder = با { $engine } جستجو یا یک آدرس وارد کنید
+    .title = با { $engine } جستجو یا یک آدرس وارد کنید
+    .aria-label = با { $engine } جستجو یا یک آدرس وارد کنید
 newtab-search-box-handoff-input-no-engine =
     .placeholder = عبارتی برای جست‌وجو یا یک آدرس وارد کنید
     .title = عبارتی برای جست‌وجو یا یک آدرس وارد کنید
     .aria-label = عبارتی برای جست‌وجو یا یک آدرس وارد کنید
 newtab-search-box-search-the-web-input =
-    .placeholder = جست‌وجوی وب
-    .title = جست‌وجوی وب
-    .aria-label = جست‌وجوی وب
+    .placeholder = جستجوی وب
+    .title = جستجوی وب
+    .aria-label = جستجوی وب
 newtab-search-box-input =
-    .placeholder = جست‌وجو در وب
-    .aria-label = جست‌وجو در وب
+    .placeholder = جستجو در وب
+    .aria-label = جستجو در وب
 
 ## Top Sites - General form dialog.
 
-newtab-topsites-add-search-engine-header = افزودن موتور جست‌وجو
+newtab-topsites-add-search-engine-header = افزودن موتور جستجو
 newtab-topsites-add-topsites-header = سایت برتر جدید
 newtab-topsites-add-shortcut-header = میانبر جدید
 newtab-topsites-edit-topsites-header = ویرایش سایت برتر
