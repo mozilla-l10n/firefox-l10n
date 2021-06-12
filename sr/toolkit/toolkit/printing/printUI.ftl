@@ -4,7 +4,7 @@
 
 printui-title = Штампај
 # Dialog title to prompt the user for a filename to save print to PDF.
-printui-save-to-pdf-title = Сачувај као
+printui-save-to-pdf-title = Чување
 # Variables
 # $sheetCount (integer) - Number of paper sheets
 printui-sheets-count =
@@ -28,7 +28,7 @@ printui-landscape = Водоравно
 printui-portrait = Усправно
 # Section title for the printer or destination device to target
 printui-destination-label = Одредиште
-printui-destination-pdf-label = Сачувај у PDF-у
+printui-destination-pdf-label = Сачувај као PDF
 printui-more-settings = Више подешавања
 printui-less-settings = Мање подешавања
 printui-paper-size-label = Величина папира
