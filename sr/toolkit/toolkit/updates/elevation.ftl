@@ -15,9 +15,7 @@ elevation-error-manual =
        *[other] Програм { -brand-short-name }
     } можете да ажурирате ручно преузимањем најновије верзије са ове адресе:
 elevation-finished-page = Ажурирање је спремно за инсталацију
-elevation-finished-background-page =
-    Ажурирање за безбедност и стабилност за { -brand-short-name } је преузео
-    и спремно је за инсталацију.
+elevation-finished-background-page = Преузето је ажурирање са побољшањима безбедности и стабилности за { -brand-short-name } и спремно је за инсталирање.
 elevation-finished-background = Ажурирање:
 elevation-more-elevated =
     Ово ажурирање захтева привилегије администратора. Ажурирање ће бити
