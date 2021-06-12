@@ -243,6 +243,8 @@ menu-bookmarks-show-all =
     .label = Zobrazit všechny záložky
 menu-bookmark-this-page =
     .label = Přidat stránku do záložek
+menu-bookmarks-manage =
+    .label = Správa záložek
 menu-bookmark-current-tab =
     .label = Přidat současný panel do záložek
 menu-bookmark-edit =
@@ -276,15 +278,15 @@ menu-tools-fxa-sign-in =
            *[other] aplikaci { -brand-product-name }
         }…
     .accesskey = p
+menu-tools-turn-on-sync =
+    .label = Zapnout { -sync-brand-short-name(case: "acc") }…
+    .accesskey = n
 menu-tools-addons-and-themes =
     .label = Doplňky a vzhledy
     .accesskey = a
 menu-tools-fxa-sign-in2 =
     .label = Přihlásit se
     .accesskey = P
-menu-tools-turn-on-sync =
-    .label = Zapnout { -sync-brand-short-name(case: "acc") }…
-    .accesskey = n
 menu-tools-turn-on-sync2 =
     .label = Zapnout synchronizaci…
     .accesskey = n
@@ -315,13 +317,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Informace o stránce
     .accesskey = I
-menu-settings =
-    .label = Nastavení
-    .accesskey =
-        { PLATFORM() ->
-            [windows] s
-           *[other] s
-        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -332,6 +327,13 @@ menu-preferences =
         { PLATFORM() ->
             [windows] M
            *[other] v
+        }
+menu-settings =
+    .label = Nastavení
+    .accesskey =
+        { PLATFORM() ->
+            [windows] s
+           *[other] s
         }
 menu-tools-layout-debugger =
     .label = Debugger rozložení
@@ -382,14 +384,12 @@ menu-help-import-from-another-browser =
 menu-help-keyboard-shortcuts =
     .label = Klávesové zkratky
     .accesskey = K
-menu-get-help =
-    .label = Získat pomoc
-    .accesskey = p
 menu-help-troubleshooting-info =
     .label = Technické informace
     .accesskey = T
-menu-help-taskmanager =
-    .label = Správce úloh
+menu-get-help =
+    .label = Získat pomoc
+    .accesskey = p
 menu-help-more-troubleshooting-info =
     .label = Další technické informace
     .accesskey = t

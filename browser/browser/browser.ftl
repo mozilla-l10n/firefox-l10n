@@ -183,8 +183,6 @@ page-action-send-tabs-urlbar =
             [few] Poslat { $tabCount } panely do zařízení
            *[other] Poslat { $tabCount } panelů do zařízení
         }
-page-action-pocket-panel =
-    .label = Uložit stránku do { -pocket-brand-name(case: "gen") }
 page-action-copy-url-panel =
     .label = Kopírovat odkaz
 page-action-copy-url-urlbar =
@@ -478,6 +476,8 @@ popup-select-microphone-device =
     .accesskey = M
 popup-select-microphone-icon =
     .tooltiptext = Mikrofon
+popup-select-speaker-icon =
+    .tooltiptext = Zvukový výstup
 popup-all-windows-shared = Budou sdílena všechna viditelná okna na vaší obrazovce.
 popup-screen-sharing-not-now =
     .label = Teď ne
@@ -657,8 +657,6 @@ crashed-subframe-submit =
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = Zobrazit všechny záložky
 bookmarks-manage-bookmarks =
     .label = Správa záložek
 bookmarks-recent-bookmarks-panel-subheader = Naposledy přidané
@@ -731,6 +729,9 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = Uložit do { -pocket-brand-name(case: "gen") }
     .tooltiptext = Uloží stránku do { -pocket-brand-name(case: "gen") }
+
+## Repair text encoding toolbar button
+
 
 ## Customize Toolbar Buttons
 
