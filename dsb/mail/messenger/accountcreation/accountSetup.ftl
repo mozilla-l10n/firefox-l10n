@@ -106,7 +106,15 @@ account-setup-forum-help = Forum pomocy
 
 ## Results area
 
-account-setup-protocol-title = Protokol wubraś
+# Variables:
+#  $count (Number) - Number of available protocols.
+account-setup-results-area-title =
+    { $count ->
+        [one] K dispoziciji stojeca konfiguracija
+        [two] K dispoziciji stojecej konfiguraciji
+        [few] K dispoziciji stojece konfiguracije
+       *[other] K dispoziciji stojecych konfiguracijow
+    }
 # Note: IMAP is the name of a protocol.
 account-setup-result-imap = IMAP
 account-setup-result-imap-description = Źaržćo swóje zarědniki a mejlki na swójom serwerje synchrone
