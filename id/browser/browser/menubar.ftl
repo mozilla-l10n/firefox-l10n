@@ -173,6 +173,9 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = Pengodean Teks
     .accesskey = o
+menu-view-repair-text-encoding =
+    .label = Memperbaiki Pengodean Teks
+    .accesskey = k
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -227,6 +230,8 @@ menu-bookmarks-show-all =
     .label = Tampilkan Semua Markah…
 menu-bookmark-this-page =
     .label = Markahi Laman ini
+menu-bookmarks-manage =
+    .label = Kelola Markah
 menu-bookmark-current-tab =
     .label = Markahi Tab Saat Ini
 menu-bookmark-edit =
@@ -254,15 +259,15 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Masuk ke { -brand-product-name }…
     .accesskey = M
+menu-tools-turn-on-sync =
+    .label = Aktifkan { -sync-brand-short-name }…
+    .accesskey = A
 menu-tools-addons-and-themes =
     .label = Pengaya dan Tema
     .accesskey = P
 menu-tools-fxa-sign-in2 =
     .label = Masuk
     .accesskey = M
-menu-tools-turn-on-sync =
-    .label = Aktifkan { -sync-brand-short-name }…
-    .accesskey = A
 menu-tools-turn-on-sync2 =
     .label = Aktifkan Sinkronisasi…
     .accesskey = A
@@ -287,13 +292,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Informasi Laman
     .accesskey = I
-menu-settings =
-    .label = Pengaturan
-    .accesskey =
-        { PLATFORM() ->
-            [windows] P
-           *[other] P
-        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -304,6 +302,13 @@ menu-preferences =
         { PLATFORM() ->
             [windows] g
            *[other] g
+        }
+menu-settings =
+    .label = Pengaturan
+    .accesskey =
+        { PLATFORM() ->
+            [windows] P
+           *[other] P
         }
 menu-tools-layout-debugger =
     .label = Debugger Tata Letak
@@ -342,14 +347,12 @@ menu-help-import-from-another-browser =
 menu-help-keyboard-shortcuts =
     .label = Pintasan Papan Ketik
     .accesskey = K
-menu-get-help =
-    .label = Dapatkan Bantuan
-    .accesskey = B
 menu-help-troubleshooting-info =
     .label = Informasi Pemecahan Masalah…
     .accesskey = M
-menu-help-taskmanager =
-    .label = Pengelola Tugas
+menu-get-help =
+    .label = Dapatkan Bantuan
+    .accesskey = B
 menu-help-more-troubleshooting-info =
     .label = Informasi Pemecahan Masalah Lebih Lanjut
     .accesskey = I
