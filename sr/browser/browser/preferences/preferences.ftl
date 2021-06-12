@@ -777,7 +777,7 @@ sync-device-name-cancel =
     .accesskey = т
 sync-device-name-save =
     .label = Сачувај
-    .accesskey = ч
+    .accesskey = С
 sync-connect-another-device = Повежи други уређај
 
 ## Privacy Section
@@ -1231,4 +1231,4 @@ choose-download-folder-title = Избор фасцикле за преузима
 # Variables:
 #   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
 save-files-to-cloud-storage =
-    .label = Сачувајте датотеке преко услуге { $service-name }
+    .label = Сачувајте датотеке у услузи { $service-name }
