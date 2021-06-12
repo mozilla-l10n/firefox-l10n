@@ -2,40 +2,68 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY sanitizeDialog.title            "Borrar datos privados">
-<!ENTITY sanitizeItems.label             "Borrar los siguientes ítems ahora:">
+<!ENTITY sanitizeDialog.title             "Borrar datos privados">
 
-<!--LOCALIZATION NOTE : Make sure to not have overlapped  accesskeys with
-    pref-privatedata.dtd. These entities are also used in the private data
-    preferences dialog.
--->
-<!ENTITY itemHistory.label               "Historial de navegación">
-<!ENTITY itemHistory.accesskey           "H">
-<!ENTITY itemHistoryS.accesskey          "r">
-<!ENTITY itemUrlBar.label                "Historial de la barra de direcciones">
-<!ENTITY itemUrlBar.accesskey            "l">
-<!ENTITY itemUrlBarS.accesskey           "t">
-<!ENTITY itemDownloads.label             "Historial de descargas">
-<!ENTITY itemDownloads.accesskey         "d">
-<!ENTITY itemDownloadsS.accesskey        "y">
-<!ENTITY itemFormSearchHistory.label     "Historial de búsquedas y formularios">
-<!ENTITY itemFormSearchHistory.accesskey "f">
+<!-- LOCALIZATION NOTE (sanitizeDialog.width): width of the Clear Recent
+     History dialog -->
+<!ENTITY sanitizeDialog.width             "34em">
+
+<!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear"
+     dropdown. -->
+<!ENTITY clearTimeDuration.label          "Rango de tiempo a borrar: ">
+<!ENTITY clearTimeDuration.accesskey      "t">
+<!ENTITY clearTimeDuration.lastHour       "Última hora">
+<!ENTITY clearTimeDuration.last2Hours     "Últimas dos horas">
+<!ENTITY clearTimeDuration.last4Hours     "Últimas cuatro horas">
+<!ENTITY clearTimeDuration.today          "Hoy">
+<!ENTITY clearTimeDuration.everything     "Todo">
+<!-- Localization note (clearTimeDuration.suffix) - trailing entity for
+     languages that require it. -->
+<!ENTITY clearTimeDuration.suffix         "">
+
+<!--  LOCALIZATION NOTE (sanitizeSelectedWarning): Warning that appears
+      when not all items are selected in the in Clear Private data dialog. -->
+<!ENTITY sanitizeSelectedWarning          "Todos los ítems seleccionados serán borrados.">
+
+<!-- LOCALIZATION NOTE (sanitizeUndoWarning): Second warning
+     paragraph that always appears. -->
+<!ENTITY sanitizeUndoWarning              "Esta acción no puede deshacerse.">
+
+<!ENTITY sanitizeItems.label              "Borrar los siguientes ítems ahora:">
+
+<!-- LOCALIZATION NOTE : Try to make sure to not have overlapped  accesskeys
+     with pref-privatedata.dtd. These entities are also used in the private
+     data preferences dialog. -->
+<!ENTITY itemHistory.label                "Historial de navegación">
+<!ENTITY itemHistory.accesskey            "H">
+<!ENTITY itemHistoryS.accesskey           "r">
+<!ENTITY itemUrlBar.label                 "Historial de la barra de direcciones">
+<!ENTITY itemUrlBar.accesskey             "l">
+<!ENTITY itemUrlBarS.accesskey            "t">
+<!ENTITY itemDownloads.label              "Historial de descargas">
+<!ENTITY itemDownloads.accesskey          "d">
+<!ENTITY itemDownloadsS.accesskey         "y">
+<!ENTITY itemFormSearchHistory.label      "Historial de búsquedas y formularios">
+<!ENTITY itemFormSearchHistory.accesskey  "f">
 <!ENTITY itemFormSearchHistoryS.accesskey "m">
-<!ENTITY itemCache.label                 "Caché">
-<!ENTITY itemCache.accesskey             "a">
-<!ENTITY itemCacheS.accesskey            "e">
-<!ENTITY itemCookies.label               "Cookies">
-<!ENTITY itemCookies.accesskey           "C">
-<!ENTITY itemCookiesS.accesskey          "k">
-<!ENTITY itemOfflineApps.label           "Datos de sitios web sin conexión">
-<!ENTITY itemOfflineApps.accesskey       "o">
-<!ENTITY itemOfflineAppsS.accesskey      "i">
-<!ENTITY itemPasswords.label             "Contraseñas guardadas">
-<!ENTITY itemPasswords.accesskey         "C">
-<!ENTITY itemPasswordsS.accesskey        "v">
-<!ENTITY itemSessions.label              "Sesiones autenticadas">
-<!ENTITY itemSessions.accesskey          "S">
+<!ENTITY itemCache.label                  "Caché">
+<!ENTITY itemCache.accesskey              "a">
+<!ENTITY itemCacheS.accesskey             "e">
+<!ENTITY itemCookies.label                "Cookies">
+<!ENTITY itemCookies.accesskey            "C">
+<!ENTITY itemCookiesS.accesskey           "k">
+<!ENTITY itemOfflineApps.label            "Datos de sitios web sin conexión">
+<!ENTITY itemOfflineApps.accesskey        "o">
+<!ENTITY itemOfflineAppsS.accesskey       "i">
+<!ENTITY itemPasswords.label              "Contraseñas guardadas">
+<!ENTITY itemPasswords.accesskey          "C">
+<!ENTITY itemPasswordsS.accesskey         "v">
+<!ENTITY itemSessions.label               "Sesiones autenticadas">
+<!ENTITY itemSessions.accesskey           "S">
 
-<!ENTITY itemSessionsS.accesskey         "u">
+<!ENTITY itemSessionsS.accesskey          "u">
 
 <!ENTITY sanitizeButton.label            "Borrar datos privados ahora">
+<!ENTITY itemSitePreferences.label        "Preferencias del sitio">
+<!ENTITY itemSitePreferences.accesskey    "P">
+<!ENTITY itemSitePreferencesS.accesskey   "t">
