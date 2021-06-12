@@ -45,3 +45,5 @@ process-type-rdd = RDD
 ## Other
 ##
 
+# fallback
+process-type-unknown = Man etaman ta ruwäch
