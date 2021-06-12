@@ -306,6 +306,7 @@ cfr-whatsnew-cross-site-tracking-body = Kini Anda dapat memilih perlindungan yan
 
 ## Full Video Support CFR message
 
+cfr-doorhanger-video-support-body = Video pada situs ini mungkin tidak dapat diputar dengan benar dalam versi { -brand-short-name } ini. Untuk dukungan video penuh, perbarui { -brand-short-name } sekarang.
 cfr-doorhanger-video-support-header = Perbarui { -brand-short-name } untuk memutar video
 cfr-doorhanger-video-support-primary-button = Perbarui Sekarang
     .accesskey = u

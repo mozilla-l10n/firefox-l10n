@@ -279,6 +279,12 @@ mr1-onboarding-reduce-motion-button-label = Nonaktifkan animasi
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
+# Primary button string used on welcome page when Firefox is not pinned.
+mr1-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Pertahankan dalam Dock
+       *[other] Sematkan ke bilah tugas
+    }
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
