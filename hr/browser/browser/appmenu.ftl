@@ -191,3 +191,5 @@ appmenu-customizetoolbar =
 appmenu-taskmanager =
     .label = Upravljač zadataka
 appmenu-developer-tools-subheader = Alati preglednika
+appmenu-developer-tools-extensions =
+    .label = Proširenja za razvijatelje
