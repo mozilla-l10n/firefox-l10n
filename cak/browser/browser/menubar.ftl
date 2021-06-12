@@ -227,6 +227,8 @@ menu-bookmarks-show-all =
     .label = Kek'ut konojel ri taq yaketal
 menu-bookmark-this-page =
     .label = Titz'aqatisäx re ruxaq re' pa taq yaketal
+menu-bookmarks-manage =
+    .label = Kenuk'samajïx Taq Yaketal
 menu-bookmark-current-tab =
     .label = Tiya' Retal Ruwi' Wakami
 menu-bookmark-edit =
@@ -254,15 +256,15 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Titikirisäx Moloj Pa { -brand-product-name }...
     .accesskey = k
+menu-tools-turn-on-sync =
+    .label = Titzij { -sync-brand-short-name }...
+    .accesskey = t
 menu-tools-addons-and-themes =
     .label = Taq Tz'aqat chuqa' taq Wachinel
     .accesskey = z
 menu-tools-fxa-sign-in2 =
     .label = Titikirisäx Molojri'ïl
     .accesskey = k
-menu-tools-turn-on-sync =
-    .label = Titzij { -sync-brand-short-name }...
-    .accesskey = t
 menu-tools-turn-on-sync2 =
     .label = Titzij Ximoj…
     .accesskey = z
@@ -287,13 +289,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Rutzijol rij re jun ruxaq re'
     .accesskey = R
-menu-settings =
-    .label = Taq nuk'ulem
-    .accesskey =
-        { PLATFORM() ->
-            [windows] n
-           *[other] m
-        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -304,6 +299,13 @@ menu-preferences =
         { PLATFORM() ->
             [windows] c
            *[other] o
+        }
+menu-settings =
+    .label = Taq nuk'ulem
+    .accesskey =
+        { PLATFORM() ->
+            [windows] n
+           *[other] m
         }
 menu-tools-layout-debugger =
     .label = Ruchojmirisanel Wachib'enïk
@@ -342,14 +344,12 @@ menu-help-import-from-another-browser =
 menu-help-keyboard-shortcuts =
     .label = Ruq'a' rub'ey Keyboard
     .accesskey = K
-menu-get-help =
-    .label = Tk'ul To'ïk
-    .accesskey = o
 menu-help-troubleshooting-info =
     .label = Etamab'äl richin yesol taq k'ayewal
     .accesskey = E
-menu-help-taskmanager =
-    .label = Kinuk'samajel taq Samaj
+menu-get-help =
+    .label = Tk'ul To'ïk
+    .accesskey = o
 menu-help-more-troubleshooting-info =
     .label = Ch'aqa' Etamab'äl richin yesol taq k'ayewal
     .accesskey = E

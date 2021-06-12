@@ -181,8 +181,6 @@ page-action-send-tabs-urlbar =
             [one] Titaq Ruwi' pan Okisab'äl
            *[other] Ketaq { $tabCount } taq Ruwi' pan Okisab'äl
         }
-page-action-pocket-panel =
-    .label = Tiyak Ruxaq pa { -pocket-brand-name }
 page-action-copy-url-panel =
     .label = Tiwachib'ëx Ximonel
 page-action-copy-url-urlbar =
@@ -442,6 +440,8 @@ popup-select-microphone-device =
     .accesskey = q
 popup-select-microphone-icon =
     .tooltiptext = Q'asäy ch'ab'äl
+popup-select-speaker-icon =
+    .tooltiptext = Ch'ab'anela'
 popup-all-windows-shared = Xkekomonïx konojel ri tz'etel taq tzuwäch e k'o pa ri ruwäch.
 popup-screen-sharing-not-now =
     .label = Wakami Mani
@@ -615,8 +615,6 @@ crashed-subframe-submit =
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = Kek'ut konojel ri taq yaketal
 bookmarks-manage-bookmarks =
     .label = Kenuk'samajïx Taq Yaketal
 bookmarks-recent-bookmarks-panel-subheader = K'ak'a' Taq Yaketal
@@ -689,6 +687,9 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = Tiyak pa { -pocket-brand-name }
     .tooltiptext = Tiyak pa { -pocket-brand-name }
+
+## Repair text encoding toolbar button
+
 
 ## Customize Toolbar Buttons
 

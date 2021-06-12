@@ -311,3 +311,8 @@ cfr-whatsnew-bookmarking-body = Man k'ayew ta ye'oqäx ri jeb'ël taq ruxaq. { -
 
 cfr-whatsnew-cross-site-tracking-header = Tz'aqät chajinïk chuwäch kojqanem cookies chi kikojol taq ruxaq
 cfr-whatsnew-cross-site-tracking-body = Wakami yatikïr nacha' jun ütz chajinïk chuwäch kojqanem cookies. { -brand-short-name } nitikïr yerujech'ej ri taq asamaj chuqa' ri taq atzij pa ri ruxaq at k'o wi wakami richin chi man kekomonïx pa taq ruxaq ri taq tzij yakon pa ri okik'amaya'l.
+
+## Full Video Support CFR message
+
+cfr-doorhanger-video-support-primary-button = Tik'ex Wakami
+    .accesskey = T
