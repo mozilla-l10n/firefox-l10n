@@ -23,6 +23,12 @@ appmenuitem-addons-and-themes =
     .label = mga Add-on at Themes
 appmenuitem-find-in-page =
     .label = Hanapin Sa Pahina...
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Lumabas
+           *[other] Lumabas
+        }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =

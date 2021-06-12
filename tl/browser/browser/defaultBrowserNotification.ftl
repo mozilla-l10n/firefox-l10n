@@ -7,3 +7,10 @@ default-browser-notification-message = <strong>Itakda ang { -brand-short-name } 
 default-browser-notification-button =
     .label = Itakda bilang Default
     .accesskey = S
+
+## These strings are used for the default browser prompt. There are 2 variations
+## depending on the operating system (Windows vs other). The checkbox label and
+## secondary button are shared between the variants.
+
+default-browser-prompt-button-primary-pin = Gawing pangunahing browser
+default-browser-prompt-button-secondary = Hindi ngayon

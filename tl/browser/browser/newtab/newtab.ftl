@@ -11,6 +11,8 @@ newtab-settings-button =
 newtab-personalize-button-label = i-Personalize
     .title = i-Personalize ang bagong tab
     .aria-label = i-Personalize
+newtab-personalize-dialog-label =
+    .aria-label = i-Personalize
 
 ## Search box component.
 
@@ -23,7 +25,6 @@ newtab-search-box-search-the-web-input =
     .placeholder = Hanapin sa Web
     .title = Hanapin sa Web
     .aria-label = Hanapin sa Web
-newtab-search-box-text = Hanapin sa web
 newtab-search-box-input =
     .placeholder = Hanapin sa web
     .aria-label = Hanapin sa web
@@ -133,7 +134,7 @@ newtab-menu-show-file =
         [macos] Ipakita sa Finder
        *[other] Buksan ang Naglalaman na Folder
     }
-newtab-menu-open-file = Magbukas ng File
+newtab-menu-open-file = Buksan ang File
 
 ## Card Labels: These labels are associated to pages to give
 ## context on how the element is related to the user, e.g. type indicates that

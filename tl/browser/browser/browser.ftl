@@ -178,8 +178,6 @@ page-action-send-tabs-urlbar =
             [one] Ipadala ang Tab sa Device
            *[other] Magpadala ng { $tabCount } Tab sa Device
         }
-page-action-pocket-panel =
-    .label = i-Save ang Pahina sa { -pocket-brand-name }
 page-action-copy-url-panel =
     .label = Kopyahin ang Link
 page-action-copy-url-urlbar =
@@ -282,6 +280,8 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = S
 bookmark-panel-done-button =
     .label = Tapos na
+bookmark-panel-save-button =
+    .label = i-Save
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -364,11 +364,18 @@ browser-window-close-button =
 
 ## Tab actions
 
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = MUTED
 
 ## These labels should be written in all capital letters if your locale supports them.
 ## Variables:
 ##  $count (number): number of affected tabs
 
+browser-tab-unblock =
+    { $count ->
+        [1] i-PLAY ANG TAB
+       *[other] i-PLAY ANG MGA { $count } TAB
+    }
 
 ## Bookmarks toolbar items
 
@@ -381,6 +388,16 @@ popup-select-camera =
 popup-select-microphone =
     .value = Mga mikropono na pwedeng ibahagi:
     .accesskey = M
+popup-select-camera-device =
+    .value = Camera:
+    .accesskey = C
+popup-select-camera-icon =
+    .tooltiptext = Camera
+popup-select-microphone-device =
+    .value = Mikropono:
+    .accesskey = M
+popup-select-microphone-icon =
+    .tooltiptext = Mikropono
 popup-all-windows-shared = Lahat ng nakikitang window sa iyong screen ay ibabahagi.
 popup-screen-sharing-not-now =
     .label = Hindi Ngayon
@@ -487,6 +504,11 @@ urlbar-result-action-tabtosearch-web = Maghanap gamit ang { $engine } direkta mu
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = Maghanap sa { $engine } direkta mula sa address bar
+# Shows the result of a formula expression being calculated, the last = sign will be shown
+# as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result = = { $result }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -517,8 +539,6 @@ pointerlock-warning-no-domain = Ang dokumentong ito ay may kontrol sa iyong poin
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = Ipakita Lahat ng mga Bookmark
 bookmarks-toolbar-chevron =
     .tooltiptext = Magpakita ng karagdagang mga bookmark
 bookmarks-sidebar-content =
@@ -578,6 +598,9 @@ save-to-pocket-button =
     .label = i-Save sa { -pocket-brand-name }
     .tooltiptext = i-Save sa { -pocket-brand-name }
 
+## Repair text encoding toolbar button
+
+
 ## Customize Toolbar Buttons
 
 # Variables:
@@ -599,6 +622,8 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Ang ilang mga audio o video sa site na ito ay gumagamit ng software na DRM, na maaaring limitahan ang { -brand-short-name } sa kung ano ang maaaring mong gawin dito.
+eme-notifications-drm-content-playing-manage-accesskey = M
+eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Password save/update panel
 
