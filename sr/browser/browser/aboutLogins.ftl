@@ -73,7 +73,6 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Тражите сачуване пријаве? Подесите { -sync-brand-short-name }.
-about-logins-login-intro-heading-logged-out = Тражите сачуване пријаве? Увезите их или подесите { -sync-brand-short-name(case: "acc") }.
 about-logins-login-intro-heading-logged-out2 = Тражите сачуване лозинке? Увезите их или укључите синхронизацију.
 about-logins-login-intro-heading-logged-in = Синхронизоване пријаве нису пронађене.
 login-intro-description =
@@ -353,7 +352,6 @@ about-logins-import-dialog-error-unable-to-read-title = Није могуће о
 about-logins-import-dialog-error-unable-to-read-description = Проверите да ли сте изабрали CSV или TSV датотеку.
 about-logins-import-dialog-error-no-logins-imported = Ниједна пријава није увезена
 about-logins-import-dialog-error-learn-more = Сазнајте више
-about-logins-import-dialog-error-try-again = Покушај поново…
 about-logins-import-dialog-error-try-import-again = Покушај увоз поново…
 about-logins-import-dialog-error-cancel = Откажи
 about-logins-import-report-title = Сажетак увоза
