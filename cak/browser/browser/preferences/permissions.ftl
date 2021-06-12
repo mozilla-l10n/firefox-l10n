@@ -58,6 +58,10 @@ permissions-capabilities-listitem-block =
     .value = Tiq'eleb'ëx
 permissions-capabilities-listitem-allow-session =
     .value = Tiya' q'ij pa re molojri'ïl re'
+permissions-capabilities-listitem-off =
+    .value = Tichup
+permissions-capabilities-listitem-off-temporarily =
+    .value = Tichup jumej
 
 ## Invalid Hostname Dialog
 
@@ -77,6 +81,9 @@ permissions-exceptions-cookie-window =
     .title = Taq Man Relik ta - Taq Kaxlanwey chuqa' Rutzij Ruxaq K'amaya'l
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = Yatikïr naya' ketal ri taq ajk'amaya'l ruxaq junelïk o majub'ey nikokisaj kaxlanwey o kitzij ruxaq.  Tatz'ib'aj ri tz'aqät rochochib'al ruxaq nawajo' nanuk'samajij k'a ri' tapitz'a' pa Tiq'at, Tiya' Q'ij chi re ri Molojri'ïl, o Tiya' Q'ij.
+
+## Exceptions - HTTPS-Only Mode
+
 
 ## Exceptions - Pop-ups
 

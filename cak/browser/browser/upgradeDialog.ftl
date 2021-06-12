@@ -32,12 +32,23 @@ upgrade-dialog-new-secondary-button = Wakami mani
 # theme selection screen.
 upgrade-dialog-new-primary-win7-button = ¡Ütz, niq'ax pa nuwi'!
 
+## Pin Firefox screen
+##
+## These title, subtitle and button strings differ between platforms as they
+## match the OS' application context menu item action where Windows uses "pin"
+## and "taskbar" while macOS "keep" and "Dock" (proper noun).
+
+upgrade-dialog-pin-secondary-button = Wakami mani
+
 ## Default browser screen
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-default-title = ¿La nib'an chi ri { -brand-short-name } tok nab'ey awokik'amaya'l?
 upgrade-dialog-default-subtitle = Tak'ulu' aninem, jikomal chuqa' ichinanem toq yatok pa k'amaya'l.
 upgrade-dialog-default-primary-button = Tiya' kan achi'el kanob'äl k'o wi
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title-2 = ¿La nib'an chi ri { -brand-short-name } tok nab'ey?
+upgrade-dialog-default-primary-button-2 = Tib'an chi tok jun nab'ey okik'amaya'l
 upgrade-dialog-default-secondary-button = Wakami mani
 
 ## Theme selection screen
