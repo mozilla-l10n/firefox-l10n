@@ -13,6 +13,8 @@ default-browser-notification-button =
 ## secondary button are shared between the variants.
 
 default-browser-prompt-title-pin = Jadikan { -brand-short-name } peramban utama Anda?
+default-browser-prompt-message-pin = Simpan { -brand-short-name } di ujung jari Anda — jadikan sebagai peramban utama Anda dan sematkan ke bilah tugas Anda.
+default-browser-prompt-message-pin-mac = Simpan { -brand-short-name } di ujung jari Anda — jadikan browser default Anda dan simpan di Dock Anda.
 default-browser-prompt-button-primary-pin = Jadikan sebagai peramban utama
 default-browser-prompt-title-alt = Jadikan { -brand-short-name } peramban baku Anda?
 default-browser-prompt-message-alt = Dapatkan kecepatan, keamanan, dan privasi setiap kali Anda menjelajah.
