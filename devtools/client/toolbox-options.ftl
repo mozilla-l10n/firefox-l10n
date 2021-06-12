@@ -61,6 +61,8 @@ options-screenshot-label = Perilaku Tangkapan Layar
 options-screenshot-clipboard-label = Salin tangkapan layar ke papan klip
 options-screenshot-clipboard-tooltip =
     .title = Simpan tangkapan layar langsung ke papan klip
+# Label for the checkbox that toggles screenshot to clipboard feature
+options-screenshot-clipboard-only-label = Cuplikan layar ke papan klip saja
 options-screenshot-clipboard-tooltip2 =
     .title = Simpan tangkapan layar langsung ke papan klip
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
