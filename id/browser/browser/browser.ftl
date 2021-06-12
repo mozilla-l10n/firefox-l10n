@@ -173,8 +173,6 @@ page-action-send-tabs-panel =
     .label = Kirim Tab ke { $tabCount } Peranti
 page-action-send-tabs-urlbar =
     .tooltiptext = Kirim Tab ke { $tabCount } Peranti
-page-action-pocket-panel =
-    .label = Simpan Laman ke { -pocket-brand-name }
 page-action-copy-url-panel =
     .label = Salin Tautan
 page-action-copy-url-urlbar =
@@ -427,6 +425,8 @@ popup-select-microphone-device =
     .accesskey = M
 popup-select-microphone-icon =
     .tooltiptext = Mikrofon
+popup-select-speaker-icon =
+    .tooltiptext = Pengeras suara
 popup-all-windows-shared = Semua jendela yang terlihat pada layar Anda akan dibagikan.
 popup-screen-sharing-not-now =
     .label = Jangan Sekarang
@@ -600,8 +600,6 @@ crashed-subframe-submit =
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = Tampilkan Semua Markah…
 bookmarks-manage-bookmarks =
     .label = Kelola Markah
 bookmarks-recent-bookmarks-panel-subheader = Markah Terbaru
@@ -674,6 +672,12 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = Simpan ke { -pocket-brand-name }
     .tooltiptext = Simpan ke { -pocket-brand-name }
+
+## Repair text encoding toolbar button
+
+repair-text-encoding-button =
+    .label = Memperbaiki pengodean teks
+    .tooltiptext = Menebak pengkodean teks yang benar dari isi halaman
 
 ## Customize Toolbar Buttons
 
