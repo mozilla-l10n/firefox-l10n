@@ -227,6 +227,8 @@ menu-bookmarks-show-all =
     .label = Prikaži sve zabilješke
 menu-bookmark-this-page =
     .label = Zabilježi ovu stranicu
+menu-bookmarks-manage =
+    .label = Upravljaj zabilješkama
 menu-bookmark-current-tab =
     .label = Zabilježi trenutnu karticu
 menu-bookmark-edit =
@@ -254,15 +256,15 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Prijavi se u { -brand-product-name } …
     .accesskey = a
+menu-tools-turn-on-sync =
+    .label = Uključi { -sync-brand-short-name } …
+    .accesskey = u
 menu-tools-addons-and-themes =
     .label = Dodaci i teme
     .accesskey = a
 menu-tools-fxa-sign-in2 =
     .label = Prijavi se (g)
     .accesskey = g
-menu-tools-turn-on-sync =
-    .label = Uključi { -sync-brand-short-name } …
-    .accesskey = u
 menu-tools-turn-on-sync2 =
     .label = Uključi sinkronizaciju…
     .accesskey = n
@@ -287,13 +289,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Informacije o stranici
     .accesskey = I
-menu-settings =
-    .label = Postavke
-    .accesskey =
-        { PLATFORM() ->
-            [windows] s
-           *[other] k
-        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -304,6 +299,13 @@ menu-preferences =
         { PLATFORM() ->
             [windows] M
            *[other] P
+        }
+menu-settings =
+    .label = Postavke
+    .accesskey =
+        { PLATFORM() ->
+            [windows] s
+           *[other] k
         }
 menu-tools-layout-debugger =
     .label = Ispravljač grešaka rasporeda
