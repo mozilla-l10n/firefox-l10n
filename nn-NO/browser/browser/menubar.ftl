@@ -173,6 +173,9 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = Teiknkoding
     .accesskey = T
+menu-view-repair-text-encoding =
+    .label = Reparer tekstkoding
+    .accesskey = e
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -227,6 +230,8 @@ menu-bookmarks-show-all =
     .label = Vis alle bokmerka
 menu-bookmark-this-page =
     .label = Bokmerk denne sida
+menu-bookmarks-manage =
+    .label = Handter bokmerke
 menu-bookmark-current-tab =
     .label = Bokmerk gjeldande fane
 menu-bookmark-edit =
@@ -254,15 +259,15 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Logg inn på { -brand-product-name }…
     .accesskey = g
+menu-tools-turn-on-sync =
+    .label = Slå på { -sync-brand-short-name }…
+    .accesskey = S
 menu-tools-addons-and-themes =
     .label = Tillegg og tema
     .accesskey = T
 menu-tools-fxa-sign-in2 =
     .label = Logg inn
     .accesskey = L
-menu-tools-turn-on-sync =
-    .label = Slå på { -sync-brand-short-name }…
-    .accesskey = S
 menu-tools-turn-on-sync2 =
     .label = Slå på synkronisering…
     .accesskey = S
@@ -287,13 +292,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Sideinformasjon
     .accesskey = d
-menu-settings =
-    .label = Innstillingar
-    .accesskey =
-        { PLATFORM() ->
-            [windows] n
-           *[other] n
-        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -304,6 +302,13 @@ menu-preferences =
         { PLATFORM() ->
             [windows] I
            *[other] I
+        }
+menu-settings =
+    .label = Innstillingar
+    .accesskey =
+        { PLATFORM() ->
+            [windows] n
+           *[other] n
         }
 menu-tools-layout-debugger =
     .label = Feilsøk layout
