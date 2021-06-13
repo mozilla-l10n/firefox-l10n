@@ -32,12 +32,35 @@ upgrade-dialog-new-secondary-button = Teraz nie
 # theme selection screen.
 upgrade-dialog-new-primary-win7-button = Ok, rozumiem
 
+## Pin Firefox screen
+##
+## These title, subtitle and button strings differ between platforms as they
+## match the OS' application context menu item action where Windows uses "pin"
+## and "taskbar" while macOS "keep" and "Dock" (proper noun).
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-pin-title =
+    { PLATFORM() ->
+        [macos] Pridať { -brand-short-name } do Docku
+       *[other] Pripnúť { -brand-short-name } na hlavný panel úloh
+    }
+upgrade-dialog-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Pridať do Docku
+       *[other] Pripnúť na panel úloh
+    }
+upgrade-dialog-pin-secondary-button = Teraz nie
+
 ## Default browser screen
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-default-title = Nastaviť { -brand-short-name } ako predvolený prehliadač?
 upgrade-dialog-default-subtitle = Získajte rýchlosť, bezpečnosť a súkromie pri každom prehliadaní.
 upgrade-dialog-default-primary-button = Nastaviť ako predvolený prehliadač
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title-2 = Nastaviť { -brand-short-name } ako predvolený prehliadač
+upgrade-dialog-default-subtitle-2 = Rýchlosť, bezpečnosť a súkromie na prvom mieste.
+upgrade-dialog-default-primary-button-2 = Nastaviť ako predvolený prehliadač
 upgrade-dialog-default-secondary-button = Teraz nie
 
 ## Theme selection screen
