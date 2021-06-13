@@ -173,6 +173,9 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = Kódovanie textu
     .accesskey = K
+menu-view-repair-text-encoding =
+    .label = Opraviť kódovanie textu
+    .accesskey = O
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -227,6 +230,8 @@ menu-bookmarks-show-all =
     .label = Zobraziť všetky záložky
 menu-bookmark-this-page =
     .label = Pridať stránku medzi záložky
+menu-bookmarks-manage =
+    .label = Spravovať záložky
 menu-bookmark-current-tab =
     .label = Pridať túto kartu medzi záložky
 menu-bookmark-edit =
@@ -254,15 +259,15 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Prihlásiť sa do aplikácie { -brand-product-name }…
     .accesskey = i
+menu-tools-turn-on-sync =
+    .label = Zapnúť { -sync-brand-short-name }…
+    .accesskey = n
 menu-tools-addons-and-themes =
     .label = Doplnky a témy
     .accesskey = D
 menu-tools-fxa-sign-in2 =
     .label = Prihlásiť sa
     .accesskey = P
-menu-tools-turn-on-sync =
-    .label = Zapnúť { -sync-brand-short-name }…
-    .accesskey = n
 menu-tools-turn-on-sync2 =
     .label = Zapnúť synchronizáciu…
     .accesskey = c
@@ -287,13 +292,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Informácie o stránke
     .accesskey = I
-menu-settings =
-    .label = Nastavenia
-    .accesskey =
-        { PLATFORM() ->
-            [windows] N
-           *[other] N
-        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -304,6 +302,13 @@ menu-preferences =
         { PLATFORM() ->
             [windows] M
            *[other] M
+        }
+menu-settings =
+    .label = Nastavenia
+    .accesskey =
+        { PLATFORM() ->
+            [windows] N
+           *[other] N
         }
 menu-tools-layout-debugger =
     .label = Ladenie rozloženia
