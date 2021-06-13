@@ -110,3 +110,6 @@ message-header-address-not-in-address-book-icon =
 addon-removal-title = Odstrániť { $name }?
 addon-removal-confirmation-button = Odstrániť
 addon-removal-confirmation-message = Odstrániť doplnok { $name }, ako aj jeho konfiguráciu a údaje z aplikácie { -brand-short-name }?
+caret-browsing-prompt-title = Prehliadanie pomocou klávesnice
+caret-browsing-prompt-text = Stlačením klávesu F7 zapnete alebo vypnete prehliadanie pomocou klávesnice. Táto funkcia umiestni do webovej stránky posúvateľný kurzor, ktorý umožňuje označovať text pomocou klávesnice. Chcete zapnúť prehliadanie pomocou klávesnice?
+caret-browsing-prompt-check-text = Nabudúce sa už nepýtať

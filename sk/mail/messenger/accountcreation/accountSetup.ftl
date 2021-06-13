@@ -106,7 +106,14 @@ account-setup-forum-help = Fórum podpory
 
 ## Results area
 
-account-setup-protocol-title = Zvoľte protokol
+# Variables:
+#  $count (Number) - Number of available protocols.
+account-setup-results-area-title =
+    { $count ->
+        [one] Dostupná konfigurácia
+        [few] Dostupné konfigurácie
+       *[other] Dostupné konfigurácie
+    }
 # Note: IMAP is the name of a protocol.
 account-setup-result-imap = IMAP
 account-setup-result-imap-description = Udržuje vaše priečinky a e-maily synchronizované so serverom
