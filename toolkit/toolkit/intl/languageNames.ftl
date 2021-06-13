@@ -159,6 +159,7 @@ language-name-ru = Ruština
 language-name-rw = Rwandčina
 language-name-sa = Sanskrit
 language-name-sc = Sardínčina
+language-name-sco = Škótčina
 language-name-sd = Sindština
 language-name-se = Severná saamčina
 language-name-sg = Sango

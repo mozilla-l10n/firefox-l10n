@@ -15,6 +15,7 @@ pocket-panel-saved-error-generic = Počas ukladania údajov do služby { -pocket
 pocket-panel-saved-error-tag-length = Značky môžu obsahovať najviac 25 znakov
 pocket-panel-saved-error-only-links = Uložené môžu byť len odkazy
 pocket-panel-saved-error-not-saved = Stránka nebola uložená
+pocket-panel-saved-error-no-internet = Ak chcete ukladať údaje do služby { -pocket-brand-name }, musíte byť pripojený k sieti Internet. Skontrolujte svoje pripojenie a skúste to znova.
 pocket-panel-saved-page-removed = Stránka bola odstránená
 pocket-panel-saved-page-saved = Uložená do služby { -pocket-brand-name }
 pocket-panel-saved-processing-remove = Stránka sa odstraňuje…

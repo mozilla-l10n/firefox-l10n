@@ -183,8 +183,6 @@ page-action-send-tabs-urlbar =
             [few] Odoslať { $tabCount } karty do zariadenia
            *[other] Odoslať { $tabCount } kariet do zariadenia
         }
-page-action-pocket-panel =
-    .label = Uložiť stránku do { -pocket-brand-name }u
 page-action-copy-url-panel =
     .label = Kopírovať odkaz
 page-action-copy-url-urlbar =
@@ -448,6 +446,8 @@ popup-select-microphone-device =
     .accesskey = M
 popup-select-microphone-icon =
     .tooltiptext = Mikrofón
+popup-select-speaker-icon =
+    .tooltiptext = Zvukový výstup
 popup-all-windows-shared = Všetky okná viditeľné na vašej obrazovke budú zdieľané.
 popup-screen-sharing-not-now =
     .label = Teraz nie
@@ -621,8 +621,6 @@ crashed-subframe-submit =
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = Zobraziť všetky záložky
 bookmarks-manage-bookmarks =
     .label = Správa záložiek
 bookmarks-recent-bookmarks-panel-subheader = Nedávno pridané medzi záložky
@@ -695,6 +693,12 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = Uložiť do { -pocket-brand-name }u
     .tooltiptext = Uložiť do { -pocket-brand-name }u
+
+## Repair text encoding toolbar button
+
+repair-text-encoding-button =
+    .label = Opraviť kódovanie textu
+    .tooltiptext = Pokúsi sa odhadnúť kódovanie textu podľa obsahu stránky
 
 ## Customize Toolbar Buttons
 
