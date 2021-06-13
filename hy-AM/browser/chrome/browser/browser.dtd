@@ -155,6 +155,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuHistory.viewSidebar.label "Պատմության կողային վահանակը">
 <!ENTITY appMenuHistory.hideSidebar.label "Թաքցնել պատմության կողմնասյունը">
 <!ENTITY appMenuHistory.recentHistory.label "Վերջին պատմությունը">
+
 <!ENTITY appMenuHelp.label "Օգնություն">
 
 <!ENTITY appMenuRemoteTabs.label "Համաժամեցված ներդիրներ">
@@ -244,8 +245,8 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "Խմբագրել Pop-up-ի արգելման կարգավորումները…">
-<!ENTITY editPopupSettings.label "Խմբագրել Pop-up-ի արգելման ընտրանքները…">
+<!ENTITY editPopupSettingsUnix.label "Խմբագրել ելնող պատուհանի արգելման նախապատվությունները…">
+<!ENTITY editPopupSettings.label "Խմբագրել ելնող պատուհանի արգելման ընտրանքները…">
 <!ENTITY editPopupSettings.accesskey "E">
 <!ENTITY dontShowMessage.accesskey "D">
 
