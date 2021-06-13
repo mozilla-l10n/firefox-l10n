@@ -47,6 +47,12 @@ toolbar-undelete-button =
     .label = Obnoviť
     .tooltiptext = Obnoviť odstránené správy
 
+## View
+
+menu-view-repair-text-encoding =
+    .label = Opraviť kódovanie textu
+    .accesskey = O
+
 ## View / Layout
 
 mail-uidensity-label =
