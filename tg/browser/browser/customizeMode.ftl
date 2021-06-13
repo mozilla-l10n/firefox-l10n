@@ -44,3 +44,5 @@ customize-mode-lwthemes-my-themes =
     .value = Мавзӯъҳои ман
 customize-mode-touchbar-cmd =
     .label = Танзим кардани навори ламсӣ…
+customize-mode-downloads-button-autohide =
+    .label = Агар холӣ бошад, тугмаро пинҳон кунед

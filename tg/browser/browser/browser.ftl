@@ -332,6 +332,7 @@ identity-https-only-dropdown-off =
     .label = Ғайрифаъол
 identity-https-only-dropdown-off-temporarily =
     .label = Муваққатан ғайрифаъол
+identity-https-only-info-turn-on2 = Агар шумо хоҳед, ки { -brand-short-name } пайвастшавиро ба қадри имкон такмил диҳад, реҷаи танҳо HTTPS-ро барои ин сомона фаъол кунед.
 identity-https-only-info-no-upgrade = Иваз кардани пайвастшавӣ аз HTTP ғайриимкон аст.
 identity-permissions-storage-access-header = Кукиҳои байнисомонавӣ
 identity-permissions-storage-access-learn-more = Маълумоти бештар
