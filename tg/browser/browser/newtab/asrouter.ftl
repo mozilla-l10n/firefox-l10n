@@ -87,6 +87,7 @@ cfr-whatsnew-button =
     .label = Чӣ нав аст
     .tooltiptext = Чӣ нав аст
 cfr-whatsnew-panel-header = Чӣ нав аст
+cfr-whatsnew-release-notes-link-text = Қайдҳои бароришро хонед
 cfr-whatsnew-tracking-protect-title = Худро аз васоити пайгирӣ муҳофизат намоед
 cfr-whatsnew-tracking-protect-link-text = Намоиш додани гузориши ман
 # This string is displayed before a large numeral that indicates the total
