@@ -113,3 +113,6 @@ addon-removal-confirmation-message = Odstrániť doplnok { $name }, ako aj jeho 
 caret-browsing-prompt-title = Prehliadanie pomocou klávesnice
 caret-browsing-prompt-text = Stlačením klávesu F7 zapnete alebo vypnete prehliadanie pomocou klávesnice. Táto funkcia umiestni do webovej stránky posúvateľný kurzor, ktorý umožňuje označovať text pomocou klávesnice. Chcete zapnúť prehliadanie pomocou klávesnice?
 caret-browsing-prompt-check-text = Nabudúce sa už nepýtať
+repair-text-encoding-button =
+    .label = Opraviť kódovanie textu
+    .tooltiptext = Pokúsi sa odhadnúť kódovanie textu podľa obsahu správy
