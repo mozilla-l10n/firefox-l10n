@@ -44,6 +44,9 @@ pill-action-move-cc =
 pill-action-move-bcc =
     .label = Verplaatsen naar Bcc
     .accesskey = B
+pill-action-expand-list =
+    .label = Lijst uitvouwen
+    .accesskey = w
 
 # Attachment widget
 

@@ -41,6 +41,13 @@ openpgp-message-header-encrypted-ok-icon =
     .alt = Met succes ontsleuteld
 openpgp-message-header-encrypted-notok-icon =
     .alt = Ontsleutelen mislukt
+openpgp-message-header-signed-ok-icon =
+    .alt = Goede handtekening
+# Mismatch icon is used for notok state as well
+openpgp-message-header-signed-mismatch-icon =
+    .alt = Slechte handtekening
+openpgp-message-header-signed-unknown-icon =
+    .alt = Onbekende handtekeningstatus
 openpgp-message-header-signed-verified-icon =
     .alt = Geverifieerde handtekening
 openpgp-message-header-signed-unverified-icon =

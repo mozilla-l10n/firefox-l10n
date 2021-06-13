@@ -111,3 +111,7 @@ addon-removal-confirmation-button = Verwijderen
 addon-removal-confirmation-message = { $name } en de bijbehorende configuratie en gegevens verwijderen uit { -brand-short-name }?
 caret-browsing-prompt-title = Cursornavigatie
 caret-browsing-prompt-text = Door op F7 te drukken schakelt u cursornavigatie in of uit. Deze functie plaatst een verplaatsbare cursor in sommige inhoud, waardoor u tekst met het toetsenbord kunt selecteren. Wilt u cursornavigatie inschakelen?
+caret-browsing-prompt-check-text = Dit niet meer vragen.
+repair-text-encoding-button =
+    .label = Tekstcodering repareren
+    .tooltiptext = De juiste tekstcodering raden uit de berichtinhoud
