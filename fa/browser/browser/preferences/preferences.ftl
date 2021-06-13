@@ -1045,6 +1045,7 @@ permissions-a11y-privacy-link = بیشتر بدانید
 collection-header = ذخیره اطلاعات و استفاده { -brand-short-name }
 collection-description = ما تمام تلاش خود را می‌کنیم که به شما حق انتخاب بدهیم و تنها اطلاعاتی را جمع‌آوری کنیم که برای بهبود { -brand-short-name } برای همه، کمک کند. ما همیشه قبل از دریافت اطلاعات شخصی از شما اجازه خواهیم گرفت.
 collection-privacy-notice = نکات حفظ حریم خصوصی
+collection-health-report-telemetry-disabled = شما دیگر به { -vendor-short-name } اجازهٔ ضبط داده‌های فنی و تعاملی را نداده‌‌اید. تمام اطلاعات قبلی تا ۳۰ روز آینده حذف خواهند شد.
 collection-health-report-telemetry-disabled-link = اطلاعات بیشتر
 collection-health-report =
     .label = اجازه دادن به { -brand-short-name } برای ارسال اطلاعاتِ فنی و رفتاری به { -vendor-short-name }
