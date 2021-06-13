@@ -797,11 +797,18 @@ forms-breach-alerts =
     .label = هشدارهای مربوط به گذرواژه‌ها در خصوص سایت‌های هک شده را نمایش بده
     .accesskey = b
 forms-breach-alerts-learn-more-link = بیشتر بدانید
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-logins-and-passwords =
+    .label = پُر کردن خودکار ورودها و گذرواژه‌ها
+    .accesskey = پ
 forms-saved-logins =
     .label = ورودهای ذخیره شده
     .accesskey = و
 forms-master-pw-use =
     .label = استفاده از گذرواژهٔ اصلی
+    .accesskey = ا
+forms-primary-pw-use =
+    .label = استفاده از یک گذرواژهٔ اصلی
     .accesskey = ا
 forms-primary-pw-learn-more-link = اطلاعات بیشتر
 # This string uses the former name of the Primary Password feature
@@ -811,10 +818,22 @@ forms-master-pw-change =
     .label = تنظیم گذرواژهٔ اصلی…
     .accesskey = ص
 forms-master-pw-fips-title = شما هم‌اکنون در حالت FIPS هستید. در این حالت لازم است گذرواژهٔ اصلی خالی نباشد.
+forms-primary-pw-change =
+    .label = تغییر گذرواژهٔ اصلی…
+    .accesskey = ت
+# Leave this message empty if the translation for "Primary Password" matches
+# "Master Password" in your language. If you're editing the FTL file directly,
+# use { "" } as the value.
+forms-primary-pw-former-name = قبلاً با عنوان Master Password شناخته می‌شد
 forms-master-pw-fips-desc = تغییر گذرواژه شکست خورد
 
 ## OS Authentication dialog
 
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = ساخت یک گذرواژهٔ اصلی
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
