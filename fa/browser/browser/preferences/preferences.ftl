@@ -917,7 +917,9 @@ addressbar-suggestions-settings = تغییر ترجیحات مربوط به پی
 ## Privacy Section - Content Blocking
 
 content-blocking-enhanced-tracking-protection = محفاظت پیشرفته در برابر ردیابی
+content-blocking-section-top-level-description = ردیاب‌ها شما را بصورت آنلاین دنبال می‌کنند تا اطلاعاتی راجع به عادات و علایق مرور شما جمع‌آوری کنند. { -brand-short-name } بسیاری از این ردیاب‌ها و سایر اسکریپت‌های مخرب را مسدود می‌کند.
 content-blocking-learn-more = بیشتر بدانید
+content-blocking-fpi-incompatibility-warning = شما از First Party Isolation (FPI) استفاده می‌کنید که برخی از تنظیمات کوکی‌های { -brand-short-name } را نادیده می‌گیرد.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -935,7 +937,18 @@ enhanced-tracking-protection-setting-custom =
 
 ##
 
+content-blocking-etp-standard-desc = تعادل بین کارآیی و حریم‌خصوصی. بارگیری صفحات با سرعتی عادی.
+content-blocking-etp-strict-desc = محافظتی قوی‌تر، اما ممکن است باعث از کار افتادن بعضی سایت‌ها و محتوا شود.
+content-blocking-etp-custom-desc = انتخاب کنید کدام ردیاب‌ها و اسکریپت‌ها مسدود شوند.
+content-blocking-etp-blocking-desc = { -brand-short-name } موارد زیر را مسدود می‌کند:
+content-blocking-private-windows = محتوای ردیابی در پنجره‌های ناشناس
+content-blocking-cross-site-cookies-in-all-windows = کوکی‌های بین‌پایگاهی در تمام پنجره‌ها (شامل کوکی‌های ردیاب)
+content-blocking-cross-site-tracking-cookies = کوکی‌هایِ ردیابِ بین‌پایگاهی
+content-blocking-all-cross-site-cookies-private-windows = کوکی‌های بین‌پایگاهی در پنجره‌های ناشناس
+content-blocking-cross-site-tracking-cookies-plus-isolate = کوکی‌های ردیابِ بین‌پایگاهی، و ایزوله کردن سایر کوکی‌ها
+content-blocking-social-media-trackers = ردیاب‌های شبکه‌های اجتماعی
 content-blocking-all-cookies = همه کوکی‌ها
+content-blocking-unvisited-cookies = کوکی‌های سایت‌های بازدید نشده
 content-blocking-all-third-party-cookies = تمام کوکی‌های متفرقه
 content-blocking-cryptominers = استخراج کننده‌های رمزارزها
 content-blocking-fingerprinters = برداشت کنندگان اثر انگشت
