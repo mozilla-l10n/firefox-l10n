@@ -93,6 +93,7 @@ permissions-exceptions-cookie-desc = Możesz pedzieć, kere strōny śmiōm abo 
 permissions-exceptions-https-only-window =
     .title = Wyjōntki - tryb HTTPS-Only
     .style = { permissions-window.style }
+permissions-exceptions-https-only-desc = Możesz wyłōnczyć tryb Ino-HTTPS do niykerych strōn. { -brand-short-name } niy bydzie prōbowoł zmiynić połōnczynio ś nimi na bezpieczne HTTPS. Wyjōntki niy tykajōm sie prywatnych ôkiyn.
 
 ## Exceptions - Pop-ups
 

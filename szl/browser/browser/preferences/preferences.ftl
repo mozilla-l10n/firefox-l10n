@@ -66,7 +66,6 @@ category-experimental =
     .tooltiptext = { -brand-short-name } - Eksperymynta
 pane-experimental-subtitle = Pozōr!
 pane-experimental-search-results-header = { -brand-short-name } - Eksperymynta: Dej pozōr
-pane-experimental-description = Skuli zmiany rozszyrzōnych sztalōnkōw może sie pogorszyć wydajność abo bezpieczyństwo { -brand-short-name }.
 pane-experimental-description2 = Skuli zmiany rozszyrzōnych sztalōnkōw może sie pogorszyć wydajność abo bezpieczyństwo { -brand-short-name }.
 pane-experimental-reset =
     .label = Wrōć bazowe
@@ -182,6 +181,9 @@ warn-on-open-many-tabs =
 switch-links-to-new-tabs =
     .label = Jak ôtwiyrosz link w nowyj karcie, to zaroz sie na nia przełōncz
     .accesskey = k
+switch-to-new-tabs =
+    .label = Jak ôtwiyrosz link, ôbroz abo jakie media, to zaroz sie na nia przełōncz
+    .accesskey = l
 show-tabs-in-taskbar =
     .label = Pokazuj podglōnd kart na posku zadań Windows
     .accesskey = o
@@ -1024,9 +1026,11 @@ enhanced-tracking-protection-setting-custom =
 content-blocking-etp-standard-desc = Zbalansowane podug ôchrōny i sprowności. Strōny bydōm sie normalnie ladować.
 content-blocking-etp-strict-desc = Lepszo ôchrōna, ale niykere strōny abo jako zawartość mogōm niy fungować dobrze.
 content-blocking-etp-custom-desc = Ôbier, jakie śledzōnce elymynta i skrypty szperować.
+content-blocking-etp-blocking-desc = { -brand-short-name } szperuje:
 content-blocking-private-windows = Śledzōnce elymynta w prywatnych ôknach
-content-blocking-cross-site-cookies = Cookies, co śledzōm miyndzy strōnami
+content-blocking-cross-site-cookies-in-all-windows = Cookies miyndzy strōnami we wszyskich ôknach (tyż cookies, co śledzōm)
 content-blocking-cross-site-tracking-cookies = Cookies elymyntōw, co śledzōm miyndzy strōnami
+content-blocking-all-cross-site-cookies-private-windows = Cookies miyndzy strōnami we prywatnych ôknach
 content-blocking-cross-site-tracking-cookies-plus-isolate = Cookies elymyntōw, co śledzōm miyndzy strōnami. Izoluj inksze cookies.
 content-blocking-social-media-trackers = Elymynta śledzōnce ôd społecznościowych serwisōw
 content-blocking-all-cookies = Wszyskie cookies
@@ -1146,6 +1150,8 @@ collection-backlogged-crash-reports =
     .label = Zgoda, coby { -brand-short-name } posyłoł za ciebie nazbiyrane raporty ô awaryjach
     .accesskey = a
 collection-backlogged-crash-reports-link = Przewiydz sie wiyncyj
+collection-backlogged-crash-reports-with-link = Przizwōl, coby { -brand-short-name } posyłoł nazbiyrane raporty z awaryjōw za ciebie <a data-l10n-name="crash-reports-link">Przewiydz sie wiyncyj</a>
+    .accesskey = c
 
 ## Privacy Section - Security
 ##
