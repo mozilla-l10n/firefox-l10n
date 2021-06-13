@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+toolbar-context-menu-new-tab =
+    .label = Nowo karta
+    .accesskey = w
 toolbar-context-menu-reload-selected-tab =
     .label = Przeladuj ôbrano karta
     .accesskey = P
@@ -26,6 +29,15 @@ toolbar-context-menu-undo-close-tabs =
            *[many] Wrōć zawarte karty
         }
     .accesskey = W
+toolbar-context-menu-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Ôdewrzij nazod zawarte karty
+            [one] Ôdewrzij nazod zawarto karta
+            [few] Ôdewrzij nazod zawarte karty
+           *[many] Ôdewrzij nazod zawarte karty
+        }
+    .accesskey = o
 toolbar-context-menu-manage-extension =
     .label = Regiyruj rozszyrzyniym
     .accesskey = G
