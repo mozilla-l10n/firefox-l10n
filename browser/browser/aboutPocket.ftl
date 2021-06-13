@@ -15,6 +15,7 @@ pocket-panel-saved-error-generic = เกิดข้อผิดพลาดร
 pocket-panel-saved-error-tag-length = ป้ายกำกับถูกจำกัดไว้ที่ 25 ตัวอักษร
 pocket-panel-saved-error-only-links = ลิงก์เท่านั้นที่สามารถถูกบันทึกได้
 pocket-panel-saved-error-not-saved = หน้าไม่ถูกบันทึก
+pocket-panel-saved-error-no-internet = คุณต้องเชื่อต่อกับอินเทอร์เน็ตเพื่อบันทึกไปยัง { -pocket-brand-name } กรุณาเชื่อมต่ออินเทอร์เน็ตและลองใหม่อีกครั้ง
 pocket-panel-saved-page-removed = ลบหน้าแล้ว
 pocket-panel-saved-page-saved = บันทึกไปยัง { -pocket-brand-name } แล้ว
 pocket-panel-saved-processing-remove = กำลังลบหน้า…
