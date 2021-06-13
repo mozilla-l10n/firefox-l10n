@@ -18,6 +18,12 @@ permissions-session =
 permissions-allow =
     .label = Przizwōl
     .accesskey = z
+permissions-button-off =
+    .label = Wyłōncz
+    .accesskey = W
+permissions-button-off-temporarily =
+    .label = Wyłōncz czasowo
+    .accesskey = W
 permissions-site-name =
     .label = Strōna
 permissions-status =
@@ -58,6 +64,10 @@ permissions-capabilities-listitem-block =
     .value = Szperuj
 permissions-capabilities-listitem-allow-session =
     .value = Przizwōl na ta sesyjo
+permissions-capabilities-listitem-off =
+    .value = Wyłōnczōne
+permissions-capabilities-listitem-off-temporarily =
+    .value = Czasowo wyłōnczōne
 
 ## Invalid Hostname Dialog
 
@@ -77,6 +87,12 @@ permissions-exceptions-cookie-window =
     .title = Cookies i dane strōn - wyjōntki
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = Możesz pedzieć, kere strōny śmiōm abo niy śmiōm używać cookies i danych strōn. Wkludź akuratno adresa strōny, na keryj chcesz tym regiyrować, a potym kliknij: Szperuj, Przizwōl na ta sesyjo abo Przizwōl.
+
+## Exceptions - HTTPS-Only Mode
+
+permissions-exceptions-https-only-window =
+    .title = Wyjōntki - tryb HTTPS-Only
+    .style = { permissions-window.style }
 
 ## Exceptions - Pop-ups
 
