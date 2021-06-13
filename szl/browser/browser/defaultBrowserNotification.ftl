@@ -14,6 +14,7 @@ default-browser-notification-button =
 
 default-browser-prompt-title-pin = Nastawić aplikacyjo { -brand-short-name } za bazowo przeglōndarka?
 default-browser-prompt-message-pin = Snadnie używej aplikacyje { -brand-short-name } — nastow jōm za swoja bazowo przeglōndarka i przipnij se jōm do poska z zadaniami.
+default-browser-prompt-message-pin-mac = Snadnie używej aplikacyje { -brand-short-name } — nastow jōm za swoja bazowo przeglōndarka i miyj jōm we swojim Docku.
 default-browser-prompt-button-primary-pin = Nastow bazowo przeglōndarka
 default-browser-prompt-title-alt = Nastawić aplikacyjo { -brand-short-name } za bazowo przeglōndarka?
 default-browser-prompt-message-alt = Miyj gibkość, bezpieczyństwo a ôchrōna prywatności przi kożdym przeglōndaniu neca.

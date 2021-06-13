@@ -191,3 +191,5 @@ appmenu-customizetoolbar =
 appmenu-taskmanager =
     .label = Mynedżer zadań
 appmenu-developer-tools-subheader = Noczynia przeglōndarki
+appmenu-developer-tools-extensions =
+    .label = Rozszyrzynia do deweloprōw

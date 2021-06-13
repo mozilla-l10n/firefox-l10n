@@ -173,6 +173,9 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = Kodowanie stylu
     .accesskey = k
+menu-view-repair-text-encoding =
+    .label = Naprow kodowanie tekstu
+    .accesskey = n
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -227,6 +230,8 @@ menu-bookmarks-show-all =
     .label = Pokoż wszyskie zokłodki
 menu-bookmark-this-page =
     .label = Przidej ta strōna do zokłodek
+menu-bookmarks-manage =
+    .label = Regiyruj zokłodkami
 menu-bookmark-current-tab =
     .label = Przidej aktualno karta do zookłodek
 menu-bookmark-edit =
@@ -254,14 +259,17 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Zaloguj sie do aplikacyje { -brand-product-name }…
     .accesskey = l
+menu-tools-turn-on-sync =
+    .label = Załōncz { -sync-brand-short-name }…
+    .accesskey = n
 menu-tools-addons-and-themes =
     .label = Rozszyrzynia i motywy
     .accesskey = R
 menu-tools-fxa-sign-in2 =
     .label = Wloguj
     .accesskey = W
-menu-tools-turn-on-sync =
-    .label = Załōncz { -sync-brand-short-name }…
+menu-tools-turn-on-sync2 =
+    .label = Załōncz synchronizacyjo…
     .accesskey = n
 menu-tools-sync-now =
     .label = Synchrōnizuj
@@ -284,13 +292,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Informacyje ô strōnie
     .accesskey = I
-menu-settings =
-    .label = Sztalōnki
-    .accesskey =
-        { PLATFORM() ->
-            [windows] S
-           *[other] n
-        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -300,6 +301,13 @@ menu-preferences =
     .accesskey =
         { PLATFORM() ->
             [windows] O
+           *[other] n
+        }
+menu-settings =
+    .label = Sztalōnki
+    .accesskey =
+        { PLATFORM() ->
+            [windows] S
            *[other] n
         }
 menu-tools-layout-debugger =
@@ -339,14 +347,12 @@ menu-help-import-from-another-browser =
 menu-help-keyboard-shortcuts =
     .label = Skrōty tastatury
     .accesskey = T
-menu-get-help =
-    .label = Pōmoc
-    .accesskey = P
 menu-help-troubleshooting-info =
     .label = Ô rozwiōnzowaniu problymōw
     .accesskey = b
-menu-help-taskmanager =
-    .label = Mynedżer zadań
+menu-get-help =
+    .label = Pōmoc
+    .accesskey = P
 menu-help-more-troubleshooting-info =
     .label = Wiyncyj ô rozwiōnzowaniu problymōw
     .accesskey = r
