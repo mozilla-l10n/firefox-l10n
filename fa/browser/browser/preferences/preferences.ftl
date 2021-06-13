@@ -642,6 +642,9 @@ sync-signedout-description = نشانک‌ها، تاریخچه، زبانه‌�
 sync-signedout-account-signin2 =
     .label = ورود به { -sync-brand-short-name }…
     .accesskey = و
+sync-signedout-account-signin3 =
+    .label = برای همگام‌سازی وارد شوید…
+    .accesskey = و
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -681,6 +684,9 @@ prefs-sync-setup =
     .label = راه اندازی { -sync-brand-short-name }...
     .accesskey = S
 prefs-sync-offer-setup-label = نشانک‌ها، تاریخچه، زبانه‌ها، گذرواژه‌ها، افزونه‌ها و ترجیحات خود را در تمام دستگاه‌هایتان همگام کنید.
+prefs-sync-turn-on-syncing =
+    .label = روشن کردن همگام‌سازی…
+    .accesskey = ر
 prefs-sync-now =
     .labelnotsyncing = هم‌اکنون همگام‌سازی کنید
     .accesskeynotsyncing = N
@@ -1064,6 +1070,8 @@ collection-backlogged-crash-reports =
     .label = به { -brand-short-name } اجازه بده تا گزارش های پس زمینه خرابی را از طرف شما ارسال کند
     .accesskey = c
 collection-backlogged-crash-reports-link = بیشتر بدانید
+collection-backlogged-crash-reports-with-link = به { -brand-short-name } اجازه دهید گزارش‌های خرابی عقب مانده را از طرف شما ارذسال کند <a data-l10n-name="crash-reports-link">اطلاعات بیشتر</a>
+    .accesskey = ج
 
 ## Privacy Section - Security
 ##
