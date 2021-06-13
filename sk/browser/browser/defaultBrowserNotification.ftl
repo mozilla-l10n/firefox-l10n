@@ -14,6 +14,7 @@ default-browser-notification-button =
 
 default-browser-prompt-title-pin = Nastaviť { -brand-short-name } ako hlavný prehliadač?
 default-browser-prompt-message-pin = Majte { -brand-short-name } na dosah ruky - nastavte si ho ako predvolený prehliadač a pripnite ho na hlavný panel.
+default-browser-prompt-message-pin-mac = Majte { -brand-short-name } na dosah ruky - nastavte si ho ako predvolený prehliadač a pridajte si ho do Docku.
 default-browser-prompt-button-primary-pin = Nastaviť ako hlavný prehliadač
 default-browser-prompt-title-alt = Nastaviť { -brand-short-name } ako predvolený prehliadač?
 default-browser-prompt-message-alt = Získajte rýchlosť, bezpečnosť a súkromie pri každom prehliadaní.
