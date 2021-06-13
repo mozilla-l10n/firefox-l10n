@@ -41,8 +41,15 @@ upgrade-dialog-new-primary-win7-button = Ok, rozumiem
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-pin-title =
     { PLATFORM() ->
-        [macos] Pridať { -brand-short-name } do Docku
-       *[other] Pripnúť { -brand-short-name } na hlavný panel úloh
+        [macos] Pridajte si { -brand-short-name } do Docku
+       *[other] Pripnite si { -brand-short-name } na hlavný panel úloh
+    }
+# The English macOS string avoids repeating "Keep" a third time, so if your
+# translations don't repeat anyway, the same string can be used cross-platform.
+upgrade-dialog-pin-subtitle =
+    { PLATFORM() ->
+        [macos] Získajte jednoduchý prístup k najaktuálnejšej verzii { -brand-short-name(case: "gen") }
+       *[other] Majte najaktuálnejší { -brand-short-name } vždy na dosah
     }
 upgrade-dialog-pin-primary-button =
     { PLATFORM() ->
@@ -69,6 +76,8 @@ upgrade-dialog-default-secondary-button = Teraz nie
 upgrade-dialog-theme-title =
     Doprajte si nový začiatok
     s aktualizovanou témou
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-theme-title-2 = Začnite s novým čistým vzhľadom
 upgrade-dialog-theme-system = Systémová téma vzhľadu
     .title = Nasleduje nastavenia operačného systému pre tlačidlá, ponuky a okná
 upgrade-dialog-theme-light = Svetlá
