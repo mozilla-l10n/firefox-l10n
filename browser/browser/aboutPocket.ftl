@@ -15,6 +15,7 @@ pocket-panel-saved-error-generic = Med shranjevanjem na { -pocket-brand-name } j
 pocket-panel-saved-error-tag-length = Oznake so omejene na 25 znakov
 pocket-panel-saved-error-only-links = Shranite lahko samo povezave
 pocket-panel-saved-error-not-saved = Stran ni bila shranjena
+pocket-panel-saved-error-no-internet = Za shranjevanje v { -pocket-brand-name } morate biti povezani na internet. Povežite se z internetom in poskusite znova.
 pocket-panel-saved-page-removed = Stran odstranjena
 pocket-panel-saved-page-saved = Shranjeno na { -pocket-brand-name }
 pocket-panel-saved-processing-remove = Odstranjevanje strani …

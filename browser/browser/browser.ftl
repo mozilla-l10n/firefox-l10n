@@ -185,8 +185,6 @@ page-action-send-tabs-urlbar =
             [few] Pošlji { $tabCount } zavihke na napravo
            *[other] Pošlji { $tabCount } zavihkov na napravo
         }
-page-action-pocket-panel =
-    .label = Shrani stran v { -pocket-brand-name }
 page-action-copy-url-panel =
     .label = Kopiraj povezavo
 page-action-copy-url-urlbar =
@@ -454,6 +452,8 @@ popup-select-microphone-device =
     .accesskey = M
 popup-select-microphone-icon =
     .tooltiptext = Mikrofon
+popup-select-speaker-icon =
+    .tooltiptext = Zvočniki
 popup-all-windows-shared = Vsa vidna okna na vašem zaslonu bodo v skupni rabi.
 popup-screen-sharing-not-now =
     .label = Ne zdaj
@@ -627,8 +627,6 @@ crashed-subframe-submit =
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = Prikaži vse zaznamke
 bookmarks-manage-bookmarks =
     .label = Upravljanje zaznamkov
 bookmarks-recent-bookmarks-panel-subheader = Nedavni zaznamki
@@ -701,6 +699,12 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = Shrani v { -pocket-brand-name }
     .tooltiptext = Shrani v { -pocket-brand-name }
+
+## Repair text encoding toolbar button
+
+repair-text-encoding-button =
+    .label = Popravi kodiranje besedila
+    .tooltiptext = Ugani pravilni nabor znakov iz vsebine strani
 
 ## Customize Toolbar Buttons
 

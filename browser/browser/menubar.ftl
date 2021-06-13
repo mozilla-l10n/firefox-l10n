@@ -173,6 +173,9 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = Kodiranje znakov
     .accesskey = K
+menu-view-repair-text-encoding =
+    .label = Popravi kodiranje besedila
+    .accesskey = r
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -227,6 +230,8 @@ menu-bookmarks-show-all =
     .label = Prikaži vse zaznamke
 menu-bookmark-this-page =
     .label = Dodaj stran med zaznamke
+menu-bookmarks-manage =
+    .label = Upravljanje zaznamkov
 menu-bookmark-current-tab =
     .label = Dodaj trenutni zavihek med zaznamke
 menu-bookmark-edit =
@@ -254,15 +259,15 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Prijava v { -brand-product-name } …
     .accesskey = j
+menu-tools-turn-on-sync =
+    .label = Vklopi { -sync-brand-short-name } …
+    .accesskey = V
 menu-tools-addons-and-themes =
     .label = Dodatki in teme
     .accesskey = D
 menu-tools-fxa-sign-in2 =
     .label = Prijava
     .accesskey = j
-menu-tools-turn-on-sync =
-    .label = Vklopi { -sync-brand-short-name } …
-    .accesskey = V
 menu-tools-turn-on-sync2 =
     .label = Vklopi sinhronizacijo …
     .accesskey = V
@@ -287,13 +292,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Podatki o strani
     .accesskey = I
-menu-settings =
-    .label = Nastavitve
-    .accesskey =
-        { PLATFORM() ->
-            [windows] N
-           *[other] N
-        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -304,6 +302,13 @@ menu-preferences =
         { PLATFORM() ->
             [windows] M
            *[other] n
+        }
+menu-settings =
+    .label = Nastavitve
+    .accesskey =
+        { PLATFORM() ->
+            [windows] N
+           *[other] N
         }
 menu-tools-layout-debugger =
     .label = Razhroščevalnik postavitve
@@ -342,14 +347,12 @@ menu-help-import-from-another-browser =
 menu-help-keyboard-shortcuts =
     .label = Bližnjice tipk
     .accesskey = B
-menu-get-help =
-    .label = Pomoč
-    .accesskey = P
 menu-help-troubleshooting-info =
     .label = Odpravljanje težav
     .accesskey = R
-menu-help-taskmanager =
-    .label = Upravitelj opravil
+menu-get-help =
+    .label = Pomoč
+    .accesskey = P
 menu-help-more-troubleshooting-info =
     .label = Več podatkov za odpravljanje težav
     .accesskey = r

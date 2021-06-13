@@ -309,6 +309,7 @@ mr1-onboarding-sign-in-button-label = Prijava
 ## Title, subtitle and primary button string used on set default onboarding screen
 ## when Firefox is not default browser
 
+mr1-onboarding-default-header = Nastavi { -brand-short-name } kot privzeti brskalnik
 mr1-onboarding-default-primary-button-label = Nastavi kot privzeti brskalnik
 
 ## Multistage MR1 onboarding strings (about:welcome pages)

@@ -93,6 +93,7 @@ permissions-exceptions-cookie-desc = Določite lahko, katere spletne strani lahk
 permissions-exceptions-https-only-window =
     .title = Izjeme – Način samo HTTPS
     .style = { permissions-window.style }
+permissions-exceptions-https-only-desc = Način "samo HTTPS" lahko izklopite za določena spletna mesta. Na teh spletnih mestih { -brand-short-name } ne bo poskušal nadgraditi povezave na zavarovani HTTPS. Izjeme ne bodo veljale v zasebnih oknih.
 
 ## Exceptions - Pop-ups
 
