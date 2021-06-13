@@ -825,6 +825,7 @@ forms-primary-pw-change =
 # "Master Password" in your language. If you're editing the FTL file directly,
 # use { "" } as the value.
 forms-primary-pw-former-name = قبلاً با عنوان Master Password شناخته می‌شد
+forms-primary-pw-fips-title = شما در حال حاضر در حالت FIPS هستید. FIPS به گذرواژه اصلیِ خالی نیاز دارد.
 forms-master-pw-fips-desc = تغییر گذرواژه شکست خورد
 
 ## OS Authentication dialog
@@ -895,6 +896,20 @@ sitedata-allow-cookies-option =
 sitedata-disallow-cookies-option =
     .label = مسدودسازی کوکی‌ها و داده‌های سایت
     .accesskey = B
+# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
+# The list items are the strings named sitedata-block-*-option*.
+sitedata-block-desc = الگوی مسدود شده
+    .accesskey = ل
+sitedata-option-block-cross-site-trackers =
+    .label = ردیاب‌های بین‌پایگاهی
+sitedata-option-block-cross-site-and-social-media-trackers =
+    .label = ردیاب‌های بین‌پایگاهی و شبکه‌های اجتماعی
+sitedata-option-block-cross-site-tracking-cookies-including-social-media =
+    .label = کوکی‌های ردیاب بین‌پایگاهی — شامل کوکی‌های شبکه‌های اجتماعی
+sitedata-option-block-cross-site-cookies-including-social-media =
+    .label = کوکی‌های بین‌پایگاهی — شامل کوکی های شبکه‌های اجتماعی
+sitedata-option-block-cross-site-and-social-media-trackers-plus-isolate =
+    .label = ردیاب‌های بین‌پایگاهی و شبکه‌های اجتماعی، و ایزوله کردن سایر کوکی‌ها
 sitedata-option-block-unvisited =
     .label = کوکی‌ها از وب‌سایت‌های مشاهده نشده
 sitedata-option-block-all-third-party =
