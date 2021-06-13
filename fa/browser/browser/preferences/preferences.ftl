@@ -949,6 +949,7 @@ content-blocking-cross-site-tracking-cookies-plus-isolate = کوکی‌های ر
 content-blocking-social-media-trackers = ردیاب‌های شبکه‌های اجتماعی
 content-blocking-all-cookies = همه کوکی‌ها
 content-blocking-unvisited-cookies = کوکی‌های سایت‌های بازدید نشده
+content-blocking-all-windows-tracking-content = محتوای ردیابی در تمامی پنجره‌ها
 content-blocking-all-third-party-cookies = تمام کوکی‌های متفرقه
 content-blocking-cryptominers = استخراج کننده‌های رمزارزها
 content-blocking-fingerprinters = برداشت کنندگان اثر انگشت
