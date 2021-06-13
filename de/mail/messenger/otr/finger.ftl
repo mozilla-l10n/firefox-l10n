@@ -10,6 +10,9 @@ finger-intro = Fingerabdrücke von OTR-Schlüsseln, welche für die letzten Ende
 
 finger-screenName =
     .label = Kontakt
+
+finger-screen-name =
+    .label = Kontakt
 finger-verified =
     .label = Bestätigungsstatus
 finger-fingerprint =

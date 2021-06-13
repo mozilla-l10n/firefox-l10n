@@ -10,14 +10,19 @@ reauth-label = Identität Ihres Kontaktes erneut bestätigen
 auth-cancel = Abbrechen
 auth-cancelAccessKey = b
 
+auth-cancel-access-key = b
+
 auth-error = Beim Bestätigen der Identität Ihres Kontaktes trat ein Fehler auf.
 auth-success = Bestätigung der Identität Ihres Kontaktes erfolgreich abgeschlossen.
 auth-successThem = Ihr Kontakt hat Ihre Identität erfolgreich bestätigt. Es ist empfehlenswert, dass Sie jetzt auch die Identität des Kontaktes bestätigen, indem Sie eine eigene Frage stellen.
+auth-success-them = Ihr Kontakt hat Ihre Identität erfolgreich bestätigt. Es ist empfehlenswert, dass Sie jetzt auch die Identität des Kontaktes bestätigen, indem Sie eine eigene Frage stellen.
 auth-fail = Bestätigung der Identität Ihres Kontaktes fehlgeschlagen.
 auth-waiting = Warten auf Abschluss der Bestätigung durch den Kontakt…
 
 finger-verify = Bestätigen
 finger-verify-accessKey = B
+
+finger-verify-access-key = B
 
 # Do not translate 'OTR' (name of an encryption protocol)
 buddycontextmenu-label = OTR-Fingerabdruck hinzufügen
@@ -36,6 +41,10 @@ alert-gone_insecure = Das verschlüsselte Gespräch mit { $name } wurde beendet.
 
 # Variables:
 #   $name (String) - the screen name of a chat contact person
+alert-gone-insecure = Das verschlüsselte Gespräch mit { $name } wurde beendet.
+
+# Variables:
+#   $name (String) - the screen name of a chat contact person
 finger-unseen = Die Identität von { $name } wurde noch nicht bestätigt. Einfaches Abhören ist nicht möglich, sondern benötigt etwas Aufwand. Verhindern Sie Überwachung, indem Sie die Identität des Kontaktes bestätigen.
 
 # Variables:
@@ -43,6 +52,8 @@ finger-unseen = Die Identität von { $name } wurde noch nicht bestätigt. Einfac
 finger-seen={ $name } kontaktiert Sie von einem unbekannten Gerät. Einfaches Abhören ist nicht möglich, sondern benötigt etwas Aufwand. Verhindern Sie Überwachung, indem Sie die Identität des Kontaktes bestätigen.
 
 state-not_private = Das derzeitige Gespräch ist nicht privat.
+
+state-not-private = Das derzeitige Gespräch ist nicht privat.
 
 # Variables:
 #   $name (String) - the screen name of a chat contact person
@@ -57,6 +68,8 @@ state-private = Die Identität von { $name } wurde bestätigt. Das derzeitige Ge
 state-finished = { $name } hat das verschlüsselte Gespräch mit Ihnen beendet; Sie sollten dies jetzt ebenfalls tun.
 
 state-not_private-label = Nicht sicher
+
+state-not-private-label = Nicht sicher
 state-unverified-label = Nicht bestätigt
 state-private-label = Privat
 state-finished-label = Beendet
@@ -77,6 +90,7 @@ verify-title = Kontaktidentität bestätigen
 error-title = Fehler
 success-title = Ende-zu-Ende-Verschlüsselung
 successThem-title = Bestätigen Sie die Identität Ihres Kontaktes.
+success-them-title = Bestätigen Sie die Identität Ihres Kontaktes.
 fail-title = Bestätigung nicht erfolgreich
 waiting-title = Bestätigungsanfrage gesendet
 
