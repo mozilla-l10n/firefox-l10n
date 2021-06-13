@@ -11,9 +11,12 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Nastawiynie prawideł,  do kerych rozszyrzynia WebExtensions majōm dostymp bez chrome.storage.managed.
+policy-AllowedDomainsForApps = Nastow dōmyny, co majōm dostymp do Google Workspace.
 policy-AppAutoUpdate = Załōnczynie abo wyłōnczynie autōmatycznych aktualizacyji aplikacyje.
 policy-AppUpdateURL = Nastawiynie włosnego URL do aktualizowanio aplikacyje.
 policy-Authentication = Kōnfiguracyjo integrowanyj autyntyfikacyje do strōn, co jōm ôbsugujōm.
+policy-AutoLaunchProtocolsFromOrigins = Zrychtuj wykoz zewnyntrznych protokołōw, kerych idzie używać z wykozanych zdrzōdeł bez pytanio sie użytkownika.
+policy-BackgroundAppUpdate2 = Załōncz abo wyłōncz aktualizowanie na zadku.
 policy-BlockAboutAddons = Szperowanie dostympu do menedżera rozszyrzyń (about:addons).
 policy-BlockAboutConfig = Szperowanie dostympu do strōny about:config.
 policy-BlockAboutProfiles = Szperowanie dostympu do strōny about:profiles.
@@ -106,6 +109,7 @@ policy-SearchEngines = Sztalowanie wyszukowarki. Te prawidło je dostympne ino d
 policy-SearchSuggestEnabled = Załōnczanie abo zastawianie doradōw szukanio.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Instalacyjo modułōw PKCS #11.
+policy-ShowHomeButton = Pokoż dōmowy knefel na posku z noczyniami.
 policy-SSLVersionMax = Nastawianie maksymalnyj wersyje SSL.
 policy-SSLVersionMin = Nastawianie minimalnyj wersyje SSL.
 policy-SupportMenu = Przidowanie włosnego elymyntu spōmożki do myni pōmocy.

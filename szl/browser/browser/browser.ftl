@@ -446,6 +446,8 @@ popup-select-microphone-device =
     .accesskey = M
 popup-select-microphone-icon =
     .tooltiptext = Mikrofōn
+popup-select-speaker-icon =
+    .tooltiptext = Głośniki
 popup-all-windows-shared = Wszyske ôkna widziane na ekranie bydōm udostympniōne.
 popup-screen-sharing-not-now =
     .label = Niy teroz
@@ -705,6 +707,15 @@ repair-text-encoding-button =
 toolbar-addons-themes-button =
     .label = Rozszyrzynia i motywy
     .tooltiptext = Regiyruj rozszyrzyniami i motywami ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open settings (only on macOS)
+toolbar-settings-button =
+    .label = Sztalōnki
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Ôdewrzij sztalōnki ({ $shortcut })
+           *[other] Ôdewrzij sztalōnki
+        }
 
 ## More items
 
