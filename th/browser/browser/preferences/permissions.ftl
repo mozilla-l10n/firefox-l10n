@@ -18,6 +18,12 @@ permissions-session =
 permissions-allow =
     .label = อนุญาต
     .accesskey = อ
+permissions-button-off =
+    .label = ปิด
+    .accesskey = O
+permissions-button-off-temporarily =
+    .label = ปิดชั่วคราว
+    .accesskey = T
 permissions-site-name =
     .label = เว็บไซต์
 permissions-status =
@@ -58,6 +64,10 @@ permissions-capabilities-listitem-block =
     .value = ปิดกั้น
 permissions-capabilities-listitem-allow-session =
     .value = อนุญาตในวาระ
+permissions-capabilities-listitem-off =
+    .value = ปิด
+permissions-capabilities-listitem-off-temporarily =
+    .value = ปิดชั่วคราว
 
 ## Invalid Hostname Dialog
 
@@ -77,6 +87,9 @@ permissions-exceptions-cookie-window =
     .title = ข้อยกเว้น - คุกกี้และข้อมูลไซต์
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = คุณสามารถระบุเว็บไซต์ที่อนุญาตหรือไม่อนุญาตให้ใช้คุกกี้และข้อมูลไซต์เสมอ พิมพ์ที่อยู่ของไซต์ที่คุณต้องการจัดการแล้วคลิก ปิดกั้น, อนุญาตในวาระ หรืออนุญาต
+
+## Exceptions - HTTPS-Only Mode
+
 
 ## Exceptions - Pop-ups
 

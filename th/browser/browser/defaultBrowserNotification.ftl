@@ -14,6 +14,7 @@ default-browser-notification-button =
 
 default-browser-prompt-title-pin = ต้องการทำให้ { -brand-short-name } เป็นเบราว์เซอร์หลักของคุณหรือไม่
 default-browser-prompt-message-pin = นำ { -brand-short-name } มาไว้ที่ปลายนิ้วมือของคุณโดยทำให้เป็นเบราว์เซอร์เริ่มต้นของคุณและปักหมุดเข้ากับแถบงานของคุณ
+default-browser-prompt-message-pin-mac = ให้ { -brand-short-name } อยู่เพียงปลายนี้วของคุณ — ทำให้เป็นเบราว์เซอร์เริ่มต้นและเก็บไว้ใน Dock
 default-browser-prompt-button-primary-pin = ทำให้เป็นเบราว์เซอร์หลัก
 default-browser-prompt-title-alt = ต้องการทำให้ { -brand-short-name } เป็นเบราว์เซอร์เริ่มต้นของคุณหรือไม่
 default-browser-prompt-message-alt = รับความเร็ว ความปลอดภัย และความเป็นส่วนตัวในทุกครั้งที่คุณเรียกดู

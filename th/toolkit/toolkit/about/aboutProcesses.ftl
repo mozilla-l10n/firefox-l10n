@@ -52,6 +52,37 @@ about-processes-unknown-process-name = อื่นๆ ({ $type }, กระบ�
 #   $pid (String) The process id of this process, assigned by the OS.
 about-processes-process-name = กระบวนการ { $pid }: { $name }
 
+## Process names
+## Variables:
+##    $pid (String) The process id of this process, assigned by the OS.
+
+about-processes-browser-process = { -brand-short-name }{ $pid }
+about-processes-file-process = ไฟล์ ({ $pid })
+about-processes-extension-process = ส่วนขยาย ({ $pid })
+about-processes-privilegedabout-process = หน้าเกี่ยวกับ ({ $pid })
+about-processes-plugin-process = ปลั๊กอิน ({ $pid })
+about-processes-rdd-process = ตัวถอดรหัสข้อมูล ({ $pid })
+about-processes-socket-process = เครือข่าย ({ $pid })
+about-processes-remote-sandbox-broker-process = ตัวกลาง Sandbox ระยะไกล ({ $pid })
+about-processes-fork-server-process = ฟอร์คเซิร์ฟเวอร์ ({ $pid })
+about-processes-preallocated-process = จัดสรรล่วงหน้า ({ $pid })
+# Unknown process names
+# Variables:
+#    $pid (String) The process id of this process, assigned by the OS.
+#    $type (String) The raw type for this process.
+about-processes-unknown-process = อื่น ๆ : { $type } ({ $pid })
+
+## Isolated process names
+## Variables:
+##    $pid (String) The process id of this process, assigned by the OS.
+##    $origin (String) The domain name for this process.
+
+about-processes-web-isolated-process = { $origin } ({ $pid })
+about-processes-web-large-allocation-process = { $origin } ({ $pid }, ขนาดใหญ่)
+about-processes-with-coop-coep-process = { $origin } ({ $pid }, ถูกแยก cross-origin)
+about-processes-web-isolated-process-private = { $origin } — ส่วนตัว ({ $pid })
+about-processes-web-large-allocation-process-private = { $origin } — ส่วนตัว ({ $pid }, ขนาดใหญ่)
+
 ## Details within processes
 
 # Single-line summary of threads
@@ -65,6 +96,36 @@ about-processes-thread-summary = เธรด ({ $number })
 #   $name (String) The name assigned to the thread.
 #   $tid (String) The thread id of this thread, assigned by the OS.
 about-processes-thread-name = เธรด { $tid }: { $name }
+# Single-line summary of threads (non-idle process)
+# Variables:
+#    $number (Number) The number of threads in the process. Typically larger
+#                     than 30. We don't expect to ever have processes with less
+#                     than 5 threads.
+#    $active (Number) The number of active threads in the process.
+#                     The value will be greater than 0 and will never be
+#                     greater than $number.
+#    $list (String) Comma separated list of active threads.
+#                   Can be an empty string if the process is idle.
+about-processes-active-threads =
+    { $active ->
+       *[other] { $active } เธรดที่ใช้งานอยู่จาก { $number }: { $list }
+    }
+# Single-line summary of threads (idle process)
+# Variables:
+#    $number (Number) The number of threads in the process. Typically larger
+#                     than 30. We don't expect to ever have processes with less
+#                     than 5 threads.
+#                     The process is idle so all threads are inactive.
+about-processes-inactive-threads =
+    { $number ->
+       *[other] { $number } เธรดที่ไม่ได้ใช้งาน
+    }
+# Thread details
+# Variables:
+#   $name (String) The name assigned to the thread.
+#   $tid (String) The thread id of this thread, assigned by the OS.
+about-processes-thread-name-and-id = { $name }
+    .title = เธรด id: { $tid }
 # Tab
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).

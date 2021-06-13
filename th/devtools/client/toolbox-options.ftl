@@ -61,6 +61,8 @@ options-screenshot-label = ลักษณะการทำงานของ�
 options-screenshot-clipboard-label = จับภาพหน้าจอไปยังคลิปบอร์ด
 options-screenshot-clipboard-tooltip =
     .title = บันทึกไปที่ภาพหน้าจอโดยตรงไปยังคลิปบอร์ด
+# Label for the checkbox that toggles screenshot to clipboard feature
+options-screenshot-clipboard-only-label = จับภาพหน้าจอไปยังคลิปบอร์ดเท่านั้น
 options-screenshot-clipboard-tooltip2 =
     .title = บันทึกภาพหน้าจอโดยตรงไปยังคลิปบอร์ด
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
