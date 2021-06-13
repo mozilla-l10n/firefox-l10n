@@ -322,6 +322,10 @@ openpgp-radio-none =
 
 openpgp-radio-none-desc = OpenPGP für diese Identität nicht verwenden
 
+openpgp-radio-key-not-usable = Dieser Schlüssel kann nicht als persönlicher Schlüssel verwendet werden, weil der geheime Schlüssel fehlt.
+openpgp-radio-key-not-accepted = Sie müssen den Schlüssel bestätigen, um ihn als persönlichen Schlüssel zu verwenden.
+openpgp-radio-key-not-found = Dieser Schlüssel wurde nicht gefunden. Falls er verwendet werden soll, muss er in { -brand-short-name } importiert werden.
+
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = Läuft ab: { $date }
 
