@@ -181,8 +181,6 @@ page-action-send-tabs-urlbar =
             [one] Enviar pestaña a dispositivo
            *[other] Enviar { $tabCount } pestañas a dispositivo
         }
-page-action-pocket-panel =
-    .label = Guardar página en { -pocket-brand-name }
 page-action-copy-url-panel =
     .label = Copiar enlace
 page-action-copy-url-urlbar =
@@ -442,6 +440,8 @@ popup-select-microphone-device =
     .accesskey = M
 popup-select-microphone-icon =
     .tooltiptext = Micrófono
+popup-select-speaker-icon =
+    .tooltiptext = Altavoces
 popup-all-windows-shared = Se compartirán todas las ventanas visibles en su pantalla.
 popup-screen-sharing-not-now =
     .label = Ahora no
@@ -615,8 +615,6 @@ crashed-subframe-submit =
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = Mostrar todos los marcadores
 bookmarks-manage-bookmarks =
     .label = Administrar marcadores
 bookmarks-recent-bookmarks-panel-subheader = Marcadores recientes
@@ -689,6 +687,12 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = Guardar en { -pocket-brand-name }
     .tooltiptext = Guardar en { -pocket-brand-name }
+
+## Repair text encoding toolbar button
+
+repair-text-encoding-button =
+    .label = Reparar la codificación de texto
+    .tooltiptext = Adivina la codificación de texto correcta a partir del contenido de la página
 
 ## Customize Toolbar Buttons
 
