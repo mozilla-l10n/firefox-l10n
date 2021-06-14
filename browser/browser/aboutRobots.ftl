@@ -17,7 +17,7 @@ error-short-desc-text = Дошли смо у посету у миру и доб�
 # Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics
 error-long-desc1 = Роботи не могу повредити људско биће или услед неактивности дозволити да људско биће буде повређено.
 # Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..."
-error-long-desc2 = Роботи су видели ствари за које ви, људи, не бисте веровали.
+error-long-desc2 = Роботи су видели ствари које су за људе непознаница.
 # Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots.
 error-long-desc3 = Роботи су ваши пластични другари, са којима је забавно.
 # TV: Futurama. Bender's first line is "Bite my shiny metal ass."
