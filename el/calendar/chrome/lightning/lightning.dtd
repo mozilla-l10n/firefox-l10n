@@ -11,7 +11,7 @@
 <!ENTITY lightning.preferencesLabel "Ημερολόγιο">
 
 <!-- New menu popup in File menu -->
-<!ENTITY lightning.menupopup.new.event.label    "Συμβάν…">
+<!ENTITY lightning.menupopup.new.event.label    "Εκδήλωση…">
 <!ENTITY lightning.menupopup.new.event.accesskey "Σ">
 <!ENTITY lightning.menupopup.new.task.label     "Εργασία…">
 <!ENTITY lightning.menupopup.new.task.accesskey "Ε">
@@ -29,8 +29,8 @@
 <!ENTITY lightning.menu.view.tasks.accesskey           "ρ">
 
 <!-- Events and Tasks menu -->
-<!ENTITY lightning.menu.eventtask.label                "Συμβάντα και εργασίες">
-<!ENTITY lightning.menu.eventtask.accesskey            "Σ">
+<!ENTITY lightning.menu.eventtask.label                "Εκδηλώσεις και εργασίες">
+<!ENTITY lightning.menu.eventtask.accesskey            "σ">
 
 <!-- properties dialog, calendar creation wizard -->
 <!-- LOCALIZATON NOTE(lightning.calendarproperties.email.label,
@@ -48,21 +48,21 @@
 
 <!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.btnAccept.label                                  "Αποδοχή">
-<!ENTITY lightning.imipbar.btnAccept2.tooltiptext                           "Αποδοχή πρόσκλησης σε συμβάν">
+<!ENTITY lightning.imipbar.btnAccept2.tooltiptext                           "Αποδοχή πρόσκλησης σε εκδήλωση">
 <!ENTITY lightning.imipbar.btnAcceptRecurrences.label                       "Αποδοχή όλων">
-<!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "Αποδοχή πρόσκλησης για όλα τα στιγμιότυπα του συμβάντος">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "Αποδοχή πρόσκλησης για όλες τις καταχωρήσεις της εκδήλωσης">
 <!ENTITY lightning.imipbar.btnAdd.label                                     "Προσθήκη">
-<!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "Προσθήκη του συμβάντος στο ημερολόγιο">
+<!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "Προσθήκη εκδήλωσης στο ημερολόγιο">
 <!ENTITY lightning.imipbar.btnDecline.label                                 "Απόρριψη">
-<!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Αρνητική απάντηση στην πρόσκληση σε συμβάν">
+<!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Απόρριψη πρόσκλησης σε εκδήλωση">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Αρνητική απάντηση σε όλα">
-<!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Αρνητική απάντηση στην πρόσκληση για όλα τα στιγμιότυπα του συμβάντος">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Απόρριψη πρόσκλησης για όλες τις καταχωρήσεις της εκδήλωσης">
 <!ENTITY lightning.imipbar.btnDeclineCounter.label                          "Απόρριψη">
 <!ENTITY lightning.imipbar.btnDeclineCounter.tooltiptext                    "Αρνητική απάντηση στην αντιπρόταση">
 <!ENTITY lightning.imipbar.btnDelete.label                                  "Διαγραφή">
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Διαγραφή από το ημερολόγιο">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Λεπτομέρειες…">
-<!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Εμφάνιση λεπτομερειών συμβάντος">
+<!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Εμφάνιση λεπτομερειών εκδήλωσης">
 <!ENTITY lightning.imipbar.btnDoNotShowImipBar.label                        "Να μην εμφανίζονται αυτά τα μηνύματα">
 <!ENTITY lightning.imipbar.btnGoToCalendar.label                            "Ημερολόγιο">
 <!ENTITY lightning.imipbar.btnGoToCalendar.tooltiptext                      "Μετάβαση στην καρτέλα ημερολογίου">

@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Event Menu -->
-<!ENTITY event.new.event                        "Νέο συμβάν…">
-<!ENTITY event.new.event.accesskey              "β">
+<!ENTITY event.new.event                        "Νέα εκδήλωση…">
+<!ENTITY event.new.event.accesskey              "δ">
 
 <!ENTITY event.new.task                         "Νέα εργασία…">
 <!ENTITY event.new.task.accesskey               "α">
@@ -33,9 +33,9 @@
 <!ENTITY calendar.menu.customize.label          "Προσαρμογή…">
 <!ENTITY calendar.menu.customize.accesskey      "Π">
 
-<!ENTITY showUnifinderCmd.label                 "Εύρεση συμβάντων">
+<!ENTITY showUnifinderCmd.label                 "Εύρεση εκδηλώσεων">
 <!ENTITY showUnifinderCmd.accesskey             "Ε">
-<!ENTITY showUnifinderCmd.tooltip               "Εναλλαγή παραθύρου εύρεσης συμβάντων">
+<!ENTITY showUnifinderCmd.tooltip               "Εναλλαγή παραθύρου εύρεσης εκδηλώσεων">
 
 <!ENTITY calendar.displaytodos.checkbox.label       "Εμφάνιση εργασιών στο ημερολόγιο">
 <!ENTITY calendar.displaytodos.checkbox.accesskey   "Ρ">
