@@ -144,6 +144,21 @@ cc-compose-show-address-row-menuitem =
     .label = Fushë { cc-compose-address-row-label.value }
     .accesskey = C
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+cc-compose-show-address-row-label =
+    .value = { cc-compose-address-row-label.value }
+    .tooltiptext = Shfaq Fushë { cc-compose-address-row-label.value } ({ cc-compose-show-address-row-menuitem.acceltext })
+bcc-compose-address-row-label =
+    .value = Bcc
+#   $key (String) - the shortcut key for this field
+bcc-compose-show-address-row-menuitem =
+    .label = Fushë { bcc-compose-address-row-label.value }
+    .accesskey = B
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+bcc-compose-show-address-row-label =
+    .value = { bcc-compose-address-row-label.value }
+    .tooltiptext = Shfaq Fushë { bcc-compose-address-row-label.value } ({ bcc-compose-show-address-row-menuitem.acceltext })
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+many-public-recipients-info = { $count } marrësit te fushat Për dhe Cc do të shohin adresën e njëri-tjetrit. Nxjerrjen zbuluar të marrësve mund të shmangni duke përdorur fushën Bcc.
 many-public-recipients-bcc =
     .label = Më mirë përdor Bcc
     .accesskey = M
@@ -153,3 +168,6 @@ many-public-recipients-ignore =
 
 ## Notifications
 
+# Variables:
+# $identity (string) - The name of the used identity, most likely an email address.
+compose-missing-identity-warning = Su gjet ndonjë identitet unik që përputhet me adresën Nga. Mesazhi do të dërgohet duke përdorur fushën e tanishme Nga dhe rregullimet nga identiteti { $identity }.
