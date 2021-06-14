@@ -20,7 +20,6 @@ account-setup-name-input =
     .placeholder = Filan Fisteku
 account-setup-name-info-icon =
     .title = Emri juaj, siç do të shihet nga të tjerët
-account-setup-name-warning = Ju lutemi, jepni emrin tuaj
 account-setup-name-warning-icon =
     .title = { account-setup-name-warning }
 account-setup-email-label = Adresë email
@@ -29,7 +28,6 @@ account-setup-email-input =
     .placeholder = filanfisteku@example.com
 account-setup-email-info-icon =
     .title = Adresa e email-it tuaj ekzistues
-account-setup-email-warning = Adresë email e pavlefshme
 account-setup-email-warning-icon =
     .title = { account-setup-email-warning }
 account-setup-password-label = Fjalëkalim
@@ -108,7 +106,13 @@ account-setup-forum-help = Forum asistence
 
 ## Results area
 
-account-setup-protocol-title = Përzgjidhni protokoll
+# Variables:
+#  $count (Number) - Number of available protocols.
+account-setup-results-area-title =
+    { $count ->
+        [one] Formësim i gatshëm
+       *[other] Formësime të gatshëm
+    }
 # Note: IMAP is the name of a protocol.
 account-setup-result-imap = IMAP
 account-setup-result-imap-description = Mbajini dosjet dhe email-et tuaj të njëkohësuar në shërbyesin tuaj
@@ -122,6 +126,8 @@ account-setup-incoming-title = Ardhëse
 account-setup-outgoing-title = Ikëse
 account-setup-username-title = Emër përdoruesi
 account-setup-exchange-title = Shërbyes
+account-setup-result-smtp = SMTP
+account-setup-result-no-encryption = Pa Fshehtëzim
 
 ## Error messages
 
@@ -131,32 +137,32 @@ account-setup-credentials-wrong = Mirëfilltësimi dështoi. Ju lutemi,, kontrol
 account-setup-find-settings-failed = { -brand-short-name } s’arriti të gjejë rregullimet për llogarinë tuaj email
 account-setup-exchange-config-unverifiable = Formësimi s’u verifikua dot. Nëse emri juaj i përdoruesit dhe fjalëkalimi janë të saktë, gjasat janë që përgjegjësi i shërbyesit të ketë çaktivizuar për llogarinë tuaj formësimin e përzgjedhur. Provoni përzgjedhjen e një protokolli tjetër.
 
-## Manual config area
+## Manual configuration area
 
 account-setup-manual-config-title = Rregullime shërbyesi
-account-setup-incoming-protocol-label = Protokoll Ardhësesh
 protocol-imap-option = { account-setup-result-imap }
 protocol-pop-option = { account-setup-result-pop }
-account-setup-outgoing-protocol-label = Protokoll Ikësesh
-outgoing-protocol = SMTP
-account-setup-incoming-server-label = Shërbyes Ardhësesh
-account-setup-outgoing-server-label = Shërbyes Ikësesh
-account-setup-incoming-port-label = Portë Ardhësesh
-account-setup-outoing-port-label = Portë Ikësesh
-account-setup-incoming-ssl-label = SSL Ardhësesh
-account-setup-outgoing-ssl-label = SSL Hyrësesh
+
+## Incoming/Outgoing SSL Authentication options
+
 ssl-autodetect-option = Vetëzbuloje
+
+## Incoming/Outgoing SSL options
+
 ssl-noencryption-option = Asnjë
-ssl-starttls-option = STARTTLS
-ssl-tls-option = SSL/TLS
-account-setup-incoming-auth-label = Mirëfilltësim Ardhësesh
-account-setup-outgoing-auth-label = Mirëfilltësim Ikësesh
-account-setup-incoming-username-label = Emër përdoruesi Ardhësesh
-account-setup-outgoing-username-label = Emër përdoruesi Ikësesh
 account-setup-advanced-setup-button = Formësim i mëtejshëm
     .accesskey = e
 
-## Warning insecure server
+## Warning insecure server dialog
 
 account-setup-insecure-server-checkbox = I kuptoj rreziqet
     .accesskey = u
+
+## Warning Exchange confirmation dialog
+
+
+## Alert dialogs
+
+
+## Addon installation section
+
