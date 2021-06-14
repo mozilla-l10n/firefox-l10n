@@ -13,12 +13,12 @@
 webrtc-indicator-title = { -brand-short-name } - индикатор дељења
 webrtc-sharing-window = Делите прозор другог програма.
 webrtc-sharing-browser-window = Делите { -brand-short-name(case: "acc") }.
-webrtc-sharing-screen = Делите цео ваш екран.
+webrtc-sharing-screen = Делите цео екран.
 webrtc-stop-sharing-button = Заустави дељење
 webrtc-microphone-button =
     .title = Микрофон се дели. Кликните да контролишете дељење.
 webrtc-camera-button =
-    .title = Камера се дели. Кликните да контролишете дељење.
+    .title = Камера се дели. Кликните да бисте променили подешавања.
 webrtc-microphone-unmuted =
     .title = Искључи микрофон
 webrtc-microphone-muted =
@@ -33,7 +33,7 @@ webrtc-minimize =
 # device sharing state in the OS notification area. We do not use these strings
 # on macOS, as global menu bar items do not have native tooltips.
 webrtc-camera-system-menu =
-    .label = Делите вашу камеру. Кликните да контролишете дељење.
+    .label = Делите камеру. Кликните да бисте променили подешавања.
 webrtc-microphone-system-menu =
     .label = Делите ваш микрофон. Кликните да контролишете дељење.
 webrtc-screen-system-menu =
