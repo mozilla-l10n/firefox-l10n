@@ -17,7 +17,7 @@
 <!ENTITY newSiteButton.accesskey      "Ν">
 <!ENTITY docDirList.label             "Υποκατάλογος σελίδας για την ιστοσελίδα:">
 <!ENTITY docDirList.accesskey         "π">
-<!ENTITY docDirList.tooltip           "Επιλέξτε ή εισάγετε το όνομα για τον απομακρυσμένο υποκατάλογο για αυτή τη σελίδα">
+<!ENTITY docDirList.tooltip           "Επιλέξτε ή εισαγάγετε το όνομα απομακρυσμένου υποκαταλόγου για αυτή τη σελίδα">
 <!ENTITY publishImgCheckbox.label     "Να περιέχονται εικόνες και άλλα αρχεία">
 <!ENTITY publishImgCheckbox.accesskey "χ">
 <!ENTITY publishImgCheckbox.tooltip   "Δημοσίευση εικόνων ή άλλων αρχείων που συνδέονται με τη σελίδα.">

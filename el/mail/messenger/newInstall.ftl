@@ -6,4 +6,4 @@ connection-window =
     .title = Σημαντικές ειδήσεις
 continue-button =
     .label = Συνέχεια
-main-text = Αυτή η εγκατάσταση του { -brand-short-name } έχει ένα νέο προφίλ. Δεν μοιράζεται δεδομένα ηλεκτρονικού ταχυδρομείου, κωδικούς πρόσβασης, προτιμήσεις χρήστη και βιβλία διευθύνσεων με άλλες εγκαταστάσεις του { -brand-product-name } (συμπεριλαμβανομένων των { -brand-product-name }, { -brand-product-name } Beta και { -brand-product-name } Καθημερινό) σε αυτόν τον υπολογιστή.
+main-text = Αυτή η εγκατάσταση του { -brand-short-name } έχει ένα νέο προφίλ. Δεν μοιράζεται δεδομένα ηλεκτρονικού ταχυδρομείου, κωδικούς πρόσβασης, προτιμήσεις χρήστη και ευρετήρια με άλλες εγκαταστάσεις του { -brand-product-name } (όπως το { -brand-product-name }, το { -brand-product-name } Beta και το { -brand-product-name } Daily) σε αυτό τον υπολογιστή.

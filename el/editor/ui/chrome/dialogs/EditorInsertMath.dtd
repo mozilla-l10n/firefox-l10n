@@ -5,7 +5,7 @@
 <!-- Window title -->
 <!ENTITY windowTitle.label "Εισαγωγή μαθηματικού τύπου">
 
-<!ENTITY sourceEditField.label "Εισάγετε πηγαίο κώδικα LaTeX:">
+<!ENTITY sourceEditField.label "Εισαγάγετε πηγαίο κώδικα LaTeX:">
 
 <!ENTITY options.label "Επιλογές">
 <!ENTITY optionInline.label "Λειτουργία εντός γραμμής">
