@@ -46,6 +46,9 @@ pill-action-move-cc =
 pill-action-move-bcc =
     .label = Přesunout do Skrytá kopie
     .accesskey = r
+pill-action-expand-list =
+    .label = Rozbalit seznam
+    .accesskey = R
 
 # Attachment widget
 
