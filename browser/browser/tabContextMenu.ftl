@@ -92,7 +92,7 @@ move-tab =
     .accesskey = м
 tab-context-share-url =
     .label = Дели
-    .accesskey = Д
+    .accesskey = е
 tab-context-share-more =
     .label = Више…
 
