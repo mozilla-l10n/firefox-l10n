@@ -94,7 +94,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "<p>Lo problèma ven benlèu del site web, podètz doncas pas i remediar. Podètz lo senhalar als administrators del site.</p>">
 
-<!ENTITY sharedLongDesc "<ul> <li>Benlèu que lo site es temporàriament indisponible o subrecargat. Tornatz ensajar pus tard ;</li> <li>Se capitatz pas de navegar sus cap de site, verificatz la connexion a la ret de vòstre ordenador ;</li> <li>Se vòstre ordenador o vòstra ret es protegit per un parafuòc o un proxy, asseguratz-vos que &brandShortName; a l'autorizacion d'accedir al Web.</li> </ul>">
+<!ENTITY sharedLongDesc "<ul> <li>Benlèu que lo site es temporàriament indisponible o subrecargat. Tornatz ensajar pus tard ;</li> <li>Se capitatz pas de navegar sus cap de site, verificatz la connexion a la ret de vòstre ordenador ;</li> <li>Se vòstre ordenador o vòstra ret es protegida per un parafuòc o un proxy, asseguratz-vos que &brandShortName; a l'autorizacion d'accedir al Web.</li> </ul>">
 
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; a empacha lo cargament d'aquesta pagina d 'aqueste biais perque son estrategia de seguretat de contengut lo permet pas.</p>">
 
