@@ -38,7 +38,7 @@
 <!ENTITY event.attendees.notifyundisclosed.label     "Χωριστή πρόσκληση ανά συμμετέχοντα">
 <!ENTITY event.attendees.notifyundisclosed.accesskey "Χ">
 <!ENTITY event.attendees.notifyundisclosed.tooltip   "Αυτή η επιλογή αποστέλλει μία πρόσκληση με ηλεκτρονικό ταχυδρομείο ανά συμμετέχοντα. Κάθε πρόσκληση περιέχει μόνο τον αποδέκτη συμμετέχοντα, έτσι ώστε οι ταυτότητες των άλλων συμμετεχόντων να μην αποκαλύπτονται.">
-<!ENTITY event.attendees.disallowcounter.label       "Να μην επιτραπεί αντιπρόταση">
+<!ENTITY event.attendees.disallowcounter.label       "Απαγόρευση αντιπροτάσεων">
 <!ENTITY event.attendees.disallowcounter.accesskey   "α">
 <!ENTITY event.attendees.disallowcounter.tooltip     "Υποδηλώνει αν θα δέχεστε αντιπροτάσεις">
 
@@ -259,7 +259,7 @@
 
 <!ENTITY event.reminder.multiple.label                    "Πολλαπλές υπενθυμίσεις…" >
 
-<!ENTITY event.statusbarpanel.freebusy.label              "Στο διάστημα του συμβάντος εμφανίζομαι ως:">
+<!ENTITY event.statusbarpanel.freebusy.label              "Διαθεσιμότητα:">
 <!ENTITY event.statusbarpanel.privacy.label               "Ιδιωτικότητα:">
 
 <!-- Recurrence dialog -->
@@ -375,7 +375,7 @@
 <!ENTITY event.freebusy.suggest.slot            "Προτεινόμενο χρονικό περιθώριο:">
 <!ENTITY event.freebusy.button.next.slot        "Επόμενο περιθώριο">
 <!ENTITY event.freebusy.button.previous.slot    "Προηγούμενο περιθώριο">
-<!ENTITY event.freebusy.zoom                    "Επίπεδο μεγέθυνσης:">
+<!ENTITY event.freebusy.zoom                    "Ζουμ:">
 <!ENTITY event.freebusy.legend.free             "Διαθέσιμος/η" >
 <!ENTITY event.freebusy.legend.busy             "Απασχολημένος/η" >
 <!ENTITY event.freebusy.legend.busy_tentative   "Με επιφύλαξη" >
