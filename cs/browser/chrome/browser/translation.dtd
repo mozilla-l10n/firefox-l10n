@@ -17,7 +17,7 @@
 <!ENTITY translation.translate.button           "Přeložit">
 <!ENTITY translation.notNow.button              "Teď ne">
 
-<!ENTITY translation.translatingContent.label   "Překlad obsahu stránky…">
+<!ENTITY translation.translatingContent.label   "Probíhá překlad stránky…">
 
 <!-- LOCALIZATION NOTE (translation.translatedFrom.label,
   -                     translation.translatedTo.label,
@@ -35,7 +35,7 @@
   -  need to display some text after the second drop down for the sentence to
   -  be grammatically correct. -->
 <!ENTITY translation.translatedFrom.label       "Tato stránka byla přeložena z jazyka">
-<!ENTITY translation.translatedTo.label         "do">
+<!ENTITY translation.translatedTo.label         "do jazyka">
 <!ENTITY translation.translatedToSuffix.label   "">
 
 <!ENTITY translation.showOriginal.button        "Zobrazit původní obsah">
