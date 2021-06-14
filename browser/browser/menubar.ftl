@@ -189,6 +189,9 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = Znaková sada textu
     .accesskey = k
+menu-view-repair-text-encoding =
+    .label = Opravit znakovou sadu textu
+    .accesskey = z
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
