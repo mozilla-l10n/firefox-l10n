@@ -331,6 +331,8 @@ browser-window-close-button =
 
 ## Tab actions
 
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = ’GA CHLUICH
 
 ## These labels should be written in all capital letters if your locale supports them.
 ## Variables:
@@ -479,6 +481,9 @@ save-to-pocket-button =
     .label = Sàbhail ann am { -pocket-brand-name }
     .tooltiptext = Sàbhail ann am { -pocket-brand-name }
 
+## Repair text encoding toolbar button
+
+
 ## Customize Toolbar Buttons
 
 # Variables:
@@ -506,6 +511,9 @@ more-menu-go-offline =
 
 eme-notifications-drm-content-playing = Tha cuid dhen fhuaim no video air an làrach seo a' cleachdadh bathar-bog DRM agus dh'fhaoidte gun cuingich seo na 's urrainn dhut a dhèanamh leis ann am { -brand-short-name }.
 eme-notifications-drm-content-playing-manage = Stiùirich na roghainnean
+eme-notifications-drm-content-playing-manage-accesskey = S
+eme-notifications-drm-content-playing-dismiss = Leig seachad
+eme-notifications-drm-content-playing-dismiss-accesskey = d
 
 ## Password save/update panel
 
