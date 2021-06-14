@@ -35,6 +35,6 @@ webrtc-minimize =
 webrtc-camera-system-menu =
     .label = Делите камеру. Кликните да бисте променили подешавања.
 webrtc-microphone-system-menu =
-    .label = Делите ваш микрофон. Кликните да контролишете дељење.
+    .label = Делите микрофон. Кликните да бисте променили подешавања.
 webrtc-screen-system-menu =
     .label = Делите прозор или екран. Кликните да бисте променили подешавања.
