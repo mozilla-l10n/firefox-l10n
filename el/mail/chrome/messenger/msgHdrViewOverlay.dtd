@@ -10,7 +10,7 @@
 <!ENTITY replyToField4.label "Απάντηση σε">
 
 <!ENTITY subjectField4.label "Θέμα">
-<!ENTITY ccField4.label "Κοιν ">
+<!ENTITY ccField4.label "Κοιν.">
 <!ENTITY bccField4.label "Κρυφή κοιν.">
 <!ENTITY newsgroupsField4.label "Ομάδες συζήτησης">
 <!ENTITY followupToField4.label "Σε συνέχεια του">
