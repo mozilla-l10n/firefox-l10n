@@ -72,10 +72,10 @@
 
 <!ENTITY outgoingTitle.label "Πληροφορίες διακομιστή εξερχομένων">
 <!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-<!ENTITY outgoingServer.description "Εισάγετε το όνομα του διακομιστή εξερχομένων(SMTP) (για παράδειγμα, &quot;smtp.example.net&quot;).">
+<!ENTITY outgoingServer.description "Εισαγάγετε το όνομα διακομιστή εξερχομένων (SMTP) (για παράδειγμα, &quot;smtp.example.net&quot;).">
 <!ENTITY outgoingServer.label "Διακομιστής εξερχομένων:">
 <!ENTITY outgoingServer.accesskey "ξ">
-<!ENTITY outgoingUsername.description "Εισάγετε το όνομα χρήστη εξερχομένων που σας δόθηκε από τον παροχέα email (αυτό συνήθως είναι ίδιο με το όνομα χρήστη εισερχομένων).">
+<!ENTITY outgoingUsername.description "Εισαγάγετε το όνομα χρήστη εξερχομένων που σας δόθηκε από τον πάροχο ηλεκτρονικού ταχυδρομείου σας (αυτό συνήθως είναι ίδιο με το όνομα χρήστη εισερχομένων).">
 <!ENTITY outgoingUsername.label "Όνομα χρήστη εξερχομένων:">
 <!ENTITY outgoingUsername.accesskey "χ">
 
