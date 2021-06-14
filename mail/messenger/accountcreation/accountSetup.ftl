@@ -78,7 +78,7 @@ account-setup-checking-password = Έλεγχος κωδικού πρόσβαση
 account-setup-installing-addon = Λήψη και εγκατάσταση πρόσθετου…
 account-setup-success-half-manual = Κατά τον έλεγχο του διακομιστή εντοπίστηκαν οι παρακάτω ρυθμίσεις:
 account-setup-success-guess = Ρυθμίσεις που βρέθηκαν κατά τη δοκιμή των κοινών ονομάτων.
-account-setup-success-guess-offline = Είστε εκτός σύνδεσης. Τοποθετήσαμε μερικές ρυθμίσεις αλλά θα χρειαστεί να εισάγετε τις σωστές.
+account-setup-success-guess-offline = Είστε εκτός σύνδεσης. Μαντέψαμε ορισμένες ρυθμίσεις αλλά θα χρειαστεί να εισαγάγετε τις σωστές.
 account-setup-success-password = Ο κωδικός πρόσβασης είναι εντάξει.
 account-setup-success-addon = Το πρόσθετο εγκαταστάθηκε επιτυχώς
 # Note: Do not translate or replace Mozilla. It stands for the public project mozilla.org, not Mozilla Corporation. The database is a generic, public domain facility usable by any client.
