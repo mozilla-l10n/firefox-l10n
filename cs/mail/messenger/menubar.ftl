@@ -47,6 +47,12 @@ toolbar-undelete-button =
     .label = Zrušit smazání
     .tooltiptext = Obnoví dříve smazané vybrané zprávy
 
+## View
+
+menu-view-repair-text-encoding =
+    .label = Opravit znakovou sadu textu
+    .accesskey = z
+
 ## View / Layout
 
 mail-uidensity-label =

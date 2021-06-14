@@ -119,3 +119,6 @@ addon-removal-confirmation-message =
 caret-browsing-prompt-title = Procházení stránky
 caret-browsing-prompt-text = Stisknutím klávesy F7 zapnete či vypnete funkci Procházení stránky. Ta umístí do obsahu textový kurzor, který vám umožní vybírat text pomocí klávesnice. Chcete zapnout funkci Procházení stránky?
 caret-browsing-prompt-check-text = Příště se už neptat.
+repair-text-encoding-button =
+    .label = Opravit znakovou sadu textu
+    .tooltiptext = Na základě obsahu zprávy odhadne správnou znakovou sadu textu
