@@ -34,7 +34,7 @@
 <!ENTITY pageTitleExample.label       "π.χ.: &quot;Η σελίδα μου&quot;">
 <!ENTITY filename.label               "Όνομα αρχείου:">
 <!ENTITY filename.accesskey           "χ">
-<!ENTITY filename.tooltip             "Εισάγετε ένα όνομα για αυτό το αρχείο συμπεριλαμβάνοντας και το  '.html'  για την ιστοσελίδα">
+<!ENTITY filename.tooltip             "Εισαγάγετε ένα όνομα για αυτό το αρχείο, μαζί με την κατάληξη '.html' για μια ιστοσελίδα">
 <!ENTITY filenameExample.label        "π.χ.: &quot;ησελίδαμου.html&quot;">
 <!ENTITY setDefaultButton.label       "Ορισμός ως προεπιλογή">
 <!ENTITY setDefaultButton.accesskey   "π">

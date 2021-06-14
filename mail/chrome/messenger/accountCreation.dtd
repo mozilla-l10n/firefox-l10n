@@ -8,7 +8,7 @@
 <!ENTITY name.accesskey                  "ν">
 <!ENTITY fullname.placeholder            "Το πλήρες όνομά σας">
 <!ENTITY name.text                       "Το όνομά σας, όπως θα εμφανίζεται σε τρίτους">
-<!ENTITY name.error                      "Παρακαλούμε εισάγετε το όνομά σας">
+<!ENTITY name.error                      "Παρακαλώ εισαγάγετε το όνομά σας">
 <!ENTITY email.label                     "Διεύθυνση email:">
 <!ENTITY email.accesskey                 "ε">
 <!ENTITY email3.placeholder              "Η διεύθυνση email σας">
