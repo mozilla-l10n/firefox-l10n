@@ -16,6 +16,9 @@ about-rights-notification-text = { -brand-short-name } është program i lirë d
 addons-and-themes-button =
     .label = Shtesa dhe Tema
     .tooltip = Administroni shtesat tuaja
+redirect-msg-button =
+    .label = Ridrejtoje
+    .tooltiptext = Ridrejto mesazhin e përzgjedhur
 
 ## Folder Pane
 
@@ -50,6 +53,12 @@ folder-toolbar-toggle-folder-compact-view =
     .label = Parje e Ngjeshur
     .accesskey = N
 
+## Menu
+
+redirect-msg-menuitem =
+    .label = Ridrejtoje
+    .accesskey = R
+
 ## AppMenu
 
 # Since v89 we dropped the platforms distinction between Options or Preferences
@@ -64,6 +73,18 @@ appmenu-help-exit-troubleshoot-mode =
     .label = Çaktivizo Mënyrën Diagnostikim
 appmenu-help-more-troubleshooting-info =
     .label = Më Tepër të Dhëna Diagnostikimi
+appmenu-redirect-msg =
+    .label = Ridrejto
+
+## Context menu
+
+context-menu-redirect-msg =
+    .label = Ridrejtoje
+
+## Message header pane
+
+other-action-redirect-msg =
+    .label = Ridrejtoje
 
 ## Action Button Context Menu
 
@@ -74,6 +95,13 @@ toolbar-context-menu-remove-extension =
     .label = Hiqe Zgjerimin
     .accesskey = H
 
+## Message headers
+
+message-header-address-in-address-book-icon =
+    .alt = Adresa gjendet në Librin e Adresave
+message-header-address-not-in-address-book-icon =
+    .alt = Adresa s’gjendet në Librin e Adresave
+
 ## Add-on removal warning
 
 # Variables:
@@ -81,3 +109,9 @@ toolbar-context-menu-remove-extension =
 addon-removal-title = Të hiqet { $name }?
 addon-removal-confirmation-button = Hiqe
 addon-removal-confirmation-message = Të hiqet { $name }, si dhe formësimi dhe të dhënat e saj nga { -brand-short-name }-i?
+caret-browsing-prompt-title = Shfletim me Kursor
+caret-browsing-prompt-text = Shtypja e F7 aktivizon/çaktivizon Shfletimin me Kursor. Kjo karakteristikë vendos te faqja një kursor të lëvizshëm, duke ju lejuar të përzgjidhni tekst me tastierë. Doni ta aktivizoni Shfletimin me Kursor?
+caret-browsing-prompt-check-text = Mos pyet sërish.
+repair-text-encoding-button =
+    .label = Riparo Kodim Teksti
+    .tooltiptext = Hamendëso kodimin e saktë të tekstit prej lëndës së mesazhit

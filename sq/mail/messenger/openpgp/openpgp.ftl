@@ -294,6 +294,9 @@ openpgp-keygen-external-success = ID-ja e Kyçit të Jashtëm GnuPG u ruajt!
 openpgp-radio-none =
     .label = Asnjë
 openpgp-radio-none-desc = Mos përdor OpenPGP për këtë identitet.
+openpgp-radio-key-not-usable = Ky kyç s’është i përdorshëm si kyç personal, ngaqë mungon kyçi i fshehtë!
+openpgp-radio-key-not-accepted = Që të përdorni këtë kyç, duhet ta miratoni si një kyç personal!
+openpgp-radio-key-not-found = S’u gjet dot ky kyç! Nëse doni ta përdorni, duhet ta importoni te { -brand-short-name }-i.
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = Skadon më: { $date }
 openpgp-key-expires-image =
@@ -449,18 +452,13 @@ openpgp-export-secret-fail = <b>S’arrihet të eksportohet kyçi i fshehtë i p
 # Strings in keyObj.jsm
 key-ring-pub-key-revoked = Kyçi { $userId } (ID kyçi { $keyId }) është i shfuqizuar.
 key-ring-pub-key-expired = Kyçi { $userId } (ID kyçi { $keyId }) ka skaduar.
-key-ring-key-disabled = Kyçi { $userId } (ID kyçi { $keyId }) është i çaktivizuar, s’mund të përdoret.
-key-ring-key-invalid = Kyçi { $userId } (ID kyçi { $keyId }) s’është i vlefshëm. Ju lutemi, shihni mundësinë e verifikimit saktë të tij.
-key-ring-key-not-trusted = Kyçi { $userId } (ID kyçi { $keyId }) s’është i besuar në shkallë të mjaftueshme. Ju lutemi, për ta përdorur për nënshkrime, caktojeni shkallën e besimit të kyçit tuaj si “përgjithnjë”.
 key-ring-no-secret-key = S’duket se keni kyçin e fshehtë për { $userId } (ID kyçi { $keyId }) në vargun tuaj të kyçeve; kyçin s’mund ta përdorni për nënshkrime.
 key-ring-pub-key-not-for-signing = Kyçi { $userId } (ID kyçi { $keyId }) s’mund të përdoret për nënshkrime.
 key-ring-pub-key-not-for-encryption = Kyçi { $userId } (ID kyçi { $keyId }) s’mund të përdoret për fshehtëzim.
 key-ring-sign-sub-keys-revoked = Janë shfuqizuar krejt nënkyçet e nënshkrimit të kyçit { $userId } (ID kyçi { $keyId }).
 key-ring-sign-sub-keys-expired = Kanë skaduar krejt nënkyçet e nënshkrimit të kyçit { $userId } (ID kyçi { $keyId }).
-key-ring-sign-sub-keys-unusable = Janë shfuqizuar, kanë skaduar ose ndryshe janë të papërdorshëm, krejt nënkyçet e nënshkrimit të kyçit { $userId } (ID kyçi { $keyId }).
 key-ring-enc-sub-keys-revoked = Janë shfuqizuar krejt nënkyçet e fshehtëzimit të kyçit { $userId } (ID kyçi { $keyId }).
 key-ring-enc-sub-keys-expired = Kanë skaduar krejt nënkyçet e fshehtëzimit të kyçit { $userId } (ID kyçi { $keyId }).
-key-ring-enc-sub-keys-unusable = Janë shfuqizuar, kanë skaduar ose ndryshe janë të papërdorshëm, krejt nënkyçet e fshehtëzimit të kyçit { $userId } (ID kyçi { $keyId }).
 # Strings in gnupg-keylist.jsm
 keyring-photo = Foto
 user-att-photo = Atribut përdoruesi (figurë JPEG)
@@ -633,5 +631,6 @@ dlg-button-retry = &Riprovo
 dlg-button-skip = &Anashkaloje
 # Strings used in enigmailCommon.js
 enig-error = Gabim OpenPGP
+# Strings used in enigmailMsgBox.js
 enig-alert-title =
     .title = Sinjalizim OpenPGP
