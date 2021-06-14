@@ -292,8 +292,8 @@ bookmark-panel-remove =
         }
     .accesskey = У
 bookmark-panel-show-editor-checkbox =
-    .label = Прикажи уређивач приликом чувања
-    .accesskey = S
+    .label = Прикажи уређивач при чувању
+    .accesskey = П
 bookmark-panel-done-button =
     .label = Готово
 bookmark-panel-save-button =
