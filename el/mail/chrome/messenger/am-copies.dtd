@@ -15,7 +15,7 @@
 <!ENTITY ccAddress.accesskey "ι">
 <!ENTITY ccAddressList.placeholder "Διαχωρισμός διευθύνσεων με κόμματα">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
-<!ENTITY bccAddress.label "Κρυφή κοινοποίηση (Bcc) στις διευθύνσεις email:">
+<!ENTITY bccAddress.label "Κρυφή κοινοποίηση στις διευθύνσεις email:">
 <!ENTITY bccAddress.accesskey "θ">
 <!ENTITY bccAddressList.placeholder "Διαχωρισμός διευθύνσεων με κόμματα">
 <!ENTITY saveMessageDlg.label "Εμφάνιση παραθύρου επιβεβαίωσης κατά την αποθήκευση μηνυμάτων">

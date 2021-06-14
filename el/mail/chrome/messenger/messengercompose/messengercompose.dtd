@@ -247,7 +247,7 @@
 <!ENTITY fromAddr.accesskey "π">
 <!ENTITY toAddr2.label "Προς">
 <!ENTITY ccAddr2.label "Κοιν.">
-<!ENTITY bccAddr2.label "Κρυφή Κοιν.">
+<!ENTITY bccAddr2.label "Κρυφή κοιν.">
 <!ENTITY replyAddr2.label "Απάντηση προς">
 <!ENTITY newsgroupsAddr2.label "Ομάδα ειδήσεων">
 <!ENTITY followupAddr2.label "Σε συνέχεια του ">
