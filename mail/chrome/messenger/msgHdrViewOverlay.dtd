@@ -11,7 +11,7 @@
 
 <!ENTITY subjectField4.label "Θέμα">
 <!ENTITY ccField4.label "Κοιν ">
-<!ENTITY bccField4.label "Κρ.κοιν ">
+<!ENTITY bccField4.label "Κρυφή κοιν.">
 <!ENTITY newsgroupsField4.label "Ομάδες συζήτησης">
 <!ENTITY followupToField4.label "Σε συνέχεια του">
 <!ENTITY tagsHdr4.label "Ετικέτες">
@@ -36,7 +36,7 @@
 <!ENTITY hdrForwardButton1.label "Προώθηση">
 <!ENTITY hdrForwardButton1.tooltip "Προώθηση μηνύματος">
 <!ENTITY hdrJunkButton1.label "Ανεπιθύμητα">
-<!ENTITY hdrJunkButton1.tooltip "Επισήμανση μηνύματος ως ανεπιθύμητο">
+<!ENTITY hdrJunkButton1.tooltip "Επισήμανση μηνύματος ως ανεπιθύμητου">
 <!ENTITY hdrTrashButton1.label "Διαγραφή">
 <!ENTITY hdrTrashButton1.tooltip "Διαγραφή μηνύματος">
 

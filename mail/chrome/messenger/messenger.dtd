@@ -498,7 +498,7 @@
 <!ENTITY filtersApplyToMessage.accesskey "σ">
 <!ENTITY runJunkControls.label "Έλεγχος για ανεπιθύμητα email στον φάκελο">
 <!ENTITY runJunkControls.accesskey "κ">
-<!ENTITY deleteJunk.label "Διαγραφή σημειωμένου μηνύματος ως ανεπιθύμητο στο φάκελο">
+<!ENTITY deleteJunk.label "Διαγραφή επισημασμένου email ως ανεπιθύμητου στον φάκελο">
 <!ENTITY deleteJunk.accesskey "ι">
 <!ENTITY importCmd.label "Εισαγωγή…">
 <!ENTITY importCmd.accesskey "γ">
@@ -630,7 +630,7 @@
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Νέα ετικέτα…">
 <!ENTITY addNewTag.accesskey "Ν">
-<!ENTITY manageTags.label "Διαχείριση των ετικετών…">
+<!ENTITY manageTags.label "Διαχείριση ετικετών…">
 <!ENTITY manageTags.accesskey "Τ">
 
 <!-- Folder Pane -->
