@@ -19,7 +19,7 @@ finger-verify = Επαλήθευση
 finger-verify-accessKey = Ε
 finger-verify-access-key = V
 # Do not translate 'OTR' (name of an encryption protocol)
-buddycontextmenu-label = Προσθήκη δακτυλικού αποτυπώματος OTR
+buddycontextmenu-label = Προσθήκη αποτυπώματος OTR
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 alert-start = Απόπειρα έναρξης κρυπτογραφημένης συνομιλίας με τον/την { $name }.
