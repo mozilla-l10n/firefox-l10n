@@ -47,6 +47,12 @@ toolbar-undelete-button =
     .label = Çfshije
     .tooltiptext = Hiqe fshirjen e mesazheve të përzgjedhur
 
+## View
+
+menu-view-repair-text-encoding =
+    .label = Riparo Kodim Teksti
+    .accesskey = R
+
 ## View / Layout
 
 mail-uidensity-label =

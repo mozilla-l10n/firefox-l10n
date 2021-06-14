@@ -128,6 +128,13 @@ account-setup-username-title = Emër përdoruesi
 account-setup-exchange-title = Shërbyes
 account-setup-result-smtp = SMTP
 account-setup-result-no-encryption = Pa Fshehtëzim
+account-setup-result-ssl = SSL/TLS
+account-setup-result-starttls = STARTTLS
+account-setup-result-outgoing-existing = Përdor shërbyesin dërgues SMTP ekzistues
+# Variables:
+#  $incoming (String): The email/username used to log into the incoming server
+#  $outgoing (String): The email/username used to log into the outgoing server
+account-setup-result-username-different = Marrës: { $incoming }, Dërgues: { $outgoing }
 
 ## Error messages
 
@@ -140,29 +147,67 @@ account-setup-exchange-config-unverifiable = Formësimi s’u verifikua dot. Në
 ## Manual configuration area
 
 account-setup-manual-config-title = Rregullime shërbyesi
+account-setup-incoming-server-legend = Shërbyes marrës
+account-setup-protocol-label = Protokoll:
 protocol-imap-option = { account-setup-result-imap }
 protocol-pop-option = { account-setup-result-pop }
+protocol-exchange-option = { account-setup-result-exchange }
+account-setup-hostname-label = Strehëemër:
+account-setup-port-label = Portë:
+    .title = Për vetëpikasje, numrin e portës vëreni 0
+account-setup-auto-description = { -brand-short-name } do të përpiqet të vetëpikasë vlerat për fushat që janë lënë të zbrazëta.
+account-setup-ssl-label = Siguri lidhjeje:
+account-setup-outgoing-server-legend = Shërbyes dërgues
 
 ## Incoming/Outgoing SSL Authentication options
 
 ssl-autodetect-option = Vetëzbuloje
+ssl-no-authentication-option = Pa mirëfilltësim
+ssl-cleartext-password-option = Fjalëkalim normal
+ssl-encrypted-password-option = Fjalëkalim i fshehtëzuar
 
 ## Incoming/Outgoing SSL options
 
 ssl-noencryption-option = Asnjë
+account-setup-auth-label = Metodë mirëfilltësimi:
+account-setup-username-label = Emër përdoruesi:
 account-setup-advanced-setup-button = Formësim i mëtejshëm
     .accesskey = e
 
 ## Warning insecure server dialog
 
+account-setup-insecure-title = Kujdes!
+account-setup-insecure-incoming-title = Rregullime për shërbyesin marrës:
+account-setup-insecure-outgoing-title = Rregullime për shërbyesin dërgues:
+# Variables:
+#  $server (String): The name of the hostname of the server the user was trying to connect to.
+account-setup-warning-cleartext = <b>{ $server }</b> s’përdor fshehtëzim.
+account-setup-warning-cleartext-details = Shërbyesit e pasigurt të postës nuk përdorin lidhje të fshehtëzuara që të mbrojnë fjalëkalimet tuaj dhe të dhëna private. Duke u lidhur te ky shërbyes, mund të ekspozoni fjalëkalimin tuaj dhe të dhëna private.
 account-setup-insecure-server-checkbox = I kuptoj rreziqet
     .accesskey = u
+account-setup-insecure-description = { -brand-short-name }-i ju lejon të mbërrini te posta juaj duke përdorur formësime të gatshme. Sidoqoftë, lidhur me këto lidhje të pasakta, do të duhej të lidheshit me përgjegjësin ose furnizuesin e shërbimit email. Për më tepër të dhëna, shihni <a data-l10n-name="thunderbird-faq-link">PBR për Thunderbird-in</a>.
+insecure-dialog-cancel-button = Ndryshoni Rregullimet
+    .accesskey = N
+insecure-dialog-confirm-button = Ripohojeni
+    .accesskey = R
 
 ## Warning Exchange confirmation dialog
 
+# Variables:
+#  $domain (String): The name of the server where the configuration was found, e.g. rackspace.com.
+exchange-dialog-question = { -brand-short-name }-i gjeti të dhëna ujdisjeje të llogarisë tuaj në { $domain }. Doni të vazhdohet dhe të parashtrohen kredencialet tuaja?
+exchange-dialog-confirm-button = Kredenciale Hyrjesh
+exchange-dialog-cancel-button = Anuloje
 
 ## Alert dialogs
 
+account-setup-creation-error-title = Gabim në Krijim Llogarie
+account-setup-error-server-exists = Shërbyesi marrës ekziston tashmë.
+account-setup-confirm-advanced-title = Ripohoni Formësim të Mëtejshëm
+account-setup-confirm-advanced-description = Ky dialog do të mbyllet dhe do të krijohet një llogari me rregullimet e tanishme, edhe nëse formësimi është i pasaktë. Doni të vazhdohet?
 
 ## Addon installation section
 
+account-setup-addon-install-title = Instaloje
+account-setup-addon-install-intro = Një shtojcë palësh të treta mund t’ju lejojë të përdorni llogarinë tuaj email në këtë shërbyes:
+account-setup-addon-no-protocol = Ky shërbyes email-i mjerisht nuk mbulon protokolle të hapët. { account-setup-addon-install-intro }
