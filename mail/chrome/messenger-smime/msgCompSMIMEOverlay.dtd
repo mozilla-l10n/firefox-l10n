@@ -33,7 +33,7 @@
 <!ENTITY menu_securityStatus.accesskey "λ">
 
 <!ENTITY securityButton.label "Ασφάλεια">
-<!ENTITY securityButton.tooltip "Προβολή ή αλλαγή ρυθμίσεων ασφαλείας.">
+<!ENTITY securityButton.tooltip "Προβολή ή αλλαγή ρυθμίσεων ασφαλείας">
 
 <!ENTITY menu_viewSecurityStatus.label "Πληροφορίες ασφάλειας μηνύματος">
 <!ENTITY menu_viewSecurityStatus.accesskey "φ">

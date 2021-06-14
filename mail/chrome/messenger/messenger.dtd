@@ -435,7 +435,7 @@
 <!ENTITY markAsJunkCmd.label "Ως ανεπιθύμητο">
 <!ENTITY markAsJunkCmd.accesskey "ν">
 <!ENTITY markAsJunkCmd.key "j">
-<!ENTITY markAsNotJunkCmd.label "Ως επιθυμητή αλληλογραφία">
+<!ENTITY markAsNotJunkCmd.label "Ως μη ανεπιθύμητο">
 <!ENTITY markAsNotJunkCmd.accesskey "θ">
 <!ENTITY markAsNotJunkCmd.key "j">
 <!ENTITY recalculateJunkScoreCmd.label "Έλεγχος για ανεπιθύμητα email">
@@ -574,7 +574,7 @@
 <!ENTITY replyAllButton.tooltip "Απάντηση στον αποστολέα και σε όλους τους παραλήπτες">
 <!ENTITY replyListButton.tooltip "Απάντηση στη λίστα αλληλογραφίας">
 <!ENTITY forwardButton.tooltip "Προώθηση επιλεγμένου μηνύματος">
-<!ENTITY forwardAsInline.tooltip "Προώθηση επιλεγμένου μηνύματος ως κείμενο μέσα στο σώμα">
+<!ENTITY forwardAsInline.tooltip "Προώθηση επιλεγμένου μηνύματος ως ενσωματωμένου κειμένου">
 <!ENTITY forwardAsAttachment.tooltip "Προώθηση επιλεγμένου μηνύματος ως συνημμένο">
 <!ENTITY fileButton.tooltip "Αρχειοθέτηση επιλεγμένου μηνύματος">
 <!ENTITY archiveButton.tooltip "Αρχειοθέτηση επιλεγμένων μηνυμάτων">
@@ -779,7 +779,7 @@
 <!ENTITY contextForward.accesskey "θ">
 <!ENTITY contextForwardAsMenu.label "Προώθηση ως">
 <!ENTITY contextForwardAsMenu.accesskey "ο">
-<!ENTITY contextForwardAsInline.label "Μέσα στο σώμα">
+<!ENTITY contextForwardAsInline.label "Ενσωμάτωση">
 <!ENTITY contextForwardAsInline.accesskey "Μ">
 <!ENTITY contextForwardAsAttachmentItem.label "Συνημμένο">
 <!ENTITY contextForwardAsAttachmentItem.accesskey "Σ">
