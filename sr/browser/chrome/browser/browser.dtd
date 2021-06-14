@@ -155,6 +155,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuHistory.viewSidebar.label "Прикажи панел са историјом">
 <!ENTITY appMenuHistory.hideSidebar.label "Сакриј панел са историјом">
 <!ENTITY appMenuHistory.recentHistory.label "Недавна историја">
+
 <!ENTITY appMenuHelp.label "Помоћ">
 
 <!ENTITY appMenuRemoteTabs.label "Синхронизоване картице">
@@ -276,7 +277,7 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY sendToDevice.syncNotReady.label "Синхронизовање уређаја…">
 
-<!ENTITY pageAction.shareUrl.label "Подели">
+<!ENTITY pageAction.shareUrl.label "Дели">
 <!ENTITY pageAction.shareMore.label "Још…">
 
 <!ENTITY libraryButton.tooltip "Погледајте историју, сачуване обележиваче и друго">
