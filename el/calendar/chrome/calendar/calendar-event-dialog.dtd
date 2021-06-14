@@ -392,7 +392,7 @@
 <!ENTITY event.attendee.usertype.unknown        "Άγνωστο">
 
 <!-- Timezone dialog -->
-<!ENTITY timezone.title.label            "Παρακαλούμε καθορίστε τη ζώνη ώρας">
+<!ENTITY timezone.title.label            "Παρακαλώ καθορίστε τη ζώνη ώρας">
 <!ENTITY event.timezone.custom.label     "Περισσότερες ζώνες ώρας…">
 
 <!-- Read-Only dialog -->
