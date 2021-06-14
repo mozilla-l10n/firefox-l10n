@@ -150,7 +150,7 @@
 <!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY checkSpellingCmd2.key2 "VK_F7">
 <!ENTITY checkSpellingCmd2.accesskey "θ">
-<!ENTITY enableInlineSpellChecker.label "Αυτόματος ορθογραφικός έλεγχος">
+<!ENTITY enableInlineSpellChecker.label "Ορθογραφικός έλεγχος κατά την πληκτρολόγηση">
 <!ENTITY enableInlineSpellChecker.accesskey "Α">
 <!ENTITY quoteCmd.label "Παράθεση μηνύματος">
 <!ENTITY quoteCmd.accesskey "θ">
@@ -231,7 +231,7 @@
 <!ENTITY quoteButton.tooltip "Παράθεση προηγούμενου μηνύματος">
 <!ENTITY addressButton.tooltip "Επιλογή παραλήπτη από το Ευρετήριο Διευθύνσεων">
 <!ENTITY attachButton.tooltip2 "Προσθήκη ενός συνημμένου">
-<!ENTITY spellingButton.tooltip "Ορθογραφικός έλεγχος επιλογής ή ολόκληρου του μηνύματος">
+<!ENTITY spellingButton.tooltip "Ορθογραφικός έλεγχος επιλογής ή ολόκληρου μηνύματος">
 <!ENTITY saveButton.tooltip "Αποθήκευση μηνύματος">
 <!ENTITY cutButton.tooltip              "Αποκοπή">
 <!ENTITY copyButton.tooltip             "Αντιγραφή">
