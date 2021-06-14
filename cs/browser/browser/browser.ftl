@@ -732,6 +732,9 @@ save-to-pocket-button =
 
 ## Repair text encoding toolbar button
 
+repair-text-encoding-button =
+    .label = Opravit znakovou sadu textu
+    .tooltiptext = Na základě obsahu stránky odhadne správnou znakovou sadu textu
 
 ## Customize Toolbar Buttons
 
