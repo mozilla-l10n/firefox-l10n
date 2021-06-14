@@ -11,6 +11,9 @@ remove-address-row-type = Hiqe fushën { $type }
 remove-address-row-type-label =
     .tooltiptext = Hiqe fushën { $type }
 #   $type (String) - the type of the addressing row
+remove-address-row-button =
+    .title = Hiqe fushën { $type }
+#   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type-aria-label =
     { $count ->
@@ -41,6 +44,9 @@ pill-action-move-cc =
 pill-action-move-bcc =
     .label = Shpjere te Bcc
     .accesskey = B
+pill-action-expand-list =
+    .label = Zgjeroje Listën
+    .accesskey = Z
 
 # Attachment widget
 
@@ -118,9 +124,32 @@ button-return-receipt =
     .tooltiptext = Kërko një dëftesë kthimi për këtë mesazh
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 consider-bcc-notification = { $count } marrësit te fushat Për dhe Cc mund të shohin adresën e njëri-tjetrit. Në vend të kësaj, duke përdorur fushën Bcc mund të shmangni nxjerrjen zbuluar të marrësve.
+
+# Addressing Area
+
+to-compose-address-row-label =
+    .value = Për
+#   $key (String) - the shortcut key for this field
+to-compose-show-address-row-menuitem =
+    .label = Fushë { to-compose-address-row-label.value }
+    .accesskey = P
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+to-compose-show-address-row-label =
+    .value = { to-compose-address-row-label.value }
+    .tooltiptext = Shfaq Fushë { to-compose-address-row-label.value } ({ to-compose-show-address-row-menuitem.acceltext })
+cc-compose-address-row-label =
+    .value = Cc
+#   $key (String) - the shortcut key for this field
+cc-compose-show-address-row-menuitem =
+    .label = Fushë { cc-compose-address-row-label.value }
+    .accesskey = C
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
 many-public-recipients-bcc =
     .label = Më mirë përdor Bcc
     .accesskey = M
 many-public-recipients-ignore =
     .label = Mbaji Publikë Marrësit
     .accesskey = b
+
+## Notifications
+
