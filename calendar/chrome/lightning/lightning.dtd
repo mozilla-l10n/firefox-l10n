@@ -71,16 +71,16 @@
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Επιβεβαίωση εκ νέου">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Αποστέλλεται μια επιβεβαίωση εκ νέου στο διοργανωτή">
 <!ENTITY lightning.imipbar.btnReschedule.label                              "Επαναπρογραμματισμός">
-<!ENTITY lightning.imipbar.btnReschedule.tooltiptext                        "Επαναπρογραμματισμός του συμβάντος">
+<!ENTITY lightning.imipbar.btnReschedule.tooltiptext                        "Επαναπρογραμματισμός εκδήλωσης">
 <!ENTITY lightning.imipbar.btnSaveCopy.label                                "Αποθήκευση αντιγράφου">
-<!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Αποθήκευση αντιγράφου του συμβάντος στο ημερολόγιο ανεξάρτητα από την απάντηση στο διοργανωτή. Η λίστα με τους παρευρισκόμενους θα σβηστεί.">
+<!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Αποθήκευση αντιγράφου της εκδήλωσης στο ημερολόγιο ανεξαρτήτως της απάντησης στον διοργανωτή. Η λίστα παρευρισκόμενων θα διαγραφεί.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "Αβεβαιότητα">
-<!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Αποδοχή πρόσκλησης σε συμβάν αλλά με αβεβαιότητα">
+<!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Επιφυλακτική αποδοχή πρόσκλησης σε εκδήλωση">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Αβεβαιότητα για όλα">
-<!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Αποδοχή πρόσκλησης για όλα τα στιγμιότυπα του συμβάντος αλλά με αβεβαιότητα">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Επιφυλακτική αποδοχή πρόσκλησης για όλες τις καταχωρήσεις της εκδήλωσης">
 <!ENTITY lightning.imipbar.btnUpdate.label                                  "Ενημέρωση">
-<!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Ενημέρωση του συμβάντος στο ημερολόγιο">
-<!ENTITY lightning.imipbar.description                                      "Αυτό το μήνυμα περιέχει πρόσκληση σε συμβάν.">
+<!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Ενημέρωση εκδήλωσης στο ημερολόγιο">
+<!ENTITY lightning.imipbar.description                                      "Αυτό το μήνυμα περιέχει πρόσκληση σε εκδήλωση.">
 
 <!ENTITY lightning.imipbar.btnSend.label                                    "Αποστολή μιας απάντησης τώρα">
 <!ENTITY lightning.imipbar.btnSend.tooltiptext                              "Αποστολή μιας απάντησης στον οργανωτή">
