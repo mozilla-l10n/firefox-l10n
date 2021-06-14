@@ -192,9 +192,9 @@ page-action-email-link-panel =
 page-action-email-link-urlbar =
     .tooltiptext = Пошаљи везу имејлом…
 page-action-share-url-panel =
-    .label = Подели
+    .label = Дели
 page-action-share-url-urlbar =
-    .tooltiptext = Подели
+    .tooltiptext = Дели
 page-action-share-more-panel =
     .label = Још…
 page-action-send-tab-not-ready =
@@ -473,7 +473,7 @@ popup-mute-notifications-checkbox = Током дељења искључи об�
 
 ## WebRTC window or screen share tab switch warning
 
-sharing-warning-window = Делите { -brand-short-name }. Други људи могу да виде када пређете на нови језичак.
+sharing-warning-window = Делите { -brand-short-name(case: "acc") }. Други људи могу да виде када пређете на нову картицу.
 sharing-warning-screen = Делите цео екран. Други људи могу да виде када пређете на нову картицу.
 sharing-warning-proceed-to-tab =
     .label = Пређи на картицу

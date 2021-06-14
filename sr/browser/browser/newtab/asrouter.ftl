@@ -190,7 +190,7 @@ cfr-doorhanger-send-tab-ok-button = Испробај слање картица
 
 ## Firefox Send
 
-cfr-doorhanger-firefox-send-header = Делите овај PDF безбедно
+cfr-doorhanger-firefox-send-header = Безбедно делите овај PDF
 cfr-doorhanger-firefox-send-body = Заштитите важне документе шифровањем с краја на крај и везом који истиче када завршите.
 cfr-doorhanger-firefox-send-ok-button = Испробајте { -send-brand-name(case: "acc") }
     .accesskey = И
