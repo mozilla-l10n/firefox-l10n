@@ -50,9 +50,9 @@ about-addressbook-sort-name-ascending =
 about-addressbook-sort-name-descending =
     .label = Ταξινόμηση κατά όνομα (Ω > Α)
 about-addressbook-sort-email-ascending =
-    .label = Ταξινόμηση κατά διεύθυνση ηλεκτρονικής αλληλογραφίας (A > Z)
+    .label = Ταξινόμηση κατά διεύθυνση email (A > Z)
 about-addressbook-sort-email-descending =
-    .label = Ταξινόμηση κατά διεύθυνση ηλεκτρονικής αλληλογραφίας (Z > A)
+    .label = Ταξινόμηση κατά διεύθυνση email (Z > A)
 
 ## Details
 
