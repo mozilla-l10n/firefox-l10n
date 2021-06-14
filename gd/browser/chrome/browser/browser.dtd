@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "Fosgail an clàr-taice">
+
 <!ENTITY navbarOverflow.label                "Barrachd innealan…">
 
 <!-- Tab context menu -->
@@ -28,19 +29,44 @@ can reach it easily. -->
 
 <!ENTITY menubarCmd.label "Bàr a' chlàir-thaice">
 <!ENTITY menubarCmd.accesskey "B">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY navbar.accessibleLabel "Seòladaireachd">
 <!ENTITY personalbarCmd.label "Bàr nan comharra-lìn">
 <!ENTITY personalbarCmd.accesskey "B">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY personalbar.accessibleLabel "Comharran-lìn">
 <!ENTITY bookmarksToolbarItem.label "Rudan air bàr nan comharra-lìn">
 
 <!ENTITY fullScreenCmd.label "Làn-sgrìn">
 
 
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     followed by the user's email. -->
+<!ENTITY fxa.menu.syncSettings2.label "Roghainnean &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Ceangail uidheam eile ris…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     followed by the user's email. -->
+<!ENTITY fxa.menu.signin.label "Clàraich a-steach gu &brandProductName;">
+<!ENTITY fxa.menu.turnOnSync.label "Cuir air &syncBrand.shortName.label;">
+<!ENTITY fxa.menu.firefoxServices.label "Seirbheisean &brandProductName;">
+<!ENTITY fxa.menu.account.label "Cunntas">
+<!ENTITY fxa.menu.settings.label "Roghainnean">
+<!ENTITY fxa.menu.accountSettings.label "Roghainnean a’ chunntais">
+<!ENTITY fxa.menu.manageAccount2.label "Stiùirich an cunntas">
+<!ENTITY fxa.menu.signOut.label "Clàraich a-mach…">
+<!ENTITY fxa.menu.setupSync.label "Suidhich &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
+<!ENTITY fxa.service.sendTab.description "Cuir taba sa bhad gu uidheam sam bith sa bheil thu air do chlàradh a-steach.">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -72,7 +98,6 @@ can reach it easily. -->
 
 <!ENTITY printButton.label            "Clò-bhuail">
 <!ENTITY printButton.tooltip          "Clò-bhuail an duilleag seo">
-
 
 <!ENTITY searchItem.title             "Lorg">
 
@@ -122,19 +147,25 @@ can reach it easily. -->
 <!ENTITY historyUndoWindowMenu.label "Uinneagan a dhùin thu o chionn ghoirid">
 
 <!ENTITY appMenuHistory.showAll.label "Seall an eachdraidh gu lèir">
+
 <!ENTITY appMenuHistory.clearRecent.label "Glan an eachdraidh faisg ort…">
 <!ENTITY appMenuHistory.restoreSession.label "Aisig an seisean roimhe seo">
 <!ENTITY appMenuHistory.viewSidebar.label "Seall bàr-taoibh na h-eachdraidh">
+<!ENTITY appMenuHistory.hideSidebar.label "Falaich bàr-taoibh na h-eachdraidh">
 <!ENTITY appMenuHistory.recentHistory.label "Eachdraidh o chionn goirid">
+
 <!ENTITY appMenuHelp.label "Cobhair">
 
 <!ENTITY appMenuRemoteTabs.label "Tabaichean sioncronaichte">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Chan eil taba fosgailte">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showMore.label "Seall an corr…">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.tooltip):
+     This is shown after the tabs list if we can display more tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showMore.tooltip "Seall barrachd thabaichean on uidheam seo">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
@@ -148,9 +179,13 @@ can reach it easily. -->
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "A bheil thu airson na tabaichean a tha agad air uidheaman eile fhaicinn an-seo?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Fosgail roghainnean an t-sioncronachaidh">
+<!ENTITY appMenuRemoteTabs.welcome.label "Seall liosta nan tabaichean a tha agad air uidheaman eile.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Tha an cunntas agad feumach air dearbhadh.">
+<!ENTITY appMenuRemoteTabs.signintosync.label "Clàraich a-steach gu &syncBrand.shortName.label;…">
+<!ENTITY appMenuRemoteTabs.turnonsync.label "Cuir air &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Stiùirich na h-uidheaman…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Seall bàr-taoibh nan tabaichean sioncronaichte">
+<!ENTITY appMenuRemoteTabs.hidesidebar.label "Falaich bàr-taoibh nan tabaichean sioncronaichte">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Ceangail uidheam eile ris">
 
 <!ENTITY appMenuRecentHighlights.label "Sàr-roghainn o chionn goirid">
@@ -158,7 +193,7 @@ can reach it easily. -->
 <!ENTITY customizeMenu.addToToolbar.label "Cuir ris a' bhàr-inneal">
 <!ENTITY customizeMenu.addToToolbar.accesskey "a">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
-     customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
+     customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Cuir ris a’ chlàr-taice taosgaidh">
@@ -169,9 +204,6 @@ can reach it easily. -->
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "r">
 <!ENTITY customizeMenu.addMoreItems.label "Cuir barrachd rudan ris…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "a">
-<!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
-     toolbar buttons context menus, a user can use this command to submit to Mozilla
-     an abuse report related to that extension. "Report" is a verb. -->
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -185,26 +217,16 @@ can reach it easily. -->
 <!ENTITY searchInput.placeholder      "Lorg">
 <!ENTITY searchIcon.tooltip           "Lorg">
 
-<!-- LOCALIZATION NOTE (searchWithDesc.label):
-     This string prompts the user to use the list of one-click search engines in
-     the Urlbar and searchbar. -->
-
 <!ENTITY openLinkCmdInTab.accesskey   "t">
 
 <!ENTITY pageAction.copyLink.label    "Dèan lethbhreac dhen cheangal">
 
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
 <!ENTITY saveToPocketCmd.label        "Sàbhail an duilleag ann am Pocket">
 <!ENTITY pocketMenuitem.label         "Seall liosta Pocket">
 
 <!ENTITY emailPageCmd.label           "Cuir an dealbh air a' phost-d…">
-
-<!-- Media (video/audio) controls -->
-
-<!-- LOCALIZATION NOTE :
-fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
-fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
-If shift key is needed with your locale popular keyboard for them,
-you can use these alternative items. Otherwise, their values should be empty.  -->
 
 <!ENTITY fullZoom.label                 "Sùm">
 
@@ -231,32 +253,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Cuir faclairean ris…">
 <!ENTITY spellAddDictionaries.accesskey "a">
 
-<!-- LOCALIZATION NOTE (identity.securityView.label2)
-     This is the header of the security subview in the Site Identity panel. -->
-
-
-<!-- LOCALIZATION NOTE:
-     protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
-<!-- LOCALIZATION NOTE:
-     protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
-     protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
-<!-- LOCALIZATION NOTE:
-     In the Site Not Working? view, we suggest turning off protections if
-     the user is experiencing issues with any of a variety of functionality.
-     protections.siteNotWorkingView.header: The header of the list
-     protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
-
-<!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
-     In the protections panel, Content Blocking category items are in three sections:
-     "Blocked" for categories being blocked in the current page,
-     "Allowed" for categories detected but not blocked in the current page, and
-     "None Detected" for categories not detected in the current page.
-     These strings are used in the header labels of each of these sections. -->
-<!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
-     The "Allowed" header also includes a "Why?" link that, when hovered, shows
-     a tooltip explaining why these items were not blocked in the page. -->
-
-
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Tabaichean a' bhrabhsair">
@@ -264,7 +260,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncBrand.shortName.label    "Sioncronachadh">
 
 <!ENTITY customizeMode.autoHideDownloadsButton.label "Fèin-fhalaich">
-
 
 
 <!ENTITY uiTour.infoPanel.close "Dùin">
@@ -275,6 +270,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY updateAvailable.panelUI.label "Luchdaich a-nuas ùrachadh &brandShorterName;">
 <!ENTITY updateManual.panelUI.label "Luchdaich a-nuas lethbhreac ùr de &brandShorterName;">
+<!ENTITY updateUnsupported.panelUI.label "Chan urrainn dhut barrachd ùrachaidhean a dhèanamh">
 <!ENTITY updateRestart.panelUI.label2 "Dèan ath-thòiseachadh airson &brandShorterName; ùrachadh">
 
 <!ENTITY sendToDevice.syncNotReady.label "A’ sioncronachadh nan uidheam...">
