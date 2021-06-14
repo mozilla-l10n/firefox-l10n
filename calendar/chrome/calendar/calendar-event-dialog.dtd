@@ -60,8 +60,8 @@
 <!-- Menubar -->
 <!ENTITY  event.menu.item.new.label                       "Νέο">
 <!ENTITY  event.menu.item.new.accesskey                   "Ν">
-<!ENTITY  event.menu.item.new.event.label                 "Συμβάν">
-<!ENTITY  event.menu.item.new.event.accesskey             "Σ">
+<!ENTITY  event.menu.item.new.event.label                 "Εκδήλωση">
+<!ENTITY  event.menu.item.new.event.accesskey             "κ">
 <!ENTITY  event.menu.item.new.task.label                  "Εργασία">
 <!ENTITY  event.menu.item.new.task.accesskey              "Ε">
 <!ENTITY  event.menu.item.new.message.label               "Μήνυμα">
@@ -115,7 +115,7 @@
 <!ENTITY  event.menu.view.accesskey                       "Π">
 <!ENTITY  event.menu.view.toolbars.label                  "Γραμμές εργαλείων">
 <!ENTITY  event.menu.view.toolbars.accesskey              "Γ">
-<!ENTITY  event.menu.view.toolbars.event.label            "Γραμμή εργαλείων γεγονότος">
+<!ENTITY  event.menu.view.toolbars.event.label            "Γραμμή εργαλείων εκδηλώσεων">
 <!ENTITY  event.menu.view.toolbars.event.accesskey        "Γ">
 <!ENTITY  event.menu.view.toolbars.customize.label        "Προσαρμογή…">
 <!ENTITY  event.menu.view.toolbars.customize.accesskey    "Π">
@@ -140,11 +140,11 @@
 <!ENTITY  event.menu.options.priority.high.accesskey          "Υ">
 <!ENTITY  event.menu.options.privacy.label                    "Απόρρητο">
 <!ENTITY  event.menu.options.privacy.accesskey                "Α">
-<!ENTITY  event.menu.options.privacy.public.label             "Δημόσιο συμβάν">
+<!ENTITY  event.menu.options.privacy.public.label             "Δημόσια εκδήλωση">
 <!ENTITY  event.menu.options.privacy.public.accesskey         "Δ">
-<!ENTITY  event.menu.options.privacy.confidential.label       "Αποκάλυψη μόνο ώρας και ημερομηνίας">
-<!ENTITY  event.menu.options.privacy.confidential.accesskey   "Α">
-<!ENTITY  event.menu.options.privacy.private.label            "Ιδιωτικό συμβάν">
+<!ENTITY  event.menu.options.privacy.confidential.label       "Εμφάνιση μόνο ώρας και ημερομηνίας">
+<!ENTITY  event.menu.options.privacy.confidential.accesskey   "Ε">
+<!ENTITY  event.menu.options.privacy.private.label            "Ιδιωτική εκδήλωση">
 <!ENTITY  event.menu.options.privacy.private.accesskey        "Ι">
 <!ENTITY  event.menu.options.show.time.label                  "Να εμφανίζομαι ως">
 <!ENTITY  event.menu.options.show.time.accesskey              "Ν">
@@ -190,10 +190,10 @@
    - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
 <!ENTITY counter.button.proposal.label                    "Εφαρμογή αντιπρότασης">
 <!ENTITY counter.button.proposal.accesskey                "φ">
-<!ENTITY counter.button.proposal.tooltip2                 "Τα πεδία του συμβάντος θα συμπληρωθούν με τις τιμές της αντιπρότασης, με την αποθήκευση με ή χωρίς επιπρόσθετων αλλαγών θα ειδοποιηθούν όλοι οι συμμετέχοντες αντίστοιχα">
+<!ENTITY counter.button.proposal.tooltip2                 "Τα πεδία εκδήλωσης θα συμπληρωθούν με τις τιμές της αντιπρότασης, με την αποθήκευση με ή χωρίς επιπρόσθετες αλλαγές θα ειδοποιηθούν όλοι οι συμμετέχοντες αντίστοιχα">
 <!ENTITY counter.button.original.label                    "Εφαρμογή αρχικών δεδομένων">
 <!ENTITY counter.button.original.accesskey                "ρ">
-<!ENTITY counter.button.original.tooltip2                 "Τα πεδία θα συμπληρωθούν με τις τιμές από το αρχικό συμβάν, προτού γίνει η αντιπρόταση">
+<!ENTITY counter.button.original.tooltip2                 "Τα πεδία θα συμπληρωθούν με τις τιμές από την αρχική εκδήλωση, προτού γίνει η αντιπρόταση">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Τίτλος:" >
@@ -207,7 +207,7 @@
 <!ENTITY event.calendar.accesskey                         "Η">
 <!ENTITY event.attendees.label                            "Συμμετέχοντες:" >
 <!ENTITY event.attendees.accesskey                        "μ">
-<!ENTITY event.alldayevent.label                          "Ολοήμερο συμβάν" >
+<!ENTITY event.alldayevent.label                          "Ολοήμερη εκδήλωση" >
 <!ENTITY event.alldayevent.accesskey                      "Ο">
 <!ENTITY event.from.label                                 "Έναρξη:" >
 <!ENTITY event.from.accesskey                             "ν">
@@ -221,7 +221,7 @@
 <!ENTITY task.status.accesskey                            "Κ">
 <!ENTITY event.repeat.label                               "Επανάληψη:" >
 <!ENTITY event.repeat.accesskey                           "ψ">
-<!ENTITY event.until.label                                "έως και τις:">
+<!ENTITY event.until.label                                "Έως:">
 <!ENTITY event.until.accesskey                            "ω">
 <!ENTITY event.reminder.label                             "Υπενθύμιση:" >
 <!ENTITY event.reminder.accesskey                         "Υ">

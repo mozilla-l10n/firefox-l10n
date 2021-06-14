@@ -16,7 +16,7 @@
 <!ENTITY locationpage.password.label      "Κωδικός πρόσβασης:" >
 
 <!ENTITY custompage.shortdescription  "Προσαρμόστε το ημερολόγιό σας" >
-<!ENTITY custompage.longdescription   "Μπορείτε να δώσετε στο ημερολόγιο σας ένα ψευδώνυμο και να χρωματίσετε τα γεγονότα από αυτό το ημερολόγιο." >
+<!ENTITY custompage.longdescription   "Μπορείτε να δώσετε στο ημερολόγιο σας ένα ψευδώνυμο και να χρωματίσετε τις εκδηλώσεις από αυτό το ημερολόγιο." >
 
 <!ENTITY finishpage.shortdescription  "Το ημερολόγιο δημιουργήθηκε" >
 <!ENTITY finishpage.longdescription   "Το ημερολόγιό σας έχει δημιουργηθεί." >
