@@ -9,7 +9,7 @@
 
 <!ENTITY move.label "Μετακίνηση νέων ανεπιθύμητων μηνυμάτων:">
 <!ENTITY move.accesskey "ν">
-<!ENTITY junkFolderOn.label "Στο φάκελο &quot;Ανεπιθύμητα&quot; του:">
+<!ENTITY junkFolderOn.label "Στον φάκελο &quot;Ανεπιθύμητα&quot; του:">
 <!ENTITY junkFolderOn.accesskey "θ">
 <!ENTITY otherFolder.label "Σε άλλο:">
 <!ENTITY otherFolder.accesskey "λ">
