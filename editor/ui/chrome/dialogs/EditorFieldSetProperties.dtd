@@ -16,5 +16,5 @@
 <!ENTITY AlignCenter.label "Κέντρο">
 <!ENTITY AlignRight.label "Δεξιά">
 
-<!ENTITY RemoveFieldSet.label "Απομάκρυνση ορισμού πεδίου">
+<!ENTITY RemoveFieldSet.label "Αφαίρεση συνόλου πεδίων">
 <!ENTITY RemoveFieldSet.accesskey "ρ">
