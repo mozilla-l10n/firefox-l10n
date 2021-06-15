@@ -690,6 +690,9 @@ save-to-pocket-button =
 
 ## Repair text encoding toolbar button
 
+repair-text-encoding-button =
+    .label = Emoĩporã moñe’ẽrã ayvu
+    .tooltiptext = Eikuaáke moñe’ẽrã ayvu oikóva pe kuatiarogue retepy guive
 
 ## Customize Toolbar Buttons
 

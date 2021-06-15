@@ -173,6 +173,9 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = Moñe’ẽrã mbopapapy
     .accesskey = c
+menu-view-repair-text-encoding =
+    .label = Emoĩporã moñe’ẽrã ayvu
+    .accesskey = c
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -227,6 +230,8 @@ menu-bookmarks-show-all =
     .label = Opaite techaukaha jehechauka
 menu-bookmark-this-page =
     .label = Kuatiarogue mbojoapy
+menu-bookmarks-manage =
+    .label = Eñangareko Techaukaháre
 menu-bookmark-current-tab =
     .label = Emongurusu tendayke ag̃agua
 menu-bookmark-edit =
@@ -254,15 +259,15 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Eñepyrũ tembiapo { -brand-product-name }-pe…
     .accesskey = g
+menu-tools-turn-on-sync =
+    .label = Emyandy { -sync-brand-short-name }...
+    .accesskey = n
 menu-tools-addons-and-themes =
     .label = Moĩmbaha ha Téma
     .accesskey = A
 menu-tools-fxa-sign-in2 =
     .label = Tembiapo ñepyrũ
     .accesskey = g
-menu-tools-turn-on-sync =
-    .label = Emyandy { -sync-brand-short-name }...
-    .accesskey = n
 menu-tools-turn-on-sync2 =
     .label = Emyandy Ñembojuehe…
     .accesskey = n
@@ -287,13 +292,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Kuatiarogue rehegua marandu
     .accesskey = I
-menu-settings =
-    .label = Ñemboheko
-    .accesskey =
-        { PLATFORM() ->
-            [windows] S
-           *[other] n
-        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -303,6 +301,13 @@ menu-preferences =
     .accesskey =
         { PLATFORM() ->
             [windows] O
+           *[other] n
+        }
+menu-settings =
+    .label = Ñemboheko
+    .accesskey =
+        { PLATFORM() ->
+            [windows] S
            *[other] n
         }
 menu-tools-layout-debugger =
@@ -342,14 +347,12 @@ menu-help-import-from-another-browser =
 menu-help-keyboard-shortcuts =
     .label = Tairenda mbopya’eha
     .accesskey = K
-menu-get-help =
-    .label = Eguereko pytyvõ
-    .accesskey = H
 menu-help-troubleshooting-info =
     .label = Marandu apañuãi myatyrõrã
     .accesskey = T
-menu-help-taskmanager =
-    .label = Tembiapo ñangarekohára
+menu-get-help =
+    .label = Eguereko pytyvõ
+    .accesskey = H
 menu-help-more-troubleshooting-info =
     .label = Maranduve apañuãi ñemyatyrõ rehegua
     .accesskey = T

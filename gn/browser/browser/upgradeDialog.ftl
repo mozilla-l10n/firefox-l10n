@@ -44,6 +44,13 @@ upgrade-dialog-pin-title =
         [macos] Emoĩ { -brand-short-name } nde Dock-pe
        *[other] Emboja { -brand-short-name } ne rembiaporã rendáre
     }
+# The English macOS string avoids repeating "Keep" a third time, so if your
+# translations don't repeat anyway, the same string can be used cross-platform.
+upgrade-dialog-pin-subtitle =
+    { PLATFORM() ->
+        [macos] Eike pya’eve { -brand-short-name } ipyahuvévape.
+       *[other] Ereko { -brand-short-name } ipyahuvévape ehupytykuaa hag̃uáicha.
+    }
 upgrade-dialog-pin-primary-button =
     { PLATFORM() ->
         [macos] Emoĩ nde Dock-pe
