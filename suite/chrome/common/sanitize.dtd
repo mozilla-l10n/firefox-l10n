@@ -2,40 +2,68 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY sanitizeDialog.title            "Slett private data">
-<!ENTITY sanitizeItems.label             "Slett disse elementene nå:">
+<!ENTITY sanitizeDialog.title             "Slett private data">
 
-<!--LOCALIZATION NOTE : Make sure to not have overlapped  accesskeys with
-    pref-privatedata.dtd. These entities are also used in the private data
-    preferences dialog.
--->
-<!ENTITY itemHistory.label               "Nettleserhistorikk">
-<!ENTITY itemHistory.accesskey           "N">
-<!ENTITY itemHistoryS.accesskey          "e">
-<!ENTITY itemUrlBar.label                "Adresselinjehistorikk">
-<!ENTITY itemUrlBar.accesskey            "r">
-<!ENTITY itemUrlBarS.accesskey           "t">
-<!ENTITY itemDownloads.label             "Nedlastingshistorikk">
-<!ENTITY itemDownloads.accesskey         "d">
-<!ENTITY itemDownloadsS.accesskey        "k">
-<!ENTITY itemFormSearchHistory.label     "Søkehistorikk og lagrede skjemaer">
-<!ENTITY itemFormSearchHistory.accesskey "S">
+<!-- LOCALIZATION NOTE (sanitizeDialog.width): width of the Clear Recent
+     History dialog -->
+<!ENTITY sanitizeDialog.width             "34em">
+
+<!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear"
+     dropdown. -->
+<!ENTITY clearTimeDuration.label          "Slett tidsrommet: ">
+<!ENTITY clearTimeDuration.accesskey      "t">
+<!ENTITY clearTimeDuration.lastHour       "Den siste timen">
+<!ENTITY clearTimeDuration.last2Hours     "De siste 2 timene">
+<!ENTITY clearTimeDuration.last4Hours     "De siste 4 timene">
+<!ENTITY clearTimeDuration.today          "I dag">
+<!ENTITY clearTimeDuration.everything     "Alt">
+<!-- Localization note (clearTimeDuration.suffix) - trailing entity for
+     languages that require it. -->
+<!ENTITY clearTimeDuration.suffix         "">
+
+<!--  LOCALIZATION NOTE (sanitizeSelectedWarning): Warning that appears
+      when not all items are selected in the in Clear Private data dialog. -->
+<!ENTITY sanitizeSelectedWarning          "Alle valgte elementer vil slettes.">
+
+<!-- LOCALIZATION NOTE (sanitizeUndoWarning): Second warning
+     paragraph that always appears. -->
+<!ENTITY sanitizeUndoWarning              "Denne handlingen kan ikke angres.">
+
+<!ENTITY sanitizeItems.label              "Slett disse elementene nå:">
+
+<!-- LOCALIZATION NOTE : Try to make sure to not have overlapped  accesskeys
+     with pref-privatedata.dtd. These entities are also used in the private
+     data preferences dialog. -->
+<!ENTITY itemHistory.label                "Nettleserhistorikk">
+<!ENTITY itemHistory.accesskey            "N">
+<!ENTITY itemHistoryS.accesskey           "e">
+<!ENTITY itemUrlBar.label                 "Adresselinjehistorikk">
+<!ENTITY itemUrlBar.accesskey             "r">
+<!ENTITY itemUrlBarS.accesskey            "t">
+<!ENTITY itemDownloads.label              "Nedlastingshistorikk">
+<!ENTITY itemDownloads.accesskey          "d">
+<!ENTITY itemDownloadsS.accesskey         "k">
+<!ENTITY itemFormSearchHistory.label      "Søkehistorikk og lagrede skjemaer">
+<!ENTITY itemFormSearchHistory.accesskey  "S">
 <!ENTITY itemFormSearchHistoryS.accesskey "m">
-<!ENTITY itemCache.label                 "Hurtiglager">
-<!ENTITY itemCache.accesskey             "H">
-<!ENTITY itemCacheS.accesskey            "e">
-<!ENTITY itemCookies.label               "Infokapsler">
-<!ENTITY itemCookies.accesskey           "I">
-<!ENTITY itemCookiesS.accesskey          "k">
-<!ENTITY itemOfflineApps.label           "Frakoblet nettsidedata">
-<!ENTITY itemOfflineApps.accesskey       "F">
-<!ENTITY itemOfflineAppsS.accesskey      "i">
-<!ENTITY itemPasswords.label             "Lagrede passord">
-<!ENTITY itemPasswords.accesskey         "L">
-<!ENTITY itemPasswordsS.accesskey        "s">
-<!ENTITY itemSessions.label              "Autentiserte økter">
-<!ENTITY itemSessions.accesskey          "A">
+<!ENTITY itemCache.label                  "Hurtiglager">
+<!ENTITY itemCache.accesskey              "H">
+<!ENTITY itemCacheS.accesskey             "e">
+<!ENTITY itemCookies.label                "Infokapsler">
+<!ENTITY itemCookies.accesskey            "I">
+<!ENTITY itemCookiesS.accesskey           "k">
+<!ENTITY itemOfflineApps.label            "Frakoblet nettsidedata">
+<!ENTITY itemOfflineApps.accesskey        "F">
+<!ENTITY itemOfflineAppsS.accesskey       "i">
+<!ENTITY itemPasswords.label              "Lagrede passord">
+<!ENTITY itemPasswords.accesskey          "L">
+<!ENTITY itemPasswordsS.accesskey         "s">
+<!ENTITY itemSessions.label               "Autentiserte økter">
+<!ENTITY itemSessions.accesskey           "A">
 
-<!ENTITY itemSessionsS.accesskey         "u">
+<!ENTITY itemSessionsS.accesskey          "u">
 
 <!ENTITY sanitizeButton.label            "Slett private data nå">
+<!ENTITY itemSitePreferences.label        "Nettstedsinnstillinger">
+<!ENTITY itemSitePreferences.accesskey    "d">
+<!ENTITY itemSitePreferencesS.accesskey   "e">
