@@ -2,8 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+third-party-page-title = Informasjon om tredjepartsmodular
+third-party-section-title = Liste over tredjepartsmodular i { -brand-short-name }
 third-party-header-module-list = Modulliste
 third-party-header-loading-events = Lastar hendingar
+third-party-message-empty = Ingen tredjepartsmodular vart oppdaga.
+third-party-message-no-duration = Ikkje spelt inn
 third-party-detail-version = Filversjon
 third-party-detail-vendor = Leverandørinformasjon
 third-party-detail-occurrences = Førekomstar
