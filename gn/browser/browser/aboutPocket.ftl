@@ -15,6 +15,7 @@ pocket-panel-saved-error-generic = Oiko jejavy eñongatusévo { -pocket-brand-na
 pocket-panel-saved-error-tag-length = Umi teramoĩme eipurukuaa 25 tai peve añónte
 pocket-panel-saved-error-only-links = Eñongatukuaa juajuha añoite
 pocket-panel-saved-error-not-saved = Kuatiarogue ñongatu’ỹva
+pocket-panel-saved-error-no-internet = Eimeva’erã ñandutípe eñongatukuaa hag̃ua { -pocket-brand-name } ryepýpe. Ehechajey nde jeike ha eha’ãjey uperire.
 pocket-panel-saved-page-removed = Kuatiarogue mboguetepyre
 pocket-panel-saved-page-saved = { -pocket-brand-name }-pe ñongatupyre
 pocket-panel-saved-processing-remove = Omboguetehína kuatiarogue…

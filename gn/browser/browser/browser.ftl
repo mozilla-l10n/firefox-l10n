@@ -440,6 +440,8 @@ popup-select-microphone-device =
     .accesskey = M
 popup-select-microphone-icon =
     .tooltiptext = Ñe’ẽatãha
+popup-select-speaker-icon =
+    .tooltiptext = Ñe’ẽatãhakuéra
 popup-all-windows-shared = Oñemosarambíta opaite ovetã ojehecháva mba’erechahápe.
 popup-screen-sharing-not-now =
     .label = Ani ko’ág̃a
@@ -685,6 +687,9 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = Eñongatu { -pocket-brand-name }-pe
     .tooltiptext = Eñongatu { -pocket-brand-name }-pe
+
+## Repair text encoding toolbar button
+
 
 ## Customize Toolbar Buttons
 
