@@ -181,8 +181,6 @@ page-action-send-tabs-urlbar =
             [1] Send Tab to Device
            *[other] Send { $tabCount } Tabs to Device
         }
-page-action-pocket-panel =
-    .label = Save Page to { -pocket-brand-name }
 page-action-copy-url-panel =
     .label = Copy Link
 page-action-copy-url-urlbar =
@@ -612,8 +610,6 @@ crashed-subframe-submit =
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = Show All Bookmarks
 bookmarks-manage-bookmarks =
     .label = Manage Bookmarks
 bookmarks-recent-bookmarks-panel-subheader = Recent Bookmarks
@@ -686,6 +682,12 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = Save to { -pocket-brand-name }
     .tooltiptext = Save to { -pocket-brand-name }
+
+## Repair text encoding toolbar button
+
+repair-text-encoding-button =
+    .label = Repair text encoding
+    .tooltiptext = Guess correct text encoding from page content
 
 ## Customize Toolbar Buttons
 
