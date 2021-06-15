@@ -556,7 +556,7 @@
 <!ENTITY notJunkButton.label "Επιθυμητά">
 <!ENTITY addressBookButton.label "Ευρετήριο">
 <!ENTITY chatButton.label "Συνομιλία">
-<!ENTITY glodaSearch.title "Γενική αναζήτηση">
+<!ENTITY glodaSearch.title "Καθολική αναζήτηση">
 <!ENTITY searchItem.title "Γρήγορη αναζήτηση">
 <!ENTITY mailViewsToolbarItem.title "Προβολές αλληλογραφίας">
 <!ENTITY folderLocationToolbarItem.title "Τοποθεσία φακέλου">

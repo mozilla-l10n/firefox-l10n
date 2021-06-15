@@ -9,7 +9,7 @@
 
 <!-- LOCALIZATION NOTE (glodaFacetView.loading.label): Label that appears when
      the search results take a long time to appear. -->
-<!ENTITY glodaFacetView.loading.label "Αναζήτηση...">
+<!ENTITY glodaFacetView.loading.label "Αναζήτηση&#8230;">
 
 <!-- LOCALIZATION NOTE (glodaFacetView.empty.label): Label that appears when
      there are no results that match the search query. -->
@@ -17,12 +17,12 @@
 
 <!-- LOCALIZATION NOTE (glodaFacetView.pageMore.label): Label at the bottom
      of the results list to show more hits. -->
-<!ENTITY glodaFacetView.pageMore.label "Περισσότερα »">
+<!ENTITY glodaFacetView.pageMore.label "Περισσότερα &#187;">
 
 <!-- LOCALIZATION NOTE(glodaFacetView.results.message.openEmailAsList.label2): The
      label for the button/link that causes us to display all of the emails in
      the active set in a new thread pane display tab. -->
-<!ENTITY glodaFacetView.openEmailAsList.label "Εμφάνιση αποτελεσμάτων ως λίστα">
+<!ENTITY glodaFacetView.openEmailAsList.label "Εμφάνιση αποτελεσμάτων σε λίστα">
 
 <!-- LOCALIZATION NOTE(glodaFacetView.results.message.openEmailAsList.tooltip):
      The tooltip to display when hovering over the openEmailAsList label. -->
