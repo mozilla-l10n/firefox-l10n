@@ -44,6 +44,9 @@ pill-action-move-cc =
 pill-action-move-bcc =
     .label = Bcc alanına taşı
     .accesskey = B
+pill-action-expand-list =
+    .label = Listeyi genişlet
+    .accesskey = n
 
 # Attachment widget
 
@@ -132,11 +135,21 @@ to-compose-show-address-row-label =
     .tooltiptext = { to-compose-address-row-label.value } alanını göster ({ to-compose-show-address-row-menuitem.acceltext })
 cc-compose-address-row-label =
     .value = Cc
+#   $key (String) - the shortcut key for this field
+cc-compose-show-address-row-menuitem =
+    .label = { cc-compose-address-row-label.value } alanı
+    .accesskey = C
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
 cc-compose-show-address-row-label =
     .value = { cc-compose-address-row-label.value }
     .tooltiptext = { cc-compose-address-row-label.value } alanını göster ({ cc-compose-show-address-row-menuitem.acceltext })
 bcc-compose-address-row-label =
     .value = Bcc
+#   $key (String) - the shortcut key for this field
+bcc-compose-show-address-row-menuitem =
+    .label = { bcc-compose-address-row-label.value } alanı
+    .accesskey = B
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
 bcc-compose-show-address-row-label =
     .value = { bcc-compose-address-row-label.value }
     .tooltiptext = { bcc-compose-address-row-label.value } alanını göster ({ bcc-compose-show-address-row-menuitem.acceltext })

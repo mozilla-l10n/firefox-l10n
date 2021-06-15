@@ -110,6 +110,7 @@ addon-removal-title = { $name } kaldırılsın mı?
 addon-removal-confirmation-button = Kaldır
 addon-removal-confirmation-message = { $name } ile birlikte yapılandırması ve verileri { -brand-short-name } uygulamasından kaldırılsın mı?
 caret-browsing-prompt-title = Klavye ile Gezinti
+caret-browsing-prompt-text = F7 tuşu Klavye ile Gezinti özelliğini açar ve kapatır. Bu özellik, bazı içeriklerin içine hareket edebilen bir işaretçi ekleyerek metinleri klavyeyle seçebilmenizi sağlar. Klavye ile Gezinti’yi açmak istiyor musunuz?
 caret-browsing-prompt-check-text = Tekrar sorma.
 repair-text-encoding-button =
     .label = Metin kodlamasını onar
