@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY directoryName.label               "Όνομα:">
+<!ENTITY directoryName.label               "Όνομα: ">
 <!ENTITY directoryName.accesskey           "μ">
-<!ENTITY directoryHostname.label           "Όνομα κεντρικού υπολογιστή: ">
+<!ENTITY directoryHostname.label           "Όνομα συστήματος: ">
 <!ENTITY directoryHostname.accesskey       "ν">
 <!ENTITY directoryBaseDN.label             "DN βάσης: ">
 <!ENTITY directoryBaseDN.accesskey         "β">
@@ -16,8 +16,8 @@
 <!ENTITY directoryLogin.accesskey          "σ">
 <!ENTITY General.tab                       "Γενικά">
 <!ENTITY Offline.tab                       "Εκτός σύνδεσης">
-<!ENTITY Advanced.tab                      "Για προχωρημένους">
-<!ENTITY portNumber.label                  "Αριθμός θύρας:">
+<!ENTITY Advanced.tab                      "Σύνθετα">
+<!ENTITY portNumber.label                  "Αριθμός θύρας: ">
 <!ENTITY portNumber.accesskey              "θ">
 <!ENTITY searchFilter.label                "Φίλτρο αναζήτησης: ">
 <!ENTITY searchFilter.accesskey            "Φ">
