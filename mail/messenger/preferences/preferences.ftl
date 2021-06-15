@@ -91,9 +91,9 @@ update-in-progress-ok-button = &Vazgeç
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Devam et
-addons-button = Eklentiler ve temalar
+addons-button = Uzantılar ve temalar
 account-button = Hesap Ayarları
-open-addons-sidebar-button = Eklentiler ve temalar
+open-addons-sidebar-button = Eklentiler ve Temalar
 
 ## OS Authentication dialog
 
@@ -208,7 +208,7 @@ smooth-scrolling-label =
     .accesskey = Y
 system-integration-legend = Sistem Bütünleşmesi
 always-check-default =
-    .label = { -brand-short-name }’ün varsayılan e-posta istemcisi olup olmadığını açılışta denetle
+    .label = Varsayılan e-posta istemcimin { -brand-short-name } olup olmadığını açılışta denetle
     .accesskey = a
 check-default-button =
     .label = Şimdi denetle…
@@ -231,7 +231,7 @@ return-receipts-description = { -brand-short-name } uygulamasının alındı ona
 return-receipts-button =
     .label = Alındı onayları…
     .accesskey = A
-update-app-legend = { -brand-short-name } güncellemeleri
+update-app-legend = { -brand-short-name } Güncellemeleri
 # Variables:
 #   $version (String): version of Thunderbird, e.g. 68.0.1
 update-app-version = Sürüm { $version }

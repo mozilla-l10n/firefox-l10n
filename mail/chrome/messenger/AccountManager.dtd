@@ -22,7 +22,7 @@
 <!ENTITY removeButton.label "Hesabı sil">
 <!ENTITY removeButton.accesskey "H">
 
-<!ENTITY addonsButton.label "Eklentiler ve Temalar">
+<!ENTITY addonsButton.label "Uzantılar ve Temalar">
 
 <!-- AccountManager.xhtml -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account

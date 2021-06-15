@@ -14,7 +14,7 @@ about-rights-notification-text = { -brand-short-name }, tüm dünyadan binlerce 
 ## Toolbar
 
 addons-and-themes-button =
-    .label = Eklentiler ve temalar
+    .label = Eklentiler ve Temalar
     .tooltip = Eklentilerinizi yönetin
 redirect-msg-button =
     .label = Yönlendir

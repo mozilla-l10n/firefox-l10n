@@ -8,3 +8,5 @@ chat-participant-administrator-role-icon2 =
     .alt = Yönetici
 chat-participant-moderator-role-icon2 =
     .alt = Moderatör
+chat-participant-voiced-role-icon2 =
+    .alt = Katılımcı mesaj gönderebilir
