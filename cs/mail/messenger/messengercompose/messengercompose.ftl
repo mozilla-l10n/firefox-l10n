@@ -127,9 +127,10 @@ button-return-receipt =
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 consider-bcc-notification =
     { $count ->
-        [few] Celkem { $count } adresáti v polích Komu a Kopie navzájem uvidí své adresy.
-       *[other] Celkem { $count } adresátů v polích Komu a Kopie navzájem uvidí své adresy.
-    } Pokud se tomu chcete vyhnout, použijte pole Skrytá kopie.
+        [one] { "" }
+        [few] Celkem { $count } adresáti v polích Komu a Kopie navzájem uvidí své adresy. Pokud se tomu chcete vyhnout, použijte pole Skrytá kopie.
+       *[other] Celkem { $count } adresátů v polích Komu a Kopie navzájem uvidí své adresy. Pokud se tomu chcete vyhnout, použijte pole Skrytá kopie.
+    }
 
 # Addressing Area
 
@@ -166,9 +167,10 @@ bcc-compose-show-address-row-label =
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-info =
     { $count ->
-        [few] Celkem { $count } adresáti v polích Komu a Kopie navzájem uvidí své adresy.
-       *[other] Celkem { $count } adresátů v polích Komu a Kopie navzájem uvidí své adresy.
-    } Pokud se tomu chcete vyhnout, použijte pole Skrytá kopie.
+        [one] { "" }
+        [few] Celkem { $count } adresáti v polích Komu a Kopie navzájem uvidí své adresy. Pokud se tomu chcete vyhnout, použijte pole Skrytá kopie.
+       *[other] Celkem { $count } adresátů v polích Komu a Kopie navzájem uvidí své adresy. Pokud se tomu chcete vyhnout, použijte pole Skrytá kopie.
+    }
 many-public-recipients-bcc =
     .label = Použít skrytou kopii
     .accesskey = u
