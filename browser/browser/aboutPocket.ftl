@@ -15,6 +15,7 @@ pocket-panel-saved-error-generic = Pati një gabim teksa përpiqej të ruante te
 pocket-panel-saved-error-tag-length = Etiketat kufizohen deri në 25 shenja
 pocket-panel-saved-error-only-links = Mund të ruhen vetëm lidhje
 pocket-panel-saved-error-not-saved = Faqja S’u Ruajt
+pocket-panel-saved-error-no-internet = Që të ruani në { -pocket-brand-name }, duhet të jeni i lidhur në Internet. Ju lutemi, lidhuni në Internet dhe riprovoni.
 pocket-panel-saved-page-removed = Faqja u Hoq
 pocket-panel-saved-page-saved = U ruajt te { -pocket-brand-name }
 pocket-panel-saved-processing-remove = Po hiqet Faqja…

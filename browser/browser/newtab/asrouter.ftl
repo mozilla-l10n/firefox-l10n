@@ -304,3 +304,10 @@ cfr-whatsnew-bookmarking-body = Është më e lehtë të ndiqen sajtet tuaj të 
 
 cfr-whatsnew-cross-site-tracking-header = Mbrojtje e plotë nga ndjekje cookie-sh “cross-site”
 cfr-whatsnew-cross-site-tracking-body = Tani mund të zgjidhni mbrojtje më të mirë nga gjurmimi përmes cookie-sh. { -brand-short-name }-i mund të izolojë veprimtaritë dhe të dhënat tuaja sipas sajtit ku gjendeni atë çast, që kështu, të dhëna të depozituar te shfletuesi, nuk jepen nga sajti në sajt.
+
+## Full Video Support CFR message
+
+cfr-doorhanger-video-support-body = Videot në këtë sajt mund të mos luhen si duhet nën këtë version të { -brand-short-name }-it. Për mbulim të plotë të videove, përditësoni tani { -brand-short-name }-in.
+cfr-doorhanger-video-support-header = Që të luhet videoja, përditësoni { -brand-short-name }-in
+cfr-doorhanger-video-support-primary-button = Përditësojeni Tani
+    .accesskey = P
