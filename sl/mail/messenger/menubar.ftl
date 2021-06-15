@@ -47,6 +47,12 @@ toolbar-undelete-button =
     .label = Prekliči brisanje
     .tooltiptext = Razveljavi izbris izbranih sporočil
 
+## View
+
+menu-view-repair-text-encoding =
+    .label = Popravi kodiranje besedila
+    .accesskey = r
+
 ## View / Layout
 
 mail-uidensity-label =
