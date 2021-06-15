@@ -31,7 +31,7 @@ experimental-features-web-api-inputmode-description = Nòstra implementacion de 
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
-    .label = CSS : fuèlh d’estil constructibla
+    .label = CSS : fuèlh d’estil constructible
 experimental-features-css-constructable-stylesheets-description = L’apondon d’un constructor a l’interfàcia <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a> atal coma un ensemble de modificacions ligadas que permeton de crear dirèctament de fuèlhs d’estil novèls sans aver d’apondre aqueles al HTML. Facilita fòrça la creacion de fuèlhs d’estil reütilizables d’utilizar amb lo <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. Vejatz lo <a data-l10n-name="bugzilla">bug 1520690</a> per mai de detalhs.
 experimental-features-devtools-color-scheme-simulation =
     .label = Aisinas de desvolopaires : simulacion d’equèma de color
