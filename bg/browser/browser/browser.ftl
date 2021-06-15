@@ -181,8 +181,6 @@ page-action-send-tabs-urlbar =
             [one] Изпращане на раздела до устройство
            *[other] Изпращане на { $tabCount } раздела до устройство
         }
-page-action-pocket-panel =
-    .label = Запазване на страницата в { -pocket-brand-name }
 page-action-copy-url-panel =
     .label = Копиране на препратката
 page-action-copy-url-urlbar =
@@ -373,6 +371,8 @@ browser-window-close-button =
 ## Tab actions
 
 # This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = ИЗПЪЛНЯВА СЕ
+# This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = КАРТИНА В КАРТИНАТА
 
 ## These labels should be written in all capital letters if your locale supports them.
@@ -399,6 +399,11 @@ popup-select-camera-device =
     .accesskey = К
 popup-select-camera-icon =
     .tooltiptext = Камера
+popup-select-microphone-device =
+    .value = Микрофон:
+    .accesskey = М
+popup-select-microphone-icon =
+    .tooltiptext = Микрофон
 popup-all-windows-shared = Всички видими прозорци на вашия екран ще бъдат споделени.
 popup-screen-sharing-not-now =
     .label = Не сега
@@ -517,11 +522,14 @@ urlbar-result-action-tabtosearch-web = Търсете с { $engine } дирек�
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = Търсете в { $engine } директно от адресната лента
+# Action text for copying to clipboard.
+urlbar-result-action-copy-to-clipboard = Копиране
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
+urlbar-result-action-search-bookmarks = Търсене в отметките
 urlbar-result-action-search-history = Търсене в историята
 urlbar-result-action-search-tabs = Търсене на раздели
 
@@ -543,11 +551,12 @@ pointerlock-warning-no-domain = Този документ контролира �
 
 ## Subframe crash notification
 
+crashed-subframe-learnmore-link =
+    .value = Научете повече
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = Показване на всички отметки
+bookmarks-recent-bookmarks-panel-subheader = Последни отметки
 bookmarks-toolbar-chevron =
     .tooltiptext = Показване на повече отметки
 bookmarks-sidebar-content =
@@ -613,8 +622,20 @@ save-to-pocket-button =
     .label = Запазване в { -pocket-brand-name }
     .tooltiptext = Запазване в { -pocket-brand-name }
 
+## Repair text encoding toolbar button
+
+
 ## Customize Toolbar Buttons
 
+# Variables:
+#  $shortcut (String): keyboard shortcut to open settings (only on macOS)
+toolbar-settings-button =
+    .label = Настройки
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Отваряне на настройките ({ $shortcut })
+           *[other] Отваряне на настройките
+        }
 
 ## More items
 
@@ -625,6 +646,8 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Аудио или видеозапис от страницата използва софтуер за DRM, който може да ограничи какво { -brand-short-name } ви позволява да правите с тях.
+eme-notifications-drm-content-playing-manage = Управление на настройките
+eme-notifications-drm-content-playing-manage-accesskey = М
 eme-notifications-drm-content-playing-dismiss = Прекратяване
 eme-notifications-drm-content-playing-dismiss-accesskey = р
 
