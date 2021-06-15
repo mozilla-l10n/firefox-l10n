@@ -299,6 +299,7 @@ mr1-onboarding-sign-in-button-label = Kirjaudu sisään
 ## when Firefox is not default browser
 
 mr1-onboarding-default-header = Aseta { -brand-short-name } oletukseksi
+mr1-onboarding-default-subtitle = Aseta nopeus, turvallisuus ja yksityisyys automaattiseksi.
 mr1-onboarding-default-primary-button-label = Aseta oletusselaimeksi
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
