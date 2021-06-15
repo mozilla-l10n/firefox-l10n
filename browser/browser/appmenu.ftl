@@ -25,6 +25,12 @@ appmenuitem-find-in-page =
     .label = Търсене в страницата
 appmenuitem-more-tools =
     .label = Още инструменти
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Изход
+           *[other] Изход
+        }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =

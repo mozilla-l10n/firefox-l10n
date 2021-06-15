@@ -45,3 +45,5 @@ customize-mode-lwthemes-my-themes =
     .value = Моите теми
 customize-mode-touchbar-cmd =
     .label = Настройки на лентата за докосване…
+customize-mode-downloads-button-autohide =
+    .label = Скриване на бутона ако няма нищо
