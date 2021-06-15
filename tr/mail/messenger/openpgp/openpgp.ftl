@@ -336,6 +336,7 @@ cannot-encrypt-because-missing = Aşağıdaki alıcıların anahtarlarında soru
 window-locked = Oluşturma penceresi kilitli; gönderme iptal edildi
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-attachment-label = Şifrelenmiş mesaj bölümü
+mime-decrypt-encrypted-part-concealed-data = Bu, şifrelenmiş bir ileti parçasıdır. Eke tıklayarak ayrı bir pencerede açmanız gerekiyor.
 # Strings in keyserver.jsm
 keyserver-error-aborted = Durduruldu
 keyserver-error-unknown = Bilinmeyen bir hata oluştu
