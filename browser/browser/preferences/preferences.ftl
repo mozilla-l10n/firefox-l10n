@@ -66,7 +66,6 @@ category-experimental =
     .tooltiptext = Esperimentos de { -brand-short-name }
 pane-experimental-subtitle = Sigui con curiáu
 pane-experimental-search-results-header = Esperimentos de { -brand-short-name }: Vete con curiáu
-pane-experimental-description = El cambéu de la configuración avanzada pue afeutar al rindimientu o seguranza de { -brand-short-name }.
 pane-experimental-description2 = El cambéu de la configuración avanzada pue afeutar al rindimientu o seguranza de { -brand-short-name }.
 pane-experimental-reset =
     .label = Reafitar
@@ -120,7 +119,7 @@ extension-controlled-privacy-containers = Una estensión, <img data-l10n-name="i
 extension-controlled-websites-content-blocking-all-trackers = Una estensión, <img data-l10n-name="icon"/> { $name }, ta controlando esti axuste.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
-extension-controlled-proxy-config = Una estensión, <img data-l10n-name="icon"/> { $name }, controla cómo se coneuta { -brand-short-name } a Internet.
+extension-controlled-proxy-config = Una estensión, <img data-l10n-name="icon"/> { $name }, controla cómo se conecta { -brand-short-name } a Internet.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -988,7 +987,6 @@ content-blocking-etp-strict-desc = Más proteición, mas pue romper dalgunos sit
 content-blocking-etp-custom-desc = Escueyi los rastrexadores y scripts a bloquiar
 content-blocking-etp-blocking-desc = { -brand-short-name } bloquia:
 content-blocking-private-windows = Conteníu que rastrexa nes llingüetes privaes
-content-blocking-cross-site-cookies = Cookies ente sitios
 content-blocking-cross-site-cookies-in-all-windows = Cookies ente sitios dientro de toles ventanes (incluyíes les cookies de rastrexu)
 content-blocking-cross-site-tracking-cookies = Cookies de rastrexu ente sitios
 content-blocking-all-cross-site-cookies-private-windows = Cookies ente sitios dientro de les ventanes en privao
