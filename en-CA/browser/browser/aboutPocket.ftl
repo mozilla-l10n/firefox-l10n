@@ -15,6 +15,7 @@ pocket-panel-saved-error-generic = There was an error when trying to save to { -
 pocket-panel-saved-error-tag-length = Tags are limited to 25 characters
 pocket-panel-saved-error-only-links = Only links can be saved
 pocket-panel-saved-error-not-saved = Page Not Saved
+pocket-panel-saved-error-no-internet = You must be connected to the Internet in order to save to { -pocket-brand-name }. Please connect to the Internet and try again.
 pocket-panel-saved-page-removed = Page Removed
 pocket-panel-saved-page-saved = Saved to { -pocket-brand-name }
 pocket-panel-saved-processing-remove = Removing Page…
