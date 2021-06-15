@@ -106,7 +106,13 @@ account-setup-forum-help = Support forum
 
 ## Results area
 
-account-setup-protocol-title = Select the protocol
+# Variables:
+#  $count (Number) - Number of available protocols.
+account-setup-results-area-title =
+    { $count ->
+        [one] Available configuration
+       *[other] Available configurations
+    }
 # Note: IMAP is the name of a protocol.
 account-setup-result-imap = IMAP
 account-setup-result-imap-description = Keep your folders and emails synced on your server
