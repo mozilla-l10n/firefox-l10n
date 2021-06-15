@@ -15,6 +15,7 @@ pocket-panel-saved-error-generic = Eit problem oppstod ved lagring til { -pocket
 pocket-panel-saved-error-tag-length = Etikettar er avgrensa til 25 teikn
 pocket-panel-saved-error-only-links = Berre lenker kan lagrast
 pocket-panel-saved-error-not-saved = Sida ikkje lagra
+pocket-panel-saved-error-no-internet = Du må vere kopla til nettet for å lagre til { -pocket-brand-name }. Kople til nettet og prøv igjen.
 pocket-panel-saved-page-removed = Sida fjerna
 pocket-panel-saved-page-saved = Lagrar til { -pocket-brand-name }
 pocket-panel-saved-processing-remove = Fjernar sida…

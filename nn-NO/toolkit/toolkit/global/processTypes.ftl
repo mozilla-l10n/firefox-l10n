@@ -31,6 +31,7 @@ process-type-prealloc = Førtildelt
 ## Localization for Gecko process types defined in GeckoProcessTypes.h
 ##
 
+process-type-default = Hovud
 process-type-tab = Fane
 # process used to communicate with the GPU for
 # graphics acceleration
