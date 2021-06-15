@@ -7,7 +7,7 @@
 <!ENTITY searchHeading.accesskey     "ζ">
 <!ENTITY searchSubfolders.label      "Αναζήτηση σε υποφακέλους">
 <!ENTITY searchSubfolders.accesskey  "ν">
-<!ENTITY searchOnServer.label        "Εκτέλεση αναζήτησης στο διακομιστή">
+<!ENTITY searchOnServer.label        "Εκτέλεση αναζήτησης στον διακομιστή">
 <!ENTITY searchOnServer.accesskey    "κ">
 <!ENTITY resetButton.label           "Εκκαθάριση">
 <!ENTITY resetButton.accesskey       "θ">
