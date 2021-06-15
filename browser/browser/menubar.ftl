@@ -125,7 +125,7 @@ menu-file-go-offline =
 
 menu-edit =
     .label = Уређивање
-    .accesskey = E
+    .accesskey = У
 menu-edit-find-on =
     .label = Пронађи на овој страници…
     .accesskey = р
@@ -265,7 +265,7 @@ menu-bookmarks-mobile =
 
 menu-tools =
     .label = Алатке
-    .accesskey = T
+    .accesskey = А
 menu-tools-downloads =
     .label = Преузимања
     .accesskey = D
