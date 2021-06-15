@@ -103,7 +103,13 @@ account-setup-forum-help = Destek forumu
 
 ## Results area
 
-account-setup-protocol-title = Protokolü seçin
+# Variables:
+#  $count (Number) - Number of available protocols.
+account-setup-results-area-title =
+    { $count ->
+        [one] Mevcut yapılandırma
+       *[other] Mevcut yapılandırmalar
+    }
 # Note: IMAP is the name of a protocol.
 account-setup-result-imap = IMAP
 account-setup-result-imap-description = Klasörlerinizi ve e-postalarınızı sunucunuzla eşitlenmiş halde tutun
