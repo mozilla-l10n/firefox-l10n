@@ -59,6 +59,7 @@ upgrade-dialog-default-subtitle = Få hastighet, sikkerhet og personvern hver ga
 upgrade-dialog-default-primary-button = Velg som standardnettleser
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-default-title-2 = Bruk { -brand-short-name } som standardnettleser
+upgrade-dialog-default-subtitle-2 = Sett fart, sikkerhet og personvern på autopilot.
 upgrade-dialog-default-primary-button-2 = Bruk som standard nettleser
 upgrade-dialog-default-secondary-button = Ikke nå
 
@@ -68,6 +69,8 @@ upgrade-dialog-default-secondary-button = Ikke nå
 upgrade-dialog-theme-title =
     Få en ny start
     med et oppdatert tema
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-theme-title-2 = Få en ny start med et nytt tema
 upgrade-dialog-theme-system = Systemtema
     .title = Følg operativsystem-temaet for knapper, menyer og vindu
 upgrade-dialog-theme-light = Lyst
