@@ -60,7 +60,7 @@
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
     of messages between them
 -->
-<!ENTITY maxMessagesStart.label "Ερώτηση πριν τη λήψη περισσοτέρων από">
+<!ENTITY maxMessagesStart.label "Ερώτηση πριν από τη λήψη περισσοτέρων από">
 <!ENTITY maxMessagesStart.accesskey "ρ">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "μηνύματα">
