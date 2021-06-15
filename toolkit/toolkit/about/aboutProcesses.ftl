@@ -46,6 +46,9 @@ about-processes-process-name = Працэс { $pid }: { $name }
 ## Variables:
 ##    $pid (String) The process id of this process, assigned by the OS.
 
+about-processes-gpu-process = GPU ({ $pid })
+about-processes-vr-process = VR ({ $pid })
+about-processes-rdd-process = Дэкодэр дадзеных ({ $pid })
 about-processes-socket-process = Сетка ({ $pid })
 
 ## Isolated process names
@@ -53,6 +56,7 @@ about-processes-socket-process = Сетка ({ $pid })
 ##    $pid (String) The process id of this process, assigned by the OS.
 ##    $origin (String) The domain name for this process.
 
+about-processes-web-isolated-process = { $origin } ({ $pid })
 
 ## Details within processes
 
