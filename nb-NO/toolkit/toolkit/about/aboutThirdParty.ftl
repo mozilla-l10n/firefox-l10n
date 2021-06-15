@@ -23,3 +23,5 @@ third-party-th-process = Prosess
 third-party-th-status = Status
 third-party-tag-ime = IME
     .title = Denne typen modul lastes inn når du bruker en tredjeparts IME.
+third-party-tag-shellex = Shell-utvidelse
+    .title = Denne modultypen lastes inn når du åpner dialogvindu for systemfiler.
