@@ -181,8 +181,6 @@ page-action-send-tabs-urlbar =
             [one] Dërgoje Skedën te Pajisje
            *[other] Dërgo { $tabCount } Skedë te Pajisje
         }
-page-action-pocket-panel =
-    .label = Ruaje Faqen te { -pocket-brand-name }
 page-action-copy-url-panel =
     .label = Kopjoji Lidhjen
 page-action-copy-url-urlbar =
@@ -439,6 +437,8 @@ popup-select-microphone-device =
     .accesskey = M
 popup-select-microphone-icon =
     .tooltiptext = Mikrofon
+popup-select-speaker-icon =
+    .tooltiptext = Altoparlantë
 popup-all-windows-shared = Do të ndahen me të tjerët krejt dritaret e dukshme në ekranin tuaj.
 popup-screen-sharing-not-now =
     .label = Jo Tani
@@ -511,6 +511,11 @@ urlbar-placeholder-with-name =
     .placeholder = Kërkoni me { $name } ose jepni adresë
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Fshiheni Anështyllën e Faqerojtësve
+# Variables
+#  $component (String): the name of the component which forces remote control.
+#    Example: "DevTools", "Marionette", "RemoteAgent".
+urlbar-remote-control-notification-anchor2 =
+    .tooltiptext = Shfletuesi gjendet nën kontroll së largëti (arsye: { $component })
 urlbar-permissions-granted =
     .tooltiptext = I keni akorduar leje shtesë këtij sajti.
 urlbar-switch-to-tab =
@@ -607,8 +612,6 @@ crashed-subframe-submit =
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = Shfaqni Krejt Faqerojtësit
 bookmarks-manage-bookmarks =
     .label = Administroni Faqerojtës
 bookmarks-recent-bookmarks-panel-subheader = Faqerojtës Së Fundi
@@ -681,6 +684,12 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = Ruajeni te { -pocket-brand-name }
     .tooltiptext = Ruajeni te { -pocket-brand-name }
+
+## Repair text encoding toolbar button
+
+repair-text-encoding-button =
+    .label = Riparo kodim teksti
+    .tooltiptext = Hamendësoje kodimin e saktë të tekstit që nga lënda e faqes
 
 ## Customize Toolbar Buttons
 

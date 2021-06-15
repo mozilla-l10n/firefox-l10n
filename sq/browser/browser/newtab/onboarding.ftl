@@ -255,14 +255,54 @@ onboarding-multistage-theme-description-alpenglow =
 mr1-welcome-screen-hero-text =
     Zjarri nis
     këtu
+# Caption for background image in about:welcome. "Soraya Osorio" is the name
+# of the person and shouldn't be translated.
+# In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
+# You can see the picture in about:welcome in Nightly 90.
+mr1-onboarding-welcome-image-caption = Soraya Osorio — Projektuese mobiliesh, tifoze i Firefox-it
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Çaktivizo animacionet
+
+## Title and primary button strings differ between platforms as they
+## match the OS' application context menu item action where Windows uses "pin"
+## and "taskbar" while macOS "keep" and "Dock" (proper noun).
+
+# Title used on welcome page when Firefox is not pinned
+mr1-onboarding-pin-header =
+    { PLATFORM() ->
+        [macos] Kijeni { -brand-short-name }-int te Paneli juaj, për përdorim të kollajtë
+       *[other] Fiksojeni { -brand-short-name }-in te paneli juaj, për përdorim të kollajtë
+    }
+# Primary button string used on welcome page when Firefox is not pinned.
+mr1-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Mbajeni te Paneli
+       *[other] Fiksoje te paneli
+    }
+
+## Multistage MR1 onboarding strings (about:welcome pages)
+
+# This string will be used on welcome page primary button label
+# when Firefox is both pinned and default
+mr1-onboarding-get-started-primary-button-label = Fillojani
 mr1-onboarding-welcome-header = Mirë se vini te { -brand-short-name }
 mr1-onboarding-set-default-pin-primary-button-label = Bëje { -brand-short-name }-in shfletuesin tim parësor
     .title = E vë { -brand-short-name }-in si shfletuesin parazgjedhje dhe e fikson te paneli
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
 mr1-onboarding-set-default-only-primary-button-label = Bëje { -brand-short-name }-in shfletuesin tim parazgjedhje
 mr1-onboarding-set-default-secondary-button-label = Jo tani
 mr1-onboarding-sign-in-button-label = Hyni
+
+## Title, subtitle and primary button string used on set default onboarding screen
+## when Firefox is not default browser
+
+mr1-onboarding-default-header = Bëjeni { -brand-short-name }-in parazgjedhjen tuaj
+mr1-onboarding-default-subtitle = Kalojeni shpejtësinë, sigurinë dhe privatësinë në autopilot.
+mr1-onboarding-default-primary-button-label = Bëjeni shfletuesin parazgjedhje
+
+## Multistage MR1 onboarding strings (about:welcome pages)
+
 mr1-onboarding-import-header = Merrni gjithçka me vete
 mr1-onboarding-import-subtitle = Importoni fjalëkalimet tuaj, <br/>faqerojtës dhe të tjera gjëra.
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
