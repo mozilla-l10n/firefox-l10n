@@ -25,3 +25,9 @@ third-party-tag-ime = IME
     .title = Denne typen modul lastes inn når du bruker en tredjeparts IME.
 third-party-tag-shellex = Shell-utvidelse
     .title = Denne modultypen lastes inn når du åpner dialogvindu for systemfiler.
+third-party-tag-background = Bakgrunn
+    .title =
+        Denne modulen blokkerte ikke applikasjonen fordi den ble lastet inn
+        i bakgrunnen.
+third-party-unsigned-icon =
+    .title = Denne modulen er ikke signert
