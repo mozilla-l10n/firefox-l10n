@@ -119,7 +119,7 @@ main-context-menu-bookmark-add-mac =
 # so should probably have the same access key if possible.
 main-context-menu-bookmark-edit-mac =
     .label = Уреди обележивач
-    .accesskey = д
+    .accesskey = е
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-add-with-shortcut =
@@ -128,13 +128,13 @@ main-context-menu-bookmark-add-with-shortcut =
     .tooltiptext = Обележи страницу ({ $shortcut })
 main-context-menu-bookmark-change =
     .aria-label = Уреди обележивач
-    .accesskey = д
+    .accesskey = е
     .tooltiptext = Уреди обележивач
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-bookmark-change-with-shortcut =
     .aria-label = Уреди обележивач
-    .accesskey = д
+    .accesskey = е
     .tooltiptext = Уреди обележивач ({ $shortcut })
 main-context-menu-open-link =
     .label = Отвори везу

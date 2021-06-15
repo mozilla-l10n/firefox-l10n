@@ -148,7 +148,7 @@ urlbar-install-blocked =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
-    .tooltiptext = Уреди овај обележивач ({ $shortcut })
+    .tooltiptext = Уреди обележивач ({ $shortcut })
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -511,7 +511,7 @@ urlbar-placeholder-search-mode-other-engine =
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
     .placeholder = Унесите термин за претрагу
-    .aria-label = Претрага обележивача
+    .aria-label = Претражите обележиваче
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .placeholder = Унеси појмове за претрагу
@@ -669,7 +669,7 @@ bookmarks-search =
 bookmarks-tools =
     .label = Алатке за обележиваче
 bookmarks-bookmark-edit-panel =
-    .label = Уреди овај обележивач
+    .label = Уреди обележивач
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
