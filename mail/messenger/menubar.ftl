@@ -49,6 +49,9 @@ toolbar-undelete-button =
 
 ## View
 
+menu-view-repair-text-encoding =
+    .label = Metin kodlamasını onar
+    .accesskey = M
 
 ## View / Layout
 

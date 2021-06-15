@@ -130,6 +130,11 @@ consider-bcc-notification = Kime ve Cc alanlarındaki { $count } alıcı birbirl
 
 to-compose-address-row-label =
     .value = Alıcı
+#   $key (String) - the shortcut key for this field
+to-compose-show-address-row-menuitem =
+    .label = { to-compose-address-row-label.value } alanı
+    .accesskey = K
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
 to-compose-show-address-row-label =
     .value = { to-compose-address-row-label.value }
     .tooltiptext = { to-compose-address-row-label.value } alanını göster ({ to-compose-show-address-row-menuitem.acceltext })

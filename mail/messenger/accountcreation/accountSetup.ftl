@@ -144,6 +144,7 @@ account-setup-exchange-config-unverifiable = Yapılandırma doğrulanamadı. Kul
 ## Manual configuration area
 
 account-setup-manual-config-title = Sunucu ayarları
+account-setup-incoming-server-legend = Gelen sunucusu
 account-setup-protocol-label = Protokol:
 protocol-imap-option = { account-setup-result-imap }
 protocol-pop-option = { account-setup-result-pop }
@@ -153,6 +154,7 @@ account-setup-port-label = Port:
     .title = Otomatik algılama için port numarasını 0 olarak ayarlayın
 account-setup-auto-description = { -brand-short-name }, boş bırakılan alanları otomatik olarak algılamaya çalışır.
 account-setup-ssl-label = Bağlantı güvenliği:
+account-setup-outgoing-server-legend = Giden sunucusu
 
 ## Incoming/Outgoing SSL Authentication options
 
@@ -196,6 +198,7 @@ exchange-dialog-cancel-button = Vazgeç
 ## Alert dialogs
 
 account-setup-creation-error-title = Hesap Oluşturma Hatası
+account-setup-error-server-exists = Gelen sunucusu zaten var.
 account-setup-confirm-advanced-title = Gelişmiş Yapılandırmayı Onayla
 account-setup-confirm-advanced-description = Bu iletişim kutusu kapatılacak ve yapılandırma hatalı olsa bile mevcut ayarlarla bir hesap oluşturulacaktır. Devam etmek istiyor musunuz?
 
