@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 third-party-page-title = Marandu mbohapyha ra’ãha rehegua
+third-party-section-title = Tysýi mbohapyha ra’ãha { -brand-short-name }-pe
 third-party-header-module-list = Ta’ãha rysýi
 third-party-header-loading-events = Emyanyhẽ tembiaporã
 third-party-message-empty = Ndojejuhúi mbohapyháva ra’ãha.
@@ -18,6 +19,8 @@ third-party-th-duration = Ñemyanyhẽ arekue (ms)
 third-party-th-status = Tekotee
 third-party-unsigned-icon =
     .title = Ko ha’ãha noñemboheraguapýi
+third-party-warning-icon =
+    .title = { -brand-short-name } ojavy pe ayvu ko ta’ãha pegua
 third-party-status-loaded = Henyhẽva
 third-party-status-blocked = Jokopyre
 third-party-status-redirected = Ñembohapejey
