@@ -310,7 +310,7 @@
 <!ENTITY calendar.context.convertmenu.task.label         "Εργασία…">
 <!ENTITY calendar.context.convertmenu.task.accesskey     "Ε">
 
-<!ENTITY calendar.tasks.view.minimonth.label           "Μίνι μήνας">
+<!ENTITY calendar.tasks.view.minimonth.label           "Μικρο-μήνας">
 <!ENTITY calendar.tasks.view.minimonth.accesskey       "Μ">
 
 <!ENTITY calendar.tasks.view.calendarlist.label        "Λίστα ημερολογίων">

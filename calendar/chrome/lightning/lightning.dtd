@@ -99,9 +99,9 @@
 <!ENTITY lightning.acctCentral.newCalendar.label "Δημιουργία νέου ημερολογίου">
 
 <!-- today-pane-specific -->
-<!ENTITY todaypane.showMinimonth.label "Εμφάνιση μίνι μήνα">
+<!ENTITY todaypane.showMinimonth.label "Εμφάνιση μικρο-μήνα">
 <!ENTITY todaypane.showMinimonth.accesskey "μ">
-<!ENTITY todaypane.showMiniday.label "Εμφάνιση μίνι ημέρας">
+<!ENTITY todaypane.showMiniday.label "Εμφάνιση μικρο-ημέρας">
 <!ENTITY todaypane.showMiniday.accesskey  "η">
 <!ENTITY todaypane.showNone.label "Τίποτα από τα δύο">
 <!ENTITY todaypane.showNone.accesskey "Τ">
