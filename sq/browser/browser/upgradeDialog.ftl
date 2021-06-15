@@ -25,11 +25,25 @@ upgrade-dialog-new-primary-primary-button = Bëje { -brand-short-name }-in shfle
     .title = E vë { -brand-short-name }-in si shfletuesin parazgjedhje dhe e fikson te paneli
 upgrade-dialog-new-primary-default-button = Bëje { -brand-short-name }-in shfletuesin tim parazgjedhje
 upgrade-dialog-new-primary-pin-button = Fiksoje { -brand-short-name }-in te paneli im
+upgrade-dialog-new-primary-pin-alt-button = Fiksoje te paneli
 upgrade-dialog-new-primary-theme-button = Zgjidhni një temë
 upgrade-dialog-new-secondary-button = Jo tani
 # This string is only shown on Windows 7, where we intentionally suppress the
 # theme selection screen.
 upgrade-dialog-new-primary-win7-button = OK, e mora vesh!
+
+## Pin Firefox screen
+##
+## These title, subtitle and button strings differ between platforms as they
+## match the OS' application context menu item action where Windows uses "pin"
+## and "taskbar" while macOS "keep" and "Dock" (proper noun).
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-pin-title =
+    { PLATFORM() ->
+        [macos] Mbajeni { -brand-short-name }-in te Paneli juaj
+       *[other] Fiksojeni { -brand-short-name }-in te paneli juaj
+    }
 
 ## Default browser screen
 
