@@ -48,6 +48,7 @@ upgrade-dialog-default-subtitle = Nopeutta, turvallisuutta ja yksityisyyttä jok
 upgrade-dialog-default-primary-button = Aseta oletusselaimeksi
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-default-title-2 = Aseta { -brand-short-name } oletukseksi
+upgrade-dialog-default-subtitle-2 = Aseta nopeus, turvallisuus ja yksityisyys automaattiseksi.
 upgrade-dialog-default-primary-button-2 = Aseta oletusselaimeksi
 upgrade-dialog-default-secondary-button = Ei nyt
 
@@ -57,6 +58,8 @@ upgrade-dialog-default-secondary-button = Ei nyt
 upgrade-dialog-theme-title =
     Uusi alku
     päivitetyllä teemalla
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-theme-title-2 = Uusi alku terävällä teemalla
 upgrade-dialog-theme-system = Järjestelmän teema
     .title = Seuraa käyttöjärjestelmän teemaa painikkeille, valikoille ja ikkunoille
 upgrade-dialog-theme-light = Vaalea
