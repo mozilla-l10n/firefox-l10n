@@ -593,7 +593,7 @@
 <!ENTITY junkButton.tooltip "Επισήμανση επιλεγμένων μηνυμάτων ως ανεπιθύμητων">
 <!ENTITY notJunkButton.tooltip "Επισήμανση επιλεγμένων μηνυμάτων ως μη ανεπιθύμητων">
 <!ENTITY addressBookButton.tooltip "Μετάβαση στο ευρετήριο διευθύνσεων">
-<!ENTITY chatButton.tooltip "Εμφάνιση της καρτέλας Συνομιλίας">
+<!ENTITY chatButton.tooltip 'Εμφάνιση καρτέλας "Συνομιλία"'>
 <!ENTITY tagButton.tooltip "Ετικέτα σε μηνύματα">
 <!ENTITY compactButton.tooltip "Αφαίρεση διαγραμμένων μηνυμάτων από τον επιλεγμένο φάκελο">
 <!ENTITY appmenuButton1.tooltip "Προβολή του μενού του &brandShortName;">
@@ -727,7 +727,7 @@
 <!ENTITY threadColumn2.tooltip "Προβολή νημάτων μηνυμάτων">
 <!ENTITY fromColumn2.tooltip "Ταξινόμηση κατά αποστολέα">
 <!ENTITY recipientColumn2.tooltip "Ταξινόμηση κατά παραλήπτη">
-<!ENTITY correspondentColumn2.tooltip "Ταξινόμηση κατά των επιστολογράφων">
+<!ENTITY correspondentColumn2.tooltip "Ταξινόμηση κατά επιστολογράφους">
 <!ENTITY subjectColumn2.tooltip "Ταξινόμηση κατά θέμα">
 <!ENTITY dateColumn2.tooltip "Ταξινόμηση κατά ημερομηνία">
 <!ENTITY priorityColumn2.tooltip "Ταξινόμηση κατά προτεραιότητα">
