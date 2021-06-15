@@ -21,6 +21,7 @@ third-party-detail-duration = Gjennomsnittlig blokkeringstid (ms)
 third-party-detail-app = Program
 third-party-detail-publisher = Utgiver
 third-party-th-process = Prosess
+third-party-th-duration = Lastetid (ms)
 third-party-th-status = Status
 third-party-tag-ime = IME
     .title = Denne typen modul lastes inn når du bruker en tredjeparts IME.

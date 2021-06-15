@@ -93,6 +93,7 @@ permissions-exceptions-cookie-desc = Du kan spesifisere hvilke nettsteder som al
 permissions-exceptions-https-only-window =
     .title = Unntak - kun-HTTPS-modus
     .style = { permissions-window.style }
+permissions-exceptions-https-only-desc = Du kan slå av kun-HTTPS-modus for bestemte nettsteder. { -brand-short-name } prøver ikke å oppgradere tilkoblingen for å sikre HTTPS for disse nettstedene. Unntak gjelder ikke private vinduer.
 
 ## Exceptions - Pop-ups
 
