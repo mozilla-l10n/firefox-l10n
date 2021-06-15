@@ -114,3 +114,6 @@ addon-removal-confirmation-message = Odstranim { $name } skupaj z njegovimi nast
 caret-browsing-prompt-title = Brskanje s kazalko
 caret-browsing-prompt-text = Tipka F7 vključi ali izključi brskanje s kazalko. Ta možnost na nekatero vsebino postavi premični kazalec, ki vam omogoča izbiro besedila s tipkovnico. Ali želite vključiti brskanje s kazalko?
 caret-browsing-prompt-check-text = Ne sprašuj več.
+repair-text-encoding-button =
+    .label = Popravi kodiranje besedila
+    .tooltiptext = Ugani pravilni nabor znakov iz vsebine sporočila
