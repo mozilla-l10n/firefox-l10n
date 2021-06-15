@@ -155,7 +155,7 @@ about-processes-frame-name-many = Nënkorniza ({ $number }): { $shortUrl }
 # Common case.
 about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") } ({ NUMBER($total, maximumFractionDigits: 0) }{ $unit })
 # Common case.
-about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, stil: "percent") }
+about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
     .title = Kohë CPU gjithsej: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (po bëhen matje)
