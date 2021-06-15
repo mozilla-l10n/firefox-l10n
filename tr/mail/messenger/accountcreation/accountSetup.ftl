@@ -177,9 +177,13 @@ account-setup-insecure-outgoing-title = Giden posta ayarları:
 #  $server (String): The name of the hostname of the server the user was trying to connect to.
 account-setup-warning-cleartext = <b>{ $server }</b> sunucusu şifreleme kullanmıyor.
 account-setup-warning-cleartext-details = Güvensiz posta sunucuları, parolalarınızı ve özel bilgilerinizi korumak için şifrelenmiş bağlantı kullanmaz. Bu sunucuya bağlanarak parolanızı ve özel bilgilenizi ifşa ediyor olabilirsiniz.
+account-setup-insecure-server-checkbox = Riskleri anladım
+    .accesskey = R
 account-setup-insecure-description = { -brand-short-name }, mevcut yapılandırmayı kullanarak e-postalarınızı almanızı sağlayabilir ama sorunlu bağlantılarla ilgili olarak sistem yöneticinizle veya e-posta sağlayıcınızla iletişime geçmelisiniz. Daha fazla bilgi için <a data-l10n-name="thunderbird-faq-link">Thunderbird SSS</a>'ye bakın.
 insecure-dialog-cancel-button = Ayarları değiştir
     .accesskey = d
+insecure-dialog-confirm-button = Onayla
+    .accesskey = O
 
 ## Warning Exchange confirmation dialog
 

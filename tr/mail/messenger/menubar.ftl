@@ -17,7 +17,7 @@ menu-tools-preferences =
     .label = Tercihler
     .accesskey = T
 menu-addons-and-themes =
-    .label = Eklentiler ve temalar
+    .label = Eklentiler ve Temalar
     .accesskey = E
 
 ## Help Menu
@@ -46,6 +46,9 @@ toolbar-delete-button =
 toolbar-undelete-button =
     .label = Silmeyi geri al
     .tooltiptext = Seçili iletileri silmeyi geri al
+
+## View
+
 
 ## View / Layout
 
