@@ -34,6 +34,9 @@ about-processes-file-process-name = Файлы (працэс { $pid })
 about-processes-extension-process-name = Пашырэнні (працэс { $pid })
 about-processes-plugin-process-name = Плагіны (працэс { $pid })
 about-processes-privilegedmozilla-process-name = Вэб (працэс { $pid }) для сайтаў { -vendor-short-name }
+about-processes-gpu-process-name = GPU (працэс { $pid })
+about-processes-vr-process-name = VR (працэс { $pid })
+about-processes-rdd-process-name = Дэкодэр дадзеных (працэс { $pid })
 about-processes-socket-process-name = Сетка (працэс { $pid })
 about-processes-unknown-process-name = Іншае ({ $type }, працэс { $pid })
 # Process
@@ -46,6 +49,7 @@ about-processes-process-name = Працэс { $pid }: { $name }
 ## Variables:
 ##    $pid (String) The process id of this process, assigned by the OS.
 
+about-processes-browser-process = { -brand-short-name } ({ $pid })
 about-processes-gpu-process = GPU ({ $pid })
 about-processes-vr-process = VR ({ $pid })
 about-processes-rdd-process = Дэкодэр дадзеных ({ $pid })
