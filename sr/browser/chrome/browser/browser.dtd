@@ -245,7 +245,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "Уређивање поставки за блокирање искачућих прозора…">
+<!ENTITY editPopupSettingsUnix.label "Промени подешавања за блокирање искачућих прозора…">
 <!ENTITY editPopupSettings.label "Уреди блокирање искачућих прозора…">
 <!ENTITY editPopupSettings.accesskey "У">
 <!ENTITY dontShowMessage.accesskey "D">
