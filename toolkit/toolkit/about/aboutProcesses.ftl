@@ -52,6 +52,37 @@ about-processes-unknown-process-name = Tjetër ({ $type }, procesi { $pid })
 #   $pid (String) The process id of this process, assigned by the OS.
 about-processes-process-name = Procesi { $pid }: { $name }
 
+## Process names
+## Variables:
+##    $pid (String) The process id of this process, assigned by the OS.
+
+about-processes-browser-process = { -brand-short-name } ({ $pid })
+about-processes-web-process = Proces Web i Përbashkët ({ $pid })
+about-processes-file-process = Kartela ({ $pid })
+about-processes-extension-process = Zgjerime ({ $pid })
+about-processes-privilegedabout-process = Faqe Mbi ({ $pid })
+about-processes-plugin-process = Shtojca ({ $pid })
+about-processes-privilegedmozilla-process = Sajte { -vendor-short-name } ({ $pid })
+about-processes-gmp-plugin-process = Shtojca Gecko Për Media ({ $pid })
+about-processes-gpu-process = GPU ({ $pid })
+about-processes-vr-process = VR ({ $pid })
+about-processes-rdd-process = Shkodues të Dhënash ({ $pid })
+about-processes-socket-process = Rrjet ({ $pid })
+about-processes-remote-sandbox-broker-process = Remote Sandbox Broker ({ $pid })
+# Unknown process names
+# Variables:
+#    $pid (String) The process id of this process, assigned by the OS.
+#    $type (String) The raw type for this process.
+about-processes-unknown-process = Tjetër: { $type } ({ $pid })
+
+## Isolated process names
+## Variables:
+##    $pid (String) The process id of this process, assigned by the OS.
+##    $origin (String) The domain name for this process.
+
+about-processes-web-isolated-process = { $origin } ({ $pid })
+about-processes-web-isolated-process-private = { $origin } — Privat ({ $pid })
+
 ## Details within processes
 
 # Single-line summary of threads
@@ -65,6 +96,38 @@ about-processes-thread-summary = Rrjedha ({ $number })
 #   $name (String) The name assigned to the thread.
 #   $tid (String) The thread id of this thread, assigned by the OS.
 about-processes-thread-name = Rrjedhë { $tid }: { $name }
+# Single-line summary of threads (non-idle process)
+# Variables:
+#    $number (Number) The number of threads in the process. Typically larger
+#                     than 30. We don't expect to ever have processes with less
+#                     than 5 threads.
+#    $active (Number) The number of active threads in the process.
+#                     The value will be greater than 0 and will never be
+#                     greater than $number.
+#    $list (String) Comma separated list of active threads.
+#                   Can be an empty string if the process is idle.
+about-processes-active-threads =
+    { $active ->
+        [one] { $active } rrjedhë aktive nga { $number } gjithsej: { $list }
+       *[other] { $active } rrjedha aktive nga { $number } gjithsej: { $list }
+    }
+# Single-line summary of threads (idle process)
+# Variables:
+#    $number (Number) The number of threads in the process. Typically larger
+#                     than 30. We don't expect to ever have processes with less
+#                     than 5 threads.
+#                     The process is idle so all threads are inactive.
+about-processes-inactive-threads =
+    { $number ->
+        [one] { $number } rrjedhë jo aktive
+       *[other] { $number } rrjedha jo aktive
+    }
+# Thread details
+# Variables:
+#   $name (String) The name assigned to the thread.
+#   $tid (String) The thread id of this thread, assigned by the OS.
+about-processes-thread-name-and-id = { $name }
+    .title = ID rrjedhe: { $tid }
 # Tab
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
@@ -91,10 +154,16 @@ about-processes-frame-name-many = Nënkorniza ({ $number }): { $shortUrl }
 
 # Common case.
 about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") } ({ NUMBER($total, maximumFractionDigits: 0) }{ $unit })
+# Common case.
+about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, stil: "percent") }
+    .title = Kohë CPU gjithsej: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (po bëhen matje)
 # Special case: process or thread is currently idle.
 about-processes-cpu-user-and-kernel-idle = i plogësht ({ NUMBER($total, maximumFractionDigits: 2) }{ $unit })
+# Special case: process or thread is currently idle.
+about-processes-cpu-idle = idle
+    .title = Kohë CPU gjithsej: { NUMBER($total, maximumFractionDigits: 2) }{ $unit }
 
 ## Displaying Memory (total and delta)
 ## Variables:
@@ -109,6 +178,9 @@ about-processes-cpu-user-and-kernel-idle = i plogësht ({ NUMBER($total, maximum
 
 # Common case.
 about-processes-total-memory-size = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit } ({ $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit })
+# Common case.
+about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
+    .title = Evolucion: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit }
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
 
