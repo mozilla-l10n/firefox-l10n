@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-panic-button-open-new-window = Отворити нови прозор
+panic-button-open-new-window = Отвори нови празан прозор
 panic-button-undo-warning = Ова радња се не може опозвати.
 panic-button-forget-button =
     .label = Заборави!

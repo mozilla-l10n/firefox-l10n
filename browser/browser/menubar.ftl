@@ -81,10 +81,10 @@ menu-file-new-container-tab =
     .accesskey = н
 menu-file-new-window =
     .label = Нови прозор
-    .accesskey = N
+    .accesskey = п
 menu-file-new-private-window =
-    .label = Нови приватан прозор
-    .accesskey = W
+    .label = Нови приватни прозор
+    .accesskey = р
 # "Open Location" is only displayed on macOS, and only on windows
 # that aren't main browser windows, or when there are no windows
 # but Firefox is still running.
