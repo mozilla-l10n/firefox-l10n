@@ -85,5 +85,5 @@
 <!ENTITY accountSettingsDesc.label "Bu bir özel hesaptır. Bu hesaba ilişkin kimlik bulunmamaktadır.">
 <!ENTITY storeType.label "İleti depolama türü:">
 <!ENTITY storeType.accesskey "d">
-<!ENTITY mboxStore2.label "Klasör başına dosya (mbox)">
+<!ENTITY mboxStore2.label "Her klasör için ayrı dosya (mbox)">
 <!ENTITY maildirStore.label "Her ileti için ayrı dosya (maildir)">

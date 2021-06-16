@@ -158,6 +158,8 @@ bcc-compose-show-address-row-menuitem =
 bcc-compose-show-address-row-label =
     .value = { bcc-compose-address-row-label.value }
     .tooltiptext = { bcc-compose-address-row-label.value } alanını göster ({ bcc-compose-show-address-row-menuitem.acceltext })
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+many-public-recipients-info = Kime ve Cc alanlarındaki { $count } alıcı birbirlerinin adresini görebilecek. Bunun yerine Bcc kullanarak alıcıları göstermekten kaçınabilirsiniz.
 many-public-recipients-bcc =
     .label = Bcc kullan
     .accesskey = B
@@ -167,3 +169,6 @@ many-public-recipients-ignore =
 
 ## Notifications
 
+# Variables:
+# $identity (string) - The name of the used identity, most likely an email address.
+compose-missing-identity-warning = Gönderen adresiyle eşleşen benzersiz kimlik bulunamadı. İleti, mevcut "Gönderen" alanı ve { $identity } kimliğine ait ayarlarla gönderilecek.
