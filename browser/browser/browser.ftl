@@ -681,7 +681,7 @@ bookmarks-bookmark-edit-panel =
 # This avoids double-speaking.
 bookmarks-toolbar =
     .toolbarname = Трака са обележивачима
-    .accesskey = Т
+    .accesskey = б
     .aria-label = Обележивачи
 bookmarks-toolbar-menu =
     .label = Трака са обележивачима
