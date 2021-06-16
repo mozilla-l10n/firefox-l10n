@@ -250,5 +250,11 @@ newtab-custom-close-button = Затвори
 # expresses the idea of "a small message, shortened from something else,
 # and non-essential but also not entirely trivial and useless.
 newtab-custom-snippets-title = Исечци
-newtab-custom-snippets-subtitle = Савети и новости везани за { -brand-product-name(case: "acc") } и организацију { -vendor-short-name }
+newtab-custom-snippets-subtitle =
+    Савети и новости везани за { -brand-product-name.gender ->
+        [masculine] { -brand-product-name(case: "acc") }
+        [feminine] { -brand-product-name(case: "acc") }
+        [neuter] { -brand-product-name(case: "acc") }
+       *[other] програм { -brand-product-name }
+    } и организацију { -vendor-short-name }
 newtab-custom-settings = Додатна подешавања
