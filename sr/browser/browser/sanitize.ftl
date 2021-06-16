@@ -65,13 +65,13 @@ item-site-preferences =
     .label = Подешавања сајтова
     .accesskey = П
 item-offline-apps =
-    .label = Примљене податке са сајтова
-    .accesskey = П
+    .label = Подаци сајтова у офлајн режиму
+    .accesskey = ф
 sanitize-everything-undo-warning = Ова радња се не може опозвати.
 window-close =
     .key = w
 sanitize-button-ok =
-    .label = Обриши сада
+    .label = Обриши
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
