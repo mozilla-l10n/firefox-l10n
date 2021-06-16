@@ -6,7 +6,7 @@
 <!ENTITY places.library.title  "Библиотека">
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
-<!ENTITY organize.label        "Организовање">
+<!ENTITY organize.label        "Управљање">
 <!ENTITY organize.accesskey    "О">
 <!ENTITY organize.tooltip      "Организујте обележиваче">
 
