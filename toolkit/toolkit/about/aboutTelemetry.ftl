@@ -120,7 +120,7 @@ about-telemetry-addon-table-details = Детаљи
 #   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
 about-telemetry-addon-provider = { $addonProvider }
 about-telemetry-keys-header = Својство
-about-telemetry-names-header = Име
+about-telemetry-names-header = Назив
 about-telemetry-values-header = Вредност
 # Variables:
 #   $stackKey (String): the string key for this stack
