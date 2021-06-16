@@ -376,7 +376,7 @@ menu-help-report-site-issue =
     .label = Пријави проблем на сајту…
 menu-help-feedback-page =
     .label = Пошаљи повратне информације
-    .accesskey = S
+    .accesskey = ш
 menu-help-safe-mode-without-addons =
     .label = Рестартуј са онемогућеним додацима
     .accesskey = Р
@@ -385,10 +385,10 @@ menu-help-safe-mode-with-addons =
     .accesskey = Р
 menu-help-enter-troubleshoot-mode2 =
     .label = Режим за решавање проблема…
-    .accesskey = ж
+    .accesskey = Р
 menu-help-exit-troubleshoot-mode =
     .label = Искључи режим за решавање проблема
-    .accesskey = И
+    .accesskey = р
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
