@@ -50,7 +50,7 @@
 <!ENTITY autodetect.label                "Otomatik algıla">
 <!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.
      Transmission of emails in cleartext over the Internet. -->
-<!ENTITY noEncryption.label              "Hiçbiri">
+<!ENTITY noEncryption.label              "Yok">
 <!ENTITY starttls.label                  "STARTTLS">
 <!ENTITY sslTls.label                    "SSL/TLS">
 
@@ -75,8 +75,6 @@
 <!ENTITY manual-config.accesskey         "E">
 <!ENTITY open-provisioner.label          "Yeni bir e-posta adresi al…">
 <!ENTITY open-provisioner.accesskey      "Y">
-
-
 <!ENTITY get-help.label                  "Yardım alın">
 <!ENTITY get-help.accesskey              "Y">
 

@@ -2,6 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+chat-joining-chat-icon2 =
+    .alt = Sohbete katılma
+chat-left-chat-icon2 =
+    .alt = Sohbetten ayrıldı
 chat-participant-owner-role-icon2 =
     .alt = Sahip
 chat-participant-administrator-role-icon2 =

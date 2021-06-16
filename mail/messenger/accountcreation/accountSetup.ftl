@@ -7,6 +7,9 @@ account-setup-tab-title = Hesap kurulumu
 ## Header
 
 account-setup-title = Mevcut E-posta Adresinizi Ayarlayın
+account-setup-description =
+    Mevcut e-posta adresinizi kullanmak için hesap bilgilerinizi girin.<br/>
+    { -brand-product-name } önerilen sunucu yapılandırmasını otomatik olarak arayacaktır.
 
 ## Form fields
 
@@ -165,6 +168,7 @@ ssl-encrypted-password-option = Şifrelenmiş parola
 
 ## Incoming/Outgoing SSL options
 
+ssl-noencryption-option = Yok
 account-setup-auth-label = Yetkilendirme yöntemi:
 account-setup-username-label = Kullanıcı adı:
 account-setup-advanced-setup-button = Gelişmiş yapılandırma
