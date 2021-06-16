@@ -160,7 +160,7 @@ return-to-amo-sub-header = Одлично, добили сте { -brand-short-na
 #
 # Variables:
 #   $addon-name (String) - Name of the add-on
-return-to-amo-addon-header = Сада ћемо вам помоћи са додатком <icon></icon><b>{ $addon-name }.</b>
+return-to-amo-addon-header = Сада ће се инсталирати додатак <icon></icon><b>{ $addon-name }.</b>
 return-to-amo-extension-button = Додај додатак
 return-to-amo-get-started-button = Крените са коришћењем програма { -brand-short-name }
 onboarding-not-now-button-label = Не сада

@@ -338,7 +338,7 @@ menu-window-bring-all-to-front =
 
 menu-help =
     .label = Помоћ
-    .accesskey = H
+    .accesskey = П
 menu-help-product =
     .label =
         Помоћ за { -brand-shorter-name.gender ->
