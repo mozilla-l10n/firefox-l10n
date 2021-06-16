@@ -71,8 +71,8 @@ permissions-capabilities-listitem-off-temporarily =
 
 ## Invalid Hostname Dialog
 
-permissions-invalid-uri-title = Унето је неисправно име рачунара
-permissions-invalid-uri-label = Унесите исправно име хоста
+permissions-invalid-uri-title = Неважећи назив хоста
+permissions-invalid-uri-label = Унесите важећи назив хоста
 
 ## Exceptions - Tracking Protection
 

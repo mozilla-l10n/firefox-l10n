@@ -27,13 +27,13 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
-containers-name-label = Име
-    .accesskey = N
+containers-name-label = Назив
+    .accesskey = Н
     .style = { -containers-labels-style }
 containers-name-text =
-    .placeholder = Унесите име контејнера
-containers-icon-label = Иконица
-    .accesskey = I
+    .placeholder = Унесите назив контејнера
+containers-icon-label = Икона
+    .accesskey = И
     .style = { -containers-labels-style }
 containers-color-label = Боја
     .accesskey = Б
