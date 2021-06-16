@@ -231,7 +231,7 @@ newtab-error-fallback-refresh-link = Освежите страницу да би
 ## Customization Menu
 
 newtab-custom-shortcuts-title = Пречице
-newtab-custom-shortcuts-subtitle = Сајтови које чувате или посећујете
+newtab-custom-shortcuts-subtitle = Сачувани или посећени сајтови
 newtab-custom-row-selector =
     { $num ->
         [one] { $num } ред
@@ -251,4 +251,4 @@ newtab-custom-close-button = Затвори
 # and non-essential but also not entirely trivial and useless.
 newtab-custom-snippets-title = Исечци
 newtab-custom-snippets-subtitle = Савети и новости везани за { -brand-product-name(case: "acc") } и организацију { -vendor-short-name }
-newtab-custom-settings = Управљај подешавањима
+newtab-custom-settings = Додатна подешавања
