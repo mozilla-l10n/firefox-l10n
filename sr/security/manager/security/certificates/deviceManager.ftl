@@ -42,8 +42,8 @@ load-device =
     .title = Учитај драјвер PKCS#11 уређаја
 load-device-info = Унесите податке о модулу који желите да додате.
 load-device-modname =
-    .value = Име модула
-    .accesskey = И
+    .value = Назив модула
+    .accesskey = Н
 load-device-modname-default =
     .value = Нови модул PKCS#11
 load-device-filename =
@@ -92,7 +92,7 @@ unable-to-toggle-fips = Није могуће променити FIPS начин
 load-pk11-module-file-picker-title = Изаберите драјвер PKCS#11 уређаја за учитавање
 # Load Module Dialog
 load-module-help-empty-module-name =
-    .value = Име модуле не може бити празно
+    .value = Назив модула не може бити празан.
 # Do not translate 'Root Certs'
 load-module-help-root-certs-module-name =
     .value = ‘Root Certs‘ је резервисано и не може се искористити као име модула.
