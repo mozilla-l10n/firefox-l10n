@@ -144,7 +144,7 @@ urlbar-canvas-blocked =
 urlbar-midi-blocked =
     .tooltiptext = Овом веб-сајту сте забранили приступ MIDI уређајима.
 urlbar-install-blocked =
-    .tooltiptext = Зауставили сте инсталацију додатка за ову веб локацију.
+    .tooltiptext = Блокирали сте инсталацију додатака са овог веб-сајта.
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
@@ -152,7 +152,7 @@ urlbar-star-edit-bookmark =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
-    .tooltiptext = Забележи ову страницу ({ $shortcut })
+    .tooltiptext = Обележи страницу ({ $shortcut })
 
 ## Page Action Context Menu
 
@@ -161,7 +161,7 @@ page-action-add-to-urlbar =
 page-action-manage-extension =
     .label = Управљај додатком…
 page-action-remove-from-urlbar =
-    .label = Уклони са адресне траке
+    .label = Уклони са траке за адресу
 page-action-remove-extension =
     .label = Уклони додатак
 
@@ -393,9 +393,9 @@ browser-window-close-button =
 ## Tab actions
 
 # This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-playing2 = РЕПРОДУКОВАЊЕ
+browser-tab-audio-playing2 = РЕПРОДУКУЈЕ СЕ
 # This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-muted2 = УТИШАНО
+browser-tab-audio-muted2 = БЕЗ ЗВУКА
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-blocked = АУТОМАТСКА РЕПРОДУКЦИЈА БЛОКИРАНА
 # This label should be written in all capital letters if your locale supports them.
@@ -421,10 +421,10 @@ browser-tab-unmute =
     }
 browser-tab-unblock =
     { $count ->
-        [1] ПУСТИ КАРТИЦУ
-        [one] ПУСТИ { $count } КАРТИЦУ
-        [few] ПУСТИ { $count } КАРТИЦЕ
-       *[other] ПУСТИ { $count } КАРТИЦА
+        [1] ПУСТИ САДРЖАЈ ИЗ КАРТИЦЕ
+        [one] ПУСТИ САДРЖАЈ ИЗ { $count } КАРТИЦЕ
+        [few] ПУСТИ САДРЖАЈ ИЗ { $count } КАРТИЦЕ
+       *[other] ПУСТИ САДРЖАЈ ИЗ { $count } КАРТИЦА
     }
 
 ## Bookmarks toolbar items
