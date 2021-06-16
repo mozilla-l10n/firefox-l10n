@@ -93,6 +93,7 @@ permissions-exceptions-cookie-desc = Ikatu ere máva ñanduti rendápa akóinte 
 permissions-exceptions-https-only-window =
     .title = Ykepegua – HTTPS ayvu añópe
     .style = { permissions-window.style }
+permissions-exceptions-https-only-desc = Ikatu eipe’a HTTPS ayvu añoite ñanduti rendaitépe. { -brand-short-name } nomoambuemo’ãi HTTPS jeike hekorosãva umi tendápe g̃uarã. Umi ykepegua ndoipurúi ovetãnguéra ñemiguáva.
 
 ## Exceptions - Pop-ups
 
