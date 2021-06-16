@@ -57,7 +57,7 @@ appmenuitem-zoom-enlarge =
 appmenuitem-zoom-reduce =
     .label = Смањите
 appmenuitem-fullscreen =
-    .label = Користи цео екран
+    .label = Преко целог екрана
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 

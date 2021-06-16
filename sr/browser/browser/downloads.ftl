@@ -55,8 +55,8 @@ downloads-cmd-retry =
 downloads-cmd-retry-panel =
     .aria-label = Покушај поново
 downloads-cmd-go-to-download-page =
-    .label = Иди на станицу за преузимања
-    .accesskey = G
+    .label = Иди на страницу са преузимањима
+    .accesskey = И
 downloads-cmd-copy-download-link =
     .label = Копирај везу за преузимање
     .accesskey = L
@@ -68,7 +68,7 @@ downloads-cmd-clear-list =
     .accesskey = б
 downloads-cmd-clear-downloads =
     .label = Обриши преузимања
-    .accesskey = D
+    .accesskey = ш
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = Дозволи преузимање
@@ -117,7 +117,7 @@ downloads-history =
 # This string is shown at the top of the Download Details Panel, to indicate
 # that we are showing the details of a single download.
 downloads-details =
-    .title = Детаљи преузимања
+    .title = Детаљи о преузимању
 downloads-clear-downloads-button =
     .label = Обриши преузимања
     .tooltiptext = Брише завршена, отказана и неуспешна преузимања
@@ -127,4 +127,4 @@ downloads-list-empty =
     .value = Нема преузимања.
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
-    .value = Нема преузимања у току ове сесије.
+    .value = Нема преузимања у овој сесији.
