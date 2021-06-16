@@ -6,9 +6,9 @@
 ### This file contains the entities needed to use the Find Bar.
 
 findbar-next =
-    .tooltiptext = Налази наредну појаву фразе
+    .tooltiptext = Пронађи следеће појављивање фразе
 findbar-previous =
-    .tooltiptext = Пронађи претходну појаву фразе
+    .tooltiptext = Пронађи претходно појављивање фразе
 findbar-find-button-close =
     .tooltiptext = Затвори траку за тражење
 findbar-highlight-all2 =
@@ -26,4 +26,4 @@ findbar-match-diacritics =
 findbar-entire-word =
     .label = Целе речи
     .accesskey = Ц
-    .tooltiptext = Тражите само целе речи
+    .tooltiptext = Тражи само целе речи
