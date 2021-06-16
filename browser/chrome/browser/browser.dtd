@@ -41,7 +41,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY personalbar.accessibleLabel "Обележивачи">
 <!ENTITY bookmarksToolbarItem.label "Ставке на траци са обележивачима">
 
-<!ENTITY fullScreenCmd.label "Користи цео екран">
+<!ENTITY fullScreenCmd.label "Преко целог екрана">
 
 <!ENTITY pictureInPictureHideToggle.label "Сакриј прекидач „Слика у слици”">
 <!ENTITY pictureInPictureHideToggle.accesskey "С">

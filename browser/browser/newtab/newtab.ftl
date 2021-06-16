@@ -137,7 +137,7 @@ newtab-menu-bookmark = Забележи
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
 newtab-menu-copy-download-link = Копирај везу за преузимање
-newtab-menu-go-to-download-page = Иди на станицу за преузимања
+newtab-menu-go-to-download-page = Иди на страницу са преузимањима
 newtab-menu-remove-download = Уклони из историје
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
