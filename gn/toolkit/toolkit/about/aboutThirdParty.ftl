@@ -23,6 +23,10 @@ third-party-tag-ime = IME
     .title = Koichagua ta’ãha henyhẽ oipurúvo IME mbohapyháva.
 third-party-tag-shellex = Mba’e’okarupa jepysokue
     .title = Koichagua ta’ãha henyhẽ oñembojurujávo apopyvusu marandurenda ñomongeta.
+third-party-tag-background = Mokõihávape
+    .title =
+        Koichagua ta’ãha ndojokói pe tembipuru’i henyhẽ rupi
+        Mokõihávape.
 third-party-unsigned-icon =
     .title = Ko ha’ãha noñemboheraguapýi
 third-party-warning-icon =
