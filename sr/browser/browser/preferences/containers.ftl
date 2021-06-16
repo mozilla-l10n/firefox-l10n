@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 containers-window-new =
-    .title = Додај нови контејнер
+    .title = Додавање контејнера
     .style = width: 45em
 # Variables
 #   $name (String) - Name of the container
@@ -36,7 +36,7 @@ containers-icon-label = Иконица
     .accesskey = I
     .style = { -containers-labels-style }
 containers-color-label = Боја
-    .accesskey = o
+    .accesskey = Б
     .style = { -containers-labels-style }
 containers-button-done =
     .label = Готово
