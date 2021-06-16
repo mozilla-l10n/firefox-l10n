@@ -9,8 +9,8 @@ newtab-page-title = Нова картица
 newtab-settings-button =
     .title = Прилагодите страницу нове картице
 newtab-personalize-button-label = Прилагоди
-    .title = Прилагоди нову картицу
-    .aria-label = Прилагоди нову картицу
+    .title = Промените изглед нове картице
+    .aria-label = Промените изглед нове картице
 newtab-personalize-dialog-label =
     .aria-label = Персонализација
 
