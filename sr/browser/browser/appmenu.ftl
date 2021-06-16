@@ -183,10 +183,10 @@ appmenu-help-feedback-page =
 
 appmenu-help-enter-troubleshoot-mode2 =
     .label = Режим за решавање проблема…
-    .accesskey = ж
+    .accesskey = Р
 appmenu-help-exit-troubleshoot-mode =
     .label = Искључи режим за решавање проблема
-    .accesskey = ж
+    .accesskey = р
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
