@@ -23,7 +23,7 @@ url-classifier-provider-update-btn = Ажурирање
 url-classifier-cache-title = Кеш
 url-classifier-cache-refresh-btn = Освежи
 url-classifier-cache-clear-btn = Очисти
-url-classifier-cache-table-name = Име табеле
+url-classifier-cache-table-name = Назив табеле
 url-classifier-cache-ncache-entries = Број негативних уноса кеша
 url-classifier-cache-pcache-entries = Број позитивних уноса кеша
 url-classifier-cache-show-entries = Прикажи уносе
@@ -40,7 +40,6 @@ url-classifier-debug-sb-modules = Модули записника безбедн
 url-classifier-debug-modules = Тренутни модули записника
 url-classifier-debug-sbjs-modules = JS запис безбедног прегледања
 url-classifier-debug-file = Тренутни запис података
-
 url-classifier-trigger-update = Покрени ажурирање
 url-classifier-not-available = N/A
 url-classifier-disable-sbjs-log = Онемогући JS запис безбедног прегледања
