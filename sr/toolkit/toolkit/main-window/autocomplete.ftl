@@ -3,14 +3,14 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## Import Logins Autocomplete
+### Import Logins Autocomplete
 
 # Variables:
 #   $browser (String) - Browser name to import logins from.
 #   $host (String) - Host name of the current site.
 autocomplete-import-logins =
-    <div data-l10n-name="line1">Увезите вашу пријаву из { $browser }</div>
-    <div data-l10n-name="line2">за { $host } и друге странице</div>
+    <div data-l10n-name="line1">Увезите податке за пријаву за { $host }</div>
+    <div data-l10n-name="line2">и друге сајтове из прегледача { $browser }</div>
 autocomplete-import-logins-info =
     .tooltiptext = Сазнајте више
 
