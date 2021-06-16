@@ -521,7 +521,7 @@ home-prefs-topsites-by-option-sponsored =
     .label = Популарни спонзорисани сајтови
 home-prefs-shortcuts-header =
     .label = Пречице
-home-prefs-shortcuts-description = Сајтови које чувате или посећујете
+home-prefs-shortcuts-description = Сачувани или посећени сајтови
 home-prefs-shortcuts-by-option-sponsored =
     .label = Спонзорисане пречице
 
