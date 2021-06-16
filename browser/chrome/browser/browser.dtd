@@ -133,7 +133,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY webDeveloperMenu.label       "Програмер">
 
 <!ENTITY newNavigatorCmd.label        "Нови прозор">
-<!ENTITY newPrivateWindow.label     "Нови приватан прозор">
+<!ENTITY newPrivateWindow.label     "Нови приватни прозор">
 
 <!ENTITY editMenu.label         "Уређивање">
 <!ENTITY preferencesCmd2.label       "Подешавања">
