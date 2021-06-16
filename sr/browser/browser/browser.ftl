@@ -94,7 +94,7 @@ urlbar-persistent-storage-notification-anchor =
 urlbar-addons-notification-anchor =
     .tooltiptext = Отвори панел са инсталацијом додатака
 urlbar-tip-help-icon =
-    .title = Потражите помоћ
+    .title = Потражи помоћ
 urlbar-search-tips-confirm = Разумем
 # Read out before Urlbar Tip text content so screenreader users know the
 # subsequent text is a tip offered by the browser. It should end in a colon or
@@ -225,7 +225,7 @@ full-screen-exit =
 
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
-search-one-offs-with-title = Овог пута претражи помоћу:
+search-one-offs-with-title = Претражи помоћу:
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
@@ -499,7 +499,7 @@ urlbar-placeholder =
 #  (e.g. Google).
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = Претражите интернет
-    .aria-label = Претрага помоћу услуге { $name }
+    .aria-label = Претражите у претраживачу { $name }
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
@@ -579,7 +579,7 @@ urlbar-result-action-before-tabtosearch-other = Притисните Tab да б
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
-urlbar-result-action-tabtosearch-web = Претражите помоћу услуге { $engine } директно из траке за адресу
+urlbar-result-action-tabtosearch-web = Претражите у претраживачу { $engine } директно из траке за адресу
 # Variables
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
