@@ -93,6 +93,7 @@ permissions-exceptions-cookie-desc = Du kan spesifisere kva for nettstadar som a
 permissions-exceptions-https-only-window =
     .title = Unntak - Berre HTTPS-modus
     .style = { permissions-window.style }
+permissions-exceptions-https-only-desc = Du kan slå av berre-HTTPS-modus for bestemte nettstadar. { -brand-short-name } prøver ikkje å oppgradere tilkoplinga for å sikre HTTPS for desse nettstadane. Unntak gjeld ikkje private vindauge.
 
 ## Exceptions - Pop-ups
 
