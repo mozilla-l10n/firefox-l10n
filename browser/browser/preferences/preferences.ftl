@@ -132,7 +132,7 @@ search-results-header = Резултати претраге
 search-results-empty-message = У подешавањима нема резултата за „<span data-l10n-name="query"></span>”.
 # `<span data-l10n-name="query"></span>` will be replaced by the search term.
 search-results-empty-message2 = У подешавањима нема резултата за „<span data-l10n-name="query"></span>”.
-search-results-help-link = Потребна вам је помоћ? Посетите <a data-l10n-name="url">{ -brand-short-name } подршка</a>
+search-results-help-link = Треба вам помоћ? Посетите <a data-l10n-name="url">{ -brand-short-name } подршку</a>
 
 ## General Section
 

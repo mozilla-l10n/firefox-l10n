@@ -21,7 +21,7 @@ screenshots-meta-key =
        *[other] Ctrl
     }
 screenshots-notification-link-copied-title = Веза је копирана
-screenshots-notification-link-copied-details = Веза до вашег снимка екрана је копиран у привремену меморију. Налепите га помоћу { screenshots-meta-key }-V.
+screenshots-notification-link-copied-details = Веза до вашег снимка екрана је копирана у привремену меморију. Налепите је помоћу { screenshots-meta-key }-V.
 screenshots-notification-image-copied-title = Снимак је копиран
 screenshots-notification-image-copied-details = Ваш снимак је копиран. Притисните { screenshots-meta-key }-V да налепите.
 screenshots-request-error-title = Не ради.
