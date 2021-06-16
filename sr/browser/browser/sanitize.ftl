@@ -26,18 +26,18 @@ clear-data-settings-label = При затварању { -brand-short-name } ау
 ## Time range to clear: (Last Hour, Today, etc.)
 
 clear-time-duration-prefix =
-    .value = Временски период за чишћење:{ " " }
+    .value = Временски опсег за брисање:{ " " }
     .accesskey = В
 clear-time-duration-value-last-hour =
-    .label = Последњи сат
+    .label = последњи сат
 clear-time-duration-value-last-2-hours =
-    .label = Последња два сата
+    .label = последња два сата
 clear-time-duration-value-last-4-hours =
-    .label = Последња четири сата
+    .label = последња четири сата
 clear-time-duration-value-today =
-    .label = Данас
+    .label = данас
 clear-time-duration-value-everything =
-    .label = Све
+    .label = све
 clear-time-duration-suffix =
     .value = { "" }
 
