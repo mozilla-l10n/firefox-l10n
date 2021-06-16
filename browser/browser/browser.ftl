@@ -323,13 +323,19 @@ identity-connection-internal =
         [neuter] { -brand-short-name(case: "gen") }
        *[other] програма { -brand-short-name }
     }.
-identity-connection-file = Ова страница се складишти на рачунару.
+identity-connection-file = Ова страница је сачувана на рачунару.
 identity-extension-page = Ову страницу је отворио додатак.
-identity-active-blocked = { -brand-short-name } је блокирао делове ове странице који нису безбедни.
-identity-custom-root = Везу је проверио издавач сертификата који Mozilla не препознаје.
-identity-passive-loaded = Делови ове странице нису безбедни (као што су слике).
-identity-active-loaded = Заштита на овој страници је искључена.
-identity-weak-encryption = Страница користи слабо шифровање.
+identity-active-blocked =
+    { -brand-short-name.gender ->
+        [masculine] { -brand-short-name } је блокирао
+        [feminine] { -brand-short-name } је блокирала
+        [neuter] { -brand-short-name } је блокирало
+       *[other] Програм { -brand-short-name } је блокирао
+    } делове ове странице који нису безбедни.
+identity-custom-root = Везу је потврдио издавалац сертификата ког Mozilla не препознаје.
+identity-passive-loaded = Неки делови ове странице, попут слика, нису безбедни.
+identity-active-loaded = Онемогућили сте заштиту на овој страници.
+identity-weak-encryption = Ова страница користи слабо шифровање.
 identity-insecure-login-forms = Пријаве које су унесене на овој страници су можда угрожене.
 identity-permissions =
     .value = Дозволе
@@ -357,7 +363,7 @@ identity-ev-owner-label = Сертификат издан за:
 identity-description-custom-root = Mozilla не препознаје издавача овог сертификата. Можда је додат из вашег оперативног система или од стране администратора. <label data-l10n-name="link">Сазнајте више</label>
 identity-remove-cert-exception =
     .label = Уклони изузетак
-    .accesskey = R
+    .accesskey = У
 identity-description-insecure = Веза са овим сајтом није приватна. Информације које пошаљете (нпр. лозинке, поруке, кредитне картице итд.) могу видети други.
 identity-description-insecure-login-forms = Информације за пријаву које сте унели на овој страницу нису сигурне и могу бити угрожене.
 identity-description-weak-cipher-intro = Веза са овим сајтом користи слабо шифровање и није приватна.
@@ -372,10 +378,10 @@ identity-learn-more =
     .value = Сазнајте више
 identity-disable-mixed-content-blocking =
     .label = Онемогући заштиту
-    .accesskey = О
+    .accesskey = н
 identity-enable-mixed-content-blocking =
     .label = Омогући заштиту
-    .accesskey = E
+    .accesskey = м
 identity-more-info-link-text =
     .label = Више информација
 
