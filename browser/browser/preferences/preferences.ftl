@@ -111,7 +111,7 @@ extension-controlled-web-notifications = Додатак <img data-l10n-name="ico
 extension-controlled-default-search = Додатак <img data-l10n-name="icon"/> { $name } је подесио подразумевани претраживач.
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
-extension-controlled-privacy-containers = Додатак <img data-l10n-name="icon"/> { $name } захтева картице контејнера.
+extension-controlled-privacy-containers = Додатку <img data-l10n-name="icon"/> { $name } су потребне картице у контејнеру.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlled-websites-content-blocking-all-trackers = Додатак <img data-l10n-name="icon"/> { $name } управља овим подешавањем.
@@ -185,18 +185,18 @@ browser-containers-learn-more = Сазнајте више
 browser-containers-settings =
     .label = Подешавања…
     .accesskey = П
-containers-disable-alert-title = Затворити све картице контејнера?
+containers-disable-alert-title = Затворити све картице у контејнеру?
 containers-disable-alert-desc =
     { $tabCount ->
-        [one] Ако онемогућите картице контејнера, затвориће се { $tabCount } таква картица. Желите ли заиста да наставите?
-        [few] Ако онемогућите картице контејнера, затвориће се { $tabCount } такве картице. Желите ли заиста да наставите?
-       *[other] Ако онемогућите картице контејнера, затвориће се { $tabCount } таквих картица. Желите ли заиста да наставите?
+        [one] Ако онемогућите картице у контејнеру, затворићете { $tabCount } такву картицу. Желите ли заиста да наставите?
+        [few] Ако онемогућите картице у контејнеру, затворићете { $tabCount } такве картице. Желите ли заиста да наставите?
+       *[other] Ако онемогућите картице у контејнеру, затворићете { $tabCount } таквих картица. Желите ли заиста да наставите?
     }
 containers-disable-alert-ok-button =
     { $tabCount ->
-        [one] Затвори { $tabCount } картицу контејнера
-        [few] Затвори { $tabCount } картице контејнера
-       *[other] Затвори { $tabCount } картица контејнера
+        [one] Затвори { $tabCount } картицу у контејнеру
+        [few] Затвори { $tabCount } картице у контејнеру
+       *[other] Затвори { $tabCount } картица у контејнеру
     }
 containers-disable-alert-cancel-button = Остави укључено
 containers-remove-alert-title = Уклонити овај контејнер?
@@ -204,9 +204,9 @@ containers-remove-alert-title = Уклонити овај контејнер?
 #   $count (Number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
-        [one] Ако уклоните овај контејнер, затвориће се { $count } картица контејнера. Желите ли заиста да наставите?
-        [few] Ако уклоните овај контејнер, затвориће се { $count } картице контејнера. Желите ли заиста да наставите?
-       *[other] Ако уклоните овај контејнер, затвориће се { $count } картица контејнера. Желите ли заиста да наставите?
+        [one] Ако уклоните овај контејнер, затворићете { $count } картицу у њему. Желите ли заиста да наставите?
+        [few] Ако уклоните овај контејнер, затворићете { $count } картице у њему. Желите ли заиста да наставите?
+       *[other] Ако уклоните овај контејнер, затворићете { $count } картица у њему. Желите ли заиста да наставите?
     }
 containers-remove-ok-button = Уклони овај контејнер
 containers-remove-cancel-button = Немој уклонити овај контејнер
