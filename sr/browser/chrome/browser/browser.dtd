@@ -180,7 +180,7 @@ this container is a toolbar. This avoids double-speaking. -->
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Желите ли да овде видите картице са других уређаја?">
-<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Отвори подешавања Sync-а">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Отвори подешавања синхронизације">
 <!ENTITY appMenuRemoteTabs.welcome.label "Погледајте листу картица са других уређаја.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Ваш налог мора бити потврђен.">
 <!ENTITY appMenuRemoteTabs.signintosync.label "Пријавите се у &syncBrand.shortName.label;…">
