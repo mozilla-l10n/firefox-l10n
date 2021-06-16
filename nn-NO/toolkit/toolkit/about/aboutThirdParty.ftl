@@ -4,6 +4,10 @@
 
 third-party-page-title = Informasjon om tredjepartsmodular
 third-party-section-title = Liste over tredjepartsmodular i { -brand-short-name }
+third-party-intro =
+    Denne sida viser tredjepartsmodulane som vart injiserte i
+    { -brand-short-name }. Alle modular som ikkje er signerte av Microsoft eller
+    { -vendor-short-name } er rekna for å vere tredjepartsmodular.
 third-party-header-module-list = Modulliste
 third-party-header-loading-events = Lastar hendingar
 third-party-message-empty = Ingen tredjepartsmodular vart oppdaga.
