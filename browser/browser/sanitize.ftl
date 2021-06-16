@@ -83,4 +83,4 @@ sanitize-everything-warning = Обрисаће се сва историја.
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has modified the default set of
 # history items to clear.
-sanitize-selected-warning = Све изабране ставке ће бити уклоњене.
+sanitize-selected-warning = Обрисаће се све изабране ставке.
