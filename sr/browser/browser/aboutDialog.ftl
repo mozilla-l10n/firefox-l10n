@@ -34,7 +34,7 @@ update-noUpdatesFound = { -brand-short-name } је ажуран
 update-otherInstanceHandlingUpdates = { -brand-short-name } се ажурира
 update-manual = Ажурирања су доступна на <label data-l10n-name="manual-link"/>
 update-unsupported = Не можете да извршите ажурирања на овом систему. <label data-l10n-name="unsupported-link">Сазнајте више</label>
-update-restarting = Поново покрећем…
+update-restarting = Рестартовање…
 channel-description = Тренутно користите <label data-l10n-name="current-channel"></label> канал за ажурирање.
 warningDesc-version = { -brand-short-name } је експерименталан и може бити нестабилан.
 aboutdialog-help-user =

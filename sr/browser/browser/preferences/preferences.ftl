@@ -559,7 +559,13 @@ home-prefs-recent-activity-description = Избор недавних сајто�
 home-prefs-snippets-header =
     .label = Исечци
 home-prefs-snippets-description = Новости везане за { -brand-product-name(case: "acc") } и организацију { -vendor-short-name }
-home-prefs-snippets-description-new = Савети и новости везани за { -brand-product-name(case: "acc") } и организацију { -vendor-short-name }
+home-prefs-snippets-description-new =
+    Савети и новости везани за { -brand-product-name.gender ->
+        [masculine] { -brand-product-name(case: "acc") }
+        [feminine] { -brand-product-name(case: "acc") }
+        [neuter] { -brand-product-name(case: "acc") }
+       *[other] програм { -brand-product-name }
+    } и организацију { -vendor-short-name }
 home-prefs-sections-rows-option =
     .label =
         { $num ->
