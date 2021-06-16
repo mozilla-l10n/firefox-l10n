@@ -208,8 +208,8 @@ containers-remove-alert-msg =
         [few] Ако уклоните овај контејнер, затворићете { $count } картице у њему. Желите ли заиста да наставите?
        *[other] Ако уклоните овај контејнер, затворићете { $count } картица у њему. Желите ли заиста да наставите?
     }
-containers-remove-ok-button = Уклони овај контејнер
-containers-remove-cancel-button = Немој уклонити овај контејнер
+containers-remove-ok-button = Уклони
+containers-remove-cancel-button = Не уклањај
 
 ## General Section - Language & Appearance
 
@@ -632,7 +632,7 @@ containers-back-button =
     .aria-label = Назад на подешавања
 containers-back-button2 =
     .aria-label = Назад на подешавања
-containers-header = Картице контејнера
+containers-header = Картице у контејнеру
 containers-add-button =
     .label = Додај контејнер
     .accesskey = Д
