@@ -247,7 +247,13 @@ onboarding-welcome-steps-indicator =
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "look" should stay inside the span.
 onboarding-multistage-theme-header = Изаберите <span data-l10n-name="zap">изглед</span>
-onboarding-multistage-theme-subtitle = Прилагодите { -brand-short-name } темом.
+onboarding-multistage-theme-subtitle =
+    Промените изглед { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "gen") }
+        [feminine] { -brand-short-name(case: "gen") }
+        [neuter] { -brand-short-name(case: "gen") }
+       *[other] програма { -brand-short-name }
+    } помоћу теме.
 onboarding-multistage-theme-primary-button-label2 = Готово
 onboarding-multistage-theme-secondary-button-label = Не сада
 # Automatic theme uses operating system color settings
