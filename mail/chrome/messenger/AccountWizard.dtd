@@ -57,7 +57,7 @@
 <!ENTITY defaultPortValue.label "">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
 <!ENTITY incomingServer.description "Gelen posta sunucunuzun adını girin. (örnek: &quot;mail.ornekadres.com&quot;)">
-<!ENTITY incomingServer.label "Gelen Posta Sunucusu:">
+<!ENTITY incomingServer.label "Gelen sunucusu:">
 <!ENTITY incomingServer.accesskey "s">
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
 <!ENTITY incomingUsername.description "E-posta sağlayıcınız tarafından verilen gelen kullanıcı adını girin (örneğin &quot;mkemal&quot;).">
@@ -73,7 +73,7 @@
 <!ENTITY outgoingTitle.label "Giden Sunucu Bilgisi">
 <!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
 <!ENTITY outgoingServer.description "Giden posta sunucunuzun (SMTP) adını girin. (örnek: &quot;smtp.ornek.net&quot;)">
-<!ENTITY outgoingServer.label "Giden Posta Sunucusu:">
+<!ENTITY outgoingServer.label "Giden sunucusu:">
 <!ENTITY outgoingServer.accesskey "s">
 <!ENTITY outgoingUsername.description "E-posta sağlayıcınız tarafından size verilen giden posta kullanıcı adınızı girin. (Genellikle gelen sunucusu kullanıcı adıyla aynıdır.)">
 <!ENTITY outgoingUsername.label "Giden Sunucusu Kullanıcı Adı:">

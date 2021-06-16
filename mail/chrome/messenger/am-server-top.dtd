@@ -54,7 +54,7 @@
 <!ENTITY expungeOnExit.accesskey "t">
 <!ENTITY emptyTrashOnExit.label "Çıkarken Çöp’ü boşalt">
 <!ENTITY emptyTrashOnExit.accesskey "k">
-<!ENTITY loginAtStartup.label "Başlarken yeni iletileri kontrol et">
+<!ENTITY loginAtStartup.label "Başlangıçta yeni iletileri kontrol et">
 <!ENTITY loginAtStartup.accesskey "B">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
@@ -86,4 +86,4 @@
 <!ENTITY storeType.label "İleti depolama türü:">
 <!ENTITY storeType.accesskey "d">
 <!ENTITY mboxStore2.label "Klasör başına dosya (mbox)">
-<!ENTITY maildirStore.label "Her ileti için bir dosya (maildir)">
+<!ENTITY maildirStore.label "Her ileti için ayrı dosya (maildir)">
