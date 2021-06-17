@@ -4,6 +4,10 @@
 
 third-party-page-title = Marandu mbohapyha ra’ãha rehegua
 third-party-section-title = Tysýi mbohapyha ra’ãha { -brand-short-name }-pe
+third-party-intro =
+    Ko kuatiarogue ohechauka umi ta’ãha mbohapyháva oñemboguejýva nde
+    { -brand-short-name }-pe. Oimeraẽva ta’ãha omboheraguapy’ỹva Microsoft térã
+    { -vendor-short-name } oje’e ha’eha ta’ãha mbohapyháva.
 third-party-header-module-list = Ta’ãha rysýi
 third-party-header-loading-events = Emyanyhẽ tembiaporã
 third-party-message-empty = Ndojejuhúi mbohapyháva ra’ãha.
@@ -35,6 +39,8 @@ third-party-status-loaded = Henyhẽva
 third-party-status-blocked = Jokopyre
 third-party-status-redirected = Ñembohapejey
 third-party-button-copy-to-clipboard = Embohasa mba’ekuaarã kuatiajokohápe
+third-party-button-reload = Emyanyhẽjey apopyvusu marandu ndive
+    .title = Emyanyhẽjey apopyvusu marandu ndive
 third-party-button-open =
     .title = Embojuruja moñe’ẽasa marandurendápe…
 third-party-button-expand =
