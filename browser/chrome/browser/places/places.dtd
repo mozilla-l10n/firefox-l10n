@@ -18,7 +18,7 @@
 <!ENTITY views.tooltip                  "Промените приказ">
 <!ENTITY view.columns.label             "Колоне">
 <!ENTITY view.columns.accesskey         "К">
-<!ENTITY view.sort.label                "Сортирај">
+<!ENTITY view.sort.label                "Сортирање">
 <!ENTITY view.sort.accesskey            "С">
 <!ENTITY view.unsorted.label            "Без сортирања">
 <!ENTITY view.unsorted.accesskey        "Б">
