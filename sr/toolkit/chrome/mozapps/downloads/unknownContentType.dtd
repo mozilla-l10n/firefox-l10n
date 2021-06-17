@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  intro2.label                "Одабрали сте да отворите:">
-<!ENTITY  from.label                  "од:">
+<!ENTITY  from.label                  "Адреса:">
 <!ENTITY  actionQuestion.label        "Како да &brandShortName; обради ову датотеку?">
 
 <!ENTITY  openWith.label              "Отвори помоћу">
@@ -16,11 +16,11 @@
 <!ENTITY  rememberChoice.label        "Користи овај избор за све датотеке овог типа.">
 <!ENTITY  rememberChoice.accesskey    "К">
 
-<!ENTITY  whichIs.label              "што је:">
+<!ENTITY  whichIs.label              "Тип датотеке:">
 
 <!ENTITY  chooseHandlerMac.label      "Одабери…">
 <!ENTITY  chooseHandlerMac.accesskey  "И">
 <!ENTITY  chooseHandler.label         "Одабери…">
 <!ENTITY  chooseHandler.accesskey     "И">
 
-<!ENTITY  unknownPromptText.label     "Да ли желите да сачувате ову датотеку?">
+<!ENTITY  unknownPromptText.label     "Желите ли да сачувате ову датотеку?">
