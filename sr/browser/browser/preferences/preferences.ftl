@@ -994,8 +994,8 @@ content-blocking-fpi-incompatibility-warning = Користите First Party Is
 
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 enhanced-tracking-protection-setting-standard =
-    .label = Обично
-    .accesskey = б
+    .label = Стандардна
+    .accesskey = С
 enhanced-tracking-protection-setting-strict =
     .label = Строго
     .accesskey = р
