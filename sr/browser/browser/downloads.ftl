@@ -20,18 +20,18 @@ downloads-panel-list =
     .style = width: 74ch
 downloads-cmd-pause =
     .label = Паузирај
-    .accesskey = P
+    .accesskey = П
 downloads-cmd-resume =
     .label = Настави
-    .accesskey = R
+    .accesskey = Н
 downloads-cmd-cancel =
     .tooltiptext = Откажи
 downloads-cmd-cancel-panel =
     .aria-label = Откажи
 # This message is only displayed on Windows and Linux devices
 downloads-cmd-show-menuitem =
-    .label = Отвори фасциклу са преузетим садржајем
-    .accesskey = F
+    .label = Отвори фасциклу
+    .accesskey = ф
 # This message is only displayed on macOS devices
 downloads-cmd-show-menuitem-mac =
     .label = Прикажи у Finder-у
@@ -40,7 +40,7 @@ downloads-cmd-use-system-default =
     .label = Отвори у системском прегледачу
     .accesskey = О
 downloads-cmd-always-use-system-default =
-    .label = Увек отвори у системском прегледачу
+    .label = Увек отварај у системском прегледачу
     .accesskey = У
 downloads-cmd-show-button =
     .tooltiptext = Прикажи у фасцикли
@@ -82,9 +82,9 @@ downloads-cmd-remove-file-panel =
 # downloads are blocked. This opens a dialog where the user can choose
 # whether to unblock or remove the download. Removing is the default option.
 downloads-cmd-choose-unblock =
-    .tooltiptext = Отвори датотеку или дозволи преузимање
+    .tooltiptext = Уклони датотеку или дозволи преузимање
 downloads-cmd-choose-unblock-panel =
-    .aria-label = Отвори датотеку или дозволи преузимање
+    .aria-label = Уклони датотеку или дозволи преузимање
 # This is the tooltip of the action button shown when uncommon downloads are
 # blocked.This opens a dialog where the user can choose whether to open the
 # file or remove the download. Opening is the default option.
