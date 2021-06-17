@@ -37,7 +37,7 @@
 <!ENTITY cmd.backup.label               "Направи резервну копију…">
 <!ENTITY cmd.backup.accesskey           "Н">
 <!ENTITY cmd.restore2.label             "Врати">
-<!ENTITY cmd.restore2.accesskey         "О">
+<!ENTITY cmd.restore2.accesskey         "В">
 <!ENTITY cmd.restoreFromFile.label      "Одабери датотеку…">
 <!ENTITY cmd.restoreFromFile.accesskey  "И">
 
