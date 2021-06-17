@@ -22,8 +22,8 @@
 <!ENTITY view.sort.accesskey            "С">
 <!ENTITY view.unsorted.label            "Неуређено">
 <!ENTITY view.unsorted.accesskey        "Н">
-<!ENTITY view.sortAscending.label       "Растући редослед">
-<!ENTITY view.sortAscending.accesskey   "Р">
+<!ENTITY view.sortAscending.label       "По абецедном реду">
+<!ENTITY view.sortAscending.accesskey   "а">
 <!ENTITY view.sortDescending.label      "Опадајући редослед">
 <!ENTITY view.sortDescending.accesskey  "О">
 
@@ -51,7 +51,7 @@
 
 <!ENTITY cmd.find.key  "f">
 
-<!ENTITY maintenance.label      "Увоз и архивирање">
+<!ENTITY maintenance.label      "Увоз и израда резервне копије">
 <!ENTITY maintenance.accesskey  "У">
 <!ENTITY maintenance.tooltip    "Увезите и направите резервну копију обележивача">
 
