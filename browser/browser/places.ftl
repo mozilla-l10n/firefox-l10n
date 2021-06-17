@@ -4,7 +4,7 @@
 
 places-open =
     .label = Отвори
-    .accesskey = O
+    .accesskey = О
 places-open-tab =
     .label = Отвори на новој картици
     .accesskey = О

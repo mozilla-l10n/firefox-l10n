@@ -488,7 +488,7 @@ sharing-warning-disable-for-session =
 
 ## DevTools F12 popup
 
-enable-devtools-popup-description = Да бисте користили пречицу F12, прво отворите DevTools преко Web Developer менија.
+enable-devtools-popup-description = Да бисте користили пречицу F12, из менија „За веб-програмере” отворите алатке за програмере.
 
 ## URL Bar
 
