@@ -7,7 +7,7 @@
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "Управљање">
-<!ENTITY organize.accesskey    "О">
+<!ENTITY organize.accesskey    "У">
 <!ENTITY organize.tooltip      "Организујте обележиваче">
 
 <!ENTITY file.close.label               "Затвори">
@@ -15,16 +15,16 @@
 <!ENTITY cmd.close.key                  "w">
 <!ENTITY views.label                    "Приказ">
 <!ENTITY views.accesskey                "П">
-<!ENTITY views.tooltip                  "Промените свој приказ">
+<!ENTITY views.tooltip                  "Промените приказ">
 <!ENTITY view.columns.label             "Колоне">
-<!ENTITY view.columns.accesskey         "к">
+<!ENTITY view.columns.accesskey         "К">
 <!ENTITY view.sort.label                "Сортирај">
 <!ENTITY view.sort.accesskey            "С">
-<!ENTITY view.unsorted.label            "Неуређено">
-<!ENTITY view.unsorted.accesskey        "Н">
-<!ENTITY view.sortAscending.label       "По абецедном реду">
+<!ENTITY view.unsorted.label            "Без сортирања">
+<!ENTITY view.unsorted.accesskey        "Б">
+<!ENTITY view.sortAscending.label       "По абецедном редоследу">
 <!ENTITY view.sortAscending.accesskey   "а">
-<!ENTITY view.sortDescending.label      "Опадајући редослед">
+<!ENTITY view.sortDescending.label      "По обрнутом редоследу">
 <!ENTITY view.sortDescending.accesskey  "О">
 
 <!ENTITY importBookmarksFromHTML.label     "Увези обележиваче из HTML-а…">
