@@ -205,4 +205,4 @@ was trying to connect. -->
 <!ENTITY enableTls10.note "TLS 1.0 и TLS 1.1 ће бити трајно онемогућени у будућем издању.">
 <!ENTITY enableTls10.label "Омогући TLS 1.0 и 1.1">
 
-<!ENTITY networkProtocolError.longDesc "<p>Страница коју желите да погледате не може бити приказана због грешке мрежног протокола.</p><ul><li>Обавестите власнике веб странице о овом проблему.</li></ul>">
+<!ENTITY networkProtocolError.longDesc "<p>Тражена страница се не може приказати због грешке у мрежном протоколу.</p><ul><li>Обавестите власника веб-сајта о овом проблему.</li></ul>">
