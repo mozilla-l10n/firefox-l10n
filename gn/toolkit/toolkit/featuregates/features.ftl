@@ -21,6 +21,7 @@ experimental-features-media-avif-description = Ko tembiapoite myandypyre, { -bra
 # by various online articles and is technical in nature.
 experimental-features-media-jxl =
     .label = Media: JPEG XL
+experimental-features-media-jxl-description = Ko tembiapoite hendýva ndive, { -brand-short-name } omoneĩ pe JPEG XL (JXL) ysaja. Kóva ha’e ta’ãnga marandurenda iporãvéva ysaja omoneĩva jeku’e okañy’ỹre marandurenda JPEG guive. Eikuaave hag̃ua, eporandu <a data-l10n-name="bugzilla">bug 1539075</a>-pe.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
