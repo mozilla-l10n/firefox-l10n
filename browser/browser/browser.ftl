@@ -520,8 +520,8 @@ urlbar-placeholder-search-mode-other-bookmarks =
     .aria-label = Претражите обележиваче
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
-    .placeholder = Унеси појмове за претрагу
-    .aria-label = Претражи историју
+    .placeholder = Унесите термин за претрагу
+    .aria-label = Претражите историју
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Унесите термин за претрагу
@@ -603,7 +603,7 @@ urlbar-result-action-calculator-result = = { $result }
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
 urlbar-result-action-search-bookmarks = Претражи обележиваче
-urlbar-result-action-search-history = Претражи историју
+urlbar-result-action-search-history = Претражите историју
 urlbar-result-action-search-tabs = Претражи картице
 
 ## Full Screen and Pointer Lock UI
