@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  intro2.label                "Одабрали сте да отворите:">
+<!ENTITY  intro2.label                "Све је спремно за преузимање датотеке:">
 <!ENTITY  from.label                  "Адреса:">
 <!ENTITY  actionQuestion.label        "Како да &brandShortName; обради ову датотеку?">
 
@@ -10,13 +10,13 @@
 <!ENTITY  openWith.accesskey          "О">
 <!ENTITY  other.label                 "Друго…">
 
-<!ENTITY  saveFile.label              "Сачувај датотеку">
+<!ENTITY  saveFile.label              "Сачувај">
 <!ENTITY  saveFile.accesskey          "С">
 
 <!ENTITY  rememberChoice.label        "Користи овај избор за све датотеке овог типа.">
 <!ENTITY  rememberChoice.accesskey    "К">
 
-<!ENTITY  whichIs.label              "Тип датотеке:">
+<!ENTITY  whichIs.label              "Тип:">
 
 <!ENTITY  chooseHandlerMac.label      "Одабери…">
 <!ENTITY  chooseHandlerMac.accesskey  "И">
