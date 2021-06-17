@@ -30,8 +30,8 @@ downloads-cmd-cancel-panel =
     .aria-label = Откажи
 # This message is only displayed on Windows and Linux devices
 downloads-cmd-show-menuitem =
-    .label = Отвори фасциклу
-    .accesskey = ф
+    .label = Прикажи у фасцикли
+    .accesskey = П
 # This message is only displayed on macOS devices
 downloads-cmd-show-menuitem-mac =
     .label = Прикажи у Finder-у
@@ -55,11 +55,11 @@ downloads-cmd-retry =
 downloads-cmd-retry-panel =
     .aria-label = Покушај поново
 downloads-cmd-go-to-download-page =
-    .label = Иди на страницу са преузимањима
+    .label = Иди на страницу преузимања
     .accesskey = И
 downloads-cmd-copy-download-link =
-    .label = Копирај везу за преузимање
-    .accesskey = L
+    .label = Копирај адресу преузимања
+    .accesskey = К
 downloads-cmd-remove-from-history =
     .label = Уклони из историје
     .accesskey = У
@@ -67,8 +67,8 @@ downloads-cmd-clear-list =
     .label = Обриши панел за преглед
     .accesskey = б
 downloads-cmd-clear-downloads =
-    .label = Обриши преузимања
-    .accesskey = ш
+    .label = Обриши листу
+    .accesskey = О
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = Дозволи преузимање
@@ -119,7 +119,7 @@ downloads-history =
 downloads-details =
     .title = Детаљи о преузимању
 downloads-clear-downloads-button =
-    .label = Обриши преузимања
+    .label = Обриши листу
     .tooltiptext = Брише завршена, отказана и неуспешна преузимања
 # This string is shown when there are no items in the Downloads view, when it
 # is displayed inside a browser tab.
