@@ -621,6 +621,7 @@ sync-currently-syncing-prefs =
         [windows] विकल्प
        *[other] वरीयताएँ
     }
+sync-currently-syncing-settings = सेटिंग
 sync-change-options =
     .label = बदलें...
     .accesskey = C
