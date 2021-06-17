@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-printui-title = Штампај
+printui-title = Штампање
 # Dialog title to prompt the user for a filename to save print to PDF.
 printui-save-to-pdf-title = Чување
 # Variables
@@ -67,7 +67,7 @@ printui-margins-custom-right = Десно
 printui-margins-custom-right-inches = Десно (инчи)
 printui-margins-custom-right-mm = Десно (mm)
 printui-system-dialog-link = Штампај помоћу системског дијалога…
-printui-primary-button = Штампај
+printui-primary-button = Одштампај
 printui-primary-button-save = Сачувај
 printui-cancel-button = Откажи
 printui-close-button = Затвори
