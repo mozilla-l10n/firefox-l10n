@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+toolbar-context-menu-new-tab =
+    .label = नया टैब
+    .accesskey = w
 toolbar-context-menu-reload-selected-tab =
     .label = चयनित टैब फिर लोड करें
     .accesskey = R
@@ -17,21 +20,18 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = सभी टैब का चयन करें
     .accesskey = S
-
 toolbar-context-menu-manage-extension =
     .label = एक्सटेंशन प्रबंधित करें
     .accesskey = E
 toolbar-context-menu-remove-extension =
     .label = एक्सटेंशन हटाएँ
     .accesskey = v
-
 # This label is used in the extensions toolbar buttons context menus,
 # a user can use this command to submit to Mozilla an abuse report
 # related to that extension. "Report" is a verb.
 toolbar-context-menu-report-extension =
     .label = एक्सटेंशन के बारे में रिपोर्ट करें
     .accesskey = o
-
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.

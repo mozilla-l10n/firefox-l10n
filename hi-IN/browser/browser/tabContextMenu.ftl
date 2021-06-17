@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+tab-context-new-tab =
+    .label = नया टैब
+    .accesskey = w
 reload-tab =
     .label = टैब फिर लोड करें
     .accesskey = R
@@ -46,9 +49,6 @@ bookmark-tab =
 reopen-in-container =
     .label = कंटेनर में दुबारा से खोलें
     .accesskey = e
-tab-context-open-in-container =
-    .label = नए कंटेनर में खोलें
-    .accesskey = e
 move-to-start =
     .label = शुरू करने के लिए ले जाएँ
     .accesskey = S
@@ -58,10 +58,6 @@ move-to-end =
 move-to-new-window =
     .label = नए विंडो में खिसकाएँ
     .accesskey = W
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 close-tab =
     .label = टैब बंद करें
     .accesskey = C
@@ -74,3 +70,7 @@ move-tabs =
 move-tab =
     .label = टैब हटाएँ
     .accesskey = v
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
