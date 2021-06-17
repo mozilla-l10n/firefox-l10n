@@ -2,8 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-privatebrowsingpage-open-private-window-label = Отвори приватан прозор
-    .accesskey = P
+privatebrowsingpage-open-private-window-label = Отвори приватни прозор
+    .accesskey = в
 about-private-browsing-search-placeholder = Претражи веб
 about-private-browsing-info-title = У приватном прозору сте
 about-private-browsing-info-myths = Чести митови о приватном прегледању
