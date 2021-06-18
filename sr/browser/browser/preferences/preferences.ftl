@@ -406,10 +406,10 @@ update-application-background-enabled =
            *[other] када програм { -brand-short-name } није покренут
         }
     .accesskey = к
-update-application-warning-cross-user-setting = Ово подешавање ће бити примењено на све Windows налоге и на { -brand-short-name } профиле који користе ову инсталацију програма { -brand-short-name }.
+update-application-warning-cross-user-setting = Ово се односи на све корисничке налоге у Windows-у и { -brand-short-name } профиле, ако користе исту инсталацију.
 update-application-use-service =
-    .label = Употреби позадинске сервисе за инсталацију надоградњи
-    .accesskey = з
+    .label = При инсталацији ажурирања користи позадинску услугу
+    .accesskey = н
 update-setting-write-failure-title = Грешка при чувању поставки за ажурирање
 # Variables:
 #   $path (String) - Path to the configuration file
@@ -439,8 +439,8 @@ update-in-progress-cancel-button = &Настави
 
 performance-title = Перформансе
 performance-use-recommended-settings-checkbox =
-    .label = Користи препоручена подешавања перформанси
-    .accesskey = К
+    .label = Препоручена подешавања перформанси
+    .accesskey = ч
 performance-use-recommended-settings-desc = Ова подешавања су прилагођена конфигурацији вашег рачунара и оперативном систему.
 performance-settings-learn-more = Сазнајте више
 performance-allow-hw-accel =
