@@ -27,7 +27,7 @@ connection-proxy-option-manual =
     .label = Manual proxy configuration
     .accesskey = M
 connection-proxy-http = HTTP Proxy
-    .accesskey = H
+    .accesskey = x
 connection-proxy-http-port = Port
     .accesskey = P
 connection-proxy-http-sharing =
@@ -76,7 +76,7 @@ connection-proxy-socks-remote-dns =
     .accesskey = D
 connection-dns-over-https =
     .label = Enable DNS over HTTPS
-    .accesskey = H
+    .accesskey = b
 connection-dns-over-https-url-resolver = Use Provider
     .accesskey = P
 # Variables:
