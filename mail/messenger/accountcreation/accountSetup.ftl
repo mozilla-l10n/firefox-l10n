@@ -106,7 +106,17 @@ account-setup-forum-help = Fforwm cefnogi
 
 ## Results area
 
-account-setup-protocol-title = Dewis y protocol
+# Variables:
+#  $count (Number) - Number of available protocols.
+account-setup-results-area-title =
+    { $count ->
+        [zero] Ffurfwediadau ar gael
+        [one] Ffurfwediadau ar gael
+        [two] Ffurfwediadau ar gael
+        [few] Ffurfwediadau ar gael
+        [many] Ffurfwediadau ar gael
+       *[other] Ffurfwediadau ar gael
+    }
 # Note: IMAP is the name of a protocol.
 account-setup-result-imap = IMAP
 account-setup-result-imap-description = Cadw eich ffolderi a'ch e-byst wedi'u cydweddu ar eich gweinydd
