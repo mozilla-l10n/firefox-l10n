@@ -333,7 +333,13 @@ applications-use-plugin-in =
            *[other] програму { -brand-short-name }
         })
 applications-open-inapp =
-    .label = Отвори у { -brand-short-name }
+    .label =
+        Отвори у { -brand-short-name.gender ->
+            [masculine] { -brand-short-name(case: "loc") }
+            [feminine] { -brand-short-name(case: "loc") }
+            [neuter] { -brand-short-name(case: "loc") }
+           *[other] програму { -brand-short-name }
+        }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
