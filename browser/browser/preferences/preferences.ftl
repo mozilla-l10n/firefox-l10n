@@ -364,9 +364,9 @@ applications-use-os-default-label =
 
 ##
 
-drm-content-header = Садржај са дигиталним правима (DRM)
+drm-content-header = Садржај са заштитом ауторских права (DRM)
 play-drm-content =
-    .label = Пуштај DRM садржај
+    .label = Пуштај садржај заштићен DRM-ом
     .accesskey = П
 play-drm-content-learn-more = Сазнајте више
 update-application-title = { -brand-short-name } ажурирања
