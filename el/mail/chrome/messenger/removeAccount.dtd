@@ -7,7 +7,7 @@
 <!ENTITY removeButton.accesskey       "Α">
 <!ENTITY removeAccount.label          "Αφαίρεση πληροφοριών λογαριασμού">
 <!ENTITY removeAccount.accesskey      "ι">
-<!ENTITY removeAccount.desc           "Διαγράφει μόνο τις πληροφορίες του &brandShortName; για το λογαριασμό. Δεν επηρεάζει τον ίδιο το λογαριασμό στο διακομιστή.">
+<!ENTITY removeAccount.desc           "Διαγράφει μόνο τις πληροφορίες του &brandShortName; για τον λογαριασμό. Δεν επηρεάζει τον ίδιο τον λογαριασμό στον διακομιστή.">
 <!ENTITY removeData.label             "Αφαίρεση δεδομένων μηνυμάτων">
 <!ENTITY removeData.accesskey         "δ">
 <!ENTITY removeDataChat.label         "Αφαίρεση δεδομένων συζητήσεων">
@@ -18,5 +18,5 @@
 <!ENTITY showData.label               "Εμφάνιση τοποθεσίας δεδομένων">
 <!ENTITY showData.accesskey           "Ε">
 <!ENTITY progressPending              "Αφαίρεση επιλεγμένων δεδομένων…">
-<!ENTITY progressSuccess              "Επιτυχής αφαίρεση.">
+<!ENTITY progressSuccess              "Η αφαίρεση έγινε με επιτυχία.">
 <!ENTITY progressFailure              "Αποτυχία αφαίρεσης.">

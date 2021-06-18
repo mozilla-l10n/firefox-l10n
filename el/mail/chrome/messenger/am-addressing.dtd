@@ -8,7 +8,7 @@
 <!ENTITY addressingGroupTitle.label "Διευθυνσιοδότηση">
 <!ENTITY addressingText.label      "Κατά την αναζήτηση διευθύνσεων:">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
-<!ENTITY useGlobal.label           "Χρήση γενικών προτιμήσεων διακομιστή LDAP για αυτό το λογαριασμό">
+<!ENTITY useGlobal.label           "Χρήση γενικών προτιμήσεων διακομιστή LDAP για αυτόν τον λογαριασμό">
 <!ENTITY useGlobal.accesskey       "χ">
 <!ENTITY editDirectories.label     "Επεξεργασία καταλόγων…">
 <!ENTITY editDirectories.accesskey "ξ">
