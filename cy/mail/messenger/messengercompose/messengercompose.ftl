@@ -52,6 +52,9 @@ pill-action-move-cc =
 pill-action-move-bcc =
     .label = Symud i Bcc
     .accesskey = B
+pill-action-expand-list =
+    .label = Ehangu'r Rhestr
+    .accesskey = E
 
 # Attachment widget
 
