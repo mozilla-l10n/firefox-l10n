@@ -3,20 +3,17 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 app-manager-window =
-    .title = Појединости о програму
+    .title = Детаљи о апликацији
     .style = width: 40em; min-height: 20em;
-
 app-manager-remove =
     .label = Уклони
-    .accesskey = R
-
+    .accesskey = У
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
-app-manager-handle-protocol = Наведени програми се могу користити за обраду { $type } везе.
-
+app-manager-handle-protocol = За обраду { $type } веза могу се користити следеће апликације:
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
-app-manager-handle-file = Наведени програми се могу користити за обраду { $type } садржаја.
+app-manager-handle-file = За обраду { $type } садржаја могу се користити следеће апликације:
 
 ## These strings are followed, on a new line,
 ## by the URL or path of the application.
