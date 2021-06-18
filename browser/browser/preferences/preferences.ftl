@@ -381,18 +381,31 @@ update-application-version = Верзија { $version } <a data-l10n-name="lear
 update-history =
     .label = Прикажи историју ажурирања…
     .accesskey = П
+update-application-allow-description =
+    Дозволи { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "dat") }
+        [feminine] { -brand-short-name(case: "dat") }
+        [neuter] { -brand-short-name(case: "dat") }
+       *[other] програму { -brand-short-name }
+    }:
 update-application-auto =
-    .label = Аутоматски ажурира (препоручено)
-    .accesskey = А
+    .label = аутоматско инсталирање ажурирања (препоручено)
+    .accesskey = а
 update-application-check-choose =
-    .label = Провери доступност ажурирања и питај ме о њиховом инсталирању
-    .accesskey = П
+    .label = инсталирање ажурирања након потврде
+    .accesskey = и
 update-application-manual =
     .label = Никадa не проверава ажурирања (не препоручује се)
     .accesskey = Н
 update-application-background-enabled =
-    .label = Када { -brand-short-name } није покренут
-    .accesskey = К
+    .label =
+        { -brand-short-name.gender ->
+            [masculine] када { -brand-short-name } није покренут
+            [feminine] када { -brand-short-name } није покренута
+            [neuter] када { -brand-short-name } није покренуто
+           *[other] када програм { -brand-short-name } није покренут
+        }
+    .accesskey = к
 update-application-warning-cross-user-setting = Ово подешавање ће бити примењено на све Windows налоге и на { -brand-short-name } профиле који користе ову инсталацију програма { -brand-short-name }.
 update-application-use-service =
     .label = Употреби позадинске сервисе за инсталацију надоградњи
