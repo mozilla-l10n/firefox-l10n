@@ -369,13 +369,18 @@ play-drm-content =
     .label = Пуштај садржај заштићен DRM-ом
     .accesskey = П
 play-drm-content-learn-more = Сазнајте више
-update-application-title = { -brand-short-name } ажурирања
+update-application-title =
+    Ажурирања { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "gen") }
+        [feminine] { -brand-short-name(case: "gen") }
+        [neuter] { -brand-short-name(case: "gen") }
+       *[other] програма { -brand-short-name }
+    }
 update-application-description = Учините { -brand-short-name } ажурним за боље перформансе, стабилност и безбедност.
 update-application-version = Верзија { $version } <a data-l10n-name="learn-more">Шта је ново</a>
 update-history =
     .label = Прикажи историју ажурирања…
     .accesskey = П
-update-application-allow-description = Дозволи { -brand-short-name }-у да
 update-application-auto =
     .label = Аутоматски ажурира (препоручено)
     .accesskey = А
