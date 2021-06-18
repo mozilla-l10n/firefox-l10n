@@ -260,7 +260,7 @@ translate-exceptions =
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
-    .label = Користите подешавања вашег оперативног система за “{ $localeName }” за формат датума, времена, бројева и мера.
+    .label = За формат датума, времена, бројева и мерних јединица користи системска подешавања за „{ $localeName }”
 check-user-spelling =
     .label = Проверавај правопис док куцам
     .accesskey = р
