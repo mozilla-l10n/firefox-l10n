@@ -482,11 +482,11 @@ browsing-media-control =
     .accesskey = м
 browsing-media-control-learn-more = Сазнајте више
 browsing-cfr-recommendations =
-    .label = Препоручуј додатке при прегледању
-    .accesskey = р
+    .label = Препоручуј додатке током прегледања
+    .accesskey = д
 browsing-cfr-features =
-    .label = Предлажи функције током прегледања
-    .accesskey = П
+    .label = Препоручуј функције током прегледања
+    .accesskey = ф
 browsing-cfr-recommendations-learn-more = Сазнајте више
 
 ## General Section - Proxy
