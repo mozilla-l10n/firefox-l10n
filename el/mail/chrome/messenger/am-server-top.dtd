@@ -71,7 +71,7 @@
 <!ENTITY abbreviate.label "Προβολή ονομάτων ομάδων συζήτησης σαν:">
 <!ENTITY abbreviateOn.label "Ολόκληρα τα ονόματα (για παράδειγμα, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Συντόμευση ονομάτων (π.χ., 'n.p.m.mail-news')">
-<!ENTITY advancedButton.label "Για προχωρημένους…">
+<!ENTITY advancedButton.label "Σύνθετα…">
 <!ENTITY advancedButton.accesskey "χ">
 <!ENTITY serverDefaultCharset2.label "Προεπιλεγμένη κωδικοποίηση χαρακτήρων:">
 <!ENTITY localPath1.label "Τοπικός φάκελος:">
