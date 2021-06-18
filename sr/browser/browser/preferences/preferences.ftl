@@ -492,7 +492,7 @@ browsing-cfr-recommendations-learn-more = Сазнајте више
 ## General Section - Proxy
 
 network-settings-title = Подешавања мреже
-network-proxy-connection-description = Подесите начин на који се { -brand-short-name } повезује на интернет.
+network-proxy-connection-description = Подесите како { -brand-short-name } приступа интернету.
 network-proxy-connection-learn-more = Сазнајте више
 network-proxy-connection-settings =
     .label = Подешавања…
@@ -986,7 +986,7 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
-addressbar-header = Адресна трака
+addressbar-header = Трака за адресу
 addressbar-suggest = Предлози на траци за адресу се заснивају на:
 addressbar-locbar-history-option =
     .label = Историја прегледања
