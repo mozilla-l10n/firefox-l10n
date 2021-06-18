@@ -45,8 +45,8 @@ onboarding-join-form-signin-label = Већ имате налог?
 onboarding-join-form-signin = Пријавите се
 onboarding-start-browsing-button-label = Претражујте интернет
 onboarding-cards-dismiss =
-    .title = Уклони
-    .aria-label = Уклони
+    .title = Одбаци
+    .aria-label = Одбаци
 
 ## Welcome full page string
 
