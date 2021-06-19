@@ -9,8 +9,6 @@
 <!ENTITY calendar.newevent.button.tooltip         "Utwórz nowe wydarzenie" >
 <!ENTITY calendar.newtask.button.tooltip          "Utwórz nowe zadanie" >
 
-<!ENTITY calendar.unifinder.todoitems.label       "Zadania" >
-
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Pokaż ukończone zadania">
 
 <!ENTITY calendar.today.button.label          "Dzisiaj">
@@ -137,7 +135,7 @@
 <!ENTITY calendar.task-details.organizer.label       "Od:">
 <!ENTITY calendar.task-details.priority.label        "Priorytet:">
 <!ENTITY calendar.task-details.priority.low.label    "Niski">
-<!ENTITY calendar.task-details.priority.normal.label "Normalny">
+<!ENTITY calendar.task-details.priority.normal.label "Zwykły">
 <!ENTITY calendar.task-details.priority.high.label   "Wysoki">
 <!ENTITY calendar.task-details.status.label          "Stan:">
 <!ENTITY calendar.task-details.category.label        "Kategoria:">
@@ -243,8 +241,8 @@
 <!ENTITY priority.level.none.accesskey      "e">
 <!ENTITY priority.level.low                 "Niski">
 <!ENTITY priority.level.low.accesskey       "s">
-<!ENTITY priority.level.normal              "Normalny">
-<!ENTITY priority.level.normal.accesskey    "N">
+<!ENTITY priority.level.normal              "Zwykły">
+<!ENTITY priority.level.normal.accesskey    "Z">
 <!ENTITY priority.level.high                "Wysoki">
 <!ENTITY priority.level.high.accesskey      "W">
 
@@ -355,7 +353,6 @@
 <!ENTITY calendarproperties.color.label                    "Kolor:">
 <!ENTITY calendarproperties.webdav.label                   "iCalendar (ICS)">
 <!ENTITY calendarproperties.caldav.label                   "CalDAV">
-<!ENTITY calendarproperties.wcap.label                     "Sun Java System Calendar Server (WCAP)">
 <!ENTITY calendarproperties.format.label                   "Format:">
 <!ENTITY calendarproperties.location.label                 "Położenie:">
 <!ENTITY calendarproperties.refreshInterval.label          "Odświeżaj kalendarz:">
@@ -364,7 +361,6 @@
 <!ENTITY calendarproperties.readonly.label                 "Tylko do odczytu">
 <!ENTITY calendarproperties.firealarms.label               "Wyświetlaj powiadomienia">
 <!ENTITY calendarproperties.cache3.label                   "Dostępność offline">
-<!ENTITY calendarproperties.enabled.label                  "Włącz ten kalendarz">
 <!ENTITY calendarproperties.enabled2.label                 "Włącz ten kalendarz">
 <!ENTITY calendarproperties.forceDisabled.label            "Nie znaleziono dostawcy dla tego kalendarza. Zdarza się to często, gdy zostały wyłączone lub odinstalowane pewne rozszerzenia.">
 <!ENTITY calendarproperties.unsubscribe.label              "Zrezygnuj z subskrypcji">
