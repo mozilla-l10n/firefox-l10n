@@ -97,6 +97,15 @@ upgrade-dialog-pin-title =
                *[other] aplikaci { -brand-short-name }
             } na lištu
     }
+# The English macOS string avoids repeating "Keep" a third time, so if your
+# translations don't repeat anyway, the same string can be used cross-platform.
+upgrade-dialog-pin-subtitle =
+    Mějte nejnovější { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "acc") }
+        [feminine] { -brand-short-name(case: "acc") }
+        [neuter] { -brand-short-name(case: "acc") }
+       *[other] aplikaci { -brand-short-name }
+    } stále na dosah.
 upgrade-dialog-pin-primary-button =
     { PLATFORM() ->
         [macos] Připnout do docku
