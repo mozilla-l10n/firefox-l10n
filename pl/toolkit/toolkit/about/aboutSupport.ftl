@@ -346,6 +346,7 @@ can-sandbox-content = Separacja procesów
 can-sandbox-media = Separacja wtyczek
 content-sandbox-level = Poziom separacji treści
 effective-content-sandbox-level = Efektywny poziom separacji treści
+content-win32k-lockdown-state = Stan blokady Win32k dla procesu treści
 sandbox-proc-type-content = zawartość
 sandbox-proc-type-file = zawartość pliku
 sandbox-proc-type-media-plugin = wtyczka
