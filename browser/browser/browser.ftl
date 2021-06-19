@@ -446,6 +446,8 @@ popup-select-microphone-device =
     .accesskey = M
 popup-select-microphone-icon =
     .tooltiptext = Mikrofon
+popup-select-speaker-icon =
+    .tooltiptext = Głośniki
 popup-all-windows-shared = Wszystkie widoczne na ekranie okna zostaną udostępnione.
 popup-screen-sharing-not-now =
     .label = Nie teraz
@@ -691,6 +693,12 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = Wyślij do { -pocket-brand-name }
     .tooltiptext = Wyślij do { -pocket-brand-name }
+
+## Repair text encoding toolbar button
+
+repair-text-encoding-button =
+    .label = Napraw kodowanie tekstu
+    .tooltiptext = Spróbuj wykryć właściwe kodowanie tekstu na podstawie treści strony
 
 ## Customize Toolbar Buttons
 
