@@ -12,7 +12,7 @@
 
 <!ENTITY lowestPriorityCmd.label "Najniższy">
 <!ENTITY lowPriorityCmd.label "Niski">
-<!ENTITY normalPriorityCmd.label "Normalny">
+<!ENTITY normalPriorityCmd.label "Zwykły">
 <!ENTITY highPriorityCmd.label "Wysoki">
 <!ENTITY highestPriorityCmd.label "Najwyższy">
 
@@ -27,7 +27,6 @@
 <!ENTITY contextOutgoing.accesskey "w">
 <!ENTITY contextArchive.label "Archiwizowania">
 <!ENTITY contextArchive.accesskey "c">
-
 <!ENTITY contextPeriodic.accesskey "o">
 
 <!ENTITY filterActionDesc.label "…i wykonuj następujące czynności:">

@@ -83,9 +83,6 @@
 <!ENTITY reorderAttachmentsCmd.accesskey "k">
 <!ENTITY reorderAttachmentsCmd.key "x">
 <!ENTITY toggleAttachmentPaneCmd.label "Lista załączników">
-<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
-     For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
-     as attachments.accesskey. -->
 <!ENTITY toggleAttachmentPaneCmd.accesskey "a">
 <!ENTITY selectAllCmd.accesskey "a">
 <!ENTITY findBarCmd.label "Znajdź…">
@@ -185,8 +182,8 @@
 <!ENTITY lowestPriorityCmd.accesskey "a">
 <!ENTITY lowPriorityCmd.label "Niski">
 <!ENTITY lowPriorityCmd.accesskey "s">
-<!ENTITY normalPriorityCmd.label "Normalny">
-<!ENTITY normalPriorityCmd.accesskey "o">
+<!ENTITY normalPriorityCmd.label "Zwykły">
+<!ENTITY normalPriorityCmd.accesskey "Z">
 <!ENTITY highPriorityCmd.label "Wysoki">
 <!ENTITY highPriorityCmd.accesskey "W">
 <!ENTITY highestPriorityCmd.label "Najwyższy">

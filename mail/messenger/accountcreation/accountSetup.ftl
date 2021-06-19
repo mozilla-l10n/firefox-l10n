@@ -185,12 +185,29 @@ account-setup-warning-cleartext = Serwer <b>{ $server }</b> nie obsługuje szyfr
 account-setup-warning-cleartext-details = Skonfigurowany serwer nie zapewnia szyfrowania połączeń, hasła i wszystkie inne dane będą przesyłane otwartym tekstem, co grozi ich przechwyceniem przez osoby trzecie.
 account-setup-insecure-server-checkbox = Rozumiem ryzyko
     .accesskey = R
+account-setup-insecure-description = { -brand-short-name } użyje dostarczonej konfiguracji dla tego konta, jednakże administrator lub operator usługi pocztowej powinien zostać powiadomiony o tych nieprawidłowych połączeniach. Więcej informacji na ten temat można znaleźć w <a data-l10n-name="thunderbird-faq-link">dokumencie FAQ Thunderbirda</a>.
+insecure-dialog-cancel-button = Zmień ustawienia
+    .accesskey = Z
+insecure-dialog-confirm-button = Potwierdź
+    .accesskey = P
 
 ## Warning Exchange confirmation dialog
 
+# Variables:
+#  $domain (String): The name of the server where the configuration was found, e.g. rackspace.com.
+exchange-dialog-question = { -brand-short-name } znalazł informacje o konfiguracji tego konta w serwisie { $domain }. Czy chcesz kontynuować i wysłać swoje dane logowania?
+exchange-dialog-confirm-button = Zaloguj się
+exchange-dialog-cancel-button = Anuluj
 
 ## Alert dialogs
 
+account-setup-creation-error-title = Błąd przy tworzeniu konta
+account-setup-error-server-exists = Serwer poczty przychodzącej już istnieje.
+account-setup-confirm-advanced-title = Potwierdź konfigurację zaawansowaną
+account-setup-confirm-advanced-description = To okno zostanie zamknięte, a konto z obecnymi ustawieniami zostanie utworzone, nawet jeśli konfiguracja jest niepoprawna. Czy chcesz kontynuować?
 
 ## Addon installation section
 
+account-setup-addon-install-title = Zainstaluj
+account-setup-addon-install-intro = Dodatek dostarczany przez zewnętrznego producenta może umożliwić dostęp do konta pocztowego na tym serwerze:
+account-setup-addon-no-protocol = Ten serwer poczty nie obsługuje otwartych protokołów. { account-setup-addon-install-intro }
