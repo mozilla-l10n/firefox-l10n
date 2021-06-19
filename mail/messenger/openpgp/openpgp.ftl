@@ -303,6 +303,9 @@ openpgp-keygen-external-success = Zapisano zewnętrzny identyfikator klucza GnuP
 openpgp-radio-none =
     .label = Żaden
 openpgp-radio-none-desc = Nie używaj OpenPGP dla tej tożsamości.
+openpgp-radio-key-not-usable = Ten klucz nie może być używany jako klucz osobisty, ponieważ brakuje tajnego klucza.
+openpgp-radio-key-not-accepted = Aby używać tego klucza, musisz zatwierdzić go jako klucz osobisty.
+openpgp-radio-key-not-found = Nie można odnaleźć tego klucza. Jeśli chcesz go użyć, musisz zaimportować go do programu { -brand-short-name }.
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = Wygasa: { $date }
 openpgp-key-expires-image =
@@ -458,18 +461,13 @@ openpgp-export-secret-fail = <b>Nie można wyeksportować wybranego tajnego kluc
 # Strings in keyObj.jsm
 key-ring-pub-key-revoked = Klucz { $userId } (identyfikator klucza: { $keyId }) jest unieważniony.
 key-ring-pub-key-expired = Klucz { $userId } (identyfikator klucza: { $keyId }) wygasł.
-key-ring-key-disabled = Klucz { $userId } (identyfikator klucza: { $keyId }) jest wyłączony; nie może być używany.
-key-ring-key-invalid = Klucz { $userId } (identyfikator klucza: { $keyId }) jest nieprawidłowy. Proszę zastanowić się nad jego poprawną weryfikacją.
-key-ring-key-not-trusted = Klucz { $userId } (identyfikator klucza: { $keyId }) nie jest wystarczająco zaufany. Aby używać go do podpisywania, proszę ustawić poziom zaufania swojego klucza na „bezwzględny”.
 key-ring-no-secret-key = Wygląda na to, że w Twojej bazie kluczy nie ma tajnego klucza dla { $userId } (identyfikator klucza: { $keyId }); nie można używać tego klucza do podpisywania.
 key-ring-pub-key-not-for-signing = Klucz { $userId } (identyfikator klucza: { $keyId }) nie może być używany do podpisywania.
 key-ring-pub-key-not-for-encryption = Klucz { $userId } (identyfikator klucza: { $keyId }) nie może być używany do szyfrowania.
 key-ring-sign-sub-keys-revoked = Wszystkie klucze podrzędne do podpisywania klucza { $userId } (identyfikator klucza: { $keyId }) są unieważnione.
 key-ring-sign-sub-keys-expired = Wszystkie klucze podrzędne do podpisywania klucza { $userId } (identyfikator klucza: { $keyId }) wygasły.
-key-ring-sign-sub-keys-unusable = Wszystkie klucze podrzędne do podpisywania klucza { $userId } (identyfikator klucza: { $keyId }) są unieważnione, wygasły lub w inny sposób nie nadają się do użytku.
 key-ring-enc-sub-keys-revoked = Wszystkie klucze podrzędne do szyfrowania klucza { $userId } (identyfikator klucza: { $keyId }) są unieważnione.
 key-ring-enc-sub-keys-expired = Wszystkie klucze podrzędne do szyfrowania klucza { $userId } (identyfikator klucza: { $keyId }) wygasły.
-key-ring-enc-sub-keys-unusable = Wszystkie klucze podrzędne do szyfrowania klucza { $userId } (identyfikator klucza: { $keyId }) są unieważnione, wygasły lub w inny sposób nie nadają się do użytku.
 # Strings in gnupg-keylist.jsm
 keyring-photo = Zdjęcie
 user-att-photo = Atrybut użytkownika (obraz JPEG)
@@ -642,5 +640,6 @@ dlg-button-retry = &Ponów
 dlg-button-skip = Po&miń
 # Strings used in enigmailCommon.js
 enig-error = Błąd OpenPGP
+# Strings used in enigmailMsgBox.js
 enig-alert-title =
     .title = Komunikat OpenPGP

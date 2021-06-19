@@ -47,6 +47,12 @@ toolbar-undelete-button =
     .label = Przywróć
     .tooltiptext = Przywróć usunięte wiadomości
 
+## View
+
+menu-view-repair-text-encoding =
+    .label = Napraw kodowanie tekstu
+    .accesskey = k
+
 ## View / Layout
 
 mail-uidensity-label =
