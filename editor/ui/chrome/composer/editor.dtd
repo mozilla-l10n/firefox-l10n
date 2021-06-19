@@ -45,7 +45,7 @@
 <!-- Display Mode toolbar and View menu items -->
 <!ENTITY NormalModeTab.label "Zwykły">
 <!ENTITY NormalMode.label "Zwykły tryb edycji">
-<!ENTITY NormalMode.accesskey "Z">
+<!ENTITY NormalMode.accesskey "w">
 <!ENTITY NormalMode.tooltip "Pokaż obramowanie tabeli oraz kotwice">
 <!ENTITY AllTagsModeTab.label "Znaczniki">
 <!ENTITY AllTagsMode.label "Pokaż znaczniki">
