@@ -638,8 +638,8 @@ search-suggestions-option =
     .label = Приказуј предлоге за претрагу
     .accesskey = П
 search-show-suggestions-url-bar-option =
-    .label = Прикажи предлоге претраге у резултатима адресне траке
-    .accesskey = г
+    .label = У траци за адресу
+    .accesskey = ц
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
