@@ -68,7 +68,13 @@ pane-experimental-description2 =
 pane-experimental-reset =
     .label = Врати подразумевано
     .accesskey = В
-help-button-label = { -brand-short-name } подршка
+help-button-label =
+    { -brand-short-name.gender ->
+        [masculine] Подршка за { -brand-short-name(case: "acc") }
+        [feminine] Подршка за { -brand-short-name(case: "acc") }
+        [neuter] Подршка за { -brand-short-name(case: "acc") }
+       *[other] Подршка за програм { -brand-short-name }
+    }
 addons-button-label = Додаци и теме
 focus-search =
     .key = f
@@ -79,8 +85,20 @@ close-button =
 
 feature-enable-requires-restart = { -brand-short-name } се мора поново покренути да би се омогућила ова функционалност.
 feature-disable-requires-restart = { -brand-short-name } се мора поново покренути да би се онемогућила ова функционалност.
-should-restart-title = Рестартовање { -brand-short-name }-а
-should-restart-ok = Рестартуј { -brand-short-name }
+should-restart-title =
+    Рестартовање { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "gen") }
+        [feminine] { -brand-short-name(case: "gen") }
+        [neuter] { -brand-short-name(case: "gen") }
+       *[other] програма { -brand-short-name }
+    }
+should-restart-ok =
+    Рестартуј { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "acc") }
+        [feminine] { -brand-short-name(case: "acc") }
+        [neuter] { -brand-short-name(case: "acc") }
+       *[other] програм { -brand-short-name }
+    }
 cancel-no-restart-button = Откажи
 restart-later = Рестартуј касније
 
