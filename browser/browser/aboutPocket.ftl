@@ -15,6 +15,7 @@ pocket-panel-saved-error-generic = Wystąpił błąd podczas wysyłania do { -po
 pocket-panel-saved-error-tag-length = Etykiety są ograniczone do 25 znaków
 pocket-panel-saved-error-only-links = Tylko odnośniki mogą być przesyłane
 pocket-panel-saved-error-not-saved = Nie przesłano strony
+pocket-panel-saved-error-no-internet = Połączenie z Internetem jest konieczne do przesyłania do { -pocket-brand-name }. Proszę połączyć się z Internetem i spróbować ponownie.
 pocket-panel-saved-page-removed = Usunięto stronę
 pocket-panel-saved-page-saved = Wysłano do { -pocket-brand-name }
 pocket-panel-saved-processing-remove = Usuwanie strony…
@@ -33,9 +34,9 @@ pocket-panel-signup-learn-more = Więcej informacji
 pocket-panel-signup-login = Zaloguj się
 pocket-panel-signup-signup-email = Utwórz konto z adresem e-mail
 pocket-panel-signup-signup-cta = Utwórz konto w { -pocket-brand-name }. Jest darmowe.
-pocket-panel-signup-signup-firefox = Utwórz konto z Firefoksem
-pocket-panel-signup-tagline = Wysyłaj artykuły i filmy z Firefoksa do { -pocket-brand-name }, aby wyświetlić je o dowolnej porze na dowolnym urządzeniu.
-pocket-panel-signup-tagline-story-one = Kliknij przycisk { -pocket-brand-name }, aby wysłać dowolny artykuł, film lub stronę z Firefoksa.
+pocket-panel-signup-signup-firefox = Utwórz konto z przeglądarką { -brand-product-name }
+pocket-panel-signup-tagline = Wysyłaj artykuły i filmy z przeglądarki { -brand-product-name } do { -pocket-brand-name }, aby wyświetlić je o dowolnej porze na dowolnym urządzeniu.
+pocket-panel-signup-tagline-story-one = Kliknij przycisk { -pocket-brand-name }, aby wysłać dowolny artykuł, film lub stronę z przeglądarki { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Czytaj z { -pocket-brand-name } o dowolnej porze na dowolnym urządzeniu.
 
 ## about:pocket-home panel
