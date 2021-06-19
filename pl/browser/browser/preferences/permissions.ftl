@@ -90,6 +90,10 @@ permissions-exceptions-cookie-desc = Określ zasady akceptacji ciasteczek i dan
 
 ## Exceptions - HTTPS-Only Mode
 
+permissions-exceptions-https-only-window =
+    .title = Tryb używania wyłącznie protokołu HTTPS — wyjątki
+    .style = { permissions-window.style }
+permissions-exceptions-https-only-desc = Określ, na których witrynach nie korzystać z trybu używania wyłącznie protokołu HTTPS. { -brand-short-name } nie będzie próbował przełączyć na zabezpieczone połączenie HTTPS na tych witrynach. Wyjątki nie są uwzględniane w oknach prywatnych.
 
 ## Exceptions - Pop-ups
 
