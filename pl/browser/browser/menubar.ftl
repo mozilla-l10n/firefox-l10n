@@ -173,6 +173,9 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = Kodowanie tekstu
     .accesskey = K
+menu-view-repair-text-encoding =
+    .label = Napraw kodowanie tekstu
+    .accesskey = k
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -227,6 +230,8 @@ menu-bookmarks-show-all =
     .label = Wyświetl wszystkie zakładki
 menu-bookmark-this-page =
     .label = Dodaj zakładkę do tej strony
+menu-bookmarks-manage =
+    .label = Zarządzaj zakładkami
 menu-bookmark-current-tab =
     .label = Dodaj zakładkę do tej karty
 menu-bookmark-edit =
@@ -254,15 +259,15 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Zaloguj się w przeglądarce { -brand-product-name }…
     .accesskey = Z
+menu-tools-turn-on-sync =
+    .label = Włącz { -sync-brand-short-name(case: "acc", capitalization: "lower") }…
+    .accesskey = W
 menu-tools-addons-and-themes =
     .label = Dodatki i motywy
     .accesskey = D
 menu-tools-fxa-sign-in2 =
     .label = Zaloguj się
     .accesskey = Z
-menu-tools-turn-on-sync =
-    .label = Włącz { -sync-brand-short-name(case: "acc", capitalization: "lower") }…
-    .accesskey = W
 menu-tools-turn-on-sync2 =
     .label = Włącz synchronizację…
     .accesskey = W
@@ -287,13 +292,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Informacje o stronie
     .accesskey = m
-menu-settings =
-    .label = Ustawienia
-    .accesskey =
-        { PLATFORM() ->
-            [windows] U
-           *[other] U
-        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -304,6 +302,13 @@ menu-preferences =
         { PLATFORM() ->
             [windows] O
            *[other] r
+        }
+menu-settings =
+    .label = Ustawienia
+    .accesskey =
+        { PLATFORM() ->
+            [windows] U
+           *[other] U
         }
 menu-tools-layout-debugger =
     .label = Debuger układu
@@ -342,14 +347,12 @@ menu-help-import-from-another-browser =
 menu-help-keyboard-shortcuts =
     .label = Skróty klawiaturowe
     .accesskey = S
-menu-get-help =
-    .label = Pomoc
-    .accesskey = P
 menu-help-troubleshooting-info =
     .label = Informacje do rozwiązywania problemów
     .accesskey = n
-menu-help-taskmanager =
-    .label = Menedżer zadań
+menu-get-help =
+    .label = Pomoc
+    .accesskey = P
 menu-help-more-troubleshooting-info =
     .label = Więcej informacji do rozwiązywania problemów
     .accesskey = n

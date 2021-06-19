@@ -61,6 +61,8 @@ options-screenshot-label = Zapisywanie obrazu strony
 options-screenshot-clipboard-label = Zachowywanie w schowku
 options-screenshot-clipboard-tooltip =
     .title = Zachowywanie bezpośrednio w schowku zrobionych zrzutów stron
+# Label for the checkbox that toggles screenshot to clipboard feature
+options-screenshot-clipboard-only-label = Zachowywanie tylko w schowku
 options-screenshot-clipboard-tooltip2 =
     .title = Zachowuje zrzut bezpośrednio w schowku
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
