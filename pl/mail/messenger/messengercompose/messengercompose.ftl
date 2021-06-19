@@ -11,6 +11,9 @@ remove-address-row-type = Usuń adresy z pola „{ $type }”
 remove-address-row-type-label =
     .tooltiptext = Usuń adresy z pola „{ $type }”
 #   $type (String) - the type of the addressing row
+remove-address-row-button =
+    .title = Usuń adresy z pola „{ $type }”
+#   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type-aria-label =
     { $count ->
@@ -43,6 +46,9 @@ pill-action-move-cc =
 pill-action-move-bcc =
     .label = Przenieś do pola „Ukryta kopia”
     .accesskey = U
+pill-action-expand-list =
+    .label = Rozwiń listę
+    .accesskey = R
 
 # Attachment widget
 
@@ -166,3 +172,9 @@ many-public-recipients-bcc =
 many-public-recipients-ignore =
     .label = Ujawnij odbiorców
     .accesskey = w
+
+## Notifications
+
+# Variables:
+# $identity (string) - The name of the used identity, most likely an email address.
+compose-missing-identity-warning = Nie odnaleziono unikalnej tożsamości pasującej do adresu nadawcy. Wiadomość zostanie wysłana za pomocą obecnego pola nadawcy i ustawień z tożsamości „{ $identity }”.
