@@ -159,6 +159,7 @@ language-name-ru = Rosyjski
 language-name-rw = Kinya-ruanda
 language-name-sa = Sanskryt
 language-name-sc = Sardyński
+language-name-sco = Scots
 language-name-sd = Sindhi
 language-name-se = Lapoński północny
 language-name-sg = Sango
