@@ -20,7 +20,6 @@ account-setup-name-input =
     .placeholder = Jan Kowalski
 account-setup-name-info-icon =
     .title = Twoje imię i nazwisko lub pseudonim, tak jak będą wyświetlane innym
-account-setup-name-warning = Proszę podać imię i nazwisko lub pseudonim
 account-setup-name-warning-icon =
     .title = { account-setup-name-warning }
 account-setup-email-label = Adres e-mail
@@ -29,7 +28,6 @@ account-setup-email-input =
     .placeholder = jan.kowalski@example.com
 account-setup-email-info-icon =
     .title = Twój istniejący adres e-mail
-account-setup-email-warning = Nieprawidłowy adres e-mail
 account-setup-email-warning-icon =
     .title = { account-setup-email-warning }
 account-setup-password-label = Hasło
@@ -108,7 +106,13 @@ account-setup-forum-help = Forum pomocy
 
 ## Results area
 
-account-setup-protocol-title = Wybierz protokół
+# Variables:
+#  $count (Number) - Number of available protocols.
+account-setup-results-area-title =
+    { $count ->
+        [one] Dostępna konfiguracja
+       *[other] Dostępne konfiguracje
+    }
 # Note: IMAP is the name of a protocol.
 account-setup-result-imap = IMAP
 account-setup-result-imap-description = Foldery i poczta synchronizowane na serwerze
@@ -122,6 +126,15 @@ account-setup-incoming-title = Serwer poczty przychodzącej
 account-setup-outgoing-title = Serwer poczty wychodzącej
 account-setup-username-title = Nazwa użytkownika
 account-setup-exchange-title = Serwer
+account-setup-result-smtp = SMTP
+account-setup-result-no-encryption = Bez szyfrowania
+account-setup-result-ssl = SSL/TLS
+account-setup-result-starttls = STARTTLS
+account-setup-result-outgoing-existing = Użyj skonfigurowanego wcześniej serwera poczty wychodzącej
+# Variables:
+#  $incoming (String): The email/username used to log into the incoming server
+#  $outgoing (String): The email/username used to log into the outgoing server
+account-setup-result-username-different = Nazwa użytkownika dla serwera poczty przychodzącej: { $incoming }, nazwa użytkownika dla serwera poczty wychodzącej: { $outgoing }
 
 ## Error messages
 
@@ -131,32 +144,53 @@ account-setup-credentials-wrong = Uwierzytelnienie się nie powiodło. Sprawdź 
 account-setup-find-settings-failed = { -brand-short-name } nie znalazł ustawień konta.
 account-setup-exchange-config-unverifiable = Konfiguracja nie mogła zostać zweryfikowana. Jeśli nazwa użytkownika i hasło są poprawne, to prawdopodobnie administrator serwera wyłączył wybraną konfigurację dla tego konta. Spróbuj wybrać inny protokół.
 
-## Manual config area
+## Manual configuration area
 
 account-setup-manual-config-title = Konfiguracja serwera
-account-setup-incoming-protocol-label = Protokół poczty przychodzącej
+account-setup-incoming-server-legend = Serwer poczty przychodzącej
+account-setup-protocol-label = Protokół:
 protocol-imap-option = { account-setup-result-imap }
 protocol-pop-option = { account-setup-result-pop }
-account-setup-outgoing-protocol-label = Protokół poczty wychodzącej
-outgoing-protocol = SMTP
-account-setup-incoming-server-label = Serwer poczty przychodzącej
-account-setup-outgoing-server-label = Serwer poczty wychodzącej
-account-setup-incoming-port-label = Port poczty przychodzącej
-account-setup-outoing-port-label = Port poczty wychodzącej
-account-setup-incoming-ssl-label = SSL poczty przychodzącej
-account-setup-outgoing-ssl-label = SSL poczty wychodzącej
+protocol-exchange-option = { account-setup-result-exchange }
+account-setup-hostname-label = Adres serwera:
+account-setup-port-label = Port:
+    .title = Wartość 0 spowoduje użycie automatycznego wykrywania
+account-setup-auto-description = { -brand-short-name } spróbuje automatycznie wykryć wartości pól, które są puste.
+account-setup-ssl-label = Bezpieczeństwo połączenia:
+account-setup-outgoing-server-legend = Serwer poczty wychodzącej
+
+## Incoming/Outgoing SSL Authentication options
+
 ssl-autodetect-option = Wykryj
+ssl-no-authentication-option = Bez uwierzytelniania
+ssl-cleartext-password-option = Zwykłe hasło
+ssl-encrypted-password-option = Szyfrowane hasło
+
+## Incoming/Outgoing SSL options
+
 ssl-noencryption-option = Bez szyfrowania
-ssl-starttls-option = STARTTLS
-ssl-tls-option = SSL/TLS
-account-setup-incoming-auth-label = Uwierzytelnianie poczty przychodzącej
-account-setup-outgoing-auth-label = Uwierzytelnianie poczty wychodzącej
-account-setup-incoming-username-label = Nazwa użytkownika poczty przychodzącej
-account-setup-outgoing-username-label = Nazwa użytkownika poczty wychodzącej
+account-setup-auth-label = Metoda uwierzytelniania:
+account-setup-username-label = Nazwa użytkownika:
 account-setup-advanced-setup-button = Utwórz konto i edytuj jego ustawienia
     .accesskey = e
 
-## Warning insecure server
+## Warning insecure server dialog
 
+account-setup-insecure-title = Ostrzeżenie!
+account-setup-insecure-incoming-title = Ustawienia poczty przychodzącej:
+account-setup-insecure-outgoing-title = Ustawienia poczty wychodzącej:
+# Variables:
+#  $server (String): The name of the hostname of the server the user was trying to connect to.
+account-setup-warning-cleartext = Serwer <b>{ $server }</b> nie obsługuje szyfrowania połączeń.
+account-setup-warning-cleartext-details = Skonfigurowany serwer nie zapewnia szyfrowania połączeń, hasła i wszystkie inne dane będą przesyłane otwartym tekstem, co grozi ich przechwyceniem przez osoby trzecie.
 account-setup-insecure-server-checkbox = Rozumiem ryzyko
     .accesskey = R
+
+## Warning Exchange confirmation dialog
+
+
+## Alert dialogs
+
+
+## Addon installation section
+
