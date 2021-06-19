@@ -394,7 +394,13 @@ update-application-title =
         [neuter] { -brand-short-name(case: "gen") }
        *[other] програма { -brand-short-name }
     }
-update-application-description = Учините { -brand-short-name } ажурним за боље перформансе, стабилност и безбедност.
+update-application-description =
+    Ради побољшаних перформанси, стабилности и безбедности редовно ажурирајте { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "acc") }
+        [feminine] { -brand-short-name(case: "acc") }
+        [neuter] { -brand-short-name(case: "acc") }
+       *[other] програм { -brand-short-name }
+    }.
 update-application-version = Верзија { $version } <a data-l10n-name="learn-more">Шта је ново</a>
 update-history =
     .label = Прикажи историју ажурирања…
