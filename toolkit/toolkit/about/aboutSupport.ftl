@@ -117,7 +117,7 @@ a11y-handler-used = Saavutettavuuskäsittelijää käytetty
 a11y-instantiator = Saavutettavuuden käynnistänyt ohjelma
 library-version-title = Kirjastojen versiot
 copy-text-to-clipboard-label = Kopioi teksti leikepöydälle
-copy-raw-data-to-clipboard-label = Kopioi muokkaamaton data leikepöydälle
+copy-raw-data-to-clipboard-label = Kopioi käsittelemätön data leikepöydälle
 sandbox-title = Hiekkalaatikko
 sandbox-sys-call-log-title = Hylätyt järjestelmäkutsut
 sandbox-sys-call-index = #
@@ -251,7 +251,7 @@ pending-reports =
         [one] Kaikki kaatumisilmoitukset (sisältäen { $reports } lähetyslupaa odottavan ilmoituksen annetulla aikarajoituksella)
        *[other] Kaikki kaatumisilmoitukset (sisältäen { $reports } lähetyslupaa odottavaa ilmoitusta annetulla aikarajoituksella)
     }
-raw-data-copied = Muokkaamaton data kopioitiin leikepöydälle
+raw-data-copied = Käsittelemätön data kopioitiin leikepöydälle
 text-copied = Teksti kopioitiin leikepöydälle
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
