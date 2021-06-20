@@ -35,6 +35,7 @@ third-party-warning-icon =
     .title = { -brand-short-name } kaatui tämän moduulin koodissa
 third-party-status-loaded = Ladattu
 third-party-status-blocked = Estetty
+third-party-status-redirected = Uudelleenohjattu
 third-party-button-copy-to-clipboard = Kopioi käsittelemätön data leikepöydälle
 third-party-button-open =
     .title = Avaa tiedoston sijainti…
