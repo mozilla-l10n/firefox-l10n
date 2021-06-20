@@ -8,6 +8,7 @@
 ##
 
 process-type-web = Verkkosisältö
+process-type-browser = Pääprosessi
 # process used to run privileged about pages,
 # such as about:home
 process-type-privilegedabout = Etuoikeutettu about-sivu
@@ -30,11 +31,15 @@ process-type-prealloc = Esijaettu
 ## Localization for Gecko process types defined in GeckoProcessTypes.h
 ##
 
+process-type-default = Pääprosessi
+process-type-tab = Välilehti
 # process used to communicate with the GPU for
 # graphics acceleration
 process-type-gpu = GPU
 # process used to perform network operations
 process-type-socket = Pistoke
+# process used to decode media
+process-type-rdd = RDD
 
 ##
 ## Other

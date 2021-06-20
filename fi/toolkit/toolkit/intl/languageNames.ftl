@@ -159,6 +159,7 @@ language-name-ru = venäjä
 language-name-rw = ruanda
 language-name-sa = sanskrit
 language-name-sc = sardi
+language-name-sco = skotti
 language-name-sd = sindhi
 language-name-se = pohjoissaame
 language-name-sg = sango

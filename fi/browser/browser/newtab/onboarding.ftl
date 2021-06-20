@@ -282,6 +282,9 @@ mr1-onboarding-reduce-motion-button-label = Poista animaatiot käytöstä
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
+# This string will be used on welcome page primary button label
+# when Firefox is both pinned and default
+mr1-onboarding-get-started-primary-button-label = Aloita
 mr1-onboarding-welcome-header =
     { -brand-short-name.case-status ->
         [with-cases] Tervetuloa { -brand-short-name(case: "illative") }
