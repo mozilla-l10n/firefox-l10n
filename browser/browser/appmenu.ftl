@@ -5,6 +5,12 @@
 
 ## App Menu
 
+appmenuitem-update-banner3 =
+    .label-update-downloading = { -brand-shorter-name } жаңартуы жүктелуде
+    .label-update-available = Жаңарту қолжетімді — қазір жүктеп алу
+    .label-update-manual = Жаңарту қолжетімді — қазір жүктеп алу
+    .label-update-unsupported = Жаңарту мүмкін емес — жүйе үйлесімсіз
+    .label-update-restart = Жаңарту қолжетімді — қазір қайта қосу
 appmenuitem-protection-dashboard-title = Қорғаныс панелі
 appmenuitem-customize-mode =
     .label = Баптау…
