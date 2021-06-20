@@ -9,6 +9,9 @@ about-rights-notification-text = { -brand-short-name } је слободан и 
 addons-and-themes-button =
     .label = Додаци и теме
     .tooltip = Управљајте вашим додацима
+redirect-msg-button =
+    .label = Преусмерење
+    .tooltiptext = Преусмери изабрану поруку
 
 ## Folder Pane
 
@@ -18,6 +21,9 @@ addons-and-themes-button =
 
 ## Menu
 
+redirect-msg-menuitem =
+    .label = Преусмери
+    .accesskey = у
 
 ## AppMenu
 
@@ -27,12 +33,18 @@ appmenu-preferences =
     .label = Поставке
 appmenu-addons-and-themes =
     .label = Додаци и теме
+appmenu-redirect-msg =
+    .label = Преусмери
 
 ## Context menu
 
+context-menu-redirect-msg =
+    .label = Преусмери
 
 ## Message header pane
 
+other-action-redirect-msg =
+    .label = Преусмери
 
 ## Action Button Context Menu
 
