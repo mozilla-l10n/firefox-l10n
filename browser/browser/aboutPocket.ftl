@@ -15,6 +15,7 @@ pocket-panel-saved-error-generic = Der opstod en fejl ved forsøg på at gemme t
 pocket-panel-saved-error-tag-length = Tags er begrænset til 25 tegn
 pocket-panel-saved-error-only-links = Kun links kan gemmes
 pocket-panel-saved-error-not-saved = Siden blev ikke gemt
+pocket-panel-saved-error-no-internet = Du skal være forbundet til internettet for at kunne gemme ting i { -pocket-brand-name }. Opret forbindelse til internettet og prøv igen.
 pocket-panel-saved-page-removed = Siden er fjernet
 pocket-panel-saved-page-saved = Gemt til { -pocket-brand-name }
 pocket-panel-saved-processing-remove = Fjerner side…
