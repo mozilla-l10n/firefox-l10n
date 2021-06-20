@@ -7,6 +7,9 @@ account-setup-tab-title = Vytvoření účtu
 ## Header
 
 account-setup-title = Nastavit existující e-mailový účet
+account-setup-description =
+    Pro použití existující e-mailové adresy vyplňte své přihlašovací údaje.<br/>
+    { -brand-product-name } se pokusí automaticky najít funkční a doporučené nastavení serveru.
 
 ## Form fields
 
@@ -65,6 +68,13 @@ account-setup-button-done = Hotovo
 account-setup-looking-up-settings = Vyhledávání nastavení…
 account-setup-looking-up-settings-guess = Vyhledávání nastavení testováním obvyklých názvů serverů…
 account-setup-looking-up-settings-half-manual = Vyhledávání konfigurace testováním serverů…
+account-setup-looking-up-disk =
+    Vyhledávání nastavení v adresářích { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "gen") }
+        [feminine] { -brand-short-name(case: "gen") }
+        [neuter] { -brand-short-name(case: "gen") }
+       *[other] aplikace { -brand-short-name }
+    }
 account-setup-looking-up-isp = Vyhledávání nastavení u poskytovatele e-mailu…
 # Note: Do not translate or replace Mozilla. It stands for the public project mozilla.org, not Mozilla Corporation. The database is a generic, public domain facility usable by any client.
 account-setup-looking-up-db = Vyhledávání nastavení v databázi Mozilly…
@@ -79,6 +89,13 @@ account-setup-success-password = Heslo je v pořádku
 account-setup-success-addon = Doplněk byl úspěšně nainstalován
 # Note: Do not translate or replace Mozilla. It stands for the public project mozilla.org, not Mozilla Corporation. The database is a generic, public domain facility usable by any client.
 account-setup-success-settings-db = V databázi Mozilly bylo nalezeno následující nastavení.
+account-setup-success-settings-disk =
+    V adresářích Vyhledávání nastavení v adresářích { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "gen") }
+        [feminine] { -brand-short-name(case: "gen") }
+        [neuter] { -brand-short-name(case: "gen") }
+       *[other] aplikace { -brand-short-name }
+    } bylo nalezeno následující nastavení.
 account-setup-success-settings-isp = U poskytovatele e-mailu bylo nalezeno následující nastavení.
 # Note: Microsoft Exchange is a product name.
 account-setup-success-settings-exchange = Nastavení pro server Microsoft Exchange nalezeno.
@@ -93,6 +110,8 @@ account-setup-step3-image =
     .title = Konfigurace nalezena
 account-setup-step4-image =
     .title = Chyba spojení
+account-setup-privacy-footnote = Vaše přihlašovací údaje budou použity v souladu s našimi <a data-l10n-name="privacy-policy-link">zásadami ochrany osobních údajů</a> a zůstanou uloženy pouze na vašem počítači.
+account-setup-selection-help = Nevíte, co vybrat?
 account-setup-selection-error = Potřebujete pomoci?
 account-setup-documentation-help = Dokumentace k nastavení
 account-setup-forum-help = Fórum podpory
@@ -135,6 +154,13 @@ account-setup-result-username-different = Příchozí: { $incoming }, Odchozí: 
 # Note: The reference to "janedoe" (Jane Doe) is the name of an example person. You will want to translate it to whatever example persons would be named in your language. In the example, AD is the name of the Windows domain, and this should usually not be translated.
 account-setup-credentials-incomplete = Ověření se nezdařilo. Buď nejsou zadané přihlašovací údaje správné, nebo je pro přihlášení vyžadováno samostatné uživatelské jméno. Takovým uživatelským jménem je obvykle vaše přihlašovací jméno k doméně systému Windows s doménou nebo bez ní (například jannovak nebo AD\\jannovak).
 account-setup-credentials-wrong = Ověření se nezdařilo. Zkontrolujte prosím uživatelské jméno a heslo.
+account-setup-find-settings-failed =
+    { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "dat") }
+        [feminine] { -brand-short-name(case: "dat") }
+        [neuter] { -brand-short-name(case: "dat") }
+       *[other] Aplikaci { -brand-short-name }
+    } se nepodařilo najít nastavení vašeho e-mailového účtu
 account-setup-exchange-config-unverifiable = Konfiguraci nelze ověřit. Pokud jsou vaše uživatelské jméno a heslo správně, je pravděpodobné, že správce serveru zvolenou konfiguraci vašeho účtu zakázal. Zkuste vybrat jiný protokol.
 
 ## Manual configuration area
@@ -148,11 +174,13 @@ protocol-exchange-option = { account-setup-result-exchange }
 account-setup-hostname-label = Server:
 account-setup-port-label = Port:
     .title = Pro automatické nalezení nastavte port na 0.
+account-setup-auto-description = { -brand-short-name } se pokusí automaticky doplnit pole, která jste nevyplnili.
 account-setup-ssl-label = Zabezpečení spojení:
 account-setup-outgoing-server-legend = Server odchozí pošty
 
 ## Incoming/Outgoing SSL Authentication options
 
+ssl-autodetect-option = Rozpoznat automaticky
 ssl-no-authentication-option = Bez ověření
 ssl-cleartext-password-option = Heslo, zabezpečený přenos
 ssl-encrypted-password-option = Šifrované heslo
@@ -176,6 +204,7 @@ account-setup-warning-cleartext = <b>{ $server }</b> nepoužívá žádné šifr
 account-setup-warning-cleartext-details = Nezabezpečený server nechrání vaše heslo ani osobních informace pomocí šifrovaného spojení. Připojením k tomuto serveru můžete ohrozit své heslo a osobní informace.
 account-setup-insecure-server-checkbox = Uvědomuji si rizika
     .accesskey = U
+account-setup-insecure-description = { -brand-short-name } vám umožní pracovat s poštou dle zadaného nastavení, ale je vhodné kontaktovat správce nebo poskytovatele vaší e-mailové schránky ohledně řádného připojení. Pro více informací si přečtěte <a data-l10n-name="thunderbird-faq-link">často kladené dotazy k Thunderbirdu</a>.
 insecure-dialog-cancel-button = Změnit nastavení
     .accesskey = s
 insecure-dialog-confirm-button = Potvrdit
@@ -183,6 +212,15 @@ insecure-dialog-confirm-button = Potvrdit
 
 ## Warning Exchange confirmation dialog
 
+# Variables:
+#  $domain (String): The name of the server where the configuration was found, e.g. rackspace.com.
+exchange-dialog-question =
+    { -brand-short-name.gender ->
+        [masculine] { -brand-short-name } našel
+        [feminine] { -brand-short-name } našla
+        [neuter] { -brand-short-name } našlo
+       *[other] Aplikace { -brand-short-name } našla
+    } informace pro nastavení vašeho účtu v na doméně { $domain }. Chcete pokračovat a odeslat své přihlašovací údaje?
 exchange-dialog-confirm-button = Přihlašovací údaje
 exchange-dialog-cancel-button = Zrušit
 
@@ -196,4 +234,5 @@ account-setup-confirm-advanced-description = Toto dialogové okno bude zavřeno 
 ## Addon installation section
 
 account-setup-addon-install-title = Nainstalovat
-account-setup-addon-install-intro = Doplněk třetí strany vám umožní přístup k vašemu poštovnímu účtu na tomto serveru:
+account-setup-addon-install-intro = Doplněk třetí strany vám může umožnit přístup k poštovnímu účtu na tomto serveru:
+account-setup-addon-no-protocol = Tento e-mailový server bohužel nepodporuje otevřené protokoly. { account-setup-addon-install-intro }
