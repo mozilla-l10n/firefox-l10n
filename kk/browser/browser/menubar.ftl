@@ -173,6 +173,9 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = Мәтін кодталуы
     .accesskey = к
+menu-view-repair-text-encoding =
+    .label = Мәтін кодтауын жөндеу
+    .accesskey = к
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -227,6 +230,8 @@ menu-bookmarks-show-all =
     .label = Барлық бетбелгілерді көрсету
 menu-bookmark-this-page =
     .label = Бұл бетті бетбелгілерге қосу
+menu-bookmarks-manage =
+    .label = Бетбелгілерді басқару
 menu-bookmark-current-tab =
     .label = Ағымдағы бетті бетбелгілерге қосу
 menu-bookmark-edit =
@@ -254,15 +259,15 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = { -brand-product-name } ішіне кіру…
     .accesskey = к
+menu-tools-turn-on-sync =
+    .label = { -sync-brand-short-name } іске қосу…
+    .accesskey = е
 menu-tools-addons-and-themes =
     .label = Кеңейтулер және темалар
     .accesskey = а
 menu-tools-fxa-sign-in2 =
     .label = Кіру
     .accesskey = р
-menu-tools-turn-on-sync =
-    .label = { -sync-brand-short-name } іске қосу…
-    .accesskey = е
 menu-tools-turn-on-sync2 =
     .label = Синхрондауды іске қосу…
     .accesskey = н
@@ -287,13 +292,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Бет ақпараты
     .accesskey = а
-menu-settings =
-    .label = Баптаулар
-    .accesskey =
-        { PLATFORM() ->
-            [windows] п
-           *[other] п
-        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -304,6 +302,13 @@ menu-preferences =
         { PLATFORM() ->
             [windows] ц
            *[other] м
+        }
+menu-settings =
+    .label = Баптаулар
+    .accesskey =
+        { PLATFORM() ->
+            [windows] п
+           *[other] п
         }
 menu-tools-layout-debugger =
     .label = Жайма жөндегіші

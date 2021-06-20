@@ -437,6 +437,8 @@ popup-select-microphone-device =
     .accesskey = М
 popup-select-microphone-icon =
     .tooltiptext = Микрофон
+popup-select-speaker-icon =
+    .tooltiptext = Динамиктер
 popup-all-windows-shared = Экраныңыздаға барлық көрінетін терезелермен бөлісетін боласыз.
 popup-screen-sharing-not-now =
     .label = Қазір емес
@@ -682,6 +684,12 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = { -pocket-brand-name }-ке сақтау
     .tooltiptext = { -pocket-brand-name }-ке сақтау
+
+## Repair text encoding toolbar button
+
+repair-text-encoding-button =
+    .label = Мәтін кодтауын жөндеу
+    .tooltiptext = Мәтіннің дұрыс кодтауын парақ мазмұнынан анықтап көру
 
 ## Customize Toolbar Buttons
 
