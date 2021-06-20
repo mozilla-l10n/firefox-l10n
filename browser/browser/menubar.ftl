@@ -231,7 +231,7 @@ menu-bookmarks-show-all =
 menu-bookmark-this-page =
     .label = Lisää sivu kirjanmerkkeihin
 menu-bookmarks-manage =
-    .label = Hallitse kirjanmerkkejä
+    .label = Järjestele kirjanmerkkejä
 menu-bookmark-current-tab =
     .label = Lisää nykyinen välilehti kirjanmerkkeihin
 menu-bookmark-edit =
@@ -307,8 +307,8 @@ menu-settings =
     .label = Asetukset
     .accesskey =
         { PLATFORM() ->
-            [windows] S
-           *[other] S
+            [windows] A
+           *[other] A
         }
 menu-tools-layout-debugger =
     .label = Layout Debugger
