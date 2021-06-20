@@ -15,6 +15,7 @@ pocket-panel-saved-error-generic = { -pocket-brand-name }-ке сақтау та
 pocket-panel-saved-error-tag-length = Тег 25 таңбамен шектелген
 pocket-panel-saved-error-only-links = Тек сілтемелерді сақтауға болады
 pocket-panel-saved-error-not-saved = Парақ сақталмаған
+pocket-panel-saved-error-no-internet = { -pocket-brand-name } ішіне сақтау үшін, интернетпен байланыс болуы тиіс. Интернетке байланысып, қайталап көріңіз.
 pocket-panel-saved-page-removed = Парақ өшірілді
 pocket-panel-saved-page-saved = { -pocket-brand-name }-ке сақталды
 pocket-panel-saved-processing-remove = Парақты өшіру…
@@ -42,3 +43,7 @@ pocket-panel-signup-tagline-story-two = { -pocket-brand-name }-те кез-ке�
 
 pocket-panel-home-my-list = Менің тізімім
 pocket-panel-home-welcome-back = Қайта қош келдіңіз
+pocket-panel-home-paragraph = Веб-беттер, мақалалар, видеолар және подкасттарды шолу және сақтау үшін немесе оқығаныңызға оралу үшін { -pocket-brand-name } қолдануға болады.
+pocket-panel-home-explore-popular-topics = Әйгілі темаларды шолу
+pocket-panel-home-discover-more = Өзіңіз үшін көбірек ашыңыз
+pocket-panel-home-explore-more = Шолу
