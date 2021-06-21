@@ -24,6 +24,8 @@ update-unsupported = No l'é poscibile instalâ atri agiornamenti in sce sto sci
 update-restarting = Arvo torna…
 channel-description = Òua ti ê into canâ de agiornamento <label data-l10n-name="current-channel"></label>.
 warningDesc-version = { -brand-short-name } o l'é sperimentale e o peu ese instabile.
+aboutdialog-help-user = Guidda de { -brand-product-name }
+aboutdialog-submit-feedback = Manda Comento
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> a l'é 'na <label data-l10n-name="community-exp-creditsLink">comunitæ globale</label> ch'a travaggia insemme pe mantegnî a Ræ averta, pubrica e acesibile a tutti.
 community-2 = { -brand-short-name } o l'é fæto da <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, 'na <label data-l10n-name="community-creditsLink">comunitæ globale</label> ch'a travaggia insemme pe mantegnî a Ræ averta, pubrica e acesibile a tutti.
 helpus = Ti ne veu agiutâ? <label data-l10n-name="helpus-donateLink">Fanni 'na donaçion</label> ò <label data-l10n-name="helpus-getInvolvedLink">travaggia con niatri</label>
