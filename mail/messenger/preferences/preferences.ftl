@@ -693,7 +693,7 @@ chat-variant-label =
     .value = Παραλλαγή:
     .accesskey = Π
 chat-header-label =
-    .label = Εμφάνιση επικεφαλίδας
+    .label = Εμφάνιση κεφαλίδας
     .accesskey = Ε
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible

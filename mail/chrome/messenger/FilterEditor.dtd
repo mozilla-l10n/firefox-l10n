@@ -16,10 +16,10 @@
 <!ENTITY highPriorityCmd.label "Υψηλή">
 <!ENTITY highestPriorityCmd.label "Πολύ υψηλή">
 
-<!ENTITY contextDesc.label "Εφαρμογή φίλτρου σε:">
+<!ENTITY contextDesc.label "Εφαρμογή φίλτρου:">
 <!ENTITY contextIncomingMail.label "Κατά τη λήψη νέων email:">
 <!ENTITY contextIncomingMail.accesskey "Λ">
-<!ENTITY contextManual.label "Χειροκίνητη εκτέλεση">
+<!ENTITY contextManual.label "Κατά τη χειροκίνητη εκτέλεση">
 <!ENTITY contextManual.accesskey "Χ">
 <!ENTITY contextBeforeCls.label "Φιλτράρισμα πριν από την ταξινόμηση ανεπιθύμητων">
 <!ENTITY contextAfterCls.label "Φιλτράρισμα μετά την ταξινόμηση ανεπιθύμητων">
@@ -45,7 +45,7 @@
 <!ENTITY markMessageStarred.label "Προσθήκη αστεριού">
 <!ENTITY setPriority.label "Ορισμός προτεραιότητας σε">
 <!ENTITY addTag.label "Ετικέτα στο μήνυμα">
-<!ENTITY setJunkScore.label "Ορισμός κατάστασης ανεπιθ. αλληλογραφίας σε:">
+<!ENTITY setJunkScore.label "Ορισμός κατάστασης ανεπιθύμητου σε">
 <!ENTITY deleteMessage.label "Διαγραφή μηνύματος">
 <!ENTITY deleteFromPOP.label "Διαγραφή από το διακομιστή POP">
 <!ENTITY fetchFromPOP.label "Λήψη από το διακομιστή POP">
