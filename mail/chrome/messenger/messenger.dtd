@@ -423,7 +423,7 @@
 <!ENTITY markThreadAsReadCmd.label "Νήμα ως αναγνωσμένο">
 <!ENTITY markThreadAsReadCmd.accesskey "Ν">
 <!ENTITY markThreadAsReadCmd.key "r">
-<!ENTITY markReadByDateCmd.label "Ως αναγνωσμένα κατά ημερομηνία…">
+<!ENTITY markReadByDateCmd.label "Ως αναγνωσμένο κατά ημερομηνία…">
 <!ENTITY markReadByDateCmd.accesskey "μ">
 <!ENTITY markReadByDateCmd.key "c">
 <!ENTITY markAllReadCmd.label "Όλων ως αναγνωσμένων">
