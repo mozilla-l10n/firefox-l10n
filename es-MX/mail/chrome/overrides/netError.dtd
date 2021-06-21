@@ -143,21 +143,60 @@
 ">
 
 <!ENTITY nssBadCert.title "La conexión segura ha fallado">
+<!ENTITY nssBadCert.longDesc2 "
+<ul>
+  <li>Esto podría ser un problema con la configuración del servidor o podría ser
+alguien tratando de hacerse pasar por el servidor.</li>
+  <li>Si te conectaste a este servidor correctamente en el pasado, el error puede
+ser temporal y puedes intentarlo de nuevo más tarde.</li>
+</ul>
+">
 
+<!ENTITY sharedLongDesc "
+<ul>
+  <li>El sitio puede no estar disponible temporarmente o estar sobrecargado. Intenta nuevamente en unos
+    momentos.</li>
+  <li>Si no puedes cargar ninguna página, verifica la conexión de tu computadora
+    a la red.</li>
+  <li>Si tu computadora o red están protegidas por un firewall o proxy, asegúrate
+    que &brandShortName; tiene permiso para acceder a la web.</li>
+</ul>
+">
 
+<!ENTITY cspBlocked.title "Bloqueado por política de seguridad de contenido">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; evitó que se cargue esta página de esta forma porque tiene una política de seguridad de contenido que no lo permite.</p>">
 
+<!ENTITY xfoBlocked.title "Bloqueado por la política de X-Frame-Options">
+<!ENTITY xfoBlocked.longDesc "<p>&brandShortName; evitó que esta página se cargue en este contexto porque la página tiene una política de opciones de X-Frame que no lo permite.</p>">
 
+<!ENTITY corruptedContentErrorv2.title "Error de contenido corrupto">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>La página que estás tratando de ver no puede mostrarse porque se detectó un error en la transmisión de los datos.</p><ul><li>Contacta a los dueños del sitio web para informarles de este problema.</li></ul>">
 
+<!ENTITY securityOverride.linkText "O puede agregar una excepción…">
+<!ENTITY securityOverride.getMeOutOfHereButton "¡Sáquenme de aquí!">
+<!ENTITY securityOverride.exceptionButtonLabel "Agregar excepción…">
 
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
 functionality specific to thunderbird. -->
 
+<!ENTITY securityOverride.warningContent "
+<p>No deberías agregar una excepción si estás usando una conexión a internet en la que no confías por completo o si no tienes la costumbre de ver mensajes de advertencia de este servidor.</p>
 
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
+">
 
+<!ENTITY remoteXUL.title "XUL remoto">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Contacta a los dueños del sitio web para informarles este problema.</li></ul></p>">
+
+<!ENTITY inadequateSecurityError.title "Tu conexión no es segura">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> usa tecnología de seguridad que es obsoleta y vulnerable a los ataques. Un atacante podría revelar información que parece segura muy fácilmente. El administrador del sitio web necesitará arreglar el servidor antes de poder visitar el sitio.</p><p>Código de error: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Página bloqueada">
 
+<!ENTITY networkProtocolError.title "Error de protocolo de red">
+<!ENTITY networkProtocolError.longDesc "<p>La página que estás intentando ver no se puede mostrar porque se detectó un error en el protocolo de red.</p> <ul> <li>Contacta con los propietarios del sitio web para informarles de este problema.</li> </ul>">
