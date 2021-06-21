@@ -33,7 +33,7 @@
 <!ENTITY authMethod.accesskey "θ">
 <!ENTITY leaveOnServer.label "Διατήρηση μηνυμάτων στον διακομιστή">
 <!ENTITY leaveOnServer.accesskey "τ">
-<!ENTITY headersOnly.label "Λήψη κεφαλίδων μόνο">
+<!ENTITY headersOnly.label "Λήψη μόνο κεφαλίδων">
 <!ENTITY headersOnly.accesskey "φ">
 <!ENTITY deleteByAgeFromServer.label "Για το περισσότερο">
 <!ENTITY deleteByAgeFromServer.accesskey "π">
