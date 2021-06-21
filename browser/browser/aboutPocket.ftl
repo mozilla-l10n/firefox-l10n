@@ -15,6 +15,7 @@ pocket-panel-saved-error-generic = Gh'æ stæto 'n'erô into sarvâ in { -pocket
 pocket-panel-saved-error-tag-length = A longhessa mascima pe-e etichette a l'é de 25 carateri
 pocket-panel-saved-error-only-links = Ti peu solo sarvâ colegamenti
 pocket-panel-saved-error-not-saved = Pagina no atrovâ
+pocket-panel-saved-error-no-internet = Ti devi ese conesso a l'Internet pe sarvâ in { -pocket-brand-name }. Conetite a l'Internet e preuva torna.
 pocket-panel-saved-page-removed = Pagina scancelâ
 pocket-panel-saved-page-saved = Sarvâ in { -pocket-brand-name }
 pocket-panel-saved-processing-remove = Scancello a pagina…
@@ -40,3 +41,8 @@ pocket-panel-signup-tagline-story-two = Amialo in { -pocket-brand-name } da qual
 
 ## about:pocket-home panel
 
+pocket-panel-home-my-list = A mæ lista
+pocket-panel-home-welcome-back = Benveguo torna
+pocket-panel-home-explore-popular-topics = Esplòra argomenti ciù popolâ
+pocket-panel-home-discover-more = Descòvri de ciù
+pocket-panel-home-explore-more = Esplòra
