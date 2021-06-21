@@ -5,7 +5,7 @@
 do-not-track-description = Шаљи веб-сајтовима захтев „Не прати”
 do-not-track-learn-more = Сазнајте више
 do-not-track-option-default-content-blocking-known =
-    .label = Само када је { -brand-short-name } подешен да блокира познате пратиоце
+    .label = Само када је { -brand-short-name } подешен да блокира познате елементе за праћење
 do-not-track-option-always =
     .label = Увек
 pref-page-title = Подешавања
@@ -1058,7 +1058,7 @@ enhanced-tracking-protection-setting-custom =
 
 content-blocking-etp-standard-desc = Уравнотежена заштита и перформанса. Странице ће се нормално учитавати.
 content-blocking-etp-strict-desc = Заштита је моћнија, али може проузроковати да се неке веб странице или садржај не учитају.
-content-blocking-etp-custom-desc = Изаберите које пратиоце и скрипте треба блокирати.
+content-blocking-etp-custom-desc = Изаберите које елементе за праћење и скрипте желите да блокирате.
 content-blocking-etp-blocking-desc = { -brand-short-name } блокира следеће:
 content-blocking-private-windows = Садржај који прати у приватним прозорима
 content-blocking-cross-site-cookies-in-all-windows = Колачићи трећих страна у свим прозорима (укључујући колачиће за праћење)
