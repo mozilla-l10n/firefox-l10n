@@ -28,6 +28,6 @@ blocklist-dialog =
 #   $description {string, "This list does a pretty good job."} - Description of the list.
 blocklist-item-list-template = { $listName } { $description }
 blocklist-item-moz-std-listName = Списак блокирања првог нивоа (препоручено).
-blocklist-item-moz-std-description = Дозволи неке пратиоце зарад мање сломљених сајтова.
+blocklist-item-moz-std-description = Дозвољава неке елементе за праћење како би веб-сајтови исправно функционисали.
 blocklist-item-moz-full-listName = Списак блокирања другог нивоа.
-blocklist-item-moz-full-description = Блокирај све уочене пратиоце. Неки сајтови или садржаји се можда неће исправно учитати.
+blocklist-item-moz-full-description = Блокира све пронађене елементе за праћење. Ово може да омете рад неких веб-сајтова.
