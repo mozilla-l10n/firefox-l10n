@@ -97,6 +97,7 @@ policy-SearchBar = Defineix la ubicació per defecte de la barra de cerca. L'usu
 policy-SearchSuggestEnabled = Activa o desactiva els suggeriments de cerca.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Instal·la mòduls PKCS #11.
+policy-ShowHomeButton = Mostra el botó d'inici a la barra d'eines.
 policy-SSLVersionMax = Defineix la versió màxima de SSL.
 policy-SSLVersionMin = Defineix la versió mínima de SSL.
 policy-SupportMenu = Afegeix un element de menú d'assistència personalitzat en el menú d'ajuda.

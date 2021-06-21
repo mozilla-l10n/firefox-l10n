@@ -233,6 +233,9 @@ about-debugging-extension-location =
 # For instance "geckoprofiler@mozilla.com" or "{ed26ddcb-5611-4512-a89a-51b8db81cfb2}".
 about-debugging-extension-id =
     .label = ID d'extensió
+# This string is displayed as a label of the button that starts a service worker.
+about-debugging-worker-action-start2 = Inicia
+    .disabledTitle = L'inici d'un procés de treball de servei està desactivat pel multiprocés del { -brand-shorter-name }
 # This string is displayed as a label of the button that unregisters a service worker.
 about-debugging-worker-action-unregister = Suprimeix el registre
 # Displayed for service workers in runtime pages that are currently running (service
