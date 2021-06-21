@@ -23,5 +23,15 @@ about-private-browsing-not-private = Sto chi o no l'é 'n barcon privòu.
 about-private-browsing-info-description = { -brand-short-name } scancella a teu cronologia de navegaçion e de riçerche quande seri i feuggi e i barcoin de navegaçion privâ. Sciben che questo o no ti fa deventâ anònimo co-i sciti o co-o fornitô de Internet, o l'agiutta in ògni mòddo a mantegnî privòu da-i atri utenti de sto computer cöse ti fæ in linea.
 about-private-browsing-need-more-privacy = Te serve ciù privacy?
 about-private-browsing-turn-on-vpn = Preuva { -mozilla-vpn-brand-name }
+# This string is the title for the banner for search engine selection
+# in a private window.
+# Variables:
+#   $engineName (String) - The engine name that will currently be used for the private window.
+about-private-browsing-search-banner-title = { $engineName } o l'é o motô de riçerca predefinio inti bracoin privæ
+about-private-browsing-search-banner-description =
+    { PLATFORM() ->
+        [windows] Ti peu seleçionâ un altro motô de riçerca inte <a data-l10n-name="link-options">Inpostaçioin</a>
+       *[other] Ti peu seleçionâ un altro motô de riçerca inte <a data-l10n-name="link-options">Preferense</a>
+    }
 about-private-browsing-search-banner-close-button =
     .aria-label = Særa
