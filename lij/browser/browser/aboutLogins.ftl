@@ -13,13 +13,11 @@ login-app-promo-android =
     .alt = Piggitelo in sce Google Play
 login-app-promo-apple =
     .alt = Descarega da l'App Store
-
 login-filter =
     .placeholder = Çerca inti login
-
 create-login-button = Crea neuvo login
-
 fxaccounts-sign-in-button = Intra in { -sync-brand-short-name }
+fxaccounts-sign-in-sync-button = Acedi a sync
 fxaccounts-avatar-button =
     .title = Gestisci conto
 
@@ -29,7 +27,9 @@ menu =
     .title = Arvi menû
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Inportâ da un atro navegatô…
+about-logins-menu-menuitem-import-from-a-file = Inpòrta da 'n schedaio…
 about-logins-menu-menuitem-export-logins = Espòrta acessi…
+about-logins-menu-menuitem-remove-all-logins = Scancella tutti i acessi
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Preferense
@@ -41,6 +41,8 @@ menu-menuitem-iphone-app = { -lockwise-brand-short-name } pe iPhone e iPad
 
 ## Login List
 
+login-list =
+    .aria-label = Acessi corispondenti a-a riçerca
 login-list-count =
     { $count ->
         [one] { $count } acesso
@@ -55,15 +57,25 @@ login-list-last-used-option = Urtima vòtta
 login-list-intro-title = Nisciun acesso trovou
 about-logins-login-list-empty-search-title = Nisciun acesso trovou
 login-list-item-title-new-login = Nuovo login
+login-list-item-subtitle-new-login = Scrivi e teu credensiali
 login-list-item-subtitle-missing-username = (nisciun nomme utente)
 about-logins-list-item-breach-icon =
     .title = Scito ch'o viola i dæti
+about-logins-list-item-vulnerable-password-icon =
+    .title = Poula segreta vulnerabile
 
 ## Introduction screen
 
+login-intro-heading = TI çerchi e poule segrete sarvæ? Configura { -sync-brand-short-name }.
 
 ## Login
 
+login-item-new-login-title = Crea neuvo acesso
+login-item-edit-button = Cangia
+about-logins-login-item-remove-button = Scancella
+login-item-origin-label = Indirisso
+login-item-origin =
+    .placeholder = https://www.example.com
 login-item-username-label = Nomme utente
 about-logins-login-item-username =
     .placeholder = (nisciun nomme utente)
@@ -89,6 +101,12 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message-macosx = cangia l'acesso sarvou
+# This message can be seen when attempting to reveal a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-reveal-password-os-auth-dialog-message-macosx = mostra e poule segrete
 
 ## Master Password notification
 
@@ -118,14 +136,11 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Anulla
 confirmation-dialog-dismiss-button =
     .title = Anulla
-
 about-logins-confirm-remove-dialog-title = Scancelâ st'acesso?
 confirm-delete-dialog-message = St'açion a no peu ese anula.
 about-logins-confirm-remove-dialog-confirm-button = Scancella
-
 about-logins-confirm-export-dialog-title = Espòrta acessi e poule segrete
 about-logins-confirm-export-dialog-confirm-button = Espòrta…
-
 confirm-discard-changes-dialog-confirm-button = Ignòra
 
 ## Breach Alert notification
@@ -151,4 +166,22 @@ about-logins-export-file-picker-csv-filter-title =
     }
 
 ## Login Import Dialog
+
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+
+## Logins import report page
 
