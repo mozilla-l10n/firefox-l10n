@@ -77,7 +77,7 @@ permissions-invalid-uri-label = Унесите важећи назив хост�
 ## Exceptions - Tracking Protection
 
 permissions-exceptions-etp-window =
-    .title = Изузеци од побољшане заштите од праћења
+    .title = Побољшана заштита од праћења – изузеци
     .style = { permissions-window.style }
 permissions-exceptions-etp-desc = Искључили сте заштиту на овим веб сајтовима.
 
