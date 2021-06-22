@@ -159,8 +159,8 @@
 <!ENTITY attachVCard.label "Επισύναψη προσωπικής κάρτας (vCard)">
 <!ENTITY attachVCard.accesskey "v">
 
-<!ENTITY returnReceiptMenu.label "Βεβαίωση ανάγνωσης">
-<!ENTITY returnReceiptMenu.accesskey "Β">
+<!ENTITY returnReceiptMenu.label "Αποδεικτικό προβολής">
+<!ENTITY returnReceiptMenu.accesskey "β">
 <!ENTITY dsnMenu.label "Ειδοποίηση παράδοσης">
 <!ENTITY dsnMenu.accesskey "δ">
 <!ENTITY deliveryFormatMenu.label "Μορφή παράδοσης">
