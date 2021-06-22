@@ -303,7 +303,7 @@ identity-site-information = Информация за { $host }
 identity-header-security-with-host =
     .title = Сигурност на връзката към { $host }
 identity-connection-not-secure = Връзката не е защитена
-identity-connection-secure = Връзката е защитена
+identity-connection-secure = Връзката е шифрована
 identity-connection-internal = Това е защитена страница на { -brand-short-name }.
 identity-connection-file = Страницата е запазена в компютъра.
 identity-extension-page = Страницата е отворена от разширение.
@@ -330,7 +330,7 @@ identity-permissions-empty = Не сте дали допълнителни пр�
 identity-clear-site-data =
     .label = Изчистване на бисквитки и данни…
 identity-connection-not-secure-security-view = Връзката със сайта не е сигурна.
-identity-connection-verified = Връзката със сайта е сигурна.
+identity-connection-verified = Връзката със сайта е шифрована.
 identity-ev-owner-label = Сертификатът е издаден на:
 identity-description-custom-root = Mozilla не разпознава този издател на сертификати. Може да е добавен от вашата операционна система или от администратор. <label data-l10n-name="link">Научете повече</label>
 identity-remove-cert-exception =
