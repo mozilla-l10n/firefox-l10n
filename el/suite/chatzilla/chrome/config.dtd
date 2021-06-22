@@ -6,6 +6,7 @@
 
 
 <!ENTITY homepage.url   "http://chatzilla.hacksrus.com/">
+<!ENTITY homepage.label "Αρχική σελίδα ChatZilla">
 
 <!ENTITY object.add.label       "Προσθήκη…">
 <!ENTITY object.add.accesskey   "Π">
@@ -27,3 +28,5 @@
 <!ENTITY config.type.accesskey    "Τ">
 <!ENTITY config.network.label     "Δίκτυο:">
 <!ENTITY config.network.accesskey "Δ">
+<!ENTITY config.target.label      "Προορισμός:">
+<!ENTITY config.target.accesskey  "ρ">
