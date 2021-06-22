@@ -22,3 +22,5 @@ calendar-editable-item-reminder-icon-suppressed-alarm =
     .alt = Opomnik je nastavljen, a trenutno onemogočen
 calendar-editable-item-reminder-icon-email =
     .alt = Nastavljen je e-poštni opomnik
+calendar-editable-item-reminder-icon-audio =
+    .alt = Nastavljen je zvočni opomnik
