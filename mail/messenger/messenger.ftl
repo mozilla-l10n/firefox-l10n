@@ -11,11 +11,26 @@ unread-messages-os-tooltip =
     }
 about-rights-notification-text = { -brand-short-name } est un logiciel libre et open source, réalisé par une communauté internationale de milliers de personnes.
 
+## Content tabs
+
+content-tab-page-loading-icon =
+    .alt = Chargement de la page
+content-tab-security-high-icon =
+    .alt = La connexion est sécurisée
+content-tab-security-broken-icon =
+    .alt = La connexion n’est pas sécurisée
+
 ## Toolbar
 
 addons-and-themes-button =
     .label = Modules complémentaires et thèmes
     .tooltip = Gérer vos modules complémentaires
+addons-and-themes-toolbarbutton =
+    .label = Modules complémentaires et thèmes
+    .tooltiptext = Gestion de vos modules complémentaires
+quick-filter-toolbarbutton =
+    .label = Filtre rapide
+    .tooltiptext = Filtrer les messages
 redirect-msg-button =
     .label = Rediriger
     .tooltiptext = Rediriger le message sélectionné
