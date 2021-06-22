@@ -863,6 +863,9 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Отворени раздели
     .accesskey = р
+addressbar-locbar-topsites-option =
+    .label = Най-посещавани страници
+    .accesskey = с
 addressbar-suggestions-settings = Настройки на предложенията от търсещите машини
 
 ## Privacy Section - Content Blocking

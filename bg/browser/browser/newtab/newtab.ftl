@@ -25,7 +25,9 @@ newtab-search-box-search-the-web-input =
 
 newtab-topsites-add-search-engine-header = Добавяне на търсеща машина
 newtab-topsites-add-topsites-header = Нова често посещавана страница
+newtab-topsites-add-shortcut-header = Нова клавишна комбинация
 newtab-topsites-edit-topsites-header = Променяне на често посещавана страница
+newtab-topsites-edit-shortcut-header = Промяна на клавишна комбинация
 newtab-topsites-title-label = Заглавие
 newtab-topsites-title-input =
     .placeholder = Въведете заглавие
