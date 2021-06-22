@@ -23,6 +23,7 @@ calendars-table-capabilities-alarms-popup-supported = 支援彈出式警示
 calendars-table-capabilities-alarms-oninviations-supported = 支援在收到邀請函時警示
 calendars-table-capabilities-alarms-maxcount = 單一事件的最大警示數量
 calendars-table-capabilities-attachments-supported = 支援附件
+calendars-table-capabilities-categories-maxcount = 最大分類數量
 calendars-table-capabilities-privacy-supported = 支援隱私狀態
 calendars-table-capabilities-priority-supported = 支援優先權
 calendars-table-capabilities-events-supported = 支援事件

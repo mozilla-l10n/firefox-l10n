@@ -12,6 +12,10 @@ about-addressbook-toolbar-new-carddav-address-book =
     .label = 新增 CardDAV 通訊錄
 about-addressbook-toolbar-new-ldap-address-book =
     .label = 新增 LDAP 通訊錄
+about-addressbook-toolbar-add-carddav-address-book =
+    .label = 新增 CardDAV 通訊錄
+about-addressbook-toolbar-add-ldap-address-book =
+    .label = 新增 LDAP 通訊錄
 about-addressbook-toolbar-new-contact =
     .label = 新增連絡人
 about-addressbook-toolbar-new-list =
@@ -28,6 +32,16 @@ about-addressbook-books-context-print =
     .label = 列印…
 about-addressbook-books-context-delete =
     .label = 刪除
+about-addressbook-books-context-remove =
+    .label = 移除
+about-addressbook-confirm-delete-book-title = 刪除通訊錄
+# Variables:
+# $name (String) - Name of the address book to be deleted.
+about-addressbook-confirm-delete-book = 您確定要刪除 { $name } 及當中的所有聯絡人嗎？
+about-addressbook-confirm-remove-remote-book-title = 移除通訊錄
+# Variables:
+# $name (String) - Name of the remote address book to be removed.
+about-addressbook-confirm-remove-remote-book = 您確定要刪除 { $name } 嗎？
 
 ## Cards
 
@@ -53,6 +67,45 @@ about-addressbook-sort-email-ascending =
     .label = 依照電子郵件地址排序（升冪）
 about-addressbook-sort-email-descending =
     .label = 依照電子郵件地址排序（降冪）
+about-addressbook-confirm-delete-mixed-title = 刪除通訊錄與群組
+# Variables:
+# $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
+about-addressbook-confirm-delete-mixed = 您確定要刪除這 { $count } 位聯絡人與群組？
+# Variables:
+# $count (Number) - The number of lists to be deleted.
+about-addressbook-confirm-delete-lists-title =
+    { $count ->
+       *[other] 刪除群組
+    }
+# Variables:
+# $count (Number) - The number of lists to be deleted.
+# $name (String) - The name of the list to be deleted, if $count is 1.
+about-addressbook-confirm-delete-lists =
+    { $count ->
+        [one] 您確定要刪除 { $name } 群組嗎？
+       *[other] 您確定要刪除這 { $count } 個群組嗎？
+    }
+# Variables:
+# $count (Number) - The number of contacts to be removed.
+about-addressbook-confirm-remove-contacts-title =
+    { $count ->
+       *[other] 移除聯絡人
+    }
+# Variables:
+# $count (Number) - The number of contacts to be removed.
+# $name (String) - The name of the contact to be removed, if $count is 1.
+# $list (String) - The name of the list that contacts will be removed from.
+about-addressbook-confirm-remove-contacts =
+    { $count ->
+        [one] 您確定要從 { $list } 刪除聯絡人 { $name } 嗎？
+       *[other] 您確定要從 { $list } 清單刪除 { $count } 位聯絡人嗎？
+    }
+# Variables:
+# $count (Number) - The number of contacts to be deleted.
+about-addressbook-confirm-delete-contacts-title =
+    { $count ->
+       *[other] 刪除聯絡人
+    }
 
 ## Details
 
