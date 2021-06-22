@@ -1,0 +1,19 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY downloadManager.title           "Upravitelj prenosov">
+
+<!ENTITY menuBar.tooltip                 "Vrstica z menijem">
+<!ENTITY searchBar.tooltip               "Iskalna vrstica">
+
+<!ENTITY search.placeholder              "Iskanje po prenosih">
+<!ENTITY search.label                    "Iskanje po prenosih">
+
+
+
+
+
+<!-- LOCALIZATION NOTE (cmd.unblock2.label):
+     This command is shown in the context menu when downloads are blocked.
+     -->
