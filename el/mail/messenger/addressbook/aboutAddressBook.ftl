@@ -28,6 +28,13 @@ about-addressbook-books-context-print =
     .label = Εκτύπωση…
 about-addressbook-books-context-delete =
     .label = Διαγραφή
+about-addressbook-books-context-remove =
+    .label = Αφαίρεση
+about-addressbook-confirm-delete-book-title = Διαγραφή ευρετηρίου
+about-addressbook-confirm-remove-remote-book-title = Αφαίρεση ευρετηρίου
+# Variables:
+# $name (String) - Name of the remote address book to be removed.
+about-addressbook-confirm-remove-remote-book = Θέλετε σίγουρα να αφαιρέσετε το { $name };
 
 ## Cards
 
@@ -53,6 +60,14 @@ about-addressbook-sort-email-ascending =
     .label = Ταξινόμηση κατά διεύθυνση email (A > Z)
 about-addressbook-sort-email-descending =
     .label = Ταξινόμηση κατά διεύθυνση email (Z > A)
+about-addressbook-confirm-delete-mixed-title = Διαγραφή επαφών και λιστών
+# Variables:
+# $count (Number) - The number of lists to be deleted.
+about-addressbook-confirm-delete-lists-title =
+    { $count ->
+        [one] Διαγραφή λίστας
+       *[other] Διαγραφή λιστών
+    }
 
 ## Details
 

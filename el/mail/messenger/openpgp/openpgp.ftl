@@ -280,6 +280,8 @@ openpgp-selection-status =
        *[other] Η τρέχουσα ρύθμισή σας χρησιμοποιεί το ID κλειδιού <b>{ $key }</b>
     }
 #   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status-have-key = Η τρέχουσα ρύθμισή σας χρησιμοποιεί το ID κλειδιού <b>{ $key }</b>
+#   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-error = Η τρέχουσα διαμόρφωσή σας χρησιμοποιεί το κλειδί <b>{ $key }</b>, το οποίο έχει λήξει.
 openpgp-add-key-button =
     .label = Προσθήκη κλειδιού…
@@ -305,6 +307,10 @@ openpgp-key-expires-image =
 openpgp-radio-key-expired = Έληξε στις: { $date }
 openpgp-key-expired-image =
     .tooltiptext = Το κλειδί έληξε
+openpgp-key-expires-within-6-months-icon =
+    .title = Το κλειδί λήγει σε λιγότερο από 6 μήνες
+openpgp-key-has-expired-icon =
+    .title = Το κλειδί έληξε
 openpgp-key-expand-section =
     .tooltiptext = Περισσότερες πληροφορίες
 openpgp-key-revoke-title = Ανάκληση κλειδιού
