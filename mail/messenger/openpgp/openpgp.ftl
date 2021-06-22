@@ -119,7 +119,7 @@ openpgp-key-man-copy-fprs =
             [one] Αντιγραφή αποτυπώματος στο πρόχειρο
            *[other] Αντιγραφή αποτυπωμάτων στο πρόχειρο
         }
-    .accesskey = ώ
+    .accesskey = Α
 openpgp-key-man-copy-to-clipboard =
     .label =
         { $count ->
@@ -187,8 +187,8 @@ openpgp-key-man-show-invalid-keys =
     .label = Προβολή μη έγκυρων κλειδιών
     .accesskey = Π
 openpgp-key-man-show-others-keys =
-    .label = Εμφανίζει Κλειδιά Άλλων Ανθρώπων
-    .accesskey = λ
+    .label = Προβολή κλειδιών από άλλα άτομα
+    .accesskey = Π
 openpgp-key-man-user-id-label =
     .label = Όνομα
 openpgp-key-man-fingerprint-label =

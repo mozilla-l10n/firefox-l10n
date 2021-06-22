@@ -4,7 +4,7 @@
 
 #   $identity (String) - the email address of the currently selected identity
 key-wizard-dialog-window =
-    .title = Προσθήκη προσωπικού κλειδιού OpenPGP για { $identity }
+    .title = Προσθήκη προσωπικού κλειδιού OpenPGP για το { $identity }
 key-wizard-button =
     .buttonlabelaccept = Συνέχεια
     .buttonlabelhelp = Επιστροφή
