@@ -12,11 +12,26 @@ unread-messages-os-tooltip =
     }
 about-rights-notification-text = { -brand-short-name } є вільним програмним забезпеченням з відкритим кодом, створене тисячами людей з усього світу.
 
+## Content tabs
+
+content-tab-page-loading-icon =
+    .alt = Сторінка завантажується
+content-tab-security-high-icon =
+    .alt = З’єднання захищене
+content-tab-security-broken-icon =
+    .alt = З’єднання не захищене
+
 ## Toolbar
 
 addons-and-themes-button =
     .label = Додатки й теми
     .tooltip = Керування вашими додатками
+addons-and-themes-toolbarbutton =
+    .label = Додатки й теми
+    .tooltiptext = Керувати додатками
+quick-filter-toolbarbutton =
+    .label = Швидкий фільтр
+    .tooltiptext = Фільтр повідомлень
 redirect-msg-button =
     .label = Переслати
     .tooltiptext = Переслати вибране повідомлення
