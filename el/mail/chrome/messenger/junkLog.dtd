@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY adaptiveJunkLog.title "Αρχείο καταγραφής προσαρμόσιμης ανεπιθύμητης αλληλογραφίας">
-<!ENTITY adaptiveJunkLogInfo.label "Αρχείο καταγραφής της δραστηριότητας προσαρμόσιμης ανεπιθύμητης αλληλογραφίας.">
+<!ENTITY adaptiveJunkLog.title "Αρχείο καταγραφής προσαρμοστικών ανεπιθύμητων email">
+<!ENTITY adaptiveJunkLogInfo.label "Αρχείο καταγραφής της δραστηριότητας προσαρμοστικών ανεπιθύμητων email.">
 <!ENTITY clearLog.label "Απαλοιφή αρχείου καταγραφής">
 <!ENTITY clearLog.accesskey "Α">
 <!ENTITY closeLog.label "Κλείσιμο">

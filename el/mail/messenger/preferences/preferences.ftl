@@ -223,9 +223,9 @@ search-integration-label =
 config-editor-button =
     .label = Επεξεργασία ρυθμίσεων…
     .accesskey = θ
-return-receipts-description = Καθορίστε τον τρόπο διαχείρισης των βεβαιώσεων ανάγνωσης από το { -brand-short-name }
+return-receipts-description = Καθορίστε τον τρόπο διαχείρισης των αποδεικτικών προβολής από το { -brand-short-name }
 return-receipts-button =
-    .label = Αποδεικτικά ανάγνωσης…
+    .label = Αποδεικτικά προβολής…
     .accesskey = τ
 update-app-legend = Ενημερώσεις του { -brand-short-name }
 # Variables:

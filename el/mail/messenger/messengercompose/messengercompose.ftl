@@ -120,7 +120,7 @@ move-attachment-last-panel-button =
     .label = Μετακίνηση στο Τελευταίο
 button-return-receipt =
     .label = Αποδεικτικό
-    .tooltiptext = Απαίτηση ενός αποδεικτικού επιστροφής για αυτό το μήνυμα
+    .tooltiptext = Απαίτηση αποδεικτικού προβολής για αυτό το μήνυμα
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 consider-bcc-notification = Οι { $count } παραλήπτες στα πεδία "Προς" και "Κοιν." μπορούν να δουν τις διευθύνσεις των υπολοίπων. Μπορείτε να αποφύγετε την αποκάλυψη των παραληπτών με το πεδίο "Κρυφή κοιν.".
 
