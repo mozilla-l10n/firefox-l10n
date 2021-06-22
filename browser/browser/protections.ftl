@@ -21,7 +21,7 @@ graph-total-tracker-summary =
        *[other] Од { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } блокирано је <b>{ $count }</b> елемената за праћење
     }
 # Text displayed instead of the graph when in Private Mode
-graph-private-window = { -brand-short-name } наставља да блокира пратиоце у приватном режиму, али не води евиденцију о томе шта је блокирано.
+graph-private-window = { -brand-short-name } блокира елементе за праћење и у приватним прозорима, али не води евиденцију о томе шта је блокирано.
 # Weekly summary of the graph when the graph is empty in Private Mode
 graph-week-summary-private-window = Пратиоци које је { -brand-short-name } блокирао ове седмице
 protection-report-webpage-title = Контролна табла заштите
