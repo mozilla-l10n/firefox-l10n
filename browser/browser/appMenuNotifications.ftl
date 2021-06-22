@@ -36,10 +36,16 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = Да, разбрах
     .buttonaccesskey = а
 appmenu-addon-post-install-message = Управлявайте добавките си като изберете <image data-l10n-name='addon-install-icon'></image> от менюто <image data-l10n-name='addon-menu-icon'></image>.
+appmenu-update-available2 =
+    .label = Налично обновяване
+    .buttonlabel = Изтегляне
+    .buttonaccesskey = и
+    .secondarybuttonlabel = Отказ
+    .secondarybuttonaccesskey = о
+appmenu-update-unsupported-message2 = Вашата операционна система не е съвместима с най-новото издание на { -brand-shorter-name }.
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Добре
     .buttonaccesskey = о
-appmenu-addon-post-install-message2 = Управлявайте разширения и теми от менюто на приложението.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Позволете на разширението да работи в поверителни прозорци
     .accesskey = з

@@ -239,6 +239,8 @@ cfr-whatsnew-protections-icon-alt = Пиктограма на щит
 
 ## Fission Experiment Message
 
+cfr-doorhanger-fission-primary-button = Добре, разбрах
+    .accesskey = Д
 
 ## What's new: Cookies message
 
@@ -262,3 +264,5 @@ cfr-whatsnew-media-keys-button = Научете как
 
 ## Full Video Support CFR message
 
+cfr-doorhanger-video-support-primary-button = Обновяване
+    .accesskey = б

@@ -741,6 +741,9 @@ forms-saved-logins =
 forms-master-pw-use =
     .label = Използване на главна парола
     .accesskey = г
+forms-primary-pw-use =
+    .label = Използване на главна парола
+    .accesskey = п
 forms-primary-pw-learn-more-link = Научете повече
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
