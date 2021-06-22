@@ -11,7 +11,7 @@
 <!ENTITY fccReplyFollowsParent.label "Τοποθέτηση απαντήσεων στον φάκελο του αρχικού μηνύματος">
 <!ENTITY fccReplyFollowsParent.accesskey "θ">
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
-<!ENTITY ccAddress.label "Κοινοποίηση (Cc) στις διευθύνσεις email:">
+<!ENTITY ccAddress.label "Κοινοποίηση στις διευθύνσεις email:">
 <!ENTITY ccAddress.accesskey "ι">
 <!ENTITY ccAddressList.placeholder "Διαχωρισμός διευθύνσεων με κόμματα">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
