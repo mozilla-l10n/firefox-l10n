@@ -31,6 +31,7 @@ printpreview-print =
     .accesskey = چ
 printpreview-of =
     .value = کا
+printpreview-custom-scale-prompt-title = مخصوص پیمانہ
 printpreview-page-setup =
     .label = صفحہ سیٹ اپ...
     .accesskey = س
