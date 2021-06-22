@@ -313,6 +313,8 @@ openpgp-selection-status =
        *[other] Mae eich ffurfweddiad cyfredol yn defnyddio ID allwedd <b>{ $key }</b>
     }
 #   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status-have-key = Mae eich ffurfweddiad cyfredol yn defnyddio ID allwedd <b>{ $key }</b>
+#   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-error = Mae eich ffurfweddiad cyfredol yn defnyddio ID allwedd <b>{ $key }</b>, sydd wedi dod i ben.
 openpgp-add-key-button =
     .label = Ychwanegu Allwedd…
@@ -338,6 +340,10 @@ openpgp-key-expires-image =
 openpgp-radio-key-expired = Wedi dod i ben ar: { $date }
 openpgp-key-expired-image =
     .tooltiptext = Daeth yr allwedd i ben
+openpgp-key-expires-within-6-months-icon =
+    .title = Mae'r allwedd yn dod i ben o fewn 6 mis
+openpgp-key-has-expired-icon =
+    .title = Daeth yr allwedd i ben
 openpgp-key-expand-section =
     .tooltiptext = Rhagor o wybodaeth
 openpgp-key-revoke-title = Dirymu Allwedd
@@ -485,18 +491,13 @@ openpgp-export-secret-fail = <b>Methu allforio'r allwedd gyfrinachol a ddewiswyd
 # Strings in keyObj.jsm
 key-ring-pub-key-revoked = Mae'r allwedd { $userId } (ID allwedd { $keyId }) wedi'i dirymu.
 key-ring-pub-key-expired = Mae'r allwedd { $userId } (ID allwedd { $keyId }) wedi dod i ben.
-key-ring-key-disabled = Mae'r allwedd { $userId } (ID allwedd { $keyId }) wedi'i analluogi; nid oes modd ei defnyddio.
-key-ring-key-invalid = Nid yw'r allwedd { $userId } (ID allwedd { $keyId }) yn ddilys. Ystyriwch ei ddilysu'n gywir.
-key-ring-key-not-trusted = Nid yw'r allwedd { $userId } (ID allwedd { $keyId }) yn ddigon dibynadwy. Gosodwch lefel ymddiriedaeth eich allwedd i "eithaf" i'w defnyddio ar gyfer llofnodi.
 key-ring-no-secret-key = Nid yw'n ymddangos bod gennych yr allwedd gyfrinachol ar gyfer { $userId } (ID allwedd { $keyId }) ar eich cylch allweddi; nid oes modd i chi ddefnyddio'r allwedd ar gyfer llofnodi.
 key-ring-pub-key-not-for-signing = Nid oed modd defnyddio'r allwedd { $userId } (ID allweddl { $keyId } ar gyfer llofnodi.
 key-ring-pub-key-not-for-encryption = Nid oed modd defnyddio'r allwedd { $userId } (ID allweddl { $keyId } ar gyfer amgryptio.
 key-ring-sign-sub-keys-revoked = Mae'r holl is-allweddi lofnodi allwedd { $userId } (ID allweddl { $keyId }) yn cael eu dirymu.
 key-ring-sign-sub-keys-expired = Mae'r holl is-allweddi lofnodi allwedd { $userId } (ID allweddl { $keyId }) wedi dod i ben.
-key-ring-sign-sub-keys-unusable = Mae'r holl is-allweddi lofnodi allwedd { $userId } (ID allwedd { $keyId }) wedi eu dirymu, dod i ben neu fel arall.
 key-ring-enc-sub-keys-revoked = Mae pob is-allwedd amgryptio allwedd { $userId } (ID allwedd { $keyId }) yn cael ei ddirymu.
 key-ring-enc-sub-keys-expired = Mae pob is-allwedd amgryptio allwedd { $userId } (ID allwedd { $keyId }) wedi dod i ben.
-key-ring-enc-sub-keys-unusable = Mae pob is-allwedd amgryptio allwedd { $userId } (ID allwedd { $keyId }) wedi cael eu dirymu, wedi dod i ben neu fel arall.
 # Strings in gnupg-keylist.jsm
 keyring-photo = Llun
 user-att-photo = Priodoledd defnyddiwr (delwedd JPEG)
