@@ -28,6 +28,16 @@ about-addressbook-books-context-print =
     .label = Ćišćeć…
 about-addressbook-books-context-delete =
     .label = Zhašeć
+about-addressbook-books-context-remove =
+    .label = Wotstronić
+about-addressbook-confirm-delete-book-title = Adresnik zhašeć
+# Variables:
+# $name (String) - Name of the address book to be deleted.
+about-addressbook-confirm-delete-book = Chceće woprawdźe { $name } a wšě jeho kontakty zhašeć?
+about-addressbook-confirm-remove-remote-book-title = Adresnik wotstronić
+# Variables:
+# $name (String) - Name of the remote address book to be removed.
+about-addressbook-confirm-remove-remote-book = Chceće woprawdźe { $name } wotstronić?
 
 ## Cards
 
@@ -53,6 +63,7 @@ about-addressbook-sort-email-ascending =
     .label = Po e-mejlowej adresy sortěrować (A > Z)
 about-addressbook-sort-email-descending =
     .label = Po e-mejlowej adresy sortěrować (Z > A)
+about-addressbook-confirm-delete-mixed-title = Kontakty a lisćiny zhašeć
 
 ## Details
 
