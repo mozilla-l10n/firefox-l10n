@@ -10,15 +10,19 @@
 <!ENTITY channel.label     "頻道:">
 <!ENTITY channel.accesskey "C">
 
+<!ENTITY topics.label     "搜尋主題及頻道名稱">
 <!ENTITY topics.accesskey "t">
 
 <!ENTITY join.label     "加入">
 <!ENTITY join.accesskey "J">
 
+<!ENTITY minusers.label     "最少使用者數:">
 <!ENTITY minusers.accesskey "M">
 
+<!ENTITY maxusers.label     "最多使用者數:">
 <!ENTITY maxusers.accesskey "x">
 
+<!ENTITY refresh.label     "立即重新整理">
 <!ENTITY refresh.accesskey "">
 
 
