@@ -48,6 +48,7 @@
 <!ENTITY editMenu.accesskey                             "G">
 <!ENTITY deleteCmd.label                                "Dileu">
 <!ENTITY deleteAbCmd.label                              "Dileu Llyfr Cyfeiriadau">
+<!ENTITY removeAbCmd.label                              "Dileu Llyfr Cyfeiriadau">
 <!ENTITY deleteContactCmd.label                         "Dileu Cysylltiad">
 <!ENTITY deleteContactsCmd.label                        "Dileu Cysylltiadau">
 <!ENTITY deleteListCmd.label                            "Dileu Rhestr">
@@ -140,6 +141,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.label                            "Dileu">
 <!ENTITY deleteButton2.accesskey                        "D">
 
+<!ENTITY removeButton.label                             "Tynnu">
+<!ENTITY removeButton.accesskey                         "T">
+
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY columnChooser.tooltip                          "Dewiswch golofnau i'w dangos">
 <!ENTITY newContactButton.tooltip                       "Creu cysylltiad llyfr cyfeiriadau newydd">
@@ -151,6 +155,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.tooltip                           "Anfon neges e-bost">
 <!ENTITY newIM.tooltip                                  "Anfon neges chwim neu sgwrs">
 <!ENTITY deleteButton2.tooltip                          "Dileu'r eitem hon">
+
+<!ENTITY removeButton.tooltip                           "Tynnwch y llyfr cyfeiriadau hwn">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Enw neu E-bost">

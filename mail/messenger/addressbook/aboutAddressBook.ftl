@@ -12,6 +12,10 @@ about-addressbook-toolbar-new-carddav-address-book =
     .label = Llyfr Cyfeiriadau CardDAV newydd
 about-addressbook-toolbar-new-ldap-address-book =
     .label = Llyfr Cyfeiriadau LDAP newydd
+about-addressbook-toolbar-add-carddav-address-book =
+    .label = Ychwanegu Llyfr Cyfeiriadau CardDAV
+about-addressbook-toolbar-add-ldap-address-book =
+    .label = Ychwanegu Llyfr Cyfeiriadau LDAP
 about-addressbook-toolbar-new-contact =
     .label = Cysylltiad Newydd
 about-addressbook-toolbar-new-list =
@@ -28,6 +32,16 @@ about-addressbook-books-context-print =
     .label = Argraffu…
 about-addressbook-books-context-delete =
     .label = Dileu
+about-addressbook-books-context-remove =
+    .label = Tynnu
+about-addressbook-confirm-delete-book-title = Dileu Llyfr Cyfeiriadau
+# Variables:
+# $name (String) - Name of the address book to be deleted.
+about-addressbook-confirm-delete-book = Ydych chi'n siŵr eich bod chi am ddileu { $name } a'i holl gysylltiadau?
+about-addressbook-confirm-remove-remote-book-title = Dileu Llyfr Cyfeiriadau
+# Variables:
+# $name (String) - Name of the remote address book to be removed.
+about-addressbook-confirm-remove-remote-book = Ydych chi'n siŵr eich bod chi am dynnu { $name }?
 
 ## Cards
 
@@ -53,6 +67,80 @@ about-addressbook-sort-email-ascending =
     .label = Trefnu yn ôl cyfeiriad e-bost (A > Z)
 about-addressbook-sort-email-descending =
     .label = Trefnu yn ôl cyfeiriad e-bost (Z > A)
+about-addressbook-confirm-delete-mixed-title = Dileu Cysylltiadau a Rhestrau
+# Variables:
+# $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
+about-addressbook-confirm-delete-mixed = Ydych chi'n siŵr eich bod chi am ddileu'r { $count } cysylltiad a'r rhestrau hyn?
+# Variables:
+# $count (Number) - The number of lists to be deleted.
+about-addressbook-confirm-delete-lists-title =
+    { $count ->
+        [zero] Dileu Rhestrau
+        [one] Dileu Rhestr
+        [two] Dileu Rhestr
+        [few] Dileu Rhestr
+        [many] Dileu Rhestr
+       *[other] Dileu Rhestr
+    }
+# Variables:
+# $count (Number) - The number of lists to be deleted.
+# $name (String) - The name of the list to be deleted, if $count is 1.
+about-addressbook-confirm-delete-lists =
+    { $count ->
+        [zero] Ydych chi'n siŵr eich bod eisiau dileu'r cysylltiad { $name }?
+        [one] Ydych chi'n siŵr eich bod eisiau dileu'r cysylltiad { $name }?
+        [two] Ydych chi'n siŵr eich bod eisiau dileu'r cysylltiad { $name }?
+        [few] Ydych chi'n siŵr eich bod eisiau dileu'r cysylltiad { $name }?
+        [many] Ydych chi'n siŵr eich bod eisiau dileu'r cysylltiad { $name }?
+       *[other] Ydych chi'n siŵr eich bod eisiau dileu'r cysylltiad { $name }?
+    }
+# Variables:
+# $count (Number) - The number of contacts to be removed.
+about-addressbook-confirm-remove-contacts-title =
+    { $count ->
+        [zero] Tynnu Cysylltiad
+        [one] Tynnu Cysylltiad
+        [two] Tynnu Cysylltiad
+        [few] Tynnu Cysylltiad
+        [many] Tynnu Cysylltiad
+       *[other] Tynnu Cysylltiad
+    }
+# Variables:
+# $count (Number) - The number of contacts to be removed.
+# $name (String) - The name of the contact to be removed, if $count is 1.
+# $list (String) - The name of the list that contacts will be removed from.
+about-addressbook-confirm-remove-contacts =
+    { $count ->
+        [zero] Ydych chi'n siŵr eich bod eisiau tynnu'r cysylltiad { $name } o { $list }?
+        [one] Ydych chi'n siŵr eich bod eisiau tynnu'r cysylltiad { $name } o { $list }?
+        [two] Ydych chi'n siŵr eich bod eisiau tynnu'r cysylltiad { $name } o { $list }?
+        [few] Ydych chi'n siŵr eich bod eisiau tynnu'r cysylltiad { $name } o { $list }?
+        [many] Ydych chi'n siŵr eich bod eisiau tynnu'r cysylltiad { $name } o { $list }?
+       *[other] Ydych chi'n siŵr eich bod eisiau tynnu'r cysylltiad { $name } o { $list }?
+    }
+# Variables:
+# $count (Number) - The number of contacts to be deleted.
+about-addressbook-confirm-delete-contacts-title =
+    { $count ->
+        [zero] Dileu Cysylltiadau
+        [one] Dileu Cysylltiad
+        [two] Dileu Cysylltiad
+        [few] Dileu Cysylltiad
+        [many] Dileu Cysylltiad
+       *[other] Dileu Cysylltiad
+    }
+# Variables:
+# $count (Number) - The number of contacts to be deleted.
+# $name (String) - The name of the contact to be deleted, if $count is 1.
+about-addressbook-confirm-delete-contacts =
+    { $count ->
+        [zero] Ydych chi'n siŵr eich bod chi am ddileu'r { $count } cysylltiad yma?
+        [one] Ydych chi'n siŵr eich bod chi am ddileu'r { $count } cysylltiad yma?
+        [two] Ydych chi'n siŵr eich bod chi am ddileu'r { $count } cysylltiad yma?
+        [few] Ydych chi'n siŵr eich bod chi am ddileu'r { $count } cysylltiad yma?
+        [many] Ydych chi'n siŵr eich bod chi am ddileu'r { $count } cysylltiad yma?
+       *[other] Ydych chi'n siŵr eich bod chi am ddileu'r { $count } cysylltiad yma?
+    }
 
 ## Details
 
