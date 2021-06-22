@@ -81,6 +81,16 @@ about-addressbook-confirm-delete-lists-title =
        *[other] Izbriši sezname
     }
 # Variables:
+# $count (Number) - The number of lists to be deleted.
+# $name (String) - The name of the list to be deleted, if $count is 1.
+about-addressbook-confirm-delete-lists =
+    { $count ->
+        [one] Ali res želite izbrisati seznam { $name }?
+        [two] Ali res želite izbrisati izbrana seznama?
+        [few] Ali res želite izbrisati izbrane { $count } sezname?
+       *[other] Ali res želite izbrisati izbranih { $count } seznamov?
+    }
+# Variables:
 # $count (Number) - The number of contacts to be removed.
 about-addressbook-confirm-remove-contacts-title =
     { $count ->
