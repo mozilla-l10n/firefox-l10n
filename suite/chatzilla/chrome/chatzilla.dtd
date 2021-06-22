@@ -1,0 +1,17 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY Menubar.tooltip    "Főmenü">
+<!ENTITY Toolbar.tooltip    "Fő eszköztár">
+
+
+<!ENTITY multiline-expand.tooltip   "Váltás többsoros bemenetre (Ctrl+Fel)">
+<!ENTITY multiline-contract.tooltip "Váltás egysoros bemenetre (Ctrl+Le)">
+<!ENTITY multiline-send.tooltip     "Szöveg elküldése (Ctrl+Enter)">
+
+<!ENTITY Underline.label             "Aláhúzott">
+<!ENTITY Bold.label                  "Félkövér">
+<!ENTITY Normal.label                "Normál">
+<!ENTITY Color.label                 "Szín">
+<!ENTITY ForeBack.label              "xx=Előtér yy=Háttér">
