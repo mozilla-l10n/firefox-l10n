@@ -12,6 +12,10 @@ about-addressbook-toolbar-new-carddav-address-book =
     .label = Nov imenik CardDAV
 about-addressbook-toolbar-new-ldap-address-book =
     .label = Nov imenik LDAP
+about-addressbook-toolbar-add-carddav-address-book =
+    .label = Dodaj imenik CardDAV
+about-addressbook-toolbar-add-ldap-address-book =
+    .label = Dodaj imenik LDAP
 about-addressbook-toolbar-new-contact =
     .label = Nov stik
 about-addressbook-toolbar-new-list =
@@ -28,6 +32,16 @@ about-addressbook-books-context-print =
     .label = Natisni …
 about-addressbook-books-context-delete =
     .label = Izbriši
+about-addressbook-books-context-remove =
+    .label = Odstrani
+about-addressbook-confirm-delete-book-title = Izbriši imenik
+# Variables:
+# $name (String) - Name of the address book to be deleted.
+about-addressbook-confirm-delete-book = Ali res želite izbrisati imenik { $name } in vse stike v njem?
+about-addressbook-confirm-remove-remote-book-title = Odstrani imenik
+# Variables:
+# $name (String) - Name of the remote address book to be removed.
+about-addressbook-confirm-remove-remote-book = Ali res želite odstraniti imenik { $name }?
 
 ## Cards
 
@@ -53,6 +67,34 @@ about-addressbook-sort-email-ascending =
     .label = Razvrsti po e-poštnem naslovu (A > Ž)
 about-addressbook-sort-email-descending =
     .label = Razvrsti po e-poštnem naslovu (Ž > A)
+about-addressbook-confirm-delete-mixed-title = Izbriši stike in sezname
+# Variables:
+# $count (Number) - The number of lists to be deleted.
+about-addressbook-confirm-delete-lists-title =
+    { $count ->
+        [one] Izbriši seznam
+        [two] Izbriši seznama
+        [few] Izbriši sezname
+       *[other] Izbriši sezname
+    }
+# Variables:
+# $count (Number) - The number of contacts to be removed.
+about-addressbook-confirm-remove-contacts-title =
+    { $count ->
+        [one] Odstrani stik
+        [two] Odstrani stika
+        [few] Odstrani stike
+       *[other] Odstrani stike
+    }
+# Variables:
+# $count (Number) - The number of contacts to be deleted.
+about-addressbook-confirm-delete-contacts-title =
+    { $count ->
+        [one] Izbriši stik
+        [two] Izbriši stika
+        [few] Izbriši stike
+       *[other] Izbriši stike
+    }
 
 ## Details
 
