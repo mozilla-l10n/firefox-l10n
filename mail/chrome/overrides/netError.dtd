@@ -146,9 +146,9 @@
 <!ENTITY nssBadCert.longDesc2 "
 <ul>
   <li>Ésto podría ser un problema con la configuración del servidor o podría ser
-aguien tratando de hacerse pasar por el servidor.</li>
+alguien tratando de hacerse pasar por el servidor.</li>
   <li>Si se conectó a este servidor correctamente en el pasado, el error puede
-ser temporal y puede inentarlo nuevamente más tarde.</li>
+ser temporal y puede intentarlo nuevamente más tarde.</li>
 </ul>
 ">
 
@@ -174,7 +174,7 @@ ser temporal y puede inentarlo nuevamente más tarde.</li>
 
 <!ENTITY securityOverride.linkText "O puede agregar una excepción…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Sáquenme de aquí">
-<!ENTITY securityOverride.exceptionButtonLabel "Agregar excepción">
+<!ENTITY securityOverride.exceptionButtonLabel "Agregar excepción…">
 
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The
