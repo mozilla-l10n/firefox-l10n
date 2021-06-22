@@ -1171,7 +1171,7 @@ collection-health-report =
     .accesskey = Ш
 collection-health-report-link = Сазнајте више
 collection-studies =
-    .label = Дозволи { -brand-short-name }-у да инсталира и покрене студије
+    .label = Дозволи инсталацију студија
 collection-studies-link = Погледајте { -brand-short-name } студије
 addon-recommendations =
     .label =
@@ -1186,9 +1186,11 @@ addon-recommendations-link = Сазнајте више
 # or builds with no Telemetry support available.
 collection-health-report-disabled = У овој верзији је слање података онемогућено.
 collection-backlogged-crash-reports =
-    .label = Дозволи да { -brand-short-name } шаље заостале извештаје о отказивању у моје име
-    .accesskey = Д
+    .label = Шаљи заостале извештаје о отказивању у моје име
+    .accesskey = љ
 collection-backlogged-crash-reports-link = Сазнајте више
+collection-backlogged-crash-reports-with-link = Шаљи заостале извештаје о отказивању у моје име <a data-l10n-name="crash-reports-link">Сазнајте више</a>
+    .accesskey = љ
 
 ## Privacy Section - Security
 ##
