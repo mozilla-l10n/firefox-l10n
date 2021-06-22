@@ -119,6 +119,16 @@ about-addressbook-confirm-delete-contacts-title =
         [few] Kontakty wulašowaś
        *[other] Kontakty wulašowaś
     }
+# Variables:
+# $count (Number) - The number of contacts to be deleted.
+# $name (String) - The name of the contact to be deleted, if $count is 1.
+about-addressbook-confirm-delete-contacts =
+    { $count ->
+        [one] Cośo napšawdu kontakt { $name } wulašowaś?
+        [two] Cośo napšawdu toś tej { $count } kontakta wulašowaś?
+        [few] Cośo napšawdu toś te { $count } kontakty wulašowaś?
+       *[other] Cośo napšawdu toś te { $count } kontaktow wulašowaś?
+    }
 
 ## Details
 
