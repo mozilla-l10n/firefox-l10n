@@ -156,6 +156,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newIM.tooltip                                  "傳送即時訊息或聊天">
 <!ENTITY deleteButton2.tooltip                          "刪除選取的項目">
 
+<!ENTITY removeButton.tooltip                           "刪除選擇的通訊錄">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "姓名 或 Email">
