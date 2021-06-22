@@ -187,6 +187,7 @@ mr1-onboarding-get-started-primary-button-label = شروع کریں
 ## Title, subtitle and primary button string used on set default onboarding screen
 ## when Firefox is not default browser
 
+mr1-onboarding-default-primary-button-label = طےشدہ براؤزر بنائیں
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 

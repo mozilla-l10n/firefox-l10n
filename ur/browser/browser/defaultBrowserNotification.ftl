@@ -7,3 +7,11 @@ default-browser-notification-message = <strong> { -brand-short-name } کو اپ�
 default-browser-notification-button =
     .label = بطور طے شدہ سیٹ کریں
     .accesskey = S
+
+## These strings are used for the default browser prompt. There are 2 variations
+## depending on the operating system (Windows vs other). The checkbox label and
+## secondary button are shared between the variants.
+
+default-browser-prompt-button-primary-pin = بنیادی براؤزر بنائیں
+default-browser-prompt-button-primary-alt = پہلے سے طے شدہ براؤزر کے طور پر سیٹ کریں
+default-browser-prompt-button-secondary = ابھی نہیں

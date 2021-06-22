@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+toolbar-context-menu-new-tab =
+    .label = نیا ٹیب
+    .accesskey = w
 toolbar-context-menu-reload-selected-tab =
     .label = منتخب ٹیب دوبارہ لوڈ کریں
     .accesskey = R
@@ -55,15 +58,6 @@ toolbar-context-menu-remove-from-toolbar =
 toolbar-context-menu-view-customize-toolbar =
     .label = تخصیص کریں…
     .accesskey = C
-toolbar-context-menu-bookmarks-toolbar-always-show =
-    .label = ہمیشہ
-    .accesskey = A
-toolbar-context-menu-bookmarks-toolbar-never-show =
-    .label = کبھی نہیں
-    .accesskey = N
-toolbar-context-menu-bookmarks-toolbar-on-new-tab =
-    .label = صرف نئی ٹیب پر
-    .accesskey = O
 toolbar-context-menu-bookmarks-toolbar-always-show-2 =
     .label = ہمیشہ دکھائیں
     .accesskey = A

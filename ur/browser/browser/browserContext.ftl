@@ -88,6 +88,9 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
+## Firefox Account Button
+
+
 ## Save Page
 
 main-context-menu-page-save =
@@ -236,6 +239,9 @@ main-context-menu-image-view =
 main-context-menu-video-view =
     .label = وڈیو دیکھیں
     .accesskey = I
+main-context-menu-image-view-new-tab =
+    .label = تصویر نئی ٹیب میں کھولیں
+    .accesskey = 
 main-context-menu-image-copy =
     .label = نقش نقل کریں
     .accesskey = y

@@ -341,6 +341,10 @@ browser-window-close-button =
 
 ## Tab actions
 
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = ‏‏چلا رہا ہے
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = خاموش
 
 ## These labels should be written in all capital letters if your locale supports them.
 ## Variables:
@@ -548,3 +552,5 @@ eme-notifications-drm-content-playing = اس سائٹ پر کچھ آڈیو یا 
 
 ## Remote / Synced tabs
 
+remote-tabs-manage-account =
+    .label = اکاؤنٹ منظم کریں

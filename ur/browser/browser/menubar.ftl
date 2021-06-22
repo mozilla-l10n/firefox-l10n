@@ -256,6 +256,9 @@ menu-tools-fxa-re-auth =
 menu-tools-web-developer =
     .label = ویب تکمیل کار
     .accesskey = W
+menu-tools-browser-tools =
+    .label = براؤزر ٹولز
+    .accesskey = B
 menu-tools-page-source =
     .label = صفحہ ماخذ
     .accesskey = o
@@ -290,15 +293,6 @@ menu-window-bring-all-to-front =
 # NOTE: For Engineers, any additions or changes to Help menu strings should
 # also be reflected in the related strings in appmenu.ftl. Those strings, by
 # convention, will have the same ID as these, but prefixed with "app".
-# Example: appmenu-help-product
-#
-# These strings are duplicated to allow for different casing depending on
-# where the strings appear.
-
-
-# NOTE: For Engineers, any additions or changes to Help menu strings should
-# also be reflected in the related strings in appmenu.ftl. Those strings, by
-# convention, will have the same ID as these, but prefixed with "app".
 # Example: appmenu-get-help
 #
 # These strings are duplicated to allow for different casing depending on
@@ -322,8 +316,6 @@ menu-help-keyboard-shortcuts =
 menu-help-troubleshooting-info =
     .label = ازالہ کاری معلومات
     .accesskey = T
-menu-help-taskmanager =
-    .label = ٹاسک مینیجر
 menu-help-report-site-issue =
     .label = سائٹ مسلہ… رپورٹ کریں
 menu-help-feedback-page =

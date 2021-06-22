@@ -8,6 +8,7 @@
 
 ## New changes screen
 
+upgrade-dialog-new-item-tabs-title = جدید ٹیبز
 # This string is only shown on Windows 7, where we intentionally suppress the
 # theme selection screen.
 upgrade-dialog-new-primary-win7-button = ٹھیک ہے، سمجھ آگیا
@@ -21,6 +22,8 @@ upgrade-dialog-new-primary-win7-button = ٹھیک ہے، سمجھ آگیا
 
 ## Default browser screen
 
+upgrade-dialog-default-primary-button-2 = طےشدہ براؤزر بنائیں
+upgrade-dialog-default-secondary-button = ابھی نہیں
 
 ## Theme selection screen
 

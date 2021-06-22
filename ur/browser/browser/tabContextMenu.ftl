@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+tab-context-new-tab =
+    .label = نیا ٹیب
+    .accesskey = w
 reload-tab =
     .label = ٹیب پھر لوڈ کریں
     .accesskey = R
@@ -14,6 +17,8 @@ duplicate-tab =
 duplicate-tabs =
     .label = مثنی ٹیب
     .accesskey = D
+# The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = دائیں طرف کے ٹیب بند کریں
     .accesskey = i
@@ -50,10 +55,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = تمام ٹیب بند کریں
     .accesskey = M
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 close-tab =
     .label = ٹیب بند کریں
     .accesskey = c
@@ -66,6 +67,15 @@ move-tabs =
 move-tab =
     .label = ٹیب منتقل کریں
     .accesskey = v
+tab-context-share-url =
+    .label = شیئر کریں
+    .accesskey = h
+tab-context-share-more =
+    .label = مزید…
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
 tab-context-close-tabs =
     .label =
         { $tabCount ->

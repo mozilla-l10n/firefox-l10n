@@ -17,6 +17,10 @@ appmenuitem-new-window =
     .label = نیا ونڈوں
 appmenuitem-new-private-window =
     .label = نیا نجی ونڈوں
+# Settings is now used to access the browser settings across all platforms,
+# instead of Options or Preferences.
+appmenuitem-settings =
+    .label = سیٹنگز
 
 ## Zoom and Fullscreen Controls
 
@@ -31,6 +35,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = ابھی Sync کریں
+appmenu-fxa-show-more-tabs = مزید ٹیبز دکھائیں
 appmenuitem-save-page =
     .label = صفحہ محفوظ کریں بطور…
 
