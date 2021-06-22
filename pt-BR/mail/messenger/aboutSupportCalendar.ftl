@@ -14,3 +14,5 @@ calendars-table-refreshinterval = Intervalo de atualização
 calendars-table-readonly = Somente leitura
 calendars-table-suppressalarms = Suprimir alarmes
 calendars-table-cache-enabled = Cache ativado
+calendars-table-capabilities-alarms-maxcount = Máximo de alarmes por evento
+calendars-table-capabilities-categories-maxcount = Máximo de categorias

@@ -11,11 +11,26 @@ unread-messages-os-tooltip =
     }
 about-rights-notification-text = O { -brand-short-name } é um software livre e de código aberto, criado por uma comunidade de milhares de pessoas do mundo todo.
 
+## Content tabs
+
+content-tab-page-loading-icon =
+    .alt = A página está carregando
+content-tab-security-high-icon =
+    .alt = A conexão é segura
+content-tab-security-broken-icon =
+    .alt = A conexão não é segura
+
 ## Toolbar
 
 addons-and-themes-button =
     .label = Extensões e temas
     .tooltip = Gerenciar extensões
+addons-and-themes-toolbarbutton =
+    .label = Extensões e temas
+    .tooltiptext = Gerenciar extensões e temas
+quick-filter-toolbarbutton =
+    .label = Filtro rápido
+    .tooltiptext = Filtrar mensagens
 redirect-msg-button =
     .label = Redirecionar
     .tooltiptext = Redirecionar mensagens selecionadas

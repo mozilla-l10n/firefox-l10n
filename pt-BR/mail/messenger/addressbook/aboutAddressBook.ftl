@@ -79,6 +79,13 @@ about-addressbook-confirm-remove-contacts-title =
         [one] Remover contato
        *[other] Remover contatos
     }
+# Variables:
+# $count (Number) - The number of contacts to be deleted.
+about-addressbook-confirm-delete-contacts-title =
+    { $count ->
+        [one] Excluir contato
+       *[other] Excluir contatos
+    }
 
 ## Details
 
