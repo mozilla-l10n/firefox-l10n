@@ -480,6 +480,8 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = Предпочитани страници
 home-prefs-topsites-description = Най-посещаваните от вас страници
+home-prefs-topsites-by-option-sponsored =
+    .label = Платени препратки
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -863,6 +865,10 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Отворени раздели
     .accesskey = р
+# Shortcuts refers to the shortcut tiles on the new tab page, previously known as top sites. Translation should be consistent.
+addressbar-locbar-shortcuts-option =
+    .label = Бързи клавиши
+    .accesskey = л
 addressbar-locbar-topsites-option =
     .label = Предпочитани страници
     .accesskey = с
