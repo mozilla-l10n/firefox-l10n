@@ -11,11 +11,26 @@ unread-messages-os-tooltip =
     }
 about-rights-notification-text = { -brand-short-name } is free and open source software, built by a community of thousands from all over the world.
 
+## Content tabs
+
+content-tab-page-loading-icon =
+    .alt = The page is loading
+content-tab-security-high-icon =
+    .alt = The connection is secure
+content-tab-security-broken-icon =
+    .alt = The connection is not secure
+
 ## Toolbar
 
 addons-and-themes-button =
     .label = Add-ons and Themes
     .tooltip = Manage your add-ons
+addons-and-themes-toolbarbutton =
+    .label = Add-ons and Themes
+    .tooltiptext = Manage your add-ons
+quick-filter-toolbarbutton =
+    .label = Quick Filter
+    .tooltiptext = Filter messages
 redirect-msg-button =
     .label = Redirect
     .tooltiptext = Redirect selected message
