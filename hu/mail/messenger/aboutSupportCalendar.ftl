@@ -12,6 +12,7 @@ calendars-table-username = Felhasználónév
 calendars-table-uri = URI
 calendars-table-refreshinterval = Frissítési intervallum
 calendars-table-readonly = Írásvédett
+calendars-table-suppressalarms = Riasztások elnyomása
 calendars-table-cache-enabled = Gyorsítótár engedélyezve
 calendars-table-imip-identity = iMIP személyazonosság
 calendars-table-imip-identity-disabled = iMIP letiltva

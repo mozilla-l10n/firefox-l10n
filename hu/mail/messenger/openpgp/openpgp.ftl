@@ -281,6 +281,8 @@ openpgp-selection-status =
        *[other] A jelenlegi konfiguráció a(z) <b>{ $key }</b> kulcsazonosítót használja.
     }
 #   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status-have-key = A jelenlegi konfiguráció a(z) <b>{ $key }</b> kulcsazonosítót használja.
+#   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-error = A jelenlegi konfiguráció a(z) <b>{ $key }</b> kulcsot használja, ami lejárt.
 openpgp-add-key-button =
     .label = Kulcs hozzáadása…
@@ -306,6 +308,10 @@ openpgp-key-expires-image =
 openpgp-radio-key-expired = Lejárt: { $date }
 openpgp-key-expired-image =
     .tooltiptext = A kulcs lejárt
+openpgp-key-expires-within-6-months-icon =
+    .title = A kulcs kevesebb, mint 6 hónap múlva lejár
+openpgp-key-has-expired-icon =
+    .title = A kulcs lejárt
 openpgp-key-expand-section =
     .tooltiptext = További információ
 openpgp-key-revoke-title = Kulcs visszavonása
@@ -453,18 +459,13 @@ openpgp-export-secret-fail = <b>A kiválasztott titkos kulcs nem exportálható!
 # Strings in keyObj.jsm
 key-ring-pub-key-revoked = A(z) { $userId } kulcsot (kulcsazonosító: { $keyId }) visszavonták.
 key-ring-pub-key-expired = A(z) { $userId } kulcs (kulcsazonosító: { $keyId }) lejárt.
-key-ring-key-disabled = A(z) { $userId } kulcs (kulcsazonosító: { $keyId }) le van tiltva; nem használható.
-key-ring-key-invalid = A(z) { $userId } kulcs (kulcsazonosító: { $keyId }) érvénytelen. Fontolja meg a helyessége ellenőrzését.
-key-ring-key-not-trusted = A(z) { $userId } kulcs (kulcsazonosító: { $keyId }) nem eléggé megbízható. Állítsa be a kulcs bizalmi értékét „teljesen megbízhatóra”, hogy aláírásra használhassa.
 key-ring-no-secret-key = Úgy tűnik, hogy nem rendelkezik a(z) { $userId } kulccsal (kulcsazonosító: { $keyId }) a kulcstartójában: nem használhatja a kulcsot aláíráshoz.
 key-ring-pub-key-not-for-signing = A(z) { $userId } kulcs (kulcsazonosító: { $keyId }) nem használható aláíráshoz.
 key-ring-pub-key-not-for-encryption = A(z) { $userId } kulcs (kulcsazonosító: { $keyId }) nem használható titkosításhoz.
 key-ring-sign-sub-keys-revoked = A(z) { $userId } kulcs (kulcsazonosító: { $keyId }) összes aláírási alkulcsát visszavonták.
 key-ring-sign-sub-keys-expired = A(z) { $userId } kulcs (kulcsazonosító: { $keyId }) összes aláírási alkulcsa lejárt.
-key-ring-sign-sub-keys-unusable = A(z) { $userId } kulcs (kulcsazonosító: { $keyId }) összes aláírási alkulcsa visszavonásra került, lejárt vagy más okból nem használható.
 key-ring-enc-sub-keys-revoked = A(z) { $userId } kulcs (kulcsazonosító: { $keyId }) összes titkosítási alkulcsát visszavonták.
 key-ring-enc-sub-keys-expired = A(z) { $userId } kulcs (kulcsazonosító: { $keyId }) összes titkosítási alkulcsa lejárt.
-key-ring-enc-sub-keys-unusable = A(z) { $userId } kulcs (kulcsazonosító: { $keyId }) összes titkosítási alkulcsa visszavonásra került, lejárt vagy más okból nem használható.
 # Strings in gnupg-keylist.jsm
 keyring-photo = Fénykép
 user-att-photo = Felhasználói attribútum (JPEG-kép)
