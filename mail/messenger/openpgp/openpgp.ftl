@@ -281,6 +281,8 @@ openpgp-selection-status =
        *[other] Sua configuração atual usa os IDs de chave <b>{ $key }</b>
     }
 #   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status-have-key = Sua configuração atual usa ID de chave <b>{ $key }</b>
+#   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-error = Sua configuração atual usa a chave <b>{ $key }</b>, que está vencida.
 openpgp-add-key-button =
     .label = Adicionar chave…
