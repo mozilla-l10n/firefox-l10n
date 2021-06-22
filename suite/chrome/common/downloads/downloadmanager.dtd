@@ -56,6 +56,28 @@
 <!ENTITY view.sortDescending.label       "Razvrsti Ž > A">
 <!ENTITY view.sortDescending.accesskey   "Ž">
 
+<!ENTITY cmd.pause.label                 "Premor">
+<!ENTITY cmd.pause.accesskey             "P">
+<!ENTITY cmd.resume.label                "Nadaljuj">
+<!ENTITY cmd.resume.accesskey            "N">
+<!ENTITY cmd.retry.label                 "Poskusi znova">
+<!ENTITY cmd.retry.accesskey             "k">
+<!ENTITY cmd.cancel.label                "Prekliči">
+<!ENTITY cmd.cancel.accesskey            "č">
+<!ENTITY cmd.remove.label                "Odstrani s seznama">
+<!ENTITY cmd.remove.accesskey            "s">
+<!ENTITY cmd.open.label                  "Odpri">
+<!ENTITY cmd.open.accesskey              "O">
+<!ENTITY cmd.show.label                  "Odpri vsebujočo mapo">
+<!ENTITY cmd.show.accesskey              "b">
+<!ENTITY cmd.goToDownloadPage.label      "Pojdi na stran za prenos">
+<!ENTITY cmd.goToDownloadPage.accesskey  "j">
+<!ENTITY cmd.copyDownloadLink.label      "Kopiraj povezavo za prenos">
+<!ENTITY cmd.copyDownloadLink.accesskey  "r">
+<!ENTITY cmd.properties.label            "Lastnosti ...">
+<!ENTITY cmd.properties.accesskey        "L">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
      This command is shown in the context menu when downloads are blocked.
      -->
+<!ENTITY cmd.unblock2.label               "Dovoli prenos">
+<!ENTITY cmd.unblock2.accesskey           "v">
