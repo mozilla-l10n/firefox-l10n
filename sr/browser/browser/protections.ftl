@@ -34,7 +34,13 @@ protection-report-settings-link = Управљајте подешавањима 
 etp-card-title-always = Побољшана заштита од праћења: увек укључена
 etp-card-title-custom-not-blocking = Побољшана заштита од праћења: ИСКЉУЧЕНА
 etp-card-content-description = { -brand-short-name } аутоматски спречава компаније да вас потајно прате на мрежи.
-protection-report-etp-card-content-custom-not-blocking = Све заштите су тренутно искључене. Изаберите које пратиоце желите блокирати управљајући { -brand-short-name } подешавањима заштите.
+protection-report-etp-card-content-custom-not-blocking =
+    Тренутно су онемогућене све заштите. У подешавањима { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "gen") }
+        [feminine] { -brand-short-name(case: "gen") }
+        [neuter] { -brand-short-name(case: "gen") }
+       *[other] програма { -brand-short-name }
+    } изаберите које елементе за праћење желите да блокирате.
 protection-report-manage-protections = Управљај подешавањима
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
