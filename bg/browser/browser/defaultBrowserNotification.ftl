@@ -7,3 +7,12 @@ default-browser-notification-message = <strong>Задайте { -brand-short-nam
 default-browser-notification-button =
     .label = Задаване по подразбиране
     .accesskey = S
+
+## These strings are used for the default browser prompt. There are 2 variations
+## depending on the operating system (Windows vs other). The checkbox label and
+## secondary button are shared between the variants.
+
+default-browser-prompt-title-pin = Да бъде ли избран { -brand-short-name } за основен четец?
+default-browser-prompt-button-primary-alt = Четец по подразбиране
+default-browser-prompt-checkbox-not-again-label = Спиране на този въпрос
+default-browser-prompt-button-secondary = Не сега

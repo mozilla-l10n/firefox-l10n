@@ -11,6 +11,7 @@ pw-empty-warning = Вашите запазени уеб и пощенски па
 pw-erased-ok = Изтрихте вашата главна парола. { pw-empty-warning }
 pw-not-wanted = Внимание! Вие решихте да не използвате главна парола. { pw-empty-warning }
 pw-change2empty-in-fips-mode = В момента е активен режим FIPS. Той изисква попълнена главна парола.
+failed-pp-change = Грешка при промяна на главната парола.
 pp-change-ok = Главната парола е сменена успешно.
 pw-change-success-title = Успешна промяна на парола
 pw-change-failed-title = Грешка при промяна на паролата
