@@ -12,11 +12,26 @@ unread-messages-os-tooltip =
     }
 about-rights-notification-text = { -brand-short-name } je svobodný a otevřený software vytvořený komunitou tisíců lidí z celého světa.
 
+## Content tabs
+
+content-tab-page-loading-icon =
+    .alt = Stránka se načítá
+content-tab-security-high-icon =
+    .alt = Spojení je zabezpečené
+content-tab-security-broken-icon =
+    .alt = Spojení není zabezepečené
+
 ## Toolbar
 
 addons-and-themes-button =
     .label = Doplňky a vzhledy
     .tooltip = Otevře správce doplňků
+addons-and-themes-toolbarbutton =
+    .label = Doplňky a vzhledy
+    .tooltiptext = Správa doplňků
+quick-filter-toolbarbutton =
+    .label = Rychlý filtr
+    .tooltiptext = Filtrování zpráv
 redirect-msg-button =
     .label = Přesměrovat
     .tooltiptext = Přesměruje vybranou zprávu
