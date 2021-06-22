@@ -297,6 +297,8 @@ openpgp-selection-status =
        *[other] Waša aktualna konfiguracija klučowe ID <b>{ $key }</b> wužiwa
     }
 #   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status-have-key = Waša aktualna konfiguracija klučowe ID <b>{ $key }</b> wužiwa
+#   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-error = Waša aktualna konfiguracije kluč <b>{ $key }</b> wužiwa, kotryž je spadnył.
 openpgp-add-key-button =
     .label = Kluč přidać…
@@ -322,6 +324,10 @@ openpgp-key-expires-image =
 openpgp-radio-key-expired = Je spadnył: { $date }
 openpgp-key-expired-image =
     .tooltiptext = Kluč je spadnył
+openpgp-key-expires-within-6-months-icon =
+    .title = Kluč za mjenje hač 6 měsacow spadnje
+openpgp-key-has-expired-icon =
+    .title = Kluč je spadnył
 openpgp-key-expand-section =
     .tooltiptext = Dalše informacije
 openpgp-key-revoke-title = Kluč wotwołać
@@ -469,18 +475,13 @@ openpgp-export-secret-fail = <b>Njeje móžno, wubrany tajny kluč eksportować!
 # Strings in keyObj.jsm
 key-ring-pub-key-revoked = Kluč { $userId } (klučowy ID { $keyId }) je so wotwołał.
 key-ring-pub-key-expired = Kluč { $userId } (klučowy ID { $keyId }) je spadnył.
-key-ring-key-disabled = Kluč { $userId } (klučowy ID { $keyId }) je znjemóžnjeny; njeda so wužiwać.
-key-ring-key-invalid = Kluč { $userId } (klučowy ID { $keyId }) płaćiwy njeje. Prošu přepruwujće, hač wón je korektny.
-key-ring-key-not-trusted = Kluč { $userId } (klučowy ID { $keyId }) dowěry hódny dosć njeje. Prošu stajće stopjeń dowěry swojeho kluča na „doskónčny“, zo by jón za signowanje wužiwał.
 key-ring-no-secret-key = Zda so, zo tajny kluč za { $userId } (klučowy ID { $keyId }) na swojim klučowcu nimaće; njemóžeće kluč za signowanje wužiwać.
 key-ring-pub-key-not-for-signing = Kluč { $userId } (klučowy ID { $keyId }) njeda so za signowanje wužiwać.
 key-ring-pub-key-not-for-encryption = Kluč { $userId } (klučowy ID { $keyId }) njeda so za zaklučowanje wužiwać.
 key-ring-sign-sub-keys-revoked = Wšě signowanske podkluče kluča { $userId } (klučowy ID { $keyId } su wotwołane.
 key-ring-sign-sub-keys-expired = Wšě signowanske podkluče kluča { $userId } (klučowy ID { $keyId } su spadnyli.
-key-ring-sign-sub-keys-unusable = Wšě signowanske podkluče kluča { $userId } (klučowy ID { $keyId } su wotwołane, spadnyli abo hewak njewužiwajomne.
 key-ring-enc-sub-keys-revoked = Wšě zaklučowanske podkluče kluča { $userId } (klučowy ID { $keyId }) su wotwołane.
 key-ring-enc-sub-keys-expired = Wšě zaklučowanske podkluče kluča { $userId } (klučowy ID { $keyId } su spadnyli.
-key-ring-enc-sub-keys-unusable = Wšě zaklučowanske podkluče kluča { $userId } (klučowy ID { $keyId } su wotwołane, spadnyli abo hewak njewužiwajomne.
 # Strings in gnupg-keylist.jsm
 keyring-photo = Foto
 user-att-photo = Wužiwarski atribut (JPEG-wobraz)

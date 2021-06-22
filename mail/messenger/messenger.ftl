@@ -13,11 +13,26 @@ unread-messages-os-tooltip =
     }
 about-rights-notification-text = { -brand-short-name } je darmotna softwara wotewrjeneho žórła, wuwita wot zhromadźenstwa tysacow ludźi z cyłeho swěta.
 
+## Content tabs
+
+content-tab-page-loading-icon =
+    .alt = Strona so začituje
+content-tab-security-high-icon =
+    .alt = Zwisk je wěsty
+content-tab-security-broken-icon =
+    .alt = Zwisk wěsty njeje
+
 ## Toolbar
 
 addons-and-themes-button =
     .label = Přidatki a drasty
     .tooltip = Waše přidatki rjadować
+addons-and-themes-toolbarbutton =
+    .label = Přidatki a drasty
+    .tooltiptext = Waše přidatki rjadować
+quick-filter-toolbarbutton =
+    .label = Spěšny filter
+    .tooltiptext = Powěsće filtrować
 redirect-msg-button =
     .label = Dale sposrědkować
     .tooltiptext = Wubranu powěsć dale sposrědkować

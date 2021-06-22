@@ -12,6 +12,10 @@ about-addressbook-toolbar-new-carddav-address-book =
     .label = Nowy CardDAV-adresnik
 about-addressbook-toolbar-new-ldap-address-book =
     .label = Nowy LDAP-adresnik
+about-addressbook-toolbar-add-carddav-address-book =
+    .label = CardDAV-adresnik přidać
+about-addressbook-toolbar-add-ldap-address-book =
+    .label = LDAP-adresnik přidać
 about-addressbook-toolbar-new-contact =
     .label = Nowy kontakt
 about-addressbook-toolbar-new-list =
@@ -66,7 +70,7 @@ about-addressbook-sort-email-descending =
 about-addressbook-confirm-delete-mixed-title = Kontakty a lisćiny zhašeć
 # Variables:
 # $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
-about-addressbook-confirm-delete-mixed = Chceće woprawdźe tutu ličbu certifikatow zhašeć? { $count }
+about-addressbook-confirm-delete-mixed = Chceće woprawdźe tutu ličbu kontaktow a lisćinow zhašeć? { $count }
 # Variables:
 # $count (Number) - The number of lists to be deleted.
 about-addressbook-confirm-delete-lists-title =
@@ -94,6 +98,36 @@ about-addressbook-confirm-remove-contacts-title =
         [two] Kontaktaj wotstronić
         [few] Kontakty wotstronić
        *[other] Kontakty wotstronić
+    }
+# Variables:
+# $count (Number) - The number of contacts to be removed.
+# $name (String) - The name of the contact to be removed, if $count is 1.
+# $list (String) - The name of the list that contacts will be removed from.
+about-addressbook-confirm-remove-contacts =
+    { $count ->
+        [one] Chceće woprawdźe { $name } z { $list } wotstronić?
+        [two] Chceće woprawdźe tutej { $count } kontaktaj z { $list } wotstronić?
+        [few] Chceće woprawdźe tutej { $count } kontakty z { $list } wotstronić?
+       *[other] Chceće woprawdźe tutej { $count } kontaktow z { $list } wotstronić?
+    }
+# Variables:
+# $count (Number) - The number of contacts to be deleted.
+about-addressbook-confirm-delete-contacts-title =
+    { $count ->
+        [one] Kontakt zhašeć
+        [two] Kontaktaj zhašeć
+        [few] Kontakty zhašeć
+       *[other] Kontakty zhašeć
+    }
+# Variables:
+# $count (Number) - The number of contacts to be deleted.
+# $name (String) - The name of the contact to be deleted, if $count is 1.
+about-addressbook-confirm-delete-contacts =
+    { $count ->
+        [one] Chceće woprawdźe kontakt { $name } zhašeć?
+        [two] Chceće woprawdźe tute { $count } kontaktaj zhašeć?
+        [few] Chceće woprawdźe tute { $count } kontakty zhašeć?
+       *[other] Chceće woprawdźe tute { $count } kontaktow zhašeć?
     }
 
 ## Details
