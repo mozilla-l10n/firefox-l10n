@@ -13,11 +13,26 @@ unread-messages-os-tooltip =
     }
 about-rights-notification-text = { -brand-short-name } jo dermotna softwara wótwórjonego žrědła, wuwita wót zgromaźeństwa towzyntow luźi z cełego swěta.
 
+## Content tabs
+
+content-tab-page-loading-icon =
+    .alt = Bok se zacytujo
+content-tab-security-high-icon =
+    .alt = Zwisk jo wěsty
+content-tab-security-broken-icon =
+    .alt = Zwisk njejo wěsty
+
 ## Toolbar
 
 addons-and-themes-button =
     .label = Dodanki a drastwy
     .tooltip = Waše dodanki zastojaś
+addons-and-themes-toolbarbutton =
+    .label = Dodanki a drastwy
+    .tooltiptext = Waše dodanki zastojaś
+quick-filter-toolbarbutton =
+    .label = Spěšny filter
+    .tooltiptext = Powěsći filtrowaś
 redirect-msg-button =
     .label = Dalej pósrědniś
     .tooltiptext = Wubranu powěsć dalej pósrědniś
