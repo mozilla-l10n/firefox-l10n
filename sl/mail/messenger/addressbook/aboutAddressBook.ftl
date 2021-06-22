@@ -69,6 +69,9 @@ about-addressbook-sort-email-descending =
     .label = Razvrsti po e-poštnem naslovu (Ž > A)
 about-addressbook-confirm-delete-mixed-title = Izbriši stike in sezname
 # Variables:
+# $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
+about-addressbook-confirm-delete-mixed = Ali res želite izbrisati izbranih { $count } stikov in seznamov?
+# Variables:
 # $count (Number) - The number of lists to be deleted.
 about-addressbook-confirm-delete-lists-title =
     { $count ->
