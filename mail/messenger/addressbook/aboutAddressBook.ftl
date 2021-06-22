@@ -35,6 +35,9 @@ about-addressbook-books-context-delete =
 about-addressbook-books-context-remove =
     .label = Remover
 about-addressbook-confirm-delete-book-title = Excluir catálogo de endereços
+# Variables:
+# $name (String) - Name of the address book to be deleted.
+about-addressbook-confirm-delete-book = Tem certeza que quer excluir { $name } e todo seu conteúdo?
 about-addressbook-confirm-remove-remote-book-title = Remover catálogo de endereços
 # Variables:
 # $name (String) - Name of the remote address book to be removed.
@@ -65,6 +68,9 @@ about-addressbook-sort-email-ascending =
 about-addressbook-sort-email-descending =
     .label = Ordenar por endereço de email (Z > A)
 about-addressbook-confirm-delete-mixed-title = Excluir contatos e listas
+# Variables:
+# $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
+about-addressbook-confirm-delete-mixed = Tem certeza que quer excluir esses { $count } contatos e listas?
 # Variables:
 # $count (Number) - The number of lists to be deleted.
 about-addressbook-confirm-delete-lists-title =
