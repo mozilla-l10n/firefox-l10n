@@ -306,6 +306,8 @@ openpgp-key-expires-image =
 openpgp-radio-key-expired = Expirate le: { $date }
 openpgp-key-expired-image =
     .tooltiptext = Clave expirate
+openpgp-key-has-expired-icon =
+    .title = Clave expirate
 openpgp-key-expand-section =
     .tooltiptext = Plus de informationes
 openpgp-key-revoke-title = Revocar le clave
@@ -455,18 +457,13 @@ openpgp-export-secret-fail = <b>Impossibile exportar le clave secrete seligite!<
 # Strings in keyObj.jsm
 key-ring-pub-key-revoked = Le clave { $userId } (ID clave { $keyId }) es revocate.
 key-ring-pub-key-expired = Le clave { $userId } (ID clave { $keyId }) es expirate.
-key-ring-key-disabled = Le clave { $userId } (ID clave { $keyId }) es disactivate e non pote esser usate.
-key-ring-key-invalid = Le clave { $userId } (ID clave { $keyId }) non es valide.
-key-ring-key-not-trusted = Le clave { $userId } (ID clave { $keyId }) non es bastante digne de fide. Configura le nivello de acceptation de tu clave pro usar lo pro signatura a "finite".
 key-ring-no-secret-key = Tu non pare haber le clave secrete pro { $userId } (ID clave { $keyId }) sur tu anello de claves; tu non pote usa le clave pro signar.
 key-ring-pub-key-not-for-signing = Le clave { $userId } (ID clave { $keyId }) non pote esser usate pro signar.
 key-ring-pub-key-not-for-encryption = Le clave { $userId } (ID clave { $keyId }) non pote esser usate pro cryptar.
 key-ring-sign-sub-keys-revoked = Tote le sub-claves-firma del clave { $userId } (ID clave { $keyId }) es expirate.
 key-ring-sign-sub-keys-expired = Tote le sub-claves-firma del clave { $userId } (ID clave { $keyId }) es expirate.
-key-ring-sign-sub-keys-unusable = Tote le sub-claves firma del clave { $userId } (ID clave { $keyId }) es revocate, expirate o alteremente inusabile.
 key-ring-enc-sub-keys-revoked = Tote le sub-claves-firma del clave { $userId } (ID clave { $keyId }) es revocate, expirate o alteremente inusabile.
 key-ring-enc-sub-keys-expired = Tote le sub-claves cryptographic del clave { $userId } (ID clave { $keyId }) es expirate.
-key-ring-enc-sub-keys-unusable = Tote le sub-claves cryptographic del clave { $userId } (ID clave { $keyId }) es revocate, expirate o alteremente inusabile.
 # Strings in gnupg-keylist.jsm
 keyring-photo = Photo
 user-att-photo = Attributo del usator (imagine JPEG)
