@@ -162,14 +162,14 @@ about-processes-frame-name-many = Subframes ({ $number }): { $shortUrl }
 about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") } ({ NUMBER($total, maximumFractionDigits: 0) } { $unit })
 # Common case.
 about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
-    .title = Gesamt-CPU-Zeit: { NUMBER($total, maximumFractionDigits: 0) } { $unit }
+    .title = Gesamte CPU-Zeit: { NUMBER($total, maximumFractionDigits: 0) } { $unit }
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (wird gemessen)
 # Special case: process or thread is currently idle.
 about-processes-cpu-user-and-kernel-idle = untätig ({ NUMBER($total, maximumFractionDigits: 2) } { $unit })
 # Special case: process or thread is currently idle.
 about-processes-cpu-idle = untätig
-    .title = Gesamt-CPU-Zeit: { NUMBER($total, maximumFractionDigits: 2) } { $unit }
+    .title = Gesamte CPU-Zeit: { NUMBER($total, maximumFractionDigits: 2) } { $unit }
 
 ## Displaying Memory (total and delta)
 ## Variables:
@@ -186,7 +186,7 @@ about-processes-cpu-idle = untätig
 about-processes-total-memory-size = { NUMBER($total, maximumFractionDigits: 0) } { $totalUnit } ({ $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) } { $deltaUnit })
 # Common case.
 about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigits: 0) } { $totalUnit }
-    .title = Evolution: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) } { $deltaUnit }
+    .title = Änderung: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) } { $deltaUnit }
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) } { $totalUnit }
 
