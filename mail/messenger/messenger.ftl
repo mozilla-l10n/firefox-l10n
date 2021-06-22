@@ -10,11 +10,23 @@ unread-messages-os-tooltip =
     }
 about-rights-notification-text = { -brand-short-name } 是一套自由且開放原始碼的軟體，由來自世界各地數千位成員組成的社群所打造。
 
+## Content tabs
+
+content-tab-page-loading-icon =
+    .alt = 頁面載入中
+content-tab-security-high-icon =
+    .alt = 連線是安全的
+content-tab-security-broken-icon =
+    .alt = 連線不安全
+
 ## Toolbar
 
 addons-and-themes-button =
     .label = 附加元件與佈景主題
     .tooltip = 管理您的附加元件
+addons-and-themes-toolbarbutton =
+    .label = 附加元件與佈景主題
+    .tooltiptext = 管理您的附加元件
 redirect-msg-button =
     .label = 重導
     .tooltiptext = 將選擇的訊息重新導向
