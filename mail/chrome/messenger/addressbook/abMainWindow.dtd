@@ -48,6 +48,7 @@
 <!ENTITY editMenu.accesskey                             "Р">
 <!ENTITY deleteCmd.label                                "Видалити">
 <!ENTITY deleteAbCmd.label                              "Видалити адресну книгу">
+<!ENTITY removeAbCmd.label                              "Вилучити адресну книгу">
 <!ENTITY deleteContactCmd.label                         "Видалити контакт">
 <!ENTITY deleteContactsCmd.label                        "Видалити контакти">
 <!ENTITY deleteListCmd.label                            "Видалити список">
@@ -140,6 +141,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.label                            "Видалити">
 <!ENTITY deleteButton2.accesskey                        "В">
 
+<!ENTITY removeButton.label                             "Вилучити">
+<!ENTITY removeButton.accesskey                         "В">
+
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY columnChooser.tooltip                          "Оберіть стовпці для відображення">
 <!ENTITY newContactButton.tooltip                       "Створити нову картку в адресній книзі">
@@ -151,6 +155,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.tooltip                           "Надіслати повідомлення">
 <!ENTITY newIM.tooltip                                  "Надіслати миттєве повідомлення або чат">
 <!ENTITY deleteButton2.tooltip                          "Видалити вибраний елемент">
+
+<!ENTITY removeButton.tooltip                           "Вилучити вибрану адресну книгу">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Ім’я або адреса електронної пошти:">
