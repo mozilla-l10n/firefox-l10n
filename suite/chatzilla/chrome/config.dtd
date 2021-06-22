@@ -1,0 +1,29 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY window.title  "Προτιμήσεις ChatZilla">
+
+
+<!ENTITY homepage.url   "http://chatzilla.hacksrus.com/">
+
+<!ENTITY object.add.label       "Προσθήκη…">
+<!ENTITY object.add.accesskey   "Π">
+
+<!ENTITY object.del.label       "Αφαίρεση">
+<!ENTITY object.del.accesskey   "Α">
+
+<!ENTITY object.reset.label     "Επαναφορά">
+<!ENTITY object.reset.accesskey "φ">
+
+<!ENTITY dialog.apply   "Εφαρμογή">
+
+<!ENTITY network "Δίκτυο">
+<!ENTITY channel "Κανάλι">
+<!ENTITY user    "Χρήστης">
+
+
+<!ENTITY config.type.label        "Τύπος:">
+<!ENTITY config.type.accesskey    "Τ">
+<!ENTITY config.network.label     "Δίκτυο:">
+<!ENTITY config.network.accesskey "Δ">
