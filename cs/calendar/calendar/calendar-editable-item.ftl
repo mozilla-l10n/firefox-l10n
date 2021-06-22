@@ -22,3 +22,5 @@ calendar-editable-item-reminder-icon-suppressed-alarm =
     .alt = Je naplánováno upozornění, které je nyní potlačeno
 calendar-editable-item-reminder-icon-email =
     .alt = Je naplánováno připomenutí e-mailem
+calendar-editable-item-reminder-icon-audio =
+    .alt = Je naplánováno zvukové upozornění
