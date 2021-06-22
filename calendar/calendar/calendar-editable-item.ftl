@@ -22,3 +22,5 @@ calendar-editable-item-reminder-icon-suppressed-alarm =
     .alt = Έχει προγραμματιστεί ειδοποίηση υπενθύμισης, αλλά προς το παρόν αναστέλλεται
 calendar-editable-item-reminder-icon-email =
     .alt = Έχει προγραμματιστεί υπενθύμιση email
+calendar-editable-item-reminder-icon-audio =
+    .alt = Έχει προγραμματιστεί ηχητική ειδοποίηση υπενθύμισης
