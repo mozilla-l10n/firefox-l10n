@@ -9,10 +9,52 @@
 
 <!ENTITY search.placeholder              "Iskanje po prenosih">
 <!ENTITY search.label                    "Iskanje po prenosih">
+<!ENTITY search.accesskey                "I">
+<!ENTITY search.key                      "f">
 
+<!ENTITY cmd.clearList.label             "Počisti seznam">
+<!ENTITY cmd.clearList.tooltip           "Odstrani dokončane, preklicane in neuspele prenose s seznama">
+<!ENTITY cmd.clearList.accesskey         "č">
 
+<!ENTITY col.name.label                  "Ime">
+<!ENTITY col.name.accesskey              "m">
+<!ENTITY col.name.tooltip                "Ime datoteke">
+<!ENTITY col.status.label                "Stanje">
+<!ENTITY col.status.accesskey            "S">
+<!ENTITY col.status.tooltip              "Stanje">
+<!ENTITY col.progress.label              "Napredek">
+<!ENTITY col.progress.accesskey          "N">
+<!ENTITY col.progress.tooltip            "Napredek">
+<!ENTITY col.timeremaining.label         "Preostali čas">
+<!ENTITY col.timeremaining.accesskey     "t">
+<!ENTITY col.timeremaining.tooltip       "Preostali čas">
+<!ENTITY col.transferred.label           "Preneseno">
+<!ENTITY col.transferred.accesskey       "e">
+<!ENTITY col.transferred.tooltip         "Preneseno">
+<!ENTITY col.transferrate.label          "Hitrost">
+<!ENTITY col.transferrate.accesskey      "H">
+<!ENTITY col.transferrate.tooltip        "Hitrost">
+<!ENTITY col.timeelapsed.label           "Pretečen čas">
+<!ENTITY col.timeelapsed.accesskey       "č">
+<!ENTITY col.timeelapsed.tooltip         "Pretečen čas">
+<!ENTITY col.progresstext.label          " &#37;">
+<!ENTITY col.progresstext.accesskey      " &#37;">
+<!ENTITY col.progresstext.tooltip        "Napredek (&#37;)">
+<!ENTITY col.source.label                "Vir">
+<!ENTITY col.source.accesskey            "V">
+<!ENTITY col.source.tooltip              "Vit">
 
+<!ENTITY view.columns.label              "Pokaži stolpce">
+<!ENTITY view.columns.accesskey          "ž">
+<!ENTITY view.sortBy.label               "Razvrsti po">
+<!ENTITY view.sortBy.accesskey           "p">
 
+<!ENTITY view.unsorted.label             "Nerazvrščeno">
+<!ENTITY view.unsorted.accesskey         "N">
+<!ENTITY view.sortAscending.label        "Razvrsti A > Ž">
+<!ENTITY view.sortAscending.accesskey    "A">
+<!ENTITY view.sortDescending.label       "Razvrsti Ž > A">
+<!ENTITY view.sortDescending.accesskey   "Ž">
 
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
      This command is shown in the context menu when downloads are blocked.
