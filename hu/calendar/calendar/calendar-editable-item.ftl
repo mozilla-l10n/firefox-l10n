@@ -22,3 +22,5 @@ calendar-editable-item-reminder-icon-suppressed-alarm =
     .alt = Az emlékeztető riasztás van ütemezve, de jelenleg le van tiltva
 calendar-editable-item-reminder-icon-email =
     .alt = Egy emlékeztető e-mail van ütemezve
+calendar-editable-item-reminder-icon-audio =
+    .alt = Emlékeztető hangjelzés van ütemezve
