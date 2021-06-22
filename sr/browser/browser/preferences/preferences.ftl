@@ -869,10 +869,10 @@ forms-saved-logins =
     .accesskey = С
 forms-master-pw-use =
     .label = Користи главну лозинку
-    .accesskey = К
+    .accesskey = л
 forms-primary-pw-use =
-    .label = Користите главну лозинку
-    .accesskey = U
+    .label = Користи примарну лозинку
+    .accesskey = л
 forms-primary-pw-learn-more-link = Сазнајте више
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -887,7 +887,7 @@ forms-primary-pw-change =
 # Leave this message empty if the translation for "Primary Password" matches
 # "Master Password" in your language. If you're editing the FTL file directly,
 # use { "" } as the value.
-forms-primary-pw-former-name = Од раније позната као главна лозинка
+forms-primary-pw-former-name = { "" }
 forms-primary-pw-fips-title = Тренутно сте у FIPS режиму. Овај режим захтева коришћење главне лозинке.
 forms-master-pw-fips-desc = Грешка приликом промене лозинке
 
