@@ -22,3 +22,5 @@ calendar-editable-item-reminder-icon-suppressed-alarm =
     .alt = Напоминание запланировано, но в настоящее время отключено
 calendar-editable-item-reminder-icon-email =
     .alt = Запланировано напоминание по электронной почте
+calendar-editable-item-reminder-icon-audio =
+    .alt = Запланировано звуковое напоминание
