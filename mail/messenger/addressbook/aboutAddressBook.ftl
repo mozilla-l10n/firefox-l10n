@@ -12,6 +12,10 @@ about-addressbook-toolbar-new-carddav-address-book =
     .label = Nowy CardDAV-adresnik
 about-addressbook-toolbar-new-ldap-address-book =
     .label = Nowy LDAP-adresnik
+about-addressbook-toolbar-add-carddav-address-book =
+    .label = CardDAV-adresnik pśidaś
+about-addressbook-toolbar-add-ldap-address-book =
+    .label = LDAP-adresnik pśidaś
 about-addressbook-toolbar-new-contact =
     .label = Nowy kontakt
 about-addressbook-toolbar-new-list =
@@ -28,6 +32,16 @@ about-addressbook-books-context-print =
     .label = Śišćaś…
 about-addressbook-books-context-delete =
     .label = Lašowaś
+about-addressbook-books-context-remove =
+    .label = Wótwónoźeś
+about-addressbook-confirm-delete-book-title = Adresnik lašowaś
+# Variables:
+# $name (String) - Name of the address book to be deleted.
+about-addressbook-confirm-delete-book = Cośo napšawdu { $name } a wšykne jogo kontakty wulašowaś?
+about-addressbook-confirm-remove-remote-book-title = Adresnik wótwónoźeś
+# Variables:
+# $name (String) - Name of the remote address book to be removed.
+about-addressbook-confirm-remove-remote-book = Cośo napšawdu { $name } wótwónoźeś?
 
 ## Cards
 
@@ -53,6 +67,58 @@ about-addressbook-sort-email-ascending =
     .label = Pó e-mailowej adresy sortěrowaś (A > Z)
 about-addressbook-sort-email-descending =
     .label = Pó e-mailowej adresy sortěrowaś (Z > A)
+about-addressbook-confirm-delete-mixed-title = Kontakty a lisćiny wulašowaś
+# Variables:
+# $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
+about-addressbook-confirm-delete-mixed = Cośo napšawdu toś tu licbu kontaktow a lisćinow wulašowaś? { $count }
+# Variables:
+# $count (Number) - The number of lists to be deleted.
+about-addressbook-confirm-delete-lists-title =
+    { $count ->
+        [one] Lisćinu lašowaś
+        [two] Lisćinje lašowaś
+        [few] Lisćiny lašowaś
+       *[other] Lisćiny lašowaś
+    }
+# Variables:
+# $count (Number) - The number of lists to be deleted.
+# $name (String) - The name of the list to be deleted, if $count is 1.
+about-addressbook-confirm-delete-lists =
+    { $count ->
+        [one] Cośo napšawdu lisćinu { $name } wulašowaś?
+        [two] Cośo napšawdu toś tej { $count } lisćinje wulašowaś?
+        [few] Cośo napšawdu toś te { $count } lisćiny wulašowaś?
+       *[other] Cośo napšawdu toś te { $count } lisćinow wulašowaś?
+    }
+# Variables:
+# $count (Number) - The number of contacts to be removed.
+about-addressbook-confirm-remove-contacts-title =
+    { $count ->
+        [one] Kontakt wótwónoźeś
+        [two] Kontakta wótwónoźeś
+        [few] Kontakty wótwónoźeś
+       *[other] Kontakty wótwónoźeś
+    }
+# Variables:
+# $count (Number) - The number of contacts to be removed.
+# $name (String) - The name of the contact to be removed, if $count is 1.
+# $list (String) - The name of the list that contacts will be removed from.
+about-addressbook-confirm-remove-contacts =
+    { $count ->
+        [one] Cośo napšawdu { $name } z { $list } wótwónoźeś?
+        [two] Cośo napšawdu toś tej { $count } kontakta z { $list } wótwónoźeś?
+        [few] Cośo napšawdu toś te { $count } kontakty z { $list } wótwónoźeś?
+       *[other] Cośo napšawdu toś te { $count } kontaktow z { $list } wótwónoźeś?
+    }
+# Variables:
+# $count (Number) - The number of contacts to be deleted.
+about-addressbook-confirm-delete-contacts-title =
+    { $count ->
+        [one] Kontakt wulašowaś
+        [two] Kontakta wulašowaś
+        [few] Kontakty wulašowaś
+       *[other] Kontakty wulašowaś
+    }
 
 ## Details
 
