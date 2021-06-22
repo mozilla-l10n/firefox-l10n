@@ -100,6 +100,17 @@ about-addressbook-confirm-remove-contacts-title =
        *[other] Odstrani stike
     }
 # Variables:
+# $count (Number) - The number of contacts to be removed.
+# $name (String) - The name of the contact to be removed, if $count is 1.
+# $list (String) - The name of the list that contacts will be removed from.
+about-addressbook-confirm-remove-contacts =
+    { $count ->
+        [one] Ali res želite odstraniti stik { $name } s seznama { $list }?
+        [two] Ali res želite odstraniti izbrana stika s seznama { $list }?
+        [few] Ali res želite odstraniti izbrane { $count } stike s seznama { $list }?
+       *[other] Ali res želite odstraniti izbranih { $count } stikov s seznama { $list }?
+    }
+# Variables:
 # $count (Number) - The number of contacts to be deleted.
 about-addressbook-confirm-delete-contacts-title =
     { $count ->
