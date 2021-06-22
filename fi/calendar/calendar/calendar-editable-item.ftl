@@ -22,3 +22,5 @@ calendar-editable-item-reminder-icon-suppressed-alarm =
     .alt = Muistutushälytys on ajoitettu, mutta se on tällä hetkellä estetty
 calendar-editable-item-reminder-icon-email =
     .alt = Muistutussähköposti on ajoitettu
+calendar-editable-item-reminder-icon-audio =
+    .alt = Muistutusäänihälytys on ajoitettu
