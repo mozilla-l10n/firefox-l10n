@@ -40,7 +40,7 @@ devmgr-button-disable-fips =
 
 load-device =
     .title = Φόρτωση προγράμματος οδήγησης συσκευής PKCS#11
-load-device-info = Εισάγετε τις πληροφορίες για τη μονάδα που θέλετε να προσθέσετε.
+load-device-info = Εισαγάγετε τις πληροφορίες για τη μονάδα που θέλετε να προσθέσετε.
 load-device-modname =
     .value = Όνομα μονάδας
     .accesskey = Μ
