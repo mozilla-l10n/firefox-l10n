@@ -22,3 +22,5 @@ calendar-editable-item-reminder-icon-suppressed-alarm =
     .alt = Dopomnjenske warnowanje je planowane, ale tuchwilu potłóčene
 calendar-editable-item-reminder-icon-email =
     .alt = Dopomnjenska mejlka je planowana
+calendar-editable-item-reminder-icon-audio =
+    .alt = Dopomnjenske awdiowarnowanje je planowane
