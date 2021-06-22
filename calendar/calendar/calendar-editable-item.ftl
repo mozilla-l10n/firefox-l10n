@@ -22,3 +22,5 @@ calendar-editable-item-reminder-icon-suppressed-alarm =
     .alt = Mae rhybudd atgoffa wedi'i drefnu ond ar hyn o bryd yn cael ei atal
 calendar-editable-item-reminder-icon-email =
     .alt = Mae e-bost atgoffa wedi'i drefnu
+calendar-editable-item-reminder-icon-audio =
+    .alt = Mae rhybudd atgoffa wedi'i drefnu
