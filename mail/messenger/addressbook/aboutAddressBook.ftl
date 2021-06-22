@@ -12,6 +12,10 @@ about-addressbook-toolbar-new-carddav-address-book =
     .label = Új CardDAV-címjegyzék
 about-addressbook-toolbar-new-ldap-address-book =
     .label = Új LDAP-címjegyzék
+about-addressbook-toolbar-add-carddav-address-book =
+    .label = CardDAV-címjegyzék hozzáadása
+about-addressbook-toolbar-add-ldap-address-book =
+    .label = LDAP-címjegyzék hozzáadása
 about-addressbook-toolbar-new-contact =
     .label = Új névjegy
 about-addressbook-toolbar-new-list =
@@ -28,6 +32,16 @@ about-addressbook-books-context-print =
     .label = Nyomtatás…
 about-addressbook-books-context-delete =
     .label = Törlés
+about-addressbook-books-context-remove =
+    .label = Eltávolítás
+about-addressbook-confirm-delete-book-title = Címjegyzék törlése
+# Variables:
+# $name (String) - Name of the address book to be deleted.
+about-addressbook-confirm-delete-book = Biztos, hogy törli a(z) { $name } címjegyzéket és a tartalmát?
+about-addressbook-confirm-remove-remote-book-title = Címjegyzék eltávolítása
+# Variables:
+# $name (String) - Name of the remote address book to be removed.
+about-addressbook-confirm-remove-remote-book = Biztos, hogy törli a(z) { $name } címjegyzéket?
 
 ## Cards
 
@@ -53,6 +67,32 @@ about-addressbook-sort-email-ascending =
     .label = Rendezés e-mail-cím szerint (A > Z)
 about-addressbook-sort-email-descending =
     .label = Rendezés e-mail-cím szerint (Z > A)
+about-addressbook-confirm-delete-mixed-title = Névjegyek és listák törlése
+# Variables:
+# $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
+about-addressbook-confirm-delete-mixed = Biztos, hogy törli ezt a(z) { $count } névjegyet és listát?
+# Variables:
+# $count (Number) - The number of lists to be deleted.
+about-addressbook-confirm-delete-lists-title =
+    { $count ->
+        [one] Lista törlése
+       *[other] Listák törlése
+    }
+# Variables:
+# $count (Number) - The number of lists to be deleted.
+# $name (String) - The name of the list to be deleted, if $count is 1.
+about-addressbook-confirm-delete-lists =
+    { $count ->
+        [one] Biztos, hogy törli a(z) { $name } listát?
+       *[other] Biztos, hogy törli ezt a(z) { $count } listát?
+    }
+# Variables:
+# $count (Number) - The number of contacts to be removed.
+about-addressbook-confirm-remove-contacts-title =
+    { $count ->
+        [one] Névjegy eltávolítása
+       *[other] Névjegyek eltávolítása
+    }
 
 ## Details
 
