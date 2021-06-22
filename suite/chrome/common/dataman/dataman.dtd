@@ -2,41 +2,116 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY dataman.windowTitle "Upravitelj podatkov">
+
+<!ENTITY selectAll.key "a">
+
+<!ENTITY select.all.label "Vse vrste podatkov">
+<!ENTITY select.cookies.label "Samo piškotki">
+<!ENTITY select.permissions.label "Samo dovoljenja">
+<!ENTITY select.preferences.label "Samo nastavitve">
+<!ENTITY select.passwords.label "Samo gesla">
+<!ENTITY select.storage.label "Samo shramba">
+
+<!ENTITY domain.search.placeholder "Iskanje domen">
+<!ENTITY domain.search.key "f">
+
+<!ENTITY domain.tree.domain.label "Domena">
+
+<!ENTITY domain.ctx.forgetdomain.label "Pozabi to domeno">
+<!ENTITY domain.ctx.forgetdomain.accesskey "F">
 
 
-
-
-
-
-
+<!ENTITY tab.cookies.label "Piškotki">
+<!ENTITY tab.permissions.label "Dovoljenja">
+<!ENTITY tab.preferences.label "Nastavitve">
+<!ENTITY tab.passwords.label "Gesla">
+<!ENTITY tab.storage.label "Shramba">
+<!ENTITY tab.formdata.label "Podatki obrazcev">
+<!ENTITY tab.forget.label "Pozabi">
 
 <!-- cookies -->
+<!ENTITY cookies.description "Na vašem računalniku so shranjeni naslednji piškotki te domeae:">
 
+<!ENTITY cookies.tree.host.label "Spletno mesto">
+<!ENTITY cookies.tree.name.label "Ime piškotka">
+<!ENTITY cookies.tree.expires.label "Poteče">
 
+<!ENTITY cookies.infobox.label "Podatki o izbranem piškotku">
 
+<!ENTITY cookies.info.name.label "Ime:">
+<!ENTITY cookies.info.value.label "Vsebina:">
+<!ENTITY cookies.info.host.label "Gostitelj:">
+<!ENTITY cookies.info.domain.label "Domena:">
+<!ENTITY cookies.info.path.label "Pot:">
+<!ENTITY cookies.info.sendtype.label "Pošlji za:">
+<!ENTITY cookies.info.expires.label "Preteče:">
 
+<!ENTITY cookies.ctx.remove.label "Odstrani">
+<!ENTITY cookies.ctx.remove.accesskey "O">
+<!ENTITY cookies.ctx.selectAll.label "Izberi vse">
+<!ENTITY cookies.ctx.selectAll.accesskey "v">
 
+<!ENTITY cookies.button.remove.label "Odstrani">
+<!ENTITY cookies.button.remove.accesskey "O">
 
 <!ENTITY cookies.blockOnRemove.label "Ob odstranjevanju prepovej navedenim spletnim mestom, da nastavljajo prihodnje piškotke">
 <!ENTITY cookies.blockOnRemove.accesskey "r">
 
 <!-- permissions -->
+<!ENTITY perm.UseDefault "Uporabi privzeto">
+<!ENTITY perm.AskAlways "Vedno vprašaj">
+<!ENTITY perm.NeverSave "Nikoli ne shranjuj">
+<!ENTITY perm.Allow "Dovoli">
 
+<!ENTITY perm.host.placeholder "Vnesite ime gostitelja">
+<!ENTITY perm.button.add.label "Dodaj">
+<!ENTITY perm.button.add.accesskey "D">
 
 <!-- preferences -->
 
+<!ENTITY prefs.tree.host.label "Spletno mesto">
+<!ENTITY prefs.tree.name.label "Ime nastavitve">
+<!ENTITY prefs.tree.value.label "Vrednost">
 
+<!ENTITY prefs.ctx.remove.label "Odstrani">
+<!ENTITY prefs.ctx.remove.accesskey "O">
+<!ENTITY prefs.ctx.selectAll.label "Izberi vse">
+<!ENTITY prefs.ctx.selectAll.accesskey "v">
 
+<!ENTITY prefs.button.remove.label "Odstrani">
+<!ENTITY prefs.button.remove.accesskey "O">
 
 <!-- passwords -->
+<!ENTITY pwd.description "Za to domeno imate shranjena naslednja gesla:">
 
+<!ENTITY pwd.tree.host.label "Spletno mesto">
+<!ENTITY pwd.tree.username.label "Uporabniško ime">
+<!ENTITY pwd.tree.password.label "Geslo">
 
+<!ENTITY pwd.ctx.remove.label "Odstrani">
+<!ENTITY pwd.ctx.remove.accesskey "O">
+<!ENTITY pwd.ctx.copyPasswordCmd.label "Kopiraj geslo">
+<!ENTITY pwd.ctx.copyPasswordCmd.accesskey "K">
+<!ENTITY pwd.ctx.selectAll.label "Izberi vse">
+<!ENTITY pwd.ctx.selectAll.accesskey "v">
 
+<!ENTITY pwd.button.remove.label "Odstrani">
+<!ENTITY pwd.button.remove.accesskey "O">
 
 <!-- storage -->
 
+<!ENTITY storage.tree.host.label "Spletno mesto">
+<!ENTITY storage.tree.type.label "Vrsta">
+<!ENTITY storage.tree.size.label "Velikost">
 
+<!ENTITY storage.ctx.remove.label "Odstrani">
+<!ENTITY storage.ctx.remove.accesskey "O">
+<!ENTITY storage.ctx.selectAll.label "Izberi vse">
+<!ENTITY storage.ctx.selectAll.accesskey "v">
 
+<!ENTITY storage.button.remove.label "Odstrani">
+<!ENTITY storage.button.remove.accesskey "O">
 
 <!-- form data -->
 
