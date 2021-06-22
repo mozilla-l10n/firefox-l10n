@@ -35,7 +35,7 @@
 <!ENTITY offlineSelectNntp.label "Επιλογή ομάδων συζήτησης για χρήση εκτός σύνδεσης…">
 <!ENTITY offlineSelectNntp.accesskey "λ">
 <!ENTITY offlineImapAdvancedOffline.label "Σύνθετα…">
-<!ENTITY offlineImapAdvancedOffline.accesskey "χ">
+<!ENTITY offlineImapAdvancedOffline.accesskey "θ">
 <!ENTITY syncGroupTitle.label "Συγχρονισμός μηνυμάτων">
 <!ENTITY diskspaceGroupTitle.label "Χώρος δίσκου">
 
