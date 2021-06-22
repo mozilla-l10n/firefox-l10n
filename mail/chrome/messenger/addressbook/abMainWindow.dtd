@@ -48,6 +48,7 @@
 <!ENTITY editMenu.accesskey                             "e">
 <!ENTITY deleteCmd.label                                "刪除">
 <!ENTITY deleteAbCmd.label                              "刪除通訊錄">
+<!ENTITY removeAbCmd.label                              "移除通訊錄">
 <!ENTITY deleteContactCmd.label                         "刪除連絡人">
 <!ENTITY deleteContactsCmd.label                        "刪除連絡人">
 <!ENTITY deleteListCmd.label                            "刪除清單">
@@ -140,6 +141,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.label                            "刪除">
 <!ENTITY deleteButton2.accesskey                        "D">
 
+<!ENTITY removeButton.label                             "移除">
+<!ENTITY removeButton.accesskey                         "R">
+
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY columnChooser.tooltip                          "選擇要顯示的欄位">
 <!ENTITY newContactButton.tooltip                       "建立新的通訊錄連絡人">
@@ -151,6 +155,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.tooltip                           "寄送新郵件">
 <!ENTITY newIM.tooltip                                  "傳送即時訊息或聊天">
 <!ENTITY deleteButton2.tooltip                          "刪除選取的項目">
+
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "姓名 或 Email">
