@@ -49,6 +49,8 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Синхронизиране
+appmenu-remote-tabs-turn-on-sync =
+    .label = Включване на Sync…
 appmenuitem-fxa-toolbar-sync-now2 = Синхронизиране
 appmenuitem-fxa-manage-account = Управление на сметка
 appmenu-fxa-header2 = { -fxaccount-brand-name }
