@@ -22,6 +22,12 @@
 <!ENTITY col.status.label                "Stanje">
 <!ENTITY col.status.accesskey            "S">
 <!ENTITY col.status.tooltip              "Stanje">
+<!ENTITY col.actionPlay.label            "Premor/Nadaljuj/Poskusi znova">
+<!ENTITY col.actionPlay.accesskey        "u">
+<!ENTITY col.actionPlay.tooltip          "Premor/Nadaljuj/Poskusi znova">
+<!ENTITY col.actionStop.label            "Prekliči/Odstrani">
+<!ENTITY col.actionStop.accesskey        "k">
+<!ENTITY col.actionStop.tooltip          "Prekliči/Odstrani">
 <!ENTITY col.progress.label              "Napredek">
 <!ENTITY col.progress.accesskey          "N">
 <!ENTITY col.progress.tooltip            "Napredek">
@@ -37,6 +43,12 @@
 <!ENTITY col.timeelapsed.label           "Pretečen čas">
 <!ENTITY col.timeelapsed.accesskey       "č">
 <!ENTITY col.timeelapsed.tooltip         "Pretečen čas">
+<!ENTITY col.starttime.label             "Čas začetka">
+<!ENTITY col.starttime.accesskey         "a">
+<!ENTITY col.starttime.tooltip           "Čas začetka">
+<!ENTITY col.endtime.label               "Čas konca">
+<!ENTITY col.endtime.accesskey           "n">
+<!ENTITY col.endtime.tooltip             "Čas konca">
 <!ENTITY col.progresstext.label          " &#37;">
 <!ENTITY col.progresstext.accesskey      " &#37;">
 <!ENTITY col.progresstext.tooltip        "Napredek (&#37;)">

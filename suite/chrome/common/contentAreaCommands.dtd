@@ -16,6 +16,29 @@
 <!ENTITY openLinkCmdInPrivateWindow.label     "Odpri povezavo v zasebnem oknu">
 <!ENTITY openLinkCmdInPrivateWindow.accesskey "p">
 <!ENTITY openLinkInWindowCmd.label    "Odpri">
+<!ENTITY reloadFrameCmd.label         "Ponovno naloži okvir">
+<!ENTITY viewPartialSourceForSelectionCmd.label "Pokaži izvorno kodo izbora">
+<!ENTITY viewPartialSourceForMathMLCmd.label    "Pokaži izvorno kodo MathML">
+<!ENTITY viewPageSourceCmd.label      "Pokaži izvorno kodo strani">
+<!ENTITY viewFrameSourceCmd.label     "Pokaži izvorno kodo okvirja">
+<!ENTITY viewPageInfoCmd.label        "Pokaži podatke o strani">
+<!ENTITY viewFrameInfoCmd.label       "Pokaži podatke o okvirju">
+<!ENTITY fitImageCmd.label            "Prilagodi sliko oknu">
+<!ENTITY reloadImageCmd.label         "Ponovno naloži sliko">
+<!ENTITY viewImageCmd.label           "Pokaži sliko">
+<!ENTITY viewImageInfoCmd.label       "Pokaži podatke o sliki">
+<!ENTITY viewVideoCmd.label           "Pokaži video">
+<!ENTITY viewBGImageCmd.label         "Pokaži sliko ozadja">
+<!ENTITY setDesktopBackgroundCmd.label     "Nastavi ozadje namizja …">
+<!ENTITY savePageAsCmd.label          "Shrani stran kot …">
+<!ENTITY savePageCmd.label            "Shrani stran">
+<!ENTITY saveFrameAsCmd.label         "Shrani okvir kot …">
+<!ENTITY saveFrameCmd.label           "Shrani okvir">
+<!ENTITY printFrameCmd.label          "Natisni okvir …">
+<!ENTITY saveImageAsCmd.label         "Shrani sliko kot …">
+<!ENTITY saveImageCmd.label           "Shrani sliko">
+<!ENTITY saveVideoCmd.label           "Shrani video kot …">
+<!ENTITY saveAudioCmd.label           "Shrani zvok kot …">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
