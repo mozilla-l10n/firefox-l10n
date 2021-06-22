@@ -882,8 +882,8 @@ forms-master-pw-change =
     .accesskey = П
 forms-master-pw-fips-title = У овом тренутку налазите се у FIPS режиму. У режиму FIPS није дозвољено користити празну главну лозинку.
 forms-primary-pw-change =
-    .label = Промените главну лозинку
-    .accesskey = P
+    .label = Промени примарну лозинку…
+    .accesskey = м
 # Leave this message empty if the translation for "Primary Password" matches
 # "Master Password" in your language. If you're editing the FTL file directly,
 # use { "" } as the value.
@@ -1024,13 +1024,13 @@ addressbar-locbar-openpage-option =
 # Shortcuts refers to the shortcut tiles on the new tab page, previously known as top sites. Translation should be consistent.
 addressbar-locbar-shortcuts-option =
     .label = Пречице
-    .accesskey = S
+    .accesskey = ч
 addressbar-locbar-topsites-option =
     .label = Популарне странице
     .accesskey = T
 addressbar-locbar-engines-option =
     .label = Претраживачи
-    .accesskey = a
+    .accesskey = ж
 addressbar-suggestions-settings = Промени подешавања за предлоге претраживача
 
 ## Privacy Section - Content Blocking
