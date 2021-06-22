@@ -22,3 +22,5 @@ calendar-editable-item-reminder-icon-suppressed-alarm =
     .alt = Un aviso de memento esseva programmate, ma actualmente supprimite
 calendar-editable-item-reminder-icon-email =
     .alt = Un aviso de email es programmate
+calendar-editable-item-reminder-icon-audio =
+    .alt = Un aviso audio de memento es programmate

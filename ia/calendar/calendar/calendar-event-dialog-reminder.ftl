@@ -6,3 +6,5 @@ calendar-event-reminder-icon-display =
     .alt = Monstrar un alerta
 calendar-event-reminder-icon-email =
     .alt = Inviar un email
+calendar-event-reminder-icon-audio =
+    .alt = Reproducer un audio-memento
