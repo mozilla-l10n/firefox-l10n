@@ -147,7 +147,7 @@
 <!ENTITY  event.menu.options.privacy.private.label            "Ιδιωτική εκδήλωση">
 <!ENTITY  event.menu.options.privacy.private.accesskey        "Ι">
 <!ENTITY  event.menu.options.show.time.label                  "Διαθεσιμότητα">
-<!ENTITY  event.menu.options.show.time.accesskey              "Ν">
+<!ENTITY  event.menu.options.show.time.accesskey              "Δ">
 <!ENTITY  event.menu.options.show.time.busy.label             "Απασχολημένος">
 <!ENTITY  event.menu.options.show.time.busy.accesskey         "Α">
 <!ENTITY  event.menu.options.show.time.free.label             "Διαθέσιμος">
