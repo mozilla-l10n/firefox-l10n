@@ -287,6 +287,8 @@ openpgp-selection-status =
        *[other] Vaše současná konfigurace používá klíč s ID <b>{ $key }</b>
     }
 #   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status-have-key = Vaše současná konfigurace používá klíč s ID <b>{ $key }</b>
+#   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-error = Vaše současná konfigurace používá klíč <b>{ $key }</b>, jehož platnost skončila.
 openpgp-add-key-button =
     .label = Přidat klíč…
@@ -318,6 +320,10 @@ openpgp-key-expires-image =
 openpgp-radio-key-expired = Platnost skončila dne { $date }
 openpgp-key-expired-image =
     .tooltiptext = Platnost klíče skončila
+openpgp-key-expires-within-6-months-icon =
+    .title = Platnost klíče skončí za méně než 6 měsíců
+openpgp-key-has-expired-icon =
+    .title = Platnost klíče vypršela
 openpgp-key-expand-section =
     .tooltiptext = Více informací
 openpgp-key-revoke-title = Zneplatnit klíč
@@ -471,18 +477,13 @@ openpgp-export-secret-fail = <b>Vybraný tajný klíč nelze vyexportovat!</b>
 # Strings in keyObj.jsm
 key-ring-pub-key-revoked = Klíč { $userId } (ID klíče { $keyId }) je zneplatněn.
 key-ring-pub-key-expired = Platnost klíče { $userId } (ID klíče { $keyId }) vypršela.
-key-ring-key-disabled = Klíč { $userId } (ID klíče { $keyId }) je zakázán a nelze ho použít.
-key-ring-key-invalid = Klíč { $userId } (ID klíče { $keyId }) je neplatný. Zvažte jeho správné ověření.
-key-ring-key-not-trusted = Klíč { $userId } (ID klíče { $keyId }) není dostatečně důvěryhodný. Chcete-li ho používat k podepisování, nastavte úroveň jeho důvěryhodnosti na „absolutně důvěryhodný“.
 key-ring-no-secret-key = Zdá se, že pro { $userId } (ID klíče { $keyId }) nemáte v klíčence tajný klíč, a nemůžete ho tedy používat k podepisování.
 key-ring-pub-key-not-for-signing = Klíč { $userId } (ID klíče { $keyId }) nelze používat k podepisování.
 key-ring-pub-key-not-for-encryption = Klíč { $userId } (ID klíče { $keyId }) nelze používat k šifrování.
 key-ring-sign-sub-keys-revoked = Všechny podpisové podklíče klíče { $userId } (ID klíče { $keyId }) jsou zneplatněny.
 key-ring-sign-sub-keys-expired = Platnost všech podpisových podklíčů klíče { $userId } (ID klíče { $keyId }) vypršela.
-key-ring-sign-sub-keys-unusable = Všechny podpisové podklíče klíče { $userId } (ID klíče { $keyId }) jsou zneplatněny, vypršela jejich platnost, nebo jsou z jiného důvodu nepoužitelné.
 key-ring-enc-sub-keys-revoked = Všechny šifrovací podklíče klíče { $userId } (ID klíče { $keyId }) jsou zneplatněny.
 key-ring-enc-sub-keys-expired = Platnost všech šifrovacích podklíčů klíče { $userId } (ID klíče { $keyId }) vypršela.
-key-ring-enc-sub-keys-unusable = Všechny šifrovací podklíče klíče { $userId } (ID klíče { $keyId }) jsou zneplatněny, vypršela jejich platnost, nebo jsou z jiného důvodu nepoužitelné.
 # Strings in gnupg-keylist.jsm
 keyring-photo = Fotografie
 user-att-photo = Atribut uživatele (obrázek JPEG)

@@ -48,6 +48,7 @@
 <!ENTITY editMenu.accesskey                             "a">
 <!ENTITY deleteCmd.label                                "Smazat">
 <!ENTITY deleteAbCmd.label                              "Smazat složku kontaktů">
+<!ENTITY removeAbCmd.label                              "Smazat složku kontaktů">
 <!ENTITY deleteContactCmd.label                         "Smazat kontakt">
 <!ENTITY deleteContactsCmd.label                        "Smazat kontakty">
 <!ENTITY deleteListCmd.label                            "Smazat seznam">
@@ -140,6 +141,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.label                            "Smazat">
 <!ENTITY deleteButton2.accesskey                        "m">
 
+<!ENTITY removeButton.label                             "Smazat">
+<!ENTITY removeButton.accesskey                         "S">
+
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY columnChooser.tooltip                          "Vyberte sloupce, které chcete zobrazit">
 <!ENTITY newContactButton.tooltip                       "Vytvoří nový kontakt">
@@ -151,6 +155,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.tooltip                           "Vytvoří novou zprávu">
 <!ENTITY newIM.tooltip                                  "Pošle krátkou zprávu nebo začne rozhovor">
 <!ENTITY deleteButton2.tooltip                          "Smaže označenou položku">
+
+<!ENTITY removeButton.tooltip                           "Smaže vybranou složku kontaktů">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Jméno nebo e-mail">
