@@ -72,7 +72,7 @@
 <!ENTITY abbreviateOn.label "Ολόκληρα τα ονόματα (για παράδειγμα, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Συντόμευση ονομάτων (π.χ., 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Σύνθετα…">
-<!ENTITY advancedButton.accesskey "χ">
+<!ENTITY advancedButton.accesskey "θ">
 <!ENTITY serverDefaultCharset2.label "Προεπιλεγμένη κωδικοποίηση χαρακτήρων:">
 <!ENTITY localPath1.label "Τοπικός φάκελος:">
 <!ENTITY localFolderPicker.label "Επιλογή τοπικού καταλόγου">

@@ -21,7 +21,7 @@
 <!ENTITY publishCmd.accesskey "μ">
 <!ENTITY publishCmd.key "S">
 <!ENTITY publishAsCmd.label "Δημοσίευση ως…">
-<!ENTITY publishAsCmd.accesskey "ς">
+<!ENTITY publishAsCmd.accesskey "η">
 <!ENTITY fileRevert.label "Επαναφορά">
 <!ENTITY fileRevert.accesskey "φ">
 
