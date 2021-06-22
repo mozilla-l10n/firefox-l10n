@@ -48,6 +48,7 @@
 <!ENTITY editMenu.accesskey                             "z">
 <!ENTITY deleteCmd.label                                "Törlés">
 <!ENTITY deleteAbCmd.label                              "Címjegyzék törlése">
+<!ENTITY removeAbCmd.label                              "Címjegyzék eltávolítása">
 <!ENTITY deleteContactCmd.label                         "Névjegy törlése">
 <!ENTITY deleteContactsCmd.label                        "Névjegyek törlése">
 <!ENTITY deleteListCmd.label                            "Lista törlése">
@@ -140,6 +141,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.label                            "Törlés">
 <!ENTITY deleteButton2.accesskey                        "r">
 
+<!ENTITY removeButton.label                             "Eltávolítás">
+<!ENTITY removeButton.accesskey                         "E">
+
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY columnChooser.tooltip                          "Válassza ki a megjelenítendő oszlopokat">
 <!ENTITY newContactButton.tooltip                       "Új névjegy létrehozása">
@@ -151,6 +155,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.tooltip                           "Új üzenet létrehozása">
 <!ENTITY newIM.tooltip                                  "Üzenet küldése vagy csevegés">
 <!ENTITY deleteButton2.tooltip                          "A kijelölt elem törlése">
+
+<!ENTITY removeButton.tooltip                           "A kiválasztott címjegyzék eltávolítása">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Név vagy e-mail">
