@@ -22,3 +22,5 @@ calendar-editable-item-reminder-icon-suppressed-alarm =
     .alt = 已排定提醒時間，但目前被關閉
 calendar-editable-item-reminder-icon-email =
     .alt = 已排定寄送提醒郵件
+calendar-editable-item-reminder-icon-audio =
+    .alt = 已排定音效提醒警示
