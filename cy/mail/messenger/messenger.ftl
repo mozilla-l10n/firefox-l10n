@@ -15,11 +15,26 @@ unread-messages-os-tooltip =
     }
 about-rights-notification-text = Mae { -brand-short-name } yn feddalwedd cod agored am ddim, wedi'i adeiladu gan gymuned o filoedd o bob cwr o'r byd.
 
+## Content tabs
+
+content-tab-page-loading-icon =
+    .alt = Mae'r dudalen yn llwytho
+content-tab-security-high-icon =
+    .alt = Mae'r cysylltiad yn ddiogel
+content-tab-security-broken-icon =
+    .alt = Nid yw'r cysylltiad yn ddiogel
+
 ## Toolbar
 
 addons-and-themes-button =
     .label = Ychwanegion a Themâu
     .tooltip = Rheoli eich ychwanegion
+addons-and-themes-toolbarbutton =
+    .label = Ychwanegion a Themâu
+    .tooltiptext = Rheoli eich ychwanegion
+quick-filter-toolbarbutton =
+    .label = Hidl Cyflym
+    .tooltiptext = Hidlo negeseuon
 redirect-msg-button =
     .label = Ailgyfeirio
     .tooltiptext = Ailgyfeirio'r neges hon
