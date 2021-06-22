@@ -5,8 +5,8 @@
 receipts-dialog-window =
     .title = Αποδεικτικά ανάγνωσης
 return-receipt-checkbox =
-    .label = Κατά την αποστολή μηνυμάτων να ζητείται πάντα βεβαίωση
-    .acceskey = Κ
+    .label = Κατά την αποστολή μηνυμάτων, να ζητείται πάντα αποδεικτικό ανάγνωσης
+    .accesskey = Κ
 receipt-arrive-label = Μετά την επιστροφή μιας βεβαίωσης
 receipt-leave-radio =
     .label = Διατήρηση στα εισερχόμενα
@@ -35,4 +35,4 @@ sender-outside-domain =
     .acceskey = κ
 other-cases-label =
     .value = Σε όλες τις άλλες περιπτώσεις:
-    .acceskey = λ
+    .accesskey = λ
