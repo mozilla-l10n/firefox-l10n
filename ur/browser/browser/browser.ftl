@@ -164,8 +164,6 @@ page-action-remove-extension =
 
 ## Page Action menu
 
-page-action-pocket-panel =
-    .label = { -pocket-brand-name } میں صفحات محوظ کریں
 page-action-copy-url-panel =
     .label = ربط نقل کریں
 page-action-copy-url-urlbar =
@@ -268,6 +266,8 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = S
 bookmark-panel-done-button =
     .label = ہوگیا
+bookmark-panel-save-button =
+    .label = محفوظ کریں
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -460,8 +460,6 @@ pointerlock-warning-no-domain = اس دستاویز کہ پاس آپ کہ نشا
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = تمام بک مارک دکھائیں
 bookmarks-toolbar-chevron =
     .tooltiptext = مزید بک مارک دکھائیں
 bookmarks-sidebar-content =
@@ -525,6 +523,9 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = { -pocket-brand-name } میں محفوظ کریں
     .tooltiptext = { -pocket-brand-name } میں محفوظ کریں
+
+## Repair text encoding toolbar button
+
 
 ## Customize Toolbar Buttons
 

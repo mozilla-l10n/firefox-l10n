@@ -2,13 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-privatebrowsingpage-open-private-window-label = ایک نجی ونڈوں مے کھولیں
+privatebrowsingpage-open-private-window-label = نجی ونڈو کھولیں
     .accesskey = P
 about-private-browsing-search-placeholder = ويب پر تلاش کريں
 about-private-browsing-info-title = آپ ایک نجی ونڈوں میں ہیں
 about-private-browsing-info-myths = نجی براؤزنگ کے بارے میں عمومی خرافات
 about-private-browsing =
     .title = ويب پر تلاش کريں
+about-private-browsing-handoff-text-no-engine = تلاش کریں یا پتہ  کا اندراج کریں
 about-private-browsing-not-private = آپ فی الحال نجی دریچے میں نہیں۔
 about-private-browsing-need-more-privacy = مزید رازداری کی ضرورت ہے؟
 about-private-browsing-turn-on-vpn = { -mozilla-vpn-brand-name } آزمائیں

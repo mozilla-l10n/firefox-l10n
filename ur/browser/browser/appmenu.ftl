@@ -63,6 +63,11 @@ profiler-popup-discard-button =
     .label = رد کريں
 profiler-popup-capture-button =
     .label = ریکارڈ کریں
+profiler-popup-start-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧1
+       *[other] 	Ctrl+Shift+1
+    }
 
 ## History panel
 

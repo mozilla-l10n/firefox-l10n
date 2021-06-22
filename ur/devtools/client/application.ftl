@@ -56,6 +56,8 @@ serviceworker-empty-suggestions = اگر موجودہ صفحے میں خدمت �
 # Suggestion to check for errors in the Console to investigate why a service worker is not
 # registered. Clicking on the link opens the webconsole.
 serviceworker-empty-suggestions-console = کنسول میں غلطیاں تلاش کریں۔ <a> کنسول کھولیں </a>
+# Text displayed when no service workers are visible for the current page.
+serviceworker-empty-intro2 = کوئی خدمتگار نہیں ملا
 # Link will open https://developer.mozilla.org/docs/Web/API/Service_Worker_API/Using_Service_Workers
 serviceworker-empty-intro-link = مزید سیکھیں
 # Header for the Manifest page when we have an actual manifest

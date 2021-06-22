@@ -39,10 +39,12 @@ appmenu-addon-post-install-message =
     <image data-l10n-name = 'addon-install-icon'> </image> پر 
     <image data-l10n-name='addon-menu-icon'></image>
      مینو پر کلک کرکے اپنے add-ons کا نظم کریں۔
+appmenu-addon-private-browsing-installed2 =
+    .buttonlabel = ٹھیک ہے
+    .buttonaccesskey = O
 appmenu-addon-post-install-incognito-checkbox =
     .label = اس ایکسٹینشن  کو نجی ونڈوز میں چلنے دیں
     .accesskey = ا
-    
 appmenu-new-tab-controlled =
     .label = آپکا نیا ٹیب تبدیل کردیا گیا ہے۔
     .buttonlabel = تبدیلیاں برقرار رکھیں
