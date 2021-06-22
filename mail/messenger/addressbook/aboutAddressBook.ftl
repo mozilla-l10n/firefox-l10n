@@ -64,6 +64,37 @@ about-addressbook-sort-email-ascending =
 about-addressbook-sort-email-descending =
     .label = Po e-mejlowej adresy sortěrować (Z > A)
 about-addressbook-confirm-delete-mixed-title = Kontakty a lisćiny zhašeć
+# Variables:
+# $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
+about-addressbook-confirm-delete-mixed = Chceće woprawdźe tutu ličbu certifikatow zhašeć? { $count }
+# Variables:
+# $count (Number) - The number of lists to be deleted.
+about-addressbook-confirm-delete-lists-title =
+    { $count ->
+        [one] Lisćinu zhašeć
+        [two] Lisćinje zhašeć
+        [few] Lisćiny zhašeć
+       *[other] Lisćiny zhašeć
+    }
+# Variables:
+# $count (Number) - The number of lists to be deleted.
+# $name (String) - The name of the list to be deleted, if $count is 1.
+about-addressbook-confirm-delete-lists =
+    { $count ->
+        [one] Chceće woprawdźe lisćinu { $name } zhašeć?
+        [two] Chceće woprawdźe tutej { $count } lisćinje zhašeć?
+        [few] Chceće woprawdźe tute { $count } lisćiny zhašeć?
+       *[other] Chceće woprawdźe tute { $count } lisćinow zhašeć?
+    }
+# Variables:
+# $count (Number) - The number of contacts to be removed.
+about-addressbook-confirm-remove-contacts-title =
+    { $count ->
+        [one] Kontakt wotstronić
+        [two] Kontaktaj wotstronić
+        [few] Kontakty wotstronić
+       *[other] Kontakty wotstronić
+    }
 
 ## Details
 
