@@ -12,6 +12,10 @@ about-addressbook-toolbar-new-carddav-address-book =
     .label = Novo catálogo de endereços CardDAV
 about-addressbook-toolbar-new-ldap-address-book =
     .label = Novo catálogo de endereços LDAP
+about-addressbook-toolbar-add-carddav-address-book =
+    .label = Adicionar catálogo de endereços CardDAV
+about-addressbook-toolbar-add-ldap-address-book =
+    .label = Adicionar catálogo de endereços LDAP
 about-addressbook-toolbar-new-contact =
     .label = Novo contato
 about-addressbook-toolbar-new-list =
@@ -28,6 +32,13 @@ about-addressbook-books-context-print =
     .label = Imprimir…
 about-addressbook-books-context-delete =
     .label = Excluir
+about-addressbook-books-context-remove =
+    .label = Remover
+about-addressbook-confirm-delete-book-title = Excluir catálogo de endereços
+about-addressbook-confirm-remove-remote-book-title = Remover catálogo de endereços
+# Variables:
+# $name (String) - Name of the remote address book to be removed.
+about-addressbook-confirm-remove-remote-book = Tem certeza que quer remover { $name }?
 
 ## Cards
 
@@ -53,6 +64,21 @@ about-addressbook-sort-email-ascending =
     .label = Ordenar por endereço de email (A > Z)
 about-addressbook-sort-email-descending =
     .label = Ordenar por endereço de email (Z > A)
+about-addressbook-confirm-delete-mixed-title = Excluir contatos e listas
+# Variables:
+# $count (Number) - The number of lists to be deleted.
+about-addressbook-confirm-delete-lists-title =
+    { $count ->
+        [one] Excluir lista
+       *[other] Excluir listas
+    }
+# Variables:
+# $count (Number) - The number of contacts to be removed.
+about-addressbook-confirm-remove-contacts-title =
+    { $count ->
+        [one] Remover contato
+       *[other] Remover contatos
+    }
 
 ## Details
 
