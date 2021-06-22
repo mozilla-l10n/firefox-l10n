@@ -22,3 +22,5 @@ calendar-editable-item-reminder-icon-suppressed-alarm =
     .alt = Попередження про нагадування заплановано, але на разі призупинено
 calendar-editable-item-reminder-icon-email =
     .alt = Запланований електронний лист з нагадуванням
+calendar-editable-item-reminder-icon-audio =
+    .alt = Звукове нагадування заплановано
