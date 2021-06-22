@@ -280,6 +280,8 @@ openpgp-selection-status =
        *[other] Votre configuration actuelle utilise la clé à l’identifiant <b>{ $key }</b>
     }
 #   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status-have-key = Votre configuration actuelle utilise l’identifiant de clé <b>{ $key }</b>
+#   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-error = Votre configuration actuelle utilise la clé à l’identifiant <b>{ $key }</b> et cette clé a expiré.
 openpgp-add-key-button =
     .label = Ajouter une clé…
@@ -305,6 +307,10 @@ openpgp-key-expires-image =
 openpgp-radio-key-expired = A expiré le : { $date }
 openpgp-key-expired-image =
     .tooltiptext = Clé expirée
+openpgp-key-expires-within-6-months-icon =
+    .title = La clé expire dans moins de 6 mois
+openpgp-key-has-expired-icon =
+    .title = La clé a expiré
 openpgp-key-expand-section =
     .tooltiptext = Plus d’informations
 openpgp-key-revoke-title = Révoquer la clé
@@ -463,18 +469,13 @@ openpgp-export-secret-fail = <b>Impossible d’exporter la clé secrète sélect
 # Strings in keyObj.jsm
 key-ring-pub-key-revoked = La clé { $userId } (Identifiant de clé { $keyId }) est révoquée.
 key-ring-pub-key-expired = La clé { $userId } (Identifiant de clé { $keyId }) est expirée.
-key-ring-key-disabled = La clé { $userId } (Identifiant de clé { $keyId }) est désactivée ; elle ne peut pas être utilisée.
-key-ring-key-invalid = La clé { $userId } (Identifiant de clé { $keyId }) est invalide. Veuillez envisager de la vérifier correctement.
-key-ring-key-not-trusted = Vous n’avez pas accordé un niveau de confiance suffisant à la clé { $userId } (Identifiant de clé { $keyId }). Veuillez définir le niveau de confiance de votre clé à « absolu » afin de l’utiliser pour signer.
 key-ring-no-secret-key = Vous ne semblez pas avoir la clé privée pour { $userId } (Identifiant de clé { $keyId }) dans votre trousseau ; vous ne pouvez pas utiliser la clé pour signer.
 key-ring-pub-key-not-for-signing = La clé { $userId } (Identifiant de clé { $keyId }) ne peut pas être utilisée pour signer.
 key-ring-pub-key-not-for-encryption = La clé { $userId } (Identifiant de clé { $keyId }) ne peut pas être utilisée pour chiffrer.
 key-ring-sign-sub-keys-revoked = Toutes les sous-clés de signature de la clé { $userId } (Identifiant de clé { $keyId }) sont révoquées.
 key-ring-sign-sub-keys-expired = Toutes les sous-clés de signature de la clé { $userId } (Identifiant de clé { $keyId }) ont expiré.
-key-ring-sign-sub-keys-unusable = Toutes les sous-clés de signature de la clé { $userId } (Identifiant de clé { $keyId }) sont révoquées, ont expiré ou sont inutilisables.
 key-ring-enc-sub-keys-revoked = Toutes les sous-clés de chiffrement de la clé { $userId } (Identifiant de clé { $keyId }) sont révoquées.
 key-ring-enc-sub-keys-expired = Toutes les sous-clés de chiffrement de la clé { $userId } (Identifiant de clé { $keyId }) ont expiré.
-key-ring-enc-sub-keys-unusable = Toutes les sous-clés de chiffrement de la clé { $userId } (Identifiant de clé { $keyId }) sont révoquées, ont expiré ou sont inutilisables.
 # Strings in gnupg-keylist.jsm
 keyring-photo = Photo
 user-att-photo = Attribut utilisateur (image JPEG)
