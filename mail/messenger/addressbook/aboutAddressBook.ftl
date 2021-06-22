@@ -93,6 +93,30 @@ about-addressbook-confirm-remove-contacts-title =
         [one] Névjegy eltávolítása
        *[other] Névjegyek eltávolítása
     }
+# Variables:
+# $count (Number) - The number of contacts to be removed.
+# $name (String) - The name of the contact to be removed, if $count is 1.
+# $list (String) - The name of the list that contacts will be removed from.
+about-addressbook-confirm-remove-contacts =
+    { $count ->
+        [one] Biztos, hogy eltávolítja a(z) { $name } névjegyet a(z) { $list } listáról?
+       *[other] Biztos, hogy eltávolítja ezt a(z) { $count } névjegyet a(z) { $list } listáról?
+    }
+# Variables:
+# $count (Number) - The number of contacts to be deleted.
+about-addressbook-confirm-delete-contacts-title =
+    { $count ->
+        [one] Névjegy törlése
+       *[other] Névjegyek törlése
+    }
+# Variables:
+# $count (Number) - The number of contacts to be deleted.
+# $name (String) - The name of the contact to be deleted, if $count is 1.
+about-addressbook-confirm-delete-contacts =
+    { $count ->
+        [one] Biztos, hogy törli a(z) { $name } névjegyet?
+       *[other] Biztos, hogy törli ezt a(z) { $count } listát?
+    }
 
 ## Details
 

@@ -11,11 +11,26 @@ unread-messages-os-tooltip =
     }
 about-rights-notification-text = A { -brand-short-name } szabad és nyílt forráskódú szoftver, amit egy ezrekből álló közösség épít szerte a világból.
 
+## Content tabs
+
+content-tab-page-loading-icon =
+    .alt = Az oldal betöltődik
+content-tab-security-high-icon =
+    .alt = A kapcsolat biztonságos
+content-tab-security-broken-icon =
+    .alt = A kapcsolat nem biztonságos
+
 ## Toolbar
 
 addons-and-themes-button =
     .label = Kiegészítők és témák
     .tooltip = Saját kiegészítők kezelése
+addons-and-themes-toolbarbutton =
+    .label = Kiegészítők és témák
+    .tooltiptext = Kiegészítők kezelése
+quick-filter-toolbarbutton =
+    .label = Gyorsszűrő
+    .tooltiptext = Üzenetek szűrése
 redirect-msg-button =
     .label = Átirányítás
     .tooltiptext = Kiválasztott üzenet átirányítása

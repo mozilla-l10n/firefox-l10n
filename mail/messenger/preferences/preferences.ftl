@@ -10,8 +10,6 @@ preferences-title =
             [windows] Beállítások
            *[other] Beállítások
         }
-preferences-tab-title =
-    .title = Beállítások
 preferences-doc-title = Beállítások
 category-list =
     .aria-label = Kategóriák
@@ -161,7 +159,7 @@ app-icon-options =
     .accesskey = A
 notification-settings = Az értesítések és az alapértelmezett hang letilthatók a Rendszerbeállítások Értesítés lapján.
 animated-alert-label =
-    .label = Figyelmeztető ablak
+    .label = Figyelmeztetés megjelenítése
     .accesskey = F
 customize-alert-label =
     .label = Testreszabás…
