@@ -11,11 +11,26 @@ unread-messages-os-tooltip =
     }
 about-rights-notification-text = Το { -brand-short-name } είναι δωρεάν λογισμικό ανοικτού κώδικα, που δημιουργήθηκε από μια κοινότητα χιλιάδων ατόμων από όλο τον κόσμο.
 
+## Content tabs
+
+content-tab-page-loading-icon =
+    .alt = Η σελίδα φορτώνεται
+content-tab-security-high-icon =
+    .alt = Η σύνδεση είναι ασφαλής
+content-tab-security-broken-icon =
+    .alt = Η σύνδεση δεν είναι ασφαλής
+
 ## Toolbar
 
 addons-and-themes-button =
     .label = Πρόσθετα και θέματα
     .tooltip = Διαχειριστείτε τα πρόσθετά σας
+addons-and-themes-toolbarbutton =
+    .label = Πρόσθετα και θέματα
+    .tooltiptext = Διαχείριση των προσθέτων σας
+quick-filter-toolbarbutton =
+    .label = Γρήγορο φιλτράρισμα
+    .tooltiptext = Φιλτράρισμα μηνυμάτων
 redirect-msg-button =
     .label = Ανακατεύθυνση
     .tooltiptext = Ανακατεύθυνση επιλεγμένου μηνύματος
