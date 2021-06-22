@@ -12,6 +12,10 @@ about-addressbook-toolbar-new-carddav-address-book =
     .label = Νέο ευρετήριο CardDAV
 about-addressbook-toolbar-new-ldap-address-book =
     .label = Νέο ευρετήριο LDAP
+about-addressbook-toolbar-add-carddav-address-book =
+    .label = Προσθήκη ευρετηρίου CardDAV
+about-addressbook-toolbar-add-ldap-address-book =
+    .label = Προσθήκη ευρετηρίου LDAP
 about-addressbook-toolbar-new-contact =
     .label = Νέα επαφή
 about-addressbook-toolbar-new-list =
@@ -31,6 +35,9 @@ about-addressbook-books-context-delete =
 about-addressbook-books-context-remove =
     .label = Αφαίρεση
 about-addressbook-confirm-delete-book-title = Διαγραφή ευρετηρίου
+# Variables:
+# $name (String) - Name of the address book to be deleted.
+about-addressbook-confirm-delete-book = Θέλετε σίγουρα να διαγράψετε το { $name } και όλες τις επαφές του;
 about-addressbook-confirm-remove-remote-book-title = Αφαίρεση ευρετηρίου
 # Variables:
 # $name (String) - Name of the remote address book to be removed.
@@ -62,11 +69,53 @@ about-addressbook-sort-email-descending =
     .label = Ταξινόμηση κατά διεύθυνση email (Z > A)
 about-addressbook-confirm-delete-mixed-title = Διαγραφή επαφών και λιστών
 # Variables:
+# $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
+about-addressbook-confirm-delete-mixed = Θέλετε σίγουρα να διαγράψετε αυτές τις { $count } επαφές και λίστες;
+# Variables:
 # $count (Number) - The number of lists to be deleted.
 about-addressbook-confirm-delete-lists-title =
     { $count ->
         [one] Διαγραφή λίστας
        *[other] Διαγραφή λιστών
+    }
+# Variables:
+# $count (Number) - The number of lists to be deleted.
+# $name (String) - The name of the list to be deleted, if $count is 1.
+about-addressbook-confirm-delete-lists =
+    { $count ->
+        [one] Θέλετε σίγουρα να διαγράψετε τη λίστα { $name };
+       *[other] Θέλετε σίγουρα να διαγράψετε αυτές τις { $count } λίστες;
+    }
+# Variables:
+# $count (Number) - The number of contacts to be removed.
+about-addressbook-confirm-remove-contacts-title =
+    { $count ->
+        [one] Αφαίρεση επαφής
+       *[other] Αφαίρεση επαφών
+    }
+# Variables:
+# $count (Number) - The number of contacts to be removed.
+# $name (String) - The name of the contact to be removed, if $count is 1.
+# $list (String) - The name of the list that contacts will be removed from.
+about-addressbook-confirm-remove-contacts =
+    { $count ->
+        [one] Θέλετε σίγουρα να αφαιρέσετε την επαφή { $name } από τη λίστα { $list };
+       *[other] Θέλετε σίγουρα να αφαιρέσετε αυτές τις { $count } επαφές από τη λίστα { $list };
+    }
+# Variables:
+# $count (Number) - The number of contacts to be deleted.
+about-addressbook-confirm-delete-contacts-title =
+    { $count ->
+        [one] Διαγραφή επαφής
+       *[other] Διαγραφή επαφών
+    }
+# Variables:
+# $count (Number) - The number of contacts to be deleted.
+# $name (String) - The name of the contact to be deleted, if $count is 1.
+about-addressbook-confirm-delete-contacts =
+    { $count ->
+        [one] Θέλετε σίγουρα να διαγράψετε την επαφή { $name };
+       *[other] Θέλετε σίγουρα να διαγράψετε αυτές τις { $count } επαφές;
     }
 
 ## Details
