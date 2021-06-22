@@ -291,8 +291,14 @@ menu-tools-sync-now =
     .label = Синхронизуј
     .accesskey = С
 menu-tools-fxa-re-auth =
-    .label = Поново се повежите на { -brand-product-name }…
-    .accesskey = R
+    .label =
+        Поново се повежи са { -brand-product-name.gender ->
+            [masculine] { -brand-product-name(case: "ins") }
+            [feminine] { -brand-product-name(case: "ins") }
+            [neuter] { -brand-product-name(case: "ins") }
+           *[other] програмом { -brand-product-name }
+        }…
+    .accesskey = П
 menu-tools-web-developer =
     .label = Програмер
     .accesskey = W
