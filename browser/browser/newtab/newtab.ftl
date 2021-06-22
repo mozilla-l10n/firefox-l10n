@@ -157,7 +157,7 @@ newtab-section-menu-collapse-section = Свиване на раздела
 newtab-section-menu-expand-section = Разгъване на раздела
 newtab-section-menu-manage-section = Управление на раздела
 newtab-section-menu-manage-webext = Управление на добавката
-newtab-section-menu-add-topsite = Добавяне на често посещавана страница
+newtab-section-menu-add-topsite = Добавете предпочитана страница
 newtab-section-menu-add-search-engine = Добавяне на търсеща машина
 newtab-section-menu-move-up = Преместване нагоре
 newtab-section-menu-move-down = Преместване надолу
@@ -172,7 +172,7 @@ newtab-section-expand-section-label =
 
 ## Section Headers.
 
-newtab-section-header-topsites = Често посещавани страници
+newtab-section-header-topsites = Предпочитани страници
 newtab-section-header-highlights = Акценти
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
