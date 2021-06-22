@@ -123,7 +123,7 @@ cfr-whatsnew-lockwise-take-link-text = Вземете приложението
 ## Search Bar
 
 cfr-whatsnew-searchbar-title = Въвеждайте по-малко, улеснете се с адресната лента
-cfr-whatsnew-searchbar-body-topsites = Сега просто изберете адресната лента и полето ще се разшири с препратки към вашите предпочитани сайтове.
+cfr-whatsnew-searchbar-body-topsites = Сега просто изберете адресната лента и полето ще се разшири с препратки към вашите най-посещавани страници.
 
 ## Search bar
 
@@ -258,4 +258,7 @@ cfr-whatsnew-media-keys-button = Научете как
 
 
 ## What's new: Cross-site cookie tracking
+
+
+## Full Video Support CFR message
 

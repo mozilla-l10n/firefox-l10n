@@ -478,7 +478,7 @@ home-prefs-content-description = Изберете съдържанието, ко
 home-prefs-search-header =
     .label = Търсене в Мрежата
 home-prefs-topsites-header =
-    .label = Често посещавани страници
+    .label = Предпочитани страници
 home-prefs-topsites-description = Най-посещаваните от вас страници
 
 ## Variables:
@@ -864,7 +864,7 @@ addressbar-locbar-openpage-option =
     .label = Отворени раздели
     .accesskey = р
 addressbar-locbar-topsites-option =
-    .label = Най-посещавани страници
+    .label = Предпочитани страници
     .accesskey = с
 addressbar-suggestions-settings = Настройки на предложенията от търсещите машини
 
