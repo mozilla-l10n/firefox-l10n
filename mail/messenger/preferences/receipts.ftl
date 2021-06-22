@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 receipts-dialog-window =
-    .title = Αποδεικτικά ανάγνωσης
+    .title = Αποδεικτικά προβολής
 return-receipt-checkbox =
-    .label = Κατά την αποστολή μηνυμάτων, να ζητείται πάντα αποδεικτικό ανάγνωσης
+    .label = Κατά την αποστολή μηνυμάτων, να ζητείται πάντα αποδεικτικό προβολής
     .accesskey = Κ
 receipt-arrive-label = Μετά την επιστροφή μιας βεβαίωσης
 receipt-leave-radio =
@@ -14,12 +14,12 @@ receipt-leave-radio =
 receipt-move-radio =
     .label = Μεταφορά στον φάκελο "Απεσταλμένα"
     .accesskey = μ
-receipt-request-label = Κατά τη λήψη αιτήματος για αποδεικτικό ανάγνωσης:
+receipt-request-label = Κατά τη λήψη αιτήματος για αποδεικτικό προβολής:
 receipt-return-never-radio =
-    .label = Να μην γίνεται ποτέ αποστολή αποδεικτικού ανάγνωσης
+    .label = Να μην γίνεται ποτέ αποστολή αποδεικτικού προβολής
     .accesskey = ν
 receipt-return-some-radio =
-    .label = Αποδοχή αποδεικτικών ανάγνωσης για ορισμένα μηνύματα
+    .label = Αποδοχή αποδεικτικών προβολής για ορισμένα μηνύματα
     .accesskey = π
 receipt-not-to-cc =
     .value = Αν δεν είμαι στα πεδία "Προς" ή "Κοιν." του μηνύματος:
