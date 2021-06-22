@@ -1198,14 +1198,14 @@ collection-backlogged-crash-reports-with-link = Шаљи заостале изв
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Безбедност
-security-browsing-protection = Заштита од обманљивог садржаја и опасног софтвера
+security-browsing-protection = Заштита од обмањујућег садржаја и опасног софтвера
 security-enable-safe-browsing =
-    .label = Блокирај опасан и обманљив садржај
-    .accesskey = с
+    .label = Блокирај опасан и обмањујућ садржај
+    .accesskey = Б
 security-enable-safe-browsing-link = Сазнајте више
 security-block-downloads =
-    .label = Блокирај опасна преузимања
-    .accesskey = п
+    .label = Блокирај небезбедна преузимања
+    .accesskey = л
 security-block-uncommon-software =
     .label = Упозори ме о непожељном и ретко коришћеном софтверу
     .accesskey = ж
