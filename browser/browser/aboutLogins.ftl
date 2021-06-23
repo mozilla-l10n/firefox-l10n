@@ -70,7 +70,7 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Търсите запазените си данни за вход? Настройте { -sync-brand-short-name }.
-about-logins-login-intro-heading-logged-out = Търсите запазените си данни за вход? Настройте { -sync-brand-short-name } или ги внесете.
+about-logins-login-intro-heading-logged-out2 = Търсите запазените си регистрации? Включете синхронизирането или ги внесете.
 about-logins-login-intro-heading-logged-in = Не са намерени синхронизирани регистрации.
 login-intro-description = Ако сте запазили данните си за вход в { -brand-product-name } на друго устройство, ето как да ги вземете тук:
 login-intro-instruction-fxa = Създайте или влезте в своята { -fxaccount-brand-name } на устройството, където са запазени вашите данни за вход
@@ -283,7 +283,6 @@ about-logins-import-dialog-error-unable-to-read-title = Грешка при ан
 about-logins-import-dialog-error-unable-to-read-description = Уверете се, че избраният файл е CSV или TSV.
 about-logins-import-dialog-error-no-logins-imported = Не са внесени регистраци
 about-logins-import-dialog-error-learn-more = Научете повече
-about-logins-import-dialog-error-try-again = Нов опит…
 about-logins-import-dialog-error-try-import-again = Опитайте внасянето отново ...
 about-logins-import-dialog-error-cancel = Отказ
 #

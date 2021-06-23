@@ -50,9 +50,14 @@ upgrade-dialog-pin-secondary-button = Не сега
 ## Default browser screen
 
 upgrade-dialog-default-primary-button-2 = Избиране като стандартен четец
+upgrade-dialog-default-secondary-button = Не сега
 
 ## Theme selection screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-theme-title =
+    Започнете начисто
+    с обновена тема
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-theme-title-2 = Започнете начисто с ясна тема
 upgrade-dialog-theme-system = Системна тема
