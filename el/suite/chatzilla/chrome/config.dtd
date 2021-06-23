@@ -18,6 +18,7 @@
 <!ENTITY object.del.accesskey   "Α">
 
 <!ENTITY object.reset.label     "Επαναφορά">
+<!ENTITY object.reset.hint      "Επαναφορά των προτιμήσεων αυτού του αντικειμένου στις προεπιλογές">
 <!ENTITY object.reset.accesskey "φ">
 
 <!ENTITY dialog.apply   "Εφαρμογή">
