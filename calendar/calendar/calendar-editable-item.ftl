@@ -22,3 +22,5 @@ calendar-editable-item-reminder-icon-suppressed-alarm =
     .alt = Bir anımsatma uyarısı zamanlandı ama uyarı ertelendi
 calendar-editable-item-reminder-icon-email =
     .alt = Bir anımsatma e-postası zamanlandı
+calendar-editable-item-reminder-icon-audio =
+    .alt = Bir sesli anımsatma uyarısı zamanlandı
