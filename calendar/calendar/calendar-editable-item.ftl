@@ -22,3 +22,5 @@ calendar-editable-item-reminder-icon-suppressed-alarm =
     .alt = Er is een herinneringsbericht ingepland, maar dit wordt momenteel onderdrukt
 calendar-editable-item-reminder-icon-email =
     .alt = Er is een herinnerings-e-mail ingepland
+calendar-editable-item-reminder-icon-audio =
+    .alt = Er is een herinnerings-audiobericht ingepland
