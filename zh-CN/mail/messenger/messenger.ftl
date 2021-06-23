@@ -12,6 +12,8 @@ about-rights-notification-text = { -brand-short-name } 是一款自由且开源�
 
 ## Content tabs
 
+content-tab-page-loading-icon =
+    .alt = 页面加载中
 content-tab-security-high-icon =
     .alt = 连接是安全的
 content-tab-security-broken-icon =
