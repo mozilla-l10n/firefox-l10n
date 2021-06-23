@@ -55,7 +55,7 @@ cert-error-details-hsts-label = Сигурен HTTP чрез ограничав�
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = Закотвен публичен ключ на HTTP: { $hasHPKP }
 cert-error-details-cert-chain-label = Верига на сертификата:
-open-in-new-window-for-csp-or-xfo-error = Отваряне на сайта в нов прозорец
+open-in-new-window-for-csp-or-xfo-error = Отваряне в нов прозорец
 # Variables:
 # $hostname (String) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = С цел защита на вашата сигурност, { $hostname } няма да позволи { -brand-short-name } да покаже страницата ако друг сайт я е вградил. За да видите тази страница е необходимо да я отворите в нов прозорец.
