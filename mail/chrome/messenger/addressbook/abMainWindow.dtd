@@ -48,6 +48,7 @@
 <!ENTITY editMenu.accesskey                             "M">
 <!ENTITY deleteCmd.label                                "Elimina">
 <!ENTITY deleteAbCmd.label                              "Elimina Rubrica">
+<!ENTITY removeAbCmd.label                              "Rimuovi rubrica">
 <!ENTITY deleteContactCmd.label                         "Elimina il contatto">
 <!ENTITY deleteContactsCmd.label                        "Elimina contatti">
 <!ENTITY deleteListCmd.label                            "Rimozione lista">
@@ -140,6 +141,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.label                            "Elimina">
 <!ENTITY deleteButton2.accesskey                        "E">
 
+<!ENTITY removeButton.label                             "Rimuovi">
+<!ENTITY removeButton.accesskey                         "R">
+
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY columnChooser.tooltip                          "Selezionare le colonne da visualizzare">
 <!ENTITY newContactButton.tooltip                       "Crea un nuovo contatto in rubrica">
@@ -151,6 +155,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.tooltip                           "Invia un messaggio di posta">
 <!ENTITY newIM.tooltip                                  "Invia un messaggio istantaneo o avvia la chat">
 <!ENTITY deleteButton2.tooltip                          "Elimina gli oggetti selezionati">
+
+<!ENTITY removeButton.tooltip                           "Rimuovi la rubrica selezionata">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Nome o email">

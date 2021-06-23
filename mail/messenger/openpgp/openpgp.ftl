@@ -280,6 +280,8 @@ openpgp-selection-status =
        *[other] La configurazione attuale utilizza la chiave con ID <b>{ $key }</b>
     }
 #   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status-have-key = La configurazione attuale utilizza la chiave con ID <b>{ $key }</b>
+#   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-error = La configurazione attuale utilizza la chiave <b>{ $key }</b>, che è scaduta.
 openpgp-add-key-button =
     .label = Aggiungi chiave...
@@ -305,6 +307,10 @@ openpgp-key-expires-image =
 openpgp-radio-key-expired = Scaduta il: { $date }
 openpgp-key-expired-image =
     .tooltiptext = Chiave scaduta
+openpgp-key-expires-within-6-months-icon =
+    .title = La chiave scadrà tra meno di 6 mesi
+openpgp-key-has-expired-icon =
+    .title = Chiave scaduta
 openpgp-key-expand-section =
     .tooltiptext = Ulteriori informazioni
 openpgp-key-revoke-title = Revoca chiave
@@ -451,18 +457,13 @@ openpgp-export-secret-fail = <b>Impossibile esportare la chiave segreta selezion
 # Strings in keyObj.jsm
 key-ring-pub-key-revoked = La chiave { $userId } (ID chiave { $keyId }) è stata revocata.
 key-ring-pub-key-expired = La chiave { $userId } (ID chiave { $keyId }) è scaduta.
-key-ring-key-disabled = La chiave { $userId } (ID chiave { $keyId }) è stata disattivata e non può essere utilizzata.
-key-ring-key-invalid = La chiave { $userId } (ID chiave { $keyId }) non è valida. Si consiglia di verificarla correttamente.
-key-ring-key-not-trusted = La chiave { $userId } (ID chiave { $keyId }) non ha un livello di sicurezza sufficiente. Impostare il livello di affidabilità su “assoluta” per la propria chiave se si desidera utilizzarla per la firma.
 key-ring-no-secret-key = Sembra che non si disponga della chiave segreta per { $userId } (ID chiave { $keyId }) nel proprio portachiavi; non è possibile utilizzare la chiave per firmare.
 key-ring-pub-key-not-for-signing = La chiave { $userId } (ID chiave { $keyId }) non può essere utilizzata per firmare.
 key-ring-pub-key-not-for-encryption = La chiave { $userId } (ID chiave { $keyId }) non può essere utilizzata per la crittografia.
 key-ring-sign-sub-keys-revoked = Tutte le sottochiavi per la firma della chiave { $userId } (ID chiave { $keyId }) sono state revocate.
 key-ring-sign-sub-keys-expired = Tutte le sottochiavi per la firma della chiave { $userId } (ID chiave { $keyId }) sono scadute.
-key-ring-sign-sub-keys-unusable = Tutte le sottochiavi per la firma della chiave { $userId } (ID chiave { $keyId }) sono revocate, scadute o altrimenti inutilizzabili.
 key-ring-enc-sub-keys-revoked = Tutte le sottochiavi di crittografia della chiave { $userId } (ID chiave { $keyId }) sono state revocate.
 key-ring-enc-sub-keys-expired = Tutte le sottochiavi di crittografia della chiave { $userId } (ID chiave { $keyId }) sono scadute.
-key-ring-enc-sub-keys-unusable = Tutte le sottochiavi di crittografia della chiave { $userId } (ID chiave { $keyId }) sono revocate, scadute o inutilizzabili per altri motivi.
 # Strings in gnupg-keylist.jsm
 keyring-photo = Foto
 user-att-photo = Attributo utente (immagine JPEG)

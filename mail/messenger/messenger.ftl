@@ -11,11 +11,21 @@ unread-messages-os-tooltip =
     }
 about-rights-notification-text = { -brand-short-name } è un software gratuito, libero e open source, realizzato da una comunità di migliaia di persone provenienti da tutto il mondo.
 
+## Content tabs
+
+content-tab-security-high-icon =
+    .alt = La connessione è sicura
+content-tab-security-broken-icon =
+    .alt = La connessione non è sicura
+
 ## Toolbar
 
 addons-and-themes-button =
     .label = Componenti aggiuntivi e temi
     .tooltip = Gestisci i tuoi componenti aggiuntivi
+addons-and-themes-toolbarbutton =
+    .label = Componenti aggiuntivi e temi
+    .tooltiptext = Gestisci i tuoi componenti aggiuntivi
 redirect-msg-button =
     .label = Reindirizza
     .tooltiptext = Reindirizza il messaggio selezionato
