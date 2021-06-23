@@ -24,6 +24,7 @@
 
 <!ENTITY refresh.label     "Actualizar ahora">
 
+<!ENTITY network.hint.label "Escriba un nombre de red o servidor (puede incluir un puerto) y un canal para entrar.">
 
 <!ENTITY col.network "Red">
 <!ENTITY col.name  "Nombre">
