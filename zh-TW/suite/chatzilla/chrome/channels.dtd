@@ -26,3 +26,7 @@
 <!ENTITY refresh.accesskey "">
 
 
+<!ENTITY col.network "網路">
+<!ENTITY col.name  "名稱">
+<!ENTITY col.users "使用者數">
+<!ENTITY col.topic "主題">
