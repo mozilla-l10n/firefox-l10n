@@ -312,6 +312,7 @@ identity-header-security-with-host =
     .title = Сигурност на връзката към { $host }
 identity-connection-not-secure = Връзката не е защитена
 identity-connection-secure = Връзката е шифрована
+identity-connection-failure = Неуспешна връзка
 identity-connection-internal = Това е защитена страница на { -brand-short-name }.
 identity-connection-file = Страницата е запазена в компютъра.
 identity-extension-page = Страницата е отворена от разширение.
@@ -638,6 +639,11 @@ save-to-pocket-button =
 ## Customize Toolbar Buttons
 
 # Variables:
+#  $shortcut (String): keyboard shortcut to open the add-ons manager
+toolbar-addons-themes-button =
+    .label = Добавки и теми
+    .tooltiptext = Управление на добавки и теми ({ $shortcut })
+# Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
 toolbar-settings-button =
     .label = Настройки
@@ -668,6 +674,10 @@ panel-save-update-password = Парола
 
 ## Add-on removal warning
 
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = Премахване на { $name }?
+addon-removal-abuse-report-checkbox = Докладване разширението на { -vendor-short-name }
 
 ## Remote / Synced tabs
 

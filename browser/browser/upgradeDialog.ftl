@@ -41,6 +41,13 @@ upgrade-dialog-pin-title =
         [macos] Оставяне на { -brand-short-name } в Dock
        *[other] Закачане на { -brand-short-name } към лентата със задачи
     }
+# The English macOS string avoids repeating "Keep" a third time, so if your
+# translations don't repeat anyway, the same string can be used cross-platform.
+upgrade-dialog-pin-subtitle =
+    { PLATFORM() ->
+        [macos] Лесен достъп до най-свежия { -brand-short-name } досега.
+       *[other] Лесен достъп до най-свежия { -brand-short-name } досега.
+    }
 upgrade-dialog-pin-primary-button =
     { PLATFORM() ->
         [macos] Оставяне в Dock
@@ -50,7 +57,12 @@ upgrade-dialog-pin-secondary-button = Не сега
 
 ## Default browser screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title = Да бъде ли избран { -brand-short-name } за четец по подразбиране?
 upgrade-dialog-default-primary-button = Четец по подразбиране
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title-2 = Избиране на { -brand-short-name } по подразбиране
+upgrade-dialog-default-subtitle-2 = Пуснете скоростта, безопасността и сигурността на автопилот
 upgrade-dialog-default-primary-button-2 = Избиране като стандартен четец
 upgrade-dialog-default-secondary-button = Не сега
 
@@ -68,5 +80,7 @@ upgrade-dialog-theme-light = Светла
     .title = Използване на светла тема за бутони, менюта и прозорци
 upgrade-dialog-theme-dark = Тъмна
     .title = Използване на тъмна тема за бутони, менюта и прозорци
+upgrade-dialog-theme-keep = Използване на предишната
+    .title = Използване на темата, която сте инсталирали преди обновяване на { -brand-short-name }
 upgrade-dialog-theme-primary-button = Запазване на тема
 upgrade-dialog-theme-secondary-button = Не сега
