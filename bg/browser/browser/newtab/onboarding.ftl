@@ -143,7 +143,13 @@ return-to-amo-get-started-button = Започнете работа с { -brand-s
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
 onboarding-multistage-set-default-primary-button-label = Задаване като стандартен
+onboarding-multistage-pin-default-primary-button-label = Избиране на { -brand-short-name } за основен четец
 onboarding-multistage-theme-primary-button-label2 = Готово
+onboarding-multistage-theme-secondary-button-label = Не сега
+# Automatic theme uses operating system color settings
+onboarding-multistage-theme-label-automatic = Автоматично
+onboarding-multistage-theme-label-light = Светла
+onboarding-multistage-theme-label-dark = Тъмна
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
@@ -158,12 +164,21 @@ onboarding-multistage-theme-primary-button-label2 = Готово
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
+# Primary button string used on welcome page when Firefox is not pinned.
+mr1-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Оставяне в Dock
+       *[other] Закачане към лентата със задачи
+    }
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
 # This string will be used on welcome page primary button label
 # when Firefox is both pinned and default
 mr1-onboarding-get-started-primary-button-label = Въведение
+mr1-onboarding-welcome-header = Добре дошли при { -brand-short-name }
+mr1-onboarding-set-default-pin-primary-button-label = Избиране на { -brand-short-name } за основен четец
+    .title = Задава { -brand-short-name } за четец по подразбиране и го закача към лентата със задачи
 
 ## Title, subtitle and primary button string used on set default onboarding screen
 ## when Firefox is not default browser
