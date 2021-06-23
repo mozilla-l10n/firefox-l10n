@@ -10,6 +10,7 @@ search-header =
     .searchbuttonlabel = Търсене
 search-header-shortcut =
     .key = f
+list-empty-get-extensions-message = Изтеглете разширения и теми от <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-installed =
     .value = Няма инсталирани добавки от този вид
 list-empty-available-updates =
@@ -34,6 +35,9 @@ sidebar-preferences-button-title =
             [windows] Настройки на { -brand-short-name }
            *[other] Настройки на { -brand-short-name }
         }
+addons-settings-button = Настройки на { -brand-short-name }
+sidebar-settings-button-title =
+    .title = Настройки на { -brand-short-name }
 show-unsigned-extensions-button =
     .label = Някои разширения не можаха да бъдат проверени
 show-all-extensions-button =
@@ -229,6 +233,7 @@ shortcuts-no-addons = Нямате включени разширения.
 shortcuts-no-commands = Следните разширения нямат клавишни комбинации:
 shortcuts-input =
     .placeholder = Изберете комбинация
+shortcuts-browserAction2 = Изпълняване на действието на бутона на лентата
 shortcuts-pageAction = Изпълняване на действието със страницата
 shortcuts-sidebarAction = Превключване на страничната лента
 shortcuts-modifier-mac = Включване на Ctrl, Alt, или ⌘
@@ -236,6 +241,8 @@ shortcuts-modifier-other = Включване на Ctrl или Alt
 shortcuts-invalid = Недействителна комбинация
 shortcuts-letter = Въведете буква
 shortcuts-system = Не може да презапишете клавишна комбинация на { -brand-short-name }
+# String displayed in warning label when there is a duplicate shortcut
+shortcuts-duplicate = Дублиране на комбинация
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
@@ -294,6 +301,10 @@ remove-addon-button = Премахване
 remove-addon-disabled-button = Не може да бъде премахнато <a data-l10n-name="link"> Защо?</a>
 disable-addon-button = Изключване
 enable-addon-button = Включване
+# This is used for the toggle on the extension card, it's a checkbox and this
+# is always its label.
+extension-enable-addon-button-label =
+    .aria-label = Включване
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Настройки
@@ -355,6 +366,9 @@ addon-detail-private-browsing-disallow = Забраняване
 addon-badge-recommended2 =
     .title = { -brand-product-name } препоръчва само разширения, които отговарят на нашите стандарти за сигурност и производителност
     .aria-label = { addon-badge-recommended2.title }
+addon-badge-verified2 =
+    .title = Това разширение е прегледано и отговаря на нашите стандарти за сигурност и производителност
+    .aria-label = { addon-badge-verified2.title }
 
 ##
 
@@ -363,6 +377,8 @@ recent-updates-heading = Последни обновявания
 release-notes-loading = Зареждане…
 release-notes-error = За съжаление, зареждането на бележките към изданието е неуспешно.
 addon-permissions-empty = Разширението не изисква никакви права
+addon-permissions-required = Необходими права за основни възможности:
+addon-permissions-optional = Незадължителни права за допълнителни възможности:
 addon-permissions-learnmore = Научете повече за правата
 recommended-extensions-heading = Препоръчани разширения
 recommended-themes-heading = Препоръчани теми
@@ -377,6 +393,7 @@ theme-heading = Управление на теми
 plugin-heading = Управление на приставки
 dictionary-heading = Управление на речници
 locale-heading = Управление на езици
+updates-heading = Управление на обновявания
 discover-heading = Персонализирайте вашия { -brand-short-name }
 shortcuts-heading = Управление на клавишните комбинации на разширението
 default-heading-search-label = Намерете още добавки

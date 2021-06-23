@@ -18,7 +18,10 @@ upgrade-dialog-new-alt-subtitle = Направете <span data-l10n-name="zap">
 upgrade-dialog-new-item-menu-title = Опростени инструменти и менюта
 upgrade-dialog-new-item-tabs-title = Модерни раздели
 upgrade-dialog-new-item-icons-title = Свежи икони и по-ясни съобщения
-upgrade-dialog-new-primary-pin-button = Закачи { -brand-short-name } на лентата с инструменти
+upgrade-dialog-new-primary-primary-button = Избиране на { -brand-short-name } за основен четец?
+    .title = Задава { -brand-short-name } за четец по подразбиране и го закача към лентата със задачи
+upgrade-dialog-new-primary-pin-button = Закачане на { -brand-short-name } към лентата със задачи
+upgrade-dialog-new-primary-pin-alt-button = Закачане към лентата със задачи
 upgrade-dialog-new-primary-theme-button = Изберете тема
 upgrade-dialog-new-secondary-button = Не сега
 # This string is only shown on Windows 7, where we intentionally suppress the
@@ -35,8 +38,14 @@ upgrade-dialog-new-primary-win7-button = Да, разбрах!
 upgrade-dialog-pin-title =
     { PLATFORM() ->
         [macos] Оставяне на { -brand-short-name } в Dock
-       *[other] Закачане на { -brand-short-name } на лентата с инструменти
+       *[other] Закачане на { -brand-short-name } към лентата със задачи
     }
+upgrade-dialog-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Оставяне в Dock
+       *[other] Закачане към лентата със задачи
+    }
+upgrade-dialog-pin-secondary-button = Не сега
 
 ## Default browser screen
 
@@ -44,6 +53,8 @@ upgrade-dialog-default-primary-button-2 = Избиране като станда
 
 ## Theme selection screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-theme-title-2 = Започнете начисто с ясна тема
 upgrade-dialog-theme-system = Системна тема
     .title = Използване на темата на операционната система за бутони, менюта и прозорци
 upgrade-dialog-theme-light = Светла
