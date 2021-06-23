@@ -4,21 +4,17 @@
 
 fonts-window-close =
     .key = w
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = Стандартен ({ $name })
 fonts-label-default-unnamed =
     .label = Стандартен
-
 fonts-encoding-dialog-title =
     .title = Шрифтове и кодиране
-
 fonts-language-legend =
     .value = Шрифтове за:
     .accesskey = Ш
-
 fonts-proportional-label =
     .value = Пропорционален:
     .accesskey = П
@@ -89,45 +85,38 @@ font-language-group-tibetan =
 
 default-font-serif =
     .label = Серифен
-
 default-font-sans-serif =
     .label = Безсерифен
-
 font-size-label =
     .value = Големина:
     .accesskey = з
-
+font-size-proportional-label =
+    .value = Големина:
+    .accesskey = о
 font-size-monospace-label =
     .value = Големина:
     .accesskey = м
-
 font-serif-label =
     .value = Серифен:
     .accesskey = С
-
 font-sans-serif-label =
     .value = Безсерифен:
     .accesskey = н
-
 font-monospace-label =
     .value = Равноширок:
     .accesskey = Р
-
 font-min-size-label =
     .value = Минимален размер:
     .accesskey = М
-
 min-size-none =
     .label = Няма
 
 ## Fonts in message
 
 font-control-legend = Контрол на шрифта
-
 use-document-fonts-checkbox =
     .label = Писмата могат да използват други шрифтове
     .accesskey = у
-
 use-fixed-width-plain-checkbox =
     .label = Използване на равноширок шрифт за съобщения с нормален текст
     .accesskey = ф
@@ -135,17 +124,13 @@ use-fixed-width-plain-checkbox =
 ## Language settings
 
 text-encoding-legend = Кодиране на текста
-
 text-encoding-description = Установява стандартно кодиране на текста за изпращана и получавана поща
-
 font-outgoing-email-label =
     .value = Изходяща поща:
     .accesskey = х
-
 font-incoming-email-label =
     .value = Входяща поща:
     .accesskey = щ
-
 default-font-reply-checkbox =
     .label = Когато е възможно в отговорите да се използва стандартното кодиране на текста
     .accesskey = о
