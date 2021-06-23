@@ -13,3 +13,6 @@ calendars-table-uri = URI
 calendars-table-refreshinterval = Uppdateringsintervall
 calendars-table-readonly = Skrivskyddad
 calendars-table-cache-enabled = Cache aktiverad
+calendars-table-imip-identity = iMIP-identitet
+calendars-table-imip-identity-disabled = iMIP inaktiverad
+calendars-table-imip-identity-account = iMIP-konto
