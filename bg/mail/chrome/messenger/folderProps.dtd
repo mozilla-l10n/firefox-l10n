@@ -49,6 +49,7 @@
 
 <!ENTITY folderProps.name.label                  "Име:">
 <!ENTITY folderProps.name.accesskey              "И">
+<!ENTITY folderProps.color.label                 "Цвят на иконата:">
 <!ENTITY folderProps.location.label              "Адрес:">
 <!ENTITY folderProps.location.accesskey          "А">
 
