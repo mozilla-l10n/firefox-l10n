@@ -48,6 +48,7 @@
 <!ENTITY editMenu.accesskey                             "W">
 <!ENTITY deleteCmd.label                                "Fuortsmite">
 <!ENTITY deleteAbCmd.label                              "Adresboek fuortsmite">
+<!ENTITY removeAbCmd.label                              "Adresboek fuortsmite">
 <!ENTITY deleteContactCmd.label                         "Kontakt fuortsmite">
 <!ENTITY deleteContactsCmd.label                        "Kontakten fuortsmite">
 <!ENTITY deleteListCmd.label                            "List fuortsmite">
@@ -140,6 +141,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.label                            "Fuortsmite">
 <!ENTITY deleteButton2.accesskey                        "F">
 
+<!ENTITY removeButton.label                             "Fuortsmite">
+<!ENTITY removeButton.accesskey                         "F">
+
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY columnChooser.tooltip                          "Wer te jaan kolommen selektearje">
 <!ENTITY newContactButton.tooltip                       "Nij adresboekkontakt oanmeitsje">
@@ -151,6 +155,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.tooltip                           "E-mailberjocht stjoere">
 <!ENTITY newIM.tooltip                                  "In ynstant-berjocht stjoere of chatte">
 <!ENTITY deleteButton2.tooltip                          "Selektearre item fuortsmite">
+
+<!ENTITY removeButton.tooltip                           "It selektearre adresboek fuortsmite">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Namme of e-mail">
