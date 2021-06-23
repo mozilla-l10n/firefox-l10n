@@ -449,6 +449,11 @@ urlbar-result-action-search-w-engine = { $engine } سے تلاش کریں
 urlbar-result-action-sponsored = سپانسر شدہ
 urlbar-result-action-switch-tab = ٹیب پر جائیں
 urlbar-result-action-visit = دورہ
+# Shows the result of a formula expression being calculated, the last = sign will be shown
+# as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result = = { $result }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -456,6 +461,7 @@ urlbar-result-action-visit = دورہ
 
 urlbar-result-action-search-bookmarks = بک مارک تلاش کریں
 urlbar-result-action-search-history = سابقات تلاش کریں
+urlbar-result-action-search-tabs = تلاش ٹیبس
 
 ## Full Screen and Pointer Lock UI
 
@@ -475,9 +481,16 @@ pointerlock-warning-no-domain = اس دستاویز کہ پاس آپ کہ نشا
 
 ## Subframe crash notification
 
+crashed-subframe-learnmore-link =
+    .value = مزید سیکھیں
+crashed-subframe-submit =
+    .label = رپورٹ جمع کریں
+    .accesskey = S
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-manage-bookmarks =
+    .label = بک مارکس منظم کریں
 bookmarks-toolbar-chevron =
     .tooltiptext = مزید بک مارک دکھائیں
 bookmarks-sidebar-content =
@@ -557,9 +570,14 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = اس سائٹ پر کچھ آڈیو یا وڈیو DRM سافٹ ویئر استعمال کرتی ہے جس کی وجہ سے جو { -brand-short-name } اس کے ساتھ آپ کو کرنے دے گا، اس پر کچھ حدود ہوں گی۔
+eme-notifications-drm-content-playing-manage-accesskey = M
+eme-notifications-drm-content-playing-dismiss = برخاست کریں
+eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Password save/update panel
 
+panel-save-update-username = صارف کا نام
+panel-save-update-password = پاس ورڈ
 
 ## Add-on removal warning
 
