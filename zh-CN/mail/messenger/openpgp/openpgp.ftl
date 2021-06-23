@@ -271,6 +271,8 @@ openpgp-selection-status =
        *[other] 您当前配置使用 ID 为 <b>{ $key }</b> 的密钥
     }
 #   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status-have-key = 您当前配置使用 ID 为 <b>{ $key }</b> 的密钥
+#   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-error = 您当前配置使用密钥 <b>{ $key }</b>，已经过期。
 openpgp-add-key-button =
     .label = 添加密钥...
@@ -296,6 +298,10 @@ openpgp-key-expires-image =
 openpgp-radio-key-expired = 过期于：{ $date }
 openpgp-key-expired-image =
     .tooltiptext = 密钥已过期
+openpgp-key-expires-within-6-months-icon =
+    .title = 密钥将在 6 个月内到期
+openpgp-key-has-expired-icon =
+    .title = 密钥已过期
 openpgp-key-expand-section =
     .tooltiptext = 更多信息
 openpgp-key-revoke-title = 吊销密钥
@@ -412,18 +418,13 @@ openpgp-export-secret-fail = <b>无法导出选中的私钥！</b>
 # Strings in keyObj.jsm
 key-ring-pub-key-revoked = 密钥 { $userId }（密钥 ID { $keyId }）已吊销。
 key-ring-pub-key-expired = 密钥 { $userId }（密钥 ID { $keyId }）已过期。
-key-ring-key-disabled = 密钥 { $userId }（密钥 ID { $keyId }）已禁用，无法使用。
-key-ring-key-invalid = 密钥 { $userId }（密钥 ID { $keyId }）无效，请验证其是否正确。
-key-ring-key-not-trusted = 密钥 { $userId }（密钥 ID { $keyId }）信任度不足。请将您的密钥的信任度设为“完全信任”才能用于签名。
 key-ring-no-secret-key = 您的密钥环中似乎没有 { $userId }（密钥 ID { $keyId }）的私钥。无法使用该密钥进行签名。
 key-ring-pub-key-not-for-signing = 密钥 { $userId }（密钥 ID { $keyId }）无法用于签名。
 key-ring-pub-key-not-for-encryption = 密钥 { $userId }（密钥 ID { $keyId }）无法用于加密。
 key-ring-sign-sub-keys-revoked = 密钥 { $userId }（密钥 ID { $keyId }）的所有签名用子密钥已被吊销。
 key-ring-sign-sub-keys-expired = 密钥 { $userId }（密钥 ID { $keyId }）的所有签名用子密钥已过期。
-key-ring-sign-sub-keys-unusable = 密钥 { $userId }（密钥 ID { $keyId }）的所有签名用子密钥都已被吊销、过期或无法使用。
 key-ring-enc-sub-keys-revoked = 密钥 { $userId }（密钥 ID { $keyId }）的所有加密用子密钥已被吊销。
 key-ring-enc-sub-keys-expired = 密钥 { $userId }（密钥 ID { $keyId }）的所有加密用子密钥已过期。
-key-ring-enc-sub-keys-unusable = 密钥 { $userId }（密钥 ID { $keyId }）的所有加密用子密钥都已被吊销、过期或无法使用。
 # Strings in gnupg-keylist.jsm
 keyring-photo = 照片
 user-att-photo = 用户属性（JPEG 图像）
