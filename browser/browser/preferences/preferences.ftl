@@ -633,7 +633,7 @@ search-bar-hidden =
 search-bar-shown =
     .label = Додај поље за претрагу на траку са алаткама
 search-engine-default-header = Подразумевани претраживач
-search-engine-default-desc-2 = Изаберите подразумевани претраживач траке за адресу и поља за претрагу.
+search-engine-default-desc-2 = Изаберите подразумевани претраживач у траци за адресу и пољу за претрагу.
 search-engine-default-private-desc-2 = Одаберите други претраживач који ће се користити само у приватним прозорима
 search-separate-default-engine =
     .label = Користи овај претраживач у приватним прозорима
@@ -1011,7 +1011,7 @@ sitedata-cookies-exceptions =
 ## Privacy Section - Address Bar
 
 addressbar-header = Трака за адресу
-addressbar-suggest = Предлози на траци за адресу се заснивају на:
+addressbar-suggest = Предлози у траци за адресу се заснивају на:
 addressbar-locbar-history-option =
     .label = Историја прегледања
     .accesskey = г
