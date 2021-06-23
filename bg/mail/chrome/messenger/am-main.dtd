@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from am-main.xul -->
-
 <!-- extracted from am-main.xhtml -->
 
 <!ENTITY accountTitle.label "Настройки на регистрация">
@@ -15,6 +13,8 @@
 <!ENTITY name.accesskey "В">
 <!ENTITY email.label "Адрес на ел. поща:">
 <!ENTITY email.accesskey "А">
+<!ENTITY catchAll.label "Отговаряне от тази самоличност при несъвпадащи заглавки за доставка:">
+<!ENTITY catchAll.accesskey "с">
 <!ENTITY replyTo.label "Адрес за отговор:">
 <!ENTITY replyTo.accesskey "р">
 <!ENTITY replyTo.placeholder "Получателите ще отговарят до този друг адрес">
