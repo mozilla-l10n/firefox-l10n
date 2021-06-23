@@ -22,3 +22,5 @@ calendar-editable-item-reminder-icon-suppressed-alarm =
     .alt = En påminnelse är schemalagd men ignoreras för tillfället
 calendar-editable-item-reminder-icon-email =
     .alt = En e-postpåminnelse är schemalagd
+calendar-editable-item-reminder-icon-audio =
+    .alt = En ljudpåminnelse är schemalagd
