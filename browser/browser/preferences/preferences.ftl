@@ -1051,8 +1051,8 @@ enhanced-tracking-protection-setting-strict =
     .label = Строга
     .accesskey = г
 enhanced-tracking-protection-setting-custom =
-    .label = Прилагођено
-    .accesskey = г
+    .label = Прилагођена
+    .accesskey = ђ
 
 ##
 
