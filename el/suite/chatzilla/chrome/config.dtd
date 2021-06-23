@@ -4,14 +4,17 @@
 
 <!ENTITY window.title  "Προτιμήσεις ChatZilla">
 
+<!ENTITY loading.label  "Παρακαλώ περιμένετε, γίνεται φόρτωση…">
 
 <!ENTITY homepage.url   "http://chatzilla.hacksrus.com/">
 <!ENTITY homepage.label "Αρχική σελίδα ChatZilla">
 
 <!ENTITY object.add.label       "Προσθήκη…">
+<!ENTITY object.add.hint        "Προσθήκη νέου δικτύου, καναλιού ή χρήση για ενεργοποίηση των προτιμήσεων">
 <!ENTITY object.add.accesskey   "Π">
 
 <!ENTITY object.del.label       "Αφαίρεση">
+<!ENTITY object.del.hint        "Κατάργηση τρέχοντος αντικειμένου και όλων των προτιμήσεών του">
 <!ENTITY object.del.accesskey   "Α">
 
 <!ENTITY object.reset.label     "Επαναφορά">
