@@ -292,6 +292,7 @@ mr1-onboarding-sign-in-button-label = ลงชื่อเข้า
 ## Title, subtitle and primary button string used on set default onboarding screen
 ## when Firefox is not default browser
 
+mr1-onboarding-default-subtitle = ให้ความเร็ว ความปลอดภัย และความเป็นส่วนตัวมาแบบอัติโนมัติ
 mr1-onboarding-default-primary-button-label = ทำให้เป็นเบราว์เซอร์เริ่มต้น
 
 ## Multistage MR1 onboarding strings (about:welcome pages)

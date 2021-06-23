@@ -61,6 +61,8 @@ about-processes-file-process = ไฟล์ ({ $pid })
 about-processes-extension-process = ส่วนขยาย ({ $pid })
 about-processes-privilegedabout-process = หน้าเกี่ยวกับ ({ $pid })
 about-processes-plugin-process = ปลั๊กอิน ({ $pid })
+about-processes-gpu-process = GPU ({ $pid })
+about-processes-vr-process = VR ({ $pid })
 about-processes-rdd-process = ตัวถอดรหัสข้อมูล ({ $pid })
 about-processes-socket-process = เครือข่าย ({ $pid })
 about-processes-remote-sandbox-broker-process = ตัวกลาง Sandbox ระยะไกล ({ $pid })
@@ -156,6 +158,9 @@ about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigit
 about-processes-cpu-user-and-kernel-not-ready = (กำลังวัด)
 # Special case: process or thread is currently idle.
 about-processes-cpu-user-and-kernel-idle = ไม่ได้ใช้งาน ({ NUMBER($total, maximumFractionDigits: 2) }{ $unit })
+# Special case: process or thread is currently idle.
+about-processes-cpu-idle = ไม่ได้ใช้งาน
+    .title = เวลาที่ใช้งาน CPU ทั้งหมด: { NUMBER($total, maximumFractionDigits: 2) } { $unit }
 
 ## Displaying Memory (total and delta)
 ## Variables:
