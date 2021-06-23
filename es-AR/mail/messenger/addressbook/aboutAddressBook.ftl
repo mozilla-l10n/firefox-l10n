@@ -12,6 +12,10 @@ about-addressbook-toolbar-new-carddav-address-book =
     .label = Nueva libreta de direcciones CardDAV
 about-addressbook-toolbar-new-ldap-address-book =
     .label = Nueva libreta de direcciones LDAP
+about-addressbook-toolbar-add-carddav-address-book =
+    .label = Agregar libreta de direcciones CardDAV
+about-addressbook-toolbar-add-ldap-address-book =
+    .label = Agregar libreta de direcciones LDAP
 about-addressbook-toolbar-new-contact =
     .label = Nuevo contacto
 about-addressbook-toolbar-new-list =
@@ -28,6 +32,13 @@ about-addressbook-books-context-print =
     .label = Imprimir…
 about-addressbook-books-context-delete =
     .label = Eliminar
+about-addressbook-books-context-remove =
+    .label = Eliminar
+about-addressbook-confirm-delete-book-title = Borrar libreta de direcciones
+# Variables:
+# $name (String) - Name of the address book to be deleted.
+about-addressbook-confirm-delete-book = ¿Está seguro de querer borrar { $name } y todos sus contactos?
+about-addressbook-confirm-remove-remote-book-title = Eliminar libreta de direcciones
 
 ## Cards
 
