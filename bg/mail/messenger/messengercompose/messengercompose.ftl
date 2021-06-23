@@ -107,6 +107,26 @@ button-return-receipt =
 
 # Addressing Area
 
+to-compose-address-row-label =
+    .value = До
+#   $key (String) - the shortcut key for this field
+to-compose-show-address-row-menuitem =
+    .label = Поле { to-compose-address-row-label.value }
+    .accesskey = д
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+to-compose-show-address-row-label =
+    .value = { to-compose-address-row-label.value }
+    .tooltiptext = Показване на поле { to-compose-address-row-label.value } ({ to-compose-show-address-row-menuitem.acceltext })
+cc-compose-address-row-label =
+    .value = Копие
+#   $key (String) - the shortcut key for this field
+cc-compose-show-address-row-menuitem =
+    .label = Поле { cc-compose-address-row-label.value }
+    .accesskey = к
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+cc-compose-show-address-row-label =
+    .value = { cc-compose-address-row-label.value }
+    .tooltiptext = Показване на поле { cc-compose-address-row-label.value } ({ cc-compose-show-address-row-menuitem.acceltext })
 
 ## Notifications
 
