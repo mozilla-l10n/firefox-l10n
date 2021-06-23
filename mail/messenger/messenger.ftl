@@ -11,6 +11,13 @@ unread-messages-os-tooltip =
     }
 about-rights-notification-text = { -brand-short-name }, tüm dünyadan binlerce kişinin katkıda bulunduğu, özgür ve açık kaynaklı bir yazılımdır.
 
+## Content tabs
+
+content-tab-security-high-icon =
+    .alt = Bağlantı güvenli
+content-tab-security-broken-icon =
+    .alt = Bağlantı güvenli değil
+
 ## Toolbar
 
 addons-and-themes-button =
