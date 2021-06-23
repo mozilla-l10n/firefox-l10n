@@ -113,6 +113,9 @@ menu-edit =
 menu-edit-find-on =
     .label = Търсене в страницата…
     .accesskey = Т
+menu-edit-find-in-page =
+    .label = Търсене в страницата…
+    .accesskey = Т
 menu-edit-find-again =
     .label = Търсене отново
     .accesskey = о
@@ -131,6 +134,9 @@ menu-view-toolbars-menu =
 menu-view-customize-toolbar =
     .label = Приспособяване…
     .accesskey = П
+menu-view-customize-toolbar2 =
+    .label = Приспособяване на лентата…
+    .accesskey = л
 menu-view-sidebar =
     .label = Странична лента
     .accesskey = С
@@ -167,6 +173,9 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = Кодиране на текста
     .accesskey = К
+menu-view-repair-text-encoding =
+    .label = Поправка на кодировката
+    .accesskey = к
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -209,6 +218,8 @@ menu-history-undo-menu =
     .label = Последно затворени раздели
 menu-history-undo-window-menu =
     .label = Последно затворени прозорци
+menu-history-reopen-all-tabs = Възстановяване на всички раздели
+menu-history-reopen-all-windows = Възстановяване на всички прозорци
 
 ## Bookmarks Menu
 
@@ -219,6 +230,10 @@ menu-bookmarks-show-all =
     .label = Показване на всички отметки
 menu-bookmark-this-page =
     .label = Отмятане на страницата
+menu-bookmarks-manage =
+    .label = Управление на отметки
+menu-bookmark-current-tab =
+    .label = Отмятане на текущия раздел
 menu-bookmark-edit =
     .label = Промяна на отметка
 menu-bookmarks-all-tabs =
@@ -247,9 +262,15 @@ menu-tools-fxa-sign-in =
 menu-tools-turn-on-sync =
     .label = Включване на { -sync-brand-short-name }…
     .accesskey = л
+menu-tools-addons-and-themes =
+    .label = Добавки и теми
+    .accesskey = Д
 menu-tools-fxa-sign-in2 =
     .label = Вписване
     .accesskey = В
+menu-tools-turn-on-sync2 =
+    .label = Включване на Sync…
+    .accesskey = н
 menu-tools-sync-now =
     .label = Синхронизиране
     .accesskey = С
@@ -259,6 +280,12 @@ menu-tools-fxa-re-auth =
 menu-tools-web-developer =
     .label = Разработчик
     .accesskey = т
+menu-tools-browser-tools =
+    .label = Инструменти за четеца
+    .accesskey = И
+menu-tools-task-manager =
+    .label = Диспечер на задачи
+    .accesskey = Д
 menu-tools-page-source =
     .label = Изходен код на страницата
     .accesskey = к
@@ -275,6 +302,13 @@ menu-preferences =
         { PLATFORM() ->
             [windows] Н
            *[other] Н
+        }
+menu-settings =
+    .label = Настройки
+    .accesskey =
+        { PLATFORM() ->
+            [windows] н
+           *[other] н
         }
 menu-tools-layout-debugger =
     .label = Отстраняване на грешки в оформлението
@@ -316,6 +350,12 @@ menu-help-keyboard-shortcuts =
 menu-help-troubleshooting-info =
     .label = Отстраняване на неизправности
     .accesskey = И
+menu-get-help =
+    .label = Получете помощ
+    .accesskey = П
+menu-help-more-troubleshooting-info =
+    .label = Повече информация за отстраняване на неизправности
+    .accesskey = т
 menu-help-report-site-issue =
     .label = Докладване на проблем със страницата…
 menu-help-feedback-page =
@@ -327,6 +367,12 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Рестартиране с включени добавки
     .accesskey = д
+menu-help-enter-troubleshoot-mode2 =
+    .label = Режим за отстраняване на неизправности…
+    .accesskey = м
+menu-help-exit-troubleshoot-mode =
+    .label = Изкл. режим за отстраняване на неизправности
+    .accesskey = м
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
