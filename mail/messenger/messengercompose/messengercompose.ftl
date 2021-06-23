@@ -29,6 +29,9 @@ pill-action-move-cc =
 pill-action-move-bcc =
     .label = Преместване в „Скрито копие“
     .accesskey = с
+pill-action-expand-list =
+    .label = Разширяване на списък
+    .accesskey = с
 
 # Attachment widget
 
@@ -36,6 +39,51 @@ ctrl-cmd-shift-pretty-prefix =
     { PLATFORM() ->
         [macos] ⇧ ⌘{ " " }
        *[other] Ctrl+Shift+
+    }
+trigger-attachment-picker-key = A
+toggle-attachment-pane-key = M
+menuitem-toggle-attachment-pane =
+    .label = Прикачени файлове
+    .accesskey = ф
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key }
+toolbar-button-add-attachment =
+    .label = Прикачване
+    .tooltiptext = Добавяне на прикачен файл ({ ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key })
+add-attachment-notification-reminder =
+    .label = Прикачане на файл…
+    .tooltiptext = { toolbar-button-add-attachment.tooltiptext }
+menuitem-attach-files =
+    .label = Файлове…
+    .accesskey = ф
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
+context-menuitem-attach-files =
+    .label = Прикачане на файлове…
+    .accesskey = ф
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
+#   $count (Number) - the number of attachments in the attachment bucket
+attachment-bucket-count =
+    { $count ->
+        [one] { $count } прикачен файл
+       *[other] { $count } прикачени файла
+    }
+#   $count (Number) - the number of attachments in the attachment bucket
+attachments-placeholder-tooltip =
+    .tooltiptext =
+        { $count ->
+            [one] { $count } прикачен файл
+           *[other] { $count } прикачени файла
+        }
+#   { attachment-bucket-count.accesskey } - Do not localize this message.
+key-toggle-attachment-pane =
+    .key = { attachment-bucket-count.accesskey }
+expand-attachment-pane-tooltip =
+    .tooltiptext = Показва лентата с прикачени файлове ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+collapse-attachment-pane-tooltip =
+    .tooltiptext = Скрива лентата с прикачени файлове ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+drop-file-label-attachment =
+    { $count ->
+        [one] Добавяне като прикачен файл
+       *[other] Добавяне като прикачени файлове
     }
 
 # Reorder Attachment Panel
