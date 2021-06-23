@@ -8,12 +8,12 @@ containers-window-new =
 # Variables
 #   $name (String) - Name of the container
 containers-window-update =
-    .title = Подешавања контејнера { $name }
+    .title = Подешавања контејнера „{ $name }”
     .style = width: 45em
 # Variables
 #   $name (String) - Name of the container
 containers-window-update-settings =
-    .title = Подешавања контејнера { $name }
+    .title = Подешавања контејнера „{ $name }”
     .style = width: 45em
 containers-window-close =
     .key = w
