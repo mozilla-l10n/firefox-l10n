@@ -8,7 +8,18 @@
 
 ## New changes screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-new-title = Кажете здравей на новия { -brand-short-name }
+upgrade-dialog-new-subtitle = Проектиран да ви заведе, където искате по-бързо
+upgrade-dialog-new-item-menu-title = Опростени инструменти и менюта
+upgrade-dialog-new-item-tabs-title = Модерни раздели
+upgrade-dialog-new-item-icons-title = Свежи икони и по-ясни съобщения
+upgrade-dialog-new-primary-pin-button = Закачи { -brand-short-name } на лентата с инструменти
 upgrade-dialog-new-primary-theme-button = Избор на тема
+upgrade-dialog-new-secondary-button = Не сега
+# This string is only shown on Windows 7, where we intentionally suppress the
+# theme selection screen.
+upgrade-dialog-new-primary-win7-button = Да, разбрах!
 
 ## Pin Firefox screen
 ##
@@ -16,6 +27,12 @@ upgrade-dialog-new-primary-theme-button = Избор на тема
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-pin-title =
+    { PLATFORM() ->
+        [macos] Оставяне на { -brand-short-name } в Dock
+       *[other] Закачане на { -brand-short-name } на лентата с инструменти
+    }
 
 ## Default browser screen
 
@@ -24,3 +41,4 @@ upgrade-dialog-default-primary-button-2 = Избиране като станда
 ## Theme selection screen
 
 upgrade-dialog-theme-primary-button = Запазване на тема
+upgrade-dialog-theme-secondary-button = Не сега
