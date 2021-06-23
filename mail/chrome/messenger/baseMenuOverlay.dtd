@@ -9,14 +9,31 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Помощ">
 <!ENTITY helpMenuWin.accesskey "щ">
+<!ENTITY aboutProduct2.label "Относно &brandShorterName;">
+<!ENTITY aboutProduct2.accesskey "о">
 <!ENTITY helpTroubleshootingInfo.label     "Отстраняване на неизправности">
 <!ENTITY helpTroubleshootingInfo.accesskey "о">
 <!ENTITY helpSafeMode.label     "Рестартиране с изключени добавки…">
 <!ENTITY helpSafeMode.accesskey "Р">
+<!ENTITY helpSafeMode.stop.label     "Рестартиране с включени добавки">
+<!ENTITY helpSafeMode.stop.accesskey "р">
+<!ENTITY productHelp.label "Помощ за &brandShortName;">
+<!ENTITY productHelp.accesskey "п">
+<!ENTITY productHelp.commandkey "VK_F1">
+<!ENTITY productHelpMac.commandkey "?">
+<!ENTITY productHelpMac.modifiers "accel">
 
 <!ENTITY helpKeyboardShortcuts.label "Клавишни комбинации">
 <!ENTITY helpKeyboardShortcuts.accesskey "к">
 
+<!ENTITY helpFeedbackPage.label "Обратна връзка…">
+<!ENTITY helpFeedbackPage.accesskey "в">
 
+<!ENTITY helpShowTour2.label "Обиколка на &brandShorterName;">
+<!ENTITY helpShowTour2.accesskey "б">
 
+<!ENTITY helpGetInvolvedPage.label "Включете се">
+<!ENTITY helpGetInvolvedPage.accesskey "с">
 
+<!ENTITY helpDonationsPage.label "Направете дарение">
+<!ENTITY helpDonationsPage.accesskey "н">
