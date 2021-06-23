@@ -40,3 +40,4 @@ pocket-panel-signup-tagline-story-two = Преглеждайте в { -pocket-br
 
 ## about:pocket-home panel
 
+pocket-panel-home-welcome-back = Добре дошли

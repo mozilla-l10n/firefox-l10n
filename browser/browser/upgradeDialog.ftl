@@ -18,8 +18,9 @@ upgrade-dialog-new-alt-subtitle = Направете <span data-l10n-name="zap">
 upgrade-dialog-new-item-menu-title = Опростени инструменти и менюта
 upgrade-dialog-new-item-tabs-title = Модерни раздели
 upgrade-dialog-new-item-icons-title = Свежи икони и по-ясни съобщения
-upgrade-dialog-new-primary-primary-button = Избиране на { -brand-short-name } за основен четец?
+upgrade-dialog-new-primary-primary-button = Избиране на { -brand-short-name } за основен четец
     .title = Задава { -brand-short-name } за четец по подразбиране и го закача към лентата със задачи
+upgrade-dialog-new-primary-default-button = Избиране на { -brand-short-name } за стандартен четец
 upgrade-dialog-new-primary-pin-button = Закачане на { -brand-short-name } към лентата със задачи
 upgrade-dialog-new-primary-pin-alt-button = Закачане към лентата със задачи
 upgrade-dialog-new-primary-theme-button = Изберете тема
@@ -49,6 +50,7 @@ upgrade-dialog-pin-secondary-button = Не сега
 
 ## Default browser screen
 
+upgrade-dialog-default-primary-button = Четец по подразбиране
 upgrade-dialog-default-primary-button-2 = Избиране като стандартен четец
 upgrade-dialog-default-secondary-button = Не сега
 

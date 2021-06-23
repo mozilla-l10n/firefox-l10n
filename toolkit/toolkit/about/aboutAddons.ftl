@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 addons-window =
-    .title = Управление на добавките
-addons-page-title = Управление на добавките
+    .title = Управление на добавки
+addons-page-title = Управление на добавки
 search-header =
     .placeholder = търсене в addons.mozilla.org
     .searchbuttonlabel = Търсене
@@ -96,8 +96,10 @@ detail-private-browsing-label = Работa в поверителни прозо
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = Не позволено в поверителни прозорци
+detail-private-disallowed-description2 = Разширението не работи докато разглеждате поверително. <a data-l10n-name="learn-more">Научете повече</a>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Изисква достъп до поверителни прозорци
+detail-private-required-description2 = Разширението има достъп до дейностите ви докато разглеждате поверително. <a data-l10n-name="learn-more">Научете повече</a>
 detail-private-browsing-on =
     .label = Разрешаване
     .tooltiptext = Включване при поверително разглеждане
@@ -243,6 +245,10 @@ shortcuts-letter = Въведете буква
 shortcuts-system = Не може да презапишете клавишна комбинация на { -brand-short-name }
 # String displayed in warning label when there is a duplicate shortcut
 shortcuts-duplicate = Дублиране на комбинация
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message = Комбинацията { $shortcut } се използва на повече от едно място. Дублиране на клавишни комбинации могат да имат  поведение.
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
@@ -313,6 +319,17 @@ preferences-addon-button =
 details-addon-button = Подробности
 release-notes-addon-button = Бележки към изданието
 permissions-addon-button = Права
+extension-enabled-heading = Включени
+extension-disabled-heading = Изключени
+theme-enabled-heading = Включени
+theme-disabled-heading = Изключени
+plugin-enabled-heading = Включени
+plugin-disabled-heading = Изключени
+dictionary-enabled-heading = Включени
+dictionary-disabled-heading = Изключени
+locale-enabled-heading = Включени
+locale-disabled-heading = Изключени
+ask-to-activate-button = Питане за включване
 always-activate-button = Винаги включено
 never-activate-button = Винаги изключено
 addon-detail-author-label = Автор
@@ -320,6 +337,8 @@ addon-detail-version-label = Издание
 addon-detail-last-updated-label = Последно обновяване
 addon-detail-homepage-label = Страница
 addon-detail-rating-label = Оценка
+# Message for add-ons with a staged pending update.
+install-postponed-message = Разширението ще бъде обновено при рестарт на { -brand-short-name }
 install-postponed-button = Обновяване
 # The average rating that the add-on has received.
 # Variables:
@@ -366,6 +385,11 @@ addon-detail-private-browsing-disallow = Забраняване
 addon-badge-recommended2 =
     .title = { -brand-product-name } препоръчва само разширения, които отговарят на нашите стандарти за сигурност и производителност
     .aria-label = { addon-badge-recommended2.title }
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line3 =
+    .title = Официално разширение то Mozilla. Отговаря на стандартите за сигурност и производителност
+    .aria-label = { addon-badge-line3.title }
 addon-badge-verified2 =
     .title = Това разширение е прегледано и отговаря на нашите стандарти за сигурност и производителност
     .aria-label = { addon-badge-verified2.title }
