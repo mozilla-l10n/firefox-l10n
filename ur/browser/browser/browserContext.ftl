@@ -90,6 +90,9 @@ toolbar-button-stop-reload =
 
 ## Firefox Account Button
 
+toolbar-button-fxaccount =
+    .label = { -fxaccount-brand-name(capitalization: "sentence") }
+    .tooltiptext = { -fxaccount-brand-name(capitalization: "sentence") }
 
 ## Save Page
 
@@ -203,6 +206,19 @@ main-context-menu-media-play-speed-faster =
 main-context-menu-media-play-speed-fastest =
     .label = Ludicrous (2×)
     .accesskey = L
+main-context-menu-media-play-speed-2 =
+    .label = رفتار
+    .accesskey = d
+main-context-menu-media-play-speed-slow-2 =
+    .label = 0.5×
+main-context-menu-media-play-speed-normal-2 =
+    .label = 1.0×
+main-context-menu-media-play-speed-fast-2 =
+    .label = 1.25×
+main-context-menu-media-play-speed-faster-2 =
+    .label = 1.5×
+main-context-menu-media-play-speed-fastest-2 =
+    .label = 2×
 main-context-menu-media-loop =
     .label = دہراؤ
     .accesskey = L
@@ -349,6 +365,9 @@ main-context-menu-frame-view-info =
 main-context-menu-view-selection-source =
     .label = انتخاب ماخذ نظارہ کریں
     .accesskey = e
+main-context-menu-take-frame-screenshot =
+    .label = ایک سکرین شاٹ لیں
+    .accesskey = o
 main-context-menu-view-page-source =
     .label = صفحہ ماخذ نظارہ کریں
     .accesskey = V
@@ -363,6 +382,9 @@ main-context-menu-bidi-switch-page =
     .accesskey = D
 main-context-menu-inspect-element =
     .label = عناصر چیک کریں
+    .accesskey = Q
+main-context-menu-inspect =
+    .label = تحقیق
     .accesskey = Q
 main-context-menu-inspect-a11y-properties =
     .label = رسائی کی خصوصیات کا معائنہ کریں

@@ -297,6 +297,7 @@ identity-https-only-dropdown-off =
     .label = بند
 identity-https-only-dropdown-off-temporarily =
     .label = عارضی طور پر بندکریں
+identity-permissions-storage-access-learn-more = مزید سیکھیں
 identity-permissions-reload-hint = تبدیلی کو لگانے کے لیئے آپکو صفحہ کو دوبارہ لوڈ کرنے کی شاید ظرورت ہو۔
 identity-permissions-empty = آپ نے اس سائٹ کو کوئی خاص اجازتیں نہیں دیں ہے۔
 identity-clear-site-data =
@@ -362,6 +363,18 @@ popup-select-camera =
 popup-select-microphone =
     .value = شیئر کرنے کےلیے مائیکروفون:
     .accesskey = M
+popup-select-camera-device =
+    .value = کیمرہ
+    .accesskey = C
+popup-select-camera-icon =
+    .tooltiptext = کیمرہ
+popup-select-microphone-device =
+    .value = مائیکروفون
+    .accesskey = M
+popup-select-microphone-icon =
+    .tooltiptext = مائیکروفون
+popup-select-speaker-icon =
+    .tooltiptext = اسپیکر
 popup-all-windows-shared = آپ کی سکرین پر نظر آنے والے تمام دریچے شیئر کیے جائیں گے۔
 popup-screen-sharing-not-now =
     .label = ابھی نہیں
@@ -371,6 +384,7 @@ popup-screen-sharing-never =
     .accesskey = N
 popup-silence-notifications-checkbox = اشتراک کے دوران { -brand-short-name } سے اطلاعات کو غیر فعال کریں
 popup-silence-notifications-checkbox-warning = شیئرنگ کے عمل کے دوران { -brand-short-name } اطلاعات نہیں دکھایے گا.
+popup-mute-notifications-checkbox = شیئر کرتے وقت ویب سائٹ کی اطلاعات کو خاموش کریں
 
 ## WebRTC window or screen share tab switch warning
 

@@ -40,3 +40,6 @@ pocket-panel-signup-tagline-story-two = { -pocket-brand-name } میں نظارہ
 
 ## about:pocket-home panel
 
+pocket-panel-home-my-list = میری فہرست
+pocket-panel-home-discover-more = مزید تلاش کریں
+pocket-panel-home-explore-more = دریافت کریں

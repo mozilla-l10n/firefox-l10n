@@ -17,6 +17,8 @@ appmenuitem-new-window =
     .label = نیا ونڈوں
 appmenuitem-new-private-window =
     .label = نیا نجی ونڈوں
+appmenuitem-passwords =
+    .label = پاس ورڈ
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -35,6 +37,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = ابھی Sync کریں
+appmenu-fxa-signed-in-label = سائن ان کریں
 appmenu-fxa-show-more-tabs = مزید ٹیبز دکھائیں
 appmenuitem-save-page =
     .label = صفحہ محفوظ کریں بطور…
@@ -52,6 +55,8 @@ whatsnew-panel-footer-checkbox =
 ## performance profiles. To enable it go to profiler.firefox.com and click
 ## "Enable Profiler Menu Button".
 
+profiler-popup-title =
+    .value = { -profiler-brand-name }
 profiler-popup-learn-more = مزیدجانیے
 profiler-popup-settings =
     .value = سیٹنگز
@@ -97,6 +102,9 @@ appmenu-help-header =
 appmenu-about =
     .label = { -brand-shorter-name } کے بارے میں
     .accesskey = A
+appmenu-get-help =
+    .label = مدد حاصل کریں
+    .accesskey = h
 appmenu-help-report-site-issue =
     .label = سائٹ مسلہ… رپورٹ کریں
 appmenu-help-feedback-page =
