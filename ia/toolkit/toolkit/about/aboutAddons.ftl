@@ -377,10 +377,10 @@ addon-badge-recommended2 =
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
-    .title = Extension official producite per Mozilla. Satisface standardos de securitate e prestation
+    .title = Extension official producite per Mozilla. Satisface le standards de securitate e rendimento
     .aria-label = { addon-badge-line3.title }
 addon-badge-verified2 =
-    .title = Iste extension ha essite revidite pro satisfacer nostre standardos de securitate e prestation
+    .title = Iste extension ha essite revidite pro satisfacer nostre standards de securitate e rendimento
     .aria-label = { addon-badge-verified2.title }
 
 ##
