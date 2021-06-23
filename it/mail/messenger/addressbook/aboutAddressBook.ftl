@@ -12,6 +12,10 @@ about-addressbook-toolbar-new-carddav-address-book =
     .label = Nuova rubrica CardDAV
 about-addressbook-toolbar-new-ldap-address-book =
     .label = Nuova rubrica LDAP
+about-addressbook-toolbar-add-carddav-address-book =
+    .label = Aggiungi rubrica CardDAV
+about-addressbook-toolbar-add-ldap-address-book =
+    .label = Aggiungi rubrica LDAP
 about-addressbook-toolbar-new-contact =
     .label = Nuovo contatto
 about-addressbook-toolbar-new-list =
@@ -28,6 +32,11 @@ about-addressbook-books-context-print =
     .label = Stampa…
 about-addressbook-books-context-delete =
     .label = Elimina
+about-addressbook-books-context-remove =
+    .label = Elimina
+# Variables:
+# $name (String) - Name of the remote address book to be removed.
+about-addressbook-confirm-remove-remote-book = Eliminare { $name }?
 
 ## Cards
 
@@ -53,6 +62,49 @@ about-addressbook-sort-email-ascending =
     .label = Ordina per indirizzo email (A > Z)
 about-addressbook-sort-email-descending =
     .label = Ordina per indirizzo email (Z > A)
+about-addressbook-confirm-delete-mixed-title = Elimina contatti e liste
+# Variables:
+# $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
+about-addressbook-confirm-delete-mixed = Eliminare questi { $count } contatti e liste?
+# Variables:
+# $count (Number) - The number of lists to be deleted.
+about-addressbook-confirm-delete-lists-title =
+    { $count ->
+        [one] Eliminazione lista
+       *[other] Eliminazione liste
+    }
+# Variables:
+# $count (Number) - The number of lists to be deleted.
+# $name (String) - The name of the list to be deleted, if $count is 1.
+about-addressbook-confirm-delete-lists =
+    { $count ->
+        [one] Eliminare la lista { $name }?
+       *[other] Eliminare queste { $count } liste?
+    }
+# Variables:
+# $count (Number) - The number of contacts to be removed.
+about-addressbook-confirm-remove-contacts-title =
+    { $count ->
+        [one] Eliminazione contatto
+       *[other] Eliminazione contatti
+    }
+# Variables:
+# $count (Number) - The number of contacts to be removed.
+# $name (String) - The name of the contact to be removed, if $count is 1.
+# $list (String) - The name of the list that contacts will be removed from.
+about-addressbook-confirm-remove-contacts =
+    { $count ->
+        [one] Eliminare { $name } dalla lista { $list }?
+       *[other] Eliminare questi { $count } contatti dalla lista { $list }?
+    }
+# Variables:
+# $count (Number) - The number of contacts to be deleted.
+# $name (String) - The name of the contact to be deleted, if $count is 1.
+about-addressbook-confirm-delete-contacts =
+    { $count ->
+        [one] Eliminare il contatto { $name }?
+       *[other] Eliminare questi { $count } contatti?
+    }
 
 ## Details
 
