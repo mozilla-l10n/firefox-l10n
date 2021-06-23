@@ -48,6 +48,7 @@
 <!ENTITY editMenu.accesskey                             "ü">
 <!ENTITY deleteCmd.label                                "Sil">
 <!ENTITY deleteAbCmd.label                              "Adres defterini sil">
+<!ENTITY removeAbCmd.label                              "Adres defterini kaldır">
 <!ENTITY deleteContactCmd.label                         "Kişiyi sil">
 <!ENTITY deleteContactsCmd.label                        "Kişileri Sil">
 <!ENTITY deleteListCmd.label                            "Listeyi Sil">
@@ -140,6 +141,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.label                            "Sil">
 <!ENTITY deleteButton2.accesskey                        "S">
 
+<!ENTITY removeButton.label                             "Kaldır">
+<!ENTITY removeButton.accesskey                         "K">
+
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY columnChooser.tooltip                          "Gösterilecek sütunları seç">
 <!ENTITY newContactButton.tooltip                       "Yeni adres defteri kişisi oluştur">
@@ -151,6 +155,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.tooltip                           "E-posta iletisi gönder">
 <!ENTITY newIM.tooltip                                  "Anlık ileti gönder veya sohbet et">
 <!ENTITY deleteButton2.tooltip                          "Seçilmiş ögeyi sil">
+
+<!ENTITY removeButton.tooltip                           "Seçili adres defterini kaldır">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Ad veya e-posta">
