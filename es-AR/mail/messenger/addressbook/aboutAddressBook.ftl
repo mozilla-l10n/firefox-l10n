@@ -39,6 +39,9 @@ about-addressbook-confirm-delete-book-title = Borrar libreta de direcciones
 # $name (String) - Name of the address book to be deleted.
 about-addressbook-confirm-delete-book = ¿Está seguro de querer borrar { $name } y todos sus contactos?
 about-addressbook-confirm-remove-remote-book-title = Eliminar libreta de direcciones
+# Variables:
+# $name (String) - Name of the remote address book to be removed.
+about-addressbook-confirm-remove-remote-book = ¿Está seguro de querer eliminar { $name }?
 
 ## Cards
 
@@ -64,6 +67,41 @@ about-addressbook-sort-email-ascending =
     .label = Ordenar por dirección de correo electrónico (A>Z)
 about-addressbook-sort-email-descending =
     .label = Ordenar por dirección de correo electrónico (Z>A)
+about-addressbook-confirm-delete-mixed-title = Borar contactos y listas
+# Variables:
+# $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
+about-addressbook-confirm-delete-mixed = ¿Está seguro de querer borrar estos { $count } contactos y listas?
+# Variables:
+# $count (Number) - The number of lists to be deleted.
+about-addressbook-confirm-delete-lists-title =
+    { $count ->
+        [one] Borrar lista
+       *[other] Borrar listas
+    }
+# Variables:
+# $count (Number) - The number of lists to be deleted.
+# $name (String) - The name of the list to be deleted, if $count is 1.
+about-addressbook-confirm-delete-lists =
+    { $count ->
+        [one] ¿Está seguro de querer borrar la lista { $name }?
+       *[other] ¿Está seguro de querer borrar estas { $count } listas?
+    }
+# Variables:
+# $count (Number) - The number of contacts to be removed.
+about-addressbook-confirm-remove-contacts-title =
+    { $count ->
+        [one] Eliminar contacto
+       *[other] Eliminar contactos
+    }
+# Variables:
+# $count (Number) - The number of contacts to be removed.
+# $name (String) - The name of the contact to be removed, if $count is 1.
+# $list (String) - The name of the list that contacts will be removed from.
+about-addressbook-confirm-remove-contacts =
+    { $count ->
+        [one] ¿Está seguro de querer borrar { $name } de { $list }?
+       *[other] ¿Está seguro de querer borrar estos { $count } contactos de { $list }?
+    }
 
 ## Details
 
