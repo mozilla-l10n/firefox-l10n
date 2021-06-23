@@ -85,9 +85,25 @@ drop-file-label-attachment =
         [one] Добавяне като прикачен файл
        *[other] Добавяне като прикачени файлове
     }
+drop-file-label-inline =
+    { $count ->
+        [one] Вграждане в писмото
+       *[other] Вграждане в писмото
+    }
 
 # Reorder Attachment Panel
 
+move-attachment-first-panel-button =
+    .label = Най-отпред
+move-attachment-left-panel-button =
+    .label = Наляво
+move-attachment-right-panel-button =
+    .label = Надясно
+move-attachment-last-panel-button =
+    .label = Най-отзад
+button-return-receipt =
+    .label = Разписка
+    .tooltiptext = Връща потвърждение от получателя, когато отвори писмото, подобно на обратна разписка
 
 # Addressing Area
 
