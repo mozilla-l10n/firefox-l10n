@@ -12,6 +12,10 @@ about-addressbook-toolbar-new-carddav-address-book =
     .label = 新建 CardDAV 通讯录
 about-addressbook-toolbar-new-ldap-address-book =
     .label = 新建 LDAP 通讯录
+about-addressbook-toolbar-add-carddav-address-book =
+    .label = 添加 CardDAV 通讯录
+about-addressbook-toolbar-add-ldap-address-book =
+    .label = 添加 LDAP 通讯录
 about-addressbook-toolbar-new-contact =
     .label = 新建联系人
 about-addressbook-toolbar-new-list =
@@ -28,6 +32,9 @@ about-addressbook-books-context-print =
     .label = 打印…
 about-addressbook-books-context-delete =
     .label = 删除
+about-addressbook-books-context-remove =
+    .label = 移除
+about-addressbook-confirm-delete-book-title = 删除通讯录
 
 ## Cards
 
@@ -53,6 +60,18 @@ about-addressbook-sort-email-ascending =
     .label = 按电子邮件地址排序（A > Z）
 about-addressbook-sort-email-descending =
     .label = 按电子邮件地址排序（Z > A）
+# Variables:
+# $count (Number) - The number of contacts to be removed.
+about-addressbook-confirm-remove-contacts-title =
+    { $count ->
+       *[other] 移除联系人
+    }
+# Variables:
+# $count (Number) - The number of contacts to be deleted.
+about-addressbook-confirm-delete-contacts-title =
+    { $count ->
+       *[other] 删除联系人
+    }
 
 ## Details
 

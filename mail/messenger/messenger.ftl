@@ -10,11 +10,24 @@ unread-messages-os-tooltip =
     }
 about-rights-notification-text = { -brand-short-name } 是一款自由且开源的软件，由来自世界各地数千位成员组成的社区所构建。
 
+## Content tabs
+
+content-tab-security-high-icon =
+    .alt = 连接是安全的
+content-tab-security-broken-icon =
+    .alt = 连接不安全
+
 ## Toolbar
 
 addons-and-themes-button =
     .label = 扩展和主题
     .tooltip = 管理您的附加组件
+addons-and-themes-toolbarbutton =
+    .label = 扩展和主题
+    .tooltiptext = 管理您的附加组件
+quick-filter-toolbarbutton =
+    .label = 快速筛选
+    .tooltiptext = 筛选消息
 redirect-msg-button =
     .label = 重定向
     .tooltiptext = 将选择的消息重定向
