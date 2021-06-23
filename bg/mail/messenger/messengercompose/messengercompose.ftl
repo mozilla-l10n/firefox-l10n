@@ -127,6 +127,27 @@ cc-compose-show-address-row-menuitem =
 cc-compose-show-address-row-label =
     .value = { cc-compose-address-row-label.value }
     .tooltiptext = Показване на поле { cc-compose-address-row-label.value } ({ cc-compose-show-address-row-menuitem.acceltext })
+bcc-compose-address-row-label =
+    .value = Скрито копие
+#   $key (String) - the shortcut key for this field
+bcc-compose-show-address-row-menuitem =
+    .label = Поле { bcc-compose-address-row-label.value }
+    .accesskey = с
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+bcc-compose-show-address-row-label =
+    .value = { bcc-compose-address-row-label.value }
+    .tooltiptext = Показване на { bcc-compose-address-row-label.value } ({ bcc-compose-show-address-row-menuitem.acceltext })
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+many-public-recipients-info = { $count } получатели в До и Копие ще виждат адресите си. Можете да избегнете разкриване на получателите като вместо това използвате Скрито копие.
+many-public-recipients-bcc =
+    .label = Използване на Скрито копие
+    .accesskey = к
+many-public-recipients-ignore =
+    .label = Нека получателите са публични
+    .accesskey = п
 
 ## Notifications
 
+# Variables:
+# $identity (string) - The name of the used identity, most likely an email address.
+compose-missing-identity-warning = Адрес на електронна поща, отговарящ на адреса в полето От не е намерен. Съобщението ще бъде изпратено с текущото съдържание на полето От и настройките от самоличността { $identity }.
