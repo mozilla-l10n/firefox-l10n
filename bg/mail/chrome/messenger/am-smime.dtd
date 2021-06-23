@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY e2eTitle.label "Шифроване от край до край">
 <!ENTITY e2eLearnMore.label "Научете повече">
 
 
@@ -16,7 +17,6 @@
 <!ENTITY encryption.certificate_clear.accesskey "и">
 <!ENTITY signingGroupTitle.label "Цифров подпис">
 <!ENTITY signMessage.accesskey "П">
-
 
 
 

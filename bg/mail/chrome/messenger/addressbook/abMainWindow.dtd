@@ -156,6 +156,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newIM.tooltip                                  "Изпращане на бързо съобщение или покана за разговор">
 <!ENTITY deleteButton2.tooltip                          "Изтриване на избраната позиция">
 
+<!ENTITY removeButton.tooltip                           "Премахване на избраната адресна книга">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Име или адрес">
