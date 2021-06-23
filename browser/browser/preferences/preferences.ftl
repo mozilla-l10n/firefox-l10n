@@ -857,8 +857,8 @@ forms-generate-passwords =
     .label = Предлажи и генериши јаке лозинке
     .accesskey = ж
 forms-breach-alerts =
-    .label = Прикажи обавештења о лозинкама на веб страницама које су искусиле цурење података
-    .accesskey = о
+    .label = Упозори ме о лозинкама за хаковане веб-сајтове
+    .accesskey = з
 forms-breach-alerts-learn-more-link = Сазнајте више
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
