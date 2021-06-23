@@ -997,7 +997,7 @@ sitedata-option-block-all =
     .label = Сви колачићи (сломиће сајтове)
 sitedata-clear =
     .label = Обриши податке…
-    .accesskey = б
+    .accesskey = д
 sitedata-settings =
     .label = Управљај подацима…
     .accesskey = ц
@@ -1057,7 +1057,7 @@ enhanced-tracking-protection-setting-custom =
 ##
 
 content-blocking-etp-standard-desc = Уравнотежена заштита и перформанса. Странице ће се нормално учитавати.
-content-blocking-etp-strict-desc = Већи ниво заштите, али може да омете рад неких веб-сајтова.
+content-blocking-etp-strict-desc = Већи ниво заштите, али може да онеспособи рад неких веб-сајтова.
 content-blocking-etp-custom-desc = Изаберите које елементе за праћење и скрипте желите да блокирате.
 content-blocking-etp-blocking-desc = { -brand-short-name } блокира следеће:
 content-blocking-private-windows = Садржај који прати у приватним прозорима
