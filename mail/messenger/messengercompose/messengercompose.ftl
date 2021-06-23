@@ -13,6 +13,21 @@ remove-address-row-type-label =
 #   $type (String) - the type of the addressing row
 remove-address-row-button =
     .title = Премахва полето { $type }
+#   $type (String) - the type of the addressing row
+#   $count (Number) - the number of address pills currently present in the addressing row
+address-input-type-aria-label =
+    { $count ->
+        [0] { $type }
+        [one] { $type } с един адрес, използвайте клавиш „стрелка наляво“, за да преместите фокуса върху него.
+       *[other] { $type } с { $count } адреса, използвайте клавиш „стрелка наляво“, за да преместите фокуса върху тях.
+    }
+#   $email (String) - the email address
+#   $count (Number) - the number of address pills currently present in the addressing row
+pill-aria-label =
+    { $count ->
+        [one] { $email }: натиснете Enter за променяне; Delete за премахване.
+       *[other] { $email }, 1 от { $count }: натиснете Enter за променяне; Delete за премахване.
+    }
 #   $email (String) - the email address
 pill-tooltip-invalid-address = { $email } не е валиден адрес на електронна поща
 #   $email (String) - the email address
