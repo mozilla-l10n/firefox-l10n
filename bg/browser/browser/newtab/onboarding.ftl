@@ -183,6 +183,7 @@ mr1-onboarding-set-default-pin-primary-button-label = Избиране на { -b
 ## Title, subtitle and primary button string used on set default onboarding screen
 ## when Firefox is not default browser
 
+mr1-onboarding-default-header = Избиране на { -brand-short-name } по подразбиране
 mr1-onboarding-default-primary-button-label = Избиране като стандартен четец
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
