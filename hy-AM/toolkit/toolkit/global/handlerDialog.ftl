@@ -23,12 +23,18 @@ permission-dialog-remember-file = Միշտ թույլատրել այս ֆայլ�
 permission-dialog-btn-open-link =
     .label = Բացել հղումը
     .accessKey = O
+permission-dialog-btn-choose-app =
+    .label = Ընտրեք ծրագիր
+    .accessKey = A
 permission-dialog-unset-description = Դուք պետք է ընտրեք հավելվածը:
 
 ## Chooser dialog
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+chooser-window =
+    .title = Ընտրեք ծրագիր
+    .style = min-width: 26em; min-height: 26em;
 chooser-dialog =
     .buttonlabelaccept = Բացել հղումը
     .buttonaccesskeyaccept = O
