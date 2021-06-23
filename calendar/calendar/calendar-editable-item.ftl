@@ -22,3 +22,5 @@ calendar-editable-item-reminder-icon-suppressed-alarm =
     .alt = Một thông báo nhắc nhở đã được lên lịch nhưng hiện đã bị chặn
 calendar-editable-item-reminder-icon-email =
     .alt = Một e-mail nhắc nhở đã được lên lịch
+calendar-editable-item-reminder-icon-audio =
+    .alt = Một thông báo nhắc nhở bằng âm thanh đã được lên lịch
