@@ -22,3 +22,5 @@ calendar-editable-item-reminder-icon-suppressed-alarm =
     .alt = Der is in omtinkingsberjocht ynpland, mar dit wurdt op dit stuit ûnderdrukt
 calendar-editable-item-reminder-icon-email =
     .alt = Der is in omtinkings-e-mailberjocht ynpland
+calendar-editable-item-reminder-icon-audio =
+    .alt = Der is in omtinkens-audioberjocht ynpland
