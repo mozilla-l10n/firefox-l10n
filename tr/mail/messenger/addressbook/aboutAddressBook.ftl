@@ -12,6 +12,10 @@ about-addressbook-toolbar-new-carddav-address-book =
     .label = Yeni CardDAV adres defteri
 about-addressbook-toolbar-new-ldap-address-book =
     .label = Yeni LDAP adres defteri
+about-addressbook-toolbar-add-carddav-address-book =
+    .label = CardDAV adres defteri ekle
+about-addressbook-toolbar-add-ldap-address-book =
+    .label = LDAP adres defteri ekle
 about-addressbook-toolbar-new-contact =
     .label = Yeni kişi
 about-addressbook-toolbar-new-list =
@@ -28,6 +32,13 @@ about-addressbook-books-context-print =
     .label = Yazdır…
 about-addressbook-books-context-delete =
     .label = Sil
+about-addressbook-books-context-remove =
+    .label = Kaldır
+about-addressbook-confirm-delete-book-title = Adres defterini sil
+about-addressbook-confirm-remove-remote-book-title = Adres defterini kaldır
+# Variables:
+# $name (String) - Name of the remote address book to be removed.
+about-addressbook-confirm-remove-remote-book = { $name } adres defterini kaldırmak istediğinizden emin misiniz?
 
 ## Cards
 
@@ -53,6 +64,39 @@ about-addressbook-sort-email-ascending =
     .label = E-posta adresine göre sırala (A > Z)
 about-addressbook-sort-email-descending =
     .label = E-posta adresine göre sırala (Z > A)
+about-addressbook-confirm-delete-mixed-title = Kişileri ve listeleri sil
+# Variables:
+# $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
+about-addressbook-confirm-delete-mixed = { $count } kişiyi ve listeyi silmek istediğinizden emin misiniz?
+# Variables:
+# $count (Number) - The number of lists to be deleted.
+about-addressbook-confirm-delete-lists-title =
+    { $count ->
+        [one] Listeyi sil
+       *[other] Listeleri sil
+    }
+# Variables:
+# $count (Number) - The number of lists to be deleted.
+# $name (String) - The name of the list to be deleted, if $count is 1.
+about-addressbook-confirm-delete-lists =
+    { $count ->
+        [one] { $name } listesini silmek istediğinizden emin misiniz?
+       *[other] { $count } listeyi silmek istediğinizden emin misiniz?
+    }
+# Variables:
+# $count (Number) - The number of contacts to be removed.
+about-addressbook-confirm-remove-contacts-title =
+    { $count ->
+        [one] Kişiyi sil
+       *[other] Kişileri sil
+    }
+# Variables:
+# $count (Number) - The number of contacts to be deleted.
+about-addressbook-confirm-delete-contacts-title =
+    { $count ->
+        [one] Kişiyi sil
+       *[other] Kişileri sil
+    }
 
 ## Details
 
