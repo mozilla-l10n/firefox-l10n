@@ -470,9 +470,9 @@
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "Добавки">
 <!ENTITY addons.accesskey "б">
-<!ENTITY addonPrefs.label "Настройки на добавките">
+<!ENTITY addonPrefs.label "Настройки на добавки">
 <!ENTITY addonPrefs.accesskey "д">
-<!ENTITY addonPrefsUnix.label "Настройки на добавките">
+<!ENTITY addonPrefsUnix.label "Настройки на добавки">
 <!ENTITY addonPrefsUnix.accesskey "д">
 <!ENTITY addonNoPrefs.label "Не са намерени настройки на добавки.">
 <!ENTITY activitymanager.label "Управление на активността">
@@ -719,7 +719,6 @@
 <!ENTITY locationColumn.label "Местоположение">
 <!ENTITY idColumn.label "Ред на получаване">
 <!ENTITY attachmentColumn.label "Прикачени файлове">
-
 <!ENTITY deleteColumn.label "Изтриване">
 
 <!-- Thread Pane Tooltips -->
@@ -745,7 +744,6 @@
 <!ENTITY locationColumn2.tooltip "Сортиране по местоположение">
 <!ENTITY idColumn2.tooltip "Сортиране по реда на получаване">
 <!ENTITY attachmentColumn2.tooltip "Сортиране по притурки">
-
 <!ENTITY deleteColumn.tooltip "Изтриване на съобщение">
 
 <!-- Thread Pane Context Menu -->

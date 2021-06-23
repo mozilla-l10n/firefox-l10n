@@ -76,7 +76,10 @@
 <!ENTITY HomeWebPage.accesskey          "и">
 <!ENTITY Birthday.label                 "Рожден ден:">
 <!ENTITY Birthday.accesskey             "р">
+<!ENTITY Month.placeholder              "Месец">
+<!ENTITY Day.placeholder                "Ден">
 <!ENTITY Year.placeholder               "година">
+<!ENTITY Age.label                      "Възраст:">
 <!ENTITY Age.placeholder                "възраст">
 
 <!ENTITY Work.tab                       "Служебни">
