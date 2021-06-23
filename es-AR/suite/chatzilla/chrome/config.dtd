@@ -10,9 +10,31 @@
 <!ENTITY homepage.label "Página principal de ChatZilla">
 
 <!ENTITY object.add.label       "Agregar…">
+<!ENTITY object.add.hint        "Agregar una nueva red, canal o usuario para establecerle preferencias">
+<!ENTITY object.add.accesskey   "A">
 
+<!ENTITY object.del.label       "Eliminar">
+<!ENTITY object.del.hint        "Elimina el objeto actual, así como sus preferencias">
+<!ENTITY object.del.accesskey   "r">
 
+<!ENTITY object.reset.label     "Restablecer">
+<!ENTITY object.reset.hint      "Restaura las preferencias de este objeto a las predeterminadas">
+<!ENTITY object.reset.accesskey "s">
 
+<!ENTITY dialog.apply   "Aplicar">
 
+<!ENTITY network "Red">
+<!ENTITY channel "Canal">
+<!ENTITY user    "Usuario">
 
+<!ENTITY config.add.title "Agregar objeto de preferencia">
 
+<!ENTITY config.type.label        "Tipo:">
+<!ENTITY config.type.hint         "Tipo de objeto al que se le van a agregar preferencias">
+<!ENTITY config.type.accesskey    "T">
+<!ENTITY config.network.label     "Red:">
+<!ENTITY config.network.hint      "Nombre conocido de la red o del servidor">
+<!ENTITY config.network.accesskey "e">
+<!ENTITY config.target.label      "Destino:">
+<!ENTITY config.target.hint       "Nombre de canal o usuario destino">
+<!ENTITY config.target.accesskey  "D">
