@@ -48,6 +48,7 @@
 <!ENTITY editMenu.accesskey                             "W">
 <!ENTITY deleteCmd.label                                "Verwijderen">
 <!ENTITY deleteAbCmd.label                              "Adresboek verwijderen">
+<!ENTITY removeAbCmd.label                              "Adresboek verwijderen">
 <!ENTITY deleteContactCmd.label                         "Contact verwijderen">
 <!ENTITY deleteContactsCmd.label                        "Contacten verwijderen">
 <!ENTITY deleteListCmd.label                            "Lijst verwijderen">
@@ -140,6 +141,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.label                            "Verwijderen">
 <!ENTITY deleteButton2.accesskey                        "V">
 
+<!ENTITY removeButton.label                             "Verwijderen">
+
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY columnChooser.tooltip                          "Weer te geven kolommen selecteren">
 <!ENTITY newContactButton.tooltip                       "Een nieuw adresboekcontact aanmaken">
@@ -151,6 +154,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.tooltip                           "Een e-mailbericht sturen">
 <!ENTITY newIM.tooltip                                  "Een instant-bericht sturen of chatten">
 <!ENTITY deleteButton2.tooltip                          "Geselecteerde item verwijderen">
+
+<!ENTITY removeButton.tooltip                           "Het geselecteerde adresboek verwijderen">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Naam of e-mailadres">
