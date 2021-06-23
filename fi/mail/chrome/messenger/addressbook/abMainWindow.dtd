@@ -48,6 +48,7 @@
 <!ENTITY editMenu.accesskey                             "M">
 <!ENTITY deleteCmd.label                                "Poista">
 <!ENTITY deleteAbCmd.label                              "Poista osoitekirja">
+<!ENTITY removeAbCmd.label                              "Poista osoitekirja">
 <!ENTITY deleteContactCmd.label                         "Poista yhteystieto">
 <!ENTITY deleteContactsCmd.label                        "Poista yhteystiedot">
 <!ENTITY deleteListCmd.label                            "Poista osoitelista">
@@ -140,6 +141,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.label                            "Poista">
 <!ENTITY deleteButton2.accesskey                        "P">
 
+<!ENTITY removeButton.label                             "Poista">
+<!ENTITY removeButton.accesskey                         "P">
+
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY columnChooser.tooltip                          "Valitse näytettävät sarakkeet">
 <!ENTITY newContactButton.tooltip                       "Luo uusi yhteystieto osoitekirjaan">
@@ -151,6 +155,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.tooltip                           "Lähetä sähköpostia">
 <!ENTITY newIM.tooltip                                  "Lähetä pikaviesti tai keskustele">
 <!ENTITY deleteButton2.tooltip                          "Poista valittu tieto">
+
+<!ENTITY removeButton.tooltip                           "Poista valittu osoitekirja">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Nimi tai osoite">
