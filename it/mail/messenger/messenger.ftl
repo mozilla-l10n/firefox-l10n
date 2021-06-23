@@ -13,6 +13,8 @@ about-rights-notification-text = { -brand-short-name } è un software gratuito, 
 
 ## Content tabs
 
+content-tab-page-loading-icon =
+    .alt = Caricamento pagina in corso
 content-tab-security-high-icon =
     .alt = La connessione è sicura
 content-tab-security-broken-icon =
