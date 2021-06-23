@@ -70,7 +70,6 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = अपने सहेजे गए लॉगिन की खोज़ है? { -sync-brand-short-name } सेट करें।
-about-logins-login-intro-heading-logged-out = अपने सहेजे लॉगिंस खोज रहे हैं? { -sync-brand-short-name } को सेटअप करें या उन्हें आयात करें।
 about-logins-login-intro-heading-logged-out2 = अपने सहेजे गए लॉगिन खोज रहे हैं? सिंक को चालू करें या उन्हें आयात करें।
 about-logins-login-intro-heading-logged-in = कोई संकलित लॉगिन नहीं मिला।
 login-intro-description = यदि आपने अपने लॉगिन को एक अलग डिवाइस पर { -brand-product-name } में सहेजा है, तो उन्हें यहां ऐसे प्राप्त करें:
@@ -225,13 +224,19 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] CSV दस्तावेज़
        *[other] CSV फ़ाइल
     }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] TSV दस्तावेज़
+       *[other] TSV फ़ाइल
+    }
 
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-error-learn-more = अधिक जानें
-about-logins-import-dialog-error-try-again = फिर से कोशिश करें...
 about-logins-import-dialog-error-cancel = रद्द करें
 about-logins-import-report-row-description-added = नया लॉगिन जोड़ा गया
 
