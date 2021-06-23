@@ -413,6 +413,8 @@ popup-select-microphone-device =
     .accesskey = М
 popup-select-microphone-icon =
     .tooltiptext = Микрофон
+popup-select-speaker-icon =
+    .tooltiptext = Високоговорители
 popup-all-windows-shared = Всички видими прозорци на вашия екран ще бъдат споделени.
 popup-screen-sharing-not-now =
     .label = Не сега
@@ -562,9 +564,14 @@ pointerlock-warning-no-domain = Този документ контролира �
 
 crashed-subframe-learnmore-link =
     .value = Научете повече
+crashed-subframe-submit =
+    .label = Изпращане на доклад
+    .accesskey = з
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-manage-bookmarks =
+    .label = Управление на отметки
 bookmarks-recent-bookmarks-panel-subheader = Последни отметки
 bookmarks-toolbar-chevron =
     .tooltiptext = Показване на повече отметки
@@ -619,6 +626,9 @@ bookmarks-toolbar-placeholder =
     .title = Елементи на лентата с отметките
 bookmarks-toolbar-placeholder-button =
     .label = Елементи на лентата с отметките
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = Отмятане на текущия раздел
 
 ## Library Panel items
 
@@ -635,6 +645,9 @@ save-to-pocket-button =
 
 ## Repair text encoding toolbar button
 
+repair-text-encoding-button =
+    .label = Поправка на кодировката
+    .tooltiptext = Прави предположение за кодирането на текста от съдържанието на страницата
 
 ## Customize Toolbar Buttons
 

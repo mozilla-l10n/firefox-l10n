@@ -16,8 +16,11 @@ upgrade-dialog-new-subtitle = Проектиран да ви заведе, къ�
 # should stay inside the span.
 upgrade-dialog-new-alt-subtitle = Направете <span data-l10n-name="zap">{ -brand-short-name }</span> на щракване разстояние
 upgrade-dialog-new-item-menu-title = Опростени инструменти и менюта
+upgrade-dialog-new-item-menu-description = Приоритизираме важните неща, за да намирате каквото ви трябва.
 upgrade-dialog-new-item-tabs-title = Модерни раздели
+upgrade-dialog-new-item-tabs-description = Спретното подреждане на информацията, помагащо за фокусиране и гъвкаво придвижване.
 upgrade-dialog-new-item-icons-title = Свежи икони и по-ясни съобщения
+upgrade-dialog-new-item-icons-description = Ориентиране без усилия.
 upgrade-dialog-new-primary-primary-button = Избиране на { -brand-short-name } за основен четец
     .title = Задава { -brand-short-name } за четец по подразбиране и го закача към лентата със задачи
 upgrade-dialog-new-primary-default-button = Избиране на { -brand-short-name } за стандартен четец
@@ -59,6 +62,7 @@ upgrade-dialog-pin-secondary-button = Не сега
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-default-title = Да бъде ли избран { -brand-short-name } за четец по подразбиране?
+upgrade-dialog-default-subtitle = Получете скорост, безопасност и сигурност всеки път когато разглеждате.
 upgrade-dialog-default-primary-button = Четец по подразбиране
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-default-title-2 = Избиране на { -brand-short-name } по подразбиране
@@ -80,6 +84,8 @@ upgrade-dialog-theme-light = Светла
     .title = Използване на светла тема за бутони, менюта и прозорци
 upgrade-dialog-theme-dark = Тъмна
     .title = Използване на тъмна тема за бутони, менюта и прозорци
+upgrade-dialog-theme-alpenglow = Сияйни Алпи
+    .title = Използвайте динамична и цветна тема за бутони, менюта и прозорци
 upgrade-dialog-theme-keep = Използване на предишната
     .title = Използване на темата, която сте инсталирали преди обновяване на { -brand-short-name }
 upgrade-dialog-theme-primary-button = Запазване на тема
