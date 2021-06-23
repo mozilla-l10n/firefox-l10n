@@ -30,4 +30,4 @@ blocklist-item-list-template = { $listName } { $description }
 blocklist-item-moz-std-listName = Списак блокирања првог нивоа (препоручено).
 blocklist-item-moz-std-description = Дозвољава неке елементе за праћење како би веб-сајтови исправно функционисали.
 blocklist-item-moz-full-listName = Списак блокирања другог нивоа.
-blocklist-item-moz-full-description = Блокира све пронађене елементе за праћење. Може да омете рад неких веб-сајтова.
+blocklist-item-moz-full-description = Блокира све пронађене елементе за праћење. Може да онеспособи рад неких веб-сајтова.
