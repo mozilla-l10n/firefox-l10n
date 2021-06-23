@@ -143,6 +143,8 @@ return-to-amo-get-started-button = Започнете работа с { -brand-s
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
 onboarding-multistage-set-default-primary-button-label = Задаване като стандартен
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-help-text = Така ще закачите { -brand-short-name } към лентата със задачи и ще се отворят настройките
 onboarding-multistage-pin-default-primary-button-label = Избиране на { -brand-short-name } за основен четец
 onboarding-multistage-theme-primary-button-label2 = Готово
 onboarding-multistage-theme-secondary-button-label = Не сега
@@ -164,6 +166,12 @@ onboarding-multistage-theme-label-dark = Тъмна
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
+# Title used on welcome page when Firefox is not pinned
+mr1-onboarding-pin-header =
+    { PLATFORM() ->
+        [macos] Оставете { -brand-short-name } в Dock за бърз достъп
+       *[other] Закачете { -brand-short-name } към лентата със задачи
+    }
 # Primary button string used on welcome page when Firefox is not pinned.
 mr1-onboarding-pin-primary-button-label =
     { PLATFORM() ->
