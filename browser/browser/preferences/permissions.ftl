@@ -104,7 +104,7 @@ permissions-exceptions-popup-desc = Можете да наведете веб-с
 ## Exceptions - Saved Logins
 
 permissions-exceptions-saved-logins-window =
-    .title = Изузеци - снимљени дневници
+    .title = Сачуване лозинке – изузеци
     .style = { permissions-window.style }
 permissions-exceptions-saved-logins-desc = Пријаве за следеће сајтове неће бити сачуване
 

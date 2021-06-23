@@ -72,7 +72,7 @@ about-logins-list-item-vulnerable-password-icon =
 
 ## Introduction screen
 
-login-intro-heading = Тражите сачуване пријаве? Подесите { -sync-brand-short-name }.
+login-intro-heading = Тражите сачуване лозинке? Подесите { -sync-brand-short-name(case: "acc") }.
 about-logins-login-intro-heading-logged-out2 = Тражите сачуване лозинке? Увезите их или укључите синхронизацију.
 about-logins-login-intro-heading-logged-in = Синхронизоване пријаве нису пронађене.
 login-intro-description =
