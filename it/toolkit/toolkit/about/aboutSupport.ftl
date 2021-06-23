@@ -383,6 +383,7 @@ fission-status-disabled-by-default = Disattivato per impostaz. predefinita
 fission-status-enabled-by-user-pref = Attivato da utente
 fission-status-disabled-by-user-pref = Disattivato da utente
 fission-status-disabled-by-e10s-other = E10s disattivato
+fission-status-enabled-by-rollout = Attivato da implementazione a fasi
 
 async-pan-zoom = Panoramica/zoom asincroni (APZ)
 apz-none = nessuno
