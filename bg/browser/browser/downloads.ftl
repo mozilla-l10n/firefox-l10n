@@ -39,6 +39,9 @@ downloads-cmd-show-menuitem-mac =
 downloads-cmd-use-system-default =
     .label = Отваряне в системен четец
     .accesskey = с
+downloads-cmd-always-use-system-default =
+    .label = Отваряне в системен четец
+    .accesskey = с
 downloads-cmd-show-button =
     .tooltiptext =
         { PLATFORM() ->
