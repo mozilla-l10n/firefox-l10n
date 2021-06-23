@@ -22,3 +22,5 @@ calendar-editable-item-reminder-icon-suppressed-alarm =
     .alt = შემხსენებელი სიგნალი დაიგეგმა, მაგრამ ამჟამად დახშულია
 calendar-editable-item-reminder-icon-email =
     .alt = შემხსენებელი ელფოსტა დაიგეგმა
+calendar-editable-item-reminder-icon-audio =
+    .alt = შემხსენებლის ხმოვანი სიგნალი დაიგეგმა
