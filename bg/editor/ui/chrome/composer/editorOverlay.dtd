@@ -11,8 +11,6 @@
 <!ENTITY pasteNoFormatting.label "Поставяне неформатирано">
 <!ENTITY pasteNoFormatting.accesskey "ф">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "Поставяне като">
-<!ENTITY pasteAs.accesskey "к">
 <!ENTITY pasteAsQuotationCmd.label "Поставяне като цитат">
 <!ENTITY pasteAsQuotationCmd.accesskey "ц">
 <!ENTITY pasteAsQuotationCmd.key "o">
@@ -199,7 +197,7 @@
 <!ENTITY alignLeft.tooltip "Ляво подравняване">
 <!ENTITY alignCenter.label "Центриране">
 <!ENTITY alignCenter.accesskey "Ц">
-<!ENTITY alignCenter.tooltip "Центрирано подравняване">
+<!ENTITY alignCenter.tooltip "Центрирано">
 <!ENTITY alignRight.label "Дясно">
 <!ENTITY alignRight.accesskey "Д">
 <!ENTITY alignRight.tooltip "Дясно подравняване">
@@ -294,8 +292,6 @@
 <!ENTITY cutToolbarCmd.tooltip "Изрязване">
 <!ENTITY copyToolbarCmd.tooltip "Копиране">
 <!ENTITY pasteToolbarCmd.tooltip "Поставяне">
-<!ENTITY printToolbarCmd.label "Отпечатване">
-<!ENTITY printToolbarCmd.tooltip "Отпечатване на страницата">
 <!ENTITY findToolbarCmd.label "Търсене">
 <!ENTITY findToolbarCmd.tooltip "Търсене на текст в страницата">
 <!ENTITY spellToolbarCmd.label "Правопис">
@@ -313,7 +309,6 @@
 <!ENTITY colorButtons.title "Цветове">
 <!ENTITY TextColorButton.tooltip "Изберете цвят на текста">
 <!ENTITY BackgroundColorButton.tooltip "Изберете цвят за фона">
-<!ENTITY throbber.tooltip "Към началната страница на &vendorShortName;">
 <!ENTITY HighlightColorButton.label "Маркер">
 <!ENTITY HighlightColorButton.tooltip "Изберете цвят на откроения текст">
 
@@ -342,7 +337,7 @@
 <!ENTITY AlignPopupButton.tooltip "Изберете подравняване на текста">
 <!ENTITY InsertPopupButton.label "Вмъкване">
 <!ENTITY InsertPopupButton.tooltip "Вмъкване на връзка, котва, изображение, хоризонтална линия или таблица">
-<!ENTITY alignLeftButton.label "Подравняване от ляво">
+<!ENTITY alignLeftButton.label "Ляво подравняване">
 <!ENTITY alignLeftButton.tooltip "Подравняване на текста към лявата граница">
 <!ENTITY alignCenterButton.label "Центрирано">
 <!ENTITY alignCenterButton.tooltip "Подравняване в средата">
