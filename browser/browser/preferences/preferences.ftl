@@ -862,8 +862,8 @@ forms-breach-alerts =
 forms-breach-alerts-learn-more-link = Сазнајте више
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
-    .label = Самостално попуњавај пријаве и лозинке
-    .accesskey = и
+    .label = Аутоматски попуњавај обрасце за пријаву
+    .accesskey = м
 forms-saved-logins =
     .label = Сачуване лозинке…
     .accesskey = С
