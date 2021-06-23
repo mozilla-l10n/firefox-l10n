@@ -11,8 +11,8 @@ protections-panel-sitefixedsendreport-label = Страница је поправ
 
 protections-popup-footer-protection-label-strict = Строга
     .label = Строга
-protections-popup-footer-protection-label-custom = Прилагођено
-    .label = Прилагођено
+protections-popup-footer-protection-label-custom = Прилагођена
+    .label = Прилагођена
 protections-popup-footer-protection-label-standard = Стандардно
     .label = Стандардно
 
