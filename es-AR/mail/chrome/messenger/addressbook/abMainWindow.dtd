@@ -48,6 +48,7 @@
 <!ENTITY editMenu.accesskey                             "E">
 <!ENTITY deleteCmd.label                                "Borrar">
 <!ENTITY deleteAbCmd.label                              "Borrar libreta de direcciones">
+<!ENTITY removeAbCmd.label                              "Eliminar libreta de direcciones">
 <!ENTITY deleteContactCmd.label                         "Borrar contacto">
 <!ENTITY deleteContactsCmd.label                        "Borrar contactos">
 <!ENTITY deleteListCmd.label                            "Borrar lista">
@@ -140,6 +141,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.label                            "Borrar">
 <!ENTITY deleteButton2.accesskey                        "B">
 
+<!ENTITY removeButton.label                             "Eliminar">
+<!ENTITY removeButton.accesskey                         "r">
+
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY columnChooser.tooltip                          "Seleccionar qué columnas quiere mostrar">
 <!ENTITY newContactButton.tooltip                       "Crear un nuevo contacto en la libreta de direcciones">
@@ -151,6 +155,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.tooltip                           "Enviar un mensaje de correo">
 <!ENTITY newIM.tooltip                                  "Enviar un mensaje o conversación instantáneos">
 <!ENTITY deleteButton2.tooltip                          "Borar el ítem seleccionado">
+
+<!ENTITY removeButton.tooltip                           "Eliminar la libreta de direcciones seleccionada">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "El nombre o el correo electrónico contienen:">
