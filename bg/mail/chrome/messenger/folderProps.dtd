@@ -12,7 +12,7 @@
 <!ENTITY folderRebuildSummaryFileTip2.label      "Възстановяване индекса на файла резюме">
 <!ENTITY folderRebuildSummaryFile2.label         "Поправка на папка">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "П">
-<!ENTITY folderRebuildSummaryFile.explanation    "Понякога файлът с индексите на папките (.msf) се поврежда и това предизвиква писма да иглеждат изчезнали или изтрити писма да продължават да се изобразяват. Поправката на папката би коригирала подобни проблеми.">
+<!ENTITY folderRebuildSummaryFile.explanation    "Понякога файлът с индекси на папките (.msf) се поврежда и това предизвиква видимо изчезнали писма или изтрити писма да продължават да съществуват. Поправката на папката би изправила подобни проблеми.">
 <!ENTITY folderIncludeInGlobalSearch.label       "Включване писмата от тази папка в резултатите от общото търсене">
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "о">
 
@@ -34,7 +34,7 @@
 <!ENTITY retentionApplyToFlagged.accesskey "е">
 
 <!ENTITY folderSynchronizationTab.label          "Синхронизация">
-<!ENTITY folderCheckForNewMessages2.label         "При получаване на нови съобщения за тази регистрация, винаги проверявай тази папка">
+<!ENTITY folderCheckForNewMessages2.label         "При получаване на нови съобщения в сметката винаги да се проверява и тази папка">
 <!ENTITY folderCheckForNewMessages2.accesskey     "г">
 
 <!ENTITY offlineFolder.check.label               "Избор на папката за употреба без връзка">
@@ -49,7 +49,9 @@
 
 <!ENTITY folderProps.name.label                  "Име:">
 <!ENTITY folderProps.name.accesskey              "И">
-<!ENTITY folderProps.color.label                 "Цвят на иконата:">
+<!ENTITY folderProps.color.label                 "Пиктограма:">
+<!ENTITY folderProps.color.accesskey             "п">
+<!ENTITY folderProps.reset.tooltip               "Възстановява цвета по подразбиране">
 <!ENTITY folderProps.location.label              "Адрес:">
 <!ENTITY folderProps.location.accesskey          "А">
 
@@ -57,9 +59,10 @@
 <!ENTITY privileges.button.label                 "Привилегии…">
 <!ENTITY privileges.button.accesskey             "П">
 <!ENTITY permissionsDesc.label                   "Вие имате следните права:">
+<!ENTITY folderOtherUsers.label                  "Други с достъп до тази папка:">
 <!ENTITY folderType.label                        "Вид папка:">
 
-<!ENTITY folderQuotaTab.label                    "Дял">
+<!ENTITY folderQuotaTab.label                    "Квота">
 <!ENTITY folderQuotaUsage.label                  "Употреба:">
 <!ENTITY folderQuotaStatus.label                 "Състояние:">
 
