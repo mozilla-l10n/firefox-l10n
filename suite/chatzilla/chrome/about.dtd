@@ -12,5 +12,6 @@
 <!ENTITY homepage.label    "Honlap meglátogatása">
 <!ENTITY copyversion.label "Verzió részleteinek másolása">
 
+<!ENTITY section.core.label    "Fejlesztőcsapat:">
 <!ENTITY section.locale.label  "Honosítás:">
 <!ENTITY section.contrib.label "Közreműködők:">

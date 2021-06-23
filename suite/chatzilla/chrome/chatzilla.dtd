@@ -9,6 +9,7 @@
 <!ENTITY multiline-expand.tooltip   "Váltás többsoros bemenetre (Ctrl+Fel)">
 <!ENTITY multiline-contract.tooltip "Váltás egysoros bemenetre (Ctrl+Le)">
 <!ENTITY multiline-send.tooltip     "Szöveg elküldése (Ctrl+Enter)">
+<!ENTITY server-nick.tooltip        "Becenév vagy távollét állapotának módosítása. A beviteli mezőre fókuszáláshoz nyomja meg az Escape gombot.">
 
 <!ENTITY Underline.label             "Aláhúzott">
 <!ENTITY Bold.label                  "Félkövér">

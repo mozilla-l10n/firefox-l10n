@@ -25,6 +25,7 @@
 <!ENTITY refresh.label     "Frissítés most">
 <!ENTITY refresh.accesskey "">
 
+<!ENTITY network.hint.label "Adjon meg egy tetszőleges hálózati vagy kiszolgálónevet (portot is megadhat) és egy csatornát, amelyhez csatlakozna.">
 
 <!ENTITY col.network "Hálózat">
 <!ENTITY col.name  "Név">
