@@ -15,6 +15,7 @@ pocket-panel-saved-error-generic = Получи се грешка при опи�
 pocket-panel-saved-error-tag-length = Етикетите могат да са до 25 знака
 pocket-panel-saved-error-only-links = Могат да бъдат запазвани само връзки
 pocket-panel-saved-error-not-saved = Страницата не е запазена
+pocket-panel-saved-error-no-internet = За да запазвате в { -pocket-brand-name } трябва да сте свързани към интернет. Свържете се към интернет и опитайте отново.
 pocket-panel-saved-page-removed = Страницата е премахната
 pocket-panel-saved-page-saved = Запазена в { -pocket-brand-name }
 pocket-panel-saved-processing-remove = Премахване на страница…
@@ -40,4 +41,8 @@ pocket-panel-signup-tagline-story-two = Преглеждайте в { -pocket-br
 
 ## about:pocket-home panel
 
+pocket-panel-home-my-list = Моят списък
 pocket-panel-home-welcome-back = Добре дошли
+pocket-panel-home-explore-popular-topics = Преглед на популярни теми
+pocket-panel-home-discover-more = Открийте повече
+pocket-panel-home-explore-more = Разгледайте
