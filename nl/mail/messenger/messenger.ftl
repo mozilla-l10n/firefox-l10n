@@ -11,11 +11,23 @@ unread-messages-os-tooltip =
     }
 about-rights-notification-text = { -brand-short-name } is vrije en opensourcesoftware, gebouwd door een gemeenschap van duizenden mensen over de hele wereld.
 
+## Content tabs
+
+content-tab-page-loading-icon =
+    .alt = De pagina wordt geladen
+content-tab-security-high-icon =
+    .alt = De verbinding is beveiligd
+content-tab-security-broken-icon =
+    .alt = De verbinding is niet beveiligd
+
 ## Toolbar
 
 addons-and-themes-button =
     .label = Add-ons en thema's
     .tooltip = Uw add-ons beheren
+addons-and-themes-toolbarbutton =
+    .label = Add-ons en thema’s
+    .tooltiptext = Uw add-ons beheren
 redirect-msg-button =
     .label = Omleiden
     .tooltiptext = Geselecteerd bericht omleiden
