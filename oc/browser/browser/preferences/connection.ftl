@@ -54,7 +54,7 @@ connection-proxy-socks4 =
 connection-proxy-socks5 =
     .label = SOCKS v5
     .accesskey = v
-connection-proxy-noproxy = Cap servidor mandatari per
+connection-proxy-noproxy = Cap de servidor mandatari per
     .accesskey = p
 connection-proxy-noproxy-desc = Exemple : .mozilla.org, .net.nz, 192.168.1.0/24
 # Do not translate localhost, 127.0.0.1 and ::1.
