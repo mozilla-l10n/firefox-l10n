@@ -281,6 +281,8 @@ openpgp-selection-status =
        *[other] Din nuvarande konfiguration använder nyckel-ID <b>{ $key }</b>
     }
 #   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status-have-key = Din nuvarande konfiguration använder nyckel-ID <b>{ $key }</b>
+#   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-error = Din nuvarande konfiguration använder nyckeln <b>{ $key }</b> som har upphört.
 openpgp-add-key-button =
     .label = Lägg till nyckel…
@@ -306,6 +308,10 @@ openpgp-key-expires-image =
 openpgp-radio-key-expired = Upphört: { $date }
 openpgp-key-expired-image =
     .tooltiptext = Nyckeln har upphört
+openpgp-key-expires-within-6-months-icon =
+    .title = Nyckeln upphör om mindre än sex månader
+openpgp-key-has-expired-icon =
+    .title = Nyckeln har upphört
 openpgp-key-expand-section =
     .tooltiptext = Mer information
 openpgp-key-revoke-title = Återkalla nyckel
@@ -453,18 +459,13 @@ openpgp-export-secret-fail = <b>Det går inte att exportera den valda hemliga ny
 # Strings in keyObj.jsm
 key-ring-pub-key-revoked = Nyckeln { $userId } (nyckel-ID { $keyId }) har återkallats.
 key-ring-pub-key-expired = Nyckeln { $userId } (nyckel-ID { $keyId }) har upphört.
-key-ring-key-disabled = Nyckeln { $userId } (nyckel-ID { $keyId }) är inaktiverad; den kan inte användas.
-key-ring-key-invalid = Nyckeln { $userId } (nyckel-ID { $keyId }) är inte giltig. Överväg att verifiera den korrekt.
-key-ring-key-not-trusted = Nyckeln { $userId } (nyckel-ID { $keyId }) är inte tillräckligt betrodd. Vänligen ställ in din förtroendesnivå till "ultimat" för att använda den för att signera.
 key-ring-no-secret-key = Du verkar inte ha den hemliga nyckeln för { $userId } (nyckel-ID { $keyId }) på din nyckelring; du kan inte använda nyckeln för att signera.
 key-ring-pub-key-not-for-signing = Nyckeln { $userId } (nyckel-ID { $keyId }) kan inte användas för signering.
 key-ring-pub-key-not-for-encryption = Nyckeln { $userId } (nyckel-ID { $keyId }) kan inte användas för kryptering.
 key-ring-sign-sub-keys-revoked = Alla signerings-undernycklar för nyckel { $userId } (nyckel-ID { $keyId }) har återkallats.
 key-ring-sign-sub-keys-expired = Alla signerings-undernycklar för nyckel { $userId } (nyckel-ID { $keyId }) har upphört.
-key-ring-sign-sub-keys-unusable = Alla signerings-undernycklar för nyckel { $userId } (nyckel-ID { $keyId }) har återkallats, upphört att gälla eller annars oanvändbara.
 key-ring-enc-sub-keys-revoked = Alla krypteringsundernycklar för nyckel { $userId } (nyckel-ID { $keyId }) har återkallats.
 key-ring-enc-sub-keys-expired = Alla krypteringsundernycklar för nyckel { $userId } (nyckel-ID { $keyId }) har upphört.
-key-ring-enc-sub-keys-unusable = Alla krypteringsundernycklar för nyckel { $userId } (nyckel-ID { $keyId }) har återkallats, upphört eller annars oanvändbara.
 # Strings in gnupg-keylist.jsm
 keyring-photo = Foto
 user-att-photo = Användarattribut (JPEG-bild)

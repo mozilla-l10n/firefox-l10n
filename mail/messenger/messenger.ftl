@@ -11,11 +11,26 @@ unread-messages-os-tooltip =
     }
 about-rights-notification-text = { -brand-short-name } är fri programvara baserad på öppen källkod, byggd av en community av tusentals personer över hela världen.
 
+## Content tabs
+
+content-tab-page-loading-icon =
+    .alt = Sidan laddas
+content-tab-security-high-icon =
+    .alt = Anslutningen är säker
+content-tab-security-broken-icon =
+    .alt = Anslutningen är inte säker
+
 ## Toolbar
 
 addons-and-themes-button =
     .label = Tillägg och teman
     .tooltip = Hantera dina tillägg
+addons-and-themes-toolbarbutton =
+    .label = Tillägg och teman
+    .tooltiptext = Hantera dina tillägg
+quick-filter-toolbarbutton =
+    .label = Snabbfiltrering
+    .tooltiptext = Filtrera meddelanden
 redirect-msg-button =
     .label = Omdirigera
     .tooltiptext = Omdirigera valt meddelande
