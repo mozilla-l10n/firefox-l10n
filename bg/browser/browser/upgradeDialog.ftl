@@ -44,5 +44,11 @@ upgrade-dialog-default-primary-button-2 = Избиране като станда
 
 ## Theme selection screen
 
+upgrade-dialog-theme-system = Системна тема
+    .title = Използване на темата на операционната система за бутони, менюта и прозорци
+upgrade-dialog-theme-light = Светла
+    .title = Използване на светла тема за бутони, менюта и прозорци
+upgrade-dialog-theme-dark = Тъмна
+    .title = Използване на тъмна тема за бутони, менюта и прозорци
 upgrade-dialog-theme-primary-button = Запазване на тема
 upgrade-dialog-theme-secondary-button = Не сега
