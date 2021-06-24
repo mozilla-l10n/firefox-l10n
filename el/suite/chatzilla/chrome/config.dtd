@@ -27,10 +27,14 @@
 <!ENTITY channel "Κανάλι">
 <!ENTITY user    "Χρήστης">
 
+<!ENTITY config.add.title "Προσθήκη αντικειμένου προτιμήσεων">
 
 <!ENTITY config.type.label        "Τύπος:">
+<!ENTITY config.type.hint         "Τύπος αντικειμένου για το οποίο θα προστεθούν προτιμήσεις">
 <!ENTITY config.type.accesskey    "Τ">
 <!ENTITY config.network.label     "Δίκτυο:">
+<!ENTITY config.network.hint      "Γνωστό όνομα δικτύου ή όνομα διακομιστή">
 <!ENTITY config.network.accesskey "Δ">
 <!ENTITY config.target.label      "Προορισμός:">
+<!ENTITY config.target.hint       "Κανάλι ή όνομα χρήστη προορισμού">
 <!ENTITY config.target.accesskey  "ρ">
