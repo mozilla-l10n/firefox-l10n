@@ -17,6 +17,13 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Избиране на всички раздели
     .accesskey = и
+toolbar-context-menu-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [one] Отваряне на затворен раздел
+           *[other] Отваряне на затворени раздели
+        }
+    .accesskey = в
 toolbar-context-menu-manage-extension =
     .label = Управление на добавката
     .accesskey = д
