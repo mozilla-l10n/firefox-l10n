@@ -26,7 +26,7 @@ third-party-th-status = Status
 third-party-tag-ime = IME
     .title = This type of module is loaded when you use a third-party IME.
 third-party-tag-shellex = Shell Extension
-    .title = This type of module is loaded when you open the system file dialogue.
+    .title = This type of module is loaded when you open the system file dialog.
 third-party-tag-background = Background
     .title =
         This module did not block the application because it was loaded
