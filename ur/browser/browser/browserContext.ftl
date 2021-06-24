@@ -164,6 +164,9 @@ main-context-menu-copy-email =
 main-context-menu-copy-link =
     .label = ربط محل وقوع نقل کریں
     .accesskey = a
+main-context-menu-copy-link-simple =
+    .label = ربط نقل کریں
+    .accesskey = L
 
 ## Media (video/audio) controls
 ##
@@ -270,6 +273,9 @@ main-context-menu-video-copy-location =
 main-context-menu-audio-copy-location =
     .label = سمعی محل وقوع نقل کریں
     .accesskey = o
+main-context-menu-image-copy-link =
+    .label = نقش کے رببط کی نقل کریں
+    .accesskey = o
 main-context-menu-image-save-as =
     .label = نقش محفوظ کریں بطور ...
     .accesskey = v
@@ -365,6 +371,9 @@ main-context-menu-frame-view-info =
 main-context-menu-view-selection-source =
     .label = انتخاب ماخذ نظارہ کریں
     .accesskey = e
+main-context-menu-take-screenshot =
+    .label = ایک سکرین شاٹ لیں
+    .accesskey = T
 main-context-menu-take-frame-screenshot =
     .label = ایک سکرین شاٹ لیں
     .accesskey = o

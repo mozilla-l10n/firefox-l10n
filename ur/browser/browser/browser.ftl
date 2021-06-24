@@ -249,6 +249,7 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmarks-edit-bookmark = بکمارک شامل کریں
 bookmark-panel-cancel =
     .label = منسوخ کریں
     .accesskey = C
@@ -586,3 +587,4 @@ panel-save-update-password = پاس ورڈ
 
 remote-tabs-manage-account =
     .label = اکاؤنٹ منظم کریں
+remote-tabs-sync-now = ابھی سنک کریں

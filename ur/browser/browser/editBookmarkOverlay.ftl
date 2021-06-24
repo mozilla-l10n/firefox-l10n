@@ -13,6 +13,9 @@ bookmark-overlay-folder =
 bookmark-overlay-name-2 =
     .value = نام
     .accesskey = N
+bookmark-overlay-url =
+    .value = URL
+    .accesskey = U
 # Location refers to the position of the bookmark within the browser's
 # bookmarks, not to its URL or address.
 bookmark-overlay-location-2 =
@@ -42,3 +45,6 @@ bookmark-overlay-tags-expander =
 bookmark-overlay-keyword =
     .value = کلیدی لفظ:
     .accesskey = ک
+bookmark-overlay-keyword-2 =
+    .value = کلیدی لفظ
+    .accesskey = K
