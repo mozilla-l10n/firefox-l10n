@@ -19,6 +19,8 @@ appmenuitem-new-private-window =
     .label = نیا نجی ونڈوں
 appmenuitem-passwords =
     .label = پاس ورڈ
+appmenuitem-find-in-page =
+    .label = صفحہ میں ڈھونڈیں…
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
@@ -48,10 +50,15 @@ fxa-toolbar-sync-now =
     .label = ابھی Sync کریں
 appmenu-remote-tabs-sign-into-sync =
     .label = سنک کرنے کے لئے سائن ان کریں…
+appmenu-remote-tabs-turn-on-sync =
+    .label = سینک چالو کریں…
 appmenuitem-fxa-toolbar-sync-now2 = ابھی سنک کریں
 appmenuitem-fxa-manage-account = اکاؤنٹ منظم کریں
 appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "sentence") }
+appmenu-fxa-sync-and-save-data2 = سنک اور محفوظ کریں
 appmenu-fxa-signed-in-label = سائن ان کریں
+appmenu-fxa-setup-sync =
+    .label = سینک چالو کریں…
 appmenu-fxa-show-more-tabs = مزید ٹیبز دکھائیں
 appmenuitem-save-page =
     .label = صفحہ محفوظ کریں بطور…
@@ -71,6 +78,8 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
+profiler-popup-reveal-description-button =
+    .aria-label = مزید معلومات ظاہر کریں
 profiler-popup-learn-more = مزیدجانیے
 profiler-popup-settings =
     .value = سیٹنگز
@@ -91,6 +100,11 @@ profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] 	Ctrl+Shift+1
+    }
+profiler-popup-capture-shortcut =
+    { PLATFORM() ->
+        [macos] 	⌃⇧2
+       *[other] 	Ctrl+Shift+2
     }
 
 ## History panel

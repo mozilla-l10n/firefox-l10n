@@ -8,6 +8,8 @@
 newtab-page-title = نیا ٹیب
 newtab-settings-button =
     .title = اپنے نئے ٹیب کہ صفحہ کی تخصیص کریں
+newtab-personalize-dialog-label =
+    .aria-label = ‏‏تخصیص کریں
 
 ## Search box component.
 
@@ -16,11 +18,11 @@ newtab-search-box-search-button =
     .title = تلاش
     .aria-label = تلاش
 newtab-search-box-search-the-web-text = ويب پر تلاش کريں
+newtab-search-box-handoff-text-no-engine = پتہ تلاش یا داخل کریں
 newtab-search-box-search-the-web-input =
     .placeholder = ويب پر تلاش کريں
     .title = ويب پر تلاش کريں
     .aria-label = ويب پر تلاش کريں
-newtab-search-box-text = ويب پر تلاش کريں
 newtab-search-box-input =
     .placeholder = ويب پر تلاش کريں
     .aria-label = ويب پر تلاش کريں

@@ -225,6 +225,13 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] CSV دستاویز
        *[other] CSV فائل
     }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] TSV دستاویز
+       *[other] TSV فائل
+    }
 
 ##
 ## Variables:
@@ -232,6 +239,7 @@ about-logins-import-file-picker-csv-filter-title =
 
 about-logins-import-dialog-title = درآمد مکمل ہوئی
 about-logins-import-dialog-done = ہوگیا
+about-logins-import-dialog-error-title = درآمد میں نقص
 about-logins-import-dialog-error-file-format-title = فائل فارمیٹ کا مسئلہ
 about-logins-import-dialog-error-file-permission-title = فائل پڑھنے سے قاصر
 about-logins-import-dialog-error-no-logins-imported = کوئی لاگ ان امپورٹ نہیں کیا گیا ہے

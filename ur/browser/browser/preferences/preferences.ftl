@@ -433,6 +433,8 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = بہترین سائٹیں
 home-prefs-topsites-description = سائٹس جو آُپ سب سے زیادہ ملاحظہ کرتے ہیں
+home-prefs-shortcuts-header =
+    .label = تیز راہ
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -546,6 +548,9 @@ sync-signedout-caption = اپنی ویب اپنے ساتھ رکھیں
 sync-signedout-description = اپنے تمام ڈیوائس اپنے بک مارکس، سابقات، ٹیب، پاس ورڈ، ایڈ اون، اور ترجیحات کو ہم وقت ساز کریں۔
 sync-signedout-account-signin2 =
     .label = { -sync-brand-short-name } میں سائن ان کریں
+    .accesskey = i
+sync-signedout-account-signin3 =
+    .label = سنک کرنے کے لئے سائن ان کریں…
     .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
