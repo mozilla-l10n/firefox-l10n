@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## Import Logins Autocomplete
+### Import Logins Autocomplete
 
 autocomplete-import-logins-info =
     .tooltiptext = مزید سیکھیں
@@ -11,6 +11,9 @@ autocomplete-import-logins-info =
 ## Variables:
 ##   $host (String) - Host name of the current site.
 
+autocomplete-import-logins-chromium =
+    <div data-l10n-name="line1">کرومیم  سے  اپنے  لاگ ان درآمد  کریں   </div>
+    <div data-l10n-name="line2">{ $host } اور دیگر سائٹس  کے لئے </div>
 
 ##
 
