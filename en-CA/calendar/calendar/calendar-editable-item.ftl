@@ -22,3 +22,5 @@ calendar-editable-item-reminder-icon-suppressed-alarm =
     .alt = A reminder alert is scheduled but currently suppressed
 calendar-editable-item-reminder-icon-email =
     .alt = A reminder e-mail is scheduled
+calendar-editable-item-reminder-icon-audio =
+    .alt = A reminder audio alert is scheduled
