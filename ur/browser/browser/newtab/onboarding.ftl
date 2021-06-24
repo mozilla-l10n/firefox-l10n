@@ -140,6 +140,7 @@ onboarding-not-now-button-label = ابھی نہیں
 
 ## Custom Return To AMO onboarding strings
 
+return-to-amo-subtitle = بہت اچھا ، آپ کو { -brand-short-name } مل گیا ہے
 return-to-amo-add-extension-label = ایکسٹینشن  شامل کریں
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
@@ -178,12 +179,19 @@ onboarding-multistage-theme-label-alpenglow = Firefox الپینگلو
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
+# Primary button string used on welcome page when Firefox is not pinned.
+mr1-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] ڈوک میں پن کریں
+       *[other] ٹاسک بار میں پن کریں
+    }
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
 # This string will be used on welcome page primary button label
 # when Firefox is both pinned and default
 mr1-onboarding-get-started-primary-button-label = شروع کریں
+mr1-onboarding-welcome-header = { -brand-short-name } میں خوش آمدید
 mr1-onboarding-set-default-secondary-button-label = ابھی نہیں
 mr1-onboarding-sign-in-button-label = سائن ان کریں
 
@@ -195,6 +203,8 @@ mr1-onboarding-default-primary-button-label = طےشدہ براؤزر بنائی
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
 mr1-onboarding-import-header = یہ سب اپنے ساتھ لائیں
+mr1-onboarding-import-secondary-button-label = ابھی نہیں
+mr1-onboarding-theme-header = اسے اپنا بنائیں
 mr1-onboarding-theme-primary-button-label = تھیم کو محفوظ کریں
 mr1-onboarding-theme-secondary-button-label = ابھی نہیں
 # System theme uses operating system color settings

@@ -7,6 +7,7 @@
 ### the remote profiling panel. There are additional profiler strings in the appmenu.ftl
 ### file that are used for the profiler popup.
 
+perftools-intro-title = پروفائلر کی سیٹنگز
 
 ## All of the headings for the various sections.
 
@@ -24,9 +25,12 @@ perftools-heading-local-build = مقامی تعمیر
 
 ## The controls for the interval at which the profiler samples the code.
 
+perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 2) } ms
 
 ##
 
+# The size of the memory buffer used to store things in the profiler.
+perftools-range-entries-label = بفر کا ماپ :
 perftools-devtools-interval-label = وقفہ
 perftools-devtools-threads-label = تھریڈز
 perftools-devtools-settings-label = سیٹنگز
@@ -36,6 +40,7 @@ perftools-devtools-settings-label = سیٹنگز
 
 ## These are shown briefly when the user is waiting for the profiler to respond.
 
+perftools-request-to-stop-profiler = ریکارڈنگ روکنا
 
 ##
 
@@ -43,6 +48,7 @@ perftools-button-start-recording = رکارڈنگ شروع کریں
 perftools-button-cancel-recording = رکارڈنگ منسوخ کریں
 perftools-button-save-settings = سیٹنگ کو محفوظ کریں اور واپس چلے جائیں
 perftools-button-restart = دوبارہ شروع کریں
+perftools-button-remove-directory = نبتخب شدہ ہٹائیں
 perftools-button-edit-settings = سیٹنگز میں تدوین کریں…
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
