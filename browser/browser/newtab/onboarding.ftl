@@ -144,10 +144,23 @@ return-to-amo-get-started-button = Започнете работа с { -brand-s
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
+onboarding-multistage-welcome-secondary-button-label = Вход
+onboarding-multistage-welcome-secondary-button-text = Имате сметка?
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "default" should stay inside the span.
+onboarding-multistage-set-default-header = Изберете { -brand-short-name } за <span data-l10n-name="zap">основен</span>
+onboarding-multistage-set-default-subtitle = Скорост, безопасност и сигурност всеки път когато разглеждате.
 onboarding-multistage-set-default-primary-button-label = Задаване като стандартен
+onboarding-multistage-set-default-secondary-button-label = Не сега
 # The "settings" here refers to "Windows 10 Settings App" and not the browser's
 onboarding-multistage-pin-default-help-text = Така ще закачите { -brand-short-name } към лентата със задачи и ще се отворят настройките
 onboarding-multistage-pin-default-primary-button-label = Избиране на { -brand-short-name } за основен четец
+onboarding-multistage-import-primary-button-label = Внасяне
+onboarding-multistage-import-secondary-button-label = Не сега
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "look" should stay inside the span.
+onboarding-multistage-theme-header = Изберете <span data-l10n-name="zap">външен вид</span>
+onboarding-multistage-theme-subtitle = Приспособете { -brand-short-name } с тема.
 onboarding-multistage-theme-primary-button-label2 = Готово
 onboarding-multistage-theme-secondary-button-label = Не сега
 # Automatic theme uses operating system color settings
@@ -163,6 +176,21 @@ onboarding-multistage-theme-label-dark = Тъмна
 
 ## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 
+# "Hero Text" displayed on left side of welcome screen.
+# The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
+# It also signals the passion users bring to Firefox, how they use
+# Firefox to pursue those passions, as well as the boldness in their
+# choice to use Firefox over a larger competitor browser.
+# An alternative title for localization is: "It starts here".
+# This text can be formatted to span multiple lines as needed.
+mr1-welcome-screen-hero-text =
+    Жегата започва
+    тук
+# Caption for background image in about:welcome. "Soraya Osorio" is the name
+# of the person and shouldn't be translated.
+# In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
+# You can see the picture in about:welcome in Nightly 90.
+mr1-onboarding-welcome-image-caption = Сорая Осорио - дизайнер на мебели, почитателка на Firefox
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Изключване на анимации
 
