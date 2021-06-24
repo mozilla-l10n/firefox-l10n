@@ -72,6 +72,7 @@ onboarding-sync-form-sub-header = за да продължите към { -sync-
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
+onboarding-benefit-products-text = Вършете нещата до край с набор от инструменти, които зачитат поверителността на личната ви информация.
 # "Personal Data Promise" is a concept that should be translated consistently
 # across the product. It refers to a concept shown elsewhere to the user: "The
 # Firefox Personal Data Promise is the way we honor your data in everything we
@@ -162,6 +163,8 @@ onboarding-multistage-theme-label-dark = Тъмна
 
 ## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 
+# This button will open system settings to turn on prefers-reduced-motion
+mr1-onboarding-reduce-motion-button-label = Изключване на анимации
 
 ## Title and primary button strings differ between platforms as they
 ## match the OS' application context menu item action where Windows uses "pin"
@@ -188,19 +191,40 @@ mr1-onboarding-get-started-primary-button-label = Въведение
 mr1-onboarding-welcome-header = Добре дошли при { -brand-short-name }
 mr1-onboarding-set-default-pin-primary-button-label = Избиране на { -brand-short-name } за основен четец
     .title = Задава { -brand-short-name } за четец по подразбиране и го закача към лентата със задачи
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
+mr1-onboarding-set-default-only-primary-button-label = Избиране на { -brand-short-name } за стандартен четец
+mr1-onboarding-set-default-secondary-button-label = Не сега
+mr1-onboarding-sign-in-button-label = Вход
 
 ## Title, subtitle and primary button string used on set default onboarding screen
 ## when Firefox is not default browser
 
 mr1-onboarding-default-header = Избиране на { -brand-short-name } по подразбиране
+mr1-onboarding-default-subtitle = Пуснете скоростта, безопасността и сигурността на автопилот.
 mr1-onboarding-default-primary-button-label = Избиране като стандартен четец
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
+mr1-onboarding-import-header = Вземете всичко със себе си
+mr1-onboarding-import-subtitle = Внесете паролите си,<br/>отметките си и други.
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = Внасяне от { $previous }
+# This string will be used in cases where we can't detect the previous browser name.
+mr1-onboarding-import-primary-button-label-no-attribution = Внасяне от предишен четец
+mr1-onboarding-import-secondary-button-label = Не сега
+mr1-onboarding-theme-header = По свой вкус
+mr1-onboarding-theme-subtitle = Приспособете { -brand-short-name } с тема.
+mr1-onboarding-theme-primary-button-label = Запазване на тема
+mr1-onboarding-theme-secondary-button-label = Не сега
+# System theme uses operating system color settings
+mr1-onboarding-theme-label-system = Системна тема
+mr1-onboarding-theme-label-light = Светла
+mr1-onboarding-theme-label-dark = Тъмна
+# "Alpenglow" here is the name of the theme, and should be kept in English.
+mr1-onboarding-theme-label-alpenglow = Сияйни Алпи
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
