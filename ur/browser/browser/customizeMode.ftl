@@ -45,3 +45,5 @@ customize-mode-lwthemes-my-themes =
     .value = میرے تھیم
 customize-mode-touchbar-cmd =
     .label = ٹچ بار کی تخصیص کریں
+customize-mode-downloads-button-autohide =
+    .label = خالی ہونے پر بٹن چھپائیں

@@ -14,4 +14,5 @@ default-browser-notification-button =
 
 default-browser-prompt-button-primary-pin = بنیادی براؤزر بنائیں
 default-browser-prompt-button-primary-alt = پہلے سے طے شدہ براؤزر کے طور پر سیٹ کریں
+default-browser-prompt-checkbox-not-again-label = یہ پیغام کو دوبارہ مت دکھائیں
 default-browser-prompt-button-secondary = ابھی نہیں
