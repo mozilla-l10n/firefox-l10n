@@ -50,6 +50,12 @@ about-processes-process-name = Працэс { $pid }: { $name }
 ##    $pid (String) The process id of this process, assigned by the OS.
 
 about-processes-browser-process = { -brand-short-name } ({ $pid })
+about-processes-file-process = Файлы ({ $pid })
+about-processes-extension-process = Пашырэнні ({ $pid })
+about-processes-privilegedabout-process = Старонкі Аbout ({ $pid })
+about-processes-plugin-process = Плагіны ({ $pid })
+about-processes-privilegedmozilla-process = Сайты { -vendor-short-name } ({ $pid })
+about-processes-gmp-plugin-process = Медыя-плагіны Gecko ({ $pid })
 about-processes-gpu-process = GPU ({ $pid })
 about-processes-vr-process = VR ({ $pid })
 about-processes-rdd-process = Дэкодэр дадзеных ({ $pid })
