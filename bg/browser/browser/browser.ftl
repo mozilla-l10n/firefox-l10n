@@ -382,12 +382,26 @@ browser-window-close-button =
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-playing2 = ИЗПЪЛНЯВА СЕ
 # This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = БЕЗ ЗВУК
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = АВТ. ВЪЗПРОИЗВЕЖДАНЕ СПРЯНО
+# This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = КАРТИНА В КАРТИНАТА
 
 ## These labels should be written in all capital letters if your locale supports them.
 ## Variables:
 ##  $count (number): number of affected tabs
 
+browser-tab-mute =
+    { $count ->
+        [one] БЕЗ ЗВУК В РАЗДЕЛА
+       *[other] БЕЗ ЗВУЦИ В { $count } РАЗДЕЛА
+    }
+browser-tab-unmute =
+    { $count ->
+        [one] ВЪЗСТАНОВЯВАНЕ НА ЗВУКА В РАЗДЕЛА
+       *[other] ВЪЗСТАНОВЯВАНЕ НА ЗВУКА В { $count } РАЗДЕЛА
+    }
 
 ## Bookmarks toolbar items
 
