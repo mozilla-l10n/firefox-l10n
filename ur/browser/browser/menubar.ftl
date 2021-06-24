@@ -113,6 +113,9 @@ menu-edit =
 menu-edit-find-on =
     .label = اس صفحے میں ڈھونڈیں…
     .accesskey = F
+menu-edit-find-in-page =
+    .label = صفحے میں ڈھونڈیں…
+    .accesskey = F
 menu-edit-find-again =
     .label = دوبارہ ڈھونڈیں
     .accesskey = g
@@ -130,6 +133,9 @@ menu-view-toolbars-menu =
     .accesskey = T
 menu-view-customize-toolbar =
     .label = تخصیص کریں…
+    .accesskey = C
+menu-view-customize-toolbar2 =
+    .label = ٹولبار تخصیص کریں…
     .accesskey = C
 menu-view-sidebar =
     .label = بغلی بار
@@ -249,6 +255,12 @@ menu-tools-fxa-sign-in =
 menu-tools-turn-on-sync =
     .label = { -sync-brand-short-name }…  چالو  کریں
     .accesskey = n
+menu-tools-fxa-sign-in2 =
+    .label = سائن ان کریں
+    .accesskey = g
+menu-tools-turn-on-sync2 =
+    .label = سینک چالو کریں…
+    .accesskey = n
 menu-tools-sync-now =
     .label = ابھی ہمہ وقت سازی کریں
     .accesskey = S
@@ -261,6 +273,9 @@ menu-tools-web-developer =
 menu-tools-browser-tools =
     .label = براؤزر ٹولز
     .accesskey = B
+menu-tools-task-manager =
+    .label = ٹاسک مینیجر
+    .accesskey = M
 menu-tools-page-source =
     .label = صفحہ ماخذ
     .accesskey = o
@@ -276,6 +291,13 @@ menu-preferences =
     .accesskey =
         { PLATFORM() ->
             [windows] O
+           *[other] n
+        }
+menu-settings =
+    .label = سیٹنگز
+    .accesskey =
+        { PLATFORM() ->
+            [windows] S
            *[other] n
         }
 menu-tools-layout-debugger =
@@ -318,6 +340,9 @@ menu-help-keyboard-shortcuts =
 menu-help-troubleshooting-info =
     .label = ازالہ کاری معلومات
     .accesskey = T
+menu-get-help =
+    .label = مدد حاصل کریں
+    .accesskey = H
 menu-help-report-site-issue =
     .label = سائٹ مسلہ… رپورٹ کریں
 menu-help-feedback-page =
