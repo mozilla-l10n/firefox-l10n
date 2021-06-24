@@ -9,6 +9,8 @@
 ## New changes screen
 
 upgrade-dialog-new-item-tabs-title = جدید ٹیبز
+upgrade-dialog-new-primary-pin-alt-button = ٹاسک بار میں پن کریں
+upgrade-dialog-new-primary-theme-button = ایک تھیم کا انتخاب کریں
 upgrade-dialog-new-secondary-button = ابھی نہیں
 # This string is only shown on Windows 7, where we intentionally suppress the
 # theme selection screen.
