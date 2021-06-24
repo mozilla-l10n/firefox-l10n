@@ -19,6 +19,15 @@ appmenuitem-new-private-window =
     .label = نیا نجی ونڈوں
 appmenuitem-passwords =
     .label = پاس ورڈ
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] باہر نکلیں
+           *[other] خروج
+        }
+appmenu-menu-button-opened2 =
+    .tooltiptext = ایپلیکیشن مینو بند کریں
+    .label = { -brand-short-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -37,6 +46,11 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = ابھی Sync کریں
+appmenu-remote-tabs-sign-into-sync =
+    .label = سنک کرنے کے لئے سائن ان کریں…
+appmenuitem-fxa-toolbar-sync-now2 = ابھی سنک کریں
+appmenuitem-fxa-manage-account = اکاؤنٹ منظم کریں
+appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "sentence") }
 appmenu-fxa-signed-in-label = سائن ان کریں
 appmenu-fxa-show-more-tabs = مزید ٹیبز دکھائیں
 appmenuitem-save-page =
