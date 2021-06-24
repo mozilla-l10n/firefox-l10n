@@ -237,11 +237,17 @@ newtab-error-fallback-refresh-link = Презаредете страницата
 
 newtab-custom-shortcuts-title = Препратки
 newtab-custom-shortcuts-subtitle = Сайтове за преглед по-късно
+newtab-custom-row-selector =
+    { $num ->
+        [one] { $num } ред
+       *[other] { $num } реда
+    }
 newtab-custom-sponsored-sites = Спонсорирани препратки
 newtab-custom-pocket-title = Препоръчани от { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Изключително съдържание, подбрано от { -pocket-brand-name }, част от семейството на { -brand-product-name }
 newtab-custom-pocket-sponsored = Платени публикации
 newtab-custom-recent-title = Последна активност
+newtab-custom-recent-subtitle = Избрани страници и съдържание
 newtab-custom-close-button = Затваряне
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
