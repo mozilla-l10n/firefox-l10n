@@ -333,6 +333,7 @@ identity-https-only-dropdown-off =
 identity-https-only-dropdown-off-temporarily =
     .label = Временно изключено
 identity-https-only-info-no-upgrade = Връзката не може да бъде превключена от HTTP.
+identity-permissions-storage-access-header = Бисквитки между сайтове
 identity-permissions-storage-access-learn-more = Научете повече
 identity-permissions-reload-hint = За да бъдат приложени промените може да се наложи да презаредите страницата.
 identity-permissions-empty = Не сте дали допълнителни права на страницата.
@@ -402,12 +403,18 @@ browser-tab-unmute =
         [one] ВЪЗСТАНОВЯВАНЕ НА ЗВУКА В РАЗДЕЛА
        *[other] ВЪЗСТАНОВЯВАНЕ НА ЗВУКА В { $count } РАЗДЕЛА
     }
+browser-tab-unblock =
+    { $count ->
+        [one] ВЪЗПРОИЗВЕЖДАНЕ НА ЗВУК В РАЗДЕЛА
+       *[other] ВЪЗПРОИЗВЕЖДАНЕ НА ЗВУК В { $count } РАЗДЕЛА
+    }
 
 ## Bookmarks toolbar items
 
 browser-import-button2 =
     .label = Внасяне на отметки…
     .tooltiptext = Внасяне на отметки от друг четец във { -brand-short-name }.
+bookmarks-toolbar-empty-message = За бърз достъп, поставете вашите отметки тук, на лентата с отметки. <a data-l10n-name="manage-bookmarks">Управление на отметки…</a>
 
 ## WebRTC Pop-up notifications
 
@@ -438,6 +445,13 @@ popup-screen-sharing-never =
     .accesskey = Н
 popup-silence-notifications-checkbox = Спиране на известията от { -brand-short-name }, докато споделяте
 popup-silence-notifications-checkbox-warning = { -brand-short-name } няма да показва известия, докато споделяте.
+popup-screen-sharing-block =
+    .label = Забраняване
+    .accesskey = З
+popup-screen-sharing-always-block =
+    .label = Винаги да е забранено
+    .accesskey = в
+popup-mute-notifications-checkbox = Спиране на известия докато споделяте
 
 ## WebRTC window or screen share tab switch warning
 
@@ -494,6 +508,11 @@ urlbar-placeholder-with-name =
     .placeholder = Търсете с { $name } или въведете адрес
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Четецът е под дистанционно управление
+# Variables
+#  $component (String): the name of the component which forces remote control.
+#    Example: "DevTools", "Marionette", "RemoteAgent".
+urlbar-remote-control-notification-anchor2 =
+    .tooltiptext = Четецът се управлява отдалечено (причина: { $component })
 urlbar-permissions-granted =
     .tooltiptext = Дали сте допълнителни права на страницата.
 urlbar-switch-to-tab =
@@ -549,6 +568,11 @@ urlbar-result-action-tabtosearch-web = Търсете с { $engine } дирек�
 urlbar-result-action-tabtosearch-other-engine = Търсете в { $engine } директно от адресната лента
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = Копиране
+# Shows the result of a formula expression being calculated, the last = sign will be shown
+# as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result = = { $result }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
