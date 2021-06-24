@@ -8,6 +8,11 @@
 newtab-page-title = Нов раздел
 newtab-settings-button =
     .title = Настройки на новия раздел
+newtab-personalize-button-label = Приспособяване
+    .title = Приспособяване на новите раздели
+    .aria-label = Приспособяване на новите раздели
+newtab-personalize-dialog-label =
+    .aria-label = Приспособяване
 
 ## Search box component.
 
@@ -16,10 +21,27 @@ newtab-search-box-search-button =
     .title = Търсене
     .aria-label = Търсене
 newtab-search-box-search-the-web-text = Търсене в интернет
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-text = Търсете с { $engine } или въведете адрес
+newtab-search-box-handoff-text-no-engine = Търсете или въведете адрес
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-input =
+    .placeholder = Търсете с { $engine } или въведете адрес
+    .title = Търсете с { $engine } или въведете адрес
+    .aria-label = Търсете с { $engine } или въведете адрес
+newtab-search-box-handoff-input-no-engine =
+    .placeholder = Търсете или въведете адрес
+    .title = Търсете или въведете адрес
+    .aria-label = Търсете или въведете адрес
 newtab-search-box-search-the-web-input =
     .placeholder = Търсене в интернет
     .title = Търсене в интернет
     .aria-label = Търсене в интернет
+newtab-search-box-input =
+    .placeholder = Търсене в мрежата
+    .aria-label = Търсене в мрежата
 
 ## Top Sites - General form dialog.
 
@@ -174,6 +196,7 @@ newtab-section-expand-section-label =
 
 newtab-section-header-topsites = Предпочитани страници
 newtab-section-header-highlights = Акценти
+newtab-section-header-recent-activity = Последна активност
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = Препоръчано от { $provider }
@@ -212,3 +235,18 @@ newtab-error-fallback-refresh-link = Презаредете страницата
 
 ## Customization Menu
 
+newtab-custom-shortcuts-title = Препратки
+newtab-custom-shortcuts-subtitle = Сайтове за преглед по-късно
+newtab-custom-sponsored-sites = Спонсорирани препратки
+newtab-custom-pocket-title = Препоръчани от { -pocket-brand-name }
+newtab-custom-pocket-subtitle = Изключително съдържание, подбрано от { -pocket-brand-name }, част от семейството на { -brand-product-name }
+newtab-custom-pocket-sponsored = Платени публикации
+newtab-custom-recent-title = Последна активност
+newtab-custom-close-button = Затваряне
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+newtab-custom-snippets-title = Изрезки
+newtab-custom-snippets-subtitle = Съвети и новини от { -vendor-short-name } и { -brand-product-name }
+newtab-custom-settings = Настройки
