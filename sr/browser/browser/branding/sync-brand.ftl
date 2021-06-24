@@ -4,23 +4,23 @@
 
 -sync-brand-short-name =
     { $case ->
-       *[nom] Sync
-        [gen] Sync-а
-        [dat] Sync-у
-        [acc] Sync
-        [ins] Sync-ом
-        [loc] Sync-у
+       *[nom] Синхронизација
+        [gen] Синхронизације
+        [dat] Синхронизацији
+        [acc] Синхронизацију
+        [ins] Синхронизацијом
+        [loc] Синхронизацији
     }
 # “Sync” can be localized, “Firefox” must be treated as a brand,
 # and kept in English.
 -sync-brand-name =
     { $case ->
-       *[nom] Firefox Sync
-        [gen] Firefox Sync-а
-        [dat] Firefox Sync-у
-        [acc] Firefox Sync
-        [ins] Firefox Sync-ом
-        [loc] Firefox Sync-у
+       *[nom] Firefox синхронизација
+        [gen] Firefox синхронизације
+        [dat] Firefox синхронизацији
+        [acc] Firefox синхронизацију
+        [ins] Firefox синхронизацијом
+        [loc] Firefox синхронизацији
     }
 # “Account” can be localized, “Firefox” must be treated as a brand,
 # and kept in English.
