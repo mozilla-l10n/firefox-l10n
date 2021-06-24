@@ -5,6 +5,12 @@
 
 ## App Menu
 
+appmenuitem-update-banner3 =
+    .label-update-downloading = កំពុងទាញយក​បច្ចុប្បន្នភាព { -brand-shorter-name }
+    .label-update-available = មានបច្ចុប្បន្នភាព — ទាញយក​ឥឡូវនេះ
+    .label-update-manual = មានបច្ចុប្បន្នភាព — ទាញយក​ឥឡូវនេះ
+    .label-update-unsupported = មិន​អាច​ធ្វើបច្ចុប្បន្នភាពបានទេ — ប្រព័ន្ធ​មិន​ត្រូវគ្នា
+    .label-update-restart = មានបច្ចុប្បន្នភាព — ចាប់ផ្ដើម​ឡើងវិញ​ឥឡូវនេះ
 appmenuitem-protection-dashboard-title = ការពារផ្ទាំងព័ត៌មាន
 appmenuitem-customize-mode =
     .label = ប្ដូរ​តាម​តម្រូវ​ការ…
