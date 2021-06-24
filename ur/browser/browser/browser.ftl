@@ -249,6 +249,7 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = بک مارک شامل کریں
 bookmarks-edit-bookmark = بکمارک شامل کریں
 bookmark-panel-cancel =
     .label = منسوخ کریں
@@ -385,6 +386,12 @@ popup-screen-sharing-never =
     .accesskey = N
 popup-silence-notifications-checkbox = اشتراک کے دوران { -brand-short-name } سے اطلاعات کو غیر فعال کریں
 popup-silence-notifications-checkbox-warning = شیئرنگ کے عمل کے دوران { -brand-short-name } اطلاعات نہیں دکھایے گا.
+popup-screen-sharing-block =
+    .label = بلاک کریں
+    .accesskey = B
+popup-screen-sharing-always-block =
+    .label = ہمیشہ بلاک کریں
+    .accesskey = w
 popup-mute-notifications-checkbox = شیئر کرتے وقت ویب سائٹ کی اطلاعات کو خاموش کریں
 
 ## WebRTC window or screen share tab switch warning
@@ -450,6 +457,8 @@ urlbar-result-action-search-w-engine = { $engine } سے تلاش کریں
 urlbar-result-action-sponsored = سپانسر شدہ
 urlbar-result-action-switch-tab = ٹیب پر جائیں
 urlbar-result-action-visit = دورہ
+# Action text for copying to clipboard.
+urlbar-result-action-copy-to-clipboard = نقل کریں
 # Shows the result of a formula expression being calculated, the last = sign will be shown
 # as part of the result (e.g. "= 2").
 # Variables
@@ -492,6 +501,7 @@ crashed-subframe-submit =
 
 bookmarks-manage-bookmarks =
     .label = بک مارکس منظم کریں
+bookmarks-recent-bookmarks-panel-subheader = حالیہ بُک مارکس
 bookmarks-toolbar-chevron =
     .tooltiptext = مزید بک مارک دکھائیں
 bookmarks-sidebar-content =
@@ -582,6 +592,9 @@ panel-save-update-password = پاس ورڈ
 
 ## Add-on removal warning
 
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = { $name } کو حذف کریں؟
 
 ## Remote / Synced tabs
 

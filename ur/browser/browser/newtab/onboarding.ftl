@@ -156,6 +156,7 @@ onboarding-multistage-set-default-secondary-button-label = ابھی نہیں
 onboarding-multistage-import-subtitle = کسی دوسرے براؤزر سے آرہے ہیں؟ سب چیزوں کو { -brand-short-name } پر لانا آسان ہے۔
 onboarding-multistage-import-primary-button-label = درآمد شروع کریں
 onboarding-multistage-import-secondary-button-label = ابھی نہیں
+onboarding-multistage-theme-primary-button-label2 = ہوگیا
 onboarding-multistage-theme-secondary-button-label = ابھی نہیں
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = خودکار
@@ -183,6 +184,8 @@ onboarding-multistage-theme-label-alpenglow = Firefox الپینگلو
 # This string will be used on welcome page primary button label
 # when Firefox is both pinned and default
 mr1-onboarding-get-started-primary-button-label = شروع کریں
+mr1-onboarding-set-default-secondary-button-label = ابھی نہیں
+mr1-onboarding-sign-in-button-label = سائن ان کریں
 
 ## Title, subtitle and primary button string used on set default onboarding screen
 ## when Firefox is not default browser
@@ -191,6 +194,15 @@ mr1-onboarding-default-primary-button-label = طےشدہ براؤزر بنائی
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
+mr1-onboarding-import-header = یہ سب اپنے ساتھ لائیں
+mr1-onboarding-theme-primary-button-label = تھیم کو محفوظ کریں
+mr1-onboarding-theme-secondary-button-label = ابھی نہیں
+# System theme uses operating system color settings
+mr1-onboarding-theme-label-system = سسٹم تھیم
+mr1-onboarding-theme-label-light = ہلکا
+mr1-onboarding-theme-label-dark = گہرا
+# "Alpenglow" here is the name of the theme, and should be kept in English.
+mr1-onboarding-theme-label-alpenglow = ایلپینگلو
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip

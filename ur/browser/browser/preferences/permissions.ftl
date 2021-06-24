@@ -18,6 +18,12 @@ permissions-session =
 permissions-allow =
     .label = اجازت دیں
     .accesskey = A
+permissions-button-off =
+    .label = بند کریں
+    .accesskey = O
+permissions-button-off-temporarily =
+    .label = عارضی طور پر بندکریں
+    .accesskey = T
 permissions-site-name =
     .label = ويب سائٹ
 permissions-status =
@@ -58,6 +64,10 @@ permissions-capabilities-listitem-block =
     .value = بلاک کریں
 permissions-capabilities-listitem-allow-session =
     .value = سیشن کے لیے اجازت دیں
+permissions-capabilities-listitem-off =
+    .value = ‏‏بندکریں
+permissions-capabilities-listitem-off-temporarily =
+    .value = عارضی طور پر بندکریں
 
 ## Invalid Hostname Dialog
 
@@ -77,6 +87,9 @@ permissions-exceptions-cookie-window =
     .title = استثنیات - کوکیز اور سائٹ کا ڈیٹا
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = آپ اختصاص کر سکتے ہیں کی کس ویب سائٹس کو ہمیشہ یا کبھی کوکیز اور سائٹ کا ڈیٹا کو استعمال کرنے کی اجازت ہے۔ اس سائٹ کا پرا نام ٹائپ کرے جسکا آپ انتظام کرنا چاھتے ہے اور پھر کلک کریں بلاک، سیشن کے لئے اجازت دے، یا اجازت دے۔
+
+## Exceptions - HTTPS-Only Mode
+
 
 ## Exceptions - Pop-ups
 

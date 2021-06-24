@@ -21,6 +21,8 @@ appmenuitem-passwords =
     .label = پاس ورڈ
 appmenuitem-find-in-page =
     .label = صفحہ میں ڈھونڈیں…
+appmenuitem-more-tools =
+    .label = مزید ٹولز
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->

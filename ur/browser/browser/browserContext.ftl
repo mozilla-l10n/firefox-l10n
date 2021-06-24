@@ -276,6 +276,9 @@ main-context-menu-audio-copy-location =
 main-context-menu-image-copy-link =
     .label = نقش کے رببط کی نقل کریں
     .accesskey = o
+main-context-menu-audio-copy-link =
+    .label = صوتی لنک کاپی کریں
+    .accesskey = o
 main-context-menu-image-save-as =
     .label = نقش محفوظ کریں بطور ...
     .accesskey = v
@@ -329,6 +332,9 @@ main-context-menu-generate-new-password =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-use-saved-password =
+    .label = محفوظ شدہ پاس ورڈ استعمال کریں
+    .accesskey = o
 
 ##
 
@@ -368,6 +374,9 @@ main-context-menu-frame-view-source =
 main-context-menu-frame-view-info =
     .label = فریم معلومات نظارہ کریں
     .accesskey = I
+main-context-menu-print-selection =
+    .label = منتخب شدہ پرنٹ کریں
+    .accesskey = r
 main-context-menu-view-selection-source =
     .label = انتخاب ماخذ نظارہ کریں
     .accesskey = e

@@ -26,6 +26,7 @@ search-input-box =
             [windows] اختیارات میں تلاش کریں
            *[other] ترجیحات میں تلاش کریں
         }
+settings-page-title = سیٹنگ
 managed-notice = آپ کا براؤزر آپ کی تنظیم کے زیر انتظام ہے۔
 category-list =
     .aria-label = زمرہ جات
@@ -44,6 +45,9 @@ category-privacy =
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
+pane-sync-title3 = سنک
+category-sync3 =
+    .tooltiptext = { pane-sync-title3 }
 pane-experimental-title = { -brand-short-name } تجربات
 category-experimental =
     .tooltiptext = { -brand-short-name } تجربات
@@ -538,6 +542,8 @@ containers-new-tab-check =
     .accesskey = S
 containers-preferences-button =
     .label = ترجیحات
+containers-settings-button =
+    .label = سیٹنگز
 containers-remove-button =
     .label = ہٹائیں
 
@@ -610,6 +616,7 @@ sync-currently-syncing-prefs =
         [windows] اختیارات
        *[other] ترجیحات
     }
+sync-currently-syncing-settings = سیٹنگز
 sync-change-options =
     .label = تبدیل…
     .accesskey = چ
@@ -827,6 +834,10 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = ٹیب کھولیے
     .accesskey = O
+# Shortcuts refers to the shortcut tiles on the new tab page, previously known as top sites. Translation should be consistent.
+addressbar-locbar-shortcuts-option =
+    .label = تیز راہ
+    .accesskey = S
 addressbar-locbar-topsites-option =
     .label = مقبول سائٹس
     .accesskey = T

@@ -267,3 +267,5 @@ cfr-whatsnew-media-keys-button = کیسے سیکھیں
 
 ## Full Video Support CFR message
 
+cfr-doorhanger-video-support-primary-button = ابھی تازہ کاری کریں
+    .accesskey = U
