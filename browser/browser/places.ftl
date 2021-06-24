@@ -5,12 +5,12 @@
 places-open =
     .label = Отваряне
     .accesskey = О
-places-open-in-tab =
-    .label = Отваряне в раздел
-    .accesskey = н
 places-open-tab =
     .label = Отваряне в раздел
     .accesskey = д
+places-open-in-tab =
+    .label = Отваряне в раздел
+    .accesskey = н
 places-open-all-bookmarks =
     .label = Отваряне на всички отметки
     .accesskey = в
@@ -20,9 +20,6 @@ places-open-all-in-tabs =
 places-open-window =
     .label = Отваряне в прозорец
     .accesskey = п
-places-open-in-window =
-    .label = Отваряне в прозорец
-    .accesskey = О
 places-open-private-window =
     .label = Отваряне в поверителен прозорец
     .accesskey = п
@@ -36,6 +33,24 @@ places-new-folder =
     .label = Нова папка…
     .accesskey = п
 places-new-separator =
+    .label = Нов разделител
+    .accesskey = р
+places-open-in-window =
+    .label = Отваряне в прозорец
+    .accesskey = О
+places-open-in-private-window =
+    .label = Отваряне в поверителен прозорец
+    .accesskey = п
+places-add-bookmark =
+    .label = Нова отметка…
+    .accesskey = о
+places-add-folder-contextmenu =
+    .label = Нова папка…
+    .accesskey = а
+places-add-folder =
+    .label = Нова папка…
+    .accesskey = а
+places-add-separator =
     .label = Нов разделител
     .accesskey = р
 places-view =
@@ -76,6 +91,22 @@ places-edit-bookmark =
 places-edit-generic =
     .label = Редактиране…
     .accesskey = Р
+places-edit-folder =
+    .label = Преименуване на папка...
+    .accesskey = и
+places-remove-folder =
+    .label =
+        { $count ->
+            [one] Премахване на папка
+           *[other] Премахване на папки
+        }
+    .accesskey = м
+# Managed bookmarks are created by an administrator and cannot be changed by the user.
+managed-bookmarks =
+    .label = Служебни отметки
+# This label is used when a managed bookmarks folder doesn't have a name.
+managed-bookmarks-subfolder =
+    .label = Подпапка
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Други отметки

@@ -138,12 +138,23 @@ return-to-amo-sub-header = Страхотно е че имате { -brand-short-
 return-to-amo-addon-header = Сега нека инсталираме <icon></icon><b>{ $addon-name }.</b>
 return-to-amo-extension-button = Добавяне на разширението
 return-to-amo-get-started-button = Започнете работа с { -brand-short-name }
+onboarding-not-now-button-label = Не сега
 
 ## Custom Return To AMO onboarding strings
 
+return-to-amo-subtitle = Страхотно е че имате { -brand-short-name }
+# <img data-l10n-name="icon"/> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-title = Сега нека инсталираме <img data-l10n-name="icon"/><b>{ $addon-name }.</b>
+return-to-amo-add-extension-label = Добавяне на разширението
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-welcome-header = Добре дошли при <span data-l10n-name="zap">{ -brand-short-name }</span>
 onboarding-multistage-welcome-secondary-button-label = Вход
 onboarding-multistage-welcome-secondary-button-text = Имате сметка?
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
