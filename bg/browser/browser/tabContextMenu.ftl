@@ -54,6 +54,9 @@ bookmark-tab =
 reopen-in-container =
     .label = Отваряне в изолатор
     .accesskey = и
+tab-context-open-in-new-container-tab =
+    .label = Нов изолиран раздел
+    .accesskey = и
 move-to-start =
     .label = В началото
     .accesskey = н
@@ -66,6 +69,13 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Затваряне на няколко раздела
     .accesskey = н
+tab-context-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [one] Отваряне на затворен раздел
+           *[other] Отваряне на затворени раздели
+        }
+    .accesskey = в
 close-tab =
     .label = Затваряне на раздела
     .accesskey = З
@@ -81,6 +91,8 @@ move-tab =
 tab-context-share-url =
     .label = Споделяне
     .accesskey = С
+tab-context-share-more =
+    .label = Повече…
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
