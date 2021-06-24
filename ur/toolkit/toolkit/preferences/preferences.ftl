@@ -11,6 +11,7 @@ pw-empty-warning = آپ کے ذخیرہ شدہ ویب اور ای میل پاس 
 pw-erased-ok = آپ نے اپنا ماسٹر پاس ورڈ حذف کر دیا ہے۔  { pw-empty-warning }
 pw-not-wanted = تنبیہ! آپ نے ماسٹر پاس ورڈ استعمال نہ کرنے کا فیصلہ کیا ہے۔ { pw-empty-warning }
 pw-change2empty-in-fips-mode = فی الحال آپ ایف آی پی ایس موڈ میں ہیں۔ ایف آئی پی ایس کو ایک ناخالی ماسٹر پاس ورڈ درکار ہے۔
+failed-pp-change = بنیادی پاس ورڈ تبدیل کرنے میں ناکام۔
 pp-change-ok = بنیادی پاس ورڈ کامیابی سے تبدیل ہو چکا ہے۔
 pw-change-success-title = پاس ورڈ کامیابی سے تبدیل ہوا
 pw-change-failed-title = پاس ورڈ تبدیلی ناکام

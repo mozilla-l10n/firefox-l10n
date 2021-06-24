@@ -13,6 +13,8 @@ about-private-browsing =
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff =
     .title = { $engine } کی مدد سے تلاش کریں یا پتہ کا اندراج کریں
+about-private-browsing-handoff-no-engine =
+    .title = پتہ تلاش یا داخل کریں
 about-private-browsing-handoff-text-no-engine = تلاش کریں یا پتہ  کا اندراج کریں
 about-private-browsing-not-private = آپ فی الحال نجی دریچے میں نہیں۔
 about-private-browsing-need-more-privacy = مزید رازداری کی ضرورت ہے؟
