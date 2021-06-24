@@ -34,6 +34,11 @@ about-addressbook-books-context-delete =
     .label = Elimina
 about-addressbook-books-context-remove =
     .label = Elimina
+about-addressbook-confirm-delete-book-title = Elimina rubrica
+# Variables:
+# $name (String) - Name of the address book to be deleted.
+about-addressbook-confirm-delete-book = Eliminare { $name } e tutti i contatti che contiene?
+about-addressbook-confirm-remove-remote-book-title = Elimina rubrica
 # Variables:
 # $name (String) - Name of the remote address book to be removed.
 about-addressbook-confirm-remove-remote-book = Eliminare { $name }?
@@ -96,6 +101,13 @@ about-addressbook-confirm-remove-contacts =
     { $count ->
         [one] Eliminare { $name } dalla lista { $list }?
        *[other] Eliminare questi { $count } contatti dalla lista { $list }?
+    }
+# Variables:
+# $count (Number) - The number of contacts to be deleted.
+about-addressbook-confirm-delete-contacts-title =
+    { $count ->
+        [one] Eliminazione contatto
+       *[other] Eliminazione contatti
     }
 # Variables:
 # $count (Number) - The number of contacts to be deleted.
