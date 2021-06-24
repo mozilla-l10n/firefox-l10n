@@ -13,6 +13,7 @@
 perftools-heading-settings = مکمل سیٹنگ
 perftools-heading-buffer = سائٹ سیٹنگ
 perftools-heading-features = خصوصیات
+perftools-heading-features-default = خصوصیات (طے شدہ طور پر تجویز کردہ)
 perftools-heading-features-disabled = غیر فعال شدہ خصوصیات
 perftools-heading-features-experimental = تجرباتی
 perftools-heading-threads = تھریڈز
@@ -26,6 +27,9 @@ perftools-heading-local-build = مقامی تعمیر
 
 ##
 
+perftools-devtools-interval-label = وقفہ
+perftools-devtools-threads-label = تھریڈز
+perftools-devtools-settings-label = سیٹنگز
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
