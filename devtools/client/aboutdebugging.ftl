@@ -46,6 +46,10 @@ about-debugging-sidebar-item-connect-button-connection-timeout = Изтече в
 # Temporary text displayed in sidebar items representing remote runtimes after
 # successfully connecting to them. Temporary UI, do not localize.
 about-debugging-sidebar-item-connected-label = Свързан
+# Text displayed in sidebar items for remote devices where a compatible browser (eg
+# Firefox) has not been detected yet. Typically, Android phones connected via USB with
+# USB debugging enabled, but where Firefox is not started.
+about-debugging-sidebar-runtime-item-waiting-for-browser = Очакване на четец…
 # Text displayed in sidebar items for remote devices that have been disconnected from the
 # computer.
 about-debugging-sidebar-runtime-item-unplugged = Изключен
@@ -68,12 +72,23 @@ about-debugging-setup-title = Настройване
 about-debugging-setup-connect-heading = Свържете устройство
 # USB section of the Setup page
 about-debugging-setup-usb-title = USB
+# Text of the button displayed in the USB section of the setup page when USB debugging is disabled.
+# Clicking on it will download components needed to debug USB Devices remotely.
+about-debugging-setup-usb-enable-button = Разрешаване на устройства по USB
+# Text of the button displayed in the USB section of the setup page when USB debugging is enabled.
+about-debugging-setup-usb-disable-button = Забраняване на устройства по USB
 # Text of the button displayed in the USB section of the setup page while USB debugging
 # components are downloaded and installed.
 about-debugging-setup-usb-updating-button = Обновяване...
+# USB section of the Setup page (USB status)
+about-debugging-setup-usb-status-enabled = Разрешено
+about-debugging-setup-usb-status-disabled = Забранено
 about-debugging-setup-usb-status-updating = Обновяване...
 # USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Свържете устройството с Android към компютъра.
+# Network section of the Setup page
+about-debugging-setup-network =
+    .title = Местоположение в мрежата
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
 about-debugging-network-locations-add-button = Добавяне
@@ -134,12 +149,26 @@ about-debugging-runtime-disconnect-button = Прекъсване на връзк
 # Displayed in the categories of "runtime" pages that don't have any debug target to
 # show. Debug targets depend on the category (extensions, tabs, workers...).
 about-debugging-debug-target-list-empty = Все още нищо.
+# Text of a button displayed next to debug targets of "runtime" pages. Clicking on this
+# button will open a DevTools toolbox that will allow inspecting the target.
+# A target can be an addon, a tab, a worker...
+about-debugging-debug-target-inspect-button = Инспектиране
+# Text of a button displayed in the "This Firefox" page, in the Temporary Extension
+# section. Clicking on the button will open a file picker to load a temporary extension
+about-debugging-tmp-extension-install-button = Зареждане на временна добавка…
+# Text displayed when trying to install a temporary extension in the "This Firefox" page.
+about-debugging-tmp-extension-install-error = Грешка при инсталиране на временната добавка.
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
 # Clicking on the button will reload the extension.
 about-debugging-tmp-extension-reload-button = Презареждане
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
 # Clicking on the button will uninstall the extension and remove it from the page.
 about-debugging-tmp-extension-remove-button = Премахване
+# Message displayed in the file picker that opens to select a temporary extension to load
+# (triggered by the button using "about-debugging-tmp-extension-install-button")
+# manifest.json .xpi and .zip should not be localized.
+# Note: this message is only displayed in Windows and Linux platforms.
+about-debugging-tmp-extension-install-message = Изберете файл manifest.json или архив на .xpi/.zip
 # This string is displayed as a message about the add-on having a temporaryID.
 about-debugging-tmp-extension-temporary-id = Това WebExtension има временен идентификатор. <a>Научете повече</a>
 # Text displayed for extensions in "runtime" pages, before displaying a link the extension's
@@ -154,6 +183,10 @@ about-debugging-extension-uuid =
 # displaying the location of the temporary extension.
 about-debugging-extension-location =
     .label = Местоположение
+# Text displayed for extensions in "runtime" pages, before displaying the extension's ID.
+# For instance "geckoprofiler@mozilla.com" or "{ed26ddcb-5611-4512-a89a-51b8db81cfb2}".
+about-debugging-extension-id =
+    .label = Идентификатор
 # Displayed for service workers in runtime pages that are registering.
 about-debugging-worker-status-registering = Регистриране
 # Displayed as name for the Main Process debug target in the Processes category. Only for
