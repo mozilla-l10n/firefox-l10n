@@ -9,6 +9,7 @@
 ## New changes screen
 
 upgrade-dialog-new-item-tabs-title = جدید ٹیبز
+upgrade-dialog-new-secondary-button = ابھی نہیں
 # This string is only shown on Windows 7, where we intentionally suppress the
 # theme selection screen.
 upgrade-dialog-new-primary-win7-button = ٹھیک ہے، سمجھ آگیا
@@ -19,6 +20,7 @@ upgrade-dialog-new-primary-win7-button = ٹھیک ہے، سمجھ آگیا
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
+upgrade-dialog-pin-secondary-button = ابھی نہیں
 
 ## Default browser screen
 
@@ -27,3 +29,5 @@ upgrade-dialog-default-secondary-button = ابھی نہیں
 
 ## Theme selection screen
 
+upgrade-dialog-theme-primary-button = تھیم کو محفوظ کریں
+upgrade-dialog-theme-secondary-button = ابھی نہیں
