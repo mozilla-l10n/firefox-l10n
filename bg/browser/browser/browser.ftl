@@ -332,8 +332,10 @@ identity-https-only-dropdown-off =
     .label = Изключено
 identity-https-only-dropdown-off-temporarily =
     .label = Временно изключено
+identity-https-only-info-turn-on2 = Включете режима „Само HTTPS“ за този сайт, ако искате { -brand-short-name } да надгради връзката, когато е възможно.
 identity-https-only-info-no-upgrade = Връзката не може да бъде превключена от HTTP.
 identity-permissions-storage-access-header = Бисквитки между сайтове
+identity-permissions-storage-access-hint = Тези страни могат да ползват бисквитки между сайтовете и данни от сайта, докато сте на него.
 identity-permissions-storage-access-learn-more = Научете повече
 identity-permissions-reload-hint = За да бъдат приложени промените може да се наложи да презаредите страницата.
 identity-permissions-empty = Не сте дали допълнителни права на страницата.
@@ -600,6 +602,7 @@ pointerlock-warning-no-domain = Този документ контролира �
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>Част от тази страница се срина.</strong> За да уведомите { -brand-product-name } за този проблем и да го поправим по-бързо, изпратете доклад.
 crashed-subframe-learnmore-link =
     .value = Научете повече
 crashed-subframe-submit =
