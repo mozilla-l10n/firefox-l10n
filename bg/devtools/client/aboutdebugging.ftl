@@ -19,18 +19,18 @@ about-debugging-sidebar-this-firefox =
     .name = { about-debugging-this-firefox-runtime-name }
 # Sidebar heading for connecting to some remote source
 about-debugging-sidebar-setup =
-    .name = Настройване
+    .name = Настройки
 # Text displayed in the about:debugging sidebar when USB devices discovery is enabled.
 about-debugging-sidebar-usb-enabled = USB е активирано
 # Text displayed in the about:debugging sidebar when USB devices discovery is disabled
 # (for instance because the mandatory ADB extension is not installed).
-about-debugging-sidebar-usb-disabled = USB е деактивирано
+about-debugging-sidebar-usb-disabled = USB е забранено
 # Connection status (connected) for runtime items in the sidebar
 aboutdebugging-sidebar-runtime-connection-status-connected = Свързано
 # Connection status (disconnected) for runtime items in the sidebar
 aboutdebugging-sidebar-runtime-connection-status-disconnected = Прекъсната връзка
 # Text displayed in the about:debugging sidebar when no device was found.
-about-debugging-sidebar-no-devices = Няма открити устройства
+about-debugging-sidebar-no-devices = Не са открити устройства
 # Text displayed in buttons found in sidebar items representing remote runtimes.
 # Clicking on the button will attempt to connect to the runtime.
 about-debugging-sidebar-item-connect-button = Свързване
@@ -62,12 +62,12 @@ about-debugging-sidebar-runtime-item-name-no-device =
     .title = { $displayName }
 # Text displayed in a sidebar button to refresh the list of USB devices. Clicking on it
 # will attempt to update the list of devices displayed in the sidebar.
-about-debugging-refresh-usb-devices-button = Опресняване на списъка с устройства
+about-debugging-refresh-usb-devices-button = Опресняване на устройства
 
 # Setup Page strings
 
 # Title of the Setup page.
-about-debugging-setup-title = Настройване
+about-debugging-setup-title = Настройки
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Свържете устройство
 # USB section of the Setup page
@@ -174,7 +174,7 @@ about-debugging-tmp-extension-temporary-id = Това WebExtension има вре
 # Text displayed for extensions in "runtime" pages, before displaying a link the extension's
 # manifest URL.
 about-debugging-extension-manifest-url =
-    .label = Manifest URL
+    .label = Адрес на манифест
 # Text displayed for extensions in "runtime" pages, before displaying the extension's uuid.
 # UUIDs look like b293e463-481e-5148-a487-5aaf7a130429
 about-debugging-extension-uuid =
