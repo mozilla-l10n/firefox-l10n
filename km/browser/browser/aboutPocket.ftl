@@ -15,6 +15,7 @@ pocket-panel-saved-error-generic = មាន​កំហុស ពេល​ព�
 pocket-panel-saved-error-tag-length = ស្លាក​ត្រូវ​បាន​កំណត់​ត្រឹមតែ 25 តួ​អក្សរ
 pocket-panel-saved-error-only-links = អាច​រក្សាទុក​បាន​តែ​តំណភ្ជាប់​ប៉ុណ្ណោះ
 pocket-panel-saved-error-not-saved = ទំព័រ​មិន​ត្រូវបាន​រក្សាទុក
+pocket-panel-saved-error-no-internet = អ្នកត្រូវតែ​ភ្ជាប់​ទៅ​អ៊ីនធឺណិត ដើម្បី​រក្សាទុក​ទៅ​កាន់ { -pocket-brand-name }។ សូមភ្ជាប់​ទៅ​អ៊ីនធឺណិត រួចព្យាយាម​ម្ដងទៀត។
 pocket-panel-saved-page-removed = ទំព័រ​ត្រូវ​បាន​លុបចោល
 pocket-panel-saved-page-saved = បាន​រក្សាទុក​ទៅ { -pocket-brand-name }
 pocket-panel-saved-processing-remove = កំពុង​លុប​ទំព័រ…
@@ -42,6 +43,7 @@ pocket-panel-signup-tagline-story-two = មើល​ក្នុង { -pocket-br
 
 pocket-panel-home-my-list = បញ្ជីរបស់ខ្ញុំ
 pocket-panel-home-welcome-back = ស្វាគមន៍ការត្រឡប់មកវិញម្ដងទៀត
+pocket-panel-home-paragraph = អ្នក​អាច​ប្រើប្រាស់ { -pocket-brand-name } ដើម្បីរុករក និង​រក្សាទុក​ទំព័រ​បណ្ដាញ អត្ថបទ វីដេអូ ការផ្សាយ ឬ​ត្រឡប់​ទៅ​កន្លែង​ណាដែល​អ្នក​បានកំពុង​អាន។
 pocket-panel-home-explore-popular-topics = ស្វែងរកប្រធានបទពេញនិយម
 pocket-panel-home-discover-more = ស្វែងយល់បន្ថែម
 pocket-panel-home-explore-more = រុករក
