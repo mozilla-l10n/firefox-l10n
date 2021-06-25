@@ -173,6 +173,9 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = Encodatge del tèxte
     .accesskey = E
+menu-view-repair-text-encoding =
+    .label = Reparar l’encodatge del tèxte
+    .accesskey = t
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.

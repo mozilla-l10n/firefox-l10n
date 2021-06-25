@@ -15,6 +15,7 @@ pocket-panel-saved-error-generic = Una error s'es producha en ensajant d'enregis
 pocket-panel-saved-error-tag-length = Las etiquetas an un limit de 25 caractèrs
 pocket-panel-saved-error-only-links = Se pòdon pas enregistrar que los ligams
 pocket-panel-saved-error-not-saved = La pagina es pas estada enregistrada
+pocket-panel-saved-error-no-internet = Vos cal èsser connectat a Internet per salvar de ligams a { -pocket-brand-name }. Reconnectatz-vos e tornatz ensajar.
 pocket-panel-saved-page-removed = La pagina es estada suprimida
 pocket-panel-saved-page-saved = Pagina enregistrada dins { -pocket-brand-name }
 pocket-panel-saved-processing-remove = Supression de la pagina…
