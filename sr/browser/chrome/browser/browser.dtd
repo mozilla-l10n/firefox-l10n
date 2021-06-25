@@ -92,20 +92,20 @@ this container is a toolbar. This avoids double-speaking. -->
      sentence to their language. -->
 <!ENTITY pointerlockWarning.beforeDomain.label "">
 <!ENTITY pointerlockWarning.afterDomain.label "управља курсором. Да бисте преузели контролу, притисните тастер Esc.">
-<!ENTITY pointerlockWarning.generic.label "Овај документ управља са вашим показивачем. Притисните Esc да преузмете контролу.">
+<!ENTITY pointerlockWarning.generic.label "Овај документ управља курсором. Да бисте преузели контролу, притисните тастер Esc.">
 
 <!ENTITY showAllBookmarks2.label "Прикажи све обележиваче">
-<!ENTITY recentBookmarks.label "Недавно забележене">
+<!ENTITY recentBookmarks.label "Недавно обележено">
 <!ENTITY bookmarksToolbarChevron.tooltip "Прикажи још обележивача">
 
-<!ENTITY printButton.label            "Штампање">
+<!ENTITY printButton.label            "Одштампај">
 <!ENTITY printButton.tooltip          "Одштампај ову страницу">
 
 <!ENTITY searchItem.title             "Претрага">
 
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "Почетна">
-<!ENTITY homeButton.defaultPage.tooltip "&brandShortName; почетна страница">
+<!ENTITY homeButton.defaultPage.tooltip "Отвори почетну страницу програма &brandShortName;">
 
 <!ENTITY bookmarksButton.label          "Обележивачи">
 
@@ -113,8 +113,8 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY bookmarksMenuButton2.label         "Мени са обележивачима">
 <!ENTITY bookmarksMenuButton.other.label    "Други обележивачи">
 <!ENTITY bookmarksMenuButton.mobile.label   "Мобилни обележивачи">
-<!ENTITY viewBookmarksSidebar2.label        "Прикажи у бочној палети">
-<!ENTITY hideBookmarksSidebar.label         "Сакриј панел са обележивачима">
+<!ENTITY viewBookmarksSidebar2.label        "Прикажи бочни панел са обележивачима">
+<!ENTITY hideBookmarksSidebar.label         "Сакриј бочни панел са обележивачима">
 <!ENTITY viewBookmarksToolbar.label         "Прикажи траку са обележивачима">
 <!ENTITY hideBookmarksToolbar.label         "Сакриј траку са обележивачима">
 <!ENTITY searchBookmarks.label              "Претражи обележиваче">
@@ -130,7 +130,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY libraryDownloads.label       "Преузимања">
 <!ENTITY addons.label                 "Додаци">
 
-<!ENTITY webDeveloperMenu.label       "Програмер">
+<!ENTITY webDeveloperMenu.label       "Веб-програмер">
 
 <!ENTITY newNavigatorCmd.label        "Нови прозор">
 <!ENTITY newPrivateWindow.label     "Нови приватни прозор">
@@ -141,19 +141,19 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY logins.label                           "Лозинке">
 
 <!ENTITY overflowCustomizeToolbar.label       "Прилагоди траку са алаткама…">
-<!ENTITY overflowCustomizeToolbar.accesskey   "г">
+<!ENTITY overflowCustomizeToolbar.accesskey   "П">
 
 <!ENTITY historyMenu.label "Историја">
 <!ENTITY historyUndoMenu.label "Недавно затворене картице">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Недавно затворени прозори">
 
-<!ENTITY appMenuHistory.showAll.label "Прикажи целу историју">
+<!ENTITY appMenuHistory.showAll.label "Прикажи сву историју">
 
 <!ENTITY appMenuHistory.clearRecent.label "Обриши историју…">
 <!ENTITY appMenuHistory.restoreSession.label "Врати претходну сесију">
-<!ENTITY appMenuHistory.viewSidebar.label "Прикажи панел са историјом">
-<!ENTITY appMenuHistory.hideSidebar.label "Сакриј панел са историјом">
+<!ENTITY appMenuHistory.viewSidebar.label "Прикажи бочни панел са историјом">
+<!ENTITY appMenuHistory.hideSidebar.label "Сакриј бочни панел са историјом">
 <!ENTITY appMenuHistory.recentHistory.label "Недавна историја">
 
 <!ENTITY appMenuHelp.label "Помоћ">
