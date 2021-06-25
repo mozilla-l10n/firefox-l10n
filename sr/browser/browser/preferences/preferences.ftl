@@ -960,8 +960,14 @@ sitedata-total-size-calculating = Рачунам податке сајта и к
 sitedata-total-size = Ускладиштени колачићи, подаци о сајтовима и кеш тренутно заузимају { $value } { $unit } простора на диску.
 sitedata-learn-more = Сазнајте више
 sitedata-delete-on-close =
-    .label = Очисти колачиће и податке сајтова након што затворим { -brand-short-name }
-    .accesskey = т
+    .label =
+        Избриши колачиће и податке о сајтовима након што затворим { -brand-short-name.gender ->
+            [masculine] { -brand-short-name(case: "acc") }
+            [feminine] { -brand-short-name(case: "acc") }
+            [neuter] { -brand-short-name(case: "acc") }
+           *[other] програм { -brand-short-name }
+        }
+    .accesskey = ш
 sitedata-delete-on-close-private-browsing =
     У трајном режиму приватног прегледања колачићи и подаци о сајтовима ће бити обрисани када затворите { -brand-short-name.gender ->
         [masculine] { -brand-short-name(case: "acc") }
