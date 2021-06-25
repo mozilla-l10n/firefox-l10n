@@ -8,12 +8,12 @@ sanitize-prefs =
 sanitize-prefs-style =
     .style = width: 17em
 dialog-title =
-    .title = Обриши историју
+    .title = Брисање историје
     .style = width: 34em
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 dialog-title-everything =
-    .title = Обриши сву историју
+    .title = Брисање све историје
     .style = width: 34em
 clear-data-settings-label = При затварању { -brand-short-name } аутоматски брише све
 
@@ -79,8 +79,8 @@ sanitize-button-clearing =
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has not modified the default set
 # of history items to clear.
-sanitize-everything-warning = Обрисаће се сва историја.
+sanitize-everything-warning = Обрисаћете сву историју.
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has modified the default set of
 # history items to clear.
-sanitize-selected-warning = Обрисаће се све изабране ставке.
+sanitize-selected-warning = Обрисаћете све изабране ставке.
