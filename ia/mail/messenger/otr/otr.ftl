@@ -47,7 +47,7 @@ msgevent-rcvdmsg_unencrypted = Le sequente message recipite de { $name } non era
 msgevent-rcvdmsg_unrecognized = Tu ha recipite un message OTR incognite de { $name }.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
-msgevent-rcvdmsg_for_other_instance = { $name } ha inviate un message desirate pro un differente session. Si tu es connexe plure vices, un altere session pote haber recipite le message.
+msgevent-rcvdmsg_for_other_instance = { $name } ha inviate un message destinate a un altere session. Si tu ha aperite session plure vices, un altere session pote haber recipite le message.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 context-gone_secure_private = Initiate conversation private con { $name }.
@@ -102,7 +102,7 @@ msgevent-rcvdmsg-unencrypted = Le sequente message recipite de { $name } non era
 msgevent-rcvdmsg-unrecognized = Tu ha recipite un message OTR incognite de { $name }.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
-msgevent-rcvdmsg-for-other-instance = { $name } ha inviate un message desirate pro un differente session. Si tu es connexe plure vices, un altere session pote haber recipite le message.
+msgevent-rcvdmsg-for-other-instance = { $name } ha inviate un message destinate a un altere session. Si tu ha aperite session plure vices, un altere session pote haber recipite le message.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 context-gone-secure-private = Initiate conversation private con { $name }.

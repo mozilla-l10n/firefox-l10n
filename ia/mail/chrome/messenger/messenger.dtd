@@ -76,7 +76,7 @@
 <!ENTITY emptyTrashCmd.accesskey "V">
 <!ENTITY offlineMenu.label "Foras de linea">
 <!ENTITY offlineMenu.accesskey "l">
-<!ENTITY offlineGoOfflineCmd.label "Laborar disconnexe">
+<!ENTITY offlineGoOfflineCmd.label "Travaliar disconnectite">
 <!ENTITY offlineGoOfflineCmd.accesskey "d">
 <!ENTITY synchronizeOfflineCmd.label "Discargar/synchronisar ora…">
 <!ENTITY synchronizeOfflineCmd.accesskey "s">
@@ -719,7 +719,6 @@
 <!ENTITY locationColumn.label "Position">
 <!ENTITY idColumn.label "Ordine recipite">
 <!ENTITY attachmentColumn.label "Annexos">
-
 <!ENTITY deleteColumn.label "Deler">
 
 <!-- Thread Pane Tooltips -->
@@ -745,7 +744,6 @@
 <!ENTITY locationColumn2.tooltip "Ordinar per adresse">
 <!ENTITY idColumn2.tooltip "Ordinar per ordine de reception">
 <!ENTITY attachmentColumn2.tooltip "Ordinar per annexos">
-
 <!ENTITY deleteColumn.tooltip "Deler un message">
 
 <!-- Thread Pane Context Menu -->

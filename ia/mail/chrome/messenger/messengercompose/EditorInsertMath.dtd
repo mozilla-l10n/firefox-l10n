@@ -8,7 +8,7 @@
 <!ENTITY sourceEditField.label "Insere le codice fonte LaTeX:">
 
 <!ENTITY options.label "Optiones">
-<!ENTITY optionInline.label "Modo connexe">
+<!ENTITY optionInline.label "Modo in linea">
 <!ENTITY optionInline.accesskey "X">
 <!ENTITY optionDisplay.label "Modo monstrar">
 <!ENTITY optionDisplay.accesskey "M">
