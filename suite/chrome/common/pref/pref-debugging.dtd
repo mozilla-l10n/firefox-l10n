@@ -19,5 +19,21 @@
 <!ENTITY debugPaintFlashing.accesskey "Z">
 <!ENTITY debugPaintFlashingChrome.label "Zvýrazňovanie prekresľovania Chrome">
 <!ENTITY debugPaintFlashingChrome.accesskey "C">
+<!ENTITY debugPaintDumping.label "Dumping vykresľovania">
+<!ENTITY debugPaintDumping.accesskey "v">
+<!ENTITY debugInvalidateDumping.label "Dumping zneplatnení">
+<!ENTITY debugInvalidateDumping.accesskey "n">
+<!ENTITY debugEventDumping.label "Dumping udalostí">
+<!ENTITY debugEventDumping.accesskey "u">
+<!ENTITY debugMotionEventDumping.label "Dumping udalostí pohybu">
+<!ENTITY debugMotionEventDumping.accesskey "o">
+<!ENTITY debugCrossingEventDumping.label "Dumping križujúcich sa udalostí">
+<!ENTITY debugCrossingEventDumping.accesskey "k">
 
 <!-- Reflow Event Debugging -->
+<!ENTITY debugReflowEvents.label                 "Udalosti preformátovania">
+<!ENTITY debugReflowShowFrameCounts.label        "Zobraziť počty snímiek">
+<!ENTITY debugReflowShowFrameCounts.accesskey    "m">
+<!ENTITY debugReflowDumpFrameCounts.label        "Dumping počtu snímiek">
+<!ENTITY debugReflowDumpFrameCounts.accesskey    "D">
+<!ENTITY debugReflowDumpFrameByFrameCounts.label "Dumping snímky po snímke">
