@@ -75,9 +75,9 @@ about-addressbook-confirm-delete-mixed = Naozaj chcete odstrániť tieto kontakt
 # $count (Number) - The number of lists to be deleted.
 about-addressbook-confirm-delete-lists-title =
     { $count ->
-        [one] Odstrániť zoznam
-        [few] Odstrániť zoznamy
-       *[other] Odstrániť zoznamy
+        [one] Odstránenie zoznamu
+        [few] Odstránenie zoznamov
+       *[other] Odstránenie zoznamov
     }
 # Variables:
 # $count (Number) - The number of lists to be deleted.
