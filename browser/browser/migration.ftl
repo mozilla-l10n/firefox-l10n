@@ -53,6 +53,9 @@ no-migration-sources = Не са намерени програми, съдърж
 import-source-page-title = Внасяне на настройки и данни
 import-items-page-title = Елементи за внасяне
 import-items-description = Изберете елементите за внасяне:
+import-permissions-page-title = Дайте права на { -brand-short-name }
+# Do not translate "Bookmarks.plist"; the file name is the same everywhere.
+import-permissions-description = macOS изисква изрично да разрешите на { -brand-short-name } достъп до отметките на Safari. Щракнете върху „Напред“ и изберете файла „Bookmarks.plist“ в панела за избор на файл, който се появява.
 import-migrating-page-title = Внасяне…
 import-migrating-description = В момента се внасят следните елементи…
 import-select-profile-page-title = Избиране на профил
