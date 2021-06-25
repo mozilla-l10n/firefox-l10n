@@ -99,7 +99,7 @@ permissions-exceptions-https-only-window =
 permissions-exceptions-popup-window =
     .title = Дозвољени веб-сајтови – искачући прозори
     .style = { permissions-window.style }
-permissions-exceptions-popup-desc = Можете да наведете веб-сајтове који смеју да отварају искачуће прозоре. Унесите тачну адресу сајта и кликните на „Дозволи”.
+permissions-exceptions-popup-desc = Овде можете да наведете који веб-сајтови могу да отварају искачуће прозоре. Унесите адресу сајта и кликните на „Дозволи”.
 
 ## Exceptions - Saved Logins
 
@@ -113,7 +113,7 @@ permissions-exceptions-saved-logins-desc = Пријаве за следеће с
 permissions-exceptions-addons-window =
     .title = Дозвољени веб-сајтови – инсталација додатака
     .style = { permissions-window.style }
-permissions-exceptions-addons-desc = Можете да наведете веб-сајтове који смеју да инсталирају додатке. Унесите тачну адресу сајта и кликните на „Дозволи”.
+permissions-exceptions-addons-desc = Овде можете да наведете који веб-сајтови могу да инсталирају додатке. Унесите адресу сајта и кликните на „Дозволи”.
 
 ## Site Permissions - Autoplay
 
