@@ -22,3 +22,5 @@ calendar-editable-item-reminder-icon-suppressed-alarm =
     .alt = Et påminnelsesvarsel er planlagt, men er for øyeblikket undertrykt
 calendar-editable-item-reminder-icon-email =
     .alt = En påminnelses-e-post er planlagt
+calendar-editable-item-reminder-icon-audio =
+    .alt = En lydpåminnelse er planlagt
