@@ -84,7 +84,7 @@ permissions-exceptions-etp-desc = Искључили сте заштиту на 
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window =
-    .title = Изузеци – колачићи и подаци о сајтовима
+    .title = Колачићи и подаци о сајтовима – изузеци
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = Овде можете да наведете којим веб-сајтовима је дозвољено или забрањено да користе колачиће и податке о сајтовима. Унесите адресу сајта и кликните на „Блокирај”, „Дозволи док траје сесија” или „Дозволи”.
 
