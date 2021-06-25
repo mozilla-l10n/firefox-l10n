@@ -554,7 +554,7 @@ use-current-pages =
             [1] Користи тренутну страницу
            *[other] Користи тренутне странице
         }
-    .accesskey = т
+    .accesskey = е
 choose-bookmark =
     .label = Користи обележивач…
     .accesskey = б
