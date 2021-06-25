@@ -19,6 +19,8 @@ appmenuitem-new-private-window =
     .label = نیا نجی ونڈوں
 appmenuitem-passwords =
     .label = پاس ورڈ
+appmenuitem-addons-and-themes =
+    .label = ایڈ آنز اور تھیمز
 appmenuitem-find-in-page =
     .label = صفحہ میں ڈھونڈیں…
 appmenuitem-more-tools =
@@ -29,6 +31,9 @@ appmenuitem-exit2 =
             [linux] باہر نکلیں
            *[other] خروج
         }
+appmenu-menu-button-closed2 =
+    .tooltiptext = ایپلیکیشن مینو کھولیں
+    .label = { -brand-short-name }
 appmenu-menu-button-opened2 =
     .tooltiptext = ایپلیکیشن مینو بند کریں
     .label = { -brand-short-name }
