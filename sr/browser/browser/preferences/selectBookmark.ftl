@@ -3,6 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 select-bookmark-window =
-    .title = Постави почетну страницу
+    .title = Постављање почетне странице
     .style = width: 32em;
 select-bookmark-desc = Изаберите обележивач као почетну страницу. Ако изаберете фасциклу, обележивачи из ње ће се отворити у картицама.
