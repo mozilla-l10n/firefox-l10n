@@ -108,6 +108,12 @@ main-context-menu-bookmark-add =
     .aria-label = یہ صفحہ نشان زد کریں
     .accesskey = m
     .tooltiptext = یہ صفحہ نشان زد کریں
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-add-mac =
+    .label = صفحہ بکمارک کریں
+    .accesskey = m
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-add-with-shortcut =

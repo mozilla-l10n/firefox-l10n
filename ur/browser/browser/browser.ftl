@@ -164,6 +164,15 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+# Variables
+# $tabCount (integer) - Number of tabs selected
+page-action-send-tabs-panel =
+    .label =
+        { $tabCount ->
+            [1] آلہ پر  ٹیبز ارسال  کریں
+            [one] آلہ پر { $tabCount }  ٹیبز ارسال  کریں
+           *[other] آلہ پر { $tabCount }  ٹیبز ارسال  کریں
+        }
 page-action-copy-url-panel =
     .label = ربط نقل کریں
 page-action-copy-url-urlbar =
