@@ -394,6 +394,7 @@ update-setting-write-failure-message =
     Обърнете внимание, че задаването на тази настройка за обновяване изисква права за запис във файла по-долу. Вие или системен администратор може да успеете да разрешите проблема, като предоставите на групата потребители пълни права над файла.
     
     Във файлa „{ $path }“ не може да бъде записвано.
+update-setting-write-failure-title2 = Грешка при запазване на настройки
 # Variables:
 #   $path (String) - Path to the configuration file
 # The newlines between the main text and the line containing the path is
@@ -520,12 +521,19 @@ home-prefs-topsites-header =
 home-prefs-topsites-description = Най-посещаваните от вас страници
 home-prefs-topsites-by-option-sponsored =
     .label = Платени препратки
+home-prefs-shortcuts-header =
+    .label = Бързи клавиши
+home-prefs-shortcuts-description = Страници за преглед по-късно
+home-prefs-shortcuts-by-option-sponsored =
+    .label = Спонсорирани препратки
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
 home-prefs-recommended-by-header =
     .label = Препоръчано от { $provider }
+home-prefs-recommended-by-description-update = Изключително съдържание от цялата мрежа, подбрано от { $provider }
+home-prefs-recommended-by-description-new = Изключително съдържание, подбрано от { $provider } част от семейството на { -brand-product-name }
 
 ##
 
@@ -543,6 +551,9 @@ home-prefs-highlights-option-most-recent-download =
     .label = Последни изтегляния
 home-prefs-highlights-option-saved-to-pocket =
     .label = Страници, запазени в { -pocket-brand-name }
+home-prefs-recent-activity-header =
+    .label = Последна активност
+home-prefs-recent-activity-description = Избрани страници и съдържание
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -550,6 +561,7 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-snippets-header =
     .label = Изрезки
 home-prefs-snippets-description = Новости от { -vendor-short-name } и { -brand-product-name }
+home-prefs-snippets-description-new = Съвети и новини от { -vendor-short-name } и { -brand-product-name }
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -587,8 +599,11 @@ search-show-suggestions-above-history-option =
     .label = Показване на подсказките преди резултатите от историята при търсене от адресната лента
 search-show-suggestions-private-windows =
     .label = Показване на предложенията за търсене при поверително разглеждане
+suggestions-addressbar-settings-generic = Промяна на настройките за други предложения в адресната лента
+suggestions-addressbar-settings-generic2 = Промяна на настройките за други предложения в адресната лента
 search-suggestions-cant-show = Предложения при търсене в резултатите на адресната лента няма да бъдат показвани, защото { -brand-short-name } е настроен да не запазва историята на разглеждане.
 search-one-click-header = Търсене с едно щракване
+search-one-click-header2 = Преки пътища за търсене
 search-one-click-desc = Изберете допълнителни търсещи машини, които да се показват под адресната лента и лентата за търсене при въвеждане на текст.
 search-choose-engine-column =
     .label = Търсеща машина
@@ -600,6 +615,9 @@ search-restore-default =
 search-remove-engine =
     .label = Премахване
     .accesskey = П
+search-add-engine =
+    .label = Добавяне
+    .accesskey = Д
 search-find-more-link = Други търсещи машини
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
@@ -611,11 +629,24 @@ search-keyword-warning-bookmark = Избрали сте дума, която в�
 
 ## Containers Section
 
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] Към настройките
+           *[other] Към настройките
+        }
+containers-back-button2 =
+    .aria-label = Към настройките
 containers-header = Изолирани раздели
 containers-add-button =
     .label = Нов изолатор
     .accesskey = и
+containers-new-tab-check =
+    .label = Избиране на изолатор за всеки нов раздел
+    .accesskey = р
 containers-preferences-button =
+    .label = Настройки
+containers-settings-button =
     .label = Настройки
 containers-remove-button =
     .label = Премахване
@@ -625,6 +656,13 @@ containers-remove-button =
 
 sync-signedout-caption = Вземете Мрежата със себе си
 sync-signedout-description = Синхронизирайте вашите отметки, история, раздели, добавки и настройки с всички ваши устройства.
+sync-signedout-account-signin2 =
+    .label = Вписване в { -sync-brand-short-name }…
+    .accesskey = и
+sync-signedout-description2 = Синхронизирайте вашите отметки, история, раздели, добавки и настройки с всички ваши устройства.
+sync-signedout-account-signin3 =
+    .label = Вписване в Sync…
+    .accesskey = и
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -664,6 +702,10 @@ prefs-sync-setup =
     .label = Настройка на { -sync-brand-short-name }…
     .accesskey = н
 prefs-sync-offer-setup-label = Синхронизирайте вашите отметки, история, раздели, добавки и настройки с всички ваши устройства.
+prefs-sync-turn-on-syncing =
+    .label = Включване синхронизиране
+    .accesskey = с
+prefs-sync-offer-setup-label2 = Синхронизирайте вашите отметки, история, раздели, добавки и настройки с всички ваши устройства.
 prefs-sync-now =
     .labelnotsyncing = Синхронизиране
     .accesskeynotsyncing = с
@@ -684,6 +726,7 @@ sync-currently-syncing-prefs =
         [windows] Настройки
        *[other] Настройки
     }
+sync-currently-syncing-settings = Настройки
 sync-change-options =
     .label = Променяне…
     .accesskey = П
@@ -731,6 +774,10 @@ sync-engine-prefs =
         }
     .tooltiptext = Променени настройки
     .accesskey = Н
+sync-engine-settings =
+    .label = Настройки
+    .tooltiptext = Променени настройки
+    .accesskey = с
 
 ## The device name controls.
 
@@ -808,6 +855,7 @@ master-password-os-auth-dialog-message-macosx = създаде главна па
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = създаде основна парола
+master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
 
@@ -892,6 +940,9 @@ sitedata-settings =
 sitedata-cookies-permissions =
     .label = Управление на права…
     .accesskey = п
+sitedata-cookies-exceptions =
+    .label = Изключения…
+    .accesskey = з
 
 ## Privacy Section - Address Bar
 
@@ -913,6 +964,9 @@ addressbar-locbar-shortcuts-option =
 addressbar-locbar-topsites-option =
     .label = Предпочитани страници
     .accesskey = с
+addressbar-locbar-engines-option =
+    .label = Търсещи машини
+    .accesskey = р
 addressbar-suggestions-settings = Настройки на предложенията от търсещите машини
 
 ## Privacy Section - Content Blocking
