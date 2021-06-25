@@ -277,6 +277,18 @@ mr1-onboarding-reduce-motion-button-label = Desactivar las animacions
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
+# Title used on welcome page when Firefox is not pinned
+mr1-onboarding-pin-header =
+    { PLATFORM() ->
+        [macos] Gardatz { -brand-short-name } al vòstre Dock per un accès facil
+       *[other] Penjatz { -brand-short-name } a vòstra barra de prètzfaches per un accès facil
+    }
+# Primary button string used on welcome page when Firefox is not pinned.
+mr1-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Gardar al Dock
+       *[other] Penjar a la barra de prètzfaches
+    }
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
