@@ -37,3 +37,4 @@
 <!ENTITY debugReflowDumpFrameCounts.label        "Dumping počtu snímiek">
 <!ENTITY debugReflowDumpFrameCounts.accesskey    "D">
 <!ENTITY debugReflowDumpFrameByFrameCounts.label "Dumping snímky po snímke">
+<!ENTITY debugReflowDumpFrameByFrameCounts.accesskey "s">

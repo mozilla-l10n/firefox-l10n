@@ -21,6 +21,12 @@
 <!ENTITY allowHideStatusBar.label        "Skryť stavový riadok">
 
 <!ENTITY debugging.label                  "Ladenie JavaScriptu">
+<!ENTITY debugEnableDump.label            "Povoliť výstup metódy dump() pre JavaScript">
+<!ENTITY debugEnableDump.accesskey        "m">
+<!ENTITY debugStrictJavascript.label      "Zobrazovať upozornenia JavaScript typu strict">
+<!ENTITY debugStrictJavascript.accesskey  "b">
+<!ENTITY debugConsoleJavascript.label     "Zobrazovať chyby a upozornenia JavaScriptu pre chrome">
+<!ENTITY debugConsoleJavascript.accesskey "c">
 
 <!ENTITY enablePlugins.label             "Povoliť zásuvné moduly pre">
 <!ENTITY enablePluginForSuite.label      "Prehliadač">
@@ -28,6 +34,6 @@
 
 <!ENTITY whenPageRequiresPlugins.label   "Keď stránka vyžaduje zásuvné moduly">
 <!ENTITY activateAllPlugins.label        "Predvolene aktivovať všetky zásuvné moduly">
-<!ENTITY activateAllPlugins.accesskey    "d">
+<!ENTITY activateAllPlugins.accesskey    "e">
 <!ENTITY warnPluginsRequired.label       "Upozorniť, ak je potrebné nainštalovať ďalšie zásuvné moduly">
 <!ENTITY warnPluginsRequired.accesskey   "U">
