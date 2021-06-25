@@ -38,6 +38,17 @@ upgrade-dialog-new-primary-win7-button = D’acòrdi, plan comprés !
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-pin-title =
+    { PLATFORM() ->
+        [macos] Gardatz { -brand-short-name } al vòstre Dock
+       *[other] Penjar { -brand-short-name } a ma barra de prètzfaches
+    }
+upgrade-dialog-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Gardar al Dock
+       *[other] Penjar a la barra de prètzfaches
+    }
 upgrade-dialog-pin-secondary-button = Pas ara
 
 ## Default browser screen
