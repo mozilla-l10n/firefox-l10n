@@ -215,10 +215,12 @@ cfr-whatsnew-lockwise-icon-alt = Пиктограма на { -lockwise-brand-sho
 ## Vulnerable Passwords message
 
 cfr-whatsnew-passwords-header = Получавайте сигнали за уязвими пароли
+cfr-whatsnew-passwords-icon-alt = Икона на ключ за уязвима парола
 
 ## Picture-in-Picture fullscreen message
 
 cfr-whatsnew-pip-fullscreen-header = Картина в картината на цял екран
+cfr-whatsnew-pip-fullscreen-body = Когато поставите видеоклип в плаващ прозорец, вече можете да щракнете двукратно върху него, за да преминете на цял екран.
 cfr-whatsnew-pip-fullscreen-icon-alt = Икона за картина в картината
 
 ## Protections Dashboard message
@@ -236,14 +238,21 @@ cfr-whatsnew-protections-icon-alt = Пиктограма на щит
 
 ## DOH Message
 
+cfr-doorhanger-doh-primary-button-2 = Добре
+    .accesskey = о
+cfr-doorhanger-doh-secondary-button = Изключване
+    .accesskey = з
 
 ## Fission Experiment Message
 
 cfr-doorhanger-fission-primary-button = Добре, разбрах
     .accesskey = Д
+cfr-doorhanger-fission-secondary-button = Научете повече
+    .accesskey = Н
 
 ## What's new: Cookies message
 
+cfr-whatsnew-clear-cookies-image-alt = Изображение с блокирана бисквитка
 
 ## What's new: Media controls message
 
