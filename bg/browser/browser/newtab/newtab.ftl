@@ -236,7 +236,7 @@ newtab-error-fallback-refresh-link = Презаредете страницата
 ## Customization Menu
 
 newtab-custom-shortcuts-title = Препратки
-newtab-custom-shortcuts-subtitle = Сайтове за преглед по-късно
+newtab-custom-shortcuts-subtitle = Страници за преглед по-късно
 newtab-custom-row-selector =
     { $num ->
         [one] { $num } ред
