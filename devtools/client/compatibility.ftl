@@ -14,7 +14,6 @@ compatibility-issue-deprecated = (obsolèt)
 compatibility-issue-experimental = (experimental)
 compatibility-issue-prefixneeded = (prefix requerit)
 compatibility-issue-deprecated-experimental = (obsolèt, experimental)
-
 compatibility-issue-deprecated-prefixneeded = (obsolèt, prefix requerit)
 compatibility-issue-experimental-prefixneeded = (experimental, prefix requerit)
 compatibility-issue-deprecated-experimental-prefixneeded = (obsolèt, experimental, prefix requerit)
@@ -40,10 +39,9 @@ compatibility-target-browsers-header = Navegadors ciblas
 #   $number (Number) - The number of nodes where the issue occurred
 compatibility-issue-occurrences =
     { $number ->
-        [one] { $number } occuréncia
-       *[other] { $number } occuréncias
+        [one] { $number } ocuréncia
+       *[other] { $number } ocuréncias
     }
-
 compatibility-no-issues-found = Cap de problèma de compatibilitat pas trobat.
 compatibility-close-settings-button =
     .title = Tampar los paramètres

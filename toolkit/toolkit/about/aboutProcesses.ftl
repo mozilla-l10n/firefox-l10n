@@ -57,6 +57,7 @@ about-processes-process-name = Processús { $pid } : { $name }
 ##    $pid (String) The process id of this process, assigned by the OS.
 
 about-processes-browser-process = { -brand-short-name } ({ $pid })
+about-processes-web-process = Processús web partejat ({ $pid })
 about-processes-file-process = Fichièrs ({ $pid })
 about-processes-extension-process = Extensions ({ $pid })
 about-processes-privilegedabout-process = Paginas A prepaus ({ $pid })
@@ -68,6 +69,7 @@ about-processes-vr-process = VR ({ $pid })
 about-processes-rdd-process = Descodador de donadas ({ $pid })
 about-processes-socket-process = Ret ({ $pid })
 about-processes-remote-sandbox-broker-process = Agent de nauc de sabla distant ({ $pid })
+about-processes-fork-server-process = Còpia del servidor ({ $pid })
 about-processes-preallocated-process = Prealogat ({ $pid })
 # Unknown process names
 # Variables:
@@ -81,6 +83,7 @@ about-processes-unknown-process = Autre : { $type } ({ $pid })
 ##    $origin (String) The domain name for this process.
 
 about-processes-web-isolated-process = { $origin } ({ $pid })
+about-processes-web-isolated-process-private = { $origin } — Privat ({ $pid })
 
 ## Details within processes
 

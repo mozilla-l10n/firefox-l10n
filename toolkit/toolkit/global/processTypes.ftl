@@ -38,6 +38,8 @@ process-type-tab = Onglet
 process-type-gpu = GPU
 # process used to perform network operations
 process-type-socket = Socket
+# process used to decode media
+process-type-rdd = RDD
 
 ##
 ## Other
