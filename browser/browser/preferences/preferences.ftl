@@ -939,9 +939,15 @@ history-remember-browser-option =
     .accesskey = Ч
 history-remember-search-option =
     .label = Чувај историју претраге и образаца
-    .accesskey = Ч
+    .accesskey = у
 history-clear-on-close-option =
-    .label = Обриши историју када затворим { -brand-short-name }
+    .label =
+        Обриши историју када затворим { -brand-short-name.gender ->
+            [masculine] { -brand-short-name(case: "acc") }
+            [feminine] { -brand-short-name(case: "acc") }
+            [neuter] { -brand-short-name(case: "acc") }
+           *[other] програм { -brand-short-name }
+        }
     .accesskey = ш
 history-clear-on-close-settings =
     .label = Подешавања…
