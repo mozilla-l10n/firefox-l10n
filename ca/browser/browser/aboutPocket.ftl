@@ -15,6 +15,7 @@ pocket-panel-saved-error-generic = S'ha produït un error en intentar desar al {
 pocket-panel-saved-error-tag-length = Les etiquetes tenen un límit de 25 caràcters
 pocket-panel-saved-error-only-links = Només es poden desar enllaços
 pocket-panel-saved-error-not-saved = No s'ha desat la pàgina
+pocket-panel-saved-error-no-internet = Heu d'estar connectat a Internet per poder desar al { -pocket-brand-name }. Connecteu-vos a Internet i torneu-ho a provar.
 pocket-panel-saved-page-removed = S'ha eliminat la pàgina
 pocket-panel-saved-page-saved = S'ha desat al { -pocket-brand-name }
 pocket-panel-saved-processing-remove = S'està eliminant la pàgina…
