@@ -173,6 +173,9 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = Codificació del text
     .accesskey = C
+menu-view-repair-text-encoding =
+    .label = Repara la codificació del text
+    .accesskey = c
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -227,6 +230,8 @@ menu-bookmarks-show-all =
     .label = Mostra totes les adreces d'interès
 menu-bookmark-this-page =
     .label = Afegeix la pàgina a les adreces d'interès
+menu-bookmarks-manage =
+    .label = Gestiona les adreces d'interès
 menu-bookmark-current-tab =
     .label = Afegeix la pestanya actual a les adreces d'interès
 menu-bookmark-edit =
@@ -254,15 +259,15 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Inicia la sessió al { -brand-product-name }…
     .accesskey = F
+menu-tools-turn-on-sync =
+    .label = Activa el { -sync-brand-short-name }…
+    .accesskey = n
 menu-tools-addons-and-themes =
     .label = Complements i temes
     .accesskey = C
 menu-tools-fxa-sign-in2 =
     .label = Inicia la sessió
     .accesskey = I
-menu-tools-turn-on-sync =
-    .label = Activa el { -sync-brand-short-name }…
-    .accesskey = n
 menu-tools-turn-on-sync2 =
     .label = Activa la sincronització…
     .accesskey = s
@@ -287,13 +292,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Informació de la pàgina
     .accesskey = I
-menu-settings =
-    .label = Paràmetres
-    .accesskey =
-        { PLATFORM() ->
-            [windows] P
-           *[other] m
-        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -304,6 +302,13 @@ menu-preferences =
         { PLATFORM() ->
             [windows] O
            *[other] n
+        }
+menu-settings =
+    .label = Paràmetres
+    .accesskey =
+        { PLATFORM() ->
+            [windows] P
+           *[other] m
         }
 menu-tools-layout-debugger =
     .label = Depurador de disposició
@@ -342,14 +347,12 @@ menu-help-import-from-another-browser =
 menu-help-keyboard-shortcuts =
     .label = Dreceres de teclat
     .accesskey = D
-menu-get-help =
-    .label = Obteniu ajuda
-    .accesskey = j
 menu-help-troubleshooting-info =
     .label = Informació de resolució de problemes
     .accesskey = r
-menu-help-taskmanager =
-    .label = Gestor de tasques
+menu-get-help =
+    .label = Obteniu ajuda
+    .accesskey = j
 menu-help-more-troubleshooting-info =
     .label = Més informació de resolució de problemes
     .accesskey = i
