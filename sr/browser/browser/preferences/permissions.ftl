@@ -25,9 +25,9 @@ permissions-button-off-temporarily =
     .label = Привремено искључи
     .accesskey = П
 permissions-site-name =
-    .label = Веб сајт
+    .label = Веб-сајт
 permissions-status =
-    .label = Стање
+    .label = Статус
 permissions-remove =
     .label = Уклони веб-сајт
     .accesskey = У
@@ -79,7 +79,7 @@ permissions-invalid-uri-label = Унесите важећи назив хост�
 permissions-exceptions-etp-window =
     .title = Побољшана заштита од праћења – изузеци
     .style = { permissions-window.style }
-permissions-exceptions-etp-desc = Искључили сте заштиту на овим веб сајтовима.
+permissions-exceptions-etp-desc = Искључили сте заштиту на овим веб-сајтовима.
 
 ## Exceptions - Cookies
 
@@ -97,7 +97,7 @@ permissions-exceptions-https-only-window =
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window =
-    .title = Омогућени веб сајтови - искачући прозори
+    .title = Дозвољени веб-сајтови – искачући прозори
     .style = { permissions-window.style }
 permissions-exceptions-popup-desc = Можете да наведете веб-сајтове који смеју да отварају искачуће прозоре. Унесите тачну адресу сајта и кликните на „Дозволи”.
 

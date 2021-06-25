@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 safeb-blocked-phishing-page-title = Обмањујући сајт
-safeb-blocked-malware-page-title = Посећивање овог веб сајта може нашкодити вашем рачунару
+safeb-blocked-malware-page-title = Посећивање овог веб-сајта може бити штетно
 safeb-blocked-unwanted-page-title = Овај сајт можда садржи штетне програме
 safeb-blocked-harmful-page-title = Овај сајт можда садржи малициозни софтвер
 safeb-blocked-phishing-page-short-desc = { -brand-short-name } је блокирао ову страницу јер би можда покушала да вас наведе на нешто опасно као што је инсталирање злонамерног софтвера или откривање личних информација као што су лозинке или кредитне картице.
