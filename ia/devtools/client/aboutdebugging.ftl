@@ -31,7 +31,7 @@ about-debugging-sidebar-usb-enabled = USB activate
 # (for instance because the mandatory ADB extension is not installed).
 about-debugging-sidebar-usb-disabled = USB disactivate
 # Connection status (connected) for runtime items in the sidebar
-aboutdebugging-sidebar-runtime-connection-status-connected = Connexe
+aboutdebugging-sidebar-runtime-connection-status-connected = Connectite
 # Connection status (disconnected) for runtime items in the sidebar
 aboutdebugging-sidebar-runtime-connection-status-disconnected = Disconnectite
 # Text displayed in the about:debugging sidebar when no device was found.
@@ -50,7 +50,7 @@ about-debugging-sidebar-item-connect-button-connection-not-responding = Le conne
 about-debugging-sidebar-item-connect-button-connection-timeout = Connexion expirate
 # Temporary text displayed in sidebar items representing remote runtimes after
 # successfully connecting to them. Temporary UI, do not localize.
-about-debugging-sidebar-item-connected-label = Connexe
+about-debugging-sidebar-item-connected-label = Connectite
 # Text displayed in sidebar items for remote devices where a compatible browser (eg
 # Firefox) has not been detected yet. Typically, Android phones connected via USB with
 # USB debugging enabled, but where Firefox is not started.
@@ -176,7 +176,7 @@ about-debugging-runtime-service-workers-not-compatible = Le configuration de tu 
 # "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/about:debugging#Troubleshooting
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 # { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
-about-debugging-browser-version-too-old = Le navigator connexe ha un version vetere ({ $runtimeVersion }). Le version minime supportate es ({ $minVersion }). Isto es un installation non supportate e pote facer faller DevTools. Actualisa le navigator connexe.
+about-debugging-browser-version-too-old = Le navigator connectite ha un version ancian ({ $runtimeVersion }). Le version minime supportate es ({ $minVersion }). Isto es un installation non supportate e pote causar faltas in DevTools. Actualisa le navigator connectite. <a>Resolution de problemas</a>
 # Dedicated message for a backward compatibility issue that occurs when connecting:
 # from Fx 70+ to the old Firefox for Android (aka Fennec) which uses Fx 68.
 about-debugging-browser-version-too-old-fennec = Iste version de Firefox non pote depurar Firefox pro Android (68). Nos recommenda installar Firefox pro Android Nightly sur tu telephono pro facer tests. <a>Plus detalios</a>
@@ -186,7 +186,7 @@ about-debugging-browser-version-too-old-fennec = Iste version de Firefox non pot
 # { $localID } is the build ID of the current Firefox instance (same format)
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 # { $localVersion } is the version of your current browser (same format)
-about-debugging-browser-version-too-recent = Le navigator connexe es plus recente ({ $runtimeVersion }, buildID { $runtimeID }) que tu { -brand-shorter-name } ({ $localVersion }, buildID { $localID }). Isto es un installation non supportate e pote facer faller DevTools. Actualisa Firefox. <a>Resolution de problemas</a>
+about-debugging-browser-version-too-recent = Le navigator connexe es plus recente ({ $runtimeVersion }, buildID { $runtimeID }) que tu { -brand-shorter-name } ({ $localVersion }, buildID { $localID }). Isto es un installation non supportate e pote causar faltas in DevTools. Per favor actualisa Firefox. <a>Resolution de problemas</a>
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
