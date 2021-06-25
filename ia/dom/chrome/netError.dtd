@@ -79,8 +79,8 @@
 
 <!ENTITY nssBadCert.title "Connexion secur fallite">
 <!ENTITY nssBadCert.longDesc2 "<ul>
-<li>Isto pote ser un problema con le configuration del servitor, o illo pote ser alicuno que tenta de finger se servitor.</li>
-<li>Si tu era connexe a iste servitor con successo in le passato, le error pote ser temporari, e tu pote tentar ancora plus tarde.</li>
+<li>Isto pote esser un problema con le configuration del servitor, o pote esser que un persona tenta de usurpar le identitate del servitor.</li>
+<li>Si tu te ha connectite a iste servitor con successo in le passato, le error pote esser temporari, e tu pote tentar de novo plus tarde.</li>
 </ul>
 ">
 
