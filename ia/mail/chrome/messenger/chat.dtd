@@ -12,7 +12,7 @@
 <!ENTITY chat.noAccount.title             "Tu non ha ancora definite un conto chat.">
 <!ENTITY chat.noAccount.description       "Consenti a &brandShortName; de guidar te a traverso le configuration de tu conto chat.">
 <!ENTITY chat.accountWizard.button       "Comenciar">
-<!ENTITY chat.noConnectedAccount.title             "Tu contos chat non es connexe.">
+<!ENTITY chat.noConnectedAccount.title             "Tu contos de chat non es connectite.">
 <!ENTITY chat.noConnectedAccount.description       "Tu non pote connecter les ab le fenestra de dialogo 'Stato del chat':">
 <!ENTITY chat.showAccountManager.button       "Monstrar stato del chat">
 
