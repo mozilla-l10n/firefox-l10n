@@ -28,10 +28,13 @@ about-addressbook-books-context-print =
     .label = Imprimer…
 about-addressbook-books-context-delete =
     .label = Deler
+about-addressbook-books-context-remove =
+    .label = Remover
 about-addressbook-confirm-delete-book-title = Deler libro del adresses
 # Variables:
 # $name (String) - Name of the address book to be deleted.
 about-addressbook-confirm-delete-book = Desira tu vermente deler { $name } e tote su contactos?
+about-addressbook-confirm-remove-remote-book-title = Remover libro del adresses
 
 ## Cards
 
