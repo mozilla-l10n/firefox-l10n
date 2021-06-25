@@ -259,7 +259,7 @@ this container is a toolbar. This avoids double-speaking. -->
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Картице прегледача">
 
-<!ENTITY syncBrand.shortName.label    "Sync">
+<!ENTITY syncBrand.shortName.label    "Синхронизација">
 
 <!ENTITY customizeMode.autoHideDownloadsButton.label "Аутоматски сакриј">
 
@@ -267,18 +267,18 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY uiTour.infoPanel.close "Затвори">
 
 <!ENTITY panicButton.thankyou.msg1                "Обрисали сте недавну историју.">
-<!ENTITY panicButton.thankyou.msg2                "Безбедно прегледање!">
+<!ENTITY panicButton.thankyou.msg2                "Желимо вам безбедно прегледање!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Хвала!">
 
-<!ENTITY updateAvailable.panelUI.label "Ажурирај &brandShorterName;">
-<!ENTITY updateManual.panelUI.label "Преузмите &brandShorterName;">
-<!ENTITY updateUnsupported.panelUI.label "Не можете вршити додатна ажурирања">
-<!ENTITY updateRestart.panelUI.label2 "Рестартуј &brandShorterName; ради ажурирања">
+<!ENTITY updateAvailable.panelUI.label "Преузми ажурирање програма &brandShorterName;">
+<!ENTITY updateManual.panelUI.label "Преузми нову верзију програма &brandShorterName;">
+<!ENTITY updateUnsupported.panelUI.label "Даља ажурирања нису доступна">
+<!ENTITY updateRestart.panelUI.label2 "Рестартуј и ажурирај &brandShorterName;">
 
 <!ENTITY sendToDevice.syncNotReady.label "Синхронизовање уређаја…">
 
 <!ENTITY pageAction.shareUrl.label "Дели">
-<!ENTITY pageAction.shareMore.label "Још…">
+<!ENTITY pageAction.shareMore.label "Више…">
 
 <!ENTITY libraryButton.tooltip "Погледајте историју, сачуване обележиваче и друго">
 

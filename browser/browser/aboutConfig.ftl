@@ -8,7 +8,7 @@
 about-config-intro-warning-title = Наставите с опрезом
 about-config-intro-warning-text = Измена напредних подешавања може деловати на { -brand-short-name } перформансе или безбедност.
 about-config-intro-warning-checkbox = Обавести ме када покушам да изменим основна подешавања
-about-config-intro-warning-button = Прихватите ризик и наставите
+about-config-intro-warning-button = Разумем ризик и желим да наставим
 
 ##
 
@@ -27,15 +27,15 @@ about-config-pref-edit-button =
 about-config-pref-save-button =
     .title = Сачувај
 about-config-pref-reset-button =
-    .title = Поново постави
+    .title = Ресетуј
 about-config-pref-delete-button =
-    .title = Обриши
+    .title = Избриши
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
-about-config-pref-add-type-boolean = Булова вредност
+about-config-pref-add-type-boolean = Логичка вредност
 about-config-pref-add-type-number = Број
-about-config-pref-add-type-string = Ниска
+about-config-pref-add-type-string = Стринг
 
 ## Preferences with a non-default value are differentiated visually, and at the
 ## same time the state is made accessible to screen readers using an aria-label
