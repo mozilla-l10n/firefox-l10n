@@ -28,7 +28,21 @@ search-input-box =
             [windows] Търсене в настройките
            *[other] Търсене в настройките
         }
+settings-page-title = Настройки
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box2 =
+    .style = width: 15.4em
+    .placeholder = Търсене на настройки
 managed-notice = Мрежовият четец се управлява от вашето ведомство.
+category-list =
+    .aria-label = Категории
 pane-general-title = Основни
 category-general =
     .tooltiptext = { pane-general-title }
@@ -44,6 +58,17 @@ category-privacy =
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
+pane-sync-title3 = Sync
+category-sync3 =
+    .tooltiptext = { pane-sync-title3 }
+pane-experimental-title = Опити с { -brand-short-name }
+category-experimental =
+    .tooltiptext = Опити с { -brand-short-name }
+pane-experimental-subtitle = Продължете с повишено внимание
+pane-experimental-search-results-header = Опити с { -brand-short-name }: Продължете с повишено внимание
+pane-experimental-reset =
+    .label = Стандартни настройки
+    .accesskey = С
 help-button-label = Поддръжка на { -brand-short-name }
 addons-button-label = Разширения и теми
 focus-search =
@@ -325,6 +350,8 @@ applications-use-app-default-label =
     .value = { applications-use-app-default.label }
 applications-use-other-label =
     .value = { applications-use-other.label }
+applications-use-os-default-label =
+    .value = { applications-use-os-default.label }
 
 ##
 
@@ -349,6 +376,9 @@ update-application-check-choose =
 update-application-manual =
     .label = Никога да не прави проверка за обновявания (непрепоръчително)
     .accesskey = Н
+update-application-background-enabled =
+    .label = Когато { -brand-short-name } не е пуснат
+    .accesskey = н
 update-application-warning-cross-user-setting = Тази настройка ще бъде приложена към всички профили в Windows и всички профили на { -brand-short-name }, използващи тази инсталация на { -brand-short-name }.
 update-application-use-service =
     .label = Използване на услуга във фонов режим за инсталиране на обновявания
@@ -363,6 +393,14 @@ update-setting-write-failure-message =
     
     Обърнете внимание, че задаването на тази настройка за обновяване изисква права за запис във файла по-долу. Вие или системен администратор може да успеете да разрешите проблема, като предоставите на групата потребители пълни права над файла.
     
+    Във файлa „{ $path }“ не може да бъде записвано.
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message2 =
+    Поради възникнала грешка { -brand-short-name } не запази промяната. Обърнете внимание, че промяната на тази настройка за обновяване изисква права за запис във файла по-долу. Вие или системния администратор може да успеете да разрешите проблема като предоставите на групата потребители пълни права над този файл.¶
+    ¶
     Във файлa „{ $path }“ не може да бъде записвано.
 update-in-progress-title = Обновяване е в процес на изпълнение
 update-in-progress-message = Желаете ли { -brand-short-name } да продължи с обновяването?
