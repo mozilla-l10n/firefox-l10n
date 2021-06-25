@@ -267,11 +267,13 @@ cfr-whatsnew-media-keys-button = Научете как
 
 ## What's new: Better bookmarking
 
+cfr-whatsnew-bookmarking-header = По-добри отметки
 
 ## What's new: Cross-site cookie tracking
 
 
 ## Full Video Support CFR message
 
+cfr-doorhanger-video-support-header = Обновете { -brand-short-name } за възпроизвеждане на видео
 cfr-doorhanger-video-support-primary-button = Обновяване
     .accesskey = б

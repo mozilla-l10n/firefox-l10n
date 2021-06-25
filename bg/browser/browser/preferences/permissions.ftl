@@ -18,6 +18,12 @@ permissions-session =
 permissions-allow =
     .label = Разрешаване
     .accesskey = Р
+permissions-button-off =
+    .label = Изключване
+    .accesskey = з
+permissions-button-off-temporarily =
+    .label = Временно изключване
+    .accesskey = з
 permissions-site-name =
     .label = Страница
 permissions-status =
@@ -41,23 +47,27 @@ permissions-autoplay-menu = Стандартно за всички страни�
 permissions-searchbox =
     .placeholder = Търсене на страница
 permissions-capabilities-autoplay-allow =
-    .label = Разрешаване на аудио и видео
+    .label = Разрешено и видео и звук
 permissions-capabilities-autoplay-block =
     .label = Без звук
 permissions-capabilities-autoplay-blockall =
     .label = Без звук и видео
 permissions-capabilities-allow =
-    .label = Разрешаване
+    .label = Разрешено
 permissions-capabilities-block =
-    .label = Забраняване
+    .label = Забранено
 permissions-capabilities-prompt =
     .label = Винаги да пита
 permissions-capabilities-listitem-allow =
-    .value = Разрешаване
+    .value = Разрешено
 permissions-capabilities-listitem-block =
-    .value = Забраняване
+    .value = Забранено
 permissions-capabilities-listitem-allow-session =
-    .value = Разрешаване за сесията
+    .value = Разрешено за сесия
+permissions-capabilities-listitem-off =
+    .value = Изключено
+permissions-capabilities-listitem-off-temporarily =
+    .value = Временно изключено
 
 ## Invalid Hostname Dialog
 
@@ -77,6 +87,12 @@ permissions-exceptions-cookie-window =
     .title = Изключения – Бисквитки и данни на страници
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = Може да укажете на кои страници винаги е разрешено или забранено да използват бисквитки и данни на страници. Въведете точния адрес на страницата, която искате да настроите и изберете „Забраняване“, „Разрешаване за сесията“ или „Разрешаване“.
+
+## Exceptions - HTTPS-Only Mode
+
+permissions-exceptions-https-only-window =
+    .title = Изключения – Режим само HTTPS
+    .style = { permissions-window.style }
 
 ## Exceptions - Pop-ups
 
