@@ -100,3 +100,9 @@ managed-bookmarks =
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = Isteuliad
+# This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
+other-bookmarks-folder =
+    .label = Sinedoù all
+places-manage-bookmarks =
+    .label = Merañ ar sinedoù
+    .accesskey = M
