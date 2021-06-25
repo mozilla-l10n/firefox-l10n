@@ -186,7 +186,7 @@ about-debugging-browser-version-too-old-fennec = Iste version de Firefox non pot
 # { $localID } is the build ID of the current Firefox instance (same format)
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 # { $localVersion } is the version of your current browser (same format)
-about-debugging-browser-version-too-recent = Le navigator connexe es plus recente ({ $runtimeVersion }, buildID { $runtimeID }) que tu { -brand-shorter-name } ({ $localVersion }, buildID { $localID }). Isto es un installation non supportate e pote causar faltas in DevTools. Per favor actualisa Firefox. <a>Resolution de problemas</a>
+about-debugging-browser-version-too-recent = Le navigator connectite es plus recente ({ $runtimeVersion }, buildID { $runtimeID }) que tu { -brand-shorter-name } ({ $localVersion }, buildID { $localID }). Isto es un installation non supportate e pote causar faltas in DevTools. Per favor actualisa Firefox. <a>Resolution de problemas</a>
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
