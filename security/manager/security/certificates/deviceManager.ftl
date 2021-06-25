@@ -27,14 +27,14 @@ devmgr-button-load =
     .label = Учитај
     .accesskey = ч
 devmgr-button-unload =
-    .label = Уклони
-    .accesskey = к
+    .label = Избаци
+    .accesskey = И
 devmgr-button-enable-fips =
     .label = Омогући FIPS
-    .accesskey = г
+    .accesskey = м
 devmgr-button-disable-fips =
     .label = Онемогући FIPS
-    .accesskey = г
+    .accesskey = н
 
 ## Strings used for load device
 
