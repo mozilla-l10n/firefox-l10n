@@ -13,8 +13,8 @@ permissions-block =
     .label = Блокирај
     .accesskey = Б
 permissions-session =
-    .label = Дозволи за ову сесију
-    .accesskey = с
+    .label = Дозволи док траје сесија
+    .accesskey = о
 permissions-allow =
     .label = Дозволи
     .accesskey = Д
@@ -63,7 +63,7 @@ permissions-capabilities-listitem-allow =
 permissions-capabilities-listitem-block =
     .value = Блокирај
 permissions-capabilities-listitem-allow-session =
-    .value = Дозволи за ову сесију
+    .value = Дозволи док траје сесија
 permissions-capabilities-listitem-off =
     .value = Искључено
 permissions-capabilities-listitem-off-temporarily =
@@ -86,7 +86,7 @@ permissions-exceptions-etp-desc = Искључили сте заштиту на 
 permissions-exceptions-cookie-window =
     .title = Изузеци – колачићи и подаци о сајтовима
     .style = { permissions-window.style }
-permissions-exceptions-cookie-desc = Можете да наведете веб-сајтове који смеју да користе колачиће и податке сајтова а који не. Унесите тачну адресу сајта и кликните на „Блокирај”, „Дозволи за сесију” или „Дозволи”.
+permissions-exceptions-cookie-desc = Овде можете да наведете којим веб-сајтовима је дозвољено или забрањено да користе колачиће и податке о сајтовима. Унесите адресу сајта и кликните на „Блокирај”, „Дозволи док траје сесија” или „Дозволи”.
 
 ## Exceptions - HTTPS-Only Mode
 
