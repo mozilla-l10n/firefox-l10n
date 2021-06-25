@@ -7,7 +7,7 @@ permissions-window =
     .style = width: 46em
 permissions-close-key =
     .key = w
-permissions-address = Адреса веб-сајта
+permissions-address = Адреса веб-сајта:
     .accesskey = А
 permissions-block =
     .label = Блокирај
@@ -29,10 +29,10 @@ permissions-site-name =
 permissions-status =
     .label = Статус
 permissions-remove =
-    .label = Уклони веб-сајт
+    .label = Уклони
     .accesskey = У
 permissions-remove-all =
-    .label = Уклони све веб-сајтове
+    .label = Уклони све
     .accesskey = с
 permissions-button-cancel =
     .label = Откажи
@@ -45,7 +45,7 @@ permission-dialog =
     .buttonaccesskeyaccept = С
 permissions-autoplay-menu = Подразумевано за све веб-сајтове:
 permissions-searchbox =
-    .placeholder = Претражите веб-сајт
+    .placeholder = Претражите
 permissions-capabilities-autoplay-allow =
     .label = Дозволи звук и видео
 permissions-capabilities-autoplay-block =
@@ -130,7 +130,7 @@ permissions-site-notification-window =
 permissions-site-notification-desc = Следећи веб-сајтови су затражили дозволу за слање обавештења. Можете да подесите којим веб-сајтовима је дозвољено да вам шаљу обавештења, као и да блокирате нове захтеве.
 permissions-site-notification-disable-label =
     .label = Блокирај нове захтеве за слање обавештења
-permissions-site-notification-disable-desc = Ово ће спречити све веб сајтове који се не налазе на листи изнад да захтевају дозволу за слање обавештења. Блокирање обавештења може лоше утицати на неке веб сајтове.
+permissions-site-notification-disable-desc = Овим ћете онемогућити свим веб-сајтовима ван листе да захтевају дозволу за слање обавештења. Блокирањем обавештења неке функције веб-сајтова могу да престану с радом.
 
 ## Site Permissions - Location
 
@@ -140,7 +140,7 @@ permissions-site-location-window =
 permissions-site-location-desc = Следећи веб-сајтови су затражили дозволу за приступ локацији. Можете да подесите којим веб-сајтовима је дозвољен приступ локацији, као и да блокирате нове захтеве.
 permissions-site-location-disable-label =
     .label = Блокирај нове захтеве за приступ локацији
-permissions-site-location-disable-desc = Ово ће спречити све веб сајтове који се не налазе на листи изнад да захтевају приступ вашој локацији. Блокирање приступа вашој локацији може лоше утицати на неке веб сајтове.
+permissions-site-location-disable-desc = Овим ћете онемогућити свим веб-сајтовима ван листе да захтевају дозволу за приступ локацији. Блокирањем приступа локацији неке функције веб-сајтова могу да престану с радом.
 
 ## Site Permissions - Virtual Reality
 
@@ -150,7 +150,7 @@ permissions-site-xr-window =
 permissions-site-xr-desc = Следеће странице затражиле су приступ вашим уређајима за виртуелну стварност. Можете одредити којим страницама је дозвољен приступ вашим уређајима за виртуелну стварност. Можете и блокирати нове захтеве за приступ вашим уређајима за виртуелну стварност.
 permissions-site-xr-disable-label =
     .label = Блокирајте нове захтеве за приступ вашим уређајима за виртуелну стварност
-permissions-site-xr-disable-desc = Ово ће спречити све странице које нису горе наведене да затраже дозволу за приступ вашим уређајима за виртуалну стварност. Блокирање приступа вашим уређајима за виртуелну стварност може ограничити функционалност неких страница.
+permissions-site-xr-disable-desc = Овим ћете онемогућити свим веб-сајтовима ван листе да захтевају дозволу за приступ уређајима виртуелне реалности. Блокирањем приступа уређајима виртуелне реалности неке функције веб-сајтова могу да престану с радом.
 
 ## Site Permissions - Camera
 
@@ -160,7 +160,7 @@ permissions-site-camera-window =
 permissions-site-camera-desc = Следећи веб-сајтови су затражили дозволу за приступ камери. Можете да подесите којим веб-сајтовима је дозвољен приступ камери, као и да блокирате нове захтеве.
 permissions-site-camera-disable-label =
     .label = Блокирај нове захтеве за приступ вашој камери
-permissions-site-camera-disable-desc = Ово ће спречити све веб сајтове који се не налазе на листи изнад да захтевају приступ вашој камери. Блокирање приступа вашој камери може лоше утицати на неке веб сајтове.
+permissions-site-camera-disable-desc = Овим ћете онемогућити свим веб-сајтовима ван листе да захтевају дозволу за приступ камери. Блокирањем приступа камери неке функције веб-сајтова могу да престану с радом.
 
 ## Site Permissions - Microphone
 
@@ -170,4 +170,4 @@ permissions-site-microphone-window =
 permissions-site-microphone-desc = Следећи веб-сајтови су затражили дозволу за приступ микрофону. Можете да подесите којим веб-сајтовима је дозвољен приступ микрофону, као и да блокирате нове захтеве.
 permissions-site-microphone-disable-label =
     .label = Блокирај нове захтеве за приступ вашем микрофону
-permissions-site-microphone-disable-desc = Ово ће спречити све веб сајтове који се не налазе на листи изнад да захтевају приступ вашем микрофону. Блокирање приступа вашем микрофону може лоше утицати на неке веб сајтове.
+permissions-site-microphone-disable-desc = Овим ћете онемогућити свим веб-сајтовима ван листе да захтевају дозволу за приступ микрофону. Блокирањем приступа микрофону неке функције веб-сајтова могу да престану с радом.
