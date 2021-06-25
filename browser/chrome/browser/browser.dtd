@@ -28,13 +28,13 @@ can reach it easily. -->
 <!ENTITY taskManagerCmd.label "Менаџер задатака">
 
 <!ENTITY menubarCmd.label "Трака са менијем">
-<!ENTITY menubarCmd.accesskey "Т">
+<!ENTITY menubarCmd.accesskey "м">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY navbar.accessibleLabel "Навигација">
 <!ENTITY personalbarCmd.label "Трака са обележивачима">
-<!ENTITY personalbarCmd.accesskey "з">
+<!ENTITY personalbarCmd.accesskey "б">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
@@ -49,7 +49,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
-<!ENTITY fxa.menu.syncSettings2.label "Подешавања &syncBrand.shortName.label;-а">
+<!ENTITY fxa.menu.syncSettings2.label "Подешавања синхронизације">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Повежи други уређај…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
@@ -57,14 +57,14 @@ this container is a toolbar. This avoids double-speaking. -->
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signin.label "Пријавите се у &brandProductName;">
-<!ENTITY fxa.menu.turnOnSync.label "Укључите &syncBrand.shortName.label;">
-<!ENTITY fxa.menu.firefoxServices.label "&brandProductName; услуге">
+<!ENTITY fxa.menu.turnOnSync.label "Укључите синхронизацију">
+<!ENTITY fxa.menu.firefoxServices.label "Услуге програма &brandProductName;">
 <!ENTITY fxa.menu.account.label "Налог">
 <!ENTITY fxa.menu.settings.label "Подешавања">
 <!ENTITY fxa.menu.accountSettings.label "Подешавања налога">
 <!ENTITY fxa.menu.manageAccount2.label "Управљај налогом">
 <!ENTITY fxa.menu.signOut.label "Одјави ме…">
-<!ENTITY fxa.menu.setupSync.label "Поставите &syncBrand.shortName.label;…">
+<!ENTITY fxa.menu.setupSync.label "Подеси синхронизацију…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -76,8 +76,8 @@ this container is a toolbar. This avoids double-speaking. -->
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 <!ENTITY fullscreenWarning.beforeDomain.label "">
-<!ENTITY fullscreenWarning.afterDomain.label "је сада у приказу преко целог екрана">
-<!ENTITY fullscreenWarning.generic.label "Овај документ се приказује преко целог екрана">
+<!ENTITY fullscreenWarning.afterDomain.label "је сада у режиму целог екрана">
+<!ENTITY fullscreenWarning.generic.label "Овај документ је сада у режиму целог екрана">
 
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
@@ -91,7 +91,7 @@ this container is a toolbar. This avoids double-speaking. -->
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 <!ENTITY pointerlockWarning.beforeDomain.label "">
-<!ENTITY pointerlockWarning.afterDomain.label "управља са вашим показивачем. Притисните Esc да преузмете контролу.">
+<!ENTITY pointerlockWarning.afterDomain.label "управља курсором. Да бисте преузели контролу, притисните тастер Esc.">
 <!ENTITY pointerlockWarning.generic.label "Овај документ управља са вашим показивачем. Притисните Esc да преузмете контролу.">
 
 <!ENTITY showAllBookmarks2.label "Прикажи све обележиваче">
@@ -266,7 +266,7 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY uiTour.infoPanel.close "Затвори">
 
-<!ENTITY panicButton.thankyou.msg1                "Недавна историја је обрисана.">
+<!ENTITY panicButton.thankyou.msg1                "Обрисали сте недавну историју.">
 <!ENTITY panicButton.thankyou.msg2                "Безбедно прегледање!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Хвала!">
 
