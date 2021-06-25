@@ -307,11 +307,11 @@ applications-action-save =
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
-    .label = Χρήση εφαρμογής "{ $app-name }"
+    .label = Χρήση { $app-name }
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
-    .label = Χρήση εφαρμογής "{ $app-name }" (προεπιλογή)
+    .label = Χρήση { $app-name } (προεπιλογή)
 applications-use-os-default =
     .label =
         { PLATFORM() ->
