@@ -85,6 +85,7 @@ login-item-new-login-title = Нова регистрация
 login-item-edit-button = Променяне
 about-logins-login-item-remove-button = Премахване
 login-item-origin-label = Адрес на страницата
+login-item-tooltip-message = Уверете се, че съвпада с точния адрес на страницата, в която влизате.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Потребителско име
@@ -114,7 +115,7 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-edit-login-os-auth-dialog-message-macosx = промени данни за вход
+about-logins-edit-login-os-auth-dialog-message-macosx = прави промени в данни за вход
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = разкрие запазена парола
@@ -269,6 +270,10 @@ about-logins-import-dialog-items-modified =
     { $count ->
        *[other] <span>Обновени регистрации:</span> <span data-l10n-name="count">{ $count }</span>
     }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+       *[other] <span>Намерени дублиращи се регистрации:</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(не са внесени)</span>
+    }
 about-logins-import-dialog-items-error =
     { $count ->
         [one] <span>Грешки:</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(не внесена)</span>
@@ -289,11 +294,14 @@ about-logins-import-dialog-error-cancel = Отказ
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = Ред { $number }
+about-logins-import-report-row-description-error = Грешка: Липсващо поле
 
 ##
 ## Variables:
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
+about-logins-import-report-row-description-error-multiple-values = Грешка: Няколко стойности за { $field }
+about-logins-import-report-row-description-error-missing-field = Грешка: Липсва { $field }
 
 ##
 ## Variables:
@@ -302,3 +310,4 @@ about-logins-import-report-row-index = Ред { $number }
 
 ## Logins import report page
 
+about-logins-import-report-page-title = Обобщен отчет за внасяне
