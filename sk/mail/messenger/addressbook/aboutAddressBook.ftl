@@ -12,6 +12,10 @@ about-addressbook-toolbar-new-carddav-address-book =
     .label = Nový adresár typu CardDAV
 about-addressbook-toolbar-new-ldap-address-book =
     .label = Nový adresár LDAP
+about-addressbook-toolbar-add-carddav-address-book =
+    .label = Pridať adresár typu CardDAV
+about-addressbook-toolbar-add-ldap-address-book =
+    .label = Pridať adresár LDAP
 about-addressbook-toolbar-new-contact =
     .label = Nový kontakt
 about-addressbook-toolbar-new-list =
@@ -28,6 +32,16 @@ about-addressbook-books-context-print =
     .label = Tlačiť…
 about-addressbook-books-context-delete =
     .label = Odstrániť
+about-addressbook-books-context-remove =
+    .label = Odstrániť
+about-addressbook-confirm-delete-book-title = Odstránenie adresára
+# Variables:
+# $name (String) - Name of the address book to be deleted.
+about-addressbook-confirm-delete-book = Naozaj chcete odstrániť adresár { $name } a všetky jeho kontakty?
+about-addressbook-confirm-remove-remote-book-title = Odstránenie adresára
+# Variables:
+# $name (String) - Name of the remote address book to be removed.
+about-addressbook-confirm-remove-remote-book = Naozaj chcete odstrániť adresár { $name }?
 
 ## Cards
 
@@ -53,6 +67,27 @@ about-addressbook-sort-email-ascending =
     .label = Usporiadať podľa e-mailovej adresy (A > Z)
 about-addressbook-sort-email-descending =
     .label = Usporiadať podľa e-mailovej adresy (Z > A)
+about-addressbook-confirm-delete-mixed-title = Odstránenie kontaktov a zoznamov
+# Variables:
+# $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
+about-addressbook-confirm-delete-mixed = Naozaj chcete odstrániť tieto kontakty a zoznamy (celkom { $count })?
+# Variables:
+# $count (Number) - The number of lists to be deleted.
+about-addressbook-confirm-delete-lists-title =
+    { $count ->
+        [one] Odstrániť zoznam
+        [few] Odstrániť zoznamy
+       *[other] Odstrániť zoznamy
+    }
+# Variables:
+# $count (Number) - The number of lists to be deleted.
+# $name (String) - The name of the list to be deleted, if $count is 1.
+about-addressbook-confirm-delete-lists =
+    { $count ->
+        [one] Naozaj chcete odstrániť zoznam { $name }?
+        [few] Naozaj chcete odstrániť tieto { $count } zoznamy?
+       *[other] Naozaj chcete odstrániť týchto { $count } zoznamov?
+    }
 
 ## Details
 
