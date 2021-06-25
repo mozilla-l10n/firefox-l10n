@@ -437,6 +437,8 @@ popup-select-microphone-device =
     .accesskey = M
 popup-select-microphone-icon =
     .tooltiptext = Micròfon
+popup-select-speaker-icon =
+    .tooltiptext = Altaveus
 popup-all-windows-shared = Es compartiran totes les finestres visibles de la pantalla.
 popup-screen-sharing-not-now =
     .label = Ara no
@@ -682,6 +684,12 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = Desa al { -pocket-brand-name }
     .tooltiptext = Desa al { -pocket-brand-name }
+
+## Repair text encoding toolbar button
+
+repair-text-encoding-button =
+    .label = Repara la codificació del text
+    .tooltiptext = Detecta la codificació del text correcta a partir del contingut de la pàgina
 
 ## Customize Toolbar Buttons
 
