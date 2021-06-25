@@ -174,6 +174,16 @@ onboarding-multistage-theme-label-alpenglow = Firefox الپینگلو
 
 ## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 
+# "Hero Text" displayed on left side of welcome screen.
+# The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
+# It also signals the passion users bring to Firefox, how they use
+# Firefox to pursue those passions, as well as the boldness in their
+# choice to use Firefox over a larger competitor browser.
+# An alternative title for localization is: "It starts here".
+# This text can be formatted to span multiple lines as needed.
+mr1-welcome-screen-hero-text = آگ یہاں سے شروع ہوتی ہے
+# This button will open system settings to turn on prefers-reduced-motion
+mr1-onboarding-reduce-motion-button-label = متحرک تصاویر بند کردیں
 
 ## Title and primary button strings differ between platforms as they
 ## match the OS' application context menu item action where Windows uses "pin"
@@ -203,6 +213,12 @@ mr1-onboarding-default-primary-button-label = طےشدہ براؤزر بنائی
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
 mr1-onboarding-import-header = یہ سب اپنے ساتھ لائیں
+# The primary import button label will depend on whether we can detect which browser was used to download Firefox.
+# Variables:
+#   $previous (Str) - Previous browser name, such as Edge, Chrome
+mr1-onboarding-import-primary-button-label-attribution = { $previous } سے درآمد کریں
+# This string will be used in cases where we can't detect the previous browser name.
+mr1-onboarding-import-primary-button-label-no-attribution = پچھلے براؤزر سے درآمد کریں
 mr1-onboarding-import-secondary-button-label = ابھی نہیں
 mr1-onboarding-theme-header = اسے اپنا بنائیں
 mr1-onboarding-theme-primary-button-label = تھیم کو محفوظ کریں

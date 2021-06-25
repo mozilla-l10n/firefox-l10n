@@ -10,12 +10,6 @@ printui-page-range-custom = مخصوص
 printui-page-range-label = صفحات
 printui-page-range-picker =
     .aria-label = صفحہ کی حد منتخب کریں
-# This label is displayed before the first input field indicating
-# the start of the range to print.
-printui-range-start = منجانب:
-# This label is displayed between the input fields indicating
-# the start and end page of the range to print.
-printui-range-end = بنام
 # Section title for the number of copies to print
 printui-copies-label = نقول
 printui-orientation = سمت بندی
@@ -29,11 +23,11 @@ printui-less-settings = کم ترتیبات
 printui-paper-size-label = کاغذ کا ماپ:
 # Section title (noun) for the print scaling options
 printui-scale = اسکیل
+printui-scale-fit-to-page-width = صفحے کی چوڑائی کے حساب سے فٹ کریں
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = اسکیل
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = دو طرفہ چھپائی
-printui-duplex-checkbox = دونوں طرف چھاپیں
 # Section title for miscellaneous print options
 printui-options = اختیارات
 printui-backgrounds-checkbox = پس منظر چھاپیں
@@ -55,6 +49,7 @@ printui-close-button = بند کریں
 # the print preview has focus.
 printui-preview-label =
     .aria-label = چھپائی کا  پیش نظارہ
+printui-pages-per-sheet = صفحات فی شیٹ
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
