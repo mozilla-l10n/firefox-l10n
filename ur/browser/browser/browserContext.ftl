@@ -338,6 +338,9 @@ main-context-menu-use-saved-password =
 
 ##
 
+main-context-menu-manage-logins2 =
+    .label = لاگ ان منظم کریں
+    .accesskey = M
 main-context-menu-keyword =
     .label = اس تلاش کے لیے کلیدی لفظ ڈالیں…
     .accesskey = K
