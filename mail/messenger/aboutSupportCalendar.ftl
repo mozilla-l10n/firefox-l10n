@@ -15,6 +15,7 @@ calendars-table-cache-enabled = 已启用缓存
 calendars-table-imip-identity = iMIP 身份
 calendars-table-imip-identity-disabled = 已禁用 iMIP
 calendars-table-imip-identity-account = iMIP 账户
+calendars-table-forceemailscheduling = 强制邮件安排
 calendars-table-capabilities-attachments-supported = 支持附件
 calendars-table-capabilities-categories-maxcount = 最大分类数
 calendars-table-capabilities-privacy-supported = 支持隐私状态
