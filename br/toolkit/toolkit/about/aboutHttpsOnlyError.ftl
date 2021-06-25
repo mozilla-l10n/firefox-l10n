@@ -9,6 +9,15 @@ about-httpsonly-insecure-explanation-unavailable = Merdeiñ a rit er mod HTTPS n
 about-httpsonly-insecure-explanation-reasons = A-hervez, al lec'hienn ne gemer ket e karg an HTTPS met un tager a c'hall ivez stankañ ar stumm HTTPS.
 about-httpsonly-insecure-explanation-exception = Ha pa vez izel an arvar, ma tibabit gweladenniñ stumm HTTP al lec'hienn e vefe gwelloc'h chom hep skrivañ titouroù pouezus evel gerioù-tremen, chomlec'hioù mail pe titouroù kartennoù kred.
 about-httpsonly-button-make-exception = Asantiñ an arvar ha kenderc'hel betek al lec'hienn
+about-httpsonly-title-alert = Kemenn ar mod HTTPS nemetken
+about-httpsonly-title-connection-not-available = Kennaskañ suraet dihegerz
+# Variables:
+#   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
+about-httpsonly-explanation-unavailable2 = Gweredekaet ho peus ar mod HTTPS nemetken koulskoude n'eus stumm HTTPS ebet deus <em>{ $websiteUrl }</em>.
+about-httpsonly-explanation-question = Petra a c'hallfe bezañ abeg an dra-se ?
+about-httpsonly-explanation-nosupport = A-hervez, al lec'hienn ne gemer ket e karg an HTTPS.
+about-httpsonly-explanation-risk = Marteze e c'hallfe un tager kemer perzh. Ma tibabit gweladenniñ al lec'hienn e vefe gwelloc'h chom hep skrivañ titouroù pouezus evel gerioù-tremen, chomlec'hioù mail pe titouroù kartennoù kred.
+about-httpsonly-explanation-continue = Ma kendalc'hit e vo diweredekaet evit ur prantad ar mod HTTPS nemetken evit al lec'hienn-mañ.
 about-httpsonly-button-go-back = Distreiñ
 about-httpsonly-link-learn-more = Gouzout hiroc'h…
 
