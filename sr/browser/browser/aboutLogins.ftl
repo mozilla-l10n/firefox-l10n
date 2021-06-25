@@ -76,12 +76,12 @@ login-intro-heading = Тражите сачуване лозинке? Подес
 about-logins-login-intro-heading-logged-out2 = Тражите сачуване лозинке? Увезите их или укључите синхронизацију.
 about-logins-login-intro-heading-logged-in = Синхронизоване пријаве нису пронађене.
 login-intro-description =
-    Ако сте сачували пријаве у { -brand-product-name.gender ->
+    Ако сте сачували лозинке у { -brand-product-name.gender ->
         [masculine] { -brand-product-name(case: "loc") }
         [feminine] { -brand-product-name(case: "loc") }
         [neuter] { -brand-product-name(case: "loc") }
        *[other] програму { -brand-product-name }
-    }на другом уређају, ево како их можете преузети овде:
+    } на другом уређају, ево како их можете преузети:
 login-intro-instruction-fxa = Региструјте се или се пријавите на { -fxaccount-brand-name(case: "acc") } на уређају на ком сте сачували лозинке
 login-intro-instruction-fxa-settings = Проверите да ли сте означили поље „Лозинке” у подешавањима { -sync-brand-short-name(case: "gen") }
 about-logins-intro-instruction-help = Посетите <a data-l10n-name="help-link">страницу подршке за { -lockwise-brand-short-name }</a>

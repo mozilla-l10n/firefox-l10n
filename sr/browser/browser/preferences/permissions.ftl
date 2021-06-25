@@ -118,7 +118,7 @@ permissions-exceptions-addons-desc = Овде можете да наведете
 ## Site Permissions - Autoplay
 
 permissions-site-autoplay-window =
-    .title = Подешавања – аутоматска репродукција
+    .title = Аутоматска репродукција – подешавања
     .style = { permissions-window.style }
 permissions-site-autoplay-desc = Овде можете да управљате сајтовима за које не важе подразумевана подешавања аутоматске репродукције.
 
