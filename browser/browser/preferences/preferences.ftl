@@ -1004,6 +1004,7 @@ content-blocking-all-third-party-cookies = Всички странични би�
 content-blocking-cryptominers = Добиване на криптовалути
 content-blocking-fingerprinters = Снемане на цифров отпечатък
 content-blocking-warning-title = Внимание!
+content-blocking-and-isolating-etp-warning-description = Спирането на проследяване и изолирането на бисквитки може да се повлияе на възможностите на някои страници. Презаредете страница с проследяване, за да зареди цялото съдържание.
 content-blocking-warning-learn-how = Научете как
 content-blocking-reload-description = За да бъдат приложени промените, разделите трябва да бъдат презаредени.
 content-blocking-reload-tabs-button =
@@ -1048,6 +1049,9 @@ permissions-location-settings =
     .label = Настройки…
     .accesskey = с
 permissions-xr = Виртуална реалност
+permissions-xr-settings =
+    .label = Настройки…
+    .accesskey = с
 permissions-camera = Камера
 permissions-camera-settings =
     .label = Настройки…
@@ -1170,9 +1174,14 @@ space-alert-under-5gb-ok-button =
     .label = Добре
     .accesskey = д
 space-alert-under-5gb-message = Дисковото пространство достъпно за { -brand-short-name } е на свършване. Съдържанието на страницата може да не се показва правилно. За да оптимално използване на дисковото пространство при сърфиране посетете „Научете повече“.
+space-alert-over-5gb-settings-button =
+    .label = Към Настройки
+    .accesskey = с
 
 ## Privacy Section - HTTPS-Only
 
+httpsonly-header = Режим „само HTTPS“
+httpsonly-learn-more = Научете повече
 
 ## The following strings are used in the Download section of settings
 
