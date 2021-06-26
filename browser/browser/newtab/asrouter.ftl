@@ -317,3 +317,10 @@ cfr-whatsnew-bookmarking-body = Dabar dar lengviau sekti savo mėgstamas svetain
 
 cfr-whatsnew-cross-site-tracking-header = Išsami apsauga nuo tarp svetainių veikiančių slapukų sekimo
 cfr-whatsnew-cross-site-tracking-body = Dabar galite naudotis geresne apsauga nuo slapukų sekimo. „{ -brand-short-name }“ gali izoliuoti jūsų veiklą ir duomenis naršomoje svetainėje, tad naršyklėje esanti informacija nepasiekia kitų svetainių.
+
+## Full Video Support CFR message
+
+cfr-doorhanger-video-support-body = Šios svetainės vaizdo įrašai gali būti rodomi netinkamai su šia „{ -brand-short-name }“ versija. Norėdami gauti geriausią palaikymą, atnaujinkite „{ -brand-short-name }“.
+cfr-doorhanger-video-support-header = Atnaujinkite „{ -brand-short-name }“, norėdami paleisti vaizdo įrašą
+cfr-doorhanger-video-support-primary-button = Atnaujinti dabar
+    .accesskey = A
