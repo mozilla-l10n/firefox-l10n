@@ -28,6 +28,7 @@ upgrade-dialog-pin-secondary-button = ابھی نہیں
 
 ## Default browser screen
 
+upgrade-dialog-default-primary-button = پہلے سے طے شدہ براؤزر کے طور پر سیٹ کریں
 upgrade-dialog-default-primary-button-2 = طےشدہ براؤزر بنائیں
 upgrade-dialog-default-secondary-button = ابھی نہیں
 

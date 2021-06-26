@@ -32,6 +32,9 @@ places-new-folder =
 places-new-separator =
     .label = نیا جداکار
     .accesskey = ج
+places-open-in-window =
+    .label = نئی ونڈوں میں کھولیں
+    .accesskey = N
 places-add-bookmark =
     .label = بک مارک شامل کریں…
     .accesskey = B
@@ -66,6 +69,24 @@ places-sortby-name =
 places-properties =
     .label = خواص
     .accesskey = خ
+# places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
+places-edit-bookmark =
+    .label = بُک مارک تدوین کریں
+    .accesskey = i
+places-edit-generic =
+    .label = تدوین کریں…
+    .accesskey = i
+places-edit-folder =
+    .label = فولڈر کا نام تبدیل کریں…
+    .accesskey = e
+places-remove-folder =
+    .label =
+        { $count ->
+            [1] فولڈر کو ہٹا دیں
+            [one] فولڈر کو ہٹا دیں
+           *[other] فولڈرز کو ہٹا دیں
+        }
+    .accesskey = m
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = بک مارکس منظم کریں
