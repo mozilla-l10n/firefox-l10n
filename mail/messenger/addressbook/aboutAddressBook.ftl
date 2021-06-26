@@ -69,6 +69,9 @@ about-addressbook-sort-email-descending =
     .label = Сортировать по адресу эл. почты (от Z до A)
 about-addressbook-confirm-delete-mixed-title = Удаление контактов и списков
 # Variables:
+# $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
+about-addressbook-confirm-delete-mixed = Вы действительно хотите удалить эти { $count } контакта(ов) и списка(ов)?
+# Variables:
 # $count (Number) - The number of lists to be deleted.
 about-addressbook-confirm-delete-lists-title =
     { $count ->
@@ -79,6 +82,14 @@ about-addressbook-confirm-delete-lists-title =
 # Variables:
 # $count (Number) - The number of contacts to be removed.
 about-addressbook-confirm-remove-contacts-title =
+    { $count ->
+        [one] Удаление контакта
+        [few] Удаление контактов
+       *[many] Удаление контактов
+    }
+# Variables:
+# $count (Number) - The number of contacts to be deleted.
+about-addressbook-confirm-delete-contacts-title =
     { $count ->
         [one] Удаление контакта
         [few] Удаление контактов
