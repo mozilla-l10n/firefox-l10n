@@ -289,6 +289,8 @@ openpgp-selection-status =
        *[many] Ваша текущая конфигурация использует идентификатор ключа <b>{ $key }</b>
     }
 #   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status-have-key = Ваша текущая конфигурация использует идентификатор ключа <b>{ $key }</b>
+#   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-error = Ваша текущая конфигурация использует ключ <b>{ $key }</b>, срок которого истёк.
 openpgp-add-key-button =
     .label = Добавить ключ…
@@ -314,6 +316,10 @@ openpgp-key-expires-image =
 openpgp-radio-key-expired = Срок действия истёк: { $date }
 openpgp-key-expired-image =
     .tooltiptext = Срок действия ключа истёк
+openpgp-key-expires-within-6-months-icon =
+    .title = Ключ истекает менее чем через 6 месяцев
+openpgp-key-has-expired-icon =
+    .title = Срок действия ключа истёк
 openpgp-key-expand-section =
     .tooltiptext = Дополнительная информация
 openpgp-key-revoke-title = Отозвать ключ
@@ -461,18 +467,13 @@ openpgp-export-secret-fail = <b>Не удалось экспортировать
 # Strings in keyObj.jsm
 key-ring-pub-key-revoked = Ключ { $userId } (идентификатор ключа { $keyId }) отозван.
 key-ring-pub-key-expired = Срок действия ключа { $userId } (идентификатор ключа { $keyId }) истёк.
-key-ring-key-disabled = Ключ { $userId } (идентификатор ключа { $keyId }) отключён; его нельзя использовать.
-key-ring-key-invalid = Ключ { $userId } (идентификатор ключа { $keyId }) недействителен. Пожалуйста, попробуйте произвести правильную проверку.
-key-ring-key-not-trusted = К ключу { $userId } (идентификатор ключа { $keyId }) недостаточно доверия. Пожалуйста, установите уровень доверия вашего ключа в положение «окончательное», чтобы использовать его для подписи.
 key-ring-no-secret-key = У вас, судя по всему, нет секретного ключа для { $userId } (идентификатор ключа { $keyId }) в вашем наборе ключей; вы не сможете использовать ключ для подписи.
 key-ring-pub-key-not-for-signing = Ключ { $userId } (идентификатор ключа { $keyId }) нельзя использовать для подписи.
 key-ring-pub-key-not-for-encryption = Ключ { $userId } (идентификатор ключа { $keyId }) нельзя использовать для шифрования.
 key-ring-sign-sub-keys-revoked = Все подключи ключа для подписи { $userId } (идентификатор ключа { $keyId }) отозваны.
 key-ring-sign-sub-keys-expired = Срок действия всех подключей ключа для подписи { $userId } (идентификатор ключа { $keyId }) истёк.
-key-ring-sign-sub-keys-unusable = Все подключи ключа для подписи { $userId } (идентификатор ключа { $keyId }) отозваны, просрочены или непригодны для использования по иным причинам.
 key-ring-enc-sub-keys-revoked = Все подключи ключа для шифрования { $userId } (идентификатор ключа { $keyId }) отозваны.
 key-ring-enc-sub-keys-expired = Срок действия всех подключей ключа для шифрования { $userId } (идентификатор ключа { $keyId }) истёк.
-key-ring-enc-sub-keys-unusable = Все подключи ключа для шифрования { $userId } (идентификатор ключа { $keyId }) отозваны, просрочены или непригодны для использования по иным причинам.
 # Strings in gnupg-keylist.jsm
 keyring-photo = Фото
 user-att-photo = Атрибут пользователя (изображение JPEG)
