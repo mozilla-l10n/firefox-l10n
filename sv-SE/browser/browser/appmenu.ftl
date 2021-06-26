@@ -189,7 +189,7 @@ appmenu-help-not-deceptive =
 ## More Tools
 
 appmenu-customizetoolbar =
-    .label = Anpassa verktygsfältet…
+    .label = Anpassa verktygsfält…
 appmenu-taskmanager =
     .label = Aktivitetshanterare
 appmenu-developer-tools-subheader = Webbläsarverktyg
