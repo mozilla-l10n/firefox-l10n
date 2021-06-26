@@ -28,6 +28,7 @@ printui-scale-fit-to-page-width = صفحے کی چوڑائی کے حساب سے 
 printui-scale-pcent = اسکیل
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = دو طرفہ چھپائی
+printui-two-sided-printing-off = بند
 # Section title for miscellaneous print options
 printui-options = اختیارات
 printui-backgrounds-checkbox = پس منظر چھاپیں
