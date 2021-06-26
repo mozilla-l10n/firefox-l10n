@@ -18,3 +18,5 @@ webrtc-camera-button =
     .title = آپکا کیمرہ شیئر کیا جا رہا ہے۔ شیئرنگ کنٹرول کرنے کے لئے کلک کریں۔
 webrtc-camera-unmuted =
     .title = کیمرا بند کردیں
+webrtc-camera-muted =
+    .title = کیمرا چالو کریں
