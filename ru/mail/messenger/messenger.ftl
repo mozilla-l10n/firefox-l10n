@@ -12,11 +12,26 @@ unread-messages-os-tooltip =
     }
 about-rights-notification-text = { -brand-short-name } — это бесплатное программное обеспечение с открытым исходным кодом, созданное сообществом тысяч людей со всего мира.
 
+## Content tabs
+
+content-tab-page-loading-icon =
+    .alt = Страница загружается
+content-tab-security-high-icon =
+    .alt = Защищённое соединение
+content-tab-security-broken-icon =
+    .alt = Соединение не защищено
+
 ## Toolbar
 
 addons-and-themes-button =
     .label = Дополнения и темы
     .tooltip = Управление своими дополнениями
+addons-and-themes-toolbarbutton =
+    .label = Дополнения и темы
+    .tooltiptext = Управление своими дополнениями
+quick-filter-toolbarbutton =
+    .label = Быстрый фильтр
+    .tooltiptext = Фильтрация сообщений
 redirect-msg-button =
     .label = Перенаправить
     .tooltiptext = Перенаправить выбранное сообщение

@@ -12,6 +12,10 @@ about-addressbook-toolbar-new-carddav-address-book =
     .label = Новая адресная книга CardDAV
 about-addressbook-toolbar-new-ldap-address-book =
     .label = Новая адресная книга LDAP
+about-addressbook-toolbar-add-carddav-address-book =
+    .label = Добавить адресную книгу CardDAV
+about-addressbook-toolbar-add-ldap-address-book =
+    .label = Добавить адресную книгу LDAP
 about-addressbook-toolbar-new-contact =
     .label = Новый контакт
 about-addressbook-toolbar-new-list =
@@ -28,6 +32,16 @@ about-addressbook-books-context-print =
     .label = Печать…
 about-addressbook-books-context-delete =
     .label = Удалить
+about-addressbook-books-context-remove =
+    .label = Удалить
+about-addressbook-confirm-delete-book-title = Удаление адресной книги
+# Variables:
+# $name (String) - Name of the address book to be deleted.
+about-addressbook-confirm-delete-book = Вы действительно хотите удалить { $name } и все контакты в ней?
+about-addressbook-confirm-remove-remote-book-title = Удаление адресной книги
+# Variables:
+# $name (String) - Name of the remote address book to be removed.
+about-addressbook-confirm-remove-remote-book = Вы уверены, что хотите удалить { $name }?
 
 ## Cards
 
@@ -38,7 +52,7 @@ about-addressbook-search =
 about-addressbook-search-all =
     .placeholder = Поиск во всех адресных книгах
 about-addressbook-sort-button =
-    .title = Изменить порядок в списке
+    .title = Изменение порядка в списке
 about-addressbook-name-format-display =
     .label = Отображаемое имя
 about-addressbook-name-format-firstlast =
@@ -53,6 +67,23 @@ about-addressbook-sort-email-ascending =
     .label = Сортировать по адресу эл. почты (от A до Z)
 about-addressbook-sort-email-descending =
     .label = Сортировать по адресу эл. почты (от Z до A)
+about-addressbook-confirm-delete-mixed-title = Удаление контактов и списков
+# Variables:
+# $count (Number) - The number of lists to be deleted.
+about-addressbook-confirm-delete-lists-title =
+    { $count ->
+        [one] Удаление списка
+        [few] Удаление списков
+       *[many] Удаление списков
+    }
+# Variables:
+# $count (Number) - The number of contacts to be removed.
+about-addressbook-confirm-remove-contacts-title =
+    { $count ->
+        [one] Удаление контакта
+        [few] Удаление контактов
+       *[many] Удаление контактов
+    }
 
 ## Details
 
