@@ -43,3 +43,7 @@ pocket-panel-signup-tagline-story-two = Peržiūrėkite bet kokiame įrenginyje 
 
 pocket-panel-home-my-list = Mano sąrašas
 pocket-panel-home-welcome-back = Sveiki sugrįžę
+pocket-panel-home-paragraph = Naudodami „{ -pocket-brand-name }“ galite išsaugoti atrastas svetaines, straipsnius, vaizdo įrašus, tinklalaides, arba grįžti prie to, ką skaitėte.
+pocket-panel-home-explore-popular-topics = Naršyti populiarias temas
+pocket-panel-home-discover-more = Atrasti daugiau
+pocket-panel-home-explore-more = Naršyti
