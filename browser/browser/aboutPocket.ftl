@@ -15,6 +15,7 @@ pocket-panel-saved-error-generic = Bandant išsaugoti į „{ -pocket-brand-name
 pocket-panel-saved-error-tag-length = Gaires gali sudaryti iki 25 simbolių
 pocket-panel-saved-error-only-links = Išsaugoti galima tik nuorodas
 pocket-panel-saved-error-not-saved = Tinklalapis neišsaugotas
+pocket-panel-saved-error-no-internet = Norėdami saugoti į „{ -pocket-brand-name }“, turite būti prisijungę prie interneto. Prisijunkite prie interneto ir bandykite vėl.
 pocket-panel-saved-page-removed = Tinklalapis pašalintas
 pocket-panel-saved-page-saved = Išsaugota į „{ -pocket-brand-name }“
 pocket-panel-saved-processing-remove = Tinklalapis šalinamas…
@@ -40,3 +41,5 @@ pocket-panel-signup-tagline-story-two = Peržiūrėkite bet kokiame įrenginyje 
 
 ## about:pocket-home panel
 
+pocket-panel-home-my-list = Mano sąrašas
+pocket-panel-home-welcome-back = Sveiki sugrįžę
