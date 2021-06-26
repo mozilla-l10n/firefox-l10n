@@ -10,14 +10,13 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
-policy-AppAutoUpdate = Включва или изключва на автоматичното обновяване на приложението.
+policy-AppAutoUpdate = Включва или изключва автоматичното обновяване на приложението.
 policy-BlockAboutConfig = Забранява достъпа до страницата „about:config“.
 policy-BlockAboutProfiles = Забранява достъпа до страницата „about:profiles“.
 policy-BlockAboutSupport = Забранява достъпа до страницата „about:support“.
 policy-DisableFirefoxStudies = Забранява на { -brand-short-name } да извършва изследвания.
 policy-DisablePasswordReveal = В запазените регистрации паролите не могат да бъдат показвани.
 policy-DisablePrivateBrowsing = Изключва поверителното разглеждане.
-policy-DisableProfileRefresh = Деактивиране на бутона "Освежаване на { -brand-short-name }" в страницата about:support.
 policy-DisableTelemetry = Изключва телеметрията.
 policy-DNSOverHTTPS = Настройки на DNS през HTTPS.
 policy-InstallAddonsPermission = Разрешава на определени уебсайтове да инсталират добавки.

@@ -132,6 +132,8 @@ search-results-empty-message =
         [windows] Съжаляваме! В настройките няма резултати за „<span data-l10n-name="query"></span>“.
        *[other] Съжаляваме! В настройките няма резултати за „<span data-l10n-name="query"></span>“.
     }
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 = Съжаляваме! В настройките няма резултати за „<span data-l10n-name="query"></span>“.
 search-results-help-link = Имате нужда от помощ? Посетете <a data-l10n-name="url">поддръжката за { -brand-short-name }</a>
 
 ## General Section
