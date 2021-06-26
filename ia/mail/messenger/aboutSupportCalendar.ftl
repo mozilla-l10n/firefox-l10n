@@ -23,5 +23,6 @@ calendars-table-capabilities-alarms-popup-supported = Avisos contextual supporta
 calendars-table-capabilities-alarms-oninviations-supported = Avisos sur invitation supportate
 calendars-table-capabilities-alarms-maxcount = Numero maxime de avisos per evento
 calendars-table-capabilities-attachments-supported = Annexo supportate
+calendars-table-capabilities-categories-maxcount = Num. maxime de categorias
 calendars-table-capabilities-priority-supported = Prioritate supportate
 calendars-table-capabilities-events-supported = Evento supportate
