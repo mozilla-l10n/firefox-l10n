@@ -446,6 +446,8 @@ popup-select-microphone-device =
     .accesskey = M
 popup-select-microphone-icon =
     .tooltiptext = Mikrofonas
+popup-select-speaker-icon =
+    .tooltiptext = Garsiakalbiai
 popup-all-windows-shared = Bus leidžiama matyti visus jūsų ekrane matomus langus.
 popup-screen-sharing-not-now =
     .label = Ne dabar
@@ -691,6 +693,12 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = Įrašyti į „{ -pocket-brand-name }“
     .tooltiptext = Įrašyti į „{ -pocket-brand-name }“
+
+## Repair text encoding toolbar button
+
+repair-text-encoding-button =
+    .label = Sutvarkyti simbolių koduotę
+    .tooltiptext = Nuspėti tinkamą simbolių koduotę iš puslapio turinio
 
 ## Customize Toolbar Buttons
 

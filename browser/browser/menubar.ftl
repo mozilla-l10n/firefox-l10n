@@ -173,6 +173,9 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = Teksto koduotė
     .accesskey = k
+menu-view-repair-text-encoding =
+    .label = Sutvarkyti simbolių koduotę
+    .accesskey = k
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -227,6 +230,8 @@ menu-bookmarks-show-all =
     .label = Rodyti visą adresyną
 menu-bookmark-this-page =
     .label = Įrašyti į adresyną
+menu-bookmarks-manage =
+    .label = Tvarkyti adresyną
 menu-bookmark-current-tab =
     .label = Įrašyti šią kortelę į adresyną
 menu-bookmark-edit =
@@ -254,15 +259,15 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Prisijungti prie „{ -brand-product-name }“…
     .accesskey = g
+menu-tools-turn-on-sync =
+    .label = Įjungti „{ -sync-brand-short-name }“…
+    .accesskey = n
 menu-tools-addons-and-themes =
     .label = Priedai ir grafiniai apvalkalai
     .accesskey = P
 menu-tools-fxa-sign-in2 =
     .label = Prisijungti
     .accesskey = g
-menu-tools-turn-on-sync =
-    .label = Įjungti „{ -sync-brand-short-name }“…
-    .accesskey = n
 menu-tools-turn-on-sync2 =
     .label = Įjungti sinchronizavimą…
     .accesskey = n
@@ -287,19 +292,19 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Informacija apie tinklalapį
     .accesskey = I
-menu-settings =
-    .label = Nuostatos
-    .accesskey =
-        { PLATFORM() ->
-            [windows] N
-           *[other] N
-        }
 menu-preferences =
     .label =
         { PLATFORM() ->
             [windows] Nuostatos
            *[other] Nuostatos
         }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] N
+           *[other] N
+        }
+menu-settings =
+    .label = Nuostatos
     .accesskey =
         { PLATFORM() ->
             [windows] N
@@ -342,14 +347,12 @@ menu-help-import-from-another-browser =
 menu-help-keyboard-shortcuts =
     .label = Spartieji klavišai
     .accesskey = k
-menu-get-help =
-    .label = Žinynas ir pagalba
-    .accesskey = Ž
 menu-help-troubleshooting-info =
     .label = Informacija problemų sprendimui
     .accesskey = r
-menu-help-taskmanager =
-    .label = Užduočių tvarkytuvė
+menu-get-help =
+    .label = Žinynas ir pagalba
+    .accesskey = Ž
 menu-help-more-troubleshooting-info =
     .label = Daugiau informacijos problemų sprendimui
     .accesskey = p
