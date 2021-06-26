@@ -76,6 +76,8 @@ login-intro-description = Ако сте запазили данните си з�
 login-intro-instruction-fxa = Създайте или влезте в своята { -fxaccount-brand-name } на устройството, където са запазени вашите данни за вход
 login-intro-instruction-fxa-settings = Уверете се, че сте отметнали квадратчето за входни данни в настройките на { -sync-brand-short-name }
 about-logins-intro-instruction-help = Посетете <a data-l10n-name="help-link">Поддръжка за { -lockwise-brand-short-name }</a> за повече помощ.
+login-intro-instructions-fxa = Създайте или влезте в своята { -fxaccount-brand-name } на устройството, където са запазени вашите данни за вход
+login-intro-instructions-fxa-help = Посетете <a data-l10n-name="help-link">Поддръжка за { -lockwise-brand-short-name }</a> за повече помощ.
 about-logins-intro-import = Ако вашите регистрации са запазени в друг мрежов четец, можете да ги <a data-l10n-name="import-link">внесете във { -lockwise-brand-short-name }</a>.
 about-logins-intro-import2 = Ако вашите данни за вписване се съхраняват извън { -brand-product-name }, можете <a data-l10n-name="import-browser-link">да ги внесете от друг четец</a> или <a data-l10n-name="import-file-link">от файл</a>
 
