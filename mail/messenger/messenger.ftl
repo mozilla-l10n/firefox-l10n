@@ -12,11 +12,26 @@ unread-messages-os-tooltip =
     }
 about-rights-notification-text = { -brand-short-name } to wolne oprogramowanie o otwartym kodzie źródłowym (open source), tworzone przez społeczność tysięcy ludzi z całego świata.
 
+## Content tabs
+
+content-tab-page-loading-icon =
+    .alt = Strona jest wczytywana
+content-tab-security-high-icon =
+    .alt = Połączenie jest zabezpieczone
+content-tab-security-broken-icon =
+    .alt = Połączenie nie jest zabezpieczone
+
 ## Toolbar
 
 addons-and-themes-button =
     .label = Dodatki i motywy
     .tooltip = Zarządzaj dodatkami
+addons-and-themes-toolbarbutton =
+    .label = Dodatki i motywy
+    .tooltiptext = Zarządzaj dodatkami
+quick-filter-toolbarbutton =
+    .label = Szybkie filtrowanie
+    .tooltiptext = Filtruj wiadomości
 redirect-msg-button =
     .label = Przekieruj
     .tooltiptext = Przekieruj zaznaczoną wiadomość

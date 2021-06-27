@@ -289,6 +289,8 @@ openpgp-selection-status =
        *[many] Bieżąca konfiguracja wykorzystuje klucz o identyfikatorze <b>{ $key }</b>
     }
 #   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status-have-key = Bieżąca konfiguracja wykorzystuje klucz o identyfikatorze <b>{ $key }</b>
+#   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-error = Bieżąca konfiguracja wykorzystuje klucz <b>{ $key }</b>, który wygasł.
 openpgp-add-key-button =
     .label = Dodaj klucz…
@@ -314,6 +316,10 @@ openpgp-key-expires-image =
 openpgp-radio-key-expired = Wygasł: { $date }
 openpgp-key-expired-image =
     .tooltiptext = Klucz wygasł
+openpgp-key-expires-within-6-months-icon =
+    .title = Klucz wygasa za mniej niż 6 miesięcy
+openpgp-key-has-expired-icon =
+    .title = Klucz wygasł
 openpgp-key-expand-section =
     .tooltiptext = Więcej informacji
 openpgp-key-revoke-title = Unieważnij klucz
