@@ -60,6 +60,11 @@ about-processes-gpu-process = GPU ({ $pid })
 about-processes-vr-process = VR ({ $pid })
 about-processes-rdd-process = Дэкодэр дадзеных ({ $pid })
 about-processes-socket-process = Сетка ({ $pid })
+# Unknown process names
+# Variables:
+#    $pid (String) The process id of this process, assigned by the OS.
+#    $type (String) The raw type for this process.
+about-processes-unknown-process = Іншае: { $type } ({ $pid })
 
 ## Isolated process names
 ## Variables:
@@ -74,6 +79,16 @@ about-processes-web-isolated-process = { $origin } ({ $pid })
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = Картка: { $name }
+about-processes-preloaded-tab = Папярэдне загружаная новая картка
+# Single subframe
+# Variables:
+#   $url (String) The full url of this subframe.
+about-processes-frame-name-one = Падфрэйм: { $url }
+# Group of subframes
+# Variables:
+#   $number (Number) The number of subframes in this group. Always ≥ 1.
+#   $shortUrl (String) The shared prefix for the subframes in the group.
+about-processes-frame-name-many = Падфрэймы ({ $number }): { $shortUrl }
 
 ## Displaying CPU (percentage and total)
 ## Variables:
@@ -86,10 +101,16 @@ about-processes-tab-name = Картка: { $name }
 
 # Common case.
 about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") } ({ NUMBER($total, maximumFractionDigits: 0) }{ $unit })
+# Common case.
+about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
+    .title = Агульны час ЦП: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (вымярэнне)
 # Special case: process or thread is currently idle.
 about-processes-cpu-user-and-kernel-idle = неактыўны ({ NUMBER($total, maximumFractionDigits: 2) }{ $unit })
+# Special case: process or thread is currently idle.
+about-processes-cpu-idle = Бяздзейны
+    .title = Агульны час ЦП: { NUMBER($total, maximumFractionDigits: 2) }{ $unit }
 
 ## Displaying Memory (total and delta)
 ## Variables:
@@ -104,6 +125,9 @@ about-processes-cpu-user-and-kernel-idle = неактыўны ({ NUMBER($total, 
 
 # Common case.
 about-processes-total-memory-size = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit } ({ $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit })
+# Common case.
+about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
+    .title = Дынаміка: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit }
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
 
