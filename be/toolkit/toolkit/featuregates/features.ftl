@@ -69,6 +69,10 @@ experimental-features-devtools-serviceworker-debugger-support-description = Ак
 experimental-features-webrtc-global-mute-toggles =
     .label = Глабальнае адключэнне гуку WebRTC
 experimental-features-webrtc-global-mute-toggles-description = Дадае элементы кіравання ў глабальны індыкатар сумеснага доступу WebRTC, якія дазваляюць карыстальнікам глабальна адключыць мікрафон і каналы камеры.
+# Win32k Lockdown
+experimental-features-win32k-lockdown =
+    .label = Блакаванне Win32k
+experimental-features-win32k-lockdown-description = Адключыць выкарыстанне API Win32k у картках браўзера. Павышае бяспеку, але ў бягучы момант можа быць нестабільным або праблемным (толькі ў Windows).
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
