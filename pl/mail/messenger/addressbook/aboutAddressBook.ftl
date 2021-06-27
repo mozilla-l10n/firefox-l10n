@@ -99,6 +99,32 @@ about-addressbook-confirm-remove-contacts-title =
         [one] Usuń kontakt
        *[other] Usuń kontakty
     }
+# Variables:
+# $count (Number) - The number of contacts to be removed.
+# $name (String) - The name of the contact to be removed, if $count is 1.
+# $list (String) - The name of the list that contacts will be removed from.
+about-addressbook-confirm-remove-contacts =
+    { $count ->
+        [one] Czy na pewno usunąć kontakt „{ $name }” z listy „{ $list }”?
+        [few] Czy na pewno usunąć te { $count } kontakty z listy „{ $list }”?
+       *[many] Czy na pewno usunąć te { $count } kontaktów z listy „{ $list }”?
+    }
+# Variables:
+# $count (Number) - The number of contacts to be deleted.
+about-addressbook-confirm-delete-contacts-title =
+    { $count ->
+        [one] Usuń kontakt
+       *[other] Usuń kontakty
+    }
+# Variables:
+# $count (Number) - The number of contacts to be deleted.
+# $name (String) - The name of the contact to be deleted, if $count is 1.
+about-addressbook-confirm-delete-contacts =
+    { $count ->
+        [one] Czy na pewno usunąć kontakt „{ $name }”?
+        [few] Czy na pewno usunąć te { $count } kontakty?
+       *[many] Czy na pewno usunąć te { $count } kontaktów?
+    }
 
 ## Details
 
