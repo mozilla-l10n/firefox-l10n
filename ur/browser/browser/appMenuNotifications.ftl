@@ -39,6 +39,12 @@ appmenu-addon-post-install-message =
     <image data-l10n-name = 'addon-install-icon'> </image> پر 
     <image data-l10n-name='addon-menu-icon'></image>
      مینو پر کلک کرکے اپنے add-ons کا نظم کریں۔
+appmenu-update-available2 =
+    .label = تازہ کاری دستیاب ہے
+    .buttonlabel = ڈاؤن لوڈ
+    .buttonaccesskey = D
+    .secondarybuttonlabel = برخاست  کریں
+    .secondarybuttonaccesskey = m
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = ٹھیک ہے
     .buttonaccesskey = O

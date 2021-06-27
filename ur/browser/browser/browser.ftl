@@ -604,6 +604,7 @@ panel-save-update-password = پاس ورڈ
 # Variables:
 #  $name (String): The name of the addon that will be removed.
 addon-removal-title = { $name } کو حذف کریں؟
+addon-removal-abuse-report-checkbox = اس توسیع کی اطلاع{ -vendor-short-name } کو دیں
 
 ## Remote / Synced tabs
 

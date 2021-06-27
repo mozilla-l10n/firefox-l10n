@@ -114,6 +114,12 @@ main-context-menu-bookmark-add =
 main-context-menu-bookmark-add-mac =
     .label = صفحہ بکمارک کریں
     .accesskey = m
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-edit-mac =
+    .label = بُک مارک تدوین کریں
+    .accesskey = m
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-add-with-shortcut =
@@ -148,6 +154,9 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-bookmark-this-link =
     .label = یہ ربط نشان زد کریں
     .accesskey = L
+main-context-menu-bookmark-link =
+    .label = بک مارک ربط
+    .accesskey = B
 main-context-menu-save-link =
     .label = ربط محفوظ کریں بطور ...
     .accesskey = k
@@ -315,6 +324,9 @@ main-context-menu-audio-save-as =
 main-context-menu-video-image-save-as =
     .label = سنیپ شاٹ محفوظ کریں بطور…
     .accesskey = S
+main-context-menu-video-take-snapshot =
+    .label = اسنیپ شاٹ لیں…
+    .accesskey = S
 main-context-menu-video-email =
     .label = وڈیو ای میل کریں…
     .accesskey = a
@@ -344,12 +356,18 @@ main-context-menu-generate-new-password =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-use-saved-login =
+    .label = محفوظ شدہ  لاگ ان کا استعمال کریں
+    .accesskey = p
 main-context-menu-use-saved-password =
     .label = محفوظ شدہ پاس ورڈ استعمال کریں
     .accesskey = o
 
 ##
 
+main-context-menu-suggest-strong-password =
+    .label = مضبوط پاس ورڈ تجویز کریں…
+    .accesskey = S
 main-context-menu-manage-logins2 =
     .label = لاگ ان منظم کریں
     .accesskey = M

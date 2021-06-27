@@ -240,6 +240,7 @@ about-logins-import-file-picker-tsv-filter-title =
 about-logins-import-dialog-title = درآمد مکمل ہوئی
 about-logins-import-dialog-done = ہوگیا
 about-logins-import-dialog-error-title = درآمد میں نقص
+about-logins-import-dialog-error-conflicting-values-title = ایک لاگ ان کیلئے متعدد متضاد اقدار
 about-logins-import-dialog-error-file-format-title = فائل فارمیٹ کا مسئلہ
 about-logins-import-dialog-error-file-permission-title = فائل پڑھنے سے قاصر
 about-logins-import-dialog-error-no-logins-imported = کوئی لاگ ان امپورٹ نہیں کیا گیا ہے
