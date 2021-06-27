@@ -47,10 +47,10 @@ unpin-selected-tabs =
     .accesskey = g
 bookmark-selected-tabs =
     .label = Marcar pestañas…
-    .accesskey = M
+    .accesskey = a
 bookmark-tab =
     .label = Marcar pestaña
-    .accesskey = M
+    .accesskey = a
 reopen-in-container =
     .label = Reabrir en contenedor
     .accesskey = e
@@ -105,7 +105,7 @@ tab-context-reopen-closed-tabs =
             [one] Reabrir pestañas cerrada
            *[other] Reabrir pestañas cerradas
         }
-    .accesskey = o
+    .accesskey = b
 tab-context-close-tabs =
     .label =
         { $tabCount ->
