@@ -48,6 +48,7 @@
 <!ENTITY editMenu.accesskey                             "E">
 <!ENTITY deleteCmd.label                                "Usuń">
 <!ENTITY deleteAbCmd.label                              "Usuń książkę adresową">
+<!ENTITY removeAbCmd.label                              "Usuń książkę adresową">
 <!ENTITY deleteContactCmd.label                         "Usuń wizytówkę">
 <!ENTITY deleteContactsCmd.label                        "Usuń wizytówki">
 <!ENTITY deleteListCmd.label                            "Usuń listę">
@@ -140,6 +141,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.label                            "Usuń">
 <!ENTITY deleteButton2.accesskey                        "U">
 
+<!ENTITY removeButton.label                             "Usuń">
+<!ENTITY removeButton.accesskey                         "U">
+
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY columnChooser.tooltip                          "Zaznacz, które kolumny będą wyświetlane">
 <!ENTITY newContactButton.tooltip                       "Dodaj nową wizytówkę do książki adresowej">
@@ -151,6 +155,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.tooltip                           "Wyślij wiadomość">
 <!ENTITY newIM.tooltip                                  "Połącz z adresatem za pomocą komunikatora">
 <!ENTITY deleteButton2.tooltip                          "Usuń zaznaczony element">
+
+<!ENTITY removeButton.tooltip                           "Usuń zaznaczoną książkę adresową">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Imię, nazwisko lub e-mail">
