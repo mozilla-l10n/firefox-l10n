@@ -4,15 +4,15 @@
 
 <!--LOCALIZATION NOTE msgCompSecurityInfo.dtd UI for viewing security status when composing a message -->
 
-<!ENTITY title.label "Message Security">
-<!ENTITY subject.plaintextWarning "Please note: Subject lines of email messages are never encrypted.">
-<!ENTITY status.heading "The contents of your message will be sent as follows:">
-<!ENTITY status.signed "Digitally signed:">
-<!ENTITY status.encrypted "Encrypted:">
-<!ENTITY status.certificates "Certificates:">
-<!ENTITY view.label "View">
+<!ENTITY title.label "Sekureco de mesaĝo">
+<!ENTITY subject.plaintextWarning "Averto: temo de la mesaĝo ne estos ĉifrita.">
+<!ENTITY status.heading "La enhavo de via mesaĝo estos:">
+<!ENTITY status.signed "Ciferece subskribita:">
+<!ENTITY status.encrypted "Ĉifrita:">
+<!ENTITY status.certificates "Atestiloj:">
+<!ENTITY view.label "Vidi">
 <!ENTITY view.accesskey "V">
-<!ENTITY tree.recipient "Recipient">
-<!ENTITY tree.status "Status">
-<!ENTITY tree.issuedDate "Issued">
-<!ENTITY tree.expiresDate "Expires">
+<!ENTITY tree.recipient "Ricevonto:">
+<!ENTITY tree.status "Stato:">
+<!ENTITY tree.issuedDate "Eldonita:">
+<!ENTITY tree.expiresDate "Senvalidiĝos:">
