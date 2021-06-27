@@ -79,7 +79,7 @@ sanitize-button-clearing =
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has not modified the default set
 # of history items to clear.
-sanitize-everything-warning = Όλο το ιστορικό θα εκκαθαριστεί.
+sanitize-everything-warning = Θα διαγραφεί όλο το ιστορικό.
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has modified the default set of
 # history items to clear.
