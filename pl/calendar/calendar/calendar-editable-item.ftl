@@ -22,3 +22,5 @@ calendar-editable-item-reminder-icon-suppressed-alarm =
     .alt = Zaplanowano przypomnienie, ale obecnie je wstrzymano
 calendar-editable-item-reminder-icon-email =
     .alt = Zaplanowano e-mail z przypomnieniem
+calendar-editable-item-reminder-icon-audio =
+    .alt = Zaplanowano dźwięk przypomnienia
