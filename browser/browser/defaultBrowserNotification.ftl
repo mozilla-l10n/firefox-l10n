@@ -14,6 +14,7 @@ default-browser-notification-button =
 
 default-browser-prompt-title-pin = { -brand-short-name } を優先ブラウザーに設定しますか？
 default-browser-prompt-message-pin = { -brand-short-name } をあなたの手元に。既定のブラウザーに設定して、タスクバーにピン留めしましょう。
+default-browser-prompt-message-pin-mac = { -brand-short-name } をあなたの手元に。既定のブラウザーに設定して、Dock に追加しましょう。
 default-browser-prompt-button-primary-pin = 優先ブラウザーに設定する
 default-browser-prompt-title-alt = { -brand-short-name } を既定のブラウザーに設定しますか？
 default-browser-prompt-message-alt = いつでも高速、安全、プライベートに。

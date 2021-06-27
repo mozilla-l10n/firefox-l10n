@@ -12,6 +12,9 @@ newtab-personalize-button-label = パーソナライズ
     .title = 新しいタブをパーソナライズ
     .aria-label = 新しいタブをパーソナライズ
 
+newtab-personalize-dialog-label =
+    .aria-label = パーソナライズ
+
 ## Search box component.
 
 # "Search" is a verb/action
@@ -40,8 +43,6 @@ newtab-search-box-search-the-web-input =
     .placeholder = ウェブを検索
     .title = ウェブを検索
     .aria-label = ウェブを検索
-
-newtab-search-box-text = ウェブを検索
 
 newtab-search-box-input =
     .placeholder = ウェブを検索
