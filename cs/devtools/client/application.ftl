@@ -32,6 +32,12 @@ serviceworker-worker-debug-forbidden = Ladit
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start2 = Spustit
     .title = Spouštět service workery je možné pouze při zakázaném multi e10s
+# Alt text for the image icon displayed inside a debug link for a service worker.
+serviceworker-worker-inspect-icon =
+    .alt = Prozkoumat
+# Text for the start link displayed for a registered but not running Service Worker.
+# Clicking on the link will attempt to start the service worker.
+serviceworker-worker-start3 = Spustit
 # Text displayed for the updated time of the service worker. The <time> element will
 # display the last update time of the service worker script.
 serviceworker-worker-updated = Aktualizace <time>{ DATETIME($date, day: "numeric", month: "numeric", year: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>
