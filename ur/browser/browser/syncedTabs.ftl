@@ -41,3 +41,5 @@ synced-tabs-context-sync-now =
     .accesskey = S
 fxa-sign-in = { -sync-brand-short-name } سائن ان کریں
 turn-on-sync = { -sync-brand-short-name } چالو کریں
+synced-tabs-fxa-sign-in = سنک کرنے کے لئے سائن ان کریں
+synced-tabs-turn-on-sync = سینک چالو کریں
