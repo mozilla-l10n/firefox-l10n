@@ -113,6 +113,7 @@ about-webrtc-fold-hide-msg = تفصیلات چھپائیں
 about-webrtc-decoder-label = ضابطہ ربائی کرنے کا آلہ
 about-webrtc-encoder-label = ضابطہ کاری کریں
 about-webrtc-show-tab-label = ٹیب دکھائیں
+about-webrtc-consecutive-frames = لگاتار فریمز
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 

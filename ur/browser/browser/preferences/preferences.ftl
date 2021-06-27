@@ -1022,6 +1022,9 @@ space-alert-over-5gb-pref-button =
 space-alert-under-5gb-ok-button =
     .label = ٹھیک ہے مجھے سمجھ آگئی ہے
     .accesskey = K
+space-alert-over-5gb-settings-button =
+    .label = سیٹنگز کھولیں
+    .accesskey = O
 
 ## Privacy Section - HTTPS-Only
 
