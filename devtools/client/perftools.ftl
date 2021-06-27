@@ -75,6 +75,8 @@ perftools-button-edit-settings = Змянiць налады...
 
 perftools-thread-gecko-main =
     .title = Асноўныя працэсы як для бацькоўскага працэсу, так і для працэсаў зместу
+perftools-thread-render-backend =
+    .title = Паток WebRender RenderBackend
 
 ##
 
@@ -84,7 +86,6 @@ perftools-record-all-registered-threads = Iгнараваць абранае в�
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
 ## preferences are true.
 
--profiler-brand-name = Прафайлер Firefox
 perftools-onboarding-message = <b>Новае</b>: { -profiler-brand-name } цяпер інтэграваны ў Інструменты распрацоўшчыка. <a>Даведайцеся больш</a> пра гэты новы магутны інструмент.
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (На працягу абмежаванага часу вы можаце атрымаць доступ да арыгінальнай панэлі Прадукцыйнасці праз <a>{ options-context-advanced-settings }</a>)
