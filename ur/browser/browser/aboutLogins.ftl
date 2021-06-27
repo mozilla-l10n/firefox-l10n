@@ -251,6 +251,7 @@ about-logins-import-report-title = درآمد کا خلاصہ
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = قطار{ $number }
+about-logins-import-report-row-description-modified = موجودہ لاگ ان کی تازہ کاری کر دی گئی
 about-logins-import-report-row-description-added = نیا لاگ ان شامل کیا گیا
 
 ##
