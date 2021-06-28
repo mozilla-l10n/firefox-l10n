@@ -69,7 +69,7 @@ import-close-source-browser = Por favor, asegúrate que el navegador seleccionad
 #   $source (String): The browser the user has chosen to import bookmarks from.
 imported-bookmarks-source = De { $source }
 source-name-ie = Internet Explorer
-source-name-edge = Micosoft Edge
+source-name-edge = Microsoft Edge
 source-name-edge-beta = Microsoft Edge Beta
 source-name-safari = Safari
 source-name-canary = Google Chrome Canary
