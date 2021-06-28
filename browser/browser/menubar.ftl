@@ -11,6 +11,8 @@
 
 ## Application Menu (macOS only)
 
+menu-application-preferences =
+    .label = Roghainnean
 menu-application-services =
     .label = Seirbheisean
 menu-application-hide-this =
@@ -19,6 +21,8 @@ menu-application-hide-other =
     .label = Cuir càch am falach
 menu-application-show-all =
     .label = Seall na h-uile
+menu-application-touch-bar =
+    .label = Gnàthaich am bàr-suathaidh…
 
 ##
 
@@ -334,6 +338,12 @@ menu-help-keyboard-shortcuts =
 menu-help-troubleshooting-info =
     .label = Taic le duilgheadasan
     .accesskey = T
+menu-get-help =
+    .label = Faigh cobhair
+    .accesskey = h
+menu-help-more-troubleshooting-info =
+    .label = Barrachd fiosrachaidh mu fhuasgladh air duilgheadasan
+    .accesskey = B
 menu-help-report-site-issue =
     .label = Dèan aithris air duilgheadas leis an làrach...
 menu-help-feedback-page =
@@ -345,6 +355,12 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Ath-thòisich leis na tuilleadan an comas
     .accesskey = t
+menu-help-enter-troubleshoot-mode2 =
+    .label = Modh fuasglaidh air duilgheadasan…
+    .accesskey = M
+menu-help-exit-troubleshoot-mode =
+    .label = Cuir am modh fuasglaidh air duilgheadasan dheth
+    .accesskey = m
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
