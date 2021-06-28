@@ -22,6 +22,12 @@ appmenuitem-find-in-page =
     .label = Lorg air an duilleag…
 appmenuitem-more-tools =
     .label = Barrachd innealan
+appmenu-menu-button-closed2 =
+    .tooltiptext = Fosgail clàr-taice na h-aplacaid
+    .label = { -brand-short-name }
+appmenu-menu-button-opened2 =
+    .tooltiptext = Dùin clàr-taice na h-aplacaid
+    .label = { -brand-short-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -73,6 +79,12 @@ appmenu-recently-closed-windows =
 appmenu-about =
     .label = Mu { -brand-shorter-name }
     .accesskey = M
+appmenu-get-help =
+    .label = Faigh cobhair
+    .accesskey = h
+appmenu-help-more-troubleshooting-info =
+    .label = Barrachd fiosrachaidh mu fhuasgladh air duilgheadasan
+    .accesskey = f
 appmenu-help-report-site-issue =
     .label = Dèan aithris air duilgheadas leis an làrach...
 appmenu-help-feedback-page =
@@ -82,6 +94,12 @@ appmenu-help-feedback-page =
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-enter-troubleshoot-mode2 =
+    .label = Modh fuasglaidh air duilgheadasan…
+    .accesskey = M
+appmenu-help-exit-troubleshoot-mode =
+    .label = Cuir am modh fuasglaidh air duilgheadasan dheth
+    .accesskey = m
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

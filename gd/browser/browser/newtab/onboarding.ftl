@@ -133,6 +133,8 @@ return-to-amo-addon-title = Nise, nach fhaigh sinn <img data-l10n-name="icon"/> 
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-help-text = Prìnichidh seo { -brand-short-name } ri bàr nan saothair is fosglaidh e na roghainnean
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
@@ -147,6 +149,18 @@ return-to-amo-addon-title = Nise, nach fhaigh sinn <img data-l10n-name="icon"/> 
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
+# Title used on welcome page when Firefox is not pinned
+mr1-onboarding-pin-header =
+    { PLATFORM() ->
+        [macos] Cùm { -brand-short-name } san doca agad airson cothrom fhurasta air
+       *[other] Prìnich { -brand-short-name } ri bàr nan saothair agad airson cothrom fhurasta air
+    }
+# Primary button string used on welcome page when Firefox is not pinned.
+mr1-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Cùm san doca
+       *[other] Prìnich ri bàr nan saothair
+    }
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
