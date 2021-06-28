@@ -250,6 +250,7 @@ header-back-button =
 
 ## Recommended add-ons page
 
+find-more-addons = Lorg barrachd leudachain
 
 ## Add-on actions
 
@@ -294,6 +295,7 @@ plugin-heading = Stiùirich na plugain agad
 dictionary-heading = Stiùirich na faclairean agad
 locale-heading = Stiùirich na cànain agad
 shortcuts-heading = Stiùirich ath-ghoiridean an leudachain
+default-heading-search-label = Lorg barrachd leudachain
 addons-heading-search-input =
     .placeholder = Lorg air addons.mozilla.org
 addon-page-options-button =

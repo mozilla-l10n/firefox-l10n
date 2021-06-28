@@ -33,13 +33,13 @@ can reach it easily. -->
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY navbar.accessibleLabel "Seòladaireachd">
-<!ENTITY personalbarCmd.label "Bàr nan comharra-lìn">
+<!ENTITY personalbarCmd.label "Bàr nan comharran-lìn">
 <!ENTITY personalbarCmd.accesskey "B">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY personalbar.accessibleLabel "Comharran-lìn">
-<!ENTITY bookmarksToolbarItem.label "Rudan air bàr nan comharra-lìn">
+<!ENTITY bookmarksToolbarItem.label "Rudan air bàr nan comharran-lìn">
 
 <!ENTITY fullScreenCmd.label "Làn-sgrìn">
 
@@ -113,12 +113,12 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY bookmarksMenuButton.mobile.label   "Comharran-lìn mobile">
 <!ENTITY viewBookmarksSidebar2.label        "Seall bàr-taoibh nan comharra-lìn">
 <!ENTITY hideBookmarksSidebar.label         "Falaich bàr-taoibh nan comharra-lìn">
-<!ENTITY viewBookmarksToolbar.label         "Seall bàr nan comharra-lìn">
-<!ENTITY hideBookmarksToolbar.label         "Falaich bàr-inneal nan comharra-lìn">
+<!ENTITY viewBookmarksToolbar.label         "Seall bàr nan comharran-lìn">
+<!ENTITY hideBookmarksToolbar.label         "Falaich bàr-inneal nan comharran-lìn">
 <!ENTITY searchBookmarks.label              "Lorg sna comharran-lìn">
 <!ENTITY bookmarkingTools.label             "Innealan nan comharra-lìn">
-<!ENTITY addBookmarksMenu.label             "Cuir clàr-taice nan comharra-lìn ris a’ bhàr-inneal">
-<!ENTITY removeBookmarksMenu.label          "Thoir air falbh clàr-taice nan comharra-lìn on bhàr-inneal">
+<!ENTITY addBookmarksMenu.label             "Cuir clàr-taice nan comharran-lìn ris a’ bhàr-inneal">
+<!ENTITY removeBookmarksMenu.label          "Thoir air falbh clàr-taice nan comharran-lìn on bhàr-inneal">
 
 <!ENTITY historyButton.label            "Eachdraidh">
 
