@@ -198,8 +198,8 @@ about-logins-confirm-remove-all-dialog-message =
     }
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
-        [one] Alisin ang ($count) login mula sa lahat ng mga device?
-       *[other] Alisin ang lahat ng ($count) mga login mula sa lahat ng mga device?
+        [one] Alisin ang { $count } login mula sa lahat ng mga device?
+       *[other] Alisin ang lahat ng { $count } mga login mula sa lahat ng mga device?
     }
 about-logins-confirm-remove-all-sync-dialog-message =
     { $count ->
