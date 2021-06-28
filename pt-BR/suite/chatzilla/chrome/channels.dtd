@@ -16,10 +16,10 @@
 <!ENTITY join.label     "Entrar">
 <!ENTITY join.accesskey "E">
 
-<!ENTITY minusers.label     "Min usuários:">
+<!ENTITY minusers.label     "Mínimo de usuários:">
 <!ENTITY minusers.accesskey "n">
 
-<!ENTITY maxusers.label     "Max usuários:">
+<!ENTITY maxusers.label     "Máximo de usuários:">
 <!ENTITY maxusers.accesskey "x">
 
 <!ENTITY refresh.label     "Atualizar agora">
