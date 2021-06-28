@@ -11,6 +11,8 @@
 
 ## Application Menu (macOS only)
 
+menu-application-preferences =
+    .label = Mga Kagustuhan
 menu-application-services =
     .label = Mga Serbisyo
 menu-application-hide-this =
@@ -111,6 +113,9 @@ menu-edit =
 menu-edit-find-on =
     .label = Hanapin sa Pahinang Ito...
     .accesskey = F
+menu-edit-find-in-page =
+    .label = Hanapin sa Pahina…
+    .accesskey = H
 menu-edit-find-again =
     .label = Hanapin Muli
     .accesskey = g
@@ -259,6 +264,9 @@ menu-tools-fxa-re-auth =
 menu-tools-web-developer =
     .label = Web Developer
     .accesskey = W
+menu-tools-task-manager =
+    .label = Task Manager
+    .accesskey = M
 menu-tools-page-source =
     .label = Source code ng web page
     .accesskey = o
