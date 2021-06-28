@@ -18,6 +18,8 @@ appmenuitem-new-private-window =
     .label = Uinneag phrìobhaideach ùr
 appmenuitem-addons-and-themes =
     .label = Tuilleadain ’s ùrlaran
+appmenuitem-find-in-page =
+    .label = Lorg air an duilleag…
 appmenuitem-more-tools =
     .label = Barrachd innealan
 # Settings is now used to access the browser settings across all platforms,
