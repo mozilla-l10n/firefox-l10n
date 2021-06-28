@@ -344,6 +344,10 @@ browser-tab-audio-playing2 = ’GA CHLUICH
 
 ## Bookmarks toolbar items
 
+browser-import-button2 =
+    .label = Ion-phortaich comharran-lìn…
+    .tooltiptext = Ion-phortaich comharran-lìn o brabhsair eile gu { -brand-short-name }.
+bookmarks-toolbar-empty-message = Airson cothrom luath orra, cuir na comharran-lìn agad air bàr nan comharran-lìn an-seo. <a data-l10n-name="manage-bookmarks">Stiùirich na comharran-lìn…</a>
 
 ## WebRTC Pop-up notifications
 
@@ -426,12 +430,15 @@ crashed-subframe-learnmore-link =
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-manage-bookmarks =
+    .label = Stiùirich na comharran-lìn
+bookmarks-recent-bookmarks-panel-subheader = Comharran-lìn o chionn ghoirid
 bookmarks-toolbar-chevron =
     .tooltiptext = Tuilleadh chomharran-lìn
 bookmarks-sidebar-content =
     .aria-label = Comharran-lìn
 bookmarks-menu-button =
-    .label = Clàr-taice nan comharra-lìn
+    .label = Clàr-taice nan comharran-lìn
 bookmarks-other-bookmarks-menu =
     .label = Comharran-lìn eile
 bookmarks-mobile-bookmarks-menu =
@@ -439,39 +446,49 @@ bookmarks-mobile-bookmarks-menu =
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
-            [true] Falaich bàr-taoibh nan comharra-lìn
-           *[other] Seall bàr-taoibh nan comharra-lìn
+            [true] Falaich bàr-taoibh nan comharran-lìn
+           *[other] Seall bàr-taoibh nan comharran-lìn
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
         { $isVisible ->
-            [true] Falaich bàr-inneal nan comharra-lìn
-           *[other] Seall bàr nan comharra-lìn
+            [true] Falaich bàr-inneal nan comharran-lìn
+           *[other] Seall bàr nan comharran-lìn
         }
 bookmarks-tools-toolbar-visibility-panel =
     .label =
         { $isVisible ->
-            [true] Falaich bàr nan comharra-lìn
-           *[other] Seall bàr nan comharra-lìn
+            [true] Falaich bàr nan comharran-lìn
+           *[other] Seall bàr nan comharran-lìn
         }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
-            [true] Thoir air falbh clàr-taice nan comharra-lìn on bhàr-inneal
-           *[other] Cuir clàr-taice nan comharra-lìn ris a’ bhàr-inneal
+            [true] Thoir air falbh clàr-taice nan comharran-lìn on bhàr-inneal
+           *[other] Cuir clàr-taice nan comharran-lìn ris a’ bhàr-inneal
         }
 bookmarks-search =
     .label = Lorg sna comharran-lìn
 bookmarks-tools =
-    .label = Innealan nan comharra-lìn
+    .label = Innealan nan comharran-lìn
 bookmarks-bookmark-edit-panel =
     .label = Deasaich an comharra-lìn seo
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = Bàr nan comharran-lìn
+    .accesskey = B
+    .aria-label = Comharran-lìn
 bookmarks-toolbar-menu =
-    .label = Bàr nan comharra-lìn
+    .label = Bàr nan comharran-lìn
 bookmarks-toolbar-placeholder =
-    .title = Rudan air bàr nan comharra-lìn
+    .title = Rudan air bàr nan comharran-lìn
 bookmarks-toolbar-placeholder-button =
-    .label = Rudan air bàr nan comharra-lìn
+    .label = Rudan air bàr nan comharran-lìn
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = Cuir an taba làithreach ris na comharran-lìn
 
 ## Library Panel items
 
