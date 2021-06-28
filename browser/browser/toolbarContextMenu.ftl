@@ -17,14 +17,12 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Tagh gach taba
     .accesskey = S
-
 toolbar-context-menu-manage-extension =
     .label = Stiùirich an leudachan
     .accesskey = E
 toolbar-context-menu-remove-extension =
     .label = Thoir an leudachan air falbh
     .accesskey = v
-
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.
@@ -40,3 +38,15 @@ toolbar-context-menu-remove-from-toolbar =
 toolbar-context-menu-view-customize-toolbar =
     .label = Gnàthaich…
     .accesskey = c
+toolbar-context-menu-bookmarks-toolbar-always-show-2 =
+    .label = Seall an-còmhnaidh
+    .accesskey = a
+toolbar-context-menu-bookmarks-toolbar-never-show-2 =
+    .label = Na seall idir
+    .accesskey = N
+toolbar-context-menu-bookmarks-toolbar-on-new-tab-2 =
+    .label = Na seall ach air taba ùr
+    .accesskey = b
+toolbar-context-menu-bookmarks-show-other-bookmarks =
+    .label = Seall na comharran-lìn eile
+    .accesskey = h

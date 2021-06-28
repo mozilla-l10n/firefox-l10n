@@ -17,7 +17,6 @@ places-open-window =
 places-open-private-window =
     .label = Fosgail ann an uinneag phrìobhaideach ùr
     .accesskey = p
-
 places-new-bookmark =
     .label = Comharra-lìn ùr…
     .accesskey = C
@@ -30,7 +29,6 @@ places-new-folder =
 places-new-separator =
     .label = Sgaradair ùr
     .accesskey = r
-
 places-view =
     .label = Seall
     .accesskey = S
@@ -49,12 +47,10 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = A-rèir cinn-là is làraich
     .accesskey = A
-
 places-history-search =
     .placeholder = Eachdraidh nan lorg
 places-bookmarks-search =
     .placeholder = Lorg sna comharran-lìn
-
 places-delete-domain-data =
     .label = Dìochuimhnich an làrach seo
     .accesskey = D
@@ -64,3 +60,6 @@ places-sortby-name =
 places-properties =
     .label = Roghainnean
     .accesskey = i
+# This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
+other-bookmarks-folder =
+    .label = Comharran-lìn eile

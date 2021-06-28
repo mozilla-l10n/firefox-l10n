@@ -8,7 +8,7 @@ safeb-blocked-unwanted-page-title = Dh’fhaoidte gu bheil prògraman dochainnea
 safeb-blocked-harmful-page-title = Dh’fhaoidte gu bheil bathar-bog droch rùnach air an làrach seo
 safeb-blocked-phishing-page-short-desc = Bhac { -brand-short-name } an duilleag seo air dh’fhaoidte gum bi e ri foill chunnartach, mar eisimpleir a bhith a’ stàladh bathar-bog no a’ goid fiosrachadh pearsanta ort mar fhaclan-faire no cairtean-creideis.
 safeb-blocked-malware-page-short-desc = Bhac { -brand-short-name } an duilleag seo airson ’s nach feuch e ri bathar-bog droch-rùnach a stàladh a bhiodh airson dàta pearsanta a ghoid no a sguabadh às a’ choimpiutair agad.
-safeb-blocked-unwanted-page-short-desc = Bhac { -brand-short-name } an duilleag seo oir tha cunnart gum bi e ri foill is e a’ feuchainn ri prògraman a stàladh air an uidheam agad a nì cron air do bhrabhsadh (mar eisimpleir, le bhith ag atharrachadh na duilleige-dachaidh agad no a’ sealltainn sanasachd air làraichean air an tadhail thu).
+safeb-blocked-unwanted-page-short-desc = Bhac { -brand-short-name } an duilleag seo oir tha cunnart gum bi e ri foill is e a’ feuchainn ri prògraman a stàladh air an uidheam agad a nì cron air do bhrabhsadh (mar eisimpleir, le bhith ag atharrachadh na duilleige-dachaigh agad no a’ sealltainn sanasachd air làraichean air an tadhail thu).
 safeb-blocked-harmful-page-short-desc = Bhac { -brand-short-name } an duilleag seo oir tha teans gum feuch e ri aplacaidean cunnartach a stàladh a ghoideas no a sguabas às fiosrachadh agad (mar eisimpleir, dealbhan, faclan-faire, teachdaireachdan is cairtean-creideis).
 safeb-palm-advisory-desc = Comhairle air a sholar le <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
 safeb-palm-accept-label = Air ais

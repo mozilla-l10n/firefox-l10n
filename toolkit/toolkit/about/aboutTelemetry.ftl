@@ -20,7 +20,7 @@ about-telemetry-telemetry-client-doc = Gheibh thu deifiniseanan choincheapan, do
 about-telemetry-telemetry-dashboard = Bheir <a data-l10n-name="dashboard-link">deas-bhùird an telemeatraidh</a> comas dhut dealbh a dhèanamh dhen dàta a gheibh Mozilla slighe gleus an telemeatraidh.
 about-telemetry-telemetry-probe-dictionary = Tha am <a data-l10n-name="probe-dictionary-link">Probe Dictionary</a> a’ toirt dhut mion-fhiosrachadh is tuairisgeulan mun fhiosrachadh a chruinnich an telemeatraidh.
 about-telemetry-show-in-Firefox-json-viewer = Fosgail san t-sealladair JSON
-about-telemetry-home-section = Dhachaidh
+about-telemetry-home-section = Dhachaigh
 about-telemetry-general-data-section = Dàta coitcheann
 about-telemetry-environment-data-section = Dàta na h-àrainneachd
 about-telemetry-session-info-section = Fiosrachadh mun t‑seisean
