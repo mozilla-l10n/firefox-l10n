@@ -71,7 +71,7 @@ restart-later = Ath-thòisich uaireigin eile
 
 # This string is shown to notify the user that their home page
 # is being controlled by an extension.
-extension-controlled-homepage-override = Tha smachd aig leudachan, <img data-l10n-name="icon"/> { $name }, air an duilleag-dhachaidh agad.
+extension-controlled-homepage-override = Tha smachd aig leudachan, <img data-l10n-name="icon"/> { $name }, air an duilleag-dhachaigh agad.
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = Tha smachd aig leudachan, <img data-l10n-name="icon"/> { $name }, air duilleag an taba ùir agad.
@@ -393,11 +393,11 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Uinneagan is tabaichean ùra
-home-new-windows-tabs-description2 = Tagh na chì thu nuair a dh’fhosglas tu an duilleag-dhachaidh agad no uinneag no taba ùr.
+home-new-windows-tabs-description2 = Tagh na chì thu nuair a dh’fhosglas tu an duilleag-dhachaidgh agad no uinneag no taba ùr.
 
 ## Home Section - Home Page Customization
 
-home-homepage-mode-label = An duilleag-dhachaidh is uinneagan ùra
+home-homepage-mode-label = An duilleag-dhachaigh is uinneagan ùra
 home-newtabs-mode-label = Tabaichean ùra
 home-restore-defaults =
     .label = Aisig na bun-roghainnean
@@ -405,7 +405,7 @@ home-restore-defaults =
 # "Firefox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
-    .label = Dachaidh Firefox (bun-roghainn)
+    .label = Dachaigh Firefox (bun-roghainn)
 home-mode-choice-custom =
     .label = URLaichean gnàthaichte...
 home-mode-choice-blank =
@@ -456,9 +456,12 @@ home-prefs-highlights-option-visited-pages =
 home-prefs-highlights-options-bookmarks =
     .label = Comharran-lìn
 home-prefs-highlights-option-most-recent-download =
-    .label = Air a luchdadh a-nuas o chionn goirid
+    .label = Air a luchdadh a-nuas o chionn ghoirid
 home-prefs-highlights-option-saved-to-pocket =
     .label = Duilleagan air an sàbhaladh ann am { -pocket-brand-name }
+home-prefs-recent-activity-header =
+    .label = Gnìomhachd o chionn ghoirid
+home-prefs-recent-activity-description = Roghainn de làraichean is susbaint faisg ort
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,

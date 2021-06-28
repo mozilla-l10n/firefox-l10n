@@ -488,12 +488,14 @@ bookmarks-toolbar-placeholder-button =
     .label = Rudan air bàr nan comharran-lìn
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
-    .label = Cuir an taba làithreach ris na comharran-lìn
+    .label = Dèan comharra-lìn dhen taba làithreach
 
 ## Library Panel items
 
 library-bookmarks-menu =
     .label = Comharran-lìn
+library-recent-activity-title =
+    .value = Gnìomhachd o chionn ghoirid
 
 ## Pocket toolbar button
 

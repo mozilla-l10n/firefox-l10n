@@ -93,7 +93,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY pointerlockWarning.generic.label "Tha smachd aig an sgrìobhainn seo air an tomhaire agad. Brùth Esc airson an smachd a thilleadh dhut fhèin.">
 
 <!ENTITY showAllBookmarks2.label "Seall a h-uile comharra-lìn">
-<!ENTITY recentBookmarks.label "Comharran-lìn a rinn thu o chionn goirid">
+<!ENTITY recentBookmarks.label "Comharran-lìn a rinn thu o chionn ghoirid">
 <!ENTITY bookmarksToolbarChevron.tooltip "Tuilleadh chomharran-lìn">
 
 <!ENTITY printButton.label            "Clò-bhuail">
@@ -152,7 +152,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuHistory.restoreSession.label "Aisig an seisean roimhe seo">
 <!ENTITY appMenuHistory.viewSidebar.label "Seall bàr-taoibh na h-eachdraidh">
 <!ENTITY appMenuHistory.hideSidebar.label "Falaich bàr-taoibh na h-eachdraidh">
-<!ENTITY appMenuHistory.recentHistory.label "Eachdraidh o chionn goirid">
+<!ENTITY appMenuHistory.recentHistory.label "An eachdraidh faisg ort">
 
 <!ENTITY appMenuHelp.label "Cobhair">
 
@@ -188,7 +188,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuRemoteTabs.hidesidebar.label "Falaich bàr-taoibh nan tabaichean sioncronaichte">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Ceangail uidheam eile ris">
 
-<!ENTITY appMenuRecentHighlights.label "Sàr-roghainn o chionn goirid">
+<!ENTITY appMenuRecentHighlights.label "Sàr-roghainn o chionn ghoirid">
 
 <!ENTITY customizeMenu.addToToolbar.label "Cuir ris a' bhàr-inneal">
 <!ENTITY customizeMenu.addToToolbar.accesskey "a">

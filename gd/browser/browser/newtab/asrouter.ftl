@@ -268,6 +268,10 @@ cfr-whatsnew-protections-cta-link = Seall deas-bhòrd an dìona
 
 ## What's new: Better bookmarking
 
+cfr-whatsnew-bookmarking-body = Tha e nas fhasa sùil a chumail air na làraichean as annsa leat a-nis. Cuiridh { -brand-short-name } an t-ionad as fheàrr leat airson sàbhaladh nan comharran-lìn ’na chuimhne a-nis, seallaidh e bàr-inneal nan comharran-lìn air tabaichean ùra o thùs agus bheir e cothrom luath dhut air a’ chòrr dhe na comharran-lìn agad le pasgan chomharran-lìn.
 
 ## What's new: Cross-site cookie tracking
+
+
+## Full Video Support CFR message
 
