@@ -109,6 +109,9 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Shortcut: Hanapin ang { $engineName } direkta mula sa iyong address bar.
 urlbar-search-tips-redirect-2 = Simulan ang iyong paghahanap sa address bar para makakita ng mga mungkahi mula sa { $engineName } at sa iyong browsing history.
+# Prompts users to use the Urlbar when they are typing in the domain of a
+# search engine, e.g. google.com or amazon.com.
+urlbar-tabtosearch-onboard = Piliin ang shortcut na ito upang makita kung ano ang iyong kinakailangan nang mas mabilis.
 
 ## Local search mode indicator labels in the urlbar
 
@@ -242,6 +245,14 @@ search-one-offs-context-set-as-default-private =
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
+# Shown when adding new engines from the address bar shortcut buttons or context
+# menu, or from the search bar shortcut buttons.
+# Variables:
+#  $engineName (String): The name of the engine.
+search-one-offs-add-engine =
+    .label = I-dagdag ang “{ $engineName }”
+    .tooltiptext = I-dagdag ang search engine na “{ $engineName }”
+    .aria-label = I-dagdag ang search engine na “{ $engineName }”
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -263,6 +274,7 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = Magdagdag ng bookmark
 bookmark-panel-cancel =
     .label = Kanselahin
     .accesskey = C
@@ -299,6 +311,7 @@ identity-header-security-with-host =
     .title = Connection Security for { $host }
 identity-connection-not-secure = Hindi ligtas ang koneksyon
 identity-connection-secure = Ligtas na koneksyon
+identity-connection-failure = Kabiguan sa koneksyon
 identity-connection-internal = Ito ay secure na { -brand-short-name } na pahina.
 identity-connection-file = Ang pahinang ito ay naka-imbak sa iyong computer.
 identity-extension-page = Ang pahinang ito ay nai-load mula sa isang extension.
@@ -318,7 +331,11 @@ identity-https-only-dropdown-off =
     .label = Nakasara
 identity-https-only-dropdown-off-temporarily =
     .label = Pansamantalang nakasara
+identity-https-only-info-turn-on2 = Buksan ang HTTPS-Only Mode para sa site na ito kung nais mong i-upgrade ng { -brand-short-name } ang koneksyon kung posible.
+identity-https-only-info-turn-off2 = Kung mukhang sira ang pahina, maaari mong patayin ang HTTPS-Only Mode para mag-reload ang site gamit ang walang katiyakang HTTP.
 identity-https-only-info-no-upgrade = Hindi kayang mag-upgrade ng koneksyon mula sa HTTP.
+identity-permissions-storage-access-header = Mga cross-site cookie
+identity-permissions-storage-access-hint = Ang mga partidong ito ay maaaring gumamit ng mga cross-site cookie at site data habang ikaw ay nasa site na ito.
 identity-permissions-reload-hint = Maaaring kailangan mong i-reload ang pahina para mag-aplay ang mga pagbabago.
 identity-permissions-empty = Hindi mo ipinagkaloob ang site na ito anumang espesyal na pahintulot.
 identity-clear-site-data =
@@ -365,6 +382,8 @@ browser-window-close-button =
 ## Tab actions
 
 # This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = TUMUTUGTOG
+# This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-muted2 = MUTED
 
 ## These labels should be written in all capital letters if your locale supports them.
@@ -398,6 +417,8 @@ popup-select-microphone-device =
     .accesskey = M
 popup-select-microphone-icon =
     .tooltiptext = Mikropono
+popup-select-speaker-icon =
+    .tooltiptext = Mga Speaker
 popup-all-windows-shared = Lahat ng nakikitang window sa iyong screen ay ibabahagi.
 popup-screen-sharing-not-now =
     .label = Hindi Ngayon
@@ -407,6 +428,9 @@ popup-screen-sharing-never =
     .accesskey = H
 popup-silence-notifications-checkbox = I-disable ang mga notification mula sa { -brand-short-name } habang nagbabahagi
 popup-silence-notifications-checkbox-warning = Hindi magpapakita ng mga notification ang { -brand-short-name } habang ikaw ay nagbabahagi.
+popup-screen-sharing-block =
+    .label = Harangin
+    .accesskey = H
 
 ## WebRTC window or screen share tab switch warning
 
@@ -504,6 +528,8 @@ urlbar-result-action-tabtosearch-web = Maghanap gamit ang { $engine } direkta mu
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = Maghanap sa { $engine } direkta mula sa address bar
+# Action text for copying to clipboard.
+urlbar-result-action-copy-to-clipboard = Kopyahin
 # Shows the result of a formula expression being calculated, the last = sign will be shown
 # as part of the result (e.g. "= 2").
 # Variables
@@ -627,6 +653,7 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Password save/update panel
 
+panel-save-update-username = Username
 
 ## Add-on removal warning
 

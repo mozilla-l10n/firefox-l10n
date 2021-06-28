@@ -111,6 +111,12 @@ main-context-menu-bookmark-add =
 main-context-menu-bookmark-add-mac =
     .label = i-Bookmark ang Pahina
     .accesskey = B
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-edit-mac =
+    .label = i-Edit ang Bookmark
+    .accesskey = m
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-add-with-shortcut =
@@ -145,6 +151,9 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-bookmark-this-link =
     .label = i-Bookmark ang Link na Ito
     .accesskey = L
+main-context-menu-bookmark-link =
+    .label = Link ng Bookmark
+    .accesskey = B
 main-context-menu-save-link =
     .label = i-Save ang Link Bilang…
     .accesskey = k
@@ -167,6 +176,9 @@ main-context-menu-copy-email =
 main-context-menu-copy-link =
     .label = Kopyahin ang Lokasyon ng Link
     .accesskey = a
+main-context-menu-copy-link-simple =
+    .label = Kopyahin ang Link
+    .accesskey = L
 
 ## Media (video/audio) controls
 ##
@@ -209,6 +221,9 @@ main-context-menu-media-play-speed-faster =
 main-context-menu-media-play-speed-fastest =
     .label = Ubod nang bilis (2×)
     .accesskey = L
+main-context-menu-media-play-speed-2 =
+    .label = Bilis
+    .accesskey = s
 main-context-menu-media-play-speed-slow-2 =
     .label = 0.5×
 main-context-menu-media-play-speed-normal-2 =
@@ -246,6 +261,11 @@ main-context-menu-media-video-leave-fullscreen =
 main-context-menu-media-pip =
     .label = Picture-in-Picture
     .accesskey = u
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-watch-pip =
+    .label = Panoorin gamit ang Picture-in-Picture
+    .accesskey = u
 main-context-menu-image-reload =
     .label = i-Reload ang Larawan
     .accesskey = R
@@ -254,6 +274,12 @@ main-context-menu-image-view =
     .accesskey = I
 main-context-menu-video-view =
     .label = Tingnan ang Video
+    .accesskey = i
+main-context-menu-image-view-new-tab =
+    .label = Buksan ang Larawan sa Bagong Tab
+    .accesskey = L
+main-context-menu-video-view-new-tab =
+    .label = Buksan ang Video sa Bagong Tab
     .accesskey = i
 main-context-menu-image-copy =
     .label = Kopyahin ang Larawan
@@ -267,6 +293,15 @@ main-context-menu-video-copy-location =
 main-context-menu-audio-copy-location =
     .label = Kopyahin ang Lokasyon ng Audio
     .accesskey = o
+main-context-menu-image-copy-link =
+    .label = Kopyahin ang Link ng Larawan
+    .accesskey = o
+main-context-menu-video-copy-link =
+    .label = Kopyahin ang Link ng Video
+    .accesskey = o
+main-context-menu-audio-copy-link =
+    .label = Kopyahin ang Link ng Audio
+    .accesskey = o
 main-context-menu-image-save-as =
     .label = i-Save ang Larawan Bilang...
     .accesskey = v
@@ -276,6 +311,9 @@ main-context-menu-image-email =
 main-context-menu-image-set-as-background =
     .label = Gawing Background sa Desktop…
     .accesskey = S
+main-context-menu-image-set-image-as-background =
+    .label = Gawing Background sa Desktop ang Larawan…
+    .accesskey = G
 main-context-menu-image-info =
     .label = Tingnan ang Impormasyon ng Larawan
     .accesskey = f
@@ -291,6 +329,9 @@ main-context-menu-audio-save-as =
 main-context-menu-video-image-save-as =
     .label = i-Save ang Snapshot Bilang…
     .accesskey = S
+main-context-menu-video-take-snapshot =
+    .label = Kumuha ng Snapshot...
+    .accesskey = K
 main-context-menu-video-email =
     .label = i-Email ang Video…
     .accesskey = a
@@ -320,9 +361,18 @@ main-context-menu-generate-new-password =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-use-saved-login =
+    .label = Gumamit ng Nai-save na Pag-login
+    .accesskey = G
+main-context-menu-use-saved-password =
+    .label = Gumamit ng Nai-save na Password
+    .accesskey = G
 
 ##
 
+main-context-menu-suggest-strong-password =
+    .label = Magmungkahi ng Malakas na Password...
+    .accesskey = M
 main-context-menu-manage-logins2 =
     .label = Pamahalaan ang ang Login
     .accesskey = L
@@ -371,6 +421,9 @@ main-context-menu-view-selection-source =
 main-context-menu-take-screenshot =
     .label = Kumuha ng Screenshot
     .accesskey = K
+main-context-menu-take-frame-screenshot =
+    .label = Kumuha ng Screenshot
+    .accesskey = o
 main-context-menu-view-page-source =
     .label = Tingnan ang Source Code ng Pahina
     .accesskey = T

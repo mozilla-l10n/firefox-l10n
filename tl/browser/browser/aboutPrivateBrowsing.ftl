@@ -9,6 +9,15 @@ about-private-browsing-info-title = Ikaw ay Nasa Pribadong Window
 about-private-browsing-info-myths = Mga karaniwang pamahiin tungkol sa pribadong pagbrowse
 about-private-browsing =
     .title = Hanapin sa Web
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff =
+    .title = Maghanap gamit ang { $engine } o ilagay ang address
+about-private-browsing-handoff-no-engine =
+    .title = Maghanap o ilagay ang address
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff-text = Maghanap gamit ang { $engine } o ilagay ang address
 about-private-browsing-handoff-text-no-engine = Hanapin o ilagay ang address
 about-private-browsing-not-private = Ikaw ay kasalukuyang wala sa pribadong window.
 about-private-browsing-info-description = Inaalis ng { -brand-short-name } ang iyong bakas sa paghahanap at pag-browse kapag isinara lahat ng mga tab at window sa Private Browsing.  Bagamat hindi ka magiging anonymous sa mga website o sa iyong internet service provider sa paggawa nito, magiging mas madali para sa iyo na panatilihing pribado ang mga ginagawa mo online sa ibang mga gumagamit ng computer na ito.

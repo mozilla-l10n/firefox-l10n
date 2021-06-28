@@ -15,6 +15,7 @@ pocket-panel-saved-error-generic = May pagkakamali nung sinusubukang I-save sa {
 pocket-panel-saved-error-tag-length = Tags ay limitado sa 25 characters
 pocket-panel-saved-error-only-links = Tanging mga link lamang ay maaaring i-save
 pocket-panel-saved-error-not-saved = Pahina ay hindi na I-save
+pocket-panel-saved-error-no-internet = Kailangang konektado ka sa internet upang ito ay masave sa { -pocket-brand-name }. Pakitingnan ang iyong koneksyon at subukan uli.
 pocket-panel-saved-page-removed = Pahina ay na Tanggal
 pocket-panel-saved-page-saved = I-save sa { -pocket-brand-name }
 pocket-panel-saved-processing-remove = Inaalis ang Pahina…
@@ -40,3 +41,9 @@ pocket-panel-signup-tagline-story-two = Tingnan sa { -pocket-brand-name } sa anu
 
 ## about:pocket-home panel
 
+pocket-panel-home-my-list = Aking Listahan
+pocket-panel-home-welcome-back = Maligayang Pagbabalik
+pocket-panel-home-paragraph = Maaari mong gamitin ang { -pocket-brand-name } upang saliksikin at i-save ang mga webpage, artikulo, video, podcast, o makabalik sa binabasa mo.
+pocket-panel-home-explore-popular-topics = Saliksikin ang Mga Patok na Paksa
+pocket-panel-home-discover-more = Magtuklas Pa
+pocket-panel-home-explore-more = Magsaliksik

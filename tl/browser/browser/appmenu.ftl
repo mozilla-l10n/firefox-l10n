@@ -5,6 +5,12 @@
 
 ## App Menu
 
+appmenuitem-update-banner3 =
+    .label-update-downloading = Nagda-download ng { -brand-shorter-name } update
+    .label-update-available = Mayroong update — i-download na
+    .label-update-manual = Mayroong update — i-download na
+    .label-update-unsupported = Hindi makapag-update — hindi tugma sa system
+    .label-update-restart = Mayroong update — mag-restart na
 appmenuitem-protection-dashboard-title = Protections Dashboard
 appmenuitem-customize-mode =
     .label = I-customize...
@@ -23,12 +29,20 @@ appmenuitem-addons-and-themes =
     .label = mga Add-on at Themes
 appmenuitem-find-in-page =
     .label = Hanapin Sa Pahina...
+appmenuitem-more-tools =
+    .label = Marami pang mga kagamitan
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
             [linux] Lumabas
            *[other] Lumabas
         }
+appmenu-menu-button-closed2 =
+    .tooltiptext = Buksan ang Application Menu
+    .label = { -brand-short-name }
+appmenu-menu-button-opened2 =
+    .tooltiptext = Isara ang Application Menu
+    .label = { -brand-short-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -47,10 +61,23 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Mag-sync Na
+appmenu-remote-tabs-sign-into-sync =
+    .label = Mag-sign in sa sync…
+appmenu-remote-tabs-turn-on-sync =
+    .label = Buksan ang sync…
 appmenuitem-fxa-toolbar-sync-now2 = I-sync ngayon
 appmenuitem-fxa-manage-account = Pamahalaan ang account
 appmenu-fxa-header2 = { -fxaccount-brand-name }
+# Variables
+# $time (string) - Localized relative time since last sync (e.g. 1 second ago,
+# 3 hours ago, etc.)
+appmenu-fxa-last-sync = Huling na-sync { $time }
+    .label = Huling na-sync { $time }
+appmenu-fxa-sync-and-save-data2 = I-sync at i-save ang data
 appmenu-fxa-signed-in-label = Mag sign-in
+appmenu-fxa-setup-sync =
+    .label = Buksan ang Pag-sync…
+appmenu-fxa-show-more-tabs = Magpakita ng Marami Pang Tab
 appmenuitem-save-page =
     .label = i-Save ang Pahina Bilang…
 
@@ -69,9 +96,30 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
+profiler-popup-reveal-description-button =
+    .aria-label = Magbunyag ng karagdagang impormasyon
+profiler-popup-description-title =
+    .value = Itala, pag-aralan, ibahagi
+profiler-popup-description = Makipagtulungan sa mga isyu sa performance sa pamamagitan ng pag-publish ng mga profile upang ibahagi sa iyong team.
 profiler-popup-learn-more = Alamin
 profiler-popup-settings =
     .value = Mga Setting
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings = Baguhin ang Settings…
+profiler-popup-disabled =
+    Ang profiler ay kasalukuyang nakapatay, malamang dahil nakabukas ang
+    isang Private Browsing window.
+profiler-popup-recording-screen = Nagrerecord…
+# The profiler presets list is generated elsewhere, but the custom preset is defined
+# here only.
+profiler-popup-presets-custom =
+    .label = Custom
+profiler-popup-start-recording-button =
+    .label = Magrecord na
+profiler-popup-discard-button =
+    .label = Itapon
+profiler-popup-capture-button =
+    .label = Kuhanan
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
@@ -101,12 +149,17 @@ appmenu-recently-closed-windows =
 
 ## Help panel
 
+appmenu-help-header =
+    .title = Tulong { -brand-shorter-name }
 appmenu-about =
     .label = Tungkol sa { -brand-shorter-name }
     .accesskey = A
 appmenu-get-help =
     .label = Humingi ng Tulong
     .accesskey = H
+appmenu-help-more-troubleshooting-info =
+    .label = Karagdagang impormasyon sa pag-troubleshoot
+    .accesskey = t
 appmenu-help-report-site-issue =
     .label = Mag-report ng Site Issue…
 appmenu-help-feedback-page =
@@ -116,6 +169,12 @@ appmenu-help-feedback-page =
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-enter-troubleshoot-mode2 =
+    .label = Troubleshoot Mode…
+    .accesskey = M
+appmenu-help-exit-troubleshoot-mode =
+    .label = Patayin ang Troubleshoot Mode
+    .accesskey = M
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -133,3 +192,6 @@ appmenu-customizetoolbar =
     .label = i-Customize ang Toolbar…
 appmenu-taskmanager =
     .label = Task Manager
+appmenu-developer-tools-subheader = Mga kagamitan ng browser
+appmenu-developer-tools-extensions =
+    .label = Mga extension para sa mga developer

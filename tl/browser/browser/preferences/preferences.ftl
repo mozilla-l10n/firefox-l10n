@@ -51,6 +51,10 @@ category-experimental =
     .tooltiptext = Mga { -brand-short-name } Experiment
 pane-experimental-subtitle = Mag-ingat sa Pagpatuloy
 pane-experimental-search-results-header = Mga { -brand-short-name } Experiment: Mag-ingat sa Pagpatuloy
+pane-experimental-description2 = Ang pagbabago sa mga advanced na setting ng pagsasaayos ay maaaring makaapekto sa performance o seguridad ng { -brand-short-name }.
+pane-experimental-reset =
+    .label = Ibalik sa Dating Ayos
+    .accesskey = I
 help-button-label = Suporta sa { -brand-short-name }
 addons-button-label = Mga Extension at Tema
 focus-search =
@@ -117,6 +121,8 @@ search-results-empty-message =
         [windows] Paumanhin! Walang mga resulta sa Mga Pagpipilian para sa “<span data-l10n-name="query"></span>”.
        *[other] Paumanhin! Walang mga resulta sa Mga Kagustuhan para sa “<span data-l10n-name="query"></span>”.
     }
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 = Pasensya na! Walang resulta para sa Mga Setting ng "<span data-l10n-name ="query"></span>".
 search-results-help-link = Kailangan ng tulong? Bisitahin ang <a data-l10n-name="url">{ -brand-short-name } Support </a>
 
 ## General Section
@@ -159,6 +165,9 @@ warn-on-open-many-tabs =
     .accesskey = d
 switch-links-to-new-tabs =
     .label = Kapag binuksan mo ang link sa bagong tab, lumipat kaagad doon
+    .accesskey = h
+switch-to-new-tabs =
+    .label = Kapag binuksan mo ang isang link, larawan o media sa bagong tab, lumipat agad doon
     .accesskey = h
 show-tabs-in-taskbar =
     .label = Ipakita ang paunang-tingin na tab sa Windows taskbar
@@ -365,6 +374,9 @@ update-application-check-choose =
 update-application-manual =
     .label = Huwag kailanman mag-check kung may mga update (hindi rekomendado)
     .accesskey = N
+update-application-background-enabled =
+    .label = Kapag ang { -brand-short-name } ay hindi nagrurun
+    .accesskey = K
 update-application-warning-cross-user-setting = Ang setting na ito ay gagamitin sa lahat ng mga Windows account at { -brand-short-name } profile na gumagamit ng installation na ito ng { -brand-short-name }.
 update-application-use-service =
     .label = Gumamit ng background service upang ikabit ang mga update
@@ -378,6 +390,7 @@ update-setting-write-failure-message =
     Nagkaroon ng problema ang { -brand-short-name } at hindi nagawang i-save ang pagbabagong ito. Tandaan na ang pagbago sa update preference na ito ay nangangailangan ng pahintulot para mabago ang file sa baba. Maaaring maayos mo o ng isang system administrator ang problema sa pamamagitan ng pagbigay ng kumpletong access sa Users group sa file na ito.
     
     Hindi makasulat sa file: { $path }
+update-setting-write-failure-title2 = Nagkaroon ng problema sa pag-save ng mga setting Pang-update
 update-in-progress-title = Kasalukuyang Nag-a-update
 update-in-progress-message = Gusto mo bang ipagpatuloy ng { -brand-short-name } ang update na ito?
 update-in-progress-ok-button = Isantabi
@@ -517,6 +530,9 @@ home-prefs-highlights-option-most-recent-download =
     .label = Mga Download Kamakailan
 home-prefs-highlights-option-saved-to-pocket =
     .label = Mga Pahinang Naka-save sa { -pocket-brand-name }
+home-prefs-recent-activity-header =
+    .label = Kamakailang aktibidad
+home-prefs-recent-activity-description = Isang pagpipilian ng mga kamakailang site at nilalaman
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -524,6 +540,7 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-snippets-header =
     .label = Mga snippet
 home-prefs-snippets-description = Mga Update mula sa { -vendor-short-name } at { -brand-product-name }
+home-prefs-snippets-description-new = Mga tip at balita mula sa { -vendor-short-name } at { -brand-product-name }
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -562,6 +579,7 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Magpakita ng mga mungkahi sa paghahanap sa mga Private Window
 suggestions-addressbar-settings-generic = Baguhin ang mga kagustuhan sa iba pang mga mungkahi sa address bar
+suggestions-addressbar-settings-generic2 = Baguhin ang mga setting para sa iba pang mga mungkahi sa address bar
 search-suggestions-cant-show = Ang mga mungkahi sa paghahanap ay hindi ipapakita sa location bar dahil na-configure mo ang { -brand-short-name } na hindi kailanman tatandaan ang kasaysayan.
 search-one-click-header = Mga One-Click Search Engine
 search-one-click-header2 = Mga Shortcut sa Paghanap
@@ -596,6 +614,8 @@ containers-back-button =
             [windows] Bumalik sa mga Pagpipilian
            *[other] Bumalik sa mga Kagustuhan
         }
+containers-back-button2 =
+    .aria-label = Bumalik sa Mga Setting
 containers-header = Mga Container Tab
 containers-add-button =
     .label = Magdagdag ng Bagong Container
@@ -605,6 +625,8 @@ containers-new-tab-check =
     .accesskey = S
 containers-preferences-button =
     .label = Mga Kagustuhan
+containers-settings-button =
+    .label = Mga setting
 containers-remove-button =
     .label = Alisin
 
@@ -615,6 +637,10 @@ sync-signedout-caption = Dalhin Mo Ang Web Kahit Saan
 sync-signedout-description = I-synchronize ang iyong mga bookmark, kasaysayan, tab, password, add-on, at kagustuhan sa lahat ng iyong mga device.
 sync-signedout-account-signin2 =
     .label = Mag-sign in sa { -sync-brand-short-name }…
+    .accesskey = i
+sync-signedout-description2 = I-synchronize ang iyong mga bookmark, kasaysayan, mga tab, password, add-on, at mga setting sa lahat ng iyong mga device.
+sync-signedout-account-signin3 =
+    .label = Mag-sign in upang mag-sync…
     .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -655,6 +681,10 @@ prefs-sync-setup =
     .label = Mag-set up ng { -sync-brand-short-name }...
     .accesskey = S
 prefs-sync-offer-setup-label = I-synchronize ang iyong mga bookmark, kasaysayan, tab, password, add-on, at mga kagustuhan sa lahat ng iyong mga device.
+prefs-sync-turn-on-syncing =
+    .label = Buksan ang pag-sync…
+    .accesskey = s
+prefs-sync-offer-setup-label2 = I-synchronize ang iyong mga bookmark, kasaysayan, mga tab, password, add-on, at mga setting sa lahat ng iyong mga device.
 prefs-sync-now =
     .labelnotsyncing = Mag-Sync Na
     .accesskeynotsyncing = N
@@ -675,6 +705,7 @@ sync-currently-syncing-prefs =
         [windows] Mga Pagpipilian
        *[other] Mga Kagustuhan
     }
+sync-currently-syncing-settings = Mga Setting
 sync-change-options =
     .label = Baguhin…
     .accesskey = C
@@ -722,6 +753,10 @@ sync-engine-prefs =
         }
     .tooltiptext = Mga setting na pangkalahatan, pang-pribasiya, at pang-seguridad na iyong binago
     .accesskey = P
+sync-engine-settings =
+    .label = Mga Setting
+    .tooltiptext = Mga setting sa pangkalahatan, pagkapribado, at pangseguridad na iyong binago
+    .accesskey = s
 
 ## The device name controls.
 
@@ -877,6 +912,10 @@ sitedata-option-block-cross-site-trackers =
     .label = Mga cross-site tracker
 sitedata-option-block-cross-site-and-social-media-trackers =
     .label = Mga cross-site at social media tracker
+sitedata-option-block-cross-site-tracking-cookies-including-social-media =
+    .label = Mga cross-site tracking cookie — kasama ang mga social media cookie
+sitedata-option-block-cross-site-cookies-including-social-media =
+    .label = Mga cross-site cookie — kasama ang mga social media cookie
 sitedata-option-block-cross-site-and-social-media-trackers-plus-isolate =
     .label = Mga cross-site at social media tracker, at ihiwalay ang mga natitirang cookie
 sitedata-option-block-unvisited =
@@ -911,9 +950,16 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Mga nakabukas na tab
     .accesskey = O
+# Shortcuts refers to the shortcut tiles on the new tab page, previously known as top sites. Translation should be consistent.
+addressbar-locbar-shortcuts-option =
+    .label = Mga Shortcut
+    .accesskey = S
 addressbar-locbar-topsites-option =
     .label = Mga pangunahing site
     .accesskey = P
+addressbar-locbar-engines-option =
+    .label = Mga search engine
+    .accesskey = a
 addressbar-suggestions-settings = Baguhin ang mga kagustuhan para sa mga mungkahi ng search engine
 
 ## Privacy Section - Content Blocking
@@ -921,6 +967,7 @@ addressbar-suggestions-settings = Baguhin ang mga kagustuhan para sa mga mungkah
 content-blocking-enhanced-tracking-protection = Enhanced Tracking Protection
 content-blocking-section-top-level-description = Sinusundan ka ng mga tracker online para mangolekta ng impormasyon tungkol sa iyong mga kaugalian at interes sa pag-browse. Hinaharang ng { -brand-short-name } ang karamihan sa mga tracker na ito at iba pang mga delikadong script.
 content-blocking-learn-more = Alamin pa
+content-blocking-fpi-incompatibility-warning = Gumagamit ka ng First Party Isolation (FPI), na nagpapalit sa ilang mga cookie setting ng { -brand-short-name }.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -941,8 +988,11 @@ enhanced-tracking-protection-setting-custom =
 content-blocking-etp-standard-desc = Balansado para sa proteksyon at performance. Normal na maglo-load ang mga pahina.
 content-blocking-etp-strict-desc = Mas malakas na proteksyon, pero maaaring ikasira ng ilang mga site o content.
 content-blocking-etp-custom-desc = Piliin kung aling mga tracker at scripts ang dapat harangin.
+content-blocking-etp-blocking-desc = Hinaharang ng { -brand-short-name } ang sumusunod:
 content-blocking-private-windows = Tracking content sa mga Private Window
+content-blocking-cross-site-cookies-in-all-windows = Mga cross-site cookie sa lahat ng mga window (kasama ang mga tracking cookie)
 content-blocking-cross-site-tracking-cookies = Mga cross-site tracking cookie
+content-blocking-all-cross-site-cookies-private-windows = Mga cross-site cookie sa mga Pribadong Window
 content-blocking-cross-site-tracking-cookies-plus-isolate = Mga cross-site tracking cookie, at ihiwalay ang mga natitirang cookie
 content-blocking-social-media-trackers = Mga social media tracker
 content-blocking-all-cookies = Lahat ng mga cookie
@@ -953,6 +1003,7 @@ content-blocking-cryptominers = Mga Cryptominer
 content-blocking-fingerprinters = Mga Fingerprinter
 content-blocking-warning-title = Mag-ingat!
 content-blocking-and-isolating-etp-warning-description = Ang pagharang sa mga tracker at paghiwalay sa mga cookie ay maaaring makaapekto sa functionality ng ilang mga site. Mag-reload ng pahina na may mga tracker para maiload lahat ng content.
+content-blocking-and-isolating-etp-warning-description-2 = Ang setting na ito ay maaaring maging sanhi ng ilang mga website na hindi ipakita ang nilalaman o gumana nang tama. Kung tila nasira ang isang site, baka gusto mong patayin ang tracking protection para sa site na iyon upang mai-load ang lahat ng nilalaman.
 content-blocking-warning-learn-how = Alamin kung paano
 content-blocking-reload-description = Kailangan mong i-reload ang iyong mga tab upang makita ang mga pagbabago.
 content-blocking-reload-tabs-button =

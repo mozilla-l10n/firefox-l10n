@@ -70,6 +70,7 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Hinahanap mo ba ang iyong naka-save na mga login? I-set up ang { -sync-brand-short-name }.
+about-logins-login-intro-heading-logged-out2 = Hinahanap mo ba ang iyong nai-save na mga login? Buksan ang pag-sync o i-import ang mga ito.
 about-logins-login-intro-heading-logged-in = Walang natagpuang naka-sync na mga login.
 login-intro-description = Kung nag-save ka ng mga login mo sa { -brand-product-name } sa ibang device, ganito ang dapat gawin para makuha mo sila rito:
 login-intro-instruction-fxa = Gumawa ng o mag-sign in sa iyong { -fxaccount-brand-name } sa device kung saan naka-save ang mga login mo
@@ -87,6 +88,7 @@ login-item-new-login-title = Gumawa ng Panibagong Login
 login-item-edit-button = Baguhin
 about-logins-login-item-remove-button = Tanggalin
 login-item-origin-label = Website Address
+login-item-tooltip-message = Tiyaking tumutugma ito sa eksaktong address ng website kung saan ka nag-log in.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Username
@@ -189,10 +191,26 @@ about-logins-confirm-remove-all-dialog-title =
         [one] Alisin ang lahat ng { $count } login?
        *[other] Remove all { $count } logins?
     }
+about-logins-confirm-remove-all-dialog-message =
+    { $count ->
+        [1] Aalisin nito ang login na na-save mo sa { -brand-short-name } at anumang mga alerto sa paglabag na lilitaw dito. Hindi mo maibabalik ang pagkilos na ito.
+       *[other] Aalisin nito ang mga login na na-save mo sa { -brand-short-name } at anumang mga alerto sa paglabag na lilitaw dito. Hindi mo maibabalik ang pagkilos na ito.
+    }
+about-logins-confirm-remove-all-sync-dialog-title =
+    { $count ->
+        [one] Alisin ang ($count) login mula sa lahat ng mga device?
+       *[other] Alisin ang lahat ng ($count) mga login mula sa lahat ng mga device?
+    }
+about-logins-confirm-remove-all-sync-dialog-message =
+    { $count ->
+        [1] Aalisin nito ang login na nai-save mo sa { -brand-short-name } ng lahat ng mga device na naka-sync sa iyong { -fxaccount-brand-name }. Aalisin din nito ang mga alerto sa paglabag na lilitaw dito. Hindi mo maibabalik ang pagkilos na ito.
+       *[other] Aalisin nito ang lahat ng mga login na nai-save mo sa { -brand-short-name } ng lahat ng mga device na naka-sync sa iyong { -fxaccount-brand-name }. Aalisin din nito ang mga alerto sa paglabag na lilitaw dito. Hindi mo maibabalik ang pagkilos na ito.
+    }
 about-logins-confirm-export-dialog-title = Mag-export ng mga login at password
 about-logins-confirm-export-dialog-message = Mase-save ang mga password mo bilang readable text (hal., PangitNaP@ssw0rd) kaya pwede itong makita ng kahit sinong makakapagbukas ng na-export na file.
 about-logins-confirm-export-dialog-confirm-button = i-Export…
 about-logins-alert-import-title = Kumpleto na ang Pag-import
+about-logins-alert-import-message = Tingnan ang detalyadong Buod ng Pag-import
 confirm-discard-changes-dialog-title = Itapon ang mga hindi nai-save na pagbabago?
 confirm-discard-changes-dialog-message = Lahat ng hindi nai-save na mga pagbabago ay mawawala.
 confirm-discard-changes-dialog-confirm-button = Balewalain
@@ -269,29 +287,74 @@ about-logins-import-file-picker-tsv-filter-title =
 about-logins-import-dialog-title = Kumpleto na ang Pag-import
 about-logins-import-dialog-items-added =
     { $count ->
-        [one] <span>naidagdag ang mga bagong login</span> <span data-l10n-name="count">{ $count }</span>
-       *[other] <span>dinagdag ang mga bagong login</span> <span data-l10n-name="count">{ $count }</span>
+        [one] <span>Dinagdag na bagong login:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Dinagdag na mga bagong login:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified =
+    { $count ->
+       *[other] <span>Mga binagong umiiral na login:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+       *[other] <span>Mga nahanap na magkaparehong login:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(hindi na-import)</span>
+    }
+about-logins-import-dialog-items-error =
+    { $count ->
+       *[other] <span>Mga error:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(hindi na-import)</span>
     }
 about-logins-import-dialog-done = Tapos na
 about-logins-import-dialog-error-title = Error sa Pag-import
+about-logins-import-dialog-error-conflicting-values-title = Maramihang Mga Magkasalungat na Halaga para sa Isang Login
+about-logins-import-dialog-error-conflicting-values-description = Halimbawa: maramihang mga username, password, URL, atbp para sa isang login.
 about-logins-import-dialog-error-file-format-title = May Isyu sa Format ng File
+about-logins-import-dialog-error-file-format-description = Hindi tama o nawawala ang mga header ng haligi. Tiyaking may kasamang mga haligi ang file para sa username, password at URL.
 about-logins-import-dialog-error-file-permission-title = Hindi mabasa ang File
+about-logins-import-dialog-error-file-permission-description = Walang pahintulot ang { -brand-short-name } na basahin ang file. Subukang baguhin ang mga pahintulot ng file.
+about-logins-import-dialog-error-unable-to-read-title = Hindi Mabasa ang File
+about-logins-import-dialog-error-unable-to-read-description = Tiyaking nakapili ka ng isang CSV o TSV file.
+about-logins-import-dialog-error-no-logins-imported = Walang na-import na mga login
 about-logins-import-dialog-error-learn-more = Karagdagang kaalaman
+about-logins-import-dialog-error-try-import-again = Muling subukan ang pag-import...
 about-logins-import-dialog-error-cancel = Kanselahin
+about-logins-import-report-title = Buod ng Pag-import
+about-logins-import-report-description = Na-import ang mga login at password sa { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = Hanay { $number }
+about-logins-import-report-row-description-no-change = Magkapareho: Eksaktong tugma ng umiiral na login
+about-logins-import-report-row-description-modified = Binago ang umiiral na login
+about-logins-import-report-row-description-added = Nadagdag ang bagong login
+about-logins-import-report-row-description-error = Error: Nawawalang patlang
 
 ##
 ## Variables:
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
+about-logins-import-report-row-description-error-multiple-values = Error: Maramihang mga halaga para sa { $field }
+about-logins-import-report-row-description-error-missing-field = Error: Nawawalang { $field }
 
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-report-added =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Mga bagong login ang nadagdag</div>
+    }
+about-logins-import-report-modified =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Mga umiiral na login ang binago</div>
+    }
+about-logins-import-report-no-change =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Mga kaparehong login</div> <div data-l10n-name="not-imported">(hindi na-import)</div>
+    }
+about-logins-import-report-error =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Mga error</div> <div data-l10n-name="not-imported">(hindi na-import)</div>
+    }
 
 ## Logins import report page
 
+about-logins-import-report-page-title = Ulat pa-Buod ng Pag-import
