@@ -339,6 +339,11 @@ identity-https-only-dropdown-off =
 identity-https-only-dropdown-off-temporarily =
     .label = Dheth rè seal
 identity-https-only-info-turn-on2 = Cuir am modh HTTPS air dhan làrach seo ma thogras tu gun àrdaich { -brand-short-name } an ceangal nuair a ghabhas seo a dhèanamh.
+identity-https-only-info-turn-off2 = Ma tha coltas briste air an duilleag seo, dh’fhaoidte gu bheil thu airson am modh HTTPS a-mhàin a chur dheth dhan làrach seo agus a h-ath-luchdadh le HTTP neo-thèarainte.
+identity-https-only-info-no-upgrade = Cha b’ urrainn dhuinn an ceangal àrdachadh o HTTP.
+identity-permissions-storage-access-header = Briosgaidean thar làraichean
+identity-permissions-storage-access-hint = ’S urrainn dha na pàrtaidhean seo briosgaidean agus dàta thar làraichean a chleachdadh fhad ’s a bhios tu air an làrach seo.
+identity-permissions-storage-access-learn-more = Barrachd fiosrachaidh
 identity-permissions-reload-hint = Dh’fhaoidte gum bi agad ris an duilleag ath-luchdadh mus bi na h-atharraichean an sàs.
 identity-permissions-empty = Cha dug thu cead sònraichte sam bith dhan làrach seo.
 identity-clear-site-data =
@@ -375,6 +380,10 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = Lughdaich
+browser-window-maximize-button =
+    .tooltiptext = Làn-mheudaich
+browser-window-restore-down-button =
+    .tooltiptext = Aisig sìos
 browser-window-close-button =
     .tooltiptext = Dùin
 
@@ -382,11 +391,41 @@ browser-window-close-button =
 
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-playing2 = ’GA CHLUICH
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = MÙCHTE
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = GUN CHLUICH FHÈIN-OBRACHAIL
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = DEALBH AM BROINN DEILBH
 
 ## These labels should be written in all capital letters if your locale supports them.
 ## Variables:
 ##  $count (number): number of affected tabs
 
+browser-tab-mute =
+    { $count ->
+        [1] MÙCH AN TABA
+        [one] MÙCH { $count } TABA
+        [two] MÙCH { $count } THABA
+        [few] MÙCH { $count } TABAICHEAN
+       *[other] MÙCH { $count } TABA
+    }
+browser-tab-unmute =
+    { $count ->
+        [1] DÌ-MHUCH AN TABA
+        [one] DÌ-MHUCH { $count } TABA
+        [two] DÌ-MHUCH { $count } THABA
+        [few] DÌ-MHUCH { $count } TABAICHEAN
+       *[other] DÌ-MHUCH { $count } TABA
+    }
+browser-tab-unblock =
+    { $count ->
+        [1] CLUICH AN TABA
+        [one] CLUICH { $count } TABA
+        [two] CLUICH { $count } THABA
+        [few] CLUICH { $count } TABAICHEAN
+       *[other] CLUICH { $count } TABA
+    }
 
 ## Bookmarks toolbar items
 
@@ -403,6 +442,14 @@ popup-select-camera =
 popup-select-microphone =
     .value = Am micreofon a thèid a cho-roinneadh:
     .accesskey = m
+popup-select-camera-device =
+    .value = Camara:
+    .accesskey = C
+popup-select-camera-icon =
+    .tooltiptext = Camara
+popup-select-microphone-device =
+    .value = Micreofon:
+    .accesskey = M
 popup-all-windows-shared = Thèid gach uinneag a tha ri fhaicinn air an sgrìn agad a cho-roinneadh.
 
 ## WebRTC window or screen share tab switch warning
