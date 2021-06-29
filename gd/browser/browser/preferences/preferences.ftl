@@ -28,6 +28,21 @@ search-input-box =
             [windows] Lorg sna roghainnean
            *[other] Lorg sna roghainnean
         }
+settings-page-title = Roghainnean
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box2 =
+    .style = width: 17em
+    .placeholder = Lorg sna roghainnean
+managed-notice = Tha am brabhsair agad fo stiùireadh a’ bhuidhinn agad.
+category-list =
+    .aria-label = Roinnean-seòrsa
 pane-general-title = Coitcheann
 category-general =
     .tooltiptext = { pane-general-title }
@@ -43,6 +58,18 @@ category-privacy =
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
+pane-sync-title3 = Sioncronachadh
+category-sync3 =
+    .tooltiptext = { pane-sync-title3 }
+pane-experimental-title = Deuchainn air { -brand-short-name }
+category-experimental =
+    .tooltiptext = Deuchainn air { -brand-short-name }
+pane-experimental-subtitle = Cùm a’ dol ach bidh air d’ fhaiceall
+pane-experimental-search-results-header = Deuchainn air { -brand-short-name }: Cùm a’ dol ach bidh air d’ fhaiceall
+pane-experimental-description2 = Ma nì thu atharrachadh air roghainnean adhartach an rèiteachaidh, dh’fhaoidte gun doir sin buaidh air dèanadas no tèarainteachd { -brand-short-name }.
+pane-experimental-reset =
+    .label = Aisig na bun-roghainnean
+    .accesskey = r
 help-button-label = Taic le { -brand-short-name }
 addons-button-label = Leudachain ⁊ ùrlaran
 focus-search =
@@ -75,6 +102,9 @@ extension-controlled-homepage-override = Tha smachd aig leudachan, <img data-l10
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = Tha smachd aig leudachan, <img data-l10n-name="icon"/> { $name }, air duilleag an taba ùir agad.
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlled-password-saving = Tha an roghainn seo fo stiùireadh leudachan <img data-l10n-name="icon"/> { $name }.
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlled-web-notifications = Tha smachd aig leudachan, <img data-l10n-name="icon"/> { $name }, air an roghainn seo.
@@ -106,6 +136,8 @@ search-results-empty-message =
         [windows] Tha sinn duilich ach chan eil toradh sam bith dhut sna roghainnean airson “<span data-l10n-name="query"></span>”.
        *[other] Tha sinn duilich ach chan eil toradh sam bith dhut sna roghainnean airson “<span data-l10n-name="query"></span>”.
     }
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 = Tha sinn duilich ach chan eil toradh sam bith dhut sna roghainnean airson “<span data-l10n-name="query"></span>”.
 search-results-help-link = A bheil cobhair a dhìth ort. Tadhail air <a data-l10n-name="url">Taic { -brand-short-name }</a>
 
 ## General Section
@@ -148,6 +180,9 @@ warn-on-open-many-tabs =
     .accesskey = d
 switch-links-to-new-tabs =
     .label = Nuair a dh’hosglas tu ceangal ann an taba ùr, thoir leum ann sa bhad
+    .accesskey = h
+switch-to-new-tabs =
+    .label = Nuair a dh’fhosglas tu ceangal, dealbh no meadhan ann an taba ùr, thoir leum ann sa bhad
     .accesskey = h
 show-tabs-in-taskbar =
     .label = Seall ro-shealladh nan tabaichean ann am bàr-ghnìomhan Windows
@@ -202,6 +237,15 @@ advanced-fonts =
 colors-settings =
     .label = Dathan…
     .accesskey = D
+# Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header = Sùm
+preferences-default-zoom = An sùm bunaiteach
+    .accesskey = s
+preferences-default-zoom-value =
+    .label = { $percentage }%
+preferences-zoom-text-only =
+    .label = Na sùm ach an teacsa
+    .accesskey = t
 language-header = Cànan
 choose-language-description = Tagh an cànan as fhearr leat anns a nochdar dhut duilleagan
 choose-button =
@@ -222,6 +266,10 @@ translate-attribution = An t-eadar-theangachadh le <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Eisgeachdan…
     .accesskey = E
+# Variables:
+#    $localeName (string) - Localized name of the locale to be used.
+use-system-locale =
+    .label = Cleachd roghainnean an t-siostaim obrachaidh agad airson “{ $localeName }” a chùm fòrmatadh nan cinn-latha, nan amannan, nan àireamhan is nan aonadan tomhais.
 check-user-spelling =
     .label = Ceartaich an litreachadh is tu a’ sgrìobhadh rud
     .accesskey = t
@@ -270,6 +318,13 @@ applications-use-app =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = Cleachd { $app-name } (bunaiteach)
+applications-use-os-default =
+    .label =
+        { PLATFORM() ->
+            [macos] Cleachd aplacaid thùsail macOS
+            [windows] Cleachd aplacaid thùsail Windows
+           *[other] Cleachd aplacaid thùsail an t-siostaim
+        }
 applications-use-other =
     .label = Cleachd fear eile…
 applications-select-helper = Tagh aplacaid cobharach
@@ -286,9 +341,15 @@ applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
+#   $extension (String) - file extension (e.g .TXT)
+#   $type (String) - the MIME type (e.g application/binary)
+applications-file-ending-with-type = { applications-file-ending } ({ $type })
+# Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Cleachd { $plugin-name } (ann an { -brand-short-name })
+applications-open-inapp =
+    .label = Fosgail le { -brand-short-name }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -334,10 +395,20 @@ update-application-check-choose =
 update-application-manual =
     .label = Na thoir sùil airson ùrachaidhean idir (cha mholamaid seo)
     .accesskey = N
+update-application-background-enabled =
+    .label = Nuair nach eil { -brand-short-name } a’ ruith
+    .accesskey = r
 update-application-warning-cross-user-setting = Bidh buaidh aig an roghainn seo air gach cunntas Windows agus pròifil { -brand-short-name } a chleachdas an stàladh seo de { -brand-short-name }.
 update-application-use-service =
     .label = Cleachd seirbheis a stàlaicheas na h-ùrachaidhean sa chùlaibh
     .accesskey = C
+update-setting-write-failure-title = Mearachd le sàbhaladh roghainnean an ùrachaidh
+update-in-progress-title = ’Ga ùrachadh
+update-in-progress-message = A bheil thu airson ’s gun cùm { -brand-short-name } a’ dol leis an ùrachadh seo?
+update-in-progress-ok-button = &Tilg air falbh
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = &Lean air adhart
 
 ## General Section - Performance
 
@@ -377,6 +448,14 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Lorg teacsa cho luath ’s a thòisicheas tu air sgrìobhadh
     .accesskey = L
+browsing-picture-in-picture-toggle-enabled =
+    .label = Cuir an comas uidheaman-smachd video dealbh am broinn deilbh
+    .accesskey = e
+browsing-picture-in-picture-learn-more = Barrachd fiosrachaidh
+browsing-media-control =
+    .label = Stiùirich na meadhanan le meur-chlàr, headset no eadar-aghaidh bhiortail
+    .accesskey = S
+browsing-media-control-learn-more = Barrachd fiosrachaidh
 browsing-cfr-recommendations =
     .label = Mol leudachain fhad ’s a bhios mi ri brabhsadh
     .accesskey = r
@@ -440,12 +519,21 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = Brod nan làrach
 home-prefs-topsites-description = Na làraichean air an tadhail thu as trice
+home-prefs-topsites-by-option-sponsored =
+    .label = Brod nan làrach sponsairichte
+home-prefs-shortcuts-header =
+    .label = Ath-ghoiridean
+home-prefs-shortcuts-description = Làraichean a shàbhail thu no a thadhail thu orra
+home-prefs-shortcuts-by-option-sponsored =
+    .label = Ath-ghoiridean sponsairichte
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
 home-prefs-recommended-by-header =
     .label = ’Ga mholadh le { $provider }
+home-prefs-recommended-by-description-update = Sàr-shusbaint o fheadh an lìn ’ga thasgadh le { $provider }
+home-prefs-recommended-by-description-new = Sàr-shusbaint ’ga thasgadh le { $provider } mar phàirt de theaghlach { -brand-product-name }
 
 ##
 
@@ -473,6 +561,7 @@ home-prefs-recent-activity-description = Roghainn de làraichean is susbaint fai
 home-prefs-snippets-header =
     .label = Snippets
 home-prefs-snippets-description = Ùrachaidhean o { -vendor-short-name } is { -brand-product-name }
+home-prefs-snippets-description-new = Gliocasan is naidheachdan o { -vendor-short-name } is { -brand-product-name }
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -490,6 +579,7 @@ search-bar-hidden =
 search-bar-shown =
     .label = Cuir bàr nan lorg ris a’ bhàr-inneal
 search-engine-default-header = An t-einnsean-luirg bunaiteach
+search-engine-default-desc-2 = Seo an einnsean-luirg tùsail agad air a‘ bhar-sheòlaidh agus a‘ bhàr-luirg. ‘S urrainn dhut leum a ghearradh gu fear eile uair sam bith.
 search-suggestions-option =
     .label = Thoir dhomh molaidhean-luirg
     .accesskey = T
