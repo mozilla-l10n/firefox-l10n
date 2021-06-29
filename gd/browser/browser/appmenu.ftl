@@ -104,9 +104,34 @@ profiler-popup-settings =
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Deasaich na roghainnean…
 profiler-popup-disabled = Tha a pròifilear à comas an-dràsta, dh’fhaoidte gu bheil uinneag a’ bhrabhsaidh phrìobhaidich fosgailte.
+profiler-popup-recording-screen = ’Ga chlàradh…
+# The profiler presets list is generated elsewhere, but the custom preset is defined
+# here only.
+profiler-popup-presets-custom =
+    .label = Gnàthaichte
+profiler-popup-start-recording-button =
+    .label = Tòisich air clàradh
+profiler-popup-discard-button =
+    .label = Tilg air falbh
+profiler-popup-capture-button =
+    .label = Glac
+profiler-popup-start-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧1
+       *[other] Ctrl+Shift+1
+    }
+profiler-popup-capture-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧2
+       *[other] Ctrl+Shift+2
+    }
 
 ## History panel
 
+appmenu-manage-history =
+    .label = Stiùirich an eachdraidh
+appmenu-reopen-all-tabs = Ath-fhosgail gach taba
+appmenu-reopen-all-windows = Ath-fhosgail gach uinneag
 appmenu-restore-session =
     .label = Aisig an seisean roimhe seo
 appmenu-clear-history =
@@ -119,6 +144,8 @@ appmenu-recently-closed-windows =
 
 ## Help panel
 
+appmenu-help-header =
+    .title = Cobhair { -brand-shorter-name }
 appmenu-about =
     .label = Mu { -brand-shorter-name }
     .accesskey = M
@@ -161,3 +188,5 @@ appmenu-customizetoolbar =
 appmenu-taskmanager =
     .label = Manaidsear nan saothair
 appmenu-developer-tools-subheader = Innealan a’ bhrabhsair
+appmenu-developer-tools-extensions =
+    .label = Leudachain do luchd-leasachaidh
