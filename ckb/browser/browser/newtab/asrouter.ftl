@@ -152,10 +152,10 @@ cfr-doorhanger-firefox-send-ok-button = { -send-brand-name } تاقیبکەرە�
 
 cfr-doorhanger-socialtracking-ok-button = پارێزگاری ببینە
     .accesskey = P
-cfr-doorhanger-socialtracking-close-button = Close
+cfr-doorhanger-socialtracking-close-button = داخستن
     .accesskey = C
 cfr-doorhanger-socialtracking-dont-show-again = پەیامی لەم شێوەیەم دووبارە پیشان مەدەرەوە
-    .accesskey = D
+    .accesskey = پ
 
 ## Enhanced Tracking Protection Milestones
 
@@ -212,3 +212,10 @@ cfr-whatsnew-search-shortcuts-body = ئێستا، کاتێک بزوێنەرێک�
 
 ## What's new: Cross-site cookie tracking
 
+
+## Full Video Support CFR message
+
+cfr-doorhanger-video-support-body = ڤیدیۆکان لەوانەیە لەم ماڵپەڕە بە باشی کارنەکات لەم وەشانەی { -brand-short-name }. بۆ پشتگیری تەواو، تکایە { -brand-short-name } نوێبکەرەوە ئێستا.
+cfr-doorhanger-video-support-header = { -brand-short-name } نوێبکەرەوە بۆ پێکردنی ڤیدیۆ
+cfr-doorhanger-video-support-primary-button = ئێستا نوێیبکەرەوە
+    .accesskey = ئ
