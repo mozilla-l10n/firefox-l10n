@@ -62,9 +62,27 @@
 <!ENTITY copyImageCmd.label           "Kopiraj sliko">
 <!ENTITY copyImageCmd.accesskey       "a">
 <!ENTITY copyVideoURLCmd.label        "Kopiraj mesto videa">
+<!ENTITY copyAudioURLCmd.label        "Kopiraj mesto zvoka">
+<!ENTITY metadataCmd.label            "Lastnosti">
+<!ENTITY metadataCmd.accesskey        "o">
+<!ENTITY copyEmailCmd.label           "Kopiraj e-poštni naslov">
+<!ENTITY copyEmailCmd.accesskey       "e">
+<!ENTITY thisFrameMenu.label          "Ta okvir">
+<!ENTITY thisFrameMenu.accesskey      "a">
+<!ENTITY mediaPlay.label              "Predvajaj">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
+<!ENTITY spellDictionaries.label        "Jeziki">
+<!ENTITY spellDictionaries.accesskey    "J">
+<!ENTITY spellAddDictionaries.label     "Prenesi dodatne slovarje …">
+<!ENTITY spellAddDictionaries.accesskey "a">
 
+<!ENTITY fillLoginMenu.label          "Izpolni prijavo">
+<!ENTITY fillPasswordMenu.label       "Izpolni geslo">
+<!ENTITY fillUsernameMenu.label       "Izpolni uporabniško ime">
+<!ENTITY viewSavedLogins.label        "Preglej shranjene prijave">
 
 <!-- Developer Tools -->
+<!ENTITY devtoolsInspect.label          "Preglej element">
+<!ENTITY devtoolsInspect.accesskey      "j">
