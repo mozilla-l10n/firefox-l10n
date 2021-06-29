@@ -14,6 +14,7 @@ pocket-panel-saved-add-tags =
 pocket-panel-saved-error-generic = Hebo un fallu al tentar de guardar en { -pocket-brand-name }.
 pocket-panel-saved-error-only-links = Namás puen guardase enllaces
 pocket-panel-saved-error-not-saved = Nun se guardó la páxina
+pocket-panel-saved-error-no-internet = Has tar conectáu a internet pa guardar en { -pocket-brand-name }. Conéctate a internet y volvi tentalo, por favor.
 pocket-panel-saved-page-removed = Quitóse la páxina
 pocket-panel-saved-page-saved = Guardóse en { -pocket-brand-name }
 pocket-panel-saved-processing-remove = Quitando la páxina…
@@ -38,4 +39,5 @@ pocket-panel-signup-tagline-story-one = Calca nel botón de { -pocket-brand-name
 ## about:pocket-home panel
 
 pocket-panel-home-my-list = Llista de mio
+pocket-panel-home-welcome-back = Volvi afayate
 pocket-panel-home-paragraph = Pues usar { -pocket-brand-name } pa esplorar y guardar páxines web, artículos, vídeos, podcasts o volver a lo que tabes lleendo.
