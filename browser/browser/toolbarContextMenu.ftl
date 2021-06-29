@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+toolbar-context-menu-new-tab =
+    .label = Taba ùr
+    .accesskey = T
 toolbar-context-menu-reload-selected-tab =
     .label = Ath-luchdaich an taba a thagh thu
     .accesskey = R
@@ -17,12 +20,38 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Tagh gach taba
     .accesskey = S
+toolbar-context-menu-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Neo-dhèan dùnadh an taba
+            [one] Neo-dhèan dùnadh nan tabaichean
+            [two] Neo-dhèan dùnadh nan tabaichean
+            [few] Neo-dhèan dùnadh nan tabaichean
+           *[other] Neo-dhèan dùnadh nan tabaichean
+        }
+    .accesskey = N
+toolbar-context-menu-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Ath-fhosgail an taba a chaidh a dhùnadh
+            [one] Ath-fhosgail na tabaichean a chaidh a dhùnadh
+            [two] Ath-fhosgail na tabaichean a chaidh a dhùnadh
+            [few] Ath-fhosgail na tabaichean a chaidh a dhùnadh
+           *[other] Ath-fhosgail na tabaichean a chaidh a dhùnadh
+        }
+    .accesskey = o
 toolbar-context-menu-manage-extension =
     .label = Stiùirich an leudachan
     .accesskey = E
 toolbar-context-menu-remove-extension =
     .label = Thoir an leudachan air falbh
     .accesskey = v
+# This label is used in the extensions toolbar buttons context menus,
+# a user can use this command to submit to Mozilla an abuse report
+# related to that extension. "Report" is a verb.
+toolbar-context-menu-report-extension =
+    .label = Dèan aithris air an leudachan
+    .accesskey = a
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.
@@ -32,11 +61,17 @@ toolbar-context-menu-pin-to-overflow-menu =
 toolbar-context-menu-auto-hide-downloads-button =
     .label = Falaich gu fèin-obrachail air bàr nan inneal
     .accesskey = A
+toolbar-context-menu-auto-hide-downloads-button-2 =
+    .label = Falaich am putan nuair a bhios e falamh
+    .accesskey = h
 toolbar-context-menu-remove-from-toolbar =
     .label = Thoir air falbh on bhàr-inneal
     .accesskey = r
 toolbar-context-menu-view-customize-toolbar =
     .label = Gnàthaich…
+    .accesskey = c
+toolbar-context-menu-view-customize-toolbar-2 =
+    .label = Gnàthaich am bàr-inneal…
     .accesskey = c
 toolbar-context-menu-bookmarks-toolbar-always-show-2 =
     .label = Seall an-còmhnaidh

@@ -110,3 +110,23 @@ tab-context-reopen-closed-tabs =
            *[other] Ath-fhosgail na tabaichean a chaidh a dhùnadh
         }
     .accesskey = o
+tab-context-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Dùin an taba
+            [one] Dùin na tabaichean
+            [two] Dùin na tabaichean
+            [few] Dùin na tabaichean
+           *[other] Dùin na tabaichean
+        }
+    .accesskey = D
+tab-context-move-tabs =
+    .label =
+        { $tabCount ->
+            [1] Gluais an taba
+            [one] Gluais na tabaichean
+            [two] Gluais na tabaichean
+            [few] Gluais na tabaichean
+           *[other] Gluais na tabaichean
+        }
+    .accesskey = G
