@@ -60,6 +60,7 @@ about-processes-gpu-process = GPU ({ $pid })
 about-processes-vr-process = VR ({ $pid })
 about-processes-rdd-process = Дэкодэр дадзеных ({ $pid })
 about-processes-socket-process = Сетка ({ $pid })
+about-processes-preallocated-process = Загадзя выдзелены ({ $pid })
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
@@ -72,6 +73,7 @@ about-processes-unknown-process = Іншае: { $type } ({ $pid })
 ##    $origin (String) The domain name for this process.
 
 about-processes-web-isolated-process = { $origin } ({ $pid })
+about-processes-web-large-allocation-process = { $origin } ({ $pid }, вялікі)
 
 ## Details within processes
 
@@ -109,7 +111,7 @@ about-processes-cpu-user-and-kernel-not-ready = (вымярэнне)
 # Special case: process or thread is currently idle.
 about-processes-cpu-user-and-kernel-idle = неактыўны ({ NUMBER($total, maximumFractionDigits: 2) }{ $unit })
 # Special case: process or thread is currently idle.
-about-processes-cpu-idle = Бяздзейны
+about-processes-cpu-idle = бяздзейны
     .title = Агульны час ЦП: { NUMBER($total, maximumFractionDigits: 2) }{ $unit }
 
 ## Displaying Memory (total and delta)
