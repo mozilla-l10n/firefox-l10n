@@ -8,6 +8,11 @@
 newtab-page-title = Taba ùr
 newtab-settings-button =
     .title = Gnàthaich duilleag nan tabaichean ùra agad
+newtab-personalize-button-label = Gnàthaich
+    .title = Gnàthaich an taba ùr
+    .aria-label = Gnàthaich an taba ùr
+newtab-personalize-dialog-label =
+    .aria-label = Gnàthaich
 
 ## Search box component.
 
@@ -16,16 +21,35 @@ newtab-search-box-search-button =
     .title = Lorg
     .aria-label = Lorg
 newtab-search-box-search-the-web-text = Lorg air an lìon
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-text = Dèan lorg le { $engine } no cuir a-steach seòladh
+newtab-search-box-handoff-text-no-engine = Dèan lorg no cuir a-steach seòladh
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-input =
+    .placeholder = Dèan lorg le { $engine } no cuir a-steach seòladh
+    .title = Dèan lorg le { $engine } no cuir a-steach seòladh
+    .aria-label = Dèan lorg le { $engine } no cuir a-steach seòladh
+newtab-search-box-handoff-input-no-engine =
+    .placeholder = Dèan lorg no cuir a-steach seòladh
+    .title = Dèan lorg no cuir a-steach seòladh
+    .aria-label = Dèan lorg no cuir a-steach seòladh
 newtab-search-box-search-the-web-input =
     .placeholder = Lorg air an lìon
     .title = Lorg air an lìon
+    .aria-label = Lorg air an lìon
+newtab-search-box-input =
+    .placeholder = Lorg air an lìon
     .aria-label = Lorg air an lìon
 
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = Cuir einnsean-luirg ris
 newtab-topsites-add-topsites-header = Brod làraich ùr
+newtab-topsites-add-shortcut-header = Ath-ghoirid ùr
 newtab-topsites-edit-topsites-header = Deasaich am brod làraich
+newtab-topsites-edit-shortcut-header = Deasaich an ath-ghoirid
 newtab-topsites-title-label = Tiotal
 newtab-topsites-title-input =
     .placeholder = Cuir ainm a-steach
@@ -53,6 +77,7 @@ newtab-confirm-delete-history-p2 = Cha ghabh seo a neo-dhèanamh.
 
 ## Top Sites - Sponsored label
 
+newtab-topsite-sponsored = Sponsairichte
 
 ## Context Menu - Action Tooltips.
 
@@ -60,6 +85,10 @@ newtab-confirm-delete-history-p2 = Cha ghabh seo a neo-dhèanamh.
 newtab-menu-section-tooltip =
     .title = Fosgail an clàr-taice
     .aria-label = Fosgail an clàr-taice
+# Tooltip for dismiss button
+newtab-dismiss-button-tooltip =
+    .title = Thoir air falbh
+    .aria-label = Thoir air falbh
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -88,6 +117,7 @@ newtab-menu-show-privacy-info = Na sponsairean againn ⁊ do phrìobhaideachd
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = Deiseil
+newtab-privacy-modal-button-manage = Stiùirich roghainnean na susbaint sponsairichte
 newtab-privacy-modal-header = Tha do phrìobhaideachd cudromach.
 newtab-privacy-modal-paragraph-2 =
     A bharrachd air naidheachdan inntinneach, seallaidh sinn susbaint làn-
@@ -135,6 +165,10 @@ newtab-label-download = Air a luchdadh a-nuas
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Sponsairichte
+# This string is used at the bottom of story cards to indicate sponsored content
+# Variables:
+#  $sponsor (String): This is the name of a sponsor
+newtab-label-sponsored-by = ’Ga sponsaireadh le { $sponsor }
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -200,5 +234,26 @@ newtab-error-fallback-refresh-link = Ath-nuadhaich an duilleag airson fheuchainn
 
 ## Customization Menu
 
+newtab-custom-shortcuts-title = Ath-ghoiridean
+newtab-custom-shortcuts-subtitle = Làraichean a shàbhail thu no a thadhail thu orra
+newtab-custom-row-selector =
+    { $num ->
+        [one] { $num } ràgh
+        [two] { $num } ràgh
+        [few] { $num } ràghan
+       *[other] { $num } ràgh
+    }
+newtab-custom-sponsored-sites = Ath-ghoiridean sponsairichte
+newtab-custom-pocket-title = ’Ga mholadh le { -pocket-brand-name }
+newtab-custom-pocket-subtitle = Sàr-shusbaint ’ga thasgadh le { -pocket-brand-name } mar phàirt de theaghlach { -brand-product-name }
+newtab-custom-pocket-sponsored = Sgeulachdan sponsairichte
 newtab-custom-recent-title = Gnìomhachd o chionn ghoirid
 newtab-custom-recent-subtitle = Roghainn de làraichean is susbaint faisg ort
+newtab-custom-close-button = Dùin
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+newtab-custom-snippets-title = Snippets
+newtab-custom-snippets-subtitle = Gliocasan is naidheachdan o { -vendor-short-name } is { -brand-product-name }
+newtab-custom-settings = Stiùirich barrachd roghainnean

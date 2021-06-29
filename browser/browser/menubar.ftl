@@ -134,6 +134,9 @@ menu-view-toolbars-menu =
 menu-view-customize-toolbar =
     .label = Gnàthaich…
     .accesskey = c
+menu-view-customize-toolbar2 =
+    .label = Gnàthaich am bàr-inneal…
+    .accesskey = c
 menu-view-sidebar =
     .label = Am bàr-taoibh
     .accesskey = t
@@ -170,6 +173,9 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = Còdachadh teacsa
     .accesskey = C
+menu-view-repair-text-encoding =
+    .label = Càraich còdachadh an teacsa
+    .accesskey = c
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -212,6 +218,8 @@ menu-history-undo-menu =
     .label = Tabaichean a dhùin thu o chionn ghoirid
 menu-history-undo-window-menu =
     .label = Uinneagan a dhùin thu o chionn ghoirid
+menu-history-reopen-all-tabs = Ath-fhosgail gach taba
+menu-history-reopen-all-windows = Ath-fhosgail gach uinneag
 
 ## Bookmarks Menu
 
@@ -222,6 +230,10 @@ menu-bookmarks-show-all =
     .label = Seall a h-uile comharra-lìn
 menu-bookmark-this-page =
     .label = Cruthaich comharra-lìn dhan duilleag seo
+menu-bookmarks-manage =
+    .label = Stiùirich na comharran-lìn
+menu-bookmark-current-tab =
+    .label = Dèan comharra-lìn dhen taba làithreach
 menu-bookmark-edit =
     .label = Deasaich an comharra-lìn seo
 menu-bookmarks-all-tabs =
