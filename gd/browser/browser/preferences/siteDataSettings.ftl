@@ -19,6 +19,8 @@ site-data-column-storage =
     .label = Stòras
 site-data-column-last-used =
     .label = Cleachdadh mu dheireadh
+# This label is used in the "Host" column for local files, which have no host.
+site-data-local-file-host = (faidhle ionadail)
 site-data-remove-selected =
     .label = Thoir air falbh na thagh mi
     .accesskey = r
