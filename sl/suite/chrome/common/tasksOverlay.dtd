@@ -1,0 +1,57 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- extracted from tasksOverlay.xul -->
+<!ENTITY minimizeWindowCmd.label "Pomanjšaj">
+<!ENTITY minimizeWindowCmd.key "m">
+<!ENTITY zoomWindowCmd.label "Povečava">
+<!ENTITY navigatorCmd.label "Brskalnik">
+<!ENTITY navigatorCmd.accesskey "B">
+<!ENTITY navigatorCmd.commandkey "1">
+
+<!-- LOCALIZATION NOTE (editorCmd.label): DONT_TRANSLATE -->
+
+
+<!ENTITY taskNavigator.tooltip "Brskalnik">
+
+<!ENTITY webDevelopment.label "Spletni razvoj">
+<!ENTITY webDevelopment.accesskey "z">
+
+<!ENTITY windowMenu.label "Okno">
+<!ENTITY windowMenu.accesskey "O">
+
+<!ENTITY tasksMenu.label "Orodja">
+<!ENTITY tasksMenu.accesskey "r">
+
+<!ENTITY datamanCmd.label "Upravitelj podatkov">
+<!ENTITY datamanCmd.accesskey "p">
+
+<!ENTITY passwordManagerCmd.label "Upravitelj gesel">
+<!ENTITY passwordManagerCmd.accesskey "g">
+
+<!ENTITY passwordDisplayCmd.label "Upravljanje shranjenih gesel">
+<!ENTITY passwordDisplayCmd.accesskey "v">
+
+<!ENTITY passwordExpireCmd.label "Odjava">
+<!ENTITY passwordExpireCmd.accesskey "j">
+
+<!ENTITY downloadManagerCmd.label "Upravitelj prenosov">
+<!ENTITY downloadManagerCmd.accesskey "n">
+<!ENTITY downloadManagerCmd.commandkey "j">
+
+<!ENTITY addOnsManagerCmd.label "Upravitelj dodatkov">
+<!ENTITY addOnsManagerCmd.accesskey "d">
+<!ENTITY addOnsManagerCmd.commandkey "a">
+
+<!ENTITY switchProfileCmd.label "Zamenjaj profil …">
+<!ENTITY switchProfileCmd.accesskey "f">
+
+<!ENTITY syncBrand.shortName.label "Sinhronizacija">
+<!-- LOCALIZATION NOTE (syncSetup.accesskey, syncSyncNowItem.accesskey):
+     Only one of these will show at a time (based on setup state),
+     so reusing accesskey is ok. -->
+<!ENTITY syncSetup.label "Nastavi sinhronizacijo …">
+<!ENTITY syncSetup.accesskey "s">
+<!ENTITY syncSyncNowItem.label "Sinhroniziraj zdaj">
+<!ENTITY syncSyncNowItem.accesskey "z">
