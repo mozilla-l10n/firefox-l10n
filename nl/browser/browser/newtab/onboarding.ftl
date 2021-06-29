@@ -45,8 +45,8 @@ onboarding-join-form-signin-label = Hebt u al een account?
 onboarding-join-form-signin = Aanmelden
 onboarding-start-browsing-button-label = Beginnen met browsen
 onboarding-cards-dismiss =
-    .title = Verwijderen
-    .aria-label = Verwijderen
+    .title = Sluiten
+    .aria-label = Sluiten
 
 ## Welcome full page string
 
