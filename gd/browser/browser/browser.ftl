@@ -115,6 +115,9 @@ urlbar-tabtosearch-onboard = Tagh an ath-ghoirid seo a lorg na dh’fheumas tu n
 
 ## Local search mode indicator labels in the urlbar
 
+urlbar-search-mode-bookmarks = Comharran-lìn
+urlbar-search-mode-tabs = Tabaichean
+urlbar-search-mode-history = Eachdraidh
 
 ##
 
@@ -159,6 +162,8 @@ page-action-manage-extension =
     .label = Stiùirich an leudachan...
 page-action-remove-from-urlbar =
     .label = Thoir air falbh o bhàr an t-seòlaidh
+page-action-remove-extension =
+    .label = Thoir an leudachan air falbh
 
 ## Page Action menu
 
@@ -238,6 +243,20 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Suidhich mar an t-einnsean-luirg bunaiteachd ann an uinneagan prìobhaideach
     .accesskey = S
+# Search engine one-off buttons with an @alias shortcut/keyword.
+# Variables:
+#  $engineName (String): The name of the engine.
+#  $alias (String): The @alias shortcut/keyword.
+search-one-offs-engine-with-alias =
+    .tooltiptext = { $engineName } ({ $alias })
+# Shown when adding new engines from the address bar shortcut buttons or context
+# menu, or from the search bar shortcut buttons.
+# Variables:
+#  $engineName (String): The name of the engine.
+search-one-offs-add-engine =
+    .label = Cuir “{ $engineName }” ris
+    .tooltiptext = Cuir einnsean-luirg “{ $engineName }” ris
+    .aria-label = Cuir einnsean-luirg “{ $engineName }” ris
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -250,9 +269,17 @@ search-one-offs-add-engine-menu =
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
 
+search-one-offs-bookmarks =
+    .tooltiptext = Comharran-lìn ({ $restrict })
+search-one-offs-tabs =
+    .tooltiptext = Tabaichean ({ $restrict })
+search-one-offs-history =
+    .tooltiptext = Eachdraidh ({ $restrict })
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = Cuir comharra-lìn ris
+bookmarks-edit-bookmark = Deasaich an comharra-lìn
 bookmark-panel-cancel =
     .label = Sguir dheth
     .accesskey = C
@@ -272,6 +299,8 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = S
 bookmark-panel-done-button =
     .label = Dèanta
+bookmark-panel-save-button =
+    .label = Sàbhail
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -280,8 +309,16 @@ bookmark-panel =
 
 ## Identity Panel
 
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-site-information = Sàbhail am fiosrachadh air { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-header-security-with-host =
+    .title = Tèarainteachd a’ cheangail airson { $host }
 identity-connection-not-secure = Chan eil an ceangal tèarainte
 identity-connection-secure = Tha an ceangal tèarainte
+identity-connection-failure = Dh’fhàillig leis a’ cheangal
 identity-connection-internal = Seo duilleag { -brand-short-name } tèarainte.
 identity-connection-file = Tha an duilleag seo ’ga stòradh air a’ choimpiutair agad.
 identity-extension-page = Chaidh an duilleag seo ’ga luchdadh o leudachan.
@@ -293,6 +330,15 @@ identity-weak-encryption = Tha an duilleag seo a’ cleachdadh crioptachadh lag.
 identity-insecure-login-forms = Dh’fhaoidte gu bheil cothrom air daoine air fiosrachadh clàraidh air an duilleag seo.
 identity-permissions =
     .value = Ceadan
+identity-https-only-connection-upgraded = (chaidh àrdachadh gu HTTPS)
+identity-https-only-label = Modh HTTPS a-mhàin
+identity-https-only-dropdown-on =
+    .label = Air
+identity-https-only-dropdown-off =
+    .label = Dheth
+identity-https-only-dropdown-off-temporarily =
+    .label = Dheth rè seal
+identity-https-only-info-turn-on2 = Cuir am modh HTTPS air dhan làrach seo ma thogras tu gun àrdaich { -brand-short-name } an ceangal nuair a ghabhas seo a dhèanamh.
 identity-permissions-reload-hint = Dh’fhaoidte gum bi agad ris an duilleag ath-luchdadh mus bi na h-atharraichean an sàs.
 identity-permissions-empty = Cha dug thu cead sònraichte sam bith dhan làrach seo.
 identity-clear-site-data =
