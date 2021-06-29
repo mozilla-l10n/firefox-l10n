@@ -116,13 +116,13 @@ urlbar-star-add-bookmark =
 
 ## Page Action Context Menu
 
+page-action-manage-extension =
+    .label = Xestionar la estensión…
 page-action-remove-from-urlbar =
     .label = Quitar de la barra de direiciones
 
 ## Page Action menu
 
-page-action-pocket-panel =
-    .label = Guardar la páxina en { -pocket-brand-name }
 page-action-copy-url-panel =
     .label = Copiar l'enllaz
 page-action-copy-url-urlbar =
@@ -498,6 +498,9 @@ save-to-pocket-button =
     .label = Guardar en { -pocket-brand-name }
     .tooltiptext = Guardar en { -pocket-brand-name }
 
+## Repair text encoding toolbar button
+
+
 ## Customize Toolbar Buttons
 
 # Variables:
@@ -534,6 +537,9 @@ panel-save-update-password = Contraseña
 
 ## Add-on removal warning
 
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = ¿Quitar { $name }?
 addon-removal-abuse-report-checkbox = Informar d'esta estensión a { -vendor-short-name }
 
 ## Remote / Synced tabs

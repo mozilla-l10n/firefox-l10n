@@ -70,6 +70,7 @@ monitor-breaches-resolved-title = ¡Bien! Resolviesti tolos arrampuñamientos co
 # Variables:
 # $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
 monitor-partial-breaches-percentage = Completóse'l { $percentageResolved }%
+monitor-partial-breaches-motivation-title-start = ¡Bon comienzu!
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
