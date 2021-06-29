@@ -105,6 +105,18 @@ main-context-menu-bookmark-add =
     .aria-label = Cruthaich comharra-lìn dhan duilleag seo
     .accesskey = m
     .tooltiptext = Cruthaich comharra-lìn dhan duilleag seo
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-add-mac =
+    .label = Dèan comharra-lìn dhen duilleag
+    .accesskey = m
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-edit-mac =
+    .label = Deasaich an comharra-lìn
+    .accesskey = m
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-add-with-shortcut =
@@ -209,6 +221,19 @@ main-context-menu-media-play-speed-faster =
 main-context-menu-media-play-speed-fastest =
     .label = Air leth luath (2×)
     .accesskey = l
+main-context-menu-media-play-speed-2 =
+    .label = Luaths
+    .accesskey = L
+main-context-menu-media-play-speed-slow-2 =
+    .label = 0.5×
+main-context-menu-media-play-speed-normal-2 =
+    .label = 1.0×
+main-context-menu-media-play-speed-fast-2 =
+    .label = 1.25×
+main-context-menu-media-play-speed-faster-2 =
+    .label = 1.5×
+main-context-menu-media-play-speed-fastest-2 =
+    .label = 2×
 main-context-menu-media-loop =
     .label = Lùb
     .accesskey = L
@@ -236,6 +261,11 @@ main-context-menu-media-video-leave-fullscreen =
 main-context-menu-media-pip =
     .label = Dealbh am broinn deilbh
     .accesskey = u
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-watch-pip =
+    .label = Coimhead air dealbh am broinn deilbh
+    .accesskey = d
 main-context-menu-image-reload =
     .label = Ath-luchdaich an dealbh
     .accesskey = A
@@ -244,6 +274,12 @@ main-context-menu-image-view =
     .accesskey = o
 main-context-menu-video-view =
     .label = Coimhead air video
+    .accesskey = i
+main-context-menu-image-view-new-tab =
+    .label = Fosgail an dealbh ann an taba ùr
+    .accesskey = i
+main-context-menu-video-view-new-tab =
+    .label = Fosgail a’ video ann an taba ùr
     .accesskey = i
 main-context-menu-image-copy =
     .label = Dèan lethbhreac dhen dealbh
@@ -275,6 +311,9 @@ main-context-menu-image-email =
 main-context-menu-image-set-as-background =
     .label = Suidhich mar chùlaibh an deasga…
     .accesskey = S
+main-context-menu-image-set-image-as-background =
+    .label = Suidhich an dealbh mar chùlaibh an deasga…
+    .accesskey = S
 main-context-menu-image-info =
     .label = Seall fiosrachadh an deilbh
     .accesskey = f
@@ -290,6 +329,9 @@ main-context-menu-audio-save-as =
 main-context-menu-video-image-save-as =
     .label = Sàbhail an snapshot mar…
     .accesskey = S
+main-context-menu-video-take-snapshot =
+    .label = Tog glacadh-sgrìn…
+    .accesskey = s
 main-context-menu-video-email =
     .label = Cuir a' video air a' phost-d…
     .accesskey = v
@@ -319,9 +361,21 @@ main-context-menu-generate-new-password =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-use-saved-login =
+    .label = Cleachd clàradh a-steach a chaidh a shàbhaladh
+    .accesskey = C
+main-context-menu-use-saved-password =
+    .label = Cleachd facal-faire air a shàbhaladh
+    .accesskey = C
 
 ##
 
+main-context-menu-suggest-strong-password =
+    .label = Mol facal-faire làidir…
+    .accesskey = M
+main-context-menu-manage-logins2 =
+    .label = Stiùirich na clàraidhean a-steach
+    .accesskey = S
 main-context-menu-keyword =
     .label = Cuir facal-luirg ris an lorg seo…
     .accesskey = C
@@ -358,9 +412,18 @@ main-context-menu-frame-view-source =
 main-context-menu-frame-view-info =
     .label = Seall fiosrachadh an fhrèama
     .accesskey = i
+main-context-menu-print-selection =
+    .label = Clò-bhuail na thagh thu
+    .accesskey = C
 main-context-menu-view-selection-source =
     .label = Seall bun-tùs na thagh thu
     .accesskey = e
+main-context-menu-take-screenshot =
+    .label = Tog glacadh-sgrìn
+    .accesskey = T
+main-context-menu-take-frame-screenshot =
+    .label = Tog glacadh-sgrìn
+    .accesskey = T
 main-context-menu-view-page-source =
     .label = Seall bun-tùs na duilleige
     .accesskey = S
@@ -376,6 +439,9 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = Sgrùd an eileamaid
     .accesskey = Q
+main-context-menu-inspect =
+    .label = Sgrùdaich
+    .accesskey = S
 main-context-menu-inspect-a11y-properties =
     .label = Sgrùd roghainnean na so-ruigsinneachd
 main-context-menu-eme-learn-more =

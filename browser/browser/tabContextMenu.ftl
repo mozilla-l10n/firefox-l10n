@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+tab-context-new-tab =
+    .label = Taba ùr
+    .accesskey = T
 reload-tab =
     .label = Ath-luchdaich an taba
     .accesskey = A
@@ -14,6 +17,13 @@ duplicate-tab =
 duplicate-tabs =
     .label = Dùblaich an taba
     .accesskey = D
+# The following string is displayed on a menuitem that will close the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
+close-tabs-to-the-start =
+    .label = Dùin na tabaichean clì air
+    .accesskey = l
+# The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = Dùin na tabaichean deas air
     .accesskey = i
@@ -44,6 +54,9 @@ bookmark-tab =
 reopen-in-container =
     .label = Ath-fhosgail san t-soitheach
     .accesskey = e
+tab-context-open-in-new-container-tab =
+    .label = Fosgail ann an taba soithich ùr
+    .accesskey = F
 move-to-start =
     .label = Gluais gun toiseach
     .accesskey = S
@@ -53,9 +66,19 @@ move-to-end =
 move-to-new-window =
     .label = Gluais gu uinneag ùr
     .accesskey = G
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
+tab-context-close-multiple-tabs =
+    .label = Dùin iomadh taba
+    .accesskey = m
+tab-context-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Neo-dhèan dùnadh an taba
+            [one] Neo-dhèan dùnadh nan tabaichean
+            [two] Neo-dhèan dùnadh nan tabaichean
+            [few] Neo-dhèan dùnadh nan tabaichean
+           *[other] Neo-dhèan dùnadh nan tabaichean
+        }
+    .accesskey = N
 close-tab =
     .label = Dùin an taba
     .accesskey = D
@@ -68,3 +91,22 @@ move-tabs =
 move-tab =
     .label = Gluais an taba
     .accesskey = v
+tab-context-share-url =
+    .label = Co-roinn
+    .accesskey = C
+tab-context-share-more =
+    .label = Barrachd…
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
+tab-context-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Ath-fhosgail an taba a chaidh a dhùnadh
+            [one] Ath-fhosgail na tabaichean a chaidh a dhùnadh
+            [two] Ath-fhosgail na tabaichean a chaidh a dhùnadh
+            [few] Ath-fhosgail na tabaichean a chaidh a dhùnadh
+           *[other] Ath-fhosgail na tabaichean a chaidh a dhùnadh
+        }
+    .accesskey = o
