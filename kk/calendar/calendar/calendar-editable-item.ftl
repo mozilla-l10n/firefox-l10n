@@ -22,3 +22,5 @@ calendar-editable-item-reminder-icon-suppressed-alarm =
     .alt = Еске салу ескертуі жоспарланған, бірақ қазір басылған
 calendar-editable-item-reminder-icon-email =
     .alt = Еске салу эл. пошта хаты жоспарланған
+calendar-editable-item-reminder-icon-audio =
+    .alt = Еске салу дыбыстық ескертуі жоспарланған
