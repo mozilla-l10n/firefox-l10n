@@ -450,13 +450,39 @@ popup-select-camera-icon =
 popup-select-microphone-device =
     .value = Micreofon:
     .accesskey = M
+popup-select-microphone-icon =
+    .tooltiptext = Micreofon
+popup-select-speaker-icon =
+    .tooltiptext = Glaodhairean
 popup-all-windows-shared = Thèid gach uinneag a tha ri fhaicinn air an sgrìn agad a cho-roinneadh.
+popup-screen-sharing-not-now =
+    .label = Chan ann an-dràsta
+    .accesskey = C
+popup-screen-sharing-never =
+    .label = Na ceadaich seo idir
+    .accesskey = N
+popup-silence-notifications-checkbox = Cuir na brathan o { -brand-short-name } à comas fhad ’s a bhios tu ri co-roinneadh
+popup-silence-notifications-checkbox-warning = Cha sheall { -brand-short-name } brathan fhad ’s a bhios tu ri co-roinneadh.
+popup-screen-sharing-block =
+    .label = Bac
+    .accesskey = B
+popup-screen-sharing-always-block =
+    .label = Bac an-còmhnaidh
+    .accesskey = m
+popup-mute-notifications-checkbox = Mùch brathan làraichean fhad ’s a bhios tu ri co-roinneadh
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-window = Tha thu a’ co-roinneadh { -brand-short-name }. Chì càch nuair a ghearras tu leum gu taba ùr.
+sharing-warning-screen = Tha thu a’ co-roinneadh na sgrìn gu lèir. Chì càch nuair a ghearras tu leum gu taba ùr.
+sharing-warning-proceed-to-tab =
+    .label = Lean air adhart dhan taba
+sharing-warning-disable-for-session =
+    .label = Cuir dìon a’ cho-roinnidh à comas rè an t-seisein seo
 
 ## DevTools F12 popup
 
+enable-devtools-popup-description = Mus cleachd thu ath-ghoirid F12, feumaidh tu DevTools fhosgladh le clàr-taice an luchd-leasachaidh.
 
 ## URL Bar
 
@@ -466,12 +492,47 @@ urlbar-default-placeholder =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Cuir ann lorg no seòladh
+# This placeholder is used in search mode with search engines that search the
+# entire web.
+# Variables
+#  $name (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-placeholder-search-mode-web-2 =
+    .placeholder = Lorg air an lìon
+    .aria-label = Lorg le { $name }
+# This placeholder is used in search mode with search engines that search a
+# specific site (e.g., Amazon).
+# Variables
+#  $name (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-placeholder-search-mode-other-engine =
+    .placeholder = Cuir a-steach abairt-luirg
+    .aria-label = Lorg air { $name }
+# This placeholder is used when searching bookmarks.
+urlbar-placeholder-search-mode-other-bookmarks =
+    .placeholder = Cuir a-steach abairt-luirg
+    .aria-label = Lorg sna comharran-lìn
+# This placeholder is used when searching history.
+urlbar-placeholder-search-mode-other-history =
+    .placeholder = Cuir a-steach abairt-luirg
+    .aria-label = Lorg san eachdraidh
+# This placeholder is used when searching open tabs.
+urlbar-placeholder-search-mode-other-tabs =
+    .placeholder = Cuir a-steach abairt-luirg
+    .aria-label = Lorg sna tabaichean
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Lorg le { $name } no cuir ann seòladh
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Tha am brabhsair fo smachd cèin
+# Variables
+#  $component (String): the name of the component which forces remote control.
+#    Example: "DevTools", "Marionette", "RemoteAgent".
+urlbar-remote-control-notification-anchor2 =
+    .tooltiptext = Tha am brabhsair fo smachd cèin (adhbhar: { $component })
+urlbar-permissions-granted =
+    .tooltiptext = Thug thu ceadan a bharrachd dhan làrach-lìn seo.
 urlbar-switch-to-tab =
     .value = Gearr leum gun taba:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
@@ -487,18 +548,57 @@ urlbar-pocket-button =
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 
+# Used when the private browsing engine differs from the default engine.
+# The "with" format was chosen because the search engine name can end with
+# "Search", and we would like to avoid strings like "Search MSN Search".
+# Variables
+#  $engine (String): the name of a search engine
+urlbar-result-action-search-in-private-w-engine = Lorg le { $engine } am broinn uinneag phrìobhaideach
+# Used when the private browsing engine is the same as the default engine.
+urlbar-result-action-search-in-private = Lorg am broinn uinneag phrìobhaideach
 # The "with" format was chosen because the search engine name can end with
 # "Search", and we would like to avoid strings like "Search MSN Search".
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Lorg le { $engine }
+urlbar-result-action-sponsored = Sponsairichte
 urlbar-result-action-switch-tab = Gearr leum gun taba
 urlbar-result-action-visit = Tadhail air
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-before-tabtosearch-web = Brùth air Tab a lorg le { $engine }
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-before-tabtosearch-other = Brùth air Tab a lorg air { $engine }
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-tabtosearch-web = Lorg le { $engine } sa bhad on bhàr-sheòlaidh
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-tabtosearch-other-engine = Lorg air { $engine } sa bhad on bhàr-sheòlaidh
+# Action text for copying to clipboard.
+urlbar-result-action-copy-to-clipboard = Dèan lethbhreac
+# Shows the result of a formula expression being calculated, the last = sign will be shown
+# as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result = = { $result }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
+urlbar-result-action-search-bookmarks = Lorg sna comharran-lìn
+urlbar-result-action-search-history = Lorg san eachdraidh
+urlbar-result-action-search-tabs = Lorg sna tabaichean
 
 ## Full Screen and Pointer Lock UI
 
@@ -518,8 +618,12 @@ pointerlock-warning-no-domain = Tha smachd aig an sgrìobhainn seo air an tomhai
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>Thuislich pàirt dhen duilleag seo.</strong> Airson innse dha { -brand-product-name } mun duilgheadas seo agus càradh fhaighinn air nas luaithe, cuir a-null aithris.
 crashed-subframe-learnmore-link =
     .value = Barrachd fiosrachaidh
+crashed-subframe-submit =
+    .label = Cuir a-null aithris
+    .accesskey = s
 
 ## Bookmarks panels, menus and toolbar
 
@@ -598,6 +702,9 @@ save-to-pocket-button =
 
 ## Repair text encoding toolbar button
 
+repair-text-encoding-button =
+    .label = Càraich còdachadh an teacsa
+    .tooltiptext = Dèan tuairmse air còdachadh ceart an teacsa o shusbaint na duilleige
 
 ## Customize Toolbar Buttons
 
@@ -632,6 +739,8 @@ eme-notifications-drm-content-playing-dismiss-accesskey = d
 
 ## Password save/update panel
 
+panel-save-update-username = Ainm-cleachdaiche
+panel-save-update-password = Facal-faire
 
 ## Add-on removal warning
 
@@ -642,3 +751,6 @@ addon-removal-abuse-report-checkbox = Dèan aithris air an leudachan seo gu { -v
 
 ## Remote / Synced tabs
 
+remote-tabs-manage-account =
+    .label = Stiùirich an cunntas
+remote-tabs-sync-now = Sioncronaich an-dràsta
