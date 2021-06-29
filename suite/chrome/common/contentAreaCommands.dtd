@@ -16,13 +16,31 @@
 <!ENTITY openLinkCmdInPrivateWindow.label     "Odpri povezavo v zasebnem oknu">
 <!ENTITY openLinkCmdInPrivateWindow.accesskey "p">
 <!ENTITY openLinkInWindowCmd.label    "Odpri">
+<!ENTITY openLinkInWindowCmd.accesskey "O">
+<!ENTITY openFrameCmd.label           "Odpri okvir v novem oknu">
+<!ENTITY openFrameCmd.accesskey       "v">
+<!ENTITY openFrameCmdInTab.label      "Odpri okvir v novem zavihku">
+<!ENTITY openFrameCmdInTab.accesskey  "z">
+<!ENTITY showOnlyThisFrameCmd.label     "Pokaži le ta okvir">
+<!ENTITY showOnlyThisFrameCmd.accesskey "l">
+<!ENTITY goBackCmd.label              "Nazaj">
+<!ENTITY goBackCmd.accesskey          "N">
+<!ENTITY goForwardCmd.label           "Naprej">
+<!ENTITY goForwardCmd.accesskey       "p">
+<!ENTITY stopCmd.label                "Ustavi">
+<!ENTITY stopCmd.accesskey            "s">
 <!ENTITY reloadFrameCmd.label         "Ponovno naloži okvir">
+<!ENTITY reloadFrameCmd.accesskey     "r">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Pokaži izvorno kodo izbora">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Pokaži izvorno kodo MathML">
 <!ENTITY viewPageSourceCmd.label      "Pokaži izvorno kodo strani">
+<!ENTITY viewPageSourceCmd.accesskey  "v">
 <!ENTITY viewFrameSourceCmd.label     "Pokaži izvorno kodo okvirja">
+<!ENTITY viewFrameSourceCmd.accesskey "v">
 <!ENTITY viewPageInfoCmd.label        "Pokaži podatke o strani">
+<!ENTITY viewPageInfoCmd.accesskey    "i">
 <!ENTITY viewFrameInfoCmd.label       "Pokaži podatke o okvirju">
+<!ENTITY viewFrameInfoCmd.accesskey   "i">
 <!ENTITY fitImageCmd.label            "Prilagodi sliko oknu">
 <!ENTITY reloadImageCmd.label         "Ponovno naloži sliko">
 <!ENTITY viewImageCmd.label           "Pokaži sliko">
@@ -39,6 +57,11 @@
 <!ENTITY saveImageCmd.label           "Shrani sliko">
 <!ENTITY saveVideoCmd.label           "Shrani video kot …">
 <!ENTITY saveAudioCmd.label           "Shrani zvok kot …">
+<!ENTITY copyLinkCmd.label            "Kopiraj mesto povezave">
+<!ENTITY copyLinkCmd.accesskey        "i">
+<!ENTITY copyImageCmd.label           "Kopiraj sliko">
+<!ENTITY copyImageCmd.accesskey       "a">
+<!ENTITY copyVideoURLCmd.label        "Kopiraj mesto videa">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
