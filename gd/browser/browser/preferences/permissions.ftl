@@ -18,6 +18,12 @@ permissions-session =
 permissions-allow =
     .label = Ceadaich
     .accesskey = a
+permissions-button-off =
+    .label = Cuir dheth
+    .accesskey = d
+permissions-button-off-temporarily =
+    .label = Cuir dheth rè seal
+    .accesskey = t
 permissions-site-name =
     .label = Làrach-lìn
 permissions-status =
@@ -37,8 +43,15 @@ permissions-button-ok =
 permission-dialog =
     .buttonlabelaccept = Sàbhail na h-atharraichean
     .buttonaccesskeyaccept = S
+permissions-autoplay-menu = Bun-roghainn dhan a h-uile làrach-lìn:
 permissions-searchbox =
     .placeholder = Lorg air an làrach-lìn
+permissions-capabilities-autoplay-allow =
+    .label = Ceadaich fuaim is video
+permissions-capabilities-autoplay-block =
+    .label = Bac fuaim
+permissions-capabilities-autoplay-blockall =
+    .label = Bac fuaimean is videothan
 permissions-capabilities-allow =
     .label = Ceadaich
 permissions-capabilities-block =
@@ -51,6 +64,10 @@ permissions-capabilities-listitem-block =
     .value = Cuir bacadh air
 permissions-capabilities-listitem-allow-session =
     .value = Ceadaich fad an t-seisein
+permissions-capabilities-listitem-off =
+    .value = Dheth
+permissions-capabilities-listitem-off-temporarily =
+    .value = Dheth rè seal
 
 ## Invalid Hostname Dialog
 
@@ -59,6 +76,10 @@ permissions-invalid-uri-label = Cuir a-steach ainm òstair dhligheach
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-etp-window =
+    .title = Eisgeachdan air an dìon o thracadh
+    .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Chuir thu dheth an dìon air na làraichean-lìn seo.
 
 ## Exceptions - Cookies
 
@@ -66,6 +87,12 @@ permissions-exceptions-cookie-window =
     .title = Eisgeachdan - Briosgaidean is dàta làraichean
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = ’S urrainn dhut sònrachadh dè na làraichean-lìn aig am bi no nach bi cead an-còmhnaidh briosgaidean is dàta làraichean a chleachdadh. Cuir a-steach seòlaidh pongail na làraich a tha thu airson stiùireadh agus an uairsin briog air “Bac”, “Ceadaich rè an t-seisein” no “Ceadaich”.
+
+## Exceptions - HTTPS-Only Mode
+
+permissions-exceptions-https-only-window =
+    .title = Eisgeachdan – Modh HTTPS a-mhàin
+    .style = { permissions-window.style }
 
 ## Exceptions - Pop-ups
 
