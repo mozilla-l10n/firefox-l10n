@@ -137,6 +137,9 @@ about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "pe
 about-processes-cpu-user-and-kernel-not-ready = (askazel)
 # Special case: process or thread is currently idle.
 about-processes-cpu-user-and-kernel-idle = arurmid ({ NUMBER($total, maximumFractionDigits: 2) }{ $unit })
+# Special case: process or thread is currently idle.
+about-processes-cpu-idle = idle
+    .title = Akud asemday CPU: { NUMBER($total, maximumFractionDigits: 2) }{ $unit }
 
 ## Displaying Memory (total and delta)
 ## Variables:
@@ -151,6 +154,9 @@ about-processes-cpu-user-and-kernel-idle = arurmid ({ NUMBER($total, maximumFrac
 
 # Common case.
 about-processes-total-memory-size = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit } ({ $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit })
+# Common case.
+about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
+    .title = Anerni: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit }
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
 
