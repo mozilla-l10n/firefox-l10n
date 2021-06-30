@@ -601,8 +601,11 @@ search-show-suggestions-above-history-option =
     .label = Seall molaidhean luirg air thoiseach air an eachdraidh bhrabhsaidh ann an toraidhean bàr an t-seòlaidh
 search-show-suggestions-private-windows =
     .label = Seall molaidhean-luirg am broinn uinneagan prìobhaideach
+suggestions-addressbar-settings-generic = Atharraich na roghainnean a thaobh mholaidhean eile air a’ bhàr-sheòlaidh
+suggestions-addressbar-settings-generic2 = Atharraich na roghainnean a thaobh mholaidhean eile air a’ bhàr-sheòlaidh
 search-suggestions-cant-show = Cha dèid molaidhean luirg a shealltainn ann an toraidhean bàr an t-seòlaidh a chionn ’s gun do dh’iarr thu air { -brand-short-name } gun a bhith a’ cumail na h-eachdraidh sa chuimhne.
 search-one-click-header = Einnseanan-luirg aon-bhriogaidh
+search-one-click-header2 = Ath-ghoiridean an luirg
 search-one-click-desc = Tagh na h-einnseanan-luirg eile a nochdas fo bhàr an t-seòlaidh is bàr nan lorg nuair a thòisicheas tu air facal-luirg a chur a-steach.
 search-choose-engine-column =
     .label = Einnseanan-luirg
@@ -614,6 +617,9 @@ search-restore-default =
 search-remove-engine =
     .label = Thoir air falbh
     .accesskey = r
+search-add-engine =
+    .label = Cuir ris
+    .accesskey = C
 search-find-more-link = Faigh barrachd einnseanan-luirg
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
@@ -625,11 +631,24 @@ search-keyword-warning-bookmark = Tagh thu facal-luirg a tha 'ga chleachdadh ann
 
 ## Containers Section
 
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] Till dha na roghainnean
+           *[other] Till dha na roghainnean
+        }
+containers-back-button2 =
+    .aria-label = Till dha na roghainnean
 containers-header = Tabaichean soithich
 containers-add-button =
     .label = Cuir soitheach ùr ris
     .accesskey = a
+containers-new-tab-check =
+    .label = Tagh soitheach do gach taba ùr
+    .accesskey = s
 containers-preferences-button =
+    .label = Roghainnean
+containers-settings-button =
     .label = Roghainnean
 containers-remove-button =
     .label = Thoir air falbh
@@ -639,7 +658,13 @@ containers-remove-button =
 
 sync-signedout-caption = Thoir leat an lìon
 sync-signedout-description = Sioncronaich an eachdraidh, na comharran-lìn, na faclan-faire, tuilleadain is roghainnean agad air feadh nan uidheaman agad.
+sync-signedout-account-signin2 =
+    .label = Clàraich a-steach gu { -sync-brand-short-name }…
+    .accesskey = i
 sync-signedout-description2 = Sioncronaich na comharran-lìn, an eachdraidh, na tabaichean, na faclan-faire, na tuilleadain ’s na roghainnean agad thar nan uidheaman agad uile.
+sync-signedout-account-signin3 =
+    .label = Clàraich a-steach a shioncronachadh…
+    .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -654,6 +679,9 @@ sync-mobile-promo = Luchdaich a-nuas Firefox airson <img data-l10n-name="android
 
 sync-profile-picture =
     .tooltiptext = Atharraich dealbh na pròifil
+sync-sign-out =
+    .label = Clàraich a-mach…
+    .accesskey = C
 sync-manage-account = Stiùirich an cunntas
     .accesskey = n
 sync-signedin-unverified = Cha deach { $email } a dhearbhadh
@@ -670,19 +698,50 @@ sync-sign-in =
 
 ## Sync section - enabling or disabling sync.
 
+prefs-syncing-on = Sioncronachadh: AIR
+prefs-syncing-off = Sioncronachadh: DHETH
+prefs-sync-setup =
+    .label = Suidhich { -sync-brand-short-name }…
+    .accesskey = S
 prefs-sync-offer-setup-label = Sioncronaich na comharran-lìn, an eachdraidh, na tabaichean, na faclan-faire, na tuilleadain ’s na roghainnean agad thar nan uidheaman agad uile.
 prefs-sync-turn-on-syncing =
     .label = Cuir an sioncronachadh air…
     .accesskey = s
 prefs-sync-offer-setup-label2 = Sioncronaich na comharran-lìn, an eachdraidh, na tabaichean, na faclan-faire, na tuilleadain ’s na roghainnean agad thar nan uidheaman agad uile.
+prefs-sync-now =
+    .labelnotsyncing = Sioncronaich an-dràsta
+    .accesskeynotsyncing = n
+    .labelsyncing = ’Ga shioncronachadh…
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-heading = Tha thu a’ sioncronachadh nan nithean seo an-dràsta:
+sync-currently-syncing-bookmarks = Comharran-lìn
+sync-currently-syncing-history = Eachdraidh
+sync-currently-syncing-tabs = Tabaichean fosgailte
 sync-currently-syncing-logins-passwords = Clàraidhean a-steach ⁊ faclan-faire
+sync-currently-syncing-addresses = Seòlaidhean
+sync-currently-syncing-creditcards = Cairtean-creideis
 sync-currently-syncing-addons = Tuilleadain
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] Roghainnean
+       *[other] Roghainnean
+    }
+sync-currently-syncing-settings = Roghainnean
+sync-change-options =
+    .label = Atharraich…
+    .accesskey = c
 
 ## The "Choose what to sync" dialog.
 
+sync-choose-what-to-sync-dialog =
+    .title = Tagh na tha thu airson sioncronachadh
+    .style = width: 40em; min-height: 35em;
+    .buttonlabelaccept = Sàbhail na h-atharraichean
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra2 = Dì-cheangail…
+    .buttonaccesskeyextra2 = D
 sync-engine-bookmarks =
     .label = na comharran-lìn agam
     .accesskey = m
@@ -717,6 +776,10 @@ sync-engine-prefs =
         }
     .tooltiptext = Roghainnean coitcheann, prìobhaideachd is tèarainteachd a dh’atharraich thu
     .accesskey = n
+sync-engine-settings =
+    .label = Roghainnean
+    .tooltiptext = Roghainnean coitcheann, na prìobhaideachd ’s na tèarainteachd a dh’atharraich thu
+    .accesskey = R
 
 ## The device name controls.
 
@@ -748,13 +811,26 @@ forms-ask-to-save-logins =
 forms-exceptions =
     .label = Eisgeachdan…
     .accesskey = E
+forms-generate-passwords =
+    .label = Mol is gin faclan-faire làidir
+    .accesskey = M
+forms-breach-alerts =
+    .label = Seall caismeachdan mu fhaclan-faire do làraichean-lìn air an deach briseadh a-steach
+    .accesskey = b
 forms-breach-alerts-learn-more-link = Barrachd fiosrachaidh
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-logins-and-passwords =
+    .label = Lìon clàraidhean a-steach is faclan-faire gu fèin-obrachail
+    .accesskey = i
 forms-saved-logins =
     .label = Clàraidhean a-steach sàbhailte…
     .accesskey = l
 forms-master-pw-use =
     .label = Cleachd prìomh fhacal-faire
     .accesskey = m
+forms-primary-pw-use =
+    .label = Cleachd prìomh fhacal-faire
+    .accesskey = p
 forms-primary-pw-learn-more-link = Barrachd fiosrachaidh
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -763,6 +839,10 @@ forms-master-pw-change =
     .label = Atharraich am prìomh fhacal-faire…
     .accesskey = m
 forms-master-pw-fips-title = Tha thu ann am modh FIPS an-dràsta. Feumaidh FIPS prìomh fhacal-faire nach eil falamh.
+forms-primary-pw-change =
+    .label = Atharraich am prìomh fhacal-faire…
+    .accesskey = p
+forms-primary-pw-fips-title = Tha thu ann am modh FIPS an-dràsta. Feumaidh FIPS prìomh fhacal-faire nach eil falamh.
 forms-master-pw-fips-desc = Dh'fhàillig atharrachadh an fhacail-fhaire
 
 ## OS Authentication dialog
