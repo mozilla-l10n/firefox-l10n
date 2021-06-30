@@ -3,3 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 third-party-header-module-list = Tabdart n yizegrar
+third-party-header-loading-events = Asali n tedyanin
