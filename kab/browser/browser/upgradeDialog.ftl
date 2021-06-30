@@ -55,6 +55,8 @@ upgrade-dialog-pin-secondary-button = Mačči tura
 upgrade-dialog-default-title = Err { -brand-short-name } diminig-ik·im amezwer?
 upgrade-dialog-default-subtitle = Inig yal tikkelt s urured, s uḍman d tbaḍnit.
 upgrade-dialog-default-primary-button = Sbadu-t d iminig amezwer
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title-2 = Err { -brand-short-name } d amezwer-inek·inem
 upgrade-dialog-default-primary-button-2 = Err-it d iminig amezwer
 upgrade-dialog-default-secondary-button = Mačči tura
 
