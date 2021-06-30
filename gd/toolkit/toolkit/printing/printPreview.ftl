@@ -31,12 +31,17 @@ printpreview-print =
     .accesskey = C
 printpreview-of =
     .value = a-mach à
+printpreview-custom-scale-prompt-title = Sgèile ghnàthaichte
 printpreview-page-setup =
     .label = Roghainnean na duilleige…
     .accesskey = u
 printpreview-page =
     .value = Duilleag:
     .accesskey = a
+# Variables
+# $sheetNum (integer) - The current sheet number
+# $sheetCount (integer) - The total number of sheets to print
+printpreview-sheet-of-sheets = { $sheetNum } à { $sheetCount }
 
 ## Variables
 ## $percent (integer) - menuitem percent label
@@ -56,4 +61,11 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = An duilleag mu dheireadh
-
+printpreview-homearrow-button =
+    .title = A’ chiad duilleag
+printpreview-previousarrow-button =
+    .title = An duilleag roimhpe
+printpreview-nextarrow-button =
+    .title = An ath-dhuilleag
+printpreview-endarrow-button =
+    .title = An duilleag mu dheireadh
