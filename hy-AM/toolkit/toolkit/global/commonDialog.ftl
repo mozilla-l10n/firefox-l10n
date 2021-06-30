@@ -4,3 +4,5 @@
 
 common-dialog-username =
     .value = Օգտվողի անուն
+common-dialog-password =
+    .value = Գաղտնաբառ
