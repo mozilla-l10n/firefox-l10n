@@ -307,5 +307,6 @@ cfr-whatsnew-cross-site-tracking-body = คุณสามารถเลือ�
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = วิดีโอบนไซต์นี้อาจเล่นไม่ถูกต้องใน { -brand-short-name } เวอร์ชันนี้ สำหรับการสนับสนุนวิดีโอเต็มรูปแบบ อัปเดต { -brand-short-name } ทันที
+cfr-doorhanger-video-support-header = อัปเดต { -brand-short-name } เพื่อเล่นวิดีโอ
 cfr-doorhanger-video-support-primary-button = อัปเดตตอนนี้
     .accesskey = U

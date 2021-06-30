@@ -66,7 +66,7 @@ upgrade-dialog-default-subtitle = รับความเร็ว ความ
 upgrade-dialog-default-primary-button = ตั้งเป็นเบราว์เซอร์เริ่มต้น
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-default-title-2 = ทำให้ { -brand-short-name } เป็นค่าเริ่มต้นของคุณ
-upgrade-dialog-default-subtitle-2 = พบกับความเร็ว ความปลอดภัย และความเป็นส่วนตัวมาแบบอัตโนมัติ
+upgrade-dialog-default-subtitle-2 = พบกับความเร็ว ความปลอดภัย และความเป็นส่วนตัวแบบอัตโนมัติ
 upgrade-dialog-default-primary-button-2 = ทำให้เป็นเบราว์เซอร์เริ่มต้น
 upgrade-dialog-default-secondary-button = ไม่ใช่ตอนนี้
 

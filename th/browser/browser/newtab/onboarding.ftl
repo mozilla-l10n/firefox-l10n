@@ -40,7 +40,7 @@ onboarding-join-form-email-error = จำเป็นต้องกรอกอ
 onboarding-join-form-legal = การดำเนินการต่อถือว่าคุณยอมรับ<a data-l10n-name="terms">เงื่อนไขการใช้บริการ</a>และ<a data-l10n-name="privacy">ข้อกำหนดความเป็นส่วนตัว</a>
 onboarding-join-form-continue = ดำเนินการต่อ
 # This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
-onboarding-join-form-signin-label = มีบัญชีอยู่แล้ว?
+onboarding-join-form-signin-label = มีบัญชีอยู่แล้วใช่หรือไม่
 # Text for link to submit the sign in form
 onboarding-join-form-signin = ลงชื่อเข้า
 onboarding-start-browsing-button-label = เริ่มการเรียกดู
@@ -57,7 +57,7 @@ onboarding-fullpage-form-email =
 ## Firefox Sync modal dialog strings.
 
 onboarding-sync-welcome-header = นำ { -brand-product-name } ไปกับคุณ
-onboarding-sync-welcome-content = รับที่คั่นหน้า, ประวัติ, รหัสผ่าน และการตั้งค่าอื่น ๆ ของคุณในอุปกรณ์ทั้งหมดของคุณ
+onboarding-sync-welcome-content = รับที่คั่นหน้า ประวัติ รหัสผ่าน และการตั้งค่าอื่น ๆ ของคุณในอุปกรณ์ทั้งหมดของคุณ
 onboarding-sync-welcome-learn-more-link = เรียนรู้เพิ่มเติมเกี่ยวกับบัญชี Firefox
 onboarding-sync-form-input =
     .placeholder = อีเมล
@@ -117,10 +117,10 @@ onboarding-mobile-phone-button = ดาวน์โหลดเบราว์�
 onboarding-send-tabs-title = ส่งแท็บให้ตัวคุณเองทันที
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
-onboarding-send-tabs-text2 = แชร์หน้าระหว่างอุปกรณ์ของคุณทันทีโดยไม่ต้องคัดลอกลิงก์หรือออกจากเบราว์เซอร์
+onboarding-send-tabs-text2 = แบ่งปันหน้าระหว่างอุปกรณ์ของคุณทันทีโดยไม่ต้องคัดลอกลิงก์หรือออกจากเบราว์เซอร์
 onboarding-send-tabs-button = เริ่มใช้ Send Tabs
 onboarding-pocket-anywhere-title = อ่านและฟังได้ทุกที่
-onboarding-pocket-anywhere-text2 = บันทึกเนื้อหาโปรดของคุณแบบออฟไลน์ด้วยแอป { -pocket-brand-name } และอ่านฟังและดูเมื่อใดก็ตามที่คุณสะดวก
+onboarding-pocket-anywhere-text2 = บันทึกเนื้อหาโปรดของคุณแบบออฟไลน์ด้วยแอป { -pocket-brand-name } และอ่าน ฟัง และดูเมื่อใดก็ตามที่คุณสะดวก
 onboarding-pocket-anywhere-button = ลอง { -pocket-brand-name }
 onboarding-lockwise-strong-passwords-title = สร้างและจัดเก็บรหัสผ่านที่คาดเดายาก
 onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } ช่วยสร้างรหัสผ่านที่คาดเดาได้ยากในทันทีและบันทึกรหัสผ่านทั้งหมดในที่เดียว
@@ -163,9 +163,9 @@ return-to-amo-add-extension-label = เพิ่มส่วนขยาย
 # automatically added to the text inside it. { -brand-short-name } should stay inside the span.
 onboarding-multistage-welcome-header = ยินดีต้อนรับสู่ <span data-l10n-name="zap">{ -brand-short-name }</span>
 onboarding-multistage-welcome-subtitle = เบราว์เซอร์ที่รวดเร็ว ปลอดภัย และเป็นส่วนตัวที่ได้รับการสนับสนุนโดยองค์กรไม่แสวงหาผลกำไร
-onboarding-multistage-welcome-primary-button-label = เริ่มการตั้งค่า
+onboarding-multistage-welcome-primary-button-label = เริ่มตั้งค่า
 onboarding-multistage-welcome-secondary-button-label = ลงชื่อเข้า
-onboarding-multistage-welcome-secondary-button-text = มีบัญชีแล้วหรือไม่?
+onboarding-multistage-welcome-secondary-button-text = มีบัญชีแล้วใช่หรือไม่
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "default" should stay inside the span.
 onboarding-multistage-set-default-header = ทำให้ { -brand-short-name } เป็น<span data-l10n-name="zap">ค่าเริ่มต้น</span>ของคุณ
@@ -267,6 +267,11 @@ onboarding-multistage-theme-description-alpenglow =
 mr1-welcome-screen-hero-text =
     ทุกอย่างเริ่มจาก
     ที่นี่
+# Caption for background image in about:welcome. "Soraya Osorio" is the name
+# of the person and shouldn't be translated.
+# In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
+# You can see the picture in about:welcome in Nightly 90.
+mr1-onboarding-welcome-image-caption = Soraya Osorio — นักออกแบบเฟอร์นิเจอร์ แฟน Firefox
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = ปิดภาพเคลื่อนไหว
 
@@ -274,6 +279,18 @@ mr1-onboarding-reduce-motion-button-label = ปิดภาพเคลื่อ
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
+# Title used on welcome page when Firefox is not pinned
+mr1-onboarding-pin-header =
+    { PLATFORM() ->
+        [macos] เก็บ { -brand-short-name } ไว้ใน Dock ของคุณเพื่อให้เข้าถึงได้อย่างง่ายดาย
+       *[other] ปักหมุด { -brand-short-name } เข้ากับแถบงานของคุณเพื่อให้เข้าถึงได้อย่างง่ายดาย
+    }
+# Primary button string used on welcome page when Firefox is not pinned.
+mr1-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] เก็บไว้ใน Dock
+       *[other] ปักหมุดเข้ากับแถบงาน
+    }
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
@@ -292,7 +309,8 @@ mr1-onboarding-sign-in-button-label = ลงชื่อเข้า
 ## Title, subtitle and primary button string used on set default onboarding screen
 ## when Firefox is not default browser
 
-mr1-onboarding-default-subtitle = ให้ความเร็ว ความปลอดภัย และความเป็นส่วนตัวมาแบบอัติโนมัติ
+mr1-onboarding-default-header = ทำให้ { -brand-short-name } เป็นค่าเริ่มต้นของคุณ
+mr1-onboarding-default-subtitle = พบกับความเร็ว ความปลอดภัย และความเป็นส่วนตัวแบบอัตโนมัติ
 mr1-onboarding-default-primary-button-label = ทำให้เป็นเบราว์เซอร์เริ่มต้น
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
