@@ -34,6 +34,6 @@ screenshots-unshootable-page-error-details = This isnae a staunart Wab page, sae
 screenshots-self-screenshot-error-title = Ye cannae tak a shot o a { -screenshots-brand-name } page!
 screenshots-empty-selection-error-title = Yer selection is ower wee
 screenshots-private-window-error-title = { -screenshots-brand-name } is disabled in Private Stravaigin Mode
-screenshots-private-window-error-details = Sorry aboot aw the faff. We're wirkin on this featur for futur roll-oots.
+screenshots-private-window-error-details = Sorry aboot aw the faff. We're wirkin on this featur for future roll-oots.
 screenshots-generic-error-title = Help ma boab! { -screenshots-brand-name } jist went radge!
 screenshots-generic-error-details = We're no shair whit jist happened. Want tae try again or tak a shot o anither page?
