@@ -89,6 +89,7 @@ login-item-new-login-title = Cruthaich clàradh a-steach ùr
 login-item-edit-button = Deasaich
 about-logins-login-item-remove-button = Thoir air falbh
 login-item-origin-label = Seòladh na làraich-lìn
+login-item-tooltip-message = Dèan cinnteach gur e seo an seòladh mionaideach dhen làrach-lìn far a bheil thu a’ clàradh a-steach.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Ainm-cleachdaiche
@@ -129,9 +130,13 @@ about-logins-copy-password-os-auth-dialog-message-macosx = lethbhreac a dhèanam
 ## Master Password notification
 
 master-password-notification-message = Cuir a-steach am facal-faire maighstir agad a dh’fhaicinn nan clàraidhean a-steach ⁊ faclan-faire a shàbhail thu
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message-macosx = na clàraidhean a-steach ’s faclan-faire air an sàbhaladh às-phortadh
 
 ## Primary Password notification
 
+about-logins-primary-password-notification-message = Cuir a-steach am prìomh fhacal-faire agad a dh’fhaicinn nan clàraidhean a-steach ⁊ faclan-faire a shàbhail thu
 master-password-reload-button =
     .label = Clàraich a-steach
     .accesskey = l
@@ -162,6 +167,22 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = A bheil thu airson an clàradh a-steach seo a thoirt air falbh?
 confirm-delete-dialog-message = Cha ghabh seo a neo-dhèanamh.
 about-logins-confirm-remove-dialog-confirm-button = Thoir air falbh
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Thoir air falbh
+        [one] Thoir air falbh na h-uile
+        [two] Thoir air falbh na h-uile
+        [few] Thoir air falbh na h-uile
+       *[other] Thoir air falbh na h-uile
+    }
+about-logins-confirm-remove-all-dialog-checkbox-label =
+    { $count ->
+        [1] Thoir air falbh an clàradh a-steach seo
+        [one] Thoir air falbh na clàraidhean a-steach seo
+        [two] Thoir air falbh na clàraidhean a-steach seo
+        [few] Thoir air falbh na clàraidhean a-steach seo
+       *[other] Thoir air falbh na clàraidhean a-steach seo
+    }
 confirm-discard-changes-dialog-title = A bheil thu airson na h-atharraichean gun sàbhaladh a thilgeil air falbh?
 confirm-discard-changes-dialog-message = Thèid gach atharrachadh gun sàbhaladh air chall.
 confirm-discard-changes-dialog-confirm-button = Tilg air falbh
