@@ -403,6 +403,23 @@ update-application-use-service =
     .label = Cleachd seirbheis a stàlaicheas na h-ùrachaidhean sa chùlaibh
     .accesskey = C
 update-setting-write-failure-title = Mearachd le sàbhaladh roghainnean an ùrachaidh
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message =
+    Thachair { -brand-short-name } ri mearachd agus cha deach an t-atharrachadh seo a shàbhaladh. Thoir an aire gu bheil suidheachadh roghainn an ùrachaidh seo feumach air cead sgrìobhaidh dhan fhaidhle gu h-ìosal. Feuch an càraich thu fhèin no rianaire an t-siostaim a’ mhearachd seo a’ toirt smachd slàn dhan bhuidheann “Users” air an fhaidhle seo.
+    
+    Cha b’ urrainn dhuinn sgrìobhadh dhan fhaidhle: { $path }
+update-setting-write-failure-title2 = Mearachd le sàbhaladh roghainnean an ùrachaidh
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message2 =
+    Thachair { -brand-short-name } ri mearachd agus cha deach an t-atharrachadh seo a shàbhaladh. Thoir an aire gu bheil atharrachadh roghainn an ùrachaidh seo feumach air cead sgrìobhaidh dhan fhaidhle gu h-ìosal. Feuch an càraich thu fhèin no rianaire an t-siostaim a’ mhearachd seo a’ toirt smachd slàn dhan bhuidheann “Users” air an fhaidhle seo.
+    
+    Cha b’ urrainn dhuinn sgrìobhadh dhan fhaidhle: { $path }
 update-in-progress-title = ’Ga ùrachadh
 update-in-progress-message = A bheil thu airson ’s gun cùm { -brand-short-name } a’ dol leis an ùrachadh seo?
 update-in-progress-ok-button = &Tilg air falbh
@@ -842,6 +859,10 @@ forms-master-pw-fips-title = Tha thu ann am modh FIPS an-dràsta. Feumaidh FIPS 
 forms-primary-pw-change =
     .label = Atharraich am prìomh fhacal-faire…
     .accesskey = p
+# Leave this message empty if the translation for "Primary Password" matches
+# "Master Password" in your language. If you're editing the FTL file directly,
+# use { "" } as the value.
+forms-primary-pw-former-name = { "" }
 forms-primary-pw-fips-title = Tha thu ann am modh FIPS an-dràsta. Feumaidh FIPS prìomh fhacal-faire nach eil falamh.
 forms-master-pw-fips-desc = Dh'fhàillig atharrachadh an fhacail-fhaire
 
@@ -1128,9 +1149,11 @@ addon-recommendations-link = Barrachd fiosrachaidh
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Tha aithriseadh dàta à comas airson rèiteachadh a’ bhuild seo
 collection-backlogged-crash-reports =
-    .label = Leig le { -brand-short-name } aithisgean tuislidh a chàirn roimhe as do leth
+    .label = Leig le { -brand-short-name } aithisgean tuislidh a chàirn roimhe a chur às do leth
     .accesskey = c
 collection-backlogged-crash-reports-link = Barrachd fiosrachaidh
+collection-backlogged-crash-reports-with-link = Leig le { -brand-short-name } aithisgean tuislidh a chàirn roimhe a chur às do leth <a data-l10n-name="crash-reports-link">Barrachd fiosrachaidh</a>
+    .accesskey = c
 
 ## Privacy Section - Security
 ##
@@ -1192,9 +1215,23 @@ space-alert-under-5gb-ok-button =
     .label = Ceart, tha mi agaibh
     .accesskey = b
 space-alert-under-5gb-message = Tha an t-àite a’ fàs gann air { -brand-short-name }. Dh’fhaoidte nach dèid an t-susbaint aig làraichean-lìn a shealltainn mar bu chòir. Tadhail air “Barrachd fiosrachaidh” airson feabhas a thoirt air an dòigh air an dèid an diosg agad a chleachdadh airson brabhsadh nas fhearr.
+space-alert-over-5gb-settings-button =
+    .label = Fosgail na roghainnean
+    .accesskey = o
+space-alert-over-5gb-message2 = <strong>Tha an t-àite a’ fàs gann air { -brand-short-name }</strong>. Dh’fhaoidte nach dèid an t-susbaint aig làraichean-lìn a shealltainn mar bu chòir. ’S urrainn dhut dàta làraichean a chaidh a stòradh a sguabadh às ann an “Roghainnean” > “Prìobhaideachd ⁊ tèarainteachd” > “Briosgaidean is dàta làraichean”.
+space-alert-under-5gb-message2 = <strong>Tha an t-àite a’ fàs gann air { -brand-short-name }</strong>. Dh’fhaoidte nach dèid an t-susbaint aig làraichean-lìn a shealltainn mar bu chòir. Tadhail air “Barrachd fiosrachaidh” airson feabhas a thoirt air an dòigh air an dèid an diosg agad a chleachdadh airson brabhsadh nas fheàrr.
 
 ## Privacy Section - HTTPS-Only
 
+httpsonly-header = Modh HTTPS a-mhàin
+httpsonly-description = Bheir HTTPS ceangal tèarainte crioptaichte dhut eadar { -brand-short-name } agus na làraichean-lìn air an tadhail thu. Cuiridh a’ mhòrchuid a làraichean-lìn taic ri HTTPS agus ma bhios am modh HTTPS a-mhàin an comas, àrdaichidh { -brand-short-name } a h-uile ceangal gu HTTPS.
+httpsonly-learn-more = Barrachd fiosrachaidh
+httpsonly-radio-enabled =
+    .label = Cuir am modh HTTPS a-mhàin an comas air uinneag sam bith
+httpsonly-radio-enabled-pbm =
+    .label = Cuir am modh HTTPS a-mhàin an comas air uinneagan prìobhaideach a-mhàin
+httpsonly-radio-disabled =
+    .label = Na cuir an comas am modh HTTPS a-mhàin
 
 ## The following strings are used in the Download section of settings
 
