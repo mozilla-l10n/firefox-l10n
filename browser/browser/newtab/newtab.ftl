@@ -39,7 +39,6 @@ newtab-search-box-search-the-web-input =
     .placeholder = Web pśepytaś
     .title = Web pśepytaś
     .aria-label = Web pśepytaś
-newtab-search-box-text = Web pśepytaś
 newtab-search-box-input =
     .placeholder = Web pśepytaś
     .aria-label = Web pśepytaś
@@ -196,7 +195,7 @@ newtab-section-expand-section-label =
 
 newtab-section-header-topsites = Nejcesćej woglědane sedła
 newtab-section-header-highlights = Wjerški
-newtab-section-header-recent-activity = Najnowša aktiwita
+newtab-section-header-recent-activity = Nejnowša aktiwita
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = Wót { $provider } dopórucony

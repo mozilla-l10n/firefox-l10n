@@ -569,7 +569,7 @@ home-prefs-highlights-option-most-recent-download =
 home-prefs-highlights-option-saved-to-pocket =
     .label = Boki skłaźone do { -pocket-brand-name }
 home-prefs-recent-activity-header =
-    .label = Najnowša aktiwita
+    .label = Nejnowša aktiwita
 home-prefs-recent-activity-description = Wuběrk nejnowšych sedłow a nejnowšego wopśimjeśa
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
