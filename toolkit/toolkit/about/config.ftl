@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = Cùm a’ dol ach bidh air d’ fhaiceall
@@ -13,13 +14,11 @@ about-config-intro-warning-button = Tuigidh mi an cunnart, air adhart leam
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Ma dh’atharraichear na roghainnean seo, dh’fhaoidte gum bi droch-bhuaidh air dèanadas no tèarainteachd { -brand-short-name }.
-
 about-config-page-title = Roghainnean adhartach
-
 about-config-search-input1 =
     .placeholder = Lorg ainm roghainn
 about-config-show-all = Seall na h-uile
-
+about-config-show-only-modified = Na seall ach na roghainnean a chaidh atharrachadh
 about-config-pref-add-button =
     .title = Cuir ris
 about-config-pref-toggle-button =
