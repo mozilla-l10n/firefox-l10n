@@ -12,6 +12,10 @@
 <!ENTITY importFromIE.accesskey         "M">
 <!ENTITY importFromEdge.label           "Microsoft Edge">
 <!ENTITY importFromEdge.accesskey       "E">
+<!ENTITY importFromEdgeLegacy.label     "Microsoft Edge Legacy">
+<!ENTITY importFromEdgeLegacy.accesskey "L">
+<!ENTITY importFromEdgeBeta.label       "Microsoft Edge Beta">
+<!ENTITY importFromEdgeBeta.accesskey   "d">
 <!ENTITY importFromNothing.label        "Na ion-phortaich rud sam bith">
 <!ENTITY importFromNothing.accesskey    "d">
 <!ENTITY importFromSafari.label         "Safari">
