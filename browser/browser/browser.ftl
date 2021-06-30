@@ -173,8 +173,6 @@ page-action-send-tabs-panel =
     .label = ส่ง { $tabCount } แท็บไปยังอุปกรณ์
 page-action-send-tabs-urlbar =
     .tooltiptext = ส่ง { $tabCount } แท็บไปยังอุปกรณ์
-page-action-pocket-panel =
-    .label = บันทึกหน้าไปยัง { -pocket-brand-name }
 page-action-copy-url-panel =
     .label = คัดลอกลิงก์
 page-action-copy-url-urlbar =
@@ -239,6 +237,14 @@ search-one-offs-context-set-as-default-private =
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
+# Shown when adding new engines from the address bar shortcut buttons or context
+# menu, or from the search bar shortcut buttons.
+# Variables:
+#  $engineName (String): The name of the engine.
+search-one-offs-add-engine =
+    .label = เพิ่ม “{ $engineName }”
+    .tooltiptext = เพิ่มเครื่องมือค้นหา “{ $engineName }”
+    .aria-label = เพิ่มเครื่องมือค้นหา “{ $engineName }”
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -419,6 +425,8 @@ popup-select-microphone-device =
     .accesskey = ม
 popup-select-microphone-icon =
     .tooltiptext = ไมโครโฟน
+popup-select-speaker-icon =
+    .tooltiptext = ลำโพง
 popup-all-windows-shared = หน้าต่างที่ปรากฏอยู่ทั้งหมดบนหน้าจอของคุณจะถูกแบ่งปัน
 popup-screen-sharing-not-now =
     .label = ไม่ใช่ตอนนี้
@@ -491,6 +499,11 @@ urlbar-placeholder-with-name =
     .placeholder = ค้นหาด้วย { $name } หรือป้อนที่อยู่
 urlbar-remote-control-notification-anchor =
     .tooltiptext = เบราว์เซอร์อยู่ภายใต้การควบคุมระยะไกล
+# Variables
+#  $component (String): the name of the component which forces remote control.
+#    Example: "DevTools", "Marionette", "RemoteAgent".
+urlbar-remote-control-notification-anchor2 =
+    .tooltiptext = เบราว์เซอร์อยู่ภายใต้การควบคุมระยะไกล (เหตุผล: { $component })
 urlbar-permissions-granted =
     .tooltiptext = คุณได้อนุญาตไซต์นี้ด้วยสิทธิเพิ่มเติม
 urlbar-switch-to-tab =
@@ -587,8 +600,6 @@ crashed-subframe-submit =
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = แสดงที่คั่นหน้าทั้งหมด
 bookmarks-manage-bookmarks =
     .label = จัดการที่คั่นหน้า
 bookmarks-recent-bookmarks-panel-subheader = ที่คั่นหน้าล่าสุด
@@ -661,6 +672,12 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = บันทึกไปยัง { -pocket-brand-name }
     .tooltiptext = บันทึกไปยัง { -pocket-brand-name }
+
+## Repair text encoding toolbar button
+
+repair-text-encoding-button =
+    .label = ซ่อมแซมรหัสอักขระข้อความ
+    .tooltiptext = คาดเดารหัสอักขระข้อความที่ถูกต้องจากเนื้อหาในหน้า
 
 ## Customize Toolbar Buttons
 
