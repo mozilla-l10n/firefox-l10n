@@ -671,10 +671,14 @@ sync-sign-in =
 ## Sync section - enabling or disabling sync.
 
 prefs-sync-offer-setup-label = Sioncronaich na comharran-lìn, an eachdraidh, na tabaichean, na faclan-faire, na tuilleadain ’s na roghainnean agad thar nan uidheaman agad uile.
+prefs-sync-turn-on-syncing =
+    .label = Cuir an sioncronachadh air…
+    .accesskey = s
 prefs-sync-offer-setup-label2 = Sioncronaich na comharran-lìn, an eachdraidh, na tabaichean, na faclan-faire, na tuilleadain ’s na roghainnean agad thar nan uidheaman agad uile.
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-logins-passwords = Clàraidhean a-steach ⁊ faclan-faire
 sync-currently-syncing-addons = Tuilleadain
 
 ## The "Choose what to sync" dialog.
@@ -689,6 +693,10 @@ sync-engine-tabs =
     .label = Tabaichean fosgailte
     .tooltiptext = Liosta dhe na tha fosgailte air gach uidheam sioncronaichte
     .accesskey = T
+sync-engine-logins-passwords =
+    .label = Clàraidhean a-steach ⁊ faclan-faire
+    .tooltiptext = Ainmean-cleachdaiche agus faclan-faire a shàbhail thu
+    .accesskey = l
 sync-engine-addresses =
     .label = Seòlaidhean
     .tooltiptext = Seòlaidhean puist a shàbhail thu (desktop a-mhàin)

@@ -39,3 +39,5 @@ synced-tabs-context-sync-now =
     .label = Sioncronaich an-dràsta
     .accesskey = S
 fxa-sign-in = Clàraich a-steach gu { -sync-brand-short-name }
+turn-on-sync = Cuir { -sync-brand-short-name } air
+synced-tabs-turn-on-sync = Cuir an sioncronachadh air

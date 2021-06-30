@@ -93,6 +93,7 @@ permissions-exceptions-cookie-desc = ’S urrainn dhut sònrachadh dè na làrai
 permissions-exceptions-https-only-window =
     .title = Eisgeachdan – Modh HTTPS a-mhàin
     .style = { permissions-window.style }
+permissions-exceptions-https-only-desc = ’S urrainn dhut am modh HTTPS a-mhàin a chur dheth do làraichean-lìn sònraichte. Chan fheuch { -brand-short-name } ris an ceangal àrdachadh gu HTTPS tèarainte dha na làraichean ud. Cha bhi na h-eisgeachdan an sàs air uinneagan prìobhaideach.
 
 ## Exceptions - Pop-ups
 
@@ -117,6 +118,10 @@ permissions-exceptions-addons-desc = 'S urrainn dhut sònrachadh dè na làraich
 
 ## Site Permissions - Autoplay
 
+permissions-site-autoplay-window =
+    .title = Roghainnean – Fèin-chluich
+    .style = { permissions-window.style }
+permissions-site-autoplay-desc = ’S urrainn dhut na làraichean nach cleachd na roghainnean fèin-chluich tùsail agad a stiùireadh an-seo.
 
 ## Site Permissions - Notifications
 

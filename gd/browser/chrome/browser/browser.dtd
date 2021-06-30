@@ -136,7 +136,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY editMenu.label         "Deasaich">
 <!ENTITY preferencesCmd2.label       "Roghainnean">
 <!ENTITY preferencesCmdUnix.label       "Roghainnean">
-<!ENTITY logins.label                           "Clàraidhean a-steach is faclan-faire">
+<!ENTITY logins.label                           "Clàraidhean a-steach ⁊ faclan-faire">
 
 <!ENTITY overflowCustomizeToolbar.label       "Gnàthaich am bàr-inneal...">
 <!ENTITY overflowCustomizeToolbar.accesskey   "G">
