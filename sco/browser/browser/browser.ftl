@@ -467,7 +467,7 @@ sharing-warning-disable-for-session =
 
 ## DevTools F12 popup
 
-enable-devtools-popup-description = Fur tae yaise the F12 shortcut, first open DevTools through the Wab Developer menu.
+enable-devtools-popup-description = Fur tae yaise the F12 shortcut, first open DevTools through the Wab Forderer menu.
 
 ## URL Bar
 
