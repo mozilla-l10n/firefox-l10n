@@ -31,7 +31,7 @@ features-inspector-desc = Luik-ower and refine code fur tae big pixel-perfect la
 features-console-title = Console
 features-console-desc = Track CSS, JavaScript, siccarness and netwark issues. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-debugger-title = Bugdichter
-features-debugger-desc = Pooerfu JavaScript bugdichter wi support fur yer framewark. <a data-l10n-name="learn-more">{ features-learn-more }</a>
+features-debugger-desc = Pouerfu JavaScript bugdichter wi support fur yer framewark. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-network-title = Netwark
 features-network-desc = Monitor netwark requests that can slow or block yer site. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-storage-title = Storage
