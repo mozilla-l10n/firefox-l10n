@@ -183,13 +183,25 @@ about-logins-confirm-remove-all-dialog-checkbox-label =
         [few] Thoir air falbh na clàraidhean a-steach seo
        *[other] Thoir air falbh na clàraidhean a-steach seo
     }
+about-logins-confirm-remove-all-dialog-title =
+    { $count ->
+        [one] A bheil thu airson an { $count } chlàradh a-steach a thoirt air falbh?
+        [two] A bheil thu airson an { $count } clàradh a-steach a thoirt air falbh?
+        [few] A bheil thu airson an { $count } clàraidhean a-steach a thoirt air falbh?
+       *[other] A bheil thu airson an { $count } clàradh a-steach a thoirt air falbh?
+    }
+about-logins-confirm-export-dialog-title = Às-phortaich na clàraidhean a-steach agus faclan-faire agad
+about-logins-confirm-export-dialog-confirm-button = Às-phortaich…
+about-logins-alert-import-title = Ion-phortadh deiseil
 confirm-discard-changes-dialog-title = A bheil thu airson na h-atharraichean gun sàbhaladh a thilgeil air falbh?
 confirm-discard-changes-dialog-message = Thèid gach atharrachadh gun sàbhaladh air chall.
 confirm-discard-changes-dialog-confirm-button = Tilg air falbh
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = Bhriseadh a-steach air làrach-lìn
 breach-alert-text = Chaidh faclan-faire a ghoid air an làrach-lìn seo on a dh’ùraich thu an clàradh a-steach agad turas mu dheireadh. Atharraich am facal-faire agad a dhìon a’ chunntais agad.
+about-logins-breach-alert-date = Thachair am briseadh a-steach air { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = Tadhail air { $hostname }
@@ -197,6 +209,7 @@ about-logins-breach-alert-learn-more-link = Barrachd fiosrachaidh
 
 ## Vulnerable Password notification
 
+about-logins-vulnerable-alert-title = Facal-faire so-leònta
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = Tadhail air { $hostname }
@@ -214,14 +227,48 @@ about-logins-error-message-default = Thachair mearachd nuair a dh’fheuch sinn 
 
 ## Login Export Dialog
 
+# Title of the file picker dialog
+about-logins-export-file-picker-title = Às-phortaich na clàraidhean a-steach mar fhaidhle
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename = clàraidhean a-steach.csv
+about-logins-export-file-picker-export-button = Às-phortaich
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] Sgrìobhainn CSV
+       *[other] Faidhle CSV
+    }
 
 ## Login Import Dialog
 
+# Title of the file picker dialog
+about-logins-import-file-picker-title = Ion-phortaich faidhle chlàraidhean a-steach
+about-logins-import-file-picker-import-button = Ion-phortaich
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-import-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] Sgrìobhainn CSV
+       *[other] Faidhle CSV
+    }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] Sgrìobhainn TSV
+       *[other] Faidhle TSV
+    }
 
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-dialog-title = Ion-phortadh deiseil
+about-logins-import-dialog-done = Deiseil
+about-logins-import-dialog-error-file-format-title = Duilgheadas le fòrmat faidhle
+about-logins-import-dialog-error-file-permission-title = Cha ghabh am faidhle a leughadh
 
 ##
 ## Variables:
