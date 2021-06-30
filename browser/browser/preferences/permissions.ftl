@@ -145,6 +145,13 @@ permissions-site-location-disable-desc = Cumaidh seo làrach-lìn sam bith nach 
 
 ## Site Permissions - Virtual Reality
 
+permissions-site-xr-window =
+    .title = Roghainnean – Ceadan na fìorachd bhiortail
+    .style = { permissions-window.style }
+permissions-site-xr-desc = Dh’iarr na làraichean-lìn a leanas cead airson uidheaman na fìorachd bhiortail agad inntrigeadh. ’S urrainn dhut sònrachadh dè na làraichean-lìn aig a bheil cead air na h-uidheaman fìorachd bhiortail agad. ’S urrainn dhut iarrtasan ùra air na h-uidheaman fìorachd bhiortail agad a bhacadh cuideachd.
+permissions-site-xr-disable-label =
+    .label = Bac iarrtasan ùra a dh’iarras cead air na h-uidheaman fìorachd bhiortail agad
+permissions-site-xr-disable-desc = Cumaidh seo làrach-lìn sam bith nach eil air an liosta gu h-àrd o chead iarraidh air na h-uidheaman fìorachd bhiortail agad. Ma bhacas tu cead air na h-uidheaman fìorachd bhiortail agad, dh’fhaoidte nach obraich cuid a ghleusan air làraichean-lìn tuilleadh.
 
 ## Site Permissions - Camera
 
