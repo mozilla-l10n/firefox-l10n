@@ -4,3 +4,6 @@
 
 third-party-header-module-list = Tabdart n yizegrar
 third-party-header-loading-events = Asali n tedyanin
+third-party-message-empty = Ulac izegrar n wis kraḍ ttwafen.
+third-party-message-no-duration = Ur yettwasekles ara
+third-party-detail-version = Lqem n ufaylu
