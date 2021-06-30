@@ -847,6 +847,21 @@ forms-master-pw-fips-desc = Dh'fhàillig atharrachadh an fhacail-fhaire
 
 ## OS Authentication dialog
 
+# This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message-win = Airson prìomh fhacal-faire a chruthachadh, cuir a-steach teisteas clàraidh a-steach Windows. Cuiridh seo ri dìon tèarainteachd nan cunntasan agad.
+# This message can be seen by trying to add a Master Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+master-password-os-auth-dialog-message-macosx = prìomh fhacal-faire a chruthachadh
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = Airson prìomh fhacal-faire a chruthachadh, cuir a-steach teisteas clàraidh a-steach Windows. Cuiridh seo ri dìon tèarainteachd nan cunntasan agad.
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = prìomh fhacal-faire a chruthachadh
+master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
 
@@ -912,6 +927,16 @@ sitedata-disallow-cookies-option =
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = Seòrsa bacte
     .accesskey = t
+sitedata-option-block-cross-site-trackers =
+    .label = Tracaichean thar làraichean
+sitedata-option-block-cross-site-and-social-media-trackers =
+    .label = Tracaichean thar làraichean ’s nam meadhanan sòisealta
+sitedata-option-block-cross-site-tracking-cookies-including-social-media =
+    .label = Briosgaidean tracaidh thar làraichean – a’ gabhail a-staigh briosgaidean mheadhanan sòisealta
+sitedata-option-block-cross-site-cookies-including-social-media =
+    .label = Briosgaidean thar làraichean – a’ gabhail a-staigh briosgaidean mheadhanan sòisealta
+sitedata-option-block-cross-site-and-social-media-trackers-plus-isolate =
+    .label = Tracaichean thar làraichean ’s nam meadhanan sòisealta agus cùm an còrr dhe na briosgaidean fa leth
 sitedata-option-block-unvisited =
     .label = Briosgaidean o làraichean air nach deach tadhal
 sitedata-option-block-all-third-party =
@@ -927,6 +952,9 @@ sitedata-settings =
 sitedata-cookies-permissions =
     .label = Stiùirich na ceadan…
     .accesskey = S
+sitedata-cookies-exceptions =
+    .label = Stiùirich na h-eisgeachdan…
+    .accesskey = e
 
 ## Privacy Section - Address Bar
 
@@ -941,11 +969,24 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Tabaichean fosgailte
     .accesskey = o
+# Shortcuts refers to the shortcut tiles on the new tab page, previously known as top sites. Translation should be consistent.
+addressbar-locbar-shortcuts-option =
+    .label = Ath-ghoiridean
+    .accesskey = g
+addressbar-locbar-topsites-option =
+    .label = Brod nan làrach
+    .accesskey = B
+addressbar-locbar-engines-option =
+    .label = Einnseanan-luirg
+    .accesskey = a
 addressbar-suggestions-settings = Atharraich na roghainnean a thaobh mholaidhean o einnseanan-luirg
 
 ## Privacy Section - Content Blocking
 
+content-blocking-enhanced-tracking-protection = Dìon adhartach o thracadh
+content-blocking-section-top-level-description = Leanaidh tracaichean ort air loidhne airson fiosrachadh a chruinneachadh mu na gnàthasan brabhsaidh ’s na h-ùidhean agad. Bacaidh { -brand-short-name } mòran dhe na tracaichean sin agus sgriobtan droch-rùnach eile.
 content-blocking-learn-more = Barrachd fiosrachaidh
+content-blocking-fpi-incompatibility-warning = Tha thu a’ cleachdadh First Party Isolation (FPI) a nì tar-àithneadh air cuid de roghainnean nam briosgaidean aig { -brand-short-name }.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -963,6 +1004,11 @@ enhanced-tracking-protection-setting-custom =
 
 ##
 
+content-blocking-etp-standard-desc = Cothromaichte do dhìon is dèanadas. Thèid duilleagan a luchdadh gu h-àbhaisteach.
+content-blocking-etp-strict-desc = Dìon nas làidire ach dh’fhaoidte gum bris seo cuid a làraichean no susbaint.
+content-blocking-etp-custom-desc = Tagh na tracaichean is sgriobtaichean a thèid a bhacadh.
+content-blocking-etp-blocking-desc = Seo na bhacas { -brand-short-name }:
+content-blocking-private-windows = Susbaint tracaidh air uinneagan prìobhaideach
 content-blocking-all-cookies = Gach briosgaid
 content-blocking-unvisited-cookies = Briosgaidean o làraichean air nach deach tadhal
 content-blocking-all-third-party-cookies = Gach briosgaid le treas-phàrtaidh
