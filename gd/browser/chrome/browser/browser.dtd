@@ -43,6 +43,8 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY fullScreenCmd.label "Làn-sgrìn">
 
+<!ENTITY pictureInPictureHideToggle.label "Falaich toglachadh dealbh am broinn deilbh">
+<!ENTITY pictureInPictureHideToggle.accesskey "h">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
