@@ -19,6 +19,11 @@ experimental-features-media-avif =
 experimental-features-media-avif-description = เมื่อเปิดใช้งานคุณลักษณะนี้ { -brand-short-name } จะรองรับรูปแบบ AV1 Image File (AVIF) ซึ่งเป็นรูปแบบไฟล์ภาพนิ่งที่ใช้ประโยชน์จากความสามารถของอัลกอริธึมการบีบอัดวิดีโอ AV1 เพื่อลดขนาดภาพ ดูที่ <a data-l10n-name="bugzilla">bug 1443863</a> สำหรับรายละเอียดเพิ่มเติม
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
+experimental-features-media-jxl =
+    .label = สื่อ: JPEG XL
+experimental-features-media-jxl-description = เมื่อคุณสมบัตินี้ถูกเปิดใช้งาน { -brand-short-name } จะสามารถรองรับรูปภาพรูปแบบ JPEG XL (JXL) โดยไฟล์รูปภาพที่อยู่ในรูปแบบที่ดีขึ้นนี้สามารถรองรับการแปลงโดยไม่มีการลดทอนคุณภาพจากไฟล์ JPEG แบบเดิมได้ ดูที่ <a data-l10n-name="bugzilla">บั๊ก 1539075</a> สำหรับรายละเอียดเพิ่มเติม
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
     .label = Web API: inputmode
 # "inputmode" and "contenteditable" are technical terms and shouldn't be translated.
@@ -64,6 +69,10 @@ experimental-features-devtools-serviceworker-debugger-support-description = เ�
 experimental-features-webrtc-global-mute-toggles =
     .label = WebRTC Global Mute Toggles
 experimental-features-webrtc-global-mute-toggles-description = เพิ่มตัวควบคุมลงในตัวบ่งชี้การใช้ร่วมกันส่วนกลางของ WebRTC ซึ่งทำให้ผู้ใช้สามารถปิดเสียงไมโครโฟนและฟีดกล้องแบบส่วนกลางได้
+# Win32k Lockdown
+experimental-features-win32k-lockdown =
+    .label = Win32k Lockdown
+experimental-features-win32k-lockdown-description = ปิดการใช้งาน API แบบ Win32k ในแท็บเบราว์เซอร์ ซึ่งจะช่วยเพิ่มความปลอดภัย แต่อาจยังไม่เสถียรหรือทำงานไม่ราบรื่น (เฉพาะ Windows)
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp

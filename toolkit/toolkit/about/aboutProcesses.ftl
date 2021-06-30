@@ -57,10 +57,13 @@ about-processes-process-name = กระบวนการ { $pid }: { $name }
 ##    $pid (String) The process id of this process, assigned by the OS.
 
 about-processes-browser-process = { -brand-short-name }{ $pid }
+about-processes-web-process = กระบวนการเว็บที่ใช้ร่วมกัน ({ $pid })
 about-processes-file-process = ไฟล์ ({ $pid })
 about-processes-extension-process = ส่วนขยาย ({ $pid })
 about-processes-privilegedabout-process = หน้าเกี่ยวกับ ({ $pid })
 about-processes-plugin-process = ปลั๊กอิน ({ $pid })
+about-processes-privilegedmozilla-process = ไซต์ { -vendor-short-name } ({ $pid })
+about-processes-gmp-plugin-process = ปลั๊กอินสื่อของ Gecko ({ $pid })
 about-processes-gpu-process = GPU ({ $pid })
 about-processes-vr-process = VR ({ $pid })
 about-processes-rdd-process = ตัวถอดรหัสข้อมูล ({ $pid })
@@ -154,6 +157,9 @@ about-processes-frame-name-many = เฟรมย่อย ({ $number }): { $sho
 
 # Common case.
 about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") } ({ NUMBER($total, maximumFractionDigits: 0) }{ $unit })
+# Common case.
+about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
+    .title = เวลาของ CPU ทั้งหมด: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (กำลังวัด)
 # Special case: process or thread is currently idle.
