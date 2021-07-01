@@ -14,6 +14,7 @@ crashed-request-help = کیا آپ ہماری مدد کریں گے؟
 crashed-request-help-message = تباہ کی رپورٹس ہمیں مسائل کی تشخیص کرنے میں مدد کرتا ھے اور *{ -brand-short-name }* کو بہترکرتا ہے۔
 crashed-request-report-title = اس ٹیب کی رپورٹ کریں
 crashed-send-report = خودکار کریش کی رپورٹ بھیجیں تاکہ ہم اس طرح کے معاملات حل کرسکیں۔
+crashed-send-report-2 = کریش کی خودکار رپورٹ بھیجیں تاکہ ہم اس طرح کے معاملات حل کرسکیں
 crashed-comment =
     .placeholder = اختیاری تبصرہ (تبصرے عوامی سطح پر نمودار ھیں)
 crashed-include-URL = { -brand-short-name } کریش ہونے کے وقت آپ جس سائٹ پر تھے اس کآ URLs شامل کریں۔
