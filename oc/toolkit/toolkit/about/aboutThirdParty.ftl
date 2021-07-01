@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+third-party-page-title = Informacions modul tèrç
+third-party-section-title = Lista dels moduls tèrces dins { -brand-short-name }
 third-party-header-module-list = Lista de moduls
 third-party-header-loading-events = Cargament dels eveniments
 third-party-message-empty = Cap de modul tèrç pas detectat.
