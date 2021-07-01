@@ -276,9 +276,19 @@ cfr-whatsnew-better-pdf-body = Thèid sgrìobhainnean PDF fhosgladh am broinn { 
 
 ## DOH Message
 
+cfr-doorhanger-doh-body = Tha do phrìobhaideachd cudromach. Nì { -brand-short-name } rùtachadh tèarainte gu seirbheis com-pàirtiche air na h-iarrtasan DNS agad a-nis nuair a ghabhas sin a dhèanamh gus do dhìon fhad ’ s a bhios tu ri brabhsadh.
+cfr-doorhanger-doh-header = Lorg DNS crioptaichte ’s nas tèarainte
+cfr-doorhanger-doh-primary-button-2 = Ceart ma-thà
+    .accesskey = e
+cfr-doorhanger-doh-secondary-button = Cuir à comas
+    .accesskey = u
 
 ## Fission Experiment Message
 
+cfr-doorhanger-fission-primary-button = Ceart, tha mi agaibh
+    .accesskey = e
+cfr-doorhanger-fission-secondary-button = Barrachd fiosrachaidh
+    .accesskey = B
 
 ## What's new: Cookies message
 
