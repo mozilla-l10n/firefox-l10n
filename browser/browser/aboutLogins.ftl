@@ -244,7 +244,7 @@ about-logins-breach-alert-learn-more-link = Barrachd fiosrachaidh
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Facal-faire so-leònta
-about-logins-vulnerable-alert-text2 = Chaidh am facal-faire seo a chleachdadh le cunntas eile is sinn an dùil gun deach briseadh a-steach air an dàta aige-san. Ma dh’ath-chleachdas tu teisteasan, cuiridh seo a h-uile cunntas agad fo chunnart. Atharraich am facal-faire seo.
+about-logins-vulnerable-alert-text2 = Chaidh am facal-faire seo a chleachdadh le cunntas eile is sinn an dùil bheil e am measg dàta a chaidh a leigeil air èalaidh. Ma dh’ath-chleachdas tu teisteasan, cuiridh seo a h-uile cunntas agad fo chunnart. Atharraich am facal-faire seo.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = Tadhail air { $hostname }
