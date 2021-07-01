@@ -189,6 +189,8 @@ monitor-partial-breaches-motivation-title-start = Deagh thoiseach-tòiseachaidh!
 monitor-partial-breaches-motivation-title-middle = Cùm ort!
 monitor-partial-breaches-motivation-title-end = Cha mòr deiseil! Cùm ort.
 monitor-partial-breaches-motivation-description = Fuasgail an còrr dhe na brisidhean a-steach ort air { -monitor-brand-short-name }.
+monitor-resolve-breaches-link = Fuasgail brisidhean a-steach
+    .title = Fuasgail brisidhean a-steach air { -monitor-brand-short-name }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
@@ -197,3 +199,48 @@ monitor-partial-breaches-motivation-description = Fuasgail an còrr dhe na brisi
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-social =
+    .title = Tracaichean nam meadhanan sòisealta
+    .aria-label =
+        { $count ->
+            [one] { $count } tracaiche nam meadhanan sòisealta ({ $percentage }%)
+            [two] { $count } thracaiche nam meadhanan sòisealta ({ $percentage }%)
+            [few] { $count } tracaichean nam meadhanan sòisealta ({ $percentage }%)
+           *[other] { $count } tracaiche nam meadhanan sòisealta ({ $percentage }%)
+        }
+bar-tooltip-cookie =
+    .title = Briosgaidean tracaidh thar làraichean
+    .aria-label =
+        { $count ->
+            [one] { $count } bhriosgaid tracaidh thar làraichean ({ $percentage }%)
+            [two] { $count } bhriosgaid tracaidh thar làraichean ({ $percentage }%)
+            [few] { $count } briosgaidean tracaidh thar làraichean ({ $percentage }%)
+           *[other] { $count } briosgaid tracaidh thar làraichean ({ $percentage }%)
+        }
+bar-tooltip-tracker =
+    .title = Susbaint tracaidh
+    .aria-label =
+        { $count ->
+            [one] { $count } susbaint tracaidh ({ $percentage }%)
+            [two] { $count } shusbaint tracaidh ({ $percentage }%)
+            [few] { $count } susbaintean tracaidh ({ $percentage }%)
+           *[other] { $count } susbaint tracaidh ({ $percentage }%)
+        }
+bar-tooltip-fingerprinter =
+    .title = Lorgaichean-meur
+    .aria-label =
+        { $count ->
+            [one] { $count } lorgaiche-meur ({ $percentage }%)
+            [two] { $count } lorgaiche-meur ({ $percentage }%)
+            [few] { $count } lorgaichean-meur ({ $percentage }%)
+           *[other] { $count } lorgaiche-meur ({ $percentage }%)
+        }
+bar-tooltip-cryptominer =
+    .title = Criopto-mhèinneadairean
+    .aria-label =
+        { $count ->
+            [one] { $count } chriopto-mhèinneadair ({ $percentage }%)
+            [two] { $count } chriopto-mhèinneadair ({ $percentage }%)
+            [few] { $count } criopto-mhèinneadairean ({ $percentage }%)
+           *[other] { $count } criopto-mhèinneadair ({ $percentage }%)
+        }

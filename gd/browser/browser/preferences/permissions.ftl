@@ -77,7 +77,7 @@ permissions-invalid-uri-label = Cuir a-steach ainm òstair dhligheach
 ## Exceptions - Tracking Protection
 
 permissions-exceptions-etp-window =
-    .title = Eisgeachdan air an dìon o thracadh
+    .title = Eisgeachdan air an dìon adhartach o thracadh
     .style = { permissions-window.style }
 permissions-exceptions-etp-desc = Chuir thu dheth an dìon air na làraichean-lìn seo.
 
