@@ -306,8 +306,17 @@ mr1-onboarding-import-subtitle = Ion-phortaich na faclan-faire<br/>’s na comha
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = Ion-phortaich o { $previous }
+# This string will be used in cases where we can't detect the previous browser name.
+mr1-onboarding-import-primary-button-label-no-attribution = Ion-phortaich on bhrabhsair a chleachd thu roimhe
+mr1-onboarding-import-secondary-button-label = Chan ann an-dràsta
+mr1-onboarding-theme-header = Gnàthaich dhut-sa e
+mr1-onboarding-theme-subtitle = Cuir dreach pearsanta air { -brand-short-name } le ùrlar.
+mr1-onboarding-theme-primary-button-label = Sàbhail an t-ùrlar
+mr1-onboarding-theme-secondary-button-label = Chan ann an-dràsta
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Ùrlar an t-siostaim
+mr1-onboarding-theme-label-light = Soilleir
+mr1-onboarding-theme-label-dark = Dorcha
 # "Alpenglow" here is the name of the theme, and should be kept in English.
 mr1-onboarding-theme-label-alpenglow = Alpenglow
 
@@ -316,6 +325,36 @@ mr1-onboarding-theme-label-alpenglow = Alpenglow
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of system theme
+mr1-onboarding-theme-tooltip-system =
+    .title =
+        Cleachd ùrlar an t-siostaim obrachaidh
+        airson putanan, clàran-taice is uinneagan.
+# Input description for system theme
+mr1-onboarding-theme-description-system =
+    .aria-description =
+        Cleachd ùrlar an t-siostaim obrachaidh
+        airson putanan, clàran-taice is uinneagan.
+# Tooltip displayed on hover of light theme
+mr1-onboarding-theme-tooltip-light =
+    .title =
+        Cleachd ùrlar soilleir air putanan,
+        clàran-taice is uinneagan.
+# Input description for light theme
+mr1-onboarding-theme-description-light =
+    .aria-description =
+        Cleachd ùrlar soilleir air putanan,
+        clàran-taice is uinneagan.
+# Tooltip displayed on hover of dark theme
+mr1-onboarding-theme-tooltip-dark =
+    .title =
+        Cleachd ùrlar dorcha air putanan,
+        clàran-taice is uinneagan.
+# Input description for dark theme
+mr1-onboarding-theme-description-dark =
+    .aria-description =
+        Cleachd ùrlar dorcha air putanan,
+        clàran-taice is uinneagan.
 # Tooltip displayed on hover of Alpenglow theme
 mr1-onboarding-theme-tooltip-alpenglow =
     .title =
