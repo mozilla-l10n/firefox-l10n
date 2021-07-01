@@ -187,6 +187,9 @@ onboarding-multistage-import-header = Emporzhit ho kerioù-tremen, <br/>sinedoù
 onboarding-multistage-import-subtitle = O tont deus ur merdeer all ? Aes eo degas pep tra war { -brand-short-name }.
 onboarding-multistage-import-primary-button-label = Loc'hañ an enporzhiadur
 onboarding-multistage-import-secondary-button-label = Ket bremañ
+# Info displayed in the footer of import settings screen during onboarding flow.
+# This supports welcome screen showing top sites imported from the user's default browser.
+onboarding-import-sites-disclaimer = Al lec'hiennoù listennet amañ a zo bet kavet en trevnad-mañ. { -brand-short-name } ne enroll ket ha ne c'houbred ket ar roadennoù o tont deus merdeerien-all nemet ma tibabit o emporzhiañ.
 onboarding-multistage-theme-subtitle = Personelait { -brand-short-name } gant an neuz.
 onboarding-multistage-theme-primary-button-label2 = Graet
 onboarding-multistage-theme-secondary-button-label = Ket bremañ
