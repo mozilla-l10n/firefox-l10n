@@ -36,6 +36,8 @@ about-webrtc-local-sdp-heading-answer = SDP ionadail (Answer)
 about-webrtc-remote-sdp-heading = SDP cèin
 about-webrtc-remote-sdp-heading-offer = SDP cèin (Offer)
 about-webrtc-remote-sdp-heading-answer = SDP cèin (Answer)
+about-webrtc-sdp-history-heading = Eachdraidh SDP
+about-webrtc-sdp-parsing-errors-heading = Mearachdan parsaidh SDP
 
 ##
 
@@ -56,14 +58,10 @@ about-webrtc-ice-pair-bytes-sent = Bytes sent:
 about-webrtc-ice-pair-bytes-received = Bytes received:
 about-webrtc-ice-component-id = Component ID
 
-##
-
-
 ## "Avg." is an abbreviation for Average. These are used as data labels.
 
-
-##
-
+about-webrtc-avg-bitrate-label = Reat bhiodan cuibheasach
+about-webrtc-avg-framerate-label = Reat fhrèamaichean cuibheasach
 
 ## These adjectives are used to label a line of statistics collected for a peer
 ## connection. The data represents either the local or remote end of the
@@ -120,14 +118,57 @@ about-webrtc-fold-show-msg = seall am mion-fhiosrachadh
     .title = dèan briogadh gus an earrann seo a leudachadh
 about-webrtc-fold-hide-msg = falaich am mion-fhiosrachadh
     .title = dèan briogadh gus an earrann seo a cho-theannadh
+about-webrtc-dropped-frames-label = Frèamaichean a thuit:
+about-webrtc-discarded-packets-label = Pacaidean a chaidh a thilgeil air falbh:
 about-webrtc-decoder-label = Dì-chòdaichear
 about-webrtc-encoder-label = Còdaichear
+about-webrtc-show-tab-label = Seall an taba
+about-webrtc-width-px = Leud (px)
+about-webrtc-height-px = Àirde (px)
+about-webrtc-consecutive-frames = Frèamaichean leantach
+about-webrtc-time-elapsed = An ùine a dh’fhalbh (s)
+about-webrtc-estimated-framerate = Tuairmse air an reat fhrèamaichean
+about-webrtc-rotation-degrees = Cuairteachadh (ceum)
+about-webrtc-first-frame-timestamp = Stampa-tìde a’ chiad fhrèam a fhuaras
+about-webrtc-last-frame-timestamp = Stampa-tìde an fhrèam mu dheireadh a fhuaras
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
+# This is an SSRC on the local side of the connection that is receiving RTP
+about-webrtc-local-receive-ssrc = Faighinn SSRC ionadail
+# This is an SSRC on the remote side of the connection that is sending RTP
+about-webrtc-remote-send-ssrc = Cur SSRC cèin
 
 ##
 
+# An option whose value will not be displayed but instead noted as having been
+# provided
+about-webrtc-configuration-element-provided = Chaidh a sholar
+# An option whose value will not be displayed but instead noted as having not
+# been provided
+about-webrtc-configuration-element-not-provided = Cha deach a sholar
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-custom-webrtc-configuration-heading = Roghainnean WebRTC a shuidhich a cleachdaiche
+# Section header for estimated bandwidths of WebRTC media flows
+about-webrtc-bandwidth-stats-heading = Tuairmse air an leud-bhanna
+# The ID of the MediaStreamTrack
+about-webrtc-track-identifier = Aithnichear an traca
+# The estimated bandwidth available for sending WebRTC media in bytes per second
+about-webrtc-send-bandwidth-bytes-sec = Leud-banna a’ chuir (baidht/diog)
+# The estimated bandwidth available for receiving WebRTC media in bytes per second
+about-webrtc-receive-bandwidth-bytes-sec = Leud-banna na faighinn (baidht/diog)
+# Maximum number of bytes per second that will be padding zeros at the ends of packets
+about-webrtc-max-padding-bytes-sec = Am padadh as motha (baidht/diog)
+# The amount of time inserted between packets to keep them spaced out
+about-webrtc-pacer-delay-ms = Dàil a’ cheumnaiche (ms)
+# The amount of time it takes for a packet to travel from the local machine to the remote machine,
+# and then have a packet return
+about-webrtc-round-trip-time-ms = RTT (ms)
+# This is a section heading for video frame statistics for a MediaStreamTrack.
+# see https://developer.mozilla.org/en-US/docs/Web/API/MediaStreamTrack.
+# Variables:
+#   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
+about-webrtc-frame-stats-heading = Stadastaireachd fhrèamaichean a’ video – ID MediaStreamTrack: { $track-identifier }
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
@@ -141,6 +182,36 @@ about-webrtc-aec-logging-off-state-msg = gheibhear na faidhlichean loga an-seo: 
 
 ##
 
+# This is the total number of packets received on the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets received.
+about-webrtc-received-label =
+    { $packets ->
+        [one] Fhuaras { $packets } phacaid
+        [two] Fhuaras { $packets } phacaid
+        [few] Fhuaras { $packets } pacaidean
+       *[other] Fhuaras { $packets } pacaid
+    }
+# This is the total number of packets lost by the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets lost.
+about-webrtc-lost-label =
+    { $packets ->
+        [one] Chaidh { $packets } phacaid air chall
+        [two] Chaidh { $packets } phacaid air chall
+        [few] Chaidh { $packets } pacaidean air chall
+       *[other] Chaidh { $packets } pacaid air chall
+    }
+# This is the total number of packets sent by the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets sent.
+about-webrtc-sent-label =
+    { $packets ->
+        [one] Chaidh { $packets } phacaid a chur
+        [two] Chaidh { $packets } phacaid a chur
+        [few] Chaidh { $packets } pacaidean a chur
+       *[other] Chaidh { $packets } pacaid a chur
+    }
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
@@ -154,6 +225,19 @@ about-webrtc-trickle-caption-msg = Trickled candidates (arriving after answer) a
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
+# This is used as a header for local SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-local = Chaidh SDP ionadail a shuidheachadh air stampa-tìde { NUMBER($timestamp, useGrouping: "false") }
+# This is used as a header for remote SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-remote = Chaidh SDP cèin a shuidheachadh air stampa-tìde { NUMBER($timestamp, useGrouping: "false") }
+# This is used as a header for an SDP section contained in two columns allowing for side-by-side comparisons.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+#  $relative-timestamp (Number) - The timestamp relative to the timestamp of the earliest received SDP.
+about-webrtc-sdp-set-timestamp = Stampa-tìde { NUMBER($timestamp, useGrouping: "false") } (+ { $relative-timestamp } ms)
 
 ##
 
