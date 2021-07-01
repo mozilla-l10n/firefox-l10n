@@ -86,3 +86,7 @@ upgrade-dialog-theme-dark = Dorcha
     .title = Cleachd ùrlar dorcha airson putanan, clàran-taice is uinneagan
 upgrade-dialog-theme-alpenglow = Alpenglow
     .title = Cleachd ùrlar innsginneach dathte airson putanan, clàran-taice is uinneagan
+upgrade-dialog-theme-keep = Cùm an t-ùrlar a bh’ agad
+    .title = Cùm an t-ùrlar a stàlaich thu mus do rinn thu ùrachadh gu { -brand-short-name }
+upgrade-dialog-theme-primary-button = Sàbhail an t-ùrlar
+upgrade-dialog-theme-secondary-button = Chan ann an-dràsta
