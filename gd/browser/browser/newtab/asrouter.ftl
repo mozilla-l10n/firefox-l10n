@@ -301,19 +301,32 @@ cfr-whatsnew-clear-cookies-image-alt = Sgead-dhealbh air briosgaid bacte
 ## What's new: Media controls message
 
 cfr-whatsnew-media-keys-header = Barrachd uidheaman-smachd mheadhanan
+cfr-whatsnew-media-keys-body = Cluich fuaim no video is cuir ’nan stad iad on mheur-chlàr no headset agad agus stiùirichidh tu meadhanan o thaba no prògram eile no fhiù ’s nuair a bhios an coimpiutair agad glaiste gun duilgheadas. ’S urrainn dhut gluasad eadar tracaichean cuideachd leis na h-iuchraichean air adhart is air ais.
+cfr-whatsnew-media-keys-button = Barrachd fiosrachaidh
 
 ## What's new: Search shortcuts
 
+cfr-whatsnew-search-shortcuts-header = Ath-ghoiridean luirg air a’ bhàr-seòlaidh
+cfr-whatsnew-search-shortcuts-body = Nise, nuair a chuireas tu a-steach einnsean-luirg no làrach sònraichte air a’ bhàr-seòlaidh, nochdaidh ath-ghoirid ghorm sna molaidhean luirg foidhe. Tagh an ath-ghoirid sin airson an lorg agad a choileanadh on bhàr-seòlaidh fhèin.
 
 ## What's new: Cookies protection
 
+cfr-whatsnew-supercookies-header = Dìon o os-bhriosgaidean droch-rùnach
+cfr-whatsnew-supercookies-body = ’S urrainn do làraichean-lìn “os-bhriosgaid” a cheangal ris a’ bhrabhsair agad gu dìomhair a leanas ort air feadh an lìn fhiù ’s nuair a bhios tu air na briosgaidean agad fhalamhachadh. Bheir { -brand-short-name } dìon làidir dhut an aghaidh nan os-bhriosgaidean a-nis ach nach gabh an cleachdadh airson nan gnìomhachdan air loidhne agad a thracadh o làrach gu làrach.
 
 ## What's new: Better bookmarking
 
+cfr-whatsnew-bookmarking-header = Comharran-lìn nas fheàrr
 cfr-whatsnew-bookmarking-body = Tha e nas fhasa sùil a chumail air na làraichean as annsa leat a-nis. Cuiridh { -brand-short-name } an t-ionad as fheàrr leat airson sàbhaladh nan comharran-lìn ’na chuimhne a-nis, seallaidh e bàr-inneal nan comharran-lìn air tabaichean ùra o thùs agus bheir e cothrom luath dhut air a’ chòrr dhe na comharran-lìn agad le pasgan chomharran-lìn.
 
 ## What's new: Cross-site cookie tracking
 
+cfr-whatsnew-cross-site-tracking-header = Dìon ioma-chuimseach an aghaidh tracadh thar làraichean
+cfr-whatsnew-cross-site-tracking-body = ’S urrainn dhut aontachadh air dìon nas fheàrr o thracadh bhriosgaidean. ’S urrainn dha { -brand-short-name } na gnìomhachdan ’s an dàta agad a chumail fa leth air làrach far a bheil thu ach nach dèid am fiosrachadh a tha ’ga stòradh sa bhrabhsair a cho-roinneadh eadar làraichean-lìn.
 
 ## Full Video Support CFR message
 
+cfr-doorhanger-video-support-body = Dh’fhaoidte nach dèid na videothan air an làrach seo a chluich mar bu chòir leis an tionndadh seo dhe { -brand-short-name }. Airson làn-taic ri videothan, ùraich { -brand-short-name } an-dràsta.
+cfr-doorhanger-video-support-header = Ùraich { -brand-short-name } airson a’ video a chluich
+cfr-doorhanger-video-support-primary-button = Ùraich an-dràsta
+    .accesskey = r
