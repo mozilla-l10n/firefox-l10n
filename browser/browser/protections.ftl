@@ -95,6 +95,100 @@ lockwise-how-it-works-link = Mar a dh’obraicheas e
 turn-on-sync = Cuir { -sync-brand-short-name } air…
     .title = Tadhail air roghainnean an t-sioncronachaidh
 monitor-title = Cùm sùil airson dàta a chaidh a leigeil air èalaidh.
+monitor-link = Mar a dh’obraicheas e
+monitor-header-content-no-account = Thoir sùil air { -monitor-brand-name }feuch an deach dàta agad a leigeil air èalaidh le briseadh a-steach air dàta agus faigh caismeachdan mu brisidhean a-steach ùra.
+monitor-header-content-signed-in = Bheir { -monitor-brand-name } rabhadh dhut ma chaidh dàta agad a leigeil air èalaidh le briseadh dàta.
+monitor-sign-up-link = Clàraich airson rabhaidhean mu bhrisidhean
+    .title = Clàraich airson rabhaidhean mu bhrisidhean air { -monitor-brand-name }
+auto-scan = Chaidh a sganadh gu fèin-obrachail an-diugh
+monitor-emails-tooltip =
+    .title = Seall na seòlaidhean puist-d a chumas { -monitor-brand-short-name } sùil orra
+monitor-breaches-tooltip =
+    .title = Seall brisidhean dàta air a bheilear eòlach air { -monitor-brand-short-name }
+monitor-passwords-tooltip =
+    .title = Seall na faclan-faire a chaidh a leigeil air èalaidh air { -monitor-brand-short-name }
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-monitored-emails =
+    { $count ->
+        [1] Tha sinn a’ cumail sùil air seòladh puist-d
+        [one] Tha sinn a’ cumail sùil air seòlaidhean puist-d
+        [two] Tha sinn a’ cumail sùil air seòlaidhean puist-d
+        [few] Tha sinn a’ cumail sùil air seòlaidhean puist-d
+       *[other] Tha sinn a’ cumail sùil air seòlaidhean puist-d
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches-found =
+    { $count ->
+        [1] Leig briseadh a-steach air dàta am fiosrachadh agad air èalaidh
+        [one] Leig brisidhean a-steach air dàta am fiosrachadh agad air èalaidh
+        [two] Leig brisidhean a-steach air dàta am fiosrachadh agad air èalaidh
+        [few] Leig brisidhean a-steach air dàta am fiosrachadh agad air èalaidh
+       *[other] Leig brisidhean a-steach air dàta am fiosrachadh agad air èalaidh
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-known-breaches-resolved =
+    { $count ->
+        [1] Chaidh comharra fuasglaidh a chur air briseadh dàta
+        [one] Chaidh comharra fuasglaidh a chur air brisidhean dàta
+        [two] Chaidh comharra fuasglaidh a chur air brisidhean dàta
+        [few] Chaidh comharra fuasglaidh a chur air brisidhean dàta
+       *[other] Chaidh comharra fuasglaidh a chur air brisidhean dàta
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords-found =
+    { $count ->
+        [1] Facal-faire a chaidh a leigeil air èalaidh thar nam brisidhean uile
+        [one] Faclan-faire a chaidh a leigeil air èalaidh thar nam brisidhean uile
+        [two] Faclan-faire a chaidh a leigeil air èalaidh thar nam brisidhean uile
+        [few] Faclan-faire a chaidh a leigeil air èalaidh thar nam brisidhean uile
+       *[other] Faclan-faire a chaidh a leigeil air èalaidh thar nam brisidhean uile
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-exposed-passwords-resolved =
+    { $count ->
+        [1] Facal-faire a chaidh a leigeil air èalaidh le brisidhean gun fhuasgladh
+        [one] Faclan-faire a chaidh a leigeil air èalaidh le brisidhean gun fhuasgladh
+        [two] Faclan-faire a chaidh a leigeil air èalaidh le brisidhean gun fhuasgladh
+        [few] Faclan-faire a chaidh a leigeil air èalaidh le brisidhean gun fhuasgladh
+       *[other] Faclan-faire a chaidh a leigeil air èalaidh le brisidhean gun fhuasgladh
+    }
+monitor-no-breaches-title = Deagh naidheachd!
+monitor-no-breaches-description = Chan eil sinn eòlach air briseadh a-steach air an dàta agad. Ma thachras sin, leigidh sinn fios dhut.
+monitor-view-report-link = Seall an aithisg
+    .title = Fuasgail na brisidhean air { -monitor-brand-short-name }
+monitor-breaches-unresolved-title = Fuasgail na brisidhean a-steach ort
+monitor-breaches-unresolved-description = Nuair a bhios tu air mion-fhiosrachadh brisidh a-steach a sgrùdadh agus air ceuman a ghabhail gus am fiosrachadh agad a dhìon, ’s urrainn dhut comharra a chur air a’ bhriseadh a-steach gu deach fhuasgladh.
+monitor-manage-breaches-link = Stiùirich na brisidhean a-steach
+    .title = Stiùirich na brisidhean a-steach air { -monitor-brand-short-name }
+monitor-breaches-resolved-title = Nach math sin! Tha thu air gach briseadh a-steach air a bheil sinn eòlach fuasgladh.
+monitor-breaches-resolved-description = Ma nochdas am post-d agad ann an dàta ùr a chaidh a leigeil air èalaidh sam bith, innsidh sinn dhut.
+# Variables:
+# $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
+# $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
+monitor-partial-breaches-title =
+    { $numBreaches ->
+        [one] Chaidh comharra a chur air { $numBreachesResolved } à { $numBreaches } bhriseadh a-steach gun deach fuasgladh
+        [two] Chaidh comharra a chur air { $numBreachesResolved } à { $numBreaches } bhriseadh a-steach gun deach fuasgladh
+        [few] Chaidh comharra a chur air { $numBreachesResolved } à { $numBreaches } brisidhean a-steach gun deach fuasgladh
+       *[other] Chaidh comharra a chur air { $numBreachesResolved } à { $numBreaches } briseadh a-steach gun deach fuasgladh
+    }
+# Variables:
+# $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
+monitor-partial-breaches-percentage = { $percentageResolved }% deiseil
+monitor-partial-breaches-motivation-title-start = Deagh thoiseach-tòiseachaidh!
+monitor-partial-breaches-motivation-title-middle = Cùm ort!
+monitor-partial-breaches-motivation-title-end = Cha mòr deiseil! Cùm ort.
+monitor-partial-breaches-motivation-description = Fuasgail an còrr dhe na brisidhean a-steach ort air { -monitor-brand-short-name }.
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
