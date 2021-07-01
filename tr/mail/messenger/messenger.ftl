@@ -13,6 +13,8 @@ about-rights-notification-text = { -brand-short-name }, tüm dünyadan binlerce 
 
 ## Content tabs
 
+content-tab-page-loading-icon =
+    .alt = Sayfa yükleniyor
 content-tab-security-high-icon =
     .alt = Bağlantı güvenli
 content-tab-security-broken-icon =
@@ -23,6 +25,9 @@ content-tab-security-broken-icon =
 addons-and-themes-button =
     .label = Eklentiler ve Temalar
     .tooltip = Eklentilerinizi yönetin
+addons-and-themes-toolbarbutton =
+    .label = Eklentiler ve temalar
+    .tooltiptext = Eklentilerinizi yönetin
 redirect-msg-button =
     .label = Yönlendir
     .tooltiptext = Seçilen iletiyi yönlendir

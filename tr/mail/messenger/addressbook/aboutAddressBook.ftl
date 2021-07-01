@@ -35,6 +35,9 @@ about-addressbook-books-context-delete =
 about-addressbook-books-context-remove =
     .label = Kaldır
 about-addressbook-confirm-delete-book-title = Adres defterini sil
+# Variables:
+# $name (String) - Name of the address book to be deleted.
+about-addressbook-confirm-delete-book = { $name } adres defterini ve tüm kişilerini silmek istediğinizden emin misiniz?
 about-addressbook-confirm-remove-remote-book-title = Adres defterini kaldır
 # Variables:
 # $name (String) - Name of the remote address book to be removed.
@@ -91,11 +94,28 @@ about-addressbook-confirm-remove-contacts-title =
        *[other] Kişileri sil
     }
 # Variables:
+# $count (Number) - The number of contacts to be removed.
+# $name (String) - The name of the contact to be removed, if $count is 1.
+# $list (String) - The name of the list that contacts will be removed from.
+about-addressbook-confirm-remove-contacts =
+    { $count ->
+        [one] { $list } listesinden { $name } kişisini silmek istediğinizden emin misiniz?
+       *[other] { $list } listesinden { $count } kişiyi silmek istediğinizden emin misiniz?
+    }
+# Variables:
 # $count (Number) - The number of contacts to be deleted.
 about-addressbook-confirm-delete-contacts-title =
     { $count ->
         [one] Kişiyi sil
        *[other] Kişileri sil
+    }
+# Variables:
+# $count (Number) - The number of contacts to be deleted.
+# $name (String) - The name of the contact to be deleted, if $count is 1.
+about-addressbook-confirm-delete-contacts =
+    { $count ->
+        [one] { $name } kişisini silmek istediğinizden emin misiniz?
+       *[other] { $count } kişiyi silmek istediğinizden emin misiniz?
     }
 
 ## Details
