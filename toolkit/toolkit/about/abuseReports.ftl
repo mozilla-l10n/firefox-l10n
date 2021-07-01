@@ -71,3 +71,17 @@ abuse-report-settings-reason-v2 = Dh’atharraich e an t-einnsean-luirg, an duil
 abuse-report-settings-suggestions = Mus dèan thu aithris air an leudachan, feuch an atharraich thu na roghainnean agad:
 abuse-report-settings-suggestions-search = Atharraich bun-roghainnean an luirg agad
 abuse-report-settings-suggestions-homepage = Atharraich an duilleag-dhachaigh ’s an taba ùr agad
+abuse-report-deceptive-reason-v2 = Dh’innis e gur e ruideigin eadar-dhealaichte a bhiodh ann
+abuse-report-deceptive-example = Ball-eisimpleir: Tuairisgeul no dealbhan meallta
+abuse-report-broken-reason-extension-v2 = Chan eil e ag obair, tha e a’ briseadh làraichean-lìn no a’ cur maille air { -brand-product-name }
+abuse-report-broken-reason-theme-v2 = Chan eil e ag obair no tha e a’ briseadh taisbeanadh a’ bhrabhsair
+abuse-report-broken-example = Ball-eisimpleir: Tha gleusan slaodach, doirbh a chleachdadh no chan obraich iad; cha luchdaich pàirtean de làraichean-lìn no tha coltas neònach orra
+abuse-report-broken-suggestions-extension =
+    Tha coltas gun do lorg thu buga. A bharrachd air aithris a chur a-null an-seo, ‘s e an dòigh as fheàrr
+    airson duilgheadas le gleus fhuasgladh gun cuir thu fios gu luchd-leasachaidh an leudachain.
+    <a data-l10n-name="support-link">Tadhail air làrach-lìn an leudachain</a> airson fiosrachadh mun luchd-leasachaidh fhaighinn.
+abuse-report-broken-suggestions-theme =
+    Tha coltas gun do lorg thu buga. A bharrachd air aithris a chur a-null an-seo, ‘s e an dòigh as fheàrr
+    airson duilgheadas le gleus fhuasgladh gun cuir thu fios gu luchd-leasachaidh an ùrlair.
+    <a data-l10n-name="support-link">Tadhail air làrach-lìn an ùrlair</a> airson fiosrachadh mun luchd-leasachaidh fhaighinn.
+abuse-report-policy-reason-v2 = Tha susbaint fhuathach, ainneartach no mhì-laghail ann
