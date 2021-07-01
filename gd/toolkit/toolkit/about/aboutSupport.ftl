@@ -4,7 +4,6 @@
 
 page-title = Taic le duilgheadasan
 page-subtitle = Tha fiosrachadh teicnigeach air an duilleag seo a dh'fhaodadh a bhith feumail dhut ann am fuasgladh dhuilgheadasan. Ma tha ceist neo-theicnigeach agad mu { -brand-short-name }, cuir sùil air an <a data-l10n-name="support-link">làrach-taice</a> againn.
-
 crashes-title = Aithisgean tuislidh
 crashes-id = ID na h-aithisge
 crashes-send-date = Air a chur
@@ -15,7 +14,10 @@ extensions-name = Ainm
 extensions-enabled = Air a chur an comas
 extensions-version = Tionndadh
 extensions-id = ID
+support-addons-title = Tuilleadain
 support-addons-name = Ainm
+support-addons-type = Seòrsa
+support-addons-enabled = An comas
 support-addons-version = Tionndadh
 support-addons-id = ID
 security-software-title = Bathar-bog tèarainteachd
@@ -35,9 +37,19 @@ app-basics-title = Bun-tùs na h-aplacaid
 app-basics-name = Ainm
 app-basics-version = Tionndadh
 app-basics-build-id = Build ID
+app-basics-distribution-id = ID an sgaoilidh
 app-basics-update-channel = Ùraich an t-seanail
+# This message refers to the folder used to store updates on the device,
+# as in "Folder for updates". "Update" is a noun, not a verb.
+app-basics-update-dir =
+    { PLATFORM() ->
+        [linux] Pasgan nan ùrachaidhean
+       *[other] Pasgan nan ùrachaidhean
+    }
 app-basics-update-history = Eachdraidh nan ùrachaidhean
 app-basics-show-update-history = Seall eachdraidh nan ùrachaidhean
+# Represents the path to the binary used to start the application.
+app-basics-binary = Bìnearaidh na h-aplacaid
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] Pasgan nam pròifilean
@@ -47,6 +59,9 @@ app-basics-enabled-plugins = Plugain a tha an comas
 app-basics-build-config = Rèiteachadh na togalach
 app-basics-user-agent = UserAgent
 app-basics-os = OS
+# Rosetta is Apple's translation process to run apps containing x86_64
+# instructions on Apple Silicon. This should remain in English.
+app-basics-rosetta = Rosetta Translated
 app-basics-memory-use = Cleachdadh na cuimhne
 app-basics-performance = Dèanadas
 app-basics-service-workers = Obraichean seirbheise clàraichte
@@ -65,6 +80,12 @@ show-dir-label =
         [windows] Fosgail pasgan
        *[other] Fosgail am pasgan
     }
+environment-variables-title = Caochladairean na h-àrainneachd
+environment-variables-name = Ainm
+environment-variables-value = Luach
+experimental-features-title = Gleusan deuchainneach
+experimental-features-name = Ainm
+experimental-features-value = Luach
 modified-key-prefs-title = Roghainnean cudromach a chaidh atharrachadh
 modified-prefs-name = Ainm
 modified-prefs-value = Luach
@@ -82,6 +103,10 @@ graphics-gpu2-title = GPU #2
 graphics-decision-log-title = Loga nan co-dhùnaidhean
 graphics-crash-guards-title = Gleusan a chuir freiceadan nan tuislidhean à comas
 graphics-workarounds-title = Workarounds
+# Windowing system in use on Linux (e.g. X11, Wayland).
+graphics-window-protocol = Pròtacal nan uinneagan
+# Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
+graphics-desktop-environment = Àrainneachd deasga
 place-database-title = Stòr-dàta nan àitichean
 place-database-integrity = Treibhdhireas
 place-database-verify-integrity = Dearbh an treibhdhireas
@@ -104,6 +129,13 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Argamaidean
 safe-mode-title = Feuch am modh tèarainte
 restart-in-safe-mode-label = Ath-thòisich leis na tuilleadan air an cur à comas…
+troubleshoot-mode-title = Sgrùd duilgheadasan
+restart-in-troubleshoot-mode-label = Modh fuasglaidh air duilgheadasan…
+clear-startup-cache-title = Feuch am falamhaich thu tasgadan an tòiseachaidh
+clear-startup-cache-label = Falamhaich tasgadan an tòiseachaidh…
+startup-cache-dialog-title2 = A bheil thu airson { -brand-short-name } ath-thòiseachadh airson tasgadan an tòiseachaidh fhalamhachadh?
+startup-cache-dialog-body2 = Chan atharraich seo na roghainnean agad is cha dèid leudachan sam bith a thoirt air falbh.
+restart-button-label = Ath-thòisich
 
 ## Media titles
 
@@ -122,6 +154,7 @@ media-device-format = Fòrmat
 media-device-channels = Seanailean
 media-device-rate = Reat
 media-device-latency = Latency
+media-capabilities-title = Comasan mheadhanan
 
 ##
 
@@ -144,9 +177,39 @@ intl-regional-prefs = Roghainnean roinneil
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
+remote-debugging-title = Dì-bhugachadh aig astar (pròtacal Chromium)
+remote-debugging-accepting-connections = A’ gabhail ri ceanglaichean
+remote-debugging-url = URL
 
 ##
 
+support-third-party-modules-title = Mòidealan threas-phàrtaidhean
+support-third-party-modules-module = Faidhle a’ mhòideil
+support-third-party-modules-version = Tionndadh an fhaidhle
+support-third-party-modules-vendor = Fiosrachadh an reiceadair
+support-third-party-modules-occurrence = Tachartas
+support-third-party-modules-process = Seòrsa ⁊ ID a’ phròiseis
+support-third-party-modules-duration = Faid an luchdaidh (ms)
+support-third-party-modules-status = Staid
+support-third-party-modules-status-loaded = Air a luchdadh
+support-third-party-modules-status-blocked = Bacte
+support-third-party-modules-status-redirected = Air ath-stiùireadh
+support-third-party-modules-empty = Cha deach mòideal treas-phàrtaidh a luchdadh.
+support-third-party-modules-no-value = (Gun luach)
+support-third-party-modules-button-open =
+    .title = Fosgail ionad an fhaidhle…
+support-third-party-modules-expand =
+    .title = Seall mion-fhiosrachadh
+support-third-party-modules-collapse =
+    .title = Co-theannaich am mion-fhiosrachadh
+support-third-party-modules-unsigned-icon =
+    .title = Cha deach am mòideal seo a shoidhneadh
+support-third-party-modules-folder-icon =
+    .title = Fosgail ionad an fhaidhle…
+support-third-party-modules-down-icon =
+    .title = Seall mion-fhiosrachadh
+support-third-party-modules-up-icon =
+    .title = Co-theannaich am mion-fhiosrachadh
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -156,7 +219,6 @@ report-crash-for-days =
         [few] Aithisgean tuislidh sna { $days } làithean mu dheireadh
        *[other] Aithisgean tuislidh san { $days } latha mu dheireadh
     }
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -166,7 +228,6 @@ crashes-time-minutes =
         [few] { $minutes } mionaidean air ais
        *[other] { $minutes } mionaid air ais
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -176,7 +237,6 @@ crashes-time-hours =
         [few] { $hours } uairean a thìde air ais
        *[other] { $hours } uair a thìde air ais
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -186,7 +246,6 @@ crashes-time-days =
         [few] { $days } làithean air ais
        *[other] { $days } latha air ais
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -196,7 +255,6 @@ pending-reports =
         [few] Gach aithisg tuislidh (a' gabhail a-steach { $reports } tuislidhean ri dhèiligeadh san rainse ama a tha seo)
        *[other] Gach aithisg tuislidh (a' gabhail a-steach { $reports } tuisleadh ri dhèiligeadh san rainse ama a tha seo)
     }
-
 raw-data-copied = Chaidh lethbhreac an dàta luim a chur air an stòr-bhòrd
 text-copied = Chaidh lethbhreac an teacsa a chur air a' bhòrd-chliopaichean
 
@@ -209,11 +267,9 @@ blocked-mismatched-version = Air a’ bhacadh ’s an draibhear grafaigeachd ead
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Chaidh casg a chuir air seo air draibhear nan grafaigean agad. Feuch is ùraich draibhear nan grafaigean agad gu tionndadh { $driverVersion } no fear nas ùire.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Paramadairean ClearType
-
 compositing = Compositing
 hardware-h264 = Dì-chòdachadh bathar-cruaidh H264
 main-thread-no-omtc = main thread, gun OMTC
@@ -228,7 +284,6 @@ virtual-monitor-disp = Virtual Monitor Display
 
 found = Chaidh a lorg
 missing = A dhìth
-
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Tuairisgeul
@@ -237,6 +292,7 @@ gpu-device-id = ID an uidheim
 gpu-subsys-id = Subsys ID
 gpu-drivers = Draibhearan
 gpu-ram = RAM
+gpu-driver-vendor = Reiceadair an draibheir
 gpu-driver-version = Tionndadh an draibheir
 gpu-driver-date = Ceann-là an draibheir
 gpu-active = Gnìomhach
@@ -251,20 +307,19 @@ webgl2-version = Tionndadh an draibheir WebGL 2
 webgl2-driver-extensions = Leudachain an draibheir WebGL 2
 webgl2-extensions = Leudachain WebGL 2
 blocklisted-bug = Blocklisted due to known issues
-
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = bug { $bugNumber }
-
+# Variables
+#   $bugNumber (string) - Bug number on Bugzilla
+support-blocklisted-bug = Chaidh a chur air liosta-bhacaidh air sàilleibh duilgheadasan aithnichte: <a data-l10n-name="bug-link">buga { $bugNumber }</a>
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Blocklisted; failure code { $failureCode }
-
 d3d11layers-crash-guard = D3D11 Compositor
 d3d11video-crash-guard = D3D11 Video Decoder
 d3d9video-crash-guard = D3D9 Video Decoder
 glcontext-crash-guard = OpenGL
-
 reset-on-next-restart = Ath-shuidhich aig an ath ath-thòiseachadh
 gpu-process-kill-button = Cuir crìoch air pròiseas an GPU
 gpu-device-reset = Ath-shuidheachadh an uidheim
@@ -274,10 +329,8 @@ content-uses-tiling = Cleachd leacachadh (Susbaint)
 off-main-thread-paint-enabled = Off Main Thread Painting Enabled
 off-main-thread-paint-worker-count = Off Main Thread Painting Worker Count
 target-frame-rate = Target Frame Rate
-
 min-lib-versions = An tionndadh as lugha ris a tha dùil
 loaded-lib-versions = An tionndadh a tha 'ga chleachdadh
-
 has-seccomp-bpf = Seccomp-BPF (Criathradh ghairmean an t-siostaim)
 has-seccomp-tsync = Sioncronachadh snàithlein Seccomp
 has-user-namespaces = Ainm-spàsan cleachdaiche
@@ -290,12 +343,15 @@ sandbox-proc-type-content = susbaint
 sandbox-proc-type-file = susbaint faidhle
 sandbox-proc-type-media-plugin = plugan mheadhanan
 sandbox-proc-type-data-decoder = data decoder
-
+startup-cache-title = Tasgadan tòiseachaidh
+startup-cache-disk-cache-path = Slighe tasgadain air an diosg
+startup-cache-ignore-disk-cache = Leig seachad an tasgadan air an diosg
+startup-cache-found-disk-cache-on-init = Chaidh tasgadan a lorg air an diosg rè an tòiseachaidh
+startup-cache-wrote-to-disk-cache = Chaidh sgrìobhadh gu tasgadan an diosg
 launcher-process-status-0 = Enabled
 launcher-process-status-1 = Disabled due to failure
 launcher-process-status-2 = Disabled forcibly
 launcher-process-status-unknown = Unknown status
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -308,7 +364,19 @@ multi-process-status-6 = Air a chur à comas an cois ion-chur teacsa ris nach ei
 multi-process-status-7 = Air a chur an comas le tuilleadain
 multi-process-status-8 = Air a chur à comas le làmh làidir
 multi-process-status-unknown = Staid neo-aithnichte
-
+# Variables
+# $fissionWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+fission-windows = { $fissionWindows }/{ $totalWindows }
+fission-status-experiment-control = Chaidh a chur à comas le deuchainn
+fission-status-experiment-treatment = Chaidh a chur an comas le deuchainn
+fission-status-disabled-by-e10s-env = Chaidh a chur à comas leis an àrainneachd
+fission-status-enabled-by-env = Chaidh a chur an comas leis an àrainneachd
+fission-status-disabled-by-safe-mode = Chaidh a chur à comas leis a’ mhodh tèarainte
+fission-status-enabled-by-default = An comas o thùs
+fission-status-disabled-by-default = À comas o thùs
+fission-status-enabled-by-user-pref = Chaidh a chur an comas leis a’ chleachdaiche
+fission-status-disabled-by-user-pref = Chaidh a chur à comas leis a’ chleachdaiche
 async-pan-zoom = Panachadh/Sùmadh neo-shioncronach
 apz-none = chan eil gin
 wheel-enabled = tha ion-chur cuibhle an comas
@@ -328,3 +396,20 @@ touch-warning = tha ion-chur suathaidh neo-shioncronach à comas ri linn roghain
 policies-inactive = ’Na thàmh
 policies-active = Gnìomhach
 policies-error = Mearachd
+
+## Printing section
+
+support-printing-title = Clò-bhualadh
+support-printing-troubleshoot = Fuasgladh air duilgheadasan
+support-printing-clear-settings-button = Falamhaich roghainnean a’ chlò-bhualaidh a chaidh a shàbhaladh
+support-printing-modified-settings = Chaidh roghainnean a’ chlò-bhualaidh atharrachadh
+support-printing-prefs-name = Ainm
+support-printing-prefs-value = Luach
+
+## Normandy sections
+
+support-remote-experiments-title = Deuchainnean cèine
+support-remote-experiments-name = Ainm
+support-remote-features-title = Gleusan cèine
+support-remote-features-name = Ainm
+support-remote-features-status = Staid

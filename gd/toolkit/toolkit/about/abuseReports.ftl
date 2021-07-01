@@ -85,3 +85,10 @@ abuse-report-broken-suggestions-theme =
     airson duilgheadas le gleus fhuasgladh gun cuir thu fios gu luchd-leasachaidh an ùrlair.
     <a data-l10n-name="support-link">Tadhail air làrach-lìn an ùrlair</a> airson fiosrachadh mun luchd-leasachaidh fhaighinn.
 abuse-report-policy-reason-v2 = Tha susbaint fhuathach, ainneartach no mhì-laghail ann
+abuse-report-policy-suggestions =
+    An aire: Feumaidh tu aithris air cùisean còrach-lethbhreac is comharra-mhalairt a dhèanamh le
+    pròiseas sònraichte. <a data-l10n-name="report-infringement-link">Lean ris an stiùireadh seo</a>
+    airson aithris a dhèanamh air an duilgheadas.
+abuse-report-unwanted-reason-v2 = Cha robh mi ’ga iarraidh a-riamh agus chan eil fios agam ciamar a gheibh mi cuidhteas dheth
+abuse-report-unwanted-example = Ball-eisimpleir: Stàlaich aplacaid e gun chead uam
+abuse-report-other-reason = Rudeigin eile
