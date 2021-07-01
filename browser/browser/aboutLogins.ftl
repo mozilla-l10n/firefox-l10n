@@ -310,18 +310,70 @@ about-logins-import-dialog-items-added =
        *[other] <span>Clàraidhean a-steach ùra air an cur ris:</span> <span data-l10n-name="count">{ $count }</span>
     }
 about-logins-import-dialog-done = Deiseil
+about-logins-import-dialog-error-title = Mearachd leis an ion-phortadh
+about-logins-import-dialog-error-conflicting-values-title = Tha iomadh luach aig an aon chlàradh a-steach ann an còmhstri
+about-logins-import-dialog-error-conflicting-values-description = Mar eisimpleir: iomadh ainm-cleachdaiche, facal-faire, URL is msaa. dhan aon chlàradh a-steach.
 about-logins-import-dialog-error-file-format-title = Duilgheadas le fòrmat faidhle
+about-logins-import-dialog-error-file-format-description = Tha cinn cuilbh ann nach eil mar bu chòir no a tha a dhìth. Dèan cinnteach gun gabh am faidhle a-steach na colbhan airson ainm-cleachdaiche, facal-faire is URL.
 about-logins-import-dialog-error-file-permission-title = Cha ghabh am faidhle a leughadh
+about-logins-import-dialog-error-file-permission-description = Chan eil cead aig { -brand-short-name } gus am faidhle a leughadh. Feuch an atharraich thu ceadan an fhaidhle.
+about-logins-import-dialog-error-unable-to-read-title = Cha ghabh am faidhle a pharsadh
+about-logins-import-dialog-error-unable-to-read-description = Dèan cinnteach gun do thagh thu faidhle CSV no TSV.
+about-logins-import-dialog-error-no-logins-imported = Cha deach clàradh a-steach sam bith ion-phortadh.
+about-logins-import-dialog-error-learn-more = Barrachd fiosrachaidh
+about-logins-import-dialog-error-try-import-again = Feuch ris an ion-phortadh a-rithist…
+about-logins-import-dialog-error-cancel = Sguir dheth
+about-logins-import-report-title = Geàrr-chunntas an ion-phortaidh
+about-logins-import-report-description = Chaidh na clàraidhean a-steach ’s na faclan-faire ion-phortadh gu { -brand-short-name }.
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = Ràgh { $number }
+about-logins-import-report-row-description-no-change = Dùblachadh: Tha seo co-ionnann ri clàradh a-steach a tha ann mu thràth
+about-logins-import-report-row-description-modified = Chaidh an clàradh a-steach a bha ann mu thràth ùrachadh
+about-logins-import-report-row-description-added = Chaidh clàradh a-steach ùr a chur ris
+about-logins-import-report-row-description-error = Mearachd: Tha raon a dhìth
 
 ##
 ## Variables:
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
+about-logins-import-report-row-description-error-multiple-values = Mearachd: Tha iomadh luach air { $field }
+about-logins-import-report-row-description-error-missing-field = Mearachd: Tha { $field } a dhìth
 
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-report-added =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">chlàradh  a-steach ùr air a chur ris</div>
+        [two] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">chlàradh  a-steach ùr air a chur ris</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">clàraidhean  a-steach ùra air an cur ris</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">clàradh  a-steach ùr air a chur ris</div>
+    }
+about-logins-import-report-modified =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">chlàradh a-steach a tha ann air ùrachadh</div>
+        [two] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">chlàradh a-steach a tha ann air ùrachadh</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">clàraidhean a-steach a tha ann air an ùrachadh</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">clàradh a-steach a tha ann air ùrachadh</div>
+    }
+about-logins-import-report-no-change =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">chlàradh a-steach dùblaichte</div> <div data-l10n-name="not-imported">(gun ion-phortadh)</div>
+        [two] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">chlàradh a-steach dùblaichte</div> <div data-l10n-name="not-imported">(gun ion-phortadh)</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">clàraidhean a-steach dùblaichte</div> <div data-l10n-name="not-imported">(gun ion-phortadh)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">clàradh a-steach dùblaichte</div> <div data-l10n-name="not-imported">(gun ion-phortadh)</div>
+    }
+about-logins-import-report-error =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">mhearachd</div> <div data-l10n-name="not-imported">(gun ion-phortadh)</div>
+        [two] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">mhearachd</div> <div data-l10n-name="not-imported">(gun ion-phortadh)</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">mearachdan</div> <div data-l10n-name="not-imported">(gun ion-phortadh)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">mearachd</div> <div data-l10n-name="not-imported">(gun ion-phortadh)</div>
+    }
 
 ## Logins import report page
 
+about-logins-import-report-page-title = Aithris air geàrr-chunntas an ion-phortaidh
