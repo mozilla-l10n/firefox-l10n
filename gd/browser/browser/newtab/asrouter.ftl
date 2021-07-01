@@ -285,6 +285,8 @@ cfr-doorhanger-doh-secondary-button = Cuir à comas
 
 ## Fission Experiment Message
 
+cfr-doorhanger-fission-body-approved = Tha do phrìobhaideachd cudromach. Cumaidh { -brand-short-name } làraichean-lìn fa leth o chàch a chèile a-nis (’s e seo ann am bogsaichean-gainmhich) a nì e nas dorra do hackers faclan-faire, àireamhan cairte-creideis agus fiosrachadh dìomhair eile a ghoid.
+cfr-doorhanger-fission-header = Cumail làraichean fa leth
 cfr-doorhanger-fission-primary-button = Ceart, tha mi agaibh
     .accesskey = e
 cfr-doorhanger-fission-secondary-button = Barrachd fiosrachaidh
@@ -292,9 +294,13 @@ cfr-doorhanger-fission-secondary-button = Barrachd fiosrachaidh
 
 ## What's new: Cookies message
 
+cfr-whatsnew-clear-cookies-header = Dìon fèin-obrachail o ro-innleachdan tracaidh seòlta
+cfr-whatsnew-clear-cookies-body = Bheir cuid a thracaichean gu làraichean-lìn eile thu a chuireas briosgaidean ann gu dìomhair. Falamhaichidh { -brand-short-name } na briosgaidean ud gu fèin-obrachail a-nis ach nach dèid leantainn ort.
+cfr-whatsnew-clear-cookies-image-alt = Sgead-dhealbh air briosgaid bacte
 
 ## What's new: Media controls message
 
+cfr-whatsnew-media-keys-header = Barrachd uidheaman-smachd mheadhanan
 
 ## What's new: Search shortcuts
 

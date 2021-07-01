@@ -309,6 +309,30 @@ about-logins-import-dialog-items-added =
         [few] <span>Clàraidhean a-steach ùra air an cur ris:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>Clàraidhean a-steach ùra air an cur ris:</span> <span data-l10n-name="count">{ $count }</span>
     }
+about-logins-import-dialog-items-modified =
+    { $count ->
+        [1] <span>Clàradh a-steach air ùrachadh:</span> <span data-l10n-name="count">{ $count }</span>
+        [one] <span>Clàraidhean a-steach air an ùrachadh:</span> <span data-l10n-name="count">{ $count }</span>
+        [two] <span>Clàraidhean a-steach air an ùrachadh:</span> <span data-l10n-name="count">{ $count }</span>
+        [few] <span>Clàraidhean a-steach air an ùrachadh:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Clàraidhean a-steach air an ùrachadh:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+        [1] <span>Clàradh a-steach dùblaichte air a lorg:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(gun ion-phortadh)</span>
+        [one] <span>Clàraidhean a-steach dùblaichte air an lorg:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(gun ion-phortadh)</span>
+        [two] <span>Clàraidhean a-steach dùblaichte air an lorg:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(gun ion-phortadh)</span>
+        [few] <span>Clàraidhean a-steach dùblaichte air an lorg:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(gun ion-phortadh)</span>
+       *[other] <span>Clàraidhean a-steach dùblaichte air an lorg:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(gun ion-phortadh)</span>
+    }
+about-logins-import-dialog-items-error =
+    { $count ->
+        [1] <span>Mearachd:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(gun ion-phortadh)</span>
+        [one] <span>Mearachdan:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(gun ion-phortadh)</span>
+        [two] <span>Mearachdan:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(gun ion-phortadh)</span>
+        [few] <span>Mearachdan:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(gun ion-phortadh)</span>
+       *[other] <span>Mearachdan:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(gun ion-phortadh)</span>
+    }
 about-logins-import-dialog-done = Deiseil
 about-logins-import-dialog-error-title = Mearachd leis an ion-phortadh
 about-logins-import-dialog-error-conflicting-values-title = Tha iomadh luach aig an aon chlàradh a-steach ann an còmhstri
