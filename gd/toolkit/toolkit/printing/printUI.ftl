@@ -107,3 +107,8 @@ printui-paper-tabloid = Tabloid
 
 printui-error-invalid-scale = Feumaidh an sgèile a bhith ’na àireamh eadar 10 is 200.
 printui-error-invalid-margin = Cuir a-steach marghan a tha dligheach do mheud a’ phàipeir a thagh thu.
+printui-error-invalid-copies = Feumaidh na lethbhreacan a bhith ’nan àireamh eadar 1 is 10000.
+# Variables
+# $numPages (integer) - Number of pages
+printui-error-invalid-range = Feumaidh an rainse a bhith ’na àireamh eadar 1 is { $numPages }.
+printui-error-invalid-start-overflow = Feumaidh àireamh na duilleige “o” a bhith nas lugha na àireamh na duilleige “gu”.
