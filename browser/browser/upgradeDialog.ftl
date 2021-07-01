@@ -8,6 +8,19 @@
 
 ## New changes screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-new-title = Cuir fàilte gu { -brand-short-name } ùr
+upgrade-dialog-new-subtitle = Chaidh a dhealbhadh ach an dèid thu far an togair thu nas luaithe
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline
+# style to be automatically added to the text inside it. { -brand-short-name }
+# should stay inside the span.
+upgrade-dialog-new-alt-subtitle = An toiseach, suidhich <span data-l10n-name="zap">{ -brand-short-name }</span>ach an ruig thu e le aon briogadh
+upgrade-dialog-new-item-menu-title = Bàraichean-inneal is clàran-taice furasta
+upgrade-dialog-new-item-menu-description = Cuir prìomhachas air na nithean cudromach ach an lorg thu na dh’fheumas tu.
+upgrade-dialog-new-item-tabs-title = Tabaichean ùr-nòsach
+upgrade-dialog-new-item-tabs-description = Cùm làmh an uachdair air an t-susbaint le taic ri fòcas is gluasad sùbailte.
+upgrade-dialog-new-item-icons-title = Ìomhaigheagan ùra is teachdaireachdan nas soilleire
+upgrade-dialog-new-item-icons-description = Lorg nithean nas fhasa.
 
 ## Pin Firefox screen
 ##

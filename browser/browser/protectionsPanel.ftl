@@ -89,9 +89,13 @@ protections-panel-content-blocking-manage-settings =
     .accesskey = S
 protections-panel-content-blocking-breakage-report-view =
     .title = Dèan aithris air làrach bhriste
+protections-panel-content-blocking-breakage-report-view-description = Adhbharaichidh bacadh thracaichean sònraichte duilgheadasan air cuid a làraichean. Ma chuireas tu aithris thugainn mu na duilgheadasan seo, cuidichidh sin gun doireamaid piseach air { -brand-short-name } dhan a h-uile duine. Ma chuireas tu an aithris thugainn, gheibh Mozilla URL agus fiosrachadh mu roghainnean a’ bhrabhsair agad. <label data-l10n-name="learn-more">Barrachd fiosrachaidh</label>
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
+protections-panel-content-blocking-breakage-report-view-collection-comments = Roghainneil: Mìnich an duilgheadas
+protections-panel-content-blocking-breakage-report-view-collection-comments-label =
+    .aria-label = Roghainneil: Mìnich an duilgheadas
 protections-panel-content-blocking-breakage-report-view-cancel =
     .label = Sguir dheth
 protections-panel-content-blocking-breakage-report-view-send-report =
