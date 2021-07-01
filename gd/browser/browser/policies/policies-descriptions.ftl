@@ -76,18 +76,31 @@ policy-LegacyProfiles = Cuir à comas an gleus a sparras pròifil fa leth ort ai
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
+policy-LegacySameSiteCookieBehaviorEnabled = Cuir an comas bun-roghainn giùlain dhìleabach airson briosgaidean SameSite.
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Till gu giùlan dìleabach SameSite do bhriosgaidean air làraichean sònraichte.
 
 ##
 
 policy-LocalFileLinks = Leig le làraichean-lìn sònraichte ceangal ri faidhlichean ionadail.
+policy-ManagedBookmarks = Rèitichidh seo liosta de chomharran-lìn a tha fo stiùireadh rianaire agus nach gabh atharrachadh leis an luchd-chleachdaidh.
+policy-MasterPassword = Iarr no bac cleachdadh prìomh fhacail-fhaire.
+policy-ManualAppUpdateOnly = Na ceadaich ach ùrachaidhean a làimh agus na doir brath dhan luchd-chleachdaidh mu ùrachaidhean.
+policy-PrimaryPassword = Iarr no bac cleachdadh prìomh fhacail-fhaire.
 policy-NetworkPrediction = Cuir an comas no à comas ro-innse lìonraidhean (DNS prefetching).
 policy-NewTabPage = Cuir an comas no à comas duilleag an taba ùir.
 policy-NoDefaultBookmarks = Cuir à comas cruthachadh nan comharran-lìn bunaiteach a thig le { -brand-short-name } agus nan comharran-lìn tapaidh (Na thadhail thu air, Tagaichean o chionn goirid). An Aire: Cha bhi am poileasadh seo an sàs ach ma thèid a chleachdadh mus ruith a’ phròifil a’ chiad turas.
 policy-OfferToSaveLogins = Sparr an roghainn air daoine airson comas a thoirt dha { -brand-short-name } clàradh a-steach agus facal-faire a chuimhneachadh. Tha an dà chuid true agus false ceadaiche mar luach.
+policy-OfferToSaveLoginsDefault = Suidhich an luach bunaiteach airson comas a thoirt dha { -brand-short-name } clàradh a-steach agus facal-faire a chuimhneachadh. Tha an dà chuid true agus false ceadaiche mar luach.
 policy-OverrideFirstRunPage = Tar-àithn duilleag na ciad ruith. Fàg am poileasaidh seo bàn ma tha thu airson duilleag na ciad ruith a chur à comas.
 policy-OverridePostUpdatePage = Tar-àithn an duilleag “Na tha ùr” a nochdas an cois ùrachaidh. Fàg am poileasaidh seo bàn ma tha thu airson an duilleag sin a chur à comas.
+policy-PasswordManagerEnabled = Ceadaich gun dèid faclan-faire a shàbhaladh ann am manaidsear nam faclan-faire.
+# PDF.js and PDF should not be translated
+policy-PDFjs = Rèitich no cuir PDF.js à comas, an sealladair PDF a tha am broinn { -brand-short-name } o thùs.
+policy-Permissions2 = Rèitich ceadan a’ chamara, a’ mhicreofon, an ionaid, nam brathan agus na fèin-chluiche.
+policy-PictureInPicture = Cuir dealbh am broinn deilbh an comas no à comas.
 policy-PopupBlocking = Leig le làraichean-lìn àraidh priob-uinneagan a nochdadh a ghnàth.
 policy-Preferences = Suidhich is glais an luach aig fo-sheata de roghainnean.
+policy-PromptForDownloadLocation = Faighnich càit an dèid faidhlichean ’gan luchdadh a-nuas a shàbhaladh.
 policy-Proxy = Rèitich roghainnean a’ phrogsaidh.
 policy-RequestedLocales = Suidhich liosta nan cànan a tha ’gan iarraidh san aplacaid san òrdugh sa bheilear ’gan iarraidh.
 policy-SanitizeOnShutdown2 = Falamhaich an dàta seòladaireachd aig àm dùnaidh.
@@ -96,8 +109,10 @@ policy-SearchEngines = Rèitich roghainnean an einnsein-luirg. Chan eil am poile
 policy-SearchSuggestEnabled = Cuir an comas no à comas molaidhean luirg.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Stàlaich mòidealan PKCS #11.
+policy-ShowHomeButton = Seall putan na dachaigh air a’ bhàr-inneal.
 policy-SSLVersionMax = Suidhich an tionndadh SSL as motha.
 policy-SSLVersionMin = Suidhich an tionndadh SSL as lugha.
 policy-SupportMenu = Cuir ball gnàthaichte ri clàr-taice na taice ri clàr-taice na cobharach.
+policy-UserMessaging = Na seall teachdaireachdan sònraichte dhan luchd-chleachdaidh.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Bac làraichean-lìn àraidh. Faic an docamaideadh airson barrachd fiosrachaidh mun fhòrmat.
