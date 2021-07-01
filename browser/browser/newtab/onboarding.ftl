@@ -128,6 +128,12 @@ onboarding-lockwise-strong-passwords-button = Stiùirich na clàraidhean a-steac
 onboarding-facebook-container-title = Suidhich crìochan air Facebook
 onboarding-facebook-container-text2 = Cumaidh { -facebook-container-brand-name } a’ phròifil agad fa leth o gach rud eile ’s bidh e nas dorra dha Facebook sanasachd amas ort-sa.
 onboarding-facebook-container-button = Cuir an leudachan ris
+onboarding-import-browser-settings-title = Ion-phortaich na comharran-lìn ’s na faclan-faire agad ’s a bharrachd
+onboarding-import-browser-settings-text = Tòisich air sa bhad – thoir làraichean is roghainnean Chrome leat gu duilgheadas.
+onboarding-import-browser-settings-button = Ion-phortaich dàta Chrome
+onboarding-personal-data-promise-title = Air a dhealbhadh a chùm prìobhaideachd
+onboarding-personal-data-promise-text = Tha suim aig { -brand-product-name } dhan dàta agad is togaidh sinn nas lugha dheth, dìonaidh sinn e agus bidh sinn soilleir mu mar a chleachdas sinn e.
+onboarding-personal-data-promise-button = Leugh ar gealladh
 
 ## Message strings belonging to the Return to AMO flow
 
@@ -139,17 +145,26 @@ return-to-amo-sub-header = Glan taghta, tha { -brand-short-name } agad
 return-to-amo-addon-header = Faigheamaid <icon></icon><b>{ $addon-name }</b> dhut a-nis.
 return-to-amo-extension-button = Cuir an leudachan ris
 return-to-amo-get-started-button = Dèan toiseach-tòiseachaidh le { -brand-short-name }
+onboarding-not-now-button-label = Chan ann an-dràsta
 
 ## Custom Return To AMO onboarding strings
 
+return-to-amo-subtitle = Taghta, tha { -brand-short-name } agad
 # <img data-l10n-name="icon"/> will be replaced with the icon belonging to the extension
 #
 # Variables:
 #   $addon-name (String) - Name of the add-on
 return-to-amo-addon-title = Nise, nach fhaigh sinn <img data-l10n-name="icon"/> <b>{ $addon-name }</b> dhut?
+return-to-amo-add-extension-label = Cuir an leudachan ris
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-welcome-header = Fàilte gu <span data-l10n-name="zap">{ -brand-short-name }</span>
+onboarding-multistage-welcome-subtitle = Am brabhsair luath sàbhailte prìobhaideach a tha ’ga thoirt leat le buidheann neo-phrothaideach.
+onboarding-multistage-welcome-primary-button-label = Tòisich air an t-suidheachadh
+onboarding-multistage-welcome-secondary-button-label = Clàraich a-steach
 # The "settings" here refers to "Windows 10 Settings App" and not the browser's
 onboarding-multistage-pin-default-help-text = Prìnichidh seo { -brand-short-name } ri bàr nan saothair is fosglaidh e na roghainnean
 # "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
