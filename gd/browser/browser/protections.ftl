@@ -48,6 +48,26 @@ social-tab-contant = Cuiridh meadhanan sòisealta tracaichean air làraichean-l�
 cookie-tab-title = Briosgaidean tracaidh thar làraichean
 cookie-tab-content = Leanaidh na briosgaidean sin ort o làrach gu làrach a chruinneachadh dàta air na nì thu air loidhne. Thèid an suidheachadh le treas-phàrtaidhean, can luchd-sanasachd agus companaidhean anailiseachd. Le bacadh nam briosgaidean tracaidh thar làraichean, chì thu nas lugha dhen t-sanasachd a leanas ort. <a data-l10n-name="learn-more-link">Barrachd fiosrachaidh</a>
 tracker-tab-title = Susbaint tracaidh
+tracker-tab-description = Faodaidh làraichean-lìn sanasachd, video is susbaint eile le còd tracaidh a luchdadh on taobh a-muigh. Le bacadh susbaint tracaidh, thèid cuid a làraichean a luchdadh nas luaithe ach dh’fhaoidte nach obraich a h-uile putan, foirm is raon clàraidh a-steach. <a data-l10n-name="learn-more-link">Barrachd fiosrachaidh</a>
+fingerprinter-tab-title = Lorgaichean-meur
+fingerprinter-tab-content = Cruinnichidh lorgaichean-meur roghainnean on bhrabhsair is on coimpiutair agad airson pròifil a chruthachadh dhiot. Leis an lorg-mheòir digiteach sin, nì iad tracadh ort thar iomadh làrach-lìn. <a data-l10n-name="learn-more-link">Barrachd fiosrachaidh</a>
+cryptominer-tab-title = Criopto-mhèinneadairean
+cryptominer-tab-content = Cleachdaidh criopto-mhèinneadairean comasan an t-siostaim agad airson airgead digiteach a chosnadh. Traoghaidh criopto-mhèinneadairean am bataraidh agad, nì iad an coimpiutair agad slaodach agus faodaidh gun èirich cosgaisean dealain dhut.<a data-l10n-name="learn-more-link">Barrachd fiosrachaidh</a>
+protections-close-button2 =
+    .aria-label = Dùin
+    .title = Dùin
+mobile-app-title = Bac tracaichean sanasachd thar barrachd uidheaman
+mobile-app-card-content = Cleachd am brabhsair mobile le dìon an aghaidh tracadh sanasachd na bhroinn.
+mobile-app-links = Brabhsair { -brand-product-name } airson<a data-l10n-name="android-mobile-inline-link">Android</a> agus <a data-l10n-name="ios-mobile-inline-link">iOS</a>
+lockwise-title = Na dìochuimhnich facal-faire a-rithist gu bràth
+lockwise-title-logged-in2 = Stiùireadh fhaclan-faire
+lockwise-header-content = Stòraidh { -lockwise-brand-name } na faclan-faire agad sa bhrabhsair agad gu tèarainte.
+lockwise-header-content-logged-in = Cùm is sioncronaich na faclan-faire agad gu tèarainte air feadh nan uidheaman agad.
+protection-report-save-passwords-button = Sàbhail na faclan-faire
+    .title = Sàbhail na faclan-faire air { -lockwise-brand-short-name }
+protection-report-manage-passwords-button = Stiùirich na faclan-faire
+    .title = Stiùirich na faclan-faire air { -lockwise-brand-short-name }
+lockwise-mobile-app-title = Thoir leat na faclan-faire agad ge be càit an dèid thu
 turn-on-sync = Cuir { -sync-brand-short-name } air…
     .title = Tadhail air roghainnean an t-sioncronachaidh
 
