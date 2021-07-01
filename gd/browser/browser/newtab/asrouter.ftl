@@ -222,6 +222,16 @@ cfr-doorhanger-milestone-heading =
         [few] Bhac { -brand-short-name } barrachd air  <b>{ $blockedCount }</b> tracaichean o { $date }!
        *[other] Bhac { -brand-short-name } barrachd air  <b>{ $blockedCount }</b> tracaiche o { $date }!
     }
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Datetime) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading2 =
+    { $blockedCount ->
+        [one] Tha { -brand-short-name } air còrr is <b>{ $blockedCount }</b> tracaiche a bhacadh o chionn { DATETIME($date, month: "long", year: "numeric") }!
+        [two] Tha { -brand-short-name } air còrr is <b>{ $blockedCount }</b> thracaiche a bhacadh o chionn { DATETIME($date, month: "long", year: "numeric") }!
+        [few] Tha { -brand-short-name } air còrr is <b>{ $blockedCount }</b> tracaichean a bhacadh o chionn { DATETIME($date, month: "long", year: "numeric") }!
+       *[other] Tha { -brand-short-name } air còrr is <b>{ $blockedCount }</b> tracaiche a bhacadh o chionn { DATETIME($date, month: "long", year: "numeric") }!
+    }
 cfr-doorhanger-milestone-ok-button = Seall na h-uile
     .accesskey = S
 
@@ -230,9 +240,13 @@ cfr-doorhanger-milestone-ok-button = Seall na h-uile
 
 ## Lockwise message
 
+cfr-whatsnew-lockwise-header = Cruthaich faclan-faire tèarainte gun duilgheadas
+cfr-whatsnew-lockwise-body = Tha e doirbh smaoineachadh air faclan-faire fa leth ’s tèarainte do gach cunntas. Nuair a chruthaicheas tu facal-faire, tagh raon an fhacail-fhaire airson facal-faire tèarainte a chleachdadh a ghineas { -brand-shorter-name } dhut.
+cfr-whatsnew-lockwise-icon-alt = Ìomhaigheag { -lockwise-brand-short-name }
 
 ## Vulnerable Passwords message
 
+cfr-whatsnew-passwords-header = Faigh caismeachdan mu fhaclan-faire so-leònta
 
 ## Picture-in-Picture fullscreen message
 
