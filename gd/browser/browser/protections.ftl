@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+protection-report-webpage-title = Deas-bhòrd an dìona
+protection-report-page-content-title = Deas-bhòrd an dìona
 turn-on-sync = Cuir { -sync-brand-short-name } air…
     .title = Tadhail air roghainnean an t-sioncronachaidh
 
