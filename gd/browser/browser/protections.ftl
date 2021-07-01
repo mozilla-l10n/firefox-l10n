@@ -68,8 +68,33 @@ protection-report-save-passwords-button = Sàbhail na faclan-faire
 protection-report-manage-passwords-button = Stiùirich na faclan-faire
     .title = Stiùirich na faclan-faire air { -lockwise-brand-short-name }
 lockwise-mobile-app-title = Thoir leat na faclan-faire agad ge be càit an dèid thu
+lockwise-no-logins-card-content = Cleachd na faclan-faire a shàbhail thu am broinn { -brand-short-name } air uidheam sam bith.
+lockwise-app-links = { -lockwise-brand-name } airson <a data-l10n-name="lockwise-android-inline-link">Android</a> agus <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
+# Variables:
+# $count (Number) - Number of passwords exposed in data breaches.
+lockwise-scanned-text-breached-logins =
+    { $count ->
+        [one] Tha { $count } fhacal-faire a chaidh a leigeil air èalaidh ann am briseadh a-steach air dàta ’s dòcha.
+        [two] Tha { $count } fhacal-faire a chaidh a leigeil air èalaidh ann am briseadh a-steach air dàta ’s dòcha.
+        [few] Tha { $count } faclan-faire a chaidh a leigeil air èalaidh ann am briseadh a-steach air dàta ’s dòcha.
+       *[other] Tha { $count } facal-faire a chaidh a leigeil air èalaidh ann am briseadh a-steach air dàta ’s dòcha.
+    }
+# While English doesn't use the number in the plural form, you can add $count to your language
+# if needed for grammatical reasons.
+# Variables:
+# $count (Number) - Number of passwords stored in Lockwise.
+lockwise-scanned-text-no-breached-logins =
+    { $count ->
+        [1] Tha am facal-faire agad ’ga stòradh gu tèarainte.
+        [one] Tha na faclan-faire agad ’gan stòradh gu tèarainte.
+        [two] Tha na faclan-faire agad ’gan stòradh gu tèarainte.
+        [few] Tha na faclan-faire agad ’gan stòradh gu tèarainte.
+       *[other] Tha na faclan-faire agad ’gan stòradh gu tèarainte.
+    }
+lockwise-how-it-works-link = Mar a dh’obraicheas e
 turn-on-sync = Cuir { -sync-brand-short-name } air…
     .title = Tadhail air roghainnean an t-sioncronachaidh
+monitor-title = Cùm sùil airson dàta a chaidh a leigeil air èalaidh.
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.

@@ -247,7 +247,7 @@ cfr-whatsnew-lockwise-icon-alt = Ìomhaigheag { -lockwise-brand-short-name }
 ## Vulnerable Passwords message
 
 cfr-whatsnew-passwords-header = Faigh caismeachdan mu fhaclan-faire so-leònta
-cfr-whatsnew-passwords-body = Tha fios aig na hackers gun cleachd daoine an aon fhacal-faire a-rithist. Ma chleachd thu an aon fhacal-faire air iomadh làrach agus ma chaidh briseadh a-steach air dàta aonan dhe na làraichean sin, chì thu caismeachd am broinn { -lockwise-brand-short-name } ach an atharraich thu am facal-faire agad air na làraichean ud.
+cfr-whatsnew-passwords-body = Tha fios aig na hackers gun cleachd daoine an aon fhacal-faire a-rithist. Ma chleachd thu an aon fhacal-faire air iomadh làrach agus ma chaidh dàta tè dhe na làraichean sin a leigeil air èalaidh, chì thu caismeachd am broinn { -lockwise-brand-short-name } ach an atharraich thu am facal-faire agad air na làraichean ud.
 cfr-whatsnew-passwords-icon-alt = Ìomhaigheag iuchrach an fhacail-fhaire sho-leònta
 
 ## Picture-in-Picture fullscreen message
@@ -265,7 +265,7 @@ cfr-doorhanger-milestone-close-button = Dùin
 ## Protections Dashboard message
 
 cfr-whatsnew-protections-header = Dìonan ann am priobadh na sùla
-cfr-whatsnew-protections-body = Gheibh thu aithrisean geàrr-chunntais mu bhrisidhean a-steach air dàta agus stiùireadh nam faclan-faire air deas-bhòrd an dìona a-nis. ’S urrainn dhut tracadh co mheud briseadh a-steach a dh’fhuasgail thu agus chì thu ma chaidh gin dhe na faclan-faire a shàbhail thu fhoillseachadh ann am briseadh dàta.
+cfr-whatsnew-protections-body = Gheibh thu aithrisean geàrr-chunntais mu dhàta a chaidh a leigeil air èalaidh agus stiùireadh nam faclan-faire air deas-bhòrd an dìona a-nis. ’S urrainn dhut tracadh co mheud briseadh a-steach a dh’fhuasgail thu agus chì thu ma chaidh gin dhe na faclan-faire a shàbhail thu fhoillseachadh ann am briseadh dàta.
 cfr-whatsnew-protections-cta-link = Seall deas-bhòrd an dìona
 cfr-whatsnew-protections-icon-alt = Ìomhaigheag sgèithe
 
