@@ -21,6 +21,16 @@ upgrade-dialog-new-item-tabs-title = Tabaichean ùr-nòsach
 upgrade-dialog-new-item-tabs-description = Cùm làmh an uachdair air an t-susbaint le taic ri fòcas is gluasad sùbailte.
 upgrade-dialog-new-item-icons-title = Ìomhaigheagan ùra is teachdaireachdan nas soilleire
 upgrade-dialog-new-item-icons-description = Lorg nithean nas fhasa.
+upgrade-dialog-new-primary-primary-button = Dèan { -brand-short-name } am prìomh-bhrabhsair agam
+    .title = Suidhichidh seo { -brand-short-name } ’na phrìomh-bhrabhsair is thèid a phrìneachadh ri bàr nan saothair
+upgrade-dialog-new-primary-default-button = Dèan { -brand-short-name } am brabhsair bunaiteach agam
+upgrade-dialog-new-primary-pin-button = Prìnich { -brand-short-name } ri bàr nan saothair agam
+upgrade-dialog-new-primary-pin-alt-button = Prìnich ri bàr nan saothair
+upgrade-dialog-new-primary-theme-button = Tagh ùrlar
+upgrade-dialog-new-secondary-button = Chan ann an-dràsta
+# This string is only shown on Windows 7, where we intentionally suppress the
+# theme selection screen.
+upgrade-dialog-new-primary-win7-button = Ceart, tha mi agaibh!
 
 ## Pin Firefox screen
 ##
@@ -50,6 +60,29 @@ upgrade-dialog-pin-secondary-button = Chan ann an-dràsta
 
 ## Default browser screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title = A bheil thu airson { -brand-short-name } a chleachdadh ’na bhrabhsair bunaiteach agad?
+upgrade-dialog-default-subtitle = Faigh luaths, sàbhailteachd is prìobhaideachd gach turas a nì thu brabhsadh.
+upgrade-dialog-default-primary-button = Suidhich mar am brabhsair bunaiteach
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title-2 = Cleachd { -brand-short-name } mar a’ bhun-roghainn agad
+upgrade-dialog-default-subtitle-2 = Faigh luaths, sàbhailteach is prìobhaideachd gu fèin-obrachail.
+upgrade-dialog-default-primary-button-2 = Cleachd mar am brabhsair bunaiteach
+upgrade-dialog-default-secondary-button = Chan ann an-dràsta
 
 ## Theme selection screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-theme-title =
+    Dèan toiseach-tòiseachaidh ùr
+    le ùrlar ùr
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-theme-title-2 = Dèan toiseach-tòiseachaidh ùr le ùrlar glan
+upgrade-dialog-theme-system = Ùrlar an t-siostaim
+    .title = Lean ri ùrlar an t-siostam-obrachaidh airson putanan, clàran-taice is uinneagan
+upgrade-dialog-theme-light = Soilleir
+    .title = Cleachd ùrlar soilleir airson putanan, clàran-taice is uinneagan
+upgrade-dialog-theme-dark = Dorcha
+    .title = Cleachd ùrlar dorcha airson putanan, clàran-taice is uinneagan
+upgrade-dialog-theme-alpenglow = Alpenglow
+    .title = Cleachd ùrlar innsginneach dathte airson putanan, clàran-taice is uinneagan

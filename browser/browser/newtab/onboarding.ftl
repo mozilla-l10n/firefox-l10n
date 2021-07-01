@@ -135,12 +135,24 @@ return-to-amo-addon-title = Nise, nach fhaigh sinn <img data-l10n-name="icon"/> 
 
 # The "settings" here refers to "Windows 10 Settings App" and not the browser's
 onboarding-multistage-pin-default-help-text = Prìnichidh seo { -brand-short-name } ri bàr nan saothair is fosglaidh e na roghainnean
+# "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
+onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow-2 =
+    .title =
+        Cleachd coltas dathte air putanan,
+        clàran-taice is uinneagan.
+# Input description for Alpenglow theme
+onboarding-multistage-theme-description-alpenglow =
+    .aria-description =
+        Cleachd coltas dathte air putanan,
+        clàran-taice is uinneagan.
 
 ## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 
@@ -173,9 +185,21 @@ mr1-onboarding-pin-primary-button-label =
 
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Ùrlar an t-siostaim
+# "Alpenglow" here is the name of the theme, and should be kept in English.
+mr1-onboarding-theme-label-alpenglow = Alpenglow
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of Alpenglow theme
+mr1-onboarding-theme-tooltip-alpenglow =
+    .title =
+        Cleachd ùrlar innsginneach dathte airson
+        putanan, clàran-taice is uinneagan.
+# Input description for Alpenglow theme
+mr1-onboarding-theme-description-alpenglow =
+    .aria-description =
+        Cleachd ùrlar innsginneach dathte airson
+        putanan, clàran-taice is uinneagan.
