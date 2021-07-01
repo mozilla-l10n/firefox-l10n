@@ -308,6 +308,7 @@ mr1-onboarding-sign-in-button-label = Connexion
 ## when Firefox is not default browser
 
 mr1-onboarding-default-header = Definir { -brand-short-name } coma navegador per defaut
+mr1-onboarding-default-subtitle = La velocitat, la seguretat e la vida privada sens i pensar.
 mr1-onboarding-default-primary-button-label = Definir coma navegador per defaut
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
