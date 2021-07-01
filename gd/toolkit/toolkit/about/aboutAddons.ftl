@@ -404,6 +404,14 @@ recent-updates-heading = Na chaidh ùrachadh o chionn ghoirid
 release-notes-loading = ’Ga luchdadh…
 release-notes-error = Tha sinn duilich ach thachair mearachd rè luchdadh nan nòtaichean sgaoilidh.
 addon-permissions-empty = Chan eil an leudachan seo feumach air cead sam bith
+addon-permissions-required = Ceadan riatanach dha na bun-ghleusan:
+addon-permissions-optional = Ceadan roghainneil airson barrachd ghleusan:
+addon-permissions-learnmore = Barrachd fiosrachaidh mu cheadan
+recommended-extensions-heading = Leudachain a mholamaid
+recommended-themes-heading = Ùrlaran a mholamaid
+# A recommendation for the Firefox Color theme shown at the bottom of the theme
+# list view. The "Firefox Color" name itself should not be translated.
+recommended-theme-1 = Am bu mhiann leat cruthachadh? <a data-l10n-name="link">Tog an t-ùrlar agad fhèin le Firefox Color.</a>
 
 ## Page headings
 
@@ -412,6 +420,8 @@ theme-heading = Stiùirich na h-ùrlaran agad
 plugin-heading = Stiùirich na plugain agad
 dictionary-heading = Stiùirich na faclairean agad
 locale-heading = Stiùirich na cànain agad
+updates-heading = Stiùirich na h-ùrachaidhean agad
+discover-heading = Cuir dreach pearsanta air { -brand-short-name }
 shortcuts-heading = Stiùirich ath-ghoiridean an leudachain
 default-heading-search-label = Lorg barrachd leudachain
 addons-heading-search-input =
