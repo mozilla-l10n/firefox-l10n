@@ -2,9 +2,34 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Localized string used as the dialog window title.
+# "Report" is a noun in this case, "Report for AddonName".
+#
+# Variables:
+#   $addon-name (string) - Name of the add-on being reported
+abuse-report-dialog-title = Aithris air { $addon-name }
+abuse-report-title-extension = Dèan aithris air an leudachan seo gu { -vendor-short-name }
+abuse-report-title-theme = Dèan aithris air an ùrlar seo gu { -vendor-short-name }
+abuse-report-subtitle = Dè an duilgheadas?
+# Variables:
+#   $author-name (string) - Name of the add-on author
+abuse-report-addon-authored-by = le <a data-l10n-name="author-name">{ $author-name }</a>
+abuse-report-learnmore =
+    Nach eil thu cinnteach dè an duilgheas a thaghas tu?
+    <a data-l10n-name="learnmore-link">Barrachd fiosrachaidh mu aithrisean air leudachain is ùrlaran</a>
+abuse-report-submit-description = Mìnich an duilgheadas (roghainneil)
+abuse-report-textarea =
+    .placeholder = Tha e nas fhasa dhuinn dèiligeadh ri duilgheadas ma bhios fiosrachadh mionaideach againn. Mìnich dè tha a’ tachairt. Mòran taing airson ar cuideachadh a chùm an lìon a chumail slàn.
+abuse-report-submit-note =
+    An aire: Na gabh a-steach fiosrachadh pearsanta (can d’ ainm, seòladh puist-d, àireamh fòn, seòladh).
+    Cumaidh { -vendor-short-name } clàr buan dhe na h-aithrisean seo.
 
 ## Panel buttons.
 
+abuse-report-cancel-button = Sguir dheth
+abuse-report-next-button = Air adhart
+abuse-report-goback-button = Air ais
+abuse-report-submit-button = Cuir a-null
 
 ## Message bars descriptions.
 
@@ -18,10 +43,31 @@
 ## Variables:
 ##   $addon-name (string) - Name of the add-on
 
+abuse-report-messagebar-aborted = Chaidh sgur dhen aithris air <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-submitting = A’ cur na h-aithris air <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-submitted = Mòran taig airson aithris a chur thugainn. A bheil thu airson <span data-l10n-name="addon-name">{ $addon-name }</span> a thoirt air falbh?
+abuse-report-messagebar-submitted-noremove = Mòran taing airson aithris a chur thugainn.
+abuse-report-messagebar-removed-extension = Mòran taing airson aithris a chur thugainn. Thug thu an leudachan <span data-l10n-name="addon-name">{ $addon-name }</span> air falbh.
+abuse-report-messagebar-removed-theme = Mòran taing airson aithris a chur thugainn. Thug thu an t-ùrlar <span data-l10n-name="addon-name">{ $addon-name }</span> air falbh.
+abuse-report-messagebar-error = Thachair mearachd le cur na h-aithris air <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = Cha deach an aithris air <span data-l10n-name="addon-name">{ $addon-name }</span> a chur on a chaidh aithris eile mu dhèidhinn a chur a-null o chionn ghoirid.
 
 ## Message bars actions.
 
+abuse-report-messagebar-action-remove-extension = Thoir air falbh e
+abuse-report-messagebar-action-keep-extension = Cumaidh mi e
+abuse-report-messagebar-action-remove-theme = Thoir air falbh e
+abuse-report-messagebar-action-keep-theme = Cumaidh mi e
+abuse-report-messagebar-action-retry = Feuch ris a-rithist
+abuse-report-messagebar-action-cancel = Sguir dheth
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
+abuse-report-damage-reason-v2 = Rinn e dochann air a’ choimpiutair agam no bhris e tèarainteachd an dàta agam
+abuse-report-damage-example = Ball-eisimpleir: Chuir e bathar-bog droch-rùnach ris no ghoid e dàta
+abuse-report-spam-reason-v2 = Tha spama no sanasachd gun iarraidh ’na bhroinn
+abuse-report-spam-example = Ball-eisimpleir: Chuir e sanasachd ri làraichean-lìn
+abuse-report-settings-reason-v2 = Dh’atharraich e an t-einnsean-luirg, an duilleag-dhachaigh no an taba ùr agam gun fhiosta no iarraidh orm
+abuse-report-settings-suggestions = Mus dèan thu aithris air an leudachan, feuch an atharraich thu na roghainnean agad:
+abuse-report-settings-suggestions-search = Atharraich bun-roghainnean an luirg agad
+abuse-report-settings-suggestions-homepage = Atharraich an duilleag-dhachaigh ’s an taba ùr agad
