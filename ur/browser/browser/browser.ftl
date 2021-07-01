@@ -580,6 +580,15 @@ save-to-pocket-button =
 
 ## Customize Toolbar Buttons
 
+# Variables:
+#  $shortcut (String): keyboard shortcut to open settings (only on macOS)
+toolbar-settings-button =
+    .label = سیٹنگز
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] سیٹنگز کھولیں ({ $shortcut })
+           *[other] سیٹنگز کھولیں
+        }
 
 ## More items
 
@@ -590,6 +599,7 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = اس سائٹ پر کچھ آڈیو یا وڈیو DRM سافٹ ویئر استعمال کرتی ہے جس کی وجہ سے جو { -brand-short-name } اس کے ساتھ آپ کو کرنے دے گا، اس پر کچھ حدود ہوں گی۔
+eme-notifications-drm-content-playing-manage = سیٹنگز منظم کریں
 eme-notifications-drm-content-playing-manage-accesskey = M
 eme-notifications-drm-content-playing-dismiss = برخاست کریں
 eme-notifications-drm-content-playing-dismiss-accesskey = D

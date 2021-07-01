@@ -209,6 +209,11 @@ newtab-error-fallback-refresh-link = دوبارہ کوشش کرنے کے لئے 
 ## Customization Menu
 
 newtab-custom-shortcuts-title = تیز راہ
+newtab-custom-row-selector =
+    { $num ->
+        [one] { $num } قطار
+       *[other] { $num } قطاریں
+    }
 newtab-custom-recent-title = حالیہ سرگرمی
 newtab-custom-close-button = بند کریں
 # For the "Snippets" feature traditionally on about:home.

@@ -42,5 +42,6 @@ pocket-panel-signup-tagline-story-two = { -pocket-brand-name } میں نظارہ
 
 pocket-panel-home-my-list = میری فہرست
 pocket-panel-home-welcome-back = واپسى پر خوش آمديد
+pocket-panel-home-explore-popular-topics = مشہور عنوانات دریافت کریں
 pocket-panel-home-discover-more = مزید تلاش کریں
 pocket-panel-home-explore-more = دریافت کریں

@@ -62,6 +62,8 @@ serviceworker-empty-intro2 = کوئی خدمتگار نہیں ملا
 serviceworker-empty-intro-link = مزید سیکھیں
 # Header for the Manifest page when we have an actual manifest
 manifest-view-header = ایپ منشور
+# The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
+manifest-empty-intro-link = منشور کو شامل کرنے کا طریقہ سیکھیں
 # Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
 manifest-item-warnings = نقائص اور انتباہات
 # Header for the Identity section of Manifest inspection displayed in the application panel.

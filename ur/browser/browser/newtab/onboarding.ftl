@@ -202,12 +202,16 @@ mr1-onboarding-pin-primary-button-label =
 # when Firefox is both pinned and default
 mr1-onboarding-get-started-primary-button-label = شروع کریں
 mr1-onboarding-welcome-header = { -brand-short-name } میں خوش آمدید
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
+mr1-onboarding-set-default-only-primary-button-label = { -brand-short-name } کو میرا طے شدہ برائوزر بنائیں
 mr1-onboarding-set-default-secondary-button-label = ابھی نہیں
 mr1-onboarding-sign-in-button-label = سائن ان کریں
 
 ## Title, subtitle and primary button string used on set default onboarding screen
 ## when Firefox is not default browser
 
+mr1-onboarding-default-header = { -brand-short-name } کو اپنا طے شدہ برائوزر بنائیں
 mr1-onboarding-default-primary-button-label = طےشدہ براؤزر بنائیں
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
