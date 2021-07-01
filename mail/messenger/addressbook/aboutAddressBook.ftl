@@ -12,6 +12,10 @@ about-addressbook-toolbar-new-carddav-address-book =
     .label = Uusi CardDAV-osoitekirja
 about-addressbook-toolbar-new-ldap-address-book =
     .label = Uusi LDAP-osoitekirja
+about-addressbook-toolbar-add-carddav-address-book =
+    .label = Lisää CardDAV-osoitekirja
+about-addressbook-toolbar-add-ldap-address-book =
+    .label = Lisää LDAP-osoitekirja
 about-addressbook-toolbar-new-contact =
     .label = Uusi yhteyshenkilö
 about-addressbook-toolbar-new-list =
@@ -28,6 +32,16 @@ about-addressbook-books-context-print =
     .label = Tulosta…
 about-addressbook-books-context-delete =
     .label = Poista
+about-addressbook-books-context-remove =
+    .label = Poista
+about-addressbook-confirm-delete-book-title = Poista osoitekirja
+# Variables:
+# $name (String) - Name of the address book to be deleted.
+about-addressbook-confirm-delete-book = Haluatko varmasti poistaa osoitekirjan { $name } ja kaikki sen yhteystiedot?
+about-addressbook-confirm-remove-remote-book-title = Poista osoitekirja
+# Variables:
+# $name (String) - Name of the remote address book to be removed.
+about-addressbook-confirm-remove-remote-book = Haluatko varmasti poistaa osoitekirjan { $name }?
 
 ## Cards
 
