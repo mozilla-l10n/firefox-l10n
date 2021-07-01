@@ -247,20 +247,32 @@ cfr-whatsnew-lockwise-icon-alt = Ìomhaigheag { -lockwise-brand-short-name }
 ## Vulnerable Passwords message
 
 cfr-whatsnew-passwords-header = Faigh caismeachdan mu fhaclan-faire so-leònta
+cfr-whatsnew-passwords-body = Tha fios aig na hackers gun cleachd daoine an aon fhacal-faire a-rithist. Ma chleachd thu an aon fhacal-faire air iomadh làrach agus ma chaidh briseadh a-steach air dàta aonan dhe na làraichean sin, chì thu caismeachd am broinn { -lockwise-brand-short-name } ach an atharraich thu am facal-faire agad air na làraichean ud.
+cfr-whatsnew-passwords-icon-alt = Ìomhaigheag iuchrach an fhacail-fhaire sho-leònta
 
 ## Picture-in-Picture fullscreen message
 
+cfr-whatsnew-pip-fullscreen-header = Cuir dealbh am broinn deilbh air an làn-sgrìn
+cfr-whatsnew-pip-fullscreen-body = Nuair a chuireas tu video gu uinneag air fleòd, ’s urrainn dhut briogadh dùbailte a dhèanamh air an uinneag sin a-nis ach an dèid i ’na làn-sgrìn.
+cfr-whatsnew-pip-fullscreen-icon-alt = Ìomhaigheag dealbh am broinn deilbh
 
 ## Protections Dashboard message
 
+cfr-doorhanger-milestone-close-button = Dùin
+    .accesskey = D
 
 ## What’s New Panel Content for Firefox 76
 ## Protections Dashboard message
 
+cfr-whatsnew-protections-header = Dìonan ann am priobadh na sùla
+cfr-whatsnew-protections-body = Gheibh thu aithrisean geàrr-chunntais mu bhrisidhean a-steach air dàta agus stiùireadh nam faclan-faire air deas-bhòrd an dìona a-nis. ’S urrainn dhut tracadh co mheud briseadh a-steach a dh’fhuasgail thu agus chì thu ma chaidh gin dhe na faclan-faire a shàbhail thu fhoillseachadh ann am briseadh dàta.
 cfr-whatsnew-protections-cta-link = Seall deas-bhòrd an dìona
+cfr-whatsnew-protections-icon-alt = Ìomhaigheag sgèithe
 
 ## Better PDF message
 
+cfr-whatsnew-better-pdf-header = Gleusan PDF nas fheàrr
+cfr-whatsnew-better-pdf-body = Thèid sgrìobhainnean PDF fhosgladh am broinn { -brand-short-name } fhèin a-nis airson an sruth-obrach agad a chumail deas ri do làmh.
 
 ## DOH Message
 
