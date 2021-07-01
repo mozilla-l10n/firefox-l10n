@@ -38,9 +38,72 @@ printui-scale = Sgèile
 printui-scale-fit-to-page-width = Co-fhreagair ri leud na duilleige
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Sgèile
+# Section title (noun) for the two-sided print options
+printui-two-sided-printing = Clò-bhualadh dà-thaobhach
+printui-two-sided-printing-off = Dheth
+# Flip the sheet as if it were bound along its long edge.
+printui-two-sided-printing-long-edge = Thoir flip air an oir fhada
+# Flip the sheet as if it were bound along its short edge.
+printui-two-sided-printing-short-edge = Thoir flip air an oir ghoirid
+# Section title for miscellaneous print options
+printui-options = Roghainnean
+printui-headers-footers-checkbox = Clò-bhuail bannan-cinn is -coise
+printui-backgrounds-checkbox = Clò-bhuail na cùlaibhean
+printui-selection-checkbox = Na clò-bhuail ach an taghadh
+printui-color-mode-label = Modh nan dath
+printui-color-mode-color = Dath
+printui-color-mode-bw = Dubh is geal
+printui-margins = Marghain
+printui-margins-default = Bun-roghainn
+printui-margins-min = As lugha
+printui-margins-none = Gun mharghain
+printui-margins-custom-inches = Gnàthaichte (òirleach)
+printui-margins-custom-mm = Gnàthaichte (mm)
+printui-margins-custom-top = Bàrr
+printui-margins-custom-top-inches = Bàrr (òirleach)
+printui-margins-custom-top-mm = Bàrr (mm)
+printui-margins-custom-bottom = Bonn
+printui-margins-custom-bottom-inches = Bonn (òirleach)
+printui-margins-custom-bottom-mm = Bonn (mm)
+printui-margins-custom-left = Clì
+printui-margins-custom-left-inches = Clì (òirleach)
+printui-margins-custom-left-mm = Clì (mm)
+printui-margins-custom-right = Deas
+printui-margins-custom-right-inches = Deas (òirleach)
+printui-margins-custom-right-mm = Deas (mm)
+printui-system-dialog-link = Clò-bhuail le còmhradh an t-siostaim…
+printui-primary-button = Clò-bhuail
+printui-primary-button-save = Sàbhail
+printui-cancel-button = Sguir dheth
+printui-close-button = Dùin
+printui-loading = Ag ullachadh an ro-sheallaidh
+# Reported by screen readers and other accessibility tools to indicate that
+# the print preview has focus.
+printui-preview-label =
+    .aria-label = Ro-shealladh clò-bhualaidh
+printui-pages-per-sheet = Duilleagan air gach siota
+# This is shown next to the Print button with an indefinite loading spinner
+# when the user prints a page and it is being sent to the printer.
+printui-print-progress-indicator = ’Ga chlò-bhualadh...
+printui-print-progress-indicator-saving = ’Ga shàbhaladh…
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
+printui-paper-a5 = A5
+printui-paper-a4 = A4
+printui-paper-a3 = A3
+printui-paper-a2 = A2
+printui-paper-a1 = A1
+printui-paper-a0 = A0
+printui-paper-b5 = B5
+printui-paper-b4 = B4
+printui-paper-jis-b5 = JIS-B5
+printui-paper-jis-b4 = JIS-B4
+printui-paper-letter = US Letter
+printui-paper-legal = US Legal
+printui-paper-tabloid = Tabloid
 
 ## Error messages shown when a user has an invalid input
 
+printui-error-invalid-scale = Feumaidh an sgèile a bhith ’na àireamh eadar 10 is 200.
+printui-error-invalid-margin = Cuir a-steach marghan a tha dligheach do mheud a’ phàipeir a thagh thu.
