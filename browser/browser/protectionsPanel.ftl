@@ -2,17 +2,37 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+protections-panel-sendreportview-error = Thachair mearachd le cur na h-aithris. Feuch ris a-rithist an ceann greis.
+# A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
+protections-panel-sitefixedsendreport-label = An deach an làrach a chàradh? Cuir aithris
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
 
+protections-popup-footer-protection-label-strict = Teann
+    .label = Teann
+protections-popup-footer-protection-label-custom = Gnàthaichte
+    .label = Gnàthaichte
+protections-popup-footer-protection-label-standard = Stannardach
+    .label = Stannardach
 
 ##
 
+# The text a screen reader speaks when focused on the info button.
+protections-panel-etp-more-info =
+    .aria-label = Barrach fiosrachaidh air an dìon adhartach o thracadh
+protections-panel-etp-on-header = Tha an dìon adhartach o thracadh AIR air an làrach seo
+protections-panel-etp-off-header = Tha an dìon adhartach o thracadh DHETH air an làrach seo
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = Nach eil an làrach ag obair?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = Nach eil an làrach ag obair?
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
 
+protections-panel-not-blocking-why-label = Carson?
 
 ##
 
