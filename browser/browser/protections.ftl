@@ -28,6 +28,26 @@ graph-private-window = Cumaidh { -brand-short-name } air le bacadh nan tracaiche
 graph-week-summary-private-window = Na tracaichean a bhac { -brand-short-name } an t-seachdain seo
 protection-report-webpage-title = Deas-bhòrd an dìona
 protection-report-page-content-title = Deas-bhòrd an dìona
+# This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
+protection-report-page-summary = ’S urrainn dha { -brand-short-name } do phrìobhaideachd a dhìon sa chùlaibh fhad ’s a bhios tu ri brabhsadh. Seo geàrr-chunntas pearsanaichte air an dìon sin, a’ gabhail a-staigh innealan airson smachd a ghabhail air do thèarainteachd air loidhne.
+# This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
+protection-report-page-summary-default = Dìonaidh { -brand-short-name } do phrìobhaideachd sa chùlaibh fhad ’s a bhios tu ri brabhsadh. Seo geàrr-chunntas pearsanaichte air an dìon sin, a’ gabhail a-staigh innealan airson smachd a ghabhail air do thèarainteachd air loidhne.
+protection-report-settings-link = Stiùirich roghainnean na prìobhaideachd ’s na tèarainteachd agad
+etp-card-title-always = Dìon adhartach o thracadh: Air an-còmhnaidh
+etp-card-title-custom-not-blocking = Dìon adhartach o thracadh: DHETH
+etp-card-content-description = Cuiridh { -brand-short-name } casg gu fèin-obrachail air companaidhean o leantainn ort gu dìomhair air feadh an lìn.
+protection-report-etp-card-content-custom-not-blocking = Chaidh gach dìon a chur dheth. Tagh dè na tracaichean a thèid a bhacadh le stiùireadh nan roghainnean dìon { -brand-short-name } agad.
+protection-report-manage-protections = Stiùirich na roghainnean
+# This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
+# capitalization for this string should match the output for your locale.
+graph-today = An-diugh
+# This string is used to describe the graph for screenreader users.
+graph-legend-description = Graf a sheallas an àireamh iomlan de gach seòrsa de thracaiche a chaidh a bhacadh an t-seachdain seo.
+social-tab-title = Tracaichean nam meadhanan sòisealta
+social-tab-contant = Cuiridh meadhanan sòisealta tracaichean air làraichean-lìn eile airson leantainn air na nì, na chì 's na choimheadas tu air air loidhne. Leigidh seo le companaidhean nam meadhanan sòisealta fiosrachadh fhaighinn mu do dhèidhinn a bharrachd air na nithean a cho-roinneas tu fhèin air pròifilean nam meadhanan sòisealta agad. <a data-l10n-name="learn-more-link">Barrachd fiosrachaidh</a>
+cookie-tab-title = Briosgaidean tracaidh thar làraichean
+cookie-tab-content = Leanaidh na briosgaidean sin ort o làrach gu làrach a chruinneachadh dàta air na nì thu air loidhne. Thèid an suidheachadh le treas-phàrtaidhean, can luchd-sanasachd agus companaidhean anailiseachd. Le bacadh nam briosgaidean tracaidh thar làraichean, chì thu nas lugha dhen t-sanasachd a leanas ort. <a data-l10n-name="learn-more-link">Barrachd fiosrachaidh</a>
+tracker-tab-title = Susbaint tracaidh
 turn-on-sync = Cuir { -sync-brand-short-name } air…
     .title = Tadhail air roghainnean an t-sioncronachaidh
 
