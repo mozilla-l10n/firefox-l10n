@@ -178,6 +178,13 @@ onboarding-multistage-pin-default-header = Krogit en ur lakaat <span data-l10n-n
 onboarding-multistage-pin-default-subtitle = Merdeiñ fonnus, sur ha prevez bewech ma implijit ar web.
 # The "settings" here refers to "Windows 10 Settings App" and not the browser's
 onboarding-multistage-pin-default-waiting-subtitle = Dibabit { -brand-short-name } e-barzh Merdeer Web p'emañ hoc'h arventennoù o tigeriñ
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-help-text = Spilhennañ a raio { -brand-short-name } d'ar varrenn drevelloù hag e tigoro an arventennoù
+onboarding-multistage-pin-default-primary-button-label = Lakaat { -brand-short-name } da vezañ ma merdeer pennañ
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "more" should stay inside the span.
+onboarding-multistage-import-header = Emporzhit ho kerioù-tremen, <br/>sinedoù, ha <span data-l10n-name="zap"> muioc'h c'hoazh</span>
+onboarding-multistage-import-subtitle = O tont deus ur merdeer all ? Aes eo degas pep tra war { -brand-short-name }.
 onboarding-multistage-import-primary-button-label = Loc'hañ an enporzhiadur
 onboarding-multistage-import-secondary-button-label = Ket bremañ
 onboarding-multistage-theme-subtitle = Personelait { -brand-short-name } gant an neuz.
