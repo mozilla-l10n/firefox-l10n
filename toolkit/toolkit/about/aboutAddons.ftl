@@ -10,6 +10,7 @@ search-header =
     .searchbuttonlabel = Lorg
 search-header-shortcut =
     .key = f
+list-empty-get-extensions-message = Faigh leudachain is ùrlaran air <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-installed =
     .value = Chan eil tuilleadan dhen t-seòrsa seo air a stàladh agad
 list-empty-available-updates =
@@ -34,6 +35,9 @@ sidebar-preferences-button-title =
             [windows] Roghainnean { -brand-short-name }
            *[other] Roghainnean { -brand-short-name }
         }
+addons-settings-button = Roghainnean { -brand-short-name }
+sidebar-settings-button-title =
+    .title = Roghainnean { -brand-short-name }
 show-unsigned-extensions-button =
     .label = Bha leudachain ann nach b’ urrainn dhuinn dearbhadh
 show-all-extensions-button =
@@ -92,8 +96,10 @@ detail-private-browsing-label = Ruith ann an uinneagan prìobhaideach
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = Chan eil seo ceadaichte ann an uinneagan prìobhaideach
+detail-private-disallowed-description2 = Cha ruith an leudachan seo fhad ’s a nì thu brabhsadh prìobhaideach. <a data-l10n-name="learn-more">Barrachd fiosrachaidh</a>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Feumaidh seo cothrom air uinneagan prìobhaideach
+detail-private-required-description2 = Gheibh an leudachan cothrom air a’ ghnìomhachd air loidhne agad nuair a bhios tu ri brabhsadh prìobhaideach. <a data-l10n-name="learn-more">Barrachd fiosrachaidh</a>
 detail-private-browsing-on =
     .label = Ceadaich
     .tooltiptext = Cuir an comas ann am brabhsadh prìobhaideach
@@ -145,6 +151,9 @@ legacy-extensions-description = Chan eil na leudachain seo a’ coileanadh stann
 private-browsing-description2 =
     Tha { -brand-short-name } ag atharrachadh mar a dh’obraicheas leudachain ann am brabhsadh prìobhaideach. Cha ruith leudachan ùr sam bith a chuireas tu ri { -brand-short-name } ann an uinneagan prìobhaideach. Chan obraich an leudachan ann am brabhsadh prìobhaideach gus an ceadaich thu e sna roghainnean agus cha bhi cothrom aige air do ghnìomhachd air loidhne . Rinn sinn seo gus am brabhsadh prìobhaideach a chumail prìobhaideach.
     <label data-l10n-name="private-browsing-learn-more">Mar a stiùiricheas tu roghainnean nan leudachan</label>
+addon-category-discover = Na mholamaid
+addon-category-discover-title =
+    .title = Na mholamaid
 addon-category-extension = Leudachain
 addon-category-extension-title =
     .title = Leudachain
@@ -226,6 +235,7 @@ shortcuts-no-addons = Chan eil leudachan sam bith an comas agad.
 shortcuts-no-commands = Chan eil ath-ghoirid aig na leudachain a leanas:
 shortcuts-input =
     .placeholder = Cuir a-steach ath-ghoirid
+shortcuts-browserAction2 = Gnìomhaich putan a’ bhàr-inneal
 shortcuts-pageAction = Cuir gnìomh na duilleige an gnìomh
 shortcuts-sidebarAction = Toglaich am bàr-taoibh
 shortcuts-modifier-mac = Gabh a-staigh Ctrl, Alt no ⌘
@@ -233,6 +243,12 @@ shortcuts-modifier-other = Gabh a-staigh Ctrl no Alt
 shortcuts-invalid = Combanaid mhì-dhligheach
 shortcuts-letter = Sgrìobh litir
 shortcuts-system = Cha ghabh ath-ghoirid { -brand-short-name } a thar-àithneadh
+# String displayed in warning label when there is a duplicate shortcut
+shortcuts-duplicate = Ath-ghoirid dhùblaichte
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message = Tha { $shortcut } ’ga chleachdadh ’na ath-ghoirid do dh’iomadh rud. Adhbharaichidh ath-ghoiridean dùblaichte giùlan ris nach eilear an dùil.
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
