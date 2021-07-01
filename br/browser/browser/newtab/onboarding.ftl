@@ -162,10 +162,22 @@ return-to-amo-add-extension-label = Ouzhpennañ an askouezh
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. { -brand-short-name } should stay inside the span.
 onboarding-multistage-welcome-header = Degemer mat e <span data-l10n-name="zap">{ -brand-short-name }</span>
+onboarding-multistage-welcome-subtitle = Ar merdeer buan, sur ha prevez harpet gant un aozadur hep pal arc'hantus.
+onboarding-multistage-welcome-primary-button-label = Kregiñ gant ar staliañ
 onboarding-multistage-welcome-secondary-button-label = Kennaskañ
 onboarding-multistage-welcome-secondary-button-text = Ur gont a zo ganeoc'h?
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "default" should stay inside the span.
+onboarding-multistage-set-default-header = Lakait { -brand-short-name } da <span data-l10n-name="zap">dre-ziouer</span>
+onboarding-multistage-set-default-subtitle = Tizh, surentez ha prevezded bewech ma verdeit.
 onboarding-multistage-set-default-primary-button-label = Lakaat dre ziouer
 onboarding-multistage-set-default-secondary-button-label = Diwezhatoc'h
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-pin-default-header = Krogit en ur lakaat <span data-l10n-name="zap">{ -brand-short-name }</span> da vezañ tizhet en ur c'hlik
+onboarding-multistage-pin-default-subtitle = Merdeiñ fonnus, sur ha prevez bewech ma implijit ar web.
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-waiting-subtitle = Dibabit { -brand-short-name } e-barzh Merdeer Web p'emañ hoc'h arventennoù o tigeriñ
 onboarding-multistage-import-primary-button-label = Loc'hañ an enporzhiadur
 onboarding-multistage-import-secondary-button-label = Ket bremañ
 onboarding-multistage-theme-subtitle = Personelait { -brand-short-name } gant an neuz.
@@ -185,6 +197,21 @@ onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 
 
 ## Multistage MR1 onboarding strings (MR1 about:welcome pages)
+
+
+## Title and primary button strings differ between platforms as they
+## match the OS' application context menu item action where Windows uses "pin"
+## and "taskbar" while macOS "keep" and "Dock" (proper noun).
+
+
+## Multistage MR1 onboarding strings (about:welcome pages)
+
+
+## Title, subtitle and primary button string used on set default onboarding screen
+## when Firefox is not default browser
+
+
+## Multistage MR1 onboarding strings (about:welcome pages)
 
 
 ## Please make sure to split the content of the title attribute into lines whose

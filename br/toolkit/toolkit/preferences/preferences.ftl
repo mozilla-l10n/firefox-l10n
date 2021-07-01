@@ -46,5 +46,6 @@ remove-info =
 remove-warning1 = Implijet e vez ho ker-tremen mestr a-benn gwareziñ stlennoù prevez kizidik evel gerioù-tremen ho lec'hiennoù.
 remove-warning2 = Ne vo ket gwarezet mui stlennoù hoc'h urzhiataer mar bez dilamet ho ker-tremen mestr.
 remove-primary-password-warning1 = Ho ker-tremen pennañ a vez implijet evit gwareziñ titouroù kizidik evel an anaouderioù ha gerioù-tremen.
+remove-primary-password-warning2 = Ma tilamit ho ker-tremen pennañ ne vo ket gwarezet ken ho titouroù kizidik war an trevnad-mañ ma vefe-eñ en arvar.
 remove-password-old-password =
     .value = Ger-tremen bremanel:
