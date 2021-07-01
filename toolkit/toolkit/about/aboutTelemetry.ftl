@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-ping-data-source = Ping tùs an dàta:
+about-telemetry-show-current-data = An dàta làithreach
 about-telemetry-show-archived-ping-data = Dàta nam ping tasglannaichte
 about-telemetry-show-subsession-data = Seall dàta nam fo-sheiseanan
 about-telemetry-choose-ping = Tagh ping:
@@ -14,6 +15,7 @@ about-telemetry-option-group-older = Nas sine
 about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = Dàta telemeatraidh
+about-telemetry-current-store = An stòr làithreach:
 about-telemetry-more-information = Barrachd fiosrachaidh a dhìth ort?
 about-telemetry-firefox-data-doc = Tha treòirean ann am <a data-l10n-name="data-doc-link">Firefox Data Documentation</a> a dh’innseas dhut mar a dh’obraicheas tu leis na h-innealan dàta againn.
 about-telemetry-telemetry-client-doc = Gheibh thu deifiniseanan choincheapan, docamaideadh API agus reifreansan dàta san docamaidean <a data-l10n-name="client-doc-link">Firefox Telemetry Client</a>.
@@ -75,6 +77,7 @@ about-telemetry-settings-explanation = Tha gleus an telemeatraidh a’ cruinneac
 #   $name (String): ping name, e.g. “saved-session”
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Tha gach pìos de dh’fhiosrachadh gu chur paisgte ann an “<a data-l10n-name="ping-link">pings</a>”. Tha thu a’ coimhead air ping { $name }, { $timestamp }.
+about-telemetry-data-details-current = Tha gach pìos de dh’fhiosrachadh gu chur paisgte ann an “<a data-l10n-name="ping-link">pings</a>”. Tha thu a’ coimhead air an dàta làithreach.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
@@ -99,6 +102,8 @@ about-telemetry-no-search-results-all = Tha sinn duilich ach chan eil toradh sam
 # Variables:
 #   $sectionName (String): is replaced by the section name.
 about-telemetry-no-data-to-display = Tha sinn duilich ach chan eil dàta sam bith ri làimh ann an “{ $sectionName }” aig an àm seo
+# used as a tooltip for the “current” ping title in the sidebar
+about-telemetry-current-data-sidebar = an dàta làithreach
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = na h-uile
 # button label to copy the histogram
@@ -139,3 +144,6 @@ about-telemetry-origin-count = count
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Firefox Origin Telemetry</a> encodes data before it is sent so that { $telemetryServerOwner } can count things, but not know whether or not any given { -brand-product-name } contributed to that count. (<a data-l10n-name="prio-blog-link">learn more</a>)
+# Variables:
+#  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
+about-telemetry-process = Pròiseas { $process }
