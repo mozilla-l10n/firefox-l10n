@@ -165,8 +165,47 @@ onboarding-multistage-welcome-header = Fàilte gu <span data-l10n-name="zap">{ -
 onboarding-multistage-welcome-subtitle = Am brabhsair luath sàbhailte prìobhaideach a tha ’ga thoirt leat le buidheann neo-phrothaideach.
 onboarding-multistage-welcome-primary-button-label = Tòisich air an t-suidheachadh
 onboarding-multistage-welcome-secondary-button-label = Clàraich a-steach
+onboarding-multistage-welcome-secondary-button-text = A bheil cunntas agad?
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "default" should stay inside the span.
+onboarding-multistage-set-default-header = Cleachd { -brand-short-name } mar a’ <span data-l10n-name="zap">bhun-roghainn</span> agad
+onboarding-multistage-set-default-subtitle = Gheibh thu luaths, sàbhailteachd is prìobhaideachd gach turas a nì thu brabhsadh.
+onboarding-multistage-set-default-primary-button-label = Cleachd mar am brabhsair bunaiteach
+onboarding-multistage-set-default-secondary-button-label = Chan ann an-dràsta
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-pin-default-header = An toiseach, suidhich <span data-l10n-name="zap">{ -brand-short-name }</span>ach an ruig thu e le aon briogadh
+onboarding-multistage-pin-default-subtitle = Brabhsadh luath sàbhailte prìobhaideach gach turas a chleachdas tu an lìon.
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-waiting-subtitle = Tagh { -brand-short-name } san earrann “Brabhsair-lìn” nuair a dh’fhosglas na roghainnean agad
 # The "settings" here refers to "Windows 10 Settings App" and not the browser's
 onboarding-multistage-pin-default-help-text = Prìnichidh seo { -brand-short-name } ri bàr nan saothair is fosglaidh e na roghainnean
+onboarding-multistage-pin-default-primary-button-label = Dèan { -brand-short-name } am prìomh-bhrabhsair agam
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "more" should stay inside the span.
+onboarding-multistage-import-header = Ion-phortaich na faclan-faire<br/>’s na comharran-lìn agad agus <span data-l10n-name="zap">a bharrachd</span>
+onboarding-multistage-import-subtitle = A’ tighinn o bhrabhsair eile? Tha e cho furasta ’s a ghabhas a h-uile càil a thoirt a-null dha { -brand-short-name }.
+onboarding-multistage-import-primary-button-label = Tòisich air an ion-phortadh
+onboarding-multistage-import-secondary-button-label = Chan ann an-dràsta
+# Info displayed in the footer of import settings screen during onboarding flow.
+# This supports welcome screen showing top sites imported from the user's default browser.
+onboarding-import-sites-disclaimer = Lorg sinn na làraichean a chì thu an-seo air an uidheam seo. Cha sàbhail { -brand-short-name } dàta o bhrabhsair eile agus cha sioncronaich sinn e ach ma chuireas tu romhad ion-phortadh.
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+onboarding-welcome-steps-indicator =
+    .aria-label = Toiseach-tòiseachaidh: sgrìn { $current } à { $total }
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "look" should stay inside the span.
+onboarding-multistage-theme-header = Tagh <span data-l10n-name="zap">coltas</span>
+onboarding-multistage-theme-subtitle = Cuir dreach pearsanta air { -brand-short-name } le ùrlar.
+onboarding-multistage-theme-primary-button-label2 = Deiseil
+onboarding-multistage-theme-secondary-button-label = Chan ann an-dràsta
+# Automatic theme uses operating system color settings
+onboarding-multistage-theme-label-automatic = Fèin-obrachail
+onboarding-multistage-theme-label-light = Soilleir
+onboarding-multistage-theme-label-dark = Dorcha
 # "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
 onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 
@@ -175,6 +214,36 @@ onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of automatic theme
+onboarding-multistage-theme-tooltip-automatic-2 =
+    .title =
+        Cleachd coltas an t-siostam obrachaidh agad
+        air putanan, clàran-taice is uinneagan.
+# Input description for automatic theme
+onboarding-multistage-theme-description-automatic-2 =
+    .aria-description =
+        Cleachd coltas an t-siostam obrachaidh agad
+        air putanan, clàran-taice is uinneagan.
+# Tooltip displayed on hover of light theme
+onboarding-multistage-theme-tooltip-light-2 =
+    .title =
+        Cleachd coltas soilleir air putanan,
+        clàran-taice is uinneagan.
+# Input description for light theme
+onboarding-multistage-theme-description-light =
+    .aria-description =
+        Cleachd coltas soilleir air putanan,
+        clàran-taice is uinneagan.
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark-2 =
+    .title =
+        Cleachd coltas dorcha air putanan,
+        clàran-taice is uinneagan.
+# Input description for dark theme
+onboarding-multistage-theme-description-dark =
+    .aria-description =
+        Cleachd coltas dorcha air putanan,
+        clàran-taice is uinneagan.
 # Tooltip displayed on hover of Alpenglow theme
 onboarding-multistage-theme-tooltip-alpenglow-2 =
     .title =
@@ -188,6 +257,8 @@ onboarding-multistage-theme-description-alpenglow =
 
 ## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 
+# This button will open system settings to turn on prefers-reduced-motion
+mr1-onboarding-reduce-motion-button-label = Cuir na beòthachaidhean dheth
 
 ## Title and primary button strings differ between platforms as they
 ## match the OS' application context menu item action where Windows uses "pin"
@@ -208,13 +279,33 @@ mr1-onboarding-pin-primary-button-label =
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
+# This string will be used on welcome page primary button label
+# when Firefox is both pinned and default
+mr1-onboarding-get-started-primary-button-label = Dèan toiseach-tòiseachaidh
+mr1-onboarding-welcome-header = Fàilte gu { -brand-short-name }
+mr1-onboarding-set-default-pin-primary-button-label = Dèan { -brand-short-name } am prìomh-bhrabhsair agam
+    .title = Suidhichidh seo { -brand-short-name } ’na phrìomh-bhrabhsair is thèid a phrìneachadh ri bàr nan saothair
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
+mr1-onboarding-set-default-only-primary-button-label = Dèan { -brand-short-name } am brabhsair bunaiteach agam
+mr1-onboarding-set-default-secondary-button-label = Chan ann an-dràsta
+mr1-onboarding-sign-in-button-label = Clàraich a-steach
 
 ## Title, subtitle and primary button string used on set default onboarding screen
 ## when Firefox is not default browser
 
+mr1-onboarding-default-header = Cleachd { -brand-short-name } mar a’ bhun-roghainn agad
+mr1-onboarding-default-subtitle = Faigh luaths, sàbhailteach is prìobhaideachd gu fèin-obrachail.
+mr1-onboarding-default-primary-button-label = Cleachd mar am brabhsair bunaiteach
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
+mr1-onboarding-import-header = Thoir a h-uile càil leat
+mr1-onboarding-import-subtitle = Ion-phortaich na faclan-faire<br/>’s na comharran-lìn agad agus a bharrachd.
+# The primary import button label will depend on whether we can detect which browser was used to download Firefox.
+# Variables:
+#   $previous (Str) - Previous browser name, such as Edge, Chrome
+mr1-onboarding-import-primary-button-label-attribution = Ion-phortaich o { $previous }
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Ùrlar an t-siostaim
 # "Alpenglow" here is the name of the theme, and should be kept in English.
