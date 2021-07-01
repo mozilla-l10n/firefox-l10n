@@ -108,9 +108,26 @@ onboarding-browse-privately-text = Falamhaichidh gleus a’ bhrabhsaidh phrìobh
 onboarding-browse-privately-button = Fosgail uinneag phrìobhaideach
 onboarding-firefox-send-title = Cùm na faidhlichean co-roinnte agad prìobhaideach
 onboarding-firefox-send-text2 = Luchdaich suas na faidhlichean agad gu { -send-brand-name } is co-roinn iad le gleus crioptachaidh o cheann gu ceann agus ceangal air am falbh an ùine gu fèin-obrachail.
+onboarding-firefox-send-button = Feuch { -send-brand-name }
+onboarding-mobile-phone-title = Feuch { -brand-product-name } air an fhòn agad
+onboarding-mobile-phone-text = Luchdaich a-nuas { -brand-product-name } airson iOS no Android agus sioncronaich an dàta agad thar nan uidheaman.
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Luchdaich a-nuas brabhsair mobile
+onboarding-send-tabs-title = Cuir tabaichean thugad fhèin sa bhad
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
 onboarding-send-tabs-text2 = Co-roinn duilleagan eadar na h-uidheaman agad ’s cha leig thu leas lethbhreac a dhèanamh de cheanglaichean no am brabhsair fhàgail.
+onboarding-send-tabs-button = Tòisich air cur thabaichean a chleachdadh
+onboarding-pocket-anywhere-title = Leug is èist àite sam bith
+onboarding-pocket-anywhere-text2 = Sàbhail an t-susbaint as fheàrr leat far loidhne le aplacaid { -pocket-brand-name } agus leugh, èist is coimhead air uair sam bith a thogras tu.
+onboarding-pocket-anywhere-button = Feuch { -pocket-brand-name }
+onboarding-lockwise-strong-passwords-title = Cruthaich is stòr faclan-faire làidir
+onboarding-lockwise-strong-passwords-text = Cruthaichidh { -lockwise-brand-name } faclan-faire làidir sa bhad agus sàbhailidh e air an aon àite iad uile.
+onboarding-lockwise-strong-passwords-button = Stiùirich na clàraidhean a-steach agad
+onboarding-facebook-container-title = Suidhich crìochan air Facebook
+onboarding-facebook-container-text2 = Cumaidh { -facebook-container-brand-name } a’ phròifil agad fa leth o gach rud eile ’s bidh e nas dorra dha Facebook sanasachd amas ort-sa.
+onboarding-facebook-container-button = Cuir an leudachan ris
 
 ## Message strings belonging to the Return to AMO flow
 
