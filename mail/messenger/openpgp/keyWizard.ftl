@@ -82,6 +82,46 @@ openpgp-key-confirm = Generer offentlig og hemmelig nøgle for { $identity }?
 
 openpgp-import-key-title = Importer en eksisterende, personlig OpenPGP-nøgle
 openpgp-import-key-legend = Vælg en tidligere sikkerhedskopieret fil.
+openpgp-import-key-description = Du kan importere personlige nøgler, der er oprettet med andre OpenPGP-programmer.
+openpgp-import-key-info = Andre programmer bruger måske andre betegnelser for en personlig nøgle, fx. "din egen nøgle", "hemmelig nøgle", "privat nøgle" eller "nøglepar".
+#   $count (Number) - the number of keys found in the selected files
+openpgp-import-key-list-amount =
+    { $count ->
+        [one] Thunderbird fandt én nøgle, der kan importeres.
+       *[other] Thunderbird fandt { $count } nøgler, der kan importeres.
+    }
+openpgp-import-key-list-description = Bekræft hvilke nøgler, der kan betragtes som dine personlige nøgler. Du bør kun bruge nøgler, som du selv har oprettet, og som viser din identitet, som personlige nøgler. Du kan ændre denne indstilling senere under Nøgleegenskaber.
+openpgp-import-key-list-caption = Nøgler der er markeret som personlige nøgler vil optræde i sektionen for end to end-kryptering. Øvrige nøgler vises under Nøgleadministration.
+openpgp-passphrase-prompt-title = Adgangsudtryk påkrævet
+#   $identity (String) - the id of the key being imported
+openpgp-passphrase-prompt = Indtast adgangsudtrykket for at låse følgende nøgle op: { $key }
+openpgp-import-key-button =
+    .label = Vælg fil til import…
+    .accesskey = V
+import-key-file = Importer OpenPGP-nøglefil
+import-key-personal-checkbox =
+    .label = Betragt denne nøgle som en personlig nøgle
+gnupg-file = GnuPG-filer
+import-error-file-size = <b>Fejl!</b> Filer over 5MB understøttes ikke.
+#   $error (String) - the reported error from the failed key import method
+import-error-failed = <b>Fejl!</b> Kunne ikke importere fil. { $error }
+#   $error (String) - the reported error from the failed key import method
+openpgp-import-keys-failed = <b>Fejl!</b> Kunne ikke importere nøgler. { $error }
+openpgp-import-identity-label = Identitet
+openpgp-import-fingerprint-label = Fingeraftryk
+openpgp-import-created-label = Oprettet
+openpgp-import-bits-label = Bits
+openpgp-import-key-props =
+    .label = Nøgleegenskaber
+    .accesskey = N
 
 ## External Key section
 
+openpgp-external-key-title = Ekstern GnuPG-nøgle
+openpgp-external-key-description = Konfigurer en ekstern GnuPG-nøgle ved at angive dens nøgle-id
+openpgp-external-key-info = Derudover skal du bruge Nøgleadministration til at importere og acceptere den tilsvarende offentlige nøgle.
+openpgp-external-key-warning = <b>Du kan kun konfigurere én ekstern GnuPG-nøgle.</b> Den tidligere nøgle vil blive erstattet.
+openpgp-save-external-button = Gem nøgle-id
+openpgp-external-key-label = Hemmeligt nøgle-id:
+openpgp-external-key-input =
+    .placeholder = 123456789341298340
