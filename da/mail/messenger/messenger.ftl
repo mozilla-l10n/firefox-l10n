@@ -127,3 +127,6 @@ addon-removal-confirmation-message = Fjern { $name } samt dens konfiguration og 
 caret-browsing-prompt-title = Caret Browsing
 caret-browsing-prompt-text = Ved at trykke F7 kan du slå Caret Browsing til eller fra. Denne funktion placerer en bevægelig markør på siden, hvilket giver dig mulighed for at markere tekst med tastaturet. Ønsker du at slå Caret Browsing til?
 caret-browsing-prompt-check-text = Spørg ikke igen.
+repair-text-encoding-button =
+    .label = Reparer tekstkodning
+    .tooltiptext = Fastlæg den korrekte tekstkodning ud fra meddelelsens indhold

@@ -115,8 +115,10 @@ account-setup-results-area-title =
     }
 # Note: IMAP is the name of a protocol.
 account-setup-result-imap = IMAP
+account-setup-result-imap-description = Hold dine mapper og meddelelser synkroniseret på din server
 # Note: POP3 is the name of a protocol.
 account-setup-result-pop = POP3
+account-setup-result-pop-description = Hold dine mapper og meddelelser på din computer
 # Note: Exchange is the name of a product.
 account-setup-result-exchange = Exchange
 account-setup-result-exchange-description = Microsoft Exchange-server

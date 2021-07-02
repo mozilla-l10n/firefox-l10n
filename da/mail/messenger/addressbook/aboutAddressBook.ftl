@@ -67,6 +67,7 @@ about-addressbook-sort-email-ascending =
     .label = Sorter efter mailadresse (A > Å)
 about-addressbook-sort-email-descending =
     .label = Sorter efter mailadresse (Å > A)
+about-addressbook-confirm-delete-mixed-title = Slet kontakter og lister
 # Variables:
 # $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
 about-addressbook-confirm-delete-mixed = Er du sikker på, at du vil slette disse { $count } kontakter og lister?
