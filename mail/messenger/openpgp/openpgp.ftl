@@ -293,6 +293,81 @@ openpgp-keygen-external-success = Eksternt GnuPG-nøgle-id gemt!
 openpgp-radio-none =
     .label = Ingen
 openpgp-radio-none-desc = Benyt ikke OpenPGP til denne identitet.
+openpgp-radio-key-not-usable = Denne nøgle kan ikke bruges som en personlig nøgle, fordi den hemmelige nøgle mangler!
+openpgp-radio-key-not-accepted = For at bruge denne nøgle, skal du godkende den som en personlig nøgle!
+openpgp-radio-key-not-found = Denne nøgle kunne ikke findes! Hvis du vil bruge den, skal du importere den til { -brand-short-name }.
+#   $key (String) - the expiration date of the OpenPGP key
+openpgp-radio-key-expires = Udløber den: { $date }
+openpgp-key-expires-image =
+    .tooltiptext = Nøgle udløber om mindre end 6 måneder
+#   $key (String) - the expiration date of the OpenPGP key
+openpgp-radio-key-expired = Udløb den: { $date }
+openpgp-key-expired-image =
+    .tooltiptext = Nøgle udløbet
+openpgp-key-expires-within-6-months-icon =
+    .title = Nøglen udløber om mindre end 6 måneder
+openpgp-key-has-expired-icon =
+    .title = Nøgle udløbet
+openpgp-key-expand-section =
+    .tooltiptext = Flere oplysninger
+openpgp-key-revoke-title = Tilbagekald nøgle
+openpgp-key-edit-title = Skift OpenPGP-nøgle
+openpgp-key-edit-date-title = Forlæng udløbsdato
+openpgp-manager-description = Brug OpenPGP Nøgleaministration for at se og administrere offentlige nøgler fra dine korrespondenter og alle andre nøgler, der ikke er anført ovenfor.
+openpgp-manager-button =
+    .label = OpenPGP Nøgleadministration
+    .accesskey = N
+openpgp-key-remove-external =
+    .label = Fjern eksternt nøgle-id
+    .accesskey = E
+key-external-label = Ekstern GnuPG-nøgle
+# Strings in keyDetailsDlg.xhtml
+key-type-public = offentlig nøgle
+key-type-primary = primærnøgle
+key-type-subkey = undernøgle
+key-type-pair = nøglepar (hemmelig nøgle og offentlig nøgle)
+key-expiry-never = aldrig
+key-usage-encrypt = Krypter
+key-usage-sign = Signer
+key-usage-certify = Certificer
+key-usage-authentication = Godkendelse
+key-does-not-expire = Nøglen udløber ikke
+key-expired-date = Nøglen udløb den { $keyExpiry }
+key-expired-simple = Nøglen er udløbet
+key-revoked-simple = Nøglen er blevet tilbagekaldt
+key-do-you-accept = Accepterer du, at denne nøgle bruges til verificering af digitale signaturer og kryptering af meddelelser?
+key-accept-warning = Undgå at acceptere en uberegnelig nøgle. Brug en anden kommunikationskanal end mail til at bekræfte fingeraftrykket på din korrespondents nøgle.
+# Strings enigmailMsgComposeOverlay.js
+cannot-use-own-key-because = Kunne ikke sende meddelelsen, fordi der er et problem med din personlige nøgle. { $problem }
+cannot-encrypt-because-missing = Kunne ikke sende denne meddelelse med end to end-kryptering, fordi der er problemer med nøglerne for følgende modtagere: { $problem }
+window-locked = Skrivevinduet er låst; afsendelse annulleret
+# Strings in mimeDecrypt.jsm
+mime-decrypt-encrypted-part-attachment-label = Krypteret meddelelsesdel
+mime-decrypt-encrypted-part-concealed-data = Dette er en krypteret meddelelsesdel. Du skal åbne det i et separat vindue ved at klikke på den vedhæftede fil.
+# Strings in keyserver.jsm
+keyserver-error-aborted = Afbrudt
+keyserver-error-unknown = Der opstod en ukendt fejl
+keyserver-error-server-error = Nøgleserveren rapporterede en fejl.
+keyserver-error-import-error = Kunne ikke importere den downloadede nøgle.
+keyserver-error-unavailable = Nøgleserveren er ikke tilgængelig.
+keyserver-error-security-error = Nøgleserveren understøtter ikke krypteret adgang.
+keyserver-error-certificate-error = Nøgleserverens certifikat er ikke gyldigt.
+keyserver-error-unsupported = Nøgleserveren understøttes ikke.
+# Strings in mimeWkdHandler.jsm
+wkd-message-body-req =
+    Din mailudbyder behandlede din anmodning om at uploade din offentlige nøgle til OpenPGP Web Key Directory.
+    Bekræft for at fuldføre udgivelsen af din offentlige nøgle.
+wkd-message-body-process =
+    Denne mail er relateret til den den automatiske procedure for upload af din offentlige nøgle til OpenPGP Web Key Directory.
+    Du behøver ikke at foretage dig noget på nuværende tidspunkt.
+# Strings in persistentCrypto.jsm
+converter-decrypt-body-failed =
+    Kunne ikke dekryptere meddelelsen med emnet
+    { $subject }.
+    Vil du prøve igen med et andet adgangsudtryk, eller vil du springe meddelelsen over?
+# Strings in gpg.jsm
+unknown-signing-alg = Ukendt signeringsalgoritme (ID: { $id })
+unknown-hash-alg = Ukendt kryptografisk hash (ID: { $id })
 expiry-open-key-manager = Åbn OpenPGP Nøgleadministration
 
 ## Account settings export output
