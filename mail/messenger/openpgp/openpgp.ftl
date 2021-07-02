@@ -430,9 +430,90 @@ delete-pub-key =
     '{ $userId }'?
 delete-selected-pub-key = Vil du slette de offentlige nøgler?
 refresh-all-question = Du valgte ikke nogen nøgle. Vil du opdatere ALLE nøgler?
+key-man-button-export-sec-key = Eksporter &hemmelige nøgler
+key-man-button-export-pub-key = Eksporter kun &offentlige nøgler
+key-man-button-refresh-all = &Opdater alle nøgler
+key-man-loading-keys = Indlæser nøgler, vent venligst...
+ascii-armor-file = ASCII Armored-filer (*.asc)
+no-key-selected = Du skal vælge mindst én nøgle for at udføre den valgte handling
+export-to-file = Eksporter offentlig nøgle til fil
+export-keypair-to-file = Eksporter hemmelig og offentlig nøgle til fil
+export-secret-key = Vil du medtage den hemmelige nøgle i den gemte OpenPGP-nøglefil?
+save-keys-ok = Nøglerne blev gemt korrekt.
+save-keys-failed = Kunne ikke gemme nøglerne
+default-pub-key-filename = Eksporterede-offentlige-nøgler
+default-pub-sec-key-filename = Sikkerhedskopi-af-hemmelige-nøgler
+refresh-key-warn = Advarsel: Afhængigt af antallet af nøgler og din forbindelseshastighed, kan opdatering af alle nøgler tage ganske lang tid!
+preview-failed = Kan ikke læse den offentlige nøglefil.
+general-error = Fejl: { $reason }
+dlg-button-delete = &Slet
 
 ## Account settings export output
 
+openpgp-export-public-success = <b>Offentlig nøgle eksporteret!</b>
+openpgp-export-public-fail = <b>Den valgte offentlige nøgle kunne ikke eksporteres!</b>
+openpgp-export-secret-success = <b>Hemmelig nøgle blev eksporteret!</b>
+openpgp-export-secret-fail = <b>Den valgte hemmelige nøgle kunne ikke eksporteres!</b>
+# Strings in keyObj.jsm
+key-ring-pub-key-revoked = Nøglen { $userId } (nøgle-id { $keyId }) er tilbagekaldt.
+key-ring-pub-key-expired = Nøglen { $userId } (nøgle-id { $keyId }) er udløbet.
+key-ring-no-secret-key = Det ser ikke ud til, at du har den hemmelige nøgle til { $userId } (nøgle-id { $keyId }) på din nøglering; du kan ikke bruge nøglen til signering.
+key-ring-pub-key-not-for-signing = Nøglen { $userId } (nøgle-id { $keyId }) kan ikke bruges til signering.
+key-ring-pub-key-not-for-encryption = Nøglen { $userId } (nøgle-id { $keyId }) kan ikke bruges til kryptering.
+key-ring-sign-sub-keys-revoked = Alle signeringsundernøgler på nøglen { $userId } (nøgle-id { $keyId }) er tilbagekaldt.
+key-ring-sign-sub-keys-expired = Alle signeringsundernøgler på nøglen { $userId } (nøgle-id { $keyId }) er udløbet.
+key-ring-enc-sub-keys-revoked = Alle krypteringsundernøgler på nøglen { $userId } (nøgle-id { $keyId }) er tilbagekaldt.
+key-ring-enc-sub-keys-expired = Alle krypteringsundernøgler på nøglen { $userId } (nøgle-id { $keyId }) er udløbet.
+# Strings in gnupg-keylist.jsm
+keyring-photo = Billede
+user-att-photo = Brugerattribut (JPEG-billede)
+# Strings in key.jsm
+already-revoked = Denne nøgle er allerede blevet tilbagekaldt.
+#   $identity (String) - the id and associated user identity of the key being revoked
+revoke-key-question =
+    Du er ved at tilbagekalde nøglen '{ $identity }'.
+    Du vil ikke længere kunne underskrive med denne nøgle, og når den er distribueret, kan andre ikke længere kryptere med den nøgle. Du kan stadig bruge nøglen til at dekryptere gamle meddelelser.
+    Ønsker du at fortsætte?
+#   $keyId (String) - the id of the key being revoked
+revoke-key-not-present =
+    Du har ingen nøgle (0x { $keyId }), der matcher dette tilbagekaldelsescertifikat!
+    Hvis du har mistet din nøgle, skal du importere den (fx fra en nøgleserver), inden du importerer tilbagekaldelsescertifikatet!
+#   $keyId (String) - the id of the key being revoked
+revoke-key-already-revoked = Nøglen 0x{ $keyId } er allerede tilbagekaldt.
+key-man-button-revoke-key = &Tilbagekald nøgle
+openpgp-key-revoke-success = Nøglen blev tilbagekaldt.
+# Strings in keyRing.jsm & decryption.jsm
+key-man-button-import = &Importer
+delete-key-title = Slet OpenPGP-nøgle
+delete-external-key-title = Fjern den eksterne GnuPG-nøgle
+delete-external-key-description = Ønsker du at fjerne dette eksterne GnuPG-nøgle-id?
+key-in-use-title = OpenPGP-nøgle i brug
+delete-key-in-use-description = Kan ikke fortsætte! Den nøgle, du vil slette, bruges i øjeblikket af denne identitet. Vælg en anden nøgle, eller vælg ingen og prøv igen.
+revoke-key-in-use-description = Kan ikke fortsætte! Den nøgle, du vil tilbagekalde, bruges i øjeblikket af denne identitet. Vælg en anden nøgle, eller vælg ingen og prøv igen.
+# Strings used in errorHandling.jsm
+key-error-key-spec-not-found = Mailadressen '{ $keySpec }' matcher ingen nøgle på din nøglering.
+key-error-key-id-not-found = Det konfigurerede nøgle-id '{ $keySpec }' kan ikke findes på din nøglering.
+key-error-not-accepted-as-personal = Du har ikke bekræftet, at nøglen med id'et '{ $keySpec }' er din personlige nøgle.
+# Strings used in enigmailKeyManager.js & windows.jsm
+need-online = Den valgte funktion er ikke tilgængelig i offline-tilstand. Gå online og prøv igen.
+# Strings used in keyRing.jsm & keyLookupHelper.jsm
+no-key-found = Vi kunne ikke finde nogen nøgle, der matcher de angivne søgekriterier.
+# Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
+fail-key-extract = Fejl - kommandoen til nøgleudtrækning mislykkedes
+# Strings used in keyRing.jsm
+fail-cancel = Fejl - Nøglemodtagelse annulleret af brugeren
+not-first-block = Fejl - Første OpenPGP-blok ikke offentlig nøgleblok
+import-key-confirm = Importer offentlig(e) nøgle(r) indlejret i meddelelsen?
+fail-key-import = Fejl - nøgleimport mislykkedes
+file-write-failed = Kunne ikke skrive til filen { $output }
+no-pgp-block = Fejl - Ingen gyldig beskyttet OpenPGP-datablok fundet
+confirm-permissive-import = Import mislykkedes. Den nøgle, du prøver at importere, kan være beskadiget eller bruge ukendte attributter. Vil du prøve at importere de korrekte dele? Dette kan resultere i import af ufuldstændige og ubrugelige nøgler.
+# Strings used in trust.jsm
+key-valid-unknown = ukendt
+key-valid-invalid = ugyldig
+key-valid-disabled = deaktiveret
+key-valid-revoked = tilbagekaldt
+key-valid-expired = udløbet
 
 # Strings used in enigmailMessengerOverlay.js
 
