@@ -281,7 +281,7 @@ mr1-onboarding-pin-primary-button-label =
 mr1-onboarding-get-started-primary-button-label = Introdução
 mr1-onboarding-welcome-header = Boas-vindas ao { -brand-short-name }
 mr1-onboarding-set-default-pin-primary-button-label = Tornar o { -brand-short-name } meu navegador principal
-    .title = Define o { -brand-short-name } como navegador principal e fixa na barra de tarefas
+    .title = Definir o { -brand-short-name } como navegador principal e fixar na barra de tarefas
 # This string will be used on welcome page primary button label
 # when Firefox is not default but already pinned
 mr1-onboarding-set-default-only-primary-button-label = Tornar o { -brand-short-name } meu navegador padrão
