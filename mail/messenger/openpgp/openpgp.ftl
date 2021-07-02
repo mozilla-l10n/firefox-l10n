@@ -400,6 +400,7 @@ filter-warn-key-not-secret =
     Hvis du ikke har den hemmelige nøgle til '{ $desc }', kan du ikke længere læse disse mails.
 # Strings filtersWrapper.jsm
 filter-decrypt-move-label = Dekrypter permanent (OpenPGP)
+filter-decrypt-copy-label = Opret dekrypteret kopi (OpenPGP)
 filter-encrypt-label = Krypter til nøgle (OpenPGP)
 # Strings in enigmailKeyImportInfo.js
 import-info-title =
@@ -482,6 +483,11 @@ revoke-key-not-present =
 revoke-key-already-revoked = Nøglen 0x{ $keyId } er allerede tilbagekaldt.
 key-man-button-revoke-key = &Tilbagekald nøgle
 openpgp-key-revoke-success = Nøglen blev tilbagekaldt.
+after-revoke-info =
+    Nøglen er blevet tilbagekaldt.
+    Del denne offentlige nøgle igen ved at sende den via mail eller ved at uploade den til nøgleservere for at fortælle andre, at du har tilbagekaldt din nøgle.
+    Så andre personers programmer registrerer tilbagekaldelsen, stopper de med at bruge din gamle nøgle.
+    Hvis du bruger en ny nøgle til den samme mailadresse, og du vedhæfter den nye offentlige nøgle til mails, du sender, inkluderes oplysninger om din tilbagekaldte gamle nøgle automatisk.
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = &Importer
 delete-key-title = Slet OpenPGP-nøgle
@@ -579,3 +585,58 @@ sending-hidden-rcpt = Bcc-modtagere (Skjult kopi til) kan ikke bruges, når du s
 sending-news =
     Krypteret sendehandling blev afbrudt.
     Denne meddelelse kan ikke krypteres, fordi den indeholder nyhedsgruppemodtagere. Send beskeden igen uden kryptering.
+send-to-news-warning =
+    Advarsel: Du er ved at sende en krypteret mail til en nyhedsgruppe.
+    Dette frarådes, fordi det kun giver mening, hvis alle medlemmer af gruppen kan dekryptere meddelelsen, dvs. meddelelsen skal krypteres med nøglerne til alle gruppedeltagere. Send kun denne meddelelse, hvis du ved præcis, hvad du laver.
+    Fortsæt?
+save-attachment-header = Gem dekrypteret vedhæftet fil
+no-temp-dir =
+    Kunne ikke finde en midlertidig mappe at skrive til
+    Indstil venligst TEMP-miljøvariablen
+possibly-pgp-mime = Mulig PGP/MIME-krypteret eller underskrevet meddelelse; brug funktionen 'Dekrypter/Verificer' for at verificere
+cannot-send-sig-because-no-own-key = Kan ikke signere denne meddelelse digitalt, fordi du endnu ikke har konfigureret end to end-kryptering for <{ $key }>
+cannot-send-enc-because-no-own-key = Kan ikke sende denne meddelelse krypteret, fordi du endnu ikke har konfigureret end to end-kryptering for <{ $key }>
+# Strings used in decryption.jsm
+do-import-multiple =
+    Importer følgende nøgler?
+    { $key }
+do-import-one = Importer { $name } ({ $id })?
+cant-import = Fejl ved import af offentlig nøgle
+unverified-reply = Indrykket meddelelsesdel (svar) er sandsynligvis ændret
+key-in-message-body = En nøgle blev fundet i meddelelsesteksten. Klik på 'Importer nøgle' for at importere nøglen
+sig-mismatch = Fejl - Uoverensstemmelse i signatur
+invalid-email = Fejl - ugyldig mailadresse
+attachment-pgp-key =
+    Den vedhæftede fil '{ $name }', du åbner, ser ud til at være en OpenPGP-nøglefil.
+    Klik på 'Importer' for at importere de indeholdte nøgler eller 'Vis' for at få vist filindholdet i et browservindue
+dlg-button-view = &Vis
+# Strings used in enigmailMsgHdrViewOverlay.js
+decrypted-msg-with-format-error = Dekrypteret meddelelse (gendannet ødelagt PGP-mailformat, sandsynligvis forårsaget af en gammel Exchange-server. Resultatet er derfor muligvis ikke er perfekt)
+# Strings used in encryption.jsm
+not-required = Fejl - ingen kryptering påkrævet
+# Strings used in windows.jsm
+no-photo-available = Intet billede tilgængeligt
+error-photo-path-not-readable = Fotostien ‘{ $photo }’ kan ikke læses
+debug-log-title = OpenPGP fejllog
+# Strings used in dialog.jsm
+repeat-prefix = Denne advarsel gentages { $count }
+repeat-suffix-singular = gang mere.
+repeat-suffix-plural = gange mere.
+no-repeat = Denne advarsel vises ikke igen.
+dlg-keep-setting = Husk mit svar og spørg mig ikke igen
+dlg-button-ok = &OK
+dlg-button-close = &Luk
+dlg-button-cancel = &Annuller
+dlg-no-prompt = Vis ikke denne dialogboks igen.
+enig-prompt = OpenPGP-prompt
+enig-confirm = OpenPGP-bekræftelse
+enig-alert = OpenPGP-advarsel
+enig-info = OpenPGP-oplysninger
+# Strings used in persistentCrypto.jsm
+dlg-button-retry = &Forsøg igen
+dlg-button-skip = &Spring over
+# Strings used in enigmailCommon.js
+enig-error = OpenPGP-fejl
+# Strings used in enigmailMsgBox.js
+enig-alert-title =
+    .title = OpenPGP-advarsel
