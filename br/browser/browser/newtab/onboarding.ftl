@@ -267,21 +267,57 @@ onboarding-multistage-theme-description-alpenglow =
 mr1-welcome-screen-hero-text =
     Kregiñ a ra
     amañ
+# Caption for background image in about:welcome. "Soraya Osorio" is the name
+# of the person and shouldn't be translated.
+# In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
+# You can see the picture in about:welcome in Nightly 90.
+mr1-onboarding-welcome-image-caption = Soraya Osorio — Krouerez arrebeuri, sot gant Firefox
+# This button will open system settings to turn on prefers-reduced-motion
+mr1-onboarding-reduce-motion-button-label = Diweredekaat ar fiñvskeudennoù
 
 ## Title and primary button strings differ between platforms as they
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
+# Primary button string used on welcome page when Firefox is not pinned.
+mr1-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Mirout er Dock
+       *[other] Spilhennañ er varrenn drevelloù
+    }
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
+# This string will be used on welcome page primary button label
+# when Firefox is both pinned and default
+mr1-onboarding-get-started-primary-button-label = Kregiñ ganti
+mr1-onboarding-welcome-header = Degemer mat war { -brand-short-name }
+mr1-onboarding-set-default-secondary-button-label = Ket bremañ
+mr1-onboarding-sign-in-button-label = Kennaskañ
 
 ## Title, subtitle and primary button string used on set default onboarding screen
 ## when Firefox is not default browser
 
+mr1-onboarding-default-primary-button-label = Lakaat da verdeer dre ziouer
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
+mr1-onboarding-import-subtitle = Emporzhit ho kerioù-tremen, <br/>sinedoù ha muioc'h.
+# The primary import button label will depend on whether we can detect which browser was used to download Firefox.
+# Variables:
+#   $previous (Str) - Previous browser name, such as Edge, Chrome
+mr1-onboarding-import-primary-button-label-attribution = Emporzhiañ diouzh { $previous }
+# This string will be used in cases where we can't detect the previous browser name.
+mr1-onboarding-import-primary-button-label-no-attribution = Emporzhiañ diouzh ar merdeer diwezhañ
+mr1-onboarding-import-secondary-button-label = Ket bremañ
+mr1-onboarding-theme-primary-button-label = Enrollañ an tem
+mr1-onboarding-theme-secondary-button-label = Ket bremañ
+# System theme uses operating system color settings
+mr1-onboarding-theme-label-system = Tem ar reizhiad
+mr1-onboarding-theme-label-light = Sklaer
+mr1-onboarding-theme-label-dark = Teñval
+# "Alpenglow" here is the name of the theme, and should be kept in English.
+mr1-onboarding-theme-label-alpenglow = Alpenglow
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
