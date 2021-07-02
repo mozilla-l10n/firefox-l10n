@@ -4,3 +4,5 @@
 
 account-settingsTitle = Indstillinger for godkendelse
 account-channelTitle = Standardkanaler
+account-settings-title = Indstillinger for godkendelse
+account-channel-title = Standardkanaler

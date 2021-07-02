@@ -10,6 +10,9 @@ preferences-title =
             [windows] Indstillinger
            *[other] Indstillinger
         }
+preferences-doc-title = Indstillinger
+category-list =
+    .aria-label = Kategorier
 pane-general-title = Generelt
 category-general =
     .tooltiptext = { pane-general-title }
@@ -84,6 +87,8 @@ update-in-progress-ok-button = &Annuller
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Fortsæt
 addons-button = Udvidelser og temaer
+account-button = Kontoindstillinger
+open-addons-sidebar-button = Tilføjelser og temaer
 
 ## OS Authentication dialog
 
@@ -159,6 +164,12 @@ customize-alert-label =
 tray-icon-label =
     .label = Vis ikon i systembakken
     .accesskey = k
+biff-use-system-alert =
+    .label = Brug systemmeddelelse
+tray-icon-unread-label =
+    .label = Vis ikon i systembakken for ulæste meddelelser
+    .accesskey = k
+tray-icon-unread-description = Anbefales, når du bruges små knapper på proceslinjen
 mail-system-sound-label =
     .label = Standard systemlyd ved modtagelse af ny mail
     .accesskey = y
@@ -311,6 +322,8 @@ quoted-text-color =
     .accesskey = e
 search-input =
     .placeholder = Søg
+search-handler-table =
+    .placeholder = Filtrer indholdstyper og handlinger
 type-column-label =
     .label = Indholdstype
     .accesskey = I
@@ -538,6 +551,7 @@ master-password-label =
 master-password-button =
     .label = Skift hovedadgangskode…
     .accesskey = S
+primary-password-description = Hovedadgangskoden beskytter alle dine adgangskoder, men du skal indtaste den ved hver opstart.
 primary-password-label =
     .label = Brug hovedadgangskode
     .accesskey = u
@@ -545,6 +559,7 @@ primary-password-button =
     .label = Skift hovedadgangskode…
     .accesskey = S
 forms-primary-pw-fips-title = Du er i FIPS-tilstand. FIPS kræver at hovedadgangskoden er sat.
+forms-master-pw-fips-desc = Ændring af adgangskode mislykkedes
 junk-description = Du kan redigere kontospecifikke spam-indstillinger i vinduet Kontoindstillinger.
 junk-label =
     .label = Når du markerer meddelelsen som spam:
@@ -694,6 +709,17 @@ search-input-box =
             [windows] Søg i indstillinger
            *[other] Søg i indstillinger
         }
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-preferences-input =
+    .style = width: 15.4em
+    .placeholder = Søg i indstillinger
 
 ## Preferences UI Search Results
 
