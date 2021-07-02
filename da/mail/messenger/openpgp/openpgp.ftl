@@ -514,6 +514,68 @@ key-valid-invalid = ugyldig
 key-valid-disabled = deaktiveret
 key-valid-revoked = tilbagekaldt
 key-valid-expired = udløbet
+key-trust-untrusted = upålidelig
+key-trust-marginal = marginal
+key-trust-full = pålidelig
+key-trust-ultimate = ultimativ
+key-trust-group = (gruppe)
+# Strings used in commonWorkflows.js
+import-key-file = Importer OpenPGP-nøglefil
+import-rev-file = Importer OpenPGP-tilbagekaldelsesfil
+gnupg-file = GnuPG-filer
+import-keys-failed = Import af nøgler mislykkedes
+passphrase-prompt = Indtast adgangsudtrykket, der låser følgende nøgle op: { $key }
+file-to-big-to-import = Denne fil er for stor. Undlad at importere mange nøgler på én gang.
+# Strings used in enigmailKeygen.js
+save-revoke-cert-as = Opret & gem tilbagekaldelsescertifikat
+revoke-cert-ok = Tilbagekaldelsescertifikatet er oprettet. Du kan bruge det til at ugyldiggøre din offentlige nøgle, fx hvis du mister din hemmelige nøgle.
+revoke-cert-failed = Tilbagekaldelsescertifikatet kunne ikke oprettes.
+gen-going = Nøglegenerering allerede i gang!
+keygen-missing-user-name = Der er ikke angivet noget navn for den valgte konto/identitet. Indtast venligst en værdi i feltet "Dit navn" i kontoindstillingerne.
+expiry-too-short = Din nøgle skal være gyldig i mindst en dag.
+expiry-too-long = Du kan ikke oprette en nøgle, der udløber om mere end 100 år.
+key-confirm = Generer offentlig og hemmelig nøgle til ‘{ $id }’?
+key-man-button-generate-key = &Generer nøgle
+key-abort = Afbryd nøglegenerering?
+key-man-button-generate-key-abort = &Afbryd nøglegenerering
+key-man-button-generate-key-continue = &Fortsæt nøglegenerering
 
 # Strings used in enigmailMessengerOverlay.js
 
+failed-decrypt = Fejl - dekryptering mislykkedes
+fix-broken-exchange-msg-failed = Denne meddelelse kunne ikke repareres.
+attachment-no-match-from-signature = Kunne ikke matche signaturfilen '{ $attachment }' til en vedhæftet fil
+attachment-no-match-to-signature = Kunne ikke matche vedhæftet fil ‘{ $attachment }’ til en signaturfil
+signature-verified-ok = Signaturen for vedhæftet fil { $attachment } blev bekræftet
+signature-verify-failed = Signaturen for vedhæftet fil { $attachment } kunne ikke bekræftes
+decrypt-ok-no-sig =
+    Advarsel
+    Dekryptering lykkedes, men signaturen kunne ikke bekræftes
+msg-ovl-button-cont-anyway = &Fortsæt alligevel
+enig-content-note = *Vedhæftede filer til denne meddelelse er hverken underskrevet eller krypteret*
+# Strings used in enigmailMsgComposeOverlay.js
+msg-compose-button-send = &Send meddelelse
+msg-compose-details-button-label = Detaljer…
+msg-compose-details-button-access-key = D
+send-aborted = Afsendelse afbrudt.
+key-not-trusted = Ikke nok tillid til nøglen ‘{ $key }’
+key-not-found = Nøglen ‘{ $key }’ ikke fundet
+key-revoked = Nøglen ‘{ $key }’ tilbagekaldt
+key-expired = Nøglen ‘{ $key }’ udløbet
+msg-compose-internal-error = Der er opstået en intern fejl.
+keys-to-export = Vælg OpenPGP-nøgler, der skal indsættes
+msg-compose-partially-encrypted-inlinePGP =
+    Meddelelsen du svarer på, indeholdt både ukrypterede og krypterede dele. Hvis afsenderen ikke oprindeligt kunne dekryptere nogle dele af meddelelsen, afslører du muligvis fortrolige oplysninger, som afsenderen ikke oprindeligt kunne dekryptere selv.
+    Overvej at fjerne al citeret tekst fra dit svar til denne afsender.
+msg-compose-cannot-save-draft = Fejl under lagring af kladde
+msg-compose-partially-encrypted-short = Pas på ikke at afsløre følsomme oplysninger - delvist krypteret mail.
+quoted-printable-warn =
+    Du har aktiveret 'quoted-printable'-kodning til afsendelse af meddelelser. Dette kan resultere i forkert dekryptering og/eller verifikation af din meddelelse.
+    Ønsker du at deaktivere afsendelse af 'quoted-printable'-meddelelser nu?
+minimal-line-wrapping =
+    Du har indstillet linjeombrydning til { $width } tegn. For korrekt kryptering og/eller signering skal denne værdi være mindst 68.
+    Ønsker du at ændre linjeombrydning til 68 tegn nu?
+sending-hidden-rcpt = Bcc-modtagere (Skjult kopi til) kan ikke bruges, når du sender en krypteret meddelelse. For at sende denne krypterede meddelelse skal du enten fjerne Bcc-modtagerne eller flytte dem til Cc-feltet (Kopi til).
+sending-news =
+    Krypteret sendehandling blev afbrudt.
+    Denne meddelelse kan ikke krypteres, fordi den indeholder nyhedsgruppemodtagere. Send beskeden igen uden kryptering.
