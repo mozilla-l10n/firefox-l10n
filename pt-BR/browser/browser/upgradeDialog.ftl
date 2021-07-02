@@ -18,9 +18,9 @@ upgrade-dialog-new-alt-subtitle = Comece deixando o <span data-l10n-name="zap">{
 upgrade-dialog-new-item-menu-title = Menus e barra de ferramentas simplificados
 upgrade-dialog-new-item-menu-description = Prioriza as coisas importantes para você encontrar o que precisa.
 upgrade-dialog-new-item-tabs-title = Abas modernas
-upgrade-dialog-new-item-tabs-description = Contém informações de forma organizada, aceitando foco e movimento flexível.
+upgrade-dialog-new-item-tabs-description = Contêm informações de forma organizada, aceitando foco e movimento flexível.
 upgrade-dialog-new-item-icons-title = Novos ícones e mensagens mais claras
-upgrade-dialog-new-item-icons-description = Te ajuda a encontrar as coisas com um toque mais leve.
+upgrade-dialog-new-item-icons-description = Ajuda a encontrar as coisas com um toque mais leve.
 upgrade-dialog-new-primary-primary-button = Tornar o { -brand-short-name } meu navegador principal
     .title = Definir o { -brand-short-name } como navegador padrão e fixar na barra de tarefas
 upgrade-dialog-new-primary-default-button = Tornar o { -brand-short-name } meu navegador padrão
