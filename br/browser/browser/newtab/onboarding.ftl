@@ -190,6 +190,15 @@ onboarding-multistage-import-secondary-button-label = Ket bremañ
 # Info displayed in the footer of import settings screen during onboarding flow.
 # This supports welcome screen showing top sites imported from the user's default browser.
 onboarding-import-sites-disclaimer = Al lec'hiennoù listennet amañ a zo bet kavet en trevnad-mañ. { -brand-short-name } ne enroll ket ha ne c'houbred ket ar roadennoù o tont deus merdeerien-all nemet ma tibabit o emporzhiañ.
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+onboarding-welcome-steps-indicator =
+    .aria-label = Evit kregiñ : skramm { $current } war { $total }
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "look" should stay inside the span.
+onboarding-multistage-theme-header = Dibabit un<span data-l10n-name="zap">neuz</span>
 onboarding-multistage-theme-subtitle = Personelait { -brand-short-name } gant an neuz.
 onboarding-multistage-theme-primary-button-label2 = Graet
 onboarding-multistage-theme-secondary-button-label = Ket bremañ
@@ -205,9 +214,59 @@ onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of automatic theme
+onboarding-multistage-theme-tooltip-automatic-2 =
+    .title =
+        Heuliañ neuz ho reizhiad korvoiñ evit ar
+         boutonoù, lañserioù ha prenestroù.
+# Input description for automatic theme
+onboarding-multistage-theme-description-automatic-2 =
+    .aria-description =
+        Heuliañ neuz ho reizhiad korvoiñ evit ar
+         boutonoù, lañserioù ha prenestroù.
+# Tooltip displayed on hover of light theme
+onboarding-multistage-theme-tooltip-light-2 =
+    .title =
+        Implijout un neuz sklaer evit ar 
+        boutonoù, lañserioù ha prenestroù.
+# Input description for light theme
+onboarding-multistage-theme-description-light =
+    .aria-description =
+        Implijout un neuz sklaer evit ar 
+        boutonoù, lañserioù ha prenestroù.
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark-2 =
+    .title =
+        Implijout un neuz teñval evit ar 
+        boutonoù, lañserioù ha prenestroù.
+# Input description for dark theme
+onboarding-multistage-theme-description-dark =
+    .aria-description =
+        Implijout un neuz teñval evit ar 
+        boutonoù, lañserioù ha prenestroù.
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow-2 =
+    .title =
+        Implijout un neuz livet evit ar 
+        boutonoù, lañserioù ha prenestroù.
+# Input description for Alpenglow theme
+onboarding-multistage-theme-description-alpenglow =
+    .aria-description =
+        Implijout un neuz livet evit ar 
+        boutonoù, lañserioù ha prenestroù.
 
 ## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 
+# "Hero Text" displayed on left side of welcome screen.
+# The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
+# It also signals the passion users bring to Firefox, how they use
+# Firefox to pursue those passions, as well as the boldness in their
+# choice to use Firefox over a larger competitor browser.
+# An alternative title for localization is: "It starts here".
+# This text can be formatted to span multiple lines as needed.
+mr1-welcome-screen-hero-text =
+    Kregiñ a ra
+    amañ
 
 ## Title and primary button strings differ between platforms as they
 ## match the OS' application context menu item action where Windows uses "pin"
