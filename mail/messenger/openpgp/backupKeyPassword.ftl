@@ -10,4 +10,5 @@ set-password-backup-pw =
     .value = Secret Key backup-adgangskode:
 set-password-repeat-backup-pw =
     .value = Secret Key backup-adgangskode (igen):
+set-password-reminder = <b>OBS!</b> Hvis du glemmer din Secret Key backup-adgangskode, kan du ikke gendanne denne sikkerhedskopi senere. Gem den derfor et sikkert sted.
 password-quality-meter = Kvalitetsmåler for adgangskode
