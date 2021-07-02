@@ -4,6 +4,7 @@
 
 e2e-intro-description = For at sende krypterede eller digitalt signerede meddelelser, skal du konfigurere en krypteringsteknologi, enten OpenPGP eller S/MIME.
 e2e-intro-description-more = Vælg din personlige nøgle for at aktivere brugen af OpenPGP, eller dit personlige certifikat for at aktivere brugen af S/MIME. Du ejer selv den tilsvarende hemmelige nøgle til en personlig nøgle eller et certifikat.
+openpgp-key-user-id-label = Konto / bruger-id
 openpgp-keygen-title-label =
     .title = Generer OpenPGP-nøgle
 openpgp-cancel-key =
@@ -393,8 +394,42 @@ filter-decrypt-move-warn-experimental =
     Vi anbefaler kraftigt, at du først prøver filteret "Opret dekrypteret kopi", tester resultatet omhyggeligt og først begynder at bruge dette filter, når du er tilfreds med resultatet.
 filter-term-pgpencrypted-label = OpenPGP-krypteret
 filter-key-required = Du skal vælge en modtagernøgle.
+filter-key-not-found = Kunne ikke finde en krypteringsnøgle til ‘{ $desc }’.
+filter-warn-key-not-secret =
+    Advarsel - filterhandlingen "Krypter til nøgle" erstatter modtagerne.
+    Hvis du ikke har den hemmelige nøgle til '{ $desc }', kan du ikke længere læse disse mails.
 # Strings filtersWrapper.jsm
 filter-decrypt-move-label = Dekrypter permanent (OpenPGP)
+filter-encrypt-label = Krypter til nøgle (OpenPGP)
+# Strings in enigmailKeyImportInfo.js
+import-info-title =
+    .title = Succes! Nøgler importeret
+import-info-bits = Bits
+import-info-created = Oprettet
+import-info-fpr = Fingeraftryk
+import-info-details = Se detaljer og administrer nøgleaccept
+import-info-no-keys = Ingen nøgler importeret.
+# Strings in enigmailKeyManager.js
+import-from-clip = Vil du importere nøgler fra udklipsholderen?
+import-from-url = Download offentlig nøgle fra denne URL:
+copy-to-clipbrd-failed = Kunne ikke kopiere de(n) valgte nøgle(r) til udklipsholderen.
+copy-to-clipbrd-ok = Nøgle(r) kopieret til udklipsholder
+delete-secret-key =
+    ADVARSEL: Du er ved at slette en hemmelig nøgle!
+    
+    Hvis du sletter din hemmelige nøgle, vil du ikke længere kunne dekryptere meddelelser, der er krypteret til den nøgle, og du vil heller ikke kunne tilbagekalde den.
+    
+    Vil du virkelig slette BÅDE den hemmelige nøgle og den offentlige nøgle
+    '{ $userId }'?
+delete-mix =
+    ADVARSEL: Du er ved at slette hemmelige nøgler!
+    Hvis du sletter din hemmelige nøgle, vil du ikke længere kunne dekryptere meddelelser, der er krypteret til den nøgle.
+    Vil du virkelig slette BÅDE den valgte hemmelige og offentlige nøgle?
+delete-pub-key =
+    Vil du slette den offentlige nøgle
+    '{ $userId }'?
+delete-selected-pub-key = Vil du slette de offentlige nøgler?
+refresh-all-question = Du valgte ikke nogen nøgle. Vil du opdatere ALLE nøgler?
 
 ## Account settings export output
 
