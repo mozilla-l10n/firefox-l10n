@@ -49,6 +49,9 @@ toolbar-undelete-button =
 
 ## View
 
+menu-view-repair-text-encoding =
+    .label = Reparer tegnkodning
+    .accesskey = R
 
 ## View / Layout
 

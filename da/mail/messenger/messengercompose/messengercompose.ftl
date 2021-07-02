@@ -44,6 +44,9 @@ pill-action-move-cc =
 pill-action-move-bcc =
     .label = Flyt til Skjult kopi til (Bcc)
     .accesskey = B
+pill-action-expand-list =
+    .label = Udvid liste
+    .accesskey = U
 
 # Attachment widget
 
@@ -162,3 +165,6 @@ many-public-recipients-ignore =
 
 ## Notifications
 
+# Variables:
+# $identity (string) - The name of the used identity, most likely an email address.
+compose-missing-identity-warning = Der blev ikke fundet en unik identitet, der matchede Fra-adressen. Meddelelsen bliver sendt med det aktuelle Fra-adresse og indstillinger fra identiteten { $identity }.
