@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+e2e-intro-description = For at sende krypterede eller digitalt signerede meddelelser, skal du konfigurere en krypteringsteknologi, enten OpenPGP eller S/MIME.
+e2e-intro-description-more = Vælg din personlige nøgle for at aktivere brugen af OpenPGP, eller dit personlige certifikat for at aktivere brugen af S/MIME. Du ejer selv den tilsvarende hemmelige nøgle til en personlig nøgle eller et certifikat.
 openpgp-keygen-title-label =
     .title = Generer OpenPGP-nøgle
 openpgp-cancel-key =
@@ -368,7 +370,31 @@ converter-decrypt-body-failed =
 # Strings in gpg.jsm
 unknown-signing-alg = Ukendt signeringsalgoritme (ID: { $id })
 unknown-hash-alg = Ukendt kryptografisk hash (ID: { $id })
+# Strings in keyUsability.jsm
+expiry-key-expires-soon =
+    Din nøgle { $desc } udløber om mindre end { $days } dage.
+    Vi anbefaler, at du opretter et nyt nøglepar og indstiller de tilsvarende konti til at bruge det.
+expiry-keys-expire-soon =
+    De følgende af dine nøgler udløber om mindre end { $days } dage: { $desc }.
+    Vi anbefaler, at du opretter nye nøgler og indstiller de tilsvarende konti til at bruge dem.
+expiry-key-missing-owner-trust =
+    Din hemmelige nøgle { $desc } har manglende tillid.
+    Vi anbefaler, at du sætter "Du stoler på certificeringer" til "ultimativ" i nøgleegenskaber.
+expiry-keys-missing-owner-trust =
+    De følgende af dine hemmelige nøgler har manglende tillid.
+    { $desc }.
+    Vi anbefaler, at du indstiller "Du stoler på certificeringer" til "ultimativ" i nøgleegenskaber.
 expiry-open-key-manager = Åbn OpenPGP Nøgleadministration
+expiry-open-key-properties = Åbn nøgleegenskaber
+# Strings filters.jsm
+filter-folder-required = Du skal vælge en destinationsmappe.
+filter-decrypt-move-warn-experimental =
+    Advarsel - filterhandlingen "Dekrypter permanent" kan føre til ødelagte meddelelser.
+    Vi anbefaler kraftigt, at du først prøver filteret "Opret dekrypteret kopi", tester resultatet omhyggeligt og først begynder at bruge dette filter, når du er tilfreds med resultatet.
+filter-term-pgpencrypted-label = OpenPGP-krypteret
+filter-key-required = Du skal vælge en modtagernøgle.
+# Strings filtersWrapper.jsm
+filter-decrypt-move-label = Dekrypter permanent (OpenPGP)
 
 ## Account settings export output
 
