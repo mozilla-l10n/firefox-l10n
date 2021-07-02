@@ -90,10 +90,35 @@ msgevent-log-heartbeat-rcvd = Syke vastaanotettiin yhteyshenkilöltä { $name }.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-log-heartbeat-sent = Syke lähetetty yhteyshenkilölle { $name }.
+# Do not translate 'OTR' (name of an encryption protocol)
+msgevent-rcvdmsg-general-err = Odottamaton virhe yritettäessä suojata keskusteluasi OTR:llä.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+#   $msg (string) - the message that was received.
+msgevent-rcvdmsg-unencrypted = Seuraavaa yhteyshenkilöltä { $name } vastaanotettua viestiä ei salattu: { $msg }
+# Do not translate 'OTR' (name of an encryption protocol)
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg-unrecognized = Sait tunnistamattoman OTR-viestin yhteyshenkilöltä { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg-for-other-instance = { $name } on lähettänyt viestin, joka on tarkoitettu toiseen istuntoon. Jos olet kirjautunut sisään useita kertoja, toinen istunto on saattanut vastaanottaa viestin.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-gone-secure-private = Yksityinen keskustelu yhteyshenkilön { $name } kanssa alkoi.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-gone-secure-unverified = Salattu, mutta varmistamaton keskustelu yhteyshenkilön { $name } kanssa alkoi.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-still-secure = Salattu keskustelu yhteyshenkilön { $name } kanssa päivitettiin.
 error-enc = Viestin salaamisessa tapahtui virhe.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 error-not_priv = Lähetit salatut tiedot yhteyshenkilölle { $name }, joka ei odottanut niitä.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+error-not-priv = Lähetit salattuja tietoja henkilölle { $name }, joka ei odottanut niitä.
 error-unreadable = Lähetit lukukelvottoman salatun viestin.
 error-malformed = Lähetit väärän muotoisen dataviestin.
 resent = [uudelleen lähetetty]
