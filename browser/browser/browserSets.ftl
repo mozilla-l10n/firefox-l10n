@@ -82,7 +82,7 @@ nav-stop-shortcut =
 history-show-all-shortcut =
     .key = H
 history-show-all-shortcut-mac =
-    .key = H
+    .key = Y
 history-sidebar-shortcut =
     .key = h
 full-screen-shortcut =
@@ -120,7 +120,7 @@ bookmark-show-all-shortcut =
 # are recommended by the Human Interface Guidelines
 # of each platform for your locale.
 bookmark-show-library-shortcut =
-    .key = L
+    .key = O
 # Verify what shortcut for that operation
 # are recommended by the Human Interface Guidelines
 # of each platform for your locale.
@@ -130,7 +130,7 @@ bookmark-show-sidebar-shortcut =
 # are recommended by the Human Interface Guidelines
 # of each platform for your locale.
 bookmark-show-toolbar-shortcut =
-    .key = i
+    .key = B
 
 ## All `-alt*` messages are alternative acceleration keys for zoom.
 ## If shift key is needed with your locale popular keyboard for them,
