@@ -34,6 +34,7 @@ carddav-location-label =
 carddav-location =
     .default-placeholder = URL eller værtsnavn på adressebogs-serveren
 carddav-loading = Henter indstillinger…
+carddav-known-incompatible = { $url } er kendt for at være inkompatibel med { -brand-short-name }.
 carddav-connection-error = Kunne ikke forbinde.
 carddav-none-found = Fandt ingen adressebøger at tilføje for den pågældende konto.
 carddav-already-added = Alle adressebøger for den pågældende konto er allerede tilføjet.

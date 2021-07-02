@@ -11,6 +11,14 @@ menu-view-charset =
 
 ## Tools Menu
 
+# Since v89 we dropped the platforms distinction between Options or Preferences
+# and consolidated everything with Preferences.
+menu-tools-preferences =
+    .label = Indstillinger
+    .accesskey = n
+menu-addons-and-themes =
+    .label = Tilføjelser og temaer
+    .accesskey = T
 
 ## Help Menu
 
@@ -39,5 +47,20 @@ toolbar-undelete-button =
     .label = Fortryd sletning
     .tooltiptext = Fortryd sletning af valgte meddelelser
 
+## View
+
+
 ## View / Layout
 
+mail-uidensity-label =
+    .label = Tæthed
+    .accesskey = T
+mail-uidensity-compact =
+    .label = Kompakt
+    .accesskey = K
+mail-uidensity-normal =
+    .label = Normal
+    .accesskey = N
+mail-uidensity-touch =
+    .label = Touch
+    .accesskey = T
