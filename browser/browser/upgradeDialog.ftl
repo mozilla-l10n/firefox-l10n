@@ -66,6 +66,7 @@ upgrade-dialog-default-subtitle = Toute votre navigation rapide, sûre et confid
 upgrade-dialog-default-primary-button = Définir comme navigateur par défaut
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-default-title-2 = Faire de { -brand-short-name } votre navigateur par défaut
+upgrade-dialog-default-subtitle-2 = Laissez vitesse, sécurité et vie privée se configurer automatiquement.
 upgrade-dialog-default-primary-button-2 = Définir comme navigateur par défaut
 upgrade-dialog-default-secondary-button = Plus tard
 
@@ -75,6 +76,8 @@ upgrade-dialog-default-secondary-button = Plus tard
 upgrade-dialog-theme-title =
     Prenez un nouveau départ
     avec un thème mis à jour
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-theme-title-2 = Prenez un nouveau départ avec un thème rafraichi
 upgrade-dialog-theme-system = Thème du système
     .title = Suivre le thème du système pour les boutons, menus et fenêtres
 upgrade-dialog-theme-light = Clair

@@ -314,6 +314,7 @@ mr1-onboarding-sign-in-button-label = Connexion
 ## when Firefox is not default browser
 
 mr1-onboarding-default-header = Faire de { -brand-short-name } votre navigateur par défaut
+mr1-onboarding-default-subtitle = Laissez vitesse, sécurité et vie privée se configurer automatiquement.
 mr1-onboarding-default-primary-button-label = Définir comme navigateur par défaut
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
