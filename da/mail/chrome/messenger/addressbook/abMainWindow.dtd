@@ -48,6 +48,7 @@
 <!ENTITY editMenu.accesskey                             "R">
 <!ENTITY deleteCmd.label                                "Slet">
 <!ENTITY deleteAbCmd.label                              "Slet adressebog">
+<!ENTITY removeAbCmd.label                              "Fjern adressebog">
 <!ENTITY deleteContactCmd.label                         "Slet kontakt">
 <!ENTITY deleteContactsCmd.label                        "Slet kontakter">
 <!ENTITY deleteListCmd.label                            "Slet liste">
@@ -140,6 +141,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.label                            "Slet">
 <!ENTITY deleteButton2.accesskey                        "l">
 
+<!ENTITY removeButton.label                             "Fjern">
+<!ENTITY removeButton.accesskey                         "F">
+
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY columnChooser.tooltip                          "Vælg hvilke kolonner der skal vises">
 <!ENTITY newContactButton.tooltip                       "Opret en ny kontakt">
@@ -151,6 +155,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.tooltip                           "Skriv en ny meddelelse">
 <!ENTITY newIM.tooltip                                  "Send en &quot;instant message&quot; eller chat">
 <!ENTITY deleteButton2.tooltip                          "Slet valgte element">
+
+<!ENTITY removeButton.tooltip                           "Fjern den valgte adressebog">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Navn eller mail">
