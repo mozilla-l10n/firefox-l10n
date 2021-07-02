@@ -203,12 +203,96 @@ openpgp-key-man-filter-label =
     .placeholder = Søg efter nøgler
 openpgp-key-man-select-all-key =
     .key = A
+openpgp-key-man-key-details-key =
+    .key = I
+openpgp-key-details-title =
+    .title = Nøgleegenskaber
+openpgp-key-details-signatures-tab =
+    .label = Certificeringer
+openpgp-key-details-structure-tab =
+    .label = Struktur
+openpgp-key-details-uid-certified-col =
+    .label = Bruger-id / Certificeret af
+openpgp-key-details-user-id2-label = Angivet nøgleejer
+openpgp-key-details-id-label =
+    .label = Id
+openpgp-key-details-key-type-label = Type
+openpgp-key-details-key-part-label =
+    .label = Nøgledel
+openpgp-key-details-algorithm-label =
+    .label = Algoritme
+openpgp-key-details-size-label =
+    .label = Størrelse
+openpgp-key-details-created-label =
+    .label = Oprettet
+openpgp-key-details-created-header = Oprettet
+openpgp-key-details-expiry-label =
+    .label = Udløb
+openpgp-key-details-expiry-header = Udløb
+openpgp-key-details-usage-label =
+    .label = Brug
+openpgp-key-details-fingerprint-label = Fingeraftryk
+openpgp-key-details-sel-action =
+    .label = Vælg handling...
+    .accesskey = V
+openpgp-key-details-also-known-label = Nøgleejerens angivne alternative identiteter:
+openpgp-card-details-close-window-label =
+    .buttonlabelaccept = Luk
+openpgp-acceptance-label =
+    .label = Din accept
+openpgp-acceptance-rejected-label =
+    .label = Nej, afvis denne nøgle.
+openpgp-acceptance-undecided-label =
+    .label = Ikke endnu, måske senere.
+openpgp-acceptance-unverified-label =
+    .label = Ja, men jeg har ikke verificeret, at det er den rigtige nøgle.
+openpgp-acceptance-verified-label =
+    .label = Ja, jeg har personligt bekræftet, at denne nøgle har det rigtige fingeraftryk.
+key-accept-personal =
+    Til denne nøgle har du både den offentlige og den hemmelige del. Du kan bruge den som en personlig nøgle.
+    Hvis du har fået denne nøgle af en anden, skal du ikke bruge den som en personlig nøgle.
+key-personal-warning = Oprettede du selv denne nøgle, og henviser det viste nøgleejerskab til dig selv?
+openpgp-personal-no-label =
+    .label = Nej, brug den ikke som min personlige nøgle.
+openpgp-personal-yes-label =
+    .label = Ja, behandl denne nøgle som en personlig nøgle.
+openpgp-copy-cmd-label =
+    .label = Kopier
 
 ## e2e encryption settings
 
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description =
+    { $count ->
+        [0] Thunderbird har ingen personlig OpenPGP-nøgle for <b>{ $identity }</b>
+        [one] Thunderbird fandt { $count } personlig OpenPGP-nøgle knyttet til <b>{ $identity }</b>
+       *[other] Thunderbird fandt { $count } personlige OpenPGP-nøgler knyttet til <b>{ $identity }</b>
+    }
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status =
+    { $count ->
+        [0] Vælg en gyldig nøgle for at aktivere OpenPGP-protokollen.
+       *[other] Din nuværende konfiguration benytter nøgle-id'et <b>{ $key }</b>
+    }
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status-have-key = Din nuværende konfiguration bruger nøgle-id <b>{ $key }</b>
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status-error = Din nuværende konfiguration bruger nøglen <b>{ $key }</b>, som er udløbet.
+openpgp-add-key-button =
+    .label = Tilføj nøgle...
+    .accesskey = T
+e2e-learn-more = Læs mere
+openpgp-keygen-success = OpenPGP-nøgle oprettet!
+openpgp-keygen-import-success = OpenPGP-nøgler importeret!
+openpgp-keygen-external-success = Eksternt GnuPG-nøgle-id gemt!
 
 ## OpenPGP Key selection area
 
+openpgp-radio-none =
+    .label = Ingen
+openpgp-radio-none-desc = Benyt ikke OpenPGP til denne identitet.
 expiry-open-key-manager = Åbn OpenPGP Nøgleadministration
 
 ## Account settings export output
