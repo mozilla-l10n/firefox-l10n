@@ -64,12 +64,12 @@ msgevent-encryption-required-part2 = 將嘗試進行私人對話，將在私人�
 msgevent-encryption-error = 加密訊息時發生錯誤，訊息並未送出。
 # Variables:
 #   $name (String) - the screen name of a chat contact person
-msgevent-connection-ended = { $name } 已關閉了與您之間的加密連線。為了避免您意外送出未經加密的訊息，並未送出您的訊息。請結束或重新開始您的加密對話。
+msgevent-connection-ended = { $name } 已關閉了與您之間的加密連線。為了避免您意外送出未經加密的訊息，並未送出您的訊息。請結束或重新開始加密對話。
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-setup-error = 建立與 { $name } 之間的私人對話時發生錯誤。
 # Do not translate 'OTR' (name of an encryption protocol)
-msgevent-msg-reflected = 您接收到來自您自己的 OTR 訊息，不是您正在跟自己說話，就是有人將訊息反射回來給您。
+msgevent-msg-reflected = 您接收到來自您自己的 OTR 訊息。不是您正在自言自語，就是有人將訊息反射回來給您。
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-msg-resent = 已重發上一封給 { $name } 的訊息。
@@ -105,7 +105,7 @@ msgevent-rcvdmsg-unrecognized = 您收到來自 { $name } 的無法識別的 OTR
 msgevent-rcvdmsg-for-other-instance = { $name } 送出了要發給不同使用階段的訊息。若您在多個地方登入，其他的使用階段可能也收到了該封訊息。
 # Variables:
 #   $name (String) - the screen name of a chat contact person
-context-gone-secure-private = 已開始與 { $name } 的私人對話。
+context-gone-secure-private = 與 { $name } 的私人對話開始。
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 context-gone-secure-unverified = 與 { $name } 有加密，但未經驗證的對話開始。
