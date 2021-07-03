@@ -32,3 +32,5 @@ third-party-warning-icon =
     .title = { -brand-short-name } зведаў крах ў кодзе з гэтага модуля
 third-party-status-loaded = Загружаны
 third-party-status-blocked = Заблакаваны
+third-party-status-redirected = Перанакіраваны
+third-party-button-copy-to-clipboard = Скапіяваць сырыя дадзеныя ў буфер абмену
