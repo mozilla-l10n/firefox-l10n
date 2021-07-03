@@ -43,6 +43,8 @@ about-processes-vr-process-name = VR (працэс { $pid })
 about-processes-rdd-process-name = Дэкодэр дадзеных (працэс { $pid })
 about-processes-socket-process-name = Сетка (працэс { $pid })
 about-processes-remote-sandbox-broker-process-name = Аддалены брокер пясочніцы (працэс { $pid })
+about-processes-fork-server-process-name = Форк-сервер (працэс { $pid })
+about-processes-preallocated-process-name = Загадзя выдзелены (працэс { $pid })
 about-processes-unknown-process-name = Іншае ({ $type }, працэс { $pid })
 # Process
 # Variables:
@@ -55,6 +57,7 @@ about-processes-process-name = Працэс { $pid }: { $name }
 ##    $pid (String) The process id of this process, assigned by the OS.
 
 about-processes-browser-process = { -brand-short-name } ({ $pid })
+about-processes-web-process = Супольны вэб-працэс ({ $pid })
 about-processes-file-process = Файлы ({ $pid })
 about-processes-extension-process = Пашырэнні ({ $pid })
 about-processes-privilegedabout-process = Старонкі Аbout ({ $pid })
@@ -65,6 +68,8 @@ about-processes-gpu-process = GPU ({ $pid })
 about-processes-vr-process = VR ({ $pid })
 about-processes-rdd-process = Дэкодэр дадзеных ({ $pid })
 about-processes-socket-process = Сетка ({ $pid })
+about-processes-remote-sandbox-broker-process = Аддалены брокер пясочніцы ({ $pid })
+about-processes-fork-server-process = Форк-сервер ({ $pid })
 about-processes-preallocated-process = Загадзя выдзелены ({ $pid })
 # Unknown process names
 # Variables:
@@ -79,9 +84,58 @@ about-processes-unknown-process = Іншае: { $type } ({ $pid })
 
 about-processes-web-isolated-process = { $origin } ({ $pid })
 about-processes-web-large-allocation-process = { $origin } ({ $pid }, вялікі)
+about-processes-with-coop-coep-process = { $origin } ({ $pid }, ізаляваны ад іншых крыніц)
+about-processes-web-isolated-process-private = { $origin } — Прыватны ({ $pid })
+about-processes-web-large-allocation-process-private = { $origin } — Прыватны ({ $pid }, вялікі)
+about-processes-with-coop-coep-process-private = { $origin } — Прыватны ({ $pid }, ізаляваны ад іншых крыніц)
 
 ## Details within processes
 
+# Single-line summary of threads
+# Variables:
+#    $number (Number) The number of threads in the process. Typically larger
+#                     than 30. We don't expect to ever have processes with less
+#                     than 5 threads.
+about-processes-thread-summary = Патокі ({ $number })
+# Thread details
+# Variables:
+#   $name (String) The name assigned to the thread.
+#   $tid (String) The thread id of this thread, assigned by the OS.
+about-processes-thread-name = Паток { $tid }: { $name }
+# Single-line summary of threads (non-idle process)
+# Variables:
+#    $number (Number) The number of threads in the process. Typically larger
+#                     than 30. We don't expect to ever have processes with less
+#                     than 5 threads.
+#    $active (Number) The number of active threads in the process.
+#                     The value will be greater than 0 and will never be
+#                     greater than $number.
+#    $list (String) Comma separated list of active threads.
+#                   Can be an empty string if the process is idle.
+about-processes-active-threads =
+    { $active ->
+        [one] { $active } актыўны паток з { $number }: { $list }
+        [few] { $active } актыўныя патокі з { $number }: { $list }
+       *[many] { $active } актыўных патокаў з { $number }: { $list }
+    }
+# Single-line summary of threads (idle process)
+# Variables:
+#    $number (Number) The number of threads in the process. Typically larger
+#                     than 30. We don't expect to ever have processes with less
+#                     than 5 threads.
+#                     The process is idle so all threads are inactive.
+about-processes-inactive-threads =
+    { $number ->
+        [one] { $number } неактыўны паток
+        [few] { $number } неактыўныя патокі
+       *[many] { $number } неактыўных патокаў
+    }
+# Thread details
+# Variables:
+#   $name (String) The name assigned to the thread.
+#   $tid (String) The thread id of this thread, assigned by the OS.
+about-processes-thread-name-and-id = { $name }
+    .title = id патоку: { $tid }
 # Tab
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
