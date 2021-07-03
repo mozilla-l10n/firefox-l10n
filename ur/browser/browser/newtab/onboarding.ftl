@@ -154,6 +154,7 @@ onboarding-multistage-welcome-secondary-button-label = سائن ان کریں
 onboarding-multistage-welcome-secondary-button-text = کیا آپ کا اکاؤنٹ ہے؟
 onboarding-multistage-set-default-primary-button-label = طے شدہ بنائیں
 onboarding-multistage-set-default-secondary-button-label = ابھی نہیں
+onboarding-multistage-pin-default-primary-button-label = { -brand-short-name } کو میرا بنیادی برائوزر بنائیں
 onboarding-multistage-import-subtitle = کسی دوسرے براؤزر سے آرہے ہیں؟ سب چیزوں کو { -brand-short-name } پر لانا آسان ہے۔
 onboarding-multistage-import-primary-button-label = درآمد شروع کریں
 onboarding-multistage-import-secondary-button-label = ابھی نہیں
