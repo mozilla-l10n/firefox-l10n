@@ -190,7 +190,7 @@ about-logins-confirm-export-dialog-title = Изнасяне на регистр�
 about-logins-confirm-export-dialog-message = Вашите пароли ще бъдат запазени като четим текст (например Лош@Пар0ла), така че всеки, който има достъп до изнесения файл ще може да ги види.
 about-logins-confirm-export-dialog-confirm-button = Изнасяне…
 about-logins-alert-import-title = Внасянето е завършено
-about-logins-alert-import-message = Подробен доклад за процеса
+about-logins-alert-import-message = Подробен отчет за внасянето
 confirm-discard-changes-dialog-title = Отказвате се от промените?
 confirm-discard-changes-dialog-message = Незапазените промени ще бъдат изгубени.
 confirm-discard-changes-dialog-confirm-button = Отхвърляне
@@ -285,7 +285,9 @@ about-logins-import-dialog-items-error =
 about-logins-import-dialog-done = Готово
 about-logins-import-dialog-error-title = Грешка при внасяне
 about-logins-import-dialog-error-conflicting-values-title = Множество конфликтни стойности за една регистрация
+about-logins-import-dialog-error-conflicting-values-description = Например: множество потребителски имена, пароли, адреси и т.н. за една регистрация.
 about-logins-import-dialog-error-file-format-title = Проблем с формата на файла
+about-logins-import-dialog-error-file-format-description = Неправилна или липсваща заглавна част на колона. Уверете се, че файлът включва колони за потребителско име, парола и адрес.
 about-logins-import-dialog-error-file-permission-title = Грешка при прочитане на файл
 about-logins-import-dialog-error-file-permission-description = { -brand-short-name } няма права за четене върху файла. Променете правата на файла.
 about-logins-import-dialog-error-unable-to-read-title = Грешка при анализ на файл
@@ -294,6 +296,7 @@ about-logins-import-dialog-error-no-logins-imported = Не са внесени �
 about-logins-import-dialog-error-learn-more = Научете повече
 about-logins-import-dialog-error-try-import-again = Опитайте внасянето отново ...
 about-logins-import-dialog-error-cancel = Отказ
+about-logins-import-report-title = Отчет за внасянето
 #
 # Variables:
 #  $number (number) - The number of the row
@@ -314,4 +317,4 @@ about-logins-import-report-row-description-error-missing-field = Грешка: �
 
 ## Logins import report page
 
-about-logins-import-report-page-title = Обобщен отчет за внасяне
+about-logins-import-report-page-title = Отчет за внасянето
