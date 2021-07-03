@@ -46,6 +46,12 @@ toolbar-undelete-button =
     .label = 削除を元に戻す
     .tooltiptext = メッセージの削除を元に戻します
 
+## View
+
+menu-view-repair-text-encoding =
+    .label = テキストエンコーディングを修復
+    .accesskey = c
+
 ## View / Layout
 
 mail-uidensity-label =
