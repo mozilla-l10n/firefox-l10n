@@ -28,16 +28,21 @@ about-processes-column-cpu-total = ЦП
 ##    $type (String) The raw type for this process. Used for unknown processes.
 
 about-processes-browser-process-name = { -brand-short-name } (працэс { $pid })
+about-processes-web-process-name = Вэб (працэс { $pid }, супольны)
 about-processes-web-isolated-process-name = Вэб (працэс { $pid }) для { $origin }
 about-processes-web-large-allocation = Вэб (працэс { $pid }, буйны) для { $origin }
+about-processes-with-coop-coep-process-name = Вэб (працэс { $pid }, ізаляваны ад іншых крыніц) для { $origin }
 about-processes-file-process-name = Файлы (працэс { $pid })
 about-processes-extension-process-name = Пашырэнні (працэс { $pid })
+about-processes-privilegedabout-process-name = Старонкі About (працэс { $pid })
 about-processes-plugin-process-name = Плагіны (працэс { $pid })
 about-processes-privilegedmozilla-process-name = Вэб (працэс { $pid }) для сайтаў { -vendor-short-name }
+about-processes-gmp-plugin-process-name = Медыя-плагіны Gecko (працэс { $pid })
 about-processes-gpu-process-name = GPU (працэс { $pid })
 about-processes-vr-process-name = VR (працэс { $pid })
 about-processes-rdd-process-name = Дэкодэр дадзеных (працэс { $pid })
 about-processes-socket-process-name = Сетка (працэс { $pid })
+about-processes-remote-sandbox-broker-process-name = Аддалены брокер пясочніцы (працэс { $pid })
 about-processes-unknown-process-name = Іншае ({ $type }, працэс { $pid })
 # Process
 # Variables:
