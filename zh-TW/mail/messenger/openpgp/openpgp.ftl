@@ -358,7 +358,7 @@ unknown-hash-alg = 未知的加密雜湊值（ID: { $id }）
 # Strings in keyUsability.jsm
 expiry-key-expires-soon = 您的金鑰 { $desc } 將於 { $days } 天內到期。建議您打一把新的金鑰，並且設定好對應帳號來使用。
 expiry-keys-expire-soon = 您的下列金鑰將於 { $days } 天內到期: { $desc }。建議您打新的金鑰，並且設定好對應帳號來使用。
-expiry-key-missing-owner-trust = 您對私鑰缺少信任設定。建議您到金鑰屬性中，將「金鑰信任程度」設定為「完全信任」。
+expiry-key-missing-owner-trust = 您的私鑰 { $desc } 缺少信任設定。建議您到金鑰屬性中，將「金鑰信任程度」設定為「完全信任」。
 expiry-keys-missing-owner-trust = 下列私鑰缺少信任設定: { $desc }。建議您到金鑰屬性中，將「金鑰信任程度」設定為「完全信任」。
 expiry-open-key-manager = 開啟 OpenPGP 金鑰管理員
 expiry-open-key-properties = 開啟金鑰屬性
