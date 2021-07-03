@@ -6,11 +6,11 @@
 ## App Menu
 
 appmenuitem-update-banner3 =
-    .label-update-downloading = Изтегляне на обновяване за { -brand-shorter-name }
-    .label-update-available = Налично е обновяване – изтеглете
-    .label-update-manual = Налично е обновяване – изтеглете
-    .label-update-unsupported = Налично е обновяване – несъвместима система
-    .label-update-restart = Налично е обновяване – рестартирайте
+    .label-update-downloading = Изтегляне на обновление за { -brand-shorter-name }
+    .label-update-available = Има обновление – изтеглете
+    .label-update-manual = Има обновление – изтеглете
+    .label-update-unsupported = Има обновление – несъвместима система
+    .label-update-restart = Има обновление – рестартирайте
 appmenuitem-protection-dashboard-title = Табло със защити
 appmenuitem-customize-mode =
     .label = Приспособяване…
