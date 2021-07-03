@@ -4,9 +4,6 @@
 
 <!-- Title -->
 <!ENTITY addressbookWindow.title                        "通訊錄">
-
-<!-- Menus:  the . means that the menu item isn't implemented yet -->
-
 <!ENTITY blankResultsPaneMessage.label                  "進行搜尋後才會顯示此通訊錄的聯絡人">
 <!ENTITY localResultsOnlyMessage.label                  "在您進行搜尋前將不會顯示遠端通訊錄中的聯絡人">
 <!-- File Menu -->
@@ -54,13 +51,12 @@
 <!ENTITY showContactPane2.accesskey                     "C">
 <!ENTITY menu_ShowNameAs.label                          "姓名顯示方式">
 <!ENTITY menu_ShowNameAs.accesskey                      "N">
-<!ENTITY firstLastCmd.label                             "[名] [姓] (英式)">
+<!ENTITY firstLastCmd.label                             "[名] [姓]（英式）">
 <!ENTITY firstLastCmd.accesskey                         "F">
-<!ENTITY lastFirstCmd.label                             "[姓][名] (中式)">
+<!ENTITY lastFirstCmd.label                             "[姓][名]（中式）">
 <!ENTITY lastFirstCmd.accesskey                         "L">
 <!ENTITY displayNameCmd.label                           "顯示名稱">
 <!ENTITY displayNameCmd.accesskey                       "D">
-
 <!-- LOCALIZATION NOTE (toggleDirectoryPaneCmd.key): This is only used on the
      mac platform, other platforms use VK_F9. -->
 <!ENTITY toggleDirectoryPaneCmd.key                     "S">
@@ -98,8 +94,6 @@
 <!ENTITY newIM.tooltip                                  "傳送即時訊息或聊天">
 <!ENTITY printButton.tooltip                            "列印選取的項目">
 <!ENTITY deleteItemButton.tooltip                       "刪除選取的項目">
-<!ENTITY throbber.tooltip                               "&vendorShortName; 的首頁">
-<!ENTITY throbber.tooltip2                              "前往 &brandShortName; 首頁">
 <!ENTITY advancedButton.tooltip                         "進階地址搜尋">
 
 <!-- Dir Tree header -->

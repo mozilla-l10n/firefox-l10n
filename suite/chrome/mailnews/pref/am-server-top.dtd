@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from am-server-top.xul -->
-
 <!ENTITY messageStorage.label "郵件儲存">
 <!ENTITY securitySettings.label "安全設定">
 <!ENTITY serverSettings.label "伺服器設定">
@@ -31,7 +29,7 @@
 <!ENTITY connectionSecurityType-1.label "嘗試使用 STARTTLS">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
-<!ENTITY authMethod.label "認證方式:">
+<!ENTITY authMethod.label "驗證方式:">
 <!ENTITY authMethod.accesskey "i">
 <!ENTITY leaveOnServer.label "不刪除伺服器上的郵件">
 <!ENTITY leaveOnServer.accesskey "g">
@@ -44,7 +42,6 @@
 <!ENTITY deleteOnServer2.accesskey "d">
 <!ENTITY downloadOnBiff.label "自動下載所有新郵件或文章">
 <!ENTITY downloadOnBiff.accesskey "m">
-<!ENTITY username.label "您的帳號名稱">
 <!ENTITY deleteMessagePrefix.label "當我刪除郵件時:">
 <!ENTITY modelMoveToTrash.label "移動到此資料夾:">
 <!ENTITY modelMoveToTrash.accesskey "o">
@@ -60,8 +57,8 @@
 <!ENTITY loginAtStartup.label "啟動時檢查有無新郵件或文章">
 <!ENTITY loginAtStartup.accesskey "C">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
-    maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
-	 of messages between them
+     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
+     of messages between them
 -->
 <!ENTITY maxMessagesStart.label "要下載超過">
 <!ENTITY maxMessagesStart.accesskey "m">
@@ -90,4 +87,3 @@
 <!ENTITY storeType.accesskey "T">
 <!ENTITY mboxStore2.label "為每個信件匣建立一個檔案（mbox）">
 <!ENTITY maildirStore.label "為每封訊息建立檔案（maildir）">
-
