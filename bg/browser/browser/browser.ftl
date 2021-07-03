@@ -333,6 +333,7 @@ identity-https-only-dropdown-off =
 identity-https-only-dropdown-off-temporarily =
     .label = Временно изключено
 identity-https-only-info-turn-on2 = Включете режима „Само HTTPS“ за този сайт, ако искате { -brand-short-name } да надгради връзката, когато е възможно.
+identity-https-only-info-turn-off2 = Ако страницата изглежда счупена би трябвало да изключите режима „само HTTPS“ за сайта, за да бъде презареден през незащитения протокол HTTP.
 identity-https-only-info-no-upgrade = Връзката не може да бъде превключена от HTTP.
 identity-permissions-storage-access-header = Бисквитки между сайтове
 identity-permissions-storage-access-hint = Тези страни могат да ползват бисквитки между сайтовете и данни от сайта, докато сте на него.
