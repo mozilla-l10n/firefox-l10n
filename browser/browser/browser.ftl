@@ -181,8 +181,6 @@ page-action-send-tabs-urlbar =
             [one] Sendi langeton al aparato
            *[other] Sendi { $tabCount } langetojn al aparato
         }
-page-action-pocket-panel =
-    .label = Konservi paĝon en { -pocket-brand-name }
 page-action-copy-url-panel =
     .label = Kopii ligilon
 page-action-copy-url-urlbar =
@@ -439,6 +437,8 @@ popup-select-microphone-device =
     .accesskey = M
 popup-select-microphone-icon =
     .tooltiptext = Mikrofono
+popup-select-speaker-icon =
+    .tooltiptext = Laŭtparoliloj
 popup-all-windows-shared = Ĉiuj videblaj fenestroj en via ekrano estos dividitaj.
 popup-screen-sharing-not-now =
     .label = Ne nun
@@ -612,8 +612,6 @@ crashed-subframe-submit =
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = Montri ĉiujn legosignojn
 bookmarks-manage-bookmarks =
     .label = Administri legosignojn
 bookmarks-recent-bookmarks-panel-subheader = Ĵusaj legosignoj
@@ -686,6 +684,12 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = Konservi en { -pocket-brand-name }
     .tooltiptext = Konservi en { -pocket-brand-name }
+
+## Repair text encoding toolbar button
+
+repair-text-encoding-button =
+    .label = Ripari tekstan enkodigon
+    .tooltiptext = Eltrovi ĝustan tekstan enkodigon surbaze de la enhavo de la paĝo
 
 ## Customize Toolbar Buttons
 
