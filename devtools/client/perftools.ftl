@@ -101,6 +101,8 @@ perftools-thread-js-helper =
 ##
 
 perftools-record-all-registered-threads = Iгнараваць абранае вышэй і запісваць усе зарэгістраваныя патокі
+perftools-tools-threads-input-label =
+    .title = Гэтыя назвы патокаў уяўляюць сабой пералік, падзелены коскамі, які ўжываецца для ўключэння прафілявання патокаў у прафайлеры. Назва можа толькі часткова адпавядаць назве патоку для ўключэння. Прабелы ўлічваюцца.
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
