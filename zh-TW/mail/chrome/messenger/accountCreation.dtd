@@ -13,7 +13,7 @@
 <!ENTITY email.accesskey                 "l">
 <!ENTITY email3.placeholder              "您的電子郵件地址">
 <!ENTITY email.text                      "您目前的電子郵件地址">
-<!ENTITY email.error                     "無效的電子郵件地址">
+<!ENTITY email.error                     "電子郵件地址無效">
 <!ENTITY password.label                  "密碼:">
 <!ENTITY password.accesskey              "P">
 <!ENTITY password.placeholder            "密碼">

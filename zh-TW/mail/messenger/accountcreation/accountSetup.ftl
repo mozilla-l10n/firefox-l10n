@@ -29,7 +29,7 @@ account-setup-email-input =
 account-setup-email-info-icon =
     .title = 您目前的電子郵件地址
 account-setup-email-warning-icon =
-    .title = { account-setup-email-warning }
+    .title = 電子郵件地址無效
 account-setup-password-label = 密碼
     .accesskey = P
     .title = 非必填，只用來驗證使用者名稱是否正確
@@ -168,7 +168,7 @@ ssl-encrypted-password-option = 加密過的密碼
 ## Incoming/Outgoing SSL options
 
 ssl-noencryption-option = 無
-account-setup-auth-label = 認證方式:
+account-setup-auth-label = 驗證方式:
 account-setup-username-label = 使用者名稱:
 account-setup-advanced-setup-button = 進階設定
     .accesskey = A
@@ -181,7 +181,7 @@ account-setup-insecure-outgoing-title = 寄件設定:
 # Variables:
 #  $server (String): The name of the hostname of the server the user was trying to connect to.
 account-setup-warning-cleartext = <b>{ $server }</b> 未加密連線。
-account-setup-warning-cleartext-details = 不安全的郵件伺服器並不會透過加密連線來保護您的密碼和隱私資料。 連線到這個伺服器很可能讓您的密碼以及隱私資料曝光。
+account-setup-warning-cleartext-details = 不安全的郵件伺服器並不會透過加密連線來保護您的密碼和隱私資料。連線到這個伺服器很可能讓您的密碼以及隱私資料曝光。
 account-setup-insecure-server-checkbox = 我了解風險
     .accesskey = u
 account-setup-insecure-description = { -brand-short-name } 可讓您使用剛輸入的設定值來收信。但您仍應連絡系統管理員或電子郵件業者，確認是否有正確的連線參數可用。若需更多資訊，請參考 <a data-l10n-name="thunderbird-faq-link">Thunderbird 常見問題</a>。
