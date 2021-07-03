@@ -245,13 +245,13 @@
 <!ENTITY event.priority2.label                            "重要性:">
 
 <!ENTITY event.reminder.none.label                        "不提醒" >
-<!ENTITY event.reminder.0minutes.before.label             "0 分鐘前" >
+<!ENTITY event.reminder.0minutes.before.label             "在 0 分鐘之前" >
 <!ENTITY event.reminder.5minutes.before.label             "在 5 分鐘之前" >
 <!ENTITY event.reminder.15minutes.before.label            "在 15 分鐘之前" >
 <!ENTITY event.reminder.30minutes.before.label            "在 30 分鐘之前" >
 <!ENTITY event.reminder.1hour.before.label                "在 1 小時之前" >
 <!ENTITY event.reminder.2hours.before.label               "在 2 小時之前" >
-<!ENTITY event.reminder.12hours.before.label              "在 12 小時前" >
+<!ENTITY event.reminder.12hours.before.label              "在 12 小時之前" >
 <!ENTITY event.reminder.1day.before.label                 "在 1 天之前" >
 <!ENTITY event.reminder.2days.before.label                "在 2 天之前" >
 <!ENTITY event.reminder.1week.before.label                "在 1 星期之前" >
@@ -379,7 +379,7 @@
 <!ENTITY event.freebusy.legend.free             "空閒" >
 <!ENTITY event.freebusy.legend.busy             "忙碌" >
 <!ENTITY event.freebusy.legend.busy_tentative   "暫定" >
-<!ENTITY event.freebusy.legend.busy_unavailable "忙碌中" >
+<!ENTITY event.freebusy.legend.busy_unavailable "不在辦公室" >
 <!ENTITY event.freebusy.legend.unknown          "不明" >
 <!ENTITY event.attendee.role.required           "必須與會者">
 <!ENTITY event.attendee.role.optional           "非必要與會者">
