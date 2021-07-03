@@ -767,11 +767,11 @@ sync-engine-prefs =
             [windows] 選項
            *[other] 偏好設定
         }
-    .tooltiptext = 您調整過的一般、隱私權、安全性設定
+    .tooltiptext = 您調整過的一般、隱私權與安全性選項
     .accesskey = s
 sync-engine-settings =
     .label = 選項
-    .tooltiptext = 您更改過的一般、隱私權與安全性選項
+    .tooltiptext = 您調整過的一般、隱私權與安全性選項
     .accesskey = s
 
 ## The device name controls.
