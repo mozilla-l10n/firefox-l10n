@@ -173,6 +173,9 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = Teksta enkodigo
     .accesskey = T
+menu-view-repair-text-encoding =
+    .label = Ripari tekstan enkodigon
+    .accesskey = R
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -227,6 +230,8 @@ menu-bookmarks-show-all =
     .label = Montri ĉiujn legosignojn
 menu-bookmark-this-page =
     .label = Aldoni legosignon por tiu ĉi paĝo
+menu-bookmarks-manage =
+    .label = Administri legosignojn
 menu-bookmark-current-tab =
     .label = Aldoni legosignon por la nuna langeto
 menu-bookmark-edit =
@@ -254,15 +259,15 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Komenci seancon en { -brand-product-name }…
     .accesskey = K
+menu-tools-turn-on-sync =
+    .label = Ŝalto de { -sync-brand-short-name }…
+    .accesskey = a
 menu-tools-addons-and-themes =
     .label = Aldonaĵoj kaj etosoj
     .accesskey = A
 menu-tools-fxa-sign-in2 =
     .label = Komenci seancon
     .accesskey = s
-menu-tools-turn-on-sync =
-    .label = Ŝalto de { -sync-brand-short-name }…
-    .accesskey = a
 menu-tools-turn-on-sync2 =
     .label = Ŝalti speguladon…
     .accesskey = s
@@ -287,13 +292,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Informo pri paĝo
     .accesskey = I
-menu-settings =
-    .label = Agordoj
-    .accesskey =
-        { PLATFORM() ->
-            [windows] A
-           *[other] A
-        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -304,6 +302,13 @@ menu-preferences =
         { PLATFORM() ->
             [windows] O
            *[other] P
+        }
+menu-settings =
+    .label = Agordoj
+    .accesskey =
+        { PLATFORM() ->
+            [windows] A
+           *[other] A
         }
 menu-tools-layout-debugger =
     .label = Erarserĉilo de aranĝo
@@ -342,14 +347,12 @@ menu-help-import-from-another-browser =
 menu-help-keyboard-shortcuts =
     .label = Alirklavoj
     .accesskey = A
-menu-get-help =
-    .label = Helpo
-    .accesskey = H
 menu-help-troubleshooting-info =
     .label = Informoj por solvado de problemoj
     .accesskey = I
-menu-help-taskmanager =
-    .label = Administrilo de taskoj
+menu-get-help =
+    .label = Helpo
+    .accesskey = H
 menu-help-more-troubleshooting-info =
     .label = Pli da problemsolva informo
     .accesskey = p

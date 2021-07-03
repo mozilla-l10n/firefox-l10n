@@ -159,6 +159,7 @@ language-name-ru = Rusa
 language-name-rw = Kinjarvanda
 language-name-sa = Sanskrito
 language-name-sc = Sardina
+language-name-sco = Skota
 language-name-sd = Sinda
 language-name-se = Nord-samia
 language-name-sg = Sangoa
