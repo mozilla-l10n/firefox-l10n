@@ -333,6 +333,7 @@ identity-https-only-dropdown-off =
 identity-https-only-dropdown-off-temporarily =
     .label = Муваққатан ғайрифаъол
 identity-https-only-info-turn-on2 = Агар шумо хоҳед, ки { -brand-short-name } пайвастшавиро ба қадри имкон такмил диҳад, реҷаи танҳо HTTPS-ро барои ин сомона фаъол кунед.
+identity-https-only-info-turn-off2 = Агар саҳифа вайроншуда ба назар расад, шумо метавонед барои аз нав бор кардани ин сомона бо истифодаи HTTP-и беэътимод реҷаи танҳо HTTPS-ро хомӯш кунед.
 identity-https-only-info-no-upgrade = Иваз кардани пайвастшавӣ аз HTTP ғайриимкон аст.
 identity-permissions-storage-access-header = Кукиҳои байнисомонавӣ
 identity-permissions-storage-access-learn-more = Маълумоти бештар
@@ -346,6 +347,7 @@ identity-ev-owner-label = Гувоҳинома дода шуд ба:
 identity-remove-cert-exception =
     .label = Тоза кардани истисно
     .accesskey = Т
+identity-description-weak-cipher-risk = Одамони дигар метавонанд маълумоти шуморо бинанд ё рафтори сомонаро тағйир диҳанд.
 identity-learn-more =
     .value = Маълумоти бештар
 identity-disable-mixed-content-blocking =
@@ -653,6 +655,9 @@ save-to-pocket-button =
 
 ## Repair text encoding toolbar button
 
+repair-text-encoding-button =
+    .label = Ислоҳкунии рамзгузории матн
+    .tooltiptext = Рамзгузории матни дурустро аз муҳтавои саҳифа пешниҳод мекунад
 
 ## Customize Toolbar Buttons
 
