@@ -87,6 +87,16 @@ perftools-thread-paint-worker =
     .title = Паток, у якім адбываецца прамалёўка, калі ўключана маляванне па-за асноўным патокам
 perftools-thread-style-thread =
     .title = Вылічэнне стыляў падзелена на некалькі патокаў
+pref-thread-stream-trans =
+    .title = Сеткавы патокавы транспарт
+perftools-thread-socket-thread =
+    .title = Паток, у якім сеткавы код выконвае любыя выклікі, якія блакуюць сокеты
+perftools-thread-img-decoder =
+    .title = Патокі дэкадавання відарысаў
+perftools-thread-dns-resolver =
+    .title = У гэтым патоку адбываецца вызначэнне DNS
+perftools-thread-js-helper =
+    .title = Фонавая праца JS-рухавіка, напрыклад, кампіляцыя па-за асноўным патокам
 
 ##
 
