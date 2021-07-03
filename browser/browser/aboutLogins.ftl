@@ -77,6 +77,7 @@ login-intro-instruction-fxa = Създайте или влезте в своят
 login-intro-instruction-fxa-settings = Уверете се, че сте отметнали квадратчето за входни данни в настройките на { -sync-brand-short-name }
 about-logins-intro-instruction-help = Посетете <a data-l10n-name="help-link">Поддръжка за { -lockwise-brand-short-name }</a> за повече помощ.
 login-intro-instructions-fxa = Създайте или влезте в своята { -fxaccount-brand-name } на устройството, където са запазени вашите данни за вход
+login-intro-instructions-fxa-settings = Отидете в "Настройки" > Sync > Включване на синхронизиране… Изберете отметката за регистрации и пароли.
 login-intro-instructions-fxa-help = Посетете <a data-l10n-name="help-link">Поддръжка за { -lockwise-brand-short-name }</a> за повече помощ.
 about-logins-intro-import = Ако вашите регистрации са запазени в друг мрежов четец, можете да ги <a data-l10n-name="import-link">внесете във { -lockwise-brand-short-name }</a>.
 about-logins-intro-import2 = Ако вашите данни за вписване се съхраняват извън { -brand-product-name }, можете <a data-l10n-name="import-browser-link">да ги внесете от друг четец</a> или <a data-l10n-name="import-file-link">от файл</a>
@@ -284,6 +285,7 @@ about-logins-import-dialog-items-error =
 about-logins-import-dialog-done = Готово
 about-logins-import-dialog-error-title = Грешка при внасяне
 about-logins-import-dialog-error-conflicting-values-title = Множество конфликтни стойности за една регистрация
+about-logins-import-dialog-error-file-format-title = Проблем с формата на файла
 about-logins-import-dialog-error-file-permission-title = Грешка при прочитане на файл
 about-logins-import-dialog-error-file-permission-description = { -brand-short-name } няма права за четене върху файла. Променете правата на файла.
 about-logins-import-dialog-error-unable-to-read-title = Грешка при анализ на файл
