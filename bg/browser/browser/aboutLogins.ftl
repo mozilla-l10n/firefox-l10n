@@ -275,7 +275,7 @@ about-logins-import-dialog-items-modified =
     }
 about-logins-import-dialog-items-no-change =
     { $count ->
-       *[other] <span>Намерени дублиращи се регистрации:</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(не са внесени)</span>
+       *[other] <span>Дублиращи се регистрации:</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(не са внесени)</span>
     }
 about-logins-import-dialog-items-error =
     { $count ->
@@ -297,10 +297,14 @@ about-logins-import-dialog-error-learn-more = Научете повече
 about-logins-import-dialog-error-try-import-again = Опитайте внасянето отново ...
 about-logins-import-dialog-error-cancel = Отказ
 about-logins-import-report-title = Отчет за внасянето
+about-logins-import-report-description = Регистрации и пароли внесени в { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = Ред { $number }
+about-logins-import-report-row-description-no-change = Дублиращи се: точно съвпадение със съществуваща регистрация
+about-logins-import-report-row-description-modified = Обновени съществуващи регистрации
+about-logins-import-report-row-description-added = Добавени нови регистрации
 about-logins-import-report-row-description-error = Грешка: Липсващо поле
 
 ##
@@ -314,6 +318,22 @@ about-logins-import-report-row-description-error-missing-field = Грешка: �
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-report-added =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Добавени нови регистрации</div>
+    }
+about-logins-import-report-modified =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Обновени съществуващи регистрации</div>
+    }
+about-logins-import-report-no-change =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Дублиращи се регистрации</div> <div data-l10n-name="not-imported">(не са внесени)</div>
+    }
+about-logins-import-report-error =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Грешки</div> <div data-l10n-name="not-imported">(не са внесени)</div>
+    }
 
 ## Logins import report page
 
