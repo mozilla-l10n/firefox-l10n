@@ -10,8 +10,6 @@ preferences-title =
             [windows] 選項
            *[other] 偏好設定
         }
-preferences-tab-title =
-    .title = 偏好設定
 preferences-doc-title = 偏好設定
 category-list =
     .aria-label = 分類
@@ -694,7 +692,7 @@ preview-label = 預覽:
 no-preview-label = 沒有可用預覽
 no-preview-description = 此佈景主題無效，或無法使用（停用了附加元件、處於安全模式等等）。
 chat-variant-label =
-    .value = 動態:
+    .value = 設計風格:
     .accesskey = V
 chat-header-label =
     .label = 顯示標題
