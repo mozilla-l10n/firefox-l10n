@@ -75,8 +75,18 @@ perftools-button-edit-settings = Змянiць налады...
 
 perftools-thread-gecko-main =
     .title = Асноўныя працэсы як для бацькоўскага працэсу, так і для працэсаў зместу
+perftools-thread-compositor =
+    .title = Спалучае розныя расфарбаваныя элементы на старонцы
+perftools-thread-dom-worker =
+    .title = Абслугоўвае web workers ды service workers
+perftools-thread-renderer =
+    .title = Калі WebRender уключаны, гэты паток выконвае выклікі OpenGL
 perftools-thread-render-backend =
     .title = Паток WebRender RenderBackend
+perftools-thread-paint-worker =
+    .title = Паток, у якім адбываецца прамалёўка, калі ўключана маляванне па-за асноўным патокам
+perftools-thread-style-thread =
+    .title = Вылічэнне стыляў падзелена на некалькі патокаў
 
 ##
 
