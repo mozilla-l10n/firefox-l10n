@@ -281,7 +281,7 @@ mr1-onboarding-pin-primary-button-label =
 mr1-onboarding-get-started-primary-button-label = 開始使用
 mr1-onboarding-welcome-header = 歡迎使用 { -brand-short-name }
 mr1-onboarding-set-default-pin-primary-button-label = 將 { -brand-short-name } 設為我的主要瀏覽器
-    .title = 將 { -brand-short-name } 設為預設瀏覽器並釘選到工作列
+    .title = 將 { -brand-short-name } 設為預設瀏覽器，並釘選到工作列
 # This string will be used on welcome page primary button label
 # when Firefox is not default but already pinned
 mr1-onboarding-set-default-only-primary-button-label = 將 { -brand-short-name } 設為我的預設瀏覽器
