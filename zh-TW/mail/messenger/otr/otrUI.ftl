@@ -31,7 +31,7 @@ alert-refresh = 正在嘗試與 { $name } 重新整理加密對話…
 alert-gone_insecure = 與 { $name } 的加密對話結束。
 # Variables:
 #   $name (String) - the screen name of a chat contact person
-alert-gone-insecure = 已結束與 { $name } 的加密對話。
+alert-gone-insecure = 與 { $name } 的加密對話結束。
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 finger-unseen = { $name } 的身分未經驗證。雖然不可能受到一般的竊聽，但有心人花點功夫還是可以暗中偷聽。請驗證此聯絡人的身分來防止您受到監控。
@@ -67,7 +67,7 @@ verify-title = 確認聯絡人的身分
 error-title = 錯誤
 success-title = 端到端加密
 successThem-title = 確認聯絡人的身分
-success-them-title = 確認您聯絡人的身分
+success-them-title = 確認聯絡人的身分
 fail-title = 無法驗證
 waiting-title = 已送出驗證請求
 # Do not translate 'OTR' (name of an encryption protocol)

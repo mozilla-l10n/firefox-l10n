@@ -17,7 +17,7 @@
 <!ENTITY password.label                  "密碼:">
 <!ENTITY password.accesskey              "P">
 <!ENTITY password.placeholder            "密碼">
-<!ENTITY password.text                   "可選，將只用來驗證使用者名稱">
+<!ENTITY password.text                   "非必填，只用來驗證使用者名稱是否正確">
 <!ENTITY password.toggle                 "顯示 / 隱藏密碼">
 <!ENTITY rememberPassword.label          "記住密碼">
 <!ENTITY rememberPassword.accesskey      "m">

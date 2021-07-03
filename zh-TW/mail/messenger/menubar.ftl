@@ -36,10 +36,10 @@ menu-help-more-troubleshooting-info =
 
 toolbar-junk-button =
     .label = 是垃圾郵件
-    .tooltiptext = 將選擇的訊息標示為垃圾郵件
+    .tooltiptext = 標示所選訊息為垃圾信
 toolbar-not-junk-button =
     .label = 非垃圾郵件
-    .tooltiptext = 將選擇的訊息標示為非垃圾郵件
+    .tooltiptext = 標示所選訊息為非垃圾信
 toolbar-delete-button =
     .label = 刪除
     .tooltiptext = 刪除選擇的訊息或信件匣
