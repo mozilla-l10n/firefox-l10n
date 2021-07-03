@@ -88,9 +88,9 @@
 <!ENTITY menu_ShowNameAs.accesskey                      "n">
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
-<!ENTITY firstLastCmd2.label                            "[名] [姓] (英式)">
+<!ENTITY firstLastCmd2.label                            "[名] [姓]（英式）">
 <!ENTITY firstLastCmd2.accesskey                        "f">
-<!ENTITY lastFirstCmd.label                             "[姓][名] (中式)">
+<!ENTITY lastFirstCmd.label                             "[姓][名]（中式）">
 <!ENTITY lastFirstCmd.accesskey                         "l">
 <!ENTITY displayNameCmd.label                           "顯示名稱">
 <!ENTITY displayNameCmd.accesskey                       "d">

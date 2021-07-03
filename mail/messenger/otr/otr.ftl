@@ -108,7 +108,7 @@ msgevent-rcvdmsg-for-other-instance = { $name } 送出了要發給不同使用�
 context-gone-secure-private = 已開始與 { $name } 的私人對話。
 # Variables:
 #   $name (String) - the screen name of a chat contact person
-context-gone-secure-unverified = 與 { $name } 未經確認加密方式的對話開始。
+context-gone-secure-unverified = 與 { $name } 有加密，但未經驗證的對話開始。
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 context-still-secure = 成功重新整理與 { $name } 的加密對話。
