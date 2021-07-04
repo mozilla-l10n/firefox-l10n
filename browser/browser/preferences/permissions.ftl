@@ -93,6 +93,7 @@ permissions-exceptions-cookie-desc = Podètz especificar quines sites pòdon tot
 permissions-exceptions-https-only-window =
     .title = Excepcions - Mòde HTTPS solament
     .style = { permissions-window.style }
+permissions-exceptions-https-only-desc = Podètz desactivar lo mòde HTTPS solament per de sites especifics. { -brand-short-name } ensajarà pas de passar a una connexion HTTPS segura per aqueles sites. Las excepcions s’aplican pas a las fenèstras de navegacion privada.
 
 ## Exceptions - Pop-ups
 
