@@ -89,10 +89,17 @@ key-toggle-attachment-pane =
     .key = { attachment-bucket-count.accesskey }
 expand-attachment-pane-tooltip =
     .tooltiptext = Näytä Liite-paneeli ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+collapse-attachment-pane-tooltip =
+    .tooltiptext = Piilota Liite-paneeli ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 drop-file-label-attachment =
     { $count ->
         [one] Lisää liitteenä
        *[other] Lisää liitteinä
+    }
+drop-file-label-inline =
+    { $count ->
+        [one] Liitä sisennettynä
+       *[other] Liitä sisennettyinä
     }
 
 # Reorder Attachment Panel
@@ -108,9 +115,15 @@ move-attachment-last-panel-button =
 button-return-receipt =
     .label = Vastaanottokuittaus
     .tooltiptext = Pyydä tämän viestin vastaanottokuittausta
+
+# Addressing Area
+
 many-public-recipients-bcc =
     .label = Käytä sen sijaan piilokopiota (Bcc)
     .accesskey = K
 many-public-recipients-ignore =
     .label = Pidä vastaanottajat julkisina
     .accesskey = P
+
+## Notifications
+
