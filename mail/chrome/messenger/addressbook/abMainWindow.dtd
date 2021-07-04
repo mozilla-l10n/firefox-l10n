@@ -48,13 +48,13 @@
 <!ENTITY editMenu.accesskey                             "B">
 <!ENTITY deleteCmd.label                                "Löschen">
 <!ENTITY deleteAbCmd.label                              "Adressbuch löschen">
+<!ENTITY removeAbCmd.label                              "Adressbuch entfernen">
 <!ENTITY deleteContactCmd.label                         "Kontakt löschen">
 <!ENTITY deleteContactsCmd.label                        "Kontakte löschen">
 <!ENTITY deleteListCmd.label                            "Liste löschen">
 <!ENTITY deleteListsCmd.label                           "Listen löschen">
 <!ENTITY deleteItemsCmd.label                           "Elemente löschen">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!ENTITY propertiesMenu.label                           "Eigenschaften">
 <!ENTITY propertiesMenu.accesskey                       "n">
 <!ENTITY propertiesCmd.key                              "i">
@@ -144,6 +144,9 @@
 <!ENTITY deleteButton2.label                            "Löschen">
 <!ENTITY deleteButton2.accesskey                        "ö">
 
+<!ENTITY removeButton.label                             "Entfernen">
+<!ENTITY removeButton.accesskey                         "n">
+
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY columnChooser.tooltip                          "Anzuzeigende Spalten auswählen">
 <!ENTITY newContactButton.tooltip                       "Neuen Kontakt erstellen">
@@ -155,6 +158,8 @@
 <!ENTITY newmsgButton.tooltip                           "Neue Nachricht verfassen">
 <!ENTITY newIM.tooltip                                  "Neue Sofortnachricht (instant message) oder neuen Chat verfassen">
 <!ENTITY deleteButton2.tooltip                          "Gewähltes Element löschen">
+
+<!ENTITY removeButton.tooltip                           "Entfernen des ausgewählten Adressbuchs">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Name oder E-Mail-Adresse">

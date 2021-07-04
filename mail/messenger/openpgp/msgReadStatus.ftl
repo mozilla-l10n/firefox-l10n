@@ -43,3 +43,20 @@ openpgp-unknown-key-id = Unbekannter Schlüssel
 
 openpgp-other-enc-additional-key-ids = Zusätzlich wurde die Nachricht an die Besitzer der folgenden Schlüssel verschlüsselt gesendet:
 openpgp-other-enc-all-key-ids = Die Nachricht wurde an die Besitzer der folgenden Schlüssel verschlüsselt gesendet:
+
+openpgp-message-header-encrypted-ok-icon =
+    .alt = Erfolgreich entschlüsselt
+openpgp-message-header-encrypted-notok-icon =
+    .alt = Fehler bei der Entschlüsselung
+
+openpgp-message-header-signed-ok-icon =
+    .alt = Gute digitale Unterschrift
+# Mismatch icon is used for notok state as well
+openpgp-message-header-signed-mismatch-icon =
+    .alt = Schlechte digitale Unterschrift
+openpgp-message-header-signed-unknown-icon =
+    .alt = Unbekannter Status der digitalen Unterschrift
+openpgp-message-header-signed-verified-icon =
+    .alt = Verifizierte digitale Unterschrift
+openpgp-message-header-signed-unverified-icon =
+    .alt = Nicht verifizierte digitale Unterschrift

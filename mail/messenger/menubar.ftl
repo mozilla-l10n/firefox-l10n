@@ -49,6 +49,12 @@ toolbar-undelete-button =
     .label = Wiederherstellen
     .tooltiptext = Löschen gewählter Nachricht(en) rückgängig machen
 
+## View
+
+menu-view-repair-text-encoding =
+    .label = Textkodierung reparieren
+    .accesskey = p
+
 ## View / Layout
 
 mail-uidensity-label =

@@ -152,6 +152,14 @@ account-setup-forum-help = Hilfeforum
 
 ## Results area
 
+# Variables:
+#  $count (Number) - Number of available protocols.
+account-setup-results-area-title =
+    { $count ->
+        [one] Verfügbare Konfiguration
+        *[other] Verfügbare Konfigurationen
+    }
+
 account-setup-protocol-title = Protokoll auswählen
 
 # Note: IMAP is the name of a protocol.

@@ -12,6 +12,10 @@ remove-address-row-type-label =
     .tooltiptext = { $type }-Eingabefeld entfernen
 
 #   $type (String) - the type of the addressing row
+remove-address-row-button =
+    .title = { $type }-Eingabefeld entfernen
+
+#   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type-aria-label = { $count ->
     [0]     { $type }
@@ -47,6 +51,10 @@ pill-action-move-cc =
 pill-action-move-bcc =
     .label = Verschieben zu Blindkopie (BCC)
     .accesskey = B
+
+pill-action-expand-list =
+    .label = Liste durch ihre Kontakte ersetzen
+    .accesskey = z
 
 # Attachment widget
 
