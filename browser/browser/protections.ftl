@@ -27,7 +27,7 @@ protection-report-page-content-title = Babesen arbela
 # This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
 protection-report-page-summary = { -brand-short-name }(e)k zure pribatutasuna babestu dezake bigarren planoan nabigatzen duzun bitartean. Hau babes horien laburpen pertsonalizatu bat da, zure lineako segurtasunaren kontrola hartzeko tresnak barne.
 # This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
-protection-report-page-summary-default = { -brand-short-name }(e)k atzeko planoan zure pribatutasuna babesten du nabigatzen duzun bitartean. Babesen laburpen pertsonalizatua da hau, zure lineako segurtasunaren kontrola hartzeko tresnak barne.
+protection-report-page-summary-default = Nabigatu ahala zure pribatutasuna babesten du { -brand-short-name }(e)k. Babesen laburpen pertsonalizatua da hau eta lineako segurtasunaren kontrola hartzeko tresnak ere baditu.
 protection-report-settings-link = Kudeatu zure pribatutasun eta segurtasun ezartpenak
 etp-card-title-always = Jarraipenaren babes hobetua: Beti aktibo
 etp-card-title-custom-not-blocking = Jarraipenaren babes hobetua: Itzalita
