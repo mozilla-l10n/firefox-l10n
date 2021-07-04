@@ -10,6 +10,10 @@ focus-search-shortcut =
     .key = f
 focus-search-altshortcut =
     .key = k
+focus-search-primary-shortcut =
+    .key = f
+focus-search-alt-shortcut =
+    .key = k
 copy-provider-url-cmd =
     .label = Copia l'URL
     .accesskey = C
@@ -51,7 +55,9 @@ import =
 close-button =
     .label = Tanca
     .accesskey = c
-
+password-close-button =
+    .label = Tanca
+    .accesskey = c
 show-passwords =
     .label = Mostra les contrasenyes
     .accesskey = M
@@ -74,12 +80,10 @@ no-master-password-prompt = Esteu segur que voleu mostrar les vostres contraseny
 
 # This message can be seen by trying to show or copy the passwords.
 password-os-auth-dialog-message = Verifiqueu la vostra identitat per mostrar les contrasenyes desades.
-
 # This message can be seen by trying to show or copy the passwords.
 # The macOS strings are preceded by the operating system with "Thunderbird is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 password-os-auth-dialog-message-macosx = mostrar les contrasenyes desades
-
 # Don't change this label.
 password-os-auth-dialog-caption = { -brand-full-name }

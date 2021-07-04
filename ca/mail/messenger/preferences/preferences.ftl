@@ -10,6 +10,9 @@ preferences-title =
             [windows] Opcions
            *[other] Preferències
         }
+preferences-doc-title = Preferències
+category-list =
+    .aria-label = Categories
 pane-general-title = General
 category-general =
     .tooltiptext = { pane-general-title }
@@ -87,6 +90,8 @@ update-in-progress-ok-button = &Descarta
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continua
 addons-button = Extensions i temes
+account-button = Paràmetres del compte
+open-addons-sidebar-button = Complements i temes
 
 ## OS Authentication dialog
 
@@ -162,6 +167,12 @@ customize-alert-label =
 tray-icon-label =
     .label = Mostra una icona de safata
     .accesskey = t
+biff-use-system-alert =
+    .label = Utilitza la notificació del sistema
+tray-icon-unread-label =
+    .label = Mostra una icona de safata si hi ha missatges per llegir
+    .accesskey = M
+tray-icon-unread-description = Recomanat quan s'utilitzen botons petits de la barra de tasques
 mail-system-sound-label =
     .label = So del sistema per defecte per al correu nou
     .accesskey = d
@@ -314,6 +325,8 @@ quoted-text-color =
     .accesskey = o
 search-input =
     .placeholder = Cerca
+search-handler-table =
+    .placeholder = Filtra tipus de contingut i accions
 type-column-label =
     .label = Tipus de contingut
     .accesskey = T
@@ -699,6 +712,17 @@ search-input-box =
             [windows] Cerca en les opcions
            *[other] Cerca en les preferències
         }
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-preferences-input =
+    .style = width: 15.4em
+    .placeholder = Cerca en les Preferències
 
 ## Preferences UI Search Results
 
