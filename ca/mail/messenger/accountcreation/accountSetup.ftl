@@ -135,21 +135,63 @@ account-setup-exchange-config-unverifiable = No s'ha pogut verificar la configur
 
 ## Manual configuration area
 
+account-setup-manual-config-title = Configuració manual
+account-setup-incoming-server-legend = Servidor d'entrada
+account-setup-protocol-label = Protocol:
+protocol-imap-option = { account-setup-result-imap }
+protocol-pop-option = { account-setup-result-pop }
+protocol-exchange-option = { account-setup-result-exchange }
+account-setup-port-label = Port:
+    .title = Definiu el número de port 0 per detectar-lo automàticament
+account-setup-auto-description = El { -brand-short-name }intentarà detectar automàticament els camps que es deixin en blanc.
+account-setup-ssl-label = Seguretat de la connexió:
+account-setup-outgoing-server-legend = Servidor de sortida
 
 ## Incoming/Outgoing SSL Authentication options
 
+ssl-autodetect-option = Detecció automàtica
+ssl-no-authentication-option = Sense autenticació
+ssl-cleartext-password-option = Contrasenya normal
+ssl-encrypted-password-option = Contrasenya xifrada
 
 ## Incoming/Outgoing SSL options
 
+ssl-noencryption-option = Cap
+account-setup-auth-label = Mètode d'autenticació:
+account-setup-username-label = Nom d'usuari:
+account-setup-advanced-setup-button = Configuració avançada
+    .accesskey = g
 
 ## Warning insecure server dialog
 
+account-setup-insecure-title = Avís!
+account-setup-insecure-incoming-title = Paràmetres d'entrada:
+account-setup-insecure-outgoing-title = Paràmetres de sortida:
+# Variables:
+#  $server (String): The name of the hostname of the server the user was trying to connect to.
+account-setup-warning-cleartext = <b>{ $server }</b> no utilitza xifratge.
+account-setup-warning-cleartext-details = Els servidors de correu insegurs no utilitzen connexions xifrades per protegir la vostra contrasenya i la vostra informació privada. Si us connecteu a aquest servidor estareu exposant aquesta informació.
+account-setup-insecure-server-checkbox = Entenc els riscos
+    .accesskey = E
+account-setup-insecure-description = El { -brand-short-name } us podrà donar accés al vostre correu amb les opcions que heu configurat. Així i tot, hauríeu de notificar a l'administrador o al proveïdor de correu que les connexions no són correctes. Per a més informació, consulteu les <a data-l10n-name="thunderbird-faq-link">PMF del Thunderbird</a>.
+insecure-dialog-cancel-button = Canvia els paràmetres
+    .accesskey = v
+insecure-dialog-confirm-button = Confirma
+    .accesskey = C
 
 ## Warning Exchange confirmation dialog
 
+# Variables:
+#  $domain (String): The name of the server where the configuration was found, e.g. rackspace.com.
+exchange-dialog-question = El { -brand-short-name } ha trobat la informació de configuració del vostre compte a { $domain }. Voleu continuar i enviar les vostres credencials?
+exchange-dialog-confirm-button = Inicia la sessió
+exchange-dialog-cancel-button = Cancel·la
 
 ## Alert dialogs
 
+account-setup-creation-error-title = Error en crear el compte
+account-setup-error-server-exists = El servidor d'entrada ja existeix.
+account-setup-confirm-advanced-title = Confirmeu la configuració avançada
 
 ## Addon installation section
 
