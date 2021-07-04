@@ -156,12 +156,17 @@ bcc-compose-show-address-row-menuitem =
 bcc-compose-show-address-row-label =
     .value = { bcc-compose-address-row-label.value }
     .tooltiptext = Mostra el camp { bcc-compose-address-row-label.value } ({ bcc-compose-show-address-row-menuitem.acceltext })
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+many-public-recipients-info = Els { $count } destinataris dels camps «A» i «Cc» veuran la identitat els uns dels altres. Si no voleu que els destinataris es vegin mútuament, utilitzeu «Cco».
 many-public-recipients-bcc =
-    .label = En lloc d'això, utilitza CCo
-    .accesskey = u
+    .label = Utilitza CCo
+    .accesskey = U
 many-public-recipients-ignore =
     .label = Mantén els destinataris públics
     .accesskey = M
 
 ## Notifications
 
+# Variables:
+# $identity (string) - The name of the used identity, most likely an email address.
+compose-missing-identity-warning = S'ha trobat més d'una identitat que coincideix amb l'adreça «De». El missatge s'enviarà amb el camp «De» actual i amb els paràmetres de la identitat «{ $identity }».
