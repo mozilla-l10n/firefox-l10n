@@ -9,6 +9,7 @@
 <!ENTITY multiline-expand.tooltip   "切换为多行输入（Ctrl+Up）">
 <!ENTITY multiline-contract.tooltip "切换为单行输入（Ctrl+Down）">
 <!ENTITY multiline-send.tooltip     "发送消息（Ctrl+Enter）">
+<!ENTITY server-nick.tooltip        "更改昵称或设置离开状态。若要聚焦于输入框，请按 ESC 键。">
 
 <!ENTITY Underline.label             "下划线">
 <!ENTITY Bold.label                  "粗体">
