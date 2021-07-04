@@ -267,15 +267,50 @@ onboarding-multistage-theme-description-alpenglow =
 mr1-welcome-screen-hero-text = ਫਾਇਰ ਇੱਥੋਂ ਸ਼ੁਰੂ ਕਰੋ
 # Caption for background image in about:welcome. "Soraya Osorio" is the name
 # of the person and shouldn't be translated.
+# In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
+# You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = Soraya Osorio — ਫਰਚੀਨਰ ਡਿਜ਼ਾਈਨਰ, ਫਾਇਰਫਾਕਸ ਦੀ ਫ਼ੈਨ
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = ਐਨੀਮੇਸ਼ਨਾਂ ਬੰਦ ਕਰੋ
+
+## Title and primary button strings differ between platforms as they
+## match the OS' application context menu item action where Windows uses "pin"
+## and "taskbar" while macOS "keep" and "Dock" (proper noun).
+
+# Title used on welcome page when Firefox is not pinned
+mr1-onboarding-pin-header =
+    { PLATFORM() ->
+        [macos] ਸੌਖੀ ਪਹੁੰਚ ਲਈ { -brand-short-name } ਨੂੰ ਆਪਣੇ ਡੌਕ ਵਿੱਚ ਰੱਖੋ
+       *[other] ਸੌਖੀ ਪਹੁੰਚ ਲਈ { -brand-short-name } ਨੂੰ ਆਪਣੀ ਟਾਸਕ-ਪੱਟੀ ਵਿੱਚ ਟੰਗੋ
+    }
+# Primary button string used on welcome page when Firefox is not pinned.
+mr1-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] ਡੌਕ ਵਿੱਚ ਰੱਖੋ
+       *[other] ਟਾਸਕ-ਪੱਟੀ ਵਿੱਚ ਟੰਗੋ
+    }
+
+## Multistage MR1 onboarding strings (about:welcome pages)
+
+# This string will be used on welcome page primary button label
+# when Firefox is both pinned and default
+mr1-onboarding-get-started-primary-button-label = ਸ਼ੁਰੂ ਕਰੀਏ
 mr1-onboarding-welcome-header = { -brand-short-name } ਵਲੋਂ ਜੀ ਆਇਆਂ ਨੂੰ
 mr1-onboarding-set-default-pin-primary-button-label = { -brand-short-name } ਨੂੰ ਮੇਰਾ ਮੂਲ ਬਰਾਊਜ਼ਰ ਬਣਾਓ
     .title = { -brand-short-name } ਨੂੰ ਮੂਲ ਬਰਾਊਜ਼ਰ ਬਣਾਓ ਤੇ ਟਾਸਕ-ਬਾਰ ਵਿੱਚ ਟੰਗੋ
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
 mr1-onboarding-set-default-only-primary-button-label = { -brand-short-name } ਨੂੰ ਮੇਰਾ ਮੂਲ ਬਰਾਊਜ਼ਰ ਬਣਾਓ
 mr1-onboarding-set-default-secondary-button-label = ਹੁਣੇ ਨਹੀਂ
 mr1-onboarding-sign-in-button-label = ਸਾਇਨ ਇਨ
+
+## Title, subtitle and primary button string used on set default onboarding screen
+## when Firefox is not default browser
+
+mr1-onboarding-default-header = { -brand-short-name } ਨੂੰ ਆਪਣਾ ਮੂਲ ਬਣਾਓ
+
+## Multistage MR1 onboarding strings (about:welcome pages)
+
 mr1-onboarding-import-header = ਇਹ ਸਭ ਆਪਣੇ ਨਾਲ ਲਿਆਓ
 mr1-onboarding-import-subtitle = ਆਪਣੇ ਪਾਸਵਰਡ, ਬੁੱਕਮਾਰਕ <br/>ਤੇ ਹੋਰ ਦਰਾਮਦ ਕਰੋ
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.

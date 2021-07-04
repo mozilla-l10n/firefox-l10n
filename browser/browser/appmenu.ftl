@@ -191,3 +191,5 @@ appmenu-customizetoolbar =
 appmenu-taskmanager =
     .label = ਟਾਸਕ ਮੈਨੇਜਰ
 appmenu-developer-tools-subheader = ਬਰਾਊਜ਼ਰ ਟੂਲ
+appmenu-developer-tools-extensions =
+    .label = ਡਿਵੈਲਪਰਾਂ ਲਈ ਇਕਸਟੈਨਸ਼ਨਾਂ
