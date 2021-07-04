@@ -124,6 +124,16 @@ cc-compose-show-address-row-menuitem =
     .label = Camp { cc-compose-address-row-label.value }
     .accesskey = C
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+cc-compose-show-address-row-label =
+    .value = { cc-compose-address-row-label.value }
+    .tooltiptext = Mostra el camp { cc-compose-address-row-label.value } ({ cc-compose-show-address-row-menuitem.acceltext })
+bcc-compose-address-row-label =
+    .value = Cco
+#   $key (String) - the shortcut key for this field
+bcc-compose-show-address-row-menuitem =
+    .label = Camp { bcc-compose-address-row-label.value }
+    .accesskey = o
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
 
 ## Notifications
 
