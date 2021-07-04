@@ -4,6 +4,10 @@
 
 third-party-page-title = Informacions modul tèrç
 third-party-section-title = Lista dels moduls tèrces dins { -brand-short-name }
+third-party-intro =
+    Aquesta pagina aficha los moduls tèrces que son estats injectats dins
+    { -brand-short-name }. Tot modul pas signat per Microsoft o
+    { -vendor-short-name } es considerat coma un modul tèrç.
 third-party-header-module-list = Lista de moduls
 third-party-header-loading-events = Cargament dels eveniments
 third-party-message-empty = Cap de modul tèrç pas detectat.
@@ -19,6 +23,8 @@ third-party-th-duration = Durada de cargament (ms)
 third-party-th-status = Estat
 third-party-unsigned-icon =
     .title = Aqueste modul es pas signat
+third-party-warning-icon =
+    .title = { -brand-short-name } a plantat dins lo còdi d’aqueste modul
 third-party-status-loaded = Cargat
 third-party-status-blocked = Blocat
 third-party-status-redirected = Desviat
