@@ -695,6 +695,9 @@ save-to-pocket-button =
 
 ## Repair text encoding toolbar button
 
+repair-text-encoding-button =
+    .label = ਲਿਖਤ ਇੰਕੋਡਿੰਗ ਰਿਪੇਅਰ ਕਰੋ
+    .tooltiptext = ਸਫ਼ਾ ਸਮੱਗਰੀ ਤੋਂ ਠੀਕ ਲਿਖਤ ਇੰਕੋਡਿੰਗ ਦਾ ਅੰਦਾਜ਼ਾ ਲਾਓ
 
 ## Customize Toolbar Buttons
 

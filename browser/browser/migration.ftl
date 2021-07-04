@@ -82,7 +82,7 @@ source-name-chromium = Chromium
 source-name-firefox = Mozilla Firefox
 source-name-360se = 360 Secure Browser
 imported-safari-reading-list = ਪੜ੍ਹਨ ਸੂਚੀ (Safari ਤੋਂ)
-imported-edge-reading-list = ਪੜ੍ਹਨ ਸੂਚੀ (Edge ਤੋਂ)
+imported-edge-reading-list = ਪੜ੍ਹਨ ਦੀ ਸੂਚੀ (Edge ਵਿੱਚੋਂ)
 
 ## Browser data types
 ## All of these strings get a $browser variable passed in.

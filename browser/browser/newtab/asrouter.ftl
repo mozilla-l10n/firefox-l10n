@@ -6,7 +6,7 @@
 ## These messages are used as headings in the recommendation doorhanger
 
 cfr-doorhanger-extension-heading = ਸਿਫ਼ਾਰਸ਼ ਕੀਤੀ ਇਕਸਟੈਨਸ਼ਨ
-cfr-doorhanger-feature-heading = ਸਿਫਾਰਸ਼ ਕੀਤੇ ਫੀਚਰ
+cfr-doorhanger-feature-heading = ਸਿਫ਼ਾਰਸ਼ੀ ਫੀਚਰ
 cfr-doorhanger-pintab-heading = ਵਰਤ ਕੇ ਵੇਖੋ: ਟੈਬ ਪਿੰਨ ਕਰੋ
 
 ##
@@ -17,11 +17,11 @@ cfr-doorhanger-extension-cancel-button = ਹੁਣ ਨਹੀਂ
     .accesskey = N
 cfr-doorhanger-extension-ok-button = ਹੁਣੇ ਜੋੜੋ
     .accesskey = A
-cfr-doorhanger-pintab-ok-button = ਇਸ ਟੈਬ ਨੂੰ ਪਿੰਨ ਕਰੋ
+cfr-doorhanger-pintab-ok-button = ਇਸ ਟੈਬ ਨੂੰ ਟੰਗੋ
     .accesskey = P
 cfr-doorhanger-extension-manage-settings-button = ਸਿਫਾਰਸ਼ੀ ਸੈਟਿੰਗਾਂ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ
     .accesskey = M
-cfr-doorhanger-extension-never-show-recommendation = ਇਹ ਸਿਫਾਰਸ਼ ਮੈਨੂੰ ਨਾ ਦੇਖਾਓ
+cfr-doorhanger-extension-never-show-recommendation = ਇਹ ਸਿਫਾਰਸ਼ ਮੈਨੂੰ ਨਾ ਦਿਖਾਓ
     .accesskey = S
 cfr-doorhanger-extension-learn-more-link = ਹੋਰ ਸਿੱਖੋ
 # This string is used on a new line below the add-on name
@@ -65,7 +65,7 @@ cfr-doorhanger-pintab-description = ਆਪਣੀ ਸਭ ਤੋਂ ਜ਼ਿਆ�
 
 cfr-doorhanger-pintab-step1 = ਜਿਸ ਟੈਬ ਨੂੰ ਤੁਸੀਂ ਟੰਗਣਾ ਚਾਹੁੰਦੇ ਹੋ ਉਸ ਉੱਤੇ <b>ਰਾਈਟ-ਕਲਿੱਕ</ b>।
 cfr-doorhanger-pintab-step2 = ਮੇਨੂ ਤੋਂ <b>ਟੈਬ ਨੂੰ ਟੰਗੋ</b> ਨੂੰ ਚੁਣੋ।
-cfr-doorhanger-pintab-step3 = ਜੇ ਸਾਈਟ ਨੂੰ ਅੱਪਡੇਟ ਕੀਤਾ ਗਿਆ ਤਾਂ ਤੁਸੀਂ ਆਪਣੀ ਟੰਗ ਕੀਤੀ ਟੈਬ ਵਿੱਚ ਨੀਲੀ ਬਿੰਦੀ ਵੇਖੋਗੇ।
+cfr-doorhanger-pintab-step3 = ਜੇ ਸਾਈਟ ਨੂੰ ਅੱਪਡੇਟ ਕੀਤਾ ਗਿਆ ਤਾਂ ਤੁਸੀਂ ਆਪਣੀ ਟੰਗੀ ਟੈਬ ਵਿੱਚ ਨੀਲੀ ਬਿੰਦੀ ਵੇਖੋਗੇ।
 cfr-doorhanger-pintab-animation-pause = ਵਿਰਾਮ
 cfr-doorhanger-pintab-animation-resume = ਮੁੜ-ਪ੍ਰਾਪਤ
 
@@ -315,6 +315,7 @@ cfr-whatsnew-cross-site-tracking-body = ਹੁਣ ਤੁਸੀਂ ਕੂਕੀ�
 
 ## Full Video Support CFR message
 
+cfr-doorhanger-video-support-body = ਇਸ ਸਾਈਟ ਤੋਂ ਵੀਡੀਓ ਨੂੰ { -brand-short-name } ਦੇ ਇਸ ਵਰਜ਼ਨ ਉੱਤੇ ਠੀਕ ਤਰ੍ਹਾਂ ਸ਼ਾਇਦ ਚਲਾਇਆ ਨਾ ਜਾ ਸਕੇ। ਪੂਰੇ ਵੀਡੀਓ ਸਹਿਯੋਗ ਲਈ { -brand-short-name } ਨੂੰ ਹੁਣੇ ਅੱਪਡੇਟ ਕਰੋ।
 cfr-doorhanger-video-support-header = ਵੀਡੀਓ ਚਲਾਉਣ ਲਈ{ -brand-short-name } ਅੱਪਡੇਟ ਕਰੋ
 cfr-doorhanger-video-support-primary-button = ਹੁਣੇ ਅੱਪਡੇਟ ਕਰੋ
     .accesskey = U
