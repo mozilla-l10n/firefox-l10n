@@ -8,6 +8,12 @@
 #   $type (String) - the type of the addressing row
 remove-address-row-type = Elimina el camp { $type }
 #   $type (String) - the type of the addressing row
+remove-address-row-type-label =
+    .tooltiptext = Elimina el camp { $type }
+#   $type (String) - the type of the addressing row
+remove-address-row-button =
+    .title = Elimina el camp { $type }
+#   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type-aria-label =
     { $count ->
@@ -22,6 +28,10 @@ pill-aria-label =
         [one] { $email }: premeu Retorn per editar, Supr per eliminar.
        *[other] { $email }, 1 de { $count }: premeu Retorn per editar, Supr per eliminar.
     }
+#   $email (String) - the email address
+pill-tooltip-invalid-address = { $email } no és una adreça electrònica vàlida
+#   $email (String) - the email address
+pill-tooltip-not-in-address-book = { $email } no existeix a la vostra llibreta d'adreces
 pill-action-edit =
     .label = Edita l'adreça
     .accesskey = E
@@ -36,7 +46,7 @@ pill-action-move-bcc =
     .accesskey = o
 pill-action-expand-list =
     .label = Amplia la llista
-    .accesskey = A
+    .accesskey = m
 
 # Attachment widget
 
@@ -45,6 +55,15 @@ ctrl-cmd-shift-pretty-prefix =
         [macos] ⇧ ⌘{ " " }
        *[other] Ctrl+Shift+
     }
+trigger-attachment-picker-key = A
+toggle-attachment-pane-key = M
+menuitem-toggle-attachment-pane =
+    .label = Subfinestra d'adjuncions
+    .accesskey = a
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key }
+toolbar-button-add-attachment =
+    .label = Adjunta
+    .tooltiptext = Afegeix una adjunció ({ ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key })
 add-attachment-notification-reminder =
     .label = Afegeix una adjunció…
     .tooltiptext = { toolbar-button-add-attachment.tooltiptext }
@@ -134,6 +153,15 @@ bcc-compose-show-address-row-menuitem =
     .label = Camp { bcc-compose-address-row-label.value }
     .accesskey = o
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+bcc-compose-show-address-row-label =
+    .value = { bcc-compose-address-row-label.value }
+    .tooltiptext = Mostra el camp { bcc-compose-address-row-label.value } ({ bcc-compose-show-address-row-menuitem.acceltext })
+many-public-recipients-bcc =
+    .label = En lloc d'això, utilitza CCo
+    .accesskey = u
+many-public-recipients-ignore =
+    .label = Mantén els destinataris públics
+    .accesskey = M
 
 ## Notifications
 
