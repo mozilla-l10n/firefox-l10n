@@ -78,7 +78,7 @@ onboarding-benefit-products-text = Milloreu la productivitat amb una família d'
 # Firefox Personal Data Promise is the way we honor your data in everything we
 # make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
-onboarding-benefit-privacy-text = Tot el que fem respecta la nostra «Promesa sobre les dades personals»: recollir menys dades, mantenir-les segures i sense secrets.
+onboarding-benefit-privacy-text = Tot el que fem respecta el nostre «Compromís sobre les dades personals»: recollir menys dades, mantenir-les segures i sense secrets.
 onboarding-benefit-sync-title = { -sync-brand-short-name }
 onboarding-benefit-sync-text = Accediu a les adreces d'interès, les contrasenyes, l'historial i molt més a tot arreu on utilitzeu el { -brand-product-name }.
 onboarding-benefit-monitor-title = { -monitor-brand-short-name }
@@ -133,7 +133,7 @@ onboarding-import-browser-settings-text = Importeu fàcilment els vostres llocs 
 onboarding-import-browser-settings-button = Importa les dades del Chrome
 onboarding-personal-data-promise-title = Privat per disseny
 onboarding-personal-data-promise-text = El { -brand-product-name } tracta les vostres dades amb respecte, capturant-ne menys, protegint-les i explicant clarament com les utilitzem.
-onboarding-personal-data-promise-button = Llegiu la nostra Promesa
+onboarding-personal-data-promise-button = Llegiu el nostre Compromís
 
 ## Message strings belonging to the Return to AMO flow
 
