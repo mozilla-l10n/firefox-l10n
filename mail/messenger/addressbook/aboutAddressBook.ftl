@@ -78,6 +78,53 @@ about-addressbook-confirm-delete-lists-title =
         [one] Suprimeix la llista
        *[other] Suprimeix les llistes
     }
+# Variables:
+# $count (Number) - The number of lists to be deleted.
+# $name (String) - The name of the list to be deleted, if $count is 1.
+about-addressbook-confirm-delete-lists =
+    { $count ->
+        [one] Segur que voleu suprimir la llista { $name }?
+       *[other] Segur que voleu suprimir aquestes { $count } llistes?
+    }
+# Variables:
+# $count (Number) - The number of contacts to be removed.
+about-addressbook-confirm-remove-contacts-title =
+    { $count ->
+        [one] Elimina el contacte
+       *[other] Elimina els contactes
+    }
+# Variables:
+# $count (Number) - The number of contacts to be removed.
+# $name (String) - The name of the contact to be removed, if $count is 1.
+# $list (String) - The name of the list that contacts will be removed from.
+about-addressbook-confirm-remove-contacts =
+    { $count ->
+        [one] Segur que voleu eliminar { $name } de la llista { $list }?
+       *[other] Segur que voleu eliminar aquests { $count } contactes de la llista { $list }?
+    }
+# Variables:
+# $count (Number) - The number of contacts to be deleted.
+about-addressbook-confirm-delete-contacts-title =
+    { $count ->
+        [one] Suprimeix el contacte
+       *[other] Suprimeix els contactes
+    }
+# Variables:
+# $count (Number) - The number of contacts to be deleted.
+# $name (String) - The name of the contact to be deleted, if $count is 1.
+about-addressbook-confirm-delete-contacts =
+    { $count ->
+        [one] Segur que voleu suprimir el contacte { $name }?
+       *[other] Segur que voleu suprimir aquests { $count } contactes?
+    }
 
 ## Details
 
+about-addressbook-begin-edit-contact-button = Edita
+about-addressbook-cancel-edit-contact-button = Cancel·la
+about-addressbook-save-edit-contact-button = Desa
+about-addressbook-details-email-addresses-header = Adreces electròniques
+about-addressbook-details-phone-numbers-header = Números de telèfon
+about-addressbook-details-home-address-header = Adreça particular
+about-addressbook-details-work-address-header = Adreça de la feina
+about-addressbook-details-other-info-header = Altra informació
