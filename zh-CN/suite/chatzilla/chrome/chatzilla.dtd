@@ -6,5 +6,9 @@
 <!ENTITY Toolbar.tooltip    "主工具栏">
 
 
+<!ENTITY multiline-expand.tooltip   "切换为多行输入（Ctrl+Up）">
+<!ENTITY multiline-contract.tooltip "切换为单行输入（Ctrl+Down）">
+<!ENTITY multiline-send.tooltip     "发送消息（Ctrl+Enter）">
 
+<!ENTITY Underline.label             "下划线">
 <!ENTITY Bold.label                  "粗体">

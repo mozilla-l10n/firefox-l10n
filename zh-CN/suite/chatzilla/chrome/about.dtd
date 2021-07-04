@@ -6,7 +6,8 @@
 
 <!ENTITY chatzilla.label       "ChatZilla">
 <!ENTITY version.unknown.label "未知版本">
-<!ENTITY version.known.label   "&#37;S 版">
+<!ENTITY version.known.label   "版本 &#37;S">
+<!ENTITY description.label     "一款简洁、易用、且可高度扩展的网络聊天（IRC）客户端。">
 
 <!ENTITY homepage.label    "访问主页">
 <!ENTITY copyversion.label "复制版本详细信息">
