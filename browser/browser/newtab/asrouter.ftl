@@ -220,8 +220,6 @@ cfr-doorhanger-milestone-heading2 =
     }
 cfr-doorhanger-milestone-ok-button = Vidi ĉiujn
     .accesskey = V
-cfr-doorhanger-milestone-close-button = Fermi
-    .accesskey = F
 
 ## What’s New Panel Content for Firefox 76
 
@@ -246,6 +244,8 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Emblemo de bildo en bildo.
 
 ## Protections Dashboard message
 
+cfr-doorhanger-milestone-close-button = Fermi
+    .accesskey = F
 
 ## What’s New Panel Content for Firefox 76
 ## Protections Dashboard message
@@ -264,8 +264,6 @@ cfr-whatsnew-better-pdf-body = Dokumentoj PDF malfermiĝas nun rekte en { -brand
 
 cfr-doorhanger-doh-body = Via privateco gravas. Ekde nun, se tio eblas, { -brand-short-name } sendos viajn petojn DNS al servo provizata de asociito por protekti vin dum vi retumas.
 cfr-doorhanger-doh-header = Petoj DNS pli sekuraj kaj ĉifritaj
-cfr-doorhanger-doh-primary-button = En ordo, mi komprenis
-    .accesskey = E
 cfr-doorhanger-doh-primary-button-2 = En ordo
     .accesskey = o
 cfr-doorhanger-doh-secondary-button = Malaktivigi
@@ -311,3 +309,10 @@ cfr-whatsnew-bookmarking-body = Estas pli facile sekvi viajn plej ŝatatajn rete
 
 cfr-whatsnew-cross-site-tracking-header = Ampleksan protekton kontraŭ interretejaj spurilaj kuketoj
 cfr-whatsnew-cross-site-tracking-body = Vi nun povas elekti pli bonan protekton kontraŭ spurado pere de kuketoj. { -brand-short-name } povas izoli viajn agojn kaj datumojn en la retejo kie vi estas, tiel ke la informoj konservitaj en la retumilo ne estos dividita inter retejoj.
+
+## Full Video Support CFR message
+
+cfr-doorhanger-video-support-body = Filmetoj en tiu ĉi retejo povus ne bone videbli en tiu ĉi versio de { -brand-short-name }. Por havi tutampleksan videan subtenon, ĝisdatigu { -brand-short-name } nun.
+cfr-doorhanger-video-support-header = Ĝisdatigu { -brand-short-name } por ludi videaĵon
+cfr-doorhanger-video-support-primary-button = Ĝisdatigi nun
+    .accesskey = n

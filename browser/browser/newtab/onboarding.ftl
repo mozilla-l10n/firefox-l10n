@@ -251,15 +251,52 @@ onboarding-multistage-theme-description-alpenglow =
 mr1-welcome-screen-hero-text = Ĉio komenciĝas ĉi tie
 # Caption for background image in about:welcome. "Soraya Osorio" is the name
 # of the person and shouldn't be translated.
+# In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
+# You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = Soraya Osorio — Fasonisto de mebloj, fanatika pri Firefox
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Malŝalti animaciojn
+
+## Title and primary button strings differ between platforms as they
+## match the OS' application context menu item action where Windows uses "pin"
+## and "taskbar" while macOS "keep" and "Dock" (proper noun).
+
+# Title used on welcome page when Firefox is not pinned
+mr1-onboarding-pin-header =
+    { PLATFORM() ->
+        [macos] Aldoni { -brand-short-name } al via kajo
+       *[other] Alpingli { -brand-short-name } al via taska ilaro
+    }
+# Primary button string used on welcome page when Firefox is not pinned.
+mr1-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Aldoni al la kajo
+       *[other] Alpingli al la taska ilaro
+    }
+
+## Multistage MR1 onboarding strings (about:welcome pages)
+
+# This string will be used on welcome page primary button label
+# when Firefox is both pinned and default
+mr1-onboarding-get-started-primary-button-label = Unuaj paŝoj
 mr1-onboarding-welcome-header = Bonvenon al { -brand-short-name }
 mr1-onboarding-set-default-pin-primary-button-label = Igi { -brand-short-name } mia ĉefa retumilo
     .title = Difini { -brand-short-name } kiel la ĉefan retumilon kaj alpinglas ĝin al la taska strio.
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
 mr1-onboarding-set-default-only-primary-button-label = Igi { -brand-short-name } mia ĉefa retumilo
 mr1-onboarding-set-default-secondary-button-label = Ne nun
 mr1-onboarding-sign-in-button-label = Komenci seancon
+
+## Title, subtitle and primary button string used on set default onboarding screen
+## when Firefox is not default browser
+
+mr1-onboarding-default-header = Igi { -brand-short-name } via norma retumilo
+mr1-onboarding-default-subtitle = Lasu ke rapideco, sekureco kaj privateco aŭtomate alĝustiĝu.
+mr1-onboarding-default-primary-button-label = Igi retumilon norma
+
+## Multistage MR1 onboarding strings (about:welcome pages)
+
 mr1-onboarding-import-header = Portu ĉion kun vi
 mr1-onboarding-import-subtitle = Enporti viajn pasvortojn, <br/>legosignojn, kaj pli.
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.

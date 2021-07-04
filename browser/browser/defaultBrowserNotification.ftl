@@ -14,6 +14,7 @@ default-browser-notification-button =
 
 default-browser-prompt-title-pin = Ĉu igi { -brand-short-name } via ĉefa retumilo?
 default-browser-prompt-message-pin = Tenu { -brand-short-name } ĉemane — igu ĝin via norma retumilo kaj alpinglu ĝin al la taska strio.
+default-browser-prompt-message-pin-mac = Tenu { -brand-short-name } ĉemane — igu ĝin via norma retumilo kaj alpinglu ĝin al la taska strio.
 default-browser-prompt-button-primary-pin = Igi retumilon ĉefa
 default-browser-prompt-title-alt = Ĉu igi { -brand-short-name } via norma retumilo?
 default-browser-prompt-message-alt = Via tuta retumo rapida, sekura kaj privata.

@@ -15,6 +15,7 @@ pocket-panel-saved-error-generic = Okazis eraro dum la klopodo konservi en { -po
 pocket-panel-saved-error-tag-length = Etikedoj povas enhavi ĝis 25 signojn
 pocket-panel-saved-error-only-links = Nur ligiloj povas esti konservitaj
 pocket-panel-saved-error-not-saved = Paĝo ne konservita
+pocket-panel-saved-error-no-internet = Vi devas esti konektita al la interreto por povi konservi en { -pocket-brand-name }. Bonvolu kontroli vian retaliron kaj provi denove.
 pocket-panel-saved-page-removed = Paĝo forigita
 pocket-panel-saved-page-saved = Konservita en { -pocket-brand-name }
 pocket-panel-saved-processing-remove = Paĝo forigata…
