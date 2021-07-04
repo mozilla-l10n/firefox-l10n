@@ -32,12 +32,42 @@ upgrade-dialog-new-secondary-button = Ne nun
 # theme selection screen.
 upgrade-dialog-new-primary-win7-button = En ordo, mi komprenis!
 
+## Pin Firefox screen
+##
+## These title, subtitle and button strings differ between platforms as they
+## match the OS' application context menu item action where Windows uses "pin"
+## and "taskbar" while macOS "keep" and "Dock" (proper noun).
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-pin-title =
+    { PLATFORM() ->
+        [macos] Aldoni { -brand-short-name } al via kajo
+       *[other] Alpingli { -brand-short-name } al via taska ilaro
+    }
+# The English macOS string avoids repeating "Keep" a third time, so if your
+# translations don't repeat anyway, the same string can be used cross-platform.
+upgrade-dialog-pin-subtitle =
+    { PLATFORM() ->
+        [macos] Havu facilan aliron al la plej nova { -brand-short-name }.
+       *[other] Gardi la plej novan { -brand-short-name } ĉemane.
+    }
+upgrade-dialog-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Aldoni al la kajo
+       *[other] Alpingli al la taska ilaro
+    }
+upgrade-dialog-pin-secondary-button = Ne nun
+
 ## Default browser screen
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-default-title = Ĉu igi { -brand-short-name } via norma retumilo?
 upgrade-dialog-default-subtitle = Via tuta retumo rapida, sekura kaj privata.
 upgrade-dialog-default-primary-button = Difini kiel norma retumilo
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title-2 = Igi { -brand-short-name } via norma retumilo
+upgrade-dialog-default-subtitle-2 = Lasu ke rapideco, sekureco kaj privateco aŭtomate alĝustiĝu.
+upgrade-dialog-default-primary-button-2 = Igi retumilon norma
 upgrade-dialog-default-secondary-button = Ne nun
 
 ## Theme selection screen
@@ -46,6 +76,8 @@ upgrade-dialog-default-secondary-button = Ne nun
 upgrade-dialog-theme-title =
     Komenci denove
     kun ĝisdatigita etoso
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-theme-title-2 = Komenci denove kun freŝa etoso
 upgrade-dialog-theme-system = Sistema etoso
     .title =
         Uzi la etoson de la mastruma sistemo
