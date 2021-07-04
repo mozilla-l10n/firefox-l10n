@@ -15,6 +15,7 @@ pocket-panel-saved-error-generic = { -pocket-brand-name } ਵਿੱਚ ਸੰਭ
 pocket-panel-saved-error-tag-length = ਟੈਗ 25 ਅੱਖਰਾਂ ਤੱਕ ਸੀਮਿਤ ਹਨ
 pocket-panel-saved-error-only-links = ਕੇਵਲ ਲਿੰਕਾਂ ਨੂੰ ਹੀ ਸੰਭਾਲਿਆ ਜਾ ਸਕਦਾ ਹੈ
 pocket-panel-saved-error-not-saved = ਸਫ਼ੇ ਨੂੰ ਨਹੀਂ ਸੰਭਾਲਿਆ ਗਿਆ
+pocket-panel-saved-error-no-internet = { -pocket-brand-name } ਵਿੱਚ ਸੰਭਾਲਣ ਲਈ ਤੁਹਾਨੂੰ ਇੰਟਰਨੈੱਟ ਨਾਲ ਕਨੈਕਟ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ। ਇੰਟਰਨੈੱਟ ਨਾਲ ਕਨੈਕਟ ਹੋ ਕੇ ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
 pocket-panel-saved-page-removed = ਸਫ਼ੇ ਨੂੰ ਹਟਾਇਆ ਗਿਆ
 pocket-panel-saved-page-saved = { -pocket-brand-name } ਵਿੱਚ ਸੰਭਾਲਿਆ
 pocket-panel-saved-processing-remove = …ਸਫ਼ੇ ਨੂੰ ਹਟਾਇਆ ਜਾ ਰਿਹਾ ਹੈ

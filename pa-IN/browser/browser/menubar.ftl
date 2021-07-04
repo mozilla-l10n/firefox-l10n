@@ -173,6 +173,9 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = ਟੈਕਸਟ ਇੰਕੋਡਿੰਗ
     .accesskey = c
+menu-view-repair-text-encoding =
+    .label = ਲਿਖਤ ਇੰਕੋਡਿੰਗ ਰਿਪੇਅਰ ਕਰੋ
+    .accesskey = c
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -227,6 +230,8 @@ menu-bookmarks-show-all =
     .label = ਸਭ ਬੁੱਕਮਾਰਕਾਂ ਨੂੰ ਵੇਖੋ
 menu-bookmark-this-page =
     .label = ਇਹ ਸਫ਼ੇ ਨੂੰ ਬੁੱਕਮਾਰਕ ਕਰੋ
+menu-bookmarks-manage =
+    .label = ਬੁੱਕਮਾਰਕਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
 menu-bookmark-current-tab =
     .label = ਮੌਜੂਦਾ ਟੈਬ ਨੂੰ ਬੁੱਕਮਾਰਕ ਕਰੋ
 menu-bookmark-edit =
@@ -254,15 +259,15 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = …{ -brand-product-name } ਲਈ ਸਾਇਨ ਇਨ ਕਰੋ
     .accesskey = g
+menu-tools-turn-on-sync =
+    .label = …{ -sync-brand-short-name } ਚਾਲੂ ਕਰੋ
+    .accesskey = n
 menu-tools-addons-and-themes =
     .label = ਐਡ-ਆਨ ਤੇ ਥੀਮ
     .accesskey = A
 menu-tools-fxa-sign-in2 =
     .label = ਸਾਈਨ ਇਨ ਕਰੋ
     .accesskey = g
-menu-tools-turn-on-sync =
-    .label = …{ -sync-brand-short-name } ਚਾਲੂ ਕਰੋ
-    .accesskey = n
 menu-tools-turn-on-sync2 =
     .label = …ਸਿੰਕ ਨੂੰ ਚਾਲੂ ਕਰੋ
     .accesskey = n
@@ -287,13 +292,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = ਸਫ਼ੇ ਦੀ ਜਾਣਕਾਰੀ
     .accesskey = I
-menu-settings =
-    .label = ਸੈਟਿੰਗਾਂ
-    .accesskey =
-        { PLATFORM() ->
-            [windows] S
-           *[other] n
-        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -303,6 +301,13 @@ menu-preferences =
     .accesskey =
         { PLATFORM() ->
             [windows] O
+           *[other] n
+        }
+menu-settings =
+    .label = ਸੈਟਿੰਗਾਂ
+    .accesskey =
+        { PLATFORM() ->
+            [windows] S
            *[other] n
         }
 menu-tools-layout-debugger =
@@ -342,14 +347,12 @@ menu-help-import-from-another-browser =
 menu-help-keyboard-shortcuts =
     .label = ਕੀਬੋਰਡ ਸ਼ਾਰਟਕੱਟ
     .accesskey = K
-menu-get-help =
-    .label = ਮਦਦ ਲਵੋ
-    .accesskey = H
 menu-help-troubleshooting-info =
     .label = ਸਮੱਸਿਆ ਹੱਲ ਜਾਣਕਾਰੀ
     .accesskey = T
-menu-help-taskmanager =
-    .label = ਟਾਸਕ ਮੈਨੇਜਰ
+menu-get-help =
+    .label = ਮਦਦ ਲਵੋ
+    .accesskey = H
 menu-help-more-troubleshooting-info =
     .label = ਹੋਰ ਸਮੱਸਿਆ ਹੱਲ ਜਾਣਕਾਰੀ
     .accesskey = T
