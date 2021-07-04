@@ -6,8 +6,10 @@
 
 <!ENTITY chatzilla.label       "ChatZilla">
 <!ENTITY version.unknown.label "未知版本">
+<!ENTITY version.known.label   "&#37;S 版">
 
 <!ENTITY homepage.label    "访问主页">
+<!ENTITY copyversion.label "复制版本详细信息">
 
 <!ENTITY section.core.label    "核心开发团队：">
 <!ENTITY section.locale.label  "本地化：">
