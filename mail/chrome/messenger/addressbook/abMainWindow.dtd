@@ -48,6 +48,7 @@
 <!ENTITY editMenu.accesskey                             "E">
 <!ENTITY deleteCmd.label                                "Suprimeix">
 <!ENTITY deleteAbCmd.label                              "Suprimeix la llibreta d'adreces">
+<!ENTITY removeAbCmd.label                              "Elimina la llibreta d'adreces">
 <!ENTITY deleteContactCmd.label                         "Suprimeix el contacte">
 <!ENTITY deleteContactsCmd.label                        "Suprimeix els contactes">
 <!ENTITY deleteListCmd.label                            "Suprimeix la llista">
@@ -140,6 +141,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.label                            "Suprimeix">
 <!ENTITY deleteButton2.accesskey                        "u">
 
+<!ENTITY removeButton.label                             "Elimina">
+<!ENTITY removeButton.accesskey                         "E">
+
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY columnChooser.tooltip                          "Tria les columnes que es mostraran">
 <!ENTITY newContactButton.tooltip                       "Crea un contacte nou a la llibreta d'adreces">
@@ -151,6 +155,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.tooltip                           "Envia un missatge de correu">
 <!ENTITY newIM.tooltip                                  "Envieu un missatge instantani o feu un xat">
 <!ENTITY deleteButton2.tooltip                          "Suprimeix l'element seleccionat">
+
+<!ENTITY removeButton.tooltip                           "Elimina la llibreta d'adreces seleccionada">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "El nom o l'adreça electrònica">
