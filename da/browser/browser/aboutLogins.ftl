@@ -70,7 +70,6 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Leder du efter dine gemte logins? Opsæt { -sync-brand-short-name }.
-about-logins-login-intro-heading-logged-out = Leder du efter dine gemte logins? Opsæt { -sync-brand-short-name } eller importer dine logins.
 about-logins-login-intro-heading-logged-out2 = Leder du efter dine gemte logins? Slå synkronisering til eller importer dem.
 about-logins-login-intro-heading-logged-in = Ingen synkroniserede logins fundet.
 login-intro-description = Hvis du har gemt dine logins i { -brand-product-name } på en anden enhed, så skal du gøre sådan for at anvende dem her også:
@@ -213,9 +212,9 @@ about-logins-confirm-export-dialog-message = Dine adgangskoder bliver gemt som l
 about-logins-confirm-export-dialog-confirm-button = Eksporter…
 about-logins-alert-import-title = Import fuldført
 about-logins-alert-import-message = Se detaljeret oversigt over import
-confirm-discard-changes-dialog-title = Annuller ikke-gemte ændringer?
+confirm-discard-changes-dialog-title = Kasser ikke-gemte ændringer?
 confirm-discard-changes-dialog-message = Alle ikke-gemte ændringer vil gå tabt.
-confirm-discard-changes-dialog-confirm-button = Annuller
+confirm-discard-changes-dialog-confirm-button = Kasser
 
 ## Breach Alert notification
 
@@ -315,7 +314,6 @@ about-logins-import-dialog-error-unable-to-read-title = Kunne ikke tolke filen
 about-logins-import-dialog-error-unable-to-read-description = Kontrollér at det er en CSV- eller TSV-fil.
 about-logins-import-dialog-error-no-logins-imported = Ingen logins er blevet importeret
 about-logins-import-dialog-error-learn-more = Læs mere
-about-logins-import-dialog-error-try-again = Prøv igen…
 about-logins-import-dialog-error-try-import-again = Prøv at importere igen…
 about-logins-import-dialog-error-cancel = Annuller
 about-logins-import-report-title = Oversigt over import
