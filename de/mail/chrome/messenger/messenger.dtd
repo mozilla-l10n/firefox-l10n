@@ -240,7 +240,7 @@
 <!ENTITY ignoredThreadsCmd.accesskey "I">
 
 <!ENTITY headersMenu.label "Kopfzeilen">
-<!ENTITY headersMenu.accesskey "K">
+<!ENTITY headersMenu.accesskey "z">
 <!ENTITY headersAllCmd.label "Alle">
 <!ENTITY headersAllCmd.accesskey "a">
 <!ENTITY headersNormalCmd.label "Normal">

@@ -12,11 +12,28 @@ unread-messages-os-tooltip =
 
 about-rights-notification-text = { -brand-short-name } ist freie und quelloffene Software, entwickelt von einer Gemeinschaft tausender Gleichgesinnter, verteilt über die gesamte Welt.
 
+## Content tabs
+
+content-tab-page-loading-icon =
+    .alt = Diese Seite wird geladen.
+content-tab-security-high-icon =
+    .alt = Die Verbindung ist verschlüsselt.
+content-tab-security-broken-icon =
+    .alt = Die Verbindung ist nicht verschlüsselt.
+
 ## Toolbar
 
 addons-and-themes-button =
     .label = Add-ons und Themes
     .tooltip = Add-ons verwalten
+
+addons-and-themes-toolbarbutton =
+    .label = Add-ons und Themes
+    .tooltiptext = Add-ons verwalten
+
+quick-filter-toolbarbutton =
+    .label = Schnellfilter
+    .tooltiptext = Nachrichten filtern
 
 redirect-msg-button =
     .label = Umleiten
@@ -125,3 +142,11 @@ message-header-address-not-in-address-book-icon =
 addon-removal-title = { $name } entfernen?
 addon-removal-confirmation-button = Entfernen
 addon-removal-confirmation-message = Sowohl { $name } als auch seine Einstellungen und Daten in { -brand-short-name } entfernen?
+
+caret-browsing-prompt-title = Mit Textcursor-Steuerung arbeiten
+caret-browsing-prompt-text = Das Drücken der Taste F7 schaltet das Arbeiten mit Textcursor-Steuerung an und aus. Diese Funktion fügt einen bewegbaren Textcursor in den Inhaltsbereich ein, mit dem. z.B. Text ausgewählt werden kann. Soll die Textcursor-Steuerung aktiviert werden?
+caret-browsing-prompt-check-text = Das nächste Mal nicht nachfragen
+
+repair-text-encoding-button =
+  .label = Textkodierung reparieren
+  .tooltiptext = Richtige Textkodierung basierend auf dem Nachrichteninhalt erraten

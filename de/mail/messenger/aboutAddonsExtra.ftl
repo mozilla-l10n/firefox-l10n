@@ -5,6 +5,8 @@
 add-on-options-button =
     .title = Add-on-Einstellungen
 
+add-on-search-alternative-button-label = Ersatz für Add-on finden
+
 atn-addons-heading-search-input =
     .placeholder = Auf addons.thunderbird.net suchen
 

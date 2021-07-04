@@ -14,3 +14,8 @@ openpgp-compose-key-status-open-details = Schlüssel für gewählten Empfänger 
 openpgp-recip-good = OK
 openpgp-recip-missing = kein Schlüssel vorhanden
 openpgp-recip-none-accepted = kein akzeptierter Schlüssel
+openpgp-compose-alias-status-direct = { $count ->
+               [one] verweist auf einen Alias-Schlüssel
+               *[other] verweist auf {$count} Alias-Schlüssel
+             }
+openpgp-compose-alias-status-error = nicht verwendbarer/verfügbarer Alias-Schlüssel
