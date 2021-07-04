@@ -7,6 +7,9 @@ account-setup-tab-title = Configuració del compte
 ## Header
 
 account-setup-title = Configuració de la vostra adreça electrònica existent
+account-setup-description =
+    Per utilitzar la vostra adreça electrònica actual, empleneu les vostres credencials.<br/>
+    El { -brand-product-name } cercarà automàticament una configuració de servidor recomanada i funcional.
 
 ## Form fields
 
@@ -192,6 +195,10 @@ exchange-dialog-cancel-button = Cancel·la
 account-setup-creation-error-title = Error en crear el compte
 account-setup-error-server-exists = El servidor d'entrada ja existeix.
 account-setup-confirm-advanced-title = Confirmeu la configuració avançada
+account-setup-confirm-advanced-description = Es tancarà aquest diàleg i es crearà un compte amb els paràmetres actuals, encara que la configuració sigui incorrecta. Voleu continuar?
 
 ## Addon installation section
 
+account-setup-addon-install-title = Instal·la
+account-setup-addon-install-intro = Un complement de tercers us pot permetre accedir al vostre compte de correu electrònic d'aquest servidor:
+account-setup-addon-no-protocol = Aquest servidor de correu electrònic no admet protocols oberts. { account-setup-addon-install-intro }
