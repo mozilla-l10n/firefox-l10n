@@ -31,3 +31,6 @@ calendar-editable-item-reminder-icon-suppressed-alarm =
 
 calendar-editable-item-reminder-icon-email =
   .alt = Eine E-Mail zur Erinnerung ist programmiert.
+
+calendar-editable-item-reminder-icon-audio =
+  .alt = Ein Alarm zur Erinnerung mit Klang ist programmiert.
