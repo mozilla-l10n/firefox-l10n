@@ -80,18 +80,37 @@ appmenu-help-exit-troubleshoot-mode =
     .label = Desactiva el mode de resolució de problemes
 appmenu-help-more-troubleshooting-info =
     .label = Més informació de resolució de problemes
+appmenu-redirect-msg =
+    .label = Redirigeix
 
 ## Context menu
 
+context-menu-redirect-msg =
+    .label = Redirigeix
 
 ## Message header pane
 
+other-action-redirect-msg =
+    .label = Redirigeix
 
 ## Action Button Context Menu
 
+toolbar-context-menu-manage-extension =
+    .label = Gestiona l'extensió
+    .accesskey = e
+toolbar-context-menu-remove-extension =
+    .label = Elimina l'extensió
+    .accesskey = x
 
 ## Message headers
 
 
 ## Add-on removal warning
 
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = Voleu eliminar { $name }?
+addon-removal-confirmation-button = Elimina
+caret-browsing-prompt-title = Navegació amb cursor
+caret-browsing-prompt-text = En prémer F7 s'activa o es desactiva la navegació amb cursor. Aquesta característica col·loca un cursor mòbil dins del contingut que us permet seleccionar text amb el teclat. Voleu activar-la?
+caret-browsing-prompt-check-text = No ho tornis a demanar.

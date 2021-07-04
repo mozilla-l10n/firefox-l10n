@@ -4,21 +4,17 @@
 
 fonts-window-close =
     .key = w
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = Per defecte ({ $name })
 fonts-label-default-unnamed =
     .label = Per defecte
-
 fonts-encoding-dialog-title =
     .title = Tipus de lletra i codificacions
-
 fonts-language-legend =
     .value = Tipus de lletra per a:
     .accesskey = T
-
 fonts-proportional-label =
     .value = Proporcional:
     .accesskey = P
@@ -89,45 +85,38 @@ font-language-group-tibetan =
 
 default-font-serif =
     .label = Serif
-
 default-font-sans-serif =
     .label = Sans Serif
-
 font-size-label =
     .value = Mida:
     .accesskey = M
-
+font-size-proportional-label =
+    .value = Mida:
+    .accesskey = M
 font-size-monospace-label =
     .value = Mida:
     .accesskey = i
-
 font-serif-label =
     .value = Serif:
     .accesskey = S
-
 font-sans-serif-label =
     .value = Sans-serif:
     .accesskey = n
-
 font-monospace-label =
     .value = Monoespai:
     .accesskey = M
-
 font-min-size-label =
     .value = Mida mínima de la lletra:
     .accesskey = d
-
 min-size-none =
     .label = Cap
 
 ## Fonts in message
 
 font-control-legend = Control del tipus de lletra
-
 use-document-fonts-checkbox =
     .label = Permet que els missatges utilitzin altres tipus de lletra
     .accesskey = e
-
 use-fixed-width-plain-checkbox =
     .label = Utilitza el tipus de lletra d'amplada fixa per als missatges de text
     .accesskey = x
@@ -135,17 +124,13 @@ use-fixed-width-plain-checkbox =
 ## Language settings
 
 text-encoding-legend = Codificació del text
-
 text-encoding-description = Definiu la codificació del text per defecte per enviar i rebre correu
-
 font-outgoing-email-label =
     .value = Correu de sortida:
     .accesskey = u
-
 font-incoming-email-label =
     .value = Correu d'entrada:
     .accesskey = e
-
 default-font-reply-checkbox =
     .label = Quan sigui possible, utilitza la codificació del text per defecte en les respostes
     .accesskey = z
