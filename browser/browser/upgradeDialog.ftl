@@ -32,12 +32,35 @@ upgrade-dialog-new-secondary-button = ਹੁਣੇ ਨਹੀਂ
 # theme selection screen.
 upgrade-dialog-new-primary-win7-button = ਠੀਕ ਆ, ਸਮਝੇ!
 
+## Pin Firefox screen
+##
+## These title, subtitle and button strings differ between platforms as they
+## match the OS' application context menu item action where Windows uses "pin"
+## and "taskbar" while macOS "keep" and "Dock" (proper noun).
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-pin-title =
+    { PLATFORM() ->
+        [macos] { -brand-short-name } ਨੂੰ ਆਪਣੇ ਡੌਕ ਵਿੱਚ ਰੱਖੋ
+       *[other] { -brand-short-name } ਨੂੰ ਆਪਣੀ ਟਾਸਕਬਾਰ ਵਿੱਚ ਟੰਗੋ
+    }
+upgrade-dialog-pin-primary-button =
+    { PLATFORM() ->
+        [macos] ਡੌਕ ਵਿੱਚ ਰੱਖੋ
+       *[other] ਟਾਸਕਬਾਰ ਵਿੱਚ ਟੰਗੋ
+    }
+upgrade-dialog-pin-secondary-button = ਹੁਣੇ ਨਹੀਂ
+
 ## Default browser screen
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-default-title = { -brand-short-name } ਨੂੰ ਆਪਣਾ ਮੂਲ ਬਰਾਊਜ਼ਰ ਬਣਾਉਣਾ ਹੈ?
 upgrade-dialog-default-subtitle = ਜਦੋਂ ਵੀ ਤੁਸੀਂ ਬਰਾਊਜ਼ ਕਰੋ ਤਾਂ ਸਪੀਡ, ਸੁਰੱਖਿਆ ਅਤੇ ਪਰਦੇਦਾਰੀ ਨਾਲ ਲੈੱਸ ਰਹੋ।
 upgrade-dialog-default-primary-button = ਮੂਲ ਬਰਾਊਜ਼ਰ ਵਜੋਂ ਨਿਯਤ ਕਰੋ
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title-2 = { -brand-short-name } ਨੂੰ ਆਪਣਾ ਮੂਲ ਬਣਾਓ
+upgrade-dialog-default-subtitle-2 = ਸਪੀਡ, ਸੁਰੱਖਿਆ ਤੇ ਪਰਦੇਦਾਰੀ ਨੂੰ ਆਟੋ-ਪਾਇਲਟ ਉੱਤੇ ਲਾਓ।
+upgrade-dialog-default-primary-button-2 = ਮੂਲ ਬਰਾਉਜ਼ਰ ਬਣਾਓ
 upgrade-dialog-default-secondary-button = ਹੁਣੇ ਨਹੀਂ
 
 ## Theme selection screen

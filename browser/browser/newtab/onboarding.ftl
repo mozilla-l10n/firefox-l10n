@@ -281,13 +281,13 @@ mr1-onboarding-reduce-motion-button-label = ਐਨੀਮੇਸ਼ਨਾਂ ਬੰ�
 mr1-onboarding-pin-header =
     { PLATFORM() ->
         [macos] ਸੌਖੀ ਪਹੁੰਚ ਲਈ { -brand-short-name } ਨੂੰ ਆਪਣੇ ਡੌਕ ਵਿੱਚ ਰੱਖੋ
-       *[other] ਸੌਖੀ ਪਹੁੰਚ ਲਈ { -brand-short-name } ਨੂੰ ਆਪਣੀ ਟਾਸਕ-ਪੱਟੀ ਵਿੱਚ ਟੰਗੋ
+       *[other] ਸੌਖੀ ਪਹੁੰਚ ਲਈ { -brand-short-name } ਨੂੰ ਆਪਣੀ ਟਾਸਕਬਾਰ ਵਿੱਚ ਟੰਗੋ
     }
 # Primary button string used on welcome page when Firefox is not pinned.
 mr1-onboarding-pin-primary-button-label =
     { PLATFORM() ->
         [macos] ਡੌਕ ਵਿੱਚ ਰੱਖੋ
-       *[other] ਟਾਸਕ-ਪੱਟੀ ਵਿੱਚ ਟੰਗੋ
+       *[other] ਟਾਸਕਬਾਰ ਵਿੱਚ ਟੰਗੋ
     }
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
@@ -308,6 +308,8 @@ mr1-onboarding-sign-in-button-label = ਸਾਇਨ ਇਨ
 ## when Firefox is not default browser
 
 mr1-onboarding-default-header = { -brand-short-name } ਨੂੰ ਆਪਣਾ ਮੂਲ ਬਣਾਓ
+mr1-onboarding-default-subtitle = ਸਪੀਡ, ਸੁਰੱਖਿਆ ਤੇ ਪਰਦੇਦਾਰੀ ਨੂੰ ਆਟੋ-ਪਾਇਲਟ ਉੱਤੇ ਲਾਓ।
+mr1-onboarding-default-primary-button-label = ਮੂਲ ਬਰਾਊਜ਼ਰ ਬਣਾਓ
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
