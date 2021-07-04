@@ -2,9 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY window.title  "加入频道">
 
+<!ENTITY network.label     "网络：">
+<!ENTITY network.accesskey "N">
 
+<!ENTITY channel.label     "频道：">
+<!ENTITY channel.accesskey "C">
 
+<!ENTITY topics.label     "搜索主题及频道名称">
 <!ENTITY topics.accesskey "t">
 
 <!ENTITY join.label     "加入">
