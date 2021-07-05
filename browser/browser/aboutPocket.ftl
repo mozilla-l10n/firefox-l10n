@@ -15,6 +15,7 @@ pocket-panel-saved-error-generic = Ina errur è succedida durant empruvar da mem
 pocket-panel-saved-error-tag-length = Tags èn limitads a 25 caracters
 pocket-panel-saved-error-only-links = Mo colliaziuns pon vegnir memorisadas
 pocket-panel-saved-error-not-saved = Betg memorisà la pagina
+pocket-panel-saved-error-no-internet = Ti stos esser connectà cun l'internet per pudair memorisar en { -pocket-brand-name }. Ta connectescha per plaschair cun l'internet ed emprova anc ina giada.
 pocket-panel-saved-page-removed = Allontanà la pagina
 pocket-panel-saved-page-saved = Memorisà en { -pocket-brand-name }
 pocket-panel-saved-processing-remove = Allontanar la pagina…

@@ -308,6 +308,8 @@ mr1-onboarding-sign-in-button-label = S'annunziar
 ## when Firefox is not default browser
 
 mr1-onboarding-default-header = Definescha { -brand-short-name } sco standard
+mr1-onboarding-default-subtitle = Surlascha la sveltezza, la segirezza e la sfera privata a l'autopilot.
+mr1-onboarding-default-primary-button-label = Definir sco navigatur da standard
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 

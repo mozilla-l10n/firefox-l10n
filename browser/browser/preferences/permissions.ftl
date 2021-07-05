@@ -18,6 +18,12 @@ permissions-session =
 permissions-allow =
     .label = Permetter
     .accesskey = e
+permissions-button-off =
+    .label = Deactivar
+    .accesskey = D
+permissions-button-off-temporarily =
+    .label = Deactivar temporarmain
+    .accesskey = t
 permissions-site-name =
     .label = Website
 permissions-status =
@@ -58,6 +64,10 @@ permissions-capabilities-listitem-block =
     .value = Bloccar
 permissions-capabilities-listitem-allow-session =
     .value = Permetter per questa sesida
+permissions-capabilities-listitem-off =
+    .value = Deactivà
+permissions-capabilities-listitem-off-temporarily =
+    .value = Deactivà temporarmain
 
 ## Invalid Hostname Dialog
 
@@ -77,6 +87,13 @@ permissions-exceptions-cookie-window =
     .title = Excepziuns - Cookies e datas da websites
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = Ti pos definir per mintga website schebain ella dastga adina u mai utilisar cookies e datas da websites. Tippa l'adressa exacta da la website e clicca lura sin «Bloccar», «Permetter per questa sesida» u sin «Permetter».
+
+## Exceptions - HTTPS-Only Mode
+
+permissions-exceptions-https-only-window =
+    .title = Excepziuns - Modus mo HTTPS
+    .style = { permissions-window.style }
+permissions-exceptions-https-only-desc = Ti pos deactivar il modus Mo-HTTPS per websites specificas. { -brand-short-name } na vegn lura betg a dumandar da midar la connexiun al HTTPS segirà per questas websites. Las excepziuns na valan betg en fanestras privatas.
 
 ## Exceptions - Pop-ups
 
