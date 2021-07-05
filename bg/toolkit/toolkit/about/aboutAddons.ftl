@@ -229,7 +229,7 @@ addon-open-about-debugging = Дебъгване на добавки
 ## Extension shortcut management
 
 # This is displayed in the page options menu
-addon-manage-extensions-shortcuts = Управление на клавишните комбинации на разширението
+addon-manage-extensions-shortcuts = Управление на клавишни комбинации на разширения
     .accesskey = к
 shortcuts-no-addons = Нямате включени разширения.
 shortcuts-no-commands = Следните разширения нямат клавишни комбинации:
@@ -419,7 +419,7 @@ dictionary-heading = Управление на речници
 locale-heading = Управление на езици
 updates-heading = Управление на обновявания
 discover-heading = Персонализирайте вашия { -brand-short-name }
-shortcuts-heading = Управление на клавишните комбинации на разширението
+shortcuts-heading = Управление на клавишни комбинации на разширения
 default-heading-search-label = Намерете още добавки
 addons-heading-search-input =
     .placeholder = търсене в addons.mozilla.org
