@@ -15,6 +15,7 @@ about-telemetry-option-group-older = Koshoc'h
 about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = Roadennoù Telemetry
+about-telemetry-current-store = Stal a-vremañ :
 about-telemetry-more-information = O klask muioc'h a ditouroù?
 about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Teuliadur roadennoù Firefox</a> a ginnig sturlevrioù evit kompren penaos implij hor ostilhoù roadennoù.
 about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Teuliadur arval pellventerezh Firefox</a> a enkorf despizadurioù evit meizadoù, teuliadurioù API ha daveennoù roadennoù.
@@ -77,6 +78,7 @@ about-telemetry-settings-explanation = Ar pellventerezh a zo o tastum { about-te
 #   $name (String): ping name, e.g. “saved-session”
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Kement titour a zo paket ha kaset e “<a data-l10n-name="ping-link">pingoù</a>”. Emaoc'h o sellout ouzh ar ping { $name }, { $timestamp }.
+about-telemetry-data-details-current = Kement titour a vez paket ha kaset e-barzh pingoù “<a data-l10n-name="ping-link"></a>“. Emaoc'h o sellout ouzh ar roadennoù a-vremañ.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
