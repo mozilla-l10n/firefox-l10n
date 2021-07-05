@@ -22,3 +22,5 @@ calendar-editable-item-reminder-icon-suppressed-alarm =
     .alt = Alerta abisua programatua dago baina orain kenduta dago
 calendar-editable-item-reminder-icon-email =
     .alt = Abisu posta elektronikoa programatu da
+calendar-editable-item-reminder-icon-audio =
+    .alt = Audio alerta abisu bat programatu da
