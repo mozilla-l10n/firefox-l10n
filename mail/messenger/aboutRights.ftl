@@ -31,7 +31,7 @@ rights-webservices-term-5 =
     daño o perjuicio indirecto, especial, incidental, resultante, punitivo o ejemplar
     relacionado con el uso de
     { -brand-short-name } y los servicios. La responsabilidad colectiva bajo
-    estos términos no podrá exceder los U$S500 (quinientos dólares estadounidenses). Algunas jurisdicciones
+    estos términos no podrá exceder los U$S 500 (quinientos dólares estadounidenses). Algunas jurisdicciones
     no permiten la exclusión o limitación de ciertos daños, por consiguiente esta
     exclusión y limitación puede no ser aplicable en su caso.</strong>
 rights-webservices-term-6 = De ser necesario, { -vendor-short-name } puede actualizar estos términos en forma esporádica. Estos términos no pueden ser modificados o cancelados sin el consentimiento por escrito de { -vendor-short-name }.
