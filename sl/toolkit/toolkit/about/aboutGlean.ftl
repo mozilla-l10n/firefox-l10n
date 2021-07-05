@@ -7,4 +7,6 @@
 
 about-glean-page-title = O Glean
 about-glean-warning = Nepravilna uporaba tega vmesnika lahko povzroči sesutje { -brand-short-name(sklon: "rodilnik") }.
+tag-pings-label = Označi vse poslane pinge s to oznako
+send-pings-label = Pošlji imenovani ping
 controls-button-label = Pošlji nastavitve

@@ -38,6 +38,24 @@ upgrade-dialog-new-primary-win7-button = Razumem!
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-pin-title =
+    { PLATFORM() ->
+        [macos] Obdrži { -brand-short-name } v Docku
+       *[other] Pripni { -brand-short-name } v opravilno vrstico
+    }
+# The English macOS string avoids repeating "Keep" a third time, so if your
+# translations don't repeat anyway, the same string can be used cross-platform.
+upgrade-dialog-pin-subtitle =
+    { PLATFORM() ->
+        [macos] Ohranite si najsijajnejši { -brand-short-name } doslej na dosegu roke.
+       *[other] Ohranite si najsijajnejši { -brand-short-name } doslej na dosegu roke.
+    }
+upgrade-dialog-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Obdrži v Docku
+       *[other] Pripni v opravilno vrstico
+    }
 upgrade-dialog-pin-secondary-button = Ne zdaj
 
 ## Default browser screen
@@ -46,6 +64,9 @@ upgrade-dialog-pin-secondary-button = Ne zdaj
 upgrade-dialog-default-title = Želite nastaviti { -brand-short-name } za privzeti brskalnik?
 upgrade-dialog-default-subtitle = Izberite hitrost, varnost in zasebnost ob vsakem brskanju.
 upgrade-dialog-default-primary-button = Nastavi kot privzeti brskalnik
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title-2 = Nastavi { -brand-short-name } kot privzeti brskalnik
+upgrade-dialog-default-subtitle-2 = Nastavite hitrost, varnost in zasebnost na avtopilota.
 upgrade-dialog-default-primary-button-2 = Nastavi kot privzeti brskalnik
 upgrade-dialog-default-secondary-button = Ne zdaj
 

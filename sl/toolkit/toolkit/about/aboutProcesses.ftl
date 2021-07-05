@@ -153,6 +153,9 @@ about-processes-frame-name-many = Podokviri ({ $number }): { $shortUrl }
 
 # Common case.
 about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") } ({ NUMBER($total, maximumFractionDigits: 0) } { $unit })
+# Common case.
+about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
+    .title = Skupen procesorski čas: { NUMBER($total, maximumFractionDigits: 0) } { $unit }
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (merjenje)
 # Special case: process or thread is currently idle.
