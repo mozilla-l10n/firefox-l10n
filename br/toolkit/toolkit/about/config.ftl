@@ -18,6 +18,7 @@ about-config-page-title = Gwellvezioù araoket
 about-config-search-input1 =
     .placeholder = Klask un anv gwellvezioù
 about-config-show-all = Diskouez an holl
+about-config-show-only-modified = Diskouez nemet ar gwellvezioù kemmet
 about-config-pref-add-button =
     .title = Ouzhpennañ
 about-config-pref-toggle-button =

@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-ping-data-source = Mammenn roadennoù ping:
+about-telemetry-show-current-data = Roadennoù a-vremañ
 about-telemetry-show-archived-ping-data = Roadennoù ping diellet
 about-telemetry-show-subsession-data = Diskouez ar roadennoù iz-estez
 about-telemetry-choose-ping = Dibabit ar ping:
@@ -100,6 +101,8 @@ about-telemetry-no-search-results-all = Digarezit! N'eus disoc'h ebet evit “{ 
 # Variables:
 #   $sectionName (String): is replaced by the section name.
 about-telemetry-no-data-to-display = Digarezit! N'eus roadenn ebet hegerz e “{ $sectionName }”
+# used as a tooltip for the “current” ping title in the sidebar
+about-telemetry-current-data-sidebar = roadennoù a-vremañ
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = pep tra
 # button label to copy the histogram
@@ -140,3 +143,6 @@ about-telemetry-origin-count = niver
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Firefox Origin Telemetry</a> a enboneg ar roadennoù a-raok kas anezho evit ma c’hallfe { $telemetryServerOwner } kontañ an traoù met n’hallfe ket gouzout m’eo enkorfet { -brand-product-name } en niver hollek. (<a data-l10n-name="prio-blog-link">Gouzout hiroc'h</a>)
+# Variables:
+#  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
+about-telemetry-process = Argerzh { $process }
