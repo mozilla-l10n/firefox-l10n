@@ -47,6 +47,12 @@ toolbar-undelete-button =
     .label = Desezabatu
     .tooltiptext = Desezabatu aukeratutako mezuak
 
+## View
+
+menu-view-repair-text-encoding =
+    .label = Konpondu testu kodeketa
+    .accesskey = K
+
 ## View / Layout
 
 mail-uidensity-label =
