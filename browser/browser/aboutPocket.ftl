@@ -36,7 +36,7 @@ pocket-panel-signup-signup-email = Registrera dig med din e-postadress
 pocket-panel-signup-signup-cta = Registrera dig för { -pocket-brand-name }. Det är gratis.
 pocket-panel-signup-signup-firefox = Registrera dig med { -brand-product-name }
 pocket-panel-signup-tagline = Spara artiklar och videor från { -brand-product-name } för att visa i { -pocket-brand-name } på vilken enhet som helst, när som helst.
-pocket-panel-signup-tagline-story-one = Klicka på { -pocket-brand-name } knappen för att spara vilken artikel, video eller sida som helst från { -brand-product-name }.
+pocket-panel-signup-tagline-story-one = Klicka på { -pocket-brand-name }-knappen för att spara vilken artikel, video eller sida som helst från { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Visa i { -pocket-brand-name } på vilken enhet som helst, när som helst.
 
 ## about:pocket-home panel
