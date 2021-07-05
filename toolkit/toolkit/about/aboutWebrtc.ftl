@@ -37,6 +37,7 @@ about-webrtc-remote-sdp-heading = Oddaljeni SDP
 about-webrtc-remote-sdp-heading-offer = Oddaljeni SDP (Ponudba)
 about-webrtc-remote-sdp-heading-answer = Oddaljeni SDP (Odgovor)
 about-webrtc-sdp-history-heading = Zgodovina SDP
+about-webrtc-sdp-parsing-errors-heading = Napake pri razčlenjevanju SDP
 
 ##
 
@@ -127,6 +128,7 @@ about-webrtc-height-px = Višina (px)
 about-webrtc-consecutive-frames = Zaporedni okvirji
 about-webrtc-time-elapsed = Pretečen čas (s)
 about-webrtc-estimated-framerate = Ocenjena hitrost sličic
+about-webrtc-rotation-degrees = Vrtenje (stopinj)
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
