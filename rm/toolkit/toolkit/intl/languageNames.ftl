@@ -159,6 +159,7 @@ language-name-ru = Russ
 language-name-rw = Kinyarwanda
 language-name-sa = Sanscrit
 language-name-sc = Sard
+language-name-sco = Scots
 language-name-sd = Sindhi
 language-name-se = Samic (nord)
 language-name-sg = Sangro
