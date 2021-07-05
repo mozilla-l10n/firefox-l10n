@@ -181,8 +181,6 @@ page-action-send-tabs-urlbar =
             [one] Trametter il tab ad in apparat
            *[other] Trametter { $tabCount } tabs ad in apparat
         }
-page-action-pocket-panel =
-    .label = Memorisar la pagina en { -pocket-brand-name }
 page-action-copy-url-panel =
     .label = Copiar la colliaziun
 page-action-copy-url-urlbar =
@@ -439,6 +437,8 @@ popup-select-microphone-device =
     .accesskey = M
 popup-select-microphone-icon =
     .tooltiptext = Microfon
+popup-select-speaker-icon =
+    .tooltiptext = Boxas
 popup-all-windows-shared = Tut las fanestras visiblas sin tes visur vegnan cundivididas.
 popup-screen-sharing-not-now =
     .label = Betg ussa
@@ -612,8 +612,6 @@ crashed-subframe-submit =
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = Mussar tut ils segnapaginas
 bookmarks-manage-bookmarks =
     .label = Administrar ils segnapaginas
 bookmarks-recent-bookmarks-panel-subheader = Segnapaginas novs
@@ -686,6 +684,12 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = Memorisar en { -pocket-brand-name }
     .tooltiptext = Memorisar en { -pocket-brand-name }
+
+## Repair text encoding toolbar button
+
+repair-text-encoding-button =
+    .label = Reparar la codaziun dal text
+    .tooltiptext = Engiavinar la codaziun correcta dal text dal cuntegn da la pagina
 
 ## Customize Toolbar Buttons
 

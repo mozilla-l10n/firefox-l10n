@@ -32,12 +32,42 @@ upgrade-dialog-new-secondary-button = Betg ussa
 # theme selection screen.
 upgrade-dialog-new-primary-win7-button = OK, chapì!
 
+## Pin Firefox screen
+##
+## These title, subtitle and button strings differ between platforms as they
+## match the OS' application context menu item action where Windows uses "pin"
+## and "taskbar" while macOS "keep" and "Dock" (proper noun).
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-pin-title =
+    { PLATFORM() ->
+        [macos] Fixar { -brand-short-name } en tes Dock
+       *[other] Fixar { -brand-short-name } en tia taskbar
+    }
+# The English macOS string avoids repeating "Keep" a third time, so if your
+# translations don't repeat anyway, the same string can be used cross-platform.
+upgrade-dialog-pin-subtitle =
+    { PLATFORM() ->
+        [macos] Guarda dad avair la versiun la pli nova e frestga da { -brand-short-name } adina per mauns.
+       *[other] Guarda dad avair la versiun la pli nova e frestga da { -brand-short-name } adina per mauns.
+    }
+upgrade-dialog-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Fixar en il Dock
+       *[other] Fixar en la taskbar
+    }
+upgrade-dialog-pin-secondary-button = Betg ussa
+
 ## Default browser screen
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-default-title = Definir { -brand-short-name } sco navigatur da standard?
 upgrade-dialog-default-subtitle = Va per sveltezza, segirezza e sfera privata durant che ti navigheschas.
 upgrade-dialog-default-primary-button = Definir sco navigatur da standard
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title-2 = Definescha { -brand-short-name } sco standard
+upgrade-dialog-default-subtitle-2 = Surlascha la sveltezza, la segirezza e la sfera privata a l'autopilot.
+upgrade-dialog-default-primary-button-2 = Definir sco navigatur da standard
 upgrade-dialog-default-secondary-button = Betg ussa
 
 ## Theme selection screen
@@ -46,6 +76,8 @@ upgrade-dialog-default-secondary-button = Betg ussa
 upgrade-dialog-theme-title =
     Cumenza da nov
     cun in design actualisà
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-theme-title-2 = Cumenza da nov cun in design frestg
 upgrade-dialog-theme-system = Design dal sistem
     .title = Suonda il design dal sistem operativ per buttuns, menus e fanestras
 upgrade-dialog-theme-light = Cler

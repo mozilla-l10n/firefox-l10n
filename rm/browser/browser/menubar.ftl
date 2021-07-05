@@ -173,6 +173,9 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = Codaziun dal text
     .accesskey = C
+menu-view-repair-text-encoding =
+    .label = Reparar la codaziun dal text
+    .accesskey = c
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -227,6 +230,8 @@ menu-bookmarks-show-all =
     .label = Mussar tut ils segnapaginas
 menu-bookmark-this-page =
     .label = Agiuntar in segnapagina…
+menu-bookmarks-manage =
+    .label = Administrar ils segnapaginas
 menu-bookmark-current-tab =
     .label = Agiuntar in segnapagina per il tab actual
 menu-bookmark-edit =
@@ -254,15 +259,15 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = S'annunziar tar { -brand-product-name }…
     .accesskey = z
+menu-tools-turn-on-sync =
+    .label = Activar { -sync-brand-short-name }…
+    .accesskey = v
 menu-tools-addons-and-themes =
     .label = Supplements e designs
     .accesskey = S
 menu-tools-fxa-sign-in2 =
     .label = S'annunziar
     .accesskey = z
-menu-tools-turn-on-sync =
-    .label = Activar { -sync-brand-short-name }…
-    .accesskey = v
 menu-tools-turn-on-sync2 =
     .label = Activar la sincronisaziun…
     .accesskey = n
@@ -287,13 +292,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Infurmaziuns davart la pagina
     .accesskey = s
-menu-settings =
-    .label = Parameters
-    .accesskey =
-        { PLATFORM() ->
-            [windows] P
-           *[other] p
-        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -304,6 +302,13 @@ menu-preferences =
         { PLATFORM() ->
             [windows] e
            *[other] e
+        }
+menu-settings =
+    .label = Parameters
+    .accesskey =
+        { PLATFORM() ->
+            [windows] P
+           *[other] p
         }
 menu-tools-layout-debugger =
     .label = Debugadi da layout
@@ -342,14 +347,12 @@ menu-help-import-from-another-browser =
 menu-help-keyboard-shortcuts =
     .label = Scursanidas da tastas
     .accesskey = c
-menu-get-help =
-    .label = Ir per agid
-    .accesskey = I
 menu-help-troubleshooting-info =
     .label = Infurmaziuns per schliar problems
     .accesskey = p
-menu-help-taskmanager =
-    .label = Task Manager
+menu-get-help =
+    .label = Ir per agid
+    .accesskey = I
 menu-help-more-troubleshooting-info =
     .label = Dapli infurmaziuns per schliar problems
     .accesskey = D
