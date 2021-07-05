@@ -11,6 +11,7 @@ third-party-intro =
 third-party-header-module-list = Listenn ar molladoù
 third-party-header-loading-events = O kargañ an darvoudoù
 third-party-message-empty = Tamm trede-mollad ebet a zo bet kavet.
+third-party-message-no-duration = N'eo ket enrollet
 third-party-detail-version = Handelv ar restr
 third-party-detail-vendor = Titouroù diwar-benn ar gwerzher
 third-party-detail-occurrences = Degouezhioù
