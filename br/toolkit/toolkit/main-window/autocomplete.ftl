@@ -23,6 +23,9 @@ autocomplete-import-logins-chrome =
 autocomplete-import-logins-chromium =
     <div data-l10n-name="line1">Enporzhit hoc'h anaouder diouzh Chrome</div>
     <div data-l10n-name="line2">evit { $host } ha lec'hiennoù all</div>
+autocomplete-import-logins-chromium-edge =
+    <div data-l10n-name="line1">Enporzhit hoc'h anaouder diouzh Microsoft Edge</div>
+    <div data-l10n-name="line2">evit { $host } ha lec'hiennoù all</div>
 
 ##
 

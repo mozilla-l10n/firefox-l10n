@@ -28,6 +28,28 @@ about-processes-column-cpu-total = Kewerier
 ##    $type (String) The raw type for this process. Used for unknown processes.
 
 about-processes-browser-process-name = { -brand-short-name } (prosesus { $pid })
+about-processes-web-process-name = Web (argerzh { $pid }, rannet)
+about-processes-web-isolated-process-name = Web (argerzh{ $pid }) evit { $origin }
+about-processes-web-large-allocation = Web (argerzh { $pid }, bras) evit { $origin }
+about-processes-with-coop-coep-process-name = Web (argerzh { $pid }, liesorin distaged) evit { $origin }
+about-processes-file-process-name = Restroù (argerzh { $pid })
+about-processes-extension-process-name = Askouezhioù (argerzh { $pid })
+about-processes-privilegedabout-process-name = Diwar-benn (argerzh { $pid })
+about-processes-plugin-process-name = Lugantoù (argerzh { $pid })
+about-processes-privilegedmozilla-process-name = Web (argerzh { $pid }) evit lec'hiennoù { -vendor-short-name }
+about-processes-gmp-plugin-process-name = Lugantoù liesvedia Gecko (argerzh { $pid })
+about-processes-gpu-process-name = GPU (argerzh { $pid })
+
+## Process names
+## Variables:
+##    $pid (String) The process id of this process, assigned by the OS.
+
+
+## Isolated process names
+## Variables:
+##    $pid (String) The process id of this process, assigned by the OS.
+##    $origin (String) The domain name for this process.
+
 
 ## Details within processes
 
