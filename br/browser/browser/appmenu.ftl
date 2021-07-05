@@ -5,6 +5,12 @@
 
 ## App Menu
 
+appmenuitem-update-banner3 =
+    .label-update-downloading = O pellgargañ hizivadenn { -brand-shorter-name }
+    .label-update-available = Hizivadenn hegerz — pellgargañ bremañ
+    .label-update-manual = Hizivadenn hegerz — pellgargañ bremañ
+    .label-update-unsupported = Ne c'haller ket hizivaat — reizhiad digenglotus
+    .label-update-restart = Hizivadenn hegerz — Adloc'hañ diouzhtu
 appmenuitem-protection-dashboard-title = Taolenn-stur ar gwarezioù
 appmenuitem-customize-mode =
     .label = Personelaat…

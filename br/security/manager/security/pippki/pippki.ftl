@@ -25,6 +25,7 @@ reset-password-window =
 pippki-failed-pw-change = N’haller ket kemmañ ar ger-tremen.
 pippki-incorrect-pw = N’ho peus ket enanket ar ger-tremen reizh. Klaskit en-dro mar plij.
 pippki-pw-change-ok = Ger-tremen kemmet gant berzh.
+pippki-pw-empty-warning = Ho kerioù-tremen hag alc'hwezioù prevez miret ne vint ket gwarezet.
 pippki-pw-erased-ok = Dilamet ho peus ho ker-tremen. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = Diwall! Dibabet ho peus na ober gant ur ger-tremen. { pippki-pw-empty-warning }
 pippki-pw-change2empty-in-fips-mode = E mod FIPS emaoc’h bremañ. Azgoulenn a ra FIPS ur ger-tremen bet roet.
