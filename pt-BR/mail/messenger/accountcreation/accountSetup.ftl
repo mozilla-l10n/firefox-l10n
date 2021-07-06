@@ -224,6 +224,35 @@ account-setup-addon-no-protocol = Este servidor de email infelizmente não supor
 
 account-setup-settings-button = Configurações de contas
 account-setup-encryption-button = Criptografia de ponta a ponta
+account-setup-signature-button = Adicionar uma assinatura
+account-setup-dictionaries-button = Baixar dicionários
+account-setup-address-book-carddav-button = Conectar a um catálogo de endereços CardDAV
+account-setup-address-book-ldap-button = Conectar a um catálogo de endereços LDAP
+account-setup-calendar-button = Conectar a uma agenda remota
+account-setup-linked-services-title = Conectar seus serviços vinculados
+account-setup-linked-services-description = O { -brand-short-name } detectou outros serviços vinculados à sua conta de email.
+account-setup-no-linked-description = Configurar outros serviços para aproveitar ao máximo sua experiência de uso do { -brand-short-name }.
+# Variables:
+# $count (Number) - The number of address books found during autoconfig.
+account-setup-found-address-books-description =
+    { $count ->
+        [one] O { -brand-short-name } encontrou um catálogo de endereços vinculado à sua conta de email.
+       *[other] O { -brand-short-name } encontrou { $count } catálogos de endereços vinculados à sua conta de email.
+    }
+# Variables:
+# $count (Number) - The number of calendars found during autoconfig.
+account-setup-found-calendars-description =
+    { $count ->
+        [one] O { -brand-short-name } encontrou uma agenda vinculada à sua conta de email.
+       *[other] O { -brand-short-name } encontrou { $count } agendas vinculadas à sua conta de email.
+    }
+account-setup-button-finish = Concluir
+    .accesskey = C
+account-setup-looking-up-address-books = Procurando catálogos de endereços…
+account-setup-looking-up-calendars = Procurando agendas…
+account-setup-address-books-button = Catálogos de endereços
+account-setup-calendars-button = Agendas
+account-setup-connect-link = Conectar
 
 ## Calendar synchronization dialog
 
