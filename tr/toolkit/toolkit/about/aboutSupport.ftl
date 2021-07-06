@@ -65,6 +65,7 @@ app-basics-rosetta = Rosetta Translated
 app-basics-memory-use = Bellek kullanımı
 app-basics-performance = Performans
 app-basics-service-workers = Kayıtlı Service Worker'lar
+app-basics-third-party = Üçüncü taraf modülleri
 app-basics-profiles = Profiller
 app-basics-launcher-process-status = Başlatıcı işlemi
 app-basics-multi-process-support = Çok işlemli pencereler
