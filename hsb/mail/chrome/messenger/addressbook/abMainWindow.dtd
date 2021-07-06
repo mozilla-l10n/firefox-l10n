@@ -48,7 +48,9 @@
 <!ENTITY editMenu.accesskey                             "b">
 <!ENTITY deleteCmd.label                                "Zhašeć">
 <!ENTITY deleteAbCmd.label                              "Adresnik zhašeć">
+<!ENTITY deleteAbCmd.accesskey                          "Z">
 <!ENTITY removeAbCmd.label                              "Adresnik wotstronić">
+<!ENTITY removeAbCmd.accesskey                          "d">
 <!ENTITY deleteContactCmd.label                         "Kontakt zhašeć">
 <!ENTITY deleteContactsCmd.label                        "Kontakty zhašeć">
 <!ENTITY deleteListCmd.label                            "Lisćinu zhašeć">
