@@ -68,6 +68,7 @@ app-basics-rosetta = 由 Rosetta 转译
 app-basics-memory-use = 内存使用
 app-basics-performance = 性能
 app-basics-service-workers = 已注册的 Service Worker
+app-basics-third-party = 第三方模块
 app-basics-profiles = 配置文件
 app-basics-launcher-process-status = 启动器进程
 app-basics-multi-process-support = 多进程窗口
