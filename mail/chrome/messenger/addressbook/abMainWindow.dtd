@@ -48,6 +48,9 @@
 <!ENTITY editMenu.accesskey                             "U">
 <!ENTITY deleteCmd.label                                "Izbriši">
 <!ENTITY deleteAbCmd.label                              "Izbriši imenik">
+<!ENTITY deleteAbCmd.accesskey                          "I">
+<!ENTITY removeAbCmd.label                              "Odstrani imenik">
+<!ENTITY removeAbCmd.accesskey                          "d">
 <!ENTITY deleteContactCmd.label                         "Izbriši stik">
 <!ENTITY deleteContactsCmd.label                        "Izbriši stike">
 <!ENTITY deleteListCmd.label                            "Izbriši seznam">
@@ -140,6 +143,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.label                            "Izbriši">
 <!ENTITY deleteButton2.accesskey                        "b">
 
+<!ENTITY removeButton.label                             "Odstrani">
+<!ENTITY removeButton.accesskey                         "O">
+
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY columnChooser.tooltip                          "Izberite stolpce za prikaz">
 <!ENTITY newContactButton.tooltip                       "Ustvari nov stik v imeniku">
@@ -151,6 +157,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.tooltip                           "Pošlji poštno sporočilo">
 <!ENTITY newIM.tooltip                                  "Pošlji neposredno sporočilo ali klepetaj">
 <!ENTITY deleteButton2.tooltip                          "Izbriši izbrani predmet">
+
+<!ENTITY removeButton.tooltip                           "Odstrani izbrani imenik">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Ime ali e-pošta">

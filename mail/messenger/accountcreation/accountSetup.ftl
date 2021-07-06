@@ -7,6 +7,8 @@ account-setup-tab-title = Nastavitev računa
 ## Header
 
 account-setup-title = Nastavite obstoječi e-poštni naslov
+account-setup-success-title = Račun uspešno ustvarjen
+account-setup-success-description = Zdaj lahko uporabljate ta račun s { -brand-short-name(sklon: "orodnik") }.
 
 ## Form fields
 
@@ -205,3 +207,9 @@ account-setup-confirm-advanced-description = To pogovorno okno se bo zaprlo in u
 account-setup-addon-install-title = Namesti
 account-setup-addon-install-intro = Dodatek tretjega ponudnika vam lahko omogoči dostop do vašega e-poštnega računa na tem strežniku:
 account-setup-addon-no-protocol = Ta e-poštni strežnik žal ne podpira odprtih protokolov. { account-setup-addon-install-intro }
+
+## Success view
+
+
+## Calendar synchronization dialog
+
