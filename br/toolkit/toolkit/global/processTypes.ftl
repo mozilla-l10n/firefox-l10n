@@ -24,6 +24,8 @@ process-type-weblargeallocation = Derannañ ledan
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = Endalc'had web distaget
+# process preallocated; may change to other types
+process-type-prealloc = Rakderannet
 
 ##
 ## Localization for Gecko process types defined in GeckoProcessTypes.h
