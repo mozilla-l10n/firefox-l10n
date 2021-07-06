@@ -276,38 +276,6 @@ cfr-doorhanger-fission-primary-button = OK, ricevuto
 cfr-doorhanger-fission-secondary-button = Ulteriori informazioni
   .accesskey = U
 
-## What's new: Cookies message
-
-cfr-whatsnew-clear-cookies-header = Protezione automatica contro subdole tecniche di tracciamento
-cfr-whatsnew-clear-cookies-body = Alcuni elementi traccianti ti reindirizzano su altri siti web che, di nascosto, impostano cookie nel browser. Adesso { -brand-short-name } elimina automaticamente questi cookie, impedendogli di seguirti.
-cfr-whatsnew-clear-cookies-image-alt = Illustrazione cookie bloccati
-
-## What's new: Media controls message
-
-cfr-whatsnew-media-keys-header = Più controlli multimediali
-cfr-whatsnew-media-keys-body = Riproduci o metti in pausa audio e video usando direttamente la tastiera o le cuffie. In questo modo è facile gestire contenuti multimediali da un’altra scheda, un altro programma, o perfino quando il computer è bloccato. Puoi anche spostarti da una traccia all’altra usando i tasti avanti e indietro.
-cfr-whatsnew-media-keys-button = Scopri come
-
-## What's new: Search shortcuts
-
-cfr-whatsnew-search-shortcuts-header = Scorciatoie di ricerca nella barra degli indirizzi
-cfr-whatsnew-search-shortcuts-body = Quando digiti il nome di un motore di ricerca o di un sito specifico nella barra degli indirizzi, verrà visualizzata una scorciatoia di colore blu tra i suggerimenti di ricerca. Seleziona questa scorciatoia per completare la ricerca direttamente dalla barra degli indirizzi.
-
-## What's new: Cookies protection
-
-cfr-whatsnew-supercookies-header = Protezione contro i supercookie
-cfr-whatsnew-supercookies-body = I siti web possono associare al tuo browser un “supercookie” in grado di seguirti in lungo e in largo per il Web, anche dopo che hai cancellato i normali cookie. Adesso { -brand-short-name } offre un’efficace protezione contro i supercookie, impedendogli di seguire le tue attività online da un sito all’altro.
-
-## What's new: Better bookmarking
-
-cfr-whatsnew-bookmarking-header = Migliore gestione dei segnalibri
-cfr-whatsnew-bookmarking-body = Tenere traccia dei tuoi siti preferiti è ancora più semplice. { -brand-short-name } ora ricorda la tua posizione preferita per salvare i segnalibri, visualizza automaticamente la barra dei segnalibri quando apri una nuova scheda e fornisce rapido accesso agli altri segnalibri attraverso una cartella nella barra degli strumenti.
-
-## What's new: Cross-site cookie tracking
-
-cfr-whatsnew-cross-site-tracking-header = Protezione completa contro il tracciamento intersito tramite cookie
-cfr-whatsnew-cross-site-tracking-body = Ora puoi scegliere una protezione più estesa contro il tracciamento effettuato per mezzo di cookie. { -brand-short-name} può isolare le attività e i dati del sito in cui ti trovi, impedendo che le informazioni salvate nel browser vengano condivise tra siti diversi.
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = I video di questo sito potrebbero non funzionare correttamente in questa versione di { -brand-short-name }. Aggiorna { -brand-short-name } per garantire il completo supporto della riproduzione video.
