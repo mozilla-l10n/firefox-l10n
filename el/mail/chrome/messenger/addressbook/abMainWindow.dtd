@@ -48,7 +48,9 @@
 <!ENTITY editMenu.accesskey                             "ξ">
 <!ENTITY deleteCmd.label                                "Διαγραφή">
 <!ENTITY deleteAbCmd.label                              "Διαγραφή ευρετηρίου">
+<!ENTITY deleteAbCmd.accesskey                          "Δ">
 <!ENTITY removeAbCmd.label                              "Αφαίρεση ευρετηρίου">
+<!ENTITY removeAbCmd.accesskey                          "υ">
 <!ENTITY deleteContactCmd.label                         "Διαγραφή επαφής">
 <!ENTITY deleteContactsCmd.label                        "Διαγραφή επαφών">
 <!ENTITY deleteListCmd.label                            "Διαγραφή λίστας">
