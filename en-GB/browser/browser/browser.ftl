@@ -165,51 +165,6 @@ page-action-remove-from-urlbar =
 page-action-remove-extension =
     .label = Remove Extension
 
-## Page Action menu
-
-# Variables
-# $tabCount (integer) - Number of tabs selected
-page-action-send-tabs-panel =
-    .label =
-        { $tabCount ->
-            [1] Send Tab to Device
-           *[other] Send { $tabCount } Tabs to Device
-        }
-page-action-send-tabs-urlbar =
-    .tooltiptext =
-        { $tabCount ->
-            [1] Send Tab to Device
-           *[other] Send { $tabCount } Tabs to Device
-        }
-page-action-copy-url-panel =
-    .label = Copy Link
-page-action-copy-url-urlbar =
-    .tooltiptext = Copy Link
-page-action-email-link-panel =
-    .label = Email Link…
-page-action-email-link-urlbar =
-    .tooltiptext = Email Link…
-page-action-share-url-panel =
-    .label = Share
-page-action-share-url-urlbar =
-    .tooltiptext = Share
-page-action-share-more-panel =
-    .label = More…
-page-action-send-tab-not-ready =
-    .label = Synchronising Devices…
-# "Pin" is being used as a metaphor for expressing the fact that these tabs
-# are "pinned" to the left edge of the tabstrip. Really we just want the
-# string to express the idea that this is a lightweight and reversible
-# action that keeps your tab where you can reach it easily.
-page-action-pin-tab-panel =
-    .label = Pin Tab
-page-action-pin-tab-urlbar =
-    .tooltiptext = Pin Tab
-page-action-unpin-tab-panel =
-    .label = Unpin Tab
-page-action-unpin-tab-urlbar =
-    .tooltiptext = Unpin Tab
-
 ## Auto-hide Context Menu
 
 full-screen-autohide =
@@ -477,6 +432,8 @@ urlbar-default-placeholder =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Search or enter address
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Browser is under remote control
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -509,8 +466,6 @@ urlbar-placeholder-search-mode-other-tabs =
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Search with { $name } or enter address
-urlbar-remote-control-notification-anchor =
-    .tooltiptext = Browser is under remote control
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -604,6 +559,10 @@ pointerlock-warning-no-domain = This document has control of your pointer. Press
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Part of this page crashed.</strong> To let { -brand-product-name } know about this issue and get it fixed faster, please submit a report.
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = Part of this page crashed. To let { -brand-product-name } know about this issue and get it fixed faster, please submit a report.
 crashed-subframe-learnmore-link =
     .value = Learn more
 crashed-subframe-submit =
