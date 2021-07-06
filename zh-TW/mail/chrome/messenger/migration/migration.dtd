@@ -11,6 +11,8 @@
 
 <!ENTITY importFromNothing.label        "不要匯入任何東西">
 <!ENTITY importFromNothing.accesskey    "D">
+<!ENTITY importFromThunderbird.label     "Thunderbird">
+<!ENTITY importFromThunderbird.accesskey "T">
 <!ENTITY importFromSeamonkey3.label     "SeaMonkey 2 或更新版本">
 <!ENTITY importFromSeamonkey3.accesskey "S">
 <!ENTITY importFromOutlook.label        "Outlook">
@@ -28,4 +30,3 @@
 
 <!ENTITY done.title                     "匯入完成">
 <!ENTITY done.label                     "成功匯入下列項目:">
-
