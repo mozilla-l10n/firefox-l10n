@@ -7,9 +7,7 @@ account-setup-tab-title = Kontoopsætning
 ## Header
 
 account-setup-title = Tilføj din eksisterende mailadresse
-account-setup-description =
-    For at bruge din nuværende mailadresse, skal du indtaste dine login-oplysninger.<br/>
-    { -brand-product-name } vil automatisk søge efter en anbefalet serverkonfiguration, der virker.
+account-setup-description = For at bruge din nuværende mailadresse, skal du indtaste dine login-oplysninger.
 
 ## Form fields
 
@@ -211,3 +209,9 @@ account-setup-confirm-advanced-description = Denne besked lukkes og en konto med
 account-setup-addon-install-title = Installer
 account-setup-addon-install-intro = En tilføjelse fra tredjepart kan give dig adgang til din mailkonto på denne server:
 account-setup-addon-no-protocol = Denne mailserver understøtter desværre ikke åbne protokoller. { account-setup-addon-install-intro }
+
+## Success view
+
+
+## Calendar synchronization dialog
+
