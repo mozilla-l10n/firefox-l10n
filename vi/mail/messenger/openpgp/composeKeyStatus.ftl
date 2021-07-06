@@ -14,3 +14,10 @@ openpgp-compose-key-status-open-details = Quản lý khóa cho người nhận �
 openpgp-recip-good = ok
 openpgp-recip-missing = không có sẵn khóa
 openpgp-recip-none-accepted = không có khóa được chấp nhận
+openpgp-compose-general-info-alias = { -brand-short-name } thường yêu cầu khóa công khai của người nhận phải chứa ID người dùng có địa chỉ email phù hợp. Điều này có thể được ghi đè bằng cách sử dụng quy tắc bí danh người nhận OpenPGP.
+openpgp-compose-general-info-alias-learn-more = Tìm hiểu thêm
+openpgp-compose-alias-status-direct =
+    { $count ->
+       *[other] được ánh xạ tới { $count } khóa bí danh
+    }
+openpgp-compose-alias-status-error = không thể sử dụng/không khả dụng khóa bí danh

@@ -145,6 +145,7 @@ account-setup-exchange-config-unverifiable = Không thể xác minh cấu hình.
 ## Manual configuration area
 
 account-setup-manual-config-title = Cài đặt máy chủ
+account-setup-incoming-server-legend = Máy chủ nhận thư
 account-setup-protocol-label = Giao thức:
 protocol-imap-option = { account-setup-result-imap }
 protocol-pop-option = { account-setup-result-pop }
@@ -180,18 +181,91 @@ account-setup-warning-cleartext = <b>{ $server }</b> không sử dụng mã hóa
 account-setup-warning-cleartext-details = Máy chủ thư không an toàn không sử dụng kết nối được mã hóa để bảo vệ mật khẩu và thông tin cá nhân của bạn. Bằng cách kết nối với máy chủ này, bạn có thể bị tiết lộ mật khẩu và thông tin cá nhân của mình.
 account-setup-insecure-server-checkbox = Tôi hiểu các rủi ro
     .accesskey = u
+account-setup-insecure-description = { -brand-short-name } có thể cho phép bạn truy cập thư của mình bằng cách sử dụng các cấu hình được cung cấp. Tuy nhiên, bạn nên liên hệ với quản trị viên hoặc nhà cung cấp email của mình về những kết nối không đúng này. Xem <a data-l10n-name="thunderbird-faq-link">câu hỏi thường gặp về Thunderbird</a> để biết thêm thông tin.
+insecure-dialog-cancel-button = Thay đổi cài đặt
+    .accesskey = S
+insecure-dialog-confirm-button = Xác nhận
+    .accesskey = C
 
 ## Warning Exchange confirmation dialog
 
+# Variables:
+#  $domain (String): The name of the server where the configuration was found, e.g. rackspace.com.
+exchange-dialog-question = { -brand-short-name } đã tìm thấy thông tin thiết lập tài khoản của bạn trên { $domain }. Bạn có muốn tiếp tục và gửi thông tin đăng nhập của mình không?
+exchange-dialog-confirm-button = Đăng nhập
+exchange-dialog-cancel-button = Huỷ bỏ
 
 ## Alert dialogs
 
+account-setup-creation-error-title = Lỗi khi tạo tài khoản
+account-setup-error-server-exists = Máy chủ nhận thư đã tồn tại.
+account-setup-confirm-advanced-title = Xác nhận cấu hình nâng cao
+account-setup-confirm-advanced-description = Hộp thoại này sẽ bị đóng và một tài khoản với các cài đặt hiện tại sẽ được tạo, ngay cả khi cấu hình không chính xác. Bạn có muốn tiếp tục?
 
 ## Addon installation section
 
+account-setup-addon-install-title = Cài đặt
+account-setup-addon-install-intro = Một tiện ích mở rộng của bên thứ ba có thể cho phép bạn truy cập tài khoản email của mình trên máy chủ này:
+account-setup-addon-no-protocol = Máy chủ email này không hỗ trợ các giao thức mở. { account-setup-addon-install-intro }
 
 ## Success view
 
+account-setup-settings-button = Cài đặt tài khoản
+account-setup-encryption-button = Mã hóa đầu cuối
+account-setup-signature-button = Thêm chữ ký
+account-setup-dictionaries-button = Tải xuống từ điển
+account-setup-address-book-carddav-button = Kết nối đến sổ địa chỉ CardDAV
+account-setup-address-book-ldap-button = Kết nối đến sổ địa chỉ LDAP
+account-setup-calendar-button = Kết nối đến lịch từ xa
+account-setup-linked-services-title = Kết nối các dịch vụ được liên kết của bạn
+account-setup-linked-services-description = { -brand-short-name } đã phát hiện thấy các dịch vụ khác được liên kết với tài khoản email của bạn.
+account-setup-no-linked-description = Thiết lập các dịch vụ khác để tận dụng tối đa trải nghiệm { -brand-short-name } của bạn.
+# Variables:
+# $count (Number) - The number of address books found during autoconfig.
+account-setup-found-address-books-description =
+    { $count ->
+       *[other] { -brand-short-name } đã tìm thấy { $count } sổ địa chỉ được liên kết với tài khoản email của bạn.
+    }
+# Variables:
+# $count (Number) - The number of calendars found during autoconfig.
+account-setup-found-calendars-description =
+    { $count ->
+       *[other] { -brand-short-name } đã tìm thấy { $count } lịch được liên kết với tài khoản email của bạn.
+    }
+account-setup-button-finish = Hoàn thành
+    .accesskey = F
+account-setup-looking-up-address-books = Đang tra cứu sổ địa chỉ…
+account-setup-looking-up-calendars = Đang tra cứu lịch…
+account-setup-address-books-button = Sổ địa chỉ
+account-setup-calendars-button = Lịch
+account-setup-connect-link = Kết nối
+account-setup-existing-address-book = Đã kết nối
+    .title = Sổ địa chỉ đã được kết nối trước đó
+account-setup-existing-calendar = Đã kết nối
+    .title = Lịch đã được kết nối trước đó
+account-setup-connect-all-calendars = Kết nối tất cả các lịch
+account-setup-connect-all-address-books = Kết nối tất cả các sổ địa chỉ
 
 ## Calendar synchronization dialog
 
+calendar-dialog-title = Kết nối lịch
+calendar-dialog-cancel-button = Hủy bỏ
+    .accesskey = C
+calendar-dialog-confirm-button = Kết nối
+    .accesskey = n
+account-setup-calendar-name-label = Tên
+account-setup-calendar-name-input =
+    .placeholder = Lịch của tôi
+account-setup-calendar-color-label = Màu
+account-setup-calendar-refresh-label = Làm mới
+account-setup-calendar-refresh-manual = Thủ công
+account-setup-calendar-refresh-interval =
+    { $count ->
+       *[other] Mỗi { $count } phút một lần
+    }
+account-setup-calendar-read-only = Chỉ đọc
+    .accesskey = R
+account-setup-calendar-show-reminders = Hiển thị lời nhắc
+    .accesskey = S
+account-setup-calendar-offline-support = Hỗ trợ ngoại tuyến
+    .accesskey = O
