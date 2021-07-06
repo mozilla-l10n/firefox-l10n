@@ -48,7 +48,9 @@
 <!ENTITY editMenu.accesskey                             "z">
 <!ENTITY deleteCmd.label                                "Törlés">
 <!ENTITY deleteAbCmd.label                              "Címjegyzék törlése">
+<!ENTITY deleteAbCmd.accesskey                          "t">
 <!ENTITY removeAbCmd.label                              "Címjegyzék eltávolítása">
+<!ENTITY removeAbCmd.accesskey                          "e">
 <!ENTITY deleteContactCmd.label                         "Névjegy törlése">
 <!ENTITY deleteContactsCmd.label                        "Névjegyek törlése">
 <!ENTITY deleteListCmd.label                            "Lista törlése">

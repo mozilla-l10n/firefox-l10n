@@ -4,6 +4,16 @@
 
 e2e-intro-description = Titkosított vagy digitálisan aláírt üzenetek küldéséhez be kell állítania egy titkosítási technológiát, az OpenPGP-t vagy az S/MIME-ot.
 e2e-intro-description-more = Válassza ki a személyes kulcsát az OpenPGP használatának engedélyezéséhez, vagy a személyes tanúsítványát az S/MIME használatához. Személyes kulcs vagy tanúsítvány esetén Ön a titkos kulcs tulajdonosa.
+e2e-advanced-section = Speciális beállítások
+e2e-attach-key =
+    .label = Saját nyilvános kulcs csatolása az OpenPGP digitális aláírás hozzáadásakor
+    .accesskey = n
+e2e-encrypt-subject =
+    .label = Az OpenPGP üzenetek tárgyának titkosítása
+    .accesskey = t
+e2e-encrypt-drafts =
+    .label = Piszkozatok titkosított formátumban tárolása
+    .accesskey = P
 openpgp-key-user-id-label = Fiók / felhasználói azonosító
 openpgp-keygen-title-label =
     .title = OpenPGP-kulcs előállítása
