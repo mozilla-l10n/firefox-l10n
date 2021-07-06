@@ -212,3 +212,10 @@ account-setup-confirm-advanced-description = Це діалогове вікно 
 account-setup-addon-install-title = Встановити
 account-setup-addon-install-intro = Отримати доступ до вашого облікового запису пошти на цьому сервері може допомогти сторонній додаток:
 account-setup-addon-no-protocol = На жаль, цей поштовий сервер не підтримує відкриті протоколи. { account-setup-addon-install-intro }
+
+## Success view
+
+
+## Calendar synchronization dialog
+
+account-setup-calendar-refresh-label = Оновлювати
