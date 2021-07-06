@@ -10,6 +10,10 @@ account-setup-title = Configurar una dirección de correo electrónico existente
 account-setup-description =
     Para utilizar su dirección de correo electrónico actual, complete sus credenciales. <br/>
     { -brand-product-name } buscará automáticamente una configuración de servidor recomendada y que funcione.
+account-setup-secondary-description = { -brand-product-name } buscará automáticamente la configuración de servidor recomendada y que funcione.
+account-setup-success-title = Cuenta creada correctamente
+account-setup-success-description = Ahora puede usar esta cuenta con { -brand-short-name }.
+account-setup-success-secondary-description = Puede mejorar la experiencia conectando servicios relacionados y configurando los ajustes de cuenta avanzados.
 
 ## Form fields
 
@@ -98,11 +102,15 @@ account-setup-step3-image =
     .title = Configuración encontrada
 account-setup-step4-image =
     .title = Error de conexión
+account-setup-step5-image =
+    .title = Cuenta creada
 account-setup-privacy-footnote = Las credenciales se usarán de acuerdo con nuestra <a data-l10n-name="privacy-policy-link">política de privacidad</a> y solo se guardarán localmente en su computadora.
 account-setup-selection-help = ¿No está seguro de qué seleccionar?
 account-setup-selection-error = ¿Necesita ayuda?
+account-setup-success-help = ¿No está seguro de cómo continuar?
 account-setup-documentation-help = Documentación de instalación
 account-setup-forum-help = Foro de soporte
+account-setup-getting-started = Comenzar
 
 ## Results area
 
@@ -211,3 +219,68 @@ account-setup-confirm-advanced-description = Este diálogo se cerrará y se crea
 account-setup-addon-install-title = Instalar
 account-setup-addon-install-intro = Un complemento de terceros puede permitirle acceder a su cuenta de correo electrónico en este servidor:
 account-setup-addon-no-protocol = Este servidor de correo desafortunadamente no soporta protocolos abiertos. { account-setup-addon-install-intro }
+
+## Success view
+
+account-setup-settings-button = Configuración de la cuenta
+account-setup-encryption-button = Cifrado de punta a punta
+account-setup-signature-button = Agregar una firma
+account-setup-dictionaries-button = Descargar diccionarios
+account-setup-address-book-carddav-button = Conectar a una libreta de direcciones CardDAV
+account-setup-address-book-ldap-button = Conectar a un libreta de direcciones LDAP
+account-setup-calendar-button = Conectar a un calendario remoto
+account-setup-linked-services-title = Conecte sus servicios vinculados
+account-setup-linked-services-description = { -brand-short-name } detectó otros servicios vinculados a su cuenta de correo electrónico.
+account-setup-no-linked-description = Configure otros servicios para aprovechar al máximo su experiencia con { -brand-short-name }.
+# Variables:
+# $count (Number) - The number of address books found during autoconfig.
+account-setup-found-address-books-description =
+    { $count ->
+        [one] { -brand-short-name } encontró una libreta de direcciones vinculada a su cuenta de correo electrónico.
+       *[other] { -brand-short-name } encontró { $count } libretas de direcciones vinculadas a su cuenta de correo electrónico.
+    }
+# Variables:
+# $count (Number) - The number of calendars found during autoconfig.
+account-setup-found-calendars-description =
+    { $count ->
+        [one] { -brand-short-name } encontró una libreta de direcciones vinculada a su cuenta de correo electrónico.
+       *[other] { -brand-short-name } encontró { $count } libretas de direcciones vinculadas a su cuenta de correo electrónico.
+    }
+account-setup-button-finish = Finalizar
+    .accesskey = F
+account-setup-looking-up-address-books = Buscando libretas de direcciones...
+account-setup-looking-up-calendars = Buscando calendarios...
+account-setup-address-books-button = Libretas de direcciones
+account-setup-calendars-button = Calendarios
+account-setup-connect-link = Conectar
+account-setup-existing-address-book = Conectada
+    .title = La libreta de direcciones ya está conectada
+account-setup-existing-calendar = Conectado
+    .title = El calendario ya está conectado
+account-setup-connect-all-calendars = Conectar todos los calendarios
+account-setup-connect-all-address-books = Conectar todas las libretas de direcciones
+
+## Calendar synchronization dialog
+
+calendar-dialog-title = Conectar el calendario
+calendar-dialog-cancel-button = Cancelar
+    .accesskey = C
+calendar-dialog-confirm-button = Conectar
+    .accesskey = n
+account-setup-calendar-name-label = Nombre
+account-setup-calendar-name-input =
+    .placeholder = Mi calendario
+account-setup-calendar-color-label = Color
+account-setup-calendar-refresh-label = Actualizar
+account-setup-calendar-refresh-manual = A mano
+account-setup-calendar-refresh-interval =
+    { $count ->
+        [one] Cada minuto
+       *[other] Cada { $count } minutos
+    }
+account-setup-calendar-read-only = Sólo lectura
+    .accesskey = R
+account-setup-calendar-show-reminders = Mostrar recordatorios
+    .accesskey = S
+account-setup-calendar-offline-support = Ayuda sin conexión
+    .accesskey = O
