@@ -10,6 +10,7 @@ account-setup-title = Nastavenie existujúcej e-mailovej adresy
 account-setup-description =
     Ak chcete použiť svoju existujúcu e-mailovú adresu, vyplňte svoje prihlasovacie údaje.<br/>
     { -brand-product-name } automaticky vyhľadá funkčnú a odporúčanú konfiguráciu servera.
+account-setup-success-secondary-description = Svoj zážitok môžete vylepšiť pripojením súvisiacich služieb a konfiguráciou pokročilých nastavení účtu.
 
 ## Form fields
 
@@ -98,11 +99,15 @@ account-setup-step3-image =
     .title = Konfigurácia bola nájdená
 account-setup-step4-image =
     .title = Chyba pripojenia
+account-setup-step5-image =
+    .title = Účet bol vytvorený
 account-setup-privacy-footnote = Vaše prihlasovacie údaje budú použité v súlade s našimi <a data-l10n-name="privacy-policy-link">pravidlami ochrany osobných údajov</a> a budú uložené iba lokálne vo vašom počítači.
 account-setup-selection-help = Neviete, čo zvoliť?
 account-setup-selection-error = Potrebujete pomoc?
+account-setup-success-help = Nie ste si istí ďalšími krokmi?
 account-setup-documentation-help = Dokumentácia k nastaveniu
 account-setup-forum-help = Fórum podpory
+account-setup-getting-started = Začíname
 
 ## Results area
 
@@ -212,3 +217,36 @@ account-setup-confirm-advanced-description = Toto dialógové okno bude zatvoren
 account-setup-addon-install-title = Nainštalovať
 account-setup-addon-install-intro = Doplnok tretej strany vám umožňuje prístup k vašej e-mailovej adrese na tomto serveri:
 account-setup-addon-no-protocol = Tento e-mailový server bohužiaľ nepodporuje otvorené protokoly. { account-setup-addon-install-intro }
+
+## Success view
+
+account-setup-settings-button = Nastavenia účtu
+account-setup-encryption-button = Obojstranné šifrovanie
+account-setup-signature-button = Pridať podpis
+account-setup-dictionaries-button = Stiahnuť slovníky
+account-setup-address-books-button = Adresáre
+account-setup-calendars-button = Kalendáre
+account-setup-connect-link = Pripojiť
+
+## Calendar synchronization dialog
+
+calendar-dialog-cancel-button = Zrušiť
+    .accesskey = Z
+calendar-dialog-confirm-button = Pripojiť
+    .accesskey = P
+account-setup-calendar-name-label = Názov
+account-setup-calendar-name-input =
+    .placeholder = Môj kalendár
+account-setup-calendar-color-label = Farba
+account-setup-calendar-refresh-label = Aktualizovať
+account-setup-calendar-refresh-manual = Manuálne
+account-setup-calendar-refresh-interval =
+    { $count ->
+        [one] každú minútu
+        [few] každé { $count } minúty
+       *[other] každých { $count } minút
+    }
+account-setup-calendar-read-only = Iba na čítanie
+    .accesskey = b
+account-setup-calendar-show-reminders = Zobrazovať upozornenia
+    .accesskey = o
