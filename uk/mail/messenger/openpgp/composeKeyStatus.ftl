@@ -14,3 +14,12 @@ openpgp-compose-key-status-open-details = Керувати ключами для
 openpgp-recip-good = гаразд
 openpgp-recip-missing = немає ключа
 openpgp-recip-none-accepted = немає прийнятого ключа
+openpgp-compose-general-info-alias = { -brand-short-name } зазвичай вимагає наявності ID користувача з відповідною електронною адресою у відкритому ключі одержувача. Це можна змінити у правилах псевдонімів одержувача OpenPGP.
+openpgp-compose-general-info-alias-learn-more = Докладніше
+openpgp-compose-alias-status-direct =
+    { $count ->
+        [one] показано у ключах псевдоніма
+        [few] показано у { $count } ключах псевдонімів
+       *[many] показано у { $count } ключах псевдонімів
+    }
+openpgp-compose-alias-status-error = непридатний/недоступний ключ псевдоніма

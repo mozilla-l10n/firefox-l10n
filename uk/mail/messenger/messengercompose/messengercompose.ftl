@@ -129,8 +129,6 @@ move-attachment-last-panel-button =
 button-return-receipt =
     .label = Підтвердження отримання
     .tooltiptext = Надсилати запит про підтвердження отримання цього повідомлення
-#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
-consider-bcc-notification = { $count } одержувачі у Кому та Копія можуть бачити адресу одне одного. Ви можете уникнути розголошення одержувачів, використовуючи замість цього приховану копію.
 
 # Addressing Area
 
@@ -178,3 +176,5 @@ many-public-recipients-ignore =
 # Variables:
 # $identity (string) - The name of the used identity, most likely an email address.
 compose-missing-identity-warning = Адреса електронної пошти, що відповідає полю "Від" не знайдена. Повідомлення буде надіслано з використанням поточного поля "Від" і налаштувань адреси електронної пошти { $identity }.
+encrypted-bcc-warning = Під час надсилання зашифрованого повідомлення одержувачі прихованих копій не повністю приховані. Усі одержувачі можуть їх ідентифікувати.
+encrypted-bcc-ignore-button = Зрозуміло
