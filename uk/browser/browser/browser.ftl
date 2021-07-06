@@ -165,53 +165,6 @@ page-action-remove-from-urlbar =
 page-action-remove-extension =
     .label = Вилучити розширення
 
-## Page Action menu
-
-# Variables
-# $tabCount (integer) - Number of tabs selected
-page-action-send-tabs-panel =
-    .label =
-        { $tabCount ->
-            [one] Надіслати вкладку на пристрій
-            [few] Надіслати { $tabCount } вкладки на пристрій
-           *[many] Надіслати { $tabCount } вкладок на пристрій
-        }
-page-action-send-tabs-urlbar =
-    .tooltiptext =
-        { $tabCount ->
-            [one] Надіслати вкладку на пристрій
-            [few] Надіслати { $tabCount } вкладки на пристрій
-           *[many] Надіслати { $tabCount } вкладок на пристрій
-        }
-page-action-copy-url-panel =
-    .label = Копіювати посилання
-page-action-copy-url-urlbar =
-    .tooltiptext = Копіювати посилання
-page-action-email-link-panel =
-    .label = Переслати посилання…
-page-action-email-link-urlbar =
-    .tooltiptext = Переслати посилання…
-page-action-share-url-panel =
-    .label = Поділитися
-page-action-share-url-urlbar =
-    .tooltiptext = Поділитися
-page-action-share-more-panel =
-    .label = Більше…
-page-action-send-tab-not-ready =
-    .label = Синхронізовані пристрої…
-# "Pin" is being used as a metaphor for expressing the fact that these tabs
-# are "pinned" to the left edge of the tabstrip. Really we just want the
-# string to express the idea that this is a lightweight and reversible
-# action that keeps your tab where you can reach it easily.
-page-action-pin-tab-panel =
-    .label = Прикріпити вкладку
-page-action-pin-tab-urlbar =
-    .tooltiptext = Прикріпити вкладку
-page-action-unpin-tab-panel =
-    .label = Відкріпити вкладку
-page-action-unpin-tab-urlbar =
-    .tooltiptext = Відкріпити вкладку
-
 ## Auto-hide Context Menu
 
 full-screen-autohide =
@@ -483,6 +436,8 @@ urlbar-default-placeholder =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Введіть пошуковий запит чи адресу
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Браузер знаходиться під віддаленим керуванням
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -515,8 +470,6 @@ urlbar-placeholder-search-mode-other-tabs =
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Шукайте з { $name } або введіть адресу
-urlbar-remote-control-notification-anchor =
-    .tooltiptext = Браузер знаходиться під віддаленим керуванням
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -610,6 +563,10 @@ pointerlock-warning-no-domain = Цей документ отримав конт�
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Збій частини цієї сторінки.</strong> Надішліть звіт, щоб повідомити { -brand-product-name } про цю проблему для швидшого її розв'язання.
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = Збій частини цієї сторінки. Надішліть звіт, щоб повідомити { -brand-product-name } про цю проблему для швидшого її розв'язання.
 crashed-subframe-learnmore-link =
     .value = Докладніше
 crashed-subframe-submit =
