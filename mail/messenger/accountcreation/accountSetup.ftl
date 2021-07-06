@@ -10,6 +10,7 @@ account-setup-title = Meglévő e-mail fiók beállítása
 account-setup-description =
     A jelenlegi e-mail-címe használatához ki kell töltenie a hitelesítő adatait.<br/>
     A { -brand-product-name } automatikusan megkeresi a működő és ajánlott kiszolgálóbeállításokat.
+account-setup-secondary-description = A { -brand-product-name } automatikusan megkeresi a kiszolgáló működő és ajánlott beállításait.
 account-setup-success-title = Fiók sikeresen létrehozva
 account-setup-success-description = Most már használhatja ezt a fiókot a { -brand-short-name }del.
 account-setup-success-secondary-description = A kapcsolódó szolgáltatások összekapcsolásával, és a fiók speciális beállításainak konfigurálásával javíthatja a felhasználói élményt.
@@ -252,6 +253,34 @@ account-setup-looking-up-calendars = Naptárak keresése…
 account-setup-address-books-button = Címjegyzékek
 account-setup-calendars-button = Naptárak
 account-setup-connect-link = Kapcsolódás
+account-setup-existing-address-book = Kapcsolódva
+    .title = Már kapcsolódik a címjegyzékhez
+account-setup-existing-calendar = Kapcsolódva
+    .title = Már kapcsolódik a naptárhoz
+account-setup-connect-all-calendars = Kapcsolódás az összes naptárhoz
+account-setup-connect-all-address-books = Kapcsolódás az összes címjegyzékhez
 
 ## Calendar synchronization dialog
 
+calendar-dialog-title = Kapcsolódás egy naptárhoz
+calendar-dialog-cancel-button = Mégse
+    .accesskey = M
+calendar-dialog-confirm-button = Kapcsolódás
+    .accesskey = K
+account-setup-calendar-name-label = Név
+account-setup-calendar-name-input =
+    .placeholder = Saját naptár
+account-setup-calendar-color-label = Szín
+account-setup-calendar-refresh-label = Frissítés
+account-setup-calendar-refresh-manual = Kézzel
+account-setup-calendar-refresh-interval =
+    { $count ->
+        [one] Percenként
+       *[other] { $minutes } percenként
+    }
+account-setup-calendar-read-only = Csak olvasható
+    .accesskey = o
+account-setup-calendar-show-reminders = Emlékeztetők megjelenítése
+    .accesskey = E
+account-setup-calendar-offline-support = Offline támogatás
+    .accesskey = O
