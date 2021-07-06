@@ -165,43 +165,6 @@ page-action-remove-from-urlbar =
 page-action-remove-extension =
     .label = 확장 기능 제거
 
-## Page Action menu
-
-# Variables
-# $tabCount (integer) - Number of tabs selected
-page-action-send-tabs-panel =
-    .label = 탭 { $tabCount }개를 기기로 보내기
-page-action-send-tabs-urlbar =
-    .tooltiptext = 탭 { $tabCount }개를 기기로 보내기
-page-action-copy-url-panel =
-    .label = 링크 복사
-page-action-copy-url-urlbar =
-    .tooltiptext = 링크 복사
-page-action-email-link-panel =
-    .label = 메일로 링크 보내기…
-page-action-email-link-urlbar =
-    .tooltiptext = 메일로 링크 보내기…
-page-action-share-url-panel =
-    .label = 공유
-page-action-share-url-urlbar =
-    .tooltiptext = 공유
-page-action-share-more-panel =
-    .label = 더보기…
-page-action-send-tab-not-ready =
-    .label = 기기를 동기화하고 있습니다…
-# "Pin" is being used as a metaphor for expressing the fact that these tabs
-# are "pinned" to the left edge of the tabstrip. Really we just want the
-# string to express the idea that this is a lightweight and reversible
-# action that keeps your tab where you can reach it easily.
-page-action-pin-tab-panel =
-    .label = 탭 고정
-page-action-pin-tab-urlbar =
-    .tooltiptext = 탭 고정
-page-action-unpin-tab-panel =
-    .label = 탭 고정 해제
-page-action-unpin-tab-urlbar =
-    .tooltiptext = 탭 고정 해제
-
 ## Auto-hide Context Menu
 
 full-screen-autohide =
@@ -465,6 +428,8 @@ urlbar-default-placeholder =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = 검색어 또는 주소 입력
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = 브라우저가 원격 제어중
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -497,8 +462,6 @@ urlbar-placeholder-search-mode-other-tabs =
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = { $name } 검색 또는 주소 입력
-urlbar-remote-control-notification-anchor =
-    .tooltiptext = 브라우저가 원격 제어중
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -592,6 +555,10 @@ pointerlock-warning-no-domain = 이 문서가 포인터를 제어하려 합니�
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>이 페이지의 일부가 손상되었습니다.</strong> { -brand-product-name }에게 이 문제를 알리고 더 빨리 해결하려면 보고서를 제출하세요.
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = 이 페이지의 일부가 손상되었습니다.{ -brand-product-name }에게 이 문제를 알리고 더 빨리 해결하려면 보고서를 제출하세요.
 crashed-subframe-learnmore-link =
     .value = 더 알아보기
 crashed-subframe-submit =
