@@ -165,51 +165,6 @@ page-action-remove-from-urlbar =
 page-action-remove-extension =
     .label = Fjern utvidelse
 
-## Page Action menu
-
-# Variables
-# $tabCount (integer) - Number of tabs selected
-page-action-send-tabs-panel =
-    .label =
-        { $tabCount ->
-            [one] Send fane til enhet
-           *[other] Send { $tabCount } faner til enhet
-        }
-page-action-send-tabs-urlbar =
-    .tooltiptext =
-        { $tabCount ->
-            [one] Send fane til enhet
-           *[other] Send { $tabCount } faner til enhet
-        }
-page-action-copy-url-panel =
-    .label = Kopier lenke
-page-action-copy-url-urlbar =
-    .tooltiptext = Kopier lenke
-page-action-email-link-panel =
-    .label = Send lenke med e-post…
-page-action-email-link-urlbar =
-    .tooltiptext = Send lenke med e-post…
-page-action-share-url-panel =
-    .label = Del
-page-action-share-url-urlbar =
-    .tooltiptext = Del
-page-action-share-more-panel =
-    .label = Mer…
-page-action-send-tab-not-ready =
-    .label = Synkroniserer enheter…
-# "Pin" is being used as a metaphor for expressing the fact that these tabs
-# are "pinned" to the left edge of the tabstrip. Really we just want the
-# string to express the idea that this is a lightweight and reversible
-# action that keeps your tab where you can reach it easily.
-page-action-pin-tab-panel =
-    .label = Fest fane
-page-action-pin-tab-urlbar =
-    .tooltiptext = Fest fane
-page-action-unpin-tab-panel =
-    .label = Løs fane
-page-action-unpin-tab-urlbar =
-    .tooltiptext = Løs fane
-
 ## Auto-hide Context Menu
 
 full-screen-autohide =
@@ -477,6 +432,8 @@ urlbar-default-placeholder =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Søk eller skriv inn adresse
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Nettleseren er under fjernstyring
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -509,8 +466,6 @@ urlbar-placeholder-search-mode-other-tabs =
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Søk med { $name } eller skriv inn adresse
-urlbar-remote-control-notification-anchor =
-    .tooltiptext = Nettleseren er under fjernstyring
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -604,6 +559,10 @@ pointerlock-warning-no-domain = Dette dokumentet har kontroll over musepekeren d
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>En del av denne siden krasjet.</strong> For å informere { -brand-product-name } om dette problemet og få det løst raskere, må du sende inn en rapport.
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = En del av denne siden krasjet. For å informere { -brand-product-name } om dette problemet og få det løst raskere, må du sende inn en rapport.
 crashed-subframe-learnmore-link =
     .value = Les mer
 crashed-subframe-submit =
