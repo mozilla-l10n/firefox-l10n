@@ -14,3 +14,4 @@ openpgp-compose-key-status-open-details = Διαχείριση κλειδιών 
 openpgp-recip-good = ok
 openpgp-recip-missing = κανένα διαθέσιμο κλειδί
 openpgp-recip-none-accepted = κανένα αποδεκτό κλειδί
+openpgp-compose-general-info-alias-learn-more = Μάθετε περισσότερα
