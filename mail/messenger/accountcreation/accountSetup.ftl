@@ -10,6 +10,8 @@ account-setup-title = Mevcut E-posta Adresinizi Ayarlayın
 account-setup-description =
     Mevcut e-posta adresinizi kullanmak için hesap bilgilerinizi girin.<br/>
     { -brand-product-name } önerilen sunucu yapılandırmasını otomatik olarak arayacaktır.
+account-setup-success-title = Hesap başarıyla oluşturuldu
+account-setup-success-description = Artık bu hesabı { -brand-short-name } ile kullanabilirsiniz.
 
 ## Form fields
 
@@ -98,6 +100,8 @@ account-setup-step3-image =
     .title = Yapılandırma bulundu
 account-setup-step4-image =
     .title = Bağlantı hatası
+account-setup-step5-image =
+    .title = Hesap oluşturuldu
 account-setup-privacy-footnote = Hesap bilgileriniz <a data-l10n-name="privacy-policy-link">gizlilik politikamıza</a> uygun şekilde kullanılacak ve yalnızca bilgisayarınızda saklanacaktır.
 account-setup-selection-help = Neyi seçeceğinizden emin değil misiniz?
 account-setup-selection-error = Yardım mı lazım?
@@ -211,3 +215,27 @@ account-setup-confirm-advanced-description = Bu iletişim kutusu kapatılacak ve
 account-setup-addon-install-title = Yükle
 account-setup-addon-install-intro = Üçüncü taraflarca geliştirilen bir eklenti, bu sunucudaki e-posta hesabınıza erişmenize olanak sağlayabilir:
 account-setup-addon-no-protocol = Bu e-posta sunucusu maalesef açık protokolleri desteklemiyor. { account-setup-addon-install-intro }
+
+## Success view
+
+account-setup-settings-button = Hesap ayarları
+account-setup-encryption-button = Uçtan uca şifreleme
+account-setup-signature-button = İmza ekle
+account-setup-dictionaries-button = Sözlük indir
+account-setup-button-finish = Bitir
+    .accesskey = B
+account-setup-looking-up-address-books = Adres defterleri aranıyor…
+account-setup-looking-up-calendars = Takvimler aranıyor…
+account-setup-address-books-button = Adres defterleri
+account-setup-calendars-button = Takvimler
+account-setup-connect-link = Bağlan
+account-setup-existing-address-book = Bağlı
+    .title = Adres defteri zaten bağlı
+account-setup-existing-calendar = Bağlı
+    .title = Takvim zaten bağlı
+account-setup-connect-all-calendars = Tüm takvimleri bağla
+account-setup-connect-all-address-books = Tüm adres defterlerini bağla
+
+## Calendar synchronization dialog
+
+calendar-dialog-title = Takvimi bağla

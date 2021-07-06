@@ -281,6 +281,8 @@ openpgp-selection-status =
        *[other] Geçerli yapılandırmalarınızda <b>{ $key }</b> anahtar kimliği kullanılıyor
     }
 #   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status-have-key = Geçerli yapılandırmalarınızda <b>{ $key }</b> anahtar kimliği kullanılıyor
+#   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-error = Geçerli yapılandırmanızda süresi dolmuş <b>{ $key }</b> anahtarı kullanılıyor.
 openpgp-add-key-button =
     .label = Anahtar ekle…
