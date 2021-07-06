@@ -10,6 +10,8 @@ account-setup-title = 設定現有的電子郵件地址
 account-setup-description =
     若要使用您目前的電子郵件地址，請填寫該帳號的登入資訊。<br/>
     { -brand-product-name } 將會自動尋找可用並建議使用的伺服器設定。
+account-setup-success-title = 成功建立帳號！
+account-setup-success-description = 您可以在 { -brand-short-name } 使用此帳號了。
 
 ## Form fields
 
@@ -98,11 +100,15 @@ account-setup-step3-image =
     .title = 找到設定
 account-setup-step4-image =
     .title = 連線錯誤
+account-setup-step5-image =
+    .title = 已建立帳號
 account-setup-privacy-footnote = 將依照我們的<a data-l10n-name="privacy-policy-link">隱私權保護政策</a>使用您的登入資訊，並且只會儲存於您本機電腦上。
 account-setup-selection-help = 不確定要怎麼選？
 account-setup-selection-error = 需要幫忙嗎？
+account-setup-success-help = 不確定接下來要做什麼嗎？
 account-setup-documentation-help = 設定文件
 account-setup-forum-help = 技術支援討論區
+account-setup-getting-started = 開始使用
 
 ## Results area
 
@@ -210,3 +216,53 @@ account-setup-confirm-advanced-description = 此對話框將關閉，就算設�
 account-setup-addon-install-title = 安裝
 account-setup-addon-install-intro = 安裝第三方附加元件後，可讓您存取此伺服器上的郵件帳號:
 account-setup-addon-no-protocol = 此郵件伺服器不支援開放式通訊協定。{ account-setup-addon-install-intro }
+
+## Success view
+
+account-setup-settings-button = 帳號設定
+account-setup-encryption-button = 端到端加密
+account-setup-signature-button = 加入簽章
+account-setup-dictionaries-button = 下載字典套件
+account-setup-address-book-carddav-button = 連結 CardDAV 通訊錄
+account-setup-address-book-ldap-button = 連結 LDAP 通訊錄
+account-setup-calendar-button = 連結遠端行事曆
+account-setup-linked-services-title = 連結您的線上服務
+account-setup-linked-services-description = { -brand-short-name } 偵測到您的郵件帳號可連結其他服務。
+account-setup-button-finish = 完成
+    .accesskey = F
+account-setup-looking-up-address-books = 正在尋找通訊錄…
+account-setup-looking-up-calendars = 正在尋找行事曆…
+account-setup-address-books-button = 通訊錄
+account-setup-calendars-button = 行事曆
+account-setup-connect-link = 連結
+account-setup-existing-address-book = 已連結
+    .title = 已經連結該通訊錄
+account-setup-existing-calendar = 已連結
+    .title = 已經連結該行事曆
+account-setup-connect-all-calendars = 連結所有行事曆
+account-setup-connect-all-address-books = 連結所有通訊錄
+
+## Calendar synchronization dialog
+
+calendar-dialog-title = 連結行事曆
+calendar-dialog-cancel-button = 取消
+    .accesskey = C
+calendar-dialog-confirm-button = 連結
+    .accesskey = n
+account-setup-calendar-name-label = 名稱
+account-setup-calendar-name-input =
+    .placeholder = 我的行事曆
+account-setup-calendar-color-label = 色彩
+account-setup-calendar-refresh-label = 重新整理
+account-setup-calendar-refresh-manual = 手動
+account-setup-calendar-refresh-interval =
+    { $count ->
+        [one] 每分鐘
+       *[other] 每 { $count } 分鐘
+    }
+account-setup-calendar-read-only = 唯讀
+    .accesskey = R
+account-setup-calendar-show-reminders = 顯示提醒
+    .accesskey = S
+account-setup-calendar-offline-support = 離線支援
+    .accesskey = O
