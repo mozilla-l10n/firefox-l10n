@@ -13,11 +13,23 @@ unread-messages-os-tooltip =
     }
 about-rights-notification-text = { -brand-short-name } je brezplačen in odprtokoden program, ki ga ustvarja skupnost tisočev prostovoljcev z vsega sveta.
 
+## Content tabs
+
+content-tab-page-loading-icon =
+    .alt = Stran se nalaga
+content-tab-security-high-icon =
+    .alt = Povezava je varna
+content-tab-security-broken-icon =
+    .alt = Povezava ni zavarovana
+
 ## Toolbar
 
-addons-and-themes-button =
+addons-and-themes-toolbarbutton =
     .label = Dodatki in teme
-    .tooltip = Upravljanje dodatkov
+    .tooltiptext = Upravljanje dodatkov
+quick-filter-toolbarbutton =
+    .label = Hitri filter
+    .tooltiptext = Filtriraj sporočila
 redirect-msg-button =
     .label = Preusmeri
     .tooltiptext = Preusmeri izbrano sporočilo
