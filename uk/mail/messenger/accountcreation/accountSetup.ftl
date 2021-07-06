@@ -10,6 +10,10 @@ account-setup-title = Налаштуйте свою наявну електро�
 account-setup-description =
     Щоб використовувати поточну адресу електронної пошти, заповніть свої дані. <br/>
     { -brand-product-name } автоматично шукатиме робочу та рекомендовану конфігурацію сервера.
+account-setup-secondary-description = { -brand-product-name } автоматично шукатиме робочу та рекомендовану конфігурації сервера.
+account-setup-success-title = Обліковий запис створено!
+account-setup-success-description = Тепер ви можете користуватися цим обліковим записом у { -brand-short-name }.
+account-setup-success-secondary-description = Ви можете додати функціональність, під'єднавши пов'язані служби та сконфігурувавши розширені налаштування облікового запису.
 
 ## Form fields
 
@@ -98,11 +102,15 @@ account-setup-step3-image =
     .title = Конфігурацію знайдено
 account-setup-step4-image =
     .title = Помилка з'єднання
+account-setup-step5-image =
+    .title = Обліковий запис створено
 account-setup-privacy-footnote = Ваші облікові дані використовуватимуться згідно з нашою <a data-l10n-name="privacy-policy-link">політикою конфіденційності</a> та зберігатимуться лише локально на вашому комп’ютері.
 account-setup-selection-help = Не знаєте, що вибрати?
 account-setup-selection-error = Потрібна допомога?
+account-setup-success-help = Не впевнені що робити далі?
 account-setup-documentation-help = Документація з налаштування
 account-setup-forum-help = Форум підтримки
+account-setup-getting-started = Почнімо
 
 ## Results area
 
@@ -215,7 +223,68 @@ account-setup-addon-no-protocol = На жаль, цей поштовий сер�
 
 ## Success view
 
+account-setup-settings-button = Налаштування облікового запису
+account-setup-encryption-button = Наскрізне шифрування
+account-setup-signature-button = Додати підпис
+account-setup-dictionaries-button = Завантажити словники
+account-setup-address-book-carddav-button = Під'єднати адресну книгу CardDAV
+account-setup-address-book-ldap-button = Під'єднати адресну книгу LDAP
+account-setup-calendar-button = Під'єднати віддалений календар
+account-setup-linked-services-title = Під'єднати пов’язані служби
+account-setup-linked-services-description = { -brand-short-name } виявив інші служби, пов’язані з вашим обліковим записом електронної пошти.
+account-setup-no-linked-description = Налаштуйте інші служби, щоб отримати максимальну зручність роботи з { -brand-short-name }.
+# Variables:
+# $count (Number) - The number of address books found during autoconfig.
+account-setup-found-address-books-description =
+    { $count ->
+        [one] { -brand-short-name } знайшов адресну книгу, пов’язану з вашою електронною адресою.
+        [few] { -brand-short-name } знайшов { $count } адресні книги, пов’язані з вашою електронною адресою.
+       *[many] { -brand-short-name } знайшов { $count } адресних книг, пов’язаних з вашою електронною адресою.
+    }
+# Variables:
+# $count (Number) - The number of calendars found during autoconfig.
+account-setup-found-calendars-description =
+    { $count ->
+        [one] { -brand-short-name } знайшов календар, пов’язаний з вашою електронною адресою.
+        [few] { -brand-short-name } знайшов { $count } календарі, пов’язані з вашою електронною адресою.
+       *[many] { -brand-short-name } знайшов { $count } календарів, пов’язаних з вашою електронною адресою.
+    }
+account-setup-button-finish = Завершити
+    .accesskey = З
+account-setup-looking-up-address-books = Пошук адресних книг…
+account-setup-looking-up-calendars = Пошук календарів…
+account-setup-address-books-button = Адресні книги
+account-setup-calendars-button = Календарі
+account-setup-connect-link = Під'єднати
+account-setup-existing-address-book = Під'єднано
+    .title = Адресна книга вже під'єднана
+account-setup-existing-calendar = Під'єднано
+    .title = Календар вже під'єднаний
+account-setup-connect-all-calendars = Під’єднайте всі календарі
+account-setup-connect-all-address-books = Під’єднайте всі адресні книги
 
 ## Calendar synchronization dialog
 
+calendar-dialog-title = Під'єднати календар
+calendar-dialog-cancel-button = Скасувати
+    .accesskey = С
+calendar-dialog-confirm-button = Під'єднати
+    .accesskey = н
+account-setup-calendar-name-label = Назва
+account-setup-calendar-name-input =
+    .placeholder = Мій календар
+account-setup-calendar-color-label = Колір
 account-setup-calendar-refresh-label = Оновлювати
+account-setup-calendar-refresh-manual = Вручну
+account-setup-calendar-refresh-interval =
+    { $count ->
+        [one] Щохвилини
+        [few] Кожні { $count } хв
+       *[many] Кожні { $count } хв
+    }
+account-setup-calendar-read-only = Лише для читання
+    .accesskey = и
+account-setup-calendar-show-reminders = Показувати сповіщення
+    .accesskey = П
+account-setup-calendar-offline-support = Підтримка автономного режиму
+    .accesskey = а
