@@ -9,8 +9,6 @@
 <!ENTITY calendar.newevent.button.tooltip         "Skapa ny händelse" >
 <!ENTITY calendar.newtask.button.tooltip          "Skapa ny uppgift" >
 
-<!ENTITY calendar.unifinder.todoitems.label       "Uppgifter" >
-
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Visa slutförda uppgifter">
 
 <!ENTITY calendar.today.button.label          "Idag">
@@ -355,7 +353,6 @@
 <!ENTITY calendarproperties.color.label                    "Färg:">
 <!ENTITY calendarproperties.webdav.label                   "iCalendar (ICS)">
 <!ENTITY calendarproperties.caldav.label                   "CalDAV">
-<!ENTITY calendarproperties.wcap.label                     "Sun Java System Calendar Server (WCAP)">
 <!ENTITY calendarproperties.format.label                   "Format:">
 <!ENTITY calendarproperties.location.label                 "Plats:">
 <!ENTITY calendarproperties.refreshInterval.label          "Uppdatera kalender:">
@@ -363,8 +360,7 @@
 <!ENTITY calendarproperties.name.label                     "Namn:">
 <!ENTITY calendarproperties.readonly.label                 "Skrivskyddad">
 <!ENTITY calendarproperties.firealarms.label               "Visa påminnelse">
-<!ENTITY calendarproperties.cache3.label                   "Offline support">
-<!ENTITY calendarproperties.enabled.label                  "Slå på denna kalender">
+<!ENTITY calendarproperties.cache3.label                   "Offline-support">
 <!ENTITY calendarproperties.enabled2.label                 "Aktivera den här kalendern">
 <!ENTITY calendarproperties.forceDisabled.label            "Leverantören för den här kalendern kunde inte hittas. Detta händer ofta om du har inaktiverat eller avinstallerat vissa addons.">
 <!ENTITY calendarproperties.unsubscribe.label              "Avsluta prenumeration">
