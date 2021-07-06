@@ -165,51 +165,6 @@ page-action-remove-from-urlbar =
 page-action-remove-extension =
     .label = Uzantıyı kaldır
 
-## Page Action menu
-
-# Variables
-# $tabCount (integer) - Number of tabs selected
-page-action-send-tabs-panel =
-    .label =
-        { $tabCount ->
-            [one] Sekmeyi cihaza gönder
-           *[other] { $tabCount } sekmeyi cihaza gönder
-        }
-page-action-send-tabs-urlbar =
-    .tooltiptext =
-        { $tabCount ->
-            [one] Sekmeyi cihaza gönder
-           *[other] { $tabCount } sekmeyi cihaza gönder
-        }
-page-action-copy-url-panel =
-    .label = Bağlantıyı kopyala
-page-action-copy-url-urlbar =
-    .tooltiptext = Bağlantıyı kopyala
-page-action-email-link-panel =
-    .label = Bağlantıyı e-postayla gönder…
-page-action-email-link-urlbar =
-    .tooltiptext = Bağlantıyı e-postayla gönder…
-page-action-share-url-panel =
-    .label = Paylaş
-page-action-share-url-urlbar =
-    .tooltiptext = Paylaş
-page-action-share-more-panel =
-    .label = Daha fazla…
-page-action-send-tab-not-ready =
-    .label = Cihazlar eşitleniyor…
-# "Pin" is being used as a metaphor for expressing the fact that these tabs
-# are "pinned" to the left edge of the tabstrip. Really we just want the
-# string to express the idea that this is a lightweight and reversible
-# action that keeps your tab where you can reach it easily.
-page-action-pin-tab-panel =
-    .label = Sekmeyi sabitle
-page-action-pin-tab-urlbar =
-    .tooltiptext = Sekmeyi sabitle
-page-action-unpin-tab-panel =
-    .label = Normal sekmeye dönüştür
-page-action-unpin-tab-urlbar =
-    .tooltiptext = Normal sekmeye dönüştür
-
 ## Auto-hide Context Menu
 
 full-screen-autohide =
@@ -479,6 +434,8 @@ urlbar-default-placeholder =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Arama yapın veya adres yazın
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Tarayıcı uzaktan kontrol ediliyor
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -511,8 +468,6 @@ urlbar-placeholder-search-mode-other-tabs =
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = { $name } ile arama yapın veya adres yazın
-urlbar-remote-control-notification-anchor =
-    .tooltiptext = Tarayıcı uzaktan kontrol ediliyor
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -606,6 +561,10 @@ pointerlock-warning-no-domain = Bu belge işaretçinizi kontrol ediyor. Kontrol�
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Bu sayfanın bir kısmı çöktü.</strong> Bize rapor göndererek sorunu bildirirseniz { -brand-product-name } tarayıcınızı daha hızlı düzeltebiliriz.
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = Bu sayfanın bir kısmı çöktü. Bize rapor göndererek sorunu bildirirseniz { -brand-product-name } tarayıcınızı daha hızlı düzeltebiliriz.
 crashed-subframe-learnmore-link =
     .value = Daha fazla bilgi al
 crashed-subframe-submit =
