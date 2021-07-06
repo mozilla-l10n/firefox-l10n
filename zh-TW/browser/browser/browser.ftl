@@ -165,51 +165,6 @@ page-action-remove-from-urlbar =
 page-action-remove-extension =
     .label = 移除擴充套件
 
-## Page Action menu
-
-# Variables
-# $tabCount (integer) - Number of tabs selected
-page-action-send-tabs-panel =
-    .label =
-        { $tabCount ->
-            [1] 將分頁傳送到其他裝置
-           *[other] 傳送 { $tabCount } 個到其他裝置
-        }
-page-action-send-tabs-urlbar =
-    .tooltiptext =
-        { $tabCount ->
-            [1] 將分頁傳送到其他裝置
-           *[other] 傳送 { $tabCount } 個到其他裝置
-        }
-page-action-copy-url-panel =
-    .label = 複製鏈結
-page-action-copy-url-urlbar =
-    .tooltiptext = 複製鏈結
-page-action-email-link-panel =
-    .label = 郵寄鏈結…
-page-action-email-link-urlbar =
-    .tooltiptext = 郵寄鏈結…
-page-action-share-url-panel =
-    .label = 分享
-page-action-share-url-urlbar =
-    .tooltiptext = 分享
-page-action-share-more-panel =
-    .label = 更多…
-page-action-send-tab-not-ready =
-    .label = 正在同步裝置…
-# "Pin" is being used as a metaphor for expressing the fact that these tabs
-# are "pinned" to the left edge of the tabstrip. Really we just want the
-# string to express the idea that this is a lightweight and reversible
-# action that keeps your tab where you can reach it easily.
-page-action-pin-tab-panel =
-    .label = 釘選分頁
-page-action-pin-tab-urlbar =
-    .tooltiptext = 釘選分頁
-page-action-unpin-tab-panel =
-    .label = 還原成普通分頁
-page-action-unpin-tab-urlbar =
-    .tooltiptext = 還原成普通分頁
-
 ## Auto-hide Context Menu
 
 full-screen-autohide =
@@ -477,6 +432,8 @@ urlbar-default-placeholder =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = 搜尋或輸入網址
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = 瀏覽器正被遠端控制中
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -509,8 +466,6 @@ urlbar-placeholder-search-mode-other-tabs =
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = 使用 { $name } 搜尋或輸入網址
-urlbar-remote-control-notification-anchor =
-    .tooltiptext = 瀏覽器正被遠端控制中
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -604,6 +559,10 @@ pointerlock-warning-no-domain = 此文件可控制您的滑鼠游標，按 Esc �
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>此頁面中的部分內容發生錯誤。</strong>您同意的話，可將此問題回報給 { -brand-product-name }，讓我們更快修正。
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = 此頁面中的部分內容發生錯誤。您同意的話，可將此問題回報給 { -brand-product-name }，讓我們更快修正。
 crashed-subframe-learnmore-link =
     .value = 了解更多
 crashed-subframe-submit =
