@@ -11,6 +11,8 @@
 
 <!ENTITY importFromNothing.label        "Να μην εισαχθεί τίποτα">
 <!ENTITY importFromNothing.accesskey    "τ">
+<!ENTITY importFromThunderbird.label     "Thunderbird">
+<!ENTITY importFromThunderbird.accesskey "T">
 <!ENTITY importFromSeamonkey3.label     "SeaMonkey 2 ή μεταγενέστερη">
 <!ENTITY importFromSeamonkey3.accesskey "S">
 <!ENTITY importFromOutlook.label        "Outlook">
