@@ -90,6 +90,9 @@ permissions-exceptions-cookie-desc = Yatikïr naya' ketal ri taq ajk'amaya'l rux
 
 ## Exceptions - HTTPS-Only Mode
 
+permissions-exceptions-https-only-window =
+    .title = Taq cha'oj - Xa xe Rub'anikil-HTTPS
+    .style = { permissions-window.style }
 
 ## Exceptions - Pop-ups
 

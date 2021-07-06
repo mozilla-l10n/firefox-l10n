@@ -48,6 +48,7 @@ upgrade-dialog-default-subtitle = Tak'ulu' aninem, jikomal chuqa' ichinanem toq 
 upgrade-dialog-default-primary-button = Tiya' kan achi'el kanob'äl k'o wi
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-default-title-2 = ¿La nib'an chi ri { -brand-short-name } tok nab'ey?
+upgrade-dialog-default-subtitle-2 = Tab'ana' anin chi re chuqa' rujikomal chuqa' richinanem pa ruyonil k'wayöl.
 upgrade-dialog-default-primary-button-2 = Tib'an chi tok jun nab'ey okik'amaya'l
 upgrade-dialog-default-secondary-button = Wakami mani
 
