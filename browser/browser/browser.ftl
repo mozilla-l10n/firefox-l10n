@@ -165,55 +165,6 @@ page-action-remove-from-urlbar =
 page-action-remove-extension =
     .label = Thoir an leudachan air falbh
 
-## Page Action menu
-
-# Variables
-# $tabCount (integer) - Number of tabs selected
-page-action-send-tabs-panel =
-    .label =
-        { $tabCount ->
-            [one] Cuir { $tabCount } taba gun uidheam
-            [two] Cuir { $tabCount } thaba gun uidheam
-            [few] Cuir { $tabCount } tabaichean gun uidheam
-           *[other] Cuir { $tabCount } taba gun uidheam
-        }
-page-action-send-tabs-urlbar =
-    .tooltiptext =
-        { $tabCount ->
-            [one] Cuir { $tabCount } taba gun uidheam
-            [two] Cuir { $tabCount } thaba gun uidheam
-            [few] Cuir { $tabCount } tabaichean gun uidheam
-           *[other] Cuir { $tabCount } taba gun uidheam
-        }
-page-action-copy-url-panel =
-    .label = Dèan lethbhreac dhen cheangal
-page-action-copy-url-urlbar =
-    .tooltiptext = Dèan lethbhreac dhen cheangal
-page-action-email-link-panel =
-    .label = Cuir an dealbh air a' phost-d…
-page-action-email-link-urlbar =
-    .tooltiptext = Cuir an dealbh air a' phost-d…
-page-action-share-url-panel =
-    .label = Co-roinn
-page-action-share-url-urlbar =
-    .tooltiptext = Co-roinn
-page-action-share-more-panel =
-    .label = Barrachd…
-page-action-send-tab-not-ready =
-    .label = A’ sioncronachadh nan uidheam...
-# "Pin" is being used as a metaphor for expressing the fact that these tabs
-# are "pinned" to the left edge of the tabstrip. Really we just want the
-# string to express the idea that this is a lightweight and reversible
-# action that keeps your tab where you can reach it easily.
-page-action-pin-tab-panel =
-    .label = Prìnich an taba
-page-action-pin-tab-urlbar =
-    .tooltiptext = Prìnich an taba
-page-action-unpin-tab-panel =
-    .label = Neo-phrìnich an taba
-page-action-unpin-tab-urlbar =
-    .tooltiptext = Neo-phrìnich an taba
-
 ## Auto-hide Context Menu
 
 full-screen-autohide =
@@ -492,6 +443,8 @@ urlbar-default-placeholder =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Cuir ann lorg no seòladh
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Tha am brabhsair fo smachd cèin
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -524,8 +477,6 @@ urlbar-placeholder-search-mode-other-tabs =
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Lorg le { $name } no cuir ann seòladh
-urlbar-remote-control-notification-anchor =
-    .tooltiptext = Tha am brabhsair fo smachd cèin
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -619,6 +570,10 @@ pointerlock-warning-no-domain = Tha smachd aig an sgrìobhainn seo air an tomhai
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Thuislich pàirt dhen duilleag seo.</strong> Airson innse dha { -brand-product-name } mun duilgheadas seo agus càradh fhaighinn air nas luaithe, cuir a-null aithris.
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = Thuislich pàirt dhen duilleag seo. Airson innse dha { -brand-product-name } mun duilgheadas seo agus càradh fhaighinn air nas luaithe, cuir a-null aithris.
 crashed-subframe-learnmore-link =
     .value = Barrachd fiosrachaidh
 crashed-subframe-submit =
