@@ -165,43 +165,6 @@ page-action-remove-from-urlbar =
 page-action-remove-extension =
     .label = Xóa tiện ích mở rộng
 
-## Page Action menu
-
-# Variables
-# $tabCount (integer) - Number of tabs selected
-page-action-send-tabs-panel =
-    .label = Gửi { $tabCount } thẻ đến thiết bị
-page-action-send-tabs-urlbar =
-    .tooltiptext = Gửi { $tabCount } thẻ đến thiết bị
-page-action-copy-url-panel =
-    .label = Sao chép liên kết
-page-action-copy-url-urlbar =
-    .tooltiptext = Sao chép liên kết
-page-action-email-link-panel =
-    .label = Gửi liên kết qua email…
-page-action-email-link-urlbar =
-    .tooltiptext = Gửi liên kết qua email…
-page-action-share-url-panel =
-    .label = Chia sẻ
-page-action-share-url-urlbar =
-    .tooltiptext = Chia sẻ
-page-action-share-more-panel =
-    .label = Thêm…
-page-action-send-tab-not-ready =
-    .label = Đang đồng bộ các thiết bị…
-# "Pin" is being used as a metaphor for expressing the fact that these tabs
-# are "pinned" to the left edge of the tabstrip. Really we just want the
-# string to express the idea that this is a lightweight and reversible
-# action that keeps your tab where you can reach it easily.
-page-action-pin-tab-panel =
-    .label = Ghim thẻ
-page-action-pin-tab-urlbar =
-    .tooltiptext = Ghim thẻ
-page-action-unpin-tab-panel =
-    .label = Gỡ thẻ
-page-action-unpin-tab-urlbar =
-    .tooltiptext = Gỡ thẻ
-
 ## Auto-hide Context Menu
 
 full-screen-autohide =
@@ -465,6 +428,8 @@ urlbar-default-placeholder =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Nhập địa chỉ hoặc từ khóa tìm kiếm
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Trình duyệt đang ở trong chế độ truy cập từ xa
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -497,8 +462,6 @@ urlbar-placeholder-search-mode-other-tabs =
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Tìm kiếm với { $name } hoặc nhập địa chỉ
-urlbar-remote-control-notification-anchor =
-    .tooltiptext = Trình duyệt đang ở trong chế độ truy cập từ xa
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -592,6 +555,10 @@ pointerlock-warning-no-domain = Trang này có quyền điều khiển con trỏ
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Một phần của trang này đã bị vớ.</strong> Để { -brand-product-name } biết về lỗi này và sửa nó nhanh hơn, vui lòng báo cáo nó.
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = Một phần của trang này đã bị lỗi. Để cho { -brand-product-name } biết về vấn đề này và khắc phục sự cố nhanh hơn, vui lòng gửi báo cáo.
 crashed-subframe-learnmore-link =
     .value = Tìm hiểu thêm
 crashed-subframe-submit =
