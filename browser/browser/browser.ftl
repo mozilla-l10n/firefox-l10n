@@ -165,51 +165,6 @@ page-action-remove-from-urlbar =
 page-action-remove-extension =
     .label = Suprimir l’extension
 
-## Page Action menu
-
-# Variables
-# $tabCount (integer) - Number of tabs selected
-page-action-send-tabs-panel =
-    .label =
-        { $tabCount ->
-            [one] Enviar l’onglet a un periferic
-           *[other] Enviar { $tabCount } onglets al periferic
-        }
-page-action-send-tabs-urlbar =
-    .tooltiptext =
-        { $tabCount ->
-            [one] Enviar l’onglet a un periferic
-           *[other] Enviar { $tabCount } onglets al periferic
-        }
-page-action-copy-url-panel =
-    .label = Copiar lo ligam
-page-action-copy-url-urlbar =
-    .tooltiptext = Copiar lo ligam
-page-action-email-link-panel =
-    .label = Enviar per corrièl un ligam cap a la pagina…
-page-action-email-link-urlbar =
-    .tooltiptext = Enviar per corrièl un ligam cap a la pagina…
-page-action-share-url-panel =
-    .label = Partejar
-page-action-share-url-urlbar =
-    .tooltiptext = Partejar
-page-action-share-more-panel =
-    .label = Mai…
-page-action-send-tab-not-ready =
-    .label = Sincronisacion dels periferics…
-# "Pin" is being used as a metaphor for expressing the fact that these tabs
-# are "pinned" to the left edge of the tabstrip. Really we just want the
-# string to express the idea that this is a lightweight and reversible
-# action that keeps your tab where you can reach it easily.
-page-action-pin-tab-panel =
-    .label = Penjar l’onglets
-page-action-pin-tab-urlbar =
-    .tooltiptext = Penjar l’onglets
-page-action-unpin-tab-panel =
-    .label = Despenjar l’onglet
-page-action-unpin-tab-urlbar =
-    .tooltiptext = Despenjar l’onglet
-
 ## Auto-hide Context Menu
 
 full-screen-autohide =
@@ -480,6 +435,8 @@ urlbar-default-placeholder =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Picar un tèrme de recercar o una adreça
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Lo navegador es contrarotlat a distància
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -512,8 +469,6 @@ urlbar-placeholder-search-mode-other-tabs =
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Recercar amb { $name } o picar una adreça
-urlbar-remote-control-notification-anchor =
-    .tooltiptext = Lo navegador es contrarotlat a distància
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -607,6 +562,10 @@ pointerlock-warning-no-domain = Aqueste document a lo contraròtle sul vòstre g
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Part d’aquesta pagina a fracassat.</strong> Per notificar { -brand-product-name } d’aqueste problèma e que siá reglat, enviatz un rapòrt.
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = Part d’aquesta pagina a fracassat. Per notificar { -brand-product-name } d’aqueste problèma e que siá reglat, enviatz un rapòrt.
 crashed-subframe-learnmore-link =
     .value = Ne saber mai
 crashed-subframe-submit =
