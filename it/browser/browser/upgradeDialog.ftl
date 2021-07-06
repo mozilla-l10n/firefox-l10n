@@ -13,21 +13,13 @@ upgrade-dialog-new-title =
     Dai il benvenuto a un
     nuovo { -brand-short-name }
 upgrade-dialog-new-subtitle = Progettato per portarti dove ti serve, alla massima velocità.
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline
-# style to be automatically added to the text inside it. { -brand-short-name }
-# should stay inside the span.
-upgrade-dialog-new-alt-subtitle = Inizia mettendo <span data-l10n-name="zap">{ -brand-short-name }</span> a portata di mouse
 upgrade-dialog-new-item-menu-title = Barra degli strumenti e menu più semplici
 upgrade-dialog-new-item-menu-description = Priorità agli elementi più importanti, così potrai trovare al volo ciò che ti serve.
 upgrade-dialog-new-item-tabs-title = Schede moderne
 upgrade-dialog-new-item-tabs-description = Includono tutte le informazioni in modo chiaro, ti aiutano a concentrarti e sono facili da riorganizzare.
 upgrade-dialog-new-item-icons-title = Nuove icone e messaggi più chiari
 upgrade-dialog-new-item-icons-description = Trova la tua strada con un tocco più leggero.
-upgrade-dialog-new-primary-primary-button = Imposta { -brand-short-name } come browser principale
-    .title = Imposta { -brand-short-name } come browser predefinito e lo aggiunge alla barra delle applicazioni
 upgrade-dialog-new-primary-default-button = Imposta { -brand-short-name } come browser predefinito
-upgrade-dialog-new-primary-pin-button = Aggiungi { -brand-short-name } alla barra delle applicazioni
-upgrade-dialog-new-primary-pin-alt-button = Aggiungi alla barra delle applicazioni
 upgrade-dialog-new-primary-theme-button = Scegli un tema
 upgrade-dialog-new-secondary-button = Non adesso
 # This string is only shown on Windows 7, where we intentionally suppress the
@@ -59,9 +51,6 @@ upgrade-dialog-pin-secondary-button = Non adesso
 ## Default browser screen
 
 # This title can be explicitly wrapped to control which words are on which line.
-upgrade-dialog-default-title = Imposta { -brand-short-name } come browser predefinito
-upgrade-dialog-default-subtitle = Velocità, sicurezza e privacy sempre garantiti quando navighi online
-upgrade-dialog-default-primary-button = Imposta come browser predefinito
 upgrade-dialog-default-title-2 = Imposta { -brand-short-name } come browser predefinito
 upgrade-dialog-default-subtitle-2 = Velocità, sicurezza e privacy senza preoccupazioni.
 upgrade-dialog-default-primary-button-2 = Imposta come browser predefinito
@@ -70,9 +59,6 @@ upgrade-dialog-default-secondary-button = Non adesso
 ## Theme selection screen
 
 # This title can be explicitly wrapped to control which words are on which line.
-upgrade-dialog-theme-title =
-    Inizia al meglio
-    con un nuovo tema
 upgrade-dialog-theme-title-2 =
     Inizia al meglio con un nuovo tema
 upgrade-dialog-theme-system = Tema di sistema
