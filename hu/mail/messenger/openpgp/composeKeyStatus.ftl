@@ -14,3 +14,11 @@ openpgp-compose-key-status-open-details = Kulcsok kezelése a kiválasztott cím
 openpgp-recip-good = rendben
 openpgp-recip-missing = nem érhető el kulcs
 openpgp-recip-none-accepted = nincs elfogadott kulcs
+openpgp-compose-general-info-alias = A { -brand-short-name } általában megköveteli, hogy a címzett nyilvános kulcsa tartalmazza azt a felhasználóazonosítót, mely megfelel az e-mail-címnek. Ez felülírható az OpenPGP címzett álnevéhez kapcsolódó szabályaival.
+openpgp-compose-general-info-alias-learn-more = További tudnivalók
+openpgp-compose-alias-status-direct =
+    { $count ->
+        [one] hozzárendelve egy álnévhez
+       *[other] hozzárendelve { $count } álnévhez
+    }
+openpgp-compose-alias-status-error = Nem használható vagy elérhető álnév
