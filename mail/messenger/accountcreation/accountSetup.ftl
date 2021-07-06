@@ -11,6 +11,7 @@ account-setup-description =
     Για να χρησιμοποιήσετε την υπάρχουσα διεύθυνση ηλεκτρονικού ταχυδρομείου σας, συμπληρώστε τα διαπιστευτήριά σας. <br/>
     Το { -brand-product-name } θα αναζητήσει αυτόματα τις λειτουργικές και προτεινόμενες ρυθμίσεις του διακομιστή.
 account-setup-success-title = Επιτυχής δημιουργία λογαριασμού
+account-setup-success-description = Μπορείτε πλέον να χρησιμοποιήσετε αυτόν τον λογαριασμό με το { -brand-short-name }.
 
 ## Form fields
 
@@ -104,8 +105,10 @@ account-setup-step5-image =
 account-setup-privacy-footnote = Τα διαπιστευτήριά σας θα χρησιμοποιηθούν σύμφωνα με την <a data-l10n-name="privacy-policy-link">πολιτική απορρήτου</a> μας και θα αποθηκευτούν μόνο τοπικά στον υπολογιστή σας.
 account-setup-selection-help = Δεν είστε σίγουροι τι να επιλέξετε;
 account-setup-selection-error = Χρειάζεστε βοήθεια;
+account-setup-success-help = Δεν γνωρίζετε σίγουρα τα επόμενα βήματα;
 account-setup-documentation-help = Τεκμηρίωση ρύθμισης
 account-setup-forum-help = Φόρουμ υποστήριξης
+account-setup-getting-started = Ξεκινώντας
 
 ## Results area
 
@@ -226,12 +229,16 @@ account-setup-address-book-ldap-button = Σύνδεση σε ευρετήριο 
 account-setup-calendar-button = Σύνδεση σε απομακρυσμένο ημερολόγιο
 account-setup-button-finish = Τέλος
     .accesskey = Τ
+account-setup-looking-up-calendars = Αναζήτηση ημερολογίων…
 account-setup-address-books-button = Ευρετήρια
 account-setup-calendars-button = Ημερολόγια
 account-setup-connect-link = Σύνδεση
+account-setup-connect-all-calendars = Σύνδεση όλων των ημερολογίων
+account-setup-connect-all-address-books = Σύνδεση όλων των ευρετηρίων
 
 ## Calendar synchronization dialog
 
+calendar-dialog-title = Σύνδεση ημερολογίου
 calendar-dialog-cancel-button = Ακύρωση
     .accesskey = Α
 calendar-dialog-confirm-button = Σύνδεση
