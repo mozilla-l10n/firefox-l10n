@@ -159,6 +159,7 @@ language-name-ru = Rusų
 language-name-rw = Kinjaruanda
 language-name-sa = Sanskritas
 language-name-sc = Sardų
+language-name-sco = Škotų
 language-name-sd = Sindhų
 language-name-se = Sami (šiaurės)
 language-name-sg = Sangro

@@ -10,6 +10,7 @@ search-header =
     .searchbuttonlabel = Paieška
 search-header-shortcut =
     .key = f
+list-empty-get-extensions-message = Gaukite priedų ir grafinių apvalkalų iš <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-installed =
     .value = Nėra įdiegtų šio tipo priedų
 list-empty-available-updates =
