@@ -14,3 +14,4 @@ openpgp-compose-key-status-open-details = Spravovať kľúče pre vybratého pr�
 openpgp-recip-good = ok
 openpgp-recip-missing = žiadny kľúč nie je dostupný
 openpgp-recip-none-accepted = žiadne kľúč nebol prijatý
+openpgp-compose-general-info-alias-learn-more = Ďalšie informácie

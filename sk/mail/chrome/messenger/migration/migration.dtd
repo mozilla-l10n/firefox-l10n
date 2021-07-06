@@ -11,6 +11,8 @@
 
 <!ENTITY importFromNothing.label        "Nič neimportovať">
 <!ENTITY importFromNothing.accesskey    "r">
+<!ENTITY importFromThunderbird.label     "Thunderbird">
+<!ENTITY importFromThunderbird.accesskey "T">
 <!ENTITY importFromSeamonkey3.label     "SeaMonkey 2 alebo novšia verzia">
 <!ENTITY importFromSeamonkey3.accesskey "S">
 <!ENTITY importFromOutlook.label        "Outlook">

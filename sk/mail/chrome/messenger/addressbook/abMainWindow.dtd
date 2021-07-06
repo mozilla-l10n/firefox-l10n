@@ -48,7 +48,9 @@
 <!ENTITY editMenu.accesskey                             "U">
 <!ENTITY deleteCmd.label                                "Odstrániť">
 <!ENTITY deleteAbCmd.label                              "Odstrániť adresár">
+<!ENTITY deleteAbCmd.accesskey                          "d">
 <!ENTITY removeAbCmd.label                              "Odstrániť adresár">
+<!ENTITY removeAbCmd.accesskey                          "d">
 <!ENTITY deleteContactCmd.label                         "Odstrániť kontakt">
 <!ENTITY deleteContactsCmd.label                        "Odstrániť kontakty">
 <!ENTITY deleteListCmd.label                            "Odstrániť zoznam">
