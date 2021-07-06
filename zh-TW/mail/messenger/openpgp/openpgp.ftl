@@ -4,6 +4,7 @@
 
 e2e-intro-description = 若要傳送加密訊息，或經數位簽署過的訊息，必須先設定 OpenPGP 或 S/MIME 的任一種加密方式。
 e2e-intro-description-more = 請選擇您要用於 OpenPGP 的個人金鑰，或用於 S/MIME 的個人憑證。不論是個人金鑰或憑證您都會有對應的私鑰。
+e2e-advanced-section = 進階設定
 openpgp-key-user-id-label = 帳號 / 使用者 ID
 openpgp-keygen-title-label =
     .title = 產生 OpenPGP 金鑰
