@@ -48,6 +48,7 @@ auth-how = Bạn muốn xác minh danh tính liên hệ của bạn như thế n
 auth-qaInstruction = Hãy nghĩ về một câu hỏi mà câu trả lời chỉ được biết cho bạn và liên hệ của bạn. Nhập câu hỏi và trả lời, sau đó đợi liên hệ của bạn nhập câu trả lời. Nếu câu trả lời không khớp, kênh liên lạc bạn đang sử dụng có thể bị giám sát.
 auth-secretInstruction = Hãy nghĩ về một bí mật chỉ được biết đến với bạn và liên lạc của bạn. Không sử dụng cùng một kết nối Internet để trao đổi bí mật. Nhập bí mật, sau đó chờ liên hệ của bạn để nhập nó. Nếu các bí mật không khớp, kênh liên lạc bạn đang sử dụng có thể bị giám sát.
 auth-qa-instruction = Hãy nghĩ về một câu hỏi mà câu trả lời chỉ được biết cho bạn và liên hệ của bạn. Nhập câu hỏi và câu trả lời, sau đó đợi liên hệ của bạn nhập câu trả lời. Nếu câu trả lời không khớp, kênh liên lạc bạn đang sử dụng có thể bị giám sát.
+auth-secret-instruction = Hãy nghĩ về một bí mật chỉ được biết đến với bạn và liên lạc của bạn. Không sử dụng cùng một kết nối Internet để trao đổi bí mật. Nhập bí mật, sau đó chờ liên hệ của bạn để nhập nó. Nếu các bí mật không khớp, kênh liên lạc bạn đang sử dụng có thể bị giám sát.
 auth-question = Nhập câu hỏi:
 auth-answer = Nhập câu trả lời (phân biệt chữ hoa/thường):
 auth-secret = Nhập bí mật:
