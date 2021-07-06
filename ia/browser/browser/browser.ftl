@@ -165,51 +165,6 @@ page-action-remove-from-urlbar =
 page-action-remove-extension =
     .label = Remover le extension
 
-## Page Action menu
-
-# Variables
-# $tabCount (integer) - Number of tabs selected
-page-action-send-tabs-panel =
-    .label =
-        { $tabCount ->
-            [one] Inviar scheda al apparato
-           *[other] Inviar { $tabCount } schedas al apparato
-        }
-page-action-send-tabs-urlbar =
-    .tooltiptext =
-        { $tabCount ->
-            [one] Inviar scheda al apparato
-           *[other] Inviar { $tabCount } schedas al apparato
-        }
-page-action-copy-url-panel =
-    .label = Copiar ligamine
-page-action-copy-url-urlbar =
-    .tooltiptext = Copiar ligamine
-page-action-email-link-panel =
-    .label = Inviar ligamine per e-mail…
-page-action-email-link-urlbar =
-    .tooltiptext = Inviar ligamine per e-mail…
-page-action-share-url-panel =
-    .label = Compartir
-page-action-share-url-urlbar =
-    .tooltiptext = Compartir
-page-action-share-more-panel =
-    .label = Plus…
-page-action-send-tab-not-ready =
-    .label = Synchronisante apparatos…
-# "Pin" is being used as a metaphor for expressing the fact that these tabs
-# are "pinned" to the left edge of the tabstrip. Really we just want the
-# string to express the idea that this is a lightweight and reversible
-# action that keeps your tab where you can reach it easily.
-page-action-pin-tab-panel =
-    .label = Clavar scheda
-page-action-pin-tab-urlbar =
-    .tooltiptext = Clavar scheda
-page-action-unpin-tab-panel =
-    .label = Disclavar scheda
-page-action-unpin-tab-urlbar =
-    .tooltiptext = Disclavar scheda
-
 ## Auto-hide Context Menu
 
 full-screen-autohide =
@@ -477,6 +432,8 @@ urlbar-default-placeholder =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Insere un adresse o face un recerca
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Le navigator es sub controlo remote
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -509,8 +466,6 @@ urlbar-placeholder-search-mode-other-tabs =
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Cerca con { $name } o insere adresse
-urlbar-remote-control-notification-anchor =
-    .tooltiptext = Le navigator es sub controlo remote
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -604,6 +559,10 @@ pointerlock-warning-no-domain = Iste documento controla tu punctator. Preme Esc 
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Parte de iste pagina collabeva.</strong> Pro consentir que { -brand-product-name } sape re iste problema e on pote lo corriger plus velocemente, invia un reporto.
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = Parte de iste pagina collabeva. Pro consentir que { -brand-product-name } sape re iste problema e on pote lo corriger plus velocemente, invia un reporto.
 crashed-subframe-learnmore-link =
     .value = Saper plus
 crashed-subframe-submit =
