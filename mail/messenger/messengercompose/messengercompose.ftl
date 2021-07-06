@@ -123,8 +123,6 @@ move-attachment-last-panel-button =
 button-return-receipt =
     .label = Confirmação
     .tooltiptext = Solicitar uma confirmação de leitura desta mensagem
-#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
-consider-bcc-notification = Os { $count } destinatários em Para e Cc podem ver os endereços uns dos outros. Você pode evitar revelar destinatários mudando para Cco.
 
 # Addressing Area
 
@@ -172,3 +170,5 @@ many-public-recipients-ignore =
 # Variables:
 # $identity (string) - The name of the used identity, most likely an email address.
 compose-missing-identity-warning = Não foi encontrada uma identidade única correspondente ao endereço do remetente. A mensagem será enviada usando o campo De atual e as configurações da identidade { $identity }.
+encrypted-bcc-warning = Ao enviar uma mensagem criptografada, destinatários em Cco não ficam totalmente ocultos. Todos os destinatários podem conseguir identificá-los.
+encrypted-bcc-ignore-button = Entendido
