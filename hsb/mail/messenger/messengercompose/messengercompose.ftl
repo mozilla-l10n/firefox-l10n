@@ -135,8 +135,6 @@ move-attachment-last-panel-button =
 button-return-receipt =
     .label = Kwitowanka
     .tooltiptext = Kwitowanku za tutu powěsć požadać
-#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
-consider-bcc-notification = Přijimarjo w polomaj Komu a Kopija móža adresu druhich widźeć. Ličba: { $count }. Wužiwajće město toho polo Schowana kopija, zo byšće tomu zadźěwał, zo so přijimarjo přeradźuja.
 
 # Addressing Area
 
@@ -184,3 +182,4 @@ many-public-recipients-ignore =
 # Variables:
 # $identity (string) - The name of the used identity, most likely an email address.
 compose-missing-identity-warning = Jónkróćna identita, kotraž adresy wotpósłarja wotpowěduje, njeje so namakała. Powěsć so wužiwajo polo Wot a nastajenja z identity { $identity } pósćele.
+encrypted-bcc-ignore-button = Sym zrozumił

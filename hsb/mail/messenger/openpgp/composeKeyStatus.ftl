@@ -14,3 +14,5 @@ openpgp-compose-key-status-open-details = Kluče za wubraneho přijimarja rjadow
 openpgp-recip-good = w porjadku
 openpgp-recip-missing = žadyn kluč k dispoziciji
 openpgp-recip-none-accepted = žadyn akceptowany kluč
+openpgp-compose-general-info-alias-learn-more = Dalše informacije
+openpgp-compose-alias-status-error = aliasowy kluč njewužiwajomny/k dispoziciji njeje
