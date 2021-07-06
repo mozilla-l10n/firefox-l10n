@@ -165,51 +165,6 @@ page-action-remove-from-urlbar =
 page-action-remove-extension =
     .label = Kiegészítő eltávolítása
 
-## Page Action menu
-
-# Variables
-# $tabCount (integer) - Number of tabs selected
-page-action-send-tabs-panel =
-    .label =
-        { $tabCount ->
-            [one] Lap küldése az eszközre
-           *[other] { $tabCount } lap küldése az eszközre
-        }
-page-action-send-tabs-urlbar =
-    .tooltiptext =
-        { $tabCount ->
-            [one] Lap küldése az eszközre
-           *[other] { $tabCount } lap küldése az eszközre
-        }
-page-action-copy-url-panel =
-    .label = Hivatkozás másolása
-page-action-copy-url-urlbar =
-    .tooltiptext = Hivatkozás másolása
-page-action-email-link-panel =
-    .label = Hivatkozás küldése e-mailben…
-page-action-email-link-urlbar =
-    .tooltiptext = Hivatkozás küldése e-mailben…
-page-action-share-url-panel =
-    .label = Megosztás
-page-action-share-url-urlbar =
-    .tooltiptext = Megosztás
-page-action-share-more-panel =
-    .label = Továbbiak…
-page-action-send-tab-not-ready =
-    .label = Eszközök szinkronizálása…
-# "Pin" is being used as a metaphor for expressing the fact that these tabs
-# are "pinned" to the left edge of the tabstrip. Really we just want the
-# string to express the idea that this is a lightweight and reversible
-# action that keeps your tab where you can reach it easily.
-page-action-pin-tab-panel =
-    .label = Lap rögzítése
-page-action-pin-tab-urlbar =
-    .tooltiptext = Lap rögzítése
-page-action-unpin-tab-panel =
-    .label = Lap feloldása
-page-action-unpin-tab-urlbar =
-    .tooltiptext = Lap feloldása
-
 ## Auto-hide Context Menu
 
 full-screen-autohide =
@@ -480,6 +435,8 @@ urlbar-default-placeholder =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Keresés vagy cím
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = A böngészőt távolról irányítják
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -512,8 +469,6 @@ urlbar-placeholder-search-mode-other-tabs =
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Keressen a(z) { $name } keresővel vagy adjon meg egy címet
-urlbar-remote-control-notification-anchor =
-    .tooltiptext = A böngészőt távolról irányítják
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -607,6 +562,10 @@ pointerlock-warning-no-domain = Ez a dokumentum vezérli az egérmutatóját. Ny
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Az oldal egy része összeomlott.</strong> Küldjön egy jelentést a { -brand-product-name } fejlesztőinek, hogy gyorsabban elháríthassák a problémát.
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = Az oldal egy része összeomlott. Küldjön egy jelentést a { -brand-product-name } fejlesztőinek, hogy gyorsabban elháríthassák a problémát.
 crashed-subframe-learnmore-link =
     .value = További tudnivalók
 crashed-subframe-submit =

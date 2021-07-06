@@ -116,3 +116,4 @@ policy-SupportMenu = Egyéni támogatási menüpont hozzáadása a súgó menüh
 policy-UserMessaging = Ne mutasson bizonyos üzeneteket a felhasználónak.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Weboldalak felkeresésének blokkolása. Lásd a dokumentációt a formátum részleteiért.
+policy-Windows10SSO = Lehetővé teszi a Windows egyszeri bejelentkezésének használatát a microsoftos, munkahelyi és iskolai fiókok számára.
