@@ -68,6 +68,7 @@ app-basics-rosetta = Traduzido pelo Rosetta
 app-basics-memory-use = Uso de memória
 app-basics-performance = Desempenho
 app-basics-service-workers = Service Workers registrados
+app-basics-third-party = Módulos de terceiros
 app-basics-profiles = Perfis
 app-basics-launcher-process-status = Processo de lançamento
 app-basics-multi-process-support = Janelas multiprocessadas
