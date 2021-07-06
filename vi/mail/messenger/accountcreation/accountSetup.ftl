@@ -10,6 +10,10 @@ account-setup-title = Thiết lập địa chỉ email hiện tại của bạn
 account-setup-description =
     Để sử dụng địa chỉ email hiện tại của bạn, hãy điền thông tin đăng nhập của bạn.<br/>
     { -brand-product-name } sẽ tự động tìm kiếm cấu hình máy chủ đang hoạt động và được đề xuất.
+account-setup-secondary-description = { -brand-product-name } sẽ tự động tìm kiếm cấu hình máy chủ đang hoạt động và được đề xuất.
+account-setup-success-title = Tạo tài khoản thành công
+account-setup-success-description = Bây giờ bạn có thể sử dụng tài khoản này với { -brand-short-name }.
+account-setup-success-secondary-description = Bạn có thể cải thiện trải nghiệm bằng cách kết nối các dịch vụ liên quan và định cấu hình cài đặt tài khoản nâng cao.
 
 ## Form fields
 
@@ -20,7 +24,6 @@ account-setup-name-input =
     .placeholder = John Doe
 account-setup-name-info-icon =
     .title = Tên của bạn, như được hiển thị cho những người khác
-account-setup-name-warning = Vui lòng nhập tên của bạn
 account-setup-name-warning-icon =
     .title = { account-setup-name-warning }
 account-setup-email-label = Địa chỉ email
@@ -29,7 +32,6 @@ account-setup-email-input =
     .placeholder = john.doe@example.com
 account-setup-email-info-icon =
     .title = Địa chỉ email hiện tại của bạn
-account-setup-email-warning = Địa chỉ email không hợp lệ
 account-setup-email-warning-icon =
     .title = { account-setup-email-warning }
 account-setup-password-label = Mật khẩu
@@ -95,15 +97,24 @@ account-setup-step3-image =
     .title = Cấu hình được tìm thấy
 account-setup-step4-image =
     .title = Lỗi kết nối
+account-setup-step5-image =
+    .title = Đã tạo tài khoản
 account-setup-privacy-footnote = Thông tin đăng nhập của bạn sẽ được sử dụng theo <a data-l10n-name="privacy-policy-link">chính sách riêng tư</a> của chúng tôi và sẽ chỉ được lưu trữ cục bộ trên máy tính của bạn.
 account-setup-selection-help = Không chắc chắn những gì để chọn?
 account-setup-selection-error = Cần trợ giúp?
+account-setup-success-help = Không chắc chắn về các bước tiếp theo của mình?
 account-setup-documentation-help = Tài liệu thiết lập
 account-setup-forum-help = Diễn đàn hỗ trợ
+account-setup-getting-started = Bắt đầu
 
 ## Results area
 
-account-setup-protocol-title = Chọn giao thức
+# Variables:
+#  $count (Number) - Number of available protocols.
+account-setup-results-area-title =
+    { $count ->
+       *[other] Các cấu hình có sẵn
+    }
 # Note: IMAP is the name of a protocol.
 account-setup-result-imap = IMAP
 account-setup-result-imap-description = Giữ cho các thư mục và email của bạn được đồng bộ hóa trên máy chủ của bạn
@@ -117,6 +128,11 @@ account-setup-incoming-title = Hộp thư đến
 account-setup-outgoing-title = Hộp thư đi
 account-setup-username-title = Tên người dùng
 account-setup-exchange-title = Máy chủ
+account-setup-result-smtp = SMTP
+account-setup-result-no-encryption = Không mã hóa
+account-setup-result-ssl = SSL/TLS
+account-setup-result-starttls = STARTTLS
+account-setup-result-outgoing-existing = Sử dụng máy chủ gửi thư SMTP hiện tại
 
 ## Error messages
 
@@ -126,20 +142,56 @@ account-setup-credentials-wrong = Quá trình xác thực thất bại. Vui lòn
 account-setup-find-settings-failed = { -brand-short-name } không tìm thấy cài đặt cho tài khoản email của bạn
 account-setup-exchange-config-unverifiable = Không thể xác minh cấu hình. Nếu tên người dùng và mật khẩu của bạn chính xác, có khả năng quản trị viên máy chủ đã vô hiệu hóa cấu hình đã chọn cho tài khoản của bạn. Hãy thử chọn một giao thức khác.
 
-## Manual config area
+## Manual configuration area
 
 account-setup-manual-config-title = Cài đặt máy chủ
+account-setup-protocol-label = Giao thức:
 protocol-imap-option = { account-setup-result-imap }
 protocol-pop-option = { account-setup-result-pop }
-outgoing-protocol = SMTP
+protocol-exchange-option = { account-setup-result-exchange }
+account-setup-hostname-label = Tên máy chủ:
+account-setup-port-label = Cổng:
+    .title = Đặt cổng thành 0 để tự động phát hiện
+account-setup-auto-description = { -brand-short-name } sẽ thử tự động phát hiện các trường bị bỏ trống.
+account-setup-ssl-label = Bảo mật kết nối:
+account-setup-outgoing-server-legend = Máy chủ gửi thư
+
+## Incoming/Outgoing SSL Authentication options
+
 ssl-autodetect-option = Tự động phát hiện
+ssl-no-authentication-option = Không xác thực
+ssl-cleartext-password-option = Mật khẩu bình thường
+ssl-encrypted-password-option = Mật khẩu mã hóa
+
+## Incoming/Outgoing SSL options
+
 ssl-noencryption-option = Không
-ssl-starttls-option = STARTTLS
-ssl-tls-option = SSL/TLS
+account-setup-auth-label = Phương thức xác thực:
+account-setup-username-label = Tên đăng nhập:
 account-setup-advanced-setup-button = Cấu hình nâng cao
     .accesskey = A
 
-## Warning insecure server
+## Warning insecure server dialog
 
+account-setup-insecure-title = Cảnh báo!
+# Variables:
+#  $server (String): The name of the hostname of the server the user was trying to connect to.
+account-setup-warning-cleartext = <b>{ $server }</b> không sử dụng mã hóa.
+account-setup-warning-cleartext-details = Máy chủ thư không an toàn không sử dụng kết nối được mã hóa để bảo vệ mật khẩu và thông tin cá nhân của bạn. Bằng cách kết nối với máy chủ này, bạn có thể bị tiết lộ mật khẩu và thông tin cá nhân của mình.
 account-setup-insecure-server-checkbox = Tôi hiểu các rủi ro
     .accesskey = u
+
+## Warning Exchange confirmation dialog
+
+
+## Alert dialogs
+
+
+## Addon installation section
+
+
+## Success view
+
+
+## Calendar synchronization dialog
+
