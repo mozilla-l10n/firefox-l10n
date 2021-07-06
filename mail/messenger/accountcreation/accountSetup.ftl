@@ -10,7 +10,9 @@ account-setup-title = Nastavenie existujúcej e-mailovej adresy
 account-setup-description =
     Ak chcete použiť svoju existujúcu e-mailovú adresu, vyplňte svoje prihlasovacie údaje.<br/>
     { -brand-product-name } automaticky vyhľadá funkčnú a odporúčanú konfiguráciu servera.
+account-setup-secondary-description = { -brand-product-name } automaticky vyhľadá funkčnú a odporúčanú konfiguráciu servera.
 account-setup-success-title = Účet bol úspešne vytvorený
+account-setup-success-description = Teraz môžete tento účet používať v aplikácii { -brand-short-name }.
 account-setup-success-secondary-description = Svoj zážitok môžete vylepšiť pripojením súvisiacich služieb a konfiguráciou pokročilých nastavení účtu.
 
 ## Form fields
@@ -225,9 +227,21 @@ account-setup-settings-button = Nastavenia účtu
 account-setup-encryption-button = Obojstranné šifrovanie
 account-setup-signature-button = Pridať podpis
 account-setup-dictionaries-button = Stiahnuť slovníky
+account-setup-address-book-carddav-button = Pripojiť sa k adresáru typu CardDAV
+account-setup-address-book-ldap-button = Pripojiť sa k adresáru LDAP
+account-setup-calendar-button = Pripojiť sa k vzdialenému kalendáru
+account-setup-linked-services-title = Pripojiť prepojené služby
+account-setup-button-finish = Dokončiť
+    .accesskey = D
+account-setup-looking-up-address-books = Vyhľadávajú sa adresáre…
+account-setup-looking-up-calendars = Vyhľadávajú sa kalendáre…
 account-setup-address-books-button = Adresáre
 account-setup-calendars-button = Kalendáre
 account-setup-connect-link = Pripojiť
+account-setup-existing-address-book = Pripojený
+    .title = Adresár je už pripojený
+account-setup-existing-calendar = Pripojený
+    .title = Kalendár je už pripojený
 account-setup-connect-all-calendars = Pripojiť všetky kalendáre
 account-setup-connect-all-address-books = Pripojiť všetky adresáre
 
