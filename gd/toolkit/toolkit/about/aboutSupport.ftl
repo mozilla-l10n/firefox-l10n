@@ -65,6 +65,7 @@ app-basics-rosetta = Rosetta Translated
 app-basics-memory-use = Cleachdadh na cuimhne
 app-basics-performance = Dèanadas
 app-basics-service-workers = Obraichean seirbheise clàraichte
+app-basics-third-party = Mòidealan threas-phàrtaidhean
 app-basics-profiles = Pròifilean
 app-basics-launcher-process-status = Pròiseas an lòinseir
 app-basics-multi-process-support = Uinneagan ioma-phròiseasaidh

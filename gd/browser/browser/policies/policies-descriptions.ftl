@@ -116,3 +116,4 @@ policy-SupportMenu = Cuir ball gnàthaichte ri clàr-taice na taice ri clàr-tai
 policy-UserMessaging = Na seall teachdaireachdan sònraichte dhan luchd-chleachdaidh.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Bac làraichean-lìn àraidh. Faic an docamaideadh airson barrachd fiosrachaidh mun fhòrmat.
+policy-Windows10SSO = Ceadaich clàradh a-steach le aon chunntas Windows airson cunntasan Microsoft, na h-obrach ’s na sgoile.
