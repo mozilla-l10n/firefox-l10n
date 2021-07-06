@@ -177,6 +177,7 @@ language-name-st = Soto a Deas
 language-name-su = Sundanais
 language-name-sv = Suainis
 language-name-sw = Swahili
+language-name-szl = Silèiseach
 language-name-ta = Taimil
 language-name-te = Telugu
 language-name-tg = Taidigis
