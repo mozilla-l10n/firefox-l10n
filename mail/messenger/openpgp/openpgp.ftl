@@ -4,6 +4,16 @@
 
 e2e-intro-description = Para enviar mensajes cifrados o firmados digitalmente, debe configurar una tecnología de cifrado, ya sea OpenPGP o S/MIME.
 e2e-intro-description-more = Seleccione su clave personal para habilitar el uso de OpenPGP o su certificado personal para habilitar el uso de S/MIME. Para una clave personal o certificado usted posee la clave secreta correspondiente.
+e2e-advanced-section = Opciones avanzadas
+e2e-attach-key =
+    .label = Adjuntar mi clave pública al agregar una firma digital OpenPGP
+    .accesskey = P
+e2e-encrypt-subject =
+    .label = Cifrar el asunto de los mensajes OpenPGP
+    .accesskey = b
+e2e-encrypt-drafts =
+    .label = Guardar los borradores de mensajes en formato cifrado
+    .accesskey = r
 openpgp-key-user-id-label = Cuenta / ID de usuario
 openpgp-keygen-title-label =
     .title = Generar clave OpenPGP
