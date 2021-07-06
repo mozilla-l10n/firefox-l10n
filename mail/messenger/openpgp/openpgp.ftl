@@ -4,6 +4,10 @@
 
 e2e-intro-description = Zo byšće zaklučowane abo digitalnje signowane powěsće pósłał, dyrbiće zaklučowansku technologiju konfigurować, pak OpenPGP pak S/MIME.
 e2e-intro-description-more = Wubjerće swój wosobinski kluč, zo byšće wužiwanje OpenPGP zmóžnił, abo wosobinski certifikat, zo byšće wužiwanje S/MIME zmóžnił. Za wosobinski kluč abo certifikat maće wotpowědny tajny kluč.
+e2e-advanced-section = Rozšěrjene nastajenja
+e2e-encrypt-drafts =
+    .label = Naćiskowe powěsće w zaklučowanym formaće składować
+    .accesskey = l
 openpgp-key-user-id-label = Konto/Wužiwarski ID
 openpgp-keygen-title-label =
     .title = OpenPGP-kluč wutworić
