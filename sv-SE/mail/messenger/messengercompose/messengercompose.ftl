@@ -123,8 +123,6 @@ move-attachment-last-panel-button =
 button-return-receipt =
     .label = Kvitto
     .tooltiptext = Begär ett returkvitto för detta meddelande
-#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
-consider-bcc-notification = { $count } mottagare i fältet Till och Kopia kan se varandras adresser. Du kan undvika att avslöja mottagare genom att använda dold kopia istället.
 
 # Addressing Area
 
@@ -172,3 +170,5 @@ many-public-recipients-ignore =
 # Variables:
 # $identity (string) - The name of the used identity, most likely an email address.
 compose-missing-identity-warning = En unik identitet som matchar Från-adressen hittades inte. Meddelandet skickas med det aktuella Från-fältet och inställningar från identitet { $identity }.
+encrypted-bcc-warning = När du skickar ett krypterat meddelande döljs inte mottagare i dold kopia helt. Alla mottagare kan kanske identifiera dem.
+encrypted-bcc-ignore-button = Förstått

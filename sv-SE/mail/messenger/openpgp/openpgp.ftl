@@ -4,6 +4,16 @@
 
 e2e-intro-description = För att skicka krypterade eller digitalt signerade meddelanden måste du konfigurera en krypteringsteknik, antingen OpenPGP eller S/MIME.
 e2e-intro-description-more = Välj din personliga nyckel för att aktivera användning av OpenPGP eller ditt personliga certifikat för att aktivera användning av S/MIME. För en personlig nyckel eller certifikat äger du motsvarande hemlig nyckel.
+e2e-advanced-section = Avancerade inställningar
+e2e-attach-key =
+    .label = Bifoga min publika nyckel när du lägger till en OpenPGP digital signatur
+    .accesskey = B
+e2e-encrypt-subject =
+    .label = Kryptera ämnet för OpenPGP-meddelanden
+    .accesskey = K
+e2e-encrypt-drafts =
+    .label = Lagra utkast till meddelanden i krypterat format
+    .accesskey = L
 openpgp-key-user-id-label = Konto / användar-ID
 openpgp-keygen-title-label =
     .title = Generera OpenPGP-nyckel
