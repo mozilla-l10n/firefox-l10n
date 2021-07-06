@@ -381,6 +381,7 @@ fission-status-disabled-by-default = Desativado por padrão
 fission-status-enabled-by-user-pref = Ativado pelo usuário
 fission-status-disabled-by-user-pref = Desativado pelo usuário
 fission-status-disabled-by-e10s-other = E10s desativado
+fission-status-enabled-by-rollout = Ativado para liberação em implementação gradual
 async-pan-zoom = Deslocamento/Zoom assíncrono
 apz-none = nenhum
 wheel-enabled = entrada com roda do mouse ativada
