@@ -10,6 +10,7 @@ account-setup-title = Nastavenie existujúcej e-mailovej adresy
 account-setup-description =
     Ak chcete použiť svoju existujúcu e-mailovú adresu, vyplňte svoje prihlasovacie údaje.<br/>
     { -brand-product-name } automaticky vyhľadá funkčnú a odporúčanú konfiguráciu servera.
+account-setup-success-title = Účet bol úspešne vytvorený
 account-setup-success-secondary-description = Svoj zážitok môžete vylepšiť pripojením súvisiacich služieb a konfiguráciou pokročilých nastavení účtu.
 
 ## Form fields
@@ -227,9 +228,12 @@ account-setup-dictionaries-button = Stiahnuť slovníky
 account-setup-address-books-button = Adresáre
 account-setup-calendars-button = Kalendáre
 account-setup-connect-link = Pripojiť
+account-setup-connect-all-calendars = Pripojiť všetky kalendáre
+account-setup-connect-all-address-books = Pripojiť všetky adresáre
 
 ## Calendar synchronization dialog
 
+calendar-dialog-title = Pripojenie kalendára
 calendar-dialog-cancel-button = Zrušiť
     .accesskey = Z
 calendar-dialog-confirm-button = Pripojiť
