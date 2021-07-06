@@ -4,6 +4,16 @@
 
 e2e-intro-description = To send encrypted or digitally signed messages, you need to configure an encryption technology, either OpenPGP or S/MIME.
 e2e-intro-description-more = Select your personal key to enable the use of OpenPGP, or your personal certificate to enable the use of S/MIME. For a personal key or certificate you own the corresponding secret key.
+e2e-advanced-section = Advanced settings
+e2e-attach-key =
+    .label = Attach my public key when adding an OpenPGP digital signature
+    .accesskey = p
+e2e-encrypt-subject =
+    .label = Encrypt the subject of OpenPGP messages
+    .accesskey = b
+e2e-encrypt-drafts =
+    .label = Store draft messages in encrypted format
+    .accesskey = r
 openpgp-key-user-id-label = Account / User ID
 openpgp-keygen-title-label =
     .title = Generate OpenPGP Key

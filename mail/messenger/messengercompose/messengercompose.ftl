@@ -121,8 +121,6 @@ move-attachment-last-panel-button =
 button-return-receipt =
     .label = Receipt
     .tooltiptext = Request a return receipt for this message
-#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
-consider-bcc-notification = The { $count } recipients in To and Cc can see the address of each other. You can avoid disclosing recipients by using Bcc instead.
 
 # Addressing Area
 
@@ -170,3 +168,5 @@ many-public-recipients-ignore =
 # Variables:
 # $identity (string) - The name of the used identity, most likely an email address.
 compose-missing-identity-warning = A unique identity matching the From address was not found. The message will be sent using the current From field and settings from identity { $identity }.
+encrypted-bcc-warning = When sending an encrypted message, recipients in Bcc are not fully hidden. All recipients may be able to identify them.
+encrypted-bcc-ignore-button = Understood
