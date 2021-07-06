@@ -116,3 +116,4 @@ policy-SupportMenu = Thêm một mục menu hỗ trợ tùy chỉnh vào menu tr
 policy-UserMessaging = Không hiển thị một số thông điệp nhất định cho người dùng.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Chặn các trang web không được truy cập. Xem tài liệu để biết thêm chi tiết về định dạng.
+policy-Windows10SSO = Cho phép Windows đăng nhập một lần cho tài khoản Microsoft, cơ quan và trường học.
