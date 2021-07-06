@@ -15,6 +15,7 @@ pocket-panel-saved-error-generic = Xuk'ulun pe jun sachoj toq xatojtob'ej yayako
 pocket-panel-saved-error-tag-length = Xa xe 25 tz'ib' richin yetz'ib'äx ri taq etal
 pocket-panel-saved-error-only-links = Xa xe yeyak ri taq ximonel
 pocket-panel-saved-error-not-saved = Man Yakon ta re Ruxaq
+pocket-panel-saved-error-no-internet = K'o chi okisan pa k'amaya'l richin niyak pa { -pocket-brand-name }. Katok pa k'amaya'l chuqa' tatojtob'ej chik.
 pocket-panel-saved-page-removed = Yujun Ruxaq
 pocket-panel-saved-page-saved = Yakon pa { -pocket-brand-name }
 pocket-panel-saved-processing-remove = Tajin Niyuj Ruxaq…

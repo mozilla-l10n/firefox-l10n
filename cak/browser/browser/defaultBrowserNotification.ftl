@@ -14,6 +14,7 @@ default-browser-notification-button =
 
 default-browser-prompt-title-pin = ¿La nib'an chi ri { -brand-short-name } nok ri nab'ey okik'amaya'l?
 default-browser-prompt-message-pin = Tik'oje' pan aq'a' ri { -brand-short-name } — tok nab'ey awokik'amaya'l chuqa' tatz'ajb'a' pa ri ruk'ajtz'ik samaj.
+default-browser-prompt-message-pin-mac = Tik'oje' pan aq'a' ri { -brand-short-name } — tok nab'ey awokik'amaya'l chuqa' tatz'ajb'a' pa Dock.
 default-browser-prompt-button-primary-pin = Tib'an nab'ey okik'amaya'l
 default-browser-prompt-title-alt = ¿La nib'an chi ri { -brand-short-name } tok nab'ey awokik'amaya'l?
 default-browser-prompt-message-alt = Tak'ulu' aninem, jikomal chuqa' ichinanem toq yatok pa k'amaya'l.

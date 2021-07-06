@@ -173,6 +173,9 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = Rucholajil Tz'ib'atzij
     .accesskey = c
+menu-view-repair-text-encoding =
+    .label = Tichojmirisäx Rub'itz'ib' Tz'ib'anïk
+    .accesskey = R
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
