@@ -52,6 +52,28 @@ about-processes-unknown-process-name = Kitas ({ $type }, procesas { $pid })
 #   $pid (String) The process id of this process, assigned by the OS.
 about-processes-process-name = Procesas { $pid }: { $name }
 
+## Process names
+## Variables:
+##    $pid (String) The process id of this process, assigned by the OS.
+
+about-processes-browser-process = { -brand-short-name } ({ $pid })
+about-processes-web-process = Bendras saityno procesas ({ $pid })
+about-processes-file-process = Failai ({ $pid })
+about-processes-extension-process = Priedai ({ $pid })
+about-processes-privilegedabout-process = Puslapiai apie ({ $pid })
+about-processes-plugin-process = Papildiniai ({ $pid })
+about-processes-privilegedmozilla-process = „{ -vendor-short-name }“ svetainės ({ $pid })
+about-processes-gmp-plugin-process = „Gecko“ medijos papildiniai ({ $pid })
+about-processes-gpu-process = GPU ({ $pid })
+about-processes-vr-process = VR ({ $pid })
+about-processes-rdd-process = Duomenų iškoduotuvas ({ $pid })
+
+## Isolated process names
+## Variables:
+##    $pid (String) The process id of this process, assigned by the OS.
+##    $origin (String) The domain name for this process.
+
+
 ## Details within processes
 
 # Single-line summary of threads

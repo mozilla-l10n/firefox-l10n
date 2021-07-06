@@ -7,13 +7,12 @@ enable-title = Įjungti saityno kūrėjų priemones
 enable-inspect-element-title = Įjunkite „Firefox“ saityno kūrėjų priemones, norėdami naudotis elementų tyrikliu
 enable-inspect-element-message = Peržiūrėkite ir redaguokite HTML bei CSS su saityno kūrėjų priemonių tyrikliu
 enable-about-debugging-message = Programuokite ir derinkite „WebExtensions“, saityno scenarijus, aptarnavimo scenarijus, ir daugiau su „Firefox“ saityno kūrėjų priemonėmis.
-enable-key-shortcut-message = Jūs paspaudėte saityno kūrėjų priemonių spartųjį klavišą. Jeigu tai buvo klaida, galite šią kortelę uždaryti.
+enable-key-shortcut-message = Jūs paspaudėte saityno kūrėjų priemonių spartųjį klavišą. Jeigu tai buvo klaida, galite šią kortelę užverti.
 enable-menu-message = Ištobulinkite savo svetainės HTML, CSS ir „JavaScript“ su tyriklio ir derintuvės įrankiais.
 enable-common-message = Įprastai „Firefox“ saityno kūrėjų įrankiai yra išjungti, norint suteikti jums daugiau pasirinkimo, kaip veikia jūsų naršyklė.
 enable-learn-more-link = Sužinokite apie saityno kūrėjų priemones
 enable-enable-button = Įjungti saityno kūrėjų priemones
 enable-close-button = Užverti šią kortelę
-
 welcome-title = Sveiki! Čia – „Firefox“ saityno kūrėjų priemonės.
 newsletter-title = „Mozillos“ programuotojų naujienlaiškis
 newsletter-message = Gaukite programuotojams skirtas naujienas, patarimus ir kitą naudingą informaciją tiesiai į savo el. pašto dėžutę.
@@ -23,11 +22,9 @@ newsletter-privacy-label = Sutinku, kad „Mozilla“ tvarkytų mano duomenis ka
 newsletter-subscribe-button = Prenumeruoti
 newsletter-thanks-title = Ačiū!
 newsletter-thanks-message = Jei nesate anksčiau patvirtinę kurio nors „Mozillos“ naujienlaiškio prenumeratos, turbūt turėsite tai padaryti dabar. Dėl visa ko patikrinkite ir savo brukalo aplanką – galbūt mūsų laiškas netyčia atsidurs jame.
-
 footer-title = Firefox Developer Edition
 footer-message = Neužtenka saityno kūrėjo priemonių? Išbandykite „Firefox“ naršyklę, kuri sukurta būtent programuotojams bei moderniems darbams.
 footer-learn-more-link = Sužinoti daugiau
-
 features-learn-more = Sužinoti daugiau
 features-inspector-title = Tyriklis
 features-inspector-desc = Tirkite ir tobulinkite kodą, kad visi tinklalapiai atrodytų tobulai. <a data-l10n-name="learn-more">{ features-learn-more }</a>

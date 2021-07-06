@@ -21,6 +21,7 @@ experimental-features-media-avif-description = Su šia funkcija „{ -brand-shor
 # by various online articles and is technical in nature.
 experimental-features-media-jxl =
     .label = Media: JPEG XL
+experimental-features-media-jxl-description = Su šia funkcija „{ -brand-short-name }“ palaiko JPEG XL (JXL) formatą. Tai yra pagerintas paveikslų failų formatas, palaikantis perėjimą be nuostolių nuo tradicinių JPEG failų. Sužinoti daugiau galite skaidydami apie <a data-l10n-name="bugzilla">klaidą 1539075</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
@@ -71,6 +72,7 @@ experimental-features-webrtc-global-mute-toggles-description = Pridėti valdymo 
 # Win32k Lockdown
 experimental-features-win32k-lockdown =
     .label = „Win32k“ užrakinimas
+experimental-features-win32k-lockdown-description = Išjungti „Win32k“ API naudojimą naršyklės kortelėse. Suteikia didesnį saugumą, tačiau kol kas gali būti nestabilu. (Tik „Windows“)
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
