@@ -16,3 +16,9 @@ openpgp-recip-missing = nenhuma chave disponível
 openpgp-recip-none-accepted = nenhuma chave aceita
 openpgp-compose-general-info-alias = O { -brand-short-name } normalmente requer que a chave pública do destinatário contenha um ID de usuário com um endereço de email correspondente. Isso pode ser alterado usando regras de sinônimos de destinatário OpenPGP.
 openpgp-compose-general-info-alias-learn-more = Saiba mais
+openpgp-compose-alias-status-direct =
+    { $count ->
+        [one] mapeado a uma chave de sinônimo
+       *[other] mapeado a { $count } chaves de sinônimo
+    }
+openpgp-compose-alias-status-error = chave de sinônimo inutilizável/indisponível
