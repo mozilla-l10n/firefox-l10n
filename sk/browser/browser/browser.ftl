@@ -165,53 +165,6 @@ page-action-remove-from-urlbar =
 page-action-remove-extension =
     .label = Odstrániť rozšírenie
 
-## Page Action menu
-
-# Variables
-# $tabCount (integer) - Number of tabs selected
-page-action-send-tabs-panel =
-    .label =
-        { $tabCount ->
-            [one] Odoslať kartu do zariadenia
-            [few] Odoslať { $tabCount } karty do zariadenia
-           *[other] Odoslať { $tabCount } kariet do zariadenia
-        }
-page-action-send-tabs-urlbar =
-    .tooltiptext =
-        { $tabCount ->
-            [one] Odoslať kartu do zariadenia
-            [few] Odoslať { $tabCount } karty do zariadenia
-           *[other] Odoslať { $tabCount } kariet do zariadenia
-        }
-page-action-copy-url-panel =
-    .label = Kopírovať odkaz
-page-action-copy-url-urlbar =
-    .tooltiptext = Kopírovať odkaz
-page-action-email-link-panel =
-    .label = Odoslať odkaz…
-page-action-email-link-urlbar =
-    .tooltiptext = Odoslať odkaz…
-page-action-share-url-panel =
-    .label = Zdieľať
-page-action-share-url-urlbar =
-    .tooltiptext = Zdieľať
-page-action-share-more-panel =
-    .label = Viac…
-page-action-send-tab-not-ready =
-    .label = Synchronizovanie zariadení…
-# "Pin" is being used as a metaphor for expressing the fact that these tabs
-# are "pinned" to the left edge of the tabstrip. Really we just want the
-# string to express the idea that this is a lightweight and reversible
-# action that keeps your tab where you can reach it easily.
-page-action-pin-tab-panel =
-    .label = Pripnúť kartu
-page-action-pin-tab-urlbar =
-    .tooltiptext = Pripnúť kartu
-page-action-unpin-tab-panel =
-    .label = Zrušiť pripnutie karty
-page-action-unpin-tab-urlbar =
-    .tooltiptext = Zrušiť pripnutie karty
-
 ## Auto-hide Context Menu
 
 full-screen-autohide =
@@ -486,6 +439,8 @@ urlbar-default-placeholder =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Zadajte adresu alebo výraz vyhľadávania
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Prehliadač je ovládaný na diaľku
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -518,8 +473,6 @@ urlbar-placeholder-search-mode-other-tabs =
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Vyhľadajte cez { $name } alebo zadajte webovú adresu
-urlbar-remote-control-notification-anchor =
-    .tooltiptext = Prehliadač je ovládaný na diaľku
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -612,7 +565,11 @@ pointerlock-warning-no-domain = Tento dokument má kontrolu nad vaším kurzorom
 
 ## Subframe crash notification
 
-crashed-subframe-message = <strong>Časť tejto stránky zlyhala.</strong> Ak chcete, aby sa spoločnosť { -brand-product-name } dozvedela o tomto probléme a tento mohol byť rýchlejšie vyriešený, odošlite hlásenie.
+crashed-subframe-message = <strong>Časť tejto stránky zlyhala.</strong> Ak chcete, aby sa autori aplikácie { -brand-product-name } dozvedeli o tomto probléme a tento mohol byť rýchlejšie vyriešený, prosím, odošlite hlásenie.
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = Časť tejto stránky zlyhala. Ak chcete, aby sa autori aplikácie { -brand-product-name } dozvedeli o tomto probléme a tento mohol byť rýchlejšie vyriešený, prosím, odošlite hlásenie.
 crashed-subframe-learnmore-link =
     .value = Ďalšie informácie
 crashed-subframe-submit =
