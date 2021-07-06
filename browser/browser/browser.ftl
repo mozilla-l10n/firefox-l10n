@@ -165,55 +165,6 @@ page-action-remove-from-urlbar =
 page-action-remove-extension =
     .label = Odstrani razširitev
 
-## Page Action menu
-
-# Variables
-# $tabCount (integer) - Number of tabs selected
-page-action-send-tabs-panel =
-    .label =
-        { $tabCount ->
-            [one] Pošlji zavihek na napravo
-            [two] Pošlji { $tabCount } zavihka na napravo
-            [few] Pošlji { $tabCount } zavihke na napravo
-           *[other] Pošlji { $tabCount } zavihkov na napravo
-        }
-page-action-send-tabs-urlbar =
-    .tooltiptext =
-        { $tabCount ->
-            [one] Pošlji zavihek na napravo
-            [two] Pošlji { $tabCount } zavihka na napravo
-            [few] Pošlji { $tabCount } zavihke na napravo
-           *[other] Pošlji { $tabCount } zavihkov na napravo
-        }
-page-action-copy-url-panel =
-    .label = Kopiraj povezavo
-page-action-copy-url-urlbar =
-    .tooltiptext = Kopiraj povezavo
-page-action-email-link-panel =
-    .label = Pošlji povezavo po e-pošti …
-page-action-email-link-urlbar =
-    .tooltiptext = Pošlji povezavo po e-pošti …
-page-action-share-url-panel =
-    .label = Deli
-page-action-share-url-urlbar =
-    .tooltiptext = Deli
-page-action-share-more-panel =
-    .label = Več …
-page-action-send-tab-not-ready =
-    .label = Sinhroniziranje naprav ...
-# "Pin" is being used as a metaphor for expressing the fact that these tabs
-# are "pinned" to the left edge of the tabstrip. Really we just want the
-# string to express the idea that this is a lightweight and reversible
-# action that keeps your tab where you can reach it easily.
-page-action-pin-tab-panel =
-    .label = Pripni zavihek
-page-action-pin-tab-urlbar =
-    .tooltiptext = Pripni zavihek
-page-action-unpin-tab-panel =
-    .label = Odpni zavihek
-page-action-unpin-tab-urlbar =
-    .tooltiptext = Odpni zavihek
-
 ## Auto-hide Context Menu
 
 full-screen-autohide =
@@ -492,6 +443,8 @@ urlbar-default-placeholder =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Iskanje ali naslov strani
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Brskalnik je pod daljinskim upravljanjem
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -524,8 +477,6 @@ urlbar-placeholder-search-mode-other-tabs =
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Iščite z iskalnikom { $name } ali vnesite naslov
-urlbar-remote-control-notification-anchor =
-    .tooltiptext = Brskalnik je pod daljinskim upravljanjem
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -619,6 +570,10 @@ pointerlock-warning-no-domain = Ta dokument ima nadzor nad vašim kazalcem. Prit
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Del te strani se je sesul.</strong> Pošljite { -brand-product-name }u poročilo, da ga obvestite  o težavi in mu jo pomagate hitreje odpraviti.
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = Del te strani se je sesul. Pošljite { -brand-product-name(sklon: "dajalnik") } poročilo, da ga obvestite o težavi in mu jo pomagate hitreje odpraviti.
 crashed-subframe-learnmore-link =
     .value = Več o tem
 crashed-subframe-submit =
