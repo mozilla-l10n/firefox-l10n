@@ -253,6 +253,34 @@ account-setup-looking-up-calendars = Procurando agendas…
 account-setup-address-books-button = Catálogos de endereços
 account-setup-calendars-button = Agendas
 account-setup-connect-link = Conectar
+account-setup-existing-address-book = Conectado
+    .title = Catálogo de endereços já conectado
+account-setup-existing-calendar = Conectado
+    .title = Agenda já conectada
+account-setup-connect-all-calendars = Conectar todas as agendas
+account-setup-connect-all-address-books = Conectar todos os catálogos de endereços
 
 ## Calendar synchronization dialog
 
+calendar-dialog-title = Conectar agenda
+calendar-dialog-cancel-button = Cancelar
+    .accesskey = C
+calendar-dialog-confirm-button = Conectar
+    .accesskey = n
+account-setup-calendar-name-label = Nome
+account-setup-calendar-name-input =
+    .placeholder = Minha agenda
+account-setup-calendar-color-label = Cor
+account-setup-calendar-refresh-label = Atualizar
+account-setup-calendar-refresh-manual = Manualmente
+account-setup-calendar-refresh-interval =
+    { $count ->
+        [one] A cada minuto
+       *[other] A cada { $count } minutos
+    }
+account-setup-calendar-read-only = Somente leitura
+    .accesskey = l
+account-setup-calendar-show-reminders = Exibir lembretes
+    .accesskey = E
+account-setup-calendar-offline-support = Suporte offline
+    .accesskey = o
