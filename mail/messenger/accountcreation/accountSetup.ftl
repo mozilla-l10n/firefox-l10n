@@ -280,5 +280,5 @@ account-setup-calendar-read-only = Skrivskyddad
     .accesskey = S
 account-setup-calendar-show-reminders = Visa påminnelser
     .accesskey = V
-account-setup-calendar-offline-support = Offlinesupport
+account-setup-calendar-offline-support = Offline-support
     .accesskey = O
