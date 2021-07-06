@@ -7,9 +7,11 @@ account-setup-tab-title = Kontokonfiguration
 ## Header
 
 account-setup-title = Konfigurera en befintlig e-postadress
-account-setup-description =
-    För att använda din nuvarande e-postadress, fyll i dina uppgifter.<br/>
-    { -brand-product-name } söker automatiskt efter en den bästa och fungerande serverkonfigurationen.
+account-setup-description = För att använda din nuvarande e-postadress, fyll i dina uppgifter.
+account-setup-secondary-description = { -brand-product-name } söker automatiskt efter en fungerande och rekommenderad serverkonfiguration.
+account-setup-success-title = Konto skapades
+account-setup-success-description = Du kan nu använda det här kontot med { -brand-short-name }.
+account-setup-success-secondary-description = Du kan förbättra upplevelsen genom att ansluta relaterade tjänster och konfigurera avancerade kontoinställningar.
 
 ## Form fields
 
@@ -98,11 +100,15 @@ account-setup-step3-image =
     .title = Konfiguration hittad
 account-setup-step4-image =
     .title = Anslutningsfel
+account-setup-step5-image =
+    .title = Konto skapat
 account-setup-privacy-footnote = Dina uppgifter kommer att användas i enlighet med vår <a data-l10n-name="privacy-policy-link">sekretesspolicy</a> och lagras endast lokalt på din dator.
 account-setup-selection-help = Är du inte säker på vad du ska välja?
 account-setup-selection-error = Behöver du hjälp?
+account-setup-success-help = Är du inte säker på ditt nästa steg?
 account-setup-documentation-help = Installationsdokumentation
 account-setup-forum-help = Supportforum
+account-setup-getting-started = Komma igång
 
 ## Results area
 
@@ -211,3 +217,68 @@ account-setup-confirm-advanced-description = Denna dialogruta stängs och ett ko
 account-setup-addon-install-title = Installera
 account-setup-addon-install-intro = Ett tillägg från tredje part kan låta dig komma åt ditt e-postkonto på den här servern:
 account-setup-addon-no-protocol = Den här e-postservern stöder tyvärr inte öppna protokoll. { account-setup-addon-install-intro }
+
+## Success view
+
+account-setup-settings-button = Kontoinställningar
+account-setup-encryption-button = End-to-end kryptering
+account-setup-signature-button = Lägg till en signatur
+account-setup-dictionaries-button = Hämta ordlistor
+account-setup-address-book-carddav-button = Anslut till en CardDAV-adressbok
+account-setup-address-book-ldap-button = Anslut till en LDAP-adressbok
+account-setup-calendar-button = Anslut till en fjärrkalender
+account-setup-linked-services-title = Anslut dina länkade tjänster
+account-setup-linked-services-description = { -brand-short-name } upptäckte andra tjänster som är länkade till ditt e-postkonto.
+account-setup-no-linked-description = Konfigurera andra tjänster för att få ut det mesta av din { -brand-short-name }-upplevelse.
+# Variables:
+# $count (Number) - The number of address books found during autoconfig.
+account-setup-found-address-books-description =
+    { $count ->
+        [one] { -brand-short-name }{ -brand-short-name } hittade en adressbok länkad till ditt e-postkonto.
+       *[other] { -brand-short-name } hittade { $count } adressböcker länkade till ditt e-postkonto.
+    }
+# Variables:
+# $count (Number) - The number of calendars found during autoconfig.
+account-setup-found-calendars-description =
+    { $count ->
+        [one] { -brand-short-name } hittade en kalender länkad till ditt e-postkonto.
+       *[other] { -brand-short-name } hittade { $count } kalendrar länkade till ditt e-postkonto.
+    }
+account-setup-button-finish = Slutför
+    .accesskey = S
+account-setup-looking-up-address-books = Söker efter adressböcker…
+account-setup-looking-up-calendars = Söker efter kalendrar…
+account-setup-address-books-button = Adressböcker
+account-setup-calendars-button = Kalendrar
+account-setup-connect-link = Anslut
+account-setup-existing-address-book = Ansluten
+    .title = Adressboken är redan ansluten
+account-setup-existing-calendar = Ansluten
+    .title = Kalendern är redan ansluten
+account-setup-connect-all-calendars = Anslut alla kalendrar
+account-setup-connect-all-address-books = Anslut alla adressböcker
+
+## Calendar synchronization dialog
+
+calendar-dialog-title = Anslut kalendern
+calendar-dialog-cancel-button = Avbryt
+    .accesskey = A
+calendar-dialog-confirm-button = Anslut
+    .accesskey = A
+account-setup-calendar-name-label = Namn
+account-setup-calendar-name-input =
+    .placeholder = Min kalender
+account-setup-calendar-color-label = Färg
+account-setup-calendar-refresh-label = Uppdatera
+account-setup-calendar-refresh-manual = Manuellt
+account-setup-calendar-refresh-interval =
+    { $count ->
+        [one] Varje minut
+       *[other] Var { $count } minut
+    }
+account-setup-calendar-read-only = Skrivskyddad
+    .accesskey = S
+account-setup-calendar-show-reminders = Visa påminnelser
+    .accesskey = V
+account-setup-calendar-offline-support = Offlinesupport
+    .accesskey = O

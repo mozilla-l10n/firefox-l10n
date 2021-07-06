@@ -14,3 +14,4 @@ openpgp-compose-key-status-open-details = Hantera nycklar för vald mottagare…
 openpgp-recip-good = ok
 openpgp-recip-missing = ingen nyckel tillgänglig
 openpgp-recip-none-accepted = ingen accepterad nyckel
+openpgp-compose-general-info-alias-learn-more = Läs mer
