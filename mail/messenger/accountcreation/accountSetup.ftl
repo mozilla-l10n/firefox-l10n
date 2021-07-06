@@ -10,6 +10,10 @@ account-setup-title = Configurar para usar seu endereço de email existente
 account-setup-description =
     Para usar seu endereço de email atual, preencha suas credenciais.<br/>
     O { -brand-product-name } irá procurar automaticamente uma configuração de servidor recomendada que esteja funcionando.
+account-setup-secondary-description = O { -brand-product-name } procura automaticamente uma configuração de servidor recomendada e que esteja funcionando.
+account-setup-success-title = Conta criada com sucesso
+account-setup-success-description = Agora você pode usar esta conta no { -brand-short-name }.
+account-setup-success-secondary-description = Você pode melhorar a experiência de uso conectando serviços relacionados e configurando preferências avançadas de contas.
 
 ## Form fields
 
@@ -98,11 +102,15 @@ account-setup-step3-image =
     .title = Configuração encontrada
 account-setup-step4-image =
     .title = Erro de conexão
+account-setup-step5-image =
+    .title = Conta criada
 account-setup-privacy-footnote = Suas credenciais serão usadas de acordo com nossa <a data-l10n-name="privacy-policy-link">política de privacidade</a> e serão armazenadas somente localmente no seu computador.
 account-setup-selection-help = Não tem certeza do que selecionar?
 account-setup-selection-error = Precisa de ajuda?
+account-setup-success-help = Não tem certeza do que fazer a seguir?
 account-setup-documentation-help = Documentação de configuração
 account-setup-forum-help = Fórum de suporte
+account-setup-getting-started = Introdução
 
 ## Results area
 
@@ -211,3 +219,11 @@ account-setup-confirm-advanced-description = Este diálogo será fechado e será
 account-setup-addon-install-title = Instalar
 account-setup-addon-install-intro = Uma extensão de terceiros pode permitir que você acesse sua conta de email neste servidor:
 account-setup-addon-no-protocol = Este servidor de email infelizmente não suporta protocolos abertos. { account-setup-addon-install-intro }
+
+## Success view
+
+account-setup-settings-button = Configurações de contas
+account-setup-encryption-button = Criptografia de ponta a ponta
+
+## Calendar synchronization dialog
+
