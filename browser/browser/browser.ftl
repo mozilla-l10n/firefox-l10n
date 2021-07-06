@@ -165,51 +165,6 @@ page-action-remove-from-urlbar =
 page-action-remove-extension =
     .label = Αφαίρεση επέκτασης
 
-## Page Action menu
-
-# Variables
-# $tabCount (integer) - Number of tabs selected
-page-action-send-tabs-panel =
-    .label =
-        { $tabCount ->
-            [one] Αποστολή καρτέλας σε συσκευή
-           *[other] Αποστολή { $tabCount } καρτελών σε συσκευή
-        }
-page-action-send-tabs-urlbar =
-    .tooltiptext =
-        { $tabCount ->
-            [one] Αποστολή καρτέλας σε συσκευή
-           *[other] Αποστολή { $tabCount } καρτελών σε συσκευή
-        }
-page-action-copy-url-panel =
-    .label = Αντιγραφή συνδέσμου
-page-action-copy-url-urlbar =
-    .tooltiptext = Αντιγραφή συνδέσμου
-page-action-email-link-panel =
-    .label = Αποστολή συνδέσμου…
-page-action-email-link-urlbar =
-    .tooltiptext = Αποστολή συνδέσμου…
-page-action-share-url-panel =
-    .label = Κοινή χρήση
-page-action-share-url-urlbar =
-    .tooltiptext = Κοινή χρήση
-page-action-share-more-panel =
-    .label = Περισσότερα…
-page-action-send-tab-not-ready =
-    .label = Συγχρονισμός συσκευών…
-# "Pin" is being used as a metaphor for expressing the fact that these tabs
-# are "pinned" to the left edge of the tabstrip. Really we just want the
-# string to express the idea that this is a lightweight and reversible
-# action that keeps your tab where you can reach it easily.
-page-action-pin-tab-panel =
-    .label = Καρφίτσωμα καρτέλας
-page-action-pin-tab-urlbar =
-    .tooltiptext = Καρφίτσωμα καρτέλας
-page-action-unpin-tab-panel =
-    .label = Ξεκαρφίτσωμα καρτέλας
-page-action-unpin-tab-urlbar =
-    .tooltiptext = Ξεκαρφίτσωμα καρτέλας
-
 ## Auto-hide Context Menu
 
 full-screen-autohide =
@@ -477,6 +432,8 @@ urlbar-default-placeholder =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Αναζήτηση όρου ή εισαγωγή διεύθυνσης
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Το πρόγραμμα περιήγησης ελέγχεται απομακρυσμένα
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -509,8 +466,6 @@ urlbar-placeholder-search-mode-other-tabs =
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Αναζήτηση με { $name } ή εισαγωγή διεύθυνσης
-urlbar-remote-control-notification-anchor =
-    .tooltiptext = Το πρόγραμμα περιήγησης ελέγχεται απομακρυσμένα
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -604,6 +559,10 @@ pointerlock-warning-no-domain = Αυτό το έγγραφο ελέγχει το
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Μέρος της σελίδας κατέρρευσε.</strong> Για να ενημερώσετε το { -brand-product-name } σχετικά με αυτό το ζήτημα, ώστε να διορθωθεί γρηγορότερα, παρακαλούμε υποβάλλετε μια αναφορά.
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = Μέρος της σελίδας κατέρρευσε. Για να ενημερώσετε το { -brand-product-name } σχετικά με αυτό το ζήτημα, ώστε να διορθωθεί γρηγορότερα, παρακαλώ υποβάλετε μια αναφορά.
 crashed-subframe-learnmore-link =
     .value = Μάθετε περισσότερα
 crashed-subframe-submit =
