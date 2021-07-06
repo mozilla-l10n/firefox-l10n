@@ -314,5 +314,7 @@ cfr-whatsnew-cross-site-tracking-body = Wakami yatikïr nacha' jun ütz chajinï
 
 ## Full Video Support CFR message
 
+cfr-doorhanger-video-support-body = Rik'in jub'a' man xketzije' ta pa rub'eyal ri taq silowäch pa re ruxaq re' rik'in re ruwäch { -brand-short-name }{ -brand-short-name }. Richin nik'ul tz'aqät ruk'amoj silowäch, tak'exa' { -brand-short-name } wakani.
+cfr-doorhanger-video-support-header = Tak'exa' { -brand-short-name } richin natzïj ri silowäch
 cfr-doorhanger-video-support-primary-button = Tik'ex Wakami
     .accesskey = T

@@ -296,6 +296,7 @@ mr1-onboarding-sign-in-button-label = Titikirisäx molojri'ïl
 ## when Firefox is not default browser
 
 mr1-onboarding-default-header = ¿La nib'an chi ri { -brand-short-name } tok nab'ey?
+mr1-onboarding-default-subtitle = Tab'ana' anin chi re chuqa' rujikomal chuqa' richinanem pa ruyonil k'wayöl.
 mr1-onboarding-default-primary-button-label = Tib'an chi tok jun nab'ey okik'amaya'l
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
