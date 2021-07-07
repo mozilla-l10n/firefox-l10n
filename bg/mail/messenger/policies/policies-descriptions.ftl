@@ -20,9 +20,13 @@ policy-DisableFormHistory = Не запазва историята на търс
 policy-DisableMasterPasswordCreation = Ако е true, не може да бъде създавана главна парола.
 policy-DisablePasswordReveal = В запазените регистрации паролите не могат да бъдат показвани.
 policy-DisableTelemetry = Изключва телеметрията.
+policy-DNSOverHTTPS = Настройки на DNS през HTTPS.
+policy-ExtensionUpdate = Включва или изключва автоматичното обновяване на разширения.
+policy-InstallAddonsPermission = Разрешава определени страници да инсталират добавки.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
 
 ##
 
+policy-Proxy = Настройки на мрежов посредник.
