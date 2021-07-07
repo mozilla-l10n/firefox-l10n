@@ -165,43 +165,6 @@ page-action-remove-from-urlbar =
 page-action-remove-extension =
     .label = 移除扩展
 
-## Page Action menu
-
-# Variables
-# $tabCount (integer) - Number of tabs selected
-page-action-send-tabs-panel =
-    .label = 发送 { $tabCount } 个标签页到设备
-page-action-send-tabs-urlbar =
-    .tooltiptext = 发送 { $tabCount } 个标签页到设备
-page-action-copy-url-panel =
-    .label = 复制链接
-page-action-copy-url-urlbar =
-    .tooltiptext = 复制链接
-page-action-email-link-panel =
-    .label = 用邮件发送链接…
-page-action-email-link-urlbar =
-    .tooltiptext = 用邮件发送链接…
-page-action-share-url-panel =
-    .label = 共享
-page-action-share-url-urlbar =
-    .tooltiptext = 共享
-page-action-share-more-panel =
-    .label = 更多…
-page-action-send-tab-not-ready =
-    .label = 正在同步设备…
-# "Pin" is being used as a metaphor for expressing the fact that these tabs
-# are "pinned" to the left edge of the tabstrip. Really we just want the
-# string to express the idea that this is a lightweight and reversible
-# action that keeps your tab where you can reach it easily.
-page-action-pin-tab-panel =
-    .label = 固定标签页
-page-action-pin-tab-urlbar =
-    .tooltiptext = 固定标签页
-page-action-unpin-tab-panel =
-    .label = 取消固定标签页
-page-action-unpin-tab-urlbar =
-    .tooltiptext = 取消固定标签页
-
 ## Auto-hide Context Menu
 
 full-screen-autohide =
@@ -465,6 +428,8 @@ urlbar-default-placeholder =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = 搜索或输入网址
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = 浏览器正被远程控制
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -497,8 +462,6 @@ urlbar-placeholder-search-mode-other-tabs =
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = 使用 { $name } 搜索，或者输入网址
-urlbar-remote-control-notification-anchor =
-    .tooltiptext = 浏览器正被远程控制
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -592,6 +555,10 @@ pointerlock-warning-no-domain = 此文档已控制您的鼠标指针。按 Esc �
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>此页面中的部分内容出现崩溃。</strong>您可以向 { -brand-product-name } 报告此问题，以尽快修复。
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = 此页面中的部分内容出现崩溃。您可以向 { -brand-product-name } 报告此问题，以尽快修复。
 crashed-subframe-learnmore-link =
     .value = 详细了解
 crashed-subframe-submit =
