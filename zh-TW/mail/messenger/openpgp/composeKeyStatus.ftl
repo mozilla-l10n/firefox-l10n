@@ -14,4 +14,10 @@ openpgp-compose-key-status-open-details = 管理選擇的收件者的金鑰…
 openpgp-recip-good = 確定
 openpgp-recip-missing = 無可用金鑰
 openpgp-recip-none-accepted = 無可接受的金鑰
+openpgp-compose-general-info-alias = { -brand-short-name } 一般來說會要求收件者的公鑰當中包含與電子郵件地址相同的使用者 ID。此行為可透過更改 OpenPGP 收件者別名規則來調整。
 openpgp-compose-general-info-alias-learn-more = 了解更多
+openpgp-compose-alias-status-direct =
+    { $count ->
+       *[other] 對應到 { $count } 把別名金鑰
+    }
+openpgp-compose-alias-status-error = 無法使用 / 不存在的別名金鑰
