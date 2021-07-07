@@ -49,6 +49,9 @@
 
 <!ENTITY folderProps.name.label                  "Ainm:">
 <!ENTITY folderProps.name.accesskey              "n">
+<!ENTITY folderProps.color.label                 "Dath na h-ìomhaigheige:">
+<!ENTITY folderProps.color.accesskey             "I">
+<!ENTITY folderProps.reset.tooltip               "Aisig an dath tùsail">
 <!ENTITY folderProps.location.label              "Seòladh:">
 <!ENTITY folderProps.location.accesskey          "l">
 
@@ -56,6 +59,7 @@
 <!ENTITY privileges.button.label                 "Pribhleidean…">
 <!ENTITY privileges.button.accesskey             "P">
 <!ENTITY permissionsDesc.label                   "Tha cead agad na leanas a dhèanamh:">
+<!ENTITY folderOtherUsers.label                  "Càch aig a bheil cothrom dhan phasgan seo:">
 <!ENTITY folderType.label                        "Seòrsa a' phasgain:">
 
 <!ENTITY folderQuotaTab.label                    "Cuota">
