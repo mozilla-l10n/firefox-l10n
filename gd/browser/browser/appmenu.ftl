@@ -139,9 +139,9 @@ appmenu-clear-history =
     .label = Glan an eachdraidh faisg ort…
 appmenu-recent-history-subheader = An eachdraidh faisg ort
 appmenu-recently-closed-tabs =
-    .label = Tabaichean a dhùin thu o chionn ghoirid
+    .label = Tabaichean a dhùin thu o chionn goirid
 appmenu-recently-closed-windows =
-    .label = Uinneagan a dhùin thu o chionn ghoirid
+    .label = Uinneagan a dhùin thu o chionn goirid
 
 ## Help panel
 
