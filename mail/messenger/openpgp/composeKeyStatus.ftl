@@ -16,4 +16,9 @@ openpgp-recip-missing = nessuna chiave disponibile
 openpgp-recip-none-accepted = nessuna chiave accettata
 openpgp-compose-general-info-alias = { -brand-short-name } normalmente richiede che la chiave pubblica del destinatario contenga un ID utente con un indirizzo email corrispondente. Questo può essere sovrascritto utilizzando le regole di OpenPGP per gli alias del destinatario.
 openpgp-compose-general-info-alias-learn-more = Ulteriori informazioni
+openpgp-compose-alias-status-direct =
+    { $count ->
+        [one] mappato a una chiave alias
+       *[other] mappato a { $count } chiavi alias
+    }
 openpgp-compose-alias-status-error = chiave alias inutilizzabile/non disponibile
