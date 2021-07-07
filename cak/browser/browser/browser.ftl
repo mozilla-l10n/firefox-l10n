@@ -649,6 +649,9 @@ save-to-pocket-button =
 
 ## Repair text encoding toolbar button
 
+repair-text-encoding-button =
+    .label = Tichojmirisäx rub'itz'ib' tz'ib'anïk
+    .tooltiptext = Tawila' ri ütz rub'itz'ib tz'ib'anïk  rik'in ri rupam ruxaq
 
 ## Customize Toolbar Buttons
 
