@@ -118,8 +118,6 @@ move-attachment-last-panel-button =
 button-return-receipt =
     .label = 回执
     .tooltiptext = 要求对方收件后发送回执
-#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
-consider-bcc-notification = “收件人”与“抄送”共有 { $count } 位，他们可以看到彼此的邮箱地址。您可以改用“密送”来避免泄露相关人信息。
 
 # Addressing Area
 
@@ -167,3 +165,4 @@ many-public-recipients-ignore =
 # Variables:
 # $identity (string) - The name of the used identity, most likely an email address.
 compose-missing-identity-warning = 找不到匹配发件人（From）地址的唯一身份。该邮件将使用当前 From 字段和 { $identity } 身份的设置发送。
+encrypted-bcc-ignore-button = 好的

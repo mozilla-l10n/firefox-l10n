@@ -101,11 +101,15 @@ account-setup-step3-image =
     .title = 找到配置
 account-setup-step4-image =
     .title = 连接错误
+account-setup-step5-image =
+    .title = 已创建账户
 account-setup-privacy-footnote = 凭据将遵循我们的<a data-l10n-name="privacy-policy-link">隐私政策</a>进行使用，且仅会存储在本地。
 account-setup-selection-help = 不确定要怎么选？
 account-setup-selection-error = 需要帮助？
+account-setup-success-help = 不确定接下来做什么吗？
 account-setup-documentation-help = 设置文档
 account-setup-forum-help = 支持论坛
+account-setup-getting-started = 开始使用
 
 ## Results area
 
@@ -216,12 +220,15 @@ account-setup-addon-no-protocol = 此邮件服务器不支持开放式协议。{
 
 ## Success view
 
+account-setup-settings-button = 账户设置
 account-setup-encryption-button = 端到端加密
 account-setup-signature-button = 添加签名
 account-setup-dictionaries-button = 下载字典
 account-setup-address-book-carddav-button = 连接 CardDAV 通讯录
 account-setup-address-book-ldap-button = 连接 LDAP 通讯录
 account-setup-calendar-button = 连接远程日历
+account-setup-linked-services-title = 绑定您的在线服务
+account-setup-linked-services-description = { -brand-short-name } 检测到您的邮件账户可连接其他服务。
 account-setup-button-finish = 完成
     .accesskey = F
 account-setup-looking-up-address-books = 正在查找通讯录…
