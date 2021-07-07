@@ -3,10 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 screenshots-context-menu = Capturar tela
+screenshots-my-shots-button = Minhas capturas
 screenshot-toolbarbutton =
     .label = Capturar tela
     .tooltiptext = Capturar imagem da tela
-screenshots-my-shots-button = Minhas capturas
 screenshots-instructions = Clique e arraste, ou aponte e clique, para selecionar uma região. Tecle ESC para cancelar.
 screenshots-cancel-button = Cancelar
 screenshots-save-visible-button = Salvar área visível
@@ -22,7 +22,7 @@ screenshots-meta-key =
     }
 screenshots-notification-link-copied-title = Link copiado
 screenshots-notification-link-copied-details = O link da sua captura foi copiado para a área de transferência. Tecle { screenshots-meta-key }-V para colar.
-screenshots-notification-image-copied-title = Capturado
+screenshots-notification-image-copied-title = Tela capturada
 screenshots-notification-image-copied-details = Sua captura de tela foi copiada para a área de transferência. Tecle { screenshots-meta-key }-V para colar.
 screenshots-request-error-title = Ops! Fora do ar.
 screenshots-request-error-details = Desculpe! Não conseguimos salvar a sua captura de tela. Tente novamente mais tarde.
