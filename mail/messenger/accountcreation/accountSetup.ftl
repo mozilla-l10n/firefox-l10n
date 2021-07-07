@@ -230,6 +230,7 @@ account-setup-address-book-ldap-button = 连接 LDAP 通讯录
 account-setup-calendar-button = 连接远程日历
 account-setup-linked-services-title = 绑定您的在线服务
 account-setup-linked-services-description = { -brand-short-name } 检测到您的邮件账户可连接其他服务。
+account-setup-no-linked-description = 设置其他服务，体验 { -brand-short-name } 的更多功能。
 # Variables:
 # $count (Number) - The number of address books found during autoconfig.
 account-setup-found-address-books-description =
@@ -268,6 +269,7 @@ calendar-dialog-confirm-button = 连接
 account-setup-calendar-name-label = 名称
 account-setup-calendar-name-input =
     .placeholder = 我的日历
+account-setup-calendar-color-label = 颜色
 account-setup-calendar-refresh-label = 刷新
 account-setup-calendar-refresh-manual = 手动
 account-setup-calendar-refresh-interval =
