@@ -11,11 +11,20 @@ unread-messages-os-tooltip =
     }
 about-rights-notification-text = { -brand-short-name } on vapaa ja avoimen lähdekoodin ohjelmisto, jota rakentaa tuhansista osallistujista ympäri maailmaa koostuva yhteisö.
 
+## Content tabs
+
+content-tab-page-loading-icon =
+    .alt = Sivu latautuu
+content-tab-security-high-icon =
+    .alt = Yhteys on suojattu
+content-tab-security-broken-icon =
+    .alt = Yhteys ei ole suojattu
+
 ## Toolbar
 
-addons-and-themes-button =
+addons-and-themes-toolbarbutton =
     .label = Lisäosat ja teemat
-    .tooltip = Hallitse lisäosia
+    .tooltiptext = Hallitse lisäosia
 
 ## Folder Pane
 

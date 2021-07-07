@@ -4,6 +4,16 @@
 
 e2e-intro-description = Salattujen tai digitaalisesti allekirjoitettujen viestien lähettämistä varten on määritettävä joko OpenPGP- tai S/MIME-salaustekniikka.
 e2e-intro-description-more = Ota OpenPGP käyttöösi valitsemalla henkilökohtainen avaimesi, tai S/MIME valitsemalla henkilökohtainen varmenteesi. Henkilökohtaista avainta tai varmennetta varten sinulla on vastaava oma salainen avain.
+e2e-advanced-section = Lisäasetukset
+e2e-attach-key =
+    .label = Liitä julkinen avaimeni digitaalista OpenPGP-allekirjoitusta lisätessä
+    .accesskey = G
+e2e-encrypt-subject =
+    .label = Salaa OpenPGP-viestien aihe
+    .accesskey = S
+e2e-encrypt-drafts =
+    .label = Säilytä luonnosviestit salatussa muodossa
+    .accesskey = m
 openpgp-key-user-id-label = Tili / käyttäjätunnus
 openpgp-keygen-title-label =
     .title = Luo OpenPGP-avain
@@ -279,6 +289,8 @@ openpgp-selection-status =
         [0] Ota OpenPGP-protokolla käyttöön valitsemalla voimassa oleva avain.
        *[other] Nykyinen kokoonpanosi käyttää avaimen tunnistetta <b>{ $key }</b>
     }
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status-have-key = Nykyinen kokoonpanosi käyttää avaimen tunnistetta <b>{ $key }</b>
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-error = Nykyinen kokoonpano käyttää avainta <b>{ $key }</b>, joka on vanhentunut.
 openpgp-add-key-button =

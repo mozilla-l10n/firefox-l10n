@@ -11,6 +11,8 @@
 
 <!ENTITY importFromNothing.label        "Älä tuo mitään">
 <!ENTITY importFromNothing.accesskey    "Ä">
+<!ENTITY importFromThunderbird.label     "Thunderbird">
+<!ENTITY importFromThunderbird.accesskey "T">
 <!ENTITY importFromSeamonkey3.label     "SeaMonkey 2 tai uudempi">
 <!ENTITY importFromSeamonkey3.accesskey "S">
 <!ENTITY importFromOutlook.label        "Outlook">
