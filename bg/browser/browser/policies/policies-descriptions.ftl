@@ -19,7 +19,7 @@ policy-DisablePasswordReveal = В запазените регистрации п
 policy-DisablePrivateBrowsing = Изключва поверителното разглеждане.
 policy-DisableTelemetry = Изключва телеметрията.
 policy-DNSOverHTTPS = Настройки на DNS през HTTPS.
-policy-InstallAddonsPermission = Разрешава на определени уебсайтове да инсталират добавки.
+policy-InstallAddonsPermission = Разрешава определени страници да инсталират добавки.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
@@ -27,3 +27,4 @@ policy-InstallAddonsPermission = Разрешава на определени у
 ##
 
 policy-PictureInPicture = Включване/изключване картина в картината
+policy-Proxy = Настройки на мрежов посредник.
