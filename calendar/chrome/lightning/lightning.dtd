@@ -19,10 +19,6 @@
 <!ENTITY lightning.menupopup.new.calendar.accesskey "n">
 
 <!-- Open menu popup in File menu -->
-<!ENTITY lightning.menupopup.open.label               "Malfermi">
-<!ENTITY lightning.menupopup.open.accesskey           "M">
-<!ENTITY lightning.menupopup.open.message.label       "Saved Message…">
-<!ENTITY lightning.menupopup.open.message.accesskey   "M">
 <!ENTITY lightning.menupopup.open.calendar.label      "Calendar File…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "C">
 
@@ -42,7 +38,6 @@
      These strings are used in the calendar wizard and the calendar properties dialog, but are only
      displayed when setting/using a caldav calendar -->
 <!ENTITY lightning.calendarproperties.email.label                           "E-Mail:">
-
 <!ENTITY lightning.calendarproperties.forceEmailScheduling.label            "Preferi agendadon de retpoŝto en la klienta flanko">
 <!-- LOCALIZATON NOTE(lightning.calendarproperties.forceEmailScheduling.tooltiptext1,
      lightning.calendarproperties.forceEmailScheduling.tooltiptext2)
@@ -68,6 +63,7 @@
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Delete from calendar">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Detaloj…">
 <!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Show event details">
+<!ENTITY lightning.imipbar.btnGoToCalendar.label                            "Kalendaro">
 <!ENTITY lightning.imipbar.btnMore.label                                    "Pli">
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Click to show more options">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Reconfirm">
@@ -83,6 +79,7 @@
 <!ENTITY lightning.imipbar.btnUpdate.label                                  "Ĝisdatigi">
 <!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Update event in calendar">
 <!ENTITY lightning.imipbar.description                                      "This message contains an invitation to an event.">
+
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">
