@@ -165,4 +165,5 @@ many-public-recipients-ignore =
 # Variables:
 # $identity (string) - The name of the used identity, most likely an email address.
 compose-missing-identity-warning = 找不到寄件地址對應的唯一識別資料。將使用目前的寄件者欄位資料，以及 { $identity } 身份的設定來寄信。
+encrypted-bcc-warning = 寄出加密郵件時，不會完全隱藏密件副本收件者。所有的收件者都可能識別出他們。
 encrypted-bcc-ignore-button = 知道了！

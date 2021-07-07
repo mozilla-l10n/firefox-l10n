@@ -230,6 +230,21 @@ account-setup-address-book-ldap-button = 連結 LDAP 通訊錄
 account-setup-calendar-button = 連結遠端行事曆
 account-setup-linked-services-title = 連結您的線上服務
 account-setup-linked-services-description = { -brand-short-name } 偵測到您的郵件帳號可連結其他服務。
+account-setup-no-linked-description = 設定其他服務，讓您可充分使用 { -brand-short-name } 的相關功能。
+# Variables:
+# $count (Number) - The number of address books found during autoconfig.
+account-setup-found-address-books-description =
+    { $count ->
+        [one] { -brand-short-name } 偵測到有一本通訊錄與您的電子郵件帳號連結。
+       *[other] { -brand-short-name } 偵測到有 { $count } 本通訊錄與您的電子郵件帳號連結。
+    }
+# Variables:
+# $count (Number) - The number of calendars found during autoconfig.
+account-setup-found-calendars-description =
+    { $count ->
+        [one] { -brand-short-name } 偵測到有一份行事曆與您的電子郵件帳號連結。
+       *[other] { -brand-short-name } 偵測到有 { $count } 份行事曆與您的電子郵件帳號連結。
+    }
 account-setup-button-finish = 完成
     .accesskey = F
 account-setup-looking-up-address-books = 正在尋找通訊錄…
