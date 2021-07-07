@@ -418,4 +418,7 @@
 <!-- Summary dialog -->
 <!ENTITY summary.dialog.saveclose.label         "Konservi kaj fermi">
 <!ENTITY summary.dialog.accept.label            "Akcepti">
+<!ENTITY summary.dialog.tentative.label         "Provizora">
 <!ENTITY summary.dialog.decline.label           "Rifuzi">
+<!ENTITY summary.dialog.dontsend.label          "Ne sendi respondon">
+<!ENTITY summary.dialog.send.label              "Sendi respondon tuj">

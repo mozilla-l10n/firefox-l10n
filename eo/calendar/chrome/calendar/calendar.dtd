@@ -9,7 +9,6 @@
 <!ENTITY calendar.newevent.button.tooltip         "Create a new event" >
 <!ENTITY calendar.newtask.button.tooltip          "Create a new task" >
 
-<!ENTITY calendar.unifinder.todoitems.label       "Tasks" >
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Show completed Tasks">
 
 <!ENTITY calendar.today.button.label          "Hodiaŭ">
@@ -194,7 +193,15 @@
 <!ENTITY calendar.context.attendance.occ.delegated.label        "Delegita">
 <!ENTITY calendar.context.attendance.occ.needsaction.accesskey  "A">
 <!ENTITY calendar.context.attendance.occ.needsaction.label      "Ago ankoraŭ bezonata">
+<!ENTITY calendar.context.attendance.occ.inprogress.label       "Plenumata">
+<!ENTITY calendar.context.attendance.occ.completed.label        "Finita">
 
+<!ENTITY calendar.context.attendance.all.accepted.label         "Akceptita">
+<!ENTITY calendar.context.attendance.all.tentative.label        "Provizore akceptita">
+<!ENTITY calendar.context.attendance.all.declined.label         "Rifuzita">
+<!ENTITY calendar.context.attendance.all.delegated.label        "Delegita">
+<!ENTITY calendar.context.attendance.all.needsaction.label      "Ago ankoraŭ bezonata">
+<!ENTITY calendar.context.attendance.all.inprogress.label       "Plenumata">
 <!ENTITY calendar.context.attendance.all.completed.accesskey    "k">
 <!ENTITY calendar.context.attendance.all.completed.label        "Kompleta">
 
@@ -338,7 +345,6 @@
 <!ENTITY calendarproperties.color.label                    "Koloro:">
 <!ENTITY calendarproperties.webdav.label                   "iCalendar (ICS)">
 <!ENTITY calendarproperties.caldav.label                   "CalDAV">
-<!ENTITY calendarproperties.wcap.label                     "Sun Java System Calendar Server (WCAP)">
 <!ENTITY calendarproperties.format.label                   "Formato:">
 <!ENTITY calendarproperties.location.label                 "Retadreso:">
 <!ENTITY calendarproperties.refreshInterval.label          "Refresh Calendar:">
@@ -347,7 +353,7 @@
 <!ENTITY calendarproperties.readonly.label                 "Read Only">
 <!ENTITY calendarproperties.firealarms.label               "Show Reminders">
 <!ENTITY calendarproperties.cache3.label                   "Offline Support">
-<!ENTITY calendarproperties.enabled.label                  "Switch this calendar on">
+<!ENTITY calendarproperties.enabled2.label                 "Aktivigi tiun ĉi kalendaron">
 <!ENTITY calendarproperties.forceDisabled.label            "The provider for this calendar could not be found. This often happens if you have disabled or uninstalled certain addons.">
 <!ENTITY calendarproperties.unsubscribe.label              "Unsubscribe">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "U">
