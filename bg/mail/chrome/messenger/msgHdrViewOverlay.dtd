@@ -93,6 +93,9 @@
 <!ENTITY openAttachment.tooltip "Отваряне на прикрепения файл">
 
 <!ENTITY detachedAttachmentFolder.show.label        "Отваряне на съдържащата папка">
+<!ENTITY detachedAttachmentFolder.show.accesskey    "п">
+<!ENTITY detachedAttachmentFolder.showMac.label     "Показване във Finder">
+<!ENTITY detachedAttachmentFolder.showMac.accesskey "F">
 
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Запазване">
