@@ -10,8 +10,10 @@ account-setup-title = 設定現有的電子郵件地址
 account-setup-description =
     若要使用您目前的電子郵件地址，請填寫該帳號的登入資訊。<br/>
     { -brand-product-name } 將會自動尋找可用並建議使用的伺服器設定。
+account-setup-secondary-description = { -brand-product-name } 將自動搜尋建議使用的伺服器設定。
 account-setup-success-title = 成功建立帳號！
 account-setup-success-description = 您可以在 { -brand-short-name } 使用此帳號了。
+account-setup-success-secondary-description = 您可以連結相關服務並設定帳號進階選項來加強使用體驗。
 
 ## Form fields
 
