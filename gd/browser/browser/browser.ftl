@@ -584,7 +584,7 @@ crashed-subframe-submit =
 
 bookmarks-manage-bookmarks =
     .label = Stiùirich na comharran-lìn
-bookmarks-recent-bookmarks-panel-subheader = Comharran-lìn o chionn ghoirid
+bookmarks-recent-bookmarks-panel-subheader = Comharran-lìn o chionn goirid
 bookmarks-toolbar-chevron =
     .tooltiptext = Tuilleadh chomharran-lìn
 bookmarks-sidebar-content =
@@ -647,7 +647,7 @@ bookmarks-current-tab =
 library-bookmarks-menu =
     .label = Comharran-lìn
 library-recent-activity-title =
-    .value = Gnìomhachd o chionn ghoirid
+    .value = Gnìomhachd o chionn goirid
 
 ## Pocket toolbar button
 

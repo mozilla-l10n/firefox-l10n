@@ -565,11 +565,11 @@ home-prefs-highlights-option-visited-pages =
 home-prefs-highlights-options-bookmarks =
     .label = Comharran-lìn
 home-prefs-highlights-option-most-recent-download =
-    .label = Air a luchdadh a-nuas o chionn ghoirid
+    .label = Air a luchdadh a-nuas o chionn goirid
 home-prefs-highlights-option-saved-to-pocket =
     .label = Duilleagan air an sàbhaladh ann am { -pocket-brand-name }
 home-prefs-recent-activity-header =
-    .label = Gnìomhachd o chionn ghoirid
+    .label = Gnìomhachd o chionn goirid
 home-prefs-recent-activity-description = Roghainn de làraichean is susbaint faisg ort
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that

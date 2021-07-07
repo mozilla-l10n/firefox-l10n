@@ -16,7 +16,7 @@ list-empty-installed =
 list-empty-available-updates =
     .value = Cha deach ùrachadh a lorg
 list-empty-recent-updates =
-    .value = Cha do dh'ùraich thu tuilleadan sam bith o chionn ghoirid
+    .value = Cha do dh'ùraich thu tuilleadan sam bith o chionn goirid
 list-empty-find-updates =
     .label = Lorg ùrachaidhean
 list-empty-button =
@@ -172,9 +172,9 @@ addon-category-locale-title =
 addon-category-available-updates = Ùrachaidhean a tha ri am faighinn
 addon-category-available-updates-title =
     .title = Ùrachaidhean a tha ri am faighinn
-addon-category-recent-updates = Na chaidh ùrachadh o chionn ghoirid
+addon-category-recent-updates = Na chaidh ùrachadh o chionn goirid
 addon-category-recent-updates-title =
-    .title = Na chaidh ùrachadh o chionn ghoirid
+    .title = Na chaidh ùrachadh o chionn goirid
 
 ## These are global warnings
 
@@ -400,7 +400,7 @@ addon-badge-verified2 =
 ##
 
 available-updates-heading = Ùrachaidhean a tha ri am faighinn
-recent-updates-heading = Na chaidh ùrachadh o chionn ghoirid
+recent-updates-heading = Na chaidh ùrachadh o chionn goirid
 release-notes-loading = ’Ga luchdadh…
 release-notes-error = Tha sinn duilich ach thachair mearachd rè luchdadh nan nòtaichean sgaoilidh.
 addon-permissions-empty = Chan eil an leudachan seo feumach air cead sam bith

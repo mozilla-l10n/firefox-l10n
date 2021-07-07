@@ -195,14 +195,14 @@ newtab-section-expand-section-label =
 
 newtab-section-header-topsites = Brod nan làrach
 newtab-section-header-highlights = Sàr-roghainn
-newtab-section-header-recent-activity = Gnìomhachd o chionn ghoirid
+newtab-section-header-recent-activity = Gnìomhachd o chionn goirid
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = ’Ga mholadh le { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
-newtab-empty-section-highlights = Tòisich air brabhsadh is seallaidh sinn dhut an-seo cuid dhe na h-artaigilean, videothan is duilleagan eile air an do thadhail thu no a chuir thu ris na comharran-lìn o chionn ghoirid.
+newtab-empty-section-highlights = Tòisich air brabhsadh is seallaidh sinn dhut an-seo cuid dhe na h-artaigilean, videothan is duilleagan eile air an do thadhail thu no a chuir thu ris na comharran-lìn o chionn goirid.
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
@@ -247,7 +247,7 @@ newtab-custom-sponsored-sites = Ath-ghoiridean sponsairichte
 newtab-custom-pocket-title = ’Ga mholadh le { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Sàr-shusbaint ’ga thasgadh le { -pocket-brand-name } mar phàirt de theaghlach { -brand-product-name }
 newtab-custom-pocket-sponsored = Sgeulachdan sponsairichte
-newtab-custom-recent-title = Gnìomhachd o chionn ghoirid
+newtab-custom-recent-title = Gnìomhachd o chionn goirid
 newtab-custom-recent-subtitle = Roghainn de làraichean is susbaint faisg ort
 newtab-custom-close-button = Dùin
 # For the "Snippets" feature traditionally on about:home.

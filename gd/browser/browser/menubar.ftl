@@ -215,9 +215,9 @@ menu-history-restore-last-session =
 menu-history-hidden-tabs =
     .label = Tabaichean falaichte
 menu-history-undo-menu =
-    .label = Tabaichean a dhùin thu o chionn ghoirid
+    .label = Tabaichean a dhùin thu o chionn goirid
 menu-history-undo-window-menu =
-    .label = Uinneagan a dhùin thu o chionn ghoirid
+    .label = Uinneagan a dhùin thu o chionn goirid
 menu-history-reopen-all-tabs = Ath-fhosgail gach taba
 menu-history-reopen-all-windows = Ath-fhosgail gach uinneag
 
