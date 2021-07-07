@@ -59,7 +59,7 @@
 <!ENTITY proxyResolveFailure.longDesc "<p>Tha am brabhsair air a rèiteachadh gus frithealaiche progsaidh a chleachdadh ach cha deachd progsaidh a lorg.</p><ul><li>A bheil rèiteachadh progsaidh a' bhrabhsair ceart? Cuir sùil air na roghainnean is feuch ris a-rithist.</li><li>A bheil an coimpiutair co-cheangailte ri lìonra beò?</li><li>Duilgheadasan agad fhathast? Leig fios gu rianaire an lìonraidh agad no gun fhrithealaiche-lìn agad airson cuideachadh.</li></ul>">
 
 <!ENTITY redirectLoop.title "Lùb ath-stiùiridh">
-<!ENTITY redirectLoop.longDesc "<p>Sguir am brabhsair dhen a bhith a' feuchainn an rud a dh'iarr thu fhaighinn. Tha an làrach ag ath-stiùireadh an iarrtais air dòigh nach dèid a choileanadh gu bràth.</p><ul><li>An do chuir neo-chomasach briosgaidean o chionn ghoirid a dh'fheumas an làrach seo no an do chuir thu casg orra?</li><li><em>AIRE</em>: Mura dèid a' chùis a rèiteachadh 's tu a' gabhail ri briosgaidean na làraich seo, tha coltas gur e adhbhar rèiteachadh an fhrithealaiche a tha ag adhbharachadh seo 's chan e an coimpiutair agad.</li></ul>">
+<!ENTITY redirectLoop.longDesc "<p>Sguir am brabhsair dhen a bhith a' feuchainn an rud a dh'iarr thu fhaighinn. Tha an làrach ag ath-stiùireadh an iarrtais air dòigh nach dèid a choileanadh gu bràth.</p><ul><li>An do chuir neo-chomasach briosgaidean o chionn goirid a dh'fheumas an làrach seo no an do chuir thu casg orra?</li><li><em>AIRE</em>: Mura dèid a' chùis a rèiteachadh 's tu a' gabhail ri briosgaidean na làraich seo, tha coltas gur e adhbhar rèiteachadh an fhrithealaiche a tha ag adhbharachadh seo 's chan e an coimpiutair agad.</li></ul>">
 
 <!ENTITY unknownSocketType.title "Freagairt mhì-cheart">
 <!ENTITY unknownSocketType.longDesc "<p>Fhreagair an làrach ri iarrtas an lìonraidh air dòigh ris nach robh dùil 's chan urrainn dhan bhrabhsair leantainn air adhart.</p>">
@@ -75,6 +75,7 @@
 
 <!ENTITY cspBlocked.title "'Ga chasgadh le poileasaidh tèarainteachd susbainte">
 <!ENTITY cspBlocked.longDesc "<p>Chuir am brabhsair casg air luchdadh na duilleige air an dòidh seo a chionn 's gu bheil poileasaidh tèarainteachd aig an duilleag nach eil a' toirt cead dha.</p>">
+
 
 <!ENTITY corruptedContentErrorv2.title "Mearachd air sgàth susbaint thruaillte">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Cha ghabh an duilleag a dh'iarr thu a shealltainn a chionn 's gun deach mearachd a lorg ann an tar-chur an dàta.</p><ul><li>Nach leig thu fios do sheilbheadairean na làraich-lìn mun duilgheadas seo?</li></ul>">

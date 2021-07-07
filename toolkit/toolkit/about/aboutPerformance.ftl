@@ -14,7 +14,7 @@ column-memory = Cuimhne
 
 ## Special values for the Name column
 
-ghost-windows = Tabaichean a dhùin thu o chionn ghoirid
+ghost-windows = Tabaichean a dhùin thu o chionn goirid
 # Variables:
 #   $title (String) - the title of the preloaded page, typically 'New Tab'
 preloaded-tab = Air ro-luchdadh: { $title }
@@ -54,12 +54,11 @@ close-tab =
     .title = Dùin an taba
 show-addon =
     .title = Seall ann am manaidsear nan tuilleadan
-
 # Tooltip when hovering an item of the about:performance table
 # Variables:
-#   $totalDispatches (Number) - how many dispatches occured for this page since it loaded
+#   $totalDispatches (Number) - how many dispatches occurred for this page since it loaded
 #   $totalDuration (Number) - how much CPU time was used by this page since it loaded
-#   $dispatchesSincePrevious (Number) - how many dispatches occured in the last 2 seconds
+#   $dispatchesSincePrevious (Number) - how many dispatches occurred in the last 2 seconds
 #   $durationSincePrevious (Number) - how much CPU time was used in the last 2 seconds
 item =
     .title =

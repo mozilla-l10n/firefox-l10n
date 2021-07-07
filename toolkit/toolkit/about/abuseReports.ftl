@@ -50,7 +50,7 @@ abuse-report-messagebar-submitted-noremove = Mòran taing airson aithris a chur 
 abuse-report-messagebar-removed-extension = Mòran taing airson aithris a chur thugainn. Thug thu an leudachan <span data-l10n-name="addon-name">{ $addon-name }</span> air falbh.
 abuse-report-messagebar-removed-theme = Mòran taing airson aithris a chur thugainn. Thug thu an t-ùrlar <span data-l10n-name="addon-name">{ $addon-name }</span> air falbh.
 abuse-report-messagebar-error = Thachair mearachd le cur na h-aithris air <span data-l10n-name="addon-name">{ $addon-name }</span>.
-abuse-report-messagebar-error-recent-submit = Cha deach an aithris air <span data-l10n-name="addon-name">{ $addon-name }</span> a chur on a chaidh aithris eile mu dhèidhinn a chur a-null o chionn ghoirid.
+abuse-report-messagebar-error-recent-submit = Cha deach an aithris air <span data-l10n-name="addon-name">{ $addon-name }</span> a chur on a chaidh aithris eile mu dhèidhinn a chur a-null o chionn goirid.
 
 ## Message bars actions.
 
