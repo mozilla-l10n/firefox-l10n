@@ -48,6 +48,9 @@
 <!ENTITY editMenu.accesskey                             "E">
 <!ENTITY deleteCmd.label                                "Ezabatu">
 <!ENTITY deleteAbCmd.label                              "Ezabatu helbide-liburua">
+<!ENTITY deleteAbCmd.accesskey                          "E">
+<!ENTITY removeAbCmd.label                              "Kendu helbide-liburua">
+<!ENTITY removeAbCmd.accesskey                          "K">
 <!ENTITY deleteContactCmd.label                         "Ezabatu kontaktua">
 <!ENTITY deleteContactsCmd.label                        "Ezabatu kontaktuak">
 <!ENTITY deleteListCmd.label                            "Ezabatu zerrenda">
@@ -140,6 +143,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.label                            "Ezabatu">
 <!ENTITY deleteButton2.accesskey                        "z">
 
+<!ENTITY removeButton.label                             "Kendu">
+<!ENTITY removeButton.accesskey                         "K">
+
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY columnChooser.tooltip                          "Hautatu bistaratzeko zutabeak">
 <!ENTITY newContactButton.tooltip                       "Sortu kontaktu berria helbide-liburuan">
@@ -151,6 +157,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.tooltip                           "Bidali posta-mezua">
 <!ENTITY newIM.tooltip                                  "Bidali berehalako mezua edo hasi berriketa">
 <!ENTITY deleteButton2.tooltip                          "Ezabatu hautatutako elementua">
+
+<!ENTITY removeButton.tooltip                           "Kendu aukeratutako helbide-liburua">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Izena edo helbide elektronikoa">
