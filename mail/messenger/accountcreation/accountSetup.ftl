@@ -10,6 +10,9 @@ account-setup-title = 设置现有的电子邮件地址
 account-setup-description =
     若要使用您现有的电子邮件地址，请填写您的凭据。<br/>
     { -brand-product-name } 将会自动查询可用并推荐使用的服务器配置。
+account-setup-secondary-description = { -brand-product-name } 将自动搜索可用的和推荐的服务器配置。
+account-setup-success-title = 成功创建账户！
+account-setup-success-description = 您可以在 { -brand-short-name } 使用此账户了。
 
 ## Form fields
 
@@ -213,15 +216,21 @@ account-setup-addon-no-protocol = 此邮件服务器不支持开放式协议。{
 
 ## Success view
 
+account-setup-encryption-button = 端到端加密
 account-setup-signature-button = 添加签名
 account-setup-dictionaries-button = 下载字典
 account-setup-address-book-carddav-button = 连接 CardDAV 通讯录
+account-setup-address-book-ldap-button = 连接 LDAP 通讯录
+account-setup-calendar-button = 连接远程日历
 account-setup-button-finish = 完成
     .accesskey = F
 account-setup-looking-up-address-books = 正在查找通讯录…
 account-setup-looking-up-calendars = 正在查找日历…
+account-setup-address-books-button = 通讯录
 account-setup-calendars-button = 日历
 account-setup-connect-link = 连接
+account-setup-existing-address-book = 已连接
+    .title = 已连接该通讯录
 account-setup-existing-calendar = 已连接
     .title = 已连接该日历
 account-setup-connect-all-calendars = 连接所有日历
