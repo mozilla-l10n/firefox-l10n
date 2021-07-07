@@ -127,3 +127,4 @@ many-public-recipients-ignore =
 
 ## Notifications
 
+encrypted-bcc-ignore-button = Ymmärretty
