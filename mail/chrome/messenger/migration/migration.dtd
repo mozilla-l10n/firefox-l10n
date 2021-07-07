@@ -11,6 +11,8 @@
 
 <!ENTITY importFromNothing.label        "不导入任何数据">
 <!ENTITY importFromNothing.accesskey    "D">
+<!ENTITY importFromThunderbird.label     "Thunderbird">
+<!ENTITY importFromThunderbird.accesskey "T">
 <!ENTITY importFromSeamonkey3.label     "SeaMonkey 2 或更高">
 <!ENTITY importFromSeamonkey3.accesskey "S">
 <!ENTITY importFromOutlook.label        "Outlook">
