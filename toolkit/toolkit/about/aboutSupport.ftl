@@ -65,6 +65,7 @@ app-basics-rosetta = Pśez Rosetta pśełožony
 app-basics-memory-use = Wužyty składowak
 app-basics-performance = Wugbaśe
 app-basics-service-workers = Zregistrěrowane "service workers"
+app-basics-third-party = Module tśeśich póbitowarjow
 app-basics-profiles = Profile
 app-basics-launcher-process-status = Startowański proces
 app-basics-multi-process-support = Multiprocesowe wokna
