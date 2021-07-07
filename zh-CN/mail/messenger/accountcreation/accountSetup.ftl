@@ -210,3 +210,43 @@ account-setup-confirm-advanced-description = 此对话框将关闭，即使配�
 account-setup-addon-install-title = 安装
 account-setup-addon-install-intro = 安装第三方附加组件后，可让您访问此服务器上的邮件账户：
 account-setup-addon-no-protocol = 此邮件服务器不支持开放式协议。{ account-setup-addon-install-intro }
+
+## Success view
+
+account-setup-signature-button = 添加签名
+account-setup-dictionaries-button = 下载字典
+account-setup-address-book-carddav-button = 连接 CardDAV 通讯录
+account-setup-button-finish = 完成
+    .accesskey = F
+account-setup-looking-up-address-books = 正在查找通讯录…
+account-setup-looking-up-calendars = 正在查找日历…
+account-setup-calendars-button = 日历
+account-setup-connect-link = 连接
+account-setup-existing-calendar = 已连接
+    .title = 已连接该日历
+account-setup-connect-all-calendars = 连接所有日历
+account-setup-connect-all-address-books = 连接所有通讯录
+
+## Calendar synchronization dialog
+
+calendar-dialog-title = 连接日历
+calendar-dialog-cancel-button = 取消
+    .accesskey = C
+calendar-dialog-confirm-button = 连接
+    .accesskey = n
+account-setup-calendar-name-label = 名称
+account-setup-calendar-name-input =
+    .placeholder = 我的日历
+account-setup-calendar-refresh-label = 刷新
+account-setup-calendar-refresh-manual = 手动
+account-setup-calendar-refresh-interval =
+    { $count ->
+        [one] 每分钟
+       *[other] 每 { $count } 分钟
+    }
+account-setup-calendar-read-only = 只读
+    .accesskey = R
+account-setup-calendar-show-reminders = 显示提醒
+    .accesskey = S
+account-setup-calendar-offline-support = 离线支持
+    .accesskey = O
