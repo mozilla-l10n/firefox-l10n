@@ -165,51 +165,6 @@ page-action-remove-from-urlbar =
 page-action-remove-extension =
     .label = Remuive Extension
 
-## Page Action menu
-
-# Variables
-# $tabCount (integer) - Number of tabs selected
-page-action-send-tabs-panel =
-    .label =
-        { $tabCount ->
-            [1] Send Tab tae Device
-           *[other] Send { $tabCount } Tabs tae Device
-        }
-page-action-send-tabs-urlbar =
-    .tooltiptext =
-        { $tabCount ->
-            [1] Send Tab tae Device
-           *[other] Send { $tabCount } Tabs tae Device
-        }
-page-action-copy-url-panel =
-    .label = Copy Link
-page-action-copy-url-urlbar =
-    .tooltiptext = Copy Link
-page-action-email-link-panel =
-    .label = Email Link…
-page-action-email-link-urlbar =
-    .tooltiptext = Email Link…
-page-action-share-url-panel =
-    .label = Share
-page-action-share-url-urlbar =
-    .tooltiptext = Share
-page-action-share-more-panel =
-    .label = Mair…
-page-action-send-tab-not-ready =
-    .label = Syncin Devices…
-# "Pin" is being used as a metaphor for expressing the fact that these tabs
-# are "pinned" to the left edge of the tabstrip. Really we just want the
-# string to express the idea that this is a lightweight and reversible
-# action that keeps your tab where you can reach it easily.
-page-action-pin-tab-panel =
-    .label = Peen Tab
-page-action-pin-tab-urlbar =
-    .tooltiptext = Peen Tab
-page-action-unpin-tab-panel =
-    .label = Unpeen Tab
-page-action-unpin-tab-urlbar =
-    .tooltiptext = Unpeen Tab
-
 ## Auto-hide Context Menu
 
 full-screen-autohide =
@@ -477,6 +432,8 @@ urlbar-default-placeholder =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Sairch or inpit address
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Wab-stravaiger is unner remote control
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -509,8 +466,6 @@ urlbar-placeholder-search-mode-other-tabs =
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Sairch wi { $name } or inpit address
-urlbar-remote-control-notification-anchor =
-    .tooltiptext = Wab-stravaiger is unner remote control
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -604,6 +559,10 @@ pointerlock-warning-no-domain = This document has control o yer pynter. Press Es
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Pairt o this page crashed.</strong> Fur tae lat { -brand-product-name } ken aboot this issue and get it sortit faster, gonnae inpit a report.
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = Pairt o this page crashed. Fur tae lat { -brand-product-name } ken aboot this issue and get it sortit faster, gonnae inpit a report.
 crashed-subframe-learnmore-link =
     .value = Lairn mair
 crashed-subframe-submit =

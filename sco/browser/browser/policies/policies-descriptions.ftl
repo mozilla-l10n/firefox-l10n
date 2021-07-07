@@ -116,3 +116,4 @@ policy-SupportMenu = Eik a custom support menu item on tae the hauners menu.
 policy-UserMessaging = Dinnae kythe certain messages tae the yaiser.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Block wabsites fae bein veesitit. See documentation fur mair details on the format.
+policy-Windows10SSO = Alloo Windows single sign-on fur Microsoft, wark, and schuil accoonts.
