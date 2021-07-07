@@ -14,6 +14,7 @@ openpgp-compose-key-status-open-details = 管理选中的收件人的密钥…
 openpgp-recip-good = 确定
 openpgp-recip-missing = 无可用密钥
 openpgp-recip-none-accepted = 无可接受的密钥
+openpgp-compose-general-info-alias = { -brand-short-name } 通常会要求收件者的公钥中包含与电子邮件地址相同的用户 ID。此行为可通过更改 OpenPGP 收件者别名规则来调整。
 openpgp-compose-general-info-alias-learn-more = 详细了解
 openpgp-compose-alias-status-direct =
     { $count ->

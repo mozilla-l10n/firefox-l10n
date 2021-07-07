@@ -13,6 +13,7 @@ account-setup-description =
 account-setup-secondary-description = { -brand-product-name } 将自动搜索可用的和推荐的服务器配置。
 account-setup-success-title = 成功创建账户！
 account-setup-success-description = 您可以在 { -brand-short-name } 使用此账户了。
+account-setup-success-secondary-description = 您可以连接相关服务并配置账户高级选项来提升使用体验。
 
 ## Form fields
 
@@ -235,6 +236,13 @@ account-setup-found-address-books-description =
     { $count ->
         [one] { -brand-short-name } 检测到有一份通讯录与您的邮件账户连接。
        *[other] { -brand-short-name } 检测到有 { $count } 份通讯录与您的邮件账户连接。
+    }
+# Variables:
+# $count (Number) - The number of calendars found during autoconfig.
+account-setup-found-calendars-description =
+    { $count ->
+        [one] { -brand-short-name } 检测到有一份日历与您的邮件账户连接。
+       *[other] { -brand-short-name } 检测到有 { $count } 份日历与您的邮件账户连接。
     }
 account-setup-button-finish = 完成
     .accesskey = F
