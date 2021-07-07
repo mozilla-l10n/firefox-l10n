@@ -14,3 +14,8 @@ openpgp-compose-key-status-open-details = 管理选中的收件人的密钥…
 openpgp-recip-good = 确定
 openpgp-recip-missing = 无可用密钥
 openpgp-recip-none-accepted = 无可接受的密钥
+openpgp-compose-general-info-alias-learn-more = 详细了解
+openpgp-compose-alias-status-direct =
+    { $count ->
+       *[other] 对应到 { $count } 把别名密钥
+    }
