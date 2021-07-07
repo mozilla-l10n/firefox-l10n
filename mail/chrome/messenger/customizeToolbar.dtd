@@ -12,5 +12,7 @@
 <!ENTITY iconsBesideText.label    "Ìomhaigheagan ri taobh an teacsa">
 <!ENTITY useSmallIcons.label      "Cleachd ìomhaigheagan beaga">
 <!ENTITY restoreDefaultSet.label  "Aisig an seata bunaiteach">
+<!ENTITY showTitlebar2.label      "Bàr an tiotail">
+<!ENTITY extraDragSpace2.label    "Raon slaodaidh">
 <!ENTITY saveChanges.label        "Deiseil">
 <!ENTITY undoChanges.label        "Neo-dhèan na h-atharraichean">

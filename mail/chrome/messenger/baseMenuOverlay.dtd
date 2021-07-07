@@ -9,8 +9,31 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Cobhair">
 <!ENTITY helpMenuWin.accesskey "h">
+<!ENTITY aboutProduct2.label "Mu &brandShorterName;">
+<!ENTITY aboutProduct2.accesskey "A">
 <!ENTITY helpTroubleshootingInfo.label     "Taic le duilgheadasan">
 <!ENTITY helpTroubleshootingInfo.accesskey "T">
 <!ENTITY helpSafeMode.label     "Ath-thòisich leis na tuilleadan air an cur à comas…">
 <!ENTITY helpSafeMode.accesskey "r">
+<!ENTITY helpSafeMode.stop.label     "Ath-thòisich leis na tuilleadan an comas">
+<!ENTITY helpSafeMode.stop.accesskey "R">
+<!ENTITY productHelp.label "Cobhair &brandShortName;">
+<!ENTITY productHelp.accesskey "H">
+<!ENTITY productHelp.commandkey "VK_F1">
+<!ENTITY productHelpMac.commandkey "?">
+<!ENTITY productHelpMac.modifiers "accel">
 
+<!ENTITY helpKeyboardShortcuts.label "Ath-ghoiridean a’ mheur-chlàir">
+<!ENTITY helpKeyboardShortcuts.accesskey "K">
+
+<!ENTITY helpFeedbackPage.label "Cuir thugainn do bheachdan…">
+<!ENTITY helpFeedbackPage.accesskey "S">
+
+<!ENTITY helpShowTour2.label "Turas &brandShorterName;">
+<!ENTITY helpShowTour2.accesskey "o">
+
+<!ENTITY helpGetInvolvedPage.label "Gabh pàirt ann">
+<!ENTITY helpGetInvolvedPage.accesskey "I">
+
+<!ENTITY helpDonationsPage.label "Thoir tabhartas">
+<!ENTITY helpDonationsPage.accesskey "D">

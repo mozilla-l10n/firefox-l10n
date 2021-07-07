@@ -48,6 +48,9 @@
 <!ENTITY editMenu.accesskey                             "e">
 <!ENTITY deleteCmd.label                                "Sguab às">
 <!ENTITY deleteAbCmd.label                              "Sguab às leabhar nan seòladh">
+<!ENTITY deleteAbCmd.accesskey                          "D">
+<!ENTITY removeAbCmd.label                              "Thoir leabhar nan seòladh air falbh">
+<!ENTITY removeAbCmd.accesskey                          "d">
 <!ENTITY deleteContactCmd.label                         "Sguab às a' charaid">
 <!ENTITY deleteContactsCmd.label                        "Sguab às luchd-aithne">
 <!ENTITY deleteListCmd.label                            "Sguab às liosta">
@@ -140,6 +143,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.label                            "Sguab às">
 <!ENTITY deleteButton2.accesskey                        "S">
 
+<!ENTITY removeButton.label                             "Thoir air falbh">
+<!ENTITY removeButton.accesskey                         "R">
+
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY columnChooser.tooltip                          "Tagh na colbhan a thèid a thaisbeanadh">
 <!ENTITY newContactButton.tooltip                       "Cruthaich neach-aithne ùr ann an leabhar nan seòladh">
@@ -151,6 +157,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.tooltip                           "Cuir teachdaireachd puist">
 <!ENTITY newIM.tooltip                                  "Cuir grad-theachdaireachd no dèan cabadaich">
 <!ENTITY deleteButton2.tooltip                          "Sguab às an rud a thagh thu">
+
+<!ENTITY removeButton.tooltip                           "Thoir air falbh leabhar nan seòladh a thagh thu">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Ainm no post-dealain">
