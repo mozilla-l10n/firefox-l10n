@@ -116,3 +116,4 @@ policy-SupportMenu = Adicionar um item de menu de suporte personalizado ao menu 
 policy-UserMessaging = Não mostrar determinadas mensagens ao utilizador.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Impedir que sites sejam visitados. Consulte a documentação para mais detalhes sobre o formato.
+policy-Windows10SSO = Permitir a autenticação única para contas da Microsoft, trabalho e escola.
