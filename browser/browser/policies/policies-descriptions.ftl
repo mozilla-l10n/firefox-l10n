@@ -116,3 +116,4 @@ policy-SupportMenu = Legg til eit tilpassa menyelement med hjelp i hjelpemenyen.
 policy-UserMessaging = Ikkje vis visse meldingar til brukaren.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blokker besøk på nettstadar. Les dokumentasjonen for detaljer om formatet.
+policy-Windows10SSO = Tillat Windows enkel pålogging for Microsoft, arbeids- og skulekontoar.
