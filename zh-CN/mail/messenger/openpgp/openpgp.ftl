@@ -5,6 +5,9 @@
 e2e-intro-description = 若要发送经加密或数字签名的消息，需配置 OpenPGP 或 S/MIME 加密技术。
 e2e-intro-description-more = 请选择您要用于 OpenPGP 的个人密钥，或用于 S/MIME 的个人证书。无论是个人密钥或是证书，您都会有对应的私钥。
 e2e-advanced-section = 高级设置
+e2e-attach-key =
+    .label = 添加 OpenPGP 数字签名时也附加我的公钥
+    .accesskey = p
 e2e-encrypt-subject =
     .label = 加密 OpenPGP 邮件主题
     .accesskey = b
