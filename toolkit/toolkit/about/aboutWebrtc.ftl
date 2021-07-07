@@ -178,7 +178,7 @@ about-webrtc-frame-stats-heading = Estatísticas de quadros de vídeo - ID de Me
 about-webrtc-save-page-msg = página salva em: { $path }
 about-webrtc-debug-mode-off-state-msg = o registro de rastreamento pode ser encontrado em: { $path }
 about-webrtc-debug-mode-on-state-msg = modo de depuração ativo, registro de execução em: { $path }
-about-webrtc-aec-logging-off-state-msg = os arquivos dos registros capturados podem ser encontradas em:: { $path }
+about-webrtc-aec-logging-off-state-msg = arquivos de log capturados podem ser encontradas em: { $path }
 
 ##
 
