@@ -165,51 +165,6 @@ page-action-remove-from-urlbar =
 page-action-remove-extension =
     .label = Forigi etendaĵon
 
-## Page Action menu
-
-# Variables
-# $tabCount (integer) - Number of tabs selected
-page-action-send-tabs-panel =
-    .label =
-        { $tabCount ->
-            [one] Sendi langeton al aparato
-           *[other] Sendi { $tabCount } langetojn al aparato
-        }
-page-action-send-tabs-urlbar =
-    .tooltiptext =
-        { $tabCount ->
-            [one] Sendi langeton al aparato
-           *[other] Sendi { $tabCount } langetojn al aparato
-        }
-page-action-copy-url-panel =
-    .label = Kopii ligilon
-page-action-copy-url-urlbar =
-    .tooltiptext = Kopii ligilon
-page-action-email-link-panel =
-    .label = Sendi ligilon retpoŝte…
-page-action-email-link-urlbar =
-    .tooltiptext = Sendi ligilon retpoŝte…
-page-action-share-url-panel =
-    .label = Dividi
-page-action-share-url-urlbar =
-    .tooltiptext = Dividi
-page-action-share-more-panel =
-    .label = Pli…
-page-action-send-tab-not-ready =
-    .label = Aparatoj spegulataj…
-# "Pin" is being used as a metaphor for expressing the fact that these tabs
-# are "pinned" to the left edge of the tabstrip. Really we just want the
-# string to express the idea that this is a lightweight and reversible
-# action that keeps your tab where you can reach it easily.
-page-action-pin-tab-panel =
-    .label = Alpingli langeton
-page-action-pin-tab-urlbar =
-    .tooltiptext = Alpingli langeton
-page-action-unpin-tab-panel =
-    .label = Depingli langeton
-page-action-unpin-tab-urlbar =
-    .tooltiptext = Depingli langeton
-
 ## Auto-hide Context Menu
 
 full-screen-autohide =
@@ -477,6 +432,8 @@ urlbar-default-placeholder =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Serĉu ion aŭ tajpu adreson
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = La retumilo estas sub fora regado
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -509,8 +466,6 @@ urlbar-placeholder-search-mode-other-tabs =
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Serĉi per { $name } aŭ tajpi adreson
-urlbar-remote-control-notification-anchor =
-    .tooltiptext = La retumilo estas sub fora regado
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -604,6 +559,10 @@ pointerlock-warning-no-domain = Tiu ĉi dokumento regas vian musmontrilon. Premu
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Parto de tiu ĉi paĝo paneis.</strong> Por permesi al { -brand-product-name } scii pri tiu ĉi problemo kaj havi pli rapidan solvon, bonvolu sendi raporton.
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = Parto de tiu ĉi paĝo paneis. Por permesi al { -brand-product-name } scii pri tiu ĉi problemo kaj havi pli rapidan solvon, bonvolu sendi raporton.
 crashed-subframe-learnmore-link =
     .value = Pli da informo
 crashed-subframe-submit =

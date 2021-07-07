@@ -116,3 +116,4 @@ policy-SupportMenu = Aldoni personecigitan menueron al la helpa menuo.
 policy-UserMessaging = Ne montri specifajn mesaĝojn al la uzanto.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Bloki viziton al kelkaj retejoj. Vidu la dokumentaron por havi pli da informo pri la formo.
+policy-Windows10SSO = Permesi nurfojan komencon de seancon de Windows por kontoj laboraj, lernejaj aŭ de Microsoft.
