@@ -116,3 +116,4 @@ policy-SupportMenu = 向帮助菜单自选添加技术支持项目。
 policy-UserMessaging = 不向用户显示某些消息。
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = 阻止访问某些网站。参阅文档了解该格式的更多详情。
+policy-Windows10SSO = 允许 Microsoft、工作和学校账户的 Windows 单点登录。
