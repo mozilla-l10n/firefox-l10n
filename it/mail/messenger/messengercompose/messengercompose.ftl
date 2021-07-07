@@ -121,8 +121,6 @@ move-attachment-last-panel-button =
 button-return-receipt =
     .label = Ricevuta
     .tooltiptext = Richiedi una ricevuta di ritorno per questo messaggio
-#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
-consider-bcc-notification = I { $count } destinatari in A e Cc possono vedere i rispettivi indirizzi. Puoi evitare di divulgare gli indirizzi dei destinatari utilizzando Ccn.
 
 # Addressing Area
 
@@ -170,3 +168,5 @@ many-public-recipients-ignore =
 # Variables:
 # $identity (string) - The name of the used identity, most likely an email address.
 compose-missing-identity-warning = Non è stata trovata un’identità univoca che corrisponde all’indirizzo Da. Il messaggio verrà inviato utilizzando il campo Da e le impostazioni correnti dall’identità { $identity }.
+encrypted-bcc-warning = Quando si invia un messaggio crittato, i destinatari in Ccn non sono completamente nascosti. Tutti i destinatari possono essere in grado di identificarli.
+encrypted-bcc-ignore-button = Ho capito

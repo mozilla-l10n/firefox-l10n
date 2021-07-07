@@ -4,6 +4,16 @@
 
 e2e-intro-description = Per inviare messaggi crittati o con firma digitale, configurare una tecnologia di crittografia OpenPGP o S/MIME.
 e2e-intro-description-more = Selezionare la propria chiave personale per utilizzare OpenPGP o il proprio certificato personale per utilizzare S/MIME. Per una chiave personale o un certificato si deve possedere la chiave segreta corrispondente.
+e2e-advanced-section = Impostazioni avanzate
+e2e-attach-key =
+    .label = Allega la mia chiave pubblica quando aggiungo una firma digitale OpenPGP
+    .accesskey = c
+e2e-encrypt-subject =
+    .label = Critta l’oggetto dei messaggi OpenPGP
+    .accesskey = m
+e2e-encrypt-drafts =
+    .label = Archivia le bozze dei messaggi in formato crittato
+    .accesskey = b
 openpgp-key-user-id-label = Account/ID utente
 openpgp-keygen-title-label =
     .title = Genera chiave OpenPGP
