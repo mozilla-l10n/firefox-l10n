@@ -12,7 +12,7 @@
 <!ENTITY closeTabCmd2.accesskey "D">
 <!ENTITY closeOtherTabsCmd2.label "Dùin na tabaichean eile">
 <!ENTITY closeOtherTabsCmd2.accesskey "D">
-<!ENTITY recentlyClosedTabsCmd.label "Tabaichean a dhùin thu o chionn ghoirid">
+<!ENTITY recentlyClosedTabsCmd.label "Tabaichean a dhùin thu o chionn goirid">
 <!ENTITY recentlyClosedTabsCmd.accesskey "r">
 
 <!ENTITY undoCloseTabCmd.commandkey "T">
@@ -168,7 +168,7 @@
 <!ENTITY unreadFolders.accesskey "u">
 <!ENTITY favoriteFolders.label "Annsachd">
 <!ENTITY favoriteFolders.accesskey "A">
-<!ENTITY recentFolders.label "O chionn ghoirid">
+<!ENTITY recentFolders.label "O chionn goirid">
 <!ENTITY recentFolders.accesskey "r">
 <!ENTITY compactVersion.label "Sealladh dùmhail">
 <!ENTITY compactVersion.accesskey "S">
@@ -331,7 +331,7 @@
 <!ENTITY prevStarredMsgCmd.accesskey "T">
 <!ENTITY folderMenu.label "Pasgan">
 <!ENTITY folderMenu.accesskey "P">
-<!ENTITY goRecentlyClosedTabs.label "Tabaichean a dhùin thu o chionn ghoirid">
+<!ENTITY goRecentlyClosedTabs.label "Tabaichean a dhùin thu o chionn goirid">
 <!ENTITY goRecentlyClosedTabs.accesskey "d">
 <!ENTITY startPageCmd.label "Duilleag tòiseachadh a' phuist">
 <!ENTITY startPageCmd.accesskey "s">
@@ -383,7 +383,7 @@
 <!ENTITY createFilter.accesskey "a">
 <!ENTITY moveMsgToMenu.label "Gluais gu">
 <!ENTITY moveMsgToMenu.accesskey "G">
-<!ENTITY moveCopyMsgRecentMenu.label "O chionn ghoirid">
+<!ENTITY moveCopyMsgRecentMenu.label "O chionn goirid">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "r">
 <!ENTITY copyMessageLocation.label "Dèan lethbhreac de sheòladh na teachdaireachd">
 <!ENTITY copyMessageLocation.accesskey "D">
@@ -787,7 +787,7 @@
 <!ENTITY contextMultiForwardAsAttachment.accesskey "S">
 <!ENTITY contextMoveMsgMenu.label "Gluais gu">
 <!ENTITY contextMoveMsgMenu.accesskey "G">
-<!ENTITY contextMoveCopyMsgRecentMenu.label "O chionn ghoirid">
+<!ENTITY contextMoveCopyMsgRecentMenu.label "O chionn goirid">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "r">
 <!ENTITY contextMoveCopyMsgFavoritesMenu.label "Annsachdan">
 <!ENTITY contextMoveCopyMsgFavoritesMenu.accesskey "F">
