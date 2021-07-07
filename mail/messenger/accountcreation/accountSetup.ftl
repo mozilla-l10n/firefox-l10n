@@ -229,6 +229,13 @@ account-setup-address-book-ldap-button = 连接 LDAP 通讯录
 account-setup-calendar-button = 连接远程日历
 account-setup-linked-services-title = 绑定您的在线服务
 account-setup-linked-services-description = { -brand-short-name } 检测到您的邮件账户可连接其他服务。
+# Variables:
+# $count (Number) - The number of address books found during autoconfig.
+account-setup-found-address-books-description =
+    { $count ->
+        [one] { -brand-short-name } 检测到有一份通讯录与您的邮件账户连接。
+       *[other] { -brand-short-name } 检测到有 { $count } 份通讯录与您的邮件账户连接。
+    }
 account-setup-button-finish = 完成
     .accesskey = F
 account-setup-looking-up-address-books = 正在查找通讯录…
