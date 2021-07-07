@@ -211,3 +211,9 @@ account-setup-confirm-advanced-description = Cette boîte de dialogue sera ferm�
 account-setup-addon-install-title = Installation
 account-setup-addon-install-intro = Un module complémentaire tiers peut vous permettre d’accéder à votre compte de messagerie sur ce serveur :
 account-setup-addon-no-protocol = Malheureusement, ce serveur de messagerie ne prend pas en charge les protocoles ouverts. { account-setup-addon-install-intro }
+
+## Success view
+
+
+## Calendar synchronization dialog
+
