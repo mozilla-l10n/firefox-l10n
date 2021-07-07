@@ -92,6 +92,7 @@
 
 <!ENTITY openAttachment.tooltip "Отваряне на прикрепения файл">
 
+<!ENTITY detachedAttachmentFolder.show.label        "Отваряне на съдържащата папка">
 
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Запазване">

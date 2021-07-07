@@ -11,6 +11,8 @@
 
 <!ENTITY importFromNothing.label        "Нищо не се внася">
 <!ENTITY importFromNothing.accesskey    "Н">
+<!ENTITY importFromThunderbird.label     "Thunderbird">
+<!ENTITY importFromThunderbird.accesskey "T">
 <!ENTITY importFromSeamonkey3.label     "SeaMonkey 2 или по-нов">
 <!ENTITY importFromSeamonkey3.accesskey "S">
 <!ENTITY importFromOutlook.label        "Outlook">
