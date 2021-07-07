@@ -10,6 +10,8 @@ account-setup-title = Määritä olemassa oleva sähköpostiosoite
 account-setup-description =
     Täytä kirjautumistietosi käyttääksesi nykyistä sähköpostiosoitettasi.<br/>
     { -brand-product-name } etsii automaattisesti toimivaa ja suositeltua palvelimen kokoonpanon määritystä.
+account-setup-success-title = Tili luotu onnistuneesti
+account-setup-success-description = Voit nyt käyttää tätä tiliä { -brand-short-name }in kanssa.
 
 ## Form fields
 
@@ -92,13 +94,14 @@ account-setup-step3-image =
     .title = Kokoonpanon määritys löytyi
 account-setup-step4-image =
     .title = Yhteysvirhe
+account-setup-step5-image =
+    .title = Tili luotu
 account-setup-selection-help = Etkö ole varma, mitä valita?
 account-setup-selection-error = Tarvitsetko apua?
 account-setup-forum-help = Tukipalsta
 
 ## Results area
 
-account-setup-protocol-title = Valitse protokolla
 # Note: IMAP is the name of a protocol.
 account-setup-result-imap = IMAP
 account-setup-result-imap-description = Pidä kansiot ja sähköpostit synkronoituna palvelimellesi
@@ -184,3 +187,68 @@ account-setup-confirm-advanced-title = Vahvista edistynyt määritys
 ## Addon installation section
 
 account-setup-addon-install-title = Asenna
+
+## Success view
+
+account-setup-settings-button = Tilin asetukset
+account-setup-encryption-button = Päästä päähän -salaus
+account-setup-signature-button = Lisää allekirjoitus
+account-setup-dictionaries-button = Lataa oikolukusanastot
+account-setup-address-book-carddav-button = Yhdistä CardDAV-osoitekirjaan
+account-setup-address-book-ldap-button = Yhdistä LDAP-osoitekirjaan
+account-setup-calendar-button = Yhdistä etäkalenteriin
+account-setup-linked-services-title = Yhdistä linkitetyt palvelut
+account-setup-linked-services-description = { -brand-short-name } havaitsi muita sähköpostitiliisi linkitettyjä palveluja.
+account-setup-no-linked-description = Määritä muut palvelut, jotta saat kaiken irti { -brand-short-name }-kokemuksesta.
+# Variables:
+# $count (Number) - The number of address books found during autoconfig.
+account-setup-found-address-books-description =
+    { $count ->
+        [one] { -brand-short-name } löysi yhden sähköpostitiliisi linkitetyn osoitekirjan.
+       *[other] { -brand-short-name } löysi { $count } sähköpostitiliisi linkitettyä osoitekirjaa.
+    }
+# Variables:
+# $count (Number) - The number of calendars found during autoconfig.
+account-setup-found-calendars-description =
+    { $count ->
+        [one] { -brand-short-name } löysi yhden sähköpostitiliisi linkitetyn kalenterin.
+       *[other] { -brand-short-name } löysi { $count } sähköpostitiliisi linkitettyä kalenteria.
+    }
+account-setup-button-finish = Valmis
+    .accesskey = V
+account-setup-looking-up-address-books = Etsitään osoitekirjoja…
+account-setup-looking-up-calendars = Etsitään kalentereita…
+account-setup-address-books-button = Osoitekirjat
+account-setup-calendars-button = Kalenterit
+account-setup-connect-link = Yhdistä
+account-setup-existing-address-book = Yhdistetty
+    .title = Osoitekirja on jo yhdistetty
+account-setup-existing-calendar = Yhdistetty
+    .title = Kalenteri on jo yhdistetty
+account-setup-connect-all-calendars = Yhdistä kaikki kalenterit
+account-setup-connect-all-address-books = Yhdistä kaikki osoitekirjat
+
+## Calendar synchronization dialog
+
+calendar-dialog-title = Yhdistä kalenteri
+calendar-dialog-cancel-button = Peruuta
+    .accesskey = P
+calendar-dialog-confirm-button = Yhdistä
+    .accesskey = Y
+account-setup-calendar-name-label = Nimi
+account-setup-calendar-name-input =
+    .placeholder = Oma kalenteri
+account-setup-calendar-color-label = Väri
+account-setup-calendar-refresh-label = Päivitä
+account-setup-calendar-refresh-manual = Manuaalisesti
+account-setup-calendar-refresh-interval =
+    { $count ->
+        [one] Joka minuutti
+       *[other] { $count } minuutin välein
+    }
+account-setup-calendar-read-only = Vain luku
+    .accesskey = V
+account-setup-calendar-show-reminders = Näytä muistutukset
+    .accesskey = N
+account-setup-calendar-offline-support = Yhteydettömän tilan tuki
+    .accesskey = t
