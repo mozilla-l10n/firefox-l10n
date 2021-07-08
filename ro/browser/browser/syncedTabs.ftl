@@ -8,6 +8,7 @@ synced-tabs-sidebar-intro = Afișează o listă cu filele de pe celelalte dispoz
 synced-tabs-sidebar-unverified = Contul tău trebuie verificat.
 synced-tabs-sidebar-notabs = Nicio filă deschisă
 synced-tabs-sidebar-openprefs = Deschide preferințele pentru { -sync-brand-short-name }
+synced-tabs-sidebar-open-settings = Deschide setările de sincronizare
 synced-tabs-sidebar-tabsnotsyncing = Activează sincronizarea filelor pentru a vedea o listă cu file de pe celelalte dispozitive.
 synced-tabs-sidebar-connect-another-device = Conectează alt dispozitiv
 synced-tabs-sidebar-search =
