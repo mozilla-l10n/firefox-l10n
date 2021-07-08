@@ -9,6 +9,16 @@ about-private-browsing-info-title = Ești într-o fereastră privată
 about-private-browsing-info-myths = Mituri comune despre navigarea privată
 about-private-browsing =
     .title = Caută pe web
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff =
+    .title = Caută cu { $engine } sau introdu adresa
+about-private-browsing-handoff-no-engine =
+    .title = Caută sau introdu adresa
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff-text = Caută cu { $engine } sau introdu adresa
+about-private-browsing-handoff-text-no-engine = Caută sau introdu adresa
 about-private-browsing-not-private = În prezent nu ești într-o fereastră privată.
 about-private-browsing-info-description = { -brand-short-name } îți șterge istoricul de căutare și de navigare când ieși din aplicație sau închizi toate filele și ferestrele private. Deși nu te face anonim pentru site-uri sau pentru furnizorul de internet, îți permite să-ți păstrezi confidențialitatea activității online față de oricine altcineva care folosește acest calculator.
 about-private-browsing-need-more-privacy = Ai nevoie de mai multă intimitate?
