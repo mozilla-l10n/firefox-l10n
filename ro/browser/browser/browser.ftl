@@ -162,53 +162,6 @@ page-action-remove-from-urlbar =
 page-action-remove-extension =
     .label = Elimină extensia
 
-## Page Action menu
-
-# Variables
-# $tabCount (integer) - Number of tabs selected
-page-action-send-tabs-panel =
-    .label =
-        { $tabCount ->
-            [one] Trimite fila către un dispozitiv
-            [few] Trimite { $tabCount } file către un dispozitiv
-           *[other] Trimite { $tabCount } de file către un dispozitiv
-        }
-page-action-send-tabs-urlbar =
-    .tooltiptext =
-        { $tabCount ->
-            [one] Trimite fila către un dispozitiv
-            [few] Trimite { $tabCount } file către un dispozitiv
-           *[other] Trimite { $tabCount } de file către un dispozitiv
-        }
-page-action-copy-url-panel =
-    .label = Copiază linkul
-page-action-copy-url-urlbar =
-    .tooltiptext = Copiază linkul
-page-action-email-link-panel =
-    .label = Trimite linkul prin e-mail…
-page-action-email-link-urlbar =
-    .tooltiptext = Trimite linkul prin e-mail…
-page-action-share-url-panel =
-    .label = Partajează
-page-action-share-url-urlbar =
-    .tooltiptext = Partajează
-page-action-share-more-panel =
-    .label = Mai multe…
-page-action-send-tab-not-ready =
-    .label = Se sincronizează dispozitivele…
-# "Pin" is being used as a metaphor for expressing the fact that these tabs
-# are "pinned" to the left edge of the tabstrip. Really we just want the
-# string to express the idea that this is a lightweight and reversible
-# action that keeps your tab where you can reach it easily.
-page-action-pin-tab-panel =
-    .label = Fixează fila
-page-action-pin-tab-urlbar =
-    .tooltiptext = Fixează fila
-page-action-unpin-tab-panel =
-    .label = Anulează fixarea filei
-page-action-unpin-tab-urlbar =
-    .tooltiptext = Anulează fixarea filei
-
 ## Auto-hide Context Menu
 
 full-screen-autohide =
@@ -404,6 +357,8 @@ urlbar-default-placeholder =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Caută sau introdu adresa
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Browserul este controlat de la distanță
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -436,8 +391,6 @@ urlbar-placeholder-search-mode-other-tabs =
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Caută cu { $name } sau introdu adresa
-urlbar-remote-control-notification-anchor =
-    .tooltiptext = Browserul este controlat de la distanță
 urlbar-permissions-granted =
     .tooltiptext = Ai acordat permisiuni suplimentare acestui site web.
 urlbar-switch-to-tab =
@@ -581,6 +534,7 @@ more-menu-go-offline =
 
 eme-notifications-drm-content-playing = Unele elemente audio sau video de pe acest site folosesc programe DRM, care pot limita ceea ce îți permite { -brand-short-name } să faci cu ele.
 eme-notifications-drm-content-playing-manage = Gestionează setările
+eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Password save/update panel
 
