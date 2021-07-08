@@ -116,3 +116,4 @@ policy-SupportMenu = Titz'aqatisäx jun ruch'akulal ruk'utsamaj ichinan tob'äl 
 policy-UserMessaging = Man tik'ut jujun taq rutzijol chuwa ri winäq.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Tiq'at ri tz'etoj rik'in ajk'amaya'l ruxaq. Tatz'eta' ri ruwujil richin nawetamaj ch'aqa' chik rutzijoxik rub'anikil.
+policy-Windows10SSO = Xa xe tiya' q'ij chi re jun rutikirib'al rumolojri'ïl Windows pa Microsoft, retal samaj chuqa' tijob'äl.
