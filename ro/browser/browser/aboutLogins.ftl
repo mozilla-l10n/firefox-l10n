@@ -69,12 +69,12 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Îți cauți datele de autentificare salvate? Configurează { -sync-brand-short-name }.
-about-logins-login-intro-heading-logged-out = Îți cauți datele de autentificare salvate? Configurează { -sync-brand-short-name } sau importă-le.
 about-logins-login-intro-heading-logged-in = Nu am găsit date de autentificare sincronizate.
 login-intro-description = Dacă ți-ai salvat datele de autentificare în { -brand-product-name } pe un alt dispozitiv, iată cum le poți aduce aici:
-login-intro-instruction-fxa = Creează un cont sau conectează-te în { -fxaccount-brand-name } de pe dispozitivul pe care ai salvat datele de autentificare
+login-intro-instruction-fxa = Creează un cont sau conectează-te în { -fxaccount-brand-name(capitalization: "lower-definite-article") } de pe dispozitivul pe care ai salvat datele de autentificare
 login-intro-instruction-fxa-settings = Asigură-te că ai bifat caseta de selectare Date de autentificare în Setările { -sync-brand-short-name }
 about-logins-intro-instruction-help = Intră pe <a data-l10n-name="help-link">asistență { -lockwise-brand-short-name }</a> pentru ajutor suplimentar
+login-intro-instructions-fxa = Creează un cont sau conectează-te în { -fxaccount-brand-name(capitalization: "lower-definite-article") } de pe dispozitivul pe care ai salvat datele de autentificare.
 about-logins-intro-import = Dacă datele tale de autentificare sunt salvate în alt browser, le poți <a data-l10n-name="import-link">importa în{ -lockwise-brand-short-name }</a>
 about-logins-intro-import2 = Dacă datele tale de autentificare sunt salvate în afara { -brand-product-name }, le poți <a data-l10n-name="import-browser-link">importa din alt browser</a> sau <a data-l10n-name="import-file-link">dintr-un fișier</a>
 
@@ -169,6 +169,13 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Elimini această autentificare?
 confirm-delete-dialog-message = Această acțiune este ireversibilă.
 about-logins-confirm-remove-dialog-confirm-button = Elimină
+about-logins-confirm-remove-all-sync-dialog-message =
+    { $count ->
+        [1] Acest lucru va elimina autentificarea pe care ai salvat-o în { -brand-short-name } pe toate dispozitivele sincronizate cu { -fxaccount-brand-name(capitalization: "lower-definite-article") }. De asemenea, vor fi eliminate alertele privind încălcarea securității datelor care apar aici. Nu vei putea anula această acțiune.
+        [one] Acest lucru va elimina autentificarea pe care ai salvat-o în { -brand-short-name } pe toate dispozitivele sincronizate cu { -fxaccount-brand-name(capitalization: "lower-definite-article") }. De asemenea, vor fi eliminate alertele privind încălcarea securității datelor care apar aici. Nu vei putea anula această acțiune.
+        [few] Acest lucru va elimina toate autentificările pe care le-ai salvat în { -brand-short-name } pe toate dispozitivele sincronizate cu { -fxaccount-brand-name(capitalization: "lower-definite-article") }. De asemenea, vor fi eliminate alertele privind încălcarea securității datelor care apar aici. Nu vei putea anula această acțiune.
+       *[other] Acest lucru va elimina toate autentificările pe care le-ai salvat în { -brand-short-name } pe toate dispozitivele sincronizate cu { -fxaccount-brand-name(capitalization: "lower-definite-article") }. De asemenea, vor fi eliminate alertele privind încălcarea securității datelor care apar aici. Nu vei putea anula această acțiune.
+    }
 about-logins-confirm-export-dialog-title = Exportă date de autentificare și parole
 about-logins-confirm-export-dialog-message = Parolele tale vor fi salvate în text lizibil (de ex., BadP@ssw0rd) și oricine poate deschide fișierul exportat le va putea vedea.
 about-logins-confirm-export-dialog-confirm-button = Exportă…
@@ -233,3 +240,21 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] Document CSV
        *[other] Fișier CSV
     }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+
+## Logins import report page
+
