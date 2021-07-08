@@ -13,7 +13,6 @@ enable-common-message = Uneltele de dezvoltare din Firefox sunt dezactivate impl
 enable-learn-more-link = Află mai multe despre instrumentele de dezvoltare
 enable-enable-button = Activează instrumentele de dezvoltare
 enable-close-button = Închide această filă
-
 welcome-title = Bine ai venit la instrumentele de dezvoltare Firefox!
 newsletter-title = Buletinul informativ Mozilla pentru dezvoltatori
 newsletter-message = Primește știri pentru dezvoltatori, trucuri și resurse direct în căsuța poștală.
@@ -23,11 +22,9 @@ newsletter-privacy-label = Sunt de acord ca Mozilla să îmi gestioneze informa�
 newsletter-subscribe-button = Abonează-te
 newsletter-thanks-title = Îți mulțumim!
 newsletter-thanks-message = Dacă nu ai confirmat anterior o abonare la un buletin informativ în legătură cu Mozilla, este posibil să fie nevoie să o faci. Te rugăm să verifici mesajele primite sau dosarul spam pentru mesaje de e-mail de la noi.
-
 footer-title = Firefox Developer Edition
 footer-message = Cauți mai mult decât instrumente de dezvoltare? Aruncă o privire asupra browserului Firefox care este construit special pentru dezvoltatori și fluxuri de lucru moderne.
 footer-learn-more-link = Află mai multe
-
 features-learn-more = Află mai multe
 features-inspector-title = Inspector
 features-inspector-desc = Inspectează și rafinează codul pentru a construi layouturi precise la nivel de pixel. <a data-l10n-name="learn-more">{ features-learn-more }</a>
@@ -39,7 +36,7 @@ features-network-title = Rețea
 features-network-desc = Monitorizează cererile de rețea care îți pot încetini sau bloca site-ul. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-storage-title = Stocare
 features-storage-desc = Adaugă, modifică și elimină cache-ul, cookie-urile, bazele de date și datele sesiunii. <a data-l10n-name="learn-more">{ features-learn-more }</a>
-features-responsive-title = Vizualizare adaptivă
+features-responsive-title = Mod de design adaptiv
 features-responsive-desc = Testează site-uri pe dispozitive emulate în browserul tău. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-visual-editing-title = Editare vizuală
 features-visual-editing-desc = Reglează la cel mai mic detaliu animațiile, aliniamentul și paddingul. <a data-l10n-name="learn-more">{ features-learn-more }</a>
