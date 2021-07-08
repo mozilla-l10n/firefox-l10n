@@ -18,6 +18,12 @@ permissions-session =
 permissions-allow =
     .label = Aotren
     .accesskey = A
+permissions-button-off =
+    .label = Diweredekaat
+    .accesskey = D
+permissions-button-off-temporarily =
+    .label = Diweredekaat e-pad nebeut amzer
+    .accesskey = n
 permissions-site-name =
     .label = Lec'hienn
 permissions-status =
@@ -58,6 +64,10 @@ permissions-capabilities-listitem-block =
     .value = Herzel
 permissions-capabilities-listitem-allow-session =
     .value = Aotren evit an estez
+permissions-capabilities-listitem-off =
+    .value = Diweredekaet
+permissions-capabilities-listitem-off-temporarily =
+    .value = Diwerekekaet e-pad nebeut amzer
 
 ## Invalid Hostname Dialog
 
@@ -77,6 +87,12 @@ permissions-exceptions-cookie-window =
     .title = Nemedennoù - Toupinoù ha roadennoù lec'hienn
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = Gallout a ri despizañ pe lec'hiennoù a vo aotreet pe difennet da arverañ toupinoù ha roadennoù lec'hienn. Biziatait chomlec'h al lec'hienn a fell deoc'h merañ ha klikit war "Stankañ", "Aotren evit an estez" pe "Aotren".
+
+## Exceptions - HTTPS-Only Mode
+
+permissions-exceptions-https-only-window =
+    .title = Nemedennoù - Mod HTTPS hepken
+    .style = { permissions-window.style }
 
 ## Exceptions - Pop-ups
 

@@ -220,8 +220,6 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = Gwelet pep tra
     .accesskey = G
-cfr-doorhanger-milestone-close-button = Serriñ
-    .accesskey = S
 
 ## What’s New Panel Content for Firefox 76
 
@@ -255,10 +253,12 @@ cfr-whatsnew-protections-icon-alt = Arlun skoed
 
 cfr-whatsnew-better-pdf-header = Arnod PDF gwelloc'h
 cfr-whatsnew-better-pdf-body = An teulioù PDF a zigot war-eeun e { -brand-short-name } bremañ, evel-se e c'hallit mirotu o labour er memes lec'h.
+cfr-doorhanger-milestone-close-button = Serriñ
+    .accesskey = S
 
 ## DOH Message
 
-cfr-doorhanger-doh-primary-button = Mat, komprenet 'm eus
+cfr-doorhanger-doh-primary-button-2 = Mat eo
     .accesskey = M
 cfr-doorhanger-doh-secondary-button = Diweredekaat
     .accesskey = D
@@ -270,12 +270,7 @@ cfr-doorhanger-fission-primary-button = Mat, komprenet 'm eus
 cfr-doorhanger-fission-secondary-button = Gouzout hiroc'h
     .accesskey = G
 
-## What's new: Cookies message
+## Full Video Support CFR message
 
-
-## What's new: Media controls message
-
-cfr-whatsnew-media-keys-button = Gouzout penaos
-
-## What's new: Search shortcuts
-
+cfr-doorhanger-video-support-primary-button = Hizivaat bremañ
+    .accesskey = H

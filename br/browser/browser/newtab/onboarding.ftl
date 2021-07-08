@@ -292,12 +292,16 @@ mr1-onboarding-pin-primary-button-label =
 # when Firefox is both pinned and default
 mr1-onboarding-get-started-primary-button-label = Kregiñ ganti
 mr1-onboarding-welcome-header = Degemer mat war { -brand-short-name }
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
+mr1-onboarding-set-default-only-primary-button-label = Lakaat { -brand-short-name } da verdeer dre-ziouer
 mr1-onboarding-set-default-secondary-button-label = Ket bremañ
 mr1-onboarding-sign-in-button-label = Kennaskañ
 
 ## Title, subtitle and primary button string used on set default onboarding screen
 ## when Firefox is not default browser
 
+mr1-onboarding-default-header = Lakaat { -brand-short-name } da verdeer dre ziouer
 mr1-onboarding-default-primary-button-label = Lakaat da verdeer dre ziouer
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
@@ -310,6 +314,7 @@ mr1-onboarding-import-primary-button-label-attribution = Emporzhiañ diouzh { $p
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = Emporzhiañ diouzh ar merdeer diwezhañ
 mr1-onboarding-import-secondary-button-label = Ket bremañ
+mr1-onboarding-theme-subtitle = Personelait { -brand-short-name } gant un neuz.
 mr1-onboarding-theme-primary-button-label = Enrollañ an tem
 mr1-onboarding-theme-secondary-button-label = Ket bremañ
 # System theme uses operating system color settings
@@ -324,3 +329,43 @@ mr1-onboarding-theme-label-alpenglow = Alpenglow
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of system theme
+mr1-onboarding-theme-tooltip-system =
+    .title =
+        Implijout neuz ar reizhiad korvoiñ
+        evit ar boutonoù, lañserioù ha prenestroù.
+# Input description for system theme
+mr1-onboarding-theme-description-system =
+    .aria-description =
+        Implijout neuz ar reizhiad korvoiñ
+        evit ar boutonoù, lañserioù ha prenestroù.
+# Tooltip displayed on hover of light theme
+mr1-onboarding-theme-tooltip-light =
+    .title =
+        Implijout un neuz sklaer evit ar
+        boutonoù, lañserioù ha prenestroù.
+# Input description for light theme
+mr1-onboarding-theme-description-light =
+    .aria-description =
+        Implijout un neuz sklaer evit ar
+        boutonoù, lañserioù ha prenestroù.
+# Tooltip displayed on hover of dark theme
+mr1-onboarding-theme-tooltip-dark =
+    .title =
+        Implijout un neuz teñval evit ar
+        boutonoù, lañserioù ha prenestroù.
+# Input description for dark theme
+mr1-onboarding-theme-description-dark =
+    .aria-description =
+        Implijout un neuz teñval evit ar
+        boutonoù, lañserioù ha prenestroù.
+# Tooltip displayed on hover of Alpenglow theme
+mr1-onboarding-theme-tooltip-alpenglow =
+    .title =
+        Implijout un neuz buhezek, livet evit ar
+        boutonoù, lañserioù ha prenestroù.
+# Input description for Alpenglow theme
+mr1-onboarding-theme-description-alpenglow =
+    .aria-description =
+        Implijout un neuz buhezek, livet evit ar
+        boutonoù, lañserioù ha prenestroù.

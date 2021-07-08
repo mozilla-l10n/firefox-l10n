@@ -94,6 +94,17 @@ places-edit-generic =
 places-edit-folder =
     .label = Kemmañ anv an teuliad…
     .accesskey = e
+places-remove-folder =
+    .label =
+        { $count ->
+            [1] Dilemel an teuliad
+            [one] Dilemel an teuliadoù
+            [two] Dilemel an teuliadoù
+            [few] Dilemel an teuliadoù
+            [many] Dilemel an teuliadoù
+           *[other] Dilemel an teuliadoù
+        }
+    .accesskey = D
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Sinedoù meret
@@ -103,6 +114,19 @@ managed-bookmarks-subfolder =
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Sinedoù all
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-remove-bookmark =
+    .label =
+        { $count ->
+            [1] Dilemel ar sined
+            [one] Dilemel ar sinedoù
+            [two] Dilemel ar sinedoù
+            [few] Dilemel ar sinedoù
+            [many] Dilemel ar sinedoù
+           *[other] Dilemel ar sinedoù
+        }
+    .accesskey = i
 places-manage-bookmarks =
     .label = Merañ ar sinedoù
     .accesskey = M

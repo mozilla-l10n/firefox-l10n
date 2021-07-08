@@ -42,3 +42,6 @@ pocket-panel-signup-tagline-story-two = Sellit anezhañ e { -pocket-brand-name }
 
 pocket-panel-home-my-list = Ma roll
 pocket-panel-home-welcome-back = Eürus omp d'ho kwelout en-dro
+pocket-panel-home-explore-popular-topics = Merdeiñ ar sujedoù brudet
+pocket-panel-home-discover-more = Dizoloiñ muioc'h c'hoazh
+pocket-panel-home-explore-more = Merdeiñ
