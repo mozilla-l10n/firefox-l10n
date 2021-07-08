@@ -40,3 +40,5 @@ pocket-panel-signup-tagline-story-two = Sellit anezhañ e { -pocket-brand-name }
 
 ## about:pocket-home panel
 
+pocket-panel-home-my-list = Ma roll
+pocket-panel-home-welcome-back = Eürus omp d'ho kwelout en-dro

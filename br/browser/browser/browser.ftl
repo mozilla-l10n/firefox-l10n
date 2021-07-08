@@ -165,57 +165,6 @@ page-action-remove-from-urlbar =
 page-action-remove-extension =
     .label = Dilemel an askouezh
 
-## Page Action menu
-
-# Variables
-# $tabCount (integer) - Number of tabs selected
-page-action-send-tabs-panel =
-    .label =
-        { $tabCount ->
-            [one] Kas an ivinell d'an trevnad
-            [two] Kas { $tabCount } ivinell d'an trevnad
-            [few] Kas { $tabCount } ivinell d'an trevnad
-            [many] Kas { $tabCount } a ivinelloù d'an trevnad
-           *[other] Kas { $tabCount } ivinell d'an trevnad
-        }
-page-action-send-tabs-urlbar =
-    .tooltiptext =
-        { $tabCount ->
-            [one] Kas an ivinell d'an trevnad
-            [two] Kas { $tabCount } ivinell d'an trevnad
-            [few] Kas { $tabCount } ivinell d'an trevnad
-            [many] Kas { $tabCount } a ivinelloù d'an trevnad
-           *[other] Kas { $tabCount } ivinell d'an trevnad
-        }
-page-action-copy-url-panel =
-    .label = Eilañ an ere
-page-action-copy-url-urlbar =
-    .tooltiptext = Eilañ an ere
-page-action-email-link-panel =
-    .label = Kas an ere dre bostel…
-page-action-email-link-urlbar =
-    .tooltiptext = Kas an ere dre bostel…
-page-action-share-url-panel =
-    .label = Rannañ
-page-action-share-url-urlbar =
-    .tooltiptext = Rannañ
-page-action-share-more-panel =
-    .label = Ouzhpenn...
-page-action-send-tab-not-ready =
-    .label = Trevnadoù o c'houbredañ...
-# "Pin" is being used as a metaphor for expressing the fact that these tabs
-# are "pinned" to the left edge of the tabstrip. Really we just want the
-# string to express the idea that this is a lightweight and reversible
-# action that keeps your tab where you can reach it easily.
-page-action-pin-tab-panel =
-    .label = Spilhennañ an ivinell
-page-action-pin-tab-urlbar =
-    .tooltiptext = Spilhennañ an ivinell
-page-action-unpin-tab-panel =
-    .label = Dispilhennañ an ivinell
-page-action-unpin-tab-urlbar =
-    .tooltiptext = Dispilhennañ an ivinell
-
 ## Auto-hide Context Menu
 
 full-screen-autohide =
@@ -431,6 +380,8 @@ popup-select-microphone-device =
     .accesskey = K
 popup-select-microphone-icon =
     .tooltiptext = Mikro
+popup-select-speaker-icon =
+    .tooltiptext = Selaouelloù
 popup-all-windows-shared = Rannet e vo an holl brenestroù gwelus war ho skramm.
 popup-screen-sharing-not-now =
     .label = Diwezhatoc'h
@@ -469,6 +420,8 @@ urlbar-default-placeholder =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Bizskrivit un termen da glask pe ur chomlec'h
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Reoliet a-bell eo ar merdeer
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -501,8 +454,6 @@ urlbar-placeholder-search-mode-other-tabs =
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Klaskit gant: { $name } pe enankit ur chomlec'h
-urlbar-remote-control-notification-anchor =
-    .tooltiptext = Reoliet a-bell eo ar merdeer
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -677,6 +628,12 @@ save-to-pocket-button =
     .label = Enrollañ etrezek { -pocket-brand-name }
     .tooltiptext = Enrollañ etrezek { -pocket-brand-name }
 
+## Repair text encoding toolbar button
+
+repair-text-encoding-button =
+    .label = Ratreañ bonegañ an destenn
+    .tooltiptext = Divinout bonegañ an destenn reizh eus ar bajennad
+
 ## Customize Toolbar Buttons
 
 # Variables:
@@ -718,6 +675,7 @@ panel-save-update-password = Ger-tremen
 # Variables:
 #  $name (String): The name of the addon that will be removed.
 addon-removal-title = Dilemel { $name }?
+addon-removal-abuse-report-checkbox = Disklêriañ an askouezh-mañ da { -vendor-short-name }
 
 ## Remote / Synced tabs
 
