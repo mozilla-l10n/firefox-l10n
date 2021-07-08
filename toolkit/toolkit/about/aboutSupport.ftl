@@ -129,10 +129,10 @@ sandbox-sys-call-number = Apel sistem
 sandbox-sys-call-args = Argumente
 safe-mode-title = Încearcă modul sigur
 restart-in-safe-mode-label = Repornește cu suplimentele dezactivate…
+troubleshoot-mode-title = Diagnostică problemele
+restart-in-troubleshoot-mode-label = Mod de depanare…
 clear-startup-cache-title = Încearcă să golești cache-ul de pornire
 clear-startup-cache-label = Golește cache-ul de pornire…
-startup-cache-dialog-title = Golește cache-ul de pornire
-startup-cache-dialog-body = Repornește { -brand-short-name } pentru golirea cache-ului. Acțiunea nu îți va modifica setările și nu îți va șterge extensiile pe care le-ai adăugat în { -brand-short-name }.
 restart-button-label = Repornește
 
 ## Media titles
@@ -354,3 +354,9 @@ touch-warning = intrarea tactilă asincronă dezactivată datorită unei preferi
 policies-inactive = Inactiv
 policies-active = Activ
 policies-error = Eroare
+
+## Printing section
+
+
+## Normandy sections
+

@@ -55,6 +55,7 @@ appmenu-update-other-instance =
     .buttonaccesskey = U
     .secondarybuttonlabel = Nu acum
     .secondarybuttonaccesskey = N
+appmenu-addon-post-install-message3 = Gestionează-ți suplimentele și temele prin meniul aplicației.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Permite acestei extensii să ruleze în ferestre private
     .accesskey = A

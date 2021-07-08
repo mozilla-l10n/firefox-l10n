@@ -7,10 +7,16 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = Pornește în modul sigur
+troubleshoot-mode-window =
+    .title = Deschizi { -brand-short-name } în modul de depanare?
+    .style = max-width: 400px
+start-troubleshoot-mode =
+    .label = Deschide
 refresh-profile =
     .label = Reîmprospătează { -brand-short-name }
 safe-mode-description = Modul sigur este un mod special al { -brand-short-name } care poate fi folosit pentru a depana problemele.
 safe-mode-description-details = Suplimente tale și setările particularizate vor fi dezactivate temporar, și caracteristici { -brand-short-name } s-ar putea să fie executate diferit de așa cum se întâmplă în prezent.
 refresh-profile-instead = De asemenea, poți sări peste depanare și să încerci să reîmprospătezi { -brand-short-name }.
-# Shown on the safe mode dialog after multiple startup crashes. 
+troubleshoot-mode-description = Folosește acest mod special de { -brand-short-name } pentru a diagnostica problemele. Extensiile și personalizările tale vor fi dezactivate temporar.
+# Shown on the safe mode dialog after multiple startup crashes.
 auto-safe-mode-description = { -brand-short-name } s-a închis în mod neașteptat la pornire. Acest lucru ar putea fi cauzat de suplimente sau alte probleme. Poți încerca să rezolvi problema prin depanare în modul sigur.

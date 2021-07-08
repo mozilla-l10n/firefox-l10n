@@ -28,7 +28,10 @@ search-input-box =
             [windows] Caută în Opțiuni
            *[other] Caută în Preferințe
         }
+settings-page-title = Setări
 managed-notice = Browserul este gestionat de organizația ta.
+category-list =
+    .aria-label = Categorii
 pane-general-title = General
 category-general =
     .tooltiptext = { pane-general-title }
@@ -518,6 +521,7 @@ home-prefs-highlights-option-most-recent-download =
     .label = Cele mai recente descărcări
 home-prefs-highlights-option-saved-to-pocket =
     .label = Pagini salvate în { -pocket-brand-name }
+home-prefs-recent-activity-description = O selecție de site-uri și conținut recente
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -616,6 +620,9 @@ sync-signedout-account-signin2 =
     .label = Autentifică-te în { -sync-brand-short-name }…
     .accesskey = i
 sync-signedout-description2 = Sincronizează marcajele, istoricul, filele, parolele, suplimentele și setările pe toate dispozitivele.
+sync-signedout-account-signin3 =
+    .label = Autentifică-te pentru sincronizare…
+    .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
