@@ -11,6 +11,9 @@ places-open-tab =
 places-open-in-tab =
     .label = Deschide într-o filă nouă
     .accesskey = w
+places-open-all-bookmarks =
+    .label = Deschide toate marcajele
+    .accesskey = O
 places-open-all-in-tabs =
     .label = Deschide toate în file
     .accesskey = o
@@ -41,6 +44,15 @@ places-open-in-private-window =
 places-add-bookmark =
     .label = Adaugă un marcaj…
     .accesskey = B
+places-add-folder-contextmenu =
+    .label = Adaugă un dosar…
+    .accesskey = F
+places-add-folder =
+    .label = Adaugă un dosar…
+    .accesskey = o
+places-add-separator =
+    .label = Adaugă un separator
+    .accesskey = S
 places-view =
     .label = Vizualizare
     .accesskey = V
@@ -72,9 +84,31 @@ places-sortby-name =
 places-properties =
     .label = Proprietăți
     .accesskey = i
+# places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
+places-edit-bookmark =
+    .label = Editează marcajul…
+    .accesskey = i
+places-edit-generic =
+    .label = Editează…
+    .accesskey = i
+places-edit-folder =
+    .label = Redenumește dosarul…
+    .accesskey = e
+places-remove-folder =
+    .label =
+        { $count ->
+            [1] Elimină dosarul
+            [one] Elimină dosarul
+            [few] Elimină dosarele
+           *[other] Elimină dosarele
+        }
+    .accesskey = m
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Marcaje gestionate
+# This label is used when a managed bookmarks folder doesn't have a name.
+managed-bookmarks-subfolder =
+    .label = Subdosar
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Alte marcaje
@@ -89,3 +123,6 @@ places-remove-bookmark =
            *[other] Elimină marcajele
         }
     .accesskey = e
+places-manage-bookmarks =
+    .label = Gestionează marcajele
+    .accesskey = M

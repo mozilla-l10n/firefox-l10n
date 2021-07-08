@@ -541,6 +541,11 @@ save-to-pocket-button =
 ## Customize Toolbar Buttons
 
 # Variables:
+#  $shortcut (String): keyboard shortcut to open the add-ons manager
+toolbar-addons-themes-button =
+    .label = Suplimente și teme
+    .tooltiptext = Gestionează-ți suplimentele și temele ({ $shortcut })
+# Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
 toolbar-settings-button =
     .label = Setări
