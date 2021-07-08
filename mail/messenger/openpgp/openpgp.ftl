@@ -4,6 +4,13 @@
 
 e2e-intro-description = Pour envoyer des messages chiffrés ou signés numériquement, vous devez configurer une technologie de chiffrement, soit OpenPGP soit S/MIME.
 e2e-intro-description-more = Sélectionnez votre clé personnelle pour utiliser OpenPGP, ou votre certificat personnel pour utiliser S/MIME. Vous devez posséder la clé secrète associée à la clé personnelle ou au certificat personnel.
+e2e-advanced-section = Paramètres avancés
+e2e-attach-key =
+    .label = Joindre ma clé publique lors de l’ajout d’une signature numérique OpenPGP
+    .accesskey = p
+e2e-encrypt-subject =
+    .label = Chiffrer le sujet des messages OpenPGP
+    .accesskey = C
 openpgp-key-user-id-label = Compte / Identifiant utilisateur
 openpgp-keygen-title-label =
     .title = Générer une clé OpenPGP
