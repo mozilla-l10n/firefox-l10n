@@ -322,6 +322,38 @@ key-external-label = คีย์ GnuPG ภายนอก
 key-type-public = คีย์สาธารณะ
 key-type-primary = คีย์หลัก
 key-type-subkey = คีย์ย่อย
+key-type-pair = คู่คีย์ (คีย์ลับและคีย์สาธารณะ)
+key-expiry-never = ไม่เลย
+key-usage-encrypt = เข้ารหัส
+key-usage-sign = ลงลายเซ็น
+key-usage-certify = รับรอง
+key-usage-authentication = การรับรองความถูกต้อง
+key-does-not-expire = คีย์จะไม่มีวันหมดอายุ
+key-expired-date = คีย์หมดอายุแล้วเมื่อ { $keyExpiry }
+key-expired-simple = คีย์หมดอายุแล้ว
+key-revoked-simple = คีย์ถูกเพิกถอนแล้ว
+key-do-you-accept = คุณยอมรับคีย์นี้สำหรับตรวจสอบลายเซ็นดิจิทัลและเข้ารหัสข้อความหรือไม่
+key-accept-warning = พยายามอย่ายอมรับกุญแจหลอก ใช้ช่องทางสื่อสารอื่นที่ไม่ใช่อีเมลเพื่อตรวจสอบลายนิ้วมือของคีย์ของผู้ติดต่อของคุณ
+# Strings enigmailMsgComposeOverlay.js
+cannot-use-own-key-because = ไม่สามารถส่งข้อความได้ เนื่องจากมีปัญหากับคีย์ส่วนตัวของคุณ { $problem }
+cannot-encrypt-because-missing = ไม่สามารถส่งข้อความนี้ด้วยการเข้ารหัสแบบครบวงจรได้ เนื่องจากมีปัญหากับคีย์ของผู้รับต่อไปนี้: { $problem }
+window-locked = การส่งถูกยกเลิกแล้ว เนื่องจากหน้าต่างเขียนถูกล็อก
+# Strings in mimeDecrypt.jsm
+mime-decrypt-encrypted-part-attachment-label = ส่วนของข้อความที่ถูกเข้ารหัส
+mime-decrypt-encrypted-part-concealed-data = นี่คือส่วนของข้อความที่ถูกเข้ารหัส คุณต้องเปิดในหน้าต่างที่แยกต่างหากโดยคลิกที่ไฟล์แนบ
+# Strings in keyserver.jsm
+keyserver-error-aborted = ยุติอย่างล้มเหลว
+keyserver-error-unknown = เกิดข้อผิดพลาดที่ไม่ทราบสาเหตุ
+keyserver-error-server-error = เซิร์ฟเวอร์คีย์รายงานข้อผิดพลาด
+keyserver-error-import-error = ไม่สามารถนำเข้าคีย์ที่ดาวน์โหลดได้
+keyserver-error-unavailable = เซิร์ฟเวอร์คีย์ไม่พร้อมใช้งาน
+keyserver-error-security-error = เซิร์ฟเวอร์คีย์ไม่รองรับการเข้าถึงแบบถูกเข้าหรัส
+keyserver-error-certificate-error = ใบรับรองของเซิร์ฟเวอร์คีย์ไม่ถูกต้อง
+keyserver-error-unsupported = ไม่รองรับเซิร์ฟเวอร์คีย์
+# Strings in mimeWkdHandler.jsm
+wkd-message-body-req =
+    ผู้ให้บริการอีเมลของคุณประมวลผลคำขออัปโหลดคีย์สาธารณะของคุณไปยังไดเรกทอรีคีย์เว็บของ OpenPGP
+    โปรดยืนยันเพื่อทำการเผยแพร่คีย์สาธารณะของคุณให้เสร็จสมบูรณ์
 
 ## Account settings export output
 
