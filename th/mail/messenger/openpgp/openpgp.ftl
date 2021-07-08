@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 e2e-intro-description = หากต้องการส่งข้อความที่เข้ารหัสหรือลงลายเซ็นแบบดิจิทัล คุณจำเป็นต้องกำหนดค่าเทคโนโลยีการเข้ารหัสทั้ง OpenPGP หรือ S/MIME
+e2e-intro-description-more = เลือกคีย์ส่วนตัวของคุณเพื่อเปิดใช้งาน OpenPGP หรือเลือกใบรับรองของคุณเพื่อเปิดใช้งาน S/MIME คุณจะมีคีย์ลับที่สอดคล้องกันไม่ว่าคุณจะเลือกใช้คีย์ส่วนตัวหรือใบรับรองก็ตาม
 openpgp-key-user-id-label = บัญชี / ID ผู้ใช้
 openpgp-keygen-title-label =
     .title = สร้างคีย์ OpenPGP
@@ -27,8 +28,27 @@ openpgp-key-gen-key-type-rsa =
     .label = RSA
 openpgp-key-gen-key-type-ecc =
     .label = ECC (เส้นโค้งรูปไข่)
+openpgp-generate-key =
+    .label = สร้างคีย์
+    .tooltiptext = สร้างคีย์ที่สอดคล้องตาม OpenPGP ใหม่สำหรับการเข้ารหัสและ/หรือการลงลายเซ็น
 openpgp-advanced-prefs-button-label =
     .label = ขั้นสูง…
+openpgp-keygen-desc = <a data-l10n-name="openpgp-keygen-desc-link">หมายเหตุ: การสร้างคีย์อาจต้องใช้เวลาหลายนาทีจึงจะเสร็จสมบูรณ์</a> อย่าออกจากแอปพลิเคชันในขณะที่กำลังสร้างคีย์อยู่ การเรียกดูเว็บหรือทำงานต่าง ๆ ที่ต้องอาศัยการทำงานของดิสก์มากในระหว่างที่กำลังสร้างคีย์จะช่วยเพิ่มประสิทธิภาพให้กับ ‘พูลการสุ่ม’ และเพิ่มความเร็วในการทำงาน คุณจะได้รับการแจ้งเตือนเมื่อการสร้างคีย์เสร็จสมบูรณ์แล้ว
+openpgp-key-expiry-label =
+    .label = วันหมดอายุ
+openpgp-key-id-label =
+    .label = ID คีย์
+openpgp-cannot-change-expiry = คีย์นี้เป็นคีย์ที่มีโครงสร้างที่ซับซ้อน จึงไม่รองรับการเปลี่ยนวันหมดอายุ
+openpgp-key-man-title =
+    .title = ตัวจัดการคีย์ OpenPGP
+openpgp-key-man-generate =
+    .label = คู่คีย์ใหม่
+    .accesskey = ค
+openpgp-key-man-gen-revoke =
+    .label = ใบรับรองการเพิกถอน
+    .accesskey = พ
+openpgp-key-man-ctx-gen-revoke-label =
+    .label = สร้างและบันทึกใบรับรองการเพิกถอน
 openpgp-key-man-file-menu =
     .label = ไฟล์
     .accesskey = ฟ
@@ -84,10 +104,49 @@ openpgp-key-send-key =
 openpgp-key-man-copy-to-clipbrd =
     .label = คัดลอกคีย์สาธารณะไปยังคลิปบอร์ด
     .accesskey = ค
+openpgp-key-man-copy-key-ids =
+    .label =
+        { $count ->
+           *[other] คัดลอก ID คีย์ไปยังคลิปบอร์ด
+        }
+    .accesskey = ย
+openpgp-key-man-copy-fprs =
+    .label =
+        { $count ->
+           *[other] คัดลอกลายนิ้วมือไปยังคลิปบอร์ด
+        }
+    .accesskey = ล
+openpgp-key-man-copy-to-clipboard =
+    .label =
+        { $count ->
+           *[other] คัดลอกคีย์สาธารณะไปยังคลิปบอร์ด
+        }
+    .accesskey = ส
 openpgp-key-man-ctx-expor-to-file-label =
     .label = ส่งออกคีย์ไปยังไฟล์
 openpgp-key-man-ctx-copy-to-clipbrd-label =
     .label = คัดลอกคีย์สาธารณะไปยังคลิปบอร์ด
+openpgp-key-man-ctx-copy =
+    .label = คัดลอก
+    .accesskey = ค
+openpgp-key-man-ctx-copy-fprs =
+    .label =
+        { $count ->
+           *[other] ลายนิ้วมือ
+        }
+    .accesskey = ล
+openpgp-key-man-ctx-copy-key-ids =
+    .label =
+        { $count ->
+           *[other] ID คีย์
+        }
+    .accesskey = ย
+openpgp-key-man-ctx-copy-public-keys =
+    .label =
+        { $count ->
+           *[other] คีย์สาธารณะ
+        }
+    .accesskey = ส
 openpgp-key-man-close =
     .label = ปิด
 openpgp-key-man-reload =
@@ -111,6 +170,9 @@ openpgp-key-man-key-props =
 openpgp-key-man-key-more =
     .label = เพิ่มเติม
     .accesskey = เ
+openpgp-key-man-view-photo =
+    .label = ID ภาพถ่าย
+    .accesskey = ภ
 openpgp-key-man-show-invalid-keys =
     .label = แสดงคีย์ที่ไม่ถูกต้อง
     .accesskey = แ
