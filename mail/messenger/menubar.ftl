@@ -8,3 +8,21 @@
 menu-view-charset =
     .label = Codare text
     .accesskey = c
+
+## Tools Menu
+
+
+## Help Menu
+
+
+## Mail Toolbar
+
+
+## View
+
+menu-view-repair-text-encoding =
+    .label = Repară codarea de text
+    .accesskey = c
+
+## View / Layout
+
