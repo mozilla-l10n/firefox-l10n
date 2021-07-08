@@ -36,6 +36,18 @@ upgrade-dialog-pin-title =
         [macos] Tik'oje' { -brand-short-name } pa Dock
        *[other] Tiya' { -brand-short-name } pa rukajtz'ik samajib'äl
     }
+# The English macOS string avoids repeating "Keep" a third time, so if your
+# translations don't repeat anyway, the same string can be used cross-platform.
+upgrade-dialog-pin-subtitle =
+    { PLATFORM() ->
+        [macos] Katok anin pa ri kexon chi { -brand-short-name }.
+       *[other] Tik'oje' awik'in ri ruk'isib'äl ruwäch { -brand-short-name }.
+    }
+upgrade-dialog-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Tik'oje' pa Dock
+       *[other] Pin pa rukajtz'ik samajib'äl
+    }
 upgrade-dialog-pin-secondary-button = Wakami mani
 
 ## Default browser screen
@@ -48,6 +60,8 @@ upgrade-dialog-default-secondary-button = Wakami mani
 
 ## Theme selection screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-theme-title-2 = Titikirisäx rik'in jun ch'ajch'öj wachinel
 upgrade-dialog-theme-system = Ruwachinel q'inoj
     .title = Tawojqaj ri ruwachinel samajel q'inoj kichin taq pitz'b'äl, taq k'utsamaj chuqa' taq silowäch
 upgrade-dialog-theme-light = Säq
