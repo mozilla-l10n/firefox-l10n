@@ -185,6 +185,7 @@ newtab-section-expand-section-label =
 
 newtab-section-header-topsites = Site-uri de top
 newtab-section-header-highlights = Evidențieri
+newtab-section-header-recent-activity = Activitate recentă
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = Recomandat de { $provider }
@@ -223,4 +224,15 @@ newtab-error-fallback-refresh-link = Reîmprospătează pagina pentru a încerca
 
 ## Customization Menu
 
+newtab-custom-shortcuts-subtitle = Site-uri pe care le salvezi sau le vizitezi
+newtab-custom-row-selector =
+    { $num ->
+        [one] { $num } rând
+        [few] { $num } rânduri
+       *[other] { $num } de rânduri
+    }
+newtab-custom-sponsored-sites = Comenzi rapide sponsorizate
+newtab-custom-recent-title = Activitate recentă
+newtab-custom-recent-subtitle = O selecție de site-uri și conținut recente
+newtab-custom-close-button = Închide
 newtab-custom-settings = Gestionează mai multe setări

@@ -236,6 +236,8 @@ onboarding-multistage-theme-description-alpenglow =
 
 ## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 
+# This button will open system settings to turn on prefers-reduced-motion
+mr1-onboarding-reduce-motion-button-label = Dezactivează animațiile
 
 ## Title and primary button strings differ between platforms as they
 ## match the OS' application context menu item action where Windows uses "pin"
@@ -261,6 +263,8 @@ mr1-onboarding-import-secondary-button-label = Nu acum
 mr1-onboarding-theme-subtitle = Personalizează { -brand-short-name } cu o temă.
 mr1-onboarding-theme-primary-button-label = Salvează tema
 mr1-onboarding-theme-secondary-button-label = Nu acum
+# System theme uses operating system color settings
+mr1-onboarding-theme-label-system = Tema sistemului
 # "Alpenglow" here is the name of the theme, and should be kept in English.
 mr1-onboarding-theme-label-alpenglow = Alpenglow
 

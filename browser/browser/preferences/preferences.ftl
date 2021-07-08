@@ -29,6 +29,17 @@ search-input-box =
            *[other] Caută în Preferințe
         }
 settings-page-title = Setări
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box2 =
+    .style = width: 15.4em
+    .placeholder = Caută în Setări
 managed-notice = Browserul este gestionat de organizația ta.
 category-list =
     .aria-label = Categorii
@@ -47,11 +58,15 @@ category-privacy =
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
+pane-sync-title3 = Sincronizare
+category-sync3 =
+    .tooltiptext = { pane-sync-title3 }
 pane-experimental-title = Experimente { -brand-short-name }
 category-experimental =
     .tooltiptext = Experimente { -brand-short-name }
 pane-experimental-subtitle = Procedează cu grijă
 pane-experimental-search-results-header = Experimente { -brand-short-name }: Procedează cu grijă
+pane-experimental-description2 = Modificarea setărilor avansate de configurare poate afecta performanța sau securitatea din { -brand-short-name }.
 pane-experimental-reset =
     .label = Restaurează valorile implicite
     .accesskey = R
@@ -121,6 +136,8 @@ search-results-empty-message =
         [windows] Ne pare rău! Nu există rezultate în Opțiuni pentru „<span data-l10n-name="query"></span>”.
        *[other] Ne pare rău! Nu există rezultate în Preferințe pentru „<span data-l10n-name="query"></span>”.
     }
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 = Ne pare rău! Nu există rezultate în Setări pentru „<span data-l10n-name="query"></span>”.
 search-results-help-link = Ai nevoie de ajutor? Intră pe <a data-l10n-name="url">pagina de asistență { -brand-short-name }</a>
 
 ## General Section
@@ -164,6 +181,9 @@ warn-on-open-many-tabs =
 switch-links-to-new-tabs =
     .label = La deschiderea unui link într-o filă nouă, comută imediat pe fila respectivă
     .accesskey = C
+switch-to-new-tabs =
+    .label = Când se deschide un link, o imagine sau un conținut media într-o nouă filă, comută la aceasta imediat
+    .accesskey = h
 show-tabs-in-taskbar =
     .label = Afișează previzualizări ale filelor în bara de activități Windows
     .accesskey = k
@@ -434,6 +454,7 @@ browsing-picture-in-picture-toggle-enabled =
     .label = Activează comenzile video picture-in-picture
     .accesskey = E
 browsing-picture-in-picture-learn-more = Află mai multe
+browsing-media-control-learn-more = Află mai multe
 browsing-cfr-recommendations =
     .label = Recomandă extensii pe măsură ce navighezi
     .accesskey = R
@@ -497,6 +518,9 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = Site-uri de top
 home-prefs-topsites-description = Site-urile pe care le vizitezi cel mai des
+home-prefs-shortcuts-description = Site-uri pe care le salvezi sau le vizitezi
+home-prefs-shortcuts-by-option-sponsored =
+    .label = Comenzi rapide sponsorizate
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -521,6 +545,8 @@ home-prefs-highlights-option-most-recent-download =
     .label = Cele mai recente descărcări
 home-prefs-highlights-option-saved-to-pocket =
     .label = Pagini salvate în { -pocket-brand-name }
+home-prefs-recent-activity-header =
+    .label = Activitate recentă
 home-prefs-recent-activity-description = O selecție de site-uri și conținut recente
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
@@ -599,6 +625,8 @@ containers-back-button =
             [windows] Înapoi la Opțiuni
            *[other] Înapoi la Preferințe
         }
+containers-back-button2 =
+    .aria-label = Înapoi la setări
 containers-header = File container
 containers-add-button =
     .label = Adaugă un container nou
@@ -608,6 +636,8 @@ containers-new-tab-check =
     .accesskey = S
 containers-preferences-button =
     .label = Preferințe
+containers-settings-button =
+    .label = Setări
 containers-remove-button =
     .label = Elimină
 
@@ -683,6 +713,7 @@ sync-currently-syncing-prefs =
         [windows] Opțiuni
        *[other] Preferințe
     }
+sync-currently-syncing-settings = Setări
 sync-change-options =
     .label = Modifică…
     .accesskey = C
@@ -729,6 +760,10 @@ sync-engine-prefs =
            *[other] Preferințe
         }
     .tooltiptext = Setările generale, de confidențialitate și securitate pe care le-ai schimbat
+    .accesskey = s
+sync-engine-settings =
+    .label = Setări
+    .tooltiptext = Setările pe care le-ai modificat în secțiunile General, Confidențialitate și Securitate
     .accesskey = s
 
 ## The device name controls.
@@ -1130,6 +1165,9 @@ space-alert-under-5gb-ok-button =
     .label = OK, am înțeles
     .accesskey = K
 space-alert-under-5gb-message = { -brand-short-name } rămâne fără spațiu pe disc. Este posibil ca conținutul site-ului web să nu fie afișat corespunzător. Vizitează „Află mai multe” pentru a optimiza utilizarea discului în vederea unei mai bune experiențe de navigare.
+space-alert-over-5gb-settings-button =
+    .label = Deschide setările
+    .accesskey = O
 
 ## Privacy Section - HTTPS-Only
 
