@@ -116,3 +116,4 @@ policy-SupportMenu = Benutzerdefinierten Eintrag zum Menü "Hilfe" hinzufügen
 policy-UserMessaging = Anzeige von bestimmten Nachrichten deaktivieren
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Bestimmte Website-Aufrufe blockieren. Weitere Details in der Dokumentation.
+policy-Windows10SSO = Windows Single Sign-on für Microsoft-, Geschäfts- und Schulkonten erlauben
