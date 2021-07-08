@@ -922,7 +922,7 @@ sitedata-block-desc = Tipul conținutului blocat
 sitedata-option-block-cross-site-trackers =
     .label = Elemente de urmărire între site-uri
 sitedata-option-block-cross-site-and-social-media-trackers =
-    .label = Elemente de urmărire de pe rețele de socializare și inter-site-uri
+    .label = Elemente de urmărire de pe rețele de socializare și între site-uri
 sitedata-option-block-cross-site-and-social-media-trackers-plus-isolate =
     .label = Elemente de urmărire între site-uri și de rețele sociale și izolează restul cookie-urilor
 sitedata-option-block-unvisited =
@@ -987,16 +987,18 @@ enhanced-tracking-protection-setting-custom =
 content-blocking-etp-standard-desc = Echilibrat pentru protecție și performanță. Paginile se vor încărca normal.
 content-blocking-etp-strict-desc = O protecție mai puternică, dar poate provoca funcționarea necorespunzătoare a site-urilor sau a conținutului.
 content-blocking-etp-custom-desc = Alege ce elemente de urmărire și scripturi să blochezi.
-content-blocking-private-windows = Conținut de urmărire în ferestre private
+content-blocking-etp-blocking-desc = { -brand-short-name } blochează următoarele:
+content-blocking-private-windows = Conținutul de urmărire în ferestre private
+content-blocking-cross-site-cookies-in-all-windows = Cookie-urile între site-uri în toate ferestrele (inclusiv cookie-urile de urmărire)
 content-blocking-cross-site-tracking-cookies = Cookie-uri de urmărire între site-uri
 content-blocking-cross-site-tracking-cookies-plus-isolate = Cookie-uri de urmărire între site-uri și izolează restul cookie-urilor
-content-blocking-social-media-trackers = Elemente de urmărire de pe rețele de socializare
+content-blocking-social-media-trackers = Elementele de urmărire de pe rețele de socializare
 content-blocking-all-cookies = Toate cookie-urile
 content-blocking-unvisited-cookies = Cookie-uri de la site-uri nevizitate
 content-blocking-all-windows-tracking-content = Conținut de urmărire în toate ferestrele
 content-blocking-all-third-party-cookies = Toate cookie-urile de la terți
-content-blocking-cryptominers = Criptomineri
-content-blocking-fingerprinters = Generatoare de amprente digitale
+content-blocking-cryptominers = Criptominerii
+content-blocking-fingerprinters = Detectoarele de amprente digitale
 content-blocking-warning-title = Atenție!
 content-blocking-and-isolating-etp-warning-description = Blocarea elementelor de urmărire și izolarea cookie-urilor pot afecta funcționalitatea unor site-uri. Reîmprospătează pagina cu elementele de urmărire ca să încarci tot conținutul.
 content-blocking-warning-learn-how = Află cum
@@ -1026,7 +1028,7 @@ content-blocking-cryptominers-label =
 # Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
 # that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
 content-blocking-fingerprinters-label =
-    .label = Generatoare de amprente digitale
+    .label = Detectoare de amprente digitale
     .accesskey = F
 
 ## Privacy Section - Tracking

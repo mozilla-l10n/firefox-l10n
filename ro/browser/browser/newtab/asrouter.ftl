@@ -150,8 +150,8 @@ cfr-whatsnew-fingerprinter-counter-header =
     }
 cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } blochează multe generatoare de amprente digitale, care adună în secret informații despre dispozitivul și acțiunile tale ca să creeze un profil de publicitate despre tine.
 # Message variation when fingerprinters count is less than 10
-cfr-whatsnew-fingerprinter-counter-header-alt = Generatoare de amprente digitale
-cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } poate bloca generatoarele de amprente digitale care adună în secret informații despre dispozitivul și acțiunile tale ca să creeze un profil de publicitate despre tine.
+cfr-whatsnew-fingerprinter-counter-header-alt = Detectoare de amprente digitale
+cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } poate bloca detectoarele de amprente digitale care adună în secret informații despre dispozitivul și acțiunile tale ca să creeze un profil de publicitate despre tine.
 
 ## Bookmark Sync
 
@@ -193,7 +193,7 @@ cfr-doorhanger-socialtracking-dont-show-again = Nu mai afișa mesaje de acest ge
 cfr-doorhanger-socialtracking-heading = { -brand-short-name } a împiedicat o rețea de socializare care voia să te urmărească aici
 cfr-doorhanger-socialtracking-description = Confidențialitatea ta contează. { -brand-short-name } acum blochează elementele de urmărire prezente frecvent pe mediile de socializare, limitând cât de multe date pot colecta despre ce faci tu online.
 cfr-doorhanger-fingerprinters-heading = { -brand-short-name } a blocat un generator de amprente digitale de pe această pagină
-cfr-doorhanger-fingerprinters-description = Confidențialitatea ta contează. { -brand-short-name } acum blochează generatoarele de amprente digitale, care colectează informații de identificare unică despre dispozitivul tău ca să te urmărească.
+cfr-doorhanger-fingerprinters-description = Confidențialitatea ta contează. { -brand-short-name } acum blochează detectoarele de amprente digitale, care colectează informații de identificare unică despre dispozitivul tău ca să te urmărească.
 cfr-doorhanger-cryptominers-heading = { -brand-short-name } a blocat un criptominer de pe această pagină
 cfr-doorhanger-cryptominers-description = Confidențialitatea ta contează. { -brand-short-name } blochează acum criptominerii, care folosesc puterea de calcul a sistemului tău ca să mineze după monede digitale.
 
@@ -210,8 +210,6 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = Afișează tot
     .accesskey = S
-cfr-doorhanger-milestone-close-button = Închide
-    .accesskey = C
 
 ## What’s New Panel Content for Firefox 76
 
@@ -245,21 +243,18 @@ cfr-whatsnew-protections-icon-alt = Pictogramă de scut
 
 cfr-whatsnew-better-pdf-header = O experiență PDF mai bună
 cfr-whatsnew-better-pdf-body = Documentele PDF se deschid acum direct din { -brand-short-name }, pentru a avea la îndemână fluxul de lucru.
+cfr-doorhanger-milestone-close-button = Închide
+    .accesskey = C
 
 ## DOH Message
 
 cfr-doorhanger-doh-body = Confidențialitatea ta contează. { -brand-short-name } îți rutează acum securizat cererile DNS ori de câte ori este posibil către un serviciu partener pentru a te proteja în timpul navigării.
 cfr-doorhanger-doh-header = Căutări DNS criptate, mai securizate
-cfr-doorhanger-doh-primary-button = OK, am înțeles
-    .accesskey = O
 cfr-doorhanger-doh-secondary-button = Dezactivează
     .accesskey = D
 
-## What's new: Cookies message
+## Fission Experiment Message
 
-cfr-whatsnew-clear-cookies-header = Protecție automată împotriva tacticilor insidioase de urmărire
-cfr-whatsnew-clear-cookies-body = Unele elemente de urmărire te redirecționează pe alte site-uri web care setează cookie-uri în secret. Acum, { -brand-short-name } elimină automat aceste cookie-uri ca să nu poți fi urmărit(ă).
-cfr-whatsnew-clear-cookies-image-alt = Ilustrație de cookie blocat
 
-## What's new: Media controls message
+## Full Video Support CFR message
 
