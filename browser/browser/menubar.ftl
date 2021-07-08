@@ -11,6 +11,8 @@
 
 ## Application Menu (macOS only)
 
+menu-application-preferences =
+    .label = Preferințe
 menu-application-services =
     .label = Servicii
 menu-application-hide-this =
@@ -132,6 +134,9 @@ menu-view-toolbars-menu =
 menu-view-customize-toolbar =
     .label = Personalizează…
     .accesskey = C
+menu-view-customize-toolbar2 =
+    .label = Personalizează bara de unelte…
+    .accesskey = C
 menu-view-sidebar =
     .label = Bară laterală
     .accesskey = e
@@ -168,6 +173,9 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = Codare de text
     .accesskey = C
+menu-view-repair-text-encoding =
+    .label = Repară codarea de text
+    .accesskey = c
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -210,6 +218,8 @@ menu-history-undo-menu =
     .label = File închise recent
 menu-history-undo-window-menu =
     .label = Ferestre închise recent
+menu-history-reopen-all-tabs = Redeschide toate filele
+menu-history-reopen-all-windows = Redeschise toate ferestrele
 
 ## Bookmarks Menu
 
@@ -220,6 +230,10 @@ menu-bookmarks-show-all =
     .label = Afișează toate marcajele
 menu-bookmark-this-page =
     .label = Marchează pagina
+menu-bookmarks-manage =
+    .label = Gestionează marcajele
+menu-bookmark-current-tab =
+    .label = Marchează fila actuală
 menu-bookmark-edit =
     .label = Editează acest marcaj
 menu-bookmarks-all-tabs =
@@ -251,6 +265,12 @@ menu-tools-turn-on-sync =
 menu-tools-addons-and-themes =
     .label = Suplimente și teme
     .accesskey = A
+menu-tools-fxa-sign-in2 =
+    .label = Autentifică-te
+    .accesskey = g
+menu-tools-turn-on-sync2 =
+    .label = Activează sincronizarea
+    .accesskey = n
 menu-tools-sync-now =
     .label = Sincronizează acum
     .accesskey = S
@@ -260,6 +280,12 @@ menu-tools-fxa-re-auth =
 menu-tools-web-developer =
     .label = Dezvoltator web
     .accesskey = W
+menu-tools-browser-tools =
+    .label = Uneltele browserului
+    .accesskey = B
+menu-tools-task-manager =
+    .label = Manager de activități
+    .accesskey = M
 menu-tools-page-source =
     .label = Sursa paginii
     .accesskey = o
