@@ -221,6 +221,7 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = Adaugă un marcaj
 bookmark-panel-cancel =
     .label = Renunță
     .accesskey = C
@@ -519,6 +520,9 @@ bookmarks-toolbar-placeholder =
     .title = Elemente pe bara de marcaje
 bookmarks-toolbar-placeholder-button =
     .label = Elemente pe bara de marcaje
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = Marchează fila actuală
 
 ## Library Panel items
 

@@ -615,6 +615,7 @@ sync-signedout-description = Sincronizează marcajele, istoricul, filele, parole
 sync-signedout-account-signin2 =
     .label = Autentifică-te în { -sync-brand-short-name }…
     .accesskey = i
+sync-signedout-description2 = Sincronizează marcajele, istoricul, filele, parolele, suplimentele și setările pe toate dispozitivele.
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -654,6 +655,7 @@ prefs-sync-setup =
     .label = Configurare { -sync-brand-short-name }…
     .accesskey = S
 prefs-sync-offer-setup-label = Sincronizează-ți marcajele, istoricul, filele, parolele, suplimentele și preferințele pe toate dispozitivele.
+prefs-sync-offer-setup-label2 = Sincronizează marcajele, istoricul, filele, parolele, suplimentele și setările pe toate dispozitivele.
 prefs-sync-now =
     .labelnotsyncing = Sincronizează acum
     .accesskeynotsyncing = N

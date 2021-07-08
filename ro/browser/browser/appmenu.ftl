@@ -61,6 +61,10 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sincronizează acum
+appmenu-remote-tabs-sign-into-sync =
+    .label = Autentifică-te pentru sincronizare…
+appmenu-remote-tabs-turn-on-sync =
+    .label = Activează sincronizarea…
 appmenuitem-fxa-toolbar-sync-now2 = Sincronizează acum
 appmenuitem-fxa-manage-account = Gestionează contul
 appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "upper-indefinite-article") }
@@ -71,6 +75,9 @@ appmenu-fxa-last-sync = Ultima sincronizare { $time }
     .label = Ultima sincronizare { $time }
 appmenu-fxa-sync-and-save-data2 = Sincronizează și salvează datele
 appmenu-fxa-signed-in-label = Autentifică-te
+appmenu-fxa-setup-sync =
+    .label = Activează sincronizarea…
+appmenu-fxa-show-more-tabs = Afișează mai multe file
 appmenuitem-save-page =
     .label = Salvează pagina ca…
 
@@ -87,13 +94,32 @@ whatsnew-panel-footer-checkbox =
 ## performance profiles. To enable it go to profiler.firefox.com and click
 ## "Enable Profiler Menu Button".
 
+profiler-popup-title =
+    .value = { -profiler-brand-name }
+profiler-popup-reveal-description-button =
+    .aria-label = Dezvăluie mai multe informații
+profiler-popup-learn-more = Află mai multe
 profiler-popup-settings =
     .value = Setări
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Editează setările…
+profiler-popup-start-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧1
+       *[other] Ctrl+Shift+1
+    }
+profiler-popup-capture-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧2
+       *[other] Ctrl+Shift+2
+    }
 
 ## History panel
 
+appmenu-manage-history =
+    .label = Gestionează istoricul
+appmenu-reopen-all-tabs = Redeschide toate filele
+appmenu-reopen-all-windows = Redeschide toate ferestrele
 appmenu-restore-session =
     .label = Restaurează sesiunea anterioară
 appmenu-clear-history =
