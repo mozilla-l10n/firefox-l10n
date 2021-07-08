@@ -99,7 +99,7 @@ cfr-whatsnew-release-notes-link-text = Citește notele privind versiunea
 cfr-whatsnew-fx70-title = { -brand-short-name } acum luptă și mai mult pentru protecția vieții tale private
 cfr-whatsnew-fx70-body = Ultima actualizare sporește funcția de Protecție împotriva urmării și face mai ușoară ca niciodată crearea de parole securizate pentru fiecare site.
 cfr-whatsnew-tracking-protect-title = Protejează-te împotriva elementelor de urmărire
-cfr-whatsnew-tracking-protect-body = { -brand-short-name } blochează multe elemente frecvente de urmărire ale rețelelor socializare și între site-uri care îți urmăresc acțiunile online.
+cfr-whatsnew-tracking-protect-body = { -brand-short-name } blochează multe elemente frecvente de urmărire ale rețelelor socializare și inter-site-uri care îți urmăresc acțiunile online.
 cfr-whatsnew-tracking-protect-link-text = Vezi raportul
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your

@@ -268,6 +268,7 @@ identity-weak-encryption = Această pagină folosește criptare slabă.
 identity-insecure-login-forms = Datele de autentificare introduse pe această pagină ar putea fi compromise.
 identity-permissions =
     .value = Permisiuni
+identity-permissions-storage-access-learn-more = Află mai multe
 identity-permissions-reload-hint = Ar putea fi nevoie să reîncarci pagina pentru a aplica modificările.
 identity-permissions-empty = Nu ai acordat acestui site nicio permisiune specială.
 identity-clear-site-data =
