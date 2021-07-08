@@ -52,7 +52,7 @@ protections-panel-content-blocking-fingerprinters-label = Generatoare de amprent
 
 protections-panel-blocking-label = Blocate
 protections-panel-not-blocking-label = Permise
-protections-panel-not-found-label = Nedepistate deloc
+protections-panel-not-found-label = Niciunul detectat
 
 ##
 
