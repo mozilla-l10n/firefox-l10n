@@ -94,7 +94,7 @@ urlbar-persistent-storage-notification-anchor =
 urlbar-addons-notification-anchor =
     .tooltiptext = Deschide panoul cu mesaje privind instalarea de suplimente
 urlbar-tip-help-icon =
-    .title = Obține asistență
+    .title = Obține ajutor
 urlbar-search-tips-confirm = OK, am înțeles
 # Read out before Urlbar Tip text content so screenreader users know the
 # subsequent text is a tip offered by the browser. It should end in a colon or

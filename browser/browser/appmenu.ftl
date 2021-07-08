@@ -45,6 +45,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sincronizează acum
+appmenuitem-fxa-manage-account = Gestionează contul
 appmenuitem-save-page =
     .label = Salvează pagina ca…
 
@@ -83,6 +84,9 @@ appmenu-recently-closed-windows =
 appmenu-about =
     .label = Despre { -brand-shorter-name }
     .accesskey = A
+appmenu-get-help =
+    .label = Obține ajutor
+    .accesskey = h
 appmenu-help-report-site-issue =
     .label = Raportează problemă cu site-ul…
 appmenu-help-feedback-page =
@@ -109,5 +113,6 @@ appmenu-customizetoolbar =
     .label = Personalizează bara de unelte…
 appmenu-taskmanager =
     .label = Manager de activități
+appmenu-developer-tools-subheader = Uneltele browserului
 appmenu-developer-tools-extensions =
     .label = Extensii pentru dezvoltatori
