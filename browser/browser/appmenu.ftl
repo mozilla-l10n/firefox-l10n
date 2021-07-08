@@ -5,6 +5,12 @@
 
 ## App Menu
 
+appmenuitem-update-banner3 =
+    .label-update-downloading = Se descarcă actualizarea { -brand-shorter-name }
+    .label-update-available = Actualizare disponibilă — descarcă acum
+    .label-update-manual = Actualizare disponibilă — descarcă acum
+    .label-update-unsupported = Nu se poate actualiza — sistem incompatibil
+    .label-update-restart = Actualizare disponibilă — repornește acum
 appmenuitem-protection-dashboard-title = Tablou de bord privind protecțiile
 appmenuitem-customize-mode =
     .label = Personalizează…
@@ -19,6 +25,8 @@ appmenuitem-new-private-window =
     .label = Fereastră privată nouă
 appmenuitem-find-in-page =
     .label = Caută în pagină…
+appmenuitem-more-tools =
+    .label = Mai multe unelte
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -97,5 +105,9 @@ appmenu-help-not-deceptive =
 
 ## More Tools
 
+appmenu-customizetoolbar =
+    .label = Personalizează bara de unelte…
 appmenu-taskmanager =
     .label = Manager de activități
+appmenu-developer-tools-extensions =
+    .label = Extensii pentru dezvoltatori
