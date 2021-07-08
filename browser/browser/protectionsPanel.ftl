@@ -75,7 +75,7 @@ protections-panel-site-not-working-view-send-report = Trimite un raport
 
 ##
 
-protections-panel-cross-site-tracking-cookies = Aceste cookie-uri te urmăresc de pe un site pe altul și adună date despre ce faci online. Sunt setate de părți terțe, precum firmele care își fac publicitate și companiile de analitică.
+protections-panel-cross-site-tracking-cookies = Aceste cookie-uri te urmăresc de pe un site pe altul și adună date despre ce faci online. Acestea sunt setate de părți terțe, precum agenții de publicitate și companiile de analitică.
 protections-panel-cryptominers = Criptomomerii folosesc puterea de calcul a sistemului tău pentru a mina bani digitali. Scripturile de criptominare îți scurg bateria, încetinesc calculatorul și îți pot crește factura la energie.
 protections-panel-fingerprinters = Detectoarele de amprente digitale îți colectează setările din browser și calculator și creează un profil despre tine. Cu această amprentă digitală, te pot urmări pe diferite site-uri web.
 protections-panel-tracking-content = Site-urile web pot încărca reclame externe, videoclipuri și alte conținuturi ce conțin coduri de urmărire. Blocarea conținutului de urmărire poate ajuta site-urile să se încarce mai rapid, dar este posibil ca unele butoane, formulare și câmpuri de autentificare să nu funcționeze.

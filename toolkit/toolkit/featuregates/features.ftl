@@ -25,25 +25,6 @@ experimental-features-web-api-inputmode =
 experimental-features-web-api-inputmode-description = Implementarea noastră a atributului global <a data-l10n-name="mdn-inputmode">inputmode</a> a fost activată conform <a data-l10n-name="whatwg">specificației WHATWG</a>, dar tot mai trebuie să facem alte modificări, cum ar fi să îl facem disponibil pe conținuturi editabile. Vezi <a data-l10n-name="bugzilla">bug 1205133</a> pentru mai multe detalii.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
-experimental-features-web-api-link-preload =
-    .label = Web API: <link rel="preload">
-# Do not translate "rel", "preload" or "link" here, as they are all HTML spec
-# values that do not get translated.
-experimental-features-web-api-link-preload-description = Atributul <a data-l10n-name="rel">rel</a> cu o valoare <code>„preload”</code> pe un element <a data-l10n-name="link">&lt;link&gt;</a> are menirea să ajute la îmbunătățirea performanței prin faptul că permite descărcarea resurselor mai devreme în ciclul de viață al paginii, asigurând disponibilitatea lor mai timpurie și reducând posibilitatea de blocare a redării paginii. Citește <a data-l10n-name="readmore">„Preîncărcarea conținutului cu <code>rel="preload"</code>”</a> sau vezi <a data-l10n-name="bugzilla">bug 1583604</a> pentru mai multe detalii.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-css-focus-visible =
-    .label = CSS: Pseudo-class: :focus-visible
-experimental-features-css-focus-visible-description = Permite aplicarea de stiluri de focalizare pe elemente precum butoane și comenzi de formă, numai când sunt focalizate din tastatură (de ex., la trecerea de la un element la altul cu tasta Tab) și nu când sunt focalizate din mouse sau alt dispozitiv indicator. Vezi <a data-l10n-name="bugzilla">bug 1617600</a> pentru mai multe detalii.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-web-api-beforeinput =
-    .label = Web API: beforeinput Event
-# The terms "beforeinput", "input", "textarea", and "contenteditable" are technical terms
-# and shouldn't be translated.
-experimental-features-web-api-beforeinput-description = Evenimentul global <a data-l10n-name="mdn-beforeinput">beforeinput</a> este activat pe elemente <a data-l10n-name="mdn-input">&lt;input&gt;</a> și <a data-l10n-name="mdn-textarea">&lt;textarea&gt;</a> sau pe orice elemente care au atributul <a data-l10n-name="mdn-contenteditable">contenteditable</a> activat, imediat înainte de modificarea valorii elementului. Evenimentul permite aplicațiilor web să suprascrie comportamentul implicit al browserului în interacțiunea cu utilizatorii; de ex., aplicațiile web pot anula textele inserate de utilizatori numai pentru anumite caractere sau pot modifica lipirea de texte formatate numai cu stiluri aprobate.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
 experimental-features-css-constructable-stylesheets-description = Adiția unui constructor la interfața <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a>, precum și varietatea de modificări aferente face posibilă crearea directă a unor fișe de stiluri noi fără a mai fi necesară adăugarea lor în HTML. Aceasta ușurează foarte mult crearea de fișe de stiluri reutilizabile de folosit cu <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. Vezi <a data-l10n-name="bugzilla">bug 1520690</a> pentru mai multe detalii.
@@ -69,14 +50,11 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Cookie
 experimental-features-abouthome-startup-cache =
     .label = about:home startup cache
 experimental-features-abouthome-startup-cache-description = Un cache pentru documentul inițial about:home care este încărcat implicit la pornire. Scopul cache-ului este să îmbunătățească performanța de pornire.
-experimental-features-print-preview-tab-modal =
-    .label = Reproiectarea previzualizării înainte de tipărire
-experimental-features-print-preview-tab-modal-description = Introduce previzualizarea reproiectată înainte de tipărire și face previzualizarea disponibilă pe macOS. Are potențialul de a introduce erori și nu include toate setările legate de tipărire. Pentru acces la toate setările de tipărire, selectează „Tipărește folosind fereastra de dialog a sistemului...” din panoul Tipărire.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
     .label = Cookies: Schemeful SameSite
-experimental-features-cookie-samesite-schemeful-description = Tratează cookie-urile din același domeniu, dar cu scheme diferite (de ex.,  http://example.com și https://example.com) drept inter-site și nu intra-site. Îmbunătățește securitatea, dar cu potențial de defecțiuni.
+experimental-features-cookie-samesite-schemeful-description = Tratează cookie-urile din același domeniu, dar cu scheme diferite (de ex., http://example.com și https://example.com) drept inter-site și nu ca același site. Îmbunătățește securitatea, dar cu potențial de defecțiuni.
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
     .label = Unelte de dezvoltare: Depanarea scripturilor service worker

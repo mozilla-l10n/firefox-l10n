@@ -995,6 +995,7 @@ content-blocking-etp-blocking-desc = { -brand-short-name } blochează următoare
 content-blocking-private-windows = Conținutul de urmărire în ferestre private
 content-blocking-cross-site-cookies-in-all-windows = Cookie-urile inter-site-uri în toate ferestrele (inclusiv cookie-urile de urmărire)
 content-blocking-cross-site-tracking-cookies = Cookie-uri de urmărire inter-site-uri
+content-blocking-all-cross-site-cookies-private-windows = Cookie-uri inter-site-uri în ferestrele private
 content-blocking-cross-site-tracking-cookies-plus-isolate = Cookie-uri de urmărire inter-site-uri și izolează restul cookie-urilor
 content-blocking-social-media-trackers = Elementele de urmărire de pe rețele de socializare
 content-blocking-all-cookies = Toate cookie-urile
