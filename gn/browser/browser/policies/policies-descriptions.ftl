@@ -116,3 +116,4 @@ policy-SupportMenu = Embojuaju mba’epuru poravorãgua ñemomba’epyréva pyty
 policy-UserMessaging = Ani ehechauka heta ñe’ẽmondo puruhárape.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Ejoko ñanduti rendápe jeike. Emoñe’ẽ kuatiaita ehechakuaa hag̃ua mba’emimi ko ysaja rehegua.
+policy-Windows10SSO = Emoneĩ tembiapo ñepyrũ Windows rupi Microsoft-pe, mba’apo ha mbo’ehaogua mba’ete.
