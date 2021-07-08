@@ -29,7 +29,7 @@ policy-DisableBuiltinPDFViewer = Dezactivează PDF.js, lectorul de fișiere PDF 
 policy-DisableDefaultBrowserAgent = Împiedică agentul implicit de browser să ia orice măsură. Aplicabil numai pentru Windows; alte platforme nu au agentul.
 policy-DisableDeveloperTools = Blochează accesul la uneltele de dezvoltare.
 policy-DisableFeedbackCommands = Dezactivează comenzile de trimis feedback în meniul de Ajutor (Trimite feedback și Raportează site-uri înșelătoare).
-policy-DisableFirefoxAccounts = Dezactivează serviciile pe bază necesare pentru { -fxaccount-brand-name }, inclusiv Sync
+policy-DisableFirefoxAccounts = Dezactivează serviciile pe bază necesare pentru { -fxaccount-brand-name }, inclusiv Sync.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Dezactivează funcționalitatea de capturi de ecran din Firefox.
 policy-DisableFirefoxStudies = Împiedică efectuarea de studii de către { -brand-short-name }.
