@@ -154,6 +154,9 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-bookmark-this-link =
     .label = Marchează linkul
     .accesskey = L
+main-context-menu-bookmark-link =
+    .label = Marchează linkul
+    .accesskey = B
 main-context-menu-save-link =
     .label = Salvează linkul ca…
     .accesskey = k
@@ -176,6 +179,9 @@ main-context-menu-copy-email =
 main-context-menu-copy-link =
     .label = Copiază locația linkului
     .accesskey = a
+main-context-menu-copy-link-simple =
+    .label = Copiază linkul
+    .accesskey = L
 
 ## Media (video/audio) controls
 ##
@@ -274,6 +280,12 @@ main-context-menu-audio-copy-location =
     .accesskey = o
 main-context-menu-image-copy-link =
     .label = Copiază linkul imaginii
+    .accesskey = o
+main-context-menu-video-copy-link =
+    .label = Copiază linkul videoclipului
+    .accesskey = o
+main-context-menu-audio-copy-link =
+    .label = Copiază linkul fișierului audio
     .accesskey = o
 main-context-menu-image-save-as =
     .label = Salvează imaginea ca…

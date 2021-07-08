@@ -132,12 +132,17 @@ appmenu-recently-closed-windows =
 
 ## Help panel
 
+appmenu-help-header =
+    .title = Ajutor pentru { -brand-shorter-name }
 appmenu-about =
     .label = Despre { -brand-shorter-name }
     .accesskey = A
 appmenu-get-help =
     .label = Obține ajutor
     .accesskey = h
+appmenu-help-more-troubleshooting-info =
+    .label = Mai multe informații de depanare
+    .accesskey = t
 appmenu-help-report-site-issue =
     .label = Raportează problemă cu site-ul…
 appmenu-help-feedback-page =
@@ -147,6 +152,12 @@ appmenu-help-feedback-page =
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-enter-troubleshoot-mode2 =
+    .label = Mod de depanare…
+    .accesskey = M
+appmenu-help-exit-troubleshoot-mode =
+    .label = Oprește modul de depanare
+    .accesskey = M
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
