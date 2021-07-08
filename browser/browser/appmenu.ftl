@@ -23,10 +23,26 @@ appmenuitem-new-window =
     .label = Fereastră nouă
 appmenuitem-new-private-window =
     .label = Fereastră privată nouă
+appmenuitem-passwords =
+    .label = Parole
+appmenuitem-addons-and-themes =
+    .label = Suplimente și teme
 appmenuitem-find-in-page =
     .label = Caută în pagină…
 appmenuitem-more-tools =
     .label = Mai multe unelte
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Ieși
+           *[other] Ieși
+        }
+appmenu-menu-button-closed2 =
+    .tooltiptext = Deschide meniul de aplicații
+    .label = { -brand-short-name }
+appmenu-menu-button-opened2 =
+    .tooltiptext = Închide meniul de aplicații
+    .label = { -brand-short-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -45,7 +61,16 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sincronizează acum
+appmenuitem-fxa-toolbar-sync-now2 = Sincronizează acum
 appmenuitem-fxa-manage-account = Gestionează contul
+appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "uppercase") }
+# Variables
+# $time (string) - Localized relative time since last sync (e.g. 1 second ago,
+# 3 hours ago, etc.)
+appmenu-fxa-last-sync = Ultima sincronizare { $time }
+    .label = Ultima sincronizare { $time }
+appmenu-fxa-sync-and-save-data2 = Sincronizează și salvează datele
+appmenu-fxa-signed-in-label = Autentifică-te
 appmenuitem-save-page =
     .label = Salvează pagina ca…
 

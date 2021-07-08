@@ -544,3 +544,6 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Remote / Synced tabs
 
+remote-tabs-manage-account =
+    .label = Gestionează contul
+remote-tabs-sync-now = Sincronizează acum
