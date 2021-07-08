@@ -8,4 +8,10 @@
 -sync-brand-name = Firefox Sync
 # “Account” can be localized, “Firefox” must be treated as a brand,
 # and kept in English.
--fxaccount-brand-name = cont Firefox
+-fxaccount-brand-name =
+    { $capitalization ->
+       *[lower-indefinite-article] cont Firefox
+        [lower-definite-article] contul Firefox
+        [upper-indefinite-article] Cont Firefox
+        [upper-definite-article] Contul Firefox
+    }

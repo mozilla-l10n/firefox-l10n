@@ -63,7 +63,7 @@ fxa-toolbar-sync-now =
     .label = Sincronizează acum
 appmenuitem-fxa-toolbar-sync-now2 = Sincronizează acum
 appmenuitem-fxa-manage-account = Gestionează contul
-appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "uppercase") }
+appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "upper-indefinite-article") }
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
