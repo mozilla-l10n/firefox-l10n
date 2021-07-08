@@ -14,3 +14,4 @@ openpgp-compose-key-status-open-details = Gérer les clés du destinataire séle
 openpgp-recip-good = ok
 openpgp-recip-missing = aucune clé disponible
 openpgp-recip-none-accepted = aucune clé acceptée
+openpgp-compose-general-info-alias-learn-more = En savoir plus
