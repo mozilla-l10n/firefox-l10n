@@ -381,6 +381,7 @@ fission-status-disabled-by-default = Désactivées par défaut
 fission-status-enabled-by-user-pref = Activées par l’utilisateur
 fission-status-disabled-by-user-pref = Désactivées par l’utilisateur
 fission-status-disabled-by-e10s-other = Désactivées par E10s
+fission-status-enabled-by-rollout = Activé par déploiement progressif
 async-pan-zoom = Zoom/Panoramique asynchrones
 apz-none = aucun
 wheel-enabled = entrée molette activée
