@@ -165,51 +165,6 @@ page-action-remove-from-urlbar =
 page-action-remove-extension =
     .label = Emboguete jepysokue
 
-## Page Action menu
-
-# Variables
-# $tabCount (integer) - Number of tabs selected
-page-action-send-tabs-panel =
-    .label =
-        { $tabCount ->
-            [one] Emondo tendayke mba’e’okápe
-           *[other] Emondo umi tendayke { $tabCount } mba’e’okápe
-        }
-page-action-send-tabs-urlbar =
-    .tooltiptext =
-        { $tabCount ->
-            [one] Emondo tendayke mba’e’okápe
-           *[other] Emondo umi tendayke { $tabCount } mba’e’okápe
-        }
-page-action-copy-url-panel =
-    .label = Link Mbohasarã
-page-action-copy-url-urlbar =
-    .tooltiptext = Link Mbohasarã
-page-action-email-link-panel =
-    .label = Joajuha mondo…
-page-action-email-link-urlbar =
-    .tooltiptext = Joajuha mondo…
-page-action-share-url-panel =
-    .label = Moherakuã
-page-action-share-url-urlbar =
-    .tooltiptext = Moherakuã
-page-action-share-more-panel =
-    .label = Hetave…
-page-action-send-tab-not-ready =
-    .label = Mba’e’oka ñembojuehe…
-# "Pin" is being used as a metaphor for expressing the fact that these tabs
-# are "pinned" to the left edge of the tabstrip. Really we just want the
-# string to express the idea that this is a lightweight and reversible
-# action that keeps your tab where you can reach it easily.
-page-action-pin-tab-panel =
-    .label = Tendayke mombytapy
-page-action-pin-tab-urlbar =
-    .tooltiptext = Tendayke mombytapy
-page-action-unpin-tab-panel =
-    .label = Tendayke mombytapy mbogue
-page-action-unpin-tab-urlbar =
-    .tooltiptext = Tendayke mombytapy mbogue
-
 ## Auto-hide Context Menu
 
 full-screen-autohide =
@@ -480,6 +435,8 @@ urlbar-default-placeholder =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Ñe’ẽreka ýrõ kundaharape
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Kundahára oĩ ñangarekoha okayguáva poguýpe
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -512,8 +469,6 @@ urlbar-placeholder-search-mode-other-tabs =
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Eheka { $name } ndive térã emoinge kundaharape
-urlbar-remote-control-notification-anchor =
-    .tooltiptext = Kundahára oĩ ñangarekoha okayguáva poguýpe
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -607,6 +562,10 @@ pointerlock-warning-no-domain = Ko kuatia oñangareko nde hekaha rehe. Eikutu Es
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Peteĩva kuatiarogue pehẽ ndokói.</strong> Oikuaa hag̃ua { -brand-product-name } ko apañuãi ha omoĩporã pya’e hag̃ua, ikatúpa emondo marandu’i.
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = Peteĩva kuatiarogue pehẽ ndokói. Oikuaa hag̃ua { -brand-product-name } ko apañuãi ha omoĩporã pya’e, ikatúpa emondo marandu’i.
 crashed-subframe-learnmore-link =
     .value = Kuaave
 crashed-subframe-submit =
