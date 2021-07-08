@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+toolbar-context-menu-new-tab =
+    .label = Filă nouă
+    .accesskey = w
 toolbar-context-menu-reload-selected-tab =
     .label = Reîncarcă fila selectată
     .accesskey = R
@@ -26,6 +29,15 @@ toolbar-context-menu-undo-close-tabs =
            *[other] Anulează închiderea filelor
         }
     .accesskey = U
+toolbar-context-menu-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Redeschide fila închisă
+            [one] Redeschide fila închisă
+            [few] Redeschide filele închise
+           *[other] Redeschide filele închise
+        }
+    .accesskey = o
 toolbar-context-menu-manage-extension =
     .label = Gestionează extensia
     .accesskey = E
@@ -47,12 +59,27 @@ toolbar-context-menu-pin-to-overflow-menu =
 toolbar-context-menu-auto-hide-downloads-button =
     .label = Ascunde automat în bara de instrumente
     .accesskey = A
+toolbar-context-menu-auto-hide-downloads-button-2 =
+    .label = Ascunde butonul când lista este goală
+    .accesskey = H
 toolbar-context-menu-remove-from-toolbar =
     .label = Elimină din bara de instrumente
     .accesskey = R
 toolbar-context-menu-view-customize-toolbar =
     .label = Personalizează…
     .accesskey = C
+toolbar-context-menu-view-customize-toolbar-2 =
+    .label = Personalizează bara de unelte…
+    .accesskey = C
+toolbar-context-menu-bookmarks-toolbar-always-show-2 =
+    .label = Afișează întotdeauna
+    .accesskey = A
+toolbar-context-menu-bookmarks-toolbar-never-show-2 =
+    .label = Nu afișa niciodată
+    .accesskey = N
+toolbar-context-menu-bookmarks-toolbar-on-new-tab-2 =
+    .label = Afișează numai în fila nouă
+    .accesskey = O
 toolbar-context-menu-bookmarks-show-other-bookmarks =
     .label = Afișează alte marcaje
     .accesskey = h
