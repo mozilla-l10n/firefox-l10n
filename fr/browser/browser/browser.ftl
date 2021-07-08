@@ -165,51 +165,6 @@ page-action-remove-from-urlbar =
 page-action-remove-extension =
     .label = Supprimer l’extension
 
-## Page Action menu
-
-# Variables
-# $tabCount (integer) - Number of tabs selected
-page-action-send-tabs-panel =
-    .label =
-        { $tabCount ->
-            [one] Envoyer l’onglet à un appareil
-           *[other] Envoyer { $tabCount } onglets à un appareil
-        }
-page-action-send-tabs-urlbar =
-    .tooltiptext =
-        { $tabCount ->
-            [one] Envoyer l’onglet à un appareil
-           *[other] Envoyer { $tabCount } onglets à un appareil
-        }
-page-action-copy-url-panel =
-    .label = Copier le lien
-page-action-copy-url-urlbar =
-    .tooltiptext = Copier le lien
-page-action-email-link-panel =
-    .label = Envoyer par courriel un lien vers la page…
-page-action-email-link-urlbar =
-    .tooltiptext = Envoyer par courriel un lien vers la page…
-page-action-share-url-panel =
-    .label = Partager
-page-action-share-url-urlbar =
-    .tooltiptext = Partager
-page-action-share-more-panel =
-    .label = Plus…
-page-action-send-tab-not-ready =
-    .label = Synchronisation des appareils…
-# "Pin" is being used as a metaphor for expressing the fact that these tabs
-# are "pinned" to the left edge of the tabstrip. Really we just want the
-# string to express the idea that this is a lightweight and reversible
-# action that keeps your tab where you can reach it easily.
-page-action-pin-tab-panel =
-    .label = Épingler cet onglet
-page-action-pin-tab-urlbar =
-    .tooltiptext = Épingler cet onglet
-page-action-unpin-tab-panel =
-    .label = Désépingler cet onglet
-page-action-unpin-tab-urlbar =
-    .tooltiptext = Désépingler cet onglet
-
 ## Auto-hide Context Menu
 
 full-screen-autohide =
@@ -480,6 +435,8 @@ urlbar-default-placeholder =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Saisir un terme à rechercher ou une adresse
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Le navigateur est contrôlé à distance
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -512,8 +469,6 @@ urlbar-placeholder-search-mode-other-tabs =
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Rechercher avec { $name } ou saisir une adresse
-urlbar-remote-control-notification-anchor =
-    .tooltiptext = Le navigateur est contrôlé à distance
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -607,6 +562,10 @@ pointerlock-warning-no-domain = Ce document contrôle votre pointeur. Appuyez su
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Une partie de cette page a planté.</strong> Pour informer { -brand-product-name } de ce problème et le résoudre plus rapidement, veuillez envoyer un rapport.
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = Une partie de cette page a planté. Pour informer { -brand-product-name } de ce problème et le résoudre plus rapidement, veuillez envoyer un rapport.
 crashed-subframe-learnmore-link =
     .value = En savoir plus
 crashed-subframe-submit =
