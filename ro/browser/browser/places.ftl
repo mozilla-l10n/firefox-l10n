@@ -8,6 +8,9 @@ places-open =
 places-open-tab =
     .label = Deschide într-o filă nouă
     .accesskey = e
+places-open-in-tab =
+    .label = Deschide într-o filă nouă
+    .accesskey = w
 places-open-all-in-tabs =
     .label = Deschide toate în file
     .accesskey = o
@@ -29,6 +32,12 @@ places-new-folder =
 places-new-separator =
     .label = Separator nou
     .accesskey = S
+places-open-in-window =
+    .label = Deschide într-o fereastră nouă
+    .accesskey = N
+places-open-in-private-window =
+    .label = Deschide într-o fereastră privată nouă
+    .accesskey = P
 places-view =
     .label = Vizualizare
     .accesskey = V
@@ -63,3 +72,17 @@ places-properties =
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Marcaje gestionate
+# This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
+other-bookmarks-folder =
+    .label = Alte marcaje
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-remove-bookmark =
+    .label =
+        { $count ->
+            [1] Elimină marcajul
+            [one] Elimină marcajul
+            [few] Elimină marcajele
+           *[other] Elimină marcajele
+        }
+    .accesskey = e

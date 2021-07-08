@@ -109,6 +109,9 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Scrii mai puțin, găsești mai multe: caută cu { $engineName } direct în bara de adrese.
 urlbar-search-tips-redirect-2 = Începe căutarea în bara de adrese ca să vezi sugestii de la { $engineName } și din istoricul tău de navigare.
+# Prompts users to use the Urlbar when they are typing in the domain of a
+# search engine, e.g. google.com or amazon.com.
+urlbar-tabtosearch-onboard = Selectează această comandă rapidă pentru a găsi mai repede ceea ce ai nevoie.
 
 ## Local search mode indicator labels in the urlbar
 
@@ -317,6 +320,9 @@ browser-window-close-button =
 
 ## Bookmarks toolbar items
 
+browser-import-button2 =
+    .label = Importă marcaje ...
+    .tooltiptext = Importă marcaje dintr-un alt browser în { -brand-short-name }
 
 ## WebRTC Pop-up notifications
 
@@ -423,6 +429,16 @@ urlbar-result-action-search-in-private = Caută într-o fereastră privată
 urlbar-result-action-search-w-engine = Caută pe { $engine }
 urlbar-result-action-switch-tab = Comută la fila
 urlbar-result-action-visit = Vizitează
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-before-tabtosearch-web = Apasă Tab pentru a căuta cu { $engine }
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-tabtosearch-web = Caută cu { $engine } direct din bara de adrese
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -471,6 +487,12 @@ bookmarks-tools-toolbar-visibility-menuitem =
         { $isVisible ->
             [true] Ascunde bara de marcaje
            *[other] Vezi bara de marcaje
+        }
+bookmarks-tools-toolbar-visibility-panel =
+    .label =
+        { $isVisible ->
+            [true] Ascunde bara de marcaje
+           *[other] Afișează bara de marcaje
         }
 bookmarks-tools-menu-button-visibility =
     .label =

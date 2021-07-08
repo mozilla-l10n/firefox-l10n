@@ -20,7 +20,7 @@ menu-application-hide-other =
 menu-application-show-all =
     .label = Afișează toate
 menu-application-touch-bar =
-    .label = Personalizează Bara tactilă…
+    .label = Personalizează bara tactilă…
 
 ##
 

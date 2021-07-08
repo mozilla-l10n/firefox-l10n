@@ -8,6 +8,11 @@
 newtab-page-title = Filă nouă
 newtab-settings-button =
     .title = Personalizează pagina pentru filă nouă
+newtab-personalize-button-label = Personalizează
+    .title = Personalizează pagina pentru filă nouă
+    .aria-label = Personalizează pagina pentru filă nouă
+newtab-personalize-dialog-label =
+    .aria-label = Personalizează
 
 ## Search box component.
 
@@ -16,6 +21,20 @@ newtab-search-box-search-button =
     .title = Caută
     .aria-label = Caută
 newtab-search-box-search-the-web-text = Caută pe web
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-text = Caută cu { $engine } sau introdu adresa
+newtab-search-box-handoff-text-no-engine = Caută sau introdu adresa
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-input =
+    .placeholder = Caută cu { $engine } sau introdu adresa
+    .title = Caută cu { $engine } sau introdu adresa
+    .aria-label = Caută cu { $engine } sau introdu adresa
+newtab-search-box-handoff-input-no-engine =
+    .placeholder = Caută sau introdu adresa
+    .title = Caută sau introdu adresa
+    .aria-label = Caută sau introdu adresa
 newtab-search-box-search-the-web-input =
     .placeholder = Caută pe web
     .title = Caută pe web
