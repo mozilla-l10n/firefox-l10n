@@ -69,6 +69,8 @@ openpgp-key-man-import-public-from-file =
     .accesskey = น
 openpgp-key-man-import-secret-from-file =
     .label = นำเข้าคีย์ลับจากไฟล์
+openpgp-key-man-import-sig-from-file =
+    .label = นำเข้าการเพิกถอนจากไฟล์
 openpgp-key-man-import-from-clipbrd =
     .label = นำเข้าคีย์จากคลิปบอร์ด
     .accesskey = น
@@ -173,6 +175,8 @@ openpgp-key-man-key-more =
 openpgp-key-man-view-photo =
     .label = ID ภาพถ่าย
     .accesskey = ภ
+openpgp-key-man-ctx-view-photo-label =
+    .label = ดู ID ภาพถ่าย
 openpgp-key-man-show-invalid-keys =
     .label = แสดงคีย์ที่ไม่ถูกต้อง
     .accesskey = แ
@@ -194,26 +198,130 @@ openpgp-key-man-please-wait-tooltip =
     .label = โปรดรอในขณะที่กำลังโหลดคีย์…
 openpgp-key-man-filter-label =
     .placeholder = ค้นหาคีย์
+openpgp-key-man-select-all-key =
+    .key = ง
+openpgp-key-man-key-details-key =
+    .key = I
+openpgp-key-details-title =
+    .title = คุณสมบัติคีย์
 openpgp-key-details-signatures-tab =
     .label = ใบรับรอง
 openpgp-key-details-structure-tab =
     .label = โครงสร้าง
+openpgp-key-details-uid-certified-col =
+    .label = ID ผู้ใช้ / รับรองโดย
+openpgp-key-details-user-id2-label = เจ้าของคีย์ที่ถูกกล่าวหา
+openpgp-key-details-id-label =
+    .label = ID
 openpgp-key-details-key-type-label = ชนิด
+openpgp-key-details-key-part-label =
+    .label = ส่วนของคีย์
 openpgp-key-details-algorithm-label =
     .label = อัลกอริทึม
 openpgp-key-details-size-label =
     .label = ขนาด
+openpgp-key-details-created-label =
+    .label = สร้างเมื่อ
+openpgp-key-details-created-header = สร้างเมื่อ
+openpgp-key-details-expiry-label =
+    .label = วันหมดอายุ
+openpgp-key-details-expiry-header = วันหมดอายุ
 openpgp-key-details-usage-label =
     .label = การใช้งาน
 openpgp-key-details-fingerprint-label = ลายนิ้วมือ
+openpgp-key-details-sel-action =
+    .label = เลือกการกระทำ…
+    .accesskey = ล
+openpgp-key-details-also-known-label = ข้อมูลประจำตัวอื่น ๆ ของเจ้าของคีย์ที่ถูกกล่าวหา:
 openpgp-card-details-close-window-label =
     .buttonlabelaccept = ปิด
+openpgp-acceptance-label =
+    .label = การยอมรับของคุณ
+openpgp-acceptance-rejected-label =
+    .label = ไม่ ปฏิเสธคีย์นี้
+openpgp-acceptance-undecided-label =
+    .label = ยังไม่ ไว้ภายหลัง
+openpgp-acceptance-unverified-label =
+    .label = ใช่ แต่ฉันยังไม่ได้ตรวจสอบว่าคีย์นี้เป็นคีย์ที่ถูกต้อง
+openpgp-acceptance-verified-label =
+    .label = ใช่ ฉันได้ตรวจสอบแล้วว่าคีย์นี้มีลายนิ้วมือที่ถูกต้อง
+key-accept-personal =
+    สำหรับคีย์นี้ คุณมีทั้งส่วนสาธารณะและส่วนลับ คุณสามารถใช้คีย์นี้เป็นคีย์ส่วนตัวได้
+    หากผู้อื่นมอบคีย์นี้ให้คุณ อย่าใช้คีย์นี้เป็นคีย์ส่วนตัว
+key-personal-warning = คุณสร้างคีย์นี้ด้วยตัวคุณเอง และความเป็นเจ้าของคีย์ที่แสดงอ้างอิงถึงตัวคุณเองหรือไม่
+openpgp-personal-no-label =
+    .label = ไม่ อย่าใช้คีย์นี้เป็นคีย์ส่วนตัวของฉัน
+openpgp-personal-yes-label =
+    .label = ใช่ ถือว่าคีย์นี้เป็นคีย์ส่วนตัว
+openpgp-copy-cmd-label =
+    .label = คัดลอก
 
 ## e2e encryption settings
 
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description =
+    { $count ->
+        [0] Thunderbird ไม่มีคีย์ OpenPGP ส่วนตัวสำหรับ <b>{ $identity }</b>
+        [one] Thunderbird พบคีย์ OpenPGP ส่วนตัว { $count } คีย์ที่เชื่อมโยงกับ <b>{ $identity }</b>
+       *[other] Thunderbird พบคีย์ OpenPGP ส่วนตัว { $count } คีย์ที่เชื่อมโยงกับ <b>{ $identity }</b>
+    }
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status =
+    { $count ->
+        [0] เลือกคีย์ที่ถูกต้องเพื่อเปิดใช้งานโปรโตคอล OpenPGP
+       *[other] การกำหนดค่าปัจจุบันของคุณใช้ ID คีย์ <b>{ $key }</b>
+    }
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status-have-key = การกำหนดค่าปัจจุบันของคุณใช้ ID คีย์ <b>{ $key }</b>
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status-error = การกำหนดค่าปัจจุบันของคุณใช้คีย์ <b>{ $key }</b> ซึ่งหมดอายุแล้ว
+openpgp-add-key-button =
+    .label = เพิ่มคีย์…
+    .accesskey = พ
+e2e-learn-more = เรียนรู้เพิ่มเติม
+openpgp-keygen-success = สร้างคีย์ OpenPGP สำเร็จแล้ว!
+openpgp-keygen-import-success = นำเข้าคีย์ OpenPGP สำเร็จแล้ว!
+openpgp-keygen-external-success = บันทึก ID คีย์ GnuPG ภายนอกแล้ว!
 
 ## OpenPGP Key selection area
 
+openpgp-radio-none =
+    .label = ไม่มี
+openpgp-radio-none-desc = อย่าใช้ OpenPGP สำหรับข้อมูลประจำตัวนี้
+openpgp-radio-key-not-usable = คีย์นี้ไม่สามารถใช้เป็นคีย์ส่วนตัวได้ เนื่องจากขาดคีย์ลับ!
+openpgp-radio-key-not-accepted = หากต้องการใช้คีย์นี้ คุณต้องอนุมัติคีย์นี้เป็นคีย์ส่วนตัว!
+openpgp-radio-key-not-found = ไม่พบคีย์นี้! หากคุณต้องการใช้คีย์นี้ คุณต้องนำเข้าคีย์นี้ไปยัง { -brand-short-name }
+#   $key (String) - the expiration date of the OpenPGP key
+openpgp-radio-key-expires = จะหมดอายุใน: { $date }
+openpgp-key-expires-image =
+    .tooltiptext = คีย์จะหมดอายุในอีกไม่ถึง 6 เดือน
+#   $key (String) - the expiration date of the OpenPGP key
+openpgp-radio-key-expired = หมดอายุแล้วเมื่อ: { $date }
+openpgp-key-expired-image =
+    .tooltiptext = คีย์หมดอายุแล้ว
+openpgp-key-expires-within-6-months-icon =
+    .title = คีย์จะหมดอายุในอีกไม่ถึง 6 เดือน
+openpgp-key-has-expired-icon =
+    .title = คีย์หมดอายุแล้ว
+openpgp-key-expand-section =
+    .tooltiptext = ข้อมูลเพิ่มเติม
+openpgp-key-revoke-title = เพิกถอนคีย์
+openpgp-key-edit-title = เปลี่ยนคีย์ OpenPGP
+openpgp-key-edit-date-title = ขยายวันหมดอายุ
+openpgp-manager-description = ใช้ตัวจัดการคีย์ OpenPGP เพื่อดูและจัดการคีย์สาธารณะของผู้ติดต่อของคุณและคีย์อื่น ๆ ทั้งหมดที่ไม่ได้อยู่ในรายการด้านบน
+openpgp-manager-button =
+    .label = ตัวจัดการคีย์ OpenPGP
+    .accesskey = ค
+openpgp-key-remove-external =
+    .label = เอา ID คีย์ภายนอกออก
+    .accesskey = ภ
+key-external-label = คีย์ GnuPG ภายนอก
+# Strings in keyDetailsDlg.xhtml
+key-type-public = คีย์สาธารณะ
+key-type-primary = คีย์หลัก
+key-type-subkey = คีย์ย่อย
 
 ## Account settings export output
 
