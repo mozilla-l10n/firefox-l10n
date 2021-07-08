@@ -7,9 +7,9 @@ account-setup-tab-title = Configuration du compte
 ## Header
 
 account-setup-title = Configurez votre adresse électronique existante
-account-setup-description =
-    Pour utiliser votre adresse électronique actuelle, remplissez vos identifiants.<br/>
-    { -brand-product-name } recherchera automatiquement une configuration de serveur fonctionnelle et recommandée.
+account-setup-description = Pour utiliser votre adresse électronique actuelle, remplissez vos identifiants.
+account-setup-secondary-description = { -brand-product-name } recherchera automatiquement une configuration fonctionnelle et recommandée du serveur
+account-setup-success-description = Vous pouvez dés maintenant utiliser ce compte avec { -brand-short-name }.
 
 ## Form fields
 
@@ -214,6 +214,10 @@ account-setup-addon-no-protocol = Malheureusement, ce serveur de messagerie ne p
 
 ## Success view
 
+account-setup-settings-button = Paramètres du compte
+account-setup-encryption-button = Chiffrement de bout en bout
+account-setup-signature-button = Ajout d’une signature
+account-setup-dictionaries-button = Téléchargement de dictionnaires
 
 ## Calendar synchronization dialog
 
