@@ -8,6 +8,7 @@ account-setup-tab-title = Kontoopsætning
 
 account-setup-title = Tilføj din eksisterende mailadresse
 account-setup-description = For at bruge din nuværende mailadresse, skal du indtaste dine login-oplysninger.
+account-setup-secondary-description = { -brand-product-name } vil automatisk søge efter en anbefalet serverkonfiguration, der virker.
 
 ## Form fields
 
