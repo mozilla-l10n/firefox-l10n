@@ -258,6 +258,8 @@ cfr-doorhanger-milestone-close-button = Serriñ
 
 ## DOH Message
 
+cfr-doorhanger-doh-body = Pouezus eo ho puhez prevez. { -brand-short-name } a heñch ent diogel hoc'h azgoulennoù DNS p'eo posupl dre ur gwazerezh keveler evit ho kwareziñ pa verdeit.
+cfr-doorhanger-doh-header = Azgoulennoù DNS enrineget ha diogeloc'h
 cfr-doorhanger-doh-primary-button-2 = Mat eo
     .accesskey = M
 cfr-doorhanger-doh-secondary-button = Diweredekaat
