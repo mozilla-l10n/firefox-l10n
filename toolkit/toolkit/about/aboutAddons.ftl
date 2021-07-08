@@ -34,6 +34,9 @@ sidebar-preferences-button-title =
             [windows] Opțiuni { -brand-short-name }
            *[other] Preferințe { -brand-short-name }
         }
+addons-settings-button = Setări { -brand-short-name }
+sidebar-settings-button-title =
+    .title = Setări { -brand-short-name }
 show-unsigned-extensions-button =
     .label = Unele extensii nu au putut fi verificate
 show-all-extensions-button =
@@ -374,9 +377,6 @@ addon-detail-private-browsing-disallow = Nu permite
 addon-badge-recommended2 =
     .title = { -brand-product-name } recomandă numai extensiile care ne întrunesc standardele de securitate și performanță
     .aria-label = { addon-badge-recommended2.title }
-addon-badge-line2 =
-    .title = Acesta este un supliment oficial realizat de creatorii { -brand-product-name }
-    .aria-label = { addon-badge-line2.title }
 
 ##
 

@@ -7,6 +7,7 @@
 ### the remote profiling panel. There are additional profiler strings in the appmenu.ftl
 ### file that are used for the profiler popup.
 
+perftools-intro-title = Setări pentru profilator
 
 ## All of the headings for the various sections.
 
@@ -19,6 +20,7 @@
 
 ##
 
+perftools-devtools-settings-label = Setări
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
@@ -28,6 +30,7 @@
 
 ##
 
+perftools-button-edit-settings = Editează setările…
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
