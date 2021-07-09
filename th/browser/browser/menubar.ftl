@@ -173,6 +173,9 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = รหัสอักขระ
     .accesskey = ร
+menu-view-repair-text-encoding =
+    .label = ซ่อมแซมรหัสอักขระข้อความ
+    .accesskey = ร
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -227,6 +230,8 @@ menu-bookmarks-show-all =
     .label = แสดงที่คั่นหน้าทั้งหมด
 menu-bookmark-this-page =
     .label = เพิ่มที่คั่นหน้าสำหรับหน้านี้
+menu-bookmarks-manage =
+    .label = จัดการที่คั่นหน้า
 menu-bookmark-current-tab =
     .label = เพิ่มที่คั่นหน้าแท็บปัจจุบัน
 menu-bookmark-edit =
@@ -254,15 +259,15 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = ลงชื่อเข้า { -brand-product-name }…
     .accesskey = g
+menu-tools-turn-on-sync =
+    .label = เปิด { -sync-brand-short-name }…
+    .accesskey = n
 menu-tools-addons-and-themes =
     .label = ส่วนเสริมและชุดตกแต่ง
     .accesskey = ส
 menu-tools-fxa-sign-in2 =
     .label = ลงชื่อเข้า
     .accesskey = ล
-menu-tools-turn-on-sync =
-    .label = เปิด { -sync-brand-short-name }…
-    .accesskey = n
 menu-tools-turn-on-sync2 =
     .label = เปิด Sync…
     .accesskey = เ
@@ -287,13 +292,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = ข้อมูลหน้า
     .accesskey = ข
-menu-settings =
-    .label = การตั้งค่า
-    .accesskey =
-        { PLATFORM() ->
-            [windows] ก
-           *[other] า
-        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -304,6 +302,13 @@ menu-preferences =
         { PLATFORM() ->
             [windows] ต
            *[other] ด
+        }
+menu-settings =
+    .label = การตั้งค่า
+    .accesskey =
+        { PLATFORM() ->
+            [windows] ก
+           *[other] า
         }
 menu-tools-layout-debugger =
     .label = ตัวดีบั๊กเค้าโครง
@@ -342,14 +347,12 @@ menu-help-import-from-another-browser =
 menu-help-keyboard-shortcuts =
     .label = แป้นพิมพ์ลัด
     .accesskey = ล
-menu-get-help =
-    .label = รับความช่วยเหลือ
-    .accesskey = ช
 menu-help-troubleshooting-info =
     .label = ข้อมูลการแก้ไขปัญหา
     .accesskey = ป
-menu-help-taskmanager =
-    .label = ตัวจัดการงาน
+menu-get-help =
+    .label = รับความช่วยเหลือ
+    .accesskey = ช
 menu-help-more-troubleshooting-info =
     .label = ข้อมูลการแก้ไขปัญหาเพิ่มเติม
     .accesskey = ข
