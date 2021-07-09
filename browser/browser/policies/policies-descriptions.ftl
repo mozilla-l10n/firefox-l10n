@@ -79,6 +79,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Revenire la comportame
 ##
 
 policy-LocalFileLinks = Permite anumitor site-uri web să se lege la fișiere locale.
+policy-ManagedBookmarks = Configurează o listă de marcaje gestionate de un administrator care nu poate fi modificată de utilizator.
 policy-MasterPassword = Necesită sau împiedică folosirea unei parole generale.
 policy-PrimaryPassword = Necesită sau împiedică folosirea unei parole primare.
 policy-NetworkPrediction = Activează sau dezactivează predicția de rețea (prelectură DNS).
@@ -110,3 +111,4 @@ policy-SupportMenu = Adaugă un element personalizat din meniul de asistență �
 policy-UserMessaging = Nu afișa anumite mesaje utilizatorului.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blochează intrarea pe site-uri web. Vezi documentația pentru detalii suplimentare despre format.
+policy-Windows10SSO = Permite conectarea unică Windows pentru conturile Microsoft, de la locul de muncă sau de la școală.

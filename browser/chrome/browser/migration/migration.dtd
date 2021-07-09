@@ -47,7 +47,7 @@
 <!ENTITY selectProfile.title            "Selectează profilul">
 <!ENTITY selectProfile.label            "Următoarele profiluri sunt disponibile pentru a se importa din acestea:">
 
-<!ENTITY done.title                     "Importare încheiată">
+<!ENTITY done.title                     "Importare finalizată">
 <!ENTITY done.label                     "Următoarele elemente au fost importate cu succes:">
 
 <!ENTITY closeSourceBrowser.label       "Te rugăm să te asiguri că browserul selectat este închis înainte de a continua.">
