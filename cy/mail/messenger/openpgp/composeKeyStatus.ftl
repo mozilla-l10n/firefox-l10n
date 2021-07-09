@@ -14,3 +14,15 @@ openpgp-compose-key-status-open-details = Rheoli allweddi ar gyfer derbynnydd de
 openpgp-recip-good = Iawn
 openpgp-recip-missing = dim allwedd ar gael
 openpgp-recip-none-accepted = dim allwedd wedi'i derbyn
+openpgp-compose-general-info-alias = Mae { -brand-short-name } fel arfer yn disgwyl bod allwedd gyhoeddus y derbynnydd yn cynnwys ID defnyddiwr gyda chyfeiriad e-bost sy'n cyfateb. Mae modd diystyru hyn trwy ddefnyddio rheolau alias derbynnydd OpenPGP.
+openpgp-compose-general-info-alias-learn-more = Dysgu rhagor
+openpgp-compose-alias-status-direct =
+    { $count ->
+        [zero] heb ei fapio i allweddi alias
+        [one] wedi'i fapio i { $count } allwedd alias
+        [two] wedi'i fapio i { $count } allwedd alias
+        [few] wedi'i fapio i { $count } allwedd alias
+        [many] wedi'i fapio i { $count }allwedd alias
+       *[other] wedi'i fapio i { $count } allwedd alias
+    }
+openpgp-compose-alias-status-error = allwedd alias nad oes modd ei ddefnyddio/ddim ar gael
