@@ -12,3 +12,4 @@ refresh-profile-remove = Va elimina suplimentele și personalizările tale
 refresh-profile-restore = Va restabili setările browserului la valorile implicite
 refresh-profile = Revigorează { -brand-short-name }
 refresh-profile-button = Reîmprospătează { -brand-short-name }…
+refresh-profile-learn-more = Află mai multe
