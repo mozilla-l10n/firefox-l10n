@@ -972,6 +972,9 @@ addressbar-locbar-shortcuts-option =
 addressbar-locbar-topsites-option =
     .label = Site-uri de top
     .accesskey = T
+addressbar-locbar-engines-option =
+    .label = Motoare de căutare
+    .accesskey = a
 addressbar-suggestions-settings = Schimbă preferințele pentru sugestiile motoarelor de căutare…
 
 ## Privacy Section - Content Blocking
@@ -1123,6 +1126,8 @@ collection-backlogged-crash-reports =
     .label = Permite ca { -brand-short-name } să trimită în numele tău rapoarte de defecțiuni înregistrate în jurnal
     .accesskey = c
 collection-backlogged-crash-reports-link = Află mai multe
+collection-backlogged-crash-reports-with-link = Permite ca { -brand-short-name } să trimită în numele tău rapoarte de defecțiuni înregistrate în jurnal <a data-l10n-name="crash-reports-link">Află mai multe</a>
+    .accesskey = c
 
 ## Privacy Section - Security
 ##
