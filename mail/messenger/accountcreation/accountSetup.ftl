@@ -229,6 +229,56 @@ account-setup-address-book-ldap-button = LDAP helbide-liburura konektatu
 account-setup-calendar-button = Konektatu urruneko egutegira
 account-setup-linked-services-title = Konektatu zure lotutako zerbitzuekin
 account-setup-linked-services-description = { -brand-short-name } zure postaz lotutako zerbitzu gehiago antzeman ditu.
+account-setup-no-linked-description = Konfiguratu beste zerbitzuak zure { -brand-short-name } esperientziari ahalik eta etekin handiena ateratzeko.
+# Variables:
+# $count (Number) - The number of address books found during autoconfig.
+account-setup-found-address-books-description =
+    { $count ->
+        [one] { -brand-short-name } zure postari lotutako helbide liburu bat aurkitu du.
+       *[other] { -brand-short-name } zure postari lotutako { $count } helbide liburu aurkitu ditu.
+    }
+# Variables:
+# $count (Number) - The number of calendars found during autoconfig.
+account-setup-found-calendars-description =
+    { $count ->
+        [one] { -brand-short-name } zure postari lotutako egutegi bat aurkitu du.
+       *[other] { -brand-short-name } zure postari lotutako { $count } egutegi aurkitu ditu.
+    }
+account-setup-button-finish = Amaitu
+    .accesskey = A
+account-setup-looking-up-address-books = Helbide-liburuak bilatzen…
+account-setup-looking-up-calendars = Egutegiak bilatzen…
+account-setup-address-books-button = Helbide-liburuak
+account-setup-calendars-button = Egutegiak
+account-setup-connect-link = Konektatu
+account-setup-existing-address-book = Konektatuta
+    .title = Helbide-liburua konektatua dago
+account-setup-existing-calendar = Konektatuta
+    .title = Egutegia konektatua dago
+account-setup-connect-all-calendars = Konektatu egutegi guztiak
+account-setup-connect-all-address-books = Konektatu helbide-liburu guztiak
 
 ## Calendar synchronization dialog
 
+calendar-dialog-title = Konektatu egutegia
+calendar-dialog-cancel-button = Utzi
+    .accesskey = U
+calendar-dialog-confirm-button = Konektatu
+    .accesskey = K
+account-setup-calendar-name-label = Izena
+account-setup-calendar-name-input =
+    .placeholder = Nire egutegia
+account-setup-calendar-color-label = Kolorea
+account-setup-calendar-refresh-label = Berritu
+account-setup-calendar-refresh-manual = Eskuz
+account-setup-calendar-refresh-interval =
+    { $count ->
+        [one] Minutuoro
+       *[other] { $count } minututik behin
+    }
+account-setup-calendar-read-only = irakurtzeko soilik
+    .accesskey = s
+account-setup-calendar-show-reminders = Erakutsi gogorarazleak
+    .accesskey = g
+account-setup-calendar-offline-support = Lineaz kanpoko laguntza
+    .accesskey = L
