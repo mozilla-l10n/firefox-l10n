@@ -269,6 +269,34 @@ account-setup-existing-address-book = Wedi'u cysylltu
     .title = Llyfr cyfeiriadau wedi'u cysylltu'n barod
 account-setup-existing-calendar = Wedi'u cysylltu
     .title = Calendrau wedi'u cysylltu'n barod
+account-setup-connect-all-calendars = Cysylltu'r holl galendrau
+account-setup-connect-all-address-books = Cysylltu'r holl lyfrau cyfeiriadau
 
 ## Calendar synchronization dialog
 
+calendar-dialog-title = Cysylltu calendr
+calendar-dialog-cancel-button = Diddymu
+    .accesskey = D
+calendar-dialog-confirm-button = Cysylltu
+    .accesskey = C
+account-setup-calendar-name-label = Enw
+account-setup-calendar-name-input =
+    .placeholder = Calendr
+account-setup-calendar-color-label = Lliw
+account-setup-calendar-refresh-label = Adnewyddu
+account-setup-calendar-refresh-manual = Gyda Llaw
+account-setup-calendar-refresh-interval =
+    { $count ->
+        [zero] Byth
+        [one] Pob munud
+        [two] Pob { $count } funud
+        [few] Pob { $count } munud
+        [many] Pob { $count } munud
+       *[other] Pob { $count } munud
+    }
+account-setup-calendar-read-only = Darllen yn unig
+    .accesskey = D
+account-setup-calendar-show-reminders = Dangos Atgoffwyr
+    .accesskey = A
+account-setup-calendar-offline-support = Cefnogaeth All-lein
+    .accesskey = A
