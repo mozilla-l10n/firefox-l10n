@@ -6,9 +6,9 @@
 ### This file contains the entities needed to use the Find Bar.
 
 findbar-next =
-    .tooltiptext = ფრაზის შემდეგი კონტექსტის პოვნა
+    .tooltiptext = მომდევნო დამთხვევის პოვნა
 findbar-previous =
-    .tooltiptext = ფრაზის წინა კონტექსტის პოვნა
+    .tooltiptext = წინა დამთხვევის პოვნა
 findbar-find-button-close =
     .tooltiptext = ძიების ველის დახურვა
 findbar-highlight-all2 =
@@ -20,14 +20,14 @@ findbar-highlight-all2 =
         }
     .tooltiptext = ყველა თანხვედრის გამორჩევა
 findbar-case-sensitive =
-    .label = მთავრულით
+    .label = ემთხვევა მთავრული
     .accesskey = რ
     .tooltiptext = ძიება მთავრულის გათვალისწინებით
 findbar-match-diacritics =
-    .label = დიაკრიტიკულით
+    .label = ემთხვევა ნიშანი
     .accesskey = ტ
     .tooltiptext = განასხვავებს ნიშანდართულებს ძირითადი ასოებისგან (მაგალითად სიტყვები „resume“ და „résumé“ ერთდროულად აღარ მოიძებნება)
 findbar-entire-word =
-    .label = მთლიანი სიტყვები
+    .label = მთლიანი სიტყვა
     .accesskey = მ
     .tooltiptext = მხოლოდ მთლიანი სიტყვების ძიება
