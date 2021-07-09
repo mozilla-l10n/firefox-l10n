@@ -13,4 +13,5 @@ calendar-ics-file-dialog-message-2 = Importă din fișierul:
 calendar-ics-file-dialog-calendar-menu-label = Importă în calendarul:
 calendar-ics-file-import-success = Import realizat cu succes!
 calendar-ics-file-import-error = A apărut o eroare și importul a eșuat.
+calendar-ics-file-import-complete = Importare finalizată.
 calendar-ics-file-dialog-no-calendars = Nu există calendare care să poată importa evenimente sau sarcini.
