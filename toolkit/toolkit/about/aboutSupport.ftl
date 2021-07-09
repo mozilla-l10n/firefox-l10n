@@ -65,6 +65,7 @@ app-basics-rosetta = Rosetta-ს თარგმნილი
 app-basics-memory-use = გამოყენებული მეხსიერება
 app-basics-performance = წარმადობა
 app-basics-service-workers = დარეგისტრებული Service Worker-ები
+app-basics-third-party = გარეშე მოდულები
 app-basics-profiles = პროფილები
 app-basics-launcher-process-status = გამშვები პროცესი
 app-basics-multi-process-support = მრავალპროცესიანი ფანჯრები
