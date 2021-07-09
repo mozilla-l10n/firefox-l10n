@@ -10,6 +10,10 @@ account-setup-title = Configura un account email esistente
 account-setup-description =
     Per utilizzare il tuo indirizzo email attuale, inserisci le credenziali.<br/>¶
     { -brand-product-name } cercherà automaticamente una configurazione del server funzionante e consigliata.
+account-setup-secondary-description = { -brand-product-name } cercherà automaticamente una configurazione server consigliata e funzionante.
+account-setup-success-title = Account creato correttamente
+account-setup-success-description = Ora puoi utilizzare questo account con { -brand-short-name }.
+account-setup-success-secondary-description = Puoi migliorare la tua esperienza connettendo i servizi collegati e configurando le impostazioni account avanzate.
 
 ## Form fields
 
@@ -98,11 +102,15 @@ account-setup-step3-image =
     .title = Configurazione rilevata
 account-setup-step4-image =
     .title = Errore di connessione
+account-setup-step5-image =
+    .title = Account creato
 account-setup-privacy-footnote = Le tue credenziali verranno utilizzate nel rispetto della nostra <a data-l10n-name="privacy-policy-link">informativa sulla privacy</a> e verranno memorizzate solo localmente sul tuo computer.
 account-setup-selection-help = Hai dubbi su che cosa selezionare?
 account-setup-selection-error = Hai bisogno di aiuto?
+account-setup-success-help = Non sai come proseguire?
 account-setup-documentation-help = Documentazione relativa alla configurazione
 account-setup-forum-help = Forum di supporto
+account-setup-getting-started = Come iniziare
 
 ## Results area
 
@@ -211,3 +219,67 @@ account-setup-confirm-advanced-description = Questa finestra verrà chiusa e sar
 account-setup-addon-install-title = Installa
 account-setup-addon-install-intro = Un componente aggiuntivo di terze parti può consentire l’accesso all’account email su questo server:
 account-setup-addon-no-protocol = Questo server di posta non supporta i protocolli aperti. { account-setup-addon-install-intro }
+
+## Success view
+
+account-setup-settings-button = Impostazioni account
+account-setup-encryption-button = Crittografia end-to-end
+account-setup-signature-button = Aggiungi una firma
+account-setup-dictionaries-button = Scarica dizionari
+account-setup-address-book-carddav-button = Connetti a una rubrica CardDAV
+account-setup-address-book-ldap-button = Connetti a una rubrica LDAP
+account-setup-calendar-button = Connetti a un calendario remoto
+account-setup-linked-services-description = { -brand-short-name } ha rilevato altri servizi collegati al tuo account di posta.
+account-setup-no-linked-description = Configura altri servizi per ottenere il massimo dalla tua esperienza con { -brand-short-name }.
+# Variables:
+# $count (Number) - The number of address books found during autoconfig.
+account-setup-found-address-books-description =
+    { $count ->
+        [one] { -brand-short-name } ha trovato una rubrica collegata al tuo account  di posta.
+       *[other] { -brand-short-name } ha trovato { $count } rubriche { -brand-short-name } collegate al tuo account  di posta.
+    }
+# Variables:
+# $count (Number) - The number of calendars found during autoconfig.
+account-setup-found-calendars-description =
+    { $count ->
+        [one] { -brand-short-name } ha trovato un calendario collegato al tuo account di posta.
+       *[other] { -brand-short-name } ha trovato { $count } calendari collegati al tuo account di posta.
+    }
+account-setup-button-finish = Fine
+    .accesskey = F
+account-setup-looking-up-address-books = Ricerca rubriche in corso…
+account-setup-looking-up-calendars = Ricerca calendari in corso…
+account-setup-address-books-button = Rubriche
+account-setup-calendars-button = Calendari
+account-setup-connect-link = Connetti
+account-setup-existing-address-book = Connessa
+    .title = Rubrica già connessa
+account-setup-existing-calendar = Connesso
+    .title = Calendario già connesso
+account-setup-connect-all-calendars = Connetti tutti i calendari
+account-setup-connect-all-address-books = Connetti tutte le rubriche
+
+## Calendar synchronization dialog
+
+calendar-dialog-title = Connetti calendario
+calendar-dialog-cancel-button = Annulla
+    .accesskey = A
+calendar-dialog-confirm-button = Connetti
+    .accesskey = n
+account-setup-calendar-name-label = Nome
+account-setup-calendar-name-input =
+    .placeholder = Il mio calendario
+account-setup-calendar-color-label = Colore
+account-setup-calendar-refresh-label = Aggiorna
+account-setup-calendar-refresh-manual = Manualmente
+account-setup-calendar-refresh-interval =
+    { $count ->
+        [one] Ogni minuto
+       *[other] Ogni { $count } minuti
+    }
+account-setup-calendar-read-only = Sola lettura
+    .accesskey = S
+account-setup-calendar-show-reminders = Mostra promemoria
+    .accesskey = M
+account-setup-calendar-offline-support = Supporto non in linea
+    .accesskey = o
