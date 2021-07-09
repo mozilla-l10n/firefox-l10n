@@ -165,59 +165,6 @@ page-action-remove-from-urlbar =
 page-action-remove-extension =
     .label = Tynnu Estyniad
 
-## Page Action menu
-
-# Variables
-# $tabCount (integer) - Number of tabs selected
-page-action-send-tabs-panel =
-    .label =
-        { $tabCount ->
-            [zero] Anfon Tab i Ddyfais
-            [one] Anfon { $tabCount } Tab i Ddyfais
-            [two] Anfon { $tabCount } Dab i Ddyfais
-            [few] Anfon { $tabCount } Thab i Ddyfais
-            [many] Anfon { $tabCount } Tab i Ddyfais
-           *[other] Anfon { $tabCount } Thab i Ddyfais
-        }
-page-action-send-tabs-urlbar =
-    .tooltiptext =
-        { $tabCount ->
-            [zero] Anfon Tab i Ddyfais
-            [one] Anfon { $tabCount } Tab i Ddyfais
-            [two] Anfon { $tabCount } Dab i Ddyfais
-            [few] Anfon { $tabCount } Thab i Ddyfais
-            [many] Anfon { $tabCount } Tab i Ddyfais
-           *[other] Anfon { $tabCount } Thab i Ddyfais
-        }
-page-action-copy-url-panel =
-    .label = Copïo'r Ddolen
-page-action-copy-url-urlbar =
-    .tooltiptext = Copïo'r Ddolen
-page-action-email-link-panel =
-    .label = E-bostio'r Ddolen…
-page-action-email-link-urlbar =
-    .tooltiptext = E-bostio'r Ddolen…
-page-action-share-url-panel =
-    .label = Rhannu
-page-action-share-url-urlbar =
-    .tooltiptext = Rhannu
-page-action-share-more-panel =
-    .label = Rhagor…
-page-action-send-tab-not-ready =
-    .label = Cydweddu Dyfeisiau…
-# "Pin" is being used as a metaphor for expressing the fact that these tabs
-# are "pinned" to the left edge of the tabstrip. Really we just want the
-# string to express the idea that this is a lightweight and reversible
-# action that keeps your tab where you can reach it easily.
-page-action-pin-tab-panel =
-    .label = Pinio Tab
-page-action-pin-tab-urlbar =
-    .tooltiptext = Pinio Tab
-page-action-unpin-tab-panel =
-    .label = Dadbinio Tab
-page-action-unpin-tab-urlbar =
-    .tooltiptext = Dadbinio Tab
-
 ## Auto-hide Context Menu
 
 full-screen-autohide =
@@ -504,6 +451,8 @@ urlbar-default-placeholder =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Chwilio neu gyfeiriad gwe
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Mae'r porwr o dan reolaeth bell
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -536,8 +485,6 @@ urlbar-placeholder-search-mode-other-tabs =
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Chwilio gyda { $name } neu rhoi'r cyfeiriad
-urlbar-remote-control-notification-anchor =
-    .tooltiptext = Mae'r porwr o dan reolaeth bell
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -631,6 +578,10 @@ pointerlock-warning-no-domain = Mae gan y ddogfen hon reolaeth o'ch pwyntydd. Pw
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Mae rhan o'r dudalen hon wedi chwalu.</strong> Er mwyn rhoi gwybod i { -brand-product-name } am y mater hwn a'i drwsio'n gynt, cyflwynwch adroddiad.
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = <strong>Mae rhan o'r dudalen hon wedi chwalu.</strong> Er mwyn rhoi gwybod i { -brand-product-name } am y mater hwn a'i drwsio'n gynt, cyflwynwch adroddiad.
 crashed-subframe-learnmore-link =
     .value = Dysgu Rhagor
 crashed-subframe-submit =
