@@ -64,6 +64,7 @@ app-basics-rosetta = Rosetta-muunnettu
 app-basics-memory-use = Muistin käyttö
 app-basics-performance = Suorituskyky
 app-basics-service-workers = Rekisteröidyt Service Workers -apukomentosarjat
+app-basics-third-party = Kolmannen osapuolen moduulit
 app-basics-profiles = Profiilit
 app-basics-launcher-process-status = Käynnistysprosessi
 app-basics-multi-process-support = Useaa prosessia hyödyntäviä ikkunoita
