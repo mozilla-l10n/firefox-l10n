@@ -12,6 +12,10 @@ about-addressbook-toolbar-new-carddav-address-book =
     .label = CardDAV helbide-liburu berria
 about-addressbook-toolbar-new-ldap-address-book =
     .label = LDAP helbide-liburu berria
+about-addressbook-toolbar-add-carddav-address-book =
+    .label = Gehitu CardDAV helbide-liburua
+about-addressbook-toolbar-add-ldap-address-book =
+    .label = Gehitu LDAP helbide-liburua
 about-addressbook-toolbar-new-contact =
     .label = Kontaktu berria
 about-addressbook-toolbar-new-list =
@@ -28,6 +32,16 @@ about-addressbook-books-context-print =
     .label = Inprimatu…
 about-addressbook-books-context-delete =
     .label = Ezabatu
+about-addressbook-books-context-remove =
+    .label = Kendu
+about-addressbook-confirm-delete-book-title = Ezabatu helbide-liburua
+# Variables:
+# $name (String) - Name of the address book to be deleted.
+about-addressbook-confirm-delete-book = Ziur zaude { $name } eta bere kontaktu guztiak ezabatu nahi dituzula?
+about-addressbook-confirm-remove-remote-book-title = Kendu helbide-liburua
+# Variables:
+# $name (String) - Name of the remote address book to be removed.
+about-addressbook-confirm-remove-remote-book = Ziur zaude{ $name } kendu nahi duzula?
 
 ## Cards
 
@@ -53,6 +67,7 @@ about-addressbook-sort-email-ascending =
     .label = Ordenatu Eposta helbideaz (A > Z)
 about-addressbook-sort-email-descending =
     .label = Ordenatu Eposta helbideaz (Z > A)
+about-addressbook-confirm-delete-mixed-title = Ezabatu kontaktuak eta posta-zerrendak
 
 ## Details
 
