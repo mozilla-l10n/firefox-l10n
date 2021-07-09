@@ -10,6 +10,8 @@ account-setup-title = Ezarri badaukazun posta elektroniko helbide bat
 account-setup-description =
     Zure unekoposta elektroniko helbidea erabiltzeko idatzi zure kredentzialak. <br/>
     { -brand-product-name } automatikoki bilatuko du badabiltzan eta gomendatutako zerbitzari konfigurazioa.
+account-setup-success-title = Kontua ondo sortu da!
+account-setup-success-description = Orain zuk { -brand-short-name } kontua erabil dezakezu.
 
 ## Form fields
 
@@ -103,12 +105,20 @@ account-setup-step5-image =
 account-setup-privacy-footnote = Zure kredentzialak gure <a data-l10n-name="privacy-policy-link"> Pribatutasun-politikaren arabera erabiliko dira </a> eta zure ordenagailuan lokalean bakarrik gordeko dira
 account-setup-selection-help = Ez dakizu zer hautatu?
 account-setup-selection-error = Laguntza bila?
+account-setup-success-help = Ez dakizu zeintzuk diren hurrengo urratsak?
 account-setup-documentation-help = Konfigurazio dokumentazioa
 account-setup-forum-help = Laguntza foroa
 account-setup-getting-started = Nola hasi
 
 ## Results area
 
+# Variables:
+#  $count (Number) - Number of available protocols.
+account-setup-results-area-title =
+    { $count ->
+        [one] Konfigurazio erabilgarria
+       *[other] Konfigurazio erabilgarriak
+    }
 # Note: IMAP is the name of a protocol.
 account-setup-result-imap = IMAP
 account-setup-result-imap-description = Mantendu zure karpetak eta postak sinkronizatuak zure zerbitzarian
@@ -210,6 +220,15 @@ account-setup-addon-no-protocol = Posta zerbitzariak zoritzarrez ez ditu onartze
 
 ## Success view
 
+account-setup-settings-button = Kontu-ezarpenak
+account-setup-encryption-button = Muturretik muturrerako enkriptatzea
+account-setup-signature-button = Gehitu sinadura
+account-setup-dictionaries-button = Deskargatu hiztegiak
+account-setup-address-book-carddav-button = CardDAV helbide-liburura konektatu
+account-setup-address-book-ldap-button = LDAP helbide-liburura konektatu
+account-setup-calendar-button = Konektatu urruneko egutegira
+account-setup-linked-services-title = Konektatu zure lotutako zerbitzuekin
+account-setup-linked-services-description = { -brand-short-name } zure postaz lotutako zerbitzu gehiago antzeman ditu.
 
 ## Calendar synchronization dialog
 
