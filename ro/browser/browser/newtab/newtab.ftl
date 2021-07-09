@@ -224,6 +224,7 @@ newtab-error-fallback-refresh-link = Reîmprospătează pagina pentru a încerca
 
 ## Customization Menu
 
+newtab-custom-shortcuts-title = Comenzi rapide
 newtab-custom-shortcuts-subtitle = Site-uri pe care le salvezi sau le vizitezi
 newtab-custom-row-selector =
     { $num ->
