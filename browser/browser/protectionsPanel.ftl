@@ -38,7 +38,7 @@ protections-panel-not-blocking-why-etp-off-tooltip = Toate elementele de urmări
 
 ##
 
-protections-panel-no-trackers-found = Nu s-a depistat niciun element de urmărire cunoscut de { -brand-short-name } pe această pagină.
+protections-panel-no-trackers-found = Nu s-a detectat niciun element de urmărire cunoscut de { -brand-short-name } pe această pagină.
 protections-panel-content-blocking-tracking-protection = Conținut de urmărire
 protections-panel-content-blocking-socialblock = Elemente de urmărire de pe rețele de socializare
 protections-panel-content-blocking-cryptominers-label = Criptomineri
@@ -80,6 +80,7 @@ protections-panel-cryptominers = Criptomomerii folosesc puterea de calcul a sist
 protections-panel-fingerprinters = Detectoarele de amprente digitale îți colectează setările din browser și calculator și creează un profil despre tine. Cu această amprentă digitală, te pot urmări pe diferite site-uri web.
 protections-panel-tracking-content = Site-urile web pot încărca reclame externe, videoclipuri și alte conținuturi ce conțin coduri de urmărire. Blocarea conținutului de urmărire poate ajuta site-urile să se încarce mai rapid, dar este posibil ca unele butoane, formulare și câmpuri de autentificare să nu funcționeze.
 protections-panel-social-media-trackers = Rețelele de socializare plasează elemente de urmărire pe alte site-uri web pentru a urmări ce faci, ce vezi și ce urmărești online. Ele permit firmelor care dețin rețelele de socializare să afle mai multe despre tine, dincolo de ce partajezi pe profilurile de pe rețelele de socializare.
+protections-panel-description-shim-allowed-learn-more = Află mai multe
 protections-panel-content-blocking-manage-settings =
     .label = Gestionează setările pentru protecție
     .accesskey = M
