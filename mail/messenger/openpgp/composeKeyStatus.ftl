@@ -14,3 +14,4 @@ openpgp-compose-key-status-open-details = Gestionează cheile pentru destinataru
 openpgp-recip-good = OK
 openpgp-recip-missing = nicio cheie disponibilă
 openpgp-recip-none-accepted = nicio cheie acceptată
+openpgp-compose-general-info-alias-learn-more = Află mai multe
