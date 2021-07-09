@@ -71,6 +71,7 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Îți cauți datele de autentificare salvate? Configurează { -sync-brand-short-name }.
+about-logins-login-intro-heading-logged-out2 = Cauți datele de autentificare salvate? Activează sincronizarea sau importează-le.
 about-logins-login-intro-heading-logged-in = Nu am găsit date de autentificare sincronizate.
 login-intro-description = Dacă ți-ai salvat datele de autentificare în { -brand-product-name } pe un alt dispozitiv, iată cum le poți aduce aici:
 login-intro-instruction-fxa = Creează un cont sau conectează-te în { -fxaccount-brand-name(capitalization: "lower-definite-article") } de pe dispozitivul pe care ai salvat datele de autentificare
@@ -171,6 +172,39 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Elimini această autentificare?
 confirm-delete-dialog-message = Această acțiune este ireversibilă.
 about-logins-confirm-remove-dialog-confirm-button = Elimină
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Elimină
+        [one] Elimină
+        [few] Elimină-le pe toate
+       *[other] Elimină-le pe toate
+    }
+about-logins-confirm-remove-all-dialog-checkbox-label =
+    { $count ->
+        [1] Da, elimină această autentificare
+        [one] Da, elimină această autentificare
+        [few] Da, elimină aceste date de autentificare
+       *[other] Da, elimină aceste date de autentificare
+    }
+about-logins-confirm-remove-all-dialog-title =
+    { $count ->
+        [one] Elimini { $count } autentificare?
+        [few] Elimini toate cele { $count } date de autentificare?
+       *[other] Elimini toate cele { $count } de date de autentificare?
+    }
+about-logins-confirm-remove-all-dialog-message =
+    { $count ->
+        [1] Acest lucru va elimina autentificarea pe care ai salvat-o în { -brand-short-name } și orice alerte privind încălcarea securității datelor care apar aici. Nu vei putea anula această acțiune.
+        [one] Acest lucru va elimina autentificarea pe care ai salvat-o în { -brand-short-name } și orice alerte privind încălcarea securității datelor care apar aici. Nu vei putea anula această acțiune.
+        [few] Acest lucru va elimina datele de autentificare pe care le-ai salvat în { -brand-short-name } și orice alerte privind încălcarea securității datelor care apar aici. Nu vei putea anula această acțiune.
+       *[other] Acest lucru va elimina datele de autentificare pe care le-ai salvat în { -brand-short-name } și orice alerte privind încălcarea securității datelor care apar aici. Nu vei putea anula această acțiune.
+    }
+about-logins-confirm-remove-all-sync-dialog-title =
+    { $count ->
+        [one] Elimini { $count } autentificare de pe toate dispozitivele?
+        [few] Elimini toate cele { $count } date de autentificare de pe toate dispozitivele?
+       *[other] Elimini toate cele { $count } de date de autentificare de pe toate dispozitivele?
+    }
 about-logins-confirm-remove-all-sync-dialog-message =
     { $count ->
         [1] Acest lucru va elimina autentificarea pe care ai salvat-o în { -brand-short-name } pe toate dispozitivele sincronizate cu { -fxaccount-brand-name(capitalization: "lower-definite-article") }. De asemenea, vor fi eliminate alertele privind încălcarea securității datelor care apar aici. Nu vei putea anula această acțiune.
@@ -181,6 +215,8 @@ about-logins-confirm-remove-all-sync-dialog-message =
 about-logins-confirm-export-dialog-title = Exportă date de autentificare și parole
 about-logins-confirm-export-dialog-message = Parolele tale vor fi salvate în text lizibil (de ex., BadP@ssw0rd) și oricine poate deschide fișierul exportat le va putea vedea.
 about-logins-confirm-export-dialog-confirm-button = Exportă…
+about-logins-alert-import-title = Importare completă
+about-logins-alert-import-message = Vezi sumarul detaliat al importării
 confirm-discard-changes-dialog-title = Înlături modificările nesalvate?
 confirm-discard-changes-dialog-message = Toate modificările nesalvate vor fi pierdute.
 confirm-discard-changes-dialog-confirm-button = Înlătură
@@ -242,11 +278,29 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] Document CSV
        *[other] Fișier CSV
     }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] Document TSV
+       *[other] Fișier TSV
+    }
 
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-dialog-title = Importare finalizată
+about-logins-import-dialog-done = Terminat
+about-logins-import-dialog-error-title = Eroare la importare
+about-logins-import-dialog-error-learn-more = Află mai multe
+about-logins-import-dialog-error-try-import-again = Încearcă să imporți din nou…
+about-logins-import-dialog-error-cancel = Anulează
+about-logins-import-report-title = Sumar de importare
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = Rândul { $number }
 
 ##
 ## Variables:
@@ -260,3 +314,4 @@ about-logins-import-file-picker-csv-filter-title =
 
 ## Logins import report page
 
+about-logins-import-report-page-title = Raportul sumarului de importare

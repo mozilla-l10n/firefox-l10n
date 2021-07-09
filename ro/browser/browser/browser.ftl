@@ -394,7 +394,7 @@ urlbar-placeholder-search-mode-other-history =
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Introdu termenii de căutare
-    .aria-label = Caută în file
+    .aria-label = Caută file
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -446,6 +446,7 @@ urlbar-result-action-tabtosearch-web = Caută cu { $engine } direct din bara de 
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
+urlbar-result-action-search-tabs = Caută file
 
 ## Full Screen and Pointer Lock UI
 
@@ -465,9 +466,14 @@ pointerlock-warning-no-domain = Documentul controlează acum cursorul. Apasă Es
 
 ## Subframe crash notification
 
+crashed-subframe-learnmore-link =
+    .value = Află mai multe
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-manage-bookmarks =
+    .label = Gestionează marcajele
+bookmarks-recent-bookmarks-panel-subheader = Marcaje recente
 bookmarks-toolbar-chevron =
     .tooltiptext = Afișează mai multe marcaje
 bookmarks-sidebar-content =

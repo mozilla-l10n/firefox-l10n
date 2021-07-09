@@ -236,4 +236,5 @@ newtab-custom-sponsored-sites = Comenzi rapide sponsorizate
 newtab-custom-recent-title = Activitate recentă
 newtab-custom-recent-subtitle = O selecție de site-uri și conținut recente
 newtab-custom-close-button = Închide
+newtab-custom-snippets-subtitle = Sfaturi și știri de la { -vendor-short-name } și { -brand-product-name }
 newtab-custom-settings = Gestionează mai multe setări

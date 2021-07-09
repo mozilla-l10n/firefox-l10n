@@ -560,6 +560,7 @@ home-prefs-recent-activity-description = O selecție de site-uri și conținut r
 home-prefs-snippets-header =
     .label = Fragmente
 home-prefs-snippets-description = Știri de la { -vendor-short-name } și { -brand-product-name }
+home-prefs-snippets-description-new = Sfaturi și știri de la { -vendor-short-name } și { -brand-product-name }
 home-prefs-sections-rows-option =
     .label =
         { $num ->
