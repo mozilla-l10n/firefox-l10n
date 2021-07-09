@@ -165,51 +165,6 @@ page-action-remove-from-urlbar =
 page-action-remove-extension =
     .label = Poista laajennus
 
-## Page Action menu
-
-# Variables
-# $tabCount (integer) - Number of tabs selected
-page-action-send-tabs-panel =
-    .label =
-        { $tabCount ->
-            [one] Lähetä välilehti laitteeseen
-           *[other] Lähetä { $tabCount } välilehteä laitteeseen
-        }
-page-action-send-tabs-urlbar =
-    .tooltiptext =
-        { $tabCount ->
-            [one] Lähetä välilehti laitteeseen
-           *[other] Lähetä { $tabCount } välilehteä laitteeseen
-        }
-page-action-copy-url-panel =
-    .label = Kopioi linkki
-page-action-copy-url-urlbar =
-    .tooltiptext = Kopioi linkki
-page-action-email-link-panel =
-    .label = Lähetä linkki…
-page-action-email-link-urlbar =
-    .tooltiptext = Lähetä linkki…
-page-action-share-url-panel =
-    .label = Jaa
-page-action-share-url-urlbar =
-    .tooltiptext = Jaa
-page-action-share-more-panel =
-    .label = Lisää…
-page-action-send-tab-not-ready =
-    .label = Synkronoidaan laitteita…
-# "Pin" is being used as a metaphor for expressing the fact that these tabs
-# are "pinned" to the left edge of the tabstrip. Really we just want the
-# string to express the idea that this is a lightweight and reversible
-# action that keeps your tab where you can reach it easily.
-page-action-pin-tab-panel =
-    .label = Kiinnitä välilehti
-page-action-pin-tab-urlbar =
-    .tooltiptext = Kiinnitä välilehti
-page-action-unpin-tab-panel =
-    .label = Irrota välilehti
-page-action-unpin-tab-urlbar =
-    .tooltiptext = Irrota välilehti
-
 ## Auto-hide Context Menu
 
 full-screen-autohide =
@@ -478,6 +433,8 @@ urlbar-default-placeholder =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Kirjoita osoite tai hakusana
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Selain on kauko-ohjauksessa
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -510,8 +467,6 @@ urlbar-placeholder-search-mode-other-tabs =
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Hae hakukoneella { $name } tai kirjoita osoite
-urlbar-remote-control-notification-anchor =
-    .tooltiptext = Selain on kauko-ohjauksessa
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -605,6 +560,10 @@ pointerlock-warning-no-domain = Tämä sivu hallitsee hiiren osoitinta. Voit ott
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Osa tästä sivusta kaatui.</strong> Lähetäthän raportin, jotta { -brand-product-name } saa tiedon tästä ja voi korjata ongelman nopeammin.
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = Osa tästä sivusta kaatui. Lähetäthän raportin, jotta { -brand-product-name } saa tiedon tästä ja voi korjata ongelman nopeammin.
 crashed-subframe-learnmore-link =
     .value = Lue lisää
 crashed-subframe-submit =
