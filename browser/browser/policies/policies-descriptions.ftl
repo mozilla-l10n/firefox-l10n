@@ -116,3 +116,4 @@ policy-SupportMenu = Lisää Ohje-valikkoon oma valikkokohta tukea varten.
 policy-UserMessaging = Älä näytä tiettyjä viestejä käyttäjälle.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Estä sivustojen avaaminen. Katso ohjeista lisätietoja käyttötavasta.
+policy-Windows10SSO = Salli Windowsin kertakirjautuminen Microsoft-, työ- ja koulutileille.
