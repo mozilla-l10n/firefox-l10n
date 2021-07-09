@@ -18,6 +18,7 @@ login-filter =
 create-login-button = Creează o autentificare nouă
 fxaccounts-sign-in-text = Obține parolele de pe celelalte dispozitive
 fxaccounts-sign-in-button = Intră în contul de { -sync-brand-short-name }
+fxaccounts-sign-in-sync-button = Autentifică-te pentru a sincroniza
 fxaccounts-avatar-button =
     .title = Gestionează contul
 
@@ -29,6 +30,7 @@ menu =
 about-logins-menu-menuitem-import-from-another-browser = Importă din alt browser…
 about-logins-menu-menuitem-import-from-a-file = Importă dintr-un fișier…
 about-logins-menu-menuitem-export-logins = Exportă date de autentificare…
+about-logins-menu-menuitem-remove-all-logins = Elimină toate autentificările…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Opțiuni
