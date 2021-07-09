@@ -100,6 +100,8 @@ perftools-thread-dns-resolver =
   .title = La risoluzione DNS viene eseguita in questo thread
 perftools-thread-js-helper =
   .title = Lavori in background del motore JS come compilazioni fuori dal thread principale (“off-main-thread”)
+perftools-thread-task-controller =
+  .title = Thread del pool TaskController
 
 ##
 
