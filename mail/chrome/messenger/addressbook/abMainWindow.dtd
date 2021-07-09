@@ -48,7 +48,9 @@
 <!ENTITY editMenu.accesskey                             "G">
 <!ENTITY deleteCmd.label                                "Dileu">
 <!ENTITY deleteAbCmd.label                              "Dileu Llyfr Cyfeiriadau">
+<!ENTITY deleteAbCmd.accesskey                          "D">
 <!ENTITY removeAbCmd.label                              "Tynnu Llyfr Cyfeiriadau">
+<!ENTITY removeAbCmd.accesskey                          "t">
 <!ENTITY deleteContactCmd.label                         "Dileu Cysylltiad">
 <!ENTITY deleteContactsCmd.label                        "Dileu Cysylltiadau">
 <!ENTITY deleteListCmd.label                            "Dileu Rhestr">
