@@ -98,15 +98,17 @@ account-setup-step3-image =
     .title = Konfigurazioa aurkitua
 account-setup-step4-image =
     .title = Konexio errorea
+account-setup-step5-image =
+    .title = Kontua sortua
 account-setup-privacy-footnote = Zure kredentzialak gure <a data-l10n-name="privacy-policy-link"> Pribatutasun-politikaren arabera erabiliko dira </a> eta zure ordenagailuan lokalean bakarrik gordeko dira
 account-setup-selection-help = Ez dakizu zer hautatu?
 account-setup-selection-error = Laguntza bila?
 account-setup-documentation-help = Konfigurazio dokumentazioa
 account-setup-forum-help = Laguntza foroa
+account-setup-getting-started = Nola hasi
 
 ## Results area
 
-account-setup-protocol-title = Hautatu protokoloa
 # Note: IMAP is the name of a protocol.
 account-setup-result-imap = IMAP
 account-setup-result-imap-description = Mantendu zure karpetak eta postak sinkronizatuak zure zerbitzarian
@@ -205,3 +207,9 @@ account-setup-confirm-advanced-description = Elkarrizketa koadro hau itxiko da e
 account-setup-addon-install-title = Instalatu
 account-setup-addon-install-intro = Hirugarren baten gehigarriak ahalbidetu diezazuke sarbidea zure posta elektronikoari zerbitzari honetan:
 account-setup-addon-no-protocol = Posta zerbitzariak zoritzarrez ez ditu onartzen protokolo irekiak. { account-setup-addon-install-intro }
+
+## Success view
+
+
+## Calendar synchronization dialog
+
