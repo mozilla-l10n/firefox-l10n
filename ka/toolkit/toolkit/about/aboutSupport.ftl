@@ -378,6 +378,7 @@ fission-status-disabled-by-default = გამორთული ნაგულ
 fission-status-enabled-by-user-pref = ჩართული მომხმარებლის მიერ
 fission-status-disabled-by-user-pref = გამორთული მომხმარებლის მიერ
 fission-status-disabled-by-e10s-other = E10s გამორთული
+fission-status-enabled-by-rollout = ჩართულია თანდათანობითი დანერგვით
 async-pan-zoom = ასინქრონული პანორამირება/ზომის ცვლილება
 apz-none = არაა
 wheel-enabled = რგოლით შეყვანა ჩართულია
