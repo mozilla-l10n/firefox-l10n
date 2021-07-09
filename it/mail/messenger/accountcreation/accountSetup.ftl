@@ -229,6 +229,7 @@ account-setup-dictionaries-button = Scarica dizionari
 account-setup-address-book-carddav-button = Connetti a una rubrica CardDAV
 account-setup-address-book-ldap-button = Connetti a una rubrica LDAP
 account-setup-calendar-button = Connetti a un calendario remoto
+account-setup-linked-services-title = Connetti servizi collegati
 account-setup-linked-services-description = { -brand-short-name } ha rilevato altri servizi collegati al tuo account di posta.
 account-setup-no-linked-description = Configura altri servizi per ottenere il massimo dalla tua esperienza con { -brand-short-name }.
 # Variables:
