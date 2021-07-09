@@ -429,7 +429,7 @@ urlbar-result-action-search-in-private = Caută într-o fereastră privată
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Caută pe { $engine }
-urlbar-result-action-switch-tab = Comută la fila
+urlbar-result-action-switch-tab = Comută la filă
 urlbar-result-action-visit = Vizitează
 # Directs a user to press the Tab key to perform a search with the specified
 # engine.
