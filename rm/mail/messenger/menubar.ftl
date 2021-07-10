@@ -47,6 +47,12 @@ toolbar-undelete-button =
     .label = Revocar il stizzar
     .tooltiptext = Revocar l'eliminaziun dals messadis tschernids
 
+## View
+
+menu-view-repair-text-encoding =
+    .label = Reparar la codaziun dal text
+    .accesskey = c
+
 ## View / Layout
 
 mail-uidensity-label =

@@ -53,6 +53,21 @@ about-addressbook-sort-email-ascending =
     .label = Zavrar tenor l'adressa d'e-mail (A > Z)
 about-addressbook-sort-email-descending =
     .label = Zavrar tenor l'adressa d'e-mail (Z > A)
+# Variables:
+# $count (Number) - The number of contacts to be deleted.
+about-addressbook-confirm-delete-contacts-title =
+    { $count ->
+        [one] Stizzar il contact
+       *[other] Stizzar ils contacts
+    }
+# Variables:
+# $count (Number) - The number of contacts to be deleted.
+# $name (String) - The name of the contact to be deleted, if $count is 1.
+about-addressbook-confirm-delete-contacts =
+    { $count ->
+        [one] Vuls ti propi stizzar il contact { $name }?
+       *[other] Vuls ti propi stizzar quests { $count } contacts?
+    }
 
 ## Details
 

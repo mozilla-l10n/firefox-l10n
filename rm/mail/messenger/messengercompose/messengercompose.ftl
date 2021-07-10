@@ -11,6 +11,9 @@ remove-address-row-type = Allontanar il champ { $type }
 remove-address-row-type-label =
     .tooltiptext = Allontanar il champ { $type }
 #   $type (String) - the type of the addressing row
+remove-address-row-button =
+    .title = Allontanar il champ { $type }
+#   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type-aria-label =
     { $count ->
@@ -41,6 +44,9 @@ pill-action-move-cc =
 pill-action-move-bcc =
     .label = Spustar a «bcc»
     .accesskey = b
+pill-action-expand-list =
+    .label = Expander la glista
+    .accesskey = x
 
 # Attachment widget
 
@@ -117,8 +123,6 @@ move-attachment-last-panel-button =
 button-return-receipt =
     .label = Retschavida
     .tooltiptext = Dumandar ina conferma da retschavida per quest messadi
-#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
-consider-bcc-notification = Ils { $count } destinaturs en ils champs A e CC vesan l'adressa in da l'auter. Ti pos zuppentar destinaturs cun utilisar Bcc.
 
 # Addressing Area
 
