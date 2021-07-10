@@ -124,13 +124,6 @@ move-attachment-last-panel-button =
 button-return-receipt =
     .label = Potvrzení o přijetí
     .tooltiptext = Zažádá o potvrzení o přijetí této zprávy
-#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
-consider-bcc-notification =
-    { $count ->
-        [one] { "" }
-        [few] Celkem { $count } adresáti v polích Komu a Kopie navzájem uvidí své adresy. Pokud se tomu chcete vyhnout, použijte pole Skrytá kopie.
-       *[other] Celkem { $count } adresátů v polích Komu a Kopie navzájem uvidí své adresy. Pokud se tomu chcete vyhnout, použijte pole Skrytá kopie.
-    }
 
 # Addressing Area
 
@@ -183,3 +176,5 @@ many-public-recipients-ignore =
 # Variables:
 # $identity (string) - The name of the used identity, most likely an email address.
 compose-missing-identity-warning = Unikátní identita odpovídající adrese odesílatele nebyla nalezena. Zpráva bude odeslána s pomocí současné adresy odesílatele a nastavení pro identitu { $identity }.
+encrypted-bcc-warning = Při odesílání zašifrované zprávy nejsou příjemci v Bcc zcela skrytí. Všichni příjemci je mohou identifikovat.
+encrypted-bcc-ignore-button = Rozumím

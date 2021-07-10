@@ -5,6 +5,15 @@
 e2e-intro-description = Abyste mohli odesílat zašifrované nebo elektronicky podepsané zprávy, musíte nastavit technologii šifrování, buď OpenPGP nebo S/MIME.
 e2e-intro-description-more = Chcete-li používat OpenPGP, vyberte svůj osobní klíč, chcete-li používat S/MIME, vyberte svůj osobní certifikát. Pro osobní klíč nebo certifikát vlastníte odpovídající tajný klíč.
 e2e-advanced-section = Pokročilé nastavení
+e2e-attach-key =
+    .label = Při odeslání digitálního podpisu OpenPGP připojit také veřejný klíč
+    .accesskey = p
+e2e-encrypt-subject =
+    .label = Šifrovat předmět OpenPGP zpráv
+    .accesskey = d
+e2e-encrypt-drafts =
+    .label = Ukládat koncepty zašifrované
+    .accesskey = r
 openpgp-key-user-id-label = Účet / ID uživatele
 openpgp-keygen-title-label =
     .title = Vytvořit klíč OpenPGP

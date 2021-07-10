@@ -14,3 +14,4 @@ openpgp-compose-key-status-open-details = Spravovat klíče pro vybraného pří
 openpgp-recip-good = v pořádku
 openpgp-recip-missing = žádný klíč není k dispozici
 openpgp-recip-none-accepted = žádný přijatý klíč
+openpgp-compose-general-info-alias-learn-more = Zjistit více
