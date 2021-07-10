@@ -46,7 +46,7 @@ login-list =
     .aria-label = Date de autentificare corespondente criteriilor de căutare
 login-list-count =
     { $count ->
-        [one] { $count } dată de autentificare
+        [one] { $count } autentificare
         [few] { $count } date de autentificare
        *[other] { $count } de date de autentificare
     }
@@ -60,7 +60,7 @@ login-list-intro-title = Nicio autentificare găsită
 login-list-intro-description = Când salvezi o parolă în { -brand-product-name }, va apărea aici.
 about-logins-login-list-empty-search-title = Nu s-au găsit date de autentificare
 about-logins-login-list-empty-search-description = Nu există rezultate care să corespundă căutării.
-login-list-item-title-new-login = Date de autentificare noi
+login-list-item-title-new-login = Autentificare nouă
 login-list-item-subtitle-new-login = Introdu datele tale de autentificare
 login-list-item-subtitle-missing-username = (niciun nume de utilizator)
 about-logins-list-item-breach-icon =
@@ -87,6 +87,7 @@ login-item-new-login-title = Creează o autentificare nouă
 login-item-edit-button = Editează
 about-logins-login-item-remove-button = Elimină
 login-item-origin-label = Adresa site-ului web
+login-item-tooltip-message = Asigură-te că aceasta se potrivește cu adresa exactă a site-ului web unde te autentifici.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Nume de utilizator
