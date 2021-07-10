@@ -165,53 +165,6 @@ page-action-remove-from-urlbar =
 page-action-remove-extension =
     .label = Odebrat rozšíření
 
-## Page Action menu
-
-# Variables
-# $tabCount (integer) - Number of tabs selected
-page-action-send-tabs-panel =
-    .label =
-        { $tabCount ->
-            [one] Poslat panel do zařízení
-            [few] Poslat { $tabCount } panely do zařízení
-           *[other] Poslat { $tabCount } panelů do zařízení
-        }
-page-action-send-tabs-urlbar =
-    .tooltiptext =
-        { $tabCount ->
-            [one] Poslat panel do zařízení
-            [few] Poslat { $tabCount } panely do zařízení
-           *[other] Poslat { $tabCount } panelů do zařízení
-        }
-page-action-copy-url-panel =
-    .label = Kopírovat odkaz
-page-action-copy-url-urlbar =
-    .tooltiptext = Kopírovat odkaz
-page-action-email-link-panel =
-    .label = Poslat odkaz e-mailem…
-page-action-email-link-urlbar =
-    .tooltiptext = Poslat odkaz e-mailem…
-page-action-share-url-panel =
-    .label = Sdílet
-page-action-share-url-urlbar =
-    .tooltiptext = Sdílet
-page-action-share-more-panel =
-    .label = Více…
-page-action-send-tab-not-ready =
-    .label = Synchronizace zařízení…
-# "Pin" is being used as a metaphor for expressing the fact that these tabs
-# are "pinned" to the left edge of the tabstrip. Really we just want the
-# string to express the idea that this is a lightweight and reversible
-# action that keeps your tab where you can reach it easily.
-page-action-pin-tab-panel =
-    .label = Připnout panel
-page-action-pin-tab-urlbar =
-    .tooltiptext = Připnout panel
-page-action-unpin-tab-panel =
-    .label = Odepnout panel
-page-action-unpin-tab-urlbar =
-    .tooltiptext = Odepnout panel
-
 ## Auto-hide Context Menu
 
 full-screen-autohide =
@@ -516,6 +469,8 @@ urlbar-default-placeholder =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Zadejte webovou adresu nebo dotaz pro vyhledávač
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Prohlížeč je ovládán vzdáleně
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -548,8 +503,6 @@ urlbar-placeholder-search-mode-other-tabs =
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Zadejte webovou adresu nebo dotaz pro vyhledávač { $name }
-urlbar-remote-control-notification-anchor =
-    .tooltiptext = Prohlížeč je ovládán vzdáleně
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -649,6 +602,16 @@ crashed-subframe-message =
         [neuter] { -brand-product-name(case: "gen") }
        *[other] aplikace { -brand-product-name }
     } tento problém nahlásit pro zrychlení opravy, odešlete prosím hlášení.
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title =
+        Část této stránky spadla. Pokud chcete autorům { -brand-product-name.gender ->
+            [masculine] { -brand-product-name(case: "gen") }
+            [feminine] { -brand-product-name(case: "gen") }
+            [neuter] { -brand-product-name(case: "gen") }
+           *[other] aplikace { -brand-product-name }
+        } tento problém nahlásit pro zrychlení opravy, odešlete prosím hlášení.
 crashed-subframe-learnmore-link =
     .value = Zjistit více
 crashed-subframe-submit =
