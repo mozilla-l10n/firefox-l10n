@@ -48,6 +48,7 @@
 <!ENTITY editMenu.accesskey                             "M">
 <!ENTITY deleteCmd.label                                "Stizzar">
 <!ENTITY deleteAbCmd.label                              "Stizzar il cudeschet d'adressas">
+<!ENTITY removeAbCmd.label                              "Allontanar il cudeschet d'adressas">
 <!ENTITY deleteContactCmd.label                         "Stizzar il contact">
 <!ENTITY deleteContactsCmd.label                        "Stizzar ils contacts">
 <!ENTITY deleteListCmd.label                            "Stizzar la glista">
@@ -140,6 +141,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.label                            "Stizzar">
 <!ENTITY deleteButton2.accesskey                        "z">
 
+<!ENTITY removeButton.label                             "Allontanar">
+<!ENTITY removeButton.accesskey                         "r">
+
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY columnChooser.tooltip                          "Tscherner las colonnas per mussar">
 <!ENTITY newContactButton.tooltip                       "Crear in nov contact">
@@ -151,6 +155,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.tooltip                           "Scriver in nov e-mail">
 <!ENTITY newIM.tooltip                                  "Scriver in nov messadi immediat (instant message) u in nov chat">
 <!ENTITY deleteButton2.tooltip                          "Stizzar l'element tschernì">
+
+<!ENTITY removeButton.tooltip                           "Allontanar il cudeschet d'adressas tschernì">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Num u e-mail">
