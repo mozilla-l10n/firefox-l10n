@@ -48,7 +48,9 @@
 <!ENTITY editMenu.accesskey                             "a">
 <!ENTITY deleteCmd.label                                "Smazat">
 <!ENTITY deleteAbCmd.label                              "Smazat složku kontaktů">
+<!ENTITY deleteAbCmd.accesskey                          "S">
 <!ENTITY removeAbCmd.label                              "Smazat složku kontaktů">
+<!ENTITY removeAbCmd.accesskey                          "S">
 <!ENTITY deleteContactCmd.label                         "Smazat kontakt">
 <!ENTITY deleteContactsCmd.label                        "Smazat kontakty">
 <!ENTITY deleteListCmd.label                            "Smazat seznam">
