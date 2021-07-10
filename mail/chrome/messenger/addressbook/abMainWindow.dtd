@@ -48,7 +48,9 @@
 <!ENTITY editMenu.accesskey                             "а">
 <!ENTITY deleteCmd.label                                "Удалить">
 <!ENTITY deleteAbCmd.label                              "Удалить адресную книгу">
+<!ENTITY deleteAbCmd.accesskey                          "л">
 <!ENTITY removeAbCmd.label                              "Удалить адресную книгу">
+<!ENTITY removeAbCmd.accesskey                          "л">
 <!ENTITY deleteContactCmd.label                         "Удалить контакт">
 <!ENTITY deleteContactsCmd.label                        "Удалить контакты">
 <!ENTITY deleteListCmd.label                            "Удалить список">
