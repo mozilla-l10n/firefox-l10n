@@ -274,7 +274,7 @@ account-setup-calendar-name-label = Имя
 account-setup-calendar-name-input =
     .placeholder = Мой календарь
 account-setup-calendar-color-label = Цвет
-account-setup-calendar-refresh-label = Обновить
+account-setup-calendar-refresh-label = Обновлять
 account-setup-calendar-refresh-manual = Вручную
 account-setup-calendar-refresh-interval =
     { $count ->
