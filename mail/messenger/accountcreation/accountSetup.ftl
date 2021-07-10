@@ -10,6 +10,8 @@ account-setup-title = Nastavit existující e-mailový účet
 account-setup-description =
     Pro použití existující e-mailové adresy vyplňte své přihlašovací údaje.<br/>
     { -brand-product-name } se pokusí automaticky najít funkční a doporučené nastavení serveru.
+account-setup-secondary-description = { -brand-product-name } automaticky vyhledá funkční a doporučenou konfiguraci serveru.
+account-setup-success-title = Účet byl úspěšně vytvořen
 
 ## Form fields
 
@@ -247,8 +249,12 @@ account-setup-settings-button = Nastavení účtu
 account-setup-encryption-button = Koncové šifrování
 account-setup-signature-button = Přidat podpis
 account-setup-dictionaries-button = Stáhnout slovníky
+account-setup-address-book-carddav-button = Připojit adresář CardDAV
+account-setup-address-book-ldap-button = Připojit adresář LDAP
 account-setup-calendar-button = Připojit vzdálený kalendář
-account-setup-linked-services-title = Připojit propojené služby
+account-setup-linked-services-title = Připojení propojených služeb
+account-setup-button-finish = Dokončit
+    .accesskey = D
 account-setup-looking-up-address-books = Vyhledávání adresářů…
 account-setup-looking-up-calendars = Vyhledávání kalendářů…
 account-setup-address-books-button = Adresáře
@@ -264,13 +270,25 @@ account-setup-connect-all-address-books = Připojit všechny adresáře
 ## Calendar synchronization dialog
 
 calendar-dialog-title = Připojení kalendáře
+calendar-dialog-cancel-button = Zrušit
+    .accesskey = Z
+calendar-dialog-confirm-button = Připojit
+    .accesskey = P
 account-setup-calendar-name-label = Název
 account-setup-calendar-name-input =
     .placeholder = Můj kalendář
 account-setup-calendar-color-label = Barva
 account-setup-calendar-refresh-label = Obnovit
 account-setup-calendar-refresh-manual = Ručně
+account-setup-calendar-refresh-interval =
+    { $count ->
+        [one] Jednou za minutu
+        [few] Každé { $count } minuty
+       *[other] Každých { $count } minut
+    }
 account-setup-calendar-read-only = Pouze pro čtení
     .accesskey = r
 account-setup-calendar-show-reminders = Zobrazovat upozornění
     .accesskey = Z
+account-setup-calendar-offline-support = Podpora režimu offline
+    .accesskey = o
