@@ -13,6 +13,7 @@ update-updateButton =
     .accesskey = R
 update-checkingForUpdates = Se caută actualizări…
 update-downloading = <img data-l10n-name="icon"/>Se descarcă actualizarea — <label data-l10n-name="download-status"/>
+update-downloading-message = Se descarcă actualizarea — <label data-l10n-name="download-status"/>
 update-applying = Se aplică actualizarea…
 update-failed = Actualizare eșuată. <label data-l10n-name="failed-link">Descarcă cea mai recentă versiune</label>
 update-failed-main = Actualizare eșuată. <a data-l10n-name="failed-link-main">Descarcă cea mai recentă versiune</a>
