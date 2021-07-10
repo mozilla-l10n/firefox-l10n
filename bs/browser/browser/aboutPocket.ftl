@@ -15,6 +15,7 @@ pocket-panel-saved-error-generic = Došlo je do greške prilikom spašavanja u {
 pocket-panel-saved-error-tag-length = Tagovi su ograničeni na 25 znakova
 pocket-panel-saved-error-only-links = Jedino linkovi mogu biti spašeni
 pocket-panel-saved-error-not-saved = Stranica nije spašena
+pocket-panel-saved-error-no-internet = Morate biti povezani na internet kako biste spasili u { -pocket-brand-name }. Molimo da se povežete na internet i pokušate ponovo.
 pocket-panel-saved-page-removed = Stranica uklonjena
 pocket-panel-saved-page-saved = Spašeno u { -pocket-brand-name }
 pocket-panel-saved-processing-remove = Uklanjam stranicu…
@@ -40,3 +41,9 @@ pocket-panel-signup-tagline-story-two = Pregledajte u { -pocket-brand-name }u na
 
 ## about:pocket-home panel
 
+pocket-panel-home-my-list = Moja lista
+pocket-panel-home-welcome-back = Dobrodošli nazad
+pocket-panel-home-paragraph = Možete koristiti { -pocket-brand-name } da istražite i spasite web stranice, članke, video, podcaste, ili da se vratite na ono što ste ranije čitali.
+pocket-panel-home-explore-popular-topics = Istražite popularne teme
+pocket-panel-home-discover-more = Istražite više
+pocket-panel-home-explore-more = Istraži
