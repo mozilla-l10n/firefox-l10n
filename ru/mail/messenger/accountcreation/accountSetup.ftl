@@ -10,6 +10,9 @@ account-setup-title = Настройка имеющейся у вас учётн
 account-setup-description =
     Чтобы использовать текущий адрес электронной почты, введите свои учетные данные. <br/>
     { -brand-product-name } автоматически выполнит поиск рабочей и рекомендованной конфигурации сервера.
+account-setup-secondary-description = { -brand-product-name } автоматически выполнит поиск рабочей и рекомендованной конфигурации сервера.
+account-setup-success-title = Учётная запись успешно создана
+account-setup-success-description = Теперь вы можете использовать эту учётную запись в { -brand-short-name }.
 
 ## Form fields
 
@@ -98,11 +101,15 @@ account-setup-step3-image =
     .title = Конфигурация найдена
 account-setup-step4-image =
     .title = Ошибка соединения
+account-setup-step5-image =
+    .title = Учётная запись создана
 account-setup-privacy-footnote = Ваши учётные данные будут использоваться в соответствии с нашей <a data-l10n-name="privacy-policy-link"> политикой конфиденциальности </a> и будут храниться только на вашем компьютере.
 account-setup-selection-help = Не знаете, что выбрать?
 account-setup-selection-error = Нужна помощь?
+account-setup-success-help = Не уверены в своих следующих шагах?
 account-setup-documentation-help = Документация по настройке
 account-setup-forum-help = Форум поддержки
+account-setup-getting-started = Начало работы
 
 ## Results area
 
@@ -212,3 +219,18 @@ account-setup-confirm-advanced-description = Это диалоговое окн�
 account-setup-addon-install-title = Установка
 account-setup-addon-install-intro = Вы можете получить доступ к учётной записи электронной почты на этом сервере с помощью стороннего дополнения:
 account-setup-addon-no-protocol = К сожалению, этот почтовый сервер не поддерживает открытые протоколы. { account-setup-addon-install-intro }
+
+## Success view
+
+account-setup-settings-button = Параметры учётной записи
+account-setup-encryption-button = Сквозное шифрование
+account-setup-signature-button = Добавить подпись
+account-setup-dictionaries-button = Загрузить словари
+account-setup-address-book-carddav-button = Подключиться к адресной книге CardDAV
+account-setup-address-book-ldap-button = Подключиться к адресной книге LDAP
+account-setup-calendar-button = Подключиться к удаленному календарю
+account-setup-linked-services-title = Подключить связанные службы
+account-setup-linked-services-description = { -brand-short-name } обнаружил другие службы, связанные с вашей учётной записью почты.
+
+## Calendar synchronization dialog
+
