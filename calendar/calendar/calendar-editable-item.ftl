@@ -22,3 +22,5 @@ calendar-editable-item-reminder-icon-suppressed-alarm =
     .alt = In avis da promemoria è planisà, ma actualmain supprimì
 calendar-editable-item-reminder-icon-email =
     .alt = In e-mail da promemoria è planisà
+calendar-editable-item-reminder-icon-audio =
+    .alt = Ina promemoria cun tun è planisada
