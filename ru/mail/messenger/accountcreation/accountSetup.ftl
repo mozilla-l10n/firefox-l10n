@@ -13,6 +13,7 @@ account-setup-description =
 account-setup-secondary-description = { -brand-product-name } автоматически выполнит поиск рабочей и рекомендованной конфигурации сервера.
 account-setup-success-title = Учётная запись успешно создана
 account-setup-success-description = Теперь вы можете использовать эту учётную запись в { -brand-short-name }.
+account-setup-success-secondary-description = Вы можете добавить функциональность, подсоединив связанные службы и настроив дополнительные параметры учётной записи.
 
 ## Form fields
 
@@ -231,6 +232,43 @@ account-setup-address-book-ldap-button = Подключиться к адрес�
 account-setup-calendar-button = Подключиться к удаленному календарю
 account-setup-linked-services-title = Подключить связанные службы
 account-setup-linked-services-description = { -brand-short-name } обнаружил другие службы, связанные с вашей учётной записью почты.
+account-setup-no-linked-description = Настройте другие службы, чтобы максимально использовать возможности { -brand-short-name }.
+account-setup-button-finish = Завершить
+    .accesskey = ш
+account-setup-looking-up-address-books = Поиск адресных книг…
+account-setup-looking-up-calendars = Поиск календарей…
+account-setup-address-books-button = Адресные книги
+account-setup-calendars-button = Календари
+account-setup-connect-link = Подключить
+account-setup-existing-address-book = Подключена
+    .title = Адресная книга уже подключена
+account-setup-existing-calendar = Подключён
+    .title = Календарь уже подключён
+account-setup-connect-all-calendars = Подключить все календари
+account-setup-connect-all-address-books = Подключить все адресные книги
 
 ## Calendar synchronization dialog
 
+calendar-dialog-title = Подключить календарь
+calendar-dialog-cancel-button = Отмена
+    .accesskey = м
+calendar-dialog-confirm-button = Подключить
+    .accesskey = ю
+account-setup-calendar-name-label = Имя
+account-setup-calendar-name-input =
+    .placeholder = Мой календарь
+account-setup-calendar-color-label = Цвет
+account-setup-calendar-refresh-label = Обновить
+account-setup-calendar-refresh-manual = Вручную
+account-setup-calendar-refresh-interval =
+    { $count ->
+        [one] Каждую { $count } минуту
+        [few] Каждые { $count } минуты
+       *[many] Каждые { $count } минут
+    }
+account-setup-calendar-read-only = Только для чтения
+    .accesskey = о
+account-setup-calendar-show-reminders = Показывать напоминания
+    .accesskey = к
+account-setup-calendar-offline-support = Поддержка автономной работы
+    .accesskey = в
