@@ -371,6 +371,7 @@ support-printing-prefs-value = Valoare
 
 support-remote-experiments-title = Experimente la distanță
 support-remote-experiments-name = Nume
+support-remote-experiments-see-about-studies = Consultă <a data-l10n-name="support-about-studies-link">about:studies</a> pentru mai multe informații, inclusiv cum să dezactivezi experimentele individuale sau cum să împiedici { -brand-short-name } să ruleze acest tip de experiment în viitor.
 support-remote-features-title = Funcții la distanță
 support-remote-features-name = Nume
 support-remote-features-status = Stare
