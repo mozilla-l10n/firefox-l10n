@@ -40,7 +40,7 @@ protections-panel-not-blocking-why-etp-off-tooltip = Toate elementele de urmări
 
 protections-panel-no-trackers-found = Nu s-a detectat niciun element de urmărire cunoscut de { -brand-short-name } pe această pagină.
 protections-panel-content-blocking-tracking-protection = Conținut de urmărire
-protections-panel-content-blocking-socialblock = Elemente de urmărire de pe rețele de socializare
+protections-panel-content-blocking-socialblock = Elemente de urmărire ale rețelelor sociale
 protections-panel-content-blocking-cryptominers-label = Criptomineri
 protections-panel-content-blocking-fingerprinters-label = Generatoare de amprente digitale
 

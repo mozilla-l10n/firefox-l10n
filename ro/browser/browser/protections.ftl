@@ -41,7 +41,7 @@ protection-report-manage-protections = Gestionează setările
 graph-today = Astăzi
 # This string is used to describe the graph for screenreader users.
 graph-legend-description = Un grafic ce conține numărul total de elemente de urmărire din fiecare tip blocate în această săptămână.
-social-tab-title = Elemente de urmărire de pe rețele de socializare
+social-tab-title = Elemente de urmărire ale rețelelor sociale
 social-tab-contant = Rețelele de socializare plasează elemente de urmărire pe alte site-uri web pentru a urmări ce faci, ce vezi și ce urmărești online. Ele permit firmelor care dețin rețelele de socializare să afle mai multe despre tine, dincolo de ce partajezi pe profilurile de pe rețelele de socializare. <a data-l10n-name="learn-more-link">Află mai multe</a>
 cookie-tab-title = Cookie-uri de urmărire inter-site-uri
 cookie-tab-content = Aceste cookie-uri te urmăresc de pe un site pe altul și adună date despre ce faci online. Acestea sunt setate de părți terțe, precum agenții de publicitate și companiile de analitică. Blocarea cookie-urilor de urmărire inter-site-uri reduce numărul de reclame care se țin după tine. <a data-l10n-name="learn-more-link">Află mai multe</a>
@@ -184,12 +184,12 @@ monitor-resolve-breaches-link = Rezolvă încălcările securității datelor
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
 bar-tooltip-social =
-    .title = Elemente de urmărire de pe rețele de socializare
+    .title = Elemente de urmărire ale rețelelor sociale
     .aria-label =
         { $count ->
-            [one] { $count } element de urmărire de pe rețele de socializare ({ $percentage }%)
-            [few] { $count } elemente de urmărire de pe rețele de socializare ({ $percentage }%)
-           *[other] { $count } de elemente de urmărire de pe rețele de socializare ({ $percentage }%)
+            [one] { $count } element de urmărire a rețelelor sociale ({ $percentage }%)
+            [few] { $count } elemente de urmărire ale rețelelor sociale ({ $percentage }%)
+           *[other] { $count } de elemente de urmărire ale rețelelor sociale ({ $percentage }%)
         }
 bar-tooltip-cookie =
     .title = Cookie-uri de urmărire inter-site-uri
