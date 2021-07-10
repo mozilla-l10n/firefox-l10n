@@ -28,6 +28,16 @@ about-addressbook-books-context-print =
     .label = Stampar…
 about-addressbook-books-context-delete =
     .label = Stizzar
+about-addressbook-books-context-remove =
+    .label = Allontanar
+about-addressbook-confirm-delete-book-title = Stizzar il cudeschet d'adressas
+# Variables:
+# $name (String) - Name of the address book to be deleted.
+about-addressbook-confirm-delete-book = Vuls ti propi stizzar { $name } e tut ils contacts cuntegnids?
+about-addressbook-confirm-remove-remote-book-title = Allontanar il cudeschet d'adressas
+# Variables:
+# $name (String) - Name of the remote address book to be removed.
+about-addressbook-confirm-remove-remote-book = Vuls ti propi allontanar { $name }?
 
 ## Cards
 
@@ -53,6 +63,41 @@ about-addressbook-sort-email-ascending =
     .label = Zavrar tenor l'adressa d'e-mail (A > Z)
 about-addressbook-sort-email-descending =
     .label = Zavrar tenor l'adressa d'e-mail (Z > A)
+about-addressbook-confirm-delete-mixed-title = Stizzar contacts e glistas
+# Variables:
+# $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
+about-addressbook-confirm-delete-mixed = Es ti segir che ti vuls stizzar quests { $count } contacts e glistas?
+# Variables:
+# $count (Number) - The number of lists to be deleted.
+about-addressbook-confirm-delete-lists-title =
+    { $count ->
+        [one] Stizzar la glista
+       *[other] Stizzar las glistas
+    }
+# Variables:
+# $count (Number) - The number of lists to be deleted.
+# $name (String) - The name of the list to be deleted, if $count is 1.
+about-addressbook-confirm-delete-lists =
+    { $count ->
+        [one] Vuls ti propi stizzar la glista { $name }?
+       *[other] Vuls ti propi stizzar questas { $count } glistas?
+    }
+# Variables:
+# $count (Number) - The number of contacts to be removed.
+about-addressbook-confirm-remove-contacts-title =
+    { $count ->
+        [one] Allontanar il contact
+       *[other] Allontanar ils contacts
+    }
+# Variables:
+# $count (Number) - The number of contacts to be removed.
+# $name (String) - The name of the contact to be removed, if $count is 1.
+# $list (String) - The name of the list that contacts will be removed from.
+about-addressbook-confirm-remove-contacts =
+    { $count ->
+        [one] Vuls ti propi allontanar { $name } da la glista { $list }?
+       *[other] Vuls ti propi allontanar quests { $count } contacts da la glista { $list }?
+    }
 # Variables:
 # $count (Number) - The number of contacts to be deleted.
 about-addressbook-confirm-delete-contacts-title =
