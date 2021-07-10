@@ -11,11 +11,23 @@ unread-messages-os-tooltip =
     }
 about-rights-notification-text = { -brand-short-name } è in program gratuit ed open-source, realisà dad ina communitad da millis persunas da tut il mund.
 
+## Content tabs
+
+content-tab-page-loading-icon =
+    .alt = La pagina vegn chargiada
+content-tab-security-high-icon =
+    .alt = La connexiun è segirada
+content-tab-security-broken-icon =
+    .alt = La connexiun n'è betg segirada
+
 ## Toolbar
 
-addons-and-themes-button =
+addons-and-themes-toolbarbutton =
     .label = Supplements e designs
-    .tooltip = Administrescha tes supplements
+    .tooltiptext = Administrar tes supplements
+quick-filter-toolbarbutton =
+    .label = Filtrar svelt
+    .tooltiptext = Filtrar messadis
 redirect-msg-button =
     .label = Renviar
     .tooltiptext = Renviar il messadi tschernì
@@ -109,3 +121,9 @@ message-header-address-not-in-address-book-icon =
 addon-removal-title = Allontanar { $name }?
 addon-removal-confirmation-button = Allontanar
 addon-removal-confirmation-message = Allontanar { $name } sco era sia configuraziun e sias datas da { -brand-short-name }?
+caret-browsing-prompt-title = Navigar cun il cursur da text
+caret-browsing-prompt-text = Cun smatgar F7 vegn Caret browsing activà u deactivà. Questa funcziun plazzescha en tschert cuntegn in cursur movibel che pussibilitescha da selecziunar text cun agid da la tastatura. Vuls ti activar Caret browsing?
+caret-browsing-prompt-check-text = Betg pli dumandar.
+repair-text-encoding-button =
+    .label = Reparar la codaziun dal text
+    .tooltiptext = Engiavinar la codaziun correcta dal text dal cuntegn dal messadi
