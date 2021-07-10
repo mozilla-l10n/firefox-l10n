@@ -17,3 +17,6 @@ toolbar-context-menu-remove-from-toolbar =
 toolbar-context-menu-view-customize-toolbar =
     .label = Prilagođavanje…
     .accesskey = P
+toolbar-context-menu-view-customize-toolbar-2 =
+    .label = Prilagodi alatnu traku…
+    .accesskey = C

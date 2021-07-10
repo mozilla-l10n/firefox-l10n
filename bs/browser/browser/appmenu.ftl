@@ -99,14 +99,43 @@ profiler-popup-reveal-description-button =
     .aria-label = Prikaži više informacija
 profiler-popup-description-title =
     .value = Snimite, analizirajte, dijelite
+profiler-popup-description = Sarađujte na problemima performansi objavljivanjem profila koje ćete podijeliti sa svojim timom.
 profiler-popup-learn-more = Saznajte više
 profiler-popup-settings =
     .value = Postavke
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Uredi postavke…
+profiler-popup-disabled =
+    Profiler je trenutno onemogućen, najvjerovatnije zbog otvorenog prozora
+    Privatnog surfanja.
+profiler-popup-recording-screen = Snimam…
+# The profiler presets list is generated elsewhere, but the custom preset is defined
+# here only.
+profiler-popup-presets-custom =
+    .label = Prilagođeno
+profiler-popup-start-recording-button =
+    .label = Započni snimanje
+profiler-popup-discard-button =
+    .label = Odbaci
+profiler-popup-capture-button =
+    .label = Snimaj
+profiler-popup-start-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧1
+       *[other] Ctrl+Shift+1
+    }
+profiler-popup-capture-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧2
+       *[other] Ctrl+Shift+2
+    }
 
 ## History panel
 
+appmenu-manage-history =
+    .label = Upravljanje historijom
+appmenu-reopen-all-tabs = Otvori sve tabove
+appmenu-reopen-all-windows = Otvori sve prozore
 appmenu-restore-session =
     .label = Vrati prethodnu sesiju
 appmenu-clear-history =
@@ -119,9 +148,14 @@ appmenu-recently-closed-windows =
 
 ## Help panel
 
+appmenu-help-header =
+    .title = { -brand-shorter-name } pomoć
 appmenu-about =
     .label = O { -brand-shorter-name }u
     .accesskey = O
+appmenu-get-help =
+    .label = Pomoć
+    .accesskey = h
 appmenu-help-report-site-issue =
     .label = Prijavite problem sa stranicom…
 appmenu-help-feedback-page =
@@ -144,5 +178,10 @@ appmenu-help-not-deceptive =
 
 ## More Tools
 
+appmenu-customizetoolbar =
+    .label = Prilagodi alatnu traku…
 appmenu-taskmanager =
     .label = Task Manager
+appmenu-developer-tools-subheader = Alati browsera
+appmenu-developer-tools-extensions =
+    .label = Ekstenzije za developere

@@ -15,7 +15,6 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = Traži
     .aria-label = Traži
-
 newtab-search-box-search-the-web-text = Pretraži web
 newtab-search-box-search-the-web-input =
     .placeholder = Pretraži web
@@ -29,12 +28,10 @@ newtab-topsites-edit-topsites-header = Uredi najbolju stranicu
 newtab-topsites-title-label = Naslov
 newtab-topsites-title-input =
     .placeholder = Unesi naslov
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Upišite ili zalijepite URL
 newtab-topsites-url-validation = Potrebno je unijeti ispravan URL
-
 newtab-topsites-image-url-label = Prilagođena URL slika
 newtab-topsites-use-image-link = Koristite prilagođenu sliku…
 newtab-topsites-image-validation = Neuspjelo učitavanje slike. Probajte drugi URL.
@@ -47,13 +44,14 @@ newtab-topsites-save-button = Sačuvaj
 newtab-topsites-preview-button = Pregled
 newtab-topsites-add-button = Dodaj
 
-## Top Sites - Delete history confirmation dialog. 
-
 ## Top Sites - Delete history confirmation dialog.
 
 newtab-confirm-delete-history-p1 = Jeste li sigurni da želite izbrisati sve primjere ove stranice iz vaše historije?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Ova radnja se ne može opozvati.
+
+## Top Sites - Sponsored label
+
 
 ## Context Menu - Action Tooltips.
 
@@ -77,15 +75,13 @@ newtab-menu-archive-pocket = Arhiviraj u { -pocket-brand-name }
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
+
 ##
 
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Ukloni zabilješku
 # Bookmark is a verb here.
 newtab-menu-bookmark = Zabilježi
-
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
-## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
@@ -111,12 +107,18 @@ newtab-menu-open-file = Otvori datoteku
 
 newtab-label-visited = Posjećeno
 newtab-label-bookmarked = Zabilježeno
+newtab-label-removed-bookmark = Zabilješka uklonjena
 newtab-label-recommended = Popularno
 newtab-label-saved = Sačuvano u { -pocket-brand-name }
 newtab-label-download = Preuzeto
-
-## Section Menu: These strings are displayed in the section context menu and are 
-## meant as a call to action for the given section.
+# This string is used in the story cards to indicate sponsored content
+# Variables:
+#  $sponsorOrSource (String): This is the name of a company or their domain
+newtab-label-sponsored = { $sponsorOrSource } · Sponzorisano
+# This string is used at the bottom of story cards to indicate sponsored content
+# Variables:
+#  $sponsor (String): This is the name of a sponsor
+newtab-label-sponsored-by = Sponzorisano od { $sponsor }
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -132,6 +134,7 @@ newtab-section-menu-privacy-notice = Polica privatnosti
 
 ## Section aria-labels
 
+
 ## Section Headers.
 
 newtab-section-header-topsites = Najposjećenije stranice
@@ -143,14 +146,13 @@ newtab-section-header-pocket = Preporučeno od { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Započnite pretraživati i pokazat ćemo vam neke od izvrsnih članaka, videa i drugih web stranica prema vašim nedavno posjećenim stranicama ili zabilješkama.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Provjerite kasnije za više najpopularnijih priča od { $provider }. Ne možete čekati? Odaberite popularne teme kako biste pronašli više kvalitetnih priča s cijelog weba.
 
-
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
+
 
 ## Pocket Content Section.
 
@@ -162,3 +164,6 @@ newtab-pocket-read-more = Popularne teme:
 
 newtab-error-fallback-info = Ups, došlo je do greške pri učitavanju ovog sadržaja.
 newtab-error-fallback-refresh-link = Osvježite stranicu da biste pokušali ponovo.
+
+## Customization Menu
+

@@ -23,7 +23,7 @@ browser-main-window =
 # there is no content title:
 #
 # "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
+# "private" - "Mozilla Firefox — (Private Browsing)"
 #
 # The last two are for use when there *is* a content title.
 # Do not use the brand name in the last two attributes, as we do on non-macOS.
@@ -85,6 +85,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Pohrani podatke u trajno spremište
 urlbar-addons-notification-anchor =
     .tooltiptext = Otvori panel s porukama instalacije add-ona
+urlbar-tip-help-icon =
+    .title = Pomoć
 urlbar-search-tips-confirm = OK, razumijem
 # Read out before Urlbar Tip text content so screenreader users know the
 # subsequent text is a tip offered by the browser. It should end in a colon or
@@ -140,35 +142,6 @@ page-action-manage-extension =
     .label = Upravljanje ekstenzijom…
 page-action-remove-from-urlbar =
     .label = Ukloni iz adresne trake
-
-## Page Action menu
-
-page-action-copy-url-panel =
-    .label = Kopiraj link
-page-action-copy-url-urlbar =
-    .tooltiptext = Kopiraj link
-page-action-email-link-panel =
-    .label = Pošalji link emailom…
-page-action-email-link-urlbar =
-    .tooltiptext = Pošalji link emailom…
-page-action-share-url-panel =
-    .label = Podijeli
-page-action-share-url-urlbar =
-    .tooltiptext = Podijeli
-page-action-send-tab-not-ready =
-    .label = Sinhronizujem uređaje…
-# "Pin" is being used as a metaphor for expressing the fact that these tabs
-# are "pinned" to the left edge of the tabstrip. Really we just want the
-# string to express the idea that this is a lightweight and reversible
-# action that keeps your tab where you can reach it easily.
-page-action-pin-tab-panel =
-    .label = Zakači tab
-page-action-pin-tab-urlbar =
-    .tooltiptext = Zakači tab
-page-action-unpin-tab-panel =
-    .label = Otkači tab
-page-action-unpin-tab-urlbar =
-    .tooltiptext = Otkači tab
 
 ## Auto-hide Context Menu
 
@@ -314,6 +287,8 @@ popup-all-windows-shared = Svi vidljivi prozori na vašem ekranu će biti podije
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Unesite termin za pretragu ili adresu
+# This placeholder is used when not in search mode and the user's default search
+# engine is unknown.
 urlbar-placeholder =
     .placeholder = Unesite termin za pretragu ili adresu
 urlbar-remote-control-notification-anchor =
@@ -367,8 +342,6 @@ pointerlock-warning-no-domain = Ovaj dokument ima kontrolu nad vašim pointerom.
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = Prikaži sve zabilješke
 bookmarks-toolbar-chevron =
     .tooltiptext = Prikaži više zabilješki
 bookmarks-sidebar-content =
@@ -416,6 +389,9 @@ bookmarks-toolbar-placeholder =
     .title = Stavke trake sa zabilješkama
 bookmarks-toolbar-placeholder-button =
     .label = Stavke trake sa zabilješkama
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = Zabilježi trenutni tab
 
 ## Library Panel items
 
@@ -425,8 +401,25 @@ library-bookmarks-menu =
 ## Pocket toolbar button
 
 
+## Repair text encoding toolbar button
+
+
 ## Customize Toolbar Buttons
 
+# Variables:
+#  $shortcut (String): keyboard shortcut to open the add-ons manager
+toolbar-addons-themes-button =
+    .label = Add-oni i teme
+    .tooltiptext = Upravljanje vašim add-onima i temama ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open settings (only on macOS)
+toolbar-settings-button =
+    .label = Postavke
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Otvori postavke ({ $shortcut })
+           *[other] Otvori postavke
+        }
 
 ## More items
 
