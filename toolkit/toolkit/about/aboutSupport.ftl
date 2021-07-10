@@ -40,7 +40,7 @@ app-basics-title = Informații de bază privind aplicația
 app-basics-name = Nume
 app-basics-version = Versiune
 app-basics-build-id = ID-ul versiunii compilate
-app-basics-distribution-id = ID distribuție
+app-basics-distribution-id = ID de distribuție
 app-basics-update-channel = Canal de actualizare
 # This message refers to the folder used to store updates on the device,
 # as in "Folder for updates". "Update" is a noun, not a verb.
@@ -65,6 +65,7 @@ app-basics-os = SO
 app-basics-memory-use = Utilizarea memoriei
 app-basics-performance = Performanță
 app-basics-service-workers = Scripturi Service Worker înregistrate
+app-basics-third-party = Module terțe
 app-basics-profiles = Profiluri
 app-basics-launcher-process-status = Procesul lansatorului
 app-basics-multi-process-support = Ferestre multiproces
@@ -184,6 +185,8 @@ remote-debugging-url = URL
 
 ##
 
+support-third-party-modules-title = Module terțe
+support-third-party-modules-no-value = (Nicio valoare)
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
