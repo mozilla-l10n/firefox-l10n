@@ -165,53 +165,6 @@ page-action-remove-from-urlbar =
 page-action-remove-extension =
     .label = Usuń rozszerzenie
 
-## Page Action menu
-
-# Variables
-# $tabCount (integer) - Number of tabs selected
-page-action-send-tabs-panel =
-    .label =
-        { $tabCount ->
-            [one] Wyślij stronę na urządzenie
-            [few] Wyślij { $tabCount } strony na urządzenie
-           *[many] Wyślij { $tabCount } stron na urządzenie
-        }
-page-action-send-tabs-urlbar =
-    .tooltiptext =
-        { $tabCount ->
-            [one] Wyślij stronę na urządzenie
-            [few] Wyślij { $tabCount } strony na urządzenie
-           *[many] Wyślij { $tabCount } stron na urządzenie
-        }
-page-action-copy-url-panel =
-    .label = Kopiuj odnośnik
-page-action-copy-url-urlbar =
-    .tooltiptext = Kopiuj odnośnik
-page-action-email-link-panel =
-    .label = Wyślij odnośnik…
-page-action-email-link-urlbar =
-    .tooltiptext = Wyślij odnośnik…
-page-action-share-url-panel =
-    .label = Udostępnij
-page-action-share-url-urlbar =
-    .tooltiptext = Udostępnij
-page-action-share-more-panel =
-    .label = Więcej…
-page-action-send-tab-not-ready =
-    .label = Synchronizowanie urządzeń…
-# "Pin" is being used as a metaphor for expressing the fact that these tabs
-# are "pinned" to the left edge of the tabstrip. Really we just want the
-# string to express the idea that this is a lightweight and reversible
-# action that keeps your tab where you can reach it easily.
-page-action-pin-tab-panel =
-    .label = Przypnij kartę
-page-action-pin-tab-urlbar =
-    .tooltiptext = Przypnij kartę
-page-action-unpin-tab-panel =
-    .label = Odepnij kartę
-page-action-unpin-tab-urlbar =
-    .tooltiptext = Odepnij kartę
-
 ## Auto-hide Context Menu
 
 full-screen-autohide =
@@ -486,6 +439,8 @@ urlbar-default-placeholder =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Wprowadź adres lub szukaj
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Przeglądarka jest zdalnie zarządzana
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -518,8 +473,6 @@ urlbar-placeholder-search-mode-other-tabs =
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Wprowadź adres lub szukaj w { $name }
-urlbar-remote-control-notification-anchor =
-    .tooltiptext = Przeglądarka jest zdalnie zarządzana
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -613,6 +566,10 @@ pointerlock-warning-no-domain = Dokument kontroluje teraz kursor. Naciśnij klaw
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Część tej strony uległa awarii.</strong> Prosimy to zgłosić, aby powiadomić twórców przeglądarki { -brand-product-name } o problemie i przyspieszyć jego naprawienie.
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = Część tej strony uległa awarii. Prosimy to zgłosić, aby powiadomić twórców przeglądarki { -brand-product-name } o problemie i przyspieszyć jego naprawienie.
 crashed-subframe-learnmore-link =
     .value = Więcej informacji
 crashed-subframe-submit =
