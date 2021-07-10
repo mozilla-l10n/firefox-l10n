@@ -231,8 +231,24 @@ account-setup-address-book-carddav-button = Подключиться к адре
 account-setup-address-book-ldap-button = Подключиться к адресной книге LDAP
 account-setup-calendar-button = Подключиться к удаленному календарю
 account-setup-linked-services-title = Подключить связанные службы
-account-setup-linked-services-description = { -brand-short-name } обнаружил другие службы, связанные с вашей учётной записью почты.
+account-setup-linked-services-description = { -brand-short-name } обнаружил другие службы, связанные с учётной записью вашей почты.
 account-setup-no-linked-description = Настройте другие службы, чтобы максимально использовать возможности { -brand-short-name }.
+# Variables:
+# $count (Number) - The number of address books found during autoconfig.
+account-setup-found-address-books-description =
+    { $count ->
+        [one] { -brand-short-name } обнаружил { $count } адресную книгу, связанную с учётной записью вашей почты.
+        [few] { -brand-short-name } обнаружил { $count } адресные книги, связанные с учётной записью вашей почты.
+       *[many] { -brand-short-name } обнаружил { $count } адресных книг, связанных с учётной записью вашей почты.
+    }
+# Variables:
+# $count (Number) - The number of calendars found during autoconfig.
+account-setup-found-calendars-description =
+    { $count ->
+        [one] { -brand-short-name } обнаружил { $count } календарь, связанный с учётной записью вашей почты.
+        [few] { -brand-short-name } обнаружил { $count } календаря, связанных с учётной записью вашей почты.
+       *[many] { -brand-short-name } обнаружил { $count } календарей, связанных с учётной записью вашей почты.
+    }
 account-setup-button-finish = Завершить
     .accesskey = ш
 account-setup-looking-up-address-books = Поиск адресных книг…
