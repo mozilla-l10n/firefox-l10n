@@ -2,14 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# Please keep the emphasis around the hostname and scheme (ie the
-# `<strong>` HTML tags). Please also keep the hostname as close to the start
-# of the sentence as your language's grammar allows.
-#
-# Variables:
-#  $host - the hostname that is initiating the request
-#  $scheme - the type of link that's being opened.
-handler-dialog-host = <strong>{ $host }</strong> vrea să deschisă un link <strong>{ $scheme }</strong>.
 
 ## Permission Dialog
 ## Variables:
@@ -17,11 +9,32 @@ handler-dialog-host = <strong>{ $host }</strong> vrea să deschisă un link <str
 ##  $scheme - the type of link that's being opened.
 ##  $appName - Name of the application that will be opened.
 
+permission-dialog-description = Permiți acestui site să deschidă linkul { $scheme }?
+permission-dialog-description-app = Permiți acestui site să deschidă linkul { $scheme } cu { $appName }?
+
+## Please keep the emphasis around the hostname and scheme (ie the
+## `<strong>` HTML tags). Please also keep the hostname as close to the start
+## of the sentence as your language's grammar allows.
+
+
+##
+
+permission-dialog-btn-choose-app =
+    .label = Alege o aplicație
+    .accessKey = A
+permission-dialog-unset-description = Va trebui să alegi o aplicație.
+permission-dialog-set-change-app-link = Alege o altă aplicație.
 
 ## Chooser dialog
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+chooser-window =
+    .title = Alege o aplicație
+    .style = min-width: 26em; min-height: 26em;
+chooser-dialog-description = Alege o aplicație pentru a deschide linkul { $scheme }.
+# Please keep the emphasis around the scheme (ie the `<strong>` HTML tags).
+chooser-dialog-remember = Folosește întotdeauna această aplicație pentru a deschide linkuri <<strong>{ $scheme }</strong>
 choose-other-app-description = Alege o altă aplicație
 choose-app-btn =
     .label = Alege…
