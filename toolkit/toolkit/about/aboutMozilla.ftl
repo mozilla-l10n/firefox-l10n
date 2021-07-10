@@ -3,9 +3,5 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-mozilla-title-6-27 = Cartea Mozillei, 6:27
-about-mozilla-quote-6-27 =
-    Bestia și-a continuat studiile cu <em>forțe</em> proaspete, creând lucrări mari de <em>referință</em>
-    și contemplând noi <em>realități</em>. Bestia și-a creat prozeliți și
-    acoliți și a făcut din ei forme mai mici, proaspete, de bestii și, prin mijloace <em>rău-voitoare</em>,
-    i-a trimis în lume.
+about-mozilla-quote-6-27 = Fiara își continuă studiile cu un <em>focus</em> primenit, zidind mari lucrări de <em>referință</em> și contemplând noi <em>realități</em>. Fiara își conduse ceata și acoliții pentru a crea o formă mai mică, primenită a sa și, prin mijloace <em>răutăcioase</em>, o trimise în întreaga lume.
 about-mozilla-from-6-27 = din <strong>Cartea Mozillei,</strong> 6:27
