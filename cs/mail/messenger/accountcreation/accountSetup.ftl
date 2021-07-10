@@ -110,11 +110,15 @@ account-setup-step3-image =
     .title = Konfigurace nalezena
 account-setup-step4-image =
     .title = Chyba spojení
+account-setup-step5-image =
+    .title = Účet vytvořen
 account-setup-privacy-footnote = Vaše přihlašovací údaje budou použity v souladu s našimi <a data-l10n-name="privacy-policy-link">zásadami ochrany osobních údajů</a> a zůstanou uloženy pouze na vašem počítači.
 account-setup-selection-help = Nevíte, co vybrat?
 account-setup-selection-error = Potřebujete pomoci?
+account-setup-success-help = Nevíte, co dál?
 account-setup-documentation-help = Dokumentace k nastavení
 account-setup-forum-help = Fórum podpory
+account-setup-getting-started = Začínáme
 
 ## Results area
 
@@ -236,3 +240,37 @@ account-setup-confirm-advanced-description = Toto dialogové okno bude zavřeno 
 account-setup-addon-install-title = Nainstalovat
 account-setup-addon-install-intro = Doplněk třetí strany vám může umožnit přístup k poštovnímu účtu na tomto serveru:
 account-setup-addon-no-protocol = Tento e-mailový server bohužel nepodporuje otevřené protokoly. { account-setup-addon-install-intro }
+
+## Success view
+
+account-setup-settings-button = Nastavení účtu
+account-setup-encryption-button = Koncové šifrování
+account-setup-signature-button = Přidat podpis
+account-setup-dictionaries-button = Stáhnout slovníky
+account-setup-calendar-button = Připojit vzdálený kalendář
+account-setup-linked-services-title = Připojit propojené služby
+account-setup-looking-up-address-books = Vyhledávání adresářů…
+account-setup-looking-up-calendars = Vyhledávání kalendářů…
+account-setup-address-books-button = Adresáře
+account-setup-calendars-button = Kalendáře
+account-setup-connect-link = Připojit
+account-setup-existing-address-book = Připojeno
+    .title = Adresář je už připojen
+account-setup-existing-calendar = Připojeno
+    .title = Kalendář je už připojen
+account-setup-connect-all-calendars = Připojit všechny kalendáře
+account-setup-connect-all-address-books = Připojit všechny adresáře
+
+## Calendar synchronization dialog
+
+calendar-dialog-title = Připojení kalendáře
+account-setup-calendar-name-label = Název
+account-setup-calendar-name-input =
+    .placeholder = Můj kalendář
+account-setup-calendar-color-label = Barva
+account-setup-calendar-refresh-label = Obnovit
+account-setup-calendar-refresh-manual = Ručně
+account-setup-calendar-read-only = Pouze pro čtení
+    .accesskey = r
+account-setup-calendar-show-reminders = Zobrazovat upozornění
+    .accesskey = Z
