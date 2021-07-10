@@ -156,7 +156,7 @@ media-device-rate = Rată
 media-device-latency = Latență
 media-capabilities-title = Capabilități media
 # List all the entries of the database.
-media-capabilities-enumerate = Enumerare bază de date
+media-capabilities-enumerate = Enumeră baza de date
 
 ##
 
@@ -360,6 +360,17 @@ policies-error = Eroare
 
 ## Printing section
 
+support-printing-title = Tipărire
+support-printing-troubleshoot = Depanare
+support-printing-clear-settings-button = Golește setările de tipărire salvate
+support-printing-modified-settings = Setări de tipărire modificate
+support-printing-prefs-name = Nume
+support-printing-prefs-value = Valoare
 
 ## Normandy sections
 
+support-remote-experiments-title = Experimente la distanță
+support-remote-experiments-name = Nume
+support-remote-features-title = Funcții la distanță
+support-remote-features-name = Nume
+support-remote-features-status = Stare
