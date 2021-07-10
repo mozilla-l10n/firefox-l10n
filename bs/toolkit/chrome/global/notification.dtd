@@ -6,6 +6,9 @@
 
 <!ENTITY checkForUpdates "Provjeri za nadogradnje…">
 
+<!ENTITY learnMoreNoEllipsis "Saznajte više">
+
 <!ENTITY defaultButton.label "OK!">
 <!ENTITY defaultButton.accesskey "O">
 
+<!ENTITY moreActionsButton.accessibleLabel "Više radnji">

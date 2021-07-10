@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = Nastavite s oprezom
@@ -9,19 +10,15 @@ about-config-intro-warning-text = Promjena naprednih postavki u konfiguraciji mo
 about-config-intro-warning-checkbox = Upozori me kada pokušam pristupiti ovim postavkama
 about-config-intro-warning-button = Prihvati rizik i nastavi
 
-
-
 ##
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Promjena ovih postavki može uticati na performanse ili sigurnost { -brand-short-name }a.
-
 about-config-page-title = Napredne postavke
-
 about-config-search-input1 =
     .placeholder = Traži naziv preference
 about-config-show-all = Prikaži sve
-
+about-config-show-only-modified = Prikaži samo izmijenjene postavke
 about-config-pref-add-button =
     .title = Dodaj
 about-config-pref-toggle-button =
