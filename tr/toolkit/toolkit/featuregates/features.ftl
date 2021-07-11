@@ -10,6 +10,7 @@ experimental-features-css-masonry2 =
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = Web API: WebGPU
+experimental-features-web-gpu-description2 = Bu yeni API, kullanıcının cihazının veya bilgisayarının <a data-l10n-name="wikipedia">grafik işlem birimi (GPU)</a> kullanılarak hesaplama ve grafik oluşturma için düşük seviyeli destek sağlar. <a data-l10n-name="spec">Şartname</a> çalışmaları halen devam etmektedir. Ayrıntılar için <a data-l10n-name="bugzilla">bug 1602129</a>'a bakabilirsiniz.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-avif =
@@ -76,9 +77,6 @@ experimental-features-fission-description = Fission (site izolasyonu), { -brand-
 experimental-features-multi-pip =
     .label = Çoklu Görüntü İçinde Görüntü Desteği
 experimental-features-multi-pip-description = Birden çok görüntü içinde görüntü penceresinin aynı anda açılmasını sağlamak için deneysel destek.
-experimental-features-http3 =
-    .label = HTTP/3 protokolü
-experimental-features-http3-description = Deneysel HTTP/3 protokolü desteği.
 # Search during IME
 experimental-features-ime-search =
     .label = Adres Çubuğu: IME oluşturma sırasında sorunları göster
