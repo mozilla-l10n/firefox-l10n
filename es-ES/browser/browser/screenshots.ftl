@@ -3,10 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 screenshots-context-menu = Hacer una captura de pantalla
+screenshots-my-shots-button = Mis capturas
 screenshot-toolbarbutton =
     .label = Captura de pantalla
     .tooltiptext = Hacer una captura de pantalla
-screenshots-my-shots-button = Mis capturas
 screenshots-instructions = Arrastra o haz clic en la página para seleccionar una región. Pulsa ESC para cancelar.
 screenshots-cancel-button = Cancelar
 screenshots-save-visible-button = Guardar visible
@@ -23,7 +23,7 @@ screenshots-meta-key =
 screenshots-notification-link-copied-title = Enlace copiado
 screenshots-notification-link-copied-details = Se ha copiado el enlace a la captura en el portapapeles. Pulsa { screenshots-meta-key }-V para pegar.
 screenshots-notification-image-copied-title = Captura copiada
-screenshots-notification-image-copied-details = Tu captura ha ido copiada al portapapeles. Presiona { screenshots-meta-key }-V para pegar.
+screenshots-notification-image-copied-details = Tu captura ha sido copiada al portapapeles. Presiona { screenshots-meta-key }-V para pegar.
 screenshots-request-error-title = No funciona.
 screenshots-request-error-details = ¡Lo sentimos! No hemos podido guardar tu captura. Inténtalo más tarde.
 screenshots-connection-error-title = No podemos acceder a tus capturas de pantalla.
