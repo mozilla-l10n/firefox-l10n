@@ -253,6 +253,32 @@ account-setup-address-book-carddav-button = Připojit adresář CardDAV
 account-setup-address-book-ldap-button = Připojit adresář LDAP
 account-setup-calendar-button = Připojit vzdálený kalendář
 account-setup-linked-services-title = Připojení propojených služeb
+# Variables:
+# $count (Number) - The number of address books found during autoconfig.
+account-setup-found-address-books-description =
+    { -brand-short-name.gender ->
+        [masculine] { -brand-short-name } našel
+        [feminine] { -brand-short-name } našla
+        [neuter] { -brand-short-name } našlo
+       *[other] Aplikace { -brand-short-name } našla
+    } { $count ->
+        [one] jeden adresář propojený s vaším e-mailovým účtem.
+        [few] { $count } adresáře propojené s vaším e-mailovým účtem.
+       *[other] { $count } adresářů propojených s vaším e-mailovým účtem.
+    }
+# Variables:
+# $count (Number) - The number of calendars found during autoconfig.
+account-setup-found-calendars-description =
+    { -brand-short-name.gender ->
+        [masculine] { -brand-short-name } našel
+        [feminine] { -brand-short-name } našla
+        [neuter] { -brand-short-name } našlo
+       *[other] Aplikace { -brand-short-name } našla
+    } { $count ->
+        [one] jeden kalendář propojený s vaším e-mailovým účtem.
+        [few] { $count } kalendáře propojené s vaším e-mailovým účtem.
+       *[other] { $count } kalendářů propojených s vaším e-mailovým účtem.
+    }
 account-setup-button-finish = Dokončit
     .accesskey = D
 account-setup-looking-up-address-books = Vyhledávání adresářů…
