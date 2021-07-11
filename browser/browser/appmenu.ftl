@@ -6,7 +6,7 @@
 ## App Menu
 
 appmenuitem-update-banner3 =
-    .label-update-downloading = Se descarcă actualizarea { -brand-shorter-name }
+    .label-update-downloading = Se descarcă actualizarea pentru { -brand-shorter-name }
     .label-update-available = Actualizare disponibilă — descarcă acum
     .label-update-manual = Actualizare disponibilă — descarcă acum
     .label-update-unsupported = Nu se poate actualiza — sistem incompatibil
