@@ -383,6 +383,7 @@ fission-status-disabled-by-default = išjungta pagal numatymą
 fission-status-enabled-by-user-pref = Įjungta naudotojo
 fission-status-disabled-by-user-pref = išjungta naudotojo
 fission-status-disabled-by-e10s-other = E10s išjungta
+fission-status-enabled-by-rollout = Įjungta išleidžiant palaipsniui
 async-pan-zoom = Asinchroninis apžvelgimas/priartinimas
 apz-none = nėra
 wheel-enabled = įjungta įvestis ratuku
