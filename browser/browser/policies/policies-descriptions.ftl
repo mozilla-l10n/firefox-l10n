@@ -116,3 +116,4 @@ policy-SupportMenu = Pridėti specialų pagalbos meniu elementą į žinyno meni
 policy-UserMessaging = Nerodyti naudotojui tam tikrų pranešimų.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blokuoti svetainių lankymą. Paskaitykite dokumentaciją dėl informacijos apie formatą.
+policy-Windows10SSO = Leisti bendrinį „Windows“ prisijungimą, skirtą „Microsoft“, darbo, ir mokyklos paskyroms.

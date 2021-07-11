@@ -65,6 +65,7 @@ app-basics-rosetta = Interpretuota su „Rosetta“
 app-basics-memory-use = Atminties naudojimas
 app-basics-performance = Našumas
 app-basics-service-workers = Registruoti aptarnavimo scenarijai
+app-basics-third-party = Trečiųjų šalių moduliai
 app-basics-profiles = Profiliai
 app-basics-launcher-process-status = Paleidimo procesas
 app-basics-multi-process-support = Daugiaprocesiai langai
