@@ -378,6 +378,7 @@ fission-status-disabled-by-default = varsayılan olarak kapalı
 fission-status-enabled-by-user-pref = kullanıcı tarafından açıldı
 fission-status-disabled-by-user-pref = Kullanıcı tarafından kapatıldı
 fission-status-disabled-by-e10s-other = E10s devre dışı
+fission-status-enabled-by-rollout = Aşamalı dağıtımla etkinleştirildi
 async-pan-zoom = Asenkron kaydır/yakınlaştır
 apz-none = yok
 wheel-enabled = tekerlek girdisi etkin
