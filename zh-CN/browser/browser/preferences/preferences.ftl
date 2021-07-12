@@ -390,7 +390,7 @@ update-application-background-enabled =
     .accesskey = W
 update-application-warning-cross-user-setting = 此设置将影响使用这份 { -brand-short-name } 程序的所有 Windows 账户及 { -brand-short-name } 配置文件。
 update-application-use-service =
-    .label = 使用一项系统服务以静默安装更新
+    .label = 使用后台服务静默安装更新
     .accesskey = b
 update-setting-write-failure-title = 保存“更新”首选项时出错
 # Variables:
