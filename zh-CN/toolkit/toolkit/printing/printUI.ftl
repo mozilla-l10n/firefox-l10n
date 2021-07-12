@@ -55,7 +55,11 @@ printui-selection-checkbox = 仅打印选中内容
 # The section title.
 printui-source-label = 格式
 # Option for printing the original page.
-printui-source-radio = 原始
+printui-source-radio = 原始页面
+# Option for printing just the content a user selected prior to printing.
+printui-selection-radio = 所选中文本
+# Option for "simplifying" the page by printing the Reader View version.
+printui-simplify-page-radio = 阅读器视图
 
 ##
 
