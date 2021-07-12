@@ -10,8 +10,6 @@ preferences-title =
             [windows] Opciones
            *[other] Preferencias
         }
-preferences-tab-title =
-    .title = Preferencias
 preferences-doc-title = Preferencias
 category-list =
     .aria-label = Categorías
@@ -263,6 +261,9 @@ diskspace-legend = Espacio en disco
 offline-compact-folder =
     .label = Compactar carpetas cuando se recuperen más de
     .accesskey = e
+offline-compact-folder-automatically =
+    .label = Preguntar cada vez antes de compactar
+    .accesskey = d
 compact-folder-size =
     .value = MB en total
 
