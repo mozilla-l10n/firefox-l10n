@@ -4,6 +4,7 @@
 
 calendar-title = Koledar
 calendar-title-reminder = Opomniki
+calendar-title-notification = Obvestila
 calendar-title-category = Kategorije
 dateformat-label =
     .value = Oblika zapisa datuma:
@@ -179,6 +180,7 @@ event-alarm-time-label =
 task-alarm-time-label =
     .value = Privzeti čas prikaza opomnika pred opravilom:
     .accesskey = v
+calendar-notifications-customize-label = Obvestila lahko prilagodite za vsak koledar posebej v okencu lastnosti koledarja.
 category-new-label = Nova kategorija
 category-edit-label = Uredi kategorijo
 category-overwrite-title = Opozorilo: podvojeno ime
