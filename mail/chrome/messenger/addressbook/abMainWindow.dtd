@@ -48,7 +48,9 @@
 <!ENTITY editMenu.accesskey                             "M">
 <!ENTITY deleteCmd.label                                "Stizzar">
 <!ENTITY deleteAbCmd.label                              "Stizzar il cudeschet d'adressas">
+<!ENTITY deleteAbCmd.accesskey                          "S">
 <!ENTITY removeAbCmd.label                              "Allontanar il cudeschet d'adressas">
+<!ENTITY removeAbCmd.accesskey                          "s">
 <!ENTITY deleteContactCmd.label                         "Stizzar il contact">
 <!ENTITY deleteContactsCmd.label                        "Stizzar ils contacts">
 <!ENTITY deleteListCmd.label                            "Stizzar la glista">
