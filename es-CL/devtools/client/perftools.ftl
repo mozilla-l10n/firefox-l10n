@@ -95,6 +95,8 @@ perftools-thread-dns-resolver =
     .title = La resolución de DNS ocurre en este hilo
 perftools-thread-js-helper =
     .title = Trabajo en segundo plano del motor JS, como compilaciones fuera del hilo principal
+perftools-thread-task-controller =
+    .title = Hilos del grupo de subprocesos de TaskController
 
 ##
 

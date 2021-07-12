@@ -857,6 +857,10 @@ forms-primary-pw-change =
 forms-primary-pw-former-name = Anteriormente conocida como contraseña maestra
 forms-primary-pw-fips-title = Actualmente estás en modo FIPS. FIPS requiere de una contraseña primaria que no esté en blanco.
 forms-master-pw-fips-desc = Falló el cambio de contraseña
+forms-windows-sso =
+    .label = Permitir un solo inicio de sesión de Windows para Microsoft, cuentas de trabajo y cuentas escolares
+forms-windows-sso-learn-more-link = Aprender más
+forms-windows-sso-desc = Gestiona las cuentas en la configuración de tu dispositivo
 
 ## OS Authentication dialog
 
