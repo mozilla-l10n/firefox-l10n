@@ -4,6 +4,7 @@
 
 calendar-title = Календар
 calendar-title-reminder = Нагадування
+calendar-title-notification = Сповіщення
 calendar-title-category = Категорії
 dateformat-label =
     .value = Формат дати:
@@ -179,6 +180,7 @@ event-alarm-time-label =
 task-alarm-time-label =
     .value = Типовий час сповіщення перед завданням:
     .accesskey = в
+calendar-notifications-customize-label = Сповіщення можна налаштувати для кожного календаря у вікні властивостей календаря.
 category-new-label = Нова категорія
 category-edit-label = Редагувати категорію
 category-overwrite-title = Попередження: Однакові назви
