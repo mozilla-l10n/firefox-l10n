@@ -100,13 +100,14 @@ account-setup-step3-image =
     .title = Konfiguracija je so namakała
 account-setup-step4-image =
     .title = Zwiskowy zmylk
+account-setup-privacy-footnote = Waše přizjewjenske daty so po našich <a data-l10n-name="privacy-policy-link">prawidłach priwatnosće</a> wužiwaja a składuja so jenož lokalnje na wašim ličaku.
 account-setup-step5-image =
     .title = Konto załožene
-account-setup-privacy-footnote = Waše přizjewjenske daty so po našich <a data-l10n-name="privacy-policy-link">prawidłach priwatnosće</a> wužiwaja a składuja so jenož lokalnje na wašim ličaku.
 account-setup-selection-help = Njejsće sej wěsty, štož maće wubrać?
 account-setup-selection-error = Trjebaće pomoc?
 account-setup-documentation-help = Konfiguraciska dokumentacija
 account-setup-forum-help = Forum pomocy
+account-setup-privacy-help = Prawidła priwatnosće
 account-setup-getting-started = Prěnje kroki
 
 ## Results area
