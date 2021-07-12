@@ -10,8 +10,6 @@ preferences-title =
             [windows] Налаштування
            *[other] Налаштування
         }
-preferences-tab-title =
-    .title = Налаштування
 preferences-doc-title = Налаштування
 category-list =
     .aria-label = Категорії
@@ -263,6 +261,9 @@ diskspace-legend = Дисковий простір
 offline-compact-folder =
     .label = Стискати всі теки, якщо це звільнить більш ніж
     .accesskey = в
+offline-compact-folder-automatically =
+    .label = Питати щоразу перед стисненням
+    .accesskey = п
 compact-folder-size =
     .value = МБ всього
 

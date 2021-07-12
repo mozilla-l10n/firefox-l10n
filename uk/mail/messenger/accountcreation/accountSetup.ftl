@@ -102,14 +102,16 @@ account-setup-step3-image =
     .title = Конфігурацію знайдено
 account-setup-step4-image =
     .title = Помилка з'єднання
+account-setup-privacy-footnote = Ваші облікові дані використовуватимуться згідно з нашою <a data-l10n-name="privacy-policy-link">політикою конфіденційності</a> та зберігатимуться лише локально на вашому комп’ютері.
 account-setup-step5-image =
     .title = Обліковий запис створено
-account-setup-privacy-footnote = Ваші облікові дані використовуватимуться згідно з нашою <a data-l10n-name="privacy-policy-link">політикою конфіденційності</a> та зберігатимуться лише локально на вашому комп’ютері.
+account-setup-privacy-footnote2 = Ваші облікові дані зберігатимуться лише локально на вашому комп’ютері.
 account-setup-selection-help = Не знаєте, що вибрати?
 account-setup-selection-error = Потрібна допомога?
 account-setup-success-help = Не впевнені що робити далі?
 account-setup-documentation-help = Документація з налаштування
 account-setup-forum-help = Форум підтримки
+account-setup-privacy-help = Політика приватності
 account-setup-getting-started = Почнімо
 
 ## Results area
