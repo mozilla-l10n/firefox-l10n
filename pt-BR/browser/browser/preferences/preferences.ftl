@@ -857,6 +857,10 @@ forms-primary-pw-change =
 forms-primary-pw-former-name = Anteriormente conhecida como senha mestra
 forms-primary-pw-fips-title = Você está no momento no modo FIPS. O FIPS exige uma senha principal não vazia.
 forms-master-pw-fips-desc = Falha na alteração da senha
+forms-windows-sso =
+    .label = Permitir autenticação única (single sign-on) do Windows em contas da Microsoft, do trabalho e da escola
+forms-windows-sso-learn-more-link = Saiba mais
+forms-windows-sso-desc = Gerenciar contas nas configurações do seu dispositivo
 
 ## OS Authentication dialog
 
