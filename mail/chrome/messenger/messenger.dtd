@@ -502,6 +502,8 @@
 <!ENTITY deleteJunk.accesskey "m">
 <!ENTITY importCmd.label "Importować…">
 <!ENTITY importCmd.accesskey "I">
+<!ENTITY exportCmd.label "Eksportować…">
+<!ENTITY exportCmd.accesskey "k">
 <!ENTITY clearRecentHistory.label "Aktualnu historiju zhašeć…">
 <!ENTITY clearRecentHistory.accesskey "h">
 <!ENTITY accountManagerCmd2.label "Kontowe nastajenja">
@@ -719,7 +721,6 @@
 <!ENTITY locationColumn.label "Městno">
 <!ENTITY idColumn.label "Porjad přijeća">
 <!ENTITY attachmentColumn.label "Přiwěški">
-
 <!ENTITY deleteColumn.label "Zhašeć">
 
 <!-- Thread Pane Tooltips -->
@@ -745,7 +746,6 @@
 <!ENTITY locationColumn2.tooltip "Po adresy sortěrować">
 <!ENTITY idColumn2.tooltip "Po porjedźe přijimanja sortěrować">
 <!ENTITY attachmentColumn2.tooltip "Po přiwěškach sortěrować">
-
 <!ENTITY deleteColumn.tooltip "Powěsć zhašeć">
 
 <!-- Thread Pane Context Menu -->
