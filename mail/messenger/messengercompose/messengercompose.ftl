@@ -11,6 +11,9 @@ remove-address-row-type = Kendu { $type } eremua
 remove-address-row-type-label =
     .tooltiptext = Kendu { $type } eremua
 #   $type (String) - the type of the addressing row
+remove-address-row-button =
+    .title = Kendu { $type } eremua
+#   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type-aria-label =
     { $count ->
@@ -41,6 +44,9 @@ pill-action-move-cc =
 pill-action-move-bcc =
     .label = Eraman Bcc-ra
     .accesskey = B
+pill-action-expand-list =
+    .label = Zabaldu zerrenda
+    .accesskey = Z
 
 # Attachment widget
 
@@ -117,8 +123,6 @@ move-attachment-last-panel-button =
 button-return-receipt =
     .label = Hartu-agiria
     .tooltiptext = Eskatu hartu-agiria mezu honetarako
-#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
-consider-bcc-notification = Nori eta CCko { $count } hartzailek besteen helbideak ikus ditzakete. Hartzaileak erakustea saihestu dezakezu Bcc erabiliz.
 
 # Addressing Area
 
