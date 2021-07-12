@@ -10,3 +10,4 @@ export-dialog =
 export-dialog-button-finish = Dokónčić
 export-dialog-file-picker = Jako zip-dataju eksportować
 export-dialog-exporting = Eksportuje so…
+export-dialog-exported = Eksportowany!
