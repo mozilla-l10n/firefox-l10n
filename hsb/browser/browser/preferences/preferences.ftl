@@ -865,6 +865,9 @@ forms-primary-pw-change =
 forms-primary-pw-former-name = { "" }
 forms-primary-pw-fips-title = Sće tuchwilu we FIPS-modusu. FIPS sej hłowne hesło žada.
 forms-master-pw-fips-desc = Změnjenje hesła njeje so poradźiło
+forms-windows-sso =
+    .label = Jednotne přizjewjenje za konta Microsoft, dźěłowe konta a šulske konta zmóžnić
+forms-windows-sso-learn-more-link = Dalše informacije
 
 ## OS Authentication dialog
 
