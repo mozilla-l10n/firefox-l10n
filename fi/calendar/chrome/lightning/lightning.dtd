@@ -19,12 +19,6 @@
 <!ENTITY lightning.menupopup.new.calendar.accesskey "l">
 
 <!-- Open menu popup in File menu -->
-<!ENTITY lightning.menupopup.open.label               "Avaa">
-<!ENTITY lightning.menupopup.open.accesskey           "A">
-<!ENTITY lightning.menupopup.open.message.label       "Tallennettu viesti…">
-<!ENTITY lightning.menupopup.open.message.accesskey   "T">
-
-<!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.calendar.label      "Kalenteritiedosto…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "K">
 
@@ -51,6 +45,10 @@
      - tooltiptext2 is used in the calendar properties dialog for caldav calendars -->
 <!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext1     "Voit ottaa tämän ominaisuuden käyttöön kalenterin asentamisen jälkeen sallimalla ominaisuuden kalenterin ominaisuusikkunassa, jos palvelin tukee ajastamista.">
 <!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext2     "Tämä asetus on käytettävissä vain, jos kalenteripalvelin tukee ajastamista. Ominaisuuden salliminen palauttaa ajastamisen sähköpostipohjaiseen ajastukseen palvelimen suorittaman ajastuksen sijaan.">
+
+<!-- The notifications settings in the properties dialog -->
+<!ENTITY lightning.calendarproperties.notifications.label                   "Ilmoitukset">
+<!ENTITY lightning.calendarproperties.globalNotifications.label             "Yleiset ilmoitusasetukset…">
 
 <!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.btnAccept.label                                  "Hyväksy">

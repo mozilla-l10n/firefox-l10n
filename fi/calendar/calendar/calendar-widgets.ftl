@@ -4,3 +4,6 @@
 
 calendar-deactivated-notification-events = Kaikki kalenterit ovat tällä hetkellä poissa käytöstä. Ota olemassa oleva kalenteri käyttöön tai lisää uusi luodaksesi ja muokataksesi tapahtumia.
 calendar-deactivated-notification-tasks = Kaikki kalenterit ovat tällä hetkellä poissa käytöstä. Ota olemassa oleva kalenteri käyttöön tai lisää uusi luodaksesi ja muokataksesi tehtäviä.
+calendar-notifications-label = Näytä ilmoitukset tulevista tapahtumista
+calendar-add-notification-button =
+    .label = Lisää ilmoitus

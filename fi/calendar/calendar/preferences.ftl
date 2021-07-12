@@ -4,6 +4,7 @@
 
 calendar-title = Kalenteri
 calendar-title-reminder = Hälytykset
+calendar-title-notification = Ilmoitukset
 calendar-title-category = Luokat
 dateformat-label =
     .value = Päiväystekstin formaatti:
@@ -179,6 +180,7 @@ event-alarm-time-label =
 task-alarm-time-label =
     .value = Hälytyksen ja tehtävän välinen oletusaika:
     .accesskey = l
+calendar-notifications-customize-label = Ilmoitukset on mahdollista mukauttaa jokaiselle kalenterille kalenterin ominaisuusikkunassa.
 category-new-label = Uusi luokka
 category-edit-label = Muokkaa tapahtumatyyppiä
 category-overwrite-title = Varoitus: Sama nimi
