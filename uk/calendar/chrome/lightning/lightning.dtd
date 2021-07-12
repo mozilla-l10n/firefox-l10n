@@ -19,12 +19,6 @@
 <!ENTITY lightning.menupopup.new.calendar.accesskey "К">
 
 <!-- Open menu popup in File menu -->
-<!ENTITY lightning.menupopup.open.label               "Відкрити">
-<!ENTITY lightning.menupopup.open.accesskey           "В">
-<!ENTITY lightning.menupopup.open.message.label       "Збережене повідомлення…">
-<!ENTITY lightning.menupopup.open.message.accesskey   "п">
-
-<!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.calendar.label      "Файл календаря…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "к">
 
@@ -51,6 +45,10 @@
      - tooltiptext2 is used in the calendar properties dialog for caldav calendars -->
 <!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext1     "В даний момент ви можете увімкнути це лише після налаштування цього календаря в діалоговому вікні його властивостей, якщо сервер календаря сам обробляє запрошення.">
 <!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext2     "Це налаштування доступне лише тоді, коли сервер календаря сам може обробляти запрошення. Увімкнення цього дозволить повернутися до стандартного надсилання електронних листів із запрошеннями замість доручення цього серверу.">
+
+<!-- The notifications settings in the properties dialog -->
+<!ENTITY lightning.calendarproperties.notifications.label                   "Сповіщення">
+<!ENTITY lightning.calendarproperties.globalNotifications.label             "Загальні налаштування сповіщень…">
 
 <!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.btnAccept.label                                  "Прийняти">
