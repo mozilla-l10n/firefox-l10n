@@ -102,14 +102,15 @@ account-setup-step3-image =
     .title = 找到配置
 account-setup-step4-image =
     .title = 连接错误
+account-setup-privacy-footnote = 凭据将遵循我们的<a data-l10n-name="privacy-policy-link">隐私政策</a>进行使用，且仅会存储在本地。
 account-setup-step5-image =
     .title = 已创建账户
-account-setup-privacy-footnote = 凭据将遵循我们的<a data-l10n-name="privacy-policy-link">隐私政策</a>进行使用，且仅会存储在本地。
 account-setup-selection-help = 不确定要怎么选？
 account-setup-selection-error = 需要帮助？
 account-setup-success-help = 不确定接下来做什么吗？
 account-setup-documentation-help = 设置文档
 account-setup-forum-help = 支持论坛
+account-setup-privacy-help = 隐私政策
 account-setup-getting-started = 开始使用
 
 ## Results area

@@ -502,6 +502,8 @@
 <!ENTITY deleteJunk.accesskey "D">
 <!ENTITY importCmd.label "导入…">
 <!ENTITY importCmd.accesskey "m">
+<!ENTITY exportCmd.label "导出…">
+<!ENTITY exportCmd.accesskey "x">
 <!ENTITY clearRecentHistory.label "清除最近历史记录…">
 <!ENTITY clearRecentHistory.accesskey "H">
 <!ENTITY accountManagerCmd2.label "账户设置">
