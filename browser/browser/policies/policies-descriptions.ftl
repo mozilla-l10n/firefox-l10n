@@ -116,3 +116,4 @@ policy-SupportMenu = Agiuntar in element da menu persunalisà en il menu d'agid.
 policy-UserMessaging = Betg mussar tscherts messadis a l'utilisader.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Impedir l'access a tschertas websites. Consultar la documentaziun per ulteriuras infurmaziuns davart il format.
+policy-Windows10SSO = Permetter l'utilisaziun da Windows single sign-on per ils contos Microsoft, da scola e da fatschenta.
