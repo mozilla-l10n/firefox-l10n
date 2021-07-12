@@ -66,7 +66,6 @@ category-experimental =
     .tooltiptext = { -brand-short-name }ovi poskusi
 pane-experimental-subtitle = Nadaljujte previdno
 pane-experimental-search-results-header = { -brand-short-name }ovi poskusi: nadaljujte previdno
-pane-experimental-description = Spreminjanje naprednih nastavitev lahko vpliva na delovanje ali varnost { -brand-short-name(sklon: "rodilnik") }.
 pane-experimental-description2 = Spreminjanje naprednih nastavitev lahko vpliva na delovanje ali varnost { -brand-short-name(sklon: "rodilnik") }.
 pane-experimental-reset =
     .label = Ponastavi privzeto
@@ -863,6 +862,7 @@ forms-primary-pw-change =
 forms-primary-pw-former-name = { "" }
 forms-primary-pw-fips-title = Trenutno ste v načinu FIPS. FIPS zahteva glavno geslo, ki ni prazno.
 forms-master-pw-fips-desc = Sprememba gesla neuspešna
+forms-windows-sso-learn-more-link = Več o tem
 
 ## OS Authentication dialog
 
@@ -1028,7 +1028,6 @@ content-blocking-etp-strict-desc = Močnejša zaščita, ki pa lahko povzroči n
 content-blocking-etp-custom-desc = Izberite, katere sledilce in skripte želite zavračati.
 content-blocking-etp-blocking-desc = { -brand-short-name } zavrača naslednje:
 content-blocking-private-windows = Sledilno vsebino v zasebnih oknih
-content-blocking-cross-site-cookies = Spletne piškotke
 content-blocking-cross-site-cookies-in-all-windows = Spletne piškotke v vseh oknih (vključuje sledilne piškotke)
 content-blocking-cross-site-tracking-cookies = Spletne sledilne piškotke
 content-blocking-all-cross-site-cookies-private-windows = Spletne piškotke v zasebnih oknih
