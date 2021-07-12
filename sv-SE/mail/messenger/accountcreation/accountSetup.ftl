@@ -100,14 +100,16 @@ account-setup-step3-image =
     .title = Konfiguration hittad
 account-setup-step4-image =
     .title = Anslutningsfel
+account-setup-privacy-footnote = Dina uppgifter kommer att användas i enlighet med vår <a data-l10n-name="privacy-policy-link">sekretesspolicy</a> och lagras endast lokalt på din dator.
 account-setup-step5-image =
     .title = Konto skapat
-account-setup-privacy-footnote = Dina uppgifter kommer att användas i enlighet med vår <a data-l10n-name="privacy-policy-link">sekretesspolicy</a> och lagras endast lokalt på din dator.
+account-setup-privacy-footnote2 = Dina uppgifter lagras endast lokalt på din dator.
 account-setup-selection-help = Är du inte säker på vad du ska välja?
 account-setup-selection-error = Behöver du hjälp?
 account-setup-success-help = Är du inte säker på ditt nästa steg?
 account-setup-documentation-help = Installationsdokumentation
 account-setup-forum-help = Supportforum
+account-setup-privacy-help = Sekretesspolicy
 account-setup-getting-started = Komma igång
 
 ## Results area
