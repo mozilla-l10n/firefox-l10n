@@ -22,8 +22,8 @@
 <!ENTITY maxusers.label     "Max. användare:">
 <!ENTITY maxusers.accesskey "x">
 
-<!ENTITY refresh.label     "Uppdatera nu">
-<!ENTITY refresh.accesskey "U">
+<!ENTITY refreshNow.label     "Uppdatera nu">
+<!ENTITY refreshNow.accesskey "U">
 
 <!ENTITY network.hint.label "Ange ett nätverk eller ett servernamn (ev inklusive port) och en kanal att gå med i.">
 
