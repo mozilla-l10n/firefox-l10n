@@ -4,6 +4,7 @@
 
 calendar-title = Kalender
 calendar-title-reminder = Påminnelser
+calendar-title-notification = Aviseringar
 calendar-title-category = Kategorier
 dateformat-label =
     .value = Datum textformat:
@@ -179,6 +180,7 @@ event-alarm-time-label =
 task-alarm-time-label =
     .value = Standardtid för att aktivera en påminnelse före en uppgift:
     .accesskey = i
+calendar-notifications-customize-label = Aviseringar kan anpassas för varje kalender i kalenderns inställningar.
 category-new-label = Ny kategori
 category-edit-label = Redigera kategori
 category-overwrite-title = Varning: Namnet finns redan
