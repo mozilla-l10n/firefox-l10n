@@ -1,0 +1,23 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY loading.label  "請稍候，載入中…">
+
+<!ENTITY homepage.url   "http://chatzilla.hacksrus.com/">
+<!ENTITY homepage.label "ChatZilla 首頁">
+
+<!ENTITY object.add.label       "新增…">
+
+<!ENTITY object.del.label       "移除">
+
+<!ENTITY object.reset.label     "重設">
+
+<!ENTITY dialog.apply   "套用">
+
+<!ENTITY network "網路">
+<!ENTITY channel "頻道">
+<!ENTITY user    "使用者">
+
+
