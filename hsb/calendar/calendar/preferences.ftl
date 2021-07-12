@@ -4,6 +4,7 @@
 
 calendar-title = Protyka
 calendar-title-reminder = Dopomnjeća
+calendar-title-notification = Zdźělenki
 calendar-title-category = Kategorije
 dateformat-label =
     .value = Datumowy tekstowy format:
@@ -179,6 +180,7 @@ event-alarm-time-label =
 task-alarm-time-label =
     .value = Standardny dopomnjenski časowy dypk před nadawkom:
     .accesskey = e
+calendar-notifications-customize-label = Zdźělenki dadźa so za kóždu protyku we woknje kajkosćow protyki přiměrić.
 category-new-label = Nowa kategorija
 category-edit-label = Kategoriju wobdźěłać
 category-overwrite-title = Warnowanje: Dwójne mjeno

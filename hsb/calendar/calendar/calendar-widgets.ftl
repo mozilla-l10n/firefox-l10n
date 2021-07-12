@@ -4,3 +4,6 @@
 
 calendar-deactivated-notification-events = Wšě protyki su tuchwilu znjemóžnjene. Zmóžńće eksistowacu protyku abo přidajće nowu, zo byšće podawki wutworił a wobdźěłał.
 calendar-deactivated-notification-tasks = Wšě protyki su tuchwilu znjemóžnjene. Zmóžńće eksistowacu protyku abo přidajće nowu, zo byšće nadawki wutworił a wobdźěłał.
+calendar-notifications-label = Zdźělenki za přichodne podawki pokazać
+calendar-add-notification-button =
+    .label = Zdźělenku přidać
