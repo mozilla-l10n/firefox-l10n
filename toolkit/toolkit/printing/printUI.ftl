@@ -49,6 +49,22 @@ printui-options = Параметри
 printui-headers-footers-checkbox = Друкувати колонтитули
 printui-backgrounds-checkbox = Друкувати тло
 printui-selection-checkbox = Друкувати тільки вибране
+
+## The "Format" section, select a version of the website to print. Radio
+## options to select between the original page, selected text only, or a version
+## where the page is processed with "Reader View".
+
+# The section title.
+printui-source-label = Формат
+# Option for printing the original page.
+printui-source-radio = Оригінал
+# Option for printing just the content a user selected prior to printing.
+printui-selection-radio = Виділення
+# Option for "simplifying" the page by printing the Reader View version.
+printui-simplify-page-radio = Спрощений
+
+##
+
 printui-color-mode-label = Кольоровий режим
 printui-color-mode-color = Кольоровий
 printui-color-mode-bw = Чорно-білий
