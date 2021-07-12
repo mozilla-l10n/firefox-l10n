@@ -4,3 +4,6 @@
 
 calendar-deactivated-notification-events = Alla kalendrar är för närvarande inaktiverade. Aktivera en befintlig kalender eller lägg till en ny för att skapa och redigera händelser.
 calendar-deactivated-notification-tasks = Alla kalendrar är för närvarande inaktiverade. Aktivera en befintlig kalender eller lägg till en ny för att skapa och redigera uppgifter.
+calendar-notifications-label = Visa aviseringar för kommande händelser
+calendar-add-notification-button =
+    .label = Lägg till avisering
