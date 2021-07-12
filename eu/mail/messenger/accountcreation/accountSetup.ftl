@@ -13,6 +13,7 @@ account-setup-description =
 account-setup-secondary-description = { -brand-product-name } automatikoki bilatuko du badabilen eta gomendatzen den zerbitzari konfigurazioa.
 account-setup-success-title = Kontua ondo sortu da!
 account-setup-success-description = Orain zuk { -brand-short-name } kontua erabil dezakezu.
+account-setup-success-secondary-description = Esperientzia hobetu dezakezu harremandutako zerbitzuak konektatuz eta konfigurazio aurreratuen ezarpenekin.
 
 ## Form fields
 

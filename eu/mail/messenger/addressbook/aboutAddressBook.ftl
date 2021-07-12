@@ -68,6 +68,55 @@ about-addressbook-sort-email-ascending =
 about-addressbook-sort-email-descending =
     .label = Ordenatu Eposta helbideaz (Z > A)
 about-addressbook-confirm-delete-mixed-title = Ezabatu kontaktuak eta posta-zerrendak
+# Variables:
+# $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
+about-addressbook-confirm-delete-mixed = Ziur zaude kontaktu eta zerrenda hauek { $count } ezabatu nahi dituzula?
+# Variables:
+# $count (Number) - The number of lists to be deleted.
+about-addressbook-confirm-delete-lists-title =
+    { $count ->
+        [one] Ezabatu zerrenda
+       *[other] Ezabatu zerrendak
+    }
+# Variables:
+# $count (Number) - The number of lists to be deleted.
+# $name (String) - The name of the list to be deleted, if $count is 1.
+about-addressbook-confirm-delete-lists =
+    { $count ->
+        [one] Ziur zaude { $name } zerrenda ezabatu nahi duzula?
+       *[other] Ziur zaude { $name } zerrendak ezabatu nahi dituzula?
+    }
+# Variables:
+# $count (Number) - The number of contacts to be removed.
+about-addressbook-confirm-remove-contacts-title =
+    { $count ->
+        [one] Kendu kontaktua
+       *[other] Kendu kontaktuak
+    }
+# Variables:
+# $count (Number) - The number of contacts to be removed.
+# $name (String) - The name of the contact to be removed, if $count is 1.
+# $list (String) - The name of the list that contacts will be removed from.
+about-addressbook-confirm-remove-contacts =
+    { $count ->
+        [one] Ziur zaude { $name } ezabatu nahi duzula { $list } zerrendatik?
+       *[other] Ziur zaude { $name } kontaktuak ezabatu nahi dituzula { $list } zerrendatik?
+    }
+# Variables:
+# $count (Number) - The number of contacts to be deleted.
+about-addressbook-confirm-delete-contacts-title =
+    { $count ->
+        [one] Ezabatu kontaktua
+       *[other] Ezabatu kontaktuak
+    }
+# Variables:
+# $count (Number) - The number of contacts to be deleted.
+# $name (String) - The name of the contact to be deleted, if $count is 1.
+about-addressbook-confirm-delete-contacts =
+    { $count ->
+        [one] Ziur zaude { $name } kontaktua ezabatu nahi duzula?
+       *[other] Ziur zaude { $name } kontaktu hauek ezabatu nahi dituzula?
+    }
 
 ## Details
 
