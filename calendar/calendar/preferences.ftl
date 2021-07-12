@@ -4,6 +4,7 @@
 
 calendar-title = 日历
 calendar-title-reminder = 提醒
+calendar-title-notification = 通知
 calendar-title-category = 分类
 dateformat-label =
     .value = 日期格式：
