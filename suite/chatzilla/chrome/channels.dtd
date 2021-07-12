@@ -22,8 +22,8 @@
 <!ENTITY maxusers.label     "最大用户数：">
 <!ENTITY maxusers.accesskey "x">
 
-<!ENTITY refresh.label     "立即刷新">
-<!ENTITY refresh.accesskey "">
+<!ENTITY refreshNow.label     "立即刷新">
+<!ENTITY refreshNow.accesskey "R">
 
 
 <!ENTITY col.network "网络">
