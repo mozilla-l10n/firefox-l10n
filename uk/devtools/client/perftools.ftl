@@ -97,6 +97,8 @@ perftools-thread-dns-resolver =
     .title = У цьому потоці відбувається визначення DNS
 perftools-thread-js-helper =
     .title = Робота JS engine на задньому плані, наприклад, компілювання off-main-thread
+perftools-thread-task-controller =
+    .title = Потоки збірних потоків TaskController
 
 ##
 
@@ -108,7 +110,6 @@ perftools-tools-threads-input-label =
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
 ## preferences are true.
 
--profiler-brand-name = Firefox Profiler
 perftools-onboarding-message = <b>Нове</b>: { -profiler-brand-name } тепер вбудовано в Інструменти розробника. <a>Дізнайтеся докладніше</a> про цей потужний новий інструмент.
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (Впродовж обмеженого часу ви можете отримати доступ до оригінальної панелі швидкодії через <a>{ options-context-advanced-settings }</a>)

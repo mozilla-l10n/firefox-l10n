@@ -861,6 +861,10 @@ forms-primary-pw-change =
 forms-primary-pw-former-name = { "" }
 forms-primary-pw-fips-title = Зараз ви в режимі FIPS. Для цього режиму необхідно встановити головний пароль.
 forms-master-pw-fips-desc = Не вдалося змінити пароль
+forms-windows-sso =
+    .label = Дозволити єдиний вхід Windows для облікових записів Microsoft, роботи та школи
+forms-windows-sso-learn-more-link = Докладніше
+forms-windows-sso-desc = Керування обліковими записами в налаштуваннях пристрою
 
 ## OS Authentication dialog
 
