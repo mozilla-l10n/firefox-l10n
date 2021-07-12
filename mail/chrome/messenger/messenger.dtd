@@ -502,6 +502,8 @@
 <!ENTITY deleteJunk.accesskey "с">
 <!ENTITY importCmd.label "Імпорт…">
 <!ENTITY importCmd.accesskey "І">
+<!ENTITY exportCmd.label "Експорт…">
+<!ENTITY exportCmd.accesskey "к">
 <!ENTITY clearRecentHistory.label "Очистити недавню історію…">
 <!ENTITY clearRecentHistory.accesskey "О">
 <!ENTITY accountManagerCmd2.label "Налаштування облікового запису">
