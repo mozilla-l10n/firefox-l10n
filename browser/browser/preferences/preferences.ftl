@@ -857,6 +857,10 @@ forms-primary-pw-change =
 forms-primary-pw-former-name = { "" }
 forms-primary-pw-fips-title = Du är för närvarande i FIPS-läge. FIPS kräver ett huvudlösenord.
 forms-master-pw-fips-desc = Ändring av lösenordet misslyckades
+forms-windows-sso =
+    .label = Tillåt Windows enkel inloggning för Microsoft-, arbets- och skolkonton.
+forms-windows-sso-learn-more-link = Läs mer
+forms-windows-sso-desc = Hantera konton i dina enhetsinställningar
 
 ## OS Authentication dialog
 
