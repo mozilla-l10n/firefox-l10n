@@ -502,6 +502,8 @@
 <!ENTITY deleteJunk.accesskey "b">
 <!ENTITY importCmd.label "Importera…">
 <!ENTITY importCmd.accesskey "e">
+<!ENTITY exportCmd.label "Exportera…">
+<!ENTITY exportCmd.accesskey "x">
 <!ENTITY clearRecentHistory.label "Rensa historik…">
 <!ENTITY clearRecentHistory.accesskey "R">
 <!ENTITY accountManagerCmd2.label "Kontoinställningar">
@@ -719,7 +721,6 @@
 <!ENTITY locationColumn.label "Plats">
 <!ENTITY idColumn.label "Mottagen ordning">
 <!ENTITY attachmentColumn.label "Bilagor">
-
 <!ENTITY deleteColumn.label "Ta bort">
 
 <!-- Thread Pane Tooltips -->
@@ -745,7 +746,6 @@
 <!ENTITY locationColumn2.tooltip "Sortera efter plats">
 <!ENTITY idColumn2.tooltip "Sortera efter ordning mottaget">
 <!ENTITY attachmentColumn2.tooltip "Sortera efter bilagor">
-
 <!ENTITY deleteColumn.tooltip "Ta bort ett meddelande">
 
 <!-- Thread Pane Context Menu -->

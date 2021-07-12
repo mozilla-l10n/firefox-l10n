@@ -10,8 +10,6 @@ preferences-title =
             [windows] Inställningar
            *[other] Inställningar
         }
-preferences-tab-title =
-    .title = Inställningar
 preferences-doc-title = Inställningar
 category-list =
     .aria-label = Kategorier
@@ -259,6 +257,9 @@ diskspace-legend = Diskutrymme
 offline-compact-folder =
     .label = Komprimera alla mappar när det kommer spara över
     .accesskey = K
+offline-compact-folder-automatically =
+    .label = Fråga varje gång innan du komprimerar
+    .accesskey = F
 compact-folder-size =
     .value = MB totalt
 
