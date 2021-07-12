@@ -8,3 +8,5 @@ common-dialog-title-system = { -brand-short-name }
 common-dialog-title-unknown = Tidak Diketahui
 common-dialog-username =
     .value = Nama Pengguna
+common-dialog-password =
+    .value = Kata sandi
