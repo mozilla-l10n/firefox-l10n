@@ -10,6 +10,7 @@ account-setup-title = Ezarri badaukazun posta elektroniko helbide bat
 account-setup-description =
     Zure unekoposta elektroniko helbidea erabiltzeko idatzi zure kredentzialak. <br/>
     { -brand-product-name } automatikoki bilatuko du badabiltzan eta gomendatutako zerbitzari konfigurazioa.
+account-setup-secondary-description = { -brand-product-name } automatikoki bilatuko du badabilen eta gomendatzen den zerbitzari konfigurazioa.
 account-setup-success-title = Kontua ondo sortu da!
 account-setup-success-description = Orain zuk { -brand-short-name } kontua erabil dezakezu.
 
