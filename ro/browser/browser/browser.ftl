@@ -402,7 +402,7 @@ urlbar-placeholder-with-name =
 urlbar-permissions-granted =
     .tooltiptext = Ai acordat permisiuni suplimentare acestui site web.
 urlbar-switch-to-tab =
-    .value = Treci pe fila:
+    .value = Comută pe filă:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Extensie:
