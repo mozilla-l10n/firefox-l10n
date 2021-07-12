@@ -97,6 +97,8 @@ perftools-thread-dns-resolver =
     .title = 이 스레드에서 DNS 확인 발생
 perftools-thread-js-helper =
     .title = 오프 메인 스레드 컴파일과 같은 JS 엔진 백그라운드 작업
+perftools-thread-task-controller =
+    .title = TaskController 스레드 풀 스레드
 
 ##
 
@@ -108,7 +110,6 @@ perftools-tools-threads-input-label =
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
 ## preferences are true.
 
--profiler-brand-name = Firefox Profiler
 perftools-onboarding-message = <b>새 기능</b>: { -profiler-brand-name }가 이제 개발자 도구에 통합되었습니다. 이 강력한 새 도구에 대해 <a>더 알아보세요</a>.
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (한시적으로 <a>{ options-context-advanced-settings }</a>을 통해 원래의 성능 패널에 액세스할 수 있습니다)
