@@ -97,6 +97,8 @@ perftools-thread-dns-resolver =
     .title = Η ανάλυση DNS συμβαίνει σε αυτό το thread
 perftools-thread-js-helper =
     .title = Εργασία παρασκήνιου της μηχανής JS, όπως μεταγλωττίσεις εκτός του κύριου νήματος
+perftools-thread-task-controller =
+    .title = Νήματα του TaskController pool
 
 ##
 
