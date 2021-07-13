@@ -88,7 +88,7 @@
 <!ENTITY styleBoldCmd.label "Negrita">
 <!ENTITY styleBoldCmd.accesskey "N">
 <!ENTITY styleBoldCmd.key "b">
-<!ENTITY styleItalicCmd.label "Cursiva">
+<!ENTITY styleItalicCmd.label "Itálica">
 <!ENTITY styleItalicCmd.accesskey "I">
 <!ENTITY styleItalicCmd.key "i">
 <!ENTITY styleUnderlineCmd.label "Subrayado">
@@ -261,6 +261,7 @@
 <!ENTITY tableProperties.label "Propiedades de la tabla…">
 <!ENTITY tableProperties.accesskey "o">
 
+<!-- Toolbar-only items -->
 <!ENTITY imageToolbarCmd.label "Imagen">
 <!ENTITY imageToolbarCmd.tooltip "Inserta una nueva imagen o edita las propiedades de la imagen seleccionada">
 <!ENTITY hruleToolbarCmd.label "Línea Hor.">
@@ -279,7 +280,7 @@
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Tamaño menor de letra">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Tamaño mayor de tipo de letra">
 <!ENTITY boldToolbarCmd.tooltip "Negrita">
-<!ENTITY italicToolbarCmd.tooltip "Cursiva">
+<!ENTITY italicToolbarCmd.tooltip "Itálica">
 <!ENTITY underlineToolbarCmd.tooltip "Subrayado">
 <!ENTITY bulletListToolbarCmd.tooltip "Aplicar o eliminar lista no numerada">
 <!ENTITY numberListToolbarCmd.tooltip "Aplicar o eliminar lista numerada">
