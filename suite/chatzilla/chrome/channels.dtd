@@ -25,6 +25,7 @@
 <!ENTITY refreshNow.label     "立即刷新">
 <!ENTITY refreshNow.accesskey "R">
 
+<!ENTITY network.hint.label "输入任何网络或服务器名称（可包含端口），以及要加入的频道名称。">
 
 <!ENTITY col.network "网络">
 <!ENTITY col.name  "名称">
