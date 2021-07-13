@@ -857,6 +857,10 @@ forms-primary-pw-change =
 forms-primary-pw-former-name = { "" }
 forms-primary-pw-fips-title = Olet parhaillaan FIPS-tilassa. FIPS edellyttää, että pääsalasana ei ole tyhjä.
 forms-master-pw-fips-desc = Salasanan vaihto epäonnistui
+forms-windows-sso =
+    .label = Salli Windowsin kertakirjautuminen Microsoft-, työ- ja koulutileille.
+forms-windows-sso-learn-more-link = Lisätietoja
+forms-windows-sso-desc = Hallinnoi tilejä laitteen asetuksissa
 
 ## OS Authentication dialog
 
