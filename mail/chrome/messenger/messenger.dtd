@@ -502,6 +502,8 @@
 <!ENTITY deleteJunk.accesskey "ι">
 <!ENTITY importCmd.label "Εισαγωγή…">
 <!ENTITY importCmd.accesskey "γ">
+<!ENTITY exportCmd.label "Εξαγωγή…">
+<!ENTITY exportCmd.accesskey "ξ">
 <!ENTITY clearRecentHistory.label "Εκκαθάριση πρόσφατου ιστορικού…">
 <!ENTITY clearRecentHistory.accesskey "Ι">
 <!ENTITY accountManagerCmd2.label "Ρυθμίσεις λογαριασμού">
