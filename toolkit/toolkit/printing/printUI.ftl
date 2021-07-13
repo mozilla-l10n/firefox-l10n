@@ -38,11 +38,31 @@ printui-scale-pcent = Tỷ lệ
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = In hai mặt
 printui-two-sided-printing-off = Tắt
+# Flip the sheet as if it were bound along its long edge.
+printui-two-sided-printing-long-edge = Lật theo chiều dài
+# Flip the sheet as if it were bound along its short edge.
+printui-two-sided-printing-short-edge = Lật theo chiều rộng
 # Section title for miscellaneous print options
 printui-options = Tùy chọn
 printui-headers-footers-checkbox = In đầu trang và chân trang
 printui-backgrounds-checkbox = In phần nền
 printui-selection-checkbox = Chỉ in phần được chọn
+
+## The "Format" section, select a version of the website to print. Radio
+## options to select between the original page, selected text only, or a version
+## where the page is processed with "Reader View".
+
+# The section title.
+printui-source-label = Định dạng
+# Option for printing the original page.
+printui-source-radio = Gốc
+# Option for printing just the content a user selected prior to printing.
+printui-selection-radio = Phần được chọn
+# Option for "simplifying" the page by printing the Reader View version.
+printui-simplify-page-radio = Đơn giản hóa
+
+##
+
 printui-color-mode-label = Chế độ màu
 printui-color-mode-color = Màu
 printui-color-mode-bw = Đen và trắng
