@@ -4,6 +4,7 @@
 
 calendar-title = Agenda
 calendar-title-reminder = Lembretes
+calendar-title-notification = Notificações
 calendar-title-category = Categorias
 dateformat-label =
     .value = Formato de data:
@@ -179,6 +180,7 @@ event-alarm-time-label =
 task-alarm-time-label =
     .value = Antecedência padrão de alarmes para tarefas:
     .accesskey = n
+calendar-notifications-customize-label = Notificações podem ser personalizadas em cada agenda, na janela de propriedades da agenda.
 category-new-label = Nova categoria
 category-edit-label = Editar categoria
 category-overwrite-title = Aviso: nome já existe
