@@ -14,3 +14,5 @@ openpgp-compose-key-status-open-details = Aukeratutako hartzailearen gakoak kude
 openpgp-recip-good = Ados
 openpgp-recip-missing = Ez dago gakorik erabilgarri
 openpgp-recip-none-accepted = Gakoa ez da onartu
+openpgp-compose-general-info-alias-learn-more = Argibide gehiago
+openpgp-compose-alias-status-error = Alias gako erabilezina edo ez-eskuragarria
