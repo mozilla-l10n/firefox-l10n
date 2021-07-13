@@ -873,6 +873,10 @@ forms-primary-pw-change =
 forms-primary-pw-former-name = { "" }
 forms-primary-pw-fips-title = Rydych ym modd FIPS. Mae FIPS angen Prif Gyfrinair nad yw'n wag.
 forms-master-pw-fips-desc = Methu Newid eich Cyfrinair
+forms-windows-sso =
+    .label = Caniatáu mewngofnodiad unigol cyfrifon Microsoft, gwaith ac ysgol.
+forms-windows-sso-learn-more-link = Dysgu rhagor
+forms-windows-sso-desc = Rheoli cyfrifon yn eich gosodiadau dyfais
 
 ## OS Authentication dialog
 
