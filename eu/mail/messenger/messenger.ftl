@@ -11,11 +11,23 @@ unread-messages-os-tooltip =
     }
 about-rights-notification-text = { -brand-short-name } kode irekikoa eta software librea da, munduan zehar milaka kide dituen komunitateak egina.
 
+## Content tabs
+
+content-tab-page-loading-icon =
+    .alt = Orria kargatzen ari da
+content-tab-security-high-icon =
+    .alt = Konexioa segurua da
+content-tab-security-broken-icon =
+    .alt = Konexioa ez da segurua
+
 ## Toolbar
 
-addons-and-themes-button =
+addons-and-themes-toolbarbutton =
     .label = Gehigarriak eta itxurak
-    .tooltip = Gehigarriak eta itxurak kudeatu
+    .tooltiptext = Kudeatu zure gehigarriak
+quick-filter-toolbarbutton =
+    .label = Iragazki bizkorra
+    .tooltiptext = Iragazi mezuak
 redirect-msg-button =
     .label = Birbideratzea
     .tooltiptext = Birbideratu hautatutako mezua
@@ -109,3 +121,6 @@ message-header-address-not-in-address-book-icon =
 addon-removal-title = { $name } kendu?
 addon-removal-confirmation-button = Kendu
 addon-removal-confirmation-message = Kendu { $name } eta bere konfigurazio eta datuak { -brand-short-name }(e)tik?
+caret-browsing-prompt-title = Kurtsore bidezko nabigazioa
+caret-browsing-prompt-text = F7 zapaltzeak kurtsore bidezko nabigazioa gaitzen edo desgaitzen du. Eginbide honek zenbait edukitan kurtsore bat ezartzen du testua teklatuarekin aukeratzea baimenduz. Kurtsore bidezko nabigazioa gaitu nahi duzu?
+caret-browsing-prompt-check-text = Ez galdetu berriz.

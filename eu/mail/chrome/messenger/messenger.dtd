@@ -502,6 +502,8 @@
 <!ENTITY deleteJunk.accesskey "E">
 <!ENTITY importCmd.label "Inportatu…">
 <!ENTITY importCmd.accesskey "I">
+<!ENTITY exportCmd.label "Esportatu…">
+<!ENTITY exportCmd.accesskey "E">
 <!ENTITY clearRecentHistory.label "Garbitu azkenaldiko historia…">
 <!ENTITY clearRecentHistory.accesskey "h">
 <!ENTITY accountManagerCmd2.label "Kontu-ezarpenak">
@@ -719,7 +721,6 @@
 <!ENTITY locationColumn.label "Kokalekua">
 <!ENTITY idColumn.label "Jasotako ordena">
 <!ENTITY attachmentColumn.label "Eranskinak">
-
 <!ENTITY deleteColumn.label "Ezabatu">
 
 <!-- Thread Pane Tooltips -->
@@ -745,7 +746,6 @@
 <!ENTITY locationColumn2.tooltip "Ordenatu kokalekuaren arabera">
 <!ENTITY idColumn2.tooltip "Ordenatu jasotako ordenaren arabera">
 <!ENTITY attachmentColumn2.tooltip "Ordenatu eranskinen arabera">
-
 <!ENTITY deleteColumn.tooltip "Ezabatu mezua">
 
 <!-- Thread Pane Context Menu -->

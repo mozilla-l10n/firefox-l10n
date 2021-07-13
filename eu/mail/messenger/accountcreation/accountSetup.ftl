@@ -102,14 +102,16 @@ account-setup-step3-image =
     .title = Konfigurazioa aurkitua
 account-setup-step4-image =
     .title = Konexio errorea
+account-setup-privacy-footnote = Zure kredentzialak gure <a data-l10n-name="privacy-policy-link"> Pribatutasun-politikaren arabera erabiliko dira </a> eta zure ordenagailuan lokalean bakarrik gordeko dira
 account-setup-step5-image =
     .title = Kontua sortua
-account-setup-privacy-footnote = Zure kredentzialak gure <a data-l10n-name="privacy-policy-link"> Pribatutasun-politikaren arabera erabiliko dira </a> eta zure ordenagailuan lokalean bakarrik gordeko dira
+account-setup-privacy-footnote2 = Zure kredentzialak lokalean bakarrik, zure ordenagailuan, gordeko dira
 account-setup-selection-help = Ez dakizu zer hautatu?
 account-setup-selection-error = Laguntza bila?
 account-setup-success-help = Ez dakizu zeintzuk diren hurrengo urratsak?
 account-setup-documentation-help = Konfigurazio dokumentazioa
 account-setup-forum-help = Laguntza foroa
+account-setup-privacy-help = Pribatutasun-politika
 account-setup-getting-started = Nola hasi
 
 ## Results area
