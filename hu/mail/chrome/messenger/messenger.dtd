@@ -502,6 +502,8 @@
 <!ENTITY deleteJunk.accesskey "a">
 <!ENTITY importCmd.label "Importálás…">
 <!ENTITY importCmd.accesskey "I">
+<!ENTITY exportCmd.label "Exportálás…">
+<!ENTITY exportCmd.accesskey "x">
 <!ENTITY clearRecentHistory.label "Előzmények törlése…">
 <!ENTITY clearRecentHistory.accesskey "E">
 <!ENTITY accountManagerCmd2.label "Postafiók beállításai">
