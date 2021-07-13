@@ -578,19 +578,59 @@ bookmarks-other-bookmarks-menu =
     .label = অন্য বুকমাৰ্কসমূহ
 bookmarks-mobile-bookmarks-menu =
     .label = ম'বাইলৰ বুকমাৰ্কসমূহ
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] বুকমাৰ্কৰ ছাইডবাৰ লুকুৱাওক
+           *[other] বুকমাৰ্কৰ ছাইডবাৰ চাওক
+        }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] বুকমাৰ্কৰ টুলবাৰ লুকুৱাওক
+           *[other] বুকমাৰ্কৰ টুলবাৰ চাওক
+        }
+bookmarks-tools-toolbar-visibility-panel =
+    .label =
+        { $isVisible ->
+            [true] বুকমাৰ্কৰ টুলবাৰ লুকুৱাওক
+           *[other] বুকমাৰ্কৰ টুলবাৰ দেখুৱাওক
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] টুলবাৰৰ পৰা বুকমাৰ্কৰ মেন্যু আঁতৰাওক
+           *[other] টুলবাৰত বুকমাৰ্কৰ মেন্যু যোগ কৰক
+        }
+bookmarks-search =
+    .label = বুকমাৰ্কৰ সন্ধান কৰক
+bookmarks-tools =
+    .label = বুকমাৰ্ক কৰা সা-সঁজুলি
 bookmarks-bookmark-edit-panel =
     .label = এই পত্ৰচিহ্ন সম্পাদন কৰক
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = বুকমাৰ্কৰ টুলবাৰ
+    .accesskey = B
+    .aria-label = বুকমাৰ্কসমূহ
 bookmarks-toolbar-menu =
     .label = পত্ৰচিহ্ন টুলবাৰ
 bookmarks-toolbar-placeholder =
     .title = পত্ৰচিহ্ন টুলবাৰৰ বস্তুবোৰ
 bookmarks-toolbar-placeholder-button =
     .label = পত্ৰচিহ্ন টুলবাৰৰ বস্তুবোৰ
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = বৰ্তমানৰ টেব বুকমাৰ্ক কৰক
 
 ## Library Panel items
 
 library-bookmarks-menu =
     .label = বুকমাৰ্কসমূহ
+library-recent-activity-title =
+    .value = শেহতীয়া কাৰ্যকলাপ
 
 ## Pocket toolbar button
 
@@ -600,9 +640,26 @@ save-to-pocket-button =
 
 ## Repair text encoding toolbar button
 
+repair-text-encoding-button =
+    .label = পাঠৰ এনক'ডিং মেৰামতি কৰক
+    .tooltiptext = পৃষ্ঠাৰ সমলৰ পৰা পাঠৰ শুদ্ধ এনক'ডিং অনুমান কৰক
 
 ## Customize Toolbar Buttons
 
+# Variables:
+#  $shortcut (String): keyboard shortcut to open the add-ons manager
+toolbar-addons-themes-button =
+    .label = এড-অন আৰু থীমসমূহ
+    .tooltiptext = আপোনাৰ এড-অন আৰু থীমসমূহ পৰিচালনা কৰক ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open settings (only on macOS)
+toolbar-settings-button =
+    .label = ছেটিংছ
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] ছেটিংছ খোলক ({ $shortcut })
+           *[other] ছেটিংছ খোলক
+        }
 
 ## More items
 
@@ -612,6 +669,9 @@ more-menu-go-offline =
 
 ## EME notification panel
 
+eme-notifications-drm-content-playing = এই ছাইটৰ কিছুমান অডিঅ' বা ভিডিঅ'ত DRM ছফ্টৱেৰ ব্যৱহাৰ কৰা হয় যাৰ ফলত { -brand-short-name }-এ আপোনাক এইটোৰে যি কৰিব দিব পাৰে সেয়া সীমিত কৰা হ'ব পাৰে।
+eme-notifications-drm-content-playing-manage = ছেটিংছ পৰিচালনা কৰক
+eme-notifications-drm-content-playing-manage-accesskey = M
 
 ## Password save/update panel
 
