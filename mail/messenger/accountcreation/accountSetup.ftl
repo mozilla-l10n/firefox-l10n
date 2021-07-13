@@ -102,14 +102,15 @@ account-setup-step3-image =
     .title = 找到設定
 account-setup-step4-image =
     .title = 連線錯誤
+account-setup-privacy-footnote = 將依照我們的<a data-l10n-name="privacy-policy-link">隱私權保護政策</a>使用您的登入資訊，並且只會儲存於您本機電腦上。
 account-setup-step5-image =
     .title = 已建立帳號
-account-setup-privacy-footnote = 將依照我們的<a data-l10n-name="privacy-policy-link">隱私權保護政策</a>使用您的登入資訊，並且只會儲存於您本機電腦上。
 account-setup-selection-help = 不確定要怎麼選？
 account-setup-selection-error = 需要幫忙嗎？
 account-setup-success-help = 不確定接下來要做什麼嗎？
 account-setup-documentation-help = 設定文件
 account-setup-forum-help = 技術支援討論區
+account-setup-privacy-help = 隱私權保護政策
 account-setup-getting-started = 開始使用
 
 ## Results area
