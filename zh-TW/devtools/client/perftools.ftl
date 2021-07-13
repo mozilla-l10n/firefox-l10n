@@ -90,6 +90,8 @@ perftools-thread-dns-resolver =
     .title = DNS 解析會發生在此執行緒
 perftools-thread-js-helper =
     .title = JS 引擎的背景工作，例如非主執行緒編譯（off-main-thread compile）
+perftools-thread-task-controller =
+    .title = TaskController 執行緒池當中的執行緒
 
 ##
 
@@ -101,7 +103,6 @@ perftools-tools-threads-input-label =
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
 ## preferences are true.
 
--profiler-brand-name = Firefox Profiler
 perftools-onboarding-message = <b>全新</b>: 現在起，已將 { -profiler-brand-name } 整合進開發者工具。了解這個全新強大工具的<a>更多資訊</a>。
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = （短時間內您還是可以透過<a>{ options-context-advanced-settings }</a>使用原本的效能面板）
