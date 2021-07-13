@@ -10,7 +10,7 @@
 <!ENTITY markAsUnreadCmd.accesskey "n">
 <!ENTITY markAsUnreadCmd.key       "m">
 
-<!ENTITY markAsUnreadCmd2.key      "o">
+<!ENTITY markAsUnreadCmd2.key      "u">
 
 <!ENTITY markFlaggedCmd.label     "Destacado">
 <!ENTITY markFlaggedCmd.accesskey "D">
