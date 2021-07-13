@@ -48,6 +48,22 @@ printui-options = Beállítások
 printui-headers-footers-checkbox = Fejlécek és láblécek nyomtatása
 printui-backgrounds-checkbox = Hátterek nyomtatása
 printui-selection-checkbox = Csak a kijelölés nyomtatása
+
+## The "Format" section, select a version of the website to print. Radio
+## options to select between the original page, selected text only, or a version
+## where the page is processed with "Reader View".
+
+# The section title.
+printui-source-label = Formátum
+# Option for printing the original page.
+printui-source-radio = Eredeti
+# Option for printing just the content a user selected prior to printing.
+printui-selection-radio = Kijelölés
+# Option for "simplifying" the page by printing the Reader View version.
+printui-simplify-page-radio = Egyszerűsített
+
+##
+
 printui-color-mode-label = Színmód
 printui-color-mode-color = Színes
 printui-color-mode-bw = Fekete-fehér

@@ -857,6 +857,10 @@ forms-primary-pw-change =
 forms-primary-pw-former-name = Korábban mesterjelszóként ismert
 forms-primary-pw-fips-title = Jelenleg FIPS-módban van. A FIPS-hez nem üres elsődleges jelszó szükséges.
 forms-master-pw-fips-desc = Sikertelen jelszóváltoztatás
+forms-windows-sso =
+    .label = Lehetővé teszi a Windows egyszeri bejelentkezésének használatát a microsoftos, munkahelyi és iskolai fiókok számára
+forms-windows-sso-learn-more-link = További tudnivalók
+forms-windows-sso-desc = Fiókok kezelése az eszközbeállításokban
 
 ## OS Authentication dialog
 
