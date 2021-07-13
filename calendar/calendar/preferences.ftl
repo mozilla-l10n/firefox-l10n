@@ -180,6 +180,7 @@ event-alarm-time-label =
 task-alarm-time-label =
     .value = Zereginen aurretik gogorarazleari ezarriko zaion denbora lehenetsia:
     .accesskey = r
+calendar-notifications-customize-label = Jakinarazpenak egutegi bakoitzean pertsonalizatu daitezke egutegiaren propietate leihoan.
 category-new-label = Kategoria berria
 category-edit-label = Kategoria editatu
 category-overwrite-title = Oharra: Bikoiztutako izena
