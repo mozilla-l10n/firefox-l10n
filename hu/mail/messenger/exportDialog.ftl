@@ -9,5 +9,7 @@ export-dialog =
     .buttonlabelaccept = Következő
 export-dialog-button-finish = Befejezés
 export-dialog-file-picker = Exportálás ZIP-fájlba
+export-dialog-desc1 = E-mail-fiókok, levelek, címjegyzékek, beállítások ZIP-fájlba exportálása.
+export-dialog-desc2 = Ha szükséges, importálhatja a ZIP-fájlt a profil helyreállításához.
 export-dialog-exporting = Exportálás…
 export-dialog-exported = Exportálva!
