@@ -4,6 +4,7 @@
 
 calendar-title = Calendr
 calendar-title-reminder = Atgoffwyr
+calendar-title-notification = Hysbysiadau
 calendar-title-category = Categorïau
 dateformat-label =
     .value = Fformat Testun Dyddiad:
@@ -179,6 +180,7 @@ event-alarm-time-label =
 task-alarm-time-label =
     .value = Amser rhagosodedig y bydd atgoffwr yn cael ei bennu cyn tasg:
     .accesskey = m
+calendar-notifications-customize-label = Mae modd addasu hysbysiadau ar gyfer pob calendr yn ffenestr priodweddau'r calendr.
 category-new-label = Categori Newydd
 category-edit-label = Golygu Categori
 category-overwrite-title = Rhybudd: Enw dyblyg
