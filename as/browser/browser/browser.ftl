@@ -165,53 +165,6 @@ page-action-remove-from-urlbar =
 page-action-remove-extension =
     .label = এক্সটেনশ্যন আঁতৰাওক
 
-## Page Action menu
-
-# Variables
-# $tabCount (integer) - Number of tabs selected
-page-action-send-tabs-panel =
-    .label =
-        { $tabCount ->
-            [1] ডিভাইচলৈ টেব পঠিয়াওক
-            [one] ডিভাইচলৈ { $tabCount }টা টেব পঠিয়াওক
-           *[other] ডিভাইচলৈ { $tabCount }টা টেব পঠিয়াওক
-        }
-page-action-send-tabs-urlbar =
-    .tooltiptext =
-        { $tabCount ->
-            [1] ডিভাইচলৈ { $tabCount }টা টেব পঠিয়াওক
-            [one] ডিভাইচলৈ { $tabCount }টা টেব পঠিয়াওক
-           *[other] ডিভাইচলৈ { $tabCount }টা টেব পঠিয়াওক
-        }
-page-action-copy-url-panel =
-    .label = লিংক কপি কৰক
-page-action-copy-url-urlbar =
-    .tooltiptext = লিংক কপি কৰক
-page-action-email-link-panel =
-    .label = লিংক ইমেইল কৰক…
-page-action-email-link-urlbar =
-    .tooltiptext = লিংক ইমেইল কৰক…
-page-action-share-url-panel =
-    .label = ভাগ-বতৰা কৰক
-page-action-share-url-urlbar =
-    .tooltiptext = ভাগ-বতৰা কৰক
-page-action-share-more-panel =
-    .label = অধিক…
-page-action-send-tab-not-ready =
-    .label = ডিভাইচসমূহ ছিংক কৰি থকা হৈছ…
-# "Pin" is being used as a metaphor for expressing the fact that these tabs
-# are "pinned" to the left edge of the tabstrip. Really we just want the
-# string to express the idea that this is a lightweight and reversible
-# action that keeps your tab where you can reach it easily.
-page-action-pin-tab-panel =
-    .label = টেব পিন কৰক
-page-action-pin-tab-urlbar =
-    .tooltiptext = টেব পিন কৰক
-page-action-unpin-tab-panel =
-    .label = টেব আনপিন কৰক
-page-action-unpin-tab-urlbar =
-    .tooltiptext = টেব আনপিন কৰক
-
 ## Auto-hide Context Menu
 
 full-screen-autohide =
@@ -393,6 +346,12 @@ browser-tab-audio-pip = ছবিৰ-ওপৰত-ছবি
 ## Variables:
 ##  $count (number): number of affected tabs
 
+browser-tab-unblock =
+    { $count ->
+        [1] টেব চলাওক
+        [one] { $count }টা টেব চলাওক
+       *[other] { $count }টা টেব চলাওক
+    }
 
 ## Bookmarks toolbar items
 
@@ -419,6 +378,8 @@ popup-select-microphone-device =
     .accesskey = M
 popup-select-microphone-icon =
     .tooltiptext = মাইক্ৰ'ফ'ন
+popup-select-speaker-icon =
+    .tooltiptext = স্পীকাৰ
 popup-all-windows-shared = আপোনাৰ পৰ্দাত থকা সকলো দৃশ্যমান উইণ্ড'ক অংশীদাৰী কৰা হব।
 popup-screen-sharing-not-now =
     .label = এতিয়া নহয়
@@ -455,6 +416,8 @@ urlbar-default-placeholder =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = ঠিকনা সন্ধান কৰক অথবা সুমুৱাওক
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = ব্ৰাউজাৰ ৰিম'ট কণ্ট্ৰ'লৰ আওতাত আছে
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -487,8 +450,6 @@ urlbar-placeholder-search-mode-other-tabs =
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = { $name }-এৰে সন্ধান কৰক নাইবা ঠিকনা লিখক
-urlbar-remote-control-notification-anchor =
-    .tooltiptext = ব্ৰাউজাৰ ৰিম'ট কণ্ট্ৰ'লৰ আওতাত আছে
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
