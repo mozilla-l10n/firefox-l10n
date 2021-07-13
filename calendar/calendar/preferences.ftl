@@ -4,6 +4,7 @@
 
 calendar-title = Lịch
 calendar-title-reminder = Nhắc nhở
+calendar-title-notification = Thông báo
 calendar-title-category = Thể loại
 dateformat-label =
     .value = Định dạng văn bản ngày:
@@ -179,6 +180,7 @@ event-alarm-time-label =
 task-alarm-time-label =
     .value = Thời gian mặc định một lời nhắc được đặt trước một tác vụ:
     .accesskey = o
+calendar-notifications-customize-label = Thông báo có thể được tùy chỉnh cho từng lịch trong cửa sổ thuộc tính của lịch.
 category-new-label = Phân mục mới
 category-edit-label = Chỉnh sửa Phân mục
 category-overwrite-title = Cảnh báo: Trùng tên
