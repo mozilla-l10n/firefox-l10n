@@ -10,8 +10,6 @@ preferences-title =
             [windows] 选项
            *[other] 首选项
         }
-preferences-tab-title =
-    .title = 首选项
 preferences-doc-title = 首选项
 category-list =
     .aria-label = 分类
@@ -263,6 +261,9 @@ diskspace-legend = 磁盘空间
 offline-compact-folder =
     .label = 需要节省空间时压缩全部文件夹
     .accesskey = a
+offline-compact-folder-automatically =
+    .label = 每次压缩前先询问我
+    .accesskey = b
 compact-folder-size =
     .value = MB 合计
 
