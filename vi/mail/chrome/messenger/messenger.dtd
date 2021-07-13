@@ -502,6 +502,8 @@
 <!ENTITY deleteJunk.accesskey "X">
 <!ENTITY importCmd.label "Nhập…">
 <!ENTITY importCmd.accesskey "N">
+<!ENTITY exportCmd.label "Xuất…">
+<!ENTITY exportCmd.accesskey "x">
 <!ENTITY clearRecentHistory.label "Xóa lịch sử gần đây…">
 <!ENTITY clearRecentHistory.accesskey "H">
 <!ENTITY accountManagerCmd2.label "Cài đặt tài khoản">
@@ -719,7 +721,6 @@
 <!ENTITY locationColumn.label "Địa chỉ">
 <!ENTITY idColumn.label "Thứ tự nhận được">
 <!ENTITY attachmentColumn.label "Đính kèm">
-
 <!ENTITY deleteColumn.label "Xóa">
 
 <!-- Thread Pane Tooltips -->
@@ -745,7 +746,6 @@
 <!ENTITY locationColumn2.tooltip "Sắp xếp theo địa chỉ">
 <!ENTITY idColumn2.tooltip "Sắp xếp theo thứ tự nhận được">
 <!ENTITY attachmentColumn2.tooltip "Sắp xếp theo đính kèm">
-
 <!ENTITY deleteColumn.tooltip "Xóa tin nhắn">
 
 <!-- Thread Pane Context Menu -->

@@ -10,8 +10,6 @@ preferences-title =
             [windows] Tùy chọn
            *[other] Tùy chỉnh
         }
-preferences-tab-title =
-    .title = Tùy chỉnh
 preferences-doc-title = Tùy chỉnh
 category-list =
     .aria-label = Thể loại
@@ -263,6 +261,9 @@ diskspace-legend = Dung lượng đĩa
 offline-compact-folder =
     .label = Nén tất cả các thư mục khi nó sẽ lưu lại
     .accesskey = a
+offline-compact-folder-automatically =
+    .label = Hỏi mọi lúc trước khi thu gọn
+    .accesskey = b
 compact-folder-size =
     .value = MB tổng cộng
 
