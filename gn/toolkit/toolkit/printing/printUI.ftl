@@ -59,6 +59,8 @@ printui-source-label = Ysaja
 printui-source-radio = Ñepyrũgua
 # Option for printing just the content a user selected prior to printing.
 printui-selection-radio = Jeporavo
+# Option for "simplifying" the page by printing the Reader View version.
+printui-simplify-page-radio = Mombykypyre
 
 ##
 

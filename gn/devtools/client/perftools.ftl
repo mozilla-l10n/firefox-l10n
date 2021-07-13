@@ -97,6 +97,8 @@ perftools-thread-dns-resolver =
     .title = Pe DNS jehaipy oiko ko inimbópe
 perftools-thread-js-helper =
     .title = Omba’apo mokõiha JS mongu’ehápe, ñembyaty okápe inimbo guasúgui
+perftools-thread-task-controller =
+    .title = TaskControllerrapereko’i aty inimbo
 
 ##
 
@@ -108,7 +110,6 @@ perftools-tools-threads-input-label =
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
 ## preferences are true.
 
--profiler-brand-name = Firefox mba’ete moheñoiha
 perftools-onboarding-message = <b>Ipyahu</b>: { -profiler-brand-name } ko’ág̃a oĩ juajúpe mboguatahára rembipuru ndive. <a>Eikuaave</a> ko tembipuru guasu rehegua.
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (Ndahetái aravo’ípe, ikatu eike tembiapokue ra’ãngarupa ypyguápe { options-context-advanced-settings } rupive</a>)
