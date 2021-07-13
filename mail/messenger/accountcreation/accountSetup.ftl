@@ -230,6 +230,7 @@ account-setup-address-book-ldap-button = Σύνδεση σε ευρετήριο 
 account-setup-calendar-button = Σύνδεση σε απομακρυσμένο ημερολόγιο
 account-setup-button-finish = Τέλος
     .accesskey = Τ
+account-setup-looking-up-address-books = Αναζήτηση ευρετηρίων…
 account-setup-looking-up-calendars = Αναζήτηση ημερολογίων…
 account-setup-address-books-button = Ευρετήρια
 account-setup-calendars-button = Ημερολόγια

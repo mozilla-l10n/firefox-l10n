@@ -9,3 +9,5 @@ export-dialog =
     .buttonlabelaccept = Επόμενο
 export-dialog-button-finish = Τέλος
 export-dialog-file-picker = Εξαγωγή σε αρχείο zip
+export-dialog-exporting = Εξαγωγή…
+export-dialog-exported = Έγινε εξαγωγή!
