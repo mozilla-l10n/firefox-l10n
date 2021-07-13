@@ -46,3 +46,6 @@
 
 <!-- Used in networks-server dialog -->
 <!ENTITY serverEditDialog.title       "Servidor IRC">
+<!ENTITY settings.caption             "Configuración">
+<!ENTITY security.caption             "Seguridad">
+<!ENTITY serverPortDefault.label      "Predeterminado:">
