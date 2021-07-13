@@ -502,6 +502,8 @@
 <!ENTITY deleteJunk.accesskey "D">
 <!ENTITY importCmd.label "匯入…">
 <!ENTITY importCmd.accesskey "m">
+<!ENTITY exportCmd.label "匯出…">
+<!ENTITY exportCmd.accesskey "x">
 <!ENTITY clearRecentHistory.label "清除最近的歷史記錄…">
 <!ENTITY clearRecentHistory.accesskey "H">
 <!ENTITY accountManagerCmd2.label "帳號設定">
@@ -719,7 +721,6 @@
 <!ENTITY locationColumn.label "地點">
 <!ENTITY idColumn.label "收件順序">
 <!ENTITY attachmentColumn.label "附件">
-
 <!ENTITY deleteColumn.label "刪除">
 
 <!-- Thread Pane Tooltips -->
@@ -745,7 +746,6 @@
 <!ENTITY locationColumn2.tooltip "依照位置">
 <!ENTITY idColumn2.tooltip "依照接收順序排序">
 <!ENTITY attachmentColumn2.tooltip "依照附件排序">
-
 <!ENTITY deleteColumn.tooltip "刪除訊息">
 
 <!-- Thread Pane Context Menu -->
