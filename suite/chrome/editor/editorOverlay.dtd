@@ -104,7 +104,7 @@
 <!ENTITY styleBoldCmd.label "Negrita">
 <!ENTITY styleBoldCmd.accesskey "N">
 <!ENTITY styleBoldCmd.key "b">
-<!ENTITY styleItalicCmd.label "Cursiva">
+<!ENTITY styleItalicCmd.label "Itálica">
 <!ENTITY styleItalicCmd.accesskey "I">
 <!ENTITY styleItalicCmd.key "i">
 <!ENTITY styleUnderlineCmd.label "Subrayado">
@@ -325,7 +325,7 @@
 <!ENTITY bold.label "Negrita">
 <!ENTITY boldToolbarCmd.tooltip "Negrita">
 <!ENTITY italic.label "Itálica">
-<!ENTITY italicToolbarCmd.tooltip "Cursiva">
+<!ENTITY italicToolbarCmd.tooltip "Itálica">
 <!ENTITY underline.label "Subrayado">
 <!ENTITY underlineToolbarCmd.tooltip "Subrayado">
 <!ENTITY bullets.label "Viñetas">
