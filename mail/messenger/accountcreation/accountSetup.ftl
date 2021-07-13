@@ -102,14 +102,16 @@ account-setup-step3-image =
     .title = Konfiguráció megtalálva
 account-setup-step4-image =
     .title = Kapcsolódási hiba
+account-setup-privacy-footnote = A hitelesítő adatait az <a data-l10n-name="privacy-policy-link">adatvédelmi irányelveink</a> szerint használjuk fel, és csak helyben tároljuk, az Ön számítógépén.
 account-setup-step5-image =
     .title = Fiók létrehozva
-account-setup-privacy-footnote = A hitelesítő adatait az <a data-l10n-name="privacy-policy-link">adatvédelmi irányelveink</a> szerint használjuk fel, és csak helyben tároljuk, az Ön számítógépén.
+account-setup-privacy-footnote2 = A hitelesítő adatok csak helyben lesznek tárolva a számítógépen.
 account-setup-selection-help = Nem tudja, mit válasszon?
 account-setup-selection-error = Segítségre van szüksége?
 account-setup-success-help = Nem biztos a következő lépésekben?
 account-setup-documentation-help = Telepítési dokumentáció
 account-setup-forum-help = Támogatói fórum
+account-setup-privacy-help = Adatvédelmi irányelvek
 account-setup-getting-started = Első lépések
 
 ## Results area
