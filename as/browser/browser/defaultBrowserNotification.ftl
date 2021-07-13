@@ -7,3 +7,13 @@ default-browser-notification-message = <strong>{ -brand-short-name }-ক আপ�
 default-browser-notification-button =
     .label = ডিফ'ল্টৰূপে ছেট কৰক
     .accesskey = S
+
+## These strings are used for the default browser prompt. There are 2 variations
+## depending on the operating system (Windows vs other). The checkbox label and
+## secondary button are shared between the variants.
+
+default-browser-prompt-title-pin = { -brand-short-name }-ক আপোনাৰ প্ৰাথমিক ব্ৰাউজাৰ কৰিবনে?
+default-browser-prompt-message-pin = { -brand-short-name }-ক আপোনাৰ আঙুলিৰ মূৰত ৰাখক — ইয়াক আপোনাৰ ডিফ'ল্ট ব্ৰাউজাৰ কৰক আৰু আপোনাৰ টাস্কবাৰত পিন কৰক।
+default-browser-prompt-message-pin-mac = { -brand-short-name }-ক আপোনাৰ আঙুলিৰ মূৰত ৰাখক — ইয়াক আপোনাৰ ডিফ'ল্ট ব্ৰাউজাৰ কৰক আৰু আপোনাৰ "ডক"ত ৰাখক।
+default-browser-prompt-button-primary-pin = প্ৰাথমিক ব্ৰাউজাৰ কৰক
+default-browser-prompt-title-alt = { -brand-short-name }-ক আপোনাৰ ডিফ'ল্ট ব্ৰাউজাৰ কৰিবনে?
