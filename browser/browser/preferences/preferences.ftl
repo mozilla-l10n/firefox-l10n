@@ -1332,6 +1332,11 @@ permissions-block-popups-exceptions =
     .label = Eccezioni…
     .accesskey = o
 
+permissions-block-popups-exceptions-button =
+    .label = Eccezioni…
+    .accesskey = o
+    .searchkeywords = popup
+
 permissions-addon-install-warning =
     .label = Avvisa se un sito web cerca di installare un componente aggiuntivo
     .accesskey = A
