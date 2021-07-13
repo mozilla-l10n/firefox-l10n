@@ -6,4 +6,4 @@
 thunderbird-import-name = Thunderbird
 # Description of the import module
 thunderbird-import-description = Levelek importálása egy Thunderbird profilkönyvtárból.
-import-select-profile-dir = Válasszon egy profilkönyvtárat
+import-select-profile-dir-or-zip = Válasszon profilkönyvtárat vagy egy tömörített profilkönyvtárat

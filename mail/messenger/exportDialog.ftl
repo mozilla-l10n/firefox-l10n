@@ -8,5 +8,6 @@ export-dialog-window =
 export-dialog =
     .buttonlabelaccept = Következő
 export-dialog-button-finish = Befejezés
+export-dialog-file-picker = Exportálás ZIP-fájlba
 export-dialog-exporting = Exportálás…
 export-dialog-exported = Exportálva!

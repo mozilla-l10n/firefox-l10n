@@ -261,6 +261,9 @@ diskspace-legend = Lemezterület
 offline-compact-folder =
     .label = Minden mappa tömörítése, ha a megtakarított hely több lenne, mint
     .accesskey = t
+offline-compact-folder-automatically =
+    .label = Tömörítés előtt kérdezze meg minden alkalommal
+    .accesskey = e
 compact-folder-size =
     .value = MB összesen
 
