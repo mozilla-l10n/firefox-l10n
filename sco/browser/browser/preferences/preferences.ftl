@@ -857,6 +857,10 @@ forms-primary-pw-change =
 forms-primary-pw-former-name = Kent afore noo as Maister Passwird
 forms-primary-pw-fips-title = The noo, ye're in FIPS modes. FIPS needs a Primary Passwird that isnae tuim.
 forms-master-pw-fips-desc = Passwird Chynge Didnae Wirk
+forms-windows-sso =
+    .label = Alloo Windows single sign-on fur Microsoft, wark, and schuil accoonts
+forms-windows-sso-learn-more-link = Lairn mair
+forms-windows-sso-desc = Manage accoonts in yer device settins
 
 ## OS Authentication dialog
 
