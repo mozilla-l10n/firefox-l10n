@@ -12,6 +12,10 @@ about-addressbook-toolbar-new-carddav-address-book =
     .label = Nieuw CardDAV-adresboek
 about-addressbook-toolbar-new-ldap-address-book =
     .label = Nieuw LDAP-adresboek
+about-addressbook-toolbar-add-carddav-address-book =
+    .label = CardDAV-adresboek toevoegen
+about-addressbook-toolbar-add-ldap-address-book =
+    .label = LDAP-adresboek toevoegen
 about-addressbook-toolbar-new-contact =
     .label = Nieuw contact
 about-addressbook-toolbar-new-list =
@@ -31,6 +35,9 @@ about-addressbook-books-context-delete =
 about-addressbook-books-context-remove =
     .label = Verwijderen
 about-addressbook-confirm-delete-book-title = Adresboek verwijderen
+# Variables:
+# $name (String) - Name of the address book to be deleted.
+about-addressbook-confirm-delete-book = Weet u zeker dat u { $name } en alle contacten erin wilt verwijderen?
 about-addressbook-confirm-remove-remote-book-title = Adresboek verwijderen
 # Variables:
 # $name (String) - Name of the remote address book to be removed.

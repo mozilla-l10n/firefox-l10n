@@ -281,6 +281,8 @@ openpgp-selection-status =
        *[other] Uw huidige configuratie gebruikt sleutel-ID <b>{ $key }</b>
     }
 #   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status-have-key = Uw huidige configuratie gebruikt sleutel-ID <b>{ $key }</b>
+#   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-error = Uw huidige configuratie gebruikt de sleutel <b>{ $key }</b>, die is vervallen.
 openpgp-add-key-button =
     .label = Sleutel toevoegen…
@@ -306,6 +308,10 @@ openpgp-key-expires-image =
 openpgp-radio-key-expired = Vervallen op: { $date }
 openpgp-key-expired-image =
     .tooltiptext = Sleutel vervallen
+openpgp-key-expires-within-6-months-icon =
+    .title = Sleutel vervalt over minder dan 6 maanden
+openpgp-key-has-expired-icon =
+    .title = Sleutel vervallen
 openpgp-key-expand-section =
     .tooltiptext = Meer informatie
 openpgp-key-revoke-title = Sleutel intrekken
@@ -453,18 +459,13 @@ openpgp-export-secret-fail = <b>Kan de geselecteerde geheime sleutel niet export
 # Strings in keyObj.jsm
 key-ring-pub-key-revoked = De sleutel { $userId } (sleutel-ID { $keyId }) is ingetrokken.
 key-ring-pub-key-expired = De sleutel { $userId } (sleutel-ID { $keyId }) is vervallen.
-key-ring-key-disabled = De sleutel { $userId } (sleutel-ID { $keyId }) is uitgeschakeld; hij kan niet worden gebruikt.
-key-ring-key-invalid = De sleutel { $userId } (sleutel-ID { $keyId }) is niet geldig. Overweeg deze correct te verifiëren.
-key-ring-key-not-trusted = De sleutel { $userId } (sleutel-ID { $keyId }) wordt niet voldoende vertrouwd. Stel het vertrouwensniveau van uw sleutel in op ‘maximaal’ om deze te gebruiken voor ondertekening.
 key-ring-no-secret-key = Het lijkt erop dat u de geheime sleutel voor { $userId } (key ID { $keyId }) niet aan uw sleutelhanger hebt; u kunt de sleutel niet gebruiken om te ondertekenen.
 key-ring-pub-key-not-for-signing = De sleutel { $userId } (sleutel-ID { $keyId }) kan niet worden gebruikt voor ondertekening.
 key-ring-pub-key-not-for-encryption = De sleutel { $userId } (sleutel-ID { $keyId }) kan niet worden gebruikt voor versleuteling.
 key-ring-sign-sub-keys-revoked = Alle ondertekeningssubsleutels van sleutel { $userId } (sleutel-ID { $keyId }) zijn ingetrokken.
 key-ring-sign-sub-keys-expired = Alle ondertekeningssubsleutels van sleutel { $userId } (sleutel-ID { $keyId }) zijn vervallen.
-key-ring-sign-sub-keys-unusable = Alle ondertekeningssubsleutels van sleutel { $userId } (sleutel-ID { $keyId }) zijn ingetrokken, vervallen of anderszins onbruikbaar.
 key-ring-enc-sub-keys-revoked = Alle versleutelingssubsleutels van sleutel { $userId } (sleutel-ID { $keyId }) zijn ingetrokken.
 key-ring-enc-sub-keys-expired = Alle versleutelingssubsleutels van sleutel { $userId } (sleutel-ID { $keyId }) zijn vervallen.
-key-ring-enc-sub-keys-unusable = Alle versleutelingssubsleutels van sleutel { $userId } (sleutel-ID { $keyId }) zijn ingetrokken, vervallen of anderszins onbruikbaar.
 # Strings in gnupg-keylist.jsm
 keyring-photo = Foto
 user-att-photo = Gebruikerskenmerk (JPEG-afbeelding)
