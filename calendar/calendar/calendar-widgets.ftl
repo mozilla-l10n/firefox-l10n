@@ -4,3 +4,6 @@
 
 calendar-deactivated-notification-events = Jelenleg az összes naptár le van tiltva. Engedélyezzen egy meglévő naptárt, vagy adjon hozzá egy újat az események létrehozásához és szerkesztéséhez.
 calendar-deactivated-notification-tasks = Jelenleg az összes naptár le van tiltva. Engedélyezzen egy meglévő naptárt, vagy adjon hozzá egy újat a feladatok létrehozásához és szerkesztéséhez.
+calendar-notifications-label = Közelgő események értesítéseinek megtekintése
+calendar-add-notification-button =
+    .label = Értesítés hozzáadása

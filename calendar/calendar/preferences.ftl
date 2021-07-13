@@ -4,6 +4,7 @@
 
 calendar-title = Naptár
 calendar-title-reminder = Emlékeztetők
+calendar-title-notification = Értesítések
 calendar-title-category = Kategóriák
 dateformat-label =
     .value = Dátumszöveg formátuma:
@@ -179,6 +180,7 @@ event-alarm-time-label =
 task-alarm-time-label =
     .value = Értesítés bekapcsolása a feladat előtt:
     .accesskey = o
+calendar-notifications-customize-label = Minden naptár értesítése testreszabható a naptár tulajdonságai ablakban.
 category-new-label = Új kategória
 category-edit-label = Kategória szerkesztése
 category-overwrite-title = Figyelmeztetés: már van ilyen név
