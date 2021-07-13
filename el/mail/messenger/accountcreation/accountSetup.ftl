@@ -100,14 +100,15 @@ account-setup-step3-image =
     .title = Βρέθηκε ρύθμιση
 account-setup-step4-image =
     .title = Σφάλμα σύνδεσης
+account-setup-privacy-footnote = Τα διαπιστευτήριά σας θα χρησιμοποιηθούν σύμφωνα με την <a data-l10n-name="privacy-policy-link">πολιτική απορρήτου</a> μας και θα αποθηκευτούν μόνο τοπικά στον υπολογιστή σας.
 account-setup-step5-image =
     .title = Ο λογαριασμός δημιουργήθηκε
-account-setup-privacy-footnote = Τα διαπιστευτήριά σας θα χρησιμοποιηθούν σύμφωνα με την <a data-l10n-name="privacy-policy-link">πολιτική απορρήτου</a> μας και θα αποθηκευτούν μόνο τοπικά στον υπολογιστή σας.
 account-setup-selection-help = Δεν είστε σίγουροι τι να επιλέξετε;
 account-setup-selection-error = Χρειάζεστε βοήθεια;
 account-setup-success-help = Δεν γνωρίζετε σίγουρα τα επόμενα βήματα;
 account-setup-documentation-help = Τεκμηρίωση ρύθμισης
 account-setup-forum-help = Φόρουμ υποστήριξης
+account-setup-privacy-help = Πολιτική απορρήτου
 account-setup-getting-started = Ξεκινώντας
 
 ## Results area
