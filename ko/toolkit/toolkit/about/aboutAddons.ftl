@@ -374,7 +374,7 @@ addon-detail-private-browsing-disallow = 허용 안 함
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 addon-badge-recommended2 =
-    .title = { -brand-product-name }는 보안 및 성능 표준을 충족하는 확장 기능만 추천합니다
+    .title = { -brand-product-name }는 보안 및 성능 표준을 충족하는 확장 기능만 추천함
     .aria-label = { addon-badge-recommended2.title }
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
