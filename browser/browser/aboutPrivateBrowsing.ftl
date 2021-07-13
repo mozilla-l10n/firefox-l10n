@@ -9,6 +9,16 @@ about-private-browsing-info-title = আপুনি ব্যক্তিগত 
 about-private-browsing-info-myths = ব্যক্তিগত ব্ৰাউজিঙৰ বিষয়ে সাধাৰণ ভুল ধাৰণাবোৰ
 about-private-browsing =
     .title = ৱেবত সন্ধান কৰক
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff =
+    .title = { $engine }-এৰে সন্ধান কৰক নাইবা ঠিকনা লিখক
+about-private-browsing-handoff-no-engine =
+    .title = সন্ধান কৰক নাইবা ঠিকনা লিখক
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff-text = { $engine }-এৰে সন্ধান কৰক নাইবা ঠিকনা লিখক
+about-private-browsing-handoff-text-no-engine = সন্ধান কৰক নাইবা ঠিকনা লিখক
 about-private-browsing-not-private = আপুনি বৰ্তমান ব্যক্তিগত উইণ্ড'ত নাই।
 about-private-browsing-info-description = আপুনি এপ বা সকলো ব্যক্তিগত ব্ৰাউজিং টেব আৰু উইণ্ড' বন্ধ কৰিলে { -brand-short-name }-এ আপোনাৰ সন্ধানৰ লগতে ব্ৰাউজিং ইতিহাস পৰিষ্কাৰ কৰে। ই আপোনাক ৱেবছাইটসমূহ বা আপোনাৰ ইণ্টাৰনেট সেৱা প্ৰদানকাৰীৰ চকুত নামবিহীন নকৰে যদিও আপুনি অনলাইন কি কৰে সেয়া এই কম্পিউটাৰ ব্যৱহাৰ কৰা অন্য লোকৰ পৰা গোপনে ৰখাটো সহজ কৰে।
 about-private-browsing-need-more-privacy = অধিক গোপনীয়তা লাগে?
