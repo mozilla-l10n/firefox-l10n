@@ -4,3 +4,4 @@
 
 calendar-deactivated-notification-events = Alle agenda’s zijn momenteel uitgeschakeld. Schakel een bestaande agenda in of voeg een nieuwe toe om afspraken te maken en te bewerken.
 calendar-deactivated-notification-tasks = Alle agenda’s zijn momenteel uitgeschakeld. Schakel een bestaande agenda in of voeg een nieuwe toe om taken te maken en te bewerken.
+calendar-notifications-label = Meldingen tonen voor aankomende afspraken
