@@ -4,3 +4,6 @@
 
 calendar-deactivated-notification-events = 目前所有的行事曆皆已停用。請啟用或新增行事曆，才能建立或編輯事件。
 calendar-deactivated-notification-tasks = 目前所有的行事曆皆已停用。請啟用或新增行事曆，才能建立或編輯工作。
+calendar-notifications-label = 顯示即將到來的事件通知
+calendar-add-notification-button =
+    .label = 新增通知

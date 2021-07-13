@@ -4,6 +4,7 @@
 
 calendar-title = 行事曆
 calendar-title-reminder = 提醒
+calendar-title-notification = 通知
 calendar-title-category = 分類
 dateformat-label =
     .value = 日期文字格式:
@@ -179,6 +180,7 @@ event-alarm-time-label =
 task-alarm-time-label =
     .value = 提醒預設於工作前多久停止:
     .accesskey = o
+calendar-notifications-customize-label = 可以到每份行事曆的屬性視窗自訂各行事曆的通知設定。
 category-new-label = 新增分類
 category-edit-label = 編輯類別
 category-overwrite-title = 警告: 重複的名稱
