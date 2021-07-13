@@ -672,12 +672,22 @@ more-menu-go-offline =
 eme-notifications-drm-content-playing = এই ছাইটৰ কিছুমান অডিঅ' বা ভিডিঅ'ত DRM ছফ্টৱেৰ ব্যৱহাৰ কৰা হয় যাৰ ফলত { -brand-short-name }-এ আপোনাক এইটোৰে যি কৰিব দিব পাৰে সেয়া সীমিত কৰা হ'ব পাৰে।
 eme-notifications-drm-content-playing-manage = ছেটিংছ পৰিচালনা কৰক
 eme-notifications-drm-content-playing-manage-accesskey = M
+eme-notifications-drm-content-playing-dismiss = খাৰিজ কৰক
+eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Password save/update panel
 
+panel-save-update-username = ব্যৱহাৰকাৰীনাম
+panel-save-update-password = পাছৱৰ্ড
 
 ## Add-on removal warning
 
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = { $name } আঁতৰাবনে?
 
 ## Remote / Synced tabs
 
+remote-tabs-manage-account =
+    .label = একাউণ্ট পৰিচালনা কৰক
+remote-tabs-sync-now = এতিয়াই ছিংক কৰক
