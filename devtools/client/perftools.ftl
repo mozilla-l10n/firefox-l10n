@@ -91,7 +91,7 @@ perftools-thread-dns-resolver =
 perftools-thread-js-helper =
     .title = JS 引擎的后台工作，例如非主线程编译
 perftools-thread-task-controller =
-    .title = TaskController 线程池线程
+    .title = TaskController 线程池中的线程
 
 ##
 
