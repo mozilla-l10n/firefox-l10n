@@ -6,4 +6,4 @@
 thunderbird-import-name = Thunderbird
 # Description of the import module
 thunderbird-import-description = 從 Thunderbird 設定檔目錄匯入郵件。
-import-select-profile-dir = 選擇設定檔目錄
+import-select-profile-dir-or-zip = 選擇設定檔資料夾或 zip 壓縮過的設定檔資料夾
