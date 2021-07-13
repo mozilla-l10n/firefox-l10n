@@ -6,4 +6,4 @@
 thunderbird-import-name = Thunderbird
 # Description of the import module
 thunderbird-import-description = 从 Thunderbird 配置文件夹目录导入邮件。
-import-select-profile-dir = 选择配置文件目录
+import-select-profile-dir-or-zip = 选择配置文件的目录，或其压缩文件所在目录
