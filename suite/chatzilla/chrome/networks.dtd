@@ -11,6 +11,7 @@
 
 <!ENTITY networkListAdd.label         "Agregar red…">
 <!ENTITY networkListAdd.accesskey     "A">
+<!ENTITY networkListAdd.tooltip       "Agregar una red nueva">
 <!ENTITY networkListEdit.label        "Editar red…">
 <!ENTITY networkListEdit.accesskey    "E">
 <!ENTITY networkListEdit.tooltip      "Editar la red seleccionada">
@@ -26,6 +27,7 @@
 <!ENTITY serverListDown.tooltip       "Mover el servidor seleccionado hacia abajo en la lista">
 <!ENTITY serverListAdd.label          "Agregar servidor…">
 <!ENTITY serverListAdd.accesskey      "s">
+<!ENTITY serverListAdd.tooltip        "Agregar un servidor nuevo">
 <!ENTITY serverListEdit.label         "Editar servidor…">
 <!ENTITY serverListEdit.accesskey     "i">
 <!ENTITY serverListEdit.tooltip       "Editar el servidor seleccionado">
