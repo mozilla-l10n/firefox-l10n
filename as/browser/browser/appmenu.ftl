@@ -17,6 +17,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = নতুন টেব
 appmenuitem-new-window =
     .label = নতুন উইণ্ড'
 appmenuitem-new-private-window =
@@ -100,8 +102,16 @@ profiler-popup-learn-more = অধিক জানক
 profiler-popup-settings =
     .value = ছেটিংছ
 profiler-popup-recording-screen = ৰেকৰ্ড হৈ আছে…
+# The profiler presets list is generated elsewhere, but the custom preset is defined
+# here only.
+profiler-popup-presets-custom =
+    .label = নিজৰ হিচাপে
 profiler-popup-start-recording-button =
     .label = ৰেকৰ্ডিং আৰম্ভ কৰক
+profiler-popup-discard-button =
+    .label = নাকচ কৰক
+profiler-popup-capture-button =
+    .label = কেপচাৰ
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
@@ -119,6 +129,13 @@ appmenu-manage-history =
     .label = ইতিহাস পৰিচালনা কৰক
 appmenu-reopen-all-tabs = সকলো টেব পুনৰ খোলক
 appmenu-reopen-all-windows = সকলো উইণ্ড' পুনৰ খোলক
+appmenu-clear-history =
+    .label = শেহতীয়া ইতিহাস মচক…
+appmenu-recent-history-subheader = শেহতীয়া ইতিহাস
+appmenu-recently-closed-tabs =
+    .label = শেহতীয়াকৈ বন্ধ কৰা টেবসমূহ
+appmenu-recently-closed-windows =
+    .label = শেহতীয়াকৈ বন্ধ কৰা উইণ্ড'সমূহ
 
 ## Help panel
 
@@ -157,3 +174,5 @@ appmenu-customizetoolbar =
 appmenu-taskmanager =
     .label = কাৰ্য্য ব্যৱস্থাপক
 appmenu-developer-tools-subheader = ব্ৰাউজাৰৰ সা-সঁজুলি
+appmenu-developer-tools-extensions =
+    .label = বিকাশকাৰীৰ বাবে এক্সটেনশ্যন

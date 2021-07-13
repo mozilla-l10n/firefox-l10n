@@ -340,12 +340,26 @@ browser-tab-audio-playing2 = বাজি আছে
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-muted2 = নিমাত হৈ আছে
 # This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = স্বয়ং-চলন অৱৰোধ কৰা হৈছে
+# This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = ছবিৰ-ওপৰত-ছবি
 
 ## These labels should be written in all capital letters if your locale supports them.
 ## Variables:
 ##  $count (number): number of affected tabs
 
+browser-tab-mute =
+    { $count ->
+        [1] টেব মিউট কৰক
+        [one] { $count }টা টেব মিউট কৰক
+       *[other] { $count }টা টেব মিউট কৰক
+    }
+browser-tab-unmute =
+    { $count ->
+        [1] টেব আনমিউট কৰক
+        [one] { $count }টা টেব আনমিউট কৰক
+       *[other] { $count }টা টেব আনমিউট কৰক
+    }
 browser-tab-unblock =
     { $count ->
         [1] টেব চলাওক
@@ -560,6 +574,10 @@ bookmarks-sidebar-content =
     .aria-label = পত্ৰচিহ্নসমূহ
 bookmarks-menu-button =
     .label = বুকমাৰ্কৰ মেন্যু
+bookmarks-other-bookmarks-menu =
+    .label = অন্য বুকমাৰ্কসমূহ
+bookmarks-mobile-bookmarks-menu =
+    .label = ম'বাইলৰ বুকমাৰ্কসমূহ
 bookmarks-bookmark-edit-panel =
     .label = এই পত্ৰচিহ্ন সম্পাদন কৰক
 bookmarks-toolbar-menu =

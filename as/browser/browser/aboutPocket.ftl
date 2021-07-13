@@ -40,3 +40,5 @@ pocket-panel-signup-tagline-story-two = { -pocket-brand-name }-ত যিকো�
 
 pocket-panel-home-my-list = মোৰ তালিকা
 pocket-panel-home-welcome-back = পুনৰ স্বাগতম জনাইছোঁ
+pocket-panel-home-discover-more = অধিক আৱিষ্কাৰ কৰক
+pocket-panel-home-explore-more = অন্বেষণ কৰক
