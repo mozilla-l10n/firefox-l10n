@@ -102,14 +102,16 @@ account-setup-step3-image =
     .title = Wedi canfod ffurfweddiad
 account-setup-step4-image =
     .title = Gwall cysylltiad
+account-setup-privacy-footnote = Bydd eich manylion yn cael eu defnyddio'n unol â'n polisi preifatrwydd <a data-l10n-name="privacy-policy-link">polisi preifatrwydd</a> a'u cadw'n lleol ar eich cyfrifiadur.
 account-setup-step5-image =
     .title = Cyfrif wedi'i greu
-account-setup-privacy-footnote = Bydd eich manylion yn cael eu defnyddio'n unol â'n polisi preifatrwydd <a data-l10n-name="privacy-policy-link">polisi preifatrwydd</a> a'u cadw'n lleol ar eich cyfrifiadur.
+account-setup-privacy-footnote2 = Dim ond ar eich cyfrifiadur y bydd eich manylion yn cael eu storio'n lleol.
 account-setup-selection-help = Ddim yn siŵr beth i'w ddewis?
 account-setup-selection-error = Angen cymorth?
 account-setup-success-help = Ddim yn siŵr am eich camau nesaf?
 account-setup-documentation-help = Dogfennaeth gosod
 account-setup-forum-help = Fforwm cefnogi
+account-setup-privacy-help = Polisi preifatrwydd
 account-setup-getting-started = Cychwyn arni
 
 ## Results area

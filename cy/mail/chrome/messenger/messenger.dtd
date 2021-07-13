@@ -502,6 +502,8 @@
 <!ENTITY deleteJunk.accesskey "D">
 <!ENTITY importCmd.label "Mewnforio…">
 <!ENTITY importCmd.accesskey "M">
+<!ENTITY exportCmd.label "Allforio…">
+<!ENTITY exportCmd.accesskey "A">
 <!ENTITY clearRecentHistory.label "Clirio Hanes Diweddar…">
 <!ENTITY clearRecentHistory.accesskey "H">
 <!ENTITY accountManagerCmd2.label "Gosodiadau'r Cyfrif">
@@ -719,7 +721,6 @@
 <!ENTITY locationColumn.label "Lleoliad">
 <!ENTITY idColumn.label "Trefn Derbyn">
 <!ENTITY attachmentColumn.label "Atodiadau">
-
 <!ENTITY deleteColumn.label "Dileu">
 
 <!-- Thread Pane Tooltips -->
@@ -745,7 +746,6 @@
 <!ENTITY locationColumn2.tooltip "Trefnu yn ôl lleoliad">
 <!ENTITY idColumn2.tooltip "Trefnu yn ôl y drefn derbyniwyd">
 <!ENTITY attachmentColumn2.tooltip "Trefnu yn ôl atodiad">
-
 <!ENTITY deleteColumn.tooltip "Dileu neges">
 
 <!-- Thread Pane Context Menu -->
