@@ -4,6 +4,7 @@
 
 calendar-title = Agenda
 calendar-title-reminder = Herinneringen
+calendar-title-notification = Meldingen
 calendar-title-category = Categorieën
 dateformat-label =
     .value = Datumtekstnotatie:
@@ -179,6 +180,7 @@ event-alarm-time-label =
 task-alarm-time-label =
     .value = Standaard tijd voorafgaand aan een taak waarop een herinnering verschijnt:
     .accesskey = h
+calendar-notifications-customize-label = Meldingen kunnen voor elke agenda worden aangepast in het eigenschappenvenster van de agenda.
 category-new-label = Nieuwe categorie
 category-edit-label = Categorie bewerken
 category-overwrite-title = Waarschuwing: dubbele naam
