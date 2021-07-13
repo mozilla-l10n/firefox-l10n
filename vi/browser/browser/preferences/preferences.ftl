@@ -841,6 +841,10 @@ forms-primary-pw-change =
 forms-primary-pw-former-name = { "" }
 forms-primary-pw-fips-title = Bạn hiện đang ở chế độ FIPS. FIPS yêu cầu tính năng mật khẩu chính.
 forms-master-pw-fips-desc = Thay đổi mật khẩu không thành công
+forms-windows-sso =
+    .label = Cho phép Windows đăng nhập một lần cho tài khoản Microsoft, cơ quan và trường học
+forms-windows-sso-learn-more-link = Tìm hiểu thêm
+forms-windows-sso-desc = Quản lý tài khoản trong cài đặt thiết bị của bạn
 
 ## OS Authentication dialog
 
