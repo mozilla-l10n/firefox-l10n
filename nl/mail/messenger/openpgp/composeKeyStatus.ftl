@@ -15,3 +15,9 @@ openpgp-recip-good = OK
 openpgp-recip-missing = geen sleutel beschikbaar
 openpgp-recip-none-accepted = geen geaccepteerde sleutel
 openpgp-compose-general-info-alias-learn-more = Meer info
+openpgp-compose-alias-status-direct =
+    { $count ->
+        [one] toegewezen aan een aliassleutel
+       *[other] toegewezen aan { $count } aliassleutels
+    }
+openpgp-compose-alias-status-error = onbruikbare/niet-beschikbare aliassleutel

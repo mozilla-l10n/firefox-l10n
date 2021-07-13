@@ -10,8 +10,6 @@ preferences-title =
             [windows] Opties
            *[other] Voorkeuren
         }
-preferences-tab-title =
-    .title = Voorkeuren
 preferences-doc-title = Voorkeuren
 category-list =
     .aria-label = Categorieën
@@ -263,6 +261,9 @@ diskspace-legend = Schijfruimte
 offline-compact-folder =
     .label = Alle mappen comprimeren als dit meer bespaart dan
     .accesskey = m
+offline-compact-folder-automatically =
+    .label = Altijd vragen voor comprimeren
+    .accesskey = o
 compact-folder-size =
     .value = MB in totaal
 
