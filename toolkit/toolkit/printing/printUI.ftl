@@ -47,6 +47,22 @@ printui-options = 選項
 printui-headers-footers-checkbox = 列印頁首與頁尾
 printui-backgrounds-checkbox = 列印背景
 printui-selection-checkbox = 只印選取範圍
+
+## The "Format" section, select a version of the website to print. Radio
+## options to select between the original page, selected text only, or a version
+## where the page is processed with "Reader View".
+
+# The section title.
+printui-source-label = 格式
+# Option for printing the original page.
+printui-source-radio = 原始
+# Option for printing just the content a user selected prior to printing.
+printui-selection-radio = 選取範圍
+# Option for "simplifying" the page by printing the Reader View version.
+printui-simplify-page-radio = 簡化版本
+
+##
+
 printui-color-mode-label = 色彩模式
 printui-color-mode-color = 彩色
 printui-color-mode-bw = 黑白
