@@ -10,8 +10,6 @@ preferences-title =
             [windows] Επιλογές
            *[other] Προτιμήσεις
         }
-preferences-tab-title =
-    .title = Προτιμήσεις
 preferences-doc-title = Προτιμήσεις
 category-list =
     .aria-label = Κατηγορίες
@@ -259,6 +257,9 @@ diskspace-legend = Χώρος δίσκου
 offline-compact-folder =
     .label = Συμπίεση φακέλων πάνω από
     .accesskey = π
+offline-compact-folder-automatically =
+    .label = Ερώτηση κάθε φορά πριν από τη συμπίεση
+    .accesskey = κ
 compact-folder-size =
     .value = MB στο σύνολο
 
