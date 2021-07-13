@@ -55,8 +55,12 @@ printui-selection-checkbox = Εκτύπωση επιλογής μόνο
 
 # The section title.
 printui-source-label = Μορφή
+# Option for printing the original page.
+printui-source-radio = Αρχική
 # Option for printing just the content a user selected prior to printing.
 printui-selection-radio = Επιλογή
+# Option for "simplifying" the page by printing the Reader View version.
+printui-simplify-page-radio = Απλοποιημένη
 
 ##
 
