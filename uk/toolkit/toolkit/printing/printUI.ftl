@@ -59,7 +59,7 @@ printui-source-label = Формат
 # Option for printing the original page.
 printui-source-radio = Оригінал
 # Option for printing just the content a user selected prior to printing.
-printui-selection-radio = Виділення
+printui-selection-radio = Вибраний фрагмент
 # Option for "simplifying" the page by printing the Reader View version.
 printui-simplify-page-radio = Спрощений
 
