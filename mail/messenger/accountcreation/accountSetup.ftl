@@ -10,6 +10,10 @@ account-setup-title = Uw bestaande e-mailadres instellen
 account-setup-description =
     Vul om uw huidige e-mailadres te gebruiken uw aanmeldgegevens in.<br/>
     { -brand-product-name } zoekt automatisch naar een werkende en aanbevolen serverconfiguratie.
+account-setup-secondary-description = { -brand-product-name } zoekt automatisch naar een werkende en aanbevolen serverconfiguratie.
+account-setup-success-title = Account met succes aangemaakt
+account-setup-success-description = U kunt deze account nu gebruiken met { -brand-short-name }.
+account-setup-success-secondary-description = U kunt de ervaring verbeteren door gerelateerde services te koppelen en geavanceerde accountinstellingen te configureren.
 
 ## Form fields
 
@@ -99,10 +103,16 @@ account-setup-step3-image =
 account-setup-step4-image =
     .title = Verbindingsfout
 account-setup-privacy-footnote = Uw aanmeldgegevens worden gebruikt in overeenstemming met ons <a data-l10n-name="privacy-policy-link">privacybeleid</a> en worden alleen lokaal op uw computer opgeslagen.
+account-setup-step5-image =
+    .title = Account aangemaakt
+account-setup-privacy-footnote2 = Uw aanmeldgegevens worden alleen lokaal op uw computer opgeslagen.
 account-setup-selection-help = Weet u niet wat u moet selecteren?
 account-setup-selection-error = Hulp nodig?
+account-setup-success-help = Twijfelt u over uw volgende stappen?
 account-setup-documentation-help = Insteldocumentatie
 account-setup-forum-help = Ondersteuningsforum
+account-setup-privacy-help = Privacybeleid
+account-setup-getting-started = Aan de slag
 
 ## Results area
 
@@ -211,3 +221,68 @@ account-setup-confirm-advanced-description = Dit dialoogvenster zal worden geslo
 account-setup-addon-install-title = Installeren
 account-setup-addon-install-intro = Een add-on van derden kan het mogelijk maken om toegang tot uw e-mailaccount op deze server te krijgen:
 account-setup-addon-no-protocol = Deze e-mailserver ondersteunt helaas geen open protocollen. { account-setup-addon-install-intro }
+
+## Success view
+
+account-setup-settings-button = Accountinstellingen
+account-setup-encryption-button = End-to-end-versleuteling
+account-setup-signature-button = Een handtekening toevoegen
+account-setup-dictionaries-button = Woordenboeken downloaden
+account-setup-address-book-carddav-button = Verbinding maken met een CardDAV-adresboek
+account-setup-address-book-ldap-button = Verbinding maken met een LDAP-adresboek
+account-setup-calendar-button = Verbinding maken met een externe agenda
+account-setup-linked-services-title = Verbinding maken met uw gekoppelde services
+account-setup-linked-services-description = { -brand-short-name } heeft andere services die aan uw e-mailaccount zijn gekoppeld gedetecteerd.
+account-setup-no-linked-description = Andere services instellen om het meeste uit uw { -brand-short-name }-ervaring te halen.
+# Variables:
+# $count (Number) - The number of address books found during autoconfig.
+account-setup-found-address-books-description =
+    { $count ->
+        [one] { -brand-short-name } heeft één adresboek dat is gekoppeld aan uw e-mailaccount gevonden.
+       *[other] { -brand-short-name } heeft { $count } adresboeken die zijn gekoppeld aan uw e-mailaccount gevonden.
+    }
+# Variables:
+# $count (Number) - The number of calendars found during autoconfig.
+account-setup-found-calendars-description =
+    { $count ->
+        [one] { -brand-short-name } heeft één agenda die is gekoppeld aan uw e-mailadres gevonden.
+       *[other] { -brand-short-name } heeft { $count } agenda’s die zijn gekoppeld aan uw e-mailadres gevonden.
+    }
+account-setup-button-finish = Voltooien
+    .accesskey = V
+account-setup-looking-up-address-books = Adresboeken opzoeken…
+account-setup-looking-up-calendars = Agenda’s opzoeken…
+account-setup-address-books-button = Adresboeken
+account-setup-calendars-button = Agenda’s
+account-setup-connect-link = Verbinden
+account-setup-existing-address-book = Verbonden
+    .title = Adresboek al verbonden
+account-setup-existing-calendar = Verbonden
+    .title = Agenda al verbonden
+account-setup-connect-all-calendars = Alle agenda’s verbinden
+account-setup-connect-all-address-books = Alle adresboeken verbinden
+
+## Calendar synchronization dialog
+
+calendar-dialog-title = Agenda verbinden
+calendar-dialog-cancel-button = Annuleren
+    .accesskey = A
+calendar-dialog-confirm-button = Verbinden
+    .accesskey = b
+account-setup-calendar-name-label = Naam
+account-setup-calendar-name-input =
+    .placeholder = Mijn agenda
+account-setup-calendar-color-label = Kleur
+account-setup-calendar-refresh-label = Vernieuwen
+account-setup-calendar-refresh-manual = Handmatig
+account-setup-calendar-refresh-interval =
+    { $count ->
+        [one] Elke minuut
+       *[other] Elke { $count } minuten
+    }
+account-setup-calendar-read-only = Alleen-lezen
+    .accesskey = A
+account-setup-calendar-show-reminders = Herinneringen tonen
+    .accesskey = t
+account-setup-calendar-offline-support = Offlineondersteuning
+    .accesskey = O

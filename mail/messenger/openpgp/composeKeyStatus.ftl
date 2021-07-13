@@ -14,3 +14,4 @@ openpgp-compose-key-status-open-details = Sleutels voor geselecteerde ontvanger 
 openpgp-recip-good = OK
 openpgp-recip-missing = geen sleutel beschikbaar
 openpgp-recip-none-accepted = geen geaccepteerde sleutel
+openpgp-compose-general-info-alias-learn-more = Meer info

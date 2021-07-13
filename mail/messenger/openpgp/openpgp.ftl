@@ -4,6 +4,13 @@
 
 e2e-intro-description = Om versleutelde of digitaal ondertekende berichten te verzenden, moet u een versleutelingstechnologie instellen, zijnde OpenPGP of S/MIME.
 e2e-intro-description-more = Selecteer uw persoonlijke sleutel om het gebruik van OpenPGP mogelijk te maken, of uw persoonlijke certificaat om het gebruik van S/MIME mogelijk te maken. Voor een persoonlijke sleutel of certificaat bezit u de bijbehorende geheime sleutel.
+e2e-advanced-section = Geavanceerde instellingen
+e2e-encrypt-subject =
+    .label = Het onderwerp van OpenPGP-berichten versleutelen
+    .accesskey = d
+e2e-encrypt-drafts =
+    .label = Conceptberichten opslaan in versleutelde opmaak
+    .accesskey = l
 openpgp-key-user-id-label = Account / Gebruikers-ID
 openpgp-keygen-title-label =
     .title = OpenPGP-sleutel aanmaken
