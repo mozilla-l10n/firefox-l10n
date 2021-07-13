@@ -261,6 +261,9 @@ diskspace-legend = 磁碟空間
 offline-compact-folder =
     .label = 在可以節省超過
     .accesskey = a
+offline-compact-folder-automatically =
+    .label = 每次壓實重整前都先問我
+    .accesskey = b
 compact-folder-size =
     .value = MB 時壓實重整所有郵件匣
 
