@@ -43,9 +43,14 @@ account-setup-password-toggle =
     .title = Hiển thị/ẩn mật khẩu
 account-setup-remember-password = Ghi nhớ mật khẩu
     .accesskey = m
+account-setup-exchange-label = Thông tin đăng nhập của bạn
+    .accesskey = l
 #   YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows.
 account-setup-exchange-input =
     .placeholder = TENMIENCUABAN\tennguoidungcuaban
+#   Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network.
+account-setup-exchange-info-icon =
+    .title = Thông tin đăng nhập trong miền
 
 ## Action buttons
 
@@ -97,14 +102,16 @@ account-setup-step3-image =
     .title = Cấu hình được tìm thấy
 account-setup-step4-image =
     .title = Lỗi kết nối
+account-setup-privacy-footnote = Thông tin đăng nhập của bạn sẽ được sử dụng theo <a data-l10n-name="privacy-policy-link">chính sách riêng tư</a> của chúng tôi và sẽ chỉ được lưu trữ cục bộ trên máy tính của bạn.
 account-setup-step5-image =
     .title = Đã tạo tài khoản
-account-setup-privacy-footnote = Thông tin đăng nhập của bạn sẽ được sử dụng theo <a data-l10n-name="privacy-policy-link">chính sách riêng tư</a> của chúng tôi và sẽ chỉ được lưu trữ cục bộ trên máy tính của bạn.
+account-setup-privacy-footnote2 = Thông tin đăng nhập của bạn sẽ chỉ được lưu trữ cục bộ trên máy tính của bạn.
 account-setup-selection-help = Không chắc chắn những gì để chọn?
 account-setup-selection-error = Cần trợ giúp?
 account-setup-success-help = Không chắc chắn về các bước tiếp theo của mình?
 account-setup-documentation-help = Tài liệu thiết lập
 account-setup-forum-help = Diễn đàn hỗ trợ
+account-setup-privacy-help = Chính sách riêng tư
 account-setup-getting-started = Bắt đầu
 
 ## Results area
@@ -133,6 +140,10 @@ account-setup-result-no-encryption = Không mã hóa
 account-setup-result-ssl = SSL/TLS
 account-setup-result-starttls = STARTTLS
 account-setup-result-outgoing-existing = Sử dụng máy chủ gửi thư SMTP hiện tại
+# Variables:
+#  $incoming (String): The email/username used to log into the incoming server
+#  $outgoing (String): The email/username used to log into the outgoing server
+account-setup-result-username-different = Nhận thư: { $incoming }, Gửi thư: { $outgoing }
 
 ## Error messages
 
@@ -175,6 +186,8 @@ account-setup-advanced-setup-button = Cấu hình nâng cao
 ## Warning insecure server dialog
 
 account-setup-insecure-title = Cảnh báo!
+account-setup-insecure-incoming-title = Cài đặt nhận thư:
+account-setup-insecure-outgoing-title = Cài đặt gửi thư:
 # Variables:
 #  $server (String): The name of the hostname of the server the user was trying to connect to.
 account-setup-warning-cleartext = <b>{ $server }</b> không sử dụng mã hóa.
