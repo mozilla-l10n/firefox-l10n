@@ -22,12 +22,12 @@ content-tab-security-broken-icon =
 
 ## Toolbar
 
-addons-and-themes-button =
-    .label = Add-ons en thema's
-    .tooltip = Uw add-ons beheren
 addons-and-themes-toolbarbutton =
     .label = Add-ons en thema’s
     .tooltiptext = Uw add-ons beheren
+quick-filter-toolbarbutton =
+    .label = Snelfilter
+    .tooltiptext = Berichten filteren
 redirect-msg-button =
     .label = Omleiden
     .tooltiptext = Geselecteerd bericht omleiden
