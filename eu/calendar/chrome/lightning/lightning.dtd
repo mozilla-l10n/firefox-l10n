@@ -19,12 +19,6 @@
 <!ENTITY lightning.menupopup.new.calendar.accesskey "E">
 
 <!-- Open menu popup in File menu -->
-<!ENTITY lightning.menupopup.open.label               "Ireki">
-<!ENTITY lightning.menupopup.open.accesskey           "I">
-<!ENTITY lightning.menupopup.open.message.label       "Gordetako mezua…">
-<!ENTITY lightning.menupopup.open.message.accesskey   "m">
-
-<!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.calendar.label      "Calendar fitxategia…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "C">
 
@@ -51,6 +45,10 @@
      - tooltiptext2 is used in the calendar properties dialog for caldav calendars -->
 <!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext1     "Oraingoz, zuk hau gaitu dezakezu baldin eta zerbitzaria egutegia antolatzeko gai bada eta egutegi hau bertan konfiguratu ondoren.">
 <!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext2     "Aukera hau zerbitzariak egutegi antolaketa onartzen badu dago eskuragarri. Gaituz posta elektronikoan oinarritutako antolaketara estandarrera itzultzea ahalbidetzen da, zerbitzarian utzi ordez.">
+
+<!-- The notifications settings in the properties dialog -->
+<!ENTITY lightning.calendarproperties.notifications.label                   "Jakinarazpenak">
+<!ENTITY lightning.calendarproperties.globalNotifications.label             "Jakinarazpen orokorren hobespenak…">
 
 <!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.btnAccept.label                                  "Onartu">
