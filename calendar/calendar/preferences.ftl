@@ -4,6 +4,7 @@
 
 calendar-title = Egutegia
 calendar-title-reminder = Gogorarazleak
+calendar-title-notification = Jakinarazpenak
 calendar-title-category = Kategoriak
 dateformat-label =
     .value = Data testu formatua:
