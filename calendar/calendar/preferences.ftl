@@ -180,6 +180,7 @@ event-alarm-time-label =
 task-alarm-time-label =
     .value = Προεπιλεγμένος χρόνος ορισμού υπενθύμισης πριν από εργασία:
     .accesskey = ρ
+calendar-notifications-customize-label = Οι ειδοποιήσεις μπορούν να προσαρμοστούν για κάθε ημερολόγιο στο παράθυρο ιδιοτήτων ημερολογίου.
 category-new-label = Νέα κατηγορία
 category-edit-label = Επεξεργασία κατηγορίας
 category-overwrite-title = Προειδοποίηση: Διπλότυπο όνομα
