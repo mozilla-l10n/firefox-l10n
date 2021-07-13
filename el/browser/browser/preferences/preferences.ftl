@@ -857,7 +857,10 @@ forms-primary-pw-change =
 forms-primary-pw-former-name = { "" }
 forms-primary-pw-fips-title = Είστε σε λειτουργία FIPS. Το FIPS απαιτεί μη κενό κύριο κωδικό πρόσβασης.
 forms-master-pw-fips-desc = Αποτυχία αλλαγής κωδικού
+forms-windows-sso =
+    .label = Να επιτρέπεται η ενιαία είσοδος των Windows για λογαριασμούς Microsoft, εργασίας και σχολείου.
 forms-windows-sso-learn-more-link = Μάθετε περισσότερα
+forms-windows-sso-desc = Διαχείριση λογαριασμών στις ρυθμίσεις συσκευής
 
 ## OS Authentication dialog
 
