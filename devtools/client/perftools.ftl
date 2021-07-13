@@ -98,6 +98,8 @@ perftools-thread-dns-resolver =
     .title = Mae datrysiad DNS yn digwydd ar y trywydd hwn
 perftools-thread-js-helper =
     .title = Gwaith cefndir injan JS fel crynhoadau oddi ar y prif drywydd
+perftools-thread-task-controller =
+    .title = Edafedd pwll edafedd TaskController
 
 ##
 
@@ -109,7 +111,6 @@ perftools-tools-threads-input-label =
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
 ## preferences are true.
 
--profiler-brand-name = Firefox Profiler
 perftools-onboarding-message = <b>Newydd</b>: Mae'r { -profiler-brand-name } bellach wedi'i integreiddio i Offer Datblygwr. <a>Gweld rhagor</a> am yr offeryn newydd pwerus hwn.
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (Am gyfnod cyfyngedig, gallwch gyrchu'r panel Perfformiad gwreiddiol trwy <a>{ options-context-advanced-settings }</a>

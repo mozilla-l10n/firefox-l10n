@@ -52,6 +52,22 @@ printui-options = Dewisiadau
 printui-headers-footers-checkbox = Argraffu penynnau a throedynnau
 printui-backgrounds-checkbox = Argraffu cefndiroedd
 printui-selection-checkbox = Argraffu'r dewis yn unig
+
+## The "Format" section, select a version of the website to print. Radio
+## options to select between the original page, selected text only, or a version
+## where the page is processed with "Reader View".
+
+# The section title.
+printui-source-label = Fformat
+# Option for printing the original page.
+printui-source-radio = Gwreiddiol
+# Option for printing just the content a user selected prior to printing.
+printui-selection-radio = Dewis
+# Option for "simplifying" the page by printing the Reader View version.
+printui-simplify-page-radio = Symleiddiwyd
+
+##
+
 printui-color-mode-label = Modd lliw
 printui-color-mode-color = Lliw
 printui-color-mode-bw = Du a gwyn
