@@ -124,3 +124,6 @@ addon-removal-confirmation-message = Kendu { $name } eta bere konfigurazio eta d
 caret-browsing-prompt-title = Kurtsore bidezko nabigazioa
 caret-browsing-prompt-text = F7 zapaltzeak kurtsore bidezko nabigazioa gaitzen edo desgaitzen du. Eginbide honek zenbait edukitan kurtsore bat ezartzen du testua teklatuarekin aukeratzea baimenduz. Kurtsore bidezko nabigazioa gaitu nahi duzu?
 caret-browsing-prompt-check-text = Ez galdetu berriz.
+repair-text-encoding-button =
+    .label = Konpondu testu kodeketa
+    .tooltiptext = Testuaren kodeketa zuzena asmatu mezuaren edukian oinarrituz
