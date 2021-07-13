@@ -4,6 +4,7 @@
 
 calendar-title = Ημερολόγιο
 calendar-title-reminder = Υπενθυμίσεις
+calendar-title-notification = Ειδοποιήσεις
 calendar-title-category = Κατηγορίες
 dateformat-label =
     .value = Μορφή ημερομηνίας:
