@@ -19,12 +19,6 @@
 <!ENTITY lightning.menupopup.new.calendar.accesskey "C">
 
 <!-- Open menu popup in File menu -->
-<!ENTITY lightning.menupopup.open.label               "Agor">
-<!ENTITY lightning.menupopup.open.accesskey           "A">
-<!ENTITY lightning.menupopup.open.message.label       "Neges wedi'i Chadw…">
-<!ENTITY lightning.menupopup.open.message.accesskey   "N">
-
-<!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.calendar.label      "Ffeil Calendr…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "F">
 
@@ -51,6 +45,10 @@
      - tooltiptext2 is used in the calendar properties dialog for caldav calendars -->
 <!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext1     "Ar hyn o bryd, mae modd galluogi hwn ar ôl gosod y calendr hwn yn ei ddeialog priodwedd os yw gweinydd y calendr yn cymryd gofal o amserlennu.">
 <!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext2     "Dim ond os yw gweinydd yr amserlenni ar gael mae'r dewis hwn ar gael. Bydd ei alluogi yn caniatau mynd yn ol i'r amserlemnni e-bost safonol yn lle ei adael ar y gweinydd.">
+
+<!-- The notifications settings in the properties dialog -->
+<!ENTITY lightning.calendarproperties.notifications.label                   "Hysbysiadau">
+<!ENTITY lightning.calendarproperties.globalNotifications.label             "Dewisiadau Hysbysiadau Cyffredinol…">
 
 <!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.btnAccept.label                                  "Derbyn">

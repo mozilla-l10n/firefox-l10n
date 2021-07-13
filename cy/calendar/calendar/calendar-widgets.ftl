@@ -4,3 +4,6 @@
 
 calendar-deactivated-notification-events = Mae pob calendr wedi'i analluogi ar hyn o bryd. Galluogwch galendr sy'n bodoli eisoes neu ychwanegu un newydd i greu a golygu digwyddiadau.
 calendar-deactivated-notification-tasks = Mae pob calendr wedi'i analluogi ar hyn o bryd. Galluogwch galendr sy'n bodoli eisoes neu ychwanegu un newydd i greu a golygu tasgau.
+calendar-notifications-label = Dangos hysbysiadau ar gyfer digwyddiadau sydd i ddod
+calendar-add-notification-button =
+    .label = Ychwanegu hysbysiad
