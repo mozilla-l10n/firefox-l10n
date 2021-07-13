@@ -857,6 +857,8 @@ forms-primary-pw-change =
 forms-primary-pw-former-name = Ymave ojehero Ñe’ẽñemi Ha’etéva
 forms-primary-pw-fips-title = Ko’ag̃aite eime FIPS rekópe. FIPS oikotevẽ ñe’ẽñemi ñepyrũgua inandi’ỹva.
 forms-master-pw-fips-desc = Ñe’ẽñemi moambue jejavy
+forms-windows-sso =
+    .label = Emoneĩ tembiapo ñepyrũ Windows rupi Microsoft-pe, mba’apo ha mbo’ehaogua mba’ete.
 forms-windows-sso-learn-more-link = Kuaave
 forms-windows-sso-desc = Eñangareko mba’ete mba’e’oka ñembohekópe
 
