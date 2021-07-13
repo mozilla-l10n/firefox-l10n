@@ -10,8 +10,6 @@ preferences-title =
             [windows] Dewisiadau
            *[other] Dewisiadau
         }
-preferences-tab-title =
-    .title = Dewisiadau
 preferences-doc-title = Dewisiadau
 category-list =
     .aria-label = Categorïau
@@ -263,6 +261,9 @@ diskspace-legend = Lle ar Ddisg
 offline-compact-folder =
     .label = Cywasgu pob ffolder pan fydd yn cadw dros gyfanswm o
     .accesskey = y
+offline-compact-folder-automatically =
+    .label = Gofyn bob tro cyn cywasgu
+    .accesskey = G
 compact-folder-size =
     .value = MB
 
