@@ -4,6 +4,16 @@
 
 e2e-intro-description = Om fersifere of digitaal ûndertekene berjochten te ferstjoeren, moatte jo in fersiferingstechnology ynstelle, itsij OpenPGP of S/MIME.
 e2e-intro-description-more = Selektearje jo persoanlike kaai om it gebrûk fan OpenPGP mooglik te meitsjen, of jo persoanlike sertifikaat om it gebrûk fan S/MIME mooglik te meitsjen. Foar in persoanlike kaai of sertifikaat besitte jo de byhearrende geheime kaai.
+e2e-advanced-section = Avansearre ynstellingen
+e2e-attach-key =
+    .label = Myn publike kaai byfoegje as ik in digitale OpenPGP-hantekening tafoegje
+    .accesskey = p
+e2e-encrypt-subject =
+    .label = It ûnderwerp fan OpenPGP-berjochten fersiferje
+    .accesskey = d
+e2e-encrypt-drafts =
+    .label = Konseptberjochten bewarje yn fersifere opmaak
+    .accesskey = f
 openpgp-key-user-id-label = Account / Brûkers-ID
 openpgp-keygen-title-label =
     .title = OpenPGP-kaai oanmeitsje

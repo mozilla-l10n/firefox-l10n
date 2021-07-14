@@ -14,3 +14,11 @@ openpgp-compose-key-status-open-details = Kaaien foar selektearre ûntfanger beh
 openpgp-recip-good = OK
 openpgp-recip-missing = gjin kaai beskikber
 openpgp-recip-none-accepted = gjin akseptearre kaai
+openpgp-compose-general-info-alias = { -brand-short-name } fereasket normaal sprutsen dat de publike kaai fan de ûntfanger in brûkers-ID mei in oerienkommend e-mailadres befettet. Dit kin ferfongen wurde troch aliasrigels foar OpenPGP-ûntfangers te brûken.
+openpgp-compose-general-info-alias-learn-more = Mear ynfo
+openpgp-compose-alias-status-direct =
+    { $count ->
+        [one] tawizen oan in aliaskaai
+       *[other] tawizen oan { $count } aliaskaaien
+    }
+openpgp-compose-alias-status-error = net-brûkbere/net-beskikbere aliaskaai

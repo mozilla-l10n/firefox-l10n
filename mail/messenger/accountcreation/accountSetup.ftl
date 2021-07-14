@@ -275,3 +275,14 @@ account-setup-calendar-name-input =
 account-setup-calendar-color-label = Kleur
 account-setup-calendar-refresh-label = Fernije
 account-setup-calendar-refresh-manual = Hânmjittich
+account-setup-calendar-refresh-interval =
+    { $count ->
+        [one] Elke minút
+       *[other] Elke { $count } minuten
+    }
+account-setup-calendar-read-only = Allinnich-lêze
+    .accesskey = A
+account-setup-calendar-show-reminders = Omtinken toane
+    .accesskey = t
+account-setup-calendar-offline-support = Offlinestipe
+    .accesskey = O
