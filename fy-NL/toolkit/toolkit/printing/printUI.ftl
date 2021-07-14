@@ -48,6 +48,22 @@ printui-options = Opsjes
 printui-headers-footers-checkbox = Kop- en foetteksten ôfdrukke
 printui-backgrounds-checkbox = Eftergrûnen ôfdrukke
 printui-selection-checkbox = Allinnich seleksje ôfdrukke
+
+## The "Format" section, select a version of the website to print. Radio
+## options to select between the original page, selected text only, or a version
+## where the page is processed with "Reader View".
+
+# The section title.
+printui-source-label = Opmaak
+# Option for printing the original page.
+printui-source-radio = Oarspronklik
+# Option for printing just the content a user selected prior to printing.
+printui-selection-radio = Seleksje
+# Option for "simplifying" the page by printing the Reader View version.
+printui-simplify-page-radio = Ferienfâldige
+
+##
+
 printui-color-mode-label = Kleurmodus
 printui-color-mode-color = Kleur
 printui-color-mode-bw = Swart-wyt
