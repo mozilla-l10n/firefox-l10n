@@ -29,7 +29,7 @@ update-downloading-message = Преузимање ажурирања — <label 
 update-applying = Примена ажурирања…
 update-failed = Ажурирање није успело. <label data-l10n-name="failed-link">Преузмите најновију верзију</label>
 update-failed-main = Ажурирање није успело. <a data-l10n-name="failed-link-main">Преузмите најновију верзију</a>
-update-adminDisabled = Системски администратор је онемогућио ажурирања
+update-adminDisabled = Администратор система је онемогућио ажурирања
 update-noUpdatesFound = { -brand-short-name } је ажуран
 update-otherInstanceHandlingUpdates = { -brand-short-name } се ажурира
 update-manual = Ажурирања су доступна на <label data-l10n-name="manual-link"/>
