@@ -121,8 +121,6 @@ move-attachment-last-panel-button =
 button-return-receipt =
     .label = Untfangstbefêstiging
     .tooltiptext = In ûntfangstbefêstiging foar dit berjocht freegje
-#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
-consider-bcc-notification = De { $count } ûntfangers yn Oan en Cc kinne inoars adres sjen. Jo kinne foarkomme dat ûntfangers toand wurde troch yn stee hjirfan Bcc te brûken.
 
 # Addressing Area
 
@@ -170,3 +168,5 @@ many-public-recipients-ignore =
 # Variables:
 # $identity (string) - The name of the used identity, most likely an email address.
 compose-missing-identity-warning = Der is gjin unike identiteit lyk oan it Fan-adres fûn. It berjocht sil ferstjoerd wurde mei it aktuele Fan-fjild en ynstellingen fan de identiteit fan { $identity }.
+encrypted-bcc-warning = As jo in fersifere berjocht ferstjoere, wurde ûntfangers yn Bcc net folslein ferstoppe. Alle ûntfangers kinne se mooglik identifisearje.
+encrypted-bcc-ignore-button = Begrepen

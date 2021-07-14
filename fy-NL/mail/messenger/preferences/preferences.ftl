@@ -10,8 +10,6 @@ preferences-title =
             [windows] Opsjes
            *[other] Foarkarren
         }
-preferences-tab-title =
-    .title = Foarkarren
 preferences-doc-title = Foarkarren
 category-list =
     .aria-label = Kategoryen
@@ -263,6 +261,9 @@ diskspace-legend = Skiifromte
 offline-compact-folder =
     .label = Mappen komprimearje as it mear besparret as
     .accesskey = M
+offline-compact-folder-automatically =
+    .label = Altyd freegje foar komprimearjen
+    .accesskey = o
 compact-folder-size =
     .value = MB yn totaal
 
