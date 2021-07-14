@@ -102,14 +102,16 @@ account-setup-step3-image =
     .title = Configurazione rilevata
 account-setup-step4-image =
     .title = Errore di connessione
+account-setup-privacy-footnote = Le tue credenziali verranno utilizzate nel rispetto della nostra <a data-l10n-name="privacy-policy-link">informativa sulla privacy</a> e verranno memorizzate solo localmente sul tuo computer.
 account-setup-step5-image =
     .title = Account creato
-account-setup-privacy-footnote = Le tue credenziali verranno utilizzate nel rispetto della nostra <a data-l10n-name="privacy-policy-link">informativa sulla privacy</a> e verranno memorizzate solo localmente sul tuo computer.
+account-setup-privacy-footnote2 = Le tue credenziali verranno memorizzate solo localmente sul tuo computer.
 account-setup-selection-help = Hai dubbi su che cosa selezionare?
 account-setup-selection-error = Hai bisogno di aiuto?
 account-setup-success-help = Non sai come proseguire?
 account-setup-documentation-help = Documentazione relativa alla configurazione
 account-setup-forum-help = Forum di supporto
+account-setup-privacy-help = Informativa sulla privacy
 account-setup-getting-started = Come iniziare
 
 ## Results area
