@@ -5,6 +5,15 @@
 e2e-intro-description = Zifratutako edo digitalki sinatutako mezuak bidaltzeko, zifratze teknologia konfiguratu behar duzu, edo OpenPGP edo S/MIME.
 e2e-intro-description-more = Aukeratu zure gako pertsonala OpenPGP erabilera gaitzeko, edo ziurtagiri pertsonala S/MIME erabilera gaitzeko. Gako pertsonalaren edo ziurtagiri dagokion gako sekretua izan behar duzu.
 e2e-advanced-section = Ezarpen aurreratuak
+e2e-attach-key =
+    .label = Erantsi nire gako publikoa OpenPGP sinadura gehitzen diodanean
+    .accesskey = E
+e2e-encrypt-subject =
+    .label = Zifratu OpenPGP mezuen gaia
+    .accesskey = g
+e2e-encrypt-drafts =
+    .label = Gorde mezuen zirriborroak formatu zifratuan
+    .accesskey = z
 openpgp-key-user-id-label = Kontua / erabiltzaile ID
 openpgp-keygen-title-label =
     .title = Sortarazi OpenPGP gakoa
@@ -282,6 +291,8 @@ openpgp-selection-status =
        *[other] Zure uneko konfigurazioak <b>{ $key }</b> gakoak IDa darabil
     }
 #   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status-have-key = Zure uneko konfigurazioak, <b>{ $key }</b> ID gakoa darabil
+#   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-error = Zure uneko konfigurazioak <b>{ $key }</b> gakoa darabil, iraungita dagoena.
 openpgp-add-key-button =
     .label = Gehitu gakoa…
@@ -296,6 +307,9 @@ openpgp-keygen-external-success = Kanpoko GnuPG gako ID gordeta!
 openpgp-radio-none =
     .label = Bat ere ez
 openpgp-radio-none-desc = Ez erabili OpenPGP identitate honentzat.
+openpgp-radio-key-not-usable = Gako hau ezin da gako pertsonal gisa erabili, gako sekretua galdu delako!
+openpgp-radio-key-not-accepted = Gako hau erabiltzeko, gako pertsonal gisa onartu behar duzu!
+openpgp-radio-key-not-found = Gakoa ezin da aurkitu! Erabili nahi izanez gero { -brand-short-name }(e)ra inportatu behar duzu.
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = Iraungitze data: { $date }
 openpgp-key-expires-image =
