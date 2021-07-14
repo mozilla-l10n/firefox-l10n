@@ -861,6 +861,10 @@ forms-primary-pw-change =
 forms-primary-pw-former-name = { "" }
 forms-primary-pw-fips-title = Зараз вы ў рэжыме FIPS. Для FIPS патрабуецца не пусты галоўны пароль.
 forms-master-pw-fips-desc = Няўдача змянення пароля
+forms-windows-sso =
+    .label = Дазволіць адзіны ўваход Windows для ўліковых запісаў Microsoft, працоўных і школьных уліковых запісаў
+forms-windows-sso-learn-more-link = Падрабязней
+forms-windows-sso-desc = Кіраванне ўліковымі запісамі ў наладах прылады
 
 ## OS Authentication dialog
 
