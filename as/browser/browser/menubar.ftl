@@ -11,12 +11,18 @@
 
 ## Application Menu (macOS only)
 
+menu-application-preferences =
+    .label = পছন্দসমূহ
 menu-application-services =
     .label = সেৱাসমূহ
+menu-application-hide-this =
+    .label = { -brand-shorter-name } লুকুৱাওক
 menu-application-hide-other =
     .label = অন্য লুকাওক
 menu-application-show-all =
     .label = সকলো দেখুৱাওক
+menu-application-touch-bar =
+    .label = স্পৰ্শ দণ্ডিকা কাষ্টমাইজ কৰক…
 
 ##
 
@@ -32,9 +38,19 @@ menu-quit =
             [windows] x
            *[other] Q
         }
+# This menu-quit-mac string is only used on macOS.
+menu-quit-mac =
+    .label = { -brand-shorter-name }-ৰ পৰা ওলাওক
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+# This menu-quit-button-win string is only used on Windows.
+menu-quit-button-win =
+    .label = { menu-quit.label }
+    .tooltip = { -brand-shorter-name }-ৰ পৰা ওলাওক
+menu-about =
+    .label = { -brand-shorter-name }-ৰ বিষয়ে
+    .accesskey = A
 
 ## File Menu
 
@@ -97,6 +113,9 @@ menu-edit =
 menu-edit-find-on =
     .label = এই পৃষ্ঠাত সন্ধান কৰক…
     .accesskey = F
+menu-edit-find-in-page =
+    .label = পৃষ্ঠাত বিচাৰক…
+    .accesskey = F
 menu-edit-find-again =
     .label = পুনৰ সন্ধান কৰক
     .accesskey = g
@@ -114,6 +133,9 @@ menu-view-toolbars-menu =
     .accesskey = T
 menu-view-customize-toolbar =
     .label = স্বনিৰ্বাচন…
+    .accesskey = C
+menu-view-customize-toolbar2 =
+    .label = টুলবাৰ কাষ্টমাইজ কৰক...
     .accesskey = C
 menu-view-sidebar =
     .label = কাষবাৰ
@@ -150,6 +172,9 @@ menu-view-page-basic-style =
     .accesskey = B
 menu-view-charset =
     .label = পাঠ এনক'ডিং
+    .accesskey = c
+menu-view-repair-text-encoding =
+    .label = পাঠৰ এনক'ডিং মেৰামতি কৰক
     .accesskey = c
 
 ## These should match what Safari and other Apple applications
@@ -193,6 +218,8 @@ menu-history-undo-menu =
     .label = শেহতীয়াভাৱে বন্ধ কৰা টেবসমূহ
 menu-history-undo-window-menu =
     .label = শেহতীয়াভাৱে বন্ধ কৰা উইণ্ড'সমূহ
+menu-history-reopen-all-tabs = সকলো টেব পুনৰ খোলক
+menu-history-reopen-all-windows = সকলো ৱিণ্ড' পুনৰ খোলক
 
 ## Bookmarks Menu
 
@@ -203,6 +230,10 @@ menu-bookmarks-show-all =
     .label = সকলো পত্ৰচিহ্ন দেখুৱাওক
 menu-bookmark-this-page =
     .label = এই পৃষ্ঠা পত্ৰচিহ্নিত কৰক
+menu-bookmarks-manage =
+    .label = বুকমাৰ্ক পৰিচালনা কৰক
+menu-bookmark-current-tab =
+    .label = বৰ্তমানৰ টেব বুকমাৰ্ক কৰক
 menu-bookmark-edit =
     .label = এই পত্ৰচিহ্ন সম্পাদন কৰক
 menu-bookmarks-all-tabs =
@@ -231,6 +262,15 @@ menu-tools-fxa-sign-in =
 menu-tools-turn-on-sync =
     .label = { -sync-brand-short-name } চালু কৰক…
     .accesskey = n
+menu-tools-addons-and-themes =
+    .label = এড-অন আৰু থীম
+    .accesskey = A
+menu-tools-fxa-sign-in2 =
+    .label = ছাইন ইন কৰক
+    .accesskey = g
+menu-tools-turn-on-sync2 =
+    .label = ছিংক চালু কৰক…
+    .accesskey = n
 menu-tools-sync-now =
     .label = এতিয়া সংমিহলি কৰক
     .accesskey = S
@@ -240,6 +280,12 @@ menu-tools-fxa-re-auth =
 menu-tools-web-developer =
     .label = ৱেব উন্নয়নকাৰী
     .accesskey = W
+menu-tools-browser-tools =
+    .label = ব্ৰাউজাৰৰ সা-সঁজুলি
+    .accesskey = B
+menu-tools-task-manager =
+    .label = কাৰ্য্য পৰিচালক
+    .accesskey = M
 menu-tools-page-source =
     .label = পৃষ্ঠাৰ উৎস
     .accesskey = o
@@ -257,6 +303,13 @@ menu-preferences =
             [windows] O
            *[other] n
         }
+menu-settings =
+    .label = ছেটিংছ
+    .accesskey =
+        { PLATFORM() ->
+            [windows] S
+           *[other] n
+        }
 menu-tools-layout-debugger =
     .label = লে'আউট ত্ৰুটি সংশোধনকাৰী
     .accesskey = L
@@ -269,15 +322,6 @@ menu-window-bring-all-to-front =
     .label = সকলো সন্মুখলৈ আনক
 
 ## Help Menu
-
-
-# NOTE: For Engineers, any additions or changes to Help menu strings should
-# also be reflected in the related strings in appmenu.ftl. Those strings, by
-# convention, will have the same ID as these, but prefixed with "app".
-# Example: appmenu-help-product
-#
-# These strings are duplicated to allow for different casing depending on
-# where the strings appear.
 
 
 # NOTE: For Engineers, any additions or changes to Help menu strings should
@@ -306,6 +350,9 @@ menu-help-keyboard-shortcuts =
 menu-help-troubleshooting-info =
     .label = সমস্যামুক্তিৰ তথ্য
     .accesskey = T
+menu-get-help =
+    .label = সহায় পাওক
+    .accesskey = H
 menu-help-report-site-issue =
     .label = ছাইট সমস্যাৰ প্ৰতিবেদন দিয়ক…
 menu-help-feedback-page =
