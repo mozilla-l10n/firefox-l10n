@@ -10,6 +10,7 @@ account-setup-title = Nastajće swoju eksistowacu e-mejlowu adresu
 account-setup-description =
     Zo byšće swoju aktualnu e-mejlowu adresu wužiwał, zapodajće swoje přizjewjenske daty.<br/>
     { -brand-product-name } budźe awtomatisce za fungowacej a doporučenej serwerowej konfiguraciju pytać.
+account-setup-secondary-description = { -brand-product-name } budźe awtomatisce za fungowacej a doporučenej serwerowej konfiguraciju pytać.
 account-setup-success-title = Konto je so wuspěšnje załožiło
 account-setup-success-description = Móžeće tute konto nětko z { -brand-short-name } wužiwać.
 
