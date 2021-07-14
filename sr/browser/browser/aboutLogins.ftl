@@ -33,7 +33,7 @@ about-logins-menu-menuitem-export-logins = Извези пријаве…
 about-logins-menu-menuitem-remove-all-logins = Уклони све пријаве…
 menu-menuitem-preferences = Подешавања
 about-logins-menu-menuitem-help = Помоћ
-menu-menuitem-android-app = { -lockwise-brand-short-name } за Андроид
+menu-menuitem-android-app = { -lockwise-brand-short-name } за Android
 menu-menuitem-iphone-app = { -lockwise-brand-short-name } за iPhone и iPad
 
 ## Login List
