@@ -13,6 +13,7 @@ account-setup-description =
 account-setup-secondary-description = { -brand-product-name } budźe awtomatisce za fungowacej a doporučenej serwerowej konfiguraciju pytać.
 account-setup-success-title = Konto je so wuspěšnje załožiło
 account-setup-success-description = Móžeće tute konto nětko z { -brand-short-name } wužiwać.
+account-setup-success-secondary-description = Zwjazajće podobne słužby a konfigurujće rozšěrjene kontowe nastajenja, zo byšće dožiwjenje polěpšił.
 
 ## Form fields
 
@@ -104,6 +105,7 @@ account-setup-step4-image =
 account-setup-privacy-footnote = Waše přizjewjenske daty so po našich <a data-l10n-name="privacy-policy-link">prawidłach priwatnosće</a> wužiwaja a składuja so jenož lokalnje na wašim ličaku.
 account-setup-step5-image =
     .title = Konto załožene
+account-setup-privacy-footnote2 = Waše přizjewjenske daty budu so jenož lokalnje na wšaim ličaku składować.
 account-setup-selection-help = Njejsće sej wěsty, štož maće wubrać?
 account-setup-selection-error = Trjebaće pomoc?
 account-setup-documentation-help = Konfiguraciska dokumentacija
