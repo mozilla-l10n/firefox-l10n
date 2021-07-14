@@ -4,6 +4,7 @@
 
 calendar-title = Aginda
 calendar-title-reminder = Omtinkens
+calendar-title-notification = Meldingen
 calendar-title-category = Kategoryen
 dateformat-label =
     .value = Datumtekstformaat:
@@ -179,6 +180,7 @@ event-alarm-time-label =
 task-alarm-time-label =
     .value = Standert tiid foarôfgeand oan in taak wêrop in alarm ferskynt:
     .accesskey = f
+calendar-notifications-customize-label = Meldingen kinne foar elke aginda oanpast wurde yn it eigenskippenfinster fan de aginda.
 category-new-label = Nije kategory
 category-edit-label = Kategory bewurkje
 category-overwrite-title = Warskôging: dûbele namme

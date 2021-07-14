@@ -4,3 +4,6 @@
 
 calendar-deactivated-notification-events = Alle aginda’s binne op dit stuit útskeakele. Skeakelje in besteande aginda yn of foegje in nije ta om ôfspraken te meitsjen en te bewurkjen.
 calendar-deactivated-notification-tasks = Alle aginda’s binne op dit stuit útskeakele. Skeakelje in besteande aginda yn of foegje in nije ta om taken te meitsjen en te bewurkjen.
+calendar-notifications-label = Meldingen toane foar oankommende ôfspraken
+calendar-add-notification-button =
+    .label = Melding tafoegje
