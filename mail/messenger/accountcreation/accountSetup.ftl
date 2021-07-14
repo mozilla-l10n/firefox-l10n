@@ -239,8 +239,39 @@ account-setup-no-linked-description = Oare services ynstelle om it measte út jo
 account-setup-found-address-books-description =
     { $count ->
         [one] { -brand-short-name } hat ien adresboek dat keppele is oan jo e-mailaccount fûn.
-       *[other] { -brand-short-name } hat ien { $count } adresboeken dy't keppele binne oan jo e-mailaccount fûn.
+       *[other] { -brand-short-name } hat { $count } adresboeken dy't keppele binne oan jo e-mailaccount fûn.
     }
+# Variables:
+# $count (Number) - The number of calendars found during autoconfig.
+account-setup-found-calendars-description =
+    { $count ->
+        [one] { -brand-short-name } hat ien adresboek dy't keppele is oan jo e-mailaccount fûn.
+       *[other] { -brand-short-name } hat { $count } adresboeken dy't keppele binne oan jo e-mailaccount fûn.
+    }
+account-setup-button-finish = Foltôgje
+    .accesskey = F
+account-setup-looking-up-address-books = Adresboeken opsykje…
+account-setup-looking-up-calendars = Aginda’s opsykje…
+account-setup-address-books-button = Adresboeken
+account-setup-calendars-button = Aginda's
+account-setup-connect-link = Ferbine
+account-setup-existing-address-book = Ferbûn
+    .title = Adresboek al ferbûn
+account-setup-existing-calendar = Ferbûn
+    .title = Aginda al ferbûn
+account-setup-connect-all-calendars = Alle aginda’s ferbine
+account-setup-connect-all-address-books = Alle adresboeken ferbine
 
 ## Calendar synchronization dialog
 
+calendar-dialog-title = Aginda ferbine
+calendar-dialog-cancel-button = Annulearje
+    .accesskey = A
+calendar-dialog-confirm-button = Ferbine
+    .accesskey = b
+account-setup-calendar-name-label = Namme
+account-setup-calendar-name-input =
+    .placeholder = Myn aginda
+account-setup-calendar-color-label = Kleur
+account-setup-calendar-refresh-label = Fernije
+account-setup-calendar-refresh-manual = Hânmjittich
