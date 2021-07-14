@@ -10,6 +10,10 @@ account-setup-title = Jo besteande e-mailadres ynstelle
 account-setup-description =
     Folje om jo aktuele e-mailadres te brûken jo oanmeldgegevens yn.<br/>
     { -brand-product-name } siket automatysk nei in wurkjende en oanrekommandearre serverkonfiguraasje.
+account-setup-secondary-description = { -brand-product-name } siket automatysk nei in wurkjende en oanrekommandearre serverkonfiguraasje.
+account-setup-success-title = Account mei sukses oanmakke
+account-setup-success-description = Jo kinne dizze account no brûke mei { -brand-short-name }.
+account-setup-success-secondary-description = Jo kinne de ûnderfining ferbetterje troch relatearre services te keppeljen en avansearre accountynstellingen te konfigurearjen.
 
 ## Form fields
 
@@ -99,10 +103,16 @@ account-setup-step3-image =
 account-setup-step4-image =
     .title = Ferbiningsflater
 account-setup-privacy-footnote = Jo oanmeldgegevens wurde brûkt yn oerienstimming mei ús <a data-l10n-name="privacy-policy-link">privacybelied</a> en wurde allinnich lokaal op jo kompjûter bewarre.
+account-setup-step5-image =
+    .title = Account oanmakke
+account-setup-privacy-footnote2 = Jo oanmeldgegevens wurde allinnich lokaal op jo kompjûter bewarre.
 account-setup-selection-help = Net wis wat jo selektearje moatte?
 account-setup-selection-error = Help nedich?
+account-setup-success-help = Twivelje jo oer jo folgjende stappen?
 account-setup-documentation-help = Ynstellingsdokumintaasje
 account-setup-forum-help = Stipefoarum
+account-setup-privacy-help = Privacybelied
+account-setup-getting-started = Oan it wurk
 
 ## Results area
 
@@ -211,3 +221,19 @@ account-setup-confirm-advanced-description = Dit dialoochfinster sil sluten wurd
 account-setup-addon-install-title = Ynstallearje
 account-setup-addon-install-intro = In add-on fan tredden kin tagong jaan ta jo e-mailaccount op dizze server:
 account-setup-addon-no-protocol = Dizze e-mailserver stipet spitigernôch gjin iepen protokollen. { account-setup-addon-install-intro }
+
+## Success view
+
+account-setup-settings-button = Accountynstellingen
+account-setup-encryption-button = End-to-end-fersifering
+account-setup-signature-button = In hanttekening tafoegje
+account-setup-dictionaries-button = Wurdboeken downloade
+account-setup-address-book-carddav-button = Ferbining meitsje mei in CardDAV-adresboek
+account-setup-address-book-ldap-button = Ferbining meitsje mei in LDAP-adresboek
+account-setup-calendar-button = Ferbining meitsje mei in eksterne aginda
+account-setup-linked-services-title = Ferbining meitsje mei jo keppele services
+account-setup-linked-services-description = { -brand-short-name } hat oare services dy't oan jo e-mailaccount keppele binne detektearre.
+account-setup-no-linked-description = Oare services ynstelle om it measte út jo { -brand-short-name }-ûnderfining te heljen.
+
+## Calendar synchronization dialog
+

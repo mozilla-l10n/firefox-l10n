@@ -48,7 +48,9 @@
 <!ENTITY editMenu.accesskey                             "W">
 <!ENTITY deleteCmd.label                                "Fuortsmite">
 <!ENTITY deleteAbCmd.label                              "Adresboek fuortsmite">
+<!ENTITY deleteAbCmd.accesskey                          "F">
 <!ENTITY removeAbCmd.label                              "Adresboek fuortsmite">
+<!ENTITY removeAbCmd.accesskey                          "f">
 <!ENTITY deleteContactCmd.label                         "Kontakt fuortsmite">
 <!ENTITY deleteContactsCmd.label                        "Kontakten fuortsmite">
 <!ENTITY deleteListCmd.label                            "List fuortsmite">
