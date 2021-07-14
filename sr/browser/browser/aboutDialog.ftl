@@ -30,8 +30,20 @@ update-applying = Примена ажурирања…
 update-failed = Ажурирање није успело. <label data-l10n-name="failed-link">Преузмите најновију верзију</label>
 update-failed-main = Ажурирање није успело. <a data-l10n-name="failed-link-main">Преузмите најновију верзију</a>
 update-adminDisabled = Администратор система је онемогућио ажурирања
-update-noUpdatesFound = { -brand-short-name } је ажуран
-update-otherInstanceHandlingUpdates = { -brand-short-name } се ажурира
+update-noUpdatesFound =
+    { -brand-short-name.gender ->
+        [masculine] { -brand-short-name } је ажуран
+        [feminine] { -brand-short-name } је ажурна
+        [neuter] { -brand-short-name } је ажурно
+       *[other] Програм { -brand-short-name } је ажуран
+    }
+update-otherInstanceHandlingUpdates =
+    { -brand-short-name.gender ->
+        [masculine] { -brand-short-name }
+        [feminine] { -brand-short-name }
+        [neuter] { -brand-short-name }
+       *[other] Програм { -brand-short-name }
+    } се ажурира у другом примерку
 update-manual = Ажурирања су доступна на <label data-l10n-name="manual-link"/>
 update-unsupported = Не можете да извршите ажурирања на овом систему. <label data-l10n-name="unsupported-link">Сазнајте више</label>
 update-restarting = Рестартовање…
