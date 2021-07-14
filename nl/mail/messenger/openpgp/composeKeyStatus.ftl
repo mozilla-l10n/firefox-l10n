@@ -14,6 +14,7 @@ openpgp-compose-key-status-open-details = Sleutels voor geselecteerde ontvanger 
 openpgp-recip-good = OK
 openpgp-recip-missing = geen sleutel beschikbaar
 openpgp-recip-none-accepted = geen geaccepteerde sleutel
+openpgp-compose-general-info-alias = { -brand-short-name } vereist normaal gesproken dat de publieke sleutel van de ontvanger een gebruikers-ID met een overeenkomend e-mailadres bevat. Dit kan worden vervangen door aliasregels voor OpenPGP-ontvangers te gebruiken.
 openpgp-compose-general-info-alias-learn-more = Meer info
 openpgp-compose-alias-status-direct =
     { $count ->
