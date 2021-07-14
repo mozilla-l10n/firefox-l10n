@@ -47,6 +47,8 @@ newtab-topsites-add-button = যোগ কৰক
 
 ## Top Sites - Delete history confirmation dialog.
 
+# "This action" refers to deleting a page from history.
+newtab-confirm-delete-history-p2 = এই কাৰ্য্য পিছত পূৰ্বৰ দৰে কৰিব নোৱাৰি।
 
 ## Top Sites - Sponsored label
 
@@ -121,6 +123,14 @@ newtab-label-removed-bookmark = বুকমাৰ্ক আঁতৰোৱা �
 newtab-label-recommended = ট্ৰেণ্ডিং
 newtab-label-saved = { -pocket-brand-name }-ত সাঁচি থোৱা হ'ল
 newtab-label-download = ডাউনল'ড কৰিছে
+# This string is used in the story cards to indicate sponsored content
+# Variables:
+#  $sponsorOrSource (String): This is the name of a company or their domain
+newtab-label-sponsored = { $sponsorOrSource } · পৃষ্ঠপোষকতা কৰা
+# This string is used at the bottom of story cards to indicate sponsored content
+# Variables:
+#  $sponsor (String): This is the name of a sponsor
+newtab-label-sponsored-by = { $sponsor }দ্বাৰা পৃষ্ঠপোষকতা কৰা হৈছে
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -147,6 +157,7 @@ newtab-section-expand-section-label =
 
 newtab-section-header-topsites = শীৰ্ষ ছাইটসমূহ
 newtab-section-header-highlights = হাইলাইটসমূহ
+newtab-section-header-recent-activity = শেহতীয়া কাৰ্যকলাপ
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = { $provider }-ৰ দ্বাৰা পৰামৰ্শিত
@@ -156,6 +167,10 @@ newtab-section-header-pocket = { $provider }-ৰ দ্বাৰা পৰাম
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
+newtab-discovery-empty-section-topstories-header = আপুনি সকলো চালে!
+newtab-discovery-empty-section-topstories-content = আৰু অধিক কাহিনীৰ বাবে পিছত আকৌ চাব।
+newtab-discovery-empty-section-topstories-try-again-button = পুনৰ চেষ্টা কৰক
+newtab-discovery-empty-section-topstories-loading = ল'ড হৈ আছে…
 
 ## Pocket Content Section.
 
