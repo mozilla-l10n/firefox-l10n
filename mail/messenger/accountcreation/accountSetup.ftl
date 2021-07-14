@@ -235,6 +235,15 @@ account-setup-address-book-ldap-button = Z LDAP-adresnikom zwjazać
 account-setup-calendar-button = Ze zdalenym kalenderom zwjazać
 account-setup-linked-services-title = Zwjazajće swoje zwjazane słužby
 account-setup-linked-services-description = { -brand-short-name } je druhe słužby namakał, kotrež su z wašim e-mejlowym kontom zwjazane.
+# Variables:
+# $count (Number) - The number of address books found during autoconfig.
+account-setup-found-address-books-description =
+    { $count ->
+        [one] { -brand-short-name } je { $count } adresnik namakał, kotryž je z wašim e-mejlowym kontom zwjazany.
+        [two] { -brand-short-name } je { $count } adresnika namakał, kotrejž stej z wašim e-mejlowym kontom zwjazanej.
+        [few] { -brand-short-name } je { $count } adresniki namakał, kotrež su z wašim e-mejlowym kontom zwjazane.
+       *[other] { -brand-short-name } je { $count } adresnikow namakał, kotrež su z wašim e-mejlowym kontom zwjazane.
+    }
 account-setup-button-finish = Dokónčić
     .accesskey = D
 account-setup-looking-up-address-books = Adresniki so pytaja…
