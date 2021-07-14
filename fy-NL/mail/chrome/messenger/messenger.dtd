@@ -502,6 +502,8 @@
 <!ENTITY deleteJunk.accesskey "f">
 <!ENTITY importCmd.label "Ymportearje…">
 <!ENTITY importCmd.accesskey "Y">
+<!ENTITY exportCmd.label "Eksportearje…">
+<!ENTITY exportCmd.accesskey "k">
 <!ENTITY clearRecentHistory.label "Resinte skiednis wiskje…">
 <!ENTITY clearRecentHistory.accesskey "R">
 <!ENTITY accountManagerCmd2.label "Accountynstellingen">
