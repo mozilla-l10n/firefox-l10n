@@ -171,6 +171,8 @@ newtab-discovery-empty-section-topstories-header = আপুনি সকলো 
 newtab-discovery-empty-section-topstories-content = আৰু অধিক কাহিনীৰ বাবে পিছত আকৌ চাব।
 newtab-discovery-empty-section-topstories-try-again-button = পুনৰ চেষ্টা কৰক
 newtab-discovery-empty-section-topstories-loading = ল'ড হৈ আছে…
+# Displays when a layout in a section took too long to fetch articles.
+newtab-discovery-empty-section-topstories-timed-out = উস্! আমি এই শাখাটো ল'ড কৰিছিলোঁৱেই প্ৰায়, কিন্তু পূৰা নহ'ল।
 
 ## Pocket Content Section.
 
@@ -184,3 +186,15 @@ newtab-error-fallback-refresh-link = পুনৰ চেষ্টা কৰি�
 
 ## Customization Menu
 
+newtab-custom-shortcuts-subtitle = আপুনি সাঁচি থোৱা বা দৰ্শন কৰা ছাইটসমূহ
+newtab-custom-row-selector =
+    { $num ->
+        [one] { $num }টা শাৰী
+       *[other] { $num }টা শাৰী
+    }
+newtab-custom-close-button = বন্ধ কৰক
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+newtab-custom-snippets-title = স্নিপেটবোৰ
