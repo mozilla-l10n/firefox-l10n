@@ -17,6 +17,9 @@ upgrade-dialog-new-item-icons-title = সতেজ আইকন আৰু আগ
 upgrade-dialog-new-primary-default-button = { -brand-short-name }-ক মোৰ ডিফ'ল্ট ব্ৰাউজাৰ কৰক
 upgrade-dialog-new-primary-theme-button = এটা থীম বাছি লওক
 upgrade-dialog-new-secondary-button = এতিয়া নহয়
+# This string is only shown on Windows 7, where we intentionally suppress the
+# theme selection screen.
+upgrade-dialog-new-primary-win7-button = বাৰু, বুজিছোঁ!
 
 ## Pin Firefox screen
 ##
