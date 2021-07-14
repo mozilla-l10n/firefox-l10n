@@ -19,12 +19,6 @@
 <!ENTITY lightning.menupopup.new.calendar.accesskey "T">
 
 <!-- Open menu popup in File menu -->
-<!ENTITY lightning.menupopup.open.label               "Aç">
-<!ENTITY lightning.menupopup.open.accesskey           "A">
-<!ENTITY lightning.menupopup.open.message.label       "Kayıtlı iletiler…">
-<!ENTITY lightning.menupopup.open.message.accesskey   "i">
-
-<!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.calendar.label      "Takvim dosyası…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "T">
 
@@ -51,6 +45,10 @@
      - tooltiptext2 is used in the calendar properties dialog for caldav calendars -->
 <!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext1     "Zamanlamayı takvim sunucusu yapıyorsa, şimdilik yalnızca takvim özellikleri iletişim kutusunda bu takvimi kurduktan sonra bu seçeneği etkinleştirebilirsiniz.">
 <!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext2     "Bu seçenek, zamanlamayı takvim sunucusu yönetiyorsa kullanılabilir. Bunu etkinleştirdiğinizde, zamanlamayı sunucuya bırakmak yerine standart e-posta tabanlı zamanlama yapılacaktır.">
+
+<!-- The notifications settings in the properties dialog -->
+<!ENTITY lightning.calendarproperties.notifications.label                   "Bildirimler">
+<!ENTITY lightning.calendarproperties.globalNotifications.label             "Global bildirim tercihleri…">
 
 <!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.btnAccept.label                                  "Kabul et">

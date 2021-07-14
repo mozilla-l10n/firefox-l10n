@@ -4,6 +4,7 @@
 
 calendar-title = Takvim
 calendar-title-reminder = Anımsatıcılar
+calendar-title-notification = Bildirimler
 calendar-title-category = Kategoriler
 dateformat-label =
     .value = Tarih metni biçemi:
@@ -179,6 +180,7 @@ event-alarm-time-label =
 task-alarm-time-label =
     .value = Görevden önce anımsatıcının ayarlanacağı varsayılan süre:
     .accesskey = n
+calendar-notifications-customize-label = Her takvimin özellikler penceresinden o takvimin bildirimlerini özelleştirebilirsiniz.
 category-new-label = Yeni kategori
 category-edit-label = Kategori düzenle
 category-overwrite-title = Uyarı: Çift isim
