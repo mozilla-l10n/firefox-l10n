@@ -308,6 +308,8 @@ translate-web-pages =
     .label = Traduci contenuti web
     .accesskey = T
 
+fx-translate-web-pages = { -translations-brand-name }
+
 # The <img> element is replaced by the logo of the provider
 # used to provide machine translations for web pages.
 translate-attribution = Traduzioni a cura di <img data-l10n-name="logo"/>
