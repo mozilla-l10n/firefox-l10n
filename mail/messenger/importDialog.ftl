@@ -4,4 +4,5 @@
 
 # Short name of the import module
 thunderbird-import-name = Thunderbird
-import-select-profile-dir = Wubjerće profilowy zapis
+# Description of the import module
+thunderbird-import-description = E-mejl z profiloweho zapisa Thunderbird importować

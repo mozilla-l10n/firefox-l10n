@@ -9,5 +9,7 @@ export-dialog =
     .buttonlabelaccept = Dale
 export-dialog-button-finish = Dokónčić
 export-dialog-file-picker = Jako zip-dataju eksportować
+export-dialog-desc1 = E-mejlowe konta, mejlki, adresniki, nastajenja do zip-dataje eksportować.
+export-dialog-desc2 = Je-li trjeba, móžeće zip-dataju importować, zo byšće swój profil wobnowił.
 export-dialog-exporting = Eksportuje so…
 export-dialog-exported = Eksportowany!
