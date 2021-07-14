@@ -850,7 +850,7 @@ forms-primary-pw-former-name = { "" }
 forms-primary-pw-fips-title = 您正处于 FIPS 模式。该模式需要一个非空的主密码。
 forms-master-pw-fips-desc = 密码修改失败
 forms-windows-sso =
-    .label = 允许面向 Microsoft、工作和学校账户的 Windows 单点登录
+    .label = 允许面向 Microsoft 账户（个人/工作/学校）的 Windows 单点登录
 forms-windows-sso-learn-more-link = 详细了解
 forms-windows-sso-desc = 在您的设备设置中管理账户
 
