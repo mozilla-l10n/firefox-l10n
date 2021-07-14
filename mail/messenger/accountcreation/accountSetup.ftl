@@ -234,6 +234,13 @@ account-setup-calendar-button = Ferbining meitsje mei in eksterne aginda
 account-setup-linked-services-title = Ferbining meitsje mei jo keppele services
 account-setup-linked-services-description = { -brand-short-name } hat oare services dy't oan jo e-mailaccount keppele binne detektearre.
 account-setup-no-linked-description = Oare services ynstelle om it measte út jo { -brand-short-name }-ûnderfining te heljen.
+# Variables:
+# $count (Number) - The number of address books found during autoconfig.
+account-setup-found-address-books-description =
+    { $count ->
+        [one] { -brand-short-name } hat ien adresboek dat keppele is oan jo e-mailaccount fûn.
+       *[other] { -brand-short-name } hat ien { $count } adresboeken dy't keppele binne oan jo e-mailaccount fûn.
+    }
 
 ## Calendar synchronization dialog
 
