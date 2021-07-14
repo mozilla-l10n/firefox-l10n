@@ -14,5 +14,11 @@ openpgp-compose-key-status-open-details = Aukeratutako hartzailearen gakoak kude
 openpgp-recip-good = Ados
 openpgp-recip-missing = Ez dago gakorik erabilgarri
 openpgp-recip-none-accepted = Gakoa ez da onartu
+openpgp-compose-general-info-alias = { -brand-short-name }(e)k hartzailearen gako publikoak erabiltzaile IDa izatea eskatzen du normalean, bat datorrena posta elektroniko helbideaz.  Hau baliogabetu daiteke hartzaileen OpenPGP alias arauak erabiliz.
 openpgp-compose-general-info-alias-learn-more = Argibide gehiago
+openpgp-compose-alias-status-direct =
+    { $count ->
+        [one] Alias gako bati esleitua
+       *[other] { $count } alias gakoei esleitua
+    }
 openpgp-compose-alias-status-error = Alias gako erabilezina edo ez-eskuragarria
