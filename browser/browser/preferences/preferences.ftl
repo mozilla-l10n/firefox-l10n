@@ -857,6 +857,10 @@ forms-primary-pw-change =
 forms-primary-pw-former-name = { "" }
 forms-primary-pw-fips-title = Şu anda FIPS kipindesiniz. FIPS için boş olmayan bir ana parola gereklidir.
 forms-master-pw-fips-desc = Parola değiştirme başarısız
+forms-windows-sso =
+    .label = Microsoft, iş ve okul hesapları için Windows çoklu oturum açmaya izin ver
+forms-windows-sso-learn-more-link = Daha fazla bilgi al
+forms-windows-sso-desc = Hesapları cihaz ayarlarınızdan yönetebilirsiniz
 
 ## OS Authentication dialog
 

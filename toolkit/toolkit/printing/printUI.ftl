@@ -48,6 +48,22 @@ printui-options = Seçenekler
 printui-headers-footers-checkbox = Üst bilgi ve alt bilgileri yazdır
 printui-backgrounds-checkbox = Arka planları yazdır
 printui-selection-checkbox = Yalnızca seçimi yazdır
+
+## The "Format" section, select a version of the website to print. Radio
+## options to select between the original page, selected text only, or a version
+## where the page is processed with "Reader View".
+
+# The section title.
+printui-source-label = Biçim
+# Option for printing the original page.
+printui-source-radio = Orijinal
+# Option for printing just the content a user selected prior to printing.
+printui-selection-radio = Seçim
+# Option for "simplifying" the page by printing the Reader View version.
+printui-simplify-page-radio = Basitleştirilmiş
+
+##
+
 printui-color-mode-label = Renk modu
 printui-color-mode-color = Renkli
 printui-color-mode-bw = Siyah beyaz
