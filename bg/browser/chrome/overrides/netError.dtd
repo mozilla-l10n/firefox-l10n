@@ -6,7 +6,7 @@
 %brandDTD;
 
 <!ENTITY loadError.label "Проблем при зареждане на страница">
-<!ENTITY retry.label "Повторен опит">
+<!ENTITY retry.label "Нов опит">
 <!ENTITY returnToPreviousPage.label "Връщане назад">
 <!ENTITY returnToPreviousPage1.label "Връщане назад (препоръчително)">
 <!ENTITY advanced2.label "Разширени…">
