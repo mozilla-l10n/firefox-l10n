@@ -100,6 +100,23 @@ downloads-show-more-information =
 # open the file using an app available in the system.
 downloads-open-file =
     .value = Отвори датотеку
+
+## Displayed when the user clicked on a download in process. Indicates that the
+## downloading file will be opened after certain amount of time using an app
+## available in the system.
+## Variables:
+##   $hours (number) - Amount of hours left till the file opens.
+##   $seconds (number) - Amount of seconds left till the file opens.
+##   $minutes (number) - Amount of minutes till the file opens.
+
+downloading-file-opens-in-hours-and-minutes = Отварање за { $hours } ч. и { $minutes } мин…
+downloading-file-opens-in-minutes = Отварање за { $minutes } мин…
+downloading-file-opens-in-minutes-and-seconds = Отварање за { $minutes } мин. и { $seconds } сек…
+downloading-file-opens-in-seconds = Отварање за { $seconds } сек…
+downloading-file-opens-in-some-time = Отварање по завршетку…
+
+##
+
 # Displayed when hovering a download which is able to be retried by users,
 # indicates that it's possible to download this file again.
 downloads-retry-download =
