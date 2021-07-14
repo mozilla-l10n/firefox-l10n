@@ -165,51 +165,6 @@ page-action-remove-from-urlbar =
 page-action-remove-extension =
     .label = Utwreiding fuortsmite
 
-## Page Action menu
-
-# Variables
-# $tabCount (integer) - Number of tabs selected
-page-action-send-tabs-panel =
-    .label =
-        { $tabCount ->
-            [one] Ljepblêd nei apparaat ferstjoere
-           *[other] { $tabCount } ljepblêden nei apparaat ferstjoere
-        }
-page-action-send-tabs-urlbar =
-    .tooltiptext =
-        { $tabCount ->
-            [one] Ljepblêd nei apparaat ferstjoere
-           *[other] { $tabCount } ljepblêden nei apparaat ferstjoere
-        }
-page-action-copy-url-panel =
-    .label = Keppeling kopiearje
-page-action-copy-url-urlbar =
-    .tooltiptext = Keppeling kopiearje
-page-action-email-link-panel =
-    .label = Keppeling e-maile…
-page-action-email-link-urlbar =
-    .tooltiptext = Keppeling e-maile…
-page-action-share-url-panel =
-    .label = Diele
-page-action-share-url-urlbar =
-    .tooltiptext = Diele
-page-action-share-more-panel =
-    .label = Mear…
-page-action-send-tab-not-ready =
-    .label = Apparaten syngronisearje…
-# "Pin" is being used as a metaphor for expressing the fact that these tabs
-# are "pinned" to the left edge of the tabstrip. Really we just want the
-# string to express the idea that this is a lightweight and reversible
-# action that keeps your tab where you can reach it easily.
-page-action-pin-tab-panel =
-    .label = Ljepblêd fêstsette
-page-action-pin-tab-urlbar =
-    .tooltiptext = Ljepblêd fêstsette
-page-action-unpin-tab-panel =
-    .label = Ljepblêd losmeitsje
-page-action-unpin-tab-urlbar =
-    .tooltiptext = Ljepblêd losmeitsje
-
 ## Auto-hide Context Menu
 
 full-screen-autohide =
@@ -480,6 +435,8 @@ urlbar-default-placeholder =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Fier in sykterm of adres yn
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Browser wurdt op ôfstân bestjoerd
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -512,8 +469,6 @@ urlbar-placeholder-search-mode-other-tabs =
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Fier sykterm foar { $name } of adres yn
-urlbar-remote-control-notification-anchor =
-    .tooltiptext = Browser wurdt op ôfstân bestjoerd
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -607,6 +562,10 @@ pointerlock-warning-no-domain = Dit dokumint hat de kontrôle oer jo oanwizer. D
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>In part fan dizze side is ferûngelokke.</strong> Tsjinje in rapport yn om { -brand-product-name } te ynformearjen oer dit probleem en it rapper oplost te krijen.
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = In part fan dizze side is ferûngelokke. Tsjinje in rapport yn om { -brand-product-name } te ynformearjen oer dit probleem en it rapper oplost te krijen.
 crashed-subframe-learnmore-link =
     .value = Mear ynfo
 crashed-subframe-submit =

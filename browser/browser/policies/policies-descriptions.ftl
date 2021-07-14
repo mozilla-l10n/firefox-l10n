@@ -116,3 +116,4 @@ policy-SupportMenu = In oanpast menu-item foar stipe oan it menu Help tafoegje.
 policy-UserMessaging = Bepaalde berjochten net oan de brûker toane.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = It besykjen fan websites blokkearje. Sjoch de dokumintaasje foar mear ynformaasje oer de notaasje.
+policy-Windows10SSO = Windows-single-sign-on tastean foar Microsoft- wurk- en skoalle-accounts.

@@ -857,6 +857,10 @@ forms-primary-pw-change =
 forms-primary-pw-former-name = ""
 forms-primary-pw-fips-title = Jo binne no yn FIPS-modus. FIPS fereasket dat it haadwachtwurd net leech is.
 forms-master-pw-fips-desc = Wachtwurdwiziging mislearre.
+forms-windows-sso =
+    .label = Windows-single-sign-on tastean foar Microsoft- wurk- en skoalle-accounts
+forms-windows-sso-learn-more-link = Mear ynfo
+forms-windows-sso-desc = Accounts beheare yn jo apparaatynstellingen
 
 ## OS Authentication dialog
 
