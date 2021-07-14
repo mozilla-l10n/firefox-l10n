@@ -10,8 +10,6 @@ preferences-title =
             [windows] Aukerak
            *[other] Hobespenak
         }
-preferences-tab-title =
-    .title = Hobespenak
 preferences-doc-title = Hobespenak
 category-list =
     .aria-label = Kategoriak
@@ -263,6 +261,9 @@ diskspace-legend = Diskoko lekua
 offline-compact-folder =
     .label = Trinkotu karpeta guztiak hau baino gehiago aurrezten denean:
     .accesskey = k
+offline-compact-folder-automatically =
+    .label = Galdetu beti trinkotu aurretik
+    .accesskey = t
 compact-folder-size =
     .value = MB guztira
 
