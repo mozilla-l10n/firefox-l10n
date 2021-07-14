@@ -330,6 +330,8 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = সৰু কৰক
+browser-window-maximize-button =
+    .tooltiptext = মেক্সিমাইজ কৰক
 browser-window-close-button =
     .tooltiptext = বন্ধ কৰক
 
