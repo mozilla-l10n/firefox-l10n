@@ -46,6 +46,10 @@
 <!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext1     "Foarearst kinne jo dit allinnich ynskeakelje nei it ynstellen fan dizze aginda yn it eigenskippenfinster derfan as de agindaserver de planning fersoarget.">
 <!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext2     "Dizze opsje is allinnich beskikber as de agindaserver planning fersoarget. By ynskeakeljen kin weromfallen wurde nei de standert op e-mail basearre planning yn stee fan dit oan de server oer te litten.">
 
+<!-- The notifications settings in the properties dialog -->
+<!ENTITY lightning.calendarproperties.notifications.label                   "Meldingen">
+<!ENTITY lightning.calendarproperties.globalNotifications.label             "Algemiene meldingsfoarkarren…">
+
 <!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.btnAccept.label                                  "Akseptearje">
 <!ENTITY lightning.imipbar.btnAccept2.tooltiptext                           "Barrensútnûging akseptearje ">
