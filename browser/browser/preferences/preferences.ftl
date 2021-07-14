@@ -857,6 +857,8 @@ forms-primary-pw-change =
 forms-primary-pw-former-name = Früher bekannt als Master-Passwort
 forms-primary-pw-fips-title = Sie sind derzeit im FIPS-Modus. FIPS benötigt ein nicht leeres Hauptpasswort.
 forms-master-pw-fips-desc = Ändern des Passworts fehlgeschlagen
+forms-windows-sso =
+    .label = Windows Single Sign-on für Microsoft-, Geschäfts- und Schulkonten erlauben
 forms-windows-sso-learn-more-link = Weitere Informationen
 
 ## OS Authentication dialog
