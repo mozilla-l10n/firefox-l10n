@@ -890,6 +890,7 @@ forms-primary-pw-change =
 forms-primary-pw-former-name = { "" }
 forms-primary-pw-fips-title = Тренутно сте у FIPS режиму. Овај режим захтева коришћење главне лозинке.
 forms-master-pw-fips-desc = Грешка приликом промене лозинке
+forms-windows-sso-learn-more-link = Сазнајте више
 
 ## OS Authentication dialog
 
