@@ -10,6 +10,8 @@
 <!ENTITY markAsUnreadCmd.accesskey "n">
 <!ENTITY markAsUnreadCmd.key       "m">
 
+<!ENTITY markAsUnreadCmd2.key      "n">
+
 <!ENTITY markFlaggedCmd.label     "Sinalização">
 <!ENTITY markFlaggedCmd.accesskey "S">
 <!ENTITY markFlaggedCmd.key       "i">
