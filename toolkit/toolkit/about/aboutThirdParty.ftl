@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-third-party-page-title = Інформація про сторонній модуль
+third-party-page-title = Інформація про сторонні модулі
 third-party-section-title = Список сторонніх модулів у { -brand-short-name }
 third-party-intro =
     Ця сторінка показує сторонні модулі, які були вбудовані у ваш
