@@ -1,0 +1,40 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Used in networks-edit dialog -->
+<!ENTITY networksEditDialog.title     "Verkkojen muokkain">
+
+<!ENTITY restoreButton.label          "Palauta oletukset">
+
+<!ENTITY networkListAdd.label         "Lisää verkko…">
+<!ENTITY networkListAdd.tooltip       "Lisää uusi verkko">
+<!ENTITY networkListEdit.label        "Muokkaa verkkoa…">
+<!ENTITY networkListEdit.tooltip      "Muokkaa valittua verkkoa">
+<!ENTITY networkListRemove.label      "Poista verkko">
+<!ENTITY networkListRemove.tooltip    "Poista valittu verkko">
+
+<!ENTITY serverListUp.label           "Siirrä ylös">
+<!ENTITY serverListUp.tooltip         "Siirrä valittu palvelin listassa ylöspäin">
+<!ENTITY serverListDown.label         "Siirrä alas">
+<!ENTITY serverListDown.tooltip       "Siirrä valittu palvelin listassa alaspäin">
+<!ENTITY serverListAdd.label          "Lisää palvelin…">
+<!ENTITY serverListAdd.tooltip        "Lisää uusi palvelin">
+<!ENTITY serverListEdit.label         "Muokkaa palvelinta…">
+<!ENTITY serverListEdit.tooltip       "Muokkaa valittua palvelinta">
+<!ENTITY serverListRemove.label       "Poista palvelin">
+<!ENTITY serverListRemove.tooltip     "Poista valittu palvelin">
+
+<!-- LOCALIZATION NOTE:
+   - *.label are shared between networks-edit and networks-server dialogs
+   - *.accesskey are only used in network-servers dialog -->
+<!ENTITY serverDetails.label          "Valitun palvelimen tiedot:">
+<!ENTITY serverName.label             "Palvelin:">
+<!ENTITY serverPort.label             "Portti:">
+<!ENTITY connectionSecurity.label     "Yhteyden suojaus:">
+
+<!-- Used in networks-server dialog -->
+<!ENTITY serverEditDialog.title       "IRC-palvelin">
+<!ENTITY settings.caption             "Asetukset">
+<!ENTITY security.caption             "Turvallisuus">
+<!ENTITY serverPortDefault.label      "Oletus:">
