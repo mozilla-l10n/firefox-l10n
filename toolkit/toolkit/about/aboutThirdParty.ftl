@@ -10,7 +10,7 @@ third-party-intro =
     Microsoft чи { -vendor-short-name }, вважається стороннім.
 third-party-header-module-list = Список модулів
 third-party-header-loading-events = Завантаження подій
-third-party-message-empty = Сторонні модулі не виявлено.
+third-party-message-empty = Сторонніх модулів не виявлено.
 third-party-message-no-duration = Не записано
 third-party-detail-version = Версія файлу
 third-party-detail-vendor = Інформація про постачальника
