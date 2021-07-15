@@ -366,7 +366,7 @@ install-update-button = 업데이트
 addon-badge-private-browsing-allowed2 =
     .title = 사생활 보호 창에서 허용됨
     .aria-label = { addon-badge-private-browsing-allowed2.title }
-addon-detail-private-browsing-help = 허용된 경우, 확장 기능은 사생활 보호 모드에서 온라인 활동에 접근 할 수 있습니다. <a data-l10n-name="learn-more">더 알아보기</a>
+addon-detail-private-browsing-help = 허용되면 확장 기능은 사생활 보호 모드에서 온라인 활동에 접근 할 수 있습니다. <a data-l10n-name="learn-more">더 알아보기</a>
 addon-detail-private-browsing-allow = 허용
 addon-detail-private-browsing-disallow = 허용 안 함
 
