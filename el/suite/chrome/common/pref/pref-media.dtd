@@ -11,7 +11,7 @@
 <!ENTITY allowMediaAutoplay.accesskey   "α">
 
 <!ENTITY enableDrmMedia.label           "Ενεργοποίηση διαχείρισης ψηφιακών δικαιωμάτων για">
-<!ENTITY enableEmeForSuite.label        "Πρόσθετα αποκρυπτογράφησης περιεχομένου τρίτων">
+<!ENTITY enableEmeForSuite.label        "Λειτουργικές μονάδες αποκρυπτογράφησης περιεχομένου τρίτων">
 <!ENTITY enableEmeForSuite.accesskey    "Π">
 
 <!ENTITY animLoopingTitle.label         "Επανάληψη κινούμενων εικόνων">
