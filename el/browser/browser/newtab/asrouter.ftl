@@ -126,9 +126,6 @@ cfr-whatsnew-lockwise-take-link-text = Λήψη εφαρμογής
 
 cfr-whatsnew-searchbar-title = Πληκτρολογήστε λιγότερο, βρείτε περισσότερα με τη γραμμή διευθύνσεων
 cfr-whatsnew-searchbar-body-topsites = Τώρα, απλώς επιλέξτε τη γραμμή διευθύνσεων και θα εμφανιστεί ένα πλαίσιο με συνδέσμους για τις κορυφαίες ιστοσελίδες σας.
-
-## Search bar
-
 cfr-whatsnew-searchbar-icon-alt-text = Εικονίδιο μεγεθυντικού φακού
 
 ## Picture-in-Picture
@@ -183,7 +180,7 @@ cfr-doorhanger-send-tab-ok-button = Δοκιμάστε την καρτέλα "Α
 ## Firefox Send
 
 cfr-doorhanger-firefox-send-header = Μοιραστείτε αυτό το PDF με ασφάλεια
-cfr-doorhanger-firefox-send-body = Προστατεύστε τα ευαίσθητα έγγραφά σας από αδιάκριτα μάτια με κρυπτογράφηση από άκρο σε άκρο και ένα σύνδεσμο που εξαφανίζεται όταν τελειώσετε.
+cfr-doorhanger-firefox-send-body = Προστατεύστε τα ευαίσθητα έγγραφά σας από αδιάκριτα μάτια με διατερματική κρυπτογράφηση και έναν σύνδεσμο που εξαφανίζεται όταν τελειώσετε.
 cfr-doorhanger-firefox-send-ok-button = Δοκιμή του { -send-brand-name }
     .accesskey = Δ
 
@@ -244,12 +241,6 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Εικονίδιο εικόνας-εντ�
 
 ## Protections Dashboard message
 
-cfr-doorhanger-milestone-close-button = Κλείσιμο
-    .accesskey = Κ
-
-## What’s New Panel Content for Firefox 76
-## Protections Dashboard message
-
 cfr-whatsnew-protections-header = Μέθοδοι προστασίες με μια ματιά
 cfr-whatsnew-protections-body = Ο πίνακας προστασίας περιλαμβάνει περιληπτικές αναφορές σχετικά με τις παραβιάσεις δεδομένων και τη διαχείριση κωδικών πρόσβασης. Μπορείτε πλέον να παρακολουθείτε πόσες διαρροές έχετε επιλύσει και να βλέπετε αν κάποιος από τους αποθηκευμένους κωδικούς πρόσβασής σας έχει εκτεθεί σε παραβίαση δεδομένων.
 cfr-whatsnew-protections-cta-link = Προβολή πίνακα προστασίας
@@ -259,6 +250,8 @@ cfr-whatsnew-protections-icon-alt = Εικονίδιο ασπίδας
 
 cfr-whatsnew-better-pdf-header = Καλύτερη εμπειρία PDF
 cfr-whatsnew-better-pdf-body = Τα έγγραφα PDF πλέον ανοίγουν απευθείας στο { -brand-short-name } για ακόμα πιο βολική εργασία.
+cfr-doorhanger-milestone-close-button = Κλείσιμο
+    .accesskey = Κ
 
 ## DOH Message
 
@@ -277,38 +270,6 @@ cfr-doorhanger-fission-primary-button = Το κατάλαβα
     .accesskey = Τ
 cfr-doorhanger-fission-secondary-button = Μάθετε περισσότερα
     .accesskey = Μ
-
-## What's new: Cookies message
-
-cfr-whatsnew-clear-cookies-header = Αυτόματη προστασία από περίεργες τακτικές ιχνηλάτησης
-cfr-whatsnew-clear-cookies-body = Ορισμένοι ιχνηλάτες σας ανακατευθύνουν σε άλλες ιστοσελίδες που τοποθετούν κρυφά cookies. Το { -brand-short-name } διαγράφει αυτόματα αυτά τα cookies, ώστε να μην μπορούν να σας ακολουθήσουν.
-cfr-whatsnew-clear-cookies-image-alt = Απεικόνιση αποκλεισμού cookie
-
-## What's new: Media controls message
-
-cfr-whatsnew-media-keys-header = Περισσότερα στοιχεία ελέγχου πολυμέσων
-cfr-whatsnew-media-keys-body = Κάντε αναπαραγωγή και παύση ήχου ή βίντεο απευθείας από το πληκτρολόγιό σας ή τα ακουστικά σας, κάνοντας εύκολο τον έλεγχο πολυμέσων από άλλη καρτέλα, πρόγραμμα ή ακόμη και την οθόνη κλειδώματος. Μπορείτε επίσης να κάνετε εναλλαγή κομματιών με τα πλήκτρα "εμπρός" και "πίσω".
-cfr-whatsnew-media-keys-button = Μάθετε πώς
-
-## What's new: Search shortcuts
-
-cfr-whatsnew-search-shortcuts-header = Αναζήτηση συντομεύσεων στη γραμμή διευθύνσεων
-cfr-whatsnew-search-shortcuts-body = Πλέον, όταν πληκτρολογείτε μια μηχανή αναζήτησης ή μια συγκεκριμένη ιστοσελίδα στη γραμμή διευθύνσεων, θα εμφανίζεται μια μπλε συντόμευση στις προτάσεις αναζήτησης. Επιλέξτε τη συντόμευση για να ολοκληρώσετε την αναζήτησή σας απευθείας από τη γραμμή διευθύνσεων.
-
-## What's new: Cookies protection
-
-cfr-whatsnew-supercookies-header = Προστασία από κακόβουλα supercookies
-cfr-whatsnew-supercookies-body = Οι ιστοσελίδες μπορούν να επισυνάψουν κρυφά ένα “supercookie” στο πρόγραμμα περιήγησής σας, προκειμένου να σας παρακολουθούν στο διαδίκτυο, ακόμη και μετά την εκκαθάριση των cookies. Το { -brand-short-name } παρέχει ισχυρή προστασία έναντι των supercookies, ώστε να μην μπορούν να χρησιμοποιηθούν για την παρακολούθηση των διαδικτυακών σας δραστηριοτήτων από τη μια ιστοσελίδα στην άλλη.
-
-## What's new: Better bookmarking
-
-cfr-whatsnew-bookmarking-header = Καλύτεροι σελιδοδείκτες
-cfr-whatsnew-bookmarking-body = Είναι πιο εύκολο να παρακολουθείτε τις αγαπημένες σας ιστοσελίδες. Το { -brand-short-name } απομνημονεύει πλέον την προτιμώμενη τοποθεσία σας για αποθηκευμένους σελιδοδείκτες, εμφανίζει τη γραμμή σελιδοδεικτών από προεπιλογή σε νέες καρτέλες και παρέχει εύκολη πρόσβαση στους υπόλοιπους σελιδοδείκτες σας μέσω ενός φακέλου στη γραμμή εργαλείων.
-
-## What's new: Cross-site cookie tracking
-
-cfr-whatsnew-cross-site-tracking-header = Πλήρης προστασία από τα cookies καταγραφής μεταξύ ιστοσελίδων
-cfr-whatsnew-cross-site-tracking-body = Μπορείτε τώρα να εγγραφείτε για καλύτερη προστασία από καταγραφή cookie. Το { -brand-short-name } μπορεί να απομονώσει τις δραστηριότητες και τα δεδομένα σας στην ιστοσελίδα που βρίσκεστε, ώστε οι αποθηκευμένες πληροφορίες να μην μοιράζονται μεταξύ ιστοσελίδων.
 
 ## Full Video Support CFR message
 
