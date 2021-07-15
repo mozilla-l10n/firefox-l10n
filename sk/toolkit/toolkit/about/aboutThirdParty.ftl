@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 third-party-page-title = Informácie o moduloch tretích strán
-third-party-section-title = Zoznam modulov tretích strán vo { -brand-short-name(case: "gen") }
+third-party-section-title = Zoznam modulov tretích strán vo { -brand-short-name(case: "loc") }
 third-party-intro =
     Táto stránka zobrazuje moduly tretích strán, ktoré boli vložené do vašej inštalácie { -brand-short-name(case: "gen") }. Za modul tretej strany sa považuje akýkoľvek modul, ktorý nie je podpísaný spoločnosťou Microsoft alebo 
     { -vendor-short-name }.

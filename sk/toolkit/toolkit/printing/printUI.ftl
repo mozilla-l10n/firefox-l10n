@@ -49,6 +49,22 @@ printui-options = Možnosti
 printui-headers-footers-checkbox = Vytlačiť hlavičku a pätu
 printui-backgrounds-checkbox = Vytlačiť pozadie
 printui-selection-checkbox = Vytlačiť len výber
+
+## The "Format" section, select a version of the website to print. Radio
+## options to select between the original page, selected text only, or a version
+## where the page is processed with "Reader View".
+
+# The section title.
+printui-source-label = Formát
+# Option for printing the original page.
+printui-source-radio = Originálna
+# Option for printing just the content a user selected prior to printing.
+printui-selection-radio = Výber
+# Option for "simplifying" the page by printing the Reader View version.
+printui-simplify-page-radio = Zjednodušená
+
+##
+
 printui-color-mode-label = Nastavenia farby
 printui-color-mode-color = Farebne
 printui-color-mode-bw = Čiernobielo
