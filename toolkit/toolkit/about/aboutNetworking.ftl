@@ -34,7 +34,7 @@ about-networking-bytes-received = Ληφθέντα byte
 about-networking-logging = Καταγραφή
 about-networking-log-tutorial = Δείτε την <a data-l10n-name="logging">Καταγραφή HTTP</a> για οδηγίες σχετικά με τη χρήση αυτού του εργαλείου.
 about-networking-current-log-file = Τρέχον αρχείο καταγραφής:
-about-networking-current-log-modules = Τρέχοντες μονάδες καταγραφής:
+about-networking-current-log-modules = Τρέχουσες μονάδες καταγραφής:
 about-networking-set-log-file = Ορισμός αρχείου καταγραφής
 about-networking-set-log-modules = Ορισμός μονάδων καταγραφής
 about-networking-start-logging = Έναρξη καταγραφής
