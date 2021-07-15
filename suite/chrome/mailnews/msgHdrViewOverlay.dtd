@@ -17,7 +17,7 @@
 
 <!ENTITY tagsHdr.label "Ετικέτες: ">
 <!ENTITY dateField.label "Ημερομηνία: ">
-<!ENTITY userAgentField.label "Πλατφόρμα-χρήστη: ">
+<!ENTITY userAgentField.label "Παράγοντας χρήστη:">
 <!ENTITY referencesField.label "Αναφορές: ">
 <!ENTITY messageIdField.label "ID-μηνύματος:">
 <!ENTITY inReplyToField.label "Σε-απάντηση-σε:">

@@ -67,4 +67,4 @@
      example: You are currently on the _Stable_ update channel. -->
 <!ENTITY channel.description.start  "Αυτή τη στιγμή, βρίσκεστε στο κανάλι ενημερώσεων ">
 <!ENTITY channel.description.end    " .">
-<!ENTITY about.userAgent            "Πλατφόρμα χρήστη: ">
+<!ENTITY about.userAgent            "Παράγοντας χρήστη:">
