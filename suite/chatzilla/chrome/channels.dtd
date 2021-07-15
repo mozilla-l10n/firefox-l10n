@@ -22,8 +22,8 @@
 <!ENTITY maxusers.label     "Käyttäjiä enintään:">
 <!ENTITY maxusers.accesskey "n">
 
-<!ENTITY refresh.label     "Päivitä">
-<!ENTITY refresh.accesskey "P">
+<!ENTITY refreshNow.label     "Päivitä nyt">
+<!ENTITY refreshNow.accesskey "Ä">
 
 <!ENTITY network.hint.label "Kirjoita haluamasi verkon tai palvelimen nimi porttinumeroineen ja kanavan nimi, niin voit liittyä siihen.">
 
