@@ -14,3 +14,4 @@ openpgp-compose-key-status-open-details = Seçilen alıcı için anahtarları y�
 openpgp-recip-good = tamam
 openpgp-recip-missing = anahtar yok
 openpgp-recip-none-accepted = kabul edilmiş anahtar yok
+openpgp-compose-general-info-alias-learn-more = Daha fazla bilgi al
