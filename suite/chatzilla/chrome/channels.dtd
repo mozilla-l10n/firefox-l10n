@@ -22,8 +22,8 @@
 <!ENTITY maxusers.label     "Máximo de usuários:">
 <!ENTITY maxusers.accesskey "x">
 
-<!ENTITY refresh.label     "Atualizar agora">
-<!ENTITY refresh.accesskey "">
+<!ENTITY refreshNow.label     "Atualizar agora">
+<!ENTITY refreshNow.accesskey "A">
 
 <!ENTITY network.hint.label "Insira qualquer nome de rede ou servidor (você pode incluir uma porta) e um canal para entrar.">
 
