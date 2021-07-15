@@ -79,7 +79,7 @@ policy-SanitizeOnShutdown2 = Εκκαθάριση δεδομένων πλοήγ�
 policy-SearchEngines = Διαμόρφωση ρυθμίσεων μηχανής αναζήτησης. Αυτή η πολιτική είναι διαθέσιμη μόνο στην έκδοση εκτεταμένης υποστήριξης (ESR).
 policy-SearchSuggestEnabled = Ενεργοποίηση ή απενεργοποίηση προτάσεων αναζήτησης.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
-policy-SecurityDevices = Εγκατάσταση προσθέτων PKCS #11.
+policy-SecurityDevices = Εγκατάσταση λειτουργικών μονάδων PKCS #11.
 policy-SSLVersionMax = Ορισμός μέγιστης έκδοσης SSL.
 policy-SSLVersionMin = Ορισμός ελάχιστης έκδοσης SSL.
 policy-SupportMenu = Προσθήκη προσαρμοσμένου στοιχείου μενού υποστήριξης στο μενού βοήθειας.
