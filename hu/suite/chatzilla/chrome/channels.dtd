@@ -22,8 +22,8 @@
 <!ENTITY maxusers.label     "Max. felhasználók:">
 <!ENTITY maxusers.accesskey "x">
 
-<!ENTITY refresh.label     "Frissítés most">
-<!ENTITY refresh.accesskey "">
+<!ENTITY refreshNow.label     "Frissítés most">
+<!ENTITY refreshNow.accesskey "F">
 
 <!ENTITY network.hint.label "Adjon meg egy tetszőleges hálózati vagy kiszolgálónevet (portot is megadhat) és egy csatornát, amelyhez csatlakozna.">
 

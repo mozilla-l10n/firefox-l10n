@@ -38,5 +38,16 @@
 <!-- LOCALIZATION NOTE:
    - *.label are shared between networks-edit and networks-server dialogs
    - *.accesskey are only used in network-servers dialog -->
+<!ENTITY serverDetails.label          "A kiválasztott kiszolgáló részletei:">
+<!ENTITY serverName.label             "Kiszolgáló:">
+<!ENTITY serverName.accesskey         "K">
+<!ENTITY serverPort.label             "Port:">
+<!ENTITY serverPort.accesskey         "P">
+<!ENTITY connectionSecurity.label     "Kapcsolat biztonsága:">
+<!ENTITY connectionSecurity.accesskey "b">
 
 <!-- Used in networks-server dialog -->
+<!ENTITY serverEditDialog.title       "IRC-kiszolgáló">
+<!ENTITY settings.caption             "Beállítások">
+<!ENTITY security.caption             "Biztonság">
+<!ENTITY serverPortDefault.label      "Alapértelmezett:">

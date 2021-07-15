@@ -10,6 +10,8 @@
 <!ENTITY markAsUnreadCmd.accesskey "O">
 <!ENTITY markAsUnreadCmd.key       "m">
 
+<!ENTITY markAsUnreadCmd2.key      "u">
+
 <!ENTITY markFlaggedCmd.label     "Zászlócska">
 <!ENTITY markFlaggedCmd.accesskey "Z">
 <!ENTITY markFlaggedCmd.key       "i">
