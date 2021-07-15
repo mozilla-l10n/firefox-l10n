@@ -16,7 +16,7 @@
 <!ENTITY followupToField4.label "Σε συνέχεια του">
 <!ENTITY tagsHdr4.label "Ετικέτες">
 <!ENTITY dateField4.label "Ημερομηνία">
-<!ENTITY userAgentField4.label "User agent ">
+<!ENTITY userAgentField4.label "Παράγοντας χρήστη">
 <!ENTITY referencesField4.label "Αναφορές">
 <!ENTITY messageIdField4.label "ID μηνύματος ">
 <!ENTITY inReplyToField4.label "Σε απάντηση στο">
