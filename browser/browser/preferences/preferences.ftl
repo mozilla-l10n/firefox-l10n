@@ -843,6 +843,10 @@ forms-primary-pw-change =
 forms-primary-pw-former-name = Denumită anterior parolă generală
 forms-primary-pw-fips-title = Acum ești în modul FIPS. FIPS nu permite inexistența unei parole primare.
 forms-master-pw-fips-desc = Schimbarea parolei a eșuat
+forms-windows-sso =
+    .label = Permite conectarea unică Windows pentru conturile Microsoft, de la locul de muncă sau de la școală.
+forms-windows-sso-learn-more-link = Află mai multe
+forms-windows-sso-desc = Gestionează conturile în setările dispozitivului
 
 ## OS Authentication dialog
 
