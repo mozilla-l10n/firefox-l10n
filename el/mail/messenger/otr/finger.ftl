@@ -5,7 +5,7 @@
 otr-finger =
     .buttonlabelaccept = Κλείσιμο
     .title = Προηγούμενα αποτυπώματα OTR
-finger-intro = Αποτυπώματα κλειδιού OTR από προηγούμενες συζητήσεις με κρυπτογράφηση από άκρη σε άκρη.
+finger-intro = Αποτυπώματα κλειδιού OTR από προηγούμενες συζητήσεις με διατερματική κρυπτογράφηση.
 finger-screenName =
     .label = Επαφή
 finger-screen-name =

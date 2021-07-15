@@ -222,7 +222,7 @@ account-setup-addon-no-protocol = Αυτός ο διακομιστής email δ�
 ## Success view
 
 account-setup-settings-button = Ρυθμίσεις λογαριασμού
-account-setup-encryption-button = Κρυπτογράφηση από άκρο σε άκρο
+account-setup-encryption-button = Διατερματική κρυπτογράφηση
 account-setup-signature-button = Προσθήκη υπογραφής
 account-setup-dictionaries-button = Λήψη λεξικών
 account-setup-address-book-carddav-button = Σύνδεση σε ευρετήριο CardDAV
