@@ -123,8 +123,6 @@ move-attachment-last-panel-button =
 button-return-receipt =
     .label = Alındı onayı
     .tooltiptext = Bu ileti için alındı onayı iste
-#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
-consider-bcc-notification = Kime ve Cc alanlarındaki { $count } alıcı birbirlerinin adresini görebilir. Bunun yerine Bcc kullanarak alıcıları göstermekten kaçınabilirsiniz.
 
 # Addressing Area
 
@@ -172,3 +170,4 @@ many-public-recipients-ignore =
 # Variables:
 # $identity (string) - The name of the used identity, most likely an email address.
 compose-missing-identity-warning = Gönderen adresiyle eşleşen benzersiz kimlik bulunamadı. İleti, mevcut "Gönderen" alanı ve { $identity } kimliğine ait ayarlarla gönderilecek.
+encrypted-bcc-ignore-button = Anladım

@@ -502,6 +502,7 @@
 <!ENTITY deleteJunk.accesskey "s">
 <!ENTITY importCmd.label "İçe aktar…">
 <!ENTITY importCmd.accesskey "t">
+<!ENTITY exportCmd.label "Dışa aktar…">
 <!ENTITY clearRecentHistory.label "Yakın geçmişi temizle…">
 <!ENTITY clearRecentHistory.accesskey "t">
 <!ENTITY accountManagerCmd2.label "Hesap ayarları">

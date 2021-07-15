@@ -100,13 +100,15 @@ account-setup-step3-image =
     .title = Yapılandırma bulundu
 account-setup-step4-image =
     .title = Bağlantı hatası
+account-setup-privacy-footnote = Hesap bilgileriniz <a data-l10n-name="privacy-policy-link">gizlilik politikamıza</a> uygun şekilde kullanılacak ve yalnızca bilgisayarınızda saklanacaktır.
 account-setup-step5-image =
     .title = Hesap oluşturuldu
-account-setup-privacy-footnote = Hesap bilgileriniz <a data-l10n-name="privacy-policy-link">gizlilik politikamıza</a> uygun şekilde kullanılacak ve yalnızca bilgisayarınızda saklanacaktır.
 account-setup-selection-help = Neyi seçeceğinizden emin değil misiniz?
 account-setup-selection-error = Yardım mı lazım?
 account-setup-documentation-help = Kurulum belgeleri
 account-setup-forum-help = Destek forumu
+account-setup-privacy-help = Gizlilik ilkeleri
+account-setup-getting-started = Başlarken
 
 ## Results area
 
@@ -239,3 +241,15 @@ account-setup-connect-all-address-books = Tüm adres defterlerini bağla
 ## Calendar synchronization dialog
 
 calendar-dialog-title = Takvimi bağla
+calendar-dialog-cancel-button = Vazgeç
+    .accesskey = V
+calendar-dialog-confirm-button = Bağlan
+    .accesskey = n
+account-setup-calendar-name-label = Ad
+account-setup-calendar-name-input =
+    .placeholder = Takvimim
+account-setup-calendar-color-label = Renk
+account-setup-calendar-refresh-label = Tazele
+account-setup-calendar-refresh-manual = Elle
+account-setup-calendar-offline-support = Çevrimdışı desteği
+    .accesskey = Ç
