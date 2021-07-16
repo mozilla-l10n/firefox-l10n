@@ -13,7 +13,7 @@ update-updateButton =
     .accesskey = R
 update-checkingForUpdates = Vyhľadávajú sa aktualizácie…
 update-downloading = <img data-l10n-name="icon"/>Sťahuje sa aktualizácia — <label data-l10n-name="download-status"/>
-update-downloading-message = Sťahuje sa aktualizácia - <label data-l10n-name="download-status"/>
+update-downloading-message = Sťahuje sa aktualizácia — <label data-l10n-name="download-status"/>
 update-applying = Aktualizácia sa inštaluje…
 update-failed = Aktualizácia zlyhala. <label data-l10n-name="failed-link">Stiahnuť najnovšiu verziu</label>
 update-failed-main = Aktualizácia zlyhala. <a data-l10n-name="failed-link-main">Stiahnuť najnovšiu verziu</a>
