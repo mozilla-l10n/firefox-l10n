@@ -48,7 +48,9 @@
 <!ENTITY editMenu.accesskey                             "Ẓ">
 <!ENTITY deleteCmd.label                                "Kkes">
 <!ENTITY deleteAbCmd.label                              "Kkes imedlis n tensa">
+<!ENTITY deleteAbCmd.accesskey                          "D">
 <!ENTITY removeAbCmd.label                              "Kkes imedlis n tensiwin">
+<!ENTITY removeAbCmd.accesskey                          "d">
 <!ENTITY deleteContactCmd.label                         "Kkes anermis">
 <!ENTITY deleteContactsCmd.label                        "Kkes inermisen">
 <!ENTITY deleteListCmd.label                            "Kkes tabdart">
@@ -141,6 +143,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.label                            "Kkes">
 <!ENTITY deleteButton2.accesskey                        "K">
 
+<!ENTITY removeButton.label                             "Kkes">
+<!ENTITY removeButton.accesskey                         "R">
 
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY columnChooser.tooltip                          "Fren tigejda ad-sekneḍ">

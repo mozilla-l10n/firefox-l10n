@@ -129,7 +129,22 @@ to-compose-show-address-row-label =
     .value = { to-compose-address-row-label.value }
     .tooltiptext = Sken urti { to-compose-address-row-label.value } ({ to-compose-show-address-row-menuitem.acceltext })
 cc-compose-address-row-label =
-    .value = AnɣeI
+    .value = Anɣ.I
+#   $key (String) - the shortcut key for this field
+cc-compose-show-address-row-menuitem =
+    .label = Urti { cc-compose-address-row-label.value }
+    .accesskey = N
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+cc-compose-show-address-row-label =
+    .value = { cc-compose-address-row-label.value }
+    .tooltiptext = Sken urti { cc-compose-address-row-label.value } ({ cc-compose-show-address-row-menuitem.acceltext })
+bcc-compose-address-row-label =
+    .value = Anɣ.Uff.I
+#   $key (String) - the shortcut key for this field
+bcc-compose-show-address-row-menuitem =
+    .label = Urti { bcc-compose-address-row-label.value }
+    .accesskey = B
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
 
 ## Notifications
 
