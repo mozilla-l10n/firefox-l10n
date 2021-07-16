@@ -67,7 +67,7 @@ appmenu-remote-tabs-turn-on-sync =
     .label = Activează sincronizarea…
 appmenuitem-fxa-toolbar-sync-now2 = Sincronizează acum
 appmenuitem-fxa-manage-account = Gestionează contul
-appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "upper-indefinite-article") }
+appmenu-fxa-header2 = { -fxaccount-brand-name(case: "indefinite-article", capitalization: "upper") }
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
