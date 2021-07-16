@@ -4,3 +4,5 @@
 
 account-settingsTitle = Iɣewwaṛen n usesteb
 account-channelTitle = Ibuda imezwar
+account-settings-title = Iɣewwaṛen n usesteb
+account-channel-title = Ibuda imezwer
