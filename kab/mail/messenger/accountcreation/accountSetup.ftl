@@ -193,6 +193,29 @@ account-setup-existing-address-book = Iqqen
 account-setup-existing-calendar = Iqqen
     .title = Awitay yeqqen yakan
 account-setup-connect-all-calendars = Qqen meṛṛa iwitayen
+account-setup-connect-all-address-books = Qqen meṛṛa imedlisen n tansiwin
 
 ## Calendar synchronization dialog
 
+calendar-dialog-title = Qqen awitay
+calendar-dialog-cancel-button = Sefsex
+    .accesskey = S
+calendar-dialog-confirm-button = Qqen
+    .accesskey = Q
+account-setup-calendar-name-label = Isem
+account-setup-calendar-name-input =
+    .placeholder = Awitay-inu
+account-setup-calendar-color-label = Ini
+account-setup-calendar-refresh-label = Smiren
+account-setup-calendar-refresh-manual = S ufus
+account-setup-calendar-refresh-interval =
+    { $count ->
+        [one] Yal tasdat
+       *[other] yal { $count } n tesdatin
+    }
+account-setup-calendar-read-only = Taɣuri kan
+    .accesskey = T
+account-setup-calendar-show-reminders = Sken ismektiyen
+    .accesskey = S
+account-setup-calendar-offline-support = Tallalt war tuqqna
+    .accesskey = T
