@@ -167,6 +167,7 @@ tray-icon-label =
     .accesskey = n
 biff-use-system-alert =
     .label = Seqdec alɣu n unagraw
+tray-icon-unread-description = Yettuwelleh deg useqdec n tqeffalin timeẓẓyanin n ufeggag n twuriwin
 mail-system-sound-label =
     .label = Imesli n unagraw amezwer i yimayl amaynut
     .accesskey = D
