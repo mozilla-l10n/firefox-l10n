@@ -10,6 +10,10 @@ account-setup-title = Nastajśo swóju eksistěrujucu e-mailowu adresu
 account-setup-description =
     Aby swóju aktualnu e-mailowu adresu wužywał, zapódajśo swóje pśizjawjeńske daty.<br/>
     { -brand-product-name } buźo awtomatiski za funkcioněrujuceju a dopóruconeju serweroweju konfiguraciju pytaś.
+account-setup-secondary-description = { -brand-product-name } buźo awtomatiski za funkcioněrujuceju a dopóruconeju serweroweju konfiguraciju pytaś.
+account-setup-success-title = Konto jo se wuspěšnje załožyło
+account-setup-success-description = Móžośo toś to konto něnto z { -brand-short-name } wužywaś.
+account-setup-success-secondary-description = Zwěžćo pódobne słužby a konfigurěrujśo rozšyrjone kontowe nastajenja, aby dožywjenje pólěpšył.
 
 ## Form fields
 
@@ -99,10 +103,16 @@ account-setup-step3-image =
 account-setup-step4-image =
     .title = Zwiskowa zmólka
 account-setup-privacy-footnote = Waše pśizjawjeńske daty se pó našych <a data-l10n-name="privacy-policy-link">pšawidłach priwatnosći</a> wužywaju a składuju se jano lokalnje na wašom licadle.
+account-setup-step5-image =
+    .title = Konto załožone
+account-setup-privacy-footnote2 = Waše pśizjawjeńske daty budu se jano lokalnje na wašom licadle składowaś.
 account-setup-selection-help = Njejsćo se wěsty, což maśo wubraś?
 account-setup-selection-error = Trjebaśo pomoc?
+account-setup-success-help = Njocośo, co maśo dalej cyniś?
 account-setup-documentation-help = Konfiguraciska dokumentacija
 account-setup-forum-help = Forum pomocy
+account-setup-privacy-help = Pšawidła priwatnosći
+account-setup-getting-started = Prědne kšace
 
 ## Results area
 
@@ -213,3 +223,18 @@ account-setup-confirm-advanced-description = Toś ten dialog se zacynijo a konto
 account-setup-addon-install-title = Instalěrowaś
 account-setup-addon-install-intro = Dodank tśeśego póbitowarja móžo wam pśistup k wašomu e-mailowemu kontoju na toś tom serwerje zmóžniś:
 account-setup-addon-no-protocol = Toś ten e-mailowy serwer bóžko wótwórjone protokole njepódpěra. { account-setup-addon-install-intro }
+
+## Success view
+
+account-setup-settings-button = Kontowe nastajenja
+account-setup-encryption-button = Koděrowanje wót kóńca do kóńca
+account-setup-signature-button = Signaturu pśidaś
+account-setup-dictionaries-button = Słowniki ześěgnuś
+account-setup-address-book-carddav-button = Z CardDAV-adresnikom zwězaś
+account-setup-address-book-ldap-button = Z LDAP-adresnikom zwězaś
+account-setup-calendar-button = Ze zdalonym kalendarjom zwězaś
+account-setup-linked-services-title = Zwěžćo swóje zwězane słužby
+account-setup-linked-services-description = { -brand-short-name } jo namakał druge słužby, kótarež su z wašym e-mailowym kontom zwězane.
+
+## Calendar synchronization dialog
+
