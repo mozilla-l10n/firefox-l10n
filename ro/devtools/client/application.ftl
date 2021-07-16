@@ -65,10 +65,10 @@ serviceworker-empty-suggestions = Dacă pagina actuală ar trebui să aibă un s
 serviceworker-empty-suggestions-console = Caută erori în consolă. <a>Deschide consola</a>
 # Suggestion to use the debugger to investigate why a service worker is not registered.
 # Clicking on the link will switch from the Application panel to the debugger.
-serviceworker-empty-suggestions-debugger = Execută pas cu pas înregistrarea scripturilor Service Worker și caută excepții. <a>Deschide depanatorul</a>
+serviceworker-empty-suggestions-debugger = Execută pas cu pas înregistrarea scripturilor service worker și caută excepții. <a>Deschide depanatorul</a>
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
-serviceworker-empty-suggestions-aboutdebugging = Inspectează scripturile Service Worker de pe alte domenii. <a>Deschide about:debugging</a>
+serviceworker-empty-suggestions-aboutdebugging = Inspectează scripturile service worker din alte domenii. <a>Deschide about:debugging</a>
 # Text displayed when no service workers are visible for the current page.
 serviceworker-empty-intro2 = Nu a fost găsit niciun script service worker
 # Link will open https://developer.mozilla.org/docs/Web/API/Service_Worker_API/Using_Service_Workers
