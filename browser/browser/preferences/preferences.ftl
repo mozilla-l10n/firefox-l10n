@@ -860,6 +860,7 @@ forms-master-pw-fips-desc = Ändern des Passworts fehlgeschlagen
 forms-windows-sso =
     .label = Windows Single Sign-on für Microsoft-, Geschäfts- und Schulkonten erlauben
 forms-windows-sso-learn-more-link = Weitere Informationen
+forms-windows-sso-desc = Verwalten Sie Konten in Ihren Geräteeinstellungen
 
 ## OS Authentication dialog
 
