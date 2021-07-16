@@ -14,5 +14,13 @@ openpgp-compose-key-status-open-details = Kluče za wubraneho přijimarja rjadow
 openpgp-recip-good = w porjadku
 openpgp-recip-missing = žadyn kluč k dispoziciji
 openpgp-recip-none-accepted = žadyn akceptowany kluč
+openpgp-compose-general-info-alias = { -brand-short-name } sej normalnje wužaduje, zo zjawny kluč přijimarja wužiwarski ID z přisłušnej e-mejlowej adresu wobsahuje. To da so z pomocu aliasowych prawidłow OpenPGP přijimarja přepisać.
 openpgp-compose-general-info-alias-learn-more = Dalše informacije
+openpgp-compose-alias-status-direct =
+    { $count ->
+        [one] { $count } aliasowemu klučej připokazany
+        [two] { $count } aliasowymaj klučomaj připokazany
+        [few] { $count } aliasowym klučam připokazany
+       *[other] { $count } aliasowym klučam připokazany
+    }
 openpgp-compose-alias-status-error = aliasowy kluč njewužiwajomny/k dispoziciji njeje
