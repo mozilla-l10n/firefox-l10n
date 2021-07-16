@@ -10,6 +10,7 @@ preferences-title =
             [windows] Iɣewwaṛen
            *[other] Ismenyifen
         }
+preferences-doc-title = Ismenyifen
 category-list =
     .aria-label = Taggayin
 pane-general-title = Amatu
@@ -90,6 +91,7 @@ update-in-progress-ok-button = &Anef
 update-in-progress-cancel-button = &Kemmel
 addons-button = Isiɣzaf & Isental
 account-button = Iɣewwaṛen n umiḍan
+open-addons-sidebar-button = Izegrar d yisental
 
 ## OS Authentication dialog
 
@@ -167,6 +169,9 @@ tray-icon-label =
     .accesskey = n
 biff-use-system-alert =
     .label = Seqdec alɣu n unagraw
+tray-icon-unread-label =
+    .label = Sken tignit deg ufeggag n twuriwin i yiznan ur nettwaɣra ara
+    .accesskey = t
 tray-icon-unread-description = Yettuwelleh deg useqdec n tqeffalin timeẓẓyanin n ufeggag n twuriwin
 mail-system-sound-label =
     .label = Imesli n unagraw amezwer i yimayl amaynut
