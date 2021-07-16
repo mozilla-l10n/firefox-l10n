@@ -2,14 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-head-title = Despre instrumentele de dezvoltare
-enable-title = Activează instrumentele de dezvoltare Firefox
+head-title = Despre instrumentele pentru dezvoltatori
+enable-title = Activează instrumentele pentru dezvoltatori Firefox
 enable-inspect-element-title = Activează instrumentele de dezvoltare Firefox pentru a folosi Inspectează elementul
-enable-inspect-element-message = Examinează și editează HTML și CSS cu inspectorul din uneltele de dezvoltare.
-enable-about-debugging-message = Dezvoltă și depanează WebExtensions, workeri web, service workeri și multe altele cu uneltele de dezvoltare din Firefox.
-enable-key-shortcut-message = Ai activat o comandă rapidă pentru uneltele de dezvoltare. Dacă a fost din greșeală, poți închide această filă.
+enable-inspect-element-message = Examinează și editează HTML și CSS cu inspectorul din instrumentele pentru dezvoltatori.
+enable-about-debugging-message = Dezvoltă și depanează WebExtensions, workeri web, service workeri și multe altele cu instrumentele pentru dezvoltatori din Firefox.
+enable-key-shortcut-message = Ai activat o comandă rapidă pentru instrumentele pentru dezvoltatori. Dacă a fost din greșeală, poți închide această filă.
 enable-menu-message = Perfecționează conținutul HTML, CSS și JavaScript de pe site cu unelte cum sunt inspectorul și depanatorul.
-enable-common-message = Uneltele de dezvoltare din Firefox sunt dezactivate implicit pentru a-ți da mai mult control asupra browserului.
+enable-common-message = Instrumentele pentru dezvoltatori din Firefox sunt dezactivate implicit pentru a-ți da mai mult control asupra browserului.
 enable-learn-more-link = Află mai multe despre instrumentele de dezvoltare
 enable-enable-button = Activează instrumentele de dezvoltare
 enable-close-button = Închide această filă
