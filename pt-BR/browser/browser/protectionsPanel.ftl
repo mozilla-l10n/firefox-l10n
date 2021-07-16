@@ -32,8 +32,8 @@ protections-panel-site-not-working-view =
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
 
-protections-panel-not-blocking-why-label = Por quê?
-protections-panel-not-blocking-why-etp-on-tooltip = Bloquear isso pode interferir em elementos em alguns sites. Sem rastreadores, alguns botões, formulários e campos de acesso a contas podem não funcionar.
+protections-panel-not-blocking-why-label = Motivo
+protections-panel-not-blocking-why-etp-on-tooltip = Bloquear isso pode interferir em elementos de alguns sites. Se bloquear esses rastreadores, alguns botões, formulários e campos de acesso a contas podem não funcionar.
 protections-panel-not-blocking-why-etp-off-tooltip = Todos os rastreadores deste site foram carregados porque as proteções estão desativadas.
 
 ##
