@@ -185,6 +185,14 @@ account-setup-encryption-button = Awgelhen seg yixef ɣer wayeḍ
 account-setup-dictionaries-button = Zdem n imawalen
 account-setup-button-finish = Fak
     .accesskey = F
+account-setup-address-books-button = Imedlisen n tensa
+account-setup-calendars-button = Iwitayen
+account-setup-connect-link = Qqen
+account-setup-existing-address-book = Iqqen
+    .title = Amedlis n tansiwin yeqqen yakan
+account-setup-existing-calendar = Iqqen
+    .title = Awitay yeqqen yakan
+account-setup-connect-all-calendars = Qqen meṛṛa iwitayen
 
 ## Calendar synchronization dialog
 
