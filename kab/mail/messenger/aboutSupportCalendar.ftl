@@ -12,6 +12,7 @@ calendars-table-username = Isem n useqdac
 calendars-table-uri = URI
 calendars-table-refreshinterval = Smiren azilal
 calendars-table-readonly = Taɣuri kan
+calendars-table-cache-enabled = Tettwarmed tuffirt
 calendars-table-imip-identity = Timagit iMIP
 calendars-table-imip-identity-disabled = iMIP yensa
 calendars-table-imip-identity-account = Amiḍan iMIP
