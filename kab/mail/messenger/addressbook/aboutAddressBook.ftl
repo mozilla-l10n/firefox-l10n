@@ -84,3 +84,4 @@ about-addressbook-details-email-addresses-header = Tansiwin n yimayl
 about-addressbook-details-phone-numbers-header = Uṭṭunen n tiliɣri
 about-addressbook-details-home-address-header = Tansa n uxxam
 about-addressbook-details-work-address-header = Tansa n umahil
+about-addressbook-details-other-info-header = Talɣut-nniḍen

@@ -9,6 +9,29 @@ menu-view-charset =
     .label = Asettengel n uḍris
     .accesskey = s
 
+## Tools Menu
+
+# Since v89 we dropped the platforms distinction between Options or Preferences
+# and consolidated everything with Preferences.
+menu-tools-preferences =
+    .label = Ismenyifen
+    .accesskey = I
+menu-addons-and-themes =
+    .label = Izegrar d yisental
+    .accesskey = I
+
+## Help Menu
+
+menu-help-enter-troubleshoot-mode =
+    .label = Askar n usellek…
+    .accesskey = A
+menu-help-exit-troubleshoot-mode =
+    .label = Sens askar n ferru n wuguren
+    .accesskey = S
+menu-help-more-troubleshooting-info =
+    .label = Ugar n talɣut n usellek
+    .accesskey = U
+
 ## Mail Toolbar
 
 toolbar-junk-button =
@@ -23,3 +46,24 @@ toolbar-delete-button =
 toolbar-undelete-button =
     .label = Sefsex tukksa
     .tooltiptext = Sefsex tukksa n yiznan yettwafernen
+
+## View
+
+menu-view-repair-text-encoding =
+    .label = Ṣeggem asettengel n uḍris
+    .accesskey = Ṣ
+
+## View / Layout
+
+mail-uidensity-label =
+    .label = Taneẓẓi
+    .accesskey = T
+mail-uidensity-compact =
+    .label = Ussid
+    .accesskey = U
+mail-uidensity-normal =
+    .label = Amagnu
+    .accesskey = A
+mail-uidensity-touch =
+    .label = Amennal
+    .accesskey = A
