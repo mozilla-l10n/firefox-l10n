@@ -35,9 +35,9 @@ sidebar-preferences-button-title =
             [windows] Možnosti aplikácie { -brand-short-name }
            *[other] Možnosti aplikácie { -brand-short-name }
         }
-addons-settings-button = Nastavenia { -brand-short-name(case: "gen") }
+addons-settings-button = Nastavenia { -brand-short-name }u
 sidebar-settings-button-title =
-    .title = Nastavenia { -brand-short-name(case: "gen") }
+    .title = Nastavenia { -brand-short-name }u
 show-unsigned-extensions-button =
     .label = Niektoré rozšírenia nemohli byť overené
 show-all-extensions-button =
@@ -290,7 +290,7 @@ created-by-author = Autor: <a data-l10n-name="author">{ $author }</a>
 # Variables:
 #   $dailyUsers (number) - The number of daily users.
 user-count = Počet používateľov: { $dailyUsers }
-install-extension-button = Pridať do { -brand-product-name(case: "gen") }
+install-extension-button = Pridať do { -brand-product-name }u
 install-theme-button = Nainštalovať tému vzhľadu
 # The label of the button that appears after installing an add-on. Upon click,
 # the detailed add-on view is opened, from where the add-on can be managed.
