@@ -91,8 +91,8 @@ toolbar-button-stop-reload =
 ## Firefox Account Button
 
 toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name(capitalization: "upper-indefinite-article") }
-    .tooltiptext = { -fxaccount-brand-name(capitalization: "upper-indefinite-article") }
+    .label = { -fxaccount-brand-name(case: "indefinite-article", capitalization: "upper") }
+    .tooltiptext = { -fxaccount-brand-name(case: "indefinite-article", capitalization: "upper") }
 
 ## Save Page
 
