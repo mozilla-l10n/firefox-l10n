@@ -515,7 +515,7 @@
 <!-- Developer Tools Submenu -->
 <!ENTITY devtoolsMenu.label "Unelte pentru dezvoltatori">
 <!ENTITY devtoolsMenu.accesskey "e">
-<!ENTITY devToolboxCmd.label "Cutia de unelte pentru dezvoltatori">
+<!ENTITY devToolboxCmd.label "Caseta de instrumente pentru dezvoltatori">
 <!ENTITY devToolboxCmd.accesskey "t">
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY debugAddonsCmd.label "Depanează suplimente">
@@ -719,7 +719,6 @@
 <!ENTITY locationColumn.label "Adresă">
 <!ENTITY idColumn.label "Ordinea primirii">
 <!ENTITY attachmentColumn.label "Atașamente">
-
 <!ENTITY deleteColumn.label "Șterge">
 
 <!-- Thread Pane Tooltips -->
@@ -745,7 +744,6 @@
 <!ENTITY locationColumn2.tooltip "Sortează după locație">
 <!ENTITY idColumn2.tooltip "Sortează după data primirii">
 <!ENTITY attachmentColumn2.tooltip "Sortează după atașamente">
-
 <!ENTITY deleteColumn.tooltip "Șterge un mesaj">
 
 <!-- Thread Pane Context Menu -->
