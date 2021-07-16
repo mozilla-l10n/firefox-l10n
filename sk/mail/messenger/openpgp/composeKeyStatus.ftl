@@ -12,7 +12,14 @@ openpgp-compose-key-status-status =
     .label = Stav
 openpgp-compose-key-status-open-details = Spravovať kľúče pre vybratého príjemcu…
 openpgp-recip-good = ok
-openpgp-recip-missing = žiadny kľúč nie je dostupný
-openpgp-recip-none-accepted = žiadne kľúč nebol prijatý
+openpgp-recip-missing = nie je dostupný žiadny kľúč
+openpgp-recip-none-accepted = žiadny kľúč nebol prijatý
 openpgp-compose-general-info-alias = { -brand-short-name } zvyčajne vyžaduje, aby verejný kľúč príjemcu obsahoval ID používateľa so zodpovedajúcou e-mailovou adresou. Toto je možné prepísať pomocou pravidiel aliasu príjemcu OpenPGP.
 openpgp-compose-general-info-alias-learn-more = Ďalšie informácie
+openpgp-compose-alias-status-direct =
+    { $count ->
+        [one] namapovaný na jeden kľúč typu alias
+        [few] namapovaný na { $count } kľúče typu alias
+       *[other] namapovaný na { $count } kľúčov typu alias
+    }
+openpgp-compose-alias-status-error = nepoužiteľný/nedostupný kľúč typu alias

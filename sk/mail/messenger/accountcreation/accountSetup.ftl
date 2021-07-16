@@ -243,6 +243,14 @@ account-setup-found-address-books-description =
         [few] { -brand-short-name } našiel { $count } adresáre prepojené s vašim e-mailovým účtom.
        *[other] { -brand-short-name } našiel { $count } adresárov prepojených s vašim e-mailovým účtom.
     }
+# Variables:
+# $count (Number) - The number of calendars found during autoconfig.
+account-setup-found-calendars-description =
+    { $count ->
+        [one] { -brand-short-name } našiel jeden kalendár prepojený s vašim e-mailovým účtom.
+        [few] { -brand-short-name } našiel { $count } kalendáre prepojené s vašim e-mailovým účtom.
+       *[other] { -brand-short-name } našiel { $count } kalendárov prepojených s vašim e-mailovým účtom.
+    }
 account-setup-button-finish = Dokončiť
     .accesskey = D
 account-setup-looking-up-address-books = Vyhľadávajú sa adresáre…
@@ -280,3 +288,5 @@ account-setup-calendar-read-only = Iba na čítanie
     .accesskey = b
 account-setup-calendar-show-reminders = Zobrazovať upozornenia
     .accesskey = o
+account-setup-calendar-offline-support = Podpora pre režim offline
+    .accesskey = f
