@@ -10,8 +10,6 @@ preferences-title =
             [windows] Nastajenja
            *[other] Nastajenja
         }
-preferences-tab-title =
-    .title = Nastajenja
 preferences-doc-title = Nastajenja
 category-list =
     .aria-label = Kategorije
@@ -263,6 +261,9 @@ diskspace-legend = Platowy rum
 offline-compact-folder =
     .label = Wšykne zarědniki zgusćiś, gaž wopśimuju
     .accesskey = z
+offline-compact-folder-automatically =
+    .label = Kuždy raz pśed kompriměrowanim se pšašaś
+    .accesskey = r
 compact-folder-size =
     .value = MB dogromady
 

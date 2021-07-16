@@ -14,3 +14,13 @@ openpgp-compose-key-status-open-details = Kluce za wubranego dostawarja zastoja�
 openpgp-recip-good = w pórěźe
 openpgp-recip-missing = žeden kluc k dispoziciji
 openpgp-recip-none-accepted = žeden akceptěrowany kluc
+openpgp-compose-general-info-alias = { -brand-short-name } se normalnje pomina, až zjawny kluc dostawarja wužywaŕski ID z pśisłušneju e-mailoweju adresu wopśimujo. To dajo se z pomocu aliasowych pšawidłow OpenPGP dostawarja pśepisaś.
+openpgp-compose-general-info-alias-learn-more = Dalšne informacije
+openpgp-compose-alias-status-direct =
+    { $count ->
+        [one] { $count } aliasowemu klucoju pśipokazany
+        [two] { $count } aliasowyma klucoma pśipokazany
+        [few] { $count } aliasowym klucam pśipokazany
+       *[other] { $count } aliasowym klucam pśipokazany
+    }
+openpgp-compose-alias-status-error = aliasowy kluc njejo njewužywajobny/k dispoziciji

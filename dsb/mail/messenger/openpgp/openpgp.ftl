@@ -4,6 +4,16 @@
 
 e2e-intro-description = Aby skoděrowane abo digitalnje signěrowane powěsći pósłał, musyśo koděrowańsku technologiju konfigurěrowaś, pak OpenPGP pak S/MIME.
 e2e-intro-description-more = Wubjeŕśo swój wósobinski kluc, aby wužywanje OpenPGP zmóžnił, abo wósobinski certifikat, aby wužywanje S/MIME zmóžnił. Za wósobinski kluc abo certifikat maśo wótpowědny pótajmny kluc.
+e2e-advanced-section = Rozšyrjone nastajenja
+e2e-attach-key =
+    .label = Mój zjawny kluc pśipowjesyś, gaž se digitalna signatura OpenPGP pśidawa
+    .accesskey = P
+e2e-encrypt-subject =
+    .label = Temu OpenPGP-powěsćow koděrowaś
+    .accesskey = m
+e2e-encrypt-drafts =
+    .label = Naraźeńske powěsći w skoděrowanem formaśe składowaś
+    .accesskey = r
 openpgp-key-user-id-label = Konto / Wužywaŕski ID
 openpgp-keygen-title-label =
     .title = OpenPGP-kluc napóraś
