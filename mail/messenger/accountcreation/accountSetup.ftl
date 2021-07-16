@@ -7,6 +7,7 @@ account-setup-tab-title = Nastavitev računa
 ## Header
 
 account-setup-title = Nastavite obstoječi e-poštni naslov
+account-setup-secondary-description = { -brand-product-name } bo samodejno poiskal delujoče in priporočene nastavitve za strežnik.
 account-setup-success-title = Račun uspešno ustvarjen
 account-setup-success-description = Zdaj lahko uporabljate ta račun s { -brand-short-name(sklon: "orodnik") }.
 
@@ -94,9 +95,17 @@ account-setup-step3-image =
     .title = Nastavitve najdene
 account-setup-step4-image =
     .title = Napaka v povezavi
+account-setup-privacy-footnote = Vaše poverilnice bodo uporabljene v skladu z našim <a data-l10n-name="privacy-policy-link">pravilnikom o zasebnosti</a> in bodo shranjene izključno na vašem računalniku.
+account-setup-step5-image =
+    .title = Račun ustvarjen
+account-setup-privacy-footnote2 = Vaše poverilnice bodo shranjene izključno na vašem računalniku.
 account-setup-selection-help = Ne veste, kaj izbrati?
 account-setup-selection-error = Potrebujete pomoč?
+account-setup-success-help = Niste prepričani o naslednjih korakih?
+account-setup-documentation-help = Dokumentacija za nastavitev
 account-setup-forum-help = Forum za podporo
+account-setup-privacy-help = Pravilnik o zasebnosti
+account-setup-getting-started = Prvi koraki
 
 ## Results area
 
@@ -210,6 +219,50 @@ account-setup-addon-no-protocol = Ta e-poštni strežnik žal ne podpira odprtih
 
 ## Success view
 
+account-setup-settings-button = Nastavitve računa
+account-setup-encryption-button = Šifriranje od konca do konca
+account-setup-signature-button = Dodaj podpis
+account-setup-dictionaries-button = Prenesi slovarje
+account-setup-address-book-carddav-button = Poveži z imenikom CardDAV
+account-setup-address-book-ldap-button = Poveži z imenikom LDAP
+account-setup-calendar-button = Poveži z oddaljenim koledarjem
+account-setup-button-finish = Dokončaj
+    .accesskey = D
+account-setup-looking-up-address-books = Iskanje imenikov …
+account-setup-looking-up-calendars = Iskanje koledarjev …
+account-setup-address-books-button = Imeniki
+account-setup-calendars-button = Koledarji
+account-setup-connect-link = Poveži
+account-setup-existing-address-book = Povezano
+    .title = Imenik je že povezan
+account-setup-existing-calendar = Povezano
+    .title = Koledar je že povezan
+account-setup-connect-all-calendars = Poveži vse koledarje
+account-setup-connect-all-address-books = Poveži vse imenike
 
 ## Calendar synchronization dialog
 
+calendar-dialog-title = Poveži koledar
+calendar-dialog-cancel-button = Prekliči
+    .accesskey = P
+calendar-dialog-confirm-button = Poveži
+    .accesskey = v
+account-setup-calendar-name-label = Ime
+account-setup-calendar-name-input =
+    .placeholder = Moj koledar
+account-setup-calendar-color-label = Barva
+account-setup-calendar-refresh-label = Osveži
+account-setup-calendar-refresh-manual = Ročno
+account-setup-calendar-refresh-interval =
+    { $count ->
+        [one] Vsako minuto
+        [two] Vsaki { $count } minuti
+        [few] Vsake { $count } minute
+       *[other] Vsakih { $count } minut
+    }
+account-setup-calendar-read-only = Samo za branje
+    .accesskey = b
+account-setup-calendar-show-reminders = Prikaži opomnike
+    .accesskey = o
+account-setup-calendar-offline-support = Podpora za nepovezan način
+    .accesskey = n
