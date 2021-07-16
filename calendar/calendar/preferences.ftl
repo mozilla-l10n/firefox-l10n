@@ -4,6 +4,7 @@
 
 calendar-title = Kalendaŕ
 calendar-title-reminder = Dopomnjeśa
+calendar-title-notification = Powěźeńki
 calendar-title-category = Kategorije
 dateformat-label =
     .value = Datumowy tekstowy format:
@@ -179,6 +180,7 @@ event-alarm-time-label =
 task-alarm-time-label =
     .value = Standardny dopomnjeśowy cas pśed nadawkom:
     .accesskey = r
+calendar-notifications-customize-label = Powěźeńki daju se za kuždy kalendaŕ we woknje kakosćow kalendarja pśiměriś.
 category-new-label = Nowa kategorija
 category-edit-label = Kategoriju wobźěłaś
 category-overwrite-title = Warnowanje: Dwójne mě
