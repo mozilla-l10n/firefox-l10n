@@ -165,51 +165,6 @@ page-action-remove-from-urlbar =
 page-action-remove-extension =
     .label = Тоза кардани васеъшавӣ
 
-## Page Action menu
-
-# Variables
-# $tabCount (integer) - Number of tabs selected
-page-action-send-tabs-panel =
-    .label =
-        { $tabCount ->
-            [1] Фиристодани варақа ба дастгоҳ
-           *[other] Фиристодани { $tabCount } варақа ба дастгоҳ
-        }
-page-action-send-tabs-urlbar =
-    .tooltiptext =
-        { $tabCount ->
-            [1] Фиристодани варақа ба дастгоҳ
-           *[other] Фиристодани { $tabCount } варақа ба дастгоҳ
-        }
-page-action-copy-url-panel =
-    .label = Нусха бардоштани пайванд
-page-action-copy-url-urlbar =
-    .tooltiptext = Нусха бардоштани пайванд
-page-action-email-link-panel =
-    .label = Ирсоли пайванд тавассути почта…
-page-action-email-link-urlbar =
-    .tooltiptext = Ирсоли пайванд тавассути почта…
-page-action-share-url-panel =
-    .label = Мубодила кардан
-page-action-share-url-urlbar =
-    .tooltiptext = Мубодила кардан
-page-action-share-more-panel =
-    .label = Бештар…
-page-action-send-tab-not-ready =
-    .label = Ҳамоҳангсозии дастгоҳҳо…
-# "Pin" is being used as a metaphor for expressing the fact that these tabs
-# are "pinned" to the left edge of the tabstrip. Really we just want the
-# string to express the idea that this is a lightweight and reversible
-# action that keeps your tab where you can reach it easily.
-page-action-pin-tab-panel =
-    .label = Васл кардани варақа
-page-action-pin-tab-urlbar =
-    .tooltiptext = Васл кардани варақа
-page-action-unpin-tab-panel =
-    .label = Ҷудо кардани варақа
-page-action-unpin-tab-urlbar =
-    .tooltiptext = Ҷудо кардани варақа
-
 ## Auto-hide Context Menu
 
 full-screen-autohide =
@@ -336,6 +291,7 @@ identity-https-only-info-turn-on2 = Агар шумо хоҳед, ки { -brand-
 identity-https-only-info-turn-off2 = Агар саҳифа вайроншуда ба назар расад, шумо метавонед барои аз нав бор кардани ин сомона бо истифодаи HTTP-и беэътимод реҷаи танҳо HTTPS-ро хомӯш кунед.
 identity-https-only-info-no-upgrade = Иваз кардани пайвастшавӣ аз HTTP ғайриимкон аст.
 identity-permissions-storage-access-header = Кукиҳои байнисомонавӣ
+identity-permissions-storage-access-hint = Тарафҳои зерин метавонанд кукиҳои байнисомонавӣ ва маълумоти сомонаро ҳангоми тамошокунии сомонаи ҷорӣ истифода баранд.
 identity-permissions-storage-access-learn-more = Маълумоти бештар
 identity-permissions-reload-hint = Барои татбиқ кардани тағйирот шумо бояд саҳифаро аз нав бор кунед.
 identity-permissions-empty = Шумо барои ин сомона ягон иҷозати маҳсусро таъин накардед.
@@ -463,6 +419,8 @@ urlbar-default-placeholder =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Нишониеро ҷустуҷӯ кунед ё ворид намоед
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Браузер дар зери назорати дурдаст қарор дорад
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -495,8 +453,6 @@ urlbar-placeholder-search-mode-other-tabs =
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Нишониеро тавассути { $name } ҷустуҷӯ кунед ё ворид намоед
-urlbar-remote-control-notification-anchor =
-    .tooltiptext = Браузер дар зери назорати дурдаст қарор дорад
 urlbar-permissions-granted =
     .tooltiptext = Шумо барои ин сомона иҷозатҳои иловагиро таъин кардед.
 urlbar-switch-to-tab =
