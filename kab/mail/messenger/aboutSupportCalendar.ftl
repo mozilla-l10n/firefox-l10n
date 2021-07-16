@@ -22,3 +22,5 @@ calendars-table-capabilities-privacy-supported = Addad n tbaḍnit yettusefrak
 calendars-table-capabilities-priority-supported = Timeẓlit yettusefrak
 calendars-table-capabilities-events-supported = Tadyant tettusefrak
 calendars-table-capabilities-tasks-supported = Tawuri tettusefrak
+calendars-table-capabilities-timezones-floating-supported = Akud adigan yettusefrak
+calendars-table-capabilities-timezones-utc-supported = UTC/GMT yettusefrak
