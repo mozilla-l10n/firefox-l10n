@@ -281,3 +281,16 @@ account-setup-calendar-name-input =
 account-setup-calendar-color-label = Barwa
 account-setup-calendar-refresh-label = Aktualizěrowaś
 account-setup-calendar-refresh-manual = Manuelnje
+account-setup-calendar-refresh-interval =
+    { $count ->
+        [one] Kuždu { $count } minutu
+        [two] Kuždej { $count } minuśe
+        [few] Kužde { $count } minuty
+       *[other] Kužde { $count } minutow
+    }
+account-setup-calendar-read-only = Jano cytajobny
+    .accesskey = J
+account-setup-calendar-show-reminders = Dopomnjeśa pokazaś
+    .accesskey = D
+account-setup-calendar-offline-support = Pódpěra offline
+    .accesskey = P
