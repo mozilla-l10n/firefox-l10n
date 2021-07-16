@@ -9,9 +9,20 @@
 # “Account” can be localized, “Firefox” must be treated as a brand,
 # and kept in English.
 -fxaccount-brand-name =
-    { $capitalization ->
-       *[lower-indefinite-article] cont Firefox
-        [lower-definite-article] contul Firefox
-        [upper-indefinite-article] Cont Firefox
-        [upper-definite-article] Contul Firefox
+    { $case ->
+       *[indefinite-article]
+            { $capitalization ->
+               *[lower] cont Firefox
+                [upper] Cont Firefox
+            }
+        [definite-article]
+            { $capitalization ->
+               *[lower] contul Firefox
+                [lower-and-you] contul tău Firefox
+                [upper] Contul Firefox
+            }
+        [genitive-or-dative]
+            { $capitalization ->
+               *[lower] contului Firefox
+            }
     }
