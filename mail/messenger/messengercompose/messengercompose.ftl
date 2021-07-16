@@ -135,8 +135,6 @@ move-attachment-last-panel-button =
 button-return-receipt =
     .label = Povratnica
     .tooltiptext = Zahtevaj potrdilo o prejemu za to sporočilo
-#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
-consider-bcc-notification = Prejemniki v poljih Za in Kp ({ $count }) lahko vidijo naslove drug drugega. Prejemnike lahko prikrijete tako, da uporabite polje Skp.
 
 # Addressing Area
 
@@ -184,3 +182,5 @@ many-public-recipients-ignore =
 # Variables:
 # $identity (string) - The name of the used identity, most likely an email address.
 compose-missing-identity-warning = Edinstvene identitete za naslov v polju Od ni bilo mogoče najti. Sporočilo bo poslano z uporabo trenutnega polja Od in nastavitev za identiteto { $identity }.
+encrypted-bcc-warning = Ko pošiljate šifrirano sporočilo, prejemniki skrite kopije niso popolnoma skriti. Morda jih bodo lahko prepoznali vsi prejemniki.
+encrypted-bcc-ignore-button = Razumem

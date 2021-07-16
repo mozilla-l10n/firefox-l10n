@@ -7,6 +7,7 @@ account-setup-tab-title = Nastavitev računa
 ## Header
 
 account-setup-title = Nastavite obstoječi e-poštni naslov
+account-setup-description = Za uporabo svojega trenutnega e-poštnega naslova vnesite svoje poverilnice.
 account-setup-secondary-description = { -brand-product-name } bo samodejno poiskal delujoče in priporočene nastavitve za strežnik.
 account-setup-success-title = Račun uspešno ustvarjen
 account-setup-success-description = Zdaj lahko uporabljate ta račun s { -brand-short-name(sklon: "orodnik") }.

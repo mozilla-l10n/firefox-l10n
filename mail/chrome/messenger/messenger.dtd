@@ -502,6 +502,8 @@
 <!ENTITY deleteJunk.accesskey "b">
 <!ENTITY importCmd.label "Uvozi …">
 <!ENTITY importCmd.accesskey "U">
+<!ENTITY exportCmd.label "Izvozi …">
+<!ENTITY exportCmd.accesskey "z">
 <!ENTITY clearRecentHistory.label "Počisti nedavno zgodovino …">
 <!ENTITY clearRecentHistory.accesskey "P">
 <!ENTITY accountManagerCmd2.label "Nastavitve računa">
@@ -719,7 +721,6 @@
 <!ENTITY locationColumn.label "Naslov">
 <!ENTITY idColumn.label "Vrstni red prejema">
 <!ENTITY attachmentColumn.label "Priponke">
-
 <!ENTITY deleteColumn.label "Izbriši">
 
 <!-- Thread Pane Tooltips -->
@@ -745,7 +746,6 @@
 <!ENTITY locationColumn2.tooltip "Razvrsti po mestu shranjevanja">
 <!ENTITY idColumn2.tooltip "Razvrsti po vrstnem redu prejema">
 <!ENTITY attachmentColumn2.tooltip "Razvrsti po priponkah">
-
 <!ENTITY deleteColumn.tooltip "Izbriši sporočilo">
 
 <!-- Thread Pane Context Menu -->
