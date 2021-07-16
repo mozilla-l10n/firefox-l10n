@@ -27,7 +27,7 @@ policy-DefaultDownloadDirectory = Setează directorul implicit de descărcare.
 policy-DisableAppUpdate = Împiedică actualizarea browserului.
 policy-DisableBuiltinPDFViewer = Dezactivează PDF.js, lectorul de fișiere PDF încorporat în { -brand-short-name }.
 policy-DisableDefaultBrowserAgent = Împiedică agentul implicit de browser să ia orice măsură. Aplicabil numai pentru Windows; alte platforme nu au agentul.
-policy-DisableDeveloperTools = Blochează accesul la uneltele de dezvoltare.
+policy-DisableDeveloperTools = Blochează accesul la instrumentele pentru dezvoltatori.
 policy-DisableFeedbackCommands = Dezactivează comenzile de trimis feedback în meniul de Ajutor (Trimite feedback și Raportează site-uri înșelătoare).
 policy-DisableFirefoxAccounts = Dezactivează serviciile bazate pe { -fxaccount-brand-name(case: "definite-article") }, inclusiv Sync.
 # Firefox Screenshots is the name of the feature, and should not be translated.

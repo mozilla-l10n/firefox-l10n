@@ -175,6 +175,6 @@ appmenu-customizetoolbar =
     .label = Personalizează bara de unelte…
 appmenu-taskmanager =
     .label = Manager de activități
-appmenu-developer-tools-subheader = Uneltele browserului
+appmenu-developer-tools-subheader = Instrumente pentru browser
 appmenu-developer-tools-extensions =
     .label = Extensii pentru dezvoltatori
