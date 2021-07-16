@@ -94,6 +94,8 @@ perftools-thread-dns-resolver =
     .title = V tomto vlákne sa deje preklad DNS
 perftools-thread-js-helper =
     .title = Práca na pozadí enginu JS, ako sú kompilácie mimo hlavného vlákna
+perftools-thread-task-controller =
+    .title = Vlákna súboru vlákien TaskController
 
 ##
 
