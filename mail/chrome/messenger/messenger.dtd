@@ -502,6 +502,8 @@
 <!ENTITY deleteJunk.accesskey "E">
 <!ENTITY importCmd.label "Importěrowaś…">
 <!ENTITY importCmd.accesskey "m">
+<!ENTITY exportCmd.label "">
+<!ENTITY exportCmd.accesskey "k">
 <!ENTITY clearRecentHistory.label "Aktualnu historiju lašowaś…">
 <!ENTITY clearRecentHistory.accesskey "h">
 <!ENTITY accountManagerCmd2.label "Kontowe nastajenja">
@@ -719,7 +721,6 @@
 <!ENTITY locationColumn.label "Městno">
 <!ENTITY idColumn.label "Pórěd dostaśa">
 <!ENTITY attachmentColumn.label "Pśidanki">
-
 <!ENTITY deleteColumn.label "Lašowaś">
 
 <!-- Thread Pane Tooltips -->
@@ -745,7 +746,6 @@
 <!ENTITY locationColumn2.tooltip "Pó adresy sortěrowaś">
 <!ENTITY idColumn2.tooltip "Pó pórěźe dostawanja sortěrowaś">
 <!ENTITY attachmentColumn2.tooltip "Pó pśidankach sortěrowaś">
-
 <!ENTITY deleteColumn.tooltip "Powěsć lašowaś">
 
 <!-- Thread Pane Context Menu -->
