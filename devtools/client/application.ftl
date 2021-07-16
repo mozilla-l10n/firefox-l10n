@@ -42,7 +42,7 @@ serviceworker-worker-start3 = Pornește
 # display the last update time of the service worker script.
 serviceworker-worker-updated = Actualizat <time>{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>
 # Text displayed next to the URL for the source of the service worker (e-g. "Source my/path/to/worker-js")
-serviceworker-worker-source = Sursa
+serviceworker-worker-source = Sursă
 # Text displayed next to the current status of the service worker.
 serviceworker-worker-status = Stare
 
@@ -106,7 +106,7 @@ manifest-loaded-ok = Manifest încărcat.
 manifest-loaded-error = A apărut o eroare la încărcarea manifestului:
 # Text displayed as an error when there has been a Firefox DevTools error while
 # trying to load the manifest
-manifest-loaded-devtools-error = Eroare Firefox DevTools
+manifest-loaded-devtools-error = Eroare privind DevTools Firefox
 # Text displayed when the page has no manifest available
 manifest-non-existing = Nu s-a găsit niciun manifest de inspectat.
 # Text displayed when the page has a manifest embedded in a Data URL and

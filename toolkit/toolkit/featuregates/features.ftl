@@ -29,13 +29,13 @@ experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
 experimental-features-css-constructable-stylesheets-description = Adiția unui constructor la interfața <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a>, precum și varietatea de modificări aferente face posibilă crearea directă a unor fișe de stiluri noi fără a mai fi necesară adăugarea lor în HTML. Aceasta ușurează foarte mult crearea de fișe de stiluri reutilizabile de folosit cu <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. Vezi <a data-l10n-name="bugzilla">bug 1520690</a> pentru mai multe detalii.
 experimental-features-devtools-color-scheme-simulation =
-    .label = Unelte de dezvoltare: Simularea paletei de culori
+    .label = Instrumente pentru dezvoltatori: Simularea paletei de culori
 experimental-features-devtools-color-scheme-simulation-description = Adaugă o opțiune pentru a simula diferite palete de culori, permițând testarea interogărilor multimedia cu <a data-l10n-name="mdn-preferscolorscheme">@prefers-color-scheme</a>. Utilizarea acestei interogări de medii permite fișei de stiluri să răspundă dacă utilizatorul preferă o interfață luminoasă sau întunecată. Această funcționalitate permite testarea de coduri fără nevoia de a schimba setările din browser (sau sistemul de operare dacă browserul urmează o setare a schemei de culori aplicată la nivelul întregului sistem). Vezi <a data-l10n-name="bugzilla1">bug 1550804</a> și <a data-l10n-name="bugzilla2">bug 1137699</a> pentru mai multe detalii.
 experimental-features-devtools-execution-context-selector =
-    .label = Unelte de dezvoltare: Selector pentru contextul de execuție
+    .label = Instrumente pentru dezvoltatori: Selector pentru contextul de execuție
 experimental-features-devtools-execution-context-selector-description = Această funcționalitate afișează un buton pe linia de comandă a consolei, care îți permite să schimbi contextul în care să fie executată expresia introdusă. Vezi <a data-l10n-name="bugzilla1">bug 1605154</a> și <a data-l10n-name="bugzilla2">bug 1605153</a> pentru mai multe detalii.
 experimental-features-devtools-compatibility-panel =
-    .label = Unelte de dezvoltare: Panou de compatibilitate
+    .label = Instrumente pentru dezvoltatori: Panou de compatibilitate
 experimental-features-devtools-compatibility-panel-description = Un panou lateral pentru inspectorul de pagini care îți afișează informații detaliate despre starea compatibilității aplicației tale cu mai multe browsere. Vezi <a data-l10n-name="bugzilla">bug 1584464</a> pentru mai multe detalii.
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
@@ -57,6 +57,6 @@ experimental-features-cookie-samesite-schemeful =
 experimental-features-cookie-samesite-schemeful-description = Tratează cookie-urile din același domeniu, dar cu scheme diferite (de ex., http://example.com și https://example.com) drept inter-site și nu ca același site. Îmbunătățește securitatea, dar cu potențial de defecțiuni.
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
-    .label = Unelte de dezvoltare: Depanarea scripturilor service worker
+    .label = Instrumente pentru dezvoltatori: Depanarea scripturilor service worker
 # "Service Worker" is an API name and is usually not translated.
-experimental-features-devtools-serviceworker-debugger-support-description = Activează un suport experimental pentru scripturi service worker în panoul Depanatorului. Această funcționalitate poate încetini Uneltele de dezvoltare și poate crește consumul de memorie.
+experimental-features-devtools-serviceworker-debugger-support-description = Activează un suport experimental pentru scripturi service worker în panoul Depanatorului. Această funcționalitate poate încetini Instrumentele pentru dezvoltatori și poate crește consumul de memorie.
