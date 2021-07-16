@@ -865,6 +865,10 @@ forms-primary-pw-change =
 forms-primary-pw-former-name = { "" }
 forms-primary-pw-fips-title = Sćo tuchylu we FIPS-modusu. FIPS pomina se głowne gronidło.
 forms-master-pw-fips-desc = Změnjanje gronidła njejo se raźiło
+forms-windows-sso =
+    .label = Jadnotne pśizjawjenje za konta Microsoft, źěłowe konta a šulske konta zmóžniś
+forms-windows-sso-learn-more-link = Dalšne informacije
+forms-windows-sso-desc = Konta we wašych rědowych nastajenjach zastojaś
 
 ## OS Authentication dialog
 

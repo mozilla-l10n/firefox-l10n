@@ -388,6 +388,7 @@ fission-status-disabled-by-default = Pó standarźe znjemóžnjony
 fission-status-enabled-by-user-pref = Wót wužywarja zmóžnjony
 fission-status-disabled-by-user-pref = Wót wužywarja znjezmóžnjony
 fission-status-disabled-by-e10s-other = E10s znjemóžnjony
+fission-status-enabled-by-rollout = Za dodaśe pó fazach zmóžnjony
 async-pan-zoom = Asynchrone pśesuwanje/skalěrowanje
 apz-none = žeden
 wheel-enabled = zapódaśe z kólaskom zmóžnjone
