@@ -102,14 +102,16 @@ account-setup-step3-image =
     .title = Konfigurácia bola nájdená
 account-setup-step4-image =
     .title = Chyba pripojenia
+account-setup-privacy-footnote = Vaše prihlasovacie údaje budú použité v súlade s našimi <a data-l10n-name="privacy-policy-link">pravidlami ochrany osobných údajov</a> a budú uložené iba lokálne vo vašom počítači.
 account-setup-step5-image =
     .title = Účet bol vytvorený
-account-setup-privacy-footnote = Vaše prihlasovacie údaje budú použité v súlade s našimi <a data-l10n-name="privacy-policy-link">pravidlami ochrany osobných údajov</a> a budú uložené iba lokálne vo vašom počítači.
+account-setup-privacy-footnote2 = Vaše prihlasovacie údaje budú uložené iba lokálne vo vašom počítači.
 account-setup-selection-help = Neviete, čo zvoliť?
 account-setup-selection-error = Potrebujete pomoc?
 account-setup-success-help = Nie ste si istí ďalšími krokmi?
 account-setup-documentation-help = Dokumentácia k nastaveniu
 account-setup-forum-help = Fórum podpory
+account-setup-privacy-help = Zásady ochrany súkromia
 account-setup-getting-started = Začíname
 
 ## Results area

@@ -10,8 +10,6 @@ preferences-title =
             [windows] Možnosti
            *[other] Možnosti
         }
-preferences-tab-title =
-    .title = Nastavenia
 preferences-doc-title = Nastavenia
 category-list =
     .aria-label = Kategórie
@@ -263,6 +261,9 @@ diskspace-legend = Miesto na disku
 offline-compact-folder =
     .label = Vykonať údržbu všetkých priečinkov, ak sa celkovo ušetrí aspoň
     .accesskey = V
+offline-compact-folder-automatically =
+    .label = Pred vykonaním údržby sa vždy opýtať
+    .accesskey = r
 compact-folder-size =
     .value = MB
 
