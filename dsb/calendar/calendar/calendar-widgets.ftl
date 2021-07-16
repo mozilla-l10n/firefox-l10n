@@ -4,3 +4,6 @@
 
 calendar-deactivated-notification-events = Wšykne kalendarje su tuchylu znjemóžnjone. Zmóžniśo eksistěrujucy kalendaŕ abo pśidajśo nowy, aby tšojenja napórał a wobźěłał.
 calendar-deactivated-notification-tasks = Wšykne kalendarje su tuchylu znjemóžnjone. Zmóžniśo eksistěrujucy kalendaŕ abo pśidajśo nowy, aby nadawki napórał a wobźěłał.
+calendar-notifications-label = Powěźeńki za pśichodne tšojenja pokazaś
+calendar-add-notification-button =
+    .label = Powěźeńku pśidaś
