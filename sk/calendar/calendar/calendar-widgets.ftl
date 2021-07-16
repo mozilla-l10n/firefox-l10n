@@ -4,3 +4,6 @@
 
 calendar-deactivated-notification-events = Všetky kalendáre sú v súčasnosti zakázané. Pre pridanie alebo úpravu udalostí povoľte existujúci kalendár alebo pridajte nový.
 calendar-deactivated-notification-tasks = Všetky kalendáre sú v súčasnosti zakázané. Pre pridanie alebo úpravu úloh povoľte existujúci kalendár alebo pridajte nový.
+calendar-notifications-label = Zobrazovať upozornenia na nadchádzajúce udalosti
+calendar-add-notification-button =
+    .label = Pridať upozornenie

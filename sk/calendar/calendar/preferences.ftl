@@ -4,6 +4,7 @@
 
 calendar-title = Kalendár
 calendar-title-reminder = Pripomienky
+calendar-title-notification = Upozornenia
 calendar-title-category = Kategórie
 dateformat-label =
     .value = Textový formát dátumu:
@@ -179,6 +180,7 @@ event-alarm-time-label =
 task-alarm-time-label =
     .value = Čas upozornenia pred úlohou:
     .accesskey = o
+calendar-notifications-customize-label = Upozornenia je možné prispôsobiť pre každý kalendár zvlášť v jeho okne Vlastnosti.
 category-new-label = Nová kategória
 category-edit-label = Upraviť kategóriu
 category-overwrite-title = Upozornenie: Duplicitný názov
