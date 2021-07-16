@@ -46,12 +46,49 @@ account-setup-exchange-info-icon =
 
 account-setup-button-cancel = Sefsex
     .accesskey = e
+account-setup-button-manual-config = Sbadu s ufus
+    .accesskey = u
+account-setup-button-stop = Seḥbes
+    .accesskey = S
+account-setup-button-retest = Ales awennez
+    .accesskey = a
+account-setup-button-continue = Kemmel
+    .accesskey = K
+account-setup-button-done = Yemmed
+    .accesskey = Y
 
 ## Notifications
 
+account-setup-looking-up-settings = Anadi n twila…
+account-setup-looking-up-settings-guess = Anadi n twila: Aɛraḍ n yesmawen n iqaddacen yettwasnen…
+account-setup-looking-up-settings-half-manual = Anada n twila: Iqeddacen n useɣbel…
+account-setup-looking-up-disk = Anadi n twila: { -brand-short-name } Asebded…
+account-setup-looking-up-isp = Anadi n twila: Asaǧǧaw n yimayl…
+# Note: Do not translate or replace Mozilla. It stands for the public project mozilla.org, not Mozilla Corporation. The database is a generic, public domain facility usable by any client.
+account-setup-looking-up-db = Anadi n twila: Taffa n isefka n Mozilla ISP…
+account-setup-looking-up-mx = Anadi n twila : taqult n tirawt tukcimt…
+account-setup-looking-up-exchange = Anadi n twila: Aqeddac Exchange…
+account-setup-checking-password = Asenqed n wawal uffir…
+account-setup-installing-addon = Azdam akked usbeddi n uzegrir…
+account-setup-success-half-manual = Iɣewwaṛen-agi ttwafen deg usenqed n uqeddac d-ittunefken:
+account-setup-success-guess = Tawila tettwaf deg uɛraḍ n yesmawen n uqeddac yettwasnen.
+account-setup-success-guess-offline = Ur teqqineḍ ara. Ahat ɣef kra n iɣewwaṛen acu kan tesriḍ ad tessekecmed iɣewwaṛen iwatan.
+account-setup-success-password = Awal uffir IH
+account-setup-success-addon = Azegrir ibedd akken iwata
+# Note: Do not translate or replace Mozilla. It stands for the public project mozilla.org, not Mozilla Corporation. The database is a generic, public domain facility usable by any client.
+account-setup-success-settings-db = Tettwaf twila di taffa n isefka Mozilla ISP.
+account-setup-success-settings-isp = Tettwaf twila deg usaǧǧaw n tirawt.
+# Note: Microsoft Exchange is a product name.
+account-setup-success-settings-exchange = Tawila tettwaf i uqeddac Microsoft Exchange.
 
 ## Illustrations
 
+account-setup-step2-image =
+    .title = Asali…
+account-setup-step3-image =
+    .title = Tawila yettwafen
+account-setup-step4-image =
+    .title = Tuccḍa deg tuqqna
 
 ## Results area
 
