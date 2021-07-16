@@ -44,3 +44,4 @@ perftools-thread-renderer =
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
 ## preferences are true.
 
+perftools-onboarding-message = <b>Nou</b>: { -profiler-brand-name } este acum integrat în instrumentele pentru dezvoltatori. <a>Află mai multe</a> despre această nouă unealtă puternică.

@@ -222,6 +222,7 @@ search-one-offs-history =
 ## Bookmark Panel
 
 bookmarks-add-bookmark = Adaugă un marcaj
+bookmarks-edit-bookmark = Editează marcajul
 bookmark-panel-cancel =
     .label = Renunță
     .accesskey = C
