@@ -96,6 +96,8 @@ perftools-thread-dns-resolver =
     .title = Na toś tej nitce se DNS-rozeznaśe stawa
 perftools-thread-js-helper =
     .title = Slězynowe źěło JS-pógónjenje ako na pś. kompilěrowanja zwenka głowneje nitki
+perftools-thread-task-controller =
+    .title = Nitki nitkowego poola TaskController
 
 ##
 
@@ -107,7 +109,6 @@ perftools-tools-threads-input-label =
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
 ## preferences are true.
 
--profiler-brand-name = Firefox Profiler
 perftools-onboarding-message = <b>Nowy</b>: { -profiler-brand-name } jo něnto we wuwijaŕskich rědach integrěrowany. <a>Dalšne informacije</a> wó toś tom mócnem nowem rěźe.
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (Za wobgranicowany cas móžośo pśez <a>{ options-context-advanced-settings }</a> pśistup k woknoju Wugbaśe měś.
