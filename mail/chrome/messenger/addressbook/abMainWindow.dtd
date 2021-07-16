@@ -48,7 +48,9 @@
 <!ENTITY editMenu.accesskey                             "n">
 <!ENTITY deleteCmd.label                                "Supprimer">
 <!ENTITY deleteAbCmd.label                              "Supprimer le carnet d’adresses">
+<!ENTITY deleteAbCmd.accesskey                          "S">
 <!ENTITY removeAbCmd.label                              "Supprimer le carnet d’adresses">
+<!ENTITY removeAbCmd.accesskey                          "s">
 <!ENTITY deleteContactCmd.label                         "Supprimer le contact">
 <!ENTITY deleteContactsCmd.label                        "Supprimer les contacts">
 <!ENTITY deleteListCmd.label                            "Supprimer la liste">
