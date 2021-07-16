@@ -29,7 +29,7 @@ options-context-inspector = Inspector
 # The label for the checkbox option to show user agent styles
 options-show-user-agent-styles-label = Afișează stilurile browserului
 options-show-user-agent-styles-tooltip =
-    .title = Activarea va afișa stilurile implicite încărcate de browser.
+    .title = Pornirea acestei opțiuni va afișa stilurile implicite care sunt încărcate de browser.
 # The label for the checkbox option to enable collapse attributes
 options-collapse-attrs-label = Trunchiază atributele DOM
 options-collapse-attrs-tooltip =
@@ -90,11 +90,11 @@ options-context-advanced-settings = Setări avansate
 # The label for the checkbox that toggles the HTTP cache on or off
 options-disable-http-cache-label = Dezactivează cache-ul HTTP (când este deschisă caseta de instrumente)
 options-disable-http-cache-tooltip =
-    .title = Pornirea opțiunii va dezactiva cache-ul HTTP pentru toate filele care au deschisă caseta de instrumente. Scripturile Service Worker nu sunt afectate.
+    .title = Pornirea acestei opțiuni va dezactiva cache-ul HTTP pentru toate filele care au deschisă caseta de instrumente. Scripturile service worker nu sunt afectate.
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = Dezactivează JavaScript *
 options-disable-javascript-tooltip =
-    .title = Activarea opțiunii va dezactiva JavaScript pentru fila actuală. Setarea va fi uitată la închiderea filei sau a cutiei de unelte.
+    .title = Pornirea acestei opțiuni va dezactiva JavaScript pentru fila actuală. Setarea va fi uitată la închiderea filei sau a casetei de instrumente.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
 options-enable-chrome-label = Activează cutiile de unelte pentru depanare din chrome și suplimente
 options-enable-chrome-tooltip =
@@ -102,11 +102,11 @@ options-enable-chrome-tooltip =
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = Activează depanarea la distanță
 options-enable-remote-tooltip2 =
-    .title = Activarea acestei opțiuni va permite depanarea la distanță a acestei instanțe a browserului
+    .title = Pornirea acestei opțiuni va permite depanarea la distanță a acestei instanțe a browserului
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = Activează scripturile Service Worker prin HTTP (când este deschisă caseta de instrumente)
 options-enable-service-workers-http-tooltip =
-    .title = Activarea opțiunii va permite trecerea scripturilor service worker prin HTTP pentru toate filele care au caseta de unelte deschisă.
+    .title = Pornirea acestei opțiuni va permite trecerea scripturilor service worker prin HTTP pentru toate filele care au caseta de unelte deschisă.
 # The label for the checkbox that toggles source maps in all tools.
 options-source-maps-label = Activează hărțile pentru surse
 options-source-maps-tooltip =
