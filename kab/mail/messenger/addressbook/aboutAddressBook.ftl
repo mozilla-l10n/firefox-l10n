@@ -35,6 +35,9 @@ about-addressbook-books-context-delete =
 about-addressbook-books-context-remove =
     .label = Kkes
 about-addressbook-confirm-delete-book-title = Kkes imedlis n tensa
+# Variables:
+# $name (String) - Name of the address book to be deleted.
+about-addressbook-confirm-delete-book = D tidet tebɣiḍ ad tekkseḍ { $name } akked meṛṛa inermisen-ines?
 about-addressbook-confirm-remove-remote-book-title = Kkes imedlis n tensiwin
 # Variables:
 # $name (String) - Name of the remote address book to be removed.
@@ -46,19 +49,42 @@ about-addressbook-confirm-remove-remote-book = D tidet tebɣiḍ ad tekkseḍ { 
 # $name (String) - Name of the address book that will be searched.
 about-addressbook-search =
     .placeholder = Nadi { $name }
+about-addressbook-search-all =
+    .placeholder = Nadi akk imedlisen n tansiwin
+about-addressbook-sort-button =
+    .title = Snifel amyizwer n tebdart
 about-addressbook-name-format-display =
     .label = Isem n uskan
 about-addressbook-name-format-firstlast =
     .label = Aneggaru d amezwaru
 about-addressbook-name-format-lastfirst =
     .label = Aneggaru, amezwaru
+about-addressbook-sort-name-ascending =
+    .label = Smizwer s yisem (A > Z)
+about-addressbook-sort-name-descending =
+    .label = Smizwer s yisem (Z > A)
+about-addressbook-sort-email-ascending =
+    .label = Smizwer s tansa n yimayl (A > Z)
+about-addressbook-sort-email-descending =
+    .label = Smizwer s tansa n yimayl (Z > A)
 about-addressbook-confirm-delete-mixed-title = Kkes inermisen akked tebdarin
+# Variables:
+# $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
+about-addressbook-confirm-delete-mixed = D tidet tebɣiḍ ad tekkseḍ { $count } n yinermisen-a akked tebdarin?
 # Variables:
 # $count (Number) - The number of lists to be deleted.
 about-addressbook-confirm-delete-lists-title =
     { $count ->
         [one] Kkes tabdart
        *[other] Kkes tibdarin
+    }
+# Variables:
+# $count (Number) - The number of lists to be deleted.
+# $name (String) - The name of the list to be deleted, if $count is 1.
+about-addressbook-confirm-delete-lists =
+    { $count ->
+        [one] D tidet tebɣiḍ ad tekkseḍ tabdart { $name }?
+       *[other] D tidet tebɣiḍ ad tekkseḍ { $name }-a n tebdarin ?
     }
 # Variables:
 # $count (Number) - The number of contacts to be removed.
@@ -68,11 +94,28 @@ about-addressbook-confirm-remove-contacts-title =
        *[other] Kkes inermisen
     }
 # Variables:
+# $count (Number) - The number of contacts to be removed.
+# $name (String) - The name of the contact to be removed, if $count is 1.
+# $list (String) - The name of the list that contacts will be removed from.
+about-addressbook-confirm-remove-contacts =
+    { $count ->
+        [one] D tidet tebɣiḍ ad tekkseḍ { $name } seg { $list }?
+       *[other] D tidet tebɣiḍ ad tekkseḍ { $count }-a n yinermisen-a seg { $list }?
+    }
+# Variables:
 # $count (Number) - The number of contacts to be deleted.
 about-addressbook-confirm-delete-contacts-title =
     { $count ->
         [one] Kkes anermis
        *[other] Kkes inermisen
+    }
+# Variables:
+# $count (Number) - The number of contacts to be deleted.
+# $name (String) - The name of the contact to be deleted, if $count is 1.
+about-addressbook-confirm-delete-contacts =
+    { $count ->
+        [one] D tidet tebɣiḍ ad tekkseḍ anermis -a{ $name }?
+       *[other] D tidet tebɣiḍ ad tekkseḍ { $name }-a n tebdarin ?
     }
 
 ## Details
