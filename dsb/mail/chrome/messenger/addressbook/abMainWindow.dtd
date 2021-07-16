@@ -48,7 +48,9 @@
 <!ENTITY editMenu.accesskey                             "b">
 <!ENTITY deleteCmd.label                                "Lašowaś">
 <!ENTITY deleteAbCmd.label                              "Adresnik lašowaś">
+<!ENTITY deleteAbCmd.accesskey                          "l">
 <!ENTITY removeAbCmd.label                              "Adresnik wótwónoźeś">
+<!ENTITY removeAbCmd.accesskey                          "n">
 <!ENTITY deleteContactCmd.label                         "Kontakt lašowaś">
 <!ENTITY deleteContactsCmd.label                        "Kontakty lašowaś">
 <!ENTITY deleteListCmd.label                            "Lisćinu lašowaś">
