@@ -107,9 +107,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY messengerCmd.commandkey                        "1">
 <!ENTITY searchAddressesCmd.label                       "Hľadať adresy…">
 <!ENTITY searchAddressesCmd.accesskey                   "H">
-<!ENTITY importCmd.label                                "Import…">
+<!ENTITY importCmd.label                                "Importovať…">
 <!ENTITY importCmd.accesskey                            "I">
-<!ENTITY exportCmd.label                                "Export…">
+<!ENTITY exportCmd.label                                "Exportovať…">
 <!ENTITY exportCmd.accesskey                            "E">
 <!ENTITY preferencesCmd2.label                          "Možnosti">
 <!ENTITY preferencesCmd2.accesskey                      "M">

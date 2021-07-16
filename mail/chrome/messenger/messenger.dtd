@@ -500,8 +500,10 @@
 <!ENTITY runJunkControls.accesskey "u">
 <!ENTITY deleteJunk.label "Odstrániť z priečinka správy označené ako nevyžiadané (Spam)">
 <!ENTITY deleteJunk.accesskey "O">
-<!ENTITY importCmd.label "Import…">
+<!ENTITY importCmd.label "Importovať…">
 <!ENTITY importCmd.accesskey "r">
+<!ENTITY exportCmd.label "Exportovať…">
+<!ENTITY exportCmd.accesskey "x">
 <!ENTITY clearRecentHistory.label "Vymazať históriu…">
 <!ENTITY clearRecentHistory.accesskey "h">
 <!ENTITY accountManagerCmd2.label "Nastavenie účtov">
