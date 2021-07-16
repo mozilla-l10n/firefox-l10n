@@ -235,6 +235,7 @@ account-setup-address-book-ldap-button = Z LDAP-adresnikom zwězaś
 account-setup-calendar-button = Ze zdalonym kalendarjom zwězaś
 account-setup-linked-services-title = Zwěžćo swóje zwězane słužby
 account-setup-linked-services-description = { -brand-short-name } jo namakał druge słužby, kótarež su z wašym e-mailowym kontom zwězane.
+account-setup-no-linked-description = Konfigurěrujśo swóje słužby, aby nejwěcej ze swójogo dožywjenja { -brand-short-name } wuwónoźeł.
 
 ## Calendar synchronization dialog
 
