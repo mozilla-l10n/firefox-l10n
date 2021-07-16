@@ -233,6 +233,16 @@ account-setup-address-book-carddav-button = Pripojiť sa k adresáru typu CardDA
 account-setup-address-book-ldap-button = Pripojiť sa k adresáru LDAP
 account-setup-calendar-button = Pripojiť sa k vzdialenému kalendáru
 account-setup-linked-services-title = Pripojiť prepojené služby
+account-setup-linked-services-description = { -brand-short-name } našiel ďalšie služby spojené s vaším e-mailovým účtom.
+account-setup-no-linked-description = Nastavte si ďalšie služby, aby ste zo svojho e-mailového klienta { -brand-short-name } vyťažili maximum.
+# Variables:
+# $count (Number) - The number of address books found during autoconfig.
+account-setup-found-address-books-description =
+    { $count ->
+        [one] { -brand-short-name } našiel jeden adresár prepojený s vašim e-mailovým účtom.
+        [few] { -brand-short-name } našiel { $count } adresáre prepojené s vašim e-mailovým účtom.
+       *[other] { -brand-short-name } našiel { $count } adresárov prepojených s vašim e-mailovým účtom.
+    }
 account-setup-button-finish = Dokončiť
     .accesskey = D
 account-setup-looking-up-address-books = Vyhľadávajú sa adresáre…

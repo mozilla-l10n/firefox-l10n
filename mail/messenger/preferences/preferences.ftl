@@ -90,7 +90,7 @@ update-in-progress-ok-button = &Zrušiť
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Pokračovať
 addons-button = Rozšírenia a témy vzhľadu
-account-button = Nastavenia účtu
+account-button = Nastavenia účtov
 open-addons-sidebar-button = Doplnky a témy
 
 ## OS Authentication dialog
