@@ -92,6 +92,7 @@ account-setup-step4-image =
 account-setup-selection-help = Ur tetḥiqqeḍ ara acu ara tferneḍ?
 account-setup-selection-error = Tesriḍ tallalt?
 account-setup-success-help = Ur tetḥiqeḍ ara ɣef yimecwaṛen-ik·im uḍfiren?
+account-setup-forum-help = Askasi n tallalt
 account-setup-privacy-help = Tasertit n tbaḍnit
 account-setup-getting-started = Bdu
 
