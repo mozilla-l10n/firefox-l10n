@@ -241,7 +241,7 @@ account-setup-no-linked-description = Konfigurujće swoje słužby, zo byšće n
 account-setup-found-address-books-description =
     { $count ->
         [one] { -brand-short-name } je { $count } adresnik namakał, kotryž je z wašim e-mejlowym kontom zwjazany.
-        [two] { -brand-short-name } je { $count } adresnika namakał, kotrejž stej z wašim e-mejlowym kontom zwjazanej.
+        [two] { -brand-short-name } je { $count } adresnikaj namakał, kotrejž stej z wašim e-mejlowym kontom zwjazanej.
         [few] { -brand-short-name } je { $count } adresniki namakał, kotrež su z wašim e-mejlowym kontom zwjazane.
        *[other] { -brand-short-name } je { $count } adresnikow namakał, kotrež su z wašim e-mejlowym kontom zwjazane.
     }
