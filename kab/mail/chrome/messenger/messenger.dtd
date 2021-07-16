@@ -502,6 +502,8 @@
 <!ENTITY deleteJunk.accesskey "K">
 <!ENTITY importCmd.label "Kter…">
 <!ENTITY importCmd.accesskey "r">
+<!ENTITY exportCmd.label "Kter…">
+<!ENTITY exportCmd.accesskey "x">
 <!ENTITY clearRecentHistory.label "Sfeḍ amazray aneggaru…">
 <!ENTITY clearRecentHistory.accesskey "m">
 <!ENTITY accountManagerCmd2.label "Amiḍan d iɣewwaṛen">
@@ -719,7 +721,6 @@
 <!ENTITY locationColumn.label "Tansa">
 <!ENTITY idColumn.label "Taladna tettwarmes">
 <!ENTITY attachmentColumn.label "Ticeqqufin yeddan">
-
 <!ENTITY deleteColumn.label "Kkes">
 
 <!-- Thread Pane Tooltips -->
@@ -745,7 +746,6 @@
 <!ENTITY locationColumn2.tooltip "Asmizzwer s wadig">
 <!ENTITY idColumn2.tooltip "Asmizzwer s wazemz n urmas">
 <!ENTITY attachmentColumn2.tooltip "Asmizzer s tceqqufin yeddan">
-
 <!ENTITY deleteColumn.tooltip "Kkes izen">
 
 <!-- Thread Pane Context Menu -->

@@ -48,6 +48,7 @@
 <!ENTITY editMenu.accesskey                             "Ẓ">
 <!ENTITY deleteCmd.label                                "Kkes">
 <!ENTITY deleteAbCmd.label                              "Kkes imedlis n tensa">
+<!ENTITY removeAbCmd.label                              "Kkes imedlis n tensiwin">
 <!ENTITY deleteContactCmd.label                         "Kkes anermis">
 <!ENTITY deleteContactsCmd.label                        "Kkes inermisen">
 <!ENTITY deleteListCmd.label                            "Kkes tabdart">
@@ -140,6 +141,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.label                            "Kkes">
 <!ENTITY deleteButton2.accesskey                        "K">
 
+
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY columnChooser.tooltip                          "Fren tigejda ad-sekneḍ">
 <!ENTITY newContactButton.tooltip                       "Rnu anermis n imedlis n tensa">
@@ -151,6 +153,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.tooltip                           "Azen izen imayl">
 <!ENTITY newIM.tooltip                                  "Azen izen askudan neɣ n uqesseṛ">
 <!ENTITY deleteButton2.tooltip                          "Kkes aferdis ifernen">
+
+<!ENTITY removeButton.tooltip                           "Kkes amedlis n tansiwin yettwafernen">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Isem neɣ Imayl">
