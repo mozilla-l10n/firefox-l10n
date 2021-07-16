@@ -100,14 +100,16 @@ account-setup-step3-image =
     .title = Configuration trouvée
 account-setup-step4-image =
     .title = Erreur de connexion
+account-setup-privacy-footnote = Vos identifiants seront utilisés conformément à notre <a data-l10n-name="privacy-policy-link">politique de confidentialité</a> et ne seront stockés que localement sur votre ordinateur.
 account-setup-step5-image =
     .title = Compte créé
-account-setup-privacy-footnote = Vos identifiants seront utilisés conformément à notre <a data-l10n-name="privacy-policy-link">politique de confidentialité</a> et ne seront stockés que localement sur votre ordinateur.
+account-setup-privacy-footnote2 = Vos informations d’identification ne sont conservées que localement, sur votre ordinateur.
 account-setup-selection-help = Vous ne savez pas quoi sélectionner ?
 account-setup-selection-error = Besoin d’aide ?
 account-setup-success-help = Vous hésitez sur les prochaines étapes ?
 account-setup-documentation-help = Documentation d’installation
 account-setup-forum-help = Forum d’assistance
+account-setup-privacy-help = Politique de confidentialité
 account-setup-getting-started = Pour commencer
 
 ## Results area

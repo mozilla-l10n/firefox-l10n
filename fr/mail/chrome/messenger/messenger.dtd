@@ -502,6 +502,8 @@
 <!ENTITY deleteJunk.accesskey "e">
 <!ENTITY importCmd.label "Importer…">
 <!ENTITY importCmd.accesskey "I">
+<!ENTITY exportCmd.label "Exporter…">
+<!ENTITY exportCmd.accesskey "x">
 <!ENTITY clearRecentHistory.label "Supprimer l’historique récent…">
 <!ENTITY clearRecentHistory.accesskey "h">
 <!ENTITY accountManagerCmd2.label "Paramètres des comptes">
@@ -719,7 +721,6 @@
 <!ENTITY locationColumn.label "Emplacement">
 <!ENTITY idColumn.label "Ordre de réception">
 <!ENTITY attachmentColumn.label "Pièces jointes">
-
 <!ENTITY deleteColumn.label "Supprimer">
 
 <!-- Thread Pane Tooltips -->
@@ -745,7 +746,6 @@
 <!ENTITY locationColumn2.tooltip "Trier par adresse">
 <!ENTITY idColumn2.tooltip "Trier par ordre de réception">
 <!ENTITY attachmentColumn2.tooltip "Trier par pièces jointes">
-
 <!ENTITY deleteColumn.tooltip "Supprimer un message">
 
 <!-- Thread Pane Context Menu -->
