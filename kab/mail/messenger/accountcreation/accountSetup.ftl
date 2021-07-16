@@ -89,36 +89,102 @@ account-setup-step3-image =
     .title = Tawila yettwafen
 account-setup-step4-image =
     .title = Tuccḍa deg tuqqna
+account-setup-selection-help = Ur tetḥiqqeḍ ara acu ara tferneḍ?
+account-setup-selection-error = Tesriḍ tallalt?
+account-setup-success-help = Ur tetḥiqeḍ ara ɣef yimecwaṛen-ik·im uḍfiren?
+account-setup-privacy-help = Tasertit n tbaḍnit
+account-setup-getting-started = Bdu
 
 ## Results area
 
+# Note: IMAP is the name of a protocol.
+account-setup-result-imap = IMAP
+# Note: POP3 is the name of a protocol.
+account-setup-result-pop = POP3
+# Note: Exchange is the name of a product.
+account-setup-result-exchange = Exchange
+account-setup-result-exchange-description = Qqen ɣer uqeddac n Microsoft Exchange
+account-setup-incoming-title = Ad d-iteddu
+account-setup-outgoing-title = Ad yeffeɣ
+account-setup-username-title = Isem n useqdac
+account-setup-exchange-title = Aqeddac
+account-setup-result-smtp = SMTP
+account-setup-result-no-encryption = Ulac awgelhen
+account-setup-result-ssl = SSL/TLS
+account-setup-result-starttls = STARTTLS
+account-setup-result-outgoing-existing = Aqeddac SMTP yellan
 
 ## Error messages
 
+# Note: The reference to "janedoe" (Jane Doe) is the name of an example person. You will want to translate it to whatever example persons would be named in your language. In the example, AD is the name of the Windows domain, and this should usually not be translated.
+account-setup-credentials-incomplete = Asesteb ur iddi ara. Isem n useqdac d wawal uffir i d-ikecmen mačči d imeɣta neɣ ilaq isem n useqdac i yiman-is i tuqqna. S umata, isem-a n useqdac d tuqqna-k ɣer taɣult n Windows s neɣ war taɣult (amedya, janedoe neɣ AD\\janedoe).
+account-setup-credentials-wrong = Asesteb ur iddi ara. Ttxil sefqed isem n useqdac d wawal uffir
+account-setup-find-settings-failed = { -brand-short-name } ur yessaweḍ ara ad d-yaf iɣewwaṛen i umiḍan-inek n tirawt.
+account-setup-exchange-config-unverifiable = Ur nessaweḍ ara ad nsenqed tawila. Ma yella isem-inek/inem n useqdac d wawal uffis d imeɣta, yezmer anedbal n uqeddac isens tawila yettwafernen i umiḍan-inek/inem. Ɛreḍ ad tferneḍ aneggaf-nniḍen.
 
 ## Manual configuration area
 
+account-setup-manual-config-title = Tawila n usefsu
+account-setup-incoming-server-legend = Aqeddac ukcim
+account-setup-protocol-label = Aneggaf:
+protocol-imap-option = { account-setup-result-imap }
+protocol-pop-option = { account-setup-result-pop }
+protocol-exchange-option = { account-setup-result-exchange }
+account-setup-hostname-label = Asenneftaɣ:
+account-setup-ssl-label = Taɣellist n tuqqna:
+account-setup-outgoing-server-legend = Aqeddac uffiɣen
 
 ## Incoming/Outgoing SSL Authentication options
 
+ssl-autodetect-option = Tifin tawurmant
+ssl-no-authentication-option = Ulac asesteb
+ssl-cleartext-password-option = Awal uffir amagnu
+ssl-encrypted-password-option = Awal uffir awgelhan
 
 ## Incoming/Outgoing SSL options
 
+ssl-noencryption-option = Ula yiwen
+account-setup-auth-label = Tarrayt n usesteb:
+account-setup-username-label = Isem n useqdac:
+account-setup-advanced-setup-button = Tawila leqqayen
+    .accesskey = T
 
 ## Warning insecure server dialog
 
+account-setup-insecure-title = Ɣur-k·m!
+account-setup-insecure-incoming-title = Tawila n unekcum:
+account-setup-insecure-outgoing-title = Tawila n tuffɣa:
+account-setup-warning-cleartext-details = Iqeddacen n tirawt ur nelli ara d iɣalsanen ur seqdacen ara tuqqna tawgelhant akken ad mmestnen awalen-inek uffiren akked talɣut-inek tusligt.
+account-setup-insecure-server-checkbox = Gziɣ d acu ara d-yeḍrun
+    .accesskey = G
+insecure-dialog-cancel-button = Snifel tawila
+    .accesskey = S
+insecure-dialog-confirm-button = Sentem
+    .accesskey = S
 
 ## Warning Exchange confirmation dialog
 
+exchange-dialog-confirm-button = Kcem
+exchange-dialog-cancel-button = Sefsex
 
 ## Alert dialogs
 
+account-setup-creation-error-title = Tuccḍa di tmerna n umiḍan
+account-setup-error-server-exists = Aqeddac ukcim yella yakan.
+account-setup-confirm-advanced-title = Sentem tawila leqqayen
+account-setup-confirm-advanced-description = Adiwenni-a ad imdel, amaɣnu s yiɣewwaṛen-a ad yennulfu, ɣas tawila mačči d tameɣtut. Tebɣiḍ ad tkemmleḍ?
 
 ## Addon installation section
 
+account-setup-addon-install-title = Sebded
+account-setup-addon-install-intro = Azegrir wis tlata ad k-yeǧǧ ad tkecmeḍ ɣer umiḍan-ik n tirawt ɣef uqeddac-a:
 
 ## Success view
 
+account-setup-encryption-button = Awgelhen seg yixef ɣer wayeḍ
+account-setup-dictionaries-button = Zdem n imawalen
+account-setup-button-finish = Fak
+    .accesskey = F
 
 ## Calendar synchronization dialog
 
