@@ -10,8 +10,6 @@ preferences-title =
             [windows] Možnosti
            *[other] Nastavitve
         }
-preferences-tab-title =
-    .title = Nastavitve
 preferences-doc-title = Nastavitve
 category-list =
     .aria-label = Kategorije
@@ -263,6 +261,9 @@ diskspace-legend = Prostor na disku
 offline-compact-folder =
     .label = Strni mape, kadar bo to skupaj prihranilo več kot
     .accesskey = S
+offline-compact-folder-automatically =
+    .label = Vprašaj pred vsakim strnjevanjem
+    .accesskey = V
 compact-folder-size =
     .value = MB
 
