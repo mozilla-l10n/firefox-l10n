@@ -48,6 +48,22 @@ printui-options = Iɣewwaren
 printui-headers-footers-checkbox = Siggez iqerra d yiḍarren n usebter
 printui-backgrounds-checkbox = Siggez agilal
 printui-selection-checkbox = Siggez kan tafrant
+
+## The "Format" section, select a version of the website to print. Radio
+## options to select between the original page, selected text only, or a version
+## where the page is processed with "Reader View".
+
+# The section title.
+printui-source-label = Amasal
+# Option for printing the original page.
+printui-source-radio = Aneẓli
+# Option for printing just the content a user selected prior to printing.
+printui-selection-radio = Tafrant
+# Option for "simplifying" the page by printing the Reader View version.
+printui-simplify-page-radio = Fessusen
+
+##
+
 printui-color-mode-label = Askar n yiniten
 printui-color-mode-color = Initen
 printui-color-mode-bw = Aberkan d ucebḥan

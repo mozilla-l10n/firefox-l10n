@@ -4,6 +4,10 @@
 
 third-party-page-title = Talɣut n uzegrir n wis kraḍ
 third-party-section-title = Tabdart n yizegrar n wis kraḍ deg { -brand-short-name }
+third-party-intro =
+    Asebter-a yeskan izegrar n wis kraḍ i yettwagren deg
+    { -brand-short-name } inek·inem. Yal azegrir ur nettuzmel ara sɣur Microsoft neɣ
+    { -vendor-short-name } yettuneḥsab d azegrir n wis kraḍ.
 third-party-header-module-list = Tabdart n yizegrar
 third-party-header-loading-events = Asali n tedyanin
 third-party-message-empty = Ulac izegrar n wis kraḍ ttwafen.
