@@ -165,51 +165,6 @@ page-action-remove-from-urlbar =
 page-action-remove-extension =
     .label = Kkes asiɣzef
 
-## Page Action menu
-
-# Variables
-# $tabCount (integer) - Number of tabs selected
-page-action-send-tabs-panel =
-    .label =
-        { $tabCount ->
-            [one] Azen iccer ɣer yibenk
-           *[other] Azen { $tabCount } waccaren ɣer yibenk
-        }
-page-action-send-tabs-urlbar =
-    .tooltiptext =
-        { $tabCount ->
-            [one] Azen iccer ɣer yibenk
-           *[other] Azen { $tabCount } waccaren ɣer yibenk
-        }
-page-action-copy-url-panel =
-    .label = Nɣel aseɣwen
-page-action-copy-url-urlbar =
-    .tooltiptext = Nɣel aseɣwen
-page-action-email-link-panel =
-    .label = Azen s yimayl aseɣwen ɣeṛ usebter…
-page-action-email-link-urlbar =
-    .tooltiptext = Azen s yimayl aseɣwen ɣeṛ usebter…
-page-action-share-url-panel =
-    .label = Bḍu
-page-action-share-url-urlbar =
-    .tooltiptext = Bḍu
-page-action-share-more-panel =
-    .label = Ugar…
-page-action-send-tab-not-ready =
-    .label = Amtawi n yibenkan…
-# "Pin" is being used as a metaphor for expressing the fact that these tabs
-# are "pinned" to the left edge of the tabstrip. Really we just want the
-# string to express the idea that this is a lightweight and reversible
-# action that keeps your tab where you can reach it easily.
-page-action-pin-tab-panel =
-    .label = Rzi iccer-a
-page-action-pin-tab-urlbar =
-    .tooltiptext = Rzi iccer-a
-page-action-unpin-tab-panel =
-    .label = Serreḥ i yiccer-a
-page-action-unpin-tab-urlbar =
-    .tooltiptext = Serreḥ i yiccer-a
-
 ## Auto-hide Context Menu
 
 full-screen-autohide =
@@ -480,6 +435,8 @@ urlbar-default-placeholder =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Nadi neɣ sekcem tansa
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Iminig yettwaṭṭef s wudem anmeggag
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -512,8 +469,6 @@ urlbar-placeholder-search-mode-other-tabs =
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Nadi s { $name } neɣ sekcem tansa
-urlbar-remote-control-notification-anchor =
-    .tooltiptext = Iminig yettwaṭṭef s wudem anmeggag
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -607,6 +562,10 @@ pointerlock-warning-no-domain = Isemli-a yeṭṭef asewwaṛ-ik. Sit ɣef Esc a
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Aḥric seg usebter-a yerreẓ.</strong> I wakken ad iẓer { -brand-product-name } ɣef wugur-a, ad t-iṣeggem s zzerb, ttxil-k·m azen aneqqis.
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = Aḥric seg usebter-a yerreẓ. I wakken ad iẓer { -brand-product-name } ɣef wugur-a, ad t-iṣeggem s zzerb, ttxil-k·m azen aneqqis.
 crashed-subframe-learnmore-link =
     .value = Issin ugar
 crashed-subframe-submit =
