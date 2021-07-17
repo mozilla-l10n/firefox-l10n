@@ -1018,6 +1018,10 @@ forms-primary-pw-change =
 forms-primary-pw-former-name = { "" }
 forms-primary-pw-fips-title = Momentálně jste v režimu FIPS, který vyžaduje neprázdné hlavní heslo.
 forms-master-pw-fips-desc = Neúspěšná změna hesla
+forms-windows-sso =
+    .label = Povolí jednotné přihlašování Windows pro pracovní a školní účty a účty Microsoftu
+forms-windows-sso-learn-more-link = Zjistit více
+forms-windows-sso-desc = Účty můžete spravovat v nastavení svého zařízení
 
 ## OS Authentication dialog
 
