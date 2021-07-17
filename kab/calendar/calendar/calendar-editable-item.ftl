@@ -18,3 +18,7 @@ calendar-editable-item-multiday-event-icon-end =
     .alt = Taggara n tedyant aṭas n wussan
 calendar-editable-item-reminder-icon-alarm =
     .alt = Alɣu n usmekti yettusɣawes
+calendar-editable-item-reminder-icon-email =
+    .alt = Imayl n usmekti yettusɣawes
+calendar-editable-item-reminder-icon-audio =
+    .alt = Ameslaw n usmekti yettusɣawes

@@ -14,6 +14,20 @@ calendar-ics-file-dialog-message-2 = Kter seg ufaylu:
 calendar-ics-file-dialog-calendar-menu-label = Kter deg uwitay
 calendar-ics-file-dialog-items-loading-message =
     .value = Asali n yiferdisen...
+calendar-ics-file-dialog-search-input =
+    .placeholder = Iferdisen n imsizdig…
+calendar-ics-file-dialog-sort-start-ascending =
+    .label = Smizwer s wazemz n beddu (seg umezwaru ɣer uneggaru)
+calendar-ics-file-dialog-sort-start-descending =
+    .label = Smizwer s wazemz n beddu (seg uneggaru ɣer umezwaru)
+# "A > Z" is used as a concise way to say "alphabetical order".
+# You may replace it with something appropriate to your language.
+calendar-ics-file-dialog-sort-title-ascending =
+    .label = Smizwer s uzwel (A > Z)
+# "Z > A" is used as a concise way to say "reverse alphabetical order".
+# You may replace it with something appropriate to your language.
+calendar-ics-file-dialog-sort-title-descending =
+    .label = Smizwer s uzwel (Z > A)
 calendar-ics-file-dialog-progress-message = Akter...
 calendar-ics-file-import-success = Yettwakter akken iwata!
 calendar-ics-file-import-error = Tella-d tuccḍa, aktar ur yeddu ara.
