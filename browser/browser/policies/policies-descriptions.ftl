@@ -116,4 +116,4 @@ policy-SupportMenu = Добавляет настраиваемый пункт м
 policy-UserMessaging = Позволяет не показывать определённые сообщения пользователю.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Блокирует посещение веб-сайтов. Для получения дополнительной информации о формате обратитесь к документации.
-policy-Windows10SSO = Разрешает единый вход Windows для учётных записей Microsoft, учётных записей на работе и в учебном заведении.
+policy-Windows10SSO = Разрешает единый вход Windows для учётных записей Microsoft, учётных записей на работе и в учебных заведениях.
