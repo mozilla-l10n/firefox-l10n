@@ -10,8 +10,6 @@ preferences-title =
             [windows] Настройки
            *[other] Настройки
         }
-preferences-tab-title =
-    .title = Настройки
 preferences-doc-title = Настройки
 category-list =
     .aria-label = Категории
@@ -263,6 +261,9 @@ diskspace-legend = Дисковое пространство
 offline-compact-folder =
     .label = Сжимать все папки, если при этом освободится всего более
     .accesskey = э
+offline-compact-folder-automatically =
+    .label = Спрашивать каждый раз перед сжатием
+    .accesskey = ш
 compact-folder-size =
     .value = МБ
 
