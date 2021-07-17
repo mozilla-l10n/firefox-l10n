@@ -4,3 +4,6 @@
 
 calendar-deactivated-notification-events = Tut ils chalenders èn actualmain deactivads. Activescha in chalender existent u agiuntescha in nov per crear e modifitgar eveniments.
 calendar-deactivated-notification-tasks = Tut ils chalenders èn actualmain deactivads. Activescha in chalender existent u agiuntescha in nov per crear e modifitgar incumbensas.
+calendar-notifications-label = Mussar avis per ils proxims eveniments
+calendar-add-notification-button =
+    .label = Agiuntar in avis
