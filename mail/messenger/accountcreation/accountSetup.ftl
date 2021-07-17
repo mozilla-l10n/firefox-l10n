@@ -102,14 +102,16 @@ account-setup-step3-image =
     .title = Конфигурация найдена
 account-setup-step4-image =
     .title = Ошибка соединения
+account-setup-privacy-footnote = Ваши учётные данные будут использоваться в соответствии с нашей <a data-l10n-name="privacy-policy-link"> политикой конфиденциальности </a> и будут храниться только на вашем компьютере.
 account-setup-step5-image =
     .title = Учётная запись создана
-account-setup-privacy-footnote = Ваши учётные данные будут использоваться в соответствии с нашей <a data-l10n-name="privacy-policy-link"> политикой конфиденциальности </a> и будут храниться только на вашем компьютере.
+account-setup-privacy-footnote2 = Ваши учётные данные будут храниться только локально на вашем компьютере.
 account-setup-selection-help = Не знаете, что выбрать?
 account-setup-selection-error = Нужна помощь?
 account-setup-success-help = Не уверены в своих следующих шагах?
 account-setup-documentation-help = Документация по настройке
 account-setup-forum-help = Форум поддержки
+account-setup-privacy-help = Политика приватности
 account-setup-getting-started = Начало работы
 
 ## Results area
