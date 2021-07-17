@@ -12,6 +12,8 @@ third-party-detail-version = Lqem n ufaylu
 third-party-detail-vendor = Talɣut n umazan
 third-party-detail-occurrences = Timeḍriwin
     .title = Acḥal aya segmi d-yuli uzegrir-a
+third-party-detail-duration = Akud alemmas n usewḥel (ms)
+    .title = Acḥal ara yeqqim ad issewḥel asnas-a.
 third-party-detail-app = Asnas
 third-party-detail-publisher = Amaẓrag
 third-party-th-process = Akala
@@ -19,6 +21,12 @@ third-party-th-duration = Tanzagt n usali (ms)
 third-party-th-status = Addad
 third-party-tag-ime = IME
     .title = Anaw-a n uzegrir yettwasuli-d mi ara tseqdaceḍ IME n wis kraḍ.
+third-party-tag-shellex = Asiɣzef Shell
+    .title = Anaw-a n uzegrir yuli-d mi teldiḍ adiwenni n ufaylu n unagraw.
+third-party-tag-background = Agilal
+    .title =
+        Azegrir-a ur issewḥel ara asnsa-a acku yettwasuli-d
+        deg ugilal
 third-party-unsigned-icon =
     .title = Azegrir-a ur yettusezmel ara
 third-party-warning-icon =
