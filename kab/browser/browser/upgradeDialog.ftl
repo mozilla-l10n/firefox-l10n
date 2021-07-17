@@ -15,6 +15,7 @@ upgrade-dialog-new-item-menu-title = Afeggag n yifecka d wumuɣen ttwasifssen
 upgrade-dialog-new-item-menu-description = Izeggir deg wayen yesεan azal i wakken ad tafeḍ ayen iɣef tettnadiḍ.
 upgrade-dialog-new-item-tabs-title = Accaren atraren
 upgrade-dialog-new-item-icons-title = Tignitin timaynutin d yiznan ibanen ugar
+upgrade-dialog-new-item-icons-description = Ad ak·akem-iɛawen ad tafeḍ abrid-ik·im s sshala.
 upgrade-dialog-new-primary-default-button = Err { -brand-short-name } d iminig-iw amezwer
 upgrade-dialog-new-primary-theme-button = Fren asentel
 upgrade-dialog-new-secondary-button = Mačči tura
@@ -34,6 +35,13 @@ upgrade-dialog-pin-title =
         [macos] Eǧǧ { -brand-short-name } deg Dock-inek·inem
        *[other] Senteḍ { -brand-short-name } ɣef ufeggag n twuriwin
     }
+# The English macOS string avoids repeating "Keep" a third time, so if your
+# translations don't repeat anyway, the same string can be used cross-platform.
+upgrade-dialog-pin-subtitle =
+    { PLATFORM() ->
+        [macos] Awi anekcum afessas ɣer { -brand-short-name } imaynut ineggura.
+       *[other] Eǧǧ imaynuten ineggura n { -brand-short-name } ɣef wafus.
+    }
 upgrade-dialog-pin-primary-button =
     { PLATFORM() ->
         [macos] Eǧǧ-it deg Dock
@@ -51,6 +59,8 @@ upgrade-dialog-default-secondary-button = Mačči tura
 
 ## Theme selection screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-theme-title-2 = Awi beddu zeddigen s usentel ibanen
 upgrade-dialog-theme-system = Asentel n unagraw
     .title = Seqdec asentel n unagraw n wammud i tqeffalin, umuɣen d yiwfuyla
 upgrade-dialog-theme-light = Aceεlal

@@ -857,6 +857,8 @@ forms-primary-pw-change =
 forms-primary-pw-former-name = { "" }
 forms-primary-pw-fips-title = Aql-ak·akem akka tura deg uskar FIPS . FIPS yesra awal uffir agejdan arilem.
 forms-master-pw-fips-desc = Asnifel n wawal uffir agejdan ur yeddi ara
+forms-windows-sso =
+    .label = Issirig anekcum asuf n Windows i yimiḍanen n Microsoft n umahel, d uɣerbaz
 forms-windows-sso-learn-more-link = Issin ugar
 forms-windows-sso-desc = Sefrek imiḍanen deg yiɣewwaren n yibenk-ik·im
 
