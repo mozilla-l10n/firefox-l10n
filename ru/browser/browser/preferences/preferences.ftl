@@ -861,6 +861,10 @@ forms-primary-pw-change =
 forms-primary-pw-former-name = { "" }
 forms-primary-pw-fips-title = Вы работаете в режиме соответствия FIPS. При работе в этом режиме необходимо установить мастер-пароль.
 forms-master-pw-fips-desc = Смена пароля не удалась
+forms-windows-sso =
+    .label = Разрешить единый вход Windows для учётных записей Microsoft, учётных записей на работе и в учебных заведениях
+forms-windows-sso-learn-more-link = Подробнее
+forms-windows-sso-desc = Управление аккаунтами в настройках вашего устройства
 
 ## OS Authentication dialog
 
