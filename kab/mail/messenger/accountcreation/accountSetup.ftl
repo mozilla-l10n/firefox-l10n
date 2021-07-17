@@ -7,6 +7,8 @@ account-setup-tab-title = Asbadu n umiḍan
 ## Header
 
 account-setup-title = Sbadu amiḍan-ik.m n yimayl yellan
+account-setup-description = I useqdec n tansa-inek·inem n yimayl tamirant, ččar inekcam-ik·im.
+account-setup-secondary-description = { -brand-product-name } ad inadi s wudem awurman ɣef twila tiddin d uwelleh n uqeddac.
 account-setup-success-title = Amiḍan yettwarna akken iwata
 account-setup-success-description = Tzemreḍ tura ad tesqedceḍ amiḍan-a s { -brand-short-name }.
 
