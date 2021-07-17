@@ -116,3 +116,4 @@ policy-SupportMenu = Ad yernu anekcum udmawan ɣer wumuɣ n tallelt i uɛiwen.
 policy-UserMessaging = Ur d-skan ara kra n yiznan i useqdac.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Sewḥel anekcum Ɣer ismal web. Wali tasemlit i wugar n telqayt Ɣef umasal.
+policy-Windows10SSO = Issirig anekcum asuf n Windows i yimiḍanen n Microsoft n umahel, d uɣerbaz.
