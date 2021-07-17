@@ -69,5 +69,7 @@ upgrade-dialog-theme-dark = Aberkan
     .title = Seqdec asentel aberkan i tqeffalin, umuɣen d yisfuyla
 upgrade-dialog-theme-alpenglow = Alpenglow
     .title = Seqdec asentel arurad, asentel s yini aččuran i tqeffalin, umuɣen d yisfuyla
+upgrade-dialog-theme-keep = Eǧǧ asentel amiran
+    .title = Seqdec asentel i tesbeddeḍ send aleqqem n { -brand-short-name }
 upgrade-dialog-theme-primary-button = Sekles asentel
 upgrade-dialog-theme-secondary-button = Mačči tura
