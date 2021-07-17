@@ -19,12 +19,6 @@
 <!ENTITY lightning.menupopup.new.calendar.accesskey "n">
 
 <!-- Open menu popup in File menu -->
-<!ENTITY lightning.menupopup.open.label               "Avrir">
-<!ENTITY lightning.menupopup.open.accesskey           "A">
-<!ENTITY lightning.menupopup.open.message.label       "Messadi memorisà…">
-<!ENTITY lightning.menupopup.open.message.accesskey   "m">
-
-<!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.calendar.label      "Datoteca da chalender…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "c">
 
@@ -51,6 +45,10 @@
      - tooltiptext2 is used in the calendar properties dialog for caldav calendars -->
 <!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext1     "Per entant pos ti mo activar questa opziun suenter avair configurà quest chalender en ses dialog da caracteristicas sch'il server dal chalender s'occupa da l'agendaziun.">
 <!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext2     "Questa opziun è mo disponibla sch'il server dal chalender s'occupa da l'agendaziun. Activar permetta da duvrar l'agendaziun dad e-mail da standard sco alternativa en cas da panna enstagl da surlaschar quai al server.">
+
+<!-- The notifications settings in the properties dialog -->
+<!ENTITY lightning.calendarproperties.notifications.label                   "Avis">
+<!ENTITY lightning.calendarproperties.globalNotifications.label             "Preferenzas globalas per avis…">
 
 <!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.btnAccept.label                                  "Acceptar">

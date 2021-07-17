@@ -4,6 +4,7 @@
 
 calendar-title = Chalender
 calendar-title-reminder = Promemorias
+calendar-title-notification = Avis
 calendar-title-category = Categorias
 dateformat-label =
     .value = Format per data e temp:
@@ -179,6 +180,7 @@ event-alarm-time-label =
 task-alarm-time-label =
     .value = Temp da standard per ina promemoria avant ina incumbensa:
     .accesskey = r
+calendar-notifications-customize-label = Avis pon vegnir persunalisads per mintga chalender en la fanestra da las caracteristicas dal chalender.
 category-new-label = Nova categoria
 category-edit-label = Modifitgar categoria
 category-overwrite-title = Attenziun: Num duplitgà
