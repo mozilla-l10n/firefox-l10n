@@ -303,6 +303,7 @@ mr1-onboarding-sign-in-button-label = Kcem
 ## when Firefox is not default browser
 
 mr1-onboarding-default-header = Err { -brand-short-name } d iminig-ik·im amezwer
+mr1-onboarding-default-subtitle = Err arured, taɣellist d tudert tabaḍnit ad ttustetben s wudem awurman.
 mr1-onboarding-default-primary-button-label = Err-it d iminig amezwer
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
