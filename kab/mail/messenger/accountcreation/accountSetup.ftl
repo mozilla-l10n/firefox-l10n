@@ -11,6 +11,7 @@ account-setup-description = I useqdec n tansa-inek·inem n yimayl tamirant, čč
 account-setup-secondary-description = { -brand-product-name } ad inadi s wudem awurman ɣef twila tiddin d uwelleh n uqeddac.
 account-setup-success-title = Amiḍan yettwarna akken iwata
 account-setup-success-description = Tzemreḍ tura ad tesqedceḍ amiḍan-a s { -brand-short-name }.
+account-setup-success-secondary-description = Tezmreḍ ad tesnerniḍ tirmit-ik·im s tuqqna iqeddacen imcudden d usesteb n yiɣewwaren n umiḍan leqqayen.
 
 ## Form fields
 
@@ -79,6 +80,7 @@ account-setup-success-password = Awal uffir IH
 account-setup-success-addon = Azegrir ibedd akken iwata
 # Note: Do not translate or replace Mozilla. It stands for the public project mozilla.org, not Mozilla Corporation. The database is a generic, public domain facility usable by any client.
 account-setup-success-settings-db = Tettwaf twila di taffa n isefka Mozilla ISP.
+account-setup-success-settings-disk = Tawila tettwaf deg usebded n { -brand-short-name }.
 account-setup-success-settings-isp = Tettwaf twila deg usaǧǧaw n tirawt.
 # Note: Microsoft Exchange is a product name.
 account-setup-success-settings-exchange = Tawila tettwaf i uqeddac Microsoft Exchange.
