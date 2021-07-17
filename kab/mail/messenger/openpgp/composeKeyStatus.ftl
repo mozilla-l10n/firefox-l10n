@@ -14,3 +14,10 @@ openpgp-compose-key-status-open-details = Sefrek tisura i uɣerwad yettwafernen�
 openpgp-recip-good = ih
 openpgp-recip-missing = ulac tasarut
 openpgp-recip-none-accepted = ulac tasarut i yettwaqeblen
+openpgp-compose-general-info-alias-learn-more = Issin ugar
+openpgp-compose-alias-status-direct =
+    { $count ->
+        [one] yettwacreḍ ɣer tsarut n meffer isem
+       *[other] yettwacreḍ ɣer { $count } n tsura n meffer isem
+    }
+openpgp-compose-alias-status-error = Tasarut n meffer isem ur nettuseqdac/ur nelli
