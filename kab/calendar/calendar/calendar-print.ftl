@@ -5,6 +5,8 @@
 calendar-print-layout-label = Taneɣruft
 calendar-print-layout-list = Tabdart
 calendar-print-layout-month-grid = Aẓiki ayyuran
+calendar-print-layout-week-planner = Amɣawas n yimalasen
+calendar-print-filter-label = Ayen ara tsiggzeḍ
 calendar-print-filter-events = Tidyanin
 calendar-print-filter-tasks = Tiwuriwin
 calendar-print-filter-completedtasks = Tiwuriwin yyemmden

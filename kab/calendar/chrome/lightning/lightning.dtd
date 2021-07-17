@@ -19,12 +19,6 @@
 <!ENTITY lightning.menupopup.new.calendar.accesskey "t">
 
 <!-- Open menu popup in File menu -->
-<!ENTITY lightning.menupopup.open.label               "Ldi">
-<!ENTITY lightning.menupopup.open.accesskey           "L">
-<!ENTITY lightning.menupopup.open.message.label       "Izen yettwakelsen…">
-<!ENTITY lightning.menupopup.open.message.accesskey   "z">
-
-<!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.calendar.label      "Afaylu n uwitay…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "y">
 
@@ -51,6 +45,10 @@
      - tooltiptext2 is used in the calendar properties dialog for caldav calendars -->
 <!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext1     "Akka tura, tzemreḍ kan ad tremdeḍ ayagi deffir uswel n uwitay-agi di tnaka n udiwenni n tmeẓliyin, ma yella aqeddac yessefrak aɣawas.">
 <!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext2     "Aɣewwaṛ-agi yella kan ma yella aqeddac n uwitay yessefrak aɣawas. Armad ad yeǧǧ ad tuɣaleḍ ar uɣawas s yimayl deg umḍiq n tiǧǧin-is i uqaddac.">
+
+<!-- The notifications settings in the properties dialog -->
+<!ENTITY lightning.calendarproperties.notifications.label                   "Ilɣa">
+<!ENTITY lightning.calendarproperties.globalNotifications.label             "Ismenyifen n ulɣu amatu…">
 
 <!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.btnAccept.label                                  "Qbel">

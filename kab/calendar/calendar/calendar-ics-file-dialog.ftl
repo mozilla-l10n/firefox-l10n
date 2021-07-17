@@ -32,4 +32,14 @@ calendar-ics-file-dialog-progress-message = Akter...
 calendar-ics-file-import-success = Yettwakter akken iwata!
 calendar-ics-file-import-error = Tella-d tuccḍa, aktar ur yeddu ara.
 calendar-ics-file-import-complete = Akter yemmed.
+calendar-ics-file-import-duplicates =
+    { $duplicatesCount ->
+        [one] Yiwen uferdis yettwazgel acku yella yakan deg uwitay n tuzna.
+       *[other] { $duplicatesCount } n yiferdisen ttwazeglen acku yella yakan deg uwitay n tuzna.
+    }
+calendar-ics-file-import-errors =
+    { $errorsCount ->
+        [one] Aktar n yiwen uferdis yecceḍ. Senqed tadiwent n tuccḍiwin i wugar n telqayt.
+       *[other] { $errorsCount } n yiferdisen ccḍen deg uktar. Senqed tadiwent n tuccḍiwin i wugar n telqayt.
+    }
 calendar-ics-file-dialog-no-calendars = Ula d yiwen uwitay ur yezmir ad yekter tidyanin d twuriwin.
