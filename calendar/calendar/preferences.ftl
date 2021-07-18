@@ -4,6 +4,7 @@
 
 calendar-title = Kalender
 calendar-title-reminder = Påminningar
+calendar-title-notification = Varsel
 calendar-title-category = Kategoriar
 dateformat-label =
     .value = Datoformat:
