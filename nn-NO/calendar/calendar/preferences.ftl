@@ -180,6 +180,7 @@ event-alarm-time-label =
 task-alarm-time-label =
     .value = Standard varslingstid før ei oppgåve:
     .accesskey = g
+calendar-notifications-customize-label = Varsel kan tilpassast for kvar kalender i innstillingane til kalenderen.
 category-new-label = Ny kategori
 category-edit-label = Rediger kategori
 category-overwrite-title = Åtvaring: Duplikatnamn
