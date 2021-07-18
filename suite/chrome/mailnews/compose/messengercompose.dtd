@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
-<!ENTITY msgComposeWindow.title "Compose页：(无主题)">
+<!ENTITY msgComposeWindow.title "新邮件：(无主题)">
 
 <!ENTITY fromAddr.label "发件人:">
 <!ENTITY fromAddr.accesskey "r">

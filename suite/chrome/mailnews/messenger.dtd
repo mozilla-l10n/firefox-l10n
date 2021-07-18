@@ -410,10 +410,10 @@
 <!ENTITY getMsgButton.label "获取邮件">
 <!ENTITY getAllNewMsgCmd.label "获取所有新消息">
 <!ENTITY getAllNewMsgCmd.accesskey "G">
-<!ENTITY newMsgButton.label "编写">
-<!ENTITY newHTMLMessageCmd.label "用HTML编写">
+<!ENTITY newMsgButton.label "撰写">
+<!ENTITY newHTMLMessageCmd.label "用 HTML 撰写">
 <!ENTITY newHTMLMessageCmd.accesskey "H">
-<!ENTITY newPlainTextMessageCmd.label "用普通文本编写">
+<!ENTITY newPlainTextMessageCmd.label "用纯文本撰写">
 <!ENTITY newPlainTextMessageCmd.accesskey "P">
 <!ENTITY replyButton.label "回复">
 <!ENTITY replyAllButton.label "全部回复">
