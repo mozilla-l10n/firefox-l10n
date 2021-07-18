@@ -81,6 +81,10 @@ perftools-thread-render-backend =
     .title = Asqerdec n WebRender RenderBackend
 pref-thread-stream-trans =
     .title = Asiweḍ n usuddem n uzeṭṭa
+perftools-thread-img-decoder =
+    .title = Asqerdec n usettenggel n tugna
+perftools-thread-dns-resolver =
+    .title = Tifrat n DNS tḍerru deg usqerdec-a
 
 ##
 
@@ -89,4 +93,5 @@ pref-thread-stream-trans =
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
 ## preferences are true.
 
--profiler-brand-name = Firefox Profiler
+perftools-onboarding-close-button =
+    .aria-label = Mdel izen n uslaɣ

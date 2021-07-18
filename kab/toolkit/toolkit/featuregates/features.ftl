@@ -19,29 +19,14 @@ experimental-features-media-avif =
 experimental-features-media-avif-description = S tmahilt-a yettwaremden, { -brand-short-name } yessefrak amasal AV1 n ufaylu n tugna (AVIF). Wagi d amasal n ufaylu n tuqna ireṣṣan i yessexdamen tizemmar n yilguritmen n uskussem n tvidyut AV1 i usemẓi n teɣzi n tugna. Wali <a data-l10n-name="bugzilla">abug 1443863</a> i wugar n telqayt.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
+experimental-features-media-jxl =
+    .label = Amidiyat: JPEG XL
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
     .label = API web: inputmode
 # "inputmode" and "contenteditable" are technical terms and shouldn't be translated.
 experimental-features-web-api-inputmode-description = Asebded-nneɣ i yimyerr amatu <a data-l10n-name="mdn-inputmode">inputmode</a> yettuleqqem almend n <a data-l10n-name="whatwg">ulugen WHATWG</a>, maca mazal nesra ad neg kra n yisnifal daɣen, d amedya ad t-nerr yella deg ugbur ara yettwaẓergen. Wali <a data-l10n-name="bugzilla">abug1205133</a> i wugar n telqayt.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-web-api-link-preload =
-    .label = Web API: <link rel="preload">
-# Do not translate "rel", "preload" or "link" here, as they are all HTML spec
-# values that do not get translated.
-experimental-features-web-api-link-preload-description = Imyerr <a data-l10n-name="rel">rel</a> s wazal <code>"preload"</code> ɣef uferdis <a data-l10n-name="link">&lt;link&gt;</a> yella-d i tallalt n usnerni n temlellit ayen ara ak·akem-yeǧǧen ad d-tesidreḍ tiɣbula qbel deg wallus n tudert n usebter, s uḍman n tilin-nsent rnu ur ssewḥalent ara asumer n usebter. Γer <a data-l10n-name="readmore">“agbur seld asali s <code>rel="preload"</code>”</a> neɣ wali <a data-l10n-name="bugzilla">abug 1583604</a> i wugar n telqayt.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-css-focus-visible =
-    .label = CSS: Pseudo-class: :focus-visible
-experimental-features-css-focus-visible-description = Yessirig aseddu n wanawen n ufukus i yiferdisen am tqeffalin d yisenqad n tferkit, ala mi ara yilin ttwafernen i useqdec n unasiw (am. mi ara tgeḍ tarigla gar yiferdisen), maca mačči am mi ara ttwafernent s useqdec n tɣerdayt neɣ ibenk-nniḍen n usigez. Wali <a data-l10n-name="bugzilla">abug1617600</a> i wugar n telqayt.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-web-api-beforeinput =
-    .label = Web API: beforeinput Event
-# The terms "beforeinput", "input", "textarea", and "contenteditable" are technical terms
-# and shouldn't be translated.
-experimental-features-web-api-beforeinput-description = Tadyant s umata <a data-l10n-name="mdn-beforeinput">beforeinpt</a> tekker ɣef <a data-l10n-name="mdn-input">&lt;input&gt;</a> d <a data-l10n-name="mdn-textarea">&lt;textarea&gt;</a> yiferdisen, neɣ kra n uferdis iwumi yettwarmed yimyerr <a data-l10n-name="mdn-contenteditable">contenteditable</a>, send kan asnifel n wazal n uferdis.Tadyant ad teǧǧ isnasen n web ad  surfen tikli tamezwert n yiminig i temyigawt n useqdac, am., isnasen web zemren ad sfesxen asekcem n useqdac kan i yisekkilen yettwafernen neɣ zemren ad sniflen aḍris n wanaw kan inetḍen s yiɣunab yettuɣeblen.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
@@ -69,9 +54,6 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Inagan
 experimental-features-abouthome-startup-cache =
     .label = ɣef: tuffirt n usenker agensan
 experimental-features-abouthome-startup-cache-description = Tuffirt i ugbur amezwaru ɣef:isemli agejdan i d-yulin s wudem amewer deg usenker. Iswi seg tuffra-a  d asnerni n temlellit n usenker.
-experimental-features-print-preview-tab-modal =
-    .label = Allus n ufeṣṣel send asiggez
-experimental-features-print-preview-tab-modal-description = Yeskanay taskant s wallus n ufeṣṣel send asiggez, yerna yettarra taskant send asiggez tella ɣef macOS. Yezmer waya ad d-yeglu s truẓi yernu ur ttilin ara akk deg-s yiɣewwaren icudden ɣer usiggez. I unekcum ɣer meṛṛa iɣewwaren i icudden ɣer usiggez, fren "Siggez s useqdec n tbewwaḍt n udiwenni n unagraw..." si sdaxel n ugalis n usiggez.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
@@ -86,6 +68,9 @@ experimental-features-devtools-serviceworker-debugger-support-description = Yerm
 experimental-features-webrtc-global-mute-toggles =
     .label = Rmed/Sens imesli amatu n WebRTC
 experimental-features-webrtc-global-mute-toggles-description = Rnu senqaden ɣer umatar n beṭṭu amatu n WebRTC ara yessirgen iseqdacen ad sensen imesli s umata n usawaḍ d tkamiṛat nsen.
+# Win32k Lockdown
+experimental-features-win32k-lockdown =
+    .label = Asekkar Win32k
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
@@ -98,9 +83,6 @@ experimental-features-fission-description = Fission (aɛzal n usmel) d tamahilt 
 experimental-features-multi-pip =
     .label = Tallalt n tugna deg tugna yeggten
 experimental-features-multi-pip-description = Tallalt tarmitant i usireg n waṭas n yisfuyla n tugna deg tugna ara yeldin ɣef tikkelt.
-experimental-features-http3 =
-    .label = Aneggaf n HTTP/3
-experimental-features-http3-description = Tallalt tarmitant i uneggaf HTTP/3
 # Search during IME
 experimental-features-ime-search =
     .label = Afeggag n tansiwin: Sken igmaḍ lawan n usuddes n IME

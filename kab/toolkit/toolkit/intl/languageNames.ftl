@@ -159,6 +159,7 @@ language-name-ru = Tarusit
 language-name-rw = Takinṛwandit
 language-name-sa = Tasanskrit
 language-name-sc = Tasardinit
+language-name-sco = Ikusit
 language-name-sd = Tasinḍit
 language-name-se = Tasamit n ugafa
 language-name-sg = Tasangit
