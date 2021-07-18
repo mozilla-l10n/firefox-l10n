@@ -11,6 +11,7 @@
 
 <!ENTITY networkListAdd.label         "添加网络…">
 <!ENTITY networkListAdd.accesskey     "A">
+<!ENTITY networkListAdd.tooltip       "添加新的网络">
 <!ENTITY networkListEdit.label        "编辑网络…">
 <!ENTITY networkListEdit.accesskey    "E">
 <!ENTITY networkListEdit.tooltip      "编辑选择的网络">
@@ -20,10 +21,16 @@
 
 <!ENTITY serverListUp.label           "上移">
 <!ENTITY serverListUp.accesskey       "U">
+<!ENTITY serverListUp.tooltip         "将所选服务器在列表中向上移动">
 <!ENTITY serverListDown.label         "下移">
 <!ENTITY serverListDown.accesskey     "D">
+<!ENTITY serverListDown.tooltip       "将所选服务器在列表中向下移动">
 <!ENTITY serverListAdd.label          "添加服务器…">
 <!ENTITY serverListAdd.accesskey      "S">
+<!ENTITY serverListAdd.tooltip        "添加新的服务器">
+<!ENTITY serverListEdit.label         "编辑服务器…">
+<!ENTITY serverListEdit.accesskey     "i">
+<!ENTITY serverListEdit.tooltip       "编辑选择的服务器">
 <!ENTITY serverListRemove.label       "移除服务器">
 <!ENTITY serverListRemove.accesskey   "m">
 <!ENTITY serverListRemove.tooltip     "移除选择的服务器">
