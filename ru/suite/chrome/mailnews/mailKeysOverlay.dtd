@@ -10,6 +10,8 @@
 <!ENTITY markAsUnreadCmd.accesskey "е">
 <!ENTITY markAsUnreadCmd.key       "m">
 
+<!ENTITY markAsUnreadCmd2.key      "u">
+
 <!ENTITY markFlaggedCmd.label     "Флагом">
 <!ENTITY markFlaggedCmd.accesskey "л">
 <!ENTITY markFlaggedCmd.key       "i">
