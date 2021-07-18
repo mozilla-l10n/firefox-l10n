@@ -38,9 +38,9 @@
 <!ENTITY  generalSecurityDetails           "细节">
 <!ENTITY  generalSecurityDetails.accesskey "D">
 
-<!ENTITY  formsTab              "窗体">
+<!ENTITY  formsTab              "表单">
 <!ENTITY  formsTab.accesskey    "F">
-<!ENTITY  formAction            "窗体行为">
+<!ENTITY  formAction            "表单操作">
 <!ENTITY  formMethod            "方法">
 <!ENTITY  formName              "类别">
 <!ENTITY  formEncoding          "编码:">
