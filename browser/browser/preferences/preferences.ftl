@@ -857,6 +857,7 @@ forms-primary-pw-change =
 forms-primary-pw-former-name = { "" }
 forms-primary-pw-fips-title = Du er for tiden i FIPS-modus. FIPS krever at du bruker et hovedpassord.
 forms-master-pw-fips-desc = Passordendring mislyktes
+forms-windows-sso-learn-more-link = Les mer
 
 ## OS Authentication dialog
 
