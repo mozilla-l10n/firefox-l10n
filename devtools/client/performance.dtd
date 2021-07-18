@@ -27,7 +27,7 @@
 <!-- LOCALIZATION NOTE (performanceUI.unavailableNoticePB): This is the label shown
   -  in the details view while the profiler is unavailable, for example, while
   -  in Private Browsing mode. -->
-<!ENTITY performanceUI.unavailableNoticePB "Înregistrarea unui profil este momentan indisponibilă. Închide toate ferestrele de navigare privată și încearcă din nou.">
+<!ENTITY performanceUI.unavailableNoticePB "Înregistrarea unui profil este indisponibilă în prezent. Te rugăm să închizi toate ferestrele de navigare privată și să încerci din nou.">
 
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
   -  in the details view while loading a profile. -->
