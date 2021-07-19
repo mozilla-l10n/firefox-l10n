@@ -8,4 +8,6 @@ export-dialog-window =
 export-dialog =
     .buttonlabelaccept = Sequente
 export-dialog-button-finish = Finir
+export-dialog-file-picker = Exportar a un file zip
+export-dialog-exporting = Exportante…
 export-dialog-exported = Exportate

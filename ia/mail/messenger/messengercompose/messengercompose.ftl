@@ -8,9 +8,6 @@
 #   $type (String) - the type of the addressing row
 remove-address-row-type = Remover le campo { $type }
 #   $type (String) - the type of the addressing row
-remove-address-row-type-label =
-    .tooltiptext = Remover le campo { $type }
-#   $type (String) - the type of the addressing row
 remove-address-row-button =
     .title = Remover le campo { $type }
 #   $type (String) - the type of the addressing row
@@ -121,8 +118,6 @@ move-attachment-last-panel-button =
 button-return-receipt =
     .label = Quitantia
     .tooltiptext = Requirer un quitantia de retorno pro iste message
-#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
-consider-bcc-notification = Le { $count } destinatarios in A e Cc pote vider lor relative adresses. Tu pote impedir le divulgation del adresses del destinatarios per Ccn.
 
 # Addressing Area
 
@@ -170,3 +165,10 @@ many-public-recipients-ignore =
 # Variables:
 # $identity (string) - The name of the used identity, most likely an email address.
 compose-missing-identity-warning = Non ha essite trovate un identitate unic que corresponde al adresse de expeditor. Le message essera inviate usante le adresse de expeditor actual e le parametros del identitate { $identity }.
+encrypted-bcc-ignore-button = Io comprende
+
+## Editing
+
+
+# Tools
+

@@ -120,3 +120,4 @@ repair-text-encoding-button =
 
 ## no-reply handling
 
+no-reply-title = Replica non supportate
