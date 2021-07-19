@@ -11,6 +11,9 @@ newtab-settings-button =
 newtab-personalize-button-label = Жекелендіру
     .title = Жаңа бетті жекелендіру
     .aria-label = Жаңа бетті жекелендіру
+newtab-personalize-icon-label =
+    .title = Жаңа бетті жекелендіру
+    .aria-label = Жаңа бетті жекелендіру
 newtab-personalize-dialog-label =
     .aria-label = Жекелендіру
 
@@ -39,7 +42,6 @@ newtab-search-box-search-the-web-input =
     .placeholder = Интернетте іздеу
     .title = Интернетте іздеу
     .aria-label = Интернетте іздеу
-newtab-search-box-text = Интернетте іздеу
 newtab-search-box-input =
     .placeholder = Интернетте іздеу
     .aria-label = Интернетте іздеу
