@@ -11,6 +11,9 @@ newtab-settings-button =
 newtab-personalize-button-label = Personalisearje
     .title = Nij ljepblêd personalisearje
     .aria-label = Nij ljepblêd personalisearje
+newtab-personalize-icon-label =
+    .title = Nij ljepblêd personalisearje
+    .aria-label = Nij ljepblêd personalisearje
 newtab-personalize-dialog-label =
     .aria-label = Personalisearje
 
@@ -39,7 +42,6 @@ newtab-search-box-search-the-web-input =
     .placeholder = Sykje op it web
     .title = Sykje op it web
     .aria-label = Sykje op it web
-newtab-search-box-text = Sykje op it web
 newtab-search-box-input =
     .placeholder = Sykje op it web
     .aria-label = Sykje op it web
