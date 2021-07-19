@@ -97,6 +97,8 @@ perftools-thread-dns-resolver =
     .title = Le resolution de DNS eveni sur iste argumento
 perftools-thread-js-helper =
     .title = Labor de fundo de motor JS como compilationes extra argumento principal
+perftools-thread-task-controller =
+    .title = Argumentos del gruppo de sub-processos de TaskController
 
 ##
 
@@ -108,7 +110,6 @@ perftools-tools-threads-input-label =
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
 ## preferences are true.
 
--profiler-brand-name = Firefox Profiler
 perftools-onboarding-message = <b>Nove</b>: { -profiler-brand-name } es ora integrate in Utensiles de disveloppator. <a>Saper plus</a> re iste potente nove instrumento.
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (Pro un tempore limitate, tu pote acceder al quadro original Prestation via <a>{ options-context-advanced-settings }</a>)

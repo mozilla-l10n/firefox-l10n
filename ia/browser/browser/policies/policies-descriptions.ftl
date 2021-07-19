@@ -116,3 +116,4 @@ policy-SupportMenu = Adder un selection de supporto personalisate al menu de adj
 policy-UserMessaging = Non monstrar al usator certe messages.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blocar le accesso a sitos web. Vider documentation pro plus detalios sur le formato.
+policy-Windows10SSO = Permitter le autorisation unic de Windows pro le contos de labor e schola de Microsoft.
