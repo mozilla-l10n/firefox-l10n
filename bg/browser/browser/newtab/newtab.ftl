@@ -11,6 +11,9 @@ newtab-settings-button =
 newtab-personalize-button-label = Приспособяване
     .title = Приспособяване на новите раздели
     .aria-label = Приспособяване на новите раздели
+newtab-personalize-icon-label =
+    .title = Приспособяване на новите раздели
+    .aria-label = Приспособяване на новите раздели
 newtab-personalize-dialog-label =
     .aria-label = Приспособяване
 
