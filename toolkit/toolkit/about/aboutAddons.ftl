@@ -5,6 +5,7 @@
 addons-window =
     .title = Xestor de complementos
 addons-page-title = Xestor de complementos
+list-empty-get-extensions-message = Consigui estensiones y estilos en <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-installed =
     .value = Nun tienes nengún complementu instaláu d'esti tipu
 list-empty-available-updates =
@@ -305,7 +306,7 @@ extension-heading = Xestiona les estensiones
 theme-heading = Xestiona los estilos
 plugin-heading = Xestiona los plugins
 dictionary-heading = Xestiona los diccionarios
-locale-heading = Xestión de llingües
+locale-heading = Xestiona les llingües
 updates-heading = Xestiona los anovamientos
 discover-heading = Personaliza { -brand-short-name }
 shortcuts-heading = Xestión de los atayos de les estensiones
