@@ -11,6 +11,9 @@ newtab-settings-button =
 newtab-personalize-button-label = Anpassa
     .title = Anpassa ny flik
     .aria-label = Anpassa ny flik
+newtab-personalize-icon-label =
+    .title = Anpassa ny flik
+    .aria-label = Anpassa ny flik
 newtab-personalize-dialog-label =
     .aria-label = Anpassa
 
@@ -39,7 +42,6 @@ newtab-search-box-search-the-web-input =
     .placeholder = Sök på webben
     .title = Sök på webben
     .aria-label = Sök på webben
-newtab-search-box-text = Sök på webben
 newtab-search-box-input =
     .placeholder = Sök på webben
     .aria-label = Sök på webben
