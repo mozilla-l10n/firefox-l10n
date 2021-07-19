@@ -8,9 +8,6 @@
 #   $type (String) - the type of the addressing row
 remove-address-row-type = Polo typa { $type } wotstronić
 #   $type (String) - the type of the addressing row
-remove-address-row-type-label =
-    .tooltiptext = Polo typa { $type } wotstronić
-#   $type (String) - the type of the addressing row
 remove-address-row-button =
     .title = Polo typa { $type } wotstronić
 #   $type (String) - the type of the addressing row
@@ -184,3 +181,11 @@ many-public-recipients-ignore =
 compose-missing-identity-warning = Jónkróćna identita, kotraž adresy wotpósłarja wotpowěduje, njeje so namakała. Powěsć so wužiwajo polo Wot a nastajenja z identity { $identity } pósćele.
 encrypted-bcc-warning = Při słanju zaklučowaneje powěsće, přijimarjo schowaneje kopije połnje schowani njejsu. Wšitcy přijimarjo móža jich identifikować.
 encrypted-bcc-ignore-button = Sym zrozumił
+
+## Editing
+
+
+# Tools
+
+compose-tool-button-remove-text-styling =
+    .tooltiptext = Tekstowy stil wotstronić
