@@ -217,6 +217,8 @@ cert-not-verified-unknown = Nid oedd modd gwirio'r dystysgrif am resymau anhysby
 send-no-client-certificate = Anfonwyd dim tystysgrif cleient
 # Used when no cert is stored for an override
 no-cert-stored-for-override = (Heb ei Storio)
+# When a certificate is unavailable (for example, it has been deleted or the token it exists on has been removed).
+certificate-not-available = (Dim ar gael)
 
 ## Used to show whether an override is temporary or permanent
 

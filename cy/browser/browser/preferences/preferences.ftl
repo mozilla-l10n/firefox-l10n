@@ -266,6 +266,7 @@ confirm-browser-language-change-button = Gosod ac Ailgychwyn
 translate-web-pages =
     .label = Cyfieithu cynnwys gwe
     .accesskey = C
+fx-translate-web-pages = { -translations-brand-name }
 # The <img> element is replaced by the logo of the provider
 # used to provide machine translations for web pages.
 translate-attribution = Cyfieithiadau gan <img data-l10n-name="logo"/>
@@ -1129,6 +1130,12 @@ permissions-block-popups =
 permissions-block-popups-exceptions =
     .label = Eithriadau…
     .accesskey = E
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button =
+    .label = Eithriadau…
+    .accesskey = E
+    .searchkeywords = llamlenni
 permissions-addon-install-warning =
     .label = Rhybuddio pan fydd gwefan yn ceisio gosod ychwanegion
     .accesskey = y
