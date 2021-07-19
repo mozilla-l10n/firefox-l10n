@@ -18,6 +18,12 @@ permissions-session =
 permissions-allow =
     .label = Tillad
     .accesskey = T
+permissions-button-off =
+    .label = Slå fra
+    .accesskey = S
+permissions-button-off-temporarily =
+    .label = Slå midlertidigt fra
+    .accesskey = m
 permissions-site-name =
     .label = Websted
 permissions-status =
@@ -58,6 +64,10 @@ permissions-capabilities-listitem-block =
     .value = Bloker
 permissions-capabilities-listitem-allow-session =
     .value = Tillad for session
+permissions-capabilities-listitem-off =
+    .value = Fra
+permissions-capabilities-listitem-off-temporarily =
+    .value = Midlertidigt fra
 
 ## Invalid Hostname Dialog
 
@@ -77,6 +87,12 @@ permissions-exceptions-cookie-window =
     .title = Undtagelser - cookies og websteds-data
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = Du kan angive, hvilke websteder der altid eller aldrig har tilladelse til at anvende cookies og websteds-data. Indtast adressen på webstedet, du ønsker at angive tilladelser for, og klik på Bloker, Tillad for sessionen eller Tillad
+
+## Exceptions - HTTPS-Only Mode
+
+permissions-exceptions-https-only-window =
+    .title = Undtagelser - Tilstanden Kun-HTTPS
+    .style = { permissions-window.style }
 
 ## Exceptions - Pop-ups
 

@@ -267,15 +267,50 @@ onboarding-multistage-theme-description-alpenglow =
 mr1-welcome-screen-hero-text = Alt starter her
 # Caption for background image in about:welcome. "Soraya Osorio" is the name
 # of the person and shouldn't be translated.
+# In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
+# You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = Soraya Osorio - møbeldesigner og Firefox-fan
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Slå animationer fra
+
+## Title and primary button strings differ between platforms as they
+## match the OS' application context menu item action where Windows uses "pin"
+## and "taskbar" while macOS "keep" and "Dock" (proper noun).
+
+# Title used on welcome page when Firefox is not pinned
+mr1-onboarding-pin-header =
+    { PLATFORM() ->
+        [macos] Behold { -brand-short-name } i din Dock for nem adgang
+       *[other] Fastgør { -brand-short-name } til din proceslinje for nem adgang
+    }
+# Primary button string used on welcome page when Firefox is not pinned.
+mr1-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Behold i Dock
+       *[other] Fastgør til proceslinjen
+    }
+
+## Multistage MR1 onboarding strings (about:welcome pages)
+
+# This string will be used on welcome page primary button label
+# when Firefox is both pinned and default
+mr1-onboarding-get-started-primary-button-label = Kom i gang
 mr1-onboarding-welcome-header = Velkommen til { -brand-short-name }
 mr1-onboarding-set-default-pin-primary-button-label = Gør { -brand-short-name } til min foretrukne browser
     .title = Sætter { -brand-short-name } som standard-browser og fastgør den til proceslinjen
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
 mr1-onboarding-set-default-only-primary-button-label = Gør { -brand-short-name } til min standard-browser
 mr1-onboarding-set-default-secondary-button-label = Ikke nu
 mr1-onboarding-sign-in-button-label = Log ind
+
+## Title, subtitle and primary button string used on set default onboarding screen
+## when Firefox is not default browser
+
+mr1-onboarding-default-primary-button-label = Angiv som standard-browser
+
+## Multistage MR1 onboarding strings (about:welcome pages)
+
 mr1-onboarding-import-header = Tag det hele med dig
 mr1-onboarding-import-subtitle = Importer dine adgangskoder, <br/>bogmærker med mere.
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
