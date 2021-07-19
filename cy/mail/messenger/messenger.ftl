@@ -26,9 +26,6 @@ content-tab-security-broken-icon =
 
 ## Toolbar
 
-addons-and-themes-button =
-    .label = Ychwanegion a Themâu
-    .tooltip = Rheoli eich ychwanegion
 addons-and-themes-toolbarbutton =
     .label = Ychwanegion a Themâu
     .tooltiptext = Rheoli eich ychwanegion
@@ -134,3 +131,9 @@ caret-browsing-prompt-check-text = Peidio a gofyn eto.
 repair-text-encoding-button =
     .label = Trwsio Amgodio Testun
     .tooltiptext = Dyfalu'r amgodiad testun cywir o gynnwys y neges
+
+## no-reply handling
+
+no-reply-title = Nid yw Ateb yn cael ei Gefnogi
+no-reply-message = Nid yw'n ymddangos bod y cyfeiriad ateb ({ $email }) yn gyfeiriad wedi'i fonitro. Mae'n bosib na fydd unrhyw un yn darllen negeseuon i'r cyfeiriad hwn.
+no-reply-reply-anyway-button = Ateb Beth Bynnag
