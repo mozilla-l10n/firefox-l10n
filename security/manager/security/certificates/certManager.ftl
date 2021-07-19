@@ -217,6 +217,8 @@ cert-not-verified-unknown = Impussibel da verifitgar quest certificat per motivs
 send-no-client-certificate = Na trametter nagin certificat da client
 # Used when no cert is stored for an override
 no-cert-stored-for-override = (Betg memorisà)
+# When a certificate is unavailable (for example, it has been deleted or the token it exists on has been removed).
+certificate-not-available = (betg disponibel)
 
 ## Used to show whether an override is temporary or permanent
 
