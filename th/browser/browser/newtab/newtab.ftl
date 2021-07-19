@@ -39,7 +39,6 @@ newtab-search-box-search-the-web-input =
     .placeholder = ค้นหาเว็บ
     .title = ค้นหาเว็บ
     .aria-label = ค้นหาเว็บ
-newtab-search-box-text = ค้นหาเว็บ
 newtab-search-box-input =
     .placeholder = ค้นหาเว็บ
     .aria-label = ค้นหาเว็บ
