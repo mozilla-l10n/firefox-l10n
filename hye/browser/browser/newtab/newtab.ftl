@@ -23,7 +23,6 @@ newtab-search-box-search-the-web-input =
     .placeholder = Որոնել առցանց
     .title = Որոնել առցանց
     .aria-label = Որոնել առցանց
-newtab-search-box-text = Որոնել առցանց
 newtab-search-box-input =
     .placeholder = Որոնել առցանց
     .aria-label = Որոնել առցանց
