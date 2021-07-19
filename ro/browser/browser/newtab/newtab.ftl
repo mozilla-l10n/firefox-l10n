@@ -11,6 +11,9 @@ newtab-settings-button =
 newtab-personalize-button-label = Personalizează
     .title = Personalizează pagina pentru filă nouă
     .aria-label = Personalizează pagina pentru filă nouă
+newtab-personalize-icon-label =
+    .title = Personalizează pagina pentru filă nouă
+    .aria-label = Personalizează pagina pentru filă nouă
 newtab-personalize-dialog-label =
     .aria-label = Personalizează
 
