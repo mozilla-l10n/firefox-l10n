@@ -11,6 +11,9 @@ newtab-settings-button =
 newtab-personalize-button-label = Personalizar
     .title = personalizar lapela nova
     .aria-label = personalizar lapela nova
+newtab-personalize-icon-label =
+    .title = personalizar lapela nova
+    .aria-label = personalizar lapela nova
 newtab-personalize-dialog-label =
     .aria-label = Personalizar
 
