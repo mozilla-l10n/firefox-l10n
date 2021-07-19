@@ -11,6 +11,9 @@ newtab-settings-button =
 newtab-personalize-button-label = Tinkinti
     .title = Tinkinti naują kortelę
     .aria-label = Tinkinti naują kortelę
+newtab-personalize-icon-label =
+    .title = Tinkinti naują kortelę
+    .aria-label = Tinkinti naują kortelę
 newtab-personalize-dialog-label =
     .aria-label = Tinkinti
 
