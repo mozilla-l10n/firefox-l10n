@@ -11,6 +11,9 @@ newtab-settings-button =
 newtab-personalize-button-label = Sagen
     .title = Sagen iccer amaynut
     .aria-label = Sagen iccer amaynut
+newtab-personalize-icon-label =
+    .title = Sagen iccer amaynut
+    .aria-label = Sagen iccer amaynut
 newtab-personalize-dialog-label =
     .aria-label = Sagen
 
