@@ -21,9 +21,6 @@ content-tab-security-broken-icon =
 
 ## Toolbar
 
-addons-and-themes-button =
-    .label = 扩展和主题
-    .tooltip = 管理您的附加组件
 addons-and-themes-toolbarbutton =
     .label = 扩展和主题
     .tooltiptext = 管理您的附加组件
@@ -129,3 +126,8 @@ caret-browsing-prompt-check-text = 不再询问。
 repair-text-encoding-button =
     .label = 修复文字编码
     .tooltiptext = 根据消息内容猜测正确的文字编码
+
+## no-reply handling
+
+no-reply-title = 不支持回复
+no-reply-reply-anyway-button = 仍然回复
