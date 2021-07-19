@@ -11,6 +11,9 @@ newtab-settings-button =
 newtab-personalize-button-label = Personaliseren
     .title = Nieuw tabblad personaliseren
     .aria-label = Nieuw tabblad personaliseren
+newtab-personalize-icon-label =
+    .title = Nieuw tabblad personaliseren
+    .aria-label = Nieuw tabblad personaliseren
 newtab-personalize-dialog-label =
     .aria-label = Personaliseren
 
