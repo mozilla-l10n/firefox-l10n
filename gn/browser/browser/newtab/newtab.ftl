@@ -39,7 +39,6 @@ newtab-search-box-search-the-web-input =
     .placeholder = Ñandutivevépe Jeheka
     .title = Ñandutivevépe Jeheka
     .aria-label = Ñandutivevépe Jeheka
-newtab-search-box-text = Eheka ñandutípe
 newtab-search-box-input =
     .placeholder = Eheka ñandutípe
     .aria-label = Eheka ñandutípe
