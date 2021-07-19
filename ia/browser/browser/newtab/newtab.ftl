@@ -11,6 +11,9 @@ newtab-settings-button =
 newtab-personalize-button-label = Personalisar
     .title = Personalisar nove scheda
     .aria-label = Personalisar nove scheda
+newtab-personalize-icon-label =
+    .title = Personalisar nove scheda
+    .aria-label = Personalisar nove scheda
 newtab-personalize-dialog-label =
     .aria-label = Personalisar
 
@@ -39,7 +42,6 @@ newtab-search-box-search-the-web-input =
     .placeholder = Cercar in le Web
     .title = Cercar in le Web
     .aria-label = Cercar in le Web
-newtab-search-box-text = Cercar in le Web
 newtab-search-box-input =
     .placeholder = Cercar in le Web
     .aria-label = Cercar in le Web
