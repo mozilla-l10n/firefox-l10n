@@ -11,6 +11,9 @@ newtab-settings-button =
 newtab-personalize-button-label = Personalizěrowaś
     .title = Nowy rejtarik personalizěrowaś
     .aria-label = Nowy rejtarik personalizěrowaś
+newtab-personalize-icon-label =
+    .title = Nowy rejtarik personalizěrowaś
+    .aria-label = Nowy rejtarik personalizěrowaś
 newtab-personalize-dialog-label =
     .aria-label = Personalizěrowaś
 
