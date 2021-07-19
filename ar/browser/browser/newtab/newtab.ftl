@@ -37,7 +37,6 @@ newtab-search-box-search-the-web-input =
     .placeholder = ابحث في الوِب
     .title = ابحث في الوِب
     .aria-label = ابحث في الوِب
-newtab-search-box-text = ابحث في الوِب
 newtab-search-box-input =
     .placeholder = ابحث في الوِب
     .aria-label = ابحث في الوِب
