@@ -39,7 +39,6 @@ newtab-search-box-search-the-web-input =
     .placeholder = Chwilio'r We
     .title = Chwilio'r We
     .aria-label = Chwilio'r We
-newtab-search-box-text = Chwilio'r we
 newtab-search-box-input =
     .placeholder = Chwilio'r we
     .aria-label = Chwilio'r we
