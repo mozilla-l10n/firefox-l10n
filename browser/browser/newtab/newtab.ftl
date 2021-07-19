@@ -11,6 +11,9 @@ newtab-settings-button =
 newtab-personalize-button-label = Personalizować
     .title = Nowy rajtark personalizować
     .aria-label = Nowy rajtark personalizować
+newtab-personalize-icon-label =
+    .title = Nowy rajtark personalizować
+    .aria-label = Nowy rajtark personalizować
 newtab-personalize-dialog-label =
     .aria-label = Personalizować
 
@@ -39,7 +42,6 @@ newtab-search-box-search-the-web-input =
     .placeholder = Web přepytać
     .title = Web přepytać
     .aria-label = Web přepytać
-newtab-search-box-text = Web přepytać
 newtab-search-box-input =
     .placeholder = Web přepytać
     .aria-label = Web přepytać
