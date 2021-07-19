@@ -217,6 +217,8 @@ cert-not-verified-unknown = Верифікація сертифіката нем
 send-no-client-certificate = Не надсилати сертифікат клієнта
 # Used when no cert is stored for an override
 no-cert-stored-for-override = (Не збережено)
+# When a certificate is unavailable (for example, it has been deleted or the token it exists on has been removed).
+certificate-not-available = (Недоступно)
 
 ## Used to show whether an override is temporary or permanent
 
