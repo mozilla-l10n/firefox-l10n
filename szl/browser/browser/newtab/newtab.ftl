@@ -11,6 +11,9 @@ newtab-settings-button =
 newtab-personalize-button-label = Napasuj
     .title = Napasuj nowo karta
     .aria-label = Napasuj nowo karta
+newtab-personalize-icon-label =
+    .title = Napasuj nowo karta
+    .aria-label = Napasuj nowo karta
 
 ## Search box component.
 
@@ -37,7 +40,6 @@ newtab-search-box-search-the-web-input =
     .placeholder = Szukej w internecie
     .title = Szukej w internecie
     .aria-label = Szukej w internecie
-newtab-search-box-text = Szukej w internecie
 newtab-search-box-input =
     .placeholder = Szukej w internecie
     .aria-label = Szukej w internecie
