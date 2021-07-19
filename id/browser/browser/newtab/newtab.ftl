@@ -11,6 +11,9 @@ newtab-settings-button =
 newtab-personalize-button-label = Personalisasikan
     .title = Personalisasikan tab baru
     .aria-label = Personalisasikan tab baru
+newtab-personalize-icon-label =
+    .title = Personalisasikan tab baru
+    .aria-label = Personalisasikan tab baru
 newtab-personalize-dialog-label =
     .aria-label = Personalisasikan
 
