@@ -48,3 +48,4 @@
         [loc] Firefox Profileru
         [ins] Firefox Profilerom
     }
+-translations-brand-name = Firefox Translations
