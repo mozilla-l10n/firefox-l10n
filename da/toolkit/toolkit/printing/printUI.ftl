@@ -48,6 +48,22 @@ printui-options = Indstillinger
 printui-headers-footers-checkbox = Print sidehoveder og sidefødder
 printui-backgrounds-checkbox = Udskriv baggrunde
 printui-selection-checkbox = Udskriv kun det markerede
+
+## The "Format" section, select a version of the website to print. Radio
+## options to select between the original page, selected text only, or a version
+## where the page is processed with "Reader View".
+
+# The section title.
+printui-source-label = Format
+# Option for printing the original page.
+printui-source-radio = Original
+# Option for printing just the content a user selected prior to printing.
+printui-selection-radio = Markering
+# Option for "simplifying" the page by printing the Reader View version.
+printui-simplify-page-radio = Forenklet
+
+##
+
 printui-color-mode-label = Farvetilstand
 printui-color-mode-color = Farve
 printui-color-mode-bw = Sort-hvid
