@@ -39,7 +39,6 @@ newtab-search-box-search-the-web-input =
     .placeholder = חיפוש ברשת
     .title = חיפוש ברשת
     .aria-label = חיפוש ברשת
-newtab-search-box-text = חיפוש ברשת
 newtab-search-box-input =
     .placeholder = חיפוש ברשת
     .aria-label = חיפוש ברשת
