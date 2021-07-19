@@ -39,7 +39,6 @@ newtab-search-box-search-the-web-input =
     .placeholder = Αναζήτηση στο διαδίκτυο
     .title = Αναζήτηση στο διαδίκτυο
     .aria-label = Αναζήτηση στο διαδίκτυο
-newtab-search-box-text = Αναζήτηση στο διαδίκτυο
 newtab-search-box-input =
     .placeholder = Αναζήτηση στο διαδίκτυο
     .aria-label = Αναζήτηση στο διαδίκτυο
