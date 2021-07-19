@@ -254,6 +254,7 @@ confirm-browser-language-change-button = Aplicar y reiniciar
 translate-web-pages =
     .label = Traducir contenido web
     .accesskey = T
+fx-translate-web-pages = { -translations-brand-name }
 # The <img> element is replaced by the logo of the provider
 # used to provide machine translations for web pages.
 translate-attribution = Traducciones por <img data-l10n-name="logo"/>
@@ -1113,6 +1114,12 @@ permissions-block-popups =
 permissions-block-popups-exceptions =
     .label = Excepciones…
     .accesskey = E
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button =
+    .label = Excepciones…
+    .accesskey = E
+    .searchkeywords = emergentes
 permissions-addon-install-warning =
     .label = Avisar cuando sitios web traten de instalar complementos
     .accesskey = v
