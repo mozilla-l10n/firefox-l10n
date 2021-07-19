@@ -7,3 +7,4 @@ thunderbird-import-name = Thunderbird
 # Description of the import module
 thunderbird-import-description = E-mail z profilowego zarědnika Thunderbird importěrowaś
 import-select-profile-dir-or-zip = Wubjeŕśo profilowy zarědnik abo skompriměrowany profilowy zarědnik
+import-select-profile-zip = Wubjeŕśo skompriměrowany profilowy zapis
