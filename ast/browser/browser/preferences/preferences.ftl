@@ -179,6 +179,9 @@ warn-on-open-many-tabs =
 switch-links-to-new-tabs =
     .label = Cuando abra un enllaz nuna llingüeta, dir pa ella darréu
     .accesskey = d
+switch-to-new-tabs =
+    .label = Al abrir un enllaz, ficheru u otru tipu de conteníu nuna llingüeta nueva, dir pa ella darréu
+    .accesskey = r
 show-tabs-in-taskbar =
     .label = Amosar la previsualización de llingüetes na barra de xeres de Windows
     .accesskey = x
@@ -1109,6 +1112,8 @@ collection-backlogged-crash-reports =
     .label = Permtir a { -brand-short-name } qu'unvie por ti los informes de casques acumulaos
     .accesskey = c
 collection-backlogged-crash-reports-link = Lleer más
+collection-backlogged-crash-reports-with-link = Permtir a { -brand-short-name } qu'unvie por ti los informes de casques acumulaos <a data-l10n-name="crash-reports-link">Llleer más</a>
+    .accesskey = c
 
 ## Privacy Section - Security
 ##
