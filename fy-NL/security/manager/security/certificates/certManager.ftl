@@ -217,6 +217,8 @@ cert-not-verified-unknown = Dit sertifikaat koe om ûnbekende redenen net ferifi
 send-no-client-certificate = Gjin clientsertifikaat ferstjoere
 # Used when no cert is stored for an override
 no-cert-stored-for-override = (Net bewarre)
+# When a certificate is unavailable (for example, it has been deleted or the token it exists on has been removed).
+certificate-not-available = (Net beskikber)
 
 ## Used to show whether an override is temporary or permanent
 
