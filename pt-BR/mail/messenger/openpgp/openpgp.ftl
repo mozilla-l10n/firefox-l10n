@@ -607,6 +607,12 @@ no-temp-dir =
 possibly-pgp-mime = Mensagem possivelmente criptografada ou assinada por PGP/MIME. Use a função 'Descriptografar/Verificar' para verificar
 cannot-send-sig-because-no-own-key = Não é possível assinar digitalmente esta mensagem, porque você ainda não configurou a criptografia de ponta a ponta de <{ $key }>
 cannot-send-enc-because-no-own-key = Não é possível enviar esta mensagem criptografada, porque você ainda não configurou a criptografia de ponta a ponta de <{ $key }>
+compose-menu-attach-key =
+    .label = Anexar minha chave pública
+    .accesskey = A
+compose-menu-encrypt-subject =
+    .label = Criptografia de assunto
+    .accesskey = s
 # Strings used in decryption.jsm
 do-import-multiple =
     Importar as seguintes chaves?

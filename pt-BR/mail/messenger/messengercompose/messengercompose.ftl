@@ -8,9 +8,6 @@
 #   $type (String) - the type of the addressing row
 remove-address-row-type = Remover o campo { $type }
 #   $type (String) - the type of the addressing row
-remove-address-row-type-label =
-    .tooltiptext = Remover o campo { $type }
-#   $type (String) - the type of the addressing row
 remove-address-row-button =
     .title = Remover o campo { $type }
 #   $type (String) - the type of the addressing row
@@ -172,3 +169,11 @@ many-public-recipients-ignore =
 compose-missing-identity-warning = Não foi encontrada uma identidade única correspondente ao endereço do remetente. A mensagem será enviada usando o campo De atual e as configurações da identidade { $identity }.
 encrypted-bcc-warning = Ao enviar uma mensagem criptografada, destinatários em Cco não ficam totalmente ocultos. Todos os destinatários podem conseguir identificá-los.
 encrypted-bcc-ignore-button = Entendido
+
+## Editing
+
+
+# Tools
+
+compose-tool-button-remove-text-styling =
+    .tooltiptext = Remover estilo de texto
