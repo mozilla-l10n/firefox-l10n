@@ -11,11 +11,13 @@ unread-messages-os-tooltip =
     }
 about-rights-notification-text = { -brand-short-name } es un software gratuite e open-source, producite per un communitate de milles de tote le mundo.
 
+## Content tabs
+
+content-tab-security-broken-icon =
+    .alt = Le connexion non es secur
+
 ## Toolbar
 
-addons-and-themes-button =
-    .label = Additivos e themas
-    .tooltip = Gerer additivos e themas
 redirect-msg-button =
     .label = Re-diriger
     .tooltiptext = Re-dirige le message seligite
@@ -115,3 +117,6 @@ caret-browsing-prompt-check-text = Non plus demandar.
 repair-text-encoding-button =
     .label = Corriger le codification del texto:
     .tooltiptext = Divina le correcte codification del texto ab le contento del message
+
+## no-reply handling
+

@@ -8,6 +8,7 @@ account-setup-tab-title = Configuration de conto
 
 account-setup-title = Configura tu adresse email existente
 account-setup-description = Pro usar tu actual e-mail adresse plena tu credentiales.<br/>¶ { -brand-product-name } automaticamente cercara un configuration del servitor functionante e recommendate.
+account-setup-success-title = Conto create con successo
 
 ## Form fields
 
@@ -96,11 +97,14 @@ account-setup-step3-image =
     .title = Configuration trovate
 account-setup-step4-image =
     .title = Error de connexion
-account-setup-privacy-footnote = Tu credentiales essera usate in accordo a nostre <a data-l10n-name="privacy-policy-link">politica de confidentialitate</a> e essera solo immagazinate localmente sur tu computator.
+account-setup-step5-image =
+    .title = Conto create.
 account-setup-selection-help = Non es tu secur de que seliger?
 account-setup-selection-error = Require tu adjuta?
 account-setup-documentation-help = Installation de documentation
 account-setup-forum-help = Foro de supporto
+account-setup-privacy-help = Politica de confidentialitate
+account-setup-getting-started = Prime passos
 
 ## Results area
 
@@ -119,7 +123,6 @@ account-setup-result-pop = POP3
 account-setup-result-pop-description = Mantene tu plicas e e-mails sur tu computator
 # Note: Exchange is the name of a product.
 account-setup-result-exchange = Excambiar
-account-setup-result-exchange-description = Microsoft Exchange Server
 account-setup-incoming-title = Entrante
 account-setup-outgoing-title = Exiente
 account-setup-username-title = Nomine de usator
@@ -209,3 +212,37 @@ account-setup-confirm-advanced-description = Iste fenestra de dialogo sera claud
 account-setup-addon-install-title = Installar
 account-setup-addon-install-intro = Un additivo tertie pote permitter le accesso a tu conto de e-mail sur iste servitor:
 account-setup-addon-no-protocol = Iste servitor de email infelicemente non supporta protocollos aperte { account-setup-addon-install-intro }
+
+## Success view
+
+account-setup-settings-button = Parametros de conto
+account-setup-encryption-button = Cryptation end-to-end
+account-setup-dictionaries-button = Discargar dictionarios
+account-setup-calendar-button = Connecter a un agenda remote
+account-setup-linked-services-title = Connecte tu servicios ligate
+account-setup-button-finish = Finir
+    .accesskey = F
+account-setup-address-books-button = Libros de adresses
+account-setup-calendars-button = Agendas
+account-setup-connect-link = Connecter
+account-setup-connect-all-address-books = Connecter tote le libros del adresses
+
+## Calendar synchronization dialog
+
+calendar-dialog-title = Connecter agenda
+calendar-dialog-cancel-button = Cancellar
+    .accesskey = C
+calendar-dialog-confirm-button = Connecter
+    .accesskey = n
+account-setup-calendar-name-label = Nomine
+account-setup-calendar-name-input =
+    .placeholder = Mi agenda
+account-setup-calendar-color-label = Color
+account-setup-calendar-refresh-label = Actualisar
+account-setup-calendar-refresh-manual = Manualmente
+account-setup-calendar-read-only = Lectura solmente
+    .accesskey = L
+account-setup-calendar-show-reminders = Monstrar mementos
+    .accesskey = M
+account-setup-calendar-offline-support = Supporto non in linea
+    .accesskey = n

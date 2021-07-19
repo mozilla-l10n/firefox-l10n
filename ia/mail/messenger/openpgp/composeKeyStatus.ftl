@@ -14,3 +14,4 @@ openpgp-compose-key-status-open-details = Gerer claves pro le destinatario selig
 openpgp-recip-good = ok
 openpgp-recip-missing = nulle clave disponibile
 openpgp-recip-none-accepted = nulle clave acceptate
+openpgp-compose-general-info-alias-learn-more = Pro saper plus

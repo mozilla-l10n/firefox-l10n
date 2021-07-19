@@ -502,6 +502,8 @@
 <!ENTITY deleteJunk.accesskey "D">
 <!ENTITY importCmd.label "Importation…">
 <!ENTITY importCmd.accesskey "m">
+<!ENTITY exportCmd.label "Exportar…">
+<!ENTITY exportCmd.accesskey "x">
 <!ENTITY clearRecentHistory.label "Vacuar le chronologia recente…">
 <!ENTITY clearRecentHistory.accesskey "c">
 <!ENTITY accountManagerCmd2.label "Parametros de contos">
