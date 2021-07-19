@@ -11,6 +11,9 @@ newtab-settings-button =
 newtab-personalize-button-label = شخصی‌سازی
     .title = شحصی‌سازی زبانهٔ جدید
     .aria-label = شحصی‌سازی زبانهٔ جدید
+newtab-personalize-icon-label =
+    .title = شحصی‌سازی زبانهٔ جدید
+    .aria-label = شحصی‌سازی زبانهٔ جدید
 newtab-personalize-dialog-label =
     .aria-label = شخصی‌سازی
 
