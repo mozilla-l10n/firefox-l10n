@@ -242,6 +242,7 @@ confirm-browser-language-change-button = 적용하고 다시 시작
 translate-web-pages =
     .label = 웹 콘텐츠 번역하기
     .accesskey = T
+fx-translate-web-pages = { -translations-brand-name }
 # The <img> element is replaced by the logo of the provider
 # used to provide machine translations for web pages.
 translate-attribution = 번역:  <img data-l10n-name="logo"/>
