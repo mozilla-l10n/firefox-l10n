@@ -8,3 +8,4 @@ export-dialog-window =
 export-dialog =
     .buttonlabelaccept = Sequente
 export-dialog-button-finish = Finir
+export-dialog-exported = Exportate

@@ -217,6 +217,7 @@ account-setup-addon-no-protocol = Iste servitor de email infelicemente non suppo
 
 account-setup-settings-button = Parametros de conto
 account-setup-encryption-button = Cryptation end-to-end
+account-setup-signature-button = Adder un firma
 account-setup-dictionaries-button = Discargar dictionarios
 account-setup-calendar-button = Connecter a un agenda remote
 account-setup-linked-services-title = Connecte tu servicios ligate
@@ -225,6 +226,11 @@ account-setup-button-finish = Finir
 account-setup-address-books-button = Libros de adresses
 account-setup-calendars-button = Agendas
 account-setup-connect-link = Connecter
+account-setup-existing-address-book = Connectite
+    .title = Libro de adresses jam connectite
+account-setup-existing-calendar = Connectite
+    .title = Agenda jam connectite
+account-setup-connect-all-calendars = Connecter tote le agendas
 account-setup-connect-all-address-books = Connecter tote le libros del adresses
 
 ## Calendar synchronization dialog
@@ -240,6 +246,11 @@ account-setup-calendar-name-input =
 account-setup-calendar-color-label = Color
 account-setup-calendar-refresh-label = Actualisar
 account-setup-calendar-refresh-manual = Manualmente
+account-setup-calendar-refresh-interval =
+    { $count ->
+        [one] Cata minuta
+       *[other] Cata { $count } minutas
+    }
 account-setup-calendar-read-only = Lectura solmente
     .accesskey = L
 account-setup-calendar-show-reminders = Monstrar mementos
