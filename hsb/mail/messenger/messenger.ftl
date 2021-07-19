@@ -24,9 +24,6 @@ content-tab-security-broken-icon =
 
 ## Toolbar
 
-addons-and-themes-button =
-    .label = Přidatki a drasty
-    .tooltip = Waše přidatki rjadować
 addons-and-themes-toolbarbutton =
     .label = Přidatki a drasty
     .tooltiptext = Waše přidatki rjadować
@@ -132,3 +129,8 @@ caret-browsing-prompt-check-text = Hižo so njeprašeć.
 repair-text-encoding-button =
     .label = Tekstowe kodowanje reparować
     .tooltiptext = Korektne tekstowe kondowanje za wobsaha powěsće wuhódać
+
+## no-reply handling
+
+no-reply-title = Wotmołwa so njepodpěruje
+no-reply-reply-anyway-button = Najebać toho wotmołwić

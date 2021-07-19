@@ -623,6 +623,12 @@ no-temp-dir =
 possibly-pgp-mime = Powěsć je snano z PGP/MIME zaklučowana abo signowana; wužiwajće funkciju ‚Dešifrować/Přepruwować‘, zo byšće to přepruwował
 cannot-send-sig-because-no-own-key = Tuta powěsć njeda so digitalnje signować, dokelž hišće njejsće zaklučowanje kónc do kónca za <{ $key }> konfigurował
 cannot-send-enc-because-no-own-key = Tuta powěsć njeda so zaklučowana pósłać, dokelž hišće njejsće zaklučowanje kónc do kónca za <{ $key }> konfigurował
+compose-menu-attach-key =
+    .label = Mój zjawny kluč připowěsnyć
+    .accesskey = l
+compose-menu-encrypt-subject =
+    .label = Zaklučowanje temy
+    .accesskey = t
 # Strings used in decryption.jsm
 do-import-multiple =
     Slědowace kluče importować?
