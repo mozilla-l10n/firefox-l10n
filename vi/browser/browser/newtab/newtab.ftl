@@ -11,6 +11,9 @@ newtab-settings-button =
 newtab-personalize-button-label = Cá nhân hóa
     .title = Cá nhân hóa thẻ mới
     .aria-label = Cá nhân hóa thẻ mới
+newtab-personalize-icon-label =
+    .title = Cá nhân hóa thẻ mới
+    .aria-label = Cá nhân hóa thẻ mới
 newtab-personalize-dialog-label =
     .aria-label = Cá nhân hóa
 
@@ -39,7 +42,6 @@ newtab-search-box-search-the-web-input =
     .placeholder = Tìm trên mạng
     .title = Tìm trên mạng
     .aria-label = Tìm trên mạng
-newtab-search-box-text = Tìm kiếm trên mạng
 newtab-search-box-input =
     .placeholder = Tìm kiếm trên mạng
     .aria-label = Tìm kiếm trên mạng
