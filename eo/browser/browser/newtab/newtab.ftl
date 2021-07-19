@@ -11,6 +11,9 @@ newtab-settings-button =
 newtab-personalize-button-label = Personcecigi
     .title = Personecigi novan langeton
     .aria-label = Personecigi novan langeton
+newtab-personalize-icon-label =
+    .title = Personecigi novan langeton
+    .aria-label = Personecigi novan langeton
 newtab-personalize-dialog-label =
     .aria-label = Personcecigi
 
