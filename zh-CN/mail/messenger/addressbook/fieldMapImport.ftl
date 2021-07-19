@@ -4,3 +4,6 @@
 
 import-ab-csv-window =
     .title = 从文本文件导入通讯录
+import-ab-csv-dialog =
+    .buttonlabelaccept = 导入
+    .buttonaccesskeyaccept = I
