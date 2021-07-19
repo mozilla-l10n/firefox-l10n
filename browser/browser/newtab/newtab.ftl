@@ -11,6 +11,9 @@ newtab-settings-button =
 newtab-personalize-button-label = Personalizar
     .title = Personalizacion de la pagina onglet novèl
     .aria-label = Personalizacion de la pagina onglet novèl
+newtab-personalize-icon-label =
+    .title = Personalizacion de la pagina onglet novèl
+    .aria-label = Personalizacion de la pagina onglet novèl
 newtab-personalize-dialog-label =
     .aria-label = Personalizar
 
@@ -39,7 +42,6 @@ newtab-search-box-search-the-web-input =
     .placeholder = Recèrca sul web
     .title = Recèrca sul web
     .aria-label = Recèrca sul web
-newtab-search-box-text = Recercar sul web
 newtab-search-box-input =
     .placeholder = Recercar sul web
     .aria-label = Recercar sul web
