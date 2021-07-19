@@ -381,6 +381,7 @@ fission-status-disabled-by-default = Disactivate per predefinition
 fission-status-enabled-by-user-pref = Activate per le usator
 fission-status-disabled-by-user-pref = Disactivate per le usator
 fission-status-disabled-by-e10s-other = E10s disactivate
+fission-status-enabled-by-rollout = Activate per implementation gradual
 async-pan-zoom = Pan/Zoom asynchrone
 apz-none = nulle
 wheel-enabled = entrata a rota activate
