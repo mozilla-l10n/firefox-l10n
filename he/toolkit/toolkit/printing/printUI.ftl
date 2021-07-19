@@ -44,6 +44,18 @@ printui-options = אפשרויות
 printui-headers-footers-checkbox = הדפסת כותרות עיליות ותחתיות
 printui-backgrounds-checkbox = הדפסת רקעים
 printui-selection-checkbox = הדפסת הקטע הנבחר בלבד
+
+## The "Format" section, select a version of the website to print. Radio
+## options to select between the original page, selected text only, or a version
+## where the page is processed with "Reader View".
+
+# Option for printing the original page.
+printui-source-radio = מקורי
+# Option for "simplifying" the page by printing the Reader View version.
+printui-simplify-page-radio = מפושט
+
+##
+
 printui-color-mode-label = מצב צבע
 printui-color-mode-color = צבע
 printui-color-mode-bw = שחור ולבן

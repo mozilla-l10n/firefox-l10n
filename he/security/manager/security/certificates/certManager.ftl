@@ -215,6 +215,8 @@ cert-not-verified_algorithm-disabled = לא ניתן לאמת את אישור ה
 cert-not-verified-unknown = לא ניתן לאמת אישור זה מסיבות לא מוכרות.
 # Used when no cert is stored for an override
 no-cert-stored-for-override = (לא מאוחסן)
+# When a certificate is unavailable (for example, it has been deleted or the token it exists on has been removed).
+certificate-not-available = (לא זמין)
 
 ## Used to show whether an override is temporary or permanent
 
