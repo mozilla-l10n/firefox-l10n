@@ -8,6 +8,7 @@
 ##
 
 process-type-web = Web-indhold
+process-type-browser = Primær
 # process used to run privileged about pages,
 # such as about:home
 process-type-privilegedabout = Priviligerede About-sider
@@ -30,6 +31,8 @@ process-type-prealloc = Forhånds-allokeret
 ## Localization for Gecko process types defined in GeckoProcessTypes.h
 ##
 
+process-type-default = Primær
+process-type-tab = Faneblad
 # process used to communicate with the GPU for
 # graphics acceleration
 process-type-gpu = GPU
