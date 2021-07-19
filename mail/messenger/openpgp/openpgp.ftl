@@ -607,6 +607,12 @@ no-temp-dir =
 possibly-pgp-mime = Mooglik PGP/MIME-fersifere of -ûndertekene berjocht; brûk de funksje ‘Untsiferje/Ferifiearje’ om te ferifiearjen
 cannot-send-sig-because-no-own-key = Kin dit berjocht net digitaal ûndertekenje, omdat jo noch gjin end-to-end-fersifering foar <{ $key }> konfigurearre hawwe
 cannot-send-enc-because-no-own-key = Kin dit berjocht net fersifere fersjoere, omdat jo noch gjin end-to-end-fersifering foar <{ $key }> konfigurearre hawwe
+compose-menu-attach-key =
+    .label = Foegje myn iepenbiere kaai ta
+    .accesskey = F
+compose-menu-encrypt-subject =
+    .label = Underwerpfersifering
+    .accesskey = f
 # Strings used in decryption.jsm
 do-import-multiple =
     De folgjende kaaien ymportearje?
