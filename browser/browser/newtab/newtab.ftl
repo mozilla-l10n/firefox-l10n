@@ -39,7 +39,6 @@ newtab-search-box-search-the-web-input =
     .placeholder = Das Web durchsuchen
     .title = Das Web durchsuchen
     .aria-label = Das Web durchsuchen
-newtab-search-box-text = Das Web durchsuchen
 newtab-search-box-input =
     .placeholder = Das Web durchsuchen
     .aria-label = Das Web durchsuchen
