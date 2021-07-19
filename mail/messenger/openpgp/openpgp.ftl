@@ -639,6 +639,12 @@ no-temp-dir =
 possibly-pgp-mime = Neges wedi'i hamgryptio neu wedi'i llofnodi gan PGP/MIME o bosibl; defnyddiwch swyddogaeth 'Dadgryptio/Gwirio' i wirio
 cannot-send-sig-because-no-own-key = Methu llofnodi'r neges hon yn ddigidol, oherwydd nid ydych eto wedi ffurfweddu amgryptio pen-i-ben ar gyfer <{ $key }>
 cannot-send-enc-because-no-own-key = Methu anfon y neges hon wedi'i hamgryptio, oherwydd nid ydych eto wedi ffurfweddu amgryptio pen-i-ben ar gyfer <{ $key }>
+compose-menu-attach-key =
+    .label = Atodi fy Allwedd Gyhoeddus
+    .accesskey = A
+compose-menu-encrypt-subject =
+    .label = Amgryptio Pwnc
+    .accesskey = A
 # Strings used in decryption.jsm
 do-import-multiple =
     Mewnforio'r allweddi canlynol?
