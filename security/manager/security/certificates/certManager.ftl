@@ -217,6 +217,8 @@ cert-not-verified-unknown = 無法驗證此憑證，原因不明。
 send-no-client-certificate = 並未傳送客戶端憑證
 # Used when no cert is stored for an override
 no-cert-stored-for-override = （未儲存）
+# When a certificate is unavailable (for example, it has been deleted or the token it exists on has been removed).
+certificate-not-available = （無法使用）
 
 ## Used to show whether an override is temporary or permanent
 
