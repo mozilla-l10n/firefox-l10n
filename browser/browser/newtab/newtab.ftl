@@ -11,6 +11,9 @@ newtab-settings-button =
 newtab-personalize-button-label = Прилагоди
     .title = Промените изглед нове картице
     .aria-label = Промените изглед нове картице
+newtab-personalize-icon-label =
+    .title = Промените изглед нове картице
+    .aria-label = Промените изглед нове картице
 newtab-personalize-dialog-label =
     .aria-label = Персонализација
 
