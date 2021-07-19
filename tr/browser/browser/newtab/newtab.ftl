@@ -11,6 +11,9 @@ newtab-settings-button =
 newtab-personalize-button-label = Kişiselleştir
     .title = Yeni sekmeyi kişiselleştir
     .aria-label = Yeni sekmeyi kişiselleştir
+newtab-personalize-icon-label =
+    .title = Yeni sekmeyi kişiselleştir
+    .aria-label = Yeni sekmeyi kişiselleştir
 newtab-personalize-dialog-label =
     .aria-label = Kişiselleştir
 
