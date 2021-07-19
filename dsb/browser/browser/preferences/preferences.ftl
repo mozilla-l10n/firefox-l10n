@@ -260,6 +260,7 @@ confirm-browser-language-change-button = Nałožyś a znowego startowaś
 translate-web-pages =
     .label = Webwopśimjeśe pśełožowaś
     .accesskey = W
+fx-translate-web-pages = { -translations-brand-name }
 # The <img> element is replaced by the logo of the provider
 # used to provide machine translations for web pages.
 translate-attribution = Pśełožki wót <img data-l10n-name="logo"/>
@@ -1121,6 +1122,12 @@ permissions-block-popups =
 permissions-block-popups-exceptions =
     .label = Wuwześa…
     .accesskey = W
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button =
+    .label = Wuwześa…
+    .accesskey = u
+    .searchkeywords = popup
 permissions-addon-install-warning =
     .label = Warnowaś, gaž sedła wopytuju dodanki instalěrowaś
     .accesskey = W
