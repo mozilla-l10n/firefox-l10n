@@ -11,6 +11,9 @@ newtab-settings-button =
 newtab-personalize-button-label = Gnàthaich
     .title = Gnàthaich an taba ùr
     .aria-label = Gnàthaich an taba ùr
+newtab-personalize-icon-label =
+    .title = Gnàthaich an taba ùr
+    .aria-label = Gnàthaich an taba ùr
 newtab-personalize-dialog-label =
     .aria-label = Gnàthaich
 
