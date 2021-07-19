@@ -254,6 +254,7 @@ confirm-browser-language-change-button = Applicar e reinitiar
 translate-web-pages =
     .label = Traducer le contento web
     .accesskey = T
+fx-translate-web-pages = { -translations-brand-name }
 # The <img> element is replaced by the logo of the provider
 # used to provide machine translations for web pages.
 translate-attribution = Traductiones per <img data-l10n-name="logo"/>
@@ -857,6 +858,8 @@ forms-primary-pw-change =
 forms-primary-pw-former-name = Formalmente note como contrasigno maestro
 forms-primary-pw-fips-title = Tu es actualmente in modo FIPS. Tal modo require un contrasigno primari non vacue.
 forms-master-pw-fips-desc = Le cambio de contrasigno ha fallite
+forms-windows-sso-learn-more-link = Saper plus
+forms-windows-sso-desc = Gerer contos in le parametros de tu apparato
 
 ## OS Authentication dialog
 
