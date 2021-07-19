@@ -254,6 +254,7 @@ confirm-browser-language-change-button = Genstart
 translate-web-pages =
     .label = Oversæt webindhold
     .accesskey = O
+fx-translate-web-pages = { -translations-brand-name }
 # The <img> element is replaced by the logo of the provider
 # used to provide machine translations for web pages.
 translate-attribution = Oversættelser af <img data-l10n-name="logo"/>
@@ -857,6 +858,9 @@ forms-primary-pw-change =
 forms-primary-pw-former-name = { "" }
 forms-primary-pw-fips-title = Du er i øjeblikket i FIPS-tilstand. FIPS kræver, at du bruger en hovedadgangskode.
 forms-master-pw-fips-desc = Ændring af adgangskode mislykkedes
+forms-windows-sso =
+    .label = Tillad Windows enkeltlogon for Microsoft-, arbejds- og skole-konti
+forms-windows-sso-learn-more-link = Læs mere
 
 ## OS Authentication dialog
 
@@ -1109,6 +1113,12 @@ permissions-block-popups =
 permissions-block-popups-exceptions =
     .label = Undtagelser…
     .accesskey = U
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button =
+    .label = Undtagelser
+    .accesskey = U
+    .searchkeywords = Pop op-vinduer
 permissions-addon-install-warning =
     .label = Advar mig når websteder forsøger at installere tilføjelser
     .accesskey = A
