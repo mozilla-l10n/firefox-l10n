@@ -4,5 +4,6 @@
 
 calendar-deactivated-notification-events = Tote le agendas es actualmente disactivate. Activa un agenda existente o adde uno nove pro crear e modificar eventos.
 calendar-deactivated-notification-tasks = Tote le agendas es actualmente disactivate. Activa un agenda existente o adde uno nove pro crear e modificar activitates.
+calendar-notifications-label = Monstrar le notificationes pro eventos eveniente
 calendar-add-notification-button =
     .label = Adder notification
