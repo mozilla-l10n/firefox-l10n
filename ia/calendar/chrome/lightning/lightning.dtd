@@ -48,6 +48,7 @@
 
 <!-- The notifications settings in the properties dialog -->
 <!ENTITY lightning.calendarproperties.notifications.label                   "Notificationes">
+<!ENTITY lightning.calendarproperties.globalNotifications.label             "Preferentias global de notification…">
 
 <!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.btnAccept.label                                  "Acceptar">

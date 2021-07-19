@@ -180,6 +180,7 @@ event-alarm-time-label =
 task-alarm-time-label =
     .value = Tempore predefinite que le memento es configurate ante un activitate:
     .accesskey = a
+calendar-notifications-customize-label = Le notificationes pote esser personalisate pro cata agenda in le fenestra de proprietates de agenda.
 category-new-label = Nove categoria
 category-edit-label = Rediger categoria
 category-overwrite-title = Attention: nomine duplicate
