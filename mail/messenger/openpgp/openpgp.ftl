@@ -607,6 +607,9 @@ no-temp-dir =
 possibly-pgp-mime = Posiblemente mensaje cifrado o firmado PGP / MIME; use la función 'Decrypt/Verify' para verificar
 cannot-send-sig-because-no-own-key = No se puede firmar digitalmente este mensaje porque todavía no configuró elcifrado de punta a punta para <{ $key }>
 cannot-send-enc-because-no-own-key = No se puede enviar este mensaje cifrado, porque todavía no configuró el cifrado de punta a punta  para <{ $key }>
+compose-menu-attach-key =
+    .label = Adjuntar mi clave pública
+    .accesskey = A
 # Strings used in decryption.jsm
 do-import-multiple =
     ¿Importar las siguientes claves?
