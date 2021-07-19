@@ -39,7 +39,6 @@ newtab-search-box-search-the-web-input =
     .placeholder = Serĉi en la teksaĵo
     .title = Serĉi en la teksaĵo
     .aria-label = Serĉi en la teksaĵo
-newtab-search-box-text = Serĉi en la reto
 newtab-search-box-input =
     .placeholder = Serĉi en la reto
     .aria-label = Serĉi en la reto
