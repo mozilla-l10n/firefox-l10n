@@ -8,9 +8,6 @@
 #   $type (String) - the type of the addressing row
 remove-address-row-type = It fjild { $type } fuortsmite
 #   $type (String) - the type of the addressing row
-remove-address-row-type-label =
-    .tooltiptext = It fjild { $type } fuortsmite
-#   $type (String) - the type of the addressing row
 remove-address-row-button =
     .title = It fjild { $type } fuortsmite
 #   $type (String) - the type of the addressing row
@@ -170,3 +167,11 @@ many-public-recipients-ignore =
 compose-missing-identity-warning = Der is gjin unike identiteit lyk oan it Fan-adres fûn. It berjocht sil ferstjoerd wurde mei it aktuele Fan-fjild en ynstellingen fan de identiteit fan { $identity }.
 encrypted-bcc-warning = As jo in fersifere berjocht ferstjoere, wurde ûntfangers yn Bcc net folslein ferstoppe. Alle ûntfangers kinne se mooglik identifisearje.
 encrypted-bcc-ignore-button = Begrepen
+
+## Editing
+
+
+# Tools
+
+compose-tool-button-remove-text-styling =
+    .tooltiptext = Tekststyl fuortsmite

@@ -102,7 +102,6 @@ account-setup-step3-image =
     .title = Konfiguraasje fûn
 account-setup-step4-image =
     .title = Ferbiningsflater
-account-setup-privacy-footnote = Jo oanmeldgegevens wurde brûkt yn oerienstimming mei ús <a data-l10n-name="privacy-policy-link">privacybelied</a> en wurde allinnich lokaal op jo kompjûter bewarre.
 account-setup-step5-image =
     .title = Account oanmakke
 account-setup-privacy-footnote2 = Jo oanmeldgegevens wurde allinnich lokaal op jo kompjûter bewarre.
@@ -131,7 +130,8 @@ account-setup-result-pop = POP3
 account-setup-result-pop-description = Hâld jo mappen en e-mailberjochten op jo kompjûter
 # Note: Exchange is the name of a product.
 account-setup-result-exchange = Exchange
-account-setup-result-exchange-description = Microsoft Exchange-server
+# Note: Exchange, Office365 are the name of products.
+account-setup-result-exchange2-description = Brûk de Microsoft Exchange-server of Office 365-cloudtsjinsten
 account-setup-incoming-title = Ynkommend
 account-setup-outgoing-title = Utgeand
 account-setup-username-title = Brûkersnamme
