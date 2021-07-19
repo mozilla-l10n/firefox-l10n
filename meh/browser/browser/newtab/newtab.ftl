@@ -25,7 +25,6 @@ newtab-search-box-search-the-web-input =
     .placeholder = Nánuku nuu Web
     .title = Nánuku nuu Web
     .aria-label = Nánuku nuu Web
-newtab-search-box-text = Nánuku nuu Web
 newtab-search-box-input =
     .placeholder = Nánuku nuu Web
     .aria-label = Nánuku nuu Web
