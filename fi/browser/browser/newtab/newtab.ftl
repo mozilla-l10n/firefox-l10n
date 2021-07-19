@@ -39,7 +39,6 @@ newtab-search-box-search-the-web-input =
     .placeholder = Verkkohaku
     .title = Verkkohaku
     .aria-label = Verkkohaku
-newtab-search-box-text = Verkkohaku
 newtab-search-box-input =
     .placeholder = Verkkohaku
     .aria-label = Verkkohaku
