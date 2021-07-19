@@ -8,6 +8,9 @@
 newtab-personalize-button-label = Անհատականացնել
     .title = Անհատականացնել նոր ներդիրը
     .aria-label = Անհատականացնել նոր ներդիրը
+newtab-personalize-icon-label =
+    .title = Անհատականացնել նոր ներդիրը
+    .aria-label = Անհատականացնել նոր ներդիրը
 
 ## Search box component.
 
@@ -71,4 +74,7 @@ newtab-personalize-button-label = Անհատականացնել
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
+
+
+## Customization Menu
 
