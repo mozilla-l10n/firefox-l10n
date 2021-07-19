@@ -11,6 +11,9 @@ newtab-settings-button =
 newtab-personalize-button-label = ਨਿੱਜੀ ਬਣਾਓ
     .title = ਨਵੀਂ ਟੈਬ ਨਿੱਜੀ ਬਣਾਓ
     .aria-label = ਨਵੀਂ ਟੈਬ ਨਿੱਜੀ ਬਣਾਓ
+newtab-personalize-icon-label =
+    .title = ਨਵੀਂ ਟੈਬ ਨਿੱਜੀ ਬਣਾਓ
+    .aria-label = ਨਵੀਂ ਟੈਬ ਨਿੱਜੀ ਬਣਾਓ
 newtab-personalize-dialog-label =
     .aria-label = ਆਪਣਾ ਬਣਾਓ
 
