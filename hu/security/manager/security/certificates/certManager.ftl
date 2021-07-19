@@ -217,6 +217,8 @@ cert-not-verified-unknown = A tanúsítvány ismeretlen okból ellenőrizhetetle
 send-no-client-certificate = Ne küldjön ügyféltanúsítványt
 # Used when no cert is stored for an override
 no-cert-stored-for-override = (nincs tárolva)
+# When a certificate is unavailable (for example, it has been deleted or the token it exists on has been removed).
+certificate-not-available = (Nem érhető el)
 
 ## Used to show whether an override is temporary or permanent
 
