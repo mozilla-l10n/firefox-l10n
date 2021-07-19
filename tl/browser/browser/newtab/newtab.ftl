@@ -11,6 +11,9 @@ newtab-settings-button =
 newtab-personalize-button-label = i-Personalize
     .title = i-Personalize ang bagong tab
     .aria-label = i-Personalize
+newtab-personalize-icon-label =
+    .title = i-Personalize ang bagong tab
+    .aria-label = i-Personalize
 newtab-personalize-dialog-label =
     .aria-label = i-Personalize
 
