@@ -20,7 +20,6 @@ newtab-search-box-search-the-web-input =
     .placeholder = वेब पर खोजें
     .title = वेब पर खोजें
     .aria-label = वेब पर खोजें
-newtab-search-box-text = वेब पर खोजें
 newtab-search-box-input =
     .placeholder = वेब पर खोजें
     .aria-label = वेब पर खोजें
