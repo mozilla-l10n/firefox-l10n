@@ -266,7 +266,7 @@ translate-exceptions =
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
-    .label = Folosește setările sistemului de operare în „{ $localeName }” pentru formatul datelor, orelor, numerelor și unități de măsură.
+    .label = Folosește setările sistemului de operare în „{ $localeName }” pentru formatul datelor, orelor, numerelor și unităților de măsură.
 check-user-spelling =
     .label = Verifică ortografia pe măsură ce tastez
     .accesskey = t
@@ -844,7 +844,7 @@ forms-primary-pw-former-name = Denumită anterior parolă generală
 forms-primary-pw-fips-title = Acum ești în modul FIPS. FIPS nu permite inexistența unei parole primare.
 forms-master-pw-fips-desc = Schimbarea parolei a eșuat
 forms-windows-sso =
-    .label = Permite conectarea unică Windows pentru conturile Microsoft, de la locul de muncă sau de la școală.
+    .label = Permite conectarea unică Windows pentru conturile Microsoft, de la locul de muncă sau de la școală
 forms-windows-sso-learn-more-link = Află mai multe
 forms-windows-sso-desc = Gestionează conturile în setările dispozitivului
 
