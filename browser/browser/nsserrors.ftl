@@ -15,8 +15,8 @@ ssl-connection-error = Asocedió un fallu na conexón a { $hostname }. { $errorM
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Códigu del fallu: { $error }
-ssl-error-bad-client = El sirvidor alcontró datos incorreutos del veceru.
-ssl-error-bad-server = El veceru alcontró datos incorreutos del sirvidor.
+ssl-error-bad-client = El sirvidor atopó datos incorreutos del veceru.
+ssl-error-bad-server = El veceru atopó datos incorreutos del sirvidor.
 ssl-error-generate-random-failure = SSL esperimentó un fallu del so xenerador de númberos al debalu.
 ssl-error-sign-hashes-failure = Nun ye posible roblar dixitalmente los datos riquíos pa verificar el to certificáu.
 sec-error-invalid-args = biblioteca de seguranza: los argumentos nun son válidos.
