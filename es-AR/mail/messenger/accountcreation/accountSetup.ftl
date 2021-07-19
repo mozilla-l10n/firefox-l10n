@@ -102,7 +102,6 @@ account-setup-step3-image =
     .title = Configuración encontrada
 account-setup-step4-image =
     .title = Error de conexión
-account-setup-privacy-footnote = Las credenciales se usarán de acuerdo con nuestra <a data-l10n-name="privacy-policy-link">política de privacidad</a> y solo se guardarán localmente en su computadora.
 account-setup-step5-image =
     .title = Cuenta creada
 account-setup-privacy-footnote2 = Sus credenciales solo se almacenarán localmente en su computadora.
@@ -131,7 +130,8 @@ account-setup-result-pop = POP3
 account-setup-result-pop-description = Mantener las carpetas y correos electrónicos en su computadora
 # Note: Exchange is the name of a product.
 account-setup-result-exchange = Exchange
-account-setup-result-exchange-description = Servidor de Microsoft Exchange
+# Note: Exchange, Office365 are the name of products.
+account-setup-result-exchange2-description = Usar el servidor de Microsoft Exchange o los servicios en la nube de Office365
 account-setup-incoming-title = Entrante
 account-setup-outgoing-title = Saliente
 account-setup-username-title = Nombre de usuario
