@@ -254,6 +254,7 @@ confirm-browser-language-change-button = Bruk og start på nytt
 translate-web-pages =
     .label = Omset webinnhald
     .accesskey = O
+fx-translate-web-pages = { -translations-brand-name }
 # The <img> element is replaced by the logo of the provider
 # used to provide machine translations for web pages.
 translate-attribution = Omsettingar av <img data-l10n-name="logo"/>
@@ -1113,6 +1114,12 @@ permissions-block-popups =
 permissions-block-popups-exceptions =
     .label = Unntak…
     .accesskey = U
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button =
+    .label = Unntak…
+    .accesskey = U
+    .searchkeywords = sprettoppvindauge
 permissions-addon-install-warning =
     .label = Åtvar meg når netsider vil installere tillegg
     .accesskey = Å
