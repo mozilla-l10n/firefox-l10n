@@ -8,9 +8,6 @@
 #   $type (String) - the type of the addressing row
 remove-address-row-type = Вилучити поле { $type }
 #   $type (String) - the type of the addressing row
-remove-address-row-type-label =
-    .tooltiptext = Вилучити поле { $type }
-#   $type (String) - the type of the addressing row
 remove-address-row-button =
     .title = Вилучити поле { $type }
 #   $type (String) - the type of the addressing row
@@ -178,3 +175,11 @@ many-public-recipients-ignore =
 compose-missing-identity-warning = Адреса електронної пошти, що відповідає полю "Від" не знайдена. Повідомлення буде надіслано з використанням поточного поля "Від" і налаштувань адреси електронної пошти { $identity }.
 encrypted-bcc-warning = Під час надсилання зашифрованого повідомлення одержувачі прихованих копій не повністю приховані. Усі одержувачі можуть їх ідентифікувати.
 encrypted-bcc-ignore-button = Зрозуміло
+
+## Editing
+
+
+# Tools
+
+compose-tool-button-remove-text-styling =
+    .tooltiptext = Вилучити стилі тексту
