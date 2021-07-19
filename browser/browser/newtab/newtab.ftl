@@ -11,6 +11,9 @@ newtab-settings-button =
 newtab-personalize-button-label = Персоналізувати
     .title = Персоналізувати нову вкладку
     .aria-label = Персоналізувати нову вкладку
+newtab-personalize-icon-label =
+    .title = Персоналізувати нову вкладку
+    .aria-label = Персоналізувати нову вкладку
 newtab-personalize-dialog-label =
     .aria-label = Персоналізувати
 
@@ -39,7 +42,6 @@ newtab-search-box-search-the-web-input =
     .placeholder = Пошук в Інтернеті
     .title = Пошук в Інтернеті
     .aria-label = Пошук в Інтернеті
-newtab-search-box-text = Пошук в Інтернеті
 newtab-search-box-input =
     .placeholder = Пошук в Інтернеті
     .aria-label = Пошук в Інтернеті
