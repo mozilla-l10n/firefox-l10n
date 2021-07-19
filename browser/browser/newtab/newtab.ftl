@@ -11,6 +11,9 @@ newtab-settings-button =
 newtab-personalize-button-label = Prilagodi
     .title = Prilagodite nov zavihek
     .aria-label = Prilagodite nov zacihek
+newtab-personalize-icon-label =
+    .title = Prilagodite nov zavihek
+    .aria-label = Prilagodite nov zacihek
 newtab-personalize-dialog-label =
     .aria-label = Prilagodi
 
@@ -39,7 +42,6 @@ newtab-search-box-search-the-web-input =
     .placeholder = Iskanje po spletu
     .title = Iskanje po spletu
     .aria-label = Iskanje po spletu
-newtab-search-box-text = Iskanje po spletu
 newtab-search-box-input =
     .placeholder = Iskanje po spletu
     .aria-label = Iskanje po spletu
