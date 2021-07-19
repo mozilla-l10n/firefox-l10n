@@ -11,6 +11,9 @@ newtab-settings-button =
 newtab-personalize-button-label = Անհատականացնել
     .title = Անհատականացնել նոր ներդիրը
     .aria-label = Անհատականացնել նոր ներդիրը
+newtab-personalize-icon-label =
+    .title = Անհատականացնել նոր ներդիրը
+    .aria-label = Անհատականացնել նոր ներդիրը
 newtab-personalize-dialog-label =
     .aria-label = Անհատականացնել
 
