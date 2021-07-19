@@ -11,6 +11,9 @@ newtab-settings-button =
 newtab-personalize-button-label = Tilpas
     .title = Tilpas nyt faneblad
     .aria-label = Tilpas nyt faneblad
+newtab-personalize-icon-label =
+    .title = Tilpas nyt faneblad
+    .aria-label = Tilpas nyt faneblad
 newtab-personalize-dialog-label =
     .aria-label = Tilpas
 
