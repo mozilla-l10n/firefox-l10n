@@ -1098,6 +1098,12 @@ permissions-block-popups =
 permissions-block-popups-exceptions =
     .label = 예외 목록…
     .accesskey = E
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button =
+    .label = 예외…
+    .accesskey = E
+    .searchkeywords = 팝업
 permissions-addon-install-warning =
     .label = 웹 사이트가 부가 기능을 설치하려 할 때 경고
     .accesskey = W

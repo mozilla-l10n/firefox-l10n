@@ -217,6 +217,8 @@ cert-not-verified-unknown = 알 수 없는 이유로 인증서를 확인할 수 
 send-no-client-certificate = 클라이언트 인증서를 보내지 않음
 # Used when no cert is stored for an override
 no-cert-stored-for-override = (저장 안 됨)
+# When a certificate is unavailable (for example, it has been deleted or the token it exists on has been removed).
+certificate-not-available = (사용할 수 없음)
 
 ## Used to show whether an override is temporary or permanent
 
