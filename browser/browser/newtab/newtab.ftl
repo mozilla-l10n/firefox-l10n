@@ -11,6 +11,9 @@ newtab-settings-button =
 newtab-personalize-button-label = Testreszabás
     .title = Új lap testreszabása
     .aria-label = Új lap testreszabása
+newtab-personalize-icon-label =
+    .title = Új lap testreszabása
+    .aria-label = Új lap testreszabása
 newtab-personalize-dialog-label =
     .aria-label = Testreszabás
 
