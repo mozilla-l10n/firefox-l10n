@@ -102,7 +102,6 @@ account-setup-step3-image =
     .title = Конфігурацію знайдено
 account-setup-step4-image =
     .title = Помилка з'єднання
-account-setup-privacy-footnote = Ваші облікові дані використовуватимуться згідно з нашою <a data-l10n-name="privacy-policy-link">політикою конфіденційності</a> та зберігатимуться лише локально на вашому комп’ютері.
 account-setup-step5-image =
     .title = Обліковий запис створено
 account-setup-privacy-footnote2 = Ваші облікові дані зберігатимуться лише локально на вашому комп’ютері.
@@ -132,7 +131,8 @@ account-setup-result-pop = POP3
 account-setup-result-pop-description = Зберігайте теки та електронні листи на комп’ютері
 # Note: Exchange is the name of a product.
 account-setup-result-exchange = Exchange
-account-setup-result-exchange-description = Сервер Microsoft Exchange
+# Note: Exchange, Office365 are the name of products.
+account-setup-result-exchange2-description = Користуйтеся сервером Microsoft Exchange або хмарними службами Office365
 account-setup-incoming-title = Вхідні
 account-setup-outgoing-title = Вихідні
 account-setup-username-title = Ім'я користувача
