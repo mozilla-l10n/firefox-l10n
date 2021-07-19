@@ -36,6 +36,13 @@ upgrade-dialog-pin-title =
         [macos] Behold { -brand-short-name } i din Dock
        *[other] Fastgør { -brand-short-name } til din proceslinje
     }
+# The English macOS string avoids repeating "Keep" a third time, so if your
+# translations don't repeat anyway, the same string can be used cross-platform.
+upgrade-dialog-pin-subtitle =
+    { PLATFORM() ->
+        [macos] Få nem adgang til den nyeste version af { -brand-short-name }.
+       *[other] Hold den nyeste version af { -brand-short-name } indenfor rækkevidde.
+    }
 upgrade-dialog-pin-primary-button =
     { PLATFORM() ->
         [macos] Behold i Dock
@@ -45,6 +52,9 @@ upgrade-dialog-pin-secondary-button = Ikke nu
 
 ## Default browser screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title-2 = Gør { -brand-short-name } til din standard-browser
+upgrade-dialog-default-subtitle-2 = Sæt hastighed, sikkerhed og privatlivsbeskyttelse på autopilot.
 upgrade-dialog-default-primary-button-2 = Angiv som standard-browser
 upgrade-dialog-default-secondary-button = Ikke nu
 

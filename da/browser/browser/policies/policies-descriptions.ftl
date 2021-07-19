@@ -116,3 +116,4 @@ policy-SupportMenu = Føj et tilpasset menupunkt til menuen Hjælp.
 policy-UserMessaging = Vis ikke bestemte beskeder til brugeren.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Bloker websteder fra at blive besøgt. Se dokumentationen for detaljer om formatet.
+policy-Windows10SSO = Tillad Windows enkeltlogon for Microsoft-, arbejds- og skole-konti.
