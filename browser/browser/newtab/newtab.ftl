@@ -11,13 +11,15 @@ newtab-settings-button =
 newtab-personalize-button-label = Personalizar
     .title = Personaliza «Llingüeta nueva»
     .aria-label = Personalizar «Llingüeta nueva»
+newtab-personalize-icon-label =
+    .title = Personaliza «Llingüeta nueva»
+    .aria-label = Personalizar «Llingüeta nueva»
 
 ## Search box component.
 
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = Busca con { $engine } o introduz una direición
-newtab-search-box-text = Buscar na web
 
 ## Top Sites - General form dialog.
 
