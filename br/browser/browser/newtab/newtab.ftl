@@ -11,6 +11,9 @@ newtab-settings-button =
 newtab-personalize-button-label = Personelaat
     .title = Personelaat un ivinell nevez
     .aria-label = Personelaat un ivinell nevez
+newtab-personalize-icon-label =
+    .title = Personelaat un ivinell nevez
+    .aria-label = Personelaat un ivinell nevez
 newtab-personalize-dialog-label =
     .aria-label = Personelaat
 
