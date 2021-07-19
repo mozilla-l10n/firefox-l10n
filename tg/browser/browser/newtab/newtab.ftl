@@ -11,6 +11,9 @@ newtab-settings-button =
 newtab-personalize-button-label = Танзимоти шахсӣ
     .title = Танзимоти шахсии варақаи нав
     .aria-label = Танзимоти шахсии варақаи нав
+newtab-personalize-icon-label =
+    .title = Танзимоти шахсии варақаи нав
+    .aria-label = Танзимоти шахсии варақаи нав
 newtab-personalize-dialog-label =
     .aria-label = Танзимоти шахсӣ
 
@@ -39,7 +42,6 @@ newtab-search-box-search-the-web-input =
     .placeholder = Ҷустуҷӯ дар Интернет
     .title = Ҷустуҷӯ дар Интернет
     .aria-label = Ҷустуҷӯ дар Интернет
-newtab-search-box-text = Ҷустуҷӯ дар Интернет
 newtab-search-box-input =
     .placeholder = Ҷустуҷӯ дар Интернет
     .aria-label = Ҷустуҷӯ дар Интернет
