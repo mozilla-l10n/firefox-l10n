@@ -861,6 +861,7 @@ forms-master-pw-fips-desc = Ændring af adgangskode mislykkedes
 forms-windows-sso =
     .label = Tillad Windows enkeltlogon for Microsoft-, arbejds- og skole-konti
 forms-windows-sso-learn-more-link = Læs mere
+forms-windows-sso-desc = Håndter konti i dine enhedsindstillinger
 
 ## OS Authentication dialog
 
